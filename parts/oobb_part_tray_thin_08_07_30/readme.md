@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ankle found
+  * bip 39 word 3: ankle found tunnel
+  * bip 39 word: ankle found tunnel wear annual harbor path marriage upon degree ski area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ankle |  
+| bip_39_word_new_br10 | ankle<br>found<br>tunnel<br>wear<br>annual<br>harbor<br>path<br>marriage<br>upon<br>degree |  
+| bip_39_word_new_br11 | ankle<br>found<br>tunnel<br>wear<br>annual<br>harbor<br>path<br>marriage<br>upon<br>degree<br>ski |  
+| bip_39_word_new_br12 | ankle<br>found<br>tunnel<br>wear<br>annual<br>harbor<br>path<br>marriage<br>upon<br>degree<br>ski<br>area |  
+| bip_39_word_new_br2 | ankle<br>found |  
+| bip_39_word_new_br3 | ankle<br>found<br>tunnel |  
+| bip_39_word_new_br4 | ankle<br>found<br>tunnel<br>wear |  
+| bip_39_word_new_br5 | ankle<br>found<br>tunnel<br>wear<br>annual |  
+| bip_39_word_new_br6 | ankle<br>found<br>tunnel<br>wear<br>annual<br>harbor |  
+| bip_39_word_new_br7 | ankle<br>found<br>tunnel<br>wear<br>annual<br>harbor<br>path |  
+| bip_39_word_new_br8 | ankle<br>found<br>tunnel<br>wear<br>annual<br>harbor<br>path<br>marriage |  
+| bip_39_word_new_br9 | ankle<br>found<br>tunnel<br>wear<br>annual<br>harbor<br>path<br>marriage<br>upon |  
+| bip_39_word_new_line1 | ankle |  
+| bip_39_word_new_line10 | ankle
+found
+tunnel
+wear
+annual
+harbor
+path
+marriage
+upon
+degree |  
+| bip_39_word_new_line11 | ankle
+found
+tunnel
+wear
+annual
+harbor
+path
+marriage
+upon
+degree
+ski |  
+| bip_39_word_new_line12 | ankle
+found
+tunnel
+wear
+annual
+harbor
+path
+marriage
+upon
+degree
+ski
+area |  
+| bip_39_word_new_line2 | ankle
+found |  
+| bip_39_word_new_line3 | ankle
+found
+tunnel |  
+| bip_39_word_new_line4 | ankle
+found
+tunnel
+wear |  
+| bip_39_word_new_line5 | ankle
+found
+tunnel
+wear
+annual |  
+| bip_39_word_new_line6 | ankle
+found
+tunnel
+wear
+annual
+harbor |  
+| bip_39_word_new_line7 | ankle
+found
+tunnel
+wear
+annual
+harbor
+path |  
+| bip_39_word_new_line8 | ankle
+found
+tunnel
+wear
+annual
+harbor
+path
+marriage |  
+| bip_39_word_new_line9 | ankle
+found
+tunnel
+wear
+annual
+harbor
+path
+marriage
+upon |  
+| bip_39_word_space_0 | ['ankle', 'found', 'tunnel', 'wear', 'annual', 'harbor', 'path', 'marriage', 'upon', 'degree', 'ski', 'area'] |  
+| bip_39_word_space_1 | ankle |  
+| bip_39_word_space_10 | ankle found tunnel wear annual harbor path marriage upon degree |  
+| bip_39_word_space_11 | ankle found tunnel wear annual harbor path marriage upon degree ski |  
+| bip_39_word_space_12 | ankle found tunnel wear annual harbor path marriage upon degree ski area |  
+| bip_39_word_space_2 | ankle found |  
+| bip_39_word_space_3 | ankle found tunnel |  
+| bip_39_word_space_4 | ankle found tunnel wear |  
+| bip_39_word_space_5 | ankle found tunnel wear annual |  
+| bip_39_word_space_6 | ankle found tunnel wear annual harbor |  
+| bip_39_word_space_7 | ankle found tunnel wear annual harbor path |  
+| bip_39_word_space_8 | ankle found tunnel wear annual harbor path marriage |  
+| bip_39_word_space_9 | ankle found tunnel wear annual harbor path marriage upon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

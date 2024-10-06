@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: column carry
+  * bip 39 word 3: column carry wink
+  * bip 39 word: column carry wink about car glory history pretty toilet hello cool airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | column |  
+| bip_39_word_new_br10 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello |  
+| bip_39_word_new_br11 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello<br>cool |  
+| bip_39_word_new_br12 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet<br>hello<br>cool<br>airport |  
+| bip_39_word_new_br2 | column<br>carry |  
+| bip_39_word_new_br3 | column<br>carry<br>wink |  
+| bip_39_word_new_br4 | column<br>carry<br>wink<br>about |  
+| bip_39_word_new_br5 | column<br>carry<br>wink<br>about<br>car |  
+| bip_39_word_new_br6 | column<br>carry<br>wink<br>about<br>car<br>glory |  
+| bip_39_word_new_br7 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history |  
+| bip_39_word_new_br8 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty |  
+| bip_39_word_new_br9 | column<br>carry<br>wink<br>about<br>car<br>glory<br>history<br>pretty<br>toilet |  
+| bip_39_word_new_line1 | column |  
+| bip_39_word_new_line10 | column
+carry
+wink
+about
+car
+glory
+history
+pretty
+toilet
+hello |  
+| bip_39_word_new_line11 | column
+carry
+wink
+about
+car
+glory
+history
+pretty
+toilet
+hello
+cool |  
+| bip_39_word_new_line12 | column
+carry
+wink
+about
+car
+glory
+history
+pretty
+toilet
+hello
+cool
+airport |  
+| bip_39_word_new_line2 | column
+carry |  
+| bip_39_word_new_line3 | column
+carry
+wink |  
+| bip_39_word_new_line4 | column
+carry
+wink
+about |  
+| bip_39_word_new_line5 | column
+carry
+wink
+about
+car |  
+| bip_39_word_new_line6 | column
+carry
+wink
+about
+car
+glory |  
+| bip_39_word_new_line7 | column
+carry
+wink
+about
+car
+glory
+history |  
+| bip_39_word_new_line8 | column
+carry
+wink
+about
+car
+glory
+history
+pretty |  
+| bip_39_word_new_line9 | column
+carry
+wink
+about
+car
+glory
+history
+pretty
+toilet |  
+| bip_39_word_space_0 | ['column', 'carry', 'wink', 'about', 'car', 'glory', 'history', 'pretty', 'toilet', 'hello', 'cool', 'airport'] |  
+| bip_39_word_space_1 | column |  
+| bip_39_word_space_10 | column carry wink about car glory history pretty toilet hello |  
+| bip_39_word_space_11 | column carry wink about car glory history pretty toilet hello cool |  
+| bip_39_word_space_12 | column carry wink about car glory history pretty toilet hello cool airport |  
+| bip_39_word_space_2 | column carry |  
+| bip_39_word_space_3 | column carry wink |  
+| bip_39_word_space_4 | column carry wink about |  
+| bip_39_word_space_5 | column carry wink about car |  
+| bip_39_word_space_6 | column carry wink about car glory |  
+| bip_39_word_space_7 | column carry wink about car glory history |  
+| bip_39_word_space_8 | column carry wink about car glory history pretty |  
+| bip_39_word_space_9 | column carry wink about car glory history pretty toilet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

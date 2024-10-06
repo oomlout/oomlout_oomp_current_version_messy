@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ethics ill
+  * bip 39 word 3: ethics ill cube
+  * bip 39 word: ethics ill cube post leaf beyond country fitness vital ready truly again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ethics |  
+| bip_39_word_new_br10 | ethics<br>ill<br>cube<br>post<br>leaf<br>beyond<br>country<br>fitness<br>vital<br>ready |  
+| bip_39_word_new_br11 | ethics<br>ill<br>cube<br>post<br>leaf<br>beyond<br>country<br>fitness<br>vital<br>ready<br>truly |  
+| bip_39_word_new_br12 | ethics<br>ill<br>cube<br>post<br>leaf<br>beyond<br>country<br>fitness<br>vital<br>ready<br>truly<br>again |  
+| bip_39_word_new_br2 | ethics<br>ill |  
+| bip_39_word_new_br3 | ethics<br>ill<br>cube |  
+| bip_39_word_new_br4 | ethics<br>ill<br>cube<br>post |  
+| bip_39_word_new_br5 | ethics<br>ill<br>cube<br>post<br>leaf |  
+| bip_39_word_new_br6 | ethics<br>ill<br>cube<br>post<br>leaf<br>beyond |  
+| bip_39_word_new_br7 | ethics<br>ill<br>cube<br>post<br>leaf<br>beyond<br>country |  
+| bip_39_word_new_br8 | ethics<br>ill<br>cube<br>post<br>leaf<br>beyond<br>country<br>fitness |  
+| bip_39_word_new_br9 | ethics<br>ill<br>cube<br>post<br>leaf<br>beyond<br>country<br>fitness<br>vital |  
+| bip_39_word_new_line1 | ethics |  
+| bip_39_word_new_line10 | ethics
+ill
+cube
+post
+leaf
+beyond
+country
+fitness
+vital
+ready |  
+| bip_39_word_new_line11 | ethics
+ill
+cube
+post
+leaf
+beyond
+country
+fitness
+vital
+ready
+truly |  
+| bip_39_word_new_line12 | ethics
+ill
+cube
+post
+leaf
+beyond
+country
+fitness
+vital
+ready
+truly
+again |  
+| bip_39_word_new_line2 | ethics
+ill |  
+| bip_39_word_new_line3 | ethics
+ill
+cube |  
+| bip_39_word_new_line4 | ethics
+ill
+cube
+post |  
+| bip_39_word_new_line5 | ethics
+ill
+cube
+post
+leaf |  
+| bip_39_word_new_line6 | ethics
+ill
+cube
+post
+leaf
+beyond |  
+| bip_39_word_new_line7 | ethics
+ill
+cube
+post
+leaf
+beyond
+country |  
+| bip_39_word_new_line8 | ethics
+ill
+cube
+post
+leaf
+beyond
+country
+fitness |  
+| bip_39_word_new_line9 | ethics
+ill
+cube
+post
+leaf
+beyond
+country
+fitness
+vital |  
+| bip_39_word_space_0 | ['ethics', 'ill', 'cube', 'post', 'leaf', 'beyond', 'country', 'fitness', 'vital', 'ready', 'truly', 'again'] |  
+| bip_39_word_space_1 | ethics |  
+| bip_39_word_space_10 | ethics ill cube post leaf beyond country fitness vital ready |  
+| bip_39_word_space_11 | ethics ill cube post leaf beyond country fitness vital ready truly |  
+| bip_39_word_space_12 | ethics ill cube post leaf beyond country fitness vital ready truly again |  
+| bip_39_word_space_2 | ethics ill |  
+| bip_39_word_space_3 | ethics ill cube |  
+| bip_39_word_space_4 | ethics ill cube post |  
+| bip_39_word_space_5 | ethics ill cube post leaf |  
+| bip_39_word_space_6 | ethics ill cube post leaf beyond |  
+| bip_39_word_space_7 | ethics ill cube post leaf beyond country |  
+| bip_39_word_space_8 | ethics ill cube post leaf beyond country fitness |  
+| bip_39_word_space_9 | ethics ill cube post leaf beyond country fitness vital |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

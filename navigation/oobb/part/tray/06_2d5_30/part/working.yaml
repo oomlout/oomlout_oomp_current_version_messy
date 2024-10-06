@@ -1,3 +1,187 @@
+bip_39_word_new_br1: inspire
+bip_39_word_new_br10: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid
+bip_39_word_new_br11: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid<br>mass
+bip_39_word_new_br12: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue<br>afraid<br>mass<br>antenna
+bip_39_word_new_br2: inspire<br>comfort
+bip_39_word_new_br3: inspire<br>comfort<br>wrestle
+bip_39_word_new_br4: inspire<br>comfort<br>wrestle<br>promote
+bip_39_word_new_br5: inspire<br>comfort<br>wrestle<br>promote<br>grid
+bip_39_word_new_br6: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault
+bip_39_word_new_br7: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only
+bip_39_word_new_br8: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape
+bip_39_word_new_br9: inspire<br>comfort<br>wrestle<br>promote<br>grid<br>assault<br>only<br>tape<br>fatigue
+bip_39_word_new_line1: inspire
+bip_39_word_new_line10: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote
+
+  grid
+
+  assault
+
+  only
+
+  tape
+
+  fatigue
+
+  afraid'
+bip_39_word_new_line11: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote
+
+  grid
+
+  assault
+
+  only
+
+  tape
+
+  fatigue
+
+  afraid
+
+  mass'
+bip_39_word_new_line12: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote
+
+  grid
+
+  assault
+
+  only
+
+  tape
+
+  fatigue
+
+  afraid
+
+  mass
+
+  antenna'
+bip_39_word_new_line2: 'inspire
+
+  comfort'
+bip_39_word_new_line3: 'inspire
+
+  comfort
+
+  wrestle'
+bip_39_word_new_line4: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote'
+bip_39_word_new_line5: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote
+
+  grid'
+bip_39_word_new_line6: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote
+
+  grid
+
+  assault'
+bip_39_word_new_line7: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote
+
+  grid
+
+  assault
+
+  only'
+bip_39_word_new_line8: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote
+
+  grid
+
+  assault
+
+  only
+
+  tape'
+bip_39_word_new_line9: 'inspire
+
+  comfort
+
+  wrestle
+
+  promote
+
+  grid
+
+  assault
+
+  only
+
+  tape
+
+  fatigue'
+bip_39_word_space_0:
+- inspire
+- comfort
+- wrestle
+- promote
+- grid
+- assault
+- only
+- tape
+- fatigue
+- afraid
+- mass
+- antenna
+bip_39_word_space_1: inspire
+bip_39_word_space_10: inspire comfort wrestle promote grid assault only tape fatigue
+  afraid
+bip_39_word_space_11: inspire comfort wrestle promote grid assault only tape fatigue
+  afraid mass
+bip_39_word_space_12: inspire comfort wrestle promote grid assault only tape fatigue
+  afraid mass antenna
+bip_39_word_space_2: inspire comfort
+bip_39_word_space_3: inspire comfort wrestle
+bip_39_word_space_4: inspire comfort wrestle promote
+bip_39_word_space_5: inspire comfort wrestle promote grid
+bip_39_word_space_6: inspire comfort wrestle promote grid assault
+bip_39_word_space_7: inspire comfort wrestle promote grid assault only
+bip_39_word_space_8: inspire comfort wrestle promote grid assault only tape
+bip_39_word_space_9: inspire comfort wrestle promote grid assault only tape fatigue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ski coil
+  * bip 39 word 3: ski coil human
+  * bip 39 word: ski coil human crater orient rigid peasant head tenant figure virus abuse
 
 ### other_codes
 * short_code: br6917
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ski |  
+| bip_39_word_new_br10 | ski<br>coil<br>human<br>crater<br>orient<br>rigid<br>peasant<br>head<br>tenant<br>figure |  
+| bip_39_word_new_br11 | ski<br>coil<br>human<br>crater<br>orient<br>rigid<br>peasant<br>head<br>tenant<br>figure<br>virus |  
+| bip_39_word_new_br12 | ski<br>coil<br>human<br>crater<br>orient<br>rigid<br>peasant<br>head<br>tenant<br>figure<br>virus<br>abuse |  
+| bip_39_word_new_br2 | ski<br>coil |  
+| bip_39_word_new_br3 | ski<br>coil<br>human |  
+| bip_39_word_new_br4 | ski<br>coil<br>human<br>crater |  
+| bip_39_word_new_br5 | ski<br>coil<br>human<br>crater<br>orient |  
+| bip_39_word_new_br6 | ski<br>coil<br>human<br>crater<br>orient<br>rigid |  
+| bip_39_word_new_br7 | ski<br>coil<br>human<br>crater<br>orient<br>rigid<br>peasant |  
+| bip_39_word_new_br8 | ski<br>coil<br>human<br>crater<br>orient<br>rigid<br>peasant<br>head |  
+| bip_39_word_new_br9 | ski<br>coil<br>human<br>crater<br>orient<br>rigid<br>peasant<br>head<br>tenant |  
+| bip_39_word_new_line1 | ski |  
+| bip_39_word_new_line10 | ski
+coil
+human
+crater
+orient
+rigid
+peasant
+head
+tenant
+figure |  
+| bip_39_word_new_line11 | ski
+coil
+human
+crater
+orient
+rigid
+peasant
+head
+tenant
+figure
+virus |  
+| bip_39_word_new_line12 | ski
+coil
+human
+crater
+orient
+rigid
+peasant
+head
+tenant
+figure
+virus
+abuse |  
+| bip_39_word_new_line2 | ski
+coil |  
+| bip_39_word_new_line3 | ski
+coil
+human |  
+| bip_39_word_new_line4 | ski
+coil
+human
+crater |  
+| bip_39_word_new_line5 | ski
+coil
+human
+crater
+orient |  
+| bip_39_word_new_line6 | ski
+coil
+human
+crater
+orient
+rigid |  
+| bip_39_word_new_line7 | ski
+coil
+human
+crater
+orient
+rigid
+peasant |  
+| bip_39_word_new_line8 | ski
+coil
+human
+crater
+orient
+rigid
+peasant
+head |  
+| bip_39_word_new_line9 | ski
+coil
+human
+crater
+orient
+rigid
+peasant
+head
+tenant |  
+| bip_39_word_space_0 | ['ski', 'coil', 'human', 'crater', 'orient', 'rigid', 'peasant', 'head', 'tenant', 'figure', 'virus', 'abuse'] |  
+| bip_39_word_space_1 | ski |  
+| bip_39_word_space_10 | ski coil human crater orient rigid peasant head tenant figure |  
+| bip_39_word_space_11 | ski coil human crater orient rigid peasant head tenant figure virus |  
+| bip_39_word_space_12 | ski coil human crater orient rigid peasant head tenant figure virus abuse |  
+| bip_39_word_space_2 | ski coil |  
+| bip_39_word_space_3 | ski coil human |  
+| bip_39_word_space_4 | ski coil human crater |  
+| bip_39_word_space_5 | ski coil human crater orient |  
+| bip_39_word_space_6 | ski coil human crater orient rigid |  
+| bip_39_word_space_7 | ski coil human crater orient rigid peasant |  
+| bip_39_word_space_8 | ski coil human crater orient rigid peasant head |  
+| bip_39_word_space_9 | ski coil human crater orient rigid peasant head tenant |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mom
+bip_39_word_new_br10: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh
+bip_39_word_new_br11: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh<br>asset
+bip_39_word_new_br12: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real<br>laugh<br>asset<br>album
+bip_39_word_new_br2: mom<br>uniform
+bip_39_word_new_br3: mom<br>uniform<br>acoustic
+bip_39_word_new_br4: mom<br>uniform<br>acoustic<br>lawsuit
+bip_39_word_new_br5: mom<br>uniform<br>acoustic<br>lawsuit<br>gate
+bip_39_word_new_br6: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee
+bip_39_word_new_br7: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide
+bip_39_word_new_br8: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find
+bip_39_word_new_br9: mom<br>uniform<br>acoustic<br>lawsuit<br>gate<br>flee<br>guide<br>find<br>real
+bip_39_word_new_line1: mom
+bip_39_word_new_line10: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit
+
+  gate
+
+  flee
+
+  guide
+
+  find
+
+  real
+
+  laugh'
+bip_39_word_new_line11: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit
+
+  gate
+
+  flee
+
+  guide
+
+  find
+
+  real
+
+  laugh
+
+  asset'
+bip_39_word_new_line12: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit
+
+  gate
+
+  flee
+
+  guide
+
+  find
+
+  real
+
+  laugh
+
+  asset
+
+  album'
+bip_39_word_new_line2: 'mom
+
+  uniform'
+bip_39_word_new_line3: 'mom
+
+  uniform
+
+  acoustic'
+bip_39_word_new_line4: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit'
+bip_39_word_new_line5: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit
+
+  gate'
+bip_39_word_new_line6: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit
+
+  gate
+
+  flee'
+bip_39_word_new_line7: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit
+
+  gate
+
+  flee
+
+  guide'
+bip_39_word_new_line8: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit
+
+  gate
+
+  flee
+
+  guide
+
+  find'
+bip_39_word_new_line9: 'mom
+
+  uniform
+
+  acoustic
+
+  lawsuit
+
+  gate
+
+  flee
+
+  guide
+
+  find
+
+  real'
+bip_39_word_space_0:
+- mom
+- uniform
+- acoustic
+- lawsuit
+- gate
+- flee
+- guide
+- find
+- real
+- laugh
+- asset
+- album
+bip_39_word_space_1: mom
+bip_39_word_space_10: mom uniform acoustic lawsuit gate flee guide find real laugh
+bip_39_word_space_11: mom uniform acoustic lawsuit gate flee guide find real laugh
+  asset
+bip_39_word_space_12: mom uniform acoustic lawsuit gate flee guide find real laugh
+  asset album
+bip_39_word_space_2: mom uniform
+bip_39_word_space_3: mom uniform acoustic
+bip_39_word_space_4: mom uniform acoustic lawsuit
+bip_39_word_space_5: mom uniform acoustic lawsuit gate
+bip_39_word_space_6: mom uniform acoustic lawsuit gate flee
+bip_39_word_space_7: mom uniform acoustic lawsuit gate flee guide
+bip_39_word_space_8: mom uniform acoustic lawsuit gate flee guide find
+bip_39_word_space_9: mom uniform acoustic lawsuit gate flee guide find real
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

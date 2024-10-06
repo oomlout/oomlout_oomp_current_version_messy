@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: town zero
+  * bip 39 word 3: town zero tomorrow
+  * bip 39 word: town zero tomorrow victory weekend message stage merry fish stick near arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | town |  
+| bip_39_word_new_br10 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message<br>stage<br>merry<br>fish<br>stick |  
+| bip_39_word_new_br11 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message<br>stage<br>merry<br>fish<br>stick<br>near |  
+| bip_39_word_new_br12 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message<br>stage<br>merry<br>fish<br>stick<br>near<br>arena |  
+| bip_39_word_new_br2 | town<br>zero |  
+| bip_39_word_new_br3 | town<br>zero<br>tomorrow |  
+| bip_39_word_new_br4 | town<br>zero<br>tomorrow<br>victory |  
+| bip_39_word_new_br5 | town<br>zero<br>tomorrow<br>victory<br>weekend |  
+| bip_39_word_new_br6 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message |  
+| bip_39_word_new_br7 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message<br>stage |  
+| bip_39_word_new_br8 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message<br>stage<br>merry |  
+| bip_39_word_new_br9 | town<br>zero<br>tomorrow<br>victory<br>weekend<br>message<br>stage<br>merry<br>fish |  
+| bip_39_word_new_line1 | town |  
+| bip_39_word_new_line10 | town
+zero
+tomorrow
+victory
+weekend
+message
+stage
+merry
+fish
+stick |  
+| bip_39_word_new_line11 | town
+zero
+tomorrow
+victory
+weekend
+message
+stage
+merry
+fish
+stick
+near |  
+| bip_39_word_new_line12 | town
+zero
+tomorrow
+victory
+weekend
+message
+stage
+merry
+fish
+stick
+near
+arena |  
+| bip_39_word_new_line2 | town
+zero |  
+| bip_39_word_new_line3 | town
+zero
+tomorrow |  
+| bip_39_word_new_line4 | town
+zero
+tomorrow
+victory |  
+| bip_39_word_new_line5 | town
+zero
+tomorrow
+victory
+weekend |  
+| bip_39_word_new_line6 | town
+zero
+tomorrow
+victory
+weekend
+message |  
+| bip_39_word_new_line7 | town
+zero
+tomorrow
+victory
+weekend
+message
+stage |  
+| bip_39_word_new_line8 | town
+zero
+tomorrow
+victory
+weekend
+message
+stage
+merry |  
+| bip_39_word_new_line9 | town
+zero
+tomorrow
+victory
+weekend
+message
+stage
+merry
+fish |  
+| bip_39_word_space_0 | ['town', 'zero', 'tomorrow', 'victory', 'weekend', 'message', 'stage', 'merry', 'fish', 'stick', 'near', 'arena'] |  
+| bip_39_word_space_1 | town |  
+| bip_39_word_space_10 | town zero tomorrow victory weekend message stage merry fish stick |  
+| bip_39_word_space_11 | town zero tomorrow victory weekend message stage merry fish stick near |  
+| bip_39_word_space_12 | town zero tomorrow victory weekend message stage merry fish stick near arena |  
+| bip_39_word_space_2 | town zero |  
+| bip_39_word_space_3 | town zero tomorrow |  
+| bip_39_word_space_4 | town zero tomorrow victory |  
+| bip_39_word_space_5 | town zero tomorrow victory weekend |  
+| bip_39_word_space_6 | town zero tomorrow victory weekend message |  
+| bip_39_word_space_7 | town zero tomorrow victory weekend message stage |  
+| bip_39_word_space_8 | town zero tomorrow victory weekend message stage merry |  
+| bip_39_word_space_9 | town zero tomorrow victory weekend message stage merry fish |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

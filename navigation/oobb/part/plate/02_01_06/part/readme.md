@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: true invite
+  * bip 39 word 3: true invite cost
+  * bip 39 word: true invite cost tower mutual rabbit copper raven jelly cushion silly afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | true |  
+| bip_39_word_new_br10 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion |  
+| bip_39_word_new_br11 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion<br>silly |  
+| bip_39_word_new_br12 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly<br>cushion<br>silly<br>afraid |  
+| bip_39_word_new_br2 | true<br>invite |  
+| bip_39_word_new_br3 | true<br>invite<br>cost |  
+| bip_39_word_new_br4 | true<br>invite<br>cost<br>tower |  
+| bip_39_word_new_br5 | true<br>invite<br>cost<br>tower<br>mutual |  
+| bip_39_word_new_br6 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit |  
+| bip_39_word_new_br7 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper |  
+| bip_39_word_new_br8 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven |  
+| bip_39_word_new_br9 | true<br>invite<br>cost<br>tower<br>mutual<br>rabbit<br>copper<br>raven<br>jelly |  
+| bip_39_word_new_line1 | true |  
+| bip_39_word_new_line10 | true
+invite
+cost
+tower
+mutual
+rabbit
+copper
+raven
+jelly
+cushion |  
+| bip_39_word_new_line11 | true
+invite
+cost
+tower
+mutual
+rabbit
+copper
+raven
+jelly
+cushion
+silly |  
+| bip_39_word_new_line12 | true
+invite
+cost
+tower
+mutual
+rabbit
+copper
+raven
+jelly
+cushion
+silly
+afraid |  
+| bip_39_word_new_line2 | true
+invite |  
+| bip_39_word_new_line3 | true
+invite
+cost |  
+| bip_39_word_new_line4 | true
+invite
+cost
+tower |  
+| bip_39_word_new_line5 | true
+invite
+cost
+tower
+mutual |  
+| bip_39_word_new_line6 | true
+invite
+cost
+tower
+mutual
+rabbit |  
+| bip_39_word_new_line7 | true
+invite
+cost
+tower
+mutual
+rabbit
+copper |  
+| bip_39_word_new_line8 | true
+invite
+cost
+tower
+mutual
+rabbit
+copper
+raven |  
+| bip_39_word_new_line9 | true
+invite
+cost
+tower
+mutual
+rabbit
+copper
+raven
+jelly |  
+| bip_39_word_space_0 | ['true', 'invite', 'cost', 'tower', 'mutual', 'rabbit', 'copper', 'raven', 'jelly', 'cushion', 'silly', 'afraid'] |  
+| bip_39_word_space_1 | true |  
+| bip_39_word_space_10 | true invite cost tower mutual rabbit copper raven jelly cushion |  
+| bip_39_word_space_11 | true invite cost tower mutual rabbit copper raven jelly cushion silly |  
+| bip_39_word_space_12 | true invite cost tower mutual rabbit copper raven jelly cushion silly afraid |  
+| bip_39_word_space_2 | true invite |  
+| bip_39_word_space_3 | true invite cost |  
+| bip_39_word_space_4 | true invite cost tower |  
+| bip_39_word_space_5 | true invite cost tower mutual |  
+| bip_39_word_space_6 | true invite cost tower mutual rabbit |  
+| bip_39_word_space_7 | true invite cost tower mutual rabbit copper |  
+| bip_39_word_space_8 | true invite cost tower mutual rabbit copper raven |  
+| bip_39_word_space_9 | true invite cost tower mutual rabbit copper raven jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

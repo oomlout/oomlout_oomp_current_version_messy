@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nothing nature
+  * bip 39 word 3: nothing nature plate
+  * bip 39 word: nothing nature plate region stamp fine pony police zoo old movie airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nothing |  
+| bip_39_word_new_br10 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine<br>pony<br>police<br>zoo<br>old |  
+| bip_39_word_new_br11 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine<br>pony<br>police<br>zoo<br>old<br>movie |  
+| bip_39_word_new_br12 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine<br>pony<br>police<br>zoo<br>old<br>movie<br>airport |  
+| bip_39_word_new_br2 | nothing<br>nature |  
+| bip_39_word_new_br3 | nothing<br>nature<br>plate |  
+| bip_39_word_new_br4 | nothing<br>nature<br>plate<br>region |  
+| bip_39_word_new_br5 | nothing<br>nature<br>plate<br>region<br>stamp |  
+| bip_39_word_new_br6 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine |  
+| bip_39_word_new_br7 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine<br>pony |  
+| bip_39_word_new_br8 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine<br>pony<br>police |  
+| bip_39_word_new_br9 | nothing<br>nature<br>plate<br>region<br>stamp<br>fine<br>pony<br>police<br>zoo |  
+| bip_39_word_new_line1 | nothing |  
+| bip_39_word_new_line10 | nothing
+nature
+plate
+region
+stamp
+fine
+pony
+police
+zoo
+old |  
+| bip_39_word_new_line11 | nothing
+nature
+plate
+region
+stamp
+fine
+pony
+police
+zoo
+old
+movie |  
+| bip_39_word_new_line12 | nothing
+nature
+plate
+region
+stamp
+fine
+pony
+police
+zoo
+old
+movie
+airport |  
+| bip_39_word_new_line2 | nothing
+nature |  
+| bip_39_word_new_line3 | nothing
+nature
+plate |  
+| bip_39_word_new_line4 | nothing
+nature
+plate
+region |  
+| bip_39_word_new_line5 | nothing
+nature
+plate
+region
+stamp |  
+| bip_39_word_new_line6 | nothing
+nature
+plate
+region
+stamp
+fine |  
+| bip_39_word_new_line7 | nothing
+nature
+plate
+region
+stamp
+fine
+pony |  
+| bip_39_word_new_line8 | nothing
+nature
+plate
+region
+stamp
+fine
+pony
+police |  
+| bip_39_word_new_line9 | nothing
+nature
+plate
+region
+stamp
+fine
+pony
+police
+zoo |  
+| bip_39_word_space_0 | ['nothing', 'nature', 'plate', 'region', 'stamp', 'fine', 'pony', 'police', 'zoo', 'old', 'movie', 'airport'] |  
+| bip_39_word_space_1 | nothing |  
+| bip_39_word_space_10 | nothing nature plate region stamp fine pony police zoo old |  
+| bip_39_word_space_11 | nothing nature plate region stamp fine pony police zoo old movie |  
+| bip_39_word_space_12 | nothing nature plate region stamp fine pony police zoo old movie airport |  
+| bip_39_word_space_2 | nothing nature |  
+| bip_39_word_space_3 | nothing nature plate |  
+| bip_39_word_space_4 | nothing nature plate region |  
+| bip_39_word_space_5 | nothing nature plate region stamp |  
+| bip_39_word_space_6 | nothing nature plate region stamp fine |  
+| bip_39_word_space_7 | nothing nature plate region stamp fine pony |  
+| bip_39_word_space_8 | nothing nature plate region stamp fine pony police |  
+| bip_39_word_space_9 | nothing nature plate region stamp fine pony police zoo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

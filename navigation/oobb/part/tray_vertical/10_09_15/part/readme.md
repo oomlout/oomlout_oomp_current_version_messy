@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: volcano satoshi
+  * bip 39 word 3: volcano satoshi trick
+  * bip 39 word: volcano satoshi trick brief repair crouch romance law trust jeans mobile alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | volcano |  
+| bip_39_word_new_br10 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans |  
+| bip_39_word_new_br11 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans<br>mobile |  
+| bip_39_word_new_br12 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust<br>jeans<br>mobile<br>alpha |  
+| bip_39_word_new_br2 | volcano<br>satoshi |  
+| bip_39_word_new_br3 | volcano<br>satoshi<br>trick |  
+| bip_39_word_new_br4 | volcano<br>satoshi<br>trick<br>brief |  
+| bip_39_word_new_br5 | volcano<br>satoshi<br>trick<br>brief<br>repair |  
+| bip_39_word_new_br6 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch |  
+| bip_39_word_new_br7 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance |  
+| bip_39_word_new_br8 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law |  
+| bip_39_word_new_br9 | volcano<br>satoshi<br>trick<br>brief<br>repair<br>crouch<br>romance<br>law<br>trust |  
+| bip_39_word_new_line1 | volcano |  
+| bip_39_word_new_line10 | volcano
+satoshi
+trick
+brief
+repair
+crouch
+romance
+law
+trust
+jeans |  
+| bip_39_word_new_line11 | volcano
+satoshi
+trick
+brief
+repair
+crouch
+romance
+law
+trust
+jeans
+mobile |  
+| bip_39_word_new_line12 | volcano
+satoshi
+trick
+brief
+repair
+crouch
+romance
+law
+trust
+jeans
+mobile
+alpha |  
+| bip_39_word_new_line2 | volcano
+satoshi |  
+| bip_39_word_new_line3 | volcano
+satoshi
+trick |  
+| bip_39_word_new_line4 | volcano
+satoshi
+trick
+brief |  
+| bip_39_word_new_line5 | volcano
+satoshi
+trick
+brief
+repair |  
+| bip_39_word_new_line6 | volcano
+satoshi
+trick
+brief
+repair
+crouch |  
+| bip_39_word_new_line7 | volcano
+satoshi
+trick
+brief
+repair
+crouch
+romance |  
+| bip_39_word_new_line8 | volcano
+satoshi
+trick
+brief
+repair
+crouch
+romance
+law |  
+| bip_39_word_new_line9 | volcano
+satoshi
+trick
+brief
+repair
+crouch
+romance
+law
+trust |  
+| bip_39_word_space_0 | ['volcano', 'satoshi', 'trick', 'brief', 'repair', 'crouch', 'romance', 'law', 'trust', 'jeans', 'mobile', 'alpha'] |  
+| bip_39_word_space_1 | volcano |  
+| bip_39_word_space_10 | volcano satoshi trick brief repair crouch romance law trust jeans |  
+| bip_39_word_space_11 | volcano satoshi trick brief repair crouch romance law trust jeans mobile |  
+| bip_39_word_space_12 | volcano satoshi trick brief repair crouch romance law trust jeans mobile alpha |  
+| bip_39_word_space_2 | volcano satoshi |  
+| bip_39_word_space_3 | volcano satoshi trick |  
+| bip_39_word_space_4 | volcano satoshi trick brief |  
+| bip_39_word_space_5 | volcano satoshi trick brief repair |  
+| bip_39_word_space_6 | volcano satoshi trick brief repair crouch |  
+| bip_39_word_space_7 | volcano satoshi trick brief repair crouch romance |  
+| bip_39_word_space_8 | volcano satoshi trick brief repair crouch romance law |  
+| bip_39_word_space_9 | volcano satoshi trick brief repair crouch romance law trust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

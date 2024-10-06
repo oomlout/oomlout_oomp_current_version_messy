@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shell cheap
+  * bip 39 word 3: shell cheap hunt
+  * bip 39 word: shell cheap hunt economy kitchen hungry script palace pig post impose attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shell |  
+| bip_39_word_new_br10 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry<br>script<br>palace<br>pig<br>post |  
+| bip_39_word_new_br11 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry<br>script<br>palace<br>pig<br>post<br>impose |  
+| bip_39_word_new_br12 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry<br>script<br>palace<br>pig<br>post<br>impose<br>attract |  
+| bip_39_word_new_br2 | shell<br>cheap |  
+| bip_39_word_new_br3 | shell<br>cheap<br>hunt |  
+| bip_39_word_new_br4 | shell<br>cheap<br>hunt<br>economy |  
+| bip_39_word_new_br5 | shell<br>cheap<br>hunt<br>economy<br>kitchen |  
+| bip_39_word_new_br6 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry |  
+| bip_39_word_new_br7 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry<br>script |  
+| bip_39_word_new_br8 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry<br>script<br>palace |  
+| bip_39_word_new_br9 | shell<br>cheap<br>hunt<br>economy<br>kitchen<br>hungry<br>script<br>palace<br>pig |  
+| bip_39_word_new_line1 | shell |  
+| bip_39_word_new_line10 | shell
+cheap
+hunt
+economy
+kitchen
+hungry
+script
+palace
+pig
+post |  
+| bip_39_word_new_line11 | shell
+cheap
+hunt
+economy
+kitchen
+hungry
+script
+palace
+pig
+post
+impose |  
+| bip_39_word_new_line12 | shell
+cheap
+hunt
+economy
+kitchen
+hungry
+script
+palace
+pig
+post
+impose
+attract |  
+| bip_39_word_new_line2 | shell
+cheap |  
+| bip_39_word_new_line3 | shell
+cheap
+hunt |  
+| bip_39_word_new_line4 | shell
+cheap
+hunt
+economy |  
+| bip_39_word_new_line5 | shell
+cheap
+hunt
+economy
+kitchen |  
+| bip_39_word_new_line6 | shell
+cheap
+hunt
+economy
+kitchen
+hungry |  
+| bip_39_word_new_line7 | shell
+cheap
+hunt
+economy
+kitchen
+hungry
+script |  
+| bip_39_word_new_line8 | shell
+cheap
+hunt
+economy
+kitchen
+hungry
+script
+palace |  
+| bip_39_word_new_line9 | shell
+cheap
+hunt
+economy
+kitchen
+hungry
+script
+palace
+pig |  
+| bip_39_word_space_0 | ['shell', 'cheap', 'hunt', 'economy', 'kitchen', 'hungry', 'script', 'palace', 'pig', 'post', 'impose', 'attract'] |  
+| bip_39_word_space_1 | shell |  
+| bip_39_word_space_10 | shell cheap hunt economy kitchen hungry script palace pig post |  
+| bip_39_word_space_11 | shell cheap hunt economy kitchen hungry script palace pig post impose |  
+| bip_39_word_space_12 | shell cheap hunt economy kitchen hungry script palace pig post impose attract |  
+| bip_39_word_space_2 | shell cheap |  
+| bip_39_word_space_3 | shell cheap hunt |  
+| bip_39_word_space_4 | shell cheap hunt economy |  
+| bip_39_word_space_5 | shell cheap hunt economy kitchen |  
+| bip_39_word_space_6 | shell cheap hunt economy kitchen hungry |  
+| bip_39_word_space_7 | shell cheap hunt economy kitchen hungry script |  
+| bip_39_word_space_8 | shell cheap hunt economy kitchen hungry script palace |  
+| bip_39_word_space_9 | shell cheap hunt economy kitchen hungry script palace pig |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rhythm arrange
+  * bip 39 word 3: rhythm arrange control
+  * bip 39 word: rhythm arrange control anxiety demise treat truck action comfort measure stock autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rhythm |  
+| bip_39_word_new_br10 | rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action<br>comfort<br>measure |  
+| bip_39_word_new_br11 | rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action<br>comfort<br>measure<br>stock |  
+| bip_39_word_new_br12 | rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action<br>comfort<br>measure<br>stock<br>autumn |  
+| bip_39_word_new_br2 | rhythm<br>arrange |  
+| bip_39_word_new_br3 | rhythm<br>arrange<br>control |  
+| bip_39_word_new_br4 | rhythm<br>arrange<br>control<br>anxiety |  
+| bip_39_word_new_br5 | rhythm<br>arrange<br>control<br>anxiety<br>demise |  
+| bip_39_word_new_br6 | rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat |  
+| bip_39_word_new_br7 | rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck |  
+| bip_39_word_new_br8 | rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action |  
+| bip_39_word_new_br9 | rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action<br>comfort |  
+| bip_39_word_new_line1 | rhythm |  
+| bip_39_word_new_line10 | rhythm
+arrange
+control
+anxiety
+demise
+treat
+truck
+action
+comfort
+measure |  
+| bip_39_word_new_line11 | rhythm
+arrange
+control
+anxiety
+demise
+treat
+truck
+action
+comfort
+measure
+stock |  
+| bip_39_word_new_line12 | rhythm
+arrange
+control
+anxiety
+demise
+treat
+truck
+action
+comfort
+measure
+stock
+autumn |  
+| bip_39_word_new_line2 | rhythm
+arrange |  
+| bip_39_word_new_line3 | rhythm
+arrange
+control |  
+| bip_39_word_new_line4 | rhythm
+arrange
+control
+anxiety |  
+| bip_39_word_new_line5 | rhythm
+arrange
+control
+anxiety
+demise |  
+| bip_39_word_new_line6 | rhythm
+arrange
+control
+anxiety
+demise
+treat |  
+| bip_39_word_new_line7 | rhythm
+arrange
+control
+anxiety
+demise
+treat
+truck |  
+| bip_39_word_new_line8 | rhythm
+arrange
+control
+anxiety
+demise
+treat
+truck
+action |  
+| bip_39_word_new_line9 | rhythm
+arrange
+control
+anxiety
+demise
+treat
+truck
+action
+comfort |  
+| bip_39_word_space_0 | ['rhythm', 'arrange', 'control', 'anxiety', 'demise', 'treat', 'truck', 'action', 'comfort', 'measure', 'stock', 'autumn'] |  
+| bip_39_word_space_1 | rhythm |  
+| bip_39_word_space_10 | rhythm arrange control anxiety demise treat truck action comfort measure |  
+| bip_39_word_space_11 | rhythm arrange control anxiety demise treat truck action comfort measure stock |  
+| bip_39_word_space_12 | rhythm arrange control anxiety demise treat truck action comfort measure stock autumn |  
+| bip_39_word_space_2 | rhythm arrange |  
+| bip_39_word_space_3 | rhythm arrange control |  
+| bip_39_word_space_4 | rhythm arrange control anxiety |  
+| bip_39_word_space_5 | rhythm arrange control anxiety demise |  
+| bip_39_word_space_6 | rhythm arrange control anxiety demise treat |  
+| bip_39_word_space_7 | rhythm arrange control anxiety demise treat truck |  
+| bip_39_word_space_8 | rhythm arrange control anxiety demise treat truck action |  
+| bip_39_word_space_9 | rhythm arrange control anxiety demise treat truck action comfort |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

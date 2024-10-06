@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: office elite
+  * bip 39 word 3: office elite off
+  * bip 39 word: office elite off erupt retreat brother turkey goose rail settle supreme alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | office |  
+| bip_39_word_new_br10 | office<br>elite<br>off<br>erupt<br>retreat<br>brother<br>turkey<br>goose<br>rail<br>settle |  
+| bip_39_word_new_br11 | office<br>elite<br>off<br>erupt<br>retreat<br>brother<br>turkey<br>goose<br>rail<br>settle<br>supreme |  
+| bip_39_word_new_br12 | office<br>elite<br>off<br>erupt<br>retreat<br>brother<br>turkey<br>goose<br>rail<br>settle<br>supreme<br>alpha |  
+| bip_39_word_new_br2 | office<br>elite |  
+| bip_39_word_new_br3 | office<br>elite<br>off |  
+| bip_39_word_new_br4 | office<br>elite<br>off<br>erupt |  
+| bip_39_word_new_br5 | office<br>elite<br>off<br>erupt<br>retreat |  
+| bip_39_word_new_br6 | office<br>elite<br>off<br>erupt<br>retreat<br>brother |  
+| bip_39_word_new_br7 | office<br>elite<br>off<br>erupt<br>retreat<br>brother<br>turkey |  
+| bip_39_word_new_br8 | office<br>elite<br>off<br>erupt<br>retreat<br>brother<br>turkey<br>goose |  
+| bip_39_word_new_br9 | office<br>elite<br>off<br>erupt<br>retreat<br>brother<br>turkey<br>goose<br>rail |  
+| bip_39_word_new_line1 | office |  
+| bip_39_word_new_line10 | office
+elite
+off
+erupt
+retreat
+brother
+turkey
+goose
+rail
+settle |  
+| bip_39_word_new_line11 | office
+elite
+off
+erupt
+retreat
+brother
+turkey
+goose
+rail
+settle
+supreme |  
+| bip_39_word_new_line12 | office
+elite
+off
+erupt
+retreat
+brother
+turkey
+goose
+rail
+settle
+supreme
+alpha |  
+| bip_39_word_new_line2 | office
+elite |  
+| bip_39_word_new_line3 | office
+elite
+off |  
+| bip_39_word_new_line4 | office
+elite
+off
+erupt |  
+| bip_39_word_new_line5 | office
+elite
+off
+erupt
+retreat |  
+| bip_39_word_new_line6 | office
+elite
+off
+erupt
+retreat
+brother |  
+| bip_39_word_new_line7 | office
+elite
+off
+erupt
+retreat
+brother
+turkey |  
+| bip_39_word_new_line8 | office
+elite
+off
+erupt
+retreat
+brother
+turkey
+goose |  
+| bip_39_word_new_line9 | office
+elite
+off
+erupt
+retreat
+brother
+turkey
+goose
+rail |  
+| bip_39_word_space_0 | ['office', 'elite', 'off', 'erupt', 'retreat', 'brother', 'turkey', 'goose', 'rail', 'settle', 'supreme', 'alpha'] |  
+| bip_39_word_space_1 | office |  
+| bip_39_word_space_10 | office elite off erupt retreat brother turkey goose rail settle |  
+| bip_39_word_space_11 | office elite off erupt retreat brother turkey goose rail settle supreme |  
+| bip_39_word_space_12 | office elite off erupt retreat brother turkey goose rail settle supreme alpha |  
+| bip_39_word_space_2 | office elite |  
+| bip_39_word_space_3 | office elite off |  
+| bip_39_word_space_4 | office elite off erupt |  
+| bip_39_word_space_5 | office elite off erupt retreat |  
+| bip_39_word_space_6 | office elite off erupt retreat brother |  
+| bip_39_word_space_7 | office elite off erupt retreat brother turkey |  
+| bip_39_word_space_8 | office elite off erupt retreat brother turkey goose |  
+| bip_39_word_space_9 | office elite off erupt retreat brother turkey goose rail |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

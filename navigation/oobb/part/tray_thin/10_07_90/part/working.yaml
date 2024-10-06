@@ -1,3 +1,186 @@
+bip_39_word_new_br1: catalog
+bip_39_word_new_br10: catalog<br>eager<br>involve<br>jacket<br>secret<br>into<br>loop<br>mad<br>trust<br>mixture
+bip_39_word_new_br11: catalog<br>eager<br>involve<br>jacket<br>secret<br>into<br>loop<br>mad<br>trust<br>mixture<br>confirm
+bip_39_word_new_br12: catalog<br>eager<br>involve<br>jacket<br>secret<br>into<br>loop<br>mad<br>trust<br>mixture<br>confirm<br>abstract
+bip_39_word_new_br2: catalog<br>eager
+bip_39_word_new_br3: catalog<br>eager<br>involve
+bip_39_word_new_br4: catalog<br>eager<br>involve<br>jacket
+bip_39_word_new_br5: catalog<br>eager<br>involve<br>jacket<br>secret
+bip_39_word_new_br6: catalog<br>eager<br>involve<br>jacket<br>secret<br>into
+bip_39_word_new_br7: catalog<br>eager<br>involve<br>jacket<br>secret<br>into<br>loop
+bip_39_word_new_br8: catalog<br>eager<br>involve<br>jacket<br>secret<br>into<br>loop<br>mad
+bip_39_word_new_br9: catalog<br>eager<br>involve<br>jacket<br>secret<br>into<br>loop<br>mad<br>trust
+bip_39_word_new_line1: catalog
+bip_39_word_new_line10: 'catalog
+
+  eager
+
+  involve
+
+  jacket
+
+  secret
+
+  into
+
+  loop
+
+  mad
+
+  trust
+
+  mixture'
+bip_39_word_new_line11: 'catalog
+
+  eager
+
+  involve
+
+  jacket
+
+  secret
+
+  into
+
+  loop
+
+  mad
+
+  trust
+
+  mixture
+
+  confirm'
+bip_39_word_new_line12: 'catalog
+
+  eager
+
+  involve
+
+  jacket
+
+  secret
+
+  into
+
+  loop
+
+  mad
+
+  trust
+
+  mixture
+
+  confirm
+
+  abstract'
+bip_39_word_new_line2: 'catalog
+
+  eager'
+bip_39_word_new_line3: 'catalog
+
+  eager
+
+  involve'
+bip_39_word_new_line4: 'catalog
+
+  eager
+
+  involve
+
+  jacket'
+bip_39_word_new_line5: 'catalog
+
+  eager
+
+  involve
+
+  jacket
+
+  secret'
+bip_39_word_new_line6: 'catalog
+
+  eager
+
+  involve
+
+  jacket
+
+  secret
+
+  into'
+bip_39_word_new_line7: 'catalog
+
+  eager
+
+  involve
+
+  jacket
+
+  secret
+
+  into
+
+  loop'
+bip_39_word_new_line8: 'catalog
+
+  eager
+
+  involve
+
+  jacket
+
+  secret
+
+  into
+
+  loop
+
+  mad'
+bip_39_word_new_line9: 'catalog
+
+  eager
+
+  involve
+
+  jacket
+
+  secret
+
+  into
+
+  loop
+
+  mad
+
+  trust'
+bip_39_word_space_0:
+- catalog
+- eager
+- involve
+- jacket
+- secret
+- into
+- loop
+- mad
+- trust
+- mixture
+- confirm
+- abstract
+bip_39_word_space_1: catalog
+bip_39_word_space_10: catalog eager involve jacket secret into loop mad trust mixture
+bip_39_word_space_11: catalog eager involve jacket secret into loop mad trust mixture
+  confirm
+bip_39_word_space_12: catalog eager involve jacket secret into loop mad trust mixture
+  confirm abstract
+bip_39_word_space_2: catalog eager
+bip_39_word_space_3: catalog eager involve
+bip_39_word_space_4: catalog eager involve jacket
+bip_39_word_space_5: catalog eager involve jacket secret
+bip_39_word_space_6: catalog eager involve jacket secret into
+bip_39_word_space_7: catalog eager involve jacket secret into loop
+bip_39_word_space_8: catalog eager involve jacket secret into loop mad
+bip_39_word_space_9: catalog eager involve jacket secret into loop mad trust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

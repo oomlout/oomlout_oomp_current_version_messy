@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: history marine
+  * bip 39 word 3: history marine build
+  * bip 39 word: history marine build next milk scene bracket captain outside yellow evil attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | history |  
+| bip_39_word_new_br10 | history<br>marine<br>build<br>next<br>milk<br>scene<br>bracket<br>captain<br>outside<br>yellow |  
+| bip_39_word_new_br11 | history<br>marine<br>build<br>next<br>milk<br>scene<br>bracket<br>captain<br>outside<br>yellow<br>evil |  
+| bip_39_word_new_br12 | history<br>marine<br>build<br>next<br>milk<br>scene<br>bracket<br>captain<br>outside<br>yellow<br>evil<br>attend |  
+| bip_39_word_new_br2 | history<br>marine |  
+| bip_39_word_new_br3 | history<br>marine<br>build |  
+| bip_39_word_new_br4 | history<br>marine<br>build<br>next |  
+| bip_39_word_new_br5 | history<br>marine<br>build<br>next<br>milk |  
+| bip_39_word_new_br6 | history<br>marine<br>build<br>next<br>milk<br>scene |  
+| bip_39_word_new_br7 | history<br>marine<br>build<br>next<br>milk<br>scene<br>bracket |  
+| bip_39_word_new_br8 | history<br>marine<br>build<br>next<br>milk<br>scene<br>bracket<br>captain |  
+| bip_39_word_new_br9 | history<br>marine<br>build<br>next<br>milk<br>scene<br>bracket<br>captain<br>outside |  
+| bip_39_word_new_line1 | history |  
+| bip_39_word_new_line10 | history
+marine
+build
+next
+milk
+scene
+bracket
+captain
+outside
+yellow |  
+| bip_39_word_new_line11 | history
+marine
+build
+next
+milk
+scene
+bracket
+captain
+outside
+yellow
+evil |  
+| bip_39_word_new_line12 | history
+marine
+build
+next
+milk
+scene
+bracket
+captain
+outside
+yellow
+evil
+attend |  
+| bip_39_word_new_line2 | history
+marine |  
+| bip_39_word_new_line3 | history
+marine
+build |  
+| bip_39_word_new_line4 | history
+marine
+build
+next |  
+| bip_39_word_new_line5 | history
+marine
+build
+next
+milk |  
+| bip_39_word_new_line6 | history
+marine
+build
+next
+milk
+scene |  
+| bip_39_word_new_line7 | history
+marine
+build
+next
+milk
+scene
+bracket |  
+| bip_39_word_new_line8 | history
+marine
+build
+next
+milk
+scene
+bracket
+captain |  
+| bip_39_word_new_line9 | history
+marine
+build
+next
+milk
+scene
+bracket
+captain
+outside |  
+| bip_39_word_space_0 | ['history', 'marine', 'build', 'next', 'milk', 'scene', 'bracket', 'captain', 'outside', 'yellow', 'evil', 'attend'] |  
+| bip_39_word_space_1 | history |  
+| bip_39_word_space_10 | history marine build next milk scene bracket captain outside yellow |  
+| bip_39_word_space_11 | history marine build next milk scene bracket captain outside yellow evil |  
+| bip_39_word_space_12 | history marine build next milk scene bracket captain outside yellow evil attend |  
+| bip_39_word_space_2 | history marine |  
+| bip_39_word_space_3 | history marine build |  
+| bip_39_word_space_4 | history marine build next |  
+| bip_39_word_space_5 | history marine build next milk |  
+| bip_39_word_space_6 | history marine build next milk scene |  
+| bip_39_word_space_7 | history marine build next milk scene bracket |  
+| bip_39_word_space_8 | history marine build next milk scene bracket captain |  
+| bip_39_word_space_9 | history marine build next milk scene bracket captain outside |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

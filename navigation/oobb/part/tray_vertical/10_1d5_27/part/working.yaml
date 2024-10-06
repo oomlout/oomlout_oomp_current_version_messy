@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lottery
+bip_39_word_new_br10: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit
+bip_39_word_new_br11: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit<br>black
+bip_39_word_new_br12: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa<br>unit<br>black<br>answer
+bip_39_word_new_br2: lottery<br>receive
+bip_39_word_new_br3: lottery<br>receive<br>palm
+bip_39_word_new_br4: lottery<br>receive<br>palm<br>hand
+bip_39_word_new_br5: lottery<br>receive<br>palm<br>hand<br>divorce
+bip_39_word_new_br6: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot
+bip_39_word_new_br7: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert
+bip_39_word_new_br8: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle
+bip_39_word_new_br9: lottery<br>receive<br>palm<br>hand<br>divorce<br>spot<br>concert<br>aisle<br>visa
+bip_39_word_new_line1: lottery
+bip_39_word_new_line10: 'lottery
+
+  receive
+
+  palm
+
+  hand
+
+  divorce
+
+  spot
+
+  concert
+
+  aisle
+
+  visa
+
+  unit'
+bip_39_word_new_line11: 'lottery
+
+  receive
+
+  palm
+
+  hand
+
+  divorce
+
+  spot
+
+  concert
+
+  aisle
+
+  visa
+
+  unit
+
+  black'
+bip_39_word_new_line12: 'lottery
+
+  receive
+
+  palm
+
+  hand
+
+  divorce
+
+  spot
+
+  concert
+
+  aisle
+
+  visa
+
+  unit
+
+  black
+
+  answer'
+bip_39_word_new_line2: 'lottery
+
+  receive'
+bip_39_word_new_line3: 'lottery
+
+  receive
+
+  palm'
+bip_39_word_new_line4: 'lottery
+
+  receive
+
+  palm
+
+  hand'
+bip_39_word_new_line5: 'lottery
+
+  receive
+
+  palm
+
+  hand
+
+  divorce'
+bip_39_word_new_line6: 'lottery
+
+  receive
+
+  palm
+
+  hand
+
+  divorce
+
+  spot'
+bip_39_word_new_line7: 'lottery
+
+  receive
+
+  palm
+
+  hand
+
+  divorce
+
+  spot
+
+  concert'
+bip_39_word_new_line8: 'lottery
+
+  receive
+
+  palm
+
+  hand
+
+  divorce
+
+  spot
+
+  concert
+
+  aisle'
+bip_39_word_new_line9: 'lottery
+
+  receive
+
+  palm
+
+  hand
+
+  divorce
+
+  spot
+
+  concert
+
+  aisle
+
+  visa'
+bip_39_word_space_0:
+- lottery
+- receive
+- palm
+- hand
+- divorce
+- spot
+- concert
+- aisle
+- visa
+- unit
+- black
+- answer
+bip_39_word_space_1: lottery
+bip_39_word_space_10: lottery receive palm hand divorce spot concert aisle visa unit
+bip_39_word_space_11: lottery receive palm hand divorce spot concert aisle visa unit
+  black
+bip_39_word_space_12: lottery receive palm hand divorce spot concert aisle visa unit
+  black answer
+bip_39_word_space_2: lottery receive
+bip_39_word_space_3: lottery receive palm
+bip_39_word_space_4: lottery receive palm hand
+bip_39_word_space_5: lottery receive palm hand divorce
+bip_39_word_space_6: lottery receive palm hand divorce spot
+bip_39_word_space_7: lottery receive palm hand divorce spot concert
+bip_39_word_space_8: lottery receive palm hand divorce spot concert aisle
+bip_39_word_space_9: lottery receive palm hand divorce spot concert aisle visa
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

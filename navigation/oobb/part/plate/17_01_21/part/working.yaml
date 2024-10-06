@@ -1,3 +1,186 @@
+bip_39_word_new_br1: twice
+bip_39_word_new_br10: twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot
+bip_39_word_new_br11: twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot<br>kid
+bip_39_word_new_br12: twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount<br>shoot<br>kid<br>approve
+bip_39_word_new_br2: twice<br>daring
+bip_39_word_new_br3: twice<br>daring<br>step
+bip_39_word_new_br4: twice<br>daring<br>step<br>mimic
+bip_39_word_new_br5: twice<br>daring<br>step<br>mimic<br>science
+bip_39_word_new_br6: twice<br>daring<br>step<br>mimic<br>science<br>bench
+bip_39_word_new_br7: twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end
+bip_39_word_new_br8: twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace
+bip_39_word_new_br9: twice<br>daring<br>step<br>mimic<br>science<br>bench<br>end<br>palace<br>amount
+bip_39_word_new_line1: twice
+bip_39_word_new_line10: 'twice
+
+  daring
+
+  step
+
+  mimic
+
+  science
+
+  bench
+
+  end
+
+  palace
+
+  amount
+
+  shoot'
+bip_39_word_new_line11: 'twice
+
+  daring
+
+  step
+
+  mimic
+
+  science
+
+  bench
+
+  end
+
+  palace
+
+  amount
+
+  shoot
+
+  kid'
+bip_39_word_new_line12: 'twice
+
+  daring
+
+  step
+
+  mimic
+
+  science
+
+  bench
+
+  end
+
+  palace
+
+  amount
+
+  shoot
+
+  kid
+
+  approve'
+bip_39_word_new_line2: 'twice
+
+  daring'
+bip_39_word_new_line3: 'twice
+
+  daring
+
+  step'
+bip_39_word_new_line4: 'twice
+
+  daring
+
+  step
+
+  mimic'
+bip_39_word_new_line5: 'twice
+
+  daring
+
+  step
+
+  mimic
+
+  science'
+bip_39_word_new_line6: 'twice
+
+  daring
+
+  step
+
+  mimic
+
+  science
+
+  bench'
+bip_39_word_new_line7: 'twice
+
+  daring
+
+  step
+
+  mimic
+
+  science
+
+  bench
+
+  end'
+bip_39_word_new_line8: 'twice
+
+  daring
+
+  step
+
+  mimic
+
+  science
+
+  bench
+
+  end
+
+  palace'
+bip_39_word_new_line9: 'twice
+
+  daring
+
+  step
+
+  mimic
+
+  science
+
+  bench
+
+  end
+
+  palace
+
+  amount'
+bip_39_word_space_0:
+- twice
+- daring
+- step
+- mimic
+- science
+- bench
+- end
+- palace
+- amount
+- shoot
+- kid
+- approve
+bip_39_word_space_1: twice
+bip_39_word_space_10: twice daring step mimic science bench end palace amount shoot
+bip_39_word_space_11: twice daring step mimic science bench end palace amount shoot
+  kid
+bip_39_word_space_12: twice daring step mimic science bench end palace amount shoot
+  kid approve
+bip_39_word_space_2: twice daring
+bip_39_word_space_3: twice daring step
+bip_39_word_space_4: twice daring step mimic
+bip_39_word_space_5: twice daring step mimic science
+bip_39_word_space_6: twice daring step mimic science bench
+bip_39_word_space_7: twice daring step mimic science bench end
+bip_39_word_space_8: twice daring step mimic science bench end palace
+bip_39_word_space_9: twice daring step mimic science bench end palace amount
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

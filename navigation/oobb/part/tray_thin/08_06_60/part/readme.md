@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: afraid brave
+  * bip 39 word 3: afraid brave dash
+  * bip 39 word: afraid brave dash cereal off shoot alert noble whip gauge real absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | afraid |  
+| bip_39_word_new_br10 | afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge |  
+| bip_39_word_new_br11 | afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge<br>real |  
+| bip_39_word_new_br12 | afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip<br>gauge<br>real<br>absent |  
+| bip_39_word_new_br2 | afraid<br>brave |  
+| bip_39_word_new_br3 | afraid<br>brave<br>dash |  
+| bip_39_word_new_br4 | afraid<br>brave<br>dash<br>cereal |  
+| bip_39_word_new_br5 | afraid<br>brave<br>dash<br>cereal<br>off |  
+| bip_39_word_new_br6 | afraid<br>brave<br>dash<br>cereal<br>off<br>shoot |  
+| bip_39_word_new_br7 | afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert |  
+| bip_39_word_new_br8 | afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble |  
+| bip_39_word_new_br9 | afraid<br>brave<br>dash<br>cereal<br>off<br>shoot<br>alert<br>noble<br>whip |  
+| bip_39_word_new_line1 | afraid |  
+| bip_39_word_new_line10 | afraid
+brave
+dash
+cereal
+off
+shoot
+alert
+noble
+whip
+gauge |  
+| bip_39_word_new_line11 | afraid
+brave
+dash
+cereal
+off
+shoot
+alert
+noble
+whip
+gauge
+real |  
+| bip_39_word_new_line12 | afraid
+brave
+dash
+cereal
+off
+shoot
+alert
+noble
+whip
+gauge
+real
+absent |  
+| bip_39_word_new_line2 | afraid
+brave |  
+| bip_39_word_new_line3 | afraid
+brave
+dash |  
+| bip_39_word_new_line4 | afraid
+brave
+dash
+cereal |  
+| bip_39_word_new_line5 | afraid
+brave
+dash
+cereal
+off |  
+| bip_39_word_new_line6 | afraid
+brave
+dash
+cereal
+off
+shoot |  
+| bip_39_word_new_line7 | afraid
+brave
+dash
+cereal
+off
+shoot
+alert |  
+| bip_39_word_new_line8 | afraid
+brave
+dash
+cereal
+off
+shoot
+alert
+noble |  
+| bip_39_word_new_line9 | afraid
+brave
+dash
+cereal
+off
+shoot
+alert
+noble
+whip |  
+| bip_39_word_space_0 | ['afraid', 'brave', 'dash', 'cereal', 'off', 'shoot', 'alert', 'noble', 'whip', 'gauge', 'real', 'absent'] |  
+| bip_39_word_space_1 | afraid |  
+| bip_39_word_space_10 | afraid brave dash cereal off shoot alert noble whip gauge |  
+| bip_39_word_space_11 | afraid brave dash cereal off shoot alert noble whip gauge real |  
+| bip_39_word_space_12 | afraid brave dash cereal off shoot alert noble whip gauge real absent |  
+| bip_39_word_space_2 | afraid brave |  
+| bip_39_word_space_3 | afraid brave dash |  
+| bip_39_word_space_4 | afraid brave dash cereal |  
+| bip_39_word_space_5 | afraid brave dash cereal off |  
+| bip_39_word_space_6 | afraid brave dash cereal off shoot |  
+| bip_39_word_space_7 | afraid brave dash cereal off shoot alert |  
+| bip_39_word_space_8 | afraid brave dash cereal off shoot alert noble |  
+| bip_39_word_space_9 | afraid brave dash cereal off shoot alert noble whip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pole reveal
+  * bip 39 word 3: pole reveal broccoli
+  * bip 39 word: pole reveal broccoli quality good patch tiny custom venue canyon steak attack
 
 ### other_codes
 * short_code: br6902
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pole |  
+| bip_39_word_new_br10 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon |  
+| bip_39_word_new_br11 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon<br>steak |  
+| bip_39_word_new_br12 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue<br>canyon<br>steak<br>attack |  
+| bip_39_word_new_br2 | pole<br>reveal |  
+| bip_39_word_new_br3 | pole<br>reveal<br>broccoli |  
+| bip_39_word_new_br4 | pole<br>reveal<br>broccoli<br>quality |  
+| bip_39_word_new_br5 | pole<br>reveal<br>broccoli<br>quality<br>good |  
+| bip_39_word_new_br6 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch |  
+| bip_39_word_new_br7 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny |  
+| bip_39_word_new_br8 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom |  
+| bip_39_word_new_br9 | pole<br>reveal<br>broccoli<br>quality<br>good<br>patch<br>tiny<br>custom<br>venue |  
+| bip_39_word_new_line1 | pole |  
+| bip_39_word_new_line10 | pole
+reveal
+broccoli
+quality
+good
+patch
+tiny
+custom
+venue
+canyon |  
+| bip_39_word_new_line11 | pole
+reveal
+broccoli
+quality
+good
+patch
+tiny
+custom
+venue
+canyon
+steak |  
+| bip_39_word_new_line12 | pole
+reveal
+broccoli
+quality
+good
+patch
+tiny
+custom
+venue
+canyon
+steak
+attack |  
+| bip_39_word_new_line2 | pole
+reveal |  
+| bip_39_word_new_line3 | pole
+reveal
+broccoli |  
+| bip_39_word_new_line4 | pole
+reveal
+broccoli
+quality |  
+| bip_39_word_new_line5 | pole
+reveal
+broccoli
+quality
+good |  
+| bip_39_word_new_line6 | pole
+reveal
+broccoli
+quality
+good
+patch |  
+| bip_39_word_new_line7 | pole
+reveal
+broccoli
+quality
+good
+patch
+tiny |  
+| bip_39_word_new_line8 | pole
+reveal
+broccoli
+quality
+good
+patch
+tiny
+custom |  
+| bip_39_word_new_line9 | pole
+reveal
+broccoli
+quality
+good
+patch
+tiny
+custom
+venue |  
+| bip_39_word_space_0 | ['pole', 'reveal', 'broccoli', 'quality', 'good', 'patch', 'tiny', 'custom', 'venue', 'canyon', 'steak', 'attack'] |  
+| bip_39_word_space_1 | pole |  
+| bip_39_word_space_10 | pole reveal broccoli quality good patch tiny custom venue canyon |  
+| bip_39_word_space_11 | pole reveal broccoli quality good patch tiny custom venue canyon steak |  
+| bip_39_word_space_12 | pole reveal broccoli quality good patch tiny custom venue canyon steak attack |  
+| bip_39_word_space_2 | pole reveal |  
+| bip_39_word_space_3 | pole reveal broccoli |  
+| bip_39_word_space_4 | pole reveal broccoli quality |  
+| bip_39_word_space_5 | pole reveal broccoli quality good |  
+| bip_39_word_space_6 | pole reveal broccoli quality good patch |  
+| bip_39_word_space_7 | pole reveal broccoli quality good patch tiny |  
+| bip_39_word_space_8 | pole reveal broccoli quality good patch tiny custom |  
+| bip_39_word_space_9 | pole reveal broccoli quality good patch tiny custom venue |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

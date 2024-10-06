@@ -1,3 +1,186 @@
+bip_39_word_new_br1: water
+bip_39_word_new_br10: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother
+bip_39_word_new_br11: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother<br>despair
+bip_39_word_new_br12: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed<br>mother<br>despair<br>aspect
+bip_39_word_new_br2: water<br>clump
+bip_39_word_new_br3: water<br>clump<br>soda
+bip_39_word_new_br4: water<br>clump<br>soda<br>drama
+bip_39_word_new_br5: water<br>clump<br>soda<br>drama<br>wrong
+bip_39_word_new_br6: water<br>clump<br>soda<br>drama<br>wrong<br>negative
+bip_39_word_new_br7: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic
+bip_39_word_new_br8: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden
+bip_39_word_new_br9: water<br>clump<br>soda<br>drama<br>wrong<br>negative<br>logic<br>burden<br>shed
+bip_39_word_new_line1: water
+bip_39_word_new_line10: 'water
+
+  clump
+
+  soda
+
+  drama
+
+  wrong
+
+  negative
+
+  logic
+
+  burden
+
+  shed
+
+  mother'
+bip_39_word_new_line11: 'water
+
+  clump
+
+  soda
+
+  drama
+
+  wrong
+
+  negative
+
+  logic
+
+  burden
+
+  shed
+
+  mother
+
+  despair'
+bip_39_word_new_line12: 'water
+
+  clump
+
+  soda
+
+  drama
+
+  wrong
+
+  negative
+
+  logic
+
+  burden
+
+  shed
+
+  mother
+
+  despair
+
+  aspect'
+bip_39_word_new_line2: 'water
+
+  clump'
+bip_39_word_new_line3: 'water
+
+  clump
+
+  soda'
+bip_39_word_new_line4: 'water
+
+  clump
+
+  soda
+
+  drama'
+bip_39_word_new_line5: 'water
+
+  clump
+
+  soda
+
+  drama
+
+  wrong'
+bip_39_word_new_line6: 'water
+
+  clump
+
+  soda
+
+  drama
+
+  wrong
+
+  negative'
+bip_39_word_new_line7: 'water
+
+  clump
+
+  soda
+
+  drama
+
+  wrong
+
+  negative
+
+  logic'
+bip_39_word_new_line8: 'water
+
+  clump
+
+  soda
+
+  drama
+
+  wrong
+
+  negative
+
+  logic
+
+  burden'
+bip_39_word_new_line9: 'water
+
+  clump
+
+  soda
+
+  drama
+
+  wrong
+
+  negative
+
+  logic
+
+  burden
+
+  shed'
+bip_39_word_space_0:
+- water
+- clump
+- soda
+- drama
+- wrong
+- negative
+- logic
+- burden
+- shed
+- mother
+- despair
+- aspect
+bip_39_word_space_1: water
+bip_39_word_space_10: water clump soda drama wrong negative logic burden shed mother
+bip_39_word_space_11: water clump soda drama wrong negative logic burden shed mother
+  despair
+bip_39_word_space_12: water clump soda drama wrong negative logic burden shed mother
+  despair aspect
+bip_39_word_space_2: water clump
+bip_39_word_space_3: water clump soda
+bip_39_word_space_4: water clump soda drama
+bip_39_word_space_5: water clump soda drama wrong
+bip_39_word_space_6: water clump soda drama wrong negative
+bip_39_word_space_7: water clump soda drama wrong negative logic
+bip_39_word_space_8: water clump soda drama wrong negative logic burden
+bip_39_word_space_9: water clump soda drama wrong negative logic burden shed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

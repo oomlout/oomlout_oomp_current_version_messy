@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: midnight glance
+  * bip 39 word 3: midnight glance denial
+  * bip 39 word: midnight glance denial brave brain waste mix account energy defy indicate aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | midnight |  
+| bip_39_word_new_br10 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy |  
+| bip_39_word_new_br11 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate |  
+| bip_39_word_new_br12 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate<br>aunt |  
+| bip_39_word_new_br2 | midnight<br>glance |  
+| bip_39_word_new_br3 | midnight<br>glance<br>denial |  
+| bip_39_word_new_br4 | midnight<br>glance<br>denial<br>brave |  
+| bip_39_word_new_br5 | midnight<br>glance<br>denial<br>brave<br>brain |  
+| bip_39_word_new_br6 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste |  
+| bip_39_word_new_br7 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix |  
+| bip_39_word_new_br8 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account |  
+| bip_39_word_new_br9 | midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy |  
+| bip_39_word_new_line1 | midnight |  
+| bip_39_word_new_line10 | midnight
+glance
+denial
+brave
+brain
+waste
+mix
+account
+energy
+defy |  
+| bip_39_word_new_line11 | midnight
+glance
+denial
+brave
+brain
+waste
+mix
+account
+energy
+defy
+indicate |  
+| bip_39_word_new_line12 | midnight
+glance
+denial
+brave
+brain
+waste
+mix
+account
+energy
+defy
+indicate
+aunt |  
+| bip_39_word_new_line2 | midnight
+glance |  
+| bip_39_word_new_line3 | midnight
+glance
+denial |  
+| bip_39_word_new_line4 | midnight
+glance
+denial
+brave |  
+| bip_39_word_new_line5 | midnight
+glance
+denial
+brave
+brain |  
+| bip_39_word_new_line6 | midnight
+glance
+denial
+brave
+brain
+waste |  
+| bip_39_word_new_line7 | midnight
+glance
+denial
+brave
+brain
+waste
+mix |  
+| bip_39_word_new_line8 | midnight
+glance
+denial
+brave
+brain
+waste
+mix
+account |  
+| bip_39_word_new_line9 | midnight
+glance
+denial
+brave
+brain
+waste
+mix
+account
+energy |  
+| bip_39_word_space_0 | ['midnight', 'glance', 'denial', 'brave', 'brain', 'waste', 'mix', 'account', 'energy', 'defy', 'indicate', 'aunt'] |  
+| bip_39_word_space_1 | midnight |  
+| bip_39_word_space_10 | midnight glance denial brave brain waste mix account energy defy |  
+| bip_39_word_space_11 | midnight glance denial brave brain waste mix account energy defy indicate |  
+| bip_39_word_space_12 | midnight glance denial brave brain waste mix account energy defy indicate aunt |  
+| bip_39_word_space_2 | midnight glance |  
+| bip_39_word_space_3 | midnight glance denial |  
+| bip_39_word_space_4 | midnight glance denial brave |  
+| bip_39_word_space_5 | midnight glance denial brave brain |  
+| bip_39_word_space_6 | midnight glance denial brave brain waste |  
+| bip_39_word_space_7 | midnight glance denial brave brain waste mix |  
+| bip_39_word_space_8 | midnight glance denial brave brain waste mix account |  
+| bip_39_word_space_9 | midnight glance denial brave brain waste mix account energy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

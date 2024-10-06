@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: depth business
+  * bip 39 word 3: depth business blanket
+  * bip 39 word: depth business blanket start index mechanic become knife abuse magnet robust addict
 
 ### other_codes
 * short_code: cs2bz8pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | depth |  
+| bip_39_word_new_br10 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet |  
+| bip_39_word_new_br11 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet<br>robust |  
+| bip_39_word_new_br12 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse<br>magnet<br>robust<br>addict |  
+| bip_39_word_new_br2 | depth<br>business |  
+| bip_39_word_new_br3 | depth<br>business<br>blanket |  
+| bip_39_word_new_br4 | depth<br>business<br>blanket<br>start |  
+| bip_39_word_new_br5 | depth<br>business<br>blanket<br>start<br>index |  
+| bip_39_word_new_br6 | depth<br>business<br>blanket<br>start<br>index<br>mechanic |  
+| bip_39_word_new_br7 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become |  
+| bip_39_word_new_br8 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife |  
+| bip_39_word_new_br9 | depth<br>business<br>blanket<br>start<br>index<br>mechanic<br>become<br>knife<br>abuse |  
+| bip_39_word_new_line1 | depth |  
+| bip_39_word_new_line10 | depth
+business
+blanket
+start
+index
+mechanic
+become
+knife
+abuse
+magnet |  
+| bip_39_word_new_line11 | depth
+business
+blanket
+start
+index
+mechanic
+become
+knife
+abuse
+magnet
+robust |  
+| bip_39_word_new_line12 | depth
+business
+blanket
+start
+index
+mechanic
+become
+knife
+abuse
+magnet
+robust
+addict |  
+| bip_39_word_new_line2 | depth
+business |  
+| bip_39_word_new_line3 | depth
+business
+blanket |  
+| bip_39_word_new_line4 | depth
+business
+blanket
+start |  
+| bip_39_word_new_line5 | depth
+business
+blanket
+start
+index |  
+| bip_39_word_new_line6 | depth
+business
+blanket
+start
+index
+mechanic |  
+| bip_39_word_new_line7 | depth
+business
+blanket
+start
+index
+mechanic
+become |  
+| bip_39_word_new_line8 | depth
+business
+blanket
+start
+index
+mechanic
+become
+knife |  
+| bip_39_word_new_line9 | depth
+business
+blanket
+start
+index
+mechanic
+become
+knife
+abuse |  
+| bip_39_word_space_0 | ['depth', 'business', 'blanket', 'start', 'index', 'mechanic', 'become', 'knife', 'abuse', 'magnet', 'robust', 'addict'] |  
+| bip_39_word_space_1 | depth |  
+| bip_39_word_space_10 | depth business blanket start index mechanic become knife abuse magnet |  
+| bip_39_word_space_11 | depth business blanket start index mechanic become knife abuse magnet robust |  
+| bip_39_word_space_12 | depth business blanket start index mechanic become knife abuse magnet robust addict |  
+| bip_39_word_space_2 | depth business |  
+| bip_39_word_space_3 | depth business blanket |  
+| bip_39_word_space_4 | depth business blanket start |  
+| bip_39_word_space_5 | depth business blanket start index |  
+| bip_39_word_space_6 | depth business blanket start index mechanic |  
+| bip_39_word_space_7 | depth business blanket start index mechanic become |  
+| bip_39_word_space_8 | depth business blanket start index mechanic become knife |  
+| bip_39_word_space_9 | depth business blanket start index mechanic become knife abuse |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

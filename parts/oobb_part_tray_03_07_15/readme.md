@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pool brick
+  * bip 39 word 3: pool brick draw
+  * bip 39 word: pool brick draw acquire cross shift small laundry gas forget garlic adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pool |  
+| bip_39_word_new_br10 | pool<br>brick<br>draw<br>acquire<br>cross<br>shift<br>small<br>laundry<br>gas<br>forget |  
+| bip_39_word_new_br11 | pool<br>brick<br>draw<br>acquire<br>cross<br>shift<br>small<br>laundry<br>gas<br>forget<br>garlic |  
+| bip_39_word_new_br12 | pool<br>brick<br>draw<br>acquire<br>cross<br>shift<br>small<br>laundry<br>gas<br>forget<br>garlic<br>adapt |  
+| bip_39_word_new_br2 | pool<br>brick |  
+| bip_39_word_new_br3 | pool<br>brick<br>draw |  
+| bip_39_word_new_br4 | pool<br>brick<br>draw<br>acquire |  
+| bip_39_word_new_br5 | pool<br>brick<br>draw<br>acquire<br>cross |  
+| bip_39_word_new_br6 | pool<br>brick<br>draw<br>acquire<br>cross<br>shift |  
+| bip_39_word_new_br7 | pool<br>brick<br>draw<br>acquire<br>cross<br>shift<br>small |  
+| bip_39_word_new_br8 | pool<br>brick<br>draw<br>acquire<br>cross<br>shift<br>small<br>laundry |  
+| bip_39_word_new_br9 | pool<br>brick<br>draw<br>acquire<br>cross<br>shift<br>small<br>laundry<br>gas |  
+| bip_39_word_new_line1 | pool |  
+| bip_39_word_new_line10 | pool
+brick
+draw
+acquire
+cross
+shift
+small
+laundry
+gas
+forget |  
+| bip_39_word_new_line11 | pool
+brick
+draw
+acquire
+cross
+shift
+small
+laundry
+gas
+forget
+garlic |  
+| bip_39_word_new_line12 | pool
+brick
+draw
+acquire
+cross
+shift
+small
+laundry
+gas
+forget
+garlic
+adapt |  
+| bip_39_word_new_line2 | pool
+brick |  
+| bip_39_word_new_line3 | pool
+brick
+draw |  
+| bip_39_word_new_line4 | pool
+brick
+draw
+acquire |  
+| bip_39_word_new_line5 | pool
+brick
+draw
+acquire
+cross |  
+| bip_39_word_new_line6 | pool
+brick
+draw
+acquire
+cross
+shift |  
+| bip_39_word_new_line7 | pool
+brick
+draw
+acquire
+cross
+shift
+small |  
+| bip_39_word_new_line8 | pool
+brick
+draw
+acquire
+cross
+shift
+small
+laundry |  
+| bip_39_word_new_line9 | pool
+brick
+draw
+acquire
+cross
+shift
+small
+laundry
+gas |  
+| bip_39_word_space_0 | ['pool', 'brick', 'draw', 'acquire', 'cross', 'shift', 'small', 'laundry', 'gas', 'forget', 'garlic', 'adapt'] |  
+| bip_39_word_space_1 | pool |  
+| bip_39_word_space_10 | pool brick draw acquire cross shift small laundry gas forget |  
+| bip_39_word_space_11 | pool brick draw acquire cross shift small laundry gas forget garlic |  
+| bip_39_word_space_12 | pool brick draw acquire cross shift small laundry gas forget garlic adapt |  
+| bip_39_word_space_2 | pool brick |  
+| bip_39_word_space_3 | pool brick draw |  
+| bip_39_word_space_4 | pool brick draw acquire |  
+| bip_39_word_space_5 | pool brick draw acquire cross |  
+| bip_39_word_space_6 | pool brick draw acquire cross shift |  
+| bip_39_word_space_7 | pool brick draw acquire cross shift small |  
+| bip_39_word_space_8 | pool brick draw acquire cross shift small laundry |  
+| bip_39_word_space_9 | pool brick draw acquire cross shift small laundry gas |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

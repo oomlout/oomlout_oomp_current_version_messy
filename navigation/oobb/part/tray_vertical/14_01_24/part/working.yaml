@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lounge
+bip_39_word_new_br10: lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple<br>crisp<br>fine<br>scissors<br>curve
+bip_39_word_new_br11: lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple<br>crisp<br>fine<br>scissors<br>curve<br>grief
+bip_39_word_new_br12: lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple<br>crisp<br>fine<br>scissors<br>curve<br>grief<br>annual
+bip_39_word_new_br2: lounge<br>artefact
+bip_39_word_new_br3: lounge<br>artefact<br>equal
+bip_39_word_new_br4: lounge<br>artefact<br>equal<br>proof
+bip_39_word_new_br5: lounge<br>artefact<br>equal<br>proof<br>gesture
+bip_39_word_new_br6: lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple
+bip_39_word_new_br7: lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple<br>crisp
+bip_39_word_new_br8: lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple<br>crisp<br>fine
+bip_39_word_new_br9: lounge<br>artefact<br>equal<br>proof<br>gesture<br>topple<br>crisp<br>fine<br>scissors
+bip_39_word_new_line1: lounge
+bip_39_word_new_line10: 'lounge
+
+  artefact
+
+  equal
+
+  proof
+
+  gesture
+
+  topple
+
+  crisp
+
+  fine
+
+  scissors
+
+  curve'
+bip_39_word_new_line11: 'lounge
+
+  artefact
+
+  equal
+
+  proof
+
+  gesture
+
+  topple
+
+  crisp
+
+  fine
+
+  scissors
+
+  curve
+
+  grief'
+bip_39_word_new_line12: 'lounge
+
+  artefact
+
+  equal
+
+  proof
+
+  gesture
+
+  topple
+
+  crisp
+
+  fine
+
+  scissors
+
+  curve
+
+  grief
+
+  annual'
+bip_39_word_new_line2: 'lounge
+
+  artefact'
+bip_39_word_new_line3: 'lounge
+
+  artefact
+
+  equal'
+bip_39_word_new_line4: 'lounge
+
+  artefact
+
+  equal
+
+  proof'
+bip_39_word_new_line5: 'lounge
+
+  artefact
+
+  equal
+
+  proof
+
+  gesture'
+bip_39_word_new_line6: 'lounge
+
+  artefact
+
+  equal
+
+  proof
+
+  gesture
+
+  topple'
+bip_39_word_new_line7: 'lounge
+
+  artefact
+
+  equal
+
+  proof
+
+  gesture
+
+  topple
+
+  crisp'
+bip_39_word_new_line8: 'lounge
+
+  artefact
+
+  equal
+
+  proof
+
+  gesture
+
+  topple
+
+  crisp
+
+  fine'
+bip_39_word_new_line9: 'lounge
+
+  artefact
+
+  equal
+
+  proof
+
+  gesture
+
+  topple
+
+  crisp
+
+  fine
+
+  scissors'
+bip_39_word_space_0:
+- lounge
+- artefact
+- equal
+- proof
+- gesture
+- topple
+- crisp
+- fine
+- scissors
+- curve
+- grief
+- annual
+bip_39_word_space_1: lounge
+bip_39_word_space_10: lounge artefact equal proof gesture topple crisp fine scissors
+  curve
+bip_39_word_space_11: lounge artefact equal proof gesture topple crisp fine scissors
+  curve grief
+bip_39_word_space_12: lounge artefact equal proof gesture topple crisp fine scissors
+  curve grief annual
+bip_39_word_space_2: lounge artefact
+bip_39_word_space_3: lounge artefact equal
+bip_39_word_space_4: lounge artefact equal proof
+bip_39_word_space_5: lounge artefact equal proof gesture
+bip_39_word_space_6: lounge artefact equal proof gesture topple
+bip_39_word_space_7: lounge artefact equal proof gesture topple crisp
+bip_39_word_space_8: lounge artefact equal proof gesture topple crisp fine
+bip_39_word_space_9: lounge artefact equal proof gesture topple crisp fine scissors
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: second
+bip_39_word_new_br10: second<br>before<br>price<br>nominee<br>evoke<br>zebra<br>hunt<br>rifle<br>proof<br>exclude
+bip_39_word_new_br11: second<br>before<br>price<br>nominee<br>evoke<br>zebra<br>hunt<br>rifle<br>proof<br>exclude<br>benefit
+bip_39_word_new_br12: second<br>before<br>price<br>nominee<br>evoke<br>zebra<br>hunt<br>rifle<br>proof<br>exclude<br>benefit<br>agent
+bip_39_word_new_br2: second<br>before
+bip_39_word_new_br3: second<br>before<br>price
+bip_39_word_new_br4: second<br>before<br>price<br>nominee
+bip_39_word_new_br5: second<br>before<br>price<br>nominee<br>evoke
+bip_39_word_new_br6: second<br>before<br>price<br>nominee<br>evoke<br>zebra
+bip_39_word_new_br7: second<br>before<br>price<br>nominee<br>evoke<br>zebra<br>hunt
+bip_39_word_new_br8: second<br>before<br>price<br>nominee<br>evoke<br>zebra<br>hunt<br>rifle
+bip_39_word_new_br9: second<br>before<br>price<br>nominee<br>evoke<br>zebra<br>hunt<br>rifle<br>proof
+bip_39_word_new_line1: second
+bip_39_word_new_line10: 'second
+
+  before
+
+  price
+
+  nominee
+
+  evoke
+
+  zebra
+
+  hunt
+
+  rifle
+
+  proof
+
+  exclude'
+bip_39_word_new_line11: 'second
+
+  before
+
+  price
+
+  nominee
+
+  evoke
+
+  zebra
+
+  hunt
+
+  rifle
+
+  proof
+
+  exclude
+
+  benefit'
+bip_39_word_new_line12: 'second
+
+  before
+
+  price
+
+  nominee
+
+  evoke
+
+  zebra
+
+  hunt
+
+  rifle
+
+  proof
+
+  exclude
+
+  benefit
+
+  agent'
+bip_39_word_new_line2: 'second
+
+  before'
+bip_39_word_new_line3: 'second
+
+  before
+
+  price'
+bip_39_word_new_line4: 'second
+
+  before
+
+  price
+
+  nominee'
+bip_39_word_new_line5: 'second
+
+  before
+
+  price
+
+  nominee
+
+  evoke'
+bip_39_word_new_line6: 'second
+
+  before
+
+  price
+
+  nominee
+
+  evoke
+
+  zebra'
+bip_39_word_new_line7: 'second
+
+  before
+
+  price
+
+  nominee
+
+  evoke
+
+  zebra
+
+  hunt'
+bip_39_word_new_line8: 'second
+
+  before
+
+  price
+
+  nominee
+
+  evoke
+
+  zebra
+
+  hunt
+
+  rifle'
+bip_39_word_new_line9: 'second
+
+  before
+
+  price
+
+  nominee
+
+  evoke
+
+  zebra
+
+  hunt
+
+  rifle
+
+  proof'
+bip_39_word_space_0:
+- second
+- before
+- price
+- nominee
+- evoke
+- zebra
+- hunt
+- rifle
+- proof
+- exclude
+- benefit
+- agent
+bip_39_word_space_1: second
+bip_39_word_space_10: second before price nominee evoke zebra hunt rifle proof exclude
+bip_39_word_space_11: second before price nominee evoke zebra hunt rifle proof exclude
+  benefit
+bip_39_word_space_12: second before price nominee evoke zebra hunt rifle proof exclude
+  benefit agent
+bip_39_word_space_2: second before
+bip_39_word_space_3: second before price
+bip_39_word_space_4: second before price nominee
+bip_39_word_space_5: second before price nominee evoke
+bip_39_word_space_6: second before price nominee evoke zebra
+bip_39_word_space_7: second before price nominee evoke zebra hunt
+bip_39_word_space_8: second before price nominee evoke zebra hunt rifle
+bip_39_word_space_9: second before price nominee evoke zebra hunt rifle proof
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nuclear
+bip_39_word_new_br10: nuclear<br>improve<br>zone<br>treat<br>else<br>trouble<br>know<br>keep<br>vacant<br>disorder
+bip_39_word_new_br11: nuclear<br>improve<br>zone<br>treat<br>else<br>trouble<br>know<br>keep<br>vacant<br>disorder<br>math
+bip_39_word_new_br12: nuclear<br>improve<br>zone<br>treat<br>else<br>trouble<br>know<br>keep<br>vacant<br>disorder<br>math<br>arrive
+bip_39_word_new_br2: nuclear<br>improve
+bip_39_word_new_br3: nuclear<br>improve<br>zone
+bip_39_word_new_br4: nuclear<br>improve<br>zone<br>treat
+bip_39_word_new_br5: nuclear<br>improve<br>zone<br>treat<br>else
+bip_39_word_new_br6: nuclear<br>improve<br>zone<br>treat<br>else<br>trouble
+bip_39_word_new_br7: nuclear<br>improve<br>zone<br>treat<br>else<br>trouble<br>know
+bip_39_word_new_br8: nuclear<br>improve<br>zone<br>treat<br>else<br>trouble<br>know<br>keep
+bip_39_word_new_br9: nuclear<br>improve<br>zone<br>treat<br>else<br>trouble<br>know<br>keep<br>vacant
+bip_39_word_new_line1: nuclear
+bip_39_word_new_line10: 'nuclear
+
+  improve
+
+  zone
+
+  treat
+
+  else
+
+  trouble
+
+  know
+
+  keep
+
+  vacant
+
+  disorder'
+bip_39_word_new_line11: 'nuclear
+
+  improve
+
+  zone
+
+  treat
+
+  else
+
+  trouble
+
+  know
+
+  keep
+
+  vacant
+
+  disorder
+
+  math'
+bip_39_word_new_line12: 'nuclear
+
+  improve
+
+  zone
+
+  treat
+
+  else
+
+  trouble
+
+  know
+
+  keep
+
+  vacant
+
+  disorder
+
+  math
+
+  arrive'
+bip_39_word_new_line2: 'nuclear
+
+  improve'
+bip_39_word_new_line3: 'nuclear
+
+  improve
+
+  zone'
+bip_39_word_new_line4: 'nuclear
+
+  improve
+
+  zone
+
+  treat'
+bip_39_word_new_line5: 'nuclear
+
+  improve
+
+  zone
+
+  treat
+
+  else'
+bip_39_word_new_line6: 'nuclear
+
+  improve
+
+  zone
+
+  treat
+
+  else
+
+  trouble'
+bip_39_word_new_line7: 'nuclear
+
+  improve
+
+  zone
+
+  treat
+
+  else
+
+  trouble
+
+  know'
+bip_39_word_new_line8: 'nuclear
+
+  improve
+
+  zone
+
+  treat
+
+  else
+
+  trouble
+
+  know
+
+  keep'
+bip_39_word_new_line9: 'nuclear
+
+  improve
+
+  zone
+
+  treat
+
+  else
+
+  trouble
+
+  know
+
+  keep
+
+  vacant'
+bip_39_word_space_0:
+- nuclear
+- improve
+- zone
+- treat
+- else
+- trouble
+- know
+- keep
+- vacant
+- disorder
+- math
+- arrive
+bip_39_word_space_1: nuclear
+bip_39_word_space_10: nuclear improve zone treat else trouble know keep vacant disorder
+bip_39_word_space_11: nuclear improve zone treat else trouble know keep vacant disorder
+  math
+bip_39_word_space_12: nuclear improve zone treat else trouble know keep vacant disorder
+  math arrive
+bip_39_word_space_2: nuclear improve
+bip_39_word_space_3: nuclear improve zone
+bip_39_word_space_4: nuclear improve zone treat
+bip_39_word_space_5: nuclear improve zone treat else
+bip_39_word_space_6: nuclear improve zone treat else trouble
+bip_39_word_space_7: nuclear improve zone treat else trouble know
+bip_39_word_space_8: nuclear improve zone treat else trouble know keep
+bip_39_word_space_9: nuclear improve zone treat else trouble know keep vacant
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

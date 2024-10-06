@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: devote other
+  * bip 39 word 3: devote other once
+  * bip 39 word: devote other once cry tiny easy wait lottery demise neither truck all
 
 ### other_codes
 * short_code: so3br30ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | devote |  
+| bip_39_word_new_br10 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither |  
+| bip_39_word_new_br11 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither<br>truck |  
+| bip_39_word_new_br12 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise<br>neither<br>truck<br>all |  
+| bip_39_word_new_br2 | devote<br>other |  
+| bip_39_word_new_br3 | devote<br>other<br>once |  
+| bip_39_word_new_br4 | devote<br>other<br>once<br>cry |  
+| bip_39_word_new_br5 | devote<br>other<br>once<br>cry<br>tiny |  
+| bip_39_word_new_br6 | devote<br>other<br>once<br>cry<br>tiny<br>easy |  
+| bip_39_word_new_br7 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait |  
+| bip_39_word_new_br8 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery |  
+| bip_39_word_new_br9 | devote<br>other<br>once<br>cry<br>tiny<br>easy<br>wait<br>lottery<br>demise |  
+| bip_39_word_new_line1 | devote |  
+| bip_39_word_new_line10 | devote
+other
+once
+cry
+tiny
+easy
+wait
+lottery
+demise
+neither |  
+| bip_39_word_new_line11 | devote
+other
+once
+cry
+tiny
+easy
+wait
+lottery
+demise
+neither
+truck |  
+| bip_39_word_new_line12 | devote
+other
+once
+cry
+tiny
+easy
+wait
+lottery
+demise
+neither
+truck
+all |  
+| bip_39_word_new_line2 | devote
+other |  
+| bip_39_word_new_line3 | devote
+other
+once |  
+| bip_39_word_new_line4 | devote
+other
+once
+cry |  
+| bip_39_word_new_line5 | devote
+other
+once
+cry
+tiny |  
+| bip_39_word_new_line6 | devote
+other
+once
+cry
+tiny
+easy |  
+| bip_39_word_new_line7 | devote
+other
+once
+cry
+tiny
+easy
+wait |  
+| bip_39_word_new_line8 | devote
+other
+once
+cry
+tiny
+easy
+wait
+lottery |  
+| bip_39_word_new_line9 | devote
+other
+once
+cry
+tiny
+easy
+wait
+lottery
+demise |  
+| bip_39_word_space_0 | ['devote', 'other', 'once', 'cry', 'tiny', 'easy', 'wait', 'lottery', 'demise', 'neither', 'truck', 'all'] |  
+| bip_39_word_space_1 | devote |  
+| bip_39_word_space_10 | devote other once cry tiny easy wait lottery demise neither |  
+| bip_39_word_space_11 | devote other once cry tiny easy wait lottery demise neither truck |  
+| bip_39_word_space_12 | devote other once cry tiny easy wait lottery demise neither truck all |  
+| bip_39_word_space_2 | devote other |  
+| bip_39_word_space_3 | devote other once |  
+| bip_39_word_space_4 | devote other once cry |  
+| bip_39_word_space_5 | devote other once cry tiny |  
+| bip_39_word_space_6 | devote other once cry tiny easy |  
+| bip_39_word_space_7 | devote other once cry tiny easy wait |  
+| bip_39_word_space_8 | devote other once cry tiny easy wait lottery |  
+| bip_39_word_space_9 | devote other once cry tiny easy wait lottery demise |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

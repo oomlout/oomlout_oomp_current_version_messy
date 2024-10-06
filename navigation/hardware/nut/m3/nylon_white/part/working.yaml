@@ -1,3 +1,186 @@
+bip_39_word_new_br1: uncover
+bip_39_word_new_br10: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit<br>young
+bip_39_word_new_br11: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit<br>young<br>tennis
+bip_39_word_new_br12: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit<br>young<br>tennis<br>approve
+bip_39_word_new_br2: uncover<br>clerk
+bip_39_word_new_br3: uncover<br>clerk<br>clip
+bip_39_word_new_br4: uncover<br>clerk<br>clip<br>sunset
+bip_39_word_new_br5: uncover<br>clerk<br>clip<br>sunset<br>skill
+bip_39_word_new_br6: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge
+bip_39_word_new_br7: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf
+bip_39_word_new_br8: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace
+bip_39_word_new_br9: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit
+bip_39_word_new_line1: uncover
+bip_39_word_new_line10: 'uncover
+
+  clerk
+
+  clip
+
+  sunset
+
+  skill
+
+  merge
+
+  dwarf
+
+  palace
+
+  suit
+
+  young'
+bip_39_word_new_line11: 'uncover
+
+  clerk
+
+  clip
+
+  sunset
+
+  skill
+
+  merge
+
+  dwarf
+
+  palace
+
+  suit
+
+  young
+
+  tennis'
+bip_39_word_new_line12: 'uncover
+
+  clerk
+
+  clip
+
+  sunset
+
+  skill
+
+  merge
+
+  dwarf
+
+  palace
+
+  suit
+
+  young
+
+  tennis
+
+  approve'
+bip_39_word_new_line2: 'uncover
+
+  clerk'
+bip_39_word_new_line3: 'uncover
+
+  clerk
+
+  clip'
+bip_39_word_new_line4: 'uncover
+
+  clerk
+
+  clip
+
+  sunset'
+bip_39_word_new_line5: 'uncover
+
+  clerk
+
+  clip
+
+  sunset
+
+  skill'
+bip_39_word_new_line6: 'uncover
+
+  clerk
+
+  clip
+
+  sunset
+
+  skill
+
+  merge'
+bip_39_word_new_line7: 'uncover
+
+  clerk
+
+  clip
+
+  sunset
+
+  skill
+
+  merge
+
+  dwarf'
+bip_39_word_new_line8: 'uncover
+
+  clerk
+
+  clip
+
+  sunset
+
+  skill
+
+  merge
+
+  dwarf
+
+  palace'
+bip_39_word_new_line9: 'uncover
+
+  clerk
+
+  clip
+
+  sunset
+
+  skill
+
+  merge
+
+  dwarf
+
+  palace
+
+  suit'
+bip_39_word_space_0:
+- uncover
+- clerk
+- clip
+- sunset
+- skill
+- merge
+- dwarf
+- palace
+- suit
+- young
+- tennis
+- approve
+bip_39_word_space_1: uncover
+bip_39_word_space_10: uncover clerk clip sunset skill merge dwarf palace suit young
+bip_39_word_space_11: uncover clerk clip sunset skill merge dwarf palace suit young
+  tennis
+bip_39_word_space_12: uncover clerk clip sunset skill merge dwarf palace suit young
+  tennis approve
+bip_39_word_space_2: uncover clerk
+bip_39_word_space_3: uncover clerk clip
+bip_39_word_space_4: uncover clerk clip sunset
+bip_39_word_space_5: uncover clerk clip sunset skill
+bip_39_word_space_6: uncover clerk clip sunset skill merge
+bip_39_word_space_7: uncover clerk clip sunset skill merge dwarf
+bip_39_word_space_8: uncover clerk clip sunset skill merge dwarf palace
+bip_39_word_space_9: uncover clerk clip sunset skill merge dwarf palace suit
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

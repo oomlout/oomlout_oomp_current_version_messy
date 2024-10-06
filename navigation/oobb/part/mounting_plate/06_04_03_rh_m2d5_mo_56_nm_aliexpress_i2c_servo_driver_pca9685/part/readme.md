@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: merry raw
+  * bip 39 word 3: merry raw mercy
+  * bip 39 word: merry raw mercy teach lawn cruise silver antique audit orbit yellow anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | merry |  
+| bip_39_word_new_br10 | merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise<br>silver<br>antique<br>audit<br>orbit |  
+| bip_39_word_new_br11 | merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise<br>silver<br>antique<br>audit<br>orbit<br>yellow |  
+| bip_39_word_new_br12 | merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise<br>silver<br>antique<br>audit<br>orbit<br>yellow<br>anxiety |  
+| bip_39_word_new_br2 | merry<br>raw |  
+| bip_39_word_new_br3 | merry<br>raw<br>mercy |  
+| bip_39_word_new_br4 | merry<br>raw<br>mercy<br>teach |  
+| bip_39_word_new_br5 | merry<br>raw<br>mercy<br>teach<br>lawn |  
+| bip_39_word_new_br6 | merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise |  
+| bip_39_word_new_br7 | merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise<br>silver |  
+| bip_39_word_new_br8 | merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise<br>silver<br>antique |  
+| bip_39_word_new_br9 | merry<br>raw<br>mercy<br>teach<br>lawn<br>cruise<br>silver<br>antique<br>audit |  
+| bip_39_word_new_line1 | merry |  
+| bip_39_word_new_line10 | merry
+raw
+mercy
+teach
+lawn
+cruise
+silver
+antique
+audit
+orbit |  
+| bip_39_word_new_line11 | merry
+raw
+mercy
+teach
+lawn
+cruise
+silver
+antique
+audit
+orbit
+yellow |  
+| bip_39_word_new_line12 | merry
+raw
+mercy
+teach
+lawn
+cruise
+silver
+antique
+audit
+orbit
+yellow
+anxiety |  
+| bip_39_word_new_line2 | merry
+raw |  
+| bip_39_word_new_line3 | merry
+raw
+mercy |  
+| bip_39_word_new_line4 | merry
+raw
+mercy
+teach |  
+| bip_39_word_new_line5 | merry
+raw
+mercy
+teach
+lawn |  
+| bip_39_word_new_line6 | merry
+raw
+mercy
+teach
+lawn
+cruise |  
+| bip_39_word_new_line7 | merry
+raw
+mercy
+teach
+lawn
+cruise
+silver |  
+| bip_39_word_new_line8 | merry
+raw
+mercy
+teach
+lawn
+cruise
+silver
+antique |  
+| bip_39_word_new_line9 | merry
+raw
+mercy
+teach
+lawn
+cruise
+silver
+antique
+audit |  
+| bip_39_word_space_0 | ['merry', 'raw', 'mercy', 'teach', 'lawn', 'cruise', 'silver', 'antique', 'audit', 'orbit', 'yellow', 'anxiety'] |  
+| bip_39_word_space_1 | merry |  
+| bip_39_word_space_10 | merry raw mercy teach lawn cruise silver antique audit orbit |  
+| bip_39_word_space_11 | merry raw mercy teach lawn cruise silver antique audit orbit yellow |  
+| bip_39_word_space_12 | merry raw mercy teach lawn cruise silver antique audit orbit yellow anxiety |  
+| bip_39_word_space_2 | merry raw |  
+| bip_39_word_space_3 | merry raw mercy |  
+| bip_39_word_space_4 | merry raw mercy teach |  
+| bip_39_word_space_5 | merry raw mercy teach lawn |  
+| bip_39_word_space_6 | merry raw mercy teach lawn cruise |  
+| bip_39_word_space_7 | merry raw mercy teach lawn cruise silver |  
+| bip_39_word_space_8 | merry raw mercy teach lawn cruise silver antique |  
+| bip_39_word_space_9 | merry raw mercy teach lawn cruise silver antique audit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

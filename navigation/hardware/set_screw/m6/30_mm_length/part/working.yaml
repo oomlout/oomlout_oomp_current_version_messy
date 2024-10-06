@@ -1,3 +1,185 @@
+bip_39_word_new_br1: alien
+bip_39_word_new_br10: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet
+bip_39_word_new_br11: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet<br>broccoli
+bip_39_word_new_br12: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero<br>diet<br>broccoli<br>anchor
+bip_39_word_new_br2: alien<br>borrow
+bip_39_word_new_br3: alien<br>borrow<br>glimpse
+bip_39_word_new_br4: alien<br>borrow<br>glimpse<br>road
+bip_39_word_new_br5: alien<br>borrow<br>glimpse<br>road<br>addict
+bip_39_word_new_br6: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone
+bip_39_word_new_br7: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job
+bip_39_word_new_br8: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax
+bip_39_word_new_br9: alien<br>borrow<br>glimpse<br>road<br>addict<br>bone<br>job<br>relax<br>hero
+bip_39_word_new_line1: alien
+bip_39_word_new_line10: 'alien
+
+  borrow
+
+  glimpse
+
+  road
+
+  addict
+
+  bone
+
+  job
+
+  relax
+
+  hero
+
+  diet'
+bip_39_word_new_line11: 'alien
+
+  borrow
+
+  glimpse
+
+  road
+
+  addict
+
+  bone
+
+  job
+
+  relax
+
+  hero
+
+  diet
+
+  broccoli'
+bip_39_word_new_line12: 'alien
+
+  borrow
+
+  glimpse
+
+  road
+
+  addict
+
+  bone
+
+  job
+
+  relax
+
+  hero
+
+  diet
+
+  broccoli
+
+  anchor'
+bip_39_word_new_line2: 'alien
+
+  borrow'
+bip_39_word_new_line3: 'alien
+
+  borrow
+
+  glimpse'
+bip_39_word_new_line4: 'alien
+
+  borrow
+
+  glimpse
+
+  road'
+bip_39_word_new_line5: 'alien
+
+  borrow
+
+  glimpse
+
+  road
+
+  addict'
+bip_39_word_new_line6: 'alien
+
+  borrow
+
+  glimpse
+
+  road
+
+  addict
+
+  bone'
+bip_39_word_new_line7: 'alien
+
+  borrow
+
+  glimpse
+
+  road
+
+  addict
+
+  bone
+
+  job'
+bip_39_word_new_line8: 'alien
+
+  borrow
+
+  glimpse
+
+  road
+
+  addict
+
+  bone
+
+  job
+
+  relax'
+bip_39_word_new_line9: 'alien
+
+  borrow
+
+  glimpse
+
+  road
+
+  addict
+
+  bone
+
+  job
+
+  relax
+
+  hero'
+bip_39_word_space_0:
+- alien
+- borrow
+- glimpse
+- road
+- addict
+- bone
+- job
+- relax
+- hero
+- diet
+- broccoli
+- anchor
+bip_39_word_space_1: alien
+bip_39_word_space_10: alien borrow glimpse road addict bone job relax hero diet
+bip_39_word_space_11: alien borrow glimpse road addict bone job relax hero diet broccoli
+bip_39_word_space_12: alien borrow glimpse road addict bone job relax hero diet broccoli
+  anchor
+bip_39_word_space_2: alien borrow
+bip_39_word_space_3: alien borrow glimpse
+bip_39_word_space_4: alien borrow glimpse road
+bip_39_word_space_5: alien borrow glimpse road addict
+bip_39_word_space_6: alien borrow glimpse road addict bone
+bip_39_word_space_7: alien borrow glimpse road addict bone job
+bip_39_word_space_8: alien borrow glimpse road addict bone job relax
+bip_39_word_space_9: alien borrow glimpse road addict bone job relax hero
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

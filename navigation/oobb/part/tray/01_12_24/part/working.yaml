@@ -1,3 +1,187 @@
+bip_39_word_new_br1: example
+bip_39_word_new_br10: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe<br>correct
+bip_39_word_new_br11: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe<br>correct<br>panda
+bip_39_word_new_br12: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe<br>correct<br>panda<br>aspect
+bip_39_word_new_br2: example<br>mobile
+bip_39_word_new_br3: example<br>mobile<br>seed
+bip_39_word_new_br4: example<br>mobile<br>seed<br>pull
+bip_39_word_new_br5: example<br>mobile<br>seed<br>pull<br>affair
+bip_39_word_new_br6: example<br>mobile<br>seed<br>pull<br>affair<br>debate
+bip_39_word_new_br7: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon
+bip_39_word_new_br8: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning
+bip_39_word_new_br9: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe
+bip_39_word_new_line1: example
+bip_39_word_new_line10: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning
+
+  believe
+
+  correct'
+bip_39_word_new_line11: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning
+
+  believe
+
+  correct
+
+  panda'
+bip_39_word_new_line12: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning
+
+  believe
+
+  correct
+
+  panda
+
+  aspect'
+bip_39_word_new_line2: 'example
+
+  mobile'
+bip_39_word_new_line3: 'example
+
+  mobile
+
+  seed'
+bip_39_word_new_line4: 'example
+
+  mobile
+
+  seed
+
+  pull'
+bip_39_word_new_line5: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair'
+bip_39_word_new_line6: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate'
+bip_39_word_new_line7: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon'
+bip_39_word_new_line8: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning'
+bip_39_word_new_line9: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning
+
+  believe'
+bip_39_word_space_0:
+- example
+- mobile
+- seed
+- pull
+- affair
+- debate
+- cinnamon
+- morning
+- believe
+- correct
+- panda
+- aspect
+bip_39_word_space_1: example
+bip_39_word_space_10: example mobile seed pull affair debate cinnamon morning believe
+  correct
+bip_39_word_space_11: example mobile seed pull affair debate cinnamon morning believe
+  correct panda
+bip_39_word_space_12: example mobile seed pull affair debate cinnamon morning believe
+  correct panda aspect
+bip_39_word_space_2: example mobile
+bip_39_word_space_3: example mobile seed
+bip_39_word_space_4: example mobile seed pull
+bip_39_word_space_5: example mobile seed pull affair
+bip_39_word_space_6: example mobile seed pull affair debate
+bip_39_word_space_7: example mobile seed pull affair debate cinnamon
+bip_39_word_space_8: example mobile seed pull affair debate cinnamon morning
+bip_39_word_space_9: example mobile seed pull affair debate cinnamon morning believe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

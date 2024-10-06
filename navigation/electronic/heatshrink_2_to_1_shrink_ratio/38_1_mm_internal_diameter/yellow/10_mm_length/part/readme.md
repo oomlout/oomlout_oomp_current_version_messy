@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dish stairs
+  * bip 39 word 3: dish stairs sister
+  * bip 39 word: dish stairs sister empower mean grant renew upper scissors pause domain appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dish |  
+| bip_39_word_new_br10 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant<br>renew<br>upper<br>scissors<br>pause |  
+| bip_39_word_new_br11 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant<br>renew<br>upper<br>scissors<br>pause<br>domain |  
+| bip_39_word_new_br12 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant<br>renew<br>upper<br>scissors<br>pause<br>domain<br>appear |  
+| bip_39_word_new_br2 | dish<br>stairs |  
+| bip_39_word_new_br3 | dish<br>stairs<br>sister |  
+| bip_39_word_new_br4 | dish<br>stairs<br>sister<br>empower |  
+| bip_39_word_new_br5 | dish<br>stairs<br>sister<br>empower<br>mean |  
+| bip_39_word_new_br6 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant |  
+| bip_39_word_new_br7 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant<br>renew |  
+| bip_39_word_new_br8 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant<br>renew<br>upper |  
+| bip_39_word_new_br9 | dish<br>stairs<br>sister<br>empower<br>mean<br>grant<br>renew<br>upper<br>scissors |  
+| bip_39_word_new_line1 | dish |  
+| bip_39_word_new_line10 | dish
+stairs
+sister
+empower
+mean
+grant
+renew
+upper
+scissors
+pause |  
+| bip_39_word_new_line11 | dish
+stairs
+sister
+empower
+mean
+grant
+renew
+upper
+scissors
+pause
+domain |  
+| bip_39_word_new_line12 | dish
+stairs
+sister
+empower
+mean
+grant
+renew
+upper
+scissors
+pause
+domain
+appear |  
+| bip_39_word_new_line2 | dish
+stairs |  
+| bip_39_word_new_line3 | dish
+stairs
+sister |  
+| bip_39_word_new_line4 | dish
+stairs
+sister
+empower |  
+| bip_39_word_new_line5 | dish
+stairs
+sister
+empower
+mean |  
+| bip_39_word_new_line6 | dish
+stairs
+sister
+empower
+mean
+grant |  
+| bip_39_word_new_line7 | dish
+stairs
+sister
+empower
+mean
+grant
+renew |  
+| bip_39_word_new_line8 | dish
+stairs
+sister
+empower
+mean
+grant
+renew
+upper |  
+| bip_39_word_new_line9 | dish
+stairs
+sister
+empower
+mean
+grant
+renew
+upper
+scissors |  
+| bip_39_word_space_0 | ['dish', 'stairs', 'sister', 'empower', 'mean', 'grant', 'renew', 'upper', 'scissors', 'pause', 'domain', 'appear'] |  
+| bip_39_word_space_1 | dish |  
+| bip_39_word_space_10 | dish stairs sister empower mean grant renew upper scissors pause |  
+| bip_39_word_space_11 | dish stairs sister empower mean grant renew upper scissors pause domain |  
+| bip_39_word_space_12 | dish stairs sister empower mean grant renew upper scissors pause domain appear |  
+| bip_39_word_space_2 | dish stairs |  
+| bip_39_word_space_3 | dish stairs sister |  
+| bip_39_word_space_4 | dish stairs sister empower |  
+| bip_39_word_space_5 | dish stairs sister empower mean |  
+| bip_39_word_space_6 | dish stairs sister empower mean grant |  
+| bip_39_word_space_7 | dish stairs sister empower mean grant renew |  
+| bip_39_word_space_8 | dish stairs sister empower mean grant renew upper |  
+| bip_39_word_space_9 | dish stairs sister empower mean grant renew upper scissors |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

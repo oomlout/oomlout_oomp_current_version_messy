@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shy traffic
+  * bip 39 word 3: shy traffic annual
+  * bip 39 word: shy traffic annual pole either speak pole any major grass raven addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shy |  
+| bip_39_word_new_br10 | shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major<br>grass |  
+| bip_39_word_new_br11 | shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major<br>grass<br>raven |  
+| bip_39_word_new_br12 | shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major<br>grass<br>raven<br>addict |  
+| bip_39_word_new_br2 | shy<br>traffic |  
+| bip_39_word_new_br3 | shy<br>traffic<br>annual |  
+| bip_39_word_new_br4 | shy<br>traffic<br>annual<br>pole |  
+| bip_39_word_new_br5 | shy<br>traffic<br>annual<br>pole<br>either |  
+| bip_39_word_new_br6 | shy<br>traffic<br>annual<br>pole<br>either<br>speak |  
+| bip_39_word_new_br7 | shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole |  
+| bip_39_word_new_br8 | shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any |  
+| bip_39_word_new_br9 | shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major |  
+| bip_39_word_new_line1 | shy |  
+| bip_39_word_new_line10 | shy
+traffic
+annual
+pole
+either
+speak
+pole
+any
+major
+grass |  
+| bip_39_word_new_line11 | shy
+traffic
+annual
+pole
+either
+speak
+pole
+any
+major
+grass
+raven |  
+| bip_39_word_new_line12 | shy
+traffic
+annual
+pole
+either
+speak
+pole
+any
+major
+grass
+raven
+addict |  
+| bip_39_word_new_line2 | shy
+traffic |  
+| bip_39_word_new_line3 | shy
+traffic
+annual |  
+| bip_39_word_new_line4 | shy
+traffic
+annual
+pole |  
+| bip_39_word_new_line5 | shy
+traffic
+annual
+pole
+either |  
+| bip_39_word_new_line6 | shy
+traffic
+annual
+pole
+either
+speak |  
+| bip_39_word_new_line7 | shy
+traffic
+annual
+pole
+either
+speak
+pole |  
+| bip_39_word_new_line8 | shy
+traffic
+annual
+pole
+either
+speak
+pole
+any |  
+| bip_39_word_new_line9 | shy
+traffic
+annual
+pole
+either
+speak
+pole
+any
+major |  
+| bip_39_word_space_0 | ['shy', 'traffic', 'annual', 'pole', 'either', 'speak', 'pole', 'any', 'major', 'grass', 'raven', 'addict'] |  
+| bip_39_word_space_1 | shy |  
+| bip_39_word_space_10 | shy traffic annual pole either speak pole any major grass |  
+| bip_39_word_space_11 | shy traffic annual pole either speak pole any major grass raven |  
+| bip_39_word_space_12 | shy traffic annual pole either speak pole any major grass raven addict |  
+| bip_39_word_space_2 | shy traffic |  
+| bip_39_word_space_3 | shy traffic annual |  
+| bip_39_word_space_4 | shy traffic annual pole |  
+| bip_39_word_space_5 | shy traffic annual pole either |  
+| bip_39_word_space_6 | shy traffic annual pole either speak |  
+| bip_39_word_space_7 | shy traffic annual pole either speak pole |  
+| bip_39_word_space_8 | shy traffic annual pole either speak pole any |  
+| bip_39_word_space_9 | shy traffic annual pole either speak pole any major |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

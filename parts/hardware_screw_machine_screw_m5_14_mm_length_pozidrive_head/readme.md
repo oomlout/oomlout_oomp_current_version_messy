@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: light cup
+  * bip 39 word 3: light cup shiver
+  * bip 39 word: light cup shiver patch audit speak lobster walnut ball door unit advance
 
 ### other_codes
 * short_code: ms5m14pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | light |  
+| bip_39_word_new_br10 | light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball<br>door |  
+| bip_39_word_new_br11 | light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball<br>door<br>unit |  
+| bip_39_word_new_br12 | light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball<br>door<br>unit<br>advance |  
+| bip_39_word_new_br2 | light<br>cup |  
+| bip_39_word_new_br3 | light<br>cup<br>shiver |  
+| bip_39_word_new_br4 | light<br>cup<br>shiver<br>patch |  
+| bip_39_word_new_br5 | light<br>cup<br>shiver<br>patch<br>audit |  
+| bip_39_word_new_br6 | light<br>cup<br>shiver<br>patch<br>audit<br>speak |  
+| bip_39_word_new_br7 | light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster |  
+| bip_39_word_new_br8 | light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut |  
+| bip_39_word_new_br9 | light<br>cup<br>shiver<br>patch<br>audit<br>speak<br>lobster<br>walnut<br>ball |  
+| bip_39_word_new_line1 | light |  
+| bip_39_word_new_line10 | light
+cup
+shiver
+patch
+audit
+speak
+lobster
+walnut
+ball
+door |  
+| bip_39_word_new_line11 | light
+cup
+shiver
+patch
+audit
+speak
+lobster
+walnut
+ball
+door
+unit |  
+| bip_39_word_new_line12 | light
+cup
+shiver
+patch
+audit
+speak
+lobster
+walnut
+ball
+door
+unit
+advance |  
+| bip_39_word_new_line2 | light
+cup |  
+| bip_39_word_new_line3 | light
+cup
+shiver |  
+| bip_39_word_new_line4 | light
+cup
+shiver
+patch |  
+| bip_39_word_new_line5 | light
+cup
+shiver
+patch
+audit |  
+| bip_39_word_new_line6 | light
+cup
+shiver
+patch
+audit
+speak |  
+| bip_39_word_new_line7 | light
+cup
+shiver
+patch
+audit
+speak
+lobster |  
+| bip_39_word_new_line8 | light
+cup
+shiver
+patch
+audit
+speak
+lobster
+walnut |  
+| bip_39_word_new_line9 | light
+cup
+shiver
+patch
+audit
+speak
+lobster
+walnut
+ball |  
+| bip_39_word_space_0 | ['light', 'cup', 'shiver', 'patch', 'audit', 'speak', 'lobster', 'walnut', 'ball', 'door', 'unit', 'advance'] |  
+| bip_39_word_space_1 | light |  
+| bip_39_word_space_10 | light cup shiver patch audit speak lobster walnut ball door |  
+| bip_39_word_space_11 | light cup shiver patch audit speak lobster walnut ball door unit |  
+| bip_39_word_space_12 | light cup shiver patch audit speak lobster walnut ball door unit advance |  
+| bip_39_word_space_2 | light cup |  
+| bip_39_word_space_3 | light cup shiver |  
+| bip_39_word_space_4 | light cup shiver patch |  
+| bip_39_word_space_5 | light cup shiver patch audit |  
+| bip_39_word_space_6 | light cup shiver patch audit speak |  
+| bip_39_word_space_7 | light cup shiver patch audit speak lobster |  
+| bip_39_word_space_8 | light cup shiver patch audit speak lobster walnut |  
+| bip_39_word_space_9 | light cup shiver patch audit speak lobster walnut ball |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: metal waste
+  * bip 39 word 3: metal waste truck
+  * bip 39 word: metal waste truck invite treat office will deliver behave valid quality amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | metal |  
+| bip_39_word_new_br10 | metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave<br>valid |  
+| bip_39_word_new_br11 | metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave<br>valid<br>quality |  
+| bip_39_word_new_br12 | metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave<br>valid<br>quality<br>amateur |  
+| bip_39_word_new_br2 | metal<br>waste |  
+| bip_39_word_new_br3 | metal<br>waste<br>truck |  
+| bip_39_word_new_br4 | metal<br>waste<br>truck<br>invite |  
+| bip_39_word_new_br5 | metal<br>waste<br>truck<br>invite<br>treat |  
+| bip_39_word_new_br6 | metal<br>waste<br>truck<br>invite<br>treat<br>office |  
+| bip_39_word_new_br7 | metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will |  
+| bip_39_word_new_br8 | metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver |  
+| bip_39_word_new_br9 | metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave |  
+| bip_39_word_new_line1 | metal |  
+| bip_39_word_new_line10 | metal
+waste
+truck
+invite
+treat
+office
+will
+deliver
+behave
+valid |  
+| bip_39_word_new_line11 | metal
+waste
+truck
+invite
+treat
+office
+will
+deliver
+behave
+valid
+quality |  
+| bip_39_word_new_line12 | metal
+waste
+truck
+invite
+treat
+office
+will
+deliver
+behave
+valid
+quality
+amateur |  
+| bip_39_word_new_line2 | metal
+waste |  
+| bip_39_word_new_line3 | metal
+waste
+truck |  
+| bip_39_word_new_line4 | metal
+waste
+truck
+invite |  
+| bip_39_word_new_line5 | metal
+waste
+truck
+invite
+treat |  
+| bip_39_word_new_line6 | metal
+waste
+truck
+invite
+treat
+office |  
+| bip_39_word_new_line7 | metal
+waste
+truck
+invite
+treat
+office
+will |  
+| bip_39_word_new_line8 | metal
+waste
+truck
+invite
+treat
+office
+will
+deliver |  
+| bip_39_word_new_line9 | metal
+waste
+truck
+invite
+treat
+office
+will
+deliver
+behave |  
+| bip_39_word_space_0 | ['metal', 'waste', 'truck', 'invite', 'treat', 'office', 'will', 'deliver', 'behave', 'valid', 'quality', 'amateur'] |  
+| bip_39_word_space_1 | metal |  
+| bip_39_word_space_10 | metal waste truck invite treat office will deliver behave valid |  
+| bip_39_word_space_11 | metal waste truck invite treat office will deliver behave valid quality |  
+| bip_39_word_space_12 | metal waste truck invite treat office will deliver behave valid quality amateur |  
+| bip_39_word_space_2 | metal waste |  
+| bip_39_word_space_3 | metal waste truck |  
+| bip_39_word_space_4 | metal waste truck invite |  
+| bip_39_word_space_5 | metal waste truck invite treat |  
+| bip_39_word_space_6 | metal waste truck invite treat office |  
+| bip_39_word_space_7 | metal waste truck invite treat office will |  
+| bip_39_word_space_8 | metal waste truck invite treat office will deliver |  
+| bip_39_word_space_9 | metal waste truck invite treat office will deliver behave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

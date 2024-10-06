@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mass joy
+  * bip 39 word 3: mass joy hunt
+  * bip 39 word: mass joy hunt kiwi life physical meadow result armed ginger target admit
 
 ### other_codes
 * short_code: br6916
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mass |  
+| bip_39_word_new_br10 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger |  
+| bip_39_word_new_br11 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger<br>target |  
+| bip_39_word_new_br12 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed<br>ginger<br>target<br>admit |  
+| bip_39_word_new_br2 | mass<br>joy |  
+| bip_39_word_new_br3 | mass<br>joy<br>hunt |  
+| bip_39_word_new_br4 | mass<br>joy<br>hunt<br>kiwi |  
+| bip_39_word_new_br5 | mass<br>joy<br>hunt<br>kiwi<br>life |  
+| bip_39_word_new_br6 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical |  
+| bip_39_word_new_br7 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow |  
+| bip_39_word_new_br8 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result |  
+| bip_39_word_new_br9 | mass<br>joy<br>hunt<br>kiwi<br>life<br>physical<br>meadow<br>result<br>armed |  
+| bip_39_word_new_line1 | mass |  
+| bip_39_word_new_line10 | mass
+joy
+hunt
+kiwi
+life
+physical
+meadow
+result
+armed
+ginger |  
+| bip_39_word_new_line11 | mass
+joy
+hunt
+kiwi
+life
+physical
+meadow
+result
+armed
+ginger
+target |  
+| bip_39_word_new_line12 | mass
+joy
+hunt
+kiwi
+life
+physical
+meadow
+result
+armed
+ginger
+target
+admit |  
+| bip_39_word_new_line2 | mass
+joy |  
+| bip_39_word_new_line3 | mass
+joy
+hunt |  
+| bip_39_word_new_line4 | mass
+joy
+hunt
+kiwi |  
+| bip_39_word_new_line5 | mass
+joy
+hunt
+kiwi
+life |  
+| bip_39_word_new_line6 | mass
+joy
+hunt
+kiwi
+life
+physical |  
+| bip_39_word_new_line7 | mass
+joy
+hunt
+kiwi
+life
+physical
+meadow |  
+| bip_39_word_new_line8 | mass
+joy
+hunt
+kiwi
+life
+physical
+meadow
+result |  
+| bip_39_word_new_line9 | mass
+joy
+hunt
+kiwi
+life
+physical
+meadow
+result
+armed |  
+| bip_39_word_space_0 | ['mass', 'joy', 'hunt', 'kiwi', 'life', 'physical', 'meadow', 'result', 'armed', 'ginger', 'target', 'admit'] |  
+| bip_39_word_space_1 | mass |  
+| bip_39_word_space_10 | mass joy hunt kiwi life physical meadow result armed ginger |  
+| bip_39_word_space_11 | mass joy hunt kiwi life physical meadow result armed ginger target |  
+| bip_39_word_space_12 | mass joy hunt kiwi life physical meadow result armed ginger target admit |  
+| bip_39_word_space_2 | mass joy |  
+| bip_39_word_space_3 | mass joy hunt |  
+| bip_39_word_space_4 | mass joy hunt kiwi |  
+| bip_39_word_space_5 | mass joy hunt kiwi life |  
+| bip_39_word_space_6 | mass joy hunt kiwi life physical |  
+| bip_39_word_space_7 | mass joy hunt kiwi life physical meadow |  
+| bip_39_word_space_8 | mass joy hunt kiwi life physical meadow result |  
+| bip_39_word_space_9 | mass joy hunt kiwi life physical meadow result armed |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

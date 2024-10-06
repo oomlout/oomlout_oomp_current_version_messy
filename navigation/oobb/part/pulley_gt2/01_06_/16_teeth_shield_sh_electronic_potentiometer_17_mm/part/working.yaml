@@ -1,3 +1,186 @@
+bip_39_word_new_br1: guide
+bip_39_word_new_br10: guide<br>make<br>false<br>equal<br>absurd<br>together<br>swim<br>bubble<br>donkey<br>light
+bip_39_word_new_br11: guide<br>make<br>false<br>equal<br>absurd<br>together<br>swim<br>bubble<br>donkey<br>light<br>echo
+bip_39_word_new_br12: guide<br>make<br>false<br>equal<br>absurd<br>together<br>swim<br>bubble<br>donkey<br>light<br>echo<br>atom
+bip_39_word_new_br2: guide<br>make
+bip_39_word_new_br3: guide<br>make<br>false
+bip_39_word_new_br4: guide<br>make<br>false<br>equal
+bip_39_word_new_br5: guide<br>make<br>false<br>equal<br>absurd
+bip_39_word_new_br6: guide<br>make<br>false<br>equal<br>absurd<br>together
+bip_39_word_new_br7: guide<br>make<br>false<br>equal<br>absurd<br>together<br>swim
+bip_39_word_new_br8: guide<br>make<br>false<br>equal<br>absurd<br>together<br>swim<br>bubble
+bip_39_word_new_br9: guide<br>make<br>false<br>equal<br>absurd<br>together<br>swim<br>bubble<br>donkey
+bip_39_word_new_line1: guide
+bip_39_word_new_line10: 'guide
+
+  make
+
+  false
+
+  equal
+
+  absurd
+
+  together
+
+  swim
+
+  bubble
+
+  donkey
+
+  light'
+bip_39_word_new_line11: 'guide
+
+  make
+
+  false
+
+  equal
+
+  absurd
+
+  together
+
+  swim
+
+  bubble
+
+  donkey
+
+  light
+
+  echo'
+bip_39_word_new_line12: 'guide
+
+  make
+
+  false
+
+  equal
+
+  absurd
+
+  together
+
+  swim
+
+  bubble
+
+  donkey
+
+  light
+
+  echo
+
+  atom'
+bip_39_word_new_line2: 'guide
+
+  make'
+bip_39_word_new_line3: 'guide
+
+  make
+
+  false'
+bip_39_word_new_line4: 'guide
+
+  make
+
+  false
+
+  equal'
+bip_39_word_new_line5: 'guide
+
+  make
+
+  false
+
+  equal
+
+  absurd'
+bip_39_word_new_line6: 'guide
+
+  make
+
+  false
+
+  equal
+
+  absurd
+
+  together'
+bip_39_word_new_line7: 'guide
+
+  make
+
+  false
+
+  equal
+
+  absurd
+
+  together
+
+  swim'
+bip_39_word_new_line8: 'guide
+
+  make
+
+  false
+
+  equal
+
+  absurd
+
+  together
+
+  swim
+
+  bubble'
+bip_39_word_new_line9: 'guide
+
+  make
+
+  false
+
+  equal
+
+  absurd
+
+  together
+
+  swim
+
+  bubble
+
+  donkey'
+bip_39_word_space_0:
+- guide
+- make
+- 'false'
+- equal
+- absurd
+- together
+- swim
+- bubble
+- donkey
+- light
+- echo
+- atom
+bip_39_word_space_1: guide
+bip_39_word_space_10: guide make false equal absurd together swim bubble donkey light
+bip_39_word_space_11: guide make false equal absurd together swim bubble donkey light
+  echo
+bip_39_word_space_12: guide make false equal absurd together swim bubble donkey light
+  echo atom
+bip_39_word_space_2: guide make
+bip_39_word_space_3: guide make false
+bip_39_word_space_4: guide make false equal
+bip_39_word_space_5: guide make false equal absurd
+bip_39_word_space_6: guide make false equal absurd together
+bip_39_word_space_7: guide make false equal absurd together swim
+bip_39_word_space_8: guide make false equal absurd together swim bubble
+bip_39_word_space_9: guide make false equal absurd together swim bubble donkey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

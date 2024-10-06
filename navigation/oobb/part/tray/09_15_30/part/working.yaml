@@ -1,3 +1,187 @@
+bip_39_word_new_br1: napkin
+bip_39_word_new_br10: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble<br>coast
+bip_39_word_new_br11: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble<br>coast<br>myth
+bip_39_word_new_br12: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble<br>coast<br>myth<br>acquire
+bip_39_word_new_br2: napkin<br>honey
+bip_39_word_new_br3: napkin<br>honey<br>camp
+bip_39_word_new_br4: napkin<br>honey<br>camp<br>they
+bip_39_word_new_br5: napkin<br>honey<br>camp<br>they<br>reveal
+bip_39_word_new_br6: napkin<br>honey<br>camp<br>they<br>reveal<br>taste
+bip_39_word_new_br7: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section
+bip_39_word_new_br8: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella
+bip_39_word_new_br9: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble
+bip_39_word_new_line1: napkin
+bip_39_word_new_line10: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella
+
+  bubble
+
+  coast'
+bip_39_word_new_line11: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella
+
+  bubble
+
+  coast
+
+  myth'
+bip_39_word_new_line12: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella
+
+  bubble
+
+  coast
+
+  myth
+
+  acquire'
+bip_39_word_new_line2: 'napkin
+
+  honey'
+bip_39_word_new_line3: 'napkin
+
+  honey
+
+  camp'
+bip_39_word_new_line4: 'napkin
+
+  honey
+
+  camp
+
+  they'
+bip_39_word_new_line5: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal'
+bip_39_word_new_line6: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste'
+bip_39_word_new_line7: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section'
+bip_39_word_new_line8: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella'
+bip_39_word_new_line9: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella
+
+  bubble'
+bip_39_word_space_0:
+- napkin
+- honey
+- camp
+- they
+- reveal
+- taste
+- section
+- umbrella
+- bubble
+- coast
+- myth
+- acquire
+bip_39_word_space_1: napkin
+bip_39_word_space_10: napkin honey camp they reveal taste section umbrella bubble
+  coast
+bip_39_word_space_11: napkin honey camp they reveal taste section umbrella bubble
+  coast myth
+bip_39_word_space_12: napkin honey camp they reveal taste section umbrella bubble
+  coast myth acquire
+bip_39_word_space_2: napkin honey
+bip_39_word_space_3: napkin honey camp
+bip_39_word_space_4: napkin honey camp they
+bip_39_word_space_5: napkin honey camp they reveal
+bip_39_word_space_6: napkin honey camp they reveal taste
+bip_39_word_space_7: napkin honey camp they reveal taste section
+bip_39_word_space_8: napkin honey camp they reveal taste section umbrella
+bip_39_word_space_9: napkin honey camp they reveal taste section umbrella bubble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

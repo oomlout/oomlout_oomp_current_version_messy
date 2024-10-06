@@ -1,3 +1,187 @@
+bip_39_word_new_br1: cricket
+bip_39_word_new_br10: cricket<br>humble<br>uncover<br>grape<br>green<br>slow<br>define<br>advance<br>occur<br>edge
+bip_39_word_new_br11: cricket<br>humble<br>uncover<br>grape<br>green<br>slow<br>define<br>advance<br>occur<br>edge<br>correct
+bip_39_word_new_br12: cricket<br>humble<br>uncover<br>grape<br>green<br>slow<br>define<br>advance<br>occur<br>edge<br>correct<br>amateur
+bip_39_word_new_br2: cricket<br>humble
+bip_39_word_new_br3: cricket<br>humble<br>uncover
+bip_39_word_new_br4: cricket<br>humble<br>uncover<br>grape
+bip_39_word_new_br5: cricket<br>humble<br>uncover<br>grape<br>green
+bip_39_word_new_br6: cricket<br>humble<br>uncover<br>grape<br>green<br>slow
+bip_39_word_new_br7: cricket<br>humble<br>uncover<br>grape<br>green<br>slow<br>define
+bip_39_word_new_br8: cricket<br>humble<br>uncover<br>grape<br>green<br>slow<br>define<br>advance
+bip_39_word_new_br9: cricket<br>humble<br>uncover<br>grape<br>green<br>slow<br>define<br>advance<br>occur
+bip_39_word_new_line1: cricket
+bip_39_word_new_line10: 'cricket
+
+  humble
+
+  uncover
+
+  grape
+
+  green
+
+  slow
+
+  define
+
+  advance
+
+  occur
+
+  edge'
+bip_39_word_new_line11: 'cricket
+
+  humble
+
+  uncover
+
+  grape
+
+  green
+
+  slow
+
+  define
+
+  advance
+
+  occur
+
+  edge
+
+  correct'
+bip_39_word_new_line12: 'cricket
+
+  humble
+
+  uncover
+
+  grape
+
+  green
+
+  slow
+
+  define
+
+  advance
+
+  occur
+
+  edge
+
+  correct
+
+  amateur'
+bip_39_word_new_line2: 'cricket
+
+  humble'
+bip_39_word_new_line3: 'cricket
+
+  humble
+
+  uncover'
+bip_39_word_new_line4: 'cricket
+
+  humble
+
+  uncover
+
+  grape'
+bip_39_word_new_line5: 'cricket
+
+  humble
+
+  uncover
+
+  grape
+
+  green'
+bip_39_word_new_line6: 'cricket
+
+  humble
+
+  uncover
+
+  grape
+
+  green
+
+  slow'
+bip_39_word_new_line7: 'cricket
+
+  humble
+
+  uncover
+
+  grape
+
+  green
+
+  slow
+
+  define'
+bip_39_word_new_line8: 'cricket
+
+  humble
+
+  uncover
+
+  grape
+
+  green
+
+  slow
+
+  define
+
+  advance'
+bip_39_word_new_line9: 'cricket
+
+  humble
+
+  uncover
+
+  grape
+
+  green
+
+  slow
+
+  define
+
+  advance
+
+  occur'
+bip_39_word_space_0:
+- cricket
+- humble
+- uncover
+- grape
+- green
+- slow
+- define
+- advance
+- occur
+- edge
+- correct
+- amateur
+bip_39_word_space_1: cricket
+bip_39_word_space_10: cricket humble uncover grape green slow define advance occur
+  edge
+bip_39_word_space_11: cricket humble uncover grape green slow define advance occur
+  edge correct
+bip_39_word_space_12: cricket humble uncover grape green slow define advance occur
+  edge correct amateur
+bip_39_word_space_2: cricket humble
+bip_39_word_space_3: cricket humble uncover
+bip_39_word_space_4: cricket humble uncover grape
+bip_39_word_space_5: cricket humble uncover grape green
+bip_39_word_space_6: cricket humble uncover grape green slow
+bip_39_word_space_7: cricket humble uncover grape green slow define
+bip_39_word_space_8: cricket humble uncover grape green slow define advance
+bip_39_word_space_9: cricket humble uncover grape green slow define advance occur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

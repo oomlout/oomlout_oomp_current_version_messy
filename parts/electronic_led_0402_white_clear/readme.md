@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: april unhappy
+  * bip 39 word 3: april unhappy cement
+  * bip 39 word: april unhappy cement laptop inspire what miss axis crazy actual alter alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | april |  
+| bip_39_word_new_br10 | april<br>unhappy<br>cement<br>laptop<br>inspire<br>what<br>miss<br>axis<br>crazy<br>actual |  
+| bip_39_word_new_br11 | april<br>unhappy<br>cement<br>laptop<br>inspire<br>what<br>miss<br>axis<br>crazy<br>actual<br>alter |  
+| bip_39_word_new_br12 | april<br>unhappy<br>cement<br>laptop<br>inspire<br>what<br>miss<br>axis<br>crazy<br>actual<br>alter<br>alone |  
+| bip_39_word_new_br2 | april<br>unhappy |  
+| bip_39_word_new_br3 | april<br>unhappy<br>cement |  
+| bip_39_word_new_br4 | april<br>unhappy<br>cement<br>laptop |  
+| bip_39_word_new_br5 | april<br>unhappy<br>cement<br>laptop<br>inspire |  
+| bip_39_word_new_br6 | april<br>unhappy<br>cement<br>laptop<br>inspire<br>what |  
+| bip_39_word_new_br7 | april<br>unhappy<br>cement<br>laptop<br>inspire<br>what<br>miss |  
+| bip_39_word_new_br8 | april<br>unhappy<br>cement<br>laptop<br>inspire<br>what<br>miss<br>axis |  
+| bip_39_word_new_br9 | april<br>unhappy<br>cement<br>laptop<br>inspire<br>what<br>miss<br>axis<br>crazy |  
+| bip_39_word_new_line1 | april |  
+| bip_39_word_new_line10 | april
+unhappy
+cement
+laptop
+inspire
+what
+miss
+axis
+crazy
+actual |  
+| bip_39_word_new_line11 | april
+unhappy
+cement
+laptop
+inspire
+what
+miss
+axis
+crazy
+actual
+alter |  
+| bip_39_word_new_line12 | april
+unhappy
+cement
+laptop
+inspire
+what
+miss
+axis
+crazy
+actual
+alter
+alone |  
+| bip_39_word_new_line2 | april
+unhappy |  
+| bip_39_word_new_line3 | april
+unhappy
+cement |  
+| bip_39_word_new_line4 | april
+unhappy
+cement
+laptop |  
+| bip_39_word_new_line5 | april
+unhappy
+cement
+laptop
+inspire |  
+| bip_39_word_new_line6 | april
+unhappy
+cement
+laptop
+inspire
+what |  
+| bip_39_word_new_line7 | april
+unhappy
+cement
+laptop
+inspire
+what
+miss |  
+| bip_39_word_new_line8 | april
+unhappy
+cement
+laptop
+inspire
+what
+miss
+axis |  
+| bip_39_word_new_line9 | april
+unhappy
+cement
+laptop
+inspire
+what
+miss
+axis
+crazy |  
+| bip_39_word_space_0 | ['april', 'unhappy', 'cement', 'laptop', 'inspire', 'what', 'miss', 'axis', 'crazy', 'actual', 'alter', 'alone'] |  
+| bip_39_word_space_1 | april |  
+| bip_39_word_space_10 | april unhappy cement laptop inspire what miss axis crazy actual |  
+| bip_39_word_space_11 | april unhappy cement laptop inspire what miss axis crazy actual alter |  
+| bip_39_word_space_12 | april unhappy cement laptop inspire what miss axis crazy actual alter alone |  
+| bip_39_word_space_2 | april unhappy |  
+| bip_39_word_space_3 | april unhappy cement |  
+| bip_39_word_space_4 | april unhappy cement laptop |  
+| bip_39_word_space_5 | april unhappy cement laptop inspire |  
+| bip_39_word_space_6 | april unhappy cement laptop inspire what |  
+| bip_39_word_space_7 | april unhappy cement laptop inspire what miss |  
+| bip_39_word_space_8 | april unhappy cement laptop inspire what miss axis |  
+| bip_39_word_space_9 | april unhappy cement laptop inspire what miss axis crazy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

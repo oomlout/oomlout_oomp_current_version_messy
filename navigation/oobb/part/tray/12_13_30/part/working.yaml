@@ -1,3 +1,186 @@
+bip_39_word_new_br1: such
+bip_39_word_new_br10: such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus
+bip_39_word_new_br11: such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus<br>head
+bip_39_word_new_br12: such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor<br>bonus<br>head<br>attract
+bip_39_word_new_br2: such<br>prefer
+bip_39_word_new_br3: such<br>prefer<br>orbit
+bip_39_word_new_br4: such<br>prefer<br>orbit<br>finger
+bip_39_word_new_br5: such<br>prefer<br>orbit<br>finger<br>bronze
+bip_39_word_new_br6: such<br>prefer<br>orbit<br>finger<br>bronze<br>list
+bip_39_word_new_br7: such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove
+bip_39_word_new_br8: such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius
+bip_39_word_new_br9: such<br>prefer<br>orbit<br>finger<br>bronze<br>list<br>remove<br>genius<br>donor
+bip_39_word_new_line1: such
+bip_39_word_new_line10: 'such
+
+  prefer
+
+  orbit
+
+  finger
+
+  bronze
+
+  list
+
+  remove
+
+  genius
+
+  donor
+
+  bonus'
+bip_39_word_new_line11: 'such
+
+  prefer
+
+  orbit
+
+  finger
+
+  bronze
+
+  list
+
+  remove
+
+  genius
+
+  donor
+
+  bonus
+
+  head'
+bip_39_word_new_line12: 'such
+
+  prefer
+
+  orbit
+
+  finger
+
+  bronze
+
+  list
+
+  remove
+
+  genius
+
+  donor
+
+  bonus
+
+  head
+
+  attract'
+bip_39_word_new_line2: 'such
+
+  prefer'
+bip_39_word_new_line3: 'such
+
+  prefer
+
+  orbit'
+bip_39_word_new_line4: 'such
+
+  prefer
+
+  orbit
+
+  finger'
+bip_39_word_new_line5: 'such
+
+  prefer
+
+  orbit
+
+  finger
+
+  bronze'
+bip_39_word_new_line6: 'such
+
+  prefer
+
+  orbit
+
+  finger
+
+  bronze
+
+  list'
+bip_39_word_new_line7: 'such
+
+  prefer
+
+  orbit
+
+  finger
+
+  bronze
+
+  list
+
+  remove'
+bip_39_word_new_line8: 'such
+
+  prefer
+
+  orbit
+
+  finger
+
+  bronze
+
+  list
+
+  remove
+
+  genius'
+bip_39_word_new_line9: 'such
+
+  prefer
+
+  orbit
+
+  finger
+
+  bronze
+
+  list
+
+  remove
+
+  genius
+
+  donor'
+bip_39_word_space_0:
+- such
+- prefer
+- orbit
+- finger
+- bronze
+- list
+- remove
+- genius
+- donor
+- bonus
+- head
+- attract
+bip_39_word_space_1: such
+bip_39_word_space_10: such prefer orbit finger bronze list remove genius donor bonus
+bip_39_word_space_11: such prefer orbit finger bronze list remove genius donor bonus
+  head
+bip_39_word_space_12: such prefer orbit finger bronze list remove genius donor bonus
+  head attract
+bip_39_word_space_2: such prefer
+bip_39_word_space_3: such prefer orbit
+bip_39_word_space_4: such prefer orbit finger
+bip_39_word_space_5: such prefer orbit finger bronze
+bip_39_word_space_6: such prefer orbit finger bronze list
+bip_39_word_space_7: such prefer orbit finger bronze list remove
+bip_39_word_space_8: such prefer orbit finger bronze list remove genius
+bip_39_word_space_9: such prefer orbit finger bronze list remove genius donor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sad rail
+  * bip 39 word 3: sad rail argue
+  * bip 39 word: sad rail argue head spray poverty butter veteran lucky harsh comfort air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sad |  
+| bip_39_word_new_br10 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh |  
+| bip_39_word_new_br11 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh<br>comfort |  
+| bip_39_word_new_br12 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky<br>harsh<br>comfort<br>air |  
+| bip_39_word_new_br2 | sad<br>rail |  
+| bip_39_word_new_br3 | sad<br>rail<br>argue |  
+| bip_39_word_new_br4 | sad<br>rail<br>argue<br>head |  
+| bip_39_word_new_br5 | sad<br>rail<br>argue<br>head<br>spray |  
+| bip_39_word_new_br6 | sad<br>rail<br>argue<br>head<br>spray<br>poverty |  
+| bip_39_word_new_br7 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter |  
+| bip_39_word_new_br8 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran |  
+| bip_39_word_new_br9 | sad<br>rail<br>argue<br>head<br>spray<br>poverty<br>butter<br>veteran<br>lucky |  
+| bip_39_word_new_line1 | sad |  
+| bip_39_word_new_line10 | sad
+rail
+argue
+head
+spray
+poverty
+butter
+veteran
+lucky
+harsh |  
+| bip_39_word_new_line11 | sad
+rail
+argue
+head
+spray
+poverty
+butter
+veteran
+lucky
+harsh
+comfort |  
+| bip_39_word_new_line12 | sad
+rail
+argue
+head
+spray
+poverty
+butter
+veteran
+lucky
+harsh
+comfort
+air |  
+| bip_39_word_new_line2 | sad
+rail |  
+| bip_39_word_new_line3 | sad
+rail
+argue |  
+| bip_39_word_new_line4 | sad
+rail
+argue
+head |  
+| bip_39_word_new_line5 | sad
+rail
+argue
+head
+spray |  
+| bip_39_word_new_line6 | sad
+rail
+argue
+head
+spray
+poverty |  
+| bip_39_word_new_line7 | sad
+rail
+argue
+head
+spray
+poverty
+butter |  
+| bip_39_word_new_line8 | sad
+rail
+argue
+head
+spray
+poverty
+butter
+veteran |  
+| bip_39_word_new_line9 | sad
+rail
+argue
+head
+spray
+poverty
+butter
+veteran
+lucky |  
+| bip_39_word_space_0 | ['sad', 'rail', 'argue', 'head', 'spray', 'poverty', 'butter', 'veteran', 'lucky', 'harsh', 'comfort', 'air'] |  
+| bip_39_word_space_1 | sad |  
+| bip_39_word_space_10 | sad rail argue head spray poverty butter veteran lucky harsh |  
+| bip_39_word_space_11 | sad rail argue head spray poverty butter veteran lucky harsh comfort |  
+| bip_39_word_space_12 | sad rail argue head spray poverty butter veteran lucky harsh comfort air |  
+| bip_39_word_space_2 | sad rail |  
+| bip_39_word_space_3 | sad rail argue |  
+| bip_39_word_space_4 | sad rail argue head |  
+| bip_39_word_space_5 | sad rail argue head spray |  
+| bip_39_word_space_6 | sad rail argue head spray poverty |  
+| bip_39_word_space_7 | sad rail argue head spray poverty butter |  
+| bip_39_word_space_8 | sad rail argue head spray poverty butter veteran |  
+| bip_39_word_space_9 | sad rail argue head spray poverty butter veteran lucky |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

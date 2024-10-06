@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swarm dress
+  * bip 39 word 3: swarm dress gold
+  * bip 39 word: swarm dress gold bomb plug stuff argue cart stage fruit clay arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swarm |  
+| bip_39_word_new_br10 | swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff<br>argue<br>cart<br>stage<br>fruit |  
+| bip_39_word_new_br11 | swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff<br>argue<br>cart<br>stage<br>fruit<br>clay |  
+| bip_39_word_new_br12 | swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff<br>argue<br>cart<br>stage<br>fruit<br>clay<br>arrest |  
+| bip_39_word_new_br2 | swarm<br>dress |  
+| bip_39_word_new_br3 | swarm<br>dress<br>gold |  
+| bip_39_word_new_br4 | swarm<br>dress<br>gold<br>bomb |  
+| bip_39_word_new_br5 | swarm<br>dress<br>gold<br>bomb<br>plug |  
+| bip_39_word_new_br6 | swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff |  
+| bip_39_word_new_br7 | swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff<br>argue |  
+| bip_39_word_new_br8 | swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff<br>argue<br>cart |  
+| bip_39_word_new_br9 | swarm<br>dress<br>gold<br>bomb<br>plug<br>stuff<br>argue<br>cart<br>stage |  
+| bip_39_word_new_line1 | swarm |  
+| bip_39_word_new_line10 | swarm
+dress
+gold
+bomb
+plug
+stuff
+argue
+cart
+stage
+fruit |  
+| bip_39_word_new_line11 | swarm
+dress
+gold
+bomb
+plug
+stuff
+argue
+cart
+stage
+fruit
+clay |  
+| bip_39_word_new_line12 | swarm
+dress
+gold
+bomb
+plug
+stuff
+argue
+cart
+stage
+fruit
+clay
+arrest |  
+| bip_39_word_new_line2 | swarm
+dress |  
+| bip_39_word_new_line3 | swarm
+dress
+gold |  
+| bip_39_word_new_line4 | swarm
+dress
+gold
+bomb |  
+| bip_39_word_new_line5 | swarm
+dress
+gold
+bomb
+plug |  
+| bip_39_word_new_line6 | swarm
+dress
+gold
+bomb
+plug
+stuff |  
+| bip_39_word_new_line7 | swarm
+dress
+gold
+bomb
+plug
+stuff
+argue |  
+| bip_39_word_new_line8 | swarm
+dress
+gold
+bomb
+plug
+stuff
+argue
+cart |  
+| bip_39_word_new_line9 | swarm
+dress
+gold
+bomb
+plug
+stuff
+argue
+cart
+stage |  
+| bip_39_word_space_0 | ['swarm', 'dress', 'gold', 'bomb', 'plug', 'stuff', 'argue', 'cart', 'stage', 'fruit', 'clay', 'arrest'] |  
+| bip_39_word_space_1 | swarm |  
+| bip_39_word_space_10 | swarm dress gold bomb plug stuff argue cart stage fruit |  
+| bip_39_word_space_11 | swarm dress gold bomb plug stuff argue cart stage fruit clay |  
+| bip_39_word_space_12 | swarm dress gold bomb plug stuff argue cart stage fruit clay arrest |  
+| bip_39_word_space_2 | swarm dress |  
+| bip_39_word_space_3 | swarm dress gold |  
+| bip_39_word_space_4 | swarm dress gold bomb |  
+| bip_39_word_space_5 | swarm dress gold bomb plug |  
+| bip_39_word_space_6 | swarm dress gold bomb plug stuff |  
+| bip_39_word_space_7 | swarm dress gold bomb plug stuff argue |  
+| bip_39_word_space_8 | swarm dress gold bomb plug stuff argue cart |  
+| bip_39_word_space_9 | swarm dress gold bomb plug stuff argue cart stage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

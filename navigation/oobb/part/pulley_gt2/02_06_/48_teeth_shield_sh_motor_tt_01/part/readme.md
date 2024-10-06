@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alone gentle
+  * bip 39 word 3: alone gentle before
+  * bip 39 word: alone gentle before net upgrade slim wink major add salmon satisfy author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alone |  
+| bip_39_word_new_br10 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon |  
+| bip_39_word_new_br11 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon<br>satisfy |  
+| bip_39_word_new_br12 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add<br>salmon<br>satisfy<br>author |  
+| bip_39_word_new_br2 | alone<br>gentle |  
+| bip_39_word_new_br3 | alone<br>gentle<br>before |  
+| bip_39_word_new_br4 | alone<br>gentle<br>before<br>net |  
+| bip_39_word_new_br5 | alone<br>gentle<br>before<br>net<br>upgrade |  
+| bip_39_word_new_br6 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim |  
+| bip_39_word_new_br7 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink |  
+| bip_39_word_new_br8 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major |  
+| bip_39_word_new_br9 | alone<br>gentle<br>before<br>net<br>upgrade<br>slim<br>wink<br>major<br>add |  
+| bip_39_word_new_line1 | alone |  
+| bip_39_word_new_line10 | alone
+gentle
+before
+net
+upgrade
+slim
+wink
+major
+add
+salmon |  
+| bip_39_word_new_line11 | alone
+gentle
+before
+net
+upgrade
+slim
+wink
+major
+add
+salmon
+satisfy |  
+| bip_39_word_new_line12 | alone
+gentle
+before
+net
+upgrade
+slim
+wink
+major
+add
+salmon
+satisfy
+author |  
+| bip_39_word_new_line2 | alone
+gentle |  
+| bip_39_word_new_line3 | alone
+gentle
+before |  
+| bip_39_word_new_line4 | alone
+gentle
+before
+net |  
+| bip_39_word_new_line5 | alone
+gentle
+before
+net
+upgrade |  
+| bip_39_word_new_line6 | alone
+gentle
+before
+net
+upgrade
+slim |  
+| bip_39_word_new_line7 | alone
+gentle
+before
+net
+upgrade
+slim
+wink |  
+| bip_39_word_new_line8 | alone
+gentle
+before
+net
+upgrade
+slim
+wink
+major |  
+| bip_39_word_new_line9 | alone
+gentle
+before
+net
+upgrade
+slim
+wink
+major
+add |  
+| bip_39_word_space_0 | ['alone', 'gentle', 'before', 'net', 'upgrade', 'slim', 'wink', 'major', 'add', 'salmon', 'satisfy', 'author'] |  
+| bip_39_word_space_1 | alone |  
+| bip_39_word_space_10 | alone gentle before net upgrade slim wink major add salmon |  
+| bip_39_word_space_11 | alone gentle before net upgrade slim wink major add salmon satisfy |  
+| bip_39_word_space_12 | alone gentle before net upgrade slim wink major add salmon satisfy author |  
+| bip_39_word_space_2 | alone gentle |  
+| bip_39_word_space_3 | alone gentle before |  
+| bip_39_word_space_4 | alone gentle before net |  
+| bip_39_word_space_5 | alone gentle before net upgrade |  
+| bip_39_word_space_6 | alone gentle before net upgrade slim |  
+| bip_39_word_space_7 | alone gentle before net upgrade slim wink |  
+| bip_39_word_space_8 | alone gentle before net upgrade slim wink major |  
+| bip_39_word_space_9 | alone gentle before net upgrade slim wink major add |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

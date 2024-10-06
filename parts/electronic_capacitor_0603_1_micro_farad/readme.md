@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: radar cycle
+  * bip 39 word 3: radar cycle wear
+  * bip 39 word: radar cycle wear off parade excite mule document ozone wait speed attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | radar |  
+| bip_39_word_new_br10 | radar<br>cycle<br>wear<br>off<br>parade<br>excite<br>mule<br>document<br>ozone<br>wait |  
+| bip_39_word_new_br11 | radar<br>cycle<br>wear<br>off<br>parade<br>excite<br>mule<br>document<br>ozone<br>wait<br>speed |  
+| bip_39_word_new_br12 | radar<br>cycle<br>wear<br>off<br>parade<br>excite<br>mule<br>document<br>ozone<br>wait<br>speed<br>attack |  
+| bip_39_word_new_br2 | radar<br>cycle |  
+| bip_39_word_new_br3 | radar<br>cycle<br>wear |  
+| bip_39_word_new_br4 | radar<br>cycle<br>wear<br>off |  
+| bip_39_word_new_br5 | radar<br>cycle<br>wear<br>off<br>parade |  
+| bip_39_word_new_br6 | radar<br>cycle<br>wear<br>off<br>parade<br>excite |  
+| bip_39_word_new_br7 | radar<br>cycle<br>wear<br>off<br>parade<br>excite<br>mule |  
+| bip_39_word_new_br8 | radar<br>cycle<br>wear<br>off<br>parade<br>excite<br>mule<br>document |  
+| bip_39_word_new_br9 | radar<br>cycle<br>wear<br>off<br>parade<br>excite<br>mule<br>document<br>ozone |  
+| bip_39_word_new_line1 | radar |  
+| bip_39_word_new_line10 | radar
+cycle
+wear
+off
+parade
+excite
+mule
+document
+ozone
+wait |  
+| bip_39_word_new_line11 | radar
+cycle
+wear
+off
+parade
+excite
+mule
+document
+ozone
+wait
+speed |  
+| bip_39_word_new_line12 | radar
+cycle
+wear
+off
+parade
+excite
+mule
+document
+ozone
+wait
+speed
+attack |  
+| bip_39_word_new_line2 | radar
+cycle |  
+| bip_39_word_new_line3 | radar
+cycle
+wear |  
+| bip_39_word_new_line4 | radar
+cycle
+wear
+off |  
+| bip_39_word_new_line5 | radar
+cycle
+wear
+off
+parade |  
+| bip_39_word_new_line6 | radar
+cycle
+wear
+off
+parade
+excite |  
+| bip_39_word_new_line7 | radar
+cycle
+wear
+off
+parade
+excite
+mule |  
+| bip_39_word_new_line8 | radar
+cycle
+wear
+off
+parade
+excite
+mule
+document |  
+| bip_39_word_new_line9 | radar
+cycle
+wear
+off
+parade
+excite
+mule
+document
+ozone |  
+| bip_39_word_space_0 | ['radar', 'cycle', 'wear', 'off', 'parade', 'excite', 'mule', 'document', 'ozone', 'wait', 'speed', 'attack'] |  
+| bip_39_word_space_1 | radar |  
+| bip_39_word_space_10 | radar cycle wear off parade excite mule document ozone wait |  
+| bip_39_word_space_11 | radar cycle wear off parade excite mule document ozone wait speed |  
+| bip_39_word_space_12 | radar cycle wear off parade excite mule document ozone wait speed attack |  
+| bip_39_word_space_2 | radar cycle |  
+| bip_39_word_space_3 | radar cycle wear |  
+| bip_39_word_space_4 | radar cycle wear off |  
+| bip_39_word_space_5 | radar cycle wear off parade |  
+| bip_39_word_space_6 | radar cycle wear off parade excite |  
+| bip_39_word_space_7 | radar cycle wear off parade excite mule |  
+| bip_39_word_space_8 | radar cycle wear off parade excite mule document |  
+| bip_39_word_space_9 | radar cycle wear off parade excite mule document ozone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

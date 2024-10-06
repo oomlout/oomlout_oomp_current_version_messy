@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 770_mm_width_770_mm_height_390_mm_depth
   * manufacturer: ikea
   * part_number: 202_758_14
+  * bip 39 word 2: carry sad
+  * bip 39 word 3: carry sad orphan
+  * bip 39 word: carry sad orphan witness erupt spread merry coil eager tag merge apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | carry |  
+| bip_39_word_new_br10 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag |  
+| bip_39_word_new_br11 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge |  
+| bip_39_word_new_br12 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager<br>tag<br>merge<br>apology |  
+| bip_39_word_new_br2 | carry<br>sad |  
+| bip_39_word_new_br3 | carry<br>sad<br>orphan |  
+| bip_39_word_new_br4 | carry<br>sad<br>orphan<br>witness |  
+| bip_39_word_new_br5 | carry<br>sad<br>orphan<br>witness<br>erupt |  
+| bip_39_word_new_br6 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread |  
+| bip_39_word_new_br7 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry |  
+| bip_39_word_new_br8 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil |  
+| bip_39_word_new_br9 | carry<br>sad<br>orphan<br>witness<br>erupt<br>spread<br>merry<br>coil<br>eager |  
+| bip_39_word_new_line1 | carry |  
+| bip_39_word_new_line10 | carry
+sad
+orphan
+witness
+erupt
+spread
+merry
+coil
+eager
+tag |  
+| bip_39_word_new_line11 | carry
+sad
+orphan
+witness
+erupt
+spread
+merry
+coil
+eager
+tag
+merge |  
+| bip_39_word_new_line12 | carry
+sad
+orphan
+witness
+erupt
+spread
+merry
+coil
+eager
+tag
+merge
+apology |  
+| bip_39_word_new_line2 | carry
+sad |  
+| bip_39_word_new_line3 | carry
+sad
+orphan |  
+| bip_39_word_new_line4 | carry
+sad
+orphan
+witness |  
+| bip_39_word_new_line5 | carry
+sad
+orphan
+witness
+erupt |  
+| bip_39_word_new_line6 | carry
+sad
+orphan
+witness
+erupt
+spread |  
+| bip_39_word_new_line7 | carry
+sad
+orphan
+witness
+erupt
+spread
+merry |  
+| bip_39_word_new_line8 | carry
+sad
+orphan
+witness
+erupt
+spread
+merry
+coil |  
+| bip_39_word_new_line9 | carry
+sad
+orphan
+witness
+erupt
+spread
+merry
+coil
+eager |  
+| bip_39_word_space_0 | ['carry', 'sad', 'orphan', 'witness', 'erupt', 'spread', 'merry', 'coil', 'eager', 'tag', 'merge', 'apology'] |  
+| bip_39_word_space_1 | carry |  
+| bip_39_word_space_10 | carry sad orphan witness erupt spread merry coil eager tag |  
+| bip_39_word_space_11 | carry sad orphan witness erupt spread merry coil eager tag merge |  
+| bip_39_word_space_12 | carry sad orphan witness erupt spread merry coil eager tag merge apology |  
+| bip_39_word_space_2 | carry sad |  
+| bip_39_word_space_3 | carry sad orphan |  
+| bip_39_word_space_4 | carry sad orphan witness |  
+| bip_39_word_space_5 | carry sad orphan witness erupt |  
+| bip_39_word_space_6 | carry sad orphan witness erupt spread |  
+| bip_39_word_space_7 | carry sad orphan witness erupt spread merry |  
+| bip_39_word_space_8 | carry sad orphan witness erupt spread merry coil |  
+| bip_39_word_space_9 | carry sad orphan witness erupt spread merry coil eager |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

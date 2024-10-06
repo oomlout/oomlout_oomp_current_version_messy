@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crane exercise
+  * bip 39 word 3: crane exercise final
+  * bip 39 word: crane exercise final seven day grab code roof cheap position choose amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crane |  
+| bip_39_word_new_br10 | crane<br>exercise<br>final<br>seven<br>day<br>grab<br>code<br>roof<br>cheap<br>position |  
+| bip_39_word_new_br11 | crane<br>exercise<br>final<br>seven<br>day<br>grab<br>code<br>roof<br>cheap<br>position<br>choose |  
+| bip_39_word_new_br12 | crane<br>exercise<br>final<br>seven<br>day<br>grab<br>code<br>roof<br>cheap<br>position<br>choose<br>amazing |  
+| bip_39_word_new_br2 | crane<br>exercise |  
+| bip_39_word_new_br3 | crane<br>exercise<br>final |  
+| bip_39_word_new_br4 | crane<br>exercise<br>final<br>seven |  
+| bip_39_word_new_br5 | crane<br>exercise<br>final<br>seven<br>day |  
+| bip_39_word_new_br6 | crane<br>exercise<br>final<br>seven<br>day<br>grab |  
+| bip_39_word_new_br7 | crane<br>exercise<br>final<br>seven<br>day<br>grab<br>code |  
+| bip_39_word_new_br8 | crane<br>exercise<br>final<br>seven<br>day<br>grab<br>code<br>roof |  
+| bip_39_word_new_br9 | crane<br>exercise<br>final<br>seven<br>day<br>grab<br>code<br>roof<br>cheap |  
+| bip_39_word_new_line1 | crane |  
+| bip_39_word_new_line10 | crane
+exercise
+final
+seven
+day
+grab
+code
+roof
+cheap
+position |  
+| bip_39_word_new_line11 | crane
+exercise
+final
+seven
+day
+grab
+code
+roof
+cheap
+position
+choose |  
+| bip_39_word_new_line12 | crane
+exercise
+final
+seven
+day
+grab
+code
+roof
+cheap
+position
+choose
+amazing |  
+| bip_39_word_new_line2 | crane
+exercise |  
+| bip_39_word_new_line3 | crane
+exercise
+final |  
+| bip_39_word_new_line4 | crane
+exercise
+final
+seven |  
+| bip_39_word_new_line5 | crane
+exercise
+final
+seven
+day |  
+| bip_39_word_new_line6 | crane
+exercise
+final
+seven
+day
+grab |  
+| bip_39_word_new_line7 | crane
+exercise
+final
+seven
+day
+grab
+code |  
+| bip_39_word_new_line8 | crane
+exercise
+final
+seven
+day
+grab
+code
+roof |  
+| bip_39_word_new_line9 | crane
+exercise
+final
+seven
+day
+grab
+code
+roof
+cheap |  
+| bip_39_word_space_0 | ['crane', 'exercise', 'final', 'seven', 'day', 'grab', 'code', 'roof', 'cheap', 'position', 'choose', 'amazing'] |  
+| bip_39_word_space_1 | crane |  
+| bip_39_word_space_10 | crane exercise final seven day grab code roof cheap position |  
+| bip_39_word_space_11 | crane exercise final seven day grab code roof cheap position choose |  
+| bip_39_word_space_12 | crane exercise final seven day grab code roof cheap position choose amazing |  
+| bip_39_word_space_2 | crane exercise |  
+| bip_39_word_space_3 | crane exercise final |  
+| bip_39_word_space_4 | crane exercise final seven |  
+| bip_39_word_space_5 | crane exercise final seven day |  
+| bip_39_word_space_6 | crane exercise final seven day grab |  
+| bip_39_word_space_7 | crane exercise final seven day grab code |  
+| bip_39_word_space_8 | crane exercise final seven day grab code roof |  
+| bip_39_word_space_9 | crane exercise final seven day grab code roof cheap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

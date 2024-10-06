@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: wch
   * part_number: ch340c
+  * bip 39 word 2: black round
+  * bip 39 word 3: black round shadow
+  * bip 39 word: black round shadow critic guitar luxury aisle win skirt crop original anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | black |  
+| bip_39_word_new_br10 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop |  
+| bip_39_word_new_br11 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop<br>original |  
+| bip_39_word_new_br12 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt<br>crop<br>original<br>anger |  
+| bip_39_word_new_br2 | black<br>round |  
+| bip_39_word_new_br3 | black<br>round<br>shadow |  
+| bip_39_word_new_br4 | black<br>round<br>shadow<br>critic |  
+| bip_39_word_new_br5 | black<br>round<br>shadow<br>critic<br>guitar |  
+| bip_39_word_new_br6 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury |  
+| bip_39_word_new_br7 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle |  
+| bip_39_word_new_br8 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win |  
+| bip_39_word_new_br9 | black<br>round<br>shadow<br>critic<br>guitar<br>luxury<br>aisle<br>win<br>skirt |  
+| bip_39_word_new_line1 | black |  
+| bip_39_word_new_line10 | black
+round
+shadow
+critic
+guitar
+luxury
+aisle
+win
+skirt
+crop |  
+| bip_39_word_new_line11 | black
+round
+shadow
+critic
+guitar
+luxury
+aisle
+win
+skirt
+crop
+original |  
+| bip_39_word_new_line12 | black
+round
+shadow
+critic
+guitar
+luxury
+aisle
+win
+skirt
+crop
+original
+anger |  
+| bip_39_word_new_line2 | black
+round |  
+| bip_39_word_new_line3 | black
+round
+shadow |  
+| bip_39_word_new_line4 | black
+round
+shadow
+critic |  
+| bip_39_word_new_line5 | black
+round
+shadow
+critic
+guitar |  
+| bip_39_word_new_line6 | black
+round
+shadow
+critic
+guitar
+luxury |  
+| bip_39_word_new_line7 | black
+round
+shadow
+critic
+guitar
+luxury
+aisle |  
+| bip_39_word_new_line8 | black
+round
+shadow
+critic
+guitar
+luxury
+aisle
+win |  
+| bip_39_word_new_line9 | black
+round
+shadow
+critic
+guitar
+luxury
+aisle
+win
+skirt |  
+| bip_39_word_space_0 | ['black', 'round', 'shadow', 'critic', 'guitar', 'luxury', 'aisle', 'win', 'skirt', 'crop', 'original', 'anger'] |  
+| bip_39_word_space_1 | black |  
+| bip_39_word_space_10 | black round shadow critic guitar luxury aisle win skirt crop |  
+| bip_39_word_space_11 | black round shadow critic guitar luxury aisle win skirt crop original |  
+| bip_39_word_space_12 | black round shadow critic guitar luxury aisle win skirt crop original anger |  
+| bip_39_word_space_2 | black round |  
+| bip_39_word_space_3 | black round shadow |  
+| bip_39_word_space_4 | black round shadow critic |  
+| bip_39_word_space_5 | black round shadow critic guitar |  
+| bip_39_word_space_6 | black round shadow critic guitar luxury |  
+| bip_39_word_space_7 | black round shadow critic guitar luxury aisle |  
+| bip_39_word_space_8 | black round shadow critic guitar luxury aisle win |  
+| bip_39_word_space_9 | black round shadow critic guitar luxury aisle win skirt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

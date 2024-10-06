@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gentle ozone
+  * bip 39 word 3: gentle ozone flash
+  * bip 39 word: gentle ozone flash message bargain double abuse celery diet oyster gadget armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gentle |  
+| bip_39_word_new_br10 | gentle<br>ozone<br>flash<br>message<br>bargain<br>double<br>abuse<br>celery<br>diet<br>oyster |  
+| bip_39_word_new_br11 | gentle<br>ozone<br>flash<br>message<br>bargain<br>double<br>abuse<br>celery<br>diet<br>oyster<br>gadget |  
+| bip_39_word_new_br12 | gentle<br>ozone<br>flash<br>message<br>bargain<br>double<br>abuse<br>celery<br>diet<br>oyster<br>gadget<br>armor |  
+| bip_39_word_new_br2 | gentle<br>ozone |  
+| bip_39_word_new_br3 | gentle<br>ozone<br>flash |  
+| bip_39_word_new_br4 | gentle<br>ozone<br>flash<br>message |  
+| bip_39_word_new_br5 | gentle<br>ozone<br>flash<br>message<br>bargain |  
+| bip_39_word_new_br6 | gentle<br>ozone<br>flash<br>message<br>bargain<br>double |  
+| bip_39_word_new_br7 | gentle<br>ozone<br>flash<br>message<br>bargain<br>double<br>abuse |  
+| bip_39_word_new_br8 | gentle<br>ozone<br>flash<br>message<br>bargain<br>double<br>abuse<br>celery |  
+| bip_39_word_new_br9 | gentle<br>ozone<br>flash<br>message<br>bargain<br>double<br>abuse<br>celery<br>diet |  
+| bip_39_word_new_line1 | gentle |  
+| bip_39_word_new_line10 | gentle
+ozone
+flash
+message
+bargain
+double
+abuse
+celery
+diet
+oyster |  
+| bip_39_word_new_line11 | gentle
+ozone
+flash
+message
+bargain
+double
+abuse
+celery
+diet
+oyster
+gadget |  
+| bip_39_word_new_line12 | gentle
+ozone
+flash
+message
+bargain
+double
+abuse
+celery
+diet
+oyster
+gadget
+armor |  
+| bip_39_word_new_line2 | gentle
+ozone |  
+| bip_39_word_new_line3 | gentle
+ozone
+flash |  
+| bip_39_word_new_line4 | gentle
+ozone
+flash
+message |  
+| bip_39_word_new_line5 | gentle
+ozone
+flash
+message
+bargain |  
+| bip_39_word_new_line6 | gentle
+ozone
+flash
+message
+bargain
+double |  
+| bip_39_word_new_line7 | gentle
+ozone
+flash
+message
+bargain
+double
+abuse |  
+| bip_39_word_new_line8 | gentle
+ozone
+flash
+message
+bargain
+double
+abuse
+celery |  
+| bip_39_word_new_line9 | gentle
+ozone
+flash
+message
+bargain
+double
+abuse
+celery
+diet |  
+| bip_39_word_space_0 | ['gentle', 'ozone', 'flash', 'message', 'bargain', 'double', 'abuse', 'celery', 'diet', 'oyster', 'gadget', 'armor'] |  
+| bip_39_word_space_1 | gentle |  
+| bip_39_word_space_10 | gentle ozone flash message bargain double abuse celery diet oyster |  
+| bip_39_word_space_11 | gentle ozone flash message bargain double abuse celery diet oyster gadget |  
+| bip_39_word_space_12 | gentle ozone flash message bargain double abuse celery diet oyster gadget armor |  
+| bip_39_word_space_2 | gentle ozone |  
+| bip_39_word_space_3 | gentle ozone flash |  
+| bip_39_word_space_4 | gentle ozone flash message |  
+| bip_39_word_space_5 | gentle ozone flash message bargain |  
+| bip_39_word_space_6 | gentle ozone flash message bargain double |  
+| bip_39_word_space_7 | gentle ozone flash message bargain double abuse |  
+| bip_39_word_space_8 | gentle ozone flash message bargain double abuse celery |  
+| bip_39_word_space_9 | gentle ozone flash message bargain double abuse celery diet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

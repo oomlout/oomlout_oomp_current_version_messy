@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrap jazz
+  * bip 39 word 3: wrap jazz supreme
+  * bip 39 word: wrap jazz supreme pulse ivory walk high ugly output route demise all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrap |  
+| bip_39_word_new_br10 | wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk<br>high<br>ugly<br>output<br>route |  
+| bip_39_word_new_br11 | wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk<br>high<br>ugly<br>output<br>route<br>demise |  
+| bip_39_word_new_br12 | wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk<br>high<br>ugly<br>output<br>route<br>demise<br>all |  
+| bip_39_word_new_br2 | wrap<br>jazz |  
+| bip_39_word_new_br3 | wrap<br>jazz<br>supreme |  
+| bip_39_word_new_br4 | wrap<br>jazz<br>supreme<br>pulse |  
+| bip_39_word_new_br5 | wrap<br>jazz<br>supreme<br>pulse<br>ivory |  
+| bip_39_word_new_br6 | wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk |  
+| bip_39_word_new_br7 | wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk<br>high |  
+| bip_39_word_new_br8 | wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk<br>high<br>ugly |  
+| bip_39_word_new_br9 | wrap<br>jazz<br>supreme<br>pulse<br>ivory<br>walk<br>high<br>ugly<br>output |  
+| bip_39_word_new_line1 | wrap |  
+| bip_39_word_new_line10 | wrap
+jazz
+supreme
+pulse
+ivory
+walk
+high
+ugly
+output
+route |  
+| bip_39_word_new_line11 | wrap
+jazz
+supreme
+pulse
+ivory
+walk
+high
+ugly
+output
+route
+demise |  
+| bip_39_word_new_line12 | wrap
+jazz
+supreme
+pulse
+ivory
+walk
+high
+ugly
+output
+route
+demise
+all |  
+| bip_39_word_new_line2 | wrap
+jazz |  
+| bip_39_word_new_line3 | wrap
+jazz
+supreme |  
+| bip_39_word_new_line4 | wrap
+jazz
+supreme
+pulse |  
+| bip_39_word_new_line5 | wrap
+jazz
+supreme
+pulse
+ivory |  
+| bip_39_word_new_line6 | wrap
+jazz
+supreme
+pulse
+ivory
+walk |  
+| bip_39_word_new_line7 | wrap
+jazz
+supreme
+pulse
+ivory
+walk
+high |  
+| bip_39_word_new_line8 | wrap
+jazz
+supreme
+pulse
+ivory
+walk
+high
+ugly |  
+| bip_39_word_new_line9 | wrap
+jazz
+supreme
+pulse
+ivory
+walk
+high
+ugly
+output |  
+| bip_39_word_space_0 | ['wrap', 'jazz', 'supreme', 'pulse', 'ivory', 'walk', 'high', 'ugly', 'output', 'route', 'demise', 'all'] |  
+| bip_39_word_space_1 | wrap |  
+| bip_39_word_space_10 | wrap jazz supreme pulse ivory walk high ugly output route |  
+| bip_39_word_space_11 | wrap jazz supreme pulse ivory walk high ugly output route demise |  
+| bip_39_word_space_12 | wrap jazz supreme pulse ivory walk high ugly output route demise all |  
+| bip_39_word_space_2 | wrap jazz |  
+| bip_39_word_space_3 | wrap jazz supreme |  
+| bip_39_word_space_4 | wrap jazz supreme pulse |  
+| bip_39_word_space_5 | wrap jazz supreme pulse ivory |  
+| bip_39_word_space_6 | wrap jazz supreme pulse ivory walk |  
+| bip_39_word_space_7 | wrap jazz supreme pulse ivory walk high |  
+| bip_39_word_space_8 | wrap jazz supreme pulse ivory walk high ugly |  
+| bip_39_word_space_9 | wrap jazz supreme pulse ivory walk high ugly output |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

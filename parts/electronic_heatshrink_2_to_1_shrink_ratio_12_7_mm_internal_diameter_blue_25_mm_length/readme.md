@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: divorce rose
+  * bip 39 word 3: divorce rose indoor
+  * bip 39 word: divorce rose indoor marine pull brush hint spin picture portion fire advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | divorce |  
+| bip_39_word_new_br10 | divorce<br>rose<br>indoor<br>marine<br>pull<br>brush<br>hint<br>spin<br>picture<br>portion |  
+| bip_39_word_new_br11 | divorce<br>rose<br>indoor<br>marine<br>pull<br>brush<br>hint<br>spin<br>picture<br>portion<br>fire |  
+| bip_39_word_new_br12 | divorce<br>rose<br>indoor<br>marine<br>pull<br>brush<br>hint<br>spin<br>picture<br>portion<br>fire<br>advance |  
+| bip_39_word_new_br2 | divorce<br>rose |  
+| bip_39_word_new_br3 | divorce<br>rose<br>indoor |  
+| bip_39_word_new_br4 | divorce<br>rose<br>indoor<br>marine |  
+| bip_39_word_new_br5 | divorce<br>rose<br>indoor<br>marine<br>pull |  
+| bip_39_word_new_br6 | divorce<br>rose<br>indoor<br>marine<br>pull<br>brush |  
+| bip_39_word_new_br7 | divorce<br>rose<br>indoor<br>marine<br>pull<br>brush<br>hint |  
+| bip_39_word_new_br8 | divorce<br>rose<br>indoor<br>marine<br>pull<br>brush<br>hint<br>spin |  
+| bip_39_word_new_br9 | divorce<br>rose<br>indoor<br>marine<br>pull<br>brush<br>hint<br>spin<br>picture |  
+| bip_39_word_new_line1 | divorce |  
+| bip_39_word_new_line10 | divorce
+rose
+indoor
+marine
+pull
+brush
+hint
+spin
+picture
+portion |  
+| bip_39_word_new_line11 | divorce
+rose
+indoor
+marine
+pull
+brush
+hint
+spin
+picture
+portion
+fire |  
+| bip_39_word_new_line12 | divorce
+rose
+indoor
+marine
+pull
+brush
+hint
+spin
+picture
+portion
+fire
+advance |  
+| bip_39_word_new_line2 | divorce
+rose |  
+| bip_39_word_new_line3 | divorce
+rose
+indoor |  
+| bip_39_word_new_line4 | divorce
+rose
+indoor
+marine |  
+| bip_39_word_new_line5 | divorce
+rose
+indoor
+marine
+pull |  
+| bip_39_word_new_line6 | divorce
+rose
+indoor
+marine
+pull
+brush |  
+| bip_39_word_new_line7 | divorce
+rose
+indoor
+marine
+pull
+brush
+hint |  
+| bip_39_word_new_line8 | divorce
+rose
+indoor
+marine
+pull
+brush
+hint
+spin |  
+| bip_39_word_new_line9 | divorce
+rose
+indoor
+marine
+pull
+brush
+hint
+spin
+picture |  
+| bip_39_word_space_0 | ['divorce', 'rose', 'indoor', 'marine', 'pull', 'brush', 'hint', 'spin', 'picture', 'portion', 'fire', 'advance'] |  
+| bip_39_word_space_1 | divorce |  
+| bip_39_word_space_10 | divorce rose indoor marine pull brush hint spin picture portion |  
+| bip_39_word_space_11 | divorce rose indoor marine pull brush hint spin picture portion fire |  
+| bip_39_word_space_12 | divorce rose indoor marine pull brush hint spin picture portion fire advance |  
+| bip_39_word_space_2 | divorce rose |  
+| bip_39_word_space_3 | divorce rose indoor |  
+| bip_39_word_space_4 | divorce rose indoor marine |  
+| bip_39_word_space_5 | divorce rose indoor marine pull |  
+| bip_39_word_space_6 | divorce rose indoor marine pull brush |  
+| bip_39_word_space_7 | divorce rose indoor marine pull brush hint |  
+| bip_39_word_space_8 | divorce rose indoor marine pull brush hint spin |  
+| bip_39_word_space_9 | divorce rose indoor marine pull brush hint spin picture |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

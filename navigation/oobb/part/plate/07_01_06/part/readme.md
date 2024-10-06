@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: burden issue
+  * bip 39 word 3: burden issue zone
+  * bip 39 word: burden issue zone patch disorder frown sample stay maze enhance rigid accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | burden |  
+| bip_39_word_new_br10 | burden<br>issue<br>zone<br>patch<br>disorder<br>frown<br>sample<br>stay<br>maze<br>enhance |  
+| bip_39_word_new_br11 | burden<br>issue<br>zone<br>patch<br>disorder<br>frown<br>sample<br>stay<br>maze<br>enhance<br>rigid |  
+| bip_39_word_new_br12 | burden<br>issue<br>zone<br>patch<br>disorder<br>frown<br>sample<br>stay<br>maze<br>enhance<br>rigid<br>accuse |  
+| bip_39_word_new_br2 | burden<br>issue |  
+| bip_39_word_new_br3 | burden<br>issue<br>zone |  
+| bip_39_word_new_br4 | burden<br>issue<br>zone<br>patch |  
+| bip_39_word_new_br5 | burden<br>issue<br>zone<br>patch<br>disorder |  
+| bip_39_word_new_br6 | burden<br>issue<br>zone<br>patch<br>disorder<br>frown |  
+| bip_39_word_new_br7 | burden<br>issue<br>zone<br>patch<br>disorder<br>frown<br>sample |  
+| bip_39_word_new_br8 | burden<br>issue<br>zone<br>patch<br>disorder<br>frown<br>sample<br>stay |  
+| bip_39_word_new_br9 | burden<br>issue<br>zone<br>patch<br>disorder<br>frown<br>sample<br>stay<br>maze |  
+| bip_39_word_new_line1 | burden |  
+| bip_39_word_new_line10 | burden
+issue
+zone
+patch
+disorder
+frown
+sample
+stay
+maze
+enhance |  
+| bip_39_word_new_line11 | burden
+issue
+zone
+patch
+disorder
+frown
+sample
+stay
+maze
+enhance
+rigid |  
+| bip_39_word_new_line12 | burden
+issue
+zone
+patch
+disorder
+frown
+sample
+stay
+maze
+enhance
+rigid
+accuse |  
+| bip_39_word_new_line2 | burden
+issue |  
+| bip_39_word_new_line3 | burden
+issue
+zone |  
+| bip_39_word_new_line4 | burden
+issue
+zone
+patch |  
+| bip_39_word_new_line5 | burden
+issue
+zone
+patch
+disorder |  
+| bip_39_word_new_line6 | burden
+issue
+zone
+patch
+disorder
+frown |  
+| bip_39_word_new_line7 | burden
+issue
+zone
+patch
+disorder
+frown
+sample |  
+| bip_39_word_new_line8 | burden
+issue
+zone
+patch
+disorder
+frown
+sample
+stay |  
+| bip_39_word_new_line9 | burden
+issue
+zone
+patch
+disorder
+frown
+sample
+stay
+maze |  
+| bip_39_word_space_0 | ['burden', 'issue', 'zone', 'patch', 'disorder', 'frown', 'sample', 'stay', 'maze', 'enhance', 'rigid', 'accuse'] |  
+| bip_39_word_space_1 | burden |  
+| bip_39_word_space_10 | burden issue zone patch disorder frown sample stay maze enhance |  
+| bip_39_word_space_11 | burden issue zone patch disorder frown sample stay maze enhance rigid |  
+| bip_39_word_space_12 | burden issue zone patch disorder frown sample stay maze enhance rigid accuse |  
+| bip_39_word_space_2 | burden issue |  
+| bip_39_word_space_3 | burden issue zone |  
+| bip_39_word_space_4 | burden issue zone patch |  
+| bip_39_word_space_5 | burden issue zone patch disorder |  
+| bip_39_word_space_6 | burden issue zone patch disorder frown |  
+| bip_39_word_space_7 | burden issue zone patch disorder frown sample |  
+| bip_39_word_space_8 | burden issue zone patch disorder frown sample stay |  
+| bip_39_word_space_9 | burden issue zone patch disorder frown sample stay maze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

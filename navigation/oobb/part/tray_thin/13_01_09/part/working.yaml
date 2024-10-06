@@ -1,3 +1,185 @@
+bip_39_word_new_br1: 'false'
+bip_39_word_new_br10: false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil
+bip_39_word_new_br11: false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil<br>feed
+bip_39_word_new_br12: false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget<br>pupil<br>feed<br>afford
+bip_39_word_new_br2: false<br>gown
+bip_39_word_new_br3: false<br>gown<br>cherry
+bip_39_word_new_br4: false<br>gown<br>cherry<br>library
+bip_39_word_new_br5: false<br>gown<br>cherry<br>library<br>drop
+bip_39_word_new_br6: false<br>gown<br>cherry<br>library<br>drop<br>angry
+bip_39_word_new_br7: false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle
+bip_39_word_new_br8: false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice
+bip_39_word_new_br9: false<br>gown<br>cherry<br>library<br>drop<br>angry<br>idle<br>ice<br>forget
+bip_39_word_new_line1: 'false'
+bip_39_word_new_line10: 'false
+
+  gown
+
+  cherry
+
+  library
+
+  drop
+
+  angry
+
+  idle
+
+  ice
+
+  forget
+
+  pupil'
+bip_39_word_new_line11: 'false
+
+  gown
+
+  cherry
+
+  library
+
+  drop
+
+  angry
+
+  idle
+
+  ice
+
+  forget
+
+  pupil
+
+  feed'
+bip_39_word_new_line12: 'false
+
+  gown
+
+  cherry
+
+  library
+
+  drop
+
+  angry
+
+  idle
+
+  ice
+
+  forget
+
+  pupil
+
+  feed
+
+  afford'
+bip_39_word_new_line2: 'false
+
+  gown'
+bip_39_word_new_line3: 'false
+
+  gown
+
+  cherry'
+bip_39_word_new_line4: 'false
+
+  gown
+
+  cherry
+
+  library'
+bip_39_word_new_line5: 'false
+
+  gown
+
+  cherry
+
+  library
+
+  drop'
+bip_39_word_new_line6: 'false
+
+  gown
+
+  cherry
+
+  library
+
+  drop
+
+  angry'
+bip_39_word_new_line7: 'false
+
+  gown
+
+  cherry
+
+  library
+
+  drop
+
+  angry
+
+  idle'
+bip_39_word_new_line8: 'false
+
+  gown
+
+  cherry
+
+  library
+
+  drop
+
+  angry
+
+  idle
+
+  ice'
+bip_39_word_new_line9: 'false
+
+  gown
+
+  cherry
+
+  library
+
+  drop
+
+  angry
+
+  idle
+
+  ice
+
+  forget'
+bip_39_word_space_0:
+- 'false'
+- gown
+- cherry
+- library
+- drop
+- angry
+- idle
+- ice
+- forget
+- pupil
+- feed
+- afford
+bip_39_word_space_1: 'false'
+bip_39_word_space_10: false gown cherry library drop angry idle ice forget pupil
+bip_39_word_space_11: false gown cherry library drop angry idle ice forget pupil feed
+bip_39_word_space_12: false gown cherry library drop angry idle ice forget pupil feed
+  afford
+bip_39_word_space_2: false gown
+bip_39_word_space_3: false gown cherry
+bip_39_word_space_4: false gown cherry library
+bip_39_word_space_5: false gown cherry library drop
+bip_39_word_space_6: false gown cherry library drop angry
+bip_39_word_space_7: false gown cherry library drop angry idle
+bip_39_word_space_8: false gown cherry library drop angry idle ice
+bip_39_word_space_9: false gown cherry library drop angry idle ice forget
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

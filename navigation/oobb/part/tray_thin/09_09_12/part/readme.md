@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fan crawl
+  * bip 39 word 3: fan crawl juice
+  * bip 39 word: fan crawl juice before punch bracket swarm rice panther sail road angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fan |  
+| bip_39_word_new_br10 | fan<br>crawl<br>juice<br>before<br>punch<br>bracket<br>swarm<br>rice<br>panther<br>sail |  
+| bip_39_word_new_br11 | fan<br>crawl<br>juice<br>before<br>punch<br>bracket<br>swarm<br>rice<br>panther<br>sail<br>road |  
+| bip_39_word_new_br12 | fan<br>crawl<br>juice<br>before<br>punch<br>bracket<br>swarm<br>rice<br>panther<br>sail<br>road<br>angle |  
+| bip_39_word_new_br2 | fan<br>crawl |  
+| bip_39_word_new_br3 | fan<br>crawl<br>juice |  
+| bip_39_word_new_br4 | fan<br>crawl<br>juice<br>before |  
+| bip_39_word_new_br5 | fan<br>crawl<br>juice<br>before<br>punch |  
+| bip_39_word_new_br6 | fan<br>crawl<br>juice<br>before<br>punch<br>bracket |  
+| bip_39_word_new_br7 | fan<br>crawl<br>juice<br>before<br>punch<br>bracket<br>swarm |  
+| bip_39_word_new_br8 | fan<br>crawl<br>juice<br>before<br>punch<br>bracket<br>swarm<br>rice |  
+| bip_39_word_new_br9 | fan<br>crawl<br>juice<br>before<br>punch<br>bracket<br>swarm<br>rice<br>panther |  
+| bip_39_word_new_line1 | fan |  
+| bip_39_word_new_line10 | fan
+crawl
+juice
+before
+punch
+bracket
+swarm
+rice
+panther
+sail |  
+| bip_39_word_new_line11 | fan
+crawl
+juice
+before
+punch
+bracket
+swarm
+rice
+panther
+sail
+road |  
+| bip_39_word_new_line12 | fan
+crawl
+juice
+before
+punch
+bracket
+swarm
+rice
+panther
+sail
+road
+angle |  
+| bip_39_word_new_line2 | fan
+crawl |  
+| bip_39_word_new_line3 | fan
+crawl
+juice |  
+| bip_39_word_new_line4 | fan
+crawl
+juice
+before |  
+| bip_39_word_new_line5 | fan
+crawl
+juice
+before
+punch |  
+| bip_39_word_new_line6 | fan
+crawl
+juice
+before
+punch
+bracket |  
+| bip_39_word_new_line7 | fan
+crawl
+juice
+before
+punch
+bracket
+swarm |  
+| bip_39_word_new_line8 | fan
+crawl
+juice
+before
+punch
+bracket
+swarm
+rice |  
+| bip_39_word_new_line9 | fan
+crawl
+juice
+before
+punch
+bracket
+swarm
+rice
+panther |  
+| bip_39_word_space_0 | ['fan', 'crawl', 'juice', 'before', 'punch', 'bracket', 'swarm', 'rice', 'panther', 'sail', 'road', 'angle'] |  
+| bip_39_word_space_1 | fan |  
+| bip_39_word_space_10 | fan crawl juice before punch bracket swarm rice panther sail |  
+| bip_39_word_space_11 | fan crawl juice before punch bracket swarm rice panther sail road |  
+| bip_39_word_space_12 | fan crawl juice before punch bracket swarm rice panther sail road angle |  
+| bip_39_word_space_2 | fan crawl |  
+| bip_39_word_space_3 | fan crawl juice |  
+| bip_39_word_space_4 | fan crawl juice before |  
+| bip_39_word_space_5 | fan crawl juice before punch |  
+| bip_39_word_space_6 | fan crawl juice before punch bracket |  
+| bip_39_word_space_7 | fan crawl juice before punch bracket swarm |  
+| bip_39_word_space_8 | fan crawl juice before punch bracket swarm rice |  
+| bip_39_word_space_9 | fan crawl juice before punch bracket swarm rice panther |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

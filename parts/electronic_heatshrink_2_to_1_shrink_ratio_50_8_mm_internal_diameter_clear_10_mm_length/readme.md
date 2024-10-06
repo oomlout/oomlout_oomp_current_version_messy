@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: topic picnic
+  * bip 39 word 3: topic picnic level
+  * bip 39 word: topic picnic level move exact umbrella census unfold cradle refuse antenna advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | topic |  
+| bip_39_word_new_br10 | topic<br>picnic<br>level<br>move<br>exact<br>umbrella<br>census<br>unfold<br>cradle<br>refuse |  
+| bip_39_word_new_br11 | topic<br>picnic<br>level<br>move<br>exact<br>umbrella<br>census<br>unfold<br>cradle<br>refuse<br>antenna |  
+| bip_39_word_new_br12 | topic<br>picnic<br>level<br>move<br>exact<br>umbrella<br>census<br>unfold<br>cradle<br>refuse<br>antenna<br>advice |  
+| bip_39_word_new_br2 | topic<br>picnic |  
+| bip_39_word_new_br3 | topic<br>picnic<br>level |  
+| bip_39_word_new_br4 | topic<br>picnic<br>level<br>move |  
+| bip_39_word_new_br5 | topic<br>picnic<br>level<br>move<br>exact |  
+| bip_39_word_new_br6 | topic<br>picnic<br>level<br>move<br>exact<br>umbrella |  
+| bip_39_word_new_br7 | topic<br>picnic<br>level<br>move<br>exact<br>umbrella<br>census |  
+| bip_39_word_new_br8 | topic<br>picnic<br>level<br>move<br>exact<br>umbrella<br>census<br>unfold |  
+| bip_39_word_new_br9 | topic<br>picnic<br>level<br>move<br>exact<br>umbrella<br>census<br>unfold<br>cradle |  
+| bip_39_word_new_line1 | topic |  
+| bip_39_word_new_line10 | topic
+picnic
+level
+move
+exact
+umbrella
+census
+unfold
+cradle
+refuse |  
+| bip_39_word_new_line11 | topic
+picnic
+level
+move
+exact
+umbrella
+census
+unfold
+cradle
+refuse
+antenna |  
+| bip_39_word_new_line12 | topic
+picnic
+level
+move
+exact
+umbrella
+census
+unfold
+cradle
+refuse
+antenna
+advice |  
+| bip_39_word_new_line2 | topic
+picnic |  
+| bip_39_word_new_line3 | topic
+picnic
+level |  
+| bip_39_word_new_line4 | topic
+picnic
+level
+move |  
+| bip_39_word_new_line5 | topic
+picnic
+level
+move
+exact |  
+| bip_39_word_new_line6 | topic
+picnic
+level
+move
+exact
+umbrella |  
+| bip_39_word_new_line7 | topic
+picnic
+level
+move
+exact
+umbrella
+census |  
+| bip_39_word_new_line8 | topic
+picnic
+level
+move
+exact
+umbrella
+census
+unfold |  
+| bip_39_word_new_line9 | topic
+picnic
+level
+move
+exact
+umbrella
+census
+unfold
+cradle |  
+| bip_39_word_space_0 | ['topic', 'picnic', 'level', 'move', 'exact', 'umbrella', 'census', 'unfold', 'cradle', 'refuse', 'antenna', 'advice'] |  
+| bip_39_word_space_1 | topic |  
+| bip_39_word_space_10 | topic picnic level move exact umbrella census unfold cradle refuse |  
+| bip_39_word_space_11 | topic picnic level move exact umbrella census unfold cradle refuse antenna |  
+| bip_39_word_space_12 | topic picnic level move exact umbrella census unfold cradle refuse antenna advice |  
+| bip_39_word_space_2 | topic picnic |  
+| bip_39_word_space_3 | topic picnic level |  
+| bip_39_word_space_4 | topic picnic level move |  
+| bip_39_word_space_5 | topic picnic level move exact |  
+| bip_39_word_space_6 | topic picnic level move exact umbrella |  
+| bip_39_word_space_7 | topic picnic level move exact umbrella census |  
+| bip_39_word_space_8 | topic picnic level move exact umbrella census unfold |  
+| bip_39_word_space_9 | topic picnic level move exact umbrella census unfold cradle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: first pioneer
+  * bip 39 word 3: first pioneer word
+  * bip 39 word: first pioneer word thought voice warfare arctic attack skin tiny sun afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | first |  
+| bip_39_word_new_br10 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare<br>arctic<br>attack<br>skin<br>tiny |  
+| bip_39_word_new_br11 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare<br>arctic<br>attack<br>skin<br>tiny<br>sun |  
+| bip_39_word_new_br12 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare<br>arctic<br>attack<br>skin<br>tiny<br>sun<br>afford |  
+| bip_39_word_new_br2 | first<br>pioneer |  
+| bip_39_word_new_br3 | first<br>pioneer<br>word |  
+| bip_39_word_new_br4 | first<br>pioneer<br>word<br>thought |  
+| bip_39_word_new_br5 | first<br>pioneer<br>word<br>thought<br>voice |  
+| bip_39_word_new_br6 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare |  
+| bip_39_word_new_br7 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare<br>arctic |  
+| bip_39_word_new_br8 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare<br>arctic<br>attack |  
+| bip_39_word_new_br9 | first<br>pioneer<br>word<br>thought<br>voice<br>warfare<br>arctic<br>attack<br>skin |  
+| bip_39_word_new_line1 | first |  
+| bip_39_word_new_line10 | first
+pioneer
+word
+thought
+voice
+warfare
+arctic
+attack
+skin
+tiny |  
+| bip_39_word_new_line11 | first
+pioneer
+word
+thought
+voice
+warfare
+arctic
+attack
+skin
+tiny
+sun |  
+| bip_39_word_new_line12 | first
+pioneer
+word
+thought
+voice
+warfare
+arctic
+attack
+skin
+tiny
+sun
+afford |  
+| bip_39_word_new_line2 | first
+pioneer |  
+| bip_39_word_new_line3 | first
+pioneer
+word |  
+| bip_39_word_new_line4 | first
+pioneer
+word
+thought |  
+| bip_39_word_new_line5 | first
+pioneer
+word
+thought
+voice |  
+| bip_39_word_new_line6 | first
+pioneer
+word
+thought
+voice
+warfare |  
+| bip_39_word_new_line7 | first
+pioneer
+word
+thought
+voice
+warfare
+arctic |  
+| bip_39_word_new_line8 | first
+pioneer
+word
+thought
+voice
+warfare
+arctic
+attack |  
+| bip_39_word_new_line9 | first
+pioneer
+word
+thought
+voice
+warfare
+arctic
+attack
+skin |  
+| bip_39_word_space_0 | ['first', 'pioneer', 'word', 'thought', 'voice', 'warfare', 'arctic', 'attack', 'skin', 'tiny', 'sun', 'afford'] |  
+| bip_39_word_space_1 | first |  
+| bip_39_word_space_10 | first pioneer word thought voice warfare arctic attack skin tiny |  
+| bip_39_word_space_11 | first pioneer word thought voice warfare arctic attack skin tiny sun |  
+| bip_39_word_space_12 | first pioneer word thought voice warfare arctic attack skin tiny sun afford |  
+| bip_39_word_space_2 | first pioneer |  
+| bip_39_word_space_3 | first pioneer word |  
+| bip_39_word_space_4 | first pioneer word thought |  
+| bip_39_word_space_5 | first pioneer word thought voice |  
+| bip_39_word_space_6 | first pioneer word thought voice warfare |  
+| bip_39_word_space_7 | first pioneer word thought voice warfare arctic |  
+| bip_39_word_space_8 | first pioneer word thought voice warfare arctic attack |  
+| bip_39_word_space_9 | first pioneer word thought voice warfare arctic attack skin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

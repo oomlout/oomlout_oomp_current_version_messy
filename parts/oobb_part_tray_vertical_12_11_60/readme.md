@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ordinary section
+  * bip 39 word 3: ordinary section evidence
+  * bip 39 word: ordinary section evidence deputy section east initial glad ginger short bleak attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ordinary |  
+| bip_39_word_new_br10 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short |  
+| bip_39_word_new_br11 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short<br>bleak |  
+| bip_39_word_new_br12 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger<br>short<br>bleak<br>attack |  
+| bip_39_word_new_br2 | ordinary<br>section |  
+| bip_39_word_new_br3 | ordinary<br>section<br>evidence |  
+| bip_39_word_new_br4 | ordinary<br>section<br>evidence<br>deputy |  
+| bip_39_word_new_br5 | ordinary<br>section<br>evidence<br>deputy<br>section |  
+| bip_39_word_new_br6 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east |  
+| bip_39_word_new_br7 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial |  
+| bip_39_word_new_br8 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad |  
+| bip_39_word_new_br9 | ordinary<br>section<br>evidence<br>deputy<br>section<br>east<br>initial<br>glad<br>ginger |  
+| bip_39_word_new_line1 | ordinary |  
+| bip_39_word_new_line10 | ordinary
+section
+evidence
+deputy
+section
+east
+initial
+glad
+ginger
+short |  
+| bip_39_word_new_line11 | ordinary
+section
+evidence
+deputy
+section
+east
+initial
+glad
+ginger
+short
+bleak |  
+| bip_39_word_new_line12 | ordinary
+section
+evidence
+deputy
+section
+east
+initial
+glad
+ginger
+short
+bleak
+attack |  
+| bip_39_word_new_line2 | ordinary
+section |  
+| bip_39_word_new_line3 | ordinary
+section
+evidence |  
+| bip_39_word_new_line4 | ordinary
+section
+evidence
+deputy |  
+| bip_39_word_new_line5 | ordinary
+section
+evidence
+deputy
+section |  
+| bip_39_word_new_line6 | ordinary
+section
+evidence
+deputy
+section
+east |  
+| bip_39_word_new_line7 | ordinary
+section
+evidence
+deputy
+section
+east
+initial |  
+| bip_39_word_new_line8 | ordinary
+section
+evidence
+deputy
+section
+east
+initial
+glad |  
+| bip_39_word_new_line9 | ordinary
+section
+evidence
+deputy
+section
+east
+initial
+glad
+ginger |  
+| bip_39_word_space_0 | ['ordinary', 'section', 'evidence', 'deputy', 'section', 'east', 'initial', 'glad', 'ginger', 'short', 'bleak', 'attack'] |  
+| bip_39_word_space_1 | ordinary |  
+| bip_39_word_space_10 | ordinary section evidence deputy section east initial glad ginger short |  
+| bip_39_word_space_11 | ordinary section evidence deputy section east initial glad ginger short bleak |  
+| bip_39_word_space_12 | ordinary section evidence deputy section east initial glad ginger short bleak attack |  
+| bip_39_word_space_2 | ordinary section |  
+| bip_39_word_space_3 | ordinary section evidence |  
+| bip_39_word_space_4 | ordinary section evidence deputy |  
+| bip_39_word_space_5 | ordinary section evidence deputy section |  
+| bip_39_word_space_6 | ordinary section evidence deputy section east |  
+| bip_39_word_space_7 | ordinary section evidence deputy section east initial |  
+| bip_39_word_space_8 | ordinary section evidence deputy section east initial glad |  
+| bip_39_word_space_9 | ordinary section evidence deputy section east initial glad ginger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

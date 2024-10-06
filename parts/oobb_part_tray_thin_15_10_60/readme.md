@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: more afford
+  * bip 39 word 3: more afford boat
+  * bip 39 word: more afford boat alley wash capable people brave release divide latin author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | more |  
+| bip_39_word_new_br10 | more<br>afford<br>boat<br>alley<br>wash<br>capable<br>people<br>brave<br>release<br>divide |  
+| bip_39_word_new_br11 | more<br>afford<br>boat<br>alley<br>wash<br>capable<br>people<br>brave<br>release<br>divide<br>latin |  
+| bip_39_word_new_br12 | more<br>afford<br>boat<br>alley<br>wash<br>capable<br>people<br>brave<br>release<br>divide<br>latin<br>author |  
+| bip_39_word_new_br2 | more<br>afford |  
+| bip_39_word_new_br3 | more<br>afford<br>boat |  
+| bip_39_word_new_br4 | more<br>afford<br>boat<br>alley |  
+| bip_39_word_new_br5 | more<br>afford<br>boat<br>alley<br>wash |  
+| bip_39_word_new_br6 | more<br>afford<br>boat<br>alley<br>wash<br>capable |  
+| bip_39_word_new_br7 | more<br>afford<br>boat<br>alley<br>wash<br>capable<br>people |  
+| bip_39_word_new_br8 | more<br>afford<br>boat<br>alley<br>wash<br>capable<br>people<br>brave |  
+| bip_39_word_new_br9 | more<br>afford<br>boat<br>alley<br>wash<br>capable<br>people<br>brave<br>release |  
+| bip_39_word_new_line1 | more |  
+| bip_39_word_new_line10 | more
+afford
+boat
+alley
+wash
+capable
+people
+brave
+release
+divide |  
+| bip_39_word_new_line11 | more
+afford
+boat
+alley
+wash
+capable
+people
+brave
+release
+divide
+latin |  
+| bip_39_word_new_line12 | more
+afford
+boat
+alley
+wash
+capable
+people
+brave
+release
+divide
+latin
+author |  
+| bip_39_word_new_line2 | more
+afford |  
+| bip_39_word_new_line3 | more
+afford
+boat |  
+| bip_39_word_new_line4 | more
+afford
+boat
+alley |  
+| bip_39_word_new_line5 | more
+afford
+boat
+alley
+wash |  
+| bip_39_word_new_line6 | more
+afford
+boat
+alley
+wash
+capable |  
+| bip_39_word_new_line7 | more
+afford
+boat
+alley
+wash
+capable
+people |  
+| bip_39_word_new_line8 | more
+afford
+boat
+alley
+wash
+capable
+people
+brave |  
+| bip_39_word_new_line9 | more
+afford
+boat
+alley
+wash
+capable
+people
+brave
+release |  
+| bip_39_word_space_0 | ['more', 'afford', 'boat', 'alley', 'wash', 'capable', 'people', 'brave', 'release', 'divide', 'latin', 'author'] |  
+| bip_39_word_space_1 | more |  
+| bip_39_word_space_10 | more afford boat alley wash capable people brave release divide |  
+| bip_39_word_space_11 | more afford boat alley wash capable people brave release divide latin |  
+| bip_39_word_space_12 | more afford boat alley wash capable people brave release divide latin author |  
+| bip_39_word_space_2 | more afford |  
+| bip_39_word_space_3 | more afford boat |  
+| bip_39_word_space_4 | more afford boat alley |  
+| bip_39_word_space_5 | more afford boat alley wash |  
+| bip_39_word_space_6 | more afford boat alley wash capable |  
+| bip_39_word_space_7 | more afford boat alley wash capable people |  
+| bip_39_word_space_8 | more afford boat alley wash capable people brave |  
+| bip_39_word_space_9 | more afford boat alley wash capable people brave release |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

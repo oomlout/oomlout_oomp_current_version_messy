@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: demand reject
+  * bip 39 word 3: demand reject inch
+  * bip 39 word: demand reject inch then abuse disorder screen slow alert dinosaur goose adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | demand |  
+| bip_39_word_new_br10 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder<br>screen<br>slow<br>alert<br>dinosaur |  
+| bip_39_word_new_br11 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder<br>screen<br>slow<br>alert<br>dinosaur<br>goose |  
+| bip_39_word_new_br12 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder<br>screen<br>slow<br>alert<br>dinosaur<br>goose<br>adult |  
+| bip_39_word_new_br2 | demand<br>reject |  
+| bip_39_word_new_br3 | demand<br>reject<br>inch |  
+| bip_39_word_new_br4 | demand<br>reject<br>inch<br>then |  
+| bip_39_word_new_br5 | demand<br>reject<br>inch<br>then<br>abuse |  
+| bip_39_word_new_br6 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder |  
+| bip_39_word_new_br7 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder<br>screen |  
+| bip_39_word_new_br8 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder<br>screen<br>slow |  
+| bip_39_word_new_br9 | demand<br>reject<br>inch<br>then<br>abuse<br>disorder<br>screen<br>slow<br>alert |  
+| bip_39_word_new_line1 | demand |  
+| bip_39_word_new_line10 | demand
+reject
+inch
+then
+abuse
+disorder
+screen
+slow
+alert
+dinosaur |  
+| bip_39_word_new_line11 | demand
+reject
+inch
+then
+abuse
+disorder
+screen
+slow
+alert
+dinosaur
+goose |  
+| bip_39_word_new_line12 | demand
+reject
+inch
+then
+abuse
+disorder
+screen
+slow
+alert
+dinosaur
+goose
+adult |  
+| bip_39_word_new_line2 | demand
+reject |  
+| bip_39_word_new_line3 | demand
+reject
+inch |  
+| bip_39_word_new_line4 | demand
+reject
+inch
+then |  
+| bip_39_word_new_line5 | demand
+reject
+inch
+then
+abuse |  
+| bip_39_word_new_line6 | demand
+reject
+inch
+then
+abuse
+disorder |  
+| bip_39_word_new_line7 | demand
+reject
+inch
+then
+abuse
+disorder
+screen |  
+| bip_39_word_new_line8 | demand
+reject
+inch
+then
+abuse
+disorder
+screen
+slow |  
+| bip_39_word_new_line9 | demand
+reject
+inch
+then
+abuse
+disorder
+screen
+slow
+alert |  
+| bip_39_word_space_0 | ['demand', 'reject', 'inch', 'then', 'abuse', 'disorder', 'screen', 'slow', 'alert', 'dinosaur', 'goose', 'adult'] |  
+| bip_39_word_space_1 | demand |  
+| bip_39_word_space_10 | demand reject inch then abuse disorder screen slow alert dinosaur |  
+| bip_39_word_space_11 | demand reject inch then abuse disorder screen slow alert dinosaur goose |  
+| bip_39_word_space_12 | demand reject inch then abuse disorder screen slow alert dinosaur goose adult |  
+| bip_39_word_space_2 | demand reject |  
+| bip_39_word_space_3 | demand reject inch |  
+| bip_39_word_space_4 | demand reject inch then |  
+| bip_39_word_space_5 | demand reject inch then abuse |  
+| bip_39_word_space_6 | demand reject inch then abuse disorder |  
+| bip_39_word_space_7 | demand reject inch then abuse disorder screen |  
+| bip_39_word_space_8 | demand reject inch then abuse disorder screen slow |  
+| bip_39_word_space_9 | demand reject inch then abuse disorder screen slow alert |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

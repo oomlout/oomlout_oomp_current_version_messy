@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wedding weird
+  * bip 39 word 3: wedding weird crush
+  * bip 39 word: wedding weird crush custom venture abuse model satoshi goat check hungry abstract
 
 ### other_codes
 * short_code: br6322
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wedding |  
+| bip_39_word_new_br10 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse<br>model<br>satoshi<br>goat<br>check |  
+| bip_39_word_new_br11 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse<br>model<br>satoshi<br>goat<br>check<br>hungry |  
+| bip_39_word_new_br12 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse<br>model<br>satoshi<br>goat<br>check<br>hungry<br>abstract |  
+| bip_39_word_new_br2 | wedding<br>weird |  
+| bip_39_word_new_br3 | wedding<br>weird<br>crush |  
+| bip_39_word_new_br4 | wedding<br>weird<br>crush<br>custom |  
+| bip_39_word_new_br5 | wedding<br>weird<br>crush<br>custom<br>venture |  
+| bip_39_word_new_br6 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse |  
+| bip_39_word_new_br7 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse<br>model |  
+| bip_39_word_new_br8 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse<br>model<br>satoshi |  
+| bip_39_word_new_br9 | wedding<br>weird<br>crush<br>custom<br>venture<br>abuse<br>model<br>satoshi<br>goat |  
+| bip_39_word_new_line1 | wedding |  
+| bip_39_word_new_line10 | wedding
+weird
+crush
+custom
+venture
+abuse
+model
+satoshi
+goat
+check |  
+| bip_39_word_new_line11 | wedding
+weird
+crush
+custom
+venture
+abuse
+model
+satoshi
+goat
+check
+hungry |  
+| bip_39_word_new_line12 | wedding
+weird
+crush
+custom
+venture
+abuse
+model
+satoshi
+goat
+check
+hungry
+abstract |  
+| bip_39_word_new_line2 | wedding
+weird |  
+| bip_39_word_new_line3 | wedding
+weird
+crush |  
+| bip_39_word_new_line4 | wedding
+weird
+crush
+custom |  
+| bip_39_word_new_line5 | wedding
+weird
+crush
+custom
+venture |  
+| bip_39_word_new_line6 | wedding
+weird
+crush
+custom
+venture
+abuse |  
+| bip_39_word_new_line7 | wedding
+weird
+crush
+custom
+venture
+abuse
+model |  
+| bip_39_word_new_line8 | wedding
+weird
+crush
+custom
+venture
+abuse
+model
+satoshi |  
+| bip_39_word_new_line9 | wedding
+weird
+crush
+custom
+venture
+abuse
+model
+satoshi
+goat |  
+| bip_39_word_space_0 | ['wedding', 'weird', 'crush', 'custom', 'venture', 'abuse', 'model', 'satoshi', 'goat', 'check', 'hungry', 'abstract'] |  
+| bip_39_word_space_1 | wedding |  
+| bip_39_word_space_10 | wedding weird crush custom venture abuse model satoshi goat check |  
+| bip_39_word_space_11 | wedding weird crush custom venture abuse model satoshi goat check hungry |  
+| bip_39_word_space_12 | wedding weird crush custom venture abuse model satoshi goat check hungry abstract |  
+| bip_39_word_space_2 | wedding weird |  
+| bip_39_word_space_3 | wedding weird crush |  
+| bip_39_word_space_4 | wedding weird crush custom |  
+| bip_39_word_space_5 | wedding weird crush custom venture |  
+| bip_39_word_space_6 | wedding weird crush custom venture abuse |  
+| bip_39_word_space_7 | wedding weird crush custom venture abuse model |  
+| bip_39_word_space_8 | wedding weird crush custom venture abuse model satoshi |  
+| bip_39_word_space_9 | wedding weird crush custom venture abuse model satoshi goat |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: o
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: craft leaf
+  * bip 39 word 3: craft leaf stamp
+  * bip 39 word: craft leaf stamp lunar rack logic like artwork toy orchard lecture abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | craft |  
+| bip_39_word_new_br10 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy<br>orchard |  
+| bip_39_word_new_br11 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy<br>orchard<br>lecture |  
+| bip_39_word_new_br12 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy<br>orchard<br>lecture<br>abuse |  
+| bip_39_word_new_br2 | craft<br>leaf |  
+| bip_39_word_new_br3 | craft<br>leaf<br>stamp |  
+| bip_39_word_new_br4 | craft<br>leaf<br>stamp<br>lunar |  
+| bip_39_word_new_br5 | craft<br>leaf<br>stamp<br>lunar<br>rack |  
+| bip_39_word_new_br6 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic |  
+| bip_39_word_new_br7 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like |  
+| bip_39_word_new_br8 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork |  
+| bip_39_word_new_br9 | craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy |  
+| bip_39_word_new_line1 | craft |  
+| bip_39_word_new_line10 | craft
+leaf
+stamp
+lunar
+rack
+logic
+like
+artwork
+toy
+orchard |  
+| bip_39_word_new_line11 | craft
+leaf
+stamp
+lunar
+rack
+logic
+like
+artwork
+toy
+orchard
+lecture |  
+| bip_39_word_new_line12 | craft
+leaf
+stamp
+lunar
+rack
+logic
+like
+artwork
+toy
+orchard
+lecture
+abuse |  
+| bip_39_word_new_line2 | craft
+leaf |  
+| bip_39_word_new_line3 | craft
+leaf
+stamp |  
+| bip_39_word_new_line4 | craft
+leaf
+stamp
+lunar |  
+| bip_39_word_new_line5 | craft
+leaf
+stamp
+lunar
+rack |  
+| bip_39_word_new_line6 | craft
+leaf
+stamp
+lunar
+rack
+logic |  
+| bip_39_word_new_line7 | craft
+leaf
+stamp
+lunar
+rack
+logic
+like |  
+| bip_39_word_new_line8 | craft
+leaf
+stamp
+lunar
+rack
+logic
+like
+artwork |  
+| bip_39_word_new_line9 | craft
+leaf
+stamp
+lunar
+rack
+logic
+like
+artwork
+toy |  
+| bip_39_word_space_0 | ['craft', 'leaf', 'stamp', 'lunar', 'rack', 'logic', 'like', 'artwork', 'toy', 'orchard', 'lecture', 'abuse'] |  
+| bip_39_word_space_1 | craft |  
+| bip_39_word_space_10 | craft leaf stamp lunar rack logic like artwork toy orchard |  
+| bip_39_word_space_11 | craft leaf stamp lunar rack logic like artwork toy orchard lecture |  
+| bip_39_word_space_12 | craft leaf stamp lunar rack logic like artwork toy orchard lecture abuse |  
+| bip_39_word_space_2 | craft leaf |  
+| bip_39_word_space_3 | craft leaf stamp |  
+| bip_39_word_space_4 | craft leaf stamp lunar |  
+| bip_39_word_space_5 | craft leaf stamp lunar rack |  
+| bip_39_word_space_6 | craft leaf stamp lunar rack logic |  
+| bip_39_word_space_7 | craft leaf stamp lunar rack logic like |  
+| bip_39_word_space_8 | craft leaf stamp lunar rack logic like artwork |  
+| bip_39_word_space_9 | craft leaf stamp lunar rack logic like artwork toy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

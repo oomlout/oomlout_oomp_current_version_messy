@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exclude purpose
+  * bip 39 word 3: exclude purpose start
+  * bip 39 word: exclude purpose start seven oppose debate praise wasp helmet scheme pizza appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exclude |  
+| bip_39_word_new_br10 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme |  
+| bip_39_word_new_br11 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme<br>pizza |  
+| bip_39_word_new_br12 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet<br>scheme<br>pizza<br>appear |  
+| bip_39_word_new_br2 | exclude<br>purpose |  
+| bip_39_word_new_br3 | exclude<br>purpose<br>start |  
+| bip_39_word_new_br4 | exclude<br>purpose<br>start<br>seven |  
+| bip_39_word_new_br5 | exclude<br>purpose<br>start<br>seven<br>oppose |  
+| bip_39_word_new_br6 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate |  
+| bip_39_word_new_br7 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise |  
+| bip_39_word_new_br8 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp |  
+| bip_39_word_new_br9 | exclude<br>purpose<br>start<br>seven<br>oppose<br>debate<br>praise<br>wasp<br>helmet |  
+| bip_39_word_new_line1 | exclude |  
+| bip_39_word_new_line10 | exclude
+purpose
+start
+seven
+oppose
+debate
+praise
+wasp
+helmet
+scheme |  
+| bip_39_word_new_line11 | exclude
+purpose
+start
+seven
+oppose
+debate
+praise
+wasp
+helmet
+scheme
+pizza |  
+| bip_39_word_new_line12 | exclude
+purpose
+start
+seven
+oppose
+debate
+praise
+wasp
+helmet
+scheme
+pizza
+appear |  
+| bip_39_word_new_line2 | exclude
+purpose |  
+| bip_39_word_new_line3 | exclude
+purpose
+start |  
+| bip_39_word_new_line4 | exclude
+purpose
+start
+seven |  
+| bip_39_word_new_line5 | exclude
+purpose
+start
+seven
+oppose |  
+| bip_39_word_new_line6 | exclude
+purpose
+start
+seven
+oppose
+debate |  
+| bip_39_word_new_line7 | exclude
+purpose
+start
+seven
+oppose
+debate
+praise |  
+| bip_39_word_new_line8 | exclude
+purpose
+start
+seven
+oppose
+debate
+praise
+wasp |  
+| bip_39_word_new_line9 | exclude
+purpose
+start
+seven
+oppose
+debate
+praise
+wasp
+helmet |  
+| bip_39_word_space_0 | ['exclude', 'purpose', 'start', 'seven', 'oppose', 'debate', 'praise', 'wasp', 'helmet', 'scheme', 'pizza', 'appear'] |  
+| bip_39_word_space_1 | exclude |  
+| bip_39_word_space_10 | exclude purpose start seven oppose debate praise wasp helmet scheme |  
+| bip_39_word_space_11 | exclude purpose start seven oppose debate praise wasp helmet scheme pizza |  
+| bip_39_word_space_12 | exclude purpose start seven oppose debate praise wasp helmet scheme pizza appear |  
+| bip_39_word_space_2 | exclude purpose |  
+| bip_39_word_space_3 | exclude purpose start |  
+| bip_39_word_space_4 | exclude purpose start seven |  
+| bip_39_word_space_5 | exclude purpose start seven oppose |  
+| bip_39_word_space_6 | exclude purpose start seven oppose debate |  
+| bip_39_word_space_7 | exclude purpose start seven oppose debate praise |  
+| bip_39_word_space_8 | exclude purpose start seven oppose debate praise wasp |  
+| bip_39_word_space_9 | exclude purpose start seven oppose debate praise wasp helmet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

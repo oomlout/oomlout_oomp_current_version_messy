@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shoe bomb
+  * bip 39 word 3: shoe bomb cousin
+  * bip 39 word: shoe bomb cousin weather gallery alter abstract deal history camp gossip approve
 
 ### other_codes
 * short_code: ss6m12
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shoe |  
+| bip_39_word_new_br10 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter<br>abstract<br>deal<br>history<br>camp |  
+| bip_39_word_new_br11 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter<br>abstract<br>deal<br>history<br>camp<br>gossip |  
+| bip_39_word_new_br12 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter<br>abstract<br>deal<br>history<br>camp<br>gossip<br>approve |  
+| bip_39_word_new_br2 | shoe<br>bomb |  
+| bip_39_word_new_br3 | shoe<br>bomb<br>cousin |  
+| bip_39_word_new_br4 | shoe<br>bomb<br>cousin<br>weather |  
+| bip_39_word_new_br5 | shoe<br>bomb<br>cousin<br>weather<br>gallery |  
+| bip_39_word_new_br6 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter |  
+| bip_39_word_new_br7 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter<br>abstract |  
+| bip_39_word_new_br8 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter<br>abstract<br>deal |  
+| bip_39_word_new_br9 | shoe<br>bomb<br>cousin<br>weather<br>gallery<br>alter<br>abstract<br>deal<br>history |  
+| bip_39_word_new_line1 | shoe |  
+| bip_39_word_new_line10 | shoe
+bomb
+cousin
+weather
+gallery
+alter
+abstract
+deal
+history
+camp |  
+| bip_39_word_new_line11 | shoe
+bomb
+cousin
+weather
+gallery
+alter
+abstract
+deal
+history
+camp
+gossip |  
+| bip_39_word_new_line12 | shoe
+bomb
+cousin
+weather
+gallery
+alter
+abstract
+deal
+history
+camp
+gossip
+approve |  
+| bip_39_word_new_line2 | shoe
+bomb |  
+| bip_39_word_new_line3 | shoe
+bomb
+cousin |  
+| bip_39_word_new_line4 | shoe
+bomb
+cousin
+weather |  
+| bip_39_word_new_line5 | shoe
+bomb
+cousin
+weather
+gallery |  
+| bip_39_word_new_line6 | shoe
+bomb
+cousin
+weather
+gallery
+alter |  
+| bip_39_word_new_line7 | shoe
+bomb
+cousin
+weather
+gallery
+alter
+abstract |  
+| bip_39_word_new_line8 | shoe
+bomb
+cousin
+weather
+gallery
+alter
+abstract
+deal |  
+| bip_39_word_new_line9 | shoe
+bomb
+cousin
+weather
+gallery
+alter
+abstract
+deal
+history |  
+| bip_39_word_space_0 | ['shoe', 'bomb', 'cousin', 'weather', 'gallery', 'alter', 'abstract', 'deal', 'history', 'camp', 'gossip', 'approve'] |  
+| bip_39_word_space_1 | shoe |  
+| bip_39_word_space_10 | shoe bomb cousin weather gallery alter abstract deal history camp |  
+| bip_39_word_space_11 | shoe bomb cousin weather gallery alter abstract deal history camp gossip |  
+| bip_39_word_space_12 | shoe bomb cousin weather gallery alter abstract deal history camp gossip approve |  
+| bip_39_word_space_2 | shoe bomb |  
+| bip_39_word_space_3 | shoe bomb cousin |  
+| bip_39_word_space_4 | shoe bomb cousin weather |  
+| bip_39_word_space_5 | shoe bomb cousin weather gallery |  
+| bip_39_word_space_6 | shoe bomb cousin weather gallery alter |  
+| bip_39_word_space_7 | shoe bomb cousin weather gallery alter abstract |  
+| bip_39_word_space_8 | shoe bomb cousin weather gallery alter abstract deal |  
+| bip_39_word_space_9 | shoe bomb cousin weather gallery alter abstract deal history |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

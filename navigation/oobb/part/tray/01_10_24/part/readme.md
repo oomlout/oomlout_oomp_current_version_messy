@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sick machine
+  * bip 39 word 3: sick machine position
+  * bip 39 word: sick machine position report run transfer guitar aunt together pig random actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sick |  
+| bip_39_word_new_br10 | sick<br>machine<br>position<br>report<br>run<br>transfer<br>guitar<br>aunt<br>together<br>pig |  
+| bip_39_word_new_br11 | sick<br>machine<br>position<br>report<br>run<br>transfer<br>guitar<br>aunt<br>together<br>pig<br>random |  
+| bip_39_word_new_br12 | sick<br>machine<br>position<br>report<br>run<br>transfer<br>guitar<br>aunt<br>together<br>pig<br>random<br>actor |  
+| bip_39_word_new_br2 | sick<br>machine |  
+| bip_39_word_new_br3 | sick<br>machine<br>position |  
+| bip_39_word_new_br4 | sick<br>machine<br>position<br>report |  
+| bip_39_word_new_br5 | sick<br>machine<br>position<br>report<br>run |  
+| bip_39_word_new_br6 | sick<br>machine<br>position<br>report<br>run<br>transfer |  
+| bip_39_word_new_br7 | sick<br>machine<br>position<br>report<br>run<br>transfer<br>guitar |  
+| bip_39_word_new_br8 | sick<br>machine<br>position<br>report<br>run<br>transfer<br>guitar<br>aunt |  
+| bip_39_word_new_br9 | sick<br>machine<br>position<br>report<br>run<br>transfer<br>guitar<br>aunt<br>together |  
+| bip_39_word_new_line1 | sick |  
+| bip_39_word_new_line10 | sick
+machine
+position
+report
+run
+transfer
+guitar
+aunt
+together
+pig |  
+| bip_39_word_new_line11 | sick
+machine
+position
+report
+run
+transfer
+guitar
+aunt
+together
+pig
+random |  
+| bip_39_word_new_line12 | sick
+machine
+position
+report
+run
+transfer
+guitar
+aunt
+together
+pig
+random
+actor |  
+| bip_39_word_new_line2 | sick
+machine |  
+| bip_39_word_new_line3 | sick
+machine
+position |  
+| bip_39_word_new_line4 | sick
+machine
+position
+report |  
+| bip_39_word_new_line5 | sick
+machine
+position
+report
+run |  
+| bip_39_word_new_line6 | sick
+machine
+position
+report
+run
+transfer |  
+| bip_39_word_new_line7 | sick
+machine
+position
+report
+run
+transfer
+guitar |  
+| bip_39_word_new_line8 | sick
+machine
+position
+report
+run
+transfer
+guitar
+aunt |  
+| bip_39_word_new_line9 | sick
+machine
+position
+report
+run
+transfer
+guitar
+aunt
+together |  
+| bip_39_word_space_0 | ['sick', 'machine', 'position', 'report', 'run', 'transfer', 'guitar', 'aunt', 'together', 'pig', 'random', 'actor'] |  
+| bip_39_word_space_1 | sick |  
+| bip_39_word_space_10 | sick machine position report run transfer guitar aunt together pig |  
+| bip_39_word_space_11 | sick machine position report run transfer guitar aunt together pig random |  
+| bip_39_word_space_12 | sick machine position report run transfer guitar aunt together pig random actor |  
+| bip_39_word_space_2 | sick machine |  
+| bip_39_word_space_3 | sick machine position |  
+| bip_39_word_space_4 | sick machine position report |  
+| bip_39_word_space_5 | sick machine position report run |  
+| bip_39_word_space_6 | sick machine position report run transfer |  
+| bip_39_word_space_7 | sick machine position report run transfer guitar |  
+| bip_39_word_space_8 | sick machine position report run transfer guitar aunt |  
+| bip_39_word_space_9 | sick machine position report run transfer guitar aunt together |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

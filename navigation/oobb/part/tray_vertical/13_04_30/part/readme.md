@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enjoy what
+  * bip 39 word 3: enjoy what diagram
+  * bip 39 word: enjoy what diagram trip sock cave estate must large blame long athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enjoy |  
+| bip_39_word_new_br10 | enjoy<br>what<br>diagram<br>trip<br>sock<br>cave<br>estate<br>must<br>large<br>blame |  
+| bip_39_word_new_br11 | enjoy<br>what<br>diagram<br>trip<br>sock<br>cave<br>estate<br>must<br>large<br>blame<br>long |  
+| bip_39_word_new_br12 | enjoy<br>what<br>diagram<br>trip<br>sock<br>cave<br>estate<br>must<br>large<br>blame<br>long<br>athlete |  
+| bip_39_word_new_br2 | enjoy<br>what |  
+| bip_39_word_new_br3 | enjoy<br>what<br>diagram |  
+| bip_39_word_new_br4 | enjoy<br>what<br>diagram<br>trip |  
+| bip_39_word_new_br5 | enjoy<br>what<br>diagram<br>trip<br>sock |  
+| bip_39_word_new_br6 | enjoy<br>what<br>diagram<br>trip<br>sock<br>cave |  
+| bip_39_word_new_br7 | enjoy<br>what<br>diagram<br>trip<br>sock<br>cave<br>estate |  
+| bip_39_word_new_br8 | enjoy<br>what<br>diagram<br>trip<br>sock<br>cave<br>estate<br>must |  
+| bip_39_word_new_br9 | enjoy<br>what<br>diagram<br>trip<br>sock<br>cave<br>estate<br>must<br>large |  
+| bip_39_word_new_line1 | enjoy |  
+| bip_39_word_new_line10 | enjoy
+what
+diagram
+trip
+sock
+cave
+estate
+must
+large
+blame |  
+| bip_39_word_new_line11 | enjoy
+what
+diagram
+trip
+sock
+cave
+estate
+must
+large
+blame
+long |  
+| bip_39_word_new_line12 | enjoy
+what
+diagram
+trip
+sock
+cave
+estate
+must
+large
+blame
+long
+athlete |  
+| bip_39_word_new_line2 | enjoy
+what |  
+| bip_39_word_new_line3 | enjoy
+what
+diagram |  
+| bip_39_word_new_line4 | enjoy
+what
+diagram
+trip |  
+| bip_39_word_new_line5 | enjoy
+what
+diagram
+trip
+sock |  
+| bip_39_word_new_line6 | enjoy
+what
+diagram
+trip
+sock
+cave |  
+| bip_39_word_new_line7 | enjoy
+what
+diagram
+trip
+sock
+cave
+estate |  
+| bip_39_word_new_line8 | enjoy
+what
+diagram
+trip
+sock
+cave
+estate
+must |  
+| bip_39_word_new_line9 | enjoy
+what
+diagram
+trip
+sock
+cave
+estate
+must
+large |  
+| bip_39_word_space_0 | ['enjoy', 'what', 'diagram', 'trip', 'sock', 'cave', 'estate', 'must', 'large', 'blame', 'long', 'athlete'] |  
+| bip_39_word_space_1 | enjoy |  
+| bip_39_word_space_10 | enjoy what diagram trip sock cave estate must large blame |  
+| bip_39_word_space_11 | enjoy what diagram trip sock cave estate must large blame long |  
+| bip_39_word_space_12 | enjoy what diagram trip sock cave estate must large blame long athlete |  
+| bip_39_word_space_2 | enjoy what |  
+| bip_39_word_space_3 | enjoy what diagram |  
+| bip_39_word_space_4 | enjoy what diagram trip |  
+| bip_39_word_space_5 | enjoy what diagram trip sock |  
+| bip_39_word_space_6 | enjoy what diagram trip sock cave |  
+| bip_39_word_space_7 | enjoy what diagram trip sock cave estate |  
+| bip_39_word_space_8 | enjoy what diagram trip sock cave estate must |  
+| bip_39_word_space_9 | enjoy what diagram trip sock cave estate must large |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

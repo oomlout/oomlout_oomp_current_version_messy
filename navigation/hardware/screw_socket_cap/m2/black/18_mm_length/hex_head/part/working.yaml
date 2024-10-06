@@ -1,3 +1,187 @@
+bip_39_word_new_br1: index
+bip_39_word_new_br10: index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join
+bip_39_word_new_br11: index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join<br>captain
+bip_39_word_new_br12: index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent<br>join<br>captain<br>advance
+bip_39_word_new_br2: index<br>alpha
+bip_39_word_new_br3: index<br>alpha<br>enter
+bip_39_word_new_br4: index<br>alpha<br>enter<br>ripple
+bip_39_word_new_br5: index<br>alpha<br>enter<br>ripple<br>economy
+bip_39_word_new_br6: index<br>alpha<br>enter<br>ripple<br>economy<br>quantum
+bip_39_word_new_br7: index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber
+bip_39_word_new_br8: index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit
+bip_39_word_new_br9: index<br>alpha<br>enter<br>ripple<br>economy<br>quantum<br>rubber<br>audit<br>absent
+bip_39_word_new_line1: index
+bip_39_word_new_line10: 'index
+
+  alpha
+
+  enter
+
+  ripple
+
+  economy
+
+  quantum
+
+  rubber
+
+  audit
+
+  absent
+
+  join'
+bip_39_word_new_line11: 'index
+
+  alpha
+
+  enter
+
+  ripple
+
+  economy
+
+  quantum
+
+  rubber
+
+  audit
+
+  absent
+
+  join
+
+  captain'
+bip_39_word_new_line12: 'index
+
+  alpha
+
+  enter
+
+  ripple
+
+  economy
+
+  quantum
+
+  rubber
+
+  audit
+
+  absent
+
+  join
+
+  captain
+
+  advance'
+bip_39_word_new_line2: 'index
+
+  alpha'
+bip_39_word_new_line3: 'index
+
+  alpha
+
+  enter'
+bip_39_word_new_line4: 'index
+
+  alpha
+
+  enter
+
+  ripple'
+bip_39_word_new_line5: 'index
+
+  alpha
+
+  enter
+
+  ripple
+
+  economy'
+bip_39_word_new_line6: 'index
+
+  alpha
+
+  enter
+
+  ripple
+
+  economy
+
+  quantum'
+bip_39_word_new_line7: 'index
+
+  alpha
+
+  enter
+
+  ripple
+
+  economy
+
+  quantum
+
+  rubber'
+bip_39_word_new_line8: 'index
+
+  alpha
+
+  enter
+
+  ripple
+
+  economy
+
+  quantum
+
+  rubber
+
+  audit'
+bip_39_word_new_line9: 'index
+
+  alpha
+
+  enter
+
+  ripple
+
+  economy
+
+  quantum
+
+  rubber
+
+  audit
+
+  absent'
+bip_39_word_space_0:
+- index
+- alpha
+- enter
+- ripple
+- economy
+- quantum
+- rubber
+- audit
+- absent
+- join
+- captain
+- advance
+bip_39_word_space_1: index
+bip_39_word_space_10: index alpha enter ripple economy quantum rubber audit absent
+  join
+bip_39_word_space_11: index alpha enter ripple economy quantum rubber audit absent
+  join captain
+bip_39_word_space_12: index alpha enter ripple economy quantum rubber audit absent
+  join captain advance
+bip_39_word_space_2: index alpha
+bip_39_word_space_3: index alpha enter
+bip_39_word_space_4: index alpha enter ripple
+bip_39_word_space_5: index alpha enter ripple economy
+bip_39_word_space_6: index alpha enter ripple economy quantum
+bip_39_word_space_7: index alpha enter ripple economy quantum rubber
+bip_39_word_space_8: index alpha enter ripple economy quantum rubber audit
+bip_39_word_space_9: index alpha enter ripple economy quantum rubber audit absent
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

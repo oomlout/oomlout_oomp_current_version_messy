@@ -1,3 +1,186 @@
+bip_39_word_new_br1: walnut
+bip_39_word_new_br10: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy
+bip_39_word_new_br11: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt
+bip_39_word_new_br12: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt<br>ask
+bip_39_word_new_br2: walnut<br>horse
+bip_39_word_new_br3: walnut<br>horse<br>ocean
+bip_39_word_new_br4: walnut<br>horse<br>ocean<br>year
+bip_39_word_new_br5: walnut<br>horse<br>ocean<br>year<br>option
+bip_39_word_new_br6: walnut<br>horse<br>ocean<br>year<br>option<br>acid
+bip_39_word_new_br7: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain
+bip_39_word_new_br8: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture
+bip_39_word_new_br9: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent
+bip_39_word_new_line1: walnut
+bip_39_word_new_line10: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture
+
+  talent
+
+  galaxy'
+bip_39_word_new_line11: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture
+
+  talent
+
+  galaxy
+
+  erupt'
+bip_39_word_new_line12: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture
+
+  talent
+
+  galaxy
+
+  erupt
+
+  ask'
+bip_39_word_new_line2: 'walnut
+
+  horse'
+bip_39_word_new_line3: 'walnut
+
+  horse
+
+  ocean'
+bip_39_word_new_line4: 'walnut
+
+  horse
+
+  ocean
+
+  year'
+bip_39_word_new_line5: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option'
+bip_39_word_new_line6: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid'
+bip_39_word_new_line7: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain'
+bip_39_word_new_line8: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture'
+bip_39_word_new_line9: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture
+
+  talent'
+bip_39_word_space_0:
+- walnut
+- horse
+- ocean
+- year
+- option
+- acid
+- explain
+- lecture
+- talent
+- galaxy
+- erupt
+- ask
+bip_39_word_space_1: walnut
+bip_39_word_space_10: walnut horse ocean year option acid explain lecture talent galaxy
+bip_39_word_space_11: walnut horse ocean year option acid explain lecture talent galaxy
+  erupt
+bip_39_word_space_12: walnut horse ocean year option acid explain lecture talent galaxy
+  erupt ask
+bip_39_word_space_2: walnut horse
+bip_39_word_space_3: walnut horse ocean
+bip_39_word_space_4: walnut horse ocean year
+bip_39_word_space_5: walnut horse ocean year option
+bip_39_word_space_6: walnut horse ocean year option acid
+bip_39_word_space_7: walnut horse ocean year option acid explain
+bip_39_word_space_8: walnut horse ocean year option acid explain lecture
+bip_39_word_space_9: walnut horse ocean year option acid explain lecture talent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

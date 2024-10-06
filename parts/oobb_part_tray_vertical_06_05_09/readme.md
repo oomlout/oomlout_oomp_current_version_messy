@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: turtle amateur
+  * bip 39 word 3: turtle amateur unknown
+  * bip 39 word: turtle amateur unknown member gadget swim giraffe royal neither hire calm angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | turtle |  
+| bip_39_word_new_br10 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire |  
+| bip_39_word_new_br11 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire<br>calm |  
+| bip_39_word_new_br12 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither<br>hire<br>calm<br>angry |  
+| bip_39_word_new_br2 | turtle<br>amateur |  
+| bip_39_word_new_br3 | turtle<br>amateur<br>unknown |  
+| bip_39_word_new_br4 | turtle<br>amateur<br>unknown<br>member |  
+| bip_39_word_new_br5 | turtle<br>amateur<br>unknown<br>member<br>gadget |  
+| bip_39_word_new_br6 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim |  
+| bip_39_word_new_br7 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe |  
+| bip_39_word_new_br8 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal |  
+| bip_39_word_new_br9 | turtle<br>amateur<br>unknown<br>member<br>gadget<br>swim<br>giraffe<br>royal<br>neither |  
+| bip_39_word_new_line1 | turtle |  
+| bip_39_word_new_line10 | turtle
+amateur
+unknown
+member
+gadget
+swim
+giraffe
+royal
+neither
+hire |  
+| bip_39_word_new_line11 | turtle
+amateur
+unknown
+member
+gadget
+swim
+giraffe
+royal
+neither
+hire
+calm |  
+| bip_39_word_new_line12 | turtle
+amateur
+unknown
+member
+gadget
+swim
+giraffe
+royal
+neither
+hire
+calm
+angry |  
+| bip_39_word_new_line2 | turtle
+amateur |  
+| bip_39_word_new_line3 | turtle
+amateur
+unknown |  
+| bip_39_word_new_line4 | turtle
+amateur
+unknown
+member |  
+| bip_39_word_new_line5 | turtle
+amateur
+unknown
+member
+gadget |  
+| bip_39_word_new_line6 | turtle
+amateur
+unknown
+member
+gadget
+swim |  
+| bip_39_word_new_line7 | turtle
+amateur
+unknown
+member
+gadget
+swim
+giraffe |  
+| bip_39_word_new_line8 | turtle
+amateur
+unknown
+member
+gadget
+swim
+giraffe
+royal |  
+| bip_39_word_new_line9 | turtle
+amateur
+unknown
+member
+gadget
+swim
+giraffe
+royal
+neither |  
+| bip_39_word_space_0 | ['turtle', 'amateur', 'unknown', 'member', 'gadget', 'swim', 'giraffe', 'royal', 'neither', 'hire', 'calm', 'angry'] |  
+| bip_39_word_space_1 | turtle |  
+| bip_39_word_space_10 | turtle amateur unknown member gadget swim giraffe royal neither hire |  
+| bip_39_word_space_11 | turtle amateur unknown member gadget swim giraffe royal neither hire calm |  
+| bip_39_word_space_12 | turtle amateur unknown member gadget swim giraffe royal neither hire calm angry |  
+| bip_39_word_space_2 | turtle amateur |  
+| bip_39_word_space_3 | turtle amateur unknown |  
+| bip_39_word_space_4 | turtle amateur unknown member |  
+| bip_39_word_space_5 | turtle amateur unknown member gadget |  
+| bip_39_word_space_6 | turtle amateur unknown member gadget swim |  
+| bip_39_word_space_7 | turtle amateur unknown member gadget swim giraffe |  
+| bip_39_word_space_8 | turtle amateur unknown member gadget swim giraffe royal |  
+| bip_39_word_space_9 | turtle amateur unknown member gadget swim giraffe royal neither |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rug exotic
+  * bip 39 word 3: rug exotic another
+  * bip 39 word: rug exotic another motor kingdom six start twelve wise demand tomorrow analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rug |  
+| bip_39_word_new_br10 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand |  
+| bip_39_word_new_br11 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand<br>tomorrow |  
+| bip_39_word_new_br12 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise<br>demand<br>tomorrow<br>analyst |  
+| bip_39_word_new_br2 | rug<br>exotic |  
+| bip_39_word_new_br3 | rug<br>exotic<br>another |  
+| bip_39_word_new_br4 | rug<br>exotic<br>another<br>motor |  
+| bip_39_word_new_br5 | rug<br>exotic<br>another<br>motor<br>kingdom |  
+| bip_39_word_new_br6 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six |  
+| bip_39_word_new_br7 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start |  
+| bip_39_word_new_br8 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve |  
+| bip_39_word_new_br9 | rug<br>exotic<br>another<br>motor<br>kingdom<br>six<br>start<br>twelve<br>wise |  
+| bip_39_word_new_line1 | rug |  
+| bip_39_word_new_line10 | rug
+exotic
+another
+motor
+kingdom
+six
+start
+twelve
+wise
+demand |  
+| bip_39_word_new_line11 | rug
+exotic
+another
+motor
+kingdom
+six
+start
+twelve
+wise
+demand
+tomorrow |  
+| bip_39_word_new_line12 | rug
+exotic
+another
+motor
+kingdom
+six
+start
+twelve
+wise
+demand
+tomorrow
+analyst |  
+| bip_39_word_new_line2 | rug
+exotic |  
+| bip_39_word_new_line3 | rug
+exotic
+another |  
+| bip_39_word_new_line4 | rug
+exotic
+another
+motor |  
+| bip_39_word_new_line5 | rug
+exotic
+another
+motor
+kingdom |  
+| bip_39_word_new_line6 | rug
+exotic
+another
+motor
+kingdom
+six |  
+| bip_39_word_new_line7 | rug
+exotic
+another
+motor
+kingdom
+six
+start |  
+| bip_39_word_new_line8 | rug
+exotic
+another
+motor
+kingdom
+six
+start
+twelve |  
+| bip_39_word_new_line9 | rug
+exotic
+another
+motor
+kingdom
+six
+start
+twelve
+wise |  
+| bip_39_word_space_0 | ['rug', 'exotic', 'another', 'motor', 'kingdom', 'six', 'start', 'twelve', 'wise', 'demand', 'tomorrow', 'analyst'] |  
+| bip_39_word_space_1 | rug |  
+| bip_39_word_space_10 | rug exotic another motor kingdom six start twelve wise demand |  
+| bip_39_word_space_11 | rug exotic another motor kingdom six start twelve wise demand tomorrow |  
+| bip_39_word_space_12 | rug exotic another motor kingdom six start twelve wise demand tomorrow analyst |  
+| bip_39_word_space_2 | rug exotic |  
+| bip_39_word_space_3 | rug exotic another |  
+| bip_39_word_space_4 | rug exotic another motor |  
+| bip_39_word_space_5 | rug exotic another motor kingdom |  
+| bip_39_word_space_6 | rug exotic another motor kingdom six |  
+| bip_39_word_space_7 | rug exotic another motor kingdom six start |  
+| bip_39_word_space_8 | rug exotic another motor kingdom six start twelve |  
+| bip_39_word_space_9 | rug exotic another motor kingdom six start twelve wise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

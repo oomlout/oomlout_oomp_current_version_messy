@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: huge west
+  * bip 39 word 3: huge west asthma
+  * bip 39 word: huge west asthma erosion left twin loop human oven lecture nice access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | huge |  
+| bip_39_word_new_br10 | huge<br>west<br>asthma<br>erosion<br>left<br>twin<br>loop<br>human<br>oven<br>lecture |  
+| bip_39_word_new_br11 | huge<br>west<br>asthma<br>erosion<br>left<br>twin<br>loop<br>human<br>oven<br>lecture<br>nice |  
+| bip_39_word_new_br12 | huge<br>west<br>asthma<br>erosion<br>left<br>twin<br>loop<br>human<br>oven<br>lecture<br>nice<br>access |  
+| bip_39_word_new_br2 | huge<br>west |  
+| bip_39_word_new_br3 | huge<br>west<br>asthma |  
+| bip_39_word_new_br4 | huge<br>west<br>asthma<br>erosion |  
+| bip_39_word_new_br5 | huge<br>west<br>asthma<br>erosion<br>left |  
+| bip_39_word_new_br6 | huge<br>west<br>asthma<br>erosion<br>left<br>twin |  
+| bip_39_word_new_br7 | huge<br>west<br>asthma<br>erosion<br>left<br>twin<br>loop |  
+| bip_39_word_new_br8 | huge<br>west<br>asthma<br>erosion<br>left<br>twin<br>loop<br>human |  
+| bip_39_word_new_br9 | huge<br>west<br>asthma<br>erosion<br>left<br>twin<br>loop<br>human<br>oven |  
+| bip_39_word_new_line1 | huge |  
+| bip_39_word_new_line10 | huge
+west
+asthma
+erosion
+left
+twin
+loop
+human
+oven
+lecture |  
+| bip_39_word_new_line11 | huge
+west
+asthma
+erosion
+left
+twin
+loop
+human
+oven
+lecture
+nice |  
+| bip_39_word_new_line12 | huge
+west
+asthma
+erosion
+left
+twin
+loop
+human
+oven
+lecture
+nice
+access |  
+| bip_39_word_new_line2 | huge
+west |  
+| bip_39_word_new_line3 | huge
+west
+asthma |  
+| bip_39_word_new_line4 | huge
+west
+asthma
+erosion |  
+| bip_39_word_new_line5 | huge
+west
+asthma
+erosion
+left |  
+| bip_39_word_new_line6 | huge
+west
+asthma
+erosion
+left
+twin |  
+| bip_39_word_new_line7 | huge
+west
+asthma
+erosion
+left
+twin
+loop |  
+| bip_39_word_new_line8 | huge
+west
+asthma
+erosion
+left
+twin
+loop
+human |  
+| bip_39_word_new_line9 | huge
+west
+asthma
+erosion
+left
+twin
+loop
+human
+oven |  
+| bip_39_word_space_0 | ['huge', 'west', 'asthma', 'erosion', 'left', 'twin', 'loop', 'human', 'oven', 'lecture', 'nice', 'access'] |  
+| bip_39_word_space_1 | huge |  
+| bip_39_word_space_10 | huge west asthma erosion left twin loop human oven lecture |  
+| bip_39_word_space_11 | huge west asthma erosion left twin loop human oven lecture nice |  
+| bip_39_word_space_12 | huge west asthma erosion left twin loop human oven lecture nice access |  
+| bip_39_word_space_2 | huge west |  
+| bip_39_word_space_3 | huge west asthma |  
+| bip_39_word_space_4 | huge west asthma erosion |  
+| bip_39_word_space_5 | huge west asthma erosion left |  
+| bip_39_word_space_6 | huge west asthma erosion left twin |  
+| bip_39_word_space_7 | huge west asthma erosion left twin loop |  
+| bip_39_word_space_8 | huge west asthma erosion left twin loop human |  
+| bip_39_word_space_9 | huge west asthma erosion left twin loop human oven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

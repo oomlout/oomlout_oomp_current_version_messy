@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 12d0_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: early kid
+  * bip 39 word 3: early kid spice
+  * bip 39 word: early kid spice crawl frown butter gym long lucky until tape aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | early |  
+| bip_39_word_new_br10 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until |  
+| bip_39_word_new_br11 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until<br>tape |  
+| bip_39_word_new_br12 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky<br>until<br>tape<br>aerobic |  
+| bip_39_word_new_br2 | early<br>kid |  
+| bip_39_word_new_br3 | early<br>kid<br>spice |  
+| bip_39_word_new_br4 | early<br>kid<br>spice<br>crawl |  
+| bip_39_word_new_br5 | early<br>kid<br>spice<br>crawl<br>frown |  
+| bip_39_word_new_br6 | early<br>kid<br>spice<br>crawl<br>frown<br>butter |  
+| bip_39_word_new_br7 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym |  
+| bip_39_word_new_br8 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long |  
+| bip_39_word_new_br9 | early<br>kid<br>spice<br>crawl<br>frown<br>butter<br>gym<br>long<br>lucky |  
+| bip_39_word_new_line1 | early |  
+| bip_39_word_new_line10 | early
+kid
+spice
+crawl
+frown
+butter
+gym
+long
+lucky
+until |  
+| bip_39_word_new_line11 | early
+kid
+spice
+crawl
+frown
+butter
+gym
+long
+lucky
+until
+tape |  
+| bip_39_word_new_line12 | early
+kid
+spice
+crawl
+frown
+butter
+gym
+long
+lucky
+until
+tape
+aerobic |  
+| bip_39_word_new_line2 | early
+kid |  
+| bip_39_word_new_line3 | early
+kid
+spice |  
+| bip_39_word_new_line4 | early
+kid
+spice
+crawl |  
+| bip_39_word_new_line5 | early
+kid
+spice
+crawl
+frown |  
+| bip_39_word_new_line6 | early
+kid
+spice
+crawl
+frown
+butter |  
+| bip_39_word_new_line7 | early
+kid
+spice
+crawl
+frown
+butter
+gym |  
+| bip_39_word_new_line8 | early
+kid
+spice
+crawl
+frown
+butter
+gym
+long |  
+| bip_39_word_new_line9 | early
+kid
+spice
+crawl
+frown
+butter
+gym
+long
+lucky |  
+| bip_39_word_space_0 | ['early', 'kid', 'spice', 'crawl', 'frown', 'butter', 'gym', 'long', 'lucky', 'until', 'tape', 'aerobic'] |  
+| bip_39_word_space_1 | early |  
+| bip_39_word_space_10 | early kid spice crawl frown butter gym long lucky until |  
+| bip_39_word_space_11 | early kid spice crawl frown butter gym long lucky until tape |  
+| bip_39_word_space_12 | early kid spice crawl frown butter gym long lucky until tape aerobic |  
+| bip_39_word_space_2 | early kid |  
+| bip_39_word_space_3 | early kid spice |  
+| bip_39_word_space_4 | early kid spice crawl |  
+| bip_39_word_space_5 | early kid spice crawl frown |  
+| bip_39_word_space_6 | early kid spice crawl frown butter |  
+| bip_39_word_space_7 | early kid spice crawl frown butter gym |  
+| bip_39_word_space_8 | early kid spice crawl frown butter gym long |  
+| bip_39_word_space_9 | early kid spice crawl frown butter gym long lucky |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

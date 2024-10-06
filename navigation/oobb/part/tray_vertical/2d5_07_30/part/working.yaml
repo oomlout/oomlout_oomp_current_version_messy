@@ -1,3 +1,186 @@
+bip_39_word_new_br1: exotic
+bip_39_word_new_br10: exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer
+bip_39_word_new_br11: exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer<br>nice
+bip_39_word_new_br12: exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise<br>offer<br>nice<br>able
+bip_39_word_new_br2: exotic<br>tent
+bip_39_word_new_br3: exotic<br>tent<br>stone
+bip_39_word_new_br4: exotic<br>tent<br>stone<br>heavy
+bip_39_word_new_br5: exotic<br>tent<br>stone<br>heavy<br>tired
+bip_39_word_new_br6: exotic<br>tent<br>stone<br>heavy<br>tired<br>brother
+bip_39_word_new_br7: exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo
+bip_39_word_new_br8: exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup
+bip_39_word_new_br9: exotic<br>tent<br>stone<br>heavy<br>tired<br>brother<br>photo<br>syrup<br>raise
+bip_39_word_new_line1: exotic
+bip_39_word_new_line10: 'exotic
+
+  tent
+
+  stone
+
+  heavy
+
+  tired
+
+  brother
+
+  photo
+
+  syrup
+
+  raise
+
+  offer'
+bip_39_word_new_line11: 'exotic
+
+  tent
+
+  stone
+
+  heavy
+
+  tired
+
+  brother
+
+  photo
+
+  syrup
+
+  raise
+
+  offer
+
+  nice'
+bip_39_word_new_line12: 'exotic
+
+  tent
+
+  stone
+
+  heavy
+
+  tired
+
+  brother
+
+  photo
+
+  syrup
+
+  raise
+
+  offer
+
+  nice
+
+  able'
+bip_39_word_new_line2: 'exotic
+
+  tent'
+bip_39_word_new_line3: 'exotic
+
+  tent
+
+  stone'
+bip_39_word_new_line4: 'exotic
+
+  tent
+
+  stone
+
+  heavy'
+bip_39_word_new_line5: 'exotic
+
+  tent
+
+  stone
+
+  heavy
+
+  tired'
+bip_39_word_new_line6: 'exotic
+
+  tent
+
+  stone
+
+  heavy
+
+  tired
+
+  brother'
+bip_39_word_new_line7: 'exotic
+
+  tent
+
+  stone
+
+  heavy
+
+  tired
+
+  brother
+
+  photo'
+bip_39_word_new_line8: 'exotic
+
+  tent
+
+  stone
+
+  heavy
+
+  tired
+
+  brother
+
+  photo
+
+  syrup'
+bip_39_word_new_line9: 'exotic
+
+  tent
+
+  stone
+
+  heavy
+
+  tired
+
+  brother
+
+  photo
+
+  syrup
+
+  raise'
+bip_39_word_space_0:
+- exotic
+- tent
+- stone
+- heavy
+- tired
+- brother
+- photo
+- syrup
+- raise
+- offer
+- nice
+- able
+bip_39_word_space_1: exotic
+bip_39_word_space_10: exotic tent stone heavy tired brother photo syrup raise offer
+bip_39_word_space_11: exotic tent stone heavy tired brother photo syrup raise offer
+  nice
+bip_39_word_space_12: exotic tent stone heavy tired brother photo syrup raise offer
+  nice able
+bip_39_word_space_2: exotic tent
+bip_39_word_space_3: exotic tent stone
+bip_39_word_space_4: exotic tent stone heavy
+bip_39_word_space_5: exotic tent stone heavy tired
+bip_39_word_space_6: exotic tent stone heavy tired brother
+bip_39_word_space_7: exotic tent stone heavy tired brother photo
+bip_39_word_space_8: exotic tent stone heavy tired brother photo syrup
+bip_39_word_space_9: exotic tent stone heavy tired brother photo syrup raise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

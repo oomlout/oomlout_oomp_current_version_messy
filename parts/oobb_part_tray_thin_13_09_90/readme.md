@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: satisfy captain
+  * bip 39 word 3: satisfy captain farm
+  * bip 39 word: satisfy captain farm report foam adjust lake theory dust capable shrug acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | satisfy |  
+| bip_39_word_new_br10 | satisfy<br>captain<br>farm<br>report<br>foam<br>adjust<br>lake<br>theory<br>dust<br>capable |  
+| bip_39_word_new_br11 | satisfy<br>captain<br>farm<br>report<br>foam<br>adjust<br>lake<br>theory<br>dust<br>capable<br>shrug |  
+| bip_39_word_new_br12 | satisfy<br>captain<br>farm<br>report<br>foam<br>adjust<br>lake<br>theory<br>dust<br>capable<br>shrug<br>acid |  
+| bip_39_word_new_br2 | satisfy<br>captain |  
+| bip_39_word_new_br3 | satisfy<br>captain<br>farm |  
+| bip_39_word_new_br4 | satisfy<br>captain<br>farm<br>report |  
+| bip_39_word_new_br5 | satisfy<br>captain<br>farm<br>report<br>foam |  
+| bip_39_word_new_br6 | satisfy<br>captain<br>farm<br>report<br>foam<br>adjust |  
+| bip_39_word_new_br7 | satisfy<br>captain<br>farm<br>report<br>foam<br>adjust<br>lake |  
+| bip_39_word_new_br8 | satisfy<br>captain<br>farm<br>report<br>foam<br>adjust<br>lake<br>theory |  
+| bip_39_word_new_br9 | satisfy<br>captain<br>farm<br>report<br>foam<br>adjust<br>lake<br>theory<br>dust |  
+| bip_39_word_new_line1 | satisfy |  
+| bip_39_word_new_line10 | satisfy
+captain
+farm
+report
+foam
+adjust
+lake
+theory
+dust
+capable |  
+| bip_39_word_new_line11 | satisfy
+captain
+farm
+report
+foam
+adjust
+lake
+theory
+dust
+capable
+shrug |  
+| bip_39_word_new_line12 | satisfy
+captain
+farm
+report
+foam
+adjust
+lake
+theory
+dust
+capable
+shrug
+acid |  
+| bip_39_word_new_line2 | satisfy
+captain |  
+| bip_39_word_new_line3 | satisfy
+captain
+farm |  
+| bip_39_word_new_line4 | satisfy
+captain
+farm
+report |  
+| bip_39_word_new_line5 | satisfy
+captain
+farm
+report
+foam |  
+| bip_39_word_new_line6 | satisfy
+captain
+farm
+report
+foam
+adjust |  
+| bip_39_word_new_line7 | satisfy
+captain
+farm
+report
+foam
+adjust
+lake |  
+| bip_39_word_new_line8 | satisfy
+captain
+farm
+report
+foam
+adjust
+lake
+theory |  
+| bip_39_word_new_line9 | satisfy
+captain
+farm
+report
+foam
+adjust
+lake
+theory
+dust |  
+| bip_39_word_space_0 | ['satisfy', 'captain', 'farm', 'report', 'foam', 'adjust', 'lake', 'theory', 'dust', 'capable', 'shrug', 'acid'] |  
+| bip_39_word_space_1 | satisfy |  
+| bip_39_word_space_10 | satisfy captain farm report foam adjust lake theory dust capable |  
+| bip_39_word_space_11 | satisfy captain farm report foam adjust lake theory dust capable shrug |  
+| bip_39_word_space_12 | satisfy captain farm report foam adjust lake theory dust capable shrug acid |  
+| bip_39_word_space_2 | satisfy captain |  
+| bip_39_word_space_3 | satisfy captain farm |  
+| bip_39_word_space_4 | satisfy captain farm report |  
+| bip_39_word_space_5 | satisfy captain farm report foam |  
+| bip_39_word_space_6 | satisfy captain farm report foam adjust |  
+| bip_39_word_space_7 | satisfy captain farm report foam adjust lake |  
+| bip_39_word_space_8 | satisfy captain farm report foam adjust lake theory |  
+| bip_39_word_space_9 | satisfy captain farm report foam adjust lake theory dust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

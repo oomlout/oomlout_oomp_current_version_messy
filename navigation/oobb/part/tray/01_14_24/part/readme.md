@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fluid tribe
+  * bip 39 word 3: fluid tribe prize
+  * bip 39 word: fluid tribe prize joke soft mosquito solar install kitchen upgrade fetch apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fluid |  
+| bip_39_word_new_br10 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade |  
+| bip_39_word_new_br11 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch |  
+| bip_39_word_new_br12 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch<br>apple |  
+| bip_39_word_new_br2 | fluid<br>tribe |  
+| bip_39_word_new_br3 | fluid<br>tribe<br>prize |  
+| bip_39_word_new_br4 | fluid<br>tribe<br>prize<br>joke |  
+| bip_39_word_new_br5 | fluid<br>tribe<br>prize<br>joke<br>soft |  
+| bip_39_word_new_br6 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito |  
+| bip_39_word_new_br7 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar |  
+| bip_39_word_new_br8 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install |  
+| bip_39_word_new_br9 | fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen |  
+| bip_39_word_new_line1 | fluid |  
+| bip_39_word_new_line10 | fluid
+tribe
+prize
+joke
+soft
+mosquito
+solar
+install
+kitchen
+upgrade |  
+| bip_39_word_new_line11 | fluid
+tribe
+prize
+joke
+soft
+mosquito
+solar
+install
+kitchen
+upgrade
+fetch |  
+| bip_39_word_new_line12 | fluid
+tribe
+prize
+joke
+soft
+mosquito
+solar
+install
+kitchen
+upgrade
+fetch
+apple |  
+| bip_39_word_new_line2 | fluid
+tribe |  
+| bip_39_word_new_line3 | fluid
+tribe
+prize |  
+| bip_39_word_new_line4 | fluid
+tribe
+prize
+joke |  
+| bip_39_word_new_line5 | fluid
+tribe
+prize
+joke
+soft |  
+| bip_39_word_new_line6 | fluid
+tribe
+prize
+joke
+soft
+mosquito |  
+| bip_39_word_new_line7 | fluid
+tribe
+prize
+joke
+soft
+mosquito
+solar |  
+| bip_39_word_new_line8 | fluid
+tribe
+prize
+joke
+soft
+mosquito
+solar
+install |  
+| bip_39_word_new_line9 | fluid
+tribe
+prize
+joke
+soft
+mosquito
+solar
+install
+kitchen |  
+| bip_39_word_space_0 | ['fluid', 'tribe', 'prize', 'joke', 'soft', 'mosquito', 'solar', 'install', 'kitchen', 'upgrade', 'fetch', 'apple'] |  
+| bip_39_word_space_1 | fluid |  
+| bip_39_word_space_10 | fluid tribe prize joke soft mosquito solar install kitchen upgrade |  
+| bip_39_word_space_11 | fluid tribe prize joke soft mosquito solar install kitchen upgrade fetch |  
+| bip_39_word_space_12 | fluid tribe prize joke soft mosquito solar install kitchen upgrade fetch apple |  
+| bip_39_word_space_2 | fluid tribe |  
+| bip_39_word_space_3 | fluid tribe prize |  
+| bip_39_word_space_4 | fluid tribe prize joke |  
+| bip_39_word_space_5 | fluid tribe prize joke soft |  
+| bip_39_word_space_6 | fluid tribe prize joke soft mosquito |  
+| bip_39_word_space_7 | fluid tribe prize joke soft mosquito solar |  
+| bip_39_word_space_8 | fluid tribe prize joke soft mosquito solar install |  
+| bip_39_word_space_9 | fluid tribe prize joke soft mosquito solar install kitchen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

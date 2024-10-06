@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skirt modify
+  * bip 39 word 3: skirt modify genre
+  * bip 39 word: skirt modify genre initial setup annual stable auto giant guitar mouse among
 
 ### other_codes
 * short_code: br6820
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skirt |  
+| bip_39_word_new_br10 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar |  
+| bip_39_word_new_br11 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse |  
+| bip_39_word_new_br12 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse<br>among |  
+| bip_39_word_new_br2 | skirt<br>modify |  
+| bip_39_word_new_br3 | skirt<br>modify<br>genre |  
+| bip_39_word_new_br4 | skirt<br>modify<br>genre<br>initial |  
+| bip_39_word_new_br5 | skirt<br>modify<br>genre<br>initial<br>setup |  
+| bip_39_word_new_br6 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual |  
+| bip_39_word_new_br7 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable |  
+| bip_39_word_new_br8 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto |  
+| bip_39_word_new_br9 | skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant |  
+| bip_39_word_new_line1 | skirt |  
+| bip_39_word_new_line10 | skirt
+modify
+genre
+initial
+setup
+annual
+stable
+auto
+giant
+guitar |  
+| bip_39_word_new_line11 | skirt
+modify
+genre
+initial
+setup
+annual
+stable
+auto
+giant
+guitar
+mouse |  
+| bip_39_word_new_line12 | skirt
+modify
+genre
+initial
+setup
+annual
+stable
+auto
+giant
+guitar
+mouse
+among |  
+| bip_39_word_new_line2 | skirt
+modify |  
+| bip_39_word_new_line3 | skirt
+modify
+genre |  
+| bip_39_word_new_line4 | skirt
+modify
+genre
+initial |  
+| bip_39_word_new_line5 | skirt
+modify
+genre
+initial
+setup |  
+| bip_39_word_new_line6 | skirt
+modify
+genre
+initial
+setup
+annual |  
+| bip_39_word_new_line7 | skirt
+modify
+genre
+initial
+setup
+annual
+stable |  
+| bip_39_word_new_line8 | skirt
+modify
+genre
+initial
+setup
+annual
+stable
+auto |  
+| bip_39_word_new_line9 | skirt
+modify
+genre
+initial
+setup
+annual
+stable
+auto
+giant |  
+| bip_39_word_space_0 | ['skirt', 'modify', 'genre', 'initial', 'setup', 'annual', 'stable', 'auto', 'giant', 'guitar', 'mouse', 'among'] |  
+| bip_39_word_space_1 | skirt |  
+| bip_39_word_space_10 | skirt modify genre initial setup annual stable auto giant guitar |  
+| bip_39_word_space_11 | skirt modify genre initial setup annual stable auto giant guitar mouse |  
+| bip_39_word_space_12 | skirt modify genre initial setup annual stable auto giant guitar mouse among |  
+| bip_39_word_space_2 | skirt modify |  
+| bip_39_word_space_3 | skirt modify genre |  
+| bip_39_word_space_4 | skirt modify genre initial |  
+| bip_39_word_space_5 | skirt modify genre initial setup |  
+| bip_39_word_space_6 | skirt modify genre initial setup annual |  
+| bip_39_word_space_7 | skirt modify genre initial setup annual stable |  
+| bip_39_word_space_8 | skirt modify genre initial setup annual stable auto |  
+| bip_39_word_space_9 | skirt modify genre initial setup annual stable auto giant |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tuna empty
+  * bip 39 word 3: tuna empty deliver
+  * bip 39 word: tuna empty deliver original mean build canvas aunt idea used fuel accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tuna |  
+| bip_39_word_new_br10 | tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea<br>used |  
+| bip_39_word_new_br11 | tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea<br>used<br>fuel |  
+| bip_39_word_new_br12 | tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea<br>used<br>fuel<br>accuse |  
+| bip_39_word_new_br2 | tuna<br>empty |  
+| bip_39_word_new_br3 | tuna<br>empty<br>deliver |  
+| bip_39_word_new_br4 | tuna<br>empty<br>deliver<br>original |  
+| bip_39_word_new_br5 | tuna<br>empty<br>deliver<br>original<br>mean |  
+| bip_39_word_new_br6 | tuna<br>empty<br>deliver<br>original<br>mean<br>build |  
+| bip_39_word_new_br7 | tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas |  
+| bip_39_word_new_br8 | tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt |  
+| bip_39_word_new_br9 | tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea |  
+| bip_39_word_new_line1 | tuna |  
+| bip_39_word_new_line10 | tuna
+empty
+deliver
+original
+mean
+build
+canvas
+aunt
+idea
+used |  
+| bip_39_word_new_line11 | tuna
+empty
+deliver
+original
+mean
+build
+canvas
+aunt
+idea
+used
+fuel |  
+| bip_39_word_new_line12 | tuna
+empty
+deliver
+original
+mean
+build
+canvas
+aunt
+idea
+used
+fuel
+accuse |  
+| bip_39_word_new_line2 | tuna
+empty |  
+| bip_39_word_new_line3 | tuna
+empty
+deliver |  
+| bip_39_word_new_line4 | tuna
+empty
+deliver
+original |  
+| bip_39_word_new_line5 | tuna
+empty
+deliver
+original
+mean |  
+| bip_39_word_new_line6 | tuna
+empty
+deliver
+original
+mean
+build |  
+| bip_39_word_new_line7 | tuna
+empty
+deliver
+original
+mean
+build
+canvas |  
+| bip_39_word_new_line8 | tuna
+empty
+deliver
+original
+mean
+build
+canvas
+aunt |  
+| bip_39_word_new_line9 | tuna
+empty
+deliver
+original
+mean
+build
+canvas
+aunt
+idea |  
+| bip_39_word_space_0 | ['tuna', 'empty', 'deliver', 'original', 'mean', 'build', 'canvas', 'aunt', 'idea', 'used', 'fuel', 'accuse'] |  
+| bip_39_word_space_1 | tuna |  
+| bip_39_word_space_10 | tuna empty deliver original mean build canvas aunt idea used |  
+| bip_39_word_space_11 | tuna empty deliver original mean build canvas aunt idea used fuel |  
+| bip_39_word_space_12 | tuna empty deliver original mean build canvas aunt idea used fuel accuse |  
+| bip_39_word_space_2 | tuna empty |  
+| bip_39_word_space_3 | tuna empty deliver |  
+| bip_39_word_space_4 | tuna empty deliver original |  
+| bip_39_word_space_5 | tuna empty deliver original mean |  
+| bip_39_word_space_6 | tuna empty deliver original mean build |  
+| bip_39_word_space_7 | tuna empty deliver original mean build canvas |  
+| bip_39_word_space_8 | tuna empty deliver original mean build canvas aunt |  
+| bip_39_word_space_9 | tuna empty deliver original mean build canvas aunt idea |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

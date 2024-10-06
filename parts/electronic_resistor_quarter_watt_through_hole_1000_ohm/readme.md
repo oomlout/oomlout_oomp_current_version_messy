@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: happy sign
+  * bip 39 word 3: happy sign upset
+  * bip 39 word: happy sign upset toe proud toward sorry industry under noodle another abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | happy |  
+| bip_39_word_new_br10 | happy<br>sign<br>upset<br>toe<br>proud<br>toward<br>sorry<br>industry<br>under<br>noodle |  
+| bip_39_word_new_br11 | happy<br>sign<br>upset<br>toe<br>proud<br>toward<br>sorry<br>industry<br>under<br>noodle<br>another |  
+| bip_39_word_new_br12 | happy<br>sign<br>upset<br>toe<br>proud<br>toward<br>sorry<br>industry<br>under<br>noodle<br>another<br>abuse |  
+| bip_39_word_new_br2 | happy<br>sign |  
+| bip_39_word_new_br3 | happy<br>sign<br>upset |  
+| bip_39_word_new_br4 | happy<br>sign<br>upset<br>toe |  
+| bip_39_word_new_br5 | happy<br>sign<br>upset<br>toe<br>proud |  
+| bip_39_word_new_br6 | happy<br>sign<br>upset<br>toe<br>proud<br>toward |  
+| bip_39_word_new_br7 | happy<br>sign<br>upset<br>toe<br>proud<br>toward<br>sorry |  
+| bip_39_word_new_br8 | happy<br>sign<br>upset<br>toe<br>proud<br>toward<br>sorry<br>industry |  
+| bip_39_word_new_br9 | happy<br>sign<br>upset<br>toe<br>proud<br>toward<br>sorry<br>industry<br>under |  
+| bip_39_word_new_line1 | happy |  
+| bip_39_word_new_line10 | happy
+sign
+upset
+toe
+proud
+toward
+sorry
+industry
+under
+noodle |  
+| bip_39_word_new_line11 | happy
+sign
+upset
+toe
+proud
+toward
+sorry
+industry
+under
+noodle
+another |  
+| bip_39_word_new_line12 | happy
+sign
+upset
+toe
+proud
+toward
+sorry
+industry
+under
+noodle
+another
+abuse |  
+| bip_39_word_new_line2 | happy
+sign |  
+| bip_39_word_new_line3 | happy
+sign
+upset |  
+| bip_39_word_new_line4 | happy
+sign
+upset
+toe |  
+| bip_39_word_new_line5 | happy
+sign
+upset
+toe
+proud |  
+| bip_39_word_new_line6 | happy
+sign
+upset
+toe
+proud
+toward |  
+| bip_39_word_new_line7 | happy
+sign
+upset
+toe
+proud
+toward
+sorry |  
+| bip_39_word_new_line8 | happy
+sign
+upset
+toe
+proud
+toward
+sorry
+industry |  
+| bip_39_word_new_line9 | happy
+sign
+upset
+toe
+proud
+toward
+sorry
+industry
+under |  
+| bip_39_word_space_0 | ['happy', 'sign', 'upset', 'toe', 'proud', 'toward', 'sorry', 'industry', 'under', 'noodle', 'another', 'abuse'] |  
+| bip_39_word_space_1 | happy |  
+| bip_39_word_space_10 | happy sign upset toe proud toward sorry industry under noodle |  
+| bip_39_word_space_11 | happy sign upset toe proud toward sorry industry under noodle another |  
+| bip_39_word_space_12 | happy sign upset toe proud toward sorry industry under noodle another abuse |  
+| bip_39_word_space_2 | happy sign |  
+| bip_39_word_space_3 | happy sign upset |  
+| bip_39_word_space_4 | happy sign upset toe |  
+| bip_39_word_space_5 | happy sign upset toe proud |  
+| bip_39_word_space_6 | happy sign upset toe proud toward |  
+| bip_39_word_space_7 | happy sign upset toe proud toward sorry |  
+| bip_39_word_space_8 | happy sign upset toe proud toward sorry industry |  
+| bip_39_word_space_9 | happy sign upset toe proud toward sorry industry under |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

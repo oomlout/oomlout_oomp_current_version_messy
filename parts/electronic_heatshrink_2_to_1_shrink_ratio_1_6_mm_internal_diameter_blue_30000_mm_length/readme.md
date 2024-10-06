@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mystery jump
+  * bip 39 word 3: mystery jump fit
+  * bip 39 word: mystery jump fit run whisper mansion alley install legend find annual accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mystery |  
+| bip_39_word_new_br10 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion<br>alley<br>install<br>legend<br>find |  
+| bip_39_word_new_br11 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion<br>alley<br>install<br>legend<br>find<br>annual |  
+| bip_39_word_new_br12 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion<br>alley<br>install<br>legend<br>find<br>annual<br>accuse |  
+| bip_39_word_new_br2 | mystery<br>jump |  
+| bip_39_word_new_br3 | mystery<br>jump<br>fit |  
+| bip_39_word_new_br4 | mystery<br>jump<br>fit<br>run |  
+| bip_39_word_new_br5 | mystery<br>jump<br>fit<br>run<br>whisper |  
+| bip_39_word_new_br6 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion |  
+| bip_39_word_new_br7 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion<br>alley |  
+| bip_39_word_new_br8 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion<br>alley<br>install |  
+| bip_39_word_new_br9 | mystery<br>jump<br>fit<br>run<br>whisper<br>mansion<br>alley<br>install<br>legend |  
+| bip_39_word_new_line1 | mystery |  
+| bip_39_word_new_line10 | mystery
+jump
+fit
+run
+whisper
+mansion
+alley
+install
+legend
+find |  
+| bip_39_word_new_line11 | mystery
+jump
+fit
+run
+whisper
+mansion
+alley
+install
+legend
+find
+annual |  
+| bip_39_word_new_line12 | mystery
+jump
+fit
+run
+whisper
+mansion
+alley
+install
+legend
+find
+annual
+accuse |  
+| bip_39_word_new_line2 | mystery
+jump |  
+| bip_39_word_new_line3 | mystery
+jump
+fit |  
+| bip_39_word_new_line4 | mystery
+jump
+fit
+run |  
+| bip_39_word_new_line5 | mystery
+jump
+fit
+run
+whisper |  
+| bip_39_word_new_line6 | mystery
+jump
+fit
+run
+whisper
+mansion |  
+| bip_39_word_new_line7 | mystery
+jump
+fit
+run
+whisper
+mansion
+alley |  
+| bip_39_word_new_line8 | mystery
+jump
+fit
+run
+whisper
+mansion
+alley
+install |  
+| bip_39_word_new_line9 | mystery
+jump
+fit
+run
+whisper
+mansion
+alley
+install
+legend |  
+| bip_39_word_space_0 | ['mystery', 'jump', 'fit', 'run', 'whisper', 'mansion', 'alley', 'install', 'legend', 'find', 'annual', 'accuse'] |  
+| bip_39_word_space_1 | mystery |  
+| bip_39_word_space_10 | mystery jump fit run whisper mansion alley install legend find |  
+| bip_39_word_space_11 | mystery jump fit run whisper mansion alley install legend find annual |  
+| bip_39_word_space_12 | mystery jump fit run whisper mansion alley install legend find annual accuse |  
+| bip_39_word_space_2 | mystery jump |  
+| bip_39_word_space_3 | mystery jump fit |  
+| bip_39_word_space_4 | mystery jump fit run |  
+| bip_39_word_space_5 | mystery jump fit run whisper |  
+| bip_39_word_space_6 | mystery jump fit run whisper mansion |  
+| bip_39_word_space_7 | mystery jump fit run whisper mansion alley |  
+| bip_39_word_space_8 | mystery jump fit run whisper mansion alley install |  
+| bip_39_word_space_9 | mystery jump fit run whisper mansion alley install legend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

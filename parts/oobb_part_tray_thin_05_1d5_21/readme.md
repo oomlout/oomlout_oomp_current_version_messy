@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: romance black
+  * bip 39 word 3: romance black fold
+  * bip 39 word: romance black fold guess muffin high cousin immense oblige trim effort another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | romance |  
+| bip_39_word_new_br10 | romance<br>black<br>fold<br>guess<br>muffin<br>high<br>cousin<br>immense<br>oblige<br>trim |  
+| bip_39_word_new_br11 | romance<br>black<br>fold<br>guess<br>muffin<br>high<br>cousin<br>immense<br>oblige<br>trim<br>effort |  
+| bip_39_word_new_br12 | romance<br>black<br>fold<br>guess<br>muffin<br>high<br>cousin<br>immense<br>oblige<br>trim<br>effort<br>another |  
+| bip_39_word_new_br2 | romance<br>black |  
+| bip_39_word_new_br3 | romance<br>black<br>fold |  
+| bip_39_word_new_br4 | romance<br>black<br>fold<br>guess |  
+| bip_39_word_new_br5 | romance<br>black<br>fold<br>guess<br>muffin |  
+| bip_39_word_new_br6 | romance<br>black<br>fold<br>guess<br>muffin<br>high |  
+| bip_39_word_new_br7 | romance<br>black<br>fold<br>guess<br>muffin<br>high<br>cousin |  
+| bip_39_word_new_br8 | romance<br>black<br>fold<br>guess<br>muffin<br>high<br>cousin<br>immense |  
+| bip_39_word_new_br9 | romance<br>black<br>fold<br>guess<br>muffin<br>high<br>cousin<br>immense<br>oblige |  
+| bip_39_word_new_line1 | romance |  
+| bip_39_word_new_line10 | romance
+black
+fold
+guess
+muffin
+high
+cousin
+immense
+oblige
+trim |  
+| bip_39_word_new_line11 | romance
+black
+fold
+guess
+muffin
+high
+cousin
+immense
+oblige
+trim
+effort |  
+| bip_39_word_new_line12 | romance
+black
+fold
+guess
+muffin
+high
+cousin
+immense
+oblige
+trim
+effort
+another |  
+| bip_39_word_new_line2 | romance
+black |  
+| bip_39_word_new_line3 | romance
+black
+fold |  
+| bip_39_word_new_line4 | romance
+black
+fold
+guess |  
+| bip_39_word_new_line5 | romance
+black
+fold
+guess
+muffin |  
+| bip_39_word_new_line6 | romance
+black
+fold
+guess
+muffin
+high |  
+| bip_39_word_new_line7 | romance
+black
+fold
+guess
+muffin
+high
+cousin |  
+| bip_39_word_new_line8 | romance
+black
+fold
+guess
+muffin
+high
+cousin
+immense |  
+| bip_39_word_new_line9 | romance
+black
+fold
+guess
+muffin
+high
+cousin
+immense
+oblige |  
+| bip_39_word_space_0 | ['romance', 'black', 'fold', 'guess', 'muffin', 'high', 'cousin', 'immense', 'oblige', 'trim', 'effort', 'another'] |  
+| bip_39_word_space_1 | romance |  
+| bip_39_word_space_10 | romance black fold guess muffin high cousin immense oblige trim |  
+| bip_39_word_space_11 | romance black fold guess muffin high cousin immense oblige trim effort |  
+| bip_39_word_space_12 | romance black fold guess muffin high cousin immense oblige trim effort another |  
+| bip_39_word_space_2 | romance black |  
+| bip_39_word_space_3 | romance black fold |  
+| bip_39_word_space_4 | romance black fold guess |  
+| bip_39_word_space_5 | romance black fold guess muffin |  
+| bip_39_word_space_6 | romance black fold guess muffin high |  
+| bip_39_word_space_7 | romance black fold guess muffin high cousin |  
+| bip_39_word_space_8 | romance black fold guess muffin high cousin immense |  
+| bip_39_word_space_9 | romance black fold guess muffin high cousin immense oblige |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

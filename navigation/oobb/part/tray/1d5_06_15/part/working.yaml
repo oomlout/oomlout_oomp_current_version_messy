@@ -1,3 +1,186 @@
+bip_39_word_new_br1: park
+bip_39_word_new_br10: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse
+bip_39_word_new_br11: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse<br>eight
+bip_39_word_new_br12: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag<br>excuse<br>eight<br>aunt
+bip_39_word_new_br2: park<br>garment
+bip_39_word_new_br3: park<br>garment<br>word
+bip_39_word_new_br4: park<br>garment<br>word<br>security
+bip_39_word_new_br5: park<br>garment<br>word<br>security<br>firm
+bip_39_word_new_br6: park<br>garment<br>word<br>security<br>firm<br>spike
+bip_39_word_new_br7: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm
+bip_39_word_new_br8: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero
+bip_39_word_new_br9: park<br>garment<br>word<br>security<br>firm<br>spike<br>alarm<br>zero<br>bag
+bip_39_word_new_line1: park
+bip_39_word_new_line10: 'park
+
+  garment
+
+  word
+
+  security
+
+  firm
+
+  spike
+
+  alarm
+
+  zero
+
+  bag
+
+  excuse'
+bip_39_word_new_line11: 'park
+
+  garment
+
+  word
+
+  security
+
+  firm
+
+  spike
+
+  alarm
+
+  zero
+
+  bag
+
+  excuse
+
+  eight'
+bip_39_word_new_line12: 'park
+
+  garment
+
+  word
+
+  security
+
+  firm
+
+  spike
+
+  alarm
+
+  zero
+
+  bag
+
+  excuse
+
+  eight
+
+  aunt'
+bip_39_word_new_line2: 'park
+
+  garment'
+bip_39_word_new_line3: 'park
+
+  garment
+
+  word'
+bip_39_word_new_line4: 'park
+
+  garment
+
+  word
+
+  security'
+bip_39_word_new_line5: 'park
+
+  garment
+
+  word
+
+  security
+
+  firm'
+bip_39_word_new_line6: 'park
+
+  garment
+
+  word
+
+  security
+
+  firm
+
+  spike'
+bip_39_word_new_line7: 'park
+
+  garment
+
+  word
+
+  security
+
+  firm
+
+  spike
+
+  alarm'
+bip_39_word_new_line8: 'park
+
+  garment
+
+  word
+
+  security
+
+  firm
+
+  spike
+
+  alarm
+
+  zero'
+bip_39_word_new_line9: 'park
+
+  garment
+
+  word
+
+  security
+
+  firm
+
+  spike
+
+  alarm
+
+  zero
+
+  bag'
+bip_39_word_space_0:
+- park
+- garment
+- word
+- security
+- firm
+- spike
+- alarm
+- zero
+- bag
+- excuse
+- eight
+- aunt
+bip_39_word_space_1: park
+bip_39_word_space_10: park garment word security firm spike alarm zero bag excuse
+bip_39_word_space_11: park garment word security firm spike alarm zero bag excuse
+  eight
+bip_39_word_space_12: park garment word security firm spike alarm zero bag excuse
+  eight aunt
+bip_39_word_space_2: park garment
+bip_39_word_space_3: park garment word
+bip_39_word_space_4: park garment word security
+bip_39_word_space_5: park garment word security firm
+bip_39_word_space_6: park garment word security firm spike
+bip_39_word_space_7: park garment word security firm spike alarm
+bip_39_word_space_8: park garment word security firm spike alarm zero
+bip_39_word_space_9: park garment word security firm spike alarm zero bag
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

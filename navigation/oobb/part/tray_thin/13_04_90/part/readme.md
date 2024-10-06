@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glue rich
+  * bip 39 word 3: glue rich pen
+  * bip 39 word: glue rich pen jump mixed brief climb bright reflect shaft future analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glue |  
+| bip_39_word_new_br10 | glue<br>rich<br>pen<br>jump<br>mixed<br>brief<br>climb<br>bright<br>reflect<br>shaft |  
+| bip_39_word_new_br11 | glue<br>rich<br>pen<br>jump<br>mixed<br>brief<br>climb<br>bright<br>reflect<br>shaft<br>future |  
+| bip_39_word_new_br12 | glue<br>rich<br>pen<br>jump<br>mixed<br>brief<br>climb<br>bright<br>reflect<br>shaft<br>future<br>analyst |  
+| bip_39_word_new_br2 | glue<br>rich |  
+| bip_39_word_new_br3 | glue<br>rich<br>pen |  
+| bip_39_word_new_br4 | glue<br>rich<br>pen<br>jump |  
+| bip_39_word_new_br5 | glue<br>rich<br>pen<br>jump<br>mixed |  
+| bip_39_word_new_br6 | glue<br>rich<br>pen<br>jump<br>mixed<br>brief |  
+| bip_39_word_new_br7 | glue<br>rich<br>pen<br>jump<br>mixed<br>brief<br>climb |  
+| bip_39_word_new_br8 | glue<br>rich<br>pen<br>jump<br>mixed<br>brief<br>climb<br>bright |  
+| bip_39_word_new_br9 | glue<br>rich<br>pen<br>jump<br>mixed<br>brief<br>climb<br>bright<br>reflect |  
+| bip_39_word_new_line1 | glue |  
+| bip_39_word_new_line10 | glue
+rich
+pen
+jump
+mixed
+brief
+climb
+bright
+reflect
+shaft |  
+| bip_39_word_new_line11 | glue
+rich
+pen
+jump
+mixed
+brief
+climb
+bright
+reflect
+shaft
+future |  
+| bip_39_word_new_line12 | glue
+rich
+pen
+jump
+mixed
+brief
+climb
+bright
+reflect
+shaft
+future
+analyst |  
+| bip_39_word_new_line2 | glue
+rich |  
+| bip_39_word_new_line3 | glue
+rich
+pen |  
+| bip_39_word_new_line4 | glue
+rich
+pen
+jump |  
+| bip_39_word_new_line5 | glue
+rich
+pen
+jump
+mixed |  
+| bip_39_word_new_line6 | glue
+rich
+pen
+jump
+mixed
+brief |  
+| bip_39_word_new_line7 | glue
+rich
+pen
+jump
+mixed
+brief
+climb |  
+| bip_39_word_new_line8 | glue
+rich
+pen
+jump
+mixed
+brief
+climb
+bright |  
+| bip_39_word_new_line9 | glue
+rich
+pen
+jump
+mixed
+brief
+climb
+bright
+reflect |  
+| bip_39_word_space_0 | ['glue', 'rich', 'pen', 'jump', 'mixed', 'brief', 'climb', 'bright', 'reflect', 'shaft', 'future', 'analyst'] |  
+| bip_39_word_space_1 | glue |  
+| bip_39_word_space_10 | glue rich pen jump mixed brief climb bright reflect shaft |  
+| bip_39_word_space_11 | glue rich pen jump mixed brief climb bright reflect shaft future |  
+| bip_39_word_space_12 | glue rich pen jump mixed brief climb bright reflect shaft future analyst |  
+| bip_39_word_space_2 | glue rich |  
+| bip_39_word_space_3 | glue rich pen |  
+| bip_39_word_space_4 | glue rich pen jump |  
+| bip_39_word_space_5 | glue rich pen jump mixed |  
+| bip_39_word_space_6 | glue rich pen jump mixed brief |  
+| bip_39_word_space_7 | glue rich pen jump mixed brief climb |  
+| bip_39_word_space_8 | glue rich pen jump mixed brief climb bright |  
+| bip_39_word_space_9 | glue rich pen jump mixed brief climb bright reflect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

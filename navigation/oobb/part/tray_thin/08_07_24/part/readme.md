@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: program husband
+  * bip 39 word 3: program husband child
+  * bip 39 word: program husband child upgrade train cannon season hammer egg pair actor about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | program |  
+| bip_39_word_new_br10 | program<br>husband<br>child<br>upgrade<br>train<br>cannon<br>season<br>hammer<br>egg<br>pair |  
+| bip_39_word_new_br11 | program<br>husband<br>child<br>upgrade<br>train<br>cannon<br>season<br>hammer<br>egg<br>pair<br>actor |  
+| bip_39_word_new_br12 | program<br>husband<br>child<br>upgrade<br>train<br>cannon<br>season<br>hammer<br>egg<br>pair<br>actor<br>about |  
+| bip_39_word_new_br2 | program<br>husband |  
+| bip_39_word_new_br3 | program<br>husband<br>child |  
+| bip_39_word_new_br4 | program<br>husband<br>child<br>upgrade |  
+| bip_39_word_new_br5 | program<br>husband<br>child<br>upgrade<br>train |  
+| bip_39_word_new_br6 | program<br>husband<br>child<br>upgrade<br>train<br>cannon |  
+| bip_39_word_new_br7 | program<br>husband<br>child<br>upgrade<br>train<br>cannon<br>season |  
+| bip_39_word_new_br8 | program<br>husband<br>child<br>upgrade<br>train<br>cannon<br>season<br>hammer |  
+| bip_39_word_new_br9 | program<br>husband<br>child<br>upgrade<br>train<br>cannon<br>season<br>hammer<br>egg |  
+| bip_39_word_new_line1 | program |  
+| bip_39_word_new_line10 | program
+husband
+child
+upgrade
+train
+cannon
+season
+hammer
+egg
+pair |  
+| bip_39_word_new_line11 | program
+husband
+child
+upgrade
+train
+cannon
+season
+hammer
+egg
+pair
+actor |  
+| bip_39_word_new_line12 | program
+husband
+child
+upgrade
+train
+cannon
+season
+hammer
+egg
+pair
+actor
+about |  
+| bip_39_word_new_line2 | program
+husband |  
+| bip_39_word_new_line3 | program
+husband
+child |  
+| bip_39_word_new_line4 | program
+husband
+child
+upgrade |  
+| bip_39_word_new_line5 | program
+husband
+child
+upgrade
+train |  
+| bip_39_word_new_line6 | program
+husband
+child
+upgrade
+train
+cannon |  
+| bip_39_word_new_line7 | program
+husband
+child
+upgrade
+train
+cannon
+season |  
+| bip_39_word_new_line8 | program
+husband
+child
+upgrade
+train
+cannon
+season
+hammer |  
+| bip_39_word_new_line9 | program
+husband
+child
+upgrade
+train
+cannon
+season
+hammer
+egg |  
+| bip_39_word_space_0 | ['program', 'husband', 'child', 'upgrade', 'train', 'cannon', 'season', 'hammer', 'egg', 'pair', 'actor', 'about'] |  
+| bip_39_word_space_1 | program |  
+| bip_39_word_space_10 | program husband child upgrade train cannon season hammer egg pair |  
+| bip_39_word_space_11 | program husband child upgrade train cannon season hammer egg pair actor |  
+| bip_39_word_space_12 | program husband child upgrade train cannon season hammer egg pair actor about |  
+| bip_39_word_space_2 | program husband |  
+| bip_39_word_space_3 | program husband child |  
+| bip_39_word_space_4 | program husband child upgrade |  
+| bip_39_word_space_5 | program husband child upgrade train |  
+| bip_39_word_space_6 | program husband child upgrade train cannon |  
+| bip_39_word_space_7 | program husband child upgrade train cannon season |  
+| bip_39_word_space_8 | program husband child upgrade train cannon season hammer |  
+| bip_39_word_space_9 | program husband child upgrade train cannon season hammer egg |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

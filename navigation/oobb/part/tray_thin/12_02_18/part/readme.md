@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blame track
+  * bip 39 word 3: blame track liar
+  * bip 39 word: blame track liar faith fly base now advance hamster prize cattle alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blame |  
+| bip_39_word_new_br10 | blame<br>track<br>liar<br>faith<br>fly<br>base<br>now<br>advance<br>hamster<br>prize |  
+| bip_39_word_new_br11 | blame<br>track<br>liar<br>faith<br>fly<br>base<br>now<br>advance<br>hamster<br>prize<br>cattle |  
+| bip_39_word_new_br12 | blame<br>track<br>liar<br>faith<br>fly<br>base<br>now<br>advance<br>hamster<br>prize<br>cattle<br>alone |  
+| bip_39_word_new_br2 | blame<br>track |  
+| bip_39_word_new_br3 | blame<br>track<br>liar |  
+| bip_39_word_new_br4 | blame<br>track<br>liar<br>faith |  
+| bip_39_word_new_br5 | blame<br>track<br>liar<br>faith<br>fly |  
+| bip_39_word_new_br6 | blame<br>track<br>liar<br>faith<br>fly<br>base |  
+| bip_39_word_new_br7 | blame<br>track<br>liar<br>faith<br>fly<br>base<br>now |  
+| bip_39_word_new_br8 | blame<br>track<br>liar<br>faith<br>fly<br>base<br>now<br>advance |  
+| bip_39_word_new_br9 | blame<br>track<br>liar<br>faith<br>fly<br>base<br>now<br>advance<br>hamster |  
+| bip_39_word_new_line1 | blame |  
+| bip_39_word_new_line10 | blame
+track
+liar
+faith
+fly
+base
+now
+advance
+hamster
+prize |  
+| bip_39_word_new_line11 | blame
+track
+liar
+faith
+fly
+base
+now
+advance
+hamster
+prize
+cattle |  
+| bip_39_word_new_line12 | blame
+track
+liar
+faith
+fly
+base
+now
+advance
+hamster
+prize
+cattle
+alone |  
+| bip_39_word_new_line2 | blame
+track |  
+| bip_39_word_new_line3 | blame
+track
+liar |  
+| bip_39_word_new_line4 | blame
+track
+liar
+faith |  
+| bip_39_word_new_line5 | blame
+track
+liar
+faith
+fly |  
+| bip_39_word_new_line6 | blame
+track
+liar
+faith
+fly
+base |  
+| bip_39_word_new_line7 | blame
+track
+liar
+faith
+fly
+base
+now |  
+| bip_39_word_new_line8 | blame
+track
+liar
+faith
+fly
+base
+now
+advance |  
+| bip_39_word_new_line9 | blame
+track
+liar
+faith
+fly
+base
+now
+advance
+hamster |  
+| bip_39_word_space_0 | ['blame', 'track', 'liar', 'faith', 'fly', 'base', 'now', 'advance', 'hamster', 'prize', 'cattle', 'alone'] |  
+| bip_39_word_space_1 | blame |  
+| bip_39_word_space_10 | blame track liar faith fly base now advance hamster prize |  
+| bip_39_word_space_11 | blame track liar faith fly base now advance hamster prize cattle |  
+| bip_39_word_space_12 | blame track liar faith fly base now advance hamster prize cattle alone |  
+| bip_39_word_space_2 | blame track |  
+| bip_39_word_space_3 | blame track liar |  
+| bip_39_word_space_4 | blame track liar faith |  
+| bip_39_word_space_5 | blame track liar faith fly |  
+| bip_39_word_space_6 | blame track liar faith fly base |  
+| bip_39_word_space_7 | blame track liar faith fly base now |  
+| bip_39_word_space_8 | blame track liar faith fly base now advance |  
+| bip_39_word_space_9 | blame track liar faith fly base now advance hamster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

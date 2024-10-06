@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tilt power
+  * bip 39 word 3: tilt power cereal
+  * bip 39 word: tilt power cereal soon frame bamboo beach between beef kidney shrimp air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tilt |  
+| bip_39_word_new_br10 | tilt<br>power<br>cereal<br>soon<br>frame<br>bamboo<br>beach<br>between<br>beef<br>kidney |  
+| bip_39_word_new_br11 | tilt<br>power<br>cereal<br>soon<br>frame<br>bamboo<br>beach<br>between<br>beef<br>kidney<br>shrimp |  
+| bip_39_word_new_br12 | tilt<br>power<br>cereal<br>soon<br>frame<br>bamboo<br>beach<br>between<br>beef<br>kidney<br>shrimp<br>air |  
+| bip_39_word_new_br2 | tilt<br>power |  
+| bip_39_word_new_br3 | tilt<br>power<br>cereal |  
+| bip_39_word_new_br4 | tilt<br>power<br>cereal<br>soon |  
+| bip_39_word_new_br5 | tilt<br>power<br>cereal<br>soon<br>frame |  
+| bip_39_word_new_br6 | tilt<br>power<br>cereal<br>soon<br>frame<br>bamboo |  
+| bip_39_word_new_br7 | tilt<br>power<br>cereal<br>soon<br>frame<br>bamboo<br>beach |  
+| bip_39_word_new_br8 | tilt<br>power<br>cereal<br>soon<br>frame<br>bamboo<br>beach<br>between |  
+| bip_39_word_new_br9 | tilt<br>power<br>cereal<br>soon<br>frame<br>bamboo<br>beach<br>between<br>beef |  
+| bip_39_word_new_line1 | tilt |  
+| bip_39_word_new_line10 | tilt
+power
+cereal
+soon
+frame
+bamboo
+beach
+between
+beef
+kidney |  
+| bip_39_word_new_line11 | tilt
+power
+cereal
+soon
+frame
+bamboo
+beach
+between
+beef
+kidney
+shrimp |  
+| bip_39_word_new_line12 | tilt
+power
+cereal
+soon
+frame
+bamboo
+beach
+between
+beef
+kidney
+shrimp
+air |  
+| bip_39_word_new_line2 | tilt
+power |  
+| bip_39_word_new_line3 | tilt
+power
+cereal |  
+| bip_39_word_new_line4 | tilt
+power
+cereal
+soon |  
+| bip_39_word_new_line5 | tilt
+power
+cereal
+soon
+frame |  
+| bip_39_word_new_line6 | tilt
+power
+cereal
+soon
+frame
+bamboo |  
+| bip_39_word_new_line7 | tilt
+power
+cereal
+soon
+frame
+bamboo
+beach |  
+| bip_39_word_new_line8 | tilt
+power
+cereal
+soon
+frame
+bamboo
+beach
+between |  
+| bip_39_word_new_line9 | tilt
+power
+cereal
+soon
+frame
+bamboo
+beach
+between
+beef |  
+| bip_39_word_space_0 | ['tilt', 'power', 'cereal', 'soon', 'frame', 'bamboo', 'beach', 'between', 'beef', 'kidney', 'shrimp', 'air'] |  
+| bip_39_word_space_1 | tilt |  
+| bip_39_word_space_10 | tilt power cereal soon frame bamboo beach between beef kidney |  
+| bip_39_word_space_11 | tilt power cereal soon frame bamboo beach between beef kidney shrimp |  
+| bip_39_word_space_12 | tilt power cereal soon frame bamboo beach between beef kidney shrimp air |  
+| bip_39_word_space_2 | tilt power |  
+| bip_39_word_space_3 | tilt power cereal |  
+| bip_39_word_space_4 | tilt power cereal soon |  
+| bip_39_word_space_5 | tilt power cereal soon frame |  
+| bip_39_word_space_6 | tilt power cereal soon frame bamboo |  
+| bip_39_word_space_7 | tilt power cereal soon frame bamboo beach |  
+| bip_39_word_space_8 | tilt power cereal soon frame bamboo beach between |  
+| bip_39_word_space_9 | tilt power cereal soon frame bamboo beach between beef |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

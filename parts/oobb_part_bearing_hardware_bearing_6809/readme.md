@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crystal prize
+  * bip 39 word 3: crystal prize copy
+  * bip 39 word: crystal prize copy pitch win moment fury garden section mansion shrug address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crystal |  
+| bip_39_word_new_br10 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion |  
+| bip_39_word_new_br11 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug |  
+| bip_39_word_new_br12 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug<br>address |  
+| bip_39_word_new_br2 | crystal<br>prize |  
+| bip_39_word_new_br3 | crystal<br>prize<br>copy |  
+| bip_39_word_new_br4 | crystal<br>prize<br>copy<br>pitch |  
+| bip_39_word_new_br5 | crystal<br>prize<br>copy<br>pitch<br>win |  
+| bip_39_word_new_br6 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment |  
+| bip_39_word_new_br7 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury |  
+| bip_39_word_new_br8 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden |  
+| bip_39_word_new_br9 | crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section |  
+| bip_39_word_new_line1 | crystal |  
+| bip_39_word_new_line10 | crystal
+prize
+copy
+pitch
+win
+moment
+fury
+garden
+section
+mansion |  
+| bip_39_word_new_line11 | crystal
+prize
+copy
+pitch
+win
+moment
+fury
+garden
+section
+mansion
+shrug |  
+| bip_39_word_new_line12 | crystal
+prize
+copy
+pitch
+win
+moment
+fury
+garden
+section
+mansion
+shrug
+address |  
+| bip_39_word_new_line2 | crystal
+prize |  
+| bip_39_word_new_line3 | crystal
+prize
+copy |  
+| bip_39_word_new_line4 | crystal
+prize
+copy
+pitch |  
+| bip_39_word_new_line5 | crystal
+prize
+copy
+pitch
+win |  
+| bip_39_word_new_line6 | crystal
+prize
+copy
+pitch
+win
+moment |  
+| bip_39_word_new_line7 | crystal
+prize
+copy
+pitch
+win
+moment
+fury |  
+| bip_39_word_new_line8 | crystal
+prize
+copy
+pitch
+win
+moment
+fury
+garden |  
+| bip_39_word_new_line9 | crystal
+prize
+copy
+pitch
+win
+moment
+fury
+garden
+section |  
+| bip_39_word_space_0 | ['crystal', 'prize', 'copy', 'pitch', 'win', 'moment', 'fury', 'garden', 'section', 'mansion', 'shrug', 'address'] |  
+| bip_39_word_space_1 | crystal |  
+| bip_39_word_space_10 | crystal prize copy pitch win moment fury garden section mansion |  
+| bip_39_word_space_11 | crystal prize copy pitch win moment fury garden section mansion shrug |  
+| bip_39_word_space_12 | crystal prize copy pitch win moment fury garden section mansion shrug address |  
+| bip_39_word_space_2 | crystal prize |  
+| bip_39_word_space_3 | crystal prize copy |  
+| bip_39_word_space_4 | crystal prize copy pitch |  
+| bip_39_word_space_5 | crystal prize copy pitch win |  
+| bip_39_word_space_6 | crystal prize copy pitch win moment |  
+| bip_39_word_space_7 | crystal prize copy pitch win moment fury |  
+| bip_39_word_space_8 | crystal prize copy pitch win moment fury garden |  
+| bip_39_word_space_9 | crystal prize copy pitch win moment fury garden section |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: excess
+bip_39_word_new_br10: excess<br>base<br>scatter<br>culture<br>miracle<br>chair<br>maximum<br>script<br>canyon<br>vehicle
+bip_39_word_new_br11: excess<br>base<br>scatter<br>culture<br>miracle<br>chair<br>maximum<br>script<br>canyon<br>vehicle<br>fragile
+bip_39_word_new_br12: excess<br>base<br>scatter<br>culture<br>miracle<br>chair<br>maximum<br>script<br>canyon<br>vehicle<br>fragile<br>alone
+bip_39_word_new_br2: excess<br>base
+bip_39_word_new_br3: excess<br>base<br>scatter
+bip_39_word_new_br4: excess<br>base<br>scatter<br>culture
+bip_39_word_new_br5: excess<br>base<br>scatter<br>culture<br>miracle
+bip_39_word_new_br6: excess<br>base<br>scatter<br>culture<br>miracle<br>chair
+bip_39_word_new_br7: excess<br>base<br>scatter<br>culture<br>miracle<br>chair<br>maximum
+bip_39_word_new_br8: excess<br>base<br>scatter<br>culture<br>miracle<br>chair<br>maximum<br>script
+bip_39_word_new_br9: excess<br>base<br>scatter<br>culture<br>miracle<br>chair<br>maximum<br>script<br>canyon
+bip_39_word_new_line1: excess
+bip_39_word_new_line10: 'excess
+
+  base
+
+  scatter
+
+  culture
+
+  miracle
+
+  chair
+
+  maximum
+
+  script
+
+  canyon
+
+  vehicle'
+bip_39_word_new_line11: 'excess
+
+  base
+
+  scatter
+
+  culture
+
+  miracle
+
+  chair
+
+  maximum
+
+  script
+
+  canyon
+
+  vehicle
+
+  fragile'
+bip_39_word_new_line12: 'excess
+
+  base
+
+  scatter
+
+  culture
+
+  miracle
+
+  chair
+
+  maximum
+
+  script
+
+  canyon
+
+  vehicle
+
+  fragile
+
+  alone'
+bip_39_word_new_line2: 'excess
+
+  base'
+bip_39_word_new_line3: 'excess
+
+  base
+
+  scatter'
+bip_39_word_new_line4: 'excess
+
+  base
+
+  scatter
+
+  culture'
+bip_39_word_new_line5: 'excess
+
+  base
+
+  scatter
+
+  culture
+
+  miracle'
+bip_39_word_new_line6: 'excess
+
+  base
+
+  scatter
+
+  culture
+
+  miracle
+
+  chair'
+bip_39_word_new_line7: 'excess
+
+  base
+
+  scatter
+
+  culture
+
+  miracle
+
+  chair
+
+  maximum'
+bip_39_word_new_line8: 'excess
+
+  base
+
+  scatter
+
+  culture
+
+  miracle
+
+  chair
+
+  maximum
+
+  script'
+bip_39_word_new_line9: 'excess
+
+  base
+
+  scatter
+
+  culture
+
+  miracle
+
+  chair
+
+  maximum
+
+  script
+
+  canyon'
+bip_39_word_space_0:
+- excess
+- base
+- scatter
+- culture
+- miracle
+- chair
+- maximum
+- script
+- canyon
+- vehicle
+- fragile
+- alone
+bip_39_word_space_1: excess
+bip_39_word_space_10: excess base scatter culture miracle chair maximum script canyon
+  vehicle
+bip_39_word_space_11: excess base scatter culture miracle chair maximum script canyon
+  vehicle fragile
+bip_39_word_space_12: excess base scatter culture miracle chair maximum script canyon
+  vehicle fragile alone
+bip_39_word_space_2: excess base
+bip_39_word_space_3: excess base scatter
+bip_39_word_space_4: excess base scatter culture
+bip_39_word_space_5: excess base scatter culture miracle
+bip_39_word_space_6: excess base scatter culture miracle chair
+bip_39_word_space_7: excess base scatter culture miracle chair maximum
+bip_39_word_space_8: excess base scatter culture miracle chair maximum script
+bip_39_word_space_9: excess base scatter culture miracle chair maximum script canyon
 classification: paper
 classification_capital: Paper
 classification_first_letter: p

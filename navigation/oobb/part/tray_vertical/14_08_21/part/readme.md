@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: warm hour
+  * bip 39 word 3: warm hour sadness
+  * bip 39 word: warm hour sadness cost resemble iron drop net blur segment winner annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | warm |  
+| bip_39_word_new_br10 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron<br>drop<br>net<br>blur<br>segment |  
+| bip_39_word_new_br11 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron<br>drop<br>net<br>blur<br>segment<br>winner |  
+| bip_39_word_new_br12 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron<br>drop<br>net<br>blur<br>segment<br>winner<br>annual |  
+| bip_39_word_new_br2 | warm<br>hour |  
+| bip_39_word_new_br3 | warm<br>hour<br>sadness |  
+| bip_39_word_new_br4 | warm<br>hour<br>sadness<br>cost |  
+| bip_39_word_new_br5 | warm<br>hour<br>sadness<br>cost<br>resemble |  
+| bip_39_word_new_br6 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron |  
+| bip_39_word_new_br7 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron<br>drop |  
+| bip_39_word_new_br8 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron<br>drop<br>net |  
+| bip_39_word_new_br9 | warm<br>hour<br>sadness<br>cost<br>resemble<br>iron<br>drop<br>net<br>blur |  
+| bip_39_word_new_line1 | warm |  
+| bip_39_word_new_line10 | warm
+hour
+sadness
+cost
+resemble
+iron
+drop
+net
+blur
+segment |  
+| bip_39_word_new_line11 | warm
+hour
+sadness
+cost
+resemble
+iron
+drop
+net
+blur
+segment
+winner |  
+| bip_39_word_new_line12 | warm
+hour
+sadness
+cost
+resemble
+iron
+drop
+net
+blur
+segment
+winner
+annual |  
+| bip_39_word_new_line2 | warm
+hour |  
+| bip_39_word_new_line3 | warm
+hour
+sadness |  
+| bip_39_word_new_line4 | warm
+hour
+sadness
+cost |  
+| bip_39_word_new_line5 | warm
+hour
+sadness
+cost
+resemble |  
+| bip_39_word_new_line6 | warm
+hour
+sadness
+cost
+resemble
+iron |  
+| bip_39_word_new_line7 | warm
+hour
+sadness
+cost
+resemble
+iron
+drop |  
+| bip_39_word_new_line8 | warm
+hour
+sadness
+cost
+resemble
+iron
+drop
+net |  
+| bip_39_word_new_line9 | warm
+hour
+sadness
+cost
+resemble
+iron
+drop
+net
+blur |  
+| bip_39_word_space_0 | ['warm', 'hour', 'sadness', 'cost', 'resemble', 'iron', 'drop', 'net', 'blur', 'segment', 'winner', 'annual'] |  
+| bip_39_word_space_1 | warm |  
+| bip_39_word_space_10 | warm hour sadness cost resemble iron drop net blur segment |  
+| bip_39_word_space_11 | warm hour sadness cost resemble iron drop net blur segment winner |  
+| bip_39_word_space_12 | warm hour sadness cost resemble iron drop net blur segment winner annual |  
+| bip_39_word_space_2 | warm hour |  
+| bip_39_word_space_3 | warm hour sadness |  
+| bip_39_word_space_4 | warm hour sadness cost |  
+| bip_39_word_space_5 | warm hour sadness cost resemble |  
+| bip_39_word_space_6 | warm hour sadness cost resemble iron |  
+| bip_39_word_space_7 | warm hour sadness cost resemble iron drop |  
+| bip_39_word_space_8 | warm hour sadness cost resemble iron drop net |  
+| bip_39_word_space_9 | warm hour sadness cost resemble iron drop net blur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pulse
+bip_39_word_new_br10: pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal
+bip_39_word_new_br11: pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal<br>allow
+bip_39_word_new_br12: pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony<br>deal<br>allow<br>ankle
+bip_39_word_new_br2: pulse<br>moment
+bip_39_word_new_br3: pulse<br>moment<br>emerge
+bip_39_word_new_br4: pulse<br>moment<br>emerge<br>amount
+bip_39_word_new_br5: pulse<br>moment<br>emerge<br>amount<br>tourist
+bip_39_word_new_br6: pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster
+bip_39_word_new_br7: pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune
+bip_39_word_new_br8: pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life
+bip_39_word_new_br9: pulse<br>moment<br>emerge<br>amount<br>tourist<br>hamster<br>dune<br>life<br>balcony
+bip_39_word_new_line1: pulse
+bip_39_word_new_line10: 'pulse
+
+  moment
+
+  emerge
+
+  amount
+
+  tourist
+
+  hamster
+
+  dune
+
+  life
+
+  balcony
+
+  deal'
+bip_39_word_new_line11: 'pulse
+
+  moment
+
+  emerge
+
+  amount
+
+  tourist
+
+  hamster
+
+  dune
+
+  life
+
+  balcony
+
+  deal
+
+  allow'
+bip_39_word_new_line12: 'pulse
+
+  moment
+
+  emerge
+
+  amount
+
+  tourist
+
+  hamster
+
+  dune
+
+  life
+
+  balcony
+
+  deal
+
+  allow
+
+  ankle'
+bip_39_word_new_line2: 'pulse
+
+  moment'
+bip_39_word_new_line3: 'pulse
+
+  moment
+
+  emerge'
+bip_39_word_new_line4: 'pulse
+
+  moment
+
+  emerge
+
+  amount'
+bip_39_word_new_line5: 'pulse
+
+  moment
+
+  emerge
+
+  amount
+
+  tourist'
+bip_39_word_new_line6: 'pulse
+
+  moment
+
+  emerge
+
+  amount
+
+  tourist
+
+  hamster'
+bip_39_word_new_line7: 'pulse
+
+  moment
+
+  emerge
+
+  amount
+
+  tourist
+
+  hamster
+
+  dune'
+bip_39_word_new_line8: 'pulse
+
+  moment
+
+  emerge
+
+  amount
+
+  tourist
+
+  hamster
+
+  dune
+
+  life'
+bip_39_word_new_line9: 'pulse
+
+  moment
+
+  emerge
+
+  amount
+
+  tourist
+
+  hamster
+
+  dune
+
+  life
+
+  balcony'
+bip_39_word_space_0:
+- pulse
+- moment
+- emerge
+- amount
+- tourist
+- hamster
+- dune
+- life
+- balcony
+- deal
+- allow
+- ankle
+bip_39_word_space_1: pulse
+bip_39_word_space_10: pulse moment emerge amount tourist hamster dune life balcony
+  deal
+bip_39_word_space_11: pulse moment emerge amount tourist hamster dune life balcony
+  deal allow
+bip_39_word_space_12: pulse moment emerge amount tourist hamster dune life balcony
+  deal allow ankle
+bip_39_word_space_2: pulse moment
+bip_39_word_space_3: pulse moment emerge
+bip_39_word_space_4: pulse moment emerge amount
+bip_39_word_space_5: pulse moment emerge amount tourist
+bip_39_word_space_6: pulse moment emerge amount tourist hamster
+bip_39_word_space_7: pulse moment emerge amount tourist hamster dune
+bip_39_word_space_8: pulse moment emerge amount tourist hamster dune life
+bip_39_word_space_9: pulse moment emerge amount tourist hamster dune life balcony
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

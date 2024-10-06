@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: washer
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: release clerk
+  * bip 39 word 3: release clerk announce
+  * bip 39 word: release clerk announce grab photo claim demand march opinion accident vast adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | release |  
+| bip_39_word_new_br10 | release<br>clerk<br>announce<br>grab<br>photo<br>claim<br>demand<br>march<br>opinion<br>accident |  
+| bip_39_word_new_br11 | release<br>clerk<br>announce<br>grab<br>photo<br>claim<br>demand<br>march<br>opinion<br>accident<br>vast |  
+| bip_39_word_new_br12 | release<br>clerk<br>announce<br>grab<br>photo<br>claim<br>demand<br>march<br>opinion<br>accident<br>vast<br>adjust |  
+| bip_39_word_new_br2 | release<br>clerk |  
+| bip_39_word_new_br3 | release<br>clerk<br>announce |  
+| bip_39_word_new_br4 | release<br>clerk<br>announce<br>grab |  
+| bip_39_word_new_br5 | release<br>clerk<br>announce<br>grab<br>photo |  
+| bip_39_word_new_br6 | release<br>clerk<br>announce<br>grab<br>photo<br>claim |  
+| bip_39_word_new_br7 | release<br>clerk<br>announce<br>grab<br>photo<br>claim<br>demand |  
+| bip_39_word_new_br8 | release<br>clerk<br>announce<br>grab<br>photo<br>claim<br>demand<br>march |  
+| bip_39_word_new_br9 | release<br>clerk<br>announce<br>grab<br>photo<br>claim<br>demand<br>march<br>opinion |  
+| bip_39_word_new_line1 | release |  
+| bip_39_word_new_line10 | release
+clerk
+announce
+grab
+photo
+claim
+demand
+march
+opinion
+accident |  
+| bip_39_word_new_line11 | release
+clerk
+announce
+grab
+photo
+claim
+demand
+march
+opinion
+accident
+vast |  
+| bip_39_word_new_line12 | release
+clerk
+announce
+grab
+photo
+claim
+demand
+march
+opinion
+accident
+vast
+adjust |  
+| bip_39_word_new_line2 | release
+clerk |  
+| bip_39_word_new_line3 | release
+clerk
+announce |  
+| bip_39_word_new_line4 | release
+clerk
+announce
+grab |  
+| bip_39_word_new_line5 | release
+clerk
+announce
+grab
+photo |  
+| bip_39_word_new_line6 | release
+clerk
+announce
+grab
+photo
+claim |  
+| bip_39_word_new_line7 | release
+clerk
+announce
+grab
+photo
+claim
+demand |  
+| bip_39_word_new_line8 | release
+clerk
+announce
+grab
+photo
+claim
+demand
+march |  
+| bip_39_word_new_line9 | release
+clerk
+announce
+grab
+photo
+claim
+demand
+march
+opinion |  
+| bip_39_word_space_0 | ['release', 'clerk', 'announce', 'grab', 'photo', 'claim', 'demand', 'march', 'opinion', 'accident', 'vast', 'adjust'] |  
+| bip_39_word_space_1 | release |  
+| bip_39_word_space_10 | release clerk announce grab photo claim demand march opinion accident |  
+| bip_39_word_space_11 | release clerk announce grab photo claim demand march opinion accident vast |  
+| bip_39_word_space_12 | release clerk announce grab photo claim demand march opinion accident vast adjust |  
+| bip_39_word_space_2 | release clerk |  
+| bip_39_word_space_3 | release clerk announce |  
+| bip_39_word_space_4 | release clerk announce grab |  
+| bip_39_word_space_5 | release clerk announce grab photo |  
+| bip_39_word_space_6 | release clerk announce grab photo claim |  
+| bip_39_word_space_7 | release clerk announce grab photo claim demand |  
+| bip_39_word_space_8 | release clerk announce grab photo claim demand march |  
+| bip_39_word_space_9 | release clerk announce grab photo claim demand march opinion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

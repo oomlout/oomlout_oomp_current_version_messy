@@ -1,3 +1,186 @@
+bip_39_word_new_br1: climb
+bip_39_word_new_br10: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket<br>rain
+bip_39_word_new_br11: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket<br>rain<br>ranch
+bip_39_word_new_br12: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket<br>rain<br>ranch<br>alone
+bip_39_word_new_br2: climb<br>man
+bip_39_word_new_br3: climb<br>man<br>example
+bip_39_word_new_br4: climb<br>man<br>example<br>rail
+bip_39_word_new_br5: climb<br>man<br>example<br>rail<br>web
+bip_39_word_new_br6: climb<br>man<br>example<br>rail<br>web<br>remain
+bip_39_word_new_br7: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear
+bip_39_word_new_br8: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit
+bip_39_word_new_br9: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket
+bip_39_word_new_line1: climb
+bip_39_word_new_line10: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit
+
+  basket
+
+  rain'
+bip_39_word_new_line11: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit
+
+  basket
+
+  rain
+
+  ranch'
+bip_39_word_new_line12: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit
+
+  basket
+
+  rain
+
+  ranch
+
+  alone'
+bip_39_word_new_line2: 'climb
+
+  man'
+bip_39_word_new_line3: 'climb
+
+  man
+
+  example'
+bip_39_word_new_line4: 'climb
+
+  man
+
+  example
+
+  rail'
+bip_39_word_new_line5: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web'
+bip_39_word_new_line6: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain'
+bip_39_word_new_line7: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear'
+bip_39_word_new_line8: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit'
+bip_39_word_new_line9: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit
+
+  basket'
+bip_39_word_space_0:
+- climb
+- man
+- example
+- rail
+- web
+- remain
+- swear
+- deposit
+- basket
+- rain
+- ranch
+- alone
+bip_39_word_space_1: climb
+bip_39_word_space_10: climb man example rail web remain swear deposit basket rain
+bip_39_word_space_11: climb man example rail web remain swear deposit basket rain
+  ranch
+bip_39_word_space_12: climb man example rail web remain swear deposit basket rain
+  ranch alone
+bip_39_word_space_2: climb man
+bip_39_word_space_3: climb man example
+bip_39_word_space_4: climb man example rail
+bip_39_word_space_5: climb man example rail web
+bip_39_word_space_6: climb man example rail web remain
+bip_39_word_space_7: climb man example rail web remain swear
+bip_39_word_space_8: climb man example rail web remain swear deposit
+bip_39_word_space_9: climb man example rail web remain swear deposit basket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

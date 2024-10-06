@@ -1,3 +1,158 @@
+bip_39_word_new_br1: gap
+bip_39_word_new_br10: gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos<br>magnet
+bip_39_word_new_br11: gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos<br>magnet<br>police
+bip_39_word_new_br2: gap<br>aim
+bip_39_word_new_br3: gap<br>aim<br>thumb
+bip_39_word_new_br4: gap<br>aim<br>thumb<br>denial
+bip_39_word_new_br5: gap<br>aim<br>thumb<br>denial<br>hold
+bip_39_word_new_br6: gap<br>aim<br>thumb<br>denial<br>hold<br>fresh
+bip_39_word_new_br7: gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum
+bip_39_word_new_br8: gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong
+bip_39_word_new_br9: gap<br>aim<br>thumb<br>denial<br>hold<br>fresh<br>vacuum<br>wrong<br>chaos
+bip_39_word_new_line1: gap
+bip_39_word_new_line10: 'gap
+
+  aim
+
+  thumb
+
+  denial
+
+  hold
+
+  fresh
+
+  vacuum
+
+  wrong
+
+  chaos
+
+  magnet'
+bip_39_word_new_line11: 'gap
+
+  aim
+
+  thumb
+
+  denial
+
+  hold
+
+  fresh
+
+  vacuum
+
+  wrong
+
+  chaos
+
+  magnet
+
+  police'
+bip_39_word_new_line2: 'gap
+
+  aim'
+bip_39_word_new_line3: 'gap
+
+  aim
+
+  thumb'
+bip_39_word_new_line4: 'gap
+
+  aim
+
+  thumb
+
+  denial'
+bip_39_word_new_line5: 'gap
+
+  aim
+
+  thumb
+
+  denial
+
+  hold'
+bip_39_word_new_line6: 'gap
+
+  aim
+
+  thumb
+
+  denial
+
+  hold
+
+  fresh'
+bip_39_word_new_line7: 'gap
+
+  aim
+
+  thumb
+
+  denial
+
+  hold
+
+  fresh
+
+  vacuum'
+bip_39_word_new_line8: 'gap
+
+  aim
+
+  thumb
+
+  denial
+
+  hold
+
+  fresh
+
+  vacuum
+
+  wrong'
+bip_39_word_new_line9: 'gap
+
+  aim
+
+  thumb
+
+  denial
+
+  hold
+
+  fresh
+
+  vacuum
+
+  wrong
+
+  chaos'
+bip_39_word_space_0:
+- gap
+- aim
+- thumb
+- denial
+- hold
+- fresh
+- vacuum
+- wrong
+- chaos
+- magnet
+- police
+bip_39_word_space_1: gap
+bip_39_word_space_10: gap aim thumb denial hold fresh vacuum wrong chaos magnet
+bip_39_word_space_11: gap aim thumb denial hold fresh vacuum wrong chaos magnet police
+bip_39_word_space_2: gap aim
+bip_39_word_space_3: gap aim thumb
+bip_39_word_space_4: gap aim thumb denial
+bip_39_word_space_5: gap aim thumb denial hold
+bip_39_word_space_6: gap aim thumb denial hold fresh
+bip_39_word_space_7: gap aim thumb denial hold fresh vacuum
+bip_39_word_space_8: gap aim thumb denial hold fresh vacuum wrong
+bip_39_word_space_9: gap aim thumb denial hold fresh vacuum wrong chaos
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

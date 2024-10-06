@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: treat oppose
+  * bip 39 word 3: treat oppose hurdle
+  * bip 39 word: treat oppose hurdle cement rail wise tunnel busy enter home obvious army
 
 ### other_codes
 * short_code: cs3bz25pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | treat |  
+| bip_39_word_new_br10 | treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise<br>tunnel<br>busy<br>enter<br>home |  
+| bip_39_word_new_br11 | treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise<br>tunnel<br>busy<br>enter<br>home<br>obvious |  
+| bip_39_word_new_br12 | treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise<br>tunnel<br>busy<br>enter<br>home<br>obvious<br>army |  
+| bip_39_word_new_br2 | treat<br>oppose |  
+| bip_39_word_new_br3 | treat<br>oppose<br>hurdle |  
+| bip_39_word_new_br4 | treat<br>oppose<br>hurdle<br>cement |  
+| bip_39_word_new_br5 | treat<br>oppose<br>hurdle<br>cement<br>rail |  
+| bip_39_word_new_br6 | treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise |  
+| bip_39_word_new_br7 | treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise<br>tunnel |  
+| bip_39_word_new_br8 | treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise<br>tunnel<br>busy |  
+| bip_39_word_new_br9 | treat<br>oppose<br>hurdle<br>cement<br>rail<br>wise<br>tunnel<br>busy<br>enter |  
+| bip_39_word_new_line1 | treat |  
+| bip_39_word_new_line10 | treat
+oppose
+hurdle
+cement
+rail
+wise
+tunnel
+busy
+enter
+home |  
+| bip_39_word_new_line11 | treat
+oppose
+hurdle
+cement
+rail
+wise
+tunnel
+busy
+enter
+home
+obvious |  
+| bip_39_word_new_line12 | treat
+oppose
+hurdle
+cement
+rail
+wise
+tunnel
+busy
+enter
+home
+obvious
+army |  
+| bip_39_word_new_line2 | treat
+oppose |  
+| bip_39_word_new_line3 | treat
+oppose
+hurdle |  
+| bip_39_word_new_line4 | treat
+oppose
+hurdle
+cement |  
+| bip_39_word_new_line5 | treat
+oppose
+hurdle
+cement
+rail |  
+| bip_39_word_new_line6 | treat
+oppose
+hurdle
+cement
+rail
+wise |  
+| bip_39_word_new_line7 | treat
+oppose
+hurdle
+cement
+rail
+wise
+tunnel |  
+| bip_39_word_new_line8 | treat
+oppose
+hurdle
+cement
+rail
+wise
+tunnel
+busy |  
+| bip_39_word_new_line9 | treat
+oppose
+hurdle
+cement
+rail
+wise
+tunnel
+busy
+enter |  
+| bip_39_word_space_0 | ['treat', 'oppose', 'hurdle', 'cement', 'rail', 'wise', 'tunnel', 'busy', 'enter', 'home', 'obvious', 'army'] |  
+| bip_39_word_space_1 | treat |  
+| bip_39_word_space_10 | treat oppose hurdle cement rail wise tunnel busy enter home |  
+| bip_39_word_space_11 | treat oppose hurdle cement rail wise tunnel busy enter home obvious |  
+| bip_39_word_space_12 | treat oppose hurdle cement rail wise tunnel busy enter home obvious army |  
+| bip_39_word_space_2 | treat oppose |  
+| bip_39_word_space_3 | treat oppose hurdle |  
+| bip_39_word_space_4 | treat oppose hurdle cement |  
+| bip_39_word_space_5 | treat oppose hurdle cement rail |  
+| bip_39_word_space_6 | treat oppose hurdle cement rail wise |  
+| bip_39_word_space_7 | treat oppose hurdle cement rail wise tunnel |  
+| bip_39_word_space_8 | treat oppose hurdle cement rail wise tunnel busy |  
+| bip_39_word_space_9 | treat oppose hurdle cement rail wise tunnel busy enter |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

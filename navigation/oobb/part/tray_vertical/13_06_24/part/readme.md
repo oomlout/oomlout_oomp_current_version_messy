@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: save ability
+  * bip 39 word 3: save ability cheese
+  * bip 39 word: save ability cheese again soul margin recipe fence repeat nominee series alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | save |  
+| bip_39_word_new_br10 | save<br>ability<br>cheese<br>again<br>soul<br>margin<br>recipe<br>fence<br>repeat<br>nominee |  
+| bip_39_word_new_br11 | save<br>ability<br>cheese<br>again<br>soul<br>margin<br>recipe<br>fence<br>repeat<br>nominee<br>series |  
+| bip_39_word_new_br12 | save<br>ability<br>cheese<br>again<br>soul<br>margin<br>recipe<br>fence<br>repeat<br>nominee<br>series<br>alone |  
+| bip_39_word_new_br2 | save<br>ability |  
+| bip_39_word_new_br3 | save<br>ability<br>cheese |  
+| bip_39_word_new_br4 | save<br>ability<br>cheese<br>again |  
+| bip_39_word_new_br5 | save<br>ability<br>cheese<br>again<br>soul |  
+| bip_39_word_new_br6 | save<br>ability<br>cheese<br>again<br>soul<br>margin |  
+| bip_39_word_new_br7 | save<br>ability<br>cheese<br>again<br>soul<br>margin<br>recipe |  
+| bip_39_word_new_br8 | save<br>ability<br>cheese<br>again<br>soul<br>margin<br>recipe<br>fence |  
+| bip_39_word_new_br9 | save<br>ability<br>cheese<br>again<br>soul<br>margin<br>recipe<br>fence<br>repeat |  
+| bip_39_word_new_line1 | save |  
+| bip_39_word_new_line10 | save
+ability
+cheese
+again
+soul
+margin
+recipe
+fence
+repeat
+nominee |  
+| bip_39_word_new_line11 | save
+ability
+cheese
+again
+soul
+margin
+recipe
+fence
+repeat
+nominee
+series |  
+| bip_39_word_new_line12 | save
+ability
+cheese
+again
+soul
+margin
+recipe
+fence
+repeat
+nominee
+series
+alone |  
+| bip_39_word_new_line2 | save
+ability |  
+| bip_39_word_new_line3 | save
+ability
+cheese |  
+| bip_39_word_new_line4 | save
+ability
+cheese
+again |  
+| bip_39_word_new_line5 | save
+ability
+cheese
+again
+soul |  
+| bip_39_word_new_line6 | save
+ability
+cheese
+again
+soul
+margin |  
+| bip_39_word_new_line7 | save
+ability
+cheese
+again
+soul
+margin
+recipe |  
+| bip_39_word_new_line8 | save
+ability
+cheese
+again
+soul
+margin
+recipe
+fence |  
+| bip_39_word_new_line9 | save
+ability
+cheese
+again
+soul
+margin
+recipe
+fence
+repeat |  
+| bip_39_word_space_0 | ['save', 'ability', 'cheese', 'again', 'soul', 'margin', 'recipe', 'fence', 'repeat', 'nominee', 'series', 'alone'] |  
+| bip_39_word_space_1 | save |  
+| bip_39_word_space_10 | save ability cheese again soul margin recipe fence repeat nominee |  
+| bip_39_word_space_11 | save ability cheese again soul margin recipe fence repeat nominee series |  
+| bip_39_word_space_12 | save ability cheese again soul margin recipe fence repeat nominee series alone |  
+| bip_39_word_space_2 | save ability |  
+| bip_39_word_space_3 | save ability cheese |  
+| bip_39_word_space_4 | save ability cheese again |  
+| bip_39_word_space_5 | save ability cheese again soul |  
+| bip_39_word_space_6 | save ability cheese again soul margin |  
+| bip_39_word_space_7 | save ability cheese again soul margin recipe |  
+| bip_39_word_space_8 | save ability cheese again soul margin recipe fence |  
+| bip_39_word_space_9 | save ability cheese again soul margin recipe fence repeat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

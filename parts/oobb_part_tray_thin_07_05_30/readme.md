@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coyote correct
+  * bip 39 word 3: coyote correct almost
+  * bip 39 word: coyote correct almost window total almost tape frog crowd jelly elbow antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coyote |  
+| bip_39_word_new_br10 | coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd<br>jelly |  
+| bip_39_word_new_br11 | coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd<br>jelly<br>elbow |  
+| bip_39_word_new_br12 | coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd<br>jelly<br>elbow<br>antenna |  
+| bip_39_word_new_br2 | coyote<br>correct |  
+| bip_39_word_new_br3 | coyote<br>correct<br>almost |  
+| bip_39_word_new_br4 | coyote<br>correct<br>almost<br>window |  
+| bip_39_word_new_br5 | coyote<br>correct<br>almost<br>window<br>total |  
+| bip_39_word_new_br6 | coyote<br>correct<br>almost<br>window<br>total<br>almost |  
+| bip_39_word_new_br7 | coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape |  
+| bip_39_word_new_br8 | coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog |  
+| bip_39_word_new_br9 | coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd |  
+| bip_39_word_new_line1 | coyote |  
+| bip_39_word_new_line10 | coyote
+correct
+almost
+window
+total
+almost
+tape
+frog
+crowd
+jelly |  
+| bip_39_word_new_line11 | coyote
+correct
+almost
+window
+total
+almost
+tape
+frog
+crowd
+jelly
+elbow |  
+| bip_39_word_new_line12 | coyote
+correct
+almost
+window
+total
+almost
+tape
+frog
+crowd
+jelly
+elbow
+antenna |  
+| bip_39_word_new_line2 | coyote
+correct |  
+| bip_39_word_new_line3 | coyote
+correct
+almost |  
+| bip_39_word_new_line4 | coyote
+correct
+almost
+window |  
+| bip_39_word_new_line5 | coyote
+correct
+almost
+window
+total |  
+| bip_39_word_new_line6 | coyote
+correct
+almost
+window
+total
+almost |  
+| bip_39_word_new_line7 | coyote
+correct
+almost
+window
+total
+almost
+tape |  
+| bip_39_word_new_line8 | coyote
+correct
+almost
+window
+total
+almost
+tape
+frog |  
+| bip_39_word_new_line9 | coyote
+correct
+almost
+window
+total
+almost
+tape
+frog
+crowd |  
+| bip_39_word_space_0 | ['coyote', 'correct', 'almost', 'window', 'total', 'almost', 'tape', 'frog', 'crowd', 'jelly', 'elbow', 'antenna'] |  
+| bip_39_word_space_1 | coyote |  
+| bip_39_word_space_10 | coyote correct almost window total almost tape frog crowd jelly |  
+| bip_39_word_space_11 | coyote correct almost window total almost tape frog crowd jelly elbow |  
+| bip_39_word_space_12 | coyote correct almost window total almost tape frog crowd jelly elbow antenna |  
+| bip_39_word_space_2 | coyote correct |  
+| bip_39_word_space_3 | coyote correct almost |  
+| bip_39_word_space_4 | coyote correct almost window |  
+| bip_39_word_space_5 | coyote correct almost window total |  
+| bip_39_word_space_6 | coyote correct almost window total almost |  
+| bip_39_word_space_7 | coyote correct almost window total almost tape |  
+| bip_39_word_space_8 | coyote correct almost window total almost tape frog |  
+| bip_39_word_space_9 | coyote correct almost window total almost tape frog crowd |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

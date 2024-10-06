@@ -1,3 +1,187 @@
+bip_39_word_new_br1: limb
+bip_39_word_new_br10: limb<br>portion<br>cover<br>vehicle<br>manual<br>daughter<br>oak<br>crack<br>become<br>hen
+bip_39_word_new_br11: limb<br>portion<br>cover<br>vehicle<br>manual<br>daughter<br>oak<br>crack<br>become<br>hen<br>coffee
+bip_39_word_new_br12: limb<br>portion<br>cover<br>vehicle<br>manual<br>daughter<br>oak<br>crack<br>become<br>hen<br>coffee<br>approve
+bip_39_word_new_br2: limb<br>portion
+bip_39_word_new_br3: limb<br>portion<br>cover
+bip_39_word_new_br4: limb<br>portion<br>cover<br>vehicle
+bip_39_word_new_br5: limb<br>portion<br>cover<br>vehicle<br>manual
+bip_39_word_new_br6: limb<br>portion<br>cover<br>vehicle<br>manual<br>daughter
+bip_39_word_new_br7: limb<br>portion<br>cover<br>vehicle<br>manual<br>daughter<br>oak
+bip_39_word_new_br8: limb<br>portion<br>cover<br>vehicle<br>manual<br>daughter<br>oak<br>crack
+bip_39_word_new_br9: limb<br>portion<br>cover<br>vehicle<br>manual<br>daughter<br>oak<br>crack<br>become
+bip_39_word_new_line1: limb
+bip_39_word_new_line10: 'limb
+
+  portion
+
+  cover
+
+  vehicle
+
+  manual
+
+  daughter
+
+  oak
+
+  crack
+
+  become
+
+  hen'
+bip_39_word_new_line11: 'limb
+
+  portion
+
+  cover
+
+  vehicle
+
+  manual
+
+  daughter
+
+  oak
+
+  crack
+
+  become
+
+  hen
+
+  coffee'
+bip_39_word_new_line12: 'limb
+
+  portion
+
+  cover
+
+  vehicle
+
+  manual
+
+  daughter
+
+  oak
+
+  crack
+
+  become
+
+  hen
+
+  coffee
+
+  approve'
+bip_39_word_new_line2: 'limb
+
+  portion'
+bip_39_word_new_line3: 'limb
+
+  portion
+
+  cover'
+bip_39_word_new_line4: 'limb
+
+  portion
+
+  cover
+
+  vehicle'
+bip_39_word_new_line5: 'limb
+
+  portion
+
+  cover
+
+  vehicle
+
+  manual'
+bip_39_word_new_line6: 'limb
+
+  portion
+
+  cover
+
+  vehicle
+
+  manual
+
+  daughter'
+bip_39_word_new_line7: 'limb
+
+  portion
+
+  cover
+
+  vehicle
+
+  manual
+
+  daughter
+
+  oak'
+bip_39_word_new_line8: 'limb
+
+  portion
+
+  cover
+
+  vehicle
+
+  manual
+
+  daughter
+
+  oak
+
+  crack'
+bip_39_word_new_line9: 'limb
+
+  portion
+
+  cover
+
+  vehicle
+
+  manual
+
+  daughter
+
+  oak
+
+  crack
+
+  become'
+bip_39_word_space_0:
+- limb
+- portion
+- cover
+- vehicle
+- manual
+- daughter
+- oak
+- crack
+- become
+- hen
+- coffee
+- approve
+bip_39_word_space_1: limb
+bip_39_word_space_10: limb portion cover vehicle manual daughter oak crack become
+  hen
+bip_39_word_space_11: limb portion cover vehicle manual daughter oak crack become
+  hen coffee
+bip_39_word_space_12: limb portion cover vehicle manual daughter oak crack become
+  hen coffee approve
+bip_39_word_space_2: limb portion
+bip_39_word_space_3: limb portion cover
+bip_39_word_space_4: limb portion cover vehicle
+bip_39_word_space_5: limb portion cover vehicle manual
+bip_39_word_space_6: limb portion cover vehicle manual daughter
+bip_39_word_space_7: limb portion cover vehicle manual daughter oak
+bip_39_word_space_8: limb portion cover vehicle manual daughter oak crack
+bip_39_word_space_9: limb portion cover vehicle manual daughter oak crack become
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

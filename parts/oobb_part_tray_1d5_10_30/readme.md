@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: supreme amused
+  * bip 39 word 3: supreme amused race
+  * bip 39 word: supreme amused race lava live lumber sort praise lunch budget enemy attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | supreme |  
+| bip_39_word_new_br10 | supreme<br>amused<br>race<br>lava<br>live<br>lumber<br>sort<br>praise<br>lunch<br>budget |  
+| bip_39_word_new_br11 | supreme<br>amused<br>race<br>lava<br>live<br>lumber<br>sort<br>praise<br>lunch<br>budget<br>enemy |  
+| bip_39_word_new_br12 | supreme<br>amused<br>race<br>lava<br>live<br>lumber<br>sort<br>praise<br>lunch<br>budget<br>enemy<br>attract |  
+| bip_39_word_new_br2 | supreme<br>amused |  
+| bip_39_word_new_br3 | supreme<br>amused<br>race |  
+| bip_39_word_new_br4 | supreme<br>amused<br>race<br>lava |  
+| bip_39_word_new_br5 | supreme<br>amused<br>race<br>lava<br>live |  
+| bip_39_word_new_br6 | supreme<br>amused<br>race<br>lava<br>live<br>lumber |  
+| bip_39_word_new_br7 | supreme<br>amused<br>race<br>lava<br>live<br>lumber<br>sort |  
+| bip_39_word_new_br8 | supreme<br>amused<br>race<br>lava<br>live<br>lumber<br>sort<br>praise |  
+| bip_39_word_new_br9 | supreme<br>amused<br>race<br>lava<br>live<br>lumber<br>sort<br>praise<br>lunch |  
+| bip_39_word_new_line1 | supreme |  
+| bip_39_word_new_line10 | supreme
+amused
+race
+lava
+live
+lumber
+sort
+praise
+lunch
+budget |  
+| bip_39_word_new_line11 | supreme
+amused
+race
+lava
+live
+lumber
+sort
+praise
+lunch
+budget
+enemy |  
+| bip_39_word_new_line12 | supreme
+amused
+race
+lava
+live
+lumber
+sort
+praise
+lunch
+budget
+enemy
+attract |  
+| bip_39_word_new_line2 | supreme
+amused |  
+| bip_39_word_new_line3 | supreme
+amused
+race |  
+| bip_39_word_new_line4 | supreme
+amused
+race
+lava |  
+| bip_39_word_new_line5 | supreme
+amused
+race
+lava
+live |  
+| bip_39_word_new_line6 | supreme
+amused
+race
+lava
+live
+lumber |  
+| bip_39_word_new_line7 | supreme
+amused
+race
+lava
+live
+lumber
+sort |  
+| bip_39_word_new_line8 | supreme
+amused
+race
+lava
+live
+lumber
+sort
+praise |  
+| bip_39_word_new_line9 | supreme
+amused
+race
+lava
+live
+lumber
+sort
+praise
+lunch |  
+| bip_39_word_space_0 | ['supreme', 'amused', 'race', 'lava', 'live', 'lumber', 'sort', 'praise', 'lunch', 'budget', 'enemy', 'attract'] |  
+| bip_39_word_space_1 | supreme |  
+| bip_39_word_space_10 | supreme amused race lava live lumber sort praise lunch budget |  
+| bip_39_word_space_11 | supreme amused race lava live lumber sort praise lunch budget enemy |  
+| bip_39_word_space_12 | supreme amused race lava live lumber sort praise lunch budget enemy attract |  
+| bip_39_word_space_2 | supreme amused |  
+| bip_39_word_space_3 | supreme amused race |  
+| bip_39_word_space_4 | supreme amused race lava |  
+| bip_39_word_space_5 | supreme amused race lava live |  
+| bip_39_word_space_6 | supreme amused race lava live lumber |  
+| bip_39_word_space_7 | supreme amused race lava live lumber sort |  
+| bip_39_word_space_8 | supreme amused race lava live lumber sort praise |  
+| bip_39_word_space_9 | supreme amused race lava live lumber sort praise lunch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

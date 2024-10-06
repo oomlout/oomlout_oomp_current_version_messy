@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ignore
+bip_39_word_new_br10: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla
+bip_39_word_new_br11: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla<br>inject
+bip_39_word_new_br12: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce<br>gorilla<br>inject<br>angry
+bip_39_word_new_br2: ignore<br>slogan
+bip_39_word_new_br3: ignore<br>slogan<br>soup
+bip_39_word_new_br4: ignore<br>slogan<br>soup<br>cattle
+bip_39_word_new_br5: ignore<br>slogan<br>soup<br>cattle<br>damage
+bip_39_word_new_br6: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip
+bip_39_word_new_br7: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog
+bip_39_word_new_br8: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket
+bip_39_word_new_br9: ignore<br>slogan<br>soup<br>cattle<br>damage<br>flip<br>clog<br>jacket<br>divorce
+bip_39_word_new_line1: ignore
+bip_39_word_new_line10: 'ignore
+
+  slogan
+
+  soup
+
+  cattle
+
+  damage
+
+  flip
+
+  clog
+
+  jacket
+
+  divorce
+
+  gorilla'
+bip_39_word_new_line11: 'ignore
+
+  slogan
+
+  soup
+
+  cattle
+
+  damage
+
+  flip
+
+  clog
+
+  jacket
+
+  divorce
+
+  gorilla
+
+  inject'
+bip_39_word_new_line12: 'ignore
+
+  slogan
+
+  soup
+
+  cattle
+
+  damage
+
+  flip
+
+  clog
+
+  jacket
+
+  divorce
+
+  gorilla
+
+  inject
+
+  angry'
+bip_39_word_new_line2: 'ignore
+
+  slogan'
+bip_39_word_new_line3: 'ignore
+
+  slogan
+
+  soup'
+bip_39_word_new_line4: 'ignore
+
+  slogan
+
+  soup
+
+  cattle'
+bip_39_word_new_line5: 'ignore
+
+  slogan
+
+  soup
+
+  cattle
+
+  damage'
+bip_39_word_new_line6: 'ignore
+
+  slogan
+
+  soup
+
+  cattle
+
+  damage
+
+  flip'
+bip_39_word_new_line7: 'ignore
+
+  slogan
+
+  soup
+
+  cattle
+
+  damage
+
+  flip
+
+  clog'
+bip_39_word_new_line8: 'ignore
+
+  slogan
+
+  soup
+
+  cattle
+
+  damage
+
+  flip
+
+  clog
+
+  jacket'
+bip_39_word_new_line9: 'ignore
+
+  slogan
+
+  soup
+
+  cattle
+
+  damage
+
+  flip
+
+  clog
+
+  jacket
+
+  divorce'
+bip_39_word_space_0:
+- ignore
+- slogan
+- soup
+- cattle
+- damage
+- flip
+- clog
+- jacket
+- divorce
+- gorilla
+- inject
+- angry
+bip_39_word_space_1: ignore
+bip_39_word_space_10: ignore slogan soup cattle damage flip clog jacket divorce gorilla
+bip_39_word_space_11: ignore slogan soup cattle damage flip clog jacket divorce gorilla
+  inject
+bip_39_word_space_12: ignore slogan soup cattle damage flip clog jacket divorce gorilla
+  inject angry
+bip_39_word_space_2: ignore slogan
+bip_39_word_space_3: ignore slogan soup
+bip_39_word_space_4: ignore slogan soup cattle
+bip_39_word_space_5: ignore slogan soup cattle damage
+bip_39_word_space_6: ignore slogan soup cattle damage flip
+bip_39_word_space_7: ignore slogan soup cattle damage flip clog
+bip_39_word_space_8: ignore slogan soup cattle damage flip clog jacket
+bip_39_word_space_9: ignore slogan soup cattle damage flip clog jacket divorce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

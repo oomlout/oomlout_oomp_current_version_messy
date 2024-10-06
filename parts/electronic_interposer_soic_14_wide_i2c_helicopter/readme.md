@@ -18,6 +18,9 @@ An interposer between an i2c chip and a soic_14_wide package, The pins are numbe
   * description_extra: helicopter
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: strong seminar
+  * bip 39 word 3: strong seminar peasant
+  * bip 39 word: strong seminar peasant planet afraid eager solve dish debris piece pencil all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ An interposer between an i2c chip and a soic_14_wide package, The pins are numbe
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | strong |  
+| bip_39_word_new_br10 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve<br>dish<br>debris<br>piece |  
+| bip_39_word_new_br11 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve<br>dish<br>debris<br>piece<br>pencil |  
+| bip_39_word_new_br12 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve<br>dish<br>debris<br>piece<br>pencil<br>all |  
+| bip_39_word_new_br2 | strong<br>seminar |  
+| bip_39_word_new_br3 | strong<br>seminar<br>peasant |  
+| bip_39_word_new_br4 | strong<br>seminar<br>peasant<br>planet |  
+| bip_39_word_new_br5 | strong<br>seminar<br>peasant<br>planet<br>afraid |  
+| bip_39_word_new_br6 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager |  
+| bip_39_word_new_br7 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve |  
+| bip_39_word_new_br8 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve<br>dish |  
+| bip_39_word_new_br9 | strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve<br>dish<br>debris |  
+| bip_39_word_new_line1 | strong |  
+| bip_39_word_new_line10 | strong
+seminar
+peasant
+planet
+afraid
+eager
+solve
+dish
+debris
+piece |  
+| bip_39_word_new_line11 | strong
+seminar
+peasant
+planet
+afraid
+eager
+solve
+dish
+debris
+piece
+pencil |  
+| bip_39_word_new_line12 | strong
+seminar
+peasant
+planet
+afraid
+eager
+solve
+dish
+debris
+piece
+pencil
+all |  
+| bip_39_word_new_line2 | strong
+seminar |  
+| bip_39_word_new_line3 | strong
+seminar
+peasant |  
+| bip_39_word_new_line4 | strong
+seminar
+peasant
+planet |  
+| bip_39_word_new_line5 | strong
+seminar
+peasant
+planet
+afraid |  
+| bip_39_word_new_line6 | strong
+seminar
+peasant
+planet
+afraid
+eager |  
+| bip_39_word_new_line7 | strong
+seminar
+peasant
+planet
+afraid
+eager
+solve |  
+| bip_39_word_new_line8 | strong
+seminar
+peasant
+planet
+afraid
+eager
+solve
+dish |  
+| bip_39_word_new_line9 | strong
+seminar
+peasant
+planet
+afraid
+eager
+solve
+dish
+debris |  
+| bip_39_word_space_0 | ['strong', 'seminar', 'peasant', 'planet', 'afraid', 'eager', 'solve', 'dish', 'debris', 'piece', 'pencil', 'all'] |  
+| bip_39_word_space_1 | strong |  
+| bip_39_word_space_10 | strong seminar peasant planet afraid eager solve dish debris piece |  
+| bip_39_word_space_11 | strong seminar peasant planet afraid eager solve dish debris piece pencil |  
+| bip_39_word_space_12 | strong seminar peasant planet afraid eager solve dish debris piece pencil all |  
+| bip_39_word_space_2 | strong seminar |  
+| bip_39_word_space_3 | strong seminar peasant |  
+| bip_39_word_space_4 | strong seminar peasant planet |  
+| bip_39_word_space_5 | strong seminar peasant planet afraid |  
+| bip_39_word_space_6 | strong seminar peasant planet afraid eager |  
+| bip_39_word_space_7 | strong seminar peasant planet afraid eager solve |  
+| bip_39_word_space_8 | strong seminar peasant planet afraid eager solve dish |  
+| bip_39_word_space_9 | strong seminar peasant planet afraid eager solve dish debris |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

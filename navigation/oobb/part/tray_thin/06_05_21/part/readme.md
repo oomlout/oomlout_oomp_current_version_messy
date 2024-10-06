@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lecture system
+  * bip 39 word 3: lecture system neither
+  * bip 39 word: lecture system neither company group crack outer crane pole spoil gap alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lecture |  
+| bip_39_word_new_br10 | lecture<br>system<br>neither<br>company<br>group<br>crack<br>outer<br>crane<br>pole<br>spoil |  
+| bip_39_word_new_br11 | lecture<br>system<br>neither<br>company<br>group<br>crack<br>outer<br>crane<br>pole<br>spoil<br>gap |  
+| bip_39_word_new_br12 | lecture<br>system<br>neither<br>company<br>group<br>crack<br>outer<br>crane<br>pole<br>spoil<br>gap<br>alcohol |  
+| bip_39_word_new_br2 | lecture<br>system |  
+| bip_39_word_new_br3 | lecture<br>system<br>neither |  
+| bip_39_word_new_br4 | lecture<br>system<br>neither<br>company |  
+| bip_39_word_new_br5 | lecture<br>system<br>neither<br>company<br>group |  
+| bip_39_word_new_br6 | lecture<br>system<br>neither<br>company<br>group<br>crack |  
+| bip_39_word_new_br7 | lecture<br>system<br>neither<br>company<br>group<br>crack<br>outer |  
+| bip_39_word_new_br8 | lecture<br>system<br>neither<br>company<br>group<br>crack<br>outer<br>crane |  
+| bip_39_word_new_br9 | lecture<br>system<br>neither<br>company<br>group<br>crack<br>outer<br>crane<br>pole |  
+| bip_39_word_new_line1 | lecture |  
+| bip_39_word_new_line10 | lecture
+system
+neither
+company
+group
+crack
+outer
+crane
+pole
+spoil |  
+| bip_39_word_new_line11 | lecture
+system
+neither
+company
+group
+crack
+outer
+crane
+pole
+spoil
+gap |  
+| bip_39_word_new_line12 | lecture
+system
+neither
+company
+group
+crack
+outer
+crane
+pole
+spoil
+gap
+alcohol |  
+| bip_39_word_new_line2 | lecture
+system |  
+| bip_39_word_new_line3 | lecture
+system
+neither |  
+| bip_39_word_new_line4 | lecture
+system
+neither
+company |  
+| bip_39_word_new_line5 | lecture
+system
+neither
+company
+group |  
+| bip_39_word_new_line6 | lecture
+system
+neither
+company
+group
+crack |  
+| bip_39_word_new_line7 | lecture
+system
+neither
+company
+group
+crack
+outer |  
+| bip_39_word_new_line8 | lecture
+system
+neither
+company
+group
+crack
+outer
+crane |  
+| bip_39_word_new_line9 | lecture
+system
+neither
+company
+group
+crack
+outer
+crane
+pole |  
+| bip_39_word_space_0 | ['lecture', 'system', 'neither', 'company', 'group', 'crack', 'outer', 'crane', 'pole', 'spoil', 'gap', 'alcohol'] |  
+| bip_39_word_space_1 | lecture |  
+| bip_39_word_space_10 | lecture system neither company group crack outer crane pole spoil |  
+| bip_39_word_space_11 | lecture system neither company group crack outer crane pole spoil gap |  
+| bip_39_word_space_12 | lecture system neither company group crack outer crane pole spoil gap alcohol |  
+| bip_39_word_space_2 | lecture system |  
+| bip_39_word_space_3 | lecture system neither |  
+| bip_39_word_space_4 | lecture system neither company |  
+| bip_39_word_space_5 | lecture system neither company group |  
+| bip_39_word_space_6 | lecture system neither company group crack |  
+| bip_39_word_space_7 | lecture system neither company group crack outer |  
+| bip_39_word_space_8 | lecture system neither company group crack outer crane |  
+| bip_39_word_space_9 | lecture system neither company group crack outer crane pole |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

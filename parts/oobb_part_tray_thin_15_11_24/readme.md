@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: length silk
+  * bip 39 word 3: length silk dolphin
+  * bip 39 word: length silk dolphin violin twelve load icon dress accuse thumb asthma artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | length |  
+| bip_39_word_new_br10 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load<br>icon<br>dress<br>accuse<br>thumb |  
+| bip_39_word_new_br11 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load<br>icon<br>dress<br>accuse<br>thumb<br>asthma |  
+| bip_39_word_new_br12 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load<br>icon<br>dress<br>accuse<br>thumb<br>asthma<br>artwork |  
+| bip_39_word_new_br2 | length<br>silk |  
+| bip_39_word_new_br3 | length<br>silk<br>dolphin |  
+| bip_39_word_new_br4 | length<br>silk<br>dolphin<br>violin |  
+| bip_39_word_new_br5 | length<br>silk<br>dolphin<br>violin<br>twelve |  
+| bip_39_word_new_br6 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load |  
+| bip_39_word_new_br7 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load<br>icon |  
+| bip_39_word_new_br8 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load<br>icon<br>dress |  
+| bip_39_word_new_br9 | length<br>silk<br>dolphin<br>violin<br>twelve<br>load<br>icon<br>dress<br>accuse |  
+| bip_39_word_new_line1 | length |  
+| bip_39_word_new_line10 | length
+silk
+dolphin
+violin
+twelve
+load
+icon
+dress
+accuse
+thumb |  
+| bip_39_word_new_line11 | length
+silk
+dolphin
+violin
+twelve
+load
+icon
+dress
+accuse
+thumb
+asthma |  
+| bip_39_word_new_line12 | length
+silk
+dolphin
+violin
+twelve
+load
+icon
+dress
+accuse
+thumb
+asthma
+artwork |  
+| bip_39_word_new_line2 | length
+silk |  
+| bip_39_word_new_line3 | length
+silk
+dolphin |  
+| bip_39_word_new_line4 | length
+silk
+dolphin
+violin |  
+| bip_39_word_new_line5 | length
+silk
+dolphin
+violin
+twelve |  
+| bip_39_word_new_line6 | length
+silk
+dolphin
+violin
+twelve
+load |  
+| bip_39_word_new_line7 | length
+silk
+dolphin
+violin
+twelve
+load
+icon |  
+| bip_39_word_new_line8 | length
+silk
+dolphin
+violin
+twelve
+load
+icon
+dress |  
+| bip_39_word_new_line9 | length
+silk
+dolphin
+violin
+twelve
+load
+icon
+dress
+accuse |  
+| bip_39_word_space_0 | ['length', 'silk', 'dolphin', 'violin', 'twelve', 'load', 'icon', 'dress', 'accuse', 'thumb', 'asthma', 'artwork'] |  
+| bip_39_word_space_1 | length |  
+| bip_39_word_space_10 | length silk dolphin violin twelve load icon dress accuse thumb |  
+| bip_39_word_space_11 | length silk dolphin violin twelve load icon dress accuse thumb asthma |  
+| bip_39_word_space_12 | length silk dolphin violin twelve load icon dress accuse thumb asthma artwork |  
+| bip_39_word_space_2 | length silk |  
+| bip_39_word_space_3 | length silk dolphin |  
+| bip_39_word_space_4 | length silk dolphin violin |  
+| bip_39_word_space_5 | length silk dolphin violin twelve |  
+| bip_39_word_space_6 | length silk dolphin violin twelve load |  
+| bip_39_word_space_7 | length silk dolphin violin twelve load icon |  
+| bip_39_word_space_8 | length silk dolphin violin twelve load icon dress |  
+| bip_39_word_space_9 | length silk dolphin violin twelve load icon dress accuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

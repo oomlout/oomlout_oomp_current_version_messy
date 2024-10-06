@@ -1,3 +1,187 @@
+bip_39_word_new_br1: sing
+bip_39_word_new_br10: sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd<br>bachelor<br>ketchup<br>antique<br>fashion
+bip_39_word_new_br11: sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd<br>bachelor<br>ketchup<br>antique<br>fashion<br>expire
+bip_39_word_new_br12: sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd<br>bachelor<br>ketchup<br>antique<br>fashion<br>expire<br>aim
+bip_39_word_new_br2: sing<br>banana
+bip_39_word_new_br3: sing<br>banana<br>uncover
+bip_39_word_new_br4: sing<br>banana<br>uncover<br>favorite
+bip_39_word_new_br5: sing<br>banana<br>uncover<br>favorite<br>humble
+bip_39_word_new_br6: sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd
+bip_39_word_new_br7: sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd<br>bachelor
+bip_39_word_new_br8: sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd<br>bachelor<br>ketchup
+bip_39_word_new_br9: sing<br>banana<br>uncover<br>favorite<br>humble<br>crowd<br>bachelor<br>ketchup<br>antique
+bip_39_word_new_line1: sing
+bip_39_word_new_line10: 'sing
+
+  banana
+
+  uncover
+
+  favorite
+
+  humble
+
+  crowd
+
+  bachelor
+
+  ketchup
+
+  antique
+
+  fashion'
+bip_39_word_new_line11: 'sing
+
+  banana
+
+  uncover
+
+  favorite
+
+  humble
+
+  crowd
+
+  bachelor
+
+  ketchup
+
+  antique
+
+  fashion
+
+  expire'
+bip_39_word_new_line12: 'sing
+
+  banana
+
+  uncover
+
+  favorite
+
+  humble
+
+  crowd
+
+  bachelor
+
+  ketchup
+
+  antique
+
+  fashion
+
+  expire
+
+  aim'
+bip_39_word_new_line2: 'sing
+
+  banana'
+bip_39_word_new_line3: 'sing
+
+  banana
+
+  uncover'
+bip_39_word_new_line4: 'sing
+
+  banana
+
+  uncover
+
+  favorite'
+bip_39_word_new_line5: 'sing
+
+  banana
+
+  uncover
+
+  favorite
+
+  humble'
+bip_39_word_new_line6: 'sing
+
+  banana
+
+  uncover
+
+  favorite
+
+  humble
+
+  crowd'
+bip_39_word_new_line7: 'sing
+
+  banana
+
+  uncover
+
+  favorite
+
+  humble
+
+  crowd
+
+  bachelor'
+bip_39_word_new_line8: 'sing
+
+  banana
+
+  uncover
+
+  favorite
+
+  humble
+
+  crowd
+
+  bachelor
+
+  ketchup'
+bip_39_word_new_line9: 'sing
+
+  banana
+
+  uncover
+
+  favorite
+
+  humble
+
+  crowd
+
+  bachelor
+
+  ketchup
+
+  antique'
+bip_39_word_space_0:
+- sing
+- banana
+- uncover
+- favorite
+- humble
+- crowd
+- bachelor
+- ketchup
+- antique
+- fashion
+- expire
+- aim
+bip_39_word_space_1: sing
+bip_39_word_space_10: sing banana uncover favorite humble crowd bachelor ketchup antique
+  fashion
+bip_39_word_space_11: sing banana uncover favorite humble crowd bachelor ketchup antique
+  fashion expire
+bip_39_word_space_12: sing banana uncover favorite humble crowd bachelor ketchup antique
+  fashion expire aim
+bip_39_word_space_2: sing banana
+bip_39_word_space_3: sing banana uncover
+bip_39_word_space_4: sing banana uncover favorite
+bip_39_word_space_5: sing banana uncover favorite humble
+bip_39_word_space_6: sing banana uncover favorite humble crowd
+bip_39_word_space_7: sing banana uncover favorite humble crowd bachelor
+bip_39_word_space_8: sing banana uncover favorite humble crowd bachelor ketchup
+bip_39_word_space_9: sing banana uncover favorite humble crowd bachelor ketchup antique
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

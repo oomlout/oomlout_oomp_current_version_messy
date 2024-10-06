@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grid left
+  * bip 39 word 3: grid left depth
+  * bip 39 word: grid left depth post again blouse vacuum purity width unaware issue ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grid |  
+| bip_39_word_new_br10 | grid<br>left<br>depth<br>post<br>again<br>blouse<br>vacuum<br>purity<br>width<br>unaware |  
+| bip_39_word_new_br11 | grid<br>left<br>depth<br>post<br>again<br>blouse<br>vacuum<br>purity<br>width<br>unaware<br>issue |  
+| bip_39_word_new_br12 | grid<br>left<br>depth<br>post<br>again<br>blouse<br>vacuum<br>purity<br>width<br>unaware<br>issue<br>ability |  
+| bip_39_word_new_br2 | grid<br>left |  
+| bip_39_word_new_br3 | grid<br>left<br>depth |  
+| bip_39_word_new_br4 | grid<br>left<br>depth<br>post |  
+| bip_39_word_new_br5 | grid<br>left<br>depth<br>post<br>again |  
+| bip_39_word_new_br6 | grid<br>left<br>depth<br>post<br>again<br>blouse |  
+| bip_39_word_new_br7 | grid<br>left<br>depth<br>post<br>again<br>blouse<br>vacuum |  
+| bip_39_word_new_br8 | grid<br>left<br>depth<br>post<br>again<br>blouse<br>vacuum<br>purity |  
+| bip_39_word_new_br9 | grid<br>left<br>depth<br>post<br>again<br>blouse<br>vacuum<br>purity<br>width |  
+| bip_39_word_new_line1 | grid |  
+| bip_39_word_new_line10 | grid
+left
+depth
+post
+again
+blouse
+vacuum
+purity
+width
+unaware |  
+| bip_39_word_new_line11 | grid
+left
+depth
+post
+again
+blouse
+vacuum
+purity
+width
+unaware
+issue |  
+| bip_39_word_new_line12 | grid
+left
+depth
+post
+again
+blouse
+vacuum
+purity
+width
+unaware
+issue
+ability |  
+| bip_39_word_new_line2 | grid
+left |  
+| bip_39_word_new_line3 | grid
+left
+depth |  
+| bip_39_word_new_line4 | grid
+left
+depth
+post |  
+| bip_39_word_new_line5 | grid
+left
+depth
+post
+again |  
+| bip_39_word_new_line6 | grid
+left
+depth
+post
+again
+blouse |  
+| bip_39_word_new_line7 | grid
+left
+depth
+post
+again
+blouse
+vacuum |  
+| bip_39_word_new_line8 | grid
+left
+depth
+post
+again
+blouse
+vacuum
+purity |  
+| bip_39_word_new_line9 | grid
+left
+depth
+post
+again
+blouse
+vacuum
+purity
+width |  
+| bip_39_word_space_0 | ['grid', 'left', 'depth', 'post', 'again', 'blouse', 'vacuum', 'purity', 'width', 'unaware', 'issue', 'ability'] |  
+| bip_39_word_space_1 | grid |  
+| bip_39_word_space_10 | grid left depth post again blouse vacuum purity width unaware |  
+| bip_39_word_space_11 | grid left depth post again blouse vacuum purity width unaware issue |  
+| bip_39_word_space_12 | grid left depth post again blouse vacuum purity width unaware issue ability |  
+| bip_39_word_space_2 | grid left |  
+| bip_39_word_space_3 | grid left depth |  
+| bip_39_word_space_4 | grid left depth post |  
+| bip_39_word_space_5 | grid left depth post again |  
+| bip_39_word_space_6 | grid left depth post again blouse |  
+| bip_39_word_space_7 | grid left depth post again blouse vacuum |  
+| bip_39_word_space_8 | grid left depth post again blouse vacuum purity |  
+| bip_39_word_space_9 | grid left depth post again blouse vacuum purity width |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

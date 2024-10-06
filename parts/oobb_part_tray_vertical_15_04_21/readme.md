@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gap correct
+  * bip 39 word 3: gap correct toy
+  * bip 39 word: gap correct toy bag island place grape seminar eagle delay obvious above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gap |  
+| bip_39_word_new_br10 | gap<br>correct<br>toy<br>bag<br>island<br>place<br>grape<br>seminar<br>eagle<br>delay |  
+| bip_39_word_new_br11 | gap<br>correct<br>toy<br>bag<br>island<br>place<br>grape<br>seminar<br>eagle<br>delay<br>obvious |  
+| bip_39_word_new_br12 | gap<br>correct<br>toy<br>bag<br>island<br>place<br>grape<br>seminar<br>eagle<br>delay<br>obvious<br>above |  
+| bip_39_word_new_br2 | gap<br>correct |  
+| bip_39_word_new_br3 | gap<br>correct<br>toy |  
+| bip_39_word_new_br4 | gap<br>correct<br>toy<br>bag |  
+| bip_39_word_new_br5 | gap<br>correct<br>toy<br>bag<br>island |  
+| bip_39_word_new_br6 | gap<br>correct<br>toy<br>bag<br>island<br>place |  
+| bip_39_word_new_br7 | gap<br>correct<br>toy<br>bag<br>island<br>place<br>grape |  
+| bip_39_word_new_br8 | gap<br>correct<br>toy<br>bag<br>island<br>place<br>grape<br>seminar |  
+| bip_39_word_new_br9 | gap<br>correct<br>toy<br>bag<br>island<br>place<br>grape<br>seminar<br>eagle |  
+| bip_39_word_new_line1 | gap |  
+| bip_39_word_new_line10 | gap
+correct
+toy
+bag
+island
+place
+grape
+seminar
+eagle
+delay |  
+| bip_39_word_new_line11 | gap
+correct
+toy
+bag
+island
+place
+grape
+seminar
+eagle
+delay
+obvious |  
+| bip_39_word_new_line12 | gap
+correct
+toy
+bag
+island
+place
+grape
+seminar
+eagle
+delay
+obvious
+above |  
+| bip_39_word_new_line2 | gap
+correct |  
+| bip_39_word_new_line3 | gap
+correct
+toy |  
+| bip_39_word_new_line4 | gap
+correct
+toy
+bag |  
+| bip_39_word_new_line5 | gap
+correct
+toy
+bag
+island |  
+| bip_39_word_new_line6 | gap
+correct
+toy
+bag
+island
+place |  
+| bip_39_word_new_line7 | gap
+correct
+toy
+bag
+island
+place
+grape |  
+| bip_39_word_new_line8 | gap
+correct
+toy
+bag
+island
+place
+grape
+seminar |  
+| bip_39_word_new_line9 | gap
+correct
+toy
+bag
+island
+place
+grape
+seminar
+eagle |  
+| bip_39_word_space_0 | ['gap', 'correct', 'toy', 'bag', 'island', 'place', 'grape', 'seminar', 'eagle', 'delay', 'obvious', 'above'] |  
+| bip_39_word_space_1 | gap |  
+| bip_39_word_space_10 | gap correct toy bag island place grape seminar eagle delay |  
+| bip_39_word_space_11 | gap correct toy bag island place grape seminar eagle delay obvious |  
+| bip_39_word_space_12 | gap correct toy bag island place grape seminar eagle delay obvious above |  
+| bip_39_word_space_2 | gap correct |  
+| bip_39_word_space_3 | gap correct toy |  
+| bip_39_word_space_4 | gap correct toy bag |  
+| bip_39_word_space_5 | gap correct toy bag island |  
+| bip_39_word_space_6 | gap correct toy bag island place |  
+| bip_39_word_space_7 | gap correct toy bag island place grape |  
+| bip_39_word_space_8 | gap correct toy bag island place grape seminar |  
+| bip_39_word_space_9 | gap correct toy bag island place grape seminar eagle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

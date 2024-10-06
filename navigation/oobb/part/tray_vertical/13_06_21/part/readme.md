@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cram burger
+  * bip 39 word 3: cram burger rotate
+  * bip 39 word: cram burger rotate tank forest add inner damp control venture jaguar access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cram |  
+| bip_39_word_new_br10 | cram<br>burger<br>rotate<br>tank<br>forest<br>add<br>inner<br>damp<br>control<br>venture |  
+| bip_39_word_new_br11 | cram<br>burger<br>rotate<br>tank<br>forest<br>add<br>inner<br>damp<br>control<br>venture<br>jaguar |  
+| bip_39_word_new_br12 | cram<br>burger<br>rotate<br>tank<br>forest<br>add<br>inner<br>damp<br>control<br>venture<br>jaguar<br>access |  
+| bip_39_word_new_br2 | cram<br>burger |  
+| bip_39_word_new_br3 | cram<br>burger<br>rotate |  
+| bip_39_word_new_br4 | cram<br>burger<br>rotate<br>tank |  
+| bip_39_word_new_br5 | cram<br>burger<br>rotate<br>tank<br>forest |  
+| bip_39_word_new_br6 | cram<br>burger<br>rotate<br>tank<br>forest<br>add |  
+| bip_39_word_new_br7 | cram<br>burger<br>rotate<br>tank<br>forest<br>add<br>inner |  
+| bip_39_word_new_br8 | cram<br>burger<br>rotate<br>tank<br>forest<br>add<br>inner<br>damp |  
+| bip_39_word_new_br9 | cram<br>burger<br>rotate<br>tank<br>forest<br>add<br>inner<br>damp<br>control |  
+| bip_39_word_new_line1 | cram |  
+| bip_39_word_new_line10 | cram
+burger
+rotate
+tank
+forest
+add
+inner
+damp
+control
+venture |  
+| bip_39_word_new_line11 | cram
+burger
+rotate
+tank
+forest
+add
+inner
+damp
+control
+venture
+jaguar |  
+| bip_39_word_new_line12 | cram
+burger
+rotate
+tank
+forest
+add
+inner
+damp
+control
+venture
+jaguar
+access |  
+| bip_39_word_new_line2 | cram
+burger |  
+| bip_39_word_new_line3 | cram
+burger
+rotate |  
+| bip_39_word_new_line4 | cram
+burger
+rotate
+tank |  
+| bip_39_word_new_line5 | cram
+burger
+rotate
+tank
+forest |  
+| bip_39_word_new_line6 | cram
+burger
+rotate
+tank
+forest
+add |  
+| bip_39_word_new_line7 | cram
+burger
+rotate
+tank
+forest
+add
+inner |  
+| bip_39_word_new_line8 | cram
+burger
+rotate
+tank
+forest
+add
+inner
+damp |  
+| bip_39_word_new_line9 | cram
+burger
+rotate
+tank
+forest
+add
+inner
+damp
+control |  
+| bip_39_word_space_0 | ['cram', 'burger', 'rotate', 'tank', 'forest', 'add', 'inner', 'damp', 'control', 'venture', 'jaguar', 'access'] |  
+| bip_39_word_space_1 | cram |  
+| bip_39_word_space_10 | cram burger rotate tank forest add inner damp control venture |  
+| bip_39_word_space_11 | cram burger rotate tank forest add inner damp control venture jaguar |  
+| bip_39_word_space_12 | cram burger rotate tank forest add inner damp control venture jaguar access |  
+| bip_39_word_space_2 | cram burger |  
+| bip_39_word_space_3 | cram burger rotate |  
+| bip_39_word_space_4 | cram burger rotate tank |  
+| bip_39_word_space_5 | cram burger rotate tank forest |  
+| bip_39_word_space_6 | cram burger rotate tank forest add |  
+| bip_39_word_space_7 | cram burger rotate tank forest add inner |  
+| bip_39_word_space_8 | cram burger rotate tank forest add inner damp |  
+| bip_39_word_space_9 | cram burger rotate tank forest add inner damp control |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

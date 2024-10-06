@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_tt_01_shaft
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decrease shrug
+  * bip 39 word 3: decrease shrug tourist
+  * bip 39 word: decrease shrug tourist party rain poverty unhappy parade link afraid clock arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decrease |  
+| bip_39_word_new_br10 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link<br>afraid |  
+| bip_39_word_new_br11 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link<br>afraid<br>clock |  
+| bip_39_word_new_br12 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link<br>afraid<br>clock<br>arena |  
+| bip_39_word_new_br2 | decrease<br>shrug |  
+| bip_39_word_new_br3 | decrease<br>shrug<br>tourist |  
+| bip_39_word_new_br4 | decrease<br>shrug<br>tourist<br>party |  
+| bip_39_word_new_br5 | decrease<br>shrug<br>tourist<br>party<br>rain |  
+| bip_39_word_new_br6 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty |  
+| bip_39_word_new_br7 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy |  
+| bip_39_word_new_br8 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade |  
+| bip_39_word_new_br9 | decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link |  
+| bip_39_word_new_line1 | decrease |  
+| bip_39_word_new_line10 | decrease
+shrug
+tourist
+party
+rain
+poverty
+unhappy
+parade
+link
+afraid |  
+| bip_39_word_new_line11 | decrease
+shrug
+tourist
+party
+rain
+poverty
+unhappy
+parade
+link
+afraid
+clock |  
+| bip_39_word_new_line12 | decrease
+shrug
+tourist
+party
+rain
+poverty
+unhappy
+parade
+link
+afraid
+clock
+arena |  
+| bip_39_word_new_line2 | decrease
+shrug |  
+| bip_39_word_new_line3 | decrease
+shrug
+tourist |  
+| bip_39_word_new_line4 | decrease
+shrug
+tourist
+party |  
+| bip_39_word_new_line5 | decrease
+shrug
+tourist
+party
+rain |  
+| bip_39_word_new_line6 | decrease
+shrug
+tourist
+party
+rain
+poverty |  
+| bip_39_word_new_line7 | decrease
+shrug
+tourist
+party
+rain
+poverty
+unhappy |  
+| bip_39_word_new_line8 | decrease
+shrug
+tourist
+party
+rain
+poverty
+unhappy
+parade |  
+| bip_39_word_new_line9 | decrease
+shrug
+tourist
+party
+rain
+poverty
+unhappy
+parade
+link |  
+| bip_39_word_space_0 | ['decrease', 'shrug', 'tourist', 'party', 'rain', 'poverty', 'unhappy', 'parade', 'link', 'afraid', 'clock', 'arena'] |  
+| bip_39_word_space_1 | decrease |  
+| bip_39_word_space_10 | decrease shrug tourist party rain poverty unhappy parade link afraid |  
+| bip_39_word_space_11 | decrease shrug tourist party rain poverty unhappy parade link afraid clock |  
+| bip_39_word_space_12 | decrease shrug tourist party rain poverty unhappy parade link afraid clock arena |  
+| bip_39_word_space_2 | decrease shrug |  
+| bip_39_word_space_3 | decrease shrug tourist |  
+| bip_39_word_space_4 | decrease shrug tourist party |  
+| bip_39_word_space_5 | decrease shrug tourist party rain |  
+| bip_39_word_space_6 | decrease shrug tourist party rain poverty |  
+| bip_39_word_space_7 | decrease shrug tourist party rain poverty unhappy |  
+| bip_39_word_space_8 | decrease shrug tourist party rain poverty unhappy parade |  
+| bip_39_word_space_9 | decrease shrug tourist party rain poverty unhappy parade link |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

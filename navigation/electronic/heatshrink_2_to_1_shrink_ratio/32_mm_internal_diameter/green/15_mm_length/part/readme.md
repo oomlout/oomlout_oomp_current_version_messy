@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vicious decorate
+  * bip 39 word 3: vicious decorate urge
+  * bip 39 word: vicious decorate urge awesome furnace auction draw home genius rookie garbage athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vicious |  
+| bip_39_word_new_br10 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction<br>draw<br>home<br>genius<br>rookie |  
+| bip_39_word_new_br11 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction<br>draw<br>home<br>genius<br>rookie<br>garbage |  
+| bip_39_word_new_br12 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction<br>draw<br>home<br>genius<br>rookie<br>garbage<br>athlete |  
+| bip_39_word_new_br2 | vicious<br>decorate |  
+| bip_39_word_new_br3 | vicious<br>decorate<br>urge |  
+| bip_39_word_new_br4 | vicious<br>decorate<br>urge<br>awesome |  
+| bip_39_word_new_br5 | vicious<br>decorate<br>urge<br>awesome<br>furnace |  
+| bip_39_word_new_br6 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction |  
+| bip_39_word_new_br7 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction<br>draw |  
+| bip_39_word_new_br8 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction<br>draw<br>home |  
+| bip_39_word_new_br9 | vicious<br>decorate<br>urge<br>awesome<br>furnace<br>auction<br>draw<br>home<br>genius |  
+| bip_39_word_new_line1 | vicious |  
+| bip_39_word_new_line10 | vicious
+decorate
+urge
+awesome
+furnace
+auction
+draw
+home
+genius
+rookie |  
+| bip_39_word_new_line11 | vicious
+decorate
+urge
+awesome
+furnace
+auction
+draw
+home
+genius
+rookie
+garbage |  
+| bip_39_word_new_line12 | vicious
+decorate
+urge
+awesome
+furnace
+auction
+draw
+home
+genius
+rookie
+garbage
+athlete |  
+| bip_39_word_new_line2 | vicious
+decorate |  
+| bip_39_word_new_line3 | vicious
+decorate
+urge |  
+| bip_39_word_new_line4 | vicious
+decorate
+urge
+awesome |  
+| bip_39_word_new_line5 | vicious
+decorate
+urge
+awesome
+furnace |  
+| bip_39_word_new_line6 | vicious
+decorate
+urge
+awesome
+furnace
+auction |  
+| bip_39_word_new_line7 | vicious
+decorate
+urge
+awesome
+furnace
+auction
+draw |  
+| bip_39_word_new_line8 | vicious
+decorate
+urge
+awesome
+furnace
+auction
+draw
+home |  
+| bip_39_word_new_line9 | vicious
+decorate
+urge
+awesome
+furnace
+auction
+draw
+home
+genius |  
+| bip_39_word_space_0 | ['vicious', 'decorate', 'urge', 'awesome', 'furnace', 'auction', 'draw', 'home', 'genius', 'rookie', 'garbage', 'athlete'] |  
+| bip_39_word_space_1 | vicious |  
+| bip_39_word_space_10 | vicious decorate urge awesome furnace auction draw home genius rookie |  
+| bip_39_word_space_11 | vicious decorate urge awesome furnace auction draw home genius rookie garbage |  
+| bip_39_word_space_12 | vicious decorate urge awesome furnace auction draw home genius rookie garbage athlete |  
+| bip_39_word_space_2 | vicious decorate |  
+| bip_39_word_space_3 | vicious decorate urge |  
+| bip_39_word_space_4 | vicious decorate urge awesome |  
+| bip_39_word_space_5 | vicious decorate urge awesome furnace |  
+| bip_39_word_space_6 | vicious decorate urge awesome furnace auction |  
+| bip_39_word_space_7 | vicious decorate urge awesome furnace auction draw |  
+| bip_39_word_space_8 | vicious decorate urge awesome furnace auction draw home |  
+| bip_39_word_space_9 | vicious decorate urge awesome furnace auction draw home genius |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

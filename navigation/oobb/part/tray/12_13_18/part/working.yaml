@@ -1,3 +1,186 @@
+bip_39_word_new_br1: extend
+bip_39_word_new_br10: extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit
+bip_39_word_new_br11: extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit<br>title
+bip_39_word_new_br12: extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear<br>grit<br>title<br>amazing
+bip_39_word_new_br2: extend<br>daring
+bip_39_word_new_br3: extend<br>daring<br>program
+bip_39_word_new_br4: extend<br>daring<br>program<br>fiction
+bip_39_word_new_br5: extend<br>daring<br>program<br>fiction<br>skull
+bip_39_word_new_br6: extend<br>daring<br>program<br>fiction<br>skull<br>devote
+bip_39_word_new_br7: extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg
+bip_39_word_new_br8: extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much
+bip_39_word_new_br9: extend<br>daring<br>program<br>fiction<br>skull<br>devote<br>leg<br>much<br>wear
+bip_39_word_new_line1: extend
+bip_39_word_new_line10: 'extend
+
+  daring
+
+  program
+
+  fiction
+
+  skull
+
+  devote
+
+  leg
+
+  much
+
+  wear
+
+  grit'
+bip_39_word_new_line11: 'extend
+
+  daring
+
+  program
+
+  fiction
+
+  skull
+
+  devote
+
+  leg
+
+  much
+
+  wear
+
+  grit
+
+  title'
+bip_39_word_new_line12: 'extend
+
+  daring
+
+  program
+
+  fiction
+
+  skull
+
+  devote
+
+  leg
+
+  much
+
+  wear
+
+  grit
+
+  title
+
+  amazing'
+bip_39_word_new_line2: 'extend
+
+  daring'
+bip_39_word_new_line3: 'extend
+
+  daring
+
+  program'
+bip_39_word_new_line4: 'extend
+
+  daring
+
+  program
+
+  fiction'
+bip_39_word_new_line5: 'extend
+
+  daring
+
+  program
+
+  fiction
+
+  skull'
+bip_39_word_new_line6: 'extend
+
+  daring
+
+  program
+
+  fiction
+
+  skull
+
+  devote'
+bip_39_word_new_line7: 'extend
+
+  daring
+
+  program
+
+  fiction
+
+  skull
+
+  devote
+
+  leg'
+bip_39_word_new_line8: 'extend
+
+  daring
+
+  program
+
+  fiction
+
+  skull
+
+  devote
+
+  leg
+
+  much'
+bip_39_word_new_line9: 'extend
+
+  daring
+
+  program
+
+  fiction
+
+  skull
+
+  devote
+
+  leg
+
+  much
+
+  wear'
+bip_39_word_space_0:
+- extend
+- daring
+- program
+- fiction
+- skull
+- devote
+- leg
+- much
+- wear
+- grit
+- title
+- amazing
+bip_39_word_space_1: extend
+bip_39_word_space_10: extend daring program fiction skull devote leg much wear grit
+bip_39_word_space_11: extend daring program fiction skull devote leg much wear grit
+  title
+bip_39_word_space_12: extend daring program fiction skull devote leg much wear grit
+  title amazing
+bip_39_word_space_2: extend daring
+bip_39_word_space_3: extend daring program
+bip_39_word_space_4: extend daring program fiction
+bip_39_word_space_5: extend daring program fiction skull
+bip_39_word_space_6: extend daring program fiction skull devote
+bip_39_word_space_7: extend daring program fiction skull devote leg
+bip_39_word_space_8: extend daring program fiction skull devote leg much
+bip_39_word_space_9: extend daring program fiction skull devote leg much wear
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

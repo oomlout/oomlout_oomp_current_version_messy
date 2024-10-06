@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: car robust
+  * bip 39 word 3: car robust uncle
+  * bip 39 word: car robust uncle agent jaguar nation chef hurry master normal bird assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | car |  
+| bip_39_word_new_br10 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation<br>chef<br>hurry<br>master<br>normal |  
+| bip_39_word_new_br11 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation<br>chef<br>hurry<br>master<br>normal<br>bird |  
+| bip_39_word_new_br12 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation<br>chef<br>hurry<br>master<br>normal<br>bird<br>assume |  
+| bip_39_word_new_br2 | car<br>robust |  
+| bip_39_word_new_br3 | car<br>robust<br>uncle |  
+| bip_39_word_new_br4 | car<br>robust<br>uncle<br>agent |  
+| bip_39_word_new_br5 | car<br>robust<br>uncle<br>agent<br>jaguar |  
+| bip_39_word_new_br6 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation |  
+| bip_39_word_new_br7 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation<br>chef |  
+| bip_39_word_new_br8 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation<br>chef<br>hurry |  
+| bip_39_word_new_br9 | car<br>robust<br>uncle<br>agent<br>jaguar<br>nation<br>chef<br>hurry<br>master |  
+| bip_39_word_new_line1 | car |  
+| bip_39_word_new_line10 | car
+robust
+uncle
+agent
+jaguar
+nation
+chef
+hurry
+master
+normal |  
+| bip_39_word_new_line11 | car
+robust
+uncle
+agent
+jaguar
+nation
+chef
+hurry
+master
+normal
+bird |  
+| bip_39_word_new_line12 | car
+robust
+uncle
+agent
+jaguar
+nation
+chef
+hurry
+master
+normal
+bird
+assume |  
+| bip_39_word_new_line2 | car
+robust |  
+| bip_39_word_new_line3 | car
+robust
+uncle |  
+| bip_39_word_new_line4 | car
+robust
+uncle
+agent |  
+| bip_39_word_new_line5 | car
+robust
+uncle
+agent
+jaguar |  
+| bip_39_word_new_line6 | car
+robust
+uncle
+agent
+jaguar
+nation |  
+| bip_39_word_new_line7 | car
+robust
+uncle
+agent
+jaguar
+nation
+chef |  
+| bip_39_word_new_line8 | car
+robust
+uncle
+agent
+jaguar
+nation
+chef
+hurry |  
+| bip_39_word_new_line9 | car
+robust
+uncle
+agent
+jaguar
+nation
+chef
+hurry
+master |  
+| bip_39_word_space_0 | ['car', 'robust', 'uncle', 'agent', 'jaguar', 'nation', 'chef', 'hurry', 'master', 'normal', 'bird', 'assume'] |  
+| bip_39_word_space_1 | car |  
+| bip_39_word_space_10 | car robust uncle agent jaguar nation chef hurry master normal |  
+| bip_39_word_space_11 | car robust uncle agent jaguar nation chef hurry master normal bird |  
+| bip_39_word_space_12 | car robust uncle agent jaguar nation chef hurry master normal bird assume |  
+| bip_39_word_space_2 | car robust |  
+| bip_39_word_space_3 | car robust uncle |  
+| bip_39_word_space_4 | car robust uncle agent |  
+| bip_39_word_space_5 | car robust uncle agent jaguar |  
+| bip_39_word_space_6 | car robust uncle agent jaguar nation |  
+| bip_39_word_space_7 | car robust uncle agent jaguar nation chef |  
+| bip_39_word_space_8 | car robust uncle agent jaguar nation chef hurry |  
+| bip_39_word_space_9 | car robust uncle agent jaguar nation chef hurry master |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: artwork
+bip_39_word_new_br10: artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink
+bip_39_word_new_br11: artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink<br>purpose
+bip_39_word_new_br12: artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight<br>pink<br>purpose<br>armor
+bip_39_word_new_br2: artwork<br>solid
+bip_39_word_new_br3: artwork<br>solid<br>parrot
+bip_39_word_new_br4: artwork<br>solid<br>parrot<br>lumber
+bip_39_word_new_br5: artwork<br>solid<br>parrot<br>lumber<br>candy
+bip_39_word_new_br6: artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep
+bip_39_word_new_br7: artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow
+bip_39_word_new_br8: artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard
+bip_39_word_new_br9: artwork<br>solid<br>parrot<br>lumber<br>candy<br>sleep<br>slow<br>cupboard<br>slight
+bip_39_word_new_line1: artwork
+bip_39_word_new_line10: 'artwork
+
+  solid
+
+  parrot
+
+  lumber
+
+  candy
+
+  sleep
+
+  slow
+
+  cupboard
+
+  slight
+
+  pink'
+bip_39_word_new_line11: 'artwork
+
+  solid
+
+  parrot
+
+  lumber
+
+  candy
+
+  sleep
+
+  slow
+
+  cupboard
+
+  slight
+
+  pink
+
+  purpose'
+bip_39_word_new_line12: 'artwork
+
+  solid
+
+  parrot
+
+  lumber
+
+  candy
+
+  sleep
+
+  slow
+
+  cupboard
+
+  slight
+
+  pink
+
+  purpose
+
+  armor'
+bip_39_word_new_line2: 'artwork
+
+  solid'
+bip_39_word_new_line3: 'artwork
+
+  solid
+
+  parrot'
+bip_39_word_new_line4: 'artwork
+
+  solid
+
+  parrot
+
+  lumber'
+bip_39_word_new_line5: 'artwork
+
+  solid
+
+  parrot
+
+  lumber
+
+  candy'
+bip_39_word_new_line6: 'artwork
+
+  solid
+
+  parrot
+
+  lumber
+
+  candy
+
+  sleep'
+bip_39_word_new_line7: 'artwork
+
+  solid
+
+  parrot
+
+  lumber
+
+  candy
+
+  sleep
+
+  slow'
+bip_39_word_new_line8: 'artwork
+
+  solid
+
+  parrot
+
+  lumber
+
+  candy
+
+  sleep
+
+  slow
+
+  cupboard'
+bip_39_word_new_line9: 'artwork
+
+  solid
+
+  parrot
+
+  lumber
+
+  candy
+
+  sleep
+
+  slow
+
+  cupboard
+
+  slight'
+bip_39_word_space_0:
+- artwork
+- solid
+- parrot
+- lumber
+- candy
+- sleep
+- slow
+- cupboard
+- slight
+- pink
+- purpose
+- armor
+bip_39_word_space_1: artwork
+bip_39_word_space_10: artwork solid parrot lumber candy sleep slow cupboard slight
+  pink
+bip_39_word_space_11: artwork solid parrot lumber candy sleep slow cupboard slight
+  pink purpose
+bip_39_word_space_12: artwork solid parrot lumber candy sleep slow cupboard slight
+  pink purpose armor
+bip_39_word_space_2: artwork solid
+bip_39_word_space_3: artwork solid parrot
+bip_39_word_space_4: artwork solid parrot lumber
+bip_39_word_space_5: artwork solid parrot lumber candy
+bip_39_word_space_6: artwork solid parrot lumber candy sleep
+bip_39_word_space_7: artwork solid parrot lumber candy sleep slow
+bip_39_word_space_8: artwork solid parrot lumber candy sleep slow cupboard
+bip_39_word_space_9: artwork solid parrot lumber candy sleep slow cupboard slight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

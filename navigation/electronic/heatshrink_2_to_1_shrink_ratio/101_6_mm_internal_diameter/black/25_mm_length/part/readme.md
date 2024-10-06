@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cereal surge
+  * bip 39 word 3: cereal surge exchange
+  * bip 39 word: cereal surge exchange fall ribbon company will desk photo hand foil about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cereal |  
+| bip_39_word_new_br10 | cereal<br>surge<br>exchange<br>fall<br>ribbon<br>company<br>will<br>desk<br>photo<br>hand |  
+| bip_39_word_new_br11 | cereal<br>surge<br>exchange<br>fall<br>ribbon<br>company<br>will<br>desk<br>photo<br>hand<br>foil |  
+| bip_39_word_new_br12 | cereal<br>surge<br>exchange<br>fall<br>ribbon<br>company<br>will<br>desk<br>photo<br>hand<br>foil<br>about |  
+| bip_39_word_new_br2 | cereal<br>surge |  
+| bip_39_word_new_br3 | cereal<br>surge<br>exchange |  
+| bip_39_word_new_br4 | cereal<br>surge<br>exchange<br>fall |  
+| bip_39_word_new_br5 | cereal<br>surge<br>exchange<br>fall<br>ribbon |  
+| bip_39_word_new_br6 | cereal<br>surge<br>exchange<br>fall<br>ribbon<br>company |  
+| bip_39_word_new_br7 | cereal<br>surge<br>exchange<br>fall<br>ribbon<br>company<br>will |  
+| bip_39_word_new_br8 | cereal<br>surge<br>exchange<br>fall<br>ribbon<br>company<br>will<br>desk |  
+| bip_39_word_new_br9 | cereal<br>surge<br>exchange<br>fall<br>ribbon<br>company<br>will<br>desk<br>photo |  
+| bip_39_word_new_line1 | cereal |  
+| bip_39_word_new_line10 | cereal
+surge
+exchange
+fall
+ribbon
+company
+will
+desk
+photo
+hand |  
+| bip_39_word_new_line11 | cereal
+surge
+exchange
+fall
+ribbon
+company
+will
+desk
+photo
+hand
+foil |  
+| bip_39_word_new_line12 | cereal
+surge
+exchange
+fall
+ribbon
+company
+will
+desk
+photo
+hand
+foil
+about |  
+| bip_39_word_new_line2 | cereal
+surge |  
+| bip_39_word_new_line3 | cereal
+surge
+exchange |  
+| bip_39_word_new_line4 | cereal
+surge
+exchange
+fall |  
+| bip_39_word_new_line5 | cereal
+surge
+exchange
+fall
+ribbon |  
+| bip_39_word_new_line6 | cereal
+surge
+exchange
+fall
+ribbon
+company |  
+| bip_39_word_new_line7 | cereal
+surge
+exchange
+fall
+ribbon
+company
+will |  
+| bip_39_word_new_line8 | cereal
+surge
+exchange
+fall
+ribbon
+company
+will
+desk |  
+| bip_39_word_new_line9 | cereal
+surge
+exchange
+fall
+ribbon
+company
+will
+desk
+photo |  
+| bip_39_word_space_0 | ['cereal', 'surge', 'exchange', 'fall', 'ribbon', 'company', 'will', 'desk', 'photo', 'hand', 'foil', 'about'] |  
+| bip_39_word_space_1 | cereal |  
+| bip_39_word_space_10 | cereal surge exchange fall ribbon company will desk photo hand |  
+| bip_39_word_space_11 | cereal surge exchange fall ribbon company will desk photo hand foil |  
+| bip_39_word_space_12 | cereal surge exchange fall ribbon company will desk photo hand foil about |  
+| bip_39_word_space_2 | cereal surge |  
+| bip_39_word_space_3 | cereal surge exchange |  
+| bip_39_word_space_4 | cereal surge exchange fall |  
+| bip_39_word_space_5 | cereal surge exchange fall ribbon |  
+| bip_39_word_space_6 | cereal surge exchange fall ribbon company |  
+| bip_39_word_space_7 | cereal surge exchange fall ribbon company will |  
+| bip_39_word_space_8 | cereal surge exchange fall ribbon company will desk |  
+| bip_39_word_space_9 | cereal surge exchange fall ribbon company will desk photo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

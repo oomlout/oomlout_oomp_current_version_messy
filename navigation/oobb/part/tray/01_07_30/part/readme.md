@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tornado hurt
+  * bip 39 word 3: tornado hurt december
+  * bip 39 word: tornado hurt december asset margin scrub dog weapon stable crop involve able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tornado |  
+| bip_39_word_new_br10 | tornado<br>hurt<br>december<br>asset<br>margin<br>scrub<br>dog<br>weapon<br>stable<br>crop |  
+| bip_39_word_new_br11 | tornado<br>hurt<br>december<br>asset<br>margin<br>scrub<br>dog<br>weapon<br>stable<br>crop<br>involve |  
+| bip_39_word_new_br12 | tornado<br>hurt<br>december<br>asset<br>margin<br>scrub<br>dog<br>weapon<br>stable<br>crop<br>involve<br>able |  
+| bip_39_word_new_br2 | tornado<br>hurt |  
+| bip_39_word_new_br3 | tornado<br>hurt<br>december |  
+| bip_39_word_new_br4 | tornado<br>hurt<br>december<br>asset |  
+| bip_39_word_new_br5 | tornado<br>hurt<br>december<br>asset<br>margin |  
+| bip_39_word_new_br6 | tornado<br>hurt<br>december<br>asset<br>margin<br>scrub |  
+| bip_39_word_new_br7 | tornado<br>hurt<br>december<br>asset<br>margin<br>scrub<br>dog |  
+| bip_39_word_new_br8 | tornado<br>hurt<br>december<br>asset<br>margin<br>scrub<br>dog<br>weapon |  
+| bip_39_word_new_br9 | tornado<br>hurt<br>december<br>asset<br>margin<br>scrub<br>dog<br>weapon<br>stable |  
+| bip_39_word_new_line1 | tornado |  
+| bip_39_word_new_line10 | tornado
+hurt
+december
+asset
+margin
+scrub
+dog
+weapon
+stable
+crop |  
+| bip_39_word_new_line11 | tornado
+hurt
+december
+asset
+margin
+scrub
+dog
+weapon
+stable
+crop
+involve |  
+| bip_39_word_new_line12 | tornado
+hurt
+december
+asset
+margin
+scrub
+dog
+weapon
+stable
+crop
+involve
+able |  
+| bip_39_word_new_line2 | tornado
+hurt |  
+| bip_39_word_new_line3 | tornado
+hurt
+december |  
+| bip_39_word_new_line4 | tornado
+hurt
+december
+asset |  
+| bip_39_word_new_line5 | tornado
+hurt
+december
+asset
+margin |  
+| bip_39_word_new_line6 | tornado
+hurt
+december
+asset
+margin
+scrub |  
+| bip_39_word_new_line7 | tornado
+hurt
+december
+asset
+margin
+scrub
+dog |  
+| bip_39_word_new_line8 | tornado
+hurt
+december
+asset
+margin
+scrub
+dog
+weapon |  
+| bip_39_word_new_line9 | tornado
+hurt
+december
+asset
+margin
+scrub
+dog
+weapon
+stable |  
+| bip_39_word_space_0 | ['tornado', 'hurt', 'december', 'asset', 'margin', 'scrub', 'dog', 'weapon', 'stable', 'crop', 'involve', 'able'] |  
+| bip_39_word_space_1 | tornado |  
+| bip_39_word_space_10 | tornado hurt december asset margin scrub dog weapon stable crop |  
+| bip_39_word_space_11 | tornado hurt december asset margin scrub dog weapon stable crop involve |  
+| bip_39_word_space_12 | tornado hurt december asset margin scrub dog weapon stable crop involve able |  
+| bip_39_word_space_2 | tornado hurt |  
+| bip_39_word_space_3 | tornado hurt december |  
+| bip_39_word_space_4 | tornado hurt december asset |  
+| bip_39_word_space_5 | tornado hurt december asset margin |  
+| bip_39_word_space_6 | tornado hurt december asset margin scrub |  
+| bip_39_word_space_7 | tornado hurt december asset margin scrub dog |  
+| bip_39_word_space_8 | tornado hurt december asset margin scrub dog weapon |  
+| bip_39_word_space_9 | tornado hurt december asset margin scrub dog weapon stable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

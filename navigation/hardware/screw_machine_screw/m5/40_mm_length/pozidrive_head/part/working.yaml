@@ -1,3 +1,187 @@
+bip_39_word_new_br1: clinic
+bip_39_word_new_br10: clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste
+bip_39_word_new_br11: clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste<br>execute
+bip_39_word_new_br12: clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income<br>taste<br>execute<br>armed
+bip_39_word_new_br2: clinic<br>festival
+bip_39_word_new_br3: clinic<br>festival<br>author
+bip_39_word_new_br4: clinic<br>festival<br>author<br>amused
+bip_39_word_new_br5: clinic<br>festival<br>author<br>amused<br>baby
+bip_39_word_new_br6: clinic<br>festival<br>author<br>amused<br>baby<br>laugh
+bip_39_word_new_br7: clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic
+bip_39_word_new_br8: clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin
+bip_39_word_new_br9: clinic<br>festival<br>author<br>amused<br>baby<br>laugh<br>magic<br>begin<br>income
+bip_39_word_new_line1: clinic
+bip_39_word_new_line10: 'clinic
+
+  festival
+
+  author
+
+  amused
+
+  baby
+
+  laugh
+
+  magic
+
+  begin
+
+  income
+
+  taste'
+bip_39_word_new_line11: 'clinic
+
+  festival
+
+  author
+
+  amused
+
+  baby
+
+  laugh
+
+  magic
+
+  begin
+
+  income
+
+  taste
+
+  execute'
+bip_39_word_new_line12: 'clinic
+
+  festival
+
+  author
+
+  amused
+
+  baby
+
+  laugh
+
+  magic
+
+  begin
+
+  income
+
+  taste
+
+  execute
+
+  armed'
+bip_39_word_new_line2: 'clinic
+
+  festival'
+bip_39_word_new_line3: 'clinic
+
+  festival
+
+  author'
+bip_39_word_new_line4: 'clinic
+
+  festival
+
+  author
+
+  amused'
+bip_39_word_new_line5: 'clinic
+
+  festival
+
+  author
+
+  amused
+
+  baby'
+bip_39_word_new_line6: 'clinic
+
+  festival
+
+  author
+
+  amused
+
+  baby
+
+  laugh'
+bip_39_word_new_line7: 'clinic
+
+  festival
+
+  author
+
+  amused
+
+  baby
+
+  laugh
+
+  magic'
+bip_39_word_new_line8: 'clinic
+
+  festival
+
+  author
+
+  amused
+
+  baby
+
+  laugh
+
+  magic
+
+  begin'
+bip_39_word_new_line9: 'clinic
+
+  festival
+
+  author
+
+  amused
+
+  baby
+
+  laugh
+
+  magic
+
+  begin
+
+  income'
+bip_39_word_space_0:
+- clinic
+- festival
+- author
+- amused
+- baby
+- laugh
+- magic
+- begin
+- income
+- taste
+- execute
+- armed
+bip_39_word_space_1: clinic
+bip_39_word_space_10: clinic festival author amused baby laugh magic begin income
+  taste
+bip_39_word_space_11: clinic festival author amused baby laugh magic begin income
+  taste execute
+bip_39_word_space_12: clinic festival author amused baby laugh magic begin income
+  taste execute armed
+bip_39_word_space_2: clinic festival
+bip_39_word_space_3: clinic festival author
+bip_39_word_space_4: clinic festival author amused
+bip_39_word_space_5: clinic festival author amused baby
+bip_39_word_space_6: clinic festival author amused baby laugh
+bip_39_word_space_7: clinic festival author amused baby laugh magic
+bip_39_word_space_8: clinic festival author amused baby laugh magic begin
+bip_39_word_space_9: clinic festival author amused baby laugh magic begin income
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

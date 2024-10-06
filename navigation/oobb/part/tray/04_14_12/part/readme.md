@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: motor invest
+  * bip 39 word 3: motor invest same
+  * bip 39 word: motor invest same suspect hazard prize sleep before dress photo reveal aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | motor |  
+| bip_39_word_new_br10 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo |  
+| bip_39_word_new_br11 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo<br>reveal |  
+| bip_39_word_new_br12 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress<br>photo<br>reveal<br>aim |  
+| bip_39_word_new_br2 | motor<br>invest |  
+| bip_39_word_new_br3 | motor<br>invest<br>same |  
+| bip_39_word_new_br4 | motor<br>invest<br>same<br>suspect |  
+| bip_39_word_new_br5 | motor<br>invest<br>same<br>suspect<br>hazard |  
+| bip_39_word_new_br6 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize |  
+| bip_39_word_new_br7 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep |  
+| bip_39_word_new_br8 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before |  
+| bip_39_word_new_br9 | motor<br>invest<br>same<br>suspect<br>hazard<br>prize<br>sleep<br>before<br>dress |  
+| bip_39_word_new_line1 | motor |  
+| bip_39_word_new_line10 | motor
+invest
+same
+suspect
+hazard
+prize
+sleep
+before
+dress
+photo |  
+| bip_39_word_new_line11 | motor
+invest
+same
+suspect
+hazard
+prize
+sleep
+before
+dress
+photo
+reveal |  
+| bip_39_word_new_line12 | motor
+invest
+same
+suspect
+hazard
+prize
+sleep
+before
+dress
+photo
+reveal
+aim |  
+| bip_39_word_new_line2 | motor
+invest |  
+| bip_39_word_new_line3 | motor
+invest
+same |  
+| bip_39_word_new_line4 | motor
+invest
+same
+suspect |  
+| bip_39_word_new_line5 | motor
+invest
+same
+suspect
+hazard |  
+| bip_39_word_new_line6 | motor
+invest
+same
+suspect
+hazard
+prize |  
+| bip_39_word_new_line7 | motor
+invest
+same
+suspect
+hazard
+prize
+sleep |  
+| bip_39_word_new_line8 | motor
+invest
+same
+suspect
+hazard
+prize
+sleep
+before |  
+| bip_39_word_new_line9 | motor
+invest
+same
+suspect
+hazard
+prize
+sleep
+before
+dress |  
+| bip_39_word_space_0 | ['motor', 'invest', 'same', 'suspect', 'hazard', 'prize', 'sleep', 'before', 'dress', 'photo', 'reveal', 'aim'] |  
+| bip_39_word_space_1 | motor |  
+| bip_39_word_space_10 | motor invest same suspect hazard prize sleep before dress photo |  
+| bip_39_word_space_11 | motor invest same suspect hazard prize sleep before dress photo reveal |  
+| bip_39_word_space_12 | motor invest same suspect hazard prize sleep before dress photo reveal aim |  
+| bip_39_word_space_2 | motor invest |  
+| bip_39_word_space_3 | motor invest same |  
+| bip_39_word_space_4 | motor invest same suspect |  
+| bip_39_word_space_5 | motor invest same suspect hazard |  
+| bip_39_word_space_6 | motor invest same suspect hazard prize |  
+| bip_39_word_space_7 | motor invest same suspect hazard prize sleep |  
+| bip_39_word_space_8 | motor invest same suspect hazard prize sleep before |  
+| bip_39_word_space_9 | motor invest same suspect hazard prize sleep before dress |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

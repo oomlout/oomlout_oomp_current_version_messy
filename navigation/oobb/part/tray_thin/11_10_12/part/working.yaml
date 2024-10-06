@@ -1,3 +1,187 @@
+bip_39_word_new_br1: approve
+bip_39_word_new_br10: approve<br>universe<br>motion<br>day<br>track<br>guess<br>evolve<br>stool<br>elegant<br>foil
+bip_39_word_new_br11: approve<br>universe<br>motion<br>day<br>track<br>guess<br>evolve<br>stool<br>elegant<br>foil<br>fancy
+bip_39_word_new_br12: approve<br>universe<br>motion<br>day<br>track<br>guess<br>evolve<br>stool<br>elegant<br>foil<br>fancy<br>adult
+bip_39_word_new_br2: approve<br>universe
+bip_39_word_new_br3: approve<br>universe<br>motion
+bip_39_word_new_br4: approve<br>universe<br>motion<br>day
+bip_39_word_new_br5: approve<br>universe<br>motion<br>day<br>track
+bip_39_word_new_br6: approve<br>universe<br>motion<br>day<br>track<br>guess
+bip_39_word_new_br7: approve<br>universe<br>motion<br>day<br>track<br>guess<br>evolve
+bip_39_word_new_br8: approve<br>universe<br>motion<br>day<br>track<br>guess<br>evolve<br>stool
+bip_39_word_new_br9: approve<br>universe<br>motion<br>day<br>track<br>guess<br>evolve<br>stool<br>elegant
+bip_39_word_new_line1: approve
+bip_39_word_new_line10: 'approve
+
+  universe
+
+  motion
+
+  day
+
+  track
+
+  guess
+
+  evolve
+
+  stool
+
+  elegant
+
+  foil'
+bip_39_word_new_line11: 'approve
+
+  universe
+
+  motion
+
+  day
+
+  track
+
+  guess
+
+  evolve
+
+  stool
+
+  elegant
+
+  foil
+
+  fancy'
+bip_39_word_new_line12: 'approve
+
+  universe
+
+  motion
+
+  day
+
+  track
+
+  guess
+
+  evolve
+
+  stool
+
+  elegant
+
+  foil
+
+  fancy
+
+  adult'
+bip_39_word_new_line2: 'approve
+
+  universe'
+bip_39_word_new_line3: 'approve
+
+  universe
+
+  motion'
+bip_39_word_new_line4: 'approve
+
+  universe
+
+  motion
+
+  day'
+bip_39_word_new_line5: 'approve
+
+  universe
+
+  motion
+
+  day
+
+  track'
+bip_39_word_new_line6: 'approve
+
+  universe
+
+  motion
+
+  day
+
+  track
+
+  guess'
+bip_39_word_new_line7: 'approve
+
+  universe
+
+  motion
+
+  day
+
+  track
+
+  guess
+
+  evolve'
+bip_39_word_new_line8: 'approve
+
+  universe
+
+  motion
+
+  day
+
+  track
+
+  guess
+
+  evolve
+
+  stool'
+bip_39_word_new_line9: 'approve
+
+  universe
+
+  motion
+
+  day
+
+  track
+
+  guess
+
+  evolve
+
+  stool
+
+  elegant'
+bip_39_word_space_0:
+- approve
+- universe
+- motion
+- day
+- track
+- guess
+- evolve
+- stool
+- elegant
+- foil
+- fancy
+- adult
+bip_39_word_space_1: approve
+bip_39_word_space_10: approve universe motion day track guess evolve stool elegant
+  foil
+bip_39_word_space_11: approve universe motion day track guess evolve stool elegant
+  foil fancy
+bip_39_word_space_12: approve universe motion day track guess evolve stool elegant
+  foil fancy adult
+bip_39_word_space_2: approve universe
+bip_39_word_space_3: approve universe motion
+bip_39_word_space_4: approve universe motion day
+bip_39_word_space_5: approve universe motion day track
+bip_39_word_space_6: approve universe motion day track guess
+bip_39_word_space_7: approve universe motion day track guess evolve
+bip_39_word_space_8: approve universe motion day track guess evolve stool
+bip_39_word_space_9: approve universe motion day track guess evolve stool elegant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

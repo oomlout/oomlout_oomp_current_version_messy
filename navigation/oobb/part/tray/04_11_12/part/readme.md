@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: art path
+  * bip 39 word 3: art path body
+  * bip 39 word: art path body foil strike narrow blade power bright total cement acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | art |  
+| bip_39_word_new_br10 | art<br>path<br>body<br>foil<br>strike<br>narrow<br>blade<br>power<br>bright<br>total |  
+| bip_39_word_new_br11 | art<br>path<br>body<br>foil<br>strike<br>narrow<br>blade<br>power<br>bright<br>total<br>cement |  
+| bip_39_word_new_br12 | art<br>path<br>body<br>foil<br>strike<br>narrow<br>blade<br>power<br>bright<br>total<br>cement<br>acid |  
+| bip_39_word_new_br2 | art<br>path |  
+| bip_39_word_new_br3 | art<br>path<br>body |  
+| bip_39_word_new_br4 | art<br>path<br>body<br>foil |  
+| bip_39_word_new_br5 | art<br>path<br>body<br>foil<br>strike |  
+| bip_39_word_new_br6 | art<br>path<br>body<br>foil<br>strike<br>narrow |  
+| bip_39_word_new_br7 | art<br>path<br>body<br>foil<br>strike<br>narrow<br>blade |  
+| bip_39_word_new_br8 | art<br>path<br>body<br>foil<br>strike<br>narrow<br>blade<br>power |  
+| bip_39_word_new_br9 | art<br>path<br>body<br>foil<br>strike<br>narrow<br>blade<br>power<br>bright |  
+| bip_39_word_new_line1 | art |  
+| bip_39_word_new_line10 | art
+path
+body
+foil
+strike
+narrow
+blade
+power
+bright
+total |  
+| bip_39_word_new_line11 | art
+path
+body
+foil
+strike
+narrow
+blade
+power
+bright
+total
+cement |  
+| bip_39_word_new_line12 | art
+path
+body
+foil
+strike
+narrow
+blade
+power
+bright
+total
+cement
+acid |  
+| bip_39_word_new_line2 | art
+path |  
+| bip_39_word_new_line3 | art
+path
+body |  
+| bip_39_word_new_line4 | art
+path
+body
+foil |  
+| bip_39_word_new_line5 | art
+path
+body
+foil
+strike |  
+| bip_39_word_new_line6 | art
+path
+body
+foil
+strike
+narrow |  
+| bip_39_word_new_line7 | art
+path
+body
+foil
+strike
+narrow
+blade |  
+| bip_39_word_new_line8 | art
+path
+body
+foil
+strike
+narrow
+blade
+power |  
+| bip_39_word_new_line9 | art
+path
+body
+foil
+strike
+narrow
+blade
+power
+bright |  
+| bip_39_word_space_0 | ['art', 'path', 'body', 'foil', 'strike', 'narrow', 'blade', 'power', 'bright', 'total', 'cement', 'acid'] |  
+| bip_39_word_space_1 | art |  
+| bip_39_word_space_10 | art path body foil strike narrow blade power bright total |  
+| bip_39_word_space_11 | art path body foil strike narrow blade power bright total cement |  
+| bip_39_word_space_12 | art path body foil strike narrow blade power bright total cement acid |  
+| bip_39_word_space_2 | art path |  
+| bip_39_word_space_3 | art path body |  
+| bip_39_word_space_4 | art path body foil |  
+| bip_39_word_space_5 | art path body foil strike |  
+| bip_39_word_space_6 | art path body foil strike narrow |  
+| bip_39_word_space_7 | art path body foil strike narrow blade |  
+| bip_39_word_space_8 | art path body foil strike narrow blade power |  
+| bip_39_word_space_9 | art path body foil strike narrow blade power bright |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

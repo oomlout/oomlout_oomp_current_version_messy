@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: luxury danger
+  * bip 39 word 3: luxury danger caught
+  * bip 39 word: luxury danger caught door loan coyote drum baby current spot trade address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | luxury |  
+| bip_39_word_new_br10 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote<br>drum<br>baby<br>current<br>spot |  
+| bip_39_word_new_br11 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote<br>drum<br>baby<br>current<br>spot<br>trade |  
+| bip_39_word_new_br12 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote<br>drum<br>baby<br>current<br>spot<br>trade<br>address |  
+| bip_39_word_new_br2 | luxury<br>danger |  
+| bip_39_word_new_br3 | luxury<br>danger<br>caught |  
+| bip_39_word_new_br4 | luxury<br>danger<br>caught<br>door |  
+| bip_39_word_new_br5 | luxury<br>danger<br>caught<br>door<br>loan |  
+| bip_39_word_new_br6 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote |  
+| bip_39_word_new_br7 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote<br>drum |  
+| bip_39_word_new_br8 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote<br>drum<br>baby |  
+| bip_39_word_new_br9 | luxury<br>danger<br>caught<br>door<br>loan<br>coyote<br>drum<br>baby<br>current |  
+| bip_39_word_new_line1 | luxury |  
+| bip_39_word_new_line10 | luxury
+danger
+caught
+door
+loan
+coyote
+drum
+baby
+current
+spot |  
+| bip_39_word_new_line11 | luxury
+danger
+caught
+door
+loan
+coyote
+drum
+baby
+current
+spot
+trade |  
+| bip_39_word_new_line12 | luxury
+danger
+caught
+door
+loan
+coyote
+drum
+baby
+current
+spot
+trade
+address |  
+| bip_39_word_new_line2 | luxury
+danger |  
+| bip_39_word_new_line3 | luxury
+danger
+caught |  
+| bip_39_word_new_line4 | luxury
+danger
+caught
+door |  
+| bip_39_word_new_line5 | luxury
+danger
+caught
+door
+loan |  
+| bip_39_word_new_line6 | luxury
+danger
+caught
+door
+loan
+coyote |  
+| bip_39_word_new_line7 | luxury
+danger
+caught
+door
+loan
+coyote
+drum |  
+| bip_39_word_new_line8 | luxury
+danger
+caught
+door
+loan
+coyote
+drum
+baby |  
+| bip_39_word_new_line9 | luxury
+danger
+caught
+door
+loan
+coyote
+drum
+baby
+current |  
+| bip_39_word_space_0 | ['luxury', 'danger', 'caught', 'door', 'loan', 'coyote', 'drum', 'baby', 'current', 'spot', 'trade', 'address'] |  
+| bip_39_word_space_1 | luxury |  
+| bip_39_word_space_10 | luxury danger caught door loan coyote drum baby current spot |  
+| bip_39_word_space_11 | luxury danger caught door loan coyote drum baby current spot trade |  
+| bip_39_word_space_12 | luxury danger caught door loan coyote drum baby current spot trade address |  
+| bip_39_word_space_2 | luxury danger |  
+| bip_39_word_space_3 | luxury danger caught |  
+| bip_39_word_space_4 | luxury danger caught door |  
+| bip_39_word_space_5 | luxury danger caught door loan |  
+| bip_39_word_space_6 | luxury danger caught door loan coyote |  
+| bip_39_word_space_7 | luxury danger caught door loan coyote drum |  
+| bip_39_word_space_8 | luxury danger caught door loan coyote drum baby |  
+| bip_39_word_space_9 | luxury danger caught door loan coyote drum baby current |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

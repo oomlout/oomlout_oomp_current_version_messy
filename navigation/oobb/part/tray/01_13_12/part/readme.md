@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: speak purity
+  * bip 39 word 3: speak purity agent
+  * bip 39 word: speak purity agent siren goat device hedgehog harsh fade blade fire area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | speak |  
+| bip_39_word_new_br10 | speak<br>purity<br>agent<br>siren<br>goat<br>device<br>hedgehog<br>harsh<br>fade<br>blade |  
+| bip_39_word_new_br11 | speak<br>purity<br>agent<br>siren<br>goat<br>device<br>hedgehog<br>harsh<br>fade<br>blade<br>fire |  
+| bip_39_word_new_br12 | speak<br>purity<br>agent<br>siren<br>goat<br>device<br>hedgehog<br>harsh<br>fade<br>blade<br>fire<br>area |  
+| bip_39_word_new_br2 | speak<br>purity |  
+| bip_39_word_new_br3 | speak<br>purity<br>agent |  
+| bip_39_word_new_br4 | speak<br>purity<br>agent<br>siren |  
+| bip_39_word_new_br5 | speak<br>purity<br>agent<br>siren<br>goat |  
+| bip_39_word_new_br6 | speak<br>purity<br>agent<br>siren<br>goat<br>device |  
+| bip_39_word_new_br7 | speak<br>purity<br>agent<br>siren<br>goat<br>device<br>hedgehog |  
+| bip_39_word_new_br8 | speak<br>purity<br>agent<br>siren<br>goat<br>device<br>hedgehog<br>harsh |  
+| bip_39_word_new_br9 | speak<br>purity<br>agent<br>siren<br>goat<br>device<br>hedgehog<br>harsh<br>fade |  
+| bip_39_word_new_line1 | speak |  
+| bip_39_word_new_line10 | speak
+purity
+agent
+siren
+goat
+device
+hedgehog
+harsh
+fade
+blade |  
+| bip_39_word_new_line11 | speak
+purity
+agent
+siren
+goat
+device
+hedgehog
+harsh
+fade
+blade
+fire |  
+| bip_39_word_new_line12 | speak
+purity
+agent
+siren
+goat
+device
+hedgehog
+harsh
+fade
+blade
+fire
+area |  
+| bip_39_word_new_line2 | speak
+purity |  
+| bip_39_word_new_line3 | speak
+purity
+agent |  
+| bip_39_word_new_line4 | speak
+purity
+agent
+siren |  
+| bip_39_word_new_line5 | speak
+purity
+agent
+siren
+goat |  
+| bip_39_word_new_line6 | speak
+purity
+agent
+siren
+goat
+device |  
+| bip_39_word_new_line7 | speak
+purity
+agent
+siren
+goat
+device
+hedgehog |  
+| bip_39_word_new_line8 | speak
+purity
+agent
+siren
+goat
+device
+hedgehog
+harsh |  
+| bip_39_word_new_line9 | speak
+purity
+agent
+siren
+goat
+device
+hedgehog
+harsh
+fade |  
+| bip_39_word_space_0 | ['speak', 'purity', 'agent', 'siren', 'goat', 'device', 'hedgehog', 'harsh', 'fade', 'blade', 'fire', 'area'] |  
+| bip_39_word_space_1 | speak |  
+| bip_39_word_space_10 | speak purity agent siren goat device hedgehog harsh fade blade |  
+| bip_39_word_space_11 | speak purity agent siren goat device hedgehog harsh fade blade fire |  
+| bip_39_word_space_12 | speak purity agent siren goat device hedgehog harsh fade blade fire area |  
+| bip_39_word_space_2 | speak purity |  
+| bip_39_word_space_3 | speak purity agent |  
+| bip_39_word_space_4 | speak purity agent siren |  
+| bip_39_word_space_5 | speak purity agent siren goat |  
+| bip_39_word_space_6 | speak purity agent siren goat device |  
+| bip_39_word_space_7 | speak purity agent siren goat device hedgehog |  
+| bip_39_word_space_8 | speak purity agent siren goat device hedgehog harsh |  
+| bip_39_word_space_9 | speak purity agent siren goat device hedgehog harsh fade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

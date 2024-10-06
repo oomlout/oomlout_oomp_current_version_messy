@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: kite_packaging
   * part_number: pbrh3_5_x_4_5
+  * bip 39 word 2: room unit
+  * bip 39 word 3: room unit despair
+  * bip 39 word: room unit despair poem coast jelly soft wide approve barely stable audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | room |  
+| bip_39_word_new_br10 | room<br>unit<br>despair<br>poem<br>coast<br>jelly<br>soft<br>wide<br>approve<br>barely |  
+| bip_39_word_new_br11 | room<br>unit<br>despair<br>poem<br>coast<br>jelly<br>soft<br>wide<br>approve<br>barely<br>stable |  
+| bip_39_word_new_br12 | room<br>unit<br>despair<br>poem<br>coast<br>jelly<br>soft<br>wide<br>approve<br>barely<br>stable<br>audit |  
+| bip_39_word_new_br2 | room<br>unit |  
+| bip_39_word_new_br3 | room<br>unit<br>despair |  
+| bip_39_word_new_br4 | room<br>unit<br>despair<br>poem |  
+| bip_39_word_new_br5 | room<br>unit<br>despair<br>poem<br>coast |  
+| bip_39_word_new_br6 | room<br>unit<br>despair<br>poem<br>coast<br>jelly |  
+| bip_39_word_new_br7 | room<br>unit<br>despair<br>poem<br>coast<br>jelly<br>soft |  
+| bip_39_word_new_br8 | room<br>unit<br>despair<br>poem<br>coast<br>jelly<br>soft<br>wide |  
+| bip_39_word_new_br9 | room<br>unit<br>despair<br>poem<br>coast<br>jelly<br>soft<br>wide<br>approve |  
+| bip_39_word_new_line1 | room |  
+| bip_39_word_new_line10 | room
+unit
+despair
+poem
+coast
+jelly
+soft
+wide
+approve
+barely |  
+| bip_39_word_new_line11 | room
+unit
+despair
+poem
+coast
+jelly
+soft
+wide
+approve
+barely
+stable |  
+| bip_39_word_new_line12 | room
+unit
+despair
+poem
+coast
+jelly
+soft
+wide
+approve
+barely
+stable
+audit |  
+| bip_39_word_new_line2 | room
+unit |  
+| bip_39_word_new_line3 | room
+unit
+despair |  
+| bip_39_word_new_line4 | room
+unit
+despair
+poem |  
+| bip_39_word_new_line5 | room
+unit
+despair
+poem
+coast |  
+| bip_39_word_new_line6 | room
+unit
+despair
+poem
+coast
+jelly |  
+| bip_39_word_new_line7 | room
+unit
+despair
+poem
+coast
+jelly
+soft |  
+| bip_39_word_new_line8 | room
+unit
+despair
+poem
+coast
+jelly
+soft
+wide |  
+| bip_39_word_new_line9 | room
+unit
+despair
+poem
+coast
+jelly
+soft
+wide
+approve |  
+| bip_39_word_space_0 | ['room', 'unit', 'despair', 'poem', 'coast', 'jelly', 'soft', 'wide', 'approve', 'barely', 'stable', 'audit'] |  
+| bip_39_word_space_1 | room |  
+| bip_39_word_space_10 | room unit despair poem coast jelly soft wide approve barely |  
+| bip_39_word_space_11 | room unit despair poem coast jelly soft wide approve barely stable |  
+| bip_39_word_space_12 | room unit despair poem coast jelly soft wide approve barely stable audit |  
+| bip_39_word_space_2 | room unit |  
+| bip_39_word_space_3 | room unit despair |  
+| bip_39_word_space_4 | room unit despair poem |  
+| bip_39_word_space_5 | room unit despair poem coast |  
+| bip_39_word_space_6 | room unit despair poem coast jelly |  
+| bip_39_word_space_7 | room unit despair poem coast jelly soft |  
+| bip_39_word_space_8 | room unit despair poem coast jelly soft wide |  
+| bip_39_word_space_9 | room unit despair poem coast jelly soft wide approve |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

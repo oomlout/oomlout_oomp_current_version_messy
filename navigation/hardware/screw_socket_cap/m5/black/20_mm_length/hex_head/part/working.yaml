@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fence
+bip_39_word_new_br10: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge<br>pen
+bip_39_word_new_br11: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge<br>pen<br>private
+bip_39_word_new_br12: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge<br>pen<br>private<br>anxiety
+bip_39_word_new_br2: fence<br>wild
+bip_39_word_new_br3: fence<br>wild<br>rookie
+bip_39_word_new_br4: fence<br>wild<br>rookie<br>liquid
+bip_39_word_new_br5: fence<br>wild<br>rookie<br>liquid<br>purse
+bip_39_word_new_br6: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli
+bip_39_word_new_br7: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil
+bip_39_word_new_br8: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield
+bip_39_word_new_br9: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge
+bip_39_word_new_line1: fence
+bip_39_word_new_line10: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield
+
+  merge
+
+  pen'
+bip_39_word_new_line11: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield
+
+  merge
+
+  pen
+
+  private'
+bip_39_word_new_line12: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield
+
+  merge
+
+  pen
+
+  private
+
+  anxiety'
+bip_39_word_new_line2: 'fence
+
+  wild'
+bip_39_word_new_line3: 'fence
+
+  wild
+
+  rookie'
+bip_39_word_new_line4: 'fence
+
+  wild
+
+  rookie
+
+  liquid'
+bip_39_word_new_line5: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse'
+bip_39_word_new_line6: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli'
+bip_39_word_new_line7: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil'
+bip_39_word_new_line8: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield'
+bip_39_word_new_line9: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield
+
+  merge'
+bip_39_word_space_0:
+- fence
+- wild
+- rookie
+- liquid
+- purse
+- broccoli
+- pupil
+- shield
+- merge
+- pen
+- private
+- anxiety
+bip_39_word_space_1: fence
+bip_39_word_space_10: fence wild rookie liquid purse broccoli pupil shield merge pen
+bip_39_word_space_11: fence wild rookie liquid purse broccoli pupil shield merge pen
+  private
+bip_39_word_space_12: fence wild rookie liquid purse broccoli pupil shield merge pen
+  private anxiety
+bip_39_word_space_2: fence wild
+bip_39_word_space_3: fence wild rookie
+bip_39_word_space_4: fence wild rookie liquid
+bip_39_word_space_5: fence wild rookie liquid purse
+bip_39_word_space_6: fence wild rookie liquid purse broccoli
+bip_39_word_space_7: fence wild rookie liquid purse broccoli pupil
+bip_39_word_space_8: fence wild rookie liquid purse broccoli pupil shield
+bip_39_word_space_9: fence wild rookie liquid purse broccoli pupil shield merge
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

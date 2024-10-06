@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: physical eager
+  * bip 39 word 3: physical eager hungry
+  * bip 39 word: physical eager hungry virus finger notice west hood lawn phrase choose angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | physical |  
+| bip_39_word_new_br10 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase |  
+| bip_39_word_new_br11 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase<br>choose |  
+| bip_39_word_new_br12 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn<br>phrase<br>choose<br>angry |  
+| bip_39_word_new_br2 | physical<br>eager |  
+| bip_39_word_new_br3 | physical<br>eager<br>hungry |  
+| bip_39_word_new_br4 | physical<br>eager<br>hungry<br>virus |  
+| bip_39_word_new_br5 | physical<br>eager<br>hungry<br>virus<br>finger |  
+| bip_39_word_new_br6 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice |  
+| bip_39_word_new_br7 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west |  
+| bip_39_word_new_br8 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood |  
+| bip_39_word_new_br9 | physical<br>eager<br>hungry<br>virus<br>finger<br>notice<br>west<br>hood<br>lawn |  
+| bip_39_word_new_line1 | physical |  
+| bip_39_word_new_line10 | physical
+eager
+hungry
+virus
+finger
+notice
+west
+hood
+lawn
+phrase |  
+| bip_39_word_new_line11 | physical
+eager
+hungry
+virus
+finger
+notice
+west
+hood
+lawn
+phrase
+choose |  
+| bip_39_word_new_line12 | physical
+eager
+hungry
+virus
+finger
+notice
+west
+hood
+lawn
+phrase
+choose
+angry |  
+| bip_39_word_new_line2 | physical
+eager |  
+| bip_39_word_new_line3 | physical
+eager
+hungry |  
+| bip_39_word_new_line4 | physical
+eager
+hungry
+virus |  
+| bip_39_word_new_line5 | physical
+eager
+hungry
+virus
+finger |  
+| bip_39_word_new_line6 | physical
+eager
+hungry
+virus
+finger
+notice |  
+| bip_39_word_new_line7 | physical
+eager
+hungry
+virus
+finger
+notice
+west |  
+| bip_39_word_new_line8 | physical
+eager
+hungry
+virus
+finger
+notice
+west
+hood |  
+| bip_39_word_new_line9 | physical
+eager
+hungry
+virus
+finger
+notice
+west
+hood
+lawn |  
+| bip_39_word_space_0 | ['physical', 'eager', 'hungry', 'virus', 'finger', 'notice', 'west', 'hood', 'lawn', 'phrase', 'choose', 'angry'] |  
+| bip_39_word_space_1 | physical |  
+| bip_39_word_space_10 | physical eager hungry virus finger notice west hood lawn phrase |  
+| bip_39_word_space_11 | physical eager hungry virus finger notice west hood lawn phrase choose |  
+| bip_39_word_space_12 | physical eager hungry virus finger notice west hood lawn phrase choose angry |  
+| bip_39_word_space_2 | physical eager |  
+| bip_39_word_space_3 | physical eager hungry |  
+| bip_39_word_space_4 | physical eager hungry virus |  
+| bip_39_word_space_5 | physical eager hungry virus finger |  
+| bip_39_word_space_6 | physical eager hungry virus finger notice |  
+| bip_39_word_space_7 | physical eager hungry virus finger notice west |  
+| bip_39_word_space_8 | physical eager hungry virus finger notice west hood |  
+| bip_39_word_space_9 | physical eager hungry virus finger notice west hood lawn |  
 | classification | three_d_printer |  
 | classification_capital | Three D Printer |  
 | classification_first_letter | t |  

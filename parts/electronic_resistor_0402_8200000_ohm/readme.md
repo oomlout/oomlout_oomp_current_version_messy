@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trick note
+  * bip 39 word 3: trick note unusual
+  * bip 39 word: trick note unusual public fancy butter proud emerge chef violin recall armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trick |  
+| bip_39_word_new_br10 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin |  
+| bip_39_word_new_br11 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin<br>recall |  
+| bip_39_word_new_br12 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef<br>violin<br>recall<br>armed |  
+| bip_39_word_new_br2 | trick<br>note |  
+| bip_39_word_new_br3 | trick<br>note<br>unusual |  
+| bip_39_word_new_br4 | trick<br>note<br>unusual<br>public |  
+| bip_39_word_new_br5 | trick<br>note<br>unusual<br>public<br>fancy |  
+| bip_39_word_new_br6 | trick<br>note<br>unusual<br>public<br>fancy<br>butter |  
+| bip_39_word_new_br7 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud |  
+| bip_39_word_new_br8 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge |  
+| bip_39_word_new_br9 | trick<br>note<br>unusual<br>public<br>fancy<br>butter<br>proud<br>emerge<br>chef |  
+| bip_39_word_new_line1 | trick |  
+| bip_39_word_new_line10 | trick
+note
+unusual
+public
+fancy
+butter
+proud
+emerge
+chef
+violin |  
+| bip_39_word_new_line11 | trick
+note
+unusual
+public
+fancy
+butter
+proud
+emerge
+chef
+violin
+recall |  
+| bip_39_word_new_line12 | trick
+note
+unusual
+public
+fancy
+butter
+proud
+emerge
+chef
+violin
+recall
+armed |  
+| bip_39_word_new_line2 | trick
+note |  
+| bip_39_word_new_line3 | trick
+note
+unusual |  
+| bip_39_word_new_line4 | trick
+note
+unusual
+public |  
+| bip_39_word_new_line5 | trick
+note
+unusual
+public
+fancy |  
+| bip_39_word_new_line6 | trick
+note
+unusual
+public
+fancy
+butter |  
+| bip_39_word_new_line7 | trick
+note
+unusual
+public
+fancy
+butter
+proud |  
+| bip_39_word_new_line8 | trick
+note
+unusual
+public
+fancy
+butter
+proud
+emerge |  
+| bip_39_word_new_line9 | trick
+note
+unusual
+public
+fancy
+butter
+proud
+emerge
+chef |  
+| bip_39_word_space_0 | ['trick', 'note', 'unusual', 'public', 'fancy', 'butter', 'proud', 'emerge', 'chef', 'violin', 'recall', 'armed'] |  
+| bip_39_word_space_1 | trick |  
+| bip_39_word_space_10 | trick note unusual public fancy butter proud emerge chef violin |  
+| bip_39_word_space_11 | trick note unusual public fancy butter proud emerge chef violin recall |  
+| bip_39_word_space_12 | trick note unusual public fancy butter proud emerge chef violin recall armed |  
+| bip_39_word_space_2 | trick note |  
+| bip_39_word_space_3 | trick note unusual |  
+| bip_39_word_space_4 | trick note unusual public |  
+| bip_39_word_space_5 | trick note unusual public fancy |  
+| bip_39_word_space_6 | trick note unusual public fancy butter |  
+| bip_39_word_space_7 | trick note unusual public fancy butter proud |  
+| bip_39_word_space_8 | trick note unusual public fancy butter proud emerge |  
+| bip_39_word_space_9 | trick note unusual public fancy butter proud emerge chef |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glad expire
+  * bip 39 word 3: glad expire garden
+  * bip 39 word: glad expire garden trade action drill life series tennis tooth radio approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glad |  
+| bip_39_word_new_br10 | glad<br>expire<br>garden<br>trade<br>action<br>drill<br>life<br>series<br>tennis<br>tooth |  
+| bip_39_word_new_br11 | glad<br>expire<br>garden<br>trade<br>action<br>drill<br>life<br>series<br>tennis<br>tooth<br>radio |  
+| bip_39_word_new_br12 | glad<br>expire<br>garden<br>trade<br>action<br>drill<br>life<br>series<br>tennis<br>tooth<br>radio<br>approve |  
+| bip_39_word_new_br2 | glad<br>expire |  
+| bip_39_word_new_br3 | glad<br>expire<br>garden |  
+| bip_39_word_new_br4 | glad<br>expire<br>garden<br>trade |  
+| bip_39_word_new_br5 | glad<br>expire<br>garden<br>trade<br>action |  
+| bip_39_word_new_br6 | glad<br>expire<br>garden<br>trade<br>action<br>drill |  
+| bip_39_word_new_br7 | glad<br>expire<br>garden<br>trade<br>action<br>drill<br>life |  
+| bip_39_word_new_br8 | glad<br>expire<br>garden<br>trade<br>action<br>drill<br>life<br>series |  
+| bip_39_word_new_br9 | glad<br>expire<br>garden<br>trade<br>action<br>drill<br>life<br>series<br>tennis |  
+| bip_39_word_new_line1 | glad |  
+| bip_39_word_new_line10 | glad
+expire
+garden
+trade
+action
+drill
+life
+series
+tennis
+tooth |  
+| bip_39_word_new_line11 | glad
+expire
+garden
+trade
+action
+drill
+life
+series
+tennis
+tooth
+radio |  
+| bip_39_word_new_line12 | glad
+expire
+garden
+trade
+action
+drill
+life
+series
+tennis
+tooth
+radio
+approve |  
+| bip_39_word_new_line2 | glad
+expire |  
+| bip_39_word_new_line3 | glad
+expire
+garden |  
+| bip_39_word_new_line4 | glad
+expire
+garden
+trade |  
+| bip_39_word_new_line5 | glad
+expire
+garden
+trade
+action |  
+| bip_39_word_new_line6 | glad
+expire
+garden
+trade
+action
+drill |  
+| bip_39_word_new_line7 | glad
+expire
+garden
+trade
+action
+drill
+life |  
+| bip_39_word_new_line8 | glad
+expire
+garden
+trade
+action
+drill
+life
+series |  
+| bip_39_word_new_line9 | glad
+expire
+garden
+trade
+action
+drill
+life
+series
+tennis |  
+| bip_39_word_space_0 | ['glad', 'expire', 'garden', 'trade', 'action', 'drill', 'life', 'series', 'tennis', 'tooth', 'radio', 'approve'] |  
+| bip_39_word_space_1 | glad |  
+| bip_39_word_space_10 | glad expire garden trade action drill life series tennis tooth |  
+| bip_39_word_space_11 | glad expire garden trade action drill life series tennis tooth radio |  
+| bip_39_word_space_12 | glad expire garden trade action drill life series tennis tooth radio approve |  
+| bip_39_word_space_2 | glad expire |  
+| bip_39_word_space_3 | glad expire garden |  
+| bip_39_word_space_4 | glad expire garden trade |  
+| bip_39_word_space_5 | glad expire garden trade action |  
+| bip_39_word_space_6 | glad expire garden trade action drill |  
+| bip_39_word_space_7 | glad expire garden trade action drill life |  
+| bip_39_word_space_8 | glad expire garden trade action drill life series |  
+| bip_39_word_space_9 | glad expire garden trade action drill life series tennis |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

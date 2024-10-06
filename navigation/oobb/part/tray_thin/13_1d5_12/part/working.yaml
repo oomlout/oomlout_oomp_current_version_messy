@@ -1,3 +1,186 @@
+bip_39_word_new_br1: faint
+bip_39_word_new_br10: faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web
+bip_39_word_new_br11: faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web<br>calm
+bip_39_word_new_br12: faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague<br>web<br>calm<br>actor
+bip_39_word_new_br2: faint<br>fury
+bip_39_word_new_br3: faint<br>fury<br>title
+bip_39_word_new_br4: faint<br>fury<br>title<br>ceiling
+bip_39_word_new_br5: faint<br>fury<br>title<br>ceiling<br>deposit
+bip_39_word_new_br6: faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm
+bip_39_word_new_br7: faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height
+bip_39_word_new_br8: faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose
+bip_39_word_new_br9: faint<br>fury<br>title<br>ceiling<br>deposit<br>swarm<br>height<br>impose<br>vague
+bip_39_word_new_line1: faint
+bip_39_word_new_line10: 'faint
+
+  fury
+
+  title
+
+  ceiling
+
+  deposit
+
+  swarm
+
+  height
+
+  impose
+
+  vague
+
+  web'
+bip_39_word_new_line11: 'faint
+
+  fury
+
+  title
+
+  ceiling
+
+  deposit
+
+  swarm
+
+  height
+
+  impose
+
+  vague
+
+  web
+
+  calm'
+bip_39_word_new_line12: 'faint
+
+  fury
+
+  title
+
+  ceiling
+
+  deposit
+
+  swarm
+
+  height
+
+  impose
+
+  vague
+
+  web
+
+  calm
+
+  actor'
+bip_39_word_new_line2: 'faint
+
+  fury'
+bip_39_word_new_line3: 'faint
+
+  fury
+
+  title'
+bip_39_word_new_line4: 'faint
+
+  fury
+
+  title
+
+  ceiling'
+bip_39_word_new_line5: 'faint
+
+  fury
+
+  title
+
+  ceiling
+
+  deposit'
+bip_39_word_new_line6: 'faint
+
+  fury
+
+  title
+
+  ceiling
+
+  deposit
+
+  swarm'
+bip_39_word_new_line7: 'faint
+
+  fury
+
+  title
+
+  ceiling
+
+  deposit
+
+  swarm
+
+  height'
+bip_39_word_new_line8: 'faint
+
+  fury
+
+  title
+
+  ceiling
+
+  deposit
+
+  swarm
+
+  height
+
+  impose'
+bip_39_word_new_line9: 'faint
+
+  fury
+
+  title
+
+  ceiling
+
+  deposit
+
+  swarm
+
+  height
+
+  impose
+
+  vague'
+bip_39_word_space_0:
+- faint
+- fury
+- title
+- ceiling
+- deposit
+- swarm
+- height
+- impose
+- vague
+- web
+- calm
+- actor
+bip_39_word_space_1: faint
+bip_39_word_space_10: faint fury title ceiling deposit swarm height impose vague web
+bip_39_word_space_11: faint fury title ceiling deposit swarm height impose vague web
+  calm
+bip_39_word_space_12: faint fury title ceiling deposit swarm height impose vague web
+  calm actor
+bip_39_word_space_2: faint fury
+bip_39_word_space_3: faint fury title
+bip_39_word_space_4: faint fury title ceiling
+bip_39_word_space_5: faint fury title ceiling deposit
+bip_39_word_space_6: faint fury title ceiling deposit swarm
+bip_39_word_space_7: faint fury title ceiling deposit swarm height
+bip_39_word_space_8: faint fury title ceiling deposit swarm height impose
+bip_39_word_space_9: faint fury title ceiling deposit swarm height impose vague
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

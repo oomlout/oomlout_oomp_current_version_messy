@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: employ north
+  * bip 39 word 3: employ north lemon
+  * bip 39 word: employ north lemon unlock poem flash seat nothing proof achieve purse aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | employ |  
+| bip_39_word_new_br10 | employ<br>north<br>lemon<br>unlock<br>poem<br>flash<br>seat<br>nothing<br>proof<br>achieve |  
+| bip_39_word_new_br11 | employ<br>north<br>lemon<br>unlock<br>poem<br>flash<br>seat<br>nothing<br>proof<br>achieve<br>purse |  
+| bip_39_word_new_br12 | employ<br>north<br>lemon<br>unlock<br>poem<br>flash<br>seat<br>nothing<br>proof<br>achieve<br>purse<br>aspect |  
+| bip_39_word_new_br2 | employ<br>north |  
+| bip_39_word_new_br3 | employ<br>north<br>lemon |  
+| bip_39_word_new_br4 | employ<br>north<br>lemon<br>unlock |  
+| bip_39_word_new_br5 | employ<br>north<br>lemon<br>unlock<br>poem |  
+| bip_39_word_new_br6 | employ<br>north<br>lemon<br>unlock<br>poem<br>flash |  
+| bip_39_word_new_br7 | employ<br>north<br>lemon<br>unlock<br>poem<br>flash<br>seat |  
+| bip_39_word_new_br8 | employ<br>north<br>lemon<br>unlock<br>poem<br>flash<br>seat<br>nothing |  
+| bip_39_word_new_br9 | employ<br>north<br>lemon<br>unlock<br>poem<br>flash<br>seat<br>nothing<br>proof |  
+| bip_39_word_new_line1 | employ |  
+| bip_39_word_new_line10 | employ
+north
+lemon
+unlock
+poem
+flash
+seat
+nothing
+proof
+achieve |  
+| bip_39_word_new_line11 | employ
+north
+lemon
+unlock
+poem
+flash
+seat
+nothing
+proof
+achieve
+purse |  
+| bip_39_word_new_line12 | employ
+north
+lemon
+unlock
+poem
+flash
+seat
+nothing
+proof
+achieve
+purse
+aspect |  
+| bip_39_word_new_line2 | employ
+north |  
+| bip_39_word_new_line3 | employ
+north
+lemon |  
+| bip_39_word_new_line4 | employ
+north
+lemon
+unlock |  
+| bip_39_word_new_line5 | employ
+north
+lemon
+unlock
+poem |  
+| bip_39_word_new_line6 | employ
+north
+lemon
+unlock
+poem
+flash |  
+| bip_39_word_new_line7 | employ
+north
+lemon
+unlock
+poem
+flash
+seat |  
+| bip_39_word_new_line8 | employ
+north
+lemon
+unlock
+poem
+flash
+seat
+nothing |  
+| bip_39_word_new_line9 | employ
+north
+lemon
+unlock
+poem
+flash
+seat
+nothing
+proof |  
+| bip_39_word_space_0 | ['employ', 'north', 'lemon', 'unlock', 'poem', 'flash', 'seat', 'nothing', 'proof', 'achieve', 'purse', 'aspect'] |  
+| bip_39_word_space_1 | employ |  
+| bip_39_word_space_10 | employ north lemon unlock poem flash seat nothing proof achieve |  
+| bip_39_word_space_11 | employ north lemon unlock poem flash seat nothing proof achieve purse |  
+| bip_39_word_space_12 | employ north lemon unlock poem flash seat nothing proof achieve purse aspect |  
+| bip_39_word_space_2 | employ north |  
+| bip_39_word_space_3 | employ north lemon |  
+| bip_39_word_space_4 | employ north lemon unlock |  
+| bip_39_word_space_5 | employ north lemon unlock poem |  
+| bip_39_word_space_6 | employ north lemon unlock poem flash |  
+| bip_39_word_space_7 | employ north lemon unlock poem flash seat |  
+| bip_39_word_space_8 | employ north lemon unlock poem flash seat nothing |  
+| bip_39_word_space_9 | employ north lemon unlock poem flash seat nothing proof |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

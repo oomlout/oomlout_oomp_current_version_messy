@@ -1,3 +1,186 @@
+bip_39_word_new_br1: actress
+bip_39_word_new_br10: actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic
+bip_39_word_new_br11: actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic<br>rival
+bip_39_word_new_br12: actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush<br>critic<br>rival<br>acid
+bip_39_word_new_br2: actress<br>method
+bip_39_word_new_br3: actress<br>method<br>ill
+bip_39_word_new_br4: actress<br>method<br>ill<br>speak
+bip_39_word_new_br5: actress<br>method<br>ill<br>speak<br>middle
+bip_39_word_new_br6: actress<br>method<br>ill<br>speak<br>middle<br>make
+bip_39_word_new_br7: actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain
+bip_39_word_new_br8: actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide
+bip_39_word_new_br9: actress<br>method<br>ill<br>speak<br>middle<br>make<br>bargain<br>glide<br>crush
+bip_39_word_new_line1: actress
+bip_39_word_new_line10: 'actress
+
+  method
+
+  ill
+
+  speak
+
+  middle
+
+  make
+
+  bargain
+
+  glide
+
+  crush
+
+  critic'
+bip_39_word_new_line11: 'actress
+
+  method
+
+  ill
+
+  speak
+
+  middle
+
+  make
+
+  bargain
+
+  glide
+
+  crush
+
+  critic
+
+  rival'
+bip_39_word_new_line12: 'actress
+
+  method
+
+  ill
+
+  speak
+
+  middle
+
+  make
+
+  bargain
+
+  glide
+
+  crush
+
+  critic
+
+  rival
+
+  acid'
+bip_39_word_new_line2: 'actress
+
+  method'
+bip_39_word_new_line3: 'actress
+
+  method
+
+  ill'
+bip_39_word_new_line4: 'actress
+
+  method
+
+  ill
+
+  speak'
+bip_39_word_new_line5: 'actress
+
+  method
+
+  ill
+
+  speak
+
+  middle'
+bip_39_word_new_line6: 'actress
+
+  method
+
+  ill
+
+  speak
+
+  middle
+
+  make'
+bip_39_word_new_line7: 'actress
+
+  method
+
+  ill
+
+  speak
+
+  middle
+
+  make
+
+  bargain'
+bip_39_word_new_line8: 'actress
+
+  method
+
+  ill
+
+  speak
+
+  middle
+
+  make
+
+  bargain
+
+  glide'
+bip_39_word_new_line9: 'actress
+
+  method
+
+  ill
+
+  speak
+
+  middle
+
+  make
+
+  bargain
+
+  glide
+
+  crush'
+bip_39_word_space_0:
+- actress
+- method
+- ill
+- speak
+- middle
+- make
+- bargain
+- glide
+- crush
+- critic
+- rival
+- acid
+bip_39_word_space_1: actress
+bip_39_word_space_10: actress method ill speak middle make bargain glide crush critic
+bip_39_word_space_11: actress method ill speak middle make bargain glide crush critic
+  rival
+bip_39_word_space_12: actress method ill speak middle make bargain glide crush critic
+  rival acid
+bip_39_word_space_2: actress method
+bip_39_word_space_3: actress method ill
+bip_39_word_space_4: actress method ill speak
+bip_39_word_space_5: actress method ill speak middle
+bip_39_word_space_6: actress method ill speak middle make
+bip_39_word_space_7: actress method ill speak middle make bargain
+bip_39_word_space_8: actress method ill speak middle make bargain glide
+bip_39_word_space_9: actress method ill speak middle make bargain glide crush
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

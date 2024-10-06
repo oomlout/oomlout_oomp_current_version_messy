@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: belt control
+  * bip 39 word 3: belt control slice
+  * bip 39 word: belt control slice half urge hood screen boy deputy grain aisle again
 
 ### other_codes
 * short_code: st2d3b10p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | belt |  
+| bip_39_word_new_br10 | belt<br>control<br>slice<br>half<br>urge<br>hood<br>screen<br>boy<br>deputy<br>grain |  
+| bip_39_word_new_br11 | belt<br>control<br>slice<br>half<br>urge<br>hood<br>screen<br>boy<br>deputy<br>grain<br>aisle |  
+| bip_39_word_new_br12 | belt<br>control<br>slice<br>half<br>urge<br>hood<br>screen<br>boy<br>deputy<br>grain<br>aisle<br>again |  
+| bip_39_word_new_br2 | belt<br>control |  
+| bip_39_word_new_br3 | belt<br>control<br>slice |  
+| bip_39_word_new_br4 | belt<br>control<br>slice<br>half |  
+| bip_39_word_new_br5 | belt<br>control<br>slice<br>half<br>urge |  
+| bip_39_word_new_br6 | belt<br>control<br>slice<br>half<br>urge<br>hood |  
+| bip_39_word_new_br7 | belt<br>control<br>slice<br>half<br>urge<br>hood<br>screen |  
+| bip_39_word_new_br8 | belt<br>control<br>slice<br>half<br>urge<br>hood<br>screen<br>boy |  
+| bip_39_word_new_br9 | belt<br>control<br>slice<br>half<br>urge<br>hood<br>screen<br>boy<br>deputy |  
+| bip_39_word_new_line1 | belt |  
+| bip_39_word_new_line10 | belt
+control
+slice
+half
+urge
+hood
+screen
+boy
+deputy
+grain |  
+| bip_39_word_new_line11 | belt
+control
+slice
+half
+urge
+hood
+screen
+boy
+deputy
+grain
+aisle |  
+| bip_39_word_new_line12 | belt
+control
+slice
+half
+urge
+hood
+screen
+boy
+deputy
+grain
+aisle
+again |  
+| bip_39_word_new_line2 | belt
+control |  
+| bip_39_word_new_line3 | belt
+control
+slice |  
+| bip_39_word_new_line4 | belt
+control
+slice
+half |  
+| bip_39_word_new_line5 | belt
+control
+slice
+half
+urge |  
+| bip_39_word_new_line6 | belt
+control
+slice
+half
+urge
+hood |  
+| bip_39_word_new_line7 | belt
+control
+slice
+half
+urge
+hood
+screen |  
+| bip_39_word_new_line8 | belt
+control
+slice
+half
+urge
+hood
+screen
+boy |  
+| bip_39_word_new_line9 | belt
+control
+slice
+half
+urge
+hood
+screen
+boy
+deputy |  
+| bip_39_word_space_0 | ['belt', 'control', 'slice', 'half', 'urge', 'hood', 'screen', 'boy', 'deputy', 'grain', 'aisle', 'again'] |  
+| bip_39_word_space_1 | belt |  
+| bip_39_word_space_10 | belt control slice half urge hood screen boy deputy grain |  
+| bip_39_word_space_11 | belt control slice half urge hood screen boy deputy grain aisle |  
+| bip_39_word_space_12 | belt control slice half urge hood screen boy deputy grain aisle again |  
+| bip_39_word_space_2 | belt control |  
+| bip_39_word_space_3 | belt control slice |  
+| bip_39_word_space_4 | belt control slice half |  
+| bip_39_word_space_5 | belt control slice half urge |  
+| bip_39_word_space_6 | belt control slice half urge hood |  
+| bip_39_word_space_7 | belt control slice half urge hood screen |  
+| bip_39_word_space_8 | belt control slice half urge hood screen boy |  
+| bip_39_word_space_9 | belt control slice half urge hood screen boy deputy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

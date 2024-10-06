@@ -1,3 +1,187 @@
+bip_39_word_new_br1: theory
+bip_39_word_new_br10: theory<br>abandon<br>cart<br>typical<br>popular<br>cycle<br>innocent<br>poet<br>remove<br>shell
+bip_39_word_new_br11: theory<br>abandon<br>cart<br>typical<br>popular<br>cycle<br>innocent<br>poet<br>remove<br>shell<br>coffee
+bip_39_word_new_br12: theory<br>abandon<br>cart<br>typical<br>popular<br>cycle<br>innocent<br>poet<br>remove<br>shell<br>coffee<br>air
+bip_39_word_new_br2: theory<br>abandon
+bip_39_word_new_br3: theory<br>abandon<br>cart
+bip_39_word_new_br4: theory<br>abandon<br>cart<br>typical
+bip_39_word_new_br5: theory<br>abandon<br>cart<br>typical<br>popular
+bip_39_word_new_br6: theory<br>abandon<br>cart<br>typical<br>popular<br>cycle
+bip_39_word_new_br7: theory<br>abandon<br>cart<br>typical<br>popular<br>cycle<br>innocent
+bip_39_word_new_br8: theory<br>abandon<br>cart<br>typical<br>popular<br>cycle<br>innocent<br>poet
+bip_39_word_new_br9: theory<br>abandon<br>cart<br>typical<br>popular<br>cycle<br>innocent<br>poet<br>remove
+bip_39_word_new_line1: theory
+bip_39_word_new_line10: 'theory
+
+  abandon
+
+  cart
+
+  typical
+
+  popular
+
+  cycle
+
+  innocent
+
+  poet
+
+  remove
+
+  shell'
+bip_39_word_new_line11: 'theory
+
+  abandon
+
+  cart
+
+  typical
+
+  popular
+
+  cycle
+
+  innocent
+
+  poet
+
+  remove
+
+  shell
+
+  coffee'
+bip_39_word_new_line12: 'theory
+
+  abandon
+
+  cart
+
+  typical
+
+  popular
+
+  cycle
+
+  innocent
+
+  poet
+
+  remove
+
+  shell
+
+  coffee
+
+  air'
+bip_39_word_new_line2: 'theory
+
+  abandon'
+bip_39_word_new_line3: 'theory
+
+  abandon
+
+  cart'
+bip_39_word_new_line4: 'theory
+
+  abandon
+
+  cart
+
+  typical'
+bip_39_word_new_line5: 'theory
+
+  abandon
+
+  cart
+
+  typical
+
+  popular'
+bip_39_word_new_line6: 'theory
+
+  abandon
+
+  cart
+
+  typical
+
+  popular
+
+  cycle'
+bip_39_word_new_line7: 'theory
+
+  abandon
+
+  cart
+
+  typical
+
+  popular
+
+  cycle
+
+  innocent'
+bip_39_word_new_line8: 'theory
+
+  abandon
+
+  cart
+
+  typical
+
+  popular
+
+  cycle
+
+  innocent
+
+  poet'
+bip_39_word_new_line9: 'theory
+
+  abandon
+
+  cart
+
+  typical
+
+  popular
+
+  cycle
+
+  innocent
+
+  poet
+
+  remove'
+bip_39_word_space_0:
+- theory
+- abandon
+- cart
+- typical
+- popular
+- cycle
+- innocent
+- poet
+- remove
+- shell
+- coffee
+- air
+bip_39_word_space_1: theory
+bip_39_word_space_10: theory abandon cart typical popular cycle innocent poet remove
+  shell
+bip_39_word_space_11: theory abandon cart typical popular cycle innocent poet remove
+  shell coffee
+bip_39_word_space_12: theory abandon cart typical popular cycle innocent poet remove
+  shell coffee air
+bip_39_word_space_2: theory abandon
+bip_39_word_space_3: theory abandon cart
+bip_39_word_space_4: theory abandon cart typical
+bip_39_word_space_5: theory abandon cart typical popular
+bip_39_word_space_6: theory abandon cart typical popular cycle
+bip_39_word_space_7: theory abandon cart typical popular cycle innocent
+bip_39_word_space_8: theory abandon cart typical popular cycle innocent poet
+bip_39_word_space_9: theory abandon cart typical popular cycle innocent poet remove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

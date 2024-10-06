@@ -1,3 +1,187 @@
+bip_39_word_new_br1: dilemma
+bip_39_word_new_br10: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip<br>celery<br>program<br>ski<br>situate
+bip_39_word_new_br11: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip<br>celery<br>program<br>ski<br>situate<br>sugar
+bip_39_word_new_br12: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip<br>celery<br>program<br>ski<br>situate<br>sugar<br>attitude
+bip_39_word_new_br2: dilemma<br>anchor
+bip_39_word_new_br3: dilemma<br>anchor<br>this
+bip_39_word_new_br4: dilemma<br>anchor<br>this<br>private
+bip_39_word_new_br5: dilemma<br>anchor<br>this<br>private<br>blanket
+bip_39_word_new_br6: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip
+bip_39_word_new_br7: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip<br>celery
+bip_39_word_new_br8: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip<br>celery<br>program
+bip_39_word_new_br9: dilemma<br>anchor<br>this<br>private<br>blanket<br>trip<br>celery<br>program<br>ski
+bip_39_word_new_line1: dilemma
+bip_39_word_new_line10: 'dilemma
+
+  anchor
+
+  this
+
+  private
+
+  blanket
+
+  trip
+
+  celery
+
+  program
+
+  ski
+
+  situate'
+bip_39_word_new_line11: 'dilemma
+
+  anchor
+
+  this
+
+  private
+
+  blanket
+
+  trip
+
+  celery
+
+  program
+
+  ski
+
+  situate
+
+  sugar'
+bip_39_word_new_line12: 'dilemma
+
+  anchor
+
+  this
+
+  private
+
+  blanket
+
+  trip
+
+  celery
+
+  program
+
+  ski
+
+  situate
+
+  sugar
+
+  attitude'
+bip_39_word_new_line2: 'dilemma
+
+  anchor'
+bip_39_word_new_line3: 'dilemma
+
+  anchor
+
+  this'
+bip_39_word_new_line4: 'dilemma
+
+  anchor
+
+  this
+
+  private'
+bip_39_word_new_line5: 'dilemma
+
+  anchor
+
+  this
+
+  private
+
+  blanket'
+bip_39_word_new_line6: 'dilemma
+
+  anchor
+
+  this
+
+  private
+
+  blanket
+
+  trip'
+bip_39_word_new_line7: 'dilemma
+
+  anchor
+
+  this
+
+  private
+
+  blanket
+
+  trip
+
+  celery'
+bip_39_word_new_line8: 'dilemma
+
+  anchor
+
+  this
+
+  private
+
+  blanket
+
+  trip
+
+  celery
+
+  program'
+bip_39_word_new_line9: 'dilemma
+
+  anchor
+
+  this
+
+  private
+
+  blanket
+
+  trip
+
+  celery
+
+  program
+
+  ski'
+bip_39_word_space_0:
+- dilemma
+- anchor
+- this
+- private
+- blanket
+- trip
+- celery
+- program
+- ski
+- situate
+- sugar
+- attitude
+bip_39_word_space_1: dilemma
+bip_39_word_space_10: dilemma anchor this private blanket trip celery program ski
+  situate
+bip_39_word_space_11: dilemma anchor this private blanket trip celery program ski
+  situate sugar
+bip_39_word_space_12: dilemma anchor this private blanket trip celery program ski
+  situate sugar attitude
+bip_39_word_space_2: dilemma anchor
+bip_39_word_space_3: dilemma anchor this
+bip_39_word_space_4: dilemma anchor this private
+bip_39_word_space_5: dilemma anchor this private blanket
+bip_39_word_space_6: dilemma anchor this private blanket trip
+bip_39_word_space_7: dilemma anchor this private blanket trip celery
+bip_39_word_space_8: dilemma anchor this private blanket trip celery program
+bip_39_word_space_9: dilemma anchor this private blanket trip celery program ski
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: yard green
+  * bip 39 word 3: yard green found
+  * bip 39 word: yard green found tube party silent silly audit glimpse normal credit acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | yard |  
+| bip_39_word_new_br10 | yard<br>green<br>found<br>tube<br>party<br>silent<br>silly<br>audit<br>glimpse<br>normal |  
+| bip_39_word_new_br11 | yard<br>green<br>found<br>tube<br>party<br>silent<br>silly<br>audit<br>glimpse<br>normal<br>credit |  
+| bip_39_word_new_br12 | yard<br>green<br>found<br>tube<br>party<br>silent<br>silly<br>audit<br>glimpse<br>normal<br>credit<br>acquire |  
+| bip_39_word_new_br2 | yard<br>green |  
+| bip_39_word_new_br3 | yard<br>green<br>found |  
+| bip_39_word_new_br4 | yard<br>green<br>found<br>tube |  
+| bip_39_word_new_br5 | yard<br>green<br>found<br>tube<br>party |  
+| bip_39_word_new_br6 | yard<br>green<br>found<br>tube<br>party<br>silent |  
+| bip_39_word_new_br7 | yard<br>green<br>found<br>tube<br>party<br>silent<br>silly |  
+| bip_39_word_new_br8 | yard<br>green<br>found<br>tube<br>party<br>silent<br>silly<br>audit |  
+| bip_39_word_new_br9 | yard<br>green<br>found<br>tube<br>party<br>silent<br>silly<br>audit<br>glimpse |  
+| bip_39_word_new_line1 | yard |  
+| bip_39_word_new_line10 | yard
+green
+found
+tube
+party
+silent
+silly
+audit
+glimpse
+normal |  
+| bip_39_word_new_line11 | yard
+green
+found
+tube
+party
+silent
+silly
+audit
+glimpse
+normal
+credit |  
+| bip_39_word_new_line12 | yard
+green
+found
+tube
+party
+silent
+silly
+audit
+glimpse
+normal
+credit
+acquire |  
+| bip_39_word_new_line2 | yard
+green |  
+| bip_39_word_new_line3 | yard
+green
+found |  
+| bip_39_word_new_line4 | yard
+green
+found
+tube |  
+| bip_39_word_new_line5 | yard
+green
+found
+tube
+party |  
+| bip_39_word_new_line6 | yard
+green
+found
+tube
+party
+silent |  
+| bip_39_word_new_line7 | yard
+green
+found
+tube
+party
+silent
+silly |  
+| bip_39_word_new_line8 | yard
+green
+found
+tube
+party
+silent
+silly
+audit |  
+| bip_39_word_new_line9 | yard
+green
+found
+tube
+party
+silent
+silly
+audit
+glimpse |  
+| bip_39_word_space_0 | ['yard', 'green', 'found', 'tube', 'party', 'silent', 'silly', 'audit', 'glimpse', 'normal', 'credit', 'acquire'] |  
+| bip_39_word_space_1 | yard |  
+| bip_39_word_space_10 | yard green found tube party silent silly audit glimpse normal |  
+| bip_39_word_space_11 | yard green found tube party silent silly audit glimpse normal credit |  
+| bip_39_word_space_12 | yard green found tube party silent silly audit glimpse normal credit acquire |  
+| bip_39_word_space_2 | yard green |  
+| bip_39_word_space_3 | yard green found |  
+| bip_39_word_space_4 | yard green found tube |  
+| bip_39_word_space_5 | yard green found tube party |  
+| bip_39_word_space_6 | yard green found tube party silent |  
+| bip_39_word_space_7 | yard green found tube party silent silly |  
+| bip_39_word_space_8 | yard green found tube party silent silly audit |  
+| bip_39_word_space_9 | yard green found tube party silent silly audit glimpse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: throw
+bip_39_word_new_br10: throw<br>token<br>unfold<br>accuse<br>roof<br>traffic<br>typical<br>rabbit<br>remove<br>piece
+bip_39_word_new_br11: throw<br>token<br>unfold<br>accuse<br>roof<br>traffic<br>typical<br>rabbit<br>remove<br>piece<br>leaf
+bip_39_word_new_br12: throw<br>token<br>unfold<br>accuse<br>roof<br>traffic<br>typical<br>rabbit<br>remove<br>piece<br>leaf<br>antique
+bip_39_word_new_br2: throw<br>token
+bip_39_word_new_br3: throw<br>token<br>unfold
+bip_39_word_new_br4: throw<br>token<br>unfold<br>accuse
+bip_39_word_new_br5: throw<br>token<br>unfold<br>accuse<br>roof
+bip_39_word_new_br6: throw<br>token<br>unfold<br>accuse<br>roof<br>traffic
+bip_39_word_new_br7: throw<br>token<br>unfold<br>accuse<br>roof<br>traffic<br>typical
+bip_39_word_new_br8: throw<br>token<br>unfold<br>accuse<br>roof<br>traffic<br>typical<br>rabbit
+bip_39_word_new_br9: throw<br>token<br>unfold<br>accuse<br>roof<br>traffic<br>typical<br>rabbit<br>remove
+bip_39_word_new_line1: throw
+bip_39_word_new_line10: 'throw
+
+  token
+
+  unfold
+
+  accuse
+
+  roof
+
+  traffic
+
+  typical
+
+  rabbit
+
+  remove
+
+  piece'
+bip_39_word_new_line11: 'throw
+
+  token
+
+  unfold
+
+  accuse
+
+  roof
+
+  traffic
+
+  typical
+
+  rabbit
+
+  remove
+
+  piece
+
+  leaf'
+bip_39_word_new_line12: 'throw
+
+  token
+
+  unfold
+
+  accuse
+
+  roof
+
+  traffic
+
+  typical
+
+  rabbit
+
+  remove
+
+  piece
+
+  leaf
+
+  antique'
+bip_39_word_new_line2: 'throw
+
+  token'
+bip_39_word_new_line3: 'throw
+
+  token
+
+  unfold'
+bip_39_word_new_line4: 'throw
+
+  token
+
+  unfold
+
+  accuse'
+bip_39_word_new_line5: 'throw
+
+  token
+
+  unfold
+
+  accuse
+
+  roof'
+bip_39_word_new_line6: 'throw
+
+  token
+
+  unfold
+
+  accuse
+
+  roof
+
+  traffic'
+bip_39_word_new_line7: 'throw
+
+  token
+
+  unfold
+
+  accuse
+
+  roof
+
+  traffic
+
+  typical'
+bip_39_word_new_line8: 'throw
+
+  token
+
+  unfold
+
+  accuse
+
+  roof
+
+  traffic
+
+  typical
+
+  rabbit'
+bip_39_word_new_line9: 'throw
+
+  token
+
+  unfold
+
+  accuse
+
+  roof
+
+  traffic
+
+  typical
+
+  rabbit
+
+  remove'
+bip_39_word_space_0:
+- throw
+- token
+- unfold
+- accuse
+- roof
+- traffic
+- typical
+- rabbit
+- remove
+- piece
+- leaf
+- antique
+bip_39_word_space_1: throw
+bip_39_word_space_10: throw token unfold accuse roof traffic typical rabbit remove
+  piece
+bip_39_word_space_11: throw token unfold accuse roof traffic typical rabbit remove
+  piece leaf
+bip_39_word_space_12: throw token unfold accuse roof traffic typical rabbit remove
+  piece leaf antique
+bip_39_word_space_2: throw token
+bip_39_word_space_3: throw token unfold
+bip_39_word_space_4: throw token unfold accuse
+bip_39_word_space_5: throw token unfold accuse roof
+bip_39_word_space_6: throw token unfold accuse roof traffic
+bip_39_word_space_7: throw token unfold accuse roof traffic typical
+bip_39_word_space_8: throw token unfold accuse roof traffic typical rabbit
+bip_39_word_space_9: throw token unfold accuse roof traffic typical rabbit remove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

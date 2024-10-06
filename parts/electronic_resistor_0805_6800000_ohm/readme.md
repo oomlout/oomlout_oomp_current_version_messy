@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spice same
+  * bip 39 word 3: spice same expect
+  * bip 39 word: spice same expect truth circle person art clever entire memory cabin april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spice |  
+| bip_39_word_new_br10 | spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire<br>memory |  
+| bip_39_word_new_br11 | spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire<br>memory<br>cabin |  
+| bip_39_word_new_br12 | spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire<br>memory<br>cabin<br>april |  
+| bip_39_word_new_br2 | spice<br>same |  
+| bip_39_word_new_br3 | spice<br>same<br>expect |  
+| bip_39_word_new_br4 | spice<br>same<br>expect<br>truth |  
+| bip_39_word_new_br5 | spice<br>same<br>expect<br>truth<br>circle |  
+| bip_39_word_new_br6 | spice<br>same<br>expect<br>truth<br>circle<br>person |  
+| bip_39_word_new_br7 | spice<br>same<br>expect<br>truth<br>circle<br>person<br>art |  
+| bip_39_word_new_br8 | spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever |  
+| bip_39_word_new_br9 | spice<br>same<br>expect<br>truth<br>circle<br>person<br>art<br>clever<br>entire |  
+| bip_39_word_new_line1 | spice |  
+| bip_39_word_new_line10 | spice
+same
+expect
+truth
+circle
+person
+art
+clever
+entire
+memory |  
+| bip_39_word_new_line11 | spice
+same
+expect
+truth
+circle
+person
+art
+clever
+entire
+memory
+cabin |  
+| bip_39_word_new_line12 | spice
+same
+expect
+truth
+circle
+person
+art
+clever
+entire
+memory
+cabin
+april |  
+| bip_39_word_new_line2 | spice
+same |  
+| bip_39_word_new_line3 | spice
+same
+expect |  
+| bip_39_word_new_line4 | spice
+same
+expect
+truth |  
+| bip_39_word_new_line5 | spice
+same
+expect
+truth
+circle |  
+| bip_39_word_new_line6 | spice
+same
+expect
+truth
+circle
+person |  
+| bip_39_word_new_line7 | spice
+same
+expect
+truth
+circle
+person
+art |  
+| bip_39_word_new_line8 | spice
+same
+expect
+truth
+circle
+person
+art
+clever |  
+| bip_39_word_new_line9 | spice
+same
+expect
+truth
+circle
+person
+art
+clever
+entire |  
+| bip_39_word_space_0 | ['spice', 'same', 'expect', 'truth', 'circle', 'person', 'art', 'clever', 'entire', 'memory', 'cabin', 'april'] |  
+| bip_39_word_space_1 | spice |  
+| bip_39_word_space_10 | spice same expect truth circle person art clever entire memory |  
+| bip_39_word_space_11 | spice same expect truth circle person art clever entire memory cabin |  
+| bip_39_word_space_12 | spice same expect truth circle person art clever entire memory cabin april |  
+| bip_39_word_space_2 | spice same |  
+| bip_39_word_space_3 | spice same expect |  
+| bip_39_word_space_4 | spice same expect truth |  
+| bip_39_word_space_5 | spice same expect truth circle |  
+| bip_39_word_space_6 | spice same expect truth circle person |  
+| bip_39_word_space_7 | spice same expect truth circle person art |  
+| bip_39_word_space_8 | spice same expect truth circle person art clever |  
+| bip_39_word_space_9 | spice same expect truth circle person art clever entire |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: urge museum
+  * bip 39 word 3: urge museum mad
+  * bip 39 word: urge museum mad omit jacket bleak wire earn catch intact more assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | urge |  
+| bip_39_word_new_br10 | urge<br>museum<br>mad<br>omit<br>jacket<br>bleak<br>wire<br>earn<br>catch<br>intact |  
+| bip_39_word_new_br11 | urge<br>museum<br>mad<br>omit<br>jacket<br>bleak<br>wire<br>earn<br>catch<br>intact<br>more |  
+| bip_39_word_new_br12 | urge<br>museum<br>mad<br>omit<br>jacket<br>bleak<br>wire<br>earn<br>catch<br>intact<br>more<br>assist |  
+| bip_39_word_new_br2 | urge<br>museum |  
+| bip_39_word_new_br3 | urge<br>museum<br>mad |  
+| bip_39_word_new_br4 | urge<br>museum<br>mad<br>omit |  
+| bip_39_word_new_br5 | urge<br>museum<br>mad<br>omit<br>jacket |  
+| bip_39_word_new_br6 | urge<br>museum<br>mad<br>omit<br>jacket<br>bleak |  
+| bip_39_word_new_br7 | urge<br>museum<br>mad<br>omit<br>jacket<br>bleak<br>wire |  
+| bip_39_word_new_br8 | urge<br>museum<br>mad<br>omit<br>jacket<br>bleak<br>wire<br>earn |  
+| bip_39_word_new_br9 | urge<br>museum<br>mad<br>omit<br>jacket<br>bleak<br>wire<br>earn<br>catch |  
+| bip_39_word_new_line1 | urge |  
+| bip_39_word_new_line10 | urge
+museum
+mad
+omit
+jacket
+bleak
+wire
+earn
+catch
+intact |  
+| bip_39_word_new_line11 | urge
+museum
+mad
+omit
+jacket
+bleak
+wire
+earn
+catch
+intact
+more |  
+| bip_39_word_new_line12 | urge
+museum
+mad
+omit
+jacket
+bleak
+wire
+earn
+catch
+intact
+more
+assist |  
+| bip_39_word_new_line2 | urge
+museum |  
+| bip_39_word_new_line3 | urge
+museum
+mad |  
+| bip_39_word_new_line4 | urge
+museum
+mad
+omit |  
+| bip_39_word_new_line5 | urge
+museum
+mad
+omit
+jacket |  
+| bip_39_word_new_line6 | urge
+museum
+mad
+omit
+jacket
+bleak |  
+| bip_39_word_new_line7 | urge
+museum
+mad
+omit
+jacket
+bleak
+wire |  
+| bip_39_word_new_line8 | urge
+museum
+mad
+omit
+jacket
+bleak
+wire
+earn |  
+| bip_39_word_new_line9 | urge
+museum
+mad
+omit
+jacket
+bleak
+wire
+earn
+catch |  
+| bip_39_word_space_0 | ['urge', 'museum', 'mad', 'omit', 'jacket', 'bleak', 'wire', 'earn', 'catch', 'intact', 'more', 'assist'] |  
+| bip_39_word_space_1 | urge |  
+| bip_39_word_space_10 | urge museum mad omit jacket bleak wire earn catch intact |  
+| bip_39_word_space_11 | urge museum mad omit jacket bleak wire earn catch intact more |  
+| bip_39_word_space_12 | urge museum mad omit jacket bleak wire earn catch intact more assist |  
+| bip_39_word_space_2 | urge museum |  
+| bip_39_word_space_3 | urge museum mad |  
+| bip_39_word_space_4 | urge museum mad omit |  
+| bip_39_word_space_5 | urge museum mad omit jacket |  
+| bip_39_word_space_6 | urge museum mad omit jacket bleak |  
+| bip_39_word_space_7 | urge museum mad omit jacket bleak wire |  
+| bip_39_word_space_8 | urge museum mad omit jacket bleak wire earn |  
+| bip_39_word_space_9 | urge museum mad omit jacket bleak wire earn catch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

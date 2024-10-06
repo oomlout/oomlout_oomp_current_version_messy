@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: color shrimp
+  * bip 39 word 3: color shrimp depth
+  * bip 39 word: color shrimp depth nice hedgehog clean piece solar tired pact fit able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | color |  
+| bip_39_word_new_br10 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean<br>piece<br>solar<br>tired<br>pact |  
+| bip_39_word_new_br11 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean<br>piece<br>solar<br>tired<br>pact<br>fit |  
+| bip_39_word_new_br12 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean<br>piece<br>solar<br>tired<br>pact<br>fit<br>able |  
+| bip_39_word_new_br2 | color<br>shrimp |  
+| bip_39_word_new_br3 | color<br>shrimp<br>depth |  
+| bip_39_word_new_br4 | color<br>shrimp<br>depth<br>nice |  
+| bip_39_word_new_br5 | color<br>shrimp<br>depth<br>nice<br>hedgehog |  
+| bip_39_word_new_br6 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean |  
+| bip_39_word_new_br7 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean<br>piece |  
+| bip_39_word_new_br8 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean<br>piece<br>solar |  
+| bip_39_word_new_br9 | color<br>shrimp<br>depth<br>nice<br>hedgehog<br>clean<br>piece<br>solar<br>tired |  
+| bip_39_word_new_line1 | color |  
+| bip_39_word_new_line10 | color
+shrimp
+depth
+nice
+hedgehog
+clean
+piece
+solar
+tired
+pact |  
+| bip_39_word_new_line11 | color
+shrimp
+depth
+nice
+hedgehog
+clean
+piece
+solar
+tired
+pact
+fit |  
+| bip_39_word_new_line12 | color
+shrimp
+depth
+nice
+hedgehog
+clean
+piece
+solar
+tired
+pact
+fit
+able |  
+| bip_39_word_new_line2 | color
+shrimp |  
+| bip_39_word_new_line3 | color
+shrimp
+depth |  
+| bip_39_word_new_line4 | color
+shrimp
+depth
+nice |  
+| bip_39_word_new_line5 | color
+shrimp
+depth
+nice
+hedgehog |  
+| bip_39_word_new_line6 | color
+shrimp
+depth
+nice
+hedgehog
+clean |  
+| bip_39_word_new_line7 | color
+shrimp
+depth
+nice
+hedgehog
+clean
+piece |  
+| bip_39_word_new_line8 | color
+shrimp
+depth
+nice
+hedgehog
+clean
+piece
+solar |  
+| bip_39_word_new_line9 | color
+shrimp
+depth
+nice
+hedgehog
+clean
+piece
+solar
+tired |  
+| bip_39_word_space_0 | ['color', 'shrimp', 'depth', 'nice', 'hedgehog', 'clean', 'piece', 'solar', 'tired', 'pact', 'fit', 'able'] |  
+| bip_39_word_space_1 | color |  
+| bip_39_word_space_10 | color shrimp depth nice hedgehog clean piece solar tired pact |  
+| bip_39_word_space_11 | color shrimp depth nice hedgehog clean piece solar tired pact fit |  
+| bip_39_word_space_12 | color shrimp depth nice hedgehog clean piece solar tired pact fit able |  
+| bip_39_word_space_2 | color shrimp |  
+| bip_39_word_space_3 | color shrimp depth |  
+| bip_39_word_space_4 | color shrimp depth nice |  
+| bip_39_word_space_5 | color shrimp depth nice hedgehog |  
+| bip_39_word_space_6 | color shrimp depth nice hedgehog clean |  
+| bip_39_word_space_7 | color shrimp depth nice hedgehog clean piece |  
+| bip_39_word_space_8 | color shrimp depth nice hedgehog clean piece solar |  
+| bip_39_word_space_9 | color shrimp depth nice hedgehog clean piece solar tired |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

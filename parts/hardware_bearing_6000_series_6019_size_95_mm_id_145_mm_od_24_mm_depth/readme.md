@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: approve token
+  * bip 39 word 3: approve token despair
+  * bip 39 word: approve token despair cinnamon believe foam cover maximum tree arrive bullet argue
 
 ### other_codes
 * short_code: br6019
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | approve |  
+| bip_39_word_new_br10 | approve<br>token<br>despair<br>cinnamon<br>believe<br>foam<br>cover<br>maximum<br>tree<br>arrive |  
+| bip_39_word_new_br11 | approve<br>token<br>despair<br>cinnamon<br>believe<br>foam<br>cover<br>maximum<br>tree<br>arrive<br>bullet |  
+| bip_39_word_new_br12 | approve<br>token<br>despair<br>cinnamon<br>believe<br>foam<br>cover<br>maximum<br>tree<br>arrive<br>bullet<br>argue |  
+| bip_39_word_new_br2 | approve<br>token |  
+| bip_39_word_new_br3 | approve<br>token<br>despair |  
+| bip_39_word_new_br4 | approve<br>token<br>despair<br>cinnamon |  
+| bip_39_word_new_br5 | approve<br>token<br>despair<br>cinnamon<br>believe |  
+| bip_39_word_new_br6 | approve<br>token<br>despair<br>cinnamon<br>believe<br>foam |  
+| bip_39_word_new_br7 | approve<br>token<br>despair<br>cinnamon<br>believe<br>foam<br>cover |  
+| bip_39_word_new_br8 | approve<br>token<br>despair<br>cinnamon<br>believe<br>foam<br>cover<br>maximum |  
+| bip_39_word_new_br9 | approve<br>token<br>despair<br>cinnamon<br>believe<br>foam<br>cover<br>maximum<br>tree |  
+| bip_39_word_new_line1 | approve |  
+| bip_39_word_new_line10 | approve
+token
+despair
+cinnamon
+believe
+foam
+cover
+maximum
+tree
+arrive |  
+| bip_39_word_new_line11 | approve
+token
+despair
+cinnamon
+believe
+foam
+cover
+maximum
+tree
+arrive
+bullet |  
+| bip_39_word_new_line12 | approve
+token
+despair
+cinnamon
+believe
+foam
+cover
+maximum
+tree
+arrive
+bullet
+argue |  
+| bip_39_word_new_line2 | approve
+token |  
+| bip_39_word_new_line3 | approve
+token
+despair |  
+| bip_39_word_new_line4 | approve
+token
+despair
+cinnamon |  
+| bip_39_word_new_line5 | approve
+token
+despair
+cinnamon
+believe |  
+| bip_39_word_new_line6 | approve
+token
+despair
+cinnamon
+believe
+foam |  
+| bip_39_word_new_line7 | approve
+token
+despair
+cinnamon
+believe
+foam
+cover |  
+| bip_39_word_new_line8 | approve
+token
+despair
+cinnamon
+believe
+foam
+cover
+maximum |  
+| bip_39_word_new_line9 | approve
+token
+despair
+cinnamon
+believe
+foam
+cover
+maximum
+tree |  
+| bip_39_word_space_0 | ['approve', 'token', 'despair', 'cinnamon', 'believe', 'foam', 'cover', 'maximum', 'tree', 'arrive', 'bullet', 'argue'] |  
+| bip_39_word_space_1 | approve |  
+| bip_39_word_space_10 | approve token despair cinnamon believe foam cover maximum tree arrive |  
+| bip_39_word_space_11 | approve token despair cinnamon believe foam cover maximum tree arrive bullet |  
+| bip_39_word_space_12 | approve token despair cinnamon believe foam cover maximum tree arrive bullet argue |  
+| bip_39_word_space_2 | approve token |  
+| bip_39_word_space_3 | approve token despair |  
+| bip_39_word_space_4 | approve token despair cinnamon |  
+| bip_39_word_space_5 | approve token despair cinnamon believe |  
+| bip_39_word_space_6 | approve token despair cinnamon believe foam |  
+| bip_39_word_space_7 | approve token despair cinnamon believe foam cover |  
+| bip_39_word_space_8 | approve token despair cinnamon believe foam cover maximum |  
+| bip_39_word_space_9 | approve token despair cinnamon believe foam cover maximum tree |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

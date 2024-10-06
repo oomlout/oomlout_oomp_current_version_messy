@@ -1,3 +1,186 @@
+bip_39_word_new_br1: resist
+bip_39_word_new_br10: resist<br>shop<br>reunion<br>camp<br>sweet<br>split<br>stomach<br>now<br>thrive<br>ice
+bip_39_word_new_br11: resist<br>shop<br>reunion<br>camp<br>sweet<br>split<br>stomach<br>now<br>thrive<br>ice<br>shoulder
+bip_39_word_new_br12: resist<br>shop<br>reunion<br>camp<br>sweet<br>split<br>stomach<br>now<br>thrive<br>ice<br>shoulder<br>ankle
+bip_39_word_new_br2: resist<br>shop
+bip_39_word_new_br3: resist<br>shop<br>reunion
+bip_39_word_new_br4: resist<br>shop<br>reunion<br>camp
+bip_39_word_new_br5: resist<br>shop<br>reunion<br>camp<br>sweet
+bip_39_word_new_br6: resist<br>shop<br>reunion<br>camp<br>sweet<br>split
+bip_39_word_new_br7: resist<br>shop<br>reunion<br>camp<br>sweet<br>split<br>stomach
+bip_39_word_new_br8: resist<br>shop<br>reunion<br>camp<br>sweet<br>split<br>stomach<br>now
+bip_39_word_new_br9: resist<br>shop<br>reunion<br>camp<br>sweet<br>split<br>stomach<br>now<br>thrive
+bip_39_word_new_line1: resist
+bip_39_word_new_line10: 'resist
+
+  shop
+
+  reunion
+
+  camp
+
+  sweet
+
+  split
+
+  stomach
+
+  now
+
+  thrive
+
+  ice'
+bip_39_word_new_line11: 'resist
+
+  shop
+
+  reunion
+
+  camp
+
+  sweet
+
+  split
+
+  stomach
+
+  now
+
+  thrive
+
+  ice
+
+  shoulder'
+bip_39_word_new_line12: 'resist
+
+  shop
+
+  reunion
+
+  camp
+
+  sweet
+
+  split
+
+  stomach
+
+  now
+
+  thrive
+
+  ice
+
+  shoulder
+
+  ankle'
+bip_39_word_new_line2: 'resist
+
+  shop'
+bip_39_word_new_line3: 'resist
+
+  shop
+
+  reunion'
+bip_39_word_new_line4: 'resist
+
+  shop
+
+  reunion
+
+  camp'
+bip_39_word_new_line5: 'resist
+
+  shop
+
+  reunion
+
+  camp
+
+  sweet'
+bip_39_word_new_line6: 'resist
+
+  shop
+
+  reunion
+
+  camp
+
+  sweet
+
+  split'
+bip_39_word_new_line7: 'resist
+
+  shop
+
+  reunion
+
+  camp
+
+  sweet
+
+  split
+
+  stomach'
+bip_39_word_new_line8: 'resist
+
+  shop
+
+  reunion
+
+  camp
+
+  sweet
+
+  split
+
+  stomach
+
+  now'
+bip_39_word_new_line9: 'resist
+
+  shop
+
+  reunion
+
+  camp
+
+  sweet
+
+  split
+
+  stomach
+
+  now
+
+  thrive'
+bip_39_word_space_0:
+- resist
+- shop
+- reunion
+- camp
+- sweet
+- split
+- stomach
+- now
+- thrive
+- ice
+- shoulder
+- ankle
+bip_39_word_space_1: resist
+bip_39_word_space_10: resist shop reunion camp sweet split stomach now thrive ice
+bip_39_word_space_11: resist shop reunion camp sweet split stomach now thrive ice
+  shoulder
+bip_39_word_space_12: resist shop reunion camp sweet split stomach now thrive ice
+  shoulder ankle
+bip_39_word_space_2: resist shop
+bip_39_word_space_3: resist shop reunion
+bip_39_word_space_4: resist shop reunion camp
+bip_39_word_space_5: resist shop reunion camp sweet
+bip_39_word_space_6: resist shop reunion camp sweet split
+bip_39_word_space_7: resist shop reunion camp sweet split stomach
+bip_39_word_space_8: resist shop reunion camp sweet split stomach now
+bip_39_word_space_9: resist shop reunion camp sweet split stomach now thrive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

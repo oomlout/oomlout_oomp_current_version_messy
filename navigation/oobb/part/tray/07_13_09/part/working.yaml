@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chief
+bip_39_word_new_br10: chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm
+bip_39_word_new_br11: chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm<br>few
+bip_39_word_new_br12: chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream<br>confirm<br>few<br>already
+bip_39_word_new_br2: chief<br>rebel
+bip_39_word_new_br3: chief<br>rebel<br>green
+bip_39_word_new_br4: chief<br>rebel<br>green<br>panic
+bip_39_word_new_br5: chief<br>rebel<br>green<br>panic<br>pink
+bip_39_word_new_br6: chief<br>rebel<br>green<br>panic<br>pink<br>rocket
+bip_39_word_new_br7: chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique
+bip_39_word_new_br8: chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum
+bip_39_word_new_br9: chief<br>rebel<br>green<br>panic<br>pink<br>rocket<br>unique<br>quantum<br>dream
+bip_39_word_new_line1: chief
+bip_39_word_new_line10: 'chief
+
+  rebel
+
+  green
+
+  panic
+
+  pink
+
+  rocket
+
+  unique
+
+  quantum
+
+  dream
+
+  confirm'
+bip_39_word_new_line11: 'chief
+
+  rebel
+
+  green
+
+  panic
+
+  pink
+
+  rocket
+
+  unique
+
+  quantum
+
+  dream
+
+  confirm
+
+  few'
+bip_39_word_new_line12: 'chief
+
+  rebel
+
+  green
+
+  panic
+
+  pink
+
+  rocket
+
+  unique
+
+  quantum
+
+  dream
+
+  confirm
+
+  few
+
+  already'
+bip_39_word_new_line2: 'chief
+
+  rebel'
+bip_39_word_new_line3: 'chief
+
+  rebel
+
+  green'
+bip_39_word_new_line4: 'chief
+
+  rebel
+
+  green
+
+  panic'
+bip_39_word_new_line5: 'chief
+
+  rebel
+
+  green
+
+  panic
+
+  pink'
+bip_39_word_new_line6: 'chief
+
+  rebel
+
+  green
+
+  panic
+
+  pink
+
+  rocket'
+bip_39_word_new_line7: 'chief
+
+  rebel
+
+  green
+
+  panic
+
+  pink
+
+  rocket
+
+  unique'
+bip_39_word_new_line8: 'chief
+
+  rebel
+
+  green
+
+  panic
+
+  pink
+
+  rocket
+
+  unique
+
+  quantum'
+bip_39_word_new_line9: 'chief
+
+  rebel
+
+  green
+
+  panic
+
+  pink
+
+  rocket
+
+  unique
+
+  quantum
+
+  dream'
+bip_39_word_space_0:
+- chief
+- rebel
+- green
+- panic
+- pink
+- rocket
+- unique
+- quantum
+- dream
+- confirm
+- few
+- already
+bip_39_word_space_1: chief
+bip_39_word_space_10: chief rebel green panic pink rocket unique quantum dream confirm
+bip_39_word_space_11: chief rebel green panic pink rocket unique quantum dream confirm
+  few
+bip_39_word_space_12: chief rebel green panic pink rocket unique quantum dream confirm
+  few already
+bip_39_word_space_2: chief rebel
+bip_39_word_space_3: chief rebel green
+bip_39_word_space_4: chief rebel green panic
+bip_39_word_space_5: chief rebel green panic pink
+bip_39_word_space_6: chief rebel green panic pink rocket
+bip_39_word_space_7: chief rebel green panic pink rocket unique
+bip_39_word_space_8: chief rebel green panic pink rocket unique quantum
+bip_39_word_space_9: chief rebel green panic pink rocket unique quantum dream
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

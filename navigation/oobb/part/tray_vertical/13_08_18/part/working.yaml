@@ -1,3 +1,187 @@
+bip_39_word_new_br1: enhance
+bip_39_word_new_br10: enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor<br>legal<br>parent<br>unhappy<br>giant
+bip_39_word_new_br11: enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor<br>legal<br>parent<br>unhappy<br>giant<br>super
+bip_39_word_new_br12: enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor<br>legal<br>parent<br>unhappy<br>giant<br>super<br>above
+bip_39_word_new_br2: enhance<br>forget
+bip_39_word_new_br3: enhance<br>forget<br>hire
+bip_39_word_new_br4: enhance<br>forget<br>hire<br>clarify
+bip_39_word_new_br5: enhance<br>forget<br>hire<br>clarify<br>nuclear
+bip_39_word_new_br6: enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor
+bip_39_word_new_br7: enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor<br>legal
+bip_39_word_new_br8: enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor<br>legal<br>parent
+bip_39_word_new_br9: enhance<br>forget<br>hire<br>clarify<br>nuclear<br>monitor<br>legal<br>parent<br>unhappy
+bip_39_word_new_line1: enhance
+bip_39_word_new_line10: 'enhance
+
+  forget
+
+  hire
+
+  clarify
+
+  nuclear
+
+  monitor
+
+  legal
+
+  parent
+
+  unhappy
+
+  giant'
+bip_39_word_new_line11: 'enhance
+
+  forget
+
+  hire
+
+  clarify
+
+  nuclear
+
+  monitor
+
+  legal
+
+  parent
+
+  unhappy
+
+  giant
+
+  super'
+bip_39_word_new_line12: 'enhance
+
+  forget
+
+  hire
+
+  clarify
+
+  nuclear
+
+  monitor
+
+  legal
+
+  parent
+
+  unhappy
+
+  giant
+
+  super
+
+  above'
+bip_39_word_new_line2: 'enhance
+
+  forget'
+bip_39_word_new_line3: 'enhance
+
+  forget
+
+  hire'
+bip_39_word_new_line4: 'enhance
+
+  forget
+
+  hire
+
+  clarify'
+bip_39_word_new_line5: 'enhance
+
+  forget
+
+  hire
+
+  clarify
+
+  nuclear'
+bip_39_word_new_line6: 'enhance
+
+  forget
+
+  hire
+
+  clarify
+
+  nuclear
+
+  monitor'
+bip_39_word_new_line7: 'enhance
+
+  forget
+
+  hire
+
+  clarify
+
+  nuclear
+
+  monitor
+
+  legal'
+bip_39_word_new_line8: 'enhance
+
+  forget
+
+  hire
+
+  clarify
+
+  nuclear
+
+  monitor
+
+  legal
+
+  parent'
+bip_39_word_new_line9: 'enhance
+
+  forget
+
+  hire
+
+  clarify
+
+  nuclear
+
+  monitor
+
+  legal
+
+  parent
+
+  unhappy'
+bip_39_word_space_0:
+- enhance
+- forget
+- hire
+- clarify
+- nuclear
+- monitor
+- legal
+- parent
+- unhappy
+- giant
+- super
+- above
+bip_39_word_space_1: enhance
+bip_39_word_space_10: enhance forget hire clarify nuclear monitor legal parent unhappy
+  giant
+bip_39_word_space_11: enhance forget hire clarify nuclear monitor legal parent unhappy
+  giant super
+bip_39_word_space_12: enhance forget hire clarify nuclear monitor legal parent unhappy
+  giant super above
+bip_39_word_space_2: enhance forget
+bip_39_word_space_3: enhance forget hire
+bip_39_word_space_4: enhance forget hire clarify
+bip_39_word_space_5: enhance forget hire clarify nuclear
+bip_39_word_space_6: enhance forget hire clarify nuclear monitor
+bip_39_word_space_7: enhance forget hire clarify nuclear monitor legal
+bip_39_word_space_8: enhance forget hire clarify nuclear monitor legal parent
+bip_39_word_space_9: enhance forget hire clarify nuclear monitor legal parent unhappy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

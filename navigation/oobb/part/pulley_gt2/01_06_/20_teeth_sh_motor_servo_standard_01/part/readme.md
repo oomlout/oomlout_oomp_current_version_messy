@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ladder music
+  * bip 39 word 3: ladder music elevator
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ladder |  
+| bip_39_word_new_br10 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft<br>twelve |  
+| bip_39_word_new_br11 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft<br>twelve<br>found |  
+| bip_39_word_new_br2 | ladder<br>music |  
+| bip_39_word_new_br3 | ladder<br>music<br>elevator |  
+| bip_39_word_new_br4 | ladder<br>music<br>elevator<br>faint |  
+| bip_39_word_new_br5 | ladder<br>music<br>elevator<br>faint<br>delay |  
+| bip_39_word_new_br6 | ladder<br>music<br>elevator<br>faint<br>delay<br>power |  
+| bip_39_word_new_br7 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog |  
+| bip_39_word_new_br8 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb |  
+| bip_39_word_new_br9 | ladder<br>music<br>elevator<br>faint<br>delay<br>power<br>frog<br>absorb<br>draft |  
+| bip_39_word_new_line1 | ladder |  
+| bip_39_word_new_line10 | ladder
+music
+elevator
+faint
+delay
+power
+frog
+absorb
+draft
+twelve |  
+| bip_39_word_new_line11 | ladder
+music
+elevator
+faint
+delay
+power
+frog
+absorb
+draft
+twelve
+found |  
+| bip_39_word_new_line2 | ladder
+music |  
+| bip_39_word_new_line3 | ladder
+music
+elevator |  
+| bip_39_word_new_line4 | ladder
+music
+elevator
+faint |  
+| bip_39_word_new_line5 | ladder
+music
+elevator
+faint
+delay |  
+| bip_39_word_new_line6 | ladder
+music
+elevator
+faint
+delay
+power |  
+| bip_39_word_new_line7 | ladder
+music
+elevator
+faint
+delay
+power
+frog |  
+| bip_39_word_new_line8 | ladder
+music
+elevator
+faint
+delay
+power
+frog
+absorb |  
+| bip_39_word_new_line9 | ladder
+music
+elevator
+faint
+delay
+power
+frog
+absorb
+draft |  
+| bip_39_word_space_0 | ['ladder', 'music', 'elevator', 'faint', 'delay', 'power', 'frog', 'absorb', 'draft', 'twelve', 'found'] |  
+| bip_39_word_space_1 | ladder |  
+| bip_39_word_space_10 | ladder music elevator faint delay power frog absorb draft twelve |  
+| bip_39_word_space_11 | ladder music elevator faint delay power frog absorb draft twelve found |  
+| bip_39_word_space_2 | ladder music |  
+| bip_39_word_space_3 | ladder music elevator |  
+| bip_39_word_space_4 | ladder music elevator faint |  
+| bip_39_word_space_5 | ladder music elevator faint delay |  
+| bip_39_word_space_6 | ladder music elevator faint delay power |  
+| bip_39_word_space_7 | ladder music elevator faint delay power frog |  
+| bip_39_word_space_8 | ladder music elevator faint delay power frog absorb |  
+| bip_39_word_space_9 | ladder music elevator faint delay power frog absorb draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

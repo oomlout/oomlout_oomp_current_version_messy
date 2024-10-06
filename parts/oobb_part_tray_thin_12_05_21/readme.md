@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frost jazz
+  * bip 39 word 3: frost jazz glove
+  * bip 39 word: frost jazz glove west boil rival maze fancy jar random feed artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frost |  
+| bip_39_word_new_br10 | frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar<br>random |  
+| bip_39_word_new_br11 | frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar<br>random<br>feed |  
+| bip_39_word_new_br12 | frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar<br>random<br>feed<br>artwork |  
+| bip_39_word_new_br2 | frost<br>jazz |  
+| bip_39_word_new_br3 | frost<br>jazz<br>glove |  
+| bip_39_word_new_br4 | frost<br>jazz<br>glove<br>west |  
+| bip_39_word_new_br5 | frost<br>jazz<br>glove<br>west<br>boil |  
+| bip_39_word_new_br6 | frost<br>jazz<br>glove<br>west<br>boil<br>rival |  
+| bip_39_word_new_br7 | frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze |  
+| bip_39_word_new_br8 | frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy |  
+| bip_39_word_new_br9 | frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar |  
+| bip_39_word_new_line1 | frost |  
+| bip_39_word_new_line10 | frost
+jazz
+glove
+west
+boil
+rival
+maze
+fancy
+jar
+random |  
+| bip_39_word_new_line11 | frost
+jazz
+glove
+west
+boil
+rival
+maze
+fancy
+jar
+random
+feed |  
+| bip_39_word_new_line12 | frost
+jazz
+glove
+west
+boil
+rival
+maze
+fancy
+jar
+random
+feed
+artwork |  
+| bip_39_word_new_line2 | frost
+jazz |  
+| bip_39_word_new_line3 | frost
+jazz
+glove |  
+| bip_39_word_new_line4 | frost
+jazz
+glove
+west |  
+| bip_39_word_new_line5 | frost
+jazz
+glove
+west
+boil |  
+| bip_39_word_new_line6 | frost
+jazz
+glove
+west
+boil
+rival |  
+| bip_39_word_new_line7 | frost
+jazz
+glove
+west
+boil
+rival
+maze |  
+| bip_39_word_new_line8 | frost
+jazz
+glove
+west
+boil
+rival
+maze
+fancy |  
+| bip_39_word_new_line9 | frost
+jazz
+glove
+west
+boil
+rival
+maze
+fancy
+jar |  
+| bip_39_word_space_0 | ['frost', 'jazz', 'glove', 'west', 'boil', 'rival', 'maze', 'fancy', 'jar', 'random', 'feed', 'artwork'] |  
+| bip_39_word_space_1 | frost |  
+| bip_39_word_space_10 | frost jazz glove west boil rival maze fancy jar random |  
+| bip_39_word_space_11 | frost jazz glove west boil rival maze fancy jar random feed |  
+| bip_39_word_space_12 | frost jazz glove west boil rival maze fancy jar random feed artwork |  
+| bip_39_word_space_2 | frost jazz |  
+| bip_39_word_space_3 | frost jazz glove |  
+| bip_39_word_space_4 | frost jazz glove west |  
+| bip_39_word_space_5 | frost jazz glove west boil |  
+| bip_39_word_space_6 | frost jazz glove west boil rival |  
+| bip_39_word_space_7 | frost jazz glove west boil rival maze |  
+| bip_39_word_space_8 | frost jazz glove west boil rival maze fancy |  
+| bip_39_word_space_9 | frost jazz glove west boil rival maze fancy jar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: inch
+bip_39_word_new_br10: inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen
+bip_39_word_new_br11: inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen<br>manual
+bip_39_word_new_br12: inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear<br>kitchen<br>manual<br>advance
+bip_39_word_new_br2: inch<br>replace
+bip_39_word_new_br3: inch<br>replace<br>sample
+bip_39_word_new_br4: inch<br>replace<br>sample<br>enter
+bip_39_word_new_br5: inch<br>replace<br>sample<br>enter<br>require
+bip_39_word_new_br6: inch<br>replace<br>sample<br>enter<br>require<br>scare
+bip_39_word_new_br7: inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special
+bip_39_word_new_br8: inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish
+bip_39_word_new_br9: inch<br>replace<br>sample<br>enter<br>require<br>scare<br>special<br>fish<br>swear
+bip_39_word_new_line1: inch
+bip_39_word_new_line10: 'inch
+
+  replace
+
+  sample
+
+  enter
+
+  require
+
+  scare
+
+  special
+
+  fish
+
+  swear
+
+  kitchen'
+bip_39_word_new_line11: 'inch
+
+  replace
+
+  sample
+
+  enter
+
+  require
+
+  scare
+
+  special
+
+  fish
+
+  swear
+
+  kitchen
+
+  manual'
+bip_39_word_new_line12: 'inch
+
+  replace
+
+  sample
+
+  enter
+
+  require
+
+  scare
+
+  special
+
+  fish
+
+  swear
+
+  kitchen
+
+  manual
+
+  advance'
+bip_39_word_new_line2: 'inch
+
+  replace'
+bip_39_word_new_line3: 'inch
+
+  replace
+
+  sample'
+bip_39_word_new_line4: 'inch
+
+  replace
+
+  sample
+
+  enter'
+bip_39_word_new_line5: 'inch
+
+  replace
+
+  sample
+
+  enter
+
+  require'
+bip_39_word_new_line6: 'inch
+
+  replace
+
+  sample
+
+  enter
+
+  require
+
+  scare'
+bip_39_word_new_line7: 'inch
+
+  replace
+
+  sample
+
+  enter
+
+  require
+
+  scare
+
+  special'
+bip_39_word_new_line8: 'inch
+
+  replace
+
+  sample
+
+  enter
+
+  require
+
+  scare
+
+  special
+
+  fish'
+bip_39_word_new_line9: 'inch
+
+  replace
+
+  sample
+
+  enter
+
+  require
+
+  scare
+
+  special
+
+  fish
+
+  swear'
+bip_39_word_space_0:
+- inch
+- replace
+- sample
+- enter
+- require
+- scare
+- special
+- fish
+- swear
+- kitchen
+- manual
+- advance
+bip_39_word_space_1: inch
+bip_39_word_space_10: inch replace sample enter require scare special fish swear kitchen
+bip_39_word_space_11: inch replace sample enter require scare special fish swear kitchen
+  manual
+bip_39_word_space_12: inch replace sample enter require scare special fish swear kitchen
+  manual advance
+bip_39_word_space_2: inch replace
+bip_39_word_space_3: inch replace sample
+bip_39_word_space_4: inch replace sample enter
+bip_39_word_space_5: inch replace sample enter require
+bip_39_word_space_6: inch replace sample enter require scare
+bip_39_word_space_7: inch replace sample enter require scare special
+bip_39_word_space_8: inch replace sample enter require scare special fish
+bip_39_word_space_9: inch replace sample enter require scare special fish swear
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

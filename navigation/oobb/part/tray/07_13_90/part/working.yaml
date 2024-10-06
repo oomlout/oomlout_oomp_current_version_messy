@@ -1,3 +1,186 @@
+bip_39_word_new_br1: expand
+bip_39_word_new_br10: expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy
+bip_39_word_new_br11: expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy<br>staff
+bip_39_word_new_br12: expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type<br>shy<br>staff<br>audit
+bip_39_word_new_br2: expand<br>carry
+bip_39_word_new_br3: expand<br>carry<br>world
+bip_39_word_new_br4: expand<br>carry<br>world<br>decline
+bip_39_word_new_br5: expand<br>carry<br>world<br>decline<br>crush
+bip_39_word_new_br6: expand<br>carry<br>world<br>decline<br>crush<br>unusual
+bip_39_word_new_br7: expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle
+bip_39_word_new_br8: expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess
+bip_39_word_new_br9: expand<br>carry<br>world<br>decline<br>crush<br>unusual<br>angle<br>excess<br>type
+bip_39_word_new_line1: expand
+bip_39_word_new_line10: 'expand
+
+  carry
+
+  world
+
+  decline
+
+  crush
+
+  unusual
+
+  angle
+
+  excess
+
+  type
+
+  shy'
+bip_39_word_new_line11: 'expand
+
+  carry
+
+  world
+
+  decline
+
+  crush
+
+  unusual
+
+  angle
+
+  excess
+
+  type
+
+  shy
+
+  staff'
+bip_39_word_new_line12: 'expand
+
+  carry
+
+  world
+
+  decline
+
+  crush
+
+  unusual
+
+  angle
+
+  excess
+
+  type
+
+  shy
+
+  staff
+
+  audit'
+bip_39_word_new_line2: 'expand
+
+  carry'
+bip_39_word_new_line3: 'expand
+
+  carry
+
+  world'
+bip_39_word_new_line4: 'expand
+
+  carry
+
+  world
+
+  decline'
+bip_39_word_new_line5: 'expand
+
+  carry
+
+  world
+
+  decline
+
+  crush'
+bip_39_word_new_line6: 'expand
+
+  carry
+
+  world
+
+  decline
+
+  crush
+
+  unusual'
+bip_39_word_new_line7: 'expand
+
+  carry
+
+  world
+
+  decline
+
+  crush
+
+  unusual
+
+  angle'
+bip_39_word_new_line8: 'expand
+
+  carry
+
+  world
+
+  decline
+
+  crush
+
+  unusual
+
+  angle
+
+  excess'
+bip_39_word_new_line9: 'expand
+
+  carry
+
+  world
+
+  decline
+
+  crush
+
+  unusual
+
+  angle
+
+  excess
+
+  type'
+bip_39_word_space_0:
+- expand
+- carry
+- world
+- decline
+- crush
+- unusual
+- angle
+- excess
+- type
+- shy
+- staff
+- audit
+bip_39_word_space_1: expand
+bip_39_word_space_10: expand carry world decline crush unusual angle excess type shy
+bip_39_word_space_11: expand carry world decline crush unusual angle excess type shy
+  staff
+bip_39_word_space_12: expand carry world decline crush unusual angle excess type shy
+  staff audit
+bip_39_word_space_2: expand carry
+bip_39_word_space_3: expand carry world
+bip_39_word_space_4: expand carry world decline
+bip_39_word_space_5: expand carry world decline crush
+bip_39_word_space_6: expand carry world decline crush unusual
+bip_39_word_space_7: expand carry world decline crush unusual angle
+bip_39_word_space_8: expand carry world decline crush unusual angle excess
+bip_39_word_space_9: expand carry world decline crush unusual angle excess type
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

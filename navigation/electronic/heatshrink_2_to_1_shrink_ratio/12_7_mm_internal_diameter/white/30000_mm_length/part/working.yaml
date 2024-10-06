@@ -1,3 +1,186 @@
+bip_39_word_new_br1: risk
+bip_39_word_new_br10: risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic
+bip_39_word_new_br11: risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic<br>lesson
+bip_39_word_new_br12: risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler<br>drastic<br>lesson<br>annual
+bip_39_word_new_br2: risk<br>empty
+bip_39_word_new_br3: risk<br>empty<br>mail
+bip_39_word_new_br4: risk<br>empty<br>mail<br>tonight
+bip_39_word_new_br5: risk<br>empty<br>mail<br>tonight<br>siege
+bip_39_word_new_br6: risk<br>empty<br>mail<br>tonight<br>siege<br>next
+bip_39_word_new_br7: risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load
+bip_39_word_new_br8: risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit
+bip_39_word_new_br9: risk<br>empty<br>mail<br>tonight<br>siege<br>next<br>load<br>profit<br>toddler
+bip_39_word_new_line1: risk
+bip_39_word_new_line10: 'risk
+
+  empty
+
+  mail
+
+  tonight
+
+  siege
+
+  next
+
+  load
+
+  profit
+
+  toddler
+
+  drastic'
+bip_39_word_new_line11: 'risk
+
+  empty
+
+  mail
+
+  tonight
+
+  siege
+
+  next
+
+  load
+
+  profit
+
+  toddler
+
+  drastic
+
+  lesson'
+bip_39_word_new_line12: 'risk
+
+  empty
+
+  mail
+
+  tonight
+
+  siege
+
+  next
+
+  load
+
+  profit
+
+  toddler
+
+  drastic
+
+  lesson
+
+  annual'
+bip_39_word_new_line2: 'risk
+
+  empty'
+bip_39_word_new_line3: 'risk
+
+  empty
+
+  mail'
+bip_39_word_new_line4: 'risk
+
+  empty
+
+  mail
+
+  tonight'
+bip_39_word_new_line5: 'risk
+
+  empty
+
+  mail
+
+  tonight
+
+  siege'
+bip_39_word_new_line6: 'risk
+
+  empty
+
+  mail
+
+  tonight
+
+  siege
+
+  next'
+bip_39_word_new_line7: 'risk
+
+  empty
+
+  mail
+
+  tonight
+
+  siege
+
+  next
+
+  load'
+bip_39_word_new_line8: 'risk
+
+  empty
+
+  mail
+
+  tonight
+
+  siege
+
+  next
+
+  load
+
+  profit'
+bip_39_word_new_line9: 'risk
+
+  empty
+
+  mail
+
+  tonight
+
+  siege
+
+  next
+
+  load
+
+  profit
+
+  toddler'
+bip_39_word_space_0:
+- risk
+- empty
+- mail
+- tonight
+- siege
+- next
+- load
+- profit
+- toddler
+- drastic
+- lesson
+- annual
+bip_39_word_space_1: risk
+bip_39_word_space_10: risk empty mail tonight siege next load profit toddler drastic
+bip_39_word_space_11: risk empty mail tonight siege next load profit toddler drastic
+  lesson
+bip_39_word_space_12: risk empty mail tonight siege next load profit toddler drastic
+  lesson annual
+bip_39_word_space_2: risk empty
+bip_39_word_space_3: risk empty mail
+bip_39_word_space_4: risk empty mail tonight
+bip_39_word_space_5: risk empty mail tonight siege
+bip_39_word_space_6: risk empty mail tonight siege next
+bip_39_word_space_7: risk empty mail tonight siege next load
+bip_39_word_space_8: risk empty mail tonight siege next load profit
+bip_39_word_space_9: risk empty mail tonight siege next load profit toddler
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

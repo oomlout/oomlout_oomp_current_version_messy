@@ -1,3 +1,185 @@
+bip_39_word_new_br1: 'off'
+bip_39_word_new_br10: off<br>sun<br>secret<br>proof<br>proud<br>bench<br>shell<br>gasp<br>crawl<br>jacket
+bip_39_word_new_br11: off<br>sun<br>secret<br>proof<br>proud<br>bench<br>shell<br>gasp<br>crawl<br>jacket<br>right
+bip_39_word_new_br12: off<br>sun<br>secret<br>proof<br>proud<br>bench<br>shell<br>gasp<br>crawl<br>jacket<br>right<br>army
+bip_39_word_new_br2: off<br>sun
+bip_39_word_new_br3: off<br>sun<br>secret
+bip_39_word_new_br4: off<br>sun<br>secret<br>proof
+bip_39_word_new_br5: off<br>sun<br>secret<br>proof<br>proud
+bip_39_word_new_br6: off<br>sun<br>secret<br>proof<br>proud<br>bench
+bip_39_word_new_br7: off<br>sun<br>secret<br>proof<br>proud<br>bench<br>shell
+bip_39_word_new_br8: off<br>sun<br>secret<br>proof<br>proud<br>bench<br>shell<br>gasp
+bip_39_word_new_br9: off<br>sun<br>secret<br>proof<br>proud<br>bench<br>shell<br>gasp<br>crawl
+bip_39_word_new_line1: 'off'
+bip_39_word_new_line10: 'off
+
+  sun
+
+  secret
+
+  proof
+
+  proud
+
+  bench
+
+  shell
+
+  gasp
+
+  crawl
+
+  jacket'
+bip_39_word_new_line11: 'off
+
+  sun
+
+  secret
+
+  proof
+
+  proud
+
+  bench
+
+  shell
+
+  gasp
+
+  crawl
+
+  jacket
+
+  right'
+bip_39_word_new_line12: 'off
+
+  sun
+
+  secret
+
+  proof
+
+  proud
+
+  bench
+
+  shell
+
+  gasp
+
+  crawl
+
+  jacket
+
+  right
+
+  army'
+bip_39_word_new_line2: 'off
+
+  sun'
+bip_39_word_new_line3: 'off
+
+  sun
+
+  secret'
+bip_39_word_new_line4: 'off
+
+  sun
+
+  secret
+
+  proof'
+bip_39_word_new_line5: 'off
+
+  sun
+
+  secret
+
+  proof
+
+  proud'
+bip_39_word_new_line6: 'off
+
+  sun
+
+  secret
+
+  proof
+
+  proud
+
+  bench'
+bip_39_word_new_line7: 'off
+
+  sun
+
+  secret
+
+  proof
+
+  proud
+
+  bench
+
+  shell'
+bip_39_word_new_line8: 'off
+
+  sun
+
+  secret
+
+  proof
+
+  proud
+
+  bench
+
+  shell
+
+  gasp'
+bip_39_word_new_line9: 'off
+
+  sun
+
+  secret
+
+  proof
+
+  proud
+
+  bench
+
+  shell
+
+  gasp
+
+  crawl'
+bip_39_word_space_0:
+- 'off'
+- sun
+- secret
+- proof
+- proud
+- bench
+- shell
+- gasp
+- crawl
+- jacket
+- right
+- army
+bip_39_word_space_1: 'off'
+bip_39_word_space_10: off sun secret proof proud bench shell gasp crawl jacket
+bip_39_word_space_11: off sun secret proof proud bench shell gasp crawl jacket right
+bip_39_word_space_12: off sun secret proof proud bench shell gasp crawl jacket right
+  army
+bip_39_word_space_2: off sun
+bip_39_word_space_3: off sun secret
+bip_39_word_space_4: off sun secret proof
+bip_39_word_space_5: off sun secret proof proud
+bip_39_word_space_6: off sun secret proof proud bench
+bip_39_word_space_7: off sun secret proof proud bench shell
+bip_39_word_space_8: off sun secret proof proud bench shell gasp
+bip_39_word_space_9: off sun secret proof proud bench shell gasp crawl
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

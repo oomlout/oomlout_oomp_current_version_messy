@@ -1,3 +1,186 @@
+bip_39_word_new_br1: silk
+bip_39_word_new_br10: silk<br>solve<br>film<br>refuse<br>share<br>expose<br>extend<br>mobile<br>glue<br>action
+bip_39_word_new_br11: silk<br>solve<br>film<br>refuse<br>share<br>expose<br>extend<br>mobile<br>glue<br>action<br>bottom
+bip_39_word_new_br12: silk<br>solve<br>film<br>refuse<br>share<br>expose<br>extend<br>mobile<br>glue<br>action<br>bottom<br>alter
+bip_39_word_new_br2: silk<br>solve
+bip_39_word_new_br3: silk<br>solve<br>film
+bip_39_word_new_br4: silk<br>solve<br>film<br>refuse
+bip_39_word_new_br5: silk<br>solve<br>film<br>refuse<br>share
+bip_39_word_new_br6: silk<br>solve<br>film<br>refuse<br>share<br>expose
+bip_39_word_new_br7: silk<br>solve<br>film<br>refuse<br>share<br>expose<br>extend
+bip_39_word_new_br8: silk<br>solve<br>film<br>refuse<br>share<br>expose<br>extend<br>mobile
+bip_39_word_new_br9: silk<br>solve<br>film<br>refuse<br>share<br>expose<br>extend<br>mobile<br>glue
+bip_39_word_new_line1: silk
+bip_39_word_new_line10: 'silk
+
+  solve
+
+  film
+
+  refuse
+
+  share
+
+  expose
+
+  extend
+
+  mobile
+
+  glue
+
+  action'
+bip_39_word_new_line11: 'silk
+
+  solve
+
+  film
+
+  refuse
+
+  share
+
+  expose
+
+  extend
+
+  mobile
+
+  glue
+
+  action
+
+  bottom'
+bip_39_word_new_line12: 'silk
+
+  solve
+
+  film
+
+  refuse
+
+  share
+
+  expose
+
+  extend
+
+  mobile
+
+  glue
+
+  action
+
+  bottom
+
+  alter'
+bip_39_word_new_line2: 'silk
+
+  solve'
+bip_39_word_new_line3: 'silk
+
+  solve
+
+  film'
+bip_39_word_new_line4: 'silk
+
+  solve
+
+  film
+
+  refuse'
+bip_39_word_new_line5: 'silk
+
+  solve
+
+  film
+
+  refuse
+
+  share'
+bip_39_word_new_line6: 'silk
+
+  solve
+
+  film
+
+  refuse
+
+  share
+
+  expose'
+bip_39_word_new_line7: 'silk
+
+  solve
+
+  film
+
+  refuse
+
+  share
+
+  expose
+
+  extend'
+bip_39_word_new_line8: 'silk
+
+  solve
+
+  film
+
+  refuse
+
+  share
+
+  expose
+
+  extend
+
+  mobile'
+bip_39_word_new_line9: 'silk
+
+  solve
+
+  film
+
+  refuse
+
+  share
+
+  expose
+
+  extend
+
+  mobile
+
+  glue'
+bip_39_word_space_0:
+- silk
+- solve
+- film
+- refuse
+- share
+- expose
+- extend
+- mobile
+- glue
+- action
+- bottom
+- alter
+bip_39_word_space_1: silk
+bip_39_word_space_10: silk solve film refuse share expose extend mobile glue action
+bip_39_word_space_11: silk solve film refuse share expose extend mobile glue action
+  bottom
+bip_39_word_space_12: silk solve film refuse share expose extend mobile glue action
+  bottom alter
+bip_39_word_space_2: silk solve
+bip_39_word_space_3: silk solve film
+bip_39_word_space_4: silk solve film refuse
+bip_39_word_space_5: silk solve film refuse share
+bip_39_word_space_6: silk solve film refuse share expose
+bip_39_word_space_7: silk solve film refuse share expose extend
+bip_39_word_space_8: silk solve film refuse share expose extend mobile
+bip_39_word_space_9: silk solve film refuse share expose extend mobile glue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

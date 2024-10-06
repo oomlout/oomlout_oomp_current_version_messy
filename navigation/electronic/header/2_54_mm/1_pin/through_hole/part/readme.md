@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: off potato
+  * bip 39 word 3: off potato daughter
+  * bip 39 word: off potato daughter merry gasp decorate label own suggest few stomach adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | off |  
+| bip_39_word_new_br10 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest<br>few |  
+| bip_39_word_new_br11 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest<br>few<br>stomach |  
+| bip_39_word_new_br12 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest<br>few<br>stomach<br>adapt |  
+| bip_39_word_new_br2 | off<br>potato |  
+| bip_39_word_new_br3 | off<br>potato<br>daughter |  
+| bip_39_word_new_br4 | off<br>potato<br>daughter<br>merry |  
+| bip_39_word_new_br5 | off<br>potato<br>daughter<br>merry<br>gasp |  
+| bip_39_word_new_br6 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate |  
+| bip_39_word_new_br7 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label |  
+| bip_39_word_new_br8 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own |  
+| bip_39_word_new_br9 | off<br>potato<br>daughter<br>merry<br>gasp<br>decorate<br>label<br>own<br>suggest |  
+| bip_39_word_new_line1 | off |  
+| bip_39_word_new_line10 | off
+potato
+daughter
+merry
+gasp
+decorate
+label
+own
+suggest
+few |  
+| bip_39_word_new_line11 | off
+potato
+daughter
+merry
+gasp
+decorate
+label
+own
+suggest
+few
+stomach |  
+| bip_39_word_new_line12 | off
+potato
+daughter
+merry
+gasp
+decorate
+label
+own
+suggest
+few
+stomach
+adapt |  
+| bip_39_word_new_line2 | off
+potato |  
+| bip_39_word_new_line3 | off
+potato
+daughter |  
+| bip_39_word_new_line4 | off
+potato
+daughter
+merry |  
+| bip_39_word_new_line5 | off
+potato
+daughter
+merry
+gasp |  
+| bip_39_word_new_line6 | off
+potato
+daughter
+merry
+gasp
+decorate |  
+| bip_39_word_new_line7 | off
+potato
+daughter
+merry
+gasp
+decorate
+label |  
+| bip_39_word_new_line8 | off
+potato
+daughter
+merry
+gasp
+decorate
+label
+own |  
+| bip_39_word_new_line9 | off
+potato
+daughter
+merry
+gasp
+decorate
+label
+own
+suggest |  
+| bip_39_word_space_0 | ['off', 'potato', 'daughter', 'merry', 'gasp', 'decorate', 'label', 'own', 'suggest', 'few', 'stomach', 'adapt'] |  
+| bip_39_word_space_1 | off |  
+| bip_39_word_space_10 | off potato daughter merry gasp decorate label own suggest few |  
+| bip_39_word_space_11 | off potato daughter merry gasp decorate label own suggest few stomach |  
+| bip_39_word_space_12 | off potato daughter merry gasp decorate label own suggest few stomach adapt |  
+| bip_39_word_space_2 | off potato |  
+| bip_39_word_space_3 | off potato daughter |  
+| bip_39_word_space_4 | off potato daughter merry |  
+| bip_39_word_space_5 | off potato daughter merry gasp |  
+| bip_39_word_space_6 | off potato daughter merry gasp decorate |  
+| bip_39_word_space_7 | off potato daughter merry gasp decorate label |  
+| bip_39_word_space_8 | off potato daughter merry gasp decorate label own |  
+| bip_39_word_space_9 | off potato daughter merry gasp decorate label own suggest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

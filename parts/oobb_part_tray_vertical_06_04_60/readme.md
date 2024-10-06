@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: seed miss
+  * bip 39 word 3: seed miss mountain
+  * bip 39 word: seed miss mountain fiscal knee sponsor elite cheap term congress wife artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | seed |  
+| bip_39_word_new_br10 | seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor<br>elite<br>cheap<br>term<br>congress |  
+| bip_39_word_new_br11 | seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor<br>elite<br>cheap<br>term<br>congress<br>wife |  
+| bip_39_word_new_br12 | seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor<br>elite<br>cheap<br>term<br>congress<br>wife<br>artist |  
+| bip_39_word_new_br2 | seed<br>miss |  
+| bip_39_word_new_br3 | seed<br>miss<br>mountain |  
+| bip_39_word_new_br4 | seed<br>miss<br>mountain<br>fiscal |  
+| bip_39_word_new_br5 | seed<br>miss<br>mountain<br>fiscal<br>knee |  
+| bip_39_word_new_br6 | seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor |  
+| bip_39_word_new_br7 | seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor<br>elite |  
+| bip_39_word_new_br8 | seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor<br>elite<br>cheap |  
+| bip_39_word_new_br9 | seed<br>miss<br>mountain<br>fiscal<br>knee<br>sponsor<br>elite<br>cheap<br>term |  
+| bip_39_word_new_line1 | seed |  
+| bip_39_word_new_line10 | seed
+miss
+mountain
+fiscal
+knee
+sponsor
+elite
+cheap
+term
+congress |  
+| bip_39_word_new_line11 | seed
+miss
+mountain
+fiscal
+knee
+sponsor
+elite
+cheap
+term
+congress
+wife |  
+| bip_39_word_new_line12 | seed
+miss
+mountain
+fiscal
+knee
+sponsor
+elite
+cheap
+term
+congress
+wife
+artist |  
+| bip_39_word_new_line2 | seed
+miss |  
+| bip_39_word_new_line3 | seed
+miss
+mountain |  
+| bip_39_word_new_line4 | seed
+miss
+mountain
+fiscal |  
+| bip_39_word_new_line5 | seed
+miss
+mountain
+fiscal
+knee |  
+| bip_39_word_new_line6 | seed
+miss
+mountain
+fiscal
+knee
+sponsor |  
+| bip_39_word_new_line7 | seed
+miss
+mountain
+fiscal
+knee
+sponsor
+elite |  
+| bip_39_word_new_line8 | seed
+miss
+mountain
+fiscal
+knee
+sponsor
+elite
+cheap |  
+| bip_39_word_new_line9 | seed
+miss
+mountain
+fiscal
+knee
+sponsor
+elite
+cheap
+term |  
+| bip_39_word_space_0 | ['seed', 'miss', 'mountain', 'fiscal', 'knee', 'sponsor', 'elite', 'cheap', 'term', 'congress', 'wife', 'artist'] |  
+| bip_39_word_space_1 | seed |  
+| bip_39_word_space_10 | seed miss mountain fiscal knee sponsor elite cheap term congress |  
+| bip_39_word_space_11 | seed miss mountain fiscal knee sponsor elite cheap term congress wife |  
+| bip_39_word_space_12 | seed miss mountain fiscal knee sponsor elite cheap term congress wife artist |  
+| bip_39_word_space_2 | seed miss |  
+| bip_39_word_space_3 | seed miss mountain |  
+| bip_39_word_space_4 | seed miss mountain fiscal |  
+| bip_39_word_space_5 | seed miss mountain fiscal knee |  
+| bip_39_word_space_6 | seed miss mountain fiscal knee sponsor |  
+| bip_39_word_space_7 | seed miss mountain fiscal knee sponsor elite |  
+| bip_39_word_space_8 | seed miss mountain fiscal knee sponsor elite cheap |  
+| bip_39_word_space_9 | seed miss mountain fiscal knee sponsor elite cheap term |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

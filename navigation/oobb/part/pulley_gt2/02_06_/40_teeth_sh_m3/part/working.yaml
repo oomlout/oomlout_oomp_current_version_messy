@@ -1,3 +1,185 @@
+bip_39_word_new_br1: dizzy
+bip_39_word_new_br10: dizzy<br>sail<br>bench<br>pair<br>age<br>filter<br>olive<br>visa<br>impact<br>junk
+bip_39_word_new_br11: dizzy<br>sail<br>bench<br>pair<br>age<br>filter<br>olive<br>visa<br>impact<br>junk<br>churn
+bip_39_word_new_br12: dizzy<br>sail<br>bench<br>pair<br>age<br>filter<br>olive<br>visa<br>impact<br>junk<br>churn<br>audit
+bip_39_word_new_br2: dizzy<br>sail
+bip_39_word_new_br3: dizzy<br>sail<br>bench
+bip_39_word_new_br4: dizzy<br>sail<br>bench<br>pair
+bip_39_word_new_br5: dizzy<br>sail<br>bench<br>pair<br>age
+bip_39_word_new_br6: dizzy<br>sail<br>bench<br>pair<br>age<br>filter
+bip_39_word_new_br7: dizzy<br>sail<br>bench<br>pair<br>age<br>filter<br>olive
+bip_39_word_new_br8: dizzy<br>sail<br>bench<br>pair<br>age<br>filter<br>olive<br>visa
+bip_39_word_new_br9: dizzy<br>sail<br>bench<br>pair<br>age<br>filter<br>olive<br>visa<br>impact
+bip_39_word_new_line1: dizzy
+bip_39_word_new_line10: 'dizzy
+
+  sail
+
+  bench
+
+  pair
+
+  age
+
+  filter
+
+  olive
+
+  visa
+
+  impact
+
+  junk'
+bip_39_word_new_line11: 'dizzy
+
+  sail
+
+  bench
+
+  pair
+
+  age
+
+  filter
+
+  olive
+
+  visa
+
+  impact
+
+  junk
+
+  churn'
+bip_39_word_new_line12: 'dizzy
+
+  sail
+
+  bench
+
+  pair
+
+  age
+
+  filter
+
+  olive
+
+  visa
+
+  impact
+
+  junk
+
+  churn
+
+  audit'
+bip_39_word_new_line2: 'dizzy
+
+  sail'
+bip_39_word_new_line3: 'dizzy
+
+  sail
+
+  bench'
+bip_39_word_new_line4: 'dizzy
+
+  sail
+
+  bench
+
+  pair'
+bip_39_word_new_line5: 'dizzy
+
+  sail
+
+  bench
+
+  pair
+
+  age'
+bip_39_word_new_line6: 'dizzy
+
+  sail
+
+  bench
+
+  pair
+
+  age
+
+  filter'
+bip_39_word_new_line7: 'dizzy
+
+  sail
+
+  bench
+
+  pair
+
+  age
+
+  filter
+
+  olive'
+bip_39_word_new_line8: 'dizzy
+
+  sail
+
+  bench
+
+  pair
+
+  age
+
+  filter
+
+  olive
+
+  visa'
+bip_39_word_new_line9: 'dizzy
+
+  sail
+
+  bench
+
+  pair
+
+  age
+
+  filter
+
+  olive
+
+  visa
+
+  impact'
+bip_39_word_space_0:
+- dizzy
+- sail
+- bench
+- pair
+- age
+- filter
+- olive
+- visa
+- impact
+- junk
+- churn
+- audit
+bip_39_word_space_1: dizzy
+bip_39_word_space_10: dizzy sail bench pair age filter olive visa impact junk
+bip_39_word_space_11: dizzy sail bench pair age filter olive visa impact junk churn
+bip_39_word_space_12: dizzy sail bench pair age filter olive visa impact junk churn
+  audit
+bip_39_word_space_2: dizzy sail
+bip_39_word_space_3: dizzy sail bench
+bip_39_word_space_4: dizzy sail bench pair
+bip_39_word_space_5: dizzy sail bench pair age
+bip_39_word_space_6: dizzy sail bench pair age filter
+bip_39_word_space_7: dizzy sail bench pair age filter olive
+bip_39_word_space_8: dizzy sail bench pair age filter olive visa
+bip_39_word_space_9: dizzy sail bench pair age filter olive visa impact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

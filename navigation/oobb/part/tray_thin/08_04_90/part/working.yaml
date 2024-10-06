@@ -1,3 +1,186 @@
+bip_39_word_new_br1: taxi
+bip_39_word_new_br10: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology<br>west<br>term<br>cushion<br>grocery
+bip_39_word_new_br11: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology<br>west<br>term<br>cushion<br>grocery<br>popular
+bip_39_word_new_br12: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology<br>west<br>term<br>cushion<br>grocery<br>popular<br>artefact
+bip_39_word_new_br2: taxi<br>awkward
+bip_39_word_new_br3: taxi<br>awkward<br>hamster
+bip_39_word_new_br4: taxi<br>awkward<br>hamster<br>army
+bip_39_word_new_br5: taxi<br>awkward<br>hamster<br>army<br>annual
+bip_39_word_new_br6: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology
+bip_39_word_new_br7: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology<br>west
+bip_39_word_new_br8: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology<br>west<br>term
+bip_39_word_new_br9: taxi<br>awkward<br>hamster<br>army<br>annual<br>biology<br>west<br>term<br>cushion
+bip_39_word_new_line1: taxi
+bip_39_word_new_line10: 'taxi
+
+  awkward
+
+  hamster
+
+  army
+
+  annual
+
+  biology
+
+  west
+
+  term
+
+  cushion
+
+  grocery'
+bip_39_word_new_line11: 'taxi
+
+  awkward
+
+  hamster
+
+  army
+
+  annual
+
+  biology
+
+  west
+
+  term
+
+  cushion
+
+  grocery
+
+  popular'
+bip_39_word_new_line12: 'taxi
+
+  awkward
+
+  hamster
+
+  army
+
+  annual
+
+  biology
+
+  west
+
+  term
+
+  cushion
+
+  grocery
+
+  popular
+
+  artefact'
+bip_39_word_new_line2: 'taxi
+
+  awkward'
+bip_39_word_new_line3: 'taxi
+
+  awkward
+
+  hamster'
+bip_39_word_new_line4: 'taxi
+
+  awkward
+
+  hamster
+
+  army'
+bip_39_word_new_line5: 'taxi
+
+  awkward
+
+  hamster
+
+  army
+
+  annual'
+bip_39_word_new_line6: 'taxi
+
+  awkward
+
+  hamster
+
+  army
+
+  annual
+
+  biology'
+bip_39_word_new_line7: 'taxi
+
+  awkward
+
+  hamster
+
+  army
+
+  annual
+
+  biology
+
+  west'
+bip_39_word_new_line8: 'taxi
+
+  awkward
+
+  hamster
+
+  army
+
+  annual
+
+  biology
+
+  west
+
+  term'
+bip_39_word_new_line9: 'taxi
+
+  awkward
+
+  hamster
+
+  army
+
+  annual
+
+  biology
+
+  west
+
+  term
+
+  cushion'
+bip_39_word_space_0:
+- taxi
+- awkward
+- hamster
+- army
+- annual
+- biology
+- west
+- term
+- cushion
+- grocery
+- popular
+- artefact
+bip_39_word_space_1: taxi
+bip_39_word_space_10: taxi awkward hamster army annual biology west term cushion grocery
+bip_39_word_space_11: taxi awkward hamster army annual biology west term cushion grocery
+  popular
+bip_39_word_space_12: taxi awkward hamster army annual biology west term cushion grocery
+  popular artefact
+bip_39_word_space_2: taxi awkward
+bip_39_word_space_3: taxi awkward hamster
+bip_39_word_space_4: taxi awkward hamster army
+bip_39_word_space_5: taxi awkward hamster army annual
+bip_39_word_space_6: taxi awkward hamster army annual biology
+bip_39_word_space_7: taxi awkward hamster army annual biology west
+bip_39_word_space_8: taxi awkward hamster army annual biology west term
+bip_39_word_space_9: taxi awkward hamster army annual biology west term cushion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

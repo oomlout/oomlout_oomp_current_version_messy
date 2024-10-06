@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: antique noodle
+  * bip 39 word 3: antique noodle provide
+  * bip 39 word: antique noodle provide lion six fame walnut decorate ship zero glide artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | antique |  
+| bip_39_word_new_br10 | antique<br>noodle<br>provide<br>lion<br>six<br>fame<br>walnut<br>decorate<br>ship<br>zero |  
+| bip_39_word_new_br11 | antique<br>noodle<br>provide<br>lion<br>six<br>fame<br>walnut<br>decorate<br>ship<br>zero<br>glide |  
+| bip_39_word_new_br12 | antique<br>noodle<br>provide<br>lion<br>six<br>fame<br>walnut<br>decorate<br>ship<br>zero<br>glide<br>artist |  
+| bip_39_word_new_br2 | antique<br>noodle |  
+| bip_39_word_new_br3 | antique<br>noodle<br>provide |  
+| bip_39_word_new_br4 | antique<br>noodle<br>provide<br>lion |  
+| bip_39_word_new_br5 | antique<br>noodle<br>provide<br>lion<br>six |  
+| bip_39_word_new_br6 | antique<br>noodle<br>provide<br>lion<br>six<br>fame |  
+| bip_39_word_new_br7 | antique<br>noodle<br>provide<br>lion<br>six<br>fame<br>walnut |  
+| bip_39_word_new_br8 | antique<br>noodle<br>provide<br>lion<br>six<br>fame<br>walnut<br>decorate |  
+| bip_39_word_new_br9 | antique<br>noodle<br>provide<br>lion<br>six<br>fame<br>walnut<br>decorate<br>ship |  
+| bip_39_word_new_line1 | antique |  
+| bip_39_word_new_line10 | antique
+noodle
+provide
+lion
+six
+fame
+walnut
+decorate
+ship
+zero |  
+| bip_39_word_new_line11 | antique
+noodle
+provide
+lion
+six
+fame
+walnut
+decorate
+ship
+zero
+glide |  
+| bip_39_word_new_line12 | antique
+noodle
+provide
+lion
+six
+fame
+walnut
+decorate
+ship
+zero
+glide
+artist |  
+| bip_39_word_new_line2 | antique
+noodle |  
+| bip_39_word_new_line3 | antique
+noodle
+provide |  
+| bip_39_word_new_line4 | antique
+noodle
+provide
+lion |  
+| bip_39_word_new_line5 | antique
+noodle
+provide
+lion
+six |  
+| bip_39_word_new_line6 | antique
+noodle
+provide
+lion
+six
+fame |  
+| bip_39_word_new_line7 | antique
+noodle
+provide
+lion
+six
+fame
+walnut |  
+| bip_39_word_new_line8 | antique
+noodle
+provide
+lion
+six
+fame
+walnut
+decorate |  
+| bip_39_word_new_line9 | antique
+noodle
+provide
+lion
+six
+fame
+walnut
+decorate
+ship |  
+| bip_39_word_space_0 | ['antique', 'noodle', 'provide', 'lion', 'six', 'fame', 'walnut', 'decorate', 'ship', 'zero', 'glide', 'artist'] |  
+| bip_39_word_space_1 | antique |  
+| bip_39_word_space_10 | antique noodle provide lion six fame walnut decorate ship zero |  
+| bip_39_word_space_11 | antique noodle provide lion six fame walnut decorate ship zero glide |  
+| bip_39_word_space_12 | antique noodle provide lion six fame walnut decorate ship zero glide artist |  
+| bip_39_word_space_2 | antique noodle |  
+| bip_39_word_space_3 | antique noodle provide |  
+| bip_39_word_space_4 | antique noodle provide lion |  
+| bip_39_word_space_5 | antique noodle provide lion six |  
+| bip_39_word_space_6 | antique noodle provide lion six fame |  
+| bip_39_word_space_7 | antique noodle provide lion six fame walnut |  
+| bip_39_word_space_8 | antique noodle provide lion six fame walnut decorate |  
+| bip_39_word_space_9 | antique noodle provide lion six fame walnut decorate ship |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

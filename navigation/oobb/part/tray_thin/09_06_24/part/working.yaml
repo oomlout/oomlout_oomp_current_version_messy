@@ -1,3 +1,187 @@
+bip_39_word_new_br1: report
+bip_39_word_new_br10: report<br>subway<br>bid<br>latin<br>cousin<br>jelly<br>indicate<br>thunder<br>olympic<br>castle
+bip_39_word_new_br11: report<br>subway<br>bid<br>latin<br>cousin<br>jelly<br>indicate<br>thunder<br>olympic<br>castle<br>rebuild
+bip_39_word_new_br12: report<br>subway<br>bid<br>latin<br>cousin<br>jelly<br>indicate<br>thunder<br>olympic<br>castle<br>rebuild<br>act
+bip_39_word_new_br2: report<br>subway
+bip_39_word_new_br3: report<br>subway<br>bid
+bip_39_word_new_br4: report<br>subway<br>bid<br>latin
+bip_39_word_new_br5: report<br>subway<br>bid<br>latin<br>cousin
+bip_39_word_new_br6: report<br>subway<br>bid<br>latin<br>cousin<br>jelly
+bip_39_word_new_br7: report<br>subway<br>bid<br>latin<br>cousin<br>jelly<br>indicate
+bip_39_word_new_br8: report<br>subway<br>bid<br>latin<br>cousin<br>jelly<br>indicate<br>thunder
+bip_39_word_new_br9: report<br>subway<br>bid<br>latin<br>cousin<br>jelly<br>indicate<br>thunder<br>olympic
+bip_39_word_new_line1: report
+bip_39_word_new_line10: 'report
+
+  subway
+
+  bid
+
+  latin
+
+  cousin
+
+  jelly
+
+  indicate
+
+  thunder
+
+  olympic
+
+  castle'
+bip_39_word_new_line11: 'report
+
+  subway
+
+  bid
+
+  latin
+
+  cousin
+
+  jelly
+
+  indicate
+
+  thunder
+
+  olympic
+
+  castle
+
+  rebuild'
+bip_39_word_new_line12: 'report
+
+  subway
+
+  bid
+
+  latin
+
+  cousin
+
+  jelly
+
+  indicate
+
+  thunder
+
+  olympic
+
+  castle
+
+  rebuild
+
+  act'
+bip_39_word_new_line2: 'report
+
+  subway'
+bip_39_word_new_line3: 'report
+
+  subway
+
+  bid'
+bip_39_word_new_line4: 'report
+
+  subway
+
+  bid
+
+  latin'
+bip_39_word_new_line5: 'report
+
+  subway
+
+  bid
+
+  latin
+
+  cousin'
+bip_39_word_new_line6: 'report
+
+  subway
+
+  bid
+
+  latin
+
+  cousin
+
+  jelly'
+bip_39_word_new_line7: 'report
+
+  subway
+
+  bid
+
+  latin
+
+  cousin
+
+  jelly
+
+  indicate'
+bip_39_word_new_line8: 'report
+
+  subway
+
+  bid
+
+  latin
+
+  cousin
+
+  jelly
+
+  indicate
+
+  thunder'
+bip_39_word_new_line9: 'report
+
+  subway
+
+  bid
+
+  latin
+
+  cousin
+
+  jelly
+
+  indicate
+
+  thunder
+
+  olympic'
+bip_39_word_space_0:
+- report
+- subway
+- bid
+- latin
+- cousin
+- jelly
+- indicate
+- thunder
+- olympic
+- castle
+- rebuild
+- act
+bip_39_word_space_1: report
+bip_39_word_space_10: report subway bid latin cousin jelly indicate thunder olympic
+  castle
+bip_39_word_space_11: report subway bid latin cousin jelly indicate thunder olympic
+  castle rebuild
+bip_39_word_space_12: report subway bid latin cousin jelly indicate thunder olympic
+  castle rebuild act
+bip_39_word_space_2: report subway
+bip_39_word_space_3: report subway bid
+bip_39_word_space_4: report subway bid latin
+bip_39_word_space_5: report subway bid latin cousin
+bip_39_word_space_6: report subway bid latin cousin jelly
+bip_39_word_space_7: report subway bid latin cousin jelly indicate
+bip_39_word_space_8: report subway bid latin cousin jelly indicate thunder
+bip_39_word_space_9: report subway bid latin cousin jelly indicate thunder olympic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

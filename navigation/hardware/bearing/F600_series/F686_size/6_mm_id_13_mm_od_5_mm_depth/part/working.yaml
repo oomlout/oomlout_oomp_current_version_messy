@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fresh
+bip_39_word_new_br10: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart<br>rule
+bip_39_word_new_br11: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart<br>rule<br>cactus
+bip_39_word_new_br12: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart<br>rule<br>cactus<br>ability
+bip_39_word_new_br2: fresh<br>tip
+bip_39_word_new_br3: fresh<br>tip<br>recipe
+bip_39_word_new_br4: fresh<br>tip<br>recipe<br>impact
+bip_39_word_new_br5: fresh<br>tip<br>recipe<br>impact<br>milk
+bip_39_word_new_br6: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy
+bip_39_word_new_br7: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight
+bip_39_word_new_br8: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water
+bip_39_word_new_br9: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart
+bip_39_word_new_line1: fresh
+bip_39_word_new_line10: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water
+
+  apart
+
+  rule'
+bip_39_word_new_line11: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water
+
+  apart
+
+  rule
+
+  cactus'
+bip_39_word_new_line12: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water
+
+  apart
+
+  rule
+
+  cactus
+
+  ability'
+bip_39_word_new_line2: 'fresh
+
+  tip'
+bip_39_word_new_line3: 'fresh
+
+  tip
+
+  recipe'
+bip_39_word_new_line4: 'fresh
+
+  tip
+
+  recipe
+
+  impact'
+bip_39_word_new_line5: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk'
+bip_39_word_new_line6: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy'
+bip_39_word_new_line7: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight'
+bip_39_word_new_line8: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water'
+bip_39_word_new_line9: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water
+
+  apart'
+bip_39_word_space_0:
+- fresh
+- tip
+- recipe
+- impact
+- milk
+- destroy
+- eight
+- water
+- apart
+- rule
+- cactus
+- ability
+bip_39_word_space_1: fresh
+bip_39_word_space_10: fresh tip recipe impact milk destroy eight water apart rule
+bip_39_word_space_11: fresh tip recipe impact milk destroy eight water apart rule
+  cactus
+bip_39_word_space_12: fresh tip recipe impact milk destroy eight water apart rule
+  cactus ability
+bip_39_word_space_2: fresh tip
+bip_39_word_space_3: fresh tip recipe
+bip_39_word_space_4: fresh tip recipe impact
+bip_39_word_space_5: fresh tip recipe impact milk
+bip_39_word_space_6: fresh tip recipe impact milk destroy
+bip_39_word_space_7: fresh tip recipe impact milk destroy eight
+bip_39_word_space_8: fresh tip recipe impact milk destroy eight water
+bip_39_word_space_9: fresh tip recipe impact milk destroy eight water apart
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

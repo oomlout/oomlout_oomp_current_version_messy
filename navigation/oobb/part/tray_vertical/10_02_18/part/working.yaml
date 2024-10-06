@@ -1,3 +1,187 @@
+bip_39_word_new_br1: medal
+bip_39_word_new_br10: medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause<br>ribbon<br>gain<br>river<br>eye
+bip_39_word_new_br11: medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause<br>ribbon<br>gain<br>river<br>eye<br>ladder
+bip_39_word_new_br12: medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause<br>ribbon<br>gain<br>river<br>eye<br>ladder<br>absurd
+bip_39_word_new_br2: medal<br>suspect
+bip_39_word_new_br3: medal<br>suspect<br>patrol
+bip_39_word_new_br4: medal<br>suspect<br>patrol<br>rather
+bip_39_word_new_br5: medal<br>suspect<br>patrol<br>rather<br>ostrich
+bip_39_word_new_br6: medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause
+bip_39_word_new_br7: medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause<br>ribbon
+bip_39_word_new_br8: medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause<br>ribbon<br>gain
+bip_39_word_new_br9: medal<br>suspect<br>patrol<br>rather<br>ostrich<br>cause<br>ribbon<br>gain<br>river
+bip_39_word_new_line1: medal
+bip_39_word_new_line10: 'medal
+
+  suspect
+
+  patrol
+
+  rather
+
+  ostrich
+
+  cause
+
+  ribbon
+
+  gain
+
+  river
+
+  eye'
+bip_39_word_new_line11: 'medal
+
+  suspect
+
+  patrol
+
+  rather
+
+  ostrich
+
+  cause
+
+  ribbon
+
+  gain
+
+  river
+
+  eye
+
+  ladder'
+bip_39_word_new_line12: 'medal
+
+  suspect
+
+  patrol
+
+  rather
+
+  ostrich
+
+  cause
+
+  ribbon
+
+  gain
+
+  river
+
+  eye
+
+  ladder
+
+  absurd'
+bip_39_word_new_line2: 'medal
+
+  suspect'
+bip_39_word_new_line3: 'medal
+
+  suspect
+
+  patrol'
+bip_39_word_new_line4: 'medal
+
+  suspect
+
+  patrol
+
+  rather'
+bip_39_word_new_line5: 'medal
+
+  suspect
+
+  patrol
+
+  rather
+
+  ostrich'
+bip_39_word_new_line6: 'medal
+
+  suspect
+
+  patrol
+
+  rather
+
+  ostrich
+
+  cause'
+bip_39_word_new_line7: 'medal
+
+  suspect
+
+  patrol
+
+  rather
+
+  ostrich
+
+  cause
+
+  ribbon'
+bip_39_word_new_line8: 'medal
+
+  suspect
+
+  patrol
+
+  rather
+
+  ostrich
+
+  cause
+
+  ribbon
+
+  gain'
+bip_39_word_new_line9: 'medal
+
+  suspect
+
+  patrol
+
+  rather
+
+  ostrich
+
+  cause
+
+  ribbon
+
+  gain
+
+  river'
+bip_39_word_space_0:
+- medal
+- suspect
+- patrol
+- rather
+- ostrich
+- cause
+- ribbon
+- gain
+- river
+- eye
+- ladder
+- absurd
+bip_39_word_space_1: medal
+bip_39_word_space_10: medal suspect patrol rather ostrich cause ribbon gain river
+  eye
+bip_39_word_space_11: medal suspect patrol rather ostrich cause ribbon gain river
+  eye ladder
+bip_39_word_space_12: medal suspect patrol rather ostrich cause ribbon gain river
+  eye ladder absurd
+bip_39_word_space_2: medal suspect
+bip_39_word_space_3: medal suspect patrol
+bip_39_word_space_4: medal suspect patrol rather
+bip_39_word_space_5: medal suspect patrol rather ostrich
+bip_39_word_space_6: medal suspect patrol rather ostrich cause
+bip_39_word_space_7: medal suspect patrol rather ostrich cause ribbon
+bip_39_word_space_8: medal suspect patrol rather ostrich cause ribbon gain
+bip_39_word_space_9: medal suspect patrol rather ostrich cause ribbon gain river
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: practice jungle
+  * bip 39 word 3: practice jungle check
+  * bip 39 word: practice jungle check subway there story use cement urban jacket vapor alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | practice |  
+| bip_39_word_new_br10 | practice<br>jungle<br>check<br>subway<br>there<br>story<br>use<br>cement<br>urban<br>jacket |  
+| bip_39_word_new_br11 | practice<br>jungle<br>check<br>subway<br>there<br>story<br>use<br>cement<br>urban<br>jacket<br>vapor |  
+| bip_39_word_new_br12 | practice<br>jungle<br>check<br>subway<br>there<br>story<br>use<br>cement<br>urban<br>jacket<br>vapor<br>alone |  
+| bip_39_word_new_br2 | practice<br>jungle |  
+| bip_39_word_new_br3 | practice<br>jungle<br>check |  
+| bip_39_word_new_br4 | practice<br>jungle<br>check<br>subway |  
+| bip_39_word_new_br5 | practice<br>jungle<br>check<br>subway<br>there |  
+| bip_39_word_new_br6 | practice<br>jungle<br>check<br>subway<br>there<br>story |  
+| bip_39_word_new_br7 | practice<br>jungle<br>check<br>subway<br>there<br>story<br>use |  
+| bip_39_word_new_br8 | practice<br>jungle<br>check<br>subway<br>there<br>story<br>use<br>cement |  
+| bip_39_word_new_br9 | practice<br>jungle<br>check<br>subway<br>there<br>story<br>use<br>cement<br>urban |  
+| bip_39_word_new_line1 | practice |  
+| bip_39_word_new_line10 | practice
+jungle
+check
+subway
+there
+story
+use
+cement
+urban
+jacket |  
+| bip_39_word_new_line11 | practice
+jungle
+check
+subway
+there
+story
+use
+cement
+urban
+jacket
+vapor |  
+| bip_39_word_new_line12 | practice
+jungle
+check
+subway
+there
+story
+use
+cement
+urban
+jacket
+vapor
+alone |  
+| bip_39_word_new_line2 | practice
+jungle |  
+| bip_39_word_new_line3 | practice
+jungle
+check |  
+| bip_39_word_new_line4 | practice
+jungle
+check
+subway |  
+| bip_39_word_new_line5 | practice
+jungle
+check
+subway
+there |  
+| bip_39_word_new_line6 | practice
+jungle
+check
+subway
+there
+story |  
+| bip_39_word_new_line7 | practice
+jungle
+check
+subway
+there
+story
+use |  
+| bip_39_word_new_line8 | practice
+jungle
+check
+subway
+there
+story
+use
+cement |  
+| bip_39_word_new_line9 | practice
+jungle
+check
+subway
+there
+story
+use
+cement
+urban |  
+| bip_39_word_space_0 | ['practice', 'jungle', 'check', 'subway', 'there', 'story', 'use', 'cement', 'urban', 'jacket', 'vapor', 'alone'] |  
+| bip_39_word_space_1 | practice |  
+| bip_39_word_space_10 | practice jungle check subway there story use cement urban jacket |  
+| bip_39_word_space_11 | practice jungle check subway there story use cement urban jacket vapor |  
+| bip_39_word_space_12 | practice jungle check subway there story use cement urban jacket vapor alone |  
+| bip_39_word_space_2 | practice jungle |  
+| bip_39_word_space_3 | practice jungle check |  
+| bip_39_word_space_4 | practice jungle check subway |  
+| bip_39_word_space_5 | practice jungle check subway there |  
+| bip_39_word_space_6 | practice jungle check subway there story |  
+| bip_39_word_space_7 | practice jungle check subway there story use |  
+| bip_39_word_space_8 | practice jungle check subway there story use cement |  
+| bip_39_word_space_9 | practice jungle check subway there story use cement urban |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

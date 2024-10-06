@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gold
+bip_39_word_new_br10: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general<br>once
+bip_39_word_new_br11: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general<br>once<br>word
+bip_39_word_new_br12: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general<br>once<br>word<br>agree
+bip_39_word_new_br2: gold<br>fringe
+bip_39_word_new_br3: gold<br>fringe<br>finger
+bip_39_word_new_br4: gold<br>fringe<br>finger<br>rhythm
+bip_39_word_new_br5: gold<br>fringe<br>finger<br>rhythm<br>issue
+bip_39_word_new_br6: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side
+bip_39_word_new_br7: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit
+bip_39_word_new_br8: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor
+bip_39_word_new_br9: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general
+bip_39_word_new_line1: gold
+bip_39_word_new_line10: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor
+
+  general
+
+  once'
+bip_39_word_new_line11: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor
+
+  general
+
+  once
+
+  word'
+bip_39_word_new_line12: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor
+
+  general
+
+  once
+
+  word
+
+  agree'
+bip_39_word_new_line2: 'gold
+
+  fringe'
+bip_39_word_new_line3: 'gold
+
+  fringe
+
+  finger'
+bip_39_word_new_line4: 'gold
+
+  fringe
+
+  finger
+
+  rhythm'
+bip_39_word_new_line5: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue'
+bip_39_word_new_line6: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side'
+bip_39_word_new_line7: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit'
+bip_39_word_new_line8: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor'
+bip_39_word_new_line9: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor
+
+  general'
+bip_39_word_space_0:
+- gold
+- fringe
+- finger
+- rhythm
+- issue
+- side
+- habit
+- flavor
+- general
+- once
+- word
+- agree
+bip_39_word_space_1: gold
+bip_39_word_space_10: gold fringe finger rhythm issue side habit flavor general once
+bip_39_word_space_11: gold fringe finger rhythm issue side habit flavor general once
+  word
+bip_39_word_space_12: gold fringe finger rhythm issue side habit flavor general once
+  word agree
+bip_39_word_space_2: gold fringe
+bip_39_word_space_3: gold fringe finger
+bip_39_word_space_4: gold fringe finger rhythm
+bip_39_word_space_5: gold fringe finger rhythm issue
+bip_39_word_space_6: gold fringe finger rhythm issue side
+bip_39_word_space_7: gold fringe finger rhythm issue side habit
+bip_39_word_space_8: gold fringe finger rhythm issue side habit flavor
+bip_39_word_space_9: gold fringe finger rhythm issue side habit flavor general
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: call
+bip_39_word_new_br10: call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel
+bip_39_word_new_br11: call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel<br>begin
+bip_39_word_new_br12: call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold<br>novel<br>begin<br>average
+bip_39_word_new_br2: call<br>engine
+bip_39_word_new_br3: call<br>engine<br>elite
+bip_39_word_new_br4: call<br>engine<br>elite<br>marriage
+bip_39_word_new_br5: call<br>engine<br>elite<br>marriage<br>tell
+bip_39_word_new_br6: call<br>engine<br>elite<br>marriage<br>tell<br>oyster
+bip_39_word_new_br7: call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar
+bip_39_word_new_br8: call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water
+bip_39_word_new_br9: call<br>engine<br>elite<br>marriage<br>tell<br>oyster<br>radar<br>water<br>uphold
+bip_39_word_new_line1: call
+bip_39_word_new_line10: 'call
+
+  engine
+
+  elite
+
+  marriage
+
+  tell
+
+  oyster
+
+  radar
+
+  water
+
+  uphold
+
+  novel'
+bip_39_word_new_line11: 'call
+
+  engine
+
+  elite
+
+  marriage
+
+  tell
+
+  oyster
+
+  radar
+
+  water
+
+  uphold
+
+  novel
+
+  begin'
+bip_39_word_new_line12: 'call
+
+  engine
+
+  elite
+
+  marriage
+
+  tell
+
+  oyster
+
+  radar
+
+  water
+
+  uphold
+
+  novel
+
+  begin
+
+  average'
+bip_39_word_new_line2: 'call
+
+  engine'
+bip_39_word_new_line3: 'call
+
+  engine
+
+  elite'
+bip_39_word_new_line4: 'call
+
+  engine
+
+  elite
+
+  marriage'
+bip_39_word_new_line5: 'call
+
+  engine
+
+  elite
+
+  marriage
+
+  tell'
+bip_39_word_new_line6: 'call
+
+  engine
+
+  elite
+
+  marriage
+
+  tell
+
+  oyster'
+bip_39_word_new_line7: 'call
+
+  engine
+
+  elite
+
+  marriage
+
+  tell
+
+  oyster
+
+  radar'
+bip_39_word_new_line8: 'call
+
+  engine
+
+  elite
+
+  marriage
+
+  tell
+
+  oyster
+
+  radar
+
+  water'
+bip_39_word_new_line9: 'call
+
+  engine
+
+  elite
+
+  marriage
+
+  tell
+
+  oyster
+
+  radar
+
+  water
+
+  uphold'
+bip_39_word_space_0:
+- call
+- engine
+- elite
+- marriage
+- tell
+- oyster
+- radar
+- water
+- uphold
+- novel
+- begin
+- average
+bip_39_word_space_1: call
+bip_39_word_space_10: call engine elite marriage tell oyster radar water uphold novel
+bip_39_word_space_11: call engine elite marriage tell oyster radar water uphold novel
+  begin
+bip_39_word_space_12: call engine elite marriage tell oyster radar water uphold novel
+  begin average
+bip_39_word_space_2: call engine
+bip_39_word_space_3: call engine elite
+bip_39_word_space_4: call engine elite marriage
+bip_39_word_space_5: call engine elite marriage tell
+bip_39_word_space_6: call engine elite marriage tell oyster
+bip_39_word_space_7: call engine elite marriage tell oyster radar
+bip_39_word_space_8: call engine elite marriage tell oyster radar water
+bip_39_word_space_9: call engine elite marriage tell oyster radar water uphold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

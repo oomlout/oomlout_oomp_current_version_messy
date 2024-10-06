@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jealous devote
+  * bip 39 word 3: jealous devote increase
+  * bip 39 word: jealous devote increase conduct pizza impact polar tell basket ripple there about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jealous |  
+| bip_39_word_new_br10 | jealous<br>devote<br>increase<br>conduct<br>pizza<br>impact<br>polar<br>tell<br>basket<br>ripple |  
+| bip_39_word_new_br11 | jealous<br>devote<br>increase<br>conduct<br>pizza<br>impact<br>polar<br>tell<br>basket<br>ripple<br>there |  
+| bip_39_word_new_br12 | jealous<br>devote<br>increase<br>conduct<br>pizza<br>impact<br>polar<br>tell<br>basket<br>ripple<br>there<br>about |  
+| bip_39_word_new_br2 | jealous<br>devote |  
+| bip_39_word_new_br3 | jealous<br>devote<br>increase |  
+| bip_39_word_new_br4 | jealous<br>devote<br>increase<br>conduct |  
+| bip_39_word_new_br5 | jealous<br>devote<br>increase<br>conduct<br>pizza |  
+| bip_39_word_new_br6 | jealous<br>devote<br>increase<br>conduct<br>pizza<br>impact |  
+| bip_39_word_new_br7 | jealous<br>devote<br>increase<br>conduct<br>pizza<br>impact<br>polar |  
+| bip_39_word_new_br8 | jealous<br>devote<br>increase<br>conduct<br>pizza<br>impact<br>polar<br>tell |  
+| bip_39_word_new_br9 | jealous<br>devote<br>increase<br>conduct<br>pizza<br>impact<br>polar<br>tell<br>basket |  
+| bip_39_word_new_line1 | jealous |  
+| bip_39_word_new_line10 | jealous
+devote
+increase
+conduct
+pizza
+impact
+polar
+tell
+basket
+ripple |  
+| bip_39_word_new_line11 | jealous
+devote
+increase
+conduct
+pizza
+impact
+polar
+tell
+basket
+ripple
+there |  
+| bip_39_word_new_line12 | jealous
+devote
+increase
+conduct
+pizza
+impact
+polar
+tell
+basket
+ripple
+there
+about |  
+| bip_39_word_new_line2 | jealous
+devote |  
+| bip_39_word_new_line3 | jealous
+devote
+increase |  
+| bip_39_word_new_line4 | jealous
+devote
+increase
+conduct |  
+| bip_39_word_new_line5 | jealous
+devote
+increase
+conduct
+pizza |  
+| bip_39_word_new_line6 | jealous
+devote
+increase
+conduct
+pizza
+impact |  
+| bip_39_word_new_line7 | jealous
+devote
+increase
+conduct
+pizza
+impact
+polar |  
+| bip_39_word_new_line8 | jealous
+devote
+increase
+conduct
+pizza
+impact
+polar
+tell |  
+| bip_39_word_new_line9 | jealous
+devote
+increase
+conduct
+pizza
+impact
+polar
+tell
+basket |  
+| bip_39_word_space_0 | ['jealous', 'devote', 'increase', 'conduct', 'pizza', 'impact', 'polar', 'tell', 'basket', 'ripple', 'there', 'about'] |  
+| bip_39_word_space_1 | jealous |  
+| bip_39_word_space_10 | jealous devote increase conduct pizza impact polar tell basket ripple |  
+| bip_39_word_space_11 | jealous devote increase conduct pizza impact polar tell basket ripple there |  
+| bip_39_word_space_12 | jealous devote increase conduct pizza impact polar tell basket ripple there about |  
+| bip_39_word_space_2 | jealous devote |  
+| bip_39_word_space_3 | jealous devote increase |  
+| bip_39_word_space_4 | jealous devote increase conduct |  
+| bip_39_word_space_5 | jealous devote increase conduct pizza |  
+| bip_39_word_space_6 | jealous devote increase conduct pizza impact |  
+| bip_39_word_space_7 | jealous devote increase conduct pizza impact polar |  
+| bip_39_word_space_8 | jealous devote increase conduct pizza impact polar tell |  
+| bip_39_word_space_9 | jealous devote increase conduct pizza impact polar tell basket |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

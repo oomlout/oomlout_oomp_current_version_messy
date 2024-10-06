@@ -1,3 +1,186 @@
+bip_39_word_new_br1: carpet
+bip_39_word_new_br10: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate
+bip_39_word_new_br11: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate<br>wife
+bip_39_word_new_br12: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial<br>donate<br>wife<br>addict
+bip_39_word_new_br2: carpet<br>plate
+bip_39_word_new_br3: carpet<br>plate<br>cupboard
+bip_39_word_new_br4: carpet<br>plate<br>cupboard<br>dismiss
+bip_39_word_new_br5: carpet<br>plate<br>cupboard<br>dismiss<br>make
+bip_39_word_new_br6: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin
+bip_39_word_new_br7: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan
+bip_39_word_new_br8: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper
+bip_39_word_new_br9: carpet<br>plate<br>cupboard<br>dismiss<br>make<br>dolphin<br>fan<br>upper<br>trial
+bip_39_word_new_line1: carpet
+bip_39_word_new_line10: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss
+
+  make
+
+  dolphin
+
+  fan
+
+  upper
+
+  trial
+
+  donate'
+bip_39_word_new_line11: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss
+
+  make
+
+  dolphin
+
+  fan
+
+  upper
+
+  trial
+
+  donate
+
+  wife'
+bip_39_word_new_line12: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss
+
+  make
+
+  dolphin
+
+  fan
+
+  upper
+
+  trial
+
+  donate
+
+  wife
+
+  addict'
+bip_39_word_new_line2: 'carpet
+
+  plate'
+bip_39_word_new_line3: 'carpet
+
+  plate
+
+  cupboard'
+bip_39_word_new_line4: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss'
+bip_39_word_new_line5: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss
+
+  make'
+bip_39_word_new_line6: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss
+
+  make
+
+  dolphin'
+bip_39_word_new_line7: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss
+
+  make
+
+  dolphin
+
+  fan'
+bip_39_word_new_line8: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss
+
+  make
+
+  dolphin
+
+  fan
+
+  upper'
+bip_39_word_new_line9: 'carpet
+
+  plate
+
+  cupboard
+
+  dismiss
+
+  make
+
+  dolphin
+
+  fan
+
+  upper
+
+  trial'
+bip_39_word_space_0:
+- carpet
+- plate
+- cupboard
+- dismiss
+- make
+- dolphin
+- fan
+- upper
+- trial
+- donate
+- wife
+- addict
+bip_39_word_space_1: carpet
+bip_39_word_space_10: carpet plate cupboard dismiss make dolphin fan upper trial donate
+bip_39_word_space_11: carpet plate cupboard dismiss make dolphin fan upper trial donate
+  wife
+bip_39_word_space_12: carpet plate cupboard dismiss make dolphin fan upper trial donate
+  wife addict
+bip_39_word_space_2: carpet plate
+bip_39_word_space_3: carpet plate cupboard
+bip_39_word_space_4: carpet plate cupboard dismiss
+bip_39_word_space_5: carpet plate cupboard dismiss make
+bip_39_word_space_6: carpet plate cupboard dismiss make dolphin
+bip_39_word_space_7: carpet plate cupboard dismiss make dolphin fan
+bip_39_word_space_8: carpet plate cupboard dismiss make dolphin fan upper
+bip_39_word_space_9: carpet plate cupboard dismiss make dolphin fan upper trial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

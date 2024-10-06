@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blouse mention
+  * bip 39 word 3: blouse mention boat
+  * bip 39 word: blouse mention boat tourist finish zebra couple violin shine fold argue annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blouse |  
+| bip_39_word_new_br10 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra<br>couple<br>violin<br>shine<br>fold |  
+| bip_39_word_new_br11 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra<br>couple<br>violin<br>shine<br>fold<br>argue |  
+| bip_39_word_new_br12 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra<br>couple<br>violin<br>shine<br>fold<br>argue<br>annual |  
+| bip_39_word_new_br2 | blouse<br>mention |  
+| bip_39_word_new_br3 | blouse<br>mention<br>boat |  
+| bip_39_word_new_br4 | blouse<br>mention<br>boat<br>tourist |  
+| bip_39_word_new_br5 | blouse<br>mention<br>boat<br>tourist<br>finish |  
+| bip_39_word_new_br6 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra |  
+| bip_39_word_new_br7 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra<br>couple |  
+| bip_39_word_new_br8 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra<br>couple<br>violin |  
+| bip_39_word_new_br9 | blouse<br>mention<br>boat<br>tourist<br>finish<br>zebra<br>couple<br>violin<br>shine |  
+| bip_39_word_new_line1 | blouse |  
+| bip_39_word_new_line10 | blouse
+mention
+boat
+tourist
+finish
+zebra
+couple
+violin
+shine
+fold |  
+| bip_39_word_new_line11 | blouse
+mention
+boat
+tourist
+finish
+zebra
+couple
+violin
+shine
+fold
+argue |  
+| bip_39_word_new_line12 | blouse
+mention
+boat
+tourist
+finish
+zebra
+couple
+violin
+shine
+fold
+argue
+annual |  
+| bip_39_word_new_line2 | blouse
+mention |  
+| bip_39_word_new_line3 | blouse
+mention
+boat |  
+| bip_39_word_new_line4 | blouse
+mention
+boat
+tourist |  
+| bip_39_word_new_line5 | blouse
+mention
+boat
+tourist
+finish |  
+| bip_39_word_new_line6 | blouse
+mention
+boat
+tourist
+finish
+zebra |  
+| bip_39_word_new_line7 | blouse
+mention
+boat
+tourist
+finish
+zebra
+couple |  
+| bip_39_word_new_line8 | blouse
+mention
+boat
+tourist
+finish
+zebra
+couple
+violin |  
+| bip_39_word_new_line9 | blouse
+mention
+boat
+tourist
+finish
+zebra
+couple
+violin
+shine |  
+| bip_39_word_space_0 | ['blouse', 'mention', 'boat', 'tourist', 'finish', 'zebra', 'couple', 'violin', 'shine', 'fold', 'argue', 'annual'] |  
+| bip_39_word_space_1 | blouse |  
+| bip_39_word_space_10 | blouse mention boat tourist finish zebra couple violin shine fold |  
+| bip_39_word_space_11 | blouse mention boat tourist finish zebra couple violin shine fold argue |  
+| bip_39_word_space_12 | blouse mention boat tourist finish zebra couple violin shine fold argue annual |  
+| bip_39_word_space_2 | blouse mention |  
+| bip_39_word_space_3 | blouse mention boat |  
+| bip_39_word_space_4 | blouse mention boat tourist |  
+| bip_39_word_space_5 | blouse mention boat tourist finish |  
+| bip_39_word_space_6 | blouse mention boat tourist finish zebra |  
+| bip_39_word_space_7 | blouse mention boat tourist finish zebra couple |  
+| bip_39_word_space_8 | blouse mention boat tourist finish zebra couple violin |  
+| bip_39_word_space_9 | blouse mention boat tourist finish zebra couple violin shine |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

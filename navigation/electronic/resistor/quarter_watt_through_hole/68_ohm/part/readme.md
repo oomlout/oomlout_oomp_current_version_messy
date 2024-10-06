@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: logic sketch
+  * bip 39 word 3: logic sketch lift
+  * bip 39 word: logic sketch lift chef lunch truck recipe perfect south valley purpose april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | logic |  
+| bip_39_word_new_br10 | logic<br>sketch<br>lift<br>chef<br>lunch<br>truck<br>recipe<br>perfect<br>south<br>valley |  
+| bip_39_word_new_br11 | logic<br>sketch<br>lift<br>chef<br>lunch<br>truck<br>recipe<br>perfect<br>south<br>valley<br>purpose |  
+| bip_39_word_new_br12 | logic<br>sketch<br>lift<br>chef<br>lunch<br>truck<br>recipe<br>perfect<br>south<br>valley<br>purpose<br>april |  
+| bip_39_word_new_br2 | logic<br>sketch |  
+| bip_39_word_new_br3 | logic<br>sketch<br>lift |  
+| bip_39_word_new_br4 | logic<br>sketch<br>lift<br>chef |  
+| bip_39_word_new_br5 | logic<br>sketch<br>lift<br>chef<br>lunch |  
+| bip_39_word_new_br6 | logic<br>sketch<br>lift<br>chef<br>lunch<br>truck |  
+| bip_39_word_new_br7 | logic<br>sketch<br>lift<br>chef<br>lunch<br>truck<br>recipe |  
+| bip_39_word_new_br8 | logic<br>sketch<br>lift<br>chef<br>lunch<br>truck<br>recipe<br>perfect |  
+| bip_39_word_new_br9 | logic<br>sketch<br>lift<br>chef<br>lunch<br>truck<br>recipe<br>perfect<br>south |  
+| bip_39_word_new_line1 | logic |  
+| bip_39_word_new_line10 | logic
+sketch
+lift
+chef
+lunch
+truck
+recipe
+perfect
+south
+valley |  
+| bip_39_word_new_line11 | logic
+sketch
+lift
+chef
+lunch
+truck
+recipe
+perfect
+south
+valley
+purpose |  
+| bip_39_word_new_line12 | logic
+sketch
+lift
+chef
+lunch
+truck
+recipe
+perfect
+south
+valley
+purpose
+april |  
+| bip_39_word_new_line2 | logic
+sketch |  
+| bip_39_word_new_line3 | logic
+sketch
+lift |  
+| bip_39_word_new_line4 | logic
+sketch
+lift
+chef |  
+| bip_39_word_new_line5 | logic
+sketch
+lift
+chef
+lunch |  
+| bip_39_word_new_line6 | logic
+sketch
+lift
+chef
+lunch
+truck |  
+| bip_39_word_new_line7 | logic
+sketch
+lift
+chef
+lunch
+truck
+recipe |  
+| bip_39_word_new_line8 | logic
+sketch
+lift
+chef
+lunch
+truck
+recipe
+perfect |  
+| bip_39_word_new_line9 | logic
+sketch
+lift
+chef
+lunch
+truck
+recipe
+perfect
+south |  
+| bip_39_word_space_0 | ['logic', 'sketch', 'lift', 'chef', 'lunch', 'truck', 'recipe', 'perfect', 'south', 'valley', 'purpose', 'april'] |  
+| bip_39_word_space_1 | logic |  
+| bip_39_word_space_10 | logic sketch lift chef lunch truck recipe perfect south valley |  
+| bip_39_word_space_11 | logic sketch lift chef lunch truck recipe perfect south valley purpose |  
+| bip_39_word_space_12 | logic sketch lift chef lunch truck recipe perfect south valley purpose april |  
+| bip_39_word_space_2 | logic sketch |  
+| bip_39_word_space_3 | logic sketch lift |  
+| bip_39_word_space_4 | logic sketch lift chef |  
+| bip_39_word_space_5 | logic sketch lift chef lunch |  
+| bip_39_word_space_6 | logic sketch lift chef lunch truck |  
+| bip_39_word_space_7 | logic sketch lift chef lunch truck recipe |  
+| bip_39_word_space_8 | logic sketch lift chef lunch truck recipe perfect |  
+| bip_39_word_space_9 | logic sketch lift chef lunch truck recipe perfect south |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

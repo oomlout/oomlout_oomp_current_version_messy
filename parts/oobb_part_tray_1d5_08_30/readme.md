@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shift city
+  * bip 39 word 3: shift city copper
+  * bip 39 word: shift city copper original unusual atom month rural human unveil delay amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shift |  
+| bip_39_word_new_br10 | shift<br>city<br>copper<br>original<br>unusual<br>atom<br>month<br>rural<br>human<br>unveil |  
+| bip_39_word_new_br11 | shift<br>city<br>copper<br>original<br>unusual<br>atom<br>month<br>rural<br>human<br>unveil<br>delay |  
+| bip_39_word_new_br12 | shift<br>city<br>copper<br>original<br>unusual<br>atom<br>month<br>rural<br>human<br>unveil<br>delay<br>amused |  
+| bip_39_word_new_br2 | shift<br>city |  
+| bip_39_word_new_br3 | shift<br>city<br>copper |  
+| bip_39_word_new_br4 | shift<br>city<br>copper<br>original |  
+| bip_39_word_new_br5 | shift<br>city<br>copper<br>original<br>unusual |  
+| bip_39_word_new_br6 | shift<br>city<br>copper<br>original<br>unusual<br>atom |  
+| bip_39_word_new_br7 | shift<br>city<br>copper<br>original<br>unusual<br>atom<br>month |  
+| bip_39_word_new_br8 | shift<br>city<br>copper<br>original<br>unusual<br>atom<br>month<br>rural |  
+| bip_39_word_new_br9 | shift<br>city<br>copper<br>original<br>unusual<br>atom<br>month<br>rural<br>human |  
+| bip_39_word_new_line1 | shift |  
+| bip_39_word_new_line10 | shift
+city
+copper
+original
+unusual
+atom
+month
+rural
+human
+unveil |  
+| bip_39_word_new_line11 | shift
+city
+copper
+original
+unusual
+atom
+month
+rural
+human
+unveil
+delay |  
+| bip_39_word_new_line12 | shift
+city
+copper
+original
+unusual
+atom
+month
+rural
+human
+unveil
+delay
+amused |  
+| bip_39_word_new_line2 | shift
+city |  
+| bip_39_word_new_line3 | shift
+city
+copper |  
+| bip_39_word_new_line4 | shift
+city
+copper
+original |  
+| bip_39_word_new_line5 | shift
+city
+copper
+original
+unusual |  
+| bip_39_word_new_line6 | shift
+city
+copper
+original
+unusual
+atom |  
+| bip_39_word_new_line7 | shift
+city
+copper
+original
+unusual
+atom
+month |  
+| bip_39_word_new_line8 | shift
+city
+copper
+original
+unusual
+atom
+month
+rural |  
+| bip_39_word_new_line9 | shift
+city
+copper
+original
+unusual
+atom
+month
+rural
+human |  
+| bip_39_word_space_0 | ['shift', 'city', 'copper', 'original', 'unusual', 'atom', 'month', 'rural', 'human', 'unveil', 'delay', 'amused'] |  
+| bip_39_word_space_1 | shift |  
+| bip_39_word_space_10 | shift city copper original unusual atom month rural human unveil |  
+| bip_39_word_space_11 | shift city copper original unusual atom month rural human unveil delay |  
+| bip_39_word_space_12 | shift city copper original unusual atom month rural human unveil delay amused |  
+| bip_39_word_space_2 | shift city |  
+| bip_39_word_space_3 | shift city copper |  
+| bip_39_word_space_4 | shift city copper original |  
+| bip_39_word_space_5 | shift city copper original unusual |  
+| bip_39_word_space_6 | shift city copper original unusual atom |  
+| bip_39_word_space_7 | shift city copper original unusual atom month |  
+| bip_39_word_space_8 | shift city copper original unusual atom month rural |  
+| bip_39_word_space_9 | shift city copper original unusual atom month rural human |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

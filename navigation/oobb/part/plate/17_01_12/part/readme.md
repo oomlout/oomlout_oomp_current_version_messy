@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crouch wheel
+  * bip 39 word 3: crouch wheel remain
+  * bip 39 word: crouch wheel remain release enrich wire post advice shove heart various access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crouch |  
+| bip_39_word_new_br10 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire<br>post<br>advice<br>shove<br>heart |  
+| bip_39_word_new_br11 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire<br>post<br>advice<br>shove<br>heart<br>various |  
+| bip_39_word_new_br12 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire<br>post<br>advice<br>shove<br>heart<br>various<br>access |  
+| bip_39_word_new_br2 | crouch<br>wheel |  
+| bip_39_word_new_br3 | crouch<br>wheel<br>remain |  
+| bip_39_word_new_br4 | crouch<br>wheel<br>remain<br>release |  
+| bip_39_word_new_br5 | crouch<br>wheel<br>remain<br>release<br>enrich |  
+| bip_39_word_new_br6 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire |  
+| bip_39_word_new_br7 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire<br>post |  
+| bip_39_word_new_br8 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire<br>post<br>advice |  
+| bip_39_word_new_br9 | crouch<br>wheel<br>remain<br>release<br>enrich<br>wire<br>post<br>advice<br>shove |  
+| bip_39_word_new_line1 | crouch |  
+| bip_39_word_new_line10 | crouch
+wheel
+remain
+release
+enrich
+wire
+post
+advice
+shove
+heart |  
+| bip_39_word_new_line11 | crouch
+wheel
+remain
+release
+enrich
+wire
+post
+advice
+shove
+heart
+various |  
+| bip_39_word_new_line12 | crouch
+wheel
+remain
+release
+enrich
+wire
+post
+advice
+shove
+heart
+various
+access |  
+| bip_39_word_new_line2 | crouch
+wheel |  
+| bip_39_word_new_line3 | crouch
+wheel
+remain |  
+| bip_39_word_new_line4 | crouch
+wheel
+remain
+release |  
+| bip_39_word_new_line5 | crouch
+wheel
+remain
+release
+enrich |  
+| bip_39_word_new_line6 | crouch
+wheel
+remain
+release
+enrich
+wire |  
+| bip_39_word_new_line7 | crouch
+wheel
+remain
+release
+enrich
+wire
+post |  
+| bip_39_word_new_line8 | crouch
+wheel
+remain
+release
+enrich
+wire
+post
+advice |  
+| bip_39_word_new_line9 | crouch
+wheel
+remain
+release
+enrich
+wire
+post
+advice
+shove |  
+| bip_39_word_space_0 | ['crouch', 'wheel', 'remain', 'release', 'enrich', 'wire', 'post', 'advice', 'shove', 'heart', 'various', 'access'] |  
+| bip_39_word_space_1 | crouch |  
+| bip_39_word_space_10 | crouch wheel remain release enrich wire post advice shove heart |  
+| bip_39_word_space_11 | crouch wheel remain release enrich wire post advice shove heart various |  
+| bip_39_word_space_12 | crouch wheel remain release enrich wire post advice shove heart various access |  
+| bip_39_word_space_2 | crouch wheel |  
+| bip_39_word_space_3 | crouch wheel remain |  
+| bip_39_word_space_4 | crouch wheel remain release |  
+| bip_39_word_space_5 | crouch wheel remain release enrich |  
+| bip_39_word_space_6 | crouch wheel remain release enrich wire |  
+| bip_39_word_space_7 | crouch wheel remain release enrich wire post |  
+| bip_39_word_space_8 | crouch wheel remain release enrich wire post advice |  
+| bip_39_word_space_9 | crouch wheel remain release enrich wire post advice shove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

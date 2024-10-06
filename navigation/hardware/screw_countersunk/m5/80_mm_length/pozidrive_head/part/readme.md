@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tomato submit
+  * bip 39 word 3: tomato submit awake
+  * bip 39 word: tomato submit awake suit ridge fancy shrug spawn human library lobster arrange
 
 ### other_codes
 * short_code: cs5m80pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tomato |  
+| bip_39_word_new_br10 | tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy<br>shrug<br>spawn<br>human<br>library |  
+| bip_39_word_new_br11 | tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy<br>shrug<br>spawn<br>human<br>library<br>lobster |  
+| bip_39_word_new_br12 | tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy<br>shrug<br>spawn<br>human<br>library<br>lobster<br>arrange |  
+| bip_39_word_new_br2 | tomato<br>submit |  
+| bip_39_word_new_br3 | tomato<br>submit<br>awake |  
+| bip_39_word_new_br4 | tomato<br>submit<br>awake<br>suit |  
+| bip_39_word_new_br5 | tomato<br>submit<br>awake<br>suit<br>ridge |  
+| bip_39_word_new_br6 | tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy |  
+| bip_39_word_new_br7 | tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy<br>shrug |  
+| bip_39_word_new_br8 | tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy<br>shrug<br>spawn |  
+| bip_39_word_new_br9 | tomato<br>submit<br>awake<br>suit<br>ridge<br>fancy<br>shrug<br>spawn<br>human |  
+| bip_39_word_new_line1 | tomato |  
+| bip_39_word_new_line10 | tomato
+submit
+awake
+suit
+ridge
+fancy
+shrug
+spawn
+human
+library |  
+| bip_39_word_new_line11 | tomato
+submit
+awake
+suit
+ridge
+fancy
+shrug
+spawn
+human
+library
+lobster |  
+| bip_39_word_new_line12 | tomato
+submit
+awake
+suit
+ridge
+fancy
+shrug
+spawn
+human
+library
+lobster
+arrange |  
+| bip_39_word_new_line2 | tomato
+submit |  
+| bip_39_word_new_line3 | tomato
+submit
+awake |  
+| bip_39_word_new_line4 | tomato
+submit
+awake
+suit |  
+| bip_39_word_new_line5 | tomato
+submit
+awake
+suit
+ridge |  
+| bip_39_word_new_line6 | tomato
+submit
+awake
+suit
+ridge
+fancy |  
+| bip_39_word_new_line7 | tomato
+submit
+awake
+suit
+ridge
+fancy
+shrug |  
+| bip_39_word_new_line8 | tomato
+submit
+awake
+suit
+ridge
+fancy
+shrug
+spawn |  
+| bip_39_word_new_line9 | tomato
+submit
+awake
+suit
+ridge
+fancy
+shrug
+spawn
+human |  
+| bip_39_word_space_0 | ['tomato', 'submit', 'awake', 'suit', 'ridge', 'fancy', 'shrug', 'spawn', 'human', 'library', 'lobster', 'arrange'] |  
+| bip_39_word_space_1 | tomato |  
+| bip_39_word_space_10 | tomato submit awake suit ridge fancy shrug spawn human library |  
+| bip_39_word_space_11 | tomato submit awake suit ridge fancy shrug spawn human library lobster |  
+| bip_39_word_space_12 | tomato submit awake suit ridge fancy shrug spawn human library lobster arrange |  
+| bip_39_word_space_2 | tomato submit |  
+| bip_39_word_space_3 | tomato submit awake |  
+| bip_39_word_space_4 | tomato submit awake suit |  
+| bip_39_word_space_5 | tomato submit awake suit ridge |  
+| bip_39_word_space_6 | tomato submit awake suit ridge fancy |  
+| bip_39_word_space_7 | tomato submit awake suit ridge fancy shrug |  
+| bip_39_word_space_8 | tomato submit awake suit ridge fancy shrug spawn |  
+| bip_39_word_space_9 | tomato submit awake suit ridge fancy shrug spawn human |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

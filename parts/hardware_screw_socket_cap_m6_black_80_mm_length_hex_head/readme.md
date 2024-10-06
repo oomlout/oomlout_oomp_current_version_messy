@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: giant else
+  * bip 39 word 3: giant else harsh
+  * bip 39 word: giant else harsh wild together account split cook bean awkward fall amused
 
 ### other_codes
 * short_code: sc6b80h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | giant |  
+| bip_39_word_new_br10 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward |  
+| bip_39_word_new_br11 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward<br>fall |  
+| bip_39_word_new_br12 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean<br>awkward<br>fall<br>amused |  
+| bip_39_word_new_br2 | giant<br>else |  
+| bip_39_word_new_br3 | giant<br>else<br>harsh |  
+| bip_39_word_new_br4 | giant<br>else<br>harsh<br>wild |  
+| bip_39_word_new_br5 | giant<br>else<br>harsh<br>wild<br>together |  
+| bip_39_word_new_br6 | giant<br>else<br>harsh<br>wild<br>together<br>account |  
+| bip_39_word_new_br7 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split |  
+| bip_39_word_new_br8 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook |  
+| bip_39_word_new_br9 | giant<br>else<br>harsh<br>wild<br>together<br>account<br>split<br>cook<br>bean |  
+| bip_39_word_new_line1 | giant |  
+| bip_39_word_new_line10 | giant
+else
+harsh
+wild
+together
+account
+split
+cook
+bean
+awkward |  
+| bip_39_word_new_line11 | giant
+else
+harsh
+wild
+together
+account
+split
+cook
+bean
+awkward
+fall |  
+| bip_39_word_new_line12 | giant
+else
+harsh
+wild
+together
+account
+split
+cook
+bean
+awkward
+fall
+amused |  
+| bip_39_word_new_line2 | giant
+else |  
+| bip_39_word_new_line3 | giant
+else
+harsh |  
+| bip_39_word_new_line4 | giant
+else
+harsh
+wild |  
+| bip_39_word_new_line5 | giant
+else
+harsh
+wild
+together |  
+| bip_39_word_new_line6 | giant
+else
+harsh
+wild
+together
+account |  
+| bip_39_word_new_line7 | giant
+else
+harsh
+wild
+together
+account
+split |  
+| bip_39_word_new_line8 | giant
+else
+harsh
+wild
+together
+account
+split
+cook |  
+| bip_39_word_new_line9 | giant
+else
+harsh
+wild
+together
+account
+split
+cook
+bean |  
+| bip_39_word_space_0 | ['giant', 'else', 'harsh', 'wild', 'together', 'account', 'split', 'cook', 'bean', 'awkward', 'fall', 'amused'] |  
+| bip_39_word_space_1 | giant |  
+| bip_39_word_space_10 | giant else harsh wild together account split cook bean awkward |  
+| bip_39_word_space_11 | giant else harsh wild together account split cook bean awkward fall |  
+| bip_39_word_space_12 | giant else harsh wild together account split cook bean awkward fall amused |  
+| bip_39_word_space_2 | giant else |  
+| bip_39_word_space_3 | giant else harsh |  
+| bip_39_word_space_4 | giant else harsh wild |  
+| bip_39_word_space_5 | giant else harsh wild together |  
+| bip_39_word_space_6 | giant else harsh wild together account |  
+| bip_39_word_space_7 | giant else harsh wild together account split |  
+| bip_39_word_space_8 | giant else harsh wild together account split cook |  
+| bip_39_word_space_9 | giant else harsh wild together account split cook bean |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

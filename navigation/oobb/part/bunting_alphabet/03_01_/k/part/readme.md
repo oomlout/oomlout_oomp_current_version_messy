@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: k
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: danger century
+  * bip 39 word 3: danger century clerk
+  * bip 39 word: danger century clerk inherit afford planet six sleep sock correct ritual anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | danger |  
+| bip_39_word_new_br10 | danger<br>century<br>clerk<br>inherit<br>afford<br>planet<br>six<br>sleep<br>sock<br>correct |  
+| bip_39_word_new_br11 | danger<br>century<br>clerk<br>inherit<br>afford<br>planet<br>six<br>sleep<br>sock<br>correct<br>ritual |  
+| bip_39_word_new_br12 | danger<br>century<br>clerk<br>inherit<br>afford<br>planet<br>six<br>sleep<br>sock<br>correct<br>ritual<br>anchor |  
+| bip_39_word_new_br2 | danger<br>century |  
+| bip_39_word_new_br3 | danger<br>century<br>clerk |  
+| bip_39_word_new_br4 | danger<br>century<br>clerk<br>inherit |  
+| bip_39_word_new_br5 | danger<br>century<br>clerk<br>inherit<br>afford |  
+| bip_39_word_new_br6 | danger<br>century<br>clerk<br>inherit<br>afford<br>planet |  
+| bip_39_word_new_br7 | danger<br>century<br>clerk<br>inherit<br>afford<br>planet<br>six |  
+| bip_39_word_new_br8 | danger<br>century<br>clerk<br>inherit<br>afford<br>planet<br>six<br>sleep |  
+| bip_39_word_new_br9 | danger<br>century<br>clerk<br>inherit<br>afford<br>planet<br>six<br>sleep<br>sock |  
+| bip_39_word_new_line1 | danger |  
+| bip_39_word_new_line10 | danger
+century
+clerk
+inherit
+afford
+planet
+six
+sleep
+sock
+correct |  
+| bip_39_word_new_line11 | danger
+century
+clerk
+inherit
+afford
+planet
+six
+sleep
+sock
+correct
+ritual |  
+| bip_39_word_new_line12 | danger
+century
+clerk
+inherit
+afford
+planet
+six
+sleep
+sock
+correct
+ritual
+anchor |  
+| bip_39_word_new_line2 | danger
+century |  
+| bip_39_word_new_line3 | danger
+century
+clerk |  
+| bip_39_word_new_line4 | danger
+century
+clerk
+inherit |  
+| bip_39_word_new_line5 | danger
+century
+clerk
+inherit
+afford |  
+| bip_39_word_new_line6 | danger
+century
+clerk
+inherit
+afford
+planet |  
+| bip_39_word_new_line7 | danger
+century
+clerk
+inherit
+afford
+planet
+six |  
+| bip_39_word_new_line8 | danger
+century
+clerk
+inherit
+afford
+planet
+six
+sleep |  
+| bip_39_word_new_line9 | danger
+century
+clerk
+inherit
+afford
+planet
+six
+sleep
+sock |  
+| bip_39_word_space_0 | ['danger', 'century', 'clerk', 'inherit', 'afford', 'planet', 'six', 'sleep', 'sock', 'correct', 'ritual', 'anchor'] |  
+| bip_39_word_space_1 | danger |  
+| bip_39_word_space_10 | danger century clerk inherit afford planet six sleep sock correct |  
+| bip_39_word_space_11 | danger century clerk inherit afford planet six sleep sock correct ritual |  
+| bip_39_word_space_12 | danger century clerk inherit afford planet six sleep sock correct ritual anchor |  
+| bip_39_word_space_2 | danger century |  
+| bip_39_word_space_3 | danger century clerk |  
+| bip_39_word_space_4 | danger century clerk inherit |  
+| bip_39_word_space_5 | danger century clerk inherit afford |  
+| bip_39_word_space_6 | danger century clerk inherit afford planet |  
+| bip_39_word_space_7 | danger century clerk inherit afford planet six |  
+| bip_39_word_space_8 | danger century clerk inherit afford planet six sleep |  
+| bip_39_word_space_9 | danger century clerk inherit afford planet six sleep sock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

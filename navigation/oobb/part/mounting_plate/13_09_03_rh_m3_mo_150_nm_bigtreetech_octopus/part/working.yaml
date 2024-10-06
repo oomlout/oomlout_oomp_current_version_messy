@@ -1,3 +1,186 @@
+bip_39_word_new_br1: abuse
+bip_39_word_new_br10: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden
+bip_39_word_new_br11: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden<br>name
+bip_39_word_new_br12: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that<br>garden<br>name<br>arch
+bip_39_word_new_br2: abuse<br>grass
+bip_39_word_new_br3: abuse<br>grass<br>volcano
+bip_39_word_new_br4: abuse<br>grass<br>volcano<br>clever
+bip_39_word_new_br5: abuse<br>grass<br>volcano<br>clever<br>unit
+bip_39_word_new_br6: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge
+bip_39_word_new_br7: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet
+bip_39_word_new_br8: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false
+bip_39_word_new_br9: abuse<br>grass<br>volcano<br>clever<br>unit<br>badge<br>bullet<br>false<br>that
+bip_39_word_new_line1: abuse
+bip_39_word_new_line10: 'abuse
+
+  grass
+
+  volcano
+
+  clever
+
+  unit
+
+  badge
+
+  bullet
+
+  false
+
+  that
+
+  garden'
+bip_39_word_new_line11: 'abuse
+
+  grass
+
+  volcano
+
+  clever
+
+  unit
+
+  badge
+
+  bullet
+
+  false
+
+  that
+
+  garden
+
+  name'
+bip_39_word_new_line12: 'abuse
+
+  grass
+
+  volcano
+
+  clever
+
+  unit
+
+  badge
+
+  bullet
+
+  false
+
+  that
+
+  garden
+
+  name
+
+  arch'
+bip_39_word_new_line2: 'abuse
+
+  grass'
+bip_39_word_new_line3: 'abuse
+
+  grass
+
+  volcano'
+bip_39_word_new_line4: 'abuse
+
+  grass
+
+  volcano
+
+  clever'
+bip_39_word_new_line5: 'abuse
+
+  grass
+
+  volcano
+
+  clever
+
+  unit'
+bip_39_word_new_line6: 'abuse
+
+  grass
+
+  volcano
+
+  clever
+
+  unit
+
+  badge'
+bip_39_word_new_line7: 'abuse
+
+  grass
+
+  volcano
+
+  clever
+
+  unit
+
+  badge
+
+  bullet'
+bip_39_word_new_line8: 'abuse
+
+  grass
+
+  volcano
+
+  clever
+
+  unit
+
+  badge
+
+  bullet
+
+  false'
+bip_39_word_new_line9: 'abuse
+
+  grass
+
+  volcano
+
+  clever
+
+  unit
+
+  badge
+
+  bullet
+
+  false
+
+  that'
+bip_39_word_space_0:
+- abuse
+- grass
+- volcano
+- clever
+- unit
+- badge
+- bullet
+- 'false'
+- that
+- garden
+- name
+- arch
+bip_39_word_space_1: abuse
+bip_39_word_space_10: abuse grass volcano clever unit badge bullet false that garden
+bip_39_word_space_11: abuse grass volcano clever unit badge bullet false that garden
+  name
+bip_39_word_space_12: abuse grass volcano clever unit badge bullet false that garden
+  name arch
+bip_39_word_space_2: abuse grass
+bip_39_word_space_3: abuse grass volcano
+bip_39_word_space_4: abuse grass volcano clever
+bip_39_word_space_5: abuse grass volcano clever unit
+bip_39_word_space_6: abuse grass volcano clever unit badge
+bip_39_word_space_7: abuse grass volcano clever unit badge bullet
+bip_39_word_space_8: abuse grass volcano clever unit badge bullet false
+bip_39_word_space_9: abuse grass volcano clever unit badge bullet false that
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

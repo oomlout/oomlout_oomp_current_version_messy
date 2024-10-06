@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vacant flip
+  * bip 39 word 3: vacant flip very
+  * bip 39 word: vacant flip very stock mango tank scene someone labor tube another add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vacant |  
+| bip_39_word_new_br10 | vacant<br>flip<br>very<br>stock<br>mango<br>tank<br>scene<br>someone<br>labor<br>tube |  
+| bip_39_word_new_br11 | vacant<br>flip<br>very<br>stock<br>mango<br>tank<br>scene<br>someone<br>labor<br>tube<br>another |  
+| bip_39_word_new_br12 | vacant<br>flip<br>very<br>stock<br>mango<br>tank<br>scene<br>someone<br>labor<br>tube<br>another<br>add |  
+| bip_39_word_new_br2 | vacant<br>flip |  
+| bip_39_word_new_br3 | vacant<br>flip<br>very |  
+| bip_39_word_new_br4 | vacant<br>flip<br>very<br>stock |  
+| bip_39_word_new_br5 | vacant<br>flip<br>very<br>stock<br>mango |  
+| bip_39_word_new_br6 | vacant<br>flip<br>very<br>stock<br>mango<br>tank |  
+| bip_39_word_new_br7 | vacant<br>flip<br>very<br>stock<br>mango<br>tank<br>scene |  
+| bip_39_word_new_br8 | vacant<br>flip<br>very<br>stock<br>mango<br>tank<br>scene<br>someone |  
+| bip_39_word_new_br9 | vacant<br>flip<br>very<br>stock<br>mango<br>tank<br>scene<br>someone<br>labor |  
+| bip_39_word_new_line1 | vacant |  
+| bip_39_word_new_line10 | vacant
+flip
+very
+stock
+mango
+tank
+scene
+someone
+labor
+tube |  
+| bip_39_word_new_line11 | vacant
+flip
+very
+stock
+mango
+tank
+scene
+someone
+labor
+tube
+another |  
+| bip_39_word_new_line12 | vacant
+flip
+very
+stock
+mango
+tank
+scene
+someone
+labor
+tube
+another
+add |  
+| bip_39_word_new_line2 | vacant
+flip |  
+| bip_39_word_new_line3 | vacant
+flip
+very |  
+| bip_39_word_new_line4 | vacant
+flip
+very
+stock |  
+| bip_39_word_new_line5 | vacant
+flip
+very
+stock
+mango |  
+| bip_39_word_new_line6 | vacant
+flip
+very
+stock
+mango
+tank |  
+| bip_39_word_new_line7 | vacant
+flip
+very
+stock
+mango
+tank
+scene |  
+| bip_39_word_new_line8 | vacant
+flip
+very
+stock
+mango
+tank
+scene
+someone |  
+| bip_39_word_new_line9 | vacant
+flip
+very
+stock
+mango
+tank
+scene
+someone
+labor |  
+| bip_39_word_space_0 | ['vacant', 'flip', 'very', 'stock', 'mango', 'tank', 'scene', 'someone', 'labor', 'tube', 'another', 'add'] |  
+| bip_39_word_space_1 | vacant |  
+| bip_39_word_space_10 | vacant flip very stock mango tank scene someone labor tube |  
+| bip_39_word_space_11 | vacant flip very stock mango tank scene someone labor tube another |  
+| bip_39_word_space_12 | vacant flip very stock mango tank scene someone labor tube another add |  
+| bip_39_word_space_2 | vacant flip |  
+| bip_39_word_space_3 | vacant flip very |  
+| bip_39_word_space_4 | vacant flip very stock |  
+| bip_39_word_space_5 | vacant flip very stock mango |  
+| bip_39_word_space_6 | vacant flip very stock mango tank |  
+| bip_39_word_space_7 | vacant flip very stock mango tank scene |  
+| bip_39_word_space_8 | vacant flip very stock mango tank scene someone |  
+| bip_39_word_space_9 | vacant flip very stock mango tank scene someone labor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

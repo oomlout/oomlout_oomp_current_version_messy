@@ -1,3 +1,186 @@
+bip_39_word_new_br1: please
+bip_39_word_new_br10: please<br>tenant<br>vast<br>cruel<br>chapter<br>excess<br>tube<br>gate<br>salute<br>trial
+bip_39_word_new_br11: please<br>tenant<br>vast<br>cruel<br>chapter<br>excess<br>tube<br>gate<br>salute<br>trial<br>lesson
+bip_39_word_new_br12: please<br>tenant<br>vast<br>cruel<br>chapter<br>excess<br>tube<br>gate<br>salute<br>trial<br>lesson<br>artist
+bip_39_word_new_br2: please<br>tenant
+bip_39_word_new_br3: please<br>tenant<br>vast
+bip_39_word_new_br4: please<br>tenant<br>vast<br>cruel
+bip_39_word_new_br5: please<br>tenant<br>vast<br>cruel<br>chapter
+bip_39_word_new_br6: please<br>tenant<br>vast<br>cruel<br>chapter<br>excess
+bip_39_word_new_br7: please<br>tenant<br>vast<br>cruel<br>chapter<br>excess<br>tube
+bip_39_word_new_br8: please<br>tenant<br>vast<br>cruel<br>chapter<br>excess<br>tube<br>gate
+bip_39_word_new_br9: please<br>tenant<br>vast<br>cruel<br>chapter<br>excess<br>tube<br>gate<br>salute
+bip_39_word_new_line1: please
+bip_39_word_new_line10: 'please
+
+  tenant
+
+  vast
+
+  cruel
+
+  chapter
+
+  excess
+
+  tube
+
+  gate
+
+  salute
+
+  trial'
+bip_39_word_new_line11: 'please
+
+  tenant
+
+  vast
+
+  cruel
+
+  chapter
+
+  excess
+
+  tube
+
+  gate
+
+  salute
+
+  trial
+
+  lesson'
+bip_39_word_new_line12: 'please
+
+  tenant
+
+  vast
+
+  cruel
+
+  chapter
+
+  excess
+
+  tube
+
+  gate
+
+  salute
+
+  trial
+
+  lesson
+
+  artist'
+bip_39_word_new_line2: 'please
+
+  tenant'
+bip_39_word_new_line3: 'please
+
+  tenant
+
+  vast'
+bip_39_word_new_line4: 'please
+
+  tenant
+
+  vast
+
+  cruel'
+bip_39_word_new_line5: 'please
+
+  tenant
+
+  vast
+
+  cruel
+
+  chapter'
+bip_39_word_new_line6: 'please
+
+  tenant
+
+  vast
+
+  cruel
+
+  chapter
+
+  excess'
+bip_39_word_new_line7: 'please
+
+  tenant
+
+  vast
+
+  cruel
+
+  chapter
+
+  excess
+
+  tube'
+bip_39_word_new_line8: 'please
+
+  tenant
+
+  vast
+
+  cruel
+
+  chapter
+
+  excess
+
+  tube
+
+  gate'
+bip_39_word_new_line9: 'please
+
+  tenant
+
+  vast
+
+  cruel
+
+  chapter
+
+  excess
+
+  tube
+
+  gate
+
+  salute'
+bip_39_word_space_0:
+- please
+- tenant
+- vast
+- cruel
+- chapter
+- excess
+- tube
+- gate
+- salute
+- trial
+- lesson
+- artist
+bip_39_word_space_1: please
+bip_39_word_space_10: please tenant vast cruel chapter excess tube gate salute trial
+bip_39_word_space_11: please tenant vast cruel chapter excess tube gate salute trial
+  lesson
+bip_39_word_space_12: please tenant vast cruel chapter excess tube gate salute trial
+  lesson artist
+bip_39_word_space_2: please tenant
+bip_39_word_space_3: please tenant vast
+bip_39_word_space_4: please tenant vast cruel
+bip_39_word_space_5: please tenant vast cruel chapter
+bip_39_word_space_6: please tenant vast cruel chapter excess
+bip_39_word_space_7: please tenant vast cruel chapter excess tube
+bip_39_word_space_8: please tenant vast cruel chapter excess tube gate
+bip_39_word_space_9: please tenant vast cruel chapter excess tube gate salute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: buddy soda
+  * bip 39 word 3: buddy soda mosquito
+  * bip 39 word: buddy soda mosquito smile domain farm radio rookie absorb arch stay adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | buddy |  
+| bip_39_word_new_br10 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch |  
+| bip_39_word_new_br11 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch<br>stay |  
+| bip_39_word_new_br12 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch<br>stay<br>adapt |  
+| bip_39_word_new_br2 | buddy<br>soda |  
+| bip_39_word_new_br3 | buddy<br>soda<br>mosquito |  
+| bip_39_word_new_br4 | buddy<br>soda<br>mosquito<br>smile |  
+| bip_39_word_new_br5 | buddy<br>soda<br>mosquito<br>smile<br>domain |  
+| bip_39_word_new_br6 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm |  
+| bip_39_word_new_br7 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio |  
+| bip_39_word_new_br8 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie |  
+| bip_39_word_new_br9 | buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb |  
+| bip_39_word_new_line1 | buddy |  
+| bip_39_word_new_line10 | buddy
+soda
+mosquito
+smile
+domain
+farm
+radio
+rookie
+absorb
+arch |  
+| bip_39_word_new_line11 | buddy
+soda
+mosquito
+smile
+domain
+farm
+radio
+rookie
+absorb
+arch
+stay |  
+| bip_39_word_new_line12 | buddy
+soda
+mosquito
+smile
+domain
+farm
+radio
+rookie
+absorb
+arch
+stay
+adapt |  
+| bip_39_word_new_line2 | buddy
+soda |  
+| bip_39_word_new_line3 | buddy
+soda
+mosquito |  
+| bip_39_word_new_line4 | buddy
+soda
+mosquito
+smile |  
+| bip_39_word_new_line5 | buddy
+soda
+mosquito
+smile
+domain |  
+| bip_39_word_new_line6 | buddy
+soda
+mosquito
+smile
+domain
+farm |  
+| bip_39_word_new_line7 | buddy
+soda
+mosquito
+smile
+domain
+farm
+radio |  
+| bip_39_word_new_line8 | buddy
+soda
+mosquito
+smile
+domain
+farm
+radio
+rookie |  
+| bip_39_word_new_line9 | buddy
+soda
+mosquito
+smile
+domain
+farm
+radio
+rookie
+absorb |  
+| bip_39_word_space_0 | ['buddy', 'soda', 'mosquito', 'smile', 'domain', 'farm', 'radio', 'rookie', 'absorb', 'arch', 'stay', 'adapt'] |  
+| bip_39_word_space_1 | buddy |  
+| bip_39_word_space_10 | buddy soda mosquito smile domain farm radio rookie absorb arch |  
+| bip_39_word_space_11 | buddy soda mosquito smile domain farm radio rookie absorb arch stay |  
+| bip_39_word_space_12 | buddy soda mosquito smile domain farm radio rookie absorb arch stay adapt |  
+| bip_39_word_space_2 | buddy soda |  
+| bip_39_word_space_3 | buddy soda mosquito |  
+| bip_39_word_space_4 | buddy soda mosquito smile |  
+| bip_39_word_space_5 | buddy soda mosquito smile domain |  
+| bip_39_word_space_6 | buddy soda mosquito smile domain farm |  
+| bip_39_word_space_7 | buddy soda mosquito smile domain farm radio |  
+| bip_39_word_space_8 | buddy soda mosquito smile domain farm radio rookie |  
+| bip_39_word_space_9 | buddy soda mosquito smile domain farm radio rookie absorb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

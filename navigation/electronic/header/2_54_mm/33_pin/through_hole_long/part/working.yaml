@@ -1,3 +1,187 @@
+bip_39_word_new_br1: clump
+bip_39_word_new_br10: clump<br>ticket<br>title<br>worth<br>universe<br>emotion<br>roast<br>obtain<br>gown<br>cradle
+bip_39_word_new_br11: clump<br>ticket<br>title<br>worth<br>universe<br>emotion<br>roast<br>obtain<br>gown<br>cradle<br>orange
+bip_39_word_new_br12: clump<br>ticket<br>title<br>worth<br>universe<br>emotion<br>roast<br>obtain<br>gown<br>cradle<br>orange<br>audit
+bip_39_word_new_br2: clump<br>ticket
+bip_39_word_new_br3: clump<br>ticket<br>title
+bip_39_word_new_br4: clump<br>ticket<br>title<br>worth
+bip_39_word_new_br5: clump<br>ticket<br>title<br>worth<br>universe
+bip_39_word_new_br6: clump<br>ticket<br>title<br>worth<br>universe<br>emotion
+bip_39_word_new_br7: clump<br>ticket<br>title<br>worth<br>universe<br>emotion<br>roast
+bip_39_word_new_br8: clump<br>ticket<br>title<br>worth<br>universe<br>emotion<br>roast<br>obtain
+bip_39_word_new_br9: clump<br>ticket<br>title<br>worth<br>universe<br>emotion<br>roast<br>obtain<br>gown
+bip_39_word_new_line1: clump
+bip_39_word_new_line10: 'clump
+
+  ticket
+
+  title
+
+  worth
+
+  universe
+
+  emotion
+
+  roast
+
+  obtain
+
+  gown
+
+  cradle'
+bip_39_word_new_line11: 'clump
+
+  ticket
+
+  title
+
+  worth
+
+  universe
+
+  emotion
+
+  roast
+
+  obtain
+
+  gown
+
+  cradle
+
+  orange'
+bip_39_word_new_line12: 'clump
+
+  ticket
+
+  title
+
+  worth
+
+  universe
+
+  emotion
+
+  roast
+
+  obtain
+
+  gown
+
+  cradle
+
+  orange
+
+  audit'
+bip_39_word_new_line2: 'clump
+
+  ticket'
+bip_39_word_new_line3: 'clump
+
+  ticket
+
+  title'
+bip_39_word_new_line4: 'clump
+
+  ticket
+
+  title
+
+  worth'
+bip_39_word_new_line5: 'clump
+
+  ticket
+
+  title
+
+  worth
+
+  universe'
+bip_39_word_new_line6: 'clump
+
+  ticket
+
+  title
+
+  worth
+
+  universe
+
+  emotion'
+bip_39_word_new_line7: 'clump
+
+  ticket
+
+  title
+
+  worth
+
+  universe
+
+  emotion
+
+  roast'
+bip_39_word_new_line8: 'clump
+
+  ticket
+
+  title
+
+  worth
+
+  universe
+
+  emotion
+
+  roast
+
+  obtain'
+bip_39_word_new_line9: 'clump
+
+  ticket
+
+  title
+
+  worth
+
+  universe
+
+  emotion
+
+  roast
+
+  obtain
+
+  gown'
+bip_39_word_space_0:
+- clump
+- ticket
+- title
+- worth
+- universe
+- emotion
+- roast
+- obtain
+- gown
+- cradle
+- orange
+- audit
+bip_39_word_space_1: clump
+bip_39_word_space_10: clump ticket title worth universe emotion roast obtain gown
+  cradle
+bip_39_word_space_11: clump ticket title worth universe emotion roast obtain gown
+  cradle orange
+bip_39_word_space_12: clump ticket title worth universe emotion roast obtain gown
+  cradle orange audit
+bip_39_word_space_2: clump ticket
+bip_39_word_space_3: clump ticket title
+bip_39_word_space_4: clump ticket title worth
+bip_39_word_space_5: clump ticket title worth universe
+bip_39_word_space_6: clump ticket title worth universe emotion
+bip_39_word_space_7: clump ticket title worth universe emotion roast
+bip_39_word_space_8: clump ticket title worth universe emotion roast obtain
+bip_39_word_space_9: clump ticket title worth universe emotion roast obtain gown
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

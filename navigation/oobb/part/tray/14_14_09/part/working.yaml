@@ -1,3 +1,186 @@
+bip_39_word_new_br1: depend
+bip_39_word_new_br10: depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual
+bip_39_word_new_br11: depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual<br>girl
+bip_39_word_new_br12: depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch<br>casual<br>girl<br>afraid
+bip_39_word_new_br2: depend<br>suspect
+bip_39_word_new_br3: depend<br>suspect<br>garage
+bip_39_word_new_br4: depend<br>suspect<br>garage<br>together
+bip_39_word_new_br5: depend<br>suspect<br>garage<br>together<br>egg
+bip_39_word_new_br6: depend<br>suspect<br>garage<br>together<br>egg<br>silent
+bip_39_word_new_br7: depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list
+bip_39_word_new_br8: depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock
+bip_39_word_new_br9: depend<br>suspect<br>garage<br>together<br>egg<br>silent<br>list<br>knock<br>fetch
+bip_39_word_new_line1: depend
+bip_39_word_new_line10: 'depend
+
+  suspect
+
+  garage
+
+  together
+
+  egg
+
+  silent
+
+  list
+
+  knock
+
+  fetch
+
+  casual'
+bip_39_word_new_line11: 'depend
+
+  suspect
+
+  garage
+
+  together
+
+  egg
+
+  silent
+
+  list
+
+  knock
+
+  fetch
+
+  casual
+
+  girl'
+bip_39_word_new_line12: 'depend
+
+  suspect
+
+  garage
+
+  together
+
+  egg
+
+  silent
+
+  list
+
+  knock
+
+  fetch
+
+  casual
+
+  girl
+
+  afraid'
+bip_39_word_new_line2: 'depend
+
+  suspect'
+bip_39_word_new_line3: 'depend
+
+  suspect
+
+  garage'
+bip_39_word_new_line4: 'depend
+
+  suspect
+
+  garage
+
+  together'
+bip_39_word_new_line5: 'depend
+
+  suspect
+
+  garage
+
+  together
+
+  egg'
+bip_39_word_new_line6: 'depend
+
+  suspect
+
+  garage
+
+  together
+
+  egg
+
+  silent'
+bip_39_word_new_line7: 'depend
+
+  suspect
+
+  garage
+
+  together
+
+  egg
+
+  silent
+
+  list'
+bip_39_word_new_line8: 'depend
+
+  suspect
+
+  garage
+
+  together
+
+  egg
+
+  silent
+
+  list
+
+  knock'
+bip_39_word_new_line9: 'depend
+
+  suspect
+
+  garage
+
+  together
+
+  egg
+
+  silent
+
+  list
+
+  knock
+
+  fetch'
+bip_39_word_space_0:
+- depend
+- suspect
+- garage
+- together
+- egg
+- silent
+- list
+- knock
+- fetch
+- casual
+- girl
+- afraid
+bip_39_word_space_1: depend
+bip_39_word_space_10: depend suspect garage together egg silent list knock fetch casual
+bip_39_word_space_11: depend suspect garage together egg silent list knock fetch casual
+  girl
+bip_39_word_space_12: depend suspect garage together egg silent list knock fetch casual
+  girl afraid
+bip_39_word_space_2: depend suspect
+bip_39_word_space_3: depend suspect garage
+bip_39_word_space_4: depend suspect garage together
+bip_39_word_space_5: depend suspect garage together egg
+bip_39_word_space_6: depend suspect garage together egg silent
+bip_39_word_space_7: depend suspect garage together egg silent list
+bip_39_word_space_8: depend suspect garage together egg silent list knock
+bip_39_word_space_9: depend suspect garage together egg silent list knock fetch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

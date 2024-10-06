@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fashion alpha
+  * bip 39 word 3: fashion alpha chicken
+  * bip 39 word: fashion alpha chicken donate tool wage tip letter road plastic protect agent
 
 ### other_codes
 * short_code: tf2d5b6p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fashion |  
+| bip_39_word_new_br10 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage<br>tip<br>letter<br>road<br>plastic |  
+| bip_39_word_new_br11 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage<br>tip<br>letter<br>road<br>plastic<br>protect |  
+| bip_39_word_new_br12 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage<br>tip<br>letter<br>road<br>plastic<br>protect<br>agent |  
+| bip_39_word_new_br2 | fashion<br>alpha |  
+| bip_39_word_new_br3 | fashion<br>alpha<br>chicken |  
+| bip_39_word_new_br4 | fashion<br>alpha<br>chicken<br>donate |  
+| bip_39_word_new_br5 | fashion<br>alpha<br>chicken<br>donate<br>tool |  
+| bip_39_word_new_br6 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage |  
+| bip_39_word_new_br7 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage<br>tip |  
+| bip_39_word_new_br8 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage<br>tip<br>letter |  
+| bip_39_word_new_br9 | fashion<br>alpha<br>chicken<br>donate<br>tool<br>wage<br>tip<br>letter<br>road |  
+| bip_39_word_new_line1 | fashion |  
+| bip_39_word_new_line10 | fashion
+alpha
+chicken
+donate
+tool
+wage
+tip
+letter
+road
+plastic |  
+| bip_39_word_new_line11 | fashion
+alpha
+chicken
+donate
+tool
+wage
+tip
+letter
+road
+plastic
+protect |  
+| bip_39_word_new_line12 | fashion
+alpha
+chicken
+donate
+tool
+wage
+tip
+letter
+road
+plastic
+protect
+agent |  
+| bip_39_word_new_line2 | fashion
+alpha |  
+| bip_39_word_new_line3 | fashion
+alpha
+chicken |  
+| bip_39_word_new_line4 | fashion
+alpha
+chicken
+donate |  
+| bip_39_word_new_line5 | fashion
+alpha
+chicken
+donate
+tool |  
+| bip_39_word_new_line6 | fashion
+alpha
+chicken
+donate
+tool
+wage |  
+| bip_39_word_new_line7 | fashion
+alpha
+chicken
+donate
+tool
+wage
+tip |  
+| bip_39_word_new_line8 | fashion
+alpha
+chicken
+donate
+tool
+wage
+tip
+letter |  
+| bip_39_word_new_line9 | fashion
+alpha
+chicken
+donate
+tool
+wage
+tip
+letter
+road |  
+| bip_39_word_space_0 | ['fashion', 'alpha', 'chicken', 'donate', 'tool', 'wage', 'tip', 'letter', 'road', 'plastic', 'protect', 'agent'] |  
+| bip_39_word_space_1 | fashion |  
+| bip_39_word_space_10 | fashion alpha chicken donate tool wage tip letter road plastic |  
+| bip_39_word_space_11 | fashion alpha chicken donate tool wage tip letter road plastic protect |  
+| bip_39_word_space_12 | fashion alpha chicken donate tool wage tip letter road plastic protect agent |  
+| bip_39_word_space_2 | fashion alpha |  
+| bip_39_word_space_3 | fashion alpha chicken |  
+| bip_39_word_space_4 | fashion alpha chicken donate |  
+| bip_39_word_space_5 | fashion alpha chicken donate tool |  
+| bip_39_word_space_6 | fashion alpha chicken donate tool wage |  
+| bip_39_word_space_7 | fashion alpha chicken donate tool wage tip |  
+| bip_39_word_space_8 | fashion alpha chicken donate tool wage tip letter |  
+| bip_39_word_space_9 | fashion alpha chicken donate tool wage tip letter road |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

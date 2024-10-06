@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: busy crisp
+  * bip 39 word 3: busy crisp climb
+  * bip 39 word: busy crisp climb paper duck canvas slide surround chest tool web alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | busy |  
+| bip_39_word_new_br10 | busy<br>crisp<br>climb<br>paper<br>duck<br>canvas<br>slide<br>surround<br>chest<br>tool |  
+| bip_39_word_new_br11 | busy<br>crisp<br>climb<br>paper<br>duck<br>canvas<br>slide<br>surround<br>chest<br>tool<br>web |  
+| bip_39_word_new_br12 | busy<br>crisp<br>climb<br>paper<br>duck<br>canvas<br>slide<br>surround<br>chest<br>tool<br>web<br>alone |  
+| bip_39_word_new_br2 | busy<br>crisp |  
+| bip_39_word_new_br3 | busy<br>crisp<br>climb |  
+| bip_39_word_new_br4 | busy<br>crisp<br>climb<br>paper |  
+| bip_39_word_new_br5 | busy<br>crisp<br>climb<br>paper<br>duck |  
+| bip_39_word_new_br6 | busy<br>crisp<br>climb<br>paper<br>duck<br>canvas |  
+| bip_39_word_new_br7 | busy<br>crisp<br>climb<br>paper<br>duck<br>canvas<br>slide |  
+| bip_39_word_new_br8 | busy<br>crisp<br>climb<br>paper<br>duck<br>canvas<br>slide<br>surround |  
+| bip_39_word_new_br9 | busy<br>crisp<br>climb<br>paper<br>duck<br>canvas<br>slide<br>surround<br>chest |  
+| bip_39_word_new_line1 | busy |  
+| bip_39_word_new_line10 | busy
+crisp
+climb
+paper
+duck
+canvas
+slide
+surround
+chest
+tool |  
+| bip_39_word_new_line11 | busy
+crisp
+climb
+paper
+duck
+canvas
+slide
+surround
+chest
+tool
+web |  
+| bip_39_word_new_line12 | busy
+crisp
+climb
+paper
+duck
+canvas
+slide
+surround
+chest
+tool
+web
+alone |  
+| bip_39_word_new_line2 | busy
+crisp |  
+| bip_39_word_new_line3 | busy
+crisp
+climb |  
+| bip_39_word_new_line4 | busy
+crisp
+climb
+paper |  
+| bip_39_word_new_line5 | busy
+crisp
+climb
+paper
+duck |  
+| bip_39_word_new_line6 | busy
+crisp
+climb
+paper
+duck
+canvas |  
+| bip_39_word_new_line7 | busy
+crisp
+climb
+paper
+duck
+canvas
+slide |  
+| bip_39_word_new_line8 | busy
+crisp
+climb
+paper
+duck
+canvas
+slide
+surround |  
+| bip_39_word_new_line9 | busy
+crisp
+climb
+paper
+duck
+canvas
+slide
+surround
+chest |  
+| bip_39_word_space_0 | ['busy', 'crisp', 'climb', 'paper', 'duck', 'canvas', 'slide', 'surround', 'chest', 'tool', 'web', 'alone'] |  
+| bip_39_word_space_1 | busy |  
+| bip_39_word_space_10 | busy crisp climb paper duck canvas slide surround chest tool |  
+| bip_39_word_space_11 | busy crisp climb paper duck canvas slide surround chest tool web |  
+| bip_39_word_space_12 | busy crisp climb paper duck canvas slide surround chest tool web alone |  
+| bip_39_word_space_2 | busy crisp |  
+| bip_39_word_space_3 | busy crisp climb |  
+| bip_39_word_space_4 | busy crisp climb paper |  
+| bip_39_word_space_5 | busy crisp climb paper duck |  
+| bip_39_word_space_6 | busy crisp climb paper duck canvas |  
+| bip_39_word_space_7 | busy crisp climb paper duck canvas slide |  
+| bip_39_word_space_8 | busy crisp climb paper duck canvas slide surround |  
+| bip_39_word_space_9 | busy crisp climb paper duck canvas slide surround chest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

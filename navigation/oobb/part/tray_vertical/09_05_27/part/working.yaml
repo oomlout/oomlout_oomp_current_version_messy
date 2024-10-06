@@ -1,3 +1,187 @@
+bip_39_word_new_br1: adjust
+bip_39_word_new_br10: adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure
+bip_39_word_new_br11: adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure<br>inhale
+bip_39_word_new_br12: adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode<br>leisure<br>inhale<br>alien
+bip_39_word_new_br2: adjust<br>beach
+bip_39_word_new_br3: adjust<br>beach<br>trumpet
+bip_39_word_new_br4: adjust<br>beach<br>trumpet<br>setup
+bip_39_word_new_br5: adjust<br>beach<br>trumpet<br>setup<br>sock
+bip_39_word_new_br6: adjust<br>beach<br>trumpet<br>setup<br>sock<br>around
+bip_39_word_new_br7: adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction
+bip_39_word_new_br8: adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid
+bip_39_word_new_br9: adjust<br>beach<br>trumpet<br>setup<br>sock<br>around<br>fiction<br>pyramid<br>erode
+bip_39_word_new_line1: adjust
+bip_39_word_new_line10: 'adjust
+
+  beach
+
+  trumpet
+
+  setup
+
+  sock
+
+  around
+
+  fiction
+
+  pyramid
+
+  erode
+
+  leisure'
+bip_39_word_new_line11: 'adjust
+
+  beach
+
+  trumpet
+
+  setup
+
+  sock
+
+  around
+
+  fiction
+
+  pyramid
+
+  erode
+
+  leisure
+
+  inhale'
+bip_39_word_new_line12: 'adjust
+
+  beach
+
+  trumpet
+
+  setup
+
+  sock
+
+  around
+
+  fiction
+
+  pyramid
+
+  erode
+
+  leisure
+
+  inhale
+
+  alien'
+bip_39_word_new_line2: 'adjust
+
+  beach'
+bip_39_word_new_line3: 'adjust
+
+  beach
+
+  trumpet'
+bip_39_word_new_line4: 'adjust
+
+  beach
+
+  trumpet
+
+  setup'
+bip_39_word_new_line5: 'adjust
+
+  beach
+
+  trumpet
+
+  setup
+
+  sock'
+bip_39_word_new_line6: 'adjust
+
+  beach
+
+  trumpet
+
+  setup
+
+  sock
+
+  around'
+bip_39_word_new_line7: 'adjust
+
+  beach
+
+  trumpet
+
+  setup
+
+  sock
+
+  around
+
+  fiction'
+bip_39_word_new_line8: 'adjust
+
+  beach
+
+  trumpet
+
+  setup
+
+  sock
+
+  around
+
+  fiction
+
+  pyramid'
+bip_39_word_new_line9: 'adjust
+
+  beach
+
+  trumpet
+
+  setup
+
+  sock
+
+  around
+
+  fiction
+
+  pyramid
+
+  erode'
+bip_39_word_space_0:
+- adjust
+- beach
+- trumpet
+- setup
+- sock
+- around
+- fiction
+- pyramid
+- erode
+- leisure
+- inhale
+- alien
+bip_39_word_space_1: adjust
+bip_39_word_space_10: adjust beach trumpet setup sock around fiction pyramid erode
+  leisure
+bip_39_word_space_11: adjust beach trumpet setup sock around fiction pyramid erode
+  leisure inhale
+bip_39_word_space_12: adjust beach trumpet setup sock around fiction pyramid erode
+  leisure inhale alien
+bip_39_word_space_2: adjust beach
+bip_39_word_space_3: adjust beach trumpet
+bip_39_word_space_4: adjust beach trumpet setup
+bip_39_word_space_5: adjust beach trumpet setup sock
+bip_39_word_space_6: adjust beach trumpet setup sock around
+bip_39_word_space_7: adjust beach trumpet setup sock around fiction
+bip_39_word_space_8: adjust beach trumpet setup sock around fiction pyramid
+bip_39_word_space_9: adjust beach trumpet setup sock around fiction pyramid erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

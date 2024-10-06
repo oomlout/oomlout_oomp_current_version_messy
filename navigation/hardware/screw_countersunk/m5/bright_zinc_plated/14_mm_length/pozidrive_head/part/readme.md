@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cart design
+  * bip 39 word 3: cart design minimum
+  * bip 39 word: cart design minimum champion fury game little vessel opinion pig champion access
 
 ### other_codes
 * short_code: cs5bz14pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cart |  
+| bip_39_word_new_br10 | cart<br>design<br>minimum<br>champion<br>fury<br>game<br>little<br>vessel<br>opinion<br>pig |  
+| bip_39_word_new_br11 | cart<br>design<br>minimum<br>champion<br>fury<br>game<br>little<br>vessel<br>opinion<br>pig<br>champion |  
+| bip_39_word_new_br12 | cart<br>design<br>minimum<br>champion<br>fury<br>game<br>little<br>vessel<br>opinion<br>pig<br>champion<br>access |  
+| bip_39_word_new_br2 | cart<br>design |  
+| bip_39_word_new_br3 | cart<br>design<br>minimum |  
+| bip_39_word_new_br4 | cart<br>design<br>minimum<br>champion |  
+| bip_39_word_new_br5 | cart<br>design<br>minimum<br>champion<br>fury |  
+| bip_39_word_new_br6 | cart<br>design<br>minimum<br>champion<br>fury<br>game |  
+| bip_39_word_new_br7 | cart<br>design<br>minimum<br>champion<br>fury<br>game<br>little |  
+| bip_39_word_new_br8 | cart<br>design<br>minimum<br>champion<br>fury<br>game<br>little<br>vessel |  
+| bip_39_word_new_br9 | cart<br>design<br>minimum<br>champion<br>fury<br>game<br>little<br>vessel<br>opinion |  
+| bip_39_word_new_line1 | cart |  
+| bip_39_word_new_line10 | cart
+design
+minimum
+champion
+fury
+game
+little
+vessel
+opinion
+pig |  
+| bip_39_word_new_line11 | cart
+design
+minimum
+champion
+fury
+game
+little
+vessel
+opinion
+pig
+champion |  
+| bip_39_word_new_line12 | cart
+design
+minimum
+champion
+fury
+game
+little
+vessel
+opinion
+pig
+champion
+access |  
+| bip_39_word_new_line2 | cart
+design |  
+| bip_39_word_new_line3 | cart
+design
+minimum |  
+| bip_39_word_new_line4 | cart
+design
+minimum
+champion |  
+| bip_39_word_new_line5 | cart
+design
+minimum
+champion
+fury |  
+| bip_39_word_new_line6 | cart
+design
+minimum
+champion
+fury
+game |  
+| bip_39_word_new_line7 | cart
+design
+minimum
+champion
+fury
+game
+little |  
+| bip_39_word_new_line8 | cart
+design
+minimum
+champion
+fury
+game
+little
+vessel |  
+| bip_39_word_new_line9 | cart
+design
+minimum
+champion
+fury
+game
+little
+vessel
+opinion |  
+| bip_39_word_space_0 | ['cart', 'design', 'minimum', 'champion', 'fury', 'game', 'little', 'vessel', 'opinion', 'pig', 'champion', 'access'] |  
+| bip_39_word_space_1 | cart |  
+| bip_39_word_space_10 | cart design minimum champion fury game little vessel opinion pig |  
+| bip_39_word_space_11 | cart design minimum champion fury game little vessel opinion pig champion |  
+| bip_39_word_space_12 | cart design minimum champion fury game little vessel opinion pig champion access |  
+| bip_39_word_space_2 | cart design |  
+| bip_39_word_space_3 | cart design minimum |  
+| bip_39_word_space_4 | cart design minimum champion |  
+| bip_39_word_space_5 | cart design minimum champion fury |  
+| bip_39_word_space_6 | cart design minimum champion fury game |  
+| bip_39_word_space_7 | cart design minimum champion fury game little |  
+| bip_39_word_space_8 | cart design minimum champion fury game little vessel |  
+| bip_39_word_space_9 | cart design minimum champion fury game little vessel opinion |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

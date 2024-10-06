@@ -1,3 +1,186 @@
+bip_39_word_new_br1: decide
+bip_39_word_new_br10: decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb
+bip_39_word_new_br11: decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb<br>enact
+bip_39_word_new_br12: decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger<br>climb<br>enact<br>actress
+bip_39_word_new_br2: decide<br>pink
+bip_39_word_new_br3: decide<br>pink<br>surge
+bip_39_word_new_br4: decide<br>pink<br>surge<br>senior
+bip_39_word_new_br5: decide<br>pink<br>surge<br>senior<br>build
+bip_39_word_new_br6: decide<br>pink<br>surge<br>senior<br>build<br>mass
+bip_39_word_new_br7: decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape
+bip_39_word_new_br8: decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment
+bip_39_word_new_br9: decide<br>pink<br>surge<br>senior<br>build<br>mass<br>escape<br>moment<br>anger
+bip_39_word_new_line1: decide
+bip_39_word_new_line10: 'decide
+
+  pink
+
+  surge
+
+  senior
+
+  build
+
+  mass
+
+  escape
+
+  moment
+
+  anger
+
+  climb'
+bip_39_word_new_line11: 'decide
+
+  pink
+
+  surge
+
+  senior
+
+  build
+
+  mass
+
+  escape
+
+  moment
+
+  anger
+
+  climb
+
+  enact'
+bip_39_word_new_line12: 'decide
+
+  pink
+
+  surge
+
+  senior
+
+  build
+
+  mass
+
+  escape
+
+  moment
+
+  anger
+
+  climb
+
+  enact
+
+  actress'
+bip_39_word_new_line2: 'decide
+
+  pink'
+bip_39_word_new_line3: 'decide
+
+  pink
+
+  surge'
+bip_39_word_new_line4: 'decide
+
+  pink
+
+  surge
+
+  senior'
+bip_39_word_new_line5: 'decide
+
+  pink
+
+  surge
+
+  senior
+
+  build'
+bip_39_word_new_line6: 'decide
+
+  pink
+
+  surge
+
+  senior
+
+  build
+
+  mass'
+bip_39_word_new_line7: 'decide
+
+  pink
+
+  surge
+
+  senior
+
+  build
+
+  mass
+
+  escape'
+bip_39_word_new_line8: 'decide
+
+  pink
+
+  surge
+
+  senior
+
+  build
+
+  mass
+
+  escape
+
+  moment'
+bip_39_word_new_line9: 'decide
+
+  pink
+
+  surge
+
+  senior
+
+  build
+
+  mass
+
+  escape
+
+  moment
+
+  anger'
+bip_39_word_space_0:
+- decide
+- pink
+- surge
+- senior
+- build
+- mass
+- escape
+- moment
+- anger
+- climb
+- enact
+- actress
+bip_39_word_space_1: decide
+bip_39_word_space_10: decide pink surge senior build mass escape moment anger climb
+bip_39_word_space_11: decide pink surge senior build mass escape moment anger climb
+  enact
+bip_39_word_space_12: decide pink surge senior build mass escape moment anger climb
+  enact actress
+bip_39_word_space_2: decide pink
+bip_39_word_space_3: decide pink surge
+bip_39_word_space_4: decide pink surge senior
+bip_39_word_space_5: decide pink surge senior build
+bip_39_word_space_6: decide pink surge senior build mass
+bip_39_word_space_7: decide pink surge senior build mass escape
+bip_39_word_space_8: decide pink surge senior build mass escape moment
+bip_39_word_space_9: decide pink surge senior build mass escape moment anger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: surge lend
+  * bip 39 word 3: surge lend arrange
+  * bip 39 word: surge lend arrange define topple lamp toddler benefit upset joke any anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | surge |  
+| bip_39_word_new_br10 | surge<br>lend<br>arrange<br>define<br>topple<br>lamp<br>toddler<br>benefit<br>upset<br>joke |  
+| bip_39_word_new_br11 | surge<br>lend<br>arrange<br>define<br>topple<br>lamp<br>toddler<br>benefit<br>upset<br>joke<br>any |  
+| bip_39_word_new_br12 | surge<br>lend<br>arrange<br>define<br>topple<br>lamp<br>toddler<br>benefit<br>upset<br>joke<br>any<br>anxiety |  
+| bip_39_word_new_br2 | surge<br>lend |  
+| bip_39_word_new_br3 | surge<br>lend<br>arrange |  
+| bip_39_word_new_br4 | surge<br>lend<br>arrange<br>define |  
+| bip_39_word_new_br5 | surge<br>lend<br>arrange<br>define<br>topple |  
+| bip_39_word_new_br6 | surge<br>lend<br>arrange<br>define<br>topple<br>lamp |  
+| bip_39_word_new_br7 | surge<br>lend<br>arrange<br>define<br>topple<br>lamp<br>toddler |  
+| bip_39_word_new_br8 | surge<br>lend<br>arrange<br>define<br>topple<br>lamp<br>toddler<br>benefit |  
+| bip_39_word_new_br9 | surge<br>lend<br>arrange<br>define<br>topple<br>lamp<br>toddler<br>benefit<br>upset |  
+| bip_39_word_new_line1 | surge |  
+| bip_39_word_new_line10 | surge
+lend
+arrange
+define
+topple
+lamp
+toddler
+benefit
+upset
+joke |  
+| bip_39_word_new_line11 | surge
+lend
+arrange
+define
+topple
+lamp
+toddler
+benefit
+upset
+joke
+any |  
+| bip_39_word_new_line12 | surge
+lend
+arrange
+define
+topple
+lamp
+toddler
+benefit
+upset
+joke
+any
+anxiety |  
+| bip_39_word_new_line2 | surge
+lend |  
+| bip_39_word_new_line3 | surge
+lend
+arrange |  
+| bip_39_word_new_line4 | surge
+lend
+arrange
+define |  
+| bip_39_word_new_line5 | surge
+lend
+arrange
+define
+topple |  
+| bip_39_word_new_line6 | surge
+lend
+arrange
+define
+topple
+lamp |  
+| bip_39_word_new_line7 | surge
+lend
+arrange
+define
+topple
+lamp
+toddler |  
+| bip_39_word_new_line8 | surge
+lend
+arrange
+define
+topple
+lamp
+toddler
+benefit |  
+| bip_39_word_new_line9 | surge
+lend
+arrange
+define
+topple
+lamp
+toddler
+benefit
+upset |  
+| bip_39_word_space_0 | ['surge', 'lend', 'arrange', 'define', 'topple', 'lamp', 'toddler', 'benefit', 'upset', 'joke', 'any', 'anxiety'] |  
+| bip_39_word_space_1 | surge |  
+| bip_39_word_space_10 | surge lend arrange define topple lamp toddler benefit upset joke |  
+| bip_39_word_space_11 | surge lend arrange define topple lamp toddler benefit upset joke any |  
+| bip_39_word_space_12 | surge lend arrange define topple lamp toddler benefit upset joke any anxiety |  
+| bip_39_word_space_2 | surge lend |  
+| bip_39_word_space_3 | surge lend arrange |  
+| bip_39_word_space_4 | surge lend arrange define |  
+| bip_39_word_space_5 | surge lend arrange define topple |  
+| bip_39_word_space_6 | surge lend arrange define topple lamp |  
+| bip_39_word_space_7 | surge lend arrange define topple lamp toddler |  
+| bip_39_word_space_8 | surge lend arrange define topple lamp toddler benefit |  
+| bip_39_word_space_9 | surge lend arrange define topple lamp toddler benefit upset |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

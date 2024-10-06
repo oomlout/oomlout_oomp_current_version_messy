@@ -1,3 +1,187 @@
+bip_39_word_new_br1: present
+bip_39_word_new_br10: present<br>bulk<br>science<br>elder<br>parent<br>pretty<br>night<br>hedgehog<br>leisure<br>bar
+bip_39_word_new_br11: present<br>bulk<br>science<br>elder<br>parent<br>pretty<br>night<br>hedgehog<br>leisure<br>bar<br>upgrade
+bip_39_word_new_br12: present<br>bulk<br>science<br>elder<br>parent<br>pretty<br>night<br>hedgehog<br>leisure<br>bar<br>upgrade<br>antenna
+bip_39_word_new_br2: present<br>bulk
+bip_39_word_new_br3: present<br>bulk<br>science
+bip_39_word_new_br4: present<br>bulk<br>science<br>elder
+bip_39_word_new_br5: present<br>bulk<br>science<br>elder<br>parent
+bip_39_word_new_br6: present<br>bulk<br>science<br>elder<br>parent<br>pretty
+bip_39_word_new_br7: present<br>bulk<br>science<br>elder<br>parent<br>pretty<br>night
+bip_39_word_new_br8: present<br>bulk<br>science<br>elder<br>parent<br>pretty<br>night<br>hedgehog
+bip_39_word_new_br9: present<br>bulk<br>science<br>elder<br>parent<br>pretty<br>night<br>hedgehog<br>leisure
+bip_39_word_new_line1: present
+bip_39_word_new_line10: 'present
+
+  bulk
+
+  science
+
+  elder
+
+  parent
+
+  pretty
+
+  night
+
+  hedgehog
+
+  leisure
+
+  bar'
+bip_39_word_new_line11: 'present
+
+  bulk
+
+  science
+
+  elder
+
+  parent
+
+  pretty
+
+  night
+
+  hedgehog
+
+  leisure
+
+  bar
+
+  upgrade'
+bip_39_word_new_line12: 'present
+
+  bulk
+
+  science
+
+  elder
+
+  parent
+
+  pretty
+
+  night
+
+  hedgehog
+
+  leisure
+
+  bar
+
+  upgrade
+
+  antenna'
+bip_39_word_new_line2: 'present
+
+  bulk'
+bip_39_word_new_line3: 'present
+
+  bulk
+
+  science'
+bip_39_word_new_line4: 'present
+
+  bulk
+
+  science
+
+  elder'
+bip_39_word_new_line5: 'present
+
+  bulk
+
+  science
+
+  elder
+
+  parent'
+bip_39_word_new_line6: 'present
+
+  bulk
+
+  science
+
+  elder
+
+  parent
+
+  pretty'
+bip_39_word_new_line7: 'present
+
+  bulk
+
+  science
+
+  elder
+
+  parent
+
+  pretty
+
+  night'
+bip_39_word_new_line8: 'present
+
+  bulk
+
+  science
+
+  elder
+
+  parent
+
+  pretty
+
+  night
+
+  hedgehog'
+bip_39_word_new_line9: 'present
+
+  bulk
+
+  science
+
+  elder
+
+  parent
+
+  pretty
+
+  night
+
+  hedgehog
+
+  leisure'
+bip_39_word_space_0:
+- present
+- bulk
+- science
+- elder
+- parent
+- pretty
+- night
+- hedgehog
+- leisure
+- bar
+- upgrade
+- antenna
+bip_39_word_space_1: present
+bip_39_word_space_10: present bulk science elder parent pretty night hedgehog leisure
+  bar
+bip_39_word_space_11: present bulk science elder parent pretty night hedgehog leisure
+  bar upgrade
+bip_39_word_space_12: present bulk science elder parent pretty night hedgehog leisure
+  bar upgrade antenna
+bip_39_word_space_2: present bulk
+bip_39_word_space_3: present bulk science
+bip_39_word_space_4: present bulk science elder
+bip_39_word_space_5: present bulk science elder parent
+bip_39_word_space_6: present bulk science elder parent pretty
+bip_39_word_space_7: present bulk science elder parent pretty night
+bip_39_word_space_8: present bulk science elder parent pretty night hedgehog
+bip_39_word_space_9: present bulk science elder parent pretty night hedgehog leisure
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

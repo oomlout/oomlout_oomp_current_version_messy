@@ -1,3 +1,186 @@
+bip_39_word_new_br1: panel
+bip_39_word_new_br10: panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run
+bip_39_word_new_br11: panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run<br>buddy
+bip_39_word_new_br12: panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include<br>run<br>buddy<br>arch
+bip_39_word_new_br2: panel<br>debris
+bip_39_word_new_br3: panel<br>debris<br>smart
+bip_39_word_new_br4: panel<br>debris<br>smart<br>shoot
+bip_39_word_new_br5: panel<br>debris<br>smart<br>shoot<br>door
+bip_39_word_new_br6: panel<br>debris<br>smart<br>shoot<br>door<br>person
+bip_39_word_new_br7: panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable
+bip_39_word_new_br8: panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude
+bip_39_word_new_br9: panel<br>debris<br>smart<br>shoot<br>door<br>person<br>cable<br>exclude<br>include
+bip_39_word_new_line1: panel
+bip_39_word_new_line10: 'panel
+
+  debris
+
+  smart
+
+  shoot
+
+  door
+
+  person
+
+  cable
+
+  exclude
+
+  include
+
+  run'
+bip_39_word_new_line11: 'panel
+
+  debris
+
+  smart
+
+  shoot
+
+  door
+
+  person
+
+  cable
+
+  exclude
+
+  include
+
+  run
+
+  buddy'
+bip_39_word_new_line12: 'panel
+
+  debris
+
+  smart
+
+  shoot
+
+  door
+
+  person
+
+  cable
+
+  exclude
+
+  include
+
+  run
+
+  buddy
+
+  arch'
+bip_39_word_new_line2: 'panel
+
+  debris'
+bip_39_word_new_line3: 'panel
+
+  debris
+
+  smart'
+bip_39_word_new_line4: 'panel
+
+  debris
+
+  smart
+
+  shoot'
+bip_39_word_new_line5: 'panel
+
+  debris
+
+  smart
+
+  shoot
+
+  door'
+bip_39_word_new_line6: 'panel
+
+  debris
+
+  smart
+
+  shoot
+
+  door
+
+  person'
+bip_39_word_new_line7: 'panel
+
+  debris
+
+  smart
+
+  shoot
+
+  door
+
+  person
+
+  cable'
+bip_39_word_new_line8: 'panel
+
+  debris
+
+  smart
+
+  shoot
+
+  door
+
+  person
+
+  cable
+
+  exclude'
+bip_39_word_new_line9: 'panel
+
+  debris
+
+  smart
+
+  shoot
+
+  door
+
+  person
+
+  cable
+
+  exclude
+
+  include'
+bip_39_word_space_0:
+- panel
+- debris
+- smart
+- shoot
+- door
+- person
+- cable
+- exclude
+- include
+- run
+- buddy
+- arch
+bip_39_word_space_1: panel
+bip_39_word_space_10: panel debris smart shoot door person cable exclude include run
+bip_39_word_space_11: panel debris smart shoot door person cable exclude include run
+  buddy
+bip_39_word_space_12: panel debris smart shoot door person cable exclude include run
+  buddy arch
+bip_39_word_space_2: panel debris
+bip_39_word_space_3: panel debris smart
+bip_39_word_space_4: panel debris smart shoot
+bip_39_word_space_5: panel debris smart shoot door
+bip_39_word_space_6: panel debris smart shoot door person
+bip_39_word_space_7: panel debris smart shoot door person cable
+bip_39_word_space_8: panel debris smart shoot door person cable exclude
+bip_39_word_space_9: panel debris smart shoot door person cable exclude include
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

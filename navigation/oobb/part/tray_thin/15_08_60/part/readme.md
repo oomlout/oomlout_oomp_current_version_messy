@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fiscal sad
+  * bip 39 word 3: fiscal sad sweet
+  * bip 39 word: fiscal sad sweet west filter galaxy abstract there shadow win fortune auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fiscal |  
+| bip_39_word_new_br10 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow<br>win |  
+| bip_39_word_new_br11 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow<br>win<br>fortune |  
+| bip_39_word_new_br12 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow<br>win<br>fortune<br>auto |  
+| bip_39_word_new_br2 | fiscal<br>sad |  
+| bip_39_word_new_br3 | fiscal<br>sad<br>sweet |  
+| bip_39_word_new_br4 | fiscal<br>sad<br>sweet<br>west |  
+| bip_39_word_new_br5 | fiscal<br>sad<br>sweet<br>west<br>filter |  
+| bip_39_word_new_br6 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy |  
+| bip_39_word_new_br7 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract |  
+| bip_39_word_new_br8 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there |  
+| bip_39_word_new_br9 | fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow |  
+| bip_39_word_new_line1 | fiscal |  
+| bip_39_word_new_line10 | fiscal
+sad
+sweet
+west
+filter
+galaxy
+abstract
+there
+shadow
+win |  
+| bip_39_word_new_line11 | fiscal
+sad
+sweet
+west
+filter
+galaxy
+abstract
+there
+shadow
+win
+fortune |  
+| bip_39_word_new_line12 | fiscal
+sad
+sweet
+west
+filter
+galaxy
+abstract
+there
+shadow
+win
+fortune
+auto |  
+| bip_39_word_new_line2 | fiscal
+sad |  
+| bip_39_word_new_line3 | fiscal
+sad
+sweet |  
+| bip_39_word_new_line4 | fiscal
+sad
+sweet
+west |  
+| bip_39_word_new_line5 | fiscal
+sad
+sweet
+west
+filter |  
+| bip_39_word_new_line6 | fiscal
+sad
+sweet
+west
+filter
+galaxy |  
+| bip_39_word_new_line7 | fiscal
+sad
+sweet
+west
+filter
+galaxy
+abstract |  
+| bip_39_word_new_line8 | fiscal
+sad
+sweet
+west
+filter
+galaxy
+abstract
+there |  
+| bip_39_word_new_line9 | fiscal
+sad
+sweet
+west
+filter
+galaxy
+abstract
+there
+shadow |  
+| bip_39_word_space_0 | ['fiscal', 'sad', 'sweet', 'west', 'filter', 'galaxy', 'abstract', 'there', 'shadow', 'win', 'fortune', 'auto'] |  
+| bip_39_word_space_1 | fiscal |  
+| bip_39_word_space_10 | fiscal sad sweet west filter galaxy abstract there shadow win |  
+| bip_39_word_space_11 | fiscal sad sweet west filter galaxy abstract there shadow win fortune |  
+| bip_39_word_space_12 | fiscal sad sweet west filter galaxy abstract there shadow win fortune auto |  
+| bip_39_word_space_2 | fiscal sad |  
+| bip_39_word_space_3 | fiscal sad sweet |  
+| bip_39_word_space_4 | fiscal sad sweet west |  
+| bip_39_word_space_5 | fiscal sad sweet west filter |  
+| bip_39_word_space_6 | fiscal sad sweet west filter galaxy |  
+| bip_39_word_space_7 | fiscal sad sweet west filter galaxy abstract |  
+| bip_39_word_space_8 | fiscal sad sweet west filter galaxy abstract there |  
+| bip_39_word_space_9 | fiscal sad sweet west filter galaxy abstract there shadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

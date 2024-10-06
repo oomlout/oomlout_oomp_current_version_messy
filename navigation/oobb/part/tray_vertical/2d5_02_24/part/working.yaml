@@ -1,3 +1,187 @@
+bip_39_word_new_br1: hobby
+bip_39_word_new_br10: hobby<br>venue<br>wasp<br>version<br>traffic<br>switch<br>dress<br>thought<br>language<br>cage
+bip_39_word_new_br11: hobby<br>venue<br>wasp<br>version<br>traffic<br>switch<br>dress<br>thought<br>language<br>cage<br>average
+bip_39_word_new_br12: hobby<br>venue<br>wasp<br>version<br>traffic<br>switch<br>dress<br>thought<br>language<br>cage<br>average<br>argue
+bip_39_word_new_br2: hobby<br>venue
+bip_39_word_new_br3: hobby<br>venue<br>wasp
+bip_39_word_new_br4: hobby<br>venue<br>wasp<br>version
+bip_39_word_new_br5: hobby<br>venue<br>wasp<br>version<br>traffic
+bip_39_word_new_br6: hobby<br>venue<br>wasp<br>version<br>traffic<br>switch
+bip_39_word_new_br7: hobby<br>venue<br>wasp<br>version<br>traffic<br>switch<br>dress
+bip_39_word_new_br8: hobby<br>venue<br>wasp<br>version<br>traffic<br>switch<br>dress<br>thought
+bip_39_word_new_br9: hobby<br>venue<br>wasp<br>version<br>traffic<br>switch<br>dress<br>thought<br>language
+bip_39_word_new_line1: hobby
+bip_39_word_new_line10: 'hobby
+
+  venue
+
+  wasp
+
+  version
+
+  traffic
+
+  switch
+
+  dress
+
+  thought
+
+  language
+
+  cage'
+bip_39_word_new_line11: 'hobby
+
+  venue
+
+  wasp
+
+  version
+
+  traffic
+
+  switch
+
+  dress
+
+  thought
+
+  language
+
+  cage
+
+  average'
+bip_39_word_new_line12: 'hobby
+
+  venue
+
+  wasp
+
+  version
+
+  traffic
+
+  switch
+
+  dress
+
+  thought
+
+  language
+
+  cage
+
+  average
+
+  argue'
+bip_39_word_new_line2: 'hobby
+
+  venue'
+bip_39_word_new_line3: 'hobby
+
+  venue
+
+  wasp'
+bip_39_word_new_line4: 'hobby
+
+  venue
+
+  wasp
+
+  version'
+bip_39_word_new_line5: 'hobby
+
+  venue
+
+  wasp
+
+  version
+
+  traffic'
+bip_39_word_new_line6: 'hobby
+
+  venue
+
+  wasp
+
+  version
+
+  traffic
+
+  switch'
+bip_39_word_new_line7: 'hobby
+
+  venue
+
+  wasp
+
+  version
+
+  traffic
+
+  switch
+
+  dress'
+bip_39_word_new_line8: 'hobby
+
+  venue
+
+  wasp
+
+  version
+
+  traffic
+
+  switch
+
+  dress
+
+  thought'
+bip_39_word_new_line9: 'hobby
+
+  venue
+
+  wasp
+
+  version
+
+  traffic
+
+  switch
+
+  dress
+
+  thought
+
+  language'
+bip_39_word_space_0:
+- hobby
+- venue
+- wasp
+- version
+- traffic
+- switch
+- dress
+- thought
+- language
+- cage
+- average
+- argue
+bip_39_word_space_1: hobby
+bip_39_word_space_10: hobby venue wasp version traffic switch dress thought language
+  cage
+bip_39_word_space_11: hobby venue wasp version traffic switch dress thought language
+  cage average
+bip_39_word_space_12: hobby venue wasp version traffic switch dress thought language
+  cage average argue
+bip_39_word_space_2: hobby venue
+bip_39_word_space_3: hobby venue wasp
+bip_39_word_space_4: hobby venue wasp version
+bip_39_word_space_5: hobby venue wasp version traffic
+bip_39_word_space_6: hobby venue wasp version traffic switch
+bip_39_word_space_7: hobby venue wasp version traffic switch dress
+bip_39_word_space_8: hobby venue wasp version traffic switch dress thought
+bip_39_word_space_9: hobby venue wasp version traffic switch dress thought language
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

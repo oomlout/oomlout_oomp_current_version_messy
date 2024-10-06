@@ -1,3 +1,186 @@
+bip_39_word_new_br1: adapt
+bip_39_word_new_br10: adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite<br>salt<br>order<br>gorilla<br>grow
+bip_39_word_new_br11: adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite<br>salt<br>order<br>gorilla<br>grow<br>cart
+bip_39_word_new_br12: adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite<br>salt<br>order<br>gorilla<br>grow<br>cart<br>alter
+bip_39_word_new_br2: adapt<br>air
+bip_39_word_new_br3: adapt<br>air<br>wrong
+bip_39_word_new_br4: adapt<br>air<br>wrong<br>dismiss
+bip_39_word_new_br5: adapt<br>air<br>wrong<br>dismiss<br>mandate
+bip_39_word_new_br6: adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite
+bip_39_word_new_br7: adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite<br>salt
+bip_39_word_new_br8: adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite<br>salt<br>order
+bip_39_word_new_br9: adapt<br>air<br>wrong<br>dismiss<br>mandate<br>excite<br>salt<br>order<br>gorilla
+bip_39_word_new_line1: adapt
+bip_39_word_new_line10: 'adapt
+
+  air
+
+  wrong
+
+  dismiss
+
+  mandate
+
+  excite
+
+  salt
+
+  order
+
+  gorilla
+
+  grow'
+bip_39_word_new_line11: 'adapt
+
+  air
+
+  wrong
+
+  dismiss
+
+  mandate
+
+  excite
+
+  salt
+
+  order
+
+  gorilla
+
+  grow
+
+  cart'
+bip_39_word_new_line12: 'adapt
+
+  air
+
+  wrong
+
+  dismiss
+
+  mandate
+
+  excite
+
+  salt
+
+  order
+
+  gorilla
+
+  grow
+
+  cart
+
+  alter'
+bip_39_word_new_line2: 'adapt
+
+  air'
+bip_39_word_new_line3: 'adapt
+
+  air
+
+  wrong'
+bip_39_word_new_line4: 'adapt
+
+  air
+
+  wrong
+
+  dismiss'
+bip_39_word_new_line5: 'adapt
+
+  air
+
+  wrong
+
+  dismiss
+
+  mandate'
+bip_39_word_new_line6: 'adapt
+
+  air
+
+  wrong
+
+  dismiss
+
+  mandate
+
+  excite'
+bip_39_word_new_line7: 'adapt
+
+  air
+
+  wrong
+
+  dismiss
+
+  mandate
+
+  excite
+
+  salt'
+bip_39_word_new_line8: 'adapt
+
+  air
+
+  wrong
+
+  dismiss
+
+  mandate
+
+  excite
+
+  salt
+
+  order'
+bip_39_word_new_line9: 'adapt
+
+  air
+
+  wrong
+
+  dismiss
+
+  mandate
+
+  excite
+
+  salt
+
+  order
+
+  gorilla'
+bip_39_word_space_0:
+- adapt
+- air
+- wrong
+- dismiss
+- mandate
+- excite
+- salt
+- order
+- gorilla
+- grow
+- cart
+- alter
+bip_39_word_space_1: adapt
+bip_39_word_space_10: adapt air wrong dismiss mandate excite salt order gorilla grow
+bip_39_word_space_11: adapt air wrong dismiss mandate excite salt order gorilla grow
+  cart
+bip_39_word_space_12: adapt air wrong dismiss mandate excite salt order gorilla grow
+  cart alter
+bip_39_word_space_2: adapt air
+bip_39_word_space_3: adapt air wrong
+bip_39_word_space_4: adapt air wrong dismiss
+bip_39_word_space_5: adapt air wrong dismiss mandate
+bip_39_word_space_6: adapt air wrong dismiss mandate excite
+bip_39_word_space_7: adapt air wrong dismiss mandate excite salt
+bip_39_word_space_8: adapt air wrong dismiss mandate excite salt order
+bip_39_word_space_9: adapt air wrong dismiss mandate excite salt order gorilla
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

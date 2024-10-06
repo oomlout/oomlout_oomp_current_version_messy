@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: season cash
+  * bip 39 word 3: season cash seat
+  * bip 39 word: season cash seat earn sunny leisure champion scorpion insect fluid slab absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | season |  
+| bip_39_word_new_br10 | season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid |  
+| bip_39_word_new_br11 | season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid<br>slab |  
+| bip_39_word_new_br12 | season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect<br>fluid<br>slab<br>absorb |  
+| bip_39_word_new_br2 | season<br>cash |  
+| bip_39_word_new_br3 | season<br>cash<br>seat |  
+| bip_39_word_new_br4 | season<br>cash<br>seat<br>earn |  
+| bip_39_word_new_br5 | season<br>cash<br>seat<br>earn<br>sunny |  
+| bip_39_word_new_br6 | season<br>cash<br>seat<br>earn<br>sunny<br>leisure |  
+| bip_39_word_new_br7 | season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion |  
+| bip_39_word_new_br8 | season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion |  
+| bip_39_word_new_br9 | season<br>cash<br>seat<br>earn<br>sunny<br>leisure<br>champion<br>scorpion<br>insect |  
+| bip_39_word_new_line1 | season |  
+| bip_39_word_new_line10 | season
+cash
+seat
+earn
+sunny
+leisure
+champion
+scorpion
+insect
+fluid |  
+| bip_39_word_new_line11 | season
+cash
+seat
+earn
+sunny
+leisure
+champion
+scorpion
+insect
+fluid
+slab |  
+| bip_39_word_new_line12 | season
+cash
+seat
+earn
+sunny
+leisure
+champion
+scorpion
+insect
+fluid
+slab
+absorb |  
+| bip_39_word_new_line2 | season
+cash |  
+| bip_39_word_new_line3 | season
+cash
+seat |  
+| bip_39_word_new_line4 | season
+cash
+seat
+earn |  
+| bip_39_word_new_line5 | season
+cash
+seat
+earn
+sunny |  
+| bip_39_word_new_line6 | season
+cash
+seat
+earn
+sunny
+leisure |  
+| bip_39_word_new_line7 | season
+cash
+seat
+earn
+sunny
+leisure
+champion |  
+| bip_39_word_new_line8 | season
+cash
+seat
+earn
+sunny
+leisure
+champion
+scorpion |  
+| bip_39_word_new_line9 | season
+cash
+seat
+earn
+sunny
+leisure
+champion
+scorpion
+insect |  
+| bip_39_word_space_0 | ['season', 'cash', 'seat', 'earn', 'sunny', 'leisure', 'champion', 'scorpion', 'insect', 'fluid', 'slab', 'absorb'] |  
+| bip_39_word_space_1 | season |  
+| bip_39_word_space_10 | season cash seat earn sunny leisure champion scorpion insect fluid |  
+| bip_39_word_space_11 | season cash seat earn sunny leisure champion scorpion insect fluid slab |  
+| bip_39_word_space_12 | season cash seat earn sunny leisure champion scorpion insect fluid slab absorb |  
+| bip_39_word_space_2 | season cash |  
+| bip_39_word_space_3 | season cash seat |  
+| bip_39_word_space_4 | season cash seat earn |  
+| bip_39_word_space_5 | season cash seat earn sunny |  
+| bip_39_word_space_6 | season cash seat earn sunny leisure |  
+| bip_39_word_space_7 | season cash seat earn sunny leisure champion |  
+| bip_39_word_space_8 | season cash seat earn sunny leisure champion scorpion |  
+| bip_39_word_space_9 | season cash seat earn sunny leisure champion scorpion insect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

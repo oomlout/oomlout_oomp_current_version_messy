@@ -1,3 +1,187 @@
+bip_39_word_new_br1: direct
+bip_39_word_new_br10: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn<br>sudden<br>deliver<br>safe<br>galaxy
+bip_39_word_new_br11: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn<br>sudden<br>deliver<br>safe<br>galaxy<br>orbit
+bip_39_word_new_br12: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn<br>sudden<br>deliver<br>safe<br>galaxy<br>orbit<br>attack
+bip_39_word_new_br2: direct<br>bulk
+bip_39_word_new_br3: direct<br>bulk<br>artist
+bip_39_word_new_br4: direct<br>bulk<br>artist<br>kite
+bip_39_word_new_br5: direct<br>bulk<br>artist<br>kite<br>mushroom
+bip_39_word_new_br6: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn
+bip_39_word_new_br7: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn<br>sudden
+bip_39_word_new_br8: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn<br>sudden<br>deliver
+bip_39_word_new_br9: direct<br>bulk<br>artist<br>kite<br>mushroom<br>autumn<br>sudden<br>deliver<br>safe
+bip_39_word_new_line1: direct
+bip_39_word_new_line10: 'direct
+
+  bulk
+
+  artist
+
+  kite
+
+  mushroom
+
+  autumn
+
+  sudden
+
+  deliver
+
+  safe
+
+  galaxy'
+bip_39_word_new_line11: 'direct
+
+  bulk
+
+  artist
+
+  kite
+
+  mushroom
+
+  autumn
+
+  sudden
+
+  deliver
+
+  safe
+
+  galaxy
+
+  orbit'
+bip_39_word_new_line12: 'direct
+
+  bulk
+
+  artist
+
+  kite
+
+  mushroom
+
+  autumn
+
+  sudden
+
+  deliver
+
+  safe
+
+  galaxy
+
+  orbit
+
+  attack'
+bip_39_word_new_line2: 'direct
+
+  bulk'
+bip_39_word_new_line3: 'direct
+
+  bulk
+
+  artist'
+bip_39_word_new_line4: 'direct
+
+  bulk
+
+  artist
+
+  kite'
+bip_39_word_new_line5: 'direct
+
+  bulk
+
+  artist
+
+  kite
+
+  mushroom'
+bip_39_word_new_line6: 'direct
+
+  bulk
+
+  artist
+
+  kite
+
+  mushroom
+
+  autumn'
+bip_39_word_new_line7: 'direct
+
+  bulk
+
+  artist
+
+  kite
+
+  mushroom
+
+  autumn
+
+  sudden'
+bip_39_word_new_line8: 'direct
+
+  bulk
+
+  artist
+
+  kite
+
+  mushroom
+
+  autumn
+
+  sudden
+
+  deliver'
+bip_39_word_new_line9: 'direct
+
+  bulk
+
+  artist
+
+  kite
+
+  mushroom
+
+  autumn
+
+  sudden
+
+  deliver
+
+  safe'
+bip_39_word_space_0:
+- direct
+- bulk
+- artist
+- kite
+- mushroom
+- autumn
+- sudden
+- deliver
+- safe
+- galaxy
+- orbit
+- attack
+bip_39_word_space_1: direct
+bip_39_word_space_10: direct bulk artist kite mushroom autumn sudden deliver safe
+  galaxy
+bip_39_word_space_11: direct bulk artist kite mushroom autumn sudden deliver safe
+  galaxy orbit
+bip_39_word_space_12: direct bulk artist kite mushroom autumn sudden deliver safe
+  galaxy orbit attack
+bip_39_word_space_2: direct bulk
+bip_39_word_space_3: direct bulk artist
+bip_39_word_space_4: direct bulk artist kite
+bip_39_word_space_5: direct bulk artist kite mushroom
+bip_39_word_space_6: direct bulk artist kite mushroom autumn
+bip_39_word_space_7: direct bulk artist kite mushroom autumn sudden
+bip_39_word_space_8: direct bulk artist kite mushroom autumn sudden deliver
+bip_39_word_space_9: direct bulk artist kite mushroom autumn sudden deliver safe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

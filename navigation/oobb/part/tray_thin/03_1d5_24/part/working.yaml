@@ -1,3 +1,186 @@
+bip_39_word_new_br1: exact
+bip_39_word_new_br10: exact<br>price<br>concert<br>burst<br>blush<br>light<br>okay<br>mammal<br>issue<br>ride
+bip_39_word_new_br11: exact<br>price<br>concert<br>burst<br>blush<br>light<br>okay<br>mammal<br>issue<br>ride<br>jewel
+bip_39_word_new_br12: exact<br>price<br>concert<br>burst<br>blush<br>light<br>okay<br>mammal<br>issue<br>ride<br>jewel<br>attitude
+bip_39_word_new_br2: exact<br>price
+bip_39_word_new_br3: exact<br>price<br>concert
+bip_39_word_new_br4: exact<br>price<br>concert<br>burst
+bip_39_word_new_br5: exact<br>price<br>concert<br>burst<br>blush
+bip_39_word_new_br6: exact<br>price<br>concert<br>burst<br>blush<br>light
+bip_39_word_new_br7: exact<br>price<br>concert<br>burst<br>blush<br>light<br>okay
+bip_39_word_new_br8: exact<br>price<br>concert<br>burst<br>blush<br>light<br>okay<br>mammal
+bip_39_word_new_br9: exact<br>price<br>concert<br>burst<br>blush<br>light<br>okay<br>mammal<br>issue
+bip_39_word_new_line1: exact
+bip_39_word_new_line10: 'exact
+
+  price
+
+  concert
+
+  burst
+
+  blush
+
+  light
+
+  okay
+
+  mammal
+
+  issue
+
+  ride'
+bip_39_word_new_line11: 'exact
+
+  price
+
+  concert
+
+  burst
+
+  blush
+
+  light
+
+  okay
+
+  mammal
+
+  issue
+
+  ride
+
+  jewel'
+bip_39_word_new_line12: 'exact
+
+  price
+
+  concert
+
+  burst
+
+  blush
+
+  light
+
+  okay
+
+  mammal
+
+  issue
+
+  ride
+
+  jewel
+
+  attitude'
+bip_39_word_new_line2: 'exact
+
+  price'
+bip_39_word_new_line3: 'exact
+
+  price
+
+  concert'
+bip_39_word_new_line4: 'exact
+
+  price
+
+  concert
+
+  burst'
+bip_39_word_new_line5: 'exact
+
+  price
+
+  concert
+
+  burst
+
+  blush'
+bip_39_word_new_line6: 'exact
+
+  price
+
+  concert
+
+  burst
+
+  blush
+
+  light'
+bip_39_word_new_line7: 'exact
+
+  price
+
+  concert
+
+  burst
+
+  blush
+
+  light
+
+  okay'
+bip_39_word_new_line8: 'exact
+
+  price
+
+  concert
+
+  burst
+
+  blush
+
+  light
+
+  okay
+
+  mammal'
+bip_39_word_new_line9: 'exact
+
+  price
+
+  concert
+
+  burst
+
+  blush
+
+  light
+
+  okay
+
+  mammal
+
+  issue'
+bip_39_word_space_0:
+- exact
+- price
+- concert
+- burst
+- blush
+- light
+- okay
+- mammal
+- issue
+- ride
+- jewel
+- attitude
+bip_39_word_space_1: exact
+bip_39_word_space_10: exact price concert burst blush light okay mammal issue ride
+bip_39_word_space_11: exact price concert burst blush light okay mammal issue ride
+  jewel
+bip_39_word_space_12: exact price concert burst blush light okay mammal issue ride
+  jewel attitude
+bip_39_word_space_2: exact price
+bip_39_word_space_3: exact price concert
+bip_39_word_space_4: exact price concert burst
+bip_39_word_space_5: exact price concert burst blush
+bip_39_word_space_6: exact price concert burst blush light
+bip_39_word_space_7: exact price concert burst blush light okay
+bip_39_word_space_8: exact price concert burst blush light okay mammal
+bip_39_word_space_9: exact price concert burst blush light okay mammal issue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

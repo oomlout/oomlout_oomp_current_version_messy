@@ -1,3 +1,186 @@
+bip_39_word_new_br1: final
+bip_39_word_new_br10: final<br>traffic<br>rule<br>deposit<br>violin<br>age<br>among<br>scrub<br>barely<br>original
+bip_39_word_new_br11: final<br>traffic<br>rule<br>deposit<br>violin<br>age<br>among<br>scrub<br>barely<br>original<br>poet
+bip_39_word_new_br12: final<br>traffic<br>rule<br>deposit<br>violin<br>age<br>among<br>scrub<br>barely<br>original<br>poet<br>accident
+bip_39_word_new_br2: final<br>traffic
+bip_39_word_new_br3: final<br>traffic<br>rule
+bip_39_word_new_br4: final<br>traffic<br>rule<br>deposit
+bip_39_word_new_br5: final<br>traffic<br>rule<br>deposit<br>violin
+bip_39_word_new_br6: final<br>traffic<br>rule<br>deposit<br>violin<br>age
+bip_39_word_new_br7: final<br>traffic<br>rule<br>deposit<br>violin<br>age<br>among
+bip_39_word_new_br8: final<br>traffic<br>rule<br>deposit<br>violin<br>age<br>among<br>scrub
+bip_39_word_new_br9: final<br>traffic<br>rule<br>deposit<br>violin<br>age<br>among<br>scrub<br>barely
+bip_39_word_new_line1: final
+bip_39_word_new_line10: 'final
+
+  traffic
+
+  rule
+
+  deposit
+
+  violin
+
+  age
+
+  among
+
+  scrub
+
+  barely
+
+  original'
+bip_39_word_new_line11: 'final
+
+  traffic
+
+  rule
+
+  deposit
+
+  violin
+
+  age
+
+  among
+
+  scrub
+
+  barely
+
+  original
+
+  poet'
+bip_39_word_new_line12: 'final
+
+  traffic
+
+  rule
+
+  deposit
+
+  violin
+
+  age
+
+  among
+
+  scrub
+
+  barely
+
+  original
+
+  poet
+
+  accident'
+bip_39_word_new_line2: 'final
+
+  traffic'
+bip_39_word_new_line3: 'final
+
+  traffic
+
+  rule'
+bip_39_word_new_line4: 'final
+
+  traffic
+
+  rule
+
+  deposit'
+bip_39_word_new_line5: 'final
+
+  traffic
+
+  rule
+
+  deposit
+
+  violin'
+bip_39_word_new_line6: 'final
+
+  traffic
+
+  rule
+
+  deposit
+
+  violin
+
+  age'
+bip_39_word_new_line7: 'final
+
+  traffic
+
+  rule
+
+  deposit
+
+  violin
+
+  age
+
+  among'
+bip_39_word_new_line8: 'final
+
+  traffic
+
+  rule
+
+  deposit
+
+  violin
+
+  age
+
+  among
+
+  scrub'
+bip_39_word_new_line9: 'final
+
+  traffic
+
+  rule
+
+  deposit
+
+  violin
+
+  age
+
+  among
+
+  scrub
+
+  barely'
+bip_39_word_space_0:
+- final
+- traffic
+- rule
+- deposit
+- violin
+- age
+- among
+- scrub
+- barely
+- original
+- poet
+- accident
+bip_39_word_space_1: final
+bip_39_word_space_10: final traffic rule deposit violin age among scrub barely original
+bip_39_word_space_11: final traffic rule deposit violin age among scrub barely original
+  poet
+bip_39_word_space_12: final traffic rule deposit violin age among scrub barely original
+  poet accident
+bip_39_word_space_2: final traffic
+bip_39_word_space_3: final traffic rule
+bip_39_word_space_4: final traffic rule deposit
+bip_39_word_space_5: final traffic rule deposit violin
+bip_39_word_space_6: final traffic rule deposit violin age
+bip_39_word_space_7: final traffic rule deposit violin age among
+bip_39_word_space_8: final traffic rule deposit violin age among scrub
+bip_39_word_space_9: final traffic rule deposit violin age among scrub barely
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

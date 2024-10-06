@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: potato draft
+  * bip 39 word 3: potato draft glory
+  * bip 39 word: potato draft glory spoon toddler benefit boss title inmate cliff setup army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | potato |  
+| bip_39_word_new_br10 | potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit<br>boss<br>title<br>inmate<br>cliff |  
+| bip_39_word_new_br11 | potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit<br>boss<br>title<br>inmate<br>cliff<br>setup |  
+| bip_39_word_new_br12 | potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit<br>boss<br>title<br>inmate<br>cliff<br>setup<br>army |  
+| bip_39_word_new_br2 | potato<br>draft |  
+| bip_39_word_new_br3 | potato<br>draft<br>glory |  
+| bip_39_word_new_br4 | potato<br>draft<br>glory<br>spoon |  
+| bip_39_word_new_br5 | potato<br>draft<br>glory<br>spoon<br>toddler |  
+| bip_39_word_new_br6 | potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit |  
+| bip_39_word_new_br7 | potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit<br>boss |  
+| bip_39_word_new_br8 | potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit<br>boss<br>title |  
+| bip_39_word_new_br9 | potato<br>draft<br>glory<br>spoon<br>toddler<br>benefit<br>boss<br>title<br>inmate |  
+| bip_39_word_new_line1 | potato |  
+| bip_39_word_new_line10 | potato
+draft
+glory
+spoon
+toddler
+benefit
+boss
+title
+inmate
+cliff |  
+| bip_39_word_new_line11 | potato
+draft
+glory
+spoon
+toddler
+benefit
+boss
+title
+inmate
+cliff
+setup |  
+| bip_39_word_new_line12 | potato
+draft
+glory
+spoon
+toddler
+benefit
+boss
+title
+inmate
+cliff
+setup
+army |  
+| bip_39_word_new_line2 | potato
+draft |  
+| bip_39_word_new_line3 | potato
+draft
+glory |  
+| bip_39_word_new_line4 | potato
+draft
+glory
+spoon |  
+| bip_39_word_new_line5 | potato
+draft
+glory
+spoon
+toddler |  
+| bip_39_word_new_line6 | potato
+draft
+glory
+spoon
+toddler
+benefit |  
+| bip_39_word_new_line7 | potato
+draft
+glory
+spoon
+toddler
+benefit
+boss |  
+| bip_39_word_new_line8 | potato
+draft
+glory
+spoon
+toddler
+benefit
+boss
+title |  
+| bip_39_word_new_line9 | potato
+draft
+glory
+spoon
+toddler
+benefit
+boss
+title
+inmate |  
+| bip_39_word_space_0 | ['potato', 'draft', 'glory', 'spoon', 'toddler', 'benefit', 'boss', 'title', 'inmate', 'cliff', 'setup', 'army'] |  
+| bip_39_word_space_1 | potato |  
+| bip_39_word_space_10 | potato draft glory spoon toddler benefit boss title inmate cliff |  
+| bip_39_word_space_11 | potato draft glory spoon toddler benefit boss title inmate cliff setup |  
+| bip_39_word_space_12 | potato draft glory spoon toddler benefit boss title inmate cliff setup army |  
+| bip_39_word_space_2 | potato draft |  
+| bip_39_word_space_3 | potato draft glory |  
+| bip_39_word_space_4 | potato draft glory spoon |  
+| bip_39_word_space_5 | potato draft glory spoon toddler |  
+| bip_39_word_space_6 | potato draft glory spoon toddler benefit |  
+| bip_39_word_space_7 | potato draft glory spoon toddler benefit boss |  
+| bip_39_word_space_8 | potato draft glory spoon toddler benefit boss title |  
+| bip_39_word_space_9 | potato draft glory spoon toddler benefit boss title inmate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

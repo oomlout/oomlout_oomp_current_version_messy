@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: return hand
+  * bip 39 word 3: return hand indicate
+  * bip 39 word: 
 
 ### other_codes
 * short_code: cs5m40pz
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | return |  
+| bip_39_word_new_br10 | return<br>hand<br>indicate<br>mind<br>enact<br>tenant<br>gym<br>report<br>simple<br>party |  
+| bip_39_word_new_br11 | return<br>hand<br>indicate<br>mind<br>enact<br>tenant<br>gym<br>report<br>simple<br>party<br>present |  
+| bip_39_word_new_br2 | return<br>hand |  
+| bip_39_word_new_br3 | return<br>hand<br>indicate |  
+| bip_39_word_new_br4 | return<br>hand<br>indicate<br>mind |  
+| bip_39_word_new_br5 | return<br>hand<br>indicate<br>mind<br>enact |  
+| bip_39_word_new_br6 | return<br>hand<br>indicate<br>mind<br>enact<br>tenant |  
+| bip_39_word_new_br7 | return<br>hand<br>indicate<br>mind<br>enact<br>tenant<br>gym |  
+| bip_39_word_new_br8 | return<br>hand<br>indicate<br>mind<br>enact<br>tenant<br>gym<br>report |  
+| bip_39_word_new_br9 | return<br>hand<br>indicate<br>mind<br>enact<br>tenant<br>gym<br>report<br>simple |  
+| bip_39_word_new_line1 | return |  
+| bip_39_word_new_line10 | return
+hand
+indicate
+mind
+enact
+tenant
+gym
+report
+simple
+party |  
+| bip_39_word_new_line11 | return
+hand
+indicate
+mind
+enact
+tenant
+gym
+report
+simple
+party
+present |  
+| bip_39_word_new_line2 | return
+hand |  
+| bip_39_word_new_line3 | return
+hand
+indicate |  
+| bip_39_word_new_line4 | return
+hand
+indicate
+mind |  
+| bip_39_word_new_line5 | return
+hand
+indicate
+mind
+enact |  
+| bip_39_word_new_line6 | return
+hand
+indicate
+mind
+enact
+tenant |  
+| bip_39_word_new_line7 | return
+hand
+indicate
+mind
+enact
+tenant
+gym |  
+| bip_39_word_new_line8 | return
+hand
+indicate
+mind
+enact
+tenant
+gym
+report |  
+| bip_39_word_new_line9 | return
+hand
+indicate
+mind
+enact
+tenant
+gym
+report
+simple |  
+| bip_39_word_space_0 | ['return', 'hand', 'indicate', 'mind', 'enact', 'tenant', 'gym', 'report', 'simple', 'party', 'present'] |  
+| bip_39_word_space_1 | return |  
+| bip_39_word_space_10 | return hand indicate mind enact tenant gym report simple party |  
+| bip_39_word_space_11 | return hand indicate mind enact tenant gym report simple party present |  
+| bip_39_word_space_2 | return hand |  
+| bip_39_word_space_3 | return hand indicate |  
+| bip_39_word_space_4 | return hand indicate mind |  
+| bip_39_word_space_5 | return hand indicate mind enact |  
+| bip_39_word_space_6 | return hand indicate mind enact tenant |  
+| bip_39_word_space_7 | return hand indicate mind enact tenant gym |  
+| bip_39_word_space_8 | return hand indicate mind enact tenant gym report |  
+| bip_39_word_space_9 | return hand indicate mind enact tenant gym report simple |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

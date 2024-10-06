@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microsoft
   * part_number: model_1866
+  * bip 39 word 2: assault copy
+  * bip 39 word 3: assault copy arrive
+  * bip 39 word: assault copy arrive margin sugar split protect fruit insane coffee employ ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | assault |  
+| bip_39_word_new_br10 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split<br>protect<br>fruit<br>insane<br>coffee |  
+| bip_39_word_new_br11 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split<br>protect<br>fruit<br>insane<br>coffee<br>employ |  
+| bip_39_word_new_br12 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split<br>protect<br>fruit<br>insane<br>coffee<br>employ<br>ahead |  
+| bip_39_word_new_br2 | assault<br>copy |  
+| bip_39_word_new_br3 | assault<br>copy<br>arrive |  
+| bip_39_word_new_br4 | assault<br>copy<br>arrive<br>margin |  
+| bip_39_word_new_br5 | assault<br>copy<br>arrive<br>margin<br>sugar |  
+| bip_39_word_new_br6 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split |  
+| bip_39_word_new_br7 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split<br>protect |  
+| bip_39_word_new_br8 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split<br>protect<br>fruit |  
+| bip_39_word_new_br9 | assault<br>copy<br>arrive<br>margin<br>sugar<br>split<br>protect<br>fruit<br>insane |  
+| bip_39_word_new_line1 | assault |  
+| bip_39_word_new_line10 | assault
+copy
+arrive
+margin
+sugar
+split
+protect
+fruit
+insane
+coffee |  
+| bip_39_word_new_line11 | assault
+copy
+arrive
+margin
+sugar
+split
+protect
+fruit
+insane
+coffee
+employ |  
+| bip_39_word_new_line12 | assault
+copy
+arrive
+margin
+sugar
+split
+protect
+fruit
+insane
+coffee
+employ
+ahead |  
+| bip_39_word_new_line2 | assault
+copy |  
+| bip_39_word_new_line3 | assault
+copy
+arrive |  
+| bip_39_word_new_line4 | assault
+copy
+arrive
+margin |  
+| bip_39_word_new_line5 | assault
+copy
+arrive
+margin
+sugar |  
+| bip_39_word_new_line6 | assault
+copy
+arrive
+margin
+sugar
+split |  
+| bip_39_word_new_line7 | assault
+copy
+arrive
+margin
+sugar
+split
+protect |  
+| bip_39_word_new_line8 | assault
+copy
+arrive
+margin
+sugar
+split
+protect
+fruit |  
+| bip_39_word_new_line9 | assault
+copy
+arrive
+margin
+sugar
+split
+protect
+fruit
+insane |  
+| bip_39_word_space_0 | ['assault', 'copy', 'arrive', 'margin', 'sugar', 'split', 'protect', 'fruit', 'insane', 'coffee', 'employ', 'ahead'] |  
+| bip_39_word_space_1 | assault |  
+| bip_39_word_space_10 | assault copy arrive margin sugar split protect fruit insane coffee |  
+| bip_39_word_space_11 | assault copy arrive margin sugar split protect fruit insane coffee employ |  
+| bip_39_word_space_12 | assault copy arrive margin sugar split protect fruit insane coffee employ ahead |  
+| bip_39_word_space_2 | assault copy |  
+| bip_39_word_space_3 | assault copy arrive |  
+| bip_39_word_space_4 | assault copy arrive margin |  
+| bip_39_word_space_5 | assault copy arrive margin sugar |  
+| bip_39_word_space_6 | assault copy arrive margin sugar split |  
+| bip_39_word_space_7 | assault copy arrive margin sugar split protect |  
+| bip_39_word_space_8 | assault copy arrive margin sugar split protect fruit |  
+| bip_39_word_space_9 | assault copy arrive margin sugar split protect fruit insane |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

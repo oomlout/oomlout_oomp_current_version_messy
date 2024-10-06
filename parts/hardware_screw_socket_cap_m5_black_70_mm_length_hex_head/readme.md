@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: delay nuclear
+  * bip 39 word 3: delay nuclear leader
+  * bip 39 word: delay nuclear leader essence sand violin achieve brush dilemma crater boring angle
 
 ### other_codes
 * short_code: sc5b70h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | delay |  
+| bip_39_word_new_br10 | delay<br>nuclear<br>leader<br>essence<br>sand<br>violin<br>achieve<br>brush<br>dilemma<br>crater |  
+| bip_39_word_new_br11 | delay<br>nuclear<br>leader<br>essence<br>sand<br>violin<br>achieve<br>brush<br>dilemma<br>crater<br>boring |  
+| bip_39_word_new_br12 | delay<br>nuclear<br>leader<br>essence<br>sand<br>violin<br>achieve<br>brush<br>dilemma<br>crater<br>boring<br>angle |  
+| bip_39_word_new_br2 | delay<br>nuclear |  
+| bip_39_word_new_br3 | delay<br>nuclear<br>leader |  
+| bip_39_word_new_br4 | delay<br>nuclear<br>leader<br>essence |  
+| bip_39_word_new_br5 | delay<br>nuclear<br>leader<br>essence<br>sand |  
+| bip_39_word_new_br6 | delay<br>nuclear<br>leader<br>essence<br>sand<br>violin |  
+| bip_39_word_new_br7 | delay<br>nuclear<br>leader<br>essence<br>sand<br>violin<br>achieve |  
+| bip_39_word_new_br8 | delay<br>nuclear<br>leader<br>essence<br>sand<br>violin<br>achieve<br>brush |  
+| bip_39_word_new_br9 | delay<br>nuclear<br>leader<br>essence<br>sand<br>violin<br>achieve<br>brush<br>dilemma |  
+| bip_39_word_new_line1 | delay |  
+| bip_39_word_new_line10 | delay
+nuclear
+leader
+essence
+sand
+violin
+achieve
+brush
+dilemma
+crater |  
+| bip_39_word_new_line11 | delay
+nuclear
+leader
+essence
+sand
+violin
+achieve
+brush
+dilemma
+crater
+boring |  
+| bip_39_word_new_line12 | delay
+nuclear
+leader
+essence
+sand
+violin
+achieve
+brush
+dilemma
+crater
+boring
+angle |  
+| bip_39_word_new_line2 | delay
+nuclear |  
+| bip_39_word_new_line3 | delay
+nuclear
+leader |  
+| bip_39_word_new_line4 | delay
+nuclear
+leader
+essence |  
+| bip_39_word_new_line5 | delay
+nuclear
+leader
+essence
+sand |  
+| bip_39_word_new_line6 | delay
+nuclear
+leader
+essence
+sand
+violin |  
+| bip_39_word_new_line7 | delay
+nuclear
+leader
+essence
+sand
+violin
+achieve |  
+| bip_39_word_new_line8 | delay
+nuclear
+leader
+essence
+sand
+violin
+achieve
+brush |  
+| bip_39_word_new_line9 | delay
+nuclear
+leader
+essence
+sand
+violin
+achieve
+brush
+dilemma |  
+| bip_39_word_space_0 | ['delay', 'nuclear', 'leader', 'essence', 'sand', 'violin', 'achieve', 'brush', 'dilemma', 'crater', 'boring', 'angle'] |  
+| bip_39_word_space_1 | delay |  
+| bip_39_word_space_10 | delay nuclear leader essence sand violin achieve brush dilemma crater |  
+| bip_39_word_space_11 | delay nuclear leader essence sand violin achieve brush dilemma crater boring |  
+| bip_39_word_space_12 | delay nuclear leader essence sand violin achieve brush dilemma crater boring angle |  
+| bip_39_word_space_2 | delay nuclear |  
+| bip_39_word_space_3 | delay nuclear leader |  
+| bip_39_word_space_4 | delay nuclear leader essence |  
+| bip_39_word_space_5 | delay nuclear leader essence sand |  
+| bip_39_word_space_6 | delay nuclear leader essence sand violin |  
+| bip_39_word_space_7 | delay nuclear leader essence sand violin achieve |  
+| bip_39_word_space_8 | delay nuclear leader essence sand violin achieve brush |  
+| bip_39_word_space_9 | delay nuclear leader essence sand violin achieve brush dilemma |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

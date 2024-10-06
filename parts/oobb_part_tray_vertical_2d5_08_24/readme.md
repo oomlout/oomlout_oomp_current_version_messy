@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: yellow parent
+  * bip 39 word 3: yellow parent isolate
+  * bip 39 word: yellow parent isolate diary sauce wing dumb step radio ice balance another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | yellow |  
+| bip_39_word_new_br10 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice |  
+| bip_39_word_new_br11 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice<br>balance |  
+| bip_39_word_new_br12 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio<br>ice<br>balance<br>another |  
+| bip_39_word_new_br2 | yellow<br>parent |  
+| bip_39_word_new_br3 | yellow<br>parent<br>isolate |  
+| bip_39_word_new_br4 | yellow<br>parent<br>isolate<br>diary |  
+| bip_39_word_new_br5 | yellow<br>parent<br>isolate<br>diary<br>sauce |  
+| bip_39_word_new_br6 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing |  
+| bip_39_word_new_br7 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb |  
+| bip_39_word_new_br8 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step |  
+| bip_39_word_new_br9 | yellow<br>parent<br>isolate<br>diary<br>sauce<br>wing<br>dumb<br>step<br>radio |  
+| bip_39_word_new_line1 | yellow |  
+| bip_39_word_new_line10 | yellow
+parent
+isolate
+diary
+sauce
+wing
+dumb
+step
+radio
+ice |  
+| bip_39_word_new_line11 | yellow
+parent
+isolate
+diary
+sauce
+wing
+dumb
+step
+radio
+ice
+balance |  
+| bip_39_word_new_line12 | yellow
+parent
+isolate
+diary
+sauce
+wing
+dumb
+step
+radio
+ice
+balance
+another |  
+| bip_39_word_new_line2 | yellow
+parent |  
+| bip_39_word_new_line3 | yellow
+parent
+isolate |  
+| bip_39_word_new_line4 | yellow
+parent
+isolate
+diary |  
+| bip_39_word_new_line5 | yellow
+parent
+isolate
+diary
+sauce |  
+| bip_39_word_new_line6 | yellow
+parent
+isolate
+diary
+sauce
+wing |  
+| bip_39_word_new_line7 | yellow
+parent
+isolate
+diary
+sauce
+wing
+dumb |  
+| bip_39_word_new_line8 | yellow
+parent
+isolate
+diary
+sauce
+wing
+dumb
+step |  
+| bip_39_word_new_line9 | yellow
+parent
+isolate
+diary
+sauce
+wing
+dumb
+step
+radio |  
+| bip_39_word_space_0 | ['yellow', 'parent', 'isolate', 'diary', 'sauce', 'wing', 'dumb', 'step', 'radio', 'ice', 'balance', 'another'] |  
+| bip_39_word_space_1 | yellow |  
+| bip_39_word_space_10 | yellow parent isolate diary sauce wing dumb step radio ice |  
+| bip_39_word_space_11 | yellow parent isolate diary sauce wing dumb step radio ice balance |  
+| bip_39_word_space_12 | yellow parent isolate diary sauce wing dumb step radio ice balance another |  
+| bip_39_word_space_2 | yellow parent |  
+| bip_39_word_space_3 | yellow parent isolate |  
+| bip_39_word_space_4 | yellow parent isolate diary |  
+| bip_39_word_space_5 | yellow parent isolate diary sauce |  
+| bip_39_word_space_6 | yellow parent isolate diary sauce wing |  
+| bip_39_word_space_7 | yellow parent isolate diary sauce wing dumb |  
+| bip_39_word_space_8 | yellow parent isolate diary sauce wing dumb step |  
+| bip_39_word_space_9 | yellow parent isolate diary sauce wing dumb step radio |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

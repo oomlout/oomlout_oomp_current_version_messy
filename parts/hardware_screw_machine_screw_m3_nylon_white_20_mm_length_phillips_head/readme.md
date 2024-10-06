@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cheese shy
+  * bip 39 word 3: cheese shy fury
+  * bip 39 word: cheese shy fury find swift dream game fury elder genre smoke aspect
 
 ### other_codes
 * short_code: ms3nw20p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cheese |  
+| bip_39_word_new_br10 | cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre |  
+| bip_39_word_new_br11 | cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre<br>smoke |  
+| bip_39_word_new_br12 | cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre<br>smoke<br>aspect |  
+| bip_39_word_new_br2 | cheese<br>shy |  
+| bip_39_word_new_br3 | cheese<br>shy<br>fury |  
+| bip_39_word_new_br4 | cheese<br>shy<br>fury<br>find |  
+| bip_39_word_new_br5 | cheese<br>shy<br>fury<br>find<br>swift |  
+| bip_39_word_new_br6 | cheese<br>shy<br>fury<br>find<br>swift<br>dream |  
+| bip_39_word_new_br7 | cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game |  
+| bip_39_word_new_br8 | cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury |  
+| bip_39_word_new_br9 | cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder |  
+| bip_39_word_new_line1 | cheese |  
+| bip_39_word_new_line10 | cheese
+shy
+fury
+find
+swift
+dream
+game
+fury
+elder
+genre |  
+| bip_39_word_new_line11 | cheese
+shy
+fury
+find
+swift
+dream
+game
+fury
+elder
+genre
+smoke |  
+| bip_39_word_new_line12 | cheese
+shy
+fury
+find
+swift
+dream
+game
+fury
+elder
+genre
+smoke
+aspect |  
+| bip_39_word_new_line2 | cheese
+shy |  
+| bip_39_word_new_line3 | cheese
+shy
+fury |  
+| bip_39_word_new_line4 | cheese
+shy
+fury
+find |  
+| bip_39_word_new_line5 | cheese
+shy
+fury
+find
+swift |  
+| bip_39_word_new_line6 | cheese
+shy
+fury
+find
+swift
+dream |  
+| bip_39_word_new_line7 | cheese
+shy
+fury
+find
+swift
+dream
+game |  
+| bip_39_word_new_line8 | cheese
+shy
+fury
+find
+swift
+dream
+game
+fury |  
+| bip_39_word_new_line9 | cheese
+shy
+fury
+find
+swift
+dream
+game
+fury
+elder |  
+| bip_39_word_space_0 | ['cheese', 'shy', 'fury', 'find', 'swift', 'dream', 'game', 'fury', 'elder', 'genre', 'smoke', 'aspect'] |  
+| bip_39_word_space_1 | cheese |  
+| bip_39_word_space_10 | cheese shy fury find swift dream game fury elder genre |  
+| bip_39_word_space_11 | cheese shy fury find swift dream game fury elder genre smoke |  
+| bip_39_word_space_12 | cheese shy fury find swift dream game fury elder genre smoke aspect |  
+| bip_39_word_space_2 | cheese shy |  
+| bip_39_word_space_3 | cheese shy fury |  
+| bip_39_word_space_4 | cheese shy fury find |  
+| bip_39_word_space_5 | cheese shy fury find swift |  
+| bip_39_word_space_6 | cheese shy fury find swift dream |  
+| bip_39_word_space_7 | cheese shy fury find swift dream game |  
+| bip_39_word_space_8 | cheese shy fury find swift dream game fury |  
+| bip_39_word_space_9 | cheese shy fury find swift dream game fury elder |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

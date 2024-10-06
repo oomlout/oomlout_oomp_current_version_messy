@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: average typical
+  * bip 39 word 3: average typical uphold
+  * bip 39 word: average typical uphold slice affair resemble spend gas illness retreat maple amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | average |  
+| bip_39_word_new_br10 | average<br>typical<br>uphold<br>slice<br>affair<br>resemble<br>spend<br>gas<br>illness<br>retreat |  
+| bip_39_word_new_br11 | average<br>typical<br>uphold<br>slice<br>affair<br>resemble<br>spend<br>gas<br>illness<br>retreat<br>maple |  
+| bip_39_word_new_br12 | average<br>typical<br>uphold<br>slice<br>affair<br>resemble<br>spend<br>gas<br>illness<br>retreat<br>maple<br>amount |  
+| bip_39_word_new_br2 | average<br>typical |  
+| bip_39_word_new_br3 | average<br>typical<br>uphold |  
+| bip_39_word_new_br4 | average<br>typical<br>uphold<br>slice |  
+| bip_39_word_new_br5 | average<br>typical<br>uphold<br>slice<br>affair |  
+| bip_39_word_new_br6 | average<br>typical<br>uphold<br>slice<br>affair<br>resemble |  
+| bip_39_word_new_br7 | average<br>typical<br>uphold<br>slice<br>affair<br>resemble<br>spend |  
+| bip_39_word_new_br8 | average<br>typical<br>uphold<br>slice<br>affair<br>resemble<br>spend<br>gas |  
+| bip_39_word_new_br9 | average<br>typical<br>uphold<br>slice<br>affair<br>resemble<br>spend<br>gas<br>illness |  
+| bip_39_word_new_line1 | average |  
+| bip_39_word_new_line10 | average
+typical
+uphold
+slice
+affair
+resemble
+spend
+gas
+illness
+retreat |  
+| bip_39_word_new_line11 | average
+typical
+uphold
+slice
+affair
+resemble
+spend
+gas
+illness
+retreat
+maple |  
+| bip_39_word_new_line12 | average
+typical
+uphold
+slice
+affair
+resemble
+spend
+gas
+illness
+retreat
+maple
+amount |  
+| bip_39_word_new_line2 | average
+typical |  
+| bip_39_word_new_line3 | average
+typical
+uphold |  
+| bip_39_word_new_line4 | average
+typical
+uphold
+slice |  
+| bip_39_word_new_line5 | average
+typical
+uphold
+slice
+affair |  
+| bip_39_word_new_line6 | average
+typical
+uphold
+slice
+affair
+resemble |  
+| bip_39_word_new_line7 | average
+typical
+uphold
+slice
+affair
+resemble
+spend |  
+| bip_39_word_new_line8 | average
+typical
+uphold
+slice
+affair
+resemble
+spend
+gas |  
+| bip_39_word_new_line9 | average
+typical
+uphold
+slice
+affair
+resemble
+spend
+gas
+illness |  
+| bip_39_word_space_0 | ['average', 'typical', 'uphold', 'slice', 'affair', 'resemble', 'spend', 'gas', 'illness', 'retreat', 'maple', 'amount'] |  
+| bip_39_word_space_1 | average |  
+| bip_39_word_space_10 | average typical uphold slice affair resemble spend gas illness retreat |  
+| bip_39_word_space_11 | average typical uphold slice affair resemble spend gas illness retreat maple |  
+| bip_39_word_space_12 | average typical uphold slice affair resemble spend gas illness retreat maple amount |  
+| bip_39_word_space_2 | average typical |  
+| bip_39_word_space_3 | average typical uphold |  
+| bip_39_word_space_4 | average typical uphold slice |  
+| bip_39_word_space_5 | average typical uphold slice affair |  
+| bip_39_word_space_6 | average typical uphold slice affair resemble |  
+| bip_39_word_space_7 | average typical uphold slice affair resemble spend |  
+| bip_39_word_space_8 | average typical uphold slice affair resemble spend gas |  
+| bip_39_word_space_9 | average typical uphold slice affair resemble spend gas illness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

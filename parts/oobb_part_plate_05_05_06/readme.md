@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: session quiz
+  * bip 39 word 3: session quiz brush
+  * bip 39 word: session quiz brush fitness try rabbit already reopen coach dust pass ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | session |  
+| bip_39_word_new_br10 | session<br>quiz<br>brush<br>fitness<br>try<br>rabbit<br>already<br>reopen<br>coach<br>dust |  
+| bip_39_word_new_br11 | session<br>quiz<br>brush<br>fitness<br>try<br>rabbit<br>already<br>reopen<br>coach<br>dust<br>pass |  
+| bip_39_word_new_br12 | session<br>quiz<br>brush<br>fitness<br>try<br>rabbit<br>already<br>reopen<br>coach<br>dust<br>pass<br>ahead |  
+| bip_39_word_new_br2 | session<br>quiz |  
+| bip_39_word_new_br3 | session<br>quiz<br>brush |  
+| bip_39_word_new_br4 | session<br>quiz<br>brush<br>fitness |  
+| bip_39_word_new_br5 | session<br>quiz<br>brush<br>fitness<br>try |  
+| bip_39_word_new_br6 | session<br>quiz<br>brush<br>fitness<br>try<br>rabbit |  
+| bip_39_word_new_br7 | session<br>quiz<br>brush<br>fitness<br>try<br>rabbit<br>already |  
+| bip_39_word_new_br8 | session<br>quiz<br>brush<br>fitness<br>try<br>rabbit<br>already<br>reopen |  
+| bip_39_word_new_br9 | session<br>quiz<br>brush<br>fitness<br>try<br>rabbit<br>already<br>reopen<br>coach |  
+| bip_39_word_new_line1 | session |  
+| bip_39_word_new_line10 | session
+quiz
+brush
+fitness
+try
+rabbit
+already
+reopen
+coach
+dust |  
+| bip_39_word_new_line11 | session
+quiz
+brush
+fitness
+try
+rabbit
+already
+reopen
+coach
+dust
+pass |  
+| bip_39_word_new_line12 | session
+quiz
+brush
+fitness
+try
+rabbit
+already
+reopen
+coach
+dust
+pass
+ahead |  
+| bip_39_word_new_line2 | session
+quiz |  
+| bip_39_word_new_line3 | session
+quiz
+brush |  
+| bip_39_word_new_line4 | session
+quiz
+brush
+fitness |  
+| bip_39_word_new_line5 | session
+quiz
+brush
+fitness
+try |  
+| bip_39_word_new_line6 | session
+quiz
+brush
+fitness
+try
+rabbit |  
+| bip_39_word_new_line7 | session
+quiz
+brush
+fitness
+try
+rabbit
+already |  
+| bip_39_word_new_line8 | session
+quiz
+brush
+fitness
+try
+rabbit
+already
+reopen |  
+| bip_39_word_new_line9 | session
+quiz
+brush
+fitness
+try
+rabbit
+already
+reopen
+coach |  
+| bip_39_word_space_0 | ['session', 'quiz', 'brush', 'fitness', 'try', 'rabbit', 'already', 'reopen', 'coach', 'dust', 'pass', 'ahead'] |  
+| bip_39_word_space_1 | session |  
+| bip_39_word_space_10 | session quiz brush fitness try rabbit already reopen coach dust |  
+| bip_39_word_space_11 | session quiz brush fitness try rabbit already reopen coach dust pass |  
+| bip_39_word_space_12 | session quiz brush fitness try rabbit already reopen coach dust pass ahead |  
+| bip_39_word_space_2 | session quiz |  
+| bip_39_word_space_3 | session quiz brush |  
+| bip_39_word_space_4 | session quiz brush fitness |  
+| bip_39_word_space_5 | session quiz brush fitness try |  
+| bip_39_word_space_6 | session quiz brush fitness try rabbit |  
+| bip_39_word_space_7 | session quiz brush fitness try rabbit already |  
+| bip_39_word_space_8 | session quiz brush fitness try rabbit already reopen |  
+| bip_39_word_space_9 | session quiz brush fitness try rabbit already reopen coach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

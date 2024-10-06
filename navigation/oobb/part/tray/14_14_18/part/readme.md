@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sleep height
+  * bip 39 word 3: sleep height tower
+  * bip 39 word: sleep height tower again diary suit program puppy right winter power assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sleep |  
+| bip_39_word_new_br10 | sleep<br>height<br>tower<br>again<br>diary<br>suit<br>program<br>puppy<br>right<br>winter |  
+| bip_39_word_new_br11 | sleep<br>height<br>tower<br>again<br>diary<br>suit<br>program<br>puppy<br>right<br>winter<br>power |  
+| bip_39_word_new_br12 | sleep<br>height<br>tower<br>again<br>diary<br>suit<br>program<br>puppy<br>right<br>winter<br>power<br>assume |  
+| bip_39_word_new_br2 | sleep<br>height |  
+| bip_39_word_new_br3 | sleep<br>height<br>tower |  
+| bip_39_word_new_br4 | sleep<br>height<br>tower<br>again |  
+| bip_39_word_new_br5 | sleep<br>height<br>tower<br>again<br>diary |  
+| bip_39_word_new_br6 | sleep<br>height<br>tower<br>again<br>diary<br>suit |  
+| bip_39_word_new_br7 | sleep<br>height<br>tower<br>again<br>diary<br>suit<br>program |  
+| bip_39_word_new_br8 | sleep<br>height<br>tower<br>again<br>diary<br>suit<br>program<br>puppy |  
+| bip_39_word_new_br9 | sleep<br>height<br>tower<br>again<br>diary<br>suit<br>program<br>puppy<br>right |  
+| bip_39_word_new_line1 | sleep |  
+| bip_39_word_new_line10 | sleep
+height
+tower
+again
+diary
+suit
+program
+puppy
+right
+winter |  
+| bip_39_word_new_line11 | sleep
+height
+tower
+again
+diary
+suit
+program
+puppy
+right
+winter
+power |  
+| bip_39_word_new_line12 | sleep
+height
+tower
+again
+diary
+suit
+program
+puppy
+right
+winter
+power
+assume |  
+| bip_39_word_new_line2 | sleep
+height |  
+| bip_39_word_new_line3 | sleep
+height
+tower |  
+| bip_39_word_new_line4 | sleep
+height
+tower
+again |  
+| bip_39_word_new_line5 | sleep
+height
+tower
+again
+diary |  
+| bip_39_word_new_line6 | sleep
+height
+tower
+again
+diary
+suit |  
+| bip_39_word_new_line7 | sleep
+height
+tower
+again
+diary
+suit
+program |  
+| bip_39_word_new_line8 | sleep
+height
+tower
+again
+diary
+suit
+program
+puppy |  
+| bip_39_word_new_line9 | sleep
+height
+tower
+again
+diary
+suit
+program
+puppy
+right |  
+| bip_39_word_space_0 | ['sleep', 'height', 'tower', 'again', 'diary', 'suit', 'program', 'puppy', 'right', 'winter', 'power', 'assume'] |  
+| bip_39_word_space_1 | sleep |  
+| bip_39_word_space_10 | sleep height tower again diary suit program puppy right winter |  
+| bip_39_word_space_11 | sleep height tower again diary suit program puppy right winter power |  
+| bip_39_word_space_12 | sleep height tower again diary suit program puppy right winter power assume |  
+| bip_39_word_space_2 | sleep height |  
+| bip_39_word_space_3 | sleep height tower |  
+| bip_39_word_space_4 | sleep height tower again |  
+| bip_39_word_space_5 | sleep height tower again diary |  
+| bip_39_word_space_6 | sleep height tower again diary suit |  
+| bip_39_word_space_7 | sleep height tower again diary suit program |  
+| bip_39_word_space_8 | sleep height tower again diary suit program puppy |  
+| bip_39_word_space_9 | sleep height tower again diary suit program puppy right |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

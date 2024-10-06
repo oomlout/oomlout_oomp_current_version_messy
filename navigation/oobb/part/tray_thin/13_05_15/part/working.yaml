@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bicycle
+bip_39_word_new_br10: bicycle<br>error<br>boost<br>flat<br>cigar<br>thank<br>noble<br>lunar<br>hundred<br>address
+bip_39_word_new_br11: bicycle<br>error<br>boost<br>flat<br>cigar<br>thank<br>noble<br>lunar<br>hundred<br>address<br>swing
+bip_39_word_new_br12: bicycle<br>error<br>boost<br>flat<br>cigar<br>thank<br>noble<br>lunar<br>hundred<br>address<br>swing<br>arm
+bip_39_word_new_br2: bicycle<br>error
+bip_39_word_new_br3: bicycle<br>error<br>boost
+bip_39_word_new_br4: bicycle<br>error<br>boost<br>flat
+bip_39_word_new_br5: bicycle<br>error<br>boost<br>flat<br>cigar
+bip_39_word_new_br6: bicycle<br>error<br>boost<br>flat<br>cigar<br>thank
+bip_39_word_new_br7: bicycle<br>error<br>boost<br>flat<br>cigar<br>thank<br>noble
+bip_39_word_new_br8: bicycle<br>error<br>boost<br>flat<br>cigar<br>thank<br>noble<br>lunar
+bip_39_word_new_br9: bicycle<br>error<br>boost<br>flat<br>cigar<br>thank<br>noble<br>lunar<br>hundred
+bip_39_word_new_line1: bicycle
+bip_39_word_new_line10: 'bicycle
+
+  error
+
+  boost
+
+  flat
+
+  cigar
+
+  thank
+
+  noble
+
+  lunar
+
+  hundred
+
+  address'
+bip_39_word_new_line11: 'bicycle
+
+  error
+
+  boost
+
+  flat
+
+  cigar
+
+  thank
+
+  noble
+
+  lunar
+
+  hundred
+
+  address
+
+  swing'
+bip_39_word_new_line12: 'bicycle
+
+  error
+
+  boost
+
+  flat
+
+  cigar
+
+  thank
+
+  noble
+
+  lunar
+
+  hundred
+
+  address
+
+  swing
+
+  arm'
+bip_39_word_new_line2: 'bicycle
+
+  error'
+bip_39_word_new_line3: 'bicycle
+
+  error
+
+  boost'
+bip_39_word_new_line4: 'bicycle
+
+  error
+
+  boost
+
+  flat'
+bip_39_word_new_line5: 'bicycle
+
+  error
+
+  boost
+
+  flat
+
+  cigar'
+bip_39_word_new_line6: 'bicycle
+
+  error
+
+  boost
+
+  flat
+
+  cigar
+
+  thank'
+bip_39_word_new_line7: 'bicycle
+
+  error
+
+  boost
+
+  flat
+
+  cigar
+
+  thank
+
+  noble'
+bip_39_word_new_line8: 'bicycle
+
+  error
+
+  boost
+
+  flat
+
+  cigar
+
+  thank
+
+  noble
+
+  lunar'
+bip_39_word_new_line9: 'bicycle
+
+  error
+
+  boost
+
+  flat
+
+  cigar
+
+  thank
+
+  noble
+
+  lunar
+
+  hundred'
+bip_39_word_space_0:
+- bicycle
+- error
+- boost
+- flat
+- cigar
+- thank
+- noble
+- lunar
+- hundred
+- address
+- swing
+- arm
+bip_39_word_space_1: bicycle
+bip_39_word_space_10: bicycle error boost flat cigar thank noble lunar hundred address
+bip_39_word_space_11: bicycle error boost flat cigar thank noble lunar hundred address
+  swing
+bip_39_word_space_12: bicycle error boost flat cigar thank noble lunar hundred address
+  swing arm
+bip_39_word_space_2: bicycle error
+bip_39_word_space_3: bicycle error boost
+bip_39_word_space_4: bicycle error boost flat
+bip_39_word_space_5: bicycle error boost flat cigar
+bip_39_word_space_6: bicycle error boost flat cigar thank
+bip_39_word_space_7: bicycle error boost flat cigar thank noble
+bip_39_word_space_8: bicycle error boost flat cigar thank noble lunar
+bip_39_word_space_9: bicycle error boost flat cigar thank noble lunar hundred
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

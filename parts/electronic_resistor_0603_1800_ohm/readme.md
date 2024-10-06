@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rare mesh
+  * bip 39 word 3: rare mesh hundred
+  * bip 39 word: rare mesh hundred nephew crash symbol happy universe festival blanket hockey across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rare |  
+| bip_39_word_new_br10 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket |  
+| bip_39_word_new_br11 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket<br>hockey |  
+| bip_39_word_new_br12 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival<br>blanket<br>hockey<br>across |  
+| bip_39_word_new_br2 | rare<br>mesh |  
+| bip_39_word_new_br3 | rare<br>mesh<br>hundred |  
+| bip_39_word_new_br4 | rare<br>mesh<br>hundred<br>nephew |  
+| bip_39_word_new_br5 | rare<br>mesh<br>hundred<br>nephew<br>crash |  
+| bip_39_word_new_br6 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol |  
+| bip_39_word_new_br7 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy |  
+| bip_39_word_new_br8 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe |  
+| bip_39_word_new_br9 | rare<br>mesh<br>hundred<br>nephew<br>crash<br>symbol<br>happy<br>universe<br>festival |  
+| bip_39_word_new_line1 | rare |  
+| bip_39_word_new_line10 | rare
+mesh
+hundred
+nephew
+crash
+symbol
+happy
+universe
+festival
+blanket |  
+| bip_39_word_new_line11 | rare
+mesh
+hundred
+nephew
+crash
+symbol
+happy
+universe
+festival
+blanket
+hockey |  
+| bip_39_word_new_line12 | rare
+mesh
+hundred
+nephew
+crash
+symbol
+happy
+universe
+festival
+blanket
+hockey
+across |  
+| bip_39_word_new_line2 | rare
+mesh |  
+| bip_39_word_new_line3 | rare
+mesh
+hundred |  
+| bip_39_word_new_line4 | rare
+mesh
+hundred
+nephew |  
+| bip_39_word_new_line5 | rare
+mesh
+hundred
+nephew
+crash |  
+| bip_39_word_new_line6 | rare
+mesh
+hundred
+nephew
+crash
+symbol |  
+| bip_39_word_new_line7 | rare
+mesh
+hundred
+nephew
+crash
+symbol
+happy |  
+| bip_39_word_new_line8 | rare
+mesh
+hundred
+nephew
+crash
+symbol
+happy
+universe |  
+| bip_39_word_new_line9 | rare
+mesh
+hundred
+nephew
+crash
+symbol
+happy
+universe
+festival |  
+| bip_39_word_space_0 | ['rare', 'mesh', 'hundred', 'nephew', 'crash', 'symbol', 'happy', 'universe', 'festival', 'blanket', 'hockey', 'across'] |  
+| bip_39_word_space_1 | rare |  
+| bip_39_word_space_10 | rare mesh hundred nephew crash symbol happy universe festival blanket |  
+| bip_39_word_space_11 | rare mesh hundred nephew crash symbol happy universe festival blanket hockey |  
+| bip_39_word_space_12 | rare mesh hundred nephew crash symbol happy universe festival blanket hockey across |  
+| bip_39_word_space_2 | rare mesh |  
+| bip_39_word_space_3 | rare mesh hundred |  
+| bip_39_word_space_4 | rare mesh hundred nephew |  
+| bip_39_word_space_5 | rare mesh hundred nephew crash |  
+| bip_39_word_space_6 | rare mesh hundred nephew crash symbol |  
+| bip_39_word_space_7 | rare mesh hundred nephew crash symbol happy |  
+| bip_39_word_space_8 | rare mesh hundred nephew crash symbol happy universe |  
+| bip_39_word_space_9 | rare mesh hundred nephew crash symbol happy universe festival |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

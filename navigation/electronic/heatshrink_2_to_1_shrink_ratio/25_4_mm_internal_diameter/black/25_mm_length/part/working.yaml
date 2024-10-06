@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tennis
+bip_39_word_new_br10: tennis<br>aspect<br>license<br>any<br>day<br>stumble<br>shock<br>mixture<br>pride<br>onion
+bip_39_word_new_br11: tennis<br>aspect<br>license<br>any<br>day<br>stumble<br>shock<br>mixture<br>pride<br>onion<br>swamp
+bip_39_word_new_br12: tennis<br>aspect<br>license<br>any<br>day<br>stumble<br>shock<br>mixture<br>pride<br>onion<br>swamp<br>april
+bip_39_word_new_br2: tennis<br>aspect
+bip_39_word_new_br3: tennis<br>aspect<br>license
+bip_39_word_new_br4: tennis<br>aspect<br>license<br>any
+bip_39_word_new_br5: tennis<br>aspect<br>license<br>any<br>day
+bip_39_word_new_br6: tennis<br>aspect<br>license<br>any<br>day<br>stumble
+bip_39_word_new_br7: tennis<br>aspect<br>license<br>any<br>day<br>stumble<br>shock
+bip_39_word_new_br8: tennis<br>aspect<br>license<br>any<br>day<br>stumble<br>shock<br>mixture
+bip_39_word_new_br9: tennis<br>aspect<br>license<br>any<br>day<br>stumble<br>shock<br>mixture<br>pride
+bip_39_word_new_line1: tennis
+bip_39_word_new_line10: 'tennis
+
+  aspect
+
+  license
+
+  any
+
+  day
+
+  stumble
+
+  shock
+
+  mixture
+
+  pride
+
+  onion'
+bip_39_word_new_line11: 'tennis
+
+  aspect
+
+  license
+
+  any
+
+  day
+
+  stumble
+
+  shock
+
+  mixture
+
+  pride
+
+  onion
+
+  swamp'
+bip_39_word_new_line12: 'tennis
+
+  aspect
+
+  license
+
+  any
+
+  day
+
+  stumble
+
+  shock
+
+  mixture
+
+  pride
+
+  onion
+
+  swamp
+
+  april'
+bip_39_word_new_line2: 'tennis
+
+  aspect'
+bip_39_word_new_line3: 'tennis
+
+  aspect
+
+  license'
+bip_39_word_new_line4: 'tennis
+
+  aspect
+
+  license
+
+  any'
+bip_39_word_new_line5: 'tennis
+
+  aspect
+
+  license
+
+  any
+
+  day'
+bip_39_word_new_line6: 'tennis
+
+  aspect
+
+  license
+
+  any
+
+  day
+
+  stumble'
+bip_39_word_new_line7: 'tennis
+
+  aspect
+
+  license
+
+  any
+
+  day
+
+  stumble
+
+  shock'
+bip_39_word_new_line8: 'tennis
+
+  aspect
+
+  license
+
+  any
+
+  day
+
+  stumble
+
+  shock
+
+  mixture'
+bip_39_word_new_line9: 'tennis
+
+  aspect
+
+  license
+
+  any
+
+  day
+
+  stumble
+
+  shock
+
+  mixture
+
+  pride'
+bip_39_word_space_0:
+- tennis
+- aspect
+- license
+- any
+- day
+- stumble
+- shock
+- mixture
+- pride
+- onion
+- swamp
+- april
+bip_39_word_space_1: tennis
+bip_39_word_space_10: tennis aspect license any day stumble shock mixture pride onion
+bip_39_word_space_11: tennis aspect license any day stumble shock mixture pride onion
+  swamp
+bip_39_word_space_12: tennis aspect license any day stumble shock mixture pride onion
+  swamp april
+bip_39_word_space_2: tennis aspect
+bip_39_word_space_3: tennis aspect license
+bip_39_word_space_4: tennis aspect license any
+bip_39_word_space_5: tennis aspect license any day
+bip_39_word_space_6: tennis aspect license any day stumble
+bip_39_word_space_7: tennis aspect license any day stumble shock
+bip_39_word_space_8: tennis aspect license any day stumble shock mixture
+bip_39_word_space_9: tennis aspect license any day stumble shock mixture pride
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

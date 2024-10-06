@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plug network
+  * bip 39 word 3: plug network warrior
+  * bip 39 word: plug network warrior bamboo poem flag initial chimney run nothing miss artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plug |  
+| bip_39_word_new_br10 | plug<br>network<br>warrior<br>bamboo<br>poem<br>flag<br>initial<br>chimney<br>run<br>nothing |  
+| bip_39_word_new_br11 | plug<br>network<br>warrior<br>bamboo<br>poem<br>flag<br>initial<br>chimney<br>run<br>nothing<br>miss |  
+| bip_39_word_new_br12 | plug<br>network<br>warrior<br>bamboo<br>poem<br>flag<br>initial<br>chimney<br>run<br>nothing<br>miss<br>artist |  
+| bip_39_word_new_br2 | plug<br>network |  
+| bip_39_word_new_br3 | plug<br>network<br>warrior |  
+| bip_39_word_new_br4 | plug<br>network<br>warrior<br>bamboo |  
+| bip_39_word_new_br5 | plug<br>network<br>warrior<br>bamboo<br>poem |  
+| bip_39_word_new_br6 | plug<br>network<br>warrior<br>bamboo<br>poem<br>flag |  
+| bip_39_word_new_br7 | plug<br>network<br>warrior<br>bamboo<br>poem<br>flag<br>initial |  
+| bip_39_word_new_br8 | plug<br>network<br>warrior<br>bamboo<br>poem<br>flag<br>initial<br>chimney |  
+| bip_39_word_new_br9 | plug<br>network<br>warrior<br>bamboo<br>poem<br>flag<br>initial<br>chimney<br>run |  
+| bip_39_word_new_line1 | plug |  
+| bip_39_word_new_line10 | plug
+network
+warrior
+bamboo
+poem
+flag
+initial
+chimney
+run
+nothing |  
+| bip_39_word_new_line11 | plug
+network
+warrior
+bamboo
+poem
+flag
+initial
+chimney
+run
+nothing
+miss |  
+| bip_39_word_new_line12 | plug
+network
+warrior
+bamboo
+poem
+flag
+initial
+chimney
+run
+nothing
+miss
+artist |  
+| bip_39_word_new_line2 | plug
+network |  
+| bip_39_word_new_line3 | plug
+network
+warrior |  
+| bip_39_word_new_line4 | plug
+network
+warrior
+bamboo |  
+| bip_39_word_new_line5 | plug
+network
+warrior
+bamboo
+poem |  
+| bip_39_word_new_line6 | plug
+network
+warrior
+bamboo
+poem
+flag |  
+| bip_39_word_new_line7 | plug
+network
+warrior
+bamboo
+poem
+flag
+initial |  
+| bip_39_word_new_line8 | plug
+network
+warrior
+bamboo
+poem
+flag
+initial
+chimney |  
+| bip_39_word_new_line9 | plug
+network
+warrior
+bamboo
+poem
+flag
+initial
+chimney
+run |  
+| bip_39_word_space_0 | ['plug', 'network', 'warrior', 'bamboo', 'poem', 'flag', 'initial', 'chimney', 'run', 'nothing', 'miss', 'artist'] |  
+| bip_39_word_space_1 | plug |  
+| bip_39_word_space_10 | plug network warrior bamboo poem flag initial chimney run nothing |  
+| bip_39_word_space_11 | plug network warrior bamboo poem flag initial chimney run nothing miss |  
+| bip_39_word_space_12 | plug network warrior bamboo poem flag initial chimney run nothing miss artist |  
+| bip_39_word_space_2 | plug network |  
+| bip_39_word_space_3 | plug network warrior |  
+| bip_39_word_space_4 | plug network warrior bamboo |  
+| bip_39_word_space_5 | plug network warrior bamboo poem |  
+| bip_39_word_space_6 | plug network warrior bamboo poem flag |  
+| bip_39_word_space_7 | plug network warrior bamboo poem flag initial |  
+| bip_39_word_space_8 | plug network warrior bamboo poem flag initial chimney |  
+| bip_39_word_space_9 | plug network warrior bamboo poem flag initial chimney run |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

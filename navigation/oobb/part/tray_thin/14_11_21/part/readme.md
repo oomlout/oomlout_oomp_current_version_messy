@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: video alien
+  * bip 39 word 3: video alien source
+  * bip 39 word: video alien source crush potato fabric differ lamp filter solve winter anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | video |  
+| bip_39_word_new_br10 | video<br>alien<br>source<br>crush<br>potato<br>fabric<br>differ<br>lamp<br>filter<br>solve |  
+| bip_39_word_new_br11 | video<br>alien<br>source<br>crush<br>potato<br>fabric<br>differ<br>lamp<br>filter<br>solve<br>winter |  
+| bip_39_word_new_br12 | video<br>alien<br>source<br>crush<br>potato<br>fabric<br>differ<br>lamp<br>filter<br>solve<br>winter<br>anchor |  
+| bip_39_word_new_br2 | video<br>alien |  
+| bip_39_word_new_br3 | video<br>alien<br>source |  
+| bip_39_word_new_br4 | video<br>alien<br>source<br>crush |  
+| bip_39_word_new_br5 | video<br>alien<br>source<br>crush<br>potato |  
+| bip_39_word_new_br6 | video<br>alien<br>source<br>crush<br>potato<br>fabric |  
+| bip_39_word_new_br7 | video<br>alien<br>source<br>crush<br>potato<br>fabric<br>differ |  
+| bip_39_word_new_br8 | video<br>alien<br>source<br>crush<br>potato<br>fabric<br>differ<br>lamp |  
+| bip_39_word_new_br9 | video<br>alien<br>source<br>crush<br>potato<br>fabric<br>differ<br>lamp<br>filter |  
+| bip_39_word_new_line1 | video |  
+| bip_39_word_new_line10 | video
+alien
+source
+crush
+potato
+fabric
+differ
+lamp
+filter
+solve |  
+| bip_39_word_new_line11 | video
+alien
+source
+crush
+potato
+fabric
+differ
+lamp
+filter
+solve
+winter |  
+| bip_39_word_new_line12 | video
+alien
+source
+crush
+potato
+fabric
+differ
+lamp
+filter
+solve
+winter
+anchor |  
+| bip_39_word_new_line2 | video
+alien |  
+| bip_39_word_new_line3 | video
+alien
+source |  
+| bip_39_word_new_line4 | video
+alien
+source
+crush |  
+| bip_39_word_new_line5 | video
+alien
+source
+crush
+potato |  
+| bip_39_word_new_line6 | video
+alien
+source
+crush
+potato
+fabric |  
+| bip_39_word_new_line7 | video
+alien
+source
+crush
+potato
+fabric
+differ |  
+| bip_39_word_new_line8 | video
+alien
+source
+crush
+potato
+fabric
+differ
+lamp |  
+| bip_39_word_new_line9 | video
+alien
+source
+crush
+potato
+fabric
+differ
+lamp
+filter |  
+| bip_39_word_space_0 | ['video', 'alien', 'source', 'crush', 'potato', 'fabric', 'differ', 'lamp', 'filter', 'solve', 'winter', 'anchor'] |  
+| bip_39_word_space_1 | video |  
+| bip_39_word_space_10 | video alien source crush potato fabric differ lamp filter solve |  
+| bip_39_word_space_11 | video alien source crush potato fabric differ lamp filter solve winter |  
+| bip_39_word_space_12 | video alien source crush potato fabric differ lamp filter solve winter anchor |  
+| bip_39_word_space_2 | video alien |  
+| bip_39_word_space_3 | video alien source |  
+| bip_39_word_space_4 | video alien source crush |  
+| bip_39_word_space_5 | video alien source crush potato |  
+| bip_39_word_space_6 | video alien source crush potato fabric |  
+| bip_39_word_space_7 | video alien source crush potato fabric differ |  
+| bip_39_word_space_8 | video alien source crush potato fabric differ lamp |  
+| bip_39_word_space_9 | video alien source crush potato fabric differ lamp filter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

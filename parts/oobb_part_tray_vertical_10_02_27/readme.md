@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amateur people
+  * bip 39 word 3: amateur people sausage
+  * bip 39 word: amateur people sausage clump cousin flush cram half index output exit artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amateur |  
+| bip_39_word_new_br10 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush<br>cram<br>half<br>index<br>output |  
+| bip_39_word_new_br11 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush<br>cram<br>half<br>index<br>output<br>exit |  
+| bip_39_word_new_br12 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush<br>cram<br>half<br>index<br>output<br>exit<br>artist |  
+| bip_39_word_new_br2 | amateur<br>people |  
+| bip_39_word_new_br3 | amateur<br>people<br>sausage |  
+| bip_39_word_new_br4 | amateur<br>people<br>sausage<br>clump |  
+| bip_39_word_new_br5 | amateur<br>people<br>sausage<br>clump<br>cousin |  
+| bip_39_word_new_br6 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush |  
+| bip_39_word_new_br7 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush<br>cram |  
+| bip_39_word_new_br8 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush<br>cram<br>half |  
+| bip_39_word_new_br9 | amateur<br>people<br>sausage<br>clump<br>cousin<br>flush<br>cram<br>half<br>index |  
+| bip_39_word_new_line1 | amateur |  
+| bip_39_word_new_line10 | amateur
+people
+sausage
+clump
+cousin
+flush
+cram
+half
+index
+output |  
+| bip_39_word_new_line11 | amateur
+people
+sausage
+clump
+cousin
+flush
+cram
+half
+index
+output
+exit |  
+| bip_39_word_new_line12 | amateur
+people
+sausage
+clump
+cousin
+flush
+cram
+half
+index
+output
+exit
+artist |  
+| bip_39_word_new_line2 | amateur
+people |  
+| bip_39_word_new_line3 | amateur
+people
+sausage |  
+| bip_39_word_new_line4 | amateur
+people
+sausage
+clump |  
+| bip_39_word_new_line5 | amateur
+people
+sausage
+clump
+cousin |  
+| bip_39_word_new_line6 | amateur
+people
+sausage
+clump
+cousin
+flush |  
+| bip_39_word_new_line7 | amateur
+people
+sausage
+clump
+cousin
+flush
+cram |  
+| bip_39_word_new_line8 | amateur
+people
+sausage
+clump
+cousin
+flush
+cram
+half |  
+| bip_39_word_new_line9 | amateur
+people
+sausage
+clump
+cousin
+flush
+cram
+half
+index |  
+| bip_39_word_space_0 | ['amateur', 'people', 'sausage', 'clump', 'cousin', 'flush', 'cram', 'half', 'index', 'output', 'exit', 'artist'] |  
+| bip_39_word_space_1 | amateur |  
+| bip_39_word_space_10 | amateur people sausage clump cousin flush cram half index output |  
+| bip_39_word_space_11 | amateur people sausage clump cousin flush cram half index output exit |  
+| bip_39_word_space_12 | amateur people sausage clump cousin flush cram half index output exit artist |  
+| bip_39_word_space_2 | amateur people |  
+| bip_39_word_space_3 | amateur people sausage |  
+| bip_39_word_space_4 | amateur people sausage clump |  
+| bip_39_word_space_5 | amateur people sausage clump cousin |  
+| bip_39_word_space_6 | amateur people sausage clump cousin flush |  
+| bip_39_word_space_7 | amateur people sausage clump cousin flush cram |  
+| bip_39_word_space_8 | amateur people sausage clump cousin flush cram half |  
+| bip_39_word_space_9 | amateur people sausage clump cousin flush cram half index |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

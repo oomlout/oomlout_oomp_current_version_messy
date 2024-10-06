@@ -1,3 +1,186 @@
+bip_39_word_new_br1: genius
+bip_39_word_new_br10: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing
+bip_39_word_new_br11: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force
+bip_39_word_new_br12: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force<br>ability
+bip_39_word_new_br2: genius<br>bachelor
+bip_39_word_new_br3: genius<br>bachelor<br>hood
+bip_39_word_new_br4: genius<br>bachelor<br>hood<br>dirt
+bip_39_word_new_br5: genius<br>bachelor<br>hood<br>dirt<br>tomorrow
+bip_39_word_new_br6: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost
+bip_39_word_new_br7: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip
+bip_39_word_new_br8: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend
+bip_39_word_new_br9: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird
+bip_39_word_new_line1: genius
+bip_39_word_new_line10: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend
+
+  weird
+
+  wing'
+bip_39_word_new_line11: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend
+
+  weird
+
+  wing
+
+  force'
+bip_39_word_new_line12: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend
+
+  weird
+
+  wing
+
+  force
+
+  ability'
+bip_39_word_new_line2: 'genius
+
+  bachelor'
+bip_39_word_new_line3: 'genius
+
+  bachelor
+
+  hood'
+bip_39_word_new_line4: 'genius
+
+  bachelor
+
+  hood
+
+  dirt'
+bip_39_word_new_line5: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow'
+bip_39_word_new_line6: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost'
+bip_39_word_new_line7: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip'
+bip_39_word_new_line8: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend'
+bip_39_word_new_line9: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend
+
+  weird'
+bip_39_word_space_0:
+- genius
+- bachelor
+- hood
+- dirt
+- tomorrow
+- almost
+- hip
+- depend
+- weird
+- wing
+- force
+- ability
+bip_39_word_space_1: genius
+bip_39_word_space_10: genius bachelor hood dirt tomorrow almost hip depend weird wing
+bip_39_word_space_11: genius bachelor hood dirt tomorrow almost hip depend weird wing
+  force
+bip_39_word_space_12: genius bachelor hood dirt tomorrow almost hip depend weird wing
+  force ability
+bip_39_word_space_2: genius bachelor
+bip_39_word_space_3: genius bachelor hood
+bip_39_word_space_4: genius bachelor hood dirt
+bip_39_word_space_5: genius bachelor hood dirt tomorrow
+bip_39_word_space_6: genius bachelor hood dirt tomorrow almost
+bip_39_word_space_7: genius bachelor hood dirt tomorrow almost hip
+bip_39_word_space_8: genius bachelor hood dirt tomorrow almost hip depend
+bip_39_word_space_9: genius bachelor hood dirt tomorrow almost hip depend weird
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

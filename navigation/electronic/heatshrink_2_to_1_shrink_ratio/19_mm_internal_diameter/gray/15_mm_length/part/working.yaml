@@ -1,3 +1,186 @@
+bip_39_word_new_br1: still
+bip_39_word_new_br10: still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent
+bip_39_word_new_br11: still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent<br>wrestle
+bip_39_word_new_br12: still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest<br>agent<br>wrestle<br>accident
+bip_39_word_new_br2: still<br>lock
+bip_39_word_new_br3: still<br>lock<br>area
+bip_39_word_new_br4: still<br>lock<br>area<br>replace
+bip_39_word_new_br5: still<br>lock<br>area<br>replace<br>swamp
+bip_39_word_new_br6: still<br>lock<br>area<br>replace<br>swamp<br>victory
+bip_39_word_new_br7: still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good
+bip_39_word_new_br8: still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar
+bip_39_word_new_br9: still<br>lock<br>area<br>replace<br>swamp<br>victory<br>good<br>polar<br>harvest
+bip_39_word_new_line1: still
+bip_39_word_new_line10: 'still
+
+  lock
+
+  area
+
+  replace
+
+  swamp
+
+  victory
+
+  good
+
+  polar
+
+  harvest
+
+  agent'
+bip_39_word_new_line11: 'still
+
+  lock
+
+  area
+
+  replace
+
+  swamp
+
+  victory
+
+  good
+
+  polar
+
+  harvest
+
+  agent
+
+  wrestle'
+bip_39_word_new_line12: 'still
+
+  lock
+
+  area
+
+  replace
+
+  swamp
+
+  victory
+
+  good
+
+  polar
+
+  harvest
+
+  agent
+
+  wrestle
+
+  accident'
+bip_39_word_new_line2: 'still
+
+  lock'
+bip_39_word_new_line3: 'still
+
+  lock
+
+  area'
+bip_39_word_new_line4: 'still
+
+  lock
+
+  area
+
+  replace'
+bip_39_word_new_line5: 'still
+
+  lock
+
+  area
+
+  replace
+
+  swamp'
+bip_39_word_new_line6: 'still
+
+  lock
+
+  area
+
+  replace
+
+  swamp
+
+  victory'
+bip_39_word_new_line7: 'still
+
+  lock
+
+  area
+
+  replace
+
+  swamp
+
+  victory
+
+  good'
+bip_39_word_new_line8: 'still
+
+  lock
+
+  area
+
+  replace
+
+  swamp
+
+  victory
+
+  good
+
+  polar'
+bip_39_word_new_line9: 'still
+
+  lock
+
+  area
+
+  replace
+
+  swamp
+
+  victory
+
+  good
+
+  polar
+
+  harvest'
+bip_39_word_space_0:
+- still
+- lock
+- area
+- replace
+- swamp
+- victory
+- good
+- polar
+- harvest
+- agent
+- wrestle
+- accident
+bip_39_word_space_1: still
+bip_39_word_space_10: still lock area replace swamp victory good polar harvest agent
+bip_39_word_space_11: still lock area replace swamp victory good polar harvest agent
+  wrestle
+bip_39_word_space_12: still lock area replace swamp victory good polar harvest agent
+  wrestle accident
+bip_39_word_space_2: still lock
+bip_39_word_space_3: still lock area
+bip_39_word_space_4: still lock area replace
+bip_39_word_space_5: still lock area replace swamp
+bip_39_word_space_6: still lock area replace swamp victory
+bip_39_word_space_7: still lock area replace swamp victory good
+bip_39_word_space_8: still lock area replace swamp victory good polar
+bip_39_word_space_9: still lock area replace swamp victory good polar harvest
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spoil fitness
+  * bip 39 word 3: spoil fitness left
+  * bip 39 word: spoil fitness left brass swim oxygen tongue mind security black resemble again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spoil |  
+| bip_39_word_new_br10 | spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black |  
+| bip_39_word_new_br11 | spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black<br>resemble |  
+| bip_39_word_new_br12 | spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security<br>black<br>resemble<br>again |  
+| bip_39_word_new_br2 | spoil<br>fitness |  
+| bip_39_word_new_br3 | spoil<br>fitness<br>left |  
+| bip_39_word_new_br4 | spoil<br>fitness<br>left<br>brass |  
+| bip_39_word_new_br5 | spoil<br>fitness<br>left<br>brass<br>swim |  
+| bip_39_word_new_br6 | spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen |  
+| bip_39_word_new_br7 | spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue |  
+| bip_39_word_new_br8 | spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind |  
+| bip_39_word_new_br9 | spoil<br>fitness<br>left<br>brass<br>swim<br>oxygen<br>tongue<br>mind<br>security |  
+| bip_39_word_new_line1 | spoil |  
+| bip_39_word_new_line10 | spoil
+fitness
+left
+brass
+swim
+oxygen
+tongue
+mind
+security
+black |  
+| bip_39_word_new_line11 | spoil
+fitness
+left
+brass
+swim
+oxygen
+tongue
+mind
+security
+black
+resemble |  
+| bip_39_word_new_line12 | spoil
+fitness
+left
+brass
+swim
+oxygen
+tongue
+mind
+security
+black
+resemble
+again |  
+| bip_39_word_new_line2 | spoil
+fitness |  
+| bip_39_word_new_line3 | spoil
+fitness
+left |  
+| bip_39_word_new_line4 | spoil
+fitness
+left
+brass |  
+| bip_39_word_new_line5 | spoil
+fitness
+left
+brass
+swim |  
+| bip_39_word_new_line6 | spoil
+fitness
+left
+brass
+swim
+oxygen |  
+| bip_39_word_new_line7 | spoil
+fitness
+left
+brass
+swim
+oxygen
+tongue |  
+| bip_39_word_new_line8 | spoil
+fitness
+left
+brass
+swim
+oxygen
+tongue
+mind |  
+| bip_39_word_new_line9 | spoil
+fitness
+left
+brass
+swim
+oxygen
+tongue
+mind
+security |  
+| bip_39_word_space_0 | ['spoil', 'fitness', 'left', 'brass', 'swim', 'oxygen', 'tongue', 'mind', 'security', 'black', 'resemble', 'again'] |  
+| bip_39_word_space_1 | spoil |  
+| bip_39_word_space_10 | spoil fitness left brass swim oxygen tongue mind security black |  
+| bip_39_word_space_11 | spoil fitness left brass swim oxygen tongue mind security black resemble |  
+| bip_39_word_space_12 | spoil fitness left brass swim oxygen tongue mind security black resemble again |  
+| bip_39_word_space_2 | spoil fitness |  
+| bip_39_word_space_3 | spoil fitness left |  
+| bip_39_word_space_4 | spoil fitness left brass |  
+| bip_39_word_space_5 | spoil fitness left brass swim |  
+| bip_39_word_space_6 | spoil fitness left brass swim oxygen |  
+| bip_39_word_space_7 | spoil fitness left brass swim oxygen tongue |  
+| bip_39_word_space_8 | spoil fitness left brass swim oxygen tongue mind |  
+| bip_39_word_space_9 | spoil fitness left brass swim oxygen tongue mind security |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

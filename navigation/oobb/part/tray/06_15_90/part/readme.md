@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: main grid
+  * bip 39 word 3: main grid verb
+  * bip 39 word: main grid verb concert member draft pepper tooth elite loop endless act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | main |  
+| bip_39_word_new_br10 | main<br>grid<br>verb<br>concert<br>member<br>draft<br>pepper<br>tooth<br>elite<br>loop |  
+| bip_39_word_new_br11 | main<br>grid<br>verb<br>concert<br>member<br>draft<br>pepper<br>tooth<br>elite<br>loop<br>endless |  
+| bip_39_word_new_br12 | main<br>grid<br>verb<br>concert<br>member<br>draft<br>pepper<br>tooth<br>elite<br>loop<br>endless<br>act |  
+| bip_39_word_new_br2 | main<br>grid |  
+| bip_39_word_new_br3 | main<br>grid<br>verb |  
+| bip_39_word_new_br4 | main<br>grid<br>verb<br>concert |  
+| bip_39_word_new_br5 | main<br>grid<br>verb<br>concert<br>member |  
+| bip_39_word_new_br6 | main<br>grid<br>verb<br>concert<br>member<br>draft |  
+| bip_39_word_new_br7 | main<br>grid<br>verb<br>concert<br>member<br>draft<br>pepper |  
+| bip_39_word_new_br8 | main<br>grid<br>verb<br>concert<br>member<br>draft<br>pepper<br>tooth |  
+| bip_39_word_new_br9 | main<br>grid<br>verb<br>concert<br>member<br>draft<br>pepper<br>tooth<br>elite |  
+| bip_39_word_new_line1 | main |  
+| bip_39_word_new_line10 | main
+grid
+verb
+concert
+member
+draft
+pepper
+tooth
+elite
+loop |  
+| bip_39_word_new_line11 | main
+grid
+verb
+concert
+member
+draft
+pepper
+tooth
+elite
+loop
+endless |  
+| bip_39_word_new_line12 | main
+grid
+verb
+concert
+member
+draft
+pepper
+tooth
+elite
+loop
+endless
+act |  
+| bip_39_word_new_line2 | main
+grid |  
+| bip_39_word_new_line3 | main
+grid
+verb |  
+| bip_39_word_new_line4 | main
+grid
+verb
+concert |  
+| bip_39_word_new_line5 | main
+grid
+verb
+concert
+member |  
+| bip_39_word_new_line6 | main
+grid
+verb
+concert
+member
+draft |  
+| bip_39_word_new_line7 | main
+grid
+verb
+concert
+member
+draft
+pepper |  
+| bip_39_word_new_line8 | main
+grid
+verb
+concert
+member
+draft
+pepper
+tooth |  
+| bip_39_word_new_line9 | main
+grid
+verb
+concert
+member
+draft
+pepper
+tooth
+elite |  
+| bip_39_word_space_0 | ['main', 'grid', 'verb', 'concert', 'member', 'draft', 'pepper', 'tooth', 'elite', 'loop', 'endless', 'act'] |  
+| bip_39_word_space_1 | main |  
+| bip_39_word_space_10 | main grid verb concert member draft pepper tooth elite loop |  
+| bip_39_word_space_11 | main grid verb concert member draft pepper tooth elite loop endless |  
+| bip_39_word_space_12 | main grid verb concert member draft pepper tooth elite loop endless act |  
+| bip_39_word_space_2 | main grid |  
+| bip_39_word_space_3 | main grid verb |  
+| bip_39_word_space_4 | main grid verb concert |  
+| bip_39_word_space_5 | main grid verb concert member |  
+| bip_39_word_space_6 | main grid verb concert member draft |  
+| bip_39_word_space_7 | main grid verb concert member draft pepper |  
+| bip_39_word_space_8 | main grid verb concert member draft pepper tooth |  
+| bip_39_word_space_9 | main grid verb concert member draft pepper tooth elite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

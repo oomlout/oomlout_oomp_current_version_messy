@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: a
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soup thumb
+  * bip 39 word 3: soup thumb toe
+  * bip 39 word: soup thumb toe initial acquire nothing ahead virus envelope decorate wrist angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soup |  
+| bip_39_word_new_br10 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing<br>ahead<br>virus<br>envelope<br>decorate |  
+| bip_39_word_new_br11 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing<br>ahead<br>virus<br>envelope<br>decorate<br>wrist |  
+| bip_39_word_new_br12 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing<br>ahead<br>virus<br>envelope<br>decorate<br>wrist<br>angle |  
+| bip_39_word_new_br2 | soup<br>thumb |  
+| bip_39_word_new_br3 | soup<br>thumb<br>toe |  
+| bip_39_word_new_br4 | soup<br>thumb<br>toe<br>initial |  
+| bip_39_word_new_br5 | soup<br>thumb<br>toe<br>initial<br>acquire |  
+| bip_39_word_new_br6 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing |  
+| bip_39_word_new_br7 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing<br>ahead |  
+| bip_39_word_new_br8 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing<br>ahead<br>virus |  
+| bip_39_word_new_br9 | soup<br>thumb<br>toe<br>initial<br>acquire<br>nothing<br>ahead<br>virus<br>envelope |  
+| bip_39_word_new_line1 | soup |  
+| bip_39_word_new_line10 | soup
+thumb
+toe
+initial
+acquire
+nothing
+ahead
+virus
+envelope
+decorate |  
+| bip_39_word_new_line11 | soup
+thumb
+toe
+initial
+acquire
+nothing
+ahead
+virus
+envelope
+decorate
+wrist |  
+| bip_39_word_new_line12 | soup
+thumb
+toe
+initial
+acquire
+nothing
+ahead
+virus
+envelope
+decorate
+wrist
+angle |  
+| bip_39_word_new_line2 | soup
+thumb |  
+| bip_39_word_new_line3 | soup
+thumb
+toe |  
+| bip_39_word_new_line4 | soup
+thumb
+toe
+initial |  
+| bip_39_word_new_line5 | soup
+thumb
+toe
+initial
+acquire |  
+| bip_39_word_new_line6 | soup
+thumb
+toe
+initial
+acquire
+nothing |  
+| bip_39_word_new_line7 | soup
+thumb
+toe
+initial
+acquire
+nothing
+ahead |  
+| bip_39_word_new_line8 | soup
+thumb
+toe
+initial
+acquire
+nothing
+ahead
+virus |  
+| bip_39_word_new_line9 | soup
+thumb
+toe
+initial
+acquire
+nothing
+ahead
+virus
+envelope |  
+| bip_39_word_space_0 | ['soup', 'thumb', 'toe', 'initial', 'acquire', 'nothing', 'ahead', 'virus', 'envelope', 'decorate', 'wrist', 'angle'] |  
+| bip_39_word_space_1 | soup |  
+| bip_39_word_space_10 | soup thumb toe initial acquire nothing ahead virus envelope decorate |  
+| bip_39_word_space_11 | soup thumb toe initial acquire nothing ahead virus envelope decorate wrist |  
+| bip_39_word_space_12 | soup thumb toe initial acquire nothing ahead virus envelope decorate wrist angle |  
+| bip_39_word_space_2 | soup thumb |  
+| bip_39_word_space_3 | soup thumb toe |  
+| bip_39_word_space_4 | soup thumb toe initial |  
+| bip_39_word_space_5 | soup thumb toe initial acquire |  
+| bip_39_word_space_6 | soup thumb toe initial acquire nothing |  
+| bip_39_word_space_7 | soup thumb toe initial acquire nothing ahead |  
+| bip_39_word_space_8 | soup thumb toe initial acquire nothing ahead virus |  
+| bip_39_word_space_9 | soup thumb toe initial acquire nothing ahead virus envelope |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

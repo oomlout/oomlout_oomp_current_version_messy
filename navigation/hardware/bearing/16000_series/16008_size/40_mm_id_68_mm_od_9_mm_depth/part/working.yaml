@@ -1,3 +1,187 @@
+bip_39_word_new_br1: usage
+bip_39_word_new_br10: usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw
+bip_39_word_new_br11: usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw<br>month
+bip_39_word_new_br12: usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble<br>draw<br>month<br>artefact
+bip_39_word_new_br2: usage<br>afford
+bip_39_word_new_br3: usage<br>afford<br>infant
+bip_39_word_new_br4: usage<br>afford<br>infant<br>hood
+bip_39_word_new_br5: usage<br>afford<br>infant<br>hood<br>leave
+bip_39_word_new_br6: usage<br>afford<br>infant<br>hood<br>leave<br>again
+bip_39_word_new_br7: usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand
+bip_39_word_new_br8: usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual
+bip_39_word_new_br9: usage<br>afford<br>infant<br>hood<br>leave<br>again<br>expand<br>ritual<br>resemble
+bip_39_word_new_line1: usage
+bip_39_word_new_line10: 'usage
+
+  afford
+
+  infant
+
+  hood
+
+  leave
+
+  again
+
+  expand
+
+  ritual
+
+  resemble
+
+  draw'
+bip_39_word_new_line11: 'usage
+
+  afford
+
+  infant
+
+  hood
+
+  leave
+
+  again
+
+  expand
+
+  ritual
+
+  resemble
+
+  draw
+
+  month'
+bip_39_word_new_line12: 'usage
+
+  afford
+
+  infant
+
+  hood
+
+  leave
+
+  again
+
+  expand
+
+  ritual
+
+  resemble
+
+  draw
+
+  month
+
+  artefact'
+bip_39_word_new_line2: 'usage
+
+  afford'
+bip_39_word_new_line3: 'usage
+
+  afford
+
+  infant'
+bip_39_word_new_line4: 'usage
+
+  afford
+
+  infant
+
+  hood'
+bip_39_word_new_line5: 'usage
+
+  afford
+
+  infant
+
+  hood
+
+  leave'
+bip_39_word_new_line6: 'usage
+
+  afford
+
+  infant
+
+  hood
+
+  leave
+
+  again'
+bip_39_word_new_line7: 'usage
+
+  afford
+
+  infant
+
+  hood
+
+  leave
+
+  again
+
+  expand'
+bip_39_word_new_line8: 'usage
+
+  afford
+
+  infant
+
+  hood
+
+  leave
+
+  again
+
+  expand
+
+  ritual'
+bip_39_word_new_line9: 'usage
+
+  afford
+
+  infant
+
+  hood
+
+  leave
+
+  again
+
+  expand
+
+  ritual
+
+  resemble'
+bip_39_word_space_0:
+- usage
+- afford
+- infant
+- hood
+- leave
+- again
+- expand
+- ritual
+- resemble
+- draw
+- month
+- artefact
+bip_39_word_space_1: usage
+bip_39_word_space_10: usage afford infant hood leave again expand ritual resemble
+  draw
+bip_39_word_space_11: usage afford infant hood leave again expand ritual resemble
+  draw month
+bip_39_word_space_12: usage afford infant hood leave again expand ritual resemble
+  draw month artefact
+bip_39_word_space_2: usage afford
+bip_39_word_space_3: usage afford infant
+bip_39_word_space_4: usage afford infant hood
+bip_39_word_space_5: usage afford infant hood leave
+bip_39_word_space_6: usage afford infant hood leave again
+bip_39_word_space_7: usage afford infant hood leave again expand
+bip_39_word_space_8: usage afford infant hood leave again expand ritual
+bip_39_word_space_9: usage afford infant hood leave again expand ritual resemble
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

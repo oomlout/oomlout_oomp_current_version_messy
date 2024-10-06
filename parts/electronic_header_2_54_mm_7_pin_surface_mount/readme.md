@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grant vast
+  * bip 39 word 3: grant vast dash
+  * bip 39 word: grant vast dash cube whisper cliff whip organ quantum illness garlic analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grant |  
+| bip_39_word_new_br10 | grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ<br>quantum<br>illness |  
+| bip_39_word_new_br11 | grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ<br>quantum<br>illness<br>garlic |  
+| bip_39_word_new_br12 | grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ<br>quantum<br>illness<br>garlic<br>analyst |  
+| bip_39_word_new_br2 | grant<br>vast |  
+| bip_39_word_new_br3 | grant<br>vast<br>dash |  
+| bip_39_word_new_br4 | grant<br>vast<br>dash<br>cube |  
+| bip_39_word_new_br5 | grant<br>vast<br>dash<br>cube<br>whisper |  
+| bip_39_word_new_br6 | grant<br>vast<br>dash<br>cube<br>whisper<br>cliff |  
+| bip_39_word_new_br7 | grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip |  
+| bip_39_word_new_br8 | grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ |  
+| bip_39_word_new_br9 | grant<br>vast<br>dash<br>cube<br>whisper<br>cliff<br>whip<br>organ<br>quantum |  
+| bip_39_word_new_line1 | grant |  
+| bip_39_word_new_line10 | grant
+vast
+dash
+cube
+whisper
+cliff
+whip
+organ
+quantum
+illness |  
+| bip_39_word_new_line11 | grant
+vast
+dash
+cube
+whisper
+cliff
+whip
+organ
+quantum
+illness
+garlic |  
+| bip_39_word_new_line12 | grant
+vast
+dash
+cube
+whisper
+cliff
+whip
+organ
+quantum
+illness
+garlic
+analyst |  
+| bip_39_word_new_line2 | grant
+vast |  
+| bip_39_word_new_line3 | grant
+vast
+dash |  
+| bip_39_word_new_line4 | grant
+vast
+dash
+cube |  
+| bip_39_word_new_line5 | grant
+vast
+dash
+cube
+whisper |  
+| bip_39_word_new_line6 | grant
+vast
+dash
+cube
+whisper
+cliff |  
+| bip_39_word_new_line7 | grant
+vast
+dash
+cube
+whisper
+cliff
+whip |  
+| bip_39_word_new_line8 | grant
+vast
+dash
+cube
+whisper
+cliff
+whip
+organ |  
+| bip_39_word_new_line9 | grant
+vast
+dash
+cube
+whisper
+cliff
+whip
+organ
+quantum |  
+| bip_39_word_space_0 | ['grant', 'vast', 'dash', 'cube', 'whisper', 'cliff', 'whip', 'organ', 'quantum', 'illness', 'garlic', 'analyst'] |  
+| bip_39_word_space_1 | grant |  
+| bip_39_word_space_10 | grant vast dash cube whisper cliff whip organ quantum illness |  
+| bip_39_word_space_11 | grant vast dash cube whisper cliff whip organ quantum illness garlic |  
+| bip_39_word_space_12 | grant vast dash cube whisper cliff whip organ quantum illness garlic analyst |  
+| bip_39_word_space_2 | grant vast |  
+| bip_39_word_space_3 | grant vast dash |  
+| bip_39_word_space_4 | grant vast dash cube |  
+| bip_39_word_space_5 | grant vast dash cube whisper |  
+| bip_39_word_space_6 | grant vast dash cube whisper cliff |  
+| bip_39_word_space_7 | grant vast dash cube whisper cliff whip |  
+| bip_39_word_space_8 | grant vast dash cube whisper cliff whip organ |  
+| bip_39_word_space_9 | grant vast dash cube whisper cliff whip organ quantum |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

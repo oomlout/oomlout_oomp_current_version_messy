@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excite matter
+  * bip 39 word 3: excite matter switch
+  * bip 39 word: excite matter switch renew female trim limb decrease office juice brisk antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excite |  
+| bip_39_word_new_br10 | excite<br>matter<br>switch<br>renew<br>female<br>trim<br>limb<br>decrease<br>office<br>juice |  
+| bip_39_word_new_br11 | excite<br>matter<br>switch<br>renew<br>female<br>trim<br>limb<br>decrease<br>office<br>juice<br>brisk |  
+| bip_39_word_new_br12 | excite<br>matter<br>switch<br>renew<br>female<br>trim<br>limb<br>decrease<br>office<br>juice<br>brisk<br>antique |  
+| bip_39_word_new_br2 | excite<br>matter |  
+| bip_39_word_new_br3 | excite<br>matter<br>switch |  
+| bip_39_word_new_br4 | excite<br>matter<br>switch<br>renew |  
+| bip_39_word_new_br5 | excite<br>matter<br>switch<br>renew<br>female |  
+| bip_39_word_new_br6 | excite<br>matter<br>switch<br>renew<br>female<br>trim |  
+| bip_39_word_new_br7 | excite<br>matter<br>switch<br>renew<br>female<br>trim<br>limb |  
+| bip_39_word_new_br8 | excite<br>matter<br>switch<br>renew<br>female<br>trim<br>limb<br>decrease |  
+| bip_39_word_new_br9 | excite<br>matter<br>switch<br>renew<br>female<br>trim<br>limb<br>decrease<br>office |  
+| bip_39_word_new_line1 | excite |  
+| bip_39_word_new_line10 | excite
+matter
+switch
+renew
+female
+trim
+limb
+decrease
+office
+juice |  
+| bip_39_word_new_line11 | excite
+matter
+switch
+renew
+female
+trim
+limb
+decrease
+office
+juice
+brisk |  
+| bip_39_word_new_line12 | excite
+matter
+switch
+renew
+female
+trim
+limb
+decrease
+office
+juice
+brisk
+antique |  
+| bip_39_word_new_line2 | excite
+matter |  
+| bip_39_word_new_line3 | excite
+matter
+switch |  
+| bip_39_word_new_line4 | excite
+matter
+switch
+renew |  
+| bip_39_word_new_line5 | excite
+matter
+switch
+renew
+female |  
+| bip_39_word_new_line6 | excite
+matter
+switch
+renew
+female
+trim |  
+| bip_39_word_new_line7 | excite
+matter
+switch
+renew
+female
+trim
+limb |  
+| bip_39_word_new_line8 | excite
+matter
+switch
+renew
+female
+trim
+limb
+decrease |  
+| bip_39_word_new_line9 | excite
+matter
+switch
+renew
+female
+trim
+limb
+decrease
+office |  
+| bip_39_word_space_0 | ['excite', 'matter', 'switch', 'renew', 'female', 'trim', 'limb', 'decrease', 'office', 'juice', 'brisk', 'antique'] |  
+| bip_39_word_space_1 | excite |  
+| bip_39_word_space_10 | excite matter switch renew female trim limb decrease office juice |  
+| bip_39_word_space_11 | excite matter switch renew female trim limb decrease office juice brisk |  
+| bip_39_word_space_12 | excite matter switch renew female trim limb decrease office juice brisk antique |  
+| bip_39_word_space_2 | excite matter |  
+| bip_39_word_space_3 | excite matter switch |  
+| bip_39_word_space_4 | excite matter switch renew |  
+| bip_39_word_space_5 | excite matter switch renew female |  
+| bip_39_word_space_6 | excite matter switch renew female trim |  
+| bip_39_word_space_7 | excite matter switch renew female trim limb |  
+| bip_39_word_space_8 | excite matter switch renew female trim limb decrease |  
+| bip_39_word_space_9 | excite matter switch renew female trim limb decrease office |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

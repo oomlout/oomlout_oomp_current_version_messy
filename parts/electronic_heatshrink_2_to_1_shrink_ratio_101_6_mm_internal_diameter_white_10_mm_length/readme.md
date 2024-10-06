@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rough venture
+  * bip 39 word 3: rough venture bundle
+  * bip 39 word: rough venture bundle accident bunker ceiling ignore farm faint flame correct advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rough |  
+| bip_39_word_new_br10 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling<br>ignore<br>farm<br>faint<br>flame |  
+| bip_39_word_new_br11 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling<br>ignore<br>farm<br>faint<br>flame<br>correct |  
+| bip_39_word_new_br12 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling<br>ignore<br>farm<br>faint<br>flame<br>correct<br>advice |  
+| bip_39_word_new_br2 | rough<br>venture |  
+| bip_39_word_new_br3 | rough<br>venture<br>bundle |  
+| bip_39_word_new_br4 | rough<br>venture<br>bundle<br>accident |  
+| bip_39_word_new_br5 | rough<br>venture<br>bundle<br>accident<br>bunker |  
+| bip_39_word_new_br6 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling |  
+| bip_39_word_new_br7 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling<br>ignore |  
+| bip_39_word_new_br8 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling<br>ignore<br>farm |  
+| bip_39_word_new_br9 | rough<br>venture<br>bundle<br>accident<br>bunker<br>ceiling<br>ignore<br>farm<br>faint |  
+| bip_39_word_new_line1 | rough |  
+| bip_39_word_new_line10 | rough
+venture
+bundle
+accident
+bunker
+ceiling
+ignore
+farm
+faint
+flame |  
+| bip_39_word_new_line11 | rough
+venture
+bundle
+accident
+bunker
+ceiling
+ignore
+farm
+faint
+flame
+correct |  
+| bip_39_word_new_line12 | rough
+venture
+bundle
+accident
+bunker
+ceiling
+ignore
+farm
+faint
+flame
+correct
+advice |  
+| bip_39_word_new_line2 | rough
+venture |  
+| bip_39_word_new_line3 | rough
+venture
+bundle |  
+| bip_39_word_new_line4 | rough
+venture
+bundle
+accident |  
+| bip_39_word_new_line5 | rough
+venture
+bundle
+accident
+bunker |  
+| bip_39_word_new_line6 | rough
+venture
+bundle
+accident
+bunker
+ceiling |  
+| bip_39_word_new_line7 | rough
+venture
+bundle
+accident
+bunker
+ceiling
+ignore |  
+| bip_39_word_new_line8 | rough
+venture
+bundle
+accident
+bunker
+ceiling
+ignore
+farm |  
+| bip_39_word_new_line9 | rough
+venture
+bundle
+accident
+bunker
+ceiling
+ignore
+farm
+faint |  
+| bip_39_word_space_0 | ['rough', 'venture', 'bundle', 'accident', 'bunker', 'ceiling', 'ignore', 'farm', 'faint', 'flame', 'correct', 'advice'] |  
+| bip_39_word_space_1 | rough |  
+| bip_39_word_space_10 | rough venture bundle accident bunker ceiling ignore farm faint flame |  
+| bip_39_word_space_11 | rough venture bundle accident bunker ceiling ignore farm faint flame correct |  
+| bip_39_word_space_12 | rough venture bundle accident bunker ceiling ignore farm faint flame correct advice |  
+| bip_39_word_space_2 | rough venture |  
+| bip_39_word_space_3 | rough venture bundle |  
+| bip_39_word_space_4 | rough venture bundle accident |  
+| bip_39_word_space_5 | rough venture bundle accident bunker |  
+| bip_39_word_space_6 | rough venture bundle accident bunker ceiling |  
+| bip_39_word_space_7 | rough venture bundle accident bunker ceiling ignore |  
+| bip_39_word_space_8 | rough venture bundle accident bunker ceiling ignore farm |  
+| bip_39_word_space_9 | rough venture bundle accident bunker ceiling ignore farm faint |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

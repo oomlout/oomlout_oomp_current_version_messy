@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: useless rail
+  * bip 39 word 3: useless rail hybrid
+  * bip 39 word: useless rail hybrid faculty survey dream valley uniform wealth lift roof again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | useless |  
+| bip_39_word_new_br10 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream<br>valley<br>uniform<br>wealth<br>lift |  
+| bip_39_word_new_br11 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream<br>valley<br>uniform<br>wealth<br>lift<br>roof |  
+| bip_39_word_new_br12 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream<br>valley<br>uniform<br>wealth<br>lift<br>roof<br>again |  
+| bip_39_word_new_br2 | useless<br>rail |  
+| bip_39_word_new_br3 | useless<br>rail<br>hybrid |  
+| bip_39_word_new_br4 | useless<br>rail<br>hybrid<br>faculty |  
+| bip_39_word_new_br5 | useless<br>rail<br>hybrid<br>faculty<br>survey |  
+| bip_39_word_new_br6 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream |  
+| bip_39_word_new_br7 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream<br>valley |  
+| bip_39_word_new_br8 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream<br>valley<br>uniform |  
+| bip_39_word_new_br9 | useless<br>rail<br>hybrid<br>faculty<br>survey<br>dream<br>valley<br>uniform<br>wealth |  
+| bip_39_word_new_line1 | useless |  
+| bip_39_word_new_line10 | useless
+rail
+hybrid
+faculty
+survey
+dream
+valley
+uniform
+wealth
+lift |  
+| bip_39_word_new_line11 | useless
+rail
+hybrid
+faculty
+survey
+dream
+valley
+uniform
+wealth
+lift
+roof |  
+| bip_39_word_new_line12 | useless
+rail
+hybrid
+faculty
+survey
+dream
+valley
+uniform
+wealth
+lift
+roof
+again |  
+| bip_39_word_new_line2 | useless
+rail |  
+| bip_39_word_new_line3 | useless
+rail
+hybrid |  
+| bip_39_word_new_line4 | useless
+rail
+hybrid
+faculty |  
+| bip_39_word_new_line5 | useless
+rail
+hybrid
+faculty
+survey |  
+| bip_39_word_new_line6 | useless
+rail
+hybrid
+faculty
+survey
+dream |  
+| bip_39_word_new_line7 | useless
+rail
+hybrid
+faculty
+survey
+dream
+valley |  
+| bip_39_word_new_line8 | useless
+rail
+hybrid
+faculty
+survey
+dream
+valley
+uniform |  
+| bip_39_word_new_line9 | useless
+rail
+hybrid
+faculty
+survey
+dream
+valley
+uniform
+wealth |  
+| bip_39_word_space_0 | ['useless', 'rail', 'hybrid', 'faculty', 'survey', 'dream', 'valley', 'uniform', 'wealth', 'lift', 'roof', 'again'] |  
+| bip_39_word_space_1 | useless |  
+| bip_39_word_space_10 | useless rail hybrid faculty survey dream valley uniform wealth lift |  
+| bip_39_word_space_11 | useless rail hybrid faculty survey dream valley uniform wealth lift roof |  
+| bip_39_word_space_12 | useless rail hybrid faculty survey dream valley uniform wealth lift roof again |  
+| bip_39_word_space_2 | useless rail |  
+| bip_39_word_space_3 | useless rail hybrid |  
+| bip_39_word_space_4 | useless rail hybrid faculty |  
+| bip_39_word_space_5 | useless rail hybrid faculty survey |  
+| bip_39_word_space_6 | useless rail hybrid faculty survey dream |  
+| bip_39_word_space_7 | useless rail hybrid faculty survey dream valley |  
+| bip_39_word_space_8 | useless rail hybrid faculty survey dream valley uniform |  
+| bip_39_word_space_9 | useless rail hybrid faculty survey dream valley uniform wealth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

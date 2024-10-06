@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: erosion toe
+  * bip 39 word 3: erosion toe match
+  * bip 39 word: erosion toe match flip basic visit figure destroy list crawl sight argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | erosion |  
+| bip_39_word_new_br10 | erosion<br>toe<br>match<br>flip<br>basic<br>visit<br>figure<br>destroy<br>list<br>crawl |  
+| bip_39_word_new_br11 | erosion<br>toe<br>match<br>flip<br>basic<br>visit<br>figure<br>destroy<br>list<br>crawl<br>sight |  
+| bip_39_word_new_br12 | erosion<br>toe<br>match<br>flip<br>basic<br>visit<br>figure<br>destroy<br>list<br>crawl<br>sight<br>argue |  
+| bip_39_word_new_br2 | erosion<br>toe |  
+| bip_39_word_new_br3 | erosion<br>toe<br>match |  
+| bip_39_word_new_br4 | erosion<br>toe<br>match<br>flip |  
+| bip_39_word_new_br5 | erosion<br>toe<br>match<br>flip<br>basic |  
+| bip_39_word_new_br6 | erosion<br>toe<br>match<br>flip<br>basic<br>visit |  
+| bip_39_word_new_br7 | erosion<br>toe<br>match<br>flip<br>basic<br>visit<br>figure |  
+| bip_39_word_new_br8 | erosion<br>toe<br>match<br>flip<br>basic<br>visit<br>figure<br>destroy |  
+| bip_39_word_new_br9 | erosion<br>toe<br>match<br>flip<br>basic<br>visit<br>figure<br>destroy<br>list |  
+| bip_39_word_new_line1 | erosion |  
+| bip_39_word_new_line10 | erosion
+toe
+match
+flip
+basic
+visit
+figure
+destroy
+list
+crawl |  
+| bip_39_word_new_line11 | erosion
+toe
+match
+flip
+basic
+visit
+figure
+destroy
+list
+crawl
+sight |  
+| bip_39_word_new_line12 | erosion
+toe
+match
+flip
+basic
+visit
+figure
+destroy
+list
+crawl
+sight
+argue |  
+| bip_39_word_new_line2 | erosion
+toe |  
+| bip_39_word_new_line3 | erosion
+toe
+match |  
+| bip_39_word_new_line4 | erosion
+toe
+match
+flip |  
+| bip_39_word_new_line5 | erosion
+toe
+match
+flip
+basic |  
+| bip_39_word_new_line6 | erosion
+toe
+match
+flip
+basic
+visit |  
+| bip_39_word_new_line7 | erosion
+toe
+match
+flip
+basic
+visit
+figure |  
+| bip_39_word_new_line8 | erosion
+toe
+match
+flip
+basic
+visit
+figure
+destroy |  
+| bip_39_word_new_line9 | erosion
+toe
+match
+flip
+basic
+visit
+figure
+destroy
+list |  
+| bip_39_word_space_0 | ['erosion', 'toe', 'match', 'flip', 'basic', 'visit', 'figure', 'destroy', 'list', 'crawl', 'sight', 'argue'] |  
+| bip_39_word_space_1 | erosion |  
+| bip_39_word_space_10 | erosion toe match flip basic visit figure destroy list crawl |  
+| bip_39_word_space_11 | erosion toe match flip basic visit figure destroy list crawl sight |  
+| bip_39_word_space_12 | erosion toe match flip basic visit figure destroy list crawl sight argue |  
+| bip_39_word_space_2 | erosion toe |  
+| bip_39_word_space_3 | erosion toe match |  
+| bip_39_word_space_4 | erosion toe match flip |  
+| bip_39_word_space_5 | erosion toe match flip basic |  
+| bip_39_word_space_6 | erosion toe match flip basic visit |  
+| bip_39_word_space_7 | erosion toe match flip basic visit figure |  
+| bip_39_word_space_8 | erosion toe match flip basic visit figure destroy |  
+| bip_39_word_space_9 | erosion toe match flip basic visit figure destroy list |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: asthma evolve
+  * bip 39 word 3: asthma evolve group
+  * bip 39 word: asthma evolve group only axis alarm artwork oxygen razor shove lunar advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | asthma |  
+| bip_39_word_new_br10 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm<br>artwork<br>oxygen<br>razor<br>shove |  
+| bip_39_word_new_br11 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm<br>artwork<br>oxygen<br>razor<br>shove<br>lunar |  
+| bip_39_word_new_br12 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm<br>artwork<br>oxygen<br>razor<br>shove<br>lunar<br>advice |  
+| bip_39_word_new_br2 | asthma<br>evolve |  
+| bip_39_word_new_br3 | asthma<br>evolve<br>group |  
+| bip_39_word_new_br4 | asthma<br>evolve<br>group<br>only |  
+| bip_39_word_new_br5 | asthma<br>evolve<br>group<br>only<br>axis |  
+| bip_39_word_new_br6 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm |  
+| bip_39_word_new_br7 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm<br>artwork |  
+| bip_39_word_new_br8 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm<br>artwork<br>oxygen |  
+| bip_39_word_new_br9 | asthma<br>evolve<br>group<br>only<br>axis<br>alarm<br>artwork<br>oxygen<br>razor |  
+| bip_39_word_new_line1 | asthma |  
+| bip_39_word_new_line10 | asthma
+evolve
+group
+only
+axis
+alarm
+artwork
+oxygen
+razor
+shove |  
+| bip_39_word_new_line11 | asthma
+evolve
+group
+only
+axis
+alarm
+artwork
+oxygen
+razor
+shove
+lunar |  
+| bip_39_word_new_line12 | asthma
+evolve
+group
+only
+axis
+alarm
+artwork
+oxygen
+razor
+shove
+lunar
+advice |  
+| bip_39_word_new_line2 | asthma
+evolve |  
+| bip_39_word_new_line3 | asthma
+evolve
+group |  
+| bip_39_word_new_line4 | asthma
+evolve
+group
+only |  
+| bip_39_word_new_line5 | asthma
+evolve
+group
+only
+axis |  
+| bip_39_word_new_line6 | asthma
+evolve
+group
+only
+axis
+alarm |  
+| bip_39_word_new_line7 | asthma
+evolve
+group
+only
+axis
+alarm
+artwork |  
+| bip_39_word_new_line8 | asthma
+evolve
+group
+only
+axis
+alarm
+artwork
+oxygen |  
+| bip_39_word_new_line9 | asthma
+evolve
+group
+only
+axis
+alarm
+artwork
+oxygen
+razor |  
+| bip_39_word_space_0 | ['asthma', 'evolve', 'group', 'only', 'axis', 'alarm', 'artwork', 'oxygen', 'razor', 'shove', 'lunar', 'advice'] |  
+| bip_39_word_space_1 | asthma |  
+| bip_39_word_space_10 | asthma evolve group only axis alarm artwork oxygen razor shove |  
+| bip_39_word_space_11 | asthma evolve group only axis alarm artwork oxygen razor shove lunar |  
+| bip_39_word_space_12 | asthma evolve group only axis alarm artwork oxygen razor shove lunar advice |  
+| bip_39_word_space_2 | asthma evolve |  
+| bip_39_word_space_3 | asthma evolve group |  
+| bip_39_word_space_4 | asthma evolve group only |  
+| bip_39_word_space_5 | asthma evolve group only axis |  
+| bip_39_word_space_6 | asthma evolve group only axis alarm |  
+| bip_39_word_space_7 | asthma evolve group only axis alarm artwork |  
+| bip_39_word_space_8 | asthma evolve group only axis alarm artwork oxygen |  
+| bip_39_word_space_9 | asthma evolve group only axis alarm artwork oxygen razor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

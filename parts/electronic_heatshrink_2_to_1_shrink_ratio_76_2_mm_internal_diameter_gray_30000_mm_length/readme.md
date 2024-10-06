@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pull sound
+  * bip 39 word 3: pull sound that
+  * bip 39 word: pull sound that rocket orbit exclude initial try coconut crime era ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pull |  
+| bip_39_word_new_br10 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude<br>initial<br>try<br>coconut<br>crime |  
+| bip_39_word_new_br11 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude<br>initial<br>try<br>coconut<br>crime<br>era |  
+| bip_39_word_new_br12 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude<br>initial<br>try<br>coconut<br>crime<br>era<br>ankle |  
+| bip_39_word_new_br2 | pull<br>sound |  
+| bip_39_word_new_br3 | pull<br>sound<br>that |  
+| bip_39_word_new_br4 | pull<br>sound<br>that<br>rocket |  
+| bip_39_word_new_br5 | pull<br>sound<br>that<br>rocket<br>orbit |  
+| bip_39_word_new_br6 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude |  
+| bip_39_word_new_br7 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude<br>initial |  
+| bip_39_word_new_br8 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude<br>initial<br>try |  
+| bip_39_word_new_br9 | pull<br>sound<br>that<br>rocket<br>orbit<br>exclude<br>initial<br>try<br>coconut |  
+| bip_39_word_new_line1 | pull |  
+| bip_39_word_new_line10 | pull
+sound
+that
+rocket
+orbit
+exclude
+initial
+try
+coconut
+crime |  
+| bip_39_word_new_line11 | pull
+sound
+that
+rocket
+orbit
+exclude
+initial
+try
+coconut
+crime
+era |  
+| bip_39_word_new_line12 | pull
+sound
+that
+rocket
+orbit
+exclude
+initial
+try
+coconut
+crime
+era
+ankle |  
+| bip_39_word_new_line2 | pull
+sound |  
+| bip_39_word_new_line3 | pull
+sound
+that |  
+| bip_39_word_new_line4 | pull
+sound
+that
+rocket |  
+| bip_39_word_new_line5 | pull
+sound
+that
+rocket
+orbit |  
+| bip_39_word_new_line6 | pull
+sound
+that
+rocket
+orbit
+exclude |  
+| bip_39_word_new_line7 | pull
+sound
+that
+rocket
+orbit
+exclude
+initial |  
+| bip_39_word_new_line8 | pull
+sound
+that
+rocket
+orbit
+exclude
+initial
+try |  
+| bip_39_word_new_line9 | pull
+sound
+that
+rocket
+orbit
+exclude
+initial
+try
+coconut |  
+| bip_39_word_space_0 | ['pull', 'sound', 'that', 'rocket', 'orbit', 'exclude', 'initial', 'try', 'coconut', 'crime', 'era', 'ankle'] |  
+| bip_39_word_space_1 | pull |  
+| bip_39_word_space_10 | pull sound that rocket orbit exclude initial try coconut crime |  
+| bip_39_word_space_11 | pull sound that rocket orbit exclude initial try coconut crime era |  
+| bip_39_word_space_12 | pull sound that rocket orbit exclude initial try coconut crime era ankle |  
+| bip_39_word_space_2 | pull sound |  
+| bip_39_word_space_3 | pull sound that |  
+| bip_39_word_space_4 | pull sound that rocket |  
+| bip_39_word_space_5 | pull sound that rocket orbit |  
+| bip_39_word_space_6 | pull sound that rocket orbit exclude |  
+| bip_39_word_space_7 | pull sound that rocket orbit exclude initial |  
+| bip_39_word_space_8 | pull sound that rocket orbit exclude initial try |  
+| bip_39_word_space_9 | pull sound that rocket orbit exclude initial try coconut |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

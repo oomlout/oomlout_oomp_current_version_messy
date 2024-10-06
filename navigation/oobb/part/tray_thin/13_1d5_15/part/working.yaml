@@ -1,3 +1,185 @@
+bip_39_word_new_br1: north
+bip_39_word_new_br10: north<br>scrub<br>ramp<br>polar<br>issue<br>neither<br>riot<br>lion<br>jar<br>drive
+bip_39_word_new_br11: north<br>scrub<br>ramp<br>polar<br>issue<br>neither<br>riot<br>lion<br>jar<br>drive<br>exhaust
+bip_39_word_new_br12: north<br>scrub<br>ramp<br>polar<br>issue<br>neither<br>riot<br>lion<br>jar<br>drive<br>exhaust<br>almost
+bip_39_word_new_br2: north<br>scrub
+bip_39_word_new_br3: north<br>scrub<br>ramp
+bip_39_word_new_br4: north<br>scrub<br>ramp<br>polar
+bip_39_word_new_br5: north<br>scrub<br>ramp<br>polar<br>issue
+bip_39_word_new_br6: north<br>scrub<br>ramp<br>polar<br>issue<br>neither
+bip_39_word_new_br7: north<br>scrub<br>ramp<br>polar<br>issue<br>neither<br>riot
+bip_39_word_new_br8: north<br>scrub<br>ramp<br>polar<br>issue<br>neither<br>riot<br>lion
+bip_39_word_new_br9: north<br>scrub<br>ramp<br>polar<br>issue<br>neither<br>riot<br>lion<br>jar
+bip_39_word_new_line1: north
+bip_39_word_new_line10: 'north
+
+  scrub
+
+  ramp
+
+  polar
+
+  issue
+
+  neither
+
+  riot
+
+  lion
+
+  jar
+
+  drive'
+bip_39_word_new_line11: 'north
+
+  scrub
+
+  ramp
+
+  polar
+
+  issue
+
+  neither
+
+  riot
+
+  lion
+
+  jar
+
+  drive
+
+  exhaust'
+bip_39_word_new_line12: 'north
+
+  scrub
+
+  ramp
+
+  polar
+
+  issue
+
+  neither
+
+  riot
+
+  lion
+
+  jar
+
+  drive
+
+  exhaust
+
+  almost'
+bip_39_word_new_line2: 'north
+
+  scrub'
+bip_39_word_new_line3: 'north
+
+  scrub
+
+  ramp'
+bip_39_word_new_line4: 'north
+
+  scrub
+
+  ramp
+
+  polar'
+bip_39_word_new_line5: 'north
+
+  scrub
+
+  ramp
+
+  polar
+
+  issue'
+bip_39_word_new_line6: 'north
+
+  scrub
+
+  ramp
+
+  polar
+
+  issue
+
+  neither'
+bip_39_word_new_line7: 'north
+
+  scrub
+
+  ramp
+
+  polar
+
+  issue
+
+  neither
+
+  riot'
+bip_39_word_new_line8: 'north
+
+  scrub
+
+  ramp
+
+  polar
+
+  issue
+
+  neither
+
+  riot
+
+  lion'
+bip_39_word_new_line9: 'north
+
+  scrub
+
+  ramp
+
+  polar
+
+  issue
+
+  neither
+
+  riot
+
+  lion
+
+  jar'
+bip_39_word_space_0:
+- north
+- scrub
+- ramp
+- polar
+- issue
+- neither
+- riot
+- lion
+- jar
+- drive
+- exhaust
+- almost
+bip_39_word_space_1: north
+bip_39_word_space_10: north scrub ramp polar issue neither riot lion jar drive
+bip_39_word_space_11: north scrub ramp polar issue neither riot lion jar drive exhaust
+bip_39_word_space_12: north scrub ramp polar issue neither riot lion jar drive exhaust
+  almost
+bip_39_word_space_2: north scrub
+bip_39_word_space_3: north scrub ramp
+bip_39_word_space_4: north scrub ramp polar
+bip_39_word_space_5: north scrub ramp polar issue
+bip_39_word_space_6: north scrub ramp polar issue neither
+bip_39_word_space_7: north scrub ramp polar issue neither riot
+bip_39_word_space_8: north scrub ramp polar issue neither riot lion
+bip_39_word_space_9: north scrub ramp polar issue neither riot lion jar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

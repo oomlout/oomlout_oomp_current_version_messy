@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: sensortek
   * part_number: stk8321
+  * bip 39 word 2: jump fashion
+  * bip 39 word 3: jump fashion weekend
+  * bip 39 word: jump fashion weekend trip maid pair pull onion plug borrow spoon ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jump |  
+| bip_39_word_new_br10 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug<br>borrow |  
+| bip_39_word_new_br11 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug<br>borrow<br>spoon |  
+| bip_39_word_new_br12 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug<br>borrow<br>spoon<br>ahead |  
+| bip_39_word_new_br2 | jump<br>fashion |  
+| bip_39_word_new_br3 | jump<br>fashion<br>weekend |  
+| bip_39_word_new_br4 | jump<br>fashion<br>weekend<br>trip |  
+| bip_39_word_new_br5 | jump<br>fashion<br>weekend<br>trip<br>maid |  
+| bip_39_word_new_br6 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair |  
+| bip_39_word_new_br7 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull |  
+| bip_39_word_new_br8 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion |  
+| bip_39_word_new_br9 | jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug |  
+| bip_39_word_new_line1 | jump |  
+| bip_39_word_new_line10 | jump
+fashion
+weekend
+trip
+maid
+pair
+pull
+onion
+plug
+borrow |  
+| bip_39_word_new_line11 | jump
+fashion
+weekend
+trip
+maid
+pair
+pull
+onion
+plug
+borrow
+spoon |  
+| bip_39_word_new_line12 | jump
+fashion
+weekend
+trip
+maid
+pair
+pull
+onion
+plug
+borrow
+spoon
+ahead |  
+| bip_39_word_new_line2 | jump
+fashion |  
+| bip_39_word_new_line3 | jump
+fashion
+weekend |  
+| bip_39_word_new_line4 | jump
+fashion
+weekend
+trip |  
+| bip_39_word_new_line5 | jump
+fashion
+weekend
+trip
+maid |  
+| bip_39_word_new_line6 | jump
+fashion
+weekend
+trip
+maid
+pair |  
+| bip_39_word_new_line7 | jump
+fashion
+weekend
+trip
+maid
+pair
+pull |  
+| bip_39_word_new_line8 | jump
+fashion
+weekend
+trip
+maid
+pair
+pull
+onion |  
+| bip_39_word_new_line9 | jump
+fashion
+weekend
+trip
+maid
+pair
+pull
+onion
+plug |  
+| bip_39_word_space_0 | ['jump', 'fashion', 'weekend', 'trip', 'maid', 'pair', 'pull', 'onion', 'plug', 'borrow', 'spoon', 'ahead'] |  
+| bip_39_word_space_1 | jump |  
+| bip_39_word_space_10 | jump fashion weekend trip maid pair pull onion plug borrow |  
+| bip_39_word_space_11 | jump fashion weekend trip maid pair pull onion plug borrow spoon |  
+| bip_39_word_space_12 | jump fashion weekend trip maid pair pull onion plug borrow spoon ahead |  
+| bip_39_word_space_2 | jump fashion |  
+| bip_39_word_space_3 | jump fashion weekend |  
+| bip_39_word_space_4 | jump fashion weekend trip |  
+| bip_39_word_space_5 | jump fashion weekend trip maid |  
+| bip_39_word_space_6 | jump fashion weekend trip maid pair |  
+| bip_39_word_space_7 | jump fashion weekend trip maid pair pull |  
+| bip_39_word_space_8 | jump fashion weekend trip maid pair pull onion |  
+| bip_39_word_space_9 | jump fashion weekend trip maid pair pull onion plug |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

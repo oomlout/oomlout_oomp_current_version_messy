@@ -1,3 +1,186 @@
+bip_39_word_new_br1: truth
+bip_39_word_new_br10: truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim
+bip_39_word_new_br11: truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim<br>peace
+bip_39_word_new_br12: truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow<br>claim<br>peace<br>admit
+bip_39_word_new_br2: truth<br>hotel
+bip_39_word_new_br3: truth<br>hotel<br>frog
+bip_39_word_new_br4: truth<br>hotel<br>frog<br>box
+bip_39_word_new_br5: truth<br>hotel<br>frog<br>box<br>soon
+bip_39_word_new_br6: truth<br>hotel<br>frog<br>box<br>soon<br>umbrella
+bip_39_word_new_br7: truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift
+bip_39_word_new_br8: truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder
+bip_39_word_new_br9: truth<br>hotel<br>frog<br>box<br>soon<br>umbrella<br>swift<br>wonder<br>shadow
+bip_39_word_new_line1: truth
+bip_39_word_new_line10: 'truth
+
+  hotel
+
+  frog
+
+  box
+
+  soon
+
+  umbrella
+
+  swift
+
+  wonder
+
+  shadow
+
+  claim'
+bip_39_word_new_line11: 'truth
+
+  hotel
+
+  frog
+
+  box
+
+  soon
+
+  umbrella
+
+  swift
+
+  wonder
+
+  shadow
+
+  claim
+
+  peace'
+bip_39_word_new_line12: 'truth
+
+  hotel
+
+  frog
+
+  box
+
+  soon
+
+  umbrella
+
+  swift
+
+  wonder
+
+  shadow
+
+  claim
+
+  peace
+
+  admit'
+bip_39_word_new_line2: 'truth
+
+  hotel'
+bip_39_word_new_line3: 'truth
+
+  hotel
+
+  frog'
+bip_39_word_new_line4: 'truth
+
+  hotel
+
+  frog
+
+  box'
+bip_39_word_new_line5: 'truth
+
+  hotel
+
+  frog
+
+  box
+
+  soon'
+bip_39_word_new_line6: 'truth
+
+  hotel
+
+  frog
+
+  box
+
+  soon
+
+  umbrella'
+bip_39_word_new_line7: 'truth
+
+  hotel
+
+  frog
+
+  box
+
+  soon
+
+  umbrella
+
+  swift'
+bip_39_word_new_line8: 'truth
+
+  hotel
+
+  frog
+
+  box
+
+  soon
+
+  umbrella
+
+  swift
+
+  wonder'
+bip_39_word_new_line9: 'truth
+
+  hotel
+
+  frog
+
+  box
+
+  soon
+
+  umbrella
+
+  swift
+
+  wonder
+
+  shadow'
+bip_39_word_space_0:
+- truth
+- hotel
+- frog
+- box
+- soon
+- umbrella
+- swift
+- wonder
+- shadow
+- claim
+- peace
+- admit
+bip_39_word_space_1: truth
+bip_39_word_space_10: truth hotel frog box soon umbrella swift wonder shadow claim
+bip_39_word_space_11: truth hotel frog box soon umbrella swift wonder shadow claim
+  peace
+bip_39_word_space_12: truth hotel frog box soon umbrella swift wonder shadow claim
+  peace admit
+bip_39_word_space_2: truth hotel
+bip_39_word_space_3: truth hotel frog
+bip_39_word_space_4: truth hotel frog box
+bip_39_word_space_5: truth hotel frog box soon
+bip_39_word_space_6: truth hotel frog box soon umbrella
+bip_39_word_space_7: truth hotel frog box soon umbrella swift
+bip_39_word_space_8: truth hotel frog box soon umbrella swift wonder
+bip_39_word_space_9: truth hotel frog box soon umbrella swift wonder shadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

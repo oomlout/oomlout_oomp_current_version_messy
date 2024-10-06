@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: describe marble
+  * bip 39 word 3: describe marble enter
+  * bip 39 word: describe marble enter occur promote grunt unique bread element fantasy enlist arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | describe |  
+| bip_39_word_new_br10 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt<br>unique<br>bread<br>element<br>fantasy |  
+| bip_39_word_new_br11 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt<br>unique<br>bread<br>element<br>fantasy<br>enlist |  
+| bip_39_word_new_br12 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt<br>unique<br>bread<br>element<br>fantasy<br>enlist<br>arrow |  
+| bip_39_word_new_br2 | describe<br>marble |  
+| bip_39_word_new_br3 | describe<br>marble<br>enter |  
+| bip_39_word_new_br4 | describe<br>marble<br>enter<br>occur |  
+| bip_39_word_new_br5 | describe<br>marble<br>enter<br>occur<br>promote |  
+| bip_39_word_new_br6 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt |  
+| bip_39_word_new_br7 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt<br>unique |  
+| bip_39_word_new_br8 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt<br>unique<br>bread |  
+| bip_39_word_new_br9 | describe<br>marble<br>enter<br>occur<br>promote<br>grunt<br>unique<br>bread<br>element |  
+| bip_39_word_new_line1 | describe |  
+| bip_39_word_new_line10 | describe
+marble
+enter
+occur
+promote
+grunt
+unique
+bread
+element
+fantasy |  
+| bip_39_word_new_line11 | describe
+marble
+enter
+occur
+promote
+grunt
+unique
+bread
+element
+fantasy
+enlist |  
+| bip_39_word_new_line12 | describe
+marble
+enter
+occur
+promote
+grunt
+unique
+bread
+element
+fantasy
+enlist
+arrow |  
+| bip_39_word_new_line2 | describe
+marble |  
+| bip_39_word_new_line3 | describe
+marble
+enter |  
+| bip_39_word_new_line4 | describe
+marble
+enter
+occur |  
+| bip_39_word_new_line5 | describe
+marble
+enter
+occur
+promote |  
+| bip_39_word_new_line6 | describe
+marble
+enter
+occur
+promote
+grunt |  
+| bip_39_word_new_line7 | describe
+marble
+enter
+occur
+promote
+grunt
+unique |  
+| bip_39_word_new_line8 | describe
+marble
+enter
+occur
+promote
+grunt
+unique
+bread |  
+| bip_39_word_new_line9 | describe
+marble
+enter
+occur
+promote
+grunt
+unique
+bread
+element |  
+| bip_39_word_space_0 | ['describe', 'marble', 'enter', 'occur', 'promote', 'grunt', 'unique', 'bread', 'element', 'fantasy', 'enlist', 'arrow'] |  
+| bip_39_word_space_1 | describe |  
+| bip_39_word_space_10 | describe marble enter occur promote grunt unique bread element fantasy |  
+| bip_39_word_space_11 | describe marble enter occur promote grunt unique bread element fantasy enlist |  
+| bip_39_word_space_12 | describe marble enter occur promote grunt unique bread element fantasy enlist arrow |  
+| bip_39_word_space_2 | describe marble |  
+| bip_39_word_space_3 | describe marble enter |  
+| bip_39_word_space_4 | describe marble enter occur |  
+| bip_39_word_space_5 | describe marble enter occur promote |  
+| bip_39_word_space_6 | describe marble enter occur promote grunt |  
+| bip_39_word_space_7 | describe marble enter occur promote grunt unique |  
+| bip_39_word_space_8 | describe marble enter occur promote grunt unique bread |  
+| bip_39_word_space_9 | describe marble enter occur promote grunt unique bread element |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

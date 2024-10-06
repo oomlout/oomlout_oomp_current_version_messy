@@ -1,3 +1,185 @@
+bip_39_word_new_br1: host
+bip_39_word_new_br10: host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file
+bip_39_word_new_br11: host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file<br>over
+bip_39_word_new_br12: host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra<br>file<br>over<br>across
+bip_39_word_new_br2: host<br>spell
+bip_39_word_new_br3: host<br>spell<br>hero
+bip_39_word_new_br4: host<br>spell<br>hero<br>salt
+bip_39_word_new_br5: host<br>spell<br>hero<br>salt<br>gadget
+bip_39_word_new_br6: host<br>spell<br>hero<br>salt<br>gadget<br>battle
+bip_39_word_new_br7: host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able
+bip_39_word_new_br8: host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice
+bip_39_word_new_br9: host<br>spell<br>hero<br>salt<br>gadget<br>battle<br>able<br>nice<br>zebra
+bip_39_word_new_line1: host
+bip_39_word_new_line10: 'host
+
+  spell
+
+  hero
+
+  salt
+
+  gadget
+
+  battle
+
+  able
+
+  nice
+
+  zebra
+
+  file'
+bip_39_word_new_line11: 'host
+
+  spell
+
+  hero
+
+  salt
+
+  gadget
+
+  battle
+
+  able
+
+  nice
+
+  zebra
+
+  file
+
+  over'
+bip_39_word_new_line12: 'host
+
+  spell
+
+  hero
+
+  salt
+
+  gadget
+
+  battle
+
+  able
+
+  nice
+
+  zebra
+
+  file
+
+  over
+
+  across'
+bip_39_word_new_line2: 'host
+
+  spell'
+bip_39_word_new_line3: 'host
+
+  spell
+
+  hero'
+bip_39_word_new_line4: 'host
+
+  spell
+
+  hero
+
+  salt'
+bip_39_word_new_line5: 'host
+
+  spell
+
+  hero
+
+  salt
+
+  gadget'
+bip_39_word_new_line6: 'host
+
+  spell
+
+  hero
+
+  salt
+
+  gadget
+
+  battle'
+bip_39_word_new_line7: 'host
+
+  spell
+
+  hero
+
+  salt
+
+  gadget
+
+  battle
+
+  able'
+bip_39_word_new_line8: 'host
+
+  spell
+
+  hero
+
+  salt
+
+  gadget
+
+  battle
+
+  able
+
+  nice'
+bip_39_word_new_line9: 'host
+
+  spell
+
+  hero
+
+  salt
+
+  gadget
+
+  battle
+
+  able
+
+  nice
+
+  zebra'
+bip_39_word_space_0:
+- host
+- spell
+- hero
+- salt
+- gadget
+- battle
+- able
+- nice
+- zebra
+- file
+- over
+- across
+bip_39_word_space_1: host
+bip_39_word_space_10: host spell hero salt gadget battle able nice zebra file
+bip_39_word_space_11: host spell hero salt gadget battle able nice zebra file over
+bip_39_word_space_12: host spell hero salt gadget battle able nice zebra file over
+  across
+bip_39_word_space_2: host spell
+bip_39_word_space_3: host spell hero
+bip_39_word_space_4: host spell hero salt
+bip_39_word_space_5: host spell hero salt gadget
+bip_39_word_space_6: host spell hero salt gadget battle
+bip_39_word_space_7: host spell hero salt gadget battle able
+bip_39_word_space_8: host spell hero salt gadget battle able nice
+bip_39_word_space_9: host spell hero salt gadget battle able nice zebra
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

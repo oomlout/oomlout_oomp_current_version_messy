@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bundle jeans
+  * bip 39 word 3: bundle jeans speed
+  * bip 39 word: bundle jeans speed attitude garment family deputy sleep absorb verb material alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bundle |  
+| bip_39_word_new_br10 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family<br>deputy<br>sleep<br>absorb<br>verb |  
+| bip_39_word_new_br11 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family<br>deputy<br>sleep<br>absorb<br>verb<br>material |  
+| bip_39_word_new_br12 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family<br>deputy<br>sleep<br>absorb<br>verb<br>material<br>alert |  
+| bip_39_word_new_br2 | bundle<br>jeans |  
+| bip_39_word_new_br3 | bundle<br>jeans<br>speed |  
+| bip_39_word_new_br4 | bundle<br>jeans<br>speed<br>attitude |  
+| bip_39_word_new_br5 | bundle<br>jeans<br>speed<br>attitude<br>garment |  
+| bip_39_word_new_br6 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family |  
+| bip_39_word_new_br7 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family<br>deputy |  
+| bip_39_word_new_br8 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family<br>deputy<br>sleep |  
+| bip_39_word_new_br9 | bundle<br>jeans<br>speed<br>attitude<br>garment<br>family<br>deputy<br>sleep<br>absorb |  
+| bip_39_word_new_line1 | bundle |  
+| bip_39_word_new_line10 | bundle
+jeans
+speed
+attitude
+garment
+family
+deputy
+sleep
+absorb
+verb |  
+| bip_39_word_new_line11 | bundle
+jeans
+speed
+attitude
+garment
+family
+deputy
+sleep
+absorb
+verb
+material |  
+| bip_39_word_new_line12 | bundle
+jeans
+speed
+attitude
+garment
+family
+deputy
+sleep
+absorb
+verb
+material
+alert |  
+| bip_39_word_new_line2 | bundle
+jeans |  
+| bip_39_word_new_line3 | bundle
+jeans
+speed |  
+| bip_39_word_new_line4 | bundle
+jeans
+speed
+attitude |  
+| bip_39_word_new_line5 | bundle
+jeans
+speed
+attitude
+garment |  
+| bip_39_word_new_line6 | bundle
+jeans
+speed
+attitude
+garment
+family |  
+| bip_39_word_new_line7 | bundle
+jeans
+speed
+attitude
+garment
+family
+deputy |  
+| bip_39_word_new_line8 | bundle
+jeans
+speed
+attitude
+garment
+family
+deputy
+sleep |  
+| bip_39_word_new_line9 | bundle
+jeans
+speed
+attitude
+garment
+family
+deputy
+sleep
+absorb |  
+| bip_39_word_space_0 | ['bundle', 'jeans', 'speed', 'attitude', 'garment', 'family', 'deputy', 'sleep', 'absorb', 'verb', 'material', 'alert'] |  
+| bip_39_word_space_1 | bundle |  
+| bip_39_word_space_10 | bundle jeans speed attitude garment family deputy sleep absorb verb |  
+| bip_39_word_space_11 | bundle jeans speed attitude garment family deputy sleep absorb verb material |  
+| bip_39_word_space_12 | bundle jeans speed attitude garment family deputy sleep absorb verb material alert |  
+| bip_39_word_space_2 | bundle jeans |  
+| bip_39_word_space_3 | bundle jeans speed |  
+| bip_39_word_space_4 | bundle jeans speed attitude |  
+| bip_39_word_space_5 | bundle jeans speed attitude garment |  
+| bip_39_word_space_6 | bundle jeans speed attitude garment family |  
+| bip_39_word_space_7 | bundle jeans speed attitude garment family deputy |  
+| bip_39_word_space_8 | bundle jeans speed attitude garment family deputy sleep |  
+| bip_39_word_space_9 | bundle jeans speed attitude garment family deputy sleep absorb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

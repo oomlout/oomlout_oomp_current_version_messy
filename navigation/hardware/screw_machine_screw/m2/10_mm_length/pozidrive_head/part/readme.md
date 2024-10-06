@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pupil abstract
+  * bip 39 word 3: pupil abstract seat
+  * bip 39 word: pupil abstract seat check crush observe run void call security upon afraid
 
 ### other_codes
 * short_code: ms2m10pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pupil |  
+| bip_39_word_new_br10 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security |  
+| bip_39_word_new_br11 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security<br>upon |  
+| bip_39_word_new_br12 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call<br>security<br>upon<br>afraid |  
+| bip_39_word_new_br2 | pupil<br>abstract |  
+| bip_39_word_new_br3 | pupil<br>abstract<br>seat |  
+| bip_39_word_new_br4 | pupil<br>abstract<br>seat<br>check |  
+| bip_39_word_new_br5 | pupil<br>abstract<br>seat<br>check<br>crush |  
+| bip_39_word_new_br6 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe |  
+| bip_39_word_new_br7 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run |  
+| bip_39_word_new_br8 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void |  
+| bip_39_word_new_br9 | pupil<br>abstract<br>seat<br>check<br>crush<br>observe<br>run<br>void<br>call |  
+| bip_39_word_new_line1 | pupil |  
+| bip_39_word_new_line10 | pupil
+abstract
+seat
+check
+crush
+observe
+run
+void
+call
+security |  
+| bip_39_word_new_line11 | pupil
+abstract
+seat
+check
+crush
+observe
+run
+void
+call
+security
+upon |  
+| bip_39_word_new_line12 | pupil
+abstract
+seat
+check
+crush
+observe
+run
+void
+call
+security
+upon
+afraid |  
+| bip_39_word_new_line2 | pupil
+abstract |  
+| bip_39_word_new_line3 | pupil
+abstract
+seat |  
+| bip_39_word_new_line4 | pupil
+abstract
+seat
+check |  
+| bip_39_word_new_line5 | pupil
+abstract
+seat
+check
+crush |  
+| bip_39_word_new_line6 | pupil
+abstract
+seat
+check
+crush
+observe |  
+| bip_39_word_new_line7 | pupil
+abstract
+seat
+check
+crush
+observe
+run |  
+| bip_39_word_new_line8 | pupil
+abstract
+seat
+check
+crush
+observe
+run
+void |  
+| bip_39_word_new_line9 | pupil
+abstract
+seat
+check
+crush
+observe
+run
+void
+call |  
+| bip_39_word_space_0 | ['pupil', 'abstract', 'seat', 'check', 'crush', 'observe', 'run', 'void', 'call', 'security', 'upon', 'afraid'] |  
+| bip_39_word_space_1 | pupil |  
+| bip_39_word_space_10 | pupil abstract seat check crush observe run void call security |  
+| bip_39_word_space_11 | pupil abstract seat check crush observe run void call security upon |  
+| bip_39_word_space_12 | pupil abstract seat check crush observe run void call security upon afraid |  
+| bip_39_word_space_2 | pupil abstract |  
+| bip_39_word_space_3 | pupil abstract seat |  
+| bip_39_word_space_4 | pupil abstract seat check |  
+| bip_39_word_space_5 | pupil abstract seat check crush |  
+| bip_39_word_space_6 | pupil abstract seat check crush observe |  
+| bip_39_word_space_7 | pupil abstract seat check crush observe run |  
+| bip_39_word_space_8 | pupil abstract seat check crush observe run void |  
+| bip_39_word_space_9 | pupil abstract seat check crush observe run void call |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

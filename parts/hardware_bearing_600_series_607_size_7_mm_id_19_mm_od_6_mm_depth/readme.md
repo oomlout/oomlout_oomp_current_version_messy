@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tissue inquiry
+  * bip 39 word 3: tissue inquiry cat
+  * bip 39 word: tissue inquiry cat brief seat tribe silent surge sign ritual salad afford
 
 ### other_codes
 * short_code: br607
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tissue |  
+| bip_39_word_new_br10 | tissue<br>inquiry<br>cat<br>brief<br>seat<br>tribe<br>silent<br>surge<br>sign<br>ritual |  
+| bip_39_word_new_br11 | tissue<br>inquiry<br>cat<br>brief<br>seat<br>tribe<br>silent<br>surge<br>sign<br>ritual<br>salad |  
+| bip_39_word_new_br12 | tissue<br>inquiry<br>cat<br>brief<br>seat<br>tribe<br>silent<br>surge<br>sign<br>ritual<br>salad<br>afford |  
+| bip_39_word_new_br2 | tissue<br>inquiry |  
+| bip_39_word_new_br3 | tissue<br>inquiry<br>cat |  
+| bip_39_word_new_br4 | tissue<br>inquiry<br>cat<br>brief |  
+| bip_39_word_new_br5 | tissue<br>inquiry<br>cat<br>brief<br>seat |  
+| bip_39_word_new_br6 | tissue<br>inquiry<br>cat<br>brief<br>seat<br>tribe |  
+| bip_39_word_new_br7 | tissue<br>inquiry<br>cat<br>brief<br>seat<br>tribe<br>silent |  
+| bip_39_word_new_br8 | tissue<br>inquiry<br>cat<br>brief<br>seat<br>tribe<br>silent<br>surge |  
+| bip_39_word_new_br9 | tissue<br>inquiry<br>cat<br>brief<br>seat<br>tribe<br>silent<br>surge<br>sign |  
+| bip_39_word_new_line1 | tissue |  
+| bip_39_word_new_line10 | tissue
+inquiry
+cat
+brief
+seat
+tribe
+silent
+surge
+sign
+ritual |  
+| bip_39_word_new_line11 | tissue
+inquiry
+cat
+brief
+seat
+tribe
+silent
+surge
+sign
+ritual
+salad |  
+| bip_39_word_new_line12 | tissue
+inquiry
+cat
+brief
+seat
+tribe
+silent
+surge
+sign
+ritual
+salad
+afford |  
+| bip_39_word_new_line2 | tissue
+inquiry |  
+| bip_39_word_new_line3 | tissue
+inquiry
+cat |  
+| bip_39_word_new_line4 | tissue
+inquiry
+cat
+brief |  
+| bip_39_word_new_line5 | tissue
+inquiry
+cat
+brief
+seat |  
+| bip_39_word_new_line6 | tissue
+inquiry
+cat
+brief
+seat
+tribe |  
+| bip_39_word_new_line7 | tissue
+inquiry
+cat
+brief
+seat
+tribe
+silent |  
+| bip_39_word_new_line8 | tissue
+inquiry
+cat
+brief
+seat
+tribe
+silent
+surge |  
+| bip_39_word_new_line9 | tissue
+inquiry
+cat
+brief
+seat
+tribe
+silent
+surge
+sign |  
+| bip_39_word_space_0 | ['tissue', 'inquiry', 'cat', 'brief', 'seat', 'tribe', 'silent', 'surge', 'sign', 'ritual', 'salad', 'afford'] |  
+| bip_39_word_space_1 | tissue |  
+| bip_39_word_space_10 | tissue inquiry cat brief seat tribe silent surge sign ritual |  
+| bip_39_word_space_11 | tissue inquiry cat brief seat tribe silent surge sign ritual salad |  
+| bip_39_word_space_12 | tissue inquiry cat brief seat tribe silent surge sign ritual salad afford |  
+| bip_39_word_space_2 | tissue inquiry |  
+| bip_39_word_space_3 | tissue inquiry cat |  
+| bip_39_word_space_4 | tissue inquiry cat brief |  
+| bip_39_word_space_5 | tissue inquiry cat brief seat |  
+| bip_39_word_space_6 | tissue inquiry cat brief seat tribe |  
+| bip_39_word_space_7 | tissue inquiry cat brief seat tribe silent |  
+| bip_39_word_space_8 | tissue inquiry cat brief seat tribe silent surge |  
+| bip_39_word_space_9 | tissue inquiry cat brief seat tribe silent surge sign |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

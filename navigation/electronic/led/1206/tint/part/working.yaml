@@ -1,3 +1,186 @@
+bip_39_word_new_br1: decline
+bip_39_word_new_br10: decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden
+bip_39_word_new_br11: decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden<br>denial
+bip_39_word_new_br12: decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard<br>sudden<br>denial<br>assist
+bip_39_word_new_br2: decline<br>penalty
+bip_39_word_new_br3: decline<br>penalty<br>win
+bip_39_word_new_br4: decline<br>penalty<br>win<br>ask
+bip_39_word_new_br5: decline<br>penalty<br>win<br>ask<br>zebra
+bip_39_word_new_br6: decline<br>penalty<br>win<br>ask<br>zebra<br>feed
+bip_39_word_new_br7: decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome
+bip_39_word_new_br8: decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice
+bip_39_word_new_br9: decline<br>penalty<br>win<br>ask<br>zebra<br>feed<br>awesome<br>choice<br>hard
+bip_39_word_new_line1: decline
+bip_39_word_new_line10: 'decline
+
+  penalty
+
+  win
+
+  ask
+
+  zebra
+
+  feed
+
+  awesome
+
+  choice
+
+  hard
+
+  sudden'
+bip_39_word_new_line11: 'decline
+
+  penalty
+
+  win
+
+  ask
+
+  zebra
+
+  feed
+
+  awesome
+
+  choice
+
+  hard
+
+  sudden
+
+  denial'
+bip_39_word_new_line12: 'decline
+
+  penalty
+
+  win
+
+  ask
+
+  zebra
+
+  feed
+
+  awesome
+
+  choice
+
+  hard
+
+  sudden
+
+  denial
+
+  assist'
+bip_39_word_new_line2: 'decline
+
+  penalty'
+bip_39_word_new_line3: 'decline
+
+  penalty
+
+  win'
+bip_39_word_new_line4: 'decline
+
+  penalty
+
+  win
+
+  ask'
+bip_39_word_new_line5: 'decline
+
+  penalty
+
+  win
+
+  ask
+
+  zebra'
+bip_39_word_new_line6: 'decline
+
+  penalty
+
+  win
+
+  ask
+
+  zebra
+
+  feed'
+bip_39_word_new_line7: 'decline
+
+  penalty
+
+  win
+
+  ask
+
+  zebra
+
+  feed
+
+  awesome'
+bip_39_word_new_line8: 'decline
+
+  penalty
+
+  win
+
+  ask
+
+  zebra
+
+  feed
+
+  awesome
+
+  choice'
+bip_39_word_new_line9: 'decline
+
+  penalty
+
+  win
+
+  ask
+
+  zebra
+
+  feed
+
+  awesome
+
+  choice
+
+  hard'
+bip_39_word_space_0:
+- decline
+- penalty
+- win
+- ask
+- zebra
+- feed
+- awesome
+- choice
+- hard
+- sudden
+- denial
+- assist
+bip_39_word_space_1: decline
+bip_39_word_space_10: decline penalty win ask zebra feed awesome choice hard sudden
+bip_39_word_space_11: decline penalty win ask zebra feed awesome choice hard sudden
+  denial
+bip_39_word_space_12: decline penalty win ask zebra feed awesome choice hard sudden
+  denial assist
+bip_39_word_space_2: decline penalty
+bip_39_word_space_3: decline penalty win
+bip_39_word_space_4: decline penalty win ask
+bip_39_word_space_5: decline penalty win ask zebra
+bip_39_word_space_6: decline penalty win ask zebra feed
+bip_39_word_space_7: decline penalty win ask zebra feed awesome
+bip_39_word_space_8: decline penalty win ask zebra feed awesome choice
+bip_39_word_space_9: decline penalty win ask zebra feed awesome choice hard
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

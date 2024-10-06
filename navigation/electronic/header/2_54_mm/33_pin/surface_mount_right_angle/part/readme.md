@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: leg master
+  * bip 39 word 3: leg master enforce
+  * bip 39 word: leg master enforce stove ceiling paper night target fine fee receive animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | leg |  
+| bip_39_word_new_br10 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine<br>fee |  
+| bip_39_word_new_br11 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine<br>fee<br>receive |  
+| bip_39_word_new_br12 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine<br>fee<br>receive<br>animal |  
+| bip_39_word_new_br2 | leg<br>master |  
+| bip_39_word_new_br3 | leg<br>master<br>enforce |  
+| bip_39_word_new_br4 | leg<br>master<br>enforce<br>stove |  
+| bip_39_word_new_br5 | leg<br>master<br>enforce<br>stove<br>ceiling |  
+| bip_39_word_new_br6 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper |  
+| bip_39_word_new_br7 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night |  
+| bip_39_word_new_br8 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target |  
+| bip_39_word_new_br9 | leg<br>master<br>enforce<br>stove<br>ceiling<br>paper<br>night<br>target<br>fine |  
+| bip_39_word_new_line1 | leg |  
+| bip_39_word_new_line10 | leg
+master
+enforce
+stove
+ceiling
+paper
+night
+target
+fine
+fee |  
+| bip_39_word_new_line11 | leg
+master
+enforce
+stove
+ceiling
+paper
+night
+target
+fine
+fee
+receive |  
+| bip_39_word_new_line12 | leg
+master
+enforce
+stove
+ceiling
+paper
+night
+target
+fine
+fee
+receive
+animal |  
+| bip_39_word_new_line2 | leg
+master |  
+| bip_39_word_new_line3 | leg
+master
+enforce |  
+| bip_39_word_new_line4 | leg
+master
+enforce
+stove |  
+| bip_39_word_new_line5 | leg
+master
+enforce
+stove
+ceiling |  
+| bip_39_word_new_line6 | leg
+master
+enforce
+stove
+ceiling
+paper |  
+| bip_39_word_new_line7 | leg
+master
+enforce
+stove
+ceiling
+paper
+night |  
+| bip_39_word_new_line8 | leg
+master
+enforce
+stove
+ceiling
+paper
+night
+target |  
+| bip_39_word_new_line9 | leg
+master
+enforce
+stove
+ceiling
+paper
+night
+target
+fine |  
+| bip_39_word_space_0 | ['leg', 'master', 'enforce', 'stove', 'ceiling', 'paper', 'night', 'target', 'fine', 'fee', 'receive', 'animal'] |  
+| bip_39_word_space_1 | leg |  
+| bip_39_word_space_10 | leg master enforce stove ceiling paper night target fine fee |  
+| bip_39_word_space_11 | leg master enforce stove ceiling paper night target fine fee receive |  
+| bip_39_word_space_12 | leg master enforce stove ceiling paper night target fine fee receive animal |  
+| bip_39_word_space_2 | leg master |  
+| bip_39_word_space_3 | leg master enforce |  
+| bip_39_word_space_4 | leg master enforce stove |  
+| bip_39_word_space_5 | leg master enforce stove ceiling |  
+| bip_39_word_space_6 | leg master enforce stove ceiling paper |  
+| bip_39_word_space_7 | leg master enforce stove ceiling paper night |  
+| bip_39_word_space_8 | leg master enforce stove ceiling paper night target |  
+| bip_39_word_space_9 | leg master enforce stove ceiling paper night target fine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

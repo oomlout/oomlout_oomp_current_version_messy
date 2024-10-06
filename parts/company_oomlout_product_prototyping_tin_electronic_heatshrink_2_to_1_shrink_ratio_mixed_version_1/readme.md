@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: version_1
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: again mother
+  * bip 39 word 3: again mother rapid
+  * bip 39 word: again mother rapid veteran pact trap mansion enforce crazy bar focus anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | again |  
+| bip_39_word_new_br10 | again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce<br>crazy<br>bar |  
+| bip_39_word_new_br11 | again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce<br>crazy<br>bar<br>focus |  
+| bip_39_word_new_br12 | again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce<br>crazy<br>bar<br>focus<br>anger |  
+| bip_39_word_new_br2 | again<br>mother |  
+| bip_39_word_new_br3 | again<br>mother<br>rapid |  
+| bip_39_word_new_br4 | again<br>mother<br>rapid<br>veteran |  
+| bip_39_word_new_br5 | again<br>mother<br>rapid<br>veteran<br>pact |  
+| bip_39_word_new_br6 | again<br>mother<br>rapid<br>veteran<br>pact<br>trap |  
+| bip_39_word_new_br7 | again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion |  
+| bip_39_word_new_br8 | again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce |  
+| bip_39_word_new_br9 | again<br>mother<br>rapid<br>veteran<br>pact<br>trap<br>mansion<br>enforce<br>crazy |  
+| bip_39_word_new_line1 | again |  
+| bip_39_word_new_line10 | again
+mother
+rapid
+veteran
+pact
+trap
+mansion
+enforce
+crazy
+bar |  
+| bip_39_word_new_line11 | again
+mother
+rapid
+veteran
+pact
+trap
+mansion
+enforce
+crazy
+bar
+focus |  
+| bip_39_word_new_line12 | again
+mother
+rapid
+veteran
+pact
+trap
+mansion
+enforce
+crazy
+bar
+focus
+anger |  
+| bip_39_word_new_line2 | again
+mother |  
+| bip_39_word_new_line3 | again
+mother
+rapid |  
+| bip_39_word_new_line4 | again
+mother
+rapid
+veteran |  
+| bip_39_word_new_line5 | again
+mother
+rapid
+veteran
+pact |  
+| bip_39_word_new_line6 | again
+mother
+rapid
+veteran
+pact
+trap |  
+| bip_39_word_new_line7 | again
+mother
+rapid
+veteran
+pact
+trap
+mansion |  
+| bip_39_word_new_line8 | again
+mother
+rapid
+veteran
+pact
+trap
+mansion
+enforce |  
+| bip_39_word_new_line9 | again
+mother
+rapid
+veteran
+pact
+trap
+mansion
+enforce
+crazy |  
+| bip_39_word_space_0 | ['again', 'mother', 'rapid', 'veteran', 'pact', 'trap', 'mansion', 'enforce', 'crazy', 'bar', 'focus', 'anger'] |  
+| bip_39_word_space_1 | again |  
+| bip_39_word_space_10 | again mother rapid veteran pact trap mansion enforce crazy bar |  
+| bip_39_word_space_11 | again mother rapid veteran pact trap mansion enforce crazy bar focus |  
+| bip_39_word_space_12 | again mother rapid veteran pact trap mansion enforce crazy bar focus anger |  
+| bip_39_word_space_2 | again mother |  
+| bip_39_word_space_3 | again mother rapid |  
+| bip_39_word_space_4 | again mother rapid veteran |  
+| bip_39_word_space_5 | again mother rapid veteran pact |  
+| bip_39_word_space_6 | again mother rapid veteran pact trap |  
+| bip_39_word_space_7 | again mother rapid veteran pact trap mansion |  
+| bip_39_word_space_8 | again mother rapid veteran pact trap mansion enforce |  
+| bip_39_word_space_9 | again mother rapid veteran pact trap mansion enforce crazy |  
 | classification | company_oomlout |  
 | classification_capital | Company Oomlout |  
 | classification_first_letter | c |  

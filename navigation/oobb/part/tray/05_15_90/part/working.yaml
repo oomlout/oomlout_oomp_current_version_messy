@@ -1,3 +1,187 @@
+bip_39_word_new_br1: vintage
+bip_39_word_new_br10: vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb
+bip_39_word_new_br11: vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb<br>unaware
+bip_39_word_new_br12: vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant<br>climb<br>unaware<br>arctic
+bip_39_word_new_br2: vintage<br>mother
+bip_39_word_new_br3: vintage<br>mother<br>friend
+bip_39_word_new_br4: vintage<br>mother<br>friend<br>advance
+bip_39_word_new_br5: vintage<br>mother<br>friend<br>advance<br>idle
+bip_39_word_new_br6: vintage<br>mother<br>friend<br>advance<br>idle<br>leg
+bip_39_word_new_br7: vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery
+bip_39_word_new_br8: vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift
+bip_39_word_new_br9: vintage<br>mother<br>friend<br>advance<br>idle<br>leg<br>grocery<br>drift<br>elephant
+bip_39_word_new_line1: vintage
+bip_39_word_new_line10: 'vintage
+
+  mother
+
+  friend
+
+  advance
+
+  idle
+
+  leg
+
+  grocery
+
+  drift
+
+  elephant
+
+  climb'
+bip_39_word_new_line11: 'vintage
+
+  mother
+
+  friend
+
+  advance
+
+  idle
+
+  leg
+
+  grocery
+
+  drift
+
+  elephant
+
+  climb
+
+  unaware'
+bip_39_word_new_line12: 'vintage
+
+  mother
+
+  friend
+
+  advance
+
+  idle
+
+  leg
+
+  grocery
+
+  drift
+
+  elephant
+
+  climb
+
+  unaware
+
+  arctic'
+bip_39_word_new_line2: 'vintage
+
+  mother'
+bip_39_word_new_line3: 'vintage
+
+  mother
+
+  friend'
+bip_39_word_new_line4: 'vintage
+
+  mother
+
+  friend
+
+  advance'
+bip_39_word_new_line5: 'vintage
+
+  mother
+
+  friend
+
+  advance
+
+  idle'
+bip_39_word_new_line6: 'vintage
+
+  mother
+
+  friend
+
+  advance
+
+  idle
+
+  leg'
+bip_39_word_new_line7: 'vintage
+
+  mother
+
+  friend
+
+  advance
+
+  idle
+
+  leg
+
+  grocery'
+bip_39_word_new_line8: 'vintage
+
+  mother
+
+  friend
+
+  advance
+
+  idle
+
+  leg
+
+  grocery
+
+  drift'
+bip_39_word_new_line9: 'vintage
+
+  mother
+
+  friend
+
+  advance
+
+  idle
+
+  leg
+
+  grocery
+
+  drift
+
+  elephant'
+bip_39_word_space_0:
+- vintage
+- mother
+- friend
+- advance
+- idle
+- leg
+- grocery
+- drift
+- elephant
+- climb
+- unaware
+- arctic
+bip_39_word_space_1: vintage
+bip_39_word_space_10: vintage mother friend advance idle leg grocery drift elephant
+  climb
+bip_39_word_space_11: vintage mother friend advance idle leg grocery drift elephant
+  climb unaware
+bip_39_word_space_12: vintage mother friend advance idle leg grocery drift elephant
+  climb unaware arctic
+bip_39_word_space_2: vintage mother
+bip_39_word_space_3: vintage mother friend
+bip_39_word_space_4: vintage mother friend advance
+bip_39_word_space_5: vintage mother friend advance idle
+bip_39_word_space_6: vintage mother friend advance idle leg
+bip_39_word_space_7: vintage mother friend advance idle leg grocery
+bip_39_word_space_8: vintage mother friend advance idle leg grocery drift
+bip_39_word_space_9: vintage mother friend advance idle leg grocery drift elephant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

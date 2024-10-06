@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rotate
+bip_39_word_new_br10: rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person
+bip_39_word_new_br11: rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person<br>lady
+bip_39_word_new_br12: rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire<br>person<br>lady<br>asset
+bip_39_word_new_br2: rotate<br>bulk
+bip_39_word_new_br3: rotate<br>bulk<br>expire
+bip_39_word_new_br4: rotate<br>bulk<br>expire<br>notable
+bip_39_word_new_br5: rotate<br>bulk<br>expire<br>notable<br>clinic
+bip_39_word_new_br6: rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste
+bip_39_word_new_br7: rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble
+bip_39_word_new_br8: rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own
+bip_39_word_new_br9: rotate<br>bulk<br>expire<br>notable<br>clinic<br>waste<br>bubble<br>own<br>acquire
+bip_39_word_new_line1: rotate
+bip_39_word_new_line10: 'rotate
+
+  bulk
+
+  expire
+
+  notable
+
+  clinic
+
+  waste
+
+  bubble
+
+  own
+
+  acquire
+
+  person'
+bip_39_word_new_line11: 'rotate
+
+  bulk
+
+  expire
+
+  notable
+
+  clinic
+
+  waste
+
+  bubble
+
+  own
+
+  acquire
+
+  person
+
+  lady'
+bip_39_word_new_line12: 'rotate
+
+  bulk
+
+  expire
+
+  notable
+
+  clinic
+
+  waste
+
+  bubble
+
+  own
+
+  acquire
+
+  person
+
+  lady
+
+  asset'
+bip_39_word_new_line2: 'rotate
+
+  bulk'
+bip_39_word_new_line3: 'rotate
+
+  bulk
+
+  expire'
+bip_39_word_new_line4: 'rotate
+
+  bulk
+
+  expire
+
+  notable'
+bip_39_word_new_line5: 'rotate
+
+  bulk
+
+  expire
+
+  notable
+
+  clinic'
+bip_39_word_new_line6: 'rotate
+
+  bulk
+
+  expire
+
+  notable
+
+  clinic
+
+  waste'
+bip_39_word_new_line7: 'rotate
+
+  bulk
+
+  expire
+
+  notable
+
+  clinic
+
+  waste
+
+  bubble'
+bip_39_word_new_line8: 'rotate
+
+  bulk
+
+  expire
+
+  notable
+
+  clinic
+
+  waste
+
+  bubble
+
+  own'
+bip_39_word_new_line9: 'rotate
+
+  bulk
+
+  expire
+
+  notable
+
+  clinic
+
+  waste
+
+  bubble
+
+  own
+
+  acquire'
+bip_39_word_space_0:
+- rotate
+- bulk
+- expire
+- notable
+- clinic
+- waste
+- bubble
+- own
+- acquire
+- person
+- lady
+- asset
+bip_39_word_space_1: rotate
+bip_39_word_space_10: rotate bulk expire notable clinic waste bubble own acquire person
+bip_39_word_space_11: rotate bulk expire notable clinic waste bubble own acquire person
+  lady
+bip_39_word_space_12: rotate bulk expire notable clinic waste bubble own acquire person
+  lady asset
+bip_39_word_space_2: rotate bulk
+bip_39_word_space_3: rotate bulk expire
+bip_39_word_space_4: rotate bulk expire notable
+bip_39_word_space_5: rotate bulk expire notable clinic
+bip_39_word_space_6: rotate bulk expire notable clinic waste
+bip_39_word_space_7: rotate bulk expire notable clinic waste bubble
+bip_39_word_space_8: rotate bulk expire notable clinic waste bubble own
+bip_39_word_space_9: rotate bulk expire notable clinic waste bubble own acquire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

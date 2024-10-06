@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hub draw
+  * bip 39 word 3: hub draw despair
+  * bip 39 word: hub draw despair trade fade giraffe polar pretty enforce room frog agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hub |  
+| bip_39_word_new_br10 | hub<br>draw<br>despair<br>trade<br>fade<br>giraffe<br>polar<br>pretty<br>enforce<br>room |  
+| bip_39_word_new_br11 | hub<br>draw<br>despair<br>trade<br>fade<br>giraffe<br>polar<br>pretty<br>enforce<br>room<br>frog |  
+| bip_39_word_new_br12 | hub<br>draw<br>despair<br>trade<br>fade<br>giraffe<br>polar<br>pretty<br>enforce<br>room<br>frog<br>agent |  
+| bip_39_word_new_br2 | hub<br>draw |  
+| bip_39_word_new_br3 | hub<br>draw<br>despair |  
+| bip_39_word_new_br4 | hub<br>draw<br>despair<br>trade |  
+| bip_39_word_new_br5 | hub<br>draw<br>despair<br>trade<br>fade |  
+| bip_39_word_new_br6 | hub<br>draw<br>despair<br>trade<br>fade<br>giraffe |  
+| bip_39_word_new_br7 | hub<br>draw<br>despair<br>trade<br>fade<br>giraffe<br>polar |  
+| bip_39_word_new_br8 | hub<br>draw<br>despair<br>trade<br>fade<br>giraffe<br>polar<br>pretty |  
+| bip_39_word_new_br9 | hub<br>draw<br>despair<br>trade<br>fade<br>giraffe<br>polar<br>pretty<br>enforce |  
+| bip_39_word_new_line1 | hub |  
+| bip_39_word_new_line10 | hub
+draw
+despair
+trade
+fade
+giraffe
+polar
+pretty
+enforce
+room |  
+| bip_39_word_new_line11 | hub
+draw
+despair
+trade
+fade
+giraffe
+polar
+pretty
+enforce
+room
+frog |  
+| bip_39_word_new_line12 | hub
+draw
+despair
+trade
+fade
+giraffe
+polar
+pretty
+enforce
+room
+frog
+agent |  
+| bip_39_word_new_line2 | hub
+draw |  
+| bip_39_word_new_line3 | hub
+draw
+despair |  
+| bip_39_word_new_line4 | hub
+draw
+despair
+trade |  
+| bip_39_word_new_line5 | hub
+draw
+despair
+trade
+fade |  
+| bip_39_word_new_line6 | hub
+draw
+despair
+trade
+fade
+giraffe |  
+| bip_39_word_new_line7 | hub
+draw
+despair
+trade
+fade
+giraffe
+polar |  
+| bip_39_word_new_line8 | hub
+draw
+despair
+trade
+fade
+giraffe
+polar
+pretty |  
+| bip_39_word_new_line9 | hub
+draw
+despair
+trade
+fade
+giraffe
+polar
+pretty
+enforce |  
+| bip_39_word_space_0 | ['hub', 'draw', 'despair', 'trade', 'fade', 'giraffe', 'polar', 'pretty', 'enforce', 'room', 'frog', 'agent'] |  
+| bip_39_word_space_1 | hub |  
+| bip_39_word_space_10 | hub draw despair trade fade giraffe polar pretty enforce room |  
+| bip_39_word_space_11 | hub draw despair trade fade giraffe polar pretty enforce room frog |  
+| bip_39_word_space_12 | hub draw despair trade fade giraffe polar pretty enforce room frog agent |  
+| bip_39_word_space_2 | hub draw |  
+| bip_39_word_space_3 | hub draw despair |  
+| bip_39_word_space_4 | hub draw despair trade |  
+| bip_39_word_space_5 | hub draw despair trade fade |  
+| bip_39_word_space_6 | hub draw despair trade fade giraffe |  
+| bip_39_word_space_7 | hub draw despair trade fade giraffe polar |  
+| bip_39_word_space_8 | hub draw despair trade fade giraffe polar pretty |  
+| bip_39_word_space_9 | hub draw despair trade fade giraffe polar pretty enforce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

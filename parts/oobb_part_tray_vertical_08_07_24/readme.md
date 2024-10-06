@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: outside nasty
+  * bip 39 word 3: outside nasty donor
+  * bip 39 word: outside nasty donor drink major youth used purpose empower play play album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | outside |  
+| bip_39_word_new_br10 | outside<br>nasty<br>donor<br>drink<br>major<br>youth<br>used<br>purpose<br>empower<br>play |  
+| bip_39_word_new_br11 | outside<br>nasty<br>donor<br>drink<br>major<br>youth<br>used<br>purpose<br>empower<br>play<br>play |  
+| bip_39_word_new_br12 | outside<br>nasty<br>donor<br>drink<br>major<br>youth<br>used<br>purpose<br>empower<br>play<br>play<br>album |  
+| bip_39_word_new_br2 | outside<br>nasty |  
+| bip_39_word_new_br3 | outside<br>nasty<br>donor |  
+| bip_39_word_new_br4 | outside<br>nasty<br>donor<br>drink |  
+| bip_39_word_new_br5 | outside<br>nasty<br>donor<br>drink<br>major |  
+| bip_39_word_new_br6 | outside<br>nasty<br>donor<br>drink<br>major<br>youth |  
+| bip_39_word_new_br7 | outside<br>nasty<br>donor<br>drink<br>major<br>youth<br>used |  
+| bip_39_word_new_br8 | outside<br>nasty<br>donor<br>drink<br>major<br>youth<br>used<br>purpose |  
+| bip_39_word_new_br9 | outside<br>nasty<br>donor<br>drink<br>major<br>youth<br>used<br>purpose<br>empower |  
+| bip_39_word_new_line1 | outside |  
+| bip_39_word_new_line10 | outside
+nasty
+donor
+drink
+major
+youth
+used
+purpose
+empower
+play |  
+| bip_39_word_new_line11 | outside
+nasty
+donor
+drink
+major
+youth
+used
+purpose
+empower
+play
+play |  
+| bip_39_word_new_line12 | outside
+nasty
+donor
+drink
+major
+youth
+used
+purpose
+empower
+play
+play
+album |  
+| bip_39_word_new_line2 | outside
+nasty |  
+| bip_39_word_new_line3 | outside
+nasty
+donor |  
+| bip_39_word_new_line4 | outside
+nasty
+donor
+drink |  
+| bip_39_word_new_line5 | outside
+nasty
+donor
+drink
+major |  
+| bip_39_word_new_line6 | outside
+nasty
+donor
+drink
+major
+youth |  
+| bip_39_word_new_line7 | outside
+nasty
+donor
+drink
+major
+youth
+used |  
+| bip_39_word_new_line8 | outside
+nasty
+donor
+drink
+major
+youth
+used
+purpose |  
+| bip_39_word_new_line9 | outside
+nasty
+donor
+drink
+major
+youth
+used
+purpose
+empower |  
+| bip_39_word_space_0 | ['outside', 'nasty', 'donor', 'drink', 'major', 'youth', 'used', 'purpose', 'empower', 'play', 'play', 'album'] |  
+| bip_39_word_space_1 | outside |  
+| bip_39_word_space_10 | outside nasty donor drink major youth used purpose empower play |  
+| bip_39_word_space_11 | outside nasty donor drink major youth used purpose empower play play |  
+| bip_39_word_space_12 | outside nasty donor drink major youth used purpose empower play play album |  
+| bip_39_word_space_2 | outside nasty |  
+| bip_39_word_space_3 | outside nasty donor |  
+| bip_39_word_space_4 | outside nasty donor drink |  
+| bip_39_word_space_5 | outside nasty donor drink major |  
+| bip_39_word_space_6 | outside nasty donor drink major youth |  
+| bip_39_word_space_7 | outside nasty donor drink major youth used |  
+| bip_39_word_space_8 | outside nasty donor drink major youth used purpose |  
+| bip_39_word_space_9 | outside nasty donor drink major youth used purpose empower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

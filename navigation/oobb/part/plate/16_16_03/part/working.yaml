@@ -1,3 +1,186 @@
+bip_39_word_new_br1: eternal
+bip_39_word_new_br10: eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document
+bip_39_word_new_br11: eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document<br>broccoli
+bip_39_word_new_br12: eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack<br>document<br>broccoli<br>amazing
+bip_39_word_new_br2: eternal<br>ecology
+bip_39_word_new_br3: eternal<br>ecology<br>slot
+bip_39_word_new_br4: eternal<br>ecology<br>slot<br>carry
+bip_39_word_new_br5: eternal<br>ecology<br>slot<br>carry<br>success
+bip_39_word_new_br6: eternal<br>ecology<br>slot<br>carry<br>success<br>frog
+bip_39_word_new_br7: eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid
+bip_39_word_new_br8: eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy
+bip_39_word_new_br9: eternal<br>ecology<br>slot<br>carry<br>success<br>frog<br>grid<br>happy<br>crack
+bip_39_word_new_line1: eternal
+bip_39_word_new_line10: 'eternal
+
+  ecology
+
+  slot
+
+  carry
+
+  success
+
+  frog
+
+  grid
+
+  happy
+
+  crack
+
+  document'
+bip_39_word_new_line11: 'eternal
+
+  ecology
+
+  slot
+
+  carry
+
+  success
+
+  frog
+
+  grid
+
+  happy
+
+  crack
+
+  document
+
+  broccoli'
+bip_39_word_new_line12: 'eternal
+
+  ecology
+
+  slot
+
+  carry
+
+  success
+
+  frog
+
+  grid
+
+  happy
+
+  crack
+
+  document
+
+  broccoli
+
+  amazing'
+bip_39_word_new_line2: 'eternal
+
+  ecology'
+bip_39_word_new_line3: 'eternal
+
+  ecology
+
+  slot'
+bip_39_word_new_line4: 'eternal
+
+  ecology
+
+  slot
+
+  carry'
+bip_39_word_new_line5: 'eternal
+
+  ecology
+
+  slot
+
+  carry
+
+  success'
+bip_39_word_new_line6: 'eternal
+
+  ecology
+
+  slot
+
+  carry
+
+  success
+
+  frog'
+bip_39_word_new_line7: 'eternal
+
+  ecology
+
+  slot
+
+  carry
+
+  success
+
+  frog
+
+  grid'
+bip_39_word_new_line8: 'eternal
+
+  ecology
+
+  slot
+
+  carry
+
+  success
+
+  frog
+
+  grid
+
+  happy'
+bip_39_word_new_line9: 'eternal
+
+  ecology
+
+  slot
+
+  carry
+
+  success
+
+  frog
+
+  grid
+
+  happy
+
+  crack'
+bip_39_word_space_0:
+- eternal
+- ecology
+- slot
+- carry
+- success
+- frog
+- grid
+- happy
+- crack
+- document
+- broccoli
+- amazing
+bip_39_word_space_1: eternal
+bip_39_word_space_10: eternal ecology slot carry success frog grid happy crack document
+bip_39_word_space_11: eternal ecology slot carry success frog grid happy crack document
+  broccoli
+bip_39_word_space_12: eternal ecology slot carry success frog grid happy crack document
+  broccoli amazing
+bip_39_word_space_2: eternal ecology
+bip_39_word_space_3: eternal ecology slot
+bip_39_word_space_4: eternal ecology slot carry
+bip_39_word_space_5: eternal ecology slot carry success
+bip_39_word_space_6: eternal ecology slot carry success frog
+bip_39_word_space_7: eternal ecology slot carry success frog grid
+bip_39_word_space_8: eternal ecology slot carry success frog grid happy
+bip_39_word_space_9: eternal ecology slot carry success frog grid happy crack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

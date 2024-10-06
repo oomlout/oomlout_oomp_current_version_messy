@@ -1,3 +1,186 @@
+bip_39_word_new_br1: square
+bip_39_word_new_br10: square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat
+bip_39_word_new_br11: square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat<br>riot
+bip_39_word_new_br12: square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady<br>seat<br>riot<br>agent
+bip_39_word_new_br2: square<br>cream
+bip_39_word_new_br3: square<br>cream<br>observe
+bip_39_word_new_br4: square<br>cream<br>observe<br>cement
+bip_39_word_new_br5: square<br>cream<br>observe<br>cement<br>life
+bip_39_word_new_br6: square<br>cream<br>observe<br>cement<br>life<br>cherry
+bip_39_word_new_br7: square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen
+bip_39_word_new_br8: square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty
+bip_39_word_new_br9: square<br>cream<br>observe<br>cement<br>life<br>cherry<br>pen<br>pretty<br>lady
+bip_39_word_new_line1: square
+bip_39_word_new_line10: 'square
+
+  cream
+
+  observe
+
+  cement
+
+  life
+
+  cherry
+
+  pen
+
+  pretty
+
+  lady
+
+  seat'
+bip_39_word_new_line11: 'square
+
+  cream
+
+  observe
+
+  cement
+
+  life
+
+  cherry
+
+  pen
+
+  pretty
+
+  lady
+
+  seat
+
+  riot'
+bip_39_word_new_line12: 'square
+
+  cream
+
+  observe
+
+  cement
+
+  life
+
+  cherry
+
+  pen
+
+  pretty
+
+  lady
+
+  seat
+
+  riot
+
+  agent'
+bip_39_word_new_line2: 'square
+
+  cream'
+bip_39_word_new_line3: 'square
+
+  cream
+
+  observe'
+bip_39_word_new_line4: 'square
+
+  cream
+
+  observe
+
+  cement'
+bip_39_word_new_line5: 'square
+
+  cream
+
+  observe
+
+  cement
+
+  life'
+bip_39_word_new_line6: 'square
+
+  cream
+
+  observe
+
+  cement
+
+  life
+
+  cherry'
+bip_39_word_new_line7: 'square
+
+  cream
+
+  observe
+
+  cement
+
+  life
+
+  cherry
+
+  pen'
+bip_39_word_new_line8: 'square
+
+  cream
+
+  observe
+
+  cement
+
+  life
+
+  cherry
+
+  pen
+
+  pretty'
+bip_39_word_new_line9: 'square
+
+  cream
+
+  observe
+
+  cement
+
+  life
+
+  cherry
+
+  pen
+
+  pretty
+
+  lady'
+bip_39_word_space_0:
+- square
+- cream
+- observe
+- cement
+- life
+- cherry
+- pen
+- pretty
+- lady
+- seat
+- riot
+- agent
+bip_39_word_space_1: square
+bip_39_word_space_10: square cream observe cement life cherry pen pretty lady seat
+bip_39_word_space_11: square cream observe cement life cherry pen pretty lady seat
+  riot
+bip_39_word_space_12: square cream observe cement life cherry pen pretty lady seat
+  riot agent
+bip_39_word_space_2: square cream
+bip_39_word_space_3: square cream observe
+bip_39_word_space_4: square cream observe cement
+bip_39_word_space_5: square cream observe cement life
+bip_39_word_space_6: square cream observe cement life cherry
+bip_39_word_space_7: square cream observe cement life cherry pen
+bip_39_word_space_8: square cream observe cement life cherry pen pretty
+bip_39_word_space_9: square cream observe cement life cherry pen pretty lady
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

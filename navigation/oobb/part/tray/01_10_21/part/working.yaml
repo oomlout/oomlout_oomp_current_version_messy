@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bridge
+bip_39_word_new_br10: bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact
+bip_39_word_new_br11: bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact<br>century
+bip_39_word_new_br12: bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix<br>artefact<br>century<br>arctic
+bip_39_word_new_br2: bridge<br>case
+bip_39_word_new_br3: bridge<br>case<br>leg
+bip_39_word_new_br4: bridge<br>case<br>leg<br>conduct
+bip_39_word_new_br5: bridge<br>case<br>leg<br>conduct<br>unveil
+bip_39_word_new_br6: bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence
+bip_39_word_new_br7: bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can
+bip_39_word_new_br8: bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element
+bip_39_word_new_br9: bridge<br>case<br>leg<br>conduct<br>unveil<br>sentence<br>can<br>element<br>mix
+bip_39_word_new_line1: bridge
+bip_39_word_new_line10: 'bridge
+
+  case
+
+  leg
+
+  conduct
+
+  unveil
+
+  sentence
+
+  can
+
+  element
+
+  mix
+
+  artefact'
+bip_39_word_new_line11: 'bridge
+
+  case
+
+  leg
+
+  conduct
+
+  unveil
+
+  sentence
+
+  can
+
+  element
+
+  mix
+
+  artefact
+
+  century'
+bip_39_word_new_line12: 'bridge
+
+  case
+
+  leg
+
+  conduct
+
+  unveil
+
+  sentence
+
+  can
+
+  element
+
+  mix
+
+  artefact
+
+  century
+
+  arctic'
+bip_39_word_new_line2: 'bridge
+
+  case'
+bip_39_word_new_line3: 'bridge
+
+  case
+
+  leg'
+bip_39_word_new_line4: 'bridge
+
+  case
+
+  leg
+
+  conduct'
+bip_39_word_new_line5: 'bridge
+
+  case
+
+  leg
+
+  conduct
+
+  unveil'
+bip_39_word_new_line6: 'bridge
+
+  case
+
+  leg
+
+  conduct
+
+  unveil
+
+  sentence'
+bip_39_word_new_line7: 'bridge
+
+  case
+
+  leg
+
+  conduct
+
+  unveil
+
+  sentence
+
+  can'
+bip_39_word_new_line8: 'bridge
+
+  case
+
+  leg
+
+  conduct
+
+  unveil
+
+  sentence
+
+  can
+
+  element'
+bip_39_word_new_line9: 'bridge
+
+  case
+
+  leg
+
+  conduct
+
+  unveil
+
+  sentence
+
+  can
+
+  element
+
+  mix'
+bip_39_word_space_0:
+- bridge
+- case
+- leg
+- conduct
+- unveil
+- sentence
+- can
+- element
+- mix
+- artefact
+- century
+- arctic
+bip_39_word_space_1: bridge
+bip_39_word_space_10: bridge case leg conduct unveil sentence can element mix artefact
+bip_39_word_space_11: bridge case leg conduct unveil sentence can element mix artefact
+  century
+bip_39_word_space_12: bridge case leg conduct unveil sentence can element mix artefact
+  century arctic
+bip_39_word_space_2: bridge case
+bip_39_word_space_3: bridge case leg
+bip_39_word_space_4: bridge case leg conduct
+bip_39_word_space_5: bridge case leg conduct unveil
+bip_39_word_space_6: bridge case leg conduct unveil sentence
+bip_39_word_space_7: bridge case leg conduct unveil sentence can
+bip_39_word_space_8: bridge case leg conduct unveil sentence can element
+bip_39_word_space_9: bridge case leg conduct unveil sentence can element mix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

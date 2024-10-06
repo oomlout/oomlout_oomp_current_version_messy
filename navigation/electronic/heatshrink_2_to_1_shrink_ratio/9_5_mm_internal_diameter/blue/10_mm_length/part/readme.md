@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chest afford
+  * bip 39 word 3: chest afford skill
+  * bip 39 word: chest afford skill midnight multiply bleak armor neutral option icon eye artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chest |  
+| bip_39_word_new_br10 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option<br>icon |  
+| bip_39_word_new_br11 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option<br>icon<br>eye |  
+| bip_39_word_new_br12 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option<br>icon<br>eye<br>artwork |  
+| bip_39_word_new_br2 | chest<br>afford |  
+| bip_39_word_new_br3 | chest<br>afford<br>skill |  
+| bip_39_word_new_br4 | chest<br>afford<br>skill<br>midnight |  
+| bip_39_word_new_br5 | chest<br>afford<br>skill<br>midnight<br>multiply |  
+| bip_39_word_new_br6 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak |  
+| bip_39_word_new_br7 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor |  
+| bip_39_word_new_br8 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral |  
+| bip_39_word_new_br9 | chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option |  
+| bip_39_word_new_line1 | chest |  
+| bip_39_word_new_line10 | chest
+afford
+skill
+midnight
+multiply
+bleak
+armor
+neutral
+option
+icon |  
+| bip_39_word_new_line11 | chest
+afford
+skill
+midnight
+multiply
+bleak
+armor
+neutral
+option
+icon
+eye |  
+| bip_39_word_new_line12 | chest
+afford
+skill
+midnight
+multiply
+bleak
+armor
+neutral
+option
+icon
+eye
+artwork |  
+| bip_39_word_new_line2 | chest
+afford |  
+| bip_39_word_new_line3 | chest
+afford
+skill |  
+| bip_39_word_new_line4 | chest
+afford
+skill
+midnight |  
+| bip_39_word_new_line5 | chest
+afford
+skill
+midnight
+multiply |  
+| bip_39_word_new_line6 | chest
+afford
+skill
+midnight
+multiply
+bleak |  
+| bip_39_word_new_line7 | chest
+afford
+skill
+midnight
+multiply
+bleak
+armor |  
+| bip_39_word_new_line8 | chest
+afford
+skill
+midnight
+multiply
+bleak
+armor
+neutral |  
+| bip_39_word_new_line9 | chest
+afford
+skill
+midnight
+multiply
+bleak
+armor
+neutral
+option |  
+| bip_39_word_space_0 | ['chest', 'afford', 'skill', 'midnight', 'multiply', 'bleak', 'armor', 'neutral', 'option', 'icon', 'eye', 'artwork'] |  
+| bip_39_word_space_1 | chest |  
+| bip_39_word_space_10 | chest afford skill midnight multiply bleak armor neutral option icon |  
+| bip_39_word_space_11 | chest afford skill midnight multiply bleak armor neutral option icon eye |  
+| bip_39_word_space_12 | chest afford skill midnight multiply bleak armor neutral option icon eye artwork |  
+| bip_39_word_space_2 | chest afford |  
+| bip_39_word_space_3 | chest afford skill |  
+| bip_39_word_space_4 | chest afford skill midnight |  
+| bip_39_word_space_5 | chest afford skill midnight multiply |  
+| bip_39_word_space_6 | chest afford skill midnight multiply bleak |  
+| bip_39_word_space_7 | chest afford skill midnight multiply bleak armor |  
+| bip_39_word_space_8 | chest afford skill midnight multiply bleak armor neutral |  
+| bip_39_word_space_9 | chest afford skill midnight multiply bleak armor neutral option |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

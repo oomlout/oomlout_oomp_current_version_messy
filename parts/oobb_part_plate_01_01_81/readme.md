@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stumble snack
+  * bip 39 word 3: stumble snack blind
+  * bip 39 word: stumble snack blind atom material kingdom fold achieve success pull steel ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stumble |  
+| bip_39_word_new_br10 | stumble<br>snack<br>blind<br>atom<br>material<br>kingdom<br>fold<br>achieve<br>success<br>pull |  
+| bip_39_word_new_br11 | stumble<br>snack<br>blind<br>atom<br>material<br>kingdom<br>fold<br>achieve<br>success<br>pull<br>steel |  
+| bip_39_word_new_br12 | stumble<br>snack<br>blind<br>atom<br>material<br>kingdom<br>fold<br>achieve<br>success<br>pull<br>steel<br>ability |  
+| bip_39_word_new_br2 | stumble<br>snack |  
+| bip_39_word_new_br3 | stumble<br>snack<br>blind |  
+| bip_39_word_new_br4 | stumble<br>snack<br>blind<br>atom |  
+| bip_39_word_new_br5 | stumble<br>snack<br>blind<br>atom<br>material |  
+| bip_39_word_new_br6 | stumble<br>snack<br>blind<br>atom<br>material<br>kingdom |  
+| bip_39_word_new_br7 | stumble<br>snack<br>blind<br>atom<br>material<br>kingdom<br>fold |  
+| bip_39_word_new_br8 | stumble<br>snack<br>blind<br>atom<br>material<br>kingdom<br>fold<br>achieve |  
+| bip_39_word_new_br9 | stumble<br>snack<br>blind<br>atom<br>material<br>kingdom<br>fold<br>achieve<br>success |  
+| bip_39_word_new_line1 | stumble |  
+| bip_39_word_new_line10 | stumble
+snack
+blind
+atom
+material
+kingdom
+fold
+achieve
+success
+pull |  
+| bip_39_word_new_line11 | stumble
+snack
+blind
+atom
+material
+kingdom
+fold
+achieve
+success
+pull
+steel |  
+| bip_39_word_new_line12 | stumble
+snack
+blind
+atom
+material
+kingdom
+fold
+achieve
+success
+pull
+steel
+ability |  
+| bip_39_word_new_line2 | stumble
+snack |  
+| bip_39_word_new_line3 | stumble
+snack
+blind |  
+| bip_39_word_new_line4 | stumble
+snack
+blind
+atom |  
+| bip_39_word_new_line5 | stumble
+snack
+blind
+atom
+material |  
+| bip_39_word_new_line6 | stumble
+snack
+blind
+atom
+material
+kingdom |  
+| bip_39_word_new_line7 | stumble
+snack
+blind
+atom
+material
+kingdom
+fold |  
+| bip_39_word_new_line8 | stumble
+snack
+blind
+atom
+material
+kingdom
+fold
+achieve |  
+| bip_39_word_new_line9 | stumble
+snack
+blind
+atom
+material
+kingdom
+fold
+achieve
+success |  
+| bip_39_word_space_0 | ['stumble', 'snack', 'blind', 'atom', 'material', 'kingdom', 'fold', 'achieve', 'success', 'pull', 'steel', 'ability'] |  
+| bip_39_word_space_1 | stumble |  
+| bip_39_word_space_10 | stumble snack blind atom material kingdom fold achieve success pull |  
+| bip_39_word_space_11 | stumble snack blind atom material kingdom fold achieve success pull steel |  
+| bip_39_word_space_12 | stumble snack blind atom material kingdom fold achieve success pull steel ability |  
+| bip_39_word_space_2 | stumble snack |  
+| bip_39_word_space_3 | stumble snack blind |  
+| bip_39_word_space_4 | stumble snack blind atom |  
+| bip_39_word_space_5 | stumble snack blind atom material |  
+| bip_39_word_space_6 | stumble snack blind atom material kingdom |  
+| bip_39_word_space_7 | stumble snack blind atom material kingdom fold |  
+| bip_39_word_space_8 | stumble snack blind atom material kingdom fold achieve |  
+| bip_39_word_space_9 | stumble snack blind atom material kingdom fold achieve success |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

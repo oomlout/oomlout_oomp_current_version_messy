@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: human stand
+  * bip 39 word 3: human stand supreme
+  * bip 39 word: human stand supreme coffee tube churn fever supply glance illness napkin alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | human |  
+| bip_39_word_new_br10 | human<br>stand<br>supreme<br>coffee<br>tube<br>churn<br>fever<br>supply<br>glance<br>illness |  
+| bip_39_word_new_br11 | human<br>stand<br>supreme<br>coffee<br>tube<br>churn<br>fever<br>supply<br>glance<br>illness<br>napkin |  
+| bip_39_word_new_br12 | human<br>stand<br>supreme<br>coffee<br>tube<br>churn<br>fever<br>supply<br>glance<br>illness<br>napkin<br>alien |  
+| bip_39_word_new_br2 | human<br>stand |  
+| bip_39_word_new_br3 | human<br>stand<br>supreme |  
+| bip_39_word_new_br4 | human<br>stand<br>supreme<br>coffee |  
+| bip_39_word_new_br5 | human<br>stand<br>supreme<br>coffee<br>tube |  
+| bip_39_word_new_br6 | human<br>stand<br>supreme<br>coffee<br>tube<br>churn |  
+| bip_39_word_new_br7 | human<br>stand<br>supreme<br>coffee<br>tube<br>churn<br>fever |  
+| bip_39_word_new_br8 | human<br>stand<br>supreme<br>coffee<br>tube<br>churn<br>fever<br>supply |  
+| bip_39_word_new_br9 | human<br>stand<br>supreme<br>coffee<br>tube<br>churn<br>fever<br>supply<br>glance |  
+| bip_39_word_new_line1 | human |  
+| bip_39_word_new_line10 | human
+stand
+supreme
+coffee
+tube
+churn
+fever
+supply
+glance
+illness |  
+| bip_39_word_new_line11 | human
+stand
+supreme
+coffee
+tube
+churn
+fever
+supply
+glance
+illness
+napkin |  
+| bip_39_word_new_line12 | human
+stand
+supreme
+coffee
+tube
+churn
+fever
+supply
+glance
+illness
+napkin
+alien |  
+| bip_39_word_new_line2 | human
+stand |  
+| bip_39_word_new_line3 | human
+stand
+supreme |  
+| bip_39_word_new_line4 | human
+stand
+supreme
+coffee |  
+| bip_39_word_new_line5 | human
+stand
+supreme
+coffee
+tube |  
+| bip_39_word_new_line6 | human
+stand
+supreme
+coffee
+tube
+churn |  
+| bip_39_word_new_line7 | human
+stand
+supreme
+coffee
+tube
+churn
+fever |  
+| bip_39_word_new_line8 | human
+stand
+supreme
+coffee
+tube
+churn
+fever
+supply |  
+| bip_39_word_new_line9 | human
+stand
+supreme
+coffee
+tube
+churn
+fever
+supply
+glance |  
+| bip_39_word_space_0 | ['human', 'stand', 'supreme', 'coffee', 'tube', 'churn', 'fever', 'supply', 'glance', 'illness', 'napkin', 'alien'] |  
+| bip_39_word_space_1 | human |  
+| bip_39_word_space_10 | human stand supreme coffee tube churn fever supply glance illness |  
+| bip_39_word_space_11 | human stand supreme coffee tube churn fever supply glance illness napkin |  
+| bip_39_word_space_12 | human stand supreme coffee tube churn fever supply glance illness napkin alien |  
+| bip_39_word_space_2 | human stand |  
+| bip_39_word_space_3 | human stand supreme |  
+| bip_39_word_space_4 | human stand supreme coffee |  
+| bip_39_word_space_5 | human stand supreme coffee tube |  
+| bip_39_word_space_6 | human stand supreme coffee tube churn |  
+| bip_39_word_space_7 | human stand supreme coffee tube churn fever |  
+| bip_39_word_space_8 | human stand supreme coffee tube churn fever supply |  
+| bip_39_word_space_9 | human stand supreme coffee tube churn fever supply glance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

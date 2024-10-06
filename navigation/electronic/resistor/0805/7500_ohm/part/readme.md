@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reopen link
+  * bip 39 word 3: reopen link suspect
+  * bip 39 word: reopen link suspect humor perfect asset disorder network mind level abstract access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reopen |  
+| bip_39_word_new_br10 | reopen<br>link<br>suspect<br>humor<br>perfect<br>asset<br>disorder<br>network<br>mind<br>level |  
+| bip_39_word_new_br11 | reopen<br>link<br>suspect<br>humor<br>perfect<br>asset<br>disorder<br>network<br>mind<br>level<br>abstract |  
+| bip_39_word_new_br12 | reopen<br>link<br>suspect<br>humor<br>perfect<br>asset<br>disorder<br>network<br>mind<br>level<br>abstract<br>access |  
+| bip_39_word_new_br2 | reopen<br>link |  
+| bip_39_word_new_br3 | reopen<br>link<br>suspect |  
+| bip_39_word_new_br4 | reopen<br>link<br>suspect<br>humor |  
+| bip_39_word_new_br5 | reopen<br>link<br>suspect<br>humor<br>perfect |  
+| bip_39_word_new_br6 | reopen<br>link<br>suspect<br>humor<br>perfect<br>asset |  
+| bip_39_word_new_br7 | reopen<br>link<br>suspect<br>humor<br>perfect<br>asset<br>disorder |  
+| bip_39_word_new_br8 | reopen<br>link<br>suspect<br>humor<br>perfect<br>asset<br>disorder<br>network |  
+| bip_39_word_new_br9 | reopen<br>link<br>suspect<br>humor<br>perfect<br>asset<br>disorder<br>network<br>mind |  
+| bip_39_word_new_line1 | reopen |  
+| bip_39_word_new_line10 | reopen
+link
+suspect
+humor
+perfect
+asset
+disorder
+network
+mind
+level |  
+| bip_39_word_new_line11 | reopen
+link
+suspect
+humor
+perfect
+asset
+disorder
+network
+mind
+level
+abstract |  
+| bip_39_word_new_line12 | reopen
+link
+suspect
+humor
+perfect
+asset
+disorder
+network
+mind
+level
+abstract
+access |  
+| bip_39_word_new_line2 | reopen
+link |  
+| bip_39_word_new_line3 | reopen
+link
+suspect |  
+| bip_39_word_new_line4 | reopen
+link
+suspect
+humor |  
+| bip_39_word_new_line5 | reopen
+link
+suspect
+humor
+perfect |  
+| bip_39_word_new_line6 | reopen
+link
+suspect
+humor
+perfect
+asset |  
+| bip_39_word_new_line7 | reopen
+link
+suspect
+humor
+perfect
+asset
+disorder |  
+| bip_39_word_new_line8 | reopen
+link
+suspect
+humor
+perfect
+asset
+disorder
+network |  
+| bip_39_word_new_line9 | reopen
+link
+suspect
+humor
+perfect
+asset
+disorder
+network
+mind |  
+| bip_39_word_space_0 | ['reopen', 'link', 'suspect', 'humor', 'perfect', 'asset', 'disorder', 'network', 'mind', 'level', 'abstract', 'access'] |  
+| bip_39_word_space_1 | reopen |  
+| bip_39_word_space_10 | reopen link suspect humor perfect asset disorder network mind level |  
+| bip_39_word_space_11 | reopen link suspect humor perfect asset disorder network mind level abstract |  
+| bip_39_word_space_12 | reopen link suspect humor perfect asset disorder network mind level abstract access |  
+| bip_39_word_space_2 | reopen link |  
+| bip_39_word_space_3 | reopen link suspect |  
+| bip_39_word_space_4 | reopen link suspect humor |  
+| bip_39_word_space_5 | reopen link suspect humor perfect |  
+| bip_39_word_space_6 | reopen link suspect humor perfect asset |  
+| bip_39_word_space_7 | reopen link suspect humor perfect asset disorder |  
+| bip_39_word_space_8 | reopen link suspect humor perfect asset disorder network |  
+| bip_39_word_space_9 | reopen link suspect humor perfect asset disorder network mind |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

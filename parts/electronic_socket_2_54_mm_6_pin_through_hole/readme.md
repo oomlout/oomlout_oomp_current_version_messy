@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: member coyote
+  * bip 39 word 3: member coyote sudden
+  * bip 39 word: member coyote sudden acid oxygen ancient coil artefact wood sausage uniform alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | member |  
+| bip_39_word_new_br10 | member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact<br>wood<br>sausage |  
+| bip_39_word_new_br11 | member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact<br>wood<br>sausage<br>uniform |  
+| bip_39_word_new_br12 | member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact<br>wood<br>sausage<br>uniform<br>alter |  
+| bip_39_word_new_br2 | member<br>coyote |  
+| bip_39_word_new_br3 | member<br>coyote<br>sudden |  
+| bip_39_word_new_br4 | member<br>coyote<br>sudden<br>acid |  
+| bip_39_word_new_br5 | member<br>coyote<br>sudden<br>acid<br>oxygen |  
+| bip_39_word_new_br6 | member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient |  
+| bip_39_word_new_br7 | member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil |  
+| bip_39_word_new_br8 | member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact |  
+| bip_39_word_new_br9 | member<br>coyote<br>sudden<br>acid<br>oxygen<br>ancient<br>coil<br>artefact<br>wood |  
+| bip_39_word_new_line1 | member |  
+| bip_39_word_new_line10 | member
+coyote
+sudden
+acid
+oxygen
+ancient
+coil
+artefact
+wood
+sausage |  
+| bip_39_word_new_line11 | member
+coyote
+sudden
+acid
+oxygen
+ancient
+coil
+artefact
+wood
+sausage
+uniform |  
+| bip_39_word_new_line12 | member
+coyote
+sudden
+acid
+oxygen
+ancient
+coil
+artefact
+wood
+sausage
+uniform
+alter |  
+| bip_39_word_new_line2 | member
+coyote |  
+| bip_39_word_new_line3 | member
+coyote
+sudden |  
+| bip_39_word_new_line4 | member
+coyote
+sudden
+acid |  
+| bip_39_word_new_line5 | member
+coyote
+sudden
+acid
+oxygen |  
+| bip_39_word_new_line6 | member
+coyote
+sudden
+acid
+oxygen
+ancient |  
+| bip_39_word_new_line7 | member
+coyote
+sudden
+acid
+oxygen
+ancient
+coil |  
+| bip_39_word_new_line8 | member
+coyote
+sudden
+acid
+oxygen
+ancient
+coil
+artefact |  
+| bip_39_word_new_line9 | member
+coyote
+sudden
+acid
+oxygen
+ancient
+coil
+artefact
+wood |  
+| bip_39_word_space_0 | ['member', 'coyote', 'sudden', 'acid', 'oxygen', 'ancient', 'coil', 'artefact', 'wood', 'sausage', 'uniform', 'alter'] |  
+| bip_39_word_space_1 | member |  
+| bip_39_word_space_10 | member coyote sudden acid oxygen ancient coil artefact wood sausage |  
+| bip_39_word_space_11 | member coyote sudden acid oxygen ancient coil artefact wood sausage uniform |  
+| bip_39_word_space_12 | member coyote sudden acid oxygen ancient coil artefact wood sausage uniform alter |  
+| bip_39_word_space_2 | member coyote |  
+| bip_39_word_space_3 | member coyote sudden |  
+| bip_39_word_space_4 | member coyote sudden acid |  
+| bip_39_word_space_5 | member coyote sudden acid oxygen |  
+| bip_39_word_space_6 | member coyote sudden acid oxygen ancient |  
+| bip_39_word_space_7 | member coyote sudden acid oxygen ancient coil |  
+| bip_39_word_space_8 | member coyote sudden acid oxygen ancient coil artefact |  
+| bip_39_word_space_9 | member coyote sudden acid oxygen ancient coil artefact wood |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

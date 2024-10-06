@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unlock palace
+  * bip 39 word 3: unlock palace vast
+  * bip 39 word: unlock palace vast text danger myth cloud flock million nut super august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unlock |  
+| bip_39_word_new_br10 | unlock<br>palace<br>vast<br>text<br>danger<br>myth<br>cloud<br>flock<br>million<br>nut |  
+| bip_39_word_new_br11 | unlock<br>palace<br>vast<br>text<br>danger<br>myth<br>cloud<br>flock<br>million<br>nut<br>super |  
+| bip_39_word_new_br12 | unlock<br>palace<br>vast<br>text<br>danger<br>myth<br>cloud<br>flock<br>million<br>nut<br>super<br>august |  
+| bip_39_word_new_br2 | unlock<br>palace |  
+| bip_39_word_new_br3 | unlock<br>palace<br>vast |  
+| bip_39_word_new_br4 | unlock<br>palace<br>vast<br>text |  
+| bip_39_word_new_br5 | unlock<br>palace<br>vast<br>text<br>danger |  
+| bip_39_word_new_br6 | unlock<br>palace<br>vast<br>text<br>danger<br>myth |  
+| bip_39_word_new_br7 | unlock<br>palace<br>vast<br>text<br>danger<br>myth<br>cloud |  
+| bip_39_word_new_br8 | unlock<br>palace<br>vast<br>text<br>danger<br>myth<br>cloud<br>flock |  
+| bip_39_word_new_br9 | unlock<br>palace<br>vast<br>text<br>danger<br>myth<br>cloud<br>flock<br>million |  
+| bip_39_word_new_line1 | unlock |  
+| bip_39_word_new_line10 | unlock
+palace
+vast
+text
+danger
+myth
+cloud
+flock
+million
+nut |  
+| bip_39_word_new_line11 | unlock
+palace
+vast
+text
+danger
+myth
+cloud
+flock
+million
+nut
+super |  
+| bip_39_word_new_line12 | unlock
+palace
+vast
+text
+danger
+myth
+cloud
+flock
+million
+nut
+super
+august |  
+| bip_39_word_new_line2 | unlock
+palace |  
+| bip_39_word_new_line3 | unlock
+palace
+vast |  
+| bip_39_word_new_line4 | unlock
+palace
+vast
+text |  
+| bip_39_word_new_line5 | unlock
+palace
+vast
+text
+danger |  
+| bip_39_word_new_line6 | unlock
+palace
+vast
+text
+danger
+myth |  
+| bip_39_word_new_line7 | unlock
+palace
+vast
+text
+danger
+myth
+cloud |  
+| bip_39_word_new_line8 | unlock
+palace
+vast
+text
+danger
+myth
+cloud
+flock |  
+| bip_39_word_new_line9 | unlock
+palace
+vast
+text
+danger
+myth
+cloud
+flock
+million |  
+| bip_39_word_space_0 | ['unlock', 'palace', 'vast', 'text', 'danger', 'myth', 'cloud', 'flock', 'million', 'nut', 'super', 'august'] |  
+| bip_39_word_space_1 | unlock |  
+| bip_39_word_space_10 | unlock palace vast text danger myth cloud flock million nut |  
+| bip_39_word_space_11 | unlock palace vast text danger myth cloud flock million nut super |  
+| bip_39_word_space_12 | unlock palace vast text danger myth cloud flock million nut super august |  
+| bip_39_word_space_2 | unlock palace |  
+| bip_39_word_space_3 | unlock palace vast |  
+| bip_39_word_space_4 | unlock palace vast text |  
+| bip_39_word_space_5 | unlock palace vast text danger |  
+| bip_39_word_space_6 | unlock palace vast text danger myth |  
+| bip_39_word_space_7 | unlock palace vast text danger myth cloud |  
+| bip_39_word_space_8 | unlock palace vast text danger myth cloud flock |  
+| bip_39_word_space_9 | unlock palace vast text danger myth cloud flock million |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

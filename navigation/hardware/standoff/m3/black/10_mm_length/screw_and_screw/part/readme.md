@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: celery toilet
+  * bip 39 word 3: celery toilet photo
+  * bip 39 word: celery toilet photo cup reform spare nut ride mean cushion kidney able
 
 ### other_codes
 * short_code: so3b10ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | celery |  
+| bip_39_word_new_br10 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare<br>nut<br>ride<br>mean<br>cushion |  
+| bip_39_word_new_br11 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare<br>nut<br>ride<br>mean<br>cushion<br>kidney |  
+| bip_39_word_new_br12 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare<br>nut<br>ride<br>mean<br>cushion<br>kidney<br>able |  
+| bip_39_word_new_br2 | celery<br>toilet |  
+| bip_39_word_new_br3 | celery<br>toilet<br>photo |  
+| bip_39_word_new_br4 | celery<br>toilet<br>photo<br>cup |  
+| bip_39_word_new_br5 | celery<br>toilet<br>photo<br>cup<br>reform |  
+| bip_39_word_new_br6 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare |  
+| bip_39_word_new_br7 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare<br>nut |  
+| bip_39_word_new_br8 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare<br>nut<br>ride |  
+| bip_39_word_new_br9 | celery<br>toilet<br>photo<br>cup<br>reform<br>spare<br>nut<br>ride<br>mean |  
+| bip_39_word_new_line1 | celery |  
+| bip_39_word_new_line10 | celery
+toilet
+photo
+cup
+reform
+spare
+nut
+ride
+mean
+cushion |  
+| bip_39_word_new_line11 | celery
+toilet
+photo
+cup
+reform
+spare
+nut
+ride
+mean
+cushion
+kidney |  
+| bip_39_word_new_line12 | celery
+toilet
+photo
+cup
+reform
+spare
+nut
+ride
+mean
+cushion
+kidney
+able |  
+| bip_39_word_new_line2 | celery
+toilet |  
+| bip_39_word_new_line3 | celery
+toilet
+photo |  
+| bip_39_word_new_line4 | celery
+toilet
+photo
+cup |  
+| bip_39_word_new_line5 | celery
+toilet
+photo
+cup
+reform |  
+| bip_39_word_new_line6 | celery
+toilet
+photo
+cup
+reform
+spare |  
+| bip_39_word_new_line7 | celery
+toilet
+photo
+cup
+reform
+spare
+nut |  
+| bip_39_word_new_line8 | celery
+toilet
+photo
+cup
+reform
+spare
+nut
+ride |  
+| bip_39_word_new_line9 | celery
+toilet
+photo
+cup
+reform
+spare
+nut
+ride
+mean |  
+| bip_39_word_space_0 | ['celery', 'toilet', 'photo', 'cup', 'reform', 'spare', 'nut', 'ride', 'mean', 'cushion', 'kidney', 'able'] |  
+| bip_39_word_space_1 | celery |  
+| bip_39_word_space_10 | celery toilet photo cup reform spare nut ride mean cushion |  
+| bip_39_word_space_11 | celery toilet photo cup reform spare nut ride mean cushion kidney |  
+| bip_39_word_space_12 | celery toilet photo cup reform spare nut ride mean cushion kidney able |  
+| bip_39_word_space_2 | celery toilet |  
+| bip_39_word_space_3 | celery toilet photo |  
+| bip_39_word_space_4 | celery toilet photo cup |  
+| bip_39_word_space_5 | celery toilet photo cup reform |  
+| bip_39_word_space_6 | celery toilet photo cup reform spare |  
+| bip_39_word_space_7 | celery toilet photo cup reform spare nut |  
+| bip_39_word_space_8 | celery toilet photo cup reform spare nut ride |  
+| bip_39_word_space_9 | celery toilet photo cup reform spare nut ride mean |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

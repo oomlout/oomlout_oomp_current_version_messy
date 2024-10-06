@@ -1,3 +1,186 @@
+bip_39_word_new_br1: witness
+bip_39_word_new_br10: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry<br>spoon<br>usual<br>ski<br>mountain
+bip_39_word_new_br11: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry<br>spoon<br>usual<br>ski<br>mountain<br>march
+bip_39_word_new_br12: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry<br>spoon<br>usual<br>ski<br>mountain<br>march<br>approve
+bip_39_word_new_br2: witness<br>leader
+bip_39_word_new_br3: witness<br>leader<br>above
+bip_39_word_new_br4: witness<br>leader<br>above<br>adapt
+bip_39_word_new_br5: witness<br>leader<br>above<br>adapt<br>tomato
+bip_39_word_new_br6: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry
+bip_39_word_new_br7: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry<br>spoon
+bip_39_word_new_br8: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry<br>spoon<br>usual
+bip_39_word_new_br9: witness<br>leader<br>above<br>adapt<br>tomato<br>sorry<br>spoon<br>usual<br>ski
+bip_39_word_new_line1: witness
+bip_39_word_new_line10: 'witness
+
+  leader
+
+  above
+
+  adapt
+
+  tomato
+
+  sorry
+
+  spoon
+
+  usual
+
+  ski
+
+  mountain'
+bip_39_word_new_line11: 'witness
+
+  leader
+
+  above
+
+  adapt
+
+  tomato
+
+  sorry
+
+  spoon
+
+  usual
+
+  ski
+
+  mountain
+
+  march'
+bip_39_word_new_line12: 'witness
+
+  leader
+
+  above
+
+  adapt
+
+  tomato
+
+  sorry
+
+  spoon
+
+  usual
+
+  ski
+
+  mountain
+
+  march
+
+  approve'
+bip_39_word_new_line2: 'witness
+
+  leader'
+bip_39_word_new_line3: 'witness
+
+  leader
+
+  above'
+bip_39_word_new_line4: 'witness
+
+  leader
+
+  above
+
+  adapt'
+bip_39_word_new_line5: 'witness
+
+  leader
+
+  above
+
+  adapt
+
+  tomato'
+bip_39_word_new_line6: 'witness
+
+  leader
+
+  above
+
+  adapt
+
+  tomato
+
+  sorry'
+bip_39_word_new_line7: 'witness
+
+  leader
+
+  above
+
+  adapt
+
+  tomato
+
+  sorry
+
+  spoon'
+bip_39_word_new_line8: 'witness
+
+  leader
+
+  above
+
+  adapt
+
+  tomato
+
+  sorry
+
+  spoon
+
+  usual'
+bip_39_word_new_line9: 'witness
+
+  leader
+
+  above
+
+  adapt
+
+  tomato
+
+  sorry
+
+  spoon
+
+  usual
+
+  ski'
+bip_39_word_space_0:
+- witness
+- leader
+- above
+- adapt
+- tomato
+- sorry
+- spoon
+- usual
+- ski
+- mountain
+- march
+- approve
+bip_39_word_space_1: witness
+bip_39_word_space_10: witness leader above adapt tomato sorry spoon usual ski mountain
+bip_39_word_space_11: witness leader above adapt tomato sorry spoon usual ski mountain
+  march
+bip_39_word_space_12: witness leader above adapt tomato sorry spoon usual ski mountain
+  march approve
+bip_39_word_space_2: witness leader
+bip_39_word_space_3: witness leader above
+bip_39_word_space_4: witness leader above adapt
+bip_39_word_space_5: witness leader above adapt tomato
+bip_39_word_space_6: witness leader above adapt tomato sorry
+bip_39_word_space_7: witness leader above adapt tomato sorry spoon
+bip_39_word_space_8: witness leader above adapt tomato sorry spoon usual
+bip_39_word_space_9: witness leader above adapt tomato sorry spoon usual ski
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

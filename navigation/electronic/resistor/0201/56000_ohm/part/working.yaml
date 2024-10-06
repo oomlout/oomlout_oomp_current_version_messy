@@ -1,3 +1,186 @@
+bip_39_word_new_br1: jaguar
+bip_39_word_new_br10: jaguar<br>next<br>shadow<br>spoil<br>vicious<br>shallow<br>churn<br>warm<br>hunt<br>amused
+bip_39_word_new_br11: jaguar<br>next<br>shadow<br>spoil<br>vicious<br>shallow<br>churn<br>warm<br>hunt<br>amused<br>great
+bip_39_word_new_br12: jaguar<br>next<br>shadow<br>spoil<br>vicious<br>shallow<br>churn<br>warm<br>hunt<br>amused<br>great<br>allow
+bip_39_word_new_br2: jaguar<br>next
+bip_39_word_new_br3: jaguar<br>next<br>shadow
+bip_39_word_new_br4: jaguar<br>next<br>shadow<br>spoil
+bip_39_word_new_br5: jaguar<br>next<br>shadow<br>spoil<br>vicious
+bip_39_word_new_br6: jaguar<br>next<br>shadow<br>spoil<br>vicious<br>shallow
+bip_39_word_new_br7: jaguar<br>next<br>shadow<br>spoil<br>vicious<br>shallow<br>churn
+bip_39_word_new_br8: jaguar<br>next<br>shadow<br>spoil<br>vicious<br>shallow<br>churn<br>warm
+bip_39_word_new_br9: jaguar<br>next<br>shadow<br>spoil<br>vicious<br>shallow<br>churn<br>warm<br>hunt
+bip_39_word_new_line1: jaguar
+bip_39_word_new_line10: 'jaguar
+
+  next
+
+  shadow
+
+  spoil
+
+  vicious
+
+  shallow
+
+  churn
+
+  warm
+
+  hunt
+
+  amused'
+bip_39_word_new_line11: 'jaguar
+
+  next
+
+  shadow
+
+  spoil
+
+  vicious
+
+  shallow
+
+  churn
+
+  warm
+
+  hunt
+
+  amused
+
+  great'
+bip_39_word_new_line12: 'jaguar
+
+  next
+
+  shadow
+
+  spoil
+
+  vicious
+
+  shallow
+
+  churn
+
+  warm
+
+  hunt
+
+  amused
+
+  great
+
+  allow'
+bip_39_word_new_line2: 'jaguar
+
+  next'
+bip_39_word_new_line3: 'jaguar
+
+  next
+
+  shadow'
+bip_39_word_new_line4: 'jaguar
+
+  next
+
+  shadow
+
+  spoil'
+bip_39_word_new_line5: 'jaguar
+
+  next
+
+  shadow
+
+  spoil
+
+  vicious'
+bip_39_word_new_line6: 'jaguar
+
+  next
+
+  shadow
+
+  spoil
+
+  vicious
+
+  shallow'
+bip_39_word_new_line7: 'jaguar
+
+  next
+
+  shadow
+
+  spoil
+
+  vicious
+
+  shallow
+
+  churn'
+bip_39_word_new_line8: 'jaguar
+
+  next
+
+  shadow
+
+  spoil
+
+  vicious
+
+  shallow
+
+  churn
+
+  warm'
+bip_39_word_new_line9: 'jaguar
+
+  next
+
+  shadow
+
+  spoil
+
+  vicious
+
+  shallow
+
+  churn
+
+  warm
+
+  hunt'
+bip_39_word_space_0:
+- jaguar
+- next
+- shadow
+- spoil
+- vicious
+- shallow
+- churn
+- warm
+- hunt
+- amused
+- great
+- allow
+bip_39_word_space_1: jaguar
+bip_39_word_space_10: jaguar next shadow spoil vicious shallow churn warm hunt amused
+bip_39_word_space_11: jaguar next shadow spoil vicious shallow churn warm hunt amused
+  great
+bip_39_word_space_12: jaguar next shadow spoil vicious shallow churn warm hunt amused
+  great allow
+bip_39_word_space_2: jaguar next
+bip_39_word_space_3: jaguar next shadow
+bip_39_word_space_4: jaguar next shadow spoil
+bip_39_word_space_5: jaguar next shadow spoil vicious
+bip_39_word_space_6: jaguar next shadow spoil vicious shallow
+bip_39_word_space_7: jaguar next shadow spoil vicious shallow churn
+bip_39_word_space_8: jaguar next shadow spoil vicious shallow churn warm
+bip_39_word_space_9: jaguar next shadow spoil vicious shallow churn warm hunt
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

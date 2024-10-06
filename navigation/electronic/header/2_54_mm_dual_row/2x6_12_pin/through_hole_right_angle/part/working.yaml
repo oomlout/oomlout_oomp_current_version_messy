@@ -1,3 +1,187 @@
+bip_39_word_new_br1: husband
+bip_39_word_new_br10: husband<br>shoulder<br>vicious<br>message<br>day<br>quiz<br>beach<br>during<br>siege<br>width
+bip_39_word_new_br11: husband<br>shoulder<br>vicious<br>message<br>day<br>quiz<br>beach<br>during<br>siege<br>width<br>fitness
+bip_39_word_new_br12: husband<br>shoulder<br>vicious<br>message<br>day<br>quiz<br>beach<br>during<br>siege<br>width<br>fitness<br>arrive
+bip_39_word_new_br2: husband<br>shoulder
+bip_39_word_new_br3: husband<br>shoulder<br>vicious
+bip_39_word_new_br4: husband<br>shoulder<br>vicious<br>message
+bip_39_word_new_br5: husband<br>shoulder<br>vicious<br>message<br>day
+bip_39_word_new_br6: husband<br>shoulder<br>vicious<br>message<br>day<br>quiz
+bip_39_word_new_br7: husband<br>shoulder<br>vicious<br>message<br>day<br>quiz<br>beach
+bip_39_word_new_br8: husband<br>shoulder<br>vicious<br>message<br>day<br>quiz<br>beach<br>during
+bip_39_word_new_br9: husband<br>shoulder<br>vicious<br>message<br>day<br>quiz<br>beach<br>during<br>siege
+bip_39_word_new_line1: husband
+bip_39_word_new_line10: 'husband
+
+  shoulder
+
+  vicious
+
+  message
+
+  day
+
+  quiz
+
+  beach
+
+  during
+
+  siege
+
+  width'
+bip_39_word_new_line11: 'husband
+
+  shoulder
+
+  vicious
+
+  message
+
+  day
+
+  quiz
+
+  beach
+
+  during
+
+  siege
+
+  width
+
+  fitness'
+bip_39_word_new_line12: 'husband
+
+  shoulder
+
+  vicious
+
+  message
+
+  day
+
+  quiz
+
+  beach
+
+  during
+
+  siege
+
+  width
+
+  fitness
+
+  arrive'
+bip_39_word_new_line2: 'husband
+
+  shoulder'
+bip_39_word_new_line3: 'husband
+
+  shoulder
+
+  vicious'
+bip_39_word_new_line4: 'husband
+
+  shoulder
+
+  vicious
+
+  message'
+bip_39_word_new_line5: 'husband
+
+  shoulder
+
+  vicious
+
+  message
+
+  day'
+bip_39_word_new_line6: 'husband
+
+  shoulder
+
+  vicious
+
+  message
+
+  day
+
+  quiz'
+bip_39_word_new_line7: 'husband
+
+  shoulder
+
+  vicious
+
+  message
+
+  day
+
+  quiz
+
+  beach'
+bip_39_word_new_line8: 'husband
+
+  shoulder
+
+  vicious
+
+  message
+
+  day
+
+  quiz
+
+  beach
+
+  during'
+bip_39_word_new_line9: 'husband
+
+  shoulder
+
+  vicious
+
+  message
+
+  day
+
+  quiz
+
+  beach
+
+  during
+
+  siege'
+bip_39_word_space_0:
+- husband
+- shoulder
+- vicious
+- message
+- day
+- quiz
+- beach
+- during
+- siege
+- width
+- fitness
+- arrive
+bip_39_word_space_1: husband
+bip_39_word_space_10: husband shoulder vicious message day quiz beach during siege
+  width
+bip_39_word_space_11: husband shoulder vicious message day quiz beach during siege
+  width fitness
+bip_39_word_space_12: husband shoulder vicious message day quiz beach during siege
+  width fitness arrive
+bip_39_word_space_2: husband shoulder
+bip_39_word_space_3: husband shoulder vicious
+bip_39_word_space_4: husband shoulder vicious message
+bip_39_word_space_5: husband shoulder vicious message day
+bip_39_word_space_6: husband shoulder vicious message day quiz
+bip_39_word_space_7: husband shoulder vicious message day quiz beach
+bip_39_word_space_8: husband shoulder vicious message day quiz beach during
+bip_39_word_space_9: husband shoulder vicious message day quiz beach during siege
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: valley hybrid
+  * bip 39 word 3: valley hybrid draft
+  * bip 39 word: valley hybrid draft engine bird horn course label belt lyrics omit aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | valley |  
+| bip_39_word_new_br10 | valley<br>hybrid<br>draft<br>engine<br>bird<br>horn<br>course<br>label<br>belt<br>lyrics |  
+| bip_39_word_new_br11 | valley<br>hybrid<br>draft<br>engine<br>bird<br>horn<br>course<br>label<br>belt<br>lyrics<br>omit |  
+| bip_39_word_new_br12 | valley<br>hybrid<br>draft<br>engine<br>bird<br>horn<br>course<br>label<br>belt<br>lyrics<br>omit<br>aerobic |  
+| bip_39_word_new_br2 | valley<br>hybrid |  
+| bip_39_word_new_br3 | valley<br>hybrid<br>draft |  
+| bip_39_word_new_br4 | valley<br>hybrid<br>draft<br>engine |  
+| bip_39_word_new_br5 | valley<br>hybrid<br>draft<br>engine<br>bird |  
+| bip_39_word_new_br6 | valley<br>hybrid<br>draft<br>engine<br>bird<br>horn |  
+| bip_39_word_new_br7 | valley<br>hybrid<br>draft<br>engine<br>bird<br>horn<br>course |  
+| bip_39_word_new_br8 | valley<br>hybrid<br>draft<br>engine<br>bird<br>horn<br>course<br>label |  
+| bip_39_word_new_br9 | valley<br>hybrid<br>draft<br>engine<br>bird<br>horn<br>course<br>label<br>belt |  
+| bip_39_word_new_line1 | valley |  
+| bip_39_word_new_line10 | valley
+hybrid
+draft
+engine
+bird
+horn
+course
+label
+belt
+lyrics |  
+| bip_39_word_new_line11 | valley
+hybrid
+draft
+engine
+bird
+horn
+course
+label
+belt
+lyrics
+omit |  
+| bip_39_word_new_line12 | valley
+hybrid
+draft
+engine
+bird
+horn
+course
+label
+belt
+lyrics
+omit
+aerobic |  
+| bip_39_word_new_line2 | valley
+hybrid |  
+| bip_39_word_new_line3 | valley
+hybrid
+draft |  
+| bip_39_word_new_line4 | valley
+hybrid
+draft
+engine |  
+| bip_39_word_new_line5 | valley
+hybrid
+draft
+engine
+bird |  
+| bip_39_word_new_line6 | valley
+hybrid
+draft
+engine
+bird
+horn |  
+| bip_39_word_new_line7 | valley
+hybrid
+draft
+engine
+bird
+horn
+course |  
+| bip_39_word_new_line8 | valley
+hybrid
+draft
+engine
+bird
+horn
+course
+label |  
+| bip_39_word_new_line9 | valley
+hybrid
+draft
+engine
+bird
+horn
+course
+label
+belt |  
+| bip_39_word_space_0 | ['valley', 'hybrid', 'draft', 'engine', 'bird', 'horn', 'course', 'label', 'belt', 'lyrics', 'omit', 'aerobic'] |  
+| bip_39_word_space_1 | valley |  
+| bip_39_word_space_10 | valley hybrid draft engine bird horn course label belt lyrics |  
+| bip_39_word_space_11 | valley hybrid draft engine bird horn course label belt lyrics omit |  
+| bip_39_word_space_12 | valley hybrid draft engine bird horn course label belt lyrics omit aerobic |  
+| bip_39_word_space_2 | valley hybrid |  
+| bip_39_word_space_3 | valley hybrid draft |  
+| bip_39_word_space_4 | valley hybrid draft engine |  
+| bip_39_word_space_5 | valley hybrid draft engine bird |  
+| bip_39_word_space_6 | valley hybrid draft engine bird horn |  
+| bip_39_word_space_7 | valley hybrid draft engine bird horn course |  
+| bip_39_word_space_8 | valley hybrid draft engine bird horn course label |  
+| bip_39_word_space_9 | valley hybrid draft engine bird horn course label belt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

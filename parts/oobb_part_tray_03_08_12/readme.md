@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lecture dial
+  * bip 39 word 3: lecture dial card
+  * bip 39 word: lecture dial card boy staff venue decline lecture install hen curious attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lecture |  
+| bip_39_word_new_br10 | lecture<br>dial<br>card<br>boy<br>staff<br>venue<br>decline<br>lecture<br>install<br>hen |  
+| bip_39_word_new_br11 | lecture<br>dial<br>card<br>boy<br>staff<br>venue<br>decline<br>lecture<br>install<br>hen<br>curious |  
+| bip_39_word_new_br12 | lecture<br>dial<br>card<br>boy<br>staff<br>venue<br>decline<br>lecture<br>install<br>hen<br>curious<br>attitude |  
+| bip_39_word_new_br2 | lecture<br>dial |  
+| bip_39_word_new_br3 | lecture<br>dial<br>card |  
+| bip_39_word_new_br4 | lecture<br>dial<br>card<br>boy |  
+| bip_39_word_new_br5 | lecture<br>dial<br>card<br>boy<br>staff |  
+| bip_39_word_new_br6 | lecture<br>dial<br>card<br>boy<br>staff<br>venue |  
+| bip_39_word_new_br7 | lecture<br>dial<br>card<br>boy<br>staff<br>venue<br>decline |  
+| bip_39_word_new_br8 | lecture<br>dial<br>card<br>boy<br>staff<br>venue<br>decline<br>lecture |  
+| bip_39_word_new_br9 | lecture<br>dial<br>card<br>boy<br>staff<br>venue<br>decline<br>lecture<br>install |  
+| bip_39_word_new_line1 | lecture |  
+| bip_39_word_new_line10 | lecture
+dial
+card
+boy
+staff
+venue
+decline
+lecture
+install
+hen |  
+| bip_39_word_new_line11 | lecture
+dial
+card
+boy
+staff
+venue
+decline
+lecture
+install
+hen
+curious |  
+| bip_39_word_new_line12 | lecture
+dial
+card
+boy
+staff
+venue
+decline
+lecture
+install
+hen
+curious
+attitude |  
+| bip_39_word_new_line2 | lecture
+dial |  
+| bip_39_word_new_line3 | lecture
+dial
+card |  
+| bip_39_word_new_line4 | lecture
+dial
+card
+boy |  
+| bip_39_word_new_line5 | lecture
+dial
+card
+boy
+staff |  
+| bip_39_word_new_line6 | lecture
+dial
+card
+boy
+staff
+venue |  
+| bip_39_word_new_line7 | lecture
+dial
+card
+boy
+staff
+venue
+decline |  
+| bip_39_word_new_line8 | lecture
+dial
+card
+boy
+staff
+venue
+decline
+lecture |  
+| bip_39_word_new_line9 | lecture
+dial
+card
+boy
+staff
+venue
+decline
+lecture
+install |  
+| bip_39_word_space_0 | ['lecture', 'dial', 'card', 'boy', 'staff', 'venue', 'decline', 'lecture', 'install', 'hen', 'curious', 'attitude'] |  
+| bip_39_word_space_1 | lecture |  
+| bip_39_word_space_10 | lecture dial card boy staff venue decline lecture install hen |  
+| bip_39_word_space_11 | lecture dial card boy staff venue decline lecture install hen curious |  
+| bip_39_word_space_12 | lecture dial card boy staff venue decline lecture install hen curious attitude |  
+| bip_39_word_space_2 | lecture dial |  
+| bip_39_word_space_3 | lecture dial card |  
+| bip_39_word_space_4 | lecture dial card boy |  
+| bip_39_word_space_5 | lecture dial card boy staff |  
+| bip_39_word_space_6 | lecture dial card boy staff venue |  
+| bip_39_word_space_7 | lecture dial card boy staff venue decline |  
+| bip_39_word_space_8 | lecture dial card boy staff venue decline lecture |  
+| bip_39_word_space_9 | lecture dial card boy staff venue decline lecture install |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: diet
+bip_39_word_new_br10: diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot
+bip_39_word_new_br11: diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot<br>vehicle
+bip_39_word_new_br12: diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm<br>riot<br>vehicle<br>alter
+bip_39_word_new_br2: diet<br>life
+bip_39_word_new_br3: diet<br>life<br>inner
+bip_39_word_new_br4: diet<br>life<br>inner<br>noodle
+bip_39_word_new_br5: diet<br>life<br>inner<br>noodle<br>rude
+bip_39_word_new_br6: diet<br>life<br>inner<br>noodle<br>rude<br>coyote
+bip_39_word_new_br7: diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil
+bip_39_word_new_br8: diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn
+bip_39_word_new_br9: diet<br>life<br>inner<br>noodle<br>rude<br>coyote<br>oil<br>horn<br>calm
+bip_39_word_new_line1: diet
+bip_39_word_new_line10: 'diet
+
+  life
+
+  inner
+
+  noodle
+
+  rude
+
+  coyote
+
+  oil
+
+  horn
+
+  calm
+
+  riot'
+bip_39_word_new_line11: 'diet
+
+  life
+
+  inner
+
+  noodle
+
+  rude
+
+  coyote
+
+  oil
+
+  horn
+
+  calm
+
+  riot
+
+  vehicle'
+bip_39_word_new_line12: 'diet
+
+  life
+
+  inner
+
+  noodle
+
+  rude
+
+  coyote
+
+  oil
+
+  horn
+
+  calm
+
+  riot
+
+  vehicle
+
+  alter'
+bip_39_word_new_line2: 'diet
+
+  life'
+bip_39_word_new_line3: 'diet
+
+  life
+
+  inner'
+bip_39_word_new_line4: 'diet
+
+  life
+
+  inner
+
+  noodle'
+bip_39_word_new_line5: 'diet
+
+  life
+
+  inner
+
+  noodle
+
+  rude'
+bip_39_word_new_line6: 'diet
+
+  life
+
+  inner
+
+  noodle
+
+  rude
+
+  coyote'
+bip_39_word_new_line7: 'diet
+
+  life
+
+  inner
+
+  noodle
+
+  rude
+
+  coyote
+
+  oil'
+bip_39_word_new_line8: 'diet
+
+  life
+
+  inner
+
+  noodle
+
+  rude
+
+  coyote
+
+  oil
+
+  horn'
+bip_39_word_new_line9: 'diet
+
+  life
+
+  inner
+
+  noodle
+
+  rude
+
+  coyote
+
+  oil
+
+  horn
+
+  calm'
+bip_39_word_space_0:
+- diet
+- life
+- inner
+- noodle
+- rude
+- coyote
+- oil
+- horn
+- calm
+- riot
+- vehicle
+- alter
+bip_39_word_space_1: diet
+bip_39_word_space_10: diet life inner noodle rude coyote oil horn calm riot
+bip_39_word_space_11: diet life inner noodle rude coyote oil horn calm riot vehicle
+bip_39_word_space_12: diet life inner noodle rude coyote oil horn calm riot vehicle
+  alter
+bip_39_word_space_2: diet life
+bip_39_word_space_3: diet life inner
+bip_39_word_space_4: diet life inner noodle
+bip_39_word_space_5: diet life inner noodle rude
+bip_39_word_space_6: diet life inner noodle rude coyote
+bip_39_word_space_7: diet life inner noodle rude coyote oil
+bip_39_word_space_8: diet life inner noodle rude coyote oil horn
+bip_39_word_space_9: diet life inner noodle rude coyote oil horn calm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

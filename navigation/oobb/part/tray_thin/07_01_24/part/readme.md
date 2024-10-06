@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frog legend
+  * bip 39 word 3: frog legend monitor
+  * bip 39 word: frog legend monitor benefit attack pipe tray kit little boy amazing attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frog |  
+| bip_39_word_new_br10 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe<br>tray<br>kit<br>little<br>boy |  
+| bip_39_word_new_br11 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe<br>tray<br>kit<br>little<br>boy<br>amazing |  
+| bip_39_word_new_br12 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe<br>tray<br>kit<br>little<br>boy<br>amazing<br>attitude |  
+| bip_39_word_new_br2 | frog<br>legend |  
+| bip_39_word_new_br3 | frog<br>legend<br>monitor |  
+| bip_39_word_new_br4 | frog<br>legend<br>monitor<br>benefit |  
+| bip_39_word_new_br5 | frog<br>legend<br>monitor<br>benefit<br>attack |  
+| bip_39_word_new_br6 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe |  
+| bip_39_word_new_br7 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe<br>tray |  
+| bip_39_word_new_br8 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe<br>tray<br>kit |  
+| bip_39_word_new_br9 | frog<br>legend<br>monitor<br>benefit<br>attack<br>pipe<br>tray<br>kit<br>little |  
+| bip_39_word_new_line1 | frog |  
+| bip_39_word_new_line10 | frog
+legend
+monitor
+benefit
+attack
+pipe
+tray
+kit
+little
+boy |  
+| bip_39_word_new_line11 | frog
+legend
+monitor
+benefit
+attack
+pipe
+tray
+kit
+little
+boy
+amazing |  
+| bip_39_word_new_line12 | frog
+legend
+monitor
+benefit
+attack
+pipe
+tray
+kit
+little
+boy
+amazing
+attitude |  
+| bip_39_word_new_line2 | frog
+legend |  
+| bip_39_word_new_line3 | frog
+legend
+monitor |  
+| bip_39_word_new_line4 | frog
+legend
+monitor
+benefit |  
+| bip_39_word_new_line5 | frog
+legend
+monitor
+benefit
+attack |  
+| bip_39_word_new_line6 | frog
+legend
+monitor
+benefit
+attack
+pipe |  
+| bip_39_word_new_line7 | frog
+legend
+monitor
+benefit
+attack
+pipe
+tray |  
+| bip_39_word_new_line8 | frog
+legend
+monitor
+benefit
+attack
+pipe
+tray
+kit |  
+| bip_39_word_new_line9 | frog
+legend
+monitor
+benefit
+attack
+pipe
+tray
+kit
+little |  
+| bip_39_word_space_0 | ['frog', 'legend', 'monitor', 'benefit', 'attack', 'pipe', 'tray', 'kit', 'little', 'boy', 'amazing', 'attitude'] |  
+| bip_39_word_space_1 | frog |  
+| bip_39_word_space_10 | frog legend monitor benefit attack pipe tray kit little boy |  
+| bip_39_word_space_11 | frog legend monitor benefit attack pipe tray kit little boy amazing |  
+| bip_39_word_space_12 | frog legend monitor benefit attack pipe tray kit little boy amazing attitude |  
+| bip_39_word_space_2 | frog legend |  
+| bip_39_word_space_3 | frog legend monitor |  
+| bip_39_word_space_4 | frog legend monitor benefit |  
+| bip_39_word_space_5 | frog legend monitor benefit attack |  
+| bip_39_word_space_6 | frog legend monitor benefit attack pipe |  
+| bip_39_word_space_7 | frog legend monitor benefit attack pipe tray |  
+| bip_39_word_space_8 | frog legend monitor benefit attack pipe tray kit |  
+| bip_39_word_space_9 | frog legend monitor benefit attack pipe tray kit little |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

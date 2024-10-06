@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: patch spike
+  * bip 39 word 3: patch spike share
+  * bip 39 word: patch spike share ordinary oxygen kid swarm behave fortune home one album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | patch |  
+| bip_39_word_new_br10 | patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid<br>swarm<br>behave<br>fortune<br>home |  
+| bip_39_word_new_br11 | patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid<br>swarm<br>behave<br>fortune<br>home<br>one |  
+| bip_39_word_new_br12 | patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid<br>swarm<br>behave<br>fortune<br>home<br>one<br>album |  
+| bip_39_word_new_br2 | patch<br>spike |  
+| bip_39_word_new_br3 | patch<br>spike<br>share |  
+| bip_39_word_new_br4 | patch<br>spike<br>share<br>ordinary |  
+| bip_39_word_new_br5 | patch<br>spike<br>share<br>ordinary<br>oxygen |  
+| bip_39_word_new_br6 | patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid |  
+| bip_39_word_new_br7 | patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid<br>swarm |  
+| bip_39_word_new_br8 | patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid<br>swarm<br>behave |  
+| bip_39_word_new_br9 | patch<br>spike<br>share<br>ordinary<br>oxygen<br>kid<br>swarm<br>behave<br>fortune |  
+| bip_39_word_new_line1 | patch |  
+| bip_39_word_new_line10 | patch
+spike
+share
+ordinary
+oxygen
+kid
+swarm
+behave
+fortune
+home |  
+| bip_39_word_new_line11 | patch
+spike
+share
+ordinary
+oxygen
+kid
+swarm
+behave
+fortune
+home
+one |  
+| bip_39_word_new_line12 | patch
+spike
+share
+ordinary
+oxygen
+kid
+swarm
+behave
+fortune
+home
+one
+album |  
+| bip_39_word_new_line2 | patch
+spike |  
+| bip_39_word_new_line3 | patch
+spike
+share |  
+| bip_39_word_new_line4 | patch
+spike
+share
+ordinary |  
+| bip_39_word_new_line5 | patch
+spike
+share
+ordinary
+oxygen |  
+| bip_39_word_new_line6 | patch
+spike
+share
+ordinary
+oxygen
+kid |  
+| bip_39_word_new_line7 | patch
+spike
+share
+ordinary
+oxygen
+kid
+swarm |  
+| bip_39_word_new_line8 | patch
+spike
+share
+ordinary
+oxygen
+kid
+swarm
+behave |  
+| bip_39_word_new_line9 | patch
+spike
+share
+ordinary
+oxygen
+kid
+swarm
+behave
+fortune |  
+| bip_39_word_space_0 | ['patch', 'spike', 'share', 'ordinary', 'oxygen', 'kid', 'swarm', 'behave', 'fortune', 'home', 'one', 'album'] |  
+| bip_39_word_space_1 | patch |  
+| bip_39_word_space_10 | patch spike share ordinary oxygen kid swarm behave fortune home |  
+| bip_39_word_space_11 | patch spike share ordinary oxygen kid swarm behave fortune home one |  
+| bip_39_word_space_12 | patch spike share ordinary oxygen kid swarm behave fortune home one album |  
+| bip_39_word_space_2 | patch spike |  
+| bip_39_word_space_3 | patch spike share |  
+| bip_39_word_space_4 | patch spike share ordinary |  
+| bip_39_word_space_5 | patch spike share ordinary oxygen |  
+| bip_39_word_space_6 | patch spike share ordinary oxygen kid |  
+| bip_39_word_space_7 | patch spike share ordinary oxygen kid swarm |  
+| bip_39_word_space_8 | patch spike share ordinary oxygen kid swarm behave |  
+| bip_39_word_space_9 | patch spike share ordinary oxygen kid swarm behave fortune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

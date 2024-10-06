@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mom cake
+  * bip 39 word 3: mom cake photo
+  * bip 39 word: mom cake photo cousin clay together spider maximum word ship damage alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mom |  
+| bip_39_word_new_br10 | mom<br>cake<br>photo<br>cousin<br>clay<br>together<br>spider<br>maximum<br>word<br>ship |  
+| bip_39_word_new_br11 | mom<br>cake<br>photo<br>cousin<br>clay<br>together<br>spider<br>maximum<br>word<br>ship<br>damage |  
+| bip_39_word_new_br12 | mom<br>cake<br>photo<br>cousin<br>clay<br>together<br>spider<br>maximum<br>word<br>ship<br>damage<br>alcohol |  
+| bip_39_word_new_br2 | mom<br>cake |  
+| bip_39_word_new_br3 | mom<br>cake<br>photo |  
+| bip_39_word_new_br4 | mom<br>cake<br>photo<br>cousin |  
+| bip_39_word_new_br5 | mom<br>cake<br>photo<br>cousin<br>clay |  
+| bip_39_word_new_br6 | mom<br>cake<br>photo<br>cousin<br>clay<br>together |  
+| bip_39_word_new_br7 | mom<br>cake<br>photo<br>cousin<br>clay<br>together<br>spider |  
+| bip_39_word_new_br8 | mom<br>cake<br>photo<br>cousin<br>clay<br>together<br>spider<br>maximum |  
+| bip_39_word_new_br9 | mom<br>cake<br>photo<br>cousin<br>clay<br>together<br>spider<br>maximum<br>word |  
+| bip_39_word_new_line1 | mom |  
+| bip_39_word_new_line10 | mom
+cake
+photo
+cousin
+clay
+together
+spider
+maximum
+word
+ship |  
+| bip_39_word_new_line11 | mom
+cake
+photo
+cousin
+clay
+together
+spider
+maximum
+word
+ship
+damage |  
+| bip_39_word_new_line12 | mom
+cake
+photo
+cousin
+clay
+together
+spider
+maximum
+word
+ship
+damage
+alcohol |  
+| bip_39_word_new_line2 | mom
+cake |  
+| bip_39_word_new_line3 | mom
+cake
+photo |  
+| bip_39_word_new_line4 | mom
+cake
+photo
+cousin |  
+| bip_39_word_new_line5 | mom
+cake
+photo
+cousin
+clay |  
+| bip_39_word_new_line6 | mom
+cake
+photo
+cousin
+clay
+together |  
+| bip_39_word_new_line7 | mom
+cake
+photo
+cousin
+clay
+together
+spider |  
+| bip_39_word_new_line8 | mom
+cake
+photo
+cousin
+clay
+together
+spider
+maximum |  
+| bip_39_word_new_line9 | mom
+cake
+photo
+cousin
+clay
+together
+spider
+maximum
+word |  
+| bip_39_word_space_0 | ['mom', 'cake', 'photo', 'cousin', 'clay', 'together', 'spider', 'maximum', 'word', 'ship', 'damage', 'alcohol'] |  
+| bip_39_word_space_1 | mom |  
+| bip_39_word_space_10 | mom cake photo cousin clay together spider maximum word ship |  
+| bip_39_word_space_11 | mom cake photo cousin clay together spider maximum word ship damage |  
+| bip_39_word_space_12 | mom cake photo cousin clay together spider maximum word ship damage alcohol |  
+| bip_39_word_space_2 | mom cake |  
+| bip_39_word_space_3 | mom cake photo |  
+| bip_39_word_space_4 | mom cake photo cousin |  
+| bip_39_word_space_5 | mom cake photo cousin clay |  
+| bip_39_word_space_6 | mom cake photo cousin clay together |  
+| bip_39_word_space_7 | mom cake photo cousin clay together spider |  
+| bip_39_word_space_8 | mom cake photo cousin clay together spider maximum |  
+| bip_39_word_space_9 | mom cake photo cousin clay together spider maximum word |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

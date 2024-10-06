@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: march mimic
+  * bip 39 word 3: march mimic there
+  * bip 39 word: march mimic there apology leader cotton caution sea loan forward canoe anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | march |  
+| bip_39_word_new_br10 | march<br>mimic<br>there<br>apology<br>leader<br>cotton<br>caution<br>sea<br>loan<br>forward |  
+| bip_39_word_new_br11 | march<br>mimic<br>there<br>apology<br>leader<br>cotton<br>caution<br>sea<br>loan<br>forward<br>canoe |  
+| bip_39_word_new_br12 | march<br>mimic<br>there<br>apology<br>leader<br>cotton<br>caution<br>sea<br>loan<br>forward<br>canoe<br>anxiety |  
+| bip_39_word_new_br2 | march<br>mimic |  
+| bip_39_word_new_br3 | march<br>mimic<br>there |  
+| bip_39_word_new_br4 | march<br>mimic<br>there<br>apology |  
+| bip_39_word_new_br5 | march<br>mimic<br>there<br>apology<br>leader |  
+| bip_39_word_new_br6 | march<br>mimic<br>there<br>apology<br>leader<br>cotton |  
+| bip_39_word_new_br7 | march<br>mimic<br>there<br>apology<br>leader<br>cotton<br>caution |  
+| bip_39_word_new_br8 | march<br>mimic<br>there<br>apology<br>leader<br>cotton<br>caution<br>sea |  
+| bip_39_word_new_br9 | march<br>mimic<br>there<br>apology<br>leader<br>cotton<br>caution<br>sea<br>loan |  
+| bip_39_word_new_line1 | march |  
+| bip_39_word_new_line10 | march
+mimic
+there
+apology
+leader
+cotton
+caution
+sea
+loan
+forward |  
+| bip_39_word_new_line11 | march
+mimic
+there
+apology
+leader
+cotton
+caution
+sea
+loan
+forward
+canoe |  
+| bip_39_word_new_line12 | march
+mimic
+there
+apology
+leader
+cotton
+caution
+sea
+loan
+forward
+canoe
+anxiety |  
+| bip_39_word_new_line2 | march
+mimic |  
+| bip_39_word_new_line3 | march
+mimic
+there |  
+| bip_39_word_new_line4 | march
+mimic
+there
+apology |  
+| bip_39_word_new_line5 | march
+mimic
+there
+apology
+leader |  
+| bip_39_word_new_line6 | march
+mimic
+there
+apology
+leader
+cotton |  
+| bip_39_word_new_line7 | march
+mimic
+there
+apology
+leader
+cotton
+caution |  
+| bip_39_word_new_line8 | march
+mimic
+there
+apology
+leader
+cotton
+caution
+sea |  
+| bip_39_word_new_line9 | march
+mimic
+there
+apology
+leader
+cotton
+caution
+sea
+loan |  
+| bip_39_word_space_0 | ['march', 'mimic', 'there', 'apology', 'leader', 'cotton', 'caution', 'sea', 'loan', 'forward', 'canoe', 'anxiety'] |  
+| bip_39_word_space_1 | march |  
+| bip_39_word_space_10 | march mimic there apology leader cotton caution sea loan forward |  
+| bip_39_word_space_11 | march mimic there apology leader cotton caution sea loan forward canoe |  
+| bip_39_word_space_12 | march mimic there apology leader cotton caution sea loan forward canoe anxiety |  
+| bip_39_word_space_2 | march mimic |  
+| bip_39_word_space_3 | march mimic there |  
+| bip_39_word_space_4 | march mimic there apology |  
+| bip_39_word_space_5 | march mimic there apology leader |  
+| bip_39_word_space_6 | march mimic there apology leader cotton |  
+| bip_39_word_space_7 | march mimic there apology leader cotton caution |  
+| bip_39_word_space_8 | march mimic there apology leader cotton caution sea |  
+| bip_39_word_space_9 | march mimic there apology leader cotton caution sea loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: measure
+bip_39_word_new_br10: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon<br>deal<br>attract<br>chalk<br>spin
+bip_39_word_new_br11: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon<br>deal<br>attract<br>chalk<br>spin<br>split
+bip_39_word_new_br12: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon<br>deal<br>attract<br>chalk<br>spin<br>split<br>autumn
+bip_39_word_new_br2: measure<br>field
+bip_39_word_new_br3: measure<br>field<br>scale
+bip_39_word_new_br4: measure<br>field<br>scale<br>brother
+bip_39_word_new_br5: measure<br>field<br>scale<br>brother<br>stuff
+bip_39_word_new_br6: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon
+bip_39_word_new_br7: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon<br>deal
+bip_39_word_new_br8: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon<br>deal<br>attract
+bip_39_word_new_br9: measure<br>field<br>scale<br>brother<br>stuff<br>pigeon<br>deal<br>attract<br>chalk
+bip_39_word_new_line1: measure
+bip_39_word_new_line10: 'measure
+
+  field
+
+  scale
+
+  brother
+
+  stuff
+
+  pigeon
+
+  deal
+
+  attract
+
+  chalk
+
+  spin'
+bip_39_word_new_line11: 'measure
+
+  field
+
+  scale
+
+  brother
+
+  stuff
+
+  pigeon
+
+  deal
+
+  attract
+
+  chalk
+
+  spin
+
+  split'
+bip_39_word_new_line12: 'measure
+
+  field
+
+  scale
+
+  brother
+
+  stuff
+
+  pigeon
+
+  deal
+
+  attract
+
+  chalk
+
+  spin
+
+  split
+
+  autumn'
+bip_39_word_new_line2: 'measure
+
+  field'
+bip_39_word_new_line3: 'measure
+
+  field
+
+  scale'
+bip_39_word_new_line4: 'measure
+
+  field
+
+  scale
+
+  brother'
+bip_39_word_new_line5: 'measure
+
+  field
+
+  scale
+
+  brother
+
+  stuff'
+bip_39_word_new_line6: 'measure
+
+  field
+
+  scale
+
+  brother
+
+  stuff
+
+  pigeon'
+bip_39_word_new_line7: 'measure
+
+  field
+
+  scale
+
+  brother
+
+  stuff
+
+  pigeon
+
+  deal'
+bip_39_word_new_line8: 'measure
+
+  field
+
+  scale
+
+  brother
+
+  stuff
+
+  pigeon
+
+  deal
+
+  attract'
+bip_39_word_new_line9: 'measure
+
+  field
+
+  scale
+
+  brother
+
+  stuff
+
+  pigeon
+
+  deal
+
+  attract
+
+  chalk'
+bip_39_word_space_0:
+- measure
+- field
+- scale
+- brother
+- stuff
+- pigeon
+- deal
+- attract
+- chalk
+- spin
+- split
+- autumn
+bip_39_word_space_1: measure
+bip_39_word_space_10: measure field scale brother stuff pigeon deal attract chalk
+  spin
+bip_39_word_space_11: measure field scale brother stuff pigeon deal attract chalk
+  spin split
+bip_39_word_space_12: measure field scale brother stuff pigeon deal attract chalk
+  spin split autumn
+bip_39_word_space_2: measure field
+bip_39_word_space_3: measure field scale
+bip_39_word_space_4: measure field scale brother
+bip_39_word_space_5: measure field scale brother stuff
+bip_39_word_space_6: measure field scale brother stuff pigeon
+bip_39_word_space_7: measure field scale brother stuff pigeon deal
+bip_39_word_space_8: measure field scale brother stuff pigeon deal attract
+bip_39_word_space_9: measure field scale brother stuff pigeon deal attract chalk
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

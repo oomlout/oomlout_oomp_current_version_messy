@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: waste suit
+  * bip 39 word 3: waste suit cage
+  * bip 39 word: waste suit cage volume shove hair transfer nut vacuum traffic never address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | waste |  
+| bip_39_word_new_br10 | waste<br>suit<br>cage<br>volume<br>shove<br>hair<br>transfer<br>nut<br>vacuum<br>traffic |  
+| bip_39_word_new_br11 | waste<br>suit<br>cage<br>volume<br>shove<br>hair<br>transfer<br>nut<br>vacuum<br>traffic<br>never |  
+| bip_39_word_new_br12 | waste<br>suit<br>cage<br>volume<br>shove<br>hair<br>transfer<br>nut<br>vacuum<br>traffic<br>never<br>address |  
+| bip_39_word_new_br2 | waste<br>suit |  
+| bip_39_word_new_br3 | waste<br>suit<br>cage |  
+| bip_39_word_new_br4 | waste<br>suit<br>cage<br>volume |  
+| bip_39_word_new_br5 | waste<br>suit<br>cage<br>volume<br>shove |  
+| bip_39_word_new_br6 | waste<br>suit<br>cage<br>volume<br>shove<br>hair |  
+| bip_39_word_new_br7 | waste<br>suit<br>cage<br>volume<br>shove<br>hair<br>transfer |  
+| bip_39_word_new_br8 | waste<br>suit<br>cage<br>volume<br>shove<br>hair<br>transfer<br>nut |  
+| bip_39_word_new_br9 | waste<br>suit<br>cage<br>volume<br>shove<br>hair<br>transfer<br>nut<br>vacuum |  
+| bip_39_word_new_line1 | waste |  
+| bip_39_word_new_line10 | waste
+suit
+cage
+volume
+shove
+hair
+transfer
+nut
+vacuum
+traffic |  
+| bip_39_word_new_line11 | waste
+suit
+cage
+volume
+shove
+hair
+transfer
+nut
+vacuum
+traffic
+never |  
+| bip_39_word_new_line12 | waste
+suit
+cage
+volume
+shove
+hair
+transfer
+nut
+vacuum
+traffic
+never
+address |  
+| bip_39_word_new_line2 | waste
+suit |  
+| bip_39_word_new_line3 | waste
+suit
+cage |  
+| bip_39_word_new_line4 | waste
+suit
+cage
+volume |  
+| bip_39_word_new_line5 | waste
+suit
+cage
+volume
+shove |  
+| bip_39_word_new_line6 | waste
+suit
+cage
+volume
+shove
+hair |  
+| bip_39_word_new_line7 | waste
+suit
+cage
+volume
+shove
+hair
+transfer |  
+| bip_39_word_new_line8 | waste
+suit
+cage
+volume
+shove
+hair
+transfer
+nut |  
+| bip_39_word_new_line9 | waste
+suit
+cage
+volume
+shove
+hair
+transfer
+nut
+vacuum |  
+| bip_39_word_space_0 | ['waste', 'suit', 'cage', 'volume', 'shove', 'hair', 'transfer', 'nut', 'vacuum', 'traffic', 'never', 'address'] |  
+| bip_39_word_space_1 | waste |  
+| bip_39_word_space_10 | waste suit cage volume shove hair transfer nut vacuum traffic |  
+| bip_39_word_space_11 | waste suit cage volume shove hair transfer nut vacuum traffic never |  
+| bip_39_word_space_12 | waste suit cage volume shove hair transfer nut vacuum traffic never address |  
+| bip_39_word_space_2 | waste suit |  
+| bip_39_word_space_3 | waste suit cage |  
+| bip_39_word_space_4 | waste suit cage volume |  
+| bip_39_word_space_5 | waste suit cage volume shove |  
+| bip_39_word_space_6 | waste suit cage volume shove hair |  
+| bip_39_word_space_7 | waste suit cage volume shove hair transfer |  
+| bip_39_word_space_8 | waste suit cage volume shove hair transfer nut |  
+| bip_39_word_space_9 | waste suit cage volume shove hair transfer nut vacuum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

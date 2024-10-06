@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pioneer
+bip_39_word_new_br10: pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse<br>admit<br>ride<br>grow<br>depend
+bip_39_word_new_br11: pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse<br>admit<br>ride<br>grow<br>depend<br>scene
+bip_39_word_new_br12: pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse<br>admit<br>ride<br>grow<br>depend<br>scene<br>alcohol
+bip_39_word_new_br2: pioneer<br>violin
+bip_39_word_new_br3: pioneer<br>violin<br>shell
+bip_39_word_new_br4: pioneer<br>violin<br>shell<br>drip
+bip_39_word_new_br5: pioneer<br>violin<br>shell<br>drip<br>promote
+bip_39_word_new_br6: pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse
+bip_39_word_new_br7: pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse<br>admit
+bip_39_word_new_br8: pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse<br>admit<br>ride
+bip_39_word_new_br9: pioneer<br>violin<br>shell<br>drip<br>promote<br>blouse<br>admit<br>ride<br>grow
+bip_39_word_new_line1: pioneer
+bip_39_word_new_line10: 'pioneer
+
+  violin
+
+  shell
+
+  drip
+
+  promote
+
+  blouse
+
+  admit
+
+  ride
+
+  grow
+
+  depend'
+bip_39_word_new_line11: 'pioneer
+
+  violin
+
+  shell
+
+  drip
+
+  promote
+
+  blouse
+
+  admit
+
+  ride
+
+  grow
+
+  depend
+
+  scene'
+bip_39_word_new_line12: 'pioneer
+
+  violin
+
+  shell
+
+  drip
+
+  promote
+
+  blouse
+
+  admit
+
+  ride
+
+  grow
+
+  depend
+
+  scene
+
+  alcohol'
+bip_39_word_new_line2: 'pioneer
+
+  violin'
+bip_39_word_new_line3: 'pioneer
+
+  violin
+
+  shell'
+bip_39_word_new_line4: 'pioneer
+
+  violin
+
+  shell
+
+  drip'
+bip_39_word_new_line5: 'pioneer
+
+  violin
+
+  shell
+
+  drip
+
+  promote'
+bip_39_word_new_line6: 'pioneer
+
+  violin
+
+  shell
+
+  drip
+
+  promote
+
+  blouse'
+bip_39_word_new_line7: 'pioneer
+
+  violin
+
+  shell
+
+  drip
+
+  promote
+
+  blouse
+
+  admit'
+bip_39_word_new_line8: 'pioneer
+
+  violin
+
+  shell
+
+  drip
+
+  promote
+
+  blouse
+
+  admit
+
+  ride'
+bip_39_word_new_line9: 'pioneer
+
+  violin
+
+  shell
+
+  drip
+
+  promote
+
+  blouse
+
+  admit
+
+  ride
+
+  grow'
+bip_39_word_space_0:
+- pioneer
+- violin
+- shell
+- drip
+- promote
+- blouse
+- admit
+- ride
+- grow
+- depend
+- scene
+- alcohol
+bip_39_word_space_1: pioneer
+bip_39_word_space_10: pioneer violin shell drip promote blouse admit ride grow depend
+bip_39_word_space_11: pioneer violin shell drip promote blouse admit ride grow depend
+  scene
+bip_39_word_space_12: pioneer violin shell drip promote blouse admit ride grow depend
+  scene alcohol
+bip_39_word_space_2: pioneer violin
+bip_39_word_space_3: pioneer violin shell
+bip_39_word_space_4: pioneer violin shell drip
+bip_39_word_space_5: pioneer violin shell drip promote
+bip_39_word_space_6: pioneer violin shell drip promote blouse
+bip_39_word_space_7: pioneer violin shell drip promote blouse admit
+bip_39_word_space_8: pioneer violin shell drip promote blouse admit ride
+bip_39_word_space_9: pioneer violin shell drip promote blouse admit ride grow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

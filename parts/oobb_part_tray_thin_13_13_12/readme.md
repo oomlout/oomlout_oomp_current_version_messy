@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: neither heavy
+  * bip 39 word 3: neither heavy motion
+  * bip 39 word: neither heavy motion bright begin please glory limit fan clean enhance arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | neither |  
+| bip_39_word_new_br10 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean |  
+| bip_39_word_new_br11 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean<br>enhance |  
+| bip_39_word_new_br12 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan<br>clean<br>enhance<br>arrange |  
+| bip_39_word_new_br2 | neither<br>heavy |  
+| bip_39_word_new_br3 | neither<br>heavy<br>motion |  
+| bip_39_word_new_br4 | neither<br>heavy<br>motion<br>bright |  
+| bip_39_word_new_br5 | neither<br>heavy<br>motion<br>bright<br>begin |  
+| bip_39_word_new_br6 | neither<br>heavy<br>motion<br>bright<br>begin<br>please |  
+| bip_39_word_new_br7 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory |  
+| bip_39_word_new_br8 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit |  
+| bip_39_word_new_br9 | neither<br>heavy<br>motion<br>bright<br>begin<br>please<br>glory<br>limit<br>fan |  
+| bip_39_word_new_line1 | neither |  
+| bip_39_word_new_line10 | neither
+heavy
+motion
+bright
+begin
+please
+glory
+limit
+fan
+clean |  
+| bip_39_word_new_line11 | neither
+heavy
+motion
+bright
+begin
+please
+glory
+limit
+fan
+clean
+enhance |  
+| bip_39_word_new_line12 | neither
+heavy
+motion
+bright
+begin
+please
+glory
+limit
+fan
+clean
+enhance
+arrange |  
+| bip_39_word_new_line2 | neither
+heavy |  
+| bip_39_word_new_line3 | neither
+heavy
+motion |  
+| bip_39_word_new_line4 | neither
+heavy
+motion
+bright |  
+| bip_39_word_new_line5 | neither
+heavy
+motion
+bright
+begin |  
+| bip_39_word_new_line6 | neither
+heavy
+motion
+bright
+begin
+please |  
+| bip_39_word_new_line7 | neither
+heavy
+motion
+bright
+begin
+please
+glory |  
+| bip_39_word_new_line8 | neither
+heavy
+motion
+bright
+begin
+please
+glory
+limit |  
+| bip_39_word_new_line9 | neither
+heavy
+motion
+bright
+begin
+please
+glory
+limit
+fan |  
+| bip_39_word_space_0 | ['neither', 'heavy', 'motion', 'bright', 'begin', 'please', 'glory', 'limit', 'fan', 'clean', 'enhance', 'arrange'] |  
+| bip_39_word_space_1 | neither |  
+| bip_39_word_space_10 | neither heavy motion bright begin please glory limit fan clean |  
+| bip_39_word_space_11 | neither heavy motion bright begin please glory limit fan clean enhance |  
+| bip_39_word_space_12 | neither heavy motion bright begin please glory limit fan clean enhance arrange |  
+| bip_39_word_space_2 | neither heavy |  
+| bip_39_word_space_3 | neither heavy motion |  
+| bip_39_word_space_4 | neither heavy motion bright |  
+| bip_39_word_space_5 | neither heavy motion bright begin |  
+| bip_39_word_space_6 | neither heavy motion bright begin please |  
+| bip_39_word_space_7 | neither heavy motion bright begin please glory |  
+| bip_39_word_space_8 | neither heavy motion bright begin please glory limit |  
+| bip_39_word_space_9 | neither heavy motion bright begin please glory limit fan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

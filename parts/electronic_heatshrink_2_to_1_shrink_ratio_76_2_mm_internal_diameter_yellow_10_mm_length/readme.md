@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coffee before
+  * bip 39 word 3: coffee before arm
+  * bip 39 word: coffee before arm solid alter below visual festival goat rookie silent anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coffee |  
+| bip_39_word_new_br10 | coffee<br>before<br>arm<br>solid<br>alter<br>below<br>visual<br>festival<br>goat<br>rookie |  
+| bip_39_word_new_br11 | coffee<br>before<br>arm<br>solid<br>alter<br>below<br>visual<br>festival<br>goat<br>rookie<br>silent |  
+| bip_39_word_new_br12 | coffee<br>before<br>arm<br>solid<br>alter<br>below<br>visual<br>festival<br>goat<br>rookie<br>silent<br>anchor |  
+| bip_39_word_new_br2 | coffee<br>before |  
+| bip_39_word_new_br3 | coffee<br>before<br>arm |  
+| bip_39_word_new_br4 | coffee<br>before<br>arm<br>solid |  
+| bip_39_word_new_br5 | coffee<br>before<br>arm<br>solid<br>alter |  
+| bip_39_word_new_br6 | coffee<br>before<br>arm<br>solid<br>alter<br>below |  
+| bip_39_word_new_br7 | coffee<br>before<br>arm<br>solid<br>alter<br>below<br>visual |  
+| bip_39_word_new_br8 | coffee<br>before<br>arm<br>solid<br>alter<br>below<br>visual<br>festival |  
+| bip_39_word_new_br9 | coffee<br>before<br>arm<br>solid<br>alter<br>below<br>visual<br>festival<br>goat |  
+| bip_39_word_new_line1 | coffee |  
+| bip_39_word_new_line10 | coffee
+before
+arm
+solid
+alter
+below
+visual
+festival
+goat
+rookie |  
+| bip_39_word_new_line11 | coffee
+before
+arm
+solid
+alter
+below
+visual
+festival
+goat
+rookie
+silent |  
+| bip_39_word_new_line12 | coffee
+before
+arm
+solid
+alter
+below
+visual
+festival
+goat
+rookie
+silent
+anchor |  
+| bip_39_word_new_line2 | coffee
+before |  
+| bip_39_word_new_line3 | coffee
+before
+arm |  
+| bip_39_word_new_line4 | coffee
+before
+arm
+solid |  
+| bip_39_word_new_line5 | coffee
+before
+arm
+solid
+alter |  
+| bip_39_word_new_line6 | coffee
+before
+arm
+solid
+alter
+below |  
+| bip_39_word_new_line7 | coffee
+before
+arm
+solid
+alter
+below
+visual |  
+| bip_39_word_new_line8 | coffee
+before
+arm
+solid
+alter
+below
+visual
+festival |  
+| bip_39_word_new_line9 | coffee
+before
+arm
+solid
+alter
+below
+visual
+festival
+goat |  
+| bip_39_word_space_0 | ['coffee', 'before', 'arm', 'solid', 'alter', 'below', 'visual', 'festival', 'goat', 'rookie', 'silent', 'anchor'] |  
+| bip_39_word_space_1 | coffee |  
+| bip_39_word_space_10 | coffee before arm solid alter below visual festival goat rookie |  
+| bip_39_word_space_11 | coffee before arm solid alter below visual festival goat rookie silent |  
+| bip_39_word_space_12 | coffee before arm solid alter below visual festival goat rookie silent anchor |  
+| bip_39_word_space_2 | coffee before |  
+| bip_39_word_space_3 | coffee before arm |  
+| bip_39_word_space_4 | coffee before arm solid |  
+| bip_39_word_space_5 | coffee before arm solid alter |  
+| bip_39_word_space_6 | coffee before arm solid alter below |  
+| bip_39_word_space_7 | coffee before arm solid alter below visual |  
+| bip_39_word_space_8 | coffee before arm solid alter below visual festival |  
+| bip_39_word_space_9 | coffee before arm solid alter below visual festival goat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: useful multiply
+  * bip 39 word 3: useful multiply giraffe
+  * bip 39 word: useful multiply giraffe powder gun beach faint visual useful cluster daring add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | useful |  
+| bip_39_word_new_br10 | useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach<br>faint<br>visual<br>useful<br>cluster |  
+| bip_39_word_new_br11 | useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach<br>faint<br>visual<br>useful<br>cluster<br>daring |  
+| bip_39_word_new_br12 | useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach<br>faint<br>visual<br>useful<br>cluster<br>daring<br>add |  
+| bip_39_word_new_br2 | useful<br>multiply |  
+| bip_39_word_new_br3 | useful<br>multiply<br>giraffe |  
+| bip_39_word_new_br4 | useful<br>multiply<br>giraffe<br>powder |  
+| bip_39_word_new_br5 | useful<br>multiply<br>giraffe<br>powder<br>gun |  
+| bip_39_word_new_br6 | useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach |  
+| bip_39_word_new_br7 | useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach<br>faint |  
+| bip_39_word_new_br8 | useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach<br>faint<br>visual |  
+| bip_39_word_new_br9 | useful<br>multiply<br>giraffe<br>powder<br>gun<br>beach<br>faint<br>visual<br>useful |  
+| bip_39_word_new_line1 | useful |  
+| bip_39_word_new_line10 | useful
+multiply
+giraffe
+powder
+gun
+beach
+faint
+visual
+useful
+cluster |  
+| bip_39_word_new_line11 | useful
+multiply
+giraffe
+powder
+gun
+beach
+faint
+visual
+useful
+cluster
+daring |  
+| bip_39_word_new_line12 | useful
+multiply
+giraffe
+powder
+gun
+beach
+faint
+visual
+useful
+cluster
+daring
+add |  
+| bip_39_word_new_line2 | useful
+multiply |  
+| bip_39_word_new_line3 | useful
+multiply
+giraffe |  
+| bip_39_word_new_line4 | useful
+multiply
+giraffe
+powder |  
+| bip_39_word_new_line5 | useful
+multiply
+giraffe
+powder
+gun |  
+| bip_39_word_new_line6 | useful
+multiply
+giraffe
+powder
+gun
+beach |  
+| bip_39_word_new_line7 | useful
+multiply
+giraffe
+powder
+gun
+beach
+faint |  
+| bip_39_word_new_line8 | useful
+multiply
+giraffe
+powder
+gun
+beach
+faint
+visual |  
+| bip_39_word_new_line9 | useful
+multiply
+giraffe
+powder
+gun
+beach
+faint
+visual
+useful |  
+| bip_39_word_space_0 | ['useful', 'multiply', 'giraffe', 'powder', 'gun', 'beach', 'faint', 'visual', 'useful', 'cluster', 'daring', 'add'] |  
+| bip_39_word_space_1 | useful |  
+| bip_39_word_space_10 | useful multiply giraffe powder gun beach faint visual useful cluster |  
+| bip_39_word_space_11 | useful multiply giraffe powder gun beach faint visual useful cluster daring |  
+| bip_39_word_space_12 | useful multiply giraffe powder gun beach faint visual useful cluster daring add |  
+| bip_39_word_space_2 | useful multiply |  
+| bip_39_word_space_3 | useful multiply giraffe |  
+| bip_39_word_space_4 | useful multiply giraffe powder |  
+| bip_39_word_space_5 | useful multiply giraffe powder gun |  
+| bip_39_word_space_6 | useful multiply giraffe powder gun beach |  
+| bip_39_word_space_7 | useful multiply giraffe powder gun beach faint |  
+| bip_39_word_space_8 | useful multiply giraffe powder gun beach faint visual |  
+| bip_39_word_space_9 | useful multiply giraffe powder gun beach faint visual useful |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fly
+bip_39_word_new_br10: fly<br>blue<br>car<br>hidden<br>burden<br>swim<br>utility<br>appear<br>ocean<br>onion
+bip_39_word_new_br11: fly<br>blue<br>car<br>hidden<br>burden<br>swim<br>utility<br>appear<br>ocean<br>onion<br>raw
+bip_39_word_new_br12: fly<br>blue<br>car<br>hidden<br>burden<br>swim<br>utility<br>appear<br>ocean<br>onion<br>raw<br>addict
+bip_39_word_new_br2: fly<br>blue
+bip_39_word_new_br3: fly<br>blue<br>car
+bip_39_word_new_br4: fly<br>blue<br>car<br>hidden
+bip_39_word_new_br5: fly<br>blue<br>car<br>hidden<br>burden
+bip_39_word_new_br6: fly<br>blue<br>car<br>hidden<br>burden<br>swim
+bip_39_word_new_br7: fly<br>blue<br>car<br>hidden<br>burden<br>swim<br>utility
+bip_39_word_new_br8: fly<br>blue<br>car<br>hidden<br>burden<br>swim<br>utility<br>appear
+bip_39_word_new_br9: fly<br>blue<br>car<br>hidden<br>burden<br>swim<br>utility<br>appear<br>ocean
+bip_39_word_new_line1: fly
+bip_39_word_new_line10: 'fly
+
+  blue
+
+  car
+
+  hidden
+
+  burden
+
+  swim
+
+  utility
+
+  appear
+
+  ocean
+
+  onion'
+bip_39_word_new_line11: 'fly
+
+  blue
+
+  car
+
+  hidden
+
+  burden
+
+  swim
+
+  utility
+
+  appear
+
+  ocean
+
+  onion
+
+  raw'
+bip_39_word_new_line12: 'fly
+
+  blue
+
+  car
+
+  hidden
+
+  burden
+
+  swim
+
+  utility
+
+  appear
+
+  ocean
+
+  onion
+
+  raw
+
+  addict'
+bip_39_word_new_line2: 'fly
+
+  blue'
+bip_39_word_new_line3: 'fly
+
+  blue
+
+  car'
+bip_39_word_new_line4: 'fly
+
+  blue
+
+  car
+
+  hidden'
+bip_39_word_new_line5: 'fly
+
+  blue
+
+  car
+
+  hidden
+
+  burden'
+bip_39_word_new_line6: 'fly
+
+  blue
+
+  car
+
+  hidden
+
+  burden
+
+  swim'
+bip_39_word_new_line7: 'fly
+
+  blue
+
+  car
+
+  hidden
+
+  burden
+
+  swim
+
+  utility'
+bip_39_word_new_line8: 'fly
+
+  blue
+
+  car
+
+  hidden
+
+  burden
+
+  swim
+
+  utility
+
+  appear'
+bip_39_word_new_line9: 'fly
+
+  blue
+
+  car
+
+  hidden
+
+  burden
+
+  swim
+
+  utility
+
+  appear
+
+  ocean'
+bip_39_word_space_0:
+- fly
+- blue
+- car
+- hidden
+- burden
+- swim
+- utility
+- appear
+- ocean
+- onion
+- raw
+- addict
+bip_39_word_space_1: fly
+bip_39_word_space_10: fly blue car hidden burden swim utility appear ocean onion
+bip_39_word_space_11: fly blue car hidden burden swim utility appear ocean onion raw
+bip_39_word_space_12: fly blue car hidden burden swim utility appear ocean onion raw
+  addict
+bip_39_word_space_2: fly blue
+bip_39_word_space_3: fly blue car
+bip_39_word_space_4: fly blue car hidden
+bip_39_word_space_5: fly blue car hidden burden
+bip_39_word_space_6: fly blue car hidden burden swim
+bip_39_word_space_7: fly blue car hidden burden swim utility
+bip_39_word_space_8: fly blue car hidden burden swim utility appear
+bip_39_word_space_9: fly blue car hidden burden swim utility appear ocean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: account broom
+  * bip 39 word 3: account broom medal
+  * bip 39 word: account broom medal lava world crater smooth athlete fatal wire dignity allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | account |  
+| bip_39_word_new_br10 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire |  
+| bip_39_word_new_br11 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire<br>dignity |  
+| bip_39_word_new_br12 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal<br>wire<br>dignity<br>allow |  
+| bip_39_word_new_br2 | account<br>broom |  
+| bip_39_word_new_br3 | account<br>broom<br>medal |  
+| bip_39_word_new_br4 | account<br>broom<br>medal<br>lava |  
+| bip_39_word_new_br5 | account<br>broom<br>medal<br>lava<br>world |  
+| bip_39_word_new_br6 | account<br>broom<br>medal<br>lava<br>world<br>crater |  
+| bip_39_word_new_br7 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth |  
+| bip_39_word_new_br8 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete |  
+| bip_39_word_new_br9 | account<br>broom<br>medal<br>lava<br>world<br>crater<br>smooth<br>athlete<br>fatal |  
+| bip_39_word_new_line1 | account |  
+| bip_39_word_new_line10 | account
+broom
+medal
+lava
+world
+crater
+smooth
+athlete
+fatal
+wire |  
+| bip_39_word_new_line11 | account
+broom
+medal
+lava
+world
+crater
+smooth
+athlete
+fatal
+wire
+dignity |  
+| bip_39_word_new_line12 | account
+broom
+medal
+lava
+world
+crater
+smooth
+athlete
+fatal
+wire
+dignity
+allow |  
+| bip_39_word_new_line2 | account
+broom |  
+| bip_39_word_new_line3 | account
+broom
+medal |  
+| bip_39_word_new_line4 | account
+broom
+medal
+lava |  
+| bip_39_word_new_line5 | account
+broom
+medal
+lava
+world |  
+| bip_39_word_new_line6 | account
+broom
+medal
+lava
+world
+crater |  
+| bip_39_word_new_line7 | account
+broom
+medal
+lava
+world
+crater
+smooth |  
+| bip_39_word_new_line8 | account
+broom
+medal
+lava
+world
+crater
+smooth
+athlete |  
+| bip_39_word_new_line9 | account
+broom
+medal
+lava
+world
+crater
+smooth
+athlete
+fatal |  
+| bip_39_word_space_0 | ['account', 'broom', 'medal', 'lava', 'world', 'crater', 'smooth', 'athlete', 'fatal', 'wire', 'dignity', 'allow'] |  
+| bip_39_word_space_1 | account |  
+| bip_39_word_space_10 | account broom medal lava world crater smooth athlete fatal wire |  
+| bip_39_word_space_11 | account broom medal lava world crater smooth athlete fatal wire dignity |  
+| bip_39_word_space_12 | account broom medal lava world crater smooth athlete fatal wire dignity allow |  
+| bip_39_word_space_2 | account broom |  
+| bip_39_word_space_3 | account broom medal |  
+| bip_39_word_space_4 | account broom medal lava |  
+| bip_39_word_space_5 | account broom medal lava world |  
+| bip_39_word_space_6 | account broom medal lava world crater |  
+| bip_39_word_space_7 | account broom medal lava world crater smooth |  
+| bip_39_word_space_8 | account broom medal lava world crater smooth athlete |  
+| bip_39_word_space_9 | account broom medal lava world crater smooth athlete fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

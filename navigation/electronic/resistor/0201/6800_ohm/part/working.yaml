@@ -1,3 +1,187 @@
+bip_39_word_new_br1: monitor
+bip_39_word_new_br10: monitor<br>nephew<br>kid<br>dance<br>category<br>simple<br>narrow<br>pupil<br>library<br>math
+bip_39_word_new_br11: monitor<br>nephew<br>kid<br>dance<br>category<br>simple<br>narrow<br>pupil<br>library<br>math<br>couch
+bip_39_word_new_br12: monitor<br>nephew<br>kid<br>dance<br>category<br>simple<br>narrow<br>pupil<br>library<br>math<br>couch<br>alone
+bip_39_word_new_br2: monitor<br>nephew
+bip_39_word_new_br3: monitor<br>nephew<br>kid
+bip_39_word_new_br4: monitor<br>nephew<br>kid<br>dance
+bip_39_word_new_br5: monitor<br>nephew<br>kid<br>dance<br>category
+bip_39_word_new_br6: monitor<br>nephew<br>kid<br>dance<br>category<br>simple
+bip_39_word_new_br7: monitor<br>nephew<br>kid<br>dance<br>category<br>simple<br>narrow
+bip_39_word_new_br8: monitor<br>nephew<br>kid<br>dance<br>category<br>simple<br>narrow<br>pupil
+bip_39_word_new_br9: monitor<br>nephew<br>kid<br>dance<br>category<br>simple<br>narrow<br>pupil<br>library
+bip_39_word_new_line1: monitor
+bip_39_word_new_line10: 'monitor
+
+  nephew
+
+  kid
+
+  dance
+
+  category
+
+  simple
+
+  narrow
+
+  pupil
+
+  library
+
+  math'
+bip_39_word_new_line11: 'monitor
+
+  nephew
+
+  kid
+
+  dance
+
+  category
+
+  simple
+
+  narrow
+
+  pupil
+
+  library
+
+  math
+
+  couch'
+bip_39_word_new_line12: 'monitor
+
+  nephew
+
+  kid
+
+  dance
+
+  category
+
+  simple
+
+  narrow
+
+  pupil
+
+  library
+
+  math
+
+  couch
+
+  alone'
+bip_39_word_new_line2: 'monitor
+
+  nephew'
+bip_39_word_new_line3: 'monitor
+
+  nephew
+
+  kid'
+bip_39_word_new_line4: 'monitor
+
+  nephew
+
+  kid
+
+  dance'
+bip_39_word_new_line5: 'monitor
+
+  nephew
+
+  kid
+
+  dance
+
+  category'
+bip_39_word_new_line6: 'monitor
+
+  nephew
+
+  kid
+
+  dance
+
+  category
+
+  simple'
+bip_39_word_new_line7: 'monitor
+
+  nephew
+
+  kid
+
+  dance
+
+  category
+
+  simple
+
+  narrow'
+bip_39_word_new_line8: 'monitor
+
+  nephew
+
+  kid
+
+  dance
+
+  category
+
+  simple
+
+  narrow
+
+  pupil'
+bip_39_word_new_line9: 'monitor
+
+  nephew
+
+  kid
+
+  dance
+
+  category
+
+  simple
+
+  narrow
+
+  pupil
+
+  library'
+bip_39_word_space_0:
+- monitor
+- nephew
+- kid
+- dance
+- category
+- simple
+- narrow
+- pupil
+- library
+- math
+- couch
+- alone
+bip_39_word_space_1: monitor
+bip_39_word_space_10: monitor nephew kid dance category simple narrow pupil library
+  math
+bip_39_word_space_11: monitor nephew kid dance category simple narrow pupil library
+  math couch
+bip_39_word_space_12: monitor nephew kid dance category simple narrow pupil library
+  math couch alone
+bip_39_word_space_2: monitor nephew
+bip_39_word_space_3: monitor nephew kid
+bip_39_word_space_4: monitor nephew kid dance
+bip_39_word_space_5: monitor nephew kid dance category
+bip_39_word_space_6: monitor nephew kid dance category simple
+bip_39_word_space_7: monitor nephew kid dance category simple narrow
+bip_39_word_space_8: monitor nephew kid dance category simple narrow pupil
+bip_39_word_space_9: monitor nephew kid dance category simple narrow pupil library
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

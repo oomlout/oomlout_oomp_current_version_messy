@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: candy addict
+  * bip 39 word 3: candy addict treat
+  * bip 39 word: candy addict treat proof gate border sleep sudden math tank chef almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | candy |  
+| bip_39_word_new_br10 | candy<br>addict<br>treat<br>proof<br>gate<br>border<br>sleep<br>sudden<br>math<br>tank |  
+| bip_39_word_new_br11 | candy<br>addict<br>treat<br>proof<br>gate<br>border<br>sleep<br>sudden<br>math<br>tank<br>chef |  
+| bip_39_word_new_br12 | candy<br>addict<br>treat<br>proof<br>gate<br>border<br>sleep<br>sudden<br>math<br>tank<br>chef<br>almost |  
+| bip_39_word_new_br2 | candy<br>addict |  
+| bip_39_word_new_br3 | candy<br>addict<br>treat |  
+| bip_39_word_new_br4 | candy<br>addict<br>treat<br>proof |  
+| bip_39_word_new_br5 | candy<br>addict<br>treat<br>proof<br>gate |  
+| bip_39_word_new_br6 | candy<br>addict<br>treat<br>proof<br>gate<br>border |  
+| bip_39_word_new_br7 | candy<br>addict<br>treat<br>proof<br>gate<br>border<br>sleep |  
+| bip_39_word_new_br8 | candy<br>addict<br>treat<br>proof<br>gate<br>border<br>sleep<br>sudden |  
+| bip_39_word_new_br9 | candy<br>addict<br>treat<br>proof<br>gate<br>border<br>sleep<br>sudden<br>math |  
+| bip_39_word_new_line1 | candy |  
+| bip_39_word_new_line10 | candy
+addict
+treat
+proof
+gate
+border
+sleep
+sudden
+math
+tank |  
+| bip_39_word_new_line11 | candy
+addict
+treat
+proof
+gate
+border
+sleep
+sudden
+math
+tank
+chef |  
+| bip_39_word_new_line12 | candy
+addict
+treat
+proof
+gate
+border
+sleep
+sudden
+math
+tank
+chef
+almost |  
+| bip_39_word_new_line2 | candy
+addict |  
+| bip_39_word_new_line3 | candy
+addict
+treat |  
+| bip_39_word_new_line4 | candy
+addict
+treat
+proof |  
+| bip_39_word_new_line5 | candy
+addict
+treat
+proof
+gate |  
+| bip_39_word_new_line6 | candy
+addict
+treat
+proof
+gate
+border |  
+| bip_39_word_new_line7 | candy
+addict
+treat
+proof
+gate
+border
+sleep |  
+| bip_39_word_new_line8 | candy
+addict
+treat
+proof
+gate
+border
+sleep
+sudden |  
+| bip_39_word_new_line9 | candy
+addict
+treat
+proof
+gate
+border
+sleep
+sudden
+math |  
+| bip_39_word_space_0 | ['candy', 'addict', 'treat', 'proof', 'gate', 'border', 'sleep', 'sudden', 'math', 'tank', 'chef', 'almost'] |  
+| bip_39_word_space_1 | candy |  
+| bip_39_word_space_10 | candy addict treat proof gate border sleep sudden math tank |  
+| bip_39_word_space_11 | candy addict treat proof gate border sleep sudden math tank chef |  
+| bip_39_word_space_12 | candy addict treat proof gate border sleep sudden math tank chef almost |  
+| bip_39_word_space_2 | candy addict |  
+| bip_39_word_space_3 | candy addict treat |  
+| bip_39_word_space_4 | candy addict treat proof |  
+| bip_39_word_space_5 | candy addict treat proof gate |  
+| bip_39_word_space_6 | candy addict treat proof gate border |  
+| bip_39_word_space_7 | candy addict treat proof gate border sleep |  
+| bip_39_word_space_8 | candy addict treat proof gate border sleep sudden |  
+| bip_39_word_space_9 | candy addict treat proof gate border sleep sudden math |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trap gas
+  * bip 39 word 3: trap gas ability
+  * bip 39 word: trap gas ability donate powder olympic muscle stock type suit pet alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trap |  
+| bip_39_word_new_br10 | trap<br>gas<br>ability<br>donate<br>powder<br>olympic<br>muscle<br>stock<br>type<br>suit |  
+| bip_39_word_new_br11 | trap<br>gas<br>ability<br>donate<br>powder<br>olympic<br>muscle<br>stock<br>type<br>suit<br>pet |  
+| bip_39_word_new_br12 | trap<br>gas<br>ability<br>donate<br>powder<br>olympic<br>muscle<br>stock<br>type<br>suit<br>pet<br>alarm |  
+| bip_39_word_new_br2 | trap<br>gas |  
+| bip_39_word_new_br3 | trap<br>gas<br>ability |  
+| bip_39_word_new_br4 | trap<br>gas<br>ability<br>donate |  
+| bip_39_word_new_br5 | trap<br>gas<br>ability<br>donate<br>powder |  
+| bip_39_word_new_br6 | trap<br>gas<br>ability<br>donate<br>powder<br>olympic |  
+| bip_39_word_new_br7 | trap<br>gas<br>ability<br>donate<br>powder<br>olympic<br>muscle |  
+| bip_39_word_new_br8 | trap<br>gas<br>ability<br>donate<br>powder<br>olympic<br>muscle<br>stock |  
+| bip_39_word_new_br9 | trap<br>gas<br>ability<br>donate<br>powder<br>olympic<br>muscle<br>stock<br>type |  
+| bip_39_word_new_line1 | trap |  
+| bip_39_word_new_line10 | trap
+gas
+ability
+donate
+powder
+olympic
+muscle
+stock
+type
+suit |  
+| bip_39_word_new_line11 | trap
+gas
+ability
+donate
+powder
+olympic
+muscle
+stock
+type
+suit
+pet |  
+| bip_39_word_new_line12 | trap
+gas
+ability
+donate
+powder
+olympic
+muscle
+stock
+type
+suit
+pet
+alarm |  
+| bip_39_word_new_line2 | trap
+gas |  
+| bip_39_word_new_line3 | trap
+gas
+ability |  
+| bip_39_word_new_line4 | trap
+gas
+ability
+donate |  
+| bip_39_word_new_line5 | trap
+gas
+ability
+donate
+powder |  
+| bip_39_word_new_line6 | trap
+gas
+ability
+donate
+powder
+olympic |  
+| bip_39_word_new_line7 | trap
+gas
+ability
+donate
+powder
+olympic
+muscle |  
+| bip_39_word_new_line8 | trap
+gas
+ability
+donate
+powder
+olympic
+muscle
+stock |  
+| bip_39_word_new_line9 | trap
+gas
+ability
+donate
+powder
+olympic
+muscle
+stock
+type |  
+| bip_39_word_space_0 | ['trap', 'gas', 'ability', 'donate', 'powder', 'olympic', 'muscle', 'stock', 'type', 'suit', 'pet', 'alarm'] |  
+| bip_39_word_space_1 | trap |  
+| bip_39_word_space_10 | trap gas ability donate powder olympic muscle stock type suit |  
+| bip_39_word_space_11 | trap gas ability donate powder olympic muscle stock type suit pet |  
+| bip_39_word_space_12 | trap gas ability donate powder olympic muscle stock type suit pet alarm |  
+| bip_39_word_space_2 | trap gas |  
+| bip_39_word_space_3 | trap gas ability |  
+| bip_39_word_space_4 | trap gas ability donate |  
+| bip_39_word_space_5 | trap gas ability donate powder |  
+| bip_39_word_space_6 | trap gas ability donate powder olympic |  
+| bip_39_word_space_7 | trap gas ability donate powder olympic muscle |  
+| bip_39_word_space_8 | trap gas ability donate powder olympic muscle stock |  
+| bip_39_word_space_9 | trap gas ability donate powder olympic muscle stock type |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

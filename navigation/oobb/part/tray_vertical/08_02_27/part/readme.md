@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cause virtual
+  * bip 39 word 3: cause virtual angle
+  * bip 39 word: cause virtual angle opinion planet shallow remind awful state enter shy argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cause |  
+| bip_39_word_new_br10 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow<br>remind<br>awful<br>state<br>enter |  
+| bip_39_word_new_br11 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow<br>remind<br>awful<br>state<br>enter<br>shy |  
+| bip_39_word_new_br12 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow<br>remind<br>awful<br>state<br>enter<br>shy<br>argue |  
+| bip_39_word_new_br2 | cause<br>virtual |  
+| bip_39_word_new_br3 | cause<br>virtual<br>angle |  
+| bip_39_word_new_br4 | cause<br>virtual<br>angle<br>opinion |  
+| bip_39_word_new_br5 | cause<br>virtual<br>angle<br>opinion<br>planet |  
+| bip_39_word_new_br6 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow |  
+| bip_39_word_new_br7 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow<br>remind |  
+| bip_39_word_new_br8 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow<br>remind<br>awful |  
+| bip_39_word_new_br9 | cause<br>virtual<br>angle<br>opinion<br>planet<br>shallow<br>remind<br>awful<br>state |  
+| bip_39_word_new_line1 | cause |  
+| bip_39_word_new_line10 | cause
+virtual
+angle
+opinion
+planet
+shallow
+remind
+awful
+state
+enter |  
+| bip_39_word_new_line11 | cause
+virtual
+angle
+opinion
+planet
+shallow
+remind
+awful
+state
+enter
+shy |  
+| bip_39_word_new_line12 | cause
+virtual
+angle
+opinion
+planet
+shallow
+remind
+awful
+state
+enter
+shy
+argue |  
+| bip_39_word_new_line2 | cause
+virtual |  
+| bip_39_word_new_line3 | cause
+virtual
+angle |  
+| bip_39_word_new_line4 | cause
+virtual
+angle
+opinion |  
+| bip_39_word_new_line5 | cause
+virtual
+angle
+opinion
+planet |  
+| bip_39_word_new_line6 | cause
+virtual
+angle
+opinion
+planet
+shallow |  
+| bip_39_word_new_line7 | cause
+virtual
+angle
+opinion
+planet
+shallow
+remind |  
+| bip_39_word_new_line8 | cause
+virtual
+angle
+opinion
+planet
+shallow
+remind
+awful |  
+| bip_39_word_new_line9 | cause
+virtual
+angle
+opinion
+planet
+shallow
+remind
+awful
+state |  
+| bip_39_word_space_0 | ['cause', 'virtual', 'angle', 'opinion', 'planet', 'shallow', 'remind', 'awful', 'state', 'enter', 'shy', 'argue'] |  
+| bip_39_word_space_1 | cause |  
+| bip_39_word_space_10 | cause virtual angle opinion planet shallow remind awful state enter |  
+| bip_39_word_space_11 | cause virtual angle opinion planet shallow remind awful state enter shy |  
+| bip_39_word_space_12 | cause virtual angle opinion planet shallow remind awful state enter shy argue |  
+| bip_39_word_space_2 | cause virtual |  
+| bip_39_word_space_3 | cause virtual angle |  
+| bip_39_word_space_4 | cause virtual angle opinion |  
+| bip_39_word_space_5 | cause virtual angle opinion planet |  
+| bip_39_word_space_6 | cause virtual angle opinion planet shallow |  
+| bip_39_word_space_7 | cause virtual angle opinion planet shallow remind |  
+| bip_39_word_space_8 | cause virtual angle opinion planet shallow remind awful |  
+| bip_39_word_space_9 | cause virtual angle opinion planet shallow remind awful state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

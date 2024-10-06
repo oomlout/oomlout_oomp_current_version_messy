@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sadness force
+  * bip 39 word 3: sadness force boat
+  * bip 39 word: sadness force boat eternal flock lunch shoe powder vocal rely toss asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sadness |  
+| bip_39_word_new_br10 | sadness<br>force<br>boat<br>eternal<br>flock<br>lunch<br>shoe<br>powder<br>vocal<br>rely |  
+| bip_39_word_new_br11 | sadness<br>force<br>boat<br>eternal<br>flock<br>lunch<br>shoe<br>powder<br>vocal<br>rely<br>toss |  
+| bip_39_word_new_br12 | sadness<br>force<br>boat<br>eternal<br>flock<br>lunch<br>shoe<br>powder<br>vocal<br>rely<br>toss<br>asset |  
+| bip_39_word_new_br2 | sadness<br>force |  
+| bip_39_word_new_br3 | sadness<br>force<br>boat |  
+| bip_39_word_new_br4 | sadness<br>force<br>boat<br>eternal |  
+| bip_39_word_new_br5 | sadness<br>force<br>boat<br>eternal<br>flock |  
+| bip_39_word_new_br6 | sadness<br>force<br>boat<br>eternal<br>flock<br>lunch |  
+| bip_39_word_new_br7 | sadness<br>force<br>boat<br>eternal<br>flock<br>lunch<br>shoe |  
+| bip_39_word_new_br8 | sadness<br>force<br>boat<br>eternal<br>flock<br>lunch<br>shoe<br>powder |  
+| bip_39_word_new_br9 | sadness<br>force<br>boat<br>eternal<br>flock<br>lunch<br>shoe<br>powder<br>vocal |  
+| bip_39_word_new_line1 | sadness |  
+| bip_39_word_new_line10 | sadness
+force
+boat
+eternal
+flock
+lunch
+shoe
+powder
+vocal
+rely |  
+| bip_39_word_new_line11 | sadness
+force
+boat
+eternal
+flock
+lunch
+shoe
+powder
+vocal
+rely
+toss |  
+| bip_39_word_new_line12 | sadness
+force
+boat
+eternal
+flock
+lunch
+shoe
+powder
+vocal
+rely
+toss
+asset |  
+| bip_39_word_new_line2 | sadness
+force |  
+| bip_39_word_new_line3 | sadness
+force
+boat |  
+| bip_39_word_new_line4 | sadness
+force
+boat
+eternal |  
+| bip_39_word_new_line5 | sadness
+force
+boat
+eternal
+flock |  
+| bip_39_word_new_line6 | sadness
+force
+boat
+eternal
+flock
+lunch |  
+| bip_39_word_new_line7 | sadness
+force
+boat
+eternal
+flock
+lunch
+shoe |  
+| bip_39_word_new_line8 | sadness
+force
+boat
+eternal
+flock
+lunch
+shoe
+powder |  
+| bip_39_word_new_line9 | sadness
+force
+boat
+eternal
+flock
+lunch
+shoe
+powder
+vocal |  
+| bip_39_word_space_0 | ['sadness', 'force', 'boat', 'eternal', 'flock', 'lunch', 'shoe', 'powder', 'vocal', 'rely', 'toss', 'asset'] |  
+| bip_39_word_space_1 | sadness |  
+| bip_39_word_space_10 | sadness force boat eternal flock lunch shoe powder vocal rely |  
+| bip_39_word_space_11 | sadness force boat eternal flock lunch shoe powder vocal rely toss |  
+| bip_39_word_space_12 | sadness force boat eternal flock lunch shoe powder vocal rely toss asset |  
+| bip_39_word_space_2 | sadness force |  
+| bip_39_word_space_3 | sadness force boat |  
+| bip_39_word_space_4 | sadness force boat eternal |  
+| bip_39_word_space_5 | sadness force boat eternal flock |  
+| bip_39_word_space_6 | sadness force boat eternal flock lunch |  
+| bip_39_word_space_7 | sadness force boat eternal flock lunch shoe |  
+| bip_39_word_space_8 | sadness force boat eternal flock lunch shoe powder |  
+| bip_39_word_space_9 | sadness force boat eternal flock lunch shoe powder vocal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

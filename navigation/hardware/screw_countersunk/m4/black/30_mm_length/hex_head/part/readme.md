@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rigid suit
+  * bip 39 word 3: rigid suit lens
+  * bip 39 word: rigid suit lens small topple able device arrest useful useful speak admit
 
 ### other_codes
 * short_code: cs4b30h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rigid |  
+| bip_39_word_new_br10 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful |  
+| bip_39_word_new_br11 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful<br>speak |  
+| bip_39_word_new_br12 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful<br>useful<br>speak<br>admit |  
+| bip_39_word_new_br2 | rigid<br>suit |  
+| bip_39_word_new_br3 | rigid<br>suit<br>lens |  
+| bip_39_word_new_br4 | rigid<br>suit<br>lens<br>small |  
+| bip_39_word_new_br5 | rigid<br>suit<br>lens<br>small<br>topple |  
+| bip_39_word_new_br6 | rigid<br>suit<br>lens<br>small<br>topple<br>able |  
+| bip_39_word_new_br7 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device |  
+| bip_39_word_new_br8 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest |  
+| bip_39_word_new_br9 | rigid<br>suit<br>lens<br>small<br>topple<br>able<br>device<br>arrest<br>useful |  
+| bip_39_word_new_line1 | rigid |  
+| bip_39_word_new_line10 | rigid
+suit
+lens
+small
+topple
+able
+device
+arrest
+useful
+useful |  
+| bip_39_word_new_line11 | rigid
+suit
+lens
+small
+topple
+able
+device
+arrest
+useful
+useful
+speak |  
+| bip_39_word_new_line12 | rigid
+suit
+lens
+small
+topple
+able
+device
+arrest
+useful
+useful
+speak
+admit |  
+| bip_39_word_new_line2 | rigid
+suit |  
+| bip_39_word_new_line3 | rigid
+suit
+lens |  
+| bip_39_word_new_line4 | rigid
+suit
+lens
+small |  
+| bip_39_word_new_line5 | rigid
+suit
+lens
+small
+topple |  
+| bip_39_word_new_line6 | rigid
+suit
+lens
+small
+topple
+able |  
+| bip_39_word_new_line7 | rigid
+suit
+lens
+small
+topple
+able
+device |  
+| bip_39_word_new_line8 | rigid
+suit
+lens
+small
+topple
+able
+device
+arrest |  
+| bip_39_word_new_line9 | rigid
+suit
+lens
+small
+topple
+able
+device
+arrest
+useful |  
+| bip_39_word_space_0 | ['rigid', 'suit', 'lens', 'small', 'topple', 'able', 'device', 'arrest', 'useful', 'useful', 'speak', 'admit'] |  
+| bip_39_word_space_1 | rigid |  
+| bip_39_word_space_10 | rigid suit lens small topple able device arrest useful useful |  
+| bip_39_word_space_11 | rigid suit lens small topple able device arrest useful useful speak |  
+| bip_39_word_space_12 | rigid suit lens small topple able device arrest useful useful speak admit |  
+| bip_39_word_space_2 | rigid suit |  
+| bip_39_word_space_3 | rigid suit lens |  
+| bip_39_word_space_4 | rigid suit lens small |  
+| bip_39_word_space_5 | rigid suit lens small topple |  
+| bip_39_word_space_6 | rigid suit lens small topple able |  
+| bip_39_word_space_7 | rigid suit lens small topple able device |  
+| bip_39_word_space_8 | rigid suit lens small topple able device arrest |  
+| bip_39_word_space_9 | rigid suit lens small topple able device arrest useful |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

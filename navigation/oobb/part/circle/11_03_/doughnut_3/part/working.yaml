@@ -1,3 +1,186 @@
+bip_39_word_new_br1: energy
+bip_39_word_new_br10: energy<br>wall<br>harsh<br>valve<br>upset<br>biology<br>office<br>celery<br>end<br>swing
+bip_39_word_new_br11: energy<br>wall<br>harsh<br>valve<br>upset<br>biology<br>office<br>celery<br>end<br>swing<br>thought
+bip_39_word_new_br12: energy<br>wall<br>harsh<br>valve<br>upset<br>biology<br>office<br>celery<br>end<br>swing<br>thought<br>aerobic
+bip_39_word_new_br2: energy<br>wall
+bip_39_word_new_br3: energy<br>wall<br>harsh
+bip_39_word_new_br4: energy<br>wall<br>harsh<br>valve
+bip_39_word_new_br5: energy<br>wall<br>harsh<br>valve<br>upset
+bip_39_word_new_br6: energy<br>wall<br>harsh<br>valve<br>upset<br>biology
+bip_39_word_new_br7: energy<br>wall<br>harsh<br>valve<br>upset<br>biology<br>office
+bip_39_word_new_br8: energy<br>wall<br>harsh<br>valve<br>upset<br>biology<br>office<br>celery
+bip_39_word_new_br9: energy<br>wall<br>harsh<br>valve<br>upset<br>biology<br>office<br>celery<br>end
+bip_39_word_new_line1: energy
+bip_39_word_new_line10: 'energy
+
+  wall
+
+  harsh
+
+  valve
+
+  upset
+
+  biology
+
+  office
+
+  celery
+
+  end
+
+  swing'
+bip_39_word_new_line11: 'energy
+
+  wall
+
+  harsh
+
+  valve
+
+  upset
+
+  biology
+
+  office
+
+  celery
+
+  end
+
+  swing
+
+  thought'
+bip_39_word_new_line12: 'energy
+
+  wall
+
+  harsh
+
+  valve
+
+  upset
+
+  biology
+
+  office
+
+  celery
+
+  end
+
+  swing
+
+  thought
+
+  aerobic'
+bip_39_word_new_line2: 'energy
+
+  wall'
+bip_39_word_new_line3: 'energy
+
+  wall
+
+  harsh'
+bip_39_word_new_line4: 'energy
+
+  wall
+
+  harsh
+
+  valve'
+bip_39_word_new_line5: 'energy
+
+  wall
+
+  harsh
+
+  valve
+
+  upset'
+bip_39_word_new_line6: 'energy
+
+  wall
+
+  harsh
+
+  valve
+
+  upset
+
+  biology'
+bip_39_word_new_line7: 'energy
+
+  wall
+
+  harsh
+
+  valve
+
+  upset
+
+  biology
+
+  office'
+bip_39_word_new_line8: 'energy
+
+  wall
+
+  harsh
+
+  valve
+
+  upset
+
+  biology
+
+  office
+
+  celery'
+bip_39_word_new_line9: 'energy
+
+  wall
+
+  harsh
+
+  valve
+
+  upset
+
+  biology
+
+  office
+
+  celery
+
+  end'
+bip_39_word_space_0:
+- energy
+- wall
+- harsh
+- valve
+- upset
+- biology
+- office
+- celery
+- end
+- swing
+- thought
+- aerobic
+bip_39_word_space_1: energy
+bip_39_word_space_10: energy wall harsh valve upset biology office celery end swing
+bip_39_word_space_11: energy wall harsh valve upset biology office celery end swing
+  thought
+bip_39_word_space_12: energy wall harsh valve upset biology office celery end swing
+  thought aerobic
+bip_39_word_space_2: energy wall
+bip_39_word_space_3: energy wall harsh
+bip_39_word_space_4: energy wall harsh valve
+bip_39_word_space_5: energy wall harsh valve upset
+bip_39_word_space_6: energy wall harsh valve upset biology
+bip_39_word_space_7: energy wall harsh valve upset biology office
+bip_39_word_space_8: energy wall harsh valve upset biology office celery
+bip_39_word_space_9: energy wall harsh valve upset biology office celery end
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

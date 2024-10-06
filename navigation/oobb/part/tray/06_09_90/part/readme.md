@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: album corn
+  * bip 39 word 3: album corn inform
+  * bip 39 word: album corn inform turtle sport question tower leave steel coast danger appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | album |  
+| bip_39_word_new_br10 | album<br>corn<br>inform<br>turtle<br>sport<br>question<br>tower<br>leave<br>steel<br>coast |  
+| bip_39_word_new_br11 | album<br>corn<br>inform<br>turtle<br>sport<br>question<br>tower<br>leave<br>steel<br>coast<br>danger |  
+| bip_39_word_new_br12 | album<br>corn<br>inform<br>turtle<br>sport<br>question<br>tower<br>leave<br>steel<br>coast<br>danger<br>appear |  
+| bip_39_word_new_br2 | album<br>corn |  
+| bip_39_word_new_br3 | album<br>corn<br>inform |  
+| bip_39_word_new_br4 | album<br>corn<br>inform<br>turtle |  
+| bip_39_word_new_br5 | album<br>corn<br>inform<br>turtle<br>sport |  
+| bip_39_word_new_br6 | album<br>corn<br>inform<br>turtle<br>sport<br>question |  
+| bip_39_word_new_br7 | album<br>corn<br>inform<br>turtle<br>sport<br>question<br>tower |  
+| bip_39_word_new_br8 | album<br>corn<br>inform<br>turtle<br>sport<br>question<br>tower<br>leave |  
+| bip_39_word_new_br9 | album<br>corn<br>inform<br>turtle<br>sport<br>question<br>tower<br>leave<br>steel |  
+| bip_39_word_new_line1 | album |  
+| bip_39_word_new_line10 | album
+corn
+inform
+turtle
+sport
+question
+tower
+leave
+steel
+coast |  
+| bip_39_word_new_line11 | album
+corn
+inform
+turtle
+sport
+question
+tower
+leave
+steel
+coast
+danger |  
+| bip_39_word_new_line12 | album
+corn
+inform
+turtle
+sport
+question
+tower
+leave
+steel
+coast
+danger
+appear |  
+| bip_39_word_new_line2 | album
+corn |  
+| bip_39_word_new_line3 | album
+corn
+inform |  
+| bip_39_word_new_line4 | album
+corn
+inform
+turtle |  
+| bip_39_word_new_line5 | album
+corn
+inform
+turtle
+sport |  
+| bip_39_word_new_line6 | album
+corn
+inform
+turtle
+sport
+question |  
+| bip_39_word_new_line7 | album
+corn
+inform
+turtle
+sport
+question
+tower |  
+| bip_39_word_new_line8 | album
+corn
+inform
+turtle
+sport
+question
+tower
+leave |  
+| bip_39_word_new_line9 | album
+corn
+inform
+turtle
+sport
+question
+tower
+leave
+steel |  
+| bip_39_word_space_0 | ['album', 'corn', 'inform', 'turtle', 'sport', 'question', 'tower', 'leave', 'steel', 'coast', 'danger', 'appear'] |  
+| bip_39_word_space_1 | album |  
+| bip_39_word_space_10 | album corn inform turtle sport question tower leave steel coast |  
+| bip_39_word_space_11 | album corn inform turtle sport question tower leave steel coast danger |  
+| bip_39_word_space_12 | album corn inform turtle sport question tower leave steel coast danger appear |  
+| bip_39_word_space_2 | album corn |  
+| bip_39_word_space_3 | album corn inform |  
+| bip_39_word_space_4 | album corn inform turtle |  
+| bip_39_word_space_5 | album corn inform turtle sport |  
+| bip_39_word_space_6 | album corn inform turtle sport question |  
+| bip_39_word_space_7 | album corn inform turtle sport question tower |  
+| bip_39_word_space_8 | album corn inform turtle sport question tower leave |  
+| bip_39_word_space_9 | album corn inform turtle sport question tower leave steel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

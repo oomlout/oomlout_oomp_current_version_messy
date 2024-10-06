@@ -1,3 +1,186 @@
+bip_39_word_new_br1: summer
+bip_39_word_new_br10: summer<br>pet<br>seed<br>picture<br>rug<br>sister<br>acid<br>clown<br>quarter<br>visual
+bip_39_word_new_br11: summer<br>pet<br>seed<br>picture<br>rug<br>sister<br>acid<br>clown<br>quarter<br>visual<br>wonder
+bip_39_word_new_br12: summer<br>pet<br>seed<br>picture<br>rug<br>sister<br>acid<br>clown<br>quarter<br>visual<br>wonder<br>afford
+bip_39_word_new_br2: summer<br>pet
+bip_39_word_new_br3: summer<br>pet<br>seed
+bip_39_word_new_br4: summer<br>pet<br>seed<br>picture
+bip_39_word_new_br5: summer<br>pet<br>seed<br>picture<br>rug
+bip_39_word_new_br6: summer<br>pet<br>seed<br>picture<br>rug<br>sister
+bip_39_word_new_br7: summer<br>pet<br>seed<br>picture<br>rug<br>sister<br>acid
+bip_39_word_new_br8: summer<br>pet<br>seed<br>picture<br>rug<br>sister<br>acid<br>clown
+bip_39_word_new_br9: summer<br>pet<br>seed<br>picture<br>rug<br>sister<br>acid<br>clown<br>quarter
+bip_39_word_new_line1: summer
+bip_39_word_new_line10: 'summer
+
+  pet
+
+  seed
+
+  picture
+
+  rug
+
+  sister
+
+  acid
+
+  clown
+
+  quarter
+
+  visual'
+bip_39_word_new_line11: 'summer
+
+  pet
+
+  seed
+
+  picture
+
+  rug
+
+  sister
+
+  acid
+
+  clown
+
+  quarter
+
+  visual
+
+  wonder'
+bip_39_word_new_line12: 'summer
+
+  pet
+
+  seed
+
+  picture
+
+  rug
+
+  sister
+
+  acid
+
+  clown
+
+  quarter
+
+  visual
+
+  wonder
+
+  afford'
+bip_39_word_new_line2: 'summer
+
+  pet'
+bip_39_word_new_line3: 'summer
+
+  pet
+
+  seed'
+bip_39_word_new_line4: 'summer
+
+  pet
+
+  seed
+
+  picture'
+bip_39_word_new_line5: 'summer
+
+  pet
+
+  seed
+
+  picture
+
+  rug'
+bip_39_word_new_line6: 'summer
+
+  pet
+
+  seed
+
+  picture
+
+  rug
+
+  sister'
+bip_39_word_new_line7: 'summer
+
+  pet
+
+  seed
+
+  picture
+
+  rug
+
+  sister
+
+  acid'
+bip_39_word_new_line8: 'summer
+
+  pet
+
+  seed
+
+  picture
+
+  rug
+
+  sister
+
+  acid
+
+  clown'
+bip_39_word_new_line9: 'summer
+
+  pet
+
+  seed
+
+  picture
+
+  rug
+
+  sister
+
+  acid
+
+  clown
+
+  quarter'
+bip_39_word_space_0:
+- summer
+- pet
+- seed
+- picture
+- rug
+- sister
+- acid
+- clown
+- quarter
+- visual
+- wonder
+- afford
+bip_39_word_space_1: summer
+bip_39_word_space_10: summer pet seed picture rug sister acid clown quarter visual
+bip_39_word_space_11: summer pet seed picture rug sister acid clown quarter visual
+  wonder
+bip_39_word_space_12: summer pet seed picture rug sister acid clown quarter visual
+  wonder afford
+bip_39_word_space_2: summer pet
+bip_39_word_space_3: summer pet seed
+bip_39_word_space_4: summer pet seed picture
+bip_39_word_space_5: summer pet seed picture rug
+bip_39_word_space_6: summer pet seed picture rug sister
+bip_39_word_space_7: summer pet seed picture rug sister acid
+bip_39_word_space_8: summer pet seed picture rug sister acid clown
+bip_39_word_space_9: summer pet seed picture rug sister acid clown quarter
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

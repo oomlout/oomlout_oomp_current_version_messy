@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: village pluck
+  * bip 39 word 3: village pluck such
+  * bip 39 word: village pluck such cook width winner mimic make seat lawsuit blast admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | village |  
+| bip_39_word_new_br10 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit |  
+| bip_39_word_new_br11 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit<br>blast |  
+| bip_39_word_new_br12 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat<br>lawsuit<br>blast<br>admit |  
+| bip_39_word_new_br2 | village<br>pluck |  
+| bip_39_word_new_br3 | village<br>pluck<br>such |  
+| bip_39_word_new_br4 | village<br>pluck<br>such<br>cook |  
+| bip_39_word_new_br5 | village<br>pluck<br>such<br>cook<br>width |  
+| bip_39_word_new_br6 | village<br>pluck<br>such<br>cook<br>width<br>winner |  
+| bip_39_word_new_br7 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic |  
+| bip_39_word_new_br8 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make |  
+| bip_39_word_new_br9 | village<br>pluck<br>such<br>cook<br>width<br>winner<br>mimic<br>make<br>seat |  
+| bip_39_word_new_line1 | village |  
+| bip_39_word_new_line10 | village
+pluck
+such
+cook
+width
+winner
+mimic
+make
+seat
+lawsuit |  
+| bip_39_word_new_line11 | village
+pluck
+such
+cook
+width
+winner
+mimic
+make
+seat
+lawsuit
+blast |  
+| bip_39_word_new_line12 | village
+pluck
+such
+cook
+width
+winner
+mimic
+make
+seat
+lawsuit
+blast
+admit |  
+| bip_39_word_new_line2 | village
+pluck |  
+| bip_39_word_new_line3 | village
+pluck
+such |  
+| bip_39_word_new_line4 | village
+pluck
+such
+cook |  
+| bip_39_word_new_line5 | village
+pluck
+such
+cook
+width |  
+| bip_39_word_new_line6 | village
+pluck
+such
+cook
+width
+winner |  
+| bip_39_word_new_line7 | village
+pluck
+such
+cook
+width
+winner
+mimic |  
+| bip_39_word_new_line8 | village
+pluck
+such
+cook
+width
+winner
+mimic
+make |  
+| bip_39_word_new_line9 | village
+pluck
+such
+cook
+width
+winner
+mimic
+make
+seat |  
+| bip_39_word_space_0 | ['village', 'pluck', 'such', 'cook', 'width', 'winner', 'mimic', 'make', 'seat', 'lawsuit', 'blast', 'admit'] |  
+| bip_39_word_space_1 | village |  
+| bip_39_word_space_10 | village pluck such cook width winner mimic make seat lawsuit |  
+| bip_39_word_space_11 | village pluck such cook width winner mimic make seat lawsuit blast |  
+| bip_39_word_space_12 | village pluck such cook width winner mimic make seat lawsuit blast admit |  
+| bip_39_word_space_2 | village pluck |  
+| bip_39_word_space_3 | village pluck such |  
+| bip_39_word_space_4 | village pluck such cook |  
+| bip_39_word_space_5 | village pluck such cook width |  
+| bip_39_word_space_6 | village pluck such cook width winner |  
+| bip_39_word_space_7 | village pluck such cook width winner mimic |  
+| bip_39_word_space_8 | village pluck such cook width winner mimic make |  
+| bip_39_word_space_9 | village pluck such cook width winner mimic make seat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

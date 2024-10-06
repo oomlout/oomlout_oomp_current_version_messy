@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spin rabbit
+  * bip 39 word 3: spin rabbit alcohol
+  * bip 39 word: spin rabbit alcohol lizard crash retreat eagle shield safe pepper wealth assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spin |  
+| bip_39_word_new_br10 | spin<br>rabbit<br>alcohol<br>lizard<br>crash<br>retreat<br>eagle<br>shield<br>safe<br>pepper |  
+| bip_39_word_new_br11 | spin<br>rabbit<br>alcohol<br>lizard<br>crash<br>retreat<br>eagle<br>shield<br>safe<br>pepper<br>wealth |  
+| bip_39_word_new_br12 | spin<br>rabbit<br>alcohol<br>lizard<br>crash<br>retreat<br>eagle<br>shield<br>safe<br>pepper<br>wealth<br>assume |  
+| bip_39_word_new_br2 | spin<br>rabbit |  
+| bip_39_word_new_br3 | spin<br>rabbit<br>alcohol |  
+| bip_39_word_new_br4 | spin<br>rabbit<br>alcohol<br>lizard |  
+| bip_39_word_new_br5 | spin<br>rabbit<br>alcohol<br>lizard<br>crash |  
+| bip_39_word_new_br6 | spin<br>rabbit<br>alcohol<br>lizard<br>crash<br>retreat |  
+| bip_39_word_new_br7 | spin<br>rabbit<br>alcohol<br>lizard<br>crash<br>retreat<br>eagle |  
+| bip_39_word_new_br8 | spin<br>rabbit<br>alcohol<br>lizard<br>crash<br>retreat<br>eagle<br>shield |  
+| bip_39_word_new_br9 | spin<br>rabbit<br>alcohol<br>lizard<br>crash<br>retreat<br>eagle<br>shield<br>safe |  
+| bip_39_word_new_line1 | spin |  
+| bip_39_word_new_line10 | spin
+rabbit
+alcohol
+lizard
+crash
+retreat
+eagle
+shield
+safe
+pepper |  
+| bip_39_word_new_line11 | spin
+rabbit
+alcohol
+lizard
+crash
+retreat
+eagle
+shield
+safe
+pepper
+wealth |  
+| bip_39_word_new_line12 | spin
+rabbit
+alcohol
+lizard
+crash
+retreat
+eagle
+shield
+safe
+pepper
+wealth
+assume |  
+| bip_39_word_new_line2 | spin
+rabbit |  
+| bip_39_word_new_line3 | spin
+rabbit
+alcohol |  
+| bip_39_word_new_line4 | spin
+rabbit
+alcohol
+lizard |  
+| bip_39_word_new_line5 | spin
+rabbit
+alcohol
+lizard
+crash |  
+| bip_39_word_new_line6 | spin
+rabbit
+alcohol
+lizard
+crash
+retreat |  
+| bip_39_word_new_line7 | spin
+rabbit
+alcohol
+lizard
+crash
+retreat
+eagle |  
+| bip_39_word_new_line8 | spin
+rabbit
+alcohol
+lizard
+crash
+retreat
+eagle
+shield |  
+| bip_39_word_new_line9 | spin
+rabbit
+alcohol
+lizard
+crash
+retreat
+eagle
+shield
+safe |  
+| bip_39_word_space_0 | ['spin', 'rabbit', 'alcohol', 'lizard', 'crash', 'retreat', 'eagle', 'shield', 'safe', 'pepper', 'wealth', 'assume'] |  
+| bip_39_word_space_1 | spin |  
+| bip_39_word_space_10 | spin rabbit alcohol lizard crash retreat eagle shield safe pepper |  
+| bip_39_word_space_11 | spin rabbit alcohol lizard crash retreat eagle shield safe pepper wealth |  
+| bip_39_word_space_12 | spin rabbit alcohol lizard crash retreat eagle shield safe pepper wealth assume |  
+| bip_39_word_space_2 | spin rabbit |  
+| bip_39_word_space_3 | spin rabbit alcohol |  
+| bip_39_word_space_4 | spin rabbit alcohol lizard |  
+| bip_39_word_space_5 | spin rabbit alcohol lizard crash |  
+| bip_39_word_space_6 | spin rabbit alcohol lizard crash retreat |  
+| bip_39_word_space_7 | spin rabbit alcohol lizard crash retreat eagle |  
+| bip_39_word_space_8 | spin rabbit alcohol lizard crash retreat eagle shield |  
+| bip_39_word_space_9 | spin rabbit alcohol lizard crash retreat eagle shield safe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

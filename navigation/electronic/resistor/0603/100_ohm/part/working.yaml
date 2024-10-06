@@ -1,3 +1,187 @@
+bip_39_word_new_br1: frequent
+bip_39_word_new_br10: frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet
+bip_39_word_new_br11: frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet<br>aim
+bip_39_word_new_br12: frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf<br>helmet<br>aim<br>air
+bip_39_word_new_br2: frequent<br>ticket
+bip_39_word_new_br3: frequent<br>ticket<br>token
+bip_39_word_new_br4: frequent<br>ticket<br>token<br>believe
+bip_39_word_new_br5: frequent<br>ticket<br>token<br>believe<br>answer
+bip_39_word_new_br6: frequent<br>ticket<br>token<br>believe<br>answer<br>isolate
+bip_39_word_new_br7: frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict
+bip_39_word_new_br8: frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road
+bip_39_word_new_br9: frequent<br>ticket<br>token<br>believe<br>answer<br>isolate<br>inflict<br>road<br>wolf
+bip_39_word_new_line1: frequent
+bip_39_word_new_line10: 'frequent
+
+  ticket
+
+  token
+
+  believe
+
+  answer
+
+  isolate
+
+  inflict
+
+  road
+
+  wolf
+
+  helmet'
+bip_39_word_new_line11: 'frequent
+
+  ticket
+
+  token
+
+  believe
+
+  answer
+
+  isolate
+
+  inflict
+
+  road
+
+  wolf
+
+  helmet
+
+  aim'
+bip_39_word_new_line12: 'frequent
+
+  ticket
+
+  token
+
+  believe
+
+  answer
+
+  isolate
+
+  inflict
+
+  road
+
+  wolf
+
+  helmet
+
+  aim
+
+  air'
+bip_39_word_new_line2: 'frequent
+
+  ticket'
+bip_39_word_new_line3: 'frequent
+
+  ticket
+
+  token'
+bip_39_word_new_line4: 'frequent
+
+  ticket
+
+  token
+
+  believe'
+bip_39_word_new_line5: 'frequent
+
+  ticket
+
+  token
+
+  believe
+
+  answer'
+bip_39_word_new_line6: 'frequent
+
+  ticket
+
+  token
+
+  believe
+
+  answer
+
+  isolate'
+bip_39_word_new_line7: 'frequent
+
+  ticket
+
+  token
+
+  believe
+
+  answer
+
+  isolate
+
+  inflict'
+bip_39_word_new_line8: 'frequent
+
+  ticket
+
+  token
+
+  believe
+
+  answer
+
+  isolate
+
+  inflict
+
+  road'
+bip_39_word_new_line9: 'frequent
+
+  ticket
+
+  token
+
+  believe
+
+  answer
+
+  isolate
+
+  inflict
+
+  road
+
+  wolf'
+bip_39_word_space_0:
+- frequent
+- ticket
+- token
+- believe
+- answer
+- isolate
+- inflict
+- road
+- wolf
+- helmet
+- aim
+- air
+bip_39_word_space_1: frequent
+bip_39_word_space_10: frequent ticket token believe answer isolate inflict road wolf
+  helmet
+bip_39_word_space_11: frequent ticket token believe answer isolate inflict road wolf
+  helmet aim
+bip_39_word_space_12: frequent ticket token believe answer isolate inflict road wolf
+  helmet aim air
+bip_39_word_space_2: frequent ticket
+bip_39_word_space_3: frequent ticket token
+bip_39_word_space_4: frequent ticket token believe
+bip_39_word_space_5: frequent ticket token believe answer
+bip_39_word_space_6: frequent ticket token believe answer isolate
+bip_39_word_space_7: frequent ticket token believe answer isolate inflict
+bip_39_word_space_8: frequent ticket token believe answer isolate inflict road
+bip_39_word_space_9: frequent ticket token believe answer isolate inflict road wolf
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: magnet lake
+  * bip 39 word 3: magnet lake ordinary
+  * bip 39 word: magnet lake ordinary half sister sadness rose foil despair glory company avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | magnet |  
+| bip_39_word_new_br10 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness<br>rose<br>foil<br>despair<br>glory |  
+| bip_39_word_new_br11 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness<br>rose<br>foil<br>despair<br>glory<br>company |  
+| bip_39_word_new_br12 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness<br>rose<br>foil<br>despair<br>glory<br>company<br>avocado |  
+| bip_39_word_new_br2 | magnet<br>lake |  
+| bip_39_word_new_br3 | magnet<br>lake<br>ordinary |  
+| bip_39_word_new_br4 | magnet<br>lake<br>ordinary<br>half |  
+| bip_39_word_new_br5 | magnet<br>lake<br>ordinary<br>half<br>sister |  
+| bip_39_word_new_br6 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness |  
+| bip_39_word_new_br7 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness<br>rose |  
+| bip_39_word_new_br8 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness<br>rose<br>foil |  
+| bip_39_word_new_br9 | magnet<br>lake<br>ordinary<br>half<br>sister<br>sadness<br>rose<br>foil<br>despair |  
+| bip_39_word_new_line1 | magnet |  
+| bip_39_word_new_line10 | magnet
+lake
+ordinary
+half
+sister
+sadness
+rose
+foil
+despair
+glory |  
+| bip_39_word_new_line11 | magnet
+lake
+ordinary
+half
+sister
+sadness
+rose
+foil
+despair
+glory
+company |  
+| bip_39_word_new_line12 | magnet
+lake
+ordinary
+half
+sister
+sadness
+rose
+foil
+despair
+glory
+company
+avocado |  
+| bip_39_word_new_line2 | magnet
+lake |  
+| bip_39_word_new_line3 | magnet
+lake
+ordinary |  
+| bip_39_word_new_line4 | magnet
+lake
+ordinary
+half |  
+| bip_39_word_new_line5 | magnet
+lake
+ordinary
+half
+sister |  
+| bip_39_word_new_line6 | magnet
+lake
+ordinary
+half
+sister
+sadness |  
+| bip_39_word_new_line7 | magnet
+lake
+ordinary
+half
+sister
+sadness
+rose |  
+| bip_39_word_new_line8 | magnet
+lake
+ordinary
+half
+sister
+sadness
+rose
+foil |  
+| bip_39_word_new_line9 | magnet
+lake
+ordinary
+half
+sister
+sadness
+rose
+foil
+despair |  
+| bip_39_word_space_0 | ['magnet', 'lake', 'ordinary', 'half', 'sister', 'sadness', 'rose', 'foil', 'despair', 'glory', 'company', 'avocado'] |  
+| bip_39_word_space_1 | magnet |  
+| bip_39_word_space_10 | magnet lake ordinary half sister sadness rose foil despair glory |  
+| bip_39_word_space_11 | magnet lake ordinary half sister sadness rose foil despair glory company |  
+| bip_39_word_space_12 | magnet lake ordinary half sister sadness rose foil despair glory company avocado |  
+| bip_39_word_space_2 | magnet lake |  
+| bip_39_word_space_3 | magnet lake ordinary |  
+| bip_39_word_space_4 | magnet lake ordinary half |  
+| bip_39_word_space_5 | magnet lake ordinary half sister |  
+| bip_39_word_space_6 | magnet lake ordinary half sister sadness |  
+| bip_39_word_space_7 | magnet lake ordinary half sister sadness rose |  
+| bip_39_word_space_8 | magnet lake ordinary half sister sadness rose foil |  
+| bip_39_word_space_9 | magnet lake ordinary half sister sadness rose foil despair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

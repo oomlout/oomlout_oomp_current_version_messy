@@ -1,3 +1,186 @@
+bip_39_word_new_br1: feed
+bip_39_word_new_br10: feed<br>robot<br>fork<br>mouse<br>spend<br>style<br>episode<br>plug<br>deposit<br>dose
+bip_39_word_new_br11: feed<br>robot<br>fork<br>mouse<br>spend<br>style<br>episode<br>plug<br>deposit<br>dose<br>island
+bip_39_word_new_br12: feed<br>robot<br>fork<br>mouse<br>spend<br>style<br>episode<br>plug<br>deposit<br>dose<br>island<br>ankle
+bip_39_word_new_br2: feed<br>robot
+bip_39_word_new_br3: feed<br>robot<br>fork
+bip_39_word_new_br4: feed<br>robot<br>fork<br>mouse
+bip_39_word_new_br5: feed<br>robot<br>fork<br>mouse<br>spend
+bip_39_word_new_br6: feed<br>robot<br>fork<br>mouse<br>spend<br>style
+bip_39_word_new_br7: feed<br>robot<br>fork<br>mouse<br>spend<br>style<br>episode
+bip_39_word_new_br8: feed<br>robot<br>fork<br>mouse<br>spend<br>style<br>episode<br>plug
+bip_39_word_new_br9: feed<br>robot<br>fork<br>mouse<br>spend<br>style<br>episode<br>plug<br>deposit
+bip_39_word_new_line1: feed
+bip_39_word_new_line10: 'feed
+
+  robot
+
+  fork
+
+  mouse
+
+  spend
+
+  style
+
+  episode
+
+  plug
+
+  deposit
+
+  dose'
+bip_39_word_new_line11: 'feed
+
+  robot
+
+  fork
+
+  mouse
+
+  spend
+
+  style
+
+  episode
+
+  plug
+
+  deposit
+
+  dose
+
+  island'
+bip_39_word_new_line12: 'feed
+
+  robot
+
+  fork
+
+  mouse
+
+  spend
+
+  style
+
+  episode
+
+  plug
+
+  deposit
+
+  dose
+
+  island
+
+  ankle'
+bip_39_word_new_line2: 'feed
+
+  robot'
+bip_39_word_new_line3: 'feed
+
+  robot
+
+  fork'
+bip_39_word_new_line4: 'feed
+
+  robot
+
+  fork
+
+  mouse'
+bip_39_word_new_line5: 'feed
+
+  robot
+
+  fork
+
+  mouse
+
+  spend'
+bip_39_word_new_line6: 'feed
+
+  robot
+
+  fork
+
+  mouse
+
+  spend
+
+  style'
+bip_39_word_new_line7: 'feed
+
+  robot
+
+  fork
+
+  mouse
+
+  spend
+
+  style
+
+  episode'
+bip_39_word_new_line8: 'feed
+
+  robot
+
+  fork
+
+  mouse
+
+  spend
+
+  style
+
+  episode
+
+  plug'
+bip_39_word_new_line9: 'feed
+
+  robot
+
+  fork
+
+  mouse
+
+  spend
+
+  style
+
+  episode
+
+  plug
+
+  deposit'
+bip_39_word_space_0:
+- feed
+- robot
+- fork
+- mouse
+- spend
+- style
+- episode
+- plug
+- deposit
+- dose
+- island
+- ankle
+bip_39_word_space_1: feed
+bip_39_word_space_10: feed robot fork mouse spend style episode plug deposit dose
+bip_39_word_space_11: feed robot fork mouse spend style episode plug deposit dose
+  island
+bip_39_word_space_12: feed robot fork mouse spend style episode plug deposit dose
+  island ankle
+bip_39_word_space_2: feed robot
+bip_39_word_space_3: feed robot fork
+bip_39_word_space_4: feed robot fork mouse
+bip_39_word_space_5: feed robot fork mouse spend
+bip_39_word_space_6: feed robot fork mouse spend style
+bip_39_word_space_7: feed robot fork mouse spend style episode
+bip_39_word_space_8: feed robot fork mouse spend style episode plug
+bip_39_word_space_9: feed robot fork mouse spend style episode plug deposit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

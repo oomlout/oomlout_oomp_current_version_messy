@@ -1,3 +1,187 @@
+bip_39_word_new_br1: spider
+bip_39_word_new_br10: spider<br>able<br>kidney<br>spin<br>shuffle<br>example<br>engine<br>grunt<br>voyage<br>excuse
+bip_39_word_new_br11: spider<br>able<br>kidney<br>spin<br>shuffle<br>example<br>engine<br>grunt<br>voyage<br>excuse<br>muscle
+bip_39_word_new_br12: spider<br>able<br>kidney<br>spin<br>shuffle<br>example<br>engine<br>grunt<br>voyage<br>excuse<br>muscle<br>anchor
+bip_39_word_new_br2: spider<br>able
+bip_39_word_new_br3: spider<br>able<br>kidney
+bip_39_word_new_br4: spider<br>able<br>kidney<br>spin
+bip_39_word_new_br5: spider<br>able<br>kidney<br>spin<br>shuffle
+bip_39_word_new_br6: spider<br>able<br>kidney<br>spin<br>shuffle<br>example
+bip_39_word_new_br7: spider<br>able<br>kidney<br>spin<br>shuffle<br>example<br>engine
+bip_39_word_new_br8: spider<br>able<br>kidney<br>spin<br>shuffle<br>example<br>engine<br>grunt
+bip_39_word_new_br9: spider<br>able<br>kidney<br>spin<br>shuffle<br>example<br>engine<br>grunt<br>voyage
+bip_39_word_new_line1: spider
+bip_39_word_new_line10: 'spider
+
+  able
+
+  kidney
+
+  spin
+
+  shuffle
+
+  example
+
+  engine
+
+  grunt
+
+  voyage
+
+  excuse'
+bip_39_word_new_line11: 'spider
+
+  able
+
+  kidney
+
+  spin
+
+  shuffle
+
+  example
+
+  engine
+
+  grunt
+
+  voyage
+
+  excuse
+
+  muscle'
+bip_39_word_new_line12: 'spider
+
+  able
+
+  kidney
+
+  spin
+
+  shuffle
+
+  example
+
+  engine
+
+  grunt
+
+  voyage
+
+  excuse
+
+  muscle
+
+  anchor'
+bip_39_word_new_line2: 'spider
+
+  able'
+bip_39_word_new_line3: 'spider
+
+  able
+
+  kidney'
+bip_39_word_new_line4: 'spider
+
+  able
+
+  kidney
+
+  spin'
+bip_39_word_new_line5: 'spider
+
+  able
+
+  kidney
+
+  spin
+
+  shuffle'
+bip_39_word_new_line6: 'spider
+
+  able
+
+  kidney
+
+  spin
+
+  shuffle
+
+  example'
+bip_39_word_new_line7: 'spider
+
+  able
+
+  kidney
+
+  spin
+
+  shuffle
+
+  example
+
+  engine'
+bip_39_word_new_line8: 'spider
+
+  able
+
+  kidney
+
+  spin
+
+  shuffle
+
+  example
+
+  engine
+
+  grunt'
+bip_39_word_new_line9: 'spider
+
+  able
+
+  kidney
+
+  spin
+
+  shuffle
+
+  example
+
+  engine
+
+  grunt
+
+  voyage'
+bip_39_word_space_0:
+- spider
+- able
+- kidney
+- spin
+- shuffle
+- example
+- engine
+- grunt
+- voyage
+- excuse
+- muscle
+- anchor
+bip_39_word_space_1: spider
+bip_39_word_space_10: spider able kidney spin shuffle example engine grunt voyage
+  excuse
+bip_39_word_space_11: spider able kidney spin shuffle example engine grunt voyage
+  excuse muscle
+bip_39_word_space_12: spider able kidney spin shuffle example engine grunt voyage
+  excuse muscle anchor
+bip_39_word_space_2: spider able
+bip_39_word_space_3: spider able kidney
+bip_39_word_space_4: spider able kidney spin
+bip_39_word_space_5: spider able kidney spin shuffle
+bip_39_word_space_6: spider able kidney spin shuffle example
+bip_39_word_space_7: spider able kidney spin shuffle example engine
+bip_39_word_space_8: spider able kidney spin shuffle example engine grunt
+bip_39_word_space_9: spider able kidney spin shuffle example engine grunt voyage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

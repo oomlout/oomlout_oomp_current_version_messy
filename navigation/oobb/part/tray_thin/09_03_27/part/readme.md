@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enter panda
+  * bip 39 word 3: enter panda office
+  * bip 39 word: enter panda office warm embark clutch lyrics mom siege upper coin admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enter |  
+| bip_39_word_new_br10 | enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege<br>upper |  
+| bip_39_word_new_br11 | enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege<br>upper<br>coin |  
+| bip_39_word_new_br12 | enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege<br>upper<br>coin<br>admit |  
+| bip_39_word_new_br2 | enter<br>panda |  
+| bip_39_word_new_br3 | enter<br>panda<br>office |  
+| bip_39_word_new_br4 | enter<br>panda<br>office<br>warm |  
+| bip_39_word_new_br5 | enter<br>panda<br>office<br>warm<br>embark |  
+| bip_39_word_new_br6 | enter<br>panda<br>office<br>warm<br>embark<br>clutch |  
+| bip_39_word_new_br7 | enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics |  
+| bip_39_word_new_br8 | enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom |  
+| bip_39_word_new_br9 | enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege |  
+| bip_39_word_new_line1 | enter |  
+| bip_39_word_new_line10 | enter
+panda
+office
+warm
+embark
+clutch
+lyrics
+mom
+siege
+upper |  
+| bip_39_word_new_line11 | enter
+panda
+office
+warm
+embark
+clutch
+lyrics
+mom
+siege
+upper
+coin |  
+| bip_39_word_new_line12 | enter
+panda
+office
+warm
+embark
+clutch
+lyrics
+mom
+siege
+upper
+coin
+admit |  
+| bip_39_word_new_line2 | enter
+panda |  
+| bip_39_word_new_line3 | enter
+panda
+office |  
+| bip_39_word_new_line4 | enter
+panda
+office
+warm |  
+| bip_39_word_new_line5 | enter
+panda
+office
+warm
+embark |  
+| bip_39_word_new_line6 | enter
+panda
+office
+warm
+embark
+clutch |  
+| bip_39_word_new_line7 | enter
+panda
+office
+warm
+embark
+clutch
+lyrics |  
+| bip_39_word_new_line8 | enter
+panda
+office
+warm
+embark
+clutch
+lyrics
+mom |  
+| bip_39_word_new_line9 | enter
+panda
+office
+warm
+embark
+clutch
+lyrics
+mom
+siege |  
+| bip_39_word_space_0 | ['enter', 'panda', 'office', 'warm', 'embark', 'clutch', 'lyrics', 'mom', 'siege', 'upper', 'coin', 'admit'] |  
+| bip_39_word_space_1 | enter |  
+| bip_39_word_space_10 | enter panda office warm embark clutch lyrics mom siege upper |  
+| bip_39_word_space_11 | enter panda office warm embark clutch lyrics mom siege upper coin |  
+| bip_39_word_space_12 | enter panda office warm embark clutch lyrics mom siege upper coin admit |  
+| bip_39_word_space_2 | enter panda |  
+| bip_39_word_space_3 | enter panda office |  
+| bip_39_word_space_4 | enter panda office warm |  
+| bip_39_word_space_5 | enter panda office warm embark |  
+| bip_39_word_space_6 | enter panda office warm embark clutch |  
+| bip_39_word_space_7 | enter panda office warm embark clutch lyrics |  
+| bip_39_word_space_8 | enter panda office warm embark clutch lyrics mom |  
+| bip_39_word_space_9 | enter panda office warm embark clutch lyrics mom siege |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ankle
+bip_39_word_new_br10: ankle<br>across<br>when<br>gym<br>thunder<br>dust<br>beach<br>struggle<br>fish<br>enhance
+bip_39_word_new_br11: ankle<br>across<br>when<br>gym<br>thunder<br>dust<br>beach<br>struggle<br>fish<br>enhance<br>artist
+bip_39_word_new_br12: ankle<br>across<br>when<br>gym<br>thunder<br>dust<br>beach<br>struggle<br>fish<br>enhance<br>artist<br>addict
+bip_39_word_new_br2: ankle<br>across
+bip_39_word_new_br3: ankle<br>across<br>when
+bip_39_word_new_br4: ankle<br>across<br>when<br>gym
+bip_39_word_new_br5: ankle<br>across<br>when<br>gym<br>thunder
+bip_39_word_new_br6: ankle<br>across<br>when<br>gym<br>thunder<br>dust
+bip_39_word_new_br7: ankle<br>across<br>when<br>gym<br>thunder<br>dust<br>beach
+bip_39_word_new_br8: ankle<br>across<br>when<br>gym<br>thunder<br>dust<br>beach<br>struggle
+bip_39_word_new_br9: ankle<br>across<br>when<br>gym<br>thunder<br>dust<br>beach<br>struggle<br>fish
+bip_39_word_new_line1: ankle
+bip_39_word_new_line10: 'ankle
+
+  across
+
+  when
+
+  gym
+
+  thunder
+
+  dust
+
+  beach
+
+  struggle
+
+  fish
+
+  enhance'
+bip_39_word_new_line11: 'ankle
+
+  across
+
+  when
+
+  gym
+
+  thunder
+
+  dust
+
+  beach
+
+  struggle
+
+  fish
+
+  enhance
+
+  artist'
+bip_39_word_new_line12: 'ankle
+
+  across
+
+  when
+
+  gym
+
+  thunder
+
+  dust
+
+  beach
+
+  struggle
+
+  fish
+
+  enhance
+
+  artist
+
+  addict'
+bip_39_word_new_line2: 'ankle
+
+  across'
+bip_39_word_new_line3: 'ankle
+
+  across
+
+  when'
+bip_39_word_new_line4: 'ankle
+
+  across
+
+  when
+
+  gym'
+bip_39_word_new_line5: 'ankle
+
+  across
+
+  when
+
+  gym
+
+  thunder'
+bip_39_word_new_line6: 'ankle
+
+  across
+
+  when
+
+  gym
+
+  thunder
+
+  dust'
+bip_39_word_new_line7: 'ankle
+
+  across
+
+  when
+
+  gym
+
+  thunder
+
+  dust
+
+  beach'
+bip_39_word_new_line8: 'ankle
+
+  across
+
+  when
+
+  gym
+
+  thunder
+
+  dust
+
+  beach
+
+  struggle'
+bip_39_word_new_line9: 'ankle
+
+  across
+
+  when
+
+  gym
+
+  thunder
+
+  dust
+
+  beach
+
+  struggle
+
+  fish'
+bip_39_word_space_0:
+- ankle
+- across
+- when
+- gym
+- thunder
+- dust
+- beach
+- struggle
+- fish
+- enhance
+- artist
+- addict
+bip_39_word_space_1: ankle
+bip_39_word_space_10: ankle across when gym thunder dust beach struggle fish enhance
+bip_39_word_space_11: ankle across when gym thunder dust beach struggle fish enhance
+  artist
+bip_39_word_space_12: ankle across when gym thunder dust beach struggle fish enhance
+  artist addict
+bip_39_word_space_2: ankle across
+bip_39_word_space_3: ankle across when
+bip_39_word_space_4: ankle across when gym
+bip_39_word_space_5: ankle across when gym thunder
+bip_39_word_space_6: ankle across when gym thunder dust
+bip_39_word_space_7: ankle across when gym thunder dust beach
+bip_39_word_space_8: ankle across when gym thunder dust beach struggle
+bip_39_word_space_9: ankle across when gym thunder dust beach struggle fish
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

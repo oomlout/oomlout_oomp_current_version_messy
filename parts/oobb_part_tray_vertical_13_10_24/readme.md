@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broccoli timber
+  * bip 39 word 3: broccoli timber balcony
+  * bip 39 word: broccoli timber balcony dad cruise cheese ranch suggest often crush tenant armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broccoli |  
+| bip_39_word_new_br10 | broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese<br>ranch<br>suggest<br>often<br>crush |  
+| bip_39_word_new_br11 | broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese<br>ranch<br>suggest<br>often<br>crush<br>tenant |  
+| bip_39_word_new_br12 | broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese<br>ranch<br>suggest<br>often<br>crush<br>tenant<br>armor |  
+| bip_39_word_new_br2 | broccoli<br>timber |  
+| bip_39_word_new_br3 | broccoli<br>timber<br>balcony |  
+| bip_39_word_new_br4 | broccoli<br>timber<br>balcony<br>dad |  
+| bip_39_word_new_br5 | broccoli<br>timber<br>balcony<br>dad<br>cruise |  
+| bip_39_word_new_br6 | broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese |  
+| bip_39_word_new_br7 | broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese<br>ranch |  
+| bip_39_word_new_br8 | broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese<br>ranch<br>suggest |  
+| bip_39_word_new_br9 | broccoli<br>timber<br>balcony<br>dad<br>cruise<br>cheese<br>ranch<br>suggest<br>often |  
+| bip_39_word_new_line1 | broccoli |  
+| bip_39_word_new_line10 | broccoli
+timber
+balcony
+dad
+cruise
+cheese
+ranch
+suggest
+often
+crush |  
+| bip_39_word_new_line11 | broccoli
+timber
+balcony
+dad
+cruise
+cheese
+ranch
+suggest
+often
+crush
+tenant |  
+| bip_39_word_new_line12 | broccoli
+timber
+balcony
+dad
+cruise
+cheese
+ranch
+suggest
+often
+crush
+tenant
+armor |  
+| bip_39_word_new_line2 | broccoli
+timber |  
+| bip_39_word_new_line3 | broccoli
+timber
+balcony |  
+| bip_39_word_new_line4 | broccoli
+timber
+balcony
+dad |  
+| bip_39_word_new_line5 | broccoli
+timber
+balcony
+dad
+cruise |  
+| bip_39_word_new_line6 | broccoli
+timber
+balcony
+dad
+cruise
+cheese |  
+| bip_39_word_new_line7 | broccoli
+timber
+balcony
+dad
+cruise
+cheese
+ranch |  
+| bip_39_word_new_line8 | broccoli
+timber
+balcony
+dad
+cruise
+cheese
+ranch
+suggest |  
+| bip_39_word_new_line9 | broccoli
+timber
+balcony
+dad
+cruise
+cheese
+ranch
+suggest
+often |  
+| bip_39_word_space_0 | ['broccoli', 'timber', 'balcony', 'dad', 'cruise', 'cheese', 'ranch', 'suggest', 'often', 'crush', 'tenant', 'armor'] |  
+| bip_39_word_space_1 | broccoli |  
+| bip_39_word_space_10 | broccoli timber balcony dad cruise cheese ranch suggest often crush |  
+| bip_39_word_space_11 | broccoli timber balcony dad cruise cheese ranch suggest often crush tenant |  
+| bip_39_word_space_12 | broccoli timber balcony dad cruise cheese ranch suggest often crush tenant armor |  
+| bip_39_word_space_2 | broccoli timber |  
+| bip_39_word_space_3 | broccoli timber balcony |  
+| bip_39_word_space_4 | broccoli timber balcony dad |  
+| bip_39_word_space_5 | broccoli timber balcony dad cruise |  
+| bip_39_word_space_6 | broccoli timber balcony dad cruise cheese |  
+| bip_39_word_space_7 | broccoli timber balcony dad cruise cheese ranch |  
+| bip_39_word_space_8 | broccoli timber balcony dad cruise cheese ranch suggest |  
+| bip_39_word_space_9 | broccoli timber balcony dad cruise cheese ranch suggest often |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

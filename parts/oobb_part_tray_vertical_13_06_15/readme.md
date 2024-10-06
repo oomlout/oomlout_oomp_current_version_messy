@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: system sample
+  * bip 39 word 3: system sample below
+  * bip 39 word: system sample below hurt vanish truck sand duty motor law country assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | system |  
+| bip_39_word_new_br10 | system<br>sample<br>below<br>hurt<br>vanish<br>truck<br>sand<br>duty<br>motor<br>law |  
+| bip_39_word_new_br11 | system<br>sample<br>below<br>hurt<br>vanish<br>truck<br>sand<br>duty<br>motor<br>law<br>country |  
+| bip_39_word_new_br12 | system<br>sample<br>below<br>hurt<br>vanish<br>truck<br>sand<br>duty<br>motor<br>law<br>country<br>assume |  
+| bip_39_word_new_br2 | system<br>sample |  
+| bip_39_word_new_br3 | system<br>sample<br>below |  
+| bip_39_word_new_br4 | system<br>sample<br>below<br>hurt |  
+| bip_39_word_new_br5 | system<br>sample<br>below<br>hurt<br>vanish |  
+| bip_39_word_new_br6 | system<br>sample<br>below<br>hurt<br>vanish<br>truck |  
+| bip_39_word_new_br7 | system<br>sample<br>below<br>hurt<br>vanish<br>truck<br>sand |  
+| bip_39_word_new_br8 | system<br>sample<br>below<br>hurt<br>vanish<br>truck<br>sand<br>duty |  
+| bip_39_word_new_br9 | system<br>sample<br>below<br>hurt<br>vanish<br>truck<br>sand<br>duty<br>motor |  
+| bip_39_word_new_line1 | system |  
+| bip_39_word_new_line10 | system
+sample
+below
+hurt
+vanish
+truck
+sand
+duty
+motor
+law |  
+| bip_39_word_new_line11 | system
+sample
+below
+hurt
+vanish
+truck
+sand
+duty
+motor
+law
+country |  
+| bip_39_word_new_line12 | system
+sample
+below
+hurt
+vanish
+truck
+sand
+duty
+motor
+law
+country
+assume |  
+| bip_39_word_new_line2 | system
+sample |  
+| bip_39_word_new_line3 | system
+sample
+below |  
+| bip_39_word_new_line4 | system
+sample
+below
+hurt |  
+| bip_39_word_new_line5 | system
+sample
+below
+hurt
+vanish |  
+| bip_39_word_new_line6 | system
+sample
+below
+hurt
+vanish
+truck |  
+| bip_39_word_new_line7 | system
+sample
+below
+hurt
+vanish
+truck
+sand |  
+| bip_39_word_new_line8 | system
+sample
+below
+hurt
+vanish
+truck
+sand
+duty |  
+| bip_39_word_new_line9 | system
+sample
+below
+hurt
+vanish
+truck
+sand
+duty
+motor |  
+| bip_39_word_space_0 | ['system', 'sample', 'below', 'hurt', 'vanish', 'truck', 'sand', 'duty', 'motor', 'law', 'country', 'assume'] |  
+| bip_39_word_space_1 | system |  
+| bip_39_word_space_10 | system sample below hurt vanish truck sand duty motor law |  
+| bip_39_word_space_11 | system sample below hurt vanish truck sand duty motor law country |  
+| bip_39_word_space_12 | system sample below hurt vanish truck sand duty motor law country assume |  
+| bip_39_word_space_2 | system sample |  
+| bip_39_word_space_3 | system sample below |  
+| bip_39_word_space_4 | system sample below hurt |  
+| bip_39_word_space_5 | system sample below hurt vanish |  
+| bip_39_word_space_6 | system sample below hurt vanish truck |  
+| bip_39_word_space_7 | system sample below hurt vanish truck sand |  
+| bip_39_word_space_8 | system sample below hurt vanish truck sand duty |  
+| bip_39_word_space_9 | system sample below hurt vanish truck sand duty motor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

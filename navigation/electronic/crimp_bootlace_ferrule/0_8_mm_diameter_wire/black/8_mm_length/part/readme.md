@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bonus private
+  * bip 39 word 3: bonus private decrease
+  * bip 39 word: bonus private decrease together scheme patient material lab reform tortoise leisure alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bonus |  
+| bip_39_word_new_br10 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise |  
+| bip_39_word_new_br11 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise<br>leisure |  
+| bip_39_word_new_br12 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform<br>tortoise<br>leisure<br>alpha |  
+| bip_39_word_new_br2 | bonus<br>private |  
+| bip_39_word_new_br3 | bonus<br>private<br>decrease |  
+| bip_39_word_new_br4 | bonus<br>private<br>decrease<br>together |  
+| bip_39_word_new_br5 | bonus<br>private<br>decrease<br>together<br>scheme |  
+| bip_39_word_new_br6 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient |  
+| bip_39_word_new_br7 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material |  
+| bip_39_word_new_br8 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab |  
+| bip_39_word_new_br9 | bonus<br>private<br>decrease<br>together<br>scheme<br>patient<br>material<br>lab<br>reform |  
+| bip_39_word_new_line1 | bonus |  
+| bip_39_word_new_line10 | bonus
+private
+decrease
+together
+scheme
+patient
+material
+lab
+reform
+tortoise |  
+| bip_39_word_new_line11 | bonus
+private
+decrease
+together
+scheme
+patient
+material
+lab
+reform
+tortoise
+leisure |  
+| bip_39_word_new_line12 | bonus
+private
+decrease
+together
+scheme
+patient
+material
+lab
+reform
+tortoise
+leisure
+alpha |  
+| bip_39_word_new_line2 | bonus
+private |  
+| bip_39_word_new_line3 | bonus
+private
+decrease |  
+| bip_39_word_new_line4 | bonus
+private
+decrease
+together |  
+| bip_39_word_new_line5 | bonus
+private
+decrease
+together
+scheme |  
+| bip_39_word_new_line6 | bonus
+private
+decrease
+together
+scheme
+patient |  
+| bip_39_word_new_line7 | bonus
+private
+decrease
+together
+scheme
+patient
+material |  
+| bip_39_word_new_line8 | bonus
+private
+decrease
+together
+scheme
+patient
+material
+lab |  
+| bip_39_word_new_line9 | bonus
+private
+decrease
+together
+scheme
+patient
+material
+lab
+reform |  
+| bip_39_word_space_0 | ['bonus', 'private', 'decrease', 'together', 'scheme', 'patient', 'material', 'lab', 'reform', 'tortoise', 'leisure', 'alpha'] |  
+| bip_39_word_space_1 | bonus |  
+| bip_39_word_space_10 | bonus private decrease together scheme patient material lab reform tortoise |  
+| bip_39_word_space_11 | bonus private decrease together scheme patient material lab reform tortoise leisure |  
+| bip_39_word_space_12 | bonus private decrease together scheme patient material lab reform tortoise leisure alpha |  
+| bip_39_word_space_2 | bonus private |  
+| bip_39_word_space_3 | bonus private decrease |  
+| bip_39_word_space_4 | bonus private decrease together |  
+| bip_39_word_space_5 | bonus private decrease together scheme |  
+| bip_39_word_space_6 | bonus private decrease together scheme patient |  
+| bip_39_word_space_7 | bonus private decrease together scheme patient material |  
+| bip_39_word_space_8 | bonus private decrease together scheme patient material lab |  
+| bip_39_word_space_9 | bonus private decrease together scheme patient material lab reform |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

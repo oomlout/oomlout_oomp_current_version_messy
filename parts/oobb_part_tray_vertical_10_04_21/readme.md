@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rely aunt
+  * bip 39 word 3: rely aunt predict
+  * bip 39 word: rely aunt predict attack skate hill damage pear wall absent bleak arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rely |  
+| bip_39_word_new_br10 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill<br>damage<br>pear<br>wall<br>absent |  
+| bip_39_word_new_br11 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill<br>damage<br>pear<br>wall<br>absent<br>bleak |  
+| bip_39_word_new_br12 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill<br>damage<br>pear<br>wall<br>absent<br>bleak<br>arrow |  
+| bip_39_word_new_br2 | rely<br>aunt |  
+| bip_39_word_new_br3 | rely<br>aunt<br>predict |  
+| bip_39_word_new_br4 | rely<br>aunt<br>predict<br>attack |  
+| bip_39_word_new_br5 | rely<br>aunt<br>predict<br>attack<br>skate |  
+| bip_39_word_new_br6 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill |  
+| bip_39_word_new_br7 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill<br>damage |  
+| bip_39_word_new_br8 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill<br>damage<br>pear |  
+| bip_39_word_new_br9 | rely<br>aunt<br>predict<br>attack<br>skate<br>hill<br>damage<br>pear<br>wall |  
+| bip_39_word_new_line1 | rely |  
+| bip_39_word_new_line10 | rely
+aunt
+predict
+attack
+skate
+hill
+damage
+pear
+wall
+absent |  
+| bip_39_word_new_line11 | rely
+aunt
+predict
+attack
+skate
+hill
+damage
+pear
+wall
+absent
+bleak |  
+| bip_39_word_new_line12 | rely
+aunt
+predict
+attack
+skate
+hill
+damage
+pear
+wall
+absent
+bleak
+arrow |  
+| bip_39_word_new_line2 | rely
+aunt |  
+| bip_39_word_new_line3 | rely
+aunt
+predict |  
+| bip_39_word_new_line4 | rely
+aunt
+predict
+attack |  
+| bip_39_word_new_line5 | rely
+aunt
+predict
+attack
+skate |  
+| bip_39_word_new_line6 | rely
+aunt
+predict
+attack
+skate
+hill |  
+| bip_39_word_new_line7 | rely
+aunt
+predict
+attack
+skate
+hill
+damage |  
+| bip_39_word_new_line8 | rely
+aunt
+predict
+attack
+skate
+hill
+damage
+pear |  
+| bip_39_word_new_line9 | rely
+aunt
+predict
+attack
+skate
+hill
+damage
+pear
+wall |  
+| bip_39_word_space_0 | ['rely', 'aunt', 'predict', 'attack', 'skate', 'hill', 'damage', 'pear', 'wall', 'absent', 'bleak', 'arrow'] |  
+| bip_39_word_space_1 | rely |  
+| bip_39_word_space_10 | rely aunt predict attack skate hill damage pear wall absent |  
+| bip_39_word_space_11 | rely aunt predict attack skate hill damage pear wall absent bleak |  
+| bip_39_word_space_12 | rely aunt predict attack skate hill damage pear wall absent bleak arrow |  
+| bip_39_word_space_2 | rely aunt |  
+| bip_39_word_space_3 | rely aunt predict |  
+| bip_39_word_space_4 | rely aunt predict attack |  
+| bip_39_word_space_5 | rely aunt predict attack skate |  
+| bip_39_word_space_6 | rely aunt predict attack skate hill |  
+| bip_39_word_space_7 | rely aunt predict attack skate hill damage |  
+| bip_39_word_space_8 | rely aunt predict attack skate hill damage pear |  
+| bip_39_word_space_9 | rely aunt predict attack skate hill damage pear wall |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

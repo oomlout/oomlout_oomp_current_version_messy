@@ -1,3 +1,186 @@
+bip_39_word_new_br1: acid
+bip_39_word_new_br10: acid<br>blast<br>father<br>prevent<br>parade<br>bike<br>advice<br>rubber<br>toward<br>reject
+bip_39_word_new_br11: acid<br>blast<br>father<br>prevent<br>parade<br>bike<br>advice<br>rubber<br>toward<br>reject<br>agent
+bip_39_word_new_br12: acid<br>blast<br>father<br>prevent<br>parade<br>bike<br>advice<br>rubber<br>toward<br>reject<br>agent<br>apple
+bip_39_word_new_br2: acid<br>blast
+bip_39_word_new_br3: acid<br>blast<br>father
+bip_39_word_new_br4: acid<br>blast<br>father<br>prevent
+bip_39_word_new_br5: acid<br>blast<br>father<br>prevent<br>parade
+bip_39_word_new_br6: acid<br>blast<br>father<br>prevent<br>parade<br>bike
+bip_39_word_new_br7: acid<br>blast<br>father<br>prevent<br>parade<br>bike<br>advice
+bip_39_word_new_br8: acid<br>blast<br>father<br>prevent<br>parade<br>bike<br>advice<br>rubber
+bip_39_word_new_br9: acid<br>blast<br>father<br>prevent<br>parade<br>bike<br>advice<br>rubber<br>toward
+bip_39_word_new_line1: acid
+bip_39_word_new_line10: 'acid
+
+  blast
+
+  father
+
+  prevent
+
+  parade
+
+  bike
+
+  advice
+
+  rubber
+
+  toward
+
+  reject'
+bip_39_word_new_line11: 'acid
+
+  blast
+
+  father
+
+  prevent
+
+  parade
+
+  bike
+
+  advice
+
+  rubber
+
+  toward
+
+  reject
+
+  agent'
+bip_39_word_new_line12: 'acid
+
+  blast
+
+  father
+
+  prevent
+
+  parade
+
+  bike
+
+  advice
+
+  rubber
+
+  toward
+
+  reject
+
+  agent
+
+  apple'
+bip_39_word_new_line2: 'acid
+
+  blast'
+bip_39_word_new_line3: 'acid
+
+  blast
+
+  father'
+bip_39_word_new_line4: 'acid
+
+  blast
+
+  father
+
+  prevent'
+bip_39_word_new_line5: 'acid
+
+  blast
+
+  father
+
+  prevent
+
+  parade'
+bip_39_word_new_line6: 'acid
+
+  blast
+
+  father
+
+  prevent
+
+  parade
+
+  bike'
+bip_39_word_new_line7: 'acid
+
+  blast
+
+  father
+
+  prevent
+
+  parade
+
+  bike
+
+  advice'
+bip_39_word_new_line8: 'acid
+
+  blast
+
+  father
+
+  prevent
+
+  parade
+
+  bike
+
+  advice
+
+  rubber'
+bip_39_word_new_line9: 'acid
+
+  blast
+
+  father
+
+  prevent
+
+  parade
+
+  bike
+
+  advice
+
+  rubber
+
+  toward'
+bip_39_word_space_0:
+- acid
+- blast
+- father
+- prevent
+- parade
+- bike
+- advice
+- rubber
+- toward
+- reject
+- agent
+- apple
+bip_39_word_space_1: acid
+bip_39_word_space_10: acid blast father prevent parade bike advice rubber toward reject
+bip_39_word_space_11: acid blast father prevent parade bike advice rubber toward reject
+  agent
+bip_39_word_space_12: acid blast father prevent parade bike advice rubber toward reject
+  agent apple
+bip_39_word_space_2: acid blast
+bip_39_word_space_3: acid blast father
+bip_39_word_space_4: acid blast father prevent
+bip_39_word_space_5: acid blast father prevent parade
+bip_39_word_space_6: acid blast father prevent parade bike
+bip_39_word_space_7: acid blast father prevent parade bike advice
+bip_39_word_space_8: acid blast father prevent parade bike advice rubber
+bip_39_word_space_9: acid blast father prevent parade bike advice rubber toward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

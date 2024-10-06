@@ -1,3 +1,186 @@
+bip_39_word_new_br1: valid
+bip_39_word_new_br10: valid<br>thank<br>tree<br>around<br>claim<br>rent<br>minor<br>shiver<br>cabbage<br>social
+bip_39_word_new_br11: valid<br>thank<br>tree<br>around<br>claim<br>rent<br>minor<br>shiver<br>cabbage<br>social<br>donate
+bip_39_word_new_br12: valid<br>thank<br>tree<br>around<br>claim<br>rent<br>minor<br>shiver<br>cabbage<br>social<br>donate<br>affair
+bip_39_word_new_br2: valid<br>thank
+bip_39_word_new_br3: valid<br>thank<br>tree
+bip_39_word_new_br4: valid<br>thank<br>tree<br>around
+bip_39_word_new_br5: valid<br>thank<br>tree<br>around<br>claim
+bip_39_word_new_br6: valid<br>thank<br>tree<br>around<br>claim<br>rent
+bip_39_word_new_br7: valid<br>thank<br>tree<br>around<br>claim<br>rent<br>minor
+bip_39_word_new_br8: valid<br>thank<br>tree<br>around<br>claim<br>rent<br>minor<br>shiver
+bip_39_word_new_br9: valid<br>thank<br>tree<br>around<br>claim<br>rent<br>minor<br>shiver<br>cabbage
+bip_39_word_new_line1: valid
+bip_39_word_new_line10: 'valid
+
+  thank
+
+  tree
+
+  around
+
+  claim
+
+  rent
+
+  minor
+
+  shiver
+
+  cabbage
+
+  social'
+bip_39_word_new_line11: 'valid
+
+  thank
+
+  tree
+
+  around
+
+  claim
+
+  rent
+
+  minor
+
+  shiver
+
+  cabbage
+
+  social
+
+  donate'
+bip_39_word_new_line12: 'valid
+
+  thank
+
+  tree
+
+  around
+
+  claim
+
+  rent
+
+  minor
+
+  shiver
+
+  cabbage
+
+  social
+
+  donate
+
+  affair'
+bip_39_word_new_line2: 'valid
+
+  thank'
+bip_39_word_new_line3: 'valid
+
+  thank
+
+  tree'
+bip_39_word_new_line4: 'valid
+
+  thank
+
+  tree
+
+  around'
+bip_39_word_new_line5: 'valid
+
+  thank
+
+  tree
+
+  around
+
+  claim'
+bip_39_word_new_line6: 'valid
+
+  thank
+
+  tree
+
+  around
+
+  claim
+
+  rent'
+bip_39_word_new_line7: 'valid
+
+  thank
+
+  tree
+
+  around
+
+  claim
+
+  rent
+
+  minor'
+bip_39_word_new_line8: 'valid
+
+  thank
+
+  tree
+
+  around
+
+  claim
+
+  rent
+
+  minor
+
+  shiver'
+bip_39_word_new_line9: 'valid
+
+  thank
+
+  tree
+
+  around
+
+  claim
+
+  rent
+
+  minor
+
+  shiver
+
+  cabbage'
+bip_39_word_space_0:
+- valid
+- thank
+- tree
+- around
+- claim
+- rent
+- minor
+- shiver
+- cabbage
+- social
+- donate
+- affair
+bip_39_word_space_1: valid
+bip_39_word_space_10: valid thank tree around claim rent minor shiver cabbage social
+bip_39_word_space_11: valid thank tree around claim rent minor shiver cabbage social
+  donate
+bip_39_word_space_12: valid thank tree around claim rent minor shiver cabbage social
+  donate affair
+bip_39_word_space_2: valid thank
+bip_39_word_space_3: valid thank tree
+bip_39_word_space_4: valid thank tree around
+bip_39_word_space_5: valid thank tree around claim
+bip_39_word_space_6: valid thank tree around claim rent
+bip_39_word_space_7: valid thank tree around claim rent minor
+bip_39_word_space_8: valid thank tree around claim rent minor shiver
+bip_39_word_space_9: valid thank tree around claim rent minor shiver cabbage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

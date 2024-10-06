@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wire
+bip_39_word_new_br10: wire<br>project<br>high<br>cheap<br>brave<br>cotton<br>scorpion<br>pig<br>worth<br>brave
+bip_39_word_new_br11: wire<br>project<br>high<br>cheap<br>brave<br>cotton<br>scorpion<br>pig<br>worth<br>brave<br>certain
+bip_39_word_new_br12: wire<br>project<br>high<br>cheap<br>brave<br>cotton<br>scorpion<br>pig<br>worth<br>brave<br>certain<br>assume
+bip_39_word_new_br2: wire<br>project
+bip_39_word_new_br3: wire<br>project<br>high
+bip_39_word_new_br4: wire<br>project<br>high<br>cheap
+bip_39_word_new_br5: wire<br>project<br>high<br>cheap<br>brave
+bip_39_word_new_br6: wire<br>project<br>high<br>cheap<br>brave<br>cotton
+bip_39_word_new_br7: wire<br>project<br>high<br>cheap<br>brave<br>cotton<br>scorpion
+bip_39_word_new_br8: wire<br>project<br>high<br>cheap<br>brave<br>cotton<br>scorpion<br>pig
+bip_39_word_new_br9: wire<br>project<br>high<br>cheap<br>brave<br>cotton<br>scorpion<br>pig<br>worth
+bip_39_word_new_line1: wire
+bip_39_word_new_line10: 'wire
+
+  project
+
+  high
+
+  cheap
+
+  brave
+
+  cotton
+
+  scorpion
+
+  pig
+
+  worth
+
+  brave'
+bip_39_word_new_line11: 'wire
+
+  project
+
+  high
+
+  cheap
+
+  brave
+
+  cotton
+
+  scorpion
+
+  pig
+
+  worth
+
+  brave
+
+  certain'
+bip_39_word_new_line12: 'wire
+
+  project
+
+  high
+
+  cheap
+
+  brave
+
+  cotton
+
+  scorpion
+
+  pig
+
+  worth
+
+  brave
+
+  certain
+
+  assume'
+bip_39_word_new_line2: 'wire
+
+  project'
+bip_39_word_new_line3: 'wire
+
+  project
+
+  high'
+bip_39_word_new_line4: 'wire
+
+  project
+
+  high
+
+  cheap'
+bip_39_word_new_line5: 'wire
+
+  project
+
+  high
+
+  cheap
+
+  brave'
+bip_39_word_new_line6: 'wire
+
+  project
+
+  high
+
+  cheap
+
+  brave
+
+  cotton'
+bip_39_word_new_line7: 'wire
+
+  project
+
+  high
+
+  cheap
+
+  brave
+
+  cotton
+
+  scorpion'
+bip_39_word_new_line8: 'wire
+
+  project
+
+  high
+
+  cheap
+
+  brave
+
+  cotton
+
+  scorpion
+
+  pig'
+bip_39_word_new_line9: 'wire
+
+  project
+
+  high
+
+  cheap
+
+  brave
+
+  cotton
+
+  scorpion
+
+  pig
+
+  worth'
+bip_39_word_space_0:
+- wire
+- project
+- high
+- cheap
+- brave
+- cotton
+- scorpion
+- pig
+- worth
+- brave
+- certain
+- assume
+bip_39_word_space_1: wire
+bip_39_word_space_10: wire project high cheap brave cotton scorpion pig worth brave
+bip_39_word_space_11: wire project high cheap brave cotton scorpion pig worth brave
+  certain
+bip_39_word_space_12: wire project high cheap brave cotton scorpion pig worth brave
+  certain assume
+bip_39_word_space_2: wire project
+bip_39_word_space_3: wire project high
+bip_39_word_space_4: wire project high cheap
+bip_39_word_space_5: wire project high cheap brave
+bip_39_word_space_6: wire project high cheap brave cotton
+bip_39_word_space_7: wire project high cheap brave cotton scorpion
+bip_39_word_space_8: wire project high cheap brave cotton scorpion pig
+bip_39_word_space_9: wire project high cheap brave cotton scorpion pig worth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

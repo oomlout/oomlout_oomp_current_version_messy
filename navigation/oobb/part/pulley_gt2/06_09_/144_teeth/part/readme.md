@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: marriage address
+  * bip 39 word 3: marriage address giraffe
+  * bip 39 word: marriage address giraffe leg used coast rescue grid ball inner dentist accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | marriage |  
+| bip_39_word_new_br10 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast<br>rescue<br>grid<br>ball<br>inner |  
+| bip_39_word_new_br11 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast<br>rescue<br>grid<br>ball<br>inner<br>dentist |  
+| bip_39_word_new_br12 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast<br>rescue<br>grid<br>ball<br>inner<br>dentist<br>accuse |  
+| bip_39_word_new_br2 | marriage<br>address |  
+| bip_39_word_new_br3 | marriage<br>address<br>giraffe |  
+| bip_39_word_new_br4 | marriage<br>address<br>giraffe<br>leg |  
+| bip_39_word_new_br5 | marriage<br>address<br>giraffe<br>leg<br>used |  
+| bip_39_word_new_br6 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast |  
+| bip_39_word_new_br7 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast<br>rescue |  
+| bip_39_word_new_br8 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast<br>rescue<br>grid |  
+| bip_39_word_new_br9 | marriage<br>address<br>giraffe<br>leg<br>used<br>coast<br>rescue<br>grid<br>ball |  
+| bip_39_word_new_line1 | marriage |  
+| bip_39_word_new_line10 | marriage
+address
+giraffe
+leg
+used
+coast
+rescue
+grid
+ball
+inner |  
+| bip_39_word_new_line11 | marriage
+address
+giraffe
+leg
+used
+coast
+rescue
+grid
+ball
+inner
+dentist |  
+| bip_39_word_new_line12 | marriage
+address
+giraffe
+leg
+used
+coast
+rescue
+grid
+ball
+inner
+dentist
+accuse |  
+| bip_39_word_new_line2 | marriage
+address |  
+| bip_39_word_new_line3 | marriage
+address
+giraffe |  
+| bip_39_word_new_line4 | marriage
+address
+giraffe
+leg |  
+| bip_39_word_new_line5 | marriage
+address
+giraffe
+leg
+used |  
+| bip_39_word_new_line6 | marriage
+address
+giraffe
+leg
+used
+coast |  
+| bip_39_word_new_line7 | marriage
+address
+giraffe
+leg
+used
+coast
+rescue |  
+| bip_39_word_new_line8 | marriage
+address
+giraffe
+leg
+used
+coast
+rescue
+grid |  
+| bip_39_word_new_line9 | marriage
+address
+giraffe
+leg
+used
+coast
+rescue
+grid
+ball |  
+| bip_39_word_space_0 | ['marriage', 'address', 'giraffe', 'leg', 'used', 'coast', 'rescue', 'grid', 'ball', 'inner', 'dentist', 'accuse'] |  
+| bip_39_word_space_1 | marriage |  
+| bip_39_word_space_10 | marriage address giraffe leg used coast rescue grid ball inner |  
+| bip_39_word_space_11 | marriage address giraffe leg used coast rescue grid ball inner dentist |  
+| bip_39_word_space_12 | marriage address giraffe leg used coast rescue grid ball inner dentist accuse |  
+| bip_39_word_space_2 | marriage address |  
+| bip_39_word_space_3 | marriage address giraffe |  
+| bip_39_word_space_4 | marriage address giraffe leg |  
+| bip_39_word_space_5 | marriage address giraffe leg used |  
+| bip_39_word_space_6 | marriage address giraffe leg used coast |  
+| bip_39_word_space_7 | marriage address giraffe leg used coast rescue |  
+| bip_39_word_space_8 | marriage address giraffe leg used coast rescue grid |  
+| bip_39_word_space_9 | marriage address giraffe leg used coast rescue grid ball |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

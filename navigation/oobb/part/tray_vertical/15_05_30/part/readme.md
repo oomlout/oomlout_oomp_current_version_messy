@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dial bike
+  * bip 39 word 3: dial bike dutch
+  * bip 39 word: dial bike dutch taste lunch decorate decade blanket oval maze truly appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dial |  
+| bip_39_word_new_br10 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate<br>decade<br>blanket<br>oval<br>maze |  
+| bip_39_word_new_br11 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate<br>decade<br>blanket<br>oval<br>maze<br>truly |  
+| bip_39_word_new_br12 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate<br>decade<br>blanket<br>oval<br>maze<br>truly<br>appear |  
+| bip_39_word_new_br2 | dial<br>bike |  
+| bip_39_word_new_br3 | dial<br>bike<br>dutch |  
+| bip_39_word_new_br4 | dial<br>bike<br>dutch<br>taste |  
+| bip_39_word_new_br5 | dial<br>bike<br>dutch<br>taste<br>lunch |  
+| bip_39_word_new_br6 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate |  
+| bip_39_word_new_br7 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate<br>decade |  
+| bip_39_word_new_br8 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate<br>decade<br>blanket |  
+| bip_39_word_new_br9 | dial<br>bike<br>dutch<br>taste<br>lunch<br>decorate<br>decade<br>blanket<br>oval |  
+| bip_39_word_new_line1 | dial |  
+| bip_39_word_new_line10 | dial
+bike
+dutch
+taste
+lunch
+decorate
+decade
+blanket
+oval
+maze |  
+| bip_39_word_new_line11 | dial
+bike
+dutch
+taste
+lunch
+decorate
+decade
+blanket
+oval
+maze
+truly |  
+| bip_39_word_new_line12 | dial
+bike
+dutch
+taste
+lunch
+decorate
+decade
+blanket
+oval
+maze
+truly
+appear |  
+| bip_39_word_new_line2 | dial
+bike |  
+| bip_39_word_new_line3 | dial
+bike
+dutch |  
+| bip_39_word_new_line4 | dial
+bike
+dutch
+taste |  
+| bip_39_word_new_line5 | dial
+bike
+dutch
+taste
+lunch |  
+| bip_39_word_new_line6 | dial
+bike
+dutch
+taste
+lunch
+decorate |  
+| bip_39_word_new_line7 | dial
+bike
+dutch
+taste
+lunch
+decorate
+decade |  
+| bip_39_word_new_line8 | dial
+bike
+dutch
+taste
+lunch
+decorate
+decade
+blanket |  
+| bip_39_word_new_line9 | dial
+bike
+dutch
+taste
+lunch
+decorate
+decade
+blanket
+oval |  
+| bip_39_word_space_0 | ['dial', 'bike', 'dutch', 'taste', 'lunch', 'decorate', 'decade', 'blanket', 'oval', 'maze', 'truly', 'appear'] |  
+| bip_39_word_space_1 | dial |  
+| bip_39_word_space_10 | dial bike dutch taste lunch decorate decade blanket oval maze |  
+| bip_39_word_space_11 | dial bike dutch taste lunch decorate decade blanket oval maze truly |  
+| bip_39_word_space_12 | dial bike dutch taste lunch decorate decade blanket oval maze truly appear |  
+| bip_39_word_space_2 | dial bike |  
+| bip_39_word_space_3 | dial bike dutch |  
+| bip_39_word_space_4 | dial bike dutch taste |  
+| bip_39_word_space_5 | dial bike dutch taste lunch |  
+| bip_39_word_space_6 | dial bike dutch taste lunch decorate |  
+| bip_39_word_space_7 | dial bike dutch taste lunch decorate decade |  
+| bip_39_word_space_8 | dial bike dutch taste lunch decorate decade blanket |  
+| bip_39_word_space_9 | dial bike dutch taste lunch decorate decade blanket oval |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ticket business
+  * bip 39 word 3: ticket business you
+  * bip 39 word: ticket business you drip canal gold barrel cube shoot model salt ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ticket |  
+| bip_39_word_new_br10 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model |  
+| bip_39_word_new_br11 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model<br>salt |  
+| bip_39_word_new_br12 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot<br>model<br>salt<br>ancient |  
+| bip_39_word_new_br2 | ticket<br>business |  
+| bip_39_word_new_br3 | ticket<br>business<br>you |  
+| bip_39_word_new_br4 | ticket<br>business<br>you<br>drip |  
+| bip_39_word_new_br5 | ticket<br>business<br>you<br>drip<br>canal |  
+| bip_39_word_new_br6 | ticket<br>business<br>you<br>drip<br>canal<br>gold |  
+| bip_39_word_new_br7 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel |  
+| bip_39_word_new_br8 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube |  
+| bip_39_word_new_br9 | ticket<br>business<br>you<br>drip<br>canal<br>gold<br>barrel<br>cube<br>shoot |  
+| bip_39_word_new_line1 | ticket |  
+| bip_39_word_new_line10 | ticket
+business
+you
+drip
+canal
+gold
+barrel
+cube
+shoot
+model |  
+| bip_39_word_new_line11 | ticket
+business
+you
+drip
+canal
+gold
+barrel
+cube
+shoot
+model
+salt |  
+| bip_39_word_new_line12 | ticket
+business
+you
+drip
+canal
+gold
+barrel
+cube
+shoot
+model
+salt
+ancient |  
+| bip_39_word_new_line2 | ticket
+business |  
+| bip_39_word_new_line3 | ticket
+business
+you |  
+| bip_39_word_new_line4 | ticket
+business
+you
+drip |  
+| bip_39_word_new_line5 | ticket
+business
+you
+drip
+canal |  
+| bip_39_word_new_line6 | ticket
+business
+you
+drip
+canal
+gold |  
+| bip_39_word_new_line7 | ticket
+business
+you
+drip
+canal
+gold
+barrel |  
+| bip_39_word_new_line8 | ticket
+business
+you
+drip
+canal
+gold
+barrel
+cube |  
+| bip_39_word_new_line9 | ticket
+business
+you
+drip
+canal
+gold
+barrel
+cube
+shoot |  
+| bip_39_word_space_0 | ['ticket', 'business', 'you', 'drip', 'canal', 'gold', 'barrel', 'cube', 'shoot', 'model', 'salt', 'ancient'] |  
+| bip_39_word_space_1 | ticket |  
+| bip_39_word_space_10 | ticket business you drip canal gold barrel cube shoot model |  
+| bip_39_word_space_11 | ticket business you drip canal gold barrel cube shoot model salt |  
+| bip_39_word_space_12 | ticket business you drip canal gold barrel cube shoot model salt ancient |  
+| bip_39_word_space_2 | ticket business |  
+| bip_39_word_space_3 | ticket business you |  
+| bip_39_word_space_4 | ticket business you drip |  
+| bip_39_word_space_5 | ticket business you drip canal |  
+| bip_39_word_space_6 | ticket business you drip canal gold |  
+| bip_39_word_space_7 | ticket business you drip canal gold barrel |  
+| bip_39_word_space_8 | ticket business you drip canal gold barrel cube |  
+| bip_39_word_space_9 | ticket business you drip canal gold barrel cube shoot |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inside action
+  * bip 39 word 3: inside action pact
+  * bip 39 word: inside action pact silk quantum above drill artist tomorrow gesture asset author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inside |  
+| bip_39_word_new_br10 | inside<br>action<br>pact<br>silk<br>quantum<br>above<br>drill<br>artist<br>tomorrow<br>gesture |  
+| bip_39_word_new_br11 | inside<br>action<br>pact<br>silk<br>quantum<br>above<br>drill<br>artist<br>tomorrow<br>gesture<br>asset |  
+| bip_39_word_new_br12 | inside<br>action<br>pact<br>silk<br>quantum<br>above<br>drill<br>artist<br>tomorrow<br>gesture<br>asset<br>author |  
+| bip_39_word_new_br2 | inside<br>action |  
+| bip_39_word_new_br3 | inside<br>action<br>pact |  
+| bip_39_word_new_br4 | inside<br>action<br>pact<br>silk |  
+| bip_39_word_new_br5 | inside<br>action<br>pact<br>silk<br>quantum |  
+| bip_39_word_new_br6 | inside<br>action<br>pact<br>silk<br>quantum<br>above |  
+| bip_39_word_new_br7 | inside<br>action<br>pact<br>silk<br>quantum<br>above<br>drill |  
+| bip_39_word_new_br8 | inside<br>action<br>pact<br>silk<br>quantum<br>above<br>drill<br>artist |  
+| bip_39_word_new_br9 | inside<br>action<br>pact<br>silk<br>quantum<br>above<br>drill<br>artist<br>tomorrow |  
+| bip_39_word_new_line1 | inside |  
+| bip_39_word_new_line10 | inside
+action
+pact
+silk
+quantum
+above
+drill
+artist
+tomorrow
+gesture |  
+| bip_39_word_new_line11 | inside
+action
+pact
+silk
+quantum
+above
+drill
+artist
+tomorrow
+gesture
+asset |  
+| bip_39_word_new_line12 | inside
+action
+pact
+silk
+quantum
+above
+drill
+artist
+tomorrow
+gesture
+asset
+author |  
+| bip_39_word_new_line2 | inside
+action |  
+| bip_39_word_new_line3 | inside
+action
+pact |  
+| bip_39_word_new_line4 | inside
+action
+pact
+silk |  
+| bip_39_word_new_line5 | inside
+action
+pact
+silk
+quantum |  
+| bip_39_word_new_line6 | inside
+action
+pact
+silk
+quantum
+above |  
+| bip_39_word_new_line7 | inside
+action
+pact
+silk
+quantum
+above
+drill |  
+| bip_39_word_new_line8 | inside
+action
+pact
+silk
+quantum
+above
+drill
+artist |  
+| bip_39_word_new_line9 | inside
+action
+pact
+silk
+quantum
+above
+drill
+artist
+tomorrow |  
+| bip_39_word_space_0 | ['inside', 'action', 'pact', 'silk', 'quantum', 'above', 'drill', 'artist', 'tomorrow', 'gesture', 'asset', 'author'] |  
+| bip_39_word_space_1 | inside |  
+| bip_39_word_space_10 | inside action pact silk quantum above drill artist tomorrow gesture |  
+| bip_39_word_space_11 | inside action pact silk quantum above drill artist tomorrow gesture asset |  
+| bip_39_word_space_12 | inside action pact silk quantum above drill artist tomorrow gesture asset author |  
+| bip_39_word_space_2 | inside action |  
+| bip_39_word_space_3 | inside action pact |  
+| bip_39_word_space_4 | inside action pact silk |  
+| bip_39_word_space_5 | inside action pact silk quantum |  
+| bip_39_word_space_6 | inside action pact silk quantum above |  
+| bip_39_word_space_7 | inside action pact silk quantum above drill |  
+| bip_39_word_space_8 | inside action pact silk quantum above drill artist |  
+| bip_39_word_space_9 | inside action pact silk quantum above drill artist tomorrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: border accident
+  * bip 39 word 3: border accident bottom
+  * bip 39 word: border accident bottom school must first inspire trap faculty metal that alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | border |  
+| bip_39_word_new_br10 | border<br>accident<br>bottom<br>school<br>must<br>first<br>inspire<br>trap<br>faculty<br>metal |  
+| bip_39_word_new_br11 | border<br>accident<br>bottom<br>school<br>must<br>first<br>inspire<br>trap<br>faculty<br>metal<br>that |  
+| bip_39_word_new_br12 | border<br>accident<br>bottom<br>school<br>must<br>first<br>inspire<br>trap<br>faculty<br>metal<br>that<br>alarm |  
+| bip_39_word_new_br2 | border<br>accident |  
+| bip_39_word_new_br3 | border<br>accident<br>bottom |  
+| bip_39_word_new_br4 | border<br>accident<br>bottom<br>school |  
+| bip_39_word_new_br5 | border<br>accident<br>bottom<br>school<br>must |  
+| bip_39_word_new_br6 | border<br>accident<br>bottom<br>school<br>must<br>first |  
+| bip_39_word_new_br7 | border<br>accident<br>bottom<br>school<br>must<br>first<br>inspire |  
+| bip_39_word_new_br8 | border<br>accident<br>bottom<br>school<br>must<br>first<br>inspire<br>trap |  
+| bip_39_word_new_br9 | border<br>accident<br>bottom<br>school<br>must<br>first<br>inspire<br>trap<br>faculty |  
+| bip_39_word_new_line1 | border |  
+| bip_39_word_new_line10 | border
+accident
+bottom
+school
+must
+first
+inspire
+trap
+faculty
+metal |  
+| bip_39_word_new_line11 | border
+accident
+bottom
+school
+must
+first
+inspire
+trap
+faculty
+metal
+that |  
+| bip_39_word_new_line12 | border
+accident
+bottom
+school
+must
+first
+inspire
+trap
+faculty
+metal
+that
+alarm |  
+| bip_39_word_new_line2 | border
+accident |  
+| bip_39_word_new_line3 | border
+accident
+bottom |  
+| bip_39_word_new_line4 | border
+accident
+bottom
+school |  
+| bip_39_word_new_line5 | border
+accident
+bottom
+school
+must |  
+| bip_39_word_new_line6 | border
+accident
+bottom
+school
+must
+first |  
+| bip_39_word_new_line7 | border
+accident
+bottom
+school
+must
+first
+inspire |  
+| bip_39_word_new_line8 | border
+accident
+bottom
+school
+must
+first
+inspire
+trap |  
+| bip_39_word_new_line9 | border
+accident
+bottom
+school
+must
+first
+inspire
+trap
+faculty |  
+| bip_39_word_space_0 | ['border', 'accident', 'bottom', 'school', 'must', 'first', 'inspire', 'trap', 'faculty', 'metal', 'that', 'alarm'] |  
+| bip_39_word_space_1 | border |  
+| bip_39_word_space_10 | border accident bottom school must first inspire trap faculty metal |  
+| bip_39_word_space_11 | border accident bottom school must first inspire trap faculty metal that |  
+| bip_39_word_space_12 | border accident bottom school must first inspire trap faculty metal that alarm |  
+| bip_39_word_space_2 | border accident |  
+| bip_39_word_space_3 | border accident bottom |  
+| bip_39_word_space_4 | border accident bottom school |  
+| bip_39_word_space_5 | border accident bottom school must |  
+| bip_39_word_space_6 | border accident bottom school must first |  
+| bip_39_word_space_7 | border accident bottom school must first inspire |  
+| bip_39_word_space_8 | border accident bottom school must first inspire trap |  
+| bip_39_word_space_9 | border accident bottom school must first inspire trap faculty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

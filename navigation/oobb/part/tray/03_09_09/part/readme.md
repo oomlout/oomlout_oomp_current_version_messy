@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: physical few
+  * bip 39 word 3: physical few stage
+  * bip 39 word: physical few stage draft permit mosquito congress venture thrive cat carry amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | physical |  
+| bip_39_word_new_br10 | physical<br>few<br>stage<br>draft<br>permit<br>mosquito<br>congress<br>venture<br>thrive<br>cat |  
+| bip_39_word_new_br11 | physical<br>few<br>stage<br>draft<br>permit<br>mosquito<br>congress<br>venture<br>thrive<br>cat<br>carry |  
+| bip_39_word_new_br12 | physical<br>few<br>stage<br>draft<br>permit<br>mosquito<br>congress<br>venture<br>thrive<br>cat<br>carry<br>amused |  
+| bip_39_word_new_br2 | physical<br>few |  
+| bip_39_word_new_br3 | physical<br>few<br>stage |  
+| bip_39_word_new_br4 | physical<br>few<br>stage<br>draft |  
+| bip_39_word_new_br5 | physical<br>few<br>stage<br>draft<br>permit |  
+| bip_39_word_new_br6 | physical<br>few<br>stage<br>draft<br>permit<br>mosquito |  
+| bip_39_word_new_br7 | physical<br>few<br>stage<br>draft<br>permit<br>mosquito<br>congress |  
+| bip_39_word_new_br8 | physical<br>few<br>stage<br>draft<br>permit<br>mosquito<br>congress<br>venture |  
+| bip_39_word_new_br9 | physical<br>few<br>stage<br>draft<br>permit<br>mosquito<br>congress<br>venture<br>thrive |  
+| bip_39_word_new_line1 | physical |  
+| bip_39_word_new_line10 | physical
+few
+stage
+draft
+permit
+mosquito
+congress
+venture
+thrive
+cat |  
+| bip_39_word_new_line11 | physical
+few
+stage
+draft
+permit
+mosquito
+congress
+venture
+thrive
+cat
+carry |  
+| bip_39_word_new_line12 | physical
+few
+stage
+draft
+permit
+mosquito
+congress
+venture
+thrive
+cat
+carry
+amused |  
+| bip_39_word_new_line2 | physical
+few |  
+| bip_39_word_new_line3 | physical
+few
+stage |  
+| bip_39_word_new_line4 | physical
+few
+stage
+draft |  
+| bip_39_word_new_line5 | physical
+few
+stage
+draft
+permit |  
+| bip_39_word_new_line6 | physical
+few
+stage
+draft
+permit
+mosquito |  
+| bip_39_word_new_line7 | physical
+few
+stage
+draft
+permit
+mosquito
+congress |  
+| bip_39_word_new_line8 | physical
+few
+stage
+draft
+permit
+mosquito
+congress
+venture |  
+| bip_39_word_new_line9 | physical
+few
+stage
+draft
+permit
+mosquito
+congress
+venture
+thrive |  
+| bip_39_word_space_0 | ['physical', 'few', 'stage', 'draft', 'permit', 'mosquito', 'congress', 'venture', 'thrive', 'cat', 'carry', 'amused'] |  
+| bip_39_word_space_1 | physical |  
+| bip_39_word_space_10 | physical few stage draft permit mosquito congress venture thrive cat |  
+| bip_39_word_space_11 | physical few stage draft permit mosquito congress venture thrive cat carry |  
+| bip_39_word_space_12 | physical few stage draft permit mosquito congress venture thrive cat carry amused |  
+| bip_39_word_space_2 | physical few |  
+| bip_39_word_space_3 | physical few stage |  
+| bip_39_word_space_4 | physical few stage draft |  
+| bip_39_word_space_5 | physical few stage draft permit |  
+| bip_39_word_space_6 | physical few stage draft permit mosquito |  
+| bip_39_word_space_7 | physical few stage draft permit mosquito congress |  
+| bip_39_word_space_8 | physical few stage draft permit mosquito congress venture |  
+| bip_39_word_space_9 | physical few stage draft permit mosquito congress venture thrive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

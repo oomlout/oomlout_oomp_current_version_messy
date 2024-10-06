@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: knife lyrics
+  * bip 39 word 3: knife lyrics mountain
+  * bip 39 word: knife lyrics mountain apple indoor canal nasty meadow boy speed leader aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | knife |  
+| bip_39_word_new_br10 | knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal<br>nasty<br>meadow<br>boy<br>speed |  
+| bip_39_word_new_br11 | knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal<br>nasty<br>meadow<br>boy<br>speed<br>leader |  
+| bip_39_word_new_br12 | knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal<br>nasty<br>meadow<br>boy<br>speed<br>leader<br>aspect |  
+| bip_39_word_new_br2 | knife<br>lyrics |  
+| bip_39_word_new_br3 | knife<br>lyrics<br>mountain |  
+| bip_39_word_new_br4 | knife<br>lyrics<br>mountain<br>apple |  
+| bip_39_word_new_br5 | knife<br>lyrics<br>mountain<br>apple<br>indoor |  
+| bip_39_word_new_br6 | knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal |  
+| bip_39_word_new_br7 | knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal<br>nasty |  
+| bip_39_word_new_br8 | knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal<br>nasty<br>meadow |  
+| bip_39_word_new_br9 | knife<br>lyrics<br>mountain<br>apple<br>indoor<br>canal<br>nasty<br>meadow<br>boy |  
+| bip_39_word_new_line1 | knife |  
+| bip_39_word_new_line10 | knife
+lyrics
+mountain
+apple
+indoor
+canal
+nasty
+meadow
+boy
+speed |  
+| bip_39_word_new_line11 | knife
+lyrics
+mountain
+apple
+indoor
+canal
+nasty
+meadow
+boy
+speed
+leader |  
+| bip_39_word_new_line12 | knife
+lyrics
+mountain
+apple
+indoor
+canal
+nasty
+meadow
+boy
+speed
+leader
+aspect |  
+| bip_39_word_new_line2 | knife
+lyrics |  
+| bip_39_word_new_line3 | knife
+lyrics
+mountain |  
+| bip_39_word_new_line4 | knife
+lyrics
+mountain
+apple |  
+| bip_39_word_new_line5 | knife
+lyrics
+mountain
+apple
+indoor |  
+| bip_39_word_new_line6 | knife
+lyrics
+mountain
+apple
+indoor
+canal |  
+| bip_39_word_new_line7 | knife
+lyrics
+mountain
+apple
+indoor
+canal
+nasty |  
+| bip_39_word_new_line8 | knife
+lyrics
+mountain
+apple
+indoor
+canal
+nasty
+meadow |  
+| bip_39_word_new_line9 | knife
+lyrics
+mountain
+apple
+indoor
+canal
+nasty
+meadow
+boy |  
+| bip_39_word_space_0 | ['knife', 'lyrics', 'mountain', 'apple', 'indoor', 'canal', 'nasty', 'meadow', 'boy', 'speed', 'leader', 'aspect'] |  
+| bip_39_word_space_1 | knife |  
+| bip_39_word_space_10 | knife lyrics mountain apple indoor canal nasty meadow boy speed |  
+| bip_39_word_space_11 | knife lyrics mountain apple indoor canal nasty meadow boy speed leader |  
+| bip_39_word_space_12 | knife lyrics mountain apple indoor canal nasty meadow boy speed leader aspect |  
+| bip_39_word_space_2 | knife lyrics |  
+| bip_39_word_space_3 | knife lyrics mountain |  
+| bip_39_word_space_4 | knife lyrics mountain apple |  
+| bip_39_word_space_5 | knife lyrics mountain apple indoor |  
+| bip_39_word_space_6 | knife lyrics mountain apple indoor canal |  
+| bip_39_word_space_7 | knife lyrics mountain apple indoor canal nasty |  
+| bip_39_word_space_8 | knife lyrics mountain apple indoor canal nasty meadow |  
+| bip_39_word_space_9 | knife lyrics mountain apple indoor canal nasty meadow boy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

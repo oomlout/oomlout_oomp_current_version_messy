@@ -1,3 +1,186 @@
+bip_39_word_new_br1: critic
+bip_39_word_new_br10: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more<br>art<br>tail<br>stumble<br>illegal
+bip_39_word_new_br11: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more<br>art<br>tail<br>stumble<br>illegal<br>wheat
+bip_39_word_new_br12: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more<br>art<br>tail<br>stumble<br>illegal<br>wheat<br>accuse
+bip_39_word_new_br2: critic<br>midnight
+bip_39_word_new_br3: critic<br>midnight<br>wagon
+bip_39_word_new_br4: critic<br>midnight<br>wagon<br>enroll
+bip_39_word_new_br5: critic<br>midnight<br>wagon<br>enroll<br>piano
+bip_39_word_new_br6: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more
+bip_39_word_new_br7: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more<br>art
+bip_39_word_new_br8: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more<br>art<br>tail
+bip_39_word_new_br9: critic<br>midnight<br>wagon<br>enroll<br>piano<br>more<br>art<br>tail<br>stumble
+bip_39_word_new_line1: critic
+bip_39_word_new_line10: 'critic
+
+  midnight
+
+  wagon
+
+  enroll
+
+  piano
+
+  more
+
+  art
+
+  tail
+
+  stumble
+
+  illegal'
+bip_39_word_new_line11: 'critic
+
+  midnight
+
+  wagon
+
+  enroll
+
+  piano
+
+  more
+
+  art
+
+  tail
+
+  stumble
+
+  illegal
+
+  wheat'
+bip_39_word_new_line12: 'critic
+
+  midnight
+
+  wagon
+
+  enroll
+
+  piano
+
+  more
+
+  art
+
+  tail
+
+  stumble
+
+  illegal
+
+  wheat
+
+  accuse'
+bip_39_word_new_line2: 'critic
+
+  midnight'
+bip_39_word_new_line3: 'critic
+
+  midnight
+
+  wagon'
+bip_39_word_new_line4: 'critic
+
+  midnight
+
+  wagon
+
+  enroll'
+bip_39_word_new_line5: 'critic
+
+  midnight
+
+  wagon
+
+  enroll
+
+  piano'
+bip_39_word_new_line6: 'critic
+
+  midnight
+
+  wagon
+
+  enroll
+
+  piano
+
+  more'
+bip_39_word_new_line7: 'critic
+
+  midnight
+
+  wagon
+
+  enroll
+
+  piano
+
+  more
+
+  art'
+bip_39_word_new_line8: 'critic
+
+  midnight
+
+  wagon
+
+  enroll
+
+  piano
+
+  more
+
+  art
+
+  tail'
+bip_39_word_new_line9: 'critic
+
+  midnight
+
+  wagon
+
+  enroll
+
+  piano
+
+  more
+
+  art
+
+  tail
+
+  stumble'
+bip_39_word_space_0:
+- critic
+- midnight
+- wagon
+- enroll
+- piano
+- more
+- art
+- tail
+- stumble
+- illegal
+- wheat
+- accuse
+bip_39_word_space_1: critic
+bip_39_word_space_10: critic midnight wagon enroll piano more art tail stumble illegal
+bip_39_word_space_11: critic midnight wagon enroll piano more art tail stumble illegal
+  wheat
+bip_39_word_space_12: critic midnight wagon enroll piano more art tail stumble illegal
+  wheat accuse
+bip_39_word_space_2: critic midnight
+bip_39_word_space_3: critic midnight wagon
+bip_39_word_space_4: critic midnight wagon enroll
+bip_39_word_space_5: critic midnight wagon enroll piano
+bip_39_word_space_6: critic midnight wagon enroll piano more
+bip_39_word_space_7: critic midnight wagon enroll piano more art
+bip_39_word_space_8: critic midnight wagon enroll piano more art tail
+bip_39_word_space_9: critic midnight wagon enroll piano more art tail stumble
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

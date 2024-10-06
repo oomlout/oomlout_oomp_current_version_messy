@@ -1,3 +1,187 @@
+bip_39_word_new_br1: cotton
+bip_39_word_new_br10: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal<br>citizen<br>wagon<br>spend<br>mandate
+bip_39_word_new_br11: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal<br>citizen<br>wagon<br>spend<br>mandate<br>outdoor
+bip_39_word_new_br12: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal<br>citizen<br>wagon<br>spend<br>mandate<br>outdoor<br>around
+bip_39_word_new_br2: cotton<br>physical
+bip_39_word_new_br3: cotton<br>physical<br>tiger
+bip_39_word_new_br4: cotton<br>physical<br>tiger<br>evoke
+bip_39_word_new_br5: cotton<br>physical<br>tiger<br>evoke<br>shadow
+bip_39_word_new_br6: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal
+bip_39_word_new_br7: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal<br>citizen
+bip_39_word_new_br8: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal<br>citizen<br>wagon
+bip_39_word_new_br9: cotton<br>physical<br>tiger<br>evoke<br>shadow<br>canal<br>citizen<br>wagon<br>spend
+bip_39_word_new_line1: cotton
+bip_39_word_new_line10: 'cotton
+
+  physical
+
+  tiger
+
+  evoke
+
+  shadow
+
+  canal
+
+  citizen
+
+  wagon
+
+  spend
+
+  mandate'
+bip_39_word_new_line11: 'cotton
+
+  physical
+
+  tiger
+
+  evoke
+
+  shadow
+
+  canal
+
+  citizen
+
+  wagon
+
+  spend
+
+  mandate
+
+  outdoor'
+bip_39_word_new_line12: 'cotton
+
+  physical
+
+  tiger
+
+  evoke
+
+  shadow
+
+  canal
+
+  citizen
+
+  wagon
+
+  spend
+
+  mandate
+
+  outdoor
+
+  around'
+bip_39_word_new_line2: 'cotton
+
+  physical'
+bip_39_word_new_line3: 'cotton
+
+  physical
+
+  tiger'
+bip_39_word_new_line4: 'cotton
+
+  physical
+
+  tiger
+
+  evoke'
+bip_39_word_new_line5: 'cotton
+
+  physical
+
+  tiger
+
+  evoke
+
+  shadow'
+bip_39_word_new_line6: 'cotton
+
+  physical
+
+  tiger
+
+  evoke
+
+  shadow
+
+  canal'
+bip_39_word_new_line7: 'cotton
+
+  physical
+
+  tiger
+
+  evoke
+
+  shadow
+
+  canal
+
+  citizen'
+bip_39_word_new_line8: 'cotton
+
+  physical
+
+  tiger
+
+  evoke
+
+  shadow
+
+  canal
+
+  citizen
+
+  wagon'
+bip_39_word_new_line9: 'cotton
+
+  physical
+
+  tiger
+
+  evoke
+
+  shadow
+
+  canal
+
+  citizen
+
+  wagon
+
+  spend'
+bip_39_word_space_0:
+- cotton
+- physical
+- tiger
+- evoke
+- shadow
+- canal
+- citizen
+- wagon
+- spend
+- mandate
+- outdoor
+- around
+bip_39_word_space_1: cotton
+bip_39_word_space_10: cotton physical tiger evoke shadow canal citizen wagon spend
+  mandate
+bip_39_word_space_11: cotton physical tiger evoke shadow canal citizen wagon spend
+  mandate outdoor
+bip_39_word_space_12: cotton physical tiger evoke shadow canal citizen wagon spend
+  mandate outdoor around
+bip_39_word_space_2: cotton physical
+bip_39_word_space_3: cotton physical tiger
+bip_39_word_space_4: cotton physical tiger evoke
+bip_39_word_space_5: cotton physical tiger evoke shadow
+bip_39_word_space_6: cotton physical tiger evoke shadow canal
+bip_39_word_space_7: cotton physical tiger evoke shadow canal citizen
+bip_39_word_space_8: cotton physical tiger evoke shadow canal citizen wagon
+bip_39_word_space_9: cotton physical tiger evoke shadow canal citizen wagon spend
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

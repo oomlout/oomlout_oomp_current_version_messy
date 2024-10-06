@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alarm mirror
+  * bip 39 word 3: alarm mirror conduct
+  * bip 39 word: alarm mirror conduct plastic paddle model sting credit want dumb come addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alarm |  
+| bip_39_word_new_br10 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model<br>sting<br>credit<br>want<br>dumb |  
+| bip_39_word_new_br11 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model<br>sting<br>credit<br>want<br>dumb<br>come |  
+| bip_39_word_new_br12 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model<br>sting<br>credit<br>want<br>dumb<br>come<br>addict |  
+| bip_39_word_new_br2 | alarm<br>mirror |  
+| bip_39_word_new_br3 | alarm<br>mirror<br>conduct |  
+| bip_39_word_new_br4 | alarm<br>mirror<br>conduct<br>plastic |  
+| bip_39_word_new_br5 | alarm<br>mirror<br>conduct<br>plastic<br>paddle |  
+| bip_39_word_new_br6 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model |  
+| bip_39_word_new_br7 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model<br>sting |  
+| bip_39_word_new_br8 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model<br>sting<br>credit |  
+| bip_39_word_new_br9 | alarm<br>mirror<br>conduct<br>plastic<br>paddle<br>model<br>sting<br>credit<br>want |  
+| bip_39_word_new_line1 | alarm |  
+| bip_39_word_new_line10 | alarm
+mirror
+conduct
+plastic
+paddle
+model
+sting
+credit
+want
+dumb |  
+| bip_39_word_new_line11 | alarm
+mirror
+conduct
+plastic
+paddle
+model
+sting
+credit
+want
+dumb
+come |  
+| bip_39_word_new_line12 | alarm
+mirror
+conduct
+plastic
+paddle
+model
+sting
+credit
+want
+dumb
+come
+addict |  
+| bip_39_word_new_line2 | alarm
+mirror |  
+| bip_39_word_new_line3 | alarm
+mirror
+conduct |  
+| bip_39_word_new_line4 | alarm
+mirror
+conduct
+plastic |  
+| bip_39_word_new_line5 | alarm
+mirror
+conduct
+plastic
+paddle |  
+| bip_39_word_new_line6 | alarm
+mirror
+conduct
+plastic
+paddle
+model |  
+| bip_39_word_new_line7 | alarm
+mirror
+conduct
+plastic
+paddle
+model
+sting |  
+| bip_39_word_new_line8 | alarm
+mirror
+conduct
+plastic
+paddle
+model
+sting
+credit |  
+| bip_39_word_new_line9 | alarm
+mirror
+conduct
+plastic
+paddle
+model
+sting
+credit
+want |  
+| bip_39_word_space_0 | ['alarm', 'mirror', 'conduct', 'plastic', 'paddle', 'model', 'sting', 'credit', 'want', 'dumb', 'come', 'addict'] |  
+| bip_39_word_space_1 | alarm |  
+| bip_39_word_space_10 | alarm mirror conduct plastic paddle model sting credit want dumb |  
+| bip_39_word_space_11 | alarm mirror conduct plastic paddle model sting credit want dumb come |  
+| bip_39_word_space_12 | alarm mirror conduct plastic paddle model sting credit want dumb come addict |  
+| bip_39_word_space_2 | alarm mirror |  
+| bip_39_word_space_3 | alarm mirror conduct |  
+| bip_39_word_space_4 | alarm mirror conduct plastic |  
+| bip_39_word_space_5 | alarm mirror conduct plastic paddle |  
+| bip_39_word_space_6 | alarm mirror conduct plastic paddle model |  
+| bip_39_word_space_7 | alarm mirror conduct plastic paddle model sting |  
+| bip_39_word_space_8 | alarm mirror conduct plastic paddle model sting credit |  
+| bip_39_word_space_9 | alarm mirror conduct plastic paddle model sting credit want |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

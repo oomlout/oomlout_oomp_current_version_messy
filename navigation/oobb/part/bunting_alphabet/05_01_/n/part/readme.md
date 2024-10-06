@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: n
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrestle design
+  * bip 39 word 3: wrestle design awesome
+  * bip 39 word: wrestle design awesome gadget duck monkey resemble ignore pig room olympic ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrestle |  
+| bip_39_word_new_br10 | wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey<br>resemble<br>ignore<br>pig<br>room |  
+| bip_39_word_new_br11 | wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey<br>resemble<br>ignore<br>pig<br>room<br>olympic |  
+| bip_39_word_new_br12 | wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey<br>resemble<br>ignore<br>pig<br>room<br>olympic<br>ahead |  
+| bip_39_word_new_br2 | wrestle<br>design |  
+| bip_39_word_new_br3 | wrestle<br>design<br>awesome |  
+| bip_39_word_new_br4 | wrestle<br>design<br>awesome<br>gadget |  
+| bip_39_word_new_br5 | wrestle<br>design<br>awesome<br>gadget<br>duck |  
+| bip_39_word_new_br6 | wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey |  
+| bip_39_word_new_br7 | wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey<br>resemble |  
+| bip_39_word_new_br8 | wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey<br>resemble<br>ignore |  
+| bip_39_word_new_br9 | wrestle<br>design<br>awesome<br>gadget<br>duck<br>monkey<br>resemble<br>ignore<br>pig |  
+| bip_39_word_new_line1 | wrestle |  
+| bip_39_word_new_line10 | wrestle
+design
+awesome
+gadget
+duck
+monkey
+resemble
+ignore
+pig
+room |  
+| bip_39_word_new_line11 | wrestle
+design
+awesome
+gadget
+duck
+monkey
+resemble
+ignore
+pig
+room
+olympic |  
+| bip_39_word_new_line12 | wrestle
+design
+awesome
+gadget
+duck
+monkey
+resemble
+ignore
+pig
+room
+olympic
+ahead |  
+| bip_39_word_new_line2 | wrestle
+design |  
+| bip_39_word_new_line3 | wrestle
+design
+awesome |  
+| bip_39_word_new_line4 | wrestle
+design
+awesome
+gadget |  
+| bip_39_word_new_line5 | wrestle
+design
+awesome
+gadget
+duck |  
+| bip_39_word_new_line6 | wrestle
+design
+awesome
+gadget
+duck
+monkey |  
+| bip_39_word_new_line7 | wrestle
+design
+awesome
+gadget
+duck
+monkey
+resemble |  
+| bip_39_word_new_line8 | wrestle
+design
+awesome
+gadget
+duck
+monkey
+resemble
+ignore |  
+| bip_39_word_new_line9 | wrestle
+design
+awesome
+gadget
+duck
+monkey
+resemble
+ignore
+pig |  
+| bip_39_word_space_0 | ['wrestle', 'design', 'awesome', 'gadget', 'duck', 'monkey', 'resemble', 'ignore', 'pig', 'room', 'olympic', 'ahead'] |  
+| bip_39_word_space_1 | wrestle |  
+| bip_39_word_space_10 | wrestle design awesome gadget duck monkey resemble ignore pig room |  
+| bip_39_word_space_11 | wrestle design awesome gadget duck monkey resemble ignore pig room olympic |  
+| bip_39_word_space_12 | wrestle design awesome gadget duck monkey resemble ignore pig room olympic ahead |  
+| bip_39_word_space_2 | wrestle design |  
+| bip_39_word_space_3 | wrestle design awesome |  
+| bip_39_word_space_4 | wrestle design awesome gadget |  
+| bip_39_word_space_5 | wrestle design awesome gadget duck |  
+| bip_39_word_space_6 | wrestle design awesome gadget duck monkey |  
+| bip_39_word_space_7 | wrestle design awesome gadget duck monkey resemble |  
+| bip_39_word_space_8 | wrestle design awesome gadget duck monkey resemble ignore |  
+| bip_39_word_space_9 | wrestle design awesome gadget duck monkey resemble ignore pig |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

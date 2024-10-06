@@ -1,3 +1,186 @@
+bip_39_word_new_br1: silent
+bip_39_word_new_br10: silent<br>invest<br>day<br>modify<br>clerk<br>leave<br>illegal<br>olive<br>loud<br>rose
+bip_39_word_new_br11: silent<br>invest<br>day<br>modify<br>clerk<br>leave<br>illegal<br>olive<br>loud<br>rose<br>mobile
+bip_39_word_new_br12: silent<br>invest<br>day<br>modify<br>clerk<br>leave<br>illegal<br>olive<br>loud<br>rose<br>mobile<br>accuse
+bip_39_word_new_br2: silent<br>invest
+bip_39_word_new_br3: silent<br>invest<br>day
+bip_39_word_new_br4: silent<br>invest<br>day<br>modify
+bip_39_word_new_br5: silent<br>invest<br>day<br>modify<br>clerk
+bip_39_word_new_br6: silent<br>invest<br>day<br>modify<br>clerk<br>leave
+bip_39_word_new_br7: silent<br>invest<br>day<br>modify<br>clerk<br>leave<br>illegal
+bip_39_word_new_br8: silent<br>invest<br>day<br>modify<br>clerk<br>leave<br>illegal<br>olive
+bip_39_word_new_br9: silent<br>invest<br>day<br>modify<br>clerk<br>leave<br>illegal<br>olive<br>loud
+bip_39_word_new_line1: silent
+bip_39_word_new_line10: 'silent
+
+  invest
+
+  day
+
+  modify
+
+  clerk
+
+  leave
+
+  illegal
+
+  olive
+
+  loud
+
+  rose'
+bip_39_word_new_line11: 'silent
+
+  invest
+
+  day
+
+  modify
+
+  clerk
+
+  leave
+
+  illegal
+
+  olive
+
+  loud
+
+  rose
+
+  mobile'
+bip_39_word_new_line12: 'silent
+
+  invest
+
+  day
+
+  modify
+
+  clerk
+
+  leave
+
+  illegal
+
+  olive
+
+  loud
+
+  rose
+
+  mobile
+
+  accuse'
+bip_39_word_new_line2: 'silent
+
+  invest'
+bip_39_word_new_line3: 'silent
+
+  invest
+
+  day'
+bip_39_word_new_line4: 'silent
+
+  invest
+
+  day
+
+  modify'
+bip_39_word_new_line5: 'silent
+
+  invest
+
+  day
+
+  modify
+
+  clerk'
+bip_39_word_new_line6: 'silent
+
+  invest
+
+  day
+
+  modify
+
+  clerk
+
+  leave'
+bip_39_word_new_line7: 'silent
+
+  invest
+
+  day
+
+  modify
+
+  clerk
+
+  leave
+
+  illegal'
+bip_39_word_new_line8: 'silent
+
+  invest
+
+  day
+
+  modify
+
+  clerk
+
+  leave
+
+  illegal
+
+  olive'
+bip_39_word_new_line9: 'silent
+
+  invest
+
+  day
+
+  modify
+
+  clerk
+
+  leave
+
+  illegal
+
+  olive
+
+  loud'
+bip_39_word_space_0:
+- silent
+- invest
+- day
+- modify
+- clerk
+- leave
+- illegal
+- olive
+- loud
+- rose
+- mobile
+- accuse
+bip_39_word_space_1: silent
+bip_39_word_space_10: silent invest day modify clerk leave illegal olive loud rose
+bip_39_word_space_11: silent invest day modify clerk leave illegal olive loud rose
+  mobile
+bip_39_word_space_12: silent invest day modify clerk leave illegal olive loud rose
+  mobile accuse
+bip_39_word_space_2: silent invest
+bip_39_word_space_3: silent invest day
+bip_39_word_space_4: silent invest day modify
+bip_39_word_space_5: silent invest day modify clerk
+bip_39_word_space_6: silent invest day modify clerk leave
+bip_39_word_space_7: silent invest day modify clerk leave illegal
+bip_39_word_space_8: silent invest day modify clerk leave illegal olive
+bip_39_word_space_9: silent invest day modify clerk leave illegal olive loud
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

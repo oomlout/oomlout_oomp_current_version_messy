@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: random appear
+  * bip 39 word 3: random appear crash
+  * bip 39 word: random appear crash under merit saddle aim used chat soup fatigue antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | random |  
+| bip_39_word_new_br10 | random<br>appear<br>crash<br>under<br>merit<br>saddle<br>aim<br>used<br>chat<br>soup |  
+| bip_39_word_new_br11 | random<br>appear<br>crash<br>under<br>merit<br>saddle<br>aim<br>used<br>chat<br>soup<br>fatigue |  
+| bip_39_word_new_br12 | random<br>appear<br>crash<br>under<br>merit<br>saddle<br>aim<br>used<br>chat<br>soup<br>fatigue<br>antenna |  
+| bip_39_word_new_br2 | random<br>appear |  
+| bip_39_word_new_br3 | random<br>appear<br>crash |  
+| bip_39_word_new_br4 | random<br>appear<br>crash<br>under |  
+| bip_39_word_new_br5 | random<br>appear<br>crash<br>under<br>merit |  
+| bip_39_word_new_br6 | random<br>appear<br>crash<br>under<br>merit<br>saddle |  
+| bip_39_word_new_br7 | random<br>appear<br>crash<br>under<br>merit<br>saddle<br>aim |  
+| bip_39_word_new_br8 | random<br>appear<br>crash<br>under<br>merit<br>saddle<br>aim<br>used |  
+| bip_39_word_new_br9 | random<br>appear<br>crash<br>under<br>merit<br>saddle<br>aim<br>used<br>chat |  
+| bip_39_word_new_line1 | random |  
+| bip_39_word_new_line10 | random
+appear
+crash
+under
+merit
+saddle
+aim
+used
+chat
+soup |  
+| bip_39_word_new_line11 | random
+appear
+crash
+under
+merit
+saddle
+aim
+used
+chat
+soup
+fatigue |  
+| bip_39_word_new_line12 | random
+appear
+crash
+under
+merit
+saddle
+aim
+used
+chat
+soup
+fatigue
+antenna |  
+| bip_39_word_new_line2 | random
+appear |  
+| bip_39_word_new_line3 | random
+appear
+crash |  
+| bip_39_word_new_line4 | random
+appear
+crash
+under |  
+| bip_39_word_new_line5 | random
+appear
+crash
+under
+merit |  
+| bip_39_word_new_line6 | random
+appear
+crash
+under
+merit
+saddle |  
+| bip_39_word_new_line7 | random
+appear
+crash
+under
+merit
+saddle
+aim |  
+| bip_39_word_new_line8 | random
+appear
+crash
+under
+merit
+saddle
+aim
+used |  
+| bip_39_word_new_line9 | random
+appear
+crash
+under
+merit
+saddle
+aim
+used
+chat |  
+| bip_39_word_space_0 | ['random', 'appear', 'crash', 'under', 'merit', 'saddle', 'aim', 'used', 'chat', 'soup', 'fatigue', 'antenna'] |  
+| bip_39_word_space_1 | random |  
+| bip_39_word_space_10 | random appear crash under merit saddle aim used chat soup |  
+| bip_39_word_space_11 | random appear crash under merit saddle aim used chat soup fatigue |  
+| bip_39_word_space_12 | random appear crash under merit saddle aim used chat soup fatigue antenna |  
+| bip_39_word_space_2 | random appear |  
+| bip_39_word_space_3 | random appear crash |  
+| bip_39_word_space_4 | random appear crash under |  
+| bip_39_word_space_5 | random appear crash under merit |  
+| bip_39_word_space_6 | random appear crash under merit saddle |  
+| bip_39_word_space_7 | random appear crash under merit saddle aim |  
+| bip_39_word_space_8 | random appear crash under merit saddle aim used |  
+| bip_39_word_space_9 | random appear crash under merit saddle aim used chat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

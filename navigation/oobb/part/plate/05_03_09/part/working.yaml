@@ -1,3 +1,186 @@
+bip_39_word_new_br1: share
+bip_39_word_new_br10: share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability<br>dawn<br>upon<br>gift<br>theory
+bip_39_word_new_br11: share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability<br>dawn<br>upon<br>gift<br>theory<br>vessel
+bip_39_word_new_br12: share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability<br>dawn<br>upon<br>gift<br>theory<br>vessel<br>among
+bip_39_word_new_br2: share<br>oak
+bip_39_word_new_br3: share<br>oak<br>neglect
+bip_39_word_new_br4: share<br>oak<br>neglect<br>lawsuit
+bip_39_word_new_br5: share<br>oak<br>neglect<br>lawsuit<br>peace
+bip_39_word_new_br6: share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability
+bip_39_word_new_br7: share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability<br>dawn
+bip_39_word_new_br8: share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability<br>dawn<br>upon
+bip_39_word_new_br9: share<br>oak<br>neglect<br>lawsuit<br>peace<br>ability<br>dawn<br>upon<br>gift
+bip_39_word_new_line1: share
+bip_39_word_new_line10: 'share
+
+  oak
+
+  neglect
+
+  lawsuit
+
+  peace
+
+  ability
+
+  dawn
+
+  upon
+
+  gift
+
+  theory'
+bip_39_word_new_line11: 'share
+
+  oak
+
+  neglect
+
+  lawsuit
+
+  peace
+
+  ability
+
+  dawn
+
+  upon
+
+  gift
+
+  theory
+
+  vessel'
+bip_39_word_new_line12: 'share
+
+  oak
+
+  neglect
+
+  lawsuit
+
+  peace
+
+  ability
+
+  dawn
+
+  upon
+
+  gift
+
+  theory
+
+  vessel
+
+  among'
+bip_39_word_new_line2: 'share
+
+  oak'
+bip_39_word_new_line3: 'share
+
+  oak
+
+  neglect'
+bip_39_word_new_line4: 'share
+
+  oak
+
+  neglect
+
+  lawsuit'
+bip_39_word_new_line5: 'share
+
+  oak
+
+  neglect
+
+  lawsuit
+
+  peace'
+bip_39_word_new_line6: 'share
+
+  oak
+
+  neglect
+
+  lawsuit
+
+  peace
+
+  ability'
+bip_39_word_new_line7: 'share
+
+  oak
+
+  neglect
+
+  lawsuit
+
+  peace
+
+  ability
+
+  dawn'
+bip_39_word_new_line8: 'share
+
+  oak
+
+  neglect
+
+  lawsuit
+
+  peace
+
+  ability
+
+  dawn
+
+  upon'
+bip_39_word_new_line9: 'share
+
+  oak
+
+  neglect
+
+  lawsuit
+
+  peace
+
+  ability
+
+  dawn
+
+  upon
+
+  gift'
+bip_39_word_space_0:
+- share
+- oak
+- neglect
+- lawsuit
+- peace
+- ability
+- dawn
+- upon
+- gift
+- theory
+- vessel
+- among
+bip_39_word_space_1: share
+bip_39_word_space_10: share oak neglect lawsuit peace ability dawn upon gift theory
+bip_39_word_space_11: share oak neglect lawsuit peace ability dawn upon gift theory
+  vessel
+bip_39_word_space_12: share oak neglect lawsuit peace ability dawn upon gift theory
+  vessel among
+bip_39_word_space_2: share oak
+bip_39_word_space_3: share oak neglect
+bip_39_word_space_4: share oak neglect lawsuit
+bip_39_word_space_5: share oak neglect lawsuit peace
+bip_39_word_space_6: share oak neglect lawsuit peace ability
+bip_39_word_space_7: share oak neglect lawsuit peace ability dawn
+bip_39_word_space_8: share oak neglect lawsuit peace ability dawn upon
+bip_39_word_space_9: share oak neglect lawsuit peace ability dawn upon gift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

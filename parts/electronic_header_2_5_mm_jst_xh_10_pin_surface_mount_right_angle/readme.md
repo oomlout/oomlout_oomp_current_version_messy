@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: head machine
+  * bip 39 word 3: head machine vacant
+  * bip 39 word: head machine vacant symptom father hospital runway they energy cover enable acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | head |  
+| bip_39_word_new_br10 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital<br>runway<br>they<br>energy<br>cover |  
+| bip_39_word_new_br11 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital<br>runway<br>they<br>energy<br>cover<br>enable |  
+| bip_39_word_new_br12 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital<br>runway<br>they<br>energy<br>cover<br>enable<br>acid |  
+| bip_39_word_new_br2 | head<br>machine |  
+| bip_39_word_new_br3 | head<br>machine<br>vacant |  
+| bip_39_word_new_br4 | head<br>machine<br>vacant<br>symptom |  
+| bip_39_word_new_br5 | head<br>machine<br>vacant<br>symptom<br>father |  
+| bip_39_word_new_br6 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital |  
+| bip_39_word_new_br7 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital<br>runway |  
+| bip_39_word_new_br8 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital<br>runway<br>they |  
+| bip_39_word_new_br9 | head<br>machine<br>vacant<br>symptom<br>father<br>hospital<br>runway<br>they<br>energy |  
+| bip_39_word_new_line1 | head |  
+| bip_39_word_new_line10 | head
+machine
+vacant
+symptom
+father
+hospital
+runway
+they
+energy
+cover |  
+| bip_39_word_new_line11 | head
+machine
+vacant
+symptom
+father
+hospital
+runway
+they
+energy
+cover
+enable |  
+| bip_39_word_new_line12 | head
+machine
+vacant
+symptom
+father
+hospital
+runway
+they
+energy
+cover
+enable
+acid |  
+| bip_39_word_new_line2 | head
+machine |  
+| bip_39_word_new_line3 | head
+machine
+vacant |  
+| bip_39_word_new_line4 | head
+machine
+vacant
+symptom |  
+| bip_39_word_new_line5 | head
+machine
+vacant
+symptom
+father |  
+| bip_39_word_new_line6 | head
+machine
+vacant
+symptom
+father
+hospital |  
+| bip_39_word_new_line7 | head
+machine
+vacant
+symptom
+father
+hospital
+runway |  
+| bip_39_word_new_line8 | head
+machine
+vacant
+symptom
+father
+hospital
+runway
+they |  
+| bip_39_word_new_line9 | head
+machine
+vacant
+symptom
+father
+hospital
+runway
+they
+energy |  
+| bip_39_word_space_0 | ['head', 'machine', 'vacant', 'symptom', 'father', 'hospital', 'runway', 'they', 'energy', 'cover', 'enable', 'acid'] |  
+| bip_39_word_space_1 | head |  
+| bip_39_word_space_10 | head machine vacant symptom father hospital runway they energy cover |  
+| bip_39_word_space_11 | head machine vacant symptom father hospital runway they energy cover enable |  
+| bip_39_word_space_12 | head machine vacant symptom father hospital runway they energy cover enable acid |  
+| bip_39_word_space_2 | head machine |  
+| bip_39_word_space_3 | head machine vacant |  
+| bip_39_word_space_4 | head machine vacant symptom |  
+| bip_39_word_space_5 | head machine vacant symptom father |  
+| bip_39_word_space_6 | head machine vacant symptom father hospital |  
+| bip_39_word_space_7 | head machine vacant symptom father hospital runway |  
+| bip_39_word_space_8 | head machine vacant symptom father hospital runway they |  
+| bip_39_word_space_9 | head machine vacant symptom father hospital runway they energy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

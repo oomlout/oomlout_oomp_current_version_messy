@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: used curtain
+  * bip 39 word 3: used curtain mutual
+  * bip 39 word: used curtain mutual scatter ketchup cricket prosper slab blade hurt motor another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | used |  
+| bip_39_word_new_br10 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket<br>prosper<br>slab<br>blade<br>hurt |  
+| bip_39_word_new_br11 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket<br>prosper<br>slab<br>blade<br>hurt<br>motor |  
+| bip_39_word_new_br12 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket<br>prosper<br>slab<br>blade<br>hurt<br>motor<br>another |  
+| bip_39_word_new_br2 | used<br>curtain |  
+| bip_39_word_new_br3 | used<br>curtain<br>mutual |  
+| bip_39_word_new_br4 | used<br>curtain<br>mutual<br>scatter |  
+| bip_39_word_new_br5 | used<br>curtain<br>mutual<br>scatter<br>ketchup |  
+| bip_39_word_new_br6 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket |  
+| bip_39_word_new_br7 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket<br>prosper |  
+| bip_39_word_new_br8 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket<br>prosper<br>slab |  
+| bip_39_word_new_br9 | used<br>curtain<br>mutual<br>scatter<br>ketchup<br>cricket<br>prosper<br>slab<br>blade |  
+| bip_39_word_new_line1 | used |  
+| bip_39_word_new_line10 | used
+curtain
+mutual
+scatter
+ketchup
+cricket
+prosper
+slab
+blade
+hurt |  
+| bip_39_word_new_line11 | used
+curtain
+mutual
+scatter
+ketchup
+cricket
+prosper
+slab
+blade
+hurt
+motor |  
+| bip_39_word_new_line12 | used
+curtain
+mutual
+scatter
+ketchup
+cricket
+prosper
+slab
+blade
+hurt
+motor
+another |  
+| bip_39_word_new_line2 | used
+curtain |  
+| bip_39_word_new_line3 | used
+curtain
+mutual |  
+| bip_39_word_new_line4 | used
+curtain
+mutual
+scatter |  
+| bip_39_word_new_line5 | used
+curtain
+mutual
+scatter
+ketchup |  
+| bip_39_word_new_line6 | used
+curtain
+mutual
+scatter
+ketchup
+cricket |  
+| bip_39_word_new_line7 | used
+curtain
+mutual
+scatter
+ketchup
+cricket
+prosper |  
+| bip_39_word_new_line8 | used
+curtain
+mutual
+scatter
+ketchup
+cricket
+prosper
+slab |  
+| bip_39_word_new_line9 | used
+curtain
+mutual
+scatter
+ketchup
+cricket
+prosper
+slab
+blade |  
+| bip_39_word_space_0 | ['used', 'curtain', 'mutual', 'scatter', 'ketchup', 'cricket', 'prosper', 'slab', 'blade', 'hurt', 'motor', 'another'] |  
+| bip_39_word_space_1 | used |  
+| bip_39_word_space_10 | used curtain mutual scatter ketchup cricket prosper slab blade hurt |  
+| bip_39_word_space_11 | used curtain mutual scatter ketchup cricket prosper slab blade hurt motor |  
+| bip_39_word_space_12 | used curtain mutual scatter ketchup cricket prosper slab blade hurt motor another |  
+| bip_39_word_space_2 | used curtain |  
+| bip_39_word_space_3 | used curtain mutual |  
+| bip_39_word_space_4 | used curtain mutual scatter |  
+| bip_39_word_space_5 | used curtain mutual scatter ketchup |  
+| bip_39_word_space_6 | used curtain mutual scatter ketchup cricket |  
+| bip_39_word_space_7 | used curtain mutual scatter ketchup cricket prosper |  
+| bip_39_word_space_8 | used curtain mutual scatter ketchup cricket prosper slab |  
+| bip_39_word_space_9 | used curtain mutual scatter ketchup cricket prosper slab blade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

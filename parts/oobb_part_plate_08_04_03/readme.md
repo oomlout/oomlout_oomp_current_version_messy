@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: galaxy beyond
+  * bip 39 word 3: galaxy beyond mandate
+  * bip 39 word: galaxy beyond mandate pluck brave month recycle ginger tube sail other all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | galaxy |  
+| bip_39_word_new_br10 | galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month<br>recycle<br>ginger<br>tube<br>sail |  
+| bip_39_word_new_br11 | galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month<br>recycle<br>ginger<br>tube<br>sail<br>other |  
+| bip_39_word_new_br12 | galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month<br>recycle<br>ginger<br>tube<br>sail<br>other<br>all |  
+| bip_39_word_new_br2 | galaxy<br>beyond |  
+| bip_39_word_new_br3 | galaxy<br>beyond<br>mandate |  
+| bip_39_word_new_br4 | galaxy<br>beyond<br>mandate<br>pluck |  
+| bip_39_word_new_br5 | galaxy<br>beyond<br>mandate<br>pluck<br>brave |  
+| bip_39_word_new_br6 | galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month |  
+| bip_39_word_new_br7 | galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month<br>recycle |  
+| bip_39_word_new_br8 | galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month<br>recycle<br>ginger |  
+| bip_39_word_new_br9 | galaxy<br>beyond<br>mandate<br>pluck<br>brave<br>month<br>recycle<br>ginger<br>tube |  
+| bip_39_word_new_line1 | galaxy |  
+| bip_39_word_new_line10 | galaxy
+beyond
+mandate
+pluck
+brave
+month
+recycle
+ginger
+tube
+sail |  
+| bip_39_word_new_line11 | galaxy
+beyond
+mandate
+pluck
+brave
+month
+recycle
+ginger
+tube
+sail
+other |  
+| bip_39_word_new_line12 | galaxy
+beyond
+mandate
+pluck
+brave
+month
+recycle
+ginger
+tube
+sail
+other
+all |  
+| bip_39_word_new_line2 | galaxy
+beyond |  
+| bip_39_word_new_line3 | galaxy
+beyond
+mandate |  
+| bip_39_word_new_line4 | galaxy
+beyond
+mandate
+pluck |  
+| bip_39_word_new_line5 | galaxy
+beyond
+mandate
+pluck
+brave |  
+| bip_39_word_new_line6 | galaxy
+beyond
+mandate
+pluck
+brave
+month |  
+| bip_39_word_new_line7 | galaxy
+beyond
+mandate
+pluck
+brave
+month
+recycle |  
+| bip_39_word_new_line8 | galaxy
+beyond
+mandate
+pluck
+brave
+month
+recycle
+ginger |  
+| bip_39_word_new_line9 | galaxy
+beyond
+mandate
+pluck
+brave
+month
+recycle
+ginger
+tube |  
+| bip_39_word_space_0 | ['galaxy', 'beyond', 'mandate', 'pluck', 'brave', 'month', 'recycle', 'ginger', 'tube', 'sail', 'other', 'all'] |  
+| bip_39_word_space_1 | galaxy |  
+| bip_39_word_space_10 | galaxy beyond mandate pluck brave month recycle ginger tube sail |  
+| bip_39_word_space_11 | galaxy beyond mandate pluck brave month recycle ginger tube sail other |  
+| bip_39_word_space_12 | galaxy beyond mandate pluck brave month recycle ginger tube sail other all |  
+| bip_39_word_space_2 | galaxy beyond |  
+| bip_39_word_space_3 | galaxy beyond mandate |  
+| bip_39_word_space_4 | galaxy beyond mandate pluck |  
+| bip_39_word_space_5 | galaxy beyond mandate pluck brave |  
+| bip_39_word_space_6 | galaxy beyond mandate pluck brave month |  
+| bip_39_word_space_7 | galaxy beyond mandate pluck brave month recycle |  
+| bip_39_word_space_8 | galaxy beyond mandate pluck brave month recycle ginger |  
+| bip_39_word_space_9 | galaxy beyond mandate pluck brave month recycle ginger tube |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

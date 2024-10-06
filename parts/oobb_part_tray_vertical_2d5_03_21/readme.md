@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: random position
+  * bip 39 word 3: random position injury
+  * bip 39 word: random position injury library awesome drift update elephant exit street middle attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | random |  
+| bip_39_word_new_br10 | random<br>position<br>injury<br>library<br>awesome<br>drift<br>update<br>elephant<br>exit<br>street |  
+| bip_39_word_new_br11 | random<br>position<br>injury<br>library<br>awesome<br>drift<br>update<br>elephant<br>exit<br>street<br>middle |  
+| bip_39_word_new_br12 | random<br>position<br>injury<br>library<br>awesome<br>drift<br>update<br>elephant<br>exit<br>street<br>middle<br>attack |  
+| bip_39_word_new_br2 | random<br>position |  
+| bip_39_word_new_br3 | random<br>position<br>injury |  
+| bip_39_word_new_br4 | random<br>position<br>injury<br>library |  
+| bip_39_word_new_br5 | random<br>position<br>injury<br>library<br>awesome |  
+| bip_39_word_new_br6 | random<br>position<br>injury<br>library<br>awesome<br>drift |  
+| bip_39_word_new_br7 | random<br>position<br>injury<br>library<br>awesome<br>drift<br>update |  
+| bip_39_word_new_br8 | random<br>position<br>injury<br>library<br>awesome<br>drift<br>update<br>elephant |  
+| bip_39_word_new_br9 | random<br>position<br>injury<br>library<br>awesome<br>drift<br>update<br>elephant<br>exit |  
+| bip_39_word_new_line1 | random |  
+| bip_39_word_new_line10 | random
+position
+injury
+library
+awesome
+drift
+update
+elephant
+exit
+street |  
+| bip_39_word_new_line11 | random
+position
+injury
+library
+awesome
+drift
+update
+elephant
+exit
+street
+middle |  
+| bip_39_word_new_line12 | random
+position
+injury
+library
+awesome
+drift
+update
+elephant
+exit
+street
+middle
+attack |  
+| bip_39_word_new_line2 | random
+position |  
+| bip_39_word_new_line3 | random
+position
+injury |  
+| bip_39_word_new_line4 | random
+position
+injury
+library |  
+| bip_39_word_new_line5 | random
+position
+injury
+library
+awesome |  
+| bip_39_word_new_line6 | random
+position
+injury
+library
+awesome
+drift |  
+| bip_39_word_new_line7 | random
+position
+injury
+library
+awesome
+drift
+update |  
+| bip_39_word_new_line8 | random
+position
+injury
+library
+awesome
+drift
+update
+elephant |  
+| bip_39_word_new_line9 | random
+position
+injury
+library
+awesome
+drift
+update
+elephant
+exit |  
+| bip_39_word_space_0 | ['random', 'position', 'injury', 'library', 'awesome', 'drift', 'update', 'elephant', 'exit', 'street', 'middle', 'attack'] |  
+| bip_39_word_space_1 | random |  
+| bip_39_word_space_10 | random position injury library awesome drift update elephant exit street |  
+| bip_39_word_space_11 | random position injury library awesome drift update elephant exit street middle |  
+| bip_39_word_space_12 | random position injury library awesome drift update elephant exit street middle attack |  
+| bip_39_word_space_2 | random position |  
+| bip_39_word_space_3 | random position injury |  
+| bip_39_word_space_4 | random position injury library |  
+| bip_39_word_space_5 | random position injury library awesome |  
+| bip_39_word_space_6 | random position injury library awesome drift |  
+| bip_39_word_space_7 | random position injury library awesome drift update |  
+| bip_39_word_space_8 | random position injury library awesome drift update elephant |  
+| bip_39_word_space_9 | random position injury library awesome drift update elephant exit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

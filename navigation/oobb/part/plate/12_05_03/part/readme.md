@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jealous people
+  * bip 39 word 3: jealous people seek
+  * bip 39 word: jealous people seek border domain knock wife moment edit target excuse approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jealous |  
+| bip_39_word_new_br10 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target |  
+| bip_39_word_new_br11 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target<br>excuse |  
+| bip_39_word_new_br12 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit<br>target<br>excuse<br>approve |  
+| bip_39_word_new_br2 | jealous<br>people |  
+| bip_39_word_new_br3 | jealous<br>people<br>seek |  
+| bip_39_word_new_br4 | jealous<br>people<br>seek<br>border |  
+| bip_39_word_new_br5 | jealous<br>people<br>seek<br>border<br>domain |  
+| bip_39_word_new_br6 | jealous<br>people<br>seek<br>border<br>domain<br>knock |  
+| bip_39_word_new_br7 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife |  
+| bip_39_word_new_br8 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment |  
+| bip_39_word_new_br9 | jealous<br>people<br>seek<br>border<br>domain<br>knock<br>wife<br>moment<br>edit |  
+| bip_39_word_new_line1 | jealous |  
+| bip_39_word_new_line10 | jealous
+people
+seek
+border
+domain
+knock
+wife
+moment
+edit
+target |  
+| bip_39_word_new_line11 | jealous
+people
+seek
+border
+domain
+knock
+wife
+moment
+edit
+target
+excuse |  
+| bip_39_word_new_line12 | jealous
+people
+seek
+border
+domain
+knock
+wife
+moment
+edit
+target
+excuse
+approve |  
+| bip_39_word_new_line2 | jealous
+people |  
+| bip_39_word_new_line3 | jealous
+people
+seek |  
+| bip_39_word_new_line4 | jealous
+people
+seek
+border |  
+| bip_39_word_new_line5 | jealous
+people
+seek
+border
+domain |  
+| bip_39_word_new_line6 | jealous
+people
+seek
+border
+domain
+knock |  
+| bip_39_word_new_line7 | jealous
+people
+seek
+border
+domain
+knock
+wife |  
+| bip_39_word_new_line8 | jealous
+people
+seek
+border
+domain
+knock
+wife
+moment |  
+| bip_39_word_new_line9 | jealous
+people
+seek
+border
+domain
+knock
+wife
+moment
+edit |  
+| bip_39_word_space_0 | ['jealous', 'people', 'seek', 'border', 'domain', 'knock', 'wife', 'moment', 'edit', 'target', 'excuse', 'approve'] |  
+| bip_39_word_space_1 | jealous |  
+| bip_39_word_space_10 | jealous people seek border domain knock wife moment edit target |  
+| bip_39_word_space_11 | jealous people seek border domain knock wife moment edit target excuse |  
+| bip_39_word_space_12 | jealous people seek border domain knock wife moment edit target excuse approve |  
+| bip_39_word_space_2 | jealous people |  
+| bip_39_word_space_3 | jealous people seek |  
+| bip_39_word_space_4 | jealous people seek border |  
+| bip_39_word_space_5 | jealous people seek border domain |  
+| bip_39_word_space_6 | jealous people seek border domain knock |  
+| bip_39_word_space_7 | jealous people seek border domain knock wife |  
+| bip_39_word_space_8 | jealous people seek border domain knock wife moment |  
+| bip_39_word_space_9 | jealous people seek border domain knock wife moment edit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

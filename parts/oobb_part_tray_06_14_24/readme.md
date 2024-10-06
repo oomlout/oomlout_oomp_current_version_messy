@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bar gun
+  * bip 39 word 3: bar gun kidney
+  * bip 39 word: bar gun kidney upon find badge market best bus minimum crisp absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bar |  
+| bip_39_word_new_br10 | bar<br>gun<br>kidney<br>upon<br>find<br>badge<br>market<br>best<br>bus<br>minimum |  
+| bip_39_word_new_br11 | bar<br>gun<br>kidney<br>upon<br>find<br>badge<br>market<br>best<br>bus<br>minimum<br>crisp |  
+| bip_39_word_new_br12 | bar<br>gun<br>kidney<br>upon<br>find<br>badge<br>market<br>best<br>bus<br>minimum<br>crisp<br>absent |  
+| bip_39_word_new_br2 | bar<br>gun |  
+| bip_39_word_new_br3 | bar<br>gun<br>kidney |  
+| bip_39_word_new_br4 | bar<br>gun<br>kidney<br>upon |  
+| bip_39_word_new_br5 | bar<br>gun<br>kidney<br>upon<br>find |  
+| bip_39_word_new_br6 | bar<br>gun<br>kidney<br>upon<br>find<br>badge |  
+| bip_39_word_new_br7 | bar<br>gun<br>kidney<br>upon<br>find<br>badge<br>market |  
+| bip_39_word_new_br8 | bar<br>gun<br>kidney<br>upon<br>find<br>badge<br>market<br>best |  
+| bip_39_word_new_br9 | bar<br>gun<br>kidney<br>upon<br>find<br>badge<br>market<br>best<br>bus |  
+| bip_39_word_new_line1 | bar |  
+| bip_39_word_new_line10 | bar
+gun
+kidney
+upon
+find
+badge
+market
+best
+bus
+minimum |  
+| bip_39_word_new_line11 | bar
+gun
+kidney
+upon
+find
+badge
+market
+best
+bus
+minimum
+crisp |  
+| bip_39_word_new_line12 | bar
+gun
+kidney
+upon
+find
+badge
+market
+best
+bus
+minimum
+crisp
+absent |  
+| bip_39_word_new_line2 | bar
+gun |  
+| bip_39_word_new_line3 | bar
+gun
+kidney |  
+| bip_39_word_new_line4 | bar
+gun
+kidney
+upon |  
+| bip_39_word_new_line5 | bar
+gun
+kidney
+upon
+find |  
+| bip_39_word_new_line6 | bar
+gun
+kidney
+upon
+find
+badge |  
+| bip_39_word_new_line7 | bar
+gun
+kidney
+upon
+find
+badge
+market |  
+| bip_39_word_new_line8 | bar
+gun
+kidney
+upon
+find
+badge
+market
+best |  
+| bip_39_word_new_line9 | bar
+gun
+kidney
+upon
+find
+badge
+market
+best
+bus |  
+| bip_39_word_space_0 | ['bar', 'gun', 'kidney', 'upon', 'find', 'badge', 'market', 'best', 'bus', 'minimum', 'crisp', 'absent'] |  
+| bip_39_word_space_1 | bar |  
+| bip_39_word_space_10 | bar gun kidney upon find badge market best bus minimum |  
+| bip_39_word_space_11 | bar gun kidney upon find badge market best bus minimum crisp |  
+| bip_39_word_space_12 | bar gun kidney upon find badge market best bus minimum crisp absent |  
+| bip_39_word_space_2 | bar gun |  
+| bip_39_word_space_3 | bar gun kidney |  
+| bip_39_word_space_4 | bar gun kidney upon |  
+| bip_39_word_space_5 | bar gun kidney upon find |  
+| bip_39_word_space_6 | bar gun kidney upon find badge |  
+| bip_39_word_space_7 | bar gun kidney upon find badge market |  
+| bip_39_word_space_8 | bar gun kidney upon find badge market best |  
+| bip_39_word_space_9 | bar gun kidney upon find badge market best bus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

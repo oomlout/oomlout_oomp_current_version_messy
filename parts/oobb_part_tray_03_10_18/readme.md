@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: walnut moral
+  * bip 39 word 3: walnut moral caution
+  * bip 39 word: walnut moral caution retreat treat plastic region rule damage design delay around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | walnut |  
+| bip_39_word_new_br10 | walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic<br>region<br>rule<br>damage<br>design |  
+| bip_39_word_new_br11 | walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic<br>region<br>rule<br>damage<br>design<br>delay |  
+| bip_39_word_new_br12 | walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic<br>region<br>rule<br>damage<br>design<br>delay<br>around |  
+| bip_39_word_new_br2 | walnut<br>moral |  
+| bip_39_word_new_br3 | walnut<br>moral<br>caution |  
+| bip_39_word_new_br4 | walnut<br>moral<br>caution<br>retreat |  
+| bip_39_word_new_br5 | walnut<br>moral<br>caution<br>retreat<br>treat |  
+| bip_39_word_new_br6 | walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic |  
+| bip_39_word_new_br7 | walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic<br>region |  
+| bip_39_word_new_br8 | walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic<br>region<br>rule |  
+| bip_39_word_new_br9 | walnut<br>moral<br>caution<br>retreat<br>treat<br>plastic<br>region<br>rule<br>damage |  
+| bip_39_word_new_line1 | walnut |  
+| bip_39_word_new_line10 | walnut
+moral
+caution
+retreat
+treat
+plastic
+region
+rule
+damage
+design |  
+| bip_39_word_new_line11 | walnut
+moral
+caution
+retreat
+treat
+plastic
+region
+rule
+damage
+design
+delay |  
+| bip_39_word_new_line12 | walnut
+moral
+caution
+retreat
+treat
+plastic
+region
+rule
+damage
+design
+delay
+around |  
+| bip_39_word_new_line2 | walnut
+moral |  
+| bip_39_word_new_line3 | walnut
+moral
+caution |  
+| bip_39_word_new_line4 | walnut
+moral
+caution
+retreat |  
+| bip_39_word_new_line5 | walnut
+moral
+caution
+retreat
+treat |  
+| bip_39_word_new_line6 | walnut
+moral
+caution
+retreat
+treat
+plastic |  
+| bip_39_word_new_line7 | walnut
+moral
+caution
+retreat
+treat
+plastic
+region |  
+| bip_39_word_new_line8 | walnut
+moral
+caution
+retreat
+treat
+plastic
+region
+rule |  
+| bip_39_word_new_line9 | walnut
+moral
+caution
+retreat
+treat
+plastic
+region
+rule
+damage |  
+| bip_39_word_space_0 | ['walnut', 'moral', 'caution', 'retreat', 'treat', 'plastic', 'region', 'rule', 'damage', 'design', 'delay', 'around'] |  
+| bip_39_word_space_1 | walnut |  
+| bip_39_word_space_10 | walnut moral caution retreat treat plastic region rule damage design |  
+| bip_39_word_space_11 | walnut moral caution retreat treat plastic region rule damage design delay |  
+| bip_39_word_space_12 | walnut moral caution retreat treat plastic region rule damage design delay around |  
+| bip_39_word_space_2 | walnut moral |  
+| bip_39_word_space_3 | walnut moral caution |  
+| bip_39_word_space_4 | walnut moral caution retreat |  
+| bip_39_word_space_5 | walnut moral caution retreat treat |  
+| bip_39_word_space_6 | walnut moral caution retreat treat plastic |  
+| bip_39_word_space_7 | walnut moral caution retreat treat plastic region |  
+| bip_39_word_space_8 | walnut moral caution retreat treat plastic region rule |  
+| bip_39_word_space_9 | walnut moral caution retreat treat plastic region rule damage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

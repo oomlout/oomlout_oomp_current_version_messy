@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gospel addict
+  * bip 39 word 3: gospel addict also
+  * bip 39 word: gospel addict also come inhale focus stadium little eyebrow banana gesture attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gospel |  
+| bip_39_word_new_br10 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana |  
+| bip_39_word_new_br11 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana<br>gesture |  
+| bip_39_word_new_br12 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow<br>banana<br>gesture<br>attitude |  
+| bip_39_word_new_br2 | gospel<br>addict |  
+| bip_39_word_new_br3 | gospel<br>addict<br>also |  
+| bip_39_word_new_br4 | gospel<br>addict<br>also<br>come |  
+| bip_39_word_new_br5 | gospel<br>addict<br>also<br>come<br>inhale |  
+| bip_39_word_new_br6 | gospel<br>addict<br>also<br>come<br>inhale<br>focus |  
+| bip_39_word_new_br7 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium |  
+| bip_39_word_new_br8 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little |  
+| bip_39_word_new_br9 | gospel<br>addict<br>also<br>come<br>inhale<br>focus<br>stadium<br>little<br>eyebrow |  
+| bip_39_word_new_line1 | gospel |  
+| bip_39_word_new_line10 | gospel
+addict
+also
+come
+inhale
+focus
+stadium
+little
+eyebrow
+banana |  
+| bip_39_word_new_line11 | gospel
+addict
+also
+come
+inhale
+focus
+stadium
+little
+eyebrow
+banana
+gesture |  
+| bip_39_word_new_line12 | gospel
+addict
+also
+come
+inhale
+focus
+stadium
+little
+eyebrow
+banana
+gesture
+attitude |  
+| bip_39_word_new_line2 | gospel
+addict |  
+| bip_39_word_new_line3 | gospel
+addict
+also |  
+| bip_39_word_new_line4 | gospel
+addict
+also
+come |  
+| bip_39_word_new_line5 | gospel
+addict
+also
+come
+inhale |  
+| bip_39_word_new_line6 | gospel
+addict
+also
+come
+inhale
+focus |  
+| bip_39_word_new_line7 | gospel
+addict
+also
+come
+inhale
+focus
+stadium |  
+| bip_39_word_new_line8 | gospel
+addict
+also
+come
+inhale
+focus
+stadium
+little |  
+| bip_39_word_new_line9 | gospel
+addict
+also
+come
+inhale
+focus
+stadium
+little
+eyebrow |  
+| bip_39_word_space_0 | ['gospel', 'addict', 'also', 'come', 'inhale', 'focus', 'stadium', 'little', 'eyebrow', 'banana', 'gesture', 'attitude'] |  
+| bip_39_word_space_1 | gospel |  
+| bip_39_word_space_10 | gospel addict also come inhale focus stadium little eyebrow banana |  
+| bip_39_word_space_11 | gospel addict also come inhale focus stadium little eyebrow banana gesture |  
+| bip_39_word_space_12 | gospel addict also come inhale focus stadium little eyebrow banana gesture attitude |  
+| bip_39_word_space_2 | gospel addict |  
+| bip_39_word_space_3 | gospel addict also |  
+| bip_39_word_space_4 | gospel addict also come |  
+| bip_39_word_space_5 | gospel addict also come inhale |  
+| bip_39_word_space_6 | gospel addict also come inhale focus |  
+| bip_39_word_space_7 | gospel addict also come inhale focus stadium |  
+| bip_39_word_space_8 | gospel addict also come inhale focus stadium little |  
+| bip_39_word_space_9 | gospel addict also come inhale focus stadium little eyebrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

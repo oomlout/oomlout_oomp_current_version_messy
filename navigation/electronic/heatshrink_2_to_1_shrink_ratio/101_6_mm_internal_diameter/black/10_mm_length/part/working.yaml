@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cool
+bip_39_word_new_br10: cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert
+bip_39_word_new_br11: cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert<br>write
+bip_39_word_new_br12: cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal<br>concert<br>write<br>amount
+bip_39_word_new_br2: cool<br>liar
+bip_39_word_new_br3: cool<br>liar<br>resemble
+bip_39_word_new_br4: cool<br>liar<br>resemble<br>snack
+bip_39_word_new_br5: cool<br>liar<br>resemble<br>snack<br>real
+bip_39_word_new_br6: cool<br>liar<br>resemble<br>snack<br>real<br>valley
+bip_39_word_new_br7: cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild
+bip_39_word_new_br8: cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric
+bip_39_word_new_br9: cool<br>liar<br>resemble<br>snack<br>real<br>valley<br>wild<br>electric<br>animal
+bip_39_word_new_line1: cool
+bip_39_word_new_line10: 'cool
+
+  liar
+
+  resemble
+
+  snack
+
+  real
+
+  valley
+
+  wild
+
+  electric
+
+  animal
+
+  concert'
+bip_39_word_new_line11: 'cool
+
+  liar
+
+  resemble
+
+  snack
+
+  real
+
+  valley
+
+  wild
+
+  electric
+
+  animal
+
+  concert
+
+  write'
+bip_39_word_new_line12: 'cool
+
+  liar
+
+  resemble
+
+  snack
+
+  real
+
+  valley
+
+  wild
+
+  electric
+
+  animal
+
+  concert
+
+  write
+
+  amount'
+bip_39_word_new_line2: 'cool
+
+  liar'
+bip_39_word_new_line3: 'cool
+
+  liar
+
+  resemble'
+bip_39_word_new_line4: 'cool
+
+  liar
+
+  resemble
+
+  snack'
+bip_39_word_new_line5: 'cool
+
+  liar
+
+  resemble
+
+  snack
+
+  real'
+bip_39_word_new_line6: 'cool
+
+  liar
+
+  resemble
+
+  snack
+
+  real
+
+  valley'
+bip_39_word_new_line7: 'cool
+
+  liar
+
+  resemble
+
+  snack
+
+  real
+
+  valley
+
+  wild'
+bip_39_word_new_line8: 'cool
+
+  liar
+
+  resemble
+
+  snack
+
+  real
+
+  valley
+
+  wild
+
+  electric'
+bip_39_word_new_line9: 'cool
+
+  liar
+
+  resemble
+
+  snack
+
+  real
+
+  valley
+
+  wild
+
+  electric
+
+  animal'
+bip_39_word_space_0:
+- cool
+- liar
+- resemble
+- snack
+- real
+- valley
+- wild
+- electric
+- animal
+- concert
+- write
+- amount
+bip_39_word_space_1: cool
+bip_39_word_space_10: cool liar resemble snack real valley wild electric animal concert
+bip_39_word_space_11: cool liar resemble snack real valley wild electric animal concert
+  write
+bip_39_word_space_12: cool liar resemble snack real valley wild electric animal concert
+  write amount
+bip_39_word_space_2: cool liar
+bip_39_word_space_3: cool liar resemble
+bip_39_word_space_4: cool liar resemble snack
+bip_39_word_space_5: cool liar resemble snack real
+bip_39_word_space_6: cool liar resemble snack real valley
+bip_39_word_space_7: cool liar resemble snack real valley wild
+bip_39_word_space_8: cool liar resemble snack real valley wild electric
+bip_39_word_space_9: cool liar resemble snack real valley wild electric animal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wheat potato
+  * bip 39 word 3: wheat potato napkin
+  * bip 39 word: wheat potato napkin ankle embark raven glad void total priority spatial athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wheat |  
+| bip_39_word_new_br10 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven<br>glad<br>void<br>total<br>priority |  
+| bip_39_word_new_br11 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven<br>glad<br>void<br>total<br>priority<br>spatial |  
+| bip_39_word_new_br12 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven<br>glad<br>void<br>total<br>priority<br>spatial<br>athlete |  
+| bip_39_word_new_br2 | wheat<br>potato |  
+| bip_39_word_new_br3 | wheat<br>potato<br>napkin |  
+| bip_39_word_new_br4 | wheat<br>potato<br>napkin<br>ankle |  
+| bip_39_word_new_br5 | wheat<br>potato<br>napkin<br>ankle<br>embark |  
+| bip_39_word_new_br6 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven |  
+| bip_39_word_new_br7 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven<br>glad |  
+| bip_39_word_new_br8 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven<br>glad<br>void |  
+| bip_39_word_new_br9 | wheat<br>potato<br>napkin<br>ankle<br>embark<br>raven<br>glad<br>void<br>total |  
+| bip_39_word_new_line1 | wheat |  
+| bip_39_word_new_line10 | wheat
+potato
+napkin
+ankle
+embark
+raven
+glad
+void
+total
+priority |  
+| bip_39_word_new_line11 | wheat
+potato
+napkin
+ankle
+embark
+raven
+glad
+void
+total
+priority
+spatial |  
+| bip_39_word_new_line12 | wheat
+potato
+napkin
+ankle
+embark
+raven
+glad
+void
+total
+priority
+spatial
+athlete |  
+| bip_39_word_new_line2 | wheat
+potato |  
+| bip_39_word_new_line3 | wheat
+potato
+napkin |  
+| bip_39_word_new_line4 | wheat
+potato
+napkin
+ankle |  
+| bip_39_word_new_line5 | wheat
+potato
+napkin
+ankle
+embark |  
+| bip_39_word_new_line6 | wheat
+potato
+napkin
+ankle
+embark
+raven |  
+| bip_39_word_new_line7 | wheat
+potato
+napkin
+ankle
+embark
+raven
+glad |  
+| bip_39_word_new_line8 | wheat
+potato
+napkin
+ankle
+embark
+raven
+glad
+void |  
+| bip_39_word_new_line9 | wheat
+potato
+napkin
+ankle
+embark
+raven
+glad
+void
+total |  
+| bip_39_word_space_0 | ['wheat', 'potato', 'napkin', 'ankle', 'embark', 'raven', 'glad', 'void', 'total', 'priority', 'spatial', 'athlete'] |  
+| bip_39_word_space_1 | wheat |  
+| bip_39_word_space_10 | wheat potato napkin ankle embark raven glad void total priority |  
+| bip_39_word_space_11 | wheat potato napkin ankle embark raven glad void total priority spatial |  
+| bip_39_word_space_12 | wheat potato napkin ankle embark raven glad void total priority spatial athlete |  
+| bip_39_word_space_2 | wheat potato |  
+| bip_39_word_space_3 | wheat potato napkin |  
+| bip_39_word_space_4 | wheat potato napkin ankle |  
+| bip_39_word_space_5 | wheat potato napkin ankle embark |  
+| bip_39_word_space_6 | wheat potato napkin ankle embark raven |  
+| bip_39_word_space_7 | wheat potato napkin ankle embark raven glad |  
+| bip_39_word_space_8 | wheat potato napkin ankle embark raven glad void |  
+| bip_39_word_space_9 | wheat potato napkin ankle embark raven glad void total |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

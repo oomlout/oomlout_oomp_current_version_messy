@@ -1,3 +1,187 @@
+bip_39_word_new_br1: leisure
+bip_39_word_new_br10: leisure<br>marine<br>tourist<br>frozen<br>nominee<br>clown<br>arrest<br>someone<br>symptom<br>funny
+bip_39_word_new_br11: leisure<br>marine<br>tourist<br>frozen<br>nominee<br>clown<br>arrest<br>someone<br>symptom<br>funny<br>net
+bip_39_word_new_br12: leisure<br>marine<br>tourist<br>frozen<br>nominee<br>clown<br>arrest<br>someone<br>symptom<br>funny<br>net<br>amount
+bip_39_word_new_br2: leisure<br>marine
+bip_39_word_new_br3: leisure<br>marine<br>tourist
+bip_39_word_new_br4: leisure<br>marine<br>tourist<br>frozen
+bip_39_word_new_br5: leisure<br>marine<br>tourist<br>frozen<br>nominee
+bip_39_word_new_br6: leisure<br>marine<br>tourist<br>frozen<br>nominee<br>clown
+bip_39_word_new_br7: leisure<br>marine<br>tourist<br>frozen<br>nominee<br>clown<br>arrest
+bip_39_word_new_br8: leisure<br>marine<br>tourist<br>frozen<br>nominee<br>clown<br>arrest<br>someone
+bip_39_word_new_br9: leisure<br>marine<br>tourist<br>frozen<br>nominee<br>clown<br>arrest<br>someone<br>symptom
+bip_39_word_new_line1: leisure
+bip_39_word_new_line10: 'leisure
+
+  marine
+
+  tourist
+
+  frozen
+
+  nominee
+
+  clown
+
+  arrest
+
+  someone
+
+  symptom
+
+  funny'
+bip_39_word_new_line11: 'leisure
+
+  marine
+
+  tourist
+
+  frozen
+
+  nominee
+
+  clown
+
+  arrest
+
+  someone
+
+  symptom
+
+  funny
+
+  net'
+bip_39_word_new_line12: 'leisure
+
+  marine
+
+  tourist
+
+  frozen
+
+  nominee
+
+  clown
+
+  arrest
+
+  someone
+
+  symptom
+
+  funny
+
+  net
+
+  amount'
+bip_39_word_new_line2: 'leisure
+
+  marine'
+bip_39_word_new_line3: 'leisure
+
+  marine
+
+  tourist'
+bip_39_word_new_line4: 'leisure
+
+  marine
+
+  tourist
+
+  frozen'
+bip_39_word_new_line5: 'leisure
+
+  marine
+
+  tourist
+
+  frozen
+
+  nominee'
+bip_39_word_new_line6: 'leisure
+
+  marine
+
+  tourist
+
+  frozen
+
+  nominee
+
+  clown'
+bip_39_word_new_line7: 'leisure
+
+  marine
+
+  tourist
+
+  frozen
+
+  nominee
+
+  clown
+
+  arrest'
+bip_39_word_new_line8: 'leisure
+
+  marine
+
+  tourist
+
+  frozen
+
+  nominee
+
+  clown
+
+  arrest
+
+  someone'
+bip_39_word_new_line9: 'leisure
+
+  marine
+
+  tourist
+
+  frozen
+
+  nominee
+
+  clown
+
+  arrest
+
+  someone
+
+  symptom'
+bip_39_word_space_0:
+- leisure
+- marine
+- tourist
+- frozen
+- nominee
+- clown
+- arrest
+- someone
+- symptom
+- funny
+- net
+- amount
+bip_39_word_space_1: leisure
+bip_39_word_space_10: leisure marine tourist frozen nominee clown arrest someone symptom
+  funny
+bip_39_word_space_11: leisure marine tourist frozen nominee clown arrest someone symptom
+  funny net
+bip_39_word_space_12: leisure marine tourist frozen nominee clown arrest someone symptom
+  funny net amount
+bip_39_word_space_2: leisure marine
+bip_39_word_space_3: leisure marine tourist
+bip_39_word_space_4: leisure marine tourist frozen
+bip_39_word_space_5: leisure marine tourist frozen nominee
+bip_39_word_space_6: leisure marine tourist frozen nominee clown
+bip_39_word_space_7: leisure marine tourist frozen nominee clown arrest
+bip_39_word_space_8: leisure marine tourist frozen nominee clown arrest someone
+bip_39_word_space_9: leisure marine tourist frozen nominee clown arrest someone symptom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

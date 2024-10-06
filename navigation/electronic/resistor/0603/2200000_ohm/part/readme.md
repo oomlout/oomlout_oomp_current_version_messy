@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: net grain
+  * bip 39 word 3: net grain hobby
+  * bip 39 word: net grain hobby sort hedgehog orient awake suit shed extra topic avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | net |  
+| bip_39_word_new_br10 | net<br>grain<br>hobby<br>sort<br>hedgehog<br>orient<br>awake<br>suit<br>shed<br>extra |  
+| bip_39_word_new_br11 | net<br>grain<br>hobby<br>sort<br>hedgehog<br>orient<br>awake<br>suit<br>shed<br>extra<br>topic |  
+| bip_39_word_new_br12 | net<br>grain<br>hobby<br>sort<br>hedgehog<br>orient<br>awake<br>suit<br>shed<br>extra<br>topic<br>avocado |  
+| bip_39_word_new_br2 | net<br>grain |  
+| bip_39_word_new_br3 | net<br>grain<br>hobby |  
+| bip_39_word_new_br4 | net<br>grain<br>hobby<br>sort |  
+| bip_39_word_new_br5 | net<br>grain<br>hobby<br>sort<br>hedgehog |  
+| bip_39_word_new_br6 | net<br>grain<br>hobby<br>sort<br>hedgehog<br>orient |  
+| bip_39_word_new_br7 | net<br>grain<br>hobby<br>sort<br>hedgehog<br>orient<br>awake |  
+| bip_39_word_new_br8 | net<br>grain<br>hobby<br>sort<br>hedgehog<br>orient<br>awake<br>suit |  
+| bip_39_word_new_br9 | net<br>grain<br>hobby<br>sort<br>hedgehog<br>orient<br>awake<br>suit<br>shed |  
+| bip_39_word_new_line1 | net |  
+| bip_39_word_new_line10 | net
+grain
+hobby
+sort
+hedgehog
+orient
+awake
+suit
+shed
+extra |  
+| bip_39_word_new_line11 | net
+grain
+hobby
+sort
+hedgehog
+orient
+awake
+suit
+shed
+extra
+topic |  
+| bip_39_word_new_line12 | net
+grain
+hobby
+sort
+hedgehog
+orient
+awake
+suit
+shed
+extra
+topic
+avocado |  
+| bip_39_word_new_line2 | net
+grain |  
+| bip_39_word_new_line3 | net
+grain
+hobby |  
+| bip_39_word_new_line4 | net
+grain
+hobby
+sort |  
+| bip_39_word_new_line5 | net
+grain
+hobby
+sort
+hedgehog |  
+| bip_39_word_new_line6 | net
+grain
+hobby
+sort
+hedgehog
+orient |  
+| bip_39_word_new_line7 | net
+grain
+hobby
+sort
+hedgehog
+orient
+awake |  
+| bip_39_word_new_line8 | net
+grain
+hobby
+sort
+hedgehog
+orient
+awake
+suit |  
+| bip_39_word_new_line9 | net
+grain
+hobby
+sort
+hedgehog
+orient
+awake
+suit
+shed |  
+| bip_39_word_space_0 | ['net', 'grain', 'hobby', 'sort', 'hedgehog', 'orient', 'awake', 'suit', 'shed', 'extra', 'topic', 'avocado'] |  
+| bip_39_word_space_1 | net |  
+| bip_39_word_space_10 | net grain hobby sort hedgehog orient awake suit shed extra |  
+| bip_39_word_space_11 | net grain hobby sort hedgehog orient awake suit shed extra topic |  
+| bip_39_word_space_12 | net grain hobby sort hedgehog orient awake suit shed extra topic avocado |  
+| bip_39_word_space_2 | net grain |  
+| bip_39_word_space_3 | net grain hobby |  
+| bip_39_word_space_4 | net grain hobby sort |  
+| bip_39_word_space_5 | net grain hobby sort hedgehog |  
+| bip_39_word_space_6 | net grain hobby sort hedgehog orient |  
+| bip_39_word_space_7 | net grain hobby sort hedgehog orient awake |  
+| bip_39_word_space_8 | net grain hobby sort hedgehog orient awake suit |  
+| bip_39_word_space_9 | net grain hobby sort hedgehog orient awake suit shed |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

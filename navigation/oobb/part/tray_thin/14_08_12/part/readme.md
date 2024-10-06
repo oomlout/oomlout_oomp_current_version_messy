@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: become thought
+  * bip 39 word 3: become thought pull
+  * bip 39 word: become thought pull spot club assist lottery ramp loop grief light accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | become |  
+| bip_39_word_new_br10 | become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp<br>loop<br>grief |  
+| bip_39_word_new_br11 | become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp<br>loop<br>grief<br>light |  
+| bip_39_word_new_br12 | become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp<br>loop<br>grief<br>light<br>accident |  
+| bip_39_word_new_br2 | become<br>thought |  
+| bip_39_word_new_br3 | become<br>thought<br>pull |  
+| bip_39_word_new_br4 | become<br>thought<br>pull<br>spot |  
+| bip_39_word_new_br5 | become<br>thought<br>pull<br>spot<br>club |  
+| bip_39_word_new_br6 | become<br>thought<br>pull<br>spot<br>club<br>assist |  
+| bip_39_word_new_br7 | become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery |  
+| bip_39_word_new_br8 | become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp |  
+| bip_39_word_new_br9 | become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp<br>loop |  
+| bip_39_word_new_line1 | become |  
+| bip_39_word_new_line10 | become
+thought
+pull
+spot
+club
+assist
+lottery
+ramp
+loop
+grief |  
+| bip_39_word_new_line11 | become
+thought
+pull
+spot
+club
+assist
+lottery
+ramp
+loop
+grief
+light |  
+| bip_39_word_new_line12 | become
+thought
+pull
+spot
+club
+assist
+lottery
+ramp
+loop
+grief
+light
+accident |  
+| bip_39_word_new_line2 | become
+thought |  
+| bip_39_word_new_line3 | become
+thought
+pull |  
+| bip_39_word_new_line4 | become
+thought
+pull
+spot |  
+| bip_39_word_new_line5 | become
+thought
+pull
+spot
+club |  
+| bip_39_word_new_line6 | become
+thought
+pull
+spot
+club
+assist |  
+| bip_39_word_new_line7 | become
+thought
+pull
+spot
+club
+assist
+lottery |  
+| bip_39_word_new_line8 | become
+thought
+pull
+spot
+club
+assist
+lottery
+ramp |  
+| bip_39_word_new_line9 | become
+thought
+pull
+spot
+club
+assist
+lottery
+ramp
+loop |  
+| bip_39_word_space_0 | ['become', 'thought', 'pull', 'spot', 'club', 'assist', 'lottery', 'ramp', 'loop', 'grief', 'light', 'accident'] |  
+| bip_39_word_space_1 | become |  
+| bip_39_word_space_10 | become thought pull spot club assist lottery ramp loop grief |  
+| bip_39_word_space_11 | become thought pull spot club assist lottery ramp loop grief light |  
+| bip_39_word_space_12 | become thought pull spot club assist lottery ramp loop grief light accident |  
+| bip_39_word_space_2 | become thought |  
+| bip_39_word_space_3 | become thought pull |  
+| bip_39_word_space_4 | become thought pull spot |  
+| bip_39_word_space_5 | become thought pull spot club |  
+| bip_39_word_space_6 | become thought pull spot club assist |  
+| bip_39_word_space_7 | become thought pull spot club assist lottery |  
+| bip_39_word_space_8 | become thought pull spot club assist lottery ramp |  
+| bip_39_word_space_9 | become thought pull spot club assist lottery ramp loop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

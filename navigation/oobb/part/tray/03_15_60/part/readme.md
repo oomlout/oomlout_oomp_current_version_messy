@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sand embrace
+  * bip 39 word 3: sand embrace surge
+  * bip 39 word: sand embrace surge title valid theme melt resource flee seek peasant assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sand |  
+| bip_39_word_new_br10 | sand<br>embrace<br>surge<br>title<br>valid<br>theme<br>melt<br>resource<br>flee<br>seek |  
+| bip_39_word_new_br11 | sand<br>embrace<br>surge<br>title<br>valid<br>theme<br>melt<br>resource<br>flee<br>seek<br>peasant |  
+| bip_39_word_new_br12 | sand<br>embrace<br>surge<br>title<br>valid<br>theme<br>melt<br>resource<br>flee<br>seek<br>peasant<br>assault |  
+| bip_39_word_new_br2 | sand<br>embrace |  
+| bip_39_word_new_br3 | sand<br>embrace<br>surge |  
+| bip_39_word_new_br4 | sand<br>embrace<br>surge<br>title |  
+| bip_39_word_new_br5 | sand<br>embrace<br>surge<br>title<br>valid |  
+| bip_39_word_new_br6 | sand<br>embrace<br>surge<br>title<br>valid<br>theme |  
+| bip_39_word_new_br7 | sand<br>embrace<br>surge<br>title<br>valid<br>theme<br>melt |  
+| bip_39_word_new_br8 | sand<br>embrace<br>surge<br>title<br>valid<br>theme<br>melt<br>resource |  
+| bip_39_word_new_br9 | sand<br>embrace<br>surge<br>title<br>valid<br>theme<br>melt<br>resource<br>flee |  
+| bip_39_word_new_line1 | sand |  
+| bip_39_word_new_line10 | sand
+embrace
+surge
+title
+valid
+theme
+melt
+resource
+flee
+seek |  
+| bip_39_word_new_line11 | sand
+embrace
+surge
+title
+valid
+theme
+melt
+resource
+flee
+seek
+peasant |  
+| bip_39_word_new_line12 | sand
+embrace
+surge
+title
+valid
+theme
+melt
+resource
+flee
+seek
+peasant
+assault |  
+| bip_39_word_new_line2 | sand
+embrace |  
+| bip_39_word_new_line3 | sand
+embrace
+surge |  
+| bip_39_word_new_line4 | sand
+embrace
+surge
+title |  
+| bip_39_word_new_line5 | sand
+embrace
+surge
+title
+valid |  
+| bip_39_word_new_line6 | sand
+embrace
+surge
+title
+valid
+theme |  
+| bip_39_word_new_line7 | sand
+embrace
+surge
+title
+valid
+theme
+melt |  
+| bip_39_word_new_line8 | sand
+embrace
+surge
+title
+valid
+theme
+melt
+resource |  
+| bip_39_word_new_line9 | sand
+embrace
+surge
+title
+valid
+theme
+melt
+resource
+flee |  
+| bip_39_word_space_0 | ['sand', 'embrace', 'surge', 'title', 'valid', 'theme', 'melt', 'resource', 'flee', 'seek', 'peasant', 'assault'] |  
+| bip_39_word_space_1 | sand |  
+| bip_39_word_space_10 | sand embrace surge title valid theme melt resource flee seek |  
+| bip_39_word_space_11 | sand embrace surge title valid theme melt resource flee seek peasant |  
+| bip_39_word_space_12 | sand embrace surge title valid theme melt resource flee seek peasant assault |  
+| bip_39_word_space_2 | sand embrace |  
+| bip_39_word_space_3 | sand embrace surge |  
+| bip_39_word_space_4 | sand embrace surge title |  
+| bip_39_word_space_5 | sand embrace surge title valid |  
+| bip_39_word_space_6 | sand embrace surge title valid theme |  
+| bip_39_word_space_7 | sand embrace surge title valid theme melt |  
+| bip_39_word_space_8 | sand embrace surge title valid theme melt resource |  
+| bip_39_word_space_9 | sand embrace surge title valid theme melt resource flee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

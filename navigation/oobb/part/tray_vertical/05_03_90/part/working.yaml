@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cement
+bip_39_word_new_br10: cement<br>learn<br>thunder<br>finish<br>worth<br>various<br>they<br>torch<br>arch<br>asset
+bip_39_word_new_br11: cement<br>learn<br>thunder<br>finish<br>worth<br>various<br>they<br>torch<br>arch<br>asset<br>genius
+bip_39_word_new_br12: cement<br>learn<br>thunder<br>finish<br>worth<br>various<br>they<br>torch<br>arch<br>asset<br>genius<br>allow
+bip_39_word_new_br2: cement<br>learn
+bip_39_word_new_br3: cement<br>learn<br>thunder
+bip_39_word_new_br4: cement<br>learn<br>thunder<br>finish
+bip_39_word_new_br5: cement<br>learn<br>thunder<br>finish<br>worth
+bip_39_word_new_br6: cement<br>learn<br>thunder<br>finish<br>worth<br>various
+bip_39_word_new_br7: cement<br>learn<br>thunder<br>finish<br>worth<br>various<br>they
+bip_39_word_new_br8: cement<br>learn<br>thunder<br>finish<br>worth<br>various<br>they<br>torch
+bip_39_word_new_br9: cement<br>learn<br>thunder<br>finish<br>worth<br>various<br>they<br>torch<br>arch
+bip_39_word_new_line1: cement
+bip_39_word_new_line10: 'cement
+
+  learn
+
+  thunder
+
+  finish
+
+  worth
+
+  various
+
+  they
+
+  torch
+
+  arch
+
+  asset'
+bip_39_word_new_line11: 'cement
+
+  learn
+
+  thunder
+
+  finish
+
+  worth
+
+  various
+
+  they
+
+  torch
+
+  arch
+
+  asset
+
+  genius'
+bip_39_word_new_line12: 'cement
+
+  learn
+
+  thunder
+
+  finish
+
+  worth
+
+  various
+
+  they
+
+  torch
+
+  arch
+
+  asset
+
+  genius
+
+  allow'
+bip_39_word_new_line2: 'cement
+
+  learn'
+bip_39_word_new_line3: 'cement
+
+  learn
+
+  thunder'
+bip_39_word_new_line4: 'cement
+
+  learn
+
+  thunder
+
+  finish'
+bip_39_word_new_line5: 'cement
+
+  learn
+
+  thunder
+
+  finish
+
+  worth'
+bip_39_word_new_line6: 'cement
+
+  learn
+
+  thunder
+
+  finish
+
+  worth
+
+  various'
+bip_39_word_new_line7: 'cement
+
+  learn
+
+  thunder
+
+  finish
+
+  worth
+
+  various
+
+  they'
+bip_39_word_new_line8: 'cement
+
+  learn
+
+  thunder
+
+  finish
+
+  worth
+
+  various
+
+  they
+
+  torch'
+bip_39_word_new_line9: 'cement
+
+  learn
+
+  thunder
+
+  finish
+
+  worth
+
+  various
+
+  they
+
+  torch
+
+  arch'
+bip_39_word_space_0:
+- cement
+- learn
+- thunder
+- finish
+- worth
+- various
+- they
+- torch
+- arch
+- asset
+- genius
+- allow
+bip_39_word_space_1: cement
+bip_39_word_space_10: cement learn thunder finish worth various they torch arch asset
+bip_39_word_space_11: cement learn thunder finish worth various they torch arch asset
+  genius
+bip_39_word_space_12: cement learn thunder finish worth various they torch arch asset
+  genius allow
+bip_39_word_space_2: cement learn
+bip_39_word_space_3: cement learn thunder
+bip_39_word_space_4: cement learn thunder finish
+bip_39_word_space_5: cement learn thunder finish worth
+bip_39_word_space_6: cement learn thunder finish worth various
+bip_39_word_space_7: cement learn thunder finish worth various they
+bip_39_word_space_8: cement learn thunder finish worth various they torch
+bip_39_word_space_9: cement learn thunder finish worth various they torch arch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

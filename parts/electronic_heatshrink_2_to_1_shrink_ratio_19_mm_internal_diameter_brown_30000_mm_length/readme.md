@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blame route
+  * bip 39 word 3: blame route follow
+  * bip 39 word: blame route follow federal fever decide estate globe silk filter portion annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blame |  
+| bip_39_word_new_br10 | blame<br>route<br>follow<br>federal<br>fever<br>decide<br>estate<br>globe<br>silk<br>filter |  
+| bip_39_word_new_br11 | blame<br>route<br>follow<br>federal<br>fever<br>decide<br>estate<br>globe<br>silk<br>filter<br>portion |  
+| bip_39_word_new_br12 | blame<br>route<br>follow<br>federal<br>fever<br>decide<br>estate<br>globe<br>silk<br>filter<br>portion<br>annual |  
+| bip_39_word_new_br2 | blame<br>route |  
+| bip_39_word_new_br3 | blame<br>route<br>follow |  
+| bip_39_word_new_br4 | blame<br>route<br>follow<br>federal |  
+| bip_39_word_new_br5 | blame<br>route<br>follow<br>federal<br>fever |  
+| bip_39_word_new_br6 | blame<br>route<br>follow<br>federal<br>fever<br>decide |  
+| bip_39_word_new_br7 | blame<br>route<br>follow<br>federal<br>fever<br>decide<br>estate |  
+| bip_39_word_new_br8 | blame<br>route<br>follow<br>federal<br>fever<br>decide<br>estate<br>globe |  
+| bip_39_word_new_br9 | blame<br>route<br>follow<br>federal<br>fever<br>decide<br>estate<br>globe<br>silk |  
+| bip_39_word_new_line1 | blame |  
+| bip_39_word_new_line10 | blame
+route
+follow
+federal
+fever
+decide
+estate
+globe
+silk
+filter |  
+| bip_39_word_new_line11 | blame
+route
+follow
+federal
+fever
+decide
+estate
+globe
+silk
+filter
+portion |  
+| bip_39_word_new_line12 | blame
+route
+follow
+federal
+fever
+decide
+estate
+globe
+silk
+filter
+portion
+annual |  
+| bip_39_word_new_line2 | blame
+route |  
+| bip_39_word_new_line3 | blame
+route
+follow |  
+| bip_39_word_new_line4 | blame
+route
+follow
+federal |  
+| bip_39_word_new_line5 | blame
+route
+follow
+federal
+fever |  
+| bip_39_word_new_line6 | blame
+route
+follow
+federal
+fever
+decide |  
+| bip_39_word_new_line7 | blame
+route
+follow
+federal
+fever
+decide
+estate |  
+| bip_39_word_new_line8 | blame
+route
+follow
+federal
+fever
+decide
+estate
+globe |  
+| bip_39_word_new_line9 | blame
+route
+follow
+federal
+fever
+decide
+estate
+globe
+silk |  
+| bip_39_word_space_0 | ['blame', 'route', 'follow', 'federal', 'fever', 'decide', 'estate', 'globe', 'silk', 'filter', 'portion', 'annual'] |  
+| bip_39_word_space_1 | blame |  
+| bip_39_word_space_10 | blame route follow federal fever decide estate globe silk filter |  
+| bip_39_word_space_11 | blame route follow federal fever decide estate globe silk filter portion |  
+| bip_39_word_space_12 | blame route follow federal fever decide estate globe silk filter portion annual |  
+| bip_39_word_space_2 | blame route |  
+| bip_39_word_space_3 | blame route follow |  
+| bip_39_word_space_4 | blame route follow federal |  
+| bip_39_word_space_5 | blame route follow federal fever |  
+| bip_39_word_space_6 | blame route follow federal fever decide |  
+| bip_39_word_space_7 | blame route follow federal fever decide estate |  
+| bip_39_word_space_8 | blame route follow federal fever decide estate globe |  
+| bip_39_word_space_9 | blame route follow federal fever decide estate globe silk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: joke
+bip_39_word_new_br10: joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory
+bip_39_word_new_br11: joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory<br>patient
+bip_39_word_new_br12: joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic<br>victory<br>patient<br>action
+bip_39_word_new_br2: joke<br>autumn
+bip_39_word_new_br3: joke<br>autumn<br>coffee
+bip_39_word_new_br4: joke<br>autumn<br>coffee<br>chicken
+bip_39_word_new_br5: joke<br>autumn<br>coffee<br>chicken<br>slice
+bip_39_word_new_br6: joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard
+bip_39_word_new_br7: joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock
+bip_39_word_new_br8: joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle
+bip_39_word_new_br9: joke<br>autumn<br>coffee<br>chicken<br>slice<br>lizard<br>shock<br>paddle<br>logic
+bip_39_word_new_line1: joke
+bip_39_word_new_line10: 'joke
+
+  autumn
+
+  coffee
+
+  chicken
+
+  slice
+
+  lizard
+
+  shock
+
+  paddle
+
+  logic
+
+  victory'
+bip_39_word_new_line11: 'joke
+
+  autumn
+
+  coffee
+
+  chicken
+
+  slice
+
+  lizard
+
+  shock
+
+  paddle
+
+  logic
+
+  victory
+
+  patient'
+bip_39_word_new_line12: 'joke
+
+  autumn
+
+  coffee
+
+  chicken
+
+  slice
+
+  lizard
+
+  shock
+
+  paddle
+
+  logic
+
+  victory
+
+  patient
+
+  action'
+bip_39_word_new_line2: 'joke
+
+  autumn'
+bip_39_word_new_line3: 'joke
+
+  autumn
+
+  coffee'
+bip_39_word_new_line4: 'joke
+
+  autumn
+
+  coffee
+
+  chicken'
+bip_39_word_new_line5: 'joke
+
+  autumn
+
+  coffee
+
+  chicken
+
+  slice'
+bip_39_word_new_line6: 'joke
+
+  autumn
+
+  coffee
+
+  chicken
+
+  slice
+
+  lizard'
+bip_39_word_new_line7: 'joke
+
+  autumn
+
+  coffee
+
+  chicken
+
+  slice
+
+  lizard
+
+  shock'
+bip_39_word_new_line8: 'joke
+
+  autumn
+
+  coffee
+
+  chicken
+
+  slice
+
+  lizard
+
+  shock
+
+  paddle'
+bip_39_word_new_line9: 'joke
+
+  autumn
+
+  coffee
+
+  chicken
+
+  slice
+
+  lizard
+
+  shock
+
+  paddle
+
+  logic'
+bip_39_word_space_0:
+- joke
+- autumn
+- coffee
+- chicken
+- slice
+- lizard
+- shock
+- paddle
+- logic
+- victory
+- patient
+- action
+bip_39_word_space_1: joke
+bip_39_word_space_10: joke autumn coffee chicken slice lizard shock paddle logic victory
+bip_39_word_space_11: joke autumn coffee chicken slice lizard shock paddle logic victory
+  patient
+bip_39_word_space_12: joke autumn coffee chicken slice lizard shock paddle logic victory
+  patient action
+bip_39_word_space_2: joke autumn
+bip_39_word_space_3: joke autumn coffee
+bip_39_word_space_4: joke autumn coffee chicken
+bip_39_word_space_5: joke autumn coffee chicken slice
+bip_39_word_space_6: joke autumn coffee chicken slice lizard
+bip_39_word_space_7: joke autumn coffee chicken slice lizard shock
+bip_39_word_space_8: joke autumn coffee chicken slice lizard shock paddle
+bip_39_word_space_9: joke autumn coffee chicken slice lizard shock paddle logic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

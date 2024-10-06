@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: level list
+  * bip 39 word 3: level list sausage
+  * bip 39 word: level list sausage dream picnic denial cloud detail cement cheese predict armed
 
 ### other_codes
 * short_code: brF697
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | level |  
+| bip_39_word_new_br10 | level<br>list<br>sausage<br>dream<br>picnic<br>denial<br>cloud<br>detail<br>cement<br>cheese |  
+| bip_39_word_new_br11 | level<br>list<br>sausage<br>dream<br>picnic<br>denial<br>cloud<br>detail<br>cement<br>cheese<br>predict |  
+| bip_39_word_new_br12 | level<br>list<br>sausage<br>dream<br>picnic<br>denial<br>cloud<br>detail<br>cement<br>cheese<br>predict<br>armed |  
+| bip_39_word_new_br2 | level<br>list |  
+| bip_39_word_new_br3 | level<br>list<br>sausage |  
+| bip_39_word_new_br4 | level<br>list<br>sausage<br>dream |  
+| bip_39_word_new_br5 | level<br>list<br>sausage<br>dream<br>picnic |  
+| bip_39_word_new_br6 | level<br>list<br>sausage<br>dream<br>picnic<br>denial |  
+| bip_39_word_new_br7 | level<br>list<br>sausage<br>dream<br>picnic<br>denial<br>cloud |  
+| bip_39_word_new_br8 | level<br>list<br>sausage<br>dream<br>picnic<br>denial<br>cloud<br>detail |  
+| bip_39_word_new_br9 | level<br>list<br>sausage<br>dream<br>picnic<br>denial<br>cloud<br>detail<br>cement |  
+| bip_39_word_new_line1 | level |  
+| bip_39_word_new_line10 | level
+list
+sausage
+dream
+picnic
+denial
+cloud
+detail
+cement
+cheese |  
+| bip_39_word_new_line11 | level
+list
+sausage
+dream
+picnic
+denial
+cloud
+detail
+cement
+cheese
+predict |  
+| bip_39_word_new_line12 | level
+list
+sausage
+dream
+picnic
+denial
+cloud
+detail
+cement
+cheese
+predict
+armed |  
+| bip_39_word_new_line2 | level
+list |  
+| bip_39_word_new_line3 | level
+list
+sausage |  
+| bip_39_word_new_line4 | level
+list
+sausage
+dream |  
+| bip_39_word_new_line5 | level
+list
+sausage
+dream
+picnic |  
+| bip_39_word_new_line6 | level
+list
+sausage
+dream
+picnic
+denial |  
+| bip_39_word_new_line7 | level
+list
+sausage
+dream
+picnic
+denial
+cloud |  
+| bip_39_word_new_line8 | level
+list
+sausage
+dream
+picnic
+denial
+cloud
+detail |  
+| bip_39_word_new_line9 | level
+list
+sausage
+dream
+picnic
+denial
+cloud
+detail
+cement |  
+| bip_39_word_space_0 | ['level', 'list', 'sausage', 'dream', 'picnic', 'denial', 'cloud', 'detail', 'cement', 'cheese', 'predict', 'armed'] |  
+| bip_39_word_space_1 | level |  
+| bip_39_word_space_10 | level list sausage dream picnic denial cloud detail cement cheese |  
+| bip_39_word_space_11 | level list sausage dream picnic denial cloud detail cement cheese predict |  
+| bip_39_word_space_12 | level list sausage dream picnic denial cloud detail cement cheese predict armed |  
+| bip_39_word_space_2 | level list |  
+| bip_39_word_space_3 | level list sausage |  
+| bip_39_word_space_4 | level list sausage dream |  
+| bip_39_word_space_5 | level list sausage dream picnic |  
+| bip_39_word_space_6 | level list sausage dream picnic denial |  
+| bip_39_word_space_7 | level list sausage dream picnic denial cloud |  
+| bip_39_word_space_8 | level list sausage dream picnic denial cloud detail |  
+| bip_39_word_space_9 | level list sausage dream picnic denial cloud detail cement |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

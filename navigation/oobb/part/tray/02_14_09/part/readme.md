@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: end recipe
+  * bip 39 word 3: end recipe ring
+  * bip 39 word: end recipe ring cruel wrong blood gasp clog swap film taxi agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | end |  
+| bip_39_word_new_br10 | end<br>recipe<br>ring<br>cruel<br>wrong<br>blood<br>gasp<br>clog<br>swap<br>film |  
+| bip_39_word_new_br11 | end<br>recipe<br>ring<br>cruel<br>wrong<br>blood<br>gasp<br>clog<br>swap<br>film<br>taxi |  
+| bip_39_word_new_br12 | end<br>recipe<br>ring<br>cruel<br>wrong<br>blood<br>gasp<br>clog<br>swap<br>film<br>taxi<br>agent |  
+| bip_39_word_new_br2 | end<br>recipe |  
+| bip_39_word_new_br3 | end<br>recipe<br>ring |  
+| bip_39_word_new_br4 | end<br>recipe<br>ring<br>cruel |  
+| bip_39_word_new_br5 | end<br>recipe<br>ring<br>cruel<br>wrong |  
+| bip_39_word_new_br6 | end<br>recipe<br>ring<br>cruel<br>wrong<br>blood |  
+| bip_39_word_new_br7 | end<br>recipe<br>ring<br>cruel<br>wrong<br>blood<br>gasp |  
+| bip_39_word_new_br8 | end<br>recipe<br>ring<br>cruel<br>wrong<br>blood<br>gasp<br>clog |  
+| bip_39_word_new_br9 | end<br>recipe<br>ring<br>cruel<br>wrong<br>blood<br>gasp<br>clog<br>swap |  
+| bip_39_word_new_line1 | end |  
+| bip_39_word_new_line10 | end
+recipe
+ring
+cruel
+wrong
+blood
+gasp
+clog
+swap
+film |  
+| bip_39_word_new_line11 | end
+recipe
+ring
+cruel
+wrong
+blood
+gasp
+clog
+swap
+film
+taxi |  
+| bip_39_word_new_line12 | end
+recipe
+ring
+cruel
+wrong
+blood
+gasp
+clog
+swap
+film
+taxi
+agent |  
+| bip_39_word_new_line2 | end
+recipe |  
+| bip_39_word_new_line3 | end
+recipe
+ring |  
+| bip_39_word_new_line4 | end
+recipe
+ring
+cruel |  
+| bip_39_word_new_line5 | end
+recipe
+ring
+cruel
+wrong |  
+| bip_39_word_new_line6 | end
+recipe
+ring
+cruel
+wrong
+blood |  
+| bip_39_word_new_line7 | end
+recipe
+ring
+cruel
+wrong
+blood
+gasp |  
+| bip_39_word_new_line8 | end
+recipe
+ring
+cruel
+wrong
+blood
+gasp
+clog |  
+| bip_39_word_new_line9 | end
+recipe
+ring
+cruel
+wrong
+blood
+gasp
+clog
+swap |  
+| bip_39_word_space_0 | ['end', 'recipe', 'ring', 'cruel', 'wrong', 'blood', 'gasp', 'clog', 'swap', 'film', 'taxi', 'agent'] |  
+| bip_39_word_space_1 | end |  
+| bip_39_word_space_10 | end recipe ring cruel wrong blood gasp clog swap film |  
+| bip_39_word_space_11 | end recipe ring cruel wrong blood gasp clog swap film taxi |  
+| bip_39_word_space_12 | end recipe ring cruel wrong blood gasp clog swap film taxi agent |  
+| bip_39_word_space_2 | end recipe |  
+| bip_39_word_space_3 | end recipe ring |  
+| bip_39_word_space_4 | end recipe ring cruel |  
+| bip_39_word_space_5 | end recipe ring cruel wrong |  
+| bip_39_word_space_6 | end recipe ring cruel wrong blood |  
+| bip_39_word_space_7 | end recipe ring cruel wrong blood gasp |  
+| bip_39_word_space_8 | end recipe ring cruel wrong blood gasp clog |  
+| bip_39_word_space_9 | end recipe ring cruel wrong blood gasp clog swap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

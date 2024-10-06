@@ -1,3 +1,187 @@
+bip_39_word_new_br1: settle
+bip_39_word_new_br10: settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson
+bip_39_word_new_br11: settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson<br>present
+bip_39_word_new_br12: settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose<br>lesson<br>present<br>advance
+bip_39_word_new_br2: settle<br>board
+bip_39_word_new_br3: settle<br>board<br>real
+bip_39_word_new_br4: settle<br>board<br>real<br>forget
+bip_39_word_new_br5: settle<br>board<br>real<br>forget<br>physical
+bip_39_word_new_br6: settle<br>board<br>real<br>forget<br>physical<br>example
+bip_39_word_new_br7: settle<br>board<br>real<br>forget<br>physical<br>example<br>viable
+bip_39_word_new_br8: settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand
+bip_39_word_new_br9: settle<br>board<br>real<br>forget<br>physical<br>example<br>viable<br>brand<br>oppose
+bip_39_word_new_line1: settle
+bip_39_word_new_line10: 'settle
+
+  board
+
+  real
+
+  forget
+
+  physical
+
+  example
+
+  viable
+
+  brand
+
+  oppose
+
+  lesson'
+bip_39_word_new_line11: 'settle
+
+  board
+
+  real
+
+  forget
+
+  physical
+
+  example
+
+  viable
+
+  brand
+
+  oppose
+
+  lesson
+
+  present'
+bip_39_word_new_line12: 'settle
+
+  board
+
+  real
+
+  forget
+
+  physical
+
+  example
+
+  viable
+
+  brand
+
+  oppose
+
+  lesson
+
+  present
+
+  advance'
+bip_39_word_new_line2: 'settle
+
+  board'
+bip_39_word_new_line3: 'settle
+
+  board
+
+  real'
+bip_39_word_new_line4: 'settle
+
+  board
+
+  real
+
+  forget'
+bip_39_word_new_line5: 'settle
+
+  board
+
+  real
+
+  forget
+
+  physical'
+bip_39_word_new_line6: 'settle
+
+  board
+
+  real
+
+  forget
+
+  physical
+
+  example'
+bip_39_word_new_line7: 'settle
+
+  board
+
+  real
+
+  forget
+
+  physical
+
+  example
+
+  viable'
+bip_39_word_new_line8: 'settle
+
+  board
+
+  real
+
+  forget
+
+  physical
+
+  example
+
+  viable
+
+  brand'
+bip_39_word_new_line9: 'settle
+
+  board
+
+  real
+
+  forget
+
+  physical
+
+  example
+
+  viable
+
+  brand
+
+  oppose'
+bip_39_word_space_0:
+- settle
+- board
+- real
+- forget
+- physical
+- example
+- viable
+- brand
+- oppose
+- lesson
+- present
+- advance
+bip_39_word_space_1: settle
+bip_39_word_space_10: settle board real forget physical example viable brand oppose
+  lesson
+bip_39_word_space_11: settle board real forget physical example viable brand oppose
+  lesson present
+bip_39_word_space_12: settle board real forget physical example viable brand oppose
+  lesson present advance
+bip_39_word_space_2: settle board
+bip_39_word_space_3: settle board real
+bip_39_word_space_4: settle board real forget
+bip_39_word_space_5: settle board real forget physical
+bip_39_word_space_6: settle board real forget physical example
+bip_39_word_space_7: settle board real forget physical example viable
+bip_39_word_space_8: settle board real forget physical example viable brand
+bip_39_word_space_9: settle board real forget physical example viable brand oppose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

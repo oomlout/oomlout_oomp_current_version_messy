@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ensure
+bip_39_word_new_br10: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube<br>oil<br>trust<br>virtual<br>dress
+bip_39_word_new_br11: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube<br>oil<br>trust<br>virtual<br>dress<br>kit
+bip_39_word_new_br12: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube<br>oil<br>trust<br>virtual<br>dress<br>kit<br>art
+bip_39_word_new_br2: ensure<br>suspect
+bip_39_word_new_br3: ensure<br>suspect<br>exotic
+bip_39_word_new_br4: ensure<br>suspect<br>exotic<br>romance
+bip_39_word_new_br5: ensure<br>suspect<br>exotic<br>romance<br>dwarf
+bip_39_word_new_br6: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube
+bip_39_word_new_br7: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube<br>oil
+bip_39_word_new_br8: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube<br>oil<br>trust
+bip_39_word_new_br9: ensure<br>suspect<br>exotic<br>romance<br>dwarf<br>tube<br>oil<br>trust<br>virtual
+bip_39_word_new_line1: ensure
+bip_39_word_new_line10: 'ensure
+
+  suspect
+
+  exotic
+
+  romance
+
+  dwarf
+
+  tube
+
+  oil
+
+  trust
+
+  virtual
+
+  dress'
+bip_39_word_new_line11: 'ensure
+
+  suspect
+
+  exotic
+
+  romance
+
+  dwarf
+
+  tube
+
+  oil
+
+  trust
+
+  virtual
+
+  dress
+
+  kit'
+bip_39_word_new_line12: 'ensure
+
+  suspect
+
+  exotic
+
+  romance
+
+  dwarf
+
+  tube
+
+  oil
+
+  trust
+
+  virtual
+
+  dress
+
+  kit
+
+  art'
+bip_39_word_new_line2: 'ensure
+
+  suspect'
+bip_39_word_new_line3: 'ensure
+
+  suspect
+
+  exotic'
+bip_39_word_new_line4: 'ensure
+
+  suspect
+
+  exotic
+
+  romance'
+bip_39_word_new_line5: 'ensure
+
+  suspect
+
+  exotic
+
+  romance
+
+  dwarf'
+bip_39_word_new_line6: 'ensure
+
+  suspect
+
+  exotic
+
+  romance
+
+  dwarf
+
+  tube'
+bip_39_word_new_line7: 'ensure
+
+  suspect
+
+  exotic
+
+  romance
+
+  dwarf
+
+  tube
+
+  oil'
+bip_39_word_new_line8: 'ensure
+
+  suspect
+
+  exotic
+
+  romance
+
+  dwarf
+
+  tube
+
+  oil
+
+  trust'
+bip_39_word_new_line9: 'ensure
+
+  suspect
+
+  exotic
+
+  romance
+
+  dwarf
+
+  tube
+
+  oil
+
+  trust
+
+  virtual'
+bip_39_word_space_0:
+- ensure
+- suspect
+- exotic
+- romance
+- dwarf
+- tube
+- oil
+- trust
+- virtual
+- dress
+- kit
+- art
+bip_39_word_space_1: ensure
+bip_39_word_space_10: ensure suspect exotic romance dwarf tube oil trust virtual dress
+bip_39_word_space_11: ensure suspect exotic romance dwarf tube oil trust virtual dress
+  kit
+bip_39_word_space_12: ensure suspect exotic romance dwarf tube oil trust virtual dress
+  kit art
+bip_39_word_space_2: ensure suspect
+bip_39_word_space_3: ensure suspect exotic
+bip_39_word_space_4: ensure suspect exotic romance
+bip_39_word_space_5: ensure suspect exotic romance dwarf
+bip_39_word_space_6: ensure suspect exotic romance dwarf tube
+bip_39_word_space_7: ensure suspect exotic romance dwarf tube oil
+bip_39_word_space_8: ensure suspect exotic romance dwarf tube oil trust
+bip_39_word_space_9: ensure suspect exotic romance dwarf tube oil trust virtual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

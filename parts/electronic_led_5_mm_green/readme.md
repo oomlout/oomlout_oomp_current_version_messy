@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clap horror
+  * bip 39 word 3: clap horror have
+  * bip 39 word: clap horror have lyrics observe hand enrich memory early ill miss arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clap |  
+| bip_39_word_new_br10 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill |  
+| bip_39_word_new_br11 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill<br>miss |  
+| bip_39_word_new_br12 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early<br>ill<br>miss<br>arena |  
+| bip_39_word_new_br2 | clap<br>horror |  
+| bip_39_word_new_br3 | clap<br>horror<br>have |  
+| bip_39_word_new_br4 | clap<br>horror<br>have<br>lyrics |  
+| bip_39_word_new_br5 | clap<br>horror<br>have<br>lyrics<br>observe |  
+| bip_39_word_new_br6 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand |  
+| bip_39_word_new_br7 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich |  
+| bip_39_word_new_br8 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory |  
+| bip_39_word_new_br9 | clap<br>horror<br>have<br>lyrics<br>observe<br>hand<br>enrich<br>memory<br>early |  
+| bip_39_word_new_line1 | clap |  
+| bip_39_word_new_line10 | clap
+horror
+have
+lyrics
+observe
+hand
+enrich
+memory
+early
+ill |  
+| bip_39_word_new_line11 | clap
+horror
+have
+lyrics
+observe
+hand
+enrich
+memory
+early
+ill
+miss |  
+| bip_39_word_new_line12 | clap
+horror
+have
+lyrics
+observe
+hand
+enrich
+memory
+early
+ill
+miss
+arena |  
+| bip_39_word_new_line2 | clap
+horror |  
+| bip_39_word_new_line3 | clap
+horror
+have |  
+| bip_39_word_new_line4 | clap
+horror
+have
+lyrics |  
+| bip_39_word_new_line5 | clap
+horror
+have
+lyrics
+observe |  
+| bip_39_word_new_line6 | clap
+horror
+have
+lyrics
+observe
+hand |  
+| bip_39_word_new_line7 | clap
+horror
+have
+lyrics
+observe
+hand
+enrich |  
+| bip_39_word_new_line8 | clap
+horror
+have
+lyrics
+observe
+hand
+enrich
+memory |  
+| bip_39_word_new_line9 | clap
+horror
+have
+lyrics
+observe
+hand
+enrich
+memory
+early |  
+| bip_39_word_space_0 | ['clap', 'horror', 'have', 'lyrics', 'observe', 'hand', 'enrich', 'memory', 'early', 'ill', 'miss', 'arena'] |  
+| bip_39_word_space_1 | clap |  
+| bip_39_word_space_10 | clap horror have lyrics observe hand enrich memory early ill |  
+| bip_39_word_space_11 | clap horror have lyrics observe hand enrich memory early ill miss |  
+| bip_39_word_space_12 | clap horror have lyrics observe hand enrich memory early ill miss arena |  
+| bip_39_word_space_2 | clap horror |  
+| bip_39_word_space_3 | clap horror have |  
+| bip_39_word_space_4 | clap horror have lyrics |  
+| bip_39_word_space_5 | clap horror have lyrics observe |  
+| bip_39_word_space_6 | clap horror have lyrics observe hand |  
+| bip_39_word_space_7 | clap horror have lyrics observe hand enrich |  
+| bip_39_word_space_8 | clap horror have lyrics observe hand enrich memory |  
+| bip_39_word_space_9 | clap horror have lyrics observe hand enrich memory early |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

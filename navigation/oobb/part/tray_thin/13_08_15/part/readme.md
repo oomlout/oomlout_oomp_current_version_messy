@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inch together
+  * bip 39 word 3: inch together dinosaur
+  * bip 39 word: inch together dinosaur festival return dragon lounge chalk novel soup client author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inch |  
+| bip_39_word_new_br10 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon<br>lounge<br>chalk<br>novel<br>soup |  
+| bip_39_word_new_br11 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon<br>lounge<br>chalk<br>novel<br>soup<br>client |  
+| bip_39_word_new_br12 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon<br>lounge<br>chalk<br>novel<br>soup<br>client<br>author |  
+| bip_39_word_new_br2 | inch<br>together |  
+| bip_39_word_new_br3 | inch<br>together<br>dinosaur |  
+| bip_39_word_new_br4 | inch<br>together<br>dinosaur<br>festival |  
+| bip_39_word_new_br5 | inch<br>together<br>dinosaur<br>festival<br>return |  
+| bip_39_word_new_br6 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon |  
+| bip_39_word_new_br7 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon<br>lounge |  
+| bip_39_word_new_br8 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon<br>lounge<br>chalk |  
+| bip_39_word_new_br9 | inch<br>together<br>dinosaur<br>festival<br>return<br>dragon<br>lounge<br>chalk<br>novel |  
+| bip_39_word_new_line1 | inch |  
+| bip_39_word_new_line10 | inch
+together
+dinosaur
+festival
+return
+dragon
+lounge
+chalk
+novel
+soup |  
+| bip_39_word_new_line11 | inch
+together
+dinosaur
+festival
+return
+dragon
+lounge
+chalk
+novel
+soup
+client |  
+| bip_39_word_new_line12 | inch
+together
+dinosaur
+festival
+return
+dragon
+lounge
+chalk
+novel
+soup
+client
+author |  
+| bip_39_word_new_line2 | inch
+together |  
+| bip_39_word_new_line3 | inch
+together
+dinosaur |  
+| bip_39_word_new_line4 | inch
+together
+dinosaur
+festival |  
+| bip_39_word_new_line5 | inch
+together
+dinosaur
+festival
+return |  
+| bip_39_word_new_line6 | inch
+together
+dinosaur
+festival
+return
+dragon |  
+| bip_39_word_new_line7 | inch
+together
+dinosaur
+festival
+return
+dragon
+lounge |  
+| bip_39_word_new_line8 | inch
+together
+dinosaur
+festival
+return
+dragon
+lounge
+chalk |  
+| bip_39_word_new_line9 | inch
+together
+dinosaur
+festival
+return
+dragon
+lounge
+chalk
+novel |  
+| bip_39_word_space_0 | ['inch', 'together', 'dinosaur', 'festival', 'return', 'dragon', 'lounge', 'chalk', 'novel', 'soup', 'client', 'author'] |  
+| bip_39_word_space_1 | inch |  
+| bip_39_word_space_10 | inch together dinosaur festival return dragon lounge chalk novel soup |  
+| bip_39_word_space_11 | inch together dinosaur festival return dragon lounge chalk novel soup client |  
+| bip_39_word_space_12 | inch together dinosaur festival return dragon lounge chalk novel soup client author |  
+| bip_39_word_space_2 | inch together |  
+| bip_39_word_space_3 | inch together dinosaur |  
+| bip_39_word_space_4 | inch together dinosaur festival |  
+| bip_39_word_space_5 | inch together dinosaur festival return |  
+| bip_39_word_space_6 | inch together dinosaur festival return dragon |  
+| bip_39_word_space_7 | inch together dinosaur festival return dragon lounge |  
+| bip_39_word_space_8 | inch together dinosaur festival return dragon lounge chalk |  
+| bip_39_word_space_9 | inch together dinosaur festival return dragon lounge chalk novel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

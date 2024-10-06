@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_stepper_nema_17_flat_shifted
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sea bullet
+  * bip 39 word 3: sea bullet defense
+  * bip 39 word: sea bullet defense life divert chuckle pass puzzle tilt arena upon already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sea |  
+| bip_39_word_new_br10 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena |  
+| bip_39_word_new_br11 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena<br>upon |  
+| bip_39_word_new_br12 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt<br>arena<br>upon<br>already |  
+| bip_39_word_new_br2 | sea<br>bullet |  
+| bip_39_word_new_br3 | sea<br>bullet<br>defense |  
+| bip_39_word_new_br4 | sea<br>bullet<br>defense<br>life |  
+| bip_39_word_new_br5 | sea<br>bullet<br>defense<br>life<br>divert |  
+| bip_39_word_new_br6 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle |  
+| bip_39_word_new_br7 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass |  
+| bip_39_word_new_br8 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle |  
+| bip_39_word_new_br9 | sea<br>bullet<br>defense<br>life<br>divert<br>chuckle<br>pass<br>puzzle<br>tilt |  
+| bip_39_word_new_line1 | sea |  
+| bip_39_word_new_line10 | sea
+bullet
+defense
+life
+divert
+chuckle
+pass
+puzzle
+tilt
+arena |  
+| bip_39_word_new_line11 | sea
+bullet
+defense
+life
+divert
+chuckle
+pass
+puzzle
+tilt
+arena
+upon |  
+| bip_39_word_new_line12 | sea
+bullet
+defense
+life
+divert
+chuckle
+pass
+puzzle
+tilt
+arena
+upon
+already |  
+| bip_39_word_new_line2 | sea
+bullet |  
+| bip_39_word_new_line3 | sea
+bullet
+defense |  
+| bip_39_word_new_line4 | sea
+bullet
+defense
+life |  
+| bip_39_word_new_line5 | sea
+bullet
+defense
+life
+divert |  
+| bip_39_word_new_line6 | sea
+bullet
+defense
+life
+divert
+chuckle |  
+| bip_39_word_new_line7 | sea
+bullet
+defense
+life
+divert
+chuckle
+pass |  
+| bip_39_word_new_line8 | sea
+bullet
+defense
+life
+divert
+chuckle
+pass
+puzzle |  
+| bip_39_word_new_line9 | sea
+bullet
+defense
+life
+divert
+chuckle
+pass
+puzzle
+tilt |  
+| bip_39_word_space_0 | ['sea', 'bullet', 'defense', 'life', 'divert', 'chuckle', 'pass', 'puzzle', 'tilt', 'arena', 'upon', 'already'] |  
+| bip_39_word_space_1 | sea |  
+| bip_39_word_space_10 | sea bullet defense life divert chuckle pass puzzle tilt arena |  
+| bip_39_word_space_11 | sea bullet defense life divert chuckle pass puzzle tilt arena upon |  
+| bip_39_word_space_12 | sea bullet defense life divert chuckle pass puzzle tilt arena upon already |  
+| bip_39_word_space_2 | sea bullet |  
+| bip_39_word_space_3 | sea bullet defense |  
+| bip_39_word_space_4 | sea bullet defense life |  
+| bip_39_word_space_5 | sea bullet defense life divert |  
+| bip_39_word_space_6 | sea bullet defense life divert chuckle |  
+| bip_39_word_space_7 | sea bullet defense life divert chuckle pass |  
+| bip_39_word_space_8 | sea bullet defense life divert chuckle pass puzzle |  
+| bip_39_word_space_9 | sea bullet defense life divert chuckle pass puzzle tilt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

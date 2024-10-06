@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cupboard sadness
+  * bip 39 word 3: cupboard sadness oppose
+  * bip 39 word: cupboard sadness oppose van episode win bridge trial scrap primary oppose already
 
 ### other_codes
 * short_code: cs4b40h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cupboard |  
+| bip_39_word_new_br10 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary |  
+| bip_39_word_new_br11 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary<br>oppose |  
+| bip_39_word_new_br12 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap<br>primary<br>oppose<br>already |  
+| bip_39_word_new_br2 | cupboard<br>sadness |  
+| bip_39_word_new_br3 | cupboard<br>sadness<br>oppose |  
+| bip_39_word_new_br4 | cupboard<br>sadness<br>oppose<br>van |  
+| bip_39_word_new_br5 | cupboard<br>sadness<br>oppose<br>van<br>episode |  
+| bip_39_word_new_br6 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win |  
+| bip_39_word_new_br7 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge |  
+| bip_39_word_new_br8 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial |  
+| bip_39_word_new_br9 | cupboard<br>sadness<br>oppose<br>van<br>episode<br>win<br>bridge<br>trial<br>scrap |  
+| bip_39_word_new_line1 | cupboard |  
+| bip_39_word_new_line10 | cupboard
+sadness
+oppose
+van
+episode
+win
+bridge
+trial
+scrap
+primary |  
+| bip_39_word_new_line11 | cupboard
+sadness
+oppose
+van
+episode
+win
+bridge
+trial
+scrap
+primary
+oppose |  
+| bip_39_word_new_line12 | cupboard
+sadness
+oppose
+van
+episode
+win
+bridge
+trial
+scrap
+primary
+oppose
+already |  
+| bip_39_word_new_line2 | cupboard
+sadness |  
+| bip_39_word_new_line3 | cupboard
+sadness
+oppose |  
+| bip_39_word_new_line4 | cupboard
+sadness
+oppose
+van |  
+| bip_39_word_new_line5 | cupboard
+sadness
+oppose
+van
+episode |  
+| bip_39_word_new_line6 | cupboard
+sadness
+oppose
+van
+episode
+win |  
+| bip_39_word_new_line7 | cupboard
+sadness
+oppose
+van
+episode
+win
+bridge |  
+| bip_39_word_new_line8 | cupboard
+sadness
+oppose
+van
+episode
+win
+bridge
+trial |  
+| bip_39_word_new_line9 | cupboard
+sadness
+oppose
+van
+episode
+win
+bridge
+trial
+scrap |  
+| bip_39_word_space_0 | ['cupboard', 'sadness', 'oppose', 'van', 'episode', 'win', 'bridge', 'trial', 'scrap', 'primary', 'oppose', 'already'] |  
+| bip_39_word_space_1 | cupboard |  
+| bip_39_word_space_10 | cupboard sadness oppose van episode win bridge trial scrap primary |  
+| bip_39_word_space_11 | cupboard sadness oppose van episode win bridge trial scrap primary oppose |  
+| bip_39_word_space_12 | cupboard sadness oppose van episode win bridge trial scrap primary oppose already |  
+| bip_39_word_space_2 | cupboard sadness |  
+| bip_39_word_space_3 | cupboard sadness oppose |  
+| bip_39_word_space_4 | cupboard sadness oppose van |  
+| bip_39_word_space_5 | cupboard sadness oppose van episode |  
+| bip_39_word_space_6 | cupboard sadness oppose van episode win |  
+| bip_39_word_space_7 | cupboard sadness oppose van episode win bridge |  
+| bip_39_word_space_8 | cupboard sadness oppose van episode win bridge trial |  
+| bip_39_word_space_9 | cupboard sadness oppose van episode win bridge trial scrap |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

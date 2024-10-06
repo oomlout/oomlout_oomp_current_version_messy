@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: canyon tenant
+  * bip 39 word 3: canyon tenant deny
+  * bip 39 word: canyon tenant deny claw fence amateur duty dwarf street digital load attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | canyon |  
+| bip_39_word_new_br10 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur<br>duty<br>dwarf<br>street<br>digital |  
+| bip_39_word_new_br11 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur<br>duty<br>dwarf<br>street<br>digital<br>load |  
+| bip_39_word_new_br12 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur<br>duty<br>dwarf<br>street<br>digital<br>load<br>attack |  
+| bip_39_word_new_br2 | canyon<br>tenant |  
+| bip_39_word_new_br3 | canyon<br>tenant<br>deny |  
+| bip_39_word_new_br4 | canyon<br>tenant<br>deny<br>claw |  
+| bip_39_word_new_br5 | canyon<br>tenant<br>deny<br>claw<br>fence |  
+| bip_39_word_new_br6 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur |  
+| bip_39_word_new_br7 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur<br>duty |  
+| bip_39_word_new_br8 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur<br>duty<br>dwarf |  
+| bip_39_word_new_br9 | canyon<br>tenant<br>deny<br>claw<br>fence<br>amateur<br>duty<br>dwarf<br>street |  
+| bip_39_word_new_line1 | canyon |  
+| bip_39_word_new_line10 | canyon
+tenant
+deny
+claw
+fence
+amateur
+duty
+dwarf
+street
+digital |  
+| bip_39_word_new_line11 | canyon
+tenant
+deny
+claw
+fence
+amateur
+duty
+dwarf
+street
+digital
+load |  
+| bip_39_word_new_line12 | canyon
+tenant
+deny
+claw
+fence
+amateur
+duty
+dwarf
+street
+digital
+load
+attack |  
+| bip_39_word_new_line2 | canyon
+tenant |  
+| bip_39_word_new_line3 | canyon
+tenant
+deny |  
+| bip_39_word_new_line4 | canyon
+tenant
+deny
+claw |  
+| bip_39_word_new_line5 | canyon
+tenant
+deny
+claw
+fence |  
+| bip_39_word_new_line6 | canyon
+tenant
+deny
+claw
+fence
+amateur |  
+| bip_39_word_new_line7 | canyon
+tenant
+deny
+claw
+fence
+amateur
+duty |  
+| bip_39_word_new_line8 | canyon
+tenant
+deny
+claw
+fence
+amateur
+duty
+dwarf |  
+| bip_39_word_new_line9 | canyon
+tenant
+deny
+claw
+fence
+amateur
+duty
+dwarf
+street |  
+| bip_39_word_space_0 | ['canyon', 'tenant', 'deny', 'claw', 'fence', 'amateur', 'duty', 'dwarf', 'street', 'digital', 'load', 'attack'] |  
+| bip_39_word_space_1 | canyon |  
+| bip_39_word_space_10 | canyon tenant deny claw fence amateur duty dwarf street digital |  
+| bip_39_word_space_11 | canyon tenant deny claw fence amateur duty dwarf street digital load |  
+| bip_39_word_space_12 | canyon tenant deny claw fence amateur duty dwarf street digital load attack |  
+| bip_39_word_space_2 | canyon tenant |  
+| bip_39_word_space_3 | canyon tenant deny |  
+| bip_39_word_space_4 | canyon tenant deny claw |  
+| bip_39_word_space_5 | canyon tenant deny claw fence |  
+| bip_39_word_space_6 | canyon tenant deny claw fence amateur |  
+| bip_39_word_space_7 | canyon tenant deny claw fence amateur duty |  
+| bip_39_word_space_8 | canyon tenant deny claw fence amateur duty dwarf |  
+| bip_39_word_space_9 | canyon tenant deny claw fence amateur duty dwarf street |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

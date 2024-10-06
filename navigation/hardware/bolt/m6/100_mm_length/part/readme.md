@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spare myth
+  * bip 39 word 3: spare myth term
+  * bip 39 word: spare myth term blanket ribbon rule chair picture undo antenna hope amazing
 
 ### other_codes
 * short_code: b6m100
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spare |  
+| bip_39_word_new_br10 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna |  
+| bip_39_word_new_br11 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna<br>hope |  
+| bip_39_word_new_br12 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo<br>antenna<br>hope<br>amazing |  
+| bip_39_word_new_br2 | spare<br>myth |  
+| bip_39_word_new_br3 | spare<br>myth<br>term |  
+| bip_39_word_new_br4 | spare<br>myth<br>term<br>blanket |  
+| bip_39_word_new_br5 | spare<br>myth<br>term<br>blanket<br>ribbon |  
+| bip_39_word_new_br6 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule |  
+| bip_39_word_new_br7 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair |  
+| bip_39_word_new_br8 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture |  
+| bip_39_word_new_br9 | spare<br>myth<br>term<br>blanket<br>ribbon<br>rule<br>chair<br>picture<br>undo |  
+| bip_39_word_new_line1 | spare |  
+| bip_39_word_new_line10 | spare
+myth
+term
+blanket
+ribbon
+rule
+chair
+picture
+undo
+antenna |  
+| bip_39_word_new_line11 | spare
+myth
+term
+blanket
+ribbon
+rule
+chair
+picture
+undo
+antenna
+hope |  
+| bip_39_word_new_line12 | spare
+myth
+term
+blanket
+ribbon
+rule
+chair
+picture
+undo
+antenna
+hope
+amazing |  
+| bip_39_word_new_line2 | spare
+myth |  
+| bip_39_word_new_line3 | spare
+myth
+term |  
+| bip_39_word_new_line4 | spare
+myth
+term
+blanket |  
+| bip_39_word_new_line5 | spare
+myth
+term
+blanket
+ribbon |  
+| bip_39_word_new_line6 | spare
+myth
+term
+blanket
+ribbon
+rule |  
+| bip_39_word_new_line7 | spare
+myth
+term
+blanket
+ribbon
+rule
+chair |  
+| bip_39_word_new_line8 | spare
+myth
+term
+blanket
+ribbon
+rule
+chair
+picture |  
+| bip_39_word_new_line9 | spare
+myth
+term
+blanket
+ribbon
+rule
+chair
+picture
+undo |  
+| bip_39_word_space_0 | ['spare', 'myth', 'term', 'blanket', 'ribbon', 'rule', 'chair', 'picture', 'undo', 'antenna', 'hope', 'amazing'] |  
+| bip_39_word_space_1 | spare |  
+| bip_39_word_space_10 | spare myth term blanket ribbon rule chair picture undo antenna |  
+| bip_39_word_space_11 | spare myth term blanket ribbon rule chair picture undo antenna hope |  
+| bip_39_word_space_12 | spare myth term blanket ribbon rule chair picture undo antenna hope amazing |  
+| bip_39_word_space_2 | spare myth |  
+| bip_39_word_space_3 | spare myth term |  
+| bip_39_word_space_4 | spare myth term blanket |  
+| bip_39_word_space_5 | spare myth term blanket ribbon |  
+| bip_39_word_space_6 | spare myth term blanket ribbon rule |  
+| bip_39_word_space_7 | spare myth term blanket ribbon rule chair |  
+| bip_39_word_space_8 | spare myth term blanket ribbon rule chair picture |  
+| bip_39_word_space_9 | spare myth term blanket ribbon rule chair picture undo |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

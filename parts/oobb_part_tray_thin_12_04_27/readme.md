@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: poverty shy
+  * bip 39 word 3: poverty shy plug
+  * bip 39 word: poverty shy plug butter city cup below soul prosper arrest rural ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | poverty |  
+| bip_39_word_new_br10 | poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper<br>arrest |  
+| bip_39_word_new_br11 | poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper<br>arrest<br>rural |  
+| bip_39_word_new_br12 | poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper<br>arrest<br>rural<br>ahead |  
+| bip_39_word_new_br2 | poverty<br>shy |  
+| bip_39_word_new_br3 | poverty<br>shy<br>plug |  
+| bip_39_word_new_br4 | poverty<br>shy<br>plug<br>butter |  
+| bip_39_word_new_br5 | poverty<br>shy<br>plug<br>butter<br>city |  
+| bip_39_word_new_br6 | poverty<br>shy<br>plug<br>butter<br>city<br>cup |  
+| bip_39_word_new_br7 | poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below |  
+| bip_39_word_new_br8 | poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul |  
+| bip_39_word_new_br9 | poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper |  
+| bip_39_word_new_line1 | poverty |  
+| bip_39_word_new_line10 | poverty
+shy
+plug
+butter
+city
+cup
+below
+soul
+prosper
+arrest |  
+| bip_39_word_new_line11 | poverty
+shy
+plug
+butter
+city
+cup
+below
+soul
+prosper
+arrest
+rural |  
+| bip_39_word_new_line12 | poverty
+shy
+plug
+butter
+city
+cup
+below
+soul
+prosper
+arrest
+rural
+ahead |  
+| bip_39_word_new_line2 | poverty
+shy |  
+| bip_39_word_new_line3 | poverty
+shy
+plug |  
+| bip_39_word_new_line4 | poverty
+shy
+plug
+butter |  
+| bip_39_word_new_line5 | poverty
+shy
+plug
+butter
+city |  
+| bip_39_word_new_line6 | poverty
+shy
+plug
+butter
+city
+cup |  
+| bip_39_word_new_line7 | poverty
+shy
+plug
+butter
+city
+cup
+below |  
+| bip_39_word_new_line8 | poverty
+shy
+plug
+butter
+city
+cup
+below
+soul |  
+| bip_39_word_new_line9 | poverty
+shy
+plug
+butter
+city
+cup
+below
+soul
+prosper |  
+| bip_39_word_space_0 | ['poverty', 'shy', 'plug', 'butter', 'city', 'cup', 'below', 'soul', 'prosper', 'arrest', 'rural', 'ahead'] |  
+| bip_39_word_space_1 | poverty |  
+| bip_39_word_space_10 | poverty shy plug butter city cup below soul prosper arrest |  
+| bip_39_word_space_11 | poverty shy plug butter city cup below soul prosper arrest rural |  
+| bip_39_word_space_12 | poverty shy plug butter city cup below soul prosper arrest rural ahead |  
+| bip_39_word_space_2 | poverty shy |  
+| bip_39_word_space_3 | poverty shy plug |  
+| bip_39_word_space_4 | poverty shy plug butter |  
+| bip_39_word_space_5 | poverty shy plug butter city |  
+| bip_39_word_space_6 | poverty shy plug butter city cup |  
+| bip_39_word_space_7 | poverty shy plug butter city cup below |  
+| bip_39_word_space_8 | poverty shy plug butter city cup below soul |  
+| bip_39_word_space_9 | poverty shy plug butter city cup below soul prosper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

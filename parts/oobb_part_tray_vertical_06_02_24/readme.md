@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coral garment
+  * bip 39 word 3: coral garment hedgehog
+  * bip 39 word: coral garment hedgehog appear believe brother police pencil slow hair crime add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coral |  
+| bip_39_word_new_br10 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother<br>police<br>pencil<br>slow<br>hair |  
+| bip_39_word_new_br11 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother<br>police<br>pencil<br>slow<br>hair<br>crime |  
+| bip_39_word_new_br12 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother<br>police<br>pencil<br>slow<br>hair<br>crime<br>add |  
+| bip_39_word_new_br2 | coral<br>garment |  
+| bip_39_word_new_br3 | coral<br>garment<br>hedgehog |  
+| bip_39_word_new_br4 | coral<br>garment<br>hedgehog<br>appear |  
+| bip_39_word_new_br5 | coral<br>garment<br>hedgehog<br>appear<br>believe |  
+| bip_39_word_new_br6 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother |  
+| bip_39_word_new_br7 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother<br>police |  
+| bip_39_word_new_br8 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother<br>police<br>pencil |  
+| bip_39_word_new_br9 | coral<br>garment<br>hedgehog<br>appear<br>believe<br>brother<br>police<br>pencil<br>slow |  
+| bip_39_word_new_line1 | coral |  
+| bip_39_word_new_line10 | coral
+garment
+hedgehog
+appear
+believe
+brother
+police
+pencil
+slow
+hair |  
+| bip_39_word_new_line11 | coral
+garment
+hedgehog
+appear
+believe
+brother
+police
+pencil
+slow
+hair
+crime |  
+| bip_39_word_new_line12 | coral
+garment
+hedgehog
+appear
+believe
+brother
+police
+pencil
+slow
+hair
+crime
+add |  
+| bip_39_word_new_line2 | coral
+garment |  
+| bip_39_word_new_line3 | coral
+garment
+hedgehog |  
+| bip_39_word_new_line4 | coral
+garment
+hedgehog
+appear |  
+| bip_39_word_new_line5 | coral
+garment
+hedgehog
+appear
+believe |  
+| bip_39_word_new_line6 | coral
+garment
+hedgehog
+appear
+believe
+brother |  
+| bip_39_word_new_line7 | coral
+garment
+hedgehog
+appear
+believe
+brother
+police |  
+| bip_39_word_new_line8 | coral
+garment
+hedgehog
+appear
+believe
+brother
+police
+pencil |  
+| bip_39_word_new_line9 | coral
+garment
+hedgehog
+appear
+believe
+brother
+police
+pencil
+slow |  
+| bip_39_word_space_0 | ['coral', 'garment', 'hedgehog', 'appear', 'believe', 'brother', 'police', 'pencil', 'slow', 'hair', 'crime', 'add'] |  
+| bip_39_word_space_1 | coral |  
+| bip_39_word_space_10 | coral garment hedgehog appear believe brother police pencil slow hair |  
+| bip_39_word_space_11 | coral garment hedgehog appear believe brother police pencil slow hair crime |  
+| bip_39_word_space_12 | coral garment hedgehog appear believe brother police pencil slow hair crime add |  
+| bip_39_word_space_2 | coral garment |  
+| bip_39_word_space_3 | coral garment hedgehog |  
+| bip_39_word_space_4 | coral garment hedgehog appear |  
+| bip_39_word_space_5 | coral garment hedgehog appear believe |  
+| bip_39_word_space_6 | coral garment hedgehog appear believe brother |  
+| bip_39_word_space_7 | coral garment hedgehog appear believe brother police |  
+| bip_39_word_space_8 | coral garment hedgehog appear believe brother police pencil |  
+| bip_39_word_space_9 | coral garment hedgehog appear believe brother police pencil slow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

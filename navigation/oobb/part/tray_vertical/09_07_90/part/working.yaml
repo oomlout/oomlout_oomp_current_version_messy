@@ -1,3 +1,187 @@
+bip_39_word_new_br1: wing
+bip_39_word_new_br10: wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade
+bip_39_word_new_br11: wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade<br>release
+bip_39_word_new_br12: wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf<br>blade<br>release<br>add
+bip_39_word_new_br2: wing<br>typical
+bip_39_word_new_br3: wing<br>typical<br>bachelor
+bip_39_word_new_br4: wing<br>typical<br>bachelor<br>hand
+bip_39_word_new_br5: wing<br>typical<br>bachelor<br>hand<br>bitter
+bip_39_word_new_br6: wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate
+bip_39_word_new_br7: wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide
+bip_39_word_new_br8: wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten
+bip_39_word_new_br9: wing<br>typical<br>bachelor<br>hand<br>bitter<br>inmate<br>decide<br>kitten<br>wolf
+bip_39_word_new_line1: wing
+bip_39_word_new_line10: 'wing
+
+  typical
+
+  bachelor
+
+  hand
+
+  bitter
+
+  inmate
+
+  decide
+
+  kitten
+
+  wolf
+
+  blade'
+bip_39_word_new_line11: 'wing
+
+  typical
+
+  bachelor
+
+  hand
+
+  bitter
+
+  inmate
+
+  decide
+
+  kitten
+
+  wolf
+
+  blade
+
+  release'
+bip_39_word_new_line12: 'wing
+
+  typical
+
+  bachelor
+
+  hand
+
+  bitter
+
+  inmate
+
+  decide
+
+  kitten
+
+  wolf
+
+  blade
+
+  release
+
+  add'
+bip_39_word_new_line2: 'wing
+
+  typical'
+bip_39_word_new_line3: 'wing
+
+  typical
+
+  bachelor'
+bip_39_word_new_line4: 'wing
+
+  typical
+
+  bachelor
+
+  hand'
+bip_39_word_new_line5: 'wing
+
+  typical
+
+  bachelor
+
+  hand
+
+  bitter'
+bip_39_word_new_line6: 'wing
+
+  typical
+
+  bachelor
+
+  hand
+
+  bitter
+
+  inmate'
+bip_39_word_new_line7: 'wing
+
+  typical
+
+  bachelor
+
+  hand
+
+  bitter
+
+  inmate
+
+  decide'
+bip_39_word_new_line8: 'wing
+
+  typical
+
+  bachelor
+
+  hand
+
+  bitter
+
+  inmate
+
+  decide
+
+  kitten'
+bip_39_word_new_line9: 'wing
+
+  typical
+
+  bachelor
+
+  hand
+
+  bitter
+
+  inmate
+
+  decide
+
+  kitten
+
+  wolf'
+bip_39_word_space_0:
+- wing
+- typical
+- bachelor
+- hand
+- bitter
+- inmate
+- decide
+- kitten
+- wolf
+- blade
+- release
+- add
+bip_39_word_space_1: wing
+bip_39_word_space_10: wing typical bachelor hand bitter inmate decide kitten wolf
+  blade
+bip_39_word_space_11: wing typical bachelor hand bitter inmate decide kitten wolf
+  blade release
+bip_39_word_space_12: wing typical bachelor hand bitter inmate decide kitten wolf
+  blade release add
+bip_39_word_space_2: wing typical
+bip_39_word_space_3: wing typical bachelor
+bip_39_word_space_4: wing typical bachelor hand
+bip_39_word_space_5: wing typical bachelor hand bitter
+bip_39_word_space_6: wing typical bachelor hand bitter inmate
+bip_39_word_space_7: wing typical bachelor hand bitter inmate decide
+bip_39_word_space_8: wing typical bachelor hand bitter inmate decide kitten
+bip_39_word_space_9: wing typical bachelor hand bitter inmate decide kitten wolf
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

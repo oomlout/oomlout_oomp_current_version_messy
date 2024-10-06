@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toe fit
+  * bip 39 word 3: toe fit tobacco
+  * bip 39 word: toe fit tobacco size black rookie shallow neutral joy aware rice also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toe |  
+| bip_39_word_new_br10 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie<br>shallow<br>neutral<br>joy<br>aware |  
+| bip_39_word_new_br11 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie<br>shallow<br>neutral<br>joy<br>aware<br>rice |  
+| bip_39_word_new_br12 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie<br>shallow<br>neutral<br>joy<br>aware<br>rice<br>also |  
+| bip_39_word_new_br2 | toe<br>fit |  
+| bip_39_word_new_br3 | toe<br>fit<br>tobacco |  
+| bip_39_word_new_br4 | toe<br>fit<br>tobacco<br>size |  
+| bip_39_word_new_br5 | toe<br>fit<br>tobacco<br>size<br>black |  
+| bip_39_word_new_br6 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie |  
+| bip_39_word_new_br7 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie<br>shallow |  
+| bip_39_word_new_br8 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie<br>shallow<br>neutral |  
+| bip_39_word_new_br9 | toe<br>fit<br>tobacco<br>size<br>black<br>rookie<br>shallow<br>neutral<br>joy |  
+| bip_39_word_new_line1 | toe |  
+| bip_39_word_new_line10 | toe
+fit
+tobacco
+size
+black
+rookie
+shallow
+neutral
+joy
+aware |  
+| bip_39_word_new_line11 | toe
+fit
+tobacco
+size
+black
+rookie
+shallow
+neutral
+joy
+aware
+rice |  
+| bip_39_word_new_line12 | toe
+fit
+tobacco
+size
+black
+rookie
+shallow
+neutral
+joy
+aware
+rice
+also |  
+| bip_39_word_new_line2 | toe
+fit |  
+| bip_39_word_new_line3 | toe
+fit
+tobacco |  
+| bip_39_word_new_line4 | toe
+fit
+tobacco
+size |  
+| bip_39_word_new_line5 | toe
+fit
+tobacco
+size
+black |  
+| bip_39_word_new_line6 | toe
+fit
+tobacco
+size
+black
+rookie |  
+| bip_39_word_new_line7 | toe
+fit
+tobacco
+size
+black
+rookie
+shallow |  
+| bip_39_word_new_line8 | toe
+fit
+tobacco
+size
+black
+rookie
+shallow
+neutral |  
+| bip_39_word_new_line9 | toe
+fit
+tobacco
+size
+black
+rookie
+shallow
+neutral
+joy |  
+| bip_39_word_space_0 | ['toe', 'fit', 'tobacco', 'size', 'black', 'rookie', 'shallow', 'neutral', 'joy', 'aware', 'rice', 'also'] |  
+| bip_39_word_space_1 | toe |  
+| bip_39_word_space_10 | toe fit tobacco size black rookie shallow neutral joy aware |  
+| bip_39_word_space_11 | toe fit tobacco size black rookie shallow neutral joy aware rice |  
+| bip_39_word_space_12 | toe fit tobacco size black rookie shallow neutral joy aware rice also |  
+| bip_39_word_space_2 | toe fit |  
+| bip_39_word_space_3 | toe fit tobacco |  
+| bip_39_word_space_4 | toe fit tobacco size |  
+| bip_39_word_space_5 | toe fit tobacco size black |  
+| bip_39_word_space_6 | toe fit tobacco size black rookie |  
+| bip_39_word_space_7 | toe fit tobacco size black rookie shallow |  
+| bip_39_word_space_8 | toe fit tobacco size black rookie shallow neutral |  
+| bip_39_word_space_9 | toe fit tobacco size black rookie shallow neutral joy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

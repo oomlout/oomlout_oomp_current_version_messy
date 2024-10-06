@@ -1,3 +1,187 @@
+bip_39_word_new_br1: hobby
+bip_39_word_new_br10: hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow
+bip_39_word_new_br11: hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow<br>elbow
+bip_39_word_new_br12: hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet<br>elbow<br>elbow<br>arena
+bip_39_word_new_br2: hobby<br>wisdom
+bip_39_word_new_br3: hobby<br>wisdom<br>tissue
+bip_39_word_new_br4: hobby<br>wisdom<br>tissue<br>sausage
+bip_39_word_new_br5: hobby<br>wisdom<br>tissue<br>sausage<br>metal
+bip_39_word_new_br6: hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script
+bip_39_word_new_br7: hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute
+bip_39_word_new_br8: hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor
+bip_39_word_new_br9: hobby<br>wisdom<br>tissue<br>sausage<br>metal<br>script<br>salute<br>bachelor<br>diet
+bip_39_word_new_line1: hobby
+bip_39_word_new_line10: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage
+
+  metal
+
+  script
+
+  salute
+
+  bachelor
+
+  diet
+
+  elbow'
+bip_39_word_new_line11: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage
+
+  metal
+
+  script
+
+  salute
+
+  bachelor
+
+  diet
+
+  elbow
+
+  elbow'
+bip_39_word_new_line12: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage
+
+  metal
+
+  script
+
+  salute
+
+  bachelor
+
+  diet
+
+  elbow
+
+  elbow
+
+  arena'
+bip_39_word_new_line2: 'hobby
+
+  wisdom'
+bip_39_word_new_line3: 'hobby
+
+  wisdom
+
+  tissue'
+bip_39_word_new_line4: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage'
+bip_39_word_new_line5: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage
+
+  metal'
+bip_39_word_new_line6: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage
+
+  metal
+
+  script'
+bip_39_word_new_line7: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage
+
+  metal
+
+  script
+
+  salute'
+bip_39_word_new_line8: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage
+
+  metal
+
+  script
+
+  salute
+
+  bachelor'
+bip_39_word_new_line9: 'hobby
+
+  wisdom
+
+  tissue
+
+  sausage
+
+  metal
+
+  script
+
+  salute
+
+  bachelor
+
+  diet'
+bip_39_word_space_0:
+- hobby
+- wisdom
+- tissue
+- sausage
+- metal
+- script
+- salute
+- bachelor
+- diet
+- elbow
+- elbow
+- arena
+bip_39_word_space_1: hobby
+bip_39_word_space_10: hobby wisdom tissue sausage metal script salute bachelor diet
+  elbow
+bip_39_word_space_11: hobby wisdom tissue sausage metal script salute bachelor diet
+  elbow elbow
+bip_39_word_space_12: hobby wisdom tissue sausage metal script salute bachelor diet
+  elbow elbow arena
+bip_39_word_space_2: hobby wisdom
+bip_39_word_space_3: hobby wisdom tissue
+bip_39_word_space_4: hobby wisdom tissue sausage
+bip_39_word_space_5: hobby wisdom tissue sausage metal
+bip_39_word_space_6: hobby wisdom tissue sausage metal script
+bip_39_word_space_7: hobby wisdom tissue sausage metal script salute
+bip_39_word_space_8: hobby wisdom tissue sausage metal script salute bachelor
+bip_39_word_space_9: hobby wisdom tissue sausage metal script salute bachelor diet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

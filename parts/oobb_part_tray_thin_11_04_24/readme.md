@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: box pride
+  * bip 39 word 3: box pride carpet
+  * bip 39 word: box pride carpet oil crumble front album rifle gospel wing toddler ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | box |  
+| bip_39_word_new_br10 | box<br>pride<br>carpet<br>oil<br>crumble<br>front<br>album<br>rifle<br>gospel<br>wing |  
+| bip_39_word_new_br11 | box<br>pride<br>carpet<br>oil<br>crumble<br>front<br>album<br>rifle<br>gospel<br>wing<br>toddler |  
+| bip_39_word_new_br12 | box<br>pride<br>carpet<br>oil<br>crumble<br>front<br>album<br>rifle<br>gospel<br>wing<br>toddler<br>ability |  
+| bip_39_word_new_br2 | box<br>pride |  
+| bip_39_word_new_br3 | box<br>pride<br>carpet |  
+| bip_39_word_new_br4 | box<br>pride<br>carpet<br>oil |  
+| bip_39_word_new_br5 | box<br>pride<br>carpet<br>oil<br>crumble |  
+| bip_39_word_new_br6 | box<br>pride<br>carpet<br>oil<br>crumble<br>front |  
+| bip_39_word_new_br7 | box<br>pride<br>carpet<br>oil<br>crumble<br>front<br>album |  
+| bip_39_word_new_br8 | box<br>pride<br>carpet<br>oil<br>crumble<br>front<br>album<br>rifle |  
+| bip_39_word_new_br9 | box<br>pride<br>carpet<br>oil<br>crumble<br>front<br>album<br>rifle<br>gospel |  
+| bip_39_word_new_line1 | box |  
+| bip_39_word_new_line10 | box
+pride
+carpet
+oil
+crumble
+front
+album
+rifle
+gospel
+wing |  
+| bip_39_word_new_line11 | box
+pride
+carpet
+oil
+crumble
+front
+album
+rifle
+gospel
+wing
+toddler |  
+| bip_39_word_new_line12 | box
+pride
+carpet
+oil
+crumble
+front
+album
+rifle
+gospel
+wing
+toddler
+ability |  
+| bip_39_word_new_line2 | box
+pride |  
+| bip_39_word_new_line3 | box
+pride
+carpet |  
+| bip_39_word_new_line4 | box
+pride
+carpet
+oil |  
+| bip_39_word_new_line5 | box
+pride
+carpet
+oil
+crumble |  
+| bip_39_word_new_line6 | box
+pride
+carpet
+oil
+crumble
+front |  
+| bip_39_word_new_line7 | box
+pride
+carpet
+oil
+crumble
+front
+album |  
+| bip_39_word_new_line8 | box
+pride
+carpet
+oil
+crumble
+front
+album
+rifle |  
+| bip_39_word_new_line9 | box
+pride
+carpet
+oil
+crumble
+front
+album
+rifle
+gospel |  
+| bip_39_word_space_0 | ['box', 'pride', 'carpet', 'oil', 'crumble', 'front', 'album', 'rifle', 'gospel', 'wing', 'toddler', 'ability'] |  
+| bip_39_word_space_1 | box |  
+| bip_39_word_space_10 | box pride carpet oil crumble front album rifle gospel wing |  
+| bip_39_word_space_11 | box pride carpet oil crumble front album rifle gospel wing toddler |  
+| bip_39_word_space_12 | box pride carpet oil crumble front album rifle gospel wing toddler ability |  
+| bip_39_word_space_2 | box pride |  
+| bip_39_word_space_3 | box pride carpet |  
+| bip_39_word_space_4 | box pride carpet oil |  
+| bip_39_word_space_5 | box pride carpet oil crumble |  
+| bip_39_word_space_6 | box pride carpet oil crumble front |  
+| bip_39_word_space_7 | box pride carpet oil crumble front album |  
+| bip_39_word_space_8 | box pride carpet oil crumble front album rifle |  
+| bip_39_word_space_9 | box pride carpet oil crumble front album rifle gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

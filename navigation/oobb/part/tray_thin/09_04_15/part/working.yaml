@@ -1,3 +1,186 @@
+bip_39_word_new_br1: impulse
+bip_39_word_new_br10: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk<br>learn
+bip_39_word_new_br11: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk<br>learn<br>match
+bip_39_word_new_br12: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk<br>learn<br>match<br>apology
+bip_39_word_new_br2: impulse<br>eye
+bip_39_word_new_br3: impulse<br>eye<br>dream
+bip_39_word_new_br4: impulse<br>eye<br>dream<br>shuffle
+bip_39_word_new_br5: impulse<br>eye<br>dream<br>shuffle<br>hurry
+bip_39_word_new_br6: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness
+bip_39_word_new_br7: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic
+bip_39_word_new_br8: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school
+bip_39_word_new_br9: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk
+bip_39_word_new_line1: impulse
+bip_39_word_new_line10: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school
+
+  walk
+
+  learn'
+bip_39_word_new_line11: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school
+
+  walk
+
+  learn
+
+  match'
+bip_39_word_new_line12: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school
+
+  walk
+
+  learn
+
+  match
+
+  apology'
+bip_39_word_new_line2: 'impulse
+
+  eye'
+bip_39_word_new_line3: 'impulse
+
+  eye
+
+  dream'
+bip_39_word_new_line4: 'impulse
+
+  eye
+
+  dream
+
+  shuffle'
+bip_39_word_new_line5: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry'
+bip_39_word_new_line6: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness'
+bip_39_word_new_line7: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic'
+bip_39_word_new_line8: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school'
+bip_39_word_new_line9: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school
+
+  walk'
+bip_39_word_space_0:
+- impulse
+- eye
+- dream
+- shuffle
+- hurry
+- illness
+- comic
+- school
+- walk
+- learn
+- match
+- apology
+bip_39_word_space_1: impulse
+bip_39_word_space_10: impulse eye dream shuffle hurry illness comic school walk learn
+bip_39_word_space_11: impulse eye dream shuffle hurry illness comic school walk learn
+  match
+bip_39_word_space_12: impulse eye dream shuffle hurry illness comic school walk learn
+  match apology
+bip_39_word_space_2: impulse eye
+bip_39_word_space_3: impulse eye dream
+bip_39_word_space_4: impulse eye dream shuffle
+bip_39_word_space_5: impulse eye dream shuffle hurry
+bip_39_word_space_6: impulse eye dream shuffle hurry illness
+bip_39_word_space_7: impulse eye dream shuffle hurry illness comic
+bip_39_word_space_8: impulse eye dream shuffle hurry illness comic school
+bip_39_word_space_9: impulse eye dream shuffle hurry illness comic school walk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

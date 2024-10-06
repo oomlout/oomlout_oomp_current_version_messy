@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: they gloom
+  * bip 39 word 3: they gloom bulb
+  * bip 39 word: they gloom bulb reject stomach december veteran olympic paddle twenty absurd alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | they |  
+| bip_39_word_new_br10 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december<br>veteran<br>olympic<br>paddle<br>twenty |  
+| bip_39_word_new_br11 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december<br>veteran<br>olympic<br>paddle<br>twenty<br>absurd |  
+| bip_39_word_new_br12 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december<br>veteran<br>olympic<br>paddle<br>twenty<br>absurd<br>alley |  
+| bip_39_word_new_br2 | they<br>gloom |  
+| bip_39_word_new_br3 | they<br>gloom<br>bulb |  
+| bip_39_word_new_br4 | they<br>gloom<br>bulb<br>reject |  
+| bip_39_word_new_br5 | they<br>gloom<br>bulb<br>reject<br>stomach |  
+| bip_39_word_new_br6 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december |  
+| bip_39_word_new_br7 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december<br>veteran |  
+| bip_39_word_new_br8 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december<br>veteran<br>olympic |  
+| bip_39_word_new_br9 | they<br>gloom<br>bulb<br>reject<br>stomach<br>december<br>veteran<br>olympic<br>paddle |  
+| bip_39_word_new_line1 | they |  
+| bip_39_word_new_line10 | they
+gloom
+bulb
+reject
+stomach
+december
+veteran
+olympic
+paddle
+twenty |  
+| bip_39_word_new_line11 | they
+gloom
+bulb
+reject
+stomach
+december
+veteran
+olympic
+paddle
+twenty
+absurd |  
+| bip_39_word_new_line12 | they
+gloom
+bulb
+reject
+stomach
+december
+veteran
+olympic
+paddle
+twenty
+absurd
+alley |  
+| bip_39_word_new_line2 | they
+gloom |  
+| bip_39_word_new_line3 | they
+gloom
+bulb |  
+| bip_39_word_new_line4 | they
+gloom
+bulb
+reject |  
+| bip_39_word_new_line5 | they
+gloom
+bulb
+reject
+stomach |  
+| bip_39_word_new_line6 | they
+gloom
+bulb
+reject
+stomach
+december |  
+| bip_39_word_new_line7 | they
+gloom
+bulb
+reject
+stomach
+december
+veteran |  
+| bip_39_word_new_line8 | they
+gloom
+bulb
+reject
+stomach
+december
+veteran
+olympic |  
+| bip_39_word_new_line9 | they
+gloom
+bulb
+reject
+stomach
+december
+veteran
+olympic
+paddle |  
+| bip_39_word_space_0 | ['they', 'gloom', 'bulb', 'reject', 'stomach', 'december', 'veteran', 'olympic', 'paddle', 'twenty', 'absurd', 'alley'] |  
+| bip_39_word_space_1 | they |  
+| bip_39_word_space_10 | they gloom bulb reject stomach december veteran olympic paddle twenty |  
+| bip_39_word_space_11 | they gloom bulb reject stomach december veteran olympic paddle twenty absurd |  
+| bip_39_word_space_12 | they gloom bulb reject stomach december veteran olympic paddle twenty absurd alley |  
+| bip_39_word_space_2 | they gloom |  
+| bip_39_word_space_3 | they gloom bulb |  
+| bip_39_word_space_4 | they gloom bulb reject |  
+| bip_39_word_space_5 | they gloom bulb reject stomach |  
+| bip_39_word_space_6 | they gloom bulb reject stomach december |  
+| bip_39_word_space_7 | they gloom bulb reject stomach december veteran |  
+| bip_39_word_space_8 | they gloom bulb reject stomach december veteran olympic |  
+| bip_39_word_space_9 | they gloom bulb reject stomach december veteran olympic paddle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

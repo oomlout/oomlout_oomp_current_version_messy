@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: adjust logic
+  * bip 39 word 3: adjust logic select
+  * bip 39 word: adjust logic select hollow dune august artwork step movie keen athlete amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | adjust |  
+| bip_39_word_new_br10 | adjust<br>logic<br>select<br>hollow<br>dune<br>august<br>artwork<br>step<br>movie<br>keen |  
+| bip_39_word_new_br11 | adjust<br>logic<br>select<br>hollow<br>dune<br>august<br>artwork<br>step<br>movie<br>keen<br>athlete |  
+| bip_39_word_new_br12 | adjust<br>logic<br>select<br>hollow<br>dune<br>august<br>artwork<br>step<br>movie<br>keen<br>athlete<br>amused |  
+| bip_39_word_new_br2 | adjust<br>logic |  
+| bip_39_word_new_br3 | adjust<br>logic<br>select |  
+| bip_39_word_new_br4 | adjust<br>logic<br>select<br>hollow |  
+| bip_39_word_new_br5 | adjust<br>logic<br>select<br>hollow<br>dune |  
+| bip_39_word_new_br6 | adjust<br>logic<br>select<br>hollow<br>dune<br>august |  
+| bip_39_word_new_br7 | adjust<br>logic<br>select<br>hollow<br>dune<br>august<br>artwork |  
+| bip_39_word_new_br8 | adjust<br>logic<br>select<br>hollow<br>dune<br>august<br>artwork<br>step |  
+| bip_39_word_new_br9 | adjust<br>logic<br>select<br>hollow<br>dune<br>august<br>artwork<br>step<br>movie |  
+| bip_39_word_new_line1 | adjust |  
+| bip_39_word_new_line10 | adjust
+logic
+select
+hollow
+dune
+august
+artwork
+step
+movie
+keen |  
+| bip_39_word_new_line11 | adjust
+logic
+select
+hollow
+dune
+august
+artwork
+step
+movie
+keen
+athlete |  
+| bip_39_word_new_line12 | adjust
+logic
+select
+hollow
+dune
+august
+artwork
+step
+movie
+keen
+athlete
+amused |  
+| bip_39_word_new_line2 | adjust
+logic |  
+| bip_39_word_new_line3 | adjust
+logic
+select |  
+| bip_39_word_new_line4 | adjust
+logic
+select
+hollow |  
+| bip_39_word_new_line5 | adjust
+logic
+select
+hollow
+dune |  
+| bip_39_word_new_line6 | adjust
+logic
+select
+hollow
+dune
+august |  
+| bip_39_word_new_line7 | adjust
+logic
+select
+hollow
+dune
+august
+artwork |  
+| bip_39_word_new_line8 | adjust
+logic
+select
+hollow
+dune
+august
+artwork
+step |  
+| bip_39_word_new_line9 | adjust
+logic
+select
+hollow
+dune
+august
+artwork
+step
+movie |  
+| bip_39_word_space_0 | ['adjust', 'logic', 'select', 'hollow', 'dune', 'august', 'artwork', 'step', 'movie', 'keen', 'athlete', 'amused'] |  
+| bip_39_word_space_1 | adjust |  
+| bip_39_word_space_10 | adjust logic select hollow dune august artwork step movie keen |  
+| bip_39_word_space_11 | adjust logic select hollow dune august artwork step movie keen athlete |  
+| bip_39_word_space_12 | adjust logic select hollow dune august artwork step movie keen athlete amused |  
+| bip_39_word_space_2 | adjust logic |  
+| bip_39_word_space_3 | adjust logic select |  
+| bip_39_word_space_4 | adjust logic select hollow |  
+| bip_39_word_space_5 | adjust logic select hollow dune |  
+| bip_39_word_space_6 | adjust logic select hollow dune august |  
+| bip_39_word_space_7 | adjust logic select hollow dune august artwork |  
+| bip_39_word_space_8 | adjust logic select hollow dune august artwork step |  
+| bip_39_word_space_9 | adjust logic select hollow dune august artwork step movie |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

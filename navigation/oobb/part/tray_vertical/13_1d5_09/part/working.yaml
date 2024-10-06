@@ -1,3 +1,187 @@
+bip_39_word_new_br1: trigger
+bip_39_word_new_br10: trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle
+bip_39_word_new_br11: trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle<br>ceiling
+bip_39_word_new_br12: trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy<br>struggle<br>ceiling<br>appear
+bip_39_word_new_br2: trigger<br>flight
+bip_39_word_new_br3: trigger<br>flight<br>slice
+bip_39_word_new_br4: trigger<br>flight<br>slice<br>property
+bip_39_word_new_br5: trigger<br>flight<br>slice<br>property<br>vanish
+bip_39_word_new_br6: trigger<br>flight<br>slice<br>property<br>vanish<br>vanish
+bip_39_word_new_br7: trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media
+bip_39_word_new_br8: trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur
+bip_39_word_new_br9: trigger<br>flight<br>slice<br>property<br>vanish<br>vanish<br>media<br>amateur<br>heavy
+bip_39_word_new_line1: trigger
+bip_39_word_new_line10: 'trigger
+
+  flight
+
+  slice
+
+  property
+
+  vanish
+
+  vanish
+
+  media
+
+  amateur
+
+  heavy
+
+  struggle'
+bip_39_word_new_line11: 'trigger
+
+  flight
+
+  slice
+
+  property
+
+  vanish
+
+  vanish
+
+  media
+
+  amateur
+
+  heavy
+
+  struggle
+
+  ceiling'
+bip_39_word_new_line12: 'trigger
+
+  flight
+
+  slice
+
+  property
+
+  vanish
+
+  vanish
+
+  media
+
+  amateur
+
+  heavy
+
+  struggle
+
+  ceiling
+
+  appear'
+bip_39_word_new_line2: 'trigger
+
+  flight'
+bip_39_word_new_line3: 'trigger
+
+  flight
+
+  slice'
+bip_39_word_new_line4: 'trigger
+
+  flight
+
+  slice
+
+  property'
+bip_39_word_new_line5: 'trigger
+
+  flight
+
+  slice
+
+  property
+
+  vanish'
+bip_39_word_new_line6: 'trigger
+
+  flight
+
+  slice
+
+  property
+
+  vanish
+
+  vanish'
+bip_39_word_new_line7: 'trigger
+
+  flight
+
+  slice
+
+  property
+
+  vanish
+
+  vanish
+
+  media'
+bip_39_word_new_line8: 'trigger
+
+  flight
+
+  slice
+
+  property
+
+  vanish
+
+  vanish
+
+  media
+
+  amateur'
+bip_39_word_new_line9: 'trigger
+
+  flight
+
+  slice
+
+  property
+
+  vanish
+
+  vanish
+
+  media
+
+  amateur
+
+  heavy'
+bip_39_word_space_0:
+- trigger
+- flight
+- slice
+- property
+- vanish
+- vanish
+- media
+- amateur
+- heavy
+- struggle
+- ceiling
+- appear
+bip_39_word_space_1: trigger
+bip_39_word_space_10: trigger flight slice property vanish vanish media amateur heavy
+  struggle
+bip_39_word_space_11: trigger flight slice property vanish vanish media amateur heavy
+  struggle ceiling
+bip_39_word_space_12: trigger flight slice property vanish vanish media amateur heavy
+  struggle ceiling appear
+bip_39_word_space_2: trigger flight
+bip_39_word_space_3: trigger flight slice
+bip_39_word_space_4: trigger flight slice property
+bip_39_word_space_5: trigger flight slice property vanish
+bip_39_word_space_6: trigger flight slice property vanish vanish
+bip_39_word_space_7: trigger flight slice property vanish vanish media
+bip_39_word_space_8: trigger flight slice property vanish vanish media amateur
+bip_39_word_space_9: trigger flight slice property vanish vanish media amateur heavy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

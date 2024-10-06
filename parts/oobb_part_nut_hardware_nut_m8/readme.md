@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crisp modify
+  * bip 39 word 3: crisp modify place
+  * bip 39 word: crisp modify place tape merry annual three edge leg immune sort alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crisp |  
+| bip_39_word_new_br10 | crisp<br>modify<br>place<br>tape<br>merry<br>annual<br>three<br>edge<br>leg<br>immune |  
+| bip_39_word_new_br11 | crisp<br>modify<br>place<br>tape<br>merry<br>annual<br>three<br>edge<br>leg<br>immune<br>sort |  
+| bip_39_word_new_br12 | crisp<br>modify<br>place<br>tape<br>merry<br>annual<br>three<br>edge<br>leg<br>immune<br>sort<br>alarm |  
+| bip_39_word_new_br2 | crisp<br>modify |  
+| bip_39_word_new_br3 | crisp<br>modify<br>place |  
+| bip_39_word_new_br4 | crisp<br>modify<br>place<br>tape |  
+| bip_39_word_new_br5 | crisp<br>modify<br>place<br>tape<br>merry |  
+| bip_39_word_new_br6 | crisp<br>modify<br>place<br>tape<br>merry<br>annual |  
+| bip_39_word_new_br7 | crisp<br>modify<br>place<br>tape<br>merry<br>annual<br>three |  
+| bip_39_word_new_br8 | crisp<br>modify<br>place<br>tape<br>merry<br>annual<br>three<br>edge |  
+| bip_39_word_new_br9 | crisp<br>modify<br>place<br>tape<br>merry<br>annual<br>three<br>edge<br>leg |  
+| bip_39_word_new_line1 | crisp |  
+| bip_39_word_new_line10 | crisp
+modify
+place
+tape
+merry
+annual
+three
+edge
+leg
+immune |  
+| bip_39_word_new_line11 | crisp
+modify
+place
+tape
+merry
+annual
+three
+edge
+leg
+immune
+sort |  
+| bip_39_word_new_line12 | crisp
+modify
+place
+tape
+merry
+annual
+three
+edge
+leg
+immune
+sort
+alarm |  
+| bip_39_word_new_line2 | crisp
+modify |  
+| bip_39_word_new_line3 | crisp
+modify
+place |  
+| bip_39_word_new_line4 | crisp
+modify
+place
+tape |  
+| bip_39_word_new_line5 | crisp
+modify
+place
+tape
+merry |  
+| bip_39_word_new_line6 | crisp
+modify
+place
+tape
+merry
+annual |  
+| bip_39_word_new_line7 | crisp
+modify
+place
+tape
+merry
+annual
+three |  
+| bip_39_word_new_line8 | crisp
+modify
+place
+tape
+merry
+annual
+three
+edge |  
+| bip_39_word_new_line9 | crisp
+modify
+place
+tape
+merry
+annual
+three
+edge
+leg |  
+| bip_39_word_space_0 | ['crisp', 'modify', 'place', 'tape', 'merry', 'annual', 'three', 'edge', 'leg', 'immune', 'sort', 'alarm'] |  
+| bip_39_word_space_1 | crisp |  
+| bip_39_word_space_10 | crisp modify place tape merry annual three edge leg immune |  
+| bip_39_word_space_11 | crisp modify place tape merry annual three edge leg immune sort |  
+| bip_39_word_space_12 | crisp modify place tape merry annual three edge leg immune sort alarm |  
+| bip_39_word_space_2 | crisp modify |  
+| bip_39_word_space_3 | crisp modify place |  
+| bip_39_word_space_4 | crisp modify place tape |  
+| bip_39_word_space_5 | crisp modify place tape merry |  
+| bip_39_word_space_6 | crisp modify place tape merry annual |  
+| bip_39_word_space_7 | crisp modify place tape merry annual three |  
+| bip_39_word_space_8 | crisp modify place tape merry annual three edge |  
+| bip_39_word_space_9 | crisp modify place tape merry annual three edge leg |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

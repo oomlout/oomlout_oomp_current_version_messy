@@ -1,3 +1,187 @@
+bip_39_word_new_br1: cushion
+bip_39_word_new_br10: cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat<br>hello<br>involve<br>swap<br>witness
+bip_39_word_new_br11: cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat<br>hello<br>involve<br>swap<br>witness<br>nurse
+bip_39_word_new_br12: cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat<br>hello<br>involve<br>swap<br>witness<br>nurse<br>apple
+bip_39_word_new_br2: cushion<br>mistake
+bip_39_word_new_br3: cushion<br>mistake<br>endorse
+bip_39_word_new_br4: cushion<br>mistake<br>endorse<br>sense
+bip_39_word_new_br5: cushion<br>mistake<br>endorse<br>sense<br>spend
+bip_39_word_new_br6: cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat
+bip_39_word_new_br7: cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat<br>hello
+bip_39_word_new_br8: cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat<br>hello<br>involve
+bip_39_word_new_br9: cushion<br>mistake<br>endorse<br>sense<br>spend<br>seat<br>hello<br>involve<br>swap
+bip_39_word_new_line1: cushion
+bip_39_word_new_line10: 'cushion
+
+  mistake
+
+  endorse
+
+  sense
+
+  spend
+
+  seat
+
+  hello
+
+  involve
+
+  swap
+
+  witness'
+bip_39_word_new_line11: 'cushion
+
+  mistake
+
+  endorse
+
+  sense
+
+  spend
+
+  seat
+
+  hello
+
+  involve
+
+  swap
+
+  witness
+
+  nurse'
+bip_39_word_new_line12: 'cushion
+
+  mistake
+
+  endorse
+
+  sense
+
+  spend
+
+  seat
+
+  hello
+
+  involve
+
+  swap
+
+  witness
+
+  nurse
+
+  apple'
+bip_39_word_new_line2: 'cushion
+
+  mistake'
+bip_39_word_new_line3: 'cushion
+
+  mistake
+
+  endorse'
+bip_39_word_new_line4: 'cushion
+
+  mistake
+
+  endorse
+
+  sense'
+bip_39_word_new_line5: 'cushion
+
+  mistake
+
+  endorse
+
+  sense
+
+  spend'
+bip_39_word_new_line6: 'cushion
+
+  mistake
+
+  endorse
+
+  sense
+
+  spend
+
+  seat'
+bip_39_word_new_line7: 'cushion
+
+  mistake
+
+  endorse
+
+  sense
+
+  spend
+
+  seat
+
+  hello'
+bip_39_word_new_line8: 'cushion
+
+  mistake
+
+  endorse
+
+  sense
+
+  spend
+
+  seat
+
+  hello
+
+  involve'
+bip_39_word_new_line9: 'cushion
+
+  mistake
+
+  endorse
+
+  sense
+
+  spend
+
+  seat
+
+  hello
+
+  involve
+
+  swap'
+bip_39_word_space_0:
+- cushion
+- mistake
+- endorse
+- sense
+- spend
+- seat
+- hello
+- involve
+- swap
+- witness
+- nurse
+- apple
+bip_39_word_space_1: cushion
+bip_39_word_space_10: cushion mistake endorse sense spend seat hello involve swap
+  witness
+bip_39_word_space_11: cushion mistake endorse sense spend seat hello involve swap
+  witness nurse
+bip_39_word_space_12: cushion mistake endorse sense spend seat hello involve swap
+  witness nurse apple
+bip_39_word_space_2: cushion mistake
+bip_39_word_space_3: cushion mistake endorse
+bip_39_word_space_4: cushion mistake endorse sense
+bip_39_word_space_5: cushion mistake endorse sense spend
+bip_39_word_space_6: cushion mistake endorse sense spend seat
+bip_39_word_space_7: cushion mistake endorse sense spend seat hello
+bip_39_word_space_8: cushion mistake endorse sense spend seat hello involve
+bip_39_word_space_9: cushion mistake endorse sense spend seat hello involve swap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

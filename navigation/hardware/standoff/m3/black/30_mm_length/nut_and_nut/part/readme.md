@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: middle fan
+  * bip 39 word 3: middle fan obscure
+  * bip 39 word: middle fan obscure talk issue topple crash town spare veteran zebra aisle
 
 ### other_codes
 * short_code: so3b30nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | middle |  
+| bip_39_word_new_br10 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran |  
+| bip_39_word_new_br11 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran<br>zebra |  
+| bip_39_word_new_br12 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare<br>veteran<br>zebra<br>aisle |  
+| bip_39_word_new_br2 | middle<br>fan |  
+| bip_39_word_new_br3 | middle<br>fan<br>obscure |  
+| bip_39_word_new_br4 | middle<br>fan<br>obscure<br>talk |  
+| bip_39_word_new_br5 | middle<br>fan<br>obscure<br>talk<br>issue |  
+| bip_39_word_new_br6 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple |  
+| bip_39_word_new_br7 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash |  
+| bip_39_word_new_br8 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town |  
+| bip_39_word_new_br9 | middle<br>fan<br>obscure<br>talk<br>issue<br>topple<br>crash<br>town<br>spare |  
+| bip_39_word_new_line1 | middle |  
+| bip_39_word_new_line10 | middle
+fan
+obscure
+talk
+issue
+topple
+crash
+town
+spare
+veteran |  
+| bip_39_word_new_line11 | middle
+fan
+obscure
+talk
+issue
+topple
+crash
+town
+spare
+veteran
+zebra |  
+| bip_39_word_new_line12 | middle
+fan
+obscure
+talk
+issue
+topple
+crash
+town
+spare
+veteran
+zebra
+aisle |  
+| bip_39_word_new_line2 | middle
+fan |  
+| bip_39_word_new_line3 | middle
+fan
+obscure |  
+| bip_39_word_new_line4 | middle
+fan
+obscure
+talk |  
+| bip_39_word_new_line5 | middle
+fan
+obscure
+talk
+issue |  
+| bip_39_word_new_line6 | middle
+fan
+obscure
+talk
+issue
+topple |  
+| bip_39_word_new_line7 | middle
+fan
+obscure
+talk
+issue
+topple
+crash |  
+| bip_39_word_new_line8 | middle
+fan
+obscure
+talk
+issue
+topple
+crash
+town |  
+| bip_39_word_new_line9 | middle
+fan
+obscure
+talk
+issue
+topple
+crash
+town
+spare |  
+| bip_39_word_space_0 | ['middle', 'fan', 'obscure', 'talk', 'issue', 'topple', 'crash', 'town', 'spare', 'veteran', 'zebra', 'aisle'] |  
+| bip_39_word_space_1 | middle |  
+| bip_39_word_space_10 | middle fan obscure talk issue topple crash town spare veteran |  
+| bip_39_word_space_11 | middle fan obscure talk issue topple crash town spare veteran zebra |  
+| bip_39_word_space_12 | middle fan obscure talk issue topple crash town spare veteran zebra aisle |  
+| bip_39_word_space_2 | middle fan |  
+| bip_39_word_space_3 | middle fan obscure |  
+| bip_39_word_space_4 | middle fan obscure talk |  
+| bip_39_word_space_5 | middle fan obscure talk issue |  
+| bip_39_word_space_6 | middle fan obscure talk issue topple |  
+| bip_39_word_space_7 | middle fan obscure talk issue topple crash |  
+| bip_39_word_space_8 | middle fan obscure talk issue topple crash town |  
+| bip_39_word_space_9 | middle fan obscure talk issue topple crash town spare |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

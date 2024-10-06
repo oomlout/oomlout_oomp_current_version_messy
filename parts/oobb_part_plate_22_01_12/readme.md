@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: okay ozone
+  * bip 39 word 3: okay ozone skirt
+  * bip 39 word: okay ozone skirt tennis finish great hundred afraid gospel champion ugly arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | okay |  
+| bip_39_word_new_br10 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion |  
+| bip_39_word_new_br11 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion<br>ugly |  
+| bip_39_word_new_br12 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel<br>champion<br>ugly<br>arm |  
+| bip_39_word_new_br2 | okay<br>ozone |  
+| bip_39_word_new_br3 | okay<br>ozone<br>skirt |  
+| bip_39_word_new_br4 | okay<br>ozone<br>skirt<br>tennis |  
+| bip_39_word_new_br5 | okay<br>ozone<br>skirt<br>tennis<br>finish |  
+| bip_39_word_new_br6 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great |  
+| bip_39_word_new_br7 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred |  
+| bip_39_word_new_br8 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid |  
+| bip_39_word_new_br9 | okay<br>ozone<br>skirt<br>tennis<br>finish<br>great<br>hundred<br>afraid<br>gospel |  
+| bip_39_word_new_line1 | okay |  
+| bip_39_word_new_line10 | okay
+ozone
+skirt
+tennis
+finish
+great
+hundred
+afraid
+gospel
+champion |  
+| bip_39_word_new_line11 | okay
+ozone
+skirt
+tennis
+finish
+great
+hundred
+afraid
+gospel
+champion
+ugly |  
+| bip_39_word_new_line12 | okay
+ozone
+skirt
+tennis
+finish
+great
+hundred
+afraid
+gospel
+champion
+ugly
+arm |  
+| bip_39_word_new_line2 | okay
+ozone |  
+| bip_39_word_new_line3 | okay
+ozone
+skirt |  
+| bip_39_word_new_line4 | okay
+ozone
+skirt
+tennis |  
+| bip_39_word_new_line5 | okay
+ozone
+skirt
+tennis
+finish |  
+| bip_39_word_new_line6 | okay
+ozone
+skirt
+tennis
+finish
+great |  
+| bip_39_word_new_line7 | okay
+ozone
+skirt
+tennis
+finish
+great
+hundred |  
+| bip_39_word_new_line8 | okay
+ozone
+skirt
+tennis
+finish
+great
+hundred
+afraid |  
+| bip_39_word_new_line9 | okay
+ozone
+skirt
+tennis
+finish
+great
+hundred
+afraid
+gospel |  
+| bip_39_word_space_0 | ['okay', 'ozone', 'skirt', 'tennis', 'finish', 'great', 'hundred', 'afraid', 'gospel', 'champion', 'ugly', 'arm'] |  
+| bip_39_word_space_1 | okay |  
+| bip_39_word_space_10 | okay ozone skirt tennis finish great hundred afraid gospel champion |  
+| bip_39_word_space_11 | okay ozone skirt tennis finish great hundred afraid gospel champion ugly |  
+| bip_39_word_space_12 | okay ozone skirt tennis finish great hundred afraid gospel champion ugly arm |  
+| bip_39_word_space_2 | okay ozone |  
+| bip_39_word_space_3 | okay ozone skirt |  
+| bip_39_word_space_4 | okay ozone skirt tennis |  
+| bip_39_word_space_5 | okay ozone skirt tennis finish |  
+| bip_39_word_space_6 | okay ozone skirt tennis finish great |  
+| bip_39_word_space_7 | okay ozone skirt tennis finish great hundred |  
+| bip_39_word_space_8 | okay ozone skirt tennis finish great hundred afraid |  
+| bip_39_word_space_9 | okay ozone skirt tennis finish great hundred afraid gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

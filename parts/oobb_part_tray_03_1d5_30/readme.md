@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: powder release
+  * bip 39 word 3: powder release license
+  * bip 39 word: powder release license excess mother into equal trap fade burger horror apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | powder |  
+| bip_39_word_new_br10 | powder<br>release<br>license<br>excess<br>mother<br>into<br>equal<br>trap<br>fade<br>burger |  
+| bip_39_word_new_br11 | powder<br>release<br>license<br>excess<br>mother<br>into<br>equal<br>trap<br>fade<br>burger<br>horror |  
+| bip_39_word_new_br12 | powder<br>release<br>license<br>excess<br>mother<br>into<br>equal<br>trap<br>fade<br>burger<br>horror<br>apart |  
+| bip_39_word_new_br2 | powder<br>release |  
+| bip_39_word_new_br3 | powder<br>release<br>license |  
+| bip_39_word_new_br4 | powder<br>release<br>license<br>excess |  
+| bip_39_word_new_br5 | powder<br>release<br>license<br>excess<br>mother |  
+| bip_39_word_new_br6 | powder<br>release<br>license<br>excess<br>mother<br>into |  
+| bip_39_word_new_br7 | powder<br>release<br>license<br>excess<br>mother<br>into<br>equal |  
+| bip_39_word_new_br8 | powder<br>release<br>license<br>excess<br>mother<br>into<br>equal<br>trap |  
+| bip_39_word_new_br9 | powder<br>release<br>license<br>excess<br>mother<br>into<br>equal<br>trap<br>fade |  
+| bip_39_word_new_line1 | powder |  
+| bip_39_word_new_line10 | powder
+release
+license
+excess
+mother
+into
+equal
+trap
+fade
+burger |  
+| bip_39_word_new_line11 | powder
+release
+license
+excess
+mother
+into
+equal
+trap
+fade
+burger
+horror |  
+| bip_39_word_new_line12 | powder
+release
+license
+excess
+mother
+into
+equal
+trap
+fade
+burger
+horror
+apart |  
+| bip_39_word_new_line2 | powder
+release |  
+| bip_39_word_new_line3 | powder
+release
+license |  
+| bip_39_word_new_line4 | powder
+release
+license
+excess |  
+| bip_39_word_new_line5 | powder
+release
+license
+excess
+mother |  
+| bip_39_word_new_line6 | powder
+release
+license
+excess
+mother
+into |  
+| bip_39_word_new_line7 | powder
+release
+license
+excess
+mother
+into
+equal |  
+| bip_39_word_new_line8 | powder
+release
+license
+excess
+mother
+into
+equal
+trap |  
+| bip_39_word_new_line9 | powder
+release
+license
+excess
+mother
+into
+equal
+trap
+fade |  
+| bip_39_word_space_0 | ['powder', 'release', 'license', 'excess', 'mother', 'into', 'equal', 'trap', 'fade', 'burger', 'horror', 'apart'] |  
+| bip_39_word_space_1 | powder |  
+| bip_39_word_space_10 | powder release license excess mother into equal trap fade burger |  
+| bip_39_word_space_11 | powder release license excess mother into equal trap fade burger horror |  
+| bip_39_word_space_12 | powder release license excess mother into equal trap fade burger horror apart |  
+| bip_39_word_space_2 | powder release |  
+| bip_39_word_space_3 | powder release license |  
+| bip_39_word_space_4 | powder release license excess |  
+| bip_39_word_space_5 | powder release license excess mother |  
+| bip_39_word_space_6 | powder release license excess mother into |  
+| bip_39_word_space_7 | powder release license excess mother into equal |  
+| bip_39_word_space_8 | powder release license excess mother into equal trap |  
+| bip_39_word_space_9 | powder release license excess mother into equal trap fade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

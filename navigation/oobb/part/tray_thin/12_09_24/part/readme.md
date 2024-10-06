@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tissue normal
+  * bip 39 word 3: tissue normal depart
+  * bip 39 word: tissue normal depart ridge month hole divert gallery tray mountain peanut angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tissue |  
+| bip_39_word_new_br10 | tissue<br>normal<br>depart<br>ridge<br>month<br>hole<br>divert<br>gallery<br>tray<br>mountain |  
+| bip_39_word_new_br11 | tissue<br>normal<br>depart<br>ridge<br>month<br>hole<br>divert<br>gallery<br>tray<br>mountain<br>peanut |  
+| bip_39_word_new_br12 | tissue<br>normal<br>depart<br>ridge<br>month<br>hole<br>divert<br>gallery<br>tray<br>mountain<br>peanut<br>angle |  
+| bip_39_word_new_br2 | tissue<br>normal |  
+| bip_39_word_new_br3 | tissue<br>normal<br>depart |  
+| bip_39_word_new_br4 | tissue<br>normal<br>depart<br>ridge |  
+| bip_39_word_new_br5 | tissue<br>normal<br>depart<br>ridge<br>month |  
+| bip_39_word_new_br6 | tissue<br>normal<br>depart<br>ridge<br>month<br>hole |  
+| bip_39_word_new_br7 | tissue<br>normal<br>depart<br>ridge<br>month<br>hole<br>divert |  
+| bip_39_word_new_br8 | tissue<br>normal<br>depart<br>ridge<br>month<br>hole<br>divert<br>gallery |  
+| bip_39_word_new_br9 | tissue<br>normal<br>depart<br>ridge<br>month<br>hole<br>divert<br>gallery<br>tray |  
+| bip_39_word_new_line1 | tissue |  
+| bip_39_word_new_line10 | tissue
+normal
+depart
+ridge
+month
+hole
+divert
+gallery
+tray
+mountain |  
+| bip_39_word_new_line11 | tissue
+normal
+depart
+ridge
+month
+hole
+divert
+gallery
+tray
+mountain
+peanut |  
+| bip_39_word_new_line12 | tissue
+normal
+depart
+ridge
+month
+hole
+divert
+gallery
+tray
+mountain
+peanut
+angle |  
+| bip_39_word_new_line2 | tissue
+normal |  
+| bip_39_word_new_line3 | tissue
+normal
+depart |  
+| bip_39_word_new_line4 | tissue
+normal
+depart
+ridge |  
+| bip_39_word_new_line5 | tissue
+normal
+depart
+ridge
+month |  
+| bip_39_word_new_line6 | tissue
+normal
+depart
+ridge
+month
+hole |  
+| bip_39_word_new_line7 | tissue
+normal
+depart
+ridge
+month
+hole
+divert |  
+| bip_39_word_new_line8 | tissue
+normal
+depart
+ridge
+month
+hole
+divert
+gallery |  
+| bip_39_word_new_line9 | tissue
+normal
+depart
+ridge
+month
+hole
+divert
+gallery
+tray |  
+| bip_39_word_space_0 | ['tissue', 'normal', 'depart', 'ridge', 'month', 'hole', 'divert', 'gallery', 'tray', 'mountain', 'peanut', 'angle'] |  
+| bip_39_word_space_1 | tissue |  
+| bip_39_word_space_10 | tissue normal depart ridge month hole divert gallery tray mountain |  
+| bip_39_word_space_11 | tissue normal depart ridge month hole divert gallery tray mountain peanut |  
+| bip_39_word_space_12 | tissue normal depart ridge month hole divert gallery tray mountain peanut angle |  
+| bip_39_word_space_2 | tissue normal |  
+| bip_39_word_space_3 | tissue normal depart |  
+| bip_39_word_space_4 | tissue normal depart ridge |  
+| bip_39_word_space_5 | tissue normal depart ridge month |  
+| bip_39_word_space_6 | tissue normal depart ridge month hole |  
+| bip_39_word_space_7 | tissue normal depart ridge month hole divert |  
+| bip_39_word_space_8 | tissue normal depart ridge month hole divert gallery |  
+| bip_39_word_space_9 | tissue normal depart ridge month hole divert gallery tray |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

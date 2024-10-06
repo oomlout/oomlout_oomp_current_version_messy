@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: company music
+  * bip 39 word 3: company music detect
+  * bip 39 word: company music detect balcony problem clinic chimney grid jealous scrap dwarf among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | company |  
+| bip_39_word_new_br10 | company<br>music<br>detect<br>balcony<br>problem<br>clinic<br>chimney<br>grid<br>jealous<br>scrap |  
+| bip_39_word_new_br11 | company<br>music<br>detect<br>balcony<br>problem<br>clinic<br>chimney<br>grid<br>jealous<br>scrap<br>dwarf |  
+| bip_39_word_new_br12 | company<br>music<br>detect<br>balcony<br>problem<br>clinic<br>chimney<br>grid<br>jealous<br>scrap<br>dwarf<br>among |  
+| bip_39_word_new_br2 | company<br>music |  
+| bip_39_word_new_br3 | company<br>music<br>detect |  
+| bip_39_word_new_br4 | company<br>music<br>detect<br>balcony |  
+| bip_39_word_new_br5 | company<br>music<br>detect<br>balcony<br>problem |  
+| bip_39_word_new_br6 | company<br>music<br>detect<br>balcony<br>problem<br>clinic |  
+| bip_39_word_new_br7 | company<br>music<br>detect<br>balcony<br>problem<br>clinic<br>chimney |  
+| bip_39_word_new_br8 | company<br>music<br>detect<br>balcony<br>problem<br>clinic<br>chimney<br>grid |  
+| bip_39_word_new_br9 | company<br>music<br>detect<br>balcony<br>problem<br>clinic<br>chimney<br>grid<br>jealous |  
+| bip_39_word_new_line1 | company |  
+| bip_39_word_new_line10 | company
+music
+detect
+balcony
+problem
+clinic
+chimney
+grid
+jealous
+scrap |  
+| bip_39_word_new_line11 | company
+music
+detect
+balcony
+problem
+clinic
+chimney
+grid
+jealous
+scrap
+dwarf |  
+| bip_39_word_new_line12 | company
+music
+detect
+balcony
+problem
+clinic
+chimney
+grid
+jealous
+scrap
+dwarf
+among |  
+| bip_39_word_new_line2 | company
+music |  
+| bip_39_word_new_line3 | company
+music
+detect |  
+| bip_39_word_new_line4 | company
+music
+detect
+balcony |  
+| bip_39_word_new_line5 | company
+music
+detect
+balcony
+problem |  
+| bip_39_word_new_line6 | company
+music
+detect
+balcony
+problem
+clinic |  
+| bip_39_word_new_line7 | company
+music
+detect
+balcony
+problem
+clinic
+chimney |  
+| bip_39_word_new_line8 | company
+music
+detect
+balcony
+problem
+clinic
+chimney
+grid |  
+| bip_39_word_new_line9 | company
+music
+detect
+balcony
+problem
+clinic
+chimney
+grid
+jealous |  
+| bip_39_word_space_0 | ['company', 'music', 'detect', 'balcony', 'problem', 'clinic', 'chimney', 'grid', 'jealous', 'scrap', 'dwarf', 'among'] |  
+| bip_39_word_space_1 | company |  
+| bip_39_word_space_10 | company music detect balcony problem clinic chimney grid jealous scrap |  
+| bip_39_word_space_11 | company music detect balcony problem clinic chimney grid jealous scrap dwarf |  
+| bip_39_word_space_12 | company music detect balcony problem clinic chimney grid jealous scrap dwarf among |  
+| bip_39_word_space_2 | company music |  
+| bip_39_word_space_3 | company music detect |  
+| bip_39_word_space_4 | company music detect balcony |  
+| bip_39_word_space_5 | company music detect balcony problem |  
+| bip_39_word_space_6 | company music detect balcony problem clinic |  
+| bip_39_word_space_7 | company music detect balcony problem clinic chimney |  
+| bip_39_word_space_8 | company music detect balcony problem clinic chimney grid |  
+| bip_39_word_space_9 | company music detect balcony problem clinic chimney grid jealous |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

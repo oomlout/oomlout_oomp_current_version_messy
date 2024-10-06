@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: long scissors
+  * bip 39 word 3: long scissors floor
+  * bip 39 word: long scissors floor hill later code demise glory rotate base gate already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | long |  
+| bip_39_word_new_br10 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base |  
+| bip_39_word_new_br11 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base<br>gate |  
+| bip_39_word_new_br12 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate<br>base<br>gate<br>already |  
+| bip_39_word_new_br2 | long<br>scissors |  
+| bip_39_word_new_br3 | long<br>scissors<br>floor |  
+| bip_39_word_new_br4 | long<br>scissors<br>floor<br>hill |  
+| bip_39_word_new_br5 | long<br>scissors<br>floor<br>hill<br>later |  
+| bip_39_word_new_br6 | long<br>scissors<br>floor<br>hill<br>later<br>code |  
+| bip_39_word_new_br7 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise |  
+| bip_39_word_new_br8 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory |  
+| bip_39_word_new_br9 | long<br>scissors<br>floor<br>hill<br>later<br>code<br>demise<br>glory<br>rotate |  
+| bip_39_word_new_line1 | long |  
+| bip_39_word_new_line10 | long
+scissors
+floor
+hill
+later
+code
+demise
+glory
+rotate
+base |  
+| bip_39_word_new_line11 | long
+scissors
+floor
+hill
+later
+code
+demise
+glory
+rotate
+base
+gate |  
+| bip_39_word_new_line12 | long
+scissors
+floor
+hill
+later
+code
+demise
+glory
+rotate
+base
+gate
+already |  
+| bip_39_word_new_line2 | long
+scissors |  
+| bip_39_word_new_line3 | long
+scissors
+floor |  
+| bip_39_word_new_line4 | long
+scissors
+floor
+hill |  
+| bip_39_word_new_line5 | long
+scissors
+floor
+hill
+later |  
+| bip_39_word_new_line6 | long
+scissors
+floor
+hill
+later
+code |  
+| bip_39_word_new_line7 | long
+scissors
+floor
+hill
+later
+code
+demise |  
+| bip_39_word_new_line8 | long
+scissors
+floor
+hill
+later
+code
+demise
+glory |  
+| bip_39_word_new_line9 | long
+scissors
+floor
+hill
+later
+code
+demise
+glory
+rotate |  
+| bip_39_word_space_0 | ['long', 'scissors', 'floor', 'hill', 'later', 'code', 'demise', 'glory', 'rotate', 'base', 'gate', 'already'] |  
+| bip_39_word_space_1 | long |  
+| bip_39_word_space_10 | long scissors floor hill later code demise glory rotate base |  
+| bip_39_word_space_11 | long scissors floor hill later code demise glory rotate base gate |  
+| bip_39_word_space_12 | long scissors floor hill later code demise glory rotate base gate already |  
+| bip_39_word_space_2 | long scissors |  
+| bip_39_word_space_3 | long scissors floor |  
+| bip_39_word_space_4 | long scissors floor hill |  
+| bip_39_word_space_5 | long scissors floor hill later |  
+| bip_39_word_space_6 | long scissors floor hill later code |  
+| bip_39_word_space_7 | long scissors floor hill later code demise |  
+| bip_39_word_space_8 | long scissors floor hill later code demise glory |  
+| bip_39_word_space_9 | long scissors floor hill later code demise glory rotate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

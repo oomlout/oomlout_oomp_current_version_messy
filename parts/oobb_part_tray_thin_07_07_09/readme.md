@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glow game
+  * bip 39 word 3: glow game pitch
+  * bip 39 word: glow game pitch horse junk term general dad adult suggest eight afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glow |  
+| bip_39_word_new_br10 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest |  
+| bip_39_word_new_br11 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest<br>eight |  
+| bip_39_word_new_br12 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult<br>suggest<br>eight<br>afraid |  
+| bip_39_word_new_br2 | glow<br>game |  
+| bip_39_word_new_br3 | glow<br>game<br>pitch |  
+| bip_39_word_new_br4 | glow<br>game<br>pitch<br>horse |  
+| bip_39_word_new_br5 | glow<br>game<br>pitch<br>horse<br>junk |  
+| bip_39_word_new_br6 | glow<br>game<br>pitch<br>horse<br>junk<br>term |  
+| bip_39_word_new_br7 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general |  
+| bip_39_word_new_br8 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad |  
+| bip_39_word_new_br9 | glow<br>game<br>pitch<br>horse<br>junk<br>term<br>general<br>dad<br>adult |  
+| bip_39_word_new_line1 | glow |  
+| bip_39_word_new_line10 | glow
+game
+pitch
+horse
+junk
+term
+general
+dad
+adult
+suggest |  
+| bip_39_word_new_line11 | glow
+game
+pitch
+horse
+junk
+term
+general
+dad
+adult
+suggest
+eight |  
+| bip_39_word_new_line12 | glow
+game
+pitch
+horse
+junk
+term
+general
+dad
+adult
+suggest
+eight
+afraid |  
+| bip_39_word_new_line2 | glow
+game |  
+| bip_39_word_new_line3 | glow
+game
+pitch |  
+| bip_39_word_new_line4 | glow
+game
+pitch
+horse |  
+| bip_39_word_new_line5 | glow
+game
+pitch
+horse
+junk |  
+| bip_39_word_new_line6 | glow
+game
+pitch
+horse
+junk
+term |  
+| bip_39_word_new_line7 | glow
+game
+pitch
+horse
+junk
+term
+general |  
+| bip_39_word_new_line8 | glow
+game
+pitch
+horse
+junk
+term
+general
+dad |  
+| bip_39_word_new_line9 | glow
+game
+pitch
+horse
+junk
+term
+general
+dad
+adult |  
+| bip_39_word_space_0 | ['glow', 'game', 'pitch', 'horse', 'junk', 'term', 'general', 'dad', 'adult', 'suggest', 'eight', 'afraid'] |  
+| bip_39_word_space_1 | glow |  
+| bip_39_word_space_10 | glow game pitch horse junk term general dad adult suggest |  
+| bip_39_word_space_11 | glow game pitch horse junk term general dad adult suggest eight |  
+| bip_39_word_space_12 | glow game pitch horse junk term general dad adult suggest eight afraid |  
+| bip_39_word_space_2 | glow game |  
+| bip_39_word_space_3 | glow game pitch |  
+| bip_39_word_space_4 | glow game pitch horse |  
+| bip_39_word_space_5 | glow game pitch horse junk |  
+| bip_39_word_space_6 | glow game pitch horse junk term |  
+| bip_39_word_space_7 | glow game pitch horse junk term general |  
+| bip_39_word_space_8 | glow game pitch horse junk term general dad |  
+| bip_39_word_space_9 | glow game pitch horse junk term general dad adult |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

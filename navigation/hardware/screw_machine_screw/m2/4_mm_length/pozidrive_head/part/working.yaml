@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rhythm
+bip_39_word_new_br10: rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy<br>skull<br>inject<br>relax<br>decorate
+bip_39_word_new_br11: rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy<br>skull<br>inject<br>relax<br>decorate<br>skate
+bip_39_word_new_br12: rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy<br>skull<br>inject<br>relax<br>decorate<br>skate<br>absurd
+bip_39_word_new_br2: rhythm<br>pulp
+bip_39_word_new_br3: rhythm<br>pulp<br>eagle
+bip_39_word_new_br4: rhythm<br>pulp<br>eagle<br>knife
+bip_39_word_new_br5: rhythm<br>pulp<br>eagle<br>knife<br>leopard
+bip_39_word_new_br6: rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy
+bip_39_word_new_br7: rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy<br>skull
+bip_39_word_new_br8: rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy<br>skull<br>inject
+bip_39_word_new_br9: rhythm<br>pulp<br>eagle<br>knife<br>leopard<br>easy<br>skull<br>inject<br>relax
+bip_39_word_new_line1: rhythm
+bip_39_word_new_line10: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife
+
+  leopard
+
+  easy
+
+  skull
+
+  inject
+
+  relax
+
+  decorate'
+bip_39_word_new_line11: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife
+
+  leopard
+
+  easy
+
+  skull
+
+  inject
+
+  relax
+
+  decorate
+
+  skate'
+bip_39_word_new_line12: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife
+
+  leopard
+
+  easy
+
+  skull
+
+  inject
+
+  relax
+
+  decorate
+
+  skate
+
+  absurd'
+bip_39_word_new_line2: 'rhythm
+
+  pulp'
+bip_39_word_new_line3: 'rhythm
+
+  pulp
+
+  eagle'
+bip_39_word_new_line4: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife'
+bip_39_word_new_line5: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife
+
+  leopard'
+bip_39_word_new_line6: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife
+
+  leopard
+
+  easy'
+bip_39_word_new_line7: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife
+
+  leopard
+
+  easy
+
+  skull'
+bip_39_word_new_line8: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife
+
+  leopard
+
+  easy
+
+  skull
+
+  inject'
+bip_39_word_new_line9: 'rhythm
+
+  pulp
+
+  eagle
+
+  knife
+
+  leopard
+
+  easy
+
+  skull
+
+  inject
+
+  relax'
+bip_39_word_space_0:
+- rhythm
+- pulp
+- eagle
+- knife
+- leopard
+- easy
+- skull
+- inject
+- relax
+- decorate
+- skate
+- absurd
+bip_39_word_space_1: rhythm
+bip_39_word_space_10: rhythm pulp eagle knife leopard easy skull inject relax decorate
+bip_39_word_space_11: rhythm pulp eagle knife leopard easy skull inject relax decorate
+  skate
+bip_39_word_space_12: rhythm pulp eagle knife leopard easy skull inject relax decorate
+  skate absurd
+bip_39_word_space_2: rhythm pulp
+bip_39_word_space_3: rhythm pulp eagle
+bip_39_word_space_4: rhythm pulp eagle knife
+bip_39_word_space_5: rhythm pulp eagle knife leopard
+bip_39_word_space_6: rhythm pulp eagle knife leopard easy
+bip_39_word_space_7: rhythm pulp eagle knife leopard easy skull
+bip_39_word_space_8: rhythm pulp eagle knife leopard easy skull inject
+bip_39_word_space_9: rhythm pulp eagle knife leopard easy skull inject relax
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

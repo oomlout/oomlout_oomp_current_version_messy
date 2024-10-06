@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: master large
+  * bip 39 word 3: master large cost
+  * bip 39 word: master large cost brass flock sniff gap ancient sorry purchase prepare avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | master |  
+| bip_39_word_new_br10 | master<br>large<br>cost<br>brass<br>flock<br>sniff<br>gap<br>ancient<br>sorry<br>purchase |  
+| bip_39_word_new_br11 | master<br>large<br>cost<br>brass<br>flock<br>sniff<br>gap<br>ancient<br>sorry<br>purchase<br>prepare |  
+| bip_39_word_new_br12 | master<br>large<br>cost<br>brass<br>flock<br>sniff<br>gap<br>ancient<br>sorry<br>purchase<br>prepare<br>avocado |  
+| bip_39_word_new_br2 | master<br>large |  
+| bip_39_word_new_br3 | master<br>large<br>cost |  
+| bip_39_word_new_br4 | master<br>large<br>cost<br>brass |  
+| bip_39_word_new_br5 | master<br>large<br>cost<br>brass<br>flock |  
+| bip_39_word_new_br6 | master<br>large<br>cost<br>brass<br>flock<br>sniff |  
+| bip_39_word_new_br7 | master<br>large<br>cost<br>brass<br>flock<br>sniff<br>gap |  
+| bip_39_word_new_br8 | master<br>large<br>cost<br>brass<br>flock<br>sniff<br>gap<br>ancient |  
+| bip_39_word_new_br9 | master<br>large<br>cost<br>brass<br>flock<br>sniff<br>gap<br>ancient<br>sorry |  
+| bip_39_word_new_line1 | master |  
+| bip_39_word_new_line10 | master
+large
+cost
+brass
+flock
+sniff
+gap
+ancient
+sorry
+purchase |  
+| bip_39_word_new_line11 | master
+large
+cost
+brass
+flock
+sniff
+gap
+ancient
+sorry
+purchase
+prepare |  
+| bip_39_word_new_line12 | master
+large
+cost
+brass
+flock
+sniff
+gap
+ancient
+sorry
+purchase
+prepare
+avocado |  
+| bip_39_word_new_line2 | master
+large |  
+| bip_39_word_new_line3 | master
+large
+cost |  
+| bip_39_word_new_line4 | master
+large
+cost
+brass |  
+| bip_39_word_new_line5 | master
+large
+cost
+brass
+flock |  
+| bip_39_word_new_line6 | master
+large
+cost
+brass
+flock
+sniff |  
+| bip_39_word_new_line7 | master
+large
+cost
+brass
+flock
+sniff
+gap |  
+| bip_39_word_new_line8 | master
+large
+cost
+brass
+flock
+sniff
+gap
+ancient |  
+| bip_39_word_new_line9 | master
+large
+cost
+brass
+flock
+sniff
+gap
+ancient
+sorry |  
+| bip_39_word_space_0 | ['master', 'large', 'cost', 'brass', 'flock', 'sniff', 'gap', 'ancient', 'sorry', 'purchase', 'prepare', 'avocado'] |  
+| bip_39_word_space_1 | master |  
+| bip_39_word_space_10 | master large cost brass flock sniff gap ancient sorry purchase |  
+| bip_39_word_space_11 | master large cost brass flock sniff gap ancient sorry purchase prepare |  
+| bip_39_word_space_12 | master large cost brass flock sniff gap ancient sorry purchase prepare avocado |  
+| bip_39_word_space_2 | master large |  
+| bip_39_word_space_3 | master large cost |  
+| bip_39_word_space_4 | master large cost brass |  
+| bip_39_word_space_5 | master large cost brass flock |  
+| bip_39_word_space_6 | master large cost brass flock sniff |  
+| bip_39_word_space_7 | master large cost brass flock sniff gap |  
+| bip_39_word_space_8 | master large cost brass flock sniff gap ancient |  
+| bip_39_word_space_9 | master large cost brass flock sniff gap ancient sorry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

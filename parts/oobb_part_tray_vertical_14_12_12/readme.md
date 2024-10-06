@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: element discover
+  * bip 39 word 3: element discover balcony
+  * bip 39 word: element discover balcony hawk trumpet rotate cook fade woman hurdle pudding assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | element |  
+| bip_39_word_new_br10 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate<br>cook<br>fade<br>woman<br>hurdle |  
+| bip_39_word_new_br11 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate<br>cook<br>fade<br>woman<br>hurdle<br>pudding |  
+| bip_39_word_new_br12 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate<br>cook<br>fade<br>woman<br>hurdle<br>pudding<br>assist |  
+| bip_39_word_new_br2 | element<br>discover |  
+| bip_39_word_new_br3 | element<br>discover<br>balcony |  
+| bip_39_word_new_br4 | element<br>discover<br>balcony<br>hawk |  
+| bip_39_word_new_br5 | element<br>discover<br>balcony<br>hawk<br>trumpet |  
+| bip_39_word_new_br6 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate |  
+| bip_39_word_new_br7 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate<br>cook |  
+| bip_39_word_new_br8 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate<br>cook<br>fade |  
+| bip_39_word_new_br9 | element<br>discover<br>balcony<br>hawk<br>trumpet<br>rotate<br>cook<br>fade<br>woman |  
+| bip_39_word_new_line1 | element |  
+| bip_39_word_new_line10 | element
+discover
+balcony
+hawk
+trumpet
+rotate
+cook
+fade
+woman
+hurdle |  
+| bip_39_word_new_line11 | element
+discover
+balcony
+hawk
+trumpet
+rotate
+cook
+fade
+woman
+hurdle
+pudding |  
+| bip_39_word_new_line12 | element
+discover
+balcony
+hawk
+trumpet
+rotate
+cook
+fade
+woman
+hurdle
+pudding
+assist |  
+| bip_39_word_new_line2 | element
+discover |  
+| bip_39_word_new_line3 | element
+discover
+balcony |  
+| bip_39_word_new_line4 | element
+discover
+balcony
+hawk |  
+| bip_39_word_new_line5 | element
+discover
+balcony
+hawk
+trumpet |  
+| bip_39_word_new_line6 | element
+discover
+balcony
+hawk
+trumpet
+rotate |  
+| bip_39_word_new_line7 | element
+discover
+balcony
+hawk
+trumpet
+rotate
+cook |  
+| bip_39_word_new_line8 | element
+discover
+balcony
+hawk
+trumpet
+rotate
+cook
+fade |  
+| bip_39_word_new_line9 | element
+discover
+balcony
+hawk
+trumpet
+rotate
+cook
+fade
+woman |  
+| bip_39_word_space_0 | ['element', 'discover', 'balcony', 'hawk', 'trumpet', 'rotate', 'cook', 'fade', 'woman', 'hurdle', 'pudding', 'assist'] |  
+| bip_39_word_space_1 | element |  
+| bip_39_word_space_10 | element discover balcony hawk trumpet rotate cook fade woman hurdle |  
+| bip_39_word_space_11 | element discover balcony hawk trumpet rotate cook fade woman hurdle pudding |  
+| bip_39_word_space_12 | element discover balcony hawk trumpet rotate cook fade woman hurdle pudding assist |  
+| bip_39_word_space_2 | element discover |  
+| bip_39_word_space_3 | element discover balcony |  
+| bip_39_word_space_4 | element discover balcony hawk |  
+| bip_39_word_space_5 | element discover balcony hawk trumpet |  
+| bip_39_word_space_6 | element discover balcony hawk trumpet rotate |  
+| bip_39_word_space_7 | element discover balcony hawk trumpet rotate cook |  
+| bip_39_word_space_8 | element discover balcony hawk trumpet rotate cook fade |  
+| bip_39_word_space_9 | element discover balcony hawk trumpet rotate cook fade woman |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

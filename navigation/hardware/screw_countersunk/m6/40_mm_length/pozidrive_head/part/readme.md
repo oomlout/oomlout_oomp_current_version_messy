@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chest element
+  * bip 39 word 3: chest element tragic
+  * bip 39 word: chest element tragic reject fee bitter cup inflict occur sail cross auction
 
 ### other_codes
 * short_code: cs6m40pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chest |  
+| bip_39_word_new_br10 | chest<br>element<br>tragic<br>reject<br>fee<br>bitter<br>cup<br>inflict<br>occur<br>sail |  
+| bip_39_word_new_br11 | chest<br>element<br>tragic<br>reject<br>fee<br>bitter<br>cup<br>inflict<br>occur<br>sail<br>cross |  
+| bip_39_word_new_br12 | chest<br>element<br>tragic<br>reject<br>fee<br>bitter<br>cup<br>inflict<br>occur<br>sail<br>cross<br>auction |  
+| bip_39_word_new_br2 | chest<br>element |  
+| bip_39_word_new_br3 | chest<br>element<br>tragic |  
+| bip_39_word_new_br4 | chest<br>element<br>tragic<br>reject |  
+| bip_39_word_new_br5 | chest<br>element<br>tragic<br>reject<br>fee |  
+| bip_39_word_new_br6 | chest<br>element<br>tragic<br>reject<br>fee<br>bitter |  
+| bip_39_word_new_br7 | chest<br>element<br>tragic<br>reject<br>fee<br>bitter<br>cup |  
+| bip_39_word_new_br8 | chest<br>element<br>tragic<br>reject<br>fee<br>bitter<br>cup<br>inflict |  
+| bip_39_word_new_br9 | chest<br>element<br>tragic<br>reject<br>fee<br>bitter<br>cup<br>inflict<br>occur |  
+| bip_39_word_new_line1 | chest |  
+| bip_39_word_new_line10 | chest
+element
+tragic
+reject
+fee
+bitter
+cup
+inflict
+occur
+sail |  
+| bip_39_word_new_line11 | chest
+element
+tragic
+reject
+fee
+bitter
+cup
+inflict
+occur
+sail
+cross |  
+| bip_39_word_new_line12 | chest
+element
+tragic
+reject
+fee
+bitter
+cup
+inflict
+occur
+sail
+cross
+auction |  
+| bip_39_word_new_line2 | chest
+element |  
+| bip_39_word_new_line3 | chest
+element
+tragic |  
+| bip_39_word_new_line4 | chest
+element
+tragic
+reject |  
+| bip_39_word_new_line5 | chest
+element
+tragic
+reject
+fee |  
+| bip_39_word_new_line6 | chest
+element
+tragic
+reject
+fee
+bitter |  
+| bip_39_word_new_line7 | chest
+element
+tragic
+reject
+fee
+bitter
+cup |  
+| bip_39_word_new_line8 | chest
+element
+tragic
+reject
+fee
+bitter
+cup
+inflict |  
+| bip_39_word_new_line9 | chest
+element
+tragic
+reject
+fee
+bitter
+cup
+inflict
+occur |  
+| bip_39_word_space_0 | ['chest', 'element', 'tragic', 'reject', 'fee', 'bitter', 'cup', 'inflict', 'occur', 'sail', 'cross', 'auction'] |  
+| bip_39_word_space_1 | chest |  
+| bip_39_word_space_10 | chest element tragic reject fee bitter cup inflict occur sail |  
+| bip_39_word_space_11 | chest element tragic reject fee bitter cup inflict occur sail cross |  
+| bip_39_word_space_12 | chest element tragic reject fee bitter cup inflict occur sail cross auction |  
+| bip_39_word_space_2 | chest element |  
+| bip_39_word_space_3 | chest element tragic |  
+| bip_39_word_space_4 | chest element tragic reject |  
+| bip_39_word_space_5 | chest element tragic reject fee |  
+| bip_39_word_space_6 | chest element tragic reject fee bitter |  
+| bip_39_word_space_7 | chest element tragic reject fee bitter cup |  
+| bip_39_word_space_8 | chest element tragic reject fee bitter cup inflict |  
+| bip_39_word_space_9 | chest element tragic reject fee bitter cup inflict occur |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

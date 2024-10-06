@@ -1,3 +1,186 @@
+bip_39_word_new_br1: soon
+bip_39_word_new_br10: soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus
+bip_39_word_new_br11: soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus<br>evoke
+bip_39_word_new_br12: soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art<br>focus<br>evoke<br>allow
+bip_39_word_new_br2: soon<br>industry
+bip_39_word_new_br3: soon<br>industry<br>rely
+bip_39_word_new_br4: soon<br>industry<br>rely<br>forget
+bip_39_word_new_br5: soon<br>industry<br>rely<br>forget<br>sword
+bip_39_word_new_br6: soon<br>industry<br>rely<br>forget<br>sword<br>fatigue
+bip_39_word_new_br7: soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup
+bip_39_word_new_br8: soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink
+bip_39_word_new_br9: soon<br>industry<br>rely<br>forget<br>sword<br>fatigue<br>ketchup<br>wink<br>art
+bip_39_word_new_line1: soon
+bip_39_word_new_line10: 'soon
+
+  industry
+
+  rely
+
+  forget
+
+  sword
+
+  fatigue
+
+  ketchup
+
+  wink
+
+  art
+
+  focus'
+bip_39_word_new_line11: 'soon
+
+  industry
+
+  rely
+
+  forget
+
+  sword
+
+  fatigue
+
+  ketchup
+
+  wink
+
+  art
+
+  focus
+
+  evoke'
+bip_39_word_new_line12: 'soon
+
+  industry
+
+  rely
+
+  forget
+
+  sword
+
+  fatigue
+
+  ketchup
+
+  wink
+
+  art
+
+  focus
+
+  evoke
+
+  allow'
+bip_39_word_new_line2: 'soon
+
+  industry'
+bip_39_word_new_line3: 'soon
+
+  industry
+
+  rely'
+bip_39_word_new_line4: 'soon
+
+  industry
+
+  rely
+
+  forget'
+bip_39_word_new_line5: 'soon
+
+  industry
+
+  rely
+
+  forget
+
+  sword'
+bip_39_word_new_line6: 'soon
+
+  industry
+
+  rely
+
+  forget
+
+  sword
+
+  fatigue'
+bip_39_word_new_line7: 'soon
+
+  industry
+
+  rely
+
+  forget
+
+  sword
+
+  fatigue
+
+  ketchup'
+bip_39_word_new_line8: 'soon
+
+  industry
+
+  rely
+
+  forget
+
+  sword
+
+  fatigue
+
+  ketchup
+
+  wink'
+bip_39_word_new_line9: 'soon
+
+  industry
+
+  rely
+
+  forget
+
+  sword
+
+  fatigue
+
+  ketchup
+
+  wink
+
+  art'
+bip_39_word_space_0:
+- soon
+- industry
+- rely
+- forget
+- sword
+- fatigue
+- ketchup
+- wink
+- art
+- focus
+- evoke
+- allow
+bip_39_word_space_1: soon
+bip_39_word_space_10: soon industry rely forget sword fatigue ketchup wink art focus
+bip_39_word_space_11: soon industry rely forget sword fatigue ketchup wink art focus
+  evoke
+bip_39_word_space_12: soon industry rely forget sword fatigue ketchup wink art focus
+  evoke allow
+bip_39_word_space_2: soon industry
+bip_39_word_space_3: soon industry rely
+bip_39_word_space_4: soon industry rely forget
+bip_39_word_space_5: soon industry rely forget sword
+bip_39_word_space_6: soon industry rely forget sword fatigue
+bip_39_word_space_7: soon industry rely forget sword fatigue ketchup
+bip_39_word_space_8: soon industry rely forget sword fatigue ketchup wink
+bip_39_word_space_9: soon industry rely forget sword fatigue ketchup wink art
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

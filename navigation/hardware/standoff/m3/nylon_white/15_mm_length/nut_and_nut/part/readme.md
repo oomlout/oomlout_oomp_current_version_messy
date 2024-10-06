@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flee sea
+  * bip 39 word 3: flee sea lecture
+  * bip 39 word: flee sea lecture squirrel super donate uncle sting distance close evolve amazing
 
 ### other_codes
 * short_code: so3nw15nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flee |  
+| bip_39_word_new_br10 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate<br>uncle<br>sting<br>distance<br>close |  
+| bip_39_word_new_br11 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate<br>uncle<br>sting<br>distance<br>close<br>evolve |  
+| bip_39_word_new_br12 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate<br>uncle<br>sting<br>distance<br>close<br>evolve<br>amazing |  
+| bip_39_word_new_br2 | flee<br>sea |  
+| bip_39_word_new_br3 | flee<br>sea<br>lecture |  
+| bip_39_word_new_br4 | flee<br>sea<br>lecture<br>squirrel |  
+| bip_39_word_new_br5 | flee<br>sea<br>lecture<br>squirrel<br>super |  
+| bip_39_word_new_br6 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate |  
+| bip_39_word_new_br7 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate<br>uncle |  
+| bip_39_word_new_br8 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate<br>uncle<br>sting |  
+| bip_39_word_new_br9 | flee<br>sea<br>lecture<br>squirrel<br>super<br>donate<br>uncle<br>sting<br>distance |  
+| bip_39_word_new_line1 | flee |  
+| bip_39_word_new_line10 | flee
+sea
+lecture
+squirrel
+super
+donate
+uncle
+sting
+distance
+close |  
+| bip_39_word_new_line11 | flee
+sea
+lecture
+squirrel
+super
+donate
+uncle
+sting
+distance
+close
+evolve |  
+| bip_39_word_new_line12 | flee
+sea
+lecture
+squirrel
+super
+donate
+uncle
+sting
+distance
+close
+evolve
+amazing |  
+| bip_39_word_new_line2 | flee
+sea |  
+| bip_39_word_new_line3 | flee
+sea
+lecture |  
+| bip_39_word_new_line4 | flee
+sea
+lecture
+squirrel |  
+| bip_39_word_new_line5 | flee
+sea
+lecture
+squirrel
+super |  
+| bip_39_word_new_line6 | flee
+sea
+lecture
+squirrel
+super
+donate |  
+| bip_39_word_new_line7 | flee
+sea
+lecture
+squirrel
+super
+donate
+uncle |  
+| bip_39_word_new_line8 | flee
+sea
+lecture
+squirrel
+super
+donate
+uncle
+sting |  
+| bip_39_word_new_line9 | flee
+sea
+lecture
+squirrel
+super
+donate
+uncle
+sting
+distance |  
+| bip_39_word_space_0 | ['flee', 'sea', 'lecture', 'squirrel', 'super', 'donate', 'uncle', 'sting', 'distance', 'close', 'evolve', 'amazing'] |  
+| bip_39_word_space_1 | flee |  
+| bip_39_word_space_10 | flee sea lecture squirrel super donate uncle sting distance close |  
+| bip_39_word_space_11 | flee sea lecture squirrel super donate uncle sting distance close evolve |  
+| bip_39_word_space_12 | flee sea lecture squirrel super donate uncle sting distance close evolve amazing |  
+| bip_39_word_space_2 | flee sea |  
+| bip_39_word_space_3 | flee sea lecture |  
+| bip_39_word_space_4 | flee sea lecture squirrel |  
+| bip_39_word_space_5 | flee sea lecture squirrel super |  
+| bip_39_word_space_6 | flee sea lecture squirrel super donate |  
+| bip_39_word_space_7 | flee sea lecture squirrel super donate uncle |  
+| bip_39_word_space_8 | flee sea lecture squirrel super donate uncle sting |  
+| bip_39_word_space_9 | flee sea lecture squirrel super donate uncle sting distance |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

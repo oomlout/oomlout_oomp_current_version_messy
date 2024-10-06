@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: comfort visa
+  * bip 39 word 3: comfort visa approve
+  * bip 39 word: comfort visa approve payment liberty apple inhale square caution client tiny ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | comfort |  
+| bip_39_word_new_br10 | comfort<br>visa<br>approve<br>payment<br>liberty<br>apple<br>inhale<br>square<br>caution<br>client |  
+| bip_39_word_new_br11 | comfort<br>visa<br>approve<br>payment<br>liberty<br>apple<br>inhale<br>square<br>caution<br>client<br>tiny |  
+| bip_39_word_new_br12 | comfort<br>visa<br>approve<br>payment<br>liberty<br>apple<br>inhale<br>square<br>caution<br>client<br>tiny<br>ankle |  
+| bip_39_word_new_br2 | comfort<br>visa |  
+| bip_39_word_new_br3 | comfort<br>visa<br>approve |  
+| bip_39_word_new_br4 | comfort<br>visa<br>approve<br>payment |  
+| bip_39_word_new_br5 | comfort<br>visa<br>approve<br>payment<br>liberty |  
+| bip_39_word_new_br6 | comfort<br>visa<br>approve<br>payment<br>liberty<br>apple |  
+| bip_39_word_new_br7 | comfort<br>visa<br>approve<br>payment<br>liberty<br>apple<br>inhale |  
+| bip_39_word_new_br8 | comfort<br>visa<br>approve<br>payment<br>liberty<br>apple<br>inhale<br>square |  
+| bip_39_word_new_br9 | comfort<br>visa<br>approve<br>payment<br>liberty<br>apple<br>inhale<br>square<br>caution |  
+| bip_39_word_new_line1 | comfort |  
+| bip_39_word_new_line10 | comfort
+visa
+approve
+payment
+liberty
+apple
+inhale
+square
+caution
+client |  
+| bip_39_word_new_line11 | comfort
+visa
+approve
+payment
+liberty
+apple
+inhale
+square
+caution
+client
+tiny |  
+| bip_39_word_new_line12 | comfort
+visa
+approve
+payment
+liberty
+apple
+inhale
+square
+caution
+client
+tiny
+ankle |  
+| bip_39_word_new_line2 | comfort
+visa |  
+| bip_39_word_new_line3 | comfort
+visa
+approve |  
+| bip_39_word_new_line4 | comfort
+visa
+approve
+payment |  
+| bip_39_word_new_line5 | comfort
+visa
+approve
+payment
+liberty |  
+| bip_39_word_new_line6 | comfort
+visa
+approve
+payment
+liberty
+apple |  
+| bip_39_word_new_line7 | comfort
+visa
+approve
+payment
+liberty
+apple
+inhale |  
+| bip_39_word_new_line8 | comfort
+visa
+approve
+payment
+liberty
+apple
+inhale
+square |  
+| bip_39_word_new_line9 | comfort
+visa
+approve
+payment
+liberty
+apple
+inhale
+square
+caution |  
+| bip_39_word_space_0 | ['comfort', 'visa', 'approve', 'payment', 'liberty', 'apple', 'inhale', 'square', 'caution', 'client', 'tiny', 'ankle'] |  
+| bip_39_word_space_1 | comfort |  
+| bip_39_word_space_10 | comfort visa approve payment liberty apple inhale square caution client |  
+| bip_39_word_space_11 | comfort visa approve payment liberty apple inhale square caution client tiny |  
+| bip_39_word_space_12 | comfort visa approve payment liberty apple inhale square caution client tiny ankle |  
+| bip_39_word_space_2 | comfort visa |  
+| bip_39_word_space_3 | comfort visa approve |  
+| bip_39_word_space_4 | comfort visa approve payment |  
+| bip_39_word_space_5 | comfort visa approve payment liberty |  
+| bip_39_word_space_6 | comfort visa approve payment liberty apple |  
+| bip_39_word_space_7 | comfort visa approve payment liberty apple inhale |  
+| bip_39_word_space_8 | comfort visa approve payment liberty apple inhale square |  
+| bip_39_word_space_9 | comfort visa approve payment liberty apple inhale square caution |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

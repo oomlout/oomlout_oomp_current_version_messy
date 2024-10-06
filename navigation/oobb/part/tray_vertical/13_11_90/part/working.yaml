@@ -1,3 +1,185 @@
+bip_39_word_new_br1: sight
+bip_39_word_new_br10: sight<br>spend<br>dust<br>pretty<br>that<br>damage<br>juice<br>note<br>wet<br>luxury
+bip_39_word_new_br11: sight<br>spend<br>dust<br>pretty<br>that<br>damage<br>juice<br>note<br>wet<br>luxury<br>amused
+bip_39_word_new_br12: sight<br>spend<br>dust<br>pretty<br>that<br>damage<br>juice<br>note<br>wet<br>luxury<br>amused<br>acquire
+bip_39_word_new_br2: sight<br>spend
+bip_39_word_new_br3: sight<br>spend<br>dust
+bip_39_word_new_br4: sight<br>spend<br>dust<br>pretty
+bip_39_word_new_br5: sight<br>spend<br>dust<br>pretty<br>that
+bip_39_word_new_br6: sight<br>spend<br>dust<br>pretty<br>that<br>damage
+bip_39_word_new_br7: sight<br>spend<br>dust<br>pretty<br>that<br>damage<br>juice
+bip_39_word_new_br8: sight<br>spend<br>dust<br>pretty<br>that<br>damage<br>juice<br>note
+bip_39_word_new_br9: sight<br>spend<br>dust<br>pretty<br>that<br>damage<br>juice<br>note<br>wet
+bip_39_word_new_line1: sight
+bip_39_word_new_line10: 'sight
+
+  spend
+
+  dust
+
+  pretty
+
+  that
+
+  damage
+
+  juice
+
+  note
+
+  wet
+
+  luxury'
+bip_39_word_new_line11: 'sight
+
+  spend
+
+  dust
+
+  pretty
+
+  that
+
+  damage
+
+  juice
+
+  note
+
+  wet
+
+  luxury
+
+  amused'
+bip_39_word_new_line12: 'sight
+
+  spend
+
+  dust
+
+  pretty
+
+  that
+
+  damage
+
+  juice
+
+  note
+
+  wet
+
+  luxury
+
+  amused
+
+  acquire'
+bip_39_word_new_line2: 'sight
+
+  spend'
+bip_39_word_new_line3: 'sight
+
+  spend
+
+  dust'
+bip_39_word_new_line4: 'sight
+
+  spend
+
+  dust
+
+  pretty'
+bip_39_word_new_line5: 'sight
+
+  spend
+
+  dust
+
+  pretty
+
+  that'
+bip_39_word_new_line6: 'sight
+
+  spend
+
+  dust
+
+  pretty
+
+  that
+
+  damage'
+bip_39_word_new_line7: 'sight
+
+  spend
+
+  dust
+
+  pretty
+
+  that
+
+  damage
+
+  juice'
+bip_39_word_new_line8: 'sight
+
+  spend
+
+  dust
+
+  pretty
+
+  that
+
+  damage
+
+  juice
+
+  note'
+bip_39_word_new_line9: 'sight
+
+  spend
+
+  dust
+
+  pretty
+
+  that
+
+  damage
+
+  juice
+
+  note
+
+  wet'
+bip_39_word_space_0:
+- sight
+- spend
+- dust
+- pretty
+- that
+- damage
+- juice
+- note
+- wet
+- luxury
+- amused
+- acquire
+bip_39_word_space_1: sight
+bip_39_word_space_10: sight spend dust pretty that damage juice note wet luxury
+bip_39_word_space_11: sight spend dust pretty that damage juice note wet luxury amused
+bip_39_word_space_12: sight spend dust pretty that damage juice note wet luxury amused
+  acquire
+bip_39_word_space_2: sight spend
+bip_39_word_space_3: sight spend dust
+bip_39_word_space_4: sight spend dust pretty
+bip_39_word_space_5: sight spend dust pretty that
+bip_39_word_space_6: sight spend dust pretty that damage
+bip_39_word_space_7: sight spend dust pretty that damage juice
+bip_39_word_space_8: sight spend dust pretty that damage juice note
+bip_39_word_space_9: sight spend dust pretty that damage juice note wet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

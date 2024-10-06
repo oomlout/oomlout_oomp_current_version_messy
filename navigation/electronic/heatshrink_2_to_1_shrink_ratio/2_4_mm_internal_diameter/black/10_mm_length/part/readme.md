@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dream hub
+  * bip 39 word 3: dream hub subway
+  * bip 39 word: dream hub subway sibling caught pave produce cat keep eternal chaos arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dream |  
+| bip_39_word_new_br10 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep<br>eternal |  
+| bip_39_word_new_br11 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep<br>eternal<br>chaos |  
+| bip_39_word_new_br12 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep<br>eternal<br>chaos<br>arch |  
+| bip_39_word_new_br2 | dream<br>hub |  
+| bip_39_word_new_br3 | dream<br>hub<br>subway |  
+| bip_39_word_new_br4 | dream<br>hub<br>subway<br>sibling |  
+| bip_39_word_new_br5 | dream<br>hub<br>subway<br>sibling<br>caught |  
+| bip_39_word_new_br6 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave |  
+| bip_39_word_new_br7 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce |  
+| bip_39_word_new_br8 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat |  
+| bip_39_word_new_br9 | dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep |  
+| bip_39_word_new_line1 | dream |  
+| bip_39_word_new_line10 | dream
+hub
+subway
+sibling
+caught
+pave
+produce
+cat
+keep
+eternal |  
+| bip_39_word_new_line11 | dream
+hub
+subway
+sibling
+caught
+pave
+produce
+cat
+keep
+eternal
+chaos |  
+| bip_39_word_new_line12 | dream
+hub
+subway
+sibling
+caught
+pave
+produce
+cat
+keep
+eternal
+chaos
+arch |  
+| bip_39_word_new_line2 | dream
+hub |  
+| bip_39_word_new_line3 | dream
+hub
+subway |  
+| bip_39_word_new_line4 | dream
+hub
+subway
+sibling |  
+| bip_39_word_new_line5 | dream
+hub
+subway
+sibling
+caught |  
+| bip_39_word_new_line6 | dream
+hub
+subway
+sibling
+caught
+pave |  
+| bip_39_word_new_line7 | dream
+hub
+subway
+sibling
+caught
+pave
+produce |  
+| bip_39_word_new_line8 | dream
+hub
+subway
+sibling
+caught
+pave
+produce
+cat |  
+| bip_39_word_new_line9 | dream
+hub
+subway
+sibling
+caught
+pave
+produce
+cat
+keep |  
+| bip_39_word_space_0 | ['dream', 'hub', 'subway', 'sibling', 'caught', 'pave', 'produce', 'cat', 'keep', 'eternal', 'chaos', 'arch'] |  
+| bip_39_word_space_1 | dream |  
+| bip_39_word_space_10 | dream hub subway sibling caught pave produce cat keep eternal |  
+| bip_39_word_space_11 | dream hub subway sibling caught pave produce cat keep eternal chaos |  
+| bip_39_word_space_12 | dream hub subway sibling caught pave produce cat keep eternal chaos arch |  
+| bip_39_word_space_2 | dream hub |  
+| bip_39_word_space_3 | dream hub subway |  
+| bip_39_word_space_4 | dream hub subway sibling |  
+| bip_39_word_space_5 | dream hub subway sibling caught |  
+| bip_39_word_space_6 | dream hub subway sibling caught pave |  
+| bip_39_word_space_7 | dream hub subway sibling caught pave produce |  
+| bip_39_word_space_8 | dream hub subway sibling caught pave produce cat |  
+| bip_39_word_space_9 | dream hub subway sibling caught pave produce cat keep |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

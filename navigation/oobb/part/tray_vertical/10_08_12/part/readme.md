@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: woman arrange
+  * bip 39 word 3: woman arrange jar
+  * bip 39 word: woman arrange jar hundred alley symbol affair effort such monkey cupboard acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | woman |  
+| bip_39_word_new_br10 | woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol<br>affair<br>effort<br>such<br>monkey |  
+| bip_39_word_new_br11 | woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol<br>affair<br>effort<br>such<br>monkey<br>cupboard |  
+| bip_39_word_new_br12 | woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol<br>affair<br>effort<br>such<br>monkey<br>cupboard<br>acquire |  
+| bip_39_word_new_br2 | woman<br>arrange |  
+| bip_39_word_new_br3 | woman<br>arrange<br>jar |  
+| bip_39_word_new_br4 | woman<br>arrange<br>jar<br>hundred |  
+| bip_39_word_new_br5 | woman<br>arrange<br>jar<br>hundred<br>alley |  
+| bip_39_word_new_br6 | woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol |  
+| bip_39_word_new_br7 | woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol<br>affair |  
+| bip_39_word_new_br8 | woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol<br>affair<br>effort |  
+| bip_39_word_new_br9 | woman<br>arrange<br>jar<br>hundred<br>alley<br>symbol<br>affair<br>effort<br>such |  
+| bip_39_word_new_line1 | woman |  
+| bip_39_word_new_line10 | woman
+arrange
+jar
+hundred
+alley
+symbol
+affair
+effort
+such
+monkey |  
+| bip_39_word_new_line11 | woman
+arrange
+jar
+hundred
+alley
+symbol
+affair
+effort
+such
+monkey
+cupboard |  
+| bip_39_word_new_line12 | woman
+arrange
+jar
+hundred
+alley
+symbol
+affair
+effort
+such
+monkey
+cupboard
+acquire |  
+| bip_39_word_new_line2 | woman
+arrange |  
+| bip_39_word_new_line3 | woman
+arrange
+jar |  
+| bip_39_word_new_line4 | woman
+arrange
+jar
+hundred |  
+| bip_39_word_new_line5 | woman
+arrange
+jar
+hundred
+alley |  
+| bip_39_word_new_line6 | woman
+arrange
+jar
+hundred
+alley
+symbol |  
+| bip_39_word_new_line7 | woman
+arrange
+jar
+hundred
+alley
+symbol
+affair |  
+| bip_39_word_new_line8 | woman
+arrange
+jar
+hundred
+alley
+symbol
+affair
+effort |  
+| bip_39_word_new_line9 | woman
+arrange
+jar
+hundred
+alley
+symbol
+affair
+effort
+such |  
+| bip_39_word_space_0 | ['woman', 'arrange', 'jar', 'hundred', 'alley', 'symbol', 'affair', 'effort', 'such', 'monkey', 'cupboard', 'acquire'] |  
+| bip_39_word_space_1 | woman |  
+| bip_39_word_space_10 | woman arrange jar hundred alley symbol affair effort such monkey |  
+| bip_39_word_space_11 | woman arrange jar hundred alley symbol affair effort such monkey cupboard |  
+| bip_39_word_space_12 | woman arrange jar hundred alley symbol affair effort such monkey cupboard acquire |  
+| bip_39_word_space_2 | woman arrange |  
+| bip_39_word_space_3 | woman arrange jar |  
+| bip_39_word_space_4 | woman arrange jar hundred |  
+| bip_39_word_space_5 | woman arrange jar hundred alley |  
+| bip_39_word_space_6 | woman arrange jar hundred alley symbol |  
+| bip_39_word_space_7 | woman arrange jar hundred alley symbol affair |  
+| bip_39_word_space_8 | woman arrange jar hundred alley symbol affair effort |  
+| bip_39_word_space_9 | woman arrange jar hundred alley symbol affair effort such |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

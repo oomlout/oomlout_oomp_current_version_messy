@@ -1,3 +1,187 @@
+bip_39_word_new_br1: useful
+bip_39_word_new_br10: useful<br>bridge<br>bird<br>subject<br>flight<br>basket<br>real<br>disease<br>forum<br>story
+bip_39_word_new_br11: useful<br>bridge<br>bird<br>subject<br>flight<br>basket<br>real<br>disease<br>forum<br>story<br>seek
+bip_39_word_new_br12: useful<br>bridge<br>bird<br>subject<br>flight<br>basket<br>real<br>disease<br>forum<br>story<br>seek<br>allow
+bip_39_word_new_br2: useful<br>bridge
+bip_39_word_new_br3: useful<br>bridge<br>bird
+bip_39_word_new_br4: useful<br>bridge<br>bird<br>subject
+bip_39_word_new_br5: useful<br>bridge<br>bird<br>subject<br>flight
+bip_39_word_new_br6: useful<br>bridge<br>bird<br>subject<br>flight<br>basket
+bip_39_word_new_br7: useful<br>bridge<br>bird<br>subject<br>flight<br>basket<br>real
+bip_39_word_new_br8: useful<br>bridge<br>bird<br>subject<br>flight<br>basket<br>real<br>disease
+bip_39_word_new_br9: useful<br>bridge<br>bird<br>subject<br>flight<br>basket<br>real<br>disease<br>forum
+bip_39_word_new_line1: useful
+bip_39_word_new_line10: 'useful
+
+  bridge
+
+  bird
+
+  subject
+
+  flight
+
+  basket
+
+  real
+
+  disease
+
+  forum
+
+  story'
+bip_39_word_new_line11: 'useful
+
+  bridge
+
+  bird
+
+  subject
+
+  flight
+
+  basket
+
+  real
+
+  disease
+
+  forum
+
+  story
+
+  seek'
+bip_39_word_new_line12: 'useful
+
+  bridge
+
+  bird
+
+  subject
+
+  flight
+
+  basket
+
+  real
+
+  disease
+
+  forum
+
+  story
+
+  seek
+
+  allow'
+bip_39_word_new_line2: 'useful
+
+  bridge'
+bip_39_word_new_line3: 'useful
+
+  bridge
+
+  bird'
+bip_39_word_new_line4: 'useful
+
+  bridge
+
+  bird
+
+  subject'
+bip_39_word_new_line5: 'useful
+
+  bridge
+
+  bird
+
+  subject
+
+  flight'
+bip_39_word_new_line6: 'useful
+
+  bridge
+
+  bird
+
+  subject
+
+  flight
+
+  basket'
+bip_39_word_new_line7: 'useful
+
+  bridge
+
+  bird
+
+  subject
+
+  flight
+
+  basket
+
+  real'
+bip_39_word_new_line8: 'useful
+
+  bridge
+
+  bird
+
+  subject
+
+  flight
+
+  basket
+
+  real
+
+  disease'
+bip_39_word_new_line9: 'useful
+
+  bridge
+
+  bird
+
+  subject
+
+  flight
+
+  basket
+
+  real
+
+  disease
+
+  forum'
+bip_39_word_space_0:
+- useful
+- bridge
+- bird
+- subject
+- flight
+- basket
+- real
+- disease
+- forum
+- story
+- seek
+- allow
+bip_39_word_space_1: useful
+bip_39_word_space_10: useful bridge bird subject flight basket real disease forum
+  story
+bip_39_word_space_11: useful bridge bird subject flight basket real disease forum
+  story seek
+bip_39_word_space_12: useful bridge bird subject flight basket real disease forum
+  story seek allow
+bip_39_word_space_2: useful bridge
+bip_39_word_space_3: useful bridge bird
+bip_39_word_space_4: useful bridge bird subject
+bip_39_word_space_5: useful bridge bird subject flight
+bip_39_word_space_6: useful bridge bird subject flight basket
+bip_39_word_space_7: useful bridge bird subject flight basket real
+bip_39_word_space_8: useful bridge bird subject flight basket real disease
+bip_39_word_space_9: useful bridge bird subject flight basket real disease forum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

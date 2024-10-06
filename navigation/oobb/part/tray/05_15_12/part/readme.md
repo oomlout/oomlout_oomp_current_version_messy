@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: maple call
+  * bip 39 word 3: maple call knife
+  * bip 39 word: maple call knife pave income repair system retreat spell hobby rain actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | maple |  
+| bip_39_word_new_br10 | maple<br>call<br>knife<br>pave<br>income<br>repair<br>system<br>retreat<br>spell<br>hobby |  
+| bip_39_word_new_br11 | maple<br>call<br>knife<br>pave<br>income<br>repair<br>system<br>retreat<br>spell<br>hobby<br>rain |  
+| bip_39_word_new_br12 | maple<br>call<br>knife<br>pave<br>income<br>repair<br>system<br>retreat<br>spell<br>hobby<br>rain<br>actor |  
+| bip_39_word_new_br2 | maple<br>call |  
+| bip_39_word_new_br3 | maple<br>call<br>knife |  
+| bip_39_word_new_br4 | maple<br>call<br>knife<br>pave |  
+| bip_39_word_new_br5 | maple<br>call<br>knife<br>pave<br>income |  
+| bip_39_word_new_br6 | maple<br>call<br>knife<br>pave<br>income<br>repair |  
+| bip_39_word_new_br7 | maple<br>call<br>knife<br>pave<br>income<br>repair<br>system |  
+| bip_39_word_new_br8 | maple<br>call<br>knife<br>pave<br>income<br>repair<br>system<br>retreat |  
+| bip_39_word_new_br9 | maple<br>call<br>knife<br>pave<br>income<br>repair<br>system<br>retreat<br>spell |  
+| bip_39_word_new_line1 | maple |  
+| bip_39_word_new_line10 | maple
+call
+knife
+pave
+income
+repair
+system
+retreat
+spell
+hobby |  
+| bip_39_word_new_line11 | maple
+call
+knife
+pave
+income
+repair
+system
+retreat
+spell
+hobby
+rain |  
+| bip_39_word_new_line12 | maple
+call
+knife
+pave
+income
+repair
+system
+retreat
+spell
+hobby
+rain
+actor |  
+| bip_39_word_new_line2 | maple
+call |  
+| bip_39_word_new_line3 | maple
+call
+knife |  
+| bip_39_word_new_line4 | maple
+call
+knife
+pave |  
+| bip_39_word_new_line5 | maple
+call
+knife
+pave
+income |  
+| bip_39_word_new_line6 | maple
+call
+knife
+pave
+income
+repair |  
+| bip_39_word_new_line7 | maple
+call
+knife
+pave
+income
+repair
+system |  
+| bip_39_word_new_line8 | maple
+call
+knife
+pave
+income
+repair
+system
+retreat |  
+| bip_39_word_new_line9 | maple
+call
+knife
+pave
+income
+repair
+system
+retreat
+spell |  
+| bip_39_word_space_0 | ['maple', 'call', 'knife', 'pave', 'income', 'repair', 'system', 'retreat', 'spell', 'hobby', 'rain', 'actor'] |  
+| bip_39_word_space_1 | maple |  
+| bip_39_word_space_10 | maple call knife pave income repair system retreat spell hobby |  
+| bip_39_word_space_11 | maple call knife pave income repair system retreat spell hobby rain |  
+| bip_39_word_space_12 | maple call knife pave income repair system retreat spell hobby rain actor |  
+| bip_39_word_space_2 | maple call |  
+| bip_39_word_space_3 | maple call knife |  
+| bip_39_word_space_4 | maple call knife pave |  
+| bip_39_word_space_5 | maple call knife pave income |  
+| bip_39_word_space_6 | maple call knife pave income repair |  
+| bip_39_word_space_7 | maple call knife pave income repair system |  
+| bip_39_word_space_8 | maple call knife pave income repair system retreat |  
+| bip_39_word_space_9 | maple call knife pave income repair system retreat spell |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

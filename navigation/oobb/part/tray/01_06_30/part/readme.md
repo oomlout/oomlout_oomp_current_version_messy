@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pretty vintage
+  * bip 39 word 3: pretty vintage someone
+  * bip 39 word: pretty vintage someone thought else erode tortoise cluster entry lounge baby afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pretty |  
+| bip_39_word_new_br10 | pretty<br>vintage<br>someone<br>thought<br>else<br>erode<br>tortoise<br>cluster<br>entry<br>lounge |  
+| bip_39_word_new_br11 | pretty<br>vintage<br>someone<br>thought<br>else<br>erode<br>tortoise<br>cluster<br>entry<br>lounge<br>baby |  
+| bip_39_word_new_br12 | pretty<br>vintage<br>someone<br>thought<br>else<br>erode<br>tortoise<br>cluster<br>entry<br>lounge<br>baby<br>afraid |  
+| bip_39_word_new_br2 | pretty<br>vintage |  
+| bip_39_word_new_br3 | pretty<br>vintage<br>someone |  
+| bip_39_word_new_br4 | pretty<br>vintage<br>someone<br>thought |  
+| bip_39_word_new_br5 | pretty<br>vintage<br>someone<br>thought<br>else |  
+| bip_39_word_new_br6 | pretty<br>vintage<br>someone<br>thought<br>else<br>erode |  
+| bip_39_word_new_br7 | pretty<br>vintage<br>someone<br>thought<br>else<br>erode<br>tortoise |  
+| bip_39_word_new_br8 | pretty<br>vintage<br>someone<br>thought<br>else<br>erode<br>tortoise<br>cluster |  
+| bip_39_word_new_br9 | pretty<br>vintage<br>someone<br>thought<br>else<br>erode<br>tortoise<br>cluster<br>entry |  
+| bip_39_word_new_line1 | pretty |  
+| bip_39_word_new_line10 | pretty
+vintage
+someone
+thought
+else
+erode
+tortoise
+cluster
+entry
+lounge |  
+| bip_39_word_new_line11 | pretty
+vintage
+someone
+thought
+else
+erode
+tortoise
+cluster
+entry
+lounge
+baby |  
+| bip_39_word_new_line12 | pretty
+vintage
+someone
+thought
+else
+erode
+tortoise
+cluster
+entry
+lounge
+baby
+afraid |  
+| bip_39_word_new_line2 | pretty
+vintage |  
+| bip_39_word_new_line3 | pretty
+vintage
+someone |  
+| bip_39_word_new_line4 | pretty
+vintage
+someone
+thought |  
+| bip_39_word_new_line5 | pretty
+vintage
+someone
+thought
+else |  
+| bip_39_word_new_line6 | pretty
+vintage
+someone
+thought
+else
+erode |  
+| bip_39_word_new_line7 | pretty
+vintage
+someone
+thought
+else
+erode
+tortoise |  
+| bip_39_word_new_line8 | pretty
+vintage
+someone
+thought
+else
+erode
+tortoise
+cluster |  
+| bip_39_word_new_line9 | pretty
+vintage
+someone
+thought
+else
+erode
+tortoise
+cluster
+entry |  
+| bip_39_word_space_0 | ['pretty', 'vintage', 'someone', 'thought', 'else', 'erode', 'tortoise', 'cluster', 'entry', 'lounge', 'baby', 'afraid'] |  
+| bip_39_word_space_1 | pretty |  
+| bip_39_word_space_10 | pretty vintage someone thought else erode tortoise cluster entry lounge |  
+| bip_39_word_space_11 | pretty vintage someone thought else erode tortoise cluster entry lounge baby |  
+| bip_39_word_space_12 | pretty vintage someone thought else erode tortoise cluster entry lounge baby afraid |  
+| bip_39_word_space_2 | pretty vintage |  
+| bip_39_word_space_3 | pretty vintage someone |  
+| bip_39_word_space_4 | pretty vintage someone thought |  
+| bip_39_word_space_5 | pretty vintage someone thought else |  
+| bip_39_word_space_6 | pretty vintage someone thought else erode |  
+| bip_39_word_space_7 | pretty vintage someone thought else erode tortoise |  
+| bip_39_word_space_8 | pretty vintage someone thought else erode tortoise cluster |  
+| bip_39_word_space_9 | pretty vintage someone thought else erode tortoise cluster entry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

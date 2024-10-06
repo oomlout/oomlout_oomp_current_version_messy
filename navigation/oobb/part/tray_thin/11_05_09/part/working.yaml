@@ -1,3 +1,186 @@
+bip_39_word_new_br1: border
+bip_39_word_new_br10: border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire
+bip_39_word_new_br11: border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire<br>nurse
+bip_39_word_new_br12: border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade<br>inspire<br>nurse<br>admit
+bip_39_word_new_br2: border<br>over
+bip_39_word_new_br3: border<br>over<br>output
+bip_39_word_new_br4: border<br>over<br>output<br>adjust
+bip_39_word_new_br5: border<br>over<br>output<br>adjust<br>trick
+bip_39_word_new_br6: border<br>over<br>output<br>adjust<br>trick<br>law
+bip_39_word_new_br7: border<br>over<br>output<br>adjust<br>trick<br>law<br>twist
+bip_39_word_new_br8: border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut
+bip_39_word_new_br9: border<br>over<br>output<br>adjust<br>trick<br>law<br>twist<br>peanut<br>decade
+bip_39_word_new_line1: border
+bip_39_word_new_line10: 'border
+
+  over
+
+  output
+
+  adjust
+
+  trick
+
+  law
+
+  twist
+
+  peanut
+
+  decade
+
+  inspire'
+bip_39_word_new_line11: 'border
+
+  over
+
+  output
+
+  adjust
+
+  trick
+
+  law
+
+  twist
+
+  peanut
+
+  decade
+
+  inspire
+
+  nurse'
+bip_39_word_new_line12: 'border
+
+  over
+
+  output
+
+  adjust
+
+  trick
+
+  law
+
+  twist
+
+  peanut
+
+  decade
+
+  inspire
+
+  nurse
+
+  admit'
+bip_39_word_new_line2: 'border
+
+  over'
+bip_39_word_new_line3: 'border
+
+  over
+
+  output'
+bip_39_word_new_line4: 'border
+
+  over
+
+  output
+
+  adjust'
+bip_39_word_new_line5: 'border
+
+  over
+
+  output
+
+  adjust
+
+  trick'
+bip_39_word_new_line6: 'border
+
+  over
+
+  output
+
+  adjust
+
+  trick
+
+  law'
+bip_39_word_new_line7: 'border
+
+  over
+
+  output
+
+  adjust
+
+  trick
+
+  law
+
+  twist'
+bip_39_word_new_line8: 'border
+
+  over
+
+  output
+
+  adjust
+
+  trick
+
+  law
+
+  twist
+
+  peanut'
+bip_39_word_new_line9: 'border
+
+  over
+
+  output
+
+  adjust
+
+  trick
+
+  law
+
+  twist
+
+  peanut
+
+  decade'
+bip_39_word_space_0:
+- border
+- over
+- output
+- adjust
+- trick
+- law
+- twist
+- peanut
+- decade
+- inspire
+- nurse
+- admit
+bip_39_word_space_1: border
+bip_39_word_space_10: border over output adjust trick law twist peanut decade inspire
+bip_39_word_space_11: border over output adjust trick law twist peanut decade inspire
+  nurse
+bip_39_word_space_12: border over output adjust trick law twist peanut decade inspire
+  nurse admit
+bip_39_word_space_2: border over
+bip_39_word_space_3: border over output
+bip_39_word_space_4: border over output adjust
+bip_39_word_space_5: border over output adjust trick
+bip_39_word_space_6: border over output adjust trick law
+bip_39_word_space_7: border over output adjust trick law twist
+bip_39_word_space_8: border over output adjust trick law twist peanut
+bip_39_word_space_9: border over output adjust trick law twist peanut decade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

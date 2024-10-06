@@ -1,3 +1,187 @@
+bip_39_word_new_br1: envelope
+bip_39_word_new_br10: envelope<br>rebuild<br>promote<br>time<br>worry<br>what<br>trick<br>genuine<br>grit<br>endless
+bip_39_word_new_br11: envelope<br>rebuild<br>promote<br>time<br>worry<br>what<br>trick<br>genuine<br>grit<br>endless<br>near
+bip_39_word_new_br12: envelope<br>rebuild<br>promote<br>time<br>worry<br>what<br>trick<br>genuine<br>grit<br>endless<br>near<br>avocado
+bip_39_word_new_br2: envelope<br>rebuild
+bip_39_word_new_br3: envelope<br>rebuild<br>promote
+bip_39_word_new_br4: envelope<br>rebuild<br>promote<br>time
+bip_39_word_new_br5: envelope<br>rebuild<br>promote<br>time<br>worry
+bip_39_word_new_br6: envelope<br>rebuild<br>promote<br>time<br>worry<br>what
+bip_39_word_new_br7: envelope<br>rebuild<br>promote<br>time<br>worry<br>what<br>trick
+bip_39_word_new_br8: envelope<br>rebuild<br>promote<br>time<br>worry<br>what<br>trick<br>genuine
+bip_39_word_new_br9: envelope<br>rebuild<br>promote<br>time<br>worry<br>what<br>trick<br>genuine<br>grit
+bip_39_word_new_line1: envelope
+bip_39_word_new_line10: 'envelope
+
+  rebuild
+
+  promote
+
+  time
+
+  worry
+
+  what
+
+  trick
+
+  genuine
+
+  grit
+
+  endless'
+bip_39_word_new_line11: 'envelope
+
+  rebuild
+
+  promote
+
+  time
+
+  worry
+
+  what
+
+  trick
+
+  genuine
+
+  grit
+
+  endless
+
+  near'
+bip_39_word_new_line12: 'envelope
+
+  rebuild
+
+  promote
+
+  time
+
+  worry
+
+  what
+
+  trick
+
+  genuine
+
+  grit
+
+  endless
+
+  near
+
+  avocado'
+bip_39_word_new_line2: 'envelope
+
+  rebuild'
+bip_39_word_new_line3: 'envelope
+
+  rebuild
+
+  promote'
+bip_39_word_new_line4: 'envelope
+
+  rebuild
+
+  promote
+
+  time'
+bip_39_word_new_line5: 'envelope
+
+  rebuild
+
+  promote
+
+  time
+
+  worry'
+bip_39_word_new_line6: 'envelope
+
+  rebuild
+
+  promote
+
+  time
+
+  worry
+
+  what'
+bip_39_word_new_line7: 'envelope
+
+  rebuild
+
+  promote
+
+  time
+
+  worry
+
+  what
+
+  trick'
+bip_39_word_new_line8: 'envelope
+
+  rebuild
+
+  promote
+
+  time
+
+  worry
+
+  what
+
+  trick
+
+  genuine'
+bip_39_word_new_line9: 'envelope
+
+  rebuild
+
+  promote
+
+  time
+
+  worry
+
+  what
+
+  trick
+
+  genuine
+
+  grit'
+bip_39_word_space_0:
+- envelope
+- rebuild
+- promote
+- time
+- worry
+- what
+- trick
+- genuine
+- grit
+- endless
+- near
+- avocado
+bip_39_word_space_1: envelope
+bip_39_word_space_10: envelope rebuild promote time worry what trick genuine grit
+  endless
+bip_39_word_space_11: envelope rebuild promote time worry what trick genuine grit
+  endless near
+bip_39_word_space_12: envelope rebuild promote time worry what trick genuine grit
+  endless near avocado
+bip_39_word_space_2: envelope rebuild
+bip_39_word_space_3: envelope rebuild promote
+bip_39_word_space_4: envelope rebuild promote time
+bip_39_word_space_5: envelope rebuild promote time worry
+bip_39_word_space_6: envelope rebuild promote time worry what
+bip_39_word_space_7: envelope rebuild promote time worry what trick
+bip_39_word_space_8: envelope rebuild promote time worry what trick genuine
+bip_39_word_space_9: envelope rebuild promote time worry what trick genuine grit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

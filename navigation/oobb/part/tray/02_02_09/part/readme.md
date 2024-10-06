@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: produce ghost
+  * bip 39 word 3: produce ghost tornado
+  * bip 39 word: produce ghost tornado punch provide venture name also old forget skill air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | produce |  
+| bip_39_word_new_br10 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture<br>name<br>also<br>old<br>forget |  
+| bip_39_word_new_br11 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture<br>name<br>also<br>old<br>forget<br>skill |  
+| bip_39_word_new_br12 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture<br>name<br>also<br>old<br>forget<br>skill<br>air |  
+| bip_39_word_new_br2 | produce<br>ghost |  
+| bip_39_word_new_br3 | produce<br>ghost<br>tornado |  
+| bip_39_word_new_br4 | produce<br>ghost<br>tornado<br>punch |  
+| bip_39_word_new_br5 | produce<br>ghost<br>tornado<br>punch<br>provide |  
+| bip_39_word_new_br6 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture |  
+| bip_39_word_new_br7 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture<br>name |  
+| bip_39_word_new_br8 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture<br>name<br>also |  
+| bip_39_word_new_br9 | produce<br>ghost<br>tornado<br>punch<br>provide<br>venture<br>name<br>also<br>old |  
+| bip_39_word_new_line1 | produce |  
+| bip_39_word_new_line10 | produce
+ghost
+tornado
+punch
+provide
+venture
+name
+also
+old
+forget |  
+| bip_39_word_new_line11 | produce
+ghost
+tornado
+punch
+provide
+venture
+name
+also
+old
+forget
+skill |  
+| bip_39_word_new_line12 | produce
+ghost
+tornado
+punch
+provide
+venture
+name
+also
+old
+forget
+skill
+air |  
+| bip_39_word_new_line2 | produce
+ghost |  
+| bip_39_word_new_line3 | produce
+ghost
+tornado |  
+| bip_39_word_new_line4 | produce
+ghost
+tornado
+punch |  
+| bip_39_word_new_line5 | produce
+ghost
+tornado
+punch
+provide |  
+| bip_39_word_new_line6 | produce
+ghost
+tornado
+punch
+provide
+venture |  
+| bip_39_word_new_line7 | produce
+ghost
+tornado
+punch
+provide
+venture
+name |  
+| bip_39_word_new_line8 | produce
+ghost
+tornado
+punch
+provide
+venture
+name
+also |  
+| bip_39_word_new_line9 | produce
+ghost
+tornado
+punch
+provide
+venture
+name
+also
+old |  
+| bip_39_word_space_0 | ['produce', 'ghost', 'tornado', 'punch', 'provide', 'venture', 'name', 'also', 'old', 'forget', 'skill', 'air'] |  
+| bip_39_word_space_1 | produce |  
+| bip_39_word_space_10 | produce ghost tornado punch provide venture name also old forget |  
+| bip_39_word_space_11 | produce ghost tornado punch provide venture name also old forget skill |  
+| bip_39_word_space_12 | produce ghost tornado punch provide venture name also old forget skill air |  
+| bip_39_word_space_2 | produce ghost |  
+| bip_39_word_space_3 | produce ghost tornado |  
+| bip_39_word_space_4 | produce ghost tornado punch |  
+| bip_39_word_space_5 | produce ghost tornado punch provide |  
+| bip_39_word_space_6 | produce ghost tornado punch provide venture |  
+| bip_39_word_space_7 | produce ghost tornado punch provide venture name |  
+| bip_39_word_space_8 | produce ghost tornado punch provide venture name also |  
+| bip_39_word_space_9 | produce ghost tornado punch provide venture name also old |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: machine lamp
+  * bip 39 word 3: machine lamp dawn
+  * bip 39 word: machine lamp dawn armor submit genuine attack rare three country black autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | machine |  
+| bip_39_word_new_br10 | machine<br>lamp<br>dawn<br>armor<br>submit<br>genuine<br>attack<br>rare<br>three<br>country |  
+| bip_39_word_new_br11 | machine<br>lamp<br>dawn<br>armor<br>submit<br>genuine<br>attack<br>rare<br>three<br>country<br>black |  
+| bip_39_word_new_br12 | machine<br>lamp<br>dawn<br>armor<br>submit<br>genuine<br>attack<br>rare<br>three<br>country<br>black<br>autumn |  
+| bip_39_word_new_br2 | machine<br>lamp |  
+| bip_39_word_new_br3 | machine<br>lamp<br>dawn |  
+| bip_39_word_new_br4 | machine<br>lamp<br>dawn<br>armor |  
+| bip_39_word_new_br5 | machine<br>lamp<br>dawn<br>armor<br>submit |  
+| bip_39_word_new_br6 | machine<br>lamp<br>dawn<br>armor<br>submit<br>genuine |  
+| bip_39_word_new_br7 | machine<br>lamp<br>dawn<br>armor<br>submit<br>genuine<br>attack |  
+| bip_39_word_new_br8 | machine<br>lamp<br>dawn<br>armor<br>submit<br>genuine<br>attack<br>rare |  
+| bip_39_word_new_br9 | machine<br>lamp<br>dawn<br>armor<br>submit<br>genuine<br>attack<br>rare<br>three |  
+| bip_39_word_new_line1 | machine |  
+| bip_39_word_new_line10 | machine
+lamp
+dawn
+armor
+submit
+genuine
+attack
+rare
+three
+country |  
+| bip_39_word_new_line11 | machine
+lamp
+dawn
+armor
+submit
+genuine
+attack
+rare
+three
+country
+black |  
+| bip_39_word_new_line12 | machine
+lamp
+dawn
+armor
+submit
+genuine
+attack
+rare
+three
+country
+black
+autumn |  
+| bip_39_word_new_line2 | machine
+lamp |  
+| bip_39_word_new_line3 | machine
+lamp
+dawn |  
+| bip_39_word_new_line4 | machine
+lamp
+dawn
+armor |  
+| bip_39_word_new_line5 | machine
+lamp
+dawn
+armor
+submit |  
+| bip_39_word_new_line6 | machine
+lamp
+dawn
+armor
+submit
+genuine |  
+| bip_39_word_new_line7 | machine
+lamp
+dawn
+armor
+submit
+genuine
+attack |  
+| bip_39_word_new_line8 | machine
+lamp
+dawn
+armor
+submit
+genuine
+attack
+rare |  
+| bip_39_word_new_line9 | machine
+lamp
+dawn
+armor
+submit
+genuine
+attack
+rare
+three |  
+| bip_39_word_space_0 | ['machine', 'lamp', 'dawn', 'armor', 'submit', 'genuine', 'attack', 'rare', 'three', 'country', 'black', 'autumn'] |  
+| bip_39_word_space_1 | machine |  
+| bip_39_word_space_10 | machine lamp dawn armor submit genuine attack rare three country |  
+| bip_39_word_space_11 | machine lamp dawn armor submit genuine attack rare three country black |  
+| bip_39_word_space_12 | machine lamp dawn armor submit genuine attack rare three country black autumn |  
+| bip_39_word_space_2 | machine lamp |  
+| bip_39_word_space_3 | machine lamp dawn |  
+| bip_39_word_space_4 | machine lamp dawn armor |  
+| bip_39_word_space_5 | machine lamp dawn armor submit |  
+| bip_39_word_space_6 | machine lamp dawn armor submit genuine |  
+| bip_39_word_space_7 | machine lamp dawn armor submit genuine attack |  
+| bip_39_word_space_8 | machine lamp dawn armor submit genuine attack rare |  
+| bip_39_word_space_9 | machine lamp dawn armor submit genuine attack rare three |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

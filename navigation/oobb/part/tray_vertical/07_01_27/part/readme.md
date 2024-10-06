@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: will plate
+  * bip 39 word 3: will plate evolve
+  * bip 39 word: will plate evolve body harbor balance weird flavor wagon history gather advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | will |  
+| bip_39_word_new_br10 | will<br>plate<br>evolve<br>body<br>harbor<br>balance<br>weird<br>flavor<br>wagon<br>history |  
+| bip_39_word_new_br11 | will<br>plate<br>evolve<br>body<br>harbor<br>balance<br>weird<br>flavor<br>wagon<br>history<br>gather |  
+| bip_39_word_new_br12 | will<br>plate<br>evolve<br>body<br>harbor<br>balance<br>weird<br>flavor<br>wagon<br>history<br>gather<br>advance |  
+| bip_39_word_new_br2 | will<br>plate |  
+| bip_39_word_new_br3 | will<br>plate<br>evolve |  
+| bip_39_word_new_br4 | will<br>plate<br>evolve<br>body |  
+| bip_39_word_new_br5 | will<br>plate<br>evolve<br>body<br>harbor |  
+| bip_39_word_new_br6 | will<br>plate<br>evolve<br>body<br>harbor<br>balance |  
+| bip_39_word_new_br7 | will<br>plate<br>evolve<br>body<br>harbor<br>balance<br>weird |  
+| bip_39_word_new_br8 | will<br>plate<br>evolve<br>body<br>harbor<br>balance<br>weird<br>flavor |  
+| bip_39_word_new_br9 | will<br>plate<br>evolve<br>body<br>harbor<br>balance<br>weird<br>flavor<br>wagon |  
+| bip_39_word_new_line1 | will |  
+| bip_39_word_new_line10 | will
+plate
+evolve
+body
+harbor
+balance
+weird
+flavor
+wagon
+history |  
+| bip_39_word_new_line11 | will
+plate
+evolve
+body
+harbor
+balance
+weird
+flavor
+wagon
+history
+gather |  
+| bip_39_word_new_line12 | will
+plate
+evolve
+body
+harbor
+balance
+weird
+flavor
+wagon
+history
+gather
+advance |  
+| bip_39_word_new_line2 | will
+plate |  
+| bip_39_word_new_line3 | will
+plate
+evolve |  
+| bip_39_word_new_line4 | will
+plate
+evolve
+body |  
+| bip_39_word_new_line5 | will
+plate
+evolve
+body
+harbor |  
+| bip_39_word_new_line6 | will
+plate
+evolve
+body
+harbor
+balance |  
+| bip_39_word_new_line7 | will
+plate
+evolve
+body
+harbor
+balance
+weird |  
+| bip_39_word_new_line8 | will
+plate
+evolve
+body
+harbor
+balance
+weird
+flavor |  
+| bip_39_word_new_line9 | will
+plate
+evolve
+body
+harbor
+balance
+weird
+flavor
+wagon |  
+| bip_39_word_space_0 | ['will', 'plate', 'evolve', 'body', 'harbor', 'balance', 'weird', 'flavor', 'wagon', 'history', 'gather', 'advance'] |  
+| bip_39_word_space_1 | will |  
+| bip_39_word_space_10 | will plate evolve body harbor balance weird flavor wagon history |  
+| bip_39_word_space_11 | will plate evolve body harbor balance weird flavor wagon history gather |  
+| bip_39_word_space_12 | will plate evolve body harbor balance weird flavor wagon history gather advance |  
+| bip_39_word_space_2 | will plate |  
+| bip_39_word_space_3 | will plate evolve |  
+| bip_39_word_space_4 | will plate evolve body |  
+| bip_39_word_space_5 | will plate evolve body harbor |  
+| bip_39_word_space_6 | will plate evolve body harbor balance |  
+| bip_39_word_space_7 | will plate evolve body harbor balance weird |  
+| bip_39_word_space_8 | will plate evolve body harbor balance weird flavor |  
+| bip_39_word_space_9 | will plate evolve body harbor balance weird flavor wagon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

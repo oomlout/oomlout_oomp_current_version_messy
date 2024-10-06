@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fold skirt
+  * bip 39 word 3: fold skirt snake
+  * bip 39 word: fold skirt snake oppose bounce worth myself fit science rifle north act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fold |  
+| bip_39_word_new_br10 | fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle |  
+| bip_39_word_new_br11 | fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle<br>north |  
+| bip_39_word_new_br12 | fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science<br>rifle<br>north<br>act |  
+| bip_39_word_new_br2 | fold<br>skirt |  
+| bip_39_word_new_br3 | fold<br>skirt<br>snake |  
+| bip_39_word_new_br4 | fold<br>skirt<br>snake<br>oppose |  
+| bip_39_word_new_br5 | fold<br>skirt<br>snake<br>oppose<br>bounce |  
+| bip_39_word_new_br6 | fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth |  
+| bip_39_word_new_br7 | fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself |  
+| bip_39_word_new_br8 | fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit |  
+| bip_39_word_new_br9 | fold<br>skirt<br>snake<br>oppose<br>bounce<br>worth<br>myself<br>fit<br>science |  
+| bip_39_word_new_line1 | fold |  
+| bip_39_word_new_line10 | fold
+skirt
+snake
+oppose
+bounce
+worth
+myself
+fit
+science
+rifle |  
+| bip_39_word_new_line11 | fold
+skirt
+snake
+oppose
+bounce
+worth
+myself
+fit
+science
+rifle
+north |  
+| bip_39_word_new_line12 | fold
+skirt
+snake
+oppose
+bounce
+worth
+myself
+fit
+science
+rifle
+north
+act |  
+| bip_39_word_new_line2 | fold
+skirt |  
+| bip_39_word_new_line3 | fold
+skirt
+snake |  
+| bip_39_word_new_line4 | fold
+skirt
+snake
+oppose |  
+| bip_39_word_new_line5 | fold
+skirt
+snake
+oppose
+bounce |  
+| bip_39_word_new_line6 | fold
+skirt
+snake
+oppose
+bounce
+worth |  
+| bip_39_word_new_line7 | fold
+skirt
+snake
+oppose
+bounce
+worth
+myself |  
+| bip_39_word_new_line8 | fold
+skirt
+snake
+oppose
+bounce
+worth
+myself
+fit |  
+| bip_39_word_new_line9 | fold
+skirt
+snake
+oppose
+bounce
+worth
+myself
+fit
+science |  
+| bip_39_word_space_0 | ['fold', 'skirt', 'snake', 'oppose', 'bounce', 'worth', 'myself', 'fit', 'science', 'rifle', 'north', 'act'] |  
+| bip_39_word_space_1 | fold |  
+| bip_39_word_space_10 | fold skirt snake oppose bounce worth myself fit science rifle |  
+| bip_39_word_space_11 | fold skirt snake oppose bounce worth myself fit science rifle north |  
+| bip_39_word_space_12 | fold skirt snake oppose bounce worth myself fit science rifle north act |  
+| bip_39_word_space_2 | fold skirt |  
+| bip_39_word_space_3 | fold skirt snake |  
+| bip_39_word_space_4 | fold skirt snake oppose |  
+| bip_39_word_space_5 | fold skirt snake oppose bounce |  
+| bip_39_word_space_6 | fold skirt snake oppose bounce worth |  
+| bip_39_word_space_7 | fold skirt snake oppose bounce worth myself |  
+| bip_39_word_space_8 | fold skirt snake oppose bounce worth myself fit |  
+| bip_39_word_space_9 | fold skirt snake oppose bounce worth myself fit science |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

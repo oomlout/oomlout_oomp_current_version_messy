@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tomato obey
+  * bip 39 word 3: tomato obey idea
+  * bip 39 word: tomato obey idea reveal relief aware food noise cause put borrow alcohol
 
 ### other_codes
 * short_code: fh2b6p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tomato |  
+| bip_39_word_new_br10 | tomato<br>obey<br>idea<br>reveal<br>relief<br>aware<br>food<br>noise<br>cause<br>put |  
+| bip_39_word_new_br11 | tomato<br>obey<br>idea<br>reveal<br>relief<br>aware<br>food<br>noise<br>cause<br>put<br>borrow |  
+| bip_39_word_new_br12 | tomato<br>obey<br>idea<br>reveal<br>relief<br>aware<br>food<br>noise<br>cause<br>put<br>borrow<br>alcohol |  
+| bip_39_word_new_br2 | tomato<br>obey |  
+| bip_39_word_new_br3 | tomato<br>obey<br>idea |  
+| bip_39_word_new_br4 | tomato<br>obey<br>idea<br>reveal |  
+| bip_39_word_new_br5 | tomato<br>obey<br>idea<br>reveal<br>relief |  
+| bip_39_word_new_br6 | tomato<br>obey<br>idea<br>reveal<br>relief<br>aware |  
+| bip_39_word_new_br7 | tomato<br>obey<br>idea<br>reveal<br>relief<br>aware<br>food |  
+| bip_39_word_new_br8 | tomato<br>obey<br>idea<br>reveal<br>relief<br>aware<br>food<br>noise |  
+| bip_39_word_new_br9 | tomato<br>obey<br>idea<br>reveal<br>relief<br>aware<br>food<br>noise<br>cause |  
+| bip_39_word_new_line1 | tomato |  
+| bip_39_word_new_line10 | tomato
+obey
+idea
+reveal
+relief
+aware
+food
+noise
+cause
+put |  
+| bip_39_word_new_line11 | tomato
+obey
+idea
+reveal
+relief
+aware
+food
+noise
+cause
+put
+borrow |  
+| bip_39_word_new_line12 | tomato
+obey
+idea
+reveal
+relief
+aware
+food
+noise
+cause
+put
+borrow
+alcohol |  
+| bip_39_word_new_line2 | tomato
+obey |  
+| bip_39_word_new_line3 | tomato
+obey
+idea |  
+| bip_39_word_new_line4 | tomato
+obey
+idea
+reveal |  
+| bip_39_word_new_line5 | tomato
+obey
+idea
+reveal
+relief |  
+| bip_39_word_new_line6 | tomato
+obey
+idea
+reveal
+relief
+aware |  
+| bip_39_word_new_line7 | tomato
+obey
+idea
+reveal
+relief
+aware
+food |  
+| bip_39_word_new_line8 | tomato
+obey
+idea
+reveal
+relief
+aware
+food
+noise |  
+| bip_39_word_new_line9 | tomato
+obey
+idea
+reveal
+relief
+aware
+food
+noise
+cause |  
+| bip_39_word_space_0 | ['tomato', 'obey', 'idea', 'reveal', 'relief', 'aware', 'food', 'noise', 'cause', 'put', 'borrow', 'alcohol'] |  
+| bip_39_word_space_1 | tomato |  
+| bip_39_word_space_10 | tomato obey idea reveal relief aware food noise cause put |  
+| bip_39_word_space_11 | tomato obey idea reveal relief aware food noise cause put borrow |  
+| bip_39_word_space_12 | tomato obey idea reveal relief aware food noise cause put borrow alcohol |  
+| bip_39_word_space_2 | tomato obey |  
+| bip_39_word_space_3 | tomato obey idea |  
+| bip_39_word_space_4 | tomato obey idea reveal |  
+| bip_39_word_space_5 | tomato obey idea reveal relief |  
+| bip_39_word_space_6 | tomato obey idea reveal relief aware |  
+| bip_39_word_space_7 | tomato obey idea reveal relief aware food |  
+| bip_39_word_space_8 | tomato obey idea reveal relief aware food noise |  
+| bip_39_word_space_9 | tomato obey idea reveal relief aware food noise cause |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: near cube
+  * bip 39 word 3: near cube property
+  * bip 39 word: near cube property vocal close uniform veteran crazy upon crunch banana aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | near |  
+| bip_39_word_new_br10 | near<br>cube<br>property<br>vocal<br>close<br>uniform<br>veteran<br>crazy<br>upon<br>crunch |  
+| bip_39_word_new_br11 | near<br>cube<br>property<br>vocal<br>close<br>uniform<br>veteran<br>crazy<br>upon<br>crunch<br>banana |  
+| bip_39_word_new_br12 | near<br>cube<br>property<br>vocal<br>close<br>uniform<br>veteran<br>crazy<br>upon<br>crunch<br>banana<br>aisle |  
+| bip_39_word_new_br2 | near<br>cube |  
+| bip_39_word_new_br3 | near<br>cube<br>property |  
+| bip_39_word_new_br4 | near<br>cube<br>property<br>vocal |  
+| bip_39_word_new_br5 | near<br>cube<br>property<br>vocal<br>close |  
+| bip_39_word_new_br6 | near<br>cube<br>property<br>vocal<br>close<br>uniform |  
+| bip_39_word_new_br7 | near<br>cube<br>property<br>vocal<br>close<br>uniform<br>veteran |  
+| bip_39_word_new_br8 | near<br>cube<br>property<br>vocal<br>close<br>uniform<br>veteran<br>crazy |  
+| bip_39_word_new_br9 | near<br>cube<br>property<br>vocal<br>close<br>uniform<br>veteran<br>crazy<br>upon |  
+| bip_39_word_new_line1 | near |  
+| bip_39_word_new_line10 | near
+cube
+property
+vocal
+close
+uniform
+veteran
+crazy
+upon
+crunch |  
+| bip_39_word_new_line11 | near
+cube
+property
+vocal
+close
+uniform
+veteran
+crazy
+upon
+crunch
+banana |  
+| bip_39_word_new_line12 | near
+cube
+property
+vocal
+close
+uniform
+veteran
+crazy
+upon
+crunch
+banana
+aisle |  
+| bip_39_word_new_line2 | near
+cube |  
+| bip_39_word_new_line3 | near
+cube
+property |  
+| bip_39_word_new_line4 | near
+cube
+property
+vocal |  
+| bip_39_word_new_line5 | near
+cube
+property
+vocal
+close |  
+| bip_39_word_new_line6 | near
+cube
+property
+vocal
+close
+uniform |  
+| bip_39_word_new_line7 | near
+cube
+property
+vocal
+close
+uniform
+veteran |  
+| bip_39_word_new_line8 | near
+cube
+property
+vocal
+close
+uniform
+veteran
+crazy |  
+| bip_39_word_new_line9 | near
+cube
+property
+vocal
+close
+uniform
+veteran
+crazy
+upon |  
+| bip_39_word_space_0 | ['near', 'cube', 'property', 'vocal', 'close', 'uniform', 'veteran', 'crazy', 'upon', 'crunch', 'banana', 'aisle'] |  
+| bip_39_word_space_1 | near |  
+| bip_39_word_space_10 | near cube property vocal close uniform veteran crazy upon crunch |  
+| bip_39_word_space_11 | near cube property vocal close uniform veteran crazy upon crunch banana |  
+| bip_39_word_space_12 | near cube property vocal close uniform veteran crazy upon crunch banana aisle |  
+| bip_39_word_space_2 | near cube |  
+| bip_39_word_space_3 | near cube property |  
+| bip_39_word_space_4 | near cube property vocal |  
+| bip_39_word_space_5 | near cube property vocal close |  
+| bip_39_word_space_6 | near cube property vocal close uniform |  
+| bip_39_word_space_7 | near cube property vocal close uniform veteran |  
+| bip_39_word_space_8 | near cube property vocal close uniform veteran crazy |  
+| bip_39_word_space_9 | near cube property vocal close uniform veteran crazy upon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

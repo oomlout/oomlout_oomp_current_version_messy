@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: book borrow
+  * bip 39 word 3: book borrow maze
+  * bip 39 word: book borrow maze sniff sign trap hello spread tray across easily aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | book |  
+| bip_39_word_new_br10 | book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread<br>tray<br>across |  
+| bip_39_word_new_br11 | book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread<br>tray<br>across<br>easily |  
+| bip_39_word_new_br12 | book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread<br>tray<br>across<br>easily<br>aspect |  
+| bip_39_word_new_br2 | book<br>borrow |  
+| bip_39_word_new_br3 | book<br>borrow<br>maze |  
+| bip_39_word_new_br4 | book<br>borrow<br>maze<br>sniff |  
+| bip_39_word_new_br5 | book<br>borrow<br>maze<br>sniff<br>sign |  
+| bip_39_word_new_br6 | book<br>borrow<br>maze<br>sniff<br>sign<br>trap |  
+| bip_39_word_new_br7 | book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello |  
+| bip_39_word_new_br8 | book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread |  
+| bip_39_word_new_br9 | book<br>borrow<br>maze<br>sniff<br>sign<br>trap<br>hello<br>spread<br>tray |  
+| bip_39_word_new_line1 | book |  
+| bip_39_word_new_line10 | book
+borrow
+maze
+sniff
+sign
+trap
+hello
+spread
+tray
+across |  
+| bip_39_word_new_line11 | book
+borrow
+maze
+sniff
+sign
+trap
+hello
+spread
+tray
+across
+easily |  
+| bip_39_word_new_line12 | book
+borrow
+maze
+sniff
+sign
+trap
+hello
+spread
+tray
+across
+easily
+aspect |  
+| bip_39_word_new_line2 | book
+borrow |  
+| bip_39_word_new_line3 | book
+borrow
+maze |  
+| bip_39_word_new_line4 | book
+borrow
+maze
+sniff |  
+| bip_39_word_new_line5 | book
+borrow
+maze
+sniff
+sign |  
+| bip_39_word_new_line6 | book
+borrow
+maze
+sniff
+sign
+trap |  
+| bip_39_word_new_line7 | book
+borrow
+maze
+sniff
+sign
+trap
+hello |  
+| bip_39_word_new_line8 | book
+borrow
+maze
+sniff
+sign
+trap
+hello
+spread |  
+| bip_39_word_new_line9 | book
+borrow
+maze
+sniff
+sign
+trap
+hello
+spread
+tray |  
+| bip_39_word_space_0 | ['book', 'borrow', 'maze', 'sniff', 'sign', 'trap', 'hello', 'spread', 'tray', 'across', 'easily', 'aspect'] |  
+| bip_39_word_space_1 | book |  
+| bip_39_word_space_10 | book borrow maze sniff sign trap hello spread tray across |  
+| bip_39_word_space_11 | book borrow maze sniff sign trap hello spread tray across easily |  
+| bip_39_word_space_12 | book borrow maze sniff sign trap hello spread tray across easily aspect |  
+| bip_39_word_space_2 | book borrow |  
+| bip_39_word_space_3 | book borrow maze |  
+| bip_39_word_space_4 | book borrow maze sniff |  
+| bip_39_word_space_5 | book borrow maze sniff sign |  
+| bip_39_word_space_6 | book borrow maze sniff sign trap |  
+| bip_39_word_space_7 | book borrow maze sniff sign trap hello |  
+| bip_39_word_space_8 | book borrow maze sniff sign trap hello spread |  
+| bip_39_word_space_9 | book borrow maze sniff sign trap hello spread tray |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

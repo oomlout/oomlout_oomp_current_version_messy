@@ -1,3 +1,186 @@
+bip_39_word_new_br1: what
+bip_39_word_new_br10: what<br>garage<br>amazing<br>great<br>exist<br>giant<br>age<br>brick<br>addict<br>fish
+bip_39_word_new_br11: what<br>garage<br>amazing<br>great<br>exist<br>giant<br>age<br>brick<br>addict<br>fish<br>future
+bip_39_word_new_br12: what<br>garage<br>amazing<br>great<br>exist<br>giant<br>age<br>brick<br>addict<br>fish<br>future<br>also
+bip_39_word_new_br2: what<br>garage
+bip_39_word_new_br3: what<br>garage<br>amazing
+bip_39_word_new_br4: what<br>garage<br>amazing<br>great
+bip_39_word_new_br5: what<br>garage<br>amazing<br>great<br>exist
+bip_39_word_new_br6: what<br>garage<br>amazing<br>great<br>exist<br>giant
+bip_39_word_new_br7: what<br>garage<br>amazing<br>great<br>exist<br>giant<br>age
+bip_39_word_new_br8: what<br>garage<br>amazing<br>great<br>exist<br>giant<br>age<br>brick
+bip_39_word_new_br9: what<br>garage<br>amazing<br>great<br>exist<br>giant<br>age<br>brick<br>addict
+bip_39_word_new_line1: what
+bip_39_word_new_line10: 'what
+
+  garage
+
+  amazing
+
+  great
+
+  exist
+
+  giant
+
+  age
+
+  brick
+
+  addict
+
+  fish'
+bip_39_word_new_line11: 'what
+
+  garage
+
+  amazing
+
+  great
+
+  exist
+
+  giant
+
+  age
+
+  brick
+
+  addict
+
+  fish
+
+  future'
+bip_39_word_new_line12: 'what
+
+  garage
+
+  amazing
+
+  great
+
+  exist
+
+  giant
+
+  age
+
+  brick
+
+  addict
+
+  fish
+
+  future
+
+  also'
+bip_39_word_new_line2: 'what
+
+  garage'
+bip_39_word_new_line3: 'what
+
+  garage
+
+  amazing'
+bip_39_word_new_line4: 'what
+
+  garage
+
+  amazing
+
+  great'
+bip_39_word_new_line5: 'what
+
+  garage
+
+  amazing
+
+  great
+
+  exist'
+bip_39_word_new_line6: 'what
+
+  garage
+
+  amazing
+
+  great
+
+  exist
+
+  giant'
+bip_39_word_new_line7: 'what
+
+  garage
+
+  amazing
+
+  great
+
+  exist
+
+  giant
+
+  age'
+bip_39_word_new_line8: 'what
+
+  garage
+
+  amazing
+
+  great
+
+  exist
+
+  giant
+
+  age
+
+  brick'
+bip_39_word_new_line9: 'what
+
+  garage
+
+  amazing
+
+  great
+
+  exist
+
+  giant
+
+  age
+
+  brick
+
+  addict'
+bip_39_word_space_0:
+- what
+- garage
+- amazing
+- great
+- exist
+- giant
+- age
+- brick
+- addict
+- fish
+- future
+- also
+bip_39_word_space_1: what
+bip_39_word_space_10: what garage amazing great exist giant age brick addict fish
+bip_39_word_space_11: what garage amazing great exist giant age brick addict fish
+  future
+bip_39_word_space_12: what garage amazing great exist giant age brick addict fish
+  future also
+bip_39_word_space_2: what garage
+bip_39_word_space_3: what garage amazing
+bip_39_word_space_4: what garage amazing great
+bip_39_word_space_5: what garage amazing great exist
+bip_39_word_space_6: what garage amazing great exist giant
+bip_39_word_space_7: what garage amazing great exist giant age
+bip_39_word_space_8: what garage amazing great exist giant age brick
+bip_39_word_space_9: what garage amazing great exist giant age brick addict
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

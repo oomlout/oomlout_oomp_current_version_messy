@@ -1,3 +1,186 @@
+bip_39_word_new_br1: milk
+bip_39_word_new_br10: milk<br>measure<br>angry<br>tone<br>sing<br>stamp<br>unfair<br>two<br>adjust<br>embark
+bip_39_word_new_br11: milk<br>measure<br>angry<br>tone<br>sing<br>stamp<br>unfair<br>two<br>adjust<br>embark<br>purity
+bip_39_word_new_br12: milk<br>measure<br>angry<br>tone<br>sing<br>stamp<br>unfair<br>two<br>adjust<br>embark<br>purity<br>audit
+bip_39_word_new_br2: milk<br>measure
+bip_39_word_new_br3: milk<br>measure<br>angry
+bip_39_word_new_br4: milk<br>measure<br>angry<br>tone
+bip_39_word_new_br5: milk<br>measure<br>angry<br>tone<br>sing
+bip_39_word_new_br6: milk<br>measure<br>angry<br>tone<br>sing<br>stamp
+bip_39_word_new_br7: milk<br>measure<br>angry<br>tone<br>sing<br>stamp<br>unfair
+bip_39_word_new_br8: milk<br>measure<br>angry<br>tone<br>sing<br>stamp<br>unfair<br>two
+bip_39_word_new_br9: milk<br>measure<br>angry<br>tone<br>sing<br>stamp<br>unfair<br>two<br>adjust
+bip_39_word_new_line1: milk
+bip_39_word_new_line10: 'milk
+
+  measure
+
+  angry
+
+  tone
+
+  sing
+
+  stamp
+
+  unfair
+
+  two
+
+  adjust
+
+  embark'
+bip_39_word_new_line11: 'milk
+
+  measure
+
+  angry
+
+  tone
+
+  sing
+
+  stamp
+
+  unfair
+
+  two
+
+  adjust
+
+  embark
+
+  purity'
+bip_39_word_new_line12: 'milk
+
+  measure
+
+  angry
+
+  tone
+
+  sing
+
+  stamp
+
+  unfair
+
+  two
+
+  adjust
+
+  embark
+
+  purity
+
+  audit'
+bip_39_word_new_line2: 'milk
+
+  measure'
+bip_39_word_new_line3: 'milk
+
+  measure
+
+  angry'
+bip_39_word_new_line4: 'milk
+
+  measure
+
+  angry
+
+  tone'
+bip_39_word_new_line5: 'milk
+
+  measure
+
+  angry
+
+  tone
+
+  sing'
+bip_39_word_new_line6: 'milk
+
+  measure
+
+  angry
+
+  tone
+
+  sing
+
+  stamp'
+bip_39_word_new_line7: 'milk
+
+  measure
+
+  angry
+
+  tone
+
+  sing
+
+  stamp
+
+  unfair'
+bip_39_word_new_line8: 'milk
+
+  measure
+
+  angry
+
+  tone
+
+  sing
+
+  stamp
+
+  unfair
+
+  two'
+bip_39_word_new_line9: 'milk
+
+  measure
+
+  angry
+
+  tone
+
+  sing
+
+  stamp
+
+  unfair
+
+  two
+
+  adjust'
+bip_39_word_space_0:
+- milk
+- measure
+- angry
+- tone
+- sing
+- stamp
+- unfair
+- two
+- adjust
+- embark
+- purity
+- audit
+bip_39_word_space_1: milk
+bip_39_word_space_10: milk measure angry tone sing stamp unfair two adjust embark
+bip_39_word_space_11: milk measure angry tone sing stamp unfair two adjust embark
+  purity
+bip_39_word_space_12: milk measure angry tone sing stamp unfair two adjust embark
+  purity audit
+bip_39_word_space_2: milk measure
+bip_39_word_space_3: milk measure angry
+bip_39_word_space_4: milk measure angry tone
+bip_39_word_space_5: milk measure angry tone sing
+bip_39_word_space_6: milk measure angry tone sing stamp
+bip_39_word_space_7: milk measure angry tone sing stamp unfair
+bip_39_word_space_8: milk measure angry tone sing stamp unfair two
+bip_39_word_space_9: milk measure angry tone sing stamp unfair two adjust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

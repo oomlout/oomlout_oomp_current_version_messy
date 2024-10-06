@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: price heavy
+  * bip 39 word 3: price heavy desk
+  * bip 39 word: price heavy desk venture direct angry weapon buddy supreme live dune average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | price |  
+| bip_39_word_new_br10 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live |  
+| bip_39_word_new_br11 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune |  
+| bip_39_word_new_br12 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune<br>average |  
+| bip_39_word_new_br2 | price<br>heavy |  
+| bip_39_word_new_br3 | price<br>heavy<br>desk |  
+| bip_39_word_new_br4 | price<br>heavy<br>desk<br>venture |  
+| bip_39_word_new_br5 | price<br>heavy<br>desk<br>venture<br>direct |  
+| bip_39_word_new_br6 | price<br>heavy<br>desk<br>venture<br>direct<br>angry |  
+| bip_39_word_new_br7 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon |  
+| bip_39_word_new_br8 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy |  
+| bip_39_word_new_br9 | price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme |  
+| bip_39_word_new_line1 | price |  
+| bip_39_word_new_line10 | price
+heavy
+desk
+venture
+direct
+angry
+weapon
+buddy
+supreme
+live |  
+| bip_39_word_new_line11 | price
+heavy
+desk
+venture
+direct
+angry
+weapon
+buddy
+supreme
+live
+dune |  
+| bip_39_word_new_line12 | price
+heavy
+desk
+venture
+direct
+angry
+weapon
+buddy
+supreme
+live
+dune
+average |  
+| bip_39_word_new_line2 | price
+heavy |  
+| bip_39_word_new_line3 | price
+heavy
+desk |  
+| bip_39_word_new_line4 | price
+heavy
+desk
+venture |  
+| bip_39_word_new_line5 | price
+heavy
+desk
+venture
+direct |  
+| bip_39_word_new_line6 | price
+heavy
+desk
+venture
+direct
+angry |  
+| bip_39_word_new_line7 | price
+heavy
+desk
+venture
+direct
+angry
+weapon |  
+| bip_39_word_new_line8 | price
+heavy
+desk
+venture
+direct
+angry
+weapon
+buddy |  
+| bip_39_word_new_line9 | price
+heavy
+desk
+venture
+direct
+angry
+weapon
+buddy
+supreme |  
+| bip_39_word_space_0 | ['price', 'heavy', 'desk', 'venture', 'direct', 'angry', 'weapon', 'buddy', 'supreme', 'live', 'dune', 'average'] |  
+| bip_39_word_space_1 | price |  
+| bip_39_word_space_10 | price heavy desk venture direct angry weapon buddy supreme live |  
+| bip_39_word_space_11 | price heavy desk venture direct angry weapon buddy supreme live dune |  
+| bip_39_word_space_12 | price heavy desk venture direct angry weapon buddy supreme live dune average |  
+| bip_39_word_space_2 | price heavy |  
+| bip_39_word_space_3 | price heavy desk |  
+| bip_39_word_space_4 | price heavy desk venture |  
+| bip_39_word_space_5 | price heavy desk venture direct |  
+| bip_39_word_space_6 | price heavy desk venture direct angry |  
+| bip_39_word_space_7 | price heavy desk venture direct angry weapon |  
+| bip_39_word_space_8 | price heavy desk venture direct angry weapon buddy |  
+| bip_39_word_space_9 | price heavy desk venture direct angry weapon buddy supreme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

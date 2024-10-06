@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: squirrel input
+  * bip 39 word 3: squirrel input canyon
+  * bip 39 word: squirrel input canyon ride green much portion mistake drastic orchard phrase airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | squirrel |  
+| bip_39_word_new_br10 | squirrel<br>input<br>canyon<br>ride<br>green<br>much<br>portion<br>mistake<br>drastic<br>orchard |  
+| bip_39_word_new_br11 | squirrel<br>input<br>canyon<br>ride<br>green<br>much<br>portion<br>mistake<br>drastic<br>orchard<br>phrase |  
+| bip_39_word_new_br12 | squirrel<br>input<br>canyon<br>ride<br>green<br>much<br>portion<br>mistake<br>drastic<br>orchard<br>phrase<br>airport |  
+| bip_39_word_new_br2 | squirrel<br>input |  
+| bip_39_word_new_br3 | squirrel<br>input<br>canyon |  
+| bip_39_word_new_br4 | squirrel<br>input<br>canyon<br>ride |  
+| bip_39_word_new_br5 | squirrel<br>input<br>canyon<br>ride<br>green |  
+| bip_39_word_new_br6 | squirrel<br>input<br>canyon<br>ride<br>green<br>much |  
+| bip_39_word_new_br7 | squirrel<br>input<br>canyon<br>ride<br>green<br>much<br>portion |  
+| bip_39_word_new_br8 | squirrel<br>input<br>canyon<br>ride<br>green<br>much<br>portion<br>mistake |  
+| bip_39_word_new_br9 | squirrel<br>input<br>canyon<br>ride<br>green<br>much<br>portion<br>mistake<br>drastic |  
+| bip_39_word_new_line1 | squirrel |  
+| bip_39_word_new_line10 | squirrel
+input
+canyon
+ride
+green
+much
+portion
+mistake
+drastic
+orchard |  
+| bip_39_word_new_line11 | squirrel
+input
+canyon
+ride
+green
+much
+portion
+mistake
+drastic
+orchard
+phrase |  
+| bip_39_word_new_line12 | squirrel
+input
+canyon
+ride
+green
+much
+portion
+mistake
+drastic
+orchard
+phrase
+airport |  
+| bip_39_word_new_line2 | squirrel
+input |  
+| bip_39_word_new_line3 | squirrel
+input
+canyon |  
+| bip_39_word_new_line4 | squirrel
+input
+canyon
+ride |  
+| bip_39_word_new_line5 | squirrel
+input
+canyon
+ride
+green |  
+| bip_39_word_new_line6 | squirrel
+input
+canyon
+ride
+green
+much |  
+| bip_39_word_new_line7 | squirrel
+input
+canyon
+ride
+green
+much
+portion |  
+| bip_39_word_new_line8 | squirrel
+input
+canyon
+ride
+green
+much
+portion
+mistake |  
+| bip_39_word_new_line9 | squirrel
+input
+canyon
+ride
+green
+much
+portion
+mistake
+drastic |  
+| bip_39_word_space_0 | ['squirrel', 'input', 'canyon', 'ride', 'green', 'much', 'portion', 'mistake', 'drastic', 'orchard', 'phrase', 'airport'] |  
+| bip_39_word_space_1 | squirrel |  
+| bip_39_word_space_10 | squirrel input canyon ride green much portion mistake drastic orchard |  
+| bip_39_word_space_11 | squirrel input canyon ride green much portion mistake drastic orchard phrase |  
+| bip_39_word_space_12 | squirrel input canyon ride green much portion mistake drastic orchard phrase airport |  
+| bip_39_word_space_2 | squirrel input |  
+| bip_39_word_space_3 | squirrel input canyon |  
+| bip_39_word_space_4 | squirrel input canyon ride |  
+| bip_39_word_space_5 | squirrel input canyon ride green |  
+| bip_39_word_space_6 | squirrel input canyon ride green much |  
+| bip_39_word_space_7 | squirrel input canyon ride green much portion |  
+| bip_39_word_space_8 | squirrel input canyon ride green much portion mistake |  
+| bip_39_word_space_9 | squirrel input canyon ride green much portion mistake drastic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dizzy
+bip_39_word_new_br10: dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid
+bip_39_word_new_br11: dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid<br>educate
+bip_39_word_new_br12: dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold<br>kid<br>educate<br>animal
+bip_39_word_new_br2: dizzy<br>dry
+bip_39_word_new_br3: dizzy<br>dry<br>movie
+bip_39_word_new_br4: dizzy<br>dry<br>movie<br>hungry
+bip_39_word_new_br5: dizzy<br>dry<br>movie<br>hungry<br>agree
+bip_39_word_new_br6: dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon
+bip_39_word_new_br7: dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava
+bip_39_word_new_br8: dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate
+bip_39_word_new_br9: dizzy<br>dry<br>movie<br>hungry<br>agree<br>weapon<br>lava<br>isolate<br>uphold
+bip_39_word_new_line1: dizzy
+bip_39_word_new_line10: 'dizzy
+
+  dry
+
+  movie
+
+  hungry
+
+  agree
+
+  weapon
+
+  lava
+
+  isolate
+
+  uphold
+
+  kid'
+bip_39_word_new_line11: 'dizzy
+
+  dry
+
+  movie
+
+  hungry
+
+  agree
+
+  weapon
+
+  lava
+
+  isolate
+
+  uphold
+
+  kid
+
+  educate'
+bip_39_word_new_line12: 'dizzy
+
+  dry
+
+  movie
+
+  hungry
+
+  agree
+
+  weapon
+
+  lava
+
+  isolate
+
+  uphold
+
+  kid
+
+  educate
+
+  animal'
+bip_39_word_new_line2: 'dizzy
+
+  dry'
+bip_39_word_new_line3: 'dizzy
+
+  dry
+
+  movie'
+bip_39_word_new_line4: 'dizzy
+
+  dry
+
+  movie
+
+  hungry'
+bip_39_word_new_line5: 'dizzy
+
+  dry
+
+  movie
+
+  hungry
+
+  agree'
+bip_39_word_new_line6: 'dizzy
+
+  dry
+
+  movie
+
+  hungry
+
+  agree
+
+  weapon'
+bip_39_word_new_line7: 'dizzy
+
+  dry
+
+  movie
+
+  hungry
+
+  agree
+
+  weapon
+
+  lava'
+bip_39_word_new_line8: 'dizzy
+
+  dry
+
+  movie
+
+  hungry
+
+  agree
+
+  weapon
+
+  lava
+
+  isolate'
+bip_39_word_new_line9: 'dizzy
+
+  dry
+
+  movie
+
+  hungry
+
+  agree
+
+  weapon
+
+  lava
+
+  isolate
+
+  uphold'
+bip_39_word_space_0:
+- dizzy
+- dry
+- movie
+- hungry
+- agree
+- weapon
+- lava
+- isolate
+- uphold
+- kid
+- educate
+- animal
+bip_39_word_space_1: dizzy
+bip_39_word_space_10: dizzy dry movie hungry agree weapon lava isolate uphold kid
+bip_39_word_space_11: dizzy dry movie hungry agree weapon lava isolate uphold kid
+  educate
+bip_39_word_space_12: dizzy dry movie hungry agree weapon lava isolate uphold kid
+  educate animal
+bip_39_word_space_2: dizzy dry
+bip_39_word_space_3: dizzy dry movie
+bip_39_word_space_4: dizzy dry movie hungry
+bip_39_word_space_5: dizzy dry movie hungry agree
+bip_39_word_space_6: dizzy dry movie hungry agree weapon
+bip_39_word_space_7: dizzy dry movie hungry agree weapon lava
+bip_39_word_space_8: dizzy dry movie hungry agree weapon lava isolate
+bip_39_word_space_9: dizzy dry movie hungry agree weapon lava isolate uphold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

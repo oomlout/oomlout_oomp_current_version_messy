@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bachelor cousin
+  * bip 39 word 3: bachelor cousin order
+  * bip 39 word: bachelor cousin order convince draft satoshi reject space symptom tail label argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bachelor |  
+| bip_39_word_new_br10 | bachelor<br>cousin<br>order<br>convince<br>draft<br>satoshi<br>reject<br>space<br>symptom<br>tail |  
+| bip_39_word_new_br11 | bachelor<br>cousin<br>order<br>convince<br>draft<br>satoshi<br>reject<br>space<br>symptom<br>tail<br>label |  
+| bip_39_word_new_br12 | bachelor<br>cousin<br>order<br>convince<br>draft<br>satoshi<br>reject<br>space<br>symptom<br>tail<br>label<br>argue |  
+| bip_39_word_new_br2 | bachelor<br>cousin |  
+| bip_39_word_new_br3 | bachelor<br>cousin<br>order |  
+| bip_39_word_new_br4 | bachelor<br>cousin<br>order<br>convince |  
+| bip_39_word_new_br5 | bachelor<br>cousin<br>order<br>convince<br>draft |  
+| bip_39_word_new_br6 | bachelor<br>cousin<br>order<br>convince<br>draft<br>satoshi |  
+| bip_39_word_new_br7 | bachelor<br>cousin<br>order<br>convince<br>draft<br>satoshi<br>reject |  
+| bip_39_word_new_br8 | bachelor<br>cousin<br>order<br>convince<br>draft<br>satoshi<br>reject<br>space |  
+| bip_39_word_new_br9 | bachelor<br>cousin<br>order<br>convince<br>draft<br>satoshi<br>reject<br>space<br>symptom |  
+| bip_39_word_new_line1 | bachelor |  
+| bip_39_word_new_line10 | bachelor
+cousin
+order
+convince
+draft
+satoshi
+reject
+space
+symptom
+tail |  
+| bip_39_word_new_line11 | bachelor
+cousin
+order
+convince
+draft
+satoshi
+reject
+space
+symptom
+tail
+label |  
+| bip_39_word_new_line12 | bachelor
+cousin
+order
+convince
+draft
+satoshi
+reject
+space
+symptom
+tail
+label
+argue |  
+| bip_39_word_new_line2 | bachelor
+cousin |  
+| bip_39_word_new_line3 | bachelor
+cousin
+order |  
+| bip_39_word_new_line4 | bachelor
+cousin
+order
+convince |  
+| bip_39_word_new_line5 | bachelor
+cousin
+order
+convince
+draft |  
+| bip_39_word_new_line6 | bachelor
+cousin
+order
+convince
+draft
+satoshi |  
+| bip_39_word_new_line7 | bachelor
+cousin
+order
+convince
+draft
+satoshi
+reject |  
+| bip_39_word_new_line8 | bachelor
+cousin
+order
+convince
+draft
+satoshi
+reject
+space |  
+| bip_39_word_new_line9 | bachelor
+cousin
+order
+convince
+draft
+satoshi
+reject
+space
+symptom |  
+| bip_39_word_space_0 | ['bachelor', 'cousin', 'order', 'convince', 'draft', 'satoshi', 'reject', 'space', 'symptom', 'tail', 'label', 'argue'] |  
+| bip_39_word_space_1 | bachelor |  
+| bip_39_word_space_10 | bachelor cousin order convince draft satoshi reject space symptom tail |  
+| bip_39_word_space_11 | bachelor cousin order convince draft satoshi reject space symptom tail label |  
+| bip_39_word_space_12 | bachelor cousin order convince draft satoshi reject space symptom tail label argue |  
+| bip_39_word_space_2 | bachelor cousin |  
+| bip_39_word_space_3 | bachelor cousin order |  
+| bip_39_word_space_4 | bachelor cousin order convince |  
+| bip_39_word_space_5 | bachelor cousin order convince draft |  
+| bip_39_word_space_6 | bachelor cousin order convince draft satoshi |  
+| bip_39_word_space_7 | bachelor cousin order convince draft satoshi reject |  
+| bip_39_word_space_8 | bachelor cousin order convince draft satoshi reject space |  
+| bip_39_word_space_9 | bachelor cousin order convince draft satoshi reject space symptom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excite trim
+  * bip 39 word 3: excite trim remove
+  * bip 39 word: excite trim remove device case fatigue picnic critic snow improve recall actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excite |  
+| bip_39_word_new_br10 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve |  
+| bip_39_word_new_br11 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve<br>recall |  
+| bip_39_word_new_br12 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow<br>improve<br>recall<br>actual |  
+| bip_39_word_new_br2 | excite<br>trim |  
+| bip_39_word_new_br3 | excite<br>trim<br>remove |  
+| bip_39_word_new_br4 | excite<br>trim<br>remove<br>device |  
+| bip_39_word_new_br5 | excite<br>trim<br>remove<br>device<br>case |  
+| bip_39_word_new_br6 | excite<br>trim<br>remove<br>device<br>case<br>fatigue |  
+| bip_39_word_new_br7 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic |  
+| bip_39_word_new_br8 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic |  
+| bip_39_word_new_br9 | excite<br>trim<br>remove<br>device<br>case<br>fatigue<br>picnic<br>critic<br>snow |  
+| bip_39_word_new_line1 | excite |  
+| bip_39_word_new_line10 | excite
+trim
+remove
+device
+case
+fatigue
+picnic
+critic
+snow
+improve |  
+| bip_39_word_new_line11 | excite
+trim
+remove
+device
+case
+fatigue
+picnic
+critic
+snow
+improve
+recall |  
+| bip_39_word_new_line12 | excite
+trim
+remove
+device
+case
+fatigue
+picnic
+critic
+snow
+improve
+recall
+actual |  
+| bip_39_word_new_line2 | excite
+trim |  
+| bip_39_word_new_line3 | excite
+trim
+remove |  
+| bip_39_word_new_line4 | excite
+trim
+remove
+device |  
+| bip_39_word_new_line5 | excite
+trim
+remove
+device
+case |  
+| bip_39_word_new_line6 | excite
+trim
+remove
+device
+case
+fatigue |  
+| bip_39_word_new_line7 | excite
+trim
+remove
+device
+case
+fatigue
+picnic |  
+| bip_39_word_new_line8 | excite
+trim
+remove
+device
+case
+fatigue
+picnic
+critic |  
+| bip_39_word_new_line9 | excite
+trim
+remove
+device
+case
+fatigue
+picnic
+critic
+snow |  
+| bip_39_word_space_0 | ['excite', 'trim', 'remove', 'device', 'case', 'fatigue', 'picnic', 'critic', 'snow', 'improve', 'recall', 'actual'] |  
+| bip_39_word_space_1 | excite |  
+| bip_39_word_space_10 | excite trim remove device case fatigue picnic critic snow improve |  
+| bip_39_word_space_11 | excite trim remove device case fatigue picnic critic snow improve recall |  
+| bip_39_word_space_12 | excite trim remove device case fatigue picnic critic snow improve recall actual |  
+| bip_39_word_space_2 | excite trim |  
+| bip_39_word_space_3 | excite trim remove |  
+| bip_39_word_space_4 | excite trim remove device |  
+| bip_39_word_space_5 | excite trim remove device case |  
+| bip_39_word_space_6 | excite trim remove device case fatigue |  
+| bip_39_word_space_7 | excite trim remove device case fatigue picnic |  
+| bip_39_word_space_8 | excite trim remove device case fatigue picnic critic |  
+| bip_39_word_space_9 | excite trim remove device case fatigue picnic critic snow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

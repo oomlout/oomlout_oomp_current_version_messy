@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lounge nation
+  * bip 39 word 3: lounge nation immense
+  * bip 39 word: lounge nation immense muffin fringe harsh oxygen chief style laptop coil arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lounge |  
+| bip_39_word_new_br10 | lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief<br>style<br>laptop |  
+| bip_39_word_new_br11 | lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief<br>style<br>laptop<br>coil |  
+| bip_39_word_new_br12 | lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief<br>style<br>laptop<br>coil<br>arrive |  
+| bip_39_word_new_br2 | lounge<br>nation |  
+| bip_39_word_new_br3 | lounge<br>nation<br>immense |  
+| bip_39_word_new_br4 | lounge<br>nation<br>immense<br>muffin |  
+| bip_39_word_new_br5 | lounge<br>nation<br>immense<br>muffin<br>fringe |  
+| bip_39_word_new_br6 | lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh |  
+| bip_39_word_new_br7 | lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen |  
+| bip_39_word_new_br8 | lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief |  
+| bip_39_word_new_br9 | lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief<br>style |  
+| bip_39_word_new_line1 | lounge |  
+| bip_39_word_new_line10 | lounge
+nation
+immense
+muffin
+fringe
+harsh
+oxygen
+chief
+style
+laptop |  
+| bip_39_word_new_line11 | lounge
+nation
+immense
+muffin
+fringe
+harsh
+oxygen
+chief
+style
+laptop
+coil |  
+| bip_39_word_new_line12 | lounge
+nation
+immense
+muffin
+fringe
+harsh
+oxygen
+chief
+style
+laptop
+coil
+arrive |  
+| bip_39_word_new_line2 | lounge
+nation |  
+| bip_39_word_new_line3 | lounge
+nation
+immense |  
+| bip_39_word_new_line4 | lounge
+nation
+immense
+muffin |  
+| bip_39_word_new_line5 | lounge
+nation
+immense
+muffin
+fringe |  
+| bip_39_word_new_line6 | lounge
+nation
+immense
+muffin
+fringe
+harsh |  
+| bip_39_word_new_line7 | lounge
+nation
+immense
+muffin
+fringe
+harsh
+oxygen |  
+| bip_39_word_new_line8 | lounge
+nation
+immense
+muffin
+fringe
+harsh
+oxygen
+chief |  
+| bip_39_word_new_line9 | lounge
+nation
+immense
+muffin
+fringe
+harsh
+oxygen
+chief
+style |  
+| bip_39_word_space_0 | ['lounge', 'nation', 'immense', 'muffin', 'fringe', 'harsh', 'oxygen', 'chief', 'style', 'laptop', 'coil', 'arrive'] |  
+| bip_39_word_space_1 | lounge |  
+| bip_39_word_space_10 | lounge nation immense muffin fringe harsh oxygen chief style laptop |  
+| bip_39_word_space_11 | lounge nation immense muffin fringe harsh oxygen chief style laptop coil |  
+| bip_39_word_space_12 | lounge nation immense muffin fringe harsh oxygen chief style laptop coil arrive |  
+| bip_39_word_space_2 | lounge nation |  
+| bip_39_word_space_3 | lounge nation immense |  
+| bip_39_word_space_4 | lounge nation immense muffin |  
+| bip_39_word_space_5 | lounge nation immense muffin fringe |  
+| bip_39_word_space_6 | lounge nation immense muffin fringe harsh |  
+| bip_39_word_space_7 | lounge nation immense muffin fringe harsh oxygen |  
+| bip_39_word_space_8 | lounge nation immense muffin fringe harsh oxygen chief |  
+| bip_39_word_space_9 | lounge nation immense muffin fringe harsh oxygen chief style |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: speed
+bip_39_word_new_br10: speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful
+bip_39_word_new_br11: speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful<br>trash
+bip_39_word_new_br12: speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire<br>awful<br>trash<br>allow
+bip_39_word_new_br2: speed<br>gasp
+bip_39_word_new_br3: speed<br>gasp<br>dutch
+bip_39_word_new_br4: speed<br>gasp<br>dutch<br>pupil
+bip_39_word_new_br5: speed<br>gasp<br>dutch<br>pupil<br>van
+bip_39_word_new_br6: speed<br>gasp<br>dutch<br>pupil<br>van<br>history
+bip_39_word_new_br7: speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle
+bip_39_word_new_br8: speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset
+bip_39_word_new_br9: speed<br>gasp<br>dutch<br>pupil<br>van<br>history<br>puzzle<br>sunset<br>wire
+bip_39_word_new_line1: speed
+bip_39_word_new_line10: 'speed
+
+  gasp
+
+  dutch
+
+  pupil
+
+  van
+
+  history
+
+  puzzle
+
+  sunset
+
+  wire
+
+  awful'
+bip_39_word_new_line11: 'speed
+
+  gasp
+
+  dutch
+
+  pupil
+
+  van
+
+  history
+
+  puzzle
+
+  sunset
+
+  wire
+
+  awful
+
+  trash'
+bip_39_word_new_line12: 'speed
+
+  gasp
+
+  dutch
+
+  pupil
+
+  van
+
+  history
+
+  puzzle
+
+  sunset
+
+  wire
+
+  awful
+
+  trash
+
+  allow'
+bip_39_word_new_line2: 'speed
+
+  gasp'
+bip_39_word_new_line3: 'speed
+
+  gasp
+
+  dutch'
+bip_39_word_new_line4: 'speed
+
+  gasp
+
+  dutch
+
+  pupil'
+bip_39_word_new_line5: 'speed
+
+  gasp
+
+  dutch
+
+  pupil
+
+  van'
+bip_39_word_new_line6: 'speed
+
+  gasp
+
+  dutch
+
+  pupil
+
+  van
+
+  history'
+bip_39_word_new_line7: 'speed
+
+  gasp
+
+  dutch
+
+  pupil
+
+  van
+
+  history
+
+  puzzle'
+bip_39_word_new_line8: 'speed
+
+  gasp
+
+  dutch
+
+  pupil
+
+  van
+
+  history
+
+  puzzle
+
+  sunset'
+bip_39_word_new_line9: 'speed
+
+  gasp
+
+  dutch
+
+  pupil
+
+  van
+
+  history
+
+  puzzle
+
+  sunset
+
+  wire'
+bip_39_word_space_0:
+- speed
+- gasp
+- dutch
+- pupil
+- van
+- history
+- puzzle
+- sunset
+- wire
+- awful
+- trash
+- allow
+bip_39_word_space_1: speed
+bip_39_word_space_10: speed gasp dutch pupil van history puzzle sunset wire awful
+bip_39_word_space_11: speed gasp dutch pupil van history puzzle sunset wire awful
+  trash
+bip_39_word_space_12: speed gasp dutch pupil van history puzzle sunset wire awful
+  trash allow
+bip_39_word_space_2: speed gasp
+bip_39_word_space_3: speed gasp dutch
+bip_39_word_space_4: speed gasp dutch pupil
+bip_39_word_space_5: speed gasp dutch pupil van
+bip_39_word_space_6: speed gasp dutch pupil van history
+bip_39_word_space_7: speed gasp dutch pupil van history puzzle
+bip_39_word_space_8: speed gasp dutch pupil van history puzzle sunset
+bip_39_word_space_9: speed gasp dutch pupil van history puzzle sunset wire
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

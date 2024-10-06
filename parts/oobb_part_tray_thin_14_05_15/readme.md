@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diary pottery
+  * bip 39 word 3: diary pottery pulse
+  * bip 39 word: diary pottery pulse axis blast blur sponsor duck vital million shoulder act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diary |  
+| bip_39_word_new_br10 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million |  
+| bip_39_word_new_br11 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million<br>shoulder |  
+| bip_39_word_new_br12 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital<br>million<br>shoulder<br>act |  
+| bip_39_word_new_br2 | diary<br>pottery |  
+| bip_39_word_new_br3 | diary<br>pottery<br>pulse |  
+| bip_39_word_new_br4 | diary<br>pottery<br>pulse<br>axis |  
+| bip_39_word_new_br5 | diary<br>pottery<br>pulse<br>axis<br>blast |  
+| bip_39_word_new_br6 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur |  
+| bip_39_word_new_br7 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor |  
+| bip_39_word_new_br8 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck |  
+| bip_39_word_new_br9 | diary<br>pottery<br>pulse<br>axis<br>blast<br>blur<br>sponsor<br>duck<br>vital |  
+| bip_39_word_new_line1 | diary |  
+| bip_39_word_new_line10 | diary
+pottery
+pulse
+axis
+blast
+blur
+sponsor
+duck
+vital
+million |  
+| bip_39_word_new_line11 | diary
+pottery
+pulse
+axis
+blast
+blur
+sponsor
+duck
+vital
+million
+shoulder |  
+| bip_39_word_new_line12 | diary
+pottery
+pulse
+axis
+blast
+blur
+sponsor
+duck
+vital
+million
+shoulder
+act |  
+| bip_39_word_new_line2 | diary
+pottery |  
+| bip_39_word_new_line3 | diary
+pottery
+pulse |  
+| bip_39_word_new_line4 | diary
+pottery
+pulse
+axis |  
+| bip_39_word_new_line5 | diary
+pottery
+pulse
+axis
+blast |  
+| bip_39_word_new_line6 | diary
+pottery
+pulse
+axis
+blast
+blur |  
+| bip_39_word_new_line7 | diary
+pottery
+pulse
+axis
+blast
+blur
+sponsor |  
+| bip_39_word_new_line8 | diary
+pottery
+pulse
+axis
+blast
+blur
+sponsor
+duck |  
+| bip_39_word_new_line9 | diary
+pottery
+pulse
+axis
+blast
+blur
+sponsor
+duck
+vital |  
+| bip_39_word_space_0 | ['diary', 'pottery', 'pulse', 'axis', 'blast', 'blur', 'sponsor', 'duck', 'vital', 'million', 'shoulder', 'act'] |  
+| bip_39_word_space_1 | diary |  
+| bip_39_word_space_10 | diary pottery pulse axis blast blur sponsor duck vital million |  
+| bip_39_word_space_11 | diary pottery pulse axis blast blur sponsor duck vital million shoulder |  
+| bip_39_word_space_12 | diary pottery pulse axis blast blur sponsor duck vital million shoulder act |  
+| bip_39_word_space_2 | diary pottery |  
+| bip_39_word_space_3 | diary pottery pulse |  
+| bip_39_word_space_4 | diary pottery pulse axis |  
+| bip_39_word_space_5 | diary pottery pulse axis blast |  
+| bip_39_word_space_6 | diary pottery pulse axis blast blur |  
+| bip_39_word_space_7 | diary pottery pulse axis blast blur sponsor |  
+| bip_39_word_space_8 | diary pottery pulse axis blast blur sponsor duck |  
+| bip_39_word_space_9 | diary pottery pulse axis blast blur sponsor duck vital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

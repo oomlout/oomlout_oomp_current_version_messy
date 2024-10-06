@@ -1,3 +1,185 @@
+bip_39_word_new_br1: rate
+bip_39_word_new_br10: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert
+bip_39_word_new_br11: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple
+bip_39_word_new_br12: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple<br>ankle
+bip_39_word_new_br2: rate<br>fun
+bip_39_word_new_br3: rate<br>fun<br>text
+bip_39_word_new_br4: rate<br>fun<br>text<br>rose
+bip_39_word_new_br5: rate<br>fun<br>text<br>rose<br>unable
+bip_39_word_new_br6: rate<br>fun<br>text<br>rose<br>unable<br>only
+bip_39_word_new_br7: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse
+bip_39_word_new_br8: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil
+bip_39_word_new_br9: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral
+bip_39_word_new_line1: rate
+bip_39_word_new_line10: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil
+
+  coral
+
+  alert'
+bip_39_word_new_line11: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil
+
+  coral
+
+  alert
+
+  simple'
+bip_39_word_new_line12: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil
+
+  coral
+
+  alert
+
+  simple
+
+  ankle'
+bip_39_word_new_line2: 'rate
+
+  fun'
+bip_39_word_new_line3: 'rate
+
+  fun
+
+  text'
+bip_39_word_new_line4: 'rate
+
+  fun
+
+  text
+
+  rose'
+bip_39_word_new_line5: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable'
+bip_39_word_new_line6: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only'
+bip_39_word_new_line7: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse'
+bip_39_word_new_line8: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil'
+bip_39_word_new_line9: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil
+
+  coral'
+bip_39_word_space_0:
+- rate
+- fun
+- text
+- rose
+- unable
+- only
+- nurse
+- spoil
+- coral
+- alert
+- simple
+- ankle
+bip_39_word_space_1: rate
+bip_39_word_space_10: rate fun text rose unable only nurse spoil coral alert
+bip_39_word_space_11: rate fun text rose unable only nurse spoil coral alert simple
+bip_39_word_space_12: rate fun text rose unable only nurse spoil coral alert simple
+  ankle
+bip_39_word_space_2: rate fun
+bip_39_word_space_3: rate fun text
+bip_39_word_space_4: rate fun text rose
+bip_39_word_space_5: rate fun text rose unable
+bip_39_word_space_6: rate fun text rose unable only
+bip_39_word_space_7: rate fun text rose unable only nurse
+bip_39_word_space_8: rate fun text rose unable only nurse spoil
+bip_39_word_space_9: rate fun text rose unable only nurse spoil coral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

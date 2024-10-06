@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_m6_grubscrew_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: infant speed
+  * bip 39 word 3: infant speed action
+  * bip 39 word: infant speed action that wage sword exhaust parent claw drama page arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | infant |  
+| bip_39_word_new_br10 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama |  
+| bip_39_word_new_br11 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama<br>page |  
+| bip_39_word_new_br12 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw<br>drama<br>page<br>arrest |  
+| bip_39_word_new_br2 | infant<br>speed |  
+| bip_39_word_new_br3 | infant<br>speed<br>action |  
+| bip_39_word_new_br4 | infant<br>speed<br>action<br>that |  
+| bip_39_word_new_br5 | infant<br>speed<br>action<br>that<br>wage |  
+| bip_39_word_new_br6 | infant<br>speed<br>action<br>that<br>wage<br>sword |  
+| bip_39_word_new_br7 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust |  
+| bip_39_word_new_br8 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent |  
+| bip_39_word_new_br9 | infant<br>speed<br>action<br>that<br>wage<br>sword<br>exhaust<br>parent<br>claw |  
+| bip_39_word_new_line1 | infant |  
+| bip_39_word_new_line10 | infant
+speed
+action
+that
+wage
+sword
+exhaust
+parent
+claw
+drama |  
+| bip_39_word_new_line11 | infant
+speed
+action
+that
+wage
+sword
+exhaust
+parent
+claw
+drama
+page |  
+| bip_39_word_new_line12 | infant
+speed
+action
+that
+wage
+sword
+exhaust
+parent
+claw
+drama
+page
+arrest |  
+| bip_39_word_new_line2 | infant
+speed |  
+| bip_39_word_new_line3 | infant
+speed
+action |  
+| bip_39_word_new_line4 | infant
+speed
+action
+that |  
+| bip_39_word_new_line5 | infant
+speed
+action
+that
+wage |  
+| bip_39_word_new_line6 | infant
+speed
+action
+that
+wage
+sword |  
+| bip_39_word_new_line7 | infant
+speed
+action
+that
+wage
+sword
+exhaust |  
+| bip_39_word_new_line8 | infant
+speed
+action
+that
+wage
+sword
+exhaust
+parent |  
+| bip_39_word_new_line9 | infant
+speed
+action
+that
+wage
+sword
+exhaust
+parent
+claw |  
+| bip_39_word_space_0 | ['infant', 'speed', 'action', 'that', 'wage', 'sword', 'exhaust', 'parent', 'claw', 'drama', 'page', 'arrest'] |  
+| bip_39_word_space_1 | infant |  
+| bip_39_word_space_10 | infant speed action that wage sword exhaust parent claw drama |  
+| bip_39_word_space_11 | infant speed action that wage sword exhaust parent claw drama page |  
+| bip_39_word_space_12 | infant speed action that wage sword exhaust parent claw drama page arrest |  
+| bip_39_word_space_2 | infant speed |  
+| bip_39_word_space_3 | infant speed action |  
+| bip_39_word_space_4 | infant speed action that |  
+| bip_39_word_space_5 | infant speed action that wage |  
+| bip_39_word_space_6 | infant speed action that wage sword |  
+| bip_39_word_space_7 | infant speed action that wage sword exhaust |  
+| bip_39_word_space_8 | infant speed action that wage sword exhaust parent |  
+| bip_39_word_space_9 | infant speed action that wage sword exhaust parent claw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ceiling
+bip_39_word_new_br10: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans<br>mercy<br>whisper<br>unfair<br>dream
+bip_39_word_new_br11: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans<br>mercy<br>whisper<br>unfair<br>dream<br>grid
+bip_39_word_new_br12: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans<br>mercy<br>whisper<br>unfair<br>dream<br>grid<br>anger
+bip_39_word_new_br2: ceiling<br>torch
+bip_39_word_new_br3: ceiling<br>torch<br>cram
+bip_39_word_new_br4: ceiling<br>torch<br>cram<br>absurd
+bip_39_word_new_br5: ceiling<br>torch<br>cram<br>absurd<br>spirit
+bip_39_word_new_br6: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans
+bip_39_word_new_br7: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans<br>mercy
+bip_39_word_new_br8: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans<br>mercy<br>whisper
+bip_39_word_new_br9: ceiling<br>torch<br>cram<br>absurd<br>spirit<br>jeans<br>mercy<br>whisper<br>unfair
+bip_39_word_new_line1: ceiling
+bip_39_word_new_line10: 'ceiling
+
+  torch
+
+  cram
+
+  absurd
+
+  spirit
+
+  jeans
+
+  mercy
+
+  whisper
+
+  unfair
+
+  dream'
+bip_39_word_new_line11: 'ceiling
+
+  torch
+
+  cram
+
+  absurd
+
+  spirit
+
+  jeans
+
+  mercy
+
+  whisper
+
+  unfair
+
+  dream
+
+  grid'
+bip_39_word_new_line12: 'ceiling
+
+  torch
+
+  cram
+
+  absurd
+
+  spirit
+
+  jeans
+
+  mercy
+
+  whisper
+
+  unfair
+
+  dream
+
+  grid
+
+  anger'
+bip_39_word_new_line2: 'ceiling
+
+  torch'
+bip_39_word_new_line3: 'ceiling
+
+  torch
+
+  cram'
+bip_39_word_new_line4: 'ceiling
+
+  torch
+
+  cram
+
+  absurd'
+bip_39_word_new_line5: 'ceiling
+
+  torch
+
+  cram
+
+  absurd
+
+  spirit'
+bip_39_word_new_line6: 'ceiling
+
+  torch
+
+  cram
+
+  absurd
+
+  spirit
+
+  jeans'
+bip_39_word_new_line7: 'ceiling
+
+  torch
+
+  cram
+
+  absurd
+
+  spirit
+
+  jeans
+
+  mercy'
+bip_39_word_new_line8: 'ceiling
+
+  torch
+
+  cram
+
+  absurd
+
+  spirit
+
+  jeans
+
+  mercy
+
+  whisper'
+bip_39_word_new_line9: 'ceiling
+
+  torch
+
+  cram
+
+  absurd
+
+  spirit
+
+  jeans
+
+  mercy
+
+  whisper
+
+  unfair'
+bip_39_word_space_0:
+- ceiling
+- torch
+- cram
+- absurd
+- spirit
+- jeans
+- mercy
+- whisper
+- unfair
+- dream
+- grid
+- anger
+bip_39_word_space_1: ceiling
+bip_39_word_space_10: ceiling torch cram absurd spirit jeans mercy whisper unfair
+  dream
+bip_39_word_space_11: ceiling torch cram absurd spirit jeans mercy whisper unfair
+  dream grid
+bip_39_word_space_12: ceiling torch cram absurd spirit jeans mercy whisper unfair
+  dream grid anger
+bip_39_word_space_2: ceiling torch
+bip_39_word_space_3: ceiling torch cram
+bip_39_word_space_4: ceiling torch cram absurd
+bip_39_word_space_5: ceiling torch cram absurd spirit
+bip_39_word_space_6: ceiling torch cram absurd spirit jeans
+bip_39_word_space_7: ceiling torch cram absurd spirit jeans mercy
+bip_39_word_space_8: ceiling torch cram absurd spirit jeans mercy whisper
+bip_39_word_space_9: ceiling torch cram absurd spirit jeans mercy whisper unfair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

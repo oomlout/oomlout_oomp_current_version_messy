@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: harbor write
+  * bip 39 word 3: harbor write hybrid
+  * bip 39 word: harbor write hybrid goat shoot frame begin collect attend ecology road alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | harbor |  
+| bip_39_word_new_br10 | harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame<br>begin<br>collect<br>attend<br>ecology |  
+| bip_39_word_new_br11 | harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame<br>begin<br>collect<br>attend<br>ecology<br>road |  
+| bip_39_word_new_br12 | harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame<br>begin<br>collect<br>attend<br>ecology<br>road<br>alter |  
+| bip_39_word_new_br2 | harbor<br>write |  
+| bip_39_word_new_br3 | harbor<br>write<br>hybrid |  
+| bip_39_word_new_br4 | harbor<br>write<br>hybrid<br>goat |  
+| bip_39_word_new_br5 | harbor<br>write<br>hybrid<br>goat<br>shoot |  
+| bip_39_word_new_br6 | harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame |  
+| bip_39_word_new_br7 | harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame<br>begin |  
+| bip_39_word_new_br8 | harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame<br>begin<br>collect |  
+| bip_39_word_new_br9 | harbor<br>write<br>hybrid<br>goat<br>shoot<br>frame<br>begin<br>collect<br>attend |  
+| bip_39_word_new_line1 | harbor |  
+| bip_39_word_new_line10 | harbor
+write
+hybrid
+goat
+shoot
+frame
+begin
+collect
+attend
+ecology |  
+| bip_39_word_new_line11 | harbor
+write
+hybrid
+goat
+shoot
+frame
+begin
+collect
+attend
+ecology
+road |  
+| bip_39_word_new_line12 | harbor
+write
+hybrid
+goat
+shoot
+frame
+begin
+collect
+attend
+ecology
+road
+alter |  
+| bip_39_word_new_line2 | harbor
+write |  
+| bip_39_word_new_line3 | harbor
+write
+hybrid |  
+| bip_39_word_new_line4 | harbor
+write
+hybrid
+goat |  
+| bip_39_word_new_line5 | harbor
+write
+hybrid
+goat
+shoot |  
+| bip_39_word_new_line6 | harbor
+write
+hybrid
+goat
+shoot
+frame |  
+| bip_39_word_new_line7 | harbor
+write
+hybrid
+goat
+shoot
+frame
+begin |  
+| bip_39_word_new_line8 | harbor
+write
+hybrid
+goat
+shoot
+frame
+begin
+collect |  
+| bip_39_word_new_line9 | harbor
+write
+hybrid
+goat
+shoot
+frame
+begin
+collect
+attend |  
+| bip_39_word_space_0 | ['harbor', 'write', 'hybrid', 'goat', 'shoot', 'frame', 'begin', 'collect', 'attend', 'ecology', 'road', 'alter'] |  
+| bip_39_word_space_1 | harbor |  
+| bip_39_word_space_10 | harbor write hybrid goat shoot frame begin collect attend ecology |  
+| bip_39_word_space_11 | harbor write hybrid goat shoot frame begin collect attend ecology road |  
+| bip_39_word_space_12 | harbor write hybrid goat shoot frame begin collect attend ecology road alter |  
+| bip_39_word_space_2 | harbor write |  
+| bip_39_word_space_3 | harbor write hybrid |  
+| bip_39_word_space_4 | harbor write hybrid goat |  
+| bip_39_word_space_5 | harbor write hybrid goat shoot |  
+| bip_39_word_space_6 | harbor write hybrid goat shoot frame |  
+| bip_39_word_space_7 | harbor write hybrid goat shoot frame begin |  
+| bip_39_word_space_8 | harbor write hybrid goat shoot frame begin collect |  
+| bip_39_word_space_9 | harbor write hybrid goat shoot frame begin collect attend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

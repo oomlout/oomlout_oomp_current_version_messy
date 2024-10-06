@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deny output
+  * bip 39 word 3: deny output muffin
+  * bip 39 word: deny output muffin castle book pupil jealous eye shed begin where amazing
 
 ### other_codes
 * short_code: cs2m6pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deny |  
+| bip_39_word_new_br10 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin |  
+| bip_39_word_new_br11 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin<br>where |  
+| bip_39_word_new_br12 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed<br>begin<br>where<br>amazing |  
+| bip_39_word_new_br2 | deny<br>output |  
+| bip_39_word_new_br3 | deny<br>output<br>muffin |  
+| bip_39_word_new_br4 | deny<br>output<br>muffin<br>castle |  
+| bip_39_word_new_br5 | deny<br>output<br>muffin<br>castle<br>book |  
+| bip_39_word_new_br6 | deny<br>output<br>muffin<br>castle<br>book<br>pupil |  
+| bip_39_word_new_br7 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous |  
+| bip_39_word_new_br8 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye |  
+| bip_39_word_new_br9 | deny<br>output<br>muffin<br>castle<br>book<br>pupil<br>jealous<br>eye<br>shed |  
+| bip_39_word_new_line1 | deny |  
+| bip_39_word_new_line10 | deny
+output
+muffin
+castle
+book
+pupil
+jealous
+eye
+shed
+begin |  
+| bip_39_word_new_line11 | deny
+output
+muffin
+castle
+book
+pupil
+jealous
+eye
+shed
+begin
+where |  
+| bip_39_word_new_line12 | deny
+output
+muffin
+castle
+book
+pupil
+jealous
+eye
+shed
+begin
+where
+amazing |  
+| bip_39_word_new_line2 | deny
+output |  
+| bip_39_word_new_line3 | deny
+output
+muffin |  
+| bip_39_word_new_line4 | deny
+output
+muffin
+castle |  
+| bip_39_word_new_line5 | deny
+output
+muffin
+castle
+book |  
+| bip_39_word_new_line6 | deny
+output
+muffin
+castle
+book
+pupil |  
+| bip_39_word_new_line7 | deny
+output
+muffin
+castle
+book
+pupil
+jealous |  
+| bip_39_word_new_line8 | deny
+output
+muffin
+castle
+book
+pupil
+jealous
+eye |  
+| bip_39_word_new_line9 | deny
+output
+muffin
+castle
+book
+pupil
+jealous
+eye
+shed |  
+| bip_39_word_space_0 | ['deny', 'output', 'muffin', 'castle', 'book', 'pupil', 'jealous', 'eye', 'shed', 'begin', 'where', 'amazing'] |  
+| bip_39_word_space_1 | deny |  
+| bip_39_word_space_10 | deny output muffin castle book pupil jealous eye shed begin |  
+| bip_39_word_space_11 | deny output muffin castle book pupil jealous eye shed begin where |  
+| bip_39_word_space_12 | deny output muffin castle book pupil jealous eye shed begin where amazing |  
+| bip_39_word_space_2 | deny output |  
+| bip_39_word_space_3 | deny output muffin |  
+| bip_39_word_space_4 | deny output muffin castle |  
+| bip_39_word_space_5 | deny output muffin castle book |  
+| bip_39_word_space_6 | deny output muffin castle book pupil |  
+| bip_39_word_space_7 | deny output muffin castle book pupil jealous |  
+| bip_39_word_space_8 | deny output muffin castle book pupil jealous eye |  
+| bip_39_word_space_9 | deny output muffin castle book pupil jealous eye shed |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

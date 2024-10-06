@@ -1,3 +1,186 @@
+bip_39_word_new_br1: title
+bip_39_word_new_br10: title<br>piece<br>grape<br>orchard<br>spider<br>worry<br>surround<br>ivory<br>risk<br>light
+bip_39_word_new_br11: title<br>piece<br>grape<br>orchard<br>spider<br>worry<br>surround<br>ivory<br>risk<br>light<br>galaxy
+bip_39_word_new_br12: title<br>piece<br>grape<br>orchard<br>spider<br>worry<br>surround<br>ivory<br>risk<br>light<br>galaxy<br>asset
+bip_39_word_new_br2: title<br>piece
+bip_39_word_new_br3: title<br>piece<br>grape
+bip_39_word_new_br4: title<br>piece<br>grape<br>orchard
+bip_39_word_new_br5: title<br>piece<br>grape<br>orchard<br>spider
+bip_39_word_new_br6: title<br>piece<br>grape<br>orchard<br>spider<br>worry
+bip_39_word_new_br7: title<br>piece<br>grape<br>orchard<br>spider<br>worry<br>surround
+bip_39_word_new_br8: title<br>piece<br>grape<br>orchard<br>spider<br>worry<br>surround<br>ivory
+bip_39_word_new_br9: title<br>piece<br>grape<br>orchard<br>spider<br>worry<br>surround<br>ivory<br>risk
+bip_39_word_new_line1: title
+bip_39_word_new_line10: 'title
+
+  piece
+
+  grape
+
+  orchard
+
+  spider
+
+  worry
+
+  surround
+
+  ivory
+
+  risk
+
+  light'
+bip_39_word_new_line11: 'title
+
+  piece
+
+  grape
+
+  orchard
+
+  spider
+
+  worry
+
+  surround
+
+  ivory
+
+  risk
+
+  light
+
+  galaxy'
+bip_39_word_new_line12: 'title
+
+  piece
+
+  grape
+
+  orchard
+
+  spider
+
+  worry
+
+  surround
+
+  ivory
+
+  risk
+
+  light
+
+  galaxy
+
+  asset'
+bip_39_word_new_line2: 'title
+
+  piece'
+bip_39_word_new_line3: 'title
+
+  piece
+
+  grape'
+bip_39_word_new_line4: 'title
+
+  piece
+
+  grape
+
+  orchard'
+bip_39_word_new_line5: 'title
+
+  piece
+
+  grape
+
+  orchard
+
+  spider'
+bip_39_word_new_line6: 'title
+
+  piece
+
+  grape
+
+  orchard
+
+  spider
+
+  worry'
+bip_39_word_new_line7: 'title
+
+  piece
+
+  grape
+
+  orchard
+
+  spider
+
+  worry
+
+  surround'
+bip_39_word_new_line8: 'title
+
+  piece
+
+  grape
+
+  orchard
+
+  spider
+
+  worry
+
+  surround
+
+  ivory'
+bip_39_word_new_line9: 'title
+
+  piece
+
+  grape
+
+  orchard
+
+  spider
+
+  worry
+
+  surround
+
+  ivory
+
+  risk'
+bip_39_word_space_0:
+- title
+- piece
+- grape
+- orchard
+- spider
+- worry
+- surround
+- ivory
+- risk
+- light
+- galaxy
+- asset
+bip_39_word_space_1: title
+bip_39_word_space_10: title piece grape orchard spider worry surround ivory risk light
+bip_39_word_space_11: title piece grape orchard spider worry surround ivory risk light
+  galaxy
+bip_39_word_space_12: title piece grape orchard spider worry surround ivory risk light
+  galaxy asset
+bip_39_word_space_2: title piece
+bip_39_word_space_3: title piece grape
+bip_39_word_space_4: title piece grape orchard
+bip_39_word_space_5: title piece grape orchard spider
+bip_39_word_space_6: title piece grape orchard spider worry
+bip_39_word_space_7: title piece grape orchard spider worry surround
+bip_39_word_space_8: title piece grape orchard spider worry surround ivory
+bip_39_word_space_9: title piece grape orchard spider worry surround ivory risk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

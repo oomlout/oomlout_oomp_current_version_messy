@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 12d0_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wedding black
+  * bip 39 word 3: wedding black patch
+  * bip 39 word: wedding black patch taxi toilet exit ankle people material trap input actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wedding |  
+| bip_39_word_new_br10 | wedding<br>black<br>patch<br>taxi<br>toilet<br>exit<br>ankle<br>people<br>material<br>trap |  
+| bip_39_word_new_br11 | wedding<br>black<br>patch<br>taxi<br>toilet<br>exit<br>ankle<br>people<br>material<br>trap<br>input |  
+| bip_39_word_new_br12 | wedding<br>black<br>patch<br>taxi<br>toilet<br>exit<br>ankle<br>people<br>material<br>trap<br>input<br>actual |  
+| bip_39_word_new_br2 | wedding<br>black |  
+| bip_39_word_new_br3 | wedding<br>black<br>patch |  
+| bip_39_word_new_br4 | wedding<br>black<br>patch<br>taxi |  
+| bip_39_word_new_br5 | wedding<br>black<br>patch<br>taxi<br>toilet |  
+| bip_39_word_new_br6 | wedding<br>black<br>patch<br>taxi<br>toilet<br>exit |  
+| bip_39_word_new_br7 | wedding<br>black<br>patch<br>taxi<br>toilet<br>exit<br>ankle |  
+| bip_39_word_new_br8 | wedding<br>black<br>patch<br>taxi<br>toilet<br>exit<br>ankle<br>people |  
+| bip_39_word_new_br9 | wedding<br>black<br>patch<br>taxi<br>toilet<br>exit<br>ankle<br>people<br>material |  
+| bip_39_word_new_line1 | wedding |  
+| bip_39_word_new_line10 | wedding
+black
+patch
+taxi
+toilet
+exit
+ankle
+people
+material
+trap |  
+| bip_39_word_new_line11 | wedding
+black
+patch
+taxi
+toilet
+exit
+ankle
+people
+material
+trap
+input |  
+| bip_39_word_new_line12 | wedding
+black
+patch
+taxi
+toilet
+exit
+ankle
+people
+material
+trap
+input
+actual |  
+| bip_39_word_new_line2 | wedding
+black |  
+| bip_39_word_new_line3 | wedding
+black
+patch |  
+| bip_39_word_new_line4 | wedding
+black
+patch
+taxi |  
+| bip_39_word_new_line5 | wedding
+black
+patch
+taxi
+toilet |  
+| bip_39_word_new_line6 | wedding
+black
+patch
+taxi
+toilet
+exit |  
+| bip_39_word_new_line7 | wedding
+black
+patch
+taxi
+toilet
+exit
+ankle |  
+| bip_39_word_new_line8 | wedding
+black
+patch
+taxi
+toilet
+exit
+ankle
+people |  
+| bip_39_word_new_line9 | wedding
+black
+patch
+taxi
+toilet
+exit
+ankle
+people
+material |  
+| bip_39_word_space_0 | ['wedding', 'black', 'patch', 'taxi', 'toilet', 'exit', 'ankle', 'people', 'material', 'trap', 'input', 'actual'] |  
+| bip_39_word_space_1 | wedding |  
+| bip_39_word_space_10 | wedding black patch taxi toilet exit ankle people material trap |  
+| bip_39_word_space_11 | wedding black patch taxi toilet exit ankle people material trap input |  
+| bip_39_word_space_12 | wedding black patch taxi toilet exit ankle people material trap input actual |  
+| bip_39_word_space_2 | wedding black |  
+| bip_39_word_space_3 | wedding black patch |  
+| bip_39_word_space_4 | wedding black patch taxi |  
+| bip_39_word_space_5 | wedding black patch taxi toilet |  
+| bip_39_word_space_6 | wedding black patch taxi toilet exit |  
+| bip_39_word_space_7 | wedding black patch taxi toilet exit ankle |  
+| bip_39_word_space_8 | wedding black patch taxi toilet exit ankle people |  
+| bip_39_word_space_9 | wedding black patch taxi toilet exit ankle people material |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hockey acoustic
+  * bip 39 word 3: hockey acoustic easily
+  * bip 39 word: hockey acoustic easily build network inmate immense warm boat candy domain around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hockey |  
+| bip_39_word_new_br10 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate<br>immense<br>warm<br>boat<br>candy |  
+| bip_39_word_new_br11 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate<br>immense<br>warm<br>boat<br>candy<br>domain |  
+| bip_39_word_new_br12 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate<br>immense<br>warm<br>boat<br>candy<br>domain<br>around |  
+| bip_39_word_new_br2 | hockey<br>acoustic |  
+| bip_39_word_new_br3 | hockey<br>acoustic<br>easily |  
+| bip_39_word_new_br4 | hockey<br>acoustic<br>easily<br>build |  
+| bip_39_word_new_br5 | hockey<br>acoustic<br>easily<br>build<br>network |  
+| bip_39_word_new_br6 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate |  
+| bip_39_word_new_br7 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate<br>immense |  
+| bip_39_word_new_br8 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate<br>immense<br>warm |  
+| bip_39_word_new_br9 | hockey<br>acoustic<br>easily<br>build<br>network<br>inmate<br>immense<br>warm<br>boat |  
+| bip_39_word_new_line1 | hockey |  
+| bip_39_word_new_line10 | hockey
+acoustic
+easily
+build
+network
+inmate
+immense
+warm
+boat
+candy |  
+| bip_39_word_new_line11 | hockey
+acoustic
+easily
+build
+network
+inmate
+immense
+warm
+boat
+candy
+domain |  
+| bip_39_word_new_line12 | hockey
+acoustic
+easily
+build
+network
+inmate
+immense
+warm
+boat
+candy
+domain
+around |  
+| bip_39_word_new_line2 | hockey
+acoustic |  
+| bip_39_word_new_line3 | hockey
+acoustic
+easily |  
+| bip_39_word_new_line4 | hockey
+acoustic
+easily
+build |  
+| bip_39_word_new_line5 | hockey
+acoustic
+easily
+build
+network |  
+| bip_39_word_new_line6 | hockey
+acoustic
+easily
+build
+network
+inmate |  
+| bip_39_word_new_line7 | hockey
+acoustic
+easily
+build
+network
+inmate
+immense |  
+| bip_39_word_new_line8 | hockey
+acoustic
+easily
+build
+network
+inmate
+immense
+warm |  
+| bip_39_word_new_line9 | hockey
+acoustic
+easily
+build
+network
+inmate
+immense
+warm
+boat |  
+| bip_39_word_space_0 | ['hockey', 'acoustic', 'easily', 'build', 'network', 'inmate', 'immense', 'warm', 'boat', 'candy', 'domain', 'around'] |  
+| bip_39_word_space_1 | hockey |  
+| bip_39_word_space_10 | hockey acoustic easily build network inmate immense warm boat candy |  
+| bip_39_word_space_11 | hockey acoustic easily build network inmate immense warm boat candy domain |  
+| bip_39_word_space_12 | hockey acoustic easily build network inmate immense warm boat candy domain around |  
+| bip_39_word_space_2 | hockey acoustic |  
+| bip_39_word_space_3 | hockey acoustic easily |  
+| bip_39_word_space_4 | hockey acoustic easily build |  
+| bip_39_word_space_5 | hockey acoustic easily build network |  
+| bip_39_word_space_6 | hockey acoustic easily build network inmate |  
+| bip_39_word_space_7 | hockey acoustic easily build network inmate immense |  
+| bip_39_word_space_8 | hockey acoustic easily build network inmate immense warm |  
+| bip_39_word_space_9 | hockey acoustic easily build network inmate immense warm boat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

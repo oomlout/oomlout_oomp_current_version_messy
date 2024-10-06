@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shiver able
+  * bip 39 word 3: shiver able oppose
+  * bip 39 word: shiver able oppose flip host lucky top job wool album okay angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shiver |  
+| bip_39_word_new_br10 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky<br>top<br>job<br>wool<br>album |  
+| bip_39_word_new_br11 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky<br>top<br>job<br>wool<br>album<br>okay |  
+| bip_39_word_new_br12 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky<br>top<br>job<br>wool<br>album<br>okay<br>angle |  
+| bip_39_word_new_br2 | shiver<br>able |  
+| bip_39_word_new_br3 | shiver<br>able<br>oppose |  
+| bip_39_word_new_br4 | shiver<br>able<br>oppose<br>flip |  
+| bip_39_word_new_br5 | shiver<br>able<br>oppose<br>flip<br>host |  
+| bip_39_word_new_br6 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky |  
+| bip_39_word_new_br7 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky<br>top |  
+| bip_39_word_new_br8 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky<br>top<br>job |  
+| bip_39_word_new_br9 | shiver<br>able<br>oppose<br>flip<br>host<br>lucky<br>top<br>job<br>wool |  
+| bip_39_word_new_line1 | shiver |  
+| bip_39_word_new_line10 | shiver
+able
+oppose
+flip
+host
+lucky
+top
+job
+wool
+album |  
+| bip_39_word_new_line11 | shiver
+able
+oppose
+flip
+host
+lucky
+top
+job
+wool
+album
+okay |  
+| bip_39_word_new_line12 | shiver
+able
+oppose
+flip
+host
+lucky
+top
+job
+wool
+album
+okay
+angle |  
+| bip_39_word_new_line2 | shiver
+able |  
+| bip_39_word_new_line3 | shiver
+able
+oppose |  
+| bip_39_word_new_line4 | shiver
+able
+oppose
+flip |  
+| bip_39_word_new_line5 | shiver
+able
+oppose
+flip
+host |  
+| bip_39_word_new_line6 | shiver
+able
+oppose
+flip
+host
+lucky |  
+| bip_39_word_new_line7 | shiver
+able
+oppose
+flip
+host
+lucky
+top |  
+| bip_39_word_new_line8 | shiver
+able
+oppose
+flip
+host
+lucky
+top
+job |  
+| bip_39_word_new_line9 | shiver
+able
+oppose
+flip
+host
+lucky
+top
+job
+wool |  
+| bip_39_word_space_0 | ['shiver', 'able', 'oppose', 'flip', 'host', 'lucky', 'top', 'job', 'wool', 'album', 'okay', 'angle'] |  
+| bip_39_word_space_1 | shiver |  
+| bip_39_word_space_10 | shiver able oppose flip host lucky top job wool album |  
+| bip_39_word_space_11 | shiver able oppose flip host lucky top job wool album okay |  
+| bip_39_word_space_12 | shiver able oppose flip host lucky top job wool album okay angle |  
+| bip_39_word_space_2 | shiver able |  
+| bip_39_word_space_3 | shiver able oppose |  
+| bip_39_word_space_4 | shiver able oppose flip |  
+| bip_39_word_space_5 | shiver able oppose flip host |  
+| bip_39_word_space_6 | shiver able oppose flip host lucky |  
+| bip_39_word_space_7 | shiver able oppose flip host lucky top |  
+| bip_39_word_space_8 | shiver able oppose flip host lucky top job |  
+| bip_39_word_space_9 | shiver able oppose flip host lucky top job wool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

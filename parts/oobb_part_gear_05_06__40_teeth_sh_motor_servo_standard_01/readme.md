@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lyrics island
+  * bip 39 word 3: lyrics island cry
+  * bip 39 word: lyrics island cry cupboard company shine supply aunt purse universe sadness absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lyrics |  
+| bip_39_word_new_br10 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine<br>supply<br>aunt<br>purse<br>universe |  
+| bip_39_word_new_br11 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine<br>supply<br>aunt<br>purse<br>universe<br>sadness |  
+| bip_39_word_new_br12 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine<br>supply<br>aunt<br>purse<br>universe<br>sadness<br>absent |  
+| bip_39_word_new_br2 | lyrics<br>island |  
+| bip_39_word_new_br3 | lyrics<br>island<br>cry |  
+| bip_39_word_new_br4 | lyrics<br>island<br>cry<br>cupboard |  
+| bip_39_word_new_br5 | lyrics<br>island<br>cry<br>cupboard<br>company |  
+| bip_39_word_new_br6 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine |  
+| bip_39_word_new_br7 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine<br>supply |  
+| bip_39_word_new_br8 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine<br>supply<br>aunt |  
+| bip_39_word_new_br9 | lyrics<br>island<br>cry<br>cupboard<br>company<br>shine<br>supply<br>aunt<br>purse |  
+| bip_39_word_new_line1 | lyrics |  
+| bip_39_word_new_line10 | lyrics
+island
+cry
+cupboard
+company
+shine
+supply
+aunt
+purse
+universe |  
+| bip_39_word_new_line11 | lyrics
+island
+cry
+cupboard
+company
+shine
+supply
+aunt
+purse
+universe
+sadness |  
+| bip_39_word_new_line12 | lyrics
+island
+cry
+cupboard
+company
+shine
+supply
+aunt
+purse
+universe
+sadness
+absent |  
+| bip_39_word_new_line2 | lyrics
+island |  
+| bip_39_word_new_line3 | lyrics
+island
+cry |  
+| bip_39_word_new_line4 | lyrics
+island
+cry
+cupboard |  
+| bip_39_word_new_line5 | lyrics
+island
+cry
+cupboard
+company |  
+| bip_39_word_new_line6 | lyrics
+island
+cry
+cupboard
+company
+shine |  
+| bip_39_word_new_line7 | lyrics
+island
+cry
+cupboard
+company
+shine
+supply |  
+| bip_39_word_new_line8 | lyrics
+island
+cry
+cupboard
+company
+shine
+supply
+aunt |  
+| bip_39_word_new_line9 | lyrics
+island
+cry
+cupboard
+company
+shine
+supply
+aunt
+purse |  
+| bip_39_word_space_0 | ['lyrics', 'island', 'cry', 'cupboard', 'company', 'shine', 'supply', 'aunt', 'purse', 'universe', 'sadness', 'absent'] |  
+| bip_39_word_space_1 | lyrics |  
+| bip_39_word_space_10 | lyrics island cry cupboard company shine supply aunt purse universe |  
+| bip_39_word_space_11 | lyrics island cry cupboard company shine supply aunt purse universe sadness |  
+| bip_39_word_space_12 | lyrics island cry cupboard company shine supply aunt purse universe sadness absent |  
+| bip_39_word_space_2 | lyrics island |  
+| bip_39_word_space_3 | lyrics island cry |  
+| bip_39_word_space_4 | lyrics island cry cupboard |  
+| bip_39_word_space_5 | lyrics island cry cupboard company |  
+| bip_39_word_space_6 | lyrics island cry cupboard company shine |  
+| bip_39_word_space_7 | lyrics island cry cupboard company shine supply |  
+| bip_39_word_space_8 | lyrics island cry cupboard company shine supply aunt |  
+| bip_39_word_space_9 | lyrics island cry cupboard company shine supply aunt purse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

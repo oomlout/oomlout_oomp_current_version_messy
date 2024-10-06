@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dumb
+bip_39_word_new_br10: dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny
+bip_39_word_new_br11: dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny<br>try
+bip_39_word_new_br12: dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left<br>deny<br>try<br>amateur
+bip_39_word_new_br2: dumb<br>tower
+bip_39_word_new_br3: dumb<br>tower<br>gold
+bip_39_word_new_br4: dumb<br>tower<br>gold<br>sentence
+bip_39_word_new_br5: dumb<br>tower<br>gold<br>sentence<br>success
+bip_39_word_new_br6: dumb<br>tower<br>gold<br>sentence<br>success<br>card
+bip_39_word_new_br7: dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack
+bip_39_word_new_br8: dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special
+bip_39_word_new_br9: dumb<br>tower<br>gold<br>sentence<br>success<br>card<br>snack<br>special<br>left
+bip_39_word_new_line1: dumb
+bip_39_word_new_line10: 'dumb
+
+  tower
+
+  gold
+
+  sentence
+
+  success
+
+  card
+
+  snack
+
+  special
+
+  left
+
+  deny'
+bip_39_word_new_line11: 'dumb
+
+  tower
+
+  gold
+
+  sentence
+
+  success
+
+  card
+
+  snack
+
+  special
+
+  left
+
+  deny
+
+  try'
+bip_39_word_new_line12: 'dumb
+
+  tower
+
+  gold
+
+  sentence
+
+  success
+
+  card
+
+  snack
+
+  special
+
+  left
+
+  deny
+
+  try
+
+  amateur'
+bip_39_word_new_line2: 'dumb
+
+  tower'
+bip_39_word_new_line3: 'dumb
+
+  tower
+
+  gold'
+bip_39_word_new_line4: 'dumb
+
+  tower
+
+  gold
+
+  sentence'
+bip_39_word_new_line5: 'dumb
+
+  tower
+
+  gold
+
+  sentence
+
+  success'
+bip_39_word_new_line6: 'dumb
+
+  tower
+
+  gold
+
+  sentence
+
+  success
+
+  card'
+bip_39_word_new_line7: 'dumb
+
+  tower
+
+  gold
+
+  sentence
+
+  success
+
+  card
+
+  snack'
+bip_39_word_new_line8: 'dumb
+
+  tower
+
+  gold
+
+  sentence
+
+  success
+
+  card
+
+  snack
+
+  special'
+bip_39_word_new_line9: 'dumb
+
+  tower
+
+  gold
+
+  sentence
+
+  success
+
+  card
+
+  snack
+
+  special
+
+  left'
+bip_39_word_space_0:
+- dumb
+- tower
+- gold
+- sentence
+- success
+- card
+- snack
+- special
+- left
+- deny
+- try
+- amateur
+bip_39_word_space_1: dumb
+bip_39_word_space_10: dumb tower gold sentence success card snack special left deny
+bip_39_word_space_11: dumb tower gold sentence success card snack special left deny
+  try
+bip_39_word_space_12: dumb tower gold sentence success card snack special left deny
+  try amateur
+bip_39_word_space_2: dumb tower
+bip_39_word_space_3: dumb tower gold
+bip_39_word_space_4: dumb tower gold sentence
+bip_39_word_space_5: dumb tower gold sentence success
+bip_39_word_space_6: dumb tower gold sentence success card
+bip_39_word_space_7: dumb tower gold sentence success card snack
+bip_39_word_space_8: dumb tower gold sentence success card snack special
+bip_39_word_space_9: dumb tower gold sentence success card snack special left
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

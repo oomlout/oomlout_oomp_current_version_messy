@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cause
+bip_39_word_new_br10: cause<br>slim<br>bounce<br>unveil<br>approve<br>soul<br>cage<br>benefit<br>dizzy<br>amazing
+bip_39_word_new_br11: cause<br>slim<br>bounce<br>unveil<br>approve<br>soul<br>cage<br>benefit<br>dizzy<br>amazing<br>cinnamon
+bip_39_word_new_br12: cause<br>slim<br>bounce<br>unveil<br>approve<br>soul<br>cage<br>benefit<br>dizzy<br>amazing<br>cinnamon<br>aerobic
+bip_39_word_new_br2: cause<br>slim
+bip_39_word_new_br3: cause<br>slim<br>bounce
+bip_39_word_new_br4: cause<br>slim<br>bounce<br>unveil
+bip_39_word_new_br5: cause<br>slim<br>bounce<br>unveil<br>approve
+bip_39_word_new_br6: cause<br>slim<br>bounce<br>unveil<br>approve<br>soul
+bip_39_word_new_br7: cause<br>slim<br>bounce<br>unveil<br>approve<br>soul<br>cage
+bip_39_word_new_br8: cause<br>slim<br>bounce<br>unveil<br>approve<br>soul<br>cage<br>benefit
+bip_39_word_new_br9: cause<br>slim<br>bounce<br>unveil<br>approve<br>soul<br>cage<br>benefit<br>dizzy
+bip_39_word_new_line1: cause
+bip_39_word_new_line10: 'cause
+
+  slim
+
+  bounce
+
+  unveil
+
+  approve
+
+  soul
+
+  cage
+
+  benefit
+
+  dizzy
+
+  amazing'
+bip_39_word_new_line11: 'cause
+
+  slim
+
+  bounce
+
+  unveil
+
+  approve
+
+  soul
+
+  cage
+
+  benefit
+
+  dizzy
+
+  amazing
+
+  cinnamon'
+bip_39_word_new_line12: 'cause
+
+  slim
+
+  bounce
+
+  unveil
+
+  approve
+
+  soul
+
+  cage
+
+  benefit
+
+  dizzy
+
+  amazing
+
+  cinnamon
+
+  aerobic'
+bip_39_word_new_line2: 'cause
+
+  slim'
+bip_39_word_new_line3: 'cause
+
+  slim
+
+  bounce'
+bip_39_word_new_line4: 'cause
+
+  slim
+
+  bounce
+
+  unveil'
+bip_39_word_new_line5: 'cause
+
+  slim
+
+  bounce
+
+  unveil
+
+  approve'
+bip_39_word_new_line6: 'cause
+
+  slim
+
+  bounce
+
+  unveil
+
+  approve
+
+  soul'
+bip_39_word_new_line7: 'cause
+
+  slim
+
+  bounce
+
+  unveil
+
+  approve
+
+  soul
+
+  cage'
+bip_39_word_new_line8: 'cause
+
+  slim
+
+  bounce
+
+  unveil
+
+  approve
+
+  soul
+
+  cage
+
+  benefit'
+bip_39_word_new_line9: 'cause
+
+  slim
+
+  bounce
+
+  unveil
+
+  approve
+
+  soul
+
+  cage
+
+  benefit
+
+  dizzy'
+bip_39_word_space_0:
+- cause
+- slim
+- bounce
+- unveil
+- approve
+- soul
+- cage
+- benefit
+- dizzy
+- amazing
+- cinnamon
+- aerobic
+bip_39_word_space_1: cause
+bip_39_word_space_10: cause slim bounce unveil approve soul cage benefit dizzy amazing
+bip_39_word_space_11: cause slim bounce unveil approve soul cage benefit dizzy amazing
+  cinnamon
+bip_39_word_space_12: cause slim bounce unveil approve soul cage benefit dizzy amazing
+  cinnamon aerobic
+bip_39_word_space_2: cause slim
+bip_39_word_space_3: cause slim bounce
+bip_39_word_space_4: cause slim bounce unveil
+bip_39_word_space_5: cause slim bounce unveil approve
+bip_39_word_space_6: cause slim bounce unveil approve soul
+bip_39_word_space_7: cause slim bounce unveil approve soul cage
+bip_39_word_space_8: cause slim bounce unveil approve soul cage benefit
+bip_39_word_space_9: cause slim bounce unveil approve soul cage benefit dizzy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

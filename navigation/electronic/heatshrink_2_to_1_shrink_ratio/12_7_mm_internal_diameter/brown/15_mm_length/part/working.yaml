@@ -1,3 +1,187 @@
+bip_39_word_new_br1: high
+bip_39_word_new_br10: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote
+bip_39_word_new_br11: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote<br>weapon
+bip_39_word_new_br12: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass<br>quote<br>weapon<br>air
+bip_39_word_new_br2: high<br>action
+bip_39_word_new_br3: high<br>action<br>now
+bip_39_word_new_br4: high<br>action<br>now<br>season
+bip_39_word_new_br5: high<br>action<br>now<br>season<br>place
+bip_39_word_new_br6: high<br>action<br>now<br>season<br>place<br>quantum
+bip_39_word_new_br7: high<br>action<br>now<br>season<br>place<br>quantum<br>security
+bip_39_word_new_br8: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry
+bip_39_word_new_br9: high<br>action<br>now<br>season<br>place<br>quantum<br>security<br>industry<br>pass
+bip_39_word_new_line1: high
+bip_39_word_new_line10: 'high
+
+  action
+
+  now
+
+  season
+
+  place
+
+  quantum
+
+  security
+
+  industry
+
+  pass
+
+  quote'
+bip_39_word_new_line11: 'high
+
+  action
+
+  now
+
+  season
+
+  place
+
+  quantum
+
+  security
+
+  industry
+
+  pass
+
+  quote
+
+  weapon'
+bip_39_word_new_line12: 'high
+
+  action
+
+  now
+
+  season
+
+  place
+
+  quantum
+
+  security
+
+  industry
+
+  pass
+
+  quote
+
+  weapon
+
+  air'
+bip_39_word_new_line2: 'high
+
+  action'
+bip_39_word_new_line3: 'high
+
+  action
+
+  now'
+bip_39_word_new_line4: 'high
+
+  action
+
+  now
+
+  season'
+bip_39_word_new_line5: 'high
+
+  action
+
+  now
+
+  season
+
+  place'
+bip_39_word_new_line6: 'high
+
+  action
+
+  now
+
+  season
+
+  place
+
+  quantum'
+bip_39_word_new_line7: 'high
+
+  action
+
+  now
+
+  season
+
+  place
+
+  quantum
+
+  security'
+bip_39_word_new_line8: 'high
+
+  action
+
+  now
+
+  season
+
+  place
+
+  quantum
+
+  security
+
+  industry'
+bip_39_word_new_line9: 'high
+
+  action
+
+  now
+
+  season
+
+  place
+
+  quantum
+
+  security
+
+  industry
+
+  pass'
+bip_39_word_space_0:
+- high
+- action
+- now
+- season
+- place
+- quantum
+- security
+- industry
+- pass
+- quote
+- weapon
+- air
+bip_39_word_space_1: high
+bip_39_word_space_10: high action now season place quantum security industry pass
+  quote
+bip_39_word_space_11: high action now season place quantum security industry pass
+  quote weapon
+bip_39_word_space_12: high action now season place quantum security industry pass
+  quote weapon air
+bip_39_word_space_2: high action
+bip_39_word_space_3: high action now
+bip_39_word_space_4: high action now season
+bip_39_word_space_5: high action now season place
+bip_39_word_space_6: high action now season place quantum
+bip_39_word_space_7: high action now season place quantum security
+bip_39_word_space_8: high action now season place quantum security industry
+bip_39_word_space_9: high action now season place quantum security industry pass
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

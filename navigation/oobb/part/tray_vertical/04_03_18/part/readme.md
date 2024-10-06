@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: very immune
+  * bip 39 word 3: very immune creek
+  * bip 39 word: very immune creek melt mirror cheap nature zoo virtual toe art accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | very |  
+| bip_39_word_new_br10 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap<br>nature<br>zoo<br>virtual<br>toe |  
+| bip_39_word_new_br11 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap<br>nature<br>zoo<br>virtual<br>toe<br>art |  
+| bip_39_word_new_br12 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap<br>nature<br>zoo<br>virtual<br>toe<br>art<br>accident |  
+| bip_39_word_new_br2 | very<br>immune |  
+| bip_39_word_new_br3 | very<br>immune<br>creek |  
+| bip_39_word_new_br4 | very<br>immune<br>creek<br>melt |  
+| bip_39_word_new_br5 | very<br>immune<br>creek<br>melt<br>mirror |  
+| bip_39_word_new_br6 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap |  
+| bip_39_word_new_br7 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap<br>nature |  
+| bip_39_word_new_br8 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap<br>nature<br>zoo |  
+| bip_39_word_new_br9 | very<br>immune<br>creek<br>melt<br>mirror<br>cheap<br>nature<br>zoo<br>virtual |  
+| bip_39_word_new_line1 | very |  
+| bip_39_word_new_line10 | very
+immune
+creek
+melt
+mirror
+cheap
+nature
+zoo
+virtual
+toe |  
+| bip_39_word_new_line11 | very
+immune
+creek
+melt
+mirror
+cheap
+nature
+zoo
+virtual
+toe
+art |  
+| bip_39_word_new_line12 | very
+immune
+creek
+melt
+mirror
+cheap
+nature
+zoo
+virtual
+toe
+art
+accident |  
+| bip_39_word_new_line2 | very
+immune |  
+| bip_39_word_new_line3 | very
+immune
+creek |  
+| bip_39_word_new_line4 | very
+immune
+creek
+melt |  
+| bip_39_word_new_line5 | very
+immune
+creek
+melt
+mirror |  
+| bip_39_word_new_line6 | very
+immune
+creek
+melt
+mirror
+cheap |  
+| bip_39_word_new_line7 | very
+immune
+creek
+melt
+mirror
+cheap
+nature |  
+| bip_39_word_new_line8 | very
+immune
+creek
+melt
+mirror
+cheap
+nature
+zoo |  
+| bip_39_word_new_line9 | very
+immune
+creek
+melt
+mirror
+cheap
+nature
+zoo
+virtual |  
+| bip_39_word_space_0 | ['very', 'immune', 'creek', 'melt', 'mirror', 'cheap', 'nature', 'zoo', 'virtual', 'toe', 'art', 'accident'] |  
+| bip_39_word_space_1 | very |  
+| bip_39_word_space_10 | very immune creek melt mirror cheap nature zoo virtual toe |  
+| bip_39_word_space_11 | very immune creek melt mirror cheap nature zoo virtual toe art |  
+| bip_39_word_space_12 | very immune creek melt mirror cheap nature zoo virtual toe art accident |  
+| bip_39_word_space_2 | very immune |  
+| bip_39_word_space_3 | very immune creek |  
+| bip_39_word_space_4 | very immune creek melt |  
+| bip_39_word_space_5 | very immune creek melt mirror |  
+| bip_39_word_space_6 | very immune creek melt mirror cheap |  
+| bip_39_word_space_7 | very immune creek melt mirror cheap nature |  
+| bip_39_word_space_8 | very immune creek melt mirror cheap nature zoo |  
+| bip_39_word_space_9 | very immune creek melt mirror cheap nature zoo virtual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trumpet tiny
+  * bip 39 word 3: trumpet tiny sausage
+  * bip 39 word: trumpet tiny sausage settle nothing live cancel wood swift scissors useful alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trumpet |  
+| bip_39_word_new_br10 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live<br>cancel<br>wood<br>swift<br>scissors |  
+| bip_39_word_new_br11 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live<br>cancel<br>wood<br>swift<br>scissors<br>useful |  
+| bip_39_word_new_br12 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live<br>cancel<br>wood<br>swift<br>scissors<br>useful<br>alarm |  
+| bip_39_word_new_br2 | trumpet<br>tiny |  
+| bip_39_word_new_br3 | trumpet<br>tiny<br>sausage |  
+| bip_39_word_new_br4 | trumpet<br>tiny<br>sausage<br>settle |  
+| bip_39_word_new_br5 | trumpet<br>tiny<br>sausage<br>settle<br>nothing |  
+| bip_39_word_new_br6 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live |  
+| bip_39_word_new_br7 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live<br>cancel |  
+| bip_39_word_new_br8 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live<br>cancel<br>wood |  
+| bip_39_word_new_br9 | trumpet<br>tiny<br>sausage<br>settle<br>nothing<br>live<br>cancel<br>wood<br>swift |  
+| bip_39_word_new_line1 | trumpet |  
+| bip_39_word_new_line10 | trumpet
+tiny
+sausage
+settle
+nothing
+live
+cancel
+wood
+swift
+scissors |  
+| bip_39_word_new_line11 | trumpet
+tiny
+sausage
+settle
+nothing
+live
+cancel
+wood
+swift
+scissors
+useful |  
+| bip_39_word_new_line12 | trumpet
+tiny
+sausage
+settle
+nothing
+live
+cancel
+wood
+swift
+scissors
+useful
+alarm |  
+| bip_39_word_new_line2 | trumpet
+tiny |  
+| bip_39_word_new_line3 | trumpet
+tiny
+sausage |  
+| bip_39_word_new_line4 | trumpet
+tiny
+sausage
+settle |  
+| bip_39_word_new_line5 | trumpet
+tiny
+sausage
+settle
+nothing |  
+| bip_39_word_new_line6 | trumpet
+tiny
+sausage
+settle
+nothing
+live |  
+| bip_39_word_new_line7 | trumpet
+tiny
+sausage
+settle
+nothing
+live
+cancel |  
+| bip_39_word_new_line8 | trumpet
+tiny
+sausage
+settle
+nothing
+live
+cancel
+wood |  
+| bip_39_word_new_line9 | trumpet
+tiny
+sausage
+settle
+nothing
+live
+cancel
+wood
+swift |  
+| bip_39_word_space_0 | ['trumpet', 'tiny', 'sausage', 'settle', 'nothing', 'live', 'cancel', 'wood', 'swift', 'scissors', 'useful', 'alarm'] |  
+| bip_39_word_space_1 | trumpet |  
+| bip_39_word_space_10 | trumpet tiny sausage settle nothing live cancel wood swift scissors |  
+| bip_39_word_space_11 | trumpet tiny sausage settle nothing live cancel wood swift scissors useful |  
+| bip_39_word_space_12 | trumpet tiny sausage settle nothing live cancel wood swift scissors useful alarm |  
+| bip_39_word_space_2 | trumpet tiny |  
+| bip_39_word_space_3 | trumpet tiny sausage |  
+| bip_39_word_space_4 | trumpet tiny sausage settle |  
+| bip_39_word_space_5 | trumpet tiny sausage settle nothing |  
+| bip_39_word_space_6 | trumpet tiny sausage settle nothing live |  
+| bip_39_word_space_7 | trumpet tiny sausage settle nothing live cancel |  
+| bip_39_word_space_8 | trumpet tiny sausage settle nothing live cancel wood |  
+| bip_39_word_space_9 | trumpet tiny sausage settle nothing live cancel wood swift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: thought
+bip_39_word_new_br10: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area
+bip_39_word_new_br11: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area<br>cat
+bip_39_word_new_br12: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule<br>area<br>cat<br>armed
+bip_39_word_new_br2: thought<br>toe
+bip_39_word_new_br3: thought<br>toe<br>own
+bip_39_word_new_br4: thought<br>toe<br>own<br>wealth
+bip_39_word_new_br5: thought<br>toe<br>own<br>wealth<br>ribbon
+bip_39_word_new_br6: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom
+bip_39_word_new_br7: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest
+bip_39_word_new_br8: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try
+bip_39_word_new_br9: thought<br>toe<br>own<br>wealth<br>ribbon<br>broom<br>interest<br>try<br>rule
+bip_39_word_new_line1: thought
+bip_39_word_new_line10: 'thought
+
+  toe
+
+  own
+
+  wealth
+
+  ribbon
+
+  broom
+
+  interest
+
+  try
+
+  rule
+
+  area'
+bip_39_word_new_line11: 'thought
+
+  toe
+
+  own
+
+  wealth
+
+  ribbon
+
+  broom
+
+  interest
+
+  try
+
+  rule
+
+  area
+
+  cat'
+bip_39_word_new_line12: 'thought
+
+  toe
+
+  own
+
+  wealth
+
+  ribbon
+
+  broom
+
+  interest
+
+  try
+
+  rule
+
+  area
+
+  cat
+
+  armed'
+bip_39_word_new_line2: 'thought
+
+  toe'
+bip_39_word_new_line3: 'thought
+
+  toe
+
+  own'
+bip_39_word_new_line4: 'thought
+
+  toe
+
+  own
+
+  wealth'
+bip_39_word_new_line5: 'thought
+
+  toe
+
+  own
+
+  wealth
+
+  ribbon'
+bip_39_word_new_line6: 'thought
+
+  toe
+
+  own
+
+  wealth
+
+  ribbon
+
+  broom'
+bip_39_word_new_line7: 'thought
+
+  toe
+
+  own
+
+  wealth
+
+  ribbon
+
+  broom
+
+  interest'
+bip_39_word_new_line8: 'thought
+
+  toe
+
+  own
+
+  wealth
+
+  ribbon
+
+  broom
+
+  interest
+
+  try'
+bip_39_word_new_line9: 'thought
+
+  toe
+
+  own
+
+  wealth
+
+  ribbon
+
+  broom
+
+  interest
+
+  try
+
+  rule'
+bip_39_word_space_0:
+- thought
+- toe
+- own
+- wealth
+- ribbon
+- broom
+- interest
+- try
+- rule
+- area
+- cat
+- armed
+bip_39_word_space_1: thought
+bip_39_word_space_10: thought toe own wealth ribbon broom interest try rule area
+bip_39_word_space_11: thought toe own wealth ribbon broom interest try rule area cat
+bip_39_word_space_12: thought toe own wealth ribbon broom interest try rule area cat
+  armed
+bip_39_word_space_2: thought toe
+bip_39_word_space_3: thought toe own
+bip_39_word_space_4: thought toe own wealth
+bip_39_word_space_5: thought toe own wealth ribbon
+bip_39_word_space_6: thought toe own wealth ribbon broom
+bip_39_word_space_7: thought toe own wealth ribbon broom interest
+bip_39_word_space_8: thought toe own wealth ribbon broom interest try
+bip_39_word_space_9: thought toe own wealth ribbon broom interest try rule
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

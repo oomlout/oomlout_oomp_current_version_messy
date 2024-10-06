@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: huge east
+  * bip 39 word 3: huge east diary
+  * bip 39 word: huge east diary guitar donor raw wrist capital gentle soap dad almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | huge |  
+| bip_39_word_new_br10 | huge<br>east<br>diary<br>guitar<br>donor<br>raw<br>wrist<br>capital<br>gentle<br>soap |  
+| bip_39_word_new_br11 | huge<br>east<br>diary<br>guitar<br>donor<br>raw<br>wrist<br>capital<br>gentle<br>soap<br>dad |  
+| bip_39_word_new_br12 | huge<br>east<br>diary<br>guitar<br>donor<br>raw<br>wrist<br>capital<br>gentle<br>soap<br>dad<br>almost |  
+| bip_39_word_new_br2 | huge<br>east |  
+| bip_39_word_new_br3 | huge<br>east<br>diary |  
+| bip_39_word_new_br4 | huge<br>east<br>diary<br>guitar |  
+| bip_39_word_new_br5 | huge<br>east<br>diary<br>guitar<br>donor |  
+| bip_39_word_new_br6 | huge<br>east<br>diary<br>guitar<br>donor<br>raw |  
+| bip_39_word_new_br7 | huge<br>east<br>diary<br>guitar<br>donor<br>raw<br>wrist |  
+| bip_39_word_new_br8 | huge<br>east<br>diary<br>guitar<br>donor<br>raw<br>wrist<br>capital |  
+| bip_39_word_new_br9 | huge<br>east<br>diary<br>guitar<br>donor<br>raw<br>wrist<br>capital<br>gentle |  
+| bip_39_word_new_line1 | huge |  
+| bip_39_word_new_line10 | huge
+east
+diary
+guitar
+donor
+raw
+wrist
+capital
+gentle
+soap |  
+| bip_39_word_new_line11 | huge
+east
+diary
+guitar
+donor
+raw
+wrist
+capital
+gentle
+soap
+dad |  
+| bip_39_word_new_line12 | huge
+east
+diary
+guitar
+donor
+raw
+wrist
+capital
+gentle
+soap
+dad
+almost |  
+| bip_39_word_new_line2 | huge
+east |  
+| bip_39_word_new_line3 | huge
+east
+diary |  
+| bip_39_word_new_line4 | huge
+east
+diary
+guitar |  
+| bip_39_word_new_line5 | huge
+east
+diary
+guitar
+donor |  
+| bip_39_word_new_line6 | huge
+east
+diary
+guitar
+donor
+raw |  
+| bip_39_word_new_line7 | huge
+east
+diary
+guitar
+donor
+raw
+wrist |  
+| bip_39_word_new_line8 | huge
+east
+diary
+guitar
+donor
+raw
+wrist
+capital |  
+| bip_39_word_new_line9 | huge
+east
+diary
+guitar
+donor
+raw
+wrist
+capital
+gentle |  
+| bip_39_word_space_0 | ['huge', 'east', 'diary', 'guitar', 'donor', 'raw', 'wrist', 'capital', 'gentle', 'soap', 'dad', 'almost'] |  
+| bip_39_word_space_1 | huge |  
+| bip_39_word_space_10 | huge east diary guitar donor raw wrist capital gentle soap |  
+| bip_39_word_space_11 | huge east diary guitar donor raw wrist capital gentle soap dad |  
+| bip_39_word_space_12 | huge east diary guitar donor raw wrist capital gentle soap dad almost |  
+| bip_39_word_space_2 | huge east |  
+| bip_39_word_space_3 | huge east diary |  
+| bip_39_word_space_4 | huge east diary guitar |  
+| bip_39_word_space_5 | huge east diary guitar donor |  
+| bip_39_word_space_6 | huge east diary guitar donor raw |  
+| bip_39_word_space_7 | huge east diary guitar donor raw wrist |  
+| bip_39_word_space_8 | huge east diary guitar donor raw wrist capital |  
+| bip_39_word_space_9 | huge east diary guitar donor raw wrist capital gentle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

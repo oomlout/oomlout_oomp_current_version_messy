@@ -1,3 +1,187 @@
+bip_39_word_new_br1: impulse
+bip_39_word_new_br10: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup
+bip_39_word_new_br11: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup<br>casino
+bip_39_word_new_br12: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup<br>casino<br>arena
+bip_39_word_new_br2: impulse<br>gossip
+bip_39_word_new_br3: impulse<br>gossip<br>replace
+bip_39_word_new_br4: impulse<br>gossip<br>replace<br>prison
+bip_39_word_new_br5: impulse<br>gossip<br>replace<br>prison<br>broccoli
+bip_39_word_new_br6: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge
+bip_39_word_new_br7: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule
+bip_39_word_new_br8: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb
+bip_39_word_new_br9: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash
+bip_39_word_new_line1: impulse
+bip_39_word_new_line10: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb
+
+  wash
+
+  setup'
+bip_39_word_new_line11: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb
+
+  wash
+
+  setup
+
+  casino'
+bip_39_word_new_line12: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb
+
+  wash
+
+  setup
+
+  casino
+
+  arena'
+bip_39_word_new_line2: 'impulse
+
+  gossip'
+bip_39_word_new_line3: 'impulse
+
+  gossip
+
+  replace'
+bip_39_word_new_line4: 'impulse
+
+  gossip
+
+  replace
+
+  prison'
+bip_39_word_new_line5: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli'
+bip_39_word_new_line6: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge'
+bip_39_word_new_line7: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule'
+bip_39_word_new_line8: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb'
+bip_39_word_new_line9: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb
+
+  wash'
+bip_39_word_space_0:
+- impulse
+- gossip
+- replace
+- prison
+- broccoli
+- merge
+- rule
+- thumb
+- wash
+- setup
+- casino
+- arena
+bip_39_word_space_1: impulse
+bip_39_word_space_10: impulse gossip replace prison broccoli merge rule thumb wash
+  setup
+bip_39_word_space_11: impulse gossip replace prison broccoli merge rule thumb wash
+  setup casino
+bip_39_word_space_12: impulse gossip replace prison broccoli merge rule thumb wash
+  setup casino arena
+bip_39_word_space_2: impulse gossip
+bip_39_word_space_3: impulse gossip replace
+bip_39_word_space_4: impulse gossip replace prison
+bip_39_word_space_5: impulse gossip replace prison broccoli
+bip_39_word_space_6: impulse gossip replace prison broccoli merge
+bip_39_word_space_7: impulse gossip replace prison broccoli merge rule
+bip_39_word_space_8: impulse gossip replace prison broccoli merge rule thumb
+bip_39_word_space_9: impulse gossip replace prison broccoli merge rule thumb wash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

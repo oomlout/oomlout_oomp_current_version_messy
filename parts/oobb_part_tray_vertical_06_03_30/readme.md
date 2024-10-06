@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glass wrong
+  * bip 39 word 3: glass wrong ancient
+  * bip 39 word: glass wrong ancient truck acquire inform brother system various city high already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glass |  
+| bip_39_word_new_br10 | glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform<br>brother<br>system<br>various<br>city |  
+| bip_39_word_new_br11 | glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform<br>brother<br>system<br>various<br>city<br>high |  
+| bip_39_word_new_br12 | glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform<br>brother<br>system<br>various<br>city<br>high<br>already |  
+| bip_39_word_new_br2 | glass<br>wrong |  
+| bip_39_word_new_br3 | glass<br>wrong<br>ancient |  
+| bip_39_word_new_br4 | glass<br>wrong<br>ancient<br>truck |  
+| bip_39_word_new_br5 | glass<br>wrong<br>ancient<br>truck<br>acquire |  
+| bip_39_word_new_br6 | glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform |  
+| bip_39_word_new_br7 | glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform<br>brother |  
+| bip_39_word_new_br8 | glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform<br>brother<br>system |  
+| bip_39_word_new_br9 | glass<br>wrong<br>ancient<br>truck<br>acquire<br>inform<br>brother<br>system<br>various |  
+| bip_39_word_new_line1 | glass |  
+| bip_39_word_new_line10 | glass
+wrong
+ancient
+truck
+acquire
+inform
+brother
+system
+various
+city |  
+| bip_39_word_new_line11 | glass
+wrong
+ancient
+truck
+acquire
+inform
+brother
+system
+various
+city
+high |  
+| bip_39_word_new_line12 | glass
+wrong
+ancient
+truck
+acquire
+inform
+brother
+system
+various
+city
+high
+already |  
+| bip_39_word_new_line2 | glass
+wrong |  
+| bip_39_word_new_line3 | glass
+wrong
+ancient |  
+| bip_39_word_new_line4 | glass
+wrong
+ancient
+truck |  
+| bip_39_word_new_line5 | glass
+wrong
+ancient
+truck
+acquire |  
+| bip_39_word_new_line6 | glass
+wrong
+ancient
+truck
+acquire
+inform |  
+| bip_39_word_new_line7 | glass
+wrong
+ancient
+truck
+acquire
+inform
+brother |  
+| bip_39_word_new_line8 | glass
+wrong
+ancient
+truck
+acquire
+inform
+brother
+system |  
+| bip_39_word_new_line9 | glass
+wrong
+ancient
+truck
+acquire
+inform
+brother
+system
+various |  
+| bip_39_word_space_0 | ['glass', 'wrong', 'ancient', 'truck', 'acquire', 'inform', 'brother', 'system', 'various', 'city', 'high', 'already'] |  
+| bip_39_word_space_1 | glass |  
+| bip_39_word_space_10 | glass wrong ancient truck acquire inform brother system various city |  
+| bip_39_word_space_11 | glass wrong ancient truck acquire inform brother system various city high |  
+| bip_39_word_space_12 | glass wrong ancient truck acquire inform brother system various city high already |  
+| bip_39_word_space_2 | glass wrong |  
+| bip_39_word_space_3 | glass wrong ancient |  
+| bip_39_word_space_4 | glass wrong ancient truck |  
+| bip_39_word_space_5 | glass wrong ancient truck acquire |  
+| bip_39_word_space_6 | glass wrong ancient truck acquire inform |  
+| bip_39_word_space_7 | glass wrong ancient truck acquire inform brother |  
+| bip_39_word_space_8 | glass wrong ancient truck acquire inform brother system |  
+| bip_39_word_space_9 | glass wrong ancient truck acquire inform brother system various |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

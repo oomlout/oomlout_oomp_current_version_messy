@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: address inmate
+  * bip 39 word 3: address inmate attend
+  * bip 39 word: address inmate attend laundry enroll acoustic neck square drop two attitude almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | address |  
+| bip_39_word_new_br10 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic<br>neck<br>square<br>drop<br>two |  
+| bip_39_word_new_br11 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic<br>neck<br>square<br>drop<br>two<br>attitude |  
+| bip_39_word_new_br12 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic<br>neck<br>square<br>drop<br>two<br>attitude<br>almost |  
+| bip_39_word_new_br2 | address<br>inmate |  
+| bip_39_word_new_br3 | address<br>inmate<br>attend |  
+| bip_39_word_new_br4 | address<br>inmate<br>attend<br>laundry |  
+| bip_39_word_new_br5 | address<br>inmate<br>attend<br>laundry<br>enroll |  
+| bip_39_word_new_br6 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic |  
+| bip_39_word_new_br7 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic<br>neck |  
+| bip_39_word_new_br8 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic<br>neck<br>square |  
+| bip_39_word_new_br9 | address<br>inmate<br>attend<br>laundry<br>enroll<br>acoustic<br>neck<br>square<br>drop |  
+| bip_39_word_new_line1 | address |  
+| bip_39_word_new_line10 | address
+inmate
+attend
+laundry
+enroll
+acoustic
+neck
+square
+drop
+two |  
+| bip_39_word_new_line11 | address
+inmate
+attend
+laundry
+enroll
+acoustic
+neck
+square
+drop
+two
+attitude |  
+| bip_39_word_new_line12 | address
+inmate
+attend
+laundry
+enroll
+acoustic
+neck
+square
+drop
+two
+attitude
+almost |  
+| bip_39_word_new_line2 | address
+inmate |  
+| bip_39_word_new_line3 | address
+inmate
+attend |  
+| bip_39_word_new_line4 | address
+inmate
+attend
+laundry |  
+| bip_39_word_new_line5 | address
+inmate
+attend
+laundry
+enroll |  
+| bip_39_word_new_line6 | address
+inmate
+attend
+laundry
+enroll
+acoustic |  
+| bip_39_word_new_line7 | address
+inmate
+attend
+laundry
+enroll
+acoustic
+neck |  
+| bip_39_word_new_line8 | address
+inmate
+attend
+laundry
+enroll
+acoustic
+neck
+square |  
+| bip_39_word_new_line9 | address
+inmate
+attend
+laundry
+enroll
+acoustic
+neck
+square
+drop |  
+| bip_39_word_space_0 | ['address', 'inmate', 'attend', 'laundry', 'enroll', 'acoustic', 'neck', 'square', 'drop', 'two', 'attitude', 'almost'] |  
+| bip_39_word_space_1 | address |  
+| bip_39_word_space_10 | address inmate attend laundry enroll acoustic neck square drop two |  
+| bip_39_word_space_11 | address inmate attend laundry enroll acoustic neck square drop two attitude |  
+| bip_39_word_space_12 | address inmate attend laundry enroll acoustic neck square drop two attitude almost |  
+| bip_39_word_space_2 | address inmate |  
+| bip_39_word_space_3 | address inmate attend |  
+| bip_39_word_space_4 | address inmate attend laundry |  
+| bip_39_word_space_5 | address inmate attend laundry enroll |  
+| bip_39_word_space_6 | address inmate attend laundry enroll acoustic |  
+| bip_39_word_space_7 | address inmate attend laundry enroll acoustic neck |  
+| bip_39_word_space_8 | address inmate attend laundry enroll acoustic neck square |  
+| bip_39_word_space_9 | address inmate attend laundry enroll acoustic neck square drop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: afraid cigar
+  * bip 39 word 3: afraid cigar spread
+  * bip 39 word: afraid cigar spread uncle swap film timber leisure frequent pepper crater art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | afraid |  
+| bip_39_word_new_br10 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film<br>timber<br>leisure<br>frequent<br>pepper |  
+| bip_39_word_new_br11 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film<br>timber<br>leisure<br>frequent<br>pepper<br>crater |  
+| bip_39_word_new_br12 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film<br>timber<br>leisure<br>frequent<br>pepper<br>crater<br>art |  
+| bip_39_word_new_br2 | afraid<br>cigar |  
+| bip_39_word_new_br3 | afraid<br>cigar<br>spread |  
+| bip_39_word_new_br4 | afraid<br>cigar<br>spread<br>uncle |  
+| bip_39_word_new_br5 | afraid<br>cigar<br>spread<br>uncle<br>swap |  
+| bip_39_word_new_br6 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film |  
+| bip_39_word_new_br7 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film<br>timber |  
+| bip_39_word_new_br8 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film<br>timber<br>leisure |  
+| bip_39_word_new_br9 | afraid<br>cigar<br>spread<br>uncle<br>swap<br>film<br>timber<br>leisure<br>frequent |  
+| bip_39_word_new_line1 | afraid |  
+| bip_39_word_new_line10 | afraid
+cigar
+spread
+uncle
+swap
+film
+timber
+leisure
+frequent
+pepper |  
+| bip_39_word_new_line11 | afraid
+cigar
+spread
+uncle
+swap
+film
+timber
+leisure
+frequent
+pepper
+crater |  
+| bip_39_word_new_line12 | afraid
+cigar
+spread
+uncle
+swap
+film
+timber
+leisure
+frequent
+pepper
+crater
+art |  
+| bip_39_word_new_line2 | afraid
+cigar |  
+| bip_39_word_new_line3 | afraid
+cigar
+spread |  
+| bip_39_word_new_line4 | afraid
+cigar
+spread
+uncle |  
+| bip_39_word_new_line5 | afraid
+cigar
+spread
+uncle
+swap |  
+| bip_39_word_new_line6 | afraid
+cigar
+spread
+uncle
+swap
+film |  
+| bip_39_word_new_line7 | afraid
+cigar
+spread
+uncle
+swap
+film
+timber |  
+| bip_39_word_new_line8 | afraid
+cigar
+spread
+uncle
+swap
+film
+timber
+leisure |  
+| bip_39_word_new_line9 | afraid
+cigar
+spread
+uncle
+swap
+film
+timber
+leisure
+frequent |  
+| bip_39_word_space_0 | ['afraid', 'cigar', 'spread', 'uncle', 'swap', 'film', 'timber', 'leisure', 'frequent', 'pepper', 'crater', 'art'] |  
+| bip_39_word_space_1 | afraid |  
+| bip_39_word_space_10 | afraid cigar spread uncle swap film timber leisure frequent pepper |  
+| bip_39_word_space_11 | afraid cigar spread uncle swap film timber leisure frequent pepper crater |  
+| bip_39_word_space_12 | afraid cigar spread uncle swap film timber leisure frequent pepper crater art |  
+| bip_39_word_space_2 | afraid cigar |  
+| bip_39_word_space_3 | afraid cigar spread |  
+| bip_39_word_space_4 | afraid cigar spread uncle |  
+| bip_39_word_space_5 | afraid cigar spread uncle swap |  
+| bip_39_word_space_6 | afraid cigar spread uncle swap film |  
+| bip_39_word_space_7 | afraid cigar spread uncle swap film timber |  
+| bip_39_word_space_8 | afraid cigar spread uncle swap film timber leisure |  
+| bip_39_word_space_9 | afraid cigar spread uncle swap film timber leisure frequent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

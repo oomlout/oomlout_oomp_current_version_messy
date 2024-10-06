@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: want consider
+  * bip 39 word 3: want consider size
+  * bip 39 word: want consider size exile praise room time coffee black frame cupboard actress
 
 ### other_codes
 * short_code: sc3b30h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | want |  
+| bip_39_word_new_br10 | want<br>consider<br>size<br>exile<br>praise<br>room<br>time<br>coffee<br>black<br>frame |  
+| bip_39_word_new_br11 | want<br>consider<br>size<br>exile<br>praise<br>room<br>time<br>coffee<br>black<br>frame<br>cupboard |  
+| bip_39_word_new_br12 | want<br>consider<br>size<br>exile<br>praise<br>room<br>time<br>coffee<br>black<br>frame<br>cupboard<br>actress |  
+| bip_39_word_new_br2 | want<br>consider |  
+| bip_39_word_new_br3 | want<br>consider<br>size |  
+| bip_39_word_new_br4 | want<br>consider<br>size<br>exile |  
+| bip_39_word_new_br5 | want<br>consider<br>size<br>exile<br>praise |  
+| bip_39_word_new_br6 | want<br>consider<br>size<br>exile<br>praise<br>room |  
+| bip_39_word_new_br7 | want<br>consider<br>size<br>exile<br>praise<br>room<br>time |  
+| bip_39_word_new_br8 | want<br>consider<br>size<br>exile<br>praise<br>room<br>time<br>coffee |  
+| bip_39_word_new_br9 | want<br>consider<br>size<br>exile<br>praise<br>room<br>time<br>coffee<br>black |  
+| bip_39_word_new_line1 | want |  
+| bip_39_word_new_line10 | want
+consider
+size
+exile
+praise
+room
+time
+coffee
+black
+frame |  
+| bip_39_word_new_line11 | want
+consider
+size
+exile
+praise
+room
+time
+coffee
+black
+frame
+cupboard |  
+| bip_39_word_new_line12 | want
+consider
+size
+exile
+praise
+room
+time
+coffee
+black
+frame
+cupboard
+actress |  
+| bip_39_word_new_line2 | want
+consider |  
+| bip_39_word_new_line3 | want
+consider
+size |  
+| bip_39_word_new_line4 | want
+consider
+size
+exile |  
+| bip_39_word_new_line5 | want
+consider
+size
+exile
+praise |  
+| bip_39_word_new_line6 | want
+consider
+size
+exile
+praise
+room |  
+| bip_39_word_new_line7 | want
+consider
+size
+exile
+praise
+room
+time |  
+| bip_39_word_new_line8 | want
+consider
+size
+exile
+praise
+room
+time
+coffee |  
+| bip_39_word_new_line9 | want
+consider
+size
+exile
+praise
+room
+time
+coffee
+black |  
+| bip_39_word_space_0 | ['want', 'consider', 'size', 'exile', 'praise', 'room', 'time', 'coffee', 'black', 'frame', 'cupboard', 'actress'] |  
+| bip_39_word_space_1 | want |  
+| bip_39_word_space_10 | want consider size exile praise room time coffee black frame |  
+| bip_39_word_space_11 | want consider size exile praise room time coffee black frame cupboard |  
+| bip_39_word_space_12 | want consider size exile praise room time coffee black frame cupboard actress |  
+| bip_39_word_space_2 | want consider |  
+| bip_39_word_space_3 | want consider size |  
+| bip_39_word_space_4 | want consider size exile |  
+| bip_39_word_space_5 | want consider size exile praise |  
+| bip_39_word_space_6 | want consider size exile praise room |  
+| bip_39_word_space_7 | want consider size exile praise room time |  
+| bip_39_word_space_8 | want consider size exile praise room time coffee |  
+| bip_39_word_space_9 | want consider size exile praise room time coffee black |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

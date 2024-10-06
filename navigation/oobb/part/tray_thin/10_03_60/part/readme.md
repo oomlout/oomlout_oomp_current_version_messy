@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mom quick
+  * bip 39 word 3: mom quick luxury
+  * bip 39 word: mom quick luxury vast swear dignity answer behave champion snow seed afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mom |  
+| bip_39_word_new_br10 | mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow |  
+| bip_39_word_new_br11 | mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow<br>seed |  
+| bip_39_word_new_br12 | mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion<br>snow<br>seed<br>afraid |  
+| bip_39_word_new_br2 | mom<br>quick |  
+| bip_39_word_new_br3 | mom<br>quick<br>luxury |  
+| bip_39_word_new_br4 | mom<br>quick<br>luxury<br>vast |  
+| bip_39_word_new_br5 | mom<br>quick<br>luxury<br>vast<br>swear |  
+| bip_39_word_new_br6 | mom<br>quick<br>luxury<br>vast<br>swear<br>dignity |  
+| bip_39_word_new_br7 | mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer |  
+| bip_39_word_new_br8 | mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave |  
+| bip_39_word_new_br9 | mom<br>quick<br>luxury<br>vast<br>swear<br>dignity<br>answer<br>behave<br>champion |  
+| bip_39_word_new_line1 | mom |  
+| bip_39_word_new_line10 | mom
+quick
+luxury
+vast
+swear
+dignity
+answer
+behave
+champion
+snow |  
+| bip_39_word_new_line11 | mom
+quick
+luxury
+vast
+swear
+dignity
+answer
+behave
+champion
+snow
+seed |  
+| bip_39_word_new_line12 | mom
+quick
+luxury
+vast
+swear
+dignity
+answer
+behave
+champion
+snow
+seed
+afraid |  
+| bip_39_word_new_line2 | mom
+quick |  
+| bip_39_word_new_line3 | mom
+quick
+luxury |  
+| bip_39_word_new_line4 | mom
+quick
+luxury
+vast |  
+| bip_39_word_new_line5 | mom
+quick
+luxury
+vast
+swear |  
+| bip_39_word_new_line6 | mom
+quick
+luxury
+vast
+swear
+dignity |  
+| bip_39_word_new_line7 | mom
+quick
+luxury
+vast
+swear
+dignity
+answer |  
+| bip_39_word_new_line8 | mom
+quick
+luxury
+vast
+swear
+dignity
+answer
+behave |  
+| bip_39_word_new_line9 | mom
+quick
+luxury
+vast
+swear
+dignity
+answer
+behave
+champion |  
+| bip_39_word_space_0 | ['mom', 'quick', 'luxury', 'vast', 'swear', 'dignity', 'answer', 'behave', 'champion', 'snow', 'seed', 'afraid'] |  
+| bip_39_word_space_1 | mom |  
+| bip_39_word_space_10 | mom quick luxury vast swear dignity answer behave champion snow |  
+| bip_39_word_space_11 | mom quick luxury vast swear dignity answer behave champion snow seed |  
+| bip_39_word_space_12 | mom quick luxury vast swear dignity answer behave champion snow seed afraid |  
+| bip_39_word_space_2 | mom quick |  
+| bip_39_word_space_3 | mom quick luxury |  
+| bip_39_word_space_4 | mom quick luxury vast |  
+| bip_39_word_space_5 | mom quick luxury vast swear |  
+| bip_39_word_space_6 | mom quick luxury vast swear dignity |  
+| bip_39_word_space_7 | mom quick luxury vast swear dignity answer |  
+| bip_39_word_space_8 | mom quick luxury vast swear dignity answer behave |  
+| bip_39_word_space_9 | mom quick luxury vast swear dignity answer behave champion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

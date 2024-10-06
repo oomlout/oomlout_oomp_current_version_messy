@@ -1,3 +1,186 @@
+bip_39_word_new_br1: suggest
+bip_39_word_new_br10: suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original
+bip_39_word_new_br11: suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original<br>brother
+bip_39_word_new_br12: suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty<br>original<br>brother<br>area
+bip_39_word_new_br2: suggest<br>use
+bip_39_word_new_br3: suggest<br>use<br>history
+bip_39_word_new_br4: suggest<br>use<br>history<br>refuse
+bip_39_word_new_br5: suggest<br>use<br>history<br>refuse<br>news
+bip_39_word_new_br6: suggest<br>use<br>history<br>refuse<br>news<br>symptom
+bip_39_word_new_br7: suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel
+bip_39_word_new_br8: suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise
+bip_39_word_new_br9: suggest<br>use<br>history<br>refuse<br>news<br>symptom<br>fuel<br>raise<br>liberty
+bip_39_word_new_line1: suggest
+bip_39_word_new_line10: 'suggest
+
+  use
+
+  history
+
+  refuse
+
+  news
+
+  symptom
+
+  fuel
+
+  raise
+
+  liberty
+
+  original'
+bip_39_word_new_line11: 'suggest
+
+  use
+
+  history
+
+  refuse
+
+  news
+
+  symptom
+
+  fuel
+
+  raise
+
+  liberty
+
+  original
+
+  brother'
+bip_39_word_new_line12: 'suggest
+
+  use
+
+  history
+
+  refuse
+
+  news
+
+  symptom
+
+  fuel
+
+  raise
+
+  liberty
+
+  original
+
+  brother
+
+  area'
+bip_39_word_new_line2: 'suggest
+
+  use'
+bip_39_word_new_line3: 'suggest
+
+  use
+
+  history'
+bip_39_word_new_line4: 'suggest
+
+  use
+
+  history
+
+  refuse'
+bip_39_word_new_line5: 'suggest
+
+  use
+
+  history
+
+  refuse
+
+  news'
+bip_39_word_new_line6: 'suggest
+
+  use
+
+  history
+
+  refuse
+
+  news
+
+  symptom'
+bip_39_word_new_line7: 'suggest
+
+  use
+
+  history
+
+  refuse
+
+  news
+
+  symptom
+
+  fuel'
+bip_39_word_new_line8: 'suggest
+
+  use
+
+  history
+
+  refuse
+
+  news
+
+  symptom
+
+  fuel
+
+  raise'
+bip_39_word_new_line9: 'suggest
+
+  use
+
+  history
+
+  refuse
+
+  news
+
+  symptom
+
+  fuel
+
+  raise
+
+  liberty'
+bip_39_word_space_0:
+- suggest
+- use
+- history
+- refuse
+- news
+- symptom
+- fuel
+- raise
+- liberty
+- original
+- brother
+- area
+bip_39_word_space_1: suggest
+bip_39_word_space_10: suggest use history refuse news symptom fuel raise liberty original
+bip_39_word_space_11: suggest use history refuse news symptom fuel raise liberty original
+  brother
+bip_39_word_space_12: suggest use history refuse news symptom fuel raise liberty original
+  brother area
+bip_39_word_space_2: suggest use
+bip_39_word_space_3: suggest use history
+bip_39_word_space_4: suggest use history refuse
+bip_39_word_space_5: suggest use history refuse news
+bip_39_word_space_6: suggest use history refuse news symptom
+bip_39_word_space_7: suggest use history refuse news symptom fuel
+bip_39_word_space_8: suggest use history refuse news symptom fuel raise
+bip_39_word_space_9: suggest use history refuse news symptom fuel raise liberty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

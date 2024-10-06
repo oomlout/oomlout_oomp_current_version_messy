@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: path lesson
+  * bip 39 word 3: path lesson record
+  * bip 39 word: path lesson record good robust orient assist unlock fee good memory aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | path |  
+| bip_39_word_new_br10 | path<br>lesson<br>record<br>good<br>robust<br>orient<br>assist<br>unlock<br>fee<br>good |  
+| bip_39_word_new_br11 | path<br>lesson<br>record<br>good<br>robust<br>orient<br>assist<br>unlock<br>fee<br>good<br>memory |  
+| bip_39_word_new_br12 | path<br>lesson<br>record<br>good<br>robust<br>orient<br>assist<br>unlock<br>fee<br>good<br>memory<br>aspect |  
+| bip_39_word_new_br2 | path<br>lesson |  
+| bip_39_word_new_br3 | path<br>lesson<br>record |  
+| bip_39_word_new_br4 | path<br>lesson<br>record<br>good |  
+| bip_39_word_new_br5 | path<br>lesson<br>record<br>good<br>robust |  
+| bip_39_word_new_br6 | path<br>lesson<br>record<br>good<br>robust<br>orient |  
+| bip_39_word_new_br7 | path<br>lesson<br>record<br>good<br>robust<br>orient<br>assist |  
+| bip_39_word_new_br8 | path<br>lesson<br>record<br>good<br>robust<br>orient<br>assist<br>unlock |  
+| bip_39_word_new_br9 | path<br>lesson<br>record<br>good<br>robust<br>orient<br>assist<br>unlock<br>fee |  
+| bip_39_word_new_line1 | path |  
+| bip_39_word_new_line10 | path
+lesson
+record
+good
+robust
+orient
+assist
+unlock
+fee
+good |  
+| bip_39_word_new_line11 | path
+lesson
+record
+good
+robust
+orient
+assist
+unlock
+fee
+good
+memory |  
+| bip_39_word_new_line12 | path
+lesson
+record
+good
+robust
+orient
+assist
+unlock
+fee
+good
+memory
+aspect |  
+| bip_39_word_new_line2 | path
+lesson |  
+| bip_39_word_new_line3 | path
+lesson
+record |  
+| bip_39_word_new_line4 | path
+lesson
+record
+good |  
+| bip_39_word_new_line5 | path
+lesson
+record
+good
+robust |  
+| bip_39_word_new_line6 | path
+lesson
+record
+good
+robust
+orient |  
+| bip_39_word_new_line7 | path
+lesson
+record
+good
+robust
+orient
+assist |  
+| bip_39_word_new_line8 | path
+lesson
+record
+good
+robust
+orient
+assist
+unlock |  
+| bip_39_word_new_line9 | path
+lesson
+record
+good
+robust
+orient
+assist
+unlock
+fee |  
+| bip_39_word_space_0 | ['path', 'lesson', 'record', 'good', 'robust', 'orient', 'assist', 'unlock', 'fee', 'good', 'memory', 'aspect'] |  
+| bip_39_word_space_1 | path |  
+| bip_39_word_space_10 | path lesson record good robust orient assist unlock fee good |  
+| bip_39_word_space_11 | path lesson record good robust orient assist unlock fee good memory |  
+| bip_39_word_space_12 | path lesson record good robust orient assist unlock fee good memory aspect |  
+| bip_39_word_space_2 | path lesson |  
+| bip_39_word_space_3 | path lesson record |  
+| bip_39_word_space_4 | path lesson record good |  
+| bip_39_word_space_5 | path lesson record good robust |  
+| bip_39_word_space_6 | path lesson record good robust orient |  
+| bip_39_word_space_7 | path lesson record good robust orient assist |  
+| bip_39_word_space_8 | path lesson record good robust orient assist unlock |  
+| bip_39_word_space_9 | path lesson record good robust orient assist unlock fee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

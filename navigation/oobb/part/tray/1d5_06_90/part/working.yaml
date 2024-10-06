@@ -1,3 +1,186 @@
+bip_39_word_new_br1: purse
+bip_39_word_new_br10: purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft<br>play<br>stuff<br>rug<br>mushroom
+bip_39_word_new_br11: purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft<br>play<br>stuff<br>rug<br>mushroom<br>situate
+bip_39_word_new_br12: purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft<br>play<br>stuff<br>rug<br>mushroom<br>situate<br>artwork
+bip_39_word_new_br2: purse<br>lazy
+bip_39_word_new_br3: purse<br>lazy<br>clutch
+bip_39_word_new_br4: purse<br>lazy<br>clutch<br>rocket
+bip_39_word_new_br5: purse<br>lazy<br>clutch<br>rocket<br>spike
+bip_39_word_new_br6: purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft
+bip_39_word_new_br7: purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft<br>play
+bip_39_word_new_br8: purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft<br>play<br>stuff
+bip_39_word_new_br9: purse<br>lazy<br>clutch<br>rocket<br>spike<br>soft<br>play<br>stuff<br>rug
+bip_39_word_new_line1: purse
+bip_39_word_new_line10: 'purse
+
+  lazy
+
+  clutch
+
+  rocket
+
+  spike
+
+  soft
+
+  play
+
+  stuff
+
+  rug
+
+  mushroom'
+bip_39_word_new_line11: 'purse
+
+  lazy
+
+  clutch
+
+  rocket
+
+  spike
+
+  soft
+
+  play
+
+  stuff
+
+  rug
+
+  mushroom
+
+  situate'
+bip_39_word_new_line12: 'purse
+
+  lazy
+
+  clutch
+
+  rocket
+
+  spike
+
+  soft
+
+  play
+
+  stuff
+
+  rug
+
+  mushroom
+
+  situate
+
+  artwork'
+bip_39_word_new_line2: 'purse
+
+  lazy'
+bip_39_word_new_line3: 'purse
+
+  lazy
+
+  clutch'
+bip_39_word_new_line4: 'purse
+
+  lazy
+
+  clutch
+
+  rocket'
+bip_39_word_new_line5: 'purse
+
+  lazy
+
+  clutch
+
+  rocket
+
+  spike'
+bip_39_word_new_line6: 'purse
+
+  lazy
+
+  clutch
+
+  rocket
+
+  spike
+
+  soft'
+bip_39_word_new_line7: 'purse
+
+  lazy
+
+  clutch
+
+  rocket
+
+  spike
+
+  soft
+
+  play'
+bip_39_word_new_line8: 'purse
+
+  lazy
+
+  clutch
+
+  rocket
+
+  spike
+
+  soft
+
+  play
+
+  stuff'
+bip_39_word_new_line9: 'purse
+
+  lazy
+
+  clutch
+
+  rocket
+
+  spike
+
+  soft
+
+  play
+
+  stuff
+
+  rug'
+bip_39_word_space_0:
+- purse
+- lazy
+- clutch
+- rocket
+- spike
+- soft
+- play
+- stuff
+- rug
+- mushroom
+- situate
+- artwork
+bip_39_word_space_1: purse
+bip_39_word_space_10: purse lazy clutch rocket spike soft play stuff rug mushroom
+bip_39_word_space_11: purse lazy clutch rocket spike soft play stuff rug mushroom
+  situate
+bip_39_word_space_12: purse lazy clutch rocket spike soft play stuff rug mushroom
+  situate artwork
+bip_39_word_space_2: purse lazy
+bip_39_word_space_3: purse lazy clutch
+bip_39_word_space_4: purse lazy clutch rocket
+bip_39_word_space_5: purse lazy clutch rocket spike
+bip_39_word_space_6: purse lazy clutch rocket spike soft
+bip_39_word_space_7: purse lazy clutch rocket spike soft play
+bip_39_word_space_8: purse lazy clutch rocket spike soft play stuff
+bip_39_word_space_9: purse lazy clutch rocket spike soft play stuff rug
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: home
+bip_39_word_new_br10: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal<br>toss
+bip_39_word_new_br11: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal<br>toss<br>sport
+bip_39_word_new_br12: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal<br>toss<br>sport<br>agent
+bip_39_word_new_br2: home<br>quantum
+bip_39_word_new_br3: home<br>quantum<br>december
+bip_39_word_new_br4: home<br>quantum<br>december<br>oil
+bip_39_word_new_br5: home<br>quantum<br>december<br>oil<br>noise
+bip_39_word_new_br6: home<br>quantum<br>december<br>oil<br>noise<br>alpha
+bip_39_word_new_br7: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void
+bip_39_word_new_br8: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch
+bip_39_word_new_br9: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal
+bip_39_word_new_line1: home
+bip_39_word_new_line10: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch
+
+  federal
+
+  toss'
+bip_39_word_new_line11: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch
+
+  federal
+
+  toss
+
+  sport'
+bip_39_word_new_line12: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch
+
+  federal
+
+  toss
+
+  sport
+
+  agent'
+bip_39_word_new_line2: 'home
+
+  quantum'
+bip_39_word_new_line3: 'home
+
+  quantum
+
+  december'
+bip_39_word_new_line4: 'home
+
+  quantum
+
+  december
+
+  oil'
+bip_39_word_new_line5: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise'
+bip_39_word_new_line6: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha'
+bip_39_word_new_line7: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void'
+bip_39_word_new_line8: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch'
+bip_39_word_new_line9: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch
+
+  federal'
+bip_39_word_space_0:
+- home
+- quantum
+- december
+- oil
+- noise
+- alpha
+- void
+- clutch
+- federal
+- toss
+- sport
+- agent
+bip_39_word_space_1: home
+bip_39_word_space_10: home quantum december oil noise alpha void clutch federal toss
+bip_39_word_space_11: home quantum december oil noise alpha void clutch federal toss
+  sport
+bip_39_word_space_12: home quantum december oil noise alpha void clutch federal toss
+  sport agent
+bip_39_word_space_2: home quantum
+bip_39_word_space_3: home quantum december
+bip_39_word_space_4: home quantum december oil
+bip_39_word_space_5: home quantum december oil noise
+bip_39_word_space_6: home quantum december oil noise alpha
+bip_39_word_space_7: home quantum december oil noise alpha void
+bip_39_word_space_8: home quantum december oil noise alpha void clutch
+bip_39_word_space_9: home quantum december oil noise alpha void clutch federal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

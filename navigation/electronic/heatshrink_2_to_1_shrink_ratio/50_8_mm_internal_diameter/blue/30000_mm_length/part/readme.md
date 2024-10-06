@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: main box
+  * bip 39 word 3: main box market
+  * bip 39 word: main box market review egg innocent blush involve nerve fee spike act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | main |  
+| bip_39_word_new_br10 | main<br>box<br>market<br>review<br>egg<br>innocent<br>blush<br>involve<br>nerve<br>fee |  
+| bip_39_word_new_br11 | main<br>box<br>market<br>review<br>egg<br>innocent<br>blush<br>involve<br>nerve<br>fee<br>spike |  
+| bip_39_word_new_br12 | main<br>box<br>market<br>review<br>egg<br>innocent<br>blush<br>involve<br>nerve<br>fee<br>spike<br>act |  
+| bip_39_word_new_br2 | main<br>box |  
+| bip_39_word_new_br3 | main<br>box<br>market |  
+| bip_39_word_new_br4 | main<br>box<br>market<br>review |  
+| bip_39_word_new_br5 | main<br>box<br>market<br>review<br>egg |  
+| bip_39_word_new_br6 | main<br>box<br>market<br>review<br>egg<br>innocent |  
+| bip_39_word_new_br7 | main<br>box<br>market<br>review<br>egg<br>innocent<br>blush |  
+| bip_39_word_new_br8 | main<br>box<br>market<br>review<br>egg<br>innocent<br>blush<br>involve |  
+| bip_39_word_new_br9 | main<br>box<br>market<br>review<br>egg<br>innocent<br>blush<br>involve<br>nerve |  
+| bip_39_word_new_line1 | main |  
+| bip_39_word_new_line10 | main
+box
+market
+review
+egg
+innocent
+blush
+involve
+nerve
+fee |  
+| bip_39_word_new_line11 | main
+box
+market
+review
+egg
+innocent
+blush
+involve
+nerve
+fee
+spike |  
+| bip_39_word_new_line12 | main
+box
+market
+review
+egg
+innocent
+blush
+involve
+nerve
+fee
+spike
+act |  
+| bip_39_word_new_line2 | main
+box |  
+| bip_39_word_new_line3 | main
+box
+market |  
+| bip_39_word_new_line4 | main
+box
+market
+review |  
+| bip_39_word_new_line5 | main
+box
+market
+review
+egg |  
+| bip_39_word_new_line6 | main
+box
+market
+review
+egg
+innocent |  
+| bip_39_word_new_line7 | main
+box
+market
+review
+egg
+innocent
+blush |  
+| bip_39_word_new_line8 | main
+box
+market
+review
+egg
+innocent
+blush
+involve |  
+| bip_39_word_new_line9 | main
+box
+market
+review
+egg
+innocent
+blush
+involve
+nerve |  
+| bip_39_word_space_0 | ['main', 'box', 'market', 'review', 'egg', 'innocent', 'blush', 'involve', 'nerve', 'fee', 'spike', 'act'] |  
+| bip_39_word_space_1 | main |  
+| bip_39_word_space_10 | main box market review egg innocent blush involve nerve fee |  
+| bip_39_word_space_11 | main box market review egg innocent blush involve nerve fee spike |  
+| bip_39_word_space_12 | main box market review egg innocent blush involve nerve fee spike act |  
+| bip_39_word_space_2 | main box |  
+| bip_39_word_space_3 | main box market |  
+| bip_39_word_space_4 | main box market review |  
+| bip_39_word_space_5 | main box market review egg |  
+| bip_39_word_space_6 | main box market review egg innocent |  
+| bip_39_word_space_7 | main box market review egg innocent blush |  
+| bip_39_word_space_8 | main box market review egg innocent blush involve |  
+| bip_39_word_space_9 | main box market review egg innocent blush involve nerve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

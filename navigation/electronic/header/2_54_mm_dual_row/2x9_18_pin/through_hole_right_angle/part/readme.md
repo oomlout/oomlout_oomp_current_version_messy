@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drive tape
+  * bip 39 word 3: drive tape naive
+  * bip 39 word: drive tape naive grit safe dish syrup apple matter fashion rich annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drive |  
+| bip_39_word_new_br10 | drive<br>tape<br>naive<br>grit<br>safe<br>dish<br>syrup<br>apple<br>matter<br>fashion |  
+| bip_39_word_new_br11 | drive<br>tape<br>naive<br>grit<br>safe<br>dish<br>syrup<br>apple<br>matter<br>fashion<br>rich |  
+| bip_39_word_new_br12 | drive<br>tape<br>naive<br>grit<br>safe<br>dish<br>syrup<br>apple<br>matter<br>fashion<br>rich<br>annual |  
+| bip_39_word_new_br2 | drive<br>tape |  
+| bip_39_word_new_br3 | drive<br>tape<br>naive |  
+| bip_39_word_new_br4 | drive<br>tape<br>naive<br>grit |  
+| bip_39_word_new_br5 | drive<br>tape<br>naive<br>grit<br>safe |  
+| bip_39_word_new_br6 | drive<br>tape<br>naive<br>grit<br>safe<br>dish |  
+| bip_39_word_new_br7 | drive<br>tape<br>naive<br>grit<br>safe<br>dish<br>syrup |  
+| bip_39_word_new_br8 | drive<br>tape<br>naive<br>grit<br>safe<br>dish<br>syrup<br>apple |  
+| bip_39_word_new_br9 | drive<br>tape<br>naive<br>grit<br>safe<br>dish<br>syrup<br>apple<br>matter |  
+| bip_39_word_new_line1 | drive |  
+| bip_39_word_new_line10 | drive
+tape
+naive
+grit
+safe
+dish
+syrup
+apple
+matter
+fashion |  
+| bip_39_word_new_line11 | drive
+tape
+naive
+grit
+safe
+dish
+syrup
+apple
+matter
+fashion
+rich |  
+| bip_39_word_new_line12 | drive
+tape
+naive
+grit
+safe
+dish
+syrup
+apple
+matter
+fashion
+rich
+annual |  
+| bip_39_word_new_line2 | drive
+tape |  
+| bip_39_word_new_line3 | drive
+tape
+naive |  
+| bip_39_word_new_line4 | drive
+tape
+naive
+grit |  
+| bip_39_word_new_line5 | drive
+tape
+naive
+grit
+safe |  
+| bip_39_word_new_line6 | drive
+tape
+naive
+grit
+safe
+dish |  
+| bip_39_word_new_line7 | drive
+tape
+naive
+grit
+safe
+dish
+syrup |  
+| bip_39_word_new_line8 | drive
+tape
+naive
+grit
+safe
+dish
+syrup
+apple |  
+| bip_39_word_new_line9 | drive
+tape
+naive
+grit
+safe
+dish
+syrup
+apple
+matter |  
+| bip_39_word_space_0 | ['drive', 'tape', 'naive', 'grit', 'safe', 'dish', 'syrup', 'apple', 'matter', 'fashion', 'rich', 'annual'] |  
+| bip_39_word_space_1 | drive |  
+| bip_39_word_space_10 | drive tape naive grit safe dish syrup apple matter fashion |  
+| bip_39_word_space_11 | drive tape naive grit safe dish syrup apple matter fashion rich |  
+| bip_39_word_space_12 | drive tape naive grit safe dish syrup apple matter fashion rich annual |  
+| bip_39_word_space_2 | drive tape |  
+| bip_39_word_space_3 | drive tape naive |  
+| bip_39_word_space_4 | drive tape naive grit |  
+| bip_39_word_space_5 | drive tape naive grit safe |  
+| bip_39_word_space_6 | drive tape naive grit safe dish |  
+| bip_39_word_space_7 | drive tape naive grit safe dish syrup |  
+| bip_39_word_space_8 | drive tape naive grit safe dish syrup apple |  
+| bip_39_word_space_9 | drive tape naive grit safe dish syrup apple matter |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

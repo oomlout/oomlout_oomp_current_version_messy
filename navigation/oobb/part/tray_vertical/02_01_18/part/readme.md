@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: olympic novel
+  * bip 39 word 3: olympic novel slogan
+  * bip 39 word: olympic novel slogan outer tone agree install squeeze autumn motor leave april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | olympic |  
+| bip_39_word_new_br10 | olympic<br>novel<br>slogan<br>outer<br>tone<br>agree<br>install<br>squeeze<br>autumn<br>motor |  
+| bip_39_word_new_br11 | olympic<br>novel<br>slogan<br>outer<br>tone<br>agree<br>install<br>squeeze<br>autumn<br>motor<br>leave |  
+| bip_39_word_new_br12 | olympic<br>novel<br>slogan<br>outer<br>tone<br>agree<br>install<br>squeeze<br>autumn<br>motor<br>leave<br>april |  
+| bip_39_word_new_br2 | olympic<br>novel |  
+| bip_39_word_new_br3 | olympic<br>novel<br>slogan |  
+| bip_39_word_new_br4 | olympic<br>novel<br>slogan<br>outer |  
+| bip_39_word_new_br5 | olympic<br>novel<br>slogan<br>outer<br>tone |  
+| bip_39_word_new_br6 | olympic<br>novel<br>slogan<br>outer<br>tone<br>agree |  
+| bip_39_word_new_br7 | olympic<br>novel<br>slogan<br>outer<br>tone<br>agree<br>install |  
+| bip_39_word_new_br8 | olympic<br>novel<br>slogan<br>outer<br>tone<br>agree<br>install<br>squeeze |  
+| bip_39_word_new_br9 | olympic<br>novel<br>slogan<br>outer<br>tone<br>agree<br>install<br>squeeze<br>autumn |  
+| bip_39_word_new_line1 | olympic |  
+| bip_39_word_new_line10 | olympic
+novel
+slogan
+outer
+tone
+agree
+install
+squeeze
+autumn
+motor |  
+| bip_39_word_new_line11 | olympic
+novel
+slogan
+outer
+tone
+agree
+install
+squeeze
+autumn
+motor
+leave |  
+| bip_39_word_new_line12 | olympic
+novel
+slogan
+outer
+tone
+agree
+install
+squeeze
+autumn
+motor
+leave
+april |  
+| bip_39_word_new_line2 | olympic
+novel |  
+| bip_39_word_new_line3 | olympic
+novel
+slogan |  
+| bip_39_word_new_line4 | olympic
+novel
+slogan
+outer |  
+| bip_39_word_new_line5 | olympic
+novel
+slogan
+outer
+tone |  
+| bip_39_word_new_line6 | olympic
+novel
+slogan
+outer
+tone
+agree |  
+| bip_39_word_new_line7 | olympic
+novel
+slogan
+outer
+tone
+agree
+install |  
+| bip_39_word_new_line8 | olympic
+novel
+slogan
+outer
+tone
+agree
+install
+squeeze |  
+| bip_39_word_new_line9 | olympic
+novel
+slogan
+outer
+tone
+agree
+install
+squeeze
+autumn |  
+| bip_39_word_space_0 | ['olympic', 'novel', 'slogan', 'outer', 'tone', 'agree', 'install', 'squeeze', 'autumn', 'motor', 'leave', 'april'] |  
+| bip_39_word_space_1 | olympic |  
+| bip_39_word_space_10 | olympic novel slogan outer tone agree install squeeze autumn motor |  
+| bip_39_word_space_11 | olympic novel slogan outer tone agree install squeeze autumn motor leave |  
+| bip_39_word_space_12 | olympic novel slogan outer tone agree install squeeze autumn motor leave april |  
+| bip_39_word_space_2 | olympic novel |  
+| bip_39_word_space_3 | olympic novel slogan |  
+| bip_39_word_space_4 | olympic novel slogan outer |  
+| bip_39_word_space_5 | olympic novel slogan outer tone |  
+| bip_39_word_space_6 | olympic novel slogan outer tone agree |  
+| bip_39_word_space_7 | olympic novel slogan outer tone agree install |  
+| bip_39_word_space_8 | olympic novel slogan outer tone agree install squeeze |  
+| bip_39_word_space_9 | olympic novel slogan outer tone agree install squeeze autumn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

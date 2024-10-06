@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arena shock
+  * bip 39 word 3: arena shock snap
+  * bip 39 word: arena shock snap unique quote word secret observe clean maximum friend affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arena |  
+| bip_39_word_new_br10 | arena<br>shock<br>snap<br>unique<br>quote<br>word<br>secret<br>observe<br>clean<br>maximum |  
+| bip_39_word_new_br11 | arena<br>shock<br>snap<br>unique<br>quote<br>word<br>secret<br>observe<br>clean<br>maximum<br>friend |  
+| bip_39_word_new_br12 | arena<br>shock<br>snap<br>unique<br>quote<br>word<br>secret<br>observe<br>clean<br>maximum<br>friend<br>affair |  
+| bip_39_word_new_br2 | arena<br>shock |  
+| bip_39_word_new_br3 | arena<br>shock<br>snap |  
+| bip_39_word_new_br4 | arena<br>shock<br>snap<br>unique |  
+| bip_39_word_new_br5 | arena<br>shock<br>snap<br>unique<br>quote |  
+| bip_39_word_new_br6 | arena<br>shock<br>snap<br>unique<br>quote<br>word |  
+| bip_39_word_new_br7 | arena<br>shock<br>snap<br>unique<br>quote<br>word<br>secret |  
+| bip_39_word_new_br8 | arena<br>shock<br>snap<br>unique<br>quote<br>word<br>secret<br>observe |  
+| bip_39_word_new_br9 | arena<br>shock<br>snap<br>unique<br>quote<br>word<br>secret<br>observe<br>clean |  
+| bip_39_word_new_line1 | arena |  
+| bip_39_word_new_line10 | arena
+shock
+snap
+unique
+quote
+word
+secret
+observe
+clean
+maximum |  
+| bip_39_word_new_line11 | arena
+shock
+snap
+unique
+quote
+word
+secret
+observe
+clean
+maximum
+friend |  
+| bip_39_word_new_line12 | arena
+shock
+snap
+unique
+quote
+word
+secret
+observe
+clean
+maximum
+friend
+affair |  
+| bip_39_word_new_line2 | arena
+shock |  
+| bip_39_word_new_line3 | arena
+shock
+snap |  
+| bip_39_word_new_line4 | arena
+shock
+snap
+unique |  
+| bip_39_word_new_line5 | arena
+shock
+snap
+unique
+quote |  
+| bip_39_word_new_line6 | arena
+shock
+snap
+unique
+quote
+word |  
+| bip_39_word_new_line7 | arena
+shock
+snap
+unique
+quote
+word
+secret |  
+| bip_39_word_new_line8 | arena
+shock
+snap
+unique
+quote
+word
+secret
+observe |  
+| bip_39_word_new_line9 | arena
+shock
+snap
+unique
+quote
+word
+secret
+observe
+clean |  
+| bip_39_word_space_0 | ['arena', 'shock', 'snap', 'unique', 'quote', 'word', 'secret', 'observe', 'clean', 'maximum', 'friend', 'affair'] |  
+| bip_39_word_space_1 | arena |  
+| bip_39_word_space_10 | arena shock snap unique quote word secret observe clean maximum |  
+| bip_39_word_space_11 | arena shock snap unique quote word secret observe clean maximum friend |  
+| bip_39_word_space_12 | arena shock snap unique quote word secret observe clean maximum friend affair |  
+| bip_39_word_space_2 | arena shock |  
+| bip_39_word_space_3 | arena shock snap |  
+| bip_39_word_space_4 | arena shock snap unique |  
+| bip_39_word_space_5 | arena shock snap unique quote |  
+| bip_39_word_space_6 | arena shock snap unique quote word |  
+| bip_39_word_space_7 | arena shock snap unique quote word secret |  
+| bip_39_word_space_8 | arena shock snap unique quote word secret observe |  
+| bip_39_word_space_9 | arena shock snap unique quote word secret observe clean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

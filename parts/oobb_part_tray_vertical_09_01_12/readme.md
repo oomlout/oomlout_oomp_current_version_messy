@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oil help
+  * bip 39 word 3: oil help mutual
+  * bip 39 word: oil help mutual vendor predict stock own silk time caught when audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oil |  
+| bip_39_word_new_br10 | oil<br>help<br>mutual<br>vendor<br>predict<br>stock<br>own<br>silk<br>time<br>caught |  
+| bip_39_word_new_br11 | oil<br>help<br>mutual<br>vendor<br>predict<br>stock<br>own<br>silk<br>time<br>caught<br>when |  
+| bip_39_word_new_br12 | oil<br>help<br>mutual<br>vendor<br>predict<br>stock<br>own<br>silk<br>time<br>caught<br>when<br>audit |  
+| bip_39_word_new_br2 | oil<br>help |  
+| bip_39_word_new_br3 | oil<br>help<br>mutual |  
+| bip_39_word_new_br4 | oil<br>help<br>mutual<br>vendor |  
+| bip_39_word_new_br5 | oil<br>help<br>mutual<br>vendor<br>predict |  
+| bip_39_word_new_br6 | oil<br>help<br>mutual<br>vendor<br>predict<br>stock |  
+| bip_39_word_new_br7 | oil<br>help<br>mutual<br>vendor<br>predict<br>stock<br>own |  
+| bip_39_word_new_br8 | oil<br>help<br>mutual<br>vendor<br>predict<br>stock<br>own<br>silk |  
+| bip_39_word_new_br9 | oil<br>help<br>mutual<br>vendor<br>predict<br>stock<br>own<br>silk<br>time |  
+| bip_39_word_new_line1 | oil |  
+| bip_39_word_new_line10 | oil
+help
+mutual
+vendor
+predict
+stock
+own
+silk
+time
+caught |  
+| bip_39_word_new_line11 | oil
+help
+mutual
+vendor
+predict
+stock
+own
+silk
+time
+caught
+when |  
+| bip_39_word_new_line12 | oil
+help
+mutual
+vendor
+predict
+stock
+own
+silk
+time
+caught
+when
+audit |  
+| bip_39_word_new_line2 | oil
+help |  
+| bip_39_word_new_line3 | oil
+help
+mutual |  
+| bip_39_word_new_line4 | oil
+help
+mutual
+vendor |  
+| bip_39_word_new_line5 | oil
+help
+mutual
+vendor
+predict |  
+| bip_39_word_new_line6 | oil
+help
+mutual
+vendor
+predict
+stock |  
+| bip_39_word_new_line7 | oil
+help
+mutual
+vendor
+predict
+stock
+own |  
+| bip_39_word_new_line8 | oil
+help
+mutual
+vendor
+predict
+stock
+own
+silk |  
+| bip_39_word_new_line9 | oil
+help
+mutual
+vendor
+predict
+stock
+own
+silk
+time |  
+| bip_39_word_space_0 | ['oil', 'help', 'mutual', 'vendor', 'predict', 'stock', 'own', 'silk', 'time', 'caught', 'when', 'audit'] |  
+| bip_39_word_space_1 | oil |  
+| bip_39_word_space_10 | oil help mutual vendor predict stock own silk time caught |  
+| bip_39_word_space_11 | oil help mutual vendor predict stock own silk time caught when |  
+| bip_39_word_space_12 | oil help mutual vendor predict stock own silk time caught when audit |  
+| bip_39_word_space_2 | oil help |  
+| bip_39_word_space_3 | oil help mutual |  
+| bip_39_word_space_4 | oil help mutual vendor |  
+| bip_39_word_space_5 | oil help mutual vendor predict |  
+| bip_39_word_space_6 | oil help mutual vendor predict stock |  
+| bip_39_word_space_7 | oil help mutual vendor predict stock own |  
+| bip_39_word_space_8 | oil help mutual vendor predict stock own silk |  
+| bip_39_word_space_9 | oil help mutual vendor predict stock own silk time |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

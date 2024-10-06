@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: practice method
+  * bip 39 word 3: practice method three
+  * bip 39 word: practice method three local soul feature bright amateur still color adapt arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | practice |  
+| bip_39_word_new_br10 | practice<br>method<br>three<br>local<br>soul<br>feature<br>bright<br>amateur<br>still<br>color |  
+| bip_39_word_new_br11 | practice<br>method<br>three<br>local<br>soul<br>feature<br>bright<br>amateur<br>still<br>color<br>adapt |  
+| bip_39_word_new_br12 | practice<br>method<br>three<br>local<br>soul<br>feature<br>bright<br>amateur<br>still<br>color<br>adapt<br>arm |  
+| bip_39_word_new_br2 | practice<br>method |  
+| bip_39_word_new_br3 | practice<br>method<br>three |  
+| bip_39_word_new_br4 | practice<br>method<br>three<br>local |  
+| bip_39_word_new_br5 | practice<br>method<br>three<br>local<br>soul |  
+| bip_39_word_new_br6 | practice<br>method<br>three<br>local<br>soul<br>feature |  
+| bip_39_word_new_br7 | practice<br>method<br>three<br>local<br>soul<br>feature<br>bright |  
+| bip_39_word_new_br8 | practice<br>method<br>three<br>local<br>soul<br>feature<br>bright<br>amateur |  
+| bip_39_word_new_br9 | practice<br>method<br>three<br>local<br>soul<br>feature<br>bright<br>amateur<br>still |  
+| bip_39_word_new_line1 | practice |  
+| bip_39_word_new_line10 | practice
+method
+three
+local
+soul
+feature
+bright
+amateur
+still
+color |  
+| bip_39_word_new_line11 | practice
+method
+three
+local
+soul
+feature
+bright
+amateur
+still
+color
+adapt |  
+| bip_39_word_new_line12 | practice
+method
+three
+local
+soul
+feature
+bright
+amateur
+still
+color
+adapt
+arm |  
+| bip_39_word_new_line2 | practice
+method |  
+| bip_39_word_new_line3 | practice
+method
+three |  
+| bip_39_word_new_line4 | practice
+method
+three
+local |  
+| bip_39_word_new_line5 | practice
+method
+three
+local
+soul |  
+| bip_39_word_new_line6 | practice
+method
+three
+local
+soul
+feature |  
+| bip_39_word_new_line7 | practice
+method
+three
+local
+soul
+feature
+bright |  
+| bip_39_word_new_line8 | practice
+method
+three
+local
+soul
+feature
+bright
+amateur |  
+| bip_39_word_new_line9 | practice
+method
+three
+local
+soul
+feature
+bright
+amateur
+still |  
+| bip_39_word_space_0 | ['practice', 'method', 'three', 'local', 'soul', 'feature', 'bright', 'amateur', 'still', 'color', 'adapt', 'arm'] |  
+| bip_39_word_space_1 | practice |  
+| bip_39_word_space_10 | practice method three local soul feature bright amateur still color |  
+| bip_39_word_space_11 | practice method three local soul feature bright amateur still color adapt |  
+| bip_39_word_space_12 | practice method three local soul feature bright amateur still color adapt arm |  
+| bip_39_word_space_2 | practice method |  
+| bip_39_word_space_3 | practice method three |  
+| bip_39_word_space_4 | practice method three local |  
+| bip_39_word_space_5 | practice method three local soul |  
+| bip_39_word_space_6 | practice method three local soul feature |  
+| bip_39_word_space_7 | practice method three local soul feature bright |  
+| bip_39_word_space_8 | practice method three local soul feature bright amateur |  
+| bip_39_word_space_9 | practice method three local soul feature bright amateur still |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

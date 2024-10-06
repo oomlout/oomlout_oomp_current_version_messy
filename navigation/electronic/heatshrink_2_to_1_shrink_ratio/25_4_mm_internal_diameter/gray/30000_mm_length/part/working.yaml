@@ -1,3 +1,186 @@
+bip_39_word_new_br1: valley
+bip_39_word_new_br10: valley<br>scale<br>orchard<br>stand<br>human<br>fragile<br>clip<br>duck<br>shadow<br>mesh
+bip_39_word_new_br11: valley<br>scale<br>orchard<br>stand<br>human<br>fragile<br>clip<br>duck<br>shadow<br>mesh<br>kidney
+bip_39_word_new_br12: valley<br>scale<br>orchard<br>stand<br>human<br>fragile<br>clip<br>duck<br>shadow<br>mesh<br>kidney<br>august
+bip_39_word_new_br2: valley<br>scale
+bip_39_word_new_br3: valley<br>scale<br>orchard
+bip_39_word_new_br4: valley<br>scale<br>orchard<br>stand
+bip_39_word_new_br5: valley<br>scale<br>orchard<br>stand<br>human
+bip_39_word_new_br6: valley<br>scale<br>orchard<br>stand<br>human<br>fragile
+bip_39_word_new_br7: valley<br>scale<br>orchard<br>stand<br>human<br>fragile<br>clip
+bip_39_word_new_br8: valley<br>scale<br>orchard<br>stand<br>human<br>fragile<br>clip<br>duck
+bip_39_word_new_br9: valley<br>scale<br>orchard<br>stand<br>human<br>fragile<br>clip<br>duck<br>shadow
+bip_39_word_new_line1: valley
+bip_39_word_new_line10: 'valley
+
+  scale
+
+  orchard
+
+  stand
+
+  human
+
+  fragile
+
+  clip
+
+  duck
+
+  shadow
+
+  mesh'
+bip_39_word_new_line11: 'valley
+
+  scale
+
+  orchard
+
+  stand
+
+  human
+
+  fragile
+
+  clip
+
+  duck
+
+  shadow
+
+  mesh
+
+  kidney'
+bip_39_word_new_line12: 'valley
+
+  scale
+
+  orchard
+
+  stand
+
+  human
+
+  fragile
+
+  clip
+
+  duck
+
+  shadow
+
+  mesh
+
+  kidney
+
+  august'
+bip_39_word_new_line2: 'valley
+
+  scale'
+bip_39_word_new_line3: 'valley
+
+  scale
+
+  orchard'
+bip_39_word_new_line4: 'valley
+
+  scale
+
+  orchard
+
+  stand'
+bip_39_word_new_line5: 'valley
+
+  scale
+
+  orchard
+
+  stand
+
+  human'
+bip_39_word_new_line6: 'valley
+
+  scale
+
+  orchard
+
+  stand
+
+  human
+
+  fragile'
+bip_39_word_new_line7: 'valley
+
+  scale
+
+  orchard
+
+  stand
+
+  human
+
+  fragile
+
+  clip'
+bip_39_word_new_line8: 'valley
+
+  scale
+
+  orchard
+
+  stand
+
+  human
+
+  fragile
+
+  clip
+
+  duck'
+bip_39_word_new_line9: 'valley
+
+  scale
+
+  orchard
+
+  stand
+
+  human
+
+  fragile
+
+  clip
+
+  duck
+
+  shadow'
+bip_39_word_space_0:
+- valley
+- scale
+- orchard
+- stand
+- human
+- fragile
+- clip
+- duck
+- shadow
+- mesh
+- kidney
+- august
+bip_39_word_space_1: valley
+bip_39_word_space_10: valley scale orchard stand human fragile clip duck shadow mesh
+bip_39_word_space_11: valley scale orchard stand human fragile clip duck shadow mesh
+  kidney
+bip_39_word_space_12: valley scale orchard stand human fragile clip duck shadow mesh
+  kidney august
+bip_39_word_space_2: valley scale
+bip_39_word_space_3: valley scale orchard
+bip_39_word_space_4: valley scale orchard stand
+bip_39_word_space_5: valley scale orchard stand human
+bip_39_word_space_6: valley scale orchard stand human fragile
+bip_39_word_space_7: valley scale orchard stand human fragile clip
+bip_39_word_space_8: valley scale orchard stand human fragile clip duck
+bip_39_word_space_9: valley scale orchard stand human fragile clip duck shadow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

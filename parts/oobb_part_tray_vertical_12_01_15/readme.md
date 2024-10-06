@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ticket nothing
+  * bip 39 word 3: ticket nothing sting
+  * bip 39 word: ticket nothing sting oblige eternal brisk demise wine diesel van orange absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ticket |  
+| bip_39_word_new_br10 | ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk<br>demise<br>wine<br>diesel<br>van |  
+| bip_39_word_new_br11 | ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk<br>demise<br>wine<br>diesel<br>van<br>orange |  
+| bip_39_word_new_br12 | ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk<br>demise<br>wine<br>diesel<br>van<br>orange<br>absurd |  
+| bip_39_word_new_br2 | ticket<br>nothing |  
+| bip_39_word_new_br3 | ticket<br>nothing<br>sting |  
+| bip_39_word_new_br4 | ticket<br>nothing<br>sting<br>oblige |  
+| bip_39_word_new_br5 | ticket<br>nothing<br>sting<br>oblige<br>eternal |  
+| bip_39_word_new_br6 | ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk |  
+| bip_39_word_new_br7 | ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk<br>demise |  
+| bip_39_word_new_br8 | ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk<br>demise<br>wine |  
+| bip_39_word_new_br9 | ticket<br>nothing<br>sting<br>oblige<br>eternal<br>brisk<br>demise<br>wine<br>diesel |  
+| bip_39_word_new_line1 | ticket |  
+| bip_39_word_new_line10 | ticket
+nothing
+sting
+oblige
+eternal
+brisk
+demise
+wine
+diesel
+van |  
+| bip_39_word_new_line11 | ticket
+nothing
+sting
+oblige
+eternal
+brisk
+demise
+wine
+diesel
+van
+orange |  
+| bip_39_word_new_line12 | ticket
+nothing
+sting
+oblige
+eternal
+brisk
+demise
+wine
+diesel
+van
+orange
+absurd |  
+| bip_39_word_new_line2 | ticket
+nothing |  
+| bip_39_word_new_line3 | ticket
+nothing
+sting |  
+| bip_39_word_new_line4 | ticket
+nothing
+sting
+oblige |  
+| bip_39_word_new_line5 | ticket
+nothing
+sting
+oblige
+eternal |  
+| bip_39_word_new_line6 | ticket
+nothing
+sting
+oblige
+eternal
+brisk |  
+| bip_39_word_new_line7 | ticket
+nothing
+sting
+oblige
+eternal
+brisk
+demise |  
+| bip_39_word_new_line8 | ticket
+nothing
+sting
+oblige
+eternal
+brisk
+demise
+wine |  
+| bip_39_word_new_line9 | ticket
+nothing
+sting
+oblige
+eternal
+brisk
+demise
+wine
+diesel |  
+| bip_39_word_space_0 | ['ticket', 'nothing', 'sting', 'oblige', 'eternal', 'brisk', 'demise', 'wine', 'diesel', 'van', 'orange', 'absurd'] |  
+| bip_39_word_space_1 | ticket |  
+| bip_39_word_space_10 | ticket nothing sting oblige eternal brisk demise wine diesel van |  
+| bip_39_word_space_11 | ticket nothing sting oblige eternal brisk demise wine diesel van orange |  
+| bip_39_word_space_12 | ticket nothing sting oblige eternal brisk demise wine diesel van orange absurd |  
+| bip_39_word_space_2 | ticket nothing |  
+| bip_39_word_space_3 | ticket nothing sting |  
+| bip_39_word_space_4 | ticket nothing sting oblige |  
+| bip_39_word_space_5 | ticket nothing sting oblige eternal |  
+| bip_39_word_space_6 | ticket nothing sting oblige eternal brisk |  
+| bip_39_word_space_7 | ticket nothing sting oblige eternal brisk demise |  
+| bip_39_word_space_8 | ticket nothing sting oblige eternal brisk demise wine |  
+| bip_39_word_space_9 | ticket nothing sting oblige eternal brisk demise wine diesel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

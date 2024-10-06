@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sport
+bip_39_word_new_br10: sport<br>captain<br>depth<br>good<br>flee<br>hurt<br>security<br>latin<br>vote<br>enlist
+bip_39_word_new_br11: sport<br>captain<br>depth<br>good<br>flee<br>hurt<br>security<br>latin<br>vote<br>enlist<br>expand
+bip_39_word_new_br12: sport<br>captain<br>depth<br>good<br>flee<br>hurt<br>security<br>latin<br>vote<br>enlist<br>expand<br>accident
+bip_39_word_new_br2: sport<br>captain
+bip_39_word_new_br3: sport<br>captain<br>depth
+bip_39_word_new_br4: sport<br>captain<br>depth<br>good
+bip_39_word_new_br5: sport<br>captain<br>depth<br>good<br>flee
+bip_39_word_new_br6: sport<br>captain<br>depth<br>good<br>flee<br>hurt
+bip_39_word_new_br7: sport<br>captain<br>depth<br>good<br>flee<br>hurt<br>security
+bip_39_word_new_br8: sport<br>captain<br>depth<br>good<br>flee<br>hurt<br>security<br>latin
+bip_39_word_new_br9: sport<br>captain<br>depth<br>good<br>flee<br>hurt<br>security<br>latin<br>vote
+bip_39_word_new_line1: sport
+bip_39_word_new_line10: 'sport
+
+  captain
+
+  depth
+
+  good
+
+  flee
+
+  hurt
+
+  security
+
+  latin
+
+  vote
+
+  enlist'
+bip_39_word_new_line11: 'sport
+
+  captain
+
+  depth
+
+  good
+
+  flee
+
+  hurt
+
+  security
+
+  latin
+
+  vote
+
+  enlist
+
+  expand'
+bip_39_word_new_line12: 'sport
+
+  captain
+
+  depth
+
+  good
+
+  flee
+
+  hurt
+
+  security
+
+  latin
+
+  vote
+
+  enlist
+
+  expand
+
+  accident'
+bip_39_word_new_line2: 'sport
+
+  captain'
+bip_39_word_new_line3: 'sport
+
+  captain
+
+  depth'
+bip_39_word_new_line4: 'sport
+
+  captain
+
+  depth
+
+  good'
+bip_39_word_new_line5: 'sport
+
+  captain
+
+  depth
+
+  good
+
+  flee'
+bip_39_word_new_line6: 'sport
+
+  captain
+
+  depth
+
+  good
+
+  flee
+
+  hurt'
+bip_39_word_new_line7: 'sport
+
+  captain
+
+  depth
+
+  good
+
+  flee
+
+  hurt
+
+  security'
+bip_39_word_new_line8: 'sport
+
+  captain
+
+  depth
+
+  good
+
+  flee
+
+  hurt
+
+  security
+
+  latin'
+bip_39_word_new_line9: 'sport
+
+  captain
+
+  depth
+
+  good
+
+  flee
+
+  hurt
+
+  security
+
+  latin
+
+  vote'
+bip_39_word_space_0:
+- sport
+- captain
+- depth
+- good
+- flee
+- hurt
+- security
+- latin
+- vote
+- enlist
+- expand
+- accident
+bip_39_word_space_1: sport
+bip_39_word_space_10: sport captain depth good flee hurt security latin vote enlist
+bip_39_word_space_11: sport captain depth good flee hurt security latin vote enlist
+  expand
+bip_39_word_space_12: sport captain depth good flee hurt security latin vote enlist
+  expand accident
+bip_39_word_space_2: sport captain
+bip_39_word_space_3: sport captain depth
+bip_39_word_space_4: sport captain depth good
+bip_39_word_space_5: sport captain depth good flee
+bip_39_word_space_6: sport captain depth good flee hurt
+bip_39_word_space_7: sport captain depth good flee hurt security
+bip_39_word_space_8: sport captain depth good flee hurt security latin
+bip_39_word_space_9: sport captain depth good flee hurt security latin vote
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

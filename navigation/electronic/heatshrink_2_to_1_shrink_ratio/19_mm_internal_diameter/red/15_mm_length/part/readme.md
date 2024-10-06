@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: auction enhance
+  * bip 39 word 3: auction enhance pill
+  * bip 39 word: auction enhance pill slight chief recall enforce nominee aware regular creek airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | auction |  
+| bip_39_word_new_br10 | auction<br>enhance<br>pill<br>slight<br>chief<br>recall<br>enforce<br>nominee<br>aware<br>regular |  
+| bip_39_word_new_br11 | auction<br>enhance<br>pill<br>slight<br>chief<br>recall<br>enforce<br>nominee<br>aware<br>regular<br>creek |  
+| bip_39_word_new_br12 | auction<br>enhance<br>pill<br>slight<br>chief<br>recall<br>enforce<br>nominee<br>aware<br>regular<br>creek<br>airport |  
+| bip_39_word_new_br2 | auction<br>enhance |  
+| bip_39_word_new_br3 | auction<br>enhance<br>pill |  
+| bip_39_word_new_br4 | auction<br>enhance<br>pill<br>slight |  
+| bip_39_word_new_br5 | auction<br>enhance<br>pill<br>slight<br>chief |  
+| bip_39_word_new_br6 | auction<br>enhance<br>pill<br>slight<br>chief<br>recall |  
+| bip_39_word_new_br7 | auction<br>enhance<br>pill<br>slight<br>chief<br>recall<br>enforce |  
+| bip_39_word_new_br8 | auction<br>enhance<br>pill<br>slight<br>chief<br>recall<br>enforce<br>nominee |  
+| bip_39_word_new_br9 | auction<br>enhance<br>pill<br>slight<br>chief<br>recall<br>enforce<br>nominee<br>aware |  
+| bip_39_word_new_line1 | auction |  
+| bip_39_word_new_line10 | auction
+enhance
+pill
+slight
+chief
+recall
+enforce
+nominee
+aware
+regular |  
+| bip_39_word_new_line11 | auction
+enhance
+pill
+slight
+chief
+recall
+enforce
+nominee
+aware
+regular
+creek |  
+| bip_39_word_new_line12 | auction
+enhance
+pill
+slight
+chief
+recall
+enforce
+nominee
+aware
+regular
+creek
+airport |  
+| bip_39_word_new_line2 | auction
+enhance |  
+| bip_39_word_new_line3 | auction
+enhance
+pill |  
+| bip_39_word_new_line4 | auction
+enhance
+pill
+slight |  
+| bip_39_word_new_line5 | auction
+enhance
+pill
+slight
+chief |  
+| bip_39_word_new_line6 | auction
+enhance
+pill
+slight
+chief
+recall |  
+| bip_39_word_new_line7 | auction
+enhance
+pill
+slight
+chief
+recall
+enforce |  
+| bip_39_word_new_line8 | auction
+enhance
+pill
+slight
+chief
+recall
+enforce
+nominee |  
+| bip_39_word_new_line9 | auction
+enhance
+pill
+slight
+chief
+recall
+enforce
+nominee
+aware |  
+| bip_39_word_space_0 | ['auction', 'enhance', 'pill', 'slight', 'chief', 'recall', 'enforce', 'nominee', 'aware', 'regular', 'creek', 'airport'] |  
+| bip_39_word_space_1 | auction |  
+| bip_39_word_space_10 | auction enhance pill slight chief recall enforce nominee aware regular |  
+| bip_39_word_space_11 | auction enhance pill slight chief recall enforce nominee aware regular creek |  
+| bip_39_word_space_12 | auction enhance pill slight chief recall enforce nominee aware regular creek airport |  
+| bip_39_word_space_2 | auction enhance |  
+| bip_39_word_space_3 | auction enhance pill |  
+| bip_39_word_space_4 | auction enhance pill slight |  
+| bip_39_word_space_5 | auction enhance pill slight chief |  
+| bip_39_word_space_6 | auction enhance pill slight chief recall |  
+| bip_39_word_space_7 | auction enhance pill slight chief recall enforce |  
+| bip_39_word_space_8 | auction enhance pill slight chief recall enforce nominee |  
+| bip_39_word_space_9 | auction enhance pill slight chief recall enforce nominee aware |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

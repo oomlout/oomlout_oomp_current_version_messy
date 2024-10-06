@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: direct session
+  * bip 39 word 3: direct session ship
+  * bip 39 word: direct session ship snack tennis burden chair olympic reduce hour nasty approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | direct |  
+| bip_39_word_new_br10 | direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour |  
+| bip_39_word_new_br11 | direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour<br>nasty |  
+| bip_39_word_new_br12 | direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce<br>hour<br>nasty<br>approve |  
+| bip_39_word_new_br2 | direct<br>session |  
+| bip_39_word_new_br3 | direct<br>session<br>ship |  
+| bip_39_word_new_br4 | direct<br>session<br>ship<br>snack |  
+| bip_39_word_new_br5 | direct<br>session<br>ship<br>snack<br>tennis |  
+| bip_39_word_new_br6 | direct<br>session<br>ship<br>snack<br>tennis<br>burden |  
+| bip_39_word_new_br7 | direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair |  
+| bip_39_word_new_br8 | direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic |  
+| bip_39_word_new_br9 | direct<br>session<br>ship<br>snack<br>tennis<br>burden<br>chair<br>olympic<br>reduce |  
+| bip_39_word_new_line1 | direct |  
+| bip_39_word_new_line10 | direct
+session
+ship
+snack
+tennis
+burden
+chair
+olympic
+reduce
+hour |  
+| bip_39_word_new_line11 | direct
+session
+ship
+snack
+tennis
+burden
+chair
+olympic
+reduce
+hour
+nasty |  
+| bip_39_word_new_line12 | direct
+session
+ship
+snack
+tennis
+burden
+chair
+olympic
+reduce
+hour
+nasty
+approve |  
+| bip_39_word_new_line2 | direct
+session |  
+| bip_39_word_new_line3 | direct
+session
+ship |  
+| bip_39_word_new_line4 | direct
+session
+ship
+snack |  
+| bip_39_word_new_line5 | direct
+session
+ship
+snack
+tennis |  
+| bip_39_word_new_line6 | direct
+session
+ship
+snack
+tennis
+burden |  
+| bip_39_word_new_line7 | direct
+session
+ship
+snack
+tennis
+burden
+chair |  
+| bip_39_word_new_line8 | direct
+session
+ship
+snack
+tennis
+burden
+chair
+olympic |  
+| bip_39_word_new_line9 | direct
+session
+ship
+snack
+tennis
+burden
+chair
+olympic
+reduce |  
+| bip_39_word_space_0 | ['direct', 'session', 'ship', 'snack', 'tennis', 'burden', 'chair', 'olympic', 'reduce', 'hour', 'nasty', 'approve'] |  
+| bip_39_word_space_1 | direct |  
+| bip_39_word_space_10 | direct session ship snack tennis burden chair olympic reduce hour |  
+| bip_39_word_space_11 | direct session ship snack tennis burden chair olympic reduce hour nasty |  
+| bip_39_word_space_12 | direct session ship snack tennis burden chair olympic reduce hour nasty approve |  
+| bip_39_word_space_2 | direct session |  
+| bip_39_word_space_3 | direct session ship |  
+| bip_39_word_space_4 | direct session ship snack |  
+| bip_39_word_space_5 | direct session ship snack tennis |  
+| bip_39_word_space_6 | direct session ship snack tennis burden |  
+| bip_39_word_space_7 | direct session ship snack tennis burden chair |  
+| bip_39_word_space_8 | direct session ship snack tennis burden chair olympic |  
+| bip_39_word_space_9 | direct session ship snack tennis burden chair olympic reduce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

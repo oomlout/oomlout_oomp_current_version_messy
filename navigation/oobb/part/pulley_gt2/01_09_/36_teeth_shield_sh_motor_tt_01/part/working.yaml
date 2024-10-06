@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chimney
+bip_39_word_new_br10: chimney<br>grab<br>entry<br>trash<br>door<br>forest<br>window<br>milk<br>awkward<br>awkward
+bip_39_word_new_br11: chimney<br>grab<br>entry<br>trash<br>door<br>forest<br>window<br>milk<br>awkward<br>awkward<br>enter
+bip_39_word_new_br12: chimney<br>grab<br>entry<br>trash<br>door<br>forest<br>window<br>milk<br>awkward<br>awkward<br>enter<br>another
+bip_39_word_new_br2: chimney<br>grab
+bip_39_word_new_br3: chimney<br>grab<br>entry
+bip_39_word_new_br4: chimney<br>grab<br>entry<br>trash
+bip_39_word_new_br5: chimney<br>grab<br>entry<br>trash<br>door
+bip_39_word_new_br6: chimney<br>grab<br>entry<br>trash<br>door<br>forest
+bip_39_word_new_br7: chimney<br>grab<br>entry<br>trash<br>door<br>forest<br>window
+bip_39_word_new_br8: chimney<br>grab<br>entry<br>trash<br>door<br>forest<br>window<br>milk
+bip_39_word_new_br9: chimney<br>grab<br>entry<br>trash<br>door<br>forest<br>window<br>milk<br>awkward
+bip_39_word_new_line1: chimney
+bip_39_word_new_line10: 'chimney
+
+  grab
+
+  entry
+
+  trash
+
+  door
+
+  forest
+
+  window
+
+  milk
+
+  awkward
+
+  awkward'
+bip_39_word_new_line11: 'chimney
+
+  grab
+
+  entry
+
+  trash
+
+  door
+
+  forest
+
+  window
+
+  milk
+
+  awkward
+
+  awkward
+
+  enter'
+bip_39_word_new_line12: 'chimney
+
+  grab
+
+  entry
+
+  trash
+
+  door
+
+  forest
+
+  window
+
+  milk
+
+  awkward
+
+  awkward
+
+  enter
+
+  another'
+bip_39_word_new_line2: 'chimney
+
+  grab'
+bip_39_word_new_line3: 'chimney
+
+  grab
+
+  entry'
+bip_39_word_new_line4: 'chimney
+
+  grab
+
+  entry
+
+  trash'
+bip_39_word_new_line5: 'chimney
+
+  grab
+
+  entry
+
+  trash
+
+  door'
+bip_39_word_new_line6: 'chimney
+
+  grab
+
+  entry
+
+  trash
+
+  door
+
+  forest'
+bip_39_word_new_line7: 'chimney
+
+  grab
+
+  entry
+
+  trash
+
+  door
+
+  forest
+
+  window'
+bip_39_word_new_line8: 'chimney
+
+  grab
+
+  entry
+
+  trash
+
+  door
+
+  forest
+
+  window
+
+  milk'
+bip_39_word_new_line9: 'chimney
+
+  grab
+
+  entry
+
+  trash
+
+  door
+
+  forest
+
+  window
+
+  milk
+
+  awkward'
+bip_39_word_space_0:
+- chimney
+- grab
+- entry
+- trash
+- door
+- forest
+- window
+- milk
+- awkward
+- awkward
+- enter
+- another
+bip_39_word_space_1: chimney
+bip_39_word_space_10: chimney grab entry trash door forest window milk awkward awkward
+bip_39_word_space_11: chimney grab entry trash door forest window milk awkward awkward
+  enter
+bip_39_word_space_12: chimney grab entry trash door forest window milk awkward awkward
+  enter another
+bip_39_word_space_2: chimney grab
+bip_39_word_space_3: chimney grab entry
+bip_39_word_space_4: chimney grab entry trash
+bip_39_word_space_5: chimney grab entry trash door
+bip_39_word_space_6: chimney grab entry trash door forest
+bip_39_word_space_7: chimney grab entry trash door forest window
+bip_39_word_space_8: chimney grab entry trash door forest window milk
+bip_39_word_space_9: chimney grab entry trash door forest window milk awkward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

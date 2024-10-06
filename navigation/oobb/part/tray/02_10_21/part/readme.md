@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wage thumb
+  * bip 39 word 3: wage thumb split
+  * bip 39 word: wage thumb split accuse letter horn sustain that culture whip dice antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wage |  
+| bip_39_word_new_br10 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn<br>sustain<br>that<br>culture<br>whip |  
+| bip_39_word_new_br11 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn<br>sustain<br>that<br>culture<br>whip<br>dice |  
+| bip_39_word_new_br12 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn<br>sustain<br>that<br>culture<br>whip<br>dice<br>antenna |  
+| bip_39_word_new_br2 | wage<br>thumb |  
+| bip_39_word_new_br3 | wage<br>thumb<br>split |  
+| bip_39_word_new_br4 | wage<br>thumb<br>split<br>accuse |  
+| bip_39_word_new_br5 | wage<br>thumb<br>split<br>accuse<br>letter |  
+| bip_39_word_new_br6 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn |  
+| bip_39_word_new_br7 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn<br>sustain |  
+| bip_39_word_new_br8 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn<br>sustain<br>that |  
+| bip_39_word_new_br9 | wage<br>thumb<br>split<br>accuse<br>letter<br>horn<br>sustain<br>that<br>culture |  
+| bip_39_word_new_line1 | wage |  
+| bip_39_word_new_line10 | wage
+thumb
+split
+accuse
+letter
+horn
+sustain
+that
+culture
+whip |  
+| bip_39_word_new_line11 | wage
+thumb
+split
+accuse
+letter
+horn
+sustain
+that
+culture
+whip
+dice |  
+| bip_39_word_new_line12 | wage
+thumb
+split
+accuse
+letter
+horn
+sustain
+that
+culture
+whip
+dice
+antenna |  
+| bip_39_word_new_line2 | wage
+thumb |  
+| bip_39_word_new_line3 | wage
+thumb
+split |  
+| bip_39_word_new_line4 | wage
+thumb
+split
+accuse |  
+| bip_39_word_new_line5 | wage
+thumb
+split
+accuse
+letter |  
+| bip_39_word_new_line6 | wage
+thumb
+split
+accuse
+letter
+horn |  
+| bip_39_word_new_line7 | wage
+thumb
+split
+accuse
+letter
+horn
+sustain |  
+| bip_39_word_new_line8 | wage
+thumb
+split
+accuse
+letter
+horn
+sustain
+that |  
+| bip_39_word_new_line9 | wage
+thumb
+split
+accuse
+letter
+horn
+sustain
+that
+culture |  
+| bip_39_word_space_0 | ['wage', 'thumb', 'split', 'accuse', 'letter', 'horn', 'sustain', 'that', 'culture', 'whip', 'dice', 'antenna'] |  
+| bip_39_word_space_1 | wage |  
+| bip_39_word_space_10 | wage thumb split accuse letter horn sustain that culture whip |  
+| bip_39_word_space_11 | wage thumb split accuse letter horn sustain that culture whip dice |  
+| bip_39_word_space_12 | wage thumb split accuse letter horn sustain that culture whip dice antenna |  
+| bip_39_word_space_2 | wage thumb |  
+| bip_39_word_space_3 | wage thumb split |  
+| bip_39_word_space_4 | wage thumb split accuse |  
+| bip_39_word_space_5 | wage thumb split accuse letter |  
+| bip_39_word_space_6 | wage thumb split accuse letter horn |  
+| bip_39_word_space_7 | wage thumb split accuse letter horn sustain |  
+| bip_39_word_space_8 | wage thumb split accuse letter horn sustain that |  
+| bip_39_word_space_9 | wage thumb split accuse letter horn sustain that culture |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

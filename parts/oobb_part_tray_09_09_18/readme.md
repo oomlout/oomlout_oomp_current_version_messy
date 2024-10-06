@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: miss soda
+  * bip 39 word 3: miss soda shed
+  * bip 39 word: miss soda shed half call siege motor circle fog silly monitor artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | miss |  
+| bip_39_word_new_br10 | miss<br>soda<br>shed<br>half<br>call<br>siege<br>motor<br>circle<br>fog<br>silly |  
+| bip_39_word_new_br11 | miss<br>soda<br>shed<br>half<br>call<br>siege<br>motor<br>circle<br>fog<br>silly<br>monitor |  
+| bip_39_word_new_br12 | miss<br>soda<br>shed<br>half<br>call<br>siege<br>motor<br>circle<br>fog<br>silly<br>monitor<br>artefact |  
+| bip_39_word_new_br2 | miss<br>soda |  
+| bip_39_word_new_br3 | miss<br>soda<br>shed |  
+| bip_39_word_new_br4 | miss<br>soda<br>shed<br>half |  
+| bip_39_word_new_br5 | miss<br>soda<br>shed<br>half<br>call |  
+| bip_39_word_new_br6 | miss<br>soda<br>shed<br>half<br>call<br>siege |  
+| bip_39_word_new_br7 | miss<br>soda<br>shed<br>half<br>call<br>siege<br>motor |  
+| bip_39_word_new_br8 | miss<br>soda<br>shed<br>half<br>call<br>siege<br>motor<br>circle |  
+| bip_39_word_new_br9 | miss<br>soda<br>shed<br>half<br>call<br>siege<br>motor<br>circle<br>fog |  
+| bip_39_word_new_line1 | miss |  
+| bip_39_word_new_line10 | miss
+soda
+shed
+half
+call
+siege
+motor
+circle
+fog
+silly |  
+| bip_39_word_new_line11 | miss
+soda
+shed
+half
+call
+siege
+motor
+circle
+fog
+silly
+monitor |  
+| bip_39_word_new_line12 | miss
+soda
+shed
+half
+call
+siege
+motor
+circle
+fog
+silly
+monitor
+artefact |  
+| bip_39_word_new_line2 | miss
+soda |  
+| bip_39_word_new_line3 | miss
+soda
+shed |  
+| bip_39_word_new_line4 | miss
+soda
+shed
+half |  
+| bip_39_word_new_line5 | miss
+soda
+shed
+half
+call |  
+| bip_39_word_new_line6 | miss
+soda
+shed
+half
+call
+siege |  
+| bip_39_word_new_line7 | miss
+soda
+shed
+half
+call
+siege
+motor |  
+| bip_39_word_new_line8 | miss
+soda
+shed
+half
+call
+siege
+motor
+circle |  
+| bip_39_word_new_line9 | miss
+soda
+shed
+half
+call
+siege
+motor
+circle
+fog |  
+| bip_39_word_space_0 | ['miss', 'soda', 'shed', 'half', 'call', 'siege', 'motor', 'circle', 'fog', 'silly', 'monitor', 'artefact'] |  
+| bip_39_word_space_1 | miss |  
+| bip_39_word_space_10 | miss soda shed half call siege motor circle fog silly |  
+| bip_39_word_space_11 | miss soda shed half call siege motor circle fog silly monitor |  
+| bip_39_word_space_12 | miss soda shed half call siege motor circle fog silly monitor artefact |  
+| bip_39_word_space_2 | miss soda |  
+| bip_39_word_space_3 | miss soda shed |  
+| bip_39_word_space_4 | miss soda shed half |  
+| bip_39_word_space_5 | miss soda shed half call |  
+| bip_39_word_space_6 | miss soda shed half call siege |  
+| bip_39_word_space_7 | miss soda shed half call siege motor |  
+| bip_39_word_space_8 | miss soda shed half call siege motor circle |  
+| bip_39_word_space_9 | miss soda shed half call siege motor circle fog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

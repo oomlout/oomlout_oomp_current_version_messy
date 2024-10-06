@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: few what
+  * bip 39 word 3: few what critic
+  * bip 39 word: few what critic orange senior march obscure garbage churn rubber maze absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | few |  
+| bip_39_word_new_br10 | few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn<br>rubber |  
+| bip_39_word_new_br11 | few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn<br>rubber<br>maze |  
+| bip_39_word_new_br12 | few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn<br>rubber<br>maze<br>absorb |  
+| bip_39_word_new_br2 | few<br>what |  
+| bip_39_word_new_br3 | few<br>what<br>critic |  
+| bip_39_word_new_br4 | few<br>what<br>critic<br>orange |  
+| bip_39_word_new_br5 | few<br>what<br>critic<br>orange<br>senior |  
+| bip_39_word_new_br6 | few<br>what<br>critic<br>orange<br>senior<br>march |  
+| bip_39_word_new_br7 | few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure |  
+| bip_39_word_new_br8 | few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage |  
+| bip_39_word_new_br9 | few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn |  
+| bip_39_word_new_line1 | few |  
+| bip_39_word_new_line10 | few
+what
+critic
+orange
+senior
+march
+obscure
+garbage
+churn
+rubber |  
+| bip_39_word_new_line11 | few
+what
+critic
+orange
+senior
+march
+obscure
+garbage
+churn
+rubber
+maze |  
+| bip_39_word_new_line12 | few
+what
+critic
+orange
+senior
+march
+obscure
+garbage
+churn
+rubber
+maze
+absorb |  
+| bip_39_word_new_line2 | few
+what |  
+| bip_39_word_new_line3 | few
+what
+critic |  
+| bip_39_word_new_line4 | few
+what
+critic
+orange |  
+| bip_39_word_new_line5 | few
+what
+critic
+orange
+senior |  
+| bip_39_word_new_line6 | few
+what
+critic
+orange
+senior
+march |  
+| bip_39_word_new_line7 | few
+what
+critic
+orange
+senior
+march
+obscure |  
+| bip_39_word_new_line8 | few
+what
+critic
+orange
+senior
+march
+obscure
+garbage |  
+| bip_39_word_new_line9 | few
+what
+critic
+orange
+senior
+march
+obscure
+garbage
+churn |  
+| bip_39_word_space_0 | ['few', 'what', 'critic', 'orange', 'senior', 'march', 'obscure', 'garbage', 'churn', 'rubber', 'maze', 'absorb'] |  
+| bip_39_word_space_1 | few |  
+| bip_39_word_space_10 | few what critic orange senior march obscure garbage churn rubber |  
+| bip_39_word_space_11 | few what critic orange senior march obscure garbage churn rubber maze |  
+| bip_39_word_space_12 | few what critic orange senior march obscure garbage churn rubber maze absorb |  
+| bip_39_word_space_2 | few what |  
+| bip_39_word_space_3 | few what critic |  
+| bip_39_word_space_4 | few what critic orange |  
+| bip_39_word_space_5 | few what critic orange senior |  
+| bip_39_word_space_6 | few what critic orange senior march |  
+| bip_39_word_space_7 | few what critic orange senior march obscure |  
+| bip_39_word_space_8 | few what critic orange senior march obscure garbage |  
+| bip_39_word_space_9 | few what critic orange senior march obscure garbage churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

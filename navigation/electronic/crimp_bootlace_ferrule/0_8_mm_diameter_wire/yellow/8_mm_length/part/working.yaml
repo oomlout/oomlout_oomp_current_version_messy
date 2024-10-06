@@ -1,3 +1,187 @@
+bip_39_word_new_br1: tank
+bip_39_word_new_br10: tank<br>vicious<br>invite<br>umbrella<br>general<br>engage<br>extend<br>ready<br>entire<br>melt
+bip_39_word_new_br11: tank<br>vicious<br>invite<br>umbrella<br>general<br>engage<br>extend<br>ready<br>entire<br>melt<br>ugly
+bip_39_word_new_br12: tank<br>vicious<br>invite<br>umbrella<br>general<br>engage<br>extend<br>ready<br>entire<br>melt<br>ugly<br>attract
+bip_39_word_new_br2: tank<br>vicious
+bip_39_word_new_br3: tank<br>vicious<br>invite
+bip_39_word_new_br4: tank<br>vicious<br>invite<br>umbrella
+bip_39_word_new_br5: tank<br>vicious<br>invite<br>umbrella<br>general
+bip_39_word_new_br6: tank<br>vicious<br>invite<br>umbrella<br>general<br>engage
+bip_39_word_new_br7: tank<br>vicious<br>invite<br>umbrella<br>general<br>engage<br>extend
+bip_39_word_new_br8: tank<br>vicious<br>invite<br>umbrella<br>general<br>engage<br>extend<br>ready
+bip_39_word_new_br9: tank<br>vicious<br>invite<br>umbrella<br>general<br>engage<br>extend<br>ready<br>entire
+bip_39_word_new_line1: tank
+bip_39_word_new_line10: 'tank
+
+  vicious
+
+  invite
+
+  umbrella
+
+  general
+
+  engage
+
+  extend
+
+  ready
+
+  entire
+
+  melt'
+bip_39_word_new_line11: 'tank
+
+  vicious
+
+  invite
+
+  umbrella
+
+  general
+
+  engage
+
+  extend
+
+  ready
+
+  entire
+
+  melt
+
+  ugly'
+bip_39_word_new_line12: 'tank
+
+  vicious
+
+  invite
+
+  umbrella
+
+  general
+
+  engage
+
+  extend
+
+  ready
+
+  entire
+
+  melt
+
+  ugly
+
+  attract'
+bip_39_word_new_line2: 'tank
+
+  vicious'
+bip_39_word_new_line3: 'tank
+
+  vicious
+
+  invite'
+bip_39_word_new_line4: 'tank
+
+  vicious
+
+  invite
+
+  umbrella'
+bip_39_word_new_line5: 'tank
+
+  vicious
+
+  invite
+
+  umbrella
+
+  general'
+bip_39_word_new_line6: 'tank
+
+  vicious
+
+  invite
+
+  umbrella
+
+  general
+
+  engage'
+bip_39_word_new_line7: 'tank
+
+  vicious
+
+  invite
+
+  umbrella
+
+  general
+
+  engage
+
+  extend'
+bip_39_word_new_line8: 'tank
+
+  vicious
+
+  invite
+
+  umbrella
+
+  general
+
+  engage
+
+  extend
+
+  ready'
+bip_39_word_new_line9: 'tank
+
+  vicious
+
+  invite
+
+  umbrella
+
+  general
+
+  engage
+
+  extend
+
+  ready
+
+  entire'
+bip_39_word_space_0:
+- tank
+- vicious
+- invite
+- umbrella
+- general
+- engage
+- extend
+- ready
+- entire
+- melt
+- ugly
+- attract
+bip_39_word_space_1: tank
+bip_39_word_space_10: tank vicious invite umbrella general engage extend ready entire
+  melt
+bip_39_word_space_11: tank vicious invite umbrella general engage extend ready entire
+  melt ugly
+bip_39_word_space_12: tank vicious invite umbrella general engage extend ready entire
+  melt ugly attract
+bip_39_word_space_2: tank vicious
+bip_39_word_space_3: tank vicious invite
+bip_39_word_space_4: tank vicious invite umbrella
+bip_39_word_space_5: tank vicious invite umbrella general
+bip_39_word_space_6: tank vicious invite umbrella general engage
+bip_39_word_space_7: tank vicious invite umbrella general engage extend
+bip_39_word_space_8: tank vicious invite umbrella general engage extend ready
+bip_39_word_space_9: tank vicious invite umbrella general engage extend ready entire
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: call amused
+  * bip 39 word 3: call amused embrace
+  * bip 39 word: call amused embrace extra hungry vivid wrist steak economy rib excess annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | call |  
+| bip_39_word_new_br10 | call<br>amused<br>embrace<br>extra<br>hungry<br>vivid<br>wrist<br>steak<br>economy<br>rib |  
+| bip_39_word_new_br11 | call<br>amused<br>embrace<br>extra<br>hungry<br>vivid<br>wrist<br>steak<br>economy<br>rib<br>excess |  
+| bip_39_word_new_br12 | call<br>amused<br>embrace<br>extra<br>hungry<br>vivid<br>wrist<br>steak<br>economy<br>rib<br>excess<br>annual |  
+| bip_39_word_new_br2 | call<br>amused |  
+| bip_39_word_new_br3 | call<br>amused<br>embrace |  
+| bip_39_word_new_br4 | call<br>amused<br>embrace<br>extra |  
+| bip_39_word_new_br5 | call<br>amused<br>embrace<br>extra<br>hungry |  
+| bip_39_word_new_br6 | call<br>amused<br>embrace<br>extra<br>hungry<br>vivid |  
+| bip_39_word_new_br7 | call<br>amused<br>embrace<br>extra<br>hungry<br>vivid<br>wrist |  
+| bip_39_word_new_br8 | call<br>amused<br>embrace<br>extra<br>hungry<br>vivid<br>wrist<br>steak |  
+| bip_39_word_new_br9 | call<br>amused<br>embrace<br>extra<br>hungry<br>vivid<br>wrist<br>steak<br>economy |  
+| bip_39_word_new_line1 | call |  
+| bip_39_word_new_line10 | call
+amused
+embrace
+extra
+hungry
+vivid
+wrist
+steak
+economy
+rib |  
+| bip_39_word_new_line11 | call
+amused
+embrace
+extra
+hungry
+vivid
+wrist
+steak
+economy
+rib
+excess |  
+| bip_39_word_new_line12 | call
+amused
+embrace
+extra
+hungry
+vivid
+wrist
+steak
+economy
+rib
+excess
+annual |  
+| bip_39_word_new_line2 | call
+amused |  
+| bip_39_word_new_line3 | call
+amused
+embrace |  
+| bip_39_word_new_line4 | call
+amused
+embrace
+extra |  
+| bip_39_word_new_line5 | call
+amused
+embrace
+extra
+hungry |  
+| bip_39_word_new_line6 | call
+amused
+embrace
+extra
+hungry
+vivid |  
+| bip_39_word_new_line7 | call
+amused
+embrace
+extra
+hungry
+vivid
+wrist |  
+| bip_39_word_new_line8 | call
+amused
+embrace
+extra
+hungry
+vivid
+wrist
+steak |  
+| bip_39_word_new_line9 | call
+amused
+embrace
+extra
+hungry
+vivid
+wrist
+steak
+economy |  
+| bip_39_word_space_0 | ['call', 'amused', 'embrace', 'extra', 'hungry', 'vivid', 'wrist', 'steak', 'economy', 'rib', 'excess', 'annual'] |  
+| bip_39_word_space_1 | call |  
+| bip_39_word_space_10 | call amused embrace extra hungry vivid wrist steak economy rib |  
+| bip_39_word_space_11 | call amused embrace extra hungry vivid wrist steak economy rib excess |  
+| bip_39_word_space_12 | call amused embrace extra hungry vivid wrist steak economy rib excess annual |  
+| bip_39_word_space_2 | call amused |  
+| bip_39_word_space_3 | call amused embrace |  
+| bip_39_word_space_4 | call amused embrace extra |  
+| bip_39_word_space_5 | call amused embrace extra hungry |  
+| bip_39_word_space_6 | call amused embrace extra hungry vivid |  
+| bip_39_word_space_7 | call amused embrace extra hungry vivid wrist |  
+| bip_39_word_space_8 | call amused embrace extra hungry vivid wrist steak |  
+| bip_39_word_space_9 | call amused embrace extra hungry vivid wrist steak economy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

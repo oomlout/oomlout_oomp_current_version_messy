@@ -1,3 +1,187 @@
+bip_39_word_new_br1: cage
+bip_39_word_new_br10: cage<br>uniform<br>hospital<br>message<br>pulp<br>win<br>innocent<br>blind<br>lecture<br>discover
+bip_39_word_new_br11: cage<br>uniform<br>hospital<br>message<br>pulp<br>win<br>innocent<br>blind<br>lecture<br>discover<br>avocado
+bip_39_word_new_br12: cage<br>uniform<br>hospital<br>message<br>pulp<br>win<br>innocent<br>blind<br>lecture<br>discover<br>avocado<br>august
+bip_39_word_new_br2: cage<br>uniform
+bip_39_word_new_br3: cage<br>uniform<br>hospital
+bip_39_word_new_br4: cage<br>uniform<br>hospital<br>message
+bip_39_word_new_br5: cage<br>uniform<br>hospital<br>message<br>pulp
+bip_39_word_new_br6: cage<br>uniform<br>hospital<br>message<br>pulp<br>win
+bip_39_word_new_br7: cage<br>uniform<br>hospital<br>message<br>pulp<br>win<br>innocent
+bip_39_word_new_br8: cage<br>uniform<br>hospital<br>message<br>pulp<br>win<br>innocent<br>blind
+bip_39_word_new_br9: cage<br>uniform<br>hospital<br>message<br>pulp<br>win<br>innocent<br>blind<br>lecture
+bip_39_word_new_line1: cage
+bip_39_word_new_line10: 'cage
+
+  uniform
+
+  hospital
+
+  message
+
+  pulp
+
+  win
+
+  innocent
+
+  blind
+
+  lecture
+
+  discover'
+bip_39_word_new_line11: 'cage
+
+  uniform
+
+  hospital
+
+  message
+
+  pulp
+
+  win
+
+  innocent
+
+  blind
+
+  lecture
+
+  discover
+
+  avocado'
+bip_39_word_new_line12: 'cage
+
+  uniform
+
+  hospital
+
+  message
+
+  pulp
+
+  win
+
+  innocent
+
+  blind
+
+  lecture
+
+  discover
+
+  avocado
+
+  august'
+bip_39_word_new_line2: 'cage
+
+  uniform'
+bip_39_word_new_line3: 'cage
+
+  uniform
+
+  hospital'
+bip_39_word_new_line4: 'cage
+
+  uniform
+
+  hospital
+
+  message'
+bip_39_word_new_line5: 'cage
+
+  uniform
+
+  hospital
+
+  message
+
+  pulp'
+bip_39_word_new_line6: 'cage
+
+  uniform
+
+  hospital
+
+  message
+
+  pulp
+
+  win'
+bip_39_word_new_line7: 'cage
+
+  uniform
+
+  hospital
+
+  message
+
+  pulp
+
+  win
+
+  innocent'
+bip_39_word_new_line8: 'cage
+
+  uniform
+
+  hospital
+
+  message
+
+  pulp
+
+  win
+
+  innocent
+
+  blind'
+bip_39_word_new_line9: 'cage
+
+  uniform
+
+  hospital
+
+  message
+
+  pulp
+
+  win
+
+  innocent
+
+  blind
+
+  lecture'
+bip_39_word_space_0:
+- cage
+- uniform
+- hospital
+- message
+- pulp
+- win
+- innocent
+- blind
+- lecture
+- discover
+- avocado
+- august
+bip_39_word_space_1: cage
+bip_39_word_space_10: cage uniform hospital message pulp win innocent blind lecture
+  discover
+bip_39_word_space_11: cage uniform hospital message pulp win innocent blind lecture
+  discover avocado
+bip_39_word_space_12: cage uniform hospital message pulp win innocent blind lecture
+  discover avocado august
+bip_39_word_space_2: cage uniform
+bip_39_word_space_3: cage uniform hospital
+bip_39_word_space_4: cage uniform hospital message
+bip_39_word_space_5: cage uniform hospital message pulp
+bip_39_word_space_6: cage uniform hospital message pulp win
+bip_39_word_space_7: cage uniform hospital message pulp win innocent
+bip_39_word_space_8: cage uniform hospital message pulp win innocent blind
+bip_39_word_space_9: cage uniform hospital message pulp win innocent blind lecture
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

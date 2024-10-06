@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lunch
+bip_39_word_new_br10: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate<br>liberty<br>history
+bip_39_word_new_br11: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate<br>liberty<br>history<br>airport
+bip_39_word_new_br12: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate<br>liberty<br>history<br>airport<br>across
+bip_39_word_new_br2: lunch<br>grain
+bip_39_word_new_br3: lunch<br>grain<br>aware
+bip_39_word_new_br4: lunch<br>grain<br>aware<br>witness
+bip_39_word_new_br5: lunch<br>grain<br>aware<br>witness<br>fox
+bip_39_word_new_br6: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve
+bip_39_word_new_br7: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon
+bip_39_word_new_br8: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate
+bip_39_word_new_br9: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate<br>liberty
+bip_39_word_new_line1: lunch
+bip_39_word_new_line10: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate
+
+  liberty
+
+  history'
+bip_39_word_new_line11: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate
+
+  liberty
+
+  history
+
+  airport'
+bip_39_word_new_line12: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate
+
+  liberty
+
+  history
+
+  airport
+
+  across'
+bip_39_word_new_line2: 'lunch
+
+  grain'
+bip_39_word_new_line3: 'lunch
+
+  grain
+
+  aware'
+bip_39_word_new_line4: 'lunch
+
+  grain
+
+  aware
+
+  witness'
+bip_39_word_new_line5: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox'
+bip_39_word_new_line6: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve'
+bip_39_word_new_line7: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon'
+bip_39_word_new_line8: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate'
+bip_39_word_new_line9: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate
+
+  liberty'
+bip_39_word_space_0:
+- lunch
+- grain
+- aware
+- witness
+- fox
+- achieve
+- wagon
+- debate
+- liberty
+- history
+- airport
+- across
+bip_39_word_space_1: lunch
+bip_39_word_space_10: lunch grain aware witness fox achieve wagon debate liberty history
+bip_39_word_space_11: lunch grain aware witness fox achieve wagon debate liberty history
+  airport
+bip_39_word_space_12: lunch grain aware witness fox achieve wagon debate liberty history
+  airport across
+bip_39_word_space_2: lunch grain
+bip_39_word_space_3: lunch grain aware
+bip_39_word_space_4: lunch grain aware witness
+bip_39_word_space_5: lunch grain aware witness fox
+bip_39_word_space_6: lunch grain aware witness fox achieve
+bip_39_word_space_7: lunch grain aware witness fox achieve wagon
+bip_39_word_space_8: lunch grain aware witness fox achieve wagon debate
+bip_39_word_space_9: lunch grain aware witness fox achieve wagon debate liberty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

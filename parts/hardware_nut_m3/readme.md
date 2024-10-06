@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nasty dog
+  * bip 39 word 3: nasty dog guess
+  * bip 39 word: nasty dog guess horse subject typical ordinary name pact round notable alert
 
 ### other_codes
 * short_code: n3m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nasty |  
+| bip_39_word_new_br10 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact<br>round |  
+| bip_39_word_new_br11 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact<br>round<br>notable |  
+| bip_39_word_new_br12 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact<br>round<br>notable<br>alert |  
+| bip_39_word_new_br2 | nasty<br>dog |  
+| bip_39_word_new_br3 | nasty<br>dog<br>guess |  
+| bip_39_word_new_br4 | nasty<br>dog<br>guess<br>horse |  
+| bip_39_word_new_br5 | nasty<br>dog<br>guess<br>horse<br>subject |  
+| bip_39_word_new_br6 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical |  
+| bip_39_word_new_br7 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary |  
+| bip_39_word_new_br8 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name |  
+| bip_39_word_new_br9 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact |  
+| bip_39_word_new_line1 | nasty |  
+| bip_39_word_new_line10 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name
+pact
+round |  
+| bip_39_word_new_line11 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name
+pact
+round
+notable |  
+| bip_39_word_new_line12 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name
+pact
+round
+notable
+alert |  
+| bip_39_word_new_line2 | nasty
+dog |  
+| bip_39_word_new_line3 | nasty
+dog
+guess |  
+| bip_39_word_new_line4 | nasty
+dog
+guess
+horse |  
+| bip_39_word_new_line5 | nasty
+dog
+guess
+horse
+subject |  
+| bip_39_word_new_line6 | nasty
+dog
+guess
+horse
+subject
+typical |  
+| bip_39_word_new_line7 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary |  
+| bip_39_word_new_line8 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name |  
+| bip_39_word_new_line9 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name
+pact |  
+| bip_39_word_space_0 | ['nasty', 'dog', 'guess', 'horse', 'subject', 'typical', 'ordinary', 'name', 'pact', 'round', 'notable', 'alert'] |  
+| bip_39_word_space_1 | nasty |  
+| bip_39_word_space_10 | nasty dog guess horse subject typical ordinary name pact round |  
+| bip_39_word_space_11 | nasty dog guess horse subject typical ordinary name pact round notable |  
+| bip_39_word_space_12 | nasty dog guess horse subject typical ordinary name pact round notable alert |  
+| bip_39_word_space_2 | nasty dog |  
+| bip_39_word_space_3 | nasty dog guess |  
+| bip_39_word_space_4 | nasty dog guess horse |  
+| bip_39_word_space_5 | nasty dog guess horse subject |  
+| bip_39_word_space_6 | nasty dog guess horse subject typical |  
+| bip_39_word_space_7 | nasty dog guess horse subject typical ordinary |  
+| bip_39_word_space_8 | nasty dog guess horse subject typical ordinary name |  
+| bip_39_word_space_9 | nasty dog guess horse subject typical ordinary name pact |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

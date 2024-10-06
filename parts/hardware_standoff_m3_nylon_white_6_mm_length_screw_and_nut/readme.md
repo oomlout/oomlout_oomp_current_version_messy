@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crack nothing
+  * bip 39 word 3: crack nothing wine
+  * bip 39 word: crack nothing wine board earn gadget group kit lounge program kind athlete
 
 ### other_codes
 * short_code: so3nw6sn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crack |  
+| bip_39_word_new_br10 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget<br>group<br>kit<br>lounge<br>program |  
+| bip_39_word_new_br11 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget<br>group<br>kit<br>lounge<br>program<br>kind |  
+| bip_39_word_new_br12 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget<br>group<br>kit<br>lounge<br>program<br>kind<br>athlete |  
+| bip_39_word_new_br2 | crack<br>nothing |  
+| bip_39_word_new_br3 | crack<br>nothing<br>wine |  
+| bip_39_word_new_br4 | crack<br>nothing<br>wine<br>board |  
+| bip_39_word_new_br5 | crack<br>nothing<br>wine<br>board<br>earn |  
+| bip_39_word_new_br6 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget |  
+| bip_39_word_new_br7 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget<br>group |  
+| bip_39_word_new_br8 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget<br>group<br>kit |  
+| bip_39_word_new_br9 | crack<br>nothing<br>wine<br>board<br>earn<br>gadget<br>group<br>kit<br>lounge |  
+| bip_39_word_new_line1 | crack |  
+| bip_39_word_new_line10 | crack
+nothing
+wine
+board
+earn
+gadget
+group
+kit
+lounge
+program |  
+| bip_39_word_new_line11 | crack
+nothing
+wine
+board
+earn
+gadget
+group
+kit
+lounge
+program
+kind |  
+| bip_39_word_new_line12 | crack
+nothing
+wine
+board
+earn
+gadget
+group
+kit
+lounge
+program
+kind
+athlete |  
+| bip_39_word_new_line2 | crack
+nothing |  
+| bip_39_word_new_line3 | crack
+nothing
+wine |  
+| bip_39_word_new_line4 | crack
+nothing
+wine
+board |  
+| bip_39_word_new_line5 | crack
+nothing
+wine
+board
+earn |  
+| bip_39_word_new_line6 | crack
+nothing
+wine
+board
+earn
+gadget |  
+| bip_39_word_new_line7 | crack
+nothing
+wine
+board
+earn
+gadget
+group |  
+| bip_39_word_new_line8 | crack
+nothing
+wine
+board
+earn
+gadget
+group
+kit |  
+| bip_39_word_new_line9 | crack
+nothing
+wine
+board
+earn
+gadget
+group
+kit
+lounge |  
+| bip_39_word_space_0 | ['crack', 'nothing', 'wine', 'board', 'earn', 'gadget', 'group', 'kit', 'lounge', 'program', 'kind', 'athlete'] |  
+| bip_39_word_space_1 | crack |  
+| bip_39_word_space_10 | crack nothing wine board earn gadget group kit lounge program |  
+| bip_39_word_space_11 | crack nothing wine board earn gadget group kit lounge program kind |  
+| bip_39_word_space_12 | crack nothing wine board earn gadget group kit lounge program kind athlete |  
+| bip_39_word_space_2 | crack nothing |  
+| bip_39_word_space_3 | crack nothing wine |  
+| bip_39_word_space_4 | crack nothing wine board |  
+| bip_39_word_space_5 | crack nothing wine board earn |  
+| bip_39_word_space_6 | crack nothing wine board earn gadget |  
+| bip_39_word_space_7 | crack nothing wine board earn gadget group |  
+| bip_39_word_space_8 | crack nothing wine board earn gadget group kit |  
+| bip_39_word_space_9 | crack nothing wine board earn gadget group kit lounge |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

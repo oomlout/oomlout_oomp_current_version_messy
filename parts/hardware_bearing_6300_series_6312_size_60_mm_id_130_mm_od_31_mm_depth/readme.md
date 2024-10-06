@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rely wash
+  * bip 39 word 3: rely wash quit
+  * bip 39 word: rely wash quit pool vehicle adapt will april alien steak frown anxiety
 
 ### other_codes
 * short_code: br6312
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rely |  
+| bip_39_word_new_br10 | rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt<br>will<br>april<br>alien<br>steak |  
+| bip_39_word_new_br11 | rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt<br>will<br>april<br>alien<br>steak<br>frown |  
+| bip_39_word_new_br12 | rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt<br>will<br>april<br>alien<br>steak<br>frown<br>anxiety |  
+| bip_39_word_new_br2 | rely<br>wash |  
+| bip_39_word_new_br3 | rely<br>wash<br>quit |  
+| bip_39_word_new_br4 | rely<br>wash<br>quit<br>pool |  
+| bip_39_word_new_br5 | rely<br>wash<br>quit<br>pool<br>vehicle |  
+| bip_39_word_new_br6 | rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt |  
+| bip_39_word_new_br7 | rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt<br>will |  
+| bip_39_word_new_br8 | rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt<br>will<br>april |  
+| bip_39_word_new_br9 | rely<br>wash<br>quit<br>pool<br>vehicle<br>adapt<br>will<br>april<br>alien |  
+| bip_39_word_new_line1 | rely |  
+| bip_39_word_new_line10 | rely
+wash
+quit
+pool
+vehicle
+adapt
+will
+april
+alien
+steak |  
+| bip_39_word_new_line11 | rely
+wash
+quit
+pool
+vehicle
+adapt
+will
+april
+alien
+steak
+frown |  
+| bip_39_word_new_line12 | rely
+wash
+quit
+pool
+vehicle
+adapt
+will
+april
+alien
+steak
+frown
+anxiety |  
+| bip_39_word_new_line2 | rely
+wash |  
+| bip_39_word_new_line3 | rely
+wash
+quit |  
+| bip_39_word_new_line4 | rely
+wash
+quit
+pool |  
+| bip_39_word_new_line5 | rely
+wash
+quit
+pool
+vehicle |  
+| bip_39_word_new_line6 | rely
+wash
+quit
+pool
+vehicle
+adapt |  
+| bip_39_word_new_line7 | rely
+wash
+quit
+pool
+vehicle
+adapt
+will |  
+| bip_39_word_new_line8 | rely
+wash
+quit
+pool
+vehicle
+adapt
+will
+april |  
+| bip_39_word_new_line9 | rely
+wash
+quit
+pool
+vehicle
+adapt
+will
+april
+alien |  
+| bip_39_word_space_0 | ['rely', 'wash', 'quit', 'pool', 'vehicle', 'adapt', 'will', 'april', 'alien', 'steak', 'frown', 'anxiety'] |  
+| bip_39_word_space_1 | rely |  
+| bip_39_word_space_10 | rely wash quit pool vehicle adapt will april alien steak |  
+| bip_39_word_space_11 | rely wash quit pool vehicle adapt will april alien steak frown |  
+| bip_39_word_space_12 | rely wash quit pool vehicle adapt will april alien steak frown anxiety |  
+| bip_39_word_space_2 | rely wash |  
+| bip_39_word_space_3 | rely wash quit |  
+| bip_39_word_space_4 | rely wash quit pool |  
+| bip_39_word_space_5 | rely wash quit pool vehicle |  
+| bip_39_word_space_6 | rely wash quit pool vehicle adapt |  
+| bip_39_word_space_7 | rely wash quit pool vehicle adapt will |  
+| bip_39_word_space_8 | rely wash quit pool vehicle adapt will april |  
+| bip_39_word_space_9 | rely wash quit pool vehicle adapt will april alien |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

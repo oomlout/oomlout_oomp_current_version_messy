@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clerk hair
+  * bip 39 word 3: clerk hair flush
+  * bip 39 word: clerk hair flush inmate entire increase flat witness punch report shallow alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clerk |  
+| bip_39_word_new_br10 | clerk<br>hair<br>flush<br>inmate<br>entire<br>increase<br>flat<br>witness<br>punch<br>report |  
+| bip_39_word_new_br11 | clerk<br>hair<br>flush<br>inmate<br>entire<br>increase<br>flat<br>witness<br>punch<br>report<br>shallow |  
+| bip_39_word_new_br12 | clerk<br>hair<br>flush<br>inmate<br>entire<br>increase<br>flat<br>witness<br>punch<br>report<br>shallow<br>alert |  
+| bip_39_word_new_br2 | clerk<br>hair |  
+| bip_39_word_new_br3 | clerk<br>hair<br>flush |  
+| bip_39_word_new_br4 | clerk<br>hair<br>flush<br>inmate |  
+| bip_39_word_new_br5 | clerk<br>hair<br>flush<br>inmate<br>entire |  
+| bip_39_word_new_br6 | clerk<br>hair<br>flush<br>inmate<br>entire<br>increase |  
+| bip_39_word_new_br7 | clerk<br>hair<br>flush<br>inmate<br>entire<br>increase<br>flat |  
+| bip_39_word_new_br8 | clerk<br>hair<br>flush<br>inmate<br>entire<br>increase<br>flat<br>witness |  
+| bip_39_word_new_br9 | clerk<br>hair<br>flush<br>inmate<br>entire<br>increase<br>flat<br>witness<br>punch |  
+| bip_39_word_new_line1 | clerk |  
+| bip_39_word_new_line10 | clerk
+hair
+flush
+inmate
+entire
+increase
+flat
+witness
+punch
+report |  
+| bip_39_word_new_line11 | clerk
+hair
+flush
+inmate
+entire
+increase
+flat
+witness
+punch
+report
+shallow |  
+| bip_39_word_new_line12 | clerk
+hair
+flush
+inmate
+entire
+increase
+flat
+witness
+punch
+report
+shallow
+alert |  
+| bip_39_word_new_line2 | clerk
+hair |  
+| bip_39_word_new_line3 | clerk
+hair
+flush |  
+| bip_39_word_new_line4 | clerk
+hair
+flush
+inmate |  
+| bip_39_word_new_line5 | clerk
+hair
+flush
+inmate
+entire |  
+| bip_39_word_new_line6 | clerk
+hair
+flush
+inmate
+entire
+increase |  
+| bip_39_word_new_line7 | clerk
+hair
+flush
+inmate
+entire
+increase
+flat |  
+| bip_39_word_new_line8 | clerk
+hair
+flush
+inmate
+entire
+increase
+flat
+witness |  
+| bip_39_word_new_line9 | clerk
+hair
+flush
+inmate
+entire
+increase
+flat
+witness
+punch |  
+| bip_39_word_space_0 | ['clerk', 'hair', 'flush', 'inmate', 'entire', 'increase', 'flat', 'witness', 'punch', 'report', 'shallow', 'alert'] |  
+| bip_39_word_space_1 | clerk |  
+| bip_39_word_space_10 | clerk hair flush inmate entire increase flat witness punch report |  
+| bip_39_word_space_11 | clerk hair flush inmate entire increase flat witness punch report shallow |  
+| bip_39_word_space_12 | clerk hair flush inmate entire increase flat witness punch report shallow alert |  
+| bip_39_word_space_2 | clerk hair |  
+| bip_39_word_space_3 | clerk hair flush |  
+| bip_39_word_space_4 | clerk hair flush inmate |  
+| bip_39_word_space_5 | clerk hair flush inmate entire |  
+| bip_39_word_space_6 | clerk hair flush inmate entire increase |  
+| bip_39_word_space_7 | clerk hair flush inmate entire increase flat |  
+| bip_39_word_space_8 | clerk hair flush inmate entire increase flat witness |  
+| bip_39_word_space_9 | clerk hair flush inmate entire increase flat witness punch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

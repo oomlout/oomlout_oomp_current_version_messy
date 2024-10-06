@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: price photo
+  * bip 39 word 3: price photo craft
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | price |  
+| bip_39_word_new_br10 | price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent<br>nice<br>ship |  
+| bip_39_word_new_br11 | price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent<br>nice<br>ship<br>drop |  
+| bip_39_word_new_br2 | price<br>photo |  
+| bip_39_word_new_br3 | price<br>photo<br>craft |  
+| bip_39_word_new_br4 | price<br>photo<br>craft<br>walk |  
+| bip_39_word_new_br5 | price<br>photo<br>craft<br>walk<br>young |  
+| bip_39_word_new_br6 | price<br>photo<br>craft<br>walk<br>young<br>future |  
+| bip_39_word_new_br7 | price<br>photo<br>craft<br>walk<br>young<br>future<br>kind |  
+| bip_39_word_new_br8 | price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent |  
+| bip_39_word_new_br9 | price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent<br>nice |  
+| bip_39_word_new_line1 | price |  
+| bip_39_word_new_line10 | price
+photo
+craft
+walk
+young
+future
+kind
+rent
+nice
+ship |  
+| bip_39_word_new_line11 | price
+photo
+craft
+walk
+young
+future
+kind
+rent
+nice
+ship
+drop |  
+| bip_39_word_new_line2 | price
+photo |  
+| bip_39_word_new_line3 | price
+photo
+craft |  
+| bip_39_word_new_line4 | price
+photo
+craft
+walk |  
+| bip_39_word_new_line5 | price
+photo
+craft
+walk
+young |  
+| bip_39_word_new_line6 | price
+photo
+craft
+walk
+young
+future |  
+| bip_39_word_new_line7 | price
+photo
+craft
+walk
+young
+future
+kind |  
+| bip_39_word_new_line8 | price
+photo
+craft
+walk
+young
+future
+kind
+rent |  
+| bip_39_word_new_line9 | price
+photo
+craft
+walk
+young
+future
+kind
+rent
+nice |  
+| bip_39_word_space_0 | ['price', 'photo', 'craft', 'walk', 'young', 'future', 'kind', 'rent', 'nice', 'ship', 'drop'] |  
+| bip_39_word_space_1 | price |  
+| bip_39_word_space_10 | price photo craft walk young future kind rent nice ship |  
+| bip_39_word_space_11 | price photo craft walk young future kind rent nice ship drop |  
+| bip_39_word_space_2 | price photo |  
+| bip_39_word_space_3 | price photo craft |  
+| bip_39_word_space_4 | price photo craft walk |  
+| bip_39_word_space_5 | price photo craft walk young |  
+| bip_39_word_space_6 | price photo craft walk young future |  
+| bip_39_word_space_7 | price photo craft walk young future kind |  
+| bip_39_word_space_8 | price photo craft walk young future kind rent |  
+| bip_39_word_space_9 | price photo craft walk young future kind rent nice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

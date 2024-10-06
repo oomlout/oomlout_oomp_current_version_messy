@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: leisure limit
+  * bip 39 word 3: leisure limit reopen
+  * bip 39 word: leisure limit reopen gravity neck month nose window grow borrow unable antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | leisure |  
+| bip_39_word_new_br10 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month<br>nose<br>window<br>grow<br>borrow |  
+| bip_39_word_new_br11 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month<br>nose<br>window<br>grow<br>borrow<br>unable |  
+| bip_39_word_new_br12 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month<br>nose<br>window<br>grow<br>borrow<br>unable<br>antenna |  
+| bip_39_word_new_br2 | leisure<br>limit |  
+| bip_39_word_new_br3 | leisure<br>limit<br>reopen |  
+| bip_39_word_new_br4 | leisure<br>limit<br>reopen<br>gravity |  
+| bip_39_word_new_br5 | leisure<br>limit<br>reopen<br>gravity<br>neck |  
+| bip_39_word_new_br6 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month |  
+| bip_39_word_new_br7 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month<br>nose |  
+| bip_39_word_new_br8 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month<br>nose<br>window |  
+| bip_39_word_new_br9 | leisure<br>limit<br>reopen<br>gravity<br>neck<br>month<br>nose<br>window<br>grow |  
+| bip_39_word_new_line1 | leisure |  
+| bip_39_word_new_line10 | leisure
+limit
+reopen
+gravity
+neck
+month
+nose
+window
+grow
+borrow |  
+| bip_39_word_new_line11 | leisure
+limit
+reopen
+gravity
+neck
+month
+nose
+window
+grow
+borrow
+unable |  
+| bip_39_word_new_line12 | leisure
+limit
+reopen
+gravity
+neck
+month
+nose
+window
+grow
+borrow
+unable
+antenna |  
+| bip_39_word_new_line2 | leisure
+limit |  
+| bip_39_word_new_line3 | leisure
+limit
+reopen |  
+| bip_39_word_new_line4 | leisure
+limit
+reopen
+gravity |  
+| bip_39_word_new_line5 | leisure
+limit
+reopen
+gravity
+neck |  
+| bip_39_word_new_line6 | leisure
+limit
+reopen
+gravity
+neck
+month |  
+| bip_39_word_new_line7 | leisure
+limit
+reopen
+gravity
+neck
+month
+nose |  
+| bip_39_word_new_line8 | leisure
+limit
+reopen
+gravity
+neck
+month
+nose
+window |  
+| bip_39_word_new_line9 | leisure
+limit
+reopen
+gravity
+neck
+month
+nose
+window
+grow |  
+| bip_39_word_space_0 | ['leisure', 'limit', 'reopen', 'gravity', 'neck', 'month', 'nose', 'window', 'grow', 'borrow', 'unable', 'antenna'] |  
+| bip_39_word_space_1 | leisure |  
+| bip_39_word_space_10 | leisure limit reopen gravity neck month nose window grow borrow |  
+| bip_39_word_space_11 | leisure limit reopen gravity neck month nose window grow borrow unable |  
+| bip_39_word_space_12 | leisure limit reopen gravity neck month nose window grow borrow unable antenna |  
+| bip_39_word_space_2 | leisure limit |  
+| bip_39_word_space_3 | leisure limit reopen |  
+| bip_39_word_space_4 | leisure limit reopen gravity |  
+| bip_39_word_space_5 | leisure limit reopen gravity neck |  
+| bip_39_word_space_6 | leisure limit reopen gravity neck month |  
+| bip_39_word_space_7 | leisure limit reopen gravity neck month nose |  
+| bip_39_word_space_8 | leisure limit reopen gravity neck month nose window |  
+| bip_39_word_space_9 | leisure limit reopen gravity neck month nose window grow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

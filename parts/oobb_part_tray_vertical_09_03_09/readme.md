@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trust cat
+  * bip 39 word 3: trust cat bracket
+  * bip 39 word: trust cat bracket youth faith bubble extend level fork mouse essay action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trust |  
+| bip_39_word_new_br10 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse |  
+| bip_39_word_new_br11 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse<br>essay |  
+| bip_39_word_new_br12 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork<br>mouse<br>essay<br>action |  
+| bip_39_word_new_br2 | trust<br>cat |  
+| bip_39_word_new_br3 | trust<br>cat<br>bracket |  
+| bip_39_word_new_br4 | trust<br>cat<br>bracket<br>youth |  
+| bip_39_word_new_br5 | trust<br>cat<br>bracket<br>youth<br>faith |  
+| bip_39_word_new_br6 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble |  
+| bip_39_word_new_br7 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend |  
+| bip_39_word_new_br8 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level |  
+| bip_39_word_new_br9 | trust<br>cat<br>bracket<br>youth<br>faith<br>bubble<br>extend<br>level<br>fork |  
+| bip_39_word_new_line1 | trust |  
+| bip_39_word_new_line10 | trust
+cat
+bracket
+youth
+faith
+bubble
+extend
+level
+fork
+mouse |  
+| bip_39_word_new_line11 | trust
+cat
+bracket
+youth
+faith
+bubble
+extend
+level
+fork
+mouse
+essay |  
+| bip_39_word_new_line12 | trust
+cat
+bracket
+youth
+faith
+bubble
+extend
+level
+fork
+mouse
+essay
+action |  
+| bip_39_word_new_line2 | trust
+cat |  
+| bip_39_word_new_line3 | trust
+cat
+bracket |  
+| bip_39_word_new_line4 | trust
+cat
+bracket
+youth |  
+| bip_39_word_new_line5 | trust
+cat
+bracket
+youth
+faith |  
+| bip_39_word_new_line6 | trust
+cat
+bracket
+youth
+faith
+bubble |  
+| bip_39_word_new_line7 | trust
+cat
+bracket
+youth
+faith
+bubble
+extend |  
+| bip_39_word_new_line8 | trust
+cat
+bracket
+youth
+faith
+bubble
+extend
+level |  
+| bip_39_word_new_line9 | trust
+cat
+bracket
+youth
+faith
+bubble
+extend
+level
+fork |  
+| bip_39_word_space_0 | ['trust', 'cat', 'bracket', 'youth', 'faith', 'bubble', 'extend', 'level', 'fork', 'mouse', 'essay', 'action'] |  
+| bip_39_word_space_1 | trust |  
+| bip_39_word_space_10 | trust cat bracket youth faith bubble extend level fork mouse |  
+| bip_39_word_space_11 | trust cat bracket youth faith bubble extend level fork mouse essay |  
+| bip_39_word_space_12 | trust cat bracket youth faith bubble extend level fork mouse essay action |  
+| bip_39_word_space_2 | trust cat |  
+| bip_39_word_space_3 | trust cat bracket |  
+| bip_39_word_space_4 | trust cat bracket youth |  
+| bip_39_word_space_5 | trust cat bracket youth faith |  
+| bip_39_word_space_6 | trust cat bracket youth faith bubble |  
+| bip_39_word_space_7 | trust cat bracket youth faith bubble extend |  
+| bip_39_word_space_8 | trust cat bracket youth faith bubble extend level |  
+| bip_39_word_space_9 | trust cat bracket youth faith bubble extend level fork |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

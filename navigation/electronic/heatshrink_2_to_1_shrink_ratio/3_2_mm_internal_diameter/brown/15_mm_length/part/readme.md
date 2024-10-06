@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sadness aware
+  * bip 39 word 3: sadness aware gold
+  * bip 39 word: sadness aware gold reveal long awesome oval ramp best tissue mechanic anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sadness |  
+| bip_39_word_new_br10 | sadness<br>aware<br>gold<br>reveal<br>long<br>awesome<br>oval<br>ramp<br>best<br>tissue |  
+| bip_39_word_new_br11 | sadness<br>aware<br>gold<br>reveal<br>long<br>awesome<br>oval<br>ramp<br>best<br>tissue<br>mechanic |  
+| bip_39_word_new_br12 | sadness<br>aware<br>gold<br>reveal<br>long<br>awesome<br>oval<br>ramp<br>best<br>tissue<br>mechanic<br>anchor |  
+| bip_39_word_new_br2 | sadness<br>aware |  
+| bip_39_word_new_br3 | sadness<br>aware<br>gold |  
+| bip_39_word_new_br4 | sadness<br>aware<br>gold<br>reveal |  
+| bip_39_word_new_br5 | sadness<br>aware<br>gold<br>reveal<br>long |  
+| bip_39_word_new_br6 | sadness<br>aware<br>gold<br>reveal<br>long<br>awesome |  
+| bip_39_word_new_br7 | sadness<br>aware<br>gold<br>reveal<br>long<br>awesome<br>oval |  
+| bip_39_word_new_br8 | sadness<br>aware<br>gold<br>reveal<br>long<br>awesome<br>oval<br>ramp |  
+| bip_39_word_new_br9 | sadness<br>aware<br>gold<br>reveal<br>long<br>awesome<br>oval<br>ramp<br>best |  
+| bip_39_word_new_line1 | sadness |  
+| bip_39_word_new_line10 | sadness
+aware
+gold
+reveal
+long
+awesome
+oval
+ramp
+best
+tissue |  
+| bip_39_word_new_line11 | sadness
+aware
+gold
+reveal
+long
+awesome
+oval
+ramp
+best
+tissue
+mechanic |  
+| bip_39_word_new_line12 | sadness
+aware
+gold
+reveal
+long
+awesome
+oval
+ramp
+best
+tissue
+mechanic
+anchor |  
+| bip_39_word_new_line2 | sadness
+aware |  
+| bip_39_word_new_line3 | sadness
+aware
+gold |  
+| bip_39_word_new_line4 | sadness
+aware
+gold
+reveal |  
+| bip_39_word_new_line5 | sadness
+aware
+gold
+reveal
+long |  
+| bip_39_word_new_line6 | sadness
+aware
+gold
+reveal
+long
+awesome |  
+| bip_39_word_new_line7 | sadness
+aware
+gold
+reveal
+long
+awesome
+oval |  
+| bip_39_word_new_line8 | sadness
+aware
+gold
+reveal
+long
+awesome
+oval
+ramp |  
+| bip_39_word_new_line9 | sadness
+aware
+gold
+reveal
+long
+awesome
+oval
+ramp
+best |  
+| bip_39_word_space_0 | ['sadness', 'aware', 'gold', 'reveal', 'long', 'awesome', 'oval', 'ramp', 'best', 'tissue', 'mechanic', 'anchor'] |  
+| bip_39_word_space_1 | sadness |  
+| bip_39_word_space_10 | sadness aware gold reveal long awesome oval ramp best tissue |  
+| bip_39_word_space_11 | sadness aware gold reveal long awesome oval ramp best tissue mechanic |  
+| bip_39_word_space_12 | sadness aware gold reveal long awesome oval ramp best tissue mechanic anchor |  
+| bip_39_word_space_2 | sadness aware |  
+| bip_39_word_space_3 | sadness aware gold |  
+| bip_39_word_space_4 | sadness aware gold reveal |  
+| bip_39_word_space_5 | sadness aware gold reveal long |  
+| bip_39_word_space_6 | sadness aware gold reveal long awesome |  
+| bip_39_word_space_7 | sadness aware gold reveal long awesome oval |  
+| bip_39_word_space_8 | sadness aware gold reveal long awesome oval ramp |  
+| bip_39_word_space_9 | sadness aware gold reveal long awesome oval ramp best |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

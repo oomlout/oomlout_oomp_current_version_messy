@@ -1,3 +1,187 @@
+bip_39_word_new_br1: spend
+bip_39_word_new_br10: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve
+bip_39_word_new_br11: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest
+bip_39_word_new_br12: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient<br>involve<br>chest<br>alone
+bip_39_word_new_br2: spend<br>until
+bip_39_word_new_br3: spend<br>until<br>wheel
+bip_39_word_new_br4: spend<br>until<br>wheel<br>satoshi
+bip_39_word_new_br5: spend<br>until<br>wheel<br>satoshi<br>someone
+bip_39_word_new_br6: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve
+bip_39_word_new_br7: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid
+bip_39_word_new_br8: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler
+bip_39_word_new_br9: spend<br>until<br>wheel<br>satoshi<br>someone<br>twelve<br>hybrid<br>toddler<br>orient
+bip_39_word_new_line1: spend
+bip_39_word_new_line10: 'spend
+
+  until
+
+  wheel
+
+  satoshi
+
+  someone
+
+  twelve
+
+  hybrid
+
+  toddler
+
+  orient
+
+  involve'
+bip_39_word_new_line11: 'spend
+
+  until
+
+  wheel
+
+  satoshi
+
+  someone
+
+  twelve
+
+  hybrid
+
+  toddler
+
+  orient
+
+  involve
+
+  chest'
+bip_39_word_new_line12: 'spend
+
+  until
+
+  wheel
+
+  satoshi
+
+  someone
+
+  twelve
+
+  hybrid
+
+  toddler
+
+  orient
+
+  involve
+
+  chest
+
+  alone'
+bip_39_word_new_line2: 'spend
+
+  until'
+bip_39_word_new_line3: 'spend
+
+  until
+
+  wheel'
+bip_39_word_new_line4: 'spend
+
+  until
+
+  wheel
+
+  satoshi'
+bip_39_word_new_line5: 'spend
+
+  until
+
+  wheel
+
+  satoshi
+
+  someone'
+bip_39_word_new_line6: 'spend
+
+  until
+
+  wheel
+
+  satoshi
+
+  someone
+
+  twelve'
+bip_39_word_new_line7: 'spend
+
+  until
+
+  wheel
+
+  satoshi
+
+  someone
+
+  twelve
+
+  hybrid'
+bip_39_word_new_line8: 'spend
+
+  until
+
+  wheel
+
+  satoshi
+
+  someone
+
+  twelve
+
+  hybrid
+
+  toddler'
+bip_39_word_new_line9: 'spend
+
+  until
+
+  wheel
+
+  satoshi
+
+  someone
+
+  twelve
+
+  hybrid
+
+  toddler
+
+  orient'
+bip_39_word_space_0:
+- spend
+- until
+- wheel
+- satoshi
+- someone
+- twelve
+- hybrid
+- toddler
+- orient
+- involve
+- chest
+- alone
+bip_39_word_space_1: spend
+bip_39_word_space_10: spend until wheel satoshi someone twelve hybrid toddler orient
+  involve
+bip_39_word_space_11: spend until wheel satoshi someone twelve hybrid toddler orient
+  involve chest
+bip_39_word_space_12: spend until wheel satoshi someone twelve hybrid toddler orient
+  involve chest alone
+bip_39_word_space_2: spend until
+bip_39_word_space_3: spend until wheel
+bip_39_word_space_4: spend until wheel satoshi
+bip_39_word_space_5: spend until wheel satoshi someone
+bip_39_word_space_6: spend until wheel satoshi someone twelve
+bip_39_word_space_7: spend until wheel satoshi someone twelve hybrid
+bip_39_word_space_8: spend until wheel satoshi someone twelve hybrid toddler
+bip_39_word_space_9: spend until wheel satoshi someone twelve hybrid toddler orient
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

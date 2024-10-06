@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coconut snake
+  * bip 39 word 3: coconut snake east
+  * bip 39 word: coconut snake east mango purse toddler immune come program such notice annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coconut |  
+| bip_39_word_new_br10 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler<br>immune<br>come<br>program<br>such |  
+| bip_39_word_new_br11 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler<br>immune<br>come<br>program<br>such<br>notice |  
+| bip_39_word_new_br12 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler<br>immune<br>come<br>program<br>such<br>notice<br>annual |  
+| bip_39_word_new_br2 | coconut<br>snake |  
+| bip_39_word_new_br3 | coconut<br>snake<br>east |  
+| bip_39_word_new_br4 | coconut<br>snake<br>east<br>mango |  
+| bip_39_word_new_br5 | coconut<br>snake<br>east<br>mango<br>purse |  
+| bip_39_word_new_br6 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler |  
+| bip_39_word_new_br7 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler<br>immune |  
+| bip_39_word_new_br8 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler<br>immune<br>come |  
+| bip_39_word_new_br9 | coconut<br>snake<br>east<br>mango<br>purse<br>toddler<br>immune<br>come<br>program |  
+| bip_39_word_new_line1 | coconut |  
+| bip_39_word_new_line10 | coconut
+snake
+east
+mango
+purse
+toddler
+immune
+come
+program
+such |  
+| bip_39_word_new_line11 | coconut
+snake
+east
+mango
+purse
+toddler
+immune
+come
+program
+such
+notice |  
+| bip_39_word_new_line12 | coconut
+snake
+east
+mango
+purse
+toddler
+immune
+come
+program
+such
+notice
+annual |  
+| bip_39_word_new_line2 | coconut
+snake |  
+| bip_39_word_new_line3 | coconut
+snake
+east |  
+| bip_39_word_new_line4 | coconut
+snake
+east
+mango |  
+| bip_39_word_new_line5 | coconut
+snake
+east
+mango
+purse |  
+| bip_39_word_new_line6 | coconut
+snake
+east
+mango
+purse
+toddler |  
+| bip_39_word_new_line7 | coconut
+snake
+east
+mango
+purse
+toddler
+immune |  
+| bip_39_word_new_line8 | coconut
+snake
+east
+mango
+purse
+toddler
+immune
+come |  
+| bip_39_word_new_line9 | coconut
+snake
+east
+mango
+purse
+toddler
+immune
+come
+program |  
+| bip_39_word_space_0 | ['coconut', 'snake', 'east', 'mango', 'purse', 'toddler', 'immune', 'come', 'program', 'such', 'notice', 'annual'] |  
+| bip_39_word_space_1 | coconut |  
+| bip_39_word_space_10 | coconut snake east mango purse toddler immune come program such |  
+| bip_39_word_space_11 | coconut snake east mango purse toddler immune come program such notice |  
+| bip_39_word_space_12 | coconut snake east mango purse toddler immune come program such notice annual |  
+| bip_39_word_space_2 | coconut snake |  
+| bip_39_word_space_3 | coconut snake east |  
+| bip_39_word_space_4 | coconut snake east mango |  
+| bip_39_word_space_5 | coconut snake east mango purse |  
+| bip_39_word_space_6 | coconut snake east mango purse toddler |  
+| bip_39_word_space_7 | coconut snake east mango purse toddler immune |  
+| bip_39_word_space_8 | coconut snake east mango purse toddler immune come |  
+| bip_39_word_space_9 | coconut snake east mango purse toddler immune come program |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

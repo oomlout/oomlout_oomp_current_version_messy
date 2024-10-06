@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: accident endless
+  * bip 39 word 3: accident endless wear
+  * bip 39 word: accident endless wear quiz canvas feed dragon casual rescue spin ski august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | accident |  
+| bip_39_word_new_br10 | accident<br>endless<br>wear<br>quiz<br>canvas<br>feed<br>dragon<br>casual<br>rescue<br>spin |  
+| bip_39_word_new_br11 | accident<br>endless<br>wear<br>quiz<br>canvas<br>feed<br>dragon<br>casual<br>rescue<br>spin<br>ski |  
+| bip_39_word_new_br12 | accident<br>endless<br>wear<br>quiz<br>canvas<br>feed<br>dragon<br>casual<br>rescue<br>spin<br>ski<br>august |  
+| bip_39_word_new_br2 | accident<br>endless |  
+| bip_39_word_new_br3 | accident<br>endless<br>wear |  
+| bip_39_word_new_br4 | accident<br>endless<br>wear<br>quiz |  
+| bip_39_word_new_br5 | accident<br>endless<br>wear<br>quiz<br>canvas |  
+| bip_39_word_new_br6 | accident<br>endless<br>wear<br>quiz<br>canvas<br>feed |  
+| bip_39_word_new_br7 | accident<br>endless<br>wear<br>quiz<br>canvas<br>feed<br>dragon |  
+| bip_39_word_new_br8 | accident<br>endless<br>wear<br>quiz<br>canvas<br>feed<br>dragon<br>casual |  
+| bip_39_word_new_br9 | accident<br>endless<br>wear<br>quiz<br>canvas<br>feed<br>dragon<br>casual<br>rescue |  
+| bip_39_word_new_line1 | accident |  
+| bip_39_word_new_line10 | accident
+endless
+wear
+quiz
+canvas
+feed
+dragon
+casual
+rescue
+spin |  
+| bip_39_word_new_line11 | accident
+endless
+wear
+quiz
+canvas
+feed
+dragon
+casual
+rescue
+spin
+ski |  
+| bip_39_word_new_line12 | accident
+endless
+wear
+quiz
+canvas
+feed
+dragon
+casual
+rescue
+spin
+ski
+august |  
+| bip_39_word_new_line2 | accident
+endless |  
+| bip_39_word_new_line3 | accident
+endless
+wear |  
+| bip_39_word_new_line4 | accident
+endless
+wear
+quiz |  
+| bip_39_word_new_line5 | accident
+endless
+wear
+quiz
+canvas |  
+| bip_39_word_new_line6 | accident
+endless
+wear
+quiz
+canvas
+feed |  
+| bip_39_word_new_line7 | accident
+endless
+wear
+quiz
+canvas
+feed
+dragon |  
+| bip_39_word_new_line8 | accident
+endless
+wear
+quiz
+canvas
+feed
+dragon
+casual |  
+| bip_39_word_new_line9 | accident
+endless
+wear
+quiz
+canvas
+feed
+dragon
+casual
+rescue |  
+| bip_39_word_space_0 | ['accident', 'endless', 'wear', 'quiz', 'canvas', 'feed', 'dragon', 'casual', 'rescue', 'spin', 'ski', 'august'] |  
+| bip_39_word_space_1 | accident |  
+| bip_39_word_space_10 | accident endless wear quiz canvas feed dragon casual rescue spin |  
+| bip_39_word_space_11 | accident endless wear quiz canvas feed dragon casual rescue spin ski |  
+| bip_39_word_space_12 | accident endless wear quiz canvas feed dragon casual rescue spin ski august |  
+| bip_39_word_space_2 | accident endless |  
+| bip_39_word_space_3 | accident endless wear |  
+| bip_39_word_space_4 | accident endless wear quiz |  
+| bip_39_word_space_5 | accident endless wear quiz canvas |  
+| bip_39_word_space_6 | accident endless wear quiz canvas feed |  
+| bip_39_word_space_7 | accident endless wear quiz canvas feed dragon |  
+| bip_39_word_space_8 | accident endless wear quiz canvas feed dragon casual |  
+| bip_39_word_space_9 | accident endless wear quiz canvas feed dragon casual rescue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

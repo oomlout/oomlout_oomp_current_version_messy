@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tiger wash
+  * bip 39 word 3: tiger wash depend
+  * bip 39 word: tiger wash depend hollow lock appear census blanket wagon heart disease alert
 
 ### other_codes
 * short_code: br6013
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tiger |  
+| bip_39_word_new_br10 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon<br>heart |  
+| bip_39_word_new_br11 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon<br>heart<br>disease |  
+| bip_39_word_new_br12 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon<br>heart<br>disease<br>alert |  
+| bip_39_word_new_br2 | tiger<br>wash |  
+| bip_39_word_new_br3 | tiger<br>wash<br>depend |  
+| bip_39_word_new_br4 | tiger<br>wash<br>depend<br>hollow |  
+| bip_39_word_new_br5 | tiger<br>wash<br>depend<br>hollow<br>lock |  
+| bip_39_word_new_br6 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear |  
+| bip_39_word_new_br7 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census |  
+| bip_39_word_new_br8 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket |  
+| bip_39_word_new_br9 | tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon |  
+| bip_39_word_new_line1 | tiger |  
+| bip_39_word_new_line10 | tiger
+wash
+depend
+hollow
+lock
+appear
+census
+blanket
+wagon
+heart |  
+| bip_39_word_new_line11 | tiger
+wash
+depend
+hollow
+lock
+appear
+census
+blanket
+wagon
+heart
+disease |  
+| bip_39_word_new_line12 | tiger
+wash
+depend
+hollow
+lock
+appear
+census
+blanket
+wagon
+heart
+disease
+alert |  
+| bip_39_word_new_line2 | tiger
+wash |  
+| bip_39_word_new_line3 | tiger
+wash
+depend |  
+| bip_39_word_new_line4 | tiger
+wash
+depend
+hollow |  
+| bip_39_word_new_line5 | tiger
+wash
+depend
+hollow
+lock |  
+| bip_39_word_new_line6 | tiger
+wash
+depend
+hollow
+lock
+appear |  
+| bip_39_word_new_line7 | tiger
+wash
+depend
+hollow
+lock
+appear
+census |  
+| bip_39_word_new_line8 | tiger
+wash
+depend
+hollow
+lock
+appear
+census
+blanket |  
+| bip_39_word_new_line9 | tiger
+wash
+depend
+hollow
+lock
+appear
+census
+blanket
+wagon |  
+| bip_39_word_space_0 | ['tiger', 'wash', 'depend', 'hollow', 'lock', 'appear', 'census', 'blanket', 'wagon', 'heart', 'disease', 'alert'] |  
+| bip_39_word_space_1 | tiger |  
+| bip_39_word_space_10 | tiger wash depend hollow lock appear census blanket wagon heart |  
+| bip_39_word_space_11 | tiger wash depend hollow lock appear census blanket wagon heart disease |  
+| bip_39_word_space_12 | tiger wash depend hollow lock appear census blanket wagon heart disease alert |  
+| bip_39_word_space_2 | tiger wash |  
+| bip_39_word_space_3 | tiger wash depend |  
+| bip_39_word_space_4 | tiger wash depend hollow |  
+| bip_39_word_space_5 | tiger wash depend hollow lock |  
+| bip_39_word_space_6 | tiger wash depend hollow lock appear |  
+| bip_39_word_space_7 | tiger wash depend hollow lock appear census |  
+| bip_39_word_space_8 | tiger wash depend hollow lock appear census blanket |  
+| bip_39_word_space_9 | tiger wash depend hollow lock appear census blanket wagon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

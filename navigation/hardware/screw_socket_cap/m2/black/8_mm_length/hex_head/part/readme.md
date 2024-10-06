@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: magnet innocent
+  * bip 39 word 3: magnet innocent solve
+  * bip 39 word: magnet innocent solve response asset snap twenty sentence enact welcome elbow album
 
 ### other_codes
 * short_code: sc2b8h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | magnet |  
+| bip_39_word_new_br10 | magnet<br>innocent<br>solve<br>response<br>asset<br>snap<br>twenty<br>sentence<br>enact<br>welcome |  
+| bip_39_word_new_br11 | magnet<br>innocent<br>solve<br>response<br>asset<br>snap<br>twenty<br>sentence<br>enact<br>welcome<br>elbow |  
+| bip_39_word_new_br12 | magnet<br>innocent<br>solve<br>response<br>asset<br>snap<br>twenty<br>sentence<br>enact<br>welcome<br>elbow<br>album |  
+| bip_39_word_new_br2 | magnet<br>innocent |  
+| bip_39_word_new_br3 | magnet<br>innocent<br>solve |  
+| bip_39_word_new_br4 | magnet<br>innocent<br>solve<br>response |  
+| bip_39_word_new_br5 | magnet<br>innocent<br>solve<br>response<br>asset |  
+| bip_39_word_new_br6 | magnet<br>innocent<br>solve<br>response<br>asset<br>snap |  
+| bip_39_word_new_br7 | magnet<br>innocent<br>solve<br>response<br>asset<br>snap<br>twenty |  
+| bip_39_word_new_br8 | magnet<br>innocent<br>solve<br>response<br>asset<br>snap<br>twenty<br>sentence |  
+| bip_39_word_new_br9 | magnet<br>innocent<br>solve<br>response<br>asset<br>snap<br>twenty<br>sentence<br>enact |  
+| bip_39_word_new_line1 | magnet |  
+| bip_39_word_new_line10 | magnet
+innocent
+solve
+response
+asset
+snap
+twenty
+sentence
+enact
+welcome |  
+| bip_39_word_new_line11 | magnet
+innocent
+solve
+response
+asset
+snap
+twenty
+sentence
+enact
+welcome
+elbow |  
+| bip_39_word_new_line12 | magnet
+innocent
+solve
+response
+asset
+snap
+twenty
+sentence
+enact
+welcome
+elbow
+album |  
+| bip_39_word_new_line2 | magnet
+innocent |  
+| bip_39_word_new_line3 | magnet
+innocent
+solve |  
+| bip_39_word_new_line4 | magnet
+innocent
+solve
+response |  
+| bip_39_word_new_line5 | magnet
+innocent
+solve
+response
+asset |  
+| bip_39_word_new_line6 | magnet
+innocent
+solve
+response
+asset
+snap |  
+| bip_39_word_new_line7 | magnet
+innocent
+solve
+response
+asset
+snap
+twenty |  
+| bip_39_word_new_line8 | magnet
+innocent
+solve
+response
+asset
+snap
+twenty
+sentence |  
+| bip_39_word_new_line9 | magnet
+innocent
+solve
+response
+asset
+snap
+twenty
+sentence
+enact |  
+| bip_39_word_space_0 | ['magnet', 'innocent', 'solve', 'response', 'asset', 'snap', 'twenty', 'sentence', 'enact', 'welcome', 'elbow', 'album'] |  
+| bip_39_word_space_1 | magnet |  
+| bip_39_word_space_10 | magnet innocent solve response asset snap twenty sentence enact welcome |  
+| bip_39_word_space_11 | magnet innocent solve response asset snap twenty sentence enact welcome elbow |  
+| bip_39_word_space_12 | magnet innocent solve response asset snap twenty sentence enact welcome elbow album |  
+| bip_39_word_space_2 | magnet innocent |  
+| bip_39_word_space_3 | magnet innocent solve |  
+| bip_39_word_space_4 | magnet innocent solve response |  
+| bip_39_word_space_5 | magnet innocent solve response asset |  
+| bip_39_word_space_6 | magnet innocent solve response asset snap |  
+| bip_39_word_space_7 | magnet innocent solve response asset snap twenty |  
+| bip_39_word_space_8 | magnet innocent solve response asset snap twenty sentence |  
+| bip_39_word_space_9 | magnet innocent solve response asset snap twenty sentence enact |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: glance
+bip_39_word_new_br10: glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus
+bip_39_word_new_br11: glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus<br>length
+bip_39_word_new_br12: glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus<br>length<br>apart
+bip_39_word_new_br2: glance<br>guess
+bip_39_word_new_br3: glance<br>guess<br>term
+bip_39_word_new_br4: glance<br>guess<br>term<br>ankle
+bip_39_word_new_br5: glance<br>guess<br>term<br>ankle<br>item
+bip_39_word_new_br6: glance<br>guess<br>term<br>ankle<br>item<br>matter
+bip_39_word_new_br7: glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance
+bip_39_word_new_br8: glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat
+bip_39_word_new_br9: glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic
+bip_39_word_new_line1: glance
+bip_39_word_new_line10: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item
+
+  matter
+
+  advance
+
+  cat
+
+  logic
+
+  focus'
+bip_39_word_new_line11: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item
+
+  matter
+
+  advance
+
+  cat
+
+  logic
+
+  focus
+
+  length'
+bip_39_word_new_line12: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item
+
+  matter
+
+  advance
+
+  cat
+
+  logic
+
+  focus
+
+  length
+
+  apart'
+bip_39_word_new_line2: 'glance
+
+  guess'
+bip_39_word_new_line3: 'glance
+
+  guess
+
+  term'
+bip_39_word_new_line4: 'glance
+
+  guess
+
+  term
+
+  ankle'
+bip_39_word_new_line5: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item'
+bip_39_word_new_line6: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item
+
+  matter'
+bip_39_word_new_line7: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item
+
+  matter
+
+  advance'
+bip_39_word_new_line8: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item
+
+  matter
+
+  advance
+
+  cat'
+bip_39_word_new_line9: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item
+
+  matter
+
+  advance
+
+  cat
+
+  logic'
+bip_39_word_space_0:
+- glance
+- guess
+- term
+- ankle
+- item
+- matter
+- advance
+- cat
+- logic
+- focus
+- length
+- apart
+bip_39_word_space_1: glance
+bip_39_word_space_10: glance guess term ankle item matter advance cat logic focus
+bip_39_word_space_11: glance guess term ankle item matter advance cat logic focus
+  length
+bip_39_word_space_12: glance guess term ankle item matter advance cat logic focus
+  length apart
+bip_39_word_space_2: glance guess
+bip_39_word_space_3: glance guess term
+bip_39_word_space_4: glance guess term ankle
+bip_39_word_space_5: glance guess term ankle item
+bip_39_word_space_6: glance guess term ankle item matter
+bip_39_word_space_7: glance guess term ankle item matter advance
+bip_39_word_space_8: glance guess term ankle item matter advance cat
+bip_39_word_space_9: glance guess term ankle item matter advance cat logic
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

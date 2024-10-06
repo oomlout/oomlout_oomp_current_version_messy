@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: across mosquito
+  * bip 39 word 3: across mosquito absorb
+  * bip 39 word: across mosquito absorb moon pelican night little escape onion void deliver aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | across |  
+| bip_39_word_new_br10 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night<br>little<br>escape<br>onion<br>void |  
+| bip_39_word_new_br11 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night<br>little<br>escape<br>onion<br>void<br>deliver |  
+| bip_39_word_new_br12 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night<br>little<br>escape<br>onion<br>void<br>deliver<br>aunt |  
+| bip_39_word_new_br2 | across<br>mosquito |  
+| bip_39_word_new_br3 | across<br>mosquito<br>absorb |  
+| bip_39_word_new_br4 | across<br>mosquito<br>absorb<br>moon |  
+| bip_39_word_new_br5 | across<br>mosquito<br>absorb<br>moon<br>pelican |  
+| bip_39_word_new_br6 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night |  
+| bip_39_word_new_br7 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night<br>little |  
+| bip_39_word_new_br8 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night<br>little<br>escape |  
+| bip_39_word_new_br9 | across<br>mosquito<br>absorb<br>moon<br>pelican<br>night<br>little<br>escape<br>onion |  
+| bip_39_word_new_line1 | across |  
+| bip_39_word_new_line10 | across
+mosquito
+absorb
+moon
+pelican
+night
+little
+escape
+onion
+void |  
+| bip_39_word_new_line11 | across
+mosquito
+absorb
+moon
+pelican
+night
+little
+escape
+onion
+void
+deliver |  
+| bip_39_word_new_line12 | across
+mosquito
+absorb
+moon
+pelican
+night
+little
+escape
+onion
+void
+deliver
+aunt |  
+| bip_39_word_new_line2 | across
+mosquito |  
+| bip_39_word_new_line3 | across
+mosquito
+absorb |  
+| bip_39_word_new_line4 | across
+mosquito
+absorb
+moon |  
+| bip_39_word_new_line5 | across
+mosquito
+absorb
+moon
+pelican |  
+| bip_39_word_new_line6 | across
+mosquito
+absorb
+moon
+pelican
+night |  
+| bip_39_word_new_line7 | across
+mosquito
+absorb
+moon
+pelican
+night
+little |  
+| bip_39_word_new_line8 | across
+mosquito
+absorb
+moon
+pelican
+night
+little
+escape |  
+| bip_39_word_new_line9 | across
+mosquito
+absorb
+moon
+pelican
+night
+little
+escape
+onion |  
+| bip_39_word_space_0 | ['across', 'mosquito', 'absorb', 'moon', 'pelican', 'night', 'little', 'escape', 'onion', 'void', 'deliver', 'aunt'] |  
+| bip_39_word_space_1 | across |  
+| bip_39_word_space_10 | across mosquito absorb moon pelican night little escape onion void |  
+| bip_39_word_space_11 | across mosquito absorb moon pelican night little escape onion void deliver |  
+| bip_39_word_space_12 | across mosquito absorb moon pelican night little escape onion void deliver aunt |  
+| bip_39_word_space_2 | across mosquito |  
+| bip_39_word_space_3 | across mosquito absorb |  
+| bip_39_word_space_4 | across mosquito absorb moon |  
+| bip_39_word_space_5 | across mosquito absorb moon pelican |  
+| bip_39_word_space_6 | across mosquito absorb moon pelican night |  
+| bip_39_word_space_7 | across mosquito absorb moon pelican night little |  
+| bip_39_word_space_8 | across mosquito absorb moon pelican night little escape |  
+| bip_39_word_space_9 | across mosquito absorb moon pelican night little escape onion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

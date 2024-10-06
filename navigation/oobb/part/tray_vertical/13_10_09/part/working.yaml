@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rebel
+bip_39_word_new_br10: rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain
+bip_39_word_new_br11: rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain<br>monster
+bip_39_word_new_br12: rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar<br>obtain<br>monster<br>artist
+bip_39_word_new_br2: rebel<br>hurdle
+bip_39_word_new_br3: rebel<br>hurdle<br>media
+bip_39_word_new_br4: rebel<br>hurdle<br>media<br>sword
+bip_39_word_new_br5: rebel<br>hurdle<br>media<br>sword<br>twenty
+bip_39_word_new_br6: rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose
+bip_39_word_new_br7: rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic
+bip_39_word_new_br8: rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm
+bip_39_word_new_br9: rebel<br>hurdle<br>media<br>sword<br>twenty<br>nose<br>clinic<br>alarm<br>sugar
+bip_39_word_new_line1: rebel
+bip_39_word_new_line10: 'rebel
+
+  hurdle
+
+  media
+
+  sword
+
+  twenty
+
+  nose
+
+  clinic
+
+  alarm
+
+  sugar
+
+  obtain'
+bip_39_word_new_line11: 'rebel
+
+  hurdle
+
+  media
+
+  sword
+
+  twenty
+
+  nose
+
+  clinic
+
+  alarm
+
+  sugar
+
+  obtain
+
+  monster'
+bip_39_word_new_line12: 'rebel
+
+  hurdle
+
+  media
+
+  sword
+
+  twenty
+
+  nose
+
+  clinic
+
+  alarm
+
+  sugar
+
+  obtain
+
+  monster
+
+  artist'
+bip_39_word_new_line2: 'rebel
+
+  hurdle'
+bip_39_word_new_line3: 'rebel
+
+  hurdle
+
+  media'
+bip_39_word_new_line4: 'rebel
+
+  hurdle
+
+  media
+
+  sword'
+bip_39_word_new_line5: 'rebel
+
+  hurdle
+
+  media
+
+  sword
+
+  twenty'
+bip_39_word_new_line6: 'rebel
+
+  hurdle
+
+  media
+
+  sword
+
+  twenty
+
+  nose'
+bip_39_word_new_line7: 'rebel
+
+  hurdle
+
+  media
+
+  sword
+
+  twenty
+
+  nose
+
+  clinic'
+bip_39_word_new_line8: 'rebel
+
+  hurdle
+
+  media
+
+  sword
+
+  twenty
+
+  nose
+
+  clinic
+
+  alarm'
+bip_39_word_new_line9: 'rebel
+
+  hurdle
+
+  media
+
+  sword
+
+  twenty
+
+  nose
+
+  clinic
+
+  alarm
+
+  sugar'
+bip_39_word_space_0:
+- rebel
+- hurdle
+- media
+- sword
+- twenty
+- nose
+- clinic
+- alarm
+- sugar
+- obtain
+- monster
+- artist
+bip_39_word_space_1: rebel
+bip_39_word_space_10: rebel hurdle media sword twenty nose clinic alarm sugar obtain
+bip_39_word_space_11: rebel hurdle media sword twenty nose clinic alarm sugar obtain
+  monster
+bip_39_word_space_12: rebel hurdle media sword twenty nose clinic alarm sugar obtain
+  monster artist
+bip_39_word_space_2: rebel hurdle
+bip_39_word_space_3: rebel hurdle media
+bip_39_word_space_4: rebel hurdle media sword
+bip_39_word_space_5: rebel hurdle media sword twenty
+bip_39_word_space_6: rebel hurdle media sword twenty nose
+bip_39_word_space_7: rebel hurdle media sword twenty nose clinic
+bip_39_word_space_8: rebel hurdle media sword twenty nose clinic alarm
+bip_39_word_space_9: rebel hurdle media sword twenty nose clinic alarm sugar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frequent scare
+  * bip 39 word 3: frequent scare bronze
+  * bip 39 word: frequent scare bronze clutch purpose glow process pitch birth virtual engage ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frequent |  
+| bip_39_word_new_br10 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual |  
+| bip_39_word_new_br11 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual<br>engage |  
+| bip_39_word_new_br12 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth<br>virtual<br>engage<br>ahead |  
+| bip_39_word_new_br2 | frequent<br>scare |  
+| bip_39_word_new_br3 | frequent<br>scare<br>bronze |  
+| bip_39_word_new_br4 | frequent<br>scare<br>bronze<br>clutch |  
+| bip_39_word_new_br5 | frequent<br>scare<br>bronze<br>clutch<br>purpose |  
+| bip_39_word_new_br6 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow |  
+| bip_39_word_new_br7 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process |  
+| bip_39_word_new_br8 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch |  
+| bip_39_word_new_br9 | frequent<br>scare<br>bronze<br>clutch<br>purpose<br>glow<br>process<br>pitch<br>birth |  
+| bip_39_word_new_line1 | frequent |  
+| bip_39_word_new_line10 | frequent
+scare
+bronze
+clutch
+purpose
+glow
+process
+pitch
+birth
+virtual |  
+| bip_39_word_new_line11 | frequent
+scare
+bronze
+clutch
+purpose
+glow
+process
+pitch
+birth
+virtual
+engage |  
+| bip_39_word_new_line12 | frequent
+scare
+bronze
+clutch
+purpose
+glow
+process
+pitch
+birth
+virtual
+engage
+ahead |  
+| bip_39_word_new_line2 | frequent
+scare |  
+| bip_39_word_new_line3 | frequent
+scare
+bronze |  
+| bip_39_word_new_line4 | frequent
+scare
+bronze
+clutch |  
+| bip_39_word_new_line5 | frequent
+scare
+bronze
+clutch
+purpose |  
+| bip_39_word_new_line6 | frequent
+scare
+bronze
+clutch
+purpose
+glow |  
+| bip_39_word_new_line7 | frequent
+scare
+bronze
+clutch
+purpose
+glow
+process |  
+| bip_39_word_new_line8 | frequent
+scare
+bronze
+clutch
+purpose
+glow
+process
+pitch |  
+| bip_39_word_new_line9 | frequent
+scare
+bronze
+clutch
+purpose
+glow
+process
+pitch
+birth |  
+| bip_39_word_space_0 | ['frequent', 'scare', 'bronze', 'clutch', 'purpose', 'glow', 'process', 'pitch', 'birth', 'virtual', 'engage', 'ahead'] |  
+| bip_39_word_space_1 | frequent |  
+| bip_39_word_space_10 | frequent scare bronze clutch purpose glow process pitch birth virtual |  
+| bip_39_word_space_11 | frequent scare bronze clutch purpose glow process pitch birth virtual engage |  
+| bip_39_word_space_12 | frequent scare bronze clutch purpose glow process pitch birth virtual engage ahead |  
+| bip_39_word_space_2 | frequent scare |  
+| bip_39_word_space_3 | frequent scare bronze |  
+| bip_39_word_space_4 | frequent scare bronze clutch |  
+| bip_39_word_space_5 | frequent scare bronze clutch purpose |  
+| bip_39_word_space_6 | frequent scare bronze clutch purpose glow |  
+| bip_39_word_space_7 | frequent scare bronze clutch purpose glow process |  
+| bip_39_word_space_8 | frequent scare bronze clutch purpose glow process pitch |  
+| bip_39_word_space_9 | frequent scare bronze clutch purpose glow process pitch birth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

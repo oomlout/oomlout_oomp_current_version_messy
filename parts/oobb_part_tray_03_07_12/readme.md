@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: smooth video
+  * bip 39 word 3: smooth video pencil
+  * bip 39 word: smooth video pencil monkey believe laptop glass reflect ordinary eye rude audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | smooth |  
+| bip_39_word_new_br10 | smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop<br>glass<br>reflect<br>ordinary<br>eye |  
+| bip_39_word_new_br11 | smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop<br>glass<br>reflect<br>ordinary<br>eye<br>rude |  
+| bip_39_word_new_br12 | smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop<br>glass<br>reflect<br>ordinary<br>eye<br>rude<br>audit |  
+| bip_39_word_new_br2 | smooth<br>video |  
+| bip_39_word_new_br3 | smooth<br>video<br>pencil |  
+| bip_39_word_new_br4 | smooth<br>video<br>pencil<br>monkey |  
+| bip_39_word_new_br5 | smooth<br>video<br>pencil<br>monkey<br>believe |  
+| bip_39_word_new_br6 | smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop |  
+| bip_39_word_new_br7 | smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop<br>glass |  
+| bip_39_word_new_br8 | smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop<br>glass<br>reflect |  
+| bip_39_word_new_br9 | smooth<br>video<br>pencil<br>monkey<br>believe<br>laptop<br>glass<br>reflect<br>ordinary |  
+| bip_39_word_new_line1 | smooth |  
+| bip_39_word_new_line10 | smooth
+video
+pencil
+monkey
+believe
+laptop
+glass
+reflect
+ordinary
+eye |  
+| bip_39_word_new_line11 | smooth
+video
+pencil
+monkey
+believe
+laptop
+glass
+reflect
+ordinary
+eye
+rude |  
+| bip_39_word_new_line12 | smooth
+video
+pencil
+monkey
+believe
+laptop
+glass
+reflect
+ordinary
+eye
+rude
+audit |  
+| bip_39_word_new_line2 | smooth
+video |  
+| bip_39_word_new_line3 | smooth
+video
+pencil |  
+| bip_39_word_new_line4 | smooth
+video
+pencil
+monkey |  
+| bip_39_word_new_line5 | smooth
+video
+pencil
+monkey
+believe |  
+| bip_39_word_new_line6 | smooth
+video
+pencil
+monkey
+believe
+laptop |  
+| bip_39_word_new_line7 | smooth
+video
+pencil
+monkey
+believe
+laptop
+glass |  
+| bip_39_word_new_line8 | smooth
+video
+pencil
+monkey
+believe
+laptop
+glass
+reflect |  
+| bip_39_word_new_line9 | smooth
+video
+pencil
+monkey
+believe
+laptop
+glass
+reflect
+ordinary |  
+| bip_39_word_space_0 | ['smooth', 'video', 'pencil', 'monkey', 'believe', 'laptop', 'glass', 'reflect', 'ordinary', 'eye', 'rude', 'audit'] |  
+| bip_39_word_space_1 | smooth |  
+| bip_39_word_space_10 | smooth video pencil monkey believe laptop glass reflect ordinary eye |  
+| bip_39_word_space_11 | smooth video pencil monkey believe laptop glass reflect ordinary eye rude |  
+| bip_39_word_space_12 | smooth video pencil monkey believe laptop glass reflect ordinary eye rude audit |  
+| bip_39_word_space_2 | smooth video |  
+| bip_39_word_space_3 | smooth video pencil |  
+| bip_39_word_space_4 | smooth video pencil monkey |  
+| bip_39_word_space_5 | smooth video pencil monkey believe |  
+| bip_39_word_space_6 | smooth video pencil monkey believe laptop |  
+| bip_39_word_space_7 | smooth video pencil monkey believe laptop glass |  
+| bip_39_word_space_8 | smooth video pencil monkey believe laptop glass reflect |  
+| bip_39_word_space_9 | smooth video pencil monkey believe laptop glass reflect ordinary |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

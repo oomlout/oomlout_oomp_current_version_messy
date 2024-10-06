@@ -1,3 +1,186 @@
+bip_39_word_new_br1: drive
+bip_39_word_new_br10: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding<br>toast<br>entry<br>day<br>slow
+bip_39_word_new_br11: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding<br>toast<br>entry<br>day<br>slow<br>floor
+bip_39_word_new_br12: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding<br>toast<br>entry<br>day<br>slow<br>floor<br>approve
+bip_39_word_new_br2: drive<br>laugh
+bip_39_word_new_br3: drive<br>laugh<br>area
+bip_39_word_new_br4: drive<br>laugh<br>area<br>focus
+bip_39_word_new_br5: drive<br>laugh<br>area<br>focus<br>cinnamon
+bip_39_word_new_br6: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding
+bip_39_word_new_br7: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding<br>toast
+bip_39_word_new_br8: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding<br>toast<br>entry
+bip_39_word_new_br9: drive<br>laugh<br>area<br>focus<br>cinnamon<br>pudding<br>toast<br>entry<br>day
+bip_39_word_new_line1: drive
+bip_39_word_new_line10: 'drive
+
+  laugh
+
+  area
+
+  focus
+
+  cinnamon
+
+  pudding
+
+  toast
+
+  entry
+
+  day
+
+  slow'
+bip_39_word_new_line11: 'drive
+
+  laugh
+
+  area
+
+  focus
+
+  cinnamon
+
+  pudding
+
+  toast
+
+  entry
+
+  day
+
+  slow
+
+  floor'
+bip_39_word_new_line12: 'drive
+
+  laugh
+
+  area
+
+  focus
+
+  cinnamon
+
+  pudding
+
+  toast
+
+  entry
+
+  day
+
+  slow
+
+  floor
+
+  approve'
+bip_39_word_new_line2: 'drive
+
+  laugh'
+bip_39_word_new_line3: 'drive
+
+  laugh
+
+  area'
+bip_39_word_new_line4: 'drive
+
+  laugh
+
+  area
+
+  focus'
+bip_39_word_new_line5: 'drive
+
+  laugh
+
+  area
+
+  focus
+
+  cinnamon'
+bip_39_word_new_line6: 'drive
+
+  laugh
+
+  area
+
+  focus
+
+  cinnamon
+
+  pudding'
+bip_39_word_new_line7: 'drive
+
+  laugh
+
+  area
+
+  focus
+
+  cinnamon
+
+  pudding
+
+  toast'
+bip_39_word_new_line8: 'drive
+
+  laugh
+
+  area
+
+  focus
+
+  cinnamon
+
+  pudding
+
+  toast
+
+  entry'
+bip_39_word_new_line9: 'drive
+
+  laugh
+
+  area
+
+  focus
+
+  cinnamon
+
+  pudding
+
+  toast
+
+  entry
+
+  day'
+bip_39_word_space_0:
+- drive
+- laugh
+- area
+- focus
+- cinnamon
+- pudding
+- toast
+- entry
+- day
+- slow
+- floor
+- approve
+bip_39_word_space_1: drive
+bip_39_word_space_10: drive laugh area focus cinnamon pudding toast entry day slow
+bip_39_word_space_11: drive laugh area focus cinnamon pudding toast entry day slow
+  floor
+bip_39_word_space_12: drive laugh area focus cinnamon pudding toast entry day slow
+  floor approve
+bip_39_word_space_2: drive laugh
+bip_39_word_space_3: drive laugh area
+bip_39_word_space_4: drive laugh area focus
+bip_39_word_space_5: drive laugh area focus cinnamon
+bip_39_word_space_6: drive laugh area focus cinnamon pudding
+bip_39_word_space_7: drive laugh area focus cinnamon pudding toast
+bip_39_word_space_8: drive laugh area focus cinnamon pudding toast entry
+bip_39_word_space_9: drive laugh area focus cinnamon pudding toast entry day
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

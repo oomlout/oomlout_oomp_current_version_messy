@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: label
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: legal gather
+  * bip 39 word 3: legal gather antique
+  * bip 39 word: legal gather antique physical antenna verb clog seek clean media glue auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | legal |  
+| bip_39_word_new_br10 | legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean<br>media |  
+| bip_39_word_new_br11 | legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean<br>media<br>glue |  
+| bip_39_word_new_br12 | legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean<br>media<br>glue<br>auto |  
+| bip_39_word_new_br2 | legal<br>gather |  
+| bip_39_word_new_br3 | legal<br>gather<br>antique |  
+| bip_39_word_new_br4 | legal<br>gather<br>antique<br>physical |  
+| bip_39_word_new_br5 | legal<br>gather<br>antique<br>physical<br>antenna |  
+| bip_39_word_new_br6 | legal<br>gather<br>antique<br>physical<br>antenna<br>verb |  
+| bip_39_word_new_br7 | legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog |  
+| bip_39_word_new_br8 | legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek |  
+| bip_39_word_new_br9 | legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean |  
+| bip_39_word_new_line1 | legal |  
+| bip_39_word_new_line10 | legal
+gather
+antique
+physical
+antenna
+verb
+clog
+seek
+clean
+media |  
+| bip_39_word_new_line11 | legal
+gather
+antique
+physical
+antenna
+verb
+clog
+seek
+clean
+media
+glue |  
+| bip_39_word_new_line12 | legal
+gather
+antique
+physical
+antenna
+verb
+clog
+seek
+clean
+media
+glue
+auto |  
+| bip_39_word_new_line2 | legal
+gather |  
+| bip_39_word_new_line3 | legal
+gather
+antique |  
+| bip_39_word_new_line4 | legal
+gather
+antique
+physical |  
+| bip_39_word_new_line5 | legal
+gather
+antique
+physical
+antenna |  
+| bip_39_word_new_line6 | legal
+gather
+antique
+physical
+antenna
+verb |  
+| bip_39_word_new_line7 | legal
+gather
+antique
+physical
+antenna
+verb
+clog |  
+| bip_39_word_new_line8 | legal
+gather
+antique
+physical
+antenna
+verb
+clog
+seek |  
+| bip_39_word_new_line9 | legal
+gather
+antique
+physical
+antenna
+verb
+clog
+seek
+clean |  
+| bip_39_word_space_0 | ['legal', 'gather', 'antique', 'physical', 'antenna', 'verb', 'clog', 'seek', 'clean', 'media', 'glue', 'auto'] |  
+| bip_39_word_space_1 | legal |  
+| bip_39_word_space_10 | legal gather antique physical antenna verb clog seek clean media |  
+| bip_39_word_space_11 | legal gather antique physical antenna verb clog seek clean media glue |  
+| bip_39_word_space_12 | legal gather antique physical antenna verb clog seek clean media glue auto |  
+| bip_39_word_space_2 | legal gather |  
+| bip_39_word_space_3 | legal gather antique |  
+| bip_39_word_space_4 | legal gather antique physical |  
+| bip_39_word_space_5 | legal gather antique physical antenna |  
+| bip_39_word_space_6 | legal gather antique physical antenna verb |  
+| bip_39_word_space_7 | legal gather antique physical antenna verb clog |  
+| bip_39_word_space_8 | legal gather antique physical antenna verb clog seek |  
+| bip_39_word_space_9 | legal gather antique physical antenna verb clog seek clean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

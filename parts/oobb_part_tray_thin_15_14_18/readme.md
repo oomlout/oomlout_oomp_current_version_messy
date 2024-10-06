@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: disorder sunny
+  * bip 39 word 3: disorder sunny gaze
+  * bip 39 word: disorder sunny gaze skirt girl north script story cat obscure tool ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | disorder |  
+| bip_39_word_new_br10 | disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north<br>script<br>story<br>cat<br>obscure |  
+| bip_39_word_new_br11 | disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north<br>script<br>story<br>cat<br>obscure<br>tool |  
+| bip_39_word_new_br12 | disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north<br>script<br>story<br>cat<br>obscure<br>tool<br>ask |  
+| bip_39_word_new_br2 | disorder<br>sunny |  
+| bip_39_word_new_br3 | disorder<br>sunny<br>gaze |  
+| bip_39_word_new_br4 | disorder<br>sunny<br>gaze<br>skirt |  
+| bip_39_word_new_br5 | disorder<br>sunny<br>gaze<br>skirt<br>girl |  
+| bip_39_word_new_br6 | disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north |  
+| bip_39_word_new_br7 | disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north<br>script |  
+| bip_39_word_new_br8 | disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north<br>script<br>story |  
+| bip_39_word_new_br9 | disorder<br>sunny<br>gaze<br>skirt<br>girl<br>north<br>script<br>story<br>cat |  
+| bip_39_word_new_line1 | disorder |  
+| bip_39_word_new_line10 | disorder
+sunny
+gaze
+skirt
+girl
+north
+script
+story
+cat
+obscure |  
+| bip_39_word_new_line11 | disorder
+sunny
+gaze
+skirt
+girl
+north
+script
+story
+cat
+obscure
+tool |  
+| bip_39_word_new_line12 | disorder
+sunny
+gaze
+skirt
+girl
+north
+script
+story
+cat
+obscure
+tool
+ask |  
+| bip_39_word_new_line2 | disorder
+sunny |  
+| bip_39_word_new_line3 | disorder
+sunny
+gaze |  
+| bip_39_word_new_line4 | disorder
+sunny
+gaze
+skirt |  
+| bip_39_word_new_line5 | disorder
+sunny
+gaze
+skirt
+girl |  
+| bip_39_word_new_line6 | disorder
+sunny
+gaze
+skirt
+girl
+north |  
+| bip_39_word_new_line7 | disorder
+sunny
+gaze
+skirt
+girl
+north
+script |  
+| bip_39_word_new_line8 | disorder
+sunny
+gaze
+skirt
+girl
+north
+script
+story |  
+| bip_39_word_new_line9 | disorder
+sunny
+gaze
+skirt
+girl
+north
+script
+story
+cat |  
+| bip_39_word_space_0 | ['disorder', 'sunny', 'gaze', 'skirt', 'girl', 'north', 'script', 'story', 'cat', 'obscure', 'tool', 'ask'] |  
+| bip_39_word_space_1 | disorder |  
+| bip_39_word_space_10 | disorder sunny gaze skirt girl north script story cat obscure |  
+| bip_39_word_space_11 | disorder sunny gaze skirt girl north script story cat obscure tool |  
+| bip_39_word_space_12 | disorder sunny gaze skirt girl north script story cat obscure tool ask |  
+| bip_39_word_space_2 | disorder sunny |  
+| bip_39_word_space_3 | disorder sunny gaze |  
+| bip_39_word_space_4 | disorder sunny gaze skirt |  
+| bip_39_word_space_5 | disorder sunny gaze skirt girl |  
+| bip_39_word_space_6 | disorder sunny gaze skirt girl north |  
+| bip_39_word_space_7 | disorder sunny gaze skirt girl north script |  
+| bip_39_word_space_8 | disorder sunny gaze skirt girl north script story |  
+| bip_39_word_space_9 | disorder sunny gaze skirt girl north script story cat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

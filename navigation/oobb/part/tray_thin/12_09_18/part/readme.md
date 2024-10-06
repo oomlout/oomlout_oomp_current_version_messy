@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: entire dawn
+  * bip 39 word 3: entire dawn steel
+  * bip 39 word: entire dawn steel embrace alpha grief render time sibling dream custom arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | entire |  
+| bip_39_word_new_br10 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream |  
+| bip_39_word_new_br11 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream<br>custom |  
+| bip_39_word_new_br12 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling<br>dream<br>custom<br>arrest |  
+| bip_39_word_new_br2 | entire<br>dawn |  
+| bip_39_word_new_br3 | entire<br>dawn<br>steel |  
+| bip_39_word_new_br4 | entire<br>dawn<br>steel<br>embrace |  
+| bip_39_word_new_br5 | entire<br>dawn<br>steel<br>embrace<br>alpha |  
+| bip_39_word_new_br6 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief |  
+| bip_39_word_new_br7 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render |  
+| bip_39_word_new_br8 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time |  
+| bip_39_word_new_br9 | entire<br>dawn<br>steel<br>embrace<br>alpha<br>grief<br>render<br>time<br>sibling |  
+| bip_39_word_new_line1 | entire |  
+| bip_39_word_new_line10 | entire
+dawn
+steel
+embrace
+alpha
+grief
+render
+time
+sibling
+dream |  
+| bip_39_word_new_line11 | entire
+dawn
+steel
+embrace
+alpha
+grief
+render
+time
+sibling
+dream
+custom |  
+| bip_39_word_new_line12 | entire
+dawn
+steel
+embrace
+alpha
+grief
+render
+time
+sibling
+dream
+custom
+arrest |  
+| bip_39_word_new_line2 | entire
+dawn |  
+| bip_39_word_new_line3 | entire
+dawn
+steel |  
+| bip_39_word_new_line4 | entire
+dawn
+steel
+embrace |  
+| bip_39_word_new_line5 | entire
+dawn
+steel
+embrace
+alpha |  
+| bip_39_word_new_line6 | entire
+dawn
+steel
+embrace
+alpha
+grief |  
+| bip_39_word_new_line7 | entire
+dawn
+steel
+embrace
+alpha
+grief
+render |  
+| bip_39_word_new_line8 | entire
+dawn
+steel
+embrace
+alpha
+grief
+render
+time |  
+| bip_39_word_new_line9 | entire
+dawn
+steel
+embrace
+alpha
+grief
+render
+time
+sibling |  
+| bip_39_word_space_0 | ['entire', 'dawn', 'steel', 'embrace', 'alpha', 'grief', 'render', 'time', 'sibling', 'dream', 'custom', 'arrest'] |  
+| bip_39_word_space_1 | entire |  
+| bip_39_word_space_10 | entire dawn steel embrace alpha grief render time sibling dream |  
+| bip_39_word_space_11 | entire dawn steel embrace alpha grief render time sibling dream custom |  
+| bip_39_word_space_12 | entire dawn steel embrace alpha grief render time sibling dream custom arrest |  
+| bip_39_word_space_2 | entire dawn |  
+| bip_39_word_space_3 | entire dawn steel |  
+| bip_39_word_space_4 | entire dawn steel embrace |  
+| bip_39_word_space_5 | entire dawn steel embrace alpha |  
+| bip_39_word_space_6 | entire dawn steel embrace alpha grief |  
+| bip_39_word_space_7 | entire dawn steel embrace alpha grief render |  
+| bip_39_word_space_8 | entire dawn steel embrace alpha grief render time |  
+| bip_39_word_space_9 | entire dawn steel embrace alpha grief render time sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

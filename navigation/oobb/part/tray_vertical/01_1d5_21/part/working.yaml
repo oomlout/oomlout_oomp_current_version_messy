@@ -1,3 +1,187 @@
+bip_39_word_new_br1: tornado
+bip_39_word_new_br10: tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware<br>fossil<br>picture<br>field<br>bar
+bip_39_word_new_br11: tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware<br>fossil<br>picture<br>field<br>bar<br>cave
+bip_39_word_new_br12: tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware<br>fossil<br>picture<br>field<br>bar<br>cave<br>apology
+bip_39_word_new_br2: tornado<br>enhance
+bip_39_word_new_br3: tornado<br>enhance<br>gravity
+bip_39_word_new_br4: tornado<br>enhance<br>gravity<br>rabbit
+bip_39_word_new_br5: tornado<br>enhance<br>gravity<br>rabbit<br>candy
+bip_39_word_new_br6: tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware
+bip_39_word_new_br7: tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware<br>fossil
+bip_39_word_new_br8: tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware<br>fossil<br>picture
+bip_39_word_new_br9: tornado<br>enhance<br>gravity<br>rabbit<br>candy<br>aware<br>fossil<br>picture<br>field
+bip_39_word_new_line1: tornado
+bip_39_word_new_line10: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit
+
+  candy
+
+  aware
+
+  fossil
+
+  picture
+
+  field
+
+  bar'
+bip_39_word_new_line11: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit
+
+  candy
+
+  aware
+
+  fossil
+
+  picture
+
+  field
+
+  bar
+
+  cave'
+bip_39_word_new_line12: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit
+
+  candy
+
+  aware
+
+  fossil
+
+  picture
+
+  field
+
+  bar
+
+  cave
+
+  apology'
+bip_39_word_new_line2: 'tornado
+
+  enhance'
+bip_39_word_new_line3: 'tornado
+
+  enhance
+
+  gravity'
+bip_39_word_new_line4: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit'
+bip_39_word_new_line5: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit
+
+  candy'
+bip_39_word_new_line6: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit
+
+  candy
+
+  aware'
+bip_39_word_new_line7: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit
+
+  candy
+
+  aware
+
+  fossil'
+bip_39_word_new_line8: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit
+
+  candy
+
+  aware
+
+  fossil
+
+  picture'
+bip_39_word_new_line9: 'tornado
+
+  enhance
+
+  gravity
+
+  rabbit
+
+  candy
+
+  aware
+
+  fossil
+
+  picture
+
+  field'
+bip_39_word_space_0:
+- tornado
+- enhance
+- gravity
+- rabbit
+- candy
+- aware
+- fossil
+- picture
+- field
+- bar
+- cave
+- apology
+bip_39_word_space_1: tornado
+bip_39_word_space_10: tornado enhance gravity rabbit candy aware fossil picture field
+  bar
+bip_39_word_space_11: tornado enhance gravity rabbit candy aware fossil picture field
+  bar cave
+bip_39_word_space_12: tornado enhance gravity rabbit candy aware fossil picture field
+  bar cave apology
+bip_39_word_space_2: tornado enhance
+bip_39_word_space_3: tornado enhance gravity
+bip_39_word_space_4: tornado enhance gravity rabbit
+bip_39_word_space_5: tornado enhance gravity rabbit candy
+bip_39_word_space_6: tornado enhance gravity rabbit candy aware
+bip_39_word_space_7: tornado enhance gravity rabbit candy aware fossil
+bip_39_word_space_8: tornado enhance gravity rabbit candy aware fossil picture
+bip_39_word_space_9: tornado enhance gravity rabbit candy aware fossil picture field
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

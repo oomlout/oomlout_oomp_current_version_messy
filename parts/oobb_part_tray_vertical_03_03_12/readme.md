@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: federal quantum
+  * bip 39 word 3: federal quantum half
+  * bip 39 word: federal quantum half lyrics real coil fragile moment route torch library all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | federal |  
+| bip_39_word_new_br10 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil<br>fragile<br>moment<br>route<br>torch |  
+| bip_39_word_new_br11 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil<br>fragile<br>moment<br>route<br>torch<br>library |  
+| bip_39_word_new_br12 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil<br>fragile<br>moment<br>route<br>torch<br>library<br>all |  
+| bip_39_word_new_br2 | federal<br>quantum |  
+| bip_39_word_new_br3 | federal<br>quantum<br>half |  
+| bip_39_word_new_br4 | federal<br>quantum<br>half<br>lyrics |  
+| bip_39_word_new_br5 | federal<br>quantum<br>half<br>lyrics<br>real |  
+| bip_39_word_new_br6 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil |  
+| bip_39_word_new_br7 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil<br>fragile |  
+| bip_39_word_new_br8 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil<br>fragile<br>moment |  
+| bip_39_word_new_br9 | federal<br>quantum<br>half<br>lyrics<br>real<br>coil<br>fragile<br>moment<br>route |  
+| bip_39_word_new_line1 | federal |  
+| bip_39_word_new_line10 | federal
+quantum
+half
+lyrics
+real
+coil
+fragile
+moment
+route
+torch |  
+| bip_39_word_new_line11 | federal
+quantum
+half
+lyrics
+real
+coil
+fragile
+moment
+route
+torch
+library |  
+| bip_39_word_new_line12 | federal
+quantum
+half
+lyrics
+real
+coil
+fragile
+moment
+route
+torch
+library
+all |  
+| bip_39_word_new_line2 | federal
+quantum |  
+| bip_39_word_new_line3 | federal
+quantum
+half |  
+| bip_39_word_new_line4 | federal
+quantum
+half
+lyrics |  
+| bip_39_word_new_line5 | federal
+quantum
+half
+lyrics
+real |  
+| bip_39_word_new_line6 | federal
+quantum
+half
+lyrics
+real
+coil |  
+| bip_39_word_new_line7 | federal
+quantum
+half
+lyrics
+real
+coil
+fragile |  
+| bip_39_word_new_line8 | federal
+quantum
+half
+lyrics
+real
+coil
+fragile
+moment |  
+| bip_39_word_new_line9 | federal
+quantum
+half
+lyrics
+real
+coil
+fragile
+moment
+route |  
+| bip_39_word_space_0 | ['federal', 'quantum', 'half', 'lyrics', 'real', 'coil', 'fragile', 'moment', 'route', 'torch', 'library', 'all'] |  
+| bip_39_word_space_1 | federal |  
+| bip_39_word_space_10 | federal quantum half lyrics real coil fragile moment route torch |  
+| bip_39_word_space_11 | federal quantum half lyrics real coil fragile moment route torch library |  
+| bip_39_word_space_12 | federal quantum half lyrics real coil fragile moment route torch library all |  
+| bip_39_word_space_2 | federal quantum |  
+| bip_39_word_space_3 | federal quantum half |  
+| bip_39_word_space_4 | federal quantum half lyrics |  
+| bip_39_word_space_5 | federal quantum half lyrics real |  
+| bip_39_word_space_6 | federal quantum half lyrics real coil |  
+| bip_39_word_space_7 | federal quantum half lyrics real coil fragile |  
+| bip_39_word_space_8 | federal quantum half lyrics real coil fragile moment |  
+| bip_39_word_space_9 | federal quantum half lyrics real coil fragile moment route |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dinosaur husband
+  * bip 39 word 3: dinosaur husband similar
+  * bip 39 word: dinosaur husband similar inside gallery chase depend brass interest season wine apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dinosaur |  
+| bip_39_word_new_br10 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase<br>depend<br>brass<br>interest<br>season |  
+| bip_39_word_new_br11 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase<br>depend<br>brass<br>interest<br>season<br>wine |  
+| bip_39_word_new_br12 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase<br>depend<br>brass<br>interest<br>season<br>wine<br>apart |  
+| bip_39_word_new_br2 | dinosaur<br>husband |  
+| bip_39_word_new_br3 | dinosaur<br>husband<br>similar |  
+| bip_39_word_new_br4 | dinosaur<br>husband<br>similar<br>inside |  
+| bip_39_word_new_br5 | dinosaur<br>husband<br>similar<br>inside<br>gallery |  
+| bip_39_word_new_br6 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase |  
+| bip_39_word_new_br7 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase<br>depend |  
+| bip_39_word_new_br8 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase<br>depend<br>brass |  
+| bip_39_word_new_br9 | dinosaur<br>husband<br>similar<br>inside<br>gallery<br>chase<br>depend<br>brass<br>interest |  
+| bip_39_word_new_line1 | dinosaur |  
+| bip_39_word_new_line10 | dinosaur
+husband
+similar
+inside
+gallery
+chase
+depend
+brass
+interest
+season |  
+| bip_39_word_new_line11 | dinosaur
+husband
+similar
+inside
+gallery
+chase
+depend
+brass
+interest
+season
+wine |  
+| bip_39_word_new_line12 | dinosaur
+husband
+similar
+inside
+gallery
+chase
+depend
+brass
+interest
+season
+wine
+apart |  
+| bip_39_word_new_line2 | dinosaur
+husband |  
+| bip_39_word_new_line3 | dinosaur
+husband
+similar |  
+| bip_39_word_new_line4 | dinosaur
+husband
+similar
+inside |  
+| bip_39_word_new_line5 | dinosaur
+husband
+similar
+inside
+gallery |  
+| bip_39_word_new_line6 | dinosaur
+husband
+similar
+inside
+gallery
+chase |  
+| bip_39_word_new_line7 | dinosaur
+husband
+similar
+inside
+gallery
+chase
+depend |  
+| bip_39_word_new_line8 | dinosaur
+husband
+similar
+inside
+gallery
+chase
+depend
+brass |  
+| bip_39_word_new_line9 | dinosaur
+husband
+similar
+inside
+gallery
+chase
+depend
+brass
+interest |  
+| bip_39_word_space_0 | ['dinosaur', 'husband', 'similar', 'inside', 'gallery', 'chase', 'depend', 'brass', 'interest', 'season', 'wine', 'apart'] |  
+| bip_39_word_space_1 | dinosaur |  
+| bip_39_word_space_10 | dinosaur husband similar inside gallery chase depend brass interest season |  
+| bip_39_word_space_11 | dinosaur husband similar inside gallery chase depend brass interest season wine |  
+| bip_39_word_space_12 | dinosaur husband similar inside gallery chase depend brass interest season wine apart |  
+| bip_39_word_space_2 | dinosaur husband |  
+| bip_39_word_space_3 | dinosaur husband similar |  
+| bip_39_word_space_4 | dinosaur husband similar inside |  
+| bip_39_word_space_5 | dinosaur husband similar inside gallery |  
+| bip_39_word_space_6 | dinosaur husband similar inside gallery chase |  
+| bip_39_word_space_7 | dinosaur husband similar inside gallery chase depend |  
+| bip_39_word_space_8 | dinosaur husband similar inside gallery chase depend brass |  
+| bip_39_word_space_9 | dinosaur husband similar inside gallery chase depend brass interest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

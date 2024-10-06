@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: saddle stadium
+  * bip 39 word 3: saddle stadium uncover
+  * bip 39 word: saddle stadium uncover flag book vessel century mass damage mind remove arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | saddle |  
+| bip_39_word_new_br10 | saddle<br>stadium<br>uncover<br>flag<br>book<br>vessel<br>century<br>mass<br>damage<br>mind |  
+| bip_39_word_new_br11 | saddle<br>stadium<br>uncover<br>flag<br>book<br>vessel<br>century<br>mass<br>damage<br>mind<br>remove |  
+| bip_39_word_new_br12 | saddle<br>stadium<br>uncover<br>flag<br>book<br>vessel<br>century<br>mass<br>damage<br>mind<br>remove<br>arena |  
+| bip_39_word_new_br2 | saddle<br>stadium |  
+| bip_39_word_new_br3 | saddle<br>stadium<br>uncover |  
+| bip_39_word_new_br4 | saddle<br>stadium<br>uncover<br>flag |  
+| bip_39_word_new_br5 | saddle<br>stadium<br>uncover<br>flag<br>book |  
+| bip_39_word_new_br6 | saddle<br>stadium<br>uncover<br>flag<br>book<br>vessel |  
+| bip_39_word_new_br7 | saddle<br>stadium<br>uncover<br>flag<br>book<br>vessel<br>century |  
+| bip_39_word_new_br8 | saddle<br>stadium<br>uncover<br>flag<br>book<br>vessel<br>century<br>mass |  
+| bip_39_word_new_br9 | saddle<br>stadium<br>uncover<br>flag<br>book<br>vessel<br>century<br>mass<br>damage |  
+| bip_39_word_new_line1 | saddle |  
+| bip_39_word_new_line10 | saddle
+stadium
+uncover
+flag
+book
+vessel
+century
+mass
+damage
+mind |  
+| bip_39_word_new_line11 | saddle
+stadium
+uncover
+flag
+book
+vessel
+century
+mass
+damage
+mind
+remove |  
+| bip_39_word_new_line12 | saddle
+stadium
+uncover
+flag
+book
+vessel
+century
+mass
+damage
+mind
+remove
+arena |  
+| bip_39_word_new_line2 | saddle
+stadium |  
+| bip_39_word_new_line3 | saddle
+stadium
+uncover |  
+| bip_39_word_new_line4 | saddle
+stadium
+uncover
+flag |  
+| bip_39_word_new_line5 | saddle
+stadium
+uncover
+flag
+book |  
+| bip_39_word_new_line6 | saddle
+stadium
+uncover
+flag
+book
+vessel |  
+| bip_39_word_new_line7 | saddle
+stadium
+uncover
+flag
+book
+vessel
+century |  
+| bip_39_word_new_line8 | saddle
+stadium
+uncover
+flag
+book
+vessel
+century
+mass |  
+| bip_39_word_new_line9 | saddle
+stadium
+uncover
+flag
+book
+vessel
+century
+mass
+damage |  
+| bip_39_word_space_0 | ['saddle', 'stadium', 'uncover', 'flag', 'book', 'vessel', 'century', 'mass', 'damage', 'mind', 'remove', 'arena'] |  
+| bip_39_word_space_1 | saddle |  
+| bip_39_word_space_10 | saddle stadium uncover flag book vessel century mass damage mind |  
+| bip_39_word_space_11 | saddle stadium uncover flag book vessel century mass damage mind remove |  
+| bip_39_word_space_12 | saddle stadium uncover flag book vessel century mass damage mind remove arena |  
+| bip_39_word_space_2 | saddle stadium |  
+| bip_39_word_space_3 | saddle stadium uncover |  
+| bip_39_word_space_4 | saddle stadium uncover flag |  
+| bip_39_word_space_5 | saddle stadium uncover flag book |  
+| bip_39_word_space_6 | saddle stadium uncover flag book vessel |  
+| bip_39_word_space_7 | saddle stadium uncover flag book vessel century |  
+| bip_39_word_space_8 | saddle stadium uncover flag book vessel century mass |  
+| bip_39_word_space_9 | saddle stadium uncover flag book vessel century mass damage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

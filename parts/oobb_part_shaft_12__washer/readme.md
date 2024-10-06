@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: washer
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: meat plate
+  * bip 39 word 3: meat plate soon
+  * bip 39 word: meat plate soon dice much kid winter slight cruise spread bacon ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | meat |  
+| bip_39_word_new_br10 | meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread |  
+| bip_39_word_new_br11 | meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon |  
+| bip_39_word_new_br12 | meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon<br>ask |  
+| bip_39_word_new_br2 | meat<br>plate |  
+| bip_39_word_new_br3 | meat<br>plate<br>soon |  
+| bip_39_word_new_br4 | meat<br>plate<br>soon<br>dice |  
+| bip_39_word_new_br5 | meat<br>plate<br>soon<br>dice<br>much |  
+| bip_39_word_new_br6 | meat<br>plate<br>soon<br>dice<br>much<br>kid |  
+| bip_39_word_new_br7 | meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter |  
+| bip_39_word_new_br8 | meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight |  
+| bip_39_word_new_br9 | meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise |  
+| bip_39_word_new_line1 | meat |  
+| bip_39_word_new_line10 | meat
+plate
+soon
+dice
+much
+kid
+winter
+slight
+cruise
+spread |  
+| bip_39_word_new_line11 | meat
+plate
+soon
+dice
+much
+kid
+winter
+slight
+cruise
+spread
+bacon |  
+| bip_39_word_new_line12 | meat
+plate
+soon
+dice
+much
+kid
+winter
+slight
+cruise
+spread
+bacon
+ask |  
+| bip_39_word_new_line2 | meat
+plate |  
+| bip_39_word_new_line3 | meat
+plate
+soon |  
+| bip_39_word_new_line4 | meat
+plate
+soon
+dice |  
+| bip_39_word_new_line5 | meat
+plate
+soon
+dice
+much |  
+| bip_39_word_new_line6 | meat
+plate
+soon
+dice
+much
+kid |  
+| bip_39_word_new_line7 | meat
+plate
+soon
+dice
+much
+kid
+winter |  
+| bip_39_word_new_line8 | meat
+plate
+soon
+dice
+much
+kid
+winter
+slight |  
+| bip_39_word_new_line9 | meat
+plate
+soon
+dice
+much
+kid
+winter
+slight
+cruise |  
+| bip_39_word_space_0 | ['meat', 'plate', 'soon', 'dice', 'much', 'kid', 'winter', 'slight', 'cruise', 'spread', 'bacon', 'ask'] |  
+| bip_39_word_space_1 | meat |  
+| bip_39_word_space_10 | meat plate soon dice much kid winter slight cruise spread |  
+| bip_39_word_space_11 | meat plate soon dice much kid winter slight cruise spread bacon |  
+| bip_39_word_space_12 | meat plate soon dice much kid winter slight cruise spread bacon ask |  
+| bip_39_word_space_2 | meat plate |  
+| bip_39_word_space_3 | meat plate soon |  
+| bip_39_word_space_4 | meat plate soon dice |  
+| bip_39_word_space_5 | meat plate soon dice much |  
+| bip_39_word_space_6 | meat plate soon dice much kid |  
+| bip_39_word_space_7 | meat plate soon dice much kid winter |  
+| bip_39_word_space_8 | meat plate soon dice much kid winter slight |  
+| bip_39_word_space_9 | meat plate soon dice much kid winter slight cruise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

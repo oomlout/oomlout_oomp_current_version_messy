@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chunk change
+  * bip 39 word 3: chunk change fun
+  * bip 39 word: chunk change fun make awkward video alert please wisdom calm envelope alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chunk |  
+| bip_39_word_new_br10 | chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please<br>wisdom<br>calm |  
+| bip_39_word_new_br11 | chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please<br>wisdom<br>calm<br>envelope |  
+| bip_39_word_new_br12 | chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please<br>wisdom<br>calm<br>envelope<br>alcohol |  
+| bip_39_word_new_br2 | chunk<br>change |  
+| bip_39_word_new_br3 | chunk<br>change<br>fun |  
+| bip_39_word_new_br4 | chunk<br>change<br>fun<br>make |  
+| bip_39_word_new_br5 | chunk<br>change<br>fun<br>make<br>awkward |  
+| bip_39_word_new_br6 | chunk<br>change<br>fun<br>make<br>awkward<br>video |  
+| bip_39_word_new_br7 | chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert |  
+| bip_39_word_new_br8 | chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please |  
+| bip_39_word_new_br9 | chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please<br>wisdom |  
+| bip_39_word_new_line1 | chunk |  
+| bip_39_word_new_line10 | chunk
+change
+fun
+make
+awkward
+video
+alert
+please
+wisdom
+calm |  
+| bip_39_word_new_line11 | chunk
+change
+fun
+make
+awkward
+video
+alert
+please
+wisdom
+calm
+envelope |  
+| bip_39_word_new_line12 | chunk
+change
+fun
+make
+awkward
+video
+alert
+please
+wisdom
+calm
+envelope
+alcohol |  
+| bip_39_word_new_line2 | chunk
+change |  
+| bip_39_word_new_line3 | chunk
+change
+fun |  
+| bip_39_word_new_line4 | chunk
+change
+fun
+make |  
+| bip_39_word_new_line5 | chunk
+change
+fun
+make
+awkward |  
+| bip_39_word_new_line6 | chunk
+change
+fun
+make
+awkward
+video |  
+| bip_39_word_new_line7 | chunk
+change
+fun
+make
+awkward
+video
+alert |  
+| bip_39_word_new_line8 | chunk
+change
+fun
+make
+awkward
+video
+alert
+please |  
+| bip_39_word_new_line9 | chunk
+change
+fun
+make
+awkward
+video
+alert
+please
+wisdom |  
+| bip_39_word_space_0 | ['chunk', 'change', 'fun', 'make', 'awkward', 'video', 'alert', 'please', 'wisdom', 'calm', 'envelope', 'alcohol'] |  
+| bip_39_word_space_1 | chunk |  
+| bip_39_word_space_10 | chunk change fun make awkward video alert please wisdom calm |  
+| bip_39_word_space_11 | chunk change fun make awkward video alert please wisdom calm envelope |  
+| bip_39_word_space_12 | chunk change fun make awkward video alert please wisdom calm envelope alcohol |  
+| bip_39_word_space_2 | chunk change |  
+| bip_39_word_space_3 | chunk change fun |  
+| bip_39_word_space_4 | chunk change fun make |  
+| bip_39_word_space_5 | chunk change fun make awkward |  
+| bip_39_word_space_6 | chunk change fun make awkward video |  
+| bip_39_word_space_7 | chunk change fun make awkward video alert |  
+| bip_39_word_space_8 | chunk change fun make awkward video alert please |  
+| bip_39_word_space_9 | chunk change fun make awkward video alert please wisdom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

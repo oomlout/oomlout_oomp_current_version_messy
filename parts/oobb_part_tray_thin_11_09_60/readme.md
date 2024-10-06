@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rule grain
+  * bip 39 word 3: rule grain immune
+  * bip 39 word: rule grain immune false rack ranch iron dream bachelor clump early ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rule |  
+| bip_39_word_new_br10 | rule<br>grain<br>immune<br>false<br>rack<br>ranch<br>iron<br>dream<br>bachelor<br>clump |  
+| bip_39_word_new_br11 | rule<br>grain<br>immune<br>false<br>rack<br>ranch<br>iron<br>dream<br>bachelor<br>clump<br>early |  
+| bip_39_word_new_br12 | rule<br>grain<br>immune<br>false<br>rack<br>ranch<br>iron<br>dream<br>bachelor<br>clump<br>early<br>ancient |  
+| bip_39_word_new_br2 | rule<br>grain |  
+| bip_39_word_new_br3 | rule<br>grain<br>immune |  
+| bip_39_word_new_br4 | rule<br>grain<br>immune<br>false |  
+| bip_39_word_new_br5 | rule<br>grain<br>immune<br>false<br>rack |  
+| bip_39_word_new_br6 | rule<br>grain<br>immune<br>false<br>rack<br>ranch |  
+| bip_39_word_new_br7 | rule<br>grain<br>immune<br>false<br>rack<br>ranch<br>iron |  
+| bip_39_word_new_br8 | rule<br>grain<br>immune<br>false<br>rack<br>ranch<br>iron<br>dream |  
+| bip_39_word_new_br9 | rule<br>grain<br>immune<br>false<br>rack<br>ranch<br>iron<br>dream<br>bachelor |  
+| bip_39_word_new_line1 | rule |  
+| bip_39_word_new_line10 | rule
+grain
+immune
+false
+rack
+ranch
+iron
+dream
+bachelor
+clump |  
+| bip_39_word_new_line11 | rule
+grain
+immune
+false
+rack
+ranch
+iron
+dream
+bachelor
+clump
+early |  
+| bip_39_word_new_line12 | rule
+grain
+immune
+false
+rack
+ranch
+iron
+dream
+bachelor
+clump
+early
+ancient |  
+| bip_39_word_new_line2 | rule
+grain |  
+| bip_39_word_new_line3 | rule
+grain
+immune |  
+| bip_39_word_new_line4 | rule
+grain
+immune
+false |  
+| bip_39_word_new_line5 | rule
+grain
+immune
+false
+rack |  
+| bip_39_word_new_line6 | rule
+grain
+immune
+false
+rack
+ranch |  
+| bip_39_word_new_line7 | rule
+grain
+immune
+false
+rack
+ranch
+iron |  
+| bip_39_word_new_line8 | rule
+grain
+immune
+false
+rack
+ranch
+iron
+dream |  
+| bip_39_word_new_line9 | rule
+grain
+immune
+false
+rack
+ranch
+iron
+dream
+bachelor |  
+| bip_39_word_space_0 | ['rule', 'grain', 'immune', 'false', 'rack', 'ranch', 'iron', 'dream', 'bachelor', 'clump', 'early', 'ancient'] |  
+| bip_39_word_space_1 | rule |  
+| bip_39_word_space_10 | rule grain immune false rack ranch iron dream bachelor clump |  
+| bip_39_word_space_11 | rule grain immune false rack ranch iron dream bachelor clump early |  
+| bip_39_word_space_12 | rule grain immune false rack ranch iron dream bachelor clump early ancient |  
+| bip_39_word_space_2 | rule grain |  
+| bip_39_word_space_3 | rule grain immune |  
+| bip_39_word_space_4 | rule grain immune false |  
+| bip_39_word_space_5 | rule grain immune false rack |  
+| bip_39_word_space_6 | rule grain immune false rack ranch |  
+| bip_39_word_space_7 | rule grain immune false rack ranch iron |  
+| bip_39_word_space_8 | rule grain immune false rack ranch iron dream |  
+| bip_39_word_space_9 | rule grain immune false rack ranch iron dream bachelor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

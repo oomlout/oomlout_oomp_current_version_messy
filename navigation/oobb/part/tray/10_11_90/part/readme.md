@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: behave fault
+  * bip 39 word 3: behave fault season
+  * bip 39 word: behave fault season such ability tobacco manual fantasy congress chest you already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | behave |  
+| bip_39_word_new_br10 | behave<br>fault<br>season<br>such<br>ability<br>tobacco<br>manual<br>fantasy<br>congress<br>chest |  
+| bip_39_word_new_br11 | behave<br>fault<br>season<br>such<br>ability<br>tobacco<br>manual<br>fantasy<br>congress<br>chest<br>you |  
+| bip_39_word_new_br12 | behave<br>fault<br>season<br>such<br>ability<br>tobacco<br>manual<br>fantasy<br>congress<br>chest<br>you<br>already |  
+| bip_39_word_new_br2 | behave<br>fault |  
+| bip_39_word_new_br3 | behave<br>fault<br>season |  
+| bip_39_word_new_br4 | behave<br>fault<br>season<br>such |  
+| bip_39_word_new_br5 | behave<br>fault<br>season<br>such<br>ability |  
+| bip_39_word_new_br6 | behave<br>fault<br>season<br>such<br>ability<br>tobacco |  
+| bip_39_word_new_br7 | behave<br>fault<br>season<br>such<br>ability<br>tobacco<br>manual |  
+| bip_39_word_new_br8 | behave<br>fault<br>season<br>such<br>ability<br>tobacco<br>manual<br>fantasy |  
+| bip_39_word_new_br9 | behave<br>fault<br>season<br>such<br>ability<br>tobacco<br>manual<br>fantasy<br>congress |  
+| bip_39_word_new_line1 | behave |  
+| bip_39_word_new_line10 | behave
+fault
+season
+such
+ability
+tobacco
+manual
+fantasy
+congress
+chest |  
+| bip_39_word_new_line11 | behave
+fault
+season
+such
+ability
+tobacco
+manual
+fantasy
+congress
+chest
+you |  
+| bip_39_word_new_line12 | behave
+fault
+season
+such
+ability
+tobacco
+manual
+fantasy
+congress
+chest
+you
+already |  
+| bip_39_word_new_line2 | behave
+fault |  
+| bip_39_word_new_line3 | behave
+fault
+season |  
+| bip_39_word_new_line4 | behave
+fault
+season
+such |  
+| bip_39_word_new_line5 | behave
+fault
+season
+such
+ability |  
+| bip_39_word_new_line6 | behave
+fault
+season
+such
+ability
+tobacco |  
+| bip_39_word_new_line7 | behave
+fault
+season
+such
+ability
+tobacco
+manual |  
+| bip_39_word_new_line8 | behave
+fault
+season
+such
+ability
+tobacco
+manual
+fantasy |  
+| bip_39_word_new_line9 | behave
+fault
+season
+such
+ability
+tobacco
+manual
+fantasy
+congress |  
+| bip_39_word_space_0 | ['behave', 'fault', 'season', 'such', 'ability', 'tobacco', 'manual', 'fantasy', 'congress', 'chest', 'you', 'already'] |  
+| bip_39_word_space_1 | behave |  
+| bip_39_word_space_10 | behave fault season such ability tobacco manual fantasy congress chest |  
+| bip_39_word_space_11 | behave fault season such ability tobacco manual fantasy congress chest you |  
+| bip_39_word_space_12 | behave fault season such ability tobacco manual fantasy congress chest you already |  
+| bip_39_word_space_2 | behave fault |  
+| bip_39_word_space_3 | behave fault season |  
+| bip_39_word_space_4 | behave fault season such |  
+| bip_39_word_space_5 | behave fault season such ability |  
+| bip_39_word_space_6 | behave fault season such ability tobacco |  
+| bip_39_word_space_7 | behave fault season such ability tobacco manual |  
+| bip_39_word_space_8 | behave fault season such ability tobacco manual fantasy |  
+| bip_39_word_space_9 | behave fault season such ability tobacco manual fantasy congress |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: valid rapid
+  * bip 39 word 3: valid rapid crowd
+  * bip 39 word: valid rapid crowd hazard update champion armor tone winner gallery trigger assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | valid |  
+| bip_39_word_new_br10 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion<br>armor<br>tone<br>winner<br>gallery |  
+| bip_39_word_new_br11 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion<br>armor<br>tone<br>winner<br>gallery<br>trigger |  
+| bip_39_word_new_br12 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion<br>armor<br>tone<br>winner<br>gallery<br>trigger<br>assist |  
+| bip_39_word_new_br2 | valid<br>rapid |  
+| bip_39_word_new_br3 | valid<br>rapid<br>crowd |  
+| bip_39_word_new_br4 | valid<br>rapid<br>crowd<br>hazard |  
+| bip_39_word_new_br5 | valid<br>rapid<br>crowd<br>hazard<br>update |  
+| bip_39_word_new_br6 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion |  
+| bip_39_word_new_br7 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion<br>armor |  
+| bip_39_word_new_br8 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion<br>armor<br>tone |  
+| bip_39_word_new_br9 | valid<br>rapid<br>crowd<br>hazard<br>update<br>champion<br>armor<br>tone<br>winner |  
+| bip_39_word_new_line1 | valid |  
+| bip_39_word_new_line10 | valid
+rapid
+crowd
+hazard
+update
+champion
+armor
+tone
+winner
+gallery |  
+| bip_39_word_new_line11 | valid
+rapid
+crowd
+hazard
+update
+champion
+armor
+tone
+winner
+gallery
+trigger |  
+| bip_39_word_new_line12 | valid
+rapid
+crowd
+hazard
+update
+champion
+armor
+tone
+winner
+gallery
+trigger
+assist |  
+| bip_39_word_new_line2 | valid
+rapid |  
+| bip_39_word_new_line3 | valid
+rapid
+crowd |  
+| bip_39_word_new_line4 | valid
+rapid
+crowd
+hazard |  
+| bip_39_word_new_line5 | valid
+rapid
+crowd
+hazard
+update |  
+| bip_39_word_new_line6 | valid
+rapid
+crowd
+hazard
+update
+champion |  
+| bip_39_word_new_line7 | valid
+rapid
+crowd
+hazard
+update
+champion
+armor |  
+| bip_39_word_new_line8 | valid
+rapid
+crowd
+hazard
+update
+champion
+armor
+tone |  
+| bip_39_word_new_line9 | valid
+rapid
+crowd
+hazard
+update
+champion
+armor
+tone
+winner |  
+| bip_39_word_space_0 | ['valid', 'rapid', 'crowd', 'hazard', 'update', 'champion', 'armor', 'tone', 'winner', 'gallery', 'trigger', 'assist'] |  
+| bip_39_word_space_1 | valid |  
+| bip_39_word_space_10 | valid rapid crowd hazard update champion armor tone winner gallery |  
+| bip_39_word_space_11 | valid rapid crowd hazard update champion armor tone winner gallery trigger |  
+| bip_39_word_space_12 | valid rapid crowd hazard update champion armor tone winner gallery trigger assist |  
+| bip_39_word_space_2 | valid rapid |  
+| bip_39_word_space_3 | valid rapid crowd |  
+| bip_39_word_space_4 | valid rapid crowd hazard |  
+| bip_39_word_space_5 | valid rapid crowd hazard update |  
+| bip_39_word_space_6 | valid rapid crowd hazard update champion |  
+| bip_39_word_space_7 | valid rapid crowd hazard update champion armor |  
+| bip_39_word_space_8 | valid rapid crowd hazard update champion armor tone |  
+| bip_39_word_space_9 | valid rapid crowd hazard update champion armor tone winner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

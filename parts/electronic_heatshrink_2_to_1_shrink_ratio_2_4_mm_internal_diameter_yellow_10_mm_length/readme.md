@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: praise theory
+  * bip 39 word 3: praise theory fly
+  * bip 39 word: praise theory fly sound puzzle mask outside wedding physical scheme canal absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | praise |  
+| bip_39_word_new_br10 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask<br>outside<br>wedding<br>physical<br>scheme |  
+| bip_39_word_new_br11 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask<br>outside<br>wedding<br>physical<br>scheme<br>canal |  
+| bip_39_word_new_br12 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask<br>outside<br>wedding<br>physical<br>scheme<br>canal<br>absurd |  
+| bip_39_word_new_br2 | praise<br>theory |  
+| bip_39_word_new_br3 | praise<br>theory<br>fly |  
+| bip_39_word_new_br4 | praise<br>theory<br>fly<br>sound |  
+| bip_39_word_new_br5 | praise<br>theory<br>fly<br>sound<br>puzzle |  
+| bip_39_word_new_br6 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask |  
+| bip_39_word_new_br7 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask<br>outside |  
+| bip_39_word_new_br8 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask<br>outside<br>wedding |  
+| bip_39_word_new_br9 | praise<br>theory<br>fly<br>sound<br>puzzle<br>mask<br>outside<br>wedding<br>physical |  
+| bip_39_word_new_line1 | praise |  
+| bip_39_word_new_line10 | praise
+theory
+fly
+sound
+puzzle
+mask
+outside
+wedding
+physical
+scheme |  
+| bip_39_word_new_line11 | praise
+theory
+fly
+sound
+puzzle
+mask
+outside
+wedding
+physical
+scheme
+canal |  
+| bip_39_word_new_line12 | praise
+theory
+fly
+sound
+puzzle
+mask
+outside
+wedding
+physical
+scheme
+canal
+absurd |  
+| bip_39_word_new_line2 | praise
+theory |  
+| bip_39_word_new_line3 | praise
+theory
+fly |  
+| bip_39_word_new_line4 | praise
+theory
+fly
+sound |  
+| bip_39_word_new_line5 | praise
+theory
+fly
+sound
+puzzle |  
+| bip_39_word_new_line6 | praise
+theory
+fly
+sound
+puzzle
+mask |  
+| bip_39_word_new_line7 | praise
+theory
+fly
+sound
+puzzle
+mask
+outside |  
+| bip_39_word_new_line8 | praise
+theory
+fly
+sound
+puzzle
+mask
+outside
+wedding |  
+| bip_39_word_new_line9 | praise
+theory
+fly
+sound
+puzzle
+mask
+outside
+wedding
+physical |  
+| bip_39_word_space_0 | ['praise', 'theory', 'fly', 'sound', 'puzzle', 'mask', 'outside', 'wedding', 'physical', 'scheme', 'canal', 'absurd'] |  
+| bip_39_word_space_1 | praise |  
+| bip_39_word_space_10 | praise theory fly sound puzzle mask outside wedding physical scheme |  
+| bip_39_word_space_11 | praise theory fly sound puzzle mask outside wedding physical scheme canal |  
+| bip_39_word_space_12 | praise theory fly sound puzzle mask outside wedding physical scheme canal absurd |  
+| bip_39_word_space_2 | praise theory |  
+| bip_39_word_space_3 | praise theory fly |  
+| bip_39_word_space_4 | praise theory fly sound |  
+| bip_39_word_space_5 | praise theory fly sound puzzle |  
+| bip_39_word_space_6 | praise theory fly sound puzzle mask |  
+| bip_39_word_space_7 | praise theory fly sound puzzle mask outside |  
+| bip_39_word_space_8 | praise theory fly sound puzzle mask outside wedding |  
+| bip_39_word_space_9 | praise theory fly sound puzzle mask outside wedding physical |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

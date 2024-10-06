@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drip certain
+  * bip 39 word 3: drip certain tilt
+  * bip 39 word: drip certain tilt act coast point task kite another dizzy tooth any
 
 ### other_codes
 * short_code: br6818
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drip |  
+| bip_39_word_new_br10 | drip<br>certain<br>tilt<br>act<br>coast<br>point<br>task<br>kite<br>another<br>dizzy |  
+| bip_39_word_new_br11 | drip<br>certain<br>tilt<br>act<br>coast<br>point<br>task<br>kite<br>another<br>dizzy<br>tooth |  
+| bip_39_word_new_br12 | drip<br>certain<br>tilt<br>act<br>coast<br>point<br>task<br>kite<br>another<br>dizzy<br>tooth<br>any |  
+| bip_39_word_new_br2 | drip<br>certain |  
+| bip_39_word_new_br3 | drip<br>certain<br>tilt |  
+| bip_39_word_new_br4 | drip<br>certain<br>tilt<br>act |  
+| bip_39_word_new_br5 | drip<br>certain<br>tilt<br>act<br>coast |  
+| bip_39_word_new_br6 | drip<br>certain<br>tilt<br>act<br>coast<br>point |  
+| bip_39_word_new_br7 | drip<br>certain<br>tilt<br>act<br>coast<br>point<br>task |  
+| bip_39_word_new_br8 | drip<br>certain<br>tilt<br>act<br>coast<br>point<br>task<br>kite |  
+| bip_39_word_new_br9 | drip<br>certain<br>tilt<br>act<br>coast<br>point<br>task<br>kite<br>another |  
+| bip_39_word_new_line1 | drip |  
+| bip_39_word_new_line10 | drip
+certain
+tilt
+act
+coast
+point
+task
+kite
+another
+dizzy |  
+| bip_39_word_new_line11 | drip
+certain
+tilt
+act
+coast
+point
+task
+kite
+another
+dizzy
+tooth |  
+| bip_39_word_new_line12 | drip
+certain
+tilt
+act
+coast
+point
+task
+kite
+another
+dizzy
+tooth
+any |  
+| bip_39_word_new_line2 | drip
+certain |  
+| bip_39_word_new_line3 | drip
+certain
+tilt |  
+| bip_39_word_new_line4 | drip
+certain
+tilt
+act |  
+| bip_39_word_new_line5 | drip
+certain
+tilt
+act
+coast |  
+| bip_39_word_new_line6 | drip
+certain
+tilt
+act
+coast
+point |  
+| bip_39_word_new_line7 | drip
+certain
+tilt
+act
+coast
+point
+task |  
+| bip_39_word_new_line8 | drip
+certain
+tilt
+act
+coast
+point
+task
+kite |  
+| bip_39_word_new_line9 | drip
+certain
+tilt
+act
+coast
+point
+task
+kite
+another |  
+| bip_39_word_space_0 | ['drip', 'certain', 'tilt', 'act', 'coast', 'point', 'task', 'kite', 'another', 'dizzy', 'tooth', 'any'] |  
+| bip_39_word_space_1 | drip |  
+| bip_39_word_space_10 | drip certain tilt act coast point task kite another dizzy |  
+| bip_39_word_space_11 | drip certain tilt act coast point task kite another dizzy tooth |  
+| bip_39_word_space_12 | drip certain tilt act coast point task kite another dizzy tooth any |  
+| bip_39_word_space_2 | drip certain |  
+| bip_39_word_space_3 | drip certain tilt |  
+| bip_39_word_space_4 | drip certain tilt act |  
+| bip_39_word_space_5 | drip certain tilt act coast |  
+| bip_39_word_space_6 | drip certain tilt act coast point |  
+| bip_39_word_space_7 | drip certain tilt act coast point task |  
+| bip_39_word_space_8 | drip certain tilt act coast point task kite |  
+| bip_39_word_space_9 | drip certain tilt act coast point task kite another |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

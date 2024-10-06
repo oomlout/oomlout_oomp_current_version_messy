@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cute
+bip_39_word_new_br10: cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol
+bip_39_word_new_br11: cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol<br>style
+bip_39_word_new_br12: cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual<br>alcohol<br>style<br>artefact
+bip_39_word_new_br2: cute<br>kingdom
+bip_39_word_new_br3: cute<br>kingdom<br>noble
+bip_39_word_new_br4: cute<br>kingdom<br>noble<br>film
+bip_39_word_new_br5: cute<br>kingdom<br>noble<br>film<br>glory
+bip_39_word_new_br6: cute<br>kingdom<br>noble<br>film<br>glory<br>defense
+bip_39_word_new_br7: cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil
+bip_39_word_new_br8: cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few
+bip_39_word_new_br9: cute<br>kingdom<br>noble<br>film<br>glory<br>defense<br>pupil<br>few<br>actual
+bip_39_word_new_line1: cute
+bip_39_word_new_line10: 'cute
+
+  kingdom
+
+  noble
+
+  film
+
+  glory
+
+  defense
+
+  pupil
+
+  few
+
+  actual
+
+  alcohol'
+bip_39_word_new_line11: 'cute
+
+  kingdom
+
+  noble
+
+  film
+
+  glory
+
+  defense
+
+  pupil
+
+  few
+
+  actual
+
+  alcohol
+
+  style'
+bip_39_word_new_line12: 'cute
+
+  kingdom
+
+  noble
+
+  film
+
+  glory
+
+  defense
+
+  pupil
+
+  few
+
+  actual
+
+  alcohol
+
+  style
+
+  artefact'
+bip_39_word_new_line2: 'cute
+
+  kingdom'
+bip_39_word_new_line3: 'cute
+
+  kingdom
+
+  noble'
+bip_39_word_new_line4: 'cute
+
+  kingdom
+
+  noble
+
+  film'
+bip_39_word_new_line5: 'cute
+
+  kingdom
+
+  noble
+
+  film
+
+  glory'
+bip_39_word_new_line6: 'cute
+
+  kingdom
+
+  noble
+
+  film
+
+  glory
+
+  defense'
+bip_39_word_new_line7: 'cute
+
+  kingdom
+
+  noble
+
+  film
+
+  glory
+
+  defense
+
+  pupil'
+bip_39_word_new_line8: 'cute
+
+  kingdom
+
+  noble
+
+  film
+
+  glory
+
+  defense
+
+  pupil
+
+  few'
+bip_39_word_new_line9: 'cute
+
+  kingdom
+
+  noble
+
+  film
+
+  glory
+
+  defense
+
+  pupil
+
+  few
+
+  actual'
+bip_39_word_space_0:
+- cute
+- kingdom
+- noble
+- film
+- glory
+- defense
+- pupil
+- few
+- actual
+- alcohol
+- style
+- artefact
+bip_39_word_space_1: cute
+bip_39_word_space_10: cute kingdom noble film glory defense pupil few actual alcohol
+bip_39_word_space_11: cute kingdom noble film glory defense pupil few actual alcohol
+  style
+bip_39_word_space_12: cute kingdom noble film glory defense pupil few actual alcohol
+  style artefact
+bip_39_word_space_2: cute kingdom
+bip_39_word_space_3: cute kingdom noble
+bip_39_word_space_4: cute kingdom noble film
+bip_39_word_space_5: cute kingdom noble film glory
+bip_39_word_space_6: cute kingdom noble film glory defense
+bip_39_word_space_7: cute kingdom noble film glory defense pupil
+bip_39_word_space_8: cute kingdom noble film glory defense pupil few
+bip_39_word_space_9: cute kingdom noble film glory defense pupil few actual
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

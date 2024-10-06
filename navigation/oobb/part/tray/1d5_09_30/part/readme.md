@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: entire term
+  * bip 39 word 3: entire term trap
+  * bip 39 word: entire term trap hobby comfort egg post tomato carpet unit satoshi aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | entire |  
+| bip_39_word_new_br10 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg<br>post<br>tomato<br>carpet<br>unit |  
+| bip_39_word_new_br11 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg<br>post<br>tomato<br>carpet<br>unit<br>satoshi |  
+| bip_39_word_new_br12 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg<br>post<br>tomato<br>carpet<br>unit<br>satoshi<br>aspect |  
+| bip_39_word_new_br2 | entire<br>term |  
+| bip_39_word_new_br3 | entire<br>term<br>trap |  
+| bip_39_word_new_br4 | entire<br>term<br>trap<br>hobby |  
+| bip_39_word_new_br5 | entire<br>term<br>trap<br>hobby<br>comfort |  
+| bip_39_word_new_br6 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg |  
+| bip_39_word_new_br7 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg<br>post |  
+| bip_39_word_new_br8 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg<br>post<br>tomato |  
+| bip_39_word_new_br9 | entire<br>term<br>trap<br>hobby<br>comfort<br>egg<br>post<br>tomato<br>carpet |  
+| bip_39_word_new_line1 | entire |  
+| bip_39_word_new_line10 | entire
+term
+trap
+hobby
+comfort
+egg
+post
+tomato
+carpet
+unit |  
+| bip_39_word_new_line11 | entire
+term
+trap
+hobby
+comfort
+egg
+post
+tomato
+carpet
+unit
+satoshi |  
+| bip_39_word_new_line12 | entire
+term
+trap
+hobby
+comfort
+egg
+post
+tomato
+carpet
+unit
+satoshi
+aspect |  
+| bip_39_word_new_line2 | entire
+term |  
+| bip_39_word_new_line3 | entire
+term
+trap |  
+| bip_39_word_new_line4 | entire
+term
+trap
+hobby |  
+| bip_39_word_new_line5 | entire
+term
+trap
+hobby
+comfort |  
+| bip_39_word_new_line6 | entire
+term
+trap
+hobby
+comfort
+egg |  
+| bip_39_word_new_line7 | entire
+term
+trap
+hobby
+comfort
+egg
+post |  
+| bip_39_word_new_line8 | entire
+term
+trap
+hobby
+comfort
+egg
+post
+tomato |  
+| bip_39_word_new_line9 | entire
+term
+trap
+hobby
+comfort
+egg
+post
+tomato
+carpet |  
+| bip_39_word_space_0 | ['entire', 'term', 'trap', 'hobby', 'comfort', 'egg', 'post', 'tomato', 'carpet', 'unit', 'satoshi', 'aspect'] |  
+| bip_39_word_space_1 | entire |  
+| bip_39_word_space_10 | entire term trap hobby comfort egg post tomato carpet unit |  
+| bip_39_word_space_11 | entire term trap hobby comfort egg post tomato carpet unit satoshi |  
+| bip_39_word_space_12 | entire term trap hobby comfort egg post tomato carpet unit satoshi aspect |  
+| bip_39_word_space_2 | entire term |  
+| bip_39_word_space_3 | entire term trap |  
+| bip_39_word_space_4 | entire term trap hobby |  
+| bip_39_word_space_5 | entire term trap hobby comfort |  
+| bip_39_word_space_6 | entire term trap hobby comfort egg |  
+| bip_39_word_space_7 | entire term trap hobby comfort egg post |  
+| bip_39_word_space_8 | entire term trap hobby comfort egg post tomato |  
+| bip_39_word_space_9 | entire term trap hobby comfort egg post tomato carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crash unlock
+  * bip 39 word 3: crash unlock brother
+  * bip 39 word: crash unlock brother deal fix flag drum useful total throw describe almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crash |  
+| bip_39_word_new_br10 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag<br>drum<br>useful<br>total<br>throw |  
+| bip_39_word_new_br11 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag<br>drum<br>useful<br>total<br>throw<br>describe |  
+| bip_39_word_new_br12 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag<br>drum<br>useful<br>total<br>throw<br>describe<br>almost |  
+| bip_39_word_new_br2 | crash<br>unlock |  
+| bip_39_word_new_br3 | crash<br>unlock<br>brother |  
+| bip_39_word_new_br4 | crash<br>unlock<br>brother<br>deal |  
+| bip_39_word_new_br5 | crash<br>unlock<br>brother<br>deal<br>fix |  
+| bip_39_word_new_br6 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag |  
+| bip_39_word_new_br7 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag<br>drum |  
+| bip_39_word_new_br8 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag<br>drum<br>useful |  
+| bip_39_word_new_br9 | crash<br>unlock<br>brother<br>deal<br>fix<br>flag<br>drum<br>useful<br>total |  
+| bip_39_word_new_line1 | crash |  
+| bip_39_word_new_line10 | crash
+unlock
+brother
+deal
+fix
+flag
+drum
+useful
+total
+throw |  
+| bip_39_word_new_line11 | crash
+unlock
+brother
+deal
+fix
+flag
+drum
+useful
+total
+throw
+describe |  
+| bip_39_word_new_line12 | crash
+unlock
+brother
+deal
+fix
+flag
+drum
+useful
+total
+throw
+describe
+almost |  
+| bip_39_word_new_line2 | crash
+unlock |  
+| bip_39_word_new_line3 | crash
+unlock
+brother |  
+| bip_39_word_new_line4 | crash
+unlock
+brother
+deal |  
+| bip_39_word_new_line5 | crash
+unlock
+brother
+deal
+fix |  
+| bip_39_word_new_line6 | crash
+unlock
+brother
+deal
+fix
+flag |  
+| bip_39_word_new_line7 | crash
+unlock
+brother
+deal
+fix
+flag
+drum |  
+| bip_39_word_new_line8 | crash
+unlock
+brother
+deal
+fix
+flag
+drum
+useful |  
+| bip_39_word_new_line9 | crash
+unlock
+brother
+deal
+fix
+flag
+drum
+useful
+total |  
+| bip_39_word_space_0 | ['crash', 'unlock', 'brother', 'deal', 'fix', 'flag', 'drum', 'useful', 'total', 'throw', 'describe', 'almost'] |  
+| bip_39_word_space_1 | crash |  
+| bip_39_word_space_10 | crash unlock brother deal fix flag drum useful total throw |  
+| bip_39_word_space_11 | crash unlock brother deal fix flag drum useful total throw describe |  
+| bip_39_word_space_12 | crash unlock brother deal fix flag drum useful total throw describe almost |  
+| bip_39_word_space_2 | crash unlock |  
+| bip_39_word_space_3 | crash unlock brother |  
+| bip_39_word_space_4 | crash unlock brother deal |  
+| bip_39_word_space_5 | crash unlock brother deal fix |  
+| bip_39_word_space_6 | crash unlock brother deal fix flag |  
+| bip_39_word_space_7 | crash unlock brother deal fix flag drum |  
+| bip_39_word_space_8 | crash unlock brother deal fix flag drum useful |  
+| bip_39_word_space_9 | crash unlock brother deal fix flag drum useful total |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: expand lunar
+  * bip 39 word 3: expand lunar age
+  * bip 39 word: expand lunar age powder other away entry mask sponsor crawl panther ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | expand |  
+| bip_39_word_new_br10 | expand<br>lunar<br>age<br>powder<br>other<br>away<br>entry<br>mask<br>sponsor<br>crawl |  
+| bip_39_word_new_br11 | expand<br>lunar<br>age<br>powder<br>other<br>away<br>entry<br>mask<br>sponsor<br>crawl<br>panther |  
+| bip_39_word_new_br12 | expand<br>lunar<br>age<br>powder<br>other<br>away<br>entry<br>mask<br>sponsor<br>crawl<br>panther<br>ask |  
+| bip_39_word_new_br2 | expand<br>lunar |  
+| bip_39_word_new_br3 | expand<br>lunar<br>age |  
+| bip_39_word_new_br4 | expand<br>lunar<br>age<br>powder |  
+| bip_39_word_new_br5 | expand<br>lunar<br>age<br>powder<br>other |  
+| bip_39_word_new_br6 | expand<br>lunar<br>age<br>powder<br>other<br>away |  
+| bip_39_word_new_br7 | expand<br>lunar<br>age<br>powder<br>other<br>away<br>entry |  
+| bip_39_word_new_br8 | expand<br>lunar<br>age<br>powder<br>other<br>away<br>entry<br>mask |  
+| bip_39_word_new_br9 | expand<br>lunar<br>age<br>powder<br>other<br>away<br>entry<br>mask<br>sponsor |  
+| bip_39_word_new_line1 | expand |  
+| bip_39_word_new_line10 | expand
+lunar
+age
+powder
+other
+away
+entry
+mask
+sponsor
+crawl |  
+| bip_39_word_new_line11 | expand
+lunar
+age
+powder
+other
+away
+entry
+mask
+sponsor
+crawl
+panther |  
+| bip_39_word_new_line12 | expand
+lunar
+age
+powder
+other
+away
+entry
+mask
+sponsor
+crawl
+panther
+ask |  
+| bip_39_word_new_line2 | expand
+lunar |  
+| bip_39_word_new_line3 | expand
+lunar
+age |  
+| bip_39_word_new_line4 | expand
+lunar
+age
+powder |  
+| bip_39_word_new_line5 | expand
+lunar
+age
+powder
+other |  
+| bip_39_word_new_line6 | expand
+lunar
+age
+powder
+other
+away |  
+| bip_39_word_new_line7 | expand
+lunar
+age
+powder
+other
+away
+entry |  
+| bip_39_word_new_line8 | expand
+lunar
+age
+powder
+other
+away
+entry
+mask |  
+| bip_39_word_new_line9 | expand
+lunar
+age
+powder
+other
+away
+entry
+mask
+sponsor |  
+| bip_39_word_space_0 | ['expand', 'lunar', 'age', 'powder', 'other', 'away', 'entry', 'mask', 'sponsor', 'crawl', 'panther', 'ask'] |  
+| bip_39_word_space_1 | expand |  
+| bip_39_word_space_10 | expand lunar age powder other away entry mask sponsor crawl |  
+| bip_39_word_space_11 | expand lunar age powder other away entry mask sponsor crawl panther |  
+| bip_39_word_space_12 | expand lunar age powder other away entry mask sponsor crawl panther ask |  
+| bip_39_word_space_2 | expand lunar |  
+| bip_39_word_space_3 | expand lunar age |  
+| bip_39_word_space_4 | expand lunar age powder |  
+| bip_39_word_space_5 | expand lunar age powder other |  
+| bip_39_word_space_6 | expand lunar age powder other away |  
+| bip_39_word_space_7 | expand lunar age powder other away entry |  
+| bip_39_word_space_8 | expand lunar age powder other away entry mask |  
+| bip_39_word_space_9 | expand lunar age powder other away entry mask sponsor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

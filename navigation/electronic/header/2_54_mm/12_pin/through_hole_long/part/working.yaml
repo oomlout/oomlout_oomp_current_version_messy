@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dust
+bip_39_word_new_br10: dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice
+bip_39_word_new_br11: dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice<br>cabbage
+bip_39_word_new_br12: dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check<br>advice<br>cabbage<br>auto
+bip_39_word_new_br2: dust<br>wreck
+bip_39_word_new_br3: dust<br>wreck<br>column
+bip_39_word_new_br4: dust<br>wreck<br>column<br>much
+bip_39_word_new_br5: dust<br>wreck<br>column<br>much<br>fence
+bip_39_word_new_br6: dust<br>wreck<br>column<br>much<br>fence<br>conduct
+bip_39_word_new_br7: dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter
+bip_39_word_new_br8: dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap
+bip_39_word_new_br9: dust<br>wreck<br>column<br>much<br>fence<br>conduct<br>daughter<br>wrap<br>check
+bip_39_word_new_line1: dust
+bip_39_word_new_line10: 'dust
+
+  wreck
+
+  column
+
+  much
+
+  fence
+
+  conduct
+
+  daughter
+
+  wrap
+
+  check
+
+  advice'
+bip_39_word_new_line11: 'dust
+
+  wreck
+
+  column
+
+  much
+
+  fence
+
+  conduct
+
+  daughter
+
+  wrap
+
+  check
+
+  advice
+
+  cabbage'
+bip_39_word_new_line12: 'dust
+
+  wreck
+
+  column
+
+  much
+
+  fence
+
+  conduct
+
+  daughter
+
+  wrap
+
+  check
+
+  advice
+
+  cabbage
+
+  auto'
+bip_39_word_new_line2: 'dust
+
+  wreck'
+bip_39_word_new_line3: 'dust
+
+  wreck
+
+  column'
+bip_39_word_new_line4: 'dust
+
+  wreck
+
+  column
+
+  much'
+bip_39_word_new_line5: 'dust
+
+  wreck
+
+  column
+
+  much
+
+  fence'
+bip_39_word_new_line6: 'dust
+
+  wreck
+
+  column
+
+  much
+
+  fence
+
+  conduct'
+bip_39_word_new_line7: 'dust
+
+  wreck
+
+  column
+
+  much
+
+  fence
+
+  conduct
+
+  daughter'
+bip_39_word_new_line8: 'dust
+
+  wreck
+
+  column
+
+  much
+
+  fence
+
+  conduct
+
+  daughter
+
+  wrap'
+bip_39_word_new_line9: 'dust
+
+  wreck
+
+  column
+
+  much
+
+  fence
+
+  conduct
+
+  daughter
+
+  wrap
+
+  check'
+bip_39_word_space_0:
+- dust
+- wreck
+- column
+- much
+- fence
+- conduct
+- daughter
+- wrap
+- check
+- advice
+- cabbage
+- auto
+bip_39_word_space_1: dust
+bip_39_word_space_10: dust wreck column much fence conduct daughter wrap check advice
+bip_39_word_space_11: dust wreck column much fence conduct daughter wrap check advice
+  cabbage
+bip_39_word_space_12: dust wreck column much fence conduct daughter wrap check advice
+  cabbage auto
+bip_39_word_space_2: dust wreck
+bip_39_word_space_3: dust wreck column
+bip_39_word_space_4: dust wreck column much
+bip_39_word_space_5: dust wreck column much fence
+bip_39_word_space_6: dust wreck column much fence conduct
+bip_39_word_space_7: dust wreck column much fence conduct daughter
+bip_39_word_space_8: dust wreck column much fence conduct daughter wrap
+bip_39_word_space_9: dust wreck column much fence conduct daughter wrap check
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

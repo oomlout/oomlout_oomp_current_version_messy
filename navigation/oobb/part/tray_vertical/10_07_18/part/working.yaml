@@ -1,3 +1,186 @@
+bip_39_word_new_br1: forget
+bip_39_word_new_br10: forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual
+bip_39_word_new_br11: forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual<br>change
+bip_39_word_new_br12: forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip<br>actual<br>change<br>auto
+bip_39_word_new_br2: forget<br>disease
+bip_39_word_new_br3: forget<br>disease<br>tip
+bip_39_word_new_br4: forget<br>disease<br>tip<br>number
+bip_39_word_new_br5: forget<br>disease<br>tip<br>number<br>cross
+bip_39_word_new_br6: forget<br>disease<br>tip<br>number<br>cross<br>atom
+bip_39_word_new_br7: forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between
+bip_39_word_new_br8: forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon
+bip_39_word_new_br9: forget<br>disease<br>tip<br>number<br>cross<br>atom<br>between<br>moon<br>trip
+bip_39_word_new_line1: forget
+bip_39_word_new_line10: 'forget
+
+  disease
+
+  tip
+
+  number
+
+  cross
+
+  atom
+
+  between
+
+  moon
+
+  trip
+
+  actual'
+bip_39_word_new_line11: 'forget
+
+  disease
+
+  tip
+
+  number
+
+  cross
+
+  atom
+
+  between
+
+  moon
+
+  trip
+
+  actual
+
+  change'
+bip_39_word_new_line12: 'forget
+
+  disease
+
+  tip
+
+  number
+
+  cross
+
+  atom
+
+  between
+
+  moon
+
+  trip
+
+  actual
+
+  change
+
+  auto'
+bip_39_word_new_line2: 'forget
+
+  disease'
+bip_39_word_new_line3: 'forget
+
+  disease
+
+  tip'
+bip_39_word_new_line4: 'forget
+
+  disease
+
+  tip
+
+  number'
+bip_39_word_new_line5: 'forget
+
+  disease
+
+  tip
+
+  number
+
+  cross'
+bip_39_word_new_line6: 'forget
+
+  disease
+
+  tip
+
+  number
+
+  cross
+
+  atom'
+bip_39_word_new_line7: 'forget
+
+  disease
+
+  tip
+
+  number
+
+  cross
+
+  atom
+
+  between'
+bip_39_word_new_line8: 'forget
+
+  disease
+
+  tip
+
+  number
+
+  cross
+
+  atom
+
+  between
+
+  moon'
+bip_39_word_new_line9: 'forget
+
+  disease
+
+  tip
+
+  number
+
+  cross
+
+  atom
+
+  between
+
+  moon
+
+  trip'
+bip_39_word_space_0:
+- forget
+- disease
+- tip
+- number
+- cross
+- atom
+- between
+- moon
+- trip
+- actual
+- change
+- auto
+bip_39_word_space_1: forget
+bip_39_word_space_10: forget disease tip number cross atom between moon trip actual
+bip_39_word_space_11: forget disease tip number cross atom between moon trip actual
+  change
+bip_39_word_space_12: forget disease tip number cross atom between moon trip actual
+  change auto
+bip_39_word_space_2: forget disease
+bip_39_word_space_3: forget disease tip
+bip_39_word_space_4: forget disease tip number
+bip_39_word_space_5: forget disease tip number cross
+bip_39_word_space_6: forget disease tip number cross atom
+bip_39_word_space_7: forget disease tip number cross atom between
+bip_39_word_space_8: forget disease tip number cross atom between moon
+bip_39_word_space_9: forget disease tip number cross atom between moon trip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

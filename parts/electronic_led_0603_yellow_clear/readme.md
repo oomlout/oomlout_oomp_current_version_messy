@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: obvious call
+  * bip 39 word 3: obvious call effort
+  * bip 39 word: obvious call effort hamster speak toilet road legal battle easily fiction abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | obvious |  
+| bip_39_word_new_br10 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily |  
+| bip_39_word_new_br11 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily<br>fiction |  
+| bip_39_word_new_br12 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle<br>easily<br>fiction<br>abuse |  
+| bip_39_word_new_br2 | obvious<br>call |  
+| bip_39_word_new_br3 | obvious<br>call<br>effort |  
+| bip_39_word_new_br4 | obvious<br>call<br>effort<br>hamster |  
+| bip_39_word_new_br5 | obvious<br>call<br>effort<br>hamster<br>speak |  
+| bip_39_word_new_br6 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet |  
+| bip_39_word_new_br7 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road |  
+| bip_39_word_new_br8 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal |  
+| bip_39_word_new_br9 | obvious<br>call<br>effort<br>hamster<br>speak<br>toilet<br>road<br>legal<br>battle |  
+| bip_39_word_new_line1 | obvious |  
+| bip_39_word_new_line10 | obvious
+call
+effort
+hamster
+speak
+toilet
+road
+legal
+battle
+easily |  
+| bip_39_word_new_line11 | obvious
+call
+effort
+hamster
+speak
+toilet
+road
+legal
+battle
+easily
+fiction |  
+| bip_39_word_new_line12 | obvious
+call
+effort
+hamster
+speak
+toilet
+road
+legal
+battle
+easily
+fiction
+abuse |  
+| bip_39_word_new_line2 | obvious
+call |  
+| bip_39_word_new_line3 | obvious
+call
+effort |  
+| bip_39_word_new_line4 | obvious
+call
+effort
+hamster |  
+| bip_39_word_new_line5 | obvious
+call
+effort
+hamster
+speak |  
+| bip_39_word_new_line6 | obvious
+call
+effort
+hamster
+speak
+toilet |  
+| bip_39_word_new_line7 | obvious
+call
+effort
+hamster
+speak
+toilet
+road |  
+| bip_39_word_new_line8 | obvious
+call
+effort
+hamster
+speak
+toilet
+road
+legal |  
+| bip_39_word_new_line9 | obvious
+call
+effort
+hamster
+speak
+toilet
+road
+legal
+battle |  
+| bip_39_word_space_0 | ['obvious', 'call', 'effort', 'hamster', 'speak', 'toilet', 'road', 'legal', 'battle', 'easily', 'fiction', 'abuse'] |  
+| bip_39_word_space_1 | obvious |  
+| bip_39_word_space_10 | obvious call effort hamster speak toilet road legal battle easily |  
+| bip_39_word_space_11 | obvious call effort hamster speak toilet road legal battle easily fiction |  
+| bip_39_word_space_12 | obvious call effort hamster speak toilet road legal battle easily fiction abuse |  
+| bip_39_word_space_2 | obvious call |  
+| bip_39_word_space_3 | obvious call effort |  
+| bip_39_word_space_4 | obvious call effort hamster |  
+| bip_39_word_space_5 | obvious call effort hamster speak |  
+| bip_39_word_space_6 | obvious call effort hamster speak toilet |  
+| bip_39_word_space_7 | obvious call effort hamster speak toilet road |  
+| bip_39_word_space_8 | obvious call effort hamster speak toilet road legal |  
+| bip_39_word_space_9 | obvious call effort hamster speak toilet road legal battle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

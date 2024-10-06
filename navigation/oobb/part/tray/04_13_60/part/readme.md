@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: weird vintage
+  * bip 39 word 3: weird vintage leopard
+  * bip 39 word: weird vintage leopard game average wish notable oven cactus long bind adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | weird |  
+| bip_39_word_new_br10 | weird<br>vintage<br>leopard<br>game<br>average<br>wish<br>notable<br>oven<br>cactus<br>long |  
+| bip_39_word_new_br11 | weird<br>vintage<br>leopard<br>game<br>average<br>wish<br>notable<br>oven<br>cactus<br>long<br>bind |  
+| bip_39_word_new_br12 | weird<br>vintage<br>leopard<br>game<br>average<br>wish<br>notable<br>oven<br>cactus<br>long<br>bind<br>adapt |  
+| bip_39_word_new_br2 | weird<br>vintage |  
+| bip_39_word_new_br3 | weird<br>vintage<br>leopard |  
+| bip_39_word_new_br4 | weird<br>vintage<br>leopard<br>game |  
+| bip_39_word_new_br5 | weird<br>vintage<br>leopard<br>game<br>average |  
+| bip_39_word_new_br6 | weird<br>vintage<br>leopard<br>game<br>average<br>wish |  
+| bip_39_word_new_br7 | weird<br>vintage<br>leopard<br>game<br>average<br>wish<br>notable |  
+| bip_39_word_new_br8 | weird<br>vintage<br>leopard<br>game<br>average<br>wish<br>notable<br>oven |  
+| bip_39_word_new_br9 | weird<br>vintage<br>leopard<br>game<br>average<br>wish<br>notable<br>oven<br>cactus |  
+| bip_39_word_new_line1 | weird |  
+| bip_39_word_new_line10 | weird
+vintage
+leopard
+game
+average
+wish
+notable
+oven
+cactus
+long |  
+| bip_39_word_new_line11 | weird
+vintage
+leopard
+game
+average
+wish
+notable
+oven
+cactus
+long
+bind |  
+| bip_39_word_new_line12 | weird
+vintage
+leopard
+game
+average
+wish
+notable
+oven
+cactus
+long
+bind
+adapt |  
+| bip_39_word_new_line2 | weird
+vintage |  
+| bip_39_word_new_line3 | weird
+vintage
+leopard |  
+| bip_39_word_new_line4 | weird
+vintage
+leopard
+game |  
+| bip_39_word_new_line5 | weird
+vintage
+leopard
+game
+average |  
+| bip_39_word_new_line6 | weird
+vintage
+leopard
+game
+average
+wish |  
+| bip_39_word_new_line7 | weird
+vintage
+leopard
+game
+average
+wish
+notable |  
+| bip_39_word_new_line8 | weird
+vintage
+leopard
+game
+average
+wish
+notable
+oven |  
+| bip_39_word_new_line9 | weird
+vintage
+leopard
+game
+average
+wish
+notable
+oven
+cactus |  
+| bip_39_word_space_0 | ['weird', 'vintage', 'leopard', 'game', 'average', 'wish', 'notable', 'oven', 'cactus', 'long', 'bind', 'adapt'] |  
+| bip_39_word_space_1 | weird |  
+| bip_39_word_space_10 | weird vintage leopard game average wish notable oven cactus long |  
+| bip_39_word_space_11 | weird vintage leopard game average wish notable oven cactus long bind |  
+| bip_39_word_space_12 | weird vintage leopard game average wish notable oven cactus long bind adapt |  
+| bip_39_word_space_2 | weird vintage |  
+| bip_39_word_space_3 | weird vintage leopard |  
+| bip_39_word_space_4 | weird vintage leopard game |  
+| bip_39_word_space_5 | weird vintage leopard game average |  
+| bip_39_word_space_6 | weird vintage leopard game average wish |  
+| bip_39_word_space_7 | weird vintage leopard game average wish notable |  
+| bip_39_word_space_8 | weird vintage leopard game average wish notable oven |  
+| bip_39_word_space_9 | weird vintage leopard game average wish notable oven cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

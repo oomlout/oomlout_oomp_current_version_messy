@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: dupont
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: argue barrel
+  * bip 39 word 3: argue barrel analyst
+  * bip 39 word: argue barrel analyst robust foil security process begin bicycle bus young army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | argue |  
+| bip_39_word_new_br10 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security<br>process<br>begin<br>bicycle<br>bus |  
+| bip_39_word_new_br11 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security<br>process<br>begin<br>bicycle<br>bus<br>young |  
+| bip_39_word_new_br12 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security<br>process<br>begin<br>bicycle<br>bus<br>young<br>army |  
+| bip_39_word_new_br2 | argue<br>barrel |  
+| bip_39_word_new_br3 | argue<br>barrel<br>analyst |  
+| bip_39_word_new_br4 | argue<br>barrel<br>analyst<br>robust |  
+| bip_39_word_new_br5 | argue<br>barrel<br>analyst<br>robust<br>foil |  
+| bip_39_word_new_br6 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security |  
+| bip_39_word_new_br7 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security<br>process |  
+| bip_39_word_new_br8 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security<br>process<br>begin |  
+| bip_39_word_new_br9 | argue<br>barrel<br>analyst<br>robust<br>foil<br>security<br>process<br>begin<br>bicycle |  
+| bip_39_word_new_line1 | argue |  
+| bip_39_word_new_line10 | argue
+barrel
+analyst
+robust
+foil
+security
+process
+begin
+bicycle
+bus |  
+| bip_39_word_new_line11 | argue
+barrel
+analyst
+robust
+foil
+security
+process
+begin
+bicycle
+bus
+young |  
+| bip_39_word_new_line12 | argue
+barrel
+analyst
+robust
+foil
+security
+process
+begin
+bicycle
+bus
+young
+army |  
+| bip_39_word_new_line2 | argue
+barrel |  
+| bip_39_word_new_line3 | argue
+barrel
+analyst |  
+| bip_39_word_new_line4 | argue
+barrel
+analyst
+robust |  
+| bip_39_word_new_line5 | argue
+barrel
+analyst
+robust
+foil |  
+| bip_39_word_new_line6 | argue
+barrel
+analyst
+robust
+foil
+security |  
+| bip_39_word_new_line7 | argue
+barrel
+analyst
+robust
+foil
+security
+process |  
+| bip_39_word_new_line8 | argue
+barrel
+analyst
+robust
+foil
+security
+process
+begin |  
+| bip_39_word_new_line9 | argue
+barrel
+analyst
+robust
+foil
+security
+process
+begin
+bicycle |  
+| bip_39_word_space_0 | ['argue', 'barrel', 'analyst', 'robust', 'foil', 'security', 'process', 'begin', 'bicycle', 'bus', 'young', 'army'] |  
+| bip_39_word_space_1 | argue |  
+| bip_39_word_space_10 | argue barrel analyst robust foil security process begin bicycle bus |  
+| bip_39_word_space_11 | argue barrel analyst robust foil security process begin bicycle bus young |  
+| bip_39_word_space_12 | argue barrel analyst robust foil security process begin bicycle bus young army |  
+| bip_39_word_space_2 | argue barrel |  
+| bip_39_word_space_3 | argue barrel analyst |  
+| bip_39_word_space_4 | argue barrel analyst robust |  
+| bip_39_word_space_5 | argue barrel analyst robust foil |  
+| bip_39_word_space_6 | argue barrel analyst robust foil security |  
+| bip_39_word_space_7 | argue barrel analyst robust foil security process |  
+| bip_39_word_space_8 | argue barrel analyst robust foil security process begin |  
+| bip_39_word_space_9 | argue barrel analyst robust foil security process begin bicycle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

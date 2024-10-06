@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: question claim
+  * bip 39 word 3: question claim camera
+  * bip 39 word: question claim camera nurse you elbow write suspect dentist rubber minor actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | question |  
+| bip_39_word_new_br10 | question<br>claim<br>camera<br>nurse<br>you<br>elbow<br>write<br>suspect<br>dentist<br>rubber |  
+| bip_39_word_new_br11 | question<br>claim<br>camera<br>nurse<br>you<br>elbow<br>write<br>suspect<br>dentist<br>rubber<br>minor |  
+| bip_39_word_new_br12 | question<br>claim<br>camera<br>nurse<br>you<br>elbow<br>write<br>suspect<br>dentist<br>rubber<br>minor<br>actor |  
+| bip_39_word_new_br2 | question<br>claim |  
+| bip_39_word_new_br3 | question<br>claim<br>camera |  
+| bip_39_word_new_br4 | question<br>claim<br>camera<br>nurse |  
+| bip_39_word_new_br5 | question<br>claim<br>camera<br>nurse<br>you |  
+| bip_39_word_new_br6 | question<br>claim<br>camera<br>nurse<br>you<br>elbow |  
+| bip_39_word_new_br7 | question<br>claim<br>camera<br>nurse<br>you<br>elbow<br>write |  
+| bip_39_word_new_br8 | question<br>claim<br>camera<br>nurse<br>you<br>elbow<br>write<br>suspect |  
+| bip_39_word_new_br9 | question<br>claim<br>camera<br>nurse<br>you<br>elbow<br>write<br>suspect<br>dentist |  
+| bip_39_word_new_line1 | question |  
+| bip_39_word_new_line10 | question
+claim
+camera
+nurse
+you
+elbow
+write
+suspect
+dentist
+rubber |  
+| bip_39_word_new_line11 | question
+claim
+camera
+nurse
+you
+elbow
+write
+suspect
+dentist
+rubber
+minor |  
+| bip_39_word_new_line12 | question
+claim
+camera
+nurse
+you
+elbow
+write
+suspect
+dentist
+rubber
+minor
+actor |  
+| bip_39_word_new_line2 | question
+claim |  
+| bip_39_word_new_line3 | question
+claim
+camera |  
+| bip_39_word_new_line4 | question
+claim
+camera
+nurse |  
+| bip_39_word_new_line5 | question
+claim
+camera
+nurse
+you |  
+| bip_39_word_new_line6 | question
+claim
+camera
+nurse
+you
+elbow |  
+| bip_39_word_new_line7 | question
+claim
+camera
+nurse
+you
+elbow
+write |  
+| bip_39_word_new_line8 | question
+claim
+camera
+nurse
+you
+elbow
+write
+suspect |  
+| bip_39_word_new_line9 | question
+claim
+camera
+nurse
+you
+elbow
+write
+suspect
+dentist |  
+| bip_39_word_space_0 | ['question', 'claim', 'camera', 'nurse', 'you', 'elbow', 'write', 'suspect', 'dentist', 'rubber', 'minor', 'actor'] |  
+| bip_39_word_space_1 | question |  
+| bip_39_word_space_10 | question claim camera nurse you elbow write suspect dentist rubber |  
+| bip_39_word_space_11 | question claim camera nurse you elbow write suspect dentist rubber minor |  
+| bip_39_word_space_12 | question claim camera nurse you elbow write suspect dentist rubber minor actor |  
+| bip_39_word_space_2 | question claim |  
+| bip_39_word_space_3 | question claim camera |  
+| bip_39_word_space_4 | question claim camera nurse |  
+| bip_39_word_space_5 | question claim camera nurse you |  
+| bip_39_word_space_6 | question claim camera nurse you elbow |  
+| bip_39_word_space_7 | question claim camera nurse you elbow write |  
+| bip_39_word_space_8 | question claim camera nurse you elbow write suspect |  
+| bip_39_word_space_9 | question claim camera nurse you elbow write suspect dentist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

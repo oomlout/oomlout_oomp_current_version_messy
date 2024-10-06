@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: artwork seven
+  * bip 39 word 3: artwork seven across
+  * bip 39 word: artwork seven across device sunset apple bind media twin visa easily alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | artwork |  
+| bip_39_word_new_br10 | artwork<br>seven<br>across<br>device<br>sunset<br>apple<br>bind<br>media<br>twin<br>visa |  
+| bip_39_word_new_br11 | artwork<br>seven<br>across<br>device<br>sunset<br>apple<br>bind<br>media<br>twin<br>visa<br>easily |  
+| bip_39_word_new_br12 | artwork<br>seven<br>across<br>device<br>sunset<br>apple<br>bind<br>media<br>twin<br>visa<br>easily<br>alter |  
+| bip_39_word_new_br2 | artwork<br>seven |  
+| bip_39_word_new_br3 | artwork<br>seven<br>across |  
+| bip_39_word_new_br4 | artwork<br>seven<br>across<br>device |  
+| bip_39_word_new_br5 | artwork<br>seven<br>across<br>device<br>sunset |  
+| bip_39_word_new_br6 | artwork<br>seven<br>across<br>device<br>sunset<br>apple |  
+| bip_39_word_new_br7 | artwork<br>seven<br>across<br>device<br>sunset<br>apple<br>bind |  
+| bip_39_word_new_br8 | artwork<br>seven<br>across<br>device<br>sunset<br>apple<br>bind<br>media |  
+| bip_39_word_new_br9 | artwork<br>seven<br>across<br>device<br>sunset<br>apple<br>bind<br>media<br>twin |  
+| bip_39_word_new_line1 | artwork |  
+| bip_39_word_new_line10 | artwork
+seven
+across
+device
+sunset
+apple
+bind
+media
+twin
+visa |  
+| bip_39_word_new_line11 | artwork
+seven
+across
+device
+sunset
+apple
+bind
+media
+twin
+visa
+easily |  
+| bip_39_word_new_line12 | artwork
+seven
+across
+device
+sunset
+apple
+bind
+media
+twin
+visa
+easily
+alter |  
+| bip_39_word_new_line2 | artwork
+seven |  
+| bip_39_word_new_line3 | artwork
+seven
+across |  
+| bip_39_word_new_line4 | artwork
+seven
+across
+device |  
+| bip_39_word_new_line5 | artwork
+seven
+across
+device
+sunset |  
+| bip_39_word_new_line6 | artwork
+seven
+across
+device
+sunset
+apple |  
+| bip_39_word_new_line7 | artwork
+seven
+across
+device
+sunset
+apple
+bind |  
+| bip_39_word_new_line8 | artwork
+seven
+across
+device
+sunset
+apple
+bind
+media |  
+| bip_39_word_new_line9 | artwork
+seven
+across
+device
+sunset
+apple
+bind
+media
+twin |  
+| bip_39_word_space_0 | ['artwork', 'seven', 'across', 'device', 'sunset', 'apple', 'bind', 'media', 'twin', 'visa', 'easily', 'alter'] |  
+| bip_39_word_space_1 | artwork |  
+| bip_39_word_space_10 | artwork seven across device sunset apple bind media twin visa |  
+| bip_39_word_space_11 | artwork seven across device sunset apple bind media twin visa easily |  
+| bip_39_word_space_12 | artwork seven across device sunset apple bind media twin visa easily alter |  
+| bip_39_word_space_2 | artwork seven |  
+| bip_39_word_space_3 | artwork seven across |  
+| bip_39_word_space_4 | artwork seven across device |  
+| bip_39_word_space_5 | artwork seven across device sunset |  
+| bip_39_word_space_6 | artwork seven across device sunset apple |  
+| bip_39_word_space_7 | artwork seven across device sunset apple bind |  
+| bip_39_word_space_8 | artwork seven across device sunset apple bind media |  
+| bip_39_word_space_9 | artwork seven across device sunset apple bind media twin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

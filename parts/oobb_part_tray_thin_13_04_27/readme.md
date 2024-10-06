@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exhaust repeat
+  * bip 39 word 3: exhaust repeat volume
+  * bip 39 word: exhaust repeat volume make device gadget cruel bronze october maze foot attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exhaust |  
+| bip_39_word_new_br10 | exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october<br>maze |  
+| bip_39_word_new_br11 | exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october<br>maze<br>foot |  
+| bip_39_word_new_br12 | exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october<br>maze<br>foot<br>attack |  
+| bip_39_word_new_br2 | exhaust<br>repeat |  
+| bip_39_word_new_br3 | exhaust<br>repeat<br>volume |  
+| bip_39_word_new_br4 | exhaust<br>repeat<br>volume<br>make |  
+| bip_39_word_new_br5 | exhaust<br>repeat<br>volume<br>make<br>device |  
+| bip_39_word_new_br6 | exhaust<br>repeat<br>volume<br>make<br>device<br>gadget |  
+| bip_39_word_new_br7 | exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel |  
+| bip_39_word_new_br8 | exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze |  
+| bip_39_word_new_br9 | exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october |  
+| bip_39_word_new_line1 | exhaust |  
+| bip_39_word_new_line10 | exhaust
+repeat
+volume
+make
+device
+gadget
+cruel
+bronze
+october
+maze |  
+| bip_39_word_new_line11 | exhaust
+repeat
+volume
+make
+device
+gadget
+cruel
+bronze
+october
+maze
+foot |  
+| bip_39_word_new_line12 | exhaust
+repeat
+volume
+make
+device
+gadget
+cruel
+bronze
+october
+maze
+foot
+attack |  
+| bip_39_word_new_line2 | exhaust
+repeat |  
+| bip_39_word_new_line3 | exhaust
+repeat
+volume |  
+| bip_39_word_new_line4 | exhaust
+repeat
+volume
+make |  
+| bip_39_word_new_line5 | exhaust
+repeat
+volume
+make
+device |  
+| bip_39_word_new_line6 | exhaust
+repeat
+volume
+make
+device
+gadget |  
+| bip_39_word_new_line7 | exhaust
+repeat
+volume
+make
+device
+gadget
+cruel |  
+| bip_39_word_new_line8 | exhaust
+repeat
+volume
+make
+device
+gadget
+cruel
+bronze |  
+| bip_39_word_new_line9 | exhaust
+repeat
+volume
+make
+device
+gadget
+cruel
+bronze
+october |  
+| bip_39_word_space_0 | ['exhaust', 'repeat', 'volume', 'make', 'device', 'gadget', 'cruel', 'bronze', 'october', 'maze', 'foot', 'attack'] |  
+| bip_39_word_space_1 | exhaust |  
+| bip_39_word_space_10 | exhaust repeat volume make device gadget cruel bronze october maze |  
+| bip_39_word_space_11 | exhaust repeat volume make device gadget cruel bronze october maze foot |  
+| bip_39_word_space_12 | exhaust repeat volume make device gadget cruel bronze october maze foot attack |  
+| bip_39_word_space_2 | exhaust repeat |  
+| bip_39_word_space_3 | exhaust repeat volume |  
+| bip_39_word_space_4 | exhaust repeat volume make |  
+| bip_39_word_space_5 | exhaust repeat volume make device |  
+| bip_39_word_space_6 | exhaust repeat volume make device gadget |  
+| bip_39_word_space_7 | exhaust repeat volume make device gadget cruel |  
+| bip_39_word_space_8 | exhaust repeat volume make device gadget cruel bronze |  
+| bip_39_word_space_9 | exhaust repeat volume make device gadget cruel bronze october |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

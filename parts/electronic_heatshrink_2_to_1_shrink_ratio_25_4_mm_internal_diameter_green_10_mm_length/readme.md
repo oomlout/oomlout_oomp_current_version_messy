@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: require lucky
+  * bip 39 word 3: require lucky forward
+  * bip 39 word: require lucky forward primary extra poverty tattoo increase immense group cotton arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | require |  
+| bip_39_word_new_br10 | require<br>lucky<br>forward<br>primary<br>extra<br>poverty<br>tattoo<br>increase<br>immense<br>group |  
+| bip_39_word_new_br11 | require<br>lucky<br>forward<br>primary<br>extra<br>poverty<br>tattoo<br>increase<br>immense<br>group<br>cotton |  
+| bip_39_word_new_br12 | require<br>lucky<br>forward<br>primary<br>extra<br>poverty<br>tattoo<br>increase<br>immense<br>group<br>cotton<br>arrange |  
+| bip_39_word_new_br2 | require<br>lucky |  
+| bip_39_word_new_br3 | require<br>lucky<br>forward |  
+| bip_39_word_new_br4 | require<br>lucky<br>forward<br>primary |  
+| bip_39_word_new_br5 | require<br>lucky<br>forward<br>primary<br>extra |  
+| bip_39_word_new_br6 | require<br>lucky<br>forward<br>primary<br>extra<br>poverty |  
+| bip_39_word_new_br7 | require<br>lucky<br>forward<br>primary<br>extra<br>poverty<br>tattoo |  
+| bip_39_word_new_br8 | require<br>lucky<br>forward<br>primary<br>extra<br>poverty<br>tattoo<br>increase |  
+| bip_39_word_new_br9 | require<br>lucky<br>forward<br>primary<br>extra<br>poverty<br>tattoo<br>increase<br>immense |  
+| bip_39_word_new_line1 | require |  
+| bip_39_word_new_line10 | require
+lucky
+forward
+primary
+extra
+poverty
+tattoo
+increase
+immense
+group |  
+| bip_39_word_new_line11 | require
+lucky
+forward
+primary
+extra
+poverty
+tattoo
+increase
+immense
+group
+cotton |  
+| bip_39_word_new_line12 | require
+lucky
+forward
+primary
+extra
+poverty
+tattoo
+increase
+immense
+group
+cotton
+arrange |  
+| bip_39_word_new_line2 | require
+lucky |  
+| bip_39_word_new_line3 | require
+lucky
+forward |  
+| bip_39_word_new_line4 | require
+lucky
+forward
+primary |  
+| bip_39_word_new_line5 | require
+lucky
+forward
+primary
+extra |  
+| bip_39_word_new_line6 | require
+lucky
+forward
+primary
+extra
+poverty |  
+| bip_39_word_new_line7 | require
+lucky
+forward
+primary
+extra
+poverty
+tattoo |  
+| bip_39_word_new_line8 | require
+lucky
+forward
+primary
+extra
+poverty
+tattoo
+increase |  
+| bip_39_word_new_line9 | require
+lucky
+forward
+primary
+extra
+poverty
+tattoo
+increase
+immense |  
+| bip_39_word_space_0 | ['require', 'lucky', 'forward', 'primary', 'extra', 'poverty', 'tattoo', 'increase', 'immense', 'group', 'cotton', 'arrange'] |  
+| bip_39_word_space_1 | require |  
+| bip_39_word_space_10 | require lucky forward primary extra poverty tattoo increase immense group |  
+| bip_39_word_space_11 | require lucky forward primary extra poverty tattoo increase immense group cotton |  
+| bip_39_word_space_12 | require lucky forward primary extra poverty tattoo increase immense group cotton arrange |  
+| bip_39_word_space_2 | require lucky |  
+| bip_39_word_space_3 | require lucky forward |  
+| bip_39_word_space_4 | require lucky forward primary |  
+| bip_39_word_space_5 | require lucky forward primary extra |  
+| bip_39_word_space_6 | require lucky forward primary extra poverty |  
+| bip_39_word_space_7 | require lucky forward primary extra poverty tattoo |  
+| bip_39_word_space_8 | require lucky forward primary extra poverty tattoo increase |  
+| bip_39_word_space_9 | require lucky forward primary extra poverty tattoo increase immense |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

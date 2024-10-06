@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dynamic across
+  * bip 39 word 3: dynamic across quiz
+  * bip 39 word: dynamic across quiz tray thought cable slim arctic raccoon reflect giant arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dynamic |  
+| bip_39_word_new_br10 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable<br>slim<br>arctic<br>raccoon<br>reflect |  
+| bip_39_word_new_br11 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable<br>slim<br>arctic<br>raccoon<br>reflect<br>giant |  
+| bip_39_word_new_br12 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable<br>slim<br>arctic<br>raccoon<br>reflect<br>giant<br>arena |  
+| bip_39_word_new_br2 | dynamic<br>across |  
+| bip_39_word_new_br3 | dynamic<br>across<br>quiz |  
+| bip_39_word_new_br4 | dynamic<br>across<br>quiz<br>tray |  
+| bip_39_word_new_br5 | dynamic<br>across<br>quiz<br>tray<br>thought |  
+| bip_39_word_new_br6 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable |  
+| bip_39_word_new_br7 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable<br>slim |  
+| bip_39_word_new_br8 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable<br>slim<br>arctic |  
+| bip_39_word_new_br9 | dynamic<br>across<br>quiz<br>tray<br>thought<br>cable<br>slim<br>arctic<br>raccoon |  
+| bip_39_word_new_line1 | dynamic |  
+| bip_39_word_new_line10 | dynamic
+across
+quiz
+tray
+thought
+cable
+slim
+arctic
+raccoon
+reflect |  
+| bip_39_word_new_line11 | dynamic
+across
+quiz
+tray
+thought
+cable
+slim
+arctic
+raccoon
+reflect
+giant |  
+| bip_39_word_new_line12 | dynamic
+across
+quiz
+tray
+thought
+cable
+slim
+arctic
+raccoon
+reflect
+giant
+arena |  
+| bip_39_word_new_line2 | dynamic
+across |  
+| bip_39_word_new_line3 | dynamic
+across
+quiz |  
+| bip_39_word_new_line4 | dynamic
+across
+quiz
+tray |  
+| bip_39_word_new_line5 | dynamic
+across
+quiz
+tray
+thought |  
+| bip_39_word_new_line6 | dynamic
+across
+quiz
+tray
+thought
+cable |  
+| bip_39_word_new_line7 | dynamic
+across
+quiz
+tray
+thought
+cable
+slim |  
+| bip_39_word_new_line8 | dynamic
+across
+quiz
+tray
+thought
+cable
+slim
+arctic |  
+| bip_39_word_new_line9 | dynamic
+across
+quiz
+tray
+thought
+cable
+slim
+arctic
+raccoon |  
+| bip_39_word_space_0 | ['dynamic', 'across', 'quiz', 'tray', 'thought', 'cable', 'slim', 'arctic', 'raccoon', 'reflect', 'giant', 'arena'] |  
+| bip_39_word_space_1 | dynamic |  
+| bip_39_word_space_10 | dynamic across quiz tray thought cable slim arctic raccoon reflect |  
+| bip_39_word_space_11 | dynamic across quiz tray thought cable slim arctic raccoon reflect giant |  
+| bip_39_word_space_12 | dynamic across quiz tray thought cable slim arctic raccoon reflect giant arena |  
+| bip_39_word_space_2 | dynamic across |  
+| bip_39_word_space_3 | dynamic across quiz |  
+| bip_39_word_space_4 | dynamic across quiz tray |  
+| bip_39_word_space_5 | dynamic across quiz tray thought |  
+| bip_39_word_space_6 | dynamic across quiz tray thought cable |  
+| bip_39_word_space_7 | dynamic across quiz tray thought cable slim |  
+| bip_39_word_space_8 | dynamic across quiz tray thought cable slim arctic |  
+| bip_39_word_space_9 | dynamic across quiz tray thought cable slim arctic raccoon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: bolt_stacker
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: strong prosper
+  * bip 39 word 3: strong prosper enter
+  * bip 39 word: strong prosper enter baby find improve power pluck patrol anchor spring amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | strong |  
+| bip_39_word_new_br10 | strong<br>prosper<br>enter<br>baby<br>find<br>improve<br>power<br>pluck<br>patrol<br>anchor |  
+| bip_39_word_new_br11 | strong<br>prosper<br>enter<br>baby<br>find<br>improve<br>power<br>pluck<br>patrol<br>anchor<br>spring |  
+| bip_39_word_new_br12 | strong<br>prosper<br>enter<br>baby<br>find<br>improve<br>power<br>pluck<br>patrol<br>anchor<br>spring<br>amateur |  
+| bip_39_word_new_br2 | strong<br>prosper |  
+| bip_39_word_new_br3 | strong<br>prosper<br>enter |  
+| bip_39_word_new_br4 | strong<br>prosper<br>enter<br>baby |  
+| bip_39_word_new_br5 | strong<br>prosper<br>enter<br>baby<br>find |  
+| bip_39_word_new_br6 | strong<br>prosper<br>enter<br>baby<br>find<br>improve |  
+| bip_39_word_new_br7 | strong<br>prosper<br>enter<br>baby<br>find<br>improve<br>power |  
+| bip_39_word_new_br8 | strong<br>prosper<br>enter<br>baby<br>find<br>improve<br>power<br>pluck |  
+| bip_39_word_new_br9 | strong<br>prosper<br>enter<br>baby<br>find<br>improve<br>power<br>pluck<br>patrol |  
+| bip_39_word_new_line1 | strong |  
+| bip_39_word_new_line10 | strong
+prosper
+enter
+baby
+find
+improve
+power
+pluck
+patrol
+anchor |  
+| bip_39_word_new_line11 | strong
+prosper
+enter
+baby
+find
+improve
+power
+pluck
+patrol
+anchor
+spring |  
+| bip_39_word_new_line12 | strong
+prosper
+enter
+baby
+find
+improve
+power
+pluck
+patrol
+anchor
+spring
+amateur |  
+| bip_39_word_new_line2 | strong
+prosper |  
+| bip_39_word_new_line3 | strong
+prosper
+enter |  
+| bip_39_word_new_line4 | strong
+prosper
+enter
+baby |  
+| bip_39_word_new_line5 | strong
+prosper
+enter
+baby
+find |  
+| bip_39_word_new_line6 | strong
+prosper
+enter
+baby
+find
+improve |  
+| bip_39_word_new_line7 | strong
+prosper
+enter
+baby
+find
+improve
+power |  
+| bip_39_word_new_line8 | strong
+prosper
+enter
+baby
+find
+improve
+power
+pluck |  
+| bip_39_word_new_line9 | strong
+prosper
+enter
+baby
+find
+improve
+power
+pluck
+patrol |  
+| bip_39_word_space_0 | ['strong', 'prosper', 'enter', 'baby', 'find', 'improve', 'power', 'pluck', 'patrol', 'anchor', 'spring', 'amateur'] |  
+| bip_39_word_space_1 | strong |  
+| bip_39_word_space_10 | strong prosper enter baby find improve power pluck patrol anchor |  
+| bip_39_word_space_11 | strong prosper enter baby find improve power pluck patrol anchor spring |  
+| bip_39_word_space_12 | strong prosper enter baby find improve power pluck patrol anchor spring amateur |  
+| bip_39_word_space_2 | strong prosper |  
+| bip_39_word_space_3 | strong prosper enter |  
+| bip_39_word_space_4 | strong prosper enter baby |  
+| bip_39_word_space_5 | strong prosper enter baby find |  
+| bip_39_word_space_6 | strong prosper enter baby find improve |  
+| bip_39_word_space_7 | strong prosper enter baby find improve power |  
+| bip_39_word_space_8 | strong prosper enter baby find improve power pluck |  
+| bip_39_word_space_9 | strong prosper enter baby find improve power pluck patrol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

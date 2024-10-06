@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: train mixture
+  * bip 39 word 3: train mixture filter
+  * bip 39 word: train mixture filter decrease want bird today elite mammal tennis club absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | train |  
+| bip_39_word_new_br10 | train<br>mixture<br>filter<br>decrease<br>want<br>bird<br>today<br>elite<br>mammal<br>tennis |  
+| bip_39_word_new_br11 | train<br>mixture<br>filter<br>decrease<br>want<br>bird<br>today<br>elite<br>mammal<br>tennis<br>club |  
+| bip_39_word_new_br12 | train<br>mixture<br>filter<br>decrease<br>want<br>bird<br>today<br>elite<br>mammal<br>tennis<br>club<br>absent |  
+| bip_39_word_new_br2 | train<br>mixture |  
+| bip_39_word_new_br3 | train<br>mixture<br>filter |  
+| bip_39_word_new_br4 | train<br>mixture<br>filter<br>decrease |  
+| bip_39_word_new_br5 | train<br>mixture<br>filter<br>decrease<br>want |  
+| bip_39_word_new_br6 | train<br>mixture<br>filter<br>decrease<br>want<br>bird |  
+| bip_39_word_new_br7 | train<br>mixture<br>filter<br>decrease<br>want<br>bird<br>today |  
+| bip_39_word_new_br8 | train<br>mixture<br>filter<br>decrease<br>want<br>bird<br>today<br>elite |  
+| bip_39_word_new_br9 | train<br>mixture<br>filter<br>decrease<br>want<br>bird<br>today<br>elite<br>mammal |  
+| bip_39_word_new_line1 | train |  
+| bip_39_word_new_line10 | train
+mixture
+filter
+decrease
+want
+bird
+today
+elite
+mammal
+tennis |  
+| bip_39_word_new_line11 | train
+mixture
+filter
+decrease
+want
+bird
+today
+elite
+mammal
+tennis
+club |  
+| bip_39_word_new_line12 | train
+mixture
+filter
+decrease
+want
+bird
+today
+elite
+mammal
+tennis
+club
+absent |  
+| bip_39_word_new_line2 | train
+mixture |  
+| bip_39_word_new_line3 | train
+mixture
+filter |  
+| bip_39_word_new_line4 | train
+mixture
+filter
+decrease |  
+| bip_39_word_new_line5 | train
+mixture
+filter
+decrease
+want |  
+| bip_39_word_new_line6 | train
+mixture
+filter
+decrease
+want
+bird |  
+| bip_39_word_new_line7 | train
+mixture
+filter
+decrease
+want
+bird
+today |  
+| bip_39_word_new_line8 | train
+mixture
+filter
+decrease
+want
+bird
+today
+elite |  
+| bip_39_word_new_line9 | train
+mixture
+filter
+decrease
+want
+bird
+today
+elite
+mammal |  
+| bip_39_word_space_0 | ['train', 'mixture', 'filter', 'decrease', 'want', 'bird', 'today', 'elite', 'mammal', 'tennis', 'club', 'absent'] |  
+| bip_39_word_space_1 | train |  
+| bip_39_word_space_10 | train mixture filter decrease want bird today elite mammal tennis |  
+| bip_39_word_space_11 | train mixture filter decrease want bird today elite mammal tennis club |  
+| bip_39_word_space_12 | train mixture filter decrease want bird today elite mammal tennis club absent |  
+| bip_39_word_space_2 | train mixture |  
+| bip_39_word_space_3 | train mixture filter |  
+| bip_39_word_space_4 | train mixture filter decrease |  
+| bip_39_word_space_5 | train mixture filter decrease want |  
+| bip_39_word_space_6 | train mixture filter decrease want bird |  
+| bip_39_word_space_7 | train mixture filter decrease want bird today |  
+| bip_39_word_space_8 | train mixture filter decrease want bird today elite |  
+| bip_39_word_space_9 | train mixture filter decrease want bird today elite mammal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

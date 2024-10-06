@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: learn speak
+  * bip 39 word 3: learn speak inhale
+  * bip 39 word: learn speak inhale talent ask thought engine recipe series kiwi fence absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | learn |  
+| bip_39_word_new_br10 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought<br>engine<br>recipe<br>series<br>kiwi |  
+| bip_39_word_new_br11 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought<br>engine<br>recipe<br>series<br>kiwi<br>fence |  
+| bip_39_word_new_br12 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought<br>engine<br>recipe<br>series<br>kiwi<br>fence<br>absorb |  
+| bip_39_word_new_br2 | learn<br>speak |  
+| bip_39_word_new_br3 | learn<br>speak<br>inhale |  
+| bip_39_word_new_br4 | learn<br>speak<br>inhale<br>talent |  
+| bip_39_word_new_br5 | learn<br>speak<br>inhale<br>talent<br>ask |  
+| bip_39_word_new_br6 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought |  
+| bip_39_word_new_br7 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought<br>engine |  
+| bip_39_word_new_br8 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought<br>engine<br>recipe |  
+| bip_39_word_new_br9 | learn<br>speak<br>inhale<br>talent<br>ask<br>thought<br>engine<br>recipe<br>series |  
+| bip_39_word_new_line1 | learn |  
+| bip_39_word_new_line10 | learn
+speak
+inhale
+talent
+ask
+thought
+engine
+recipe
+series
+kiwi |  
+| bip_39_word_new_line11 | learn
+speak
+inhale
+talent
+ask
+thought
+engine
+recipe
+series
+kiwi
+fence |  
+| bip_39_word_new_line12 | learn
+speak
+inhale
+talent
+ask
+thought
+engine
+recipe
+series
+kiwi
+fence
+absorb |  
+| bip_39_word_new_line2 | learn
+speak |  
+| bip_39_word_new_line3 | learn
+speak
+inhale |  
+| bip_39_word_new_line4 | learn
+speak
+inhale
+talent |  
+| bip_39_word_new_line5 | learn
+speak
+inhale
+talent
+ask |  
+| bip_39_word_new_line6 | learn
+speak
+inhale
+talent
+ask
+thought |  
+| bip_39_word_new_line7 | learn
+speak
+inhale
+talent
+ask
+thought
+engine |  
+| bip_39_word_new_line8 | learn
+speak
+inhale
+talent
+ask
+thought
+engine
+recipe |  
+| bip_39_word_new_line9 | learn
+speak
+inhale
+talent
+ask
+thought
+engine
+recipe
+series |  
+| bip_39_word_space_0 | ['learn', 'speak', 'inhale', 'talent', 'ask', 'thought', 'engine', 'recipe', 'series', 'kiwi', 'fence', 'absorb'] |  
+| bip_39_word_space_1 | learn |  
+| bip_39_word_space_10 | learn speak inhale talent ask thought engine recipe series kiwi |  
+| bip_39_word_space_11 | learn speak inhale talent ask thought engine recipe series kiwi fence |  
+| bip_39_word_space_12 | learn speak inhale talent ask thought engine recipe series kiwi fence absorb |  
+| bip_39_word_space_2 | learn speak |  
+| bip_39_word_space_3 | learn speak inhale |  
+| bip_39_word_space_4 | learn speak inhale talent |  
+| bip_39_word_space_5 | learn speak inhale talent ask |  
+| bip_39_word_space_6 | learn speak inhale talent ask thought |  
+| bip_39_word_space_7 | learn speak inhale talent ask thought engine |  
+| bip_39_word_space_8 | learn speak inhale talent ask thought engine recipe |  
+| bip_39_word_space_9 | learn speak inhale talent ask thought engine recipe series |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: junk
+bip_39_word_new_br10: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very
+bip_39_word_new_br11: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim
+bip_39_word_new_br12: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim<br>analyst
+bip_39_word_new_br2: junk<br>hobby
+bip_39_word_new_br3: junk<br>hobby<br>crack
+bip_39_word_new_br4: junk<br>hobby<br>crack<br>charge
+bip_39_word_new_br5: junk<br>hobby<br>crack<br>charge<br>master
+bip_39_word_new_br6: junk<br>hobby<br>crack<br>charge<br>master<br>island
+bip_39_word_new_br7: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint
+bip_39_word_new_br8: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw
+bip_39_word_new_br9: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term
+bip_39_word_new_line1: junk
+bip_39_word_new_line10: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw
+
+  term
+
+  very'
+bip_39_word_new_line11: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw
+
+  term
+
+  very
+
+  swim'
+bip_39_word_new_line12: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw
+
+  term
+
+  very
+
+  swim
+
+  analyst'
+bip_39_word_new_line2: 'junk
+
+  hobby'
+bip_39_word_new_line3: 'junk
+
+  hobby
+
+  crack'
+bip_39_word_new_line4: 'junk
+
+  hobby
+
+  crack
+
+  charge'
+bip_39_word_new_line5: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master'
+bip_39_word_new_line6: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island'
+bip_39_word_new_line7: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint'
+bip_39_word_new_line8: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw'
+bip_39_word_new_line9: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw
+
+  term'
+bip_39_word_space_0:
+- junk
+- hobby
+- crack
+- charge
+- master
+- island
+- hint
+- claw
+- term
+- very
+- swim
+- analyst
+bip_39_word_space_1: junk
+bip_39_word_space_10: junk hobby crack charge master island hint claw term very
+bip_39_word_space_11: junk hobby crack charge master island hint claw term very swim
+bip_39_word_space_12: junk hobby crack charge master island hint claw term very swim
+  analyst
+bip_39_word_space_2: junk hobby
+bip_39_word_space_3: junk hobby crack
+bip_39_word_space_4: junk hobby crack charge
+bip_39_word_space_5: junk hobby crack charge master
+bip_39_word_space_6: junk hobby crack charge master island
+bip_39_word_space_7: junk hobby crack charge master island hint
+bip_39_word_space_8: junk hobby crack charge master island hint claw
+bip_39_word_space_9: junk hobby crack charge master island hint claw term
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,160 @@
+bip_39_word_new_br1: execute
+bip_39_word_new_br10: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport<br>photo
+bip_39_word_new_br11: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport<br>photo<br>crane
+bip_39_word_new_br2: execute<br>yellow
+bip_39_word_new_br3: execute<br>yellow<br>unaware
+bip_39_word_new_br4: execute<br>yellow<br>unaware<br>panic
+bip_39_word_new_br5: execute<br>yellow<br>unaware<br>panic<br>place
+bip_39_word_new_br6: execute<br>yellow<br>unaware<br>panic<br>place<br>zero
+bip_39_word_new_br7: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday
+bip_39_word_new_br8: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck
+bip_39_word_new_br9: execute<br>yellow<br>unaware<br>panic<br>place<br>zero<br>holiday<br>pluck<br>sport
+bip_39_word_new_line1: execute
+bip_39_word_new_line10: 'execute
+
+  yellow
+
+  unaware
+
+  panic
+
+  place
+
+  zero
+
+  holiday
+
+  pluck
+
+  sport
+
+  photo'
+bip_39_word_new_line11: 'execute
+
+  yellow
+
+  unaware
+
+  panic
+
+  place
+
+  zero
+
+  holiday
+
+  pluck
+
+  sport
+
+  photo
+
+  crane'
+bip_39_word_new_line2: 'execute
+
+  yellow'
+bip_39_word_new_line3: 'execute
+
+  yellow
+
+  unaware'
+bip_39_word_new_line4: 'execute
+
+  yellow
+
+  unaware
+
+  panic'
+bip_39_word_new_line5: 'execute
+
+  yellow
+
+  unaware
+
+  panic
+
+  place'
+bip_39_word_new_line6: 'execute
+
+  yellow
+
+  unaware
+
+  panic
+
+  place
+
+  zero'
+bip_39_word_new_line7: 'execute
+
+  yellow
+
+  unaware
+
+  panic
+
+  place
+
+  zero
+
+  holiday'
+bip_39_word_new_line8: 'execute
+
+  yellow
+
+  unaware
+
+  panic
+
+  place
+
+  zero
+
+  holiday
+
+  pluck'
+bip_39_word_new_line9: 'execute
+
+  yellow
+
+  unaware
+
+  panic
+
+  place
+
+  zero
+
+  holiday
+
+  pluck
+
+  sport'
+bip_39_word_space_0:
+- execute
+- yellow
+- unaware
+- panic
+- place
+- zero
+- holiday
+- pluck
+- sport
+- photo
+- crane
+bip_39_word_space_1: execute
+bip_39_word_space_10: execute yellow unaware panic place zero holiday pluck sport
+  photo
+bip_39_word_space_11: execute yellow unaware panic place zero holiday pluck sport
+  photo crane
+bip_39_word_space_2: execute yellow
+bip_39_word_space_3: execute yellow unaware
+bip_39_word_space_4: execute yellow unaware panic
+bip_39_word_space_5: execute yellow unaware panic place
+bip_39_word_space_6: execute yellow unaware panic place zero
+bip_39_word_space_7: execute yellow unaware panic place zero holiday
+bip_39_word_space_8: execute yellow unaware panic place zero holiday pluck
+bip_39_word_space_9: execute yellow unaware panic place zero holiday pluck sport
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

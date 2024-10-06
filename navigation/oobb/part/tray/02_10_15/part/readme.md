@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kitten inflict
+  * bip 39 word 3: kitten inflict jar
+  * bip 39 word: kitten inflict jar grain plastic thought mirror crush proof nephew off already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kitten |  
+| bip_39_word_new_br10 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought<br>mirror<br>crush<br>proof<br>nephew |  
+| bip_39_word_new_br11 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought<br>mirror<br>crush<br>proof<br>nephew<br>off |  
+| bip_39_word_new_br12 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought<br>mirror<br>crush<br>proof<br>nephew<br>off<br>already |  
+| bip_39_word_new_br2 | kitten<br>inflict |  
+| bip_39_word_new_br3 | kitten<br>inflict<br>jar |  
+| bip_39_word_new_br4 | kitten<br>inflict<br>jar<br>grain |  
+| bip_39_word_new_br5 | kitten<br>inflict<br>jar<br>grain<br>plastic |  
+| bip_39_word_new_br6 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought |  
+| bip_39_word_new_br7 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought<br>mirror |  
+| bip_39_word_new_br8 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought<br>mirror<br>crush |  
+| bip_39_word_new_br9 | kitten<br>inflict<br>jar<br>grain<br>plastic<br>thought<br>mirror<br>crush<br>proof |  
+| bip_39_word_new_line1 | kitten |  
+| bip_39_word_new_line10 | kitten
+inflict
+jar
+grain
+plastic
+thought
+mirror
+crush
+proof
+nephew |  
+| bip_39_word_new_line11 | kitten
+inflict
+jar
+grain
+plastic
+thought
+mirror
+crush
+proof
+nephew
+off |  
+| bip_39_word_new_line12 | kitten
+inflict
+jar
+grain
+plastic
+thought
+mirror
+crush
+proof
+nephew
+off
+already |  
+| bip_39_word_new_line2 | kitten
+inflict |  
+| bip_39_word_new_line3 | kitten
+inflict
+jar |  
+| bip_39_word_new_line4 | kitten
+inflict
+jar
+grain |  
+| bip_39_word_new_line5 | kitten
+inflict
+jar
+grain
+plastic |  
+| bip_39_word_new_line6 | kitten
+inflict
+jar
+grain
+plastic
+thought |  
+| bip_39_word_new_line7 | kitten
+inflict
+jar
+grain
+plastic
+thought
+mirror |  
+| bip_39_word_new_line8 | kitten
+inflict
+jar
+grain
+plastic
+thought
+mirror
+crush |  
+| bip_39_word_new_line9 | kitten
+inflict
+jar
+grain
+plastic
+thought
+mirror
+crush
+proof |  
+| bip_39_word_space_0 | ['kitten', 'inflict', 'jar', 'grain', 'plastic', 'thought', 'mirror', 'crush', 'proof', 'nephew', 'off', 'already'] |  
+| bip_39_word_space_1 | kitten |  
+| bip_39_word_space_10 | kitten inflict jar grain plastic thought mirror crush proof nephew |  
+| bip_39_word_space_11 | kitten inflict jar grain plastic thought mirror crush proof nephew off |  
+| bip_39_word_space_12 | kitten inflict jar grain plastic thought mirror crush proof nephew off already |  
+| bip_39_word_space_2 | kitten inflict |  
+| bip_39_word_space_3 | kitten inflict jar |  
+| bip_39_word_space_4 | kitten inflict jar grain |  
+| bip_39_word_space_5 | kitten inflict jar grain plastic |  
+| bip_39_word_space_6 | kitten inflict jar grain plastic thought |  
+| bip_39_word_space_7 | kitten inflict jar grain plastic thought mirror |  
+| bip_39_word_space_8 | kitten inflict jar grain plastic thought mirror crush |  
+| bip_39_word_space_9 | kitten inflict jar grain plastic thought mirror crush proof |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

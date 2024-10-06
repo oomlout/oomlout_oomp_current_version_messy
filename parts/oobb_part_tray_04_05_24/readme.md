@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sniff maple
+  * bip 39 word 3: sniff maple solar
+  * bip 39 word: sniff maple solar helmet good note lucky umbrella boss jar update action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sniff |  
+| bip_39_word_new_br10 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar |  
+| bip_39_word_new_br11 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar<br>update |  
+| bip_39_word_new_br12 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss<br>jar<br>update<br>action |  
+| bip_39_word_new_br2 | sniff<br>maple |  
+| bip_39_word_new_br3 | sniff<br>maple<br>solar |  
+| bip_39_word_new_br4 | sniff<br>maple<br>solar<br>helmet |  
+| bip_39_word_new_br5 | sniff<br>maple<br>solar<br>helmet<br>good |  
+| bip_39_word_new_br6 | sniff<br>maple<br>solar<br>helmet<br>good<br>note |  
+| bip_39_word_new_br7 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky |  
+| bip_39_word_new_br8 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella |  
+| bip_39_word_new_br9 | sniff<br>maple<br>solar<br>helmet<br>good<br>note<br>lucky<br>umbrella<br>boss |  
+| bip_39_word_new_line1 | sniff |  
+| bip_39_word_new_line10 | sniff
+maple
+solar
+helmet
+good
+note
+lucky
+umbrella
+boss
+jar |  
+| bip_39_word_new_line11 | sniff
+maple
+solar
+helmet
+good
+note
+lucky
+umbrella
+boss
+jar
+update |  
+| bip_39_word_new_line12 | sniff
+maple
+solar
+helmet
+good
+note
+lucky
+umbrella
+boss
+jar
+update
+action |  
+| bip_39_word_new_line2 | sniff
+maple |  
+| bip_39_word_new_line3 | sniff
+maple
+solar |  
+| bip_39_word_new_line4 | sniff
+maple
+solar
+helmet |  
+| bip_39_word_new_line5 | sniff
+maple
+solar
+helmet
+good |  
+| bip_39_word_new_line6 | sniff
+maple
+solar
+helmet
+good
+note |  
+| bip_39_word_new_line7 | sniff
+maple
+solar
+helmet
+good
+note
+lucky |  
+| bip_39_word_new_line8 | sniff
+maple
+solar
+helmet
+good
+note
+lucky
+umbrella |  
+| bip_39_word_new_line9 | sniff
+maple
+solar
+helmet
+good
+note
+lucky
+umbrella
+boss |  
+| bip_39_word_space_0 | ['sniff', 'maple', 'solar', 'helmet', 'good', 'note', 'lucky', 'umbrella', 'boss', 'jar', 'update', 'action'] |  
+| bip_39_word_space_1 | sniff |  
+| bip_39_word_space_10 | sniff maple solar helmet good note lucky umbrella boss jar |  
+| bip_39_word_space_11 | sniff maple solar helmet good note lucky umbrella boss jar update |  
+| bip_39_word_space_12 | sniff maple solar helmet good note lucky umbrella boss jar update action |  
+| bip_39_word_space_2 | sniff maple |  
+| bip_39_word_space_3 | sniff maple solar |  
+| bip_39_word_space_4 | sniff maple solar helmet |  
+| bip_39_word_space_5 | sniff maple solar helmet good |  
+| bip_39_word_space_6 | sniff maple solar helmet good note |  
+| bip_39_word_space_7 | sniff maple solar helmet good note lucky |  
+| bip_39_word_space_8 | sniff maple solar helmet good note lucky umbrella |  
+| bip_39_word_space_9 | sniff maple solar helmet good note lucky umbrella boss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

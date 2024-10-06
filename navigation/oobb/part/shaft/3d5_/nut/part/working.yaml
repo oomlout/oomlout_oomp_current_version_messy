@@ -1,3 +1,187 @@
+bip_39_word_new_br1: better
+bip_39_word_new_br10: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance<br>envelope<br>include<br>material<br>frost
+bip_39_word_new_br11: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance<br>envelope<br>include<br>material<br>frost<br>kiwi
+bip_39_word_new_br12: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance<br>envelope<br>include<br>material<br>frost<br>kiwi<br>apology
+bip_39_word_new_br2: better<br>mercy
+bip_39_word_new_br3: better<br>mercy<br>dinosaur
+bip_39_word_new_br4: better<br>mercy<br>dinosaur<br>library
+bip_39_word_new_br5: better<br>mercy<br>dinosaur<br>library<br>soda
+bip_39_word_new_br6: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance
+bip_39_word_new_br7: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance<br>envelope
+bip_39_word_new_br8: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance<br>envelope<br>include
+bip_39_word_new_br9: better<br>mercy<br>dinosaur<br>library<br>soda<br>balance<br>envelope<br>include<br>material
+bip_39_word_new_line1: better
+bip_39_word_new_line10: 'better
+
+  mercy
+
+  dinosaur
+
+  library
+
+  soda
+
+  balance
+
+  envelope
+
+  include
+
+  material
+
+  frost'
+bip_39_word_new_line11: 'better
+
+  mercy
+
+  dinosaur
+
+  library
+
+  soda
+
+  balance
+
+  envelope
+
+  include
+
+  material
+
+  frost
+
+  kiwi'
+bip_39_word_new_line12: 'better
+
+  mercy
+
+  dinosaur
+
+  library
+
+  soda
+
+  balance
+
+  envelope
+
+  include
+
+  material
+
+  frost
+
+  kiwi
+
+  apology'
+bip_39_word_new_line2: 'better
+
+  mercy'
+bip_39_word_new_line3: 'better
+
+  mercy
+
+  dinosaur'
+bip_39_word_new_line4: 'better
+
+  mercy
+
+  dinosaur
+
+  library'
+bip_39_word_new_line5: 'better
+
+  mercy
+
+  dinosaur
+
+  library
+
+  soda'
+bip_39_word_new_line6: 'better
+
+  mercy
+
+  dinosaur
+
+  library
+
+  soda
+
+  balance'
+bip_39_word_new_line7: 'better
+
+  mercy
+
+  dinosaur
+
+  library
+
+  soda
+
+  balance
+
+  envelope'
+bip_39_word_new_line8: 'better
+
+  mercy
+
+  dinosaur
+
+  library
+
+  soda
+
+  balance
+
+  envelope
+
+  include'
+bip_39_word_new_line9: 'better
+
+  mercy
+
+  dinosaur
+
+  library
+
+  soda
+
+  balance
+
+  envelope
+
+  include
+
+  material'
+bip_39_word_space_0:
+- better
+- mercy
+- dinosaur
+- library
+- soda
+- balance
+- envelope
+- include
+- material
+- frost
+- kiwi
+- apology
+bip_39_word_space_1: better
+bip_39_word_space_10: better mercy dinosaur library soda balance envelope include
+  material frost
+bip_39_word_space_11: better mercy dinosaur library soda balance envelope include
+  material frost kiwi
+bip_39_word_space_12: better mercy dinosaur library soda balance envelope include
+  material frost kiwi apology
+bip_39_word_space_2: better mercy
+bip_39_word_space_3: better mercy dinosaur
+bip_39_word_space_4: better mercy dinosaur library
+bip_39_word_space_5: better mercy dinosaur library soda
+bip_39_word_space_6: better mercy dinosaur library soda balance
+bip_39_word_space_7: better mercy dinosaur library soda balance envelope
+bip_39_word_space_8: better mercy dinosaur library soda balance envelope include
+bip_39_word_space_9: better mercy dinosaur library soda balance envelope include material
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

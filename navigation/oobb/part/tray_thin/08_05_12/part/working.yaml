@@ -1,3 +1,186 @@
+bip_39_word_new_br1: idea
+bip_39_word_new_br10: idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property
+bip_39_word_new_br11: idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property<br>deliver
+bip_39_word_new_br12: idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle<br>property<br>deliver<br>apple
+bip_39_word_new_br2: idea<br>setup
+bip_39_word_new_br3: idea<br>setup<br>odor
+bip_39_word_new_br4: idea<br>setup<br>odor<br>small
+bip_39_word_new_br5: idea<br>setup<br>odor<br>small<br>damp
+bip_39_word_new_br6: idea<br>setup<br>odor<br>small<br>damp<br>oxygen
+bip_39_word_new_br7: idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward
+bip_39_word_new_br8: idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware
+bip_39_word_new_br9: idea<br>setup<br>odor<br>small<br>damp<br>oxygen<br>forward<br>aware<br>settle
+bip_39_word_new_line1: idea
+bip_39_word_new_line10: 'idea
+
+  setup
+
+  odor
+
+  small
+
+  damp
+
+  oxygen
+
+  forward
+
+  aware
+
+  settle
+
+  property'
+bip_39_word_new_line11: 'idea
+
+  setup
+
+  odor
+
+  small
+
+  damp
+
+  oxygen
+
+  forward
+
+  aware
+
+  settle
+
+  property
+
+  deliver'
+bip_39_word_new_line12: 'idea
+
+  setup
+
+  odor
+
+  small
+
+  damp
+
+  oxygen
+
+  forward
+
+  aware
+
+  settle
+
+  property
+
+  deliver
+
+  apple'
+bip_39_word_new_line2: 'idea
+
+  setup'
+bip_39_word_new_line3: 'idea
+
+  setup
+
+  odor'
+bip_39_word_new_line4: 'idea
+
+  setup
+
+  odor
+
+  small'
+bip_39_word_new_line5: 'idea
+
+  setup
+
+  odor
+
+  small
+
+  damp'
+bip_39_word_new_line6: 'idea
+
+  setup
+
+  odor
+
+  small
+
+  damp
+
+  oxygen'
+bip_39_word_new_line7: 'idea
+
+  setup
+
+  odor
+
+  small
+
+  damp
+
+  oxygen
+
+  forward'
+bip_39_word_new_line8: 'idea
+
+  setup
+
+  odor
+
+  small
+
+  damp
+
+  oxygen
+
+  forward
+
+  aware'
+bip_39_word_new_line9: 'idea
+
+  setup
+
+  odor
+
+  small
+
+  damp
+
+  oxygen
+
+  forward
+
+  aware
+
+  settle'
+bip_39_word_space_0:
+- idea
+- setup
+- odor
+- small
+- damp
+- oxygen
+- forward
+- aware
+- settle
+- property
+- deliver
+- apple
+bip_39_word_space_1: idea
+bip_39_word_space_10: idea setup odor small damp oxygen forward aware settle property
+bip_39_word_space_11: idea setup odor small damp oxygen forward aware settle property
+  deliver
+bip_39_word_space_12: idea setup odor small damp oxygen forward aware settle property
+  deliver apple
+bip_39_word_space_2: idea setup
+bip_39_word_space_3: idea setup odor
+bip_39_word_space_4: idea setup odor small
+bip_39_word_space_5: idea setup odor small damp
+bip_39_word_space_6: idea setup odor small damp oxygen
+bip_39_word_space_7: idea setup odor small damp oxygen forward
+bip_39_word_space_8: idea setup odor small damp oxygen forward aware
+bip_39_word_space_9: idea setup odor small damp oxygen forward aware settle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

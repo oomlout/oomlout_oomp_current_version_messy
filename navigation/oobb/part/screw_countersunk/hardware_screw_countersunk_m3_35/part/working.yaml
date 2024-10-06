@@ -1,3 +1,186 @@
+bip_39_word_new_br1: treat
+bip_39_word_new_br10: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry<br>undo<br>eternal<br>clip<br>spin
+bip_39_word_new_br11: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry<br>undo<br>eternal<br>clip<br>spin<br>excite
+bip_39_word_new_br12: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry<br>undo<br>eternal<br>clip<br>spin<br>excite<br>absurd
+bip_39_word_new_br2: treat<br>cruise
+bip_39_word_new_br3: treat<br>cruise<br>valley
+bip_39_word_new_br4: treat<br>cruise<br>valley<br>worry
+bip_39_word_new_br5: treat<br>cruise<br>valley<br>worry<br>transfer
+bip_39_word_new_br6: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry
+bip_39_word_new_br7: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry<br>undo
+bip_39_word_new_br8: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry<br>undo<br>eternal
+bip_39_word_new_br9: treat<br>cruise<br>valley<br>worry<br>transfer<br>merry<br>undo<br>eternal<br>clip
+bip_39_word_new_line1: treat
+bip_39_word_new_line10: 'treat
+
+  cruise
+
+  valley
+
+  worry
+
+  transfer
+
+  merry
+
+  undo
+
+  eternal
+
+  clip
+
+  spin'
+bip_39_word_new_line11: 'treat
+
+  cruise
+
+  valley
+
+  worry
+
+  transfer
+
+  merry
+
+  undo
+
+  eternal
+
+  clip
+
+  spin
+
+  excite'
+bip_39_word_new_line12: 'treat
+
+  cruise
+
+  valley
+
+  worry
+
+  transfer
+
+  merry
+
+  undo
+
+  eternal
+
+  clip
+
+  spin
+
+  excite
+
+  absurd'
+bip_39_word_new_line2: 'treat
+
+  cruise'
+bip_39_word_new_line3: 'treat
+
+  cruise
+
+  valley'
+bip_39_word_new_line4: 'treat
+
+  cruise
+
+  valley
+
+  worry'
+bip_39_word_new_line5: 'treat
+
+  cruise
+
+  valley
+
+  worry
+
+  transfer'
+bip_39_word_new_line6: 'treat
+
+  cruise
+
+  valley
+
+  worry
+
+  transfer
+
+  merry'
+bip_39_word_new_line7: 'treat
+
+  cruise
+
+  valley
+
+  worry
+
+  transfer
+
+  merry
+
+  undo'
+bip_39_word_new_line8: 'treat
+
+  cruise
+
+  valley
+
+  worry
+
+  transfer
+
+  merry
+
+  undo
+
+  eternal'
+bip_39_word_new_line9: 'treat
+
+  cruise
+
+  valley
+
+  worry
+
+  transfer
+
+  merry
+
+  undo
+
+  eternal
+
+  clip'
+bip_39_word_space_0:
+- treat
+- cruise
+- valley
+- worry
+- transfer
+- merry
+- undo
+- eternal
+- clip
+- spin
+- excite
+- absurd
+bip_39_word_space_1: treat
+bip_39_word_space_10: treat cruise valley worry transfer merry undo eternal clip spin
+bip_39_word_space_11: treat cruise valley worry transfer merry undo eternal clip spin
+  excite
+bip_39_word_space_12: treat cruise valley worry transfer merry undo eternal clip spin
+  excite absurd
+bip_39_word_space_2: treat cruise
+bip_39_word_space_3: treat cruise valley
+bip_39_word_space_4: treat cruise valley worry
+bip_39_word_space_5: treat cruise valley worry transfer
+bip_39_word_space_6: treat cruise valley worry transfer merry
+bip_39_word_space_7: treat cruise valley worry transfer merry undo
+bip_39_word_space_8: treat cruise valley worry transfer merry undo eternal
+bip_39_word_space_9: treat cruise valley worry transfer merry undo eternal clip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

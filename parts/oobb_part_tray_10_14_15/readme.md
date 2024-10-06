@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swamp sock
+  * bip 39 word 3: swamp sock thought
+  * bip 39 word: swamp sock thought item drink citizen barely ride pencil powder husband arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swamp |  
+| bip_39_word_new_br10 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen<br>barely<br>ride<br>pencil<br>powder |  
+| bip_39_word_new_br11 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen<br>barely<br>ride<br>pencil<br>powder<br>husband |  
+| bip_39_word_new_br12 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen<br>barely<br>ride<br>pencil<br>powder<br>husband<br>arrange |  
+| bip_39_word_new_br2 | swamp<br>sock |  
+| bip_39_word_new_br3 | swamp<br>sock<br>thought |  
+| bip_39_word_new_br4 | swamp<br>sock<br>thought<br>item |  
+| bip_39_word_new_br5 | swamp<br>sock<br>thought<br>item<br>drink |  
+| bip_39_word_new_br6 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen |  
+| bip_39_word_new_br7 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen<br>barely |  
+| bip_39_word_new_br8 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen<br>barely<br>ride |  
+| bip_39_word_new_br9 | swamp<br>sock<br>thought<br>item<br>drink<br>citizen<br>barely<br>ride<br>pencil |  
+| bip_39_word_new_line1 | swamp |  
+| bip_39_word_new_line10 | swamp
+sock
+thought
+item
+drink
+citizen
+barely
+ride
+pencil
+powder |  
+| bip_39_word_new_line11 | swamp
+sock
+thought
+item
+drink
+citizen
+barely
+ride
+pencil
+powder
+husband |  
+| bip_39_word_new_line12 | swamp
+sock
+thought
+item
+drink
+citizen
+barely
+ride
+pencil
+powder
+husband
+arrange |  
+| bip_39_word_new_line2 | swamp
+sock |  
+| bip_39_word_new_line3 | swamp
+sock
+thought |  
+| bip_39_word_new_line4 | swamp
+sock
+thought
+item |  
+| bip_39_word_new_line5 | swamp
+sock
+thought
+item
+drink |  
+| bip_39_word_new_line6 | swamp
+sock
+thought
+item
+drink
+citizen |  
+| bip_39_word_new_line7 | swamp
+sock
+thought
+item
+drink
+citizen
+barely |  
+| bip_39_word_new_line8 | swamp
+sock
+thought
+item
+drink
+citizen
+barely
+ride |  
+| bip_39_word_new_line9 | swamp
+sock
+thought
+item
+drink
+citizen
+barely
+ride
+pencil |  
+| bip_39_word_space_0 | ['swamp', 'sock', 'thought', 'item', 'drink', 'citizen', 'barely', 'ride', 'pencil', 'powder', 'husband', 'arrange'] |  
+| bip_39_word_space_1 | swamp |  
+| bip_39_word_space_10 | swamp sock thought item drink citizen barely ride pencil powder |  
+| bip_39_word_space_11 | swamp sock thought item drink citizen barely ride pencil powder husband |  
+| bip_39_word_space_12 | swamp sock thought item drink citizen barely ride pencil powder husband arrange |  
+| bip_39_word_space_2 | swamp sock |  
+| bip_39_word_space_3 | swamp sock thought |  
+| bip_39_word_space_4 | swamp sock thought item |  
+| bip_39_word_space_5 | swamp sock thought item drink |  
+| bip_39_word_space_6 | swamp sock thought item drink citizen |  
+| bip_39_word_space_7 | swamp sock thought item drink citizen barely |  
+| bip_39_word_space_8 | swamp sock thought item drink citizen barely ride |  
+| bip_39_word_space_9 | swamp sock thought item drink citizen barely ride pencil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

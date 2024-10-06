@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grunt can
+  * bip 39 word 3: grunt can cheese
+  * bip 39 word: grunt can cheese about reveal punch soft record human magnet custom annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grunt |  
+| bip_39_word_new_br10 | grunt<br>can<br>cheese<br>about<br>reveal<br>punch<br>soft<br>record<br>human<br>magnet |  
+| bip_39_word_new_br11 | grunt<br>can<br>cheese<br>about<br>reveal<br>punch<br>soft<br>record<br>human<br>magnet<br>custom |  
+| bip_39_word_new_br12 | grunt<br>can<br>cheese<br>about<br>reveal<br>punch<br>soft<br>record<br>human<br>magnet<br>custom<br>annual |  
+| bip_39_word_new_br2 | grunt<br>can |  
+| bip_39_word_new_br3 | grunt<br>can<br>cheese |  
+| bip_39_word_new_br4 | grunt<br>can<br>cheese<br>about |  
+| bip_39_word_new_br5 | grunt<br>can<br>cheese<br>about<br>reveal |  
+| bip_39_word_new_br6 | grunt<br>can<br>cheese<br>about<br>reveal<br>punch |  
+| bip_39_word_new_br7 | grunt<br>can<br>cheese<br>about<br>reveal<br>punch<br>soft |  
+| bip_39_word_new_br8 | grunt<br>can<br>cheese<br>about<br>reveal<br>punch<br>soft<br>record |  
+| bip_39_word_new_br9 | grunt<br>can<br>cheese<br>about<br>reveal<br>punch<br>soft<br>record<br>human |  
+| bip_39_word_new_line1 | grunt |  
+| bip_39_word_new_line10 | grunt
+can
+cheese
+about
+reveal
+punch
+soft
+record
+human
+magnet |  
+| bip_39_word_new_line11 | grunt
+can
+cheese
+about
+reveal
+punch
+soft
+record
+human
+magnet
+custom |  
+| bip_39_word_new_line12 | grunt
+can
+cheese
+about
+reveal
+punch
+soft
+record
+human
+magnet
+custom
+annual |  
+| bip_39_word_new_line2 | grunt
+can |  
+| bip_39_word_new_line3 | grunt
+can
+cheese |  
+| bip_39_word_new_line4 | grunt
+can
+cheese
+about |  
+| bip_39_word_new_line5 | grunt
+can
+cheese
+about
+reveal |  
+| bip_39_word_new_line6 | grunt
+can
+cheese
+about
+reveal
+punch |  
+| bip_39_word_new_line7 | grunt
+can
+cheese
+about
+reveal
+punch
+soft |  
+| bip_39_word_new_line8 | grunt
+can
+cheese
+about
+reveal
+punch
+soft
+record |  
+| bip_39_word_new_line9 | grunt
+can
+cheese
+about
+reveal
+punch
+soft
+record
+human |  
+| bip_39_word_space_0 | ['grunt', 'can', 'cheese', 'about', 'reveal', 'punch', 'soft', 'record', 'human', 'magnet', 'custom', 'annual'] |  
+| bip_39_word_space_1 | grunt |  
+| bip_39_word_space_10 | grunt can cheese about reveal punch soft record human magnet |  
+| bip_39_word_space_11 | grunt can cheese about reveal punch soft record human magnet custom |  
+| bip_39_word_space_12 | grunt can cheese about reveal punch soft record human magnet custom annual |  
+| bip_39_word_space_2 | grunt can |  
+| bip_39_word_space_3 | grunt can cheese |  
+| bip_39_word_space_4 | grunt can cheese about |  
+| bip_39_word_space_5 | grunt can cheese about reveal |  
+| bip_39_word_space_6 | grunt can cheese about reveal punch |  
+| bip_39_word_space_7 | grunt can cheese about reveal punch soft |  
+| bip_39_word_space_8 | grunt can cheese about reveal punch soft record |  
+| bip_39_word_space_9 | grunt can cheese about reveal punch soft record human |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

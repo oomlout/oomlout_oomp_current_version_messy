@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nature cradle
+  * bip 39 word 3: nature cradle pause
+  * bip 39 word: nature cradle pause lab acoustic december confirm regular uncover stock antenna amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nature |  
+| bip_39_word_new_br10 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december<br>confirm<br>regular<br>uncover<br>stock |  
+| bip_39_word_new_br11 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december<br>confirm<br>regular<br>uncover<br>stock<br>antenna |  
+| bip_39_word_new_br12 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december<br>confirm<br>regular<br>uncover<br>stock<br>antenna<br>amused |  
+| bip_39_word_new_br2 | nature<br>cradle |  
+| bip_39_word_new_br3 | nature<br>cradle<br>pause |  
+| bip_39_word_new_br4 | nature<br>cradle<br>pause<br>lab |  
+| bip_39_word_new_br5 | nature<br>cradle<br>pause<br>lab<br>acoustic |  
+| bip_39_word_new_br6 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december |  
+| bip_39_word_new_br7 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december<br>confirm |  
+| bip_39_word_new_br8 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december<br>confirm<br>regular |  
+| bip_39_word_new_br9 | nature<br>cradle<br>pause<br>lab<br>acoustic<br>december<br>confirm<br>regular<br>uncover |  
+| bip_39_word_new_line1 | nature |  
+| bip_39_word_new_line10 | nature
+cradle
+pause
+lab
+acoustic
+december
+confirm
+regular
+uncover
+stock |  
+| bip_39_word_new_line11 | nature
+cradle
+pause
+lab
+acoustic
+december
+confirm
+regular
+uncover
+stock
+antenna |  
+| bip_39_word_new_line12 | nature
+cradle
+pause
+lab
+acoustic
+december
+confirm
+regular
+uncover
+stock
+antenna
+amused |  
+| bip_39_word_new_line2 | nature
+cradle |  
+| bip_39_word_new_line3 | nature
+cradle
+pause |  
+| bip_39_word_new_line4 | nature
+cradle
+pause
+lab |  
+| bip_39_word_new_line5 | nature
+cradle
+pause
+lab
+acoustic |  
+| bip_39_word_new_line6 | nature
+cradle
+pause
+lab
+acoustic
+december |  
+| bip_39_word_new_line7 | nature
+cradle
+pause
+lab
+acoustic
+december
+confirm |  
+| bip_39_word_new_line8 | nature
+cradle
+pause
+lab
+acoustic
+december
+confirm
+regular |  
+| bip_39_word_new_line9 | nature
+cradle
+pause
+lab
+acoustic
+december
+confirm
+regular
+uncover |  
+| bip_39_word_space_0 | ['nature', 'cradle', 'pause', 'lab', 'acoustic', 'december', 'confirm', 'regular', 'uncover', 'stock', 'antenna', 'amused'] |  
+| bip_39_word_space_1 | nature |  
+| bip_39_word_space_10 | nature cradle pause lab acoustic december confirm regular uncover stock |  
+| bip_39_word_space_11 | nature cradle pause lab acoustic december confirm regular uncover stock antenna |  
+| bip_39_word_space_12 | nature cradle pause lab acoustic december confirm regular uncover stock antenna amused |  
+| bip_39_word_space_2 | nature cradle |  
+| bip_39_word_space_3 | nature cradle pause |  
+| bip_39_word_space_4 | nature cradle pause lab |  
+| bip_39_word_space_5 | nature cradle pause lab acoustic |  
+| bip_39_word_space_6 | nature cradle pause lab acoustic december |  
+| bip_39_word_space_7 | nature cradle pause lab acoustic december confirm |  
+| bip_39_word_space_8 | nature cradle pause lab acoustic december confirm regular |  
+| bip_39_word_space_9 | nature cradle pause lab acoustic december confirm regular uncover |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

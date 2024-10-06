@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nephew select
+  * bip 39 word 3: nephew select radio
+  * bip 39 word: nephew select radio cricket inside engine exhibit divert impact fancy diamond acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nephew |  
+| bip_39_word_new_br10 | nephew<br>select<br>radio<br>cricket<br>inside<br>engine<br>exhibit<br>divert<br>impact<br>fancy |  
+| bip_39_word_new_br11 | nephew<br>select<br>radio<br>cricket<br>inside<br>engine<br>exhibit<br>divert<br>impact<br>fancy<br>diamond |  
+| bip_39_word_new_br12 | nephew<br>select<br>radio<br>cricket<br>inside<br>engine<br>exhibit<br>divert<br>impact<br>fancy<br>diamond<br>acquire |  
+| bip_39_word_new_br2 | nephew<br>select |  
+| bip_39_word_new_br3 | nephew<br>select<br>radio |  
+| bip_39_word_new_br4 | nephew<br>select<br>radio<br>cricket |  
+| bip_39_word_new_br5 | nephew<br>select<br>radio<br>cricket<br>inside |  
+| bip_39_word_new_br6 | nephew<br>select<br>radio<br>cricket<br>inside<br>engine |  
+| bip_39_word_new_br7 | nephew<br>select<br>radio<br>cricket<br>inside<br>engine<br>exhibit |  
+| bip_39_word_new_br8 | nephew<br>select<br>radio<br>cricket<br>inside<br>engine<br>exhibit<br>divert |  
+| bip_39_word_new_br9 | nephew<br>select<br>radio<br>cricket<br>inside<br>engine<br>exhibit<br>divert<br>impact |  
+| bip_39_word_new_line1 | nephew |  
+| bip_39_word_new_line10 | nephew
+select
+radio
+cricket
+inside
+engine
+exhibit
+divert
+impact
+fancy |  
+| bip_39_word_new_line11 | nephew
+select
+radio
+cricket
+inside
+engine
+exhibit
+divert
+impact
+fancy
+diamond |  
+| bip_39_word_new_line12 | nephew
+select
+radio
+cricket
+inside
+engine
+exhibit
+divert
+impact
+fancy
+diamond
+acquire |  
+| bip_39_word_new_line2 | nephew
+select |  
+| bip_39_word_new_line3 | nephew
+select
+radio |  
+| bip_39_word_new_line4 | nephew
+select
+radio
+cricket |  
+| bip_39_word_new_line5 | nephew
+select
+radio
+cricket
+inside |  
+| bip_39_word_new_line6 | nephew
+select
+radio
+cricket
+inside
+engine |  
+| bip_39_word_new_line7 | nephew
+select
+radio
+cricket
+inside
+engine
+exhibit |  
+| bip_39_word_new_line8 | nephew
+select
+radio
+cricket
+inside
+engine
+exhibit
+divert |  
+| bip_39_word_new_line9 | nephew
+select
+radio
+cricket
+inside
+engine
+exhibit
+divert
+impact |  
+| bip_39_word_space_0 | ['nephew', 'select', 'radio', 'cricket', 'inside', 'engine', 'exhibit', 'divert', 'impact', 'fancy', 'diamond', 'acquire'] |  
+| bip_39_word_space_1 | nephew |  
+| bip_39_word_space_10 | nephew select radio cricket inside engine exhibit divert impact fancy |  
+| bip_39_word_space_11 | nephew select radio cricket inside engine exhibit divert impact fancy diamond |  
+| bip_39_word_space_12 | nephew select radio cricket inside engine exhibit divert impact fancy diamond acquire |  
+| bip_39_word_space_2 | nephew select |  
+| bip_39_word_space_3 | nephew select radio |  
+| bip_39_word_space_4 | nephew select radio cricket |  
+| bip_39_word_space_5 | nephew select radio cricket inside |  
+| bip_39_word_space_6 | nephew select radio cricket inside engine |  
+| bip_39_word_space_7 | nephew select radio cricket inside engine exhibit |  
+| bip_39_word_space_8 | nephew select radio cricket inside engine exhibit divert |  
+| bip_39_word_space_9 | nephew select radio cricket inside engine exhibit divert impact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

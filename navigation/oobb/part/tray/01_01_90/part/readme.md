@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: victory sense
+  * bip 39 word 3: victory sense useless
+  * bip 39 word: victory sense useless swift virtual spirit embrace fitness filter drink object attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | victory |  
+| bip_39_word_new_br10 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink |  
+| bip_39_word_new_br11 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink<br>object |  
+| bip_39_word_new_br12 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter<br>drink<br>object<br>attack |  
+| bip_39_word_new_br2 | victory<br>sense |  
+| bip_39_word_new_br3 | victory<br>sense<br>useless |  
+| bip_39_word_new_br4 | victory<br>sense<br>useless<br>swift |  
+| bip_39_word_new_br5 | victory<br>sense<br>useless<br>swift<br>virtual |  
+| bip_39_word_new_br6 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit |  
+| bip_39_word_new_br7 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace |  
+| bip_39_word_new_br8 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness |  
+| bip_39_word_new_br9 | victory<br>sense<br>useless<br>swift<br>virtual<br>spirit<br>embrace<br>fitness<br>filter |  
+| bip_39_word_new_line1 | victory |  
+| bip_39_word_new_line10 | victory
+sense
+useless
+swift
+virtual
+spirit
+embrace
+fitness
+filter
+drink |  
+| bip_39_word_new_line11 | victory
+sense
+useless
+swift
+virtual
+spirit
+embrace
+fitness
+filter
+drink
+object |  
+| bip_39_word_new_line12 | victory
+sense
+useless
+swift
+virtual
+spirit
+embrace
+fitness
+filter
+drink
+object
+attack |  
+| bip_39_word_new_line2 | victory
+sense |  
+| bip_39_word_new_line3 | victory
+sense
+useless |  
+| bip_39_word_new_line4 | victory
+sense
+useless
+swift |  
+| bip_39_word_new_line5 | victory
+sense
+useless
+swift
+virtual |  
+| bip_39_word_new_line6 | victory
+sense
+useless
+swift
+virtual
+spirit |  
+| bip_39_word_new_line7 | victory
+sense
+useless
+swift
+virtual
+spirit
+embrace |  
+| bip_39_word_new_line8 | victory
+sense
+useless
+swift
+virtual
+spirit
+embrace
+fitness |  
+| bip_39_word_new_line9 | victory
+sense
+useless
+swift
+virtual
+spirit
+embrace
+fitness
+filter |  
+| bip_39_word_space_0 | ['victory', 'sense', 'useless', 'swift', 'virtual', 'spirit', 'embrace', 'fitness', 'filter', 'drink', 'object', 'attack'] |  
+| bip_39_word_space_1 | victory |  
+| bip_39_word_space_10 | victory sense useless swift virtual spirit embrace fitness filter drink |  
+| bip_39_word_space_11 | victory sense useless swift virtual spirit embrace fitness filter drink object |  
+| bip_39_word_space_12 | victory sense useless swift virtual spirit embrace fitness filter drink object attack |  
+| bip_39_word_space_2 | victory sense |  
+| bip_39_word_space_3 | victory sense useless |  
+| bip_39_word_space_4 | victory sense useless swift |  
+| bip_39_word_space_5 | victory sense useless swift virtual |  
+| bip_39_word_space_6 | victory sense useless swift virtual spirit |  
+| bip_39_word_space_7 | victory sense useless swift virtual spirit embrace |  
+| bip_39_word_space_8 | victory sense useless swift virtual spirit embrace fitness |  
+| bip_39_word_space_9 | victory sense useless swift virtual spirit embrace fitness filter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

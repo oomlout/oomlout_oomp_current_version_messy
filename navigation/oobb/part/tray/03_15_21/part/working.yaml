@@ -1,3 +1,187 @@
+bip_39_word_new_br1: motor
+bip_39_word_new_br10: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna<br>apart<br>process<br>brief<br>infant
+bip_39_word_new_br11: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna<br>apart<br>process<br>brief<br>infant<br>fetch
+bip_39_word_new_br12: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna<br>apart<br>process<br>brief<br>infant<br>fetch<br>almost
+bip_39_word_new_br2: motor<br>found
+bip_39_word_new_br3: motor<br>found<br>ankle
+bip_39_word_new_br4: motor<br>found<br>ankle<br>auto
+bip_39_word_new_br5: motor<br>found<br>ankle<br>auto<br>purchase
+bip_39_word_new_br6: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna
+bip_39_word_new_br7: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna<br>apart
+bip_39_word_new_br8: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna<br>apart<br>process
+bip_39_word_new_br9: motor<br>found<br>ankle<br>auto<br>purchase<br>antenna<br>apart<br>process<br>brief
+bip_39_word_new_line1: motor
+bip_39_word_new_line10: 'motor
+
+  found
+
+  ankle
+
+  auto
+
+  purchase
+
+  antenna
+
+  apart
+
+  process
+
+  brief
+
+  infant'
+bip_39_word_new_line11: 'motor
+
+  found
+
+  ankle
+
+  auto
+
+  purchase
+
+  antenna
+
+  apart
+
+  process
+
+  brief
+
+  infant
+
+  fetch'
+bip_39_word_new_line12: 'motor
+
+  found
+
+  ankle
+
+  auto
+
+  purchase
+
+  antenna
+
+  apart
+
+  process
+
+  brief
+
+  infant
+
+  fetch
+
+  almost'
+bip_39_word_new_line2: 'motor
+
+  found'
+bip_39_word_new_line3: 'motor
+
+  found
+
+  ankle'
+bip_39_word_new_line4: 'motor
+
+  found
+
+  ankle
+
+  auto'
+bip_39_word_new_line5: 'motor
+
+  found
+
+  ankle
+
+  auto
+
+  purchase'
+bip_39_word_new_line6: 'motor
+
+  found
+
+  ankle
+
+  auto
+
+  purchase
+
+  antenna'
+bip_39_word_new_line7: 'motor
+
+  found
+
+  ankle
+
+  auto
+
+  purchase
+
+  antenna
+
+  apart'
+bip_39_word_new_line8: 'motor
+
+  found
+
+  ankle
+
+  auto
+
+  purchase
+
+  antenna
+
+  apart
+
+  process'
+bip_39_word_new_line9: 'motor
+
+  found
+
+  ankle
+
+  auto
+
+  purchase
+
+  antenna
+
+  apart
+
+  process
+
+  brief'
+bip_39_word_space_0:
+- motor
+- found
+- ankle
+- auto
+- purchase
+- antenna
+- apart
+- process
+- brief
+- infant
+- fetch
+- almost
+bip_39_word_space_1: motor
+bip_39_word_space_10: motor found ankle auto purchase antenna apart process brief
+  infant
+bip_39_word_space_11: motor found ankle auto purchase antenna apart process brief
+  infant fetch
+bip_39_word_space_12: motor found ankle auto purchase antenna apart process brief
+  infant fetch almost
+bip_39_word_space_2: motor found
+bip_39_word_space_3: motor found ankle
+bip_39_word_space_4: motor found ankle auto
+bip_39_word_space_5: motor found ankle auto purchase
+bip_39_word_space_6: motor found ankle auto purchase antenna
+bip_39_word_space_7: motor found ankle auto purchase antenna apart
+bip_39_word_space_8: motor found ankle auto purchase antenna apart process
+bip_39_word_space_9: motor found ankle auto purchase antenna apart process brief
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: 'true'
+bip_39_word_new_br10: true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside
+bip_39_word_new_br11: true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside<br>hospital
+bip_39_word_new_br12: true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless<br>inside<br>hospital<br>august
+bip_39_word_new_br2: true<br>ring
+bip_39_word_new_br3: true<br>ring<br>say
+bip_39_word_new_br4: true<br>ring<br>say<br>suffer
+bip_39_word_new_br5: true<br>ring<br>say<br>suffer<br>owner
+bip_39_word_new_br6: true<br>ring<br>say<br>suffer<br>owner<br>nation
+bip_39_word_new_br7: true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind
+bip_39_word_new_br8: true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab
+bip_39_word_new_br9: true<br>ring<br>say<br>suffer<br>owner<br>nation<br>bind<br>grab<br>useless
+bip_39_word_new_line1: 'true'
+bip_39_word_new_line10: 'true
+
+  ring
+
+  say
+
+  suffer
+
+  owner
+
+  nation
+
+  bind
+
+  grab
+
+  useless
+
+  inside'
+bip_39_word_new_line11: 'true
+
+  ring
+
+  say
+
+  suffer
+
+  owner
+
+  nation
+
+  bind
+
+  grab
+
+  useless
+
+  inside
+
+  hospital'
+bip_39_word_new_line12: 'true
+
+  ring
+
+  say
+
+  suffer
+
+  owner
+
+  nation
+
+  bind
+
+  grab
+
+  useless
+
+  inside
+
+  hospital
+
+  august'
+bip_39_word_new_line2: 'true
+
+  ring'
+bip_39_word_new_line3: 'true
+
+  ring
+
+  say'
+bip_39_word_new_line4: 'true
+
+  ring
+
+  say
+
+  suffer'
+bip_39_word_new_line5: 'true
+
+  ring
+
+  say
+
+  suffer
+
+  owner'
+bip_39_word_new_line6: 'true
+
+  ring
+
+  say
+
+  suffer
+
+  owner
+
+  nation'
+bip_39_word_new_line7: 'true
+
+  ring
+
+  say
+
+  suffer
+
+  owner
+
+  nation
+
+  bind'
+bip_39_word_new_line8: 'true
+
+  ring
+
+  say
+
+  suffer
+
+  owner
+
+  nation
+
+  bind
+
+  grab'
+bip_39_word_new_line9: 'true
+
+  ring
+
+  say
+
+  suffer
+
+  owner
+
+  nation
+
+  bind
+
+  grab
+
+  useless'
+bip_39_word_space_0:
+- 'true'
+- ring
+- say
+- suffer
+- owner
+- nation
+- bind
+- grab
+- useless
+- inside
+- hospital
+- august
+bip_39_word_space_1: 'true'
+bip_39_word_space_10: true ring say suffer owner nation bind grab useless inside
+bip_39_word_space_11: true ring say suffer owner nation bind grab useless inside hospital
+bip_39_word_space_12: true ring say suffer owner nation bind grab useless inside hospital
+  august
+bip_39_word_space_2: true ring
+bip_39_word_space_3: true ring say
+bip_39_word_space_4: true ring say suffer
+bip_39_word_space_5: true ring say suffer owner
+bip_39_word_space_6: true ring say suffer owner nation
+bip_39_word_space_7: true ring say suffer owner nation bind
+bip_39_word_space_8: true ring say suffer owner nation bind grab
+bip_39_word_space_9: true ring say suffer owner nation bind grab useless
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fit disagree
+  * bip 39 word 3: fit disagree phrase
+  * bip 39 word: fit disagree phrase couple book type case bundle permit attend obey affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fit |  
+| bip_39_word_new_br10 | fit<br>disagree<br>phrase<br>couple<br>book<br>type<br>case<br>bundle<br>permit<br>attend |  
+| bip_39_word_new_br11 | fit<br>disagree<br>phrase<br>couple<br>book<br>type<br>case<br>bundle<br>permit<br>attend<br>obey |  
+| bip_39_word_new_br12 | fit<br>disagree<br>phrase<br>couple<br>book<br>type<br>case<br>bundle<br>permit<br>attend<br>obey<br>affair |  
+| bip_39_word_new_br2 | fit<br>disagree |  
+| bip_39_word_new_br3 | fit<br>disagree<br>phrase |  
+| bip_39_word_new_br4 | fit<br>disagree<br>phrase<br>couple |  
+| bip_39_word_new_br5 | fit<br>disagree<br>phrase<br>couple<br>book |  
+| bip_39_word_new_br6 | fit<br>disagree<br>phrase<br>couple<br>book<br>type |  
+| bip_39_word_new_br7 | fit<br>disagree<br>phrase<br>couple<br>book<br>type<br>case |  
+| bip_39_word_new_br8 | fit<br>disagree<br>phrase<br>couple<br>book<br>type<br>case<br>bundle |  
+| bip_39_word_new_br9 | fit<br>disagree<br>phrase<br>couple<br>book<br>type<br>case<br>bundle<br>permit |  
+| bip_39_word_new_line1 | fit |  
+| bip_39_word_new_line10 | fit
+disagree
+phrase
+couple
+book
+type
+case
+bundle
+permit
+attend |  
+| bip_39_word_new_line11 | fit
+disagree
+phrase
+couple
+book
+type
+case
+bundle
+permit
+attend
+obey |  
+| bip_39_word_new_line12 | fit
+disagree
+phrase
+couple
+book
+type
+case
+bundle
+permit
+attend
+obey
+affair |  
+| bip_39_word_new_line2 | fit
+disagree |  
+| bip_39_word_new_line3 | fit
+disagree
+phrase |  
+| bip_39_word_new_line4 | fit
+disagree
+phrase
+couple |  
+| bip_39_word_new_line5 | fit
+disagree
+phrase
+couple
+book |  
+| bip_39_word_new_line6 | fit
+disagree
+phrase
+couple
+book
+type |  
+| bip_39_word_new_line7 | fit
+disagree
+phrase
+couple
+book
+type
+case |  
+| bip_39_word_new_line8 | fit
+disagree
+phrase
+couple
+book
+type
+case
+bundle |  
+| bip_39_word_new_line9 | fit
+disagree
+phrase
+couple
+book
+type
+case
+bundle
+permit |  
+| bip_39_word_space_0 | ['fit', 'disagree', 'phrase', 'couple', 'book', 'type', 'case', 'bundle', 'permit', 'attend', 'obey', 'affair'] |  
+| bip_39_word_space_1 | fit |  
+| bip_39_word_space_10 | fit disagree phrase couple book type case bundle permit attend |  
+| bip_39_word_space_11 | fit disagree phrase couple book type case bundle permit attend obey |  
+| bip_39_word_space_12 | fit disagree phrase couple book type case bundle permit attend obey affair |  
+| bip_39_word_space_2 | fit disagree |  
+| bip_39_word_space_3 | fit disagree phrase |  
+| bip_39_word_space_4 | fit disagree phrase couple |  
+| bip_39_word_space_5 | fit disagree phrase couple book |  
+| bip_39_word_space_6 | fit disagree phrase couple book type |  
+| bip_39_word_space_7 | fit disagree phrase couple book type case |  
+| bip_39_word_space_8 | fit disagree phrase couple book type case bundle |  
+| bip_39_word_space_9 | fit disagree phrase couple book type case bundle permit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

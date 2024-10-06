@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hand buddy
+  * bip 39 word 3: hand buddy acquire
+  * bip 39 word: hand buddy acquire happy satisfy near butter adult spray elder appear adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hand |  
+| bip_39_word_new_br10 | hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder |  
+| bip_39_word_new_br11 | hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder<br>appear |  
+| bip_39_word_new_br12 | hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray<br>elder<br>appear<br>adjust |  
+| bip_39_word_new_br2 | hand<br>buddy |  
+| bip_39_word_new_br3 | hand<br>buddy<br>acquire |  
+| bip_39_word_new_br4 | hand<br>buddy<br>acquire<br>happy |  
+| bip_39_word_new_br5 | hand<br>buddy<br>acquire<br>happy<br>satisfy |  
+| bip_39_word_new_br6 | hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near |  
+| bip_39_word_new_br7 | hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter |  
+| bip_39_word_new_br8 | hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult |  
+| bip_39_word_new_br9 | hand<br>buddy<br>acquire<br>happy<br>satisfy<br>near<br>butter<br>adult<br>spray |  
+| bip_39_word_new_line1 | hand |  
+| bip_39_word_new_line10 | hand
+buddy
+acquire
+happy
+satisfy
+near
+butter
+adult
+spray
+elder |  
+| bip_39_word_new_line11 | hand
+buddy
+acquire
+happy
+satisfy
+near
+butter
+adult
+spray
+elder
+appear |  
+| bip_39_word_new_line12 | hand
+buddy
+acquire
+happy
+satisfy
+near
+butter
+adult
+spray
+elder
+appear
+adjust |  
+| bip_39_word_new_line2 | hand
+buddy |  
+| bip_39_word_new_line3 | hand
+buddy
+acquire |  
+| bip_39_word_new_line4 | hand
+buddy
+acquire
+happy |  
+| bip_39_word_new_line5 | hand
+buddy
+acquire
+happy
+satisfy |  
+| bip_39_word_new_line6 | hand
+buddy
+acquire
+happy
+satisfy
+near |  
+| bip_39_word_new_line7 | hand
+buddy
+acquire
+happy
+satisfy
+near
+butter |  
+| bip_39_word_new_line8 | hand
+buddy
+acquire
+happy
+satisfy
+near
+butter
+adult |  
+| bip_39_word_new_line9 | hand
+buddy
+acquire
+happy
+satisfy
+near
+butter
+adult
+spray |  
+| bip_39_word_space_0 | ['hand', 'buddy', 'acquire', 'happy', 'satisfy', 'near', 'butter', 'adult', 'spray', 'elder', 'appear', 'adjust'] |  
+| bip_39_word_space_1 | hand |  
+| bip_39_word_space_10 | hand buddy acquire happy satisfy near butter adult spray elder |  
+| bip_39_word_space_11 | hand buddy acquire happy satisfy near butter adult spray elder appear |  
+| bip_39_word_space_12 | hand buddy acquire happy satisfy near butter adult spray elder appear adjust |  
+| bip_39_word_space_2 | hand buddy |  
+| bip_39_word_space_3 | hand buddy acquire |  
+| bip_39_word_space_4 | hand buddy acquire happy |  
+| bip_39_word_space_5 | hand buddy acquire happy satisfy |  
+| bip_39_word_space_6 | hand buddy acquire happy satisfy near |  
+| bip_39_word_space_7 | hand buddy acquire happy satisfy near butter |  
+| bip_39_word_space_8 | hand buddy acquire happy satisfy near butter adult |  
+| bip_39_word_space_9 | hand buddy acquire happy satisfy near butter adult spray |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

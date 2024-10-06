@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: critic twist
+  * bip 39 word 3: critic twist balcony
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | critic |  
+| bip_39_word_new_br10 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle<br>salmon |  
+| bip_39_word_new_br11 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle<br>salmon<br>tip |  
+| bip_39_word_new_br2 | critic<br>twist |  
+| bip_39_word_new_br3 | critic<br>twist<br>balcony |  
+| bip_39_word_new_br4 | critic<br>twist<br>balcony<br>wet |  
+| bip_39_word_new_br5 | critic<br>twist<br>balcony<br>wet<br>virtual |  
+| bip_39_word_new_br6 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus |  
+| bip_39_word_new_br7 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube |  
+| bip_39_word_new_br8 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm |  
+| bip_39_word_new_br9 | critic<br>twist<br>balcony<br>wet<br>virtual<br>bus<br>tube<br>palm<br>miracle |  
+| bip_39_word_new_line1 | critic |  
+| bip_39_word_new_line10 | critic
+twist
+balcony
+wet
+virtual
+bus
+tube
+palm
+miracle
+salmon |  
+| bip_39_word_new_line11 | critic
+twist
+balcony
+wet
+virtual
+bus
+tube
+palm
+miracle
+salmon
+tip |  
+| bip_39_word_new_line2 | critic
+twist |  
+| bip_39_word_new_line3 | critic
+twist
+balcony |  
+| bip_39_word_new_line4 | critic
+twist
+balcony
+wet |  
+| bip_39_word_new_line5 | critic
+twist
+balcony
+wet
+virtual |  
+| bip_39_word_new_line6 | critic
+twist
+balcony
+wet
+virtual
+bus |  
+| bip_39_word_new_line7 | critic
+twist
+balcony
+wet
+virtual
+bus
+tube |  
+| bip_39_word_new_line8 | critic
+twist
+balcony
+wet
+virtual
+bus
+tube
+palm |  
+| bip_39_word_new_line9 | critic
+twist
+balcony
+wet
+virtual
+bus
+tube
+palm
+miracle |  
+| bip_39_word_space_0 | ['critic', 'twist', 'balcony', 'wet', 'virtual', 'bus', 'tube', 'palm', 'miracle', 'salmon', 'tip'] |  
+| bip_39_word_space_1 | critic |  
+| bip_39_word_space_10 | critic twist balcony wet virtual bus tube palm miracle salmon |  
+| bip_39_word_space_11 | critic twist balcony wet virtual bus tube palm miracle salmon tip |  
+| bip_39_word_space_2 | critic twist |  
+| bip_39_word_space_3 | critic twist balcony |  
+| bip_39_word_space_4 | critic twist balcony wet |  
+| bip_39_word_space_5 | critic twist balcony wet virtual |  
+| bip_39_word_space_6 | critic twist balcony wet virtual bus |  
+| bip_39_word_space_7 | critic twist balcony wet virtual bus tube |  
+| bip_39_word_space_8 | critic twist balcony wet virtual bus tube palm |  
+| bip_39_word_space_9 | critic twist balcony wet virtual bus tube palm miracle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

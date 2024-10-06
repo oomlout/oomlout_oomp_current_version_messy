@@ -1,3 +1,187 @@
+bip_39_word_new_br1: vapor
+bip_39_word_new_br10: vapor<br>distance<br>badge<br>whale<br>obscure<br>steak<br>section<br>room<br>promote<br>lock
+bip_39_word_new_br11: vapor<br>distance<br>badge<br>whale<br>obscure<br>steak<br>section<br>room<br>promote<br>lock<br>hurdle
+bip_39_word_new_br12: vapor<br>distance<br>badge<br>whale<br>obscure<br>steak<br>section<br>room<br>promote<br>lock<br>hurdle<br>affair
+bip_39_word_new_br2: vapor<br>distance
+bip_39_word_new_br3: vapor<br>distance<br>badge
+bip_39_word_new_br4: vapor<br>distance<br>badge<br>whale
+bip_39_word_new_br5: vapor<br>distance<br>badge<br>whale<br>obscure
+bip_39_word_new_br6: vapor<br>distance<br>badge<br>whale<br>obscure<br>steak
+bip_39_word_new_br7: vapor<br>distance<br>badge<br>whale<br>obscure<br>steak<br>section
+bip_39_word_new_br8: vapor<br>distance<br>badge<br>whale<br>obscure<br>steak<br>section<br>room
+bip_39_word_new_br9: vapor<br>distance<br>badge<br>whale<br>obscure<br>steak<br>section<br>room<br>promote
+bip_39_word_new_line1: vapor
+bip_39_word_new_line10: 'vapor
+
+  distance
+
+  badge
+
+  whale
+
+  obscure
+
+  steak
+
+  section
+
+  room
+
+  promote
+
+  lock'
+bip_39_word_new_line11: 'vapor
+
+  distance
+
+  badge
+
+  whale
+
+  obscure
+
+  steak
+
+  section
+
+  room
+
+  promote
+
+  lock
+
+  hurdle'
+bip_39_word_new_line12: 'vapor
+
+  distance
+
+  badge
+
+  whale
+
+  obscure
+
+  steak
+
+  section
+
+  room
+
+  promote
+
+  lock
+
+  hurdle
+
+  affair'
+bip_39_word_new_line2: 'vapor
+
+  distance'
+bip_39_word_new_line3: 'vapor
+
+  distance
+
+  badge'
+bip_39_word_new_line4: 'vapor
+
+  distance
+
+  badge
+
+  whale'
+bip_39_word_new_line5: 'vapor
+
+  distance
+
+  badge
+
+  whale
+
+  obscure'
+bip_39_word_new_line6: 'vapor
+
+  distance
+
+  badge
+
+  whale
+
+  obscure
+
+  steak'
+bip_39_word_new_line7: 'vapor
+
+  distance
+
+  badge
+
+  whale
+
+  obscure
+
+  steak
+
+  section'
+bip_39_word_new_line8: 'vapor
+
+  distance
+
+  badge
+
+  whale
+
+  obscure
+
+  steak
+
+  section
+
+  room'
+bip_39_word_new_line9: 'vapor
+
+  distance
+
+  badge
+
+  whale
+
+  obscure
+
+  steak
+
+  section
+
+  room
+
+  promote'
+bip_39_word_space_0:
+- vapor
+- distance
+- badge
+- whale
+- obscure
+- steak
+- section
+- room
+- promote
+- lock
+- hurdle
+- affair
+bip_39_word_space_1: vapor
+bip_39_word_space_10: vapor distance badge whale obscure steak section room promote
+  lock
+bip_39_word_space_11: vapor distance badge whale obscure steak section room promote
+  lock hurdle
+bip_39_word_space_12: vapor distance badge whale obscure steak section room promote
+  lock hurdle affair
+bip_39_word_space_2: vapor distance
+bip_39_word_space_3: vapor distance badge
+bip_39_word_space_4: vapor distance badge whale
+bip_39_word_space_5: vapor distance badge whale obscure
+bip_39_word_space_6: vapor distance badge whale obscure steak
+bip_39_word_space_7: vapor distance badge whale obscure steak section
+bip_39_word_space_8: vapor distance badge whale obscure steak section room
+bip_39_word_space_9: vapor distance badge whale obscure steak section room promote
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

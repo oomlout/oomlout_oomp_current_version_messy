@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pluck cable
+  * bip 39 word 3: pluck cable inside
+  * bip 39 word: pluck cable inside system solve loyal unfair remember slush door unable actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pluck |  
+| bip_39_word_new_br10 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal<br>unfair<br>remember<br>slush<br>door |  
+| bip_39_word_new_br11 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal<br>unfair<br>remember<br>slush<br>door<br>unable |  
+| bip_39_word_new_br12 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal<br>unfair<br>remember<br>slush<br>door<br>unable<br>actress |  
+| bip_39_word_new_br2 | pluck<br>cable |  
+| bip_39_word_new_br3 | pluck<br>cable<br>inside |  
+| bip_39_word_new_br4 | pluck<br>cable<br>inside<br>system |  
+| bip_39_word_new_br5 | pluck<br>cable<br>inside<br>system<br>solve |  
+| bip_39_word_new_br6 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal |  
+| bip_39_word_new_br7 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal<br>unfair |  
+| bip_39_word_new_br8 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal<br>unfair<br>remember |  
+| bip_39_word_new_br9 | pluck<br>cable<br>inside<br>system<br>solve<br>loyal<br>unfair<br>remember<br>slush |  
+| bip_39_word_new_line1 | pluck |  
+| bip_39_word_new_line10 | pluck
+cable
+inside
+system
+solve
+loyal
+unfair
+remember
+slush
+door |  
+| bip_39_word_new_line11 | pluck
+cable
+inside
+system
+solve
+loyal
+unfair
+remember
+slush
+door
+unable |  
+| bip_39_word_new_line12 | pluck
+cable
+inside
+system
+solve
+loyal
+unfair
+remember
+slush
+door
+unable
+actress |  
+| bip_39_word_new_line2 | pluck
+cable |  
+| bip_39_word_new_line3 | pluck
+cable
+inside |  
+| bip_39_word_new_line4 | pluck
+cable
+inside
+system |  
+| bip_39_word_new_line5 | pluck
+cable
+inside
+system
+solve |  
+| bip_39_word_new_line6 | pluck
+cable
+inside
+system
+solve
+loyal |  
+| bip_39_word_new_line7 | pluck
+cable
+inside
+system
+solve
+loyal
+unfair |  
+| bip_39_word_new_line8 | pluck
+cable
+inside
+system
+solve
+loyal
+unfair
+remember |  
+| bip_39_word_new_line9 | pluck
+cable
+inside
+system
+solve
+loyal
+unfair
+remember
+slush |  
+| bip_39_word_space_0 | ['pluck', 'cable', 'inside', 'system', 'solve', 'loyal', 'unfair', 'remember', 'slush', 'door', 'unable', 'actress'] |  
+| bip_39_word_space_1 | pluck |  
+| bip_39_word_space_10 | pluck cable inside system solve loyal unfair remember slush door |  
+| bip_39_word_space_11 | pluck cable inside system solve loyal unfair remember slush door unable |  
+| bip_39_word_space_12 | pluck cable inside system solve loyal unfair remember slush door unable actress |  
+| bip_39_word_space_2 | pluck cable |  
+| bip_39_word_space_3 | pluck cable inside |  
+| bip_39_word_space_4 | pluck cable inside system |  
+| bip_39_word_space_5 | pluck cable inside system solve |  
+| bip_39_word_space_6 | pluck cable inside system solve loyal |  
+| bip_39_word_space_7 | pluck cable inside system solve loyal unfair |  
+| bip_39_word_space_8 | pluck cable inside system solve loyal unfair remember |  
+| bip_39_word_space_9 | pluck cable inside system solve loyal unfair remember slush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

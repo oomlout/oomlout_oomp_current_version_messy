@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: solve zebra
+  * bip 39 word 3: solve zebra proof
+  * bip 39 word: solve zebra proof when tissue top relief goddess celery when upgrade annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | solve |  
+| bip_39_word_new_br10 | solve<br>zebra<br>proof<br>when<br>tissue<br>top<br>relief<br>goddess<br>celery<br>when |  
+| bip_39_word_new_br11 | solve<br>zebra<br>proof<br>when<br>tissue<br>top<br>relief<br>goddess<br>celery<br>when<br>upgrade |  
+| bip_39_word_new_br12 | solve<br>zebra<br>proof<br>when<br>tissue<br>top<br>relief<br>goddess<br>celery<br>when<br>upgrade<br>annual |  
+| bip_39_word_new_br2 | solve<br>zebra |  
+| bip_39_word_new_br3 | solve<br>zebra<br>proof |  
+| bip_39_word_new_br4 | solve<br>zebra<br>proof<br>when |  
+| bip_39_word_new_br5 | solve<br>zebra<br>proof<br>when<br>tissue |  
+| bip_39_word_new_br6 | solve<br>zebra<br>proof<br>when<br>tissue<br>top |  
+| bip_39_word_new_br7 | solve<br>zebra<br>proof<br>when<br>tissue<br>top<br>relief |  
+| bip_39_word_new_br8 | solve<br>zebra<br>proof<br>when<br>tissue<br>top<br>relief<br>goddess |  
+| bip_39_word_new_br9 | solve<br>zebra<br>proof<br>when<br>tissue<br>top<br>relief<br>goddess<br>celery |  
+| bip_39_word_new_line1 | solve |  
+| bip_39_word_new_line10 | solve
+zebra
+proof
+when
+tissue
+top
+relief
+goddess
+celery
+when |  
+| bip_39_word_new_line11 | solve
+zebra
+proof
+when
+tissue
+top
+relief
+goddess
+celery
+when
+upgrade |  
+| bip_39_word_new_line12 | solve
+zebra
+proof
+when
+tissue
+top
+relief
+goddess
+celery
+when
+upgrade
+annual |  
+| bip_39_word_new_line2 | solve
+zebra |  
+| bip_39_word_new_line3 | solve
+zebra
+proof |  
+| bip_39_word_new_line4 | solve
+zebra
+proof
+when |  
+| bip_39_word_new_line5 | solve
+zebra
+proof
+when
+tissue |  
+| bip_39_word_new_line6 | solve
+zebra
+proof
+when
+tissue
+top |  
+| bip_39_word_new_line7 | solve
+zebra
+proof
+when
+tissue
+top
+relief |  
+| bip_39_word_new_line8 | solve
+zebra
+proof
+when
+tissue
+top
+relief
+goddess |  
+| bip_39_word_new_line9 | solve
+zebra
+proof
+when
+tissue
+top
+relief
+goddess
+celery |  
+| bip_39_word_space_0 | ['solve', 'zebra', 'proof', 'when', 'tissue', 'top', 'relief', 'goddess', 'celery', 'when', 'upgrade', 'annual'] |  
+| bip_39_word_space_1 | solve |  
+| bip_39_word_space_10 | solve zebra proof when tissue top relief goddess celery when |  
+| bip_39_word_space_11 | solve zebra proof when tissue top relief goddess celery when upgrade |  
+| bip_39_word_space_12 | solve zebra proof when tissue top relief goddess celery when upgrade annual |  
+| bip_39_word_space_2 | solve zebra |  
+| bip_39_word_space_3 | solve zebra proof |  
+| bip_39_word_space_4 | solve zebra proof when |  
+| bip_39_word_space_5 | solve zebra proof when tissue |  
+| bip_39_word_space_6 | solve zebra proof when tissue top |  
+| bip_39_word_space_7 | solve zebra proof when tissue top relief |  
+| bip_39_word_space_8 | solve zebra proof when tissue top relief goddess |  
+| bip_39_word_space_9 | solve zebra proof when tissue top relief goddess celery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

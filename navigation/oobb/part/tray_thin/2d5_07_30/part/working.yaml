@@ -1,3 +1,187 @@
+bip_39_word_new_br1: method
+bip_39_word_new_br10: method<br>mirror<br>suspect<br>violin<br>slogan<br>room<br>tourist<br>turtle<br>beef<br>slide
+bip_39_word_new_br11: method<br>mirror<br>suspect<br>violin<br>slogan<br>room<br>tourist<br>turtle<br>beef<br>slide<br>advice
+bip_39_word_new_br12: method<br>mirror<br>suspect<br>violin<br>slogan<br>room<br>tourist<br>turtle<br>beef<br>slide<br>advice<br>audit
+bip_39_word_new_br2: method<br>mirror
+bip_39_word_new_br3: method<br>mirror<br>suspect
+bip_39_word_new_br4: method<br>mirror<br>suspect<br>violin
+bip_39_word_new_br5: method<br>mirror<br>suspect<br>violin<br>slogan
+bip_39_word_new_br6: method<br>mirror<br>suspect<br>violin<br>slogan<br>room
+bip_39_word_new_br7: method<br>mirror<br>suspect<br>violin<br>slogan<br>room<br>tourist
+bip_39_word_new_br8: method<br>mirror<br>suspect<br>violin<br>slogan<br>room<br>tourist<br>turtle
+bip_39_word_new_br9: method<br>mirror<br>suspect<br>violin<br>slogan<br>room<br>tourist<br>turtle<br>beef
+bip_39_word_new_line1: method
+bip_39_word_new_line10: 'method
+
+  mirror
+
+  suspect
+
+  violin
+
+  slogan
+
+  room
+
+  tourist
+
+  turtle
+
+  beef
+
+  slide'
+bip_39_word_new_line11: 'method
+
+  mirror
+
+  suspect
+
+  violin
+
+  slogan
+
+  room
+
+  tourist
+
+  turtle
+
+  beef
+
+  slide
+
+  advice'
+bip_39_word_new_line12: 'method
+
+  mirror
+
+  suspect
+
+  violin
+
+  slogan
+
+  room
+
+  tourist
+
+  turtle
+
+  beef
+
+  slide
+
+  advice
+
+  audit'
+bip_39_word_new_line2: 'method
+
+  mirror'
+bip_39_word_new_line3: 'method
+
+  mirror
+
+  suspect'
+bip_39_word_new_line4: 'method
+
+  mirror
+
+  suspect
+
+  violin'
+bip_39_word_new_line5: 'method
+
+  mirror
+
+  suspect
+
+  violin
+
+  slogan'
+bip_39_word_new_line6: 'method
+
+  mirror
+
+  suspect
+
+  violin
+
+  slogan
+
+  room'
+bip_39_word_new_line7: 'method
+
+  mirror
+
+  suspect
+
+  violin
+
+  slogan
+
+  room
+
+  tourist'
+bip_39_word_new_line8: 'method
+
+  mirror
+
+  suspect
+
+  violin
+
+  slogan
+
+  room
+
+  tourist
+
+  turtle'
+bip_39_word_new_line9: 'method
+
+  mirror
+
+  suspect
+
+  violin
+
+  slogan
+
+  room
+
+  tourist
+
+  turtle
+
+  beef'
+bip_39_word_space_0:
+- method
+- mirror
+- suspect
+- violin
+- slogan
+- room
+- tourist
+- turtle
+- beef
+- slide
+- advice
+- audit
+bip_39_word_space_1: method
+bip_39_word_space_10: method mirror suspect violin slogan room tourist turtle beef
+  slide
+bip_39_word_space_11: method mirror suspect violin slogan room tourist turtle beef
+  slide advice
+bip_39_word_space_12: method mirror suspect violin slogan room tourist turtle beef
+  slide advice audit
+bip_39_word_space_2: method mirror
+bip_39_word_space_3: method mirror suspect
+bip_39_word_space_4: method mirror suspect violin
+bip_39_word_space_5: method mirror suspect violin slogan
+bip_39_word_space_6: method mirror suspect violin slogan room
+bip_39_word_space_7: method mirror suspect violin slogan room tourist
+bip_39_word_space_8: method mirror suspect violin slogan room tourist turtle
+bip_39_word_space_9: method mirror suspect violin slogan room tourist turtle beef
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

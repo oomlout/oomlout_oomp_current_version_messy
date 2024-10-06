@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: task beauty
+  * bip 39 word 3: task beauty announce
+  * bip 39 word: task beauty announce wide honey science solution card window rebuild desert absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | task |  
+| bip_39_word_new_br10 | task<br>beauty<br>announce<br>wide<br>honey<br>science<br>solution<br>card<br>window<br>rebuild |  
+| bip_39_word_new_br11 | task<br>beauty<br>announce<br>wide<br>honey<br>science<br>solution<br>card<br>window<br>rebuild<br>desert |  
+| bip_39_word_new_br12 | task<br>beauty<br>announce<br>wide<br>honey<br>science<br>solution<br>card<br>window<br>rebuild<br>desert<br>absent |  
+| bip_39_word_new_br2 | task<br>beauty |  
+| bip_39_word_new_br3 | task<br>beauty<br>announce |  
+| bip_39_word_new_br4 | task<br>beauty<br>announce<br>wide |  
+| bip_39_word_new_br5 | task<br>beauty<br>announce<br>wide<br>honey |  
+| bip_39_word_new_br6 | task<br>beauty<br>announce<br>wide<br>honey<br>science |  
+| bip_39_word_new_br7 | task<br>beauty<br>announce<br>wide<br>honey<br>science<br>solution |  
+| bip_39_word_new_br8 | task<br>beauty<br>announce<br>wide<br>honey<br>science<br>solution<br>card |  
+| bip_39_word_new_br9 | task<br>beauty<br>announce<br>wide<br>honey<br>science<br>solution<br>card<br>window |  
+| bip_39_word_new_line1 | task |  
+| bip_39_word_new_line10 | task
+beauty
+announce
+wide
+honey
+science
+solution
+card
+window
+rebuild |  
+| bip_39_word_new_line11 | task
+beauty
+announce
+wide
+honey
+science
+solution
+card
+window
+rebuild
+desert |  
+| bip_39_word_new_line12 | task
+beauty
+announce
+wide
+honey
+science
+solution
+card
+window
+rebuild
+desert
+absent |  
+| bip_39_word_new_line2 | task
+beauty |  
+| bip_39_word_new_line3 | task
+beauty
+announce |  
+| bip_39_word_new_line4 | task
+beauty
+announce
+wide |  
+| bip_39_word_new_line5 | task
+beauty
+announce
+wide
+honey |  
+| bip_39_word_new_line6 | task
+beauty
+announce
+wide
+honey
+science |  
+| bip_39_word_new_line7 | task
+beauty
+announce
+wide
+honey
+science
+solution |  
+| bip_39_word_new_line8 | task
+beauty
+announce
+wide
+honey
+science
+solution
+card |  
+| bip_39_word_new_line9 | task
+beauty
+announce
+wide
+honey
+science
+solution
+card
+window |  
+| bip_39_word_space_0 | ['task', 'beauty', 'announce', 'wide', 'honey', 'science', 'solution', 'card', 'window', 'rebuild', 'desert', 'absent'] |  
+| bip_39_word_space_1 | task |  
+| bip_39_word_space_10 | task beauty announce wide honey science solution card window rebuild |  
+| bip_39_word_space_11 | task beauty announce wide honey science solution card window rebuild desert |  
+| bip_39_word_space_12 | task beauty announce wide honey science solution card window rebuild desert absent |  
+| bip_39_word_space_2 | task beauty |  
+| bip_39_word_space_3 | task beauty announce |  
+| bip_39_word_space_4 | task beauty announce wide |  
+| bip_39_word_space_5 | task beauty announce wide honey |  
+| bip_39_word_space_6 | task beauty announce wide honey science |  
+| bip_39_word_space_7 | task beauty announce wide honey science solution |  
+| bip_39_word_space_8 | task beauty announce wide honey science solution card |  
+| bip_39_word_space_9 | task beauty announce wide honey science solution card window |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: people frequent
+  * bip 39 word 3: people frequent fragile
+  * bip 39 word: people frequent fragile control question royal category patrol drop milk october assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | people |  
+| bip_39_word_new_br10 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk |  
+| bip_39_word_new_br11 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk<br>october |  
+| bip_39_word_new_br12 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop<br>milk<br>october<br>assist |  
+| bip_39_word_new_br2 | people<br>frequent |  
+| bip_39_word_new_br3 | people<br>frequent<br>fragile |  
+| bip_39_word_new_br4 | people<br>frequent<br>fragile<br>control |  
+| bip_39_word_new_br5 | people<br>frequent<br>fragile<br>control<br>question |  
+| bip_39_word_new_br6 | people<br>frequent<br>fragile<br>control<br>question<br>royal |  
+| bip_39_word_new_br7 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category |  
+| bip_39_word_new_br8 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol |  
+| bip_39_word_new_br9 | people<br>frequent<br>fragile<br>control<br>question<br>royal<br>category<br>patrol<br>drop |  
+| bip_39_word_new_line1 | people |  
+| bip_39_word_new_line10 | people
+frequent
+fragile
+control
+question
+royal
+category
+patrol
+drop
+milk |  
+| bip_39_word_new_line11 | people
+frequent
+fragile
+control
+question
+royal
+category
+patrol
+drop
+milk
+october |  
+| bip_39_word_new_line12 | people
+frequent
+fragile
+control
+question
+royal
+category
+patrol
+drop
+milk
+october
+assist |  
+| bip_39_word_new_line2 | people
+frequent |  
+| bip_39_word_new_line3 | people
+frequent
+fragile |  
+| bip_39_word_new_line4 | people
+frequent
+fragile
+control |  
+| bip_39_word_new_line5 | people
+frequent
+fragile
+control
+question |  
+| bip_39_word_new_line6 | people
+frequent
+fragile
+control
+question
+royal |  
+| bip_39_word_new_line7 | people
+frequent
+fragile
+control
+question
+royal
+category |  
+| bip_39_word_new_line8 | people
+frequent
+fragile
+control
+question
+royal
+category
+patrol |  
+| bip_39_word_new_line9 | people
+frequent
+fragile
+control
+question
+royal
+category
+patrol
+drop |  
+| bip_39_word_space_0 | ['people', 'frequent', 'fragile', 'control', 'question', 'royal', 'category', 'patrol', 'drop', 'milk', 'october', 'assist'] |  
+| bip_39_word_space_1 | people |  
+| bip_39_word_space_10 | people frequent fragile control question royal category patrol drop milk |  
+| bip_39_word_space_11 | people frequent fragile control question royal category patrol drop milk october |  
+| bip_39_word_space_12 | people frequent fragile control question royal category patrol drop milk october assist |  
+| bip_39_word_space_2 | people frequent |  
+| bip_39_word_space_3 | people frequent fragile |  
+| bip_39_word_space_4 | people frequent fragile control |  
+| bip_39_word_space_5 | people frequent fragile control question |  
+| bip_39_word_space_6 | people frequent fragile control question royal |  
+| bip_39_word_space_7 | people frequent fragile control question royal category |  
+| bip_39_word_space_8 | people frequent fragile control question royal category patrol |  
+| bip_39_word_space_9 | people frequent fragile control question royal category patrol drop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

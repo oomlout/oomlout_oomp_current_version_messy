@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: helmet update
+  * bip 39 word 3: helmet update wrong
+  * bip 39 word: helmet update wrong spoil smooth foster knee top neutral panda finish advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | helmet |  
+| bip_39_word_new_br10 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster<br>knee<br>top<br>neutral<br>panda |  
+| bip_39_word_new_br11 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster<br>knee<br>top<br>neutral<br>panda<br>finish |  
+| bip_39_word_new_br12 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster<br>knee<br>top<br>neutral<br>panda<br>finish<br>advice |  
+| bip_39_word_new_br2 | helmet<br>update |  
+| bip_39_word_new_br3 | helmet<br>update<br>wrong |  
+| bip_39_word_new_br4 | helmet<br>update<br>wrong<br>spoil |  
+| bip_39_word_new_br5 | helmet<br>update<br>wrong<br>spoil<br>smooth |  
+| bip_39_word_new_br6 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster |  
+| bip_39_word_new_br7 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster<br>knee |  
+| bip_39_word_new_br8 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster<br>knee<br>top |  
+| bip_39_word_new_br9 | helmet<br>update<br>wrong<br>spoil<br>smooth<br>foster<br>knee<br>top<br>neutral |  
+| bip_39_word_new_line1 | helmet |  
+| bip_39_word_new_line10 | helmet
+update
+wrong
+spoil
+smooth
+foster
+knee
+top
+neutral
+panda |  
+| bip_39_word_new_line11 | helmet
+update
+wrong
+spoil
+smooth
+foster
+knee
+top
+neutral
+panda
+finish |  
+| bip_39_word_new_line12 | helmet
+update
+wrong
+spoil
+smooth
+foster
+knee
+top
+neutral
+panda
+finish
+advice |  
+| bip_39_word_new_line2 | helmet
+update |  
+| bip_39_word_new_line3 | helmet
+update
+wrong |  
+| bip_39_word_new_line4 | helmet
+update
+wrong
+spoil |  
+| bip_39_word_new_line5 | helmet
+update
+wrong
+spoil
+smooth |  
+| bip_39_word_new_line6 | helmet
+update
+wrong
+spoil
+smooth
+foster |  
+| bip_39_word_new_line7 | helmet
+update
+wrong
+spoil
+smooth
+foster
+knee |  
+| bip_39_word_new_line8 | helmet
+update
+wrong
+spoil
+smooth
+foster
+knee
+top |  
+| bip_39_word_new_line9 | helmet
+update
+wrong
+spoil
+smooth
+foster
+knee
+top
+neutral |  
+| bip_39_word_space_0 | ['helmet', 'update', 'wrong', 'spoil', 'smooth', 'foster', 'knee', 'top', 'neutral', 'panda', 'finish', 'advice'] |  
+| bip_39_word_space_1 | helmet |  
+| bip_39_word_space_10 | helmet update wrong spoil smooth foster knee top neutral panda |  
+| bip_39_word_space_11 | helmet update wrong spoil smooth foster knee top neutral panda finish |  
+| bip_39_word_space_12 | helmet update wrong spoil smooth foster knee top neutral panda finish advice |  
+| bip_39_word_space_2 | helmet update |  
+| bip_39_word_space_3 | helmet update wrong |  
+| bip_39_word_space_4 | helmet update wrong spoil |  
+| bip_39_word_space_5 | helmet update wrong spoil smooth |  
+| bip_39_word_space_6 | helmet update wrong spoil smooth foster |  
+| bip_39_word_space_7 | helmet update wrong spoil smooth foster knee |  
+| bip_39_word_space_8 | helmet update wrong spoil smooth foster knee top |  
+| bip_39_word_space_9 | helmet update wrong spoil smooth foster knee top neutral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: extend
+bip_39_word_new_br10: extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin
+bip_39_word_new_br11: extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin<br>rigid
+bip_39_word_new_br12: extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door<br>twin<br>rigid<br>another
+bip_39_word_new_br2: extend<br>roof
+bip_39_word_new_br3: extend<br>roof<br>circle
+bip_39_word_new_br4: extend<br>roof<br>circle<br>novel
+bip_39_word_new_br5: extend<br>roof<br>circle<br>novel<br>three
+bip_39_word_new_br6: extend<br>roof<br>circle<br>novel<br>three<br>select
+bip_39_word_new_br7: extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit
+bip_39_word_new_br8: extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble
+bip_39_word_new_br9: extend<br>roof<br>circle<br>novel<br>three<br>select<br>limit<br>noble<br>door
+bip_39_word_new_line1: extend
+bip_39_word_new_line10: 'extend
+
+  roof
+
+  circle
+
+  novel
+
+  three
+
+  select
+
+  limit
+
+  noble
+
+  door
+
+  twin'
+bip_39_word_new_line11: 'extend
+
+  roof
+
+  circle
+
+  novel
+
+  three
+
+  select
+
+  limit
+
+  noble
+
+  door
+
+  twin
+
+  rigid'
+bip_39_word_new_line12: 'extend
+
+  roof
+
+  circle
+
+  novel
+
+  three
+
+  select
+
+  limit
+
+  noble
+
+  door
+
+  twin
+
+  rigid
+
+  another'
+bip_39_word_new_line2: 'extend
+
+  roof'
+bip_39_word_new_line3: 'extend
+
+  roof
+
+  circle'
+bip_39_word_new_line4: 'extend
+
+  roof
+
+  circle
+
+  novel'
+bip_39_word_new_line5: 'extend
+
+  roof
+
+  circle
+
+  novel
+
+  three'
+bip_39_word_new_line6: 'extend
+
+  roof
+
+  circle
+
+  novel
+
+  three
+
+  select'
+bip_39_word_new_line7: 'extend
+
+  roof
+
+  circle
+
+  novel
+
+  three
+
+  select
+
+  limit'
+bip_39_word_new_line8: 'extend
+
+  roof
+
+  circle
+
+  novel
+
+  three
+
+  select
+
+  limit
+
+  noble'
+bip_39_word_new_line9: 'extend
+
+  roof
+
+  circle
+
+  novel
+
+  three
+
+  select
+
+  limit
+
+  noble
+
+  door'
+bip_39_word_space_0:
+- extend
+- roof
+- circle
+- novel
+- three
+- select
+- limit
+- noble
+- door
+- twin
+- rigid
+- another
+bip_39_word_space_1: extend
+bip_39_word_space_10: extend roof circle novel three select limit noble door twin
+bip_39_word_space_11: extend roof circle novel three select limit noble door twin
+  rigid
+bip_39_word_space_12: extend roof circle novel three select limit noble door twin
+  rigid another
+bip_39_word_space_2: extend roof
+bip_39_word_space_3: extend roof circle
+bip_39_word_space_4: extend roof circle novel
+bip_39_word_space_5: extend roof circle novel three
+bip_39_word_space_6: extend roof circle novel three select
+bip_39_word_space_7: extend roof circle novel three select limit
+bip_39_word_space_8: extend roof circle novel three select limit noble
+bip_39_word_space_9: extend roof circle novel three select limit noble door
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

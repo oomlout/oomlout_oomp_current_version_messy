@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shallow moon
+  * bip 39 word 3: shallow moon reject
+  * bip 39 word: shallow moon reject cattle unaware glad fitness spice trap day tent advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shallow |  
+| bip_39_word_new_br10 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad<br>fitness<br>spice<br>trap<br>day |  
+| bip_39_word_new_br11 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad<br>fitness<br>spice<br>trap<br>day<br>tent |  
+| bip_39_word_new_br12 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad<br>fitness<br>spice<br>trap<br>day<br>tent<br>advance |  
+| bip_39_word_new_br2 | shallow<br>moon |  
+| bip_39_word_new_br3 | shallow<br>moon<br>reject |  
+| bip_39_word_new_br4 | shallow<br>moon<br>reject<br>cattle |  
+| bip_39_word_new_br5 | shallow<br>moon<br>reject<br>cattle<br>unaware |  
+| bip_39_word_new_br6 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad |  
+| bip_39_word_new_br7 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad<br>fitness |  
+| bip_39_word_new_br8 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad<br>fitness<br>spice |  
+| bip_39_word_new_br9 | shallow<br>moon<br>reject<br>cattle<br>unaware<br>glad<br>fitness<br>spice<br>trap |  
+| bip_39_word_new_line1 | shallow |  
+| bip_39_word_new_line10 | shallow
+moon
+reject
+cattle
+unaware
+glad
+fitness
+spice
+trap
+day |  
+| bip_39_word_new_line11 | shallow
+moon
+reject
+cattle
+unaware
+glad
+fitness
+spice
+trap
+day
+tent |  
+| bip_39_word_new_line12 | shallow
+moon
+reject
+cattle
+unaware
+glad
+fitness
+spice
+trap
+day
+tent
+advance |  
+| bip_39_word_new_line2 | shallow
+moon |  
+| bip_39_word_new_line3 | shallow
+moon
+reject |  
+| bip_39_word_new_line4 | shallow
+moon
+reject
+cattle |  
+| bip_39_word_new_line5 | shallow
+moon
+reject
+cattle
+unaware |  
+| bip_39_word_new_line6 | shallow
+moon
+reject
+cattle
+unaware
+glad |  
+| bip_39_word_new_line7 | shallow
+moon
+reject
+cattle
+unaware
+glad
+fitness |  
+| bip_39_word_new_line8 | shallow
+moon
+reject
+cattle
+unaware
+glad
+fitness
+spice |  
+| bip_39_word_new_line9 | shallow
+moon
+reject
+cattle
+unaware
+glad
+fitness
+spice
+trap |  
+| bip_39_word_space_0 | ['shallow', 'moon', 'reject', 'cattle', 'unaware', 'glad', 'fitness', 'spice', 'trap', 'day', 'tent', 'advance'] |  
+| bip_39_word_space_1 | shallow |  
+| bip_39_word_space_10 | shallow moon reject cattle unaware glad fitness spice trap day |  
+| bip_39_word_space_11 | shallow moon reject cattle unaware glad fitness spice trap day tent |  
+| bip_39_word_space_12 | shallow moon reject cattle unaware glad fitness spice trap day tent advance |  
+| bip_39_word_space_2 | shallow moon |  
+| bip_39_word_space_3 | shallow moon reject |  
+| bip_39_word_space_4 | shallow moon reject cattle |  
+| bip_39_word_space_5 | shallow moon reject cattle unaware |  
+| bip_39_word_space_6 | shallow moon reject cattle unaware glad |  
+| bip_39_word_space_7 | shallow moon reject cattle unaware glad fitness |  
+| bip_39_word_space_8 | shallow moon reject cattle unaware glad fitness spice |  
+| bip_39_word_space_9 | shallow moon reject cattle unaware glad fitness spice trap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

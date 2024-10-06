@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_servo_standard_01_bottom
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: embrace olive
+  * bip 39 word 3: embrace olive wonder
+  * bip 39 word: embrace olive wonder guitar pizza creek pelican soon early kind enforce afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | embrace |  
+| bip_39_word_new_br10 | embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek<br>pelican<br>soon<br>early<br>kind |  
+| bip_39_word_new_br11 | embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek<br>pelican<br>soon<br>early<br>kind<br>enforce |  
+| bip_39_word_new_br12 | embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek<br>pelican<br>soon<br>early<br>kind<br>enforce<br>afford |  
+| bip_39_word_new_br2 | embrace<br>olive |  
+| bip_39_word_new_br3 | embrace<br>olive<br>wonder |  
+| bip_39_word_new_br4 | embrace<br>olive<br>wonder<br>guitar |  
+| bip_39_word_new_br5 | embrace<br>olive<br>wonder<br>guitar<br>pizza |  
+| bip_39_word_new_br6 | embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek |  
+| bip_39_word_new_br7 | embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek<br>pelican |  
+| bip_39_word_new_br8 | embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek<br>pelican<br>soon |  
+| bip_39_word_new_br9 | embrace<br>olive<br>wonder<br>guitar<br>pizza<br>creek<br>pelican<br>soon<br>early |  
+| bip_39_word_new_line1 | embrace |  
+| bip_39_word_new_line10 | embrace
+olive
+wonder
+guitar
+pizza
+creek
+pelican
+soon
+early
+kind |  
+| bip_39_word_new_line11 | embrace
+olive
+wonder
+guitar
+pizza
+creek
+pelican
+soon
+early
+kind
+enforce |  
+| bip_39_word_new_line12 | embrace
+olive
+wonder
+guitar
+pizza
+creek
+pelican
+soon
+early
+kind
+enforce
+afford |  
+| bip_39_word_new_line2 | embrace
+olive |  
+| bip_39_word_new_line3 | embrace
+olive
+wonder |  
+| bip_39_word_new_line4 | embrace
+olive
+wonder
+guitar |  
+| bip_39_word_new_line5 | embrace
+olive
+wonder
+guitar
+pizza |  
+| bip_39_word_new_line6 | embrace
+olive
+wonder
+guitar
+pizza
+creek |  
+| bip_39_word_new_line7 | embrace
+olive
+wonder
+guitar
+pizza
+creek
+pelican |  
+| bip_39_word_new_line8 | embrace
+olive
+wonder
+guitar
+pizza
+creek
+pelican
+soon |  
+| bip_39_word_new_line9 | embrace
+olive
+wonder
+guitar
+pizza
+creek
+pelican
+soon
+early |  
+| bip_39_word_space_0 | ['embrace', 'olive', 'wonder', 'guitar', 'pizza', 'creek', 'pelican', 'soon', 'early', 'kind', 'enforce', 'afford'] |  
+| bip_39_word_space_1 | embrace |  
+| bip_39_word_space_10 | embrace olive wonder guitar pizza creek pelican soon early kind |  
+| bip_39_word_space_11 | embrace olive wonder guitar pizza creek pelican soon early kind enforce |  
+| bip_39_word_space_12 | embrace olive wonder guitar pizza creek pelican soon early kind enforce afford |  
+| bip_39_word_space_2 | embrace olive |  
+| bip_39_word_space_3 | embrace olive wonder |  
+| bip_39_word_space_4 | embrace olive wonder guitar |  
+| bip_39_word_space_5 | embrace olive wonder guitar pizza |  
+| bip_39_word_space_6 | embrace olive wonder guitar pizza creek |  
+| bip_39_word_space_7 | embrace olive wonder guitar pizza creek pelican |  
+| bip_39_word_space_8 | embrace olive wonder guitar pizza creek pelican soon |  
+| bip_39_word_space_9 | embrace olive wonder guitar pizza creek pelican soon early |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

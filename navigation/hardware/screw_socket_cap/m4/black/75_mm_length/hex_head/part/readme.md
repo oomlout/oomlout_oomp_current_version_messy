@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deer outside
+  * bip 39 word 3: deer outside test
+  * bip 39 word: deer outside test achieve guilt cement column cry inform grass now alert
 
 ### other_codes
 * short_code: sc4b75h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deer |  
+| bip_39_word_new_br10 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform<br>grass |  
+| bip_39_word_new_br11 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform<br>grass<br>now |  
+| bip_39_word_new_br12 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform<br>grass<br>now<br>alert |  
+| bip_39_word_new_br2 | deer<br>outside |  
+| bip_39_word_new_br3 | deer<br>outside<br>test |  
+| bip_39_word_new_br4 | deer<br>outside<br>test<br>achieve |  
+| bip_39_word_new_br5 | deer<br>outside<br>test<br>achieve<br>guilt |  
+| bip_39_word_new_br6 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement |  
+| bip_39_word_new_br7 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column |  
+| bip_39_word_new_br8 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry |  
+| bip_39_word_new_br9 | deer<br>outside<br>test<br>achieve<br>guilt<br>cement<br>column<br>cry<br>inform |  
+| bip_39_word_new_line1 | deer |  
+| bip_39_word_new_line10 | deer
+outside
+test
+achieve
+guilt
+cement
+column
+cry
+inform
+grass |  
+| bip_39_word_new_line11 | deer
+outside
+test
+achieve
+guilt
+cement
+column
+cry
+inform
+grass
+now |  
+| bip_39_word_new_line12 | deer
+outside
+test
+achieve
+guilt
+cement
+column
+cry
+inform
+grass
+now
+alert |  
+| bip_39_word_new_line2 | deer
+outside |  
+| bip_39_word_new_line3 | deer
+outside
+test |  
+| bip_39_word_new_line4 | deer
+outside
+test
+achieve |  
+| bip_39_word_new_line5 | deer
+outside
+test
+achieve
+guilt |  
+| bip_39_word_new_line6 | deer
+outside
+test
+achieve
+guilt
+cement |  
+| bip_39_word_new_line7 | deer
+outside
+test
+achieve
+guilt
+cement
+column |  
+| bip_39_word_new_line8 | deer
+outside
+test
+achieve
+guilt
+cement
+column
+cry |  
+| bip_39_word_new_line9 | deer
+outside
+test
+achieve
+guilt
+cement
+column
+cry
+inform |  
+| bip_39_word_space_0 | ['deer', 'outside', 'test', 'achieve', 'guilt', 'cement', 'column', 'cry', 'inform', 'grass', 'now', 'alert'] |  
+| bip_39_word_space_1 | deer |  
+| bip_39_word_space_10 | deer outside test achieve guilt cement column cry inform grass |  
+| bip_39_word_space_11 | deer outside test achieve guilt cement column cry inform grass now |  
+| bip_39_word_space_12 | deer outside test achieve guilt cement column cry inform grass now alert |  
+| bip_39_word_space_2 | deer outside |  
+| bip_39_word_space_3 | deer outside test |  
+| bip_39_word_space_4 | deer outside test achieve |  
+| bip_39_word_space_5 | deer outside test achieve guilt |  
+| bip_39_word_space_6 | deer outside test achieve guilt cement |  
+| bip_39_word_space_7 | deer outside test achieve guilt cement column |  
+| bip_39_word_space_8 | deer outside test achieve guilt cement column cry |  
+| bip_39_word_space_9 | deer outside test achieve guilt cement column cry inform |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

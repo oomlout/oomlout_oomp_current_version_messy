@@ -1,3 +1,187 @@
+bip_39_word_new_br1: detect
+bip_39_word_new_br10: detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner
+bip_39_word_new_br11: detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner<br>century
+bip_39_word_new_br12: detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch<br>banner<br>century<br>arena
+bip_39_word_new_br2: detect<br>slight
+bip_39_word_new_br3: detect<br>slight<br>coconut
+bip_39_word_new_br4: detect<br>slight<br>coconut<br>clap
+bip_39_word_new_br5: detect<br>slight<br>coconut<br>clap<br>real
+bip_39_word_new_br6: detect<br>slight<br>coconut<br>clap<br>real<br>exclude
+bip_39_word_new_br7: detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky
+bip_39_word_new_br8: detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version
+bip_39_word_new_br9: detect<br>slight<br>coconut<br>clap<br>real<br>exclude<br>lucky<br>version<br>torch
+bip_39_word_new_line1: detect
+bip_39_word_new_line10: 'detect
+
+  slight
+
+  coconut
+
+  clap
+
+  real
+
+  exclude
+
+  lucky
+
+  version
+
+  torch
+
+  banner'
+bip_39_word_new_line11: 'detect
+
+  slight
+
+  coconut
+
+  clap
+
+  real
+
+  exclude
+
+  lucky
+
+  version
+
+  torch
+
+  banner
+
+  century'
+bip_39_word_new_line12: 'detect
+
+  slight
+
+  coconut
+
+  clap
+
+  real
+
+  exclude
+
+  lucky
+
+  version
+
+  torch
+
+  banner
+
+  century
+
+  arena'
+bip_39_word_new_line2: 'detect
+
+  slight'
+bip_39_word_new_line3: 'detect
+
+  slight
+
+  coconut'
+bip_39_word_new_line4: 'detect
+
+  slight
+
+  coconut
+
+  clap'
+bip_39_word_new_line5: 'detect
+
+  slight
+
+  coconut
+
+  clap
+
+  real'
+bip_39_word_new_line6: 'detect
+
+  slight
+
+  coconut
+
+  clap
+
+  real
+
+  exclude'
+bip_39_word_new_line7: 'detect
+
+  slight
+
+  coconut
+
+  clap
+
+  real
+
+  exclude
+
+  lucky'
+bip_39_word_new_line8: 'detect
+
+  slight
+
+  coconut
+
+  clap
+
+  real
+
+  exclude
+
+  lucky
+
+  version'
+bip_39_word_new_line9: 'detect
+
+  slight
+
+  coconut
+
+  clap
+
+  real
+
+  exclude
+
+  lucky
+
+  version
+
+  torch'
+bip_39_word_space_0:
+- detect
+- slight
+- coconut
+- clap
+- real
+- exclude
+- lucky
+- version
+- torch
+- banner
+- century
+- arena
+bip_39_word_space_1: detect
+bip_39_word_space_10: detect slight coconut clap real exclude lucky version torch
+  banner
+bip_39_word_space_11: detect slight coconut clap real exclude lucky version torch
+  banner century
+bip_39_word_space_12: detect slight coconut clap real exclude lucky version torch
+  banner century arena
+bip_39_word_space_2: detect slight
+bip_39_word_space_3: detect slight coconut
+bip_39_word_space_4: detect slight coconut clap
+bip_39_word_space_5: detect slight coconut clap real
+bip_39_word_space_6: detect slight coconut clap real exclude
+bip_39_word_space_7: detect slight coconut clap real exclude lucky
+bip_39_word_space_8: detect slight coconut clap real exclude lucky version
+bip_39_word_space_9: detect slight coconut clap real exclude lucky version torch
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

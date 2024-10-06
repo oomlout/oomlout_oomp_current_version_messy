@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crush output
+  * bip 39 word 3: crush output mistake
+  * bip 39 word: crush output mistake team forward lab volume wool color bring present allow
 
 ### other_codes
 * short_code: sc2b14h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crush |  
+| bip_39_word_new_br10 | crush<br>output<br>mistake<br>team<br>forward<br>lab<br>volume<br>wool<br>color<br>bring |  
+| bip_39_word_new_br11 | crush<br>output<br>mistake<br>team<br>forward<br>lab<br>volume<br>wool<br>color<br>bring<br>present |  
+| bip_39_word_new_br12 | crush<br>output<br>mistake<br>team<br>forward<br>lab<br>volume<br>wool<br>color<br>bring<br>present<br>allow |  
+| bip_39_word_new_br2 | crush<br>output |  
+| bip_39_word_new_br3 | crush<br>output<br>mistake |  
+| bip_39_word_new_br4 | crush<br>output<br>mistake<br>team |  
+| bip_39_word_new_br5 | crush<br>output<br>mistake<br>team<br>forward |  
+| bip_39_word_new_br6 | crush<br>output<br>mistake<br>team<br>forward<br>lab |  
+| bip_39_word_new_br7 | crush<br>output<br>mistake<br>team<br>forward<br>lab<br>volume |  
+| bip_39_word_new_br8 | crush<br>output<br>mistake<br>team<br>forward<br>lab<br>volume<br>wool |  
+| bip_39_word_new_br9 | crush<br>output<br>mistake<br>team<br>forward<br>lab<br>volume<br>wool<br>color |  
+| bip_39_word_new_line1 | crush |  
+| bip_39_word_new_line10 | crush
+output
+mistake
+team
+forward
+lab
+volume
+wool
+color
+bring |  
+| bip_39_word_new_line11 | crush
+output
+mistake
+team
+forward
+lab
+volume
+wool
+color
+bring
+present |  
+| bip_39_word_new_line12 | crush
+output
+mistake
+team
+forward
+lab
+volume
+wool
+color
+bring
+present
+allow |  
+| bip_39_word_new_line2 | crush
+output |  
+| bip_39_word_new_line3 | crush
+output
+mistake |  
+| bip_39_word_new_line4 | crush
+output
+mistake
+team |  
+| bip_39_word_new_line5 | crush
+output
+mistake
+team
+forward |  
+| bip_39_word_new_line6 | crush
+output
+mistake
+team
+forward
+lab |  
+| bip_39_word_new_line7 | crush
+output
+mistake
+team
+forward
+lab
+volume |  
+| bip_39_word_new_line8 | crush
+output
+mistake
+team
+forward
+lab
+volume
+wool |  
+| bip_39_word_new_line9 | crush
+output
+mistake
+team
+forward
+lab
+volume
+wool
+color |  
+| bip_39_word_space_0 | ['crush', 'output', 'mistake', 'team', 'forward', 'lab', 'volume', 'wool', 'color', 'bring', 'present', 'allow'] |  
+| bip_39_word_space_1 | crush |  
+| bip_39_word_space_10 | crush output mistake team forward lab volume wool color bring |  
+| bip_39_word_space_11 | crush output mistake team forward lab volume wool color bring present |  
+| bip_39_word_space_12 | crush output mistake team forward lab volume wool color bring present allow |  
+| bip_39_word_space_2 | crush output |  
+| bip_39_word_space_3 | crush output mistake |  
+| bip_39_word_space_4 | crush output mistake team |  
+| bip_39_word_space_5 | crush output mistake team forward |  
+| bip_39_word_space_6 | crush output mistake team forward lab |  
+| bip_39_word_space_7 | crush output mistake team forward lab volume |  
+| bip_39_word_space_8 | crush output mistake team forward lab volume wool |  
+| bip_39_word_space_9 | crush output mistake team forward lab volume wool color |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

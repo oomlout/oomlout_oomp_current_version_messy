@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pony example
+  * bip 39 word 3: pony example ice
+  * bip 39 word: pony example ice spend steel subway notice file torch plug card ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pony |  
+| bip_39_word_new_br10 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug |  
+| bip_39_word_new_br11 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug<br>card |  
+| bip_39_word_new_br12 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch<br>plug<br>card<br>ask |  
+| bip_39_word_new_br2 | pony<br>example |  
+| bip_39_word_new_br3 | pony<br>example<br>ice |  
+| bip_39_word_new_br4 | pony<br>example<br>ice<br>spend |  
+| bip_39_word_new_br5 | pony<br>example<br>ice<br>spend<br>steel |  
+| bip_39_word_new_br6 | pony<br>example<br>ice<br>spend<br>steel<br>subway |  
+| bip_39_word_new_br7 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice |  
+| bip_39_word_new_br8 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file |  
+| bip_39_word_new_br9 | pony<br>example<br>ice<br>spend<br>steel<br>subway<br>notice<br>file<br>torch |  
+| bip_39_word_new_line1 | pony |  
+| bip_39_word_new_line10 | pony
+example
+ice
+spend
+steel
+subway
+notice
+file
+torch
+plug |  
+| bip_39_word_new_line11 | pony
+example
+ice
+spend
+steel
+subway
+notice
+file
+torch
+plug
+card |  
+| bip_39_word_new_line12 | pony
+example
+ice
+spend
+steel
+subway
+notice
+file
+torch
+plug
+card
+ask |  
+| bip_39_word_new_line2 | pony
+example |  
+| bip_39_word_new_line3 | pony
+example
+ice |  
+| bip_39_word_new_line4 | pony
+example
+ice
+spend |  
+| bip_39_word_new_line5 | pony
+example
+ice
+spend
+steel |  
+| bip_39_word_new_line6 | pony
+example
+ice
+spend
+steel
+subway |  
+| bip_39_word_new_line7 | pony
+example
+ice
+spend
+steel
+subway
+notice |  
+| bip_39_word_new_line8 | pony
+example
+ice
+spend
+steel
+subway
+notice
+file |  
+| bip_39_word_new_line9 | pony
+example
+ice
+spend
+steel
+subway
+notice
+file
+torch |  
+| bip_39_word_space_0 | ['pony', 'example', 'ice', 'spend', 'steel', 'subway', 'notice', 'file', 'torch', 'plug', 'card', 'ask'] |  
+| bip_39_word_space_1 | pony |  
+| bip_39_word_space_10 | pony example ice spend steel subway notice file torch plug |  
+| bip_39_word_space_11 | pony example ice spend steel subway notice file torch plug card |  
+| bip_39_word_space_12 | pony example ice spend steel subway notice file torch plug card ask |  
+| bip_39_word_space_2 | pony example |  
+| bip_39_word_space_3 | pony example ice |  
+| bip_39_word_space_4 | pony example ice spend |  
+| bip_39_word_space_5 | pony example ice spend steel |  
+| bip_39_word_space_6 | pony example ice spend steel subway |  
+| bip_39_word_space_7 | pony example ice spend steel subway notice |  
+| bip_39_word_space_8 | pony example ice spend steel subway notice file |  
+| bip_39_word_space_9 | pony example ice spend steel subway notice file torch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fiber tell
+  * bip 39 word 3: fiber tell judge
+  * bip 39 word: fiber tell judge color business meadow narrow vague army hockey day accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fiber |  
+| bip_39_word_new_br10 | fiber<br>tell<br>judge<br>color<br>business<br>meadow<br>narrow<br>vague<br>army<br>hockey |  
+| bip_39_word_new_br11 | fiber<br>tell<br>judge<br>color<br>business<br>meadow<br>narrow<br>vague<br>army<br>hockey<br>day |  
+| bip_39_word_new_br12 | fiber<br>tell<br>judge<br>color<br>business<br>meadow<br>narrow<br>vague<br>army<br>hockey<br>day<br>accident |  
+| bip_39_word_new_br2 | fiber<br>tell |  
+| bip_39_word_new_br3 | fiber<br>tell<br>judge |  
+| bip_39_word_new_br4 | fiber<br>tell<br>judge<br>color |  
+| bip_39_word_new_br5 | fiber<br>tell<br>judge<br>color<br>business |  
+| bip_39_word_new_br6 | fiber<br>tell<br>judge<br>color<br>business<br>meadow |  
+| bip_39_word_new_br7 | fiber<br>tell<br>judge<br>color<br>business<br>meadow<br>narrow |  
+| bip_39_word_new_br8 | fiber<br>tell<br>judge<br>color<br>business<br>meadow<br>narrow<br>vague |  
+| bip_39_word_new_br9 | fiber<br>tell<br>judge<br>color<br>business<br>meadow<br>narrow<br>vague<br>army |  
+| bip_39_word_new_line1 | fiber |  
+| bip_39_word_new_line10 | fiber
+tell
+judge
+color
+business
+meadow
+narrow
+vague
+army
+hockey |  
+| bip_39_word_new_line11 | fiber
+tell
+judge
+color
+business
+meadow
+narrow
+vague
+army
+hockey
+day |  
+| bip_39_word_new_line12 | fiber
+tell
+judge
+color
+business
+meadow
+narrow
+vague
+army
+hockey
+day
+accident |  
+| bip_39_word_new_line2 | fiber
+tell |  
+| bip_39_word_new_line3 | fiber
+tell
+judge |  
+| bip_39_word_new_line4 | fiber
+tell
+judge
+color |  
+| bip_39_word_new_line5 | fiber
+tell
+judge
+color
+business |  
+| bip_39_word_new_line6 | fiber
+tell
+judge
+color
+business
+meadow |  
+| bip_39_word_new_line7 | fiber
+tell
+judge
+color
+business
+meadow
+narrow |  
+| bip_39_word_new_line8 | fiber
+tell
+judge
+color
+business
+meadow
+narrow
+vague |  
+| bip_39_word_new_line9 | fiber
+tell
+judge
+color
+business
+meadow
+narrow
+vague
+army |  
+| bip_39_word_space_0 | ['fiber', 'tell', 'judge', 'color', 'business', 'meadow', 'narrow', 'vague', 'army', 'hockey', 'day', 'accident'] |  
+| bip_39_word_space_1 | fiber |  
+| bip_39_word_space_10 | fiber tell judge color business meadow narrow vague army hockey |  
+| bip_39_word_space_11 | fiber tell judge color business meadow narrow vague army hockey day |  
+| bip_39_word_space_12 | fiber tell judge color business meadow narrow vague army hockey day accident |  
+| bip_39_word_space_2 | fiber tell |  
+| bip_39_word_space_3 | fiber tell judge |  
+| bip_39_word_space_4 | fiber tell judge color |  
+| bip_39_word_space_5 | fiber tell judge color business |  
+| bip_39_word_space_6 | fiber tell judge color business meadow |  
+| bip_39_word_space_7 | fiber tell judge color business meadow narrow |  
+| bip_39_word_space_8 | fiber tell judge color business meadow narrow vague |  
+| bip_39_word_space_9 | fiber tell judge color business meadow narrow vague army |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 56_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: advice range
+  * bip 39 word 3: advice range conduct
+  * bip 39 word: advice range conduct fun panel label pony novel artist trust border abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | advice |  
+| bip_39_word_new_br10 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust |  
+| bip_39_word_new_br11 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border |  
+| bip_39_word_new_br12 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border<br>abuse |  
+| bip_39_word_new_br2 | advice<br>range |  
+| bip_39_word_new_br3 | advice<br>range<br>conduct |  
+| bip_39_word_new_br4 | advice<br>range<br>conduct<br>fun |  
+| bip_39_word_new_br5 | advice<br>range<br>conduct<br>fun<br>panel |  
+| bip_39_word_new_br6 | advice<br>range<br>conduct<br>fun<br>panel<br>label |  
+| bip_39_word_new_br7 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony |  
+| bip_39_word_new_br8 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel |  
+| bip_39_word_new_br9 | advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist |  
+| bip_39_word_new_line1 | advice |  
+| bip_39_word_new_line10 | advice
+range
+conduct
+fun
+panel
+label
+pony
+novel
+artist
+trust |  
+| bip_39_word_new_line11 | advice
+range
+conduct
+fun
+panel
+label
+pony
+novel
+artist
+trust
+border |  
+| bip_39_word_new_line12 | advice
+range
+conduct
+fun
+panel
+label
+pony
+novel
+artist
+trust
+border
+abuse |  
+| bip_39_word_new_line2 | advice
+range |  
+| bip_39_word_new_line3 | advice
+range
+conduct |  
+| bip_39_word_new_line4 | advice
+range
+conduct
+fun |  
+| bip_39_word_new_line5 | advice
+range
+conduct
+fun
+panel |  
+| bip_39_word_new_line6 | advice
+range
+conduct
+fun
+panel
+label |  
+| bip_39_word_new_line7 | advice
+range
+conduct
+fun
+panel
+label
+pony |  
+| bip_39_word_new_line8 | advice
+range
+conduct
+fun
+panel
+label
+pony
+novel |  
+| bip_39_word_new_line9 | advice
+range
+conduct
+fun
+panel
+label
+pony
+novel
+artist |  
+| bip_39_word_space_0 | ['advice', 'range', 'conduct', 'fun', 'panel', 'label', 'pony', 'novel', 'artist', 'trust', 'border', 'abuse'] |  
+| bip_39_word_space_1 | advice |  
+| bip_39_word_space_10 | advice range conduct fun panel label pony novel artist trust |  
+| bip_39_word_space_11 | advice range conduct fun panel label pony novel artist trust border |  
+| bip_39_word_space_12 | advice range conduct fun panel label pony novel artist trust border abuse |  
+| bip_39_word_space_2 | advice range |  
+| bip_39_word_space_3 | advice range conduct |  
+| bip_39_word_space_4 | advice range conduct fun |  
+| bip_39_word_space_5 | advice range conduct fun panel |  
+| bip_39_word_space_6 | advice range conduct fun panel label |  
+| bip_39_word_space_7 | advice range conduct fun panel label pony |  
+| bip_39_word_space_8 | advice range conduct fun panel label pony novel |  
+| bip_39_word_space_9 | advice range conduct fun panel label pony novel artist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: humble vanish
+  * bip 39 word 3: humble vanish patrol
+  * bip 39 word: humble vanish patrol position alley spell bomb liberty regular cruise rebel angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | humble |  
+| bip_39_word_new_br10 | humble<br>vanish<br>patrol<br>position<br>alley<br>spell<br>bomb<br>liberty<br>regular<br>cruise |  
+| bip_39_word_new_br11 | humble<br>vanish<br>patrol<br>position<br>alley<br>spell<br>bomb<br>liberty<br>regular<br>cruise<br>rebel |  
+| bip_39_word_new_br12 | humble<br>vanish<br>patrol<br>position<br>alley<br>spell<br>bomb<br>liberty<br>regular<br>cruise<br>rebel<br>angle |  
+| bip_39_word_new_br2 | humble<br>vanish |  
+| bip_39_word_new_br3 | humble<br>vanish<br>patrol |  
+| bip_39_word_new_br4 | humble<br>vanish<br>patrol<br>position |  
+| bip_39_word_new_br5 | humble<br>vanish<br>patrol<br>position<br>alley |  
+| bip_39_word_new_br6 | humble<br>vanish<br>patrol<br>position<br>alley<br>spell |  
+| bip_39_word_new_br7 | humble<br>vanish<br>patrol<br>position<br>alley<br>spell<br>bomb |  
+| bip_39_word_new_br8 | humble<br>vanish<br>patrol<br>position<br>alley<br>spell<br>bomb<br>liberty |  
+| bip_39_word_new_br9 | humble<br>vanish<br>patrol<br>position<br>alley<br>spell<br>bomb<br>liberty<br>regular |  
+| bip_39_word_new_line1 | humble |  
+| bip_39_word_new_line10 | humble
+vanish
+patrol
+position
+alley
+spell
+bomb
+liberty
+regular
+cruise |  
+| bip_39_word_new_line11 | humble
+vanish
+patrol
+position
+alley
+spell
+bomb
+liberty
+regular
+cruise
+rebel |  
+| bip_39_word_new_line12 | humble
+vanish
+patrol
+position
+alley
+spell
+bomb
+liberty
+regular
+cruise
+rebel
+angle |  
+| bip_39_word_new_line2 | humble
+vanish |  
+| bip_39_word_new_line3 | humble
+vanish
+patrol |  
+| bip_39_word_new_line4 | humble
+vanish
+patrol
+position |  
+| bip_39_word_new_line5 | humble
+vanish
+patrol
+position
+alley |  
+| bip_39_word_new_line6 | humble
+vanish
+patrol
+position
+alley
+spell |  
+| bip_39_word_new_line7 | humble
+vanish
+patrol
+position
+alley
+spell
+bomb |  
+| bip_39_word_new_line8 | humble
+vanish
+patrol
+position
+alley
+spell
+bomb
+liberty |  
+| bip_39_word_new_line9 | humble
+vanish
+patrol
+position
+alley
+spell
+bomb
+liberty
+regular |  
+| bip_39_word_space_0 | ['humble', 'vanish', 'patrol', 'position', 'alley', 'spell', 'bomb', 'liberty', 'regular', 'cruise', 'rebel', 'angle'] |  
+| bip_39_word_space_1 | humble |  
+| bip_39_word_space_10 | humble vanish patrol position alley spell bomb liberty regular cruise |  
+| bip_39_word_space_11 | humble vanish patrol position alley spell bomb liberty regular cruise rebel |  
+| bip_39_word_space_12 | humble vanish patrol position alley spell bomb liberty regular cruise rebel angle |  
+| bip_39_word_space_2 | humble vanish |  
+| bip_39_word_space_3 | humble vanish patrol |  
+| bip_39_word_space_4 | humble vanish patrol position |  
+| bip_39_word_space_5 | humble vanish patrol position alley |  
+| bip_39_word_space_6 | humble vanish patrol position alley spell |  
+| bip_39_word_space_7 | humble vanish patrol position alley spell bomb |  
+| bip_39_word_space_8 | humble vanish patrol position alley spell bomb liberty |  
+| bip_39_word_space_9 | humble vanish patrol position alley spell bomb liberty regular |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

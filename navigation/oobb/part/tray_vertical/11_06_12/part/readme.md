@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oak slam
+  * bip 39 word 3: oak slam renew
+  * bip 39 word: oak slam renew awake exchange cave today fluid soon jump future approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oak |  
+| bip_39_word_new_br10 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave<br>today<br>fluid<br>soon<br>jump |  
+| bip_39_word_new_br11 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave<br>today<br>fluid<br>soon<br>jump<br>future |  
+| bip_39_word_new_br12 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave<br>today<br>fluid<br>soon<br>jump<br>future<br>approve |  
+| bip_39_word_new_br2 | oak<br>slam |  
+| bip_39_word_new_br3 | oak<br>slam<br>renew |  
+| bip_39_word_new_br4 | oak<br>slam<br>renew<br>awake |  
+| bip_39_word_new_br5 | oak<br>slam<br>renew<br>awake<br>exchange |  
+| bip_39_word_new_br6 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave |  
+| bip_39_word_new_br7 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave<br>today |  
+| bip_39_word_new_br8 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave<br>today<br>fluid |  
+| bip_39_word_new_br9 | oak<br>slam<br>renew<br>awake<br>exchange<br>cave<br>today<br>fluid<br>soon |  
+| bip_39_word_new_line1 | oak |  
+| bip_39_word_new_line10 | oak
+slam
+renew
+awake
+exchange
+cave
+today
+fluid
+soon
+jump |  
+| bip_39_word_new_line11 | oak
+slam
+renew
+awake
+exchange
+cave
+today
+fluid
+soon
+jump
+future |  
+| bip_39_word_new_line12 | oak
+slam
+renew
+awake
+exchange
+cave
+today
+fluid
+soon
+jump
+future
+approve |  
+| bip_39_word_new_line2 | oak
+slam |  
+| bip_39_word_new_line3 | oak
+slam
+renew |  
+| bip_39_word_new_line4 | oak
+slam
+renew
+awake |  
+| bip_39_word_new_line5 | oak
+slam
+renew
+awake
+exchange |  
+| bip_39_word_new_line6 | oak
+slam
+renew
+awake
+exchange
+cave |  
+| bip_39_word_new_line7 | oak
+slam
+renew
+awake
+exchange
+cave
+today |  
+| bip_39_word_new_line8 | oak
+slam
+renew
+awake
+exchange
+cave
+today
+fluid |  
+| bip_39_word_new_line9 | oak
+slam
+renew
+awake
+exchange
+cave
+today
+fluid
+soon |  
+| bip_39_word_space_0 | ['oak', 'slam', 'renew', 'awake', 'exchange', 'cave', 'today', 'fluid', 'soon', 'jump', 'future', 'approve'] |  
+| bip_39_word_space_1 | oak |  
+| bip_39_word_space_10 | oak slam renew awake exchange cave today fluid soon jump |  
+| bip_39_word_space_11 | oak slam renew awake exchange cave today fluid soon jump future |  
+| bip_39_word_space_12 | oak slam renew awake exchange cave today fluid soon jump future approve |  
+| bip_39_word_space_2 | oak slam |  
+| bip_39_word_space_3 | oak slam renew |  
+| bip_39_word_space_4 | oak slam renew awake |  
+| bip_39_word_space_5 | oak slam renew awake exchange |  
+| bip_39_word_space_6 | oak slam renew awake exchange cave |  
+| bip_39_word_space_7 | oak slam renew awake exchange cave today |  
+| bip_39_word_space_8 | oak slam renew awake exchange cave today fluid |  
+| bip_39_word_space_9 | oak slam renew awake exchange cave today fluid soon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

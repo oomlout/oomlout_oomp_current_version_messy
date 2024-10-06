@@ -1,3 +1,159 @@
+bip_39_word_new_br1: rebuild
+bip_39_word_new_br10: rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual<br>spider
+bip_39_word_new_br11: rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual<br>spider<br>either
+bip_39_word_new_br2: rebuild<br>sketch
+bip_39_word_new_br3: rebuild<br>sketch<br>such
+bip_39_word_new_br4: rebuild<br>sketch<br>such<br>enemy
+bip_39_word_new_br5: rebuild<br>sketch<br>such<br>enemy<br>cake
+bip_39_word_new_br6: rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow
+bip_39_word_new_br7: rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard
+bip_39_word_new_br8: rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely
+bip_39_word_new_br9: rebuild<br>sketch<br>such<br>enemy<br>cake<br>grow<br>yard<br>barely<br>usual
+bip_39_word_new_line1: rebuild
+bip_39_word_new_line10: 'rebuild
+
+  sketch
+
+  such
+
+  enemy
+
+  cake
+
+  grow
+
+  yard
+
+  barely
+
+  usual
+
+  spider'
+bip_39_word_new_line11: 'rebuild
+
+  sketch
+
+  such
+
+  enemy
+
+  cake
+
+  grow
+
+  yard
+
+  barely
+
+  usual
+
+  spider
+
+  either'
+bip_39_word_new_line2: 'rebuild
+
+  sketch'
+bip_39_word_new_line3: 'rebuild
+
+  sketch
+
+  such'
+bip_39_word_new_line4: 'rebuild
+
+  sketch
+
+  such
+
+  enemy'
+bip_39_word_new_line5: 'rebuild
+
+  sketch
+
+  such
+
+  enemy
+
+  cake'
+bip_39_word_new_line6: 'rebuild
+
+  sketch
+
+  such
+
+  enemy
+
+  cake
+
+  grow'
+bip_39_word_new_line7: 'rebuild
+
+  sketch
+
+  such
+
+  enemy
+
+  cake
+
+  grow
+
+  yard'
+bip_39_word_new_line8: 'rebuild
+
+  sketch
+
+  such
+
+  enemy
+
+  cake
+
+  grow
+
+  yard
+
+  barely'
+bip_39_word_new_line9: 'rebuild
+
+  sketch
+
+  such
+
+  enemy
+
+  cake
+
+  grow
+
+  yard
+
+  barely
+
+  usual'
+bip_39_word_space_0:
+- rebuild
+- sketch
+- such
+- enemy
+- cake
+- grow
+- yard
+- barely
+- usual
+- spider
+- either
+bip_39_word_space_1: rebuild
+bip_39_word_space_10: rebuild sketch such enemy cake grow yard barely usual spider
+bip_39_word_space_11: rebuild sketch such enemy cake grow yard barely usual spider
+  either
+bip_39_word_space_2: rebuild sketch
+bip_39_word_space_3: rebuild sketch such
+bip_39_word_space_4: rebuild sketch such enemy
+bip_39_word_space_5: rebuild sketch such enemy cake
+bip_39_word_space_6: rebuild sketch such enemy cake grow
+bip_39_word_space_7: rebuild sketch such enemy cake grow yard
+bip_39_word_space_8: rebuild sketch such enemy cake grow yard barely
+bip_39_word_space_9: rebuild sketch such enemy cake grow yard barely usual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: suggest
+bip_39_word_new_br10: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket
+bip_39_word_new_br11: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket<br>tent
+bip_39_word_new_br12: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve<br>bracket<br>tent<br>again
+bip_39_word_new_br2: suggest<br>rail
+bip_39_word_new_br3: suggest<br>rail<br>joke
+bip_39_word_new_br4: suggest<br>rail<br>joke<br>wrong
+bip_39_word_new_br5: suggest<br>rail<br>joke<br>wrong<br>guitar
+bip_39_word_new_br6: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle
+bip_39_word_new_br7: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring
+bip_39_word_new_br8: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame
+bip_39_word_new_br9: suggest<br>rail<br>joke<br>wrong<br>guitar<br>noodle<br>bring<br>flame<br>approve
+bip_39_word_new_line1: suggest
+bip_39_word_new_line10: 'suggest
+
+  rail
+
+  joke
+
+  wrong
+
+  guitar
+
+  noodle
+
+  bring
+
+  flame
+
+  approve
+
+  bracket'
+bip_39_word_new_line11: 'suggest
+
+  rail
+
+  joke
+
+  wrong
+
+  guitar
+
+  noodle
+
+  bring
+
+  flame
+
+  approve
+
+  bracket
+
+  tent'
+bip_39_word_new_line12: 'suggest
+
+  rail
+
+  joke
+
+  wrong
+
+  guitar
+
+  noodle
+
+  bring
+
+  flame
+
+  approve
+
+  bracket
+
+  tent
+
+  again'
+bip_39_word_new_line2: 'suggest
+
+  rail'
+bip_39_word_new_line3: 'suggest
+
+  rail
+
+  joke'
+bip_39_word_new_line4: 'suggest
+
+  rail
+
+  joke
+
+  wrong'
+bip_39_word_new_line5: 'suggest
+
+  rail
+
+  joke
+
+  wrong
+
+  guitar'
+bip_39_word_new_line6: 'suggest
+
+  rail
+
+  joke
+
+  wrong
+
+  guitar
+
+  noodle'
+bip_39_word_new_line7: 'suggest
+
+  rail
+
+  joke
+
+  wrong
+
+  guitar
+
+  noodle
+
+  bring'
+bip_39_word_new_line8: 'suggest
+
+  rail
+
+  joke
+
+  wrong
+
+  guitar
+
+  noodle
+
+  bring
+
+  flame'
+bip_39_word_new_line9: 'suggest
+
+  rail
+
+  joke
+
+  wrong
+
+  guitar
+
+  noodle
+
+  bring
+
+  flame
+
+  approve'
+bip_39_word_space_0:
+- suggest
+- rail
+- joke
+- wrong
+- guitar
+- noodle
+- bring
+- flame
+- approve
+- bracket
+- tent
+- again
+bip_39_word_space_1: suggest
+bip_39_word_space_10: suggest rail joke wrong guitar noodle bring flame approve bracket
+bip_39_word_space_11: suggest rail joke wrong guitar noodle bring flame approve bracket
+  tent
+bip_39_word_space_12: suggest rail joke wrong guitar noodle bring flame approve bracket
+  tent again
+bip_39_word_space_2: suggest rail
+bip_39_word_space_3: suggest rail joke
+bip_39_word_space_4: suggest rail joke wrong
+bip_39_word_space_5: suggest rail joke wrong guitar
+bip_39_word_space_6: suggest rail joke wrong guitar noodle
+bip_39_word_space_7: suggest rail joke wrong guitar noodle bring
+bip_39_word_space_8: suggest rail joke wrong guitar noodle bring flame
+bip_39_word_space_9: suggest rail joke wrong guitar noodle bring flame approve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

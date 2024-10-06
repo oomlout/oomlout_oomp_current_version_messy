@@ -1,3 +1,185 @@
+bip_39_word_new_br1: wage
+bip_39_word_new_br10: wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey
+bip_39_word_new_br11: wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey<br>thing
+bip_39_word_new_br12: wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel<br>hockey<br>thing<br>almost
+bip_39_word_new_br2: wage<br>angle
+bip_39_word_new_br3: wage<br>angle<br>link
+bip_39_word_new_br4: wage<br>angle<br>link<br>salmon
+bip_39_word_new_br5: wage<br>angle<br>link<br>salmon<br>deer
+bip_39_word_new_br6: wage<br>angle<br>link<br>salmon<br>deer<br>faith
+bip_39_word_new_br7: wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew
+bip_39_word_new_br8: wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee
+bip_39_word_new_br9: wage<br>angle<br>link<br>salmon<br>deer<br>faith<br>renew<br>flee<br>vessel
+bip_39_word_new_line1: wage
+bip_39_word_new_line10: 'wage
+
+  angle
+
+  link
+
+  salmon
+
+  deer
+
+  faith
+
+  renew
+
+  flee
+
+  vessel
+
+  hockey'
+bip_39_word_new_line11: 'wage
+
+  angle
+
+  link
+
+  salmon
+
+  deer
+
+  faith
+
+  renew
+
+  flee
+
+  vessel
+
+  hockey
+
+  thing'
+bip_39_word_new_line12: 'wage
+
+  angle
+
+  link
+
+  salmon
+
+  deer
+
+  faith
+
+  renew
+
+  flee
+
+  vessel
+
+  hockey
+
+  thing
+
+  almost'
+bip_39_word_new_line2: 'wage
+
+  angle'
+bip_39_word_new_line3: 'wage
+
+  angle
+
+  link'
+bip_39_word_new_line4: 'wage
+
+  angle
+
+  link
+
+  salmon'
+bip_39_word_new_line5: 'wage
+
+  angle
+
+  link
+
+  salmon
+
+  deer'
+bip_39_word_new_line6: 'wage
+
+  angle
+
+  link
+
+  salmon
+
+  deer
+
+  faith'
+bip_39_word_new_line7: 'wage
+
+  angle
+
+  link
+
+  salmon
+
+  deer
+
+  faith
+
+  renew'
+bip_39_word_new_line8: 'wage
+
+  angle
+
+  link
+
+  salmon
+
+  deer
+
+  faith
+
+  renew
+
+  flee'
+bip_39_word_new_line9: 'wage
+
+  angle
+
+  link
+
+  salmon
+
+  deer
+
+  faith
+
+  renew
+
+  flee
+
+  vessel'
+bip_39_word_space_0:
+- wage
+- angle
+- link
+- salmon
+- deer
+- faith
+- renew
+- flee
+- vessel
+- hockey
+- thing
+- almost
+bip_39_word_space_1: wage
+bip_39_word_space_10: wage angle link salmon deer faith renew flee vessel hockey
+bip_39_word_space_11: wage angle link salmon deer faith renew flee vessel hockey thing
+bip_39_word_space_12: wage angle link salmon deer faith renew flee vessel hockey thing
+  almost
+bip_39_word_space_2: wage angle
+bip_39_word_space_3: wage angle link
+bip_39_word_space_4: wage angle link salmon
+bip_39_word_space_5: wage angle link salmon deer
+bip_39_word_space_6: wage angle link salmon deer faith
+bip_39_word_space_7: wage angle link salmon deer faith renew
+bip_39_word_space_8: wage angle link salmon deer faith renew flee
+bip_39_word_space_9: wage angle link salmon deer faith renew flee vessel
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

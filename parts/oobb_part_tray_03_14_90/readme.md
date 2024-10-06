@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chat injury
+  * bip 39 word 3: chat injury risk
+  * bip 39 word: chat injury risk again vehicle auto rally that onion brown wreck amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chat |  
+| bip_39_word_new_br10 | chat<br>injury<br>risk<br>again<br>vehicle<br>auto<br>rally<br>that<br>onion<br>brown |  
+| bip_39_word_new_br11 | chat<br>injury<br>risk<br>again<br>vehicle<br>auto<br>rally<br>that<br>onion<br>brown<br>wreck |  
+| bip_39_word_new_br12 | chat<br>injury<br>risk<br>again<br>vehicle<br>auto<br>rally<br>that<br>onion<br>brown<br>wreck<br>amused |  
+| bip_39_word_new_br2 | chat<br>injury |  
+| bip_39_word_new_br3 | chat<br>injury<br>risk |  
+| bip_39_word_new_br4 | chat<br>injury<br>risk<br>again |  
+| bip_39_word_new_br5 | chat<br>injury<br>risk<br>again<br>vehicle |  
+| bip_39_word_new_br6 | chat<br>injury<br>risk<br>again<br>vehicle<br>auto |  
+| bip_39_word_new_br7 | chat<br>injury<br>risk<br>again<br>vehicle<br>auto<br>rally |  
+| bip_39_word_new_br8 | chat<br>injury<br>risk<br>again<br>vehicle<br>auto<br>rally<br>that |  
+| bip_39_word_new_br9 | chat<br>injury<br>risk<br>again<br>vehicle<br>auto<br>rally<br>that<br>onion |  
+| bip_39_word_new_line1 | chat |  
+| bip_39_word_new_line10 | chat
+injury
+risk
+again
+vehicle
+auto
+rally
+that
+onion
+brown |  
+| bip_39_word_new_line11 | chat
+injury
+risk
+again
+vehicle
+auto
+rally
+that
+onion
+brown
+wreck |  
+| bip_39_word_new_line12 | chat
+injury
+risk
+again
+vehicle
+auto
+rally
+that
+onion
+brown
+wreck
+amused |  
+| bip_39_word_new_line2 | chat
+injury |  
+| bip_39_word_new_line3 | chat
+injury
+risk |  
+| bip_39_word_new_line4 | chat
+injury
+risk
+again |  
+| bip_39_word_new_line5 | chat
+injury
+risk
+again
+vehicle |  
+| bip_39_word_new_line6 | chat
+injury
+risk
+again
+vehicle
+auto |  
+| bip_39_word_new_line7 | chat
+injury
+risk
+again
+vehicle
+auto
+rally |  
+| bip_39_word_new_line8 | chat
+injury
+risk
+again
+vehicle
+auto
+rally
+that |  
+| bip_39_word_new_line9 | chat
+injury
+risk
+again
+vehicle
+auto
+rally
+that
+onion |  
+| bip_39_word_space_0 | ['chat', 'injury', 'risk', 'again', 'vehicle', 'auto', 'rally', 'that', 'onion', 'brown', 'wreck', 'amused'] |  
+| bip_39_word_space_1 | chat |  
+| bip_39_word_space_10 | chat injury risk again vehicle auto rally that onion brown |  
+| bip_39_word_space_11 | chat injury risk again vehicle auto rally that onion brown wreck |  
+| bip_39_word_space_12 | chat injury risk again vehicle auto rally that onion brown wreck amused |  
+| bip_39_word_space_2 | chat injury |  
+| bip_39_word_space_3 | chat injury risk |  
+| bip_39_word_space_4 | chat injury risk again |  
+| bip_39_word_space_5 | chat injury risk again vehicle |  
+| bip_39_word_space_6 | chat injury risk again vehicle auto |  
+| bip_39_word_space_7 | chat injury risk again vehicle auto rally |  
+| bip_39_word_space_8 | chat injury risk again vehicle auto rally that |  
+| bip_39_word_space_9 | chat injury risk again vehicle auto rally that onion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

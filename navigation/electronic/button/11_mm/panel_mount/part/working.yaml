@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vessel
+bip_39_word_new_br10: vessel<br>comic<br>measure<br>minute<br>cute<br>this<br>offer<br>sock<br>eight<br>recall
+bip_39_word_new_br11: vessel<br>comic<br>measure<br>minute<br>cute<br>this<br>offer<br>sock<br>eight<br>recall<br>tumble
+bip_39_word_new_br12: vessel<br>comic<br>measure<br>minute<br>cute<br>this<br>offer<br>sock<br>eight<br>recall<br>tumble<br>alert
+bip_39_word_new_br2: vessel<br>comic
+bip_39_word_new_br3: vessel<br>comic<br>measure
+bip_39_word_new_br4: vessel<br>comic<br>measure<br>minute
+bip_39_word_new_br5: vessel<br>comic<br>measure<br>minute<br>cute
+bip_39_word_new_br6: vessel<br>comic<br>measure<br>minute<br>cute<br>this
+bip_39_word_new_br7: vessel<br>comic<br>measure<br>minute<br>cute<br>this<br>offer
+bip_39_word_new_br8: vessel<br>comic<br>measure<br>minute<br>cute<br>this<br>offer<br>sock
+bip_39_word_new_br9: vessel<br>comic<br>measure<br>minute<br>cute<br>this<br>offer<br>sock<br>eight
+bip_39_word_new_line1: vessel
+bip_39_word_new_line10: 'vessel
+
+  comic
+
+  measure
+
+  minute
+
+  cute
+
+  this
+
+  offer
+
+  sock
+
+  eight
+
+  recall'
+bip_39_word_new_line11: 'vessel
+
+  comic
+
+  measure
+
+  minute
+
+  cute
+
+  this
+
+  offer
+
+  sock
+
+  eight
+
+  recall
+
+  tumble'
+bip_39_word_new_line12: 'vessel
+
+  comic
+
+  measure
+
+  minute
+
+  cute
+
+  this
+
+  offer
+
+  sock
+
+  eight
+
+  recall
+
+  tumble
+
+  alert'
+bip_39_word_new_line2: 'vessel
+
+  comic'
+bip_39_word_new_line3: 'vessel
+
+  comic
+
+  measure'
+bip_39_word_new_line4: 'vessel
+
+  comic
+
+  measure
+
+  minute'
+bip_39_word_new_line5: 'vessel
+
+  comic
+
+  measure
+
+  minute
+
+  cute'
+bip_39_word_new_line6: 'vessel
+
+  comic
+
+  measure
+
+  minute
+
+  cute
+
+  this'
+bip_39_word_new_line7: 'vessel
+
+  comic
+
+  measure
+
+  minute
+
+  cute
+
+  this
+
+  offer'
+bip_39_word_new_line8: 'vessel
+
+  comic
+
+  measure
+
+  minute
+
+  cute
+
+  this
+
+  offer
+
+  sock'
+bip_39_word_new_line9: 'vessel
+
+  comic
+
+  measure
+
+  minute
+
+  cute
+
+  this
+
+  offer
+
+  sock
+
+  eight'
+bip_39_word_space_0:
+- vessel
+- comic
+- measure
+- minute
+- cute
+- this
+- offer
+- sock
+- eight
+- recall
+- tumble
+- alert
+bip_39_word_space_1: vessel
+bip_39_word_space_10: vessel comic measure minute cute this offer sock eight recall
+bip_39_word_space_11: vessel comic measure minute cute this offer sock eight recall
+  tumble
+bip_39_word_space_12: vessel comic measure minute cute this offer sock eight recall
+  tumble alert
+bip_39_word_space_2: vessel comic
+bip_39_word_space_3: vessel comic measure
+bip_39_word_space_4: vessel comic measure minute
+bip_39_word_space_5: vessel comic measure minute cute
+bip_39_word_space_6: vessel comic measure minute cute this
+bip_39_word_space_7: vessel comic measure minute cute this offer
+bip_39_word_space_8: vessel comic measure minute cute this offer sock
+bip_39_word_space_9: vessel comic measure minute cute this offer sock eight
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

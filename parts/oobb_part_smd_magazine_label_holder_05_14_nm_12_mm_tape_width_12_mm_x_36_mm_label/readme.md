@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: squeeze trouble
+  * bip 39 word 3: squeeze trouble december
+  * bip 39 word: squeeze trouble december opinion have ribbon detail brown calm album denial apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | squeeze |  
+| bip_39_word_new_br10 | squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon<br>detail<br>brown<br>calm<br>album |  
+| bip_39_word_new_br11 | squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon<br>detail<br>brown<br>calm<br>album<br>denial |  
+| bip_39_word_new_br12 | squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon<br>detail<br>brown<br>calm<br>album<br>denial<br>apology |  
+| bip_39_word_new_br2 | squeeze<br>trouble |  
+| bip_39_word_new_br3 | squeeze<br>trouble<br>december |  
+| bip_39_word_new_br4 | squeeze<br>trouble<br>december<br>opinion |  
+| bip_39_word_new_br5 | squeeze<br>trouble<br>december<br>opinion<br>have |  
+| bip_39_word_new_br6 | squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon |  
+| bip_39_word_new_br7 | squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon<br>detail |  
+| bip_39_word_new_br8 | squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon<br>detail<br>brown |  
+| bip_39_word_new_br9 | squeeze<br>trouble<br>december<br>opinion<br>have<br>ribbon<br>detail<br>brown<br>calm |  
+| bip_39_word_new_line1 | squeeze |  
+| bip_39_word_new_line10 | squeeze
+trouble
+december
+opinion
+have
+ribbon
+detail
+brown
+calm
+album |  
+| bip_39_word_new_line11 | squeeze
+trouble
+december
+opinion
+have
+ribbon
+detail
+brown
+calm
+album
+denial |  
+| bip_39_word_new_line12 | squeeze
+trouble
+december
+opinion
+have
+ribbon
+detail
+brown
+calm
+album
+denial
+apology |  
+| bip_39_word_new_line2 | squeeze
+trouble |  
+| bip_39_word_new_line3 | squeeze
+trouble
+december |  
+| bip_39_word_new_line4 | squeeze
+trouble
+december
+opinion |  
+| bip_39_word_new_line5 | squeeze
+trouble
+december
+opinion
+have |  
+| bip_39_word_new_line6 | squeeze
+trouble
+december
+opinion
+have
+ribbon |  
+| bip_39_word_new_line7 | squeeze
+trouble
+december
+opinion
+have
+ribbon
+detail |  
+| bip_39_word_new_line8 | squeeze
+trouble
+december
+opinion
+have
+ribbon
+detail
+brown |  
+| bip_39_word_new_line9 | squeeze
+trouble
+december
+opinion
+have
+ribbon
+detail
+brown
+calm |  
+| bip_39_word_space_0 | ['squeeze', 'trouble', 'december', 'opinion', 'have', 'ribbon', 'detail', 'brown', 'calm', 'album', 'denial', 'apology'] |  
+| bip_39_word_space_1 | squeeze |  
+| bip_39_word_space_10 | squeeze trouble december opinion have ribbon detail brown calm album |  
+| bip_39_word_space_11 | squeeze trouble december opinion have ribbon detail brown calm album denial |  
+| bip_39_word_space_12 | squeeze trouble december opinion have ribbon detail brown calm album denial apology |  
+| bip_39_word_space_2 | squeeze trouble |  
+| bip_39_word_space_3 | squeeze trouble december |  
+| bip_39_word_space_4 | squeeze trouble december opinion |  
+| bip_39_word_space_5 | squeeze trouble december opinion have |  
+| bip_39_word_space_6 | squeeze trouble december opinion have ribbon |  
+| bip_39_word_space_7 | squeeze trouble december opinion have ribbon detail |  
+| bip_39_word_space_8 | squeeze trouble december opinion have ribbon detail brown |  
+| bip_39_word_space_9 | squeeze trouble december opinion have ribbon detail brown calm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: anxiety
+bip_39_word_new_br10: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree
+bip_39_word_new_br11: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree<br>stamp
+bip_39_word_new_br12: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree<br>stamp<br>auction
+bip_39_word_new_br2: anxiety<br>glare
+bip_39_word_new_br3: anxiety<br>glare<br>coast
+bip_39_word_new_br4: anxiety<br>glare<br>coast<br>diary
+bip_39_word_new_br5: anxiety<br>glare<br>coast<br>diary<br>surface
+bip_39_word_new_br6: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster
+bip_39_word_new_br7: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing
+bip_39_word_new_br8: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction
+bip_39_word_new_br9: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet
+bip_39_word_new_line1: anxiety
+bip_39_word_new_line10: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction
+
+  magnet
+
+  disagree'
+bip_39_word_new_line11: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction
+
+  magnet
+
+  disagree
+
+  stamp'
+bip_39_word_new_line12: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction
+
+  magnet
+
+  disagree
+
+  stamp
+
+  auction'
+bip_39_word_new_line2: 'anxiety
+
+  glare'
+bip_39_word_new_line3: 'anxiety
+
+  glare
+
+  coast'
+bip_39_word_new_line4: 'anxiety
+
+  glare
+
+  coast
+
+  diary'
+bip_39_word_new_line5: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface'
+bip_39_word_new_line6: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster'
+bip_39_word_new_line7: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing'
+bip_39_word_new_line8: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction'
+bip_39_word_new_line9: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction
+
+  magnet'
+bip_39_word_space_0:
+- anxiety
+- glare
+- coast
+- diary
+- surface
+- oyster
+- thing
+- fiction
+- magnet
+- disagree
+- stamp
+- auction
+bip_39_word_space_1: anxiety
+bip_39_word_space_10: anxiety glare coast diary surface oyster thing fiction magnet
+  disagree
+bip_39_word_space_11: anxiety glare coast diary surface oyster thing fiction magnet
+  disagree stamp
+bip_39_word_space_12: anxiety glare coast diary surface oyster thing fiction magnet
+  disagree stamp auction
+bip_39_word_space_2: anxiety glare
+bip_39_word_space_3: anxiety glare coast
+bip_39_word_space_4: anxiety glare coast diary
+bip_39_word_space_5: anxiety glare coast diary surface
+bip_39_word_space_6: anxiety glare coast diary surface oyster
+bip_39_word_space_7: anxiety glare coast diary surface oyster thing
+bip_39_word_space_8: anxiety glare coast diary surface oyster thing fiction
+bip_39_word_space_9: anxiety glare coast diary surface oyster thing fiction magnet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: box laptop
+  * bip 39 word 3: box laptop patch
+  * bip 39 word: box laptop patch bottom deposit gown shoulder palm fame crisp close alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | box |  
+| bip_39_word_new_br10 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown<br>shoulder<br>palm<br>fame<br>crisp |  
+| bip_39_word_new_br11 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown<br>shoulder<br>palm<br>fame<br>crisp<br>close |  
+| bip_39_word_new_br12 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown<br>shoulder<br>palm<br>fame<br>crisp<br>close<br>alone |  
+| bip_39_word_new_br2 | box<br>laptop |  
+| bip_39_word_new_br3 | box<br>laptop<br>patch |  
+| bip_39_word_new_br4 | box<br>laptop<br>patch<br>bottom |  
+| bip_39_word_new_br5 | box<br>laptop<br>patch<br>bottom<br>deposit |  
+| bip_39_word_new_br6 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown |  
+| bip_39_word_new_br7 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown<br>shoulder |  
+| bip_39_word_new_br8 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown<br>shoulder<br>palm |  
+| bip_39_word_new_br9 | box<br>laptop<br>patch<br>bottom<br>deposit<br>gown<br>shoulder<br>palm<br>fame |  
+| bip_39_word_new_line1 | box |  
+| bip_39_word_new_line10 | box
+laptop
+patch
+bottom
+deposit
+gown
+shoulder
+palm
+fame
+crisp |  
+| bip_39_word_new_line11 | box
+laptop
+patch
+bottom
+deposit
+gown
+shoulder
+palm
+fame
+crisp
+close |  
+| bip_39_word_new_line12 | box
+laptop
+patch
+bottom
+deposit
+gown
+shoulder
+palm
+fame
+crisp
+close
+alone |  
+| bip_39_word_new_line2 | box
+laptop |  
+| bip_39_word_new_line3 | box
+laptop
+patch |  
+| bip_39_word_new_line4 | box
+laptop
+patch
+bottom |  
+| bip_39_word_new_line5 | box
+laptop
+patch
+bottom
+deposit |  
+| bip_39_word_new_line6 | box
+laptop
+patch
+bottom
+deposit
+gown |  
+| bip_39_word_new_line7 | box
+laptop
+patch
+bottom
+deposit
+gown
+shoulder |  
+| bip_39_word_new_line8 | box
+laptop
+patch
+bottom
+deposit
+gown
+shoulder
+palm |  
+| bip_39_word_new_line9 | box
+laptop
+patch
+bottom
+deposit
+gown
+shoulder
+palm
+fame |  
+| bip_39_word_space_0 | ['box', 'laptop', 'patch', 'bottom', 'deposit', 'gown', 'shoulder', 'palm', 'fame', 'crisp', 'close', 'alone'] |  
+| bip_39_word_space_1 | box |  
+| bip_39_word_space_10 | box laptop patch bottom deposit gown shoulder palm fame crisp |  
+| bip_39_word_space_11 | box laptop patch bottom deposit gown shoulder palm fame crisp close |  
+| bip_39_word_space_12 | box laptop patch bottom deposit gown shoulder palm fame crisp close alone |  
+| bip_39_word_space_2 | box laptop |  
+| bip_39_word_space_3 | box laptop patch |  
+| bip_39_word_space_4 | box laptop patch bottom |  
+| bip_39_word_space_5 | box laptop patch bottom deposit |  
+| bip_39_word_space_6 | box laptop patch bottom deposit gown |  
+| bip_39_word_space_7 | box laptop patch bottom deposit gown shoulder |  
+| bip_39_word_space_8 | box laptop patch bottom deposit gown shoulder palm |  
+| bip_39_word_space_9 | box laptop patch bottom deposit gown shoulder palm fame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

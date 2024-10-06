@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excess prison
+  * bip 39 word 3: excess prison other
+  * bip 39 word: excess prison other ten can proud grit crowd front possible rebel attitude
 
 ### other_codes
 * short_code: cs3bz12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excess |  
+| bip_39_word_new_br10 | excess<br>prison<br>other<br>ten<br>can<br>proud<br>grit<br>crowd<br>front<br>possible |  
+| bip_39_word_new_br11 | excess<br>prison<br>other<br>ten<br>can<br>proud<br>grit<br>crowd<br>front<br>possible<br>rebel |  
+| bip_39_word_new_br12 | excess<br>prison<br>other<br>ten<br>can<br>proud<br>grit<br>crowd<br>front<br>possible<br>rebel<br>attitude |  
+| bip_39_word_new_br2 | excess<br>prison |  
+| bip_39_word_new_br3 | excess<br>prison<br>other |  
+| bip_39_word_new_br4 | excess<br>prison<br>other<br>ten |  
+| bip_39_word_new_br5 | excess<br>prison<br>other<br>ten<br>can |  
+| bip_39_word_new_br6 | excess<br>prison<br>other<br>ten<br>can<br>proud |  
+| bip_39_word_new_br7 | excess<br>prison<br>other<br>ten<br>can<br>proud<br>grit |  
+| bip_39_word_new_br8 | excess<br>prison<br>other<br>ten<br>can<br>proud<br>grit<br>crowd |  
+| bip_39_word_new_br9 | excess<br>prison<br>other<br>ten<br>can<br>proud<br>grit<br>crowd<br>front |  
+| bip_39_word_new_line1 | excess |  
+| bip_39_word_new_line10 | excess
+prison
+other
+ten
+can
+proud
+grit
+crowd
+front
+possible |  
+| bip_39_word_new_line11 | excess
+prison
+other
+ten
+can
+proud
+grit
+crowd
+front
+possible
+rebel |  
+| bip_39_word_new_line12 | excess
+prison
+other
+ten
+can
+proud
+grit
+crowd
+front
+possible
+rebel
+attitude |  
+| bip_39_word_new_line2 | excess
+prison |  
+| bip_39_word_new_line3 | excess
+prison
+other |  
+| bip_39_word_new_line4 | excess
+prison
+other
+ten |  
+| bip_39_word_new_line5 | excess
+prison
+other
+ten
+can |  
+| bip_39_word_new_line6 | excess
+prison
+other
+ten
+can
+proud |  
+| bip_39_word_new_line7 | excess
+prison
+other
+ten
+can
+proud
+grit |  
+| bip_39_word_new_line8 | excess
+prison
+other
+ten
+can
+proud
+grit
+crowd |  
+| bip_39_word_new_line9 | excess
+prison
+other
+ten
+can
+proud
+grit
+crowd
+front |  
+| bip_39_word_space_0 | ['excess', 'prison', 'other', 'ten', 'can', 'proud', 'grit', 'crowd', 'front', 'possible', 'rebel', 'attitude'] |  
+| bip_39_word_space_1 | excess |  
+| bip_39_word_space_10 | excess prison other ten can proud grit crowd front possible |  
+| bip_39_word_space_11 | excess prison other ten can proud grit crowd front possible rebel |  
+| bip_39_word_space_12 | excess prison other ten can proud grit crowd front possible rebel attitude |  
+| bip_39_word_space_2 | excess prison |  
+| bip_39_word_space_3 | excess prison other |  
+| bip_39_word_space_4 | excess prison other ten |  
+| bip_39_word_space_5 | excess prison other ten can |  
+| bip_39_word_space_6 | excess prison other ten can proud |  
+| bip_39_word_space_7 | excess prison other ten can proud grit |  
+| bip_39_word_space_8 | excess prison other ten can proud grit crowd |  
+| bip_39_word_space_9 | excess prison other ten can proud grit crowd front |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

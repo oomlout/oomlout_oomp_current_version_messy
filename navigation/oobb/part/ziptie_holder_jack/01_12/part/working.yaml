@@ -1,3 +1,187 @@
+bip_39_word_new_br1: depend
+bip_39_word_new_br10: depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical
+bip_39_word_new_br11: depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical<br>lion
+bip_39_word_new_br12: depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct<br>physical<br>lion<br>alcohol
+bip_39_word_new_br2: depend<br>foil
+bip_39_word_new_br3: depend<br>foil<br>voyage
+bip_39_word_new_br4: depend<br>foil<br>voyage<br>purity
+bip_39_word_new_br5: depend<br>foil<br>voyage<br>purity<br>script
+bip_39_word_new_br6: depend<br>foil<br>voyage<br>purity<br>script<br>lobster
+bip_39_word_new_br7: depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary
+bip_39_word_new_br8: depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen
+bip_39_word_new_br9: depend<br>foil<br>voyage<br>purity<br>script<br>lobster<br>diary<br>frozen<br>direct
+bip_39_word_new_line1: depend
+bip_39_word_new_line10: 'depend
+
+  foil
+
+  voyage
+
+  purity
+
+  script
+
+  lobster
+
+  diary
+
+  frozen
+
+  direct
+
+  physical'
+bip_39_word_new_line11: 'depend
+
+  foil
+
+  voyage
+
+  purity
+
+  script
+
+  lobster
+
+  diary
+
+  frozen
+
+  direct
+
+  physical
+
+  lion'
+bip_39_word_new_line12: 'depend
+
+  foil
+
+  voyage
+
+  purity
+
+  script
+
+  lobster
+
+  diary
+
+  frozen
+
+  direct
+
+  physical
+
+  lion
+
+  alcohol'
+bip_39_word_new_line2: 'depend
+
+  foil'
+bip_39_word_new_line3: 'depend
+
+  foil
+
+  voyage'
+bip_39_word_new_line4: 'depend
+
+  foil
+
+  voyage
+
+  purity'
+bip_39_word_new_line5: 'depend
+
+  foil
+
+  voyage
+
+  purity
+
+  script'
+bip_39_word_new_line6: 'depend
+
+  foil
+
+  voyage
+
+  purity
+
+  script
+
+  lobster'
+bip_39_word_new_line7: 'depend
+
+  foil
+
+  voyage
+
+  purity
+
+  script
+
+  lobster
+
+  diary'
+bip_39_word_new_line8: 'depend
+
+  foil
+
+  voyage
+
+  purity
+
+  script
+
+  lobster
+
+  diary
+
+  frozen'
+bip_39_word_new_line9: 'depend
+
+  foil
+
+  voyage
+
+  purity
+
+  script
+
+  lobster
+
+  diary
+
+  frozen
+
+  direct'
+bip_39_word_space_0:
+- depend
+- foil
+- voyage
+- purity
+- script
+- lobster
+- diary
+- frozen
+- direct
+- physical
+- lion
+- alcohol
+bip_39_word_space_1: depend
+bip_39_word_space_10: depend foil voyage purity script lobster diary frozen direct
+  physical
+bip_39_word_space_11: depend foil voyage purity script lobster diary frozen direct
+  physical lion
+bip_39_word_space_12: depend foil voyage purity script lobster diary frozen direct
+  physical lion alcohol
+bip_39_word_space_2: depend foil
+bip_39_word_space_3: depend foil voyage
+bip_39_word_space_4: depend foil voyage purity
+bip_39_word_space_5: depend foil voyage purity script
+bip_39_word_space_6: depend foil voyage purity script lobster
+bip_39_word_space_7: depend foil voyage purity script lobster diary
+bip_39_word_space_8: depend foil voyage purity script lobster diary frozen
+bip_39_word_space_9: depend foil voyage purity script lobster diary frozen direct
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

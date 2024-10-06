@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ozone olympic
+  * bip 39 word 3: ozone olympic student
+  * bip 39 word: ozone olympic student pair theme scout buzz receive cube blade recycle air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ozone |  
+| bip_39_word_new_br10 | ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube<br>blade |  
+| bip_39_word_new_br11 | ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube<br>blade<br>recycle |  
+| bip_39_word_new_br12 | ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube<br>blade<br>recycle<br>air |  
+| bip_39_word_new_br2 | ozone<br>olympic |  
+| bip_39_word_new_br3 | ozone<br>olympic<br>student |  
+| bip_39_word_new_br4 | ozone<br>olympic<br>student<br>pair |  
+| bip_39_word_new_br5 | ozone<br>olympic<br>student<br>pair<br>theme |  
+| bip_39_word_new_br6 | ozone<br>olympic<br>student<br>pair<br>theme<br>scout |  
+| bip_39_word_new_br7 | ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz |  
+| bip_39_word_new_br8 | ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive |  
+| bip_39_word_new_br9 | ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube |  
+| bip_39_word_new_line1 | ozone |  
+| bip_39_word_new_line10 | ozone
+olympic
+student
+pair
+theme
+scout
+buzz
+receive
+cube
+blade |  
+| bip_39_word_new_line11 | ozone
+olympic
+student
+pair
+theme
+scout
+buzz
+receive
+cube
+blade
+recycle |  
+| bip_39_word_new_line12 | ozone
+olympic
+student
+pair
+theme
+scout
+buzz
+receive
+cube
+blade
+recycle
+air |  
+| bip_39_word_new_line2 | ozone
+olympic |  
+| bip_39_word_new_line3 | ozone
+olympic
+student |  
+| bip_39_word_new_line4 | ozone
+olympic
+student
+pair |  
+| bip_39_word_new_line5 | ozone
+olympic
+student
+pair
+theme |  
+| bip_39_word_new_line6 | ozone
+olympic
+student
+pair
+theme
+scout |  
+| bip_39_word_new_line7 | ozone
+olympic
+student
+pair
+theme
+scout
+buzz |  
+| bip_39_word_new_line8 | ozone
+olympic
+student
+pair
+theme
+scout
+buzz
+receive |  
+| bip_39_word_new_line9 | ozone
+olympic
+student
+pair
+theme
+scout
+buzz
+receive
+cube |  
+| bip_39_word_space_0 | ['ozone', 'olympic', 'student', 'pair', 'theme', 'scout', 'buzz', 'receive', 'cube', 'blade', 'recycle', 'air'] |  
+| bip_39_word_space_1 | ozone |  
+| bip_39_word_space_10 | ozone olympic student pair theme scout buzz receive cube blade |  
+| bip_39_word_space_11 | ozone olympic student pair theme scout buzz receive cube blade recycle |  
+| bip_39_word_space_12 | ozone olympic student pair theme scout buzz receive cube blade recycle air |  
+| bip_39_word_space_2 | ozone olympic |  
+| bip_39_word_space_3 | ozone olympic student |  
+| bip_39_word_space_4 | ozone olympic student pair |  
+| bip_39_word_space_5 | ozone olympic student pair theme |  
+| bip_39_word_space_6 | ozone olympic student pair theme scout |  
+| bip_39_word_space_7 | ozone olympic student pair theme scout buzz |  
+| bip_39_word_space_8 | ozone olympic student pair theme scout buzz receive |  
+| bip_39_word_space_9 | ozone olympic student pair theme scout buzz receive cube |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: fitness
+bip_39_word_new_br10: fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail
+bip_39_word_new_br11: fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail<br>glass
+bip_39_word_new_br12: fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival<br>rail<br>glass<br>account
+bip_39_word_new_br2: fitness<br>subway
+bip_39_word_new_br3: fitness<br>subway<br>ridge
+bip_39_word_new_br4: fitness<br>subway<br>ridge<br>seed
+bip_39_word_new_br5: fitness<br>subway<br>ridge<br>seed<br>outdoor
+bip_39_word_new_br6: fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift
+bip_39_word_new_br7: fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace
+bip_39_word_new_br8: fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder
+bip_39_word_new_br9: fitness<br>subway<br>ridge<br>seed<br>outdoor<br>shift<br>furnace<br>ladder<br>rival
+bip_39_word_new_line1: fitness
+bip_39_word_new_line10: 'fitness
+
+  subway
+
+  ridge
+
+  seed
+
+  outdoor
+
+  shift
+
+  furnace
+
+  ladder
+
+  rival
+
+  rail'
+bip_39_word_new_line11: 'fitness
+
+  subway
+
+  ridge
+
+  seed
+
+  outdoor
+
+  shift
+
+  furnace
+
+  ladder
+
+  rival
+
+  rail
+
+  glass'
+bip_39_word_new_line12: 'fitness
+
+  subway
+
+  ridge
+
+  seed
+
+  outdoor
+
+  shift
+
+  furnace
+
+  ladder
+
+  rival
+
+  rail
+
+  glass
+
+  account'
+bip_39_word_new_line2: 'fitness
+
+  subway'
+bip_39_word_new_line3: 'fitness
+
+  subway
+
+  ridge'
+bip_39_word_new_line4: 'fitness
+
+  subway
+
+  ridge
+
+  seed'
+bip_39_word_new_line5: 'fitness
+
+  subway
+
+  ridge
+
+  seed
+
+  outdoor'
+bip_39_word_new_line6: 'fitness
+
+  subway
+
+  ridge
+
+  seed
+
+  outdoor
+
+  shift'
+bip_39_word_new_line7: 'fitness
+
+  subway
+
+  ridge
+
+  seed
+
+  outdoor
+
+  shift
+
+  furnace'
+bip_39_word_new_line8: 'fitness
+
+  subway
+
+  ridge
+
+  seed
+
+  outdoor
+
+  shift
+
+  furnace
+
+  ladder'
+bip_39_word_new_line9: 'fitness
+
+  subway
+
+  ridge
+
+  seed
+
+  outdoor
+
+  shift
+
+  furnace
+
+  ladder
+
+  rival'
+bip_39_word_space_0:
+- fitness
+- subway
+- ridge
+- seed
+- outdoor
+- shift
+- furnace
+- ladder
+- rival
+- rail
+- glass
+- account
+bip_39_word_space_1: fitness
+bip_39_word_space_10: fitness subway ridge seed outdoor shift furnace ladder rival
+  rail
+bip_39_word_space_11: fitness subway ridge seed outdoor shift furnace ladder rival
+  rail glass
+bip_39_word_space_12: fitness subway ridge seed outdoor shift furnace ladder rival
+  rail glass account
+bip_39_word_space_2: fitness subway
+bip_39_word_space_3: fitness subway ridge
+bip_39_word_space_4: fitness subway ridge seed
+bip_39_word_space_5: fitness subway ridge seed outdoor
+bip_39_word_space_6: fitness subway ridge seed outdoor shift
+bip_39_word_space_7: fitness subway ridge seed outdoor shift furnace
+bip_39_word_space_8: fitness subway ridge seed outdoor shift furnace ladder
+bip_39_word_space_9: fitness subway ridge seed outdoor shift furnace ladder rival
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

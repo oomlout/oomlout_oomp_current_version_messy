@@ -1,3 +1,187 @@
+bip_39_word_new_br1: layer
+bip_39_word_new_br10: layer<br>target<br>chimney<br>need<br>remember<br>normal<br>gather<br>amused<br>soda<br>chuckle
+bip_39_word_new_br11: layer<br>target<br>chimney<br>need<br>remember<br>normal<br>gather<br>amused<br>soda<br>chuckle<br>night
+bip_39_word_new_br12: layer<br>target<br>chimney<br>need<br>remember<br>normal<br>gather<br>amused<br>soda<br>chuckle<br>night<br>aunt
+bip_39_word_new_br2: layer<br>target
+bip_39_word_new_br3: layer<br>target<br>chimney
+bip_39_word_new_br4: layer<br>target<br>chimney<br>need
+bip_39_word_new_br5: layer<br>target<br>chimney<br>need<br>remember
+bip_39_word_new_br6: layer<br>target<br>chimney<br>need<br>remember<br>normal
+bip_39_word_new_br7: layer<br>target<br>chimney<br>need<br>remember<br>normal<br>gather
+bip_39_word_new_br8: layer<br>target<br>chimney<br>need<br>remember<br>normal<br>gather<br>amused
+bip_39_word_new_br9: layer<br>target<br>chimney<br>need<br>remember<br>normal<br>gather<br>amused<br>soda
+bip_39_word_new_line1: layer
+bip_39_word_new_line10: 'layer
+
+  target
+
+  chimney
+
+  need
+
+  remember
+
+  normal
+
+  gather
+
+  amused
+
+  soda
+
+  chuckle'
+bip_39_word_new_line11: 'layer
+
+  target
+
+  chimney
+
+  need
+
+  remember
+
+  normal
+
+  gather
+
+  amused
+
+  soda
+
+  chuckle
+
+  night'
+bip_39_word_new_line12: 'layer
+
+  target
+
+  chimney
+
+  need
+
+  remember
+
+  normal
+
+  gather
+
+  amused
+
+  soda
+
+  chuckle
+
+  night
+
+  aunt'
+bip_39_word_new_line2: 'layer
+
+  target'
+bip_39_word_new_line3: 'layer
+
+  target
+
+  chimney'
+bip_39_word_new_line4: 'layer
+
+  target
+
+  chimney
+
+  need'
+bip_39_word_new_line5: 'layer
+
+  target
+
+  chimney
+
+  need
+
+  remember'
+bip_39_word_new_line6: 'layer
+
+  target
+
+  chimney
+
+  need
+
+  remember
+
+  normal'
+bip_39_word_new_line7: 'layer
+
+  target
+
+  chimney
+
+  need
+
+  remember
+
+  normal
+
+  gather'
+bip_39_word_new_line8: 'layer
+
+  target
+
+  chimney
+
+  need
+
+  remember
+
+  normal
+
+  gather
+
+  amused'
+bip_39_word_new_line9: 'layer
+
+  target
+
+  chimney
+
+  need
+
+  remember
+
+  normal
+
+  gather
+
+  amused
+
+  soda'
+bip_39_word_space_0:
+- layer
+- target
+- chimney
+- need
+- remember
+- normal
+- gather
+- amused
+- soda
+- chuckle
+- night
+- aunt
+bip_39_word_space_1: layer
+bip_39_word_space_10: layer target chimney need remember normal gather amused soda
+  chuckle
+bip_39_word_space_11: layer target chimney need remember normal gather amused soda
+  chuckle night
+bip_39_word_space_12: layer target chimney need remember normal gather amused soda
+  chuckle night aunt
+bip_39_word_space_2: layer target
+bip_39_word_space_3: layer target chimney
+bip_39_word_space_4: layer target chimney need
+bip_39_word_space_5: layer target chimney need remember
+bip_39_word_space_6: layer target chimney need remember normal
+bip_39_word_space_7: layer target chimney need remember normal gather
+bip_39_word_space_8: layer target chimney need remember normal gather amused
+bip_39_word_space_9: layer target chimney need remember normal gather amused soda
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

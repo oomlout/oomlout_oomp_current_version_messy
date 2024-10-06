@@ -1,3 +1,186 @@
+bip_39_word_new_br1: disorder
+bip_39_word_new_br10: disorder<br>credit<br>fun<br>thought<br>jump<br>suffer<br>opera<br>cart<br>muffin<br>benefit
+bip_39_word_new_br11: disorder<br>credit<br>fun<br>thought<br>jump<br>suffer<br>opera<br>cart<br>muffin<br>benefit<br>suffer
+bip_39_word_new_br12: disorder<br>credit<br>fun<br>thought<br>jump<br>suffer<br>opera<br>cart<br>muffin<br>benefit<br>suffer<br>animal
+bip_39_word_new_br2: disorder<br>credit
+bip_39_word_new_br3: disorder<br>credit<br>fun
+bip_39_word_new_br4: disorder<br>credit<br>fun<br>thought
+bip_39_word_new_br5: disorder<br>credit<br>fun<br>thought<br>jump
+bip_39_word_new_br6: disorder<br>credit<br>fun<br>thought<br>jump<br>suffer
+bip_39_word_new_br7: disorder<br>credit<br>fun<br>thought<br>jump<br>suffer<br>opera
+bip_39_word_new_br8: disorder<br>credit<br>fun<br>thought<br>jump<br>suffer<br>opera<br>cart
+bip_39_word_new_br9: disorder<br>credit<br>fun<br>thought<br>jump<br>suffer<br>opera<br>cart<br>muffin
+bip_39_word_new_line1: disorder
+bip_39_word_new_line10: 'disorder
+
+  credit
+
+  fun
+
+  thought
+
+  jump
+
+  suffer
+
+  opera
+
+  cart
+
+  muffin
+
+  benefit'
+bip_39_word_new_line11: 'disorder
+
+  credit
+
+  fun
+
+  thought
+
+  jump
+
+  suffer
+
+  opera
+
+  cart
+
+  muffin
+
+  benefit
+
+  suffer'
+bip_39_word_new_line12: 'disorder
+
+  credit
+
+  fun
+
+  thought
+
+  jump
+
+  suffer
+
+  opera
+
+  cart
+
+  muffin
+
+  benefit
+
+  suffer
+
+  animal'
+bip_39_word_new_line2: 'disorder
+
+  credit'
+bip_39_word_new_line3: 'disorder
+
+  credit
+
+  fun'
+bip_39_word_new_line4: 'disorder
+
+  credit
+
+  fun
+
+  thought'
+bip_39_word_new_line5: 'disorder
+
+  credit
+
+  fun
+
+  thought
+
+  jump'
+bip_39_word_new_line6: 'disorder
+
+  credit
+
+  fun
+
+  thought
+
+  jump
+
+  suffer'
+bip_39_word_new_line7: 'disorder
+
+  credit
+
+  fun
+
+  thought
+
+  jump
+
+  suffer
+
+  opera'
+bip_39_word_new_line8: 'disorder
+
+  credit
+
+  fun
+
+  thought
+
+  jump
+
+  suffer
+
+  opera
+
+  cart'
+bip_39_word_new_line9: 'disorder
+
+  credit
+
+  fun
+
+  thought
+
+  jump
+
+  suffer
+
+  opera
+
+  cart
+
+  muffin'
+bip_39_word_space_0:
+- disorder
+- credit
+- fun
+- thought
+- jump
+- suffer
+- opera
+- cart
+- muffin
+- benefit
+- suffer
+- animal
+bip_39_word_space_1: disorder
+bip_39_word_space_10: disorder credit fun thought jump suffer opera cart muffin benefit
+bip_39_word_space_11: disorder credit fun thought jump suffer opera cart muffin benefit
+  suffer
+bip_39_word_space_12: disorder credit fun thought jump suffer opera cart muffin benefit
+  suffer animal
+bip_39_word_space_2: disorder credit
+bip_39_word_space_3: disorder credit fun
+bip_39_word_space_4: disorder credit fun thought
+bip_39_word_space_5: disorder credit fun thought jump
+bip_39_word_space_6: disorder credit fun thought jump suffer
+bip_39_word_space_7: disorder credit fun thought jump suffer opera
+bip_39_word_space_8: disorder credit fun thought jump suffer opera cart
+bip_39_word_space_9: disorder credit fun thought jump suffer opera cart muffin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

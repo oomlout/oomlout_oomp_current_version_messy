@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: typical muffin
+  * bip 39 word 3: typical muffin head
+  * bip 39 word: typical muffin head stone document shallow erase scheme edit major siege approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | typical |  
+| bip_39_word_new_br10 | typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme<br>edit<br>major |  
+| bip_39_word_new_br11 | typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme<br>edit<br>major<br>siege |  
+| bip_39_word_new_br12 | typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme<br>edit<br>major<br>siege<br>approve |  
+| bip_39_word_new_br2 | typical<br>muffin |  
+| bip_39_word_new_br3 | typical<br>muffin<br>head |  
+| bip_39_word_new_br4 | typical<br>muffin<br>head<br>stone |  
+| bip_39_word_new_br5 | typical<br>muffin<br>head<br>stone<br>document |  
+| bip_39_word_new_br6 | typical<br>muffin<br>head<br>stone<br>document<br>shallow |  
+| bip_39_word_new_br7 | typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase |  
+| bip_39_word_new_br8 | typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme |  
+| bip_39_word_new_br9 | typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme<br>edit |  
+| bip_39_word_new_line1 | typical |  
+| bip_39_word_new_line10 | typical
+muffin
+head
+stone
+document
+shallow
+erase
+scheme
+edit
+major |  
+| bip_39_word_new_line11 | typical
+muffin
+head
+stone
+document
+shallow
+erase
+scheme
+edit
+major
+siege |  
+| bip_39_word_new_line12 | typical
+muffin
+head
+stone
+document
+shallow
+erase
+scheme
+edit
+major
+siege
+approve |  
+| bip_39_word_new_line2 | typical
+muffin |  
+| bip_39_word_new_line3 | typical
+muffin
+head |  
+| bip_39_word_new_line4 | typical
+muffin
+head
+stone |  
+| bip_39_word_new_line5 | typical
+muffin
+head
+stone
+document |  
+| bip_39_word_new_line6 | typical
+muffin
+head
+stone
+document
+shallow |  
+| bip_39_word_new_line7 | typical
+muffin
+head
+stone
+document
+shallow
+erase |  
+| bip_39_word_new_line8 | typical
+muffin
+head
+stone
+document
+shallow
+erase
+scheme |  
+| bip_39_word_new_line9 | typical
+muffin
+head
+stone
+document
+shallow
+erase
+scheme
+edit |  
+| bip_39_word_space_0 | ['typical', 'muffin', 'head', 'stone', 'document', 'shallow', 'erase', 'scheme', 'edit', 'major', 'siege', 'approve'] |  
+| bip_39_word_space_1 | typical |  
+| bip_39_word_space_10 | typical muffin head stone document shallow erase scheme edit major |  
+| bip_39_word_space_11 | typical muffin head stone document shallow erase scheme edit major siege |  
+| bip_39_word_space_12 | typical muffin head stone document shallow erase scheme edit major siege approve |  
+| bip_39_word_space_2 | typical muffin |  
+| bip_39_word_space_3 | typical muffin head |  
+| bip_39_word_space_4 | typical muffin head stone |  
+| bip_39_word_space_5 | typical muffin head stone document |  
+| bip_39_word_space_6 | typical muffin head stone document shallow |  
+| bip_39_word_space_7 | typical muffin head stone document shallow erase |  
+| bip_39_word_space_8 | typical muffin head stone document shallow erase scheme |  
+| bip_39_word_space_9 | typical muffin head stone document shallow erase scheme edit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

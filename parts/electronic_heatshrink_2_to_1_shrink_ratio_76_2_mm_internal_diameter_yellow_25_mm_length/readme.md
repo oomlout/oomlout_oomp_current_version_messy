@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: edge shed
+  * bip 39 word 3: edge shed balcony
+  * bip 39 word: edge shed balcony roof tuition category burger debris inflict spin orient able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | edge |  
+| bip_39_word_new_br10 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category<br>burger<br>debris<br>inflict<br>spin |  
+| bip_39_word_new_br11 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category<br>burger<br>debris<br>inflict<br>spin<br>orient |  
+| bip_39_word_new_br12 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category<br>burger<br>debris<br>inflict<br>spin<br>orient<br>able |  
+| bip_39_word_new_br2 | edge<br>shed |  
+| bip_39_word_new_br3 | edge<br>shed<br>balcony |  
+| bip_39_word_new_br4 | edge<br>shed<br>balcony<br>roof |  
+| bip_39_word_new_br5 | edge<br>shed<br>balcony<br>roof<br>tuition |  
+| bip_39_word_new_br6 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category |  
+| bip_39_word_new_br7 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category<br>burger |  
+| bip_39_word_new_br8 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category<br>burger<br>debris |  
+| bip_39_word_new_br9 | edge<br>shed<br>balcony<br>roof<br>tuition<br>category<br>burger<br>debris<br>inflict |  
+| bip_39_word_new_line1 | edge |  
+| bip_39_word_new_line10 | edge
+shed
+balcony
+roof
+tuition
+category
+burger
+debris
+inflict
+spin |  
+| bip_39_word_new_line11 | edge
+shed
+balcony
+roof
+tuition
+category
+burger
+debris
+inflict
+spin
+orient |  
+| bip_39_word_new_line12 | edge
+shed
+balcony
+roof
+tuition
+category
+burger
+debris
+inflict
+spin
+orient
+able |  
+| bip_39_word_new_line2 | edge
+shed |  
+| bip_39_word_new_line3 | edge
+shed
+balcony |  
+| bip_39_word_new_line4 | edge
+shed
+balcony
+roof |  
+| bip_39_word_new_line5 | edge
+shed
+balcony
+roof
+tuition |  
+| bip_39_word_new_line6 | edge
+shed
+balcony
+roof
+tuition
+category |  
+| bip_39_word_new_line7 | edge
+shed
+balcony
+roof
+tuition
+category
+burger |  
+| bip_39_word_new_line8 | edge
+shed
+balcony
+roof
+tuition
+category
+burger
+debris |  
+| bip_39_word_new_line9 | edge
+shed
+balcony
+roof
+tuition
+category
+burger
+debris
+inflict |  
+| bip_39_word_space_0 | ['edge', 'shed', 'balcony', 'roof', 'tuition', 'category', 'burger', 'debris', 'inflict', 'spin', 'orient', 'able'] |  
+| bip_39_word_space_1 | edge |  
+| bip_39_word_space_10 | edge shed balcony roof tuition category burger debris inflict spin |  
+| bip_39_word_space_11 | edge shed balcony roof tuition category burger debris inflict spin orient |  
+| bip_39_word_space_12 | edge shed balcony roof tuition category burger debris inflict spin orient able |  
+| bip_39_word_space_2 | edge shed |  
+| bip_39_word_space_3 | edge shed balcony |  
+| bip_39_word_space_4 | edge shed balcony roof |  
+| bip_39_word_space_5 | edge shed balcony roof tuition |  
+| bip_39_word_space_6 | edge shed balcony roof tuition category |  
+| bip_39_word_space_7 | edge shed balcony roof tuition category burger |  
+| bip_39_word_space_8 | edge shed balcony roof tuition category burger debris |  
+| bip_39_word_space_9 | edge shed balcony roof tuition category burger debris inflict |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

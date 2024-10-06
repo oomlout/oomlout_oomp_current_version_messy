@@ -1,3 +1,186 @@
+bip_39_word_new_br1: whip
+bip_39_word_new_br10: whip<br>cruise<br>cave<br>volcano<br>pig<br>gas<br>almost<br>comfort<br>flash<br>consider
+bip_39_word_new_br11: whip<br>cruise<br>cave<br>volcano<br>pig<br>gas<br>almost<br>comfort<br>flash<br>consider<br>ball
+bip_39_word_new_br12: whip<br>cruise<br>cave<br>volcano<br>pig<br>gas<br>almost<br>comfort<br>flash<br>consider<br>ball<br>acoustic
+bip_39_word_new_br2: whip<br>cruise
+bip_39_word_new_br3: whip<br>cruise<br>cave
+bip_39_word_new_br4: whip<br>cruise<br>cave<br>volcano
+bip_39_word_new_br5: whip<br>cruise<br>cave<br>volcano<br>pig
+bip_39_word_new_br6: whip<br>cruise<br>cave<br>volcano<br>pig<br>gas
+bip_39_word_new_br7: whip<br>cruise<br>cave<br>volcano<br>pig<br>gas<br>almost
+bip_39_word_new_br8: whip<br>cruise<br>cave<br>volcano<br>pig<br>gas<br>almost<br>comfort
+bip_39_word_new_br9: whip<br>cruise<br>cave<br>volcano<br>pig<br>gas<br>almost<br>comfort<br>flash
+bip_39_word_new_line1: whip
+bip_39_word_new_line10: 'whip
+
+  cruise
+
+  cave
+
+  volcano
+
+  pig
+
+  gas
+
+  almost
+
+  comfort
+
+  flash
+
+  consider'
+bip_39_word_new_line11: 'whip
+
+  cruise
+
+  cave
+
+  volcano
+
+  pig
+
+  gas
+
+  almost
+
+  comfort
+
+  flash
+
+  consider
+
+  ball'
+bip_39_word_new_line12: 'whip
+
+  cruise
+
+  cave
+
+  volcano
+
+  pig
+
+  gas
+
+  almost
+
+  comfort
+
+  flash
+
+  consider
+
+  ball
+
+  acoustic'
+bip_39_word_new_line2: 'whip
+
+  cruise'
+bip_39_word_new_line3: 'whip
+
+  cruise
+
+  cave'
+bip_39_word_new_line4: 'whip
+
+  cruise
+
+  cave
+
+  volcano'
+bip_39_word_new_line5: 'whip
+
+  cruise
+
+  cave
+
+  volcano
+
+  pig'
+bip_39_word_new_line6: 'whip
+
+  cruise
+
+  cave
+
+  volcano
+
+  pig
+
+  gas'
+bip_39_word_new_line7: 'whip
+
+  cruise
+
+  cave
+
+  volcano
+
+  pig
+
+  gas
+
+  almost'
+bip_39_word_new_line8: 'whip
+
+  cruise
+
+  cave
+
+  volcano
+
+  pig
+
+  gas
+
+  almost
+
+  comfort'
+bip_39_word_new_line9: 'whip
+
+  cruise
+
+  cave
+
+  volcano
+
+  pig
+
+  gas
+
+  almost
+
+  comfort
+
+  flash'
+bip_39_word_space_0:
+- whip
+- cruise
+- cave
+- volcano
+- pig
+- gas
+- almost
+- comfort
+- flash
+- consider
+- ball
+- acoustic
+bip_39_word_space_1: whip
+bip_39_word_space_10: whip cruise cave volcano pig gas almost comfort flash consider
+bip_39_word_space_11: whip cruise cave volcano pig gas almost comfort flash consider
+  ball
+bip_39_word_space_12: whip cruise cave volcano pig gas almost comfort flash consider
+  ball acoustic
+bip_39_word_space_2: whip cruise
+bip_39_word_space_3: whip cruise cave
+bip_39_word_space_4: whip cruise cave volcano
+bip_39_word_space_5: whip cruise cave volcano pig
+bip_39_word_space_6: whip cruise cave volcano pig gas
+bip_39_word_space_7: whip cruise cave volcano pig gas almost
+bip_39_word_space_8: whip cruise cave volcano pig gas almost comfort
+bip_39_word_space_9: whip cruise cave volcano pig gas almost comfort flash
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

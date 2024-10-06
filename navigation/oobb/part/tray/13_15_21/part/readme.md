@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brush canal
+  * bip 39 word 3: brush canal audit
+  * bip 39 word: brush canal audit review dragon shuffle shrug assist employ toe dinner aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brush |  
+| bip_39_word_new_br10 | brush<br>canal<br>audit<br>review<br>dragon<br>shuffle<br>shrug<br>assist<br>employ<br>toe |  
+| bip_39_word_new_br11 | brush<br>canal<br>audit<br>review<br>dragon<br>shuffle<br>shrug<br>assist<br>employ<br>toe<br>dinner |  
+| bip_39_word_new_br12 | brush<br>canal<br>audit<br>review<br>dragon<br>shuffle<br>shrug<br>assist<br>employ<br>toe<br>dinner<br>aunt |  
+| bip_39_word_new_br2 | brush<br>canal |  
+| bip_39_word_new_br3 | brush<br>canal<br>audit |  
+| bip_39_word_new_br4 | brush<br>canal<br>audit<br>review |  
+| bip_39_word_new_br5 | brush<br>canal<br>audit<br>review<br>dragon |  
+| bip_39_word_new_br6 | brush<br>canal<br>audit<br>review<br>dragon<br>shuffle |  
+| bip_39_word_new_br7 | brush<br>canal<br>audit<br>review<br>dragon<br>shuffle<br>shrug |  
+| bip_39_word_new_br8 | brush<br>canal<br>audit<br>review<br>dragon<br>shuffle<br>shrug<br>assist |  
+| bip_39_word_new_br9 | brush<br>canal<br>audit<br>review<br>dragon<br>shuffle<br>shrug<br>assist<br>employ |  
+| bip_39_word_new_line1 | brush |  
+| bip_39_word_new_line10 | brush
+canal
+audit
+review
+dragon
+shuffle
+shrug
+assist
+employ
+toe |  
+| bip_39_word_new_line11 | brush
+canal
+audit
+review
+dragon
+shuffle
+shrug
+assist
+employ
+toe
+dinner |  
+| bip_39_word_new_line12 | brush
+canal
+audit
+review
+dragon
+shuffle
+shrug
+assist
+employ
+toe
+dinner
+aunt |  
+| bip_39_word_new_line2 | brush
+canal |  
+| bip_39_word_new_line3 | brush
+canal
+audit |  
+| bip_39_word_new_line4 | brush
+canal
+audit
+review |  
+| bip_39_word_new_line5 | brush
+canal
+audit
+review
+dragon |  
+| bip_39_word_new_line6 | brush
+canal
+audit
+review
+dragon
+shuffle |  
+| bip_39_word_new_line7 | brush
+canal
+audit
+review
+dragon
+shuffle
+shrug |  
+| bip_39_word_new_line8 | brush
+canal
+audit
+review
+dragon
+shuffle
+shrug
+assist |  
+| bip_39_word_new_line9 | brush
+canal
+audit
+review
+dragon
+shuffle
+shrug
+assist
+employ |  
+| bip_39_word_space_0 | ['brush', 'canal', 'audit', 'review', 'dragon', 'shuffle', 'shrug', 'assist', 'employ', 'toe', 'dinner', 'aunt'] |  
+| bip_39_word_space_1 | brush |  
+| bip_39_word_space_10 | brush canal audit review dragon shuffle shrug assist employ toe |  
+| bip_39_word_space_11 | brush canal audit review dragon shuffle shrug assist employ toe dinner |  
+| bip_39_word_space_12 | brush canal audit review dragon shuffle shrug assist employ toe dinner aunt |  
+| bip_39_word_space_2 | brush canal |  
+| bip_39_word_space_3 | brush canal audit |  
+| bip_39_word_space_4 | brush canal audit review |  
+| bip_39_word_space_5 | brush canal audit review dragon |  
+| bip_39_word_space_6 | brush canal audit review dragon shuffle |  
+| bip_39_word_space_7 | brush canal audit review dragon shuffle shrug |  
+| bip_39_word_space_8 | brush canal audit review dragon shuffle shrug assist |  
+| bip_39_word_space_9 | brush canal audit review dragon shuffle shrug assist employ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

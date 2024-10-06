@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enlist noodle
+  * bip 39 word 3: enlist noodle coral
+  * bip 39 word: enlist noodle coral despair cook weasel blind pizza vendor bless style alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enlist |  
+| bip_39_word_new_br10 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel<br>blind<br>pizza<br>vendor<br>bless |  
+| bip_39_word_new_br11 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel<br>blind<br>pizza<br>vendor<br>bless<br>style |  
+| bip_39_word_new_br12 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel<br>blind<br>pizza<br>vendor<br>bless<br>style<br>alone |  
+| bip_39_word_new_br2 | enlist<br>noodle |  
+| bip_39_word_new_br3 | enlist<br>noodle<br>coral |  
+| bip_39_word_new_br4 | enlist<br>noodle<br>coral<br>despair |  
+| bip_39_word_new_br5 | enlist<br>noodle<br>coral<br>despair<br>cook |  
+| bip_39_word_new_br6 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel |  
+| bip_39_word_new_br7 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel<br>blind |  
+| bip_39_word_new_br8 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel<br>blind<br>pizza |  
+| bip_39_word_new_br9 | enlist<br>noodle<br>coral<br>despair<br>cook<br>weasel<br>blind<br>pizza<br>vendor |  
+| bip_39_word_new_line1 | enlist |  
+| bip_39_word_new_line10 | enlist
+noodle
+coral
+despair
+cook
+weasel
+blind
+pizza
+vendor
+bless |  
+| bip_39_word_new_line11 | enlist
+noodle
+coral
+despair
+cook
+weasel
+blind
+pizza
+vendor
+bless
+style |  
+| bip_39_word_new_line12 | enlist
+noodle
+coral
+despair
+cook
+weasel
+blind
+pizza
+vendor
+bless
+style
+alone |  
+| bip_39_word_new_line2 | enlist
+noodle |  
+| bip_39_word_new_line3 | enlist
+noodle
+coral |  
+| bip_39_word_new_line4 | enlist
+noodle
+coral
+despair |  
+| bip_39_word_new_line5 | enlist
+noodle
+coral
+despair
+cook |  
+| bip_39_word_new_line6 | enlist
+noodle
+coral
+despair
+cook
+weasel |  
+| bip_39_word_new_line7 | enlist
+noodle
+coral
+despair
+cook
+weasel
+blind |  
+| bip_39_word_new_line8 | enlist
+noodle
+coral
+despair
+cook
+weasel
+blind
+pizza |  
+| bip_39_word_new_line9 | enlist
+noodle
+coral
+despair
+cook
+weasel
+blind
+pizza
+vendor |  
+| bip_39_word_space_0 | ['enlist', 'noodle', 'coral', 'despair', 'cook', 'weasel', 'blind', 'pizza', 'vendor', 'bless', 'style', 'alone'] |  
+| bip_39_word_space_1 | enlist |  
+| bip_39_word_space_10 | enlist noodle coral despair cook weasel blind pizza vendor bless |  
+| bip_39_word_space_11 | enlist noodle coral despair cook weasel blind pizza vendor bless style |  
+| bip_39_word_space_12 | enlist noodle coral despair cook weasel blind pizza vendor bless style alone |  
+| bip_39_word_space_2 | enlist noodle |  
+| bip_39_word_space_3 | enlist noodle coral |  
+| bip_39_word_space_4 | enlist noodle coral despair |  
+| bip_39_word_space_5 | enlist noodle coral despair cook |  
+| bip_39_word_space_6 | enlist noodle coral despair cook weasel |  
+| bip_39_word_space_7 | enlist noodle coral despair cook weasel blind |  
+| bip_39_word_space_8 | enlist noodle coral despair cook weasel blind pizza |  
+| bip_39_word_space_9 | enlist noodle coral despair cook weasel blind pizza vendor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

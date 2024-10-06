@@ -1,3 +1,185 @@
+bip_39_word_new_br1: school
+bip_39_word_new_br10: school<br>popular<br>draft<br>cry<br>humble<br>item<br>valley<br>plug<br>oven<br>oval
+bip_39_word_new_br11: school<br>popular<br>draft<br>cry<br>humble<br>item<br>valley<br>plug<br>oven<br>oval<br>twelve
+bip_39_word_new_br12: school<br>popular<br>draft<br>cry<br>humble<br>item<br>valley<br>plug<br>oven<br>oval<br>twelve<br>air
+bip_39_word_new_br2: school<br>popular
+bip_39_word_new_br3: school<br>popular<br>draft
+bip_39_word_new_br4: school<br>popular<br>draft<br>cry
+bip_39_word_new_br5: school<br>popular<br>draft<br>cry<br>humble
+bip_39_word_new_br6: school<br>popular<br>draft<br>cry<br>humble<br>item
+bip_39_word_new_br7: school<br>popular<br>draft<br>cry<br>humble<br>item<br>valley
+bip_39_word_new_br8: school<br>popular<br>draft<br>cry<br>humble<br>item<br>valley<br>plug
+bip_39_word_new_br9: school<br>popular<br>draft<br>cry<br>humble<br>item<br>valley<br>plug<br>oven
+bip_39_word_new_line1: school
+bip_39_word_new_line10: 'school
+
+  popular
+
+  draft
+
+  cry
+
+  humble
+
+  item
+
+  valley
+
+  plug
+
+  oven
+
+  oval'
+bip_39_word_new_line11: 'school
+
+  popular
+
+  draft
+
+  cry
+
+  humble
+
+  item
+
+  valley
+
+  plug
+
+  oven
+
+  oval
+
+  twelve'
+bip_39_word_new_line12: 'school
+
+  popular
+
+  draft
+
+  cry
+
+  humble
+
+  item
+
+  valley
+
+  plug
+
+  oven
+
+  oval
+
+  twelve
+
+  air'
+bip_39_word_new_line2: 'school
+
+  popular'
+bip_39_word_new_line3: 'school
+
+  popular
+
+  draft'
+bip_39_word_new_line4: 'school
+
+  popular
+
+  draft
+
+  cry'
+bip_39_word_new_line5: 'school
+
+  popular
+
+  draft
+
+  cry
+
+  humble'
+bip_39_word_new_line6: 'school
+
+  popular
+
+  draft
+
+  cry
+
+  humble
+
+  item'
+bip_39_word_new_line7: 'school
+
+  popular
+
+  draft
+
+  cry
+
+  humble
+
+  item
+
+  valley'
+bip_39_word_new_line8: 'school
+
+  popular
+
+  draft
+
+  cry
+
+  humble
+
+  item
+
+  valley
+
+  plug'
+bip_39_word_new_line9: 'school
+
+  popular
+
+  draft
+
+  cry
+
+  humble
+
+  item
+
+  valley
+
+  plug
+
+  oven'
+bip_39_word_space_0:
+- school
+- popular
+- draft
+- cry
+- humble
+- item
+- valley
+- plug
+- oven
+- oval
+- twelve
+- air
+bip_39_word_space_1: school
+bip_39_word_space_10: school popular draft cry humble item valley plug oven oval
+bip_39_word_space_11: school popular draft cry humble item valley plug oven oval twelve
+bip_39_word_space_12: school popular draft cry humble item valley plug oven oval twelve
+  air
+bip_39_word_space_2: school popular
+bip_39_word_space_3: school popular draft
+bip_39_word_space_4: school popular draft cry
+bip_39_word_space_5: school popular draft cry humble
+bip_39_word_space_6: school popular draft cry humble item
+bip_39_word_space_7: school popular draft cry humble item valley
+bip_39_word_space_8: school popular draft cry humble item valley plug
+bip_39_word_space_9: school popular draft cry humble item valley plug oven
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: q
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: improve rookie
+  * bip 39 word 3: improve rookie leg
+  * bip 39 word: improve rookie leg current cream coconut fuel express indoor eyebrow thank about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | improve |  
+| bip_39_word_new_br10 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut<br>fuel<br>express<br>indoor<br>eyebrow |  
+| bip_39_word_new_br11 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut<br>fuel<br>express<br>indoor<br>eyebrow<br>thank |  
+| bip_39_word_new_br12 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut<br>fuel<br>express<br>indoor<br>eyebrow<br>thank<br>about |  
+| bip_39_word_new_br2 | improve<br>rookie |  
+| bip_39_word_new_br3 | improve<br>rookie<br>leg |  
+| bip_39_word_new_br4 | improve<br>rookie<br>leg<br>current |  
+| bip_39_word_new_br5 | improve<br>rookie<br>leg<br>current<br>cream |  
+| bip_39_word_new_br6 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut |  
+| bip_39_word_new_br7 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut<br>fuel |  
+| bip_39_word_new_br8 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut<br>fuel<br>express |  
+| bip_39_word_new_br9 | improve<br>rookie<br>leg<br>current<br>cream<br>coconut<br>fuel<br>express<br>indoor |  
+| bip_39_word_new_line1 | improve |  
+| bip_39_word_new_line10 | improve
+rookie
+leg
+current
+cream
+coconut
+fuel
+express
+indoor
+eyebrow |  
+| bip_39_word_new_line11 | improve
+rookie
+leg
+current
+cream
+coconut
+fuel
+express
+indoor
+eyebrow
+thank |  
+| bip_39_word_new_line12 | improve
+rookie
+leg
+current
+cream
+coconut
+fuel
+express
+indoor
+eyebrow
+thank
+about |  
+| bip_39_word_new_line2 | improve
+rookie |  
+| bip_39_word_new_line3 | improve
+rookie
+leg |  
+| bip_39_word_new_line4 | improve
+rookie
+leg
+current |  
+| bip_39_word_new_line5 | improve
+rookie
+leg
+current
+cream |  
+| bip_39_word_new_line6 | improve
+rookie
+leg
+current
+cream
+coconut |  
+| bip_39_word_new_line7 | improve
+rookie
+leg
+current
+cream
+coconut
+fuel |  
+| bip_39_word_new_line8 | improve
+rookie
+leg
+current
+cream
+coconut
+fuel
+express |  
+| bip_39_word_new_line9 | improve
+rookie
+leg
+current
+cream
+coconut
+fuel
+express
+indoor |  
+| bip_39_word_space_0 | ['improve', 'rookie', 'leg', 'current', 'cream', 'coconut', 'fuel', 'express', 'indoor', 'eyebrow', 'thank', 'about'] |  
+| bip_39_word_space_1 | improve |  
+| bip_39_word_space_10 | improve rookie leg current cream coconut fuel express indoor eyebrow |  
+| bip_39_word_space_11 | improve rookie leg current cream coconut fuel express indoor eyebrow thank |  
+| bip_39_word_space_12 | improve rookie leg current cream coconut fuel express indoor eyebrow thank about |  
+| bip_39_word_space_2 | improve rookie |  
+| bip_39_word_space_3 | improve rookie leg |  
+| bip_39_word_space_4 | improve rookie leg current |  
+| bip_39_word_space_5 | improve rookie leg current cream |  
+| bip_39_word_space_6 | improve rookie leg current cream coconut |  
+| bip_39_word_space_7 | improve rookie leg current cream coconut fuel |  
+| bip_39_word_space_8 | improve rookie leg current cream coconut fuel express |  
+| bip_39_word_space_9 | improve rookie leg current cream coconut fuel express indoor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

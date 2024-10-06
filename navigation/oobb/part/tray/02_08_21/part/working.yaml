@@ -1,3 +1,186 @@
+bip_39_word_new_br1: settle
+bip_39_word_new_br10: settle<br>liquid<br>rigid<br>what<br>brave<br>crowd<br>close<br>captain<br>pitch<br>salt
+bip_39_word_new_br11: settle<br>liquid<br>rigid<br>what<br>brave<br>crowd<br>close<br>captain<br>pitch<br>salt<br>ride
+bip_39_word_new_br12: settle<br>liquid<br>rigid<br>what<br>brave<br>crowd<br>close<br>captain<br>pitch<br>salt<br>ride<br>adult
+bip_39_word_new_br2: settle<br>liquid
+bip_39_word_new_br3: settle<br>liquid<br>rigid
+bip_39_word_new_br4: settle<br>liquid<br>rigid<br>what
+bip_39_word_new_br5: settle<br>liquid<br>rigid<br>what<br>brave
+bip_39_word_new_br6: settle<br>liquid<br>rigid<br>what<br>brave<br>crowd
+bip_39_word_new_br7: settle<br>liquid<br>rigid<br>what<br>brave<br>crowd<br>close
+bip_39_word_new_br8: settle<br>liquid<br>rigid<br>what<br>brave<br>crowd<br>close<br>captain
+bip_39_word_new_br9: settle<br>liquid<br>rigid<br>what<br>brave<br>crowd<br>close<br>captain<br>pitch
+bip_39_word_new_line1: settle
+bip_39_word_new_line10: 'settle
+
+  liquid
+
+  rigid
+
+  what
+
+  brave
+
+  crowd
+
+  close
+
+  captain
+
+  pitch
+
+  salt'
+bip_39_word_new_line11: 'settle
+
+  liquid
+
+  rigid
+
+  what
+
+  brave
+
+  crowd
+
+  close
+
+  captain
+
+  pitch
+
+  salt
+
+  ride'
+bip_39_word_new_line12: 'settle
+
+  liquid
+
+  rigid
+
+  what
+
+  brave
+
+  crowd
+
+  close
+
+  captain
+
+  pitch
+
+  salt
+
+  ride
+
+  adult'
+bip_39_word_new_line2: 'settle
+
+  liquid'
+bip_39_word_new_line3: 'settle
+
+  liquid
+
+  rigid'
+bip_39_word_new_line4: 'settle
+
+  liquid
+
+  rigid
+
+  what'
+bip_39_word_new_line5: 'settle
+
+  liquid
+
+  rigid
+
+  what
+
+  brave'
+bip_39_word_new_line6: 'settle
+
+  liquid
+
+  rigid
+
+  what
+
+  brave
+
+  crowd'
+bip_39_word_new_line7: 'settle
+
+  liquid
+
+  rigid
+
+  what
+
+  brave
+
+  crowd
+
+  close'
+bip_39_word_new_line8: 'settle
+
+  liquid
+
+  rigid
+
+  what
+
+  brave
+
+  crowd
+
+  close
+
+  captain'
+bip_39_word_new_line9: 'settle
+
+  liquid
+
+  rigid
+
+  what
+
+  brave
+
+  crowd
+
+  close
+
+  captain
+
+  pitch'
+bip_39_word_space_0:
+- settle
+- liquid
+- rigid
+- what
+- brave
+- crowd
+- close
+- captain
+- pitch
+- salt
+- ride
+- adult
+bip_39_word_space_1: settle
+bip_39_word_space_10: settle liquid rigid what brave crowd close captain pitch salt
+bip_39_word_space_11: settle liquid rigid what brave crowd close captain pitch salt
+  ride
+bip_39_word_space_12: settle liquid rigid what brave crowd close captain pitch salt
+  ride adult
+bip_39_word_space_2: settle liquid
+bip_39_word_space_3: settle liquid rigid
+bip_39_word_space_4: settle liquid rigid what
+bip_39_word_space_5: settle liquid rigid what brave
+bip_39_word_space_6: settle liquid rigid what brave crowd
+bip_39_word_space_7: settle liquid rigid what brave crowd close
+bip_39_word_space_8: settle liquid rigid what brave crowd close captain
+bip_39_word_space_9: settle liquid rigid what brave crowd close captain pitch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

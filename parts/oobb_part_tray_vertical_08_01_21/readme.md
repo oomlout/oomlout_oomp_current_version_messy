@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ghost foster
+  * bip 39 word 3: ghost foster wife
+  * bip 39 word: ghost foster wife interest hover sadness advice trap road absurd cart acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ghost |  
+| bip_39_word_new_br10 | ghost<br>foster<br>wife<br>interest<br>hover<br>sadness<br>advice<br>trap<br>road<br>absurd |  
+| bip_39_word_new_br11 | ghost<br>foster<br>wife<br>interest<br>hover<br>sadness<br>advice<br>trap<br>road<br>absurd<br>cart |  
+| bip_39_word_new_br12 | ghost<br>foster<br>wife<br>interest<br>hover<br>sadness<br>advice<br>trap<br>road<br>absurd<br>cart<br>acquire |  
+| bip_39_word_new_br2 | ghost<br>foster |  
+| bip_39_word_new_br3 | ghost<br>foster<br>wife |  
+| bip_39_word_new_br4 | ghost<br>foster<br>wife<br>interest |  
+| bip_39_word_new_br5 | ghost<br>foster<br>wife<br>interest<br>hover |  
+| bip_39_word_new_br6 | ghost<br>foster<br>wife<br>interest<br>hover<br>sadness |  
+| bip_39_word_new_br7 | ghost<br>foster<br>wife<br>interest<br>hover<br>sadness<br>advice |  
+| bip_39_word_new_br8 | ghost<br>foster<br>wife<br>interest<br>hover<br>sadness<br>advice<br>trap |  
+| bip_39_word_new_br9 | ghost<br>foster<br>wife<br>interest<br>hover<br>sadness<br>advice<br>trap<br>road |  
+| bip_39_word_new_line1 | ghost |  
+| bip_39_word_new_line10 | ghost
+foster
+wife
+interest
+hover
+sadness
+advice
+trap
+road
+absurd |  
+| bip_39_word_new_line11 | ghost
+foster
+wife
+interest
+hover
+sadness
+advice
+trap
+road
+absurd
+cart |  
+| bip_39_word_new_line12 | ghost
+foster
+wife
+interest
+hover
+sadness
+advice
+trap
+road
+absurd
+cart
+acquire |  
+| bip_39_word_new_line2 | ghost
+foster |  
+| bip_39_word_new_line3 | ghost
+foster
+wife |  
+| bip_39_word_new_line4 | ghost
+foster
+wife
+interest |  
+| bip_39_word_new_line5 | ghost
+foster
+wife
+interest
+hover |  
+| bip_39_word_new_line6 | ghost
+foster
+wife
+interest
+hover
+sadness |  
+| bip_39_word_new_line7 | ghost
+foster
+wife
+interest
+hover
+sadness
+advice |  
+| bip_39_word_new_line8 | ghost
+foster
+wife
+interest
+hover
+sadness
+advice
+trap |  
+| bip_39_word_new_line9 | ghost
+foster
+wife
+interest
+hover
+sadness
+advice
+trap
+road |  
+| bip_39_word_space_0 | ['ghost', 'foster', 'wife', 'interest', 'hover', 'sadness', 'advice', 'trap', 'road', 'absurd', 'cart', 'acquire'] |  
+| bip_39_word_space_1 | ghost |  
+| bip_39_word_space_10 | ghost foster wife interest hover sadness advice trap road absurd |  
+| bip_39_word_space_11 | ghost foster wife interest hover sadness advice trap road absurd cart |  
+| bip_39_word_space_12 | ghost foster wife interest hover sadness advice trap road absurd cart acquire |  
+| bip_39_word_space_2 | ghost foster |  
+| bip_39_word_space_3 | ghost foster wife |  
+| bip_39_word_space_4 | ghost foster wife interest |  
+| bip_39_word_space_5 | ghost foster wife interest hover |  
+| bip_39_word_space_6 | ghost foster wife interest hover sadness |  
+| bip_39_word_space_7 | ghost foster wife interest hover sadness advice |  
+| bip_39_word_space_8 | ghost foster wife interest hover sadness advice trap |  
+| bip_39_word_space_9 | ghost foster wife interest hover sadness advice trap road |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

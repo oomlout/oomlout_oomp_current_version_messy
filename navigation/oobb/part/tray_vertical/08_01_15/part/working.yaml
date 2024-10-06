@@ -1,3 +1,185 @@
+bip_39_word_new_br1: easy
+bip_39_word_new_br10: easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual
+bip_39_word_new_br11: easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual<br>goose
+bip_39_word_new_br12: easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart<br>unusual<br>goose<br>avocado
+bip_39_word_new_br2: easy<br>mother
+bip_39_word_new_br3: easy<br>mother<br>winter
+bip_39_word_new_br4: easy<br>mother<br>winter<br>poem
+bip_39_word_new_br5: easy<br>mother<br>winter<br>poem<br>life
+bip_39_word_new_br6: easy<br>mother<br>winter<br>poem<br>life<br>census
+bip_39_word_new_br7: easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast
+bip_39_word_new_br8: easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad
+bip_39_word_new_br9: easy<br>mother<br>winter<br>poem<br>life<br>census<br>vast<br>sad<br>smart
+bip_39_word_new_line1: easy
+bip_39_word_new_line10: 'easy
+
+  mother
+
+  winter
+
+  poem
+
+  life
+
+  census
+
+  vast
+
+  sad
+
+  smart
+
+  unusual'
+bip_39_word_new_line11: 'easy
+
+  mother
+
+  winter
+
+  poem
+
+  life
+
+  census
+
+  vast
+
+  sad
+
+  smart
+
+  unusual
+
+  goose'
+bip_39_word_new_line12: 'easy
+
+  mother
+
+  winter
+
+  poem
+
+  life
+
+  census
+
+  vast
+
+  sad
+
+  smart
+
+  unusual
+
+  goose
+
+  avocado'
+bip_39_word_new_line2: 'easy
+
+  mother'
+bip_39_word_new_line3: 'easy
+
+  mother
+
+  winter'
+bip_39_word_new_line4: 'easy
+
+  mother
+
+  winter
+
+  poem'
+bip_39_word_new_line5: 'easy
+
+  mother
+
+  winter
+
+  poem
+
+  life'
+bip_39_word_new_line6: 'easy
+
+  mother
+
+  winter
+
+  poem
+
+  life
+
+  census'
+bip_39_word_new_line7: 'easy
+
+  mother
+
+  winter
+
+  poem
+
+  life
+
+  census
+
+  vast'
+bip_39_word_new_line8: 'easy
+
+  mother
+
+  winter
+
+  poem
+
+  life
+
+  census
+
+  vast
+
+  sad'
+bip_39_word_new_line9: 'easy
+
+  mother
+
+  winter
+
+  poem
+
+  life
+
+  census
+
+  vast
+
+  sad
+
+  smart'
+bip_39_word_space_0:
+- easy
+- mother
+- winter
+- poem
+- life
+- census
+- vast
+- sad
+- smart
+- unusual
+- goose
+- avocado
+bip_39_word_space_1: easy
+bip_39_word_space_10: easy mother winter poem life census vast sad smart unusual
+bip_39_word_space_11: easy mother winter poem life census vast sad smart unusual goose
+bip_39_word_space_12: easy mother winter poem life census vast sad smart unusual goose
+  avocado
+bip_39_word_space_2: easy mother
+bip_39_word_space_3: easy mother winter
+bip_39_word_space_4: easy mother winter poem
+bip_39_word_space_5: easy mother winter poem life
+bip_39_word_space_6: easy mother winter poem life census
+bip_39_word_space_7: easy mother winter poem life census vast
+bip_39_word_space_8: easy mother winter poem life census vast sad
+bip_39_word_space_9: easy mother winter poem life census vast sad smart
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

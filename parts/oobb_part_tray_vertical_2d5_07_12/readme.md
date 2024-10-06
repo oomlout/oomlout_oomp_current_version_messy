@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: floor spawn
+  * bip 39 word 3: floor spawn turn
+  * bip 39 word: floor spawn turn inject move resemble stone recycle trigger pudding vacant again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | floor |  
+| bip_39_word_new_br10 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble<br>stone<br>recycle<br>trigger<br>pudding |  
+| bip_39_word_new_br11 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble<br>stone<br>recycle<br>trigger<br>pudding<br>vacant |  
+| bip_39_word_new_br12 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble<br>stone<br>recycle<br>trigger<br>pudding<br>vacant<br>again |  
+| bip_39_word_new_br2 | floor<br>spawn |  
+| bip_39_word_new_br3 | floor<br>spawn<br>turn |  
+| bip_39_word_new_br4 | floor<br>spawn<br>turn<br>inject |  
+| bip_39_word_new_br5 | floor<br>spawn<br>turn<br>inject<br>move |  
+| bip_39_word_new_br6 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble |  
+| bip_39_word_new_br7 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble<br>stone |  
+| bip_39_word_new_br8 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble<br>stone<br>recycle |  
+| bip_39_word_new_br9 | floor<br>spawn<br>turn<br>inject<br>move<br>resemble<br>stone<br>recycle<br>trigger |  
+| bip_39_word_new_line1 | floor |  
+| bip_39_word_new_line10 | floor
+spawn
+turn
+inject
+move
+resemble
+stone
+recycle
+trigger
+pudding |  
+| bip_39_word_new_line11 | floor
+spawn
+turn
+inject
+move
+resemble
+stone
+recycle
+trigger
+pudding
+vacant |  
+| bip_39_word_new_line12 | floor
+spawn
+turn
+inject
+move
+resemble
+stone
+recycle
+trigger
+pudding
+vacant
+again |  
+| bip_39_word_new_line2 | floor
+spawn |  
+| bip_39_word_new_line3 | floor
+spawn
+turn |  
+| bip_39_word_new_line4 | floor
+spawn
+turn
+inject |  
+| bip_39_word_new_line5 | floor
+spawn
+turn
+inject
+move |  
+| bip_39_word_new_line6 | floor
+spawn
+turn
+inject
+move
+resemble |  
+| bip_39_word_new_line7 | floor
+spawn
+turn
+inject
+move
+resemble
+stone |  
+| bip_39_word_new_line8 | floor
+spawn
+turn
+inject
+move
+resemble
+stone
+recycle |  
+| bip_39_word_new_line9 | floor
+spawn
+turn
+inject
+move
+resemble
+stone
+recycle
+trigger |  
+| bip_39_word_space_0 | ['floor', 'spawn', 'turn', 'inject', 'move', 'resemble', 'stone', 'recycle', 'trigger', 'pudding', 'vacant', 'again'] |  
+| bip_39_word_space_1 | floor |  
+| bip_39_word_space_10 | floor spawn turn inject move resemble stone recycle trigger pudding |  
+| bip_39_word_space_11 | floor spawn turn inject move resemble stone recycle trigger pudding vacant |  
+| bip_39_word_space_12 | floor spawn turn inject move resemble stone recycle trigger pudding vacant again |  
+| bip_39_word_space_2 | floor spawn |  
+| bip_39_word_space_3 | floor spawn turn |  
+| bip_39_word_space_4 | floor spawn turn inject |  
+| bip_39_word_space_5 | floor spawn turn inject move |  
+| bip_39_word_space_6 | floor spawn turn inject move resemble |  
+| bip_39_word_space_7 | floor spawn turn inject move resemble stone |  
+| bip_39_word_space_8 | floor spawn turn inject move resemble stone recycle |  
+| bip_39_word_space_9 | floor spawn turn inject move resemble stone recycle trigger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

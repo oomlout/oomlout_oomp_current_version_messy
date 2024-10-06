@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: razor face
+  * bip 39 word 3: razor face struggle
+  * bip 39 word: razor face struggle corn napkin nominee slim buyer bronze business dress among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | razor |  
+| bip_39_word_new_br10 | razor<br>face<br>struggle<br>corn<br>napkin<br>nominee<br>slim<br>buyer<br>bronze<br>business |  
+| bip_39_word_new_br11 | razor<br>face<br>struggle<br>corn<br>napkin<br>nominee<br>slim<br>buyer<br>bronze<br>business<br>dress |  
+| bip_39_word_new_br12 | razor<br>face<br>struggle<br>corn<br>napkin<br>nominee<br>slim<br>buyer<br>bronze<br>business<br>dress<br>among |  
+| bip_39_word_new_br2 | razor<br>face |  
+| bip_39_word_new_br3 | razor<br>face<br>struggle |  
+| bip_39_word_new_br4 | razor<br>face<br>struggle<br>corn |  
+| bip_39_word_new_br5 | razor<br>face<br>struggle<br>corn<br>napkin |  
+| bip_39_word_new_br6 | razor<br>face<br>struggle<br>corn<br>napkin<br>nominee |  
+| bip_39_word_new_br7 | razor<br>face<br>struggle<br>corn<br>napkin<br>nominee<br>slim |  
+| bip_39_word_new_br8 | razor<br>face<br>struggle<br>corn<br>napkin<br>nominee<br>slim<br>buyer |  
+| bip_39_word_new_br9 | razor<br>face<br>struggle<br>corn<br>napkin<br>nominee<br>slim<br>buyer<br>bronze |  
+| bip_39_word_new_line1 | razor |  
+| bip_39_word_new_line10 | razor
+face
+struggle
+corn
+napkin
+nominee
+slim
+buyer
+bronze
+business |  
+| bip_39_word_new_line11 | razor
+face
+struggle
+corn
+napkin
+nominee
+slim
+buyer
+bronze
+business
+dress |  
+| bip_39_word_new_line12 | razor
+face
+struggle
+corn
+napkin
+nominee
+slim
+buyer
+bronze
+business
+dress
+among |  
+| bip_39_word_new_line2 | razor
+face |  
+| bip_39_word_new_line3 | razor
+face
+struggle |  
+| bip_39_word_new_line4 | razor
+face
+struggle
+corn |  
+| bip_39_word_new_line5 | razor
+face
+struggle
+corn
+napkin |  
+| bip_39_word_new_line6 | razor
+face
+struggle
+corn
+napkin
+nominee |  
+| bip_39_word_new_line7 | razor
+face
+struggle
+corn
+napkin
+nominee
+slim |  
+| bip_39_word_new_line8 | razor
+face
+struggle
+corn
+napkin
+nominee
+slim
+buyer |  
+| bip_39_word_new_line9 | razor
+face
+struggle
+corn
+napkin
+nominee
+slim
+buyer
+bronze |  
+| bip_39_word_space_0 | ['razor', 'face', 'struggle', 'corn', 'napkin', 'nominee', 'slim', 'buyer', 'bronze', 'business', 'dress', 'among'] |  
+| bip_39_word_space_1 | razor |  
+| bip_39_word_space_10 | razor face struggle corn napkin nominee slim buyer bronze business |  
+| bip_39_word_space_11 | razor face struggle corn napkin nominee slim buyer bronze business dress |  
+| bip_39_word_space_12 | razor face struggle corn napkin nominee slim buyer bronze business dress among |  
+| bip_39_word_space_2 | razor face |  
+| bip_39_word_space_3 | razor face struggle |  
+| bip_39_word_space_4 | razor face struggle corn |  
+| bip_39_word_space_5 | razor face struggle corn napkin |  
+| bip_39_word_space_6 | razor face struggle corn napkin nominee |  
+| bip_39_word_space_7 | razor face struggle corn napkin nominee slim |  
+| bip_39_word_space_8 | razor face struggle corn napkin nominee slim buyer |  
+| bip_39_word_space_9 | razor face struggle corn napkin nominee slim buyer bronze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

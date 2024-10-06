@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wheat
+bip_39_word_new_br10: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty<br>subway<br>glow<br>roast<br>farm
+bip_39_word_new_br11: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty<br>subway<br>glow<br>roast<br>farm<br>junior
+bip_39_word_new_br12: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty<br>subway<br>glow<br>roast<br>farm<br>junior<br>arctic
+bip_39_word_new_br2: wheat<br>tank
+bip_39_word_new_br3: wheat<br>tank<br>blame
+bip_39_word_new_br4: wheat<br>tank<br>blame<br>furnace
+bip_39_word_new_br5: wheat<br>tank<br>blame<br>furnace<br>swallow
+bip_39_word_new_br6: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty
+bip_39_word_new_br7: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty<br>subway
+bip_39_word_new_br8: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty<br>subway<br>glow
+bip_39_word_new_br9: wheat<br>tank<br>blame<br>furnace<br>swallow<br>twenty<br>subway<br>glow<br>roast
+bip_39_word_new_line1: wheat
+bip_39_word_new_line10: 'wheat
+
+  tank
+
+  blame
+
+  furnace
+
+  swallow
+
+  twenty
+
+  subway
+
+  glow
+
+  roast
+
+  farm'
+bip_39_word_new_line11: 'wheat
+
+  tank
+
+  blame
+
+  furnace
+
+  swallow
+
+  twenty
+
+  subway
+
+  glow
+
+  roast
+
+  farm
+
+  junior'
+bip_39_word_new_line12: 'wheat
+
+  tank
+
+  blame
+
+  furnace
+
+  swallow
+
+  twenty
+
+  subway
+
+  glow
+
+  roast
+
+  farm
+
+  junior
+
+  arctic'
+bip_39_word_new_line2: 'wheat
+
+  tank'
+bip_39_word_new_line3: 'wheat
+
+  tank
+
+  blame'
+bip_39_word_new_line4: 'wheat
+
+  tank
+
+  blame
+
+  furnace'
+bip_39_word_new_line5: 'wheat
+
+  tank
+
+  blame
+
+  furnace
+
+  swallow'
+bip_39_word_new_line6: 'wheat
+
+  tank
+
+  blame
+
+  furnace
+
+  swallow
+
+  twenty'
+bip_39_word_new_line7: 'wheat
+
+  tank
+
+  blame
+
+  furnace
+
+  swallow
+
+  twenty
+
+  subway'
+bip_39_word_new_line8: 'wheat
+
+  tank
+
+  blame
+
+  furnace
+
+  swallow
+
+  twenty
+
+  subway
+
+  glow'
+bip_39_word_new_line9: 'wheat
+
+  tank
+
+  blame
+
+  furnace
+
+  swallow
+
+  twenty
+
+  subway
+
+  glow
+
+  roast'
+bip_39_word_space_0:
+- wheat
+- tank
+- blame
+- furnace
+- swallow
+- twenty
+- subway
+- glow
+- roast
+- farm
+- junior
+- arctic
+bip_39_word_space_1: wheat
+bip_39_word_space_10: wheat tank blame furnace swallow twenty subway glow roast farm
+bip_39_word_space_11: wheat tank blame furnace swallow twenty subway glow roast farm
+  junior
+bip_39_word_space_12: wheat tank blame furnace swallow twenty subway glow roast farm
+  junior arctic
+bip_39_word_space_2: wheat tank
+bip_39_word_space_3: wheat tank blame
+bip_39_word_space_4: wheat tank blame furnace
+bip_39_word_space_5: wheat tank blame furnace swallow
+bip_39_word_space_6: wheat tank blame furnace swallow twenty
+bip_39_word_space_7: wheat tank blame furnace swallow twenty subway
+bip_39_word_space_8: wheat tank blame furnace swallow twenty subway glow
+bip_39_word_space_9: wheat tank blame furnace swallow twenty subway glow roast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

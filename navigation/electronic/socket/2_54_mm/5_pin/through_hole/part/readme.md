@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: palm dentist
+  * bip 39 word 3: palm dentist parent
+  * bip 39 word: palm dentist parent bone dream during have recipe laptop achieve trumpet access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | palm |  
+| bip_39_word_new_br10 | palm<br>dentist<br>parent<br>bone<br>dream<br>during<br>have<br>recipe<br>laptop<br>achieve |  
+| bip_39_word_new_br11 | palm<br>dentist<br>parent<br>bone<br>dream<br>during<br>have<br>recipe<br>laptop<br>achieve<br>trumpet |  
+| bip_39_word_new_br12 | palm<br>dentist<br>parent<br>bone<br>dream<br>during<br>have<br>recipe<br>laptop<br>achieve<br>trumpet<br>access |  
+| bip_39_word_new_br2 | palm<br>dentist |  
+| bip_39_word_new_br3 | palm<br>dentist<br>parent |  
+| bip_39_word_new_br4 | palm<br>dentist<br>parent<br>bone |  
+| bip_39_word_new_br5 | palm<br>dentist<br>parent<br>bone<br>dream |  
+| bip_39_word_new_br6 | palm<br>dentist<br>parent<br>bone<br>dream<br>during |  
+| bip_39_word_new_br7 | palm<br>dentist<br>parent<br>bone<br>dream<br>during<br>have |  
+| bip_39_word_new_br8 | palm<br>dentist<br>parent<br>bone<br>dream<br>during<br>have<br>recipe |  
+| bip_39_word_new_br9 | palm<br>dentist<br>parent<br>bone<br>dream<br>during<br>have<br>recipe<br>laptop |  
+| bip_39_word_new_line1 | palm |  
+| bip_39_word_new_line10 | palm
+dentist
+parent
+bone
+dream
+during
+have
+recipe
+laptop
+achieve |  
+| bip_39_word_new_line11 | palm
+dentist
+parent
+bone
+dream
+during
+have
+recipe
+laptop
+achieve
+trumpet |  
+| bip_39_word_new_line12 | palm
+dentist
+parent
+bone
+dream
+during
+have
+recipe
+laptop
+achieve
+trumpet
+access |  
+| bip_39_word_new_line2 | palm
+dentist |  
+| bip_39_word_new_line3 | palm
+dentist
+parent |  
+| bip_39_word_new_line4 | palm
+dentist
+parent
+bone |  
+| bip_39_word_new_line5 | palm
+dentist
+parent
+bone
+dream |  
+| bip_39_word_new_line6 | palm
+dentist
+parent
+bone
+dream
+during |  
+| bip_39_word_new_line7 | palm
+dentist
+parent
+bone
+dream
+during
+have |  
+| bip_39_word_new_line8 | palm
+dentist
+parent
+bone
+dream
+during
+have
+recipe |  
+| bip_39_word_new_line9 | palm
+dentist
+parent
+bone
+dream
+during
+have
+recipe
+laptop |  
+| bip_39_word_space_0 | ['palm', 'dentist', 'parent', 'bone', 'dream', 'during', 'have', 'recipe', 'laptop', 'achieve', 'trumpet', 'access'] |  
+| bip_39_word_space_1 | palm |  
+| bip_39_word_space_10 | palm dentist parent bone dream during have recipe laptop achieve |  
+| bip_39_word_space_11 | palm dentist parent bone dream during have recipe laptop achieve trumpet |  
+| bip_39_word_space_12 | palm dentist parent bone dream during have recipe laptop achieve trumpet access |  
+| bip_39_word_space_2 | palm dentist |  
+| bip_39_word_space_3 | palm dentist parent |  
+| bip_39_word_space_4 | palm dentist parent bone |  
+| bip_39_word_space_5 | palm dentist parent bone dream |  
+| bip_39_word_space_6 | palm dentist parent bone dream during |  
+| bip_39_word_space_7 | palm dentist parent bone dream during have |  
+| bip_39_word_space_8 | palm dentist parent bone dream during have recipe |  
+| bip_39_word_space_9 | palm dentist parent bone dream during have recipe laptop |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

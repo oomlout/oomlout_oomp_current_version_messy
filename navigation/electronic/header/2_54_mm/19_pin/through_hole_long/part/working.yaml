@@ -1,3 +1,186 @@
+bip_39_word_new_br1: often
+bip_39_word_new_br10: often<br>rather<br>friend<br>cigar<br>kidney<br>chronic<br>aspect<br>cave<br>sign<br>direct
+bip_39_word_new_br11: often<br>rather<br>friend<br>cigar<br>kidney<br>chronic<br>aspect<br>cave<br>sign<br>direct<br>bomb
+bip_39_word_new_br12: often<br>rather<br>friend<br>cigar<br>kidney<br>chronic<br>aspect<br>cave<br>sign<br>direct<br>bomb<br>arrive
+bip_39_word_new_br2: often<br>rather
+bip_39_word_new_br3: often<br>rather<br>friend
+bip_39_word_new_br4: often<br>rather<br>friend<br>cigar
+bip_39_word_new_br5: often<br>rather<br>friend<br>cigar<br>kidney
+bip_39_word_new_br6: often<br>rather<br>friend<br>cigar<br>kidney<br>chronic
+bip_39_word_new_br7: often<br>rather<br>friend<br>cigar<br>kidney<br>chronic<br>aspect
+bip_39_word_new_br8: often<br>rather<br>friend<br>cigar<br>kidney<br>chronic<br>aspect<br>cave
+bip_39_word_new_br9: often<br>rather<br>friend<br>cigar<br>kidney<br>chronic<br>aspect<br>cave<br>sign
+bip_39_word_new_line1: often
+bip_39_word_new_line10: 'often
+
+  rather
+
+  friend
+
+  cigar
+
+  kidney
+
+  chronic
+
+  aspect
+
+  cave
+
+  sign
+
+  direct'
+bip_39_word_new_line11: 'often
+
+  rather
+
+  friend
+
+  cigar
+
+  kidney
+
+  chronic
+
+  aspect
+
+  cave
+
+  sign
+
+  direct
+
+  bomb'
+bip_39_word_new_line12: 'often
+
+  rather
+
+  friend
+
+  cigar
+
+  kidney
+
+  chronic
+
+  aspect
+
+  cave
+
+  sign
+
+  direct
+
+  bomb
+
+  arrive'
+bip_39_word_new_line2: 'often
+
+  rather'
+bip_39_word_new_line3: 'often
+
+  rather
+
+  friend'
+bip_39_word_new_line4: 'often
+
+  rather
+
+  friend
+
+  cigar'
+bip_39_word_new_line5: 'often
+
+  rather
+
+  friend
+
+  cigar
+
+  kidney'
+bip_39_word_new_line6: 'often
+
+  rather
+
+  friend
+
+  cigar
+
+  kidney
+
+  chronic'
+bip_39_word_new_line7: 'often
+
+  rather
+
+  friend
+
+  cigar
+
+  kidney
+
+  chronic
+
+  aspect'
+bip_39_word_new_line8: 'often
+
+  rather
+
+  friend
+
+  cigar
+
+  kidney
+
+  chronic
+
+  aspect
+
+  cave'
+bip_39_word_new_line9: 'often
+
+  rather
+
+  friend
+
+  cigar
+
+  kidney
+
+  chronic
+
+  aspect
+
+  cave
+
+  sign'
+bip_39_word_space_0:
+- often
+- rather
+- friend
+- cigar
+- kidney
+- chronic
+- aspect
+- cave
+- sign
+- direct
+- bomb
+- arrive
+bip_39_word_space_1: often
+bip_39_word_space_10: often rather friend cigar kidney chronic aspect cave sign direct
+bip_39_word_space_11: often rather friend cigar kidney chronic aspect cave sign direct
+  bomb
+bip_39_word_space_12: often rather friend cigar kidney chronic aspect cave sign direct
+  bomb arrive
+bip_39_word_space_2: often rather
+bip_39_word_space_3: often rather friend
+bip_39_word_space_4: often rather friend cigar
+bip_39_word_space_5: often rather friend cigar kidney
+bip_39_word_space_6: often rather friend cigar kidney chronic
+bip_39_word_space_7: often rather friend cigar kidney chronic aspect
+bip_39_word_space_8: often rather friend cigar kidney chronic aspect cave
+bip_39_word_space_9: often rather friend cigar kidney chronic aspect cave sign
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

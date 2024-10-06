@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: polar dose
+  * bip 39 word 3: polar dose finish
+  * bip 39 word: polar dose finish planet seven craft obvious position tilt crash coin act
 
 ### other_codes
 * short_code: so3br10sn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | polar |  
+| bip_39_word_new_br10 | polar<br>dose<br>finish<br>planet<br>seven<br>craft<br>obvious<br>position<br>tilt<br>crash |  
+| bip_39_word_new_br11 | polar<br>dose<br>finish<br>planet<br>seven<br>craft<br>obvious<br>position<br>tilt<br>crash<br>coin |  
+| bip_39_word_new_br12 | polar<br>dose<br>finish<br>planet<br>seven<br>craft<br>obvious<br>position<br>tilt<br>crash<br>coin<br>act |  
+| bip_39_word_new_br2 | polar<br>dose |  
+| bip_39_word_new_br3 | polar<br>dose<br>finish |  
+| bip_39_word_new_br4 | polar<br>dose<br>finish<br>planet |  
+| bip_39_word_new_br5 | polar<br>dose<br>finish<br>planet<br>seven |  
+| bip_39_word_new_br6 | polar<br>dose<br>finish<br>planet<br>seven<br>craft |  
+| bip_39_word_new_br7 | polar<br>dose<br>finish<br>planet<br>seven<br>craft<br>obvious |  
+| bip_39_word_new_br8 | polar<br>dose<br>finish<br>planet<br>seven<br>craft<br>obvious<br>position |  
+| bip_39_word_new_br9 | polar<br>dose<br>finish<br>planet<br>seven<br>craft<br>obvious<br>position<br>tilt |  
+| bip_39_word_new_line1 | polar |  
+| bip_39_word_new_line10 | polar
+dose
+finish
+planet
+seven
+craft
+obvious
+position
+tilt
+crash |  
+| bip_39_word_new_line11 | polar
+dose
+finish
+planet
+seven
+craft
+obvious
+position
+tilt
+crash
+coin |  
+| bip_39_word_new_line12 | polar
+dose
+finish
+planet
+seven
+craft
+obvious
+position
+tilt
+crash
+coin
+act |  
+| bip_39_word_new_line2 | polar
+dose |  
+| bip_39_word_new_line3 | polar
+dose
+finish |  
+| bip_39_word_new_line4 | polar
+dose
+finish
+planet |  
+| bip_39_word_new_line5 | polar
+dose
+finish
+planet
+seven |  
+| bip_39_word_new_line6 | polar
+dose
+finish
+planet
+seven
+craft |  
+| bip_39_word_new_line7 | polar
+dose
+finish
+planet
+seven
+craft
+obvious |  
+| bip_39_word_new_line8 | polar
+dose
+finish
+planet
+seven
+craft
+obvious
+position |  
+| bip_39_word_new_line9 | polar
+dose
+finish
+planet
+seven
+craft
+obvious
+position
+tilt |  
+| bip_39_word_space_0 | ['polar', 'dose', 'finish', 'planet', 'seven', 'craft', 'obvious', 'position', 'tilt', 'crash', 'coin', 'act'] |  
+| bip_39_word_space_1 | polar |  
+| bip_39_word_space_10 | polar dose finish planet seven craft obvious position tilt crash |  
+| bip_39_word_space_11 | polar dose finish planet seven craft obvious position tilt crash coin |  
+| bip_39_word_space_12 | polar dose finish planet seven craft obvious position tilt crash coin act |  
+| bip_39_word_space_2 | polar dose |  
+| bip_39_word_space_3 | polar dose finish |  
+| bip_39_word_space_4 | polar dose finish planet |  
+| bip_39_word_space_5 | polar dose finish planet seven |  
+| bip_39_word_space_6 | polar dose finish planet seven craft |  
+| bip_39_word_space_7 | polar dose finish planet seven craft obvious |  
+| bip_39_word_space_8 | polar dose finish planet seven craft obvious position |  
+| bip_39_word_space_9 | polar dose finish planet seven craft obvious position tilt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

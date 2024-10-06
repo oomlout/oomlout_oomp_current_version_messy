@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deny ivory
+  * bip 39 word 3: deny ivory grief
+  * bip 39 word: deny ivory grief deer sock picnic animal slight space frog leaf april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deny |  
+| bip_39_word_new_br10 | deny<br>ivory<br>grief<br>deer<br>sock<br>picnic<br>animal<br>slight<br>space<br>frog |  
+| bip_39_word_new_br11 | deny<br>ivory<br>grief<br>deer<br>sock<br>picnic<br>animal<br>slight<br>space<br>frog<br>leaf |  
+| bip_39_word_new_br12 | deny<br>ivory<br>grief<br>deer<br>sock<br>picnic<br>animal<br>slight<br>space<br>frog<br>leaf<br>april |  
+| bip_39_word_new_br2 | deny<br>ivory |  
+| bip_39_word_new_br3 | deny<br>ivory<br>grief |  
+| bip_39_word_new_br4 | deny<br>ivory<br>grief<br>deer |  
+| bip_39_word_new_br5 | deny<br>ivory<br>grief<br>deer<br>sock |  
+| bip_39_word_new_br6 | deny<br>ivory<br>grief<br>deer<br>sock<br>picnic |  
+| bip_39_word_new_br7 | deny<br>ivory<br>grief<br>deer<br>sock<br>picnic<br>animal |  
+| bip_39_word_new_br8 | deny<br>ivory<br>grief<br>deer<br>sock<br>picnic<br>animal<br>slight |  
+| bip_39_word_new_br9 | deny<br>ivory<br>grief<br>deer<br>sock<br>picnic<br>animal<br>slight<br>space |  
+| bip_39_word_new_line1 | deny |  
+| bip_39_word_new_line10 | deny
+ivory
+grief
+deer
+sock
+picnic
+animal
+slight
+space
+frog |  
+| bip_39_word_new_line11 | deny
+ivory
+grief
+deer
+sock
+picnic
+animal
+slight
+space
+frog
+leaf |  
+| bip_39_word_new_line12 | deny
+ivory
+grief
+deer
+sock
+picnic
+animal
+slight
+space
+frog
+leaf
+april |  
+| bip_39_word_new_line2 | deny
+ivory |  
+| bip_39_word_new_line3 | deny
+ivory
+grief |  
+| bip_39_word_new_line4 | deny
+ivory
+grief
+deer |  
+| bip_39_word_new_line5 | deny
+ivory
+grief
+deer
+sock |  
+| bip_39_word_new_line6 | deny
+ivory
+grief
+deer
+sock
+picnic |  
+| bip_39_word_new_line7 | deny
+ivory
+grief
+deer
+sock
+picnic
+animal |  
+| bip_39_word_new_line8 | deny
+ivory
+grief
+deer
+sock
+picnic
+animal
+slight |  
+| bip_39_word_new_line9 | deny
+ivory
+grief
+deer
+sock
+picnic
+animal
+slight
+space |  
+| bip_39_word_space_0 | ['deny', 'ivory', 'grief', 'deer', 'sock', 'picnic', 'animal', 'slight', 'space', 'frog', 'leaf', 'april'] |  
+| bip_39_word_space_1 | deny |  
+| bip_39_word_space_10 | deny ivory grief deer sock picnic animal slight space frog |  
+| bip_39_word_space_11 | deny ivory grief deer sock picnic animal slight space frog leaf |  
+| bip_39_word_space_12 | deny ivory grief deer sock picnic animal slight space frog leaf april |  
+| bip_39_word_space_2 | deny ivory |  
+| bip_39_word_space_3 | deny ivory grief |  
+| bip_39_word_space_4 | deny ivory grief deer |  
+| bip_39_word_space_5 | deny ivory grief deer sock |  
+| bip_39_word_space_6 | deny ivory grief deer sock picnic |  
+| bip_39_word_space_7 | deny ivory grief deer sock picnic animal |  
+| bip_39_word_space_8 | deny ivory grief deer sock picnic animal slight |  
+| bip_39_word_space_9 | deny ivory grief deer sock picnic animal slight space |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

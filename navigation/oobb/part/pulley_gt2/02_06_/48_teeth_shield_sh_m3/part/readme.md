@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: melt warm
+  * bip 39 word 3: melt warm spare
+  * bip 39 word: melt warm spare spend claim minor mother ice case beef food amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | melt |  
+| bip_39_word_new_br10 | melt<br>warm<br>spare<br>spend<br>claim<br>minor<br>mother<br>ice<br>case<br>beef |  
+| bip_39_word_new_br11 | melt<br>warm<br>spare<br>spend<br>claim<br>minor<br>mother<br>ice<br>case<br>beef<br>food |  
+| bip_39_word_new_br12 | melt<br>warm<br>spare<br>spend<br>claim<br>minor<br>mother<br>ice<br>case<br>beef<br>food<br>amount |  
+| bip_39_word_new_br2 | melt<br>warm |  
+| bip_39_word_new_br3 | melt<br>warm<br>spare |  
+| bip_39_word_new_br4 | melt<br>warm<br>spare<br>spend |  
+| bip_39_word_new_br5 | melt<br>warm<br>spare<br>spend<br>claim |  
+| bip_39_word_new_br6 | melt<br>warm<br>spare<br>spend<br>claim<br>minor |  
+| bip_39_word_new_br7 | melt<br>warm<br>spare<br>spend<br>claim<br>minor<br>mother |  
+| bip_39_word_new_br8 | melt<br>warm<br>spare<br>spend<br>claim<br>minor<br>mother<br>ice |  
+| bip_39_word_new_br9 | melt<br>warm<br>spare<br>spend<br>claim<br>minor<br>mother<br>ice<br>case |  
+| bip_39_word_new_line1 | melt |  
+| bip_39_word_new_line10 | melt
+warm
+spare
+spend
+claim
+minor
+mother
+ice
+case
+beef |  
+| bip_39_word_new_line11 | melt
+warm
+spare
+spend
+claim
+minor
+mother
+ice
+case
+beef
+food |  
+| bip_39_word_new_line12 | melt
+warm
+spare
+spend
+claim
+minor
+mother
+ice
+case
+beef
+food
+amount |  
+| bip_39_word_new_line2 | melt
+warm |  
+| bip_39_word_new_line3 | melt
+warm
+spare |  
+| bip_39_word_new_line4 | melt
+warm
+spare
+spend |  
+| bip_39_word_new_line5 | melt
+warm
+spare
+spend
+claim |  
+| bip_39_word_new_line6 | melt
+warm
+spare
+spend
+claim
+minor |  
+| bip_39_word_new_line7 | melt
+warm
+spare
+spend
+claim
+minor
+mother |  
+| bip_39_word_new_line8 | melt
+warm
+spare
+spend
+claim
+minor
+mother
+ice |  
+| bip_39_word_new_line9 | melt
+warm
+spare
+spend
+claim
+minor
+mother
+ice
+case |  
+| bip_39_word_space_0 | ['melt', 'warm', 'spare', 'spend', 'claim', 'minor', 'mother', 'ice', 'case', 'beef', 'food', 'amount'] |  
+| bip_39_word_space_1 | melt |  
+| bip_39_word_space_10 | melt warm spare spend claim minor mother ice case beef |  
+| bip_39_word_space_11 | melt warm spare spend claim minor mother ice case beef food |  
+| bip_39_word_space_12 | melt warm spare spend claim minor mother ice case beef food amount |  
+| bip_39_word_space_2 | melt warm |  
+| bip_39_word_space_3 | melt warm spare |  
+| bip_39_word_space_4 | melt warm spare spend |  
+| bip_39_word_space_5 | melt warm spare spend claim |  
+| bip_39_word_space_6 | melt warm spare spend claim minor |  
+| bip_39_word_space_7 | melt warm spare spend claim minor mother |  
+| bip_39_word_space_8 | melt warm spare spend claim minor mother ice |  
+| bip_39_word_space_9 | melt warm spare spend claim minor mother ice case |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

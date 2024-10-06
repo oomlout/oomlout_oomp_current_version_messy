@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: then mansion
+  * bip 39 word 3: then mansion hundred
+  * bip 39 word: then mansion hundred medal deposit ball exchange sort educate taxi tuition avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | then |  
+| bip_39_word_new_br10 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi |  
+| bip_39_word_new_br11 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi<br>tuition |  
+| bip_39_word_new_br12 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate<br>taxi<br>tuition<br>avocado |  
+| bip_39_word_new_br2 | then<br>mansion |  
+| bip_39_word_new_br3 | then<br>mansion<br>hundred |  
+| bip_39_word_new_br4 | then<br>mansion<br>hundred<br>medal |  
+| bip_39_word_new_br5 | then<br>mansion<br>hundred<br>medal<br>deposit |  
+| bip_39_word_new_br6 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball |  
+| bip_39_word_new_br7 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange |  
+| bip_39_word_new_br8 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort |  
+| bip_39_word_new_br9 | then<br>mansion<br>hundred<br>medal<br>deposit<br>ball<br>exchange<br>sort<br>educate |  
+| bip_39_word_new_line1 | then |  
+| bip_39_word_new_line10 | then
+mansion
+hundred
+medal
+deposit
+ball
+exchange
+sort
+educate
+taxi |  
+| bip_39_word_new_line11 | then
+mansion
+hundred
+medal
+deposit
+ball
+exchange
+sort
+educate
+taxi
+tuition |  
+| bip_39_word_new_line12 | then
+mansion
+hundred
+medal
+deposit
+ball
+exchange
+sort
+educate
+taxi
+tuition
+avocado |  
+| bip_39_word_new_line2 | then
+mansion |  
+| bip_39_word_new_line3 | then
+mansion
+hundred |  
+| bip_39_word_new_line4 | then
+mansion
+hundred
+medal |  
+| bip_39_word_new_line5 | then
+mansion
+hundred
+medal
+deposit |  
+| bip_39_word_new_line6 | then
+mansion
+hundred
+medal
+deposit
+ball |  
+| bip_39_word_new_line7 | then
+mansion
+hundred
+medal
+deposit
+ball
+exchange |  
+| bip_39_word_new_line8 | then
+mansion
+hundred
+medal
+deposit
+ball
+exchange
+sort |  
+| bip_39_word_new_line9 | then
+mansion
+hundred
+medal
+deposit
+ball
+exchange
+sort
+educate |  
+| bip_39_word_space_0 | ['then', 'mansion', 'hundred', 'medal', 'deposit', 'ball', 'exchange', 'sort', 'educate', 'taxi', 'tuition', 'avocado'] |  
+| bip_39_word_space_1 | then |  
+| bip_39_word_space_10 | then mansion hundred medal deposit ball exchange sort educate taxi |  
+| bip_39_word_space_11 | then mansion hundred medal deposit ball exchange sort educate taxi tuition |  
+| bip_39_word_space_12 | then mansion hundred medal deposit ball exchange sort educate taxi tuition avocado |  
+| bip_39_word_space_2 | then mansion |  
+| bip_39_word_space_3 | then mansion hundred |  
+| bip_39_word_space_4 | then mansion hundred medal |  
+| bip_39_word_space_5 | then mansion hundred medal deposit |  
+| bip_39_word_space_6 | then mansion hundred medal deposit ball |  
+| bip_39_word_space_7 | then mansion hundred medal deposit ball exchange |  
+| bip_39_word_space_8 | then mansion hundred medal deposit ball exchange sort |  
+| bip_39_word_space_9 | then mansion hundred medal deposit ball exchange sort educate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

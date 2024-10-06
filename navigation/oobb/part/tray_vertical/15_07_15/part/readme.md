@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nurse gap
+  * bip 39 word 3: nurse gap crack
+  * bip 39 word: nurse gap crack load true pepper work since attract check turn another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nurse |  
+| bip_39_word_new_br10 | nurse<br>gap<br>crack<br>load<br>true<br>pepper<br>work<br>since<br>attract<br>check |  
+| bip_39_word_new_br11 | nurse<br>gap<br>crack<br>load<br>true<br>pepper<br>work<br>since<br>attract<br>check<br>turn |  
+| bip_39_word_new_br12 | nurse<br>gap<br>crack<br>load<br>true<br>pepper<br>work<br>since<br>attract<br>check<br>turn<br>another |  
+| bip_39_word_new_br2 | nurse<br>gap |  
+| bip_39_word_new_br3 | nurse<br>gap<br>crack |  
+| bip_39_word_new_br4 | nurse<br>gap<br>crack<br>load |  
+| bip_39_word_new_br5 | nurse<br>gap<br>crack<br>load<br>true |  
+| bip_39_word_new_br6 | nurse<br>gap<br>crack<br>load<br>true<br>pepper |  
+| bip_39_word_new_br7 | nurse<br>gap<br>crack<br>load<br>true<br>pepper<br>work |  
+| bip_39_word_new_br8 | nurse<br>gap<br>crack<br>load<br>true<br>pepper<br>work<br>since |  
+| bip_39_word_new_br9 | nurse<br>gap<br>crack<br>load<br>true<br>pepper<br>work<br>since<br>attract |  
+| bip_39_word_new_line1 | nurse |  
+| bip_39_word_new_line10 | nurse
+gap
+crack
+load
+true
+pepper
+work
+since
+attract
+check |  
+| bip_39_word_new_line11 | nurse
+gap
+crack
+load
+true
+pepper
+work
+since
+attract
+check
+turn |  
+| bip_39_word_new_line12 | nurse
+gap
+crack
+load
+true
+pepper
+work
+since
+attract
+check
+turn
+another |  
+| bip_39_word_new_line2 | nurse
+gap |  
+| bip_39_word_new_line3 | nurse
+gap
+crack |  
+| bip_39_word_new_line4 | nurse
+gap
+crack
+load |  
+| bip_39_word_new_line5 | nurse
+gap
+crack
+load
+true |  
+| bip_39_word_new_line6 | nurse
+gap
+crack
+load
+true
+pepper |  
+| bip_39_word_new_line7 | nurse
+gap
+crack
+load
+true
+pepper
+work |  
+| bip_39_word_new_line8 | nurse
+gap
+crack
+load
+true
+pepper
+work
+since |  
+| bip_39_word_new_line9 | nurse
+gap
+crack
+load
+true
+pepper
+work
+since
+attract |  
+| bip_39_word_space_0 | ['nurse', 'gap', 'crack', 'load', 'true', 'pepper', 'work', 'since', 'attract', 'check', 'turn', 'another'] |  
+| bip_39_word_space_1 | nurse |  
+| bip_39_word_space_10 | nurse gap crack load true pepper work since attract check |  
+| bip_39_word_space_11 | nurse gap crack load true pepper work since attract check turn |  
+| bip_39_word_space_12 | nurse gap crack load true pepper work since attract check turn another |  
+| bip_39_word_space_2 | nurse gap |  
+| bip_39_word_space_3 | nurse gap crack |  
+| bip_39_word_space_4 | nurse gap crack load |  
+| bip_39_word_space_5 | nurse gap crack load true |  
+| bip_39_word_space_6 | nurse gap crack load true pepper |  
+| bip_39_word_space_7 | nurse gap crack load true pepper work |  
+| bip_39_word_space_8 | nurse gap crack load true pepper work since |  
+| bip_39_word_space_9 | nurse gap crack load true pepper work since attract |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

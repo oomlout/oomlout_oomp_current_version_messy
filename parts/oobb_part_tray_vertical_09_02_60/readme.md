@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: solution setup
+  * bip 39 word 3: solution setup achieve
+  * bip 39 word: solution setup achieve blame crazy major blame copper search mind destroy atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | solution |  
+| bip_39_word_new_br10 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind |  
+| bip_39_word_new_br11 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind<br>destroy |  
+| bip_39_word_new_br12 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search<br>mind<br>destroy<br>atom |  
+| bip_39_word_new_br2 | solution<br>setup |  
+| bip_39_word_new_br3 | solution<br>setup<br>achieve |  
+| bip_39_word_new_br4 | solution<br>setup<br>achieve<br>blame |  
+| bip_39_word_new_br5 | solution<br>setup<br>achieve<br>blame<br>crazy |  
+| bip_39_word_new_br6 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major |  
+| bip_39_word_new_br7 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame |  
+| bip_39_word_new_br8 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper |  
+| bip_39_word_new_br9 | solution<br>setup<br>achieve<br>blame<br>crazy<br>major<br>blame<br>copper<br>search |  
+| bip_39_word_new_line1 | solution |  
+| bip_39_word_new_line10 | solution
+setup
+achieve
+blame
+crazy
+major
+blame
+copper
+search
+mind |  
+| bip_39_word_new_line11 | solution
+setup
+achieve
+blame
+crazy
+major
+blame
+copper
+search
+mind
+destroy |  
+| bip_39_word_new_line12 | solution
+setup
+achieve
+blame
+crazy
+major
+blame
+copper
+search
+mind
+destroy
+atom |  
+| bip_39_word_new_line2 | solution
+setup |  
+| bip_39_word_new_line3 | solution
+setup
+achieve |  
+| bip_39_word_new_line4 | solution
+setup
+achieve
+blame |  
+| bip_39_word_new_line5 | solution
+setup
+achieve
+blame
+crazy |  
+| bip_39_word_new_line6 | solution
+setup
+achieve
+blame
+crazy
+major |  
+| bip_39_word_new_line7 | solution
+setup
+achieve
+blame
+crazy
+major
+blame |  
+| bip_39_word_new_line8 | solution
+setup
+achieve
+blame
+crazy
+major
+blame
+copper |  
+| bip_39_word_new_line9 | solution
+setup
+achieve
+blame
+crazy
+major
+blame
+copper
+search |  
+| bip_39_word_space_0 | ['solution', 'setup', 'achieve', 'blame', 'crazy', 'major', 'blame', 'copper', 'search', 'mind', 'destroy', 'atom'] |  
+| bip_39_word_space_1 | solution |  
+| bip_39_word_space_10 | solution setup achieve blame crazy major blame copper search mind |  
+| bip_39_word_space_11 | solution setup achieve blame crazy major blame copper search mind destroy |  
+| bip_39_word_space_12 | solution setup achieve blame crazy major blame copper search mind destroy atom |  
+| bip_39_word_space_2 | solution setup |  
+| bip_39_word_space_3 | solution setup achieve |  
+| bip_39_word_space_4 | solution setup achieve blame |  
+| bip_39_word_space_5 | solution setup achieve blame crazy |  
+| bip_39_word_space_6 | solution setup achieve blame crazy major |  
+| bip_39_word_space_7 | solution setup achieve blame crazy major blame |  
+| bip_39_word_space_8 | solution setup achieve blame crazy major blame copper |  
+| bip_39_word_space_9 | solution setup achieve blame crazy major blame copper search |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

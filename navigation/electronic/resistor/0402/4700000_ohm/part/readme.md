@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gun night
+  * bip 39 word 3: gun night logic
+  * bip 39 word: gun night logic project toddler imitate mail announce flight enrich food area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gun |  
+| bip_39_word_new_br10 | gun<br>night<br>logic<br>project<br>toddler<br>imitate<br>mail<br>announce<br>flight<br>enrich |  
+| bip_39_word_new_br11 | gun<br>night<br>logic<br>project<br>toddler<br>imitate<br>mail<br>announce<br>flight<br>enrich<br>food |  
+| bip_39_word_new_br12 | gun<br>night<br>logic<br>project<br>toddler<br>imitate<br>mail<br>announce<br>flight<br>enrich<br>food<br>area |  
+| bip_39_word_new_br2 | gun<br>night |  
+| bip_39_word_new_br3 | gun<br>night<br>logic |  
+| bip_39_word_new_br4 | gun<br>night<br>logic<br>project |  
+| bip_39_word_new_br5 | gun<br>night<br>logic<br>project<br>toddler |  
+| bip_39_word_new_br6 | gun<br>night<br>logic<br>project<br>toddler<br>imitate |  
+| bip_39_word_new_br7 | gun<br>night<br>logic<br>project<br>toddler<br>imitate<br>mail |  
+| bip_39_word_new_br8 | gun<br>night<br>logic<br>project<br>toddler<br>imitate<br>mail<br>announce |  
+| bip_39_word_new_br9 | gun<br>night<br>logic<br>project<br>toddler<br>imitate<br>mail<br>announce<br>flight |  
+| bip_39_word_new_line1 | gun |  
+| bip_39_word_new_line10 | gun
+night
+logic
+project
+toddler
+imitate
+mail
+announce
+flight
+enrich |  
+| bip_39_word_new_line11 | gun
+night
+logic
+project
+toddler
+imitate
+mail
+announce
+flight
+enrich
+food |  
+| bip_39_word_new_line12 | gun
+night
+logic
+project
+toddler
+imitate
+mail
+announce
+flight
+enrich
+food
+area |  
+| bip_39_word_new_line2 | gun
+night |  
+| bip_39_word_new_line3 | gun
+night
+logic |  
+| bip_39_word_new_line4 | gun
+night
+logic
+project |  
+| bip_39_word_new_line5 | gun
+night
+logic
+project
+toddler |  
+| bip_39_word_new_line6 | gun
+night
+logic
+project
+toddler
+imitate |  
+| bip_39_word_new_line7 | gun
+night
+logic
+project
+toddler
+imitate
+mail |  
+| bip_39_word_new_line8 | gun
+night
+logic
+project
+toddler
+imitate
+mail
+announce |  
+| bip_39_word_new_line9 | gun
+night
+logic
+project
+toddler
+imitate
+mail
+announce
+flight |  
+| bip_39_word_space_0 | ['gun', 'night', 'logic', 'project', 'toddler', 'imitate', 'mail', 'announce', 'flight', 'enrich', 'food', 'area'] |  
+| bip_39_word_space_1 | gun |  
+| bip_39_word_space_10 | gun night logic project toddler imitate mail announce flight enrich |  
+| bip_39_word_space_11 | gun night logic project toddler imitate mail announce flight enrich food |  
+| bip_39_word_space_12 | gun night logic project toddler imitate mail announce flight enrich food area |  
+| bip_39_word_space_2 | gun night |  
+| bip_39_word_space_3 | gun night logic |  
+| bip_39_word_space_4 | gun night logic project |  
+| bip_39_word_space_5 | gun night logic project toddler |  
+| bip_39_word_space_6 | gun night logic project toddler imitate |  
+| bip_39_word_space_7 | gun night logic project toddler imitate mail |  
+| bip_39_word_space_8 | gun night logic project toddler imitate mail announce |  
+| bip_39_word_space_9 | gun night logic project toddler imitate mail announce flight |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

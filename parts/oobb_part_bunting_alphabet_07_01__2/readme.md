@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: junior novel
+  * bip 39 word 3: junior novel require
+  * bip 39 word: junior novel require vendor buyer fee angry assume silly bitter equal answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | junior |  
+| bip_39_word_new_br10 | junior<br>novel<br>require<br>vendor<br>buyer<br>fee<br>angry<br>assume<br>silly<br>bitter |  
+| bip_39_word_new_br11 | junior<br>novel<br>require<br>vendor<br>buyer<br>fee<br>angry<br>assume<br>silly<br>bitter<br>equal |  
+| bip_39_word_new_br12 | junior<br>novel<br>require<br>vendor<br>buyer<br>fee<br>angry<br>assume<br>silly<br>bitter<br>equal<br>answer |  
+| bip_39_word_new_br2 | junior<br>novel |  
+| bip_39_word_new_br3 | junior<br>novel<br>require |  
+| bip_39_word_new_br4 | junior<br>novel<br>require<br>vendor |  
+| bip_39_word_new_br5 | junior<br>novel<br>require<br>vendor<br>buyer |  
+| bip_39_word_new_br6 | junior<br>novel<br>require<br>vendor<br>buyer<br>fee |  
+| bip_39_word_new_br7 | junior<br>novel<br>require<br>vendor<br>buyer<br>fee<br>angry |  
+| bip_39_word_new_br8 | junior<br>novel<br>require<br>vendor<br>buyer<br>fee<br>angry<br>assume |  
+| bip_39_word_new_br9 | junior<br>novel<br>require<br>vendor<br>buyer<br>fee<br>angry<br>assume<br>silly |  
+| bip_39_word_new_line1 | junior |  
+| bip_39_word_new_line10 | junior
+novel
+require
+vendor
+buyer
+fee
+angry
+assume
+silly
+bitter |  
+| bip_39_word_new_line11 | junior
+novel
+require
+vendor
+buyer
+fee
+angry
+assume
+silly
+bitter
+equal |  
+| bip_39_word_new_line12 | junior
+novel
+require
+vendor
+buyer
+fee
+angry
+assume
+silly
+bitter
+equal
+answer |  
+| bip_39_word_new_line2 | junior
+novel |  
+| bip_39_word_new_line3 | junior
+novel
+require |  
+| bip_39_word_new_line4 | junior
+novel
+require
+vendor |  
+| bip_39_word_new_line5 | junior
+novel
+require
+vendor
+buyer |  
+| bip_39_word_new_line6 | junior
+novel
+require
+vendor
+buyer
+fee |  
+| bip_39_word_new_line7 | junior
+novel
+require
+vendor
+buyer
+fee
+angry |  
+| bip_39_word_new_line8 | junior
+novel
+require
+vendor
+buyer
+fee
+angry
+assume |  
+| bip_39_word_new_line9 | junior
+novel
+require
+vendor
+buyer
+fee
+angry
+assume
+silly |  
+| bip_39_word_space_0 | ['junior', 'novel', 'require', 'vendor', 'buyer', 'fee', 'angry', 'assume', 'silly', 'bitter', 'equal', 'answer'] |  
+| bip_39_word_space_1 | junior |  
+| bip_39_word_space_10 | junior novel require vendor buyer fee angry assume silly bitter |  
+| bip_39_word_space_11 | junior novel require vendor buyer fee angry assume silly bitter equal |  
+| bip_39_word_space_12 | junior novel require vendor buyer fee angry assume silly bitter equal answer |  
+| bip_39_word_space_2 | junior novel |  
+| bip_39_word_space_3 | junior novel require |  
+| bip_39_word_space_4 | junior novel require vendor |  
+| bip_39_word_space_5 | junior novel require vendor buyer |  
+| bip_39_word_space_6 | junior novel require vendor buyer fee |  
+| bip_39_word_space_7 | junior novel require vendor buyer fee angry |  
+| bip_39_word_space_8 | junior novel require vendor buyer fee angry assume |  
+| bip_39_word_space_9 | junior novel require vendor buyer fee angry assume silly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: gossip
+bip_39_word_new_br10: gossip<br>head<br>refuse<br>busy<br>chimney<br>already<br>hidden<br>scheme<br>fashion<br>expect
+bip_39_word_new_br11: gossip<br>head<br>refuse<br>busy<br>chimney<br>already<br>hidden<br>scheme<br>fashion<br>expect<br>focus
+bip_39_word_new_br12: gossip<br>head<br>refuse<br>busy<br>chimney<br>already<br>hidden<br>scheme<br>fashion<br>expect<br>focus<br>acquire
+bip_39_word_new_br2: gossip<br>head
+bip_39_word_new_br3: gossip<br>head<br>refuse
+bip_39_word_new_br4: gossip<br>head<br>refuse<br>busy
+bip_39_word_new_br5: gossip<br>head<br>refuse<br>busy<br>chimney
+bip_39_word_new_br6: gossip<br>head<br>refuse<br>busy<br>chimney<br>already
+bip_39_word_new_br7: gossip<br>head<br>refuse<br>busy<br>chimney<br>already<br>hidden
+bip_39_word_new_br8: gossip<br>head<br>refuse<br>busy<br>chimney<br>already<br>hidden<br>scheme
+bip_39_word_new_br9: gossip<br>head<br>refuse<br>busy<br>chimney<br>already<br>hidden<br>scheme<br>fashion
+bip_39_word_new_line1: gossip
+bip_39_word_new_line10: 'gossip
+
+  head
+
+  refuse
+
+  busy
+
+  chimney
+
+  already
+
+  hidden
+
+  scheme
+
+  fashion
+
+  expect'
+bip_39_word_new_line11: 'gossip
+
+  head
+
+  refuse
+
+  busy
+
+  chimney
+
+  already
+
+  hidden
+
+  scheme
+
+  fashion
+
+  expect
+
+  focus'
+bip_39_word_new_line12: 'gossip
+
+  head
+
+  refuse
+
+  busy
+
+  chimney
+
+  already
+
+  hidden
+
+  scheme
+
+  fashion
+
+  expect
+
+  focus
+
+  acquire'
+bip_39_word_new_line2: 'gossip
+
+  head'
+bip_39_word_new_line3: 'gossip
+
+  head
+
+  refuse'
+bip_39_word_new_line4: 'gossip
+
+  head
+
+  refuse
+
+  busy'
+bip_39_word_new_line5: 'gossip
+
+  head
+
+  refuse
+
+  busy
+
+  chimney'
+bip_39_word_new_line6: 'gossip
+
+  head
+
+  refuse
+
+  busy
+
+  chimney
+
+  already'
+bip_39_word_new_line7: 'gossip
+
+  head
+
+  refuse
+
+  busy
+
+  chimney
+
+  already
+
+  hidden'
+bip_39_word_new_line8: 'gossip
+
+  head
+
+  refuse
+
+  busy
+
+  chimney
+
+  already
+
+  hidden
+
+  scheme'
+bip_39_word_new_line9: 'gossip
+
+  head
+
+  refuse
+
+  busy
+
+  chimney
+
+  already
+
+  hidden
+
+  scheme
+
+  fashion'
+bip_39_word_space_0:
+- gossip
+- head
+- refuse
+- busy
+- chimney
+- already
+- hidden
+- scheme
+- fashion
+- expect
+- focus
+- acquire
+bip_39_word_space_1: gossip
+bip_39_word_space_10: gossip head refuse busy chimney already hidden scheme fashion
+  expect
+bip_39_word_space_11: gossip head refuse busy chimney already hidden scheme fashion
+  expect focus
+bip_39_word_space_12: gossip head refuse busy chimney already hidden scheme fashion
+  expect focus acquire
+bip_39_word_space_2: gossip head
+bip_39_word_space_3: gossip head refuse
+bip_39_word_space_4: gossip head refuse busy
+bip_39_word_space_5: gossip head refuse busy chimney
+bip_39_word_space_6: gossip head refuse busy chimney already
+bip_39_word_space_7: gossip head refuse busy chimney already hidden
+bip_39_word_space_8: gossip head refuse busy chimney already hidden scheme
+bip_39_word_space_9: gossip head refuse busy chimney already hidden scheme fashion
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

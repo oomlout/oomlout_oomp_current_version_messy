@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mirror
+bip_39_word_new_br10: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar
+bip_39_word_new_br11: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar<br>trial
+bip_39_word_new_br12: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast<br>solar<br>trial<br>amount
+bip_39_word_new_br2: mirror<br>gym
+bip_39_word_new_br3: mirror<br>gym<br>fork
+bip_39_word_new_br4: mirror<br>gym<br>fork<br>wrist
+bip_39_word_new_br5: mirror<br>gym<br>fork<br>wrist<br>humble
+bip_39_word_new_br6: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt
+bip_39_word_new_br7: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack
+bip_39_word_new_br8: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company
+bip_39_word_new_br9: mirror<br>gym<br>fork<br>wrist<br>humble<br>adapt<br>attack<br>company<br>roast
+bip_39_word_new_line1: mirror
+bip_39_word_new_line10: 'mirror
+
+  gym
+
+  fork
+
+  wrist
+
+  humble
+
+  adapt
+
+  attack
+
+  company
+
+  roast
+
+  solar'
+bip_39_word_new_line11: 'mirror
+
+  gym
+
+  fork
+
+  wrist
+
+  humble
+
+  adapt
+
+  attack
+
+  company
+
+  roast
+
+  solar
+
+  trial'
+bip_39_word_new_line12: 'mirror
+
+  gym
+
+  fork
+
+  wrist
+
+  humble
+
+  adapt
+
+  attack
+
+  company
+
+  roast
+
+  solar
+
+  trial
+
+  amount'
+bip_39_word_new_line2: 'mirror
+
+  gym'
+bip_39_word_new_line3: 'mirror
+
+  gym
+
+  fork'
+bip_39_word_new_line4: 'mirror
+
+  gym
+
+  fork
+
+  wrist'
+bip_39_word_new_line5: 'mirror
+
+  gym
+
+  fork
+
+  wrist
+
+  humble'
+bip_39_word_new_line6: 'mirror
+
+  gym
+
+  fork
+
+  wrist
+
+  humble
+
+  adapt'
+bip_39_word_new_line7: 'mirror
+
+  gym
+
+  fork
+
+  wrist
+
+  humble
+
+  adapt
+
+  attack'
+bip_39_word_new_line8: 'mirror
+
+  gym
+
+  fork
+
+  wrist
+
+  humble
+
+  adapt
+
+  attack
+
+  company'
+bip_39_word_new_line9: 'mirror
+
+  gym
+
+  fork
+
+  wrist
+
+  humble
+
+  adapt
+
+  attack
+
+  company
+
+  roast'
+bip_39_word_space_0:
+- mirror
+- gym
+- fork
+- wrist
+- humble
+- adapt
+- attack
+- company
+- roast
+- solar
+- trial
+- amount
+bip_39_word_space_1: mirror
+bip_39_word_space_10: mirror gym fork wrist humble adapt attack company roast solar
+bip_39_word_space_11: mirror gym fork wrist humble adapt attack company roast solar
+  trial
+bip_39_word_space_12: mirror gym fork wrist humble adapt attack company roast solar
+  trial amount
+bip_39_word_space_2: mirror gym
+bip_39_word_space_3: mirror gym fork
+bip_39_word_space_4: mirror gym fork wrist
+bip_39_word_space_5: mirror gym fork wrist humble
+bip_39_word_space_6: mirror gym fork wrist humble adapt
+bip_39_word_space_7: mirror gym fork wrist humble adapt attack
+bip_39_word_space_8: mirror gym fork wrist humble adapt attack company
+bip_39_word_space_9: mirror gym fork wrist humble adapt attack company roast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

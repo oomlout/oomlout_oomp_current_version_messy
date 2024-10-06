@@ -1,3 +1,187 @@
+bip_39_word_new_br1: donor
+bip_39_word_new_br10: donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place
+bip_39_word_new_br11: donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place<br>cement
+bip_39_word_new_br12: donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit<br>place<br>cement<br>asthma
+bip_39_word_new_br2: donor<br>apology
+bip_39_word_new_br3: donor<br>apology<br>general
+bip_39_word_new_br4: donor<br>apology<br>general<br>bread
+bip_39_word_new_br5: donor<br>apology<br>general<br>bread<br>giggle
+bip_39_word_new_br6: donor<br>apology<br>general<br>bread<br>giggle<br>theme
+bip_39_word_new_br7: donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man
+bip_39_word_new_br8: donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight
+bip_39_word_new_br9: donor<br>apology<br>general<br>bread<br>giggle<br>theme<br>man<br>slight<br>inherit
+bip_39_word_new_line1: donor
+bip_39_word_new_line10: 'donor
+
+  apology
+
+  general
+
+  bread
+
+  giggle
+
+  theme
+
+  man
+
+  slight
+
+  inherit
+
+  place'
+bip_39_word_new_line11: 'donor
+
+  apology
+
+  general
+
+  bread
+
+  giggle
+
+  theme
+
+  man
+
+  slight
+
+  inherit
+
+  place
+
+  cement'
+bip_39_word_new_line12: 'donor
+
+  apology
+
+  general
+
+  bread
+
+  giggle
+
+  theme
+
+  man
+
+  slight
+
+  inherit
+
+  place
+
+  cement
+
+  asthma'
+bip_39_word_new_line2: 'donor
+
+  apology'
+bip_39_word_new_line3: 'donor
+
+  apology
+
+  general'
+bip_39_word_new_line4: 'donor
+
+  apology
+
+  general
+
+  bread'
+bip_39_word_new_line5: 'donor
+
+  apology
+
+  general
+
+  bread
+
+  giggle'
+bip_39_word_new_line6: 'donor
+
+  apology
+
+  general
+
+  bread
+
+  giggle
+
+  theme'
+bip_39_word_new_line7: 'donor
+
+  apology
+
+  general
+
+  bread
+
+  giggle
+
+  theme
+
+  man'
+bip_39_word_new_line8: 'donor
+
+  apology
+
+  general
+
+  bread
+
+  giggle
+
+  theme
+
+  man
+
+  slight'
+bip_39_word_new_line9: 'donor
+
+  apology
+
+  general
+
+  bread
+
+  giggle
+
+  theme
+
+  man
+
+  slight
+
+  inherit'
+bip_39_word_space_0:
+- donor
+- apology
+- general
+- bread
+- giggle
+- theme
+- man
+- slight
+- inherit
+- place
+- cement
+- asthma
+bip_39_word_space_1: donor
+bip_39_word_space_10: donor apology general bread giggle theme man slight inherit
+  place
+bip_39_word_space_11: donor apology general bread giggle theme man slight inherit
+  place cement
+bip_39_word_space_12: donor apology general bread giggle theme man slight inherit
+  place cement asthma
+bip_39_word_space_2: donor apology
+bip_39_word_space_3: donor apology general
+bip_39_word_space_4: donor apology general bread
+bip_39_word_space_5: donor apology general bread giggle
+bip_39_word_space_6: donor apology general bread giggle theme
+bip_39_word_space_7: donor apology general bread giggle theme man
+bip_39_word_space_8: donor apology general bread giggle theme man slight
+bip_39_word_space_9: donor apology general bread giggle theme man slight inherit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

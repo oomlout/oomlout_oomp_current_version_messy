@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: burden humble
+  * bip 39 word 3: burden humble mistake
+  * bip 39 word: burden humble mistake symptom ugly tree hire more unfair pigeon dismiss ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | burden |  
+| bip_39_word_new_br10 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree<br>hire<br>more<br>unfair<br>pigeon |  
+| bip_39_word_new_br11 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree<br>hire<br>more<br>unfair<br>pigeon<br>dismiss |  
+| bip_39_word_new_br12 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree<br>hire<br>more<br>unfair<br>pigeon<br>dismiss<br>ask |  
+| bip_39_word_new_br2 | burden<br>humble |  
+| bip_39_word_new_br3 | burden<br>humble<br>mistake |  
+| bip_39_word_new_br4 | burden<br>humble<br>mistake<br>symptom |  
+| bip_39_word_new_br5 | burden<br>humble<br>mistake<br>symptom<br>ugly |  
+| bip_39_word_new_br6 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree |  
+| bip_39_word_new_br7 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree<br>hire |  
+| bip_39_word_new_br8 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree<br>hire<br>more |  
+| bip_39_word_new_br9 | burden<br>humble<br>mistake<br>symptom<br>ugly<br>tree<br>hire<br>more<br>unfair |  
+| bip_39_word_new_line1 | burden |  
+| bip_39_word_new_line10 | burden
+humble
+mistake
+symptom
+ugly
+tree
+hire
+more
+unfair
+pigeon |  
+| bip_39_word_new_line11 | burden
+humble
+mistake
+symptom
+ugly
+tree
+hire
+more
+unfair
+pigeon
+dismiss |  
+| bip_39_word_new_line12 | burden
+humble
+mistake
+symptom
+ugly
+tree
+hire
+more
+unfair
+pigeon
+dismiss
+ask |  
+| bip_39_word_new_line2 | burden
+humble |  
+| bip_39_word_new_line3 | burden
+humble
+mistake |  
+| bip_39_word_new_line4 | burden
+humble
+mistake
+symptom |  
+| bip_39_word_new_line5 | burden
+humble
+mistake
+symptom
+ugly |  
+| bip_39_word_new_line6 | burden
+humble
+mistake
+symptom
+ugly
+tree |  
+| bip_39_word_new_line7 | burden
+humble
+mistake
+symptom
+ugly
+tree
+hire |  
+| bip_39_word_new_line8 | burden
+humble
+mistake
+symptom
+ugly
+tree
+hire
+more |  
+| bip_39_word_new_line9 | burden
+humble
+mistake
+symptom
+ugly
+tree
+hire
+more
+unfair |  
+| bip_39_word_space_0 | ['burden', 'humble', 'mistake', 'symptom', 'ugly', 'tree', 'hire', 'more', 'unfair', 'pigeon', 'dismiss', 'ask'] |  
+| bip_39_word_space_1 | burden |  
+| bip_39_word_space_10 | burden humble mistake symptom ugly tree hire more unfair pigeon |  
+| bip_39_word_space_11 | burden humble mistake symptom ugly tree hire more unfair pigeon dismiss |  
+| bip_39_word_space_12 | burden humble mistake symptom ugly tree hire more unfair pigeon dismiss ask |  
+| bip_39_word_space_2 | burden humble |  
+| bip_39_word_space_3 | burden humble mistake |  
+| bip_39_word_space_4 | burden humble mistake symptom |  
+| bip_39_word_space_5 | burden humble mistake symptom ugly |  
+| bip_39_word_space_6 | burden humble mistake symptom ugly tree |  
+| bip_39_word_space_7 | burden humble mistake symptom ugly tree hire |  
+| bip_39_word_space_8 | burden humble mistake symptom ugly tree hire more |  
+| bip_39_word_space_9 | burden humble mistake symptom ugly tree hire more unfair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

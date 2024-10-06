@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: local wine
+  * bip 39 word 3: local wine laundry
+  * bip 39 word: local wine laundry glimpse pyramid company happy dumb inner advance artist angle
 
 ### other_codes
 * short_code: sc6b45h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | local |  
+| bip_39_word_new_br10 | local<br>wine<br>laundry<br>glimpse<br>pyramid<br>company<br>happy<br>dumb<br>inner<br>advance |  
+| bip_39_word_new_br11 | local<br>wine<br>laundry<br>glimpse<br>pyramid<br>company<br>happy<br>dumb<br>inner<br>advance<br>artist |  
+| bip_39_word_new_br12 | local<br>wine<br>laundry<br>glimpse<br>pyramid<br>company<br>happy<br>dumb<br>inner<br>advance<br>artist<br>angle |  
+| bip_39_word_new_br2 | local<br>wine |  
+| bip_39_word_new_br3 | local<br>wine<br>laundry |  
+| bip_39_word_new_br4 | local<br>wine<br>laundry<br>glimpse |  
+| bip_39_word_new_br5 | local<br>wine<br>laundry<br>glimpse<br>pyramid |  
+| bip_39_word_new_br6 | local<br>wine<br>laundry<br>glimpse<br>pyramid<br>company |  
+| bip_39_word_new_br7 | local<br>wine<br>laundry<br>glimpse<br>pyramid<br>company<br>happy |  
+| bip_39_word_new_br8 | local<br>wine<br>laundry<br>glimpse<br>pyramid<br>company<br>happy<br>dumb |  
+| bip_39_word_new_br9 | local<br>wine<br>laundry<br>glimpse<br>pyramid<br>company<br>happy<br>dumb<br>inner |  
+| bip_39_word_new_line1 | local |  
+| bip_39_word_new_line10 | local
+wine
+laundry
+glimpse
+pyramid
+company
+happy
+dumb
+inner
+advance |  
+| bip_39_word_new_line11 | local
+wine
+laundry
+glimpse
+pyramid
+company
+happy
+dumb
+inner
+advance
+artist |  
+| bip_39_word_new_line12 | local
+wine
+laundry
+glimpse
+pyramid
+company
+happy
+dumb
+inner
+advance
+artist
+angle |  
+| bip_39_word_new_line2 | local
+wine |  
+| bip_39_word_new_line3 | local
+wine
+laundry |  
+| bip_39_word_new_line4 | local
+wine
+laundry
+glimpse |  
+| bip_39_word_new_line5 | local
+wine
+laundry
+glimpse
+pyramid |  
+| bip_39_word_new_line6 | local
+wine
+laundry
+glimpse
+pyramid
+company |  
+| bip_39_word_new_line7 | local
+wine
+laundry
+glimpse
+pyramid
+company
+happy |  
+| bip_39_word_new_line8 | local
+wine
+laundry
+glimpse
+pyramid
+company
+happy
+dumb |  
+| bip_39_word_new_line9 | local
+wine
+laundry
+glimpse
+pyramid
+company
+happy
+dumb
+inner |  
+| bip_39_word_space_0 | ['local', 'wine', 'laundry', 'glimpse', 'pyramid', 'company', 'happy', 'dumb', 'inner', 'advance', 'artist', 'angle'] |  
+| bip_39_word_space_1 | local |  
+| bip_39_word_space_10 | local wine laundry glimpse pyramid company happy dumb inner advance |  
+| bip_39_word_space_11 | local wine laundry glimpse pyramid company happy dumb inner advance artist |  
+| bip_39_word_space_12 | local wine laundry glimpse pyramid company happy dumb inner advance artist angle |  
+| bip_39_word_space_2 | local wine |  
+| bip_39_word_space_3 | local wine laundry |  
+| bip_39_word_space_4 | local wine laundry glimpse |  
+| bip_39_word_space_5 | local wine laundry glimpse pyramid |  
+| bip_39_word_space_6 | local wine laundry glimpse pyramid company |  
+| bip_39_word_space_7 | local wine laundry glimpse pyramid company happy |  
+| bip_39_word_space_8 | local wine laundry glimpse pyramid company happy dumb |  
+| bip_39_word_space_9 | local wine laundry glimpse pyramid company happy dumb inner |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

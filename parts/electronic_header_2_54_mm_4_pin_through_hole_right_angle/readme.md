@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stage giggle
+  * bip 39 word 3: stage giggle approve
+  * bip 39 word: stage giggle approve alert endorse bird history then intact mechanic glad apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stage |  
+| bip_39_word_new_br10 | stage<br>giggle<br>approve<br>alert<br>endorse<br>bird<br>history<br>then<br>intact<br>mechanic |  
+| bip_39_word_new_br11 | stage<br>giggle<br>approve<br>alert<br>endorse<br>bird<br>history<br>then<br>intact<br>mechanic<br>glad |  
+| bip_39_word_new_br12 | stage<br>giggle<br>approve<br>alert<br>endorse<br>bird<br>history<br>then<br>intact<br>mechanic<br>glad<br>apology |  
+| bip_39_word_new_br2 | stage<br>giggle |  
+| bip_39_word_new_br3 | stage<br>giggle<br>approve |  
+| bip_39_word_new_br4 | stage<br>giggle<br>approve<br>alert |  
+| bip_39_word_new_br5 | stage<br>giggle<br>approve<br>alert<br>endorse |  
+| bip_39_word_new_br6 | stage<br>giggle<br>approve<br>alert<br>endorse<br>bird |  
+| bip_39_word_new_br7 | stage<br>giggle<br>approve<br>alert<br>endorse<br>bird<br>history |  
+| bip_39_word_new_br8 | stage<br>giggle<br>approve<br>alert<br>endorse<br>bird<br>history<br>then |  
+| bip_39_word_new_br9 | stage<br>giggle<br>approve<br>alert<br>endorse<br>bird<br>history<br>then<br>intact |  
+| bip_39_word_new_line1 | stage |  
+| bip_39_word_new_line10 | stage
+giggle
+approve
+alert
+endorse
+bird
+history
+then
+intact
+mechanic |  
+| bip_39_word_new_line11 | stage
+giggle
+approve
+alert
+endorse
+bird
+history
+then
+intact
+mechanic
+glad |  
+| bip_39_word_new_line12 | stage
+giggle
+approve
+alert
+endorse
+bird
+history
+then
+intact
+mechanic
+glad
+apology |  
+| bip_39_word_new_line2 | stage
+giggle |  
+| bip_39_word_new_line3 | stage
+giggle
+approve |  
+| bip_39_word_new_line4 | stage
+giggle
+approve
+alert |  
+| bip_39_word_new_line5 | stage
+giggle
+approve
+alert
+endorse |  
+| bip_39_word_new_line6 | stage
+giggle
+approve
+alert
+endorse
+bird |  
+| bip_39_word_new_line7 | stage
+giggle
+approve
+alert
+endorse
+bird
+history |  
+| bip_39_word_new_line8 | stage
+giggle
+approve
+alert
+endorse
+bird
+history
+then |  
+| bip_39_word_new_line9 | stage
+giggle
+approve
+alert
+endorse
+bird
+history
+then
+intact |  
+| bip_39_word_space_0 | ['stage', 'giggle', 'approve', 'alert', 'endorse', 'bird', 'history', 'then', 'intact', 'mechanic', 'glad', 'apology'] |  
+| bip_39_word_space_1 | stage |  
+| bip_39_word_space_10 | stage giggle approve alert endorse bird history then intact mechanic |  
+| bip_39_word_space_11 | stage giggle approve alert endorse bird history then intact mechanic glad |  
+| bip_39_word_space_12 | stage giggle approve alert endorse bird history then intact mechanic glad apology |  
+| bip_39_word_space_2 | stage giggle |  
+| bip_39_word_space_3 | stage giggle approve |  
+| bip_39_word_space_4 | stage giggle approve alert |  
+| bip_39_word_space_5 | stage giggle approve alert endorse |  
+| bip_39_word_space_6 | stage giggle approve alert endorse bird |  
+| bip_39_word_space_7 | stage giggle approve alert endorse bird history |  
+| bip_39_word_space_8 | stage giggle approve alert endorse bird history then |  
+| bip_39_word_space_9 | stage giggle approve alert endorse bird history then intact |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

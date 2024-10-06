@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: afraid next
+  * bip 39 word 3: afraid next buzz
+  * bip 39 word: afraid next buzz deal acoustic consider soap code ripple this ball abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | afraid |  
+| bip_39_word_new_br10 | afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider<br>soap<br>code<br>ripple<br>this |  
+| bip_39_word_new_br11 | afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider<br>soap<br>code<br>ripple<br>this<br>ball |  
+| bip_39_word_new_br12 | afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider<br>soap<br>code<br>ripple<br>this<br>ball<br>abstract |  
+| bip_39_word_new_br2 | afraid<br>next |  
+| bip_39_word_new_br3 | afraid<br>next<br>buzz |  
+| bip_39_word_new_br4 | afraid<br>next<br>buzz<br>deal |  
+| bip_39_word_new_br5 | afraid<br>next<br>buzz<br>deal<br>acoustic |  
+| bip_39_word_new_br6 | afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider |  
+| bip_39_word_new_br7 | afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider<br>soap |  
+| bip_39_word_new_br8 | afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider<br>soap<br>code |  
+| bip_39_word_new_br9 | afraid<br>next<br>buzz<br>deal<br>acoustic<br>consider<br>soap<br>code<br>ripple |  
+| bip_39_word_new_line1 | afraid |  
+| bip_39_word_new_line10 | afraid
+next
+buzz
+deal
+acoustic
+consider
+soap
+code
+ripple
+this |  
+| bip_39_word_new_line11 | afraid
+next
+buzz
+deal
+acoustic
+consider
+soap
+code
+ripple
+this
+ball |  
+| bip_39_word_new_line12 | afraid
+next
+buzz
+deal
+acoustic
+consider
+soap
+code
+ripple
+this
+ball
+abstract |  
+| bip_39_word_new_line2 | afraid
+next |  
+| bip_39_word_new_line3 | afraid
+next
+buzz |  
+| bip_39_word_new_line4 | afraid
+next
+buzz
+deal |  
+| bip_39_word_new_line5 | afraid
+next
+buzz
+deal
+acoustic |  
+| bip_39_word_new_line6 | afraid
+next
+buzz
+deal
+acoustic
+consider |  
+| bip_39_word_new_line7 | afraid
+next
+buzz
+deal
+acoustic
+consider
+soap |  
+| bip_39_word_new_line8 | afraid
+next
+buzz
+deal
+acoustic
+consider
+soap
+code |  
+| bip_39_word_new_line9 | afraid
+next
+buzz
+deal
+acoustic
+consider
+soap
+code
+ripple |  
+| bip_39_word_space_0 | ['afraid', 'next', 'buzz', 'deal', 'acoustic', 'consider', 'soap', 'code', 'ripple', 'this', 'ball', 'abstract'] |  
+| bip_39_word_space_1 | afraid |  
+| bip_39_word_space_10 | afraid next buzz deal acoustic consider soap code ripple this |  
+| bip_39_word_space_11 | afraid next buzz deal acoustic consider soap code ripple this ball |  
+| bip_39_word_space_12 | afraid next buzz deal acoustic consider soap code ripple this ball abstract |  
+| bip_39_word_space_2 | afraid next |  
+| bip_39_word_space_3 | afraid next buzz |  
+| bip_39_word_space_4 | afraid next buzz deal |  
+| bip_39_word_space_5 | afraid next buzz deal acoustic |  
+| bip_39_word_space_6 | afraid next buzz deal acoustic consider |  
+| bip_39_word_space_7 | afraid next buzz deal acoustic consider soap |  
+| bip_39_word_space_8 | afraid next buzz deal acoustic consider soap code |  
+| bip_39_word_space_9 | afraid next buzz deal acoustic consider soap code ripple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

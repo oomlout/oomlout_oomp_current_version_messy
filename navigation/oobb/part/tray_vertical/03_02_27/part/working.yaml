@@ -1,3 +1,186 @@
+bip_39_word_new_br1: file
+bip_39_word_new_br10: file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase
+bip_39_word_new_br11: file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase<br>grunt
+bip_39_word_new_br12: file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic<br>erase<br>grunt<br>artefact
+bip_39_word_new_br2: file<br>pitch
+bip_39_word_new_br3: file<br>pitch<br>minute
+bip_39_word_new_br4: file<br>pitch<br>minute<br>false
+bip_39_word_new_br5: file<br>pitch<br>minute<br>false<br>fish
+bip_39_word_new_br6: file<br>pitch<br>minute<br>false<br>fish<br>census
+bip_39_word_new_br7: file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug
+bip_39_word_new_br8: file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend
+bip_39_word_new_br9: file<br>pitch<br>minute<br>false<br>fish<br>census<br>rug<br>weekend<br>tragic
+bip_39_word_new_line1: file
+bip_39_word_new_line10: 'file
+
+  pitch
+
+  minute
+
+  false
+
+  fish
+
+  census
+
+  rug
+
+  weekend
+
+  tragic
+
+  erase'
+bip_39_word_new_line11: 'file
+
+  pitch
+
+  minute
+
+  false
+
+  fish
+
+  census
+
+  rug
+
+  weekend
+
+  tragic
+
+  erase
+
+  grunt'
+bip_39_word_new_line12: 'file
+
+  pitch
+
+  minute
+
+  false
+
+  fish
+
+  census
+
+  rug
+
+  weekend
+
+  tragic
+
+  erase
+
+  grunt
+
+  artefact'
+bip_39_word_new_line2: 'file
+
+  pitch'
+bip_39_word_new_line3: 'file
+
+  pitch
+
+  minute'
+bip_39_word_new_line4: 'file
+
+  pitch
+
+  minute
+
+  false'
+bip_39_word_new_line5: 'file
+
+  pitch
+
+  minute
+
+  false
+
+  fish'
+bip_39_word_new_line6: 'file
+
+  pitch
+
+  minute
+
+  false
+
+  fish
+
+  census'
+bip_39_word_new_line7: 'file
+
+  pitch
+
+  minute
+
+  false
+
+  fish
+
+  census
+
+  rug'
+bip_39_word_new_line8: 'file
+
+  pitch
+
+  minute
+
+  false
+
+  fish
+
+  census
+
+  rug
+
+  weekend'
+bip_39_word_new_line9: 'file
+
+  pitch
+
+  minute
+
+  false
+
+  fish
+
+  census
+
+  rug
+
+  weekend
+
+  tragic'
+bip_39_word_space_0:
+- file
+- pitch
+- minute
+- 'false'
+- fish
+- census
+- rug
+- weekend
+- tragic
+- erase
+- grunt
+- artefact
+bip_39_word_space_1: file
+bip_39_word_space_10: file pitch minute false fish census rug weekend tragic erase
+bip_39_word_space_11: file pitch minute false fish census rug weekend tragic erase
+  grunt
+bip_39_word_space_12: file pitch minute false fish census rug weekend tragic erase
+  grunt artefact
+bip_39_word_space_2: file pitch
+bip_39_word_space_3: file pitch minute
+bip_39_word_space_4: file pitch minute false
+bip_39_word_space_5: file pitch minute false fish
+bip_39_word_space_6: file pitch minute false fish census
+bip_39_word_space_7: file pitch minute false fish census rug
+bip_39_word_space_8: file pitch minute false fish census rug weekend
+bip_39_word_space_9: file pitch minute false fish census rug weekend tragic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

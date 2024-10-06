@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gospel secret
+  * bip 39 word 3: gospel secret table
+  * bip 39 word: gospel secret table repair twin target antique announce robust chapter guide aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gospel |  
+| bip_39_word_new_br10 | gospel<br>secret<br>table<br>repair<br>twin<br>target<br>antique<br>announce<br>robust<br>chapter |  
+| bip_39_word_new_br11 | gospel<br>secret<br>table<br>repair<br>twin<br>target<br>antique<br>announce<br>robust<br>chapter<br>guide |  
+| bip_39_word_new_br12 | gospel<br>secret<br>table<br>repair<br>twin<br>target<br>antique<br>announce<br>robust<br>chapter<br>guide<br>aspect |  
+| bip_39_word_new_br2 | gospel<br>secret |  
+| bip_39_word_new_br3 | gospel<br>secret<br>table |  
+| bip_39_word_new_br4 | gospel<br>secret<br>table<br>repair |  
+| bip_39_word_new_br5 | gospel<br>secret<br>table<br>repair<br>twin |  
+| bip_39_word_new_br6 | gospel<br>secret<br>table<br>repair<br>twin<br>target |  
+| bip_39_word_new_br7 | gospel<br>secret<br>table<br>repair<br>twin<br>target<br>antique |  
+| bip_39_word_new_br8 | gospel<br>secret<br>table<br>repair<br>twin<br>target<br>antique<br>announce |  
+| bip_39_word_new_br9 | gospel<br>secret<br>table<br>repair<br>twin<br>target<br>antique<br>announce<br>robust |  
+| bip_39_word_new_line1 | gospel |  
+| bip_39_word_new_line10 | gospel
+secret
+table
+repair
+twin
+target
+antique
+announce
+robust
+chapter |  
+| bip_39_word_new_line11 | gospel
+secret
+table
+repair
+twin
+target
+antique
+announce
+robust
+chapter
+guide |  
+| bip_39_word_new_line12 | gospel
+secret
+table
+repair
+twin
+target
+antique
+announce
+robust
+chapter
+guide
+aspect |  
+| bip_39_word_new_line2 | gospel
+secret |  
+| bip_39_word_new_line3 | gospel
+secret
+table |  
+| bip_39_word_new_line4 | gospel
+secret
+table
+repair |  
+| bip_39_word_new_line5 | gospel
+secret
+table
+repair
+twin |  
+| bip_39_word_new_line6 | gospel
+secret
+table
+repair
+twin
+target |  
+| bip_39_word_new_line7 | gospel
+secret
+table
+repair
+twin
+target
+antique |  
+| bip_39_word_new_line8 | gospel
+secret
+table
+repair
+twin
+target
+antique
+announce |  
+| bip_39_word_new_line9 | gospel
+secret
+table
+repair
+twin
+target
+antique
+announce
+robust |  
+| bip_39_word_space_0 | ['gospel', 'secret', 'table', 'repair', 'twin', 'target', 'antique', 'announce', 'robust', 'chapter', 'guide', 'aspect'] |  
+| bip_39_word_space_1 | gospel |  
+| bip_39_word_space_10 | gospel secret table repair twin target antique announce robust chapter |  
+| bip_39_word_space_11 | gospel secret table repair twin target antique announce robust chapter guide |  
+| bip_39_word_space_12 | gospel secret table repair twin target antique announce robust chapter guide aspect |  
+| bip_39_word_space_2 | gospel secret |  
+| bip_39_word_space_3 | gospel secret table |  
+| bip_39_word_space_4 | gospel secret table repair |  
+| bip_39_word_space_5 | gospel secret table repair twin |  
+| bip_39_word_space_6 | gospel secret table repair twin target |  
+| bip_39_word_space_7 | gospel secret table repair twin target antique |  
+| bip_39_word_space_8 | gospel secret table repair twin target antique announce |  
+| bip_39_word_space_9 | gospel secret table repair twin target antique announce robust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

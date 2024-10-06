@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: genius convince
+  * bip 39 word 3: genius convince craft
+  * bip 39 word: genius convince craft seminar ocean earn actor utility multiply ketchup minute animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | genius |  
+| bip_39_word_new_br10 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply<br>ketchup |  
+| bip_39_word_new_br11 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply<br>ketchup<br>minute |  
+| bip_39_word_new_br12 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply<br>ketchup<br>minute<br>animal |  
+| bip_39_word_new_br2 | genius<br>convince |  
+| bip_39_word_new_br3 | genius<br>convince<br>craft |  
+| bip_39_word_new_br4 | genius<br>convince<br>craft<br>seminar |  
+| bip_39_word_new_br5 | genius<br>convince<br>craft<br>seminar<br>ocean |  
+| bip_39_word_new_br6 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn |  
+| bip_39_word_new_br7 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor |  
+| bip_39_word_new_br8 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility |  
+| bip_39_word_new_br9 | genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply |  
+| bip_39_word_new_line1 | genius |  
+| bip_39_word_new_line10 | genius
+convince
+craft
+seminar
+ocean
+earn
+actor
+utility
+multiply
+ketchup |  
+| bip_39_word_new_line11 | genius
+convince
+craft
+seminar
+ocean
+earn
+actor
+utility
+multiply
+ketchup
+minute |  
+| bip_39_word_new_line12 | genius
+convince
+craft
+seminar
+ocean
+earn
+actor
+utility
+multiply
+ketchup
+minute
+animal |  
+| bip_39_word_new_line2 | genius
+convince |  
+| bip_39_word_new_line3 | genius
+convince
+craft |  
+| bip_39_word_new_line4 | genius
+convince
+craft
+seminar |  
+| bip_39_word_new_line5 | genius
+convince
+craft
+seminar
+ocean |  
+| bip_39_word_new_line6 | genius
+convince
+craft
+seminar
+ocean
+earn |  
+| bip_39_word_new_line7 | genius
+convince
+craft
+seminar
+ocean
+earn
+actor |  
+| bip_39_word_new_line8 | genius
+convince
+craft
+seminar
+ocean
+earn
+actor
+utility |  
+| bip_39_word_new_line9 | genius
+convince
+craft
+seminar
+ocean
+earn
+actor
+utility
+multiply |  
+| bip_39_word_space_0 | ['genius', 'convince', 'craft', 'seminar', 'ocean', 'earn', 'actor', 'utility', 'multiply', 'ketchup', 'minute', 'animal'] |  
+| bip_39_word_space_1 | genius |  
+| bip_39_word_space_10 | genius convince craft seminar ocean earn actor utility multiply ketchup |  
+| bip_39_word_space_11 | genius convince craft seminar ocean earn actor utility multiply ketchup minute |  
+| bip_39_word_space_12 | genius convince craft seminar ocean earn actor utility multiply ketchup minute animal |  
+| bip_39_word_space_2 | genius convince |  
+| bip_39_word_space_3 | genius convince craft |  
+| bip_39_word_space_4 | genius convince craft seminar |  
+| bip_39_word_space_5 | genius convince craft seminar ocean |  
+| bip_39_word_space_6 | genius convince craft seminar ocean earn |  
+| bip_39_word_space_7 | genius convince craft seminar ocean earn actor |  
+| bip_39_word_space_8 | genius convince craft seminar ocean earn actor utility |  
+| bip_39_word_space_9 | genius convince craft seminar ocean earn actor utility multiply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

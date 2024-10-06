@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enable
+bip_39_word_new_br10: enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous
+bip_39_word_new_br11: enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous<br>panther
+bip_39_word_new_br12: enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index<br>jealous<br>panther<br>auto
+bip_39_word_new_br2: enable<br>ketchup
+bip_39_word_new_br3: enable<br>ketchup<br>now
+bip_39_word_new_br4: enable<br>ketchup<br>now<br>wave
+bip_39_word_new_br5: enable<br>ketchup<br>now<br>wave<br>opera
+bip_39_word_new_br6: enable<br>ketchup<br>now<br>wave<br>opera<br>angle
+bip_39_word_new_br7: enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn
+bip_39_word_new_br8: enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve
+bip_39_word_new_br9: enable<br>ketchup<br>now<br>wave<br>opera<br>angle<br>churn<br>evolve<br>index
+bip_39_word_new_line1: enable
+bip_39_word_new_line10: 'enable
+
+  ketchup
+
+  now
+
+  wave
+
+  opera
+
+  angle
+
+  churn
+
+  evolve
+
+  index
+
+  jealous'
+bip_39_word_new_line11: 'enable
+
+  ketchup
+
+  now
+
+  wave
+
+  opera
+
+  angle
+
+  churn
+
+  evolve
+
+  index
+
+  jealous
+
+  panther'
+bip_39_word_new_line12: 'enable
+
+  ketchup
+
+  now
+
+  wave
+
+  opera
+
+  angle
+
+  churn
+
+  evolve
+
+  index
+
+  jealous
+
+  panther
+
+  auto'
+bip_39_word_new_line2: 'enable
+
+  ketchup'
+bip_39_word_new_line3: 'enable
+
+  ketchup
+
+  now'
+bip_39_word_new_line4: 'enable
+
+  ketchup
+
+  now
+
+  wave'
+bip_39_word_new_line5: 'enable
+
+  ketchup
+
+  now
+
+  wave
+
+  opera'
+bip_39_word_new_line6: 'enable
+
+  ketchup
+
+  now
+
+  wave
+
+  opera
+
+  angle'
+bip_39_word_new_line7: 'enable
+
+  ketchup
+
+  now
+
+  wave
+
+  opera
+
+  angle
+
+  churn'
+bip_39_word_new_line8: 'enable
+
+  ketchup
+
+  now
+
+  wave
+
+  opera
+
+  angle
+
+  churn
+
+  evolve'
+bip_39_word_new_line9: 'enable
+
+  ketchup
+
+  now
+
+  wave
+
+  opera
+
+  angle
+
+  churn
+
+  evolve
+
+  index'
+bip_39_word_space_0:
+- enable
+- ketchup
+- now
+- wave
+- opera
+- angle
+- churn
+- evolve
+- index
+- jealous
+- panther
+- auto
+bip_39_word_space_1: enable
+bip_39_word_space_10: enable ketchup now wave opera angle churn evolve index jealous
+bip_39_word_space_11: enable ketchup now wave opera angle churn evolve index jealous
+  panther
+bip_39_word_space_12: enable ketchup now wave opera angle churn evolve index jealous
+  panther auto
+bip_39_word_space_2: enable ketchup
+bip_39_word_space_3: enable ketchup now
+bip_39_word_space_4: enable ketchup now wave
+bip_39_word_space_5: enable ketchup now wave opera
+bip_39_word_space_6: enable ketchup now wave opera angle
+bip_39_word_space_7: enable ketchup now wave opera angle churn
+bip_39_word_space_8: enable ketchup now wave opera angle churn evolve
+bip_39_word_space_9: enable ketchup now wave opera angle churn evolve index
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

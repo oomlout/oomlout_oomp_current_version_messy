@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bicycle
+bip_39_word_new_br10: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female<br>pitch<br>buzz<br>west<br>prevent
+bip_39_word_new_br11: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female<br>pitch<br>buzz<br>west<br>prevent<br>ecology
+bip_39_word_new_br12: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female<br>pitch<br>buzz<br>west<br>prevent<br>ecology<br>alert
+bip_39_word_new_br2: bicycle<br>heavy
+bip_39_word_new_br3: bicycle<br>heavy<br>phone
+bip_39_word_new_br4: bicycle<br>heavy<br>phone<br>secret
+bip_39_word_new_br5: bicycle<br>heavy<br>phone<br>secret<br>craft
+bip_39_word_new_br6: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female
+bip_39_word_new_br7: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female<br>pitch
+bip_39_word_new_br8: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female<br>pitch<br>buzz
+bip_39_word_new_br9: bicycle<br>heavy<br>phone<br>secret<br>craft<br>female<br>pitch<br>buzz<br>west
+bip_39_word_new_line1: bicycle
+bip_39_word_new_line10: 'bicycle
+
+  heavy
+
+  phone
+
+  secret
+
+  craft
+
+  female
+
+  pitch
+
+  buzz
+
+  west
+
+  prevent'
+bip_39_word_new_line11: 'bicycle
+
+  heavy
+
+  phone
+
+  secret
+
+  craft
+
+  female
+
+  pitch
+
+  buzz
+
+  west
+
+  prevent
+
+  ecology'
+bip_39_word_new_line12: 'bicycle
+
+  heavy
+
+  phone
+
+  secret
+
+  craft
+
+  female
+
+  pitch
+
+  buzz
+
+  west
+
+  prevent
+
+  ecology
+
+  alert'
+bip_39_word_new_line2: 'bicycle
+
+  heavy'
+bip_39_word_new_line3: 'bicycle
+
+  heavy
+
+  phone'
+bip_39_word_new_line4: 'bicycle
+
+  heavy
+
+  phone
+
+  secret'
+bip_39_word_new_line5: 'bicycle
+
+  heavy
+
+  phone
+
+  secret
+
+  craft'
+bip_39_word_new_line6: 'bicycle
+
+  heavy
+
+  phone
+
+  secret
+
+  craft
+
+  female'
+bip_39_word_new_line7: 'bicycle
+
+  heavy
+
+  phone
+
+  secret
+
+  craft
+
+  female
+
+  pitch'
+bip_39_word_new_line8: 'bicycle
+
+  heavy
+
+  phone
+
+  secret
+
+  craft
+
+  female
+
+  pitch
+
+  buzz'
+bip_39_word_new_line9: 'bicycle
+
+  heavy
+
+  phone
+
+  secret
+
+  craft
+
+  female
+
+  pitch
+
+  buzz
+
+  west'
+bip_39_word_space_0:
+- bicycle
+- heavy
+- phone
+- secret
+- craft
+- female
+- pitch
+- buzz
+- west
+- prevent
+- ecology
+- alert
+bip_39_word_space_1: bicycle
+bip_39_word_space_10: bicycle heavy phone secret craft female pitch buzz west prevent
+bip_39_word_space_11: bicycle heavy phone secret craft female pitch buzz west prevent
+  ecology
+bip_39_word_space_12: bicycle heavy phone secret craft female pitch buzz west prevent
+  ecology alert
+bip_39_word_space_2: bicycle heavy
+bip_39_word_space_3: bicycle heavy phone
+bip_39_word_space_4: bicycle heavy phone secret
+bip_39_word_space_5: bicycle heavy phone secret craft
+bip_39_word_space_6: bicycle heavy phone secret craft female
+bip_39_word_space_7: bicycle heavy phone secret craft female pitch
+bip_39_word_space_8: bicycle heavy phone secret craft female pitch buzz
+bip_39_word_space_9: bicycle heavy phone secret craft female pitch buzz west
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

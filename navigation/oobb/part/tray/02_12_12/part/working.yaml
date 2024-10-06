@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mobile
+bip_39_word_new_br10: mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road
+bip_39_word_new_br11: mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road<br>hamster
+bip_39_word_new_br12: mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together<br>road<br>hamster<br>alter
+bip_39_word_new_br2: mobile<br>what
+bip_39_word_new_br3: mobile<br>what<br>nut
+bip_39_word_new_br4: mobile<br>what<br>nut<br>junk
+bip_39_word_new_br5: mobile<br>what<br>nut<br>junk<br>alpha
+bip_39_word_new_br6: mobile<br>what<br>nut<br>junk<br>alpha<br>stay
+bip_39_word_new_br7: mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual
+bip_39_word_new_br8: mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder
+bip_39_word_new_br9: mobile<br>what<br>nut<br>junk<br>alpha<br>stay<br>ritual<br>shoulder<br>together
+bip_39_word_new_line1: mobile
+bip_39_word_new_line10: 'mobile
+
+  what
+
+  nut
+
+  junk
+
+  alpha
+
+  stay
+
+  ritual
+
+  shoulder
+
+  together
+
+  road'
+bip_39_word_new_line11: 'mobile
+
+  what
+
+  nut
+
+  junk
+
+  alpha
+
+  stay
+
+  ritual
+
+  shoulder
+
+  together
+
+  road
+
+  hamster'
+bip_39_word_new_line12: 'mobile
+
+  what
+
+  nut
+
+  junk
+
+  alpha
+
+  stay
+
+  ritual
+
+  shoulder
+
+  together
+
+  road
+
+  hamster
+
+  alter'
+bip_39_word_new_line2: 'mobile
+
+  what'
+bip_39_word_new_line3: 'mobile
+
+  what
+
+  nut'
+bip_39_word_new_line4: 'mobile
+
+  what
+
+  nut
+
+  junk'
+bip_39_word_new_line5: 'mobile
+
+  what
+
+  nut
+
+  junk
+
+  alpha'
+bip_39_word_new_line6: 'mobile
+
+  what
+
+  nut
+
+  junk
+
+  alpha
+
+  stay'
+bip_39_word_new_line7: 'mobile
+
+  what
+
+  nut
+
+  junk
+
+  alpha
+
+  stay
+
+  ritual'
+bip_39_word_new_line8: 'mobile
+
+  what
+
+  nut
+
+  junk
+
+  alpha
+
+  stay
+
+  ritual
+
+  shoulder'
+bip_39_word_new_line9: 'mobile
+
+  what
+
+  nut
+
+  junk
+
+  alpha
+
+  stay
+
+  ritual
+
+  shoulder
+
+  together'
+bip_39_word_space_0:
+- mobile
+- what
+- nut
+- junk
+- alpha
+- stay
+- ritual
+- shoulder
+- together
+- road
+- hamster
+- alter
+bip_39_word_space_1: mobile
+bip_39_word_space_10: mobile what nut junk alpha stay ritual shoulder together road
+bip_39_word_space_11: mobile what nut junk alpha stay ritual shoulder together road
+  hamster
+bip_39_word_space_12: mobile what nut junk alpha stay ritual shoulder together road
+  hamster alter
+bip_39_word_space_2: mobile what
+bip_39_word_space_3: mobile what nut
+bip_39_word_space_4: mobile what nut junk
+bip_39_word_space_5: mobile what nut junk alpha
+bip_39_word_space_6: mobile what nut junk alpha stay
+bip_39_word_space_7: mobile what nut junk alpha stay ritual
+bip_39_word_space_8: mobile what nut junk alpha stay ritual shoulder
+bip_39_word_space_9: mobile what nut junk alpha stay ritual shoulder together
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

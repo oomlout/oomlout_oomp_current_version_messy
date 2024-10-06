@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: train replace
+  * bip 39 word 3: train replace vendor
+  * bip 39 word: train replace vendor fossil aunt odor slam flash voice reopen bird addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | train |  
+| bip_39_word_new_br10 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor<br>slam<br>flash<br>voice<br>reopen |  
+| bip_39_word_new_br11 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor<br>slam<br>flash<br>voice<br>reopen<br>bird |  
+| bip_39_word_new_br12 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor<br>slam<br>flash<br>voice<br>reopen<br>bird<br>addict |  
+| bip_39_word_new_br2 | train<br>replace |  
+| bip_39_word_new_br3 | train<br>replace<br>vendor |  
+| bip_39_word_new_br4 | train<br>replace<br>vendor<br>fossil |  
+| bip_39_word_new_br5 | train<br>replace<br>vendor<br>fossil<br>aunt |  
+| bip_39_word_new_br6 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor |  
+| bip_39_word_new_br7 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor<br>slam |  
+| bip_39_word_new_br8 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor<br>slam<br>flash |  
+| bip_39_word_new_br9 | train<br>replace<br>vendor<br>fossil<br>aunt<br>odor<br>slam<br>flash<br>voice |  
+| bip_39_word_new_line1 | train |  
+| bip_39_word_new_line10 | train
+replace
+vendor
+fossil
+aunt
+odor
+slam
+flash
+voice
+reopen |  
+| bip_39_word_new_line11 | train
+replace
+vendor
+fossil
+aunt
+odor
+slam
+flash
+voice
+reopen
+bird |  
+| bip_39_word_new_line12 | train
+replace
+vendor
+fossil
+aunt
+odor
+slam
+flash
+voice
+reopen
+bird
+addict |  
+| bip_39_word_new_line2 | train
+replace |  
+| bip_39_word_new_line3 | train
+replace
+vendor |  
+| bip_39_word_new_line4 | train
+replace
+vendor
+fossil |  
+| bip_39_word_new_line5 | train
+replace
+vendor
+fossil
+aunt |  
+| bip_39_word_new_line6 | train
+replace
+vendor
+fossil
+aunt
+odor |  
+| bip_39_word_new_line7 | train
+replace
+vendor
+fossil
+aunt
+odor
+slam |  
+| bip_39_word_new_line8 | train
+replace
+vendor
+fossil
+aunt
+odor
+slam
+flash |  
+| bip_39_word_new_line9 | train
+replace
+vendor
+fossil
+aunt
+odor
+slam
+flash
+voice |  
+| bip_39_word_space_0 | ['train', 'replace', 'vendor', 'fossil', 'aunt', 'odor', 'slam', 'flash', 'voice', 'reopen', 'bird', 'addict'] |  
+| bip_39_word_space_1 | train |  
+| bip_39_word_space_10 | train replace vendor fossil aunt odor slam flash voice reopen |  
+| bip_39_word_space_11 | train replace vendor fossil aunt odor slam flash voice reopen bird |  
+| bip_39_word_space_12 | train replace vendor fossil aunt odor slam flash voice reopen bird addict |  
+| bip_39_word_space_2 | train replace |  
+| bip_39_word_space_3 | train replace vendor |  
+| bip_39_word_space_4 | train replace vendor fossil |  
+| bip_39_word_space_5 | train replace vendor fossil aunt |  
+| bip_39_word_space_6 | train replace vendor fossil aunt odor |  
+| bip_39_word_space_7 | train replace vendor fossil aunt odor slam |  
+| bip_39_word_space_8 | train replace vendor fossil aunt odor slam flash |  
+| bip_39_word_space_9 | train replace vendor fossil aunt odor slam flash voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

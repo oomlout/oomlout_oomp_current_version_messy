@@ -1,3 +1,187 @@
+bip_39_word_new_br1: arrange
+bip_39_word_new_br10: arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate
+bip_39_word_new_br11: arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate<br>often
+bip_39_word_new_br12: arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors<br>inmate<br>often<br>also
+bip_39_word_new_br2: arrange<br>nerve
+bip_39_word_new_br3: arrange<br>nerve<br>farm
+bip_39_word_new_br4: arrange<br>nerve<br>farm<br>daring
+bip_39_word_new_br5: arrange<br>nerve<br>farm<br>daring<br>verify
+bip_39_word_new_br6: arrange<br>nerve<br>farm<br>daring<br>verify<br>gift
+bip_39_word_new_br7: arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch
+bip_39_word_new_br8: arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle
+bip_39_word_new_br9: arrange<br>nerve<br>farm<br>daring<br>verify<br>gift<br>punch<br>wrestle<br>scissors
+bip_39_word_new_line1: arrange
+bip_39_word_new_line10: 'arrange
+
+  nerve
+
+  farm
+
+  daring
+
+  verify
+
+  gift
+
+  punch
+
+  wrestle
+
+  scissors
+
+  inmate'
+bip_39_word_new_line11: 'arrange
+
+  nerve
+
+  farm
+
+  daring
+
+  verify
+
+  gift
+
+  punch
+
+  wrestle
+
+  scissors
+
+  inmate
+
+  often'
+bip_39_word_new_line12: 'arrange
+
+  nerve
+
+  farm
+
+  daring
+
+  verify
+
+  gift
+
+  punch
+
+  wrestle
+
+  scissors
+
+  inmate
+
+  often
+
+  also'
+bip_39_word_new_line2: 'arrange
+
+  nerve'
+bip_39_word_new_line3: 'arrange
+
+  nerve
+
+  farm'
+bip_39_word_new_line4: 'arrange
+
+  nerve
+
+  farm
+
+  daring'
+bip_39_word_new_line5: 'arrange
+
+  nerve
+
+  farm
+
+  daring
+
+  verify'
+bip_39_word_new_line6: 'arrange
+
+  nerve
+
+  farm
+
+  daring
+
+  verify
+
+  gift'
+bip_39_word_new_line7: 'arrange
+
+  nerve
+
+  farm
+
+  daring
+
+  verify
+
+  gift
+
+  punch'
+bip_39_word_new_line8: 'arrange
+
+  nerve
+
+  farm
+
+  daring
+
+  verify
+
+  gift
+
+  punch
+
+  wrestle'
+bip_39_word_new_line9: 'arrange
+
+  nerve
+
+  farm
+
+  daring
+
+  verify
+
+  gift
+
+  punch
+
+  wrestle
+
+  scissors'
+bip_39_word_space_0:
+- arrange
+- nerve
+- farm
+- daring
+- verify
+- gift
+- punch
+- wrestle
+- scissors
+- inmate
+- often
+- also
+bip_39_word_space_1: arrange
+bip_39_word_space_10: arrange nerve farm daring verify gift punch wrestle scissors
+  inmate
+bip_39_word_space_11: arrange nerve farm daring verify gift punch wrestle scissors
+  inmate often
+bip_39_word_space_12: arrange nerve farm daring verify gift punch wrestle scissors
+  inmate often also
+bip_39_word_space_2: arrange nerve
+bip_39_word_space_3: arrange nerve farm
+bip_39_word_space_4: arrange nerve farm daring
+bip_39_word_space_5: arrange nerve farm daring verify
+bip_39_word_space_6: arrange nerve farm daring verify gift
+bip_39_word_space_7: arrange nerve farm daring verify gift punch
+bip_39_word_space_8: arrange nerve farm daring verify gift punch wrestle
+bip_39_word_space_9: arrange nerve farm daring verify gift punch wrestle scissors
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

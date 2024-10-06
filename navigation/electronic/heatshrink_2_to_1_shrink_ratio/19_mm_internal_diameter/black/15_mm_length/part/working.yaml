@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tool
+bip_39_word_new_br10: tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance<br>stay<br>glide<br>creek<br>junior
+bip_39_word_new_br11: tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance<br>stay<br>glide<br>creek<br>junior<br>fog
+bip_39_word_new_br12: tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance<br>stay<br>glide<br>creek<br>junior<br>fog<br>anchor
+bip_39_word_new_br2: tool<br>trumpet
+bip_39_word_new_br3: tool<br>trumpet<br>pottery
+bip_39_word_new_br4: tool<br>trumpet<br>pottery<br>flat
+bip_39_word_new_br5: tool<br>trumpet<br>pottery<br>flat<br>couple
+bip_39_word_new_br6: tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance
+bip_39_word_new_br7: tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance<br>stay
+bip_39_word_new_br8: tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance<br>stay<br>glide
+bip_39_word_new_br9: tool<br>trumpet<br>pottery<br>flat<br>couple<br>distance<br>stay<br>glide<br>creek
+bip_39_word_new_line1: tool
+bip_39_word_new_line10: 'tool
+
+  trumpet
+
+  pottery
+
+  flat
+
+  couple
+
+  distance
+
+  stay
+
+  glide
+
+  creek
+
+  junior'
+bip_39_word_new_line11: 'tool
+
+  trumpet
+
+  pottery
+
+  flat
+
+  couple
+
+  distance
+
+  stay
+
+  glide
+
+  creek
+
+  junior
+
+  fog'
+bip_39_word_new_line12: 'tool
+
+  trumpet
+
+  pottery
+
+  flat
+
+  couple
+
+  distance
+
+  stay
+
+  glide
+
+  creek
+
+  junior
+
+  fog
+
+  anchor'
+bip_39_word_new_line2: 'tool
+
+  trumpet'
+bip_39_word_new_line3: 'tool
+
+  trumpet
+
+  pottery'
+bip_39_word_new_line4: 'tool
+
+  trumpet
+
+  pottery
+
+  flat'
+bip_39_word_new_line5: 'tool
+
+  trumpet
+
+  pottery
+
+  flat
+
+  couple'
+bip_39_word_new_line6: 'tool
+
+  trumpet
+
+  pottery
+
+  flat
+
+  couple
+
+  distance'
+bip_39_word_new_line7: 'tool
+
+  trumpet
+
+  pottery
+
+  flat
+
+  couple
+
+  distance
+
+  stay'
+bip_39_word_new_line8: 'tool
+
+  trumpet
+
+  pottery
+
+  flat
+
+  couple
+
+  distance
+
+  stay
+
+  glide'
+bip_39_word_new_line9: 'tool
+
+  trumpet
+
+  pottery
+
+  flat
+
+  couple
+
+  distance
+
+  stay
+
+  glide
+
+  creek'
+bip_39_word_space_0:
+- tool
+- trumpet
+- pottery
+- flat
+- couple
+- distance
+- stay
+- glide
+- creek
+- junior
+- fog
+- anchor
+bip_39_word_space_1: tool
+bip_39_word_space_10: tool trumpet pottery flat couple distance stay glide creek junior
+bip_39_word_space_11: tool trumpet pottery flat couple distance stay glide creek junior
+  fog
+bip_39_word_space_12: tool trumpet pottery flat couple distance stay glide creek junior
+  fog anchor
+bip_39_word_space_2: tool trumpet
+bip_39_word_space_3: tool trumpet pottery
+bip_39_word_space_4: tool trumpet pottery flat
+bip_39_word_space_5: tool trumpet pottery flat couple
+bip_39_word_space_6: tool trumpet pottery flat couple distance
+bip_39_word_space_7: tool trumpet pottery flat couple distance stay
+bip_39_word_space_8: tool trumpet pottery flat couple distance stay glide
+bip_39_word_space_9: tool trumpet pottery flat couple distance stay glide creek
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

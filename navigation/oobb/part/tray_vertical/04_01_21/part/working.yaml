@@ -1,3 +1,187 @@
+bip_39_word_new_br1: chief
+bip_39_word_new_br10: chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese<br>recycle<br>master<br>actress<br>dragon
+bip_39_word_new_br11: chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese<br>recycle<br>master<br>actress<br>dragon<br>fantasy
+bip_39_word_new_br12: chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese<br>recycle<br>master<br>actress<br>dragon<br>fantasy<br>acoustic
+bip_39_word_new_br2: chief<br>upon
+bip_39_word_new_br3: chief<br>upon<br>sheriff
+bip_39_word_new_br4: chief<br>upon<br>sheriff<br>heavy
+bip_39_word_new_br5: chief<br>upon<br>sheriff<br>heavy<br>wise
+bip_39_word_new_br6: chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese
+bip_39_word_new_br7: chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese<br>recycle
+bip_39_word_new_br8: chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese<br>recycle<br>master
+bip_39_word_new_br9: chief<br>upon<br>sheriff<br>heavy<br>wise<br>cheese<br>recycle<br>master<br>actress
+bip_39_word_new_line1: chief
+bip_39_word_new_line10: 'chief
+
+  upon
+
+  sheriff
+
+  heavy
+
+  wise
+
+  cheese
+
+  recycle
+
+  master
+
+  actress
+
+  dragon'
+bip_39_word_new_line11: 'chief
+
+  upon
+
+  sheriff
+
+  heavy
+
+  wise
+
+  cheese
+
+  recycle
+
+  master
+
+  actress
+
+  dragon
+
+  fantasy'
+bip_39_word_new_line12: 'chief
+
+  upon
+
+  sheriff
+
+  heavy
+
+  wise
+
+  cheese
+
+  recycle
+
+  master
+
+  actress
+
+  dragon
+
+  fantasy
+
+  acoustic'
+bip_39_word_new_line2: 'chief
+
+  upon'
+bip_39_word_new_line3: 'chief
+
+  upon
+
+  sheriff'
+bip_39_word_new_line4: 'chief
+
+  upon
+
+  sheriff
+
+  heavy'
+bip_39_word_new_line5: 'chief
+
+  upon
+
+  sheriff
+
+  heavy
+
+  wise'
+bip_39_word_new_line6: 'chief
+
+  upon
+
+  sheriff
+
+  heavy
+
+  wise
+
+  cheese'
+bip_39_word_new_line7: 'chief
+
+  upon
+
+  sheriff
+
+  heavy
+
+  wise
+
+  cheese
+
+  recycle'
+bip_39_word_new_line8: 'chief
+
+  upon
+
+  sheriff
+
+  heavy
+
+  wise
+
+  cheese
+
+  recycle
+
+  master'
+bip_39_word_new_line9: 'chief
+
+  upon
+
+  sheriff
+
+  heavy
+
+  wise
+
+  cheese
+
+  recycle
+
+  master
+
+  actress'
+bip_39_word_space_0:
+- chief
+- upon
+- sheriff
+- heavy
+- wise
+- cheese
+- recycle
+- master
+- actress
+- dragon
+- fantasy
+- acoustic
+bip_39_word_space_1: chief
+bip_39_word_space_10: chief upon sheriff heavy wise cheese recycle master actress
+  dragon
+bip_39_word_space_11: chief upon sheriff heavy wise cheese recycle master actress
+  dragon fantasy
+bip_39_word_space_12: chief upon sheriff heavy wise cheese recycle master actress
+  dragon fantasy acoustic
+bip_39_word_space_2: chief upon
+bip_39_word_space_3: chief upon sheriff
+bip_39_word_space_4: chief upon sheriff heavy
+bip_39_word_space_5: chief upon sheriff heavy wise
+bip_39_word_space_6: chief upon sheriff heavy wise cheese
+bip_39_word_space_7: chief upon sheriff heavy wise cheese recycle
+bip_39_word_space_8: chief upon sheriff heavy wise cheese recycle master
+bip_39_word_space_9: chief upon sheriff heavy wise cheese recycle master actress
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

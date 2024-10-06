@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: parrot maid
+  * bip 39 word 3: parrot maid puzzle
+  * bip 39 word: parrot maid puzzle kitten senior lobster bundle merry dinosaur people mix antenna
 
 ### other_codes
 * short_code: cs5m16pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | parrot |  
+| bip_39_word_new_br10 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster<br>bundle<br>merry<br>dinosaur<br>people |  
+| bip_39_word_new_br11 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster<br>bundle<br>merry<br>dinosaur<br>people<br>mix |  
+| bip_39_word_new_br12 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster<br>bundle<br>merry<br>dinosaur<br>people<br>mix<br>antenna |  
+| bip_39_word_new_br2 | parrot<br>maid |  
+| bip_39_word_new_br3 | parrot<br>maid<br>puzzle |  
+| bip_39_word_new_br4 | parrot<br>maid<br>puzzle<br>kitten |  
+| bip_39_word_new_br5 | parrot<br>maid<br>puzzle<br>kitten<br>senior |  
+| bip_39_word_new_br6 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster |  
+| bip_39_word_new_br7 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster<br>bundle |  
+| bip_39_word_new_br8 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster<br>bundle<br>merry |  
+| bip_39_word_new_br9 | parrot<br>maid<br>puzzle<br>kitten<br>senior<br>lobster<br>bundle<br>merry<br>dinosaur |  
+| bip_39_word_new_line1 | parrot |  
+| bip_39_word_new_line10 | parrot
+maid
+puzzle
+kitten
+senior
+lobster
+bundle
+merry
+dinosaur
+people |  
+| bip_39_word_new_line11 | parrot
+maid
+puzzle
+kitten
+senior
+lobster
+bundle
+merry
+dinosaur
+people
+mix |  
+| bip_39_word_new_line12 | parrot
+maid
+puzzle
+kitten
+senior
+lobster
+bundle
+merry
+dinosaur
+people
+mix
+antenna |  
+| bip_39_word_new_line2 | parrot
+maid |  
+| bip_39_word_new_line3 | parrot
+maid
+puzzle |  
+| bip_39_word_new_line4 | parrot
+maid
+puzzle
+kitten |  
+| bip_39_word_new_line5 | parrot
+maid
+puzzle
+kitten
+senior |  
+| bip_39_word_new_line6 | parrot
+maid
+puzzle
+kitten
+senior
+lobster |  
+| bip_39_word_new_line7 | parrot
+maid
+puzzle
+kitten
+senior
+lobster
+bundle |  
+| bip_39_word_new_line8 | parrot
+maid
+puzzle
+kitten
+senior
+lobster
+bundle
+merry |  
+| bip_39_word_new_line9 | parrot
+maid
+puzzle
+kitten
+senior
+lobster
+bundle
+merry
+dinosaur |  
+| bip_39_word_space_0 | ['parrot', 'maid', 'puzzle', 'kitten', 'senior', 'lobster', 'bundle', 'merry', 'dinosaur', 'people', 'mix', 'antenna'] |  
+| bip_39_word_space_1 | parrot |  
+| bip_39_word_space_10 | parrot maid puzzle kitten senior lobster bundle merry dinosaur people |  
+| bip_39_word_space_11 | parrot maid puzzle kitten senior lobster bundle merry dinosaur people mix |  
+| bip_39_word_space_12 | parrot maid puzzle kitten senior lobster bundle merry dinosaur people mix antenna |  
+| bip_39_word_space_2 | parrot maid |  
+| bip_39_word_space_3 | parrot maid puzzle |  
+| bip_39_word_space_4 | parrot maid puzzle kitten |  
+| bip_39_word_space_5 | parrot maid puzzle kitten senior |  
+| bip_39_word_space_6 | parrot maid puzzle kitten senior lobster |  
+| bip_39_word_space_7 | parrot maid puzzle kitten senior lobster bundle |  
+| bip_39_word_space_8 | parrot maid puzzle kitten senior lobster bundle merry |  
+| bip_39_word_space_9 | parrot maid puzzle kitten senior lobster bundle merry dinosaur |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

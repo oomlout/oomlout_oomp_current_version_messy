@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slab west
+  * bip 39 word 3: slab west swim
+  * bip 39 word: slab west swim affair fiction tray taxi toward want mobile long already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slab |  
+| bip_39_word_new_br10 | slab<br>west<br>swim<br>affair<br>fiction<br>tray<br>taxi<br>toward<br>want<br>mobile |  
+| bip_39_word_new_br11 | slab<br>west<br>swim<br>affair<br>fiction<br>tray<br>taxi<br>toward<br>want<br>mobile<br>long |  
+| bip_39_word_new_br12 | slab<br>west<br>swim<br>affair<br>fiction<br>tray<br>taxi<br>toward<br>want<br>mobile<br>long<br>already |  
+| bip_39_word_new_br2 | slab<br>west |  
+| bip_39_word_new_br3 | slab<br>west<br>swim |  
+| bip_39_word_new_br4 | slab<br>west<br>swim<br>affair |  
+| bip_39_word_new_br5 | slab<br>west<br>swim<br>affair<br>fiction |  
+| bip_39_word_new_br6 | slab<br>west<br>swim<br>affair<br>fiction<br>tray |  
+| bip_39_word_new_br7 | slab<br>west<br>swim<br>affair<br>fiction<br>tray<br>taxi |  
+| bip_39_word_new_br8 | slab<br>west<br>swim<br>affair<br>fiction<br>tray<br>taxi<br>toward |  
+| bip_39_word_new_br9 | slab<br>west<br>swim<br>affair<br>fiction<br>tray<br>taxi<br>toward<br>want |  
+| bip_39_word_new_line1 | slab |  
+| bip_39_word_new_line10 | slab
+west
+swim
+affair
+fiction
+tray
+taxi
+toward
+want
+mobile |  
+| bip_39_word_new_line11 | slab
+west
+swim
+affair
+fiction
+tray
+taxi
+toward
+want
+mobile
+long |  
+| bip_39_word_new_line12 | slab
+west
+swim
+affair
+fiction
+tray
+taxi
+toward
+want
+mobile
+long
+already |  
+| bip_39_word_new_line2 | slab
+west |  
+| bip_39_word_new_line3 | slab
+west
+swim |  
+| bip_39_word_new_line4 | slab
+west
+swim
+affair |  
+| bip_39_word_new_line5 | slab
+west
+swim
+affair
+fiction |  
+| bip_39_word_new_line6 | slab
+west
+swim
+affair
+fiction
+tray |  
+| bip_39_word_new_line7 | slab
+west
+swim
+affair
+fiction
+tray
+taxi |  
+| bip_39_word_new_line8 | slab
+west
+swim
+affair
+fiction
+tray
+taxi
+toward |  
+| bip_39_word_new_line9 | slab
+west
+swim
+affair
+fiction
+tray
+taxi
+toward
+want |  
+| bip_39_word_space_0 | ['slab', 'west', 'swim', 'affair', 'fiction', 'tray', 'taxi', 'toward', 'want', 'mobile', 'long', 'already'] |  
+| bip_39_word_space_1 | slab |  
+| bip_39_word_space_10 | slab west swim affair fiction tray taxi toward want mobile |  
+| bip_39_word_space_11 | slab west swim affair fiction tray taxi toward want mobile long |  
+| bip_39_word_space_12 | slab west swim affair fiction tray taxi toward want mobile long already |  
+| bip_39_word_space_2 | slab west |  
+| bip_39_word_space_3 | slab west swim |  
+| bip_39_word_space_4 | slab west swim affair |  
+| bip_39_word_space_5 | slab west swim affair fiction |  
+| bip_39_word_space_6 | slab west swim affair fiction tray |  
+| bip_39_word_space_7 | slab west swim affair fiction tray taxi |  
+| bip_39_word_space_8 | slab west swim affair fiction tray taxi toward |  
+| bip_39_word_space_9 | slab west swim affair fiction tray taxi toward want |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: museum
+bip_39_word_new_br10: museum<br>bulk<br>dinner<br>page<br>raven<br>shed<br>carpet<br>melody<br>spawn<br>crush
+bip_39_word_new_br11: museum<br>bulk<br>dinner<br>page<br>raven<br>shed<br>carpet<br>melody<br>spawn<br>crush<br>lucky
+bip_39_word_new_br12: museum<br>bulk<br>dinner<br>page<br>raven<br>shed<br>carpet<br>melody<br>spawn<br>crush<br>lucky<br>area
+bip_39_word_new_br2: museum<br>bulk
+bip_39_word_new_br3: museum<br>bulk<br>dinner
+bip_39_word_new_br4: museum<br>bulk<br>dinner<br>page
+bip_39_word_new_br5: museum<br>bulk<br>dinner<br>page<br>raven
+bip_39_word_new_br6: museum<br>bulk<br>dinner<br>page<br>raven<br>shed
+bip_39_word_new_br7: museum<br>bulk<br>dinner<br>page<br>raven<br>shed<br>carpet
+bip_39_word_new_br8: museum<br>bulk<br>dinner<br>page<br>raven<br>shed<br>carpet<br>melody
+bip_39_word_new_br9: museum<br>bulk<br>dinner<br>page<br>raven<br>shed<br>carpet<br>melody<br>spawn
+bip_39_word_new_line1: museum
+bip_39_word_new_line10: 'museum
+
+  bulk
+
+  dinner
+
+  page
+
+  raven
+
+  shed
+
+  carpet
+
+  melody
+
+  spawn
+
+  crush'
+bip_39_word_new_line11: 'museum
+
+  bulk
+
+  dinner
+
+  page
+
+  raven
+
+  shed
+
+  carpet
+
+  melody
+
+  spawn
+
+  crush
+
+  lucky'
+bip_39_word_new_line12: 'museum
+
+  bulk
+
+  dinner
+
+  page
+
+  raven
+
+  shed
+
+  carpet
+
+  melody
+
+  spawn
+
+  crush
+
+  lucky
+
+  area'
+bip_39_word_new_line2: 'museum
+
+  bulk'
+bip_39_word_new_line3: 'museum
+
+  bulk
+
+  dinner'
+bip_39_word_new_line4: 'museum
+
+  bulk
+
+  dinner
+
+  page'
+bip_39_word_new_line5: 'museum
+
+  bulk
+
+  dinner
+
+  page
+
+  raven'
+bip_39_word_new_line6: 'museum
+
+  bulk
+
+  dinner
+
+  page
+
+  raven
+
+  shed'
+bip_39_word_new_line7: 'museum
+
+  bulk
+
+  dinner
+
+  page
+
+  raven
+
+  shed
+
+  carpet'
+bip_39_word_new_line8: 'museum
+
+  bulk
+
+  dinner
+
+  page
+
+  raven
+
+  shed
+
+  carpet
+
+  melody'
+bip_39_word_new_line9: 'museum
+
+  bulk
+
+  dinner
+
+  page
+
+  raven
+
+  shed
+
+  carpet
+
+  melody
+
+  spawn'
+bip_39_word_space_0:
+- museum
+- bulk
+- dinner
+- page
+- raven
+- shed
+- carpet
+- melody
+- spawn
+- crush
+- lucky
+- area
+bip_39_word_space_1: museum
+bip_39_word_space_10: museum bulk dinner page raven shed carpet melody spawn crush
+bip_39_word_space_11: museum bulk dinner page raven shed carpet melody spawn crush
+  lucky
+bip_39_word_space_12: museum bulk dinner page raven shed carpet melody spawn crush
+  lucky area
+bip_39_word_space_2: museum bulk
+bip_39_word_space_3: museum bulk dinner
+bip_39_word_space_4: museum bulk dinner page
+bip_39_word_space_5: museum bulk dinner page raven
+bip_39_word_space_6: museum bulk dinner page raven shed
+bip_39_word_space_7: museum bulk dinner page raven shed carpet
+bip_39_word_space_8: museum bulk dinner page raven shed carpet melody
+bip_39_word_space_9: museum bulk dinner page raven shed carpet melody spawn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

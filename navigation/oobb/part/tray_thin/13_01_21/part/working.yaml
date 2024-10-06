@@ -1,3 +1,186 @@
+bip_39_word_new_br1: high
+bip_39_word_new_br10: high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff
+bip_39_word_new_br11: high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff<br>tuition
+bip_39_word_new_br12: high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe<br>sheriff<br>tuition<br>abstract
+bip_39_word_new_br2: high<br>cattle
+bip_39_word_new_br3: high<br>cattle<br>follow
+bip_39_word_new_br4: high<br>cattle<br>follow<br>alter
+bip_39_word_new_br5: high<br>cattle<br>follow<br>alter<br>order
+bip_39_word_new_br6: high<br>cattle<br>follow<br>alter<br>order<br>gain
+bip_39_word_new_br7: high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard
+bip_39_word_new_br8: high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote
+bip_39_word_new_br9: high<br>cattle<br>follow<br>alter<br>order<br>gain<br>hazard<br>vote<br>safe
+bip_39_word_new_line1: high
+bip_39_word_new_line10: 'high
+
+  cattle
+
+  follow
+
+  alter
+
+  order
+
+  gain
+
+  hazard
+
+  vote
+
+  safe
+
+  sheriff'
+bip_39_word_new_line11: 'high
+
+  cattle
+
+  follow
+
+  alter
+
+  order
+
+  gain
+
+  hazard
+
+  vote
+
+  safe
+
+  sheriff
+
+  tuition'
+bip_39_word_new_line12: 'high
+
+  cattle
+
+  follow
+
+  alter
+
+  order
+
+  gain
+
+  hazard
+
+  vote
+
+  safe
+
+  sheriff
+
+  tuition
+
+  abstract'
+bip_39_word_new_line2: 'high
+
+  cattle'
+bip_39_word_new_line3: 'high
+
+  cattle
+
+  follow'
+bip_39_word_new_line4: 'high
+
+  cattle
+
+  follow
+
+  alter'
+bip_39_word_new_line5: 'high
+
+  cattle
+
+  follow
+
+  alter
+
+  order'
+bip_39_word_new_line6: 'high
+
+  cattle
+
+  follow
+
+  alter
+
+  order
+
+  gain'
+bip_39_word_new_line7: 'high
+
+  cattle
+
+  follow
+
+  alter
+
+  order
+
+  gain
+
+  hazard'
+bip_39_word_new_line8: 'high
+
+  cattle
+
+  follow
+
+  alter
+
+  order
+
+  gain
+
+  hazard
+
+  vote'
+bip_39_word_new_line9: 'high
+
+  cattle
+
+  follow
+
+  alter
+
+  order
+
+  gain
+
+  hazard
+
+  vote
+
+  safe'
+bip_39_word_space_0:
+- high
+- cattle
+- follow
+- alter
+- order
+- gain
+- hazard
+- vote
+- safe
+- sheriff
+- tuition
+- abstract
+bip_39_word_space_1: high
+bip_39_word_space_10: high cattle follow alter order gain hazard vote safe sheriff
+bip_39_word_space_11: high cattle follow alter order gain hazard vote safe sheriff
+  tuition
+bip_39_word_space_12: high cattle follow alter order gain hazard vote safe sheriff
+  tuition abstract
+bip_39_word_space_2: high cattle
+bip_39_word_space_3: high cattle follow
+bip_39_word_space_4: high cattle follow alter
+bip_39_word_space_5: high cattle follow alter order
+bip_39_word_space_6: high cattle follow alter order gain
+bip_39_word_space_7: high cattle follow alter order gain hazard
+bip_39_word_space_8: high cattle follow alter order gain hazard vote
+bip_39_word_space_9: high cattle follow alter order gain hazard vote safe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: green
+bip_39_word_new_br10: green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn
+bip_39_word_new_br11: green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn<br>icon
+bip_39_word_new_br12: green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel<br>turn<br>icon<br>able
+bip_39_word_new_br2: green<br>disorder
+bip_39_word_new_br3: green<br>disorder<br>various
+bip_39_word_new_br4: green<br>disorder<br>various<br>ostrich
+bip_39_word_new_br5: green<br>disorder<br>various<br>ostrich<br>genius
+bip_39_word_new_br6: green<br>disorder<br>various<br>ostrich<br>genius<br>notice
+bip_39_word_new_br7: green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile
+bip_39_word_new_br8: green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find
+bip_39_word_new_br9: green<br>disorder<br>various<br>ostrich<br>genius<br>notice<br>mobile<br>find<br>travel
+bip_39_word_new_line1: green
+bip_39_word_new_line10: 'green
+
+  disorder
+
+  various
+
+  ostrich
+
+  genius
+
+  notice
+
+  mobile
+
+  find
+
+  travel
+
+  turn'
+bip_39_word_new_line11: 'green
+
+  disorder
+
+  various
+
+  ostrich
+
+  genius
+
+  notice
+
+  mobile
+
+  find
+
+  travel
+
+  turn
+
+  icon'
+bip_39_word_new_line12: 'green
+
+  disorder
+
+  various
+
+  ostrich
+
+  genius
+
+  notice
+
+  mobile
+
+  find
+
+  travel
+
+  turn
+
+  icon
+
+  able'
+bip_39_word_new_line2: 'green
+
+  disorder'
+bip_39_word_new_line3: 'green
+
+  disorder
+
+  various'
+bip_39_word_new_line4: 'green
+
+  disorder
+
+  various
+
+  ostrich'
+bip_39_word_new_line5: 'green
+
+  disorder
+
+  various
+
+  ostrich
+
+  genius'
+bip_39_word_new_line6: 'green
+
+  disorder
+
+  various
+
+  ostrich
+
+  genius
+
+  notice'
+bip_39_word_new_line7: 'green
+
+  disorder
+
+  various
+
+  ostrich
+
+  genius
+
+  notice
+
+  mobile'
+bip_39_word_new_line8: 'green
+
+  disorder
+
+  various
+
+  ostrich
+
+  genius
+
+  notice
+
+  mobile
+
+  find'
+bip_39_word_new_line9: 'green
+
+  disorder
+
+  various
+
+  ostrich
+
+  genius
+
+  notice
+
+  mobile
+
+  find
+
+  travel'
+bip_39_word_space_0:
+- green
+- disorder
+- various
+- ostrich
+- genius
+- notice
+- mobile
+- find
+- travel
+- turn
+- icon
+- able
+bip_39_word_space_1: green
+bip_39_word_space_10: green disorder various ostrich genius notice mobile find travel
+  turn
+bip_39_word_space_11: green disorder various ostrich genius notice mobile find travel
+  turn icon
+bip_39_word_space_12: green disorder various ostrich genius notice mobile find travel
+  turn icon able
+bip_39_word_space_2: green disorder
+bip_39_word_space_3: green disorder various
+bip_39_word_space_4: green disorder various ostrich
+bip_39_word_space_5: green disorder various ostrich genius
+bip_39_word_space_6: green disorder various ostrich genius notice
+bip_39_word_space_7: green disorder various ostrich genius notice mobile
+bip_39_word_space_8: green disorder various ostrich genius notice mobile find
+bip_39_word_space_9: green disorder various ostrich genius notice mobile find travel
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

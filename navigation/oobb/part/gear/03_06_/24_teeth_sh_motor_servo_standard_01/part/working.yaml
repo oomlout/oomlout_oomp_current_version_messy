@@ -1,3 +1,187 @@
+bip_39_word_new_br1: collect
+bip_39_word_new_br10: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest
+bip_39_word_new_br11: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest<br>enable
+bip_39_word_new_br12: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal<br>arrest<br>enable<br>apart
+bip_39_word_new_br2: collect<br>sausage
+bip_39_word_new_br3: collect<br>sausage<br>float
+bip_39_word_new_br4: collect<br>sausage<br>float<br>alien
+bip_39_word_new_br5: collect<br>sausage<br>float<br>alien<br>canoe
+bip_39_word_new_br6: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz
+bip_39_word_new_br7: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale
+bip_39_word_new_br8: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence
+bip_39_word_new_br9: collect<br>sausage<br>float<br>alien<br>canoe<br>buzz<br>inhale<br>sentence<br>equal
+bip_39_word_new_line1: collect
+bip_39_word_new_line10: 'collect
+
+  sausage
+
+  float
+
+  alien
+
+  canoe
+
+  buzz
+
+  inhale
+
+  sentence
+
+  equal
+
+  arrest'
+bip_39_word_new_line11: 'collect
+
+  sausage
+
+  float
+
+  alien
+
+  canoe
+
+  buzz
+
+  inhale
+
+  sentence
+
+  equal
+
+  arrest
+
+  enable'
+bip_39_word_new_line12: 'collect
+
+  sausage
+
+  float
+
+  alien
+
+  canoe
+
+  buzz
+
+  inhale
+
+  sentence
+
+  equal
+
+  arrest
+
+  enable
+
+  apart'
+bip_39_word_new_line2: 'collect
+
+  sausage'
+bip_39_word_new_line3: 'collect
+
+  sausage
+
+  float'
+bip_39_word_new_line4: 'collect
+
+  sausage
+
+  float
+
+  alien'
+bip_39_word_new_line5: 'collect
+
+  sausage
+
+  float
+
+  alien
+
+  canoe'
+bip_39_word_new_line6: 'collect
+
+  sausage
+
+  float
+
+  alien
+
+  canoe
+
+  buzz'
+bip_39_word_new_line7: 'collect
+
+  sausage
+
+  float
+
+  alien
+
+  canoe
+
+  buzz
+
+  inhale'
+bip_39_word_new_line8: 'collect
+
+  sausage
+
+  float
+
+  alien
+
+  canoe
+
+  buzz
+
+  inhale
+
+  sentence'
+bip_39_word_new_line9: 'collect
+
+  sausage
+
+  float
+
+  alien
+
+  canoe
+
+  buzz
+
+  inhale
+
+  sentence
+
+  equal'
+bip_39_word_space_0:
+- collect
+- sausage
+- float
+- alien
+- canoe
+- buzz
+- inhale
+- sentence
+- equal
+- arrest
+- enable
+- apart
+bip_39_word_space_1: collect
+bip_39_word_space_10: collect sausage float alien canoe buzz inhale sentence equal
+  arrest
+bip_39_word_space_11: collect sausage float alien canoe buzz inhale sentence equal
+  arrest enable
+bip_39_word_space_12: collect sausage float alien canoe buzz inhale sentence equal
+  arrest enable apart
+bip_39_word_space_2: collect sausage
+bip_39_word_space_3: collect sausage float
+bip_39_word_space_4: collect sausage float alien
+bip_39_word_space_5: collect sausage float alien canoe
+bip_39_word_space_6: collect sausage float alien canoe buzz
+bip_39_word_space_7: collect sausage float alien canoe buzz inhale
+bip_39_word_space_8: collect sausage float alien canoe buzz inhale sentence
+bip_39_word_space_9: collect sausage float alien canoe buzz inhale sentence equal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

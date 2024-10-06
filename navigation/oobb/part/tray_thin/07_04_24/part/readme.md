@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rapid wrap
+  * bip 39 word 3: rapid wrap category
+  * bip 39 word: rapid wrap category jaguar rule genius isolate melody edge modify trim any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rapid |  
+| bip_39_word_new_br10 | rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius<br>isolate<br>melody<br>edge<br>modify |  
+| bip_39_word_new_br11 | rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius<br>isolate<br>melody<br>edge<br>modify<br>trim |  
+| bip_39_word_new_br12 | rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius<br>isolate<br>melody<br>edge<br>modify<br>trim<br>any |  
+| bip_39_word_new_br2 | rapid<br>wrap |  
+| bip_39_word_new_br3 | rapid<br>wrap<br>category |  
+| bip_39_word_new_br4 | rapid<br>wrap<br>category<br>jaguar |  
+| bip_39_word_new_br5 | rapid<br>wrap<br>category<br>jaguar<br>rule |  
+| bip_39_word_new_br6 | rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius |  
+| bip_39_word_new_br7 | rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius<br>isolate |  
+| bip_39_word_new_br8 | rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius<br>isolate<br>melody |  
+| bip_39_word_new_br9 | rapid<br>wrap<br>category<br>jaguar<br>rule<br>genius<br>isolate<br>melody<br>edge |  
+| bip_39_word_new_line1 | rapid |  
+| bip_39_word_new_line10 | rapid
+wrap
+category
+jaguar
+rule
+genius
+isolate
+melody
+edge
+modify |  
+| bip_39_word_new_line11 | rapid
+wrap
+category
+jaguar
+rule
+genius
+isolate
+melody
+edge
+modify
+trim |  
+| bip_39_word_new_line12 | rapid
+wrap
+category
+jaguar
+rule
+genius
+isolate
+melody
+edge
+modify
+trim
+any |  
+| bip_39_word_new_line2 | rapid
+wrap |  
+| bip_39_word_new_line3 | rapid
+wrap
+category |  
+| bip_39_word_new_line4 | rapid
+wrap
+category
+jaguar |  
+| bip_39_word_new_line5 | rapid
+wrap
+category
+jaguar
+rule |  
+| bip_39_word_new_line6 | rapid
+wrap
+category
+jaguar
+rule
+genius |  
+| bip_39_word_new_line7 | rapid
+wrap
+category
+jaguar
+rule
+genius
+isolate |  
+| bip_39_word_new_line8 | rapid
+wrap
+category
+jaguar
+rule
+genius
+isolate
+melody |  
+| bip_39_word_new_line9 | rapid
+wrap
+category
+jaguar
+rule
+genius
+isolate
+melody
+edge |  
+| bip_39_word_space_0 | ['rapid', 'wrap', 'category', 'jaguar', 'rule', 'genius', 'isolate', 'melody', 'edge', 'modify', 'trim', 'any'] |  
+| bip_39_word_space_1 | rapid |  
+| bip_39_word_space_10 | rapid wrap category jaguar rule genius isolate melody edge modify |  
+| bip_39_word_space_11 | rapid wrap category jaguar rule genius isolate melody edge modify trim |  
+| bip_39_word_space_12 | rapid wrap category jaguar rule genius isolate melody edge modify trim any |  
+| bip_39_word_space_2 | rapid wrap |  
+| bip_39_word_space_3 | rapid wrap category |  
+| bip_39_word_space_4 | rapid wrap category jaguar |  
+| bip_39_word_space_5 | rapid wrap category jaguar rule |  
+| bip_39_word_space_6 | rapid wrap category jaguar rule genius |  
+| bip_39_word_space_7 | rapid wrap category jaguar rule genius isolate |  
+| bip_39_word_space_8 | rapid wrap category jaguar rule genius isolate melody |  
+| bip_39_word_space_9 | rapid wrap category jaguar rule genius isolate melody edge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

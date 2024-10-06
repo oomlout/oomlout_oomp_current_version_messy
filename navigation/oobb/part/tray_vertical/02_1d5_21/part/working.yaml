@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spell
+bip_39_word_new_br10: spell<br>problem<br>enrich<br>relief<br>ladder<br>web<br>cereal<br>uncle<br>calm<br>spike
+bip_39_word_new_br11: spell<br>problem<br>enrich<br>relief<br>ladder<br>web<br>cereal<br>uncle<br>calm<br>spike<br>tomato
+bip_39_word_new_br12: spell<br>problem<br>enrich<br>relief<br>ladder<br>web<br>cereal<br>uncle<br>calm<br>spike<br>tomato<br>any
+bip_39_word_new_br2: spell<br>problem
+bip_39_word_new_br3: spell<br>problem<br>enrich
+bip_39_word_new_br4: spell<br>problem<br>enrich<br>relief
+bip_39_word_new_br5: spell<br>problem<br>enrich<br>relief<br>ladder
+bip_39_word_new_br6: spell<br>problem<br>enrich<br>relief<br>ladder<br>web
+bip_39_word_new_br7: spell<br>problem<br>enrich<br>relief<br>ladder<br>web<br>cereal
+bip_39_word_new_br8: spell<br>problem<br>enrich<br>relief<br>ladder<br>web<br>cereal<br>uncle
+bip_39_word_new_br9: spell<br>problem<br>enrich<br>relief<br>ladder<br>web<br>cereal<br>uncle<br>calm
+bip_39_word_new_line1: spell
+bip_39_word_new_line10: 'spell
+
+  problem
+
+  enrich
+
+  relief
+
+  ladder
+
+  web
+
+  cereal
+
+  uncle
+
+  calm
+
+  spike'
+bip_39_word_new_line11: 'spell
+
+  problem
+
+  enrich
+
+  relief
+
+  ladder
+
+  web
+
+  cereal
+
+  uncle
+
+  calm
+
+  spike
+
+  tomato'
+bip_39_word_new_line12: 'spell
+
+  problem
+
+  enrich
+
+  relief
+
+  ladder
+
+  web
+
+  cereal
+
+  uncle
+
+  calm
+
+  spike
+
+  tomato
+
+  any'
+bip_39_word_new_line2: 'spell
+
+  problem'
+bip_39_word_new_line3: 'spell
+
+  problem
+
+  enrich'
+bip_39_word_new_line4: 'spell
+
+  problem
+
+  enrich
+
+  relief'
+bip_39_word_new_line5: 'spell
+
+  problem
+
+  enrich
+
+  relief
+
+  ladder'
+bip_39_word_new_line6: 'spell
+
+  problem
+
+  enrich
+
+  relief
+
+  ladder
+
+  web'
+bip_39_word_new_line7: 'spell
+
+  problem
+
+  enrich
+
+  relief
+
+  ladder
+
+  web
+
+  cereal'
+bip_39_word_new_line8: 'spell
+
+  problem
+
+  enrich
+
+  relief
+
+  ladder
+
+  web
+
+  cereal
+
+  uncle'
+bip_39_word_new_line9: 'spell
+
+  problem
+
+  enrich
+
+  relief
+
+  ladder
+
+  web
+
+  cereal
+
+  uncle
+
+  calm'
+bip_39_word_space_0:
+- spell
+- problem
+- enrich
+- relief
+- ladder
+- web
+- cereal
+- uncle
+- calm
+- spike
+- tomato
+- any
+bip_39_word_space_1: spell
+bip_39_word_space_10: spell problem enrich relief ladder web cereal uncle calm spike
+bip_39_word_space_11: spell problem enrich relief ladder web cereal uncle calm spike
+  tomato
+bip_39_word_space_12: spell problem enrich relief ladder web cereal uncle calm spike
+  tomato any
+bip_39_word_space_2: spell problem
+bip_39_word_space_3: spell problem enrich
+bip_39_word_space_4: spell problem enrich relief
+bip_39_word_space_5: spell problem enrich relief ladder
+bip_39_word_space_6: spell problem enrich relief ladder web
+bip_39_word_space_7: spell problem enrich relief ladder web cereal
+bip_39_word_space_8: spell problem enrich relief ladder web cereal uncle
+bip_39_word_space_9: spell problem enrich relief ladder web cereal uncle calm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

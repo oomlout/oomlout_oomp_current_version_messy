@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sadness immense
+  * bip 39 word 3: sadness immense display
+  * bip 39 word: sadness immense display arrive pigeon buddy swarm crisp next fly love annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sadness |  
+| bip_39_word_new_br10 | sadness<br>immense<br>display<br>arrive<br>pigeon<br>buddy<br>swarm<br>crisp<br>next<br>fly |  
+| bip_39_word_new_br11 | sadness<br>immense<br>display<br>arrive<br>pigeon<br>buddy<br>swarm<br>crisp<br>next<br>fly<br>love |  
+| bip_39_word_new_br12 | sadness<br>immense<br>display<br>arrive<br>pigeon<br>buddy<br>swarm<br>crisp<br>next<br>fly<br>love<br>annual |  
+| bip_39_word_new_br2 | sadness<br>immense |  
+| bip_39_word_new_br3 | sadness<br>immense<br>display |  
+| bip_39_word_new_br4 | sadness<br>immense<br>display<br>arrive |  
+| bip_39_word_new_br5 | sadness<br>immense<br>display<br>arrive<br>pigeon |  
+| bip_39_word_new_br6 | sadness<br>immense<br>display<br>arrive<br>pigeon<br>buddy |  
+| bip_39_word_new_br7 | sadness<br>immense<br>display<br>arrive<br>pigeon<br>buddy<br>swarm |  
+| bip_39_word_new_br8 | sadness<br>immense<br>display<br>arrive<br>pigeon<br>buddy<br>swarm<br>crisp |  
+| bip_39_word_new_br9 | sadness<br>immense<br>display<br>arrive<br>pigeon<br>buddy<br>swarm<br>crisp<br>next |  
+| bip_39_word_new_line1 | sadness |  
+| bip_39_word_new_line10 | sadness
+immense
+display
+arrive
+pigeon
+buddy
+swarm
+crisp
+next
+fly |  
+| bip_39_word_new_line11 | sadness
+immense
+display
+arrive
+pigeon
+buddy
+swarm
+crisp
+next
+fly
+love |  
+| bip_39_word_new_line12 | sadness
+immense
+display
+arrive
+pigeon
+buddy
+swarm
+crisp
+next
+fly
+love
+annual |  
+| bip_39_word_new_line2 | sadness
+immense |  
+| bip_39_word_new_line3 | sadness
+immense
+display |  
+| bip_39_word_new_line4 | sadness
+immense
+display
+arrive |  
+| bip_39_word_new_line5 | sadness
+immense
+display
+arrive
+pigeon |  
+| bip_39_word_new_line6 | sadness
+immense
+display
+arrive
+pigeon
+buddy |  
+| bip_39_word_new_line7 | sadness
+immense
+display
+arrive
+pigeon
+buddy
+swarm |  
+| bip_39_word_new_line8 | sadness
+immense
+display
+arrive
+pigeon
+buddy
+swarm
+crisp |  
+| bip_39_word_new_line9 | sadness
+immense
+display
+arrive
+pigeon
+buddy
+swarm
+crisp
+next |  
+| bip_39_word_space_0 | ['sadness', 'immense', 'display', 'arrive', 'pigeon', 'buddy', 'swarm', 'crisp', 'next', 'fly', 'love', 'annual'] |  
+| bip_39_word_space_1 | sadness |  
+| bip_39_word_space_10 | sadness immense display arrive pigeon buddy swarm crisp next fly |  
+| bip_39_word_space_11 | sadness immense display arrive pigeon buddy swarm crisp next fly love |  
+| bip_39_word_space_12 | sadness immense display arrive pigeon buddy swarm crisp next fly love annual |  
+| bip_39_word_space_2 | sadness immense |  
+| bip_39_word_space_3 | sadness immense display |  
+| bip_39_word_space_4 | sadness immense display arrive |  
+| bip_39_word_space_5 | sadness immense display arrive pigeon |  
+| bip_39_word_space_6 | sadness immense display arrive pigeon buddy |  
+| bip_39_word_space_7 | sadness immense display arrive pigeon buddy swarm |  
+| bip_39_word_space_8 | sadness immense display arrive pigeon buddy swarm crisp |  
+| bip_39_word_space_9 | sadness immense display arrive pigeon buddy swarm crisp next |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

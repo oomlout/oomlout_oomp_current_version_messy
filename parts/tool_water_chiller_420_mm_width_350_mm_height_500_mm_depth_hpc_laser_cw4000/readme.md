@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: hpc_laser
   * part_number: cw4000
+  * bip 39 word 2: office obscure
+  * bip 39 word 3: office obscure invite
+  * bip 39 word: office obscure invite speed replace hold february security gate detect side address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | office |  
+| bip_39_word_new_br10 | office<br>obscure<br>invite<br>speed<br>replace<br>hold<br>february<br>security<br>gate<br>detect |  
+| bip_39_word_new_br11 | office<br>obscure<br>invite<br>speed<br>replace<br>hold<br>february<br>security<br>gate<br>detect<br>side |  
+| bip_39_word_new_br12 | office<br>obscure<br>invite<br>speed<br>replace<br>hold<br>february<br>security<br>gate<br>detect<br>side<br>address |  
+| bip_39_word_new_br2 | office<br>obscure |  
+| bip_39_word_new_br3 | office<br>obscure<br>invite |  
+| bip_39_word_new_br4 | office<br>obscure<br>invite<br>speed |  
+| bip_39_word_new_br5 | office<br>obscure<br>invite<br>speed<br>replace |  
+| bip_39_word_new_br6 | office<br>obscure<br>invite<br>speed<br>replace<br>hold |  
+| bip_39_word_new_br7 | office<br>obscure<br>invite<br>speed<br>replace<br>hold<br>february |  
+| bip_39_word_new_br8 | office<br>obscure<br>invite<br>speed<br>replace<br>hold<br>february<br>security |  
+| bip_39_word_new_br9 | office<br>obscure<br>invite<br>speed<br>replace<br>hold<br>february<br>security<br>gate |  
+| bip_39_word_new_line1 | office |  
+| bip_39_word_new_line10 | office
+obscure
+invite
+speed
+replace
+hold
+february
+security
+gate
+detect |  
+| bip_39_word_new_line11 | office
+obscure
+invite
+speed
+replace
+hold
+february
+security
+gate
+detect
+side |  
+| bip_39_word_new_line12 | office
+obscure
+invite
+speed
+replace
+hold
+february
+security
+gate
+detect
+side
+address |  
+| bip_39_word_new_line2 | office
+obscure |  
+| bip_39_word_new_line3 | office
+obscure
+invite |  
+| bip_39_word_new_line4 | office
+obscure
+invite
+speed |  
+| bip_39_word_new_line5 | office
+obscure
+invite
+speed
+replace |  
+| bip_39_word_new_line6 | office
+obscure
+invite
+speed
+replace
+hold |  
+| bip_39_word_new_line7 | office
+obscure
+invite
+speed
+replace
+hold
+february |  
+| bip_39_word_new_line8 | office
+obscure
+invite
+speed
+replace
+hold
+february
+security |  
+| bip_39_word_new_line9 | office
+obscure
+invite
+speed
+replace
+hold
+february
+security
+gate |  
+| bip_39_word_space_0 | ['office', 'obscure', 'invite', 'speed', 'replace', 'hold', 'february', 'security', 'gate', 'detect', 'side', 'address'] |  
+| bip_39_word_space_1 | office |  
+| bip_39_word_space_10 | office obscure invite speed replace hold february security gate detect |  
+| bip_39_word_space_11 | office obscure invite speed replace hold february security gate detect side |  
+| bip_39_word_space_12 | office obscure invite speed replace hold february security gate detect side address |  
+| bip_39_word_space_2 | office obscure |  
+| bip_39_word_space_3 | office obscure invite |  
+| bip_39_word_space_4 | office obscure invite speed |  
+| bip_39_word_space_5 | office obscure invite speed replace |  
+| bip_39_word_space_6 | office obscure invite speed replace hold |  
+| bip_39_word_space_7 | office obscure invite speed replace hold february |  
+| bip_39_word_space_8 | office obscure invite speed replace hold february security |  
+| bip_39_word_space_9 | office obscure invite speed replace hold february security gate |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

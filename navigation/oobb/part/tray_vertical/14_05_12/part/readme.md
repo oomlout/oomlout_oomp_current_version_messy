@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: accident snow
+  * bip 39 word 3: accident snow advance
+  * bip 39 word: accident snow advance patch elevator permit lesson embody way plug nasty adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | accident |  
+| bip_39_word_new_br10 | accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug |  
+| bip_39_word_new_br11 | accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug<br>nasty |  
+| bip_39_word_new_br12 | accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way<br>plug<br>nasty<br>adapt |  
+| bip_39_word_new_br2 | accident<br>snow |  
+| bip_39_word_new_br3 | accident<br>snow<br>advance |  
+| bip_39_word_new_br4 | accident<br>snow<br>advance<br>patch |  
+| bip_39_word_new_br5 | accident<br>snow<br>advance<br>patch<br>elevator |  
+| bip_39_word_new_br6 | accident<br>snow<br>advance<br>patch<br>elevator<br>permit |  
+| bip_39_word_new_br7 | accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson |  
+| bip_39_word_new_br8 | accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody |  
+| bip_39_word_new_br9 | accident<br>snow<br>advance<br>patch<br>elevator<br>permit<br>lesson<br>embody<br>way |  
+| bip_39_word_new_line1 | accident |  
+| bip_39_word_new_line10 | accident
+snow
+advance
+patch
+elevator
+permit
+lesson
+embody
+way
+plug |  
+| bip_39_word_new_line11 | accident
+snow
+advance
+patch
+elevator
+permit
+lesson
+embody
+way
+plug
+nasty |  
+| bip_39_word_new_line12 | accident
+snow
+advance
+patch
+elevator
+permit
+lesson
+embody
+way
+plug
+nasty
+adapt |  
+| bip_39_word_new_line2 | accident
+snow |  
+| bip_39_word_new_line3 | accident
+snow
+advance |  
+| bip_39_word_new_line4 | accident
+snow
+advance
+patch |  
+| bip_39_word_new_line5 | accident
+snow
+advance
+patch
+elevator |  
+| bip_39_word_new_line6 | accident
+snow
+advance
+patch
+elevator
+permit |  
+| bip_39_word_new_line7 | accident
+snow
+advance
+patch
+elevator
+permit
+lesson |  
+| bip_39_word_new_line8 | accident
+snow
+advance
+patch
+elevator
+permit
+lesson
+embody |  
+| bip_39_word_new_line9 | accident
+snow
+advance
+patch
+elevator
+permit
+lesson
+embody
+way |  
+| bip_39_word_space_0 | ['accident', 'snow', 'advance', 'patch', 'elevator', 'permit', 'lesson', 'embody', 'way', 'plug', 'nasty', 'adapt'] |  
+| bip_39_word_space_1 | accident |  
+| bip_39_word_space_10 | accident snow advance patch elevator permit lesson embody way plug |  
+| bip_39_word_space_11 | accident snow advance patch elevator permit lesson embody way plug nasty |  
+| bip_39_word_space_12 | accident snow advance patch elevator permit lesson embody way plug nasty adapt |  
+| bip_39_word_space_2 | accident snow |  
+| bip_39_word_space_3 | accident snow advance |  
+| bip_39_word_space_4 | accident snow advance patch |  
+| bip_39_word_space_5 | accident snow advance patch elevator |  
+| bip_39_word_space_6 | accident snow advance patch elevator permit |  
+| bip_39_word_space_7 | accident snow advance patch elevator permit lesson |  
+| bip_39_word_space_8 | accident snow advance patch elevator permit lesson embody |  
+| bip_39_word_space_9 | accident snow advance patch elevator permit lesson embody way |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

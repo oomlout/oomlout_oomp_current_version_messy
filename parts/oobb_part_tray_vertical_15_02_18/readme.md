@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: action face
+  * bip 39 word 3: action face toward
+  * bip 39 word: action face toward soft scissors company upgrade trend outer sight wonder ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | action |  
+| bip_39_word_new_br10 | action<br>face<br>toward<br>soft<br>scissors<br>company<br>upgrade<br>trend<br>outer<br>sight |  
+| bip_39_word_new_br11 | action<br>face<br>toward<br>soft<br>scissors<br>company<br>upgrade<br>trend<br>outer<br>sight<br>wonder |  
+| bip_39_word_new_br12 | action<br>face<br>toward<br>soft<br>scissors<br>company<br>upgrade<br>trend<br>outer<br>sight<br>wonder<br>ask |  
+| bip_39_word_new_br2 | action<br>face |  
+| bip_39_word_new_br3 | action<br>face<br>toward |  
+| bip_39_word_new_br4 | action<br>face<br>toward<br>soft |  
+| bip_39_word_new_br5 | action<br>face<br>toward<br>soft<br>scissors |  
+| bip_39_word_new_br6 | action<br>face<br>toward<br>soft<br>scissors<br>company |  
+| bip_39_word_new_br7 | action<br>face<br>toward<br>soft<br>scissors<br>company<br>upgrade |  
+| bip_39_word_new_br8 | action<br>face<br>toward<br>soft<br>scissors<br>company<br>upgrade<br>trend |  
+| bip_39_word_new_br9 | action<br>face<br>toward<br>soft<br>scissors<br>company<br>upgrade<br>trend<br>outer |  
+| bip_39_word_new_line1 | action |  
+| bip_39_word_new_line10 | action
+face
+toward
+soft
+scissors
+company
+upgrade
+trend
+outer
+sight |  
+| bip_39_word_new_line11 | action
+face
+toward
+soft
+scissors
+company
+upgrade
+trend
+outer
+sight
+wonder |  
+| bip_39_word_new_line12 | action
+face
+toward
+soft
+scissors
+company
+upgrade
+trend
+outer
+sight
+wonder
+ask |  
+| bip_39_word_new_line2 | action
+face |  
+| bip_39_word_new_line3 | action
+face
+toward |  
+| bip_39_word_new_line4 | action
+face
+toward
+soft |  
+| bip_39_word_new_line5 | action
+face
+toward
+soft
+scissors |  
+| bip_39_word_new_line6 | action
+face
+toward
+soft
+scissors
+company |  
+| bip_39_word_new_line7 | action
+face
+toward
+soft
+scissors
+company
+upgrade |  
+| bip_39_word_new_line8 | action
+face
+toward
+soft
+scissors
+company
+upgrade
+trend |  
+| bip_39_word_new_line9 | action
+face
+toward
+soft
+scissors
+company
+upgrade
+trend
+outer |  
+| bip_39_word_space_0 | ['action', 'face', 'toward', 'soft', 'scissors', 'company', 'upgrade', 'trend', 'outer', 'sight', 'wonder', 'ask'] |  
+| bip_39_word_space_1 | action |  
+| bip_39_word_space_10 | action face toward soft scissors company upgrade trend outer sight |  
+| bip_39_word_space_11 | action face toward soft scissors company upgrade trend outer sight wonder |  
+| bip_39_word_space_12 | action face toward soft scissors company upgrade trend outer sight wonder ask |  
+| bip_39_word_space_2 | action face |  
+| bip_39_word_space_3 | action face toward |  
+| bip_39_word_space_4 | action face toward soft |  
+| bip_39_word_space_5 | action face toward soft scissors |  
+| bip_39_word_space_6 | action face toward soft scissors company |  
+| bip_39_word_space_7 | action face toward soft scissors company upgrade |  
+| bip_39_word_space_8 | action face toward soft scissors company upgrade trend |  
+| bip_39_word_space_9 | action face toward soft scissors company upgrade trend outer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

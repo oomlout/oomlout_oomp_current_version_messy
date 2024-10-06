@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: myth pool
+  * bip 39 word 3: myth pool dash
+  * bip 39 word: myth pool dash swing chair answer pottery worry violin despair iron across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | myth |  
+| bip_39_word_new_br10 | myth<br>pool<br>dash<br>swing<br>chair<br>answer<br>pottery<br>worry<br>violin<br>despair |  
+| bip_39_word_new_br11 | myth<br>pool<br>dash<br>swing<br>chair<br>answer<br>pottery<br>worry<br>violin<br>despair<br>iron |  
+| bip_39_word_new_br12 | myth<br>pool<br>dash<br>swing<br>chair<br>answer<br>pottery<br>worry<br>violin<br>despair<br>iron<br>across |  
+| bip_39_word_new_br2 | myth<br>pool |  
+| bip_39_word_new_br3 | myth<br>pool<br>dash |  
+| bip_39_word_new_br4 | myth<br>pool<br>dash<br>swing |  
+| bip_39_word_new_br5 | myth<br>pool<br>dash<br>swing<br>chair |  
+| bip_39_word_new_br6 | myth<br>pool<br>dash<br>swing<br>chair<br>answer |  
+| bip_39_word_new_br7 | myth<br>pool<br>dash<br>swing<br>chair<br>answer<br>pottery |  
+| bip_39_word_new_br8 | myth<br>pool<br>dash<br>swing<br>chair<br>answer<br>pottery<br>worry |  
+| bip_39_word_new_br9 | myth<br>pool<br>dash<br>swing<br>chair<br>answer<br>pottery<br>worry<br>violin |  
+| bip_39_word_new_line1 | myth |  
+| bip_39_word_new_line10 | myth
+pool
+dash
+swing
+chair
+answer
+pottery
+worry
+violin
+despair |  
+| bip_39_word_new_line11 | myth
+pool
+dash
+swing
+chair
+answer
+pottery
+worry
+violin
+despair
+iron |  
+| bip_39_word_new_line12 | myth
+pool
+dash
+swing
+chair
+answer
+pottery
+worry
+violin
+despair
+iron
+across |  
+| bip_39_word_new_line2 | myth
+pool |  
+| bip_39_word_new_line3 | myth
+pool
+dash |  
+| bip_39_word_new_line4 | myth
+pool
+dash
+swing |  
+| bip_39_word_new_line5 | myth
+pool
+dash
+swing
+chair |  
+| bip_39_word_new_line6 | myth
+pool
+dash
+swing
+chair
+answer |  
+| bip_39_word_new_line7 | myth
+pool
+dash
+swing
+chair
+answer
+pottery |  
+| bip_39_word_new_line8 | myth
+pool
+dash
+swing
+chair
+answer
+pottery
+worry |  
+| bip_39_word_new_line9 | myth
+pool
+dash
+swing
+chair
+answer
+pottery
+worry
+violin |  
+| bip_39_word_space_0 | ['myth', 'pool', 'dash', 'swing', 'chair', 'answer', 'pottery', 'worry', 'violin', 'despair', 'iron', 'across'] |  
+| bip_39_word_space_1 | myth |  
+| bip_39_word_space_10 | myth pool dash swing chair answer pottery worry violin despair |  
+| bip_39_word_space_11 | myth pool dash swing chair answer pottery worry violin despair iron |  
+| bip_39_word_space_12 | myth pool dash swing chair answer pottery worry violin despair iron across |  
+| bip_39_word_space_2 | myth pool |  
+| bip_39_word_space_3 | myth pool dash |  
+| bip_39_word_space_4 | myth pool dash swing |  
+| bip_39_word_space_5 | myth pool dash swing chair |  
+| bip_39_word_space_6 | myth pool dash swing chair answer |  
+| bip_39_word_space_7 | myth pool dash swing chair answer pottery |  
+| bip_39_word_space_8 | myth pool dash swing chair answer pottery worry |  
+| bip_39_word_space_9 | myth pool dash swing chair answer pottery worry violin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: issue either
+  * bip 39 word 3: issue either bleak
+  * bip 39 word: issue either bleak coyote check salad that anxiety dry maid narrow allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | issue |  
+| bip_39_word_new_br10 | issue<br>either<br>bleak<br>coyote<br>check<br>salad<br>that<br>anxiety<br>dry<br>maid |  
+| bip_39_word_new_br11 | issue<br>either<br>bleak<br>coyote<br>check<br>salad<br>that<br>anxiety<br>dry<br>maid<br>narrow |  
+| bip_39_word_new_br12 | issue<br>either<br>bleak<br>coyote<br>check<br>salad<br>that<br>anxiety<br>dry<br>maid<br>narrow<br>allow |  
+| bip_39_word_new_br2 | issue<br>either |  
+| bip_39_word_new_br3 | issue<br>either<br>bleak |  
+| bip_39_word_new_br4 | issue<br>either<br>bleak<br>coyote |  
+| bip_39_word_new_br5 | issue<br>either<br>bleak<br>coyote<br>check |  
+| bip_39_word_new_br6 | issue<br>either<br>bleak<br>coyote<br>check<br>salad |  
+| bip_39_word_new_br7 | issue<br>either<br>bleak<br>coyote<br>check<br>salad<br>that |  
+| bip_39_word_new_br8 | issue<br>either<br>bleak<br>coyote<br>check<br>salad<br>that<br>anxiety |  
+| bip_39_word_new_br9 | issue<br>either<br>bleak<br>coyote<br>check<br>salad<br>that<br>anxiety<br>dry |  
+| bip_39_word_new_line1 | issue |  
+| bip_39_word_new_line10 | issue
+either
+bleak
+coyote
+check
+salad
+that
+anxiety
+dry
+maid |  
+| bip_39_word_new_line11 | issue
+either
+bleak
+coyote
+check
+salad
+that
+anxiety
+dry
+maid
+narrow |  
+| bip_39_word_new_line12 | issue
+either
+bleak
+coyote
+check
+salad
+that
+anxiety
+dry
+maid
+narrow
+allow |  
+| bip_39_word_new_line2 | issue
+either |  
+| bip_39_word_new_line3 | issue
+either
+bleak |  
+| bip_39_word_new_line4 | issue
+either
+bleak
+coyote |  
+| bip_39_word_new_line5 | issue
+either
+bleak
+coyote
+check |  
+| bip_39_word_new_line6 | issue
+either
+bleak
+coyote
+check
+salad |  
+| bip_39_word_new_line7 | issue
+either
+bleak
+coyote
+check
+salad
+that |  
+| bip_39_word_new_line8 | issue
+either
+bleak
+coyote
+check
+salad
+that
+anxiety |  
+| bip_39_word_new_line9 | issue
+either
+bleak
+coyote
+check
+salad
+that
+anxiety
+dry |  
+| bip_39_word_space_0 | ['issue', 'either', 'bleak', 'coyote', 'check', 'salad', 'that', 'anxiety', 'dry', 'maid', 'narrow', 'allow'] |  
+| bip_39_word_space_1 | issue |  
+| bip_39_word_space_10 | issue either bleak coyote check salad that anxiety dry maid |  
+| bip_39_word_space_11 | issue either bleak coyote check salad that anxiety dry maid narrow |  
+| bip_39_word_space_12 | issue either bleak coyote check salad that anxiety dry maid narrow allow |  
+| bip_39_word_space_2 | issue either |  
+| bip_39_word_space_3 | issue either bleak |  
+| bip_39_word_space_4 | issue either bleak coyote |  
+| bip_39_word_space_5 | issue either bleak coyote check |  
+| bip_39_word_space_6 | issue either bleak coyote check salad |  
+| bip_39_word_space_7 | issue either bleak coyote check salad that |  
+| bip_39_word_space_8 | issue either bleak coyote check salad that anxiety |  
+| bip_39_word_space_9 | issue either bleak coyote check salad that anxiety dry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

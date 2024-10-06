@@ -1,3 +1,186 @@
+bip_39_word_new_br1: obvious
+bip_39_word_new_br10: obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon
+bip_39_word_new_br11: obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon<br>divide
+bip_39_word_new_br12: obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp<br>upon<br>divide<br>affair
+bip_39_word_new_br2: obvious<br>giant
+bip_39_word_new_br3: obvious<br>giant<br>assume
+bip_39_word_new_br4: obvious<br>giant<br>assume<br>gift
+bip_39_word_new_br5: obvious<br>giant<br>assume<br>gift<br>hundred
+bip_39_word_new_br6: obvious<br>giant<br>assume<br>gift<br>hundred<br>truck
+bip_39_word_new_br7: obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy
+bip_39_word_new_br8: obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake
+bip_39_word_new_br9: obvious<br>giant<br>assume<br>gift<br>hundred<br>truck<br>buddy<br>lake<br>wasp
+bip_39_word_new_line1: obvious
+bip_39_word_new_line10: 'obvious
+
+  giant
+
+  assume
+
+  gift
+
+  hundred
+
+  truck
+
+  buddy
+
+  lake
+
+  wasp
+
+  upon'
+bip_39_word_new_line11: 'obvious
+
+  giant
+
+  assume
+
+  gift
+
+  hundred
+
+  truck
+
+  buddy
+
+  lake
+
+  wasp
+
+  upon
+
+  divide'
+bip_39_word_new_line12: 'obvious
+
+  giant
+
+  assume
+
+  gift
+
+  hundred
+
+  truck
+
+  buddy
+
+  lake
+
+  wasp
+
+  upon
+
+  divide
+
+  affair'
+bip_39_word_new_line2: 'obvious
+
+  giant'
+bip_39_word_new_line3: 'obvious
+
+  giant
+
+  assume'
+bip_39_word_new_line4: 'obvious
+
+  giant
+
+  assume
+
+  gift'
+bip_39_word_new_line5: 'obvious
+
+  giant
+
+  assume
+
+  gift
+
+  hundred'
+bip_39_word_new_line6: 'obvious
+
+  giant
+
+  assume
+
+  gift
+
+  hundred
+
+  truck'
+bip_39_word_new_line7: 'obvious
+
+  giant
+
+  assume
+
+  gift
+
+  hundred
+
+  truck
+
+  buddy'
+bip_39_word_new_line8: 'obvious
+
+  giant
+
+  assume
+
+  gift
+
+  hundred
+
+  truck
+
+  buddy
+
+  lake'
+bip_39_word_new_line9: 'obvious
+
+  giant
+
+  assume
+
+  gift
+
+  hundred
+
+  truck
+
+  buddy
+
+  lake
+
+  wasp'
+bip_39_word_space_0:
+- obvious
+- giant
+- assume
+- gift
+- hundred
+- truck
+- buddy
+- lake
+- wasp
+- upon
+- divide
+- affair
+bip_39_word_space_1: obvious
+bip_39_word_space_10: obvious giant assume gift hundred truck buddy lake wasp upon
+bip_39_word_space_11: obvious giant assume gift hundred truck buddy lake wasp upon
+  divide
+bip_39_word_space_12: obvious giant assume gift hundred truck buddy lake wasp upon
+  divide affair
+bip_39_word_space_2: obvious giant
+bip_39_word_space_3: obvious giant assume
+bip_39_word_space_4: obvious giant assume gift
+bip_39_word_space_5: obvious giant assume gift hundred
+bip_39_word_space_6: obvious giant assume gift hundred truck
+bip_39_word_space_7: obvious giant assume gift hundred truck buddy
+bip_39_word_space_8: obvious giant assume gift hundred truck buddy lake
+bip_39_word_space_9: obvious giant assume gift hundred truck buddy lake wasp
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

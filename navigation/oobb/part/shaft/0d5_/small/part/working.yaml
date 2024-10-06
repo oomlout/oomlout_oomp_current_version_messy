@@ -1,3 +1,186 @@
+bip_39_word_new_br1: balance
+bip_39_word_new_br10: balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin
+bip_39_word_new_br11: balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin<br>fire
+bip_39_word_new_br12: balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink<br>cousin<br>fire<br>album
+bip_39_word_new_br2: balance<br>palace
+bip_39_word_new_br3: balance<br>palace<br>task
+bip_39_word_new_br4: balance<br>palace<br>task<br>extra
+bip_39_word_new_br5: balance<br>palace<br>task<br>extra<br>armor
+bip_39_word_new_br6: balance<br>palace<br>task<br>extra<br>armor<br>tube
+bip_39_word_new_br7: balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail
+bip_39_word_new_br8: balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican
+bip_39_word_new_br9: balance<br>palace<br>task<br>extra<br>armor<br>tube<br>mail<br>pelican<br>wink
+bip_39_word_new_line1: balance
+bip_39_word_new_line10: 'balance
+
+  palace
+
+  task
+
+  extra
+
+  armor
+
+  tube
+
+  mail
+
+  pelican
+
+  wink
+
+  cousin'
+bip_39_word_new_line11: 'balance
+
+  palace
+
+  task
+
+  extra
+
+  armor
+
+  tube
+
+  mail
+
+  pelican
+
+  wink
+
+  cousin
+
+  fire'
+bip_39_word_new_line12: 'balance
+
+  palace
+
+  task
+
+  extra
+
+  armor
+
+  tube
+
+  mail
+
+  pelican
+
+  wink
+
+  cousin
+
+  fire
+
+  album'
+bip_39_word_new_line2: 'balance
+
+  palace'
+bip_39_word_new_line3: 'balance
+
+  palace
+
+  task'
+bip_39_word_new_line4: 'balance
+
+  palace
+
+  task
+
+  extra'
+bip_39_word_new_line5: 'balance
+
+  palace
+
+  task
+
+  extra
+
+  armor'
+bip_39_word_new_line6: 'balance
+
+  palace
+
+  task
+
+  extra
+
+  armor
+
+  tube'
+bip_39_word_new_line7: 'balance
+
+  palace
+
+  task
+
+  extra
+
+  armor
+
+  tube
+
+  mail'
+bip_39_word_new_line8: 'balance
+
+  palace
+
+  task
+
+  extra
+
+  armor
+
+  tube
+
+  mail
+
+  pelican'
+bip_39_word_new_line9: 'balance
+
+  palace
+
+  task
+
+  extra
+
+  armor
+
+  tube
+
+  mail
+
+  pelican
+
+  wink'
+bip_39_word_space_0:
+- balance
+- palace
+- task
+- extra
+- armor
+- tube
+- mail
+- pelican
+- wink
+- cousin
+- fire
+- album
+bip_39_word_space_1: balance
+bip_39_word_space_10: balance palace task extra armor tube mail pelican wink cousin
+bip_39_word_space_11: balance palace task extra armor tube mail pelican wink cousin
+  fire
+bip_39_word_space_12: balance palace task extra armor tube mail pelican wink cousin
+  fire album
+bip_39_word_space_2: balance palace
+bip_39_word_space_3: balance palace task
+bip_39_word_space_4: balance palace task extra
+bip_39_word_space_5: balance palace task extra armor
+bip_39_word_space_6: balance palace task extra armor tube
+bip_39_word_space_7: balance palace task extra armor tube mail
+bip_39_word_space_8: balance palace task extra armor tube mail pelican
+bip_39_word_space_9: balance palace task extra armor tube mail pelican wink
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

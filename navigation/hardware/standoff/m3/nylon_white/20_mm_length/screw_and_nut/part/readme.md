@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: train piano
+  * bip 39 word 3: train piano hold
+  * bip 39 word: train piano hold awful grace great mobile mom rose cry ginger armed
 
 ### other_codes
 * short_code: so3nw20sn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | train |  
+| bip_39_word_new_br10 | train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose<br>cry |  
+| bip_39_word_new_br11 | train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose<br>cry<br>ginger |  
+| bip_39_word_new_br12 | train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose<br>cry<br>ginger<br>armed |  
+| bip_39_word_new_br2 | train<br>piano |  
+| bip_39_word_new_br3 | train<br>piano<br>hold |  
+| bip_39_word_new_br4 | train<br>piano<br>hold<br>awful |  
+| bip_39_word_new_br5 | train<br>piano<br>hold<br>awful<br>grace |  
+| bip_39_word_new_br6 | train<br>piano<br>hold<br>awful<br>grace<br>great |  
+| bip_39_word_new_br7 | train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile |  
+| bip_39_word_new_br8 | train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom |  
+| bip_39_word_new_br9 | train<br>piano<br>hold<br>awful<br>grace<br>great<br>mobile<br>mom<br>rose |  
+| bip_39_word_new_line1 | train |  
+| bip_39_word_new_line10 | train
+piano
+hold
+awful
+grace
+great
+mobile
+mom
+rose
+cry |  
+| bip_39_word_new_line11 | train
+piano
+hold
+awful
+grace
+great
+mobile
+mom
+rose
+cry
+ginger |  
+| bip_39_word_new_line12 | train
+piano
+hold
+awful
+grace
+great
+mobile
+mom
+rose
+cry
+ginger
+armed |  
+| bip_39_word_new_line2 | train
+piano |  
+| bip_39_word_new_line3 | train
+piano
+hold |  
+| bip_39_word_new_line4 | train
+piano
+hold
+awful |  
+| bip_39_word_new_line5 | train
+piano
+hold
+awful
+grace |  
+| bip_39_word_new_line6 | train
+piano
+hold
+awful
+grace
+great |  
+| bip_39_word_new_line7 | train
+piano
+hold
+awful
+grace
+great
+mobile |  
+| bip_39_word_new_line8 | train
+piano
+hold
+awful
+grace
+great
+mobile
+mom |  
+| bip_39_word_new_line9 | train
+piano
+hold
+awful
+grace
+great
+mobile
+mom
+rose |  
+| bip_39_word_space_0 | ['train', 'piano', 'hold', 'awful', 'grace', 'great', 'mobile', 'mom', 'rose', 'cry', 'ginger', 'armed'] |  
+| bip_39_word_space_1 | train |  
+| bip_39_word_space_10 | train piano hold awful grace great mobile mom rose cry |  
+| bip_39_word_space_11 | train piano hold awful grace great mobile mom rose cry ginger |  
+| bip_39_word_space_12 | train piano hold awful grace great mobile mom rose cry ginger armed |  
+| bip_39_word_space_2 | train piano |  
+| bip_39_word_space_3 | train piano hold |  
+| bip_39_word_space_4 | train piano hold awful |  
+| bip_39_word_space_5 | train piano hold awful grace |  
+| bip_39_word_space_6 | train piano hold awful grace great |  
+| bip_39_word_space_7 | train piano hold awful grace great mobile |  
+| bip_39_word_space_8 | train piano hold awful grace great mobile mom |  
+| bip_39_word_space_9 | train piano hold awful grace great mobile mom rose |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

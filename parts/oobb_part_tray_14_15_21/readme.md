@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: device suggest
+  * bip 39 word 3: device suggest mechanic
+  * bip 39 word: device suggest mechanic area siege tribe absent identify junk venue state august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | device |  
+| bip_39_word_new_br10 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe<br>absent<br>identify<br>junk<br>venue |  
+| bip_39_word_new_br11 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe<br>absent<br>identify<br>junk<br>venue<br>state |  
+| bip_39_word_new_br12 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe<br>absent<br>identify<br>junk<br>venue<br>state<br>august |  
+| bip_39_word_new_br2 | device<br>suggest |  
+| bip_39_word_new_br3 | device<br>suggest<br>mechanic |  
+| bip_39_word_new_br4 | device<br>suggest<br>mechanic<br>area |  
+| bip_39_word_new_br5 | device<br>suggest<br>mechanic<br>area<br>siege |  
+| bip_39_word_new_br6 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe |  
+| bip_39_word_new_br7 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe<br>absent |  
+| bip_39_word_new_br8 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe<br>absent<br>identify |  
+| bip_39_word_new_br9 | device<br>suggest<br>mechanic<br>area<br>siege<br>tribe<br>absent<br>identify<br>junk |  
+| bip_39_word_new_line1 | device |  
+| bip_39_word_new_line10 | device
+suggest
+mechanic
+area
+siege
+tribe
+absent
+identify
+junk
+venue |  
+| bip_39_word_new_line11 | device
+suggest
+mechanic
+area
+siege
+tribe
+absent
+identify
+junk
+venue
+state |  
+| bip_39_word_new_line12 | device
+suggest
+mechanic
+area
+siege
+tribe
+absent
+identify
+junk
+venue
+state
+august |  
+| bip_39_word_new_line2 | device
+suggest |  
+| bip_39_word_new_line3 | device
+suggest
+mechanic |  
+| bip_39_word_new_line4 | device
+suggest
+mechanic
+area |  
+| bip_39_word_new_line5 | device
+suggest
+mechanic
+area
+siege |  
+| bip_39_word_new_line6 | device
+suggest
+mechanic
+area
+siege
+tribe |  
+| bip_39_word_new_line7 | device
+suggest
+mechanic
+area
+siege
+tribe
+absent |  
+| bip_39_word_new_line8 | device
+suggest
+mechanic
+area
+siege
+tribe
+absent
+identify |  
+| bip_39_word_new_line9 | device
+suggest
+mechanic
+area
+siege
+tribe
+absent
+identify
+junk |  
+| bip_39_word_space_0 | ['device', 'suggest', 'mechanic', 'area', 'siege', 'tribe', 'absent', 'identify', 'junk', 'venue', 'state', 'august'] |  
+| bip_39_word_space_1 | device |  
+| bip_39_word_space_10 | device suggest mechanic area siege tribe absent identify junk venue |  
+| bip_39_word_space_11 | device suggest mechanic area siege tribe absent identify junk venue state |  
+| bip_39_word_space_12 | device suggest mechanic area siege tribe absent identify junk venue state august |  
+| bip_39_word_space_2 | device suggest |  
+| bip_39_word_space_3 | device suggest mechanic |  
+| bip_39_word_space_4 | device suggest mechanic area |  
+| bip_39_word_space_5 | device suggest mechanic area siege |  
+| bip_39_word_space_6 | device suggest mechanic area siege tribe |  
+| bip_39_word_space_7 | device suggest mechanic area siege tribe absent |  
+| bip_39_word_space_8 | device suggest mechanic area siege tribe absent identify |  
+| bip_39_word_space_9 | device suggest mechanic area siege tribe absent identify junk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

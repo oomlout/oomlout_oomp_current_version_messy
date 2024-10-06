@@ -1,3 +1,185 @@
+bip_39_word_new_br1: maze
+bip_39_word_new_br10: maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing
+bip_39_word_new_br11: maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing<br>spend
+bip_39_word_new_br12: maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head<br>swing<br>spend<br>aisle
+bip_39_word_new_br2: maze<br>enable
+bip_39_word_new_br3: maze<br>enable<br>average
+bip_39_word_new_br4: maze<br>enable<br>average<br>abuse
+bip_39_word_new_br5: maze<br>enable<br>average<br>abuse<br>ankle
+bip_39_word_new_br6: maze<br>enable<br>average<br>abuse<br>ankle<br>pull
+bip_39_word_new_br7: maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away
+bip_39_word_new_br8: maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby
+bip_39_word_new_br9: maze<br>enable<br>average<br>abuse<br>ankle<br>pull<br>away<br>baby<br>head
+bip_39_word_new_line1: maze
+bip_39_word_new_line10: 'maze
+
+  enable
+
+  average
+
+  abuse
+
+  ankle
+
+  pull
+
+  away
+
+  baby
+
+  head
+
+  swing'
+bip_39_word_new_line11: 'maze
+
+  enable
+
+  average
+
+  abuse
+
+  ankle
+
+  pull
+
+  away
+
+  baby
+
+  head
+
+  swing
+
+  spend'
+bip_39_word_new_line12: 'maze
+
+  enable
+
+  average
+
+  abuse
+
+  ankle
+
+  pull
+
+  away
+
+  baby
+
+  head
+
+  swing
+
+  spend
+
+  aisle'
+bip_39_word_new_line2: 'maze
+
+  enable'
+bip_39_word_new_line3: 'maze
+
+  enable
+
+  average'
+bip_39_word_new_line4: 'maze
+
+  enable
+
+  average
+
+  abuse'
+bip_39_word_new_line5: 'maze
+
+  enable
+
+  average
+
+  abuse
+
+  ankle'
+bip_39_word_new_line6: 'maze
+
+  enable
+
+  average
+
+  abuse
+
+  ankle
+
+  pull'
+bip_39_word_new_line7: 'maze
+
+  enable
+
+  average
+
+  abuse
+
+  ankle
+
+  pull
+
+  away'
+bip_39_word_new_line8: 'maze
+
+  enable
+
+  average
+
+  abuse
+
+  ankle
+
+  pull
+
+  away
+
+  baby'
+bip_39_word_new_line9: 'maze
+
+  enable
+
+  average
+
+  abuse
+
+  ankle
+
+  pull
+
+  away
+
+  baby
+
+  head'
+bip_39_word_space_0:
+- maze
+- enable
+- average
+- abuse
+- ankle
+- pull
+- away
+- baby
+- head
+- swing
+- spend
+- aisle
+bip_39_word_space_1: maze
+bip_39_word_space_10: maze enable average abuse ankle pull away baby head swing
+bip_39_word_space_11: maze enable average abuse ankle pull away baby head swing spend
+bip_39_word_space_12: maze enable average abuse ankle pull away baby head swing spend
+  aisle
+bip_39_word_space_2: maze enable
+bip_39_word_space_3: maze enable average
+bip_39_word_space_4: maze enable average abuse
+bip_39_word_space_5: maze enable average abuse ankle
+bip_39_word_space_6: maze enable average abuse ankle pull
+bip_39_word_space_7: maze enable average abuse ankle pull away
+bip_39_word_space_8: maze enable average abuse ankle pull away baby
+bip_39_word_space_9: maze enable average abuse ankle pull away baby head
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: version_1
   * manufacturer: oomlout
   * part_number: ptcs3bhv1
+  * bip 39 word 2: short assist
+  * bip 39 word 3: short assist gravity
+  * bip 39 word: short assist gravity analyst aunt scheme history mansion budget market because alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | short |  
+| bip_39_word_new_br10 | short<br>assist<br>gravity<br>analyst<br>aunt<br>scheme<br>history<br>mansion<br>budget<br>market |  
+| bip_39_word_new_br11 | short<br>assist<br>gravity<br>analyst<br>aunt<br>scheme<br>history<br>mansion<br>budget<br>market<br>because |  
+| bip_39_word_new_br12 | short<br>assist<br>gravity<br>analyst<br>aunt<br>scheme<br>history<br>mansion<br>budget<br>market<br>because<br>alien |  
+| bip_39_word_new_br2 | short<br>assist |  
+| bip_39_word_new_br3 | short<br>assist<br>gravity |  
+| bip_39_word_new_br4 | short<br>assist<br>gravity<br>analyst |  
+| bip_39_word_new_br5 | short<br>assist<br>gravity<br>analyst<br>aunt |  
+| bip_39_word_new_br6 | short<br>assist<br>gravity<br>analyst<br>aunt<br>scheme |  
+| bip_39_word_new_br7 | short<br>assist<br>gravity<br>analyst<br>aunt<br>scheme<br>history |  
+| bip_39_word_new_br8 | short<br>assist<br>gravity<br>analyst<br>aunt<br>scheme<br>history<br>mansion |  
+| bip_39_word_new_br9 | short<br>assist<br>gravity<br>analyst<br>aunt<br>scheme<br>history<br>mansion<br>budget |  
+| bip_39_word_new_line1 | short |  
+| bip_39_word_new_line10 | short
+assist
+gravity
+analyst
+aunt
+scheme
+history
+mansion
+budget
+market |  
+| bip_39_word_new_line11 | short
+assist
+gravity
+analyst
+aunt
+scheme
+history
+mansion
+budget
+market
+because |  
+| bip_39_word_new_line12 | short
+assist
+gravity
+analyst
+aunt
+scheme
+history
+mansion
+budget
+market
+because
+alien |  
+| bip_39_word_new_line2 | short
+assist |  
+| bip_39_word_new_line3 | short
+assist
+gravity |  
+| bip_39_word_new_line4 | short
+assist
+gravity
+analyst |  
+| bip_39_word_new_line5 | short
+assist
+gravity
+analyst
+aunt |  
+| bip_39_word_new_line6 | short
+assist
+gravity
+analyst
+aunt
+scheme |  
+| bip_39_word_new_line7 | short
+assist
+gravity
+analyst
+aunt
+scheme
+history |  
+| bip_39_word_new_line8 | short
+assist
+gravity
+analyst
+aunt
+scheme
+history
+mansion |  
+| bip_39_word_new_line9 | short
+assist
+gravity
+analyst
+aunt
+scheme
+history
+mansion
+budget |  
+| bip_39_word_space_0 | ['short', 'assist', 'gravity', 'analyst', 'aunt', 'scheme', 'history', 'mansion', 'budget', 'market', 'because', 'alien'] |  
+| bip_39_word_space_1 | short |  
+| bip_39_word_space_10 | short assist gravity analyst aunt scheme history mansion budget market |  
+| bip_39_word_space_11 | short assist gravity analyst aunt scheme history mansion budget market because |  
+| bip_39_word_space_12 | short assist gravity analyst aunt scheme history mansion budget market because alien |  
+| bip_39_word_space_2 | short assist |  
+| bip_39_word_space_3 | short assist gravity |  
+| bip_39_word_space_4 | short assist gravity analyst |  
+| bip_39_word_space_5 | short assist gravity analyst aunt |  
+| bip_39_word_space_6 | short assist gravity analyst aunt scheme |  
+| bip_39_word_space_7 | short assist gravity analyst aunt scheme history |  
+| bip_39_word_space_8 | short assist gravity analyst aunt scheme history mansion |  
+| bip_39_word_space_9 | short assist gravity analyst aunt scheme history mansion budget |  
 | classification | company_oomlout |  
 | classification_capital | Company Oomlout |  
 | classification_first_letter | c |  

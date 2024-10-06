@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: puppy hedgehog
+  * bip 39 word 3: puppy hedgehog boy
+  * bip 39 word: puppy hedgehog boy noise follow bless penalty deer because tiger anchor arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | puppy |  
+| bip_39_word_new_br10 | puppy<br>hedgehog<br>boy<br>noise<br>follow<br>bless<br>penalty<br>deer<br>because<br>tiger |  
+| bip_39_word_new_br11 | puppy<br>hedgehog<br>boy<br>noise<br>follow<br>bless<br>penalty<br>deer<br>because<br>tiger<br>anchor |  
+| bip_39_word_new_br12 | puppy<br>hedgehog<br>boy<br>noise<br>follow<br>bless<br>penalty<br>deer<br>because<br>tiger<br>anchor<br>arrest |  
+| bip_39_word_new_br2 | puppy<br>hedgehog |  
+| bip_39_word_new_br3 | puppy<br>hedgehog<br>boy |  
+| bip_39_word_new_br4 | puppy<br>hedgehog<br>boy<br>noise |  
+| bip_39_word_new_br5 | puppy<br>hedgehog<br>boy<br>noise<br>follow |  
+| bip_39_word_new_br6 | puppy<br>hedgehog<br>boy<br>noise<br>follow<br>bless |  
+| bip_39_word_new_br7 | puppy<br>hedgehog<br>boy<br>noise<br>follow<br>bless<br>penalty |  
+| bip_39_word_new_br8 | puppy<br>hedgehog<br>boy<br>noise<br>follow<br>bless<br>penalty<br>deer |  
+| bip_39_word_new_br9 | puppy<br>hedgehog<br>boy<br>noise<br>follow<br>bless<br>penalty<br>deer<br>because |  
+| bip_39_word_new_line1 | puppy |  
+| bip_39_word_new_line10 | puppy
+hedgehog
+boy
+noise
+follow
+bless
+penalty
+deer
+because
+tiger |  
+| bip_39_word_new_line11 | puppy
+hedgehog
+boy
+noise
+follow
+bless
+penalty
+deer
+because
+tiger
+anchor |  
+| bip_39_word_new_line12 | puppy
+hedgehog
+boy
+noise
+follow
+bless
+penalty
+deer
+because
+tiger
+anchor
+arrest |  
+| bip_39_word_new_line2 | puppy
+hedgehog |  
+| bip_39_word_new_line3 | puppy
+hedgehog
+boy |  
+| bip_39_word_new_line4 | puppy
+hedgehog
+boy
+noise |  
+| bip_39_word_new_line5 | puppy
+hedgehog
+boy
+noise
+follow |  
+| bip_39_word_new_line6 | puppy
+hedgehog
+boy
+noise
+follow
+bless |  
+| bip_39_word_new_line7 | puppy
+hedgehog
+boy
+noise
+follow
+bless
+penalty |  
+| bip_39_word_new_line8 | puppy
+hedgehog
+boy
+noise
+follow
+bless
+penalty
+deer |  
+| bip_39_word_new_line9 | puppy
+hedgehog
+boy
+noise
+follow
+bless
+penalty
+deer
+because |  
+| bip_39_word_space_0 | ['puppy', 'hedgehog', 'boy', 'noise', 'follow', 'bless', 'penalty', 'deer', 'because', 'tiger', 'anchor', 'arrest'] |  
+| bip_39_word_space_1 | puppy |  
+| bip_39_word_space_10 | puppy hedgehog boy noise follow bless penalty deer because tiger |  
+| bip_39_word_space_11 | puppy hedgehog boy noise follow bless penalty deer because tiger anchor |  
+| bip_39_word_space_12 | puppy hedgehog boy noise follow bless penalty deer because tiger anchor arrest |  
+| bip_39_word_space_2 | puppy hedgehog |  
+| bip_39_word_space_3 | puppy hedgehog boy |  
+| bip_39_word_space_4 | puppy hedgehog boy noise |  
+| bip_39_word_space_5 | puppy hedgehog boy noise follow |  
+| bip_39_word_space_6 | puppy hedgehog boy noise follow bless |  
+| bip_39_word_space_7 | puppy hedgehog boy noise follow bless penalty |  
+| bip_39_word_space_8 | puppy hedgehog boy noise follow bless penalty deer |  
+| bip_39_word_space_9 | puppy hedgehog boy noise follow bless penalty deer because |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

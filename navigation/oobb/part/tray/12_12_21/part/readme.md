@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: visit wheat
+  * bip 39 word 3: visit wheat asthma
+  * bip 39 word: visit wheat asthma bar nation among gossip street skirt vault comic assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | visit |  
+| bip_39_word_new_br10 | visit<br>wheat<br>asthma<br>bar<br>nation<br>among<br>gossip<br>street<br>skirt<br>vault |  
+| bip_39_word_new_br11 | visit<br>wheat<br>asthma<br>bar<br>nation<br>among<br>gossip<br>street<br>skirt<br>vault<br>comic |  
+| bip_39_word_new_br12 | visit<br>wheat<br>asthma<br>bar<br>nation<br>among<br>gossip<br>street<br>skirt<br>vault<br>comic<br>assault |  
+| bip_39_word_new_br2 | visit<br>wheat |  
+| bip_39_word_new_br3 | visit<br>wheat<br>asthma |  
+| bip_39_word_new_br4 | visit<br>wheat<br>asthma<br>bar |  
+| bip_39_word_new_br5 | visit<br>wheat<br>asthma<br>bar<br>nation |  
+| bip_39_word_new_br6 | visit<br>wheat<br>asthma<br>bar<br>nation<br>among |  
+| bip_39_word_new_br7 | visit<br>wheat<br>asthma<br>bar<br>nation<br>among<br>gossip |  
+| bip_39_word_new_br8 | visit<br>wheat<br>asthma<br>bar<br>nation<br>among<br>gossip<br>street |  
+| bip_39_word_new_br9 | visit<br>wheat<br>asthma<br>bar<br>nation<br>among<br>gossip<br>street<br>skirt |  
+| bip_39_word_new_line1 | visit |  
+| bip_39_word_new_line10 | visit
+wheat
+asthma
+bar
+nation
+among
+gossip
+street
+skirt
+vault |  
+| bip_39_word_new_line11 | visit
+wheat
+asthma
+bar
+nation
+among
+gossip
+street
+skirt
+vault
+comic |  
+| bip_39_word_new_line12 | visit
+wheat
+asthma
+bar
+nation
+among
+gossip
+street
+skirt
+vault
+comic
+assault |  
+| bip_39_word_new_line2 | visit
+wheat |  
+| bip_39_word_new_line3 | visit
+wheat
+asthma |  
+| bip_39_word_new_line4 | visit
+wheat
+asthma
+bar |  
+| bip_39_word_new_line5 | visit
+wheat
+asthma
+bar
+nation |  
+| bip_39_word_new_line6 | visit
+wheat
+asthma
+bar
+nation
+among |  
+| bip_39_word_new_line7 | visit
+wheat
+asthma
+bar
+nation
+among
+gossip |  
+| bip_39_word_new_line8 | visit
+wheat
+asthma
+bar
+nation
+among
+gossip
+street |  
+| bip_39_word_new_line9 | visit
+wheat
+asthma
+bar
+nation
+among
+gossip
+street
+skirt |  
+| bip_39_word_space_0 | ['visit', 'wheat', 'asthma', 'bar', 'nation', 'among', 'gossip', 'street', 'skirt', 'vault', 'comic', 'assault'] |  
+| bip_39_word_space_1 | visit |  
+| bip_39_word_space_10 | visit wheat asthma bar nation among gossip street skirt vault |  
+| bip_39_word_space_11 | visit wheat asthma bar nation among gossip street skirt vault comic |  
+| bip_39_word_space_12 | visit wheat asthma bar nation among gossip street skirt vault comic assault |  
+| bip_39_word_space_2 | visit wheat |  
+| bip_39_word_space_3 | visit wheat asthma |  
+| bip_39_word_space_4 | visit wheat asthma bar |  
+| bip_39_word_space_5 | visit wheat asthma bar nation |  
+| bip_39_word_space_6 | visit wheat asthma bar nation among |  
+| bip_39_word_space_7 | visit wheat asthma bar nation among gossip |  
+| bip_39_word_space_8 | visit wheat asthma bar nation among gossip street |  
+| bip_39_word_space_9 | visit wheat asthma bar nation among gossip street skirt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fire episode
+  * bip 39 word 3: fire episode drum
+  * bip 39 word: fire episode drum upon save gesture apart true unknown knock finish auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fire |  
+| bip_39_word_new_br10 | fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true<br>unknown<br>knock |  
+| bip_39_word_new_br11 | fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true<br>unknown<br>knock<br>finish |  
+| bip_39_word_new_br12 | fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true<br>unknown<br>knock<br>finish<br>auto |  
+| bip_39_word_new_br2 | fire<br>episode |  
+| bip_39_word_new_br3 | fire<br>episode<br>drum |  
+| bip_39_word_new_br4 | fire<br>episode<br>drum<br>upon |  
+| bip_39_word_new_br5 | fire<br>episode<br>drum<br>upon<br>save |  
+| bip_39_word_new_br6 | fire<br>episode<br>drum<br>upon<br>save<br>gesture |  
+| bip_39_word_new_br7 | fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart |  
+| bip_39_word_new_br8 | fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true |  
+| bip_39_word_new_br9 | fire<br>episode<br>drum<br>upon<br>save<br>gesture<br>apart<br>true<br>unknown |  
+| bip_39_word_new_line1 | fire |  
+| bip_39_word_new_line10 | fire
+episode
+drum
+upon
+save
+gesture
+apart
+true
+unknown
+knock |  
+| bip_39_word_new_line11 | fire
+episode
+drum
+upon
+save
+gesture
+apart
+true
+unknown
+knock
+finish |  
+| bip_39_word_new_line12 | fire
+episode
+drum
+upon
+save
+gesture
+apart
+true
+unknown
+knock
+finish
+auto |  
+| bip_39_word_new_line2 | fire
+episode |  
+| bip_39_word_new_line3 | fire
+episode
+drum |  
+| bip_39_word_new_line4 | fire
+episode
+drum
+upon |  
+| bip_39_word_new_line5 | fire
+episode
+drum
+upon
+save |  
+| bip_39_word_new_line6 | fire
+episode
+drum
+upon
+save
+gesture |  
+| bip_39_word_new_line7 | fire
+episode
+drum
+upon
+save
+gesture
+apart |  
+| bip_39_word_new_line8 | fire
+episode
+drum
+upon
+save
+gesture
+apart
+true |  
+| bip_39_word_new_line9 | fire
+episode
+drum
+upon
+save
+gesture
+apart
+true
+unknown |  
+| bip_39_word_space_0 | ['fire', 'episode', 'drum', 'upon', 'save', 'gesture', 'apart', 'true', 'unknown', 'knock', 'finish', 'auto'] |  
+| bip_39_word_space_1 | fire |  
+| bip_39_word_space_10 | fire episode drum upon save gesture apart true unknown knock |  
+| bip_39_word_space_11 | fire episode drum upon save gesture apart true unknown knock finish |  
+| bip_39_word_space_12 | fire episode drum upon save gesture apart true unknown knock finish auto |  
+| bip_39_word_space_2 | fire episode |  
+| bip_39_word_space_3 | fire episode drum |  
+| bip_39_word_space_4 | fire episode drum upon |  
+| bip_39_word_space_5 | fire episode drum upon save |  
+| bip_39_word_space_6 | fire episode drum upon save gesture |  
+| bip_39_word_space_7 | fire episode drum upon save gesture apart |  
+| bip_39_word_space_8 | fire episode drum upon save gesture apart true |  
+| bip_39_word_space_9 | fire episode drum upon save gesture apart true unknown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

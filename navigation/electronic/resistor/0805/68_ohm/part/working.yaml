@@ -1,3 +1,186 @@
+bip_39_word_new_br1: alley
+bip_39_word_new_br10: alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle
+bip_39_word_new_br11: alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle<br>crime
+bip_39_word_new_br12: alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg<br>gentle<br>crime<br>admit
+bip_39_word_new_br2: alley<br>false
+bip_39_word_new_br3: alley<br>false<br>aerobic
+bip_39_word_new_br4: alley<br>false<br>aerobic<br>hockey
+bip_39_word_new_br5: alley<br>false<br>aerobic<br>hockey<br>insect
+bip_39_word_new_br6: alley<br>false<br>aerobic<br>hockey<br>insect<br>excite
+bip_39_word_new_br7: alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon
+bip_39_word_new_br8: alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim
+bip_39_word_new_br9: alley<br>false<br>aerobic<br>hockey<br>insect<br>excite<br>soon<br>swim<br>leg
+bip_39_word_new_line1: alley
+bip_39_word_new_line10: 'alley
+
+  false
+
+  aerobic
+
+  hockey
+
+  insect
+
+  excite
+
+  soon
+
+  swim
+
+  leg
+
+  gentle'
+bip_39_word_new_line11: 'alley
+
+  false
+
+  aerobic
+
+  hockey
+
+  insect
+
+  excite
+
+  soon
+
+  swim
+
+  leg
+
+  gentle
+
+  crime'
+bip_39_word_new_line12: 'alley
+
+  false
+
+  aerobic
+
+  hockey
+
+  insect
+
+  excite
+
+  soon
+
+  swim
+
+  leg
+
+  gentle
+
+  crime
+
+  admit'
+bip_39_word_new_line2: 'alley
+
+  false'
+bip_39_word_new_line3: 'alley
+
+  false
+
+  aerobic'
+bip_39_word_new_line4: 'alley
+
+  false
+
+  aerobic
+
+  hockey'
+bip_39_word_new_line5: 'alley
+
+  false
+
+  aerobic
+
+  hockey
+
+  insect'
+bip_39_word_new_line6: 'alley
+
+  false
+
+  aerobic
+
+  hockey
+
+  insect
+
+  excite'
+bip_39_word_new_line7: 'alley
+
+  false
+
+  aerobic
+
+  hockey
+
+  insect
+
+  excite
+
+  soon'
+bip_39_word_new_line8: 'alley
+
+  false
+
+  aerobic
+
+  hockey
+
+  insect
+
+  excite
+
+  soon
+
+  swim'
+bip_39_word_new_line9: 'alley
+
+  false
+
+  aerobic
+
+  hockey
+
+  insect
+
+  excite
+
+  soon
+
+  swim
+
+  leg'
+bip_39_word_space_0:
+- alley
+- 'false'
+- aerobic
+- hockey
+- insect
+- excite
+- soon
+- swim
+- leg
+- gentle
+- crime
+- admit
+bip_39_word_space_1: alley
+bip_39_word_space_10: alley false aerobic hockey insect excite soon swim leg gentle
+bip_39_word_space_11: alley false aerobic hockey insect excite soon swim leg gentle
+  crime
+bip_39_word_space_12: alley false aerobic hockey insect excite soon swim leg gentle
+  crime admit
+bip_39_word_space_2: alley false
+bip_39_word_space_3: alley false aerobic
+bip_39_word_space_4: alley false aerobic hockey
+bip_39_word_space_5: alley false aerobic hockey insect
+bip_39_word_space_6: alley false aerobic hockey insect excite
+bip_39_word_space_7: alley false aerobic hockey insect excite soon
+bip_39_word_space_8: alley false aerobic hockey insect excite soon swim
+bip_39_word_space_9: alley false aerobic hockey insect excite soon swim leg
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

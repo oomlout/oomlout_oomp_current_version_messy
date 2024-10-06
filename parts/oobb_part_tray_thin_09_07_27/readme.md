@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: junk about
+  * bip 39 word 3: junk about shadow
+  * bip 39 word: junk about shadow fee section pulp blossom glance rebuild wealth stand attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | junk |  
+| bip_39_word_new_br10 | junk<br>about<br>shadow<br>fee<br>section<br>pulp<br>blossom<br>glance<br>rebuild<br>wealth |  
+| bip_39_word_new_br11 | junk<br>about<br>shadow<br>fee<br>section<br>pulp<br>blossom<br>glance<br>rebuild<br>wealth<br>stand |  
+| bip_39_word_new_br12 | junk<br>about<br>shadow<br>fee<br>section<br>pulp<br>blossom<br>glance<br>rebuild<br>wealth<br>stand<br>attract |  
+| bip_39_word_new_br2 | junk<br>about |  
+| bip_39_word_new_br3 | junk<br>about<br>shadow |  
+| bip_39_word_new_br4 | junk<br>about<br>shadow<br>fee |  
+| bip_39_word_new_br5 | junk<br>about<br>shadow<br>fee<br>section |  
+| bip_39_word_new_br6 | junk<br>about<br>shadow<br>fee<br>section<br>pulp |  
+| bip_39_word_new_br7 | junk<br>about<br>shadow<br>fee<br>section<br>pulp<br>blossom |  
+| bip_39_word_new_br8 | junk<br>about<br>shadow<br>fee<br>section<br>pulp<br>blossom<br>glance |  
+| bip_39_word_new_br9 | junk<br>about<br>shadow<br>fee<br>section<br>pulp<br>blossom<br>glance<br>rebuild |  
+| bip_39_word_new_line1 | junk |  
+| bip_39_word_new_line10 | junk
+about
+shadow
+fee
+section
+pulp
+blossom
+glance
+rebuild
+wealth |  
+| bip_39_word_new_line11 | junk
+about
+shadow
+fee
+section
+pulp
+blossom
+glance
+rebuild
+wealth
+stand |  
+| bip_39_word_new_line12 | junk
+about
+shadow
+fee
+section
+pulp
+blossom
+glance
+rebuild
+wealth
+stand
+attract |  
+| bip_39_word_new_line2 | junk
+about |  
+| bip_39_word_new_line3 | junk
+about
+shadow |  
+| bip_39_word_new_line4 | junk
+about
+shadow
+fee |  
+| bip_39_word_new_line5 | junk
+about
+shadow
+fee
+section |  
+| bip_39_word_new_line6 | junk
+about
+shadow
+fee
+section
+pulp |  
+| bip_39_word_new_line7 | junk
+about
+shadow
+fee
+section
+pulp
+blossom |  
+| bip_39_word_new_line8 | junk
+about
+shadow
+fee
+section
+pulp
+blossom
+glance |  
+| bip_39_word_new_line9 | junk
+about
+shadow
+fee
+section
+pulp
+blossom
+glance
+rebuild |  
+| bip_39_word_space_0 | ['junk', 'about', 'shadow', 'fee', 'section', 'pulp', 'blossom', 'glance', 'rebuild', 'wealth', 'stand', 'attract'] |  
+| bip_39_word_space_1 | junk |  
+| bip_39_word_space_10 | junk about shadow fee section pulp blossom glance rebuild wealth |  
+| bip_39_word_space_11 | junk about shadow fee section pulp blossom glance rebuild wealth stand |  
+| bip_39_word_space_12 | junk about shadow fee section pulp blossom glance rebuild wealth stand attract |  
+| bip_39_word_space_2 | junk about |  
+| bip_39_word_space_3 | junk about shadow |  
+| bip_39_word_space_4 | junk about shadow fee |  
+| bip_39_word_space_5 | junk about shadow fee section |  
+| bip_39_word_space_6 | junk about shadow fee section pulp |  
+| bip_39_word_space_7 | junk about shadow fee section pulp blossom |  
+| bip_39_word_space_8 | junk about shadow fee section pulp blossom glance |  
+| bip_39_word_space_9 | junk about shadow fee section pulp blossom glance rebuild |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

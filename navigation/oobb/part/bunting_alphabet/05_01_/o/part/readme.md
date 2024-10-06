@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: o
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: egg taste
+  * bip 39 word 3: egg taste board
+  * bip 39 word: egg taste board frame defense ugly expect glove gospel excuse monster abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | egg |  
+| bip_39_word_new_br10 | egg<br>taste<br>board<br>frame<br>defense<br>ugly<br>expect<br>glove<br>gospel<br>excuse |  
+| bip_39_word_new_br11 | egg<br>taste<br>board<br>frame<br>defense<br>ugly<br>expect<br>glove<br>gospel<br>excuse<br>monster |  
+| bip_39_word_new_br12 | egg<br>taste<br>board<br>frame<br>defense<br>ugly<br>expect<br>glove<br>gospel<br>excuse<br>monster<br>abuse |  
+| bip_39_word_new_br2 | egg<br>taste |  
+| bip_39_word_new_br3 | egg<br>taste<br>board |  
+| bip_39_word_new_br4 | egg<br>taste<br>board<br>frame |  
+| bip_39_word_new_br5 | egg<br>taste<br>board<br>frame<br>defense |  
+| bip_39_word_new_br6 | egg<br>taste<br>board<br>frame<br>defense<br>ugly |  
+| bip_39_word_new_br7 | egg<br>taste<br>board<br>frame<br>defense<br>ugly<br>expect |  
+| bip_39_word_new_br8 | egg<br>taste<br>board<br>frame<br>defense<br>ugly<br>expect<br>glove |  
+| bip_39_word_new_br9 | egg<br>taste<br>board<br>frame<br>defense<br>ugly<br>expect<br>glove<br>gospel |  
+| bip_39_word_new_line1 | egg |  
+| bip_39_word_new_line10 | egg
+taste
+board
+frame
+defense
+ugly
+expect
+glove
+gospel
+excuse |  
+| bip_39_word_new_line11 | egg
+taste
+board
+frame
+defense
+ugly
+expect
+glove
+gospel
+excuse
+monster |  
+| bip_39_word_new_line12 | egg
+taste
+board
+frame
+defense
+ugly
+expect
+glove
+gospel
+excuse
+monster
+abuse |  
+| bip_39_word_new_line2 | egg
+taste |  
+| bip_39_word_new_line3 | egg
+taste
+board |  
+| bip_39_word_new_line4 | egg
+taste
+board
+frame |  
+| bip_39_word_new_line5 | egg
+taste
+board
+frame
+defense |  
+| bip_39_word_new_line6 | egg
+taste
+board
+frame
+defense
+ugly |  
+| bip_39_word_new_line7 | egg
+taste
+board
+frame
+defense
+ugly
+expect |  
+| bip_39_word_new_line8 | egg
+taste
+board
+frame
+defense
+ugly
+expect
+glove |  
+| bip_39_word_new_line9 | egg
+taste
+board
+frame
+defense
+ugly
+expect
+glove
+gospel |  
+| bip_39_word_space_0 | ['egg', 'taste', 'board', 'frame', 'defense', 'ugly', 'expect', 'glove', 'gospel', 'excuse', 'monster', 'abuse'] |  
+| bip_39_word_space_1 | egg |  
+| bip_39_word_space_10 | egg taste board frame defense ugly expect glove gospel excuse |  
+| bip_39_word_space_11 | egg taste board frame defense ugly expect glove gospel excuse monster |  
+| bip_39_word_space_12 | egg taste board frame defense ugly expect glove gospel excuse monster abuse |  
+| bip_39_word_space_2 | egg taste |  
+| bip_39_word_space_3 | egg taste board |  
+| bip_39_word_space_4 | egg taste board frame |  
+| bip_39_word_space_5 | egg taste board frame defense |  
+| bip_39_word_space_6 | egg taste board frame defense ugly |  
+| bip_39_word_space_7 | egg taste board frame defense ugly expect |  
+| bip_39_word_space_8 | egg taste board frame defense ugly expect glove |  
+| bip_39_word_space_9 | egg taste board frame defense ugly expect glove gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: buddy mother
+  * bip 39 word 3: buddy mother enough
+  * bip 39 word: buddy mother enough priority flash nominee chase ribbon exhibit coin burden absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | buddy |  
+| bip_39_word_new_br10 | buddy<br>mother<br>enough<br>priority<br>flash<br>nominee<br>chase<br>ribbon<br>exhibit<br>coin |  
+| bip_39_word_new_br11 | buddy<br>mother<br>enough<br>priority<br>flash<br>nominee<br>chase<br>ribbon<br>exhibit<br>coin<br>burden |  
+| bip_39_word_new_br12 | buddy<br>mother<br>enough<br>priority<br>flash<br>nominee<br>chase<br>ribbon<br>exhibit<br>coin<br>burden<br>absent |  
+| bip_39_word_new_br2 | buddy<br>mother |  
+| bip_39_word_new_br3 | buddy<br>mother<br>enough |  
+| bip_39_word_new_br4 | buddy<br>mother<br>enough<br>priority |  
+| bip_39_word_new_br5 | buddy<br>mother<br>enough<br>priority<br>flash |  
+| bip_39_word_new_br6 | buddy<br>mother<br>enough<br>priority<br>flash<br>nominee |  
+| bip_39_word_new_br7 | buddy<br>mother<br>enough<br>priority<br>flash<br>nominee<br>chase |  
+| bip_39_word_new_br8 | buddy<br>mother<br>enough<br>priority<br>flash<br>nominee<br>chase<br>ribbon |  
+| bip_39_word_new_br9 | buddy<br>mother<br>enough<br>priority<br>flash<br>nominee<br>chase<br>ribbon<br>exhibit |  
+| bip_39_word_new_line1 | buddy |  
+| bip_39_word_new_line10 | buddy
+mother
+enough
+priority
+flash
+nominee
+chase
+ribbon
+exhibit
+coin |  
+| bip_39_word_new_line11 | buddy
+mother
+enough
+priority
+flash
+nominee
+chase
+ribbon
+exhibit
+coin
+burden |  
+| bip_39_word_new_line12 | buddy
+mother
+enough
+priority
+flash
+nominee
+chase
+ribbon
+exhibit
+coin
+burden
+absent |  
+| bip_39_word_new_line2 | buddy
+mother |  
+| bip_39_word_new_line3 | buddy
+mother
+enough |  
+| bip_39_word_new_line4 | buddy
+mother
+enough
+priority |  
+| bip_39_word_new_line5 | buddy
+mother
+enough
+priority
+flash |  
+| bip_39_word_new_line6 | buddy
+mother
+enough
+priority
+flash
+nominee |  
+| bip_39_word_new_line7 | buddy
+mother
+enough
+priority
+flash
+nominee
+chase |  
+| bip_39_word_new_line8 | buddy
+mother
+enough
+priority
+flash
+nominee
+chase
+ribbon |  
+| bip_39_word_new_line9 | buddy
+mother
+enough
+priority
+flash
+nominee
+chase
+ribbon
+exhibit |  
+| bip_39_word_space_0 | ['buddy', 'mother', 'enough', 'priority', 'flash', 'nominee', 'chase', 'ribbon', 'exhibit', 'coin', 'burden', 'absent'] |  
+| bip_39_word_space_1 | buddy |  
+| bip_39_word_space_10 | buddy mother enough priority flash nominee chase ribbon exhibit coin |  
+| bip_39_word_space_11 | buddy mother enough priority flash nominee chase ribbon exhibit coin burden |  
+| bip_39_word_space_12 | buddy mother enough priority flash nominee chase ribbon exhibit coin burden absent |  
+| bip_39_word_space_2 | buddy mother |  
+| bip_39_word_space_3 | buddy mother enough |  
+| bip_39_word_space_4 | buddy mother enough priority |  
+| bip_39_word_space_5 | buddy mother enough priority flash |  
+| bip_39_word_space_6 | buddy mother enough priority flash nominee |  
+| bip_39_word_space_7 | buddy mother enough priority flash nominee chase |  
+| bip_39_word_space_8 | buddy mother enough priority flash nominee chase ribbon |  
+| bip_39_word_space_9 | buddy mother enough priority flash nominee chase ribbon exhibit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

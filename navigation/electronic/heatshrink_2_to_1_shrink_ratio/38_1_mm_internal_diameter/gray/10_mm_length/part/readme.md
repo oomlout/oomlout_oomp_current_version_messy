@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tent main
+  * bip 39 word 3: tent main cute
+  * bip 39 word: tent main cute modify bulb apology belt cross issue perfect rocket aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tent |  
+| bip_39_word_new_br10 | tent<br>main<br>cute<br>modify<br>bulb<br>apology<br>belt<br>cross<br>issue<br>perfect |  
+| bip_39_word_new_br11 | tent<br>main<br>cute<br>modify<br>bulb<br>apology<br>belt<br>cross<br>issue<br>perfect<br>rocket |  
+| bip_39_word_new_br12 | tent<br>main<br>cute<br>modify<br>bulb<br>apology<br>belt<br>cross<br>issue<br>perfect<br>rocket<br>aim |  
+| bip_39_word_new_br2 | tent<br>main |  
+| bip_39_word_new_br3 | tent<br>main<br>cute |  
+| bip_39_word_new_br4 | tent<br>main<br>cute<br>modify |  
+| bip_39_word_new_br5 | tent<br>main<br>cute<br>modify<br>bulb |  
+| bip_39_word_new_br6 | tent<br>main<br>cute<br>modify<br>bulb<br>apology |  
+| bip_39_word_new_br7 | tent<br>main<br>cute<br>modify<br>bulb<br>apology<br>belt |  
+| bip_39_word_new_br8 | tent<br>main<br>cute<br>modify<br>bulb<br>apology<br>belt<br>cross |  
+| bip_39_word_new_br9 | tent<br>main<br>cute<br>modify<br>bulb<br>apology<br>belt<br>cross<br>issue |  
+| bip_39_word_new_line1 | tent |  
+| bip_39_word_new_line10 | tent
+main
+cute
+modify
+bulb
+apology
+belt
+cross
+issue
+perfect |  
+| bip_39_word_new_line11 | tent
+main
+cute
+modify
+bulb
+apology
+belt
+cross
+issue
+perfect
+rocket |  
+| bip_39_word_new_line12 | tent
+main
+cute
+modify
+bulb
+apology
+belt
+cross
+issue
+perfect
+rocket
+aim |  
+| bip_39_word_new_line2 | tent
+main |  
+| bip_39_word_new_line3 | tent
+main
+cute |  
+| bip_39_word_new_line4 | tent
+main
+cute
+modify |  
+| bip_39_word_new_line5 | tent
+main
+cute
+modify
+bulb |  
+| bip_39_word_new_line6 | tent
+main
+cute
+modify
+bulb
+apology |  
+| bip_39_word_new_line7 | tent
+main
+cute
+modify
+bulb
+apology
+belt |  
+| bip_39_word_new_line8 | tent
+main
+cute
+modify
+bulb
+apology
+belt
+cross |  
+| bip_39_word_new_line9 | tent
+main
+cute
+modify
+bulb
+apology
+belt
+cross
+issue |  
+| bip_39_word_space_0 | ['tent', 'main', 'cute', 'modify', 'bulb', 'apology', 'belt', 'cross', 'issue', 'perfect', 'rocket', 'aim'] |  
+| bip_39_word_space_1 | tent |  
+| bip_39_word_space_10 | tent main cute modify bulb apology belt cross issue perfect |  
+| bip_39_word_space_11 | tent main cute modify bulb apology belt cross issue perfect rocket |  
+| bip_39_word_space_12 | tent main cute modify bulb apology belt cross issue perfect rocket aim |  
+| bip_39_word_space_2 | tent main |  
+| bip_39_word_space_3 | tent main cute |  
+| bip_39_word_space_4 | tent main cute modify |  
+| bip_39_word_space_5 | tent main cute modify bulb |  
+| bip_39_word_space_6 | tent main cute modify bulb apology |  
+| bip_39_word_space_7 | tent main cute modify bulb apology belt |  
+| bip_39_word_space_8 | tent main cute modify bulb apology belt cross |  
+| bip_39_word_space_9 | tent main cute modify bulb apology belt cross issue |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

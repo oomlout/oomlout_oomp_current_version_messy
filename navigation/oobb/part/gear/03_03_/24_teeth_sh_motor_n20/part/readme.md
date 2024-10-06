@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vendor ecology
+  * bip 39 word 3: vendor ecology moon
+  * bip 39 word: vendor ecology moon feature foot submit fresh panda more camera thrive armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vendor |  
+| bip_39_word_new_br10 | vendor<br>ecology<br>moon<br>feature<br>foot<br>submit<br>fresh<br>panda<br>more<br>camera |  
+| bip_39_word_new_br11 | vendor<br>ecology<br>moon<br>feature<br>foot<br>submit<br>fresh<br>panda<br>more<br>camera<br>thrive |  
+| bip_39_word_new_br12 | vendor<br>ecology<br>moon<br>feature<br>foot<br>submit<br>fresh<br>panda<br>more<br>camera<br>thrive<br>armed |  
+| bip_39_word_new_br2 | vendor<br>ecology |  
+| bip_39_word_new_br3 | vendor<br>ecology<br>moon |  
+| bip_39_word_new_br4 | vendor<br>ecology<br>moon<br>feature |  
+| bip_39_word_new_br5 | vendor<br>ecology<br>moon<br>feature<br>foot |  
+| bip_39_word_new_br6 | vendor<br>ecology<br>moon<br>feature<br>foot<br>submit |  
+| bip_39_word_new_br7 | vendor<br>ecology<br>moon<br>feature<br>foot<br>submit<br>fresh |  
+| bip_39_word_new_br8 | vendor<br>ecology<br>moon<br>feature<br>foot<br>submit<br>fresh<br>panda |  
+| bip_39_word_new_br9 | vendor<br>ecology<br>moon<br>feature<br>foot<br>submit<br>fresh<br>panda<br>more |  
+| bip_39_word_new_line1 | vendor |  
+| bip_39_word_new_line10 | vendor
+ecology
+moon
+feature
+foot
+submit
+fresh
+panda
+more
+camera |  
+| bip_39_word_new_line11 | vendor
+ecology
+moon
+feature
+foot
+submit
+fresh
+panda
+more
+camera
+thrive |  
+| bip_39_word_new_line12 | vendor
+ecology
+moon
+feature
+foot
+submit
+fresh
+panda
+more
+camera
+thrive
+armed |  
+| bip_39_word_new_line2 | vendor
+ecology |  
+| bip_39_word_new_line3 | vendor
+ecology
+moon |  
+| bip_39_word_new_line4 | vendor
+ecology
+moon
+feature |  
+| bip_39_word_new_line5 | vendor
+ecology
+moon
+feature
+foot |  
+| bip_39_word_new_line6 | vendor
+ecology
+moon
+feature
+foot
+submit |  
+| bip_39_word_new_line7 | vendor
+ecology
+moon
+feature
+foot
+submit
+fresh |  
+| bip_39_word_new_line8 | vendor
+ecology
+moon
+feature
+foot
+submit
+fresh
+panda |  
+| bip_39_word_new_line9 | vendor
+ecology
+moon
+feature
+foot
+submit
+fresh
+panda
+more |  
+| bip_39_word_space_0 | ['vendor', 'ecology', 'moon', 'feature', 'foot', 'submit', 'fresh', 'panda', 'more', 'camera', 'thrive', 'armed'] |  
+| bip_39_word_space_1 | vendor |  
+| bip_39_word_space_10 | vendor ecology moon feature foot submit fresh panda more camera |  
+| bip_39_word_space_11 | vendor ecology moon feature foot submit fresh panda more camera thrive |  
+| bip_39_word_space_12 | vendor ecology moon feature foot submit fresh panda more camera thrive armed |  
+| bip_39_word_space_2 | vendor ecology |  
+| bip_39_word_space_3 | vendor ecology moon |  
+| bip_39_word_space_4 | vendor ecology moon feature |  
+| bip_39_word_space_5 | vendor ecology moon feature foot |  
+| bip_39_word_space_6 | vendor ecology moon feature foot submit |  
+| bip_39_word_space_7 | vendor ecology moon feature foot submit fresh |  
+| bip_39_word_space_8 | vendor ecology moon feature foot submit fresh panda |  
+| bip_39_word_space_9 | vendor ecology moon feature foot submit fresh panda more |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

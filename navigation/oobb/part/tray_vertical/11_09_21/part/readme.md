@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: announce ethics
+  * bip 39 word 3: announce ethics arch
+  * bip 39 word: announce ethics arch famous broccoli stove chimney omit never bike grape alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | announce |  
+| bip_39_word_new_br10 | announce<br>ethics<br>arch<br>famous<br>broccoli<br>stove<br>chimney<br>omit<br>never<br>bike |  
+| bip_39_word_new_br11 | announce<br>ethics<br>arch<br>famous<br>broccoli<br>stove<br>chimney<br>omit<br>never<br>bike<br>grape |  
+| bip_39_word_new_br12 | announce<br>ethics<br>arch<br>famous<br>broccoli<br>stove<br>chimney<br>omit<br>never<br>bike<br>grape<br>alone |  
+| bip_39_word_new_br2 | announce<br>ethics |  
+| bip_39_word_new_br3 | announce<br>ethics<br>arch |  
+| bip_39_word_new_br4 | announce<br>ethics<br>arch<br>famous |  
+| bip_39_word_new_br5 | announce<br>ethics<br>arch<br>famous<br>broccoli |  
+| bip_39_word_new_br6 | announce<br>ethics<br>arch<br>famous<br>broccoli<br>stove |  
+| bip_39_word_new_br7 | announce<br>ethics<br>arch<br>famous<br>broccoli<br>stove<br>chimney |  
+| bip_39_word_new_br8 | announce<br>ethics<br>arch<br>famous<br>broccoli<br>stove<br>chimney<br>omit |  
+| bip_39_word_new_br9 | announce<br>ethics<br>arch<br>famous<br>broccoli<br>stove<br>chimney<br>omit<br>never |  
+| bip_39_word_new_line1 | announce |  
+| bip_39_word_new_line10 | announce
+ethics
+arch
+famous
+broccoli
+stove
+chimney
+omit
+never
+bike |  
+| bip_39_word_new_line11 | announce
+ethics
+arch
+famous
+broccoli
+stove
+chimney
+omit
+never
+bike
+grape |  
+| bip_39_word_new_line12 | announce
+ethics
+arch
+famous
+broccoli
+stove
+chimney
+omit
+never
+bike
+grape
+alone |  
+| bip_39_word_new_line2 | announce
+ethics |  
+| bip_39_word_new_line3 | announce
+ethics
+arch |  
+| bip_39_word_new_line4 | announce
+ethics
+arch
+famous |  
+| bip_39_word_new_line5 | announce
+ethics
+arch
+famous
+broccoli |  
+| bip_39_word_new_line6 | announce
+ethics
+arch
+famous
+broccoli
+stove |  
+| bip_39_word_new_line7 | announce
+ethics
+arch
+famous
+broccoli
+stove
+chimney |  
+| bip_39_word_new_line8 | announce
+ethics
+arch
+famous
+broccoli
+stove
+chimney
+omit |  
+| bip_39_word_new_line9 | announce
+ethics
+arch
+famous
+broccoli
+stove
+chimney
+omit
+never |  
+| bip_39_word_space_0 | ['announce', 'ethics', 'arch', 'famous', 'broccoli', 'stove', 'chimney', 'omit', 'never', 'bike', 'grape', 'alone'] |  
+| bip_39_word_space_1 | announce |  
+| bip_39_word_space_10 | announce ethics arch famous broccoli stove chimney omit never bike |  
+| bip_39_word_space_11 | announce ethics arch famous broccoli stove chimney omit never bike grape |  
+| bip_39_word_space_12 | announce ethics arch famous broccoli stove chimney omit never bike grape alone |  
+| bip_39_word_space_2 | announce ethics |  
+| bip_39_word_space_3 | announce ethics arch |  
+| bip_39_word_space_4 | announce ethics arch famous |  
+| bip_39_word_space_5 | announce ethics arch famous broccoli |  
+| bip_39_word_space_6 | announce ethics arch famous broccoli stove |  
+| bip_39_word_space_7 | announce ethics arch famous broccoli stove chimney |  
+| bip_39_word_space_8 | announce ethics arch famous broccoli stove chimney omit |  
+| bip_39_word_space_9 | announce ethics arch famous broccoli stove chimney omit never |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

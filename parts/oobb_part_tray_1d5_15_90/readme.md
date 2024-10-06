@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: video exact
+  * bip 39 word 3: video exact blossom
+  * bip 39 word: video exact blossom bounce crash retreat trick champion future radar tumble analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | video |  
+| bip_39_word_new_br10 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat<br>trick<br>champion<br>future<br>radar |  
+| bip_39_word_new_br11 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat<br>trick<br>champion<br>future<br>radar<br>tumble |  
+| bip_39_word_new_br12 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat<br>trick<br>champion<br>future<br>radar<br>tumble<br>analyst |  
+| bip_39_word_new_br2 | video<br>exact |  
+| bip_39_word_new_br3 | video<br>exact<br>blossom |  
+| bip_39_word_new_br4 | video<br>exact<br>blossom<br>bounce |  
+| bip_39_word_new_br5 | video<br>exact<br>blossom<br>bounce<br>crash |  
+| bip_39_word_new_br6 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat |  
+| bip_39_word_new_br7 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat<br>trick |  
+| bip_39_word_new_br8 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat<br>trick<br>champion |  
+| bip_39_word_new_br9 | video<br>exact<br>blossom<br>bounce<br>crash<br>retreat<br>trick<br>champion<br>future |  
+| bip_39_word_new_line1 | video |  
+| bip_39_word_new_line10 | video
+exact
+blossom
+bounce
+crash
+retreat
+trick
+champion
+future
+radar |  
+| bip_39_word_new_line11 | video
+exact
+blossom
+bounce
+crash
+retreat
+trick
+champion
+future
+radar
+tumble |  
+| bip_39_word_new_line12 | video
+exact
+blossom
+bounce
+crash
+retreat
+trick
+champion
+future
+radar
+tumble
+analyst |  
+| bip_39_word_new_line2 | video
+exact |  
+| bip_39_word_new_line3 | video
+exact
+blossom |  
+| bip_39_word_new_line4 | video
+exact
+blossom
+bounce |  
+| bip_39_word_new_line5 | video
+exact
+blossom
+bounce
+crash |  
+| bip_39_word_new_line6 | video
+exact
+blossom
+bounce
+crash
+retreat |  
+| bip_39_word_new_line7 | video
+exact
+blossom
+bounce
+crash
+retreat
+trick |  
+| bip_39_word_new_line8 | video
+exact
+blossom
+bounce
+crash
+retreat
+trick
+champion |  
+| bip_39_word_new_line9 | video
+exact
+blossom
+bounce
+crash
+retreat
+trick
+champion
+future |  
+| bip_39_word_space_0 | ['video', 'exact', 'blossom', 'bounce', 'crash', 'retreat', 'trick', 'champion', 'future', 'radar', 'tumble', 'analyst'] |  
+| bip_39_word_space_1 | video |  
+| bip_39_word_space_10 | video exact blossom bounce crash retreat trick champion future radar |  
+| bip_39_word_space_11 | video exact blossom bounce crash retreat trick champion future radar tumble |  
+| bip_39_word_space_12 | video exact blossom bounce crash retreat trick champion future radar tumble analyst |  
+| bip_39_word_space_2 | video exact |  
+| bip_39_word_space_3 | video exact blossom |  
+| bip_39_word_space_4 | video exact blossom bounce |  
+| bip_39_word_space_5 | video exact blossom bounce crash |  
+| bip_39_word_space_6 | video exact blossom bounce crash retreat |  
+| bip_39_word_space_7 | video exact blossom bounce crash retreat trick |  
+| bip_39_word_space_8 | video exact blossom bounce crash retreat trick champion |  
+| bip_39_word_space_9 | video exact blossom bounce crash retreat trick champion future |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

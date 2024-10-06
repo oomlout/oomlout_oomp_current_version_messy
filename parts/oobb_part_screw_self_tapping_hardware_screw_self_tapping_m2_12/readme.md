@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: library desk
+  * bip 39 word 3: library desk ribbon
+  * bip 39 word: library desk ribbon lecture version skill extend future shadow rather maze august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | library |  
+| bip_39_word_new_br10 | library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow<br>rather |  
+| bip_39_word_new_br11 | library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow<br>rather<br>maze |  
+| bip_39_word_new_br12 | library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow<br>rather<br>maze<br>august |  
+| bip_39_word_new_br2 | library<br>desk |  
+| bip_39_word_new_br3 | library<br>desk<br>ribbon |  
+| bip_39_word_new_br4 | library<br>desk<br>ribbon<br>lecture |  
+| bip_39_word_new_br5 | library<br>desk<br>ribbon<br>lecture<br>version |  
+| bip_39_word_new_br6 | library<br>desk<br>ribbon<br>lecture<br>version<br>skill |  
+| bip_39_word_new_br7 | library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend |  
+| bip_39_word_new_br8 | library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future |  
+| bip_39_word_new_br9 | library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow |  
+| bip_39_word_new_line1 | library |  
+| bip_39_word_new_line10 | library
+desk
+ribbon
+lecture
+version
+skill
+extend
+future
+shadow
+rather |  
+| bip_39_word_new_line11 | library
+desk
+ribbon
+lecture
+version
+skill
+extend
+future
+shadow
+rather
+maze |  
+| bip_39_word_new_line12 | library
+desk
+ribbon
+lecture
+version
+skill
+extend
+future
+shadow
+rather
+maze
+august |  
+| bip_39_word_new_line2 | library
+desk |  
+| bip_39_word_new_line3 | library
+desk
+ribbon |  
+| bip_39_word_new_line4 | library
+desk
+ribbon
+lecture |  
+| bip_39_word_new_line5 | library
+desk
+ribbon
+lecture
+version |  
+| bip_39_word_new_line6 | library
+desk
+ribbon
+lecture
+version
+skill |  
+| bip_39_word_new_line7 | library
+desk
+ribbon
+lecture
+version
+skill
+extend |  
+| bip_39_word_new_line8 | library
+desk
+ribbon
+lecture
+version
+skill
+extend
+future |  
+| bip_39_word_new_line9 | library
+desk
+ribbon
+lecture
+version
+skill
+extend
+future
+shadow |  
+| bip_39_word_space_0 | ['library', 'desk', 'ribbon', 'lecture', 'version', 'skill', 'extend', 'future', 'shadow', 'rather', 'maze', 'august'] |  
+| bip_39_word_space_1 | library |  
+| bip_39_word_space_10 | library desk ribbon lecture version skill extend future shadow rather |  
+| bip_39_word_space_11 | library desk ribbon lecture version skill extend future shadow rather maze |  
+| bip_39_word_space_12 | library desk ribbon lecture version skill extend future shadow rather maze august |  
+| bip_39_word_space_2 | library desk |  
+| bip_39_word_space_3 | library desk ribbon |  
+| bip_39_word_space_4 | library desk ribbon lecture |  
+| bip_39_word_space_5 | library desk ribbon lecture version |  
+| bip_39_word_space_6 | library desk ribbon lecture version skill |  
+| bip_39_word_space_7 | library desk ribbon lecture version skill extend |  
+| bip_39_word_space_8 | library desk ribbon lecture version skill extend future |  
+| bip_39_word_space_9 | library desk ribbon lecture version skill extend future shadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

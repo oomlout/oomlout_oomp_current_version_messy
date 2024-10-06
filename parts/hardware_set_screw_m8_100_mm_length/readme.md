@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unveil width
+  * bip 39 word 3: unveil width shove
+  * bip 39 word: unveil width shove foil direct doctor olympic double ski plug sugar autumn
 
 ### other_codes
 * short_code: ss8m100
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unveil |  
+| bip_39_word_new_br10 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor<br>olympic<br>double<br>ski<br>plug |  
+| bip_39_word_new_br11 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor<br>olympic<br>double<br>ski<br>plug<br>sugar |  
+| bip_39_word_new_br12 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor<br>olympic<br>double<br>ski<br>plug<br>sugar<br>autumn |  
+| bip_39_word_new_br2 | unveil<br>width |  
+| bip_39_word_new_br3 | unveil<br>width<br>shove |  
+| bip_39_word_new_br4 | unveil<br>width<br>shove<br>foil |  
+| bip_39_word_new_br5 | unveil<br>width<br>shove<br>foil<br>direct |  
+| bip_39_word_new_br6 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor |  
+| bip_39_word_new_br7 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor<br>olympic |  
+| bip_39_word_new_br8 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor<br>olympic<br>double |  
+| bip_39_word_new_br9 | unveil<br>width<br>shove<br>foil<br>direct<br>doctor<br>olympic<br>double<br>ski |  
+| bip_39_word_new_line1 | unveil |  
+| bip_39_word_new_line10 | unveil
+width
+shove
+foil
+direct
+doctor
+olympic
+double
+ski
+plug |  
+| bip_39_word_new_line11 | unveil
+width
+shove
+foil
+direct
+doctor
+olympic
+double
+ski
+plug
+sugar |  
+| bip_39_word_new_line12 | unveil
+width
+shove
+foil
+direct
+doctor
+olympic
+double
+ski
+plug
+sugar
+autumn |  
+| bip_39_word_new_line2 | unveil
+width |  
+| bip_39_word_new_line3 | unveil
+width
+shove |  
+| bip_39_word_new_line4 | unveil
+width
+shove
+foil |  
+| bip_39_word_new_line5 | unveil
+width
+shove
+foil
+direct |  
+| bip_39_word_new_line6 | unveil
+width
+shove
+foil
+direct
+doctor |  
+| bip_39_word_new_line7 | unveil
+width
+shove
+foil
+direct
+doctor
+olympic |  
+| bip_39_word_new_line8 | unveil
+width
+shove
+foil
+direct
+doctor
+olympic
+double |  
+| bip_39_word_new_line9 | unveil
+width
+shove
+foil
+direct
+doctor
+olympic
+double
+ski |  
+| bip_39_word_space_0 | ['unveil', 'width', 'shove', 'foil', 'direct', 'doctor', 'olympic', 'double', 'ski', 'plug', 'sugar', 'autumn'] |  
+| bip_39_word_space_1 | unveil |  
+| bip_39_word_space_10 | unveil width shove foil direct doctor olympic double ski plug |  
+| bip_39_word_space_11 | unveil width shove foil direct doctor olympic double ski plug sugar |  
+| bip_39_word_space_12 | unveil width shove foil direct doctor olympic double ski plug sugar autumn |  
+| bip_39_word_space_2 | unveil width |  
+| bip_39_word_space_3 | unveil width shove |  
+| bip_39_word_space_4 | unveil width shove foil |  
+| bip_39_word_space_5 | unveil width shove foil direct |  
+| bip_39_word_space_6 | unveil width shove foil direct doctor |  
+| bip_39_word_space_7 | unveil width shove foil direct doctor olympic |  
+| bip_39_word_space_8 | unveil width shove foil direct doctor olympic double |  
+| bip_39_word_space_9 | unveil width shove foil direct doctor olympic double ski |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

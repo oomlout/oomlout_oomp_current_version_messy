@@ -1,3 +1,160 @@
+bip_39_word_new_br1: antique
+bip_39_word_new_br10: antique<br>above<br>hospital<br>solution<br>process<br>budget<br>off<br>jeans<br>deer<br>hello
+bip_39_word_new_br11: antique<br>above<br>hospital<br>solution<br>process<br>budget<br>off<br>jeans<br>deer<br>hello<br>danger
+bip_39_word_new_br2: antique<br>above
+bip_39_word_new_br3: antique<br>above<br>hospital
+bip_39_word_new_br4: antique<br>above<br>hospital<br>solution
+bip_39_word_new_br5: antique<br>above<br>hospital<br>solution<br>process
+bip_39_word_new_br6: antique<br>above<br>hospital<br>solution<br>process<br>budget
+bip_39_word_new_br7: antique<br>above<br>hospital<br>solution<br>process<br>budget<br>off
+bip_39_word_new_br8: antique<br>above<br>hospital<br>solution<br>process<br>budget<br>off<br>jeans
+bip_39_word_new_br9: antique<br>above<br>hospital<br>solution<br>process<br>budget<br>off<br>jeans<br>deer
+bip_39_word_new_line1: antique
+bip_39_word_new_line10: 'antique
+
+  above
+
+  hospital
+
+  solution
+
+  process
+
+  budget
+
+  off
+
+  jeans
+
+  deer
+
+  hello'
+bip_39_word_new_line11: 'antique
+
+  above
+
+  hospital
+
+  solution
+
+  process
+
+  budget
+
+  off
+
+  jeans
+
+  deer
+
+  hello
+
+  danger'
+bip_39_word_new_line2: 'antique
+
+  above'
+bip_39_word_new_line3: 'antique
+
+  above
+
+  hospital'
+bip_39_word_new_line4: 'antique
+
+  above
+
+  hospital
+
+  solution'
+bip_39_word_new_line5: 'antique
+
+  above
+
+  hospital
+
+  solution
+
+  process'
+bip_39_word_new_line6: 'antique
+
+  above
+
+  hospital
+
+  solution
+
+  process
+
+  budget'
+bip_39_word_new_line7: 'antique
+
+  above
+
+  hospital
+
+  solution
+
+  process
+
+  budget
+
+  off'
+bip_39_word_new_line8: 'antique
+
+  above
+
+  hospital
+
+  solution
+
+  process
+
+  budget
+
+  off
+
+  jeans'
+bip_39_word_new_line9: 'antique
+
+  above
+
+  hospital
+
+  solution
+
+  process
+
+  budget
+
+  off
+
+  jeans
+
+  deer'
+bip_39_word_space_0:
+- antique
+- above
+- hospital
+- solution
+- process
+- budget
+- 'off'
+- jeans
+- deer
+- hello
+- danger
+bip_39_word_space_1: antique
+bip_39_word_space_10: antique above hospital solution process budget off jeans deer
+  hello
+bip_39_word_space_11: antique above hospital solution process budget off jeans deer
+  hello danger
+bip_39_word_space_2: antique above
+bip_39_word_space_3: antique above hospital
+bip_39_word_space_4: antique above hospital solution
+bip_39_word_space_5: antique above hospital solution process
+bip_39_word_space_6: antique above hospital solution process budget
+bip_39_word_space_7: antique above hospital solution process budget off
+bip_39_word_space_8: antique above hospital solution process budget off jeans
+bip_39_word_space_9: antique above hospital solution process budget off jeans deer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

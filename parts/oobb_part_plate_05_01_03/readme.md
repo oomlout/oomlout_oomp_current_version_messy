@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: visual unfold
+  * bip 39 word 3: visual unfold aisle
+  * bip 39 word: visual unfold aisle desert foam tide sock add artwork tomorrow bulb argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | visual |  
+| bip_39_word_new_br10 | visual<br>unfold<br>aisle<br>desert<br>foam<br>tide<br>sock<br>add<br>artwork<br>tomorrow |  
+| bip_39_word_new_br11 | visual<br>unfold<br>aisle<br>desert<br>foam<br>tide<br>sock<br>add<br>artwork<br>tomorrow<br>bulb |  
+| bip_39_word_new_br12 | visual<br>unfold<br>aisle<br>desert<br>foam<br>tide<br>sock<br>add<br>artwork<br>tomorrow<br>bulb<br>argue |  
+| bip_39_word_new_br2 | visual<br>unfold |  
+| bip_39_word_new_br3 | visual<br>unfold<br>aisle |  
+| bip_39_word_new_br4 | visual<br>unfold<br>aisle<br>desert |  
+| bip_39_word_new_br5 | visual<br>unfold<br>aisle<br>desert<br>foam |  
+| bip_39_word_new_br6 | visual<br>unfold<br>aisle<br>desert<br>foam<br>tide |  
+| bip_39_word_new_br7 | visual<br>unfold<br>aisle<br>desert<br>foam<br>tide<br>sock |  
+| bip_39_word_new_br8 | visual<br>unfold<br>aisle<br>desert<br>foam<br>tide<br>sock<br>add |  
+| bip_39_word_new_br9 | visual<br>unfold<br>aisle<br>desert<br>foam<br>tide<br>sock<br>add<br>artwork |  
+| bip_39_word_new_line1 | visual |  
+| bip_39_word_new_line10 | visual
+unfold
+aisle
+desert
+foam
+tide
+sock
+add
+artwork
+tomorrow |  
+| bip_39_word_new_line11 | visual
+unfold
+aisle
+desert
+foam
+tide
+sock
+add
+artwork
+tomorrow
+bulb |  
+| bip_39_word_new_line12 | visual
+unfold
+aisle
+desert
+foam
+tide
+sock
+add
+artwork
+tomorrow
+bulb
+argue |  
+| bip_39_word_new_line2 | visual
+unfold |  
+| bip_39_word_new_line3 | visual
+unfold
+aisle |  
+| bip_39_word_new_line4 | visual
+unfold
+aisle
+desert |  
+| bip_39_word_new_line5 | visual
+unfold
+aisle
+desert
+foam |  
+| bip_39_word_new_line6 | visual
+unfold
+aisle
+desert
+foam
+tide |  
+| bip_39_word_new_line7 | visual
+unfold
+aisle
+desert
+foam
+tide
+sock |  
+| bip_39_word_new_line8 | visual
+unfold
+aisle
+desert
+foam
+tide
+sock
+add |  
+| bip_39_word_new_line9 | visual
+unfold
+aisle
+desert
+foam
+tide
+sock
+add
+artwork |  
+| bip_39_word_space_0 | ['visual', 'unfold', 'aisle', 'desert', 'foam', 'tide', 'sock', 'add', 'artwork', 'tomorrow', 'bulb', 'argue'] |  
+| bip_39_word_space_1 | visual |  
+| bip_39_word_space_10 | visual unfold aisle desert foam tide sock add artwork tomorrow |  
+| bip_39_word_space_11 | visual unfold aisle desert foam tide sock add artwork tomorrow bulb |  
+| bip_39_word_space_12 | visual unfold aisle desert foam tide sock add artwork tomorrow bulb argue |  
+| bip_39_word_space_2 | visual unfold |  
+| bip_39_word_space_3 | visual unfold aisle |  
+| bip_39_word_space_4 | visual unfold aisle desert |  
+| bip_39_word_space_5 | visual unfold aisle desert foam |  
+| bip_39_word_space_6 | visual unfold aisle desert foam tide |  
+| bip_39_word_space_7 | visual unfold aisle desert foam tide sock |  
+| bip_39_word_space_8 | visual unfold aisle desert foam tide sock add |  
+| bip_39_word_space_9 | visual unfold aisle desert foam tide sock add artwork |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

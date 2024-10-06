@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cry you
+  * bip 39 word 3: cry you census
+  * bip 39 word: cry you census merge enough uphold economy yard fence try rug accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cry |  
+| bip_39_word_new_br10 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try |  
+| bip_39_word_new_br11 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try<br>rug |  
+| bip_39_word_new_br12 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence<br>try<br>rug<br>accuse |  
+| bip_39_word_new_br2 | cry<br>you |  
+| bip_39_word_new_br3 | cry<br>you<br>census |  
+| bip_39_word_new_br4 | cry<br>you<br>census<br>merge |  
+| bip_39_word_new_br5 | cry<br>you<br>census<br>merge<br>enough |  
+| bip_39_word_new_br6 | cry<br>you<br>census<br>merge<br>enough<br>uphold |  
+| bip_39_word_new_br7 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy |  
+| bip_39_word_new_br8 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard |  
+| bip_39_word_new_br9 | cry<br>you<br>census<br>merge<br>enough<br>uphold<br>economy<br>yard<br>fence |  
+| bip_39_word_new_line1 | cry |  
+| bip_39_word_new_line10 | cry
+you
+census
+merge
+enough
+uphold
+economy
+yard
+fence
+try |  
+| bip_39_word_new_line11 | cry
+you
+census
+merge
+enough
+uphold
+economy
+yard
+fence
+try
+rug |  
+| bip_39_word_new_line12 | cry
+you
+census
+merge
+enough
+uphold
+economy
+yard
+fence
+try
+rug
+accuse |  
+| bip_39_word_new_line2 | cry
+you |  
+| bip_39_word_new_line3 | cry
+you
+census |  
+| bip_39_word_new_line4 | cry
+you
+census
+merge |  
+| bip_39_word_new_line5 | cry
+you
+census
+merge
+enough |  
+| bip_39_word_new_line6 | cry
+you
+census
+merge
+enough
+uphold |  
+| bip_39_word_new_line7 | cry
+you
+census
+merge
+enough
+uphold
+economy |  
+| bip_39_word_new_line8 | cry
+you
+census
+merge
+enough
+uphold
+economy
+yard |  
+| bip_39_word_new_line9 | cry
+you
+census
+merge
+enough
+uphold
+economy
+yard
+fence |  
+| bip_39_word_space_0 | ['cry', 'you', 'census', 'merge', 'enough', 'uphold', 'economy', 'yard', 'fence', 'try', 'rug', 'accuse'] |  
+| bip_39_word_space_1 | cry |  
+| bip_39_word_space_10 | cry you census merge enough uphold economy yard fence try |  
+| bip_39_word_space_11 | cry you census merge enough uphold economy yard fence try rug |  
+| bip_39_word_space_12 | cry you census merge enough uphold economy yard fence try rug accuse |  
+| bip_39_word_space_2 | cry you |  
+| bip_39_word_space_3 | cry you census |  
+| bip_39_word_space_4 | cry you census merge |  
+| bip_39_word_space_5 | cry you census merge enough |  
+| bip_39_word_space_6 | cry you census merge enough uphold |  
+| bip_39_word_space_7 | cry you census merge enough uphold economy |  
+| bip_39_word_space_8 | cry you census merge enough uphold economy yard |  
+| bip_39_word_space_9 | cry you census merge enough uphold economy yard fence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

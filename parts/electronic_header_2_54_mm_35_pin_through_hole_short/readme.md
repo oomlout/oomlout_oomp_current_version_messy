@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: connect romance
+  * bip 39 word 3: connect romance pact
+  * bip 39 word: connect romance pact embody lemon obvious wine spray hospital inhale leader aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | connect |  
+| bip_39_word_new_br10 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious<br>wine<br>spray<br>hospital<br>inhale |  
+| bip_39_word_new_br11 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious<br>wine<br>spray<br>hospital<br>inhale<br>leader |  
+| bip_39_word_new_br12 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious<br>wine<br>spray<br>hospital<br>inhale<br>leader<br>aerobic |  
+| bip_39_word_new_br2 | connect<br>romance |  
+| bip_39_word_new_br3 | connect<br>romance<br>pact |  
+| bip_39_word_new_br4 | connect<br>romance<br>pact<br>embody |  
+| bip_39_word_new_br5 | connect<br>romance<br>pact<br>embody<br>lemon |  
+| bip_39_word_new_br6 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious |  
+| bip_39_word_new_br7 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious<br>wine |  
+| bip_39_word_new_br8 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious<br>wine<br>spray |  
+| bip_39_word_new_br9 | connect<br>romance<br>pact<br>embody<br>lemon<br>obvious<br>wine<br>spray<br>hospital |  
+| bip_39_word_new_line1 | connect |  
+| bip_39_word_new_line10 | connect
+romance
+pact
+embody
+lemon
+obvious
+wine
+spray
+hospital
+inhale |  
+| bip_39_word_new_line11 | connect
+romance
+pact
+embody
+lemon
+obvious
+wine
+spray
+hospital
+inhale
+leader |  
+| bip_39_word_new_line12 | connect
+romance
+pact
+embody
+lemon
+obvious
+wine
+spray
+hospital
+inhale
+leader
+aerobic |  
+| bip_39_word_new_line2 | connect
+romance |  
+| bip_39_word_new_line3 | connect
+romance
+pact |  
+| bip_39_word_new_line4 | connect
+romance
+pact
+embody |  
+| bip_39_word_new_line5 | connect
+romance
+pact
+embody
+lemon |  
+| bip_39_word_new_line6 | connect
+romance
+pact
+embody
+lemon
+obvious |  
+| bip_39_word_new_line7 | connect
+romance
+pact
+embody
+lemon
+obvious
+wine |  
+| bip_39_word_new_line8 | connect
+romance
+pact
+embody
+lemon
+obvious
+wine
+spray |  
+| bip_39_word_new_line9 | connect
+romance
+pact
+embody
+lemon
+obvious
+wine
+spray
+hospital |  
+| bip_39_word_space_0 | ['connect', 'romance', 'pact', 'embody', 'lemon', 'obvious', 'wine', 'spray', 'hospital', 'inhale', 'leader', 'aerobic'] |  
+| bip_39_word_space_1 | connect |  
+| bip_39_word_space_10 | connect romance pact embody lemon obvious wine spray hospital inhale |  
+| bip_39_word_space_11 | connect romance pact embody lemon obvious wine spray hospital inhale leader |  
+| bip_39_word_space_12 | connect romance pact embody lemon obvious wine spray hospital inhale leader aerobic |  
+| bip_39_word_space_2 | connect romance |  
+| bip_39_word_space_3 | connect romance pact |  
+| bip_39_word_space_4 | connect romance pact embody |  
+| bip_39_word_space_5 | connect romance pact embody lemon |  
+| bip_39_word_space_6 | connect romance pact embody lemon obvious |  
+| bip_39_word_space_7 | connect romance pact embody lemon obvious wine |  
+| bip_39_word_space_8 | connect romance pact embody lemon obvious wine spray |  
+| bip_39_word_space_9 | connect romance pact embody lemon obvious wine spray hospital |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

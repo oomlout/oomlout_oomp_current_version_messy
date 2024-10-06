@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: theme solve
+  * bip 39 word 3: theme solve demand
+  * bip 39 word: theme solve demand base category shallow excite convince arrow gas bundle animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | theme |  
+| bip_39_word_new_br10 | theme<br>solve<br>demand<br>base<br>category<br>shallow<br>excite<br>convince<br>arrow<br>gas |  
+| bip_39_word_new_br11 | theme<br>solve<br>demand<br>base<br>category<br>shallow<br>excite<br>convince<br>arrow<br>gas<br>bundle |  
+| bip_39_word_new_br12 | theme<br>solve<br>demand<br>base<br>category<br>shallow<br>excite<br>convince<br>arrow<br>gas<br>bundle<br>animal |  
+| bip_39_word_new_br2 | theme<br>solve |  
+| bip_39_word_new_br3 | theme<br>solve<br>demand |  
+| bip_39_word_new_br4 | theme<br>solve<br>demand<br>base |  
+| bip_39_word_new_br5 | theme<br>solve<br>demand<br>base<br>category |  
+| bip_39_word_new_br6 | theme<br>solve<br>demand<br>base<br>category<br>shallow |  
+| bip_39_word_new_br7 | theme<br>solve<br>demand<br>base<br>category<br>shallow<br>excite |  
+| bip_39_word_new_br8 | theme<br>solve<br>demand<br>base<br>category<br>shallow<br>excite<br>convince |  
+| bip_39_word_new_br9 | theme<br>solve<br>demand<br>base<br>category<br>shallow<br>excite<br>convince<br>arrow |  
+| bip_39_word_new_line1 | theme |  
+| bip_39_word_new_line10 | theme
+solve
+demand
+base
+category
+shallow
+excite
+convince
+arrow
+gas |  
+| bip_39_word_new_line11 | theme
+solve
+demand
+base
+category
+shallow
+excite
+convince
+arrow
+gas
+bundle |  
+| bip_39_word_new_line12 | theme
+solve
+demand
+base
+category
+shallow
+excite
+convince
+arrow
+gas
+bundle
+animal |  
+| bip_39_word_new_line2 | theme
+solve |  
+| bip_39_word_new_line3 | theme
+solve
+demand |  
+| bip_39_word_new_line4 | theme
+solve
+demand
+base |  
+| bip_39_word_new_line5 | theme
+solve
+demand
+base
+category |  
+| bip_39_word_new_line6 | theme
+solve
+demand
+base
+category
+shallow |  
+| bip_39_word_new_line7 | theme
+solve
+demand
+base
+category
+shallow
+excite |  
+| bip_39_word_new_line8 | theme
+solve
+demand
+base
+category
+shallow
+excite
+convince |  
+| bip_39_word_new_line9 | theme
+solve
+demand
+base
+category
+shallow
+excite
+convince
+arrow |  
+| bip_39_word_space_0 | ['theme', 'solve', 'demand', 'base', 'category', 'shallow', 'excite', 'convince', 'arrow', 'gas', 'bundle', 'animal'] |  
+| bip_39_word_space_1 | theme |  
+| bip_39_word_space_10 | theme solve demand base category shallow excite convince arrow gas |  
+| bip_39_word_space_11 | theme solve demand base category shallow excite convince arrow gas bundle |  
+| bip_39_word_space_12 | theme solve demand base category shallow excite convince arrow gas bundle animal |  
+| bip_39_word_space_2 | theme solve |  
+| bip_39_word_space_3 | theme solve demand |  
+| bip_39_word_space_4 | theme solve demand base |  
+| bip_39_word_space_5 | theme solve demand base category |  
+| bip_39_word_space_6 | theme solve demand base category shallow |  
+| bip_39_word_space_7 | theme solve demand base category shallow excite |  
+| bip_39_word_space_8 | theme solve demand base category shallow excite convince |  
+| bip_39_word_space_9 | theme solve demand base category shallow excite convince arrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

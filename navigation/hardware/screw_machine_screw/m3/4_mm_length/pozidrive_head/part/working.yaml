@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vague
+bip_39_word_new_br10: vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict
+bip_39_word_new_br11: vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict<br>extra
+bip_39_word_new_br12: vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze<br>inflict<br>extra<br>about
+bip_39_word_new_br2: vague<br>beach
+bip_39_word_new_br3: vague<br>beach<br>kiss
+bip_39_word_new_br4: vague<br>beach<br>kiss<br>wasp
+bip_39_word_new_br5: vague<br>beach<br>kiss<br>wasp<br>puzzle
+bip_39_word_new_br6: vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze
+bip_39_word_new_br7: vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam
+bip_39_word_new_br8: vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss
+bip_39_word_new_br9: vague<br>beach<br>kiss<br>wasp<br>puzzle<br>bronze<br>foam<br>dismiss<br>maze
+bip_39_word_new_line1: vague
+bip_39_word_new_line10: 'vague
+
+  beach
+
+  kiss
+
+  wasp
+
+  puzzle
+
+  bronze
+
+  foam
+
+  dismiss
+
+  maze
+
+  inflict'
+bip_39_word_new_line11: 'vague
+
+  beach
+
+  kiss
+
+  wasp
+
+  puzzle
+
+  bronze
+
+  foam
+
+  dismiss
+
+  maze
+
+  inflict
+
+  extra'
+bip_39_word_new_line12: 'vague
+
+  beach
+
+  kiss
+
+  wasp
+
+  puzzle
+
+  bronze
+
+  foam
+
+  dismiss
+
+  maze
+
+  inflict
+
+  extra
+
+  about'
+bip_39_word_new_line2: 'vague
+
+  beach'
+bip_39_word_new_line3: 'vague
+
+  beach
+
+  kiss'
+bip_39_word_new_line4: 'vague
+
+  beach
+
+  kiss
+
+  wasp'
+bip_39_word_new_line5: 'vague
+
+  beach
+
+  kiss
+
+  wasp
+
+  puzzle'
+bip_39_word_new_line6: 'vague
+
+  beach
+
+  kiss
+
+  wasp
+
+  puzzle
+
+  bronze'
+bip_39_word_new_line7: 'vague
+
+  beach
+
+  kiss
+
+  wasp
+
+  puzzle
+
+  bronze
+
+  foam'
+bip_39_word_new_line8: 'vague
+
+  beach
+
+  kiss
+
+  wasp
+
+  puzzle
+
+  bronze
+
+  foam
+
+  dismiss'
+bip_39_word_new_line9: 'vague
+
+  beach
+
+  kiss
+
+  wasp
+
+  puzzle
+
+  bronze
+
+  foam
+
+  dismiss
+
+  maze'
+bip_39_word_space_0:
+- vague
+- beach
+- kiss
+- wasp
+- puzzle
+- bronze
+- foam
+- dismiss
+- maze
+- inflict
+- extra
+- about
+bip_39_word_space_1: vague
+bip_39_word_space_10: vague beach kiss wasp puzzle bronze foam dismiss maze inflict
+bip_39_word_space_11: vague beach kiss wasp puzzle bronze foam dismiss maze inflict
+  extra
+bip_39_word_space_12: vague beach kiss wasp puzzle bronze foam dismiss maze inflict
+  extra about
+bip_39_word_space_2: vague beach
+bip_39_word_space_3: vague beach kiss
+bip_39_word_space_4: vague beach kiss wasp
+bip_39_word_space_5: vague beach kiss wasp puzzle
+bip_39_word_space_6: vague beach kiss wasp puzzle bronze
+bip_39_word_space_7: vague beach kiss wasp puzzle bronze foam
+bip_39_word_space_8: vague beach kiss wasp puzzle bronze foam dismiss
+bip_39_word_space_9: vague beach kiss wasp puzzle bronze foam dismiss maze
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

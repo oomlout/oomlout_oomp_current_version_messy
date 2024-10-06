@@ -1,3 +1,186 @@
+bip_39_word_new_br1: toe
+bip_39_word_new_br10: toe<br>beach<br>ensure<br>escape<br>option<br>moment<br>promote<br>more<br>vendor<br>unaware
+bip_39_word_new_br11: toe<br>beach<br>ensure<br>escape<br>option<br>moment<br>promote<br>more<br>vendor<br>unaware<br>shallow
+bip_39_word_new_br12: toe<br>beach<br>ensure<br>escape<br>option<br>moment<br>promote<br>more<br>vendor<br>unaware<br>shallow<br>attract
+bip_39_word_new_br2: toe<br>beach
+bip_39_word_new_br3: toe<br>beach<br>ensure
+bip_39_word_new_br4: toe<br>beach<br>ensure<br>escape
+bip_39_word_new_br5: toe<br>beach<br>ensure<br>escape<br>option
+bip_39_word_new_br6: toe<br>beach<br>ensure<br>escape<br>option<br>moment
+bip_39_word_new_br7: toe<br>beach<br>ensure<br>escape<br>option<br>moment<br>promote
+bip_39_word_new_br8: toe<br>beach<br>ensure<br>escape<br>option<br>moment<br>promote<br>more
+bip_39_word_new_br9: toe<br>beach<br>ensure<br>escape<br>option<br>moment<br>promote<br>more<br>vendor
+bip_39_word_new_line1: toe
+bip_39_word_new_line10: 'toe
+
+  beach
+
+  ensure
+
+  escape
+
+  option
+
+  moment
+
+  promote
+
+  more
+
+  vendor
+
+  unaware'
+bip_39_word_new_line11: 'toe
+
+  beach
+
+  ensure
+
+  escape
+
+  option
+
+  moment
+
+  promote
+
+  more
+
+  vendor
+
+  unaware
+
+  shallow'
+bip_39_word_new_line12: 'toe
+
+  beach
+
+  ensure
+
+  escape
+
+  option
+
+  moment
+
+  promote
+
+  more
+
+  vendor
+
+  unaware
+
+  shallow
+
+  attract'
+bip_39_word_new_line2: 'toe
+
+  beach'
+bip_39_word_new_line3: 'toe
+
+  beach
+
+  ensure'
+bip_39_word_new_line4: 'toe
+
+  beach
+
+  ensure
+
+  escape'
+bip_39_word_new_line5: 'toe
+
+  beach
+
+  ensure
+
+  escape
+
+  option'
+bip_39_word_new_line6: 'toe
+
+  beach
+
+  ensure
+
+  escape
+
+  option
+
+  moment'
+bip_39_word_new_line7: 'toe
+
+  beach
+
+  ensure
+
+  escape
+
+  option
+
+  moment
+
+  promote'
+bip_39_word_new_line8: 'toe
+
+  beach
+
+  ensure
+
+  escape
+
+  option
+
+  moment
+
+  promote
+
+  more'
+bip_39_word_new_line9: 'toe
+
+  beach
+
+  ensure
+
+  escape
+
+  option
+
+  moment
+
+  promote
+
+  more
+
+  vendor'
+bip_39_word_space_0:
+- toe
+- beach
+- ensure
+- escape
+- option
+- moment
+- promote
+- more
+- vendor
+- unaware
+- shallow
+- attract
+bip_39_word_space_1: toe
+bip_39_word_space_10: toe beach ensure escape option moment promote more vendor unaware
+bip_39_word_space_11: toe beach ensure escape option moment promote more vendor unaware
+  shallow
+bip_39_word_space_12: toe beach ensure escape option moment promote more vendor unaware
+  shallow attract
+bip_39_word_space_2: toe beach
+bip_39_word_space_3: toe beach ensure
+bip_39_word_space_4: toe beach ensure escape
+bip_39_word_space_5: toe beach ensure escape option
+bip_39_word_space_6: toe beach ensure escape option moment
+bip_39_word_space_7: toe beach ensure escape option moment promote
+bip_39_word_space_8: toe beach ensure escape option moment promote more
+bip_39_word_space_9: toe beach ensure escape option moment promote more vendor
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

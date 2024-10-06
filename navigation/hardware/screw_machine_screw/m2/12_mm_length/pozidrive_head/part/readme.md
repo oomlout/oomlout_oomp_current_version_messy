@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: candy great
+  * bip 39 word 3: candy great same
+  * bip 39 word: candy great same shell canal tissue two split amazing hobby cheap arena
 
 ### other_codes
 * short_code: ms2m12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | candy |  
+| bip_39_word_new_br10 | candy<br>great<br>same<br>shell<br>canal<br>tissue<br>two<br>split<br>amazing<br>hobby |  
+| bip_39_word_new_br11 | candy<br>great<br>same<br>shell<br>canal<br>tissue<br>two<br>split<br>amazing<br>hobby<br>cheap |  
+| bip_39_word_new_br12 | candy<br>great<br>same<br>shell<br>canal<br>tissue<br>two<br>split<br>amazing<br>hobby<br>cheap<br>arena |  
+| bip_39_word_new_br2 | candy<br>great |  
+| bip_39_word_new_br3 | candy<br>great<br>same |  
+| bip_39_word_new_br4 | candy<br>great<br>same<br>shell |  
+| bip_39_word_new_br5 | candy<br>great<br>same<br>shell<br>canal |  
+| bip_39_word_new_br6 | candy<br>great<br>same<br>shell<br>canal<br>tissue |  
+| bip_39_word_new_br7 | candy<br>great<br>same<br>shell<br>canal<br>tissue<br>two |  
+| bip_39_word_new_br8 | candy<br>great<br>same<br>shell<br>canal<br>tissue<br>two<br>split |  
+| bip_39_word_new_br9 | candy<br>great<br>same<br>shell<br>canal<br>tissue<br>two<br>split<br>amazing |  
+| bip_39_word_new_line1 | candy |  
+| bip_39_word_new_line10 | candy
+great
+same
+shell
+canal
+tissue
+two
+split
+amazing
+hobby |  
+| bip_39_word_new_line11 | candy
+great
+same
+shell
+canal
+tissue
+two
+split
+amazing
+hobby
+cheap |  
+| bip_39_word_new_line12 | candy
+great
+same
+shell
+canal
+tissue
+two
+split
+amazing
+hobby
+cheap
+arena |  
+| bip_39_word_new_line2 | candy
+great |  
+| bip_39_word_new_line3 | candy
+great
+same |  
+| bip_39_word_new_line4 | candy
+great
+same
+shell |  
+| bip_39_word_new_line5 | candy
+great
+same
+shell
+canal |  
+| bip_39_word_new_line6 | candy
+great
+same
+shell
+canal
+tissue |  
+| bip_39_word_new_line7 | candy
+great
+same
+shell
+canal
+tissue
+two |  
+| bip_39_word_new_line8 | candy
+great
+same
+shell
+canal
+tissue
+two
+split |  
+| bip_39_word_new_line9 | candy
+great
+same
+shell
+canal
+tissue
+two
+split
+amazing |  
+| bip_39_word_space_0 | ['candy', 'great', 'same', 'shell', 'canal', 'tissue', 'two', 'split', 'amazing', 'hobby', 'cheap', 'arena'] |  
+| bip_39_word_space_1 | candy |  
+| bip_39_word_space_10 | candy great same shell canal tissue two split amazing hobby |  
+| bip_39_word_space_11 | candy great same shell canal tissue two split amazing hobby cheap |  
+| bip_39_word_space_12 | candy great same shell canal tissue two split amazing hobby cheap arena |  
+| bip_39_word_space_2 | candy great |  
+| bip_39_word_space_3 | candy great same |  
+| bip_39_word_space_4 | candy great same shell |  
+| bip_39_word_space_5 | candy great same shell canal |  
+| bip_39_word_space_6 | candy great same shell canal tissue |  
+| bip_39_word_space_7 | candy great same shell canal tissue two |  
+| bip_39_word_space_8 | candy great same shell canal tissue two split |  
+| bip_39_word_space_9 | candy great same shell canal tissue two split amazing |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

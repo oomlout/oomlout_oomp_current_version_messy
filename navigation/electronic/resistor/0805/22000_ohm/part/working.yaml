@@ -1,3 +1,185 @@
+bip_39_word_new_br1: power
+bip_39_word_new_br10: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot
+bip_39_word_new_br11: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory
+bip_39_word_new_br12: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic<br>spot<br>ivory<br>advice
+bip_39_word_new_br2: power<br>end
+bip_39_word_new_br3: power<br>end<br>recipe
+bip_39_word_new_br4: power<br>end<br>recipe<br>alert
+bip_39_word_new_br5: power<br>end<br>recipe<br>alert<br>boat
+bip_39_word_new_br6: power<br>end<br>recipe<br>alert<br>boat<br>also
+bip_39_word_new_br7: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop
+bip_39_word_new_br8: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend
+bip_39_word_new_br9: power<br>end<br>recipe<br>alert<br>boat<br>also<br>crop<br>friend<br>panic
+bip_39_word_new_line1: power
+bip_39_word_new_line10: 'power
+
+  end
+
+  recipe
+
+  alert
+
+  boat
+
+  also
+
+  crop
+
+  friend
+
+  panic
+
+  spot'
+bip_39_word_new_line11: 'power
+
+  end
+
+  recipe
+
+  alert
+
+  boat
+
+  also
+
+  crop
+
+  friend
+
+  panic
+
+  spot
+
+  ivory'
+bip_39_word_new_line12: 'power
+
+  end
+
+  recipe
+
+  alert
+
+  boat
+
+  also
+
+  crop
+
+  friend
+
+  panic
+
+  spot
+
+  ivory
+
+  advice'
+bip_39_word_new_line2: 'power
+
+  end'
+bip_39_word_new_line3: 'power
+
+  end
+
+  recipe'
+bip_39_word_new_line4: 'power
+
+  end
+
+  recipe
+
+  alert'
+bip_39_word_new_line5: 'power
+
+  end
+
+  recipe
+
+  alert
+
+  boat'
+bip_39_word_new_line6: 'power
+
+  end
+
+  recipe
+
+  alert
+
+  boat
+
+  also'
+bip_39_word_new_line7: 'power
+
+  end
+
+  recipe
+
+  alert
+
+  boat
+
+  also
+
+  crop'
+bip_39_word_new_line8: 'power
+
+  end
+
+  recipe
+
+  alert
+
+  boat
+
+  also
+
+  crop
+
+  friend'
+bip_39_word_new_line9: 'power
+
+  end
+
+  recipe
+
+  alert
+
+  boat
+
+  also
+
+  crop
+
+  friend
+
+  panic'
+bip_39_word_space_0:
+- power
+- end
+- recipe
+- alert
+- boat
+- also
+- crop
+- friend
+- panic
+- spot
+- ivory
+- advice
+bip_39_word_space_1: power
+bip_39_word_space_10: power end recipe alert boat also crop friend panic spot
+bip_39_word_space_11: power end recipe alert boat also crop friend panic spot ivory
+bip_39_word_space_12: power end recipe alert boat also crop friend panic spot ivory
+  advice
+bip_39_word_space_2: power end
+bip_39_word_space_3: power end recipe
+bip_39_word_space_4: power end recipe alert
+bip_39_word_space_5: power end recipe alert boat
+bip_39_word_space_6: power end recipe alert boat also
+bip_39_word_space_7: power end recipe alert boat also crop
+bip_39_word_space_8: power end recipe alert boat also crop friend
+bip_39_word_space_9: power end recipe alert boat also crop friend panic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: awesome bronze
+  * bip 39 word 3: awesome bronze deny
+  * bip 39 word: awesome bronze deny squeeze stomach jungle filter scout iron rebuild radar arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | awesome |  
+| bip_39_word_new_br10 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild |  
+| bip_39_word_new_br11 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild<br>radar |  
+| bip_39_word_new_br12 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron<br>rebuild<br>radar<br>arctic |  
+| bip_39_word_new_br2 | awesome<br>bronze |  
+| bip_39_word_new_br3 | awesome<br>bronze<br>deny |  
+| bip_39_word_new_br4 | awesome<br>bronze<br>deny<br>squeeze |  
+| bip_39_word_new_br5 | awesome<br>bronze<br>deny<br>squeeze<br>stomach |  
+| bip_39_word_new_br6 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle |  
+| bip_39_word_new_br7 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter |  
+| bip_39_word_new_br8 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout |  
+| bip_39_word_new_br9 | awesome<br>bronze<br>deny<br>squeeze<br>stomach<br>jungle<br>filter<br>scout<br>iron |  
+| bip_39_word_new_line1 | awesome |  
+| bip_39_word_new_line10 | awesome
+bronze
+deny
+squeeze
+stomach
+jungle
+filter
+scout
+iron
+rebuild |  
+| bip_39_word_new_line11 | awesome
+bronze
+deny
+squeeze
+stomach
+jungle
+filter
+scout
+iron
+rebuild
+radar |  
+| bip_39_word_new_line12 | awesome
+bronze
+deny
+squeeze
+stomach
+jungle
+filter
+scout
+iron
+rebuild
+radar
+arctic |  
+| bip_39_word_new_line2 | awesome
+bronze |  
+| bip_39_word_new_line3 | awesome
+bronze
+deny |  
+| bip_39_word_new_line4 | awesome
+bronze
+deny
+squeeze |  
+| bip_39_word_new_line5 | awesome
+bronze
+deny
+squeeze
+stomach |  
+| bip_39_word_new_line6 | awesome
+bronze
+deny
+squeeze
+stomach
+jungle |  
+| bip_39_word_new_line7 | awesome
+bronze
+deny
+squeeze
+stomach
+jungle
+filter |  
+| bip_39_word_new_line8 | awesome
+bronze
+deny
+squeeze
+stomach
+jungle
+filter
+scout |  
+| bip_39_word_new_line9 | awesome
+bronze
+deny
+squeeze
+stomach
+jungle
+filter
+scout
+iron |  
+| bip_39_word_space_0 | ['awesome', 'bronze', 'deny', 'squeeze', 'stomach', 'jungle', 'filter', 'scout', 'iron', 'rebuild', 'radar', 'arctic'] |  
+| bip_39_word_space_1 | awesome |  
+| bip_39_word_space_10 | awesome bronze deny squeeze stomach jungle filter scout iron rebuild |  
+| bip_39_word_space_11 | awesome bronze deny squeeze stomach jungle filter scout iron rebuild radar |  
+| bip_39_word_space_12 | awesome bronze deny squeeze stomach jungle filter scout iron rebuild radar arctic |  
+| bip_39_word_space_2 | awesome bronze |  
+| bip_39_word_space_3 | awesome bronze deny |  
+| bip_39_word_space_4 | awesome bronze deny squeeze |  
+| bip_39_word_space_5 | awesome bronze deny squeeze stomach |  
+| bip_39_word_space_6 | awesome bronze deny squeeze stomach jungle |  
+| bip_39_word_space_7 | awesome bronze deny squeeze stomach jungle filter |  
+| bip_39_word_space_8 | awesome bronze deny squeeze stomach jungle filter scout |  
+| bip_39_word_space_9 | awesome bronze deny squeeze stomach jungle filter scout iron |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

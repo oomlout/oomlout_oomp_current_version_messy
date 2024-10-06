@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cat naive
+  * bip 39 word 3: cat naive cricket
+  * bip 39 word: cat naive cricket hope now float people chapter impose upon lizard again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cat |  
+| bip_39_word_new_br10 | cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter<br>impose<br>upon |  
+| bip_39_word_new_br11 | cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter<br>impose<br>upon<br>lizard |  
+| bip_39_word_new_br12 | cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter<br>impose<br>upon<br>lizard<br>again |  
+| bip_39_word_new_br2 | cat<br>naive |  
+| bip_39_word_new_br3 | cat<br>naive<br>cricket |  
+| bip_39_word_new_br4 | cat<br>naive<br>cricket<br>hope |  
+| bip_39_word_new_br5 | cat<br>naive<br>cricket<br>hope<br>now |  
+| bip_39_word_new_br6 | cat<br>naive<br>cricket<br>hope<br>now<br>float |  
+| bip_39_word_new_br7 | cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people |  
+| bip_39_word_new_br8 | cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter |  
+| bip_39_word_new_br9 | cat<br>naive<br>cricket<br>hope<br>now<br>float<br>people<br>chapter<br>impose |  
+| bip_39_word_new_line1 | cat |  
+| bip_39_word_new_line10 | cat
+naive
+cricket
+hope
+now
+float
+people
+chapter
+impose
+upon |  
+| bip_39_word_new_line11 | cat
+naive
+cricket
+hope
+now
+float
+people
+chapter
+impose
+upon
+lizard |  
+| bip_39_word_new_line12 | cat
+naive
+cricket
+hope
+now
+float
+people
+chapter
+impose
+upon
+lizard
+again |  
+| bip_39_word_new_line2 | cat
+naive |  
+| bip_39_word_new_line3 | cat
+naive
+cricket |  
+| bip_39_word_new_line4 | cat
+naive
+cricket
+hope |  
+| bip_39_word_new_line5 | cat
+naive
+cricket
+hope
+now |  
+| bip_39_word_new_line6 | cat
+naive
+cricket
+hope
+now
+float |  
+| bip_39_word_new_line7 | cat
+naive
+cricket
+hope
+now
+float
+people |  
+| bip_39_word_new_line8 | cat
+naive
+cricket
+hope
+now
+float
+people
+chapter |  
+| bip_39_word_new_line9 | cat
+naive
+cricket
+hope
+now
+float
+people
+chapter
+impose |  
+| bip_39_word_space_0 | ['cat', 'naive', 'cricket', 'hope', 'now', 'float', 'people', 'chapter', 'impose', 'upon', 'lizard', 'again'] |  
+| bip_39_word_space_1 | cat |  
+| bip_39_word_space_10 | cat naive cricket hope now float people chapter impose upon |  
+| bip_39_word_space_11 | cat naive cricket hope now float people chapter impose upon lizard |  
+| bip_39_word_space_12 | cat naive cricket hope now float people chapter impose upon lizard again |  
+| bip_39_word_space_2 | cat naive |  
+| bip_39_word_space_3 | cat naive cricket |  
+| bip_39_word_space_4 | cat naive cricket hope |  
+| bip_39_word_space_5 | cat naive cricket hope now |  
+| bip_39_word_space_6 | cat naive cricket hope now float |  
+| bip_39_word_space_7 | cat naive cricket hope now float people |  
+| bip_39_word_space_8 | cat naive cricket hope now float people chapter |  
+| bip_39_word_space_9 | cat naive cricket hope now float people chapter impose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

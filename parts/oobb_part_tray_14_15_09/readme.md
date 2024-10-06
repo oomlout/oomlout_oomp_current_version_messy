@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: idea veteran
+  * bip 39 word 3: idea veteran pond
+  * bip 39 word: idea veteran pond fog long empower buyer speak addict impact lab amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | idea |  
+| bip_39_word_new_br10 | idea<br>veteran<br>pond<br>fog<br>long<br>empower<br>buyer<br>speak<br>addict<br>impact |  
+| bip_39_word_new_br11 | idea<br>veteran<br>pond<br>fog<br>long<br>empower<br>buyer<br>speak<br>addict<br>impact<br>lab |  
+| bip_39_word_new_br12 | idea<br>veteran<br>pond<br>fog<br>long<br>empower<br>buyer<br>speak<br>addict<br>impact<br>lab<br>amused |  
+| bip_39_word_new_br2 | idea<br>veteran |  
+| bip_39_word_new_br3 | idea<br>veteran<br>pond |  
+| bip_39_word_new_br4 | idea<br>veteran<br>pond<br>fog |  
+| bip_39_word_new_br5 | idea<br>veteran<br>pond<br>fog<br>long |  
+| bip_39_word_new_br6 | idea<br>veteran<br>pond<br>fog<br>long<br>empower |  
+| bip_39_word_new_br7 | idea<br>veteran<br>pond<br>fog<br>long<br>empower<br>buyer |  
+| bip_39_word_new_br8 | idea<br>veteran<br>pond<br>fog<br>long<br>empower<br>buyer<br>speak |  
+| bip_39_word_new_br9 | idea<br>veteran<br>pond<br>fog<br>long<br>empower<br>buyer<br>speak<br>addict |  
+| bip_39_word_new_line1 | idea |  
+| bip_39_word_new_line10 | idea
+veteran
+pond
+fog
+long
+empower
+buyer
+speak
+addict
+impact |  
+| bip_39_word_new_line11 | idea
+veteran
+pond
+fog
+long
+empower
+buyer
+speak
+addict
+impact
+lab |  
+| bip_39_word_new_line12 | idea
+veteran
+pond
+fog
+long
+empower
+buyer
+speak
+addict
+impact
+lab
+amused |  
+| bip_39_word_new_line2 | idea
+veteran |  
+| bip_39_word_new_line3 | idea
+veteran
+pond |  
+| bip_39_word_new_line4 | idea
+veteran
+pond
+fog |  
+| bip_39_word_new_line5 | idea
+veteran
+pond
+fog
+long |  
+| bip_39_word_new_line6 | idea
+veteran
+pond
+fog
+long
+empower |  
+| bip_39_word_new_line7 | idea
+veteran
+pond
+fog
+long
+empower
+buyer |  
+| bip_39_word_new_line8 | idea
+veteran
+pond
+fog
+long
+empower
+buyer
+speak |  
+| bip_39_word_new_line9 | idea
+veteran
+pond
+fog
+long
+empower
+buyer
+speak
+addict |  
+| bip_39_word_space_0 | ['idea', 'veteran', 'pond', 'fog', 'long', 'empower', 'buyer', 'speak', 'addict', 'impact', 'lab', 'amused'] |  
+| bip_39_word_space_1 | idea |  
+| bip_39_word_space_10 | idea veteran pond fog long empower buyer speak addict impact |  
+| bip_39_word_space_11 | idea veteran pond fog long empower buyer speak addict impact lab |  
+| bip_39_word_space_12 | idea veteran pond fog long empower buyer speak addict impact lab amused |  
+| bip_39_word_space_2 | idea veteran |  
+| bip_39_word_space_3 | idea veteran pond |  
+| bip_39_word_space_4 | idea veteran pond fog |  
+| bip_39_word_space_5 | idea veteran pond fog long |  
+| bip_39_word_space_6 | idea veteran pond fog long empower |  
+| bip_39_word_space_7 | idea veteran pond fog long empower buyer |  
+| bip_39_word_space_8 | idea veteran pond fog long empower buyer speak |  
+| bip_39_word_space_9 | idea veteran pond fog long empower buyer speak addict |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

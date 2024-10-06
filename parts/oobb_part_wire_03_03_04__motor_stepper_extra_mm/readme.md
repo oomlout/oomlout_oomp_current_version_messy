@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_stepper_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pizza hobby
+  * bip 39 word 3: pizza hobby small
+  * bip 39 word: pizza hobby small acid curve soap mention divorce hurdle decide east achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pizza |  
+| bip_39_word_new_br10 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap<br>mention<br>divorce<br>hurdle<br>decide |  
+| bip_39_word_new_br11 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap<br>mention<br>divorce<br>hurdle<br>decide<br>east |  
+| bip_39_word_new_br12 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap<br>mention<br>divorce<br>hurdle<br>decide<br>east<br>achieve |  
+| bip_39_word_new_br2 | pizza<br>hobby |  
+| bip_39_word_new_br3 | pizza<br>hobby<br>small |  
+| bip_39_word_new_br4 | pizza<br>hobby<br>small<br>acid |  
+| bip_39_word_new_br5 | pizza<br>hobby<br>small<br>acid<br>curve |  
+| bip_39_word_new_br6 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap |  
+| bip_39_word_new_br7 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap<br>mention |  
+| bip_39_word_new_br8 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap<br>mention<br>divorce |  
+| bip_39_word_new_br9 | pizza<br>hobby<br>small<br>acid<br>curve<br>soap<br>mention<br>divorce<br>hurdle |  
+| bip_39_word_new_line1 | pizza |  
+| bip_39_word_new_line10 | pizza
+hobby
+small
+acid
+curve
+soap
+mention
+divorce
+hurdle
+decide |  
+| bip_39_word_new_line11 | pizza
+hobby
+small
+acid
+curve
+soap
+mention
+divorce
+hurdle
+decide
+east |  
+| bip_39_word_new_line12 | pizza
+hobby
+small
+acid
+curve
+soap
+mention
+divorce
+hurdle
+decide
+east
+achieve |  
+| bip_39_word_new_line2 | pizza
+hobby |  
+| bip_39_word_new_line3 | pizza
+hobby
+small |  
+| bip_39_word_new_line4 | pizza
+hobby
+small
+acid |  
+| bip_39_word_new_line5 | pizza
+hobby
+small
+acid
+curve |  
+| bip_39_word_new_line6 | pizza
+hobby
+small
+acid
+curve
+soap |  
+| bip_39_word_new_line7 | pizza
+hobby
+small
+acid
+curve
+soap
+mention |  
+| bip_39_word_new_line8 | pizza
+hobby
+small
+acid
+curve
+soap
+mention
+divorce |  
+| bip_39_word_new_line9 | pizza
+hobby
+small
+acid
+curve
+soap
+mention
+divorce
+hurdle |  
+| bip_39_word_space_0 | ['pizza', 'hobby', 'small', 'acid', 'curve', 'soap', 'mention', 'divorce', 'hurdle', 'decide', 'east', 'achieve'] |  
+| bip_39_word_space_1 | pizza |  
+| bip_39_word_space_10 | pizza hobby small acid curve soap mention divorce hurdle decide |  
+| bip_39_word_space_11 | pizza hobby small acid curve soap mention divorce hurdle decide east |  
+| bip_39_word_space_12 | pizza hobby small acid curve soap mention divorce hurdle decide east achieve |  
+| bip_39_word_space_2 | pizza hobby |  
+| bip_39_word_space_3 | pizza hobby small |  
+| bip_39_word_space_4 | pizza hobby small acid |  
+| bip_39_word_space_5 | pizza hobby small acid curve |  
+| bip_39_word_space_6 | pizza hobby small acid curve soap |  
+| bip_39_word_space_7 | pizza hobby small acid curve soap mention |  
+| bip_39_word_space_8 | pizza hobby small acid curve soap mention divorce |  
+| bip_39_word_space_9 | pizza hobby small acid curve soap mention divorce hurdle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

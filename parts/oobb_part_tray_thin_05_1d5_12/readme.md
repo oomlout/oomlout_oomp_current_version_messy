@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: country suggest
+  * bip 39 word 3: country suggest very
+  * bip 39 word: country suggest very junior note staff learn always mimic civil speak average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | country |  
+| bip_39_word_new_br10 | country<br>suggest<br>very<br>junior<br>note<br>staff<br>learn<br>always<br>mimic<br>civil |  
+| bip_39_word_new_br11 | country<br>suggest<br>very<br>junior<br>note<br>staff<br>learn<br>always<br>mimic<br>civil<br>speak |  
+| bip_39_word_new_br12 | country<br>suggest<br>very<br>junior<br>note<br>staff<br>learn<br>always<br>mimic<br>civil<br>speak<br>average |  
+| bip_39_word_new_br2 | country<br>suggest |  
+| bip_39_word_new_br3 | country<br>suggest<br>very |  
+| bip_39_word_new_br4 | country<br>suggest<br>very<br>junior |  
+| bip_39_word_new_br5 | country<br>suggest<br>very<br>junior<br>note |  
+| bip_39_word_new_br6 | country<br>suggest<br>very<br>junior<br>note<br>staff |  
+| bip_39_word_new_br7 | country<br>suggest<br>very<br>junior<br>note<br>staff<br>learn |  
+| bip_39_word_new_br8 | country<br>suggest<br>very<br>junior<br>note<br>staff<br>learn<br>always |  
+| bip_39_word_new_br9 | country<br>suggest<br>very<br>junior<br>note<br>staff<br>learn<br>always<br>mimic |  
+| bip_39_word_new_line1 | country |  
+| bip_39_word_new_line10 | country
+suggest
+very
+junior
+note
+staff
+learn
+always
+mimic
+civil |  
+| bip_39_word_new_line11 | country
+suggest
+very
+junior
+note
+staff
+learn
+always
+mimic
+civil
+speak |  
+| bip_39_word_new_line12 | country
+suggest
+very
+junior
+note
+staff
+learn
+always
+mimic
+civil
+speak
+average |  
+| bip_39_word_new_line2 | country
+suggest |  
+| bip_39_word_new_line3 | country
+suggest
+very |  
+| bip_39_word_new_line4 | country
+suggest
+very
+junior |  
+| bip_39_word_new_line5 | country
+suggest
+very
+junior
+note |  
+| bip_39_word_new_line6 | country
+suggest
+very
+junior
+note
+staff |  
+| bip_39_word_new_line7 | country
+suggest
+very
+junior
+note
+staff
+learn |  
+| bip_39_word_new_line8 | country
+suggest
+very
+junior
+note
+staff
+learn
+always |  
+| bip_39_word_new_line9 | country
+suggest
+very
+junior
+note
+staff
+learn
+always
+mimic |  
+| bip_39_word_space_0 | ['country', 'suggest', 'very', 'junior', 'note', 'staff', 'learn', 'always', 'mimic', 'civil', 'speak', 'average'] |  
+| bip_39_word_space_1 | country |  
+| bip_39_word_space_10 | country suggest very junior note staff learn always mimic civil |  
+| bip_39_word_space_11 | country suggest very junior note staff learn always mimic civil speak |  
+| bip_39_word_space_12 | country suggest very junior note staff learn always mimic civil speak average |  
+| bip_39_word_space_2 | country suggest |  
+| bip_39_word_space_3 | country suggest very |  
+| bip_39_word_space_4 | country suggest very junior |  
+| bip_39_word_space_5 | country suggest very junior note |  
+| bip_39_word_space_6 | country suggest very junior note staff |  
+| bip_39_word_space_7 | country suggest very junior note staff learn |  
+| bip_39_word_space_8 | country suggest very junior note staff learn always |  
+| bip_39_word_space_9 | country suggest very junior note staff learn always mimic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

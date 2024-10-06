@@ -1,3 +1,187 @@
+bip_39_word_new_br1: trouble
+bip_39_word_new_br10: trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid
+bip_39_word_new_br11: trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid<br>fruit
+bip_39_word_new_br12: trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare<br>bid<br>fruit<br>amount
+bip_39_word_new_br2: trouble<br>chicken
+bip_39_word_new_br3: trouble<br>chicken<br>issue
+bip_39_word_new_br4: trouble<br>chicken<br>issue<br>mirror
+bip_39_word_new_br5: trouble<br>chicken<br>issue<br>mirror<br>language
+bip_39_word_new_br6: trouble<br>chicken<br>issue<br>mirror<br>language<br>winter
+bip_39_word_new_br7: trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend
+bip_39_word_new_br8: trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove
+bip_39_word_new_br9: trouble<br>chicken<br>issue<br>mirror<br>language<br>winter<br>depend<br>stove<br>scare
+bip_39_word_new_line1: trouble
+bip_39_word_new_line10: 'trouble
+
+  chicken
+
+  issue
+
+  mirror
+
+  language
+
+  winter
+
+  depend
+
+  stove
+
+  scare
+
+  bid'
+bip_39_word_new_line11: 'trouble
+
+  chicken
+
+  issue
+
+  mirror
+
+  language
+
+  winter
+
+  depend
+
+  stove
+
+  scare
+
+  bid
+
+  fruit'
+bip_39_word_new_line12: 'trouble
+
+  chicken
+
+  issue
+
+  mirror
+
+  language
+
+  winter
+
+  depend
+
+  stove
+
+  scare
+
+  bid
+
+  fruit
+
+  amount'
+bip_39_word_new_line2: 'trouble
+
+  chicken'
+bip_39_word_new_line3: 'trouble
+
+  chicken
+
+  issue'
+bip_39_word_new_line4: 'trouble
+
+  chicken
+
+  issue
+
+  mirror'
+bip_39_word_new_line5: 'trouble
+
+  chicken
+
+  issue
+
+  mirror
+
+  language'
+bip_39_word_new_line6: 'trouble
+
+  chicken
+
+  issue
+
+  mirror
+
+  language
+
+  winter'
+bip_39_word_new_line7: 'trouble
+
+  chicken
+
+  issue
+
+  mirror
+
+  language
+
+  winter
+
+  depend'
+bip_39_word_new_line8: 'trouble
+
+  chicken
+
+  issue
+
+  mirror
+
+  language
+
+  winter
+
+  depend
+
+  stove'
+bip_39_word_new_line9: 'trouble
+
+  chicken
+
+  issue
+
+  mirror
+
+  language
+
+  winter
+
+  depend
+
+  stove
+
+  scare'
+bip_39_word_space_0:
+- trouble
+- chicken
+- issue
+- mirror
+- language
+- winter
+- depend
+- stove
+- scare
+- bid
+- fruit
+- amount
+bip_39_word_space_1: trouble
+bip_39_word_space_10: trouble chicken issue mirror language winter depend stove scare
+  bid
+bip_39_word_space_11: trouble chicken issue mirror language winter depend stove scare
+  bid fruit
+bip_39_word_space_12: trouble chicken issue mirror language winter depend stove scare
+  bid fruit amount
+bip_39_word_space_2: trouble chicken
+bip_39_word_space_3: trouble chicken issue
+bip_39_word_space_4: trouble chicken issue mirror
+bip_39_word_space_5: trouble chicken issue mirror language
+bip_39_word_space_6: trouble chicken issue mirror language winter
+bip_39_word_space_7: trouble chicken issue mirror language winter depend
+bip_39_word_space_8: trouble chicken issue mirror language winter depend stove
+bip_39_word_space_9: trouble chicken issue mirror language winter depend stove scare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

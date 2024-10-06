@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pigeon
+bip_39_word_new_br10: pigeon<br>gown<br>load<br>fetch<br>during<br>indicate<br>wash<br>orphan<br>raven<br>boil
+bip_39_word_new_br11: pigeon<br>gown<br>load<br>fetch<br>during<br>indicate<br>wash<br>orphan<br>raven<br>boil<br>concert
+bip_39_word_new_br12: pigeon<br>gown<br>load<br>fetch<br>during<br>indicate<br>wash<br>orphan<br>raven<br>boil<br>concert<br>atom
+bip_39_word_new_br2: pigeon<br>gown
+bip_39_word_new_br3: pigeon<br>gown<br>load
+bip_39_word_new_br4: pigeon<br>gown<br>load<br>fetch
+bip_39_word_new_br5: pigeon<br>gown<br>load<br>fetch<br>during
+bip_39_word_new_br6: pigeon<br>gown<br>load<br>fetch<br>during<br>indicate
+bip_39_word_new_br7: pigeon<br>gown<br>load<br>fetch<br>during<br>indicate<br>wash
+bip_39_word_new_br8: pigeon<br>gown<br>load<br>fetch<br>during<br>indicate<br>wash<br>orphan
+bip_39_word_new_br9: pigeon<br>gown<br>load<br>fetch<br>during<br>indicate<br>wash<br>orphan<br>raven
+bip_39_word_new_line1: pigeon
+bip_39_word_new_line10: 'pigeon
+
+  gown
+
+  load
+
+  fetch
+
+  during
+
+  indicate
+
+  wash
+
+  orphan
+
+  raven
+
+  boil'
+bip_39_word_new_line11: 'pigeon
+
+  gown
+
+  load
+
+  fetch
+
+  during
+
+  indicate
+
+  wash
+
+  orphan
+
+  raven
+
+  boil
+
+  concert'
+bip_39_word_new_line12: 'pigeon
+
+  gown
+
+  load
+
+  fetch
+
+  during
+
+  indicate
+
+  wash
+
+  orphan
+
+  raven
+
+  boil
+
+  concert
+
+  atom'
+bip_39_word_new_line2: 'pigeon
+
+  gown'
+bip_39_word_new_line3: 'pigeon
+
+  gown
+
+  load'
+bip_39_word_new_line4: 'pigeon
+
+  gown
+
+  load
+
+  fetch'
+bip_39_word_new_line5: 'pigeon
+
+  gown
+
+  load
+
+  fetch
+
+  during'
+bip_39_word_new_line6: 'pigeon
+
+  gown
+
+  load
+
+  fetch
+
+  during
+
+  indicate'
+bip_39_word_new_line7: 'pigeon
+
+  gown
+
+  load
+
+  fetch
+
+  during
+
+  indicate
+
+  wash'
+bip_39_word_new_line8: 'pigeon
+
+  gown
+
+  load
+
+  fetch
+
+  during
+
+  indicate
+
+  wash
+
+  orphan'
+bip_39_word_new_line9: 'pigeon
+
+  gown
+
+  load
+
+  fetch
+
+  during
+
+  indicate
+
+  wash
+
+  orphan
+
+  raven'
+bip_39_word_space_0:
+- pigeon
+- gown
+- load
+- fetch
+- during
+- indicate
+- wash
+- orphan
+- raven
+- boil
+- concert
+- atom
+bip_39_word_space_1: pigeon
+bip_39_word_space_10: pigeon gown load fetch during indicate wash orphan raven boil
+bip_39_word_space_11: pigeon gown load fetch during indicate wash orphan raven boil
+  concert
+bip_39_word_space_12: pigeon gown load fetch during indicate wash orphan raven boil
+  concert atom
+bip_39_word_space_2: pigeon gown
+bip_39_word_space_3: pigeon gown load
+bip_39_word_space_4: pigeon gown load fetch
+bip_39_word_space_5: pigeon gown load fetch during
+bip_39_word_space_6: pigeon gown load fetch during indicate
+bip_39_word_space_7: pigeon gown load fetch during indicate wash
+bip_39_word_space_8: pigeon gown load fetch during indicate wash orphan
+bip_39_word_space_9: pigeon gown load fetch during indicate wash orphan raven
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

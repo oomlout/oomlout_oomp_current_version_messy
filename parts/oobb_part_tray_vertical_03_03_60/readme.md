@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ritual worry
+  * bip 39 word 3: ritual worry sibling
+  * bip 39 word: ritual worry sibling income woman happy impose write ignore toy shell allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ritual |  
+| bip_39_word_new_br10 | ritual<br>worry<br>sibling<br>income<br>woman<br>happy<br>impose<br>write<br>ignore<br>toy |  
+| bip_39_word_new_br11 | ritual<br>worry<br>sibling<br>income<br>woman<br>happy<br>impose<br>write<br>ignore<br>toy<br>shell |  
+| bip_39_word_new_br12 | ritual<br>worry<br>sibling<br>income<br>woman<br>happy<br>impose<br>write<br>ignore<br>toy<br>shell<br>allow |  
+| bip_39_word_new_br2 | ritual<br>worry |  
+| bip_39_word_new_br3 | ritual<br>worry<br>sibling |  
+| bip_39_word_new_br4 | ritual<br>worry<br>sibling<br>income |  
+| bip_39_word_new_br5 | ritual<br>worry<br>sibling<br>income<br>woman |  
+| bip_39_word_new_br6 | ritual<br>worry<br>sibling<br>income<br>woman<br>happy |  
+| bip_39_word_new_br7 | ritual<br>worry<br>sibling<br>income<br>woman<br>happy<br>impose |  
+| bip_39_word_new_br8 | ritual<br>worry<br>sibling<br>income<br>woman<br>happy<br>impose<br>write |  
+| bip_39_word_new_br9 | ritual<br>worry<br>sibling<br>income<br>woman<br>happy<br>impose<br>write<br>ignore |  
+| bip_39_word_new_line1 | ritual |  
+| bip_39_word_new_line10 | ritual
+worry
+sibling
+income
+woman
+happy
+impose
+write
+ignore
+toy |  
+| bip_39_word_new_line11 | ritual
+worry
+sibling
+income
+woman
+happy
+impose
+write
+ignore
+toy
+shell |  
+| bip_39_word_new_line12 | ritual
+worry
+sibling
+income
+woman
+happy
+impose
+write
+ignore
+toy
+shell
+allow |  
+| bip_39_word_new_line2 | ritual
+worry |  
+| bip_39_word_new_line3 | ritual
+worry
+sibling |  
+| bip_39_word_new_line4 | ritual
+worry
+sibling
+income |  
+| bip_39_word_new_line5 | ritual
+worry
+sibling
+income
+woman |  
+| bip_39_word_new_line6 | ritual
+worry
+sibling
+income
+woman
+happy |  
+| bip_39_word_new_line7 | ritual
+worry
+sibling
+income
+woman
+happy
+impose |  
+| bip_39_word_new_line8 | ritual
+worry
+sibling
+income
+woman
+happy
+impose
+write |  
+| bip_39_word_new_line9 | ritual
+worry
+sibling
+income
+woman
+happy
+impose
+write
+ignore |  
+| bip_39_word_space_0 | ['ritual', 'worry', 'sibling', 'income', 'woman', 'happy', 'impose', 'write', 'ignore', 'toy', 'shell', 'allow'] |  
+| bip_39_word_space_1 | ritual |  
+| bip_39_word_space_10 | ritual worry sibling income woman happy impose write ignore toy |  
+| bip_39_word_space_11 | ritual worry sibling income woman happy impose write ignore toy shell |  
+| bip_39_word_space_12 | ritual worry sibling income woman happy impose write ignore toy shell allow |  
+| bip_39_word_space_2 | ritual worry |  
+| bip_39_word_space_3 | ritual worry sibling |  
+| bip_39_word_space_4 | ritual worry sibling income |  
+| bip_39_word_space_5 | ritual worry sibling income woman |  
+| bip_39_word_space_6 | ritual worry sibling income woman happy |  
+| bip_39_word_space_7 | ritual worry sibling income woman happy impose |  
+| bip_39_word_space_8 | ritual worry sibling income woman happy impose write |  
+| bip_39_word_space_9 | ritual worry sibling income woman happy impose write ignore |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

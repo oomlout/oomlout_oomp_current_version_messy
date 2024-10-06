@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nice lake
+  * bip 39 word 3: nice lake over
+  * bip 39 word: nice lake over unlock replace square such armed carpet merry wink arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nice |  
+| bip_39_word_new_br10 | nice<br>lake<br>over<br>unlock<br>replace<br>square<br>such<br>armed<br>carpet<br>merry |  
+| bip_39_word_new_br11 | nice<br>lake<br>over<br>unlock<br>replace<br>square<br>such<br>armed<br>carpet<br>merry<br>wink |  
+| bip_39_word_new_br12 | nice<br>lake<br>over<br>unlock<br>replace<br>square<br>such<br>armed<br>carpet<br>merry<br>wink<br>arch |  
+| bip_39_word_new_br2 | nice<br>lake |  
+| bip_39_word_new_br3 | nice<br>lake<br>over |  
+| bip_39_word_new_br4 | nice<br>lake<br>over<br>unlock |  
+| bip_39_word_new_br5 | nice<br>lake<br>over<br>unlock<br>replace |  
+| bip_39_word_new_br6 | nice<br>lake<br>over<br>unlock<br>replace<br>square |  
+| bip_39_word_new_br7 | nice<br>lake<br>over<br>unlock<br>replace<br>square<br>such |  
+| bip_39_word_new_br8 | nice<br>lake<br>over<br>unlock<br>replace<br>square<br>such<br>armed |  
+| bip_39_word_new_br9 | nice<br>lake<br>over<br>unlock<br>replace<br>square<br>such<br>armed<br>carpet |  
+| bip_39_word_new_line1 | nice |  
+| bip_39_word_new_line10 | nice
+lake
+over
+unlock
+replace
+square
+such
+armed
+carpet
+merry |  
+| bip_39_word_new_line11 | nice
+lake
+over
+unlock
+replace
+square
+such
+armed
+carpet
+merry
+wink |  
+| bip_39_word_new_line12 | nice
+lake
+over
+unlock
+replace
+square
+such
+armed
+carpet
+merry
+wink
+arch |  
+| bip_39_word_new_line2 | nice
+lake |  
+| bip_39_word_new_line3 | nice
+lake
+over |  
+| bip_39_word_new_line4 | nice
+lake
+over
+unlock |  
+| bip_39_word_new_line5 | nice
+lake
+over
+unlock
+replace |  
+| bip_39_word_new_line6 | nice
+lake
+over
+unlock
+replace
+square |  
+| bip_39_word_new_line7 | nice
+lake
+over
+unlock
+replace
+square
+such |  
+| bip_39_word_new_line8 | nice
+lake
+over
+unlock
+replace
+square
+such
+armed |  
+| bip_39_word_new_line9 | nice
+lake
+over
+unlock
+replace
+square
+such
+armed
+carpet |  
+| bip_39_word_space_0 | ['nice', 'lake', 'over', 'unlock', 'replace', 'square', 'such', 'armed', 'carpet', 'merry', 'wink', 'arch'] |  
+| bip_39_word_space_1 | nice |  
+| bip_39_word_space_10 | nice lake over unlock replace square such armed carpet merry |  
+| bip_39_word_space_11 | nice lake over unlock replace square such armed carpet merry wink |  
+| bip_39_word_space_12 | nice lake over unlock replace square such armed carpet merry wink arch |  
+| bip_39_word_space_2 | nice lake |  
+| bip_39_word_space_3 | nice lake over |  
+| bip_39_word_space_4 | nice lake over unlock |  
+| bip_39_word_space_5 | nice lake over unlock replace |  
+| bip_39_word_space_6 | nice lake over unlock replace square |  
+| bip_39_word_space_7 | nice lake over unlock replace square such |  
+| bip_39_word_space_8 | nice lake over unlock replace square such armed |  
+| bip_39_word_space_9 | nice lake over unlock replace square such armed carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: behind
+bip_39_word_new_br10: behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say
+bip_39_word_new_br11: behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say<br>clarify
+bip_39_word_new_br12: behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope<br>say<br>clarify<br>art
+bip_39_word_new_br2: behind<br>token
+bip_39_word_new_br3: behind<br>token<br>battle
+bip_39_word_new_br4: behind<br>token<br>battle<br>toilet
+bip_39_word_new_br5: behind<br>token<br>battle<br>toilet<br>hello
+bip_39_word_new_br6: behind<br>token<br>battle<br>toilet<br>hello<br>enrich
+bip_39_word_new_br7: behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft
+bip_39_word_new_br8: behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass
+bip_39_word_new_br9: behind<br>token<br>battle<br>toilet<br>hello<br>enrich<br>soft<br>pass<br>hope
+bip_39_word_new_line1: behind
+bip_39_word_new_line10: 'behind
+
+  token
+
+  battle
+
+  toilet
+
+  hello
+
+  enrich
+
+  soft
+
+  pass
+
+  hope
+
+  say'
+bip_39_word_new_line11: 'behind
+
+  token
+
+  battle
+
+  toilet
+
+  hello
+
+  enrich
+
+  soft
+
+  pass
+
+  hope
+
+  say
+
+  clarify'
+bip_39_word_new_line12: 'behind
+
+  token
+
+  battle
+
+  toilet
+
+  hello
+
+  enrich
+
+  soft
+
+  pass
+
+  hope
+
+  say
+
+  clarify
+
+  art'
+bip_39_word_new_line2: 'behind
+
+  token'
+bip_39_word_new_line3: 'behind
+
+  token
+
+  battle'
+bip_39_word_new_line4: 'behind
+
+  token
+
+  battle
+
+  toilet'
+bip_39_word_new_line5: 'behind
+
+  token
+
+  battle
+
+  toilet
+
+  hello'
+bip_39_word_new_line6: 'behind
+
+  token
+
+  battle
+
+  toilet
+
+  hello
+
+  enrich'
+bip_39_word_new_line7: 'behind
+
+  token
+
+  battle
+
+  toilet
+
+  hello
+
+  enrich
+
+  soft'
+bip_39_word_new_line8: 'behind
+
+  token
+
+  battle
+
+  toilet
+
+  hello
+
+  enrich
+
+  soft
+
+  pass'
+bip_39_word_new_line9: 'behind
+
+  token
+
+  battle
+
+  toilet
+
+  hello
+
+  enrich
+
+  soft
+
+  pass
+
+  hope'
+bip_39_word_space_0:
+- behind
+- token
+- battle
+- toilet
+- hello
+- enrich
+- soft
+- pass
+- hope
+- say
+- clarify
+- art
+bip_39_word_space_1: behind
+bip_39_word_space_10: behind token battle toilet hello enrich soft pass hope say
+bip_39_word_space_11: behind token battle toilet hello enrich soft pass hope say clarify
+bip_39_word_space_12: behind token battle toilet hello enrich soft pass hope say clarify
+  art
+bip_39_word_space_2: behind token
+bip_39_word_space_3: behind token battle
+bip_39_word_space_4: behind token battle toilet
+bip_39_word_space_5: behind token battle toilet hello
+bip_39_word_space_6: behind token battle toilet hello enrich
+bip_39_word_space_7: behind token battle toilet hello enrich soft
+bip_39_word_space_8: behind token battle toilet hello enrich soft pass
+bip_39_word_space_9: behind token battle toilet hello enrich soft pass hope
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

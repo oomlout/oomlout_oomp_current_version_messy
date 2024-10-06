@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: economy romance
+  * bip 39 word 3: economy romance crime
+  * bip 39 word: economy romance crime second bunker ensure accident elegant notice insect enlist addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | economy |  
+| bip_39_word_new_br10 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure<br>accident<br>elegant<br>notice<br>insect |  
+| bip_39_word_new_br11 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure<br>accident<br>elegant<br>notice<br>insect<br>enlist |  
+| bip_39_word_new_br12 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure<br>accident<br>elegant<br>notice<br>insect<br>enlist<br>addict |  
+| bip_39_word_new_br2 | economy<br>romance |  
+| bip_39_word_new_br3 | economy<br>romance<br>crime |  
+| bip_39_word_new_br4 | economy<br>romance<br>crime<br>second |  
+| bip_39_word_new_br5 | economy<br>romance<br>crime<br>second<br>bunker |  
+| bip_39_word_new_br6 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure |  
+| bip_39_word_new_br7 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure<br>accident |  
+| bip_39_word_new_br8 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure<br>accident<br>elegant |  
+| bip_39_word_new_br9 | economy<br>romance<br>crime<br>second<br>bunker<br>ensure<br>accident<br>elegant<br>notice |  
+| bip_39_word_new_line1 | economy |  
+| bip_39_word_new_line10 | economy
+romance
+crime
+second
+bunker
+ensure
+accident
+elegant
+notice
+insect |  
+| bip_39_word_new_line11 | economy
+romance
+crime
+second
+bunker
+ensure
+accident
+elegant
+notice
+insect
+enlist |  
+| bip_39_word_new_line12 | economy
+romance
+crime
+second
+bunker
+ensure
+accident
+elegant
+notice
+insect
+enlist
+addict |  
+| bip_39_word_new_line2 | economy
+romance |  
+| bip_39_word_new_line3 | economy
+romance
+crime |  
+| bip_39_word_new_line4 | economy
+romance
+crime
+second |  
+| bip_39_word_new_line5 | economy
+romance
+crime
+second
+bunker |  
+| bip_39_word_new_line6 | economy
+romance
+crime
+second
+bunker
+ensure |  
+| bip_39_word_new_line7 | economy
+romance
+crime
+second
+bunker
+ensure
+accident |  
+| bip_39_word_new_line8 | economy
+romance
+crime
+second
+bunker
+ensure
+accident
+elegant |  
+| bip_39_word_new_line9 | economy
+romance
+crime
+second
+bunker
+ensure
+accident
+elegant
+notice |  
+| bip_39_word_space_0 | ['economy', 'romance', 'crime', 'second', 'bunker', 'ensure', 'accident', 'elegant', 'notice', 'insect', 'enlist', 'addict'] |  
+| bip_39_word_space_1 | economy |  
+| bip_39_word_space_10 | economy romance crime second bunker ensure accident elegant notice insect |  
+| bip_39_word_space_11 | economy romance crime second bunker ensure accident elegant notice insect enlist |  
+| bip_39_word_space_12 | economy romance crime second bunker ensure accident elegant notice insect enlist addict |  
+| bip_39_word_space_2 | economy romance |  
+| bip_39_word_space_3 | economy romance crime |  
+| bip_39_word_space_4 | economy romance crime second |  
+| bip_39_word_space_5 | economy romance crime second bunker |  
+| bip_39_word_space_6 | economy romance crime second bunker ensure |  
+| bip_39_word_space_7 | economy romance crime second bunker ensure accident |  
+| bip_39_word_space_8 | economy romance crime second bunker ensure accident elegant |  
+| bip_39_word_space_9 | economy romance crime second bunker ensure accident elegant notice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: era
+bip_39_word_new_br10: era<br>lady<br>dizzy<br>keen<br>eight<br>rural<br>choose<br>notice<br>tiny<br>phone
+bip_39_word_new_br11: era<br>lady<br>dizzy<br>keen<br>eight<br>rural<br>choose<br>notice<br>tiny<br>phone<br>cousin
+bip_39_word_new_br12: era<br>lady<br>dizzy<br>keen<br>eight<br>rural<br>choose<br>notice<br>tiny<br>phone<br>cousin<br>afraid
+bip_39_word_new_br2: era<br>lady
+bip_39_word_new_br3: era<br>lady<br>dizzy
+bip_39_word_new_br4: era<br>lady<br>dizzy<br>keen
+bip_39_word_new_br5: era<br>lady<br>dizzy<br>keen<br>eight
+bip_39_word_new_br6: era<br>lady<br>dizzy<br>keen<br>eight<br>rural
+bip_39_word_new_br7: era<br>lady<br>dizzy<br>keen<br>eight<br>rural<br>choose
+bip_39_word_new_br8: era<br>lady<br>dizzy<br>keen<br>eight<br>rural<br>choose<br>notice
+bip_39_word_new_br9: era<br>lady<br>dizzy<br>keen<br>eight<br>rural<br>choose<br>notice<br>tiny
+bip_39_word_new_line1: era
+bip_39_word_new_line10: 'era
+
+  lady
+
+  dizzy
+
+  keen
+
+  eight
+
+  rural
+
+  choose
+
+  notice
+
+  tiny
+
+  phone'
+bip_39_word_new_line11: 'era
+
+  lady
+
+  dizzy
+
+  keen
+
+  eight
+
+  rural
+
+  choose
+
+  notice
+
+  tiny
+
+  phone
+
+  cousin'
+bip_39_word_new_line12: 'era
+
+  lady
+
+  dizzy
+
+  keen
+
+  eight
+
+  rural
+
+  choose
+
+  notice
+
+  tiny
+
+  phone
+
+  cousin
+
+  afraid'
+bip_39_word_new_line2: 'era
+
+  lady'
+bip_39_word_new_line3: 'era
+
+  lady
+
+  dizzy'
+bip_39_word_new_line4: 'era
+
+  lady
+
+  dizzy
+
+  keen'
+bip_39_word_new_line5: 'era
+
+  lady
+
+  dizzy
+
+  keen
+
+  eight'
+bip_39_word_new_line6: 'era
+
+  lady
+
+  dizzy
+
+  keen
+
+  eight
+
+  rural'
+bip_39_word_new_line7: 'era
+
+  lady
+
+  dizzy
+
+  keen
+
+  eight
+
+  rural
+
+  choose'
+bip_39_word_new_line8: 'era
+
+  lady
+
+  dizzy
+
+  keen
+
+  eight
+
+  rural
+
+  choose
+
+  notice'
+bip_39_word_new_line9: 'era
+
+  lady
+
+  dizzy
+
+  keen
+
+  eight
+
+  rural
+
+  choose
+
+  notice
+
+  tiny'
+bip_39_word_space_0:
+- era
+- lady
+- dizzy
+- keen
+- eight
+- rural
+- choose
+- notice
+- tiny
+- phone
+- cousin
+- afraid
+bip_39_word_space_1: era
+bip_39_word_space_10: era lady dizzy keen eight rural choose notice tiny phone
+bip_39_word_space_11: era lady dizzy keen eight rural choose notice tiny phone cousin
+bip_39_word_space_12: era lady dizzy keen eight rural choose notice tiny phone cousin
+  afraid
+bip_39_word_space_2: era lady
+bip_39_word_space_3: era lady dizzy
+bip_39_word_space_4: era lady dizzy keen
+bip_39_word_space_5: era lady dizzy keen eight
+bip_39_word_space_6: era lady dizzy keen eight rural
+bip_39_word_space_7: era lady dizzy keen eight rural choose
+bip_39_word_space_8: era lady dizzy keen eight rural choose notice
+bip_39_word_space_9: era lady dizzy keen eight rural choose notice tiny
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tumble river
+  * bip 39 word 3: tumble river glide
+  * bip 39 word: tumble river glide miss bachelor worth fly scatter strong beauty morning asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tumble |  
+| bip_39_word_new_br10 | tumble<br>river<br>glide<br>miss<br>bachelor<br>worth<br>fly<br>scatter<br>strong<br>beauty |  
+| bip_39_word_new_br11 | tumble<br>river<br>glide<br>miss<br>bachelor<br>worth<br>fly<br>scatter<br>strong<br>beauty<br>morning |  
+| bip_39_word_new_br12 | tumble<br>river<br>glide<br>miss<br>bachelor<br>worth<br>fly<br>scatter<br>strong<br>beauty<br>morning<br>asset |  
+| bip_39_word_new_br2 | tumble<br>river |  
+| bip_39_word_new_br3 | tumble<br>river<br>glide |  
+| bip_39_word_new_br4 | tumble<br>river<br>glide<br>miss |  
+| bip_39_word_new_br5 | tumble<br>river<br>glide<br>miss<br>bachelor |  
+| bip_39_word_new_br6 | tumble<br>river<br>glide<br>miss<br>bachelor<br>worth |  
+| bip_39_word_new_br7 | tumble<br>river<br>glide<br>miss<br>bachelor<br>worth<br>fly |  
+| bip_39_word_new_br8 | tumble<br>river<br>glide<br>miss<br>bachelor<br>worth<br>fly<br>scatter |  
+| bip_39_word_new_br9 | tumble<br>river<br>glide<br>miss<br>bachelor<br>worth<br>fly<br>scatter<br>strong |  
+| bip_39_word_new_line1 | tumble |  
+| bip_39_word_new_line10 | tumble
+river
+glide
+miss
+bachelor
+worth
+fly
+scatter
+strong
+beauty |  
+| bip_39_word_new_line11 | tumble
+river
+glide
+miss
+bachelor
+worth
+fly
+scatter
+strong
+beauty
+morning |  
+| bip_39_word_new_line12 | tumble
+river
+glide
+miss
+bachelor
+worth
+fly
+scatter
+strong
+beauty
+morning
+asset |  
+| bip_39_word_new_line2 | tumble
+river |  
+| bip_39_word_new_line3 | tumble
+river
+glide |  
+| bip_39_word_new_line4 | tumble
+river
+glide
+miss |  
+| bip_39_word_new_line5 | tumble
+river
+glide
+miss
+bachelor |  
+| bip_39_word_new_line6 | tumble
+river
+glide
+miss
+bachelor
+worth |  
+| bip_39_word_new_line7 | tumble
+river
+glide
+miss
+bachelor
+worth
+fly |  
+| bip_39_word_new_line8 | tumble
+river
+glide
+miss
+bachelor
+worth
+fly
+scatter |  
+| bip_39_word_new_line9 | tumble
+river
+glide
+miss
+bachelor
+worth
+fly
+scatter
+strong |  
+| bip_39_word_space_0 | ['tumble', 'river', 'glide', 'miss', 'bachelor', 'worth', 'fly', 'scatter', 'strong', 'beauty', 'morning', 'asset'] |  
+| bip_39_word_space_1 | tumble |  
+| bip_39_word_space_10 | tumble river glide miss bachelor worth fly scatter strong beauty |  
+| bip_39_word_space_11 | tumble river glide miss bachelor worth fly scatter strong beauty morning |  
+| bip_39_word_space_12 | tumble river glide miss bachelor worth fly scatter strong beauty morning asset |  
+| bip_39_word_space_2 | tumble river |  
+| bip_39_word_space_3 | tumble river glide |  
+| bip_39_word_space_4 | tumble river glide miss |  
+| bip_39_word_space_5 | tumble river glide miss bachelor |  
+| bip_39_word_space_6 | tumble river glide miss bachelor worth |  
+| bip_39_word_space_7 | tumble river glide miss bachelor worth fly |  
+| bip_39_word_space_8 | tumble river glide miss bachelor worth fly scatter |  
+| bip_39_word_space_9 | tumble river glide miss bachelor worth fly scatter strong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

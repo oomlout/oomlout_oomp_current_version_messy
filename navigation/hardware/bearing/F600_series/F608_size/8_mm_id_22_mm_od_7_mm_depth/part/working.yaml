@@ -1,3 +1,186 @@
+bip_39_word_new_br1: stage
+bip_39_word_new_br10: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal
+bip_39_word_new_br11: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal<br>neglect
+bip_39_word_new_br12: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper<br>vocal<br>neglect<br>adult
+bip_39_word_new_br2: stage<br>saddle
+bip_39_word_new_br3: stage<br>saddle<br>ginger
+bip_39_word_new_br4: stage<br>saddle<br>ginger<br>erase
+bip_39_word_new_br5: stage<br>saddle<br>ginger<br>erase<br>upon
+bip_39_word_new_br6: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate
+bip_39_word_new_br7: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive
+bip_39_word_new_br8: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy
+bip_39_word_new_br9: stage<br>saddle<br>ginger<br>erase<br>upon<br>educate<br>naive<br>galaxy<br>copper
+bip_39_word_new_line1: stage
+bip_39_word_new_line10: 'stage
+
+  saddle
+
+  ginger
+
+  erase
+
+  upon
+
+  educate
+
+  naive
+
+  galaxy
+
+  copper
+
+  vocal'
+bip_39_word_new_line11: 'stage
+
+  saddle
+
+  ginger
+
+  erase
+
+  upon
+
+  educate
+
+  naive
+
+  galaxy
+
+  copper
+
+  vocal
+
+  neglect'
+bip_39_word_new_line12: 'stage
+
+  saddle
+
+  ginger
+
+  erase
+
+  upon
+
+  educate
+
+  naive
+
+  galaxy
+
+  copper
+
+  vocal
+
+  neglect
+
+  adult'
+bip_39_word_new_line2: 'stage
+
+  saddle'
+bip_39_word_new_line3: 'stage
+
+  saddle
+
+  ginger'
+bip_39_word_new_line4: 'stage
+
+  saddle
+
+  ginger
+
+  erase'
+bip_39_word_new_line5: 'stage
+
+  saddle
+
+  ginger
+
+  erase
+
+  upon'
+bip_39_word_new_line6: 'stage
+
+  saddle
+
+  ginger
+
+  erase
+
+  upon
+
+  educate'
+bip_39_word_new_line7: 'stage
+
+  saddle
+
+  ginger
+
+  erase
+
+  upon
+
+  educate
+
+  naive'
+bip_39_word_new_line8: 'stage
+
+  saddle
+
+  ginger
+
+  erase
+
+  upon
+
+  educate
+
+  naive
+
+  galaxy'
+bip_39_word_new_line9: 'stage
+
+  saddle
+
+  ginger
+
+  erase
+
+  upon
+
+  educate
+
+  naive
+
+  galaxy
+
+  copper'
+bip_39_word_space_0:
+- stage
+- saddle
+- ginger
+- erase
+- upon
+- educate
+- naive
+- galaxy
+- copper
+- vocal
+- neglect
+- adult
+bip_39_word_space_1: stage
+bip_39_word_space_10: stage saddle ginger erase upon educate naive galaxy copper vocal
+bip_39_word_space_11: stage saddle ginger erase upon educate naive galaxy copper vocal
+  neglect
+bip_39_word_space_12: stage saddle ginger erase upon educate naive galaxy copper vocal
+  neglect adult
+bip_39_word_space_2: stage saddle
+bip_39_word_space_3: stage saddle ginger
+bip_39_word_space_4: stage saddle ginger erase
+bip_39_word_space_5: stage saddle ginger erase upon
+bip_39_word_space_6: stage saddle ginger erase upon educate
+bip_39_word_space_7: stage saddle ginger erase upon educate naive
+bip_39_word_space_8: stage saddle ginger erase upon educate naive galaxy
+bip_39_word_space_9: stage saddle ginger erase upon educate naive galaxy copper
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

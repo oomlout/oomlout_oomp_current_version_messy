@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faculty clerk
+  * bip 39 word 3: faculty clerk sun
+  * bip 39 word: faculty clerk sun cube orbit artefact extra slam bunker curtain citizen addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faculty |  
+| bip_39_word_new_br10 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact<br>extra<br>slam<br>bunker<br>curtain |  
+| bip_39_word_new_br11 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact<br>extra<br>slam<br>bunker<br>curtain<br>citizen |  
+| bip_39_word_new_br12 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact<br>extra<br>slam<br>bunker<br>curtain<br>citizen<br>addict |  
+| bip_39_word_new_br2 | faculty<br>clerk |  
+| bip_39_word_new_br3 | faculty<br>clerk<br>sun |  
+| bip_39_word_new_br4 | faculty<br>clerk<br>sun<br>cube |  
+| bip_39_word_new_br5 | faculty<br>clerk<br>sun<br>cube<br>orbit |  
+| bip_39_word_new_br6 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact |  
+| bip_39_word_new_br7 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact<br>extra |  
+| bip_39_word_new_br8 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact<br>extra<br>slam |  
+| bip_39_word_new_br9 | faculty<br>clerk<br>sun<br>cube<br>orbit<br>artefact<br>extra<br>slam<br>bunker |  
+| bip_39_word_new_line1 | faculty |  
+| bip_39_word_new_line10 | faculty
+clerk
+sun
+cube
+orbit
+artefact
+extra
+slam
+bunker
+curtain |  
+| bip_39_word_new_line11 | faculty
+clerk
+sun
+cube
+orbit
+artefact
+extra
+slam
+bunker
+curtain
+citizen |  
+| bip_39_word_new_line12 | faculty
+clerk
+sun
+cube
+orbit
+artefact
+extra
+slam
+bunker
+curtain
+citizen
+addict |  
+| bip_39_word_new_line2 | faculty
+clerk |  
+| bip_39_word_new_line3 | faculty
+clerk
+sun |  
+| bip_39_word_new_line4 | faculty
+clerk
+sun
+cube |  
+| bip_39_word_new_line5 | faculty
+clerk
+sun
+cube
+orbit |  
+| bip_39_word_new_line6 | faculty
+clerk
+sun
+cube
+orbit
+artefact |  
+| bip_39_word_new_line7 | faculty
+clerk
+sun
+cube
+orbit
+artefact
+extra |  
+| bip_39_word_new_line8 | faculty
+clerk
+sun
+cube
+orbit
+artefact
+extra
+slam |  
+| bip_39_word_new_line9 | faculty
+clerk
+sun
+cube
+orbit
+artefact
+extra
+slam
+bunker |  
+| bip_39_word_space_0 | ['faculty', 'clerk', 'sun', 'cube', 'orbit', 'artefact', 'extra', 'slam', 'bunker', 'curtain', 'citizen', 'addict'] |  
+| bip_39_word_space_1 | faculty |  
+| bip_39_word_space_10 | faculty clerk sun cube orbit artefact extra slam bunker curtain |  
+| bip_39_word_space_11 | faculty clerk sun cube orbit artefact extra slam bunker curtain citizen |  
+| bip_39_word_space_12 | faculty clerk sun cube orbit artefact extra slam bunker curtain citizen addict |  
+| bip_39_word_space_2 | faculty clerk |  
+| bip_39_word_space_3 | faculty clerk sun |  
+| bip_39_word_space_4 | faculty clerk sun cube |  
+| bip_39_word_space_5 | faculty clerk sun cube orbit |  
+| bip_39_word_space_6 | faculty clerk sun cube orbit artefact |  
+| bip_39_word_space_7 | faculty clerk sun cube orbit artefact extra |  
+| bip_39_word_space_8 | faculty clerk sun cube orbit artefact extra slam |  
+| bip_39_word_space_9 | faculty clerk sun cube orbit artefact extra slam bunker |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

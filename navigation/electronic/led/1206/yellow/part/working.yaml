@@ -1,3 +1,186 @@
+bip_39_word_new_br1: legal
+bip_39_word_new_br10: legal<br>will<br>eager<br>ancient<br>auction<br>junk<br>uphold<br>spend<br>era<br>brief
+bip_39_word_new_br11: legal<br>will<br>eager<br>ancient<br>auction<br>junk<br>uphold<br>spend<br>era<br>brief<br>dinosaur
+bip_39_word_new_br12: legal<br>will<br>eager<br>ancient<br>auction<br>junk<br>uphold<br>spend<br>era<br>brief<br>dinosaur<br>afraid
+bip_39_word_new_br2: legal<br>will
+bip_39_word_new_br3: legal<br>will<br>eager
+bip_39_word_new_br4: legal<br>will<br>eager<br>ancient
+bip_39_word_new_br5: legal<br>will<br>eager<br>ancient<br>auction
+bip_39_word_new_br6: legal<br>will<br>eager<br>ancient<br>auction<br>junk
+bip_39_word_new_br7: legal<br>will<br>eager<br>ancient<br>auction<br>junk<br>uphold
+bip_39_word_new_br8: legal<br>will<br>eager<br>ancient<br>auction<br>junk<br>uphold<br>spend
+bip_39_word_new_br9: legal<br>will<br>eager<br>ancient<br>auction<br>junk<br>uphold<br>spend<br>era
+bip_39_word_new_line1: legal
+bip_39_word_new_line10: 'legal
+
+  will
+
+  eager
+
+  ancient
+
+  auction
+
+  junk
+
+  uphold
+
+  spend
+
+  era
+
+  brief'
+bip_39_word_new_line11: 'legal
+
+  will
+
+  eager
+
+  ancient
+
+  auction
+
+  junk
+
+  uphold
+
+  spend
+
+  era
+
+  brief
+
+  dinosaur'
+bip_39_word_new_line12: 'legal
+
+  will
+
+  eager
+
+  ancient
+
+  auction
+
+  junk
+
+  uphold
+
+  spend
+
+  era
+
+  brief
+
+  dinosaur
+
+  afraid'
+bip_39_word_new_line2: 'legal
+
+  will'
+bip_39_word_new_line3: 'legal
+
+  will
+
+  eager'
+bip_39_word_new_line4: 'legal
+
+  will
+
+  eager
+
+  ancient'
+bip_39_word_new_line5: 'legal
+
+  will
+
+  eager
+
+  ancient
+
+  auction'
+bip_39_word_new_line6: 'legal
+
+  will
+
+  eager
+
+  ancient
+
+  auction
+
+  junk'
+bip_39_word_new_line7: 'legal
+
+  will
+
+  eager
+
+  ancient
+
+  auction
+
+  junk
+
+  uphold'
+bip_39_word_new_line8: 'legal
+
+  will
+
+  eager
+
+  ancient
+
+  auction
+
+  junk
+
+  uphold
+
+  spend'
+bip_39_word_new_line9: 'legal
+
+  will
+
+  eager
+
+  ancient
+
+  auction
+
+  junk
+
+  uphold
+
+  spend
+
+  era'
+bip_39_word_space_0:
+- legal
+- will
+- eager
+- ancient
+- auction
+- junk
+- uphold
+- spend
+- era
+- brief
+- dinosaur
+- afraid
+bip_39_word_space_1: legal
+bip_39_word_space_10: legal will eager ancient auction junk uphold spend era brief
+bip_39_word_space_11: legal will eager ancient auction junk uphold spend era brief
+  dinosaur
+bip_39_word_space_12: legal will eager ancient auction junk uphold spend era brief
+  dinosaur afraid
+bip_39_word_space_2: legal will
+bip_39_word_space_3: legal will eager
+bip_39_word_space_4: legal will eager ancient
+bip_39_word_space_5: legal will eager ancient auction
+bip_39_word_space_6: legal will eager ancient auction junk
+bip_39_word_space_7: legal will eager ancient auction junk uphold
+bip_39_word_space_8: legal will eager ancient auction junk uphold spend
+bip_39_word_space_9: legal will eager ancient auction junk uphold spend era
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

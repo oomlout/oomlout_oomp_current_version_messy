@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quiz ice
+  * bip 39 word 3: quiz ice theme
+  * bip 39 word: quiz ice theme miss travel mango leave barrel spread organ equip arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quiz |  
+| bip_39_word_new_br10 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango<br>leave<br>barrel<br>spread<br>organ |  
+| bip_39_word_new_br11 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango<br>leave<br>barrel<br>spread<br>organ<br>equip |  
+| bip_39_word_new_br12 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango<br>leave<br>barrel<br>spread<br>organ<br>equip<br>arm |  
+| bip_39_word_new_br2 | quiz<br>ice |  
+| bip_39_word_new_br3 | quiz<br>ice<br>theme |  
+| bip_39_word_new_br4 | quiz<br>ice<br>theme<br>miss |  
+| bip_39_word_new_br5 | quiz<br>ice<br>theme<br>miss<br>travel |  
+| bip_39_word_new_br6 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango |  
+| bip_39_word_new_br7 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango<br>leave |  
+| bip_39_word_new_br8 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango<br>leave<br>barrel |  
+| bip_39_word_new_br9 | quiz<br>ice<br>theme<br>miss<br>travel<br>mango<br>leave<br>barrel<br>spread |  
+| bip_39_word_new_line1 | quiz |  
+| bip_39_word_new_line10 | quiz
+ice
+theme
+miss
+travel
+mango
+leave
+barrel
+spread
+organ |  
+| bip_39_word_new_line11 | quiz
+ice
+theme
+miss
+travel
+mango
+leave
+barrel
+spread
+organ
+equip |  
+| bip_39_word_new_line12 | quiz
+ice
+theme
+miss
+travel
+mango
+leave
+barrel
+spread
+organ
+equip
+arm |  
+| bip_39_word_new_line2 | quiz
+ice |  
+| bip_39_word_new_line3 | quiz
+ice
+theme |  
+| bip_39_word_new_line4 | quiz
+ice
+theme
+miss |  
+| bip_39_word_new_line5 | quiz
+ice
+theme
+miss
+travel |  
+| bip_39_word_new_line6 | quiz
+ice
+theme
+miss
+travel
+mango |  
+| bip_39_word_new_line7 | quiz
+ice
+theme
+miss
+travel
+mango
+leave |  
+| bip_39_word_new_line8 | quiz
+ice
+theme
+miss
+travel
+mango
+leave
+barrel |  
+| bip_39_word_new_line9 | quiz
+ice
+theme
+miss
+travel
+mango
+leave
+barrel
+spread |  
+| bip_39_word_space_0 | ['quiz', 'ice', 'theme', 'miss', 'travel', 'mango', 'leave', 'barrel', 'spread', 'organ', 'equip', 'arm'] |  
+| bip_39_word_space_1 | quiz |  
+| bip_39_word_space_10 | quiz ice theme miss travel mango leave barrel spread organ |  
+| bip_39_word_space_11 | quiz ice theme miss travel mango leave barrel spread organ equip |  
+| bip_39_word_space_12 | quiz ice theme miss travel mango leave barrel spread organ equip arm |  
+| bip_39_word_space_2 | quiz ice |  
+| bip_39_word_space_3 | quiz ice theme |  
+| bip_39_word_space_4 | quiz ice theme miss |  
+| bip_39_word_space_5 | quiz ice theme miss travel |  
+| bip_39_word_space_6 | quiz ice theme miss travel mango |  
+| bip_39_word_space_7 | quiz ice theme miss travel mango leave |  
+| bip_39_word_space_8 | quiz ice theme miss travel mango leave barrel |  
+| bip_39_word_space_9 | quiz ice theme miss travel mango leave barrel spread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

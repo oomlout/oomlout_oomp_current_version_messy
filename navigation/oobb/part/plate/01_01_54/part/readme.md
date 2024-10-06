@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decline cream
+  * bip 39 word 3: decline cream fold
+  * bip 39 word: decline cream fold write split crunch viable chat alley hold blanket auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decline |  
+| bip_39_word_new_br10 | decline<br>cream<br>fold<br>write<br>split<br>crunch<br>viable<br>chat<br>alley<br>hold |  
+| bip_39_word_new_br11 | decline<br>cream<br>fold<br>write<br>split<br>crunch<br>viable<br>chat<br>alley<br>hold<br>blanket |  
+| bip_39_word_new_br12 | decline<br>cream<br>fold<br>write<br>split<br>crunch<br>viable<br>chat<br>alley<br>hold<br>blanket<br>auto |  
+| bip_39_word_new_br2 | decline<br>cream |  
+| bip_39_word_new_br3 | decline<br>cream<br>fold |  
+| bip_39_word_new_br4 | decline<br>cream<br>fold<br>write |  
+| bip_39_word_new_br5 | decline<br>cream<br>fold<br>write<br>split |  
+| bip_39_word_new_br6 | decline<br>cream<br>fold<br>write<br>split<br>crunch |  
+| bip_39_word_new_br7 | decline<br>cream<br>fold<br>write<br>split<br>crunch<br>viable |  
+| bip_39_word_new_br8 | decline<br>cream<br>fold<br>write<br>split<br>crunch<br>viable<br>chat |  
+| bip_39_word_new_br9 | decline<br>cream<br>fold<br>write<br>split<br>crunch<br>viable<br>chat<br>alley |  
+| bip_39_word_new_line1 | decline |  
+| bip_39_word_new_line10 | decline
+cream
+fold
+write
+split
+crunch
+viable
+chat
+alley
+hold |  
+| bip_39_word_new_line11 | decline
+cream
+fold
+write
+split
+crunch
+viable
+chat
+alley
+hold
+blanket |  
+| bip_39_word_new_line12 | decline
+cream
+fold
+write
+split
+crunch
+viable
+chat
+alley
+hold
+blanket
+auto |  
+| bip_39_word_new_line2 | decline
+cream |  
+| bip_39_word_new_line3 | decline
+cream
+fold |  
+| bip_39_word_new_line4 | decline
+cream
+fold
+write |  
+| bip_39_word_new_line5 | decline
+cream
+fold
+write
+split |  
+| bip_39_word_new_line6 | decline
+cream
+fold
+write
+split
+crunch |  
+| bip_39_word_new_line7 | decline
+cream
+fold
+write
+split
+crunch
+viable |  
+| bip_39_word_new_line8 | decline
+cream
+fold
+write
+split
+crunch
+viable
+chat |  
+| bip_39_word_new_line9 | decline
+cream
+fold
+write
+split
+crunch
+viable
+chat
+alley |  
+| bip_39_word_space_0 | ['decline', 'cream', 'fold', 'write', 'split', 'crunch', 'viable', 'chat', 'alley', 'hold', 'blanket', 'auto'] |  
+| bip_39_word_space_1 | decline |  
+| bip_39_word_space_10 | decline cream fold write split crunch viable chat alley hold |  
+| bip_39_word_space_11 | decline cream fold write split crunch viable chat alley hold blanket |  
+| bip_39_word_space_12 | decline cream fold write split crunch viable chat alley hold blanket auto |  
+| bip_39_word_space_2 | decline cream |  
+| bip_39_word_space_3 | decline cream fold |  
+| bip_39_word_space_4 | decline cream fold write |  
+| bip_39_word_space_5 | decline cream fold write split |  
+| bip_39_word_space_6 | decline cream fold write split crunch |  
+| bip_39_word_space_7 | decline cream fold write split crunch viable |  
+| bip_39_word_space_8 | decline cream fold write split crunch viable chat |  
+| bip_39_word_space_9 | decline cream fold write split crunch viable chat alley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mimic marine
+  * bip 39 word 3: mimic marine crawl
+  * bip 39 word: mimic marine crawl payment radar layer hub replace display retire robust abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mimic |  
+| bip_39_word_new_br10 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer<br>hub<br>replace<br>display<br>retire |  
+| bip_39_word_new_br11 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer<br>hub<br>replace<br>display<br>retire<br>robust |  
+| bip_39_word_new_br12 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer<br>hub<br>replace<br>display<br>retire<br>robust<br>abuse |  
+| bip_39_word_new_br2 | mimic<br>marine |  
+| bip_39_word_new_br3 | mimic<br>marine<br>crawl |  
+| bip_39_word_new_br4 | mimic<br>marine<br>crawl<br>payment |  
+| bip_39_word_new_br5 | mimic<br>marine<br>crawl<br>payment<br>radar |  
+| bip_39_word_new_br6 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer |  
+| bip_39_word_new_br7 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer<br>hub |  
+| bip_39_word_new_br8 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer<br>hub<br>replace |  
+| bip_39_word_new_br9 | mimic<br>marine<br>crawl<br>payment<br>radar<br>layer<br>hub<br>replace<br>display |  
+| bip_39_word_new_line1 | mimic |  
+| bip_39_word_new_line10 | mimic
+marine
+crawl
+payment
+radar
+layer
+hub
+replace
+display
+retire |  
+| bip_39_word_new_line11 | mimic
+marine
+crawl
+payment
+radar
+layer
+hub
+replace
+display
+retire
+robust |  
+| bip_39_word_new_line12 | mimic
+marine
+crawl
+payment
+radar
+layer
+hub
+replace
+display
+retire
+robust
+abuse |  
+| bip_39_word_new_line2 | mimic
+marine |  
+| bip_39_word_new_line3 | mimic
+marine
+crawl |  
+| bip_39_word_new_line4 | mimic
+marine
+crawl
+payment |  
+| bip_39_word_new_line5 | mimic
+marine
+crawl
+payment
+radar |  
+| bip_39_word_new_line6 | mimic
+marine
+crawl
+payment
+radar
+layer |  
+| bip_39_word_new_line7 | mimic
+marine
+crawl
+payment
+radar
+layer
+hub |  
+| bip_39_word_new_line8 | mimic
+marine
+crawl
+payment
+radar
+layer
+hub
+replace |  
+| bip_39_word_new_line9 | mimic
+marine
+crawl
+payment
+radar
+layer
+hub
+replace
+display |  
+| bip_39_word_space_0 | ['mimic', 'marine', 'crawl', 'payment', 'radar', 'layer', 'hub', 'replace', 'display', 'retire', 'robust', 'abuse'] |  
+| bip_39_word_space_1 | mimic |  
+| bip_39_word_space_10 | mimic marine crawl payment radar layer hub replace display retire |  
+| bip_39_word_space_11 | mimic marine crawl payment radar layer hub replace display retire robust |  
+| bip_39_word_space_12 | mimic marine crawl payment radar layer hub replace display retire robust abuse |  
+| bip_39_word_space_2 | mimic marine |  
+| bip_39_word_space_3 | mimic marine crawl |  
+| bip_39_word_space_4 | mimic marine crawl payment |  
+| bip_39_word_space_5 | mimic marine crawl payment radar |  
+| bip_39_word_space_6 | mimic marine crawl payment radar layer |  
+| bip_39_word_space_7 | mimic marine crawl payment radar layer hub |  
+| bip_39_word_space_8 | mimic marine crawl payment radar layer hub replace |  
+| bip_39_word_space_9 | mimic marine crawl payment radar layer hub replace display |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: insane dwarf
+  * bip 39 word 3: insane dwarf success
+  * bip 39 word: insane dwarf success essay peasant edge barrel record salt require sunny alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | insane |  
+| bip_39_word_new_br10 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge<br>barrel<br>record<br>salt<br>require |  
+| bip_39_word_new_br11 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge<br>barrel<br>record<br>salt<br>require<br>sunny |  
+| bip_39_word_new_br12 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge<br>barrel<br>record<br>salt<br>require<br>sunny<br>alert |  
+| bip_39_word_new_br2 | insane<br>dwarf |  
+| bip_39_word_new_br3 | insane<br>dwarf<br>success |  
+| bip_39_word_new_br4 | insane<br>dwarf<br>success<br>essay |  
+| bip_39_word_new_br5 | insane<br>dwarf<br>success<br>essay<br>peasant |  
+| bip_39_word_new_br6 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge |  
+| bip_39_word_new_br7 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge<br>barrel |  
+| bip_39_word_new_br8 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge<br>barrel<br>record |  
+| bip_39_word_new_br9 | insane<br>dwarf<br>success<br>essay<br>peasant<br>edge<br>barrel<br>record<br>salt |  
+| bip_39_word_new_line1 | insane |  
+| bip_39_word_new_line10 | insane
+dwarf
+success
+essay
+peasant
+edge
+barrel
+record
+salt
+require |  
+| bip_39_word_new_line11 | insane
+dwarf
+success
+essay
+peasant
+edge
+barrel
+record
+salt
+require
+sunny |  
+| bip_39_word_new_line12 | insane
+dwarf
+success
+essay
+peasant
+edge
+barrel
+record
+salt
+require
+sunny
+alert |  
+| bip_39_word_new_line2 | insane
+dwarf |  
+| bip_39_word_new_line3 | insane
+dwarf
+success |  
+| bip_39_word_new_line4 | insane
+dwarf
+success
+essay |  
+| bip_39_word_new_line5 | insane
+dwarf
+success
+essay
+peasant |  
+| bip_39_word_new_line6 | insane
+dwarf
+success
+essay
+peasant
+edge |  
+| bip_39_word_new_line7 | insane
+dwarf
+success
+essay
+peasant
+edge
+barrel |  
+| bip_39_word_new_line8 | insane
+dwarf
+success
+essay
+peasant
+edge
+barrel
+record |  
+| bip_39_word_new_line9 | insane
+dwarf
+success
+essay
+peasant
+edge
+barrel
+record
+salt |  
+| bip_39_word_space_0 | ['insane', 'dwarf', 'success', 'essay', 'peasant', 'edge', 'barrel', 'record', 'salt', 'require', 'sunny', 'alert'] |  
+| bip_39_word_space_1 | insane |  
+| bip_39_word_space_10 | insane dwarf success essay peasant edge barrel record salt require |  
+| bip_39_word_space_11 | insane dwarf success essay peasant edge barrel record salt require sunny |  
+| bip_39_word_space_12 | insane dwarf success essay peasant edge barrel record salt require sunny alert |  
+| bip_39_word_space_2 | insane dwarf |  
+| bip_39_word_space_3 | insane dwarf success |  
+| bip_39_word_space_4 | insane dwarf success essay |  
+| bip_39_word_space_5 | insane dwarf success essay peasant |  
+| bip_39_word_space_6 | insane dwarf success essay peasant edge |  
+| bip_39_word_space_7 | insane dwarf success essay peasant edge barrel |  
+| bip_39_word_space_8 | insane dwarf success essay peasant edge barrel record |  
+| bip_39_word_space_9 | insane dwarf success essay peasant edge barrel record salt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

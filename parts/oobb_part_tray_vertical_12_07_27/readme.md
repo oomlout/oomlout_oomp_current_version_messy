@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chef slam
+  * bip 39 word 3: chef slam area
+  * bip 39 word: chef slam area festival wire glass elite spawn diagram sorry copper almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chef |  
+| bip_39_word_new_br10 | chef<br>slam<br>area<br>festival<br>wire<br>glass<br>elite<br>spawn<br>diagram<br>sorry |  
+| bip_39_word_new_br11 | chef<br>slam<br>area<br>festival<br>wire<br>glass<br>elite<br>spawn<br>diagram<br>sorry<br>copper |  
+| bip_39_word_new_br12 | chef<br>slam<br>area<br>festival<br>wire<br>glass<br>elite<br>spawn<br>diagram<br>sorry<br>copper<br>almost |  
+| bip_39_word_new_br2 | chef<br>slam |  
+| bip_39_word_new_br3 | chef<br>slam<br>area |  
+| bip_39_word_new_br4 | chef<br>slam<br>area<br>festival |  
+| bip_39_word_new_br5 | chef<br>slam<br>area<br>festival<br>wire |  
+| bip_39_word_new_br6 | chef<br>slam<br>area<br>festival<br>wire<br>glass |  
+| bip_39_word_new_br7 | chef<br>slam<br>area<br>festival<br>wire<br>glass<br>elite |  
+| bip_39_word_new_br8 | chef<br>slam<br>area<br>festival<br>wire<br>glass<br>elite<br>spawn |  
+| bip_39_word_new_br9 | chef<br>slam<br>area<br>festival<br>wire<br>glass<br>elite<br>spawn<br>diagram |  
+| bip_39_word_new_line1 | chef |  
+| bip_39_word_new_line10 | chef
+slam
+area
+festival
+wire
+glass
+elite
+spawn
+diagram
+sorry |  
+| bip_39_word_new_line11 | chef
+slam
+area
+festival
+wire
+glass
+elite
+spawn
+diagram
+sorry
+copper |  
+| bip_39_word_new_line12 | chef
+slam
+area
+festival
+wire
+glass
+elite
+spawn
+diagram
+sorry
+copper
+almost |  
+| bip_39_word_new_line2 | chef
+slam |  
+| bip_39_word_new_line3 | chef
+slam
+area |  
+| bip_39_word_new_line4 | chef
+slam
+area
+festival |  
+| bip_39_word_new_line5 | chef
+slam
+area
+festival
+wire |  
+| bip_39_word_new_line6 | chef
+slam
+area
+festival
+wire
+glass |  
+| bip_39_word_new_line7 | chef
+slam
+area
+festival
+wire
+glass
+elite |  
+| bip_39_word_new_line8 | chef
+slam
+area
+festival
+wire
+glass
+elite
+spawn |  
+| bip_39_word_new_line9 | chef
+slam
+area
+festival
+wire
+glass
+elite
+spawn
+diagram |  
+| bip_39_word_space_0 | ['chef', 'slam', 'area', 'festival', 'wire', 'glass', 'elite', 'spawn', 'diagram', 'sorry', 'copper', 'almost'] |  
+| bip_39_word_space_1 | chef |  
+| bip_39_word_space_10 | chef slam area festival wire glass elite spawn diagram sorry |  
+| bip_39_word_space_11 | chef slam area festival wire glass elite spawn diagram sorry copper |  
+| bip_39_word_space_12 | chef slam area festival wire glass elite spawn diagram sorry copper almost |  
+| bip_39_word_space_2 | chef slam |  
+| bip_39_word_space_3 | chef slam area |  
+| bip_39_word_space_4 | chef slam area festival |  
+| bip_39_word_space_5 | chef slam area festival wire |  
+| bip_39_word_space_6 | chef slam area festival wire glass |  
+| bip_39_word_space_7 | chef slam area festival wire glass elite |  
+| bip_39_word_space_8 | chef slam area festival wire glass elite spawn |  
+| bip_39_word_space_9 | chef slam area festival wire glass elite spawn diagram |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

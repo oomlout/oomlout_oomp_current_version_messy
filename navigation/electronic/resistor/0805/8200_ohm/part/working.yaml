@@ -1,3 +1,187 @@
+bip_39_word_new_br1: picnic
+bip_39_word_new_br10: picnic<br>elephant<br>slogan<br>carbon<br>rural<br>topple<br>snow<br>taste<br>member<br>depth
+bip_39_word_new_br11: picnic<br>elephant<br>slogan<br>carbon<br>rural<br>topple<br>snow<br>taste<br>member<br>depth<br>blade
+bip_39_word_new_br12: picnic<br>elephant<br>slogan<br>carbon<br>rural<br>topple<br>snow<br>taste<br>member<br>depth<br>blade<br>analyst
+bip_39_word_new_br2: picnic<br>elephant
+bip_39_word_new_br3: picnic<br>elephant<br>slogan
+bip_39_word_new_br4: picnic<br>elephant<br>slogan<br>carbon
+bip_39_word_new_br5: picnic<br>elephant<br>slogan<br>carbon<br>rural
+bip_39_word_new_br6: picnic<br>elephant<br>slogan<br>carbon<br>rural<br>topple
+bip_39_word_new_br7: picnic<br>elephant<br>slogan<br>carbon<br>rural<br>topple<br>snow
+bip_39_word_new_br8: picnic<br>elephant<br>slogan<br>carbon<br>rural<br>topple<br>snow<br>taste
+bip_39_word_new_br9: picnic<br>elephant<br>slogan<br>carbon<br>rural<br>topple<br>snow<br>taste<br>member
+bip_39_word_new_line1: picnic
+bip_39_word_new_line10: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon
+
+  rural
+
+  topple
+
+  snow
+
+  taste
+
+  member
+
+  depth'
+bip_39_word_new_line11: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon
+
+  rural
+
+  topple
+
+  snow
+
+  taste
+
+  member
+
+  depth
+
+  blade'
+bip_39_word_new_line12: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon
+
+  rural
+
+  topple
+
+  snow
+
+  taste
+
+  member
+
+  depth
+
+  blade
+
+  analyst'
+bip_39_word_new_line2: 'picnic
+
+  elephant'
+bip_39_word_new_line3: 'picnic
+
+  elephant
+
+  slogan'
+bip_39_word_new_line4: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon'
+bip_39_word_new_line5: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon
+
+  rural'
+bip_39_word_new_line6: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon
+
+  rural
+
+  topple'
+bip_39_word_new_line7: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon
+
+  rural
+
+  topple
+
+  snow'
+bip_39_word_new_line8: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon
+
+  rural
+
+  topple
+
+  snow
+
+  taste'
+bip_39_word_new_line9: 'picnic
+
+  elephant
+
+  slogan
+
+  carbon
+
+  rural
+
+  topple
+
+  snow
+
+  taste
+
+  member'
+bip_39_word_space_0:
+- picnic
+- elephant
+- slogan
+- carbon
+- rural
+- topple
+- snow
+- taste
+- member
+- depth
+- blade
+- analyst
+bip_39_word_space_1: picnic
+bip_39_word_space_10: picnic elephant slogan carbon rural topple snow taste member
+  depth
+bip_39_word_space_11: picnic elephant slogan carbon rural topple snow taste member
+  depth blade
+bip_39_word_space_12: picnic elephant slogan carbon rural topple snow taste member
+  depth blade analyst
+bip_39_word_space_2: picnic elephant
+bip_39_word_space_3: picnic elephant slogan
+bip_39_word_space_4: picnic elephant slogan carbon
+bip_39_word_space_5: picnic elephant slogan carbon rural
+bip_39_word_space_6: picnic elephant slogan carbon rural topple
+bip_39_word_space_7: picnic elephant slogan carbon rural topple snow
+bip_39_word_space_8: picnic elephant slogan carbon rural topple snow taste
+bip_39_word_space_9: picnic elephant slogan carbon rural topple snow taste member
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

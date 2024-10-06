@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gift pulp
+  * bip 39 word 3: gift pulp fabric
+  * bip 39 word: gift pulp fabric liquid junior one nurse canal baby fabric host athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gift |  
+| bip_39_word_new_br10 | gift<br>pulp<br>fabric<br>liquid<br>junior<br>one<br>nurse<br>canal<br>baby<br>fabric |  
+| bip_39_word_new_br11 | gift<br>pulp<br>fabric<br>liquid<br>junior<br>one<br>nurse<br>canal<br>baby<br>fabric<br>host |  
+| bip_39_word_new_br12 | gift<br>pulp<br>fabric<br>liquid<br>junior<br>one<br>nurse<br>canal<br>baby<br>fabric<br>host<br>athlete |  
+| bip_39_word_new_br2 | gift<br>pulp |  
+| bip_39_word_new_br3 | gift<br>pulp<br>fabric |  
+| bip_39_word_new_br4 | gift<br>pulp<br>fabric<br>liquid |  
+| bip_39_word_new_br5 | gift<br>pulp<br>fabric<br>liquid<br>junior |  
+| bip_39_word_new_br6 | gift<br>pulp<br>fabric<br>liquid<br>junior<br>one |  
+| bip_39_word_new_br7 | gift<br>pulp<br>fabric<br>liquid<br>junior<br>one<br>nurse |  
+| bip_39_word_new_br8 | gift<br>pulp<br>fabric<br>liquid<br>junior<br>one<br>nurse<br>canal |  
+| bip_39_word_new_br9 | gift<br>pulp<br>fabric<br>liquid<br>junior<br>one<br>nurse<br>canal<br>baby |  
+| bip_39_word_new_line1 | gift |  
+| bip_39_word_new_line10 | gift
+pulp
+fabric
+liquid
+junior
+one
+nurse
+canal
+baby
+fabric |  
+| bip_39_word_new_line11 | gift
+pulp
+fabric
+liquid
+junior
+one
+nurse
+canal
+baby
+fabric
+host |  
+| bip_39_word_new_line12 | gift
+pulp
+fabric
+liquid
+junior
+one
+nurse
+canal
+baby
+fabric
+host
+athlete |  
+| bip_39_word_new_line2 | gift
+pulp |  
+| bip_39_word_new_line3 | gift
+pulp
+fabric |  
+| bip_39_word_new_line4 | gift
+pulp
+fabric
+liquid |  
+| bip_39_word_new_line5 | gift
+pulp
+fabric
+liquid
+junior |  
+| bip_39_word_new_line6 | gift
+pulp
+fabric
+liquid
+junior
+one |  
+| bip_39_word_new_line7 | gift
+pulp
+fabric
+liquid
+junior
+one
+nurse |  
+| bip_39_word_new_line8 | gift
+pulp
+fabric
+liquid
+junior
+one
+nurse
+canal |  
+| bip_39_word_new_line9 | gift
+pulp
+fabric
+liquid
+junior
+one
+nurse
+canal
+baby |  
+| bip_39_word_space_0 | ['gift', 'pulp', 'fabric', 'liquid', 'junior', 'one', 'nurse', 'canal', 'baby', 'fabric', 'host', 'athlete'] |  
+| bip_39_word_space_1 | gift |  
+| bip_39_word_space_10 | gift pulp fabric liquid junior one nurse canal baby fabric |  
+| bip_39_word_space_11 | gift pulp fabric liquid junior one nurse canal baby fabric host |  
+| bip_39_word_space_12 | gift pulp fabric liquid junior one nurse canal baby fabric host athlete |  
+| bip_39_word_space_2 | gift pulp |  
+| bip_39_word_space_3 | gift pulp fabric |  
+| bip_39_word_space_4 | gift pulp fabric liquid |  
+| bip_39_word_space_5 | gift pulp fabric liquid junior |  
+| bip_39_word_space_6 | gift pulp fabric liquid junior one |  
+| bip_39_word_space_7 | gift pulp fabric liquid junior one nurse |  
+| bip_39_word_space_8 | gift pulp fabric liquid junior one nurse canal |  
+| bip_39_word_space_9 | gift pulp fabric liquid junior one nurse canal baby |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

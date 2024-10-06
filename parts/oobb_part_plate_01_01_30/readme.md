@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: track end
+  * bip 39 word 3: track end raise
+  * bip 39 word: track end raise region flip clog general quality outer junk buyer amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | track |  
+| bip_39_word_new_br10 | track<br>end<br>raise<br>region<br>flip<br>clog<br>general<br>quality<br>outer<br>junk |  
+| bip_39_word_new_br11 | track<br>end<br>raise<br>region<br>flip<br>clog<br>general<br>quality<br>outer<br>junk<br>buyer |  
+| bip_39_word_new_br12 | track<br>end<br>raise<br>region<br>flip<br>clog<br>general<br>quality<br>outer<br>junk<br>buyer<br>amused |  
+| bip_39_word_new_br2 | track<br>end |  
+| bip_39_word_new_br3 | track<br>end<br>raise |  
+| bip_39_word_new_br4 | track<br>end<br>raise<br>region |  
+| bip_39_word_new_br5 | track<br>end<br>raise<br>region<br>flip |  
+| bip_39_word_new_br6 | track<br>end<br>raise<br>region<br>flip<br>clog |  
+| bip_39_word_new_br7 | track<br>end<br>raise<br>region<br>flip<br>clog<br>general |  
+| bip_39_word_new_br8 | track<br>end<br>raise<br>region<br>flip<br>clog<br>general<br>quality |  
+| bip_39_word_new_br9 | track<br>end<br>raise<br>region<br>flip<br>clog<br>general<br>quality<br>outer |  
+| bip_39_word_new_line1 | track |  
+| bip_39_word_new_line10 | track
+end
+raise
+region
+flip
+clog
+general
+quality
+outer
+junk |  
+| bip_39_word_new_line11 | track
+end
+raise
+region
+flip
+clog
+general
+quality
+outer
+junk
+buyer |  
+| bip_39_word_new_line12 | track
+end
+raise
+region
+flip
+clog
+general
+quality
+outer
+junk
+buyer
+amused |  
+| bip_39_word_new_line2 | track
+end |  
+| bip_39_word_new_line3 | track
+end
+raise |  
+| bip_39_word_new_line4 | track
+end
+raise
+region |  
+| bip_39_word_new_line5 | track
+end
+raise
+region
+flip |  
+| bip_39_word_new_line6 | track
+end
+raise
+region
+flip
+clog |  
+| bip_39_word_new_line7 | track
+end
+raise
+region
+flip
+clog
+general |  
+| bip_39_word_new_line8 | track
+end
+raise
+region
+flip
+clog
+general
+quality |  
+| bip_39_word_new_line9 | track
+end
+raise
+region
+flip
+clog
+general
+quality
+outer |  
+| bip_39_word_space_0 | ['track', 'end', 'raise', 'region', 'flip', 'clog', 'general', 'quality', 'outer', 'junk', 'buyer', 'amused'] |  
+| bip_39_word_space_1 | track |  
+| bip_39_word_space_10 | track end raise region flip clog general quality outer junk |  
+| bip_39_word_space_11 | track end raise region flip clog general quality outer junk buyer |  
+| bip_39_word_space_12 | track end raise region flip clog general quality outer junk buyer amused |  
+| bip_39_word_space_2 | track end |  
+| bip_39_word_space_3 | track end raise |  
+| bip_39_word_space_4 | track end raise region |  
+| bip_39_word_space_5 | track end raise region flip |  
+| bip_39_word_space_6 | track end raise region flip clog |  
+| bip_39_word_space_7 | track end raise region flip clog general |  
+| bip_39_word_space_8 | track end raise region flip clog general quality |  
+| bip_39_word_space_9 | track end raise region flip clog general quality outer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

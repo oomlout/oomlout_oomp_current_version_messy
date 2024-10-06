@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: appear tonight
+  * bip 39 word 3: appear tonight episode
+  * bip 39 word: appear tonight episode medal kitten another animal talk boil dwarf asset any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | appear |  
+| bip_39_word_new_br10 | appear<br>tonight<br>episode<br>medal<br>kitten<br>another<br>animal<br>talk<br>boil<br>dwarf |  
+| bip_39_word_new_br11 | appear<br>tonight<br>episode<br>medal<br>kitten<br>another<br>animal<br>talk<br>boil<br>dwarf<br>asset |  
+| bip_39_word_new_br12 | appear<br>tonight<br>episode<br>medal<br>kitten<br>another<br>animal<br>talk<br>boil<br>dwarf<br>asset<br>any |  
+| bip_39_word_new_br2 | appear<br>tonight |  
+| bip_39_word_new_br3 | appear<br>tonight<br>episode |  
+| bip_39_word_new_br4 | appear<br>tonight<br>episode<br>medal |  
+| bip_39_word_new_br5 | appear<br>tonight<br>episode<br>medal<br>kitten |  
+| bip_39_word_new_br6 | appear<br>tonight<br>episode<br>medal<br>kitten<br>another |  
+| bip_39_word_new_br7 | appear<br>tonight<br>episode<br>medal<br>kitten<br>another<br>animal |  
+| bip_39_word_new_br8 | appear<br>tonight<br>episode<br>medal<br>kitten<br>another<br>animal<br>talk |  
+| bip_39_word_new_br9 | appear<br>tonight<br>episode<br>medal<br>kitten<br>another<br>animal<br>talk<br>boil |  
+| bip_39_word_new_line1 | appear |  
+| bip_39_word_new_line10 | appear
+tonight
+episode
+medal
+kitten
+another
+animal
+talk
+boil
+dwarf |  
+| bip_39_word_new_line11 | appear
+tonight
+episode
+medal
+kitten
+another
+animal
+talk
+boil
+dwarf
+asset |  
+| bip_39_word_new_line12 | appear
+tonight
+episode
+medal
+kitten
+another
+animal
+talk
+boil
+dwarf
+asset
+any |  
+| bip_39_word_new_line2 | appear
+tonight |  
+| bip_39_word_new_line3 | appear
+tonight
+episode |  
+| bip_39_word_new_line4 | appear
+tonight
+episode
+medal |  
+| bip_39_word_new_line5 | appear
+tonight
+episode
+medal
+kitten |  
+| bip_39_word_new_line6 | appear
+tonight
+episode
+medal
+kitten
+another |  
+| bip_39_word_new_line7 | appear
+tonight
+episode
+medal
+kitten
+another
+animal |  
+| bip_39_word_new_line8 | appear
+tonight
+episode
+medal
+kitten
+another
+animal
+talk |  
+| bip_39_word_new_line9 | appear
+tonight
+episode
+medal
+kitten
+another
+animal
+talk
+boil |  
+| bip_39_word_space_0 | ['appear', 'tonight', 'episode', 'medal', 'kitten', 'another', 'animal', 'talk', 'boil', 'dwarf', 'asset', 'any'] |  
+| bip_39_word_space_1 | appear |  
+| bip_39_word_space_10 | appear tonight episode medal kitten another animal talk boil dwarf |  
+| bip_39_word_space_11 | appear tonight episode medal kitten another animal talk boil dwarf asset |  
+| bip_39_word_space_12 | appear tonight episode medal kitten another animal talk boil dwarf asset any |  
+| bip_39_word_space_2 | appear tonight |  
+| bip_39_word_space_3 | appear tonight episode |  
+| bip_39_word_space_4 | appear tonight episode medal |  
+| bip_39_word_space_5 | appear tonight episode medal kitten |  
+| bip_39_word_space_6 | appear tonight episode medal kitten another |  
+| bip_39_word_space_7 | appear tonight episode medal kitten another animal |  
+| bip_39_word_space_8 | appear tonight episode medal kitten another animal talk |  
+| bip_39_word_space_9 | appear tonight episode medal kitten another animal talk boil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

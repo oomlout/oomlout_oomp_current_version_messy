@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kangaroo tourist
+  * bip 39 word 3: kangaroo tourist custom
+  * bip 39 word: kangaroo tourist custom fog leaf coral reflect friend session anger actual air
 
 ### other_codes
 * short_code: brMR63
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kangaroo |  
+| bip_39_word_new_br10 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger |  
+| bip_39_word_new_br11 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual |  
+| bip_39_word_new_br12 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual<br>air |  
+| bip_39_word_new_br2 | kangaroo<br>tourist |  
+| bip_39_word_new_br3 | kangaroo<br>tourist<br>custom |  
+| bip_39_word_new_br4 | kangaroo<br>tourist<br>custom<br>fog |  
+| bip_39_word_new_br5 | kangaroo<br>tourist<br>custom<br>fog<br>leaf |  
+| bip_39_word_new_br6 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral |  
+| bip_39_word_new_br7 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect |  
+| bip_39_word_new_br8 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend |  
+| bip_39_word_new_br9 | kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session |  
+| bip_39_word_new_line1 | kangaroo |  
+| bip_39_word_new_line10 | kangaroo
+tourist
+custom
+fog
+leaf
+coral
+reflect
+friend
+session
+anger |  
+| bip_39_word_new_line11 | kangaroo
+tourist
+custom
+fog
+leaf
+coral
+reflect
+friend
+session
+anger
+actual |  
+| bip_39_word_new_line12 | kangaroo
+tourist
+custom
+fog
+leaf
+coral
+reflect
+friend
+session
+anger
+actual
+air |  
+| bip_39_word_new_line2 | kangaroo
+tourist |  
+| bip_39_word_new_line3 | kangaroo
+tourist
+custom |  
+| bip_39_word_new_line4 | kangaroo
+tourist
+custom
+fog |  
+| bip_39_word_new_line5 | kangaroo
+tourist
+custom
+fog
+leaf |  
+| bip_39_word_new_line6 | kangaroo
+tourist
+custom
+fog
+leaf
+coral |  
+| bip_39_word_new_line7 | kangaroo
+tourist
+custom
+fog
+leaf
+coral
+reflect |  
+| bip_39_word_new_line8 | kangaroo
+tourist
+custom
+fog
+leaf
+coral
+reflect
+friend |  
+| bip_39_word_new_line9 | kangaroo
+tourist
+custom
+fog
+leaf
+coral
+reflect
+friend
+session |  
+| bip_39_word_space_0 | ['kangaroo', 'tourist', 'custom', 'fog', 'leaf', 'coral', 'reflect', 'friend', 'session', 'anger', 'actual', 'air'] |  
+| bip_39_word_space_1 | kangaroo |  
+| bip_39_word_space_10 | kangaroo tourist custom fog leaf coral reflect friend session anger |  
+| bip_39_word_space_11 | kangaroo tourist custom fog leaf coral reflect friend session anger actual |  
+| bip_39_word_space_12 | kangaroo tourist custom fog leaf coral reflect friend session anger actual air |  
+| bip_39_word_space_2 | kangaroo tourist |  
+| bip_39_word_space_3 | kangaroo tourist custom |  
+| bip_39_word_space_4 | kangaroo tourist custom fog |  
+| bip_39_word_space_5 | kangaroo tourist custom fog leaf |  
+| bip_39_word_space_6 | kangaroo tourist custom fog leaf coral |  
+| bip_39_word_space_7 | kangaroo tourist custom fog leaf coral reflect |  
+| bip_39_word_space_8 | kangaroo tourist custom fog leaf coral reflect friend |  
+| bip_39_word_space_9 | kangaroo tourist custom fog leaf coral reflect friend session |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

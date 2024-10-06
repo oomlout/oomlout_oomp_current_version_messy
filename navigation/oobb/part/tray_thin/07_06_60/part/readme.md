@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: resource quiz
+  * bip 39 word 3: resource quiz insane
+  * bip 39 word: resource quiz insane zone worth hip valve upper notable earn echo able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resource |  
+| bip_39_word_new_br10 | resource<br>quiz<br>insane<br>zone<br>worth<br>hip<br>valve<br>upper<br>notable<br>earn |  
+| bip_39_word_new_br11 | resource<br>quiz<br>insane<br>zone<br>worth<br>hip<br>valve<br>upper<br>notable<br>earn<br>echo |  
+| bip_39_word_new_br12 | resource<br>quiz<br>insane<br>zone<br>worth<br>hip<br>valve<br>upper<br>notable<br>earn<br>echo<br>able |  
+| bip_39_word_new_br2 | resource<br>quiz |  
+| bip_39_word_new_br3 | resource<br>quiz<br>insane |  
+| bip_39_word_new_br4 | resource<br>quiz<br>insane<br>zone |  
+| bip_39_word_new_br5 | resource<br>quiz<br>insane<br>zone<br>worth |  
+| bip_39_word_new_br6 | resource<br>quiz<br>insane<br>zone<br>worth<br>hip |  
+| bip_39_word_new_br7 | resource<br>quiz<br>insane<br>zone<br>worth<br>hip<br>valve |  
+| bip_39_word_new_br8 | resource<br>quiz<br>insane<br>zone<br>worth<br>hip<br>valve<br>upper |  
+| bip_39_word_new_br9 | resource<br>quiz<br>insane<br>zone<br>worth<br>hip<br>valve<br>upper<br>notable |  
+| bip_39_word_new_line1 | resource |  
+| bip_39_word_new_line10 | resource
+quiz
+insane
+zone
+worth
+hip
+valve
+upper
+notable
+earn |  
+| bip_39_word_new_line11 | resource
+quiz
+insane
+zone
+worth
+hip
+valve
+upper
+notable
+earn
+echo |  
+| bip_39_word_new_line12 | resource
+quiz
+insane
+zone
+worth
+hip
+valve
+upper
+notable
+earn
+echo
+able |  
+| bip_39_word_new_line2 | resource
+quiz |  
+| bip_39_word_new_line3 | resource
+quiz
+insane |  
+| bip_39_word_new_line4 | resource
+quiz
+insane
+zone |  
+| bip_39_word_new_line5 | resource
+quiz
+insane
+zone
+worth |  
+| bip_39_word_new_line6 | resource
+quiz
+insane
+zone
+worth
+hip |  
+| bip_39_word_new_line7 | resource
+quiz
+insane
+zone
+worth
+hip
+valve |  
+| bip_39_word_new_line8 | resource
+quiz
+insane
+zone
+worth
+hip
+valve
+upper |  
+| bip_39_word_new_line9 | resource
+quiz
+insane
+zone
+worth
+hip
+valve
+upper
+notable |  
+| bip_39_word_space_0 | ['resource', 'quiz', 'insane', 'zone', 'worth', 'hip', 'valve', 'upper', 'notable', 'earn', 'echo', 'able'] |  
+| bip_39_word_space_1 | resource |  
+| bip_39_word_space_10 | resource quiz insane zone worth hip valve upper notable earn |  
+| bip_39_word_space_11 | resource quiz insane zone worth hip valve upper notable earn echo |  
+| bip_39_word_space_12 | resource quiz insane zone worth hip valve upper notable earn echo able |  
+| bip_39_word_space_2 | resource quiz |  
+| bip_39_word_space_3 | resource quiz insane |  
+| bip_39_word_space_4 | resource quiz insane zone |  
+| bip_39_word_space_5 | resource quiz insane zone worth |  
+| bip_39_word_space_6 | resource quiz insane zone worth hip |  
+| bip_39_word_space_7 | resource quiz insane zone worth hip valve |  
+| bip_39_word_space_8 | resource quiz insane zone worth hip valve upper |  
+| bip_39_word_space_9 | resource quiz insane zone worth hip valve upper notable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: segment
+bip_39_word_new_br10: segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire
+bip_39_word_new_br11: segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire<br>exhaust
+bip_39_word_new_br12: segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix<br>acquire<br>exhaust<br>asset
+bip_39_word_new_br2: segment<br>vault
+bip_39_word_new_br3: segment<br>vault<br>accuse
+bip_39_word_new_br4: segment<br>vault<br>accuse<br>someone
+bip_39_word_new_br5: segment<br>vault<br>accuse<br>someone<br>furnace
+bip_39_word_new_br6: segment<br>vault<br>accuse<br>someone<br>furnace<br>trial
+bip_39_word_new_br7: segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact
+bip_39_word_new_br8: segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn
+bip_39_word_new_br9: segment<br>vault<br>accuse<br>someone<br>furnace<br>trial<br>enact<br>dawn<br>fix
+bip_39_word_new_line1: segment
+bip_39_word_new_line10: 'segment
+
+  vault
+
+  accuse
+
+  someone
+
+  furnace
+
+  trial
+
+  enact
+
+  dawn
+
+  fix
+
+  acquire'
+bip_39_word_new_line11: 'segment
+
+  vault
+
+  accuse
+
+  someone
+
+  furnace
+
+  trial
+
+  enact
+
+  dawn
+
+  fix
+
+  acquire
+
+  exhaust'
+bip_39_word_new_line12: 'segment
+
+  vault
+
+  accuse
+
+  someone
+
+  furnace
+
+  trial
+
+  enact
+
+  dawn
+
+  fix
+
+  acquire
+
+  exhaust
+
+  asset'
+bip_39_word_new_line2: 'segment
+
+  vault'
+bip_39_word_new_line3: 'segment
+
+  vault
+
+  accuse'
+bip_39_word_new_line4: 'segment
+
+  vault
+
+  accuse
+
+  someone'
+bip_39_word_new_line5: 'segment
+
+  vault
+
+  accuse
+
+  someone
+
+  furnace'
+bip_39_word_new_line6: 'segment
+
+  vault
+
+  accuse
+
+  someone
+
+  furnace
+
+  trial'
+bip_39_word_new_line7: 'segment
+
+  vault
+
+  accuse
+
+  someone
+
+  furnace
+
+  trial
+
+  enact'
+bip_39_word_new_line8: 'segment
+
+  vault
+
+  accuse
+
+  someone
+
+  furnace
+
+  trial
+
+  enact
+
+  dawn'
+bip_39_word_new_line9: 'segment
+
+  vault
+
+  accuse
+
+  someone
+
+  furnace
+
+  trial
+
+  enact
+
+  dawn
+
+  fix'
+bip_39_word_space_0:
+- segment
+- vault
+- accuse
+- someone
+- furnace
+- trial
+- enact
+- dawn
+- fix
+- acquire
+- exhaust
+- asset
+bip_39_word_space_1: segment
+bip_39_word_space_10: segment vault accuse someone furnace trial enact dawn fix acquire
+bip_39_word_space_11: segment vault accuse someone furnace trial enact dawn fix acquire
+  exhaust
+bip_39_word_space_12: segment vault accuse someone furnace trial enact dawn fix acquire
+  exhaust asset
+bip_39_word_space_2: segment vault
+bip_39_word_space_3: segment vault accuse
+bip_39_word_space_4: segment vault accuse someone
+bip_39_word_space_5: segment vault accuse someone furnace
+bip_39_word_space_6: segment vault accuse someone furnace trial
+bip_39_word_space_7: segment vault accuse someone furnace trial enact
+bip_39_word_space_8: segment vault accuse someone furnace trial enact dawn
+bip_39_word_space_9: segment vault accuse someone furnace trial enact dawn fix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

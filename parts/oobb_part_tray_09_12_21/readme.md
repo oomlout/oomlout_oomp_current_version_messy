@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: detect buyer
+  * bip 39 word 3: detect buyer humble
+  * bip 39 word: detect buyer humble diary void trigger risk among civil latin chimney area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | detect |  
+| bip_39_word_new_br10 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil<br>latin |  
+| bip_39_word_new_br11 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil<br>latin<br>chimney |  
+| bip_39_word_new_br12 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil<br>latin<br>chimney<br>area |  
+| bip_39_word_new_br2 | detect<br>buyer |  
+| bip_39_word_new_br3 | detect<br>buyer<br>humble |  
+| bip_39_word_new_br4 | detect<br>buyer<br>humble<br>diary |  
+| bip_39_word_new_br5 | detect<br>buyer<br>humble<br>diary<br>void |  
+| bip_39_word_new_br6 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger |  
+| bip_39_word_new_br7 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk |  
+| bip_39_word_new_br8 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among |  
+| bip_39_word_new_br9 | detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil |  
+| bip_39_word_new_line1 | detect |  
+| bip_39_word_new_line10 | detect
+buyer
+humble
+diary
+void
+trigger
+risk
+among
+civil
+latin |  
+| bip_39_word_new_line11 | detect
+buyer
+humble
+diary
+void
+trigger
+risk
+among
+civil
+latin
+chimney |  
+| bip_39_word_new_line12 | detect
+buyer
+humble
+diary
+void
+trigger
+risk
+among
+civil
+latin
+chimney
+area |  
+| bip_39_word_new_line2 | detect
+buyer |  
+| bip_39_word_new_line3 | detect
+buyer
+humble |  
+| bip_39_word_new_line4 | detect
+buyer
+humble
+diary |  
+| bip_39_word_new_line5 | detect
+buyer
+humble
+diary
+void |  
+| bip_39_word_new_line6 | detect
+buyer
+humble
+diary
+void
+trigger |  
+| bip_39_word_new_line7 | detect
+buyer
+humble
+diary
+void
+trigger
+risk |  
+| bip_39_word_new_line8 | detect
+buyer
+humble
+diary
+void
+trigger
+risk
+among |  
+| bip_39_word_new_line9 | detect
+buyer
+humble
+diary
+void
+trigger
+risk
+among
+civil |  
+| bip_39_word_space_0 | ['detect', 'buyer', 'humble', 'diary', 'void', 'trigger', 'risk', 'among', 'civil', 'latin', 'chimney', 'area'] |  
+| bip_39_word_space_1 | detect |  
+| bip_39_word_space_10 | detect buyer humble diary void trigger risk among civil latin |  
+| bip_39_word_space_11 | detect buyer humble diary void trigger risk among civil latin chimney |  
+| bip_39_word_space_12 | detect buyer humble diary void trigger risk among civil latin chimney area |  
+| bip_39_word_space_2 | detect buyer |  
+| bip_39_word_space_3 | detect buyer humble |  
+| bip_39_word_space_4 | detect buyer humble diary |  
+| bip_39_word_space_5 | detect buyer humble diary void |  
+| bip_39_word_space_6 | detect buyer humble diary void trigger |  
+| bip_39_word_space_7 | detect buyer humble diary void trigger risk |  
+| bip_39_word_space_8 | detect buyer humble diary void trigger risk among |  
+| bip_39_word_space_9 | detect buyer humble diary void trigger risk among civil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

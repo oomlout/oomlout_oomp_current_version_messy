@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unlock city
+  * bip 39 word 3: unlock city series
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unlock |  
+| bip_39_word_new_br10 | unlock<br>city<br>series<br>project<br>cactus<br>damp<br>essay<br>lawsuit<br>champion<br>inflict |  
+| bip_39_word_new_br11 | unlock<br>city<br>series<br>project<br>cactus<br>damp<br>essay<br>lawsuit<br>champion<br>inflict<br>decide |  
+| bip_39_word_new_br2 | unlock<br>city |  
+| bip_39_word_new_br3 | unlock<br>city<br>series |  
+| bip_39_word_new_br4 | unlock<br>city<br>series<br>project |  
+| bip_39_word_new_br5 | unlock<br>city<br>series<br>project<br>cactus |  
+| bip_39_word_new_br6 | unlock<br>city<br>series<br>project<br>cactus<br>damp |  
+| bip_39_word_new_br7 | unlock<br>city<br>series<br>project<br>cactus<br>damp<br>essay |  
+| bip_39_word_new_br8 | unlock<br>city<br>series<br>project<br>cactus<br>damp<br>essay<br>lawsuit |  
+| bip_39_word_new_br9 | unlock<br>city<br>series<br>project<br>cactus<br>damp<br>essay<br>lawsuit<br>champion |  
+| bip_39_word_new_line1 | unlock |  
+| bip_39_word_new_line10 | unlock
+city
+series
+project
+cactus
+damp
+essay
+lawsuit
+champion
+inflict |  
+| bip_39_word_new_line11 | unlock
+city
+series
+project
+cactus
+damp
+essay
+lawsuit
+champion
+inflict
+decide |  
+| bip_39_word_new_line2 | unlock
+city |  
+| bip_39_word_new_line3 | unlock
+city
+series |  
+| bip_39_word_new_line4 | unlock
+city
+series
+project |  
+| bip_39_word_new_line5 | unlock
+city
+series
+project
+cactus |  
+| bip_39_word_new_line6 | unlock
+city
+series
+project
+cactus
+damp |  
+| bip_39_word_new_line7 | unlock
+city
+series
+project
+cactus
+damp
+essay |  
+| bip_39_word_new_line8 | unlock
+city
+series
+project
+cactus
+damp
+essay
+lawsuit |  
+| bip_39_word_new_line9 | unlock
+city
+series
+project
+cactus
+damp
+essay
+lawsuit
+champion |  
+| bip_39_word_space_0 | ['unlock', 'city', 'series', 'project', 'cactus', 'damp', 'essay', 'lawsuit', 'champion', 'inflict', 'decide'] |  
+| bip_39_word_space_1 | unlock |  
+| bip_39_word_space_10 | unlock city series project cactus damp essay lawsuit champion inflict |  
+| bip_39_word_space_11 | unlock city series project cactus damp essay lawsuit champion inflict decide |  
+| bip_39_word_space_2 | unlock city |  
+| bip_39_word_space_3 | unlock city series |  
+| bip_39_word_space_4 | unlock city series project |  
+| bip_39_word_space_5 | unlock city series project cactus |  
+| bip_39_word_space_6 | unlock city series project cactus damp |  
+| bip_39_word_space_7 | unlock city series project cactus damp essay |  
+| bip_39_word_space_8 | unlock city series project cactus damp essay lawsuit |  
+| bip_39_word_space_9 | unlock city series project cactus damp essay lawsuit champion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

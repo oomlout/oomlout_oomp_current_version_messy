@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ecology
+bip_39_word_new_br10: ecology<br>detect<br>road<br>cave<br>coyote<br>crater<br>maze<br>team<br>mention<br>famous
+bip_39_word_new_br11: ecology<br>detect<br>road<br>cave<br>coyote<br>crater<br>maze<br>team<br>mention<br>famous<br>alter
+bip_39_word_new_br12: ecology<br>detect<br>road<br>cave<br>coyote<br>crater<br>maze<br>team<br>mention<br>famous<br>alter<br>attract
+bip_39_word_new_br2: ecology<br>detect
+bip_39_word_new_br3: ecology<br>detect<br>road
+bip_39_word_new_br4: ecology<br>detect<br>road<br>cave
+bip_39_word_new_br5: ecology<br>detect<br>road<br>cave<br>coyote
+bip_39_word_new_br6: ecology<br>detect<br>road<br>cave<br>coyote<br>crater
+bip_39_word_new_br7: ecology<br>detect<br>road<br>cave<br>coyote<br>crater<br>maze
+bip_39_word_new_br8: ecology<br>detect<br>road<br>cave<br>coyote<br>crater<br>maze<br>team
+bip_39_word_new_br9: ecology<br>detect<br>road<br>cave<br>coyote<br>crater<br>maze<br>team<br>mention
+bip_39_word_new_line1: ecology
+bip_39_word_new_line10: 'ecology
+
+  detect
+
+  road
+
+  cave
+
+  coyote
+
+  crater
+
+  maze
+
+  team
+
+  mention
+
+  famous'
+bip_39_word_new_line11: 'ecology
+
+  detect
+
+  road
+
+  cave
+
+  coyote
+
+  crater
+
+  maze
+
+  team
+
+  mention
+
+  famous
+
+  alter'
+bip_39_word_new_line12: 'ecology
+
+  detect
+
+  road
+
+  cave
+
+  coyote
+
+  crater
+
+  maze
+
+  team
+
+  mention
+
+  famous
+
+  alter
+
+  attract'
+bip_39_word_new_line2: 'ecology
+
+  detect'
+bip_39_word_new_line3: 'ecology
+
+  detect
+
+  road'
+bip_39_word_new_line4: 'ecology
+
+  detect
+
+  road
+
+  cave'
+bip_39_word_new_line5: 'ecology
+
+  detect
+
+  road
+
+  cave
+
+  coyote'
+bip_39_word_new_line6: 'ecology
+
+  detect
+
+  road
+
+  cave
+
+  coyote
+
+  crater'
+bip_39_word_new_line7: 'ecology
+
+  detect
+
+  road
+
+  cave
+
+  coyote
+
+  crater
+
+  maze'
+bip_39_word_new_line8: 'ecology
+
+  detect
+
+  road
+
+  cave
+
+  coyote
+
+  crater
+
+  maze
+
+  team'
+bip_39_word_new_line9: 'ecology
+
+  detect
+
+  road
+
+  cave
+
+  coyote
+
+  crater
+
+  maze
+
+  team
+
+  mention'
+bip_39_word_space_0:
+- ecology
+- detect
+- road
+- cave
+- coyote
+- crater
+- maze
+- team
+- mention
+- famous
+- alter
+- attract
+bip_39_word_space_1: ecology
+bip_39_word_space_10: ecology detect road cave coyote crater maze team mention famous
+bip_39_word_space_11: ecology detect road cave coyote crater maze team mention famous
+  alter
+bip_39_word_space_12: ecology detect road cave coyote crater maze team mention famous
+  alter attract
+bip_39_word_space_2: ecology detect
+bip_39_word_space_3: ecology detect road
+bip_39_word_space_4: ecology detect road cave
+bip_39_word_space_5: ecology detect road cave coyote
+bip_39_word_space_6: ecology detect road cave coyote crater
+bip_39_word_space_7: ecology detect road cave coyote crater maze
+bip_39_word_space_8: ecology detect road cave coyote crater maze team
+bip_39_word_space_9: ecology detect road cave coyote crater maze team mention
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

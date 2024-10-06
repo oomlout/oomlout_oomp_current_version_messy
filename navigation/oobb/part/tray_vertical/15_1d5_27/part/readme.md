@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exotic creek
+  * bip 39 word 3: exotic creek daring
+  * bip 39 word: exotic creek daring frown wrist report travel color have tragic crime achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exotic |  
+| bip_39_word_new_br10 | exotic<br>creek<br>daring<br>frown<br>wrist<br>report<br>travel<br>color<br>have<br>tragic |  
+| bip_39_word_new_br11 | exotic<br>creek<br>daring<br>frown<br>wrist<br>report<br>travel<br>color<br>have<br>tragic<br>crime |  
+| bip_39_word_new_br12 | exotic<br>creek<br>daring<br>frown<br>wrist<br>report<br>travel<br>color<br>have<br>tragic<br>crime<br>achieve |  
+| bip_39_word_new_br2 | exotic<br>creek |  
+| bip_39_word_new_br3 | exotic<br>creek<br>daring |  
+| bip_39_word_new_br4 | exotic<br>creek<br>daring<br>frown |  
+| bip_39_word_new_br5 | exotic<br>creek<br>daring<br>frown<br>wrist |  
+| bip_39_word_new_br6 | exotic<br>creek<br>daring<br>frown<br>wrist<br>report |  
+| bip_39_word_new_br7 | exotic<br>creek<br>daring<br>frown<br>wrist<br>report<br>travel |  
+| bip_39_word_new_br8 | exotic<br>creek<br>daring<br>frown<br>wrist<br>report<br>travel<br>color |  
+| bip_39_word_new_br9 | exotic<br>creek<br>daring<br>frown<br>wrist<br>report<br>travel<br>color<br>have |  
+| bip_39_word_new_line1 | exotic |  
+| bip_39_word_new_line10 | exotic
+creek
+daring
+frown
+wrist
+report
+travel
+color
+have
+tragic |  
+| bip_39_word_new_line11 | exotic
+creek
+daring
+frown
+wrist
+report
+travel
+color
+have
+tragic
+crime |  
+| bip_39_word_new_line12 | exotic
+creek
+daring
+frown
+wrist
+report
+travel
+color
+have
+tragic
+crime
+achieve |  
+| bip_39_word_new_line2 | exotic
+creek |  
+| bip_39_word_new_line3 | exotic
+creek
+daring |  
+| bip_39_word_new_line4 | exotic
+creek
+daring
+frown |  
+| bip_39_word_new_line5 | exotic
+creek
+daring
+frown
+wrist |  
+| bip_39_word_new_line6 | exotic
+creek
+daring
+frown
+wrist
+report |  
+| bip_39_word_new_line7 | exotic
+creek
+daring
+frown
+wrist
+report
+travel |  
+| bip_39_word_new_line8 | exotic
+creek
+daring
+frown
+wrist
+report
+travel
+color |  
+| bip_39_word_new_line9 | exotic
+creek
+daring
+frown
+wrist
+report
+travel
+color
+have |  
+| bip_39_word_space_0 | ['exotic', 'creek', 'daring', 'frown', 'wrist', 'report', 'travel', 'color', 'have', 'tragic', 'crime', 'achieve'] |  
+| bip_39_word_space_1 | exotic |  
+| bip_39_word_space_10 | exotic creek daring frown wrist report travel color have tragic |  
+| bip_39_word_space_11 | exotic creek daring frown wrist report travel color have tragic crime |  
+| bip_39_word_space_12 | exotic creek daring frown wrist report travel color have tragic crime achieve |  
+| bip_39_word_space_2 | exotic creek |  
+| bip_39_word_space_3 | exotic creek daring |  
+| bip_39_word_space_4 | exotic creek daring frown |  
+| bip_39_word_space_5 | exotic creek daring frown wrist |  
+| bip_39_word_space_6 | exotic creek daring frown wrist report |  
+| bip_39_word_space_7 | exotic creek daring frown wrist report travel |  
+| bip_39_word_space_8 | exotic creek daring frown wrist report travel color |  
+| bip_39_word_space_9 | exotic creek daring frown wrist report travel color have |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

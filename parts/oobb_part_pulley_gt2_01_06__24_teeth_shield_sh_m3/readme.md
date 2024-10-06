@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blast oblige
+  * bip 39 word 3: blast oblige pitch
+  * bip 39 word: blast oblige pitch vintage spike luggage animal fancy swift deliver when again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blast |  
+| bip_39_word_new_br10 | blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage<br>animal<br>fancy<br>swift<br>deliver |  
+| bip_39_word_new_br11 | blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage<br>animal<br>fancy<br>swift<br>deliver<br>when |  
+| bip_39_word_new_br12 | blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage<br>animal<br>fancy<br>swift<br>deliver<br>when<br>again |  
+| bip_39_word_new_br2 | blast<br>oblige |  
+| bip_39_word_new_br3 | blast<br>oblige<br>pitch |  
+| bip_39_word_new_br4 | blast<br>oblige<br>pitch<br>vintage |  
+| bip_39_word_new_br5 | blast<br>oblige<br>pitch<br>vintage<br>spike |  
+| bip_39_word_new_br6 | blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage |  
+| bip_39_word_new_br7 | blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage<br>animal |  
+| bip_39_word_new_br8 | blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage<br>animal<br>fancy |  
+| bip_39_word_new_br9 | blast<br>oblige<br>pitch<br>vintage<br>spike<br>luggage<br>animal<br>fancy<br>swift |  
+| bip_39_word_new_line1 | blast |  
+| bip_39_word_new_line10 | blast
+oblige
+pitch
+vintage
+spike
+luggage
+animal
+fancy
+swift
+deliver |  
+| bip_39_word_new_line11 | blast
+oblige
+pitch
+vintage
+spike
+luggage
+animal
+fancy
+swift
+deliver
+when |  
+| bip_39_word_new_line12 | blast
+oblige
+pitch
+vintage
+spike
+luggage
+animal
+fancy
+swift
+deliver
+when
+again |  
+| bip_39_word_new_line2 | blast
+oblige |  
+| bip_39_word_new_line3 | blast
+oblige
+pitch |  
+| bip_39_word_new_line4 | blast
+oblige
+pitch
+vintage |  
+| bip_39_word_new_line5 | blast
+oblige
+pitch
+vintage
+spike |  
+| bip_39_word_new_line6 | blast
+oblige
+pitch
+vintage
+spike
+luggage |  
+| bip_39_word_new_line7 | blast
+oblige
+pitch
+vintage
+spike
+luggage
+animal |  
+| bip_39_word_new_line8 | blast
+oblige
+pitch
+vintage
+spike
+luggage
+animal
+fancy |  
+| bip_39_word_new_line9 | blast
+oblige
+pitch
+vintage
+spike
+luggage
+animal
+fancy
+swift |  
+| bip_39_word_space_0 | ['blast', 'oblige', 'pitch', 'vintage', 'spike', 'luggage', 'animal', 'fancy', 'swift', 'deliver', 'when', 'again'] |  
+| bip_39_word_space_1 | blast |  
+| bip_39_word_space_10 | blast oblige pitch vintage spike luggage animal fancy swift deliver |  
+| bip_39_word_space_11 | blast oblige pitch vintage spike luggage animal fancy swift deliver when |  
+| bip_39_word_space_12 | blast oblige pitch vintage spike luggage animal fancy swift deliver when again |  
+| bip_39_word_space_2 | blast oblige |  
+| bip_39_word_space_3 | blast oblige pitch |  
+| bip_39_word_space_4 | blast oblige pitch vintage |  
+| bip_39_word_space_5 | blast oblige pitch vintage spike |  
+| bip_39_word_space_6 | blast oblige pitch vintage spike luggage |  
+| bip_39_word_space_7 | blast oblige pitch vintage spike luggage animal |  
+| bip_39_word_space_8 | blast oblige pitch vintage spike luggage animal fancy |  
+| bip_39_word_space_9 | blast oblige pitch vintage spike luggage animal fancy swift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

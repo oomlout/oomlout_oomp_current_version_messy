@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cherry
+bip_39_word_new_br10: cherry<br>extra<br>gallery<br>genius<br>arrange<br>valve<br>cabin<br>road<br>youth<br>combine
+bip_39_word_new_br11: cherry<br>extra<br>gallery<br>genius<br>arrange<br>valve<br>cabin<br>road<br>youth<br>combine<br>mixture
+bip_39_word_new_br12: cherry<br>extra<br>gallery<br>genius<br>arrange<br>valve<br>cabin<br>road<br>youth<br>combine<br>mixture<br>alley
+bip_39_word_new_br2: cherry<br>extra
+bip_39_word_new_br3: cherry<br>extra<br>gallery
+bip_39_word_new_br4: cherry<br>extra<br>gallery<br>genius
+bip_39_word_new_br5: cherry<br>extra<br>gallery<br>genius<br>arrange
+bip_39_word_new_br6: cherry<br>extra<br>gallery<br>genius<br>arrange<br>valve
+bip_39_word_new_br7: cherry<br>extra<br>gallery<br>genius<br>arrange<br>valve<br>cabin
+bip_39_word_new_br8: cherry<br>extra<br>gallery<br>genius<br>arrange<br>valve<br>cabin<br>road
+bip_39_word_new_br9: cherry<br>extra<br>gallery<br>genius<br>arrange<br>valve<br>cabin<br>road<br>youth
+bip_39_word_new_line1: cherry
+bip_39_word_new_line10: 'cherry
+
+  extra
+
+  gallery
+
+  genius
+
+  arrange
+
+  valve
+
+  cabin
+
+  road
+
+  youth
+
+  combine'
+bip_39_word_new_line11: 'cherry
+
+  extra
+
+  gallery
+
+  genius
+
+  arrange
+
+  valve
+
+  cabin
+
+  road
+
+  youth
+
+  combine
+
+  mixture'
+bip_39_word_new_line12: 'cherry
+
+  extra
+
+  gallery
+
+  genius
+
+  arrange
+
+  valve
+
+  cabin
+
+  road
+
+  youth
+
+  combine
+
+  mixture
+
+  alley'
+bip_39_word_new_line2: 'cherry
+
+  extra'
+bip_39_word_new_line3: 'cherry
+
+  extra
+
+  gallery'
+bip_39_word_new_line4: 'cherry
+
+  extra
+
+  gallery
+
+  genius'
+bip_39_word_new_line5: 'cherry
+
+  extra
+
+  gallery
+
+  genius
+
+  arrange'
+bip_39_word_new_line6: 'cherry
+
+  extra
+
+  gallery
+
+  genius
+
+  arrange
+
+  valve'
+bip_39_word_new_line7: 'cherry
+
+  extra
+
+  gallery
+
+  genius
+
+  arrange
+
+  valve
+
+  cabin'
+bip_39_word_new_line8: 'cherry
+
+  extra
+
+  gallery
+
+  genius
+
+  arrange
+
+  valve
+
+  cabin
+
+  road'
+bip_39_word_new_line9: 'cherry
+
+  extra
+
+  gallery
+
+  genius
+
+  arrange
+
+  valve
+
+  cabin
+
+  road
+
+  youth'
+bip_39_word_space_0:
+- cherry
+- extra
+- gallery
+- genius
+- arrange
+- valve
+- cabin
+- road
+- youth
+- combine
+- mixture
+- alley
+bip_39_word_space_1: cherry
+bip_39_word_space_10: cherry extra gallery genius arrange valve cabin road youth combine
+bip_39_word_space_11: cherry extra gallery genius arrange valve cabin road youth combine
+  mixture
+bip_39_word_space_12: cherry extra gallery genius arrange valve cabin road youth combine
+  mixture alley
+bip_39_word_space_2: cherry extra
+bip_39_word_space_3: cherry extra gallery
+bip_39_word_space_4: cherry extra gallery genius
+bip_39_word_space_5: cherry extra gallery genius arrange
+bip_39_word_space_6: cherry extra gallery genius arrange valve
+bip_39_word_space_7: cherry extra gallery genius arrange valve cabin
+bip_39_word_space_8: cherry extra gallery genius arrange valve cabin road
+bip_39_word_space_9: cherry extra gallery genius arrange valve cabin road youth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

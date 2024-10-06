@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mushroom cool
+  * bip 39 word 3: mushroom cool gym
+  * bip 39 word: mushroom cool gym right calm verb life air wealth credit large amazing
 
 ### other_codes
 * short_code: cs2m5pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mushroom |  
+| bip_39_word_new_br10 | mushroom<br>cool<br>gym<br>right<br>calm<br>verb<br>life<br>air<br>wealth<br>credit |  
+| bip_39_word_new_br11 | mushroom<br>cool<br>gym<br>right<br>calm<br>verb<br>life<br>air<br>wealth<br>credit<br>large |  
+| bip_39_word_new_br12 | mushroom<br>cool<br>gym<br>right<br>calm<br>verb<br>life<br>air<br>wealth<br>credit<br>large<br>amazing |  
+| bip_39_word_new_br2 | mushroom<br>cool |  
+| bip_39_word_new_br3 | mushroom<br>cool<br>gym |  
+| bip_39_word_new_br4 | mushroom<br>cool<br>gym<br>right |  
+| bip_39_word_new_br5 | mushroom<br>cool<br>gym<br>right<br>calm |  
+| bip_39_word_new_br6 | mushroom<br>cool<br>gym<br>right<br>calm<br>verb |  
+| bip_39_word_new_br7 | mushroom<br>cool<br>gym<br>right<br>calm<br>verb<br>life |  
+| bip_39_word_new_br8 | mushroom<br>cool<br>gym<br>right<br>calm<br>verb<br>life<br>air |  
+| bip_39_word_new_br9 | mushroom<br>cool<br>gym<br>right<br>calm<br>verb<br>life<br>air<br>wealth |  
+| bip_39_word_new_line1 | mushroom |  
+| bip_39_word_new_line10 | mushroom
+cool
+gym
+right
+calm
+verb
+life
+air
+wealth
+credit |  
+| bip_39_word_new_line11 | mushroom
+cool
+gym
+right
+calm
+verb
+life
+air
+wealth
+credit
+large |  
+| bip_39_word_new_line12 | mushroom
+cool
+gym
+right
+calm
+verb
+life
+air
+wealth
+credit
+large
+amazing |  
+| bip_39_word_new_line2 | mushroom
+cool |  
+| bip_39_word_new_line3 | mushroom
+cool
+gym |  
+| bip_39_word_new_line4 | mushroom
+cool
+gym
+right |  
+| bip_39_word_new_line5 | mushroom
+cool
+gym
+right
+calm |  
+| bip_39_word_new_line6 | mushroom
+cool
+gym
+right
+calm
+verb |  
+| bip_39_word_new_line7 | mushroom
+cool
+gym
+right
+calm
+verb
+life |  
+| bip_39_word_new_line8 | mushroom
+cool
+gym
+right
+calm
+verb
+life
+air |  
+| bip_39_word_new_line9 | mushroom
+cool
+gym
+right
+calm
+verb
+life
+air
+wealth |  
+| bip_39_word_space_0 | ['mushroom', 'cool', 'gym', 'right', 'calm', 'verb', 'life', 'air', 'wealth', 'credit', 'large', 'amazing'] |  
+| bip_39_word_space_1 | mushroom |  
+| bip_39_word_space_10 | mushroom cool gym right calm verb life air wealth credit |  
+| bip_39_word_space_11 | mushroom cool gym right calm verb life air wealth credit large |  
+| bip_39_word_space_12 | mushroom cool gym right calm verb life air wealth credit large amazing |  
+| bip_39_word_space_2 | mushroom cool |  
+| bip_39_word_space_3 | mushroom cool gym |  
+| bip_39_word_space_4 | mushroom cool gym right |  
+| bip_39_word_space_5 | mushroom cool gym right calm |  
+| bip_39_word_space_6 | mushroom cool gym right calm verb |  
+| bip_39_word_space_7 | mushroom cool gym right calm verb life |  
+| bip_39_word_space_8 | mushroom cool gym right calm verb life air |  
+| bip_39_word_space_9 | mushroom cool gym right calm verb life air wealth |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

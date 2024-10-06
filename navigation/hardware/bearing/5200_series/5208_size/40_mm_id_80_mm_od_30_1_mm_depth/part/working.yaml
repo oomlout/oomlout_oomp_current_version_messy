@@ -1,3 +1,185 @@
+bip_39_word_new_br1: note
+bip_39_word_new_br10: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd<br>royal
+bip_39_word_new_br11: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd<br>royal<br>wish
+bip_39_word_new_br12: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd<br>royal<br>wish<br>alcohol
+bip_39_word_new_br2: note<br>genre
+bip_39_word_new_br3: note<br>genre<br>token
+bip_39_word_new_br4: note<br>genre<br>token<br>cart
+bip_39_word_new_br5: note<br>genre<br>token<br>cart<br>wish
+bip_39_word_new_br6: note<br>genre<br>token<br>cart<br>wish<br>mutual
+bip_39_word_new_br7: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone
+bip_39_word_new_br8: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb
+bip_39_word_new_br9: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd
+bip_39_word_new_line1: note
+bip_39_word_new_line10: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb
+
+  crowd
+
+  royal'
+bip_39_word_new_line11: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb
+
+  crowd
+
+  royal
+
+  wish'
+bip_39_word_new_line12: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb
+
+  crowd
+
+  royal
+
+  wish
+
+  alcohol'
+bip_39_word_new_line2: 'note
+
+  genre'
+bip_39_word_new_line3: 'note
+
+  genre
+
+  token'
+bip_39_word_new_line4: 'note
+
+  genre
+
+  token
+
+  cart'
+bip_39_word_new_line5: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish'
+bip_39_word_new_line6: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual'
+bip_39_word_new_line7: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone'
+bip_39_word_new_line8: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb'
+bip_39_word_new_line9: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb
+
+  crowd'
+bip_39_word_space_0:
+- note
+- genre
+- token
+- cart
+- wish
+- mutual
+- tone
+- limb
+- crowd
+- royal
+- wish
+- alcohol
+bip_39_word_space_1: note
+bip_39_word_space_10: note genre token cart wish mutual tone limb crowd royal
+bip_39_word_space_11: note genre token cart wish mutual tone limb crowd royal wish
+bip_39_word_space_12: note genre token cart wish mutual tone limb crowd royal wish
+  alcohol
+bip_39_word_space_2: note genre
+bip_39_word_space_3: note genre token
+bip_39_word_space_4: note genre token cart
+bip_39_word_space_5: note genre token cart wish
+bip_39_word_space_6: note genre token cart wish mutual
+bip_39_word_space_7: note genre token cart wish mutual tone
+bip_39_word_space_8: note genre token cart wish mutual tone limb
+bip_39_word_space_9: note genre token cart wish mutual tone limb crowd
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

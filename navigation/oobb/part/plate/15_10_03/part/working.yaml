@@ -1,3 +1,186 @@
+bip_39_word_new_br1: divert
+bip_39_word_new_br10: divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew
+bip_39_word_new_br11: divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew<br>coach
+bip_39_word_new_br12: divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl<br>crew<br>coach<br>action
+bip_39_word_new_br2: divert<br>dad
+bip_39_word_new_br3: divert<br>dad<br>wrestle
+bip_39_word_new_br4: divert<br>dad<br>wrestle<br>poem
+bip_39_word_new_br5: divert<br>dad<br>wrestle<br>poem<br>hazard
+bip_39_word_new_br6: divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost
+bip_39_word_new_br7: divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow
+bip_39_word_new_br8: divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle
+bip_39_word_new_br9: divert<br>dad<br>wrestle<br>poem<br>hazard<br>almost<br>glow<br>ankle<br>crawl
+bip_39_word_new_line1: divert
+bip_39_word_new_line10: 'divert
+
+  dad
+
+  wrestle
+
+  poem
+
+  hazard
+
+  almost
+
+  glow
+
+  ankle
+
+  crawl
+
+  crew'
+bip_39_word_new_line11: 'divert
+
+  dad
+
+  wrestle
+
+  poem
+
+  hazard
+
+  almost
+
+  glow
+
+  ankle
+
+  crawl
+
+  crew
+
+  coach'
+bip_39_word_new_line12: 'divert
+
+  dad
+
+  wrestle
+
+  poem
+
+  hazard
+
+  almost
+
+  glow
+
+  ankle
+
+  crawl
+
+  crew
+
+  coach
+
+  action'
+bip_39_word_new_line2: 'divert
+
+  dad'
+bip_39_word_new_line3: 'divert
+
+  dad
+
+  wrestle'
+bip_39_word_new_line4: 'divert
+
+  dad
+
+  wrestle
+
+  poem'
+bip_39_word_new_line5: 'divert
+
+  dad
+
+  wrestle
+
+  poem
+
+  hazard'
+bip_39_word_new_line6: 'divert
+
+  dad
+
+  wrestle
+
+  poem
+
+  hazard
+
+  almost'
+bip_39_word_new_line7: 'divert
+
+  dad
+
+  wrestle
+
+  poem
+
+  hazard
+
+  almost
+
+  glow'
+bip_39_word_new_line8: 'divert
+
+  dad
+
+  wrestle
+
+  poem
+
+  hazard
+
+  almost
+
+  glow
+
+  ankle'
+bip_39_word_new_line9: 'divert
+
+  dad
+
+  wrestle
+
+  poem
+
+  hazard
+
+  almost
+
+  glow
+
+  ankle
+
+  crawl'
+bip_39_word_space_0:
+- divert
+- dad
+- wrestle
+- poem
+- hazard
+- almost
+- glow
+- ankle
+- crawl
+- crew
+- coach
+- action
+bip_39_word_space_1: divert
+bip_39_word_space_10: divert dad wrestle poem hazard almost glow ankle crawl crew
+bip_39_word_space_11: divert dad wrestle poem hazard almost glow ankle crawl crew
+  coach
+bip_39_word_space_12: divert dad wrestle poem hazard almost glow ankle crawl crew
+  coach action
+bip_39_word_space_2: divert dad
+bip_39_word_space_3: divert dad wrestle
+bip_39_word_space_4: divert dad wrestle poem
+bip_39_word_space_5: divert dad wrestle poem hazard
+bip_39_word_space_6: divert dad wrestle poem hazard almost
+bip_39_word_space_7: divert dad wrestle poem hazard almost glow
+bip_39_word_space_8: divert dad wrestle poem hazard almost glow ankle
+bip_39_word_space_9: divert dad wrestle poem hazard almost glow ankle crawl
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

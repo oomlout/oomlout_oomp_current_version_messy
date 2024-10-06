@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crucial flight
+  * bip 39 word 3: crucial flight street
+  * bip 39 word: crucial flight street rebel twin black raise action quick avocado city apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crucial |  
+| bip_39_word_new_br10 | crucial<br>flight<br>street<br>rebel<br>twin<br>black<br>raise<br>action<br>quick<br>avocado |  
+| bip_39_word_new_br11 | crucial<br>flight<br>street<br>rebel<br>twin<br>black<br>raise<br>action<br>quick<br>avocado<br>city |  
+| bip_39_word_new_br12 | crucial<br>flight<br>street<br>rebel<br>twin<br>black<br>raise<br>action<br>quick<br>avocado<br>city<br>apart |  
+| bip_39_word_new_br2 | crucial<br>flight |  
+| bip_39_word_new_br3 | crucial<br>flight<br>street |  
+| bip_39_word_new_br4 | crucial<br>flight<br>street<br>rebel |  
+| bip_39_word_new_br5 | crucial<br>flight<br>street<br>rebel<br>twin |  
+| bip_39_word_new_br6 | crucial<br>flight<br>street<br>rebel<br>twin<br>black |  
+| bip_39_word_new_br7 | crucial<br>flight<br>street<br>rebel<br>twin<br>black<br>raise |  
+| bip_39_word_new_br8 | crucial<br>flight<br>street<br>rebel<br>twin<br>black<br>raise<br>action |  
+| bip_39_word_new_br9 | crucial<br>flight<br>street<br>rebel<br>twin<br>black<br>raise<br>action<br>quick |  
+| bip_39_word_new_line1 | crucial |  
+| bip_39_word_new_line10 | crucial
+flight
+street
+rebel
+twin
+black
+raise
+action
+quick
+avocado |  
+| bip_39_word_new_line11 | crucial
+flight
+street
+rebel
+twin
+black
+raise
+action
+quick
+avocado
+city |  
+| bip_39_word_new_line12 | crucial
+flight
+street
+rebel
+twin
+black
+raise
+action
+quick
+avocado
+city
+apart |  
+| bip_39_word_new_line2 | crucial
+flight |  
+| bip_39_word_new_line3 | crucial
+flight
+street |  
+| bip_39_word_new_line4 | crucial
+flight
+street
+rebel |  
+| bip_39_word_new_line5 | crucial
+flight
+street
+rebel
+twin |  
+| bip_39_word_new_line6 | crucial
+flight
+street
+rebel
+twin
+black |  
+| bip_39_word_new_line7 | crucial
+flight
+street
+rebel
+twin
+black
+raise |  
+| bip_39_word_new_line8 | crucial
+flight
+street
+rebel
+twin
+black
+raise
+action |  
+| bip_39_word_new_line9 | crucial
+flight
+street
+rebel
+twin
+black
+raise
+action
+quick |  
+| bip_39_word_space_0 | ['crucial', 'flight', 'street', 'rebel', 'twin', 'black', 'raise', 'action', 'quick', 'avocado', 'city', 'apart'] |  
+| bip_39_word_space_1 | crucial |  
+| bip_39_word_space_10 | crucial flight street rebel twin black raise action quick avocado |  
+| bip_39_word_space_11 | crucial flight street rebel twin black raise action quick avocado city |  
+| bip_39_word_space_12 | crucial flight street rebel twin black raise action quick avocado city apart |  
+| bip_39_word_space_2 | crucial flight |  
+| bip_39_word_space_3 | crucial flight street |  
+| bip_39_word_space_4 | crucial flight street rebel |  
+| bip_39_word_space_5 | crucial flight street rebel twin |  
+| bip_39_word_space_6 | crucial flight street rebel twin black |  
+| bip_39_word_space_7 | crucial flight street rebel twin black raise |  
+| bip_39_word_space_8 | crucial flight street rebel twin black raise action |  
+| bip_39_word_space_9 | crucial flight street rebel twin black raise action quick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

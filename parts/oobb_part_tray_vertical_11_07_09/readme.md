@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toddler enter
+  * bip 39 word 3: toddler enter bronze
+  * bip 39 word: toddler enter bronze rose bamboo announce wine hawk ability joke trouble alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toddler |  
+| bip_39_word_new_br10 | toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce<br>wine<br>hawk<br>ability<br>joke |  
+| bip_39_word_new_br11 | toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce<br>wine<br>hawk<br>ability<br>joke<br>trouble |  
+| bip_39_word_new_br12 | toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce<br>wine<br>hawk<br>ability<br>joke<br>trouble<br>alpha |  
+| bip_39_word_new_br2 | toddler<br>enter |  
+| bip_39_word_new_br3 | toddler<br>enter<br>bronze |  
+| bip_39_word_new_br4 | toddler<br>enter<br>bronze<br>rose |  
+| bip_39_word_new_br5 | toddler<br>enter<br>bronze<br>rose<br>bamboo |  
+| bip_39_word_new_br6 | toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce |  
+| bip_39_word_new_br7 | toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce<br>wine |  
+| bip_39_word_new_br8 | toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce<br>wine<br>hawk |  
+| bip_39_word_new_br9 | toddler<br>enter<br>bronze<br>rose<br>bamboo<br>announce<br>wine<br>hawk<br>ability |  
+| bip_39_word_new_line1 | toddler |  
+| bip_39_word_new_line10 | toddler
+enter
+bronze
+rose
+bamboo
+announce
+wine
+hawk
+ability
+joke |  
+| bip_39_word_new_line11 | toddler
+enter
+bronze
+rose
+bamboo
+announce
+wine
+hawk
+ability
+joke
+trouble |  
+| bip_39_word_new_line12 | toddler
+enter
+bronze
+rose
+bamboo
+announce
+wine
+hawk
+ability
+joke
+trouble
+alpha |  
+| bip_39_word_new_line2 | toddler
+enter |  
+| bip_39_word_new_line3 | toddler
+enter
+bronze |  
+| bip_39_word_new_line4 | toddler
+enter
+bronze
+rose |  
+| bip_39_word_new_line5 | toddler
+enter
+bronze
+rose
+bamboo |  
+| bip_39_word_new_line6 | toddler
+enter
+bronze
+rose
+bamboo
+announce |  
+| bip_39_word_new_line7 | toddler
+enter
+bronze
+rose
+bamboo
+announce
+wine |  
+| bip_39_word_new_line8 | toddler
+enter
+bronze
+rose
+bamboo
+announce
+wine
+hawk |  
+| bip_39_word_new_line9 | toddler
+enter
+bronze
+rose
+bamboo
+announce
+wine
+hawk
+ability |  
+| bip_39_word_space_0 | ['toddler', 'enter', 'bronze', 'rose', 'bamboo', 'announce', 'wine', 'hawk', 'ability', 'joke', 'trouble', 'alpha'] |  
+| bip_39_word_space_1 | toddler |  
+| bip_39_word_space_10 | toddler enter bronze rose bamboo announce wine hawk ability joke |  
+| bip_39_word_space_11 | toddler enter bronze rose bamboo announce wine hawk ability joke trouble |  
+| bip_39_word_space_12 | toddler enter bronze rose bamboo announce wine hawk ability joke trouble alpha |  
+| bip_39_word_space_2 | toddler enter |  
+| bip_39_word_space_3 | toddler enter bronze |  
+| bip_39_word_space_4 | toddler enter bronze rose |  
+| bip_39_word_space_5 | toddler enter bronze rose bamboo |  
+| bip_39_word_space_6 | toddler enter bronze rose bamboo announce |  
+| bip_39_word_space_7 | toddler enter bronze rose bamboo announce wine |  
+| bip_39_word_space_8 | toddler enter bronze rose bamboo announce wine hawk |  
+| bip_39_word_space_9 | toddler enter bronze rose bamboo announce wine hawk ability |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

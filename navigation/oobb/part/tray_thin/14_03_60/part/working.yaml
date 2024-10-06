@@ -1,3 +1,186 @@
+bip_39_word_new_br1: usage
+bip_39_word_new_br10: usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local
+bip_39_word_new_br11: usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local<br>office
+bip_39_word_new_br12: usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget<br>local<br>office<br>actress
+bip_39_word_new_br2: usage<br>ankle
+bip_39_word_new_br3: usage<br>ankle<br>odor
+bip_39_word_new_br4: usage<br>ankle<br>odor<br>surprise
+bip_39_word_new_br5: usage<br>ankle<br>odor<br>surprise<br>bundle
+bip_39_word_new_br6: usage<br>ankle<br>odor<br>surprise<br>bundle<br>way
+bip_39_word_new_br7: usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork
+bip_39_word_new_br8: usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy
+bip_39_word_new_br9: usage<br>ankle<br>odor<br>surprise<br>bundle<br>way<br>artwork<br>easy<br>gadget
+bip_39_word_new_line1: usage
+bip_39_word_new_line10: 'usage
+
+  ankle
+
+  odor
+
+  surprise
+
+  bundle
+
+  way
+
+  artwork
+
+  easy
+
+  gadget
+
+  local'
+bip_39_word_new_line11: 'usage
+
+  ankle
+
+  odor
+
+  surprise
+
+  bundle
+
+  way
+
+  artwork
+
+  easy
+
+  gadget
+
+  local
+
+  office'
+bip_39_word_new_line12: 'usage
+
+  ankle
+
+  odor
+
+  surprise
+
+  bundle
+
+  way
+
+  artwork
+
+  easy
+
+  gadget
+
+  local
+
+  office
+
+  actress'
+bip_39_word_new_line2: 'usage
+
+  ankle'
+bip_39_word_new_line3: 'usage
+
+  ankle
+
+  odor'
+bip_39_word_new_line4: 'usage
+
+  ankle
+
+  odor
+
+  surprise'
+bip_39_word_new_line5: 'usage
+
+  ankle
+
+  odor
+
+  surprise
+
+  bundle'
+bip_39_word_new_line6: 'usage
+
+  ankle
+
+  odor
+
+  surprise
+
+  bundle
+
+  way'
+bip_39_word_new_line7: 'usage
+
+  ankle
+
+  odor
+
+  surprise
+
+  bundle
+
+  way
+
+  artwork'
+bip_39_word_new_line8: 'usage
+
+  ankle
+
+  odor
+
+  surprise
+
+  bundle
+
+  way
+
+  artwork
+
+  easy'
+bip_39_word_new_line9: 'usage
+
+  ankle
+
+  odor
+
+  surprise
+
+  bundle
+
+  way
+
+  artwork
+
+  easy
+
+  gadget'
+bip_39_word_space_0:
+- usage
+- ankle
+- odor
+- surprise
+- bundle
+- way
+- artwork
+- easy
+- gadget
+- local
+- office
+- actress
+bip_39_word_space_1: usage
+bip_39_word_space_10: usage ankle odor surprise bundle way artwork easy gadget local
+bip_39_word_space_11: usage ankle odor surprise bundle way artwork easy gadget local
+  office
+bip_39_word_space_12: usage ankle odor surprise bundle way artwork easy gadget local
+  office actress
+bip_39_word_space_2: usage ankle
+bip_39_word_space_3: usage ankle odor
+bip_39_word_space_4: usage ankle odor surprise
+bip_39_word_space_5: usage ankle odor surprise bundle
+bip_39_word_space_6: usage ankle odor surprise bundle way
+bip_39_word_space_7: usage ankle odor surprise bundle way artwork
+bip_39_word_space_8: usage ankle odor surprise bundle way artwork easy
+bip_39_word_space_9: usage ankle odor surprise bundle way artwork easy gadget
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

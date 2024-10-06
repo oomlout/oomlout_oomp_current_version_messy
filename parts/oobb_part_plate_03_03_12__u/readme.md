@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: achieve license
+  * bip 39 word 3: achieve license card
+  * bip 39 word: achieve license card need source glory skin system illegal celery robot alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | achieve |  
+| bip_39_word_new_br10 | achieve<br>license<br>card<br>need<br>source<br>glory<br>skin<br>system<br>illegal<br>celery |  
+| bip_39_word_new_br11 | achieve<br>license<br>card<br>need<br>source<br>glory<br>skin<br>system<br>illegal<br>celery<br>robot |  
+| bip_39_word_new_br12 | achieve<br>license<br>card<br>need<br>source<br>glory<br>skin<br>system<br>illegal<br>celery<br>robot<br>alien |  
+| bip_39_word_new_br2 | achieve<br>license |  
+| bip_39_word_new_br3 | achieve<br>license<br>card |  
+| bip_39_word_new_br4 | achieve<br>license<br>card<br>need |  
+| bip_39_word_new_br5 | achieve<br>license<br>card<br>need<br>source |  
+| bip_39_word_new_br6 | achieve<br>license<br>card<br>need<br>source<br>glory |  
+| bip_39_word_new_br7 | achieve<br>license<br>card<br>need<br>source<br>glory<br>skin |  
+| bip_39_word_new_br8 | achieve<br>license<br>card<br>need<br>source<br>glory<br>skin<br>system |  
+| bip_39_word_new_br9 | achieve<br>license<br>card<br>need<br>source<br>glory<br>skin<br>system<br>illegal |  
+| bip_39_word_new_line1 | achieve |  
+| bip_39_word_new_line10 | achieve
+license
+card
+need
+source
+glory
+skin
+system
+illegal
+celery |  
+| bip_39_word_new_line11 | achieve
+license
+card
+need
+source
+glory
+skin
+system
+illegal
+celery
+robot |  
+| bip_39_word_new_line12 | achieve
+license
+card
+need
+source
+glory
+skin
+system
+illegal
+celery
+robot
+alien |  
+| bip_39_word_new_line2 | achieve
+license |  
+| bip_39_word_new_line3 | achieve
+license
+card |  
+| bip_39_word_new_line4 | achieve
+license
+card
+need |  
+| bip_39_word_new_line5 | achieve
+license
+card
+need
+source |  
+| bip_39_word_new_line6 | achieve
+license
+card
+need
+source
+glory |  
+| bip_39_word_new_line7 | achieve
+license
+card
+need
+source
+glory
+skin |  
+| bip_39_word_new_line8 | achieve
+license
+card
+need
+source
+glory
+skin
+system |  
+| bip_39_word_new_line9 | achieve
+license
+card
+need
+source
+glory
+skin
+system
+illegal |  
+| bip_39_word_space_0 | ['achieve', 'license', 'card', 'need', 'source', 'glory', 'skin', 'system', 'illegal', 'celery', 'robot', 'alien'] |  
+| bip_39_word_space_1 | achieve |  
+| bip_39_word_space_10 | achieve license card need source glory skin system illegal celery |  
+| bip_39_word_space_11 | achieve license card need source glory skin system illegal celery robot |  
+| bip_39_word_space_12 | achieve license card need source glory skin system illegal celery robot alien |  
+| bip_39_word_space_2 | achieve license |  
+| bip_39_word_space_3 | achieve license card |  
+| bip_39_word_space_4 | achieve license card need |  
+| bip_39_word_space_5 | achieve license card need source |  
+| bip_39_word_space_6 | achieve license card need source glory |  
+| bip_39_word_space_7 | achieve license card need source glory skin |  
+| bip_39_word_space_8 | achieve license card need source glory skin system |  
+| bip_39_word_space_9 | achieve license card need source glory skin system illegal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: soda
+bip_39_word_new_br10: soda<br>cart<br>tongue<br>apple<br>crouch<br>paper<br>surround<br>pelican<br>control<br>tunnel
+bip_39_word_new_br11: soda<br>cart<br>tongue<br>apple<br>crouch<br>paper<br>surround<br>pelican<br>control<br>tunnel<br>ring
+bip_39_word_new_br12: soda<br>cart<br>tongue<br>apple<br>crouch<br>paper<br>surround<br>pelican<br>control<br>tunnel<br>ring<br>amazing
+bip_39_word_new_br2: soda<br>cart
+bip_39_word_new_br3: soda<br>cart<br>tongue
+bip_39_word_new_br4: soda<br>cart<br>tongue<br>apple
+bip_39_word_new_br5: soda<br>cart<br>tongue<br>apple<br>crouch
+bip_39_word_new_br6: soda<br>cart<br>tongue<br>apple<br>crouch<br>paper
+bip_39_word_new_br7: soda<br>cart<br>tongue<br>apple<br>crouch<br>paper<br>surround
+bip_39_word_new_br8: soda<br>cart<br>tongue<br>apple<br>crouch<br>paper<br>surround<br>pelican
+bip_39_word_new_br9: soda<br>cart<br>tongue<br>apple<br>crouch<br>paper<br>surround<br>pelican<br>control
+bip_39_word_new_line1: soda
+bip_39_word_new_line10: 'soda
+
+  cart
+
+  tongue
+
+  apple
+
+  crouch
+
+  paper
+
+  surround
+
+  pelican
+
+  control
+
+  tunnel'
+bip_39_word_new_line11: 'soda
+
+  cart
+
+  tongue
+
+  apple
+
+  crouch
+
+  paper
+
+  surround
+
+  pelican
+
+  control
+
+  tunnel
+
+  ring'
+bip_39_word_new_line12: 'soda
+
+  cart
+
+  tongue
+
+  apple
+
+  crouch
+
+  paper
+
+  surround
+
+  pelican
+
+  control
+
+  tunnel
+
+  ring
+
+  amazing'
+bip_39_word_new_line2: 'soda
+
+  cart'
+bip_39_word_new_line3: 'soda
+
+  cart
+
+  tongue'
+bip_39_word_new_line4: 'soda
+
+  cart
+
+  tongue
+
+  apple'
+bip_39_word_new_line5: 'soda
+
+  cart
+
+  tongue
+
+  apple
+
+  crouch'
+bip_39_word_new_line6: 'soda
+
+  cart
+
+  tongue
+
+  apple
+
+  crouch
+
+  paper'
+bip_39_word_new_line7: 'soda
+
+  cart
+
+  tongue
+
+  apple
+
+  crouch
+
+  paper
+
+  surround'
+bip_39_word_new_line8: 'soda
+
+  cart
+
+  tongue
+
+  apple
+
+  crouch
+
+  paper
+
+  surround
+
+  pelican'
+bip_39_word_new_line9: 'soda
+
+  cart
+
+  tongue
+
+  apple
+
+  crouch
+
+  paper
+
+  surround
+
+  pelican
+
+  control'
+bip_39_word_space_0:
+- soda
+- cart
+- tongue
+- apple
+- crouch
+- paper
+- surround
+- pelican
+- control
+- tunnel
+- ring
+- amazing
+bip_39_word_space_1: soda
+bip_39_word_space_10: soda cart tongue apple crouch paper surround pelican control
+  tunnel
+bip_39_word_space_11: soda cart tongue apple crouch paper surround pelican control
+  tunnel ring
+bip_39_word_space_12: soda cart tongue apple crouch paper surround pelican control
+  tunnel ring amazing
+bip_39_word_space_2: soda cart
+bip_39_word_space_3: soda cart tongue
+bip_39_word_space_4: soda cart tongue apple
+bip_39_word_space_5: soda cart tongue apple crouch
+bip_39_word_space_6: soda cart tongue apple crouch paper
+bip_39_word_space_7: soda cart tongue apple crouch paper surround
+bip_39_word_space_8: soda cart tongue apple crouch paper surround pelican
+bip_39_word_space_9: soda cart tongue apple crouch paper surround pelican control
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

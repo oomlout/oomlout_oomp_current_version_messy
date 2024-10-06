@@ -1,3 +1,187 @@
+bip_39_word_new_br1: faith
+bip_39_word_new_br10: faith<br>oil<br>rebuild<br>balcony<br>slender<br>save<br>neutral<br>notice<br>rocket<br>citizen
+bip_39_word_new_br11: faith<br>oil<br>rebuild<br>balcony<br>slender<br>save<br>neutral<br>notice<br>rocket<br>citizen<br>retreat
+bip_39_word_new_br12: faith<br>oil<br>rebuild<br>balcony<br>slender<br>save<br>neutral<br>notice<br>rocket<br>citizen<br>retreat<br>alarm
+bip_39_word_new_br2: faith<br>oil
+bip_39_word_new_br3: faith<br>oil<br>rebuild
+bip_39_word_new_br4: faith<br>oil<br>rebuild<br>balcony
+bip_39_word_new_br5: faith<br>oil<br>rebuild<br>balcony<br>slender
+bip_39_word_new_br6: faith<br>oil<br>rebuild<br>balcony<br>slender<br>save
+bip_39_word_new_br7: faith<br>oil<br>rebuild<br>balcony<br>slender<br>save<br>neutral
+bip_39_word_new_br8: faith<br>oil<br>rebuild<br>balcony<br>slender<br>save<br>neutral<br>notice
+bip_39_word_new_br9: faith<br>oil<br>rebuild<br>balcony<br>slender<br>save<br>neutral<br>notice<br>rocket
+bip_39_word_new_line1: faith
+bip_39_word_new_line10: 'faith
+
+  oil
+
+  rebuild
+
+  balcony
+
+  slender
+
+  save
+
+  neutral
+
+  notice
+
+  rocket
+
+  citizen'
+bip_39_word_new_line11: 'faith
+
+  oil
+
+  rebuild
+
+  balcony
+
+  slender
+
+  save
+
+  neutral
+
+  notice
+
+  rocket
+
+  citizen
+
+  retreat'
+bip_39_word_new_line12: 'faith
+
+  oil
+
+  rebuild
+
+  balcony
+
+  slender
+
+  save
+
+  neutral
+
+  notice
+
+  rocket
+
+  citizen
+
+  retreat
+
+  alarm'
+bip_39_word_new_line2: 'faith
+
+  oil'
+bip_39_word_new_line3: 'faith
+
+  oil
+
+  rebuild'
+bip_39_word_new_line4: 'faith
+
+  oil
+
+  rebuild
+
+  balcony'
+bip_39_word_new_line5: 'faith
+
+  oil
+
+  rebuild
+
+  balcony
+
+  slender'
+bip_39_word_new_line6: 'faith
+
+  oil
+
+  rebuild
+
+  balcony
+
+  slender
+
+  save'
+bip_39_word_new_line7: 'faith
+
+  oil
+
+  rebuild
+
+  balcony
+
+  slender
+
+  save
+
+  neutral'
+bip_39_word_new_line8: 'faith
+
+  oil
+
+  rebuild
+
+  balcony
+
+  slender
+
+  save
+
+  neutral
+
+  notice'
+bip_39_word_new_line9: 'faith
+
+  oil
+
+  rebuild
+
+  balcony
+
+  slender
+
+  save
+
+  neutral
+
+  notice
+
+  rocket'
+bip_39_word_space_0:
+- faith
+- oil
+- rebuild
+- balcony
+- slender
+- save
+- neutral
+- notice
+- rocket
+- citizen
+- retreat
+- alarm
+bip_39_word_space_1: faith
+bip_39_word_space_10: faith oil rebuild balcony slender save neutral notice rocket
+  citizen
+bip_39_word_space_11: faith oil rebuild balcony slender save neutral notice rocket
+  citizen retreat
+bip_39_word_space_12: faith oil rebuild balcony slender save neutral notice rocket
+  citizen retreat alarm
+bip_39_word_space_2: faith oil
+bip_39_word_space_3: faith oil rebuild
+bip_39_word_space_4: faith oil rebuild balcony
+bip_39_word_space_5: faith oil rebuild balcony slender
+bip_39_word_space_6: faith oil rebuild balcony slender save
+bip_39_word_space_7: faith oil rebuild balcony slender save neutral
+bip_39_word_space_8: faith oil rebuild balcony slender save neutral notice
+bip_39_word_space_9: faith oil rebuild balcony slender save neutral notice rocket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

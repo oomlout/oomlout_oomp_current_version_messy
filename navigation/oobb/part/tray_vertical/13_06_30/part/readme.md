@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: climb tribe
+  * bip 39 word 3: climb tribe glance
+  * bip 39 word: climb tribe glance nut web picnic drip wheel ticket forest undo aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | climb |  
+| bip_39_word_new_br10 | climb<br>tribe<br>glance<br>nut<br>web<br>picnic<br>drip<br>wheel<br>ticket<br>forest |  
+| bip_39_word_new_br11 | climb<br>tribe<br>glance<br>nut<br>web<br>picnic<br>drip<br>wheel<br>ticket<br>forest<br>undo |  
+| bip_39_word_new_br12 | climb<br>tribe<br>glance<br>nut<br>web<br>picnic<br>drip<br>wheel<br>ticket<br>forest<br>undo<br>aerobic |  
+| bip_39_word_new_br2 | climb<br>tribe |  
+| bip_39_word_new_br3 | climb<br>tribe<br>glance |  
+| bip_39_word_new_br4 | climb<br>tribe<br>glance<br>nut |  
+| bip_39_word_new_br5 | climb<br>tribe<br>glance<br>nut<br>web |  
+| bip_39_word_new_br6 | climb<br>tribe<br>glance<br>nut<br>web<br>picnic |  
+| bip_39_word_new_br7 | climb<br>tribe<br>glance<br>nut<br>web<br>picnic<br>drip |  
+| bip_39_word_new_br8 | climb<br>tribe<br>glance<br>nut<br>web<br>picnic<br>drip<br>wheel |  
+| bip_39_word_new_br9 | climb<br>tribe<br>glance<br>nut<br>web<br>picnic<br>drip<br>wheel<br>ticket |  
+| bip_39_word_new_line1 | climb |  
+| bip_39_word_new_line10 | climb
+tribe
+glance
+nut
+web
+picnic
+drip
+wheel
+ticket
+forest |  
+| bip_39_word_new_line11 | climb
+tribe
+glance
+nut
+web
+picnic
+drip
+wheel
+ticket
+forest
+undo |  
+| bip_39_word_new_line12 | climb
+tribe
+glance
+nut
+web
+picnic
+drip
+wheel
+ticket
+forest
+undo
+aerobic |  
+| bip_39_word_new_line2 | climb
+tribe |  
+| bip_39_word_new_line3 | climb
+tribe
+glance |  
+| bip_39_word_new_line4 | climb
+tribe
+glance
+nut |  
+| bip_39_word_new_line5 | climb
+tribe
+glance
+nut
+web |  
+| bip_39_word_new_line6 | climb
+tribe
+glance
+nut
+web
+picnic |  
+| bip_39_word_new_line7 | climb
+tribe
+glance
+nut
+web
+picnic
+drip |  
+| bip_39_word_new_line8 | climb
+tribe
+glance
+nut
+web
+picnic
+drip
+wheel |  
+| bip_39_word_new_line9 | climb
+tribe
+glance
+nut
+web
+picnic
+drip
+wheel
+ticket |  
+| bip_39_word_space_0 | ['climb', 'tribe', 'glance', 'nut', 'web', 'picnic', 'drip', 'wheel', 'ticket', 'forest', 'undo', 'aerobic'] |  
+| bip_39_word_space_1 | climb |  
+| bip_39_word_space_10 | climb tribe glance nut web picnic drip wheel ticket forest |  
+| bip_39_word_space_11 | climb tribe glance nut web picnic drip wheel ticket forest undo |  
+| bip_39_word_space_12 | climb tribe glance nut web picnic drip wheel ticket forest undo aerobic |  
+| bip_39_word_space_2 | climb tribe |  
+| bip_39_word_space_3 | climb tribe glance |  
+| bip_39_word_space_4 | climb tribe glance nut |  
+| bip_39_word_space_5 | climb tribe glance nut web |  
+| bip_39_word_space_6 | climb tribe glance nut web picnic |  
+| bip_39_word_space_7 | climb tribe glance nut web picnic drip |  
+| bip_39_word_space_8 | climb tribe glance nut web picnic drip wheel |  
+| bip_39_word_space_9 | climb tribe glance nut web picnic drip wheel ticket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

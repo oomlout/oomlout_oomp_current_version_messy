@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: timber midnight
+  * bip 39 word 3: timber midnight trade
+  * bip 39 word: timber midnight trade display slot boost slight caught tower fat figure attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | timber |  
+| bip_39_word_new_br10 | timber<br>midnight<br>trade<br>display<br>slot<br>boost<br>slight<br>caught<br>tower<br>fat |  
+| bip_39_word_new_br11 | timber<br>midnight<br>trade<br>display<br>slot<br>boost<br>slight<br>caught<br>tower<br>fat<br>figure |  
+| bip_39_word_new_br12 | timber<br>midnight<br>trade<br>display<br>slot<br>boost<br>slight<br>caught<br>tower<br>fat<br>figure<br>attitude |  
+| bip_39_word_new_br2 | timber<br>midnight |  
+| bip_39_word_new_br3 | timber<br>midnight<br>trade |  
+| bip_39_word_new_br4 | timber<br>midnight<br>trade<br>display |  
+| bip_39_word_new_br5 | timber<br>midnight<br>trade<br>display<br>slot |  
+| bip_39_word_new_br6 | timber<br>midnight<br>trade<br>display<br>slot<br>boost |  
+| bip_39_word_new_br7 | timber<br>midnight<br>trade<br>display<br>slot<br>boost<br>slight |  
+| bip_39_word_new_br8 | timber<br>midnight<br>trade<br>display<br>slot<br>boost<br>slight<br>caught |  
+| bip_39_word_new_br9 | timber<br>midnight<br>trade<br>display<br>slot<br>boost<br>slight<br>caught<br>tower |  
+| bip_39_word_new_line1 | timber |  
+| bip_39_word_new_line10 | timber
+midnight
+trade
+display
+slot
+boost
+slight
+caught
+tower
+fat |  
+| bip_39_word_new_line11 | timber
+midnight
+trade
+display
+slot
+boost
+slight
+caught
+tower
+fat
+figure |  
+| bip_39_word_new_line12 | timber
+midnight
+trade
+display
+slot
+boost
+slight
+caught
+tower
+fat
+figure
+attitude |  
+| bip_39_word_new_line2 | timber
+midnight |  
+| bip_39_word_new_line3 | timber
+midnight
+trade |  
+| bip_39_word_new_line4 | timber
+midnight
+trade
+display |  
+| bip_39_word_new_line5 | timber
+midnight
+trade
+display
+slot |  
+| bip_39_word_new_line6 | timber
+midnight
+trade
+display
+slot
+boost |  
+| bip_39_word_new_line7 | timber
+midnight
+trade
+display
+slot
+boost
+slight |  
+| bip_39_word_new_line8 | timber
+midnight
+trade
+display
+slot
+boost
+slight
+caught |  
+| bip_39_word_new_line9 | timber
+midnight
+trade
+display
+slot
+boost
+slight
+caught
+tower |  
+| bip_39_word_space_0 | ['timber', 'midnight', 'trade', 'display', 'slot', 'boost', 'slight', 'caught', 'tower', 'fat', 'figure', 'attitude'] |  
+| bip_39_word_space_1 | timber |  
+| bip_39_word_space_10 | timber midnight trade display slot boost slight caught tower fat |  
+| bip_39_word_space_11 | timber midnight trade display slot boost slight caught tower fat figure |  
+| bip_39_word_space_12 | timber midnight trade display slot boost slight caught tower fat figure attitude |  
+| bip_39_word_space_2 | timber midnight |  
+| bip_39_word_space_3 | timber midnight trade |  
+| bip_39_word_space_4 | timber midnight trade display |  
+| bip_39_word_space_5 | timber midnight trade display slot |  
+| bip_39_word_space_6 | timber midnight trade display slot boost |  
+| bip_39_word_space_7 | timber midnight trade display slot boost slight |  
+| bip_39_word_space_8 | timber midnight trade display slot boost slight caught |  
+| bip_39_word_space_9 | timber midnight trade display slot boost slight caught tower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

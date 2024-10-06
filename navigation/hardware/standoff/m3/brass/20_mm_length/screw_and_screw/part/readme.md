@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rice gown
+  * bip 39 word 3: rice gown couch
+  * bip 39 word: rice gown couch artwork odor hour pet clever reopen gas blood ancient
 
 ### other_codes
 * short_code: so3br20ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rice |  
+| bip_39_word_new_br10 | rice<br>gown<br>couch<br>artwork<br>odor<br>hour<br>pet<br>clever<br>reopen<br>gas |  
+| bip_39_word_new_br11 | rice<br>gown<br>couch<br>artwork<br>odor<br>hour<br>pet<br>clever<br>reopen<br>gas<br>blood |  
+| bip_39_word_new_br12 | rice<br>gown<br>couch<br>artwork<br>odor<br>hour<br>pet<br>clever<br>reopen<br>gas<br>blood<br>ancient |  
+| bip_39_word_new_br2 | rice<br>gown |  
+| bip_39_word_new_br3 | rice<br>gown<br>couch |  
+| bip_39_word_new_br4 | rice<br>gown<br>couch<br>artwork |  
+| bip_39_word_new_br5 | rice<br>gown<br>couch<br>artwork<br>odor |  
+| bip_39_word_new_br6 | rice<br>gown<br>couch<br>artwork<br>odor<br>hour |  
+| bip_39_word_new_br7 | rice<br>gown<br>couch<br>artwork<br>odor<br>hour<br>pet |  
+| bip_39_word_new_br8 | rice<br>gown<br>couch<br>artwork<br>odor<br>hour<br>pet<br>clever |  
+| bip_39_word_new_br9 | rice<br>gown<br>couch<br>artwork<br>odor<br>hour<br>pet<br>clever<br>reopen |  
+| bip_39_word_new_line1 | rice |  
+| bip_39_word_new_line10 | rice
+gown
+couch
+artwork
+odor
+hour
+pet
+clever
+reopen
+gas |  
+| bip_39_word_new_line11 | rice
+gown
+couch
+artwork
+odor
+hour
+pet
+clever
+reopen
+gas
+blood |  
+| bip_39_word_new_line12 | rice
+gown
+couch
+artwork
+odor
+hour
+pet
+clever
+reopen
+gas
+blood
+ancient |  
+| bip_39_word_new_line2 | rice
+gown |  
+| bip_39_word_new_line3 | rice
+gown
+couch |  
+| bip_39_word_new_line4 | rice
+gown
+couch
+artwork |  
+| bip_39_word_new_line5 | rice
+gown
+couch
+artwork
+odor |  
+| bip_39_word_new_line6 | rice
+gown
+couch
+artwork
+odor
+hour |  
+| bip_39_word_new_line7 | rice
+gown
+couch
+artwork
+odor
+hour
+pet |  
+| bip_39_word_new_line8 | rice
+gown
+couch
+artwork
+odor
+hour
+pet
+clever |  
+| bip_39_word_new_line9 | rice
+gown
+couch
+artwork
+odor
+hour
+pet
+clever
+reopen |  
+| bip_39_word_space_0 | ['rice', 'gown', 'couch', 'artwork', 'odor', 'hour', 'pet', 'clever', 'reopen', 'gas', 'blood', 'ancient'] |  
+| bip_39_word_space_1 | rice |  
+| bip_39_word_space_10 | rice gown couch artwork odor hour pet clever reopen gas |  
+| bip_39_word_space_11 | rice gown couch artwork odor hour pet clever reopen gas blood |  
+| bip_39_word_space_12 | rice gown couch artwork odor hour pet clever reopen gas blood ancient |  
+| bip_39_word_space_2 | rice gown |  
+| bip_39_word_space_3 | rice gown couch |  
+| bip_39_word_space_4 | rice gown couch artwork |  
+| bip_39_word_space_5 | rice gown couch artwork odor |  
+| bip_39_word_space_6 | rice gown couch artwork odor hour |  
+| bip_39_word_space_7 | rice gown couch artwork odor hour pet |  
+| bip_39_word_space_8 | rice gown couch artwork odor hour pet clever |  
+| bip_39_word_space_9 | rice gown couch artwork odor hour pet clever reopen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soccer off
+  * bip 39 word 3: soccer off play
+  * bip 39 word: soccer off play taste dial fade path cause lamp butter olive athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soccer |  
+| bip_39_word_new_br10 | soccer<br>off<br>play<br>taste<br>dial<br>fade<br>path<br>cause<br>lamp<br>butter |  
+| bip_39_word_new_br11 | soccer<br>off<br>play<br>taste<br>dial<br>fade<br>path<br>cause<br>lamp<br>butter<br>olive |  
+| bip_39_word_new_br12 | soccer<br>off<br>play<br>taste<br>dial<br>fade<br>path<br>cause<br>lamp<br>butter<br>olive<br>athlete |  
+| bip_39_word_new_br2 | soccer<br>off |  
+| bip_39_word_new_br3 | soccer<br>off<br>play |  
+| bip_39_word_new_br4 | soccer<br>off<br>play<br>taste |  
+| bip_39_word_new_br5 | soccer<br>off<br>play<br>taste<br>dial |  
+| bip_39_word_new_br6 | soccer<br>off<br>play<br>taste<br>dial<br>fade |  
+| bip_39_word_new_br7 | soccer<br>off<br>play<br>taste<br>dial<br>fade<br>path |  
+| bip_39_word_new_br8 | soccer<br>off<br>play<br>taste<br>dial<br>fade<br>path<br>cause |  
+| bip_39_word_new_br9 | soccer<br>off<br>play<br>taste<br>dial<br>fade<br>path<br>cause<br>lamp |  
+| bip_39_word_new_line1 | soccer |  
+| bip_39_word_new_line10 | soccer
+off
+play
+taste
+dial
+fade
+path
+cause
+lamp
+butter |  
+| bip_39_word_new_line11 | soccer
+off
+play
+taste
+dial
+fade
+path
+cause
+lamp
+butter
+olive |  
+| bip_39_word_new_line12 | soccer
+off
+play
+taste
+dial
+fade
+path
+cause
+lamp
+butter
+olive
+athlete |  
+| bip_39_word_new_line2 | soccer
+off |  
+| bip_39_word_new_line3 | soccer
+off
+play |  
+| bip_39_word_new_line4 | soccer
+off
+play
+taste |  
+| bip_39_word_new_line5 | soccer
+off
+play
+taste
+dial |  
+| bip_39_word_new_line6 | soccer
+off
+play
+taste
+dial
+fade |  
+| bip_39_word_new_line7 | soccer
+off
+play
+taste
+dial
+fade
+path |  
+| bip_39_word_new_line8 | soccer
+off
+play
+taste
+dial
+fade
+path
+cause |  
+| bip_39_word_new_line9 | soccer
+off
+play
+taste
+dial
+fade
+path
+cause
+lamp |  
+| bip_39_word_space_0 | ['soccer', 'off', 'play', 'taste', 'dial', 'fade', 'path', 'cause', 'lamp', 'butter', 'olive', 'athlete'] |  
+| bip_39_word_space_1 | soccer |  
+| bip_39_word_space_10 | soccer off play taste dial fade path cause lamp butter |  
+| bip_39_word_space_11 | soccer off play taste dial fade path cause lamp butter olive |  
+| bip_39_word_space_12 | soccer off play taste dial fade path cause lamp butter olive athlete |  
+| bip_39_word_space_2 | soccer off |  
+| bip_39_word_space_3 | soccer off play |  
+| bip_39_word_space_4 | soccer off play taste |  
+| bip_39_word_space_5 | soccer off play taste dial |  
+| bip_39_word_space_6 | soccer off play taste dial fade |  
+| bip_39_word_space_7 | soccer off play taste dial fade path |  
+| bip_39_word_space_8 | soccer off play taste dial fade path cause |  
+| bip_39_word_space_9 | soccer off play taste dial fade path cause lamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

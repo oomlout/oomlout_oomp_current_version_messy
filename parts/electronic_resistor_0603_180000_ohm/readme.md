@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: police attitude
+  * bip 39 word 3: police attitude diary
+  * bip 39 word: police attitude diary language pink brisk morning globe cloud clip valve absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | police |  
+| bip_39_word_new_br10 | police<br>attitude<br>diary<br>language<br>pink<br>brisk<br>morning<br>globe<br>cloud<br>clip |  
+| bip_39_word_new_br11 | police<br>attitude<br>diary<br>language<br>pink<br>brisk<br>morning<br>globe<br>cloud<br>clip<br>valve |  
+| bip_39_word_new_br12 | police<br>attitude<br>diary<br>language<br>pink<br>brisk<br>morning<br>globe<br>cloud<br>clip<br>valve<br>absorb |  
+| bip_39_word_new_br2 | police<br>attitude |  
+| bip_39_word_new_br3 | police<br>attitude<br>diary |  
+| bip_39_word_new_br4 | police<br>attitude<br>diary<br>language |  
+| bip_39_word_new_br5 | police<br>attitude<br>diary<br>language<br>pink |  
+| bip_39_word_new_br6 | police<br>attitude<br>diary<br>language<br>pink<br>brisk |  
+| bip_39_word_new_br7 | police<br>attitude<br>diary<br>language<br>pink<br>brisk<br>morning |  
+| bip_39_word_new_br8 | police<br>attitude<br>diary<br>language<br>pink<br>brisk<br>morning<br>globe |  
+| bip_39_word_new_br9 | police<br>attitude<br>diary<br>language<br>pink<br>brisk<br>morning<br>globe<br>cloud |  
+| bip_39_word_new_line1 | police |  
+| bip_39_word_new_line10 | police
+attitude
+diary
+language
+pink
+brisk
+morning
+globe
+cloud
+clip |  
+| bip_39_word_new_line11 | police
+attitude
+diary
+language
+pink
+brisk
+morning
+globe
+cloud
+clip
+valve |  
+| bip_39_word_new_line12 | police
+attitude
+diary
+language
+pink
+brisk
+morning
+globe
+cloud
+clip
+valve
+absorb |  
+| bip_39_word_new_line2 | police
+attitude |  
+| bip_39_word_new_line3 | police
+attitude
+diary |  
+| bip_39_word_new_line4 | police
+attitude
+diary
+language |  
+| bip_39_word_new_line5 | police
+attitude
+diary
+language
+pink |  
+| bip_39_word_new_line6 | police
+attitude
+diary
+language
+pink
+brisk |  
+| bip_39_word_new_line7 | police
+attitude
+diary
+language
+pink
+brisk
+morning |  
+| bip_39_word_new_line8 | police
+attitude
+diary
+language
+pink
+brisk
+morning
+globe |  
+| bip_39_word_new_line9 | police
+attitude
+diary
+language
+pink
+brisk
+morning
+globe
+cloud |  
+| bip_39_word_space_0 | ['police', 'attitude', 'diary', 'language', 'pink', 'brisk', 'morning', 'globe', 'cloud', 'clip', 'valve', 'absorb'] |  
+| bip_39_word_space_1 | police |  
+| bip_39_word_space_10 | police attitude diary language pink brisk morning globe cloud clip |  
+| bip_39_word_space_11 | police attitude diary language pink brisk morning globe cloud clip valve |  
+| bip_39_word_space_12 | police attitude diary language pink brisk morning globe cloud clip valve absorb |  
+| bip_39_word_space_2 | police attitude |  
+| bip_39_word_space_3 | police attitude diary |  
+| bip_39_word_space_4 | police attitude diary language |  
+| bip_39_word_space_5 | police attitude diary language pink |  
+| bip_39_word_space_6 | police attitude diary language pink brisk |  
+| bip_39_word_space_7 | police attitude diary language pink brisk morning |  
+| bip_39_word_space_8 | police attitude diary language pink brisk morning globe |  
+| bip_39_word_space_9 | police attitude diary language pink brisk morning globe cloud |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

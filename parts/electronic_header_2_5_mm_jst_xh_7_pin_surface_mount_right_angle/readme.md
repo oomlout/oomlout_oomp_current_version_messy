@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: warrior strategy
+  * bip 39 word 3: warrior strategy enemy
+  * bip 39 word: warrior strategy enemy view online pistol small barely general decline garlic attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | warrior |  
+| bip_39_word_new_br10 | warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline |  
+| bip_39_word_new_br11 | warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline<br>garlic |  
+| bip_39_word_new_br12 | warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general<br>decline<br>garlic<br>attitude |  
+| bip_39_word_new_br2 | warrior<br>strategy |  
+| bip_39_word_new_br3 | warrior<br>strategy<br>enemy |  
+| bip_39_word_new_br4 | warrior<br>strategy<br>enemy<br>view |  
+| bip_39_word_new_br5 | warrior<br>strategy<br>enemy<br>view<br>online |  
+| bip_39_word_new_br6 | warrior<br>strategy<br>enemy<br>view<br>online<br>pistol |  
+| bip_39_word_new_br7 | warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small |  
+| bip_39_word_new_br8 | warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely |  
+| bip_39_word_new_br9 | warrior<br>strategy<br>enemy<br>view<br>online<br>pistol<br>small<br>barely<br>general |  
+| bip_39_word_new_line1 | warrior |  
+| bip_39_word_new_line10 | warrior
+strategy
+enemy
+view
+online
+pistol
+small
+barely
+general
+decline |  
+| bip_39_word_new_line11 | warrior
+strategy
+enemy
+view
+online
+pistol
+small
+barely
+general
+decline
+garlic |  
+| bip_39_word_new_line12 | warrior
+strategy
+enemy
+view
+online
+pistol
+small
+barely
+general
+decline
+garlic
+attitude |  
+| bip_39_word_new_line2 | warrior
+strategy |  
+| bip_39_word_new_line3 | warrior
+strategy
+enemy |  
+| bip_39_word_new_line4 | warrior
+strategy
+enemy
+view |  
+| bip_39_word_new_line5 | warrior
+strategy
+enemy
+view
+online |  
+| bip_39_word_new_line6 | warrior
+strategy
+enemy
+view
+online
+pistol |  
+| bip_39_word_new_line7 | warrior
+strategy
+enemy
+view
+online
+pistol
+small |  
+| bip_39_word_new_line8 | warrior
+strategy
+enemy
+view
+online
+pistol
+small
+barely |  
+| bip_39_word_new_line9 | warrior
+strategy
+enemy
+view
+online
+pistol
+small
+barely
+general |  
+| bip_39_word_space_0 | ['warrior', 'strategy', 'enemy', 'view', 'online', 'pistol', 'small', 'barely', 'general', 'decline', 'garlic', 'attitude'] |  
+| bip_39_word_space_1 | warrior |  
+| bip_39_word_space_10 | warrior strategy enemy view online pistol small barely general decline |  
+| bip_39_word_space_11 | warrior strategy enemy view online pistol small barely general decline garlic |  
+| bip_39_word_space_12 | warrior strategy enemy view online pistol small barely general decline garlic attitude |  
+| bip_39_word_space_2 | warrior strategy |  
+| bip_39_word_space_3 | warrior strategy enemy |  
+| bip_39_word_space_4 | warrior strategy enemy view |  
+| bip_39_word_space_5 | warrior strategy enemy view online |  
+| bip_39_word_space_6 | warrior strategy enemy view online pistol |  
+| bip_39_word_space_7 | warrior strategy enemy view online pistol small |  
+| bip_39_word_space_8 | warrior strategy enemy view online pistol small barely |  
+| bip_39_word_space_9 | warrior strategy enemy view online pistol small barely general |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

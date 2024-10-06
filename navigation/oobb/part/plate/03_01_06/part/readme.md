@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: forest venture
+  * bip 39 word 3: forest venture rate
+  * bip 39 word: forest venture rate butter planet divide then tiger volume pelican pet age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | forest |  
+| bip_39_word_new_br10 | forest<br>venture<br>rate<br>butter<br>planet<br>divide<br>then<br>tiger<br>volume<br>pelican |  
+| bip_39_word_new_br11 | forest<br>venture<br>rate<br>butter<br>planet<br>divide<br>then<br>tiger<br>volume<br>pelican<br>pet |  
+| bip_39_word_new_br12 | forest<br>venture<br>rate<br>butter<br>planet<br>divide<br>then<br>tiger<br>volume<br>pelican<br>pet<br>age |  
+| bip_39_word_new_br2 | forest<br>venture |  
+| bip_39_word_new_br3 | forest<br>venture<br>rate |  
+| bip_39_word_new_br4 | forest<br>venture<br>rate<br>butter |  
+| bip_39_word_new_br5 | forest<br>venture<br>rate<br>butter<br>planet |  
+| bip_39_word_new_br6 | forest<br>venture<br>rate<br>butter<br>planet<br>divide |  
+| bip_39_word_new_br7 | forest<br>venture<br>rate<br>butter<br>planet<br>divide<br>then |  
+| bip_39_word_new_br8 | forest<br>venture<br>rate<br>butter<br>planet<br>divide<br>then<br>tiger |  
+| bip_39_word_new_br9 | forest<br>venture<br>rate<br>butter<br>planet<br>divide<br>then<br>tiger<br>volume |  
+| bip_39_word_new_line1 | forest |  
+| bip_39_word_new_line10 | forest
+venture
+rate
+butter
+planet
+divide
+then
+tiger
+volume
+pelican |  
+| bip_39_word_new_line11 | forest
+venture
+rate
+butter
+planet
+divide
+then
+tiger
+volume
+pelican
+pet |  
+| bip_39_word_new_line12 | forest
+venture
+rate
+butter
+planet
+divide
+then
+tiger
+volume
+pelican
+pet
+age |  
+| bip_39_word_new_line2 | forest
+venture |  
+| bip_39_word_new_line3 | forest
+venture
+rate |  
+| bip_39_word_new_line4 | forest
+venture
+rate
+butter |  
+| bip_39_word_new_line5 | forest
+venture
+rate
+butter
+planet |  
+| bip_39_word_new_line6 | forest
+venture
+rate
+butter
+planet
+divide |  
+| bip_39_word_new_line7 | forest
+venture
+rate
+butter
+planet
+divide
+then |  
+| bip_39_word_new_line8 | forest
+venture
+rate
+butter
+planet
+divide
+then
+tiger |  
+| bip_39_word_new_line9 | forest
+venture
+rate
+butter
+planet
+divide
+then
+tiger
+volume |  
+| bip_39_word_space_0 | ['forest', 'venture', 'rate', 'butter', 'planet', 'divide', 'then', 'tiger', 'volume', 'pelican', 'pet', 'age'] |  
+| bip_39_word_space_1 | forest |  
+| bip_39_word_space_10 | forest venture rate butter planet divide then tiger volume pelican |  
+| bip_39_word_space_11 | forest venture rate butter planet divide then tiger volume pelican pet |  
+| bip_39_word_space_12 | forest venture rate butter planet divide then tiger volume pelican pet age |  
+| bip_39_word_space_2 | forest venture |  
+| bip_39_word_space_3 | forest venture rate |  
+| bip_39_word_space_4 | forest venture rate butter |  
+| bip_39_word_space_5 | forest venture rate butter planet |  
+| bip_39_word_space_6 | forest venture rate butter planet divide |  
+| bip_39_word_space_7 | forest venture rate butter planet divide then |  
+| bip_39_word_space_8 | forest venture rate butter planet divide then tiger |  
+| bip_39_word_space_9 | forest venture rate butter planet divide then tiger volume |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: punch lawsuit
+  * bip 39 word 3: punch lawsuit moment
+  * bip 39 word: punch lawsuit moment enact nurse kingdom security play neck rack zebra always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | punch |  
+| bip_39_word_new_br10 | punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom<br>security<br>play<br>neck<br>rack |  
+| bip_39_word_new_br11 | punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom<br>security<br>play<br>neck<br>rack<br>zebra |  
+| bip_39_word_new_br12 | punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom<br>security<br>play<br>neck<br>rack<br>zebra<br>always |  
+| bip_39_word_new_br2 | punch<br>lawsuit |  
+| bip_39_word_new_br3 | punch<br>lawsuit<br>moment |  
+| bip_39_word_new_br4 | punch<br>lawsuit<br>moment<br>enact |  
+| bip_39_word_new_br5 | punch<br>lawsuit<br>moment<br>enact<br>nurse |  
+| bip_39_word_new_br6 | punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom |  
+| bip_39_word_new_br7 | punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom<br>security |  
+| bip_39_word_new_br8 | punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom<br>security<br>play |  
+| bip_39_word_new_br9 | punch<br>lawsuit<br>moment<br>enact<br>nurse<br>kingdom<br>security<br>play<br>neck |  
+| bip_39_word_new_line1 | punch |  
+| bip_39_word_new_line10 | punch
+lawsuit
+moment
+enact
+nurse
+kingdom
+security
+play
+neck
+rack |  
+| bip_39_word_new_line11 | punch
+lawsuit
+moment
+enact
+nurse
+kingdom
+security
+play
+neck
+rack
+zebra |  
+| bip_39_word_new_line12 | punch
+lawsuit
+moment
+enact
+nurse
+kingdom
+security
+play
+neck
+rack
+zebra
+always |  
+| bip_39_word_new_line2 | punch
+lawsuit |  
+| bip_39_word_new_line3 | punch
+lawsuit
+moment |  
+| bip_39_word_new_line4 | punch
+lawsuit
+moment
+enact |  
+| bip_39_word_new_line5 | punch
+lawsuit
+moment
+enact
+nurse |  
+| bip_39_word_new_line6 | punch
+lawsuit
+moment
+enact
+nurse
+kingdom |  
+| bip_39_word_new_line7 | punch
+lawsuit
+moment
+enact
+nurse
+kingdom
+security |  
+| bip_39_word_new_line8 | punch
+lawsuit
+moment
+enact
+nurse
+kingdom
+security
+play |  
+| bip_39_word_new_line9 | punch
+lawsuit
+moment
+enact
+nurse
+kingdom
+security
+play
+neck |  
+| bip_39_word_space_0 | ['punch', 'lawsuit', 'moment', 'enact', 'nurse', 'kingdom', 'security', 'play', 'neck', 'rack', 'zebra', 'always'] |  
+| bip_39_word_space_1 | punch |  
+| bip_39_word_space_10 | punch lawsuit moment enact nurse kingdom security play neck rack |  
+| bip_39_word_space_11 | punch lawsuit moment enact nurse kingdom security play neck rack zebra |  
+| bip_39_word_space_12 | punch lawsuit moment enact nurse kingdom security play neck rack zebra always |  
+| bip_39_word_space_2 | punch lawsuit |  
+| bip_39_word_space_3 | punch lawsuit moment |  
+| bip_39_word_space_4 | punch lawsuit moment enact |  
+| bip_39_word_space_5 | punch lawsuit moment enact nurse |  
+| bip_39_word_space_6 | punch lawsuit moment enact nurse kingdom |  
+| bip_39_word_space_7 | punch lawsuit moment enact nurse kingdom security |  
+| bip_39_word_space_8 | punch lawsuit moment enact nurse kingdom security play |  
+| bip_39_word_space_9 | punch lawsuit moment enact nurse kingdom security play neck |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

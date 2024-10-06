@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chase
+bip_39_word_new_br10: chase<br>amused<br>clarify<br>ticket<br>duck<br>second<br>image<br>alert<br>cost<br>vacant
+bip_39_word_new_br11: chase<br>amused<br>clarify<br>ticket<br>duck<br>second<br>image<br>alert<br>cost<br>vacant<br>section
+bip_39_word_new_br12: chase<br>amused<br>clarify<br>ticket<br>duck<br>second<br>image<br>alert<br>cost<br>vacant<br>section<br>allow
+bip_39_word_new_br2: chase<br>amused
+bip_39_word_new_br3: chase<br>amused<br>clarify
+bip_39_word_new_br4: chase<br>amused<br>clarify<br>ticket
+bip_39_word_new_br5: chase<br>amused<br>clarify<br>ticket<br>duck
+bip_39_word_new_br6: chase<br>amused<br>clarify<br>ticket<br>duck<br>second
+bip_39_word_new_br7: chase<br>amused<br>clarify<br>ticket<br>duck<br>second<br>image
+bip_39_word_new_br8: chase<br>amused<br>clarify<br>ticket<br>duck<br>second<br>image<br>alert
+bip_39_word_new_br9: chase<br>amused<br>clarify<br>ticket<br>duck<br>second<br>image<br>alert<br>cost
+bip_39_word_new_line1: chase
+bip_39_word_new_line10: 'chase
+
+  amused
+
+  clarify
+
+  ticket
+
+  duck
+
+  second
+
+  image
+
+  alert
+
+  cost
+
+  vacant'
+bip_39_word_new_line11: 'chase
+
+  amused
+
+  clarify
+
+  ticket
+
+  duck
+
+  second
+
+  image
+
+  alert
+
+  cost
+
+  vacant
+
+  section'
+bip_39_word_new_line12: 'chase
+
+  amused
+
+  clarify
+
+  ticket
+
+  duck
+
+  second
+
+  image
+
+  alert
+
+  cost
+
+  vacant
+
+  section
+
+  allow'
+bip_39_word_new_line2: 'chase
+
+  amused'
+bip_39_word_new_line3: 'chase
+
+  amused
+
+  clarify'
+bip_39_word_new_line4: 'chase
+
+  amused
+
+  clarify
+
+  ticket'
+bip_39_word_new_line5: 'chase
+
+  amused
+
+  clarify
+
+  ticket
+
+  duck'
+bip_39_word_new_line6: 'chase
+
+  amused
+
+  clarify
+
+  ticket
+
+  duck
+
+  second'
+bip_39_word_new_line7: 'chase
+
+  amused
+
+  clarify
+
+  ticket
+
+  duck
+
+  second
+
+  image'
+bip_39_word_new_line8: 'chase
+
+  amused
+
+  clarify
+
+  ticket
+
+  duck
+
+  second
+
+  image
+
+  alert'
+bip_39_word_new_line9: 'chase
+
+  amused
+
+  clarify
+
+  ticket
+
+  duck
+
+  second
+
+  image
+
+  alert
+
+  cost'
+bip_39_word_space_0:
+- chase
+- amused
+- clarify
+- ticket
+- duck
+- second
+- image
+- alert
+- cost
+- vacant
+- section
+- allow
+bip_39_word_space_1: chase
+bip_39_word_space_10: chase amused clarify ticket duck second image alert cost vacant
+bip_39_word_space_11: chase amused clarify ticket duck second image alert cost vacant
+  section
+bip_39_word_space_12: chase amused clarify ticket duck second image alert cost vacant
+  section allow
+bip_39_word_space_2: chase amused
+bip_39_word_space_3: chase amused clarify
+bip_39_word_space_4: chase amused clarify ticket
+bip_39_word_space_5: chase amused clarify ticket duck
+bip_39_word_space_6: chase amused clarify ticket duck second
+bip_39_word_space_7: chase amused clarify ticket duck second image
+bip_39_word_space_8: chase amused clarify ticket duck second image alert
+bip_39_word_space_9: chase amused clarify ticket duck second image alert cost
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

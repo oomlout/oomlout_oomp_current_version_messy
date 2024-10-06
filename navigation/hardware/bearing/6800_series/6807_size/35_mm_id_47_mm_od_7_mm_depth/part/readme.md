@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gift page
+  * bip 39 word 3: gift page collect
+  * bip 39 word: gift page collect switch leader calm input mean jeans promote circle auto
 
 ### other_codes
 * short_code: br6807
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gift |  
+| bip_39_word_new_br10 | gift<br>page<br>collect<br>switch<br>leader<br>calm<br>input<br>mean<br>jeans<br>promote |  
+| bip_39_word_new_br11 | gift<br>page<br>collect<br>switch<br>leader<br>calm<br>input<br>mean<br>jeans<br>promote<br>circle |  
+| bip_39_word_new_br12 | gift<br>page<br>collect<br>switch<br>leader<br>calm<br>input<br>mean<br>jeans<br>promote<br>circle<br>auto |  
+| bip_39_word_new_br2 | gift<br>page |  
+| bip_39_word_new_br3 | gift<br>page<br>collect |  
+| bip_39_word_new_br4 | gift<br>page<br>collect<br>switch |  
+| bip_39_word_new_br5 | gift<br>page<br>collect<br>switch<br>leader |  
+| bip_39_word_new_br6 | gift<br>page<br>collect<br>switch<br>leader<br>calm |  
+| bip_39_word_new_br7 | gift<br>page<br>collect<br>switch<br>leader<br>calm<br>input |  
+| bip_39_word_new_br8 | gift<br>page<br>collect<br>switch<br>leader<br>calm<br>input<br>mean |  
+| bip_39_word_new_br9 | gift<br>page<br>collect<br>switch<br>leader<br>calm<br>input<br>mean<br>jeans |  
+| bip_39_word_new_line1 | gift |  
+| bip_39_word_new_line10 | gift
+page
+collect
+switch
+leader
+calm
+input
+mean
+jeans
+promote |  
+| bip_39_word_new_line11 | gift
+page
+collect
+switch
+leader
+calm
+input
+mean
+jeans
+promote
+circle |  
+| bip_39_word_new_line12 | gift
+page
+collect
+switch
+leader
+calm
+input
+mean
+jeans
+promote
+circle
+auto |  
+| bip_39_word_new_line2 | gift
+page |  
+| bip_39_word_new_line3 | gift
+page
+collect |  
+| bip_39_word_new_line4 | gift
+page
+collect
+switch |  
+| bip_39_word_new_line5 | gift
+page
+collect
+switch
+leader |  
+| bip_39_word_new_line6 | gift
+page
+collect
+switch
+leader
+calm |  
+| bip_39_word_new_line7 | gift
+page
+collect
+switch
+leader
+calm
+input |  
+| bip_39_word_new_line8 | gift
+page
+collect
+switch
+leader
+calm
+input
+mean |  
+| bip_39_word_new_line9 | gift
+page
+collect
+switch
+leader
+calm
+input
+mean
+jeans |  
+| bip_39_word_space_0 | ['gift', 'page', 'collect', 'switch', 'leader', 'calm', 'input', 'mean', 'jeans', 'promote', 'circle', 'auto'] |  
+| bip_39_word_space_1 | gift |  
+| bip_39_word_space_10 | gift page collect switch leader calm input mean jeans promote |  
+| bip_39_word_space_11 | gift page collect switch leader calm input mean jeans promote circle |  
+| bip_39_word_space_12 | gift page collect switch leader calm input mean jeans promote circle auto |  
+| bip_39_word_space_2 | gift page |  
+| bip_39_word_space_3 | gift page collect |  
+| bip_39_word_space_4 | gift page collect switch |  
+| bip_39_word_space_5 | gift page collect switch leader |  
+| bip_39_word_space_6 | gift page collect switch leader calm |  
+| bip_39_word_space_7 | gift page collect switch leader calm input |  
+| bip_39_word_space_8 | gift page collect switch leader calm input mean |  
+| bip_39_word_space_9 | gift page collect switch leader calm input mean jeans |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pipe lecture
+  * bip 39 word 3: pipe lecture coin
+  * bip 39 word: pipe lecture coin alarm right pizza floor range crush zebra congress alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pipe |  
+| bip_39_word_new_br10 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra |  
+| bip_39_word_new_br11 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra<br>congress |  
+| bip_39_word_new_br12 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush<br>zebra<br>congress<br>alcohol |  
+| bip_39_word_new_br2 | pipe<br>lecture |  
+| bip_39_word_new_br3 | pipe<br>lecture<br>coin |  
+| bip_39_word_new_br4 | pipe<br>lecture<br>coin<br>alarm |  
+| bip_39_word_new_br5 | pipe<br>lecture<br>coin<br>alarm<br>right |  
+| bip_39_word_new_br6 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza |  
+| bip_39_word_new_br7 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor |  
+| bip_39_word_new_br8 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range |  
+| bip_39_word_new_br9 | pipe<br>lecture<br>coin<br>alarm<br>right<br>pizza<br>floor<br>range<br>crush |  
+| bip_39_word_new_line1 | pipe |  
+| bip_39_word_new_line10 | pipe
+lecture
+coin
+alarm
+right
+pizza
+floor
+range
+crush
+zebra |  
+| bip_39_word_new_line11 | pipe
+lecture
+coin
+alarm
+right
+pizza
+floor
+range
+crush
+zebra
+congress |  
+| bip_39_word_new_line12 | pipe
+lecture
+coin
+alarm
+right
+pizza
+floor
+range
+crush
+zebra
+congress
+alcohol |  
+| bip_39_word_new_line2 | pipe
+lecture |  
+| bip_39_word_new_line3 | pipe
+lecture
+coin |  
+| bip_39_word_new_line4 | pipe
+lecture
+coin
+alarm |  
+| bip_39_word_new_line5 | pipe
+lecture
+coin
+alarm
+right |  
+| bip_39_word_new_line6 | pipe
+lecture
+coin
+alarm
+right
+pizza |  
+| bip_39_word_new_line7 | pipe
+lecture
+coin
+alarm
+right
+pizza
+floor |  
+| bip_39_word_new_line8 | pipe
+lecture
+coin
+alarm
+right
+pizza
+floor
+range |  
+| bip_39_word_new_line9 | pipe
+lecture
+coin
+alarm
+right
+pizza
+floor
+range
+crush |  
+| bip_39_word_space_0 | ['pipe', 'lecture', 'coin', 'alarm', 'right', 'pizza', 'floor', 'range', 'crush', 'zebra', 'congress', 'alcohol'] |  
+| bip_39_word_space_1 | pipe |  
+| bip_39_word_space_10 | pipe lecture coin alarm right pizza floor range crush zebra |  
+| bip_39_word_space_11 | pipe lecture coin alarm right pizza floor range crush zebra congress |  
+| bip_39_word_space_12 | pipe lecture coin alarm right pizza floor range crush zebra congress alcohol |  
+| bip_39_word_space_2 | pipe lecture |  
+| bip_39_word_space_3 | pipe lecture coin |  
+| bip_39_word_space_4 | pipe lecture coin alarm |  
+| bip_39_word_space_5 | pipe lecture coin alarm right |  
+| bip_39_word_space_6 | pipe lecture coin alarm right pizza |  
+| bip_39_word_space_7 | pipe lecture coin alarm right pizza floor |  
+| bip_39_word_space_8 | pipe lecture coin alarm right pizza floor range |  
+| bip_39_word_space_9 | pipe lecture coin alarm right pizza floor range crush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

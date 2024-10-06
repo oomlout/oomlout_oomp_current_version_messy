@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: age stage
+  * bip 39 word 3: age stage occur
+  * bip 39 word: age stage occur stamp obvious audit enemy lounge arrow around intact around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | age |  
+| bip_39_word_new_br10 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around |  
+| bip_39_word_new_br11 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around<br>intact |  
+| bip_39_word_new_br12 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow<br>around<br>intact<br>around |  
+| bip_39_word_new_br2 | age<br>stage |  
+| bip_39_word_new_br3 | age<br>stage<br>occur |  
+| bip_39_word_new_br4 | age<br>stage<br>occur<br>stamp |  
+| bip_39_word_new_br5 | age<br>stage<br>occur<br>stamp<br>obvious |  
+| bip_39_word_new_br6 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit |  
+| bip_39_word_new_br7 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy |  
+| bip_39_word_new_br8 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge |  
+| bip_39_word_new_br9 | age<br>stage<br>occur<br>stamp<br>obvious<br>audit<br>enemy<br>lounge<br>arrow |  
+| bip_39_word_new_line1 | age |  
+| bip_39_word_new_line10 | age
+stage
+occur
+stamp
+obvious
+audit
+enemy
+lounge
+arrow
+around |  
+| bip_39_word_new_line11 | age
+stage
+occur
+stamp
+obvious
+audit
+enemy
+lounge
+arrow
+around
+intact |  
+| bip_39_word_new_line12 | age
+stage
+occur
+stamp
+obvious
+audit
+enemy
+lounge
+arrow
+around
+intact
+around |  
+| bip_39_word_new_line2 | age
+stage |  
+| bip_39_word_new_line3 | age
+stage
+occur |  
+| bip_39_word_new_line4 | age
+stage
+occur
+stamp |  
+| bip_39_word_new_line5 | age
+stage
+occur
+stamp
+obvious |  
+| bip_39_word_new_line6 | age
+stage
+occur
+stamp
+obvious
+audit |  
+| bip_39_word_new_line7 | age
+stage
+occur
+stamp
+obvious
+audit
+enemy |  
+| bip_39_word_new_line8 | age
+stage
+occur
+stamp
+obvious
+audit
+enemy
+lounge |  
+| bip_39_word_new_line9 | age
+stage
+occur
+stamp
+obvious
+audit
+enemy
+lounge
+arrow |  
+| bip_39_word_space_0 | ['age', 'stage', 'occur', 'stamp', 'obvious', 'audit', 'enemy', 'lounge', 'arrow', 'around', 'intact', 'around'] |  
+| bip_39_word_space_1 | age |  
+| bip_39_word_space_10 | age stage occur stamp obvious audit enemy lounge arrow around |  
+| bip_39_word_space_11 | age stage occur stamp obvious audit enemy lounge arrow around intact |  
+| bip_39_word_space_12 | age stage occur stamp obvious audit enemy lounge arrow around intact around |  
+| bip_39_word_space_2 | age stage |  
+| bip_39_word_space_3 | age stage occur |  
+| bip_39_word_space_4 | age stage occur stamp |  
+| bip_39_word_space_5 | age stage occur stamp obvious |  
+| bip_39_word_space_6 | age stage occur stamp obvious audit |  
+| bip_39_word_space_7 | age stage occur stamp obvious audit enemy |  
+| bip_39_word_space_8 | age stage occur stamp obvious audit enemy lounge |  
+| bip_39_word_space_9 | age stage occur stamp obvious audit enemy lounge arrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

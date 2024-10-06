@@ -1,3 +1,187 @@
+bip_39_word_new_br1: age
+bip_39_word_new_br10: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range
+bip_39_word_new_br11: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range<br>note
+bip_39_word_new_br12: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece<br>range<br>note<br>alley
+bip_39_word_new_br2: age<br>toddler
+bip_39_word_new_br3: age<br>toddler<br>pizza
+bip_39_word_new_br4: age<br>toddler<br>pizza<br>vacuum
+bip_39_word_new_br5: age<br>toddler<br>pizza<br>vacuum<br>melt
+bip_39_word_new_br6: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply
+bip_39_word_new_br7: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel
+bip_39_word_new_br8: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual
+bip_39_word_new_br9: age<br>toddler<br>pizza<br>vacuum<br>melt<br>multiply<br>squirrel<br>manual<br>piece
+bip_39_word_new_line1: age
+bip_39_word_new_line10: 'age
+
+  toddler
+
+  pizza
+
+  vacuum
+
+  melt
+
+  multiply
+
+  squirrel
+
+  manual
+
+  piece
+
+  range'
+bip_39_word_new_line11: 'age
+
+  toddler
+
+  pizza
+
+  vacuum
+
+  melt
+
+  multiply
+
+  squirrel
+
+  manual
+
+  piece
+
+  range
+
+  note'
+bip_39_word_new_line12: 'age
+
+  toddler
+
+  pizza
+
+  vacuum
+
+  melt
+
+  multiply
+
+  squirrel
+
+  manual
+
+  piece
+
+  range
+
+  note
+
+  alley'
+bip_39_word_new_line2: 'age
+
+  toddler'
+bip_39_word_new_line3: 'age
+
+  toddler
+
+  pizza'
+bip_39_word_new_line4: 'age
+
+  toddler
+
+  pizza
+
+  vacuum'
+bip_39_word_new_line5: 'age
+
+  toddler
+
+  pizza
+
+  vacuum
+
+  melt'
+bip_39_word_new_line6: 'age
+
+  toddler
+
+  pizza
+
+  vacuum
+
+  melt
+
+  multiply'
+bip_39_word_new_line7: 'age
+
+  toddler
+
+  pizza
+
+  vacuum
+
+  melt
+
+  multiply
+
+  squirrel'
+bip_39_word_new_line8: 'age
+
+  toddler
+
+  pizza
+
+  vacuum
+
+  melt
+
+  multiply
+
+  squirrel
+
+  manual'
+bip_39_word_new_line9: 'age
+
+  toddler
+
+  pizza
+
+  vacuum
+
+  melt
+
+  multiply
+
+  squirrel
+
+  manual
+
+  piece'
+bip_39_word_space_0:
+- age
+- toddler
+- pizza
+- vacuum
+- melt
+- multiply
+- squirrel
+- manual
+- piece
+- range
+- note
+- alley
+bip_39_word_space_1: age
+bip_39_word_space_10: age toddler pizza vacuum melt multiply squirrel manual piece
+  range
+bip_39_word_space_11: age toddler pizza vacuum melt multiply squirrel manual piece
+  range note
+bip_39_word_space_12: age toddler pizza vacuum melt multiply squirrel manual piece
+  range note alley
+bip_39_word_space_2: age toddler
+bip_39_word_space_3: age toddler pizza
+bip_39_word_space_4: age toddler pizza vacuum
+bip_39_word_space_5: age toddler pizza vacuum melt
+bip_39_word_space_6: age toddler pizza vacuum melt multiply
+bip_39_word_space_7: age toddler pizza vacuum melt multiply squirrel
+bip_39_word_space_8: age toddler pizza vacuum melt multiply squirrel manual
+bip_39_word_space_9: age toddler pizza vacuum melt multiply squirrel manual piece
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

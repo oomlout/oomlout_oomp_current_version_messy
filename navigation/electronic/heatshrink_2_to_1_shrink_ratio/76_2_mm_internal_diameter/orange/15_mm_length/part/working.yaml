@@ -1,3 +1,186 @@
+bip_39_word_new_br1: beef
+bip_39_word_new_br10: beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level
+bip_39_word_new_br11: beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level<br>transfer
+bip_39_word_new_br12: beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket<br>level<br>transfer<br>approve
+bip_39_word_new_br2: beef<br>liquid
+bip_39_word_new_br3: beef<br>liquid<br>only
+bip_39_word_new_br4: beef<br>liquid<br>only<br>mushroom
+bip_39_word_new_br5: beef<br>liquid<br>only<br>mushroom<br>worry
+bip_39_word_new_br6: beef<br>liquid<br>only<br>mushroom<br>worry<br>visit
+bip_39_word_new_br7: beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera
+bip_39_word_new_br8: beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn
+bip_39_word_new_br9: beef<br>liquid<br>only<br>mushroom<br>worry<br>visit<br>camera<br>horn<br>jacket
+bip_39_word_new_line1: beef
+bip_39_word_new_line10: 'beef
+
+  liquid
+
+  only
+
+  mushroom
+
+  worry
+
+  visit
+
+  camera
+
+  horn
+
+  jacket
+
+  level'
+bip_39_word_new_line11: 'beef
+
+  liquid
+
+  only
+
+  mushroom
+
+  worry
+
+  visit
+
+  camera
+
+  horn
+
+  jacket
+
+  level
+
+  transfer'
+bip_39_word_new_line12: 'beef
+
+  liquid
+
+  only
+
+  mushroom
+
+  worry
+
+  visit
+
+  camera
+
+  horn
+
+  jacket
+
+  level
+
+  transfer
+
+  approve'
+bip_39_word_new_line2: 'beef
+
+  liquid'
+bip_39_word_new_line3: 'beef
+
+  liquid
+
+  only'
+bip_39_word_new_line4: 'beef
+
+  liquid
+
+  only
+
+  mushroom'
+bip_39_word_new_line5: 'beef
+
+  liquid
+
+  only
+
+  mushroom
+
+  worry'
+bip_39_word_new_line6: 'beef
+
+  liquid
+
+  only
+
+  mushroom
+
+  worry
+
+  visit'
+bip_39_word_new_line7: 'beef
+
+  liquid
+
+  only
+
+  mushroom
+
+  worry
+
+  visit
+
+  camera'
+bip_39_word_new_line8: 'beef
+
+  liquid
+
+  only
+
+  mushroom
+
+  worry
+
+  visit
+
+  camera
+
+  horn'
+bip_39_word_new_line9: 'beef
+
+  liquid
+
+  only
+
+  mushroom
+
+  worry
+
+  visit
+
+  camera
+
+  horn
+
+  jacket'
+bip_39_word_space_0:
+- beef
+- liquid
+- only
+- mushroom
+- worry
+- visit
+- camera
+- horn
+- jacket
+- level
+- transfer
+- approve
+bip_39_word_space_1: beef
+bip_39_word_space_10: beef liquid only mushroom worry visit camera horn jacket level
+bip_39_word_space_11: beef liquid only mushroom worry visit camera horn jacket level
+  transfer
+bip_39_word_space_12: beef liquid only mushroom worry visit camera horn jacket level
+  transfer approve
+bip_39_word_space_2: beef liquid
+bip_39_word_space_3: beef liquid only
+bip_39_word_space_4: beef liquid only mushroom
+bip_39_word_space_5: beef liquid only mushroom worry
+bip_39_word_space_6: beef liquid only mushroom worry visit
+bip_39_word_space_7: beef liquid only mushroom worry visit camera
+bip_39_word_space_8: beef liquid only mushroom worry visit camera horn
+bip_39_word_space_9: beef liquid only mushroom worry visit camera horn jacket
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

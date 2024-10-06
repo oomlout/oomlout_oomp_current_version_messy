@@ -1,3 +1,186 @@
+bip_39_word_new_br1: choose
+bip_39_word_new_br10: choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ
+bip_39_word_new_br11: choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ<br>provide
+bip_39_word_new_br12: choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten<br>employ<br>provide<br>amazing
+bip_39_word_new_br2: choose<br>delay
+bip_39_word_new_br3: choose<br>delay<br>manual
+bip_39_word_new_br4: choose<br>delay<br>manual<br>orphan
+bip_39_word_new_br5: choose<br>delay<br>manual<br>orphan<br>latin
+bip_39_word_new_br6: choose<br>delay<br>manual<br>orphan<br>latin<br>animal
+bip_39_word_new_br7: choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south
+bip_39_word_new_br8: choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom
+bip_39_word_new_br9: choose<br>delay<br>manual<br>orphan<br>latin<br>animal<br>south<br>blossom<br>ten
+bip_39_word_new_line1: choose
+bip_39_word_new_line10: 'choose
+
+  delay
+
+  manual
+
+  orphan
+
+  latin
+
+  animal
+
+  south
+
+  blossom
+
+  ten
+
+  employ'
+bip_39_word_new_line11: 'choose
+
+  delay
+
+  manual
+
+  orphan
+
+  latin
+
+  animal
+
+  south
+
+  blossom
+
+  ten
+
+  employ
+
+  provide'
+bip_39_word_new_line12: 'choose
+
+  delay
+
+  manual
+
+  orphan
+
+  latin
+
+  animal
+
+  south
+
+  blossom
+
+  ten
+
+  employ
+
+  provide
+
+  amazing'
+bip_39_word_new_line2: 'choose
+
+  delay'
+bip_39_word_new_line3: 'choose
+
+  delay
+
+  manual'
+bip_39_word_new_line4: 'choose
+
+  delay
+
+  manual
+
+  orphan'
+bip_39_word_new_line5: 'choose
+
+  delay
+
+  manual
+
+  orphan
+
+  latin'
+bip_39_word_new_line6: 'choose
+
+  delay
+
+  manual
+
+  orphan
+
+  latin
+
+  animal'
+bip_39_word_new_line7: 'choose
+
+  delay
+
+  manual
+
+  orphan
+
+  latin
+
+  animal
+
+  south'
+bip_39_word_new_line8: 'choose
+
+  delay
+
+  manual
+
+  orphan
+
+  latin
+
+  animal
+
+  south
+
+  blossom'
+bip_39_word_new_line9: 'choose
+
+  delay
+
+  manual
+
+  orphan
+
+  latin
+
+  animal
+
+  south
+
+  blossom
+
+  ten'
+bip_39_word_space_0:
+- choose
+- delay
+- manual
+- orphan
+- latin
+- animal
+- south
+- blossom
+- ten
+- employ
+- provide
+- amazing
+bip_39_word_space_1: choose
+bip_39_word_space_10: choose delay manual orphan latin animal south blossom ten employ
+bip_39_word_space_11: choose delay manual orphan latin animal south blossom ten employ
+  provide
+bip_39_word_space_12: choose delay manual orphan latin animal south blossom ten employ
+  provide amazing
+bip_39_word_space_2: choose delay
+bip_39_word_space_3: choose delay manual
+bip_39_word_space_4: choose delay manual orphan
+bip_39_word_space_5: choose delay manual orphan latin
+bip_39_word_space_6: choose delay manual orphan latin animal
+bip_39_word_space_7: choose delay manual orphan latin animal south
+bip_39_word_space_8: choose delay manual orphan latin animal south blossom
+bip_39_word_space_9: choose delay manual orphan latin animal south blossom ten
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

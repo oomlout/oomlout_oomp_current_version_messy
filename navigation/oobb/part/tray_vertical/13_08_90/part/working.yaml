@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ecology
+bip_39_word_new_br10: ecology<br>tackle<br>regular<br>faint<br>join<br>spin<br>health<br>lottery<br>saddle<br>stool
+bip_39_word_new_br11: ecology<br>tackle<br>regular<br>faint<br>join<br>spin<br>health<br>lottery<br>saddle<br>stool<br>link
+bip_39_word_new_br12: ecology<br>tackle<br>regular<br>faint<br>join<br>spin<br>health<br>lottery<br>saddle<br>stool<br>link<br>address
+bip_39_word_new_br2: ecology<br>tackle
+bip_39_word_new_br3: ecology<br>tackle<br>regular
+bip_39_word_new_br4: ecology<br>tackle<br>regular<br>faint
+bip_39_word_new_br5: ecology<br>tackle<br>regular<br>faint<br>join
+bip_39_word_new_br6: ecology<br>tackle<br>regular<br>faint<br>join<br>spin
+bip_39_word_new_br7: ecology<br>tackle<br>regular<br>faint<br>join<br>spin<br>health
+bip_39_word_new_br8: ecology<br>tackle<br>regular<br>faint<br>join<br>spin<br>health<br>lottery
+bip_39_word_new_br9: ecology<br>tackle<br>regular<br>faint<br>join<br>spin<br>health<br>lottery<br>saddle
+bip_39_word_new_line1: ecology
+bip_39_word_new_line10: 'ecology
+
+  tackle
+
+  regular
+
+  faint
+
+  join
+
+  spin
+
+  health
+
+  lottery
+
+  saddle
+
+  stool'
+bip_39_word_new_line11: 'ecology
+
+  tackle
+
+  regular
+
+  faint
+
+  join
+
+  spin
+
+  health
+
+  lottery
+
+  saddle
+
+  stool
+
+  link'
+bip_39_word_new_line12: 'ecology
+
+  tackle
+
+  regular
+
+  faint
+
+  join
+
+  spin
+
+  health
+
+  lottery
+
+  saddle
+
+  stool
+
+  link
+
+  address'
+bip_39_word_new_line2: 'ecology
+
+  tackle'
+bip_39_word_new_line3: 'ecology
+
+  tackle
+
+  regular'
+bip_39_word_new_line4: 'ecology
+
+  tackle
+
+  regular
+
+  faint'
+bip_39_word_new_line5: 'ecology
+
+  tackle
+
+  regular
+
+  faint
+
+  join'
+bip_39_word_new_line6: 'ecology
+
+  tackle
+
+  regular
+
+  faint
+
+  join
+
+  spin'
+bip_39_word_new_line7: 'ecology
+
+  tackle
+
+  regular
+
+  faint
+
+  join
+
+  spin
+
+  health'
+bip_39_word_new_line8: 'ecology
+
+  tackle
+
+  regular
+
+  faint
+
+  join
+
+  spin
+
+  health
+
+  lottery'
+bip_39_word_new_line9: 'ecology
+
+  tackle
+
+  regular
+
+  faint
+
+  join
+
+  spin
+
+  health
+
+  lottery
+
+  saddle'
+bip_39_word_space_0:
+- ecology
+- tackle
+- regular
+- faint
+- join
+- spin
+- health
+- lottery
+- saddle
+- stool
+- link
+- address
+bip_39_word_space_1: ecology
+bip_39_word_space_10: ecology tackle regular faint join spin health lottery saddle
+  stool
+bip_39_word_space_11: ecology tackle regular faint join spin health lottery saddle
+  stool link
+bip_39_word_space_12: ecology tackle regular faint join spin health lottery saddle
+  stool link address
+bip_39_word_space_2: ecology tackle
+bip_39_word_space_3: ecology tackle regular
+bip_39_word_space_4: ecology tackle regular faint
+bip_39_word_space_5: ecology tackle regular faint join
+bip_39_word_space_6: ecology tackle regular faint join spin
+bip_39_word_space_7: ecology tackle regular faint join spin health
+bip_39_word_space_8: ecology tackle regular faint join spin health lottery
+bip_39_word_space_9: ecology tackle regular faint join spin health lottery saddle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

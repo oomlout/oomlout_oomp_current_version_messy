@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ask gun
+  * bip 39 word 3: ask gun foam
+  * bip 39 word: ask gun foam spice text stadium pizza expire twelve pen devote area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ask |  
+| bip_39_word_new_br10 | ask<br>gun<br>foam<br>spice<br>text<br>stadium<br>pizza<br>expire<br>twelve<br>pen |  
+| bip_39_word_new_br11 | ask<br>gun<br>foam<br>spice<br>text<br>stadium<br>pizza<br>expire<br>twelve<br>pen<br>devote |  
+| bip_39_word_new_br12 | ask<br>gun<br>foam<br>spice<br>text<br>stadium<br>pizza<br>expire<br>twelve<br>pen<br>devote<br>area |  
+| bip_39_word_new_br2 | ask<br>gun |  
+| bip_39_word_new_br3 | ask<br>gun<br>foam |  
+| bip_39_word_new_br4 | ask<br>gun<br>foam<br>spice |  
+| bip_39_word_new_br5 | ask<br>gun<br>foam<br>spice<br>text |  
+| bip_39_word_new_br6 | ask<br>gun<br>foam<br>spice<br>text<br>stadium |  
+| bip_39_word_new_br7 | ask<br>gun<br>foam<br>spice<br>text<br>stadium<br>pizza |  
+| bip_39_word_new_br8 | ask<br>gun<br>foam<br>spice<br>text<br>stadium<br>pizza<br>expire |  
+| bip_39_word_new_br9 | ask<br>gun<br>foam<br>spice<br>text<br>stadium<br>pizza<br>expire<br>twelve |  
+| bip_39_word_new_line1 | ask |  
+| bip_39_word_new_line10 | ask
+gun
+foam
+spice
+text
+stadium
+pizza
+expire
+twelve
+pen |  
+| bip_39_word_new_line11 | ask
+gun
+foam
+spice
+text
+stadium
+pizza
+expire
+twelve
+pen
+devote |  
+| bip_39_word_new_line12 | ask
+gun
+foam
+spice
+text
+stadium
+pizza
+expire
+twelve
+pen
+devote
+area |  
+| bip_39_word_new_line2 | ask
+gun |  
+| bip_39_word_new_line3 | ask
+gun
+foam |  
+| bip_39_word_new_line4 | ask
+gun
+foam
+spice |  
+| bip_39_word_new_line5 | ask
+gun
+foam
+spice
+text |  
+| bip_39_word_new_line6 | ask
+gun
+foam
+spice
+text
+stadium |  
+| bip_39_word_new_line7 | ask
+gun
+foam
+spice
+text
+stadium
+pizza |  
+| bip_39_word_new_line8 | ask
+gun
+foam
+spice
+text
+stadium
+pizza
+expire |  
+| bip_39_word_new_line9 | ask
+gun
+foam
+spice
+text
+stadium
+pizza
+expire
+twelve |  
+| bip_39_word_space_0 | ['ask', 'gun', 'foam', 'spice', 'text', 'stadium', 'pizza', 'expire', 'twelve', 'pen', 'devote', 'area'] |  
+| bip_39_word_space_1 | ask |  
+| bip_39_word_space_10 | ask gun foam spice text stadium pizza expire twelve pen |  
+| bip_39_word_space_11 | ask gun foam spice text stadium pizza expire twelve pen devote |  
+| bip_39_word_space_12 | ask gun foam spice text stadium pizza expire twelve pen devote area |  
+| bip_39_word_space_2 | ask gun |  
+| bip_39_word_space_3 | ask gun foam |  
+| bip_39_word_space_4 | ask gun foam spice |  
+| bip_39_word_space_5 | ask gun foam spice text |  
+| bip_39_word_space_6 | ask gun foam spice text stadium |  
+| bip_39_word_space_7 | ask gun foam spice text stadium pizza |  
+| bip_39_word_space_8 | ask gun foam spice text stadium pizza expire |  
+| bip_39_word_space_9 | ask gun foam spice text stadium pizza expire twelve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

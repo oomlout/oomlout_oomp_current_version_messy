@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mango hub
+  * bip 39 word 3: mango hub rival
+  * bip 39 word: mango hub rival three shoe good grow virtual leisure ocean fork angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mango |  
+| bip_39_word_new_br10 | mango<br>hub<br>rival<br>three<br>shoe<br>good<br>grow<br>virtual<br>leisure<br>ocean |  
+| bip_39_word_new_br11 | mango<br>hub<br>rival<br>three<br>shoe<br>good<br>grow<br>virtual<br>leisure<br>ocean<br>fork |  
+| bip_39_word_new_br12 | mango<br>hub<br>rival<br>three<br>shoe<br>good<br>grow<br>virtual<br>leisure<br>ocean<br>fork<br>angle |  
+| bip_39_word_new_br2 | mango<br>hub |  
+| bip_39_word_new_br3 | mango<br>hub<br>rival |  
+| bip_39_word_new_br4 | mango<br>hub<br>rival<br>three |  
+| bip_39_word_new_br5 | mango<br>hub<br>rival<br>three<br>shoe |  
+| bip_39_word_new_br6 | mango<br>hub<br>rival<br>three<br>shoe<br>good |  
+| bip_39_word_new_br7 | mango<br>hub<br>rival<br>three<br>shoe<br>good<br>grow |  
+| bip_39_word_new_br8 | mango<br>hub<br>rival<br>three<br>shoe<br>good<br>grow<br>virtual |  
+| bip_39_word_new_br9 | mango<br>hub<br>rival<br>three<br>shoe<br>good<br>grow<br>virtual<br>leisure |  
+| bip_39_word_new_line1 | mango |  
+| bip_39_word_new_line10 | mango
+hub
+rival
+three
+shoe
+good
+grow
+virtual
+leisure
+ocean |  
+| bip_39_word_new_line11 | mango
+hub
+rival
+three
+shoe
+good
+grow
+virtual
+leisure
+ocean
+fork |  
+| bip_39_word_new_line12 | mango
+hub
+rival
+three
+shoe
+good
+grow
+virtual
+leisure
+ocean
+fork
+angle |  
+| bip_39_word_new_line2 | mango
+hub |  
+| bip_39_word_new_line3 | mango
+hub
+rival |  
+| bip_39_word_new_line4 | mango
+hub
+rival
+three |  
+| bip_39_word_new_line5 | mango
+hub
+rival
+three
+shoe |  
+| bip_39_word_new_line6 | mango
+hub
+rival
+three
+shoe
+good |  
+| bip_39_word_new_line7 | mango
+hub
+rival
+three
+shoe
+good
+grow |  
+| bip_39_word_new_line8 | mango
+hub
+rival
+three
+shoe
+good
+grow
+virtual |  
+| bip_39_word_new_line9 | mango
+hub
+rival
+three
+shoe
+good
+grow
+virtual
+leisure |  
+| bip_39_word_space_0 | ['mango', 'hub', 'rival', 'three', 'shoe', 'good', 'grow', 'virtual', 'leisure', 'ocean', 'fork', 'angle'] |  
+| bip_39_word_space_1 | mango |  
+| bip_39_word_space_10 | mango hub rival three shoe good grow virtual leisure ocean |  
+| bip_39_word_space_11 | mango hub rival three shoe good grow virtual leisure ocean fork |  
+| bip_39_word_space_12 | mango hub rival three shoe good grow virtual leisure ocean fork angle |  
+| bip_39_word_space_2 | mango hub |  
+| bip_39_word_space_3 | mango hub rival |  
+| bip_39_word_space_4 | mango hub rival three |  
+| bip_39_word_space_5 | mango hub rival three shoe |  
+| bip_39_word_space_6 | mango hub rival three shoe good |  
+| bip_39_word_space_7 | mango hub rival three shoe good grow |  
+| bip_39_word_space_8 | mango hub rival three shoe good grow virtual |  
+| bip_39_word_space_9 | mango hub rival three shoe good grow virtual leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

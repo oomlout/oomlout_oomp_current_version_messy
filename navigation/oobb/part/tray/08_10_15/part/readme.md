@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: orchard faint
+  * bip 39 word 3: orchard faint carry
+  * bip 39 word: orchard faint carry shuffle vendor soap aerobic system imitate head speak actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | orchard |  
+| bip_39_word_new_br10 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap<br>aerobic<br>system<br>imitate<br>head |  
+| bip_39_word_new_br11 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap<br>aerobic<br>system<br>imitate<br>head<br>speak |  
+| bip_39_word_new_br12 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap<br>aerobic<br>system<br>imitate<br>head<br>speak<br>actress |  
+| bip_39_word_new_br2 | orchard<br>faint |  
+| bip_39_word_new_br3 | orchard<br>faint<br>carry |  
+| bip_39_word_new_br4 | orchard<br>faint<br>carry<br>shuffle |  
+| bip_39_word_new_br5 | orchard<br>faint<br>carry<br>shuffle<br>vendor |  
+| bip_39_word_new_br6 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap |  
+| bip_39_word_new_br7 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap<br>aerobic |  
+| bip_39_word_new_br8 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap<br>aerobic<br>system |  
+| bip_39_word_new_br9 | orchard<br>faint<br>carry<br>shuffle<br>vendor<br>soap<br>aerobic<br>system<br>imitate |  
+| bip_39_word_new_line1 | orchard |  
+| bip_39_word_new_line10 | orchard
+faint
+carry
+shuffle
+vendor
+soap
+aerobic
+system
+imitate
+head |  
+| bip_39_word_new_line11 | orchard
+faint
+carry
+shuffle
+vendor
+soap
+aerobic
+system
+imitate
+head
+speak |  
+| bip_39_word_new_line12 | orchard
+faint
+carry
+shuffle
+vendor
+soap
+aerobic
+system
+imitate
+head
+speak
+actress |  
+| bip_39_word_new_line2 | orchard
+faint |  
+| bip_39_word_new_line3 | orchard
+faint
+carry |  
+| bip_39_word_new_line4 | orchard
+faint
+carry
+shuffle |  
+| bip_39_word_new_line5 | orchard
+faint
+carry
+shuffle
+vendor |  
+| bip_39_word_new_line6 | orchard
+faint
+carry
+shuffle
+vendor
+soap |  
+| bip_39_word_new_line7 | orchard
+faint
+carry
+shuffle
+vendor
+soap
+aerobic |  
+| bip_39_word_new_line8 | orchard
+faint
+carry
+shuffle
+vendor
+soap
+aerobic
+system |  
+| bip_39_word_new_line9 | orchard
+faint
+carry
+shuffle
+vendor
+soap
+aerobic
+system
+imitate |  
+| bip_39_word_space_0 | ['orchard', 'faint', 'carry', 'shuffle', 'vendor', 'soap', 'aerobic', 'system', 'imitate', 'head', 'speak', 'actress'] |  
+| bip_39_word_space_1 | orchard |  
+| bip_39_word_space_10 | orchard faint carry shuffle vendor soap aerobic system imitate head |  
+| bip_39_word_space_11 | orchard faint carry shuffle vendor soap aerobic system imitate head speak |  
+| bip_39_word_space_12 | orchard faint carry shuffle vendor soap aerobic system imitate head speak actress |  
+| bip_39_word_space_2 | orchard faint |  
+| bip_39_word_space_3 | orchard faint carry |  
+| bip_39_word_space_4 | orchard faint carry shuffle |  
+| bip_39_word_space_5 | orchard faint carry shuffle vendor |  
+| bip_39_word_space_6 | orchard faint carry shuffle vendor soap |  
+| bip_39_word_space_7 | orchard faint carry shuffle vendor soap aerobic |  
+| bip_39_word_space_8 | orchard faint carry shuffle vendor soap aerobic system |  
+| bip_39_word_space_9 | orchard faint carry shuffle vendor soap aerobic system imitate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

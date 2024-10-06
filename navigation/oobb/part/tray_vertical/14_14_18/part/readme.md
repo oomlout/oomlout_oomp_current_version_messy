@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slot duty
+  * bip 39 word 3: slot duty choice
+  * bip 39 word: slot duty choice faculty cost dress seven major ozone rally draft august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slot |  
+| bip_39_word_new_br10 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress<br>seven<br>major<br>ozone<br>rally |  
+| bip_39_word_new_br11 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress<br>seven<br>major<br>ozone<br>rally<br>draft |  
+| bip_39_word_new_br12 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress<br>seven<br>major<br>ozone<br>rally<br>draft<br>august |  
+| bip_39_word_new_br2 | slot<br>duty |  
+| bip_39_word_new_br3 | slot<br>duty<br>choice |  
+| bip_39_word_new_br4 | slot<br>duty<br>choice<br>faculty |  
+| bip_39_word_new_br5 | slot<br>duty<br>choice<br>faculty<br>cost |  
+| bip_39_word_new_br6 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress |  
+| bip_39_word_new_br7 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress<br>seven |  
+| bip_39_word_new_br8 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress<br>seven<br>major |  
+| bip_39_word_new_br9 | slot<br>duty<br>choice<br>faculty<br>cost<br>dress<br>seven<br>major<br>ozone |  
+| bip_39_word_new_line1 | slot |  
+| bip_39_word_new_line10 | slot
+duty
+choice
+faculty
+cost
+dress
+seven
+major
+ozone
+rally |  
+| bip_39_word_new_line11 | slot
+duty
+choice
+faculty
+cost
+dress
+seven
+major
+ozone
+rally
+draft |  
+| bip_39_word_new_line12 | slot
+duty
+choice
+faculty
+cost
+dress
+seven
+major
+ozone
+rally
+draft
+august |  
+| bip_39_word_new_line2 | slot
+duty |  
+| bip_39_word_new_line3 | slot
+duty
+choice |  
+| bip_39_word_new_line4 | slot
+duty
+choice
+faculty |  
+| bip_39_word_new_line5 | slot
+duty
+choice
+faculty
+cost |  
+| bip_39_word_new_line6 | slot
+duty
+choice
+faculty
+cost
+dress |  
+| bip_39_word_new_line7 | slot
+duty
+choice
+faculty
+cost
+dress
+seven |  
+| bip_39_word_new_line8 | slot
+duty
+choice
+faculty
+cost
+dress
+seven
+major |  
+| bip_39_word_new_line9 | slot
+duty
+choice
+faculty
+cost
+dress
+seven
+major
+ozone |  
+| bip_39_word_space_0 | ['slot', 'duty', 'choice', 'faculty', 'cost', 'dress', 'seven', 'major', 'ozone', 'rally', 'draft', 'august'] |  
+| bip_39_word_space_1 | slot |  
+| bip_39_word_space_10 | slot duty choice faculty cost dress seven major ozone rally |  
+| bip_39_word_space_11 | slot duty choice faculty cost dress seven major ozone rally draft |  
+| bip_39_word_space_12 | slot duty choice faculty cost dress seven major ozone rally draft august |  
+| bip_39_word_space_2 | slot duty |  
+| bip_39_word_space_3 | slot duty choice |  
+| bip_39_word_space_4 | slot duty choice faculty |  
+| bip_39_word_space_5 | slot duty choice faculty cost |  
+| bip_39_word_space_6 | slot duty choice faculty cost dress |  
+| bip_39_word_space_7 | slot duty choice faculty cost dress seven |  
+| bip_39_word_space_8 | slot duty choice faculty cost dress seven major |  
+| bip_39_word_space_9 | slot duty choice faculty cost dress seven major ozone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

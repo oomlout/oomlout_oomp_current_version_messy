@@ -1,3 +1,187 @@
+bip_39_word_new_br1: nothing
+bip_39_word_new_br10: nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief<br>miracle<br>source<br>oppose<br>era
+bip_39_word_new_br11: nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief<br>miracle<br>source<br>oppose<br>era<br>end
+bip_39_word_new_br12: nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief<br>miracle<br>source<br>oppose<br>era<br>end<br>amount
+bip_39_word_new_br2: nothing<br>traffic
+bip_39_word_new_br3: nothing<br>traffic<br>hollow
+bip_39_word_new_br4: nothing<br>traffic<br>hollow<br>spell
+bip_39_word_new_br5: nothing<br>traffic<br>hollow<br>spell<br>cry
+bip_39_word_new_br6: nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief
+bip_39_word_new_br7: nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief<br>miracle
+bip_39_word_new_br8: nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief<br>miracle<br>source
+bip_39_word_new_br9: nothing<br>traffic<br>hollow<br>spell<br>cry<br>grief<br>miracle<br>source<br>oppose
+bip_39_word_new_line1: nothing
+bip_39_word_new_line10: 'nothing
+
+  traffic
+
+  hollow
+
+  spell
+
+  cry
+
+  grief
+
+  miracle
+
+  source
+
+  oppose
+
+  era'
+bip_39_word_new_line11: 'nothing
+
+  traffic
+
+  hollow
+
+  spell
+
+  cry
+
+  grief
+
+  miracle
+
+  source
+
+  oppose
+
+  era
+
+  end'
+bip_39_word_new_line12: 'nothing
+
+  traffic
+
+  hollow
+
+  spell
+
+  cry
+
+  grief
+
+  miracle
+
+  source
+
+  oppose
+
+  era
+
+  end
+
+  amount'
+bip_39_word_new_line2: 'nothing
+
+  traffic'
+bip_39_word_new_line3: 'nothing
+
+  traffic
+
+  hollow'
+bip_39_word_new_line4: 'nothing
+
+  traffic
+
+  hollow
+
+  spell'
+bip_39_word_new_line5: 'nothing
+
+  traffic
+
+  hollow
+
+  spell
+
+  cry'
+bip_39_word_new_line6: 'nothing
+
+  traffic
+
+  hollow
+
+  spell
+
+  cry
+
+  grief'
+bip_39_word_new_line7: 'nothing
+
+  traffic
+
+  hollow
+
+  spell
+
+  cry
+
+  grief
+
+  miracle'
+bip_39_word_new_line8: 'nothing
+
+  traffic
+
+  hollow
+
+  spell
+
+  cry
+
+  grief
+
+  miracle
+
+  source'
+bip_39_word_new_line9: 'nothing
+
+  traffic
+
+  hollow
+
+  spell
+
+  cry
+
+  grief
+
+  miracle
+
+  source
+
+  oppose'
+bip_39_word_space_0:
+- nothing
+- traffic
+- hollow
+- spell
+- cry
+- grief
+- miracle
+- source
+- oppose
+- era
+- end
+- amount
+bip_39_word_space_1: nothing
+bip_39_word_space_10: nothing traffic hollow spell cry grief miracle source oppose
+  era
+bip_39_word_space_11: nothing traffic hollow spell cry grief miracle source oppose
+  era end
+bip_39_word_space_12: nothing traffic hollow spell cry grief miracle source oppose
+  era end amount
+bip_39_word_space_2: nothing traffic
+bip_39_word_space_3: nothing traffic hollow
+bip_39_word_space_4: nothing traffic hollow spell
+bip_39_word_space_5: nothing traffic hollow spell cry
+bip_39_word_space_6: nothing traffic hollow spell cry grief
+bip_39_word_space_7: nothing traffic hollow spell cry grief miracle
+bip_39_word_space_8: nothing traffic hollow spell cry grief miracle source
+bip_39_word_space_9: nothing traffic hollow spell cry grief miracle source oppose
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

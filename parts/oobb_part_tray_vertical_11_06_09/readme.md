@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: basket husband
+  * bip 39 word 3: basket husband describe
+  * bip 39 word: basket husband describe tornado fame bounce warfare cricket trigger off art absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | basket |  
+| bip_39_word_new_br10 | basket<br>husband<br>describe<br>tornado<br>fame<br>bounce<br>warfare<br>cricket<br>trigger<br>off |  
+| bip_39_word_new_br11 | basket<br>husband<br>describe<br>tornado<br>fame<br>bounce<br>warfare<br>cricket<br>trigger<br>off<br>art |  
+| bip_39_word_new_br12 | basket<br>husband<br>describe<br>tornado<br>fame<br>bounce<br>warfare<br>cricket<br>trigger<br>off<br>art<br>absurd |  
+| bip_39_word_new_br2 | basket<br>husband |  
+| bip_39_word_new_br3 | basket<br>husband<br>describe |  
+| bip_39_word_new_br4 | basket<br>husband<br>describe<br>tornado |  
+| bip_39_word_new_br5 | basket<br>husband<br>describe<br>tornado<br>fame |  
+| bip_39_word_new_br6 | basket<br>husband<br>describe<br>tornado<br>fame<br>bounce |  
+| bip_39_word_new_br7 | basket<br>husband<br>describe<br>tornado<br>fame<br>bounce<br>warfare |  
+| bip_39_word_new_br8 | basket<br>husband<br>describe<br>tornado<br>fame<br>bounce<br>warfare<br>cricket |  
+| bip_39_word_new_br9 | basket<br>husband<br>describe<br>tornado<br>fame<br>bounce<br>warfare<br>cricket<br>trigger |  
+| bip_39_word_new_line1 | basket |  
+| bip_39_word_new_line10 | basket
+husband
+describe
+tornado
+fame
+bounce
+warfare
+cricket
+trigger
+off |  
+| bip_39_word_new_line11 | basket
+husband
+describe
+tornado
+fame
+bounce
+warfare
+cricket
+trigger
+off
+art |  
+| bip_39_word_new_line12 | basket
+husband
+describe
+tornado
+fame
+bounce
+warfare
+cricket
+trigger
+off
+art
+absurd |  
+| bip_39_word_new_line2 | basket
+husband |  
+| bip_39_word_new_line3 | basket
+husband
+describe |  
+| bip_39_word_new_line4 | basket
+husband
+describe
+tornado |  
+| bip_39_word_new_line5 | basket
+husband
+describe
+tornado
+fame |  
+| bip_39_word_new_line6 | basket
+husband
+describe
+tornado
+fame
+bounce |  
+| bip_39_word_new_line7 | basket
+husband
+describe
+tornado
+fame
+bounce
+warfare |  
+| bip_39_word_new_line8 | basket
+husband
+describe
+tornado
+fame
+bounce
+warfare
+cricket |  
+| bip_39_word_new_line9 | basket
+husband
+describe
+tornado
+fame
+bounce
+warfare
+cricket
+trigger |  
+| bip_39_word_space_0 | ['basket', 'husband', 'describe', 'tornado', 'fame', 'bounce', 'warfare', 'cricket', 'trigger', 'off', 'art', 'absurd'] |  
+| bip_39_word_space_1 | basket |  
+| bip_39_word_space_10 | basket husband describe tornado fame bounce warfare cricket trigger off |  
+| bip_39_word_space_11 | basket husband describe tornado fame bounce warfare cricket trigger off art |  
+| bip_39_word_space_12 | basket husband describe tornado fame bounce warfare cricket trigger off art absurd |  
+| bip_39_word_space_2 | basket husband |  
+| bip_39_word_space_3 | basket husband describe |  
+| bip_39_word_space_4 | basket husband describe tornado |  
+| bip_39_word_space_5 | basket husband describe tornado fame |  
+| bip_39_word_space_6 | basket husband describe tornado fame bounce |  
+| bip_39_word_space_7 | basket husband describe tornado fame bounce warfare |  
+| bip_39_word_space_8 | basket husband describe tornado fame bounce warfare cricket |  
+| bip_39_word_space_9 | basket husband describe tornado fame bounce warfare cricket trigger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

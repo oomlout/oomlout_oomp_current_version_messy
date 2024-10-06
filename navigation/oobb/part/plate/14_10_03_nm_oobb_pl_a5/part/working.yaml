@@ -1,3 +1,186 @@
+bip_39_word_new_br1: photo
+bip_39_word_new_br10: photo<br>typical<br>collect<br>coil<br>bulb<br>toast<br>shadow<br>blur<br>boost<br>produce
+bip_39_word_new_br11: photo<br>typical<br>collect<br>coil<br>bulb<br>toast<br>shadow<br>blur<br>boost<br>produce<br>cherry
+bip_39_word_new_br12: photo<br>typical<br>collect<br>coil<br>bulb<br>toast<br>shadow<br>blur<br>boost<br>produce<br>cherry<br>athlete
+bip_39_word_new_br2: photo<br>typical
+bip_39_word_new_br3: photo<br>typical<br>collect
+bip_39_word_new_br4: photo<br>typical<br>collect<br>coil
+bip_39_word_new_br5: photo<br>typical<br>collect<br>coil<br>bulb
+bip_39_word_new_br6: photo<br>typical<br>collect<br>coil<br>bulb<br>toast
+bip_39_word_new_br7: photo<br>typical<br>collect<br>coil<br>bulb<br>toast<br>shadow
+bip_39_word_new_br8: photo<br>typical<br>collect<br>coil<br>bulb<br>toast<br>shadow<br>blur
+bip_39_word_new_br9: photo<br>typical<br>collect<br>coil<br>bulb<br>toast<br>shadow<br>blur<br>boost
+bip_39_word_new_line1: photo
+bip_39_word_new_line10: 'photo
+
+  typical
+
+  collect
+
+  coil
+
+  bulb
+
+  toast
+
+  shadow
+
+  blur
+
+  boost
+
+  produce'
+bip_39_word_new_line11: 'photo
+
+  typical
+
+  collect
+
+  coil
+
+  bulb
+
+  toast
+
+  shadow
+
+  blur
+
+  boost
+
+  produce
+
+  cherry'
+bip_39_word_new_line12: 'photo
+
+  typical
+
+  collect
+
+  coil
+
+  bulb
+
+  toast
+
+  shadow
+
+  blur
+
+  boost
+
+  produce
+
+  cherry
+
+  athlete'
+bip_39_word_new_line2: 'photo
+
+  typical'
+bip_39_word_new_line3: 'photo
+
+  typical
+
+  collect'
+bip_39_word_new_line4: 'photo
+
+  typical
+
+  collect
+
+  coil'
+bip_39_word_new_line5: 'photo
+
+  typical
+
+  collect
+
+  coil
+
+  bulb'
+bip_39_word_new_line6: 'photo
+
+  typical
+
+  collect
+
+  coil
+
+  bulb
+
+  toast'
+bip_39_word_new_line7: 'photo
+
+  typical
+
+  collect
+
+  coil
+
+  bulb
+
+  toast
+
+  shadow'
+bip_39_word_new_line8: 'photo
+
+  typical
+
+  collect
+
+  coil
+
+  bulb
+
+  toast
+
+  shadow
+
+  blur'
+bip_39_word_new_line9: 'photo
+
+  typical
+
+  collect
+
+  coil
+
+  bulb
+
+  toast
+
+  shadow
+
+  blur
+
+  boost'
+bip_39_word_space_0:
+- photo
+- typical
+- collect
+- coil
+- bulb
+- toast
+- shadow
+- blur
+- boost
+- produce
+- cherry
+- athlete
+bip_39_word_space_1: photo
+bip_39_word_space_10: photo typical collect coil bulb toast shadow blur boost produce
+bip_39_word_space_11: photo typical collect coil bulb toast shadow blur boost produce
+  cherry
+bip_39_word_space_12: photo typical collect coil bulb toast shadow blur boost produce
+  cherry athlete
+bip_39_word_space_2: photo typical
+bip_39_word_space_3: photo typical collect
+bip_39_word_space_4: photo typical collect coil
+bip_39_word_space_5: photo typical collect coil bulb
+bip_39_word_space_6: photo typical collect coil bulb toast
+bip_39_word_space_7: photo typical collect coil bulb toast shadow
+bip_39_word_space_8: photo typical collect coil bulb toast shadow blur
+bip_39_word_space_9: photo typical collect coil bulb toast shadow blur boost
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

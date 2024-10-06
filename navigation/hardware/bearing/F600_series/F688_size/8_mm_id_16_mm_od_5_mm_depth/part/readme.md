@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: select sorry
+  * bip 39 word 3: select sorry stadium
+  * bip 39 word: select sorry stadium seat seed brass diesel piece screen cluster smart among
 
 ### other_codes
 * short_code: brF688
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | select |  
+| bip_39_word_new_br10 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster |  
+| bip_39_word_new_br11 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart |  
+| bip_39_word_new_br12 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart<br>among |  
+| bip_39_word_new_br2 | select<br>sorry |  
+| bip_39_word_new_br3 | select<br>sorry<br>stadium |  
+| bip_39_word_new_br4 | select<br>sorry<br>stadium<br>seat |  
+| bip_39_word_new_br5 | select<br>sorry<br>stadium<br>seat<br>seed |  
+| bip_39_word_new_br6 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass |  
+| bip_39_word_new_br7 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel |  
+| bip_39_word_new_br8 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece |  
+| bip_39_word_new_br9 | select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen |  
+| bip_39_word_new_line1 | select |  
+| bip_39_word_new_line10 | select
+sorry
+stadium
+seat
+seed
+brass
+diesel
+piece
+screen
+cluster |  
+| bip_39_word_new_line11 | select
+sorry
+stadium
+seat
+seed
+brass
+diesel
+piece
+screen
+cluster
+smart |  
+| bip_39_word_new_line12 | select
+sorry
+stadium
+seat
+seed
+brass
+diesel
+piece
+screen
+cluster
+smart
+among |  
+| bip_39_word_new_line2 | select
+sorry |  
+| bip_39_word_new_line3 | select
+sorry
+stadium |  
+| bip_39_word_new_line4 | select
+sorry
+stadium
+seat |  
+| bip_39_word_new_line5 | select
+sorry
+stadium
+seat
+seed |  
+| bip_39_word_new_line6 | select
+sorry
+stadium
+seat
+seed
+brass |  
+| bip_39_word_new_line7 | select
+sorry
+stadium
+seat
+seed
+brass
+diesel |  
+| bip_39_word_new_line8 | select
+sorry
+stadium
+seat
+seed
+brass
+diesel
+piece |  
+| bip_39_word_new_line9 | select
+sorry
+stadium
+seat
+seed
+brass
+diesel
+piece
+screen |  
+| bip_39_word_space_0 | ['select', 'sorry', 'stadium', 'seat', 'seed', 'brass', 'diesel', 'piece', 'screen', 'cluster', 'smart', 'among'] |  
+| bip_39_word_space_1 | select |  
+| bip_39_word_space_10 | select sorry stadium seat seed brass diesel piece screen cluster |  
+| bip_39_word_space_11 | select sorry stadium seat seed brass diesel piece screen cluster smart |  
+| bip_39_word_space_12 | select sorry stadium seat seed brass diesel piece screen cluster smart among |  
+| bip_39_word_space_2 | select sorry |  
+| bip_39_word_space_3 | select sorry stadium |  
+| bip_39_word_space_4 | select sorry stadium seat |  
+| bip_39_word_space_5 | select sorry stadium seat seed |  
+| bip_39_word_space_6 | select sorry stadium seat seed brass |  
+| bip_39_word_space_7 | select sorry stadium seat seed brass diesel |  
+| bip_39_word_space_8 | select sorry stadium seat seed brass diesel piece |  
+| bip_39_word_space_9 | select sorry stadium seat seed brass diesel piece screen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: federal arrange
+  * bip 39 word 3: federal arrange blast
+  * bip 39 word: federal arrange blast door someone few round cabbage curve trumpet area appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | federal |  
+| bip_39_word_new_br10 | federal<br>arrange<br>blast<br>door<br>someone<br>few<br>round<br>cabbage<br>curve<br>trumpet |  
+| bip_39_word_new_br11 | federal<br>arrange<br>blast<br>door<br>someone<br>few<br>round<br>cabbage<br>curve<br>trumpet<br>area |  
+| bip_39_word_new_br12 | federal<br>arrange<br>blast<br>door<br>someone<br>few<br>round<br>cabbage<br>curve<br>trumpet<br>area<br>appear |  
+| bip_39_word_new_br2 | federal<br>arrange |  
+| bip_39_word_new_br3 | federal<br>arrange<br>blast |  
+| bip_39_word_new_br4 | federal<br>arrange<br>blast<br>door |  
+| bip_39_word_new_br5 | federal<br>arrange<br>blast<br>door<br>someone |  
+| bip_39_word_new_br6 | federal<br>arrange<br>blast<br>door<br>someone<br>few |  
+| bip_39_word_new_br7 | federal<br>arrange<br>blast<br>door<br>someone<br>few<br>round |  
+| bip_39_word_new_br8 | federal<br>arrange<br>blast<br>door<br>someone<br>few<br>round<br>cabbage |  
+| bip_39_word_new_br9 | federal<br>arrange<br>blast<br>door<br>someone<br>few<br>round<br>cabbage<br>curve |  
+| bip_39_word_new_line1 | federal |  
+| bip_39_word_new_line10 | federal
+arrange
+blast
+door
+someone
+few
+round
+cabbage
+curve
+trumpet |  
+| bip_39_word_new_line11 | federal
+arrange
+blast
+door
+someone
+few
+round
+cabbage
+curve
+trumpet
+area |  
+| bip_39_word_new_line12 | federal
+arrange
+blast
+door
+someone
+few
+round
+cabbage
+curve
+trumpet
+area
+appear |  
+| bip_39_word_new_line2 | federal
+arrange |  
+| bip_39_word_new_line3 | federal
+arrange
+blast |  
+| bip_39_word_new_line4 | federal
+arrange
+blast
+door |  
+| bip_39_word_new_line5 | federal
+arrange
+blast
+door
+someone |  
+| bip_39_word_new_line6 | federal
+arrange
+blast
+door
+someone
+few |  
+| bip_39_word_new_line7 | federal
+arrange
+blast
+door
+someone
+few
+round |  
+| bip_39_word_new_line8 | federal
+arrange
+blast
+door
+someone
+few
+round
+cabbage |  
+| bip_39_word_new_line9 | federal
+arrange
+blast
+door
+someone
+few
+round
+cabbage
+curve |  
+| bip_39_word_space_0 | ['federal', 'arrange', 'blast', 'door', 'someone', 'few', 'round', 'cabbage', 'curve', 'trumpet', 'area', 'appear'] |  
+| bip_39_word_space_1 | federal |  
+| bip_39_word_space_10 | federal arrange blast door someone few round cabbage curve trumpet |  
+| bip_39_word_space_11 | federal arrange blast door someone few round cabbage curve trumpet area |  
+| bip_39_word_space_12 | federal arrange blast door someone few round cabbage curve trumpet area appear |  
+| bip_39_word_space_2 | federal arrange |  
+| bip_39_word_space_3 | federal arrange blast |  
+| bip_39_word_space_4 | federal arrange blast door |  
+| bip_39_word_space_5 | federal arrange blast door someone |  
+| bip_39_word_space_6 | federal arrange blast door someone few |  
+| bip_39_word_space_7 | federal arrange blast door someone few round |  
+| bip_39_word_space_8 | federal arrange blast door someone few round cabbage |  
+| bip_39_word_space_9 | federal arrange blast door someone few round cabbage curve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

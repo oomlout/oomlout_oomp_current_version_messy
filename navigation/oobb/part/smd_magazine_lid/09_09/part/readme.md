@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mammal chicken
+  * bip 39 word 3: mammal chicken illness
+  * bip 39 word: mammal chicken illness exhibit bundle secret predict tape draft half attend armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mammal |  
+| bip_39_word_new_br10 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft<br>half |  
+| bip_39_word_new_br11 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft<br>half<br>attend |  
+| bip_39_word_new_br12 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft<br>half<br>attend<br>armed |  
+| bip_39_word_new_br2 | mammal<br>chicken |  
+| bip_39_word_new_br3 | mammal<br>chicken<br>illness |  
+| bip_39_word_new_br4 | mammal<br>chicken<br>illness<br>exhibit |  
+| bip_39_word_new_br5 | mammal<br>chicken<br>illness<br>exhibit<br>bundle |  
+| bip_39_word_new_br6 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret |  
+| bip_39_word_new_br7 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict |  
+| bip_39_word_new_br8 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape |  
+| bip_39_word_new_br9 | mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft |  
+| bip_39_word_new_line1 | mammal |  
+| bip_39_word_new_line10 | mammal
+chicken
+illness
+exhibit
+bundle
+secret
+predict
+tape
+draft
+half |  
+| bip_39_word_new_line11 | mammal
+chicken
+illness
+exhibit
+bundle
+secret
+predict
+tape
+draft
+half
+attend |  
+| bip_39_word_new_line12 | mammal
+chicken
+illness
+exhibit
+bundle
+secret
+predict
+tape
+draft
+half
+attend
+armed |  
+| bip_39_word_new_line2 | mammal
+chicken |  
+| bip_39_word_new_line3 | mammal
+chicken
+illness |  
+| bip_39_word_new_line4 | mammal
+chicken
+illness
+exhibit |  
+| bip_39_word_new_line5 | mammal
+chicken
+illness
+exhibit
+bundle |  
+| bip_39_word_new_line6 | mammal
+chicken
+illness
+exhibit
+bundle
+secret |  
+| bip_39_word_new_line7 | mammal
+chicken
+illness
+exhibit
+bundle
+secret
+predict |  
+| bip_39_word_new_line8 | mammal
+chicken
+illness
+exhibit
+bundle
+secret
+predict
+tape |  
+| bip_39_word_new_line9 | mammal
+chicken
+illness
+exhibit
+bundle
+secret
+predict
+tape
+draft |  
+| bip_39_word_space_0 | ['mammal', 'chicken', 'illness', 'exhibit', 'bundle', 'secret', 'predict', 'tape', 'draft', 'half', 'attend', 'armed'] |  
+| bip_39_word_space_1 | mammal |  
+| bip_39_word_space_10 | mammal chicken illness exhibit bundle secret predict tape draft half |  
+| bip_39_word_space_11 | mammal chicken illness exhibit bundle secret predict tape draft half attend |  
+| bip_39_word_space_12 | mammal chicken illness exhibit bundle secret predict tape draft half attend armed |  
+| bip_39_word_space_2 | mammal chicken |  
+| bip_39_word_space_3 | mammal chicken illness |  
+| bip_39_word_space_4 | mammal chicken illness exhibit |  
+| bip_39_word_space_5 | mammal chicken illness exhibit bundle |  
+| bip_39_word_space_6 | mammal chicken illness exhibit bundle secret |  
+| bip_39_word_space_7 | mammal chicken illness exhibit bundle secret predict |  
+| bip_39_word_space_8 | mammal chicken illness exhibit bundle secret predict tape |  
+| bip_39_word_space_9 | mammal chicken illness exhibit bundle secret predict tape draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

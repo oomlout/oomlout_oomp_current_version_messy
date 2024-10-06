@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: early stable
+  * bip 39 word 3: early stable crazy
+  * bip 39 word: early stable crazy slush tip domain animal farm original drill orange attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | early |  
+| bip_39_word_new_br10 | early<br>stable<br>crazy<br>slush<br>tip<br>domain<br>animal<br>farm<br>original<br>drill |  
+| bip_39_word_new_br11 | early<br>stable<br>crazy<br>slush<br>tip<br>domain<br>animal<br>farm<br>original<br>drill<br>orange |  
+| bip_39_word_new_br12 | early<br>stable<br>crazy<br>slush<br>tip<br>domain<br>animal<br>farm<br>original<br>drill<br>orange<br>attend |  
+| bip_39_word_new_br2 | early<br>stable |  
+| bip_39_word_new_br3 | early<br>stable<br>crazy |  
+| bip_39_word_new_br4 | early<br>stable<br>crazy<br>slush |  
+| bip_39_word_new_br5 | early<br>stable<br>crazy<br>slush<br>tip |  
+| bip_39_word_new_br6 | early<br>stable<br>crazy<br>slush<br>tip<br>domain |  
+| bip_39_word_new_br7 | early<br>stable<br>crazy<br>slush<br>tip<br>domain<br>animal |  
+| bip_39_word_new_br8 | early<br>stable<br>crazy<br>slush<br>tip<br>domain<br>animal<br>farm |  
+| bip_39_word_new_br9 | early<br>stable<br>crazy<br>slush<br>tip<br>domain<br>animal<br>farm<br>original |  
+| bip_39_word_new_line1 | early |  
+| bip_39_word_new_line10 | early
+stable
+crazy
+slush
+tip
+domain
+animal
+farm
+original
+drill |  
+| bip_39_word_new_line11 | early
+stable
+crazy
+slush
+tip
+domain
+animal
+farm
+original
+drill
+orange |  
+| bip_39_word_new_line12 | early
+stable
+crazy
+slush
+tip
+domain
+animal
+farm
+original
+drill
+orange
+attend |  
+| bip_39_word_new_line2 | early
+stable |  
+| bip_39_word_new_line3 | early
+stable
+crazy |  
+| bip_39_word_new_line4 | early
+stable
+crazy
+slush |  
+| bip_39_word_new_line5 | early
+stable
+crazy
+slush
+tip |  
+| bip_39_word_new_line6 | early
+stable
+crazy
+slush
+tip
+domain |  
+| bip_39_word_new_line7 | early
+stable
+crazy
+slush
+tip
+domain
+animal |  
+| bip_39_word_new_line8 | early
+stable
+crazy
+slush
+tip
+domain
+animal
+farm |  
+| bip_39_word_new_line9 | early
+stable
+crazy
+slush
+tip
+domain
+animal
+farm
+original |  
+| bip_39_word_space_0 | ['early', 'stable', 'crazy', 'slush', 'tip', 'domain', 'animal', 'farm', 'original', 'drill', 'orange', 'attend'] |  
+| bip_39_word_space_1 | early |  
+| bip_39_word_space_10 | early stable crazy slush tip domain animal farm original drill |  
+| bip_39_word_space_11 | early stable crazy slush tip domain animal farm original drill orange |  
+| bip_39_word_space_12 | early stable crazy slush tip domain animal farm original drill orange attend |  
+| bip_39_word_space_2 | early stable |  
+| bip_39_word_space_3 | early stable crazy |  
+| bip_39_word_space_4 | early stable crazy slush |  
+| bip_39_word_space_5 | early stable crazy slush tip |  
+| bip_39_word_space_6 | early stable crazy slush tip domain |  
+| bip_39_word_space_7 | early stable crazy slush tip domain animal |  
+| bip_39_word_space_8 | early stable crazy slush tip domain animal farm |  
+| bip_39_word_space_9 | early stable crazy slush tip domain animal farm original |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

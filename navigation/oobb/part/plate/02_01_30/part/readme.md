@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cousin kitten
+  * bip 39 word 3: cousin kitten vague
+  * bip 39 word: cousin kitten vague kid visa glad fantasy number flee awesome found arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cousin |  
+| bip_39_word_new_br10 | cousin<br>kitten<br>vague<br>kid<br>visa<br>glad<br>fantasy<br>number<br>flee<br>awesome |  
+| bip_39_word_new_br11 | cousin<br>kitten<br>vague<br>kid<br>visa<br>glad<br>fantasy<br>number<br>flee<br>awesome<br>found |  
+| bip_39_word_new_br12 | cousin<br>kitten<br>vague<br>kid<br>visa<br>glad<br>fantasy<br>number<br>flee<br>awesome<br>found<br>arrive |  
+| bip_39_word_new_br2 | cousin<br>kitten |  
+| bip_39_word_new_br3 | cousin<br>kitten<br>vague |  
+| bip_39_word_new_br4 | cousin<br>kitten<br>vague<br>kid |  
+| bip_39_word_new_br5 | cousin<br>kitten<br>vague<br>kid<br>visa |  
+| bip_39_word_new_br6 | cousin<br>kitten<br>vague<br>kid<br>visa<br>glad |  
+| bip_39_word_new_br7 | cousin<br>kitten<br>vague<br>kid<br>visa<br>glad<br>fantasy |  
+| bip_39_word_new_br8 | cousin<br>kitten<br>vague<br>kid<br>visa<br>glad<br>fantasy<br>number |  
+| bip_39_word_new_br9 | cousin<br>kitten<br>vague<br>kid<br>visa<br>glad<br>fantasy<br>number<br>flee |  
+| bip_39_word_new_line1 | cousin |  
+| bip_39_word_new_line10 | cousin
+kitten
+vague
+kid
+visa
+glad
+fantasy
+number
+flee
+awesome |  
+| bip_39_word_new_line11 | cousin
+kitten
+vague
+kid
+visa
+glad
+fantasy
+number
+flee
+awesome
+found |  
+| bip_39_word_new_line12 | cousin
+kitten
+vague
+kid
+visa
+glad
+fantasy
+number
+flee
+awesome
+found
+arrive |  
+| bip_39_word_new_line2 | cousin
+kitten |  
+| bip_39_word_new_line3 | cousin
+kitten
+vague |  
+| bip_39_word_new_line4 | cousin
+kitten
+vague
+kid |  
+| bip_39_word_new_line5 | cousin
+kitten
+vague
+kid
+visa |  
+| bip_39_word_new_line6 | cousin
+kitten
+vague
+kid
+visa
+glad |  
+| bip_39_word_new_line7 | cousin
+kitten
+vague
+kid
+visa
+glad
+fantasy |  
+| bip_39_word_new_line8 | cousin
+kitten
+vague
+kid
+visa
+glad
+fantasy
+number |  
+| bip_39_word_new_line9 | cousin
+kitten
+vague
+kid
+visa
+glad
+fantasy
+number
+flee |  
+| bip_39_word_space_0 | ['cousin', 'kitten', 'vague', 'kid', 'visa', 'glad', 'fantasy', 'number', 'flee', 'awesome', 'found', 'arrive'] |  
+| bip_39_word_space_1 | cousin |  
+| bip_39_word_space_10 | cousin kitten vague kid visa glad fantasy number flee awesome |  
+| bip_39_word_space_11 | cousin kitten vague kid visa glad fantasy number flee awesome found |  
+| bip_39_word_space_12 | cousin kitten vague kid visa glad fantasy number flee awesome found arrive |  
+| bip_39_word_space_2 | cousin kitten |  
+| bip_39_word_space_3 | cousin kitten vague |  
+| bip_39_word_space_4 | cousin kitten vague kid |  
+| bip_39_word_space_5 | cousin kitten vague kid visa |  
+| bip_39_word_space_6 | cousin kitten vague kid visa glad |  
+| bip_39_word_space_7 | cousin kitten vague kid visa glad fantasy |  
+| bip_39_word_space_8 | cousin kitten vague kid visa glad fantasy number |  
+| bip_39_word_space_9 | cousin kitten vague kid visa glad fantasy number flee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

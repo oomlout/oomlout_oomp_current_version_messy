@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_wrench_m10_x4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: relax elder
+  * bip 39 word 3: relax elder field
+  * bip 39 word: relax elder field buzz destroy shield edge crash one glory account artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | relax |  
+| bip_39_word_new_br10 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield<br>edge<br>crash<br>one<br>glory |  
+| bip_39_word_new_br11 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield<br>edge<br>crash<br>one<br>glory<br>account |  
+| bip_39_word_new_br12 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield<br>edge<br>crash<br>one<br>glory<br>account<br>artefact |  
+| bip_39_word_new_br2 | relax<br>elder |  
+| bip_39_word_new_br3 | relax<br>elder<br>field |  
+| bip_39_word_new_br4 | relax<br>elder<br>field<br>buzz |  
+| bip_39_word_new_br5 | relax<br>elder<br>field<br>buzz<br>destroy |  
+| bip_39_word_new_br6 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield |  
+| bip_39_word_new_br7 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield<br>edge |  
+| bip_39_word_new_br8 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield<br>edge<br>crash |  
+| bip_39_word_new_br9 | relax<br>elder<br>field<br>buzz<br>destroy<br>shield<br>edge<br>crash<br>one |  
+| bip_39_word_new_line1 | relax |  
+| bip_39_word_new_line10 | relax
+elder
+field
+buzz
+destroy
+shield
+edge
+crash
+one
+glory |  
+| bip_39_word_new_line11 | relax
+elder
+field
+buzz
+destroy
+shield
+edge
+crash
+one
+glory
+account |  
+| bip_39_word_new_line12 | relax
+elder
+field
+buzz
+destroy
+shield
+edge
+crash
+one
+glory
+account
+artefact |  
+| bip_39_word_new_line2 | relax
+elder |  
+| bip_39_word_new_line3 | relax
+elder
+field |  
+| bip_39_word_new_line4 | relax
+elder
+field
+buzz |  
+| bip_39_word_new_line5 | relax
+elder
+field
+buzz
+destroy |  
+| bip_39_word_new_line6 | relax
+elder
+field
+buzz
+destroy
+shield |  
+| bip_39_word_new_line7 | relax
+elder
+field
+buzz
+destroy
+shield
+edge |  
+| bip_39_word_new_line8 | relax
+elder
+field
+buzz
+destroy
+shield
+edge
+crash |  
+| bip_39_word_new_line9 | relax
+elder
+field
+buzz
+destroy
+shield
+edge
+crash
+one |  
+| bip_39_word_space_0 | ['relax', 'elder', 'field', 'buzz', 'destroy', 'shield', 'edge', 'crash', 'one', 'glory', 'account', 'artefact'] |  
+| bip_39_word_space_1 | relax |  
+| bip_39_word_space_10 | relax elder field buzz destroy shield edge crash one glory |  
+| bip_39_word_space_11 | relax elder field buzz destroy shield edge crash one glory account |  
+| bip_39_word_space_12 | relax elder field buzz destroy shield edge crash one glory account artefact |  
+| bip_39_word_space_2 | relax elder |  
+| bip_39_word_space_3 | relax elder field |  
+| bip_39_word_space_4 | relax elder field buzz |  
+| bip_39_word_space_5 | relax elder field buzz destroy |  
+| bip_39_word_space_6 | relax elder field buzz destroy shield |  
+| bip_39_word_space_7 | relax elder field buzz destroy shield edge |  
+| bip_39_word_space_8 | relax elder field buzz destroy shield edge crash |  
+| bip_39_word_space_9 | relax elder field buzz destroy shield edge crash one |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

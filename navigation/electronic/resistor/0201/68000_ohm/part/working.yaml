@@ -1,3 +1,186 @@
+bip_39_word_new_br1: upon
+bip_39_word_new_br10: upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile
+bip_39_word_new_br11: upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile<br>position
+bip_39_word_new_br12: upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce<br>exile<br>position<br>alien
+bip_39_word_new_br2: upon<br>magic
+bip_39_word_new_br3: upon<br>magic<br>front
+bip_39_word_new_br4: upon<br>magic<br>front<br>hunt
+bip_39_word_new_br5: upon<br>magic<br>front<br>hunt<br>advice
+bip_39_word_new_br6: upon<br>magic<br>front<br>hunt<br>advice<br>dad
+bip_39_word_new_br7: upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital
+bip_39_word_new_br8: upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch
+bip_39_word_new_br9: upon<br>magic<br>front<br>hunt<br>advice<br>dad<br>hospital<br>fetch<br>bounce
+bip_39_word_new_line1: upon
+bip_39_word_new_line10: 'upon
+
+  magic
+
+  front
+
+  hunt
+
+  advice
+
+  dad
+
+  hospital
+
+  fetch
+
+  bounce
+
+  exile'
+bip_39_word_new_line11: 'upon
+
+  magic
+
+  front
+
+  hunt
+
+  advice
+
+  dad
+
+  hospital
+
+  fetch
+
+  bounce
+
+  exile
+
+  position'
+bip_39_word_new_line12: 'upon
+
+  magic
+
+  front
+
+  hunt
+
+  advice
+
+  dad
+
+  hospital
+
+  fetch
+
+  bounce
+
+  exile
+
+  position
+
+  alien'
+bip_39_word_new_line2: 'upon
+
+  magic'
+bip_39_word_new_line3: 'upon
+
+  magic
+
+  front'
+bip_39_word_new_line4: 'upon
+
+  magic
+
+  front
+
+  hunt'
+bip_39_word_new_line5: 'upon
+
+  magic
+
+  front
+
+  hunt
+
+  advice'
+bip_39_word_new_line6: 'upon
+
+  magic
+
+  front
+
+  hunt
+
+  advice
+
+  dad'
+bip_39_word_new_line7: 'upon
+
+  magic
+
+  front
+
+  hunt
+
+  advice
+
+  dad
+
+  hospital'
+bip_39_word_new_line8: 'upon
+
+  magic
+
+  front
+
+  hunt
+
+  advice
+
+  dad
+
+  hospital
+
+  fetch'
+bip_39_word_new_line9: 'upon
+
+  magic
+
+  front
+
+  hunt
+
+  advice
+
+  dad
+
+  hospital
+
+  fetch
+
+  bounce'
+bip_39_word_space_0:
+- upon
+- magic
+- front
+- hunt
+- advice
+- dad
+- hospital
+- fetch
+- bounce
+- exile
+- position
+- alien
+bip_39_word_space_1: upon
+bip_39_word_space_10: upon magic front hunt advice dad hospital fetch bounce exile
+bip_39_word_space_11: upon magic front hunt advice dad hospital fetch bounce exile
+  position
+bip_39_word_space_12: upon magic front hunt advice dad hospital fetch bounce exile
+  position alien
+bip_39_word_space_2: upon magic
+bip_39_word_space_3: upon magic front
+bip_39_word_space_4: upon magic front hunt
+bip_39_word_space_5: upon magic front hunt advice
+bip_39_word_space_6: upon magic front hunt advice dad
+bip_39_word_space_7: upon magic front hunt advice dad hospital
+bip_39_word_space_8: upon magic front hunt advice dad hospital fetch
+bip_39_word_space_9: upon magic front hunt advice dad hospital fetch bounce
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

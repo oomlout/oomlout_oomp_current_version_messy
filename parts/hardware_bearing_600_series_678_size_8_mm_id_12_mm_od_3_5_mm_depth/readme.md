@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drive letter
+  * bip 39 word 3: drive letter alien
+  * bip 39 word: drive letter alien embody loyal glance strategy attract panther solar tower adult
 
 ### other_codes
 * short_code: br678
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drive |  
+| bip_39_word_new_br10 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance<br>strategy<br>attract<br>panther<br>solar |  
+| bip_39_word_new_br11 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance<br>strategy<br>attract<br>panther<br>solar<br>tower |  
+| bip_39_word_new_br12 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance<br>strategy<br>attract<br>panther<br>solar<br>tower<br>adult |  
+| bip_39_word_new_br2 | drive<br>letter |  
+| bip_39_word_new_br3 | drive<br>letter<br>alien |  
+| bip_39_word_new_br4 | drive<br>letter<br>alien<br>embody |  
+| bip_39_word_new_br5 | drive<br>letter<br>alien<br>embody<br>loyal |  
+| bip_39_word_new_br6 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance |  
+| bip_39_word_new_br7 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance<br>strategy |  
+| bip_39_word_new_br8 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance<br>strategy<br>attract |  
+| bip_39_word_new_br9 | drive<br>letter<br>alien<br>embody<br>loyal<br>glance<br>strategy<br>attract<br>panther |  
+| bip_39_word_new_line1 | drive |  
+| bip_39_word_new_line10 | drive
+letter
+alien
+embody
+loyal
+glance
+strategy
+attract
+panther
+solar |  
+| bip_39_word_new_line11 | drive
+letter
+alien
+embody
+loyal
+glance
+strategy
+attract
+panther
+solar
+tower |  
+| bip_39_word_new_line12 | drive
+letter
+alien
+embody
+loyal
+glance
+strategy
+attract
+panther
+solar
+tower
+adult |  
+| bip_39_word_new_line2 | drive
+letter |  
+| bip_39_word_new_line3 | drive
+letter
+alien |  
+| bip_39_word_new_line4 | drive
+letter
+alien
+embody |  
+| bip_39_word_new_line5 | drive
+letter
+alien
+embody
+loyal |  
+| bip_39_word_new_line6 | drive
+letter
+alien
+embody
+loyal
+glance |  
+| bip_39_word_new_line7 | drive
+letter
+alien
+embody
+loyal
+glance
+strategy |  
+| bip_39_word_new_line8 | drive
+letter
+alien
+embody
+loyal
+glance
+strategy
+attract |  
+| bip_39_word_new_line9 | drive
+letter
+alien
+embody
+loyal
+glance
+strategy
+attract
+panther |  
+| bip_39_word_space_0 | ['drive', 'letter', 'alien', 'embody', 'loyal', 'glance', 'strategy', 'attract', 'panther', 'solar', 'tower', 'adult'] |  
+| bip_39_word_space_1 | drive |  
+| bip_39_word_space_10 | drive letter alien embody loyal glance strategy attract panther solar |  
+| bip_39_word_space_11 | drive letter alien embody loyal glance strategy attract panther solar tower |  
+| bip_39_word_space_12 | drive letter alien embody loyal glance strategy attract panther solar tower adult |  
+| bip_39_word_space_2 | drive letter |  
+| bip_39_word_space_3 | drive letter alien |  
+| bip_39_word_space_4 | drive letter alien embody |  
+| bip_39_word_space_5 | drive letter alien embody loyal |  
+| bip_39_word_space_6 | drive letter alien embody loyal glance |  
+| bip_39_word_space_7 | drive letter alien embody loyal glance strategy |  
+| bip_39_word_space_8 | drive letter alien embody loyal glance strategy attract |  
+| bip_39_word_space_9 | drive letter alien embody loyal glance strategy attract panther |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

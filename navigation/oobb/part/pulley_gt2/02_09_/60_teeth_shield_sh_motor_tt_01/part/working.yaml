@@ -1,3 +1,185 @@
+bip_39_word_new_br1: tumble
+bip_39_word_new_br10: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always
+bip_39_word_new_br11: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis
+bip_39_word_new_br12: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis<br>abuse
+bip_39_word_new_br2: tumble<br>hill
+bip_39_word_new_br3: tumble<br>hill<br>rich
+bip_39_word_new_br4: tumble<br>hill<br>rich<br>father
+bip_39_word_new_br5: tumble<br>hill<br>rich<br>father<br>split
+bip_39_word_new_br6: tumble<br>hill<br>rich<br>father<br>split<br>smooth
+bip_39_word_new_br7: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off
+bip_39_word_new_br8: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key
+bip_39_word_new_br9: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude
+bip_39_word_new_line1: tumble
+bip_39_word_new_line10: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key
+
+  rude
+
+  always'
+bip_39_word_new_line11: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key
+
+  rude
+
+  always
+
+  tennis'
+bip_39_word_new_line12: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key
+
+  rude
+
+  always
+
+  tennis
+
+  abuse'
+bip_39_word_new_line2: 'tumble
+
+  hill'
+bip_39_word_new_line3: 'tumble
+
+  hill
+
+  rich'
+bip_39_word_new_line4: 'tumble
+
+  hill
+
+  rich
+
+  father'
+bip_39_word_new_line5: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split'
+bip_39_word_new_line6: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth'
+bip_39_word_new_line7: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off'
+bip_39_word_new_line8: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key'
+bip_39_word_new_line9: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key
+
+  rude'
+bip_39_word_space_0:
+- tumble
+- hill
+- rich
+- father
+- split
+- smooth
+- 'off'
+- key
+- rude
+- always
+- tennis
+- abuse
+bip_39_word_space_1: tumble
+bip_39_word_space_10: tumble hill rich father split smooth off key rude always
+bip_39_word_space_11: tumble hill rich father split smooth off key rude always tennis
+bip_39_word_space_12: tumble hill rich father split smooth off key rude always tennis
+  abuse
+bip_39_word_space_2: tumble hill
+bip_39_word_space_3: tumble hill rich
+bip_39_word_space_4: tumble hill rich father
+bip_39_word_space_5: tumble hill rich father split
+bip_39_word_space_6: tumble hill rich father split smooth
+bip_39_word_space_7: tumble hill rich father split smooth off
+bip_39_word_space_8: tumble hill rich father split smooth off key
+bip_39_word_space_9: tumble hill rich father split smooth off key rude
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

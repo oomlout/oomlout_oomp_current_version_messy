@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: old toss
+  * bip 39 word 3: old toss axis
+  * bip 39 word: old toss axis hub scan prize obey pottery cable indicate jewel assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | old |  
+| bip_39_word_new_br10 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate |  
+| bip_39_word_new_br11 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate<br>jewel |  
+| bip_39_word_new_br12 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable<br>indicate<br>jewel<br>assist |  
+| bip_39_word_new_br2 | old<br>toss |  
+| bip_39_word_new_br3 | old<br>toss<br>axis |  
+| bip_39_word_new_br4 | old<br>toss<br>axis<br>hub |  
+| bip_39_word_new_br5 | old<br>toss<br>axis<br>hub<br>scan |  
+| bip_39_word_new_br6 | old<br>toss<br>axis<br>hub<br>scan<br>prize |  
+| bip_39_word_new_br7 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey |  
+| bip_39_word_new_br8 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery |  
+| bip_39_word_new_br9 | old<br>toss<br>axis<br>hub<br>scan<br>prize<br>obey<br>pottery<br>cable |  
+| bip_39_word_new_line1 | old |  
+| bip_39_word_new_line10 | old
+toss
+axis
+hub
+scan
+prize
+obey
+pottery
+cable
+indicate |  
+| bip_39_word_new_line11 | old
+toss
+axis
+hub
+scan
+prize
+obey
+pottery
+cable
+indicate
+jewel |  
+| bip_39_word_new_line12 | old
+toss
+axis
+hub
+scan
+prize
+obey
+pottery
+cable
+indicate
+jewel
+assist |  
+| bip_39_word_new_line2 | old
+toss |  
+| bip_39_word_new_line3 | old
+toss
+axis |  
+| bip_39_word_new_line4 | old
+toss
+axis
+hub |  
+| bip_39_word_new_line5 | old
+toss
+axis
+hub
+scan |  
+| bip_39_word_new_line6 | old
+toss
+axis
+hub
+scan
+prize |  
+| bip_39_word_new_line7 | old
+toss
+axis
+hub
+scan
+prize
+obey |  
+| bip_39_word_new_line8 | old
+toss
+axis
+hub
+scan
+prize
+obey
+pottery |  
+| bip_39_word_new_line9 | old
+toss
+axis
+hub
+scan
+prize
+obey
+pottery
+cable |  
+| bip_39_word_space_0 | ['old', 'toss', 'axis', 'hub', 'scan', 'prize', 'obey', 'pottery', 'cable', 'indicate', 'jewel', 'assist'] |  
+| bip_39_word_space_1 | old |  
+| bip_39_word_space_10 | old toss axis hub scan prize obey pottery cable indicate |  
+| bip_39_word_space_11 | old toss axis hub scan prize obey pottery cable indicate jewel |  
+| bip_39_word_space_12 | old toss axis hub scan prize obey pottery cable indicate jewel assist |  
+| bip_39_word_space_2 | old toss |  
+| bip_39_word_space_3 | old toss axis |  
+| bip_39_word_space_4 | old toss axis hub |  
+| bip_39_word_space_5 | old toss axis hub scan |  
+| bip_39_word_space_6 | old toss axis hub scan prize |  
+| bip_39_word_space_7 | old toss axis hub scan prize obey |  
+| bip_39_word_space_8 | old toss axis hub scan prize obey pottery |  
+| bip_39_word_space_9 | old toss axis hub scan prize obey pottery cable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

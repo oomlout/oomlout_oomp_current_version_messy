@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: void there
+  * bip 39 word 3: void there dumb
+  * bip 39 word: void there dumb bid govern angle machine patrol use zone marriage analyst
 
 ### other_codes
 * short_code: sc5b110h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | void |  
+| bip_39_word_new_br10 | void<br>there<br>dumb<br>bid<br>govern<br>angle<br>machine<br>patrol<br>use<br>zone |  
+| bip_39_word_new_br11 | void<br>there<br>dumb<br>bid<br>govern<br>angle<br>machine<br>patrol<br>use<br>zone<br>marriage |  
+| bip_39_word_new_br12 | void<br>there<br>dumb<br>bid<br>govern<br>angle<br>machine<br>patrol<br>use<br>zone<br>marriage<br>analyst |  
+| bip_39_word_new_br2 | void<br>there |  
+| bip_39_word_new_br3 | void<br>there<br>dumb |  
+| bip_39_word_new_br4 | void<br>there<br>dumb<br>bid |  
+| bip_39_word_new_br5 | void<br>there<br>dumb<br>bid<br>govern |  
+| bip_39_word_new_br6 | void<br>there<br>dumb<br>bid<br>govern<br>angle |  
+| bip_39_word_new_br7 | void<br>there<br>dumb<br>bid<br>govern<br>angle<br>machine |  
+| bip_39_word_new_br8 | void<br>there<br>dumb<br>bid<br>govern<br>angle<br>machine<br>patrol |  
+| bip_39_word_new_br9 | void<br>there<br>dumb<br>bid<br>govern<br>angle<br>machine<br>patrol<br>use |  
+| bip_39_word_new_line1 | void |  
+| bip_39_word_new_line10 | void
+there
+dumb
+bid
+govern
+angle
+machine
+patrol
+use
+zone |  
+| bip_39_word_new_line11 | void
+there
+dumb
+bid
+govern
+angle
+machine
+patrol
+use
+zone
+marriage |  
+| bip_39_word_new_line12 | void
+there
+dumb
+bid
+govern
+angle
+machine
+patrol
+use
+zone
+marriage
+analyst |  
+| bip_39_word_new_line2 | void
+there |  
+| bip_39_word_new_line3 | void
+there
+dumb |  
+| bip_39_word_new_line4 | void
+there
+dumb
+bid |  
+| bip_39_word_new_line5 | void
+there
+dumb
+bid
+govern |  
+| bip_39_word_new_line6 | void
+there
+dumb
+bid
+govern
+angle |  
+| bip_39_word_new_line7 | void
+there
+dumb
+bid
+govern
+angle
+machine |  
+| bip_39_word_new_line8 | void
+there
+dumb
+bid
+govern
+angle
+machine
+patrol |  
+| bip_39_word_new_line9 | void
+there
+dumb
+bid
+govern
+angle
+machine
+patrol
+use |  
+| bip_39_word_space_0 | ['void', 'there', 'dumb', 'bid', 'govern', 'angle', 'machine', 'patrol', 'use', 'zone', 'marriage', 'analyst'] |  
+| bip_39_word_space_1 | void |  
+| bip_39_word_space_10 | void there dumb bid govern angle machine patrol use zone |  
+| bip_39_word_space_11 | void there dumb bid govern angle machine patrol use zone marriage |  
+| bip_39_word_space_12 | void there dumb bid govern angle machine patrol use zone marriage analyst |  
+| bip_39_word_space_2 | void there |  
+| bip_39_word_space_3 | void there dumb |  
+| bip_39_word_space_4 | void there dumb bid |  
+| bip_39_word_space_5 | void there dumb bid govern |  
+| bip_39_word_space_6 | void there dumb bid govern angle |  
+| bip_39_word_space_7 | void there dumb bid govern angle machine |  
+| bip_39_word_space_8 | void there dumb bid govern angle machine patrol |  
+| bip_39_word_space_9 | void there dumb bid govern angle machine patrol use |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

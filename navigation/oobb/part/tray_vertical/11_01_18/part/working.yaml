@@ -1,3 +1,186 @@
+bip_39_word_new_br1: drip
+bip_39_word_new_br10: drip<br>topic<br>glass<br>margin<br>giant<br>social<br>token<br>orange<br>artwork<br>misery
+bip_39_word_new_br11: drip<br>topic<br>glass<br>margin<br>giant<br>social<br>token<br>orange<br>artwork<br>misery<br>problem
+bip_39_word_new_br12: drip<br>topic<br>glass<br>margin<br>giant<br>social<br>token<br>orange<br>artwork<br>misery<br>problem<br>autumn
+bip_39_word_new_br2: drip<br>topic
+bip_39_word_new_br3: drip<br>topic<br>glass
+bip_39_word_new_br4: drip<br>topic<br>glass<br>margin
+bip_39_word_new_br5: drip<br>topic<br>glass<br>margin<br>giant
+bip_39_word_new_br6: drip<br>topic<br>glass<br>margin<br>giant<br>social
+bip_39_word_new_br7: drip<br>topic<br>glass<br>margin<br>giant<br>social<br>token
+bip_39_word_new_br8: drip<br>topic<br>glass<br>margin<br>giant<br>social<br>token<br>orange
+bip_39_word_new_br9: drip<br>topic<br>glass<br>margin<br>giant<br>social<br>token<br>orange<br>artwork
+bip_39_word_new_line1: drip
+bip_39_word_new_line10: 'drip
+
+  topic
+
+  glass
+
+  margin
+
+  giant
+
+  social
+
+  token
+
+  orange
+
+  artwork
+
+  misery'
+bip_39_word_new_line11: 'drip
+
+  topic
+
+  glass
+
+  margin
+
+  giant
+
+  social
+
+  token
+
+  orange
+
+  artwork
+
+  misery
+
+  problem'
+bip_39_word_new_line12: 'drip
+
+  topic
+
+  glass
+
+  margin
+
+  giant
+
+  social
+
+  token
+
+  orange
+
+  artwork
+
+  misery
+
+  problem
+
+  autumn'
+bip_39_word_new_line2: 'drip
+
+  topic'
+bip_39_word_new_line3: 'drip
+
+  topic
+
+  glass'
+bip_39_word_new_line4: 'drip
+
+  topic
+
+  glass
+
+  margin'
+bip_39_word_new_line5: 'drip
+
+  topic
+
+  glass
+
+  margin
+
+  giant'
+bip_39_word_new_line6: 'drip
+
+  topic
+
+  glass
+
+  margin
+
+  giant
+
+  social'
+bip_39_word_new_line7: 'drip
+
+  topic
+
+  glass
+
+  margin
+
+  giant
+
+  social
+
+  token'
+bip_39_word_new_line8: 'drip
+
+  topic
+
+  glass
+
+  margin
+
+  giant
+
+  social
+
+  token
+
+  orange'
+bip_39_word_new_line9: 'drip
+
+  topic
+
+  glass
+
+  margin
+
+  giant
+
+  social
+
+  token
+
+  orange
+
+  artwork'
+bip_39_word_space_0:
+- drip
+- topic
+- glass
+- margin
+- giant
+- social
+- token
+- orange
+- artwork
+- misery
+- problem
+- autumn
+bip_39_word_space_1: drip
+bip_39_word_space_10: drip topic glass margin giant social token orange artwork misery
+bip_39_word_space_11: drip topic glass margin giant social token orange artwork misery
+  problem
+bip_39_word_space_12: drip topic glass margin giant social token orange artwork misery
+  problem autumn
+bip_39_word_space_2: drip topic
+bip_39_word_space_3: drip topic glass
+bip_39_word_space_4: drip topic glass margin
+bip_39_word_space_5: drip topic glass margin giant
+bip_39_word_space_6: drip topic glass margin giant social
+bip_39_word_space_7: drip topic glass margin giant social token
+bip_39_word_space_8: drip topic glass margin giant social token orange
+bip_39_word_space_9: drip topic glass margin giant social token orange artwork
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

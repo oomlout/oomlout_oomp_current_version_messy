@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: laugh cruel
+  * bip 39 word 3: laugh cruel whip
+  * bip 39 word: laugh cruel whip category fly good joy answer prosper siren height abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | laugh |  
+| bip_39_word_new_br10 | laugh<br>cruel<br>whip<br>category<br>fly<br>good<br>joy<br>answer<br>prosper<br>siren |  
+| bip_39_word_new_br11 | laugh<br>cruel<br>whip<br>category<br>fly<br>good<br>joy<br>answer<br>prosper<br>siren<br>height |  
+| bip_39_word_new_br12 | laugh<br>cruel<br>whip<br>category<br>fly<br>good<br>joy<br>answer<br>prosper<br>siren<br>height<br>abstract |  
+| bip_39_word_new_br2 | laugh<br>cruel |  
+| bip_39_word_new_br3 | laugh<br>cruel<br>whip |  
+| bip_39_word_new_br4 | laugh<br>cruel<br>whip<br>category |  
+| bip_39_word_new_br5 | laugh<br>cruel<br>whip<br>category<br>fly |  
+| bip_39_word_new_br6 | laugh<br>cruel<br>whip<br>category<br>fly<br>good |  
+| bip_39_word_new_br7 | laugh<br>cruel<br>whip<br>category<br>fly<br>good<br>joy |  
+| bip_39_word_new_br8 | laugh<br>cruel<br>whip<br>category<br>fly<br>good<br>joy<br>answer |  
+| bip_39_word_new_br9 | laugh<br>cruel<br>whip<br>category<br>fly<br>good<br>joy<br>answer<br>prosper |  
+| bip_39_word_new_line1 | laugh |  
+| bip_39_word_new_line10 | laugh
+cruel
+whip
+category
+fly
+good
+joy
+answer
+prosper
+siren |  
+| bip_39_word_new_line11 | laugh
+cruel
+whip
+category
+fly
+good
+joy
+answer
+prosper
+siren
+height |  
+| bip_39_word_new_line12 | laugh
+cruel
+whip
+category
+fly
+good
+joy
+answer
+prosper
+siren
+height
+abstract |  
+| bip_39_word_new_line2 | laugh
+cruel |  
+| bip_39_word_new_line3 | laugh
+cruel
+whip |  
+| bip_39_word_new_line4 | laugh
+cruel
+whip
+category |  
+| bip_39_word_new_line5 | laugh
+cruel
+whip
+category
+fly |  
+| bip_39_word_new_line6 | laugh
+cruel
+whip
+category
+fly
+good |  
+| bip_39_word_new_line7 | laugh
+cruel
+whip
+category
+fly
+good
+joy |  
+| bip_39_word_new_line8 | laugh
+cruel
+whip
+category
+fly
+good
+joy
+answer |  
+| bip_39_word_new_line9 | laugh
+cruel
+whip
+category
+fly
+good
+joy
+answer
+prosper |  
+| bip_39_word_space_0 | ['laugh', 'cruel', 'whip', 'category', 'fly', 'good', 'joy', 'answer', 'prosper', 'siren', 'height', 'abstract'] |  
+| bip_39_word_space_1 | laugh |  
+| bip_39_word_space_10 | laugh cruel whip category fly good joy answer prosper siren |  
+| bip_39_word_space_11 | laugh cruel whip category fly good joy answer prosper siren height |  
+| bip_39_word_space_12 | laugh cruel whip category fly good joy answer prosper siren height abstract |  
+| bip_39_word_space_2 | laugh cruel |  
+| bip_39_word_space_3 | laugh cruel whip |  
+| bip_39_word_space_4 | laugh cruel whip category |  
+| bip_39_word_space_5 | laugh cruel whip category fly |  
+| bip_39_word_space_6 | laugh cruel whip category fly good |  
+| bip_39_word_space_7 | laugh cruel whip category fly good joy |  
+| bip_39_word_space_8 | laugh cruel whip category fly good joy answer |  
+| bip_39_word_space_9 | laugh cruel whip category fly good joy answer prosper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

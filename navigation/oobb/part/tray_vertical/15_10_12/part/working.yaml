@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nose
+bip_39_word_new_br10: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt<br>priority<br>exclude<br>come<br>agent
+bip_39_word_new_br11: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt<br>priority<br>exclude<br>come<br>agent<br>excite
+bip_39_word_new_br12: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt<br>priority<br>exclude<br>come<br>agent<br>excite<br>animal
+bip_39_word_new_br2: nose<br>hard
+bip_39_word_new_br3: nose<br>hard<br>cousin
+bip_39_word_new_br4: nose<br>hard<br>cousin<br>vessel
+bip_39_word_new_br5: nose<br>hard<br>cousin<br>vessel<br>gun
+bip_39_word_new_br6: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt
+bip_39_word_new_br7: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt<br>priority
+bip_39_word_new_br8: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt<br>priority<br>exclude
+bip_39_word_new_br9: nose<br>hard<br>cousin<br>vessel<br>gun<br>belt<br>priority<br>exclude<br>come
+bip_39_word_new_line1: nose
+bip_39_word_new_line10: 'nose
+
+  hard
+
+  cousin
+
+  vessel
+
+  gun
+
+  belt
+
+  priority
+
+  exclude
+
+  come
+
+  agent'
+bip_39_word_new_line11: 'nose
+
+  hard
+
+  cousin
+
+  vessel
+
+  gun
+
+  belt
+
+  priority
+
+  exclude
+
+  come
+
+  agent
+
+  excite'
+bip_39_word_new_line12: 'nose
+
+  hard
+
+  cousin
+
+  vessel
+
+  gun
+
+  belt
+
+  priority
+
+  exclude
+
+  come
+
+  agent
+
+  excite
+
+  animal'
+bip_39_word_new_line2: 'nose
+
+  hard'
+bip_39_word_new_line3: 'nose
+
+  hard
+
+  cousin'
+bip_39_word_new_line4: 'nose
+
+  hard
+
+  cousin
+
+  vessel'
+bip_39_word_new_line5: 'nose
+
+  hard
+
+  cousin
+
+  vessel
+
+  gun'
+bip_39_word_new_line6: 'nose
+
+  hard
+
+  cousin
+
+  vessel
+
+  gun
+
+  belt'
+bip_39_word_new_line7: 'nose
+
+  hard
+
+  cousin
+
+  vessel
+
+  gun
+
+  belt
+
+  priority'
+bip_39_word_new_line8: 'nose
+
+  hard
+
+  cousin
+
+  vessel
+
+  gun
+
+  belt
+
+  priority
+
+  exclude'
+bip_39_word_new_line9: 'nose
+
+  hard
+
+  cousin
+
+  vessel
+
+  gun
+
+  belt
+
+  priority
+
+  exclude
+
+  come'
+bip_39_word_space_0:
+- nose
+- hard
+- cousin
+- vessel
+- gun
+- belt
+- priority
+- exclude
+- come
+- agent
+- excite
+- animal
+bip_39_word_space_1: nose
+bip_39_word_space_10: nose hard cousin vessel gun belt priority exclude come agent
+bip_39_word_space_11: nose hard cousin vessel gun belt priority exclude come agent
+  excite
+bip_39_word_space_12: nose hard cousin vessel gun belt priority exclude come agent
+  excite animal
+bip_39_word_space_2: nose hard
+bip_39_word_space_3: nose hard cousin
+bip_39_word_space_4: nose hard cousin vessel
+bip_39_word_space_5: nose hard cousin vessel gun
+bip_39_word_space_6: nose hard cousin vessel gun belt
+bip_39_word_space_7: nose hard cousin vessel gun belt priority
+bip_39_word_space_8: nose hard cousin vessel gun belt priority exclude
+bip_39_word_space_9: nose hard cousin vessel gun belt priority exclude come
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

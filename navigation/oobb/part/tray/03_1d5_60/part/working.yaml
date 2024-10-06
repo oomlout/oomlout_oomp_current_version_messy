@@ -1,3 +1,187 @@
+bip_39_word_new_br1: rhythm
+bip_39_word_new_br10: rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence<br>sphere<br>size<br>sister<br>lava
+bip_39_word_new_br11: rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence<br>sphere<br>size<br>sister<br>lava<br>fat
+bip_39_word_new_br12: rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence<br>sphere<br>size<br>sister<br>lava<br>fat<br>alcohol
+bip_39_word_new_br2: rhythm<br>cannon
+bip_39_word_new_br3: rhythm<br>cannon<br>fine
+bip_39_word_new_br4: rhythm<br>cannon<br>fine<br>broken
+bip_39_word_new_br5: rhythm<br>cannon<br>fine<br>broken<br>close
+bip_39_word_new_br6: rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence
+bip_39_word_new_br7: rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence<br>sphere
+bip_39_word_new_br8: rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence<br>sphere<br>size
+bip_39_word_new_br9: rhythm<br>cannon<br>fine<br>broken<br>close<br>sentence<br>sphere<br>size<br>sister
+bip_39_word_new_line1: rhythm
+bip_39_word_new_line10: 'rhythm
+
+  cannon
+
+  fine
+
+  broken
+
+  close
+
+  sentence
+
+  sphere
+
+  size
+
+  sister
+
+  lava'
+bip_39_word_new_line11: 'rhythm
+
+  cannon
+
+  fine
+
+  broken
+
+  close
+
+  sentence
+
+  sphere
+
+  size
+
+  sister
+
+  lava
+
+  fat'
+bip_39_word_new_line12: 'rhythm
+
+  cannon
+
+  fine
+
+  broken
+
+  close
+
+  sentence
+
+  sphere
+
+  size
+
+  sister
+
+  lava
+
+  fat
+
+  alcohol'
+bip_39_word_new_line2: 'rhythm
+
+  cannon'
+bip_39_word_new_line3: 'rhythm
+
+  cannon
+
+  fine'
+bip_39_word_new_line4: 'rhythm
+
+  cannon
+
+  fine
+
+  broken'
+bip_39_word_new_line5: 'rhythm
+
+  cannon
+
+  fine
+
+  broken
+
+  close'
+bip_39_word_new_line6: 'rhythm
+
+  cannon
+
+  fine
+
+  broken
+
+  close
+
+  sentence'
+bip_39_word_new_line7: 'rhythm
+
+  cannon
+
+  fine
+
+  broken
+
+  close
+
+  sentence
+
+  sphere'
+bip_39_word_new_line8: 'rhythm
+
+  cannon
+
+  fine
+
+  broken
+
+  close
+
+  sentence
+
+  sphere
+
+  size'
+bip_39_word_new_line9: 'rhythm
+
+  cannon
+
+  fine
+
+  broken
+
+  close
+
+  sentence
+
+  sphere
+
+  size
+
+  sister'
+bip_39_word_space_0:
+- rhythm
+- cannon
+- fine
+- broken
+- close
+- sentence
+- sphere
+- size
+- sister
+- lava
+- fat
+- alcohol
+bip_39_word_space_1: rhythm
+bip_39_word_space_10: rhythm cannon fine broken close sentence sphere size sister
+  lava
+bip_39_word_space_11: rhythm cannon fine broken close sentence sphere size sister
+  lava fat
+bip_39_word_space_12: rhythm cannon fine broken close sentence sphere size sister
+  lava fat alcohol
+bip_39_word_space_2: rhythm cannon
+bip_39_word_space_3: rhythm cannon fine
+bip_39_word_space_4: rhythm cannon fine broken
+bip_39_word_space_5: rhythm cannon fine broken close
+bip_39_word_space_6: rhythm cannon fine broken close sentence
+bip_39_word_space_7: rhythm cannon fine broken close sentence sphere
+bip_39_word_space_8: rhythm cannon fine broken close sentence sphere size
+bip_39_word_space_9: rhythm cannon fine broken close sentence sphere size sister
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

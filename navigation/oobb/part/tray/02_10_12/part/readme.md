@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: winner student
+  * bip 39 word 3: winner student switch
+  * bip 39 word: winner student switch reform egg olympic crouch pride light right present actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | winner |  
+| bip_39_word_new_br10 | winner<br>student<br>switch<br>reform<br>egg<br>olympic<br>crouch<br>pride<br>light<br>right |  
+| bip_39_word_new_br11 | winner<br>student<br>switch<br>reform<br>egg<br>olympic<br>crouch<br>pride<br>light<br>right<br>present |  
+| bip_39_word_new_br12 | winner<br>student<br>switch<br>reform<br>egg<br>olympic<br>crouch<br>pride<br>light<br>right<br>present<br>actual |  
+| bip_39_word_new_br2 | winner<br>student |  
+| bip_39_word_new_br3 | winner<br>student<br>switch |  
+| bip_39_word_new_br4 | winner<br>student<br>switch<br>reform |  
+| bip_39_word_new_br5 | winner<br>student<br>switch<br>reform<br>egg |  
+| bip_39_word_new_br6 | winner<br>student<br>switch<br>reform<br>egg<br>olympic |  
+| bip_39_word_new_br7 | winner<br>student<br>switch<br>reform<br>egg<br>olympic<br>crouch |  
+| bip_39_word_new_br8 | winner<br>student<br>switch<br>reform<br>egg<br>olympic<br>crouch<br>pride |  
+| bip_39_word_new_br9 | winner<br>student<br>switch<br>reform<br>egg<br>olympic<br>crouch<br>pride<br>light |  
+| bip_39_word_new_line1 | winner |  
+| bip_39_word_new_line10 | winner
+student
+switch
+reform
+egg
+olympic
+crouch
+pride
+light
+right |  
+| bip_39_word_new_line11 | winner
+student
+switch
+reform
+egg
+olympic
+crouch
+pride
+light
+right
+present |  
+| bip_39_word_new_line12 | winner
+student
+switch
+reform
+egg
+olympic
+crouch
+pride
+light
+right
+present
+actual |  
+| bip_39_word_new_line2 | winner
+student |  
+| bip_39_word_new_line3 | winner
+student
+switch |  
+| bip_39_word_new_line4 | winner
+student
+switch
+reform |  
+| bip_39_word_new_line5 | winner
+student
+switch
+reform
+egg |  
+| bip_39_word_new_line6 | winner
+student
+switch
+reform
+egg
+olympic |  
+| bip_39_word_new_line7 | winner
+student
+switch
+reform
+egg
+olympic
+crouch |  
+| bip_39_word_new_line8 | winner
+student
+switch
+reform
+egg
+olympic
+crouch
+pride |  
+| bip_39_word_new_line9 | winner
+student
+switch
+reform
+egg
+olympic
+crouch
+pride
+light |  
+| bip_39_word_space_0 | ['winner', 'student', 'switch', 'reform', 'egg', 'olympic', 'crouch', 'pride', 'light', 'right', 'present', 'actual'] |  
+| bip_39_word_space_1 | winner |  
+| bip_39_word_space_10 | winner student switch reform egg olympic crouch pride light right |  
+| bip_39_word_space_11 | winner student switch reform egg olympic crouch pride light right present |  
+| bip_39_word_space_12 | winner student switch reform egg olympic crouch pride light right present actual |  
+| bip_39_word_space_2 | winner student |  
+| bip_39_word_space_3 | winner student switch |  
+| bip_39_word_space_4 | winner student switch reform |  
+| bip_39_word_space_5 | winner student switch reform egg |  
+| bip_39_word_space_6 | winner student switch reform egg olympic |  
+| bip_39_word_space_7 | winner student switch reform egg olympic crouch |  
+| bip_39_word_space_8 | winner student switch reform egg olympic crouch pride |  
+| bip_39_word_space_9 | winner student switch reform egg olympic crouch pride light |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

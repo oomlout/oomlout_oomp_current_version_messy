@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: habit pencil
+  * bip 39 word 3: habit pencil brass
+  * bip 39 word: habit pencil brass arm arrest staff oppose onion talent enemy expand asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | habit |  
+| bip_39_word_new_br10 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff<br>oppose<br>onion<br>talent<br>enemy |  
+| bip_39_word_new_br11 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff<br>oppose<br>onion<br>talent<br>enemy<br>expand |  
+| bip_39_word_new_br12 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff<br>oppose<br>onion<br>talent<br>enemy<br>expand<br>asthma |  
+| bip_39_word_new_br2 | habit<br>pencil |  
+| bip_39_word_new_br3 | habit<br>pencil<br>brass |  
+| bip_39_word_new_br4 | habit<br>pencil<br>brass<br>arm |  
+| bip_39_word_new_br5 | habit<br>pencil<br>brass<br>arm<br>arrest |  
+| bip_39_word_new_br6 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff |  
+| bip_39_word_new_br7 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff<br>oppose |  
+| bip_39_word_new_br8 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff<br>oppose<br>onion |  
+| bip_39_word_new_br9 | habit<br>pencil<br>brass<br>arm<br>arrest<br>staff<br>oppose<br>onion<br>talent |  
+| bip_39_word_new_line1 | habit |  
+| bip_39_word_new_line10 | habit
+pencil
+brass
+arm
+arrest
+staff
+oppose
+onion
+talent
+enemy |  
+| bip_39_word_new_line11 | habit
+pencil
+brass
+arm
+arrest
+staff
+oppose
+onion
+talent
+enemy
+expand |  
+| bip_39_word_new_line12 | habit
+pencil
+brass
+arm
+arrest
+staff
+oppose
+onion
+talent
+enemy
+expand
+asthma |  
+| bip_39_word_new_line2 | habit
+pencil |  
+| bip_39_word_new_line3 | habit
+pencil
+brass |  
+| bip_39_word_new_line4 | habit
+pencil
+brass
+arm |  
+| bip_39_word_new_line5 | habit
+pencil
+brass
+arm
+arrest |  
+| bip_39_word_new_line6 | habit
+pencil
+brass
+arm
+arrest
+staff |  
+| bip_39_word_new_line7 | habit
+pencil
+brass
+arm
+arrest
+staff
+oppose |  
+| bip_39_word_new_line8 | habit
+pencil
+brass
+arm
+arrest
+staff
+oppose
+onion |  
+| bip_39_word_new_line9 | habit
+pencil
+brass
+arm
+arrest
+staff
+oppose
+onion
+talent |  
+| bip_39_word_space_0 | ['habit', 'pencil', 'brass', 'arm', 'arrest', 'staff', 'oppose', 'onion', 'talent', 'enemy', 'expand', 'asthma'] |  
+| bip_39_word_space_1 | habit |  
+| bip_39_word_space_10 | habit pencil brass arm arrest staff oppose onion talent enemy |  
+| bip_39_word_space_11 | habit pencil brass arm arrest staff oppose onion talent enemy expand |  
+| bip_39_word_space_12 | habit pencil brass arm arrest staff oppose onion talent enemy expand asthma |  
+| bip_39_word_space_2 | habit pencil |  
+| bip_39_word_space_3 | habit pencil brass |  
+| bip_39_word_space_4 | habit pencil brass arm |  
+| bip_39_word_space_5 | habit pencil brass arm arrest |  
+| bip_39_word_space_6 | habit pencil brass arm arrest staff |  
+| bip_39_word_space_7 | habit pencil brass arm arrest staff oppose |  
+| bip_39_word_space_8 | habit pencil brass arm arrest staff oppose onion |  
+| bip_39_word_space_9 | habit pencil brass arm arrest staff oppose onion talent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

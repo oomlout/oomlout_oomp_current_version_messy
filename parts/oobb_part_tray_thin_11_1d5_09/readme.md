@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: follow shuffle
+  * bip 39 word 3: follow shuffle tackle
+  * bip 39 word: follow shuffle tackle slot possible castle profit hire size february exhibit aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | follow |  
+| bip_39_word_new_br10 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size<br>february |  
+| bip_39_word_new_br11 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size<br>february<br>exhibit |  
+| bip_39_word_new_br12 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size<br>february<br>exhibit<br>aerobic |  
+| bip_39_word_new_br2 | follow<br>shuffle |  
+| bip_39_word_new_br3 | follow<br>shuffle<br>tackle |  
+| bip_39_word_new_br4 | follow<br>shuffle<br>tackle<br>slot |  
+| bip_39_word_new_br5 | follow<br>shuffle<br>tackle<br>slot<br>possible |  
+| bip_39_word_new_br6 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle |  
+| bip_39_word_new_br7 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit |  
+| bip_39_word_new_br8 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire |  
+| bip_39_word_new_br9 | follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size |  
+| bip_39_word_new_line1 | follow |  
+| bip_39_word_new_line10 | follow
+shuffle
+tackle
+slot
+possible
+castle
+profit
+hire
+size
+february |  
+| bip_39_word_new_line11 | follow
+shuffle
+tackle
+slot
+possible
+castle
+profit
+hire
+size
+february
+exhibit |  
+| bip_39_word_new_line12 | follow
+shuffle
+tackle
+slot
+possible
+castle
+profit
+hire
+size
+february
+exhibit
+aerobic |  
+| bip_39_word_new_line2 | follow
+shuffle |  
+| bip_39_word_new_line3 | follow
+shuffle
+tackle |  
+| bip_39_word_new_line4 | follow
+shuffle
+tackle
+slot |  
+| bip_39_word_new_line5 | follow
+shuffle
+tackle
+slot
+possible |  
+| bip_39_word_new_line6 | follow
+shuffle
+tackle
+slot
+possible
+castle |  
+| bip_39_word_new_line7 | follow
+shuffle
+tackle
+slot
+possible
+castle
+profit |  
+| bip_39_word_new_line8 | follow
+shuffle
+tackle
+slot
+possible
+castle
+profit
+hire |  
+| bip_39_word_new_line9 | follow
+shuffle
+tackle
+slot
+possible
+castle
+profit
+hire
+size |  
+| bip_39_word_space_0 | ['follow', 'shuffle', 'tackle', 'slot', 'possible', 'castle', 'profit', 'hire', 'size', 'february', 'exhibit', 'aerobic'] |  
+| bip_39_word_space_1 | follow |  
+| bip_39_word_space_10 | follow shuffle tackle slot possible castle profit hire size february |  
+| bip_39_word_space_11 | follow shuffle tackle slot possible castle profit hire size february exhibit |  
+| bip_39_word_space_12 | follow shuffle tackle slot possible castle profit hire size february exhibit aerobic |  
+| bip_39_word_space_2 | follow shuffle |  
+| bip_39_word_space_3 | follow shuffle tackle |  
+| bip_39_word_space_4 | follow shuffle tackle slot |  
+| bip_39_word_space_5 | follow shuffle tackle slot possible |  
+| bip_39_word_space_6 | follow shuffle tackle slot possible castle |  
+| bip_39_word_space_7 | follow shuffle tackle slot possible castle profit |  
+| bip_39_word_space_8 | follow shuffle tackle slot possible castle profit hire |  
+| bip_39_word_space_9 | follow shuffle tackle slot possible castle profit hire size |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gauge tip
+  * bip 39 word 3: gauge tip hurt
+  * bip 39 word: gauge tip hurt almost suffer century jump raccoon grocery quote nothing abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gauge |  
+| bip_39_word_new_br10 | gauge<br>tip<br>hurt<br>almost<br>suffer<br>century<br>jump<br>raccoon<br>grocery<br>quote |  
+| bip_39_word_new_br11 | gauge<br>tip<br>hurt<br>almost<br>suffer<br>century<br>jump<br>raccoon<br>grocery<br>quote<br>nothing |  
+| bip_39_word_new_br12 | gauge<br>tip<br>hurt<br>almost<br>suffer<br>century<br>jump<br>raccoon<br>grocery<br>quote<br>nothing<br>abstract |  
+| bip_39_word_new_br2 | gauge<br>tip |  
+| bip_39_word_new_br3 | gauge<br>tip<br>hurt |  
+| bip_39_word_new_br4 | gauge<br>tip<br>hurt<br>almost |  
+| bip_39_word_new_br5 | gauge<br>tip<br>hurt<br>almost<br>suffer |  
+| bip_39_word_new_br6 | gauge<br>tip<br>hurt<br>almost<br>suffer<br>century |  
+| bip_39_word_new_br7 | gauge<br>tip<br>hurt<br>almost<br>suffer<br>century<br>jump |  
+| bip_39_word_new_br8 | gauge<br>tip<br>hurt<br>almost<br>suffer<br>century<br>jump<br>raccoon |  
+| bip_39_word_new_br9 | gauge<br>tip<br>hurt<br>almost<br>suffer<br>century<br>jump<br>raccoon<br>grocery |  
+| bip_39_word_new_line1 | gauge |  
+| bip_39_word_new_line10 | gauge
+tip
+hurt
+almost
+suffer
+century
+jump
+raccoon
+grocery
+quote |  
+| bip_39_word_new_line11 | gauge
+tip
+hurt
+almost
+suffer
+century
+jump
+raccoon
+grocery
+quote
+nothing |  
+| bip_39_word_new_line12 | gauge
+tip
+hurt
+almost
+suffer
+century
+jump
+raccoon
+grocery
+quote
+nothing
+abstract |  
+| bip_39_word_new_line2 | gauge
+tip |  
+| bip_39_word_new_line3 | gauge
+tip
+hurt |  
+| bip_39_word_new_line4 | gauge
+tip
+hurt
+almost |  
+| bip_39_word_new_line5 | gauge
+tip
+hurt
+almost
+suffer |  
+| bip_39_word_new_line6 | gauge
+tip
+hurt
+almost
+suffer
+century |  
+| bip_39_word_new_line7 | gauge
+tip
+hurt
+almost
+suffer
+century
+jump |  
+| bip_39_word_new_line8 | gauge
+tip
+hurt
+almost
+suffer
+century
+jump
+raccoon |  
+| bip_39_word_new_line9 | gauge
+tip
+hurt
+almost
+suffer
+century
+jump
+raccoon
+grocery |  
+| bip_39_word_space_0 | ['gauge', 'tip', 'hurt', 'almost', 'suffer', 'century', 'jump', 'raccoon', 'grocery', 'quote', 'nothing', 'abstract'] |  
+| bip_39_word_space_1 | gauge |  
+| bip_39_word_space_10 | gauge tip hurt almost suffer century jump raccoon grocery quote |  
+| bip_39_word_space_11 | gauge tip hurt almost suffer century jump raccoon grocery quote nothing |  
+| bip_39_word_space_12 | gauge tip hurt almost suffer century jump raccoon grocery quote nothing abstract |  
+| bip_39_word_space_2 | gauge tip |  
+| bip_39_word_space_3 | gauge tip hurt |  
+| bip_39_word_space_4 | gauge tip hurt almost |  
+| bip_39_word_space_5 | gauge tip hurt almost suffer |  
+| bip_39_word_space_6 | gauge tip hurt almost suffer century |  
+| bip_39_word_space_7 | gauge tip hurt almost suffer century jump |  
+| bip_39_word_space_8 | gauge tip hurt almost suffer century jump raccoon |  
+| bip_39_word_space_9 | gauge tip hurt almost suffer century jump raccoon grocery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

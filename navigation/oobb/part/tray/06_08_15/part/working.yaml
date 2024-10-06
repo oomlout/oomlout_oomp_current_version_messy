@@ -1,3 +1,186 @@
+bip_39_word_new_br1: media
+bip_39_word_new_br10: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park
+bip_39_word_new_br11: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park<br>romance
+bip_39_word_new_br12: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater<br>park<br>romance<br>attitude
+bip_39_word_new_br2: media<br>bronze
+bip_39_word_new_br3: media<br>bronze<br>wrong
+bip_39_word_new_br4: media<br>bronze<br>wrong<br>salon
+bip_39_word_new_br5: media<br>bronze<br>wrong<br>salon<br>stove
+bip_39_word_new_br6: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee
+bip_39_word_new_br7: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since
+bip_39_word_new_br8: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state
+bip_39_word_new_br9: media<br>bronze<br>wrong<br>salon<br>stove<br>nominee<br>since<br>state<br>crater
+bip_39_word_new_line1: media
+bip_39_word_new_line10: 'media
+
+  bronze
+
+  wrong
+
+  salon
+
+  stove
+
+  nominee
+
+  since
+
+  state
+
+  crater
+
+  park'
+bip_39_word_new_line11: 'media
+
+  bronze
+
+  wrong
+
+  salon
+
+  stove
+
+  nominee
+
+  since
+
+  state
+
+  crater
+
+  park
+
+  romance'
+bip_39_word_new_line12: 'media
+
+  bronze
+
+  wrong
+
+  salon
+
+  stove
+
+  nominee
+
+  since
+
+  state
+
+  crater
+
+  park
+
+  romance
+
+  attitude'
+bip_39_word_new_line2: 'media
+
+  bronze'
+bip_39_word_new_line3: 'media
+
+  bronze
+
+  wrong'
+bip_39_word_new_line4: 'media
+
+  bronze
+
+  wrong
+
+  salon'
+bip_39_word_new_line5: 'media
+
+  bronze
+
+  wrong
+
+  salon
+
+  stove'
+bip_39_word_new_line6: 'media
+
+  bronze
+
+  wrong
+
+  salon
+
+  stove
+
+  nominee'
+bip_39_word_new_line7: 'media
+
+  bronze
+
+  wrong
+
+  salon
+
+  stove
+
+  nominee
+
+  since'
+bip_39_word_new_line8: 'media
+
+  bronze
+
+  wrong
+
+  salon
+
+  stove
+
+  nominee
+
+  since
+
+  state'
+bip_39_word_new_line9: 'media
+
+  bronze
+
+  wrong
+
+  salon
+
+  stove
+
+  nominee
+
+  since
+
+  state
+
+  crater'
+bip_39_word_space_0:
+- media
+- bronze
+- wrong
+- salon
+- stove
+- nominee
+- since
+- state
+- crater
+- park
+- romance
+- attitude
+bip_39_word_space_1: media
+bip_39_word_space_10: media bronze wrong salon stove nominee since state crater park
+bip_39_word_space_11: media bronze wrong salon stove nominee since state crater park
+  romance
+bip_39_word_space_12: media bronze wrong salon stove nominee since state crater park
+  romance attitude
+bip_39_word_space_2: media bronze
+bip_39_word_space_3: media bronze wrong
+bip_39_word_space_4: media bronze wrong salon
+bip_39_word_space_5: media bronze wrong salon stove
+bip_39_word_space_6: media bronze wrong salon stove nominee
+bip_39_word_space_7: media bronze wrong salon stove nominee since
+bip_39_word_space_8: media bronze wrong salon stove nominee since state
+bip_39_word_space_9: media bronze wrong salon stove nominee since state crater
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

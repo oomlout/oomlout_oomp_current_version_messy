@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soccer result
+  * bip 39 word 3: soccer result proud
+  * bip 39 word: soccer result proud stable brass surface family silk fall kiwi clay aim
 
 ### other_codes
 * short_code: b6m35
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soccer |  
+| bip_39_word_new_br10 | soccer<br>result<br>proud<br>stable<br>brass<br>surface<br>family<br>silk<br>fall<br>kiwi |  
+| bip_39_word_new_br11 | soccer<br>result<br>proud<br>stable<br>brass<br>surface<br>family<br>silk<br>fall<br>kiwi<br>clay |  
+| bip_39_word_new_br12 | soccer<br>result<br>proud<br>stable<br>brass<br>surface<br>family<br>silk<br>fall<br>kiwi<br>clay<br>aim |  
+| bip_39_word_new_br2 | soccer<br>result |  
+| bip_39_word_new_br3 | soccer<br>result<br>proud |  
+| bip_39_word_new_br4 | soccer<br>result<br>proud<br>stable |  
+| bip_39_word_new_br5 | soccer<br>result<br>proud<br>stable<br>brass |  
+| bip_39_word_new_br6 | soccer<br>result<br>proud<br>stable<br>brass<br>surface |  
+| bip_39_word_new_br7 | soccer<br>result<br>proud<br>stable<br>brass<br>surface<br>family |  
+| bip_39_word_new_br8 | soccer<br>result<br>proud<br>stable<br>brass<br>surface<br>family<br>silk |  
+| bip_39_word_new_br9 | soccer<br>result<br>proud<br>stable<br>brass<br>surface<br>family<br>silk<br>fall |  
+| bip_39_word_new_line1 | soccer |  
+| bip_39_word_new_line10 | soccer
+result
+proud
+stable
+brass
+surface
+family
+silk
+fall
+kiwi |  
+| bip_39_word_new_line11 | soccer
+result
+proud
+stable
+brass
+surface
+family
+silk
+fall
+kiwi
+clay |  
+| bip_39_word_new_line12 | soccer
+result
+proud
+stable
+brass
+surface
+family
+silk
+fall
+kiwi
+clay
+aim |  
+| bip_39_word_new_line2 | soccer
+result |  
+| bip_39_word_new_line3 | soccer
+result
+proud |  
+| bip_39_word_new_line4 | soccer
+result
+proud
+stable |  
+| bip_39_word_new_line5 | soccer
+result
+proud
+stable
+brass |  
+| bip_39_word_new_line6 | soccer
+result
+proud
+stable
+brass
+surface |  
+| bip_39_word_new_line7 | soccer
+result
+proud
+stable
+brass
+surface
+family |  
+| bip_39_word_new_line8 | soccer
+result
+proud
+stable
+brass
+surface
+family
+silk |  
+| bip_39_word_new_line9 | soccer
+result
+proud
+stable
+brass
+surface
+family
+silk
+fall |  
+| bip_39_word_space_0 | ['soccer', 'result', 'proud', 'stable', 'brass', 'surface', 'family', 'silk', 'fall', 'kiwi', 'clay', 'aim'] |  
+| bip_39_word_space_1 | soccer |  
+| bip_39_word_space_10 | soccer result proud stable brass surface family silk fall kiwi |  
+| bip_39_word_space_11 | soccer result proud stable brass surface family silk fall kiwi clay |  
+| bip_39_word_space_12 | soccer result proud stable brass surface family silk fall kiwi clay aim |  
+| bip_39_word_space_2 | soccer result |  
+| bip_39_word_space_3 | soccer result proud |  
+| bip_39_word_space_4 | soccer result proud stable |  
+| bip_39_word_space_5 | soccer result proud stable brass |  
+| bip_39_word_space_6 | soccer result proud stable brass surface |  
+| bip_39_word_space_7 | soccer result proud stable brass surface family |  
+| bip_39_word_space_8 | soccer result proud stable brass surface family silk |  
+| bip_39_word_space_9 | soccer result proud stable brass surface family silk fall |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

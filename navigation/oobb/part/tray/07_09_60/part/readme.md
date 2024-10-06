@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: once purity
+  * bip 39 word 3: once purity frown
+  * bip 39 word: once purity frown celery connect finish gravity finish leave head direct about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | once |  
+| bip_39_word_new_br10 | once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head |  
+| bip_39_word_new_br11 | once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head<br>direct |  
+| bip_39_word_new_br12 | once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave<br>head<br>direct<br>about |  
+| bip_39_word_new_br2 | once<br>purity |  
+| bip_39_word_new_br3 | once<br>purity<br>frown |  
+| bip_39_word_new_br4 | once<br>purity<br>frown<br>celery |  
+| bip_39_word_new_br5 | once<br>purity<br>frown<br>celery<br>connect |  
+| bip_39_word_new_br6 | once<br>purity<br>frown<br>celery<br>connect<br>finish |  
+| bip_39_word_new_br7 | once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity |  
+| bip_39_word_new_br8 | once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish |  
+| bip_39_word_new_br9 | once<br>purity<br>frown<br>celery<br>connect<br>finish<br>gravity<br>finish<br>leave |  
+| bip_39_word_new_line1 | once |  
+| bip_39_word_new_line10 | once
+purity
+frown
+celery
+connect
+finish
+gravity
+finish
+leave
+head |  
+| bip_39_word_new_line11 | once
+purity
+frown
+celery
+connect
+finish
+gravity
+finish
+leave
+head
+direct |  
+| bip_39_word_new_line12 | once
+purity
+frown
+celery
+connect
+finish
+gravity
+finish
+leave
+head
+direct
+about |  
+| bip_39_word_new_line2 | once
+purity |  
+| bip_39_word_new_line3 | once
+purity
+frown |  
+| bip_39_word_new_line4 | once
+purity
+frown
+celery |  
+| bip_39_word_new_line5 | once
+purity
+frown
+celery
+connect |  
+| bip_39_word_new_line6 | once
+purity
+frown
+celery
+connect
+finish |  
+| bip_39_word_new_line7 | once
+purity
+frown
+celery
+connect
+finish
+gravity |  
+| bip_39_word_new_line8 | once
+purity
+frown
+celery
+connect
+finish
+gravity
+finish |  
+| bip_39_word_new_line9 | once
+purity
+frown
+celery
+connect
+finish
+gravity
+finish
+leave |  
+| bip_39_word_space_0 | ['once', 'purity', 'frown', 'celery', 'connect', 'finish', 'gravity', 'finish', 'leave', 'head', 'direct', 'about'] |  
+| bip_39_word_space_1 | once |  
+| bip_39_word_space_10 | once purity frown celery connect finish gravity finish leave head |  
+| bip_39_word_space_11 | once purity frown celery connect finish gravity finish leave head direct |  
+| bip_39_word_space_12 | once purity frown celery connect finish gravity finish leave head direct about |  
+| bip_39_word_space_2 | once purity |  
+| bip_39_word_space_3 | once purity frown |  
+| bip_39_word_space_4 | once purity frown celery |  
+| bip_39_word_space_5 | once purity frown celery connect |  
+| bip_39_word_space_6 | once purity frown celery connect finish |  
+| bip_39_word_space_7 | once purity frown celery connect finish gravity |  
+| bip_39_word_space_8 | once purity frown celery connect finish gravity finish |  
+| bip_39_word_space_9 | once purity frown celery connect finish gravity finish leave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

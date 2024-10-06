@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3_pole
   * manufacturer: wago
   * part_number: 221_413
+  * bip 39 word 2: resemble success
+  * bip 39 word 3: resemble success define
+  * bip 39 word: resemble success define liar ostrich drill cup put exclude material people auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resemble |  
+| bip_39_word_new_br10 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material |  
+| bip_39_word_new_br11 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material<br>people |  
+| bip_39_word_new_br12 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude<br>material<br>people<br>auto |  
+| bip_39_word_new_br2 | resemble<br>success |  
+| bip_39_word_new_br3 | resemble<br>success<br>define |  
+| bip_39_word_new_br4 | resemble<br>success<br>define<br>liar |  
+| bip_39_word_new_br5 | resemble<br>success<br>define<br>liar<br>ostrich |  
+| bip_39_word_new_br6 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill |  
+| bip_39_word_new_br7 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup |  
+| bip_39_word_new_br8 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put |  
+| bip_39_word_new_br9 | resemble<br>success<br>define<br>liar<br>ostrich<br>drill<br>cup<br>put<br>exclude |  
+| bip_39_word_new_line1 | resemble |  
+| bip_39_word_new_line10 | resemble
+success
+define
+liar
+ostrich
+drill
+cup
+put
+exclude
+material |  
+| bip_39_word_new_line11 | resemble
+success
+define
+liar
+ostrich
+drill
+cup
+put
+exclude
+material
+people |  
+| bip_39_word_new_line12 | resemble
+success
+define
+liar
+ostrich
+drill
+cup
+put
+exclude
+material
+people
+auto |  
+| bip_39_word_new_line2 | resemble
+success |  
+| bip_39_word_new_line3 | resemble
+success
+define |  
+| bip_39_word_new_line4 | resemble
+success
+define
+liar |  
+| bip_39_word_new_line5 | resemble
+success
+define
+liar
+ostrich |  
+| bip_39_word_new_line6 | resemble
+success
+define
+liar
+ostrich
+drill |  
+| bip_39_word_new_line7 | resemble
+success
+define
+liar
+ostrich
+drill
+cup |  
+| bip_39_word_new_line8 | resemble
+success
+define
+liar
+ostrich
+drill
+cup
+put |  
+| bip_39_word_new_line9 | resemble
+success
+define
+liar
+ostrich
+drill
+cup
+put
+exclude |  
+| bip_39_word_space_0 | ['resemble', 'success', 'define', 'liar', 'ostrich', 'drill', 'cup', 'put', 'exclude', 'material', 'people', 'auto'] |  
+| bip_39_word_space_1 | resemble |  
+| bip_39_word_space_10 | resemble success define liar ostrich drill cup put exclude material |  
+| bip_39_word_space_11 | resemble success define liar ostrich drill cup put exclude material people |  
+| bip_39_word_space_12 | resemble success define liar ostrich drill cup put exclude material people auto |  
+| bip_39_word_space_2 | resemble success |  
+| bip_39_word_space_3 | resemble success define |  
+| bip_39_word_space_4 | resemble success define liar |  
+| bip_39_word_space_5 | resemble success define liar ostrich |  
+| bip_39_word_space_6 | resemble success define liar ostrich drill |  
+| bip_39_word_space_7 | resemble success define liar ostrich drill cup |  
+| bip_39_word_space_8 | resemble success define liar ostrich drill cup put |  
+| bip_39_word_space_9 | resemble success define liar ostrich drill cup put exclude |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

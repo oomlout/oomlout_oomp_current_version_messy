@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chalk renew
+  * bip 39 word 3: chalk renew sustain
+  * bip 39 word: chalk renew sustain assist usual notable swing firm gorilla nation lucky assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chalk |  
+| bip_39_word_new_br10 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable<br>swing<br>firm<br>gorilla<br>nation |  
+| bip_39_word_new_br11 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable<br>swing<br>firm<br>gorilla<br>nation<br>lucky |  
+| bip_39_word_new_br12 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable<br>swing<br>firm<br>gorilla<br>nation<br>lucky<br>assault |  
+| bip_39_word_new_br2 | chalk<br>renew |  
+| bip_39_word_new_br3 | chalk<br>renew<br>sustain |  
+| bip_39_word_new_br4 | chalk<br>renew<br>sustain<br>assist |  
+| bip_39_word_new_br5 | chalk<br>renew<br>sustain<br>assist<br>usual |  
+| bip_39_word_new_br6 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable |  
+| bip_39_word_new_br7 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable<br>swing |  
+| bip_39_word_new_br8 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable<br>swing<br>firm |  
+| bip_39_word_new_br9 | chalk<br>renew<br>sustain<br>assist<br>usual<br>notable<br>swing<br>firm<br>gorilla |  
+| bip_39_word_new_line1 | chalk |  
+| bip_39_word_new_line10 | chalk
+renew
+sustain
+assist
+usual
+notable
+swing
+firm
+gorilla
+nation |  
+| bip_39_word_new_line11 | chalk
+renew
+sustain
+assist
+usual
+notable
+swing
+firm
+gorilla
+nation
+lucky |  
+| bip_39_word_new_line12 | chalk
+renew
+sustain
+assist
+usual
+notable
+swing
+firm
+gorilla
+nation
+lucky
+assault |  
+| bip_39_word_new_line2 | chalk
+renew |  
+| bip_39_word_new_line3 | chalk
+renew
+sustain |  
+| bip_39_word_new_line4 | chalk
+renew
+sustain
+assist |  
+| bip_39_word_new_line5 | chalk
+renew
+sustain
+assist
+usual |  
+| bip_39_word_new_line6 | chalk
+renew
+sustain
+assist
+usual
+notable |  
+| bip_39_word_new_line7 | chalk
+renew
+sustain
+assist
+usual
+notable
+swing |  
+| bip_39_word_new_line8 | chalk
+renew
+sustain
+assist
+usual
+notable
+swing
+firm |  
+| bip_39_word_new_line9 | chalk
+renew
+sustain
+assist
+usual
+notable
+swing
+firm
+gorilla |  
+| bip_39_word_space_0 | ['chalk', 'renew', 'sustain', 'assist', 'usual', 'notable', 'swing', 'firm', 'gorilla', 'nation', 'lucky', 'assault'] |  
+| bip_39_word_space_1 | chalk |  
+| bip_39_word_space_10 | chalk renew sustain assist usual notable swing firm gorilla nation |  
+| bip_39_word_space_11 | chalk renew sustain assist usual notable swing firm gorilla nation lucky |  
+| bip_39_word_space_12 | chalk renew sustain assist usual notable swing firm gorilla nation lucky assault |  
+| bip_39_word_space_2 | chalk renew |  
+| bip_39_word_space_3 | chalk renew sustain |  
+| bip_39_word_space_4 | chalk renew sustain assist |  
+| bip_39_word_space_5 | chalk renew sustain assist usual |  
+| bip_39_word_space_6 | chalk renew sustain assist usual notable |  
+| bip_39_word_space_7 | chalk renew sustain assist usual notable swing |  
+| bip_39_word_space_8 | chalk renew sustain assist usual notable swing firm |  
+| bip_39_word_space_9 | chalk renew sustain assist usual notable swing firm gorilla |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

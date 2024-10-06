@@ -1,3 +1,186 @@
+bip_39_word_new_br1: age
+bip_39_word_new_br10: age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt
+bip_39_word_new_br11: age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt<br>athlete
+bip_39_word_new_br12: age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault<br>hunt<br>athlete<br>alpha
+bip_39_word_new_br2: age<br>slender
+bip_39_word_new_br3: age<br>slender<br>muffin
+bip_39_word_new_br4: age<br>slender<br>muffin<br>roof
+bip_39_word_new_br5: age<br>slender<br>muffin<br>roof<br>stay
+bip_39_word_new_br6: age<br>slender<br>muffin<br>roof<br>stay<br>blue
+bip_39_word_new_br7: age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple
+bip_39_word_new_br8: age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion
+bip_39_word_new_br9: age<br>slender<br>muffin<br>roof<br>stay<br>blue<br>topple<br>opinion<br>fault
+bip_39_word_new_line1: age
+bip_39_word_new_line10: 'age
+
+  slender
+
+  muffin
+
+  roof
+
+  stay
+
+  blue
+
+  topple
+
+  opinion
+
+  fault
+
+  hunt'
+bip_39_word_new_line11: 'age
+
+  slender
+
+  muffin
+
+  roof
+
+  stay
+
+  blue
+
+  topple
+
+  opinion
+
+  fault
+
+  hunt
+
+  athlete'
+bip_39_word_new_line12: 'age
+
+  slender
+
+  muffin
+
+  roof
+
+  stay
+
+  blue
+
+  topple
+
+  opinion
+
+  fault
+
+  hunt
+
+  athlete
+
+  alpha'
+bip_39_word_new_line2: 'age
+
+  slender'
+bip_39_word_new_line3: 'age
+
+  slender
+
+  muffin'
+bip_39_word_new_line4: 'age
+
+  slender
+
+  muffin
+
+  roof'
+bip_39_word_new_line5: 'age
+
+  slender
+
+  muffin
+
+  roof
+
+  stay'
+bip_39_word_new_line6: 'age
+
+  slender
+
+  muffin
+
+  roof
+
+  stay
+
+  blue'
+bip_39_word_new_line7: 'age
+
+  slender
+
+  muffin
+
+  roof
+
+  stay
+
+  blue
+
+  topple'
+bip_39_word_new_line8: 'age
+
+  slender
+
+  muffin
+
+  roof
+
+  stay
+
+  blue
+
+  topple
+
+  opinion'
+bip_39_word_new_line9: 'age
+
+  slender
+
+  muffin
+
+  roof
+
+  stay
+
+  blue
+
+  topple
+
+  opinion
+
+  fault'
+bip_39_word_space_0:
+- age
+- slender
+- muffin
+- roof
+- stay
+- blue
+- topple
+- opinion
+- fault
+- hunt
+- athlete
+- alpha
+bip_39_word_space_1: age
+bip_39_word_space_10: age slender muffin roof stay blue topple opinion fault hunt
+bip_39_word_space_11: age slender muffin roof stay blue topple opinion fault hunt
+  athlete
+bip_39_word_space_12: age slender muffin roof stay blue topple opinion fault hunt
+  athlete alpha
+bip_39_word_space_2: age slender
+bip_39_word_space_3: age slender muffin
+bip_39_word_space_4: age slender muffin roof
+bip_39_word_space_5: age slender muffin roof stay
+bip_39_word_space_6: age slender muffin roof stay blue
+bip_39_word_space_7: age slender muffin roof stay blue topple
+bip_39_word_space_8: age slender muffin roof stay blue topple opinion
+bip_39_word_space_9: age slender muffin roof stay blue topple opinion fault
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

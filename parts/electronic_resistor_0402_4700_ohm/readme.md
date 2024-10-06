@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inherit reunion
+  * bip 39 word 3: inherit reunion rude
+  * bip 39 word: inherit reunion rude chimney suspect north caution solid include sport upgrade area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inherit |  
+| bip_39_word_new_br10 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include<br>sport |  
+| bip_39_word_new_br11 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include<br>sport<br>upgrade |  
+| bip_39_word_new_br12 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include<br>sport<br>upgrade<br>area |  
+| bip_39_word_new_br2 | inherit<br>reunion |  
+| bip_39_word_new_br3 | inherit<br>reunion<br>rude |  
+| bip_39_word_new_br4 | inherit<br>reunion<br>rude<br>chimney |  
+| bip_39_word_new_br5 | inherit<br>reunion<br>rude<br>chimney<br>suspect |  
+| bip_39_word_new_br6 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north |  
+| bip_39_word_new_br7 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution |  
+| bip_39_word_new_br8 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid |  
+| bip_39_word_new_br9 | inherit<br>reunion<br>rude<br>chimney<br>suspect<br>north<br>caution<br>solid<br>include |  
+| bip_39_word_new_line1 | inherit |  
+| bip_39_word_new_line10 | inherit
+reunion
+rude
+chimney
+suspect
+north
+caution
+solid
+include
+sport |  
+| bip_39_word_new_line11 | inherit
+reunion
+rude
+chimney
+suspect
+north
+caution
+solid
+include
+sport
+upgrade |  
+| bip_39_word_new_line12 | inherit
+reunion
+rude
+chimney
+suspect
+north
+caution
+solid
+include
+sport
+upgrade
+area |  
+| bip_39_word_new_line2 | inherit
+reunion |  
+| bip_39_word_new_line3 | inherit
+reunion
+rude |  
+| bip_39_word_new_line4 | inherit
+reunion
+rude
+chimney |  
+| bip_39_word_new_line5 | inherit
+reunion
+rude
+chimney
+suspect |  
+| bip_39_word_new_line6 | inherit
+reunion
+rude
+chimney
+suspect
+north |  
+| bip_39_word_new_line7 | inherit
+reunion
+rude
+chimney
+suspect
+north
+caution |  
+| bip_39_word_new_line8 | inherit
+reunion
+rude
+chimney
+suspect
+north
+caution
+solid |  
+| bip_39_word_new_line9 | inherit
+reunion
+rude
+chimney
+suspect
+north
+caution
+solid
+include |  
+| bip_39_word_space_0 | ['inherit', 'reunion', 'rude', 'chimney', 'suspect', 'north', 'caution', 'solid', 'include', 'sport', 'upgrade', 'area'] |  
+| bip_39_word_space_1 | inherit |  
+| bip_39_word_space_10 | inherit reunion rude chimney suspect north caution solid include sport |  
+| bip_39_word_space_11 | inherit reunion rude chimney suspect north caution solid include sport upgrade |  
+| bip_39_word_space_12 | inherit reunion rude chimney suspect north caution solid include sport upgrade area |  
+| bip_39_word_space_2 | inherit reunion |  
+| bip_39_word_space_3 | inherit reunion rude |  
+| bip_39_word_space_4 | inherit reunion rude chimney |  
+| bip_39_word_space_5 | inherit reunion rude chimney suspect |  
+| bip_39_word_space_6 | inherit reunion rude chimney suspect north |  
+| bip_39_word_space_7 | inherit reunion rude chimney suspect north caution |  
+| bip_39_word_space_8 | inherit reunion rude chimney suspect north caution solid |  
+| bip_39_word_space_9 | inherit reunion rude chimney suspect north caution solid include |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

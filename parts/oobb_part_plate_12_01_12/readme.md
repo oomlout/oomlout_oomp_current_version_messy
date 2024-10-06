@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: noble amateur
+  * bip 39 word 3: noble amateur rely
+  * bip 39 word: noble amateur rely giggle proud kitchen custom visual entire taxi tower actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | noble |  
+| bip_39_word_new_br10 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen<br>custom<br>visual<br>entire<br>taxi |  
+| bip_39_word_new_br11 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen<br>custom<br>visual<br>entire<br>taxi<br>tower |  
+| bip_39_word_new_br12 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen<br>custom<br>visual<br>entire<br>taxi<br>tower<br>actor |  
+| bip_39_word_new_br2 | noble<br>amateur |  
+| bip_39_word_new_br3 | noble<br>amateur<br>rely |  
+| bip_39_word_new_br4 | noble<br>amateur<br>rely<br>giggle |  
+| bip_39_word_new_br5 | noble<br>amateur<br>rely<br>giggle<br>proud |  
+| bip_39_word_new_br6 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen |  
+| bip_39_word_new_br7 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen<br>custom |  
+| bip_39_word_new_br8 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen<br>custom<br>visual |  
+| bip_39_word_new_br9 | noble<br>amateur<br>rely<br>giggle<br>proud<br>kitchen<br>custom<br>visual<br>entire |  
+| bip_39_word_new_line1 | noble |  
+| bip_39_word_new_line10 | noble
+amateur
+rely
+giggle
+proud
+kitchen
+custom
+visual
+entire
+taxi |  
+| bip_39_word_new_line11 | noble
+amateur
+rely
+giggle
+proud
+kitchen
+custom
+visual
+entire
+taxi
+tower |  
+| bip_39_word_new_line12 | noble
+amateur
+rely
+giggle
+proud
+kitchen
+custom
+visual
+entire
+taxi
+tower
+actor |  
+| bip_39_word_new_line2 | noble
+amateur |  
+| bip_39_word_new_line3 | noble
+amateur
+rely |  
+| bip_39_word_new_line4 | noble
+amateur
+rely
+giggle |  
+| bip_39_word_new_line5 | noble
+amateur
+rely
+giggle
+proud |  
+| bip_39_word_new_line6 | noble
+amateur
+rely
+giggle
+proud
+kitchen |  
+| bip_39_word_new_line7 | noble
+amateur
+rely
+giggle
+proud
+kitchen
+custom |  
+| bip_39_word_new_line8 | noble
+amateur
+rely
+giggle
+proud
+kitchen
+custom
+visual |  
+| bip_39_word_new_line9 | noble
+amateur
+rely
+giggle
+proud
+kitchen
+custom
+visual
+entire |  
+| bip_39_word_space_0 | ['noble', 'amateur', 'rely', 'giggle', 'proud', 'kitchen', 'custom', 'visual', 'entire', 'taxi', 'tower', 'actor'] |  
+| bip_39_word_space_1 | noble |  
+| bip_39_word_space_10 | noble amateur rely giggle proud kitchen custom visual entire taxi |  
+| bip_39_word_space_11 | noble amateur rely giggle proud kitchen custom visual entire taxi tower |  
+| bip_39_word_space_12 | noble amateur rely giggle proud kitchen custom visual entire taxi tower actor |  
+| bip_39_word_space_2 | noble amateur |  
+| bip_39_word_space_3 | noble amateur rely |  
+| bip_39_word_space_4 | noble amateur rely giggle |  
+| bip_39_word_space_5 | noble amateur rely giggle proud |  
+| bip_39_word_space_6 | noble amateur rely giggle proud kitchen |  
+| bip_39_word_space_7 | noble amateur rely giggle proud kitchen custom |  
+| bip_39_word_space_8 | noble amateur rely giggle proud kitchen custom visual |  
+| bip_39_word_space_9 | noble amateur rely giggle proud kitchen custom visual entire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

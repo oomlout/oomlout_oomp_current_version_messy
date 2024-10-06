@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: play hero
+  * bip 39 word 3: play hero sand
+  * bip 39 word: play hero sand demand fee mass trade flush leisure nest stumble ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | play |  
+| bip_39_word_new_br10 | play<br>hero<br>sand<br>demand<br>fee<br>mass<br>trade<br>flush<br>leisure<br>nest |  
+| bip_39_word_new_br11 | play<br>hero<br>sand<br>demand<br>fee<br>mass<br>trade<br>flush<br>leisure<br>nest<br>stumble |  
+| bip_39_word_new_br12 | play<br>hero<br>sand<br>demand<br>fee<br>mass<br>trade<br>flush<br>leisure<br>nest<br>stumble<br>ancient |  
+| bip_39_word_new_br2 | play<br>hero |  
+| bip_39_word_new_br3 | play<br>hero<br>sand |  
+| bip_39_word_new_br4 | play<br>hero<br>sand<br>demand |  
+| bip_39_word_new_br5 | play<br>hero<br>sand<br>demand<br>fee |  
+| bip_39_word_new_br6 | play<br>hero<br>sand<br>demand<br>fee<br>mass |  
+| bip_39_word_new_br7 | play<br>hero<br>sand<br>demand<br>fee<br>mass<br>trade |  
+| bip_39_word_new_br8 | play<br>hero<br>sand<br>demand<br>fee<br>mass<br>trade<br>flush |  
+| bip_39_word_new_br9 | play<br>hero<br>sand<br>demand<br>fee<br>mass<br>trade<br>flush<br>leisure |  
+| bip_39_word_new_line1 | play |  
+| bip_39_word_new_line10 | play
+hero
+sand
+demand
+fee
+mass
+trade
+flush
+leisure
+nest |  
+| bip_39_word_new_line11 | play
+hero
+sand
+demand
+fee
+mass
+trade
+flush
+leisure
+nest
+stumble |  
+| bip_39_word_new_line12 | play
+hero
+sand
+demand
+fee
+mass
+trade
+flush
+leisure
+nest
+stumble
+ancient |  
+| bip_39_word_new_line2 | play
+hero |  
+| bip_39_word_new_line3 | play
+hero
+sand |  
+| bip_39_word_new_line4 | play
+hero
+sand
+demand |  
+| bip_39_word_new_line5 | play
+hero
+sand
+demand
+fee |  
+| bip_39_word_new_line6 | play
+hero
+sand
+demand
+fee
+mass |  
+| bip_39_word_new_line7 | play
+hero
+sand
+demand
+fee
+mass
+trade |  
+| bip_39_word_new_line8 | play
+hero
+sand
+demand
+fee
+mass
+trade
+flush |  
+| bip_39_word_new_line9 | play
+hero
+sand
+demand
+fee
+mass
+trade
+flush
+leisure |  
+| bip_39_word_space_0 | ['play', 'hero', 'sand', 'demand', 'fee', 'mass', 'trade', 'flush', 'leisure', 'nest', 'stumble', 'ancient'] |  
+| bip_39_word_space_1 | play |  
+| bip_39_word_space_10 | play hero sand demand fee mass trade flush leisure nest |  
+| bip_39_word_space_11 | play hero sand demand fee mass trade flush leisure nest stumble |  
+| bip_39_word_space_12 | play hero sand demand fee mass trade flush leisure nest stumble ancient |  
+| bip_39_word_space_2 | play hero |  
+| bip_39_word_space_3 | play hero sand |  
+| bip_39_word_space_4 | play hero sand demand |  
+| bip_39_word_space_5 | play hero sand demand fee |  
+| bip_39_word_space_6 | play hero sand demand fee mass |  
+| bip_39_word_space_7 | play hero sand demand fee mass trade |  
+| bip_39_word_space_8 | play hero sand demand fee mass trade flush |  
+| bip_39_word_space_9 | play hero sand demand fee mass trade flush leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

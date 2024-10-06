@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: object flush
+  * bip 39 word 3: object flush prefer
+  * bip 39 word: object flush prefer ceiling wrist position runway logic alter royal silver ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | object |  
+| bip_39_word_new_br10 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position<br>runway<br>logic<br>alter<br>royal |  
+| bip_39_word_new_br11 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position<br>runway<br>logic<br>alter<br>royal<br>silver |  
+| bip_39_word_new_br12 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position<br>runway<br>logic<br>alter<br>royal<br>silver<br>ahead |  
+| bip_39_word_new_br2 | object<br>flush |  
+| bip_39_word_new_br3 | object<br>flush<br>prefer |  
+| bip_39_word_new_br4 | object<br>flush<br>prefer<br>ceiling |  
+| bip_39_word_new_br5 | object<br>flush<br>prefer<br>ceiling<br>wrist |  
+| bip_39_word_new_br6 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position |  
+| bip_39_word_new_br7 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position<br>runway |  
+| bip_39_word_new_br8 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position<br>runway<br>logic |  
+| bip_39_word_new_br9 | object<br>flush<br>prefer<br>ceiling<br>wrist<br>position<br>runway<br>logic<br>alter |  
+| bip_39_word_new_line1 | object |  
+| bip_39_word_new_line10 | object
+flush
+prefer
+ceiling
+wrist
+position
+runway
+logic
+alter
+royal |  
+| bip_39_word_new_line11 | object
+flush
+prefer
+ceiling
+wrist
+position
+runway
+logic
+alter
+royal
+silver |  
+| bip_39_word_new_line12 | object
+flush
+prefer
+ceiling
+wrist
+position
+runway
+logic
+alter
+royal
+silver
+ahead |  
+| bip_39_word_new_line2 | object
+flush |  
+| bip_39_word_new_line3 | object
+flush
+prefer |  
+| bip_39_word_new_line4 | object
+flush
+prefer
+ceiling |  
+| bip_39_word_new_line5 | object
+flush
+prefer
+ceiling
+wrist |  
+| bip_39_word_new_line6 | object
+flush
+prefer
+ceiling
+wrist
+position |  
+| bip_39_word_new_line7 | object
+flush
+prefer
+ceiling
+wrist
+position
+runway |  
+| bip_39_word_new_line8 | object
+flush
+prefer
+ceiling
+wrist
+position
+runway
+logic |  
+| bip_39_word_new_line9 | object
+flush
+prefer
+ceiling
+wrist
+position
+runway
+logic
+alter |  
+| bip_39_word_space_0 | ['object', 'flush', 'prefer', 'ceiling', 'wrist', 'position', 'runway', 'logic', 'alter', 'royal', 'silver', 'ahead'] |  
+| bip_39_word_space_1 | object |  
+| bip_39_word_space_10 | object flush prefer ceiling wrist position runway logic alter royal |  
+| bip_39_word_space_11 | object flush prefer ceiling wrist position runway logic alter royal silver |  
+| bip_39_word_space_12 | object flush prefer ceiling wrist position runway logic alter royal silver ahead |  
+| bip_39_word_space_2 | object flush |  
+| bip_39_word_space_3 | object flush prefer |  
+| bip_39_word_space_4 | object flush prefer ceiling |  
+| bip_39_word_space_5 | object flush prefer ceiling wrist |  
+| bip_39_word_space_6 | object flush prefer ceiling wrist position |  
+| bip_39_word_space_7 | object flush prefer ceiling wrist position runway |  
+| bip_39_word_space_8 | object flush prefer ceiling wrist position runway logic |  
+| bip_39_word_space_9 | object flush prefer ceiling wrist position runway logic alter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

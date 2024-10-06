@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crowd appear
+  * bip 39 word 3: crowd appear run
+  * bip 39 word: crowd appear run lamp crane rice mesh skate elder prosper kiss alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crowd |  
+| bip_39_word_new_br10 | crowd<br>appear<br>run<br>lamp<br>crane<br>rice<br>mesh<br>skate<br>elder<br>prosper |  
+| bip_39_word_new_br11 | crowd<br>appear<br>run<br>lamp<br>crane<br>rice<br>mesh<br>skate<br>elder<br>prosper<br>kiss |  
+| bip_39_word_new_br12 | crowd<br>appear<br>run<br>lamp<br>crane<br>rice<br>mesh<br>skate<br>elder<br>prosper<br>kiss<br>alley |  
+| bip_39_word_new_br2 | crowd<br>appear |  
+| bip_39_word_new_br3 | crowd<br>appear<br>run |  
+| bip_39_word_new_br4 | crowd<br>appear<br>run<br>lamp |  
+| bip_39_word_new_br5 | crowd<br>appear<br>run<br>lamp<br>crane |  
+| bip_39_word_new_br6 | crowd<br>appear<br>run<br>lamp<br>crane<br>rice |  
+| bip_39_word_new_br7 | crowd<br>appear<br>run<br>lamp<br>crane<br>rice<br>mesh |  
+| bip_39_word_new_br8 | crowd<br>appear<br>run<br>lamp<br>crane<br>rice<br>mesh<br>skate |  
+| bip_39_word_new_br9 | crowd<br>appear<br>run<br>lamp<br>crane<br>rice<br>mesh<br>skate<br>elder |  
+| bip_39_word_new_line1 | crowd |  
+| bip_39_word_new_line10 | crowd
+appear
+run
+lamp
+crane
+rice
+mesh
+skate
+elder
+prosper |  
+| bip_39_word_new_line11 | crowd
+appear
+run
+lamp
+crane
+rice
+mesh
+skate
+elder
+prosper
+kiss |  
+| bip_39_word_new_line12 | crowd
+appear
+run
+lamp
+crane
+rice
+mesh
+skate
+elder
+prosper
+kiss
+alley |  
+| bip_39_word_new_line2 | crowd
+appear |  
+| bip_39_word_new_line3 | crowd
+appear
+run |  
+| bip_39_word_new_line4 | crowd
+appear
+run
+lamp |  
+| bip_39_word_new_line5 | crowd
+appear
+run
+lamp
+crane |  
+| bip_39_word_new_line6 | crowd
+appear
+run
+lamp
+crane
+rice |  
+| bip_39_word_new_line7 | crowd
+appear
+run
+lamp
+crane
+rice
+mesh |  
+| bip_39_word_new_line8 | crowd
+appear
+run
+lamp
+crane
+rice
+mesh
+skate |  
+| bip_39_word_new_line9 | crowd
+appear
+run
+lamp
+crane
+rice
+mesh
+skate
+elder |  
+| bip_39_word_space_0 | ['crowd', 'appear', 'run', 'lamp', 'crane', 'rice', 'mesh', 'skate', 'elder', 'prosper', 'kiss', 'alley'] |  
+| bip_39_word_space_1 | crowd |  
+| bip_39_word_space_10 | crowd appear run lamp crane rice mesh skate elder prosper |  
+| bip_39_word_space_11 | crowd appear run lamp crane rice mesh skate elder prosper kiss |  
+| bip_39_word_space_12 | crowd appear run lamp crane rice mesh skate elder prosper kiss alley |  
+| bip_39_word_space_2 | crowd appear |  
+| bip_39_word_space_3 | crowd appear run |  
+| bip_39_word_space_4 | crowd appear run lamp |  
+| bip_39_word_space_5 | crowd appear run lamp crane |  
+| bip_39_word_space_6 | crowd appear run lamp crane rice |  
+| bip_39_word_space_7 | crowd appear run lamp crane rice mesh |  
+| bip_39_word_space_8 | crowd appear run lamp crane rice mesh skate |  
+| bip_39_word_space_9 | crowd appear run lamp crane rice mesh skate elder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

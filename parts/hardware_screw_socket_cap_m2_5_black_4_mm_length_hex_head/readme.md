@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exclude kick
+  * bip 39 word 3: exclude kick artist
+  * bip 39 word: exclude kick artist hundred shrug beyond roof wrap relief prepare frequent animal
 
 ### other_codes
 * short_code: sc2d5b4h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exclude |  
+| bip_39_word_new_br10 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare |  
+| bip_39_word_new_br11 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent |  
+| bip_39_word_new_br12 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent<br>animal |  
+| bip_39_word_new_br2 | exclude<br>kick |  
+| bip_39_word_new_br3 | exclude<br>kick<br>artist |  
+| bip_39_word_new_br4 | exclude<br>kick<br>artist<br>hundred |  
+| bip_39_word_new_br5 | exclude<br>kick<br>artist<br>hundred<br>shrug |  
+| bip_39_word_new_br6 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond |  
+| bip_39_word_new_br7 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof |  
+| bip_39_word_new_br8 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap |  
+| bip_39_word_new_br9 | exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief |  
+| bip_39_word_new_line1 | exclude |  
+| bip_39_word_new_line10 | exclude
+kick
+artist
+hundred
+shrug
+beyond
+roof
+wrap
+relief
+prepare |  
+| bip_39_word_new_line11 | exclude
+kick
+artist
+hundred
+shrug
+beyond
+roof
+wrap
+relief
+prepare
+frequent |  
+| bip_39_word_new_line12 | exclude
+kick
+artist
+hundred
+shrug
+beyond
+roof
+wrap
+relief
+prepare
+frequent
+animal |  
+| bip_39_word_new_line2 | exclude
+kick |  
+| bip_39_word_new_line3 | exclude
+kick
+artist |  
+| bip_39_word_new_line4 | exclude
+kick
+artist
+hundred |  
+| bip_39_word_new_line5 | exclude
+kick
+artist
+hundred
+shrug |  
+| bip_39_word_new_line6 | exclude
+kick
+artist
+hundred
+shrug
+beyond |  
+| bip_39_word_new_line7 | exclude
+kick
+artist
+hundred
+shrug
+beyond
+roof |  
+| bip_39_word_new_line8 | exclude
+kick
+artist
+hundred
+shrug
+beyond
+roof
+wrap |  
+| bip_39_word_new_line9 | exclude
+kick
+artist
+hundred
+shrug
+beyond
+roof
+wrap
+relief |  
+| bip_39_word_space_0 | ['exclude', 'kick', 'artist', 'hundred', 'shrug', 'beyond', 'roof', 'wrap', 'relief', 'prepare', 'frequent', 'animal'] |  
+| bip_39_word_space_1 | exclude |  
+| bip_39_word_space_10 | exclude kick artist hundred shrug beyond roof wrap relief prepare |  
+| bip_39_word_space_11 | exclude kick artist hundred shrug beyond roof wrap relief prepare frequent |  
+| bip_39_word_space_12 | exclude kick artist hundred shrug beyond roof wrap relief prepare frequent animal |  
+| bip_39_word_space_2 | exclude kick |  
+| bip_39_word_space_3 | exclude kick artist |  
+| bip_39_word_space_4 | exclude kick artist hundred |  
+| bip_39_word_space_5 | exclude kick artist hundred shrug |  
+| bip_39_word_space_6 | exclude kick artist hundred shrug beyond |  
+| bip_39_word_space_7 | exclude kick artist hundred shrug beyond roof |  
+| bip_39_word_space_8 | exclude kick artist hundred shrug beyond roof wrap |  
+| bip_39_word_space_9 | exclude kick artist hundred shrug beyond roof wrap relief |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

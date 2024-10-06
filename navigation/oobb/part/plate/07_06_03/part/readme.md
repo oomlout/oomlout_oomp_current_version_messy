@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: evidence curious
+  * bip 39 word 3: evidence curious latin
+  * bip 39 word: evidence curious latin casino frost version rotate kiwi observe protect sustain accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | evidence |  
+| bip_39_word_new_br10 | evidence<br>curious<br>latin<br>casino<br>frost<br>version<br>rotate<br>kiwi<br>observe<br>protect |  
+| bip_39_word_new_br11 | evidence<br>curious<br>latin<br>casino<br>frost<br>version<br>rotate<br>kiwi<br>observe<br>protect<br>sustain |  
+| bip_39_word_new_br12 | evidence<br>curious<br>latin<br>casino<br>frost<br>version<br>rotate<br>kiwi<br>observe<br>protect<br>sustain<br>accident |  
+| bip_39_word_new_br2 | evidence<br>curious |  
+| bip_39_word_new_br3 | evidence<br>curious<br>latin |  
+| bip_39_word_new_br4 | evidence<br>curious<br>latin<br>casino |  
+| bip_39_word_new_br5 | evidence<br>curious<br>latin<br>casino<br>frost |  
+| bip_39_word_new_br6 | evidence<br>curious<br>latin<br>casino<br>frost<br>version |  
+| bip_39_word_new_br7 | evidence<br>curious<br>latin<br>casino<br>frost<br>version<br>rotate |  
+| bip_39_word_new_br8 | evidence<br>curious<br>latin<br>casino<br>frost<br>version<br>rotate<br>kiwi |  
+| bip_39_word_new_br9 | evidence<br>curious<br>latin<br>casino<br>frost<br>version<br>rotate<br>kiwi<br>observe |  
+| bip_39_word_new_line1 | evidence |  
+| bip_39_word_new_line10 | evidence
+curious
+latin
+casino
+frost
+version
+rotate
+kiwi
+observe
+protect |  
+| bip_39_word_new_line11 | evidence
+curious
+latin
+casino
+frost
+version
+rotate
+kiwi
+observe
+protect
+sustain |  
+| bip_39_word_new_line12 | evidence
+curious
+latin
+casino
+frost
+version
+rotate
+kiwi
+observe
+protect
+sustain
+accident |  
+| bip_39_word_new_line2 | evidence
+curious |  
+| bip_39_word_new_line3 | evidence
+curious
+latin |  
+| bip_39_word_new_line4 | evidence
+curious
+latin
+casino |  
+| bip_39_word_new_line5 | evidence
+curious
+latin
+casino
+frost |  
+| bip_39_word_new_line6 | evidence
+curious
+latin
+casino
+frost
+version |  
+| bip_39_word_new_line7 | evidence
+curious
+latin
+casino
+frost
+version
+rotate |  
+| bip_39_word_new_line8 | evidence
+curious
+latin
+casino
+frost
+version
+rotate
+kiwi |  
+| bip_39_word_new_line9 | evidence
+curious
+latin
+casino
+frost
+version
+rotate
+kiwi
+observe |  
+| bip_39_word_space_0 | ['evidence', 'curious', 'latin', 'casino', 'frost', 'version', 'rotate', 'kiwi', 'observe', 'protect', 'sustain', 'accident'] |  
+| bip_39_word_space_1 | evidence |  
+| bip_39_word_space_10 | evidence curious latin casino frost version rotate kiwi observe protect |  
+| bip_39_word_space_11 | evidence curious latin casino frost version rotate kiwi observe protect sustain |  
+| bip_39_word_space_12 | evidence curious latin casino frost version rotate kiwi observe protect sustain accident |  
+| bip_39_word_space_2 | evidence curious |  
+| bip_39_word_space_3 | evidence curious latin |  
+| bip_39_word_space_4 | evidence curious latin casino |  
+| bip_39_word_space_5 | evidence curious latin casino frost |  
+| bip_39_word_space_6 | evidence curious latin casino frost version |  
+| bip_39_word_space_7 | evidence curious latin casino frost version rotate |  
+| bip_39_word_space_8 | evidence curious latin casino frost version rotate kiwi |  
+| bip_39_word_space_9 | evidence curious latin casino frost version rotate kiwi observe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

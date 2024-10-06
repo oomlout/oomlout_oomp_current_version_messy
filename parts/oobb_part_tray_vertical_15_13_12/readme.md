@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enrich odor
+  * bip 39 word 3: enrich odor umbrella
+  * bip 39 word: enrich odor umbrella spy monkey thumb axis shift glimpse damp bundle arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enrich |  
+| bip_39_word_new_br10 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb<br>axis<br>shift<br>glimpse<br>damp |  
+| bip_39_word_new_br11 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb<br>axis<br>shift<br>glimpse<br>damp<br>bundle |  
+| bip_39_word_new_br12 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb<br>axis<br>shift<br>glimpse<br>damp<br>bundle<br>arch |  
+| bip_39_word_new_br2 | enrich<br>odor |  
+| bip_39_word_new_br3 | enrich<br>odor<br>umbrella |  
+| bip_39_word_new_br4 | enrich<br>odor<br>umbrella<br>spy |  
+| bip_39_word_new_br5 | enrich<br>odor<br>umbrella<br>spy<br>monkey |  
+| bip_39_word_new_br6 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb |  
+| bip_39_word_new_br7 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb<br>axis |  
+| bip_39_word_new_br8 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb<br>axis<br>shift |  
+| bip_39_word_new_br9 | enrich<br>odor<br>umbrella<br>spy<br>monkey<br>thumb<br>axis<br>shift<br>glimpse |  
+| bip_39_word_new_line1 | enrich |  
+| bip_39_word_new_line10 | enrich
+odor
+umbrella
+spy
+monkey
+thumb
+axis
+shift
+glimpse
+damp |  
+| bip_39_word_new_line11 | enrich
+odor
+umbrella
+spy
+monkey
+thumb
+axis
+shift
+glimpse
+damp
+bundle |  
+| bip_39_word_new_line12 | enrich
+odor
+umbrella
+spy
+monkey
+thumb
+axis
+shift
+glimpse
+damp
+bundle
+arch |  
+| bip_39_word_new_line2 | enrich
+odor |  
+| bip_39_word_new_line3 | enrich
+odor
+umbrella |  
+| bip_39_word_new_line4 | enrich
+odor
+umbrella
+spy |  
+| bip_39_word_new_line5 | enrich
+odor
+umbrella
+spy
+monkey |  
+| bip_39_word_new_line6 | enrich
+odor
+umbrella
+spy
+monkey
+thumb |  
+| bip_39_word_new_line7 | enrich
+odor
+umbrella
+spy
+monkey
+thumb
+axis |  
+| bip_39_word_new_line8 | enrich
+odor
+umbrella
+spy
+monkey
+thumb
+axis
+shift |  
+| bip_39_word_new_line9 | enrich
+odor
+umbrella
+spy
+monkey
+thumb
+axis
+shift
+glimpse |  
+| bip_39_word_space_0 | ['enrich', 'odor', 'umbrella', 'spy', 'monkey', 'thumb', 'axis', 'shift', 'glimpse', 'damp', 'bundle', 'arch'] |  
+| bip_39_word_space_1 | enrich |  
+| bip_39_word_space_10 | enrich odor umbrella spy monkey thumb axis shift glimpse damp |  
+| bip_39_word_space_11 | enrich odor umbrella spy monkey thumb axis shift glimpse damp bundle |  
+| bip_39_word_space_12 | enrich odor umbrella spy monkey thumb axis shift glimpse damp bundle arch |  
+| bip_39_word_space_2 | enrich odor |  
+| bip_39_word_space_3 | enrich odor umbrella |  
+| bip_39_word_space_4 | enrich odor umbrella spy |  
+| bip_39_word_space_5 | enrich odor umbrella spy monkey |  
+| bip_39_word_space_6 | enrich odor umbrella spy monkey thumb |  
+| bip_39_word_space_7 | enrich odor umbrella spy monkey thumb axis |  
+| bip_39_word_space_8 | enrich odor umbrella spy monkey thumb axis shift |  
+| bip_39_word_space_9 | enrich odor umbrella spy monkey thumb axis shift glimpse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

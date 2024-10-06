@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: across run
+  * bip 39 word 3: across run okay
+  * bip 39 word: across run okay goddess leave truth juice chat scheme tonight blue agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | across |  
+| bip_39_word_new_br10 | across<br>run<br>okay<br>goddess<br>leave<br>truth<br>juice<br>chat<br>scheme<br>tonight |  
+| bip_39_word_new_br11 | across<br>run<br>okay<br>goddess<br>leave<br>truth<br>juice<br>chat<br>scheme<br>tonight<br>blue |  
+| bip_39_word_new_br12 | across<br>run<br>okay<br>goddess<br>leave<br>truth<br>juice<br>chat<br>scheme<br>tonight<br>blue<br>agent |  
+| bip_39_word_new_br2 | across<br>run |  
+| bip_39_word_new_br3 | across<br>run<br>okay |  
+| bip_39_word_new_br4 | across<br>run<br>okay<br>goddess |  
+| bip_39_word_new_br5 | across<br>run<br>okay<br>goddess<br>leave |  
+| bip_39_word_new_br6 | across<br>run<br>okay<br>goddess<br>leave<br>truth |  
+| bip_39_word_new_br7 | across<br>run<br>okay<br>goddess<br>leave<br>truth<br>juice |  
+| bip_39_word_new_br8 | across<br>run<br>okay<br>goddess<br>leave<br>truth<br>juice<br>chat |  
+| bip_39_word_new_br9 | across<br>run<br>okay<br>goddess<br>leave<br>truth<br>juice<br>chat<br>scheme |  
+| bip_39_word_new_line1 | across |  
+| bip_39_word_new_line10 | across
+run
+okay
+goddess
+leave
+truth
+juice
+chat
+scheme
+tonight |  
+| bip_39_word_new_line11 | across
+run
+okay
+goddess
+leave
+truth
+juice
+chat
+scheme
+tonight
+blue |  
+| bip_39_word_new_line12 | across
+run
+okay
+goddess
+leave
+truth
+juice
+chat
+scheme
+tonight
+blue
+agent |  
+| bip_39_word_new_line2 | across
+run |  
+| bip_39_word_new_line3 | across
+run
+okay |  
+| bip_39_word_new_line4 | across
+run
+okay
+goddess |  
+| bip_39_word_new_line5 | across
+run
+okay
+goddess
+leave |  
+| bip_39_word_new_line6 | across
+run
+okay
+goddess
+leave
+truth |  
+| bip_39_word_new_line7 | across
+run
+okay
+goddess
+leave
+truth
+juice |  
+| bip_39_word_new_line8 | across
+run
+okay
+goddess
+leave
+truth
+juice
+chat |  
+| bip_39_word_new_line9 | across
+run
+okay
+goddess
+leave
+truth
+juice
+chat
+scheme |  
+| bip_39_word_space_0 | ['across', 'run', 'okay', 'goddess', 'leave', 'truth', 'juice', 'chat', 'scheme', 'tonight', 'blue', 'agent'] |  
+| bip_39_word_space_1 | across |  
+| bip_39_word_space_10 | across run okay goddess leave truth juice chat scheme tonight |  
+| bip_39_word_space_11 | across run okay goddess leave truth juice chat scheme tonight blue |  
+| bip_39_word_space_12 | across run okay goddess leave truth juice chat scheme tonight blue agent |  
+| bip_39_word_space_2 | across run |  
+| bip_39_word_space_3 | across run okay |  
+| bip_39_word_space_4 | across run okay goddess |  
+| bip_39_word_space_5 | across run okay goddess leave |  
+| bip_39_word_space_6 | across run okay goddess leave truth |  
+| bip_39_word_space_7 | across run okay goddess leave truth juice |  
+| bip_39_word_space_8 | across run okay goddess leave truth juice chat |  
+| bip_39_word_space_9 | across run okay goddess leave truth juice chat scheme |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

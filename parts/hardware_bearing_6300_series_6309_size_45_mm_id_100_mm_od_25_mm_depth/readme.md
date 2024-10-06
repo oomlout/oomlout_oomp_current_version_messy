@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stadium cancel
+  * bip 39 word 3: stadium cancel cart
+  * bip 39 word: stadium cancel cart traffic north note strike squeeze private neutral snow agree
 
 ### other_codes
 * short_code: br6309
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stadium |  
+| bip_39_word_new_br10 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private<br>neutral |  
+| bip_39_word_new_br11 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private<br>neutral<br>snow |  
+| bip_39_word_new_br12 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private<br>neutral<br>snow<br>agree |  
+| bip_39_word_new_br2 | stadium<br>cancel |  
+| bip_39_word_new_br3 | stadium<br>cancel<br>cart |  
+| bip_39_word_new_br4 | stadium<br>cancel<br>cart<br>traffic |  
+| bip_39_word_new_br5 | stadium<br>cancel<br>cart<br>traffic<br>north |  
+| bip_39_word_new_br6 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note |  
+| bip_39_word_new_br7 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike |  
+| bip_39_word_new_br8 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze |  
+| bip_39_word_new_br9 | stadium<br>cancel<br>cart<br>traffic<br>north<br>note<br>strike<br>squeeze<br>private |  
+| bip_39_word_new_line1 | stadium |  
+| bip_39_word_new_line10 | stadium
+cancel
+cart
+traffic
+north
+note
+strike
+squeeze
+private
+neutral |  
+| bip_39_word_new_line11 | stadium
+cancel
+cart
+traffic
+north
+note
+strike
+squeeze
+private
+neutral
+snow |  
+| bip_39_word_new_line12 | stadium
+cancel
+cart
+traffic
+north
+note
+strike
+squeeze
+private
+neutral
+snow
+agree |  
+| bip_39_word_new_line2 | stadium
+cancel |  
+| bip_39_word_new_line3 | stadium
+cancel
+cart |  
+| bip_39_word_new_line4 | stadium
+cancel
+cart
+traffic |  
+| bip_39_word_new_line5 | stadium
+cancel
+cart
+traffic
+north |  
+| bip_39_word_new_line6 | stadium
+cancel
+cart
+traffic
+north
+note |  
+| bip_39_word_new_line7 | stadium
+cancel
+cart
+traffic
+north
+note
+strike |  
+| bip_39_word_new_line8 | stadium
+cancel
+cart
+traffic
+north
+note
+strike
+squeeze |  
+| bip_39_word_new_line9 | stadium
+cancel
+cart
+traffic
+north
+note
+strike
+squeeze
+private |  
+| bip_39_word_space_0 | ['stadium', 'cancel', 'cart', 'traffic', 'north', 'note', 'strike', 'squeeze', 'private', 'neutral', 'snow', 'agree'] |  
+| bip_39_word_space_1 | stadium |  
+| bip_39_word_space_10 | stadium cancel cart traffic north note strike squeeze private neutral |  
+| bip_39_word_space_11 | stadium cancel cart traffic north note strike squeeze private neutral snow |  
+| bip_39_word_space_12 | stadium cancel cart traffic north note strike squeeze private neutral snow agree |  
+| bip_39_word_space_2 | stadium cancel |  
+| bip_39_word_space_3 | stadium cancel cart |  
+| bip_39_word_space_4 | stadium cancel cart traffic |  
+| bip_39_word_space_5 | stadium cancel cart traffic north |  
+| bip_39_word_space_6 | stadium cancel cart traffic north note |  
+| bip_39_word_space_7 | stadium cancel cart traffic north note strike |  
+| bip_39_word_space_8 | stadium cancel cart traffic north note strike squeeze |  
+| bip_39_word_space_9 | stadium cancel cart traffic north note strike squeeze private |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

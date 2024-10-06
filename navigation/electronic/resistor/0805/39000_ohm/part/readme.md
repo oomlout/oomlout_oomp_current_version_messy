@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vocal member
+  * bip 39 word 3: vocal member minute
+  * bip 39 word: vocal member minute quiz jacket tree ocean divorce engine glad photo able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vocal |  
+| bip_39_word_new_br10 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree<br>ocean<br>divorce<br>engine<br>glad |  
+| bip_39_word_new_br11 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree<br>ocean<br>divorce<br>engine<br>glad<br>photo |  
+| bip_39_word_new_br12 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree<br>ocean<br>divorce<br>engine<br>glad<br>photo<br>able |  
+| bip_39_word_new_br2 | vocal<br>member |  
+| bip_39_word_new_br3 | vocal<br>member<br>minute |  
+| bip_39_word_new_br4 | vocal<br>member<br>minute<br>quiz |  
+| bip_39_word_new_br5 | vocal<br>member<br>minute<br>quiz<br>jacket |  
+| bip_39_word_new_br6 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree |  
+| bip_39_word_new_br7 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree<br>ocean |  
+| bip_39_word_new_br8 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree<br>ocean<br>divorce |  
+| bip_39_word_new_br9 | vocal<br>member<br>minute<br>quiz<br>jacket<br>tree<br>ocean<br>divorce<br>engine |  
+| bip_39_word_new_line1 | vocal |  
+| bip_39_word_new_line10 | vocal
+member
+minute
+quiz
+jacket
+tree
+ocean
+divorce
+engine
+glad |  
+| bip_39_word_new_line11 | vocal
+member
+minute
+quiz
+jacket
+tree
+ocean
+divorce
+engine
+glad
+photo |  
+| bip_39_word_new_line12 | vocal
+member
+minute
+quiz
+jacket
+tree
+ocean
+divorce
+engine
+glad
+photo
+able |  
+| bip_39_word_new_line2 | vocal
+member |  
+| bip_39_word_new_line3 | vocal
+member
+minute |  
+| bip_39_word_new_line4 | vocal
+member
+minute
+quiz |  
+| bip_39_word_new_line5 | vocal
+member
+minute
+quiz
+jacket |  
+| bip_39_word_new_line6 | vocal
+member
+minute
+quiz
+jacket
+tree |  
+| bip_39_word_new_line7 | vocal
+member
+minute
+quiz
+jacket
+tree
+ocean |  
+| bip_39_word_new_line8 | vocal
+member
+minute
+quiz
+jacket
+tree
+ocean
+divorce |  
+| bip_39_word_new_line9 | vocal
+member
+minute
+quiz
+jacket
+tree
+ocean
+divorce
+engine |  
+| bip_39_word_space_0 | ['vocal', 'member', 'minute', 'quiz', 'jacket', 'tree', 'ocean', 'divorce', 'engine', 'glad', 'photo', 'able'] |  
+| bip_39_word_space_1 | vocal |  
+| bip_39_word_space_10 | vocal member minute quiz jacket tree ocean divorce engine glad |  
+| bip_39_word_space_11 | vocal member minute quiz jacket tree ocean divorce engine glad photo |  
+| bip_39_word_space_12 | vocal member minute quiz jacket tree ocean divorce engine glad photo able |  
+| bip_39_word_space_2 | vocal member |  
+| bip_39_word_space_3 | vocal member minute |  
+| bip_39_word_space_4 | vocal member minute quiz |  
+| bip_39_word_space_5 | vocal member minute quiz jacket |  
+| bip_39_word_space_6 | vocal member minute quiz jacket tree |  
+| bip_39_word_space_7 | vocal member minute quiz jacket tree ocean |  
+| bip_39_word_space_8 | vocal member minute quiz jacket tree ocean divorce |  
+| bip_39_word_space_9 | vocal member minute quiz jacket tree ocean divorce engine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

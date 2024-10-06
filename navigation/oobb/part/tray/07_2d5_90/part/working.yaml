@@ -1,3 +1,185 @@
+bip_39_word_new_br1: heavy
+bip_39_word_new_br10: heavy<br>term<br>cage<br>escape<br>fiscal<br>dream<br>pink<br>piece<br>rug<br>blood
+bip_39_word_new_br11: heavy<br>term<br>cage<br>escape<br>fiscal<br>dream<br>pink<br>piece<br>rug<br>blood<br>direct
+bip_39_word_new_br12: heavy<br>term<br>cage<br>escape<br>fiscal<br>dream<br>pink<br>piece<br>rug<br>blood<br>direct<br>abuse
+bip_39_word_new_br2: heavy<br>term
+bip_39_word_new_br3: heavy<br>term<br>cage
+bip_39_word_new_br4: heavy<br>term<br>cage<br>escape
+bip_39_word_new_br5: heavy<br>term<br>cage<br>escape<br>fiscal
+bip_39_word_new_br6: heavy<br>term<br>cage<br>escape<br>fiscal<br>dream
+bip_39_word_new_br7: heavy<br>term<br>cage<br>escape<br>fiscal<br>dream<br>pink
+bip_39_word_new_br8: heavy<br>term<br>cage<br>escape<br>fiscal<br>dream<br>pink<br>piece
+bip_39_word_new_br9: heavy<br>term<br>cage<br>escape<br>fiscal<br>dream<br>pink<br>piece<br>rug
+bip_39_word_new_line1: heavy
+bip_39_word_new_line10: 'heavy
+
+  term
+
+  cage
+
+  escape
+
+  fiscal
+
+  dream
+
+  pink
+
+  piece
+
+  rug
+
+  blood'
+bip_39_word_new_line11: 'heavy
+
+  term
+
+  cage
+
+  escape
+
+  fiscal
+
+  dream
+
+  pink
+
+  piece
+
+  rug
+
+  blood
+
+  direct'
+bip_39_word_new_line12: 'heavy
+
+  term
+
+  cage
+
+  escape
+
+  fiscal
+
+  dream
+
+  pink
+
+  piece
+
+  rug
+
+  blood
+
+  direct
+
+  abuse'
+bip_39_word_new_line2: 'heavy
+
+  term'
+bip_39_word_new_line3: 'heavy
+
+  term
+
+  cage'
+bip_39_word_new_line4: 'heavy
+
+  term
+
+  cage
+
+  escape'
+bip_39_word_new_line5: 'heavy
+
+  term
+
+  cage
+
+  escape
+
+  fiscal'
+bip_39_word_new_line6: 'heavy
+
+  term
+
+  cage
+
+  escape
+
+  fiscal
+
+  dream'
+bip_39_word_new_line7: 'heavy
+
+  term
+
+  cage
+
+  escape
+
+  fiscal
+
+  dream
+
+  pink'
+bip_39_word_new_line8: 'heavy
+
+  term
+
+  cage
+
+  escape
+
+  fiscal
+
+  dream
+
+  pink
+
+  piece'
+bip_39_word_new_line9: 'heavy
+
+  term
+
+  cage
+
+  escape
+
+  fiscal
+
+  dream
+
+  pink
+
+  piece
+
+  rug'
+bip_39_word_space_0:
+- heavy
+- term
+- cage
+- escape
+- fiscal
+- dream
+- pink
+- piece
+- rug
+- blood
+- direct
+- abuse
+bip_39_word_space_1: heavy
+bip_39_word_space_10: heavy term cage escape fiscal dream pink piece rug blood
+bip_39_word_space_11: heavy term cage escape fiscal dream pink piece rug blood direct
+bip_39_word_space_12: heavy term cage escape fiscal dream pink piece rug blood direct
+  abuse
+bip_39_word_space_2: heavy term
+bip_39_word_space_3: heavy term cage
+bip_39_word_space_4: heavy term cage escape
+bip_39_word_space_5: heavy term cage escape fiscal
+bip_39_word_space_6: heavy term cage escape fiscal dream
+bip_39_word_space_7: heavy term cage escape fiscal dream pink
+bip_39_word_space_8: heavy term cage escape fiscal dream pink piece
+bip_39_word_space_9: heavy term cage escape fiscal dream pink piece rug
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

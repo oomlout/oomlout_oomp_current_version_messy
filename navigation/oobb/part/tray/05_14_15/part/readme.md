@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ritual elevator
+  * bip 39 word 3: ritual elevator rent
+  * bip 39 word: ritual elevator rent duty breeze mammal small actress west immune extend accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ritual |  
+| bip_39_word_new_br10 | ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west<br>immune |  
+| bip_39_word_new_br11 | ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west<br>immune<br>extend |  
+| bip_39_word_new_br12 | ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west<br>immune<br>extend<br>accident |  
+| bip_39_word_new_br2 | ritual<br>elevator |  
+| bip_39_word_new_br3 | ritual<br>elevator<br>rent |  
+| bip_39_word_new_br4 | ritual<br>elevator<br>rent<br>duty |  
+| bip_39_word_new_br5 | ritual<br>elevator<br>rent<br>duty<br>breeze |  
+| bip_39_word_new_br6 | ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal |  
+| bip_39_word_new_br7 | ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small |  
+| bip_39_word_new_br8 | ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress |  
+| bip_39_word_new_br9 | ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west |  
+| bip_39_word_new_line1 | ritual |  
+| bip_39_word_new_line10 | ritual
+elevator
+rent
+duty
+breeze
+mammal
+small
+actress
+west
+immune |  
+| bip_39_word_new_line11 | ritual
+elevator
+rent
+duty
+breeze
+mammal
+small
+actress
+west
+immune
+extend |  
+| bip_39_word_new_line12 | ritual
+elevator
+rent
+duty
+breeze
+mammal
+small
+actress
+west
+immune
+extend
+accident |  
+| bip_39_word_new_line2 | ritual
+elevator |  
+| bip_39_word_new_line3 | ritual
+elevator
+rent |  
+| bip_39_word_new_line4 | ritual
+elevator
+rent
+duty |  
+| bip_39_word_new_line5 | ritual
+elevator
+rent
+duty
+breeze |  
+| bip_39_word_new_line6 | ritual
+elevator
+rent
+duty
+breeze
+mammal |  
+| bip_39_word_new_line7 | ritual
+elevator
+rent
+duty
+breeze
+mammal
+small |  
+| bip_39_word_new_line8 | ritual
+elevator
+rent
+duty
+breeze
+mammal
+small
+actress |  
+| bip_39_word_new_line9 | ritual
+elevator
+rent
+duty
+breeze
+mammal
+small
+actress
+west |  
+| bip_39_word_space_0 | ['ritual', 'elevator', 'rent', 'duty', 'breeze', 'mammal', 'small', 'actress', 'west', 'immune', 'extend', 'accident'] |  
+| bip_39_word_space_1 | ritual |  
+| bip_39_word_space_10 | ritual elevator rent duty breeze mammal small actress west immune |  
+| bip_39_word_space_11 | ritual elevator rent duty breeze mammal small actress west immune extend |  
+| bip_39_word_space_12 | ritual elevator rent duty breeze mammal small actress west immune extend accident |  
+| bip_39_word_space_2 | ritual elevator |  
+| bip_39_word_space_3 | ritual elevator rent |  
+| bip_39_word_space_4 | ritual elevator rent duty |  
+| bip_39_word_space_5 | ritual elevator rent duty breeze |  
+| bip_39_word_space_6 | ritual elevator rent duty breeze mammal |  
+| bip_39_word_space_7 | ritual elevator rent duty breeze mammal small |  
+| bip_39_word_space_8 | ritual elevator rent duty breeze mammal small actress |  
+| bip_39_word_space_9 | ritual elevator rent duty breeze mammal small actress west |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

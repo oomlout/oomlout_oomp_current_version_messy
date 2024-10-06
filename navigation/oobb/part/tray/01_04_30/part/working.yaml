@@ -1,3 +1,187 @@
+bip_39_word_new_br1: roast
+bip_39_word_new_br10: roast<br>warfare<br>material<br>boat<br>network<br>claw<br>stumble<br>usual<br>garbage<br>bird
+bip_39_word_new_br11: roast<br>warfare<br>material<br>boat<br>network<br>claw<br>stumble<br>usual<br>garbage<br>bird<br>stem
+bip_39_word_new_br12: roast<br>warfare<br>material<br>boat<br>network<br>claw<br>stumble<br>usual<br>garbage<br>bird<br>stem<br>accident
+bip_39_word_new_br2: roast<br>warfare
+bip_39_word_new_br3: roast<br>warfare<br>material
+bip_39_word_new_br4: roast<br>warfare<br>material<br>boat
+bip_39_word_new_br5: roast<br>warfare<br>material<br>boat<br>network
+bip_39_word_new_br6: roast<br>warfare<br>material<br>boat<br>network<br>claw
+bip_39_word_new_br7: roast<br>warfare<br>material<br>boat<br>network<br>claw<br>stumble
+bip_39_word_new_br8: roast<br>warfare<br>material<br>boat<br>network<br>claw<br>stumble<br>usual
+bip_39_word_new_br9: roast<br>warfare<br>material<br>boat<br>network<br>claw<br>stumble<br>usual<br>garbage
+bip_39_word_new_line1: roast
+bip_39_word_new_line10: 'roast
+
+  warfare
+
+  material
+
+  boat
+
+  network
+
+  claw
+
+  stumble
+
+  usual
+
+  garbage
+
+  bird'
+bip_39_word_new_line11: 'roast
+
+  warfare
+
+  material
+
+  boat
+
+  network
+
+  claw
+
+  stumble
+
+  usual
+
+  garbage
+
+  bird
+
+  stem'
+bip_39_word_new_line12: 'roast
+
+  warfare
+
+  material
+
+  boat
+
+  network
+
+  claw
+
+  stumble
+
+  usual
+
+  garbage
+
+  bird
+
+  stem
+
+  accident'
+bip_39_word_new_line2: 'roast
+
+  warfare'
+bip_39_word_new_line3: 'roast
+
+  warfare
+
+  material'
+bip_39_word_new_line4: 'roast
+
+  warfare
+
+  material
+
+  boat'
+bip_39_word_new_line5: 'roast
+
+  warfare
+
+  material
+
+  boat
+
+  network'
+bip_39_word_new_line6: 'roast
+
+  warfare
+
+  material
+
+  boat
+
+  network
+
+  claw'
+bip_39_word_new_line7: 'roast
+
+  warfare
+
+  material
+
+  boat
+
+  network
+
+  claw
+
+  stumble'
+bip_39_word_new_line8: 'roast
+
+  warfare
+
+  material
+
+  boat
+
+  network
+
+  claw
+
+  stumble
+
+  usual'
+bip_39_word_new_line9: 'roast
+
+  warfare
+
+  material
+
+  boat
+
+  network
+
+  claw
+
+  stumble
+
+  usual
+
+  garbage'
+bip_39_word_space_0:
+- roast
+- warfare
+- material
+- boat
+- network
+- claw
+- stumble
+- usual
+- garbage
+- bird
+- stem
+- accident
+bip_39_word_space_1: roast
+bip_39_word_space_10: roast warfare material boat network claw stumble usual garbage
+  bird
+bip_39_word_space_11: roast warfare material boat network claw stumble usual garbage
+  bird stem
+bip_39_word_space_12: roast warfare material boat network claw stumble usual garbage
+  bird stem accident
+bip_39_word_space_2: roast warfare
+bip_39_word_space_3: roast warfare material
+bip_39_word_space_4: roast warfare material boat
+bip_39_word_space_5: roast warfare material boat network
+bip_39_word_space_6: roast warfare material boat network claw
+bip_39_word_space_7: roast warfare material boat network claw stumble
+bip_39_word_space_8: roast warfare material boat network claw stumble usual
+bip_39_word_space_9: roast warfare material boat network claw stumble usual garbage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

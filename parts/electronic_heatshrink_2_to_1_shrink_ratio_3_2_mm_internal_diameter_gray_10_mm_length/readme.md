@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toast evolve
+  * bip 39 word 3: toast evolve hybrid
+  * bip 39 word: toast evolve hybrid impact exact kangaroo that fabric saddle oblige nerve actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toast |  
+| bip_39_word_new_br10 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo<br>that<br>fabric<br>saddle<br>oblige |  
+| bip_39_word_new_br11 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo<br>that<br>fabric<br>saddle<br>oblige<br>nerve |  
+| bip_39_word_new_br12 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo<br>that<br>fabric<br>saddle<br>oblige<br>nerve<br>actress |  
+| bip_39_word_new_br2 | toast<br>evolve |  
+| bip_39_word_new_br3 | toast<br>evolve<br>hybrid |  
+| bip_39_word_new_br4 | toast<br>evolve<br>hybrid<br>impact |  
+| bip_39_word_new_br5 | toast<br>evolve<br>hybrid<br>impact<br>exact |  
+| bip_39_word_new_br6 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo |  
+| bip_39_word_new_br7 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo<br>that |  
+| bip_39_word_new_br8 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo<br>that<br>fabric |  
+| bip_39_word_new_br9 | toast<br>evolve<br>hybrid<br>impact<br>exact<br>kangaroo<br>that<br>fabric<br>saddle |  
+| bip_39_word_new_line1 | toast |  
+| bip_39_word_new_line10 | toast
+evolve
+hybrid
+impact
+exact
+kangaroo
+that
+fabric
+saddle
+oblige |  
+| bip_39_word_new_line11 | toast
+evolve
+hybrid
+impact
+exact
+kangaroo
+that
+fabric
+saddle
+oblige
+nerve |  
+| bip_39_word_new_line12 | toast
+evolve
+hybrid
+impact
+exact
+kangaroo
+that
+fabric
+saddle
+oblige
+nerve
+actress |  
+| bip_39_word_new_line2 | toast
+evolve |  
+| bip_39_word_new_line3 | toast
+evolve
+hybrid |  
+| bip_39_word_new_line4 | toast
+evolve
+hybrid
+impact |  
+| bip_39_word_new_line5 | toast
+evolve
+hybrid
+impact
+exact |  
+| bip_39_word_new_line6 | toast
+evolve
+hybrid
+impact
+exact
+kangaroo |  
+| bip_39_word_new_line7 | toast
+evolve
+hybrid
+impact
+exact
+kangaroo
+that |  
+| bip_39_word_new_line8 | toast
+evolve
+hybrid
+impact
+exact
+kangaroo
+that
+fabric |  
+| bip_39_word_new_line9 | toast
+evolve
+hybrid
+impact
+exact
+kangaroo
+that
+fabric
+saddle |  
+| bip_39_word_space_0 | ['toast', 'evolve', 'hybrid', 'impact', 'exact', 'kangaroo', 'that', 'fabric', 'saddle', 'oblige', 'nerve', 'actress'] |  
+| bip_39_word_space_1 | toast |  
+| bip_39_word_space_10 | toast evolve hybrid impact exact kangaroo that fabric saddle oblige |  
+| bip_39_word_space_11 | toast evolve hybrid impact exact kangaroo that fabric saddle oblige nerve |  
+| bip_39_word_space_12 | toast evolve hybrid impact exact kangaroo that fabric saddle oblige nerve actress |  
+| bip_39_word_space_2 | toast evolve |  
+| bip_39_word_space_3 | toast evolve hybrid |  
+| bip_39_word_space_4 | toast evolve hybrid impact |  
+| bip_39_word_space_5 | toast evolve hybrid impact exact |  
+| bip_39_word_space_6 | toast evolve hybrid impact exact kangaroo |  
+| bip_39_word_space_7 | toast evolve hybrid impact exact kangaroo that |  
+| bip_39_word_space_8 | toast evolve hybrid impact exact kangaroo that fabric |  
+| bip_39_word_space_9 | toast evolve hybrid impact exact kangaroo that fabric saddle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

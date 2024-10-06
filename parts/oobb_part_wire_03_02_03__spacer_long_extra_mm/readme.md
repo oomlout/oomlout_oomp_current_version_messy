@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_long_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: code away
+  * bip 39 word 3: code away jeans
+  * bip 39 word: code away jeans video alert review lizard lady wish because truth angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | code |  
+| bip_39_word_new_br10 | code<br>away<br>jeans<br>video<br>alert<br>review<br>lizard<br>lady<br>wish<br>because |  
+| bip_39_word_new_br11 | code<br>away<br>jeans<br>video<br>alert<br>review<br>lizard<br>lady<br>wish<br>because<br>truth |  
+| bip_39_word_new_br12 | code<br>away<br>jeans<br>video<br>alert<br>review<br>lizard<br>lady<br>wish<br>because<br>truth<br>angry |  
+| bip_39_word_new_br2 | code<br>away |  
+| bip_39_word_new_br3 | code<br>away<br>jeans |  
+| bip_39_word_new_br4 | code<br>away<br>jeans<br>video |  
+| bip_39_word_new_br5 | code<br>away<br>jeans<br>video<br>alert |  
+| bip_39_word_new_br6 | code<br>away<br>jeans<br>video<br>alert<br>review |  
+| bip_39_word_new_br7 | code<br>away<br>jeans<br>video<br>alert<br>review<br>lizard |  
+| bip_39_word_new_br8 | code<br>away<br>jeans<br>video<br>alert<br>review<br>lizard<br>lady |  
+| bip_39_word_new_br9 | code<br>away<br>jeans<br>video<br>alert<br>review<br>lizard<br>lady<br>wish |  
+| bip_39_word_new_line1 | code |  
+| bip_39_word_new_line10 | code
+away
+jeans
+video
+alert
+review
+lizard
+lady
+wish
+because |  
+| bip_39_word_new_line11 | code
+away
+jeans
+video
+alert
+review
+lizard
+lady
+wish
+because
+truth |  
+| bip_39_word_new_line12 | code
+away
+jeans
+video
+alert
+review
+lizard
+lady
+wish
+because
+truth
+angry |  
+| bip_39_word_new_line2 | code
+away |  
+| bip_39_word_new_line3 | code
+away
+jeans |  
+| bip_39_word_new_line4 | code
+away
+jeans
+video |  
+| bip_39_word_new_line5 | code
+away
+jeans
+video
+alert |  
+| bip_39_word_new_line6 | code
+away
+jeans
+video
+alert
+review |  
+| bip_39_word_new_line7 | code
+away
+jeans
+video
+alert
+review
+lizard |  
+| bip_39_word_new_line8 | code
+away
+jeans
+video
+alert
+review
+lizard
+lady |  
+| bip_39_word_new_line9 | code
+away
+jeans
+video
+alert
+review
+lizard
+lady
+wish |  
+| bip_39_word_space_0 | ['code', 'away', 'jeans', 'video', 'alert', 'review', 'lizard', 'lady', 'wish', 'because', 'truth', 'angry'] |  
+| bip_39_word_space_1 | code |  
+| bip_39_word_space_10 | code away jeans video alert review lizard lady wish because |  
+| bip_39_word_space_11 | code away jeans video alert review lizard lady wish because truth |  
+| bip_39_word_space_12 | code away jeans video alert review lizard lady wish because truth angry |  
+| bip_39_word_space_2 | code away |  
+| bip_39_word_space_3 | code away jeans |  
+| bip_39_word_space_4 | code away jeans video |  
+| bip_39_word_space_5 | code away jeans video alert |  
+| bip_39_word_space_6 | code away jeans video alert review |  
+| bip_39_word_space_7 | code away jeans video alert review lizard |  
+| bip_39_word_space_8 | code away jeans video alert review lizard lady |  
+| bip_39_word_space_9 | code away jeans video alert review lizard lady wish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

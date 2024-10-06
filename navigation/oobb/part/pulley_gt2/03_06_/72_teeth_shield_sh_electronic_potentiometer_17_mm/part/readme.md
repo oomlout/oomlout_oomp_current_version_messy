@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reunion rapid
+  * bip 39 word 3: reunion rapid silver
+  * bip 39 word: reunion rapid silver carbon lunch unfold web wheel drift scare world agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reunion |  
+| bip_39_word_new_br10 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold<br>web<br>wheel<br>drift<br>scare |  
+| bip_39_word_new_br11 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold<br>web<br>wheel<br>drift<br>scare<br>world |  
+| bip_39_word_new_br12 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold<br>web<br>wheel<br>drift<br>scare<br>world<br>agent |  
+| bip_39_word_new_br2 | reunion<br>rapid |  
+| bip_39_word_new_br3 | reunion<br>rapid<br>silver |  
+| bip_39_word_new_br4 | reunion<br>rapid<br>silver<br>carbon |  
+| bip_39_word_new_br5 | reunion<br>rapid<br>silver<br>carbon<br>lunch |  
+| bip_39_word_new_br6 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold |  
+| bip_39_word_new_br7 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold<br>web |  
+| bip_39_word_new_br8 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold<br>web<br>wheel |  
+| bip_39_word_new_br9 | reunion<br>rapid<br>silver<br>carbon<br>lunch<br>unfold<br>web<br>wheel<br>drift |  
+| bip_39_word_new_line1 | reunion |  
+| bip_39_word_new_line10 | reunion
+rapid
+silver
+carbon
+lunch
+unfold
+web
+wheel
+drift
+scare |  
+| bip_39_word_new_line11 | reunion
+rapid
+silver
+carbon
+lunch
+unfold
+web
+wheel
+drift
+scare
+world |  
+| bip_39_word_new_line12 | reunion
+rapid
+silver
+carbon
+lunch
+unfold
+web
+wheel
+drift
+scare
+world
+agent |  
+| bip_39_word_new_line2 | reunion
+rapid |  
+| bip_39_word_new_line3 | reunion
+rapid
+silver |  
+| bip_39_word_new_line4 | reunion
+rapid
+silver
+carbon |  
+| bip_39_word_new_line5 | reunion
+rapid
+silver
+carbon
+lunch |  
+| bip_39_word_new_line6 | reunion
+rapid
+silver
+carbon
+lunch
+unfold |  
+| bip_39_word_new_line7 | reunion
+rapid
+silver
+carbon
+lunch
+unfold
+web |  
+| bip_39_word_new_line8 | reunion
+rapid
+silver
+carbon
+lunch
+unfold
+web
+wheel |  
+| bip_39_word_new_line9 | reunion
+rapid
+silver
+carbon
+lunch
+unfold
+web
+wheel
+drift |  
+| bip_39_word_space_0 | ['reunion', 'rapid', 'silver', 'carbon', 'lunch', 'unfold', 'web', 'wheel', 'drift', 'scare', 'world', 'agent'] |  
+| bip_39_word_space_1 | reunion |  
+| bip_39_word_space_10 | reunion rapid silver carbon lunch unfold web wheel drift scare |  
+| bip_39_word_space_11 | reunion rapid silver carbon lunch unfold web wheel drift scare world |  
+| bip_39_word_space_12 | reunion rapid silver carbon lunch unfold web wheel drift scare world agent |  
+| bip_39_word_space_2 | reunion rapid |  
+| bip_39_word_space_3 | reunion rapid silver |  
+| bip_39_word_space_4 | reunion rapid silver carbon |  
+| bip_39_word_space_5 | reunion rapid silver carbon lunch |  
+| bip_39_word_space_6 | reunion rapid silver carbon lunch unfold |  
+| bip_39_word_space_7 | reunion rapid silver carbon lunch unfold web |  
+| bip_39_word_space_8 | reunion rapid silver carbon lunch unfold web wheel |  
+| bip_39_word_space_9 | reunion rapid silver carbon lunch unfold web wheel drift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

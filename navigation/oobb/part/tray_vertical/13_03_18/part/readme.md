@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: web tilt
+  * bip 39 word 3: web tilt mistake
+  * bip 39 word: web tilt mistake wild nut trim fog farm film occur talent action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | web |  
+| bip_39_word_new_br10 | web<br>tilt<br>mistake<br>wild<br>nut<br>trim<br>fog<br>farm<br>film<br>occur |  
+| bip_39_word_new_br11 | web<br>tilt<br>mistake<br>wild<br>nut<br>trim<br>fog<br>farm<br>film<br>occur<br>talent |  
+| bip_39_word_new_br12 | web<br>tilt<br>mistake<br>wild<br>nut<br>trim<br>fog<br>farm<br>film<br>occur<br>talent<br>action |  
+| bip_39_word_new_br2 | web<br>tilt |  
+| bip_39_word_new_br3 | web<br>tilt<br>mistake |  
+| bip_39_word_new_br4 | web<br>tilt<br>mistake<br>wild |  
+| bip_39_word_new_br5 | web<br>tilt<br>mistake<br>wild<br>nut |  
+| bip_39_word_new_br6 | web<br>tilt<br>mistake<br>wild<br>nut<br>trim |  
+| bip_39_word_new_br7 | web<br>tilt<br>mistake<br>wild<br>nut<br>trim<br>fog |  
+| bip_39_word_new_br8 | web<br>tilt<br>mistake<br>wild<br>nut<br>trim<br>fog<br>farm |  
+| bip_39_word_new_br9 | web<br>tilt<br>mistake<br>wild<br>nut<br>trim<br>fog<br>farm<br>film |  
+| bip_39_word_new_line1 | web |  
+| bip_39_word_new_line10 | web
+tilt
+mistake
+wild
+nut
+trim
+fog
+farm
+film
+occur |  
+| bip_39_word_new_line11 | web
+tilt
+mistake
+wild
+nut
+trim
+fog
+farm
+film
+occur
+talent |  
+| bip_39_word_new_line12 | web
+tilt
+mistake
+wild
+nut
+trim
+fog
+farm
+film
+occur
+talent
+action |  
+| bip_39_word_new_line2 | web
+tilt |  
+| bip_39_word_new_line3 | web
+tilt
+mistake |  
+| bip_39_word_new_line4 | web
+tilt
+mistake
+wild |  
+| bip_39_word_new_line5 | web
+tilt
+mistake
+wild
+nut |  
+| bip_39_word_new_line6 | web
+tilt
+mistake
+wild
+nut
+trim |  
+| bip_39_word_new_line7 | web
+tilt
+mistake
+wild
+nut
+trim
+fog |  
+| bip_39_word_new_line8 | web
+tilt
+mistake
+wild
+nut
+trim
+fog
+farm |  
+| bip_39_word_new_line9 | web
+tilt
+mistake
+wild
+nut
+trim
+fog
+farm
+film |  
+| bip_39_word_space_0 | ['web', 'tilt', 'mistake', 'wild', 'nut', 'trim', 'fog', 'farm', 'film', 'occur', 'talent', 'action'] |  
+| bip_39_word_space_1 | web |  
+| bip_39_word_space_10 | web tilt mistake wild nut trim fog farm film occur |  
+| bip_39_word_space_11 | web tilt mistake wild nut trim fog farm film occur talent |  
+| bip_39_word_space_12 | web tilt mistake wild nut trim fog farm film occur talent action |  
+| bip_39_word_space_2 | web tilt |  
+| bip_39_word_space_3 | web tilt mistake |  
+| bip_39_word_space_4 | web tilt mistake wild |  
+| bip_39_word_space_5 | web tilt mistake wild nut |  
+| bip_39_word_space_6 | web tilt mistake wild nut trim |  
+| bip_39_word_space_7 | web tilt mistake wild nut trim fog |  
+| bip_39_word_space_8 | web tilt mistake wild nut trim fog farm |  
+| bip_39_word_space_9 | web tilt mistake wild nut trim fog farm film |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

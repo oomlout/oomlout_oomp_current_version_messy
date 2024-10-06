@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scout insane
+  * bip 39 word 3: scout insane achieve
+  * bip 39 word: scout insane achieve acoustic morning celery shy upper property mass flower auction
 
 ### other_codes
 * short_code: cs4bz50pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scout |  
+| bip_39_word_new_br10 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery<br>shy<br>upper<br>property<br>mass |  
+| bip_39_word_new_br11 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery<br>shy<br>upper<br>property<br>mass<br>flower |  
+| bip_39_word_new_br12 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery<br>shy<br>upper<br>property<br>mass<br>flower<br>auction |  
+| bip_39_word_new_br2 | scout<br>insane |  
+| bip_39_word_new_br3 | scout<br>insane<br>achieve |  
+| bip_39_word_new_br4 | scout<br>insane<br>achieve<br>acoustic |  
+| bip_39_word_new_br5 | scout<br>insane<br>achieve<br>acoustic<br>morning |  
+| bip_39_word_new_br6 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery |  
+| bip_39_word_new_br7 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery<br>shy |  
+| bip_39_word_new_br8 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery<br>shy<br>upper |  
+| bip_39_word_new_br9 | scout<br>insane<br>achieve<br>acoustic<br>morning<br>celery<br>shy<br>upper<br>property |  
+| bip_39_word_new_line1 | scout |  
+| bip_39_word_new_line10 | scout
+insane
+achieve
+acoustic
+morning
+celery
+shy
+upper
+property
+mass |  
+| bip_39_word_new_line11 | scout
+insane
+achieve
+acoustic
+morning
+celery
+shy
+upper
+property
+mass
+flower |  
+| bip_39_word_new_line12 | scout
+insane
+achieve
+acoustic
+morning
+celery
+shy
+upper
+property
+mass
+flower
+auction |  
+| bip_39_word_new_line2 | scout
+insane |  
+| bip_39_word_new_line3 | scout
+insane
+achieve |  
+| bip_39_word_new_line4 | scout
+insane
+achieve
+acoustic |  
+| bip_39_word_new_line5 | scout
+insane
+achieve
+acoustic
+morning |  
+| bip_39_word_new_line6 | scout
+insane
+achieve
+acoustic
+morning
+celery |  
+| bip_39_word_new_line7 | scout
+insane
+achieve
+acoustic
+morning
+celery
+shy |  
+| bip_39_word_new_line8 | scout
+insane
+achieve
+acoustic
+morning
+celery
+shy
+upper |  
+| bip_39_word_new_line9 | scout
+insane
+achieve
+acoustic
+morning
+celery
+shy
+upper
+property |  
+| bip_39_word_space_0 | ['scout', 'insane', 'achieve', 'acoustic', 'morning', 'celery', 'shy', 'upper', 'property', 'mass', 'flower', 'auction'] |  
+| bip_39_word_space_1 | scout |  
+| bip_39_word_space_10 | scout insane achieve acoustic morning celery shy upper property mass |  
+| bip_39_word_space_11 | scout insane achieve acoustic morning celery shy upper property mass flower |  
+| bip_39_word_space_12 | scout insane achieve acoustic morning celery shy upper property mass flower auction |  
+| bip_39_word_space_2 | scout insane |  
+| bip_39_word_space_3 | scout insane achieve |  
+| bip_39_word_space_4 | scout insane achieve acoustic |  
+| bip_39_word_space_5 | scout insane achieve acoustic morning |  
+| bip_39_word_space_6 | scout insane achieve acoustic morning celery |  
+| bip_39_word_space_7 | scout insane achieve acoustic morning celery shy |  
+| bip_39_word_space_8 | scout insane achieve acoustic morning celery shy upper |  
+| bip_39_word_space_9 | scout insane achieve acoustic morning celery shy upper property |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

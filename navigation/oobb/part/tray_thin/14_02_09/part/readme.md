@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rack erupt
+  * bip 39 word 3: rack erupt inmate
+  * bip 39 word: rack erupt inmate inner actor crucial hope want ginger unknown fine action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rack |  
+| bip_39_word_new_br10 | rack<br>erupt<br>inmate<br>inner<br>actor<br>crucial<br>hope<br>want<br>ginger<br>unknown |  
+| bip_39_word_new_br11 | rack<br>erupt<br>inmate<br>inner<br>actor<br>crucial<br>hope<br>want<br>ginger<br>unknown<br>fine |  
+| bip_39_word_new_br12 | rack<br>erupt<br>inmate<br>inner<br>actor<br>crucial<br>hope<br>want<br>ginger<br>unknown<br>fine<br>action |  
+| bip_39_word_new_br2 | rack<br>erupt |  
+| bip_39_word_new_br3 | rack<br>erupt<br>inmate |  
+| bip_39_word_new_br4 | rack<br>erupt<br>inmate<br>inner |  
+| bip_39_word_new_br5 | rack<br>erupt<br>inmate<br>inner<br>actor |  
+| bip_39_word_new_br6 | rack<br>erupt<br>inmate<br>inner<br>actor<br>crucial |  
+| bip_39_word_new_br7 | rack<br>erupt<br>inmate<br>inner<br>actor<br>crucial<br>hope |  
+| bip_39_word_new_br8 | rack<br>erupt<br>inmate<br>inner<br>actor<br>crucial<br>hope<br>want |  
+| bip_39_word_new_br9 | rack<br>erupt<br>inmate<br>inner<br>actor<br>crucial<br>hope<br>want<br>ginger |  
+| bip_39_word_new_line1 | rack |  
+| bip_39_word_new_line10 | rack
+erupt
+inmate
+inner
+actor
+crucial
+hope
+want
+ginger
+unknown |  
+| bip_39_word_new_line11 | rack
+erupt
+inmate
+inner
+actor
+crucial
+hope
+want
+ginger
+unknown
+fine |  
+| bip_39_word_new_line12 | rack
+erupt
+inmate
+inner
+actor
+crucial
+hope
+want
+ginger
+unknown
+fine
+action |  
+| bip_39_word_new_line2 | rack
+erupt |  
+| bip_39_word_new_line3 | rack
+erupt
+inmate |  
+| bip_39_word_new_line4 | rack
+erupt
+inmate
+inner |  
+| bip_39_word_new_line5 | rack
+erupt
+inmate
+inner
+actor |  
+| bip_39_word_new_line6 | rack
+erupt
+inmate
+inner
+actor
+crucial |  
+| bip_39_word_new_line7 | rack
+erupt
+inmate
+inner
+actor
+crucial
+hope |  
+| bip_39_word_new_line8 | rack
+erupt
+inmate
+inner
+actor
+crucial
+hope
+want |  
+| bip_39_word_new_line9 | rack
+erupt
+inmate
+inner
+actor
+crucial
+hope
+want
+ginger |  
+| bip_39_word_space_0 | ['rack', 'erupt', 'inmate', 'inner', 'actor', 'crucial', 'hope', 'want', 'ginger', 'unknown', 'fine', 'action'] |  
+| bip_39_word_space_1 | rack |  
+| bip_39_word_space_10 | rack erupt inmate inner actor crucial hope want ginger unknown |  
+| bip_39_word_space_11 | rack erupt inmate inner actor crucial hope want ginger unknown fine |  
+| bip_39_word_space_12 | rack erupt inmate inner actor crucial hope want ginger unknown fine action |  
+| bip_39_word_space_2 | rack erupt |  
+| bip_39_word_space_3 | rack erupt inmate |  
+| bip_39_word_space_4 | rack erupt inmate inner |  
+| bip_39_word_space_5 | rack erupt inmate inner actor |  
+| bip_39_word_space_6 | rack erupt inmate inner actor crucial |  
+| bip_39_word_space_7 | rack erupt inmate inner actor crucial hope |  
+| bip_39_word_space_8 | rack erupt inmate inner actor crucial hope want |  
+| bip_39_word_space_9 | rack erupt inmate inner actor crucial hope want ginger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

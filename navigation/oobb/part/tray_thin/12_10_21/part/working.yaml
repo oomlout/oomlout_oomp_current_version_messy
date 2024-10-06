@@ -1,3 +1,186 @@
+bip_39_word_new_br1: obscure
+bip_39_word_new_br10: obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost
+bip_39_word_new_br11: obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost<br>pride
+bip_39_word_new_br12: obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop<br>ghost<br>pride<br>accident
+bip_39_word_new_br2: obscure<br>salad
+bip_39_word_new_br3: obscure<br>salad<br>relief
+bip_39_word_new_br4: obscure<br>salad<br>relief<br>system
+bip_39_word_new_br5: obscure<br>salad<br>relief<br>system<br>radar
+bip_39_word_new_br6: obscure<br>salad<br>relief<br>system<br>radar<br>practice
+bip_39_word_new_br7: obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front
+bip_39_word_new_br8: obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown
+bip_39_word_new_br9: obscure<br>salad<br>relief<br>system<br>radar<br>practice<br>front<br>gown<br>drop
+bip_39_word_new_line1: obscure
+bip_39_word_new_line10: 'obscure
+
+  salad
+
+  relief
+
+  system
+
+  radar
+
+  practice
+
+  front
+
+  gown
+
+  drop
+
+  ghost'
+bip_39_word_new_line11: 'obscure
+
+  salad
+
+  relief
+
+  system
+
+  radar
+
+  practice
+
+  front
+
+  gown
+
+  drop
+
+  ghost
+
+  pride'
+bip_39_word_new_line12: 'obscure
+
+  salad
+
+  relief
+
+  system
+
+  radar
+
+  practice
+
+  front
+
+  gown
+
+  drop
+
+  ghost
+
+  pride
+
+  accident'
+bip_39_word_new_line2: 'obscure
+
+  salad'
+bip_39_word_new_line3: 'obscure
+
+  salad
+
+  relief'
+bip_39_word_new_line4: 'obscure
+
+  salad
+
+  relief
+
+  system'
+bip_39_word_new_line5: 'obscure
+
+  salad
+
+  relief
+
+  system
+
+  radar'
+bip_39_word_new_line6: 'obscure
+
+  salad
+
+  relief
+
+  system
+
+  radar
+
+  practice'
+bip_39_word_new_line7: 'obscure
+
+  salad
+
+  relief
+
+  system
+
+  radar
+
+  practice
+
+  front'
+bip_39_word_new_line8: 'obscure
+
+  salad
+
+  relief
+
+  system
+
+  radar
+
+  practice
+
+  front
+
+  gown'
+bip_39_word_new_line9: 'obscure
+
+  salad
+
+  relief
+
+  system
+
+  radar
+
+  practice
+
+  front
+
+  gown
+
+  drop'
+bip_39_word_space_0:
+- obscure
+- salad
+- relief
+- system
+- radar
+- practice
+- front
+- gown
+- drop
+- ghost
+- pride
+- accident
+bip_39_word_space_1: obscure
+bip_39_word_space_10: obscure salad relief system radar practice front gown drop ghost
+bip_39_word_space_11: obscure salad relief system radar practice front gown drop ghost
+  pride
+bip_39_word_space_12: obscure salad relief system radar practice front gown drop ghost
+  pride accident
+bip_39_word_space_2: obscure salad
+bip_39_word_space_3: obscure salad relief
+bip_39_word_space_4: obscure salad relief system
+bip_39_word_space_5: obscure salad relief system radar
+bip_39_word_space_6: obscure salad relief system radar practice
+bip_39_word_space_7: obscure salad relief system radar practice front
+bip_39_word_space_8: obscure salad relief system radar practice front gown
+bip_39_word_space_9: obscure salad relief system radar practice front gown drop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

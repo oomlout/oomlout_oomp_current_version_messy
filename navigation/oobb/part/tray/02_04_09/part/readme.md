@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: horse father
+  * bip 39 word 3: horse father mad
+  * bip 39 word: horse father mad skull slush clean fork excuse play marine smart arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | horse |  
+| bip_39_word_new_br10 | horse<br>father<br>mad<br>skull<br>slush<br>clean<br>fork<br>excuse<br>play<br>marine |  
+| bip_39_word_new_br11 | horse<br>father<br>mad<br>skull<br>slush<br>clean<br>fork<br>excuse<br>play<br>marine<br>smart |  
+| bip_39_word_new_br12 | horse<br>father<br>mad<br>skull<br>slush<br>clean<br>fork<br>excuse<br>play<br>marine<br>smart<br>arrest |  
+| bip_39_word_new_br2 | horse<br>father |  
+| bip_39_word_new_br3 | horse<br>father<br>mad |  
+| bip_39_word_new_br4 | horse<br>father<br>mad<br>skull |  
+| bip_39_word_new_br5 | horse<br>father<br>mad<br>skull<br>slush |  
+| bip_39_word_new_br6 | horse<br>father<br>mad<br>skull<br>slush<br>clean |  
+| bip_39_word_new_br7 | horse<br>father<br>mad<br>skull<br>slush<br>clean<br>fork |  
+| bip_39_word_new_br8 | horse<br>father<br>mad<br>skull<br>slush<br>clean<br>fork<br>excuse |  
+| bip_39_word_new_br9 | horse<br>father<br>mad<br>skull<br>slush<br>clean<br>fork<br>excuse<br>play |  
+| bip_39_word_new_line1 | horse |  
+| bip_39_word_new_line10 | horse
+father
+mad
+skull
+slush
+clean
+fork
+excuse
+play
+marine |  
+| bip_39_word_new_line11 | horse
+father
+mad
+skull
+slush
+clean
+fork
+excuse
+play
+marine
+smart |  
+| bip_39_word_new_line12 | horse
+father
+mad
+skull
+slush
+clean
+fork
+excuse
+play
+marine
+smart
+arrest |  
+| bip_39_word_new_line2 | horse
+father |  
+| bip_39_word_new_line3 | horse
+father
+mad |  
+| bip_39_word_new_line4 | horse
+father
+mad
+skull |  
+| bip_39_word_new_line5 | horse
+father
+mad
+skull
+slush |  
+| bip_39_word_new_line6 | horse
+father
+mad
+skull
+slush
+clean |  
+| bip_39_word_new_line7 | horse
+father
+mad
+skull
+slush
+clean
+fork |  
+| bip_39_word_new_line8 | horse
+father
+mad
+skull
+slush
+clean
+fork
+excuse |  
+| bip_39_word_new_line9 | horse
+father
+mad
+skull
+slush
+clean
+fork
+excuse
+play |  
+| bip_39_word_space_0 | ['horse', 'father', 'mad', 'skull', 'slush', 'clean', 'fork', 'excuse', 'play', 'marine', 'smart', 'arrest'] |  
+| bip_39_word_space_1 | horse |  
+| bip_39_word_space_10 | horse father mad skull slush clean fork excuse play marine |  
+| bip_39_word_space_11 | horse father mad skull slush clean fork excuse play marine smart |  
+| bip_39_word_space_12 | horse father mad skull slush clean fork excuse play marine smart arrest |  
+| bip_39_word_space_2 | horse father |  
+| bip_39_word_space_3 | horse father mad |  
+| bip_39_word_space_4 | horse father mad skull |  
+| bip_39_word_space_5 | horse father mad skull slush |  
+| bip_39_word_space_6 | horse father mad skull slush clean |  
+| bip_39_word_space_7 | horse father mad skull slush clean fork |  
+| bip_39_word_space_8 | horse father mad skull slush clean fork excuse |  
+| bip_39_word_space_9 | horse father mad skull slush clean fork excuse play |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: enrich
+bip_39_word_new_br10: enrich<br>title<br>drum<br>glow<br>phone<br>design<br>fox<br>zebra<br>gain<br>pistol
+bip_39_word_new_br11: enrich<br>title<br>drum<br>glow<br>phone<br>design<br>fox<br>zebra<br>gain<br>pistol<br>fabric
+bip_39_word_new_br12: enrich<br>title<br>drum<br>glow<br>phone<br>design<br>fox<br>zebra<br>gain<br>pistol<br>fabric<br>annual
+bip_39_word_new_br2: enrich<br>title
+bip_39_word_new_br3: enrich<br>title<br>drum
+bip_39_word_new_br4: enrich<br>title<br>drum<br>glow
+bip_39_word_new_br5: enrich<br>title<br>drum<br>glow<br>phone
+bip_39_word_new_br6: enrich<br>title<br>drum<br>glow<br>phone<br>design
+bip_39_word_new_br7: enrich<br>title<br>drum<br>glow<br>phone<br>design<br>fox
+bip_39_word_new_br8: enrich<br>title<br>drum<br>glow<br>phone<br>design<br>fox<br>zebra
+bip_39_word_new_br9: enrich<br>title<br>drum<br>glow<br>phone<br>design<br>fox<br>zebra<br>gain
+bip_39_word_new_line1: enrich
+bip_39_word_new_line10: 'enrich
+
+  title
+
+  drum
+
+  glow
+
+  phone
+
+  design
+
+  fox
+
+  zebra
+
+  gain
+
+  pistol'
+bip_39_word_new_line11: 'enrich
+
+  title
+
+  drum
+
+  glow
+
+  phone
+
+  design
+
+  fox
+
+  zebra
+
+  gain
+
+  pistol
+
+  fabric'
+bip_39_word_new_line12: 'enrich
+
+  title
+
+  drum
+
+  glow
+
+  phone
+
+  design
+
+  fox
+
+  zebra
+
+  gain
+
+  pistol
+
+  fabric
+
+  annual'
+bip_39_word_new_line2: 'enrich
+
+  title'
+bip_39_word_new_line3: 'enrich
+
+  title
+
+  drum'
+bip_39_word_new_line4: 'enrich
+
+  title
+
+  drum
+
+  glow'
+bip_39_word_new_line5: 'enrich
+
+  title
+
+  drum
+
+  glow
+
+  phone'
+bip_39_word_new_line6: 'enrich
+
+  title
+
+  drum
+
+  glow
+
+  phone
+
+  design'
+bip_39_word_new_line7: 'enrich
+
+  title
+
+  drum
+
+  glow
+
+  phone
+
+  design
+
+  fox'
+bip_39_word_new_line8: 'enrich
+
+  title
+
+  drum
+
+  glow
+
+  phone
+
+  design
+
+  fox
+
+  zebra'
+bip_39_word_new_line9: 'enrich
+
+  title
+
+  drum
+
+  glow
+
+  phone
+
+  design
+
+  fox
+
+  zebra
+
+  gain'
+bip_39_word_space_0:
+- enrich
+- title
+- drum
+- glow
+- phone
+- design
+- fox
+- zebra
+- gain
+- pistol
+- fabric
+- annual
+bip_39_word_space_1: enrich
+bip_39_word_space_10: enrich title drum glow phone design fox zebra gain pistol
+bip_39_word_space_11: enrich title drum glow phone design fox zebra gain pistol fabric
+bip_39_word_space_12: enrich title drum glow phone design fox zebra gain pistol fabric
+  annual
+bip_39_word_space_2: enrich title
+bip_39_word_space_3: enrich title drum
+bip_39_word_space_4: enrich title drum glow
+bip_39_word_space_5: enrich title drum glow phone
+bip_39_word_space_6: enrich title drum glow phone design
+bip_39_word_space_7: enrich title drum glow phone design fox
+bip_39_word_space_8: enrich title drum glow phone design fox zebra
+bip_39_word_space_9: enrich title drum glow phone design fox zebra gain
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

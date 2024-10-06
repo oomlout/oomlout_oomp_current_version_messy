@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: agent tiny
+  * bip 39 word 3: agent tiny decorate
+  * bip 39 word: agent tiny decorate bring salad mosquito shop violin bag olive way ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | agent |  
+| bip_39_word_new_br10 | agent<br>tiny<br>decorate<br>bring<br>salad<br>mosquito<br>shop<br>violin<br>bag<br>olive |  
+| bip_39_word_new_br11 | agent<br>tiny<br>decorate<br>bring<br>salad<br>mosquito<br>shop<br>violin<br>bag<br>olive<br>way |  
+| bip_39_word_new_br12 | agent<br>tiny<br>decorate<br>bring<br>salad<br>mosquito<br>shop<br>violin<br>bag<br>olive<br>way<br>ask |  
+| bip_39_word_new_br2 | agent<br>tiny |  
+| bip_39_word_new_br3 | agent<br>tiny<br>decorate |  
+| bip_39_word_new_br4 | agent<br>tiny<br>decorate<br>bring |  
+| bip_39_word_new_br5 | agent<br>tiny<br>decorate<br>bring<br>salad |  
+| bip_39_word_new_br6 | agent<br>tiny<br>decorate<br>bring<br>salad<br>mosquito |  
+| bip_39_word_new_br7 | agent<br>tiny<br>decorate<br>bring<br>salad<br>mosquito<br>shop |  
+| bip_39_word_new_br8 | agent<br>tiny<br>decorate<br>bring<br>salad<br>mosquito<br>shop<br>violin |  
+| bip_39_word_new_br9 | agent<br>tiny<br>decorate<br>bring<br>salad<br>mosquito<br>shop<br>violin<br>bag |  
+| bip_39_word_new_line1 | agent |  
+| bip_39_word_new_line10 | agent
+tiny
+decorate
+bring
+salad
+mosquito
+shop
+violin
+bag
+olive |  
+| bip_39_word_new_line11 | agent
+tiny
+decorate
+bring
+salad
+mosquito
+shop
+violin
+bag
+olive
+way |  
+| bip_39_word_new_line12 | agent
+tiny
+decorate
+bring
+salad
+mosquito
+shop
+violin
+bag
+olive
+way
+ask |  
+| bip_39_word_new_line2 | agent
+tiny |  
+| bip_39_word_new_line3 | agent
+tiny
+decorate |  
+| bip_39_word_new_line4 | agent
+tiny
+decorate
+bring |  
+| bip_39_word_new_line5 | agent
+tiny
+decorate
+bring
+salad |  
+| bip_39_word_new_line6 | agent
+tiny
+decorate
+bring
+salad
+mosquito |  
+| bip_39_word_new_line7 | agent
+tiny
+decorate
+bring
+salad
+mosquito
+shop |  
+| bip_39_word_new_line8 | agent
+tiny
+decorate
+bring
+salad
+mosquito
+shop
+violin |  
+| bip_39_word_new_line9 | agent
+tiny
+decorate
+bring
+salad
+mosquito
+shop
+violin
+bag |  
+| bip_39_word_space_0 | ['agent', 'tiny', 'decorate', 'bring', 'salad', 'mosquito', 'shop', 'violin', 'bag', 'olive', 'way', 'ask'] |  
+| bip_39_word_space_1 | agent |  
+| bip_39_word_space_10 | agent tiny decorate bring salad mosquito shop violin bag olive |  
+| bip_39_word_space_11 | agent tiny decorate bring salad mosquito shop violin bag olive way |  
+| bip_39_word_space_12 | agent tiny decorate bring salad mosquito shop violin bag olive way ask |  
+| bip_39_word_space_2 | agent tiny |  
+| bip_39_word_space_3 | agent tiny decorate |  
+| bip_39_word_space_4 | agent tiny decorate bring |  
+| bip_39_word_space_5 | agent tiny decorate bring salad |  
+| bip_39_word_space_6 | agent tiny decorate bring salad mosquito |  
+| bip_39_word_space_7 | agent tiny decorate bring salad mosquito shop |  
+| bip_39_word_space_8 | agent tiny decorate bring salad mosquito shop violin |  
+| bip_39_word_space_9 | agent tiny decorate bring salad mosquito shop violin bag |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

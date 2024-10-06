@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: such response
+  * bip 39 word 3: such response limit
+  * bip 39 word: such response limit office major awkward insect sadness review direct supreme adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | such |  
+| bip_39_word_new_br10 | such<br>response<br>limit<br>office<br>major<br>awkward<br>insect<br>sadness<br>review<br>direct |  
+| bip_39_word_new_br11 | such<br>response<br>limit<br>office<br>major<br>awkward<br>insect<br>sadness<br>review<br>direct<br>supreme |  
+| bip_39_word_new_br12 | such<br>response<br>limit<br>office<br>major<br>awkward<br>insect<br>sadness<br>review<br>direct<br>supreme<br>adapt |  
+| bip_39_word_new_br2 | such<br>response |  
+| bip_39_word_new_br3 | such<br>response<br>limit |  
+| bip_39_word_new_br4 | such<br>response<br>limit<br>office |  
+| bip_39_word_new_br5 | such<br>response<br>limit<br>office<br>major |  
+| bip_39_word_new_br6 | such<br>response<br>limit<br>office<br>major<br>awkward |  
+| bip_39_word_new_br7 | such<br>response<br>limit<br>office<br>major<br>awkward<br>insect |  
+| bip_39_word_new_br8 | such<br>response<br>limit<br>office<br>major<br>awkward<br>insect<br>sadness |  
+| bip_39_word_new_br9 | such<br>response<br>limit<br>office<br>major<br>awkward<br>insect<br>sadness<br>review |  
+| bip_39_word_new_line1 | such |  
+| bip_39_word_new_line10 | such
+response
+limit
+office
+major
+awkward
+insect
+sadness
+review
+direct |  
+| bip_39_word_new_line11 | such
+response
+limit
+office
+major
+awkward
+insect
+sadness
+review
+direct
+supreme |  
+| bip_39_word_new_line12 | such
+response
+limit
+office
+major
+awkward
+insect
+sadness
+review
+direct
+supreme
+adapt |  
+| bip_39_word_new_line2 | such
+response |  
+| bip_39_word_new_line3 | such
+response
+limit |  
+| bip_39_word_new_line4 | such
+response
+limit
+office |  
+| bip_39_word_new_line5 | such
+response
+limit
+office
+major |  
+| bip_39_word_new_line6 | such
+response
+limit
+office
+major
+awkward |  
+| bip_39_word_new_line7 | such
+response
+limit
+office
+major
+awkward
+insect |  
+| bip_39_word_new_line8 | such
+response
+limit
+office
+major
+awkward
+insect
+sadness |  
+| bip_39_word_new_line9 | such
+response
+limit
+office
+major
+awkward
+insect
+sadness
+review |  
+| bip_39_word_space_0 | ['such', 'response', 'limit', 'office', 'major', 'awkward', 'insect', 'sadness', 'review', 'direct', 'supreme', 'adapt'] |  
+| bip_39_word_space_1 | such |  
+| bip_39_word_space_10 | such response limit office major awkward insect sadness review direct |  
+| bip_39_word_space_11 | such response limit office major awkward insect sadness review direct supreme |  
+| bip_39_word_space_12 | such response limit office major awkward insect sadness review direct supreme adapt |  
+| bip_39_word_space_2 | such response |  
+| bip_39_word_space_3 | such response limit |  
+| bip_39_word_space_4 | such response limit office |  
+| bip_39_word_space_5 | such response limit office major |  
+| bip_39_word_space_6 | such response limit office major awkward |  
+| bip_39_word_space_7 | such response limit office major awkward insect |  
+| bip_39_word_space_8 | such response limit office major awkward insect sadness |  
+| bip_39_word_space_9 | such response limit office major awkward insect sadness review |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

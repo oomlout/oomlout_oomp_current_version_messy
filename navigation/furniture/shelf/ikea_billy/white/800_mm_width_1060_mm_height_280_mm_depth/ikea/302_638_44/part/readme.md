@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 800_mm_width_1060_mm_height_280_mm_depth
   * manufacturer: ikea
   * part_number: 302_638_44
+  * bip 39 word 2: huge ask
+  * bip 39 word 3: huge ask trip
+  * bip 39 word: huge ask trip present only awake fall visit discover put click athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | huge |  
+| bip_39_word_new_br10 | huge<br>ask<br>trip<br>present<br>only<br>awake<br>fall<br>visit<br>discover<br>put |  
+| bip_39_word_new_br11 | huge<br>ask<br>trip<br>present<br>only<br>awake<br>fall<br>visit<br>discover<br>put<br>click |  
+| bip_39_word_new_br12 | huge<br>ask<br>trip<br>present<br>only<br>awake<br>fall<br>visit<br>discover<br>put<br>click<br>athlete |  
+| bip_39_word_new_br2 | huge<br>ask |  
+| bip_39_word_new_br3 | huge<br>ask<br>trip |  
+| bip_39_word_new_br4 | huge<br>ask<br>trip<br>present |  
+| bip_39_word_new_br5 | huge<br>ask<br>trip<br>present<br>only |  
+| bip_39_word_new_br6 | huge<br>ask<br>trip<br>present<br>only<br>awake |  
+| bip_39_word_new_br7 | huge<br>ask<br>trip<br>present<br>only<br>awake<br>fall |  
+| bip_39_word_new_br8 | huge<br>ask<br>trip<br>present<br>only<br>awake<br>fall<br>visit |  
+| bip_39_word_new_br9 | huge<br>ask<br>trip<br>present<br>only<br>awake<br>fall<br>visit<br>discover |  
+| bip_39_word_new_line1 | huge |  
+| bip_39_word_new_line10 | huge
+ask
+trip
+present
+only
+awake
+fall
+visit
+discover
+put |  
+| bip_39_word_new_line11 | huge
+ask
+trip
+present
+only
+awake
+fall
+visit
+discover
+put
+click |  
+| bip_39_word_new_line12 | huge
+ask
+trip
+present
+only
+awake
+fall
+visit
+discover
+put
+click
+athlete |  
+| bip_39_word_new_line2 | huge
+ask |  
+| bip_39_word_new_line3 | huge
+ask
+trip |  
+| bip_39_word_new_line4 | huge
+ask
+trip
+present |  
+| bip_39_word_new_line5 | huge
+ask
+trip
+present
+only |  
+| bip_39_word_new_line6 | huge
+ask
+trip
+present
+only
+awake |  
+| bip_39_word_new_line7 | huge
+ask
+trip
+present
+only
+awake
+fall |  
+| bip_39_word_new_line8 | huge
+ask
+trip
+present
+only
+awake
+fall
+visit |  
+| bip_39_word_new_line9 | huge
+ask
+trip
+present
+only
+awake
+fall
+visit
+discover |  
+| bip_39_word_space_0 | ['huge', 'ask', 'trip', 'present', 'only', 'awake', 'fall', 'visit', 'discover', 'put', 'click', 'athlete'] |  
+| bip_39_word_space_1 | huge |  
+| bip_39_word_space_10 | huge ask trip present only awake fall visit discover put |  
+| bip_39_word_space_11 | huge ask trip present only awake fall visit discover put click |  
+| bip_39_word_space_12 | huge ask trip present only awake fall visit discover put click athlete |  
+| bip_39_word_space_2 | huge ask |  
+| bip_39_word_space_3 | huge ask trip |  
+| bip_39_word_space_4 | huge ask trip present |  
+| bip_39_word_space_5 | huge ask trip present only |  
+| bip_39_word_space_6 | huge ask trip present only awake |  
+| bip_39_word_space_7 | huge ask trip present only awake fall |  
+| bip_39_word_space_8 | huge ask trip present only awake fall visit |  
+| bip_39_word_space_9 | huge ask trip present only awake fall visit discover |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

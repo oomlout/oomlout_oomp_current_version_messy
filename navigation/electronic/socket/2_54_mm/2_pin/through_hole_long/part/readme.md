@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: calm candy
+  * bip 39 word 3: calm candy ring
+  * bip 39 word: calm candy ring artwork subway knee digital tongue clog drum bag artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | calm |  
+| bip_39_word_new_br10 | calm<br>candy<br>ring<br>artwork<br>subway<br>knee<br>digital<br>tongue<br>clog<br>drum |  
+| bip_39_word_new_br11 | calm<br>candy<br>ring<br>artwork<br>subway<br>knee<br>digital<br>tongue<br>clog<br>drum<br>bag |  
+| bip_39_word_new_br12 | calm<br>candy<br>ring<br>artwork<br>subway<br>knee<br>digital<br>tongue<br>clog<br>drum<br>bag<br>artefact |  
+| bip_39_word_new_br2 | calm<br>candy |  
+| bip_39_word_new_br3 | calm<br>candy<br>ring |  
+| bip_39_word_new_br4 | calm<br>candy<br>ring<br>artwork |  
+| bip_39_word_new_br5 | calm<br>candy<br>ring<br>artwork<br>subway |  
+| bip_39_word_new_br6 | calm<br>candy<br>ring<br>artwork<br>subway<br>knee |  
+| bip_39_word_new_br7 | calm<br>candy<br>ring<br>artwork<br>subway<br>knee<br>digital |  
+| bip_39_word_new_br8 | calm<br>candy<br>ring<br>artwork<br>subway<br>knee<br>digital<br>tongue |  
+| bip_39_word_new_br9 | calm<br>candy<br>ring<br>artwork<br>subway<br>knee<br>digital<br>tongue<br>clog |  
+| bip_39_word_new_line1 | calm |  
+| bip_39_word_new_line10 | calm
+candy
+ring
+artwork
+subway
+knee
+digital
+tongue
+clog
+drum |  
+| bip_39_word_new_line11 | calm
+candy
+ring
+artwork
+subway
+knee
+digital
+tongue
+clog
+drum
+bag |  
+| bip_39_word_new_line12 | calm
+candy
+ring
+artwork
+subway
+knee
+digital
+tongue
+clog
+drum
+bag
+artefact |  
+| bip_39_word_new_line2 | calm
+candy |  
+| bip_39_word_new_line3 | calm
+candy
+ring |  
+| bip_39_word_new_line4 | calm
+candy
+ring
+artwork |  
+| bip_39_word_new_line5 | calm
+candy
+ring
+artwork
+subway |  
+| bip_39_word_new_line6 | calm
+candy
+ring
+artwork
+subway
+knee |  
+| bip_39_word_new_line7 | calm
+candy
+ring
+artwork
+subway
+knee
+digital |  
+| bip_39_word_new_line8 | calm
+candy
+ring
+artwork
+subway
+knee
+digital
+tongue |  
+| bip_39_word_new_line9 | calm
+candy
+ring
+artwork
+subway
+knee
+digital
+tongue
+clog |  
+| bip_39_word_space_0 | ['calm', 'candy', 'ring', 'artwork', 'subway', 'knee', 'digital', 'tongue', 'clog', 'drum', 'bag', 'artefact'] |  
+| bip_39_word_space_1 | calm |  
+| bip_39_word_space_10 | calm candy ring artwork subway knee digital tongue clog drum |  
+| bip_39_word_space_11 | calm candy ring artwork subway knee digital tongue clog drum bag |  
+| bip_39_word_space_12 | calm candy ring artwork subway knee digital tongue clog drum bag artefact |  
+| bip_39_word_space_2 | calm candy |  
+| bip_39_word_space_3 | calm candy ring |  
+| bip_39_word_space_4 | calm candy ring artwork |  
+| bip_39_word_space_5 | calm candy ring artwork subway |  
+| bip_39_word_space_6 | calm candy ring artwork subway knee |  
+| bip_39_word_space_7 | calm candy ring artwork subway knee digital |  
+| bip_39_word_space_8 | calm candy ring artwork subway knee digital tongue |  
+| bip_39_word_space_9 | calm candy ring artwork subway knee digital tongue clog |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

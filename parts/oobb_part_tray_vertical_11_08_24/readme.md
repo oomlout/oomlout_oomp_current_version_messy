@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: daring brown
+  * bip 39 word 3: daring brown artefact
+  * bip 39 word: daring brown artefact damage pull ramp car large follow impulse toilet asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | daring |  
+| bip_39_word_new_br10 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp<br>car<br>large<br>follow<br>impulse |  
+| bip_39_word_new_br11 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp<br>car<br>large<br>follow<br>impulse<br>toilet |  
+| bip_39_word_new_br12 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp<br>car<br>large<br>follow<br>impulse<br>toilet<br>asthma |  
+| bip_39_word_new_br2 | daring<br>brown |  
+| bip_39_word_new_br3 | daring<br>brown<br>artefact |  
+| bip_39_word_new_br4 | daring<br>brown<br>artefact<br>damage |  
+| bip_39_word_new_br5 | daring<br>brown<br>artefact<br>damage<br>pull |  
+| bip_39_word_new_br6 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp |  
+| bip_39_word_new_br7 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp<br>car |  
+| bip_39_word_new_br8 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp<br>car<br>large |  
+| bip_39_word_new_br9 | daring<br>brown<br>artefact<br>damage<br>pull<br>ramp<br>car<br>large<br>follow |  
+| bip_39_word_new_line1 | daring |  
+| bip_39_word_new_line10 | daring
+brown
+artefact
+damage
+pull
+ramp
+car
+large
+follow
+impulse |  
+| bip_39_word_new_line11 | daring
+brown
+artefact
+damage
+pull
+ramp
+car
+large
+follow
+impulse
+toilet |  
+| bip_39_word_new_line12 | daring
+brown
+artefact
+damage
+pull
+ramp
+car
+large
+follow
+impulse
+toilet
+asthma |  
+| bip_39_word_new_line2 | daring
+brown |  
+| bip_39_word_new_line3 | daring
+brown
+artefact |  
+| bip_39_word_new_line4 | daring
+brown
+artefact
+damage |  
+| bip_39_word_new_line5 | daring
+brown
+artefact
+damage
+pull |  
+| bip_39_word_new_line6 | daring
+brown
+artefact
+damage
+pull
+ramp |  
+| bip_39_word_new_line7 | daring
+brown
+artefact
+damage
+pull
+ramp
+car |  
+| bip_39_word_new_line8 | daring
+brown
+artefact
+damage
+pull
+ramp
+car
+large |  
+| bip_39_word_new_line9 | daring
+brown
+artefact
+damage
+pull
+ramp
+car
+large
+follow |  
+| bip_39_word_space_0 | ['daring', 'brown', 'artefact', 'damage', 'pull', 'ramp', 'car', 'large', 'follow', 'impulse', 'toilet', 'asthma'] |  
+| bip_39_word_space_1 | daring |  
+| bip_39_word_space_10 | daring brown artefact damage pull ramp car large follow impulse |  
+| bip_39_word_space_11 | daring brown artefact damage pull ramp car large follow impulse toilet |  
+| bip_39_word_space_12 | daring brown artefact damage pull ramp car large follow impulse toilet asthma |  
+| bip_39_word_space_2 | daring brown |  
+| bip_39_word_space_3 | daring brown artefact |  
+| bip_39_word_space_4 | daring brown artefact damage |  
+| bip_39_word_space_5 | daring brown artefact damage pull |  
+| bip_39_word_space_6 | daring brown artefact damage pull ramp |  
+| bip_39_word_space_7 | daring brown artefact damage pull ramp car |  
+| bip_39_word_space_8 | daring brown artefact damage pull ramp car large |  
+| bip_39_word_space_9 | daring brown artefact damage pull ramp car large follow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

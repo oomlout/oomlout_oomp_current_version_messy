@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cheap acoustic
+  * bip 39 word 3: cheap acoustic similar
+  * bip 39 word: cheap acoustic similar replace fantasy mosquito father sense entry lobster tornado analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cheap |  
+| bip_39_word_new_br10 | cheap<br>acoustic<br>similar<br>replace<br>fantasy<br>mosquito<br>father<br>sense<br>entry<br>lobster |  
+| bip_39_word_new_br11 | cheap<br>acoustic<br>similar<br>replace<br>fantasy<br>mosquito<br>father<br>sense<br>entry<br>lobster<br>tornado |  
+| bip_39_word_new_br12 | cheap<br>acoustic<br>similar<br>replace<br>fantasy<br>mosquito<br>father<br>sense<br>entry<br>lobster<br>tornado<br>analyst |  
+| bip_39_word_new_br2 | cheap<br>acoustic |  
+| bip_39_word_new_br3 | cheap<br>acoustic<br>similar |  
+| bip_39_word_new_br4 | cheap<br>acoustic<br>similar<br>replace |  
+| bip_39_word_new_br5 | cheap<br>acoustic<br>similar<br>replace<br>fantasy |  
+| bip_39_word_new_br6 | cheap<br>acoustic<br>similar<br>replace<br>fantasy<br>mosquito |  
+| bip_39_word_new_br7 | cheap<br>acoustic<br>similar<br>replace<br>fantasy<br>mosquito<br>father |  
+| bip_39_word_new_br8 | cheap<br>acoustic<br>similar<br>replace<br>fantasy<br>mosquito<br>father<br>sense |  
+| bip_39_word_new_br9 | cheap<br>acoustic<br>similar<br>replace<br>fantasy<br>mosquito<br>father<br>sense<br>entry |  
+| bip_39_word_new_line1 | cheap |  
+| bip_39_word_new_line10 | cheap
+acoustic
+similar
+replace
+fantasy
+mosquito
+father
+sense
+entry
+lobster |  
+| bip_39_word_new_line11 | cheap
+acoustic
+similar
+replace
+fantasy
+mosquito
+father
+sense
+entry
+lobster
+tornado |  
+| bip_39_word_new_line12 | cheap
+acoustic
+similar
+replace
+fantasy
+mosquito
+father
+sense
+entry
+lobster
+tornado
+analyst |  
+| bip_39_word_new_line2 | cheap
+acoustic |  
+| bip_39_word_new_line3 | cheap
+acoustic
+similar |  
+| bip_39_word_new_line4 | cheap
+acoustic
+similar
+replace |  
+| bip_39_word_new_line5 | cheap
+acoustic
+similar
+replace
+fantasy |  
+| bip_39_word_new_line6 | cheap
+acoustic
+similar
+replace
+fantasy
+mosquito |  
+| bip_39_word_new_line7 | cheap
+acoustic
+similar
+replace
+fantasy
+mosquito
+father |  
+| bip_39_word_new_line8 | cheap
+acoustic
+similar
+replace
+fantasy
+mosquito
+father
+sense |  
+| bip_39_word_new_line9 | cheap
+acoustic
+similar
+replace
+fantasy
+mosquito
+father
+sense
+entry |  
+| bip_39_word_space_0 | ['cheap', 'acoustic', 'similar', 'replace', 'fantasy', 'mosquito', 'father', 'sense', 'entry', 'lobster', 'tornado', 'analyst'] |  
+| bip_39_word_space_1 | cheap |  
+| bip_39_word_space_10 | cheap acoustic similar replace fantasy mosquito father sense entry lobster |  
+| bip_39_word_space_11 | cheap acoustic similar replace fantasy mosquito father sense entry lobster tornado |  
+| bip_39_word_space_12 | cheap acoustic similar replace fantasy mosquito father sense entry lobster tornado analyst |  
+| bip_39_word_space_2 | cheap acoustic |  
+| bip_39_word_space_3 | cheap acoustic similar |  
+| bip_39_word_space_4 | cheap acoustic similar replace |  
+| bip_39_word_space_5 | cheap acoustic similar replace fantasy |  
+| bip_39_word_space_6 | cheap acoustic similar replace fantasy mosquito |  
+| bip_39_word_space_7 | cheap acoustic similar replace fantasy mosquito father |  
+| bip_39_word_space_8 | cheap acoustic similar replace fantasy mosquito father sense |  
+| bip_39_word_space_9 | cheap acoustic similar replace fantasy mosquito father sense entry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

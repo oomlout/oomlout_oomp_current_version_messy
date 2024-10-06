@@ -1,3 +1,187 @@
+bip_39_word_new_br1: govern
+bip_39_word_new_br10: govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin
+bip_39_word_new_br11: govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin<br>local
+bip_39_word_new_br12: govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop<br>napkin<br>local<br>adjust
+bip_39_word_new_br2: govern<br>lecture
+bip_39_word_new_br3: govern<br>lecture<br>orbit
+bip_39_word_new_br4: govern<br>lecture<br>orbit<br>shock
+bip_39_word_new_br5: govern<br>lecture<br>orbit<br>shock<br>come
+bip_39_word_new_br6: govern<br>lecture<br>orbit<br>shock<br>come<br>wonder
+bip_39_word_new_br7: govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence
+bip_39_word_new_br8: govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect
+bip_39_word_new_br9: govern<br>lecture<br>orbit<br>shock<br>come<br>wonder<br>sentence<br>expect<br>loop
+bip_39_word_new_line1: govern
+bip_39_word_new_line10: 'govern
+
+  lecture
+
+  orbit
+
+  shock
+
+  come
+
+  wonder
+
+  sentence
+
+  expect
+
+  loop
+
+  napkin'
+bip_39_word_new_line11: 'govern
+
+  lecture
+
+  orbit
+
+  shock
+
+  come
+
+  wonder
+
+  sentence
+
+  expect
+
+  loop
+
+  napkin
+
+  local'
+bip_39_word_new_line12: 'govern
+
+  lecture
+
+  orbit
+
+  shock
+
+  come
+
+  wonder
+
+  sentence
+
+  expect
+
+  loop
+
+  napkin
+
+  local
+
+  adjust'
+bip_39_word_new_line2: 'govern
+
+  lecture'
+bip_39_word_new_line3: 'govern
+
+  lecture
+
+  orbit'
+bip_39_word_new_line4: 'govern
+
+  lecture
+
+  orbit
+
+  shock'
+bip_39_word_new_line5: 'govern
+
+  lecture
+
+  orbit
+
+  shock
+
+  come'
+bip_39_word_new_line6: 'govern
+
+  lecture
+
+  orbit
+
+  shock
+
+  come
+
+  wonder'
+bip_39_word_new_line7: 'govern
+
+  lecture
+
+  orbit
+
+  shock
+
+  come
+
+  wonder
+
+  sentence'
+bip_39_word_new_line8: 'govern
+
+  lecture
+
+  orbit
+
+  shock
+
+  come
+
+  wonder
+
+  sentence
+
+  expect'
+bip_39_word_new_line9: 'govern
+
+  lecture
+
+  orbit
+
+  shock
+
+  come
+
+  wonder
+
+  sentence
+
+  expect
+
+  loop'
+bip_39_word_space_0:
+- govern
+- lecture
+- orbit
+- shock
+- come
+- wonder
+- sentence
+- expect
+- loop
+- napkin
+- local
+- adjust
+bip_39_word_space_1: govern
+bip_39_word_space_10: govern lecture orbit shock come wonder sentence expect loop
+  napkin
+bip_39_word_space_11: govern lecture orbit shock come wonder sentence expect loop
+  napkin local
+bip_39_word_space_12: govern lecture orbit shock come wonder sentence expect loop
+  napkin local adjust
+bip_39_word_space_2: govern lecture
+bip_39_word_space_3: govern lecture orbit
+bip_39_word_space_4: govern lecture orbit shock
+bip_39_word_space_5: govern lecture orbit shock come
+bip_39_word_space_6: govern lecture orbit shock come wonder
+bip_39_word_space_7: govern lecture orbit shock come wonder sentence
+bip_39_word_space_8: govern lecture orbit shock come wonder sentence expect
+bip_39_word_space_9: govern lecture orbit shock come wonder sentence expect loop
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

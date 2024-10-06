@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dirt grunt
+  * bip 39 word 3: dirt grunt replace
+  * bip 39 word: dirt grunt replace whip jealous please upgrade word there west cheap alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dirt |  
+| bip_39_word_new_br10 | dirt<br>grunt<br>replace<br>whip<br>jealous<br>please<br>upgrade<br>word<br>there<br>west |  
+| bip_39_word_new_br11 | dirt<br>grunt<br>replace<br>whip<br>jealous<br>please<br>upgrade<br>word<br>there<br>west<br>cheap |  
+| bip_39_word_new_br12 | dirt<br>grunt<br>replace<br>whip<br>jealous<br>please<br>upgrade<br>word<br>there<br>west<br>cheap<br>alert |  
+| bip_39_word_new_br2 | dirt<br>grunt |  
+| bip_39_word_new_br3 | dirt<br>grunt<br>replace |  
+| bip_39_word_new_br4 | dirt<br>grunt<br>replace<br>whip |  
+| bip_39_word_new_br5 | dirt<br>grunt<br>replace<br>whip<br>jealous |  
+| bip_39_word_new_br6 | dirt<br>grunt<br>replace<br>whip<br>jealous<br>please |  
+| bip_39_word_new_br7 | dirt<br>grunt<br>replace<br>whip<br>jealous<br>please<br>upgrade |  
+| bip_39_word_new_br8 | dirt<br>grunt<br>replace<br>whip<br>jealous<br>please<br>upgrade<br>word |  
+| bip_39_word_new_br9 | dirt<br>grunt<br>replace<br>whip<br>jealous<br>please<br>upgrade<br>word<br>there |  
+| bip_39_word_new_line1 | dirt |  
+| bip_39_word_new_line10 | dirt
+grunt
+replace
+whip
+jealous
+please
+upgrade
+word
+there
+west |  
+| bip_39_word_new_line11 | dirt
+grunt
+replace
+whip
+jealous
+please
+upgrade
+word
+there
+west
+cheap |  
+| bip_39_word_new_line12 | dirt
+grunt
+replace
+whip
+jealous
+please
+upgrade
+word
+there
+west
+cheap
+alert |  
+| bip_39_word_new_line2 | dirt
+grunt |  
+| bip_39_word_new_line3 | dirt
+grunt
+replace |  
+| bip_39_word_new_line4 | dirt
+grunt
+replace
+whip |  
+| bip_39_word_new_line5 | dirt
+grunt
+replace
+whip
+jealous |  
+| bip_39_word_new_line6 | dirt
+grunt
+replace
+whip
+jealous
+please |  
+| bip_39_word_new_line7 | dirt
+grunt
+replace
+whip
+jealous
+please
+upgrade |  
+| bip_39_word_new_line8 | dirt
+grunt
+replace
+whip
+jealous
+please
+upgrade
+word |  
+| bip_39_word_new_line9 | dirt
+grunt
+replace
+whip
+jealous
+please
+upgrade
+word
+there |  
+| bip_39_word_space_0 | ['dirt', 'grunt', 'replace', 'whip', 'jealous', 'please', 'upgrade', 'word', 'there', 'west', 'cheap', 'alert'] |  
+| bip_39_word_space_1 | dirt |  
+| bip_39_word_space_10 | dirt grunt replace whip jealous please upgrade word there west |  
+| bip_39_word_space_11 | dirt grunt replace whip jealous please upgrade word there west cheap |  
+| bip_39_word_space_12 | dirt grunt replace whip jealous please upgrade word there west cheap alert |  
+| bip_39_word_space_2 | dirt grunt |  
+| bip_39_word_space_3 | dirt grunt replace |  
+| bip_39_word_space_4 | dirt grunt replace whip |  
+| bip_39_word_space_5 | dirt grunt replace whip jealous |  
+| bip_39_word_space_6 | dirt grunt replace whip jealous please |  
+| bip_39_word_space_7 | dirt grunt replace whip jealous please upgrade |  
+| bip_39_word_space_8 | dirt grunt replace whip jealous please upgrade word |  
+| bip_39_word_space_9 | dirt grunt replace whip jealous please upgrade word there |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

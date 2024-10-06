@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: album version
+  * bip 39 word 3: album version echo
+  * bip 39 word: album version echo result thumb dad gate turn bless erode build asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | album |  
+| bip_39_word_new_br10 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode |  
+| bip_39_word_new_br11 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode<br>build |  
+| bip_39_word_new_br12 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless<br>erode<br>build<br>asthma |  
+| bip_39_word_new_br2 | album<br>version |  
+| bip_39_word_new_br3 | album<br>version<br>echo |  
+| bip_39_word_new_br4 | album<br>version<br>echo<br>result |  
+| bip_39_word_new_br5 | album<br>version<br>echo<br>result<br>thumb |  
+| bip_39_word_new_br6 | album<br>version<br>echo<br>result<br>thumb<br>dad |  
+| bip_39_word_new_br7 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate |  
+| bip_39_word_new_br8 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn |  
+| bip_39_word_new_br9 | album<br>version<br>echo<br>result<br>thumb<br>dad<br>gate<br>turn<br>bless |  
+| bip_39_word_new_line1 | album |  
+| bip_39_word_new_line10 | album
+version
+echo
+result
+thumb
+dad
+gate
+turn
+bless
+erode |  
+| bip_39_word_new_line11 | album
+version
+echo
+result
+thumb
+dad
+gate
+turn
+bless
+erode
+build |  
+| bip_39_word_new_line12 | album
+version
+echo
+result
+thumb
+dad
+gate
+turn
+bless
+erode
+build
+asthma |  
+| bip_39_word_new_line2 | album
+version |  
+| bip_39_word_new_line3 | album
+version
+echo |  
+| bip_39_word_new_line4 | album
+version
+echo
+result |  
+| bip_39_word_new_line5 | album
+version
+echo
+result
+thumb |  
+| bip_39_word_new_line6 | album
+version
+echo
+result
+thumb
+dad |  
+| bip_39_word_new_line7 | album
+version
+echo
+result
+thumb
+dad
+gate |  
+| bip_39_word_new_line8 | album
+version
+echo
+result
+thumb
+dad
+gate
+turn |  
+| bip_39_word_new_line9 | album
+version
+echo
+result
+thumb
+dad
+gate
+turn
+bless |  
+| bip_39_word_space_0 | ['album', 'version', 'echo', 'result', 'thumb', 'dad', 'gate', 'turn', 'bless', 'erode', 'build', 'asthma'] |  
+| bip_39_word_space_1 | album |  
+| bip_39_word_space_10 | album version echo result thumb dad gate turn bless erode |  
+| bip_39_word_space_11 | album version echo result thumb dad gate turn bless erode build |  
+| bip_39_word_space_12 | album version echo result thumb dad gate turn bless erode build asthma |  
+| bip_39_word_space_2 | album version |  
+| bip_39_word_space_3 | album version echo |  
+| bip_39_word_space_4 | album version echo result |  
+| bip_39_word_space_5 | album version echo result thumb |  
+| bip_39_word_space_6 | album version echo result thumb dad |  
+| bip_39_word_space_7 | album version echo result thumb dad gate |  
+| bip_39_word_space_8 | album version echo result thumb dad gate turn |  
+| bip_39_word_space_9 | album version echo result thumb dad gate turn bless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

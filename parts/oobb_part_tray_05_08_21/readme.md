@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: guess aspect
+  * bip 39 word 3: guess aspect tape
+  * bip 39 word: guess aspect tape volcano dream rib journey knee scout buyer sausage apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | guess |  
+| bip_39_word_new_br10 | guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout<br>buyer |  
+| bip_39_word_new_br11 | guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout<br>buyer<br>sausage |  
+| bip_39_word_new_br12 | guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout<br>buyer<br>sausage<br>apart |  
+| bip_39_word_new_br2 | guess<br>aspect |  
+| bip_39_word_new_br3 | guess<br>aspect<br>tape |  
+| bip_39_word_new_br4 | guess<br>aspect<br>tape<br>volcano |  
+| bip_39_word_new_br5 | guess<br>aspect<br>tape<br>volcano<br>dream |  
+| bip_39_word_new_br6 | guess<br>aspect<br>tape<br>volcano<br>dream<br>rib |  
+| bip_39_word_new_br7 | guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey |  
+| bip_39_word_new_br8 | guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee |  
+| bip_39_word_new_br9 | guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout |  
+| bip_39_word_new_line1 | guess |  
+| bip_39_word_new_line10 | guess
+aspect
+tape
+volcano
+dream
+rib
+journey
+knee
+scout
+buyer |  
+| bip_39_word_new_line11 | guess
+aspect
+tape
+volcano
+dream
+rib
+journey
+knee
+scout
+buyer
+sausage |  
+| bip_39_word_new_line12 | guess
+aspect
+tape
+volcano
+dream
+rib
+journey
+knee
+scout
+buyer
+sausage
+apart |  
+| bip_39_word_new_line2 | guess
+aspect |  
+| bip_39_word_new_line3 | guess
+aspect
+tape |  
+| bip_39_word_new_line4 | guess
+aspect
+tape
+volcano |  
+| bip_39_word_new_line5 | guess
+aspect
+tape
+volcano
+dream |  
+| bip_39_word_new_line6 | guess
+aspect
+tape
+volcano
+dream
+rib |  
+| bip_39_word_new_line7 | guess
+aspect
+tape
+volcano
+dream
+rib
+journey |  
+| bip_39_word_new_line8 | guess
+aspect
+tape
+volcano
+dream
+rib
+journey
+knee |  
+| bip_39_word_new_line9 | guess
+aspect
+tape
+volcano
+dream
+rib
+journey
+knee
+scout |  
+| bip_39_word_space_0 | ['guess', 'aspect', 'tape', 'volcano', 'dream', 'rib', 'journey', 'knee', 'scout', 'buyer', 'sausage', 'apart'] |  
+| bip_39_word_space_1 | guess |  
+| bip_39_word_space_10 | guess aspect tape volcano dream rib journey knee scout buyer |  
+| bip_39_word_space_11 | guess aspect tape volcano dream rib journey knee scout buyer sausage |  
+| bip_39_word_space_12 | guess aspect tape volcano dream rib journey knee scout buyer sausage apart |  
+| bip_39_word_space_2 | guess aspect |  
+| bip_39_word_space_3 | guess aspect tape |  
+| bip_39_word_space_4 | guess aspect tape volcano |  
+| bip_39_word_space_5 | guess aspect tape volcano dream |  
+| bip_39_word_space_6 | guess aspect tape volcano dream rib |  
+| bip_39_word_space_7 | guess aspect tape volcano dream rib journey |  
+| bip_39_word_space_8 | guess aspect tape volcano dream rib journey knee |  
+| bip_39_word_space_9 | guess aspect tape volcano dream rib journey knee scout |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

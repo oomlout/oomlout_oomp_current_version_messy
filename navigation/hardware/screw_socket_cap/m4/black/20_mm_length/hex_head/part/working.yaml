@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tent
+bip_39_word_new_br10: tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle
+bip_39_word_new_br11: tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle<br>goose
+bip_39_word_new_br12: tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork<br>chuckle<br>goose<br>aim
+bip_39_word_new_br2: tent<br>genius
+bip_39_word_new_br3: tent<br>genius<br>jeans
+bip_39_word_new_br4: tent<br>genius<br>jeans<br>angry
+bip_39_word_new_br5: tent<br>genius<br>jeans<br>angry<br>vanish
+bip_39_word_new_br6: tent<br>genius<br>jeans<br>angry<br>vanish<br>island
+bip_39_word_new_br7: tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak
+bip_39_word_new_br8: tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just
+bip_39_word_new_br9: tent<br>genius<br>jeans<br>angry<br>vanish<br>island<br>speak<br>just<br>artwork
+bip_39_word_new_line1: tent
+bip_39_word_new_line10: 'tent
+
+  genius
+
+  jeans
+
+  angry
+
+  vanish
+
+  island
+
+  speak
+
+  just
+
+  artwork
+
+  chuckle'
+bip_39_word_new_line11: 'tent
+
+  genius
+
+  jeans
+
+  angry
+
+  vanish
+
+  island
+
+  speak
+
+  just
+
+  artwork
+
+  chuckle
+
+  goose'
+bip_39_word_new_line12: 'tent
+
+  genius
+
+  jeans
+
+  angry
+
+  vanish
+
+  island
+
+  speak
+
+  just
+
+  artwork
+
+  chuckle
+
+  goose
+
+  aim'
+bip_39_word_new_line2: 'tent
+
+  genius'
+bip_39_word_new_line3: 'tent
+
+  genius
+
+  jeans'
+bip_39_word_new_line4: 'tent
+
+  genius
+
+  jeans
+
+  angry'
+bip_39_word_new_line5: 'tent
+
+  genius
+
+  jeans
+
+  angry
+
+  vanish'
+bip_39_word_new_line6: 'tent
+
+  genius
+
+  jeans
+
+  angry
+
+  vanish
+
+  island'
+bip_39_word_new_line7: 'tent
+
+  genius
+
+  jeans
+
+  angry
+
+  vanish
+
+  island
+
+  speak'
+bip_39_word_new_line8: 'tent
+
+  genius
+
+  jeans
+
+  angry
+
+  vanish
+
+  island
+
+  speak
+
+  just'
+bip_39_word_new_line9: 'tent
+
+  genius
+
+  jeans
+
+  angry
+
+  vanish
+
+  island
+
+  speak
+
+  just
+
+  artwork'
+bip_39_word_space_0:
+- tent
+- genius
+- jeans
+- angry
+- vanish
+- island
+- speak
+- just
+- artwork
+- chuckle
+- goose
+- aim
+bip_39_word_space_1: tent
+bip_39_word_space_10: tent genius jeans angry vanish island speak just artwork chuckle
+bip_39_word_space_11: tent genius jeans angry vanish island speak just artwork chuckle
+  goose
+bip_39_word_space_12: tent genius jeans angry vanish island speak just artwork chuckle
+  goose aim
+bip_39_word_space_2: tent genius
+bip_39_word_space_3: tent genius jeans
+bip_39_word_space_4: tent genius jeans angry
+bip_39_word_space_5: tent genius jeans angry vanish
+bip_39_word_space_6: tent genius jeans angry vanish island
+bip_39_word_space_7: tent genius jeans angry vanish island speak
+bip_39_word_space_8: tent genius jeans angry vanish island speak just
+bip_39_word_space_9: tent genius jeans angry vanish island speak just artwork
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

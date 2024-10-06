@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hello sponsor
+  * bip 39 word 3: hello sponsor violin
+  * bip 39 word: hello sponsor violin diary fiber wrestle direct all clog oblige amateur assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hello |  
+| bip_39_word_new_br10 | hello<br>sponsor<br>violin<br>diary<br>fiber<br>wrestle<br>direct<br>all<br>clog<br>oblige |  
+| bip_39_word_new_br11 | hello<br>sponsor<br>violin<br>diary<br>fiber<br>wrestle<br>direct<br>all<br>clog<br>oblige<br>amateur |  
+| bip_39_word_new_br12 | hello<br>sponsor<br>violin<br>diary<br>fiber<br>wrestle<br>direct<br>all<br>clog<br>oblige<br>amateur<br>assist |  
+| bip_39_word_new_br2 | hello<br>sponsor |  
+| bip_39_word_new_br3 | hello<br>sponsor<br>violin |  
+| bip_39_word_new_br4 | hello<br>sponsor<br>violin<br>diary |  
+| bip_39_word_new_br5 | hello<br>sponsor<br>violin<br>diary<br>fiber |  
+| bip_39_word_new_br6 | hello<br>sponsor<br>violin<br>diary<br>fiber<br>wrestle |  
+| bip_39_word_new_br7 | hello<br>sponsor<br>violin<br>diary<br>fiber<br>wrestle<br>direct |  
+| bip_39_word_new_br8 | hello<br>sponsor<br>violin<br>diary<br>fiber<br>wrestle<br>direct<br>all |  
+| bip_39_word_new_br9 | hello<br>sponsor<br>violin<br>diary<br>fiber<br>wrestle<br>direct<br>all<br>clog |  
+| bip_39_word_new_line1 | hello |  
+| bip_39_word_new_line10 | hello
+sponsor
+violin
+diary
+fiber
+wrestle
+direct
+all
+clog
+oblige |  
+| bip_39_word_new_line11 | hello
+sponsor
+violin
+diary
+fiber
+wrestle
+direct
+all
+clog
+oblige
+amateur |  
+| bip_39_word_new_line12 | hello
+sponsor
+violin
+diary
+fiber
+wrestle
+direct
+all
+clog
+oblige
+amateur
+assist |  
+| bip_39_word_new_line2 | hello
+sponsor |  
+| bip_39_word_new_line3 | hello
+sponsor
+violin |  
+| bip_39_word_new_line4 | hello
+sponsor
+violin
+diary |  
+| bip_39_word_new_line5 | hello
+sponsor
+violin
+diary
+fiber |  
+| bip_39_word_new_line6 | hello
+sponsor
+violin
+diary
+fiber
+wrestle |  
+| bip_39_word_new_line7 | hello
+sponsor
+violin
+diary
+fiber
+wrestle
+direct |  
+| bip_39_word_new_line8 | hello
+sponsor
+violin
+diary
+fiber
+wrestle
+direct
+all |  
+| bip_39_word_new_line9 | hello
+sponsor
+violin
+diary
+fiber
+wrestle
+direct
+all
+clog |  
+| bip_39_word_space_0 | ['hello', 'sponsor', 'violin', 'diary', 'fiber', 'wrestle', 'direct', 'all', 'clog', 'oblige', 'amateur', 'assist'] |  
+| bip_39_word_space_1 | hello |  
+| bip_39_word_space_10 | hello sponsor violin diary fiber wrestle direct all clog oblige |  
+| bip_39_word_space_11 | hello sponsor violin diary fiber wrestle direct all clog oblige amateur |  
+| bip_39_word_space_12 | hello sponsor violin diary fiber wrestle direct all clog oblige amateur assist |  
+| bip_39_word_space_2 | hello sponsor |  
+| bip_39_word_space_3 | hello sponsor violin |  
+| bip_39_word_space_4 | hello sponsor violin diary |  
+| bip_39_word_space_5 | hello sponsor violin diary fiber |  
+| bip_39_word_space_6 | hello sponsor violin diary fiber wrestle |  
+| bip_39_word_space_7 | hello sponsor violin diary fiber wrestle direct |  
+| bip_39_word_space_8 | hello sponsor violin diary fiber wrestle direct all |  
+| bip_39_word_space_9 | hello sponsor violin diary fiber wrestle direct all clog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

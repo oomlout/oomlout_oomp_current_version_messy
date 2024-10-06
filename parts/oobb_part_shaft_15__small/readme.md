@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vapor humble
+  * bip 39 word 3: vapor humble obtain
+  * bip 39 word: vapor humble obtain silk reopen puzzle runway sentence regret unfold decorate already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vapor |  
+| bip_39_word_new_br10 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold |  
+| bip_39_word_new_br11 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold<br>decorate |  
+| bip_39_word_new_br12 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret<br>unfold<br>decorate<br>already |  
+| bip_39_word_new_br2 | vapor<br>humble |  
+| bip_39_word_new_br3 | vapor<br>humble<br>obtain |  
+| bip_39_word_new_br4 | vapor<br>humble<br>obtain<br>silk |  
+| bip_39_word_new_br5 | vapor<br>humble<br>obtain<br>silk<br>reopen |  
+| bip_39_word_new_br6 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle |  
+| bip_39_word_new_br7 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway |  
+| bip_39_word_new_br8 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence |  
+| bip_39_word_new_br9 | vapor<br>humble<br>obtain<br>silk<br>reopen<br>puzzle<br>runway<br>sentence<br>regret |  
+| bip_39_word_new_line1 | vapor |  
+| bip_39_word_new_line10 | vapor
+humble
+obtain
+silk
+reopen
+puzzle
+runway
+sentence
+regret
+unfold |  
+| bip_39_word_new_line11 | vapor
+humble
+obtain
+silk
+reopen
+puzzle
+runway
+sentence
+regret
+unfold
+decorate |  
+| bip_39_word_new_line12 | vapor
+humble
+obtain
+silk
+reopen
+puzzle
+runway
+sentence
+regret
+unfold
+decorate
+already |  
+| bip_39_word_new_line2 | vapor
+humble |  
+| bip_39_word_new_line3 | vapor
+humble
+obtain |  
+| bip_39_word_new_line4 | vapor
+humble
+obtain
+silk |  
+| bip_39_word_new_line5 | vapor
+humble
+obtain
+silk
+reopen |  
+| bip_39_word_new_line6 | vapor
+humble
+obtain
+silk
+reopen
+puzzle |  
+| bip_39_word_new_line7 | vapor
+humble
+obtain
+silk
+reopen
+puzzle
+runway |  
+| bip_39_word_new_line8 | vapor
+humble
+obtain
+silk
+reopen
+puzzle
+runway
+sentence |  
+| bip_39_word_new_line9 | vapor
+humble
+obtain
+silk
+reopen
+puzzle
+runway
+sentence
+regret |  
+| bip_39_word_space_0 | ['vapor', 'humble', 'obtain', 'silk', 'reopen', 'puzzle', 'runway', 'sentence', 'regret', 'unfold', 'decorate', 'already'] |  
+| bip_39_word_space_1 | vapor |  
+| bip_39_word_space_10 | vapor humble obtain silk reopen puzzle runway sentence regret unfold |  
+| bip_39_word_space_11 | vapor humble obtain silk reopen puzzle runway sentence regret unfold decorate |  
+| bip_39_word_space_12 | vapor humble obtain silk reopen puzzle runway sentence regret unfold decorate already |  
+| bip_39_word_space_2 | vapor humble |  
+| bip_39_word_space_3 | vapor humble obtain |  
+| bip_39_word_space_4 | vapor humble obtain silk |  
+| bip_39_word_space_5 | vapor humble obtain silk reopen |  
+| bip_39_word_space_6 | vapor humble obtain silk reopen puzzle |  
+| bip_39_word_space_7 | vapor humble obtain silk reopen puzzle runway |  
+| bip_39_word_space_8 | vapor humble obtain silk reopen puzzle runway sentence |  
+| bip_39_word_space_9 | vapor humble obtain silk reopen puzzle runway sentence regret |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

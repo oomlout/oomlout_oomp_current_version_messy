@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: detail true
+  * bip 39 word 3: detail true radio
+  * bip 39 word: detail true radio note pumpkin hundred cluster edit edit nurse ready actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | detail |  
+| bip_39_word_new_br10 | detail<br>true<br>radio<br>note<br>pumpkin<br>hundred<br>cluster<br>edit<br>edit<br>nurse |  
+| bip_39_word_new_br11 | detail<br>true<br>radio<br>note<br>pumpkin<br>hundred<br>cluster<br>edit<br>edit<br>nurse<br>ready |  
+| bip_39_word_new_br12 | detail<br>true<br>radio<br>note<br>pumpkin<br>hundred<br>cluster<br>edit<br>edit<br>nurse<br>ready<br>actress |  
+| bip_39_word_new_br2 | detail<br>true |  
+| bip_39_word_new_br3 | detail<br>true<br>radio |  
+| bip_39_word_new_br4 | detail<br>true<br>radio<br>note |  
+| bip_39_word_new_br5 | detail<br>true<br>radio<br>note<br>pumpkin |  
+| bip_39_word_new_br6 | detail<br>true<br>radio<br>note<br>pumpkin<br>hundred |  
+| bip_39_word_new_br7 | detail<br>true<br>radio<br>note<br>pumpkin<br>hundred<br>cluster |  
+| bip_39_word_new_br8 | detail<br>true<br>radio<br>note<br>pumpkin<br>hundred<br>cluster<br>edit |  
+| bip_39_word_new_br9 | detail<br>true<br>radio<br>note<br>pumpkin<br>hundred<br>cluster<br>edit<br>edit |  
+| bip_39_word_new_line1 | detail |  
+| bip_39_word_new_line10 | detail
+true
+radio
+note
+pumpkin
+hundred
+cluster
+edit
+edit
+nurse |  
+| bip_39_word_new_line11 | detail
+true
+radio
+note
+pumpkin
+hundred
+cluster
+edit
+edit
+nurse
+ready |  
+| bip_39_word_new_line12 | detail
+true
+radio
+note
+pumpkin
+hundred
+cluster
+edit
+edit
+nurse
+ready
+actress |  
+| bip_39_word_new_line2 | detail
+true |  
+| bip_39_word_new_line3 | detail
+true
+radio |  
+| bip_39_word_new_line4 | detail
+true
+radio
+note |  
+| bip_39_word_new_line5 | detail
+true
+radio
+note
+pumpkin |  
+| bip_39_word_new_line6 | detail
+true
+radio
+note
+pumpkin
+hundred |  
+| bip_39_word_new_line7 | detail
+true
+radio
+note
+pumpkin
+hundred
+cluster |  
+| bip_39_word_new_line8 | detail
+true
+radio
+note
+pumpkin
+hundred
+cluster
+edit |  
+| bip_39_word_new_line9 | detail
+true
+radio
+note
+pumpkin
+hundred
+cluster
+edit
+edit |  
+| bip_39_word_space_0 | ['detail', 'true', 'radio', 'note', 'pumpkin', 'hundred', 'cluster', 'edit', 'edit', 'nurse', 'ready', 'actress'] |  
+| bip_39_word_space_1 | detail |  
+| bip_39_word_space_10 | detail true radio note pumpkin hundred cluster edit edit nurse |  
+| bip_39_word_space_11 | detail true radio note pumpkin hundred cluster edit edit nurse ready |  
+| bip_39_word_space_12 | detail true radio note pumpkin hundred cluster edit edit nurse ready actress |  
+| bip_39_word_space_2 | detail true |  
+| bip_39_word_space_3 | detail true radio |  
+| bip_39_word_space_4 | detail true radio note |  
+| bip_39_word_space_5 | detail true radio note pumpkin |  
+| bip_39_word_space_6 | detail true radio note pumpkin hundred |  
+| bip_39_word_space_7 | detail true radio note pumpkin hundred cluster |  
+| bip_39_word_space_8 | detail true radio note pumpkin hundred cluster edit |  
+| bip_39_word_space_9 | detail true radio note pumpkin hundred cluster edit edit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

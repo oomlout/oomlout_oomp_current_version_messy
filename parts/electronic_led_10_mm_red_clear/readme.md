@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mention margin
+  * bip 39 word 3: mention margin guitar
+  * bip 39 word: mention margin guitar nice night quarter fault gorilla staff feature meat assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mention |  
+| bip_39_word_new_br10 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter<br>fault<br>gorilla<br>staff<br>feature |  
+| bip_39_word_new_br11 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter<br>fault<br>gorilla<br>staff<br>feature<br>meat |  
+| bip_39_word_new_br12 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter<br>fault<br>gorilla<br>staff<br>feature<br>meat<br>assist |  
+| bip_39_word_new_br2 | mention<br>margin |  
+| bip_39_word_new_br3 | mention<br>margin<br>guitar |  
+| bip_39_word_new_br4 | mention<br>margin<br>guitar<br>nice |  
+| bip_39_word_new_br5 | mention<br>margin<br>guitar<br>nice<br>night |  
+| bip_39_word_new_br6 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter |  
+| bip_39_word_new_br7 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter<br>fault |  
+| bip_39_word_new_br8 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter<br>fault<br>gorilla |  
+| bip_39_word_new_br9 | mention<br>margin<br>guitar<br>nice<br>night<br>quarter<br>fault<br>gorilla<br>staff |  
+| bip_39_word_new_line1 | mention |  
+| bip_39_word_new_line10 | mention
+margin
+guitar
+nice
+night
+quarter
+fault
+gorilla
+staff
+feature |  
+| bip_39_word_new_line11 | mention
+margin
+guitar
+nice
+night
+quarter
+fault
+gorilla
+staff
+feature
+meat |  
+| bip_39_word_new_line12 | mention
+margin
+guitar
+nice
+night
+quarter
+fault
+gorilla
+staff
+feature
+meat
+assist |  
+| bip_39_word_new_line2 | mention
+margin |  
+| bip_39_word_new_line3 | mention
+margin
+guitar |  
+| bip_39_word_new_line4 | mention
+margin
+guitar
+nice |  
+| bip_39_word_new_line5 | mention
+margin
+guitar
+nice
+night |  
+| bip_39_word_new_line6 | mention
+margin
+guitar
+nice
+night
+quarter |  
+| bip_39_word_new_line7 | mention
+margin
+guitar
+nice
+night
+quarter
+fault |  
+| bip_39_word_new_line8 | mention
+margin
+guitar
+nice
+night
+quarter
+fault
+gorilla |  
+| bip_39_word_new_line9 | mention
+margin
+guitar
+nice
+night
+quarter
+fault
+gorilla
+staff |  
+| bip_39_word_space_0 | ['mention', 'margin', 'guitar', 'nice', 'night', 'quarter', 'fault', 'gorilla', 'staff', 'feature', 'meat', 'assist'] |  
+| bip_39_word_space_1 | mention |  
+| bip_39_word_space_10 | mention margin guitar nice night quarter fault gorilla staff feature |  
+| bip_39_word_space_11 | mention margin guitar nice night quarter fault gorilla staff feature meat |  
+| bip_39_word_space_12 | mention margin guitar nice night quarter fault gorilla staff feature meat assist |  
+| bip_39_word_space_2 | mention margin |  
+| bip_39_word_space_3 | mention margin guitar |  
+| bip_39_word_space_4 | mention margin guitar nice |  
+| bip_39_word_space_5 | mention margin guitar nice night |  
+| bip_39_word_space_6 | mention margin guitar nice night quarter |  
+| bip_39_word_space_7 | mention margin guitar nice night quarter fault |  
+| bip_39_word_space_8 | mention margin guitar nice night quarter fault gorilla |  
+| bip_39_word_space_9 | mention margin guitar nice night quarter fault gorilla staff |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

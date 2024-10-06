@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: puppy tape
+  * bip 39 word 3: puppy tape balcony
+  * bip 39 word: puppy tape balcony know must emotion front vivid rifle tape cattle adapt
 
 ### other_codes
 * short_code: b8m120
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | puppy |  
+| bip_39_word_new_br10 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion<br>front<br>vivid<br>rifle<br>tape |  
+| bip_39_word_new_br11 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion<br>front<br>vivid<br>rifle<br>tape<br>cattle |  
+| bip_39_word_new_br12 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion<br>front<br>vivid<br>rifle<br>tape<br>cattle<br>adapt |  
+| bip_39_word_new_br2 | puppy<br>tape |  
+| bip_39_word_new_br3 | puppy<br>tape<br>balcony |  
+| bip_39_word_new_br4 | puppy<br>tape<br>balcony<br>know |  
+| bip_39_word_new_br5 | puppy<br>tape<br>balcony<br>know<br>must |  
+| bip_39_word_new_br6 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion |  
+| bip_39_word_new_br7 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion<br>front |  
+| bip_39_word_new_br8 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion<br>front<br>vivid |  
+| bip_39_word_new_br9 | puppy<br>tape<br>balcony<br>know<br>must<br>emotion<br>front<br>vivid<br>rifle |  
+| bip_39_word_new_line1 | puppy |  
+| bip_39_word_new_line10 | puppy
+tape
+balcony
+know
+must
+emotion
+front
+vivid
+rifle
+tape |  
+| bip_39_word_new_line11 | puppy
+tape
+balcony
+know
+must
+emotion
+front
+vivid
+rifle
+tape
+cattle |  
+| bip_39_word_new_line12 | puppy
+tape
+balcony
+know
+must
+emotion
+front
+vivid
+rifle
+tape
+cattle
+adapt |  
+| bip_39_word_new_line2 | puppy
+tape |  
+| bip_39_word_new_line3 | puppy
+tape
+balcony |  
+| bip_39_word_new_line4 | puppy
+tape
+balcony
+know |  
+| bip_39_word_new_line5 | puppy
+tape
+balcony
+know
+must |  
+| bip_39_word_new_line6 | puppy
+tape
+balcony
+know
+must
+emotion |  
+| bip_39_word_new_line7 | puppy
+tape
+balcony
+know
+must
+emotion
+front |  
+| bip_39_word_new_line8 | puppy
+tape
+balcony
+know
+must
+emotion
+front
+vivid |  
+| bip_39_word_new_line9 | puppy
+tape
+balcony
+know
+must
+emotion
+front
+vivid
+rifle |  
+| bip_39_word_space_0 | ['puppy', 'tape', 'balcony', 'know', 'must', 'emotion', 'front', 'vivid', 'rifle', 'tape', 'cattle', 'adapt'] |  
+| bip_39_word_space_1 | puppy |  
+| bip_39_word_space_10 | puppy tape balcony know must emotion front vivid rifle tape |  
+| bip_39_word_space_11 | puppy tape balcony know must emotion front vivid rifle tape cattle |  
+| bip_39_word_space_12 | puppy tape balcony know must emotion front vivid rifle tape cattle adapt |  
+| bip_39_word_space_2 | puppy tape |  
+| bip_39_word_space_3 | puppy tape balcony |  
+| bip_39_word_space_4 | puppy tape balcony know |  
+| bip_39_word_space_5 | puppy tape balcony know must |  
+| bip_39_word_space_6 | puppy tape balcony know must emotion |  
+| bip_39_word_space_7 | puppy tape balcony know must emotion front |  
+| bip_39_word_space_8 | puppy tape balcony know must emotion front vivid |  
+| bip_39_word_space_9 | puppy tape balcony know must emotion front vivid rifle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

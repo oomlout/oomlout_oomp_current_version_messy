@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: adult liberty
+  * bip 39 word 3: adult liberty bullet
+  * bip 39 word: adult liberty bullet curious expire resource wave program cabin dune shoe antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | adult |  
+| bip_39_word_new_br10 | adult<br>liberty<br>bullet<br>curious<br>expire<br>resource<br>wave<br>program<br>cabin<br>dune |  
+| bip_39_word_new_br11 | adult<br>liberty<br>bullet<br>curious<br>expire<br>resource<br>wave<br>program<br>cabin<br>dune<br>shoe |  
+| bip_39_word_new_br12 | adult<br>liberty<br>bullet<br>curious<br>expire<br>resource<br>wave<br>program<br>cabin<br>dune<br>shoe<br>antenna |  
+| bip_39_word_new_br2 | adult<br>liberty |  
+| bip_39_word_new_br3 | adult<br>liberty<br>bullet |  
+| bip_39_word_new_br4 | adult<br>liberty<br>bullet<br>curious |  
+| bip_39_word_new_br5 | adult<br>liberty<br>bullet<br>curious<br>expire |  
+| bip_39_word_new_br6 | adult<br>liberty<br>bullet<br>curious<br>expire<br>resource |  
+| bip_39_word_new_br7 | adult<br>liberty<br>bullet<br>curious<br>expire<br>resource<br>wave |  
+| bip_39_word_new_br8 | adult<br>liberty<br>bullet<br>curious<br>expire<br>resource<br>wave<br>program |  
+| bip_39_word_new_br9 | adult<br>liberty<br>bullet<br>curious<br>expire<br>resource<br>wave<br>program<br>cabin |  
+| bip_39_word_new_line1 | adult |  
+| bip_39_word_new_line10 | adult
+liberty
+bullet
+curious
+expire
+resource
+wave
+program
+cabin
+dune |  
+| bip_39_word_new_line11 | adult
+liberty
+bullet
+curious
+expire
+resource
+wave
+program
+cabin
+dune
+shoe |  
+| bip_39_word_new_line12 | adult
+liberty
+bullet
+curious
+expire
+resource
+wave
+program
+cabin
+dune
+shoe
+antenna |  
+| bip_39_word_new_line2 | adult
+liberty |  
+| bip_39_word_new_line3 | adult
+liberty
+bullet |  
+| bip_39_word_new_line4 | adult
+liberty
+bullet
+curious |  
+| bip_39_word_new_line5 | adult
+liberty
+bullet
+curious
+expire |  
+| bip_39_word_new_line6 | adult
+liberty
+bullet
+curious
+expire
+resource |  
+| bip_39_word_new_line7 | adult
+liberty
+bullet
+curious
+expire
+resource
+wave |  
+| bip_39_word_new_line8 | adult
+liberty
+bullet
+curious
+expire
+resource
+wave
+program |  
+| bip_39_word_new_line9 | adult
+liberty
+bullet
+curious
+expire
+resource
+wave
+program
+cabin |  
+| bip_39_word_space_0 | ['adult', 'liberty', 'bullet', 'curious', 'expire', 'resource', 'wave', 'program', 'cabin', 'dune', 'shoe', 'antenna'] |  
+| bip_39_word_space_1 | adult |  
+| bip_39_word_space_10 | adult liberty bullet curious expire resource wave program cabin dune |  
+| bip_39_word_space_11 | adult liberty bullet curious expire resource wave program cabin dune shoe |  
+| bip_39_word_space_12 | adult liberty bullet curious expire resource wave program cabin dune shoe antenna |  
+| bip_39_word_space_2 | adult liberty |  
+| bip_39_word_space_3 | adult liberty bullet |  
+| bip_39_word_space_4 | adult liberty bullet curious |  
+| bip_39_word_space_5 | adult liberty bullet curious expire |  
+| bip_39_word_space_6 | adult liberty bullet curious expire resource |  
+| bip_39_word_space_7 | adult liberty bullet curious expire resource wave |  
+| bip_39_word_space_8 | adult liberty bullet curious expire resource wave program |  
+| bip_39_word_space_9 | adult liberty bullet curious expire resource wave program cabin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

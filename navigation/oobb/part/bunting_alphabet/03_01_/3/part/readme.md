@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: right chronic
+  * bip 39 word 3: right chronic trust
+  * bip 39 word: right chronic trust poet relax distance lock sweet cattle raise street attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | right |  
+| bip_39_word_new_br10 | right<br>chronic<br>trust<br>poet<br>relax<br>distance<br>lock<br>sweet<br>cattle<br>raise |  
+| bip_39_word_new_br11 | right<br>chronic<br>trust<br>poet<br>relax<br>distance<br>lock<br>sweet<br>cattle<br>raise<br>street |  
+| bip_39_word_new_br12 | right<br>chronic<br>trust<br>poet<br>relax<br>distance<br>lock<br>sweet<br>cattle<br>raise<br>street<br>attract |  
+| bip_39_word_new_br2 | right<br>chronic |  
+| bip_39_word_new_br3 | right<br>chronic<br>trust |  
+| bip_39_word_new_br4 | right<br>chronic<br>trust<br>poet |  
+| bip_39_word_new_br5 | right<br>chronic<br>trust<br>poet<br>relax |  
+| bip_39_word_new_br6 | right<br>chronic<br>trust<br>poet<br>relax<br>distance |  
+| bip_39_word_new_br7 | right<br>chronic<br>trust<br>poet<br>relax<br>distance<br>lock |  
+| bip_39_word_new_br8 | right<br>chronic<br>trust<br>poet<br>relax<br>distance<br>lock<br>sweet |  
+| bip_39_word_new_br9 | right<br>chronic<br>trust<br>poet<br>relax<br>distance<br>lock<br>sweet<br>cattle |  
+| bip_39_word_new_line1 | right |  
+| bip_39_word_new_line10 | right
+chronic
+trust
+poet
+relax
+distance
+lock
+sweet
+cattle
+raise |  
+| bip_39_word_new_line11 | right
+chronic
+trust
+poet
+relax
+distance
+lock
+sweet
+cattle
+raise
+street |  
+| bip_39_word_new_line12 | right
+chronic
+trust
+poet
+relax
+distance
+lock
+sweet
+cattle
+raise
+street
+attract |  
+| bip_39_word_new_line2 | right
+chronic |  
+| bip_39_word_new_line3 | right
+chronic
+trust |  
+| bip_39_word_new_line4 | right
+chronic
+trust
+poet |  
+| bip_39_word_new_line5 | right
+chronic
+trust
+poet
+relax |  
+| bip_39_word_new_line6 | right
+chronic
+trust
+poet
+relax
+distance |  
+| bip_39_word_new_line7 | right
+chronic
+trust
+poet
+relax
+distance
+lock |  
+| bip_39_word_new_line8 | right
+chronic
+trust
+poet
+relax
+distance
+lock
+sweet |  
+| bip_39_word_new_line9 | right
+chronic
+trust
+poet
+relax
+distance
+lock
+sweet
+cattle |  
+| bip_39_word_space_0 | ['right', 'chronic', 'trust', 'poet', 'relax', 'distance', 'lock', 'sweet', 'cattle', 'raise', 'street', 'attract'] |  
+| bip_39_word_space_1 | right |  
+| bip_39_word_space_10 | right chronic trust poet relax distance lock sweet cattle raise |  
+| bip_39_word_space_11 | right chronic trust poet relax distance lock sweet cattle raise street |  
+| bip_39_word_space_12 | right chronic trust poet relax distance lock sweet cattle raise street attract |  
+| bip_39_word_space_2 | right chronic |  
+| bip_39_word_space_3 | right chronic trust |  
+| bip_39_word_space_4 | right chronic trust poet |  
+| bip_39_word_space_5 | right chronic trust poet relax |  
+| bip_39_word_space_6 | right chronic trust poet relax distance |  
+| bip_39_word_space_7 | right chronic trust poet relax distance lock |  
+| bip_39_word_space_8 | right chronic trust poet relax distance lock sweet |  
+| bip_39_word_space_9 | right chronic trust poet relax distance lock sweet cattle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

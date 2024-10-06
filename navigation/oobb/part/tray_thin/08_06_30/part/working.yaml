@@ -1,3 +1,187 @@
+bip_39_word_new_br1: tissue
+bip_39_word_new_br10: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality<br>save<br>original<br>organ<br>heavy
+bip_39_word_new_br11: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality<br>save<br>original<br>organ<br>heavy<br>monitor
+bip_39_word_new_br12: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality<br>save<br>original<br>organ<br>heavy<br>monitor<br>album
+bip_39_word_new_br2: tissue<br>reopen
+bip_39_word_new_br3: tissue<br>reopen<br>sadness
+bip_39_word_new_br4: tissue<br>reopen<br>sadness<br>suggest
+bip_39_word_new_br5: tissue<br>reopen<br>sadness<br>suggest<br>cover
+bip_39_word_new_br6: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality
+bip_39_word_new_br7: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality<br>save
+bip_39_word_new_br8: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality<br>save<br>original
+bip_39_word_new_br9: tissue<br>reopen<br>sadness<br>suggest<br>cover<br>quality<br>save<br>original<br>organ
+bip_39_word_new_line1: tissue
+bip_39_word_new_line10: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest
+
+  cover
+
+  quality
+
+  save
+
+  original
+
+  organ
+
+  heavy'
+bip_39_word_new_line11: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest
+
+  cover
+
+  quality
+
+  save
+
+  original
+
+  organ
+
+  heavy
+
+  monitor'
+bip_39_word_new_line12: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest
+
+  cover
+
+  quality
+
+  save
+
+  original
+
+  organ
+
+  heavy
+
+  monitor
+
+  album'
+bip_39_word_new_line2: 'tissue
+
+  reopen'
+bip_39_word_new_line3: 'tissue
+
+  reopen
+
+  sadness'
+bip_39_word_new_line4: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest'
+bip_39_word_new_line5: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest
+
+  cover'
+bip_39_word_new_line6: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest
+
+  cover
+
+  quality'
+bip_39_word_new_line7: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest
+
+  cover
+
+  quality
+
+  save'
+bip_39_word_new_line8: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest
+
+  cover
+
+  quality
+
+  save
+
+  original'
+bip_39_word_new_line9: 'tissue
+
+  reopen
+
+  sadness
+
+  suggest
+
+  cover
+
+  quality
+
+  save
+
+  original
+
+  organ'
+bip_39_word_space_0:
+- tissue
+- reopen
+- sadness
+- suggest
+- cover
+- quality
+- save
+- original
+- organ
+- heavy
+- monitor
+- album
+bip_39_word_space_1: tissue
+bip_39_word_space_10: tissue reopen sadness suggest cover quality save original organ
+  heavy
+bip_39_word_space_11: tissue reopen sadness suggest cover quality save original organ
+  heavy monitor
+bip_39_word_space_12: tissue reopen sadness suggest cover quality save original organ
+  heavy monitor album
+bip_39_word_space_2: tissue reopen
+bip_39_word_space_3: tissue reopen sadness
+bip_39_word_space_4: tissue reopen sadness suggest
+bip_39_word_space_5: tissue reopen sadness suggest cover
+bip_39_word_space_6: tissue reopen sadness suggest cover quality
+bip_39_word_space_7: tissue reopen sadness suggest cover quality save
+bip_39_word_space_8: tissue reopen sadness suggest cover quality save original
+bip_39_word_space_9: tissue reopen sadness suggest cover quality save original organ
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

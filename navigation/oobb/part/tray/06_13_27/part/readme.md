@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: judge cricket
+  * bip 39 word 3: judge cricket kingdom
+  * bip 39 word: judge cricket kingdom easy bottom prosper endless bottom canyon tooth issue arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | judge |  
+| bip_39_word_new_br10 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper<br>endless<br>bottom<br>canyon<br>tooth |  
+| bip_39_word_new_br11 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper<br>endless<br>bottom<br>canyon<br>tooth<br>issue |  
+| bip_39_word_new_br12 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper<br>endless<br>bottom<br>canyon<br>tooth<br>issue<br>arrest |  
+| bip_39_word_new_br2 | judge<br>cricket |  
+| bip_39_word_new_br3 | judge<br>cricket<br>kingdom |  
+| bip_39_word_new_br4 | judge<br>cricket<br>kingdom<br>easy |  
+| bip_39_word_new_br5 | judge<br>cricket<br>kingdom<br>easy<br>bottom |  
+| bip_39_word_new_br6 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper |  
+| bip_39_word_new_br7 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper<br>endless |  
+| bip_39_word_new_br8 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper<br>endless<br>bottom |  
+| bip_39_word_new_br9 | judge<br>cricket<br>kingdom<br>easy<br>bottom<br>prosper<br>endless<br>bottom<br>canyon |  
+| bip_39_word_new_line1 | judge |  
+| bip_39_word_new_line10 | judge
+cricket
+kingdom
+easy
+bottom
+prosper
+endless
+bottom
+canyon
+tooth |  
+| bip_39_word_new_line11 | judge
+cricket
+kingdom
+easy
+bottom
+prosper
+endless
+bottom
+canyon
+tooth
+issue |  
+| bip_39_word_new_line12 | judge
+cricket
+kingdom
+easy
+bottom
+prosper
+endless
+bottom
+canyon
+tooth
+issue
+arrest |  
+| bip_39_word_new_line2 | judge
+cricket |  
+| bip_39_word_new_line3 | judge
+cricket
+kingdom |  
+| bip_39_word_new_line4 | judge
+cricket
+kingdom
+easy |  
+| bip_39_word_new_line5 | judge
+cricket
+kingdom
+easy
+bottom |  
+| bip_39_word_new_line6 | judge
+cricket
+kingdom
+easy
+bottom
+prosper |  
+| bip_39_word_new_line7 | judge
+cricket
+kingdom
+easy
+bottom
+prosper
+endless |  
+| bip_39_word_new_line8 | judge
+cricket
+kingdom
+easy
+bottom
+prosper
+endless
+bottom |  
+| bip_39_word_new_line9 | judge
+cricket
+kingdom
+easy
+bottom
+prosper
+endless
+bottom
+canyon |  
+| bip_39_word_space_0 | ['judge', 'cricket', 'kingdom', 'easy', 'bottom', 'prosper', 'endless', 'bottom', 'canyon', 'tooth', 'issue', 'arrest'] |  
+| bip_39_word_space_1 | judge |  
+| bip_39_word_space_10 | judge cricket kingdom easy bottom prosper endless bottom canyon tooth |  
+| bip_39_word_space_11 | judge cricket kingdom easy bottom prosper endless bottom canyon tooth issue |  
+| bip_39_word_space_12 | judge cricket kingdom easy bottom prosper endless bottom canyon tooth issue arrest |  
+| bip_39_word_space_2 | judge cricket |  
+| bip_39_word_space_3 | judge cricket kingdom |  
+| bip_39_word_space_4 | judge cricket kingdom easy |  
+| bip_39_word_space_5 | judge cricket kingdom easy bottom |  
+| bip_39_word_space_6 | judge cricket kingdom easy bottom prosper |  
+| bip_39_word_space_7 | judge cricket kingdom easy bottom prosper endless |  
+| bip_39_word_space_8 | judge cricket kingdom easy bottom prosper endless bottom |  
+| bip_39_word_space_9 | judge cricket kingdom easy bottom prosper endless bottom canyon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

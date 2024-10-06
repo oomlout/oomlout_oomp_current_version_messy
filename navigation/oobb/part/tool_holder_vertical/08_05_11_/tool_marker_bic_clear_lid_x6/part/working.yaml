@@ -1,3 +1,186 @@
+bip_39_word_new_br1: next
+bip_39_word_new_br10: next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume
+bip_39_word_new_br11: next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume<br>atom
+bip_39_word_new_br12: next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma<br>assume<br>atom<br>account
+bip_39_word_new_br2: next<br>behind
+bip_39_word_new_br3: next<br>behind<br>result
+bip_39_word_new_br4: next<br>behind<br>result<br>jar
+bip_39_word_new_br5: next<br>behind<br>result<br>jar<br>whip
+bip_39_word_new_br6: next<br>behind<br>result<br>jar<br>whip<br>inflict
+bip_39_word_new_br7: next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place
+bip_39_word_new_br8: next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff
+bip_39_word_new_br9: next<br>behind<br>result<br>jar<br>whip<br>inflict<br>place<br>stuff<br>dilemma
+bip_39_word_new_line1: next
+bip_39_word_new_line10: 'next
+
+  behind
+
+  result
+
+  jar
+
+  whip
+
+  inflict
+
+  place
+
+  stuff
+
+  dilemma
+
+  assume'
+bip_39_word_new_line11: 'next
+
+  behind
+
+  result
+
+  jar
+
+  whip
+
+  inflict
+
+  place
+
+  stuff
+
+  dilemma
+
+  assume
+
+  atom'
+bip_39_word_new_line12: 'next
+
+  behind
+
+  result
+
+  jar
+
+  whip
+
+  inflict
+
+  place
+
+  stuff
+
+  dilemma
+
+  assume
+
+  atom
+
+  account'
+bip_39_word_new_line2: 'next
+
+  behind'
+bip_39_word_new_line3: 'next
+
+  behind
+
+  result'
+bip_39_word_new_line4: 'next
+
+  behind
+
+  result
+
+  jar'
+bip_39_word_new_line5: 'next
+
+  behind
+
+  result
+
+  jar
+
+  whip'
+bip_39_word_new_line6: 'next
+
+  behind
+
+  result
+
+  jar
+
+  whip
+
+  inflict'
+bip_39_word_new_line7: 'next
+
+  behind
+
+  result
+
+  jar
+
+  whip
+
+  inflict
+
+  place'
+bip_39_word_new_line8: 'next
+
+  behind
+
+  result
+
+  jar
+
+  whip
+
+  inflict
+
+  place
+
+  stuff'
+bip_39_word_new_line9: 'next
+
+  behind
+
+  result
+
+  jar
+
+  whip
+
+  inflict
+
+  place
+
+  stuff
+
+  dilemma'
+bip_39_word_space_0:
+- next
+- behind
+- result
+- jar
+- whip
+- inflict
+- place
+- stuff
+- dilemma
+- assume
+- atom
+- account
+bip_39_word_space_1: next
+bip_39_word_space_10: next behind result jar whip inflict place stuff dilemma assume
+bip_39_word_space_11: next behind result jar whip inflict place stuff dilemma assume
+  atom
+bip_39_word_space_12: next behind result jar whip inflict place stuff dilemma assume
+  atom account
+bip_39_word_space_2: next behind
+bip_39_word_space_3: next behind result
+bip_39_word_space_4: next behind result jar
+bip_39_word_space_5: next behind result jar whip
+bip_39_word_space_6: next behind result jar whip inflict
+bip_39_word_space_7: next behind result jar whip inflict place
+bip_39_word_space_8: next behind result jar whip inflict place stuff
+bip_39_word_space_9: next behind result jar whip inflict place stuff dilemma
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: dupont
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: size morning
+  * bip 39 word 3: size morning dinner
+  * bip 39 word: size morning dinner grocery argue mask that unusual grid lens employ actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | size |  
+| bip_39_word_new_br10 | size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual<br>grid<br>lens |  
+| bip_39_word_new_br11 | size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual<br>grid<br>lens<br>employ |  
+| bip_39_word_new_br12 | size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual<br>grid<br>lens<br>employ<br>actual |  
+| bip_39_word_new_br2 | size<br>morning |  
+| bip_39_word_new_br3 | size<br>morning<br>dinner |  
+| bip_39_word_new_br4 | size<br>morning<br>dinner<br>grocery |  
+| bip_39_word_new_br5 | size<br>morning<br>dinner<br>grocery<br>argue |  
+| bip_39_word_new_br6 | size<br>morning<br>dinner<br>grocery<br>argue<br>mask |  
+| bip_39_word_new_br7 | size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that |  
+| bip_39_word_new_br8 | size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual |  
+| bip_39_word_new_br9 | size<br>morning<br>dinner<br>grocery<br>argue<br>mask<br>that<br>unusual<br>grid |  
+| bip_39_word_new_line1 | size |  
+| bip_39_word_new_line10 | size
+morning
+dinner
+grocery
+argue
+mask
+that
+unusual
+grid
+lens |  
+| bip_39_word_new_line11 | size
+morning
+dinner
+grocery
+argue
+mask
+that
+unusual
+grid
+lens
+employ |  
+| bip_39_word_new_line12 | size
+morning
+dinner
+grocery
+argue
+mask
+that
+unusual
+grid
+lens
+employ
+actual |  
+| bip_39_word_new_line2 | size
+morning |  
+| bip_39_word_new_line3 | size
+morning
+dinner |  
+| bip_39_word_new_line4 | size
+morning
+dinner
+grocery |  
+| bip_39_word_new_line5 | size
+morning
+dinner
+grocery
+argue |  
+| bip_39_word_new_line6 | size
+morning
+dinner
+grocery
+argue
+mask |  
+| bip_39_word_new_line7 | size
+morning
+dinner
+grocery
+argue
+mask
+that |  
+| bip_39_word_new_line8 | size
+morning
+dinner
+grocery
+argue
+mask
+that
+unusual |  
+| bip_39_word_new_line9 | size
+morning
+dinner
+grocery
+argue
+mask
+that
+unusual
+grid |  
+| bip_39_word_space_0 | ['size', 'morning', 'dinner', 'grocery', 'argue', 'mask', 'that', 'unusual', 'grid', 'lens', 'employ', 'actual'] |  
+| bip_39_word_space_1 | size |  
+| bip_39_word_space_10 | size morning dinner grocery argue mask that unusual grid lens |  
+| bip_39_word_space_11 | size morning dinner grocery argue mask that unusual grid lens employ |  
+| bip_39_word_space_12 | size morning dinner grocery argue mask that unusual grid lens employ actual |  
+| bip_39_word_space_2 | size morning |  
+| bip_39_word_space_3 | size morning dinner |  
+| bip_39_word_space_4 | size morning dinner grocery |  
+| bip_39_word_space_5 | size morning dinner grocery argue |  
+| bip_39_word_space_6 | size morning dinner grocery argue mask |  
+| bip_39_word_space_7 | size morning dinner grocery argue mask that |  
+| bip_39_word_space_8 | size morning dinner grocery argue mask that unusual |  
+| bip_39_word_space_9 | size morning dinner grocery argue mask that unusual grid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

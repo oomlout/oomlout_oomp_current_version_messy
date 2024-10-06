@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enjoy miss
+  * bip 39 word 3: enjoy miss around
+  * bip 39 word: enjoy miss around second verify injury plastic coast eight gown peanut album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enjoy |  
+| bip_39_word_new_br10 | enjoy<br>miss<br>around<br>second<br>verify<br>injury<br>plastic<br>coast<br>eight<br>gown |  
+| bip_39_word_new_br11 | enjoy<br>miss<br>around<br>second<br>verify<br>injury<br>plastic<br>coast<br>eight<br>gown<br>peanut |  
+| bip_39_word_new_br12 | enjoy<br>miss<br>around<br>second<br>verify<br>injury<br>plastic<br>coast<br>eight<br>gown<br>peanut<br>album |  
+| bip_39_word_new_br2 | enjoy<br>miss |  
+| bip_39_word_new_br3 | enjoy<br>miss<br>around |  
+| bip_39_word_new_br4 | enjoy<br>miss<br>around<br>second |  
+| bip_39_word_new_br5 | enjoy<br>miss<br>around<br>second<br>verify |  
+| bip_39_word_new_br6 | enjoy<br>miss<br>around<br>second<br>verify<br>injury |  
+| bip_39_word_new_br7 | enjoy<br>miss<br>around<br>second<br>verify<br>injury<br>plastic |  
+| bip_39_word_new_br8 | enjoy<br>miss<br>around<br>second<br>verify<br>injury<br>plastic<br>coast |  
+| bip_39_word_new_br9 | enjoy<br>miss<br>around<br>second<br>verify<br>injury<br>plastic<br>coast<br>eight |  
+| bip_39_word_new_line1 | enjoy |  
+| bip_39_word_new_line10 | enjoy
+miss
+around
+second
+verify
+injury
+plastic
+coast
+eight
+gown |  
+| bip_39_word_new_line11 | enjoy
+miss
+around
+second
+verify
+injury
+plastic
+coast
+eight
+gown
+peanut |  
+| bip_39_word_new_line12 | enjoy
+miss
+around
+second
+verify
+injury
+plastic
+coast
+eight
+gown
+peanut
+album |  
+| bip_39_word_new_line2 | enjoy
+miss |  
+| bip_39_word_new_line3 | enjoy
+miss
+around |  
+| bip_39_word_new_line4 | enjoy
+miss
+around
+second |  
+| bip_39_word_new_line5 | enjoy
+miss
+around
+second
+verify |  
+| bip_39_word_new_line6 | enjoy
+miss
+around
+second
+verify
+injury |  
+| bip_39_word_new_line7 | enjoy
+miss
+around
+second
+verify
+injury
+plastic |  
+| bip_39_word_new_line8 | enjoy
+miss
+around
+second
+verify
+injury
+plastic
+coast |  
+| bip_39_word_new_line9 | enjoy
+miss
+around
+second
+verify
+injury
+plastic
+coast
+eight |  
+| bip_39_word_space_0 | ['enjoy', 'miss', 'around', 'second', 'verify', 'injury', 'plastic', 'coast', 'eight', 'gown', 'peanut', 'album'] |  
+| bip_39_word_space_1 | enjoy |  
+| bip_39_word_space_10 | enjoy miss around second verify injury plastic coast eight gown |  
+| bip_39_word_space_11 | enjoy miss around second verify injury plastic coast eight gown peanut |  
+| bip_39_word_space_12 | enjoy miss around second verify injury plastic coast eight gown peanut album |  
+| bip_39_word_space_2 | enjoy miss |  
+| bip_39_word_space_3 | enjoy miss around |  
+| bip_39_word_space_4 | enjoy miss around second |  
+| bip_39_word_space_5 | enjoy miss around second verify |  
+| bip_39_word_space_6 | enjoy miss around second verify injury |  
+| bip_39_word_space_7 | enjoy miss around second verify injury plastic |  
+| bip_39_word_space_8 | enjoy miss around second verify injury plastic coast |  
+| bip_39_word_space_9 | enjoy miss around second verify injury plastic coast eight |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

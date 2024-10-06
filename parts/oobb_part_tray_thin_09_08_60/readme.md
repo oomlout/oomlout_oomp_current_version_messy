@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feel lunar
+  * bip 39 word 3: feel lunar share
+  * bip 39 word: feel lunar share milk clarify shy infant story axis wear street attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feel |  
+| bip_39_word_new_br10 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy<br>infant<br>story<br>axis<br>wear |  
+| bip_39_word_new_br11 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy<br>infant<br>story<br>axis<br>wear<br>street |  
+| bip_39_word_new_br12 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy<br>infant<br>story<br>axis<br>wear<br>street<br>attract |  
+| bip_39_word_new_br2 | feel<br>lunar |  
+| bip_39_word_new_br3 | feel<br>lunar<br>share |  
+| bip_39_word_new_br4 | feel<br>lunar<br>share<br>milk |  
+| bip_39_word_new_br5 | feel<br>lunar<br>share<br>milk<br>clarify |  
+| bip_39_word_new_br6 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy |  
+| bip_39_word_new_br7 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy<br>infant |  
+| bip_39_word_new_br8 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy<br>infant<br>story |  
+| bip_39_word_new_br9 | feel<br>lunar<br>share<br>milk<br>clarify<br>shy<br>infant<br>story<br>axis |  
+| bip_39_word_new_line1 | feel |  
+| bip_39_word_new_line10 | feel
+lunar
+share
+milk
+clarify
+shy
+infant
+story
+axis
+wear |  
+| bip_39_word_new_line11 | feel
+lunar
+share
+milk
+clarify
+shy
+infant
+story
+axis
+wear
+street |  
+| bip_39_word_new_line12 | feel
+lunar
+share
+milk
+clarify
+shy
+infant
+story
+axis
+wear
+street
+attract |  
+| bip_39_word_new_line2 | feel
+lunar |  
+| bip_39_word_new_line3 | feel
+lunar
+share |  
+| bip_39_word_new_line4 | feel
+lunar
+share
+milk |  
+| bip_39_word_new_line5 | feel
+lunar
+share
+milk
+clarify |  
+| bip_39_word_new_line6 | feel
+lunar
+share
+milk
+clarify
+shy |  
+| bip_39_word_new_line7 | feel
+lunar
+share
+milk
+clarify
+shy
+infant |  
+| bip_39_word_new_line8 | feel
+lunar
+share
+milk
+clarify
+shy
+infant
+story |  
+| bip_39_word_new_line9 | feel
+lunar
+share
+milk
+clarify
+shy
+infant
+story
+axis |  
+| bip_39_word_space_0 | ['feel', 'lunar', 'share', 'milk', 'clarify', 'shy', 'infant', 'story', 'axis', 'wear', 'street', 'attract'] |  
+| bip_39_word_space_1 | feel |  
+| bip_39_word_space_10 | feel lunar share milk clarify shy infant story axis wear |  
+| bip_39_word_space_11 | feel lunar share milk clarify shy infant story axis wear street |  
+| bip_39_word_space_12 | feel lunar share milk clarify shy infant story axis wear street attract |  
+| bip_39_word_space_2 | feel lunar |  
+| bip_39_word_space_3 | feel lunar share |  
+| bip_39_word_space_4 | feel lunar share milk |  
+| bip_39_word_space_5 | feel lunar share milk clarify |  
+| bip_39_word_space_6 | feel lunar share milk clarify shy |  
+| bip_39_word_space_7 | feel lunar share milk clarify shy infant |  
+| bip_39_word_space_8 | feel lunar share milk clarify shy infant story |  
+| bip_39_word_space_9 | feel lunar share milk clarify shy infant story axis |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

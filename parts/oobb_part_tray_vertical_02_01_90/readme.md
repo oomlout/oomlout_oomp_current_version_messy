@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wisdom east
+  * bip 39 word 3: wisdom east rabbit
+  * bip 39 word: wisdom east rabbit middle state track any danger gown bargain float arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wisdom |  
+| bip_39_word_new_br10 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track<br>any<br>danger<br>gown<br>bargain |  
+| bip_39_word_new_br11 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track<br>any<br>danger<br>gown<br>bargain<br>float |  
+| bip_39_word_new_br12 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track<br>any<br>danger<br>gown<br>bargain<br>float<br>arrange |  
+| bip_39_word_new_br2 | wisdom<br>east |  
+| bip_39_word_new_br3 | wisdom<br>east<br>rabbit |  
+| bip_39_word_new_br4 | wisdom<br>east<br>rabbit<br>middle |  
+| bip_39_word_new_br5 | wisdom<br>east<br>rabbit<br>middle<br>state |  
+| bip_39_word_new_br6 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track |  
+| bip_39_word_new_br7 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track<br>any |  
+| bip_39_word_new_br8 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track<br>any<br>danger |  
+| bip_39_word_new_br9 | wisdom<br>east<br>rabbit<br>middle<br>state<br>track<br>any<br>danger<br>gown |  
+| bip_39_word_new_line1 | wisdom |  
+| bip_39_word_new_line10 | wisdom
+east
+rabbit
+middle
+state
+track
+any
+danger
+gown
+bargain |  
+| bip_39_word_new_line11 | wisdom
+east
+rabbit
+middle
+state
+track
+any
+danger
+gown
+bargain
+float |  
+| bip_39_word_new_line12 | wisdom
+east
+rabbit
+middle
+state
+track
+any
+danger
+gown
+bargain
+float
+arrange |  
+| bip_39_word_new_line2 | wisdom
+east |  
+| bip_39_word_new_line3 | wisdom
+east
+rabbit |  
+| bip_39_word_new_line4 | wisdom
+east
+rabbit
+middle |  
+| bip_39_word_new_line5 | wisdom
+east
+rabbit
+middle
+state |  
+| bip_39_word_new_line6 | wisdom
+east
+rabbit
+middle
+state
+track |  
+| bip_39_word_new_line7 | wisdom
+east
+rabbit
+middle
+state
+track
+any |  
+| bip_39_word_new_line8 | wisdom
+east
+rabbit
+middle
+state
+track
+any
+danger |  
+| bip_39_word_new_line9 | wisdom
+east
+rabbit
+middle
+state
+track
+any
+danger
+gown |  
+| bip_39_word_space_0 | ['wisdom', 'east', 'rabbit', 'middle', 'state', 'track', 'any', 'danger', 'gown', 'bargain', 'float', 'arrange'] |  
+| bip_39_word_space_1 | wisdom |  
+| bip_39_word_space_10 | wisdom east rabbit middle state track any danger gown bargain |  
+| bip_39_word_space_11 | wisdom east rabbit middle state track any danger gown bargain float |  
+| bip_39_word_space_12 | wisdom east rabbit middle state track any danger gown bargain float arrange |  
+| bip_39_word_space_2 | wisdom east |  
+| bip_39_word_space_3 | wisdom east rabbit |  
+| bip_39_word_space_4 | wisdom east rabbit middle |  
+| bip_39_word_space_5 | wisdom east rabbit middle state |  
+| bip_39_word_space_6 | wisdom east rabbit middle state track |  
+| bip_39_word_space_7 | wisdom east rabbit middle state track any |  
+| bip_39_word_space_8 | wisdom east rabbit middle state track any danger |  
+| bip_39_word_space_9 | wisdom east rabbit middle state track any danger gown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

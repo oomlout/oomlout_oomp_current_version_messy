@@ -1,3 +1,187 @@
+bip_39_word_new_br1: slender
+bip_39_word_new_br10: slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer
+bip_39_word_new_br11: slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer<br>travel
+bip_39_word_new_br12: slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey<br>suffer<br>travel<br>armor
+bip_39_word_new_br2: slender<br>hero
+bip_39_word_new_br3: slender<br>hero<br>goddess
+bip_39_word_new_br4: slender<br>hero<br>goddess<br>transfer
+bip_39_word_new_br5: slender<br>hero<br>goddess<br>transfer<br>display
+bip_39_word_new_br6: slender<br>hero<br>goddess<br>transfer<br>display<br>tank
+bip_39_word_new_br7: slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel
+bip_39_word_new_br8: slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant
+bip_39_word_new_br9: slender<br>hero<br>goddess<br>transfer<br>display<br>tank<br>novel<br>peasant<br>journey
+bip_39_word_new_line1: slender
+bip_39_word_new_line10: 'slender
+
+  hero
+
+  goddess
+
+  transfer
+
+  display
+
+  tank
+
+  novel
+
+  peasant
+
+  journey
+
+  suffer'
+bip_39_word_new_line11: 'slender
+
+  hero
+
+  goddess
+
+  transfer
+
+  display
+
+  tank
+
+  novel
+
+  peasant
+
+  journey
+
+  suffer
+
+  travel'
+bip_39_word_new_line12: 'slender
+
+  hero
+
+  goddess
+
+  transfer
+
+  display
+
+  tank
+
+  novel
+
+  peasant
+
+  journey
+
+  suffer
+
+  travel
+
+  armor'
+bip_39_word_new_line2: 'slender
+
+  hero'
+bip_39_word_new_line3: 'slender
+
+  hero
+
+  goddess'
+bip_39_word_new_line4: 'slender
+
+  hero
+
+  goddess
+
+  transfer'
+bip_39_word_new_line5: 'slender
+
+  hero
+
+  goddess
+
+  transfer
+
+  display'
+bip_39_word_new_line6: 'slender
+
+  hero
+
+  goddess
+
+  transfer
+
+  display
+
+  tank'
+bip_39_word_new_line7: 'slender
+
+  hero
+
+  goddess
+
+  transfer
+
+  display
+
+  tank
+
+  novel'
+bip_39_word_new_line8: 'slender
+
+  hero
+
+  goddess
+
+  transfer
+
+  display
+
+  tank
+
+  novel
+
+  peasant'
+bip_39_word_new_line9: 'slender
+
+  hero
+
+  goddess
+
+  transfer
+
+  display
+
+  tank
+
+  novel
+
+  peasant
+
+  journey'
+bip_39_word_space_0:
+- slender
+- hero
+- goddess
+- transfer
+- display
+- tank
+- novel
+- peasant
+- journey
+- suffer
+- travel
+- armor
+bip_39_word_space_1: slender
+bip_39_word_space_10: slender hero goddess transfer display tank novel peasant journey
+  suffer
+bip_39_word_space_11: slender hero goddess transfer display tank novel peasant journey
+  suffer travel
+bip_39_word_space_12: slender hero goddess transfer display tank novel peasant journey
+  suffer travel armor
+bip_39_word_space_2: slender hero
+bip_39_word_space_3: slender hero goddess
+bip_39_word_space_4: slender hero goddess transfer
+bip_39_word_space_5: slender hero goddess transfer display
+bip_39_word_space_6: slender hero goddess transfer display tank
+bip_39_word_space_7: slender hero goddess transfer display tank novel
+bip_39_word_space_8: slender hero goddess transfer display tank novel peasant
+bip_39_word_space_9: slender hero goddess transfer display tank novel peasant journey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

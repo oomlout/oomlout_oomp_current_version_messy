@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: no_center
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: twenty debate
+  * bip 39 word 3: twenty debate nerve
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | twenty |  
+| bip_39_word_new_br10 | twenty<br>debate<br>nerve<br>dismiss<br>toast<br>label<br>early<br>damp<br>model<br>brick |  
+| bip_39_word_new_br11 | twenty<br>debate<br>nerve<br>dismiss<br>toast<br>label<br>early<br>damp<br>model<br>brick<br>summer |  
+| bip_39_word_new_br2 | twenty<br>debate |  
+| bip_39_word_new_br3 | twenty<br>debate<br>nerve |  
+| bip_39_word_new_br4 | twenty<br>debate<br>nerve<br>dismiss |  
+| bip_39_word_new_br5 | twenty<br>debate<br>nerve<br>dismiss<br>toast |  
+| bip_39_word_new_br6 | twenty<br>debate<br>nerve<br>dismiss<br>toast<br>label |  
+| bip_39_word_new_br7 | twenty<br>debate<br>nerve<br>dismiss<br>toast<br>label<br>early |  
+| bip_39_word_new_br8 | twenty<br>debate<br>nerve<br>dismiss<br>toast<br>label<br>early<br>damp |  
+| bip_39_word_new_br9 | twenty<br>debate<br>nerve<br>dismiss<br>toast<br>label<br>early<br>damp<br>model |  
+| bip_39_word_new_line1 | twenty |  
+| bip_39_word_new_line10 | twenty
+debate
+nerve
+dismiss
+toast
+label
+early
+damp
+model
+brick |  
+| bip_39_word_new_line11 | twenty
+debate
+nerve
+dismiss
+toast
+label
+early
+damp
+model
+brick
+summer |  
+| bip_39_word_new_line2 | twenty
+debate |  
+| bip_39_word_new_line3 | twenty
+debate
+nerve |  
+| bip_39_word_new_line4 | twenty
+debate
+nerve
+dismiss |  
+| bip_39_word_new_line5 | twenty
+debate
+nerve
+dismiss
+toast |  
+| bip_39_word_new_line6 | twenty
+debate
+nerve
+dismiss
+toast
+label |  
+| bip_39_word_new_line7 | twenty
+debate
+nerve
+dismiss
+toast
+label
+early |  
+| bip_39_word_new_line8 | twenty
+debate
+nerve
+dismiss
+toast
+label
+early
+damp |  
+| bip_39_word_new_line9 | twenty
+debate
+nerve
+dismiss
+toast
+label
+early
+damp
+model |  
+| bip_39_word_space_0 | ['twenty', 'debate', 'nerve', 'dismiss', 'toast', 'label', 'early', 'damp', 'model', 'brick', 'summer'] |  
+| bip_39_word_space_1 | twenty |  
+| bip_39_word_space_10 | twenty debate nerve dismiss toast label early damp model brick |  
+| bip_39_word_space_11 | twenty debate nerve dismiss toast label early damp model brick summer |  
+| bip_39_word_space_2 | twenty debate |  
+| bip_39_word_space_3 | twenty debate nerve |  
+| bip_39_word_space_4 | twenty debate nerve dismiss |  
+| bip_39_word_space_5 | twenty debate nerve dismiss toast |  
+| bip_39_word_space_6 | twenty debate nerve dismiss toast label |  
+| bip_39_word_space_7 | twenty debate nerve dismiss toast label early |  
+| bip_39_word_space_8 | twenty debate nerve dismiss toast label early damp |  
+| bip_39_word_space_9 | twenty debate nerve dismiss toast label early damp model |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,188 @@
+bip_39_word_new_br1: panther
+bip_39_word_new_br10: panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely
+bip_39_word_new_br11: panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely<br>ostrich
+bip_39_word_new_br12: panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry<br>lonely<br>ostrich<br>asset
+bip_39_word_new_br2: panther<br>across
+bip_39_word_new_br3: panther<br>across<br>priority
+bip_39_word_new_br4: panther<br>across<br>priority<br>popular
+bip_39_word_new_br5: panther<br>across<br>priority<br>popular<br>inspire
+bip_39_word_new_br6: panther<br>across<br>priority<br>popular<br>inspire<br>original
+bip_39_word_new_br7: panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer
+bip_39_word_new_br8: panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key
+bip_39_word_new_br9: panther<br>across<br>priority<br>popular<br>inspire<br>original<br>pioneer<br>key<br>dry
+bip_39_word_new_line1: panther
+bip_39_word_new_line10: 'panther
+
+  across
+
+  priority
+
+  popular
+
+  inspire
+
+  original
+
+  pioneer
+
+  key
+
+  dry
+
+  lonely'
+bip_39_word_new_line11: 'panther
+
+  across
+
+  priority
+
+  popular
+
+  inspire
+
+  original
+
+  pioneer
+
+  key
+
+  dry
+
+  lonely
+
+  ostrich'
+bip_39_word_new_line12: 'panther
+
+  across
+
+  priority
+
+  popular
+
+  inspire
+
+  original
+
+  pioneer
+
+  key
+
+  dry
+
+  lonely
+
+  ostrich
+
+  asset'
+bip_39_word_new_line2: 'panther
+
+  across'
+bip_39_word_new_line3: 'panther
+
+  across
+
+  priority'
+bip_39_word_new_line4: 'panther
+
+  across
+
+  priority
+
+  popular'
+bip_39_word_new_line5: 'panther
+
+  across
+
+  priority
+
+  popular
+
+  inspire'
+bip_39_word_new_line6: 'panther
+
+  across
+
+  priority
+
+  popular
+
+  inspire
+
+  original'
+bip_39_word_new_line7: 'panther
+
+  across
+
+  priority
+
+  popular
+
+  inspire
+
+  original
+
+  pioneer'
+bip_39_word_new_line8: 'panther
+
+  across
+
+  priority
+
+  popular
+
+  inspire
+
+  original
+
+  pioneer
+
+  key'
+bip_39_word_new_line9: 'panther
+
+  across
+
+  priority
+
+  popular
+
+  inspire
+
+  original
+
+  pioneer
+
+  key
+
+  dry'
+bip_39_word_space_0:
+- panther
+- across
+- priority
+- popular
+- inspire
+- original
+- pioneer
+- key
+- dry
+- lonely
+- ostrich
+- asset
+bip_39_word_space_1: panther
+bip_39_word_space_10: panther across priority popular inspire original pioneer key
+  dry lonely
+bip_39_word_space_11: panther across priority popular inspire original pioneer key
+  dry lonely ostrich
+bip_39_word_space_12: panther across priority popular inspire original pioneer key
+  dry lonely ostrich asset
+bip_39_word_space_2: panther across
+bip_39_word_space_3: panther across priority
+bip_39_word_space_4: panther across priority popular
+bip_39_word_space_5: panther across priority popular inspire
+bip_39_word_space_6: panther across priority popular inspire original
+bip_39_word_space_7: panther across priority popular inspire original pioneer
+bip_39_word_space_8: panther across priority popular inspire original pioneer key
+bip_39_word_space_9: panther across priority popular inspire original pioneer key
+  dry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

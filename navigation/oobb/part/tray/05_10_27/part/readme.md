@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: model feature
+  * bip 39 word 3: model feature thought
+  * bip 39 word: model feature thought prefer luxury session multiply yard joy wedding dolphin access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | model |  
+| bip_39_word_new_br10 | model<br>feature<br>thought<br>prefer<br>luxury<br>session<br>multiply<br>yard<br>joy<br>wedding |  
+| bip_39_word_new_br11 | model<br>feature<br>thought<br>prefer<br>luxury<br>session<br>multiply<br>yard<br>joy<br>wedding<br>dolphin |  
+| bip_39_word_new_br12 | model<br>feature<br>thought<br>prefer<br>luxury<br>session<br>multiply<br>yard<br>joy<br>wedding<br>dolphin<br>access |  
+| bip_39_word_new_br2 | model<br>feature |  
+| bip_39_word_new_br3 | model<br>feature<br>thought |  
+| bip_39_word_new_br4 | model<br>feature<br>thought<br>prefer |  
+| bip_39_word_new_br5 | model<br>feature<br>thought<br>prefer<br>luxury |  
+| bip_39_word_new_br6 | model<br>feature<br>thought<br>prefer<br>luxury<br>session |  
+| bip_39_word_new_br7 | model<br>feature<br>thought<br>prefer<br>luxury<br>session<br>multiply |  
+| bip_39_word_new_br8 | model<br>feature<br>thought<br>prefer<br>luxury<br>session<br>multiply<br>yard |  
+| bip_39_word_new_br9 | model<br>feature<br>thought<br>prefer<br>luxury<br>session<br>multiply<br>yard<br>joy |  
+| bip_39_word_new_line1 | model |  
+| bip_39_word_new_line10 | model
+feature
+thought
+prefer
+luxury
+session
+multiply
+yard
+joy
+wedding |  
+| bip_39_word_new_line11 | model
+feature
+thought
+prefer
+luxury
+session
+multiply
+yard
+joy
+wedding
+dolphin |  
+| bip_39_word_new_line12 | model
+feature
+thought
+prefer
+luxury
+session
+multiply
+yard
+joy
+wedding
+dolphin
+access |  
+| bip_39_word_new_line2 | model
+feature |  
+| bip_39_word_new_line3 | model
+feature
+thought |  
+| bip_39_word_new_line4 | model
+feature
+thought
+prefer |  
+| bip_39_word_new_line5 | model
+feature
+thought
+prefer
+luxury |  
+| bip_39_word_new_line6 | model
+feature
+thought
+prefer
+luxury
+session |  
+| bip_39_word_new_line7 | model
+feature
+thought
+prefer
+luxury
+session
+multiply |  
+| bip_39_word_new_line8 | model
+feature
+thought
+prefer
+luxury
+session
+multiply
+yard |  
+| bip_39_word_new_line9 | model
+feature
+thought
+prefer
+luxury
+session
+multiply
+yard
+joy |  
+| bip_39_word_space_0 | ['model', 'feature', 'thought', 'prefer', 'luxury', 'session', 'multiply', 'yard', 'joy', 'wedding', 'dolphin', 'access'] |  
+| bip_39_word_space_1 | model |  
+| bip_39_word_space_10 | model feature thought prefer luxury session multiply yard joy wedding |  
+| bip_39_word_space_11 | model feature thought prefer luxury session multiply yard joy wedding dolphin |  
+| bip_39_word_space_12 | model feature thought prefer luxury session multiply yard joy wedding dolphin access |  
+| bip_39_word_space_2 | model feature |  
+| bip_39_word_space_3 | model feature thought |  
+| bip_39_word_space_4 | model feature thought prefer |  
+| bip_39_word_space_5 | model feature thought prefer luxury |  
+| bip_39_word_space_6 | model feature thought prefer luxury session |  
+| bip_39_word_space_7 | model feature thought prefer luxury session multiply |  
+| bip_39_word_space_8 | model feature thought prefer luxury session multiply yard |  
+| bip_39_word_space_9 | model feature thought prefer luxury session multiply yard joy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

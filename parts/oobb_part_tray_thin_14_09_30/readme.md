@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: butter guess
+  * bip 39 word 3: butter guess voice
+  * bip 39 word: butter guess voice pool fever music thank april donate tail move angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | butter |  
+| bip_39_word_new_br10 | butter<br>guess<br>voice<br>pool<br>fever<br>music<br>thank<br>april<br>donate<br>tail |  
+| bip_39_word_new_br11 | butter<br>guess<br>voice<br>pool<br>fever<br>music<br>thank<br>april<br>donate<br>tail<br>move |  
+| bip_39_word_new_br12 | butter<br>guess<br>voice<br>pool<br>fever<br>music<br>thank<br>april<br>donate<br>tail<br>move<br>angry |  
+| bip_39_word_new_br2 | butter<br>guess |  
+| bip_39_word_new_br3 | butter<br>guess<br>voice |  
+| bip_39_word_new_br4 | butter<br>guess<br>voice<br>pool |  
+| bip_39_word_new_br5 | butter<br>guess<br>voice<br>pool<br>fever |  
+| bip_39_word_new_br6 | butter<br>guess<br>voice<br>pool<br>fever<br>music |  
+| bip_39_word_new_br7 | butter<br>guess<br>voice<br>pool<br>fever<br>music<br>thank |  
+| bip_39_word_new_br8 | butter<br>guess<br>voice<br>pool<br>fever<br>music<br>thank<br>april |  
+| bip_39_word_new_br9 | butter<br>guess<br>voice<br>pool<br>fever<br>music<br>thank<br>april<br>donate |  
+| bip_39_word_new_line1 | butter |  
+| bip_39_word_new_line10 | butter
+guess
+voice
+pool
+fever
+music
+thank
+april
+donate
+tail |  
+| bip_39_word_new_line11 | butter
+guess
+voice
+pool
+fever
+music
+thank
+april
+donate
+tail
+move |  
+| bip_39_word_new_line12 | butter
+guess
+voice
+pool
+fever
+music
+thank
+april
+donate
+tail
+move
+angry |  
+| bip_39_word_new_line2 | butter
+guess |  
+| bip_39_word_new_line3 | butter
+guess
+voice |  
+| bip_39_word_new_line4 | butter
+guess
+voice
+pool |  
+| bip_39_word_new_line5 | butter
+guess
+voice
+pool
+fever |  
+| bip_39_word_new_line6 | butter
+guess
+voice
+pool
+fever
+music |  
+| bip_39_word_new_line7 | butter
+guess
+voice
+pool
+fever
+music
+thank |  
+| bip_39_word_new_line8 | butter
+guess
+voice
+pool
+fever
+music
+thank
+april |  
+| bip_39_word_new_line9 | butter
+guess
+voice
+pool
+fever
+music
+thank
+april
+donate |  
+| bip_39_word_space_0 | ['butter', 'guess', 'voice', 'pool', 'fever', 'music', 'thank', 'april', 'donate', 'tail', 'move', 'angry'] |  
+| bip_39_word_space_1 | butter |  
+| bip_39_word_space_10 | butter guess voice pool fever music thank april donate tail |  
+| bip_39_word_space_11 | butter guess voice pool fever music thank april donate tail move |  
+| bip_39_word_space_12 | butter guess voice pool fever music thank april donate tail move angry |  
+| bip_39_word_space_2 | butter guess |  
+| bip_39_word_space_3 | butter guess voice |  
+| bip_39_word_space_4 | butter guess voice pool |  
+| bip_39_word_space_5 | butter guess voice pool fever |  
+| bip_39_word_space_6 | butter guess voice pool fever music |  
+| bip_39_word_space_7 | butter guess voice pool fever music thank |  
+| bip_39_word_space_8 | butter guess voice pool fever music thank april |  
+| bip_39_word_space_9 | butter guess voice pool fever music thank april donate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

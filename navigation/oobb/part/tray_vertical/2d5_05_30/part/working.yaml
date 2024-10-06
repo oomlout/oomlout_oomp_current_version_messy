@@ -1,3 +1,187 @@
+bip_39_word_new_br1: acoustic
+bip_39_word_new_br10: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort
+bip_39_word_new_br11: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort<br>duty
+bip_39_word_new_br12: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution<br>comfort<br>duty<br>able
+bip_39_word_new_br2: acoustic<br>soup
+bip_39_word_new_br3: acoustic<br>soup<br>load
+bip_39_word_new_br4: acoustic<br>soup<br>load<br>base
+bip_39_word_new_br5: acoustic<br>soup<br>load<br>base<br>tattoo
+bip_39_word_new_br6: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose
+bip_39_word_new_br7: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding
+bip_39_word_new_br8: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they
+bip_39_word_new_br9: acoustic<br>soup<br>load<br>base<br>tattoo<br>expose<br>wedding<br>they<br>solution
+bip_39_word_new_line1: acoustic
+bip_39_word_new_line10: 'acoustic
+
+  soup
+
+  load
+
+  base
+
+  tattoo
+
+  expose
+
+  wedding
+
+  they
+
+  solution
+
+  comfort'
+bip_39_word_new_line11: 'acoustic
+
+  soup
+
+  load
+
+  base
+
+  tattoo
+
+  expose
+
+  wedding
+
+  they
+
+  solution
+
+  comfort
+
+  duty'
+bip_39_word_new_line12: 'acoustic
+
+  soup
+
+  load
+
+  base
+
+  tattoo
+
+  expose
+
+  wedding
+
+  they
+
+  solution
+
+  comfort
+
+  duty
+
+  able'
+bip_39_word_new_line2: 'acoustic
+
+  soup'
+bip_39_word_new_line3: 'acoustic
+
+  soup
+
+  load'
+bip_39_word_new_line4: 'acoustic
+
+  soup
+
+  load
+
+  base'
+bip_39_word_new_line5: 'acoustic
+
+  soup
+
+  load
+
+  base
+
+  tattoo'
+bip_39_word_new_line6: 'acoustic
+
+  soup
+
+  load
+
+  base
+
+  tattoo
+
+  expose'
+bip_39_word_new_line7: 'acoustic
+
+  soup
+
+  load
+
+  base
+
+  tattoo
+
+  expose
+
+  wedding'
+bip_39_word_new_line8: 'acoustic
+
+  soup
+
+  load
+
+  base
+
+  tattoo
+
+  expose
+
+  wedding
+
+  they'
+bip_39_word_new_line9: 'acoustic
+
+  soup
+
+  load
+
+  base
+
+  tattoo
+
+  expose
+
+  wedding
+
+  they
+
+  solution'
+bip_39_word_space_0:
+- acoustic
+- soup
+- load
+- base
+- tattoo
+- expose
+- wedding
+- they
+- solution
+- comfort
+- duty
+- able
+bip_39_word_space_1: acoustic
+bip_39_word_space_10: acoustic soup load base tattoo expose wedding they solution
+  comfort
+bip_39_word_space_11: acoustic soup load base tattoo expose wedding they solution
+  comfort duty
+bip_39_word_space_12: acoustic soup load base tattoo expose wedding they solution
+  comfort duty able
+bip_39_word_space_2: acoustic soup
+bip_39_word_space_3: acoustic soup load
+bip_39_word_space_4: acoustic soup load base
+bip_39_word_space_5: acoustic soup load base tattoo
+bip_39_word_space_6: acoustic soup load base tattoo expose
+bip_39_word_space_7: acoustic soup load base tattoo expose wedding
+bip_39_word_space_8: acoustic soup load base tattoo expose wedding they
+bip_39_word_space_9: acoustic soup load base tattoo expose wedding they solution
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

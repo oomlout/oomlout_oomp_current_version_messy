@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tray
+bip_39_word_new_br10: tray<br>sample<br>truly<br>twice<br>live<br>license<br>erode<br>embrace<br>believe<br>legend
+bip_39_word_new_br11: tray<br>sample<br>truly<br>twice<br>live<br>license<br>erode<br>embrace<br>believe<br>legend<br>brain
+bip_39_word_new_br12: tray<br>sample<br>truly<br>twice<br>live<br>license<br>erode<br>embrace<br>believe<br>legend<br>brain<br>acquire
+bip_39_word_new_br2: tray<br>sample
+bip_39_word_new_br3: tray<br>sample<br>truly
+bip_39_word_new_br4: tray<br>sample<br>truly<br>twice
+bip_39_word_new_br5: tray<br>sample<br>truly<br>twice<br>live
+bip_39_word_new_br6: tray<br>sample<br>truly<br>twice<br>live<br>license
+bip_39_word_new_br7: tray<br>sample<br>truly<br>twice<br>live<br>license<br>erode
+bip_39_word_new_br8: tray<br>sample<br>truly<br>twice<br>live<br>license<br>erode<br>embrace
+bip_39_word_new_br9: tray<br>sample<br>truly<br>twice<br>live<br>license<br>erode<br>embrace<br>believe
+bip_39_word_new_line1: tray
+bip_39_word_new_line10: 'tray
+
+  sample
+
+  truly
+
+  twice
+
+  live
+
+  license
+
+  erode
+
+  embrace
+
+  believe
+
+  legend'
+bip_39_word_new_line11: 'tray
+
+  sample
+
+  truly
+
+  twice
+
+  live
+
+  license
+
+  erode
+
+  embrace
+
+  believe
+
+  legend
+
+  brain'
+bip_39_word_new_line12: 'tray
+
+  sample
+
+  truly
+
+  twice
+
+  live
+
+  license
+
+  erode
+
+  embrace
+
+  believe
+
+  legend
+
+  brain
+
+  acquire'
+bip_39_word_new_line2: 'tray
+
+  sample'
+bip_39_word_new_line3: 'tray
+
+  sample
+
+  truly'
+bip_39_word_new_line4: 'tray
+
+  sample
+
+  truly
+
+  twice'
+bip_39_word_new_line5: 'tray
+
+  sample
+
+  truly
+
+  twice
+
+  live'
+bip_39_word_new_line6: 'tray
+
+  sample
+
+  truly
+
+  twice
+
+  live
+
+  license'
+bip_39_word_new_line7: 'tray
+
+  sample
+
+  truly
+
+  twice
+
+  live
+
+  license
+
+  erode'
+bip_39_word_new_line8: 'tray
+
+  sample
+
+  truly
+
+  twice
+
+  live
+
+  license
+
+  erode
+
+  embrace'
+bip_39_word_new_line9: 'tray
+
+  sample
+
+  truly
+
+  twice
+
+  live
+
+  license
+
+  erode
+
+  embrace
+
+  believe'
+bip_39_word_space_0:
+- tray
+- sample
+- truly
+- twice
+- live
+- license
+- erode
+- embrace
+- believe
+- legend
+- brain
+- acquire
+bip_39_word_space_1: tray
+bip_39_word_space_10: tray sample truly twice live license erode embrace believe legend
+bip_39_word_space_11: tray sample truly twice live license erode embrace believe legend
+  brain
+bip_39_word_space_12: tray sample truly twice live license erode embrace believe legend
+  brain acquire
+bip_39_word_space_2: tray sample
+bip_39_word_space_3: tray sample truly
+bip_39_word_space_4: tray sample truly twice
+bip_39_word_space_5: tray sample truly twice live
+bip_39_word_space_6: tray sample truly twice live license
+bip_39_word_space_7: tray sample truly twice live license erode
+bip_39_word_space_8: tray sample truly twice live license erode embrace
+bip_39_word_space_9: tray sample truly twice live license erode embrace believe
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chaos put
+  * bip 39 word 3: chaos put scout
+  * bip 39 word: chaos put scout current cancel crowd small unlock west worry mango advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chaos |  
+| bip_39_word_new_br10 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd<br>small<br>unlock<br>west<br>worry |  
+| bip_39_word_new_br11 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd<br>small<br>unlock<br>west<br>worry<br>mango |  
+| bip_39_word_new_br12 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd<br>small<br>unlock<br>west<br>worry<br>mango<br>advance |  
+| bip_39_word_new_br2 | chaos<br>put |  
+| bip_39_word_new_br3 | chaos<br>put<br>scout |  
+| bip_39_word_new_br4 | chaos<br>put<br>scout<br>current |  
+| bip_39_word_new_br5 | chaos<br>put<br>scout<br>current<br>cancel |  
+| bip_39_word_new_br6 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd |  
+| bip_39_word_new_br7 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd<br>small |  
+| bip_39_word_new_br8 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd<br>small<br>unlock |  
+| bip_39_word_new_br9 | chaos<br>put<br>scout<br>current<br>cancel<br>crowd<br>small<br>unlock<br>west |  
+| bip_39_word_new_line1 | chaos |  
+| bip_39_word_new_line10 | chaos
+put
+scout
+current
+cancel
+crowd
+small
+unlock
+west
+worry |  
+| bip_39_word_new_line11 | chaos
+put
+scout
+current
+cancel
+crowd
+small
+unlock
+west
+worry
+mango |  
+| bip_39_word_new_line12 | chaos
+put
+scout
+current
+cancel
+crowd
+small
+unlock
+west
+worry
+mango
+advance |  
+| bip_39_word_new_line2 | chaos
+put |  
+| bip_39_word_new_line3 | chaos
+put
+scout |  
+| bip_39_word_new_line4 | chaos
+put
+scout
+current |  
+| bip_39_word_new_line5 | chaos
+put
+scout
+current
+cancel |  
+| bip_39_word_new_line6 | chaos
+put
+scout
+current
+cancel
+crowd |  
+| bip_39_word_new_line7 | chaos
+put
+scout
+current
+cancel
+crowd
+small |  
+| bip_39_word_new_line8 | chaos
+put
+scout
+current
+cancel
+crowd
+small
+unlock |  
+| bip_39_word_new_line9 | chaos
+put
+scout
+current
+cancel
+crowd
+small
+unlock
+west |  
+| bip_39_word_space_0 | ['chaos', 'put', 'scout', 'current', 'cancel', 'crowd', 'small', 'unlock', 'west', 'worry', 'mango', 'advance'] |  
+| bip_39_word_space_1 | chaos |  
+| bip_39_word_space_10 | chaos put scout current cancel crowd small unlock west worry |  
+| bip_39_word_space_11 | chaos put scout current cancel crowd small unlock west worry mango |  
+| bip_39_word_space_12 | chaos put scout current cancel crowd small unlock west worry mango advance |  
+| bip_39_word_space_2 | chaos put |  
+| bip_39_word_space_3 | chaos put scout |  
+| bip_39_word_space_4 | chaos put scout current |  
+| bip_39_word_space_5 | chaos put scout current cancel |  
+| bip_39_word_space_6 | chaos put scout current cancel crowd |  
+| bip_39_word_space_7 | chaos put scout current cancel crowd small |  
+| bip_39_word_space_8 | chaos put scout current cancel crowd small unlock |  
+| bip_39_word_space_9 | chaos put scout current cancel crowd small unlock west |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

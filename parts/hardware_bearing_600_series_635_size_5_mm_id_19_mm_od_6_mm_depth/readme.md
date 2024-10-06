@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scrub jaguar
+  * bip 39 word 3: scrub jaguar derive
+  * bip 39 word: scrub jaguar derive avocado eagle month bulb kangaroo brain honey wife appear
 
 ### other_codes
 * short_code: br635
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scrub |  
+| bip_39_word_new_br10 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain<br>honey |  
+| bip_39_word_new_br11 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain<br>honey<br>wife |  
+| bip_39_word_new_br12 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain<br>honey<br>wife<br>appear |  
+| bip_39_word_new_br2 | scrub<br>jaguar |  
+| bip_39_word_new_br3 | scrub<br>jaguar<br>derive |  
+| bip_39_word_new_br4 | scrub<br>jaguar<br>derive<br>avocado |  
+| bip_39_word_new_br5 | scrub<br>jaguar<br>derive<br>avocado<br>eagle |  
+| bip_39_word_new_br6 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month |  
+| bip_39_word_new_br7 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb |  
+| bip_39_word_new_br8 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo |  
+| bip_39_word_new_br9 | scrub<br>jaguar<br>derive<br>avocado<br>eagle<br>month<br>bulb<br>kangaroo<br>brain |  
+| bip_39_word_new_line1 | scrub |  
+| bip_39_word_new_line10 | scrub
+jaguar
+derive
+avocado
+eagle
+month
+bulb
+kangaroo
+brain
+honey |  
+| bip_39_word_new_line11 | scrub
+jaguar
+derive
+avocado
+eagle
+month
+bulb
+kangaroo
+brain
+honey
+wife |  
+| bip_39_word_new_line12 | scrub
+jaguar
+derive
+avocado
+eagle
+month
+bulb
+kangaroo
+brain
+honey
+wife
+appear |  
+| bip_39_word_new_line2 | scrub
+jaguar |  
+| bip_39_word_new_line3 | scrub
+jaguar
+derive |  
+| bip_39_word_new_line4 | scrub
+jaguar
+derive
+avocado |  
+| bip_39_word_new_line5 | scrub
+jaguar
+derive
+avocado
+eagle |  
+| bip_39_word_new_line6 | scrub
+jaguar
+derive
+avocado
+eagle
+month |  
+| bip_39_word_new_line7 | scrub
+jaguar
+derive
+avocado
+eagle
+month
+bulb |  
+| bip_39_word_new_line8 | scrub
+jaguar
+derive
+avocado
+eagle
+month
+bulb
+kangaroo |  
+| bip_39_word_new_line9 | scrub
+jaguar
+derive
+avocado
+eagle
+month
+bulb
+kangaroo
+brain |  
+| bip_39_word_space_0 | ['scrub', 'jaguar', 'derive', 'avocado', 'eagle', 'month', 'bulb', 'kangaroo', 'brain', 'honey', 'wife', 'appear'] |  
+| bip_39_word_space_1 | scrub |  
+| bip_39_word_space_10 | scrub jaguar derive avocado eagle month bulb kangaroo brain honey |  
+| bip_39_word_space_11 | scrub jaguar derive avocado eagle month bulb kangaroo brain honey wife |  
+| bip_39_word_space_12 | scrub jaguar derive avocado eagle month bulb kangaroo brain honey wife appear |  
+| bip_39_word_space_2 | scrub jaguar |  
+| bip_39_word_space_3 | scrub jaguar derive |  
+| bip_39_word_space_4 | scrub jaguar derive avocado |  
+| bip_39_word_space_5 | scrub jaguar derive avocado eagle |  
+| bip_39_word_space_6 | scrub jaguar derive avocado eagle month |  
+| bip_39_word_space_7 | scrub jaguar derive avocado eagle month bulb |  
+| bip_39_word_space_8 | scrub jaguar derive avocado eagle month bulb kangaroo |  
+| bip_39_word_space_9 | scrub jaguar derive avocado eagle month bulb kangaroo brain |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

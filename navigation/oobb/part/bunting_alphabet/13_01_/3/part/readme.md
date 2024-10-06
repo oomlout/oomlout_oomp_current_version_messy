@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: meat knee
+  * bip 39 word 3: meat knee three
+  * bip 39 word: meat knee three hotel multiply flush you gown spring chuckle soldier actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | meat |  
+| bip_39_word_new_br10 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush<br>you<br>gown<br>spring<br>chuckle |  
+| bip_39_word_new_br11 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush<br>you<br>gown<br>spring<br>chuckle<br>soldier |  
+| bip_39_word_new_br12 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush<br>you<br>gown<br>spring<br>chuckle<br>soldier<br>actor |  
+| bip_39_word_new_br2 | meat<br>knee |  
+| bip_39_word_new_br3 | meat<br>knee<br>three |  
+| bip_39_word_new_br4 | meat<br>knee<br>three<br>hotel |  
+| bip_39_word_new_br5 | meat<br>knee<br>three<br>hotel<br>multiply |  
+| bip_39_word_new_br6 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush |  
+| bip_39_word_new_br7 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush<br>you |  
+| bip_39_word_new_br8 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush<br>you<br>gown |  
+| bip_39_word_new_br9 | meat<br>knee<br>three<br>hotel<br>multiply<br>flush<br>you<br>gown<br>spring |  
+| bip_39_word_new_line1 | meat |  
+| bip_39_word_new_line10 | meat
+knee
+three
+hotel
+multiply
+flush
+you
+gown
+spring
+chuckle |  
+| bip_39_word_new_line11 | meat
+knee
+three
+hotel
+multiply
+flush
+you
+gown
+spring
+chuckle
+soldier |  
+| bip_39_word_new_line12 | meat
+knee
+three
+hotel
+multiply
+flush
+you
+gown
+spring
+chuckle
+soldier
+actor |  
+| bip_39_word_new_line2 | meat
+knee |  
+| bip_39_word_new_line3 | meat
+knee
+three |  
+| bip_39_word_new_line4 | meat
+knee
+three
+hotel |  
+| bip_39_word_new_line5 | meat
+knee
+three
+hotel
+multiply |  
+| bip_39_word_new_line6 | meat
+knee
+three
+hotel
+multiply
+flush |  
+| bip_39_word_new_line7 | meat
+knee
+three
+hotel
+multiply
+flush
+you |  
+| bip_39_word_new_line8 | meat
+knee
+three
+hotel
+multiply
+flush
+you
+gown |  
+| bip_39_word_new_line9 | meat
+knee
+three
+hotel
+multiply
+flush
+you
+gown
+spring |  
+| bip_39_word_space_0 | ['meat', 'knee', 'three', 'hotel', 'multiply', 'flush', 'you', 'gown', 'spring', 'chuckle', 'soldier', 'actor'] |  
+| bip_39_word_space_1 | meat |  
+| bip_39_word_space_10 | meat knee three hotel multiply flush you gown spring chuckle |  
+| bip_39_word_space_11 | meat knee three hotel multiply flush you gown spring chuckle soldier |  
+| bip_39_word_space_12 | meat knee three hotel multiply flush you gown spring chuckle soldier actor |  
+| bip_39_word_space_2 | meat knee |  
+| bip_39_word_space_3 | meat knee three |  
+| bip_39_word_space_4 | meat knee three hotel |  
+| bip_39_word_space_5 | meat knee three hotel multiply |  
+| bip_39_word_space_6 | meat knee three hotel multiply flush |  
+| bip_39_word_space_7 | meat knee three hotel multiply flush you |  
+| bip_39_word_space_8 | meat knee three hotel multiply flush you gown |  
+| bip_39_word_space_9 | meat knee three hotel multiply flush you gown spring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

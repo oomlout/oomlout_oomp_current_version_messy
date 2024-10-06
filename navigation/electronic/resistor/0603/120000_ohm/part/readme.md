@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vague globe
+  * bip 39 word 3: vague globe frog
+  * bip 39 word: vague globe frog trial three jar pink rich joke few armed also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vague |  
+| bip_39_word_new_br10 | vague<br>globe<br>frog<br>trial<br>three<br>jar<br>pink<br>rich<br>joke<br>few |  
+| bip_39_word_new_br11 | vague<br>globe<br>frog<br>trial<br>three<br>jar<br>pink<br>rich<br>joke<br>few<br>armed |  
+| bip_39_word_new_br12 | vague<br>globe<br>frog<br>trial<br>three<br>jar<br>pink<br>rich<br>joke<br>few<br>armed<br>also |  
+| bip_39_word_new_br2 | vague<br>globe |  
+| bip_39_word_new_br3 | vague<br>globe<br>frog |  
+| bip_39_word_new_br4 | vague<br>globe<br>frog<br>trial |  
+| bip_39_word_new_br5 | vague<br>globe<br>frog<br>trial<br>three |  
+| bip_39_word_new_br6 | vague<br>globe<br>frog<br>trial<br>three<br>jar |  
+| bip_39_word_new_br7 | vague<br>globe<br>frog<br>trial<br>three<br>jar<br>pink |  
+| bip_39_word_new_br8 | vague<br>globe<br>frog<br>trial<br>three<br>jar<br>pink<br>rich |  
+| bip_39_word_new_br9 | vague<br>globe<br>frog<br>trial<br>three<br>jar<br>pink<br>rich<br>joke |  
+| bip_39_word_new_line1 | vague |  
+| bip_39_word_new_line10 | vague
+globe
+frog
+trial
+three
+jar
+pink
+rich
+joke
+few |  
+| bip_39_word_new_line11 | vague
+globe
+frog
+trial
+three
+jar
+pink
+rich
+joke
+few
+armed |  
+| bip_39_word_new_line12 | vague
+globe
+frog
+trial
+three
+jar
+pink
+rich
+joke
+few
+armed
+also |  
+| bip_39_word_new_line2 | vague
+globe |  
+| bip_39_word_new_line3 | vague
+globe
+frog |  
+| bip_39_word_new_line4 | vague
+globe
+frog
+trial |  
+| bip_39_word_new_line5 | vague
+globe
+frog
+trial
+three |  
+| bip_39_word_new_line6 | vague
+globe
+frog
+trial
+three
+jar |  
+| bip_39_word_new_line7 | vague
+globe
+frog
+trial
+three
+jar
+pink |  
+| bip_39_word_new_line8 | vague
+globe
+frog
+trial
+three
+jar
+pink
+rich |  
+| bip_39_word_new_line9 | vague
+globe
+frog
+trial
+three
+jar
+pink
+rich
+joke |  
+| bip_39_word_space_0 | ['vague', 'globe', 'frog', 'trial', 'three', 'jar', 'pink', 'rich', 'joke', 'few', 'armed', 'also'] |  
+| bip_39_word_space_1 | vague |  
+| bip_39_word_space_10 | vague globe frog trial three jar pink rich joke few |  
+| bip_39_word_space_11 | vague globe frog trial three jar pink rich joke few armed |  
+| bip_39_word_space_12 | vague globe frog trial three jar pink rich joke few armed also |  
+| bip_39_word_space_2 | vague globe |  
+| bip_39_word_space_3 | vague globe frog |  
+| bip_39_word_space_4 | vague globe frog trial |  
+| bip_39_word_space_5 | vague globe frog trial three |  
+| bip_39_word_space_6 | vague globe frog trial three jar |  
+| bip_39_word_space_7 | vague globe frog trial three jar pink |  
+| bip_39_word_space_8 | vague globe frog trial three jar pink rich |  
+| bip_39_word_space_9 | vague globe frog trial three jar pink rich joke |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

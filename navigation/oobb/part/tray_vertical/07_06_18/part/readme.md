@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crawl dignity
+  * bip 39 word 3: crawl dignity worth
+  * bip 39 word: crawl dignity worth toast danger culture common cattle leisure fortune learn airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crawl |  
+| bip_39_word_new_br10 | crawl<br>dignity<br>worth<br>toast<br>danger<br>culture<br>common<br>cattle<br>leisure<br>fortune |  
+| bip_39_word_new_br11 | crawl<br>dignity<br>worth<br>toast<br>danger<br>culture<br>common<br>cattle<br>leisure<br>fortune<br>learn |  
+| bip_39_word_new_br12 | crawl<br>dignity<br>worth<br>toast<br>danger<br>culture<br>common<br>cattle<br>leisure<br>fortune<br>learn<br>airport |  
+| bip_39_word_new_br2 | crawl<br>dignity |  
+| bip_39_word_new_br3 | crawl<br>dignity<br>worth |  
+| bip_39_word_new_br4 | crawl<br>dignity<br>worth<br>toast |  
+| bip_39_word_new_br5 | crawl<br>dignity<br>worth<br>toast<br>danger |  
+| bip_39_word_new_br6 | crawl<br>dignity<br>worth<br>toast<br>danger<br>culture |  
+| bip_39_word_new_br7 | crawl<br>dignity<br>worth<br>toast<br>danger<br>culture<br>common |  
+| bip_39_word_new_br8 | crawl<br>dignity<br>worth<br>toast<br>danger<br>culture<br>common<br>cattle |  
+| bip_39_word_new_br9 | crawl<br>dignity<br>worth<br>toast<br>danger<br>culture<br>common<br>cattle<br>leisure |  
+| bip_39_word_new_line1 | crawl |  
+| bip_39_word_new_line10 | crawl
+dignity
+worth
+toast
+danger
+culture
+common
+cattle
+leisure
+fortune |  
+| bip_39_word_new_line11 | crawl
+dignity
+worth
+toast
+danger
+culture
+common
+cattle
+leisure
+fortune
+learn |  
+| bip_39_word_new_line12 | crawl
+dignity
+worth
+toast
+danger
+culture
+common
+cattle
+leisure
+fortune
+learn
+airport |  
+| bip_39_word_new_line2 | crawl
+dignity |  
+| bip_39_word_new_line3 | crawl
+dignity
+worth |  
+| bip_39_word_new_line4 | crawl
+dignity
+worth
+toast |  
+| bip_39_word_new_line5 | crawl
+dignity
+worth
+toast
+danger |  
+| bip_39_word_new_line6 | crawl
+dignity
+worth
+toast
+danger
+culture |  
+| bip_39_word_new_line7 | crawl
+dignity
+worth
+toast
+danger
+culture
+common |  
+| bip_39_word_new_line8 | crawl
+dignity
+worth
+toast
+danger
+culture
+common
+cattle |  
+| bip_39_word_new_line9 | crawl
+dignity
+worth
+toast
+danger
+culture
+common
+cattle
+leisure |  
+| bip_39_word_space_0 | ['crawl', 'dignity', 'worth', 'toast', 'danger', 'culture', 'common', 'cattle', 'leisure', 'fortune', 'learn', 'airport'] |  
+| bip_39_word_space_1 | crawl |  
+| bip_39_word_space_10 | crawl dignity worth toast danger culture common cattle leisure fortune |  
+| bip_39_word_space_11 | crawl dignity worth toast danger culture common cattle leisure fortune learn |  
+| bip_39_word_space_12 | crawl dignity worth toast danger culture common cattle leisure fortune learn airport |  
+| bip_39_word_space_2 | crawl dignity |  
+| bip_39_word_space_3 | crawl dignity worth |  
+| bip_39_word_space_4 | crawl dignity worth toast |  
+| bip_39_word_space_5 | crawl dignity worth toast danger |  
+| bip_39_word_space_6 | crawl dignity worth toast danger culture |  
+| bip_39_word_space_7 | crawl dignity worth toast danger culture common |  
+| bip_39_word_space_8 | crawl dignity worth toast danger culture common cattle |  
+| bip_39_word_space_9 | crawl dignity worth toast danger culture common cattle leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

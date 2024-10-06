@@ -1,3 +1,187 @@
+bip_39_word_new_br1: street
+bip_39_word_new_br10: street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi<br>worth<br>case<br>evidence<br>bomb
+bip_39_word_new_br11: street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi<br>worth<br>case<br>evidence<br>bomb<br>joke
+bip_39_word_new_br12: street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi<br>worth<br>case<br>evidence<br>bomb<br>joke<br>anchor
+bip_39_word_new_br2: street<br>physical
+bip_39_word_new_br3: street<br>physical<br>kidney
+bip_39_word_new_br4: street<br>physical<br>kidney<br>vintage
+bip_39_word_new_br5: street<br>physical<br>kidney<br>vintage<br>drive
+bip_39_word_new_br6: street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi
+bip_39_word_new_br7: street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi<br>worth
+bip_39_word_new_br8: street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi<br>worth<br>case
+bip_39_word_new_br9: street<br>physical<br>kidney<br>vintage<br>drive<br>satoshi<br>worth<br>case<br>evidence
+bip_39_word_new_line1: street
+bip_39_word_new_line10: 'street
+
+  physical
+
+  kidney
+
+  vintage
+
+  drive
+
+  satoshi
+
+  worth
+
+  case
+
+  evidence
+
+  bomb'
+bip_39_word_new_line11: 'street
+
+  physical
+
+  kidney
+
+  vintage
+
+  drive
+
+  satoshi
+
+  worth
+
+  case
+
+  evidence
+
+  bomb
+
+  joke'
+bip_39_word_new_line12: 'street
+
+  physical
+
+  kidney
+
+  vintage
+
+  drive
+
+  satoshi
+
+  worth
+
+  case
+
+  evidence
+
+  bomb
+
+  joke
+
+  anchor'
+bip_39_word_new_line2: 'street
+
+  physical'
+bip_39_word_new_line3: 'street
+
+  physical
+
+  kidney'
+bip_39_word_new_line4: 'street
+
+  physical
+
+  kidney
+
+  vintage'
+bip_39_word_new_line5: 'street
+
+  physical
+
+  kidney
+
+  vintage
+
+  drive'
+bip_39_word_new_line6: 'street
+
+  physical
+
+  kidney
+
+  vintage
+
+  drive
+
+  satoshi'
+bip_39_word_new_line7: 'street
+
+  physical
+
+  kidney
+
+  vintage
+
+  drive
+
+  satoshi
+
+  worth'
+bip_39_word_new_line8: 'street
+
+  physical
+
+  kidney
+
+  vintage
+
+  drive
+
+  satoshi
+
+  worth
+
+  case'
+bip_39_word_new_line9: 'street
+
+  physical
+
+  kidney
+
+  vintage
+
+  drive
+
+  satoshi
+
+  worth
+
+  case
+
+  evidence'
+bip_39_word_space_0:
+- street
+- physical
+- kidney
+- vintage
+- drive
+- satoshi
+- worth
+- case
+- evidence
+- bomb
+- joke
+- anchor
+bip_39_word_space_1: street
+bip_39_word_space_10: street physical kidney vintage drive satoshi worth case evidence
+  bomb
+bip_39_word_space_11: street physical kidney vintage drive satoshi worth case evidence
+  bomb joke
+bip_39_word_space_12: street physical kidney vintage drive satoshi worth case evidence
+  bomb joke anchor
+bip_39_word_space_2: street physical
+bip_39_word_space_3: street physical kidney
+bip_39_word_space_4: street physical kidney vintage
+bip_39_word_space_5: street physical kidney vintage drive
+bip_39_word_space_6: street physical kidney vintage drive satoshi
+bip_39_word_space_7: street physical kidney vintage drive satoshi worth
+bip_39_word_space_8: street physical kidney vintage drive satoshi worth case
+bip_39_word_space_9: street physical kidney vintage drive satoshi worth case evidence
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

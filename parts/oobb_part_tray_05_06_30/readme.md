@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nasty olive
+  * bip 39 word 3: nasty olive seminar
+  * bip 39 word: nasty olive seminar bean brother nice cat keen property describe cigar another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nasty |  
+| bip_39_word_new_br10 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice<br>cat<br>keen<br>property<br>describe |  
+| bip_39_word_new_br11 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice<br>cat<br>keen<br>property<br>describe<br>cigar |  
+| bip_39_word_new_br12 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice<br>cat<br>keen<br>property<br>describe<br>cigar<br>another |  
+| bip_39_word_new_br2 | nasty<br>olive |  
+| bip_39_word_new_br3 | nasty<br>olive<br>seminar |  
+| bip_39_word_new_br4 | nasty<br>olive<br>seminar<br>bean |  
+| bip_39_word_new_br5 | nasty<br>olive<br>seminar<br>bean<br>brother |  
+| bip_39_word_new_br6 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice |  
+| bip_39_word_new_br7 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice<br>cat |  
+| bip_39_word_new_br8 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice<br>cat<br>keen |  
+| bip_39_word_new_br9 | nasty<br>olive<br>seminar<br>bean<br>brother<br>nice<br>cat<br>keen<br>property |  
+| bip_39_word_new_line1 | nasty |  
+| bip_39_word_new_line10 | nasty
+olive
+seminar
+bean
+brother
+nice
+cat
+keen
+property
+describe |  
+| bip_39_word_new_line11 | nasty
+olive
+seminar
+bean
+brother
+nice
+cat
+keen
+property
+describe
+cigar |  
+| bip_39_word_new_line12 | nasty
+olive
+seminar
+bean
+brother
+nice
+cat
+keen
+property
+describe
+cigar
+another |  
+| bip_39_word_new_line2 | nasty
+olive |  
+| bip_39_word_new_line3 | nasty
+olive
+seminar |  
+| bip_39_word_new_line4 | nasty
+olive
+seminar
+bean |  
+| bip_39_word_new_line5 | nasty
+olive
+seminar
+bean
+brother |  
+| bip_39_word_new_line6 | nasty
+olive
+seminar
+bean
+brother
+nice |  
+| bip_39_word_new_line7 | nasty
+olive
+seminar
+bean
+brother
+nice
+cat |  
+| bip_39_word_new_line8 | nasty
+olive
+seminar
+bean
+brother
+nice
+cat
+keen |  
+| bip_39_word_new_line9 | nasty
+olive
+seminar
+bean
+brother
+nice
+cat
+keen
+property |  
+| bip_39_word_space_0 | ['nasty', 'olive', 'seminar', 'bean', 'brother', 'nice', 'cat', 'keen', 'property', 'describe', 'cigar', 'another'] |  
+| bip_39_word_space_1 | nasty |  
+| bip_39_word_space_10 | nasty olive seminar bean brother nice cat keen property describe |  
+| bip_39_word_space_11 | nasty olive seminar bean brother nice cat keen property describe cigar |  
+| bip_39_word_space_12 | nasty olive seminar bean brother nice cat keen property describe cigar another |  
+| bip_39_word_space_2 | nasty olive |  
+| bip_39_word_space_3 | nasty olive seminar |  
+| bip_39_word_space_4 | nasty olive seminar bean |  
+| bip_39_word_space_5 | nasty olive seminar bean brother |  
+| bip_39_word_space_6 | nasty olive seminar bean brother nice |  
+| bip_39_word_space_7 | nasty olive seminar bean brother nice cat |  
+| bip_39_word_space_8 | nasty olive seminar bean brother nice cat keen |  
+| bip_39_word_space_9 | nasty olive seminar bean brother nice cat keen property |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

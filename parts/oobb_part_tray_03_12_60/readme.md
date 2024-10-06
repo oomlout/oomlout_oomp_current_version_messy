@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fish pair
+  * bip 39 word 3: fish pair domain
+  * bip 39 word: fish pair domain culture fun route pause decline lend marble uphold abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fish |  
+| bip_39_word_new_br10 | fish<br>pair<br>domain<br>culture<br>fun<br>route<br>pause<br>decline<br>lend<br>marble |  
+| bip_39_word_new_br11 | fish<br>pair<br>domain<br>culture<br>fun<br>route<br>pause<br>decline<br>lend<br>marble<br>uphold |  
+| bip_39_word_new_br12 | fish<br>pair<br>domain<br>culture<br>fun<br>route<br>pause<br>decline<br>lend<br>marble<br>uphold<br>abstract |  
+| bip_39_word_new_br2 | fish<br>pair |  
+| bip_39_word_new_br3 | fish<br>pair<br>domain |  
+| bip_39_word_new_br4 | fish<br>pair<br>domain<br>culture |  
+| bip_39_word_new_br5 | fish<br>pair<br>domain<br>culture<br>fun |  
+| bip_39_word_new_br6 | fish<br>pair<br>domain<br>culture<br>fun<br>route |  
+| bip_39_word_new_br7 | fish<br>pair<br>domain<br>culture<br>fun<br>route<br>pause |  
+| bip_39_word_new_br8 | fish<br>pair<br>domain<br>culture<br>fun<br>route<br>pause<br>decline |  
+| bip_39_word_new_br9 | fish<br>pair<br>domain<br>culture<br>fun<br>route<br>pause<br>decline<br>lend |  
+| bip_39_word_new_line1 | fish |  
+| bip_39_word_new_line10 | fish
+pair
+domain
+culture
+fun
+route
+pause
+decline
+lend
+marble |  
+| bip_39_word_new_line11 | fish
+pair
+domain
+culture
+fun
+route
+pause
+decline
+lend
+marble
+uphold |  
+| bip_39_word_new_line12 | fish
+pair
+domain
+culture
+fun
+route
+pause
+decline
+lend
+marble
+uphold
+abstract |  
+| bip_39_word_new_line2 | fish
+pair |  
+| bip_39_word_new_line3 | fish
+pair
+domain |  
+| bip_39_word_new_line4 | fish
+pair
+domain
+culture |  
+| bip_39_word_new_line5 | fish
+pair
+domain
+culture
+fun |  
+| bip_39_word_new_line6 | fish
+pair
+domain
+culture
+fun
+route |  
+| bip_39_word_new_line7 | fish
+pair
+domain
+culture
+fun
+route
+pause |  
+| bip_39_word_new_line8 | fish
+pair
+domain
+culture
+fun
+route
+pause
+decline |  
+| bip_39_word_new_line9 | fish
+pair
+domain
+culture
+fun
+route
+pause
+decline
+lend |  
+| bip_39_word_space_0 | ['fish', 'pair', 'domain', 'culture', 'fun', 'route', 'pause', 'decline', 'lend', 'marble', 'uphold', 'abstract'] |  
+| bip_39_word_space_1 | fish |  
+| bip_39_word_space_10 | fish pair domain culture fun route pause decline lend marble |  
+| bip_39_word_space_11 | fish pair domain culture fun route pause decline lend marble uphold |  
+| bip_39_word_space_12 | fish pair domain culture fun route pause decline lend marble uphold abstract |  
+| bip_39_word_space_2 | fish pair |  
+| bip_39_word_space_3 | fish pair domain |  
+| bip_39_word_space_4 | fish pair domain culture |  
+| bip_39_word_space_5 | fish pair domain culture fun |  
+| bip_39_word_space_6 | fish pair domain culture fun route |  
+| bip_39_word_space_7 | fish pair domain culture fun route pause |  
+| bip_39_word_space_8 | fish pair domain culture fun route pause decline |  
+| bip_39_word_space_9 | fish pair domain culture fun route pause decline lend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

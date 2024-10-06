@@ -1,3 +1,185 @@
+bip_39_word_new_br1: gate
+bip_39_word_new_br10: gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid
+bip_39_word_new_br11: gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid<br>able
+bip_39_word_new_br12: gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice<br>maid<br>able<br>angry
+bip_39_word_new_br2: gate<br>inmate
+bip_39_word_new_br3: gate<br>inmate<br>friend
+bip_39_word_new_br4: gate<br>inmate<br>friend<br>wait
+bip_39_word_new_br5: gate<br>inmate<br>friend<br>wait<br>firm
+bip_39_word_new_br6: gate<br>inmate<br>friend<br>wait<br>firm<br>wreck
+bip_39_word_new_br7: gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud
+bip_39_word_new_br8: gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow
+bip_39_word_new_br9: gate<br>inmate<br>friend<br>wait<br>firm<br>wreck<br>cloud<br>allow<br>twice
+bip_39_word_new_line1: gate
+bip_39_word_new_line10: 'gate
+
+  inmate
+
+  friend
+
+  wait
+
+  firm
+
+  wreck
+
+  cloud
+
+  allow
+
+  twice
+
+  maid'
+bip_39_word_new_line11: 'gate
+
+  inmate
+
+  friend
+
+  wait
+
+  firm
+
+  wreck
+
+  cloud
+
+  allow
+
+  twice
+
+  maid
+
+  able'
+bip_39_word_new_line12: 'gate
+
+  inmate
+
+  friend
+
+  wait
+
+  firm
+
+  wreck
+
+  cloud
+
+  allow
+
+  twice
+
+  maid
+
+  able
+
+  angry'
+bip_39_word_new_line2: 'gate
+
+  inmate'
+bip_39_word_new_line3: 'gate
+
+  inmate
+
+  friend'
+bip_39_word_new_line4: 'gate
+
+  inmate
+
+  friend
+
+  wait'
+bip_39_word_new_line5: 'gate
+
+  inmate
+
+  friend
+
+  wait
+
+  firm'
+bip_39_word_new_line6: 'gate
+
+  inmate
+
+  friend
+
+  wait
+
+  firm
+
+  wreck'
+bip_39_word_new_line7: 'gate
+
+  inmate
+
+  friend
+
+  wait
+
+  firm
+
+  wreck
+
+  cloud'
+bip_39_word_new_line8: 'gate
+
+  inmate
+
+  friend
+
+  wait
+
+  firm
+
+  wreck
+
+  cloud
+
+  allow'
+bip_39_word_new_line9: 'gate
+
+  inmate
+
+  friend
+
+  wait
+
+  firm
+
+  wreck
+
+  cloud
+
+  allow
+
+  twice'
+bip_39_word_space_0:
+- gate
+- inmate
+- friend
+- wait
+- firm
+- wreck
+- cloud
+- allow
+- twice
+- maid
+- able
+- angry
+bip_39_word_space_1: gate
+bip_39_word_space_10: gate inmate friend wait firm wreck cloud allow twice maid
+bip_39_word_space_11: gate inmate friend wait firm wreck cloud allow twice maid able
+bip_39_word_space_12: gate inmate friend wait firm wreck cloud allow twice maid able
+  angry
+bip_39_word_space_2: gate inmate
+bip_39_word_space_3: gate inmate friend
+bip_39_word_space_4: gate inmate friend wait
+bip_39_word_space_5: gate inmate friend wait firm
+bip_39_word_space_6: gate inmate friend wait firm wreck
+bip_39_word_space_7: gate inmate friend wait firm wreck cloud
+bip_39_word_space_8: gate inmate friend wait firm wreck cloud allow
+bip_39_word_space_9: gate inmate friend wait firm wreck cloud allow twice
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

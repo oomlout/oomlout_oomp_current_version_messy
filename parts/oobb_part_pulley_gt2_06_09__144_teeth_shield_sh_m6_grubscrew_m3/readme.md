@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_shield_sh_m6_grubscrew_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: habit dolphin
+  * bip 39 word 3: habit dolphin situate
+  * bip 39 word: habit dolphin situate attract champion march recycle science execute horse lizard artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | habit |  
+| bip_39_word_new_br10 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march<br>recycle<br>science<br>execute<br>horse |  
+| bip_39_word_new_br11 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march<br>recycle<br>science<br>execute<br>horse<br>lizard |  
+| bip_39_word_new_br12 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march<br>recycle<br>science<br>execute<br>horse<br>lizard<br>artwork |  
+| bip_39_word_new_br2 | habit<br>dolphin |  
+| bip_39_word_new_br3 | habit<br>dolphin<br>situate |  
+| bip_39_word_new_br4 | habit<br>dolphin<br>situate<br>attract |  
+| bip_39_word_new_br5 | habit<br>dolphin<br>situate<br>attract<br>champion |  
+| bip_39_word_new_br6 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march |  
+| bip_39_word_new_br7 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march<br>recycle |  
+| bip_39_word_new_br8 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march<br>recycle<br>science |  
+| bip_39_word_new_br9 | habit<br>dolphin<br>situate<br>attract<br>champion<br>march<br>recycle<br>science<br>execute |  
+| bip_39_word_new_line1 | habit |  
+| bip_39_word_new_line10 | habit
+dolphin
+situate
+attract
+champion
+march
+recycle
+science
+execute
+horse |  
+| bip_39_word_new_line11 | habit
+dolphin
+situate
+attract
+champion
+march
+recycle
+science
+execute
+horse
+lizard |  
+| bip_39_word_new_line12 | habit
+dolphin
+situate
+attract
+champion
+march
+recycle
+science
+execute
+horse
+lizard
+artwork |  
+| bip_39_word_new_line2 | habit
+dolphin |  
+| bip_39_word_new_line3 | habit
+dolphin
+situate |  
+| bip_39_word_new_line4 | habit
+dolphin
+situate
+attract |  
+| bip_39_word_new_line5 | habit
+dolphin
+situate
+attract
+champion |  
+| bip_39_word_new_line6 | habit
+dolphin
+situate
+attract
+champion
+march |  
+| bip_39_word_new_line7 | habit
+dolphin
+situate
+attract
+champion
+march
+recycle |  
+| bip_39_word_new_line8 | habit
+dolphin
+situate
+attract
+champion
+march
+recycle
+science |  
+| bip_39_word_new_line9 | habit
+dolphin
+situate
+attract
+champion
+march
+recycle
+science
+execute |  
+| bip_39_word_space_0 | ['habit', 'dolphin', 'situate', 'attract', 'champion', 'march', 'recycle', 'science', 'execute', 'horse', 'lizard', 'artwork'] |  
+| bip_39_word_space_1 | habit |  
+| bip_39_word_space_10 | habit dolphin situate attract champion march recycle science execute horse |  
+| bip_39_word_space_11 | habit dolphin situate attract champion march recycle science execute horse lizard |  
+| bip_39_word_space_12 | habit dolphin situate attract champion march recycle science execute horse lizard artwork |  
+| bip_39_word_space_2 | habit dolphin |  
+| bip_39_word_space_3 | habit dolphin situate |  
+| bip_39_word_space_4 | habit dolphin situate attract |  
+| bip_39_word_space_5 | habit dolphin situate attract champion |  
+| bip_39_word_space_6 | habit dolphin situate attract champion march |  
+| bip_39_word_space_7 | habit dolphin situate attract champion march recycle |  
+| bip_39_word_space_8 | habit dolphin situate attract champion march recycle science |  
+| bip_39_word_space_9 | habit dolphin situate attract champion march recycle science execute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

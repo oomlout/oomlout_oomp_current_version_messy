@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: all head
+  * bip 39 word 3: all head reveal
+  * bip 39 word: all head reveal filter save venue until charge true obscure tackle able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | all |  
+| bip_39_word_new_br10 | all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure |  
+| bip_39_word_new_br11 | all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure<br>tackle |  
+| bip_39_word_new_br12 | all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true<br>obscure<br>tackle<br>able |  
+| bip_39_word_new_br2 | all<br>head |  
+| bip_39_word_new_br3 | all<br>head<br>reveal |  
+| bip_39_word_new_br4 | all<br>head<br>reveal<br>filter |  
+| bip_39_word_new_br5 | all<br>head<br>reveal<br>filter<br>save |  
+| bip_39_word_new_br6 | all<br>head<br>reveal<br>filter<br>save<br>venue |  
+| bip_39_word_new_br7 | all<br>head<br>reveal<br>filter<br>save<br>venue<br>until |  
+| bip_39_word_new_br8 | all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge |  
+| bip_39_word_new_br9 | all<br>head<br>reveal<br>filter<br>save<br>venue<br>until<br>charge<br>true |  
+| bip_39_word_new_line1 | all |  
+| bip_39_word_new_line10 | all
+head
+reveal
+filter
+save
+venue
+until
+charge
+true
+obscure |  
+| bip_39_word_new_line11 | all
+head
+reveal
+filter
+save
+venue
+until
+charge
+true
+obscure
+tackle |  
+| bip_39_word_new_line12 | all
+head
+reveal
+filter
+save
+venue
+until
+charge
+true
+obscure
+tackle
+able |  
+| bip_39_word_new_line2 | all
+head |  
+| bip_39_word_new_line3 | all
+head
+reveal |  
+| bip_39_word_new_line4 | all
+head
+reveal
+filter |  
+| bip_39_word_new_line5 | all
+head
+reveal
+filter
+save |  
+| bip_39_word_new_line6 | all
+head
+reveal
+filter
+save
+venue |  
+| bip_39_word_new_line7 | all
+head
+reveal
+filter
+save
+venue
+until |  
+| bip_39_word_new_line8 | all
+head
+reveal
+filter
+save
+venue
+until
+charge |  
+| bip_39_word_new_line9 | all
+head
+reveal
+filter
+save
+venue
+until
+charge
+true |  
+| bip_39_word_space_0 | ['all', 'head', 'reveal', 'filter', 'save', 'venue', 'until', 'charge', 'true', 'obscure', 'tackle', 'able'] |  
+| bip_39_word_space_1 | all |  
+| bip_39_word_space_10 | all head reveal filter save venue until charge true obscure |  
+| bip_39_word_space_11 | all head reveal filter save venue until charge true obscure tackle |  
+| bip_39_word_space_12 | all head reveal filter save venue until charge true obscure tackle able |  
+| bip_39_word_space_2 | all head |  
+| bip_39_word_space_3 | all head reveal |  
+| bip_39_word_space_4 | all head reveal filter |  
+| bip_39_word_space_5 | all head reveal filter save |  
+| bip_39_word_space_6 | all head reveal filter save venue |  
+| bip_39_word_space_7 | all head reveal filter save venue until |  
+| bip_39_word_space_8 | all head reveal filter save venue until charge |  
+| bip_39_word_space_9 | all head reveal filter save venue until charge true |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

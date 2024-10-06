@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: just divorce
+  * bip 39 word 3: just divorce jeans
+  * bip 39 word: just divorce jeans useless sauce term motion resist maze chimney own address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | just |  
+| bip_39_word_new_br10 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term<br>motion<br>resist<br>maze<br>chimney |  
+| bip_39_word_new_br11 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term<br>motion<br>resist<br>maze<br>chimney<br>own |  
+| bip_39_word_new_br12 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term<br>motion<br>resist<br>maze<br>chimney<br>own<br>address |  
+| bip_39_word_new_br2 | just<br>divorce |  
+| bip_39_word_new_br3 | just<br>divorce<br>jeans |  
+| bip_39_word_new_br4 | just<br>divorce<br>jeans<br>useless |  
+| bip_39_word_new_br5 | just<br>divorce<br>jeans<br>useless<br>sauce |  
+| bip_39_word_new_br6 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term |  
+| bip_39_word_new_br7 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term<br>motion |  
+| bip_39_word_new_br8 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term<br>motion<br>resist |  
+| bip_39_word_new_br9 | just<br>divorce<br>jeans<br>useless<br>sauce<br>term<br>motion<br>resist<br>maze |  
+| bip_39_word_new_line1 | just |  
+| bip_39_word_new_line10 | just
+divorce
+jeans
+useless
+sauce
+term
+motion
+resist
+maze
+chimney |  
+| bip_39_word_new_line11 | just
+divorce
+jeans
+useless
+sauce
+term
+motion
+resist
+maze
+chimney
+own |  
+| bip_39_word_new_line12 | just
+divorce
+jeans
+useless
+sauce
+term
+motion
+resist
+maze
+chimney
+own
+address |  
+| bip_39_word_new_line2 | just
+divorce |  
+| bip_39_word_new_line3 | just
+divorce
+jeans |  
+| bip_39_word_new_line4 | just
+divorce
+jeans
+useless |  
+| bip_39_word_new_line5 | just
+divorce
+jeans
+useless
+sauce |  
+| bip_39_word_new_line6 | just
+divorce
+jeans
+useless
+sauce
+term |  
+| bip_39_word_new_line7 | just
+divorce
+jeans
+useless
+sauce
+term
+motion |  
+| bip_39_word_new_line8 | just
+divorce
+jeans
+useless
+sauce
+term
+motion
+resist |  
+| bip_39_word_new_line9 | just
+divorce
+jeans
+useless
+sauce
+term
+motion
+resist
+maze |  
+| bip_39_word_space_0 | ['just', 'divorce', 'jeans', 'useless', 'sauce', 'term', 'motion', 'resist', 'maze', 'chimney', 'own', 'address'] |  
+| bip_39_word_space_1 | just |  
+| bip_39_word_space_10 | just divorce jeans useless sauce term motion resist maze chimney |  
+| bip_39_word_space_11 | just divorce jeans useless sauce term motion resist maze chimney own |  
+| bip_39_word_space_12 | just divorce jeans useless sauce term motion resist maze chimney own address |  
+| bip_39_word_space_2 | just divorce |  
+| bip_39_word_space_3 | just divorce jeans |  
+| bip_39_word_space_4 | just divorce jeans useless |  
+| bip_39_word_space_5 | just divorce jeans useless sauce |  
+| bip_39_word_space_6 | just divorce jeans useless sauce term |  
+| bip_39_word_space_7 | just divorce jeans useless sauce term motion |  
+| bip_39_word_space_8 | just divorce jeans useless sauce term motion resist |  
+| bip_39_word_space_9 | just divorce jeans useless sauce term motion resist maze |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

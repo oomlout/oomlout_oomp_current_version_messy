@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fury solid
+  * bip 39 word 3: fury solid million
+  * bip 39 word: fury solid million nice network aunt kidney wide welcome now glue arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fury |  
+| bip_39_word_new_br10 | fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now |  
+| bip_39_word_new_br11 | fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now<br>glue |  
+| bip_39_word_new_br12 | fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome<br>now<br>glue<br>arctic |  
+| bip_39_word_new_br2 | fury<br>solid |  
+| bip_39_word_new_br3 | fury<br>solid<br>million |  
+| bip_39_word_new_br4 | fury<br>solid<br>million<br>nice |  
+| bip_39_word_new_br5 | fury<br>solid<br>million<br>nice<br>network |  
+| bip_39_word_new_br6 | fury<br>solid<br>million<br>nice<br>network<br>aunt |  
+| bip_39_word_new_br7 | fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney |  
+| bip_39_word_new_br8 | fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide |  
+| bip_39_word_new_br9 | fury<br>solid<br>million<br>nice<br>network<br>aunt<br>kidney<br>wide<br>welcome |  
+| bip_39_word_new_line1 | fury |  
+| bip_39_word_new_line10 | fury
+solid
+million
+nice
+network
+aunt
+kidney
+wide
+welcome
+now |  
+| bip_39_word_new_line11 | fury
+solid
+million
+nice
+network
+aunt
+kidney
+wide
+welcome
+now
+glue |  
+| bip_39_word_new_line12 | fury
+solid
+million
+nice
+network
+aunt
+kidney
+wide
+welcome
+now
+glue
+arctic |  
+| bip_39_word_new_line2 | fury
+solid |  
+| bip_39_word_new_line3 | fury
+solid
+million |  
+| bip_39_word_new_line4 | fury
+solid
+million
+nice |  
+| bip_39_word_new_line5 | fury
+solid
+million
+nice
+network |  
+| bip_39_word_new_line6 | fury
+solid
+million
+nice
+network
+aunt |  
+| bip_39_word_new_line7 | fury
+solid
+million
+nice
+network
+aunt
+kidney |  
+| bip_39_word_new_line8 | fury
+solid
+million
+nice
+network
+aunt
+kidney
+wide |  
+| bip_39_word_new_line9 | fury
+solid
+million
+nice
+network
+aunt
+kidney
+wide
+welcome |  
+| bip_39_word_space_0 | ['fury', 'solid', 'million', 'nice', 'network', 'aunt', 'kidney', 'wide', 'welcome', 'now', 'glue', 'arctic'] |  
+| bip_39_word_space_1 | fury |  
+| bip_39_word_space_10 | fury solid million nice network aunt kidney wide welcome now |  
+| bip_39_word_space_11 | fury solid million nice network aunt kidney wide welcome now glue |  
+| bip_39_word_space_12 | fury solid million nice network aunt kidney wide welcome now glue arctic |  
+| bip_39_word_space_2 | fury solid |  
+| bip_39_word_space_3 | fury solid million |  
+| bip_39_word_space_4 | fury solid million nice |  
+| bip_39_word_space_5 | fury solid million nice network |  
+| bip_39_word_space_6 | fury solid million nice network aunt |  
+| bip_39_word_space_7 | fury solid million nice network aunt kidney |  
+| bip_39_word_space_8 | fury solid million nice network aunt kidney wide |  
+| bip_39_word_space_9 | fury solid million nice network aunt kidney wide welcome |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

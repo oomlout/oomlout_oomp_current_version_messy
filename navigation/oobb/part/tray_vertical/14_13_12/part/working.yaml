@@ -1,3 +1,160 @@
+bip_39_word_new_br1: head
+bip_39_word_new_br10: head<br>fantasy<br>provide<br>question<br>use<br>security<br>exile<br>win<br>pottery<br>green
+bip_39_word_new_br11: head<br>fantasy<br>provide<br>question<br>use<br>security<br>exile<br>win<br>pottery<br>green<br>jacket
+bip_39_word_new_br2: head<br>fantasy
+bip_39_word_new_br3: head<br>fantasy<br>provide
+bip_39_word_new_br4: head<br>fantasy<br>provide<br>question
+bip_39_word_new_br5: head<br>fantasy<br>provide<br>question<br>use
+bip_39_word_new_br6: head<br>fantasy<br>provide<br>question<br>use<br>security
+bip_39_word_new_br7: head<br>fantasy<br>provide<br>question<br>use<br>security<br>exile
+bip_39_word_new_br8: head<br>fantasy<br>provide<br>question<br>use<br>security<br>exile<br>win
+bip_39_word_new_br9: head<br>fantasy<br>provide<br>question<br>use<br>security<br>exile<br>win<br>pottery
+bip_39_word_new_line1: head
+bip_39_word_new_line10: 'head
+
+  fantasy
+
+  provide
+
+  question
+
+  use
+
+  security
+
+  exile
+
+  win
+
+  pottery
+
+  green'
+bip_39_word_new_line11: 'head
+
+  fantasy
+
+  provide
+
+  question
+
+  use
+
+  security
+
+  exile
+
+  win
+
+  pottery
+
+  green
+
+  jacket'
+bip_39_word_new_line2: 'head
+
+  fantasy'
+bip_39_word_new_line3: 'head
+
+  fantasy
+
+  provide'
+bip_39_word_new_line4: 'head
+
+  fantasy
+
+  provide
+
+  question'
+bip_39_word_new_line5: 'head
+
+  fantasy
+
+  provide
+
+  question
+
+  use'
+bip_39_word_new_line6: 'head
+
+  fantasy
+
+  provide
+
+  question
+
+  use
+
+  security'
+bip_39_word_new_line7: 'head
+
+  fantasy
+
+  provide
+
+  question
+
+  use
+
+  security
+
+  exile'
+bip_39_word_new_line8: 'head
+
+  fantasy
+
+  provide
+
+  question
+
+  use
+
+  security
+
+  exile
+
+  win'
+bip_39_word_new_line9: 'head
+
+  fantasy
+
+  provide
+
+  question
+
+  use
+
+  security
+
+  exile
+
+  win
+
+  pottery'
+bip_39_word_space_0:
+- head
+- fantasy
+- provide
+- question
+- use
+- security
+- exile
+- win
+- pottery
+- green
+- jacket
+bip_39_word_space_1: head
+bip_39_word_space_10: head fantasy provide question use security exile win pottery
+  green
+bip_39_word_space_11: head fantasy provide question use security exile win pottery
+  green jacket
+bip_39_word_space_2: head fantasy
+bip_39_word_space_3: head fantasy provide
+bip_39_word_space_4: head fantasy provide question
+bip_39_word_space_5: head fantasy provide question use
+bip_39_word_space_6: head fantasy provide question use security
+bip_39_word_space_7: head fantasy provide question use security exile
+bip_39_word_space_8: head fantasy provide question use security exile win
+bip_39_word_space_9: head fantasy provide question use security exile win pottery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

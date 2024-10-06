@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: search number
+  * bip 39 word 3: search number room
+  * bip 39 word: search number room milk cage sentence daughter around father neither exit accuse
 
 ### other_codes
 * short_code: ss6m70
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | search |  
+| bip_39_word_new_br10 | search<br>number<br>room<br>milk<br>cage<br>sentence<br>daughter<br>around<br>father<br>neither |  
+| bip_39_word_new_br11 | search<br>number<br>room<br>milk<br>cage<br>sentence<br>daughter<br>around<br>father<br>neither<br>exit |  
+| bip_39_word_new_br12 | search<br>number<br>room<br>milk<br>cage<br>sentence<br>daughter<br>around<br>father<br>neither<br>exit<br>accuse |  
+| bip_39_word_new_br2 | search<br>number |  
+| bip_39_word_new_br3 | search<br>number<br>room |  
+| bip_39_word_new_br4 | search<br>number<br>room<br>milk |  
+| bip_39_word_new_br5 | search<br>number<br>room<br>milk<br>cage |  
+| bip_39_word_new_br6 | search<br>number<br>room<br>milk<br>cage<br>sentence |  
+| bip_39_word_new_br7 | search<br>number<br>room<br>milk<br>cage<br>sentence<br>daughter |  
+| bip_39_word_new_br8 | search<br>number<br>room<br>milk<br>cage<br>sentence<br>daughter<br>around |  
+| bip_39_word_new_br9 | search<br>number<br>room<br>milk<br>cage<br>sentence<br>daughter<br>around<br>father |  
+| bip_39_word_new_line1 | search |  
+| bip_39_word_new_line10 | search
+number
+room
+milk
+cage
+sentence
+daughter
+around
+father
+neither |  
+| bip_39_word_new_line11 | search
+number
+room
+milk
+cage
+sentence
+daughter
+around
+father
+neither
+exit |  
+| bip_39_word_new_line12 | search
+number
+room
+milk
+cage
+sentence
+daughter
+around
+father
+neither
+exit
+accuse |  
+| bip_39_word_new_line2 | search
+number |  
+| bip_39_word_new_line3 | search
+number
+room |  
+| bip_39_word_new_line4 | search
+number
+room
+milk |  
+| bip_39_word_new_line5 | search
+number
+room
+milk
+cage |  
+| bip_39_word_new_line6 | search
+number
+room
+milk
+cage
+sentence |  
+| bip_39_word_new_line7 | search
+number
+room
+milk
+cage
+sentence
+daughter |  
+| bip_39_word_new_line8 | search
+number
+room
+milk
+cage
+sentence
+daughter
+around |  
+| bip_39_word_new_line9 | search
+number
+room
+milk
+cage
+sentence
+daughter
+around
+father |  
+| bip_39_word_space_0 | ['search', 'number', 'room', 'milk', 'cage', 'sentence', 'daughter', 'around', 'father', 'neither', 'exit', 'accuse'] |  
+| bip_39_word_space_1 | search |  
+| bip_39_word_space_10 | search number room milk cage sentence daughter around father neither |  
+| bip_39_word_space_11 | search number room milk cage sentence daughter around father neither exit |  
+| bip_39_word_space_12 | search number room milk cage sentence daughter around father neither exit accuse |  
+| bip_39_word_space_2 | search number |  
+| bip_39_word_space_3 | search number room |  
+| bip_39_word_space_4 | search number room milk |  
+| bip_39_word_space_5 | search number room milk cage |  
+| bip_39_word_space_6 | search number room milk cage sentence |  
+| bip_39_word_space_7 | search number room milk cage sentence daughter |  
+| bip_39_word_space_8 | search number room milk cage sentence daughter around |  
+| bip_39_word_space_9 | search number room milk cage sentence daughter around father |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

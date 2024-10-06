@@ -1,3 +1,186 @@
+bip_39_word_new_br1: glare
+bip_39_word_new_br10: glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize
+bip_39_word_new_br11: glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize<br>draw
+bip_39_word_new_br12: glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit<br>prize<br>draw<br>attack
+bip_39_word_new_br2: glare<br>spray
+bip_39_word_new_br3: glare<br>spray<br>basic
+bip_39_word_new_br4: glare<br>spray<br>basic<br>appear
+bip_39_word_new_br5: glare<br>spray<br>basic<br>appear<br>online
+bip_39_word_new_br6: glare<br>spray<br>basic<br>appear<br>online<br>method
+bip_39_word_new_br7: glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow
+bip_39_word_new_br8: glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn
+bip_39_word_new_br9: glare<br>spray<br>basic<br>appear<br>online<br>method<br>meadow<br>autumn<br>habit
+bip_39_word_new_line1: glare
+bip_39_word_new_line10: 'glare
+
+  spray
+
+  basic
+
+  appear
+
+  online
+
+  method
+
+  meadow
+
+  autumn
+
+  habit
+
+  prize'
+bip_39_word_new_line11: 'glare
+
+  spray
+
+  basic
+
+  appear
+
+  online
+
+  method
+
+  meadow
+
+  autumn
+
+  habit
+
+  prize
+
+  draw'
+bip_39_word_new_line12: 'glare
+
+  spray
+
+  basic
+
+  appear
+
+  online
+
+  method
+
+  meadow
+
+  autumn
+
+  habit
+
+  prize
+
+  draw
+
+  attack'
+bip_39_word_new_line2: 'glare
+
+  spray'
+bip_39_word_new_line3: 'glare
+
+  spray
+
+  basic'
+bip_39_word_new_line4: 'glare
+
+  spray
+
+  basic
+
+  appear'
+bip_39_word_new_line5: 'glare
+
+  spray
+
+  basic
+
+  appear
+
+  online'
+bip_39_word_new_line6: 'glare
+
+  spray
+
+  basic
+
+  appear
+
+  online
+
+  method'
+bip_39_word_new_line7: 'glare
+
+  spray
+
+  basic
+
+  appear
+
+  online
+
+  method
+
+  meadow'
+bip_39_word_new_line8: 'glare
+
+  spray
+
+  basic
+
+  appear
+
+  online
+
+  method
+
+  meadow
+
+  autumn'
+bip_39_word_new_line9: 'glare
+
+  spray
+
+  basic
+
+  appear
+
+  online
+
+  method
+
+  meadow
+
+  autumn
+
+  habit'
+bip_39_word_space_0:
+- glare
+- spray
+- basic
+- appear
+- online
+- method
+- meadow
+- autumn
+- habit
+- prize
+- draw
+- attack
+bip_39_word_space_1: glare
+bip_39_word_space_10: glare spray basic appear online method meadow autumn habit prize
+bip_39_word_space_11: glare spray basic appear online method meadow autumn habit prize
+  draw
+bip_39_word_space_12: glare spray basic appear online method meadow autumn habit prize
+  draw attack
+bip_39_word_space_2: glare spray
+bip_39_word_space_3: glare spray basic
+bip_39_word_space_4: glare spray basic appear
+bip_39_word_space_5: glare spray basic appear online
+bip_39_word_space_6: glare spray basic appear online method
+bip_39_word_space_7: glare spray basic appear online method meadow
+bip_39_word_space_8: glare spray basic appear online method meadow autumn
+bip_39_word_space_9: glare spray basic appear online method meadow autumn habit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

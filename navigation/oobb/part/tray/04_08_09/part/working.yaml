@@ -1,3 +1,186 @@
+bip_39_word_new_br1: any
+bip_39_word_new_br10: any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join
+bip_39_word_new_br11: any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join<br>snow
+bip_39_word_new_br12: any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition<br>join<br>snow<br>add
+bip_39_word_new_br2: any<br>afraid
+bip_39_word_new_br3: any<br>afraid<br>remain
+bip_39_word_new_br4: any<br>afraid<br>remain<br>syrup
+bip_39_word_new_br5: any<br>afraid<br>remain<br>syrup<br>solve
+bip_39_word_new_br6: any<br>afraid<br>remain<br>syrup<br>solve<br>roast
+bip_39_word_new_br7: any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior
+bip_39_word_new_br8: any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy
+bip_39_word_new_br9: any<br>afraid<br>remain<br>syrup<br>solve<br>roast<br>junior<br>heavy<br>tuition
+bip_39_word_new_line1: any
+bip_39_word_new_line10: 'any
+
+  afraid
+
+  remain
+
+  syrup
+
+  solve
+
+  roast
+
+  junior
+
+  heavy
+
+  tuition
+
+  join'
+bip_39_word_new_line11: 'any
+
+  afraid
+
+  remain
+
+  syrup
+
+  solve
+
+  roast
+
+  junior
+
+  heavy
+
+  tuition
+
+  join
+
+  snow'
+bip_39_word_new_line12: 'any
+
+  afraid
+
+  remain
+
+  syrup
+
+  solve
+
+  roast
+
+  junior
+
+  heavy
+
+  tuition
+
+  join
+
+  snow
+
+  add'
+bip_39_word_new_line2: 'any
+
+  afraid'
+bip_39_word_new_line3: 'any
+
+  afraid
+
+  remain'
+bip_39_word_new_line4: 'any
+
+  afraid
+
+  remain
+
+  syrup'
+bip_39_word_new_line5: 'any
+
+  afraid
+
+  remain
+
+  syrup
+
+  solve'
+bip_39_word_new_line6: 'any
+
+  afraid
+
+  remain
+
+  syrup
+
+  solve
+
+  roast'
+bip_39_word_new_line7: 'any
+
+  afraid
+
+  remain
+
+  syrup
+
+  solve
+
+  roast
+
+  junior'
+bip_39_word_new_line8: 'any
+
+  afraid
+
+  remain
+
+  syrup
+
+  solve
+
+  roast
+
+  junior
+
+  heavy'
+bip_39_word_new_line9: 'any
+
+  afraid
+
+  remain
+
+  syrup
+
+  solve
+
+  roast
+
+  junior
+
+  heavy
+
+  tuition'
+bip_39_word_space_0:
+- any
+- afraid
+- remain
+- syrup
+- solve
+- roast
+- junior
+- heavy
+- tuition
+- join
+- snow
+- add
+bip_39_word_space_1: any
+bip_39_word_space_10: any afraid remain syrup solve roast junior heavy tuition join
+bip_39_word_space_11: any afraid remain syrup solve roast junior heavy tuition join
+  snow
+bip_39_word_space_12: any afraid remain syrup solve roast junior heavy tuition join
+  snow add
+bip_39_word_space_2: any afraid
+bip_39_word_space_3: any afraid remain
+bip_39_word_space_4: any afraid remain syrup
+bip_39_word_space_5: any afraid remain syrup solve
+bip_39_word_space_6: any afraid remain syrup solve roast
+bip_39_word_space_7: any afraid remain syrup solve roast junior
+bip_39_word_space_8: any afraid remain syrup solve roast junior heavy
+bip_39_word_space_9: any afraid remain syrup solve roast junior heavy tuition
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

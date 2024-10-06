@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: upon carry
+  * bip 39 word 3: upon carry october
+  * bip 39 word: upon carry october over border position science onion lens tomorrow treat antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | upon |  
+| bip_39_word_new_br10 | upon<br>carry<br>october<br>over<br>border<br>position<br>science<br>onion<br>lens<br>tomorrow |  
+| bip_39_word_new_br11 | upon<br>carry<br>october<br>over<br>border<br>position<br>science<br>onion<br>lens<br>tomorrow<br>treat |  
+| bip_39_word_new_br12 | upon<br>carry<br>october<br>over<br>border<br>position<br>science<br>onion<br>lens<br>tomorrow<br>treat<br>antenna |  
+| bip_39_word_new_br2 | upon<br>carry |  
+| bip_39_word_new_br3 | upon<br>carry<br>october |  
+| bip_39_word_new_br4 | upon<br>carry<br>october<br>over |  
+| bip_39_word_new_br5 | upon<br>carry<br>october<br>over<br>border |  
+| bip_39_word_new_br6 | upon<br>carry<br>october<br>over<br>border<br>position |  
+| bip_39_word_new_br7 | upon<br>carry<br>october<br>over<br>border<br>position<br>science |  
+| bip_39_word_new_br8 | upon<br>carry<br>october<br>over<br>border<br>position<br>science<br>onion |  
+| bip_39_word_new_br9 | upon<br>carry<br>october<br>over<br>border<br>position<br>science<br>onion<br>lens |  
+| bip_39_word_new_line1 | upon |  
+| bip_39_word_new_line10 | upon
+carry
+october
+over
+border
+position
+science
+onion
+lens
+tomorrow |  
+| bip_39_word_new_line11 | upon
+carry
+october
+over
+border
+position
+science
+onion
+lens
+tomorrow
+treat |  
+| bip_39_word_new_line12 | upon
+carry
+october
+over
+border
+position
+science
+onion
+lens
+tomorrow
+treat
+antenna |  
+| bip_39_word_new_line2 | upon
+carry |  
+| bip_39_word_new_line3 | upon
+carry
+october |  
+| bip_39_word_new_line4 | upon
+carry
+october
+over |  
+| bip_39_word_new_line5 | upon
+carry
+october
+over
+border |  
+| bip_39_word_new_line6 | upon
+carry
+october
+over
+border
+position |  
+| bip_39_word_new_line7 | upon
+carry
+october
+over
+border
+position
+science |  
+| bip_39_word_new_line8 | upon
+carry
+october
+over
+border
+position
+science
+onion |  
+| bip_39_word_new_line9 | upon
+carry
+october
+over
+border
+position
+science
+onion
+lens |  
+| bip_39_word_space_0 | ['upon', 'carry', 'october', 'over', 'border', 'position', 'science', 'onion', 'lens', 'tomorrow', 'treat', 'antenna'] |  
+| bip_39_word_space_1 | upon |  
+| bip_39_word_space_10 | upon carry october over border position science onion lens tomorrow |  
+| bip_39_word_space_11 | upon carry october over border position science onion lens tomorrow treat |  
+| bip_39_word_space_12 | upon carry october over border position science onion lens tomorrow treat antenna |  
+| bip_39_word_space_2 | upon carry |  
+| bip_39_word_space_3 | upon carry october |  
+| bip_39_word_space_4 | upon carry october over |  
+| bip_39_word_space_5 | upon carry october over border |  
+| bip_39_word_space_6 | upon carry october over border position |  
+| bip_39_word_space_7 | upon carry october over border position science |  
+| bip_39_word_space_8 | upon carry october over border position science onion |  
+| bip_39_word_space_9 | upon carry october over border position science onion lens |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

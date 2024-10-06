@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: orphan wear
+  * bip 39 word 3: orphan wear fire
+  * bip 39 word: orphan wear fire isolate present harvest brush income hammer extra act aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | orphan |  
+| bip_39_word_new_br10 | orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer<br>extra |  
+| bip_39_word_new_br11 | orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer<br>extra<br>act |  
+| bip_39_word_new_br12 | orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer<br>extra<br>act<br>aerobic |  
+| bip_39_word_new_br2 | orphan<br>wear |  
+| bip_39_word_new_br3 | orphan<br>wear<br>fire |  
+| bip_39_word_new_br4 | orphan<br>wear<br>fire<br>isolate |  
+| bip_39_word_new_br5 | orphan<br>wear<br>fire<br>isolate<br>present |  
+| bip_39_word_new_br6 | orphan<br>wear<br>fire<br>isolate<br>present<br>harvest |  
+| bip_39_word_new_br7 | orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush |  
+| bip_39_word_new_br8 | orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income |  
+| bip_39_word_new_br9 | orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer |  
+| bip_39_word_new_line1 | orphan |  
+| bip_39_word_new_line10 | orphan
+wear
+fire
+isolate
+present
+harvest
+brush
+income
+hammer
+extra |  
+| bip_39_word_new_line11 | orphan
+wear
+fire
+isolate
+present
+harvest
+brush
+income
+hammer
+extra
+act |  
+| bip_39_word_new_line12 | orphan
+wear
+fire
+isolate
+present
+harvest
+brush
+income
+hammer
+extra
+act
+aerobic |  
+| bip_39_word_new_line2 | orphan
+wear |  
+| bip_39_word_new_line3 | orphan
+wear
+fire |  
+| bip_39_word_new_line4 | orphan
+wear
+fire
+isolate |  
+| bip_39_word_new_line5 | orphan
+wear
+fire
+isolate
+present |  
+| bip_39_word_new_line6 | orphan
+wear
+fire
+isolate
+present
+harvest |  
+| bip_39_word_new_line7 | orphan
+wear
+fire
+isolate
+present
+harvest
+brush |  
+| bip_39_word_new_line8 | orphan
+wear
+fire
+isolate
+present
+harvest
+brush
+income |  
+| bip_39_word_new_line9 | orphan
+wear
+fire
+isolate
+present
+harvest
+brush
+income
+hammer |  
+| bip_39_word_space_0 | ['orphan', 'wear', 'fire', 'isolate', 'present', 'harvest', 'brush', 'income', 'hammer', 'extra', 'act', 'aerobic'] |  
+| bip_39_word_space_1 | orphan |  
+| bip_39_word_space_10 | orphan wear fire isolate present harvest brush income hammer extra |  
+| bip_39_word_space_11 | orphan wear fire isolate present harvest brush income hammer extra act |  
+| bip_39_word_space_12 | orphan wear fire isolate present harvest brush income hammer extra act aerobic |  
+| bip_39_word_space_2 | orphan wear |  
+| bip_39_word_space_3 | orphan wear fire |  
+| bip_39_word_space_4 | orphan wear fire isolate |  
+| bip_39_word_space_5 | orphan wear fire isolate present |  
+| bip_39_word_space_6 | orphan wear fire isolate present harvest |  
+| bip_39_word_space_7 | orphan wear fire isolate present harvest brush |  
+| bip_39_word_space_8 | orphan wear fire isolate present harvest brush income |  
+| bip_39_word_space_9 | orphan wear fire isolate present harvest brush income hammer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

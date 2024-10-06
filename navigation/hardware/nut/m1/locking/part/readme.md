@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: income demise
+  * bip 39 word 3: income demise devote
+  * bip 39 word: income demise devote praise tree admit essence picture promote blue essence account
 
 ### other_codes
 * short_code: n1mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | income |  
+| bip_39_word_new_br10 | income<br>demise<br>devote<br>praise<br>tree<br>admit<br>essence<br>picture<br>promote<br>blue |  
+| bip_39_word_new_br11 | income<br>demise<br>devote<br>praise<br>tree<br>admit<br>essence<br>picture<br>promote<br>blue<br>essence |  
+| bip_39_word_new_br12 | income<br>demise<br>devote<br>praise<br>tree<br>admit<br>essence<br>picture<br>promote<br>blue<br>essence<br>account |  
+| bip_39_word_new_br2 | income<br>demise |  
+| bip_39_word_new_br3 | income<br>demise<br>devote |  
+| bip_39_word_new_br4 | income<br>demise<br>devote<br>praise |  
+| bip_39_word_new_br5 | income<br>demise<br>devote<br>praise<br>tree |  
+| bip_39_word_new_br6 | income<br>demise<br>devote<br>praise<br>tree<br>admit |  
+| bip_39_word_new_br7 | income<br>demise<br>devote<br>praise<br>tree<br>admit<br>essence |  
+| bip_39_word_new_br8 | income<br>demise<br>devote<br>praise<br>tree<br>admit<br>essence<br>picture |  
+| bip_39_word_new_br9 | income<br>demise<br>devote<br>praise<br>tree<br>admit<br>essence<br>picture<br>promote |  
+| bip_39_word_new_line1 | income |  
+| bip_39_word_new_line10 | income
+demise
+devote
+praise
+tree
+admit
+essence
+picture
+promote
+blue |  
+| bip_39_word_new_line11 | income
+demise
+devote
+praise
+tree
+admit
+essence
+picture
+promote
+blue
+essence |  
+| bip_39_word_new_line12 | income
+demise
+devote
+praise
+tree
+admit
+essence
+picture
+promote
+blue
+essence
+account |  
+| bip_39_word_new_line2 | income
+demise |  
+| bip_39_word_new_line3 | income
+demise
+devote |  
+| bip_39_word_new_line4 | income
+demise
+devote
+praise |  
+| bip_39_word_new_line5 | income
+demise
+devote
+praise
+tree |  
+| bip_39_word_new_line6 | income
+demise
+devote
+praise
+tree
+admit |  
+| bip_39_word_new_line7 | income
+demise
+devote
+praise
+tree
+admit
+essence |  
+| bip_39_word_new_line8 | income
+demise
+devote
+praise
+tree
+admit
+essence
+picture |  
+| bip_39_word_new_line9 | income
+demise
+devote
+praise
+tree
+admit
+essence
+picture
+promote |  
+| bip_39_word_space_0 | ['income', 'demise', 'devote', 'praise', 'tree', 'admit', 'essence', 'picture', 'promote', 'blue', 'essence', 'account'] |  
+| bip_39_word_space_1 | income |  
+| bip_39_word_space_10 | income demise devote praise tree admit essence picture promote blue |  
+| bip_39_word_space_11 | income demise devote praise tree admit essence picture promote blue essence |  
+| bip_39_word_space_12 | income demise devote praise tree admit essence picture promote blue essence account |  
+| bip_39_word_space_2 | income demise |  
+| bip_39_word_space_3 | income demise devote |  
+| bip_39_word_space_4 | income demise devote praise |  
+| bip_39_word_space_5 | income demise devote praise tree |  
+| bip_39_word_space_6 | income demise devote praise tree admit |  
+| bip_39_word_space_7 | income demise devote praise tree admit essence |  
+| bip_39_word_space_8 | income demise devote praise tree admit essence picture |  
+| bip_39_word_space_9 | income demise devote praise tree admit essence picture promote |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

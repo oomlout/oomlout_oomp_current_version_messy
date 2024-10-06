@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: priority perfect
+  * bip 39 word 3: priority perfect boy
+  * bip 39 word: priority perfect boy speak minimum unit wagon nominee lounge exotic clay action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | priority |  
+| bip_39_word_new_br10 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit<br>wagon<br>nominee<br>lounge<br>exotic |  
+| bip_39_word_new_br11 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit<br>wagon<br>nominee<br>lounge<br>exotic<br>clay |  
+| bip_39_word_new_br12 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit<br>wagon<br>nominee<br>lounge<br>exotic<br>clay<br>action |  
+| bip_39_word_new_br2 | priority<br>perfect |  
+| bip_39_word_new_br3 | priority<br>perfect<br>boy |  
+| bip_39_word_new_br4 | priority<br>perfect<br>boy<br>speak |  
+| bip_39_word_new_br5 | priority<br>perfect<br>boy<br>speak<br>minimum |  
+| bip_39_word_new_br6 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit |  
+| bip_39_word_new_br7 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit<br>wagon |  
+| bip_39_word_new_br8 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit<br>wagon<br>nominee |  
+| bip_39_word_new_br9 | priority<br>perfect<br>boy<br>speak<br>minimum<br>unit<br>wagon<br>nominee<br>lounge |  
+| bip_39_word_new_line1 | priority |  
+| bip_39_word_new_line10 | priority
+perfect
+boy
+speak
+minimum
+unit
+wagon
+nominee
+lounge
+exotic |  
+| bip_39_word_new_line11 | priority
+perfect
+boy
+speak
+minimum
+unit
+wagon
+nominee
+lounge
+exotic
+clay |  
+| bip_39_word_new_line12 | priority
+perfect
+boy
+speak
+minimum
+unit
+wagon
+nominee
+lounge
+exotic
+clay
+action |  
+| bip_39_word_new_line2 | priority
+perfect |  
+| bip_39_word_new_line3 | priority
+perfect
+boy |  
+| bip_39_word_new_line4 | priority
+perfect
+boy
+speak |  
+| bip_39_word_new_line5 | priority
+perfect
+boy
+speak
+minimum |  
+| bip_39_word_new_line6 | priority
+perfect
+boy
+speak
+minimum
+unit |  
+| bip_39_word_new_line7 | priority
+perfect
+boy
+speak
+minimum
+unit
+wagon |  
+| bip_39_word_new_line8 | priority
+perfect
+boy
+speak
+minimum
+unit
+wagon
+nominee |  
+| bip_39_word_new_line9 | priority
+perfect
+boy
+speak
+minimum
+unit
+wagon
+nominee
+lounge |  
+| bip_39_word_space_0 | ['priority', 'perfect', 'boy', 'speak', 'minimum', 'unit', 'wagon', 'nominee', 'lounge', 'exotic', 'clay', 'action'] |  
+| bip_39_word_space_1 | priority |  
+| bip_39_word_space_10 | priority perfect boy speak minimum unit wagon nominee lounge exotic |  
+| bip_39_word_space_11 | priority perfect boy speak minimum unit wagon nominee lounge exotic clay |  
+| bip_39_word_space_12 | priority perfect boy speak minimum unit wagon nominee lounge exotic clay action |  
+| bip_39_word_space_2 | priority perfect |  
+| bip_39_word_space_3 | priority perfect boy |  
+| bip_39_word_space_4 | priority perfect boy speak |  
+| bip_39_word_space_5 | priority perfect boy speak minimum |  
+| bip_39_word_space_6 | priority perfect boy speak minimum unit |  
+| bip_39_word_space_7 | priority perfect boy speak minimum unit wagon |  
+| bip_39_word_space_8 | priority perfect boy speak minimum unit wagon nominee |  
+| bip_39_word_space_9 | priority perfect boy speak minimum unit wagon nominee lounge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

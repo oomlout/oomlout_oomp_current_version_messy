@@ -1,3 +1,185 @@
+bip_39_word_new_br1: spike
+bip_39_word_new_br10: spike<br>tonight<br>sort<br>evoke<br>you<br>sock<br>aim<br>fitness<br>reward<br>doll
+bip_39_word_new_br11: spike<br>tonight<br>sort<br>evoke<br>you<br>sock<br>aim<br>fitness<br>reward<br>doll<br>game
+bip_39_word_new_br12: spike<br>tonight<br>sort<br>evoke<br>you<br>sock<br>aim<br>fitness<br>reward<br>doll<br>game<br>alley
+bip_39_word_new_br2: spike<br>tonight
+bip_39_word_new_br3: spike<br>tonight<br>sort
+bip_39_word_new_br4: spike<br>tonight<br>sort<br>evoke
+bip_39_word_new_br5: spike<br>tonight<br>sort<br>evoke<br>you
+bip_39_word_new_br6: spike<br>tonight<br>sort<br>evoke<br>you<br>sock
+bip_39_word_new_br7: spike<br>tonight<br>sort<br>evoke<br>you<br>sock<br>aim
+bip_39_word_new_br8: spike<br>tonight<br>sort<br>evoke<br>you<br>sock<br>aim<br>fitness
+bip_39_word_new_br9: spike<br>tonight<br>sort<br>evoke<br>you<br>sock<br>aim<br>fitness<br>reward
+bip_39_word_new_line1: spike
+bip_39_word_new_line10: 'spike
+
+  tonight
+
+  sort
+
+  evoke
+
+  you
+
+  sock
+
+  aim
+
+  fitness
+
+  reward
+
+  doll'
+bip_39_word_new_line11: 'spike
+
+  tonight
+
+  sort
+
+  evoke
+
+  you
+
+  sock
+
+  aim
+
+  fitness
+
+  reward
+
+  doll
+
+  game'
+bip_39_word_new_line12: 'spike
+
+  tonight
+
+  sort
+
+  evoke
+
+  you
+
+  sock
+
+  aim
+
+  fitness
+
+  reward
+
+  doll
+
+  game
+
+  alley'
+bip_39_word_new_line2: 'spike
+
+  tonight'
+bip_39_word_new_line3: 'spike
+
+  tonight
+
+  sort'
+bip_39_word_new_line4: 'spike
+
+  tonight
+
+  sort
+
+  evoke'
+bip_39_word_new_line5: 'spike
+
+  tonight
+
+  sort
+
+  evoke
+
+  you'
+bip_39_word_new_line6: 'spike
+
+  tonight
+
+  sort
+
+  evoke
+
+  you
+
+  sock'
+bip_39_word_new_line7: 'spike
+
+  tonight
+
+  sort
+
+  evoke
+
+  you
+
+  sock
+
+  aim'
+bip_39_word_new_line8: 'spike
+
+  tonight
+
+  sort
+
+  evoke
+
+  you
+
+  sock
+
+  aim
+
+  fitness'
+bip_39_word_new_line9: 'spike
+
+  tonight
+
+  sort
+
+  evoke
+
+  you
+
+  sock
+
+  aim
+
+  fitness
+
+  reward'
+bip_39_word_space_0:
+- spike
+- tonight
+- sort
+- evoke
+- you
+- sock
+- aim
+- fitness
+- reward
+- doll
+- game
+- alley
+bip_39_word_space_1: spike
+bip_39_word_space_10: spike tonight sort evoke you sock aim fitness reward doll
+bip_39_word_space_11: spike tonight sort evoke you sock aim fitness reward doll game
+bip_39_word_space_12: spike tonight sort evoke you sock aim fitness reward doll game
+  alley
+bip_39_word_space_2: spike tonight
+bip_39_word_space_3: spike tonight sort
+bip_39_word_space_4: spike tonight sort evoke
+bip_39_word_space_5: spike tonight sort evoke you
+bip_39_word_space_6: spike tonight sort evoke you sock
+bip_39_word_space_7: spike tonight sort evoke you sock aim
+bip_39_word_space_8: spike tonight sort evoke you sock aim fitness
+bip_39_word_space_9: spike tonight sort evoke you sock aim fitness reward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

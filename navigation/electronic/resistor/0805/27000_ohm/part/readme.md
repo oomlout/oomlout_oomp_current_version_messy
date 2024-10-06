@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pyramid clip
+  * bip 39 word 3: pyramid clip ice
+  * bip 39 word: pyramid clip ice winner health pretty thumb absorb universe snow cover auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pyramid |  
+| bip_39_word_new_br10 | pyramid<br>clip<br>ice<br>winner<br>health<br>pretty<br>thumb<br>absorb<br>universe<br>snow |  
+| bip_39_word_new_br11 | pyramid<br>clip<br>ice<br>winner<br>health<br>pretty<br>thumb<br>absorb<br>universe<br>snow<br>cover |  
+| bip_39_word_new_br12 | pyramid<br>clip<br>ice<br>winner<br>health<br>pretty<br>thumb<br>absorb<br>universe<br>snow<br>cover<br>auction |  
+| bip_39_word_new_br2 | pyramid<br>clip |  
+| bip_39_word_new_br3 | pyramid<br>clip<br>ice |  
+| bip_39_word_new_br4 | pyramid<br>clip<br>ice<br>winner |  
+| bip_39_word_new_br5 | pyramid<br>clip<br>ice<br>winner<br>health |  
+| bip_39_word_new_br6 | pyramid<br>clip<br>ice<br>winner<br>health<br>pretty |  
+| bip_39_word_new_br7 | pyramid<br>clip<br>ice<br>winner<br>health<br>pretty<br>thumb |  
+| bip_39_word_new_br8 | pyramid<br>clip<br>ice<br>winner<br>health<br>pretty<br>thumb<br>absorb |  
+| bip_39_word_new_br9 | pyramid<br>clip<br>ice<br>winner<br>health<br>pretty<br>thumb<br>absorb<br>universe |  
+| bip_39_word_new_line1 | pyramid |  
+| bip_39_word_new_line10 | pyramid
+clip
+ice
+winner
+health
+pretty
+thumb
+absorb
+universe
+snow |  
+| bip_39_word_new_line11 | pyramid
+clip
+ice
+winner
+health
+pretty
+thumb
+absorb
+universe
+snow
+cover |  
+| bip_39_word_new_line12 | pyramid
+clip
+ice
+winner
+health
+pretty
+thumb
+absorb
+universe
+snow
+cover
+auction |  
+| bip_39_word_new_line2 | pyramid
+clip |  
+| bip_39_word_new_line3 | pyramid
+clip
+ice |  
+| bip_39_word_new_line4 | pyramid
+clip
+ice
+winner |  
+| bip_39_word_new_line5 | pyramid
+clip
+ice
+winner
+health |  
+| bip_39_word_new_line6 | pyramid
+clip
+ice
+winner
+health
+pretty |  
+| bip_39_word_new_line7 | pyramid
+clip
+ice
+winner
+health
+pretty
+thumb |  
+| bip_39_word_new_line8 | pyramid
+clip
+ice
+winner
+health
+pretty
+thumb
+absorb |  
+| bip_39_word_new_line9 | pyramid
+clip
+ice
+winner
+health
+pretty
+thumb
+absorb
+universe |  
+| bip_39_word_space_0 | ['pyramid', 'clip', 'ice', 'winner', 'health', 'pretty', 'thumb', 'absorb', 'universe', 'snow', 'cover', 'auction'] |  
+| bip_39_word_space_1 | pyramid |  
+| bip_39_word_space_10 | pyramid clip ice winner health pretty thumb absorb universe snow |  
+| bip_39_word_space_11 | pyramid clip ice winner health pretty thumb absorb universe snow cover |  
+| bip_39_word_space_12 | pyramid clip ice winner health pretty thumb absorb universe snow cover auction |  
+| bip_39_word_space_2 | pyramid clip |  
+| bip_39_word_space_3 | pyramid clip ice |  
+| bip_39_word_space_4 | pyramid clip ice winner |  
+| bip_39_word_space_5 | pyramid clip ice winner health |  
+| bip_39_word_space_6 | pyramid clip ice winner health pretty |  
+| bip_39_word_space_7 | pyramid clip ice winner health pretty thumb |  
+| bip_39_word_space_8 | pyramid clip ice winner health pretty thumb absorb |  
+| bip_39_word_space_9 | pyramid clip ice winner health pretty thumb absorb universe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

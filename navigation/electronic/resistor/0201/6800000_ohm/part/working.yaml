@@ -1,3 +1,186 @@
+bip_39_word_new_br1: material
+bip_39_word_new_br10: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town
+bip_39_word_new_br11: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town<br>fetch
+bip_39_word_new_br12: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth<br>town<br>fetch<br>artist
+bip_39_word_new_br2: material<br>power
+bip_39_word_new_br3: material<br>power<br>equal
+bip_39_word_new_br4: material<br>power<br>equal<br>pigeon
+bip_39_word_new_br5: material<br>power<br>equal<br>pigeon<br>good
+bip_39_word_new_br6: material<br>power<br>equal<br>pigeon<br>good<br>office
+bip_39_word_new_br7: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage
+bip_39_word_new_br8: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can
+bip_39_word_new_br9: material<br>power<br>equal<br>pigeon<br>good<br>office<br>voyage<br>can<br>birth
+bip_39_word_new_line1: material
+bip_39_word_new_line10: 'material
+
+  power
+
+  equal
+
+  pigeon
+
+  good
+
+  office
+
+  voyage
+
+  can
+
+  birth
+
+  town'
+bip_39_word_new_line11: 'material
+
+  power
+
+  equal
+
+  pigeon
+
+  good
+
+  office
+
+  voyage
+
+  can
+
+  birth
+
+  town
+
+  fetch'
+bip_39_word_new_line12: 'material
+
+  power
+
+  equal
+
+  pigeon
+
+  good
+
+  office
+
+  voyage
+
+  can
+
+  birth
+
+  town
+
+  fetch
+
+  artist'
+bip_39_word_new_line2: 'material
+
+  power'
+bip_39_word_new_line3: 'material
+
+  power
+
+  equal'
+bip_39_word_new_line4: 'material
+
+  power
+
+  equal
+
+  pigeon'
+bip_39_word_new_line5: 'material
+
+  power
+
+  equal
+
+  pigeon
+
+  good'
+bip_39_word_new_line6: 'material
+
+  power
+
+  equal
+
+  pigeon
+
+  good
+
+  office'
+bip_39_word_new_line7: 'material
+
+  power
+
+  equal
+
+  pigeon
+
+  good
+
+  office
+
+  voyage'
+bip_39_word_new_line8: 'material
+
+  power
+
+  equal
+
+  pigeon
+
+  good
+
+  office
+
+  voyage
+
+  can'
+bip_39_word_new_line9: 'material
+
+  power
+
+  equal
+
+  pigeon
+
+  good
+
+  office
+
+  voyage
+
+  can
+
+  birth'
+bip_39_word_space_0:
+- material
+- power
+- equal
+- pigeon
+- good
+- office
+- voyage
+- can
+- birth
+- town
+- fetch
+- artist
+bip_39_word_space_1: material
+bip_39_word_space_10: material power equal pigeon good office voyage can birth town
+bip_39_word_space_11: material power equal pigeon good office voyage can birth town
+  fetch
+bip_39_word_space_12: material power equal pigeon good office voyage can birth town
+  fetch artist
+bip_39_word_space_2: material power
+bip_39_word_space_3: material power equal
+bip_39_word_space_4: material power equal pigeon
+bip_39_word_space_5: material power equal pigeon good
+bip_39_word_space_6: material power equal pigeon good office
+bip_39_word_space_7: material power equal pigeon good office voyage
+bip_39_word_space_8: material power equal pigeon good office voyage can
+bip_39_word_space_9: material power equal pigeon good office voyage can birth
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

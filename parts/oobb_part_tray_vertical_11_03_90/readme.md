@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: until build
+  * bip 39 word 3: until build purse
+  * bip 39 word: until build purse choose ridge truly pink daring pull cinnamon much alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | until |  
+| bip_39_word_new_br10 | until<br>build<br>purse<br>choose<br>ridge<br>truly<br>pink<br>daring<br>pull<br>cinnamon |  
+| bip_39_word_new_br11 | until<br>build<br>purse<br>choose<br>ridge<br>truly<br>pink<br>daring<br>pull<br>cinnamon<br>much |  
+| bip_39_word_new_br12 | until<br>build<br>purse<br>choose<br>ridge<br>truly<br>pink<br>daring<br>pull<br>cinnamon<br>much<br>alarm |  
+| bip_39_word_new_br2 | until<br>build |  
+| bip_39_word_new_br3 | until<br>build<br>purse |  
+| bip_39_word_new_br4 | until<br>build<br>purse<br>choose |  
+| bip_39_word_new_br5 | until<br>build<br>purse<br>choose<br>ridge |  
+| bip_39_word_new_br6 | until<br>build<br>purse<br>choose<br>ridge<br>truly |  
+| bip_39_word_new_br7 | until<br>build<br>purse<br>choose<br>ridge<br>truly<br>pink |  
+| bip_39_word_new_br8 | until<br>build<br>purse<br>choose<br>ridge<br>truly<br>pink<br>daring |  
+| bip_39_word_new_br9 | until<br>build<br>purse<br>choose<br>ridge<br>truly<br>pink<br>daring<br>pull |  
+| bip_39_word_new_line1 | until |  
+| bip_39_word_new_line10 | until
+build
+purse
+choose
+ridge
+truly
+pink
+daring
+pull
+cinnamon |  
+| bip_39_word_new_line11 | until
+build
+purse
+choose
+ridge
+truly
+pink
+daring
+pull
+cinnamon
+much |  
+| bip_39_word_new_line12 | until
+build
+purse
+choose
+ridge
+truly
+pink
+daring
+pull
+cinnamon
+much
+alarm |  
+| bip_39_word_new_line2 | until
+build |  
+| bip_39_word_new_line3 | until
+build
+purse |  
+| bip_39_word_new_line4 | until
+build
+purse
+choose |  
+| bip_39_word_new_line5 | until
+build
+purse
+choose
+ridge |  
+| bip_39_word_new_line6 | until
+build
+purse
+choose
+ridge
+truly |  
+| bip_39_word_new_line7 | until
+build
+purse
+choose
+ridge
+truly
+pink |  
+| bip_39_word_new_line8 | until
+build
+purse
+choose
+ridge
+truly
+pink
+daring |  
+| bip_39_word_new_line9 | until
+build
+purse
+choose
+ridge
+truly
+pink
+daring
+pull |  
+| bip_39_word_space_0 | ['until', 'build', 'purse', 'choose', 'ridge', 'truly', 'pink', 'daring', 'pull', 'cinnamon', 'much', 'alarm'] |  
+| bip_39_word_space_1 | until |  
+| bip_39_word_space_10 | until build purse choose ridge truly pink daring pull cinnamon |  
+| bip_39_word_space_11 | until build purse choose ridge truly pink daring pull cinnamon much |  
+| bip_39_word_space_12 | until build purse choose ridge truly pink daring pull cinnamon much alarm |  
+| bip_39_word_space_2 | until build |  
+| bip_39_word_space_3 | until build purse |  
+| bip_39_word_space_4 | until build purse choose |  
+| bip_39_word_space_5 | until build purse choose ridge |  
+| bip_39_word_space_6 | until build purse choose ridge truly |  
+| bip_39_word_space_7 | until build purse choose ridge truly pink |  
+| bip_39_word_space_8 | until build purse choose ridge truly pink daring |  
+| bip_39_word_space_9 | until build purse choose ridge truly pink daring pull |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

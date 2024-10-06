@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bullet chalk
+  * bip 39 word 3: bullet chalk man
+  * bip 39 word: bullet chalk man egg scrap basic own luggage double narrow correct attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bullet |  
+| bip_39_word_new_br10 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic<br>own<br>luggage<br>double<br>narrow |  
+| bip_39_word_new_br11 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic<br>own<br>luggage<br>double<br>narrow<br>correct |  
+| bip_39_word_new_br12 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic<br>own<br>luggage<br>double<br>narrow<br>correct<br>attend |  
+| bip_39_word_new_br2 | bullet<br>chalk |  
+| bip_39_word_new_br3 | bullet<br>chalk<br>man |  
+| bip_39_word_new_br4 | bullet<br>chalk<br>man<br>egg |  
+| bip_39_word_new_br5 | bullet<br>chalk<br>man<br>egg<br>scrap |  
+| bip_39_word_new_br6 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic |  
+| bip_39_word_new_br7 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic<br>own |  
+| bip_39_word_new_br8 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic<br>own<br>luggage |  
+| bip_39_word_new_br9 | bullet<br>chalk<br>man<br>egg<br>scrap<br>basic<br>own<br>luggage<br>double |  
+| bip_39_word_new_line1 | bullet |  
+| bip_39_word_new_line10 | bullet
+chalk
+man
+egg
+scrap
+basic
+own
+luggage
+double
+narrow |  
+| bip_39_word_new_line11 | bullet
+chalk
+man
+egg
+scrap
+basic
+own
+luggage
+double
+narrow
+correct |  
+| bip_39_word_new_line12 | bullet
+chalk
+man
+egg
+scrap
+basic
+own
+luggage
+double
+narrow
+correct
+attend |  
+| bip_39_word_new_line2 | bullet
+chalk |  
+| bip_39_word_new_line3 | bullet
+chalk
+man |  
+| bip_39_word_new_line4 | bullet
+chalk
+man
+egg |  
+| bip_39_word_new_line5 | bullet
+chalk
+man
+egg
+scrap |  
+| bip_39_word_new_line6 | bullet
+chalk
+man
+egg
+scrap
+basic |  
+| bip_39_word_new_line7 | bullet
+chalk
+man
+egg
+scrap
+basic
+own |  
+| bip_39_word_new_line8 | bullet
+chalk
+man
+egg
+scrap
+basic
+own
+luggage |  
+| bip_39_word_new_line9 | bullet
+chalk
+man
+egg
+scrap
+basic
+own
+luggage
+double |  
+| bip_39_word_space_0 | ['bullet', 'chalk', 'man', 'egg', 'scrap', 'basic', 'own', 'luggage', 'double', 'narrow', 'correct', 'attend'] |  
+| bip_39_word_space_1 | bullet |  
+| bip_39_word_space_10 | bullet chalk man egg scrap basic own luggage double narrow |  
+| bip_39_word_space_11 | bullet chalk man egg scrap basic own luggage double narrow correct |  
+| bip_39_word_space_12 | bullet chalk man egg scrap basic own luggage double narrow correct attend |  
+| bip_39_word_space_2 | bullet chalk |  
+| bip_39_word_space_3 | bullet chalk man |  
+| bip_39_word_space_4 | bullet chalk man egg |  
+| bip_39_word_space_5 | bullet chalk man egg scrap |  
+| bip_39_word_space_6 | bullet chalk man egg scrap basic |  
+| bip_39_word_space_7 | bullet chalk man egg scrap basic own |  
+| bip_39_word_space_8 | bullet chalk man egg scrap basic own luggage |  
+| bip_39_word_space_9 | bullet chalk man egg scrap basic own luggage double |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

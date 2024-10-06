@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grit traffic
+  * bip 39 word 3: grit traffic update
+  * bip 39 word: grit traffic update club banana crash hold response fatal naive egg august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grit |  
+| bip_39_word_new_br10 | grit<br>traffic<br>update<br>club<br>banana<br>crash<br>hold<br>response<br>fatal<br>naive |  
+| bip_39_word_new_br11 | grit<br>traffic<br>update<br>club<br>banana<br>crash<br>hold<br>response<br>fatal<br>naive<br>egg |  
+| bip_39_word_new_br12 | grit<br>traffic<br>update<br>club<br>banana<br>crash<br>hold<br>response<br>fatal<br>naive<br>egg<br>august |  
+| bip_39_word_new_br2 | grit<br>traffic |  
+| bip_39_word_new_br3 | grit<br>traffic<br>update |  
+| bip_39_word_new_br4 | grit<br>traffic<br>update<br>club |  
+| bip_39_word_new_br5 | grit<br>traffic<br>update<br>club<br>banana |  
+| bip_39_word_new_br6 | grit<br>traffic<br>update<br>club<br>banana<br>crash |  
+| bip_39_word_new_br7 | grit<br>traffic<br>update<br>club<br>banana<br>crash<br>hold |  
+| bip_39_word_new_br8 | grit<br>traffic<br>update<br>club<br>banana<br>crash<br>hold<br>response |  
+| bip_39_word_new_br9 | grit<br>traffic<br>update<br>club<br>banana<br>crash<br>hold<br>response<br>fatal |  
+| bip_39_word_new_line1 | grit |  
+| bip_39_word_new_line10 | grit
+traffic
+update
+club
+banana
+crash
+hold
+response
+fatal
+naive |  
+| bip_39_word_new_line11 | grit
+traffic
+update
+club
+banana
+crash
+hold
+response
+fatal
+naive
+egg |  
+| bip_39_word_new_line12 | grit
+traffic
+update
+club
+banana
+crash
+hold
+response
+fatal
+naive
+egg
+august |  
+| bip_39_word_new_line2 | grit
+traffic |  
+| bip_39_word_new_line3 | grit
+traffic
+update |  
+| bip_39_word_new_line4 | grit
+traffic
+update
+club |  
+| bip_39_word_new_line5 | grit
+traffic
+update
+club
+banana |  
+| bip_39_word_new_line6 | grit
+traffic
+update
+club
+banana
+crash |  
+| bip_39_word_new_line7 | grit
+traffic
+update
+club
+banana
+crash
+hold |  
+| bip_39_word_new_line8 | grit
+traffic
+update
+club
+banana
+crash
+hold
+response |  
+| bip_39_word_new_line9 | grit
+traffic
+update
+club
+banana
+crash
+hold
+response
+fatal |  
+| bip_39_word_space_0 | ['grit', 'traffic', 'update', 'club', 'banana', 'crash', 'hold', 'response', 'fatal', 'naive', 'egg', 'august'] |  
+| bip_39_word_space_1 | grit |  
+| bip_39_word_space_10 | grit traffic update club banana crash hold response fatal naive |  
+| bip_39_word_space_11 | grit traffic update club banana crash hold response fatal naive egg |  
+| bip_39_word_space_12 | grit traffic update club banana crash hold response fatal naive egg august |  
+| bip_39_word_space_2 | grit traffic |  
+| bip_39_word_space_3 | grit traffic update |  
+| bip_39_word_space_4 | grit traffic update club |  
+| bip_39_word_space_5 | grit traffic update club banana |  
+| bip_39_word_space_6 | grit traffic update club banana crash |  
+| bip_39_word_space_7 | grit traffic update club banana crash hold |  
+| bip_39_word_space_8 | grit traffic update club banana crash hold response |  
+| bip_39_word_space_9 | grit traffic update club banana crash hold response fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: average
+bip_39_word_new_br10: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon
+bip_39_word_new_br11: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror
+bip_39_word_new_br12: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror<br>abuse
+bip_39_word_new_br2: average<br>panic
+bip_39_word_new_br3: average<br>panic<br>cup
+bip_39_word_new_br4: average<br>panic<br>cup<br>bullet
+bip_39_word_new_br5: average<br>panic<br>cup<br>bullet<br>fossil
+bip_39_word_new_br6: average<br>panic<br>cup<br>bullet<br>fossil<br>sock
+bip_39_word_new_br7: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice
+bip_39_word_new_br8: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability
+bip_39_word_new_br9: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin
+bip_39_word_new_line1: average
+bip_39_word_new_line10: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability
+
+  muffin
+
+  pigeon'
+bip_39_word_new_line11: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability
+
+  muffin
+
+  pigeon
+
+  mirror'
+bip_39_word_new_line12: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability
+
+  muffin
+
+  pigeon
+
+  mirror
+
+  abuse'
+bip_39_word_new_line2: 'average
+
+  panic'
+bip_39_word_new_line3: 'average
+
+  panic
+
+  cup'
+bip_39_word_new_line4: 'average
+
+  panic
+
+  cup
+
+  bullet'
+bip_39_word_new_line5: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil'
+bip_39_word_new_line6: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock'
+bip_39_word_new_line7: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice'
+bip_39_word_new_line8: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability'
+bip_39_word_new_line9: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability
+
+  muffin'
+bip_39_word_space_0:
+- average
+- panic
+- cup
+- bullet
+- fossil
+- sock
+- dice
+- ability
+- muffin
+- pigeon
+- mirror
+- abuse
+bip_39_word_space_1: average
+bip_39_word_space_10: average panic cup bullet fossil sock dice ability muffin pigeon
+bip_39_word_space_11: average panic cup bullet fossil sock dice ability muffin pigeon
+  mirror
+bip_39_word_space_12: average panic cup bullet fossil sock dice ability muffin pigeon
+  mirror abuse
+bip_39_word_space_2: average panic
+bip_39_word_space_3: average panic cup
+bip_39_word_space_4: average panic cup bullet
+bip_39_word_space_5: average panic cup bullet fossil
+bip_39_word_space_6: average panic cup bullet fossil sock
+bip_39_word_space_7: average panic cup bullet fossil sock dice
+bip_39_word_space_8: average panic cup bullet fossil sock dice ability
+bip_39_word_space_9: average panic cup bullet fossil sock dice ability muffin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: laugh pink
+  * bip 39 word 3: laugh pink silver
+  * bip 39 word: laugh pink silver hamster drastic story edit truck convince lion slab animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | laugh |  
+| bip_39_word_new_br10 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story<br>edit<br>truck<br>convince<br>lion |  
+| bip_39_word_new_br11 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story<br>edit<br>truck<br>convince<br>lion<br>slab |  
+| bip_39_word_new_br12 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story<br>edit<br>truck<br>convince<br>lion<br>slab<br>animal |  
+| bip_39_word_new_br2 | laugh<br>pink |  
+| bip_39_word_new_br3 | laugh<br>pink<br>silver |  
+| bip_39_word_new_br4 | laugh<br>pink<br>silver<br>hamster |  
+| bip_39_word_new_br5 | laugh<br>pink<br>silver<br>hamster<br>drastic |  
+| bip_39_word_new_br6 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story |  
+| bip_39_word_new_br7 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story<br>edit |  
+| bip_39_word_new_br8 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story<br>edit<br>truck |  
+| bip_39_word_new_br9 | laugh<br>pink<br>silver<br>hamster<br>drastic<br>story<br>edit<br>truck<br>convince |  
+| bip_39_word_new_line1 | laugh |  
+| bip_39_word_new_line10 | laugh
+pink
+silver
+hamster
+drastic
+story
+edit
+truck
+convince
+lion |  
+| bip_39_word_new_line11 | laugh
+pink
+silver
+hamster
+drastic
+story
+edit
+truck
+convince
+lion
+slab |  
+| bip_39_word_new_line12 | laugh
+pink
+silver
+hamster
+drastic
+story
+edit
+truck
+convince
+lion
+slab
+animal |  
+| bip_39_word_new_line2 | laugh
+pink |  
+| bip_39_word_new_line3 | laugh
+pink
+silver |  
+| bip_39_word_new_line4 | laugh
+pink
+silver
+hamster |  
+| bip_39_word_new_line5 | laugh
+pink
+silver
+hamster
+drastic |  
+| bip_39_word_new_line6 | laugh
+pink
+silver
+hamster
+drastic
+story |  
+| bip_39_word_new_line7 | laugh
+pink
+silver
+hamster
+drastic
+story
+edit |  
+| bip_39_word_new_line8 | laugh
+pink
+silver
+hamster
+drastic
+story
+edit
+truck |  
+| bip_39_word_new_line9 | laugh
+pink
+silver
+hamster
+drastic
+story
+edit
+truck
+convince |  
+| bip_39_word_space_0 | ['laugh', 'pink', 'silver', 'hamster', 'drastic', 'story', 'edit', 'truck', 'convince', 'lion', 'slab', 'animal'] |  
+| bip_39_word_space_1 | laugh |  
+| bip_39_word_space_10 | laugh pink silver hamster drastic story edit truck convince lion |  
+| bip_39_word_space_11 | laugh pink silver hamster drastic story edit truck convince lion slab |  
+| bip_39_word_space_12 | laugh pink silver hamster drastic story edit truck convince lion slab animal |  
+| bip_39_word_space_2 | laugh pink |  
+| bip_39_word_space_3 | laugh pink silver |  
+| bip_39_word_space_4 | laugh pink silver hamster |  
+| bip_39_word_space_5 | laugh pink silver hamster drastic |  
+| bip_39_word_space_6 | laugh pink silver hamster drastic story |  
+| bip_39_word_space_7 | laugh pink silver hamster drastic story edit |  
+| bip_39_word_space_8 | laugh pink silver hamster drastic story edit truck |  
+| bip_39_word_space_9 | laugh pink silver hamster drastic story edit truck convince |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

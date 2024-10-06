@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raw comic
+  * bip 39 word 3: raw comic document
+  * bip 39 word: raw comic document forward inmate bind spell fee entire feed family arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raw |  
+| bip_39_word_new_br10 | raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee<br>entire<br>feed |  
+| bip_39_word_new_br11 | raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee<br>entire<br>feed<br>family |  
+| bip_39_word_new_br12 | raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee<br>entire<br>feed<br>family<br>arm |  
+| bip_39_word_new_br2 | raw<br>comic |  
+| bip_39_word_new_br3 | raw<br>comic<br>document |  
+| bip_39_word_new_br4 | raw<br>comic<br>document<br>forward |  
+| bip_39_word_new_br5 | raw<br>comic<br>document<br>forward<br>inmate |  
+| bip_39_word_new_br6 | raw<br>comic<br>document<br>forward<br>inmate<br>bind |  
+| bip_39_word_new_br7 | raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell |  
+| bip_39_word_new_br8 | raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee |  
+| bip_39_word_new_br9 | raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee<br>entire |  
+| bip_39_word_new_line1 | raw |  
+| bip_39_word_new_line10 | raw
+comic
+document
+forward
+inmate
+bind
+spell
+fee
+entire
+feed |  
+| bip_39_word_new_line11 | raw
+comic
+document
+forward
+inmate
+bind
+spell
+fee
+entire
+feed
+family |  
+| bip_39_word_new_line12 | raw
+comic
+document
+forward
+inmate
+bind
+spell
+fee
+entire
+feed
+family
+arm |  
+| bip_39_word_new_line2 | raw
+comic |  
+| bip_39_word_new_line3 | raw
+comic
+document |  
+| bip_39_word_new_line4 | raw
+comic
+document
+forward |  
+| bip_39_word_new_line5 | raw
+comic
+document
+forward
+inmate |  
+| bip_39_word_new_line6 | raw
+comic
+document
+forward
+inmate
+bind |  
+| bip_39_word_new_line7 | raw
+comic
+document
+forward
+inmate
+bind
+spell |  
+| bip_39_word_new_line8 | raw
+comic
+document
+forward
+inmate
+bind
+spell
+fee |  
+| bip_39_word_new_line9 | raw
+comic
+document
+forward
+inmate
+bind
+spell
+fee
+entire |  
+| bip_39_word_space_0 | ['raw', 'comic', 'document', 'forward', 'inmate', 'bind', 'spell', 'fee', 'entire', 'feed', 'family', 'arm'] |  
+| bip_39_word_space_1 | raw |  
+| bip_39_word_space_10 | raw comic document forward inmate bind spell fee entire feed |  
+| bip_39_word_space_11 | raw comic document forward inmate bind spell fee entire feed family |  
+| bip_39_word_space_12 | raw comic document forward inmate bind spell fee entire feed family arm |  
+| bip_39_word_space_2 | raw comic |  
+| bip_39_word_space_3 | raw comic document |  
+| bip_39_word_space_4 | raw comic document forward |  
+| bip_39_word_space_5 | raw comic document forward inmate |  
+| bip_39_word_space_6 | raw comic document forward inmate bind |  
+| bip_39_word_space_7 | raw comic document forward inmate bind spell |  
+| bip_39_word_space_8 | raw comic document forward inmate bind spell fee |  
+| bip_39_word_space_9 | raw comic document forward inmate bind spell fee entire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: l
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cattle orange
+  * bip 39 word 3: cattle orange onion
+  * bip 39 word: cattle orange onion only rug pole window foster cycle unfold fiber achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cattle |  
+| bip_39_word_new_br10 | cattle<br>orange<br>onion<br>only<br>rug<br>pole<br>window<br>foster<br>cycle<br>unfold |  
+| bip_39_word_new_br11 | cattle<br>orange<br>onion<br>only<br>rug<br>pole<br>window<br>foster<br>cycle<br>unfold<br>fiber |  
+| bip_39_word_new_br12 | cattle<br>orange<br>onion<br>only<br>rug<br>pole<br>window<br>foster<br>cycle<br>unfold<br>fiber<br>achieve |  
+| bip_39_word_new_br2 | cattle<br>orange |  
+| bip_39_word_new_br3 | cattle<br>orange<br>onion |  
+| bip_39_word_new_br4 | cattle<br>orange<br>onion<br>only |  
+| bip_39_word_new_br5 | cattle<br>orange<br>onion<br>only<br>rug |  
+| bip_39_word_new_br6 | cattle<br>orange<br>onion<br>only<br>rug<br>pole |  
+| bip_39_word_new_br7 | cattle<br>orange<br>onion<br>only<br>rug<br>pole<br>window |  
+| bip_39_word_new_br8 | cattle<br>orange<br>onion<br>only<br>rug<br>pole<br>window<br>foster |  
+| bip_39_word_new_br9 | cattle<br>orange<br>onion<br>only<br>rug<br>pole<br>window<br>foster<br>cycle |  
+| bip_39_word_new_line1 | cattle |  
+| bip_39_word_new_line10 | cattle
+orange
+onion
+only
+rug
+pole
+window
+foster
+cycle
+unfold |  
+| bip_39_word_new_line11 | cattle
+orange
+onion
+only
+rug
+pole
+window
+foster
+cycle
+unfold
+fiber |  
+| bip_39_word_new_line12 | cattle
+orange
+onion
+only
+rug
+pole
+window
+foster
+cycle
+unfold
+fiber
+achieve |  
+| bip_39_word_new_line2 | cattle
+orange |  
+| bip_39_word_new_line3 | cattle
+orange
+onion |  
+| bip_39_word_new_line4 | cattle
+orange
+onion
+only |  
+| bip_39_word_new_line5 | cattle
+orange
+onion
+only
+rug |  
+| bip_39_word_new_line6 | cattle
+orange
+onion
+only
+rug
+pole |  
+| bip_39_word_new_line7 | cattle
+orange
+onion
+only
+rug
+pole
+window |  
+| bip_39_word_new_line8 | cattle
+orange
+onion
+only
+rug
+pole
+window
+foster |  
+| bip_39_word_new_line9 | cattle
+orange
+onion
+only
+rug
+pole
+window
+foster
+cycle |  
+| bip_39_word_space_0 | ['cattle', 'orange', 'onion', 'only', 'rug', 'pole', 'window', 'foster', 'cycle', 'unfold', 'fiber', 'achieve'] |  
+| bip_39_word_space_1 | cattle |  
+| bip_39_word_space_10 | cattle orange onion only rug pole window foster cycle unfold |  
+| bip_39_word_space_11 | cattle orange onion only rug pole window foster cycle unfold fiber |  
+| bip_39_word_space_12 | cattle orange onion only rug pole window foster cycle unfold fiber achieve |  
+| bip_39_word_space_2 | cattle orange |  
+| bip_39_word_space_3 | cattle orange onion |  
+| bip_39_word_space_4 | cattle orange onion only |  
+| bip_39_word_space_5 | cattle orange onion only rug |  
+| bip_39_word_space_6 | cattle orange onion only rug pole |  
+| bip_39_word_space_7 | cattle orange onion only rug pole window |  
+| bip_39_word_space_8 | cattle orange onion only rug pole window foster |  
+| bip_39_word_space_9 | cattle orange onion only rug pole window foster cycle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

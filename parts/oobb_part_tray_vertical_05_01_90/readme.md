@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faint long
+  * bip 39 word 3: faint long dune
+  * bip 39 word: faint long dune goddess girl dawn oak meat extend find brown afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faint |  
+| bip_39_word_new_br10 | faint<br>long<br>dune<br>goddess<br>girl<br>dawn<br>oak<br>meat<br>extend<br>find |  
+| bip_39_word_new_br11 | faint<br>long<br>dune<br>goddess<br>girl<br>dawn<br>oak<br>meat<br>extend<br>find<br>brown |  
+| bip_39_word_new_br12 | faint<br>long<br>dune<br>goddess<br>girl<br>dawn<br>oak<br>meat<br>extend<br>find<br>brown<br>afford |  
+| bip_39_word_new_br2 | faint<br>long |  
+| bip_39_word_new_br3 | faint<br>long<br>dune |  
+| bip_39_word_new_br4 | faint<br>long<br>dune<br>goddess |  
+| bip_39_word_new_br5 | faint<br>long<br>dune<br>goddess<br>girl |  
+| bip_39_word_new_br6 | faint<br>long<br>dune<br>goddess<br>girl<br>dawn |  
+| bip_39_word_new_br7 | faint<br>long<br>dune<br>goddess<br>girl<br>dawn<br>oak |  
+| bip_39_word_new_br8 | faint<br>long<br>dune<br>goddess<br>girl<br>dawn<br>oak<br>meat |  
+| bip_39_word_new_br9 | faint<br>long<br>dune<br>goddess<br>girl<br>dawn<br>oak<br>meat<br>extend |  
+| bip_39_word_new_line1 | faint |  
+| bip_39_word_new_line10 | faint
+long
+dune
+goddess
+girl
+dawn
+oak
+meat
+extend
+find |  
+| bip_39_word_new_line11 | faint
+long
+dune
+goddess
+girl
+dawn
+oak
+meat
+extend
+find
+brown |  
+| bip_39_word_new_line12 | faint
+long
+dune
+goddess
+girl
+dawn
+oak
+meat
+extend
+find
+brown
+afford |  
+| bip_39_word_new_line2 | faint
+long |  
+| bip_39_word_new_line3 | faint
+long
+dune |  
+| bip_39_word_new_line4 | faint
+long
+dune
+goddess |  
+| bip_39_word_new_line5 | faint
+long
+dune
+goddess
+girl |  
+| bip_39_word_new_line6 | faint
+long
+dune
+goddess
+girl
+dawn |  
+| bip_39_word_new_line7 | faint
+long
+dune
+goddess
+girl
+dawn
+oak |  
+| bip_39_word_new_line8 | faint
+long
+dune
+goddess
+girl
+dawn
+oak
+meat |  
+| bip_39_word_new_line9 | faint
+long
+dune
+goddess
+girl
+dawn
+oak
+meat
+extend |  
+| bip_39_word_space_0 | ['faint', 'long', 'dune', 'goddess', 'girl', 'dawn', 'oak', 'meat', 'extend', 'find', 'brown', 'afford'] |  
+| bip_39_word_space_1 | faint |  
+| bip_39_word_space_10 | faint long dune goddess girl dawn oak meat extend find |  
+| bip_39_word_space_11 | faint long dune goddess girl dawn oak meat extend find brown |  
+| bip_39_word_space_12 | faint long dune goddess girl dawn oak meat extend find brown afford |  
+| bip_39_word_space_2 | faint long |  
+| bip_39_word_space_3 | faint long dune |  
+| bip_39_word_space_4 | faint long dune goddess |  
+| bip_39_word_space_5 | faint long dune goddess girl |  
+| bip_39_word_space_6 | faint long dune goddess girl dawn |  
+| bip_39_word_space_7 | faint long dune goddess girl dawn oak |  
+| bip_39_word_space_8 | faint long dune goddess girl dawn oak meat |  
+| bip_39_word_space_9 | faint long dune goddess girl dawn oak meat extend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

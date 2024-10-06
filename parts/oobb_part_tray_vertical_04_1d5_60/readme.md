@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: say flush
+  * bip 39 word 3: say flush donor
+  * bip 39 word: say flush donor winter include street morning social exit maid spatial average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | say |  
+| bip_39_word_new_br10 | say<br>flush<br>donor<br>winter<br>include<br>street<br>morning<br>social<br>exit<br>maid |  
+| bip_39_word_new_br11 | say<br>flush<br>donor<br>winter<br>include<br>street<br>morning<br>social<br>exit<br>maid<br>spatial |  
+| bip_39_word_new_br12 | say<br>flush<br>donor<br>winter<br>include<br>street<br>morning<br>social<br>exit<br>maid<br>spatial<br>average |  
+| bip_39_word_new_br2 | say<br>flush |  
+| bip_39_word_new_br3 | say<br>flush<br>donor |  
+| bip_39_word_new_br4 | say<br>flush<br>donor<br>winter |  
+| bip_39_word_new_br5 | say<br>flush<br>donor<br>winter<br>include |  
+| bip_39_word_new_br6 | say<br>flush<br>donor<br>winter<br>include<br>street |  
+| bip_39_word_new_br7 | say<br>flush<br>donor<br>winter<br>include<br>street<br>morning |  
+| bip_39_word_new_br8 | say<br>flush<br>donor<br>winter<br>include<br>street<br>morning<br>social |  
+| bip_39_word_new_br9 | say<br>flush<br>donor<br>winter<br>include<br>street<br>morning<br>social<br>exit |  
+| bip_39_word_new_line1 | say |  
+| bip_39_word_new_line10 | say
+flush
+donor
+winter
+include
+street
+morning
+social
+exit
+maid |  
+| bip_39_word_new_line11 | say
+flush
+donor
+winter
+include
+street
+morning
+social
+exit
+maid
+spatial |  
+| bip_39_word_new_line12 | say
+flush
+donor
+winter
+include
+street
+morning
+social
+exit
+maid
+spatial
+average |  
+| bip_39_word_new_line2 | say
+flush |  
+| bip_39_word_new_line3 | say
+flush
+donor |  
+| bip_39_word_new_line4 | say
+flush
+donor
+winter |  
+| bip_39_word_new_line5 | say
+flush
+donor
+winter
+include |  
+| bip_39_word_new_line6 | say
+flush
+donor
+winter
+include
+street |  
+| bip_39_word_new_line7 | say
+flush
+donor
+winter
+include
+street
+morning |  
+| bip_39_word_new_line8 | say
+flush
+donor
+winter
+include
+street
+morning
+social |  
+| bip_39_word_new_line9 | say
+flush
+donor
+winter
+include
+street
+morning
+social
+exit |  
+| bip_39_word_space_0 | ['say', 'flush', 'donor', 'winter', 'include', 'street', 'morning', 'social', 'exit', 'maid', 'spatial', 'average'] |  
+| bip_39_word_space_1 | say |  
+| bip_39_word_space_10 | say flush donor winter include street morning social exit maid |  
+| bip_39_word_space_11 | say flush donor winter include street morning social exit maid spatial |  
+| bip_39_word_space_12 | say flush donor winter include street morning social exit maid spatial average |  
+| bip_39_word_space_2 | say flush |  
+| bip_39_word_space_3 | say flush donor |  
+| bip_39_word_space_4 | say flush donor winter |  
+| bip_39_word_space_5 | say flush donor winter include |  
+| bip_39_word_space_6 | say flush donor winter include street |  
+| bip_39_word_space_7 | say flush donor winter include street morning |  
+| bip_39_word_space_8 | say flush donor winter include street morning social |  
+| bip_39_word_space_9 | say flush donor winter include street morning social exit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

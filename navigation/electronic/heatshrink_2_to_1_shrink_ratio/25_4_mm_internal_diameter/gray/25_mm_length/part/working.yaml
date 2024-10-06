@@ -1,3 +1,187 @@
+bip_39_word_new_br1: apple
+bip_39_word_new_br10: apple<br>before<br>cram<br>tunnel<br>private<br>clerk<br>unveil<br>casual<br>jacket<br>wood
+bip_39_word_new_br11: apple<br>before<br>cram<br>tunnel<br>private<br>clerk<br>unveil<br>casual<br>jacket<br>wood<br>item
+bip_39_word_new_br12: apple<br>before<br>cram<br>tunnel<br>private<br>clerk<br>unveil<br>casual<br>jacket<br>wood<br>item<br>album
+bip_39_word_new_br2: apple<br>before
+bip_39_word_new_br3: apple<br>before<br>cram
+bip_39_word_new_br4: apple<br>before<br>cram<br>tunnel
+bip_39_word_new_br5: apple<br>before<br>cram<br>tunnel<br>private
+bip_39_word_new_br6: apple<br>before<br>cram<br>tunnel<br>private<br>clerk
+bip_39_word_new_br7: apple<br>before<br>cram<br>tunnel<br>private<br>clerk<br>unveil
+bip_39_word_new_br8: apple<br>before<br>cram<br>tunnel<br>private<br>clerk<br>unveil<br>casual
+bip_39_word_new_br9: apple<br>before<br>cram<br>tunnel<br>private<br>clerk<br>unveil<br>casual<br>jacket
+bip_39_word_new_line1: apple
+bip_39_word_new_line10: 'apple
+
+  before
+
+  cram
+
+  tunnel
+
+  private
+
+  clerk
+
+  unveil
+
+  casual
+
+  jacket
+
+  wood'
+bip_39_word_new_line11: 'apple
+
+  before
+
+  cram
+
+  tunnel
+
+  private
+
+  clerk
+
+  unveil
+
+  casual
+
+  jacket
+
+  wood
+
+  item'
+bip_39_word_new_line12: 'apple
+
+  before
+
+  cram
+
+  tunnel
+
+  private
+
+  clerk
+
+  unveil
+
+  casual
+
+  jacket
+
+  wood
+
+  item
+
+  album'
+bip_39_word_new_line2: 'apple
+
+  before'
+bip_39_word_new_line3: 'apple
+
+  before
+
+  cram'
+bip_39_word_new_line4: 'apple
+
+  before
+
+  cram
+
+  tunnel'
+bip_39_word_new_line5: 'apple
+
+  before
+
+  cram
+
+  tunnel
+
+  private'
+bip_39_word_new_line6: 'apple
+
+  before
+
+  cram
+
+  tunnel
+
+  private
+
+  clerk'
+bip_39_word_new_line7: 'apple
+
+  before
+
+  cram
+
+  tunnel
+
+  private
+
+  clerk
+
+  unveil'
+bip_39_word_new_line8: 'apple
+
+  before
+
+  cram
+
+  tunnel
+
+  private
+
+  clerk
+
+  unveil
+
+  casual'
+bip_39_word_new_line9: 'apple
+
+  before
+
+  cram
+
+  tunnel
+
+  private
+
+  clerk
+
+  unveil
+
+  casual
+
+  jacket'
+bip_39_word_space_0:
+- apple
+- before
+- cram
+- tunnel
+- private
+- clerk
+- unveil
+- casual
+- jacket
+- wood
+- item
+- album
+bip_39_word_space_1: apple
+bip_39_word_space_10: apple before cram tunnel private clerk unveil casual jacket
+  wood
+bip_39_word_space_11: apple before cram tunnel private clerk unveil casual jacket
+  wood item
+bip_39_word_space_12: apple before cram tunnel private clerk unveil casual jacket
+  wood item album
+bip_39_word_space_2: apple before
+bip_39_word_space_3: apple before cram
+bip_39_word_space_4: apple before cram tunnel
+bip_39_word_space_5: apple before cram tunnel private
+bip_39_word_space_6: apple before cram tunnel private clerk
+bip_39_word_space_7: apple before cram tunnel private clerk unveil
+bip_39_word_space_8: apple before cram tunnel private clerk unveil casual
+bip_39_word_space_9: apple before cram tunnel private clerk unveil casual jacket
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

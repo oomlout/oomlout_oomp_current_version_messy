@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spring
+bip_39_word_new_br10: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom
+bip_39_word_new_br11: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom<br>ribbon
+bip_39_word_new_br12: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom<br>ribbon<br>art
+bip_39_word_new_br2: spring<br>there
+bip_39_word_new_br3: spring<br>there<br>reward
+bip_39_word_new_br4: spring<br>there<br>reward<br>happy
+bip_39_word_new_br5: spring<br>there<br>reward<br>happy<br>route
+bip_39_word_new_br6: spring<br>there<br>reward<br>happy<br>route<br>vintage
+bip_39_word_new_br7: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide
+bip_39_word_new_br8: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry
+bip_39_word_new_br9: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot
+bip_39_word_new_line1: spring
+bip_39_word_new_line10: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route
+
+  vintage
+
+  slide
+
+  hurry
+
+  foot
+
+  broom'
+bip_39_word_new_line11: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route
+
+  vintage
+
+  slide
+
+  hurry
+
+  foot
+
+  broom
+
+  ribbon'
+bip_39_word_new_line12: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route
+
+  vintage
+
+  slide
+
+  hurry
+
+  foot
+
+  broom
+
+  ribbon
+
+  art'
+bip_39_word_new_line2: 'spring
+
+  there'
+bip_39_word_new_line3: 'spring
+
+  there
+
+  reward'
+bip_39_word_new_line4: 'spring
+
+  there
+
+  reward
+
+  happy'
+bip_39_word_new_line5: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route'
+bip_39_word_new_line6: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route
+
+  vintage'
+bip_39_word_new_line7: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route
+
+  vintage
+
+  slide'
+bip_39_word_new_line8: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route
+
+  vintage
+
+  slide
+
+  hurry'
+bip_39_word_new_line9: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route
+
+  vintage
+
+  slide
+
+  hurry
+
+  foot'
+bip_39_word_space_0:
+- spring
+- there
+- reward
+- happy
+- route
+- vintage
+- slide
+- hurry
+- foot
+- broom
+- ribbon
+- art
+bip_39_word_space_1: spring
+bip_39_word_space_10: spring there reward happy route vintage slide hurry foot broom
+bip_39_word_space_11: spring there reward happy route vintage slide hurry foot broom
+  ribbon
+bip_39_word_space_12: spring there reward happy route vintage slide hurry foot broom
+  ribbon art
+bip_39_word_space_2: spring there
+bip_39_word_space_3: spring there reward
+bip_39_word_space_4: spring there reward happy
+bip_39_word_space_5: spring there reward happy route
+bip_39_word_space_6: spring there reward happy route vintage
+bip_39_word_space_7: spring there reward happy route vintage slide
+bip_39_word_space_8: spring there reward happy route vintage slide hurry
+bip_39_word_space_9: spring there reward happy route vintage slide hurry foot
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

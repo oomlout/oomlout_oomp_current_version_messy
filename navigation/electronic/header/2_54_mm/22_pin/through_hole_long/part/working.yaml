@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mosquito
+bip_39_word_new_br10: mosquito<br>three<br>wolf<br>first<br>stick<br>evil<br>result<br>bind<br>fiber<br>feature
+bip_39_word_new_br11: mosquito<br>three<br>wolf<br>first<br>stick<br>evil<br>result<br>bind<br>fiber<br>feature<br>library
+bip_39_word_new_br12: mosquito<br>three<br>wolf<br>first<br>stick<br>evil<br>result<br>bind<br>fiber<br>feature<br>library<br>advice
+bip_39_word_new_br2: mosquito<br>three
+bip_39_word_new_br3: mosquito<br>three<br>wolf
+bip_39_word_new_br4: mosquito<br>three<br>wolf<br>first
+bip_39_word_new_br5: mosquito<br>three<br>wolf<br>first<br>stick
+bip_39_word_new_br6: mosquito<br>three<br>wolf<br>first<br>stick<br>evil
+bip_39_word_new_br7: mosquito<br>three<br>wolf<br>first<br>stick<br>evil<br>result
+bip_39_word_new_br8: mosquito<br>three<br>wolf<br>first<br>stick<br>evil<br>result<br>bind
+bip_39_word_new_br9: mosquito<br>three<br>wolf<br>first<br>stick<br>evil<br>result<br>bind<br>fiber
+bip_39_word_new_line1: mosquito
+bip_39_word_new_line10: 'mosquito
+
+  three
+
+  wolf
+
+  first
+
+  stick
+
+  evil
+
+  result
+
+  bind
+
+  fiber
+
+  feature'
+bip_39_word_new_line11: 'mosquito
+
+  three
+
+  wolf
+
+  first
+
+  stick
+
+  evil
+
+  result
+
+  bind
+
+  fiber
+
+  feature
+
+  library'
+bip_39_word_new_line12: 'mosquito
+
+  three
+
+  wolf
+
+  first
+
+  stick
+
+  evil
+
+  result
+
+  bind
+
+  fiber
+
+  feature
+
+  library
+
+  advice'
+bip_39_word_new_line2: 'mosquito
+
+  three'
+bip_39_word_new_line3: 'mosquito
+
+  three
+
+  wolf'
+bip_39_word_new_line4: 'mosquito
+
+  three
+
+  wolf
+
+  first'
+bip_39_word_new_line5: 'mosquito
+
+  three
+
+  wolf
+
+  first
+
+  stick'
+bip_39_word_new_line6: 'mosquito
+
+  three
+
+  wolf
+
+  first
+
+  stick
+
+  evil'
+bip_39_word_new_line7: 'mosquito
+
+  three
+
+  wolf
+
+  first
+
+  stick
+
+  evil
+
+  result'
+bip_39_word_new_line8: 'mosquito
+
+  three
+
+  wolf
+
+  first
+
+  stick
+
+  evil
+
+  result
+
+  bind'
+bip_39_word_new_line9: 'mosquito
+
+  three
+
+  wolf
+
+  first
+
+  stick
+
+  evil
+
+  result
+
+  bind
+
+  fiber'
+bip_39_word_space_0:
+- mosquito
+- three
+- wolf
+- first
+- stick
+- evil
+- result
+- bind
+- fiber
+- feature
+- library
+- advice
+bip_39_word_space_1: mosquito
+bip_39_word_space_10: mosquito three wolf first stick evil result bind fiber feature
+bip_39_word_space_11: mosquito three wolf first stick evil result bind fiber feature
+  library
+bip_39_word_space_12: mosquito three wolf first stick evil result bind fiber feature
+  library advice
+bip_39_word_space_2: mosquito three
+bip_39_word_space_3: mosquito three wolf
+bip_39_word_space_4: mosquito three wolf first
+bip_39_word_space_5: mosquito three wolf first stick
+bip_39_word_space_6: mosquito three wolf first stick evil
+bip_39_word_space_7: mosquito three wolf first stick evil result
+bip_39_word_space_8: mosquito three wolf first stick evil result bind
+bip_39_word_space_9: mosquito three wolf first stick evil result bind fiber
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

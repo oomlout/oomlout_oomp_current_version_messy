@@ -1,3 +1,187 @@
+bip_39_word_new_br1: notable
+bip_39_word_new_br10: notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo<br>guilt<br>catalog<br>squeeze<br>lunch
+bip_39_word_new_br11: notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo<br>guilt<br>catalog<br>squeeze<br>lunch<br>kitten
+bip_39_word_new_br12: notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo<br>guilt<br>catalog<br>squeeze<br>lunch<br>kitten<br>autumn
+bip_39_word_new_br2: notable<br>fame
+bip_39_word_new_br3: notable<br>fame<br>brain
+bip_39_word_new_br4: notable<br>fame<br>brain<br>orbit
+bip_39_word_new_br5: notable<br>fame<br>brain<br>orbit<br>wisdom
+bip_39_word_new_br6: notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo
+bip_39_word_new_br7: notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo<br>guilt
+bip_39_word_new_br8: notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo<br>guilt<br>catalog
+bip_39_word_new_br9: notable<br>fame<br>brain<br>orbit<br>wisdom<br>photo<br>guilt<br>catalog<br>squeeze
+bip_39_word_new_line1: notable
+bip_39_word_new_line10: 'notable
+
+  fame
+
+  brain
+
+  orbit
+
+  wisdom
+
+  photo
+
+  guilt
+
+  catalog
+
+  squeeze
+
+  lunch'
+bip_39_word_new_line11: 'notable
+
+  fame
+
+  brain
+
+  orbit
+
+  wisdom
+
+  photo
+
+  guilt
+
+  catalog
+
+  squeeze
+
+  lunch
+
+  kitten'
+bip_39_word_new_line12: 'notable
+
+  fame
+
+  brain
+
+  orbit
+
+  wisdom
+
+  photo
+
+  guilt
+
+  catalog
+
+  squeeze
+
+  lunch
+
+  kitten
+
+  autumn'
+bip_39_word_new_line2: 'notable
+
+  fame'
+bip_39_word_new_line3: 'notable
+
+  fame
+
+  brain'
+bip_39_word_new_line4: 'notable
+
+  fame
+
+  brain
+
+  orbit'
+bip_39_word_new_line5: 'notable
+
+  fame
+
+  brain
+
+  orbit
+
+  wisdom'
+bip_39_word_new_line6: 'notable
+
+  fame
+
+  brain
+
+  orbit
+
+  wisdom
+
+  photo'
+bip_39_word_new_line7: 'notable
+
+  fame
+
+  brain
+
+  orbit
+
+  wisdom
+
+  photo
+
+  guilt'
+bip_39_word_new_line8: 'notable
+
+  fame
+
+  brain
+
+  orbit
+
+  wisdom
+
+  photo
+
+  guilt
+
+  catalog'
+bip_39_word_new_line9: 'notable
+
+  fame
+
+  brain
+
+  orbit
+
+  wisdom
+
+  photo
+
+  guilt
+
+  catalog
+
+  squeeze'
+bip_39_word_space_0:
+- notable
+- fame
+- brain
+- orbit
+- wisdom
+- photo
+- guilt
+- catalog
+- squeeze
+- lunch
+- kitten
+- autumn
+bip_39_word_space_1: notable
+bip_39_word_space_10: notable fame brain orbit wisdom photo guilt catalog squeeze
+  lunch
+bip_39_word_space_11: notable fame brain orbit wisdom photo guilt catalog squeeze
+  lunch kitten
+bip_39_word_space_12: notable fame brain orbit wisdom photo guilt catalog squeeze
+  lunch kitten autumn
+bip_39_word_space_2: notable fame
+bip_39_word_space_3: notable fame brain
+bip_39_word_space_4: notable fame brain orbit
+bip_39_word_space_5: notable fame brain orbit wisdom
+bip_39_word_space_6: notable fame brain orbit wisdom photo
+bip_39_word_space_7: notable fame brain orbit wisdom photo guilt
+bip_39_word_space_8: notable fame brain orbit wisdom photo guilt catalog
+bip_39_word_space_9: notable fame brain orbit wisdom photo guilt catalog squeeze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

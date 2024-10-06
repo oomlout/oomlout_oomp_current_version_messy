@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rely
+bip_39_word_new_br10: rely<br>work<br>vacuum<br>equal<br>police<br>second<br>noble<br>escape<br>breeze<br>all
+bip_39_word_new_br11: rely<br>work<br>vacuum<br>equal<br>police<br>second<br>noble<br>escape<br>breeze<br>all<br>slow
+bip_39_word_new_br12: rely<br>work<br>vacuum<br>equal<br>police<br>second<br>noble<br>escape<br>breeze<br>all<br>slow<br>apple
+bip_39_word_new_br2: rely<br>work
+bip_39_word_new_br3: rely<br>work<br>vacuum
+bip_39_word_new_br4: rely<br>work<br>vacuum<br>equal
+bip_39_word_new_br5: rely<br>work<br>vacuum<br>equal<br>police
+bip_39_word_new_br6: rely<br>work<br>vacuum<br>equal<br>police<br>second
+bip_39_word_new_br7: rely<br>work<br>vacuum<br>equal<br>police<br>second<br>noble
+bip_39_word_new_br8: rely<br>work<br>vacuum<br>equal<br>police<br>second<br>noble<br>escape
+bip_39_word_new_br9: rely<br>work<br>vacuum<br>equal<br>police<br>second<br>noble<br>escape<br>breeze
+bip_39_word_new_line1: rely
+bip_39_word_new_line10: 'rely
+
+  work
+
+  vacuum
+
+  equal
+
+  police
+
+  second
+
+  noble
+
+  escape
+
+  breeze
+
+  all'
+bip_39_word_new_line11: 'rely
+
+  work
+
+  vacuum
+
+  equal
+
+  police
+
+  second
+
+  noble
+
+  escape
+
+  breeze
+
+  all
+
+  slow'
+bip_39_word_new_line12: 'rely
+
+  work
+
+  vacuum
+
+  equal
+
+  police
+
+  second
+
+  noble
+
+  escape
+
+  breeze
+
+  all
+
+  slow
+
+  apple'
+bip_39_word_new_line2: 'rely
+
+  work'
+bip_39_word_new_line3: 'rely
+
+  work
+
+  vacuum'
+bip_39_word_new_line4: 'rely
+
+  work
+
+  vacuum
+
+  equal'
+bip_39_word_new_line5: 'rely
+
+  work
+
+  vacuum
+
+  equal
+
+  police'
+bip_39_word_new_line6: 'rely
+
+  work
+
+  vacuum
+
+  equal
+
+  police
+
+  second'
+bip_39_word_new_line7: 'rely
+
+  work
+
+  vacuum
+
+  equal
+
+  police
+
+  second
+
+  noble'
+bip_39_word_new_line8: 'rely
+
+  work
+
+  vacuum
+
+  equal
+
+  police
+
+  second
+
+  noble
+
+  escape'
+bip_39_word_new_line9: 'rely
+
+  work
+
+  vacuum
+
+  equal
+
+  police
+
+  second
+
+  noble
+
+  escape
+
+  breeze'
+bip_39_word_space_0:
+- rely
+- work
+- vacuum
+- equal
+- police
+- second
+- noble
+- escape
+- breeze
+- all
+- slow
+- apple
+bip_39_word_space_1: rely
+bip_39_word_space_10: rely work vacuum equal police second noble escape breeze all
+bip_39_word_space_11: rely work vacuum equal police second noble escape breeze all
+  slow
+bip_39_word_space_12: rely work vacuum equal police second noble escape breeze all
+  slow apple
+bip_39_word_space_2: rely work
+bip_39_word_space_3: rely work vacuum
+bip_39_word_space_4: rely work vacuum equal
+bip_39_word_space_5: rely work vacuum equal police
+bip_39_word_space_6: rely work vacuum equal police second
+bip_39_word_space_7: rely work vacuum equal police second noble
+bip_39_word_space_8: rely work vacuum equal police second noble escape
+bip_39_word_space_9: rely work vacuum equal police second noble escape breeze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: stairs
+bip_39_word_new_br10: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale
+bip_39_word_new_br11: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale<br>define
+bip_39_word_new_br12: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty<br>whale<br>define<br>armed
+bip_39_word_new_br2: stairs<br>rely
+bip_39_word_new_br3: stairs<br>rely<br>carpet
+bip_39_word_new_br4: stairs<br>rely<br>carpet<br>pear
+bip_39_word_new_br5: stairs<br>rely<br>carpet<br>pear<br>mind
+bip_39_word_new_br6: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs
+bip_39_word_new_br7: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger
+bip_39_word_new_br8: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest
+bip_39_word_new_br9: stairs<br>rely<br>carpet<br>pear<br>mind<br>stairs<br>trigger<br>chest<br>pretty
+bip_39_word_new_line1: stairs
+bip_39_word_new_line10: 'stairs
+
+  rely
+
+  carpet
+
+  pear
+
+  mind
+
+  stairs
+
+  trigger
+
+  chest
+
+  pretty
+
+  whale'
+bip_39_word_new_line11: 'stairs
+
+  rely
+
+  carpet
+
+  pear
+
+  mind
+
+  stairs
+
+  trigger
+
+  chest
+
+  pretty
+
+  whale
+
+  define'
+bip_39_word_new_line12: 'stairs
+
+  rely
+
+  carpet
+
+  pear
+
+  mind
+
+  stairs
+
+  trigger
+
+  chest
+
+  pretty
+
+  whale
+
+  define
+
+  armed'
+bip_39_word_new_line2: 'stairs
+
+  rely'
+bip_39_word_new_line3: 'stairs
+
+  rely
+
+  carpet'
+bip_39_word_new_line4: 'stairs
+
+  rely
+
+  carpet
+
+  pear'
+bip_39_word_new_line5: 'stairs
+
+  rely
+
+  carpet
+
+  pear
+
+  mind'
+bip_39_word_new_line6: 'stairs
+
+  rely
+
+  carpet
+
+  pear
+
+  mind
+
+  stairs'
+bip_39_word_new_line7: 'stairs
+
+  rely
+
+  carpet
+
+  pear
+
+  mind
+
+  stairs
+
+  trigger'
+bip_39_word_new_line8: 'stairs
+
+  rely
+
+  carpet
+
+  pear
+
+  mind
+
+  stairs
+
+  trigger
+
+  chest'
+bip_39_word_new_line9: 'stairs
+
+  rely
+
+  carpet
+
+  pear
+
+  mind
+
+  stairs
+
+  trigger
+
+  chest
+
+  pretty'
+bip_39_word_space_0:
+- stairs
+- rely
+- carpet
+- pear
+- mind
+- stairs
+- trigger
+- chest
+- pretty
+- whale
+- define
+- armed
+bip_39_word_space_1: stairs
+bip_39_word_space_10: stairs rely carpet pear mind stairs trigger chest pretty whale
+bip_39_word_space_11: stairs rely carpet pear mind stairs trigger chest pretty whale
+  define
+bip_39_word_space_12: stairs rely carpet pear mind stairs trigger chest pretty whale
+  define armed
+bip_39_word_space_2: stairs rely
+bip_39_word_space_3: stairs rely carpet
+bip_39_word_space_4: stairs rely carpet pear
+bip_39_word_space_5: stairs rely carpet pear mind
+bip_39_word_space_6: stairs rely carpet pear mind stairs
+bip_39_word_space_7: stairs rely carpet pear mind stairs trigger
+bip_39_word_space_8: stairs rely carpet pear mind stairs trigger chest
+bip_39_word_space_9: stairs rely carpet pear mind stairs trigger chest pretty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

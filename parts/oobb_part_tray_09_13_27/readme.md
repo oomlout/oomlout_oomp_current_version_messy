@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: worth sound
+  * bip 39 word 3: worth sound ivory
+  * bip 39 word: worth sound ivory number rapid clinic chalk bus tiger fuel ramp always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | worth |  
+| bip_39_word_new_br10 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel |  
+| bip_39_word_new_br11 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel<br>ramp |  
+| bip_39_word_new_br12 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger<br>fuel<br>ramp<br>always |  
+| bip_39_word_new_br2 | worth<br>sound |  
+| bip_39_word_new_br3 | worth<br>sound<br>ivory |  
+| bip_39_word_new_br4 | worth<br>sound<br>ivory<br>number |  
+| bip_39_word_new_br5 | worth<br>sound<br>ivory<br>number<br>rapid |  
+| bip_39_word_new_br6 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic |  
+| bip_39_word_new_br7 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk |  
+| bip_39_word_new_br8 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus |  
+| bip_39_word_new_br9 | worth<br>sound<br>ivory<br>number<br>rapid<br>clinic<br>chalk<br>bus<br>tiger |  
+| bip_39_word_new_line1 | worth |  
+| bip_39_word_new_line10 | worth
+sound
+ivory
+number
+rapid
+clinic
+chalk
+bus
+tiger
+fuel |  
+| bip_39_word_new_line11 | worth
+sound
+ivory
+number
+rapid
+clinic
+chalk
+bus
+tiger
+fuel
+ramp |  
+| bip_39_word_new_line12 | worth
+sound
+ivory
+number
+rapid
+clinic
+chalk
+bus
+tiger
+fuel
+ramp
+always |  
+| bip_39_word_new_line2 | worth
+sound |  
+| bip_39_word_new_line3 | worth
+sound
+ivory |  
+| bip_39_word_new_line4 | worth
+sound
+ivory
+number |  
+| bip_39_word_new_line5 | worth
+sound
+ivory
+number
+rapid |  
+| bip_39_word_new_line6 | worth
+sound
+ivory
+number
+rapid
+clinic |  
+| bip_39_word_new_line7 | worth
+sound
+ivory
+number
+rapid
+clinic
+chalk |  
+| bip_39_word_new_line8 | worth
+sound
+ivory
+number
+rapid
+clinic
+chalk
+bus |  
+| bip_39_word_new_line9 | worth
+sound
+ivory
+number
+rapid
+clinic
+chalk
+bus
+tiger |  
+| bip_39_word_space_0 | ['worth', 'sound', 'ivory', 'number', 'rapid', 'clinic', 'chalk', 'bus', 'tiger', 'fuel', 'ramp', 'always'] |  
+| bip_39_word_space_1 | worth |  
+| bip_39_word_space_10 | worth sound ivory number rapid clinic chalk bus tiger fuel |  
+| bip_39_word_space_11 | worth sound ivory number rapid clinic chalk bus tiger fuel ramp |  
+| bip_39_word_space_12 | worth sound ivory number rapid clinic chalk bus tiger fuel ramp always |  
+| bip_39_word_space_2 | worth sound |  
+| bip_39_word_space_3 | worth sound ivory |  
+| bip_39_word_space_4 | worth sound ivory number |  
+| bip_39_word_space_5 | worth sound ivory number rapid |  
+| bip_39_word_space_6 | worth sound ivory number rapid clinic |  
+| bip_39_word_space_7 | worth sound ivory number rapid clinic chalk |  
+| bip_39_word_space_8 | worth sound ivory number rapid clinic chalk bus |  
+| bip_39_word_space_9 | worth sound ivory number rapid clinic chalk bus tiger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

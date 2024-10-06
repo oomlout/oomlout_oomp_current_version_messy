@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stadium visa
+  * bip 39 word 3: stadium visa anxiety
+  * bip 39 word: stadium visa anxiety pudding present close depend town sense vocal cattle arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stadium |  
+| bip_39_word_new_br10 | stadium<br>visa<br>anxiety<br>pudding<br>present<br>close<br>depend<br>town<br>sense<br>vocal |  
+| bip_39_word_new_br11 | stadium<br>visa<br>anxiety<br>pudding<br>present<br>close<br>depend<br>town<br>sense<br>vocal<br>cattle |  
+| bip_39_word_new_br12 | stadium<br>visa<br>anxiety<br>pudding<br>present<br>close<br>depend<br>town<br>sense<br>vocal<br>cattle<br>arrow |  
+| bip_39_word_new_br2 | stadium<br>visa |  
+| bip_39_word_new_br3 | stadium<br>visa<br>anxiety |  
+| bip_39_word_new_br4 | stadium<br>visa<br>anxiety<br>pudding |  
+| bip_39_word_new_br5 | stadium<br>visa<br>anxiety<br>pudding<br>present |  
+| bip_39_word_new_br6 | stadium<br>visa<br>anxiety<br>pudding<br>present<br>close |  
+| bip_39_word_new_br7 | stadium<br>visa<br>anxiety<br>pudding<br>present<br>close<br>depend |  
+| bip_39_word_new_br8 | stadium<br>visa<br>anxiety<br>pudding<br>present<br>close<br>depend<br>town |  
+| bip_39_word_new_br9 | stadium<br>visa<br>anxiety<br>pudding<br>present<br>close<br>depend<br>town<br>sense |  
+| bip_39_word_new_line1 | stadium |  
+| bip_39_word_new_line10 | stadium
+visa
+anxiety
+pudding
+present
+close
+depend
+town
+sense
+vocal |  
+| bip_39_word_new_line11 | stadium
+visa
+anxiety
+pudding
+present
+close
+depend
+town
+sense
+vocal
+cattle |  
+| bip_39_word_new_line12 | stadium
+visa
+anxiety
+pudding
+present
+close
+depend
+town
+sense
+vocal
+cattle
+arrow |  
+| bip_39_word_new_line2 | stadium
+visa |  
+| bip_39_word_new_line3 | stadium
+visa
+anxiety |  
+| bip_39_word_new_line4 | stadium
+visa
+anxiety
+pudding |  
+| bip_39_word_new_line5 | stadium
+visa
+anxiety
+pudding
+present |  
+| bip_39_word_new_line6 | stadium
+visa
+anxiety
+pudding
+present
+close |  
+| bip_39_word_new_line7 | stadium
+visa
+anxiety
+pudding
+present
+close
+depend |  
+| bip_39_word_new_line8 | stadium
+visa
+anxiety
+pudding
+present
+close
+depend
+town |  
+| bip_39_word_new_line9 | stadium
+visa
+anxiety
+pudding
+present
+close
+depend
+town
+sense |  
+| bip_39_word_space_0 | ['stadium', 'visa', 'anxiety', 'pudding', 'present', 'close', 'depend', 'town', 'sense', 'vocal', 'cattle', 'arrow'] |  
+| bip_39_word_space_1 | stadium |  
+| bip_39_word_space_10 | stadium visa anxiety pudding present close depend town sense vocal |  
+| bip_39_word_space_11 | stadium visa anxiety pudding present close depend town sense vocal cattle |  
+| bip_39_word_space_12 | stadium visa anxiety pudding present close depend town sense vocal cattle arrow |  
+| bip_39_word_space_2 | stadium visa |  
+| bip_39_word_space_3 | stadium visa anxiety |  
+| bip_39_word_space_4 | stadium visa anxiety pudding |  
+| bip_39_word_space_5 | stadium visa anxiety pudding present |  
+| bip_39_word_space_6 | stadium visa anxiety pudding present close |  
+| bip_39_word_space_7 | stadium visa anxiety pudding present close depend |  
+| bip_39_word_space_8 | stadium visa anxiety pudding present close depend town |  
+| bip_39_word_space_9 | stadium visa anxiety pudding present close depend town sense |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

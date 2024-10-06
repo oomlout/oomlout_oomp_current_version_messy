@@ -1,3 +1,159 @@
+bip_39_word_new_br1: away
+bip_39_word_new_br10: away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch<br>quit
+bip_39_word_new_br11: away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch<br>quit<br>style
+bip_39_word_new_br2: away<br>fog
+bip_39_word_new_br3: away<br>fog<br>uncover
+bip_39_word_new_br4: away<br>fog<br>uncover<br>total
+bip_39_word_new_br5: away<br>fog<br>uncover<br>total<br>process
+bip_39_word_new_br6: away<br>fog<br>uncover<br>total<br>process<br>legal
+bip_39_word_new_br7: away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon
+bip_39_word_new_br8: away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide
+bip_39_word_new_br9: away<br>fog<br>uncover<br>total<br>process<br>legal<br>canyon<br>guide<br>crouch
+bip_39_word_new_line1: away
+bip_39_word_new_line10: 'away
+
+  fog
+
+  uncover
+
+  total
+
+  process
+
+  legal
+
+  canyon
+
+  guide
+
+  crouch
+
+  quit'
+bip_39_word_new_line11: 'away
+
+  fog
+
+  uncover
+
+  total
+
+  process
+
+  legal
+
+  canyon
+
+  guide
+
+  crouch
+
+  quit
+
+  style'
+bip_39_word_new_line2: 'away
+
+  fog'
+bip_39_word_new_line3: 'away
+
+  fog
+
+  uncover'
+bip_39_word_new_line4: 'away
+
+  fog
+
+  uncover
+
+  total'
+bip_39_word_new_line5: 'away
+
+  fog
+
+  uncover
+
+  total
+
+  process'
+bip_39_word_new_line6: 'away
+
+  fog
+
+  uncover
+
+  total
+
+  process
+
+  legal'
+bip_39_word_new_line7: 'away
+
+  fog
+
+  uncover
+
+  total
+
+  process
+
+  legal
+
+  canyon'
+bip_39_word_new_line8: 'away
+
+  fog
+
+  uncover
+
+  total
+
+  process
+
+  legal
+
+  canyon
+
+  guide'
+bip_39_word_new_line9: 'away
+
+  fog
+
+  uncover
+
+  total
+
+  process
+
+  legal
+
+  canyon
+
+  guide
+
+  crouch'
+bip_39_word_space_0:
+- away
+- fog
+- uncover
+- total
+- process
+- legal
+- canyon
+- guide
+- crouch
+- quit
+- style
+bip_39_word_space_1: away
+bip_39_word_space_10: away fog uncover total process legal canyon guide crouch quit
+bip_39_word_space_11: away fog uncover total process legal canyon guide crouch quit
+  style
+bip_39_word_space_2: away fog
+bip_39_word_space_3: away fog uncover
+bip_39_word_space_4: away fog uncover total
+bip_39_word_space_5: away fog uncover total process
+bip_39_word_space_6: away fog uncover total process legal
+bip_39_word_space_7: away fog uncover total process legal canyon
+bip_39_word_space_8: away fog uncover total process legal canyon guide
+bip_39_word_space_9: away fog uncover total process legal canyon guide crouch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

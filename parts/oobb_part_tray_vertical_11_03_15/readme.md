@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kangaroo flat
+  * bip 39 word 3: kangaroo flat marriage
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kangaroo |  
+| bip_39_word_new_br10 | kangaroo<br>flat<br>marriage<br>alien<br>ancient<br>federal<br>physical<br>web<br>require<br>thumb |  
+| bip_39_word_new_br11 | kangaroo<br>flat<br>marriage<br>alien<br>ancient<br>federal<br>physical<br>web<br>require<br>thumb<br>cement |  
+| bip_39_word_new_br2 | kangaroo<br>flat |  
+| bip_39_word_new_br3 | kangaroo<br>flat<br>marriage |  
+| bip_39_word_new_br4 | kangaroo<br>flat<br>marriage<br>alien |  
+| bip_39_word_new_br5 | kangaroo<br>flat<br>marriage<br>alien<br>ancient |  
+| bip_39_word_new_br6 | kangaroo<br>flat<br>marriage<br>alien<br>ancient<br>federal |  
+| bip_39_word_new_br7 | kangaroo<br>flat<br>marriage<br>alien<br>ancient<br>federal<br>physical |  
+| bip_39_word_new_br8 | kangaroo<br>flat<br>marriage<br>alien<br>ancient<br>federal<br>physical<br>web |  
+| bip_39_word_new_br9 | kangaroo<br>flat<br>marriage<br>alien<br>ancient<br>federal<br>physical<br>web<br>require |  
+| bip_39_word_new_line1 | kangaroo |  
+| bip_39_word_new_line10 | kangaroo
+flat
+marriage
+alien
+ancient
+federal
+physical
+web
+require
+thumb |  
+| bip_39_word_new_line11 | kangaroo
+flat
+marriage
+alien
+ancient
+federal
+physical
+web
+require
+thumb
+cement |  
+| bip_39_word_new_line2 | kangaroo
+flat |  
+| bip_39_word_new_line3 | kangaroo
+flat
+marriage |  
+| bip_39_word_new_line4 | kangaroo
+flat
+marriage
+alien |  
+| bip_39_word_new_line5 | kangaroo
+flat
+marriage
+alien
+ancient |  
+| bip_39_word_new_line6 | kangaroo
+flat
+marriage
+alien
+ancient
+federal |  
+| bip_39_word_new_line7 | kangaroo
+flat
+marriage
+alien
+ancient
+federal
+physical |  
+| bip_39_word_new_line8 | kangaroo
+flat
+marriage
+alien
+ancient
+federal
+physical
+web |  
+| bip_39_word_new_line9 | kangaroo
+flat
+marriage
+alien
+ancient
+federal
+physical
+web
+require |  
+| bip_39_word_space_0 | ['kangaroo', 'flat', 'marriage', 'alien', 'ancient', 'federal', 'physical', 'web', 'require', 'thumb', 'cement'] |  
+| bip_39_word_space_1 | kangaroo |  
+| bip_39_word_space_10 | kangaroo flat marriage alien ancient federal physical web require thumb |  
+| bip_39_word_space_11 | kangaroo flat marriage alien ancient federal physical web require thumb cement |  
+| bip_39_word_space_2 | kangaroo flat |  
+| bip_39_word_space_3 | kangaroo flat marriage |  
+| bip_39_word_space_4 | kangaroo flat marriage alien |  
+| bip_39_word_space_5 | kangaroo flat marriage alien ancient |  
+| bip_39_word_space_6 | kangaroo flat marriage alien ancient federal |  
+| bip_39_word_space_7 | kangaroo flat marriage alien ancient federal physical |  
+| bip_39_word_space_8 | kangaroo flat marriage alien ancient federal physical web |  
+| bip_39_word_space_9 | kangaroo flat marriage alien ancient federal physical web require |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pottery
+bip_39_word_new_br10: pottery<br>divorce<br>pave<br>maze<br>ozone<br>client<br>team<br>smooth<br>dry<br>cannon
+bip_39_word_new_br11: pottery<br>divorce<br>pave<br>maze<br>ozone<br>client<br>team<br>smooth<br>dry<br>cannon<br>social
+bip_39_word_new_br12: pottery<br>divorce<br>pave<br>maze<br>ozone<br>client<br>team<br>smooth<br>dry<br>cannon<br>social<br>above
+bip_39_word_new_br2: pottery<br>divorce
+bip_39_word_new_br3: pottery<br>divorce<br>pave
+bip_39_word_new_br4: pottery<br>divorce<br>pave<br>maze
+bip_39_word_new_br5: pottery<br>divorce<br>pave<br>maze<br>ozone
+bip_39_word_new_br6: pottery<br>divorce<br>pave<br>maze<br>ozone<br>client
+bip_39_word_new_br7: pottery<br>divorce<br>pave<br>maze<br>ozone<br>client<br>team
+bip_39_word_new_br8: pottery<br>divorce<br>pave<br>maze<br>ozone<br>client<br>team<br>smooth
+bip_39_word_new_br9: pottery<br>divorce<br>pave<br>maze<br>ozone<br>client<br>team<br>smooth<br>dry
+bip_39_word_new_line1: pottery
+bip_39_word_new_line10: 'pottery
+
+  divorce
+
+  pave
+
+  maze
+
+  ozone
+
+  client
+
+  team
+
+  smooth
+
+  dry
+
+  cannon'
+bip_39_word_new_line11: 'pottery
+
+  divorce
+
+  pave
+
+  maze
+
+  ozone
+
+  client
+
+  team
+
+  smooth
+
+  dry
+
+  cannon
+
+  social'
+bip_39_word_new_line12: 'pottery
+
+  divorce
+
+  pave
+
+  maze
+
+  ozone
+
+  client
+
+  team
+
+  smooth
+
+  dry
+
+  cannon
+
+  social
+
+  above'
+bip_39_word_new_line2: 'pottery
+
+  divorce'
+bip_39_word_new_line3: 'pottery
+
+  divorce
+
+  pave'
+bip_39_word_new_line4: 'pottery
+
+  divorce
+
+  pave
+
+  maze'
+bip_39_word_new_line5: 'pottery
+
+  divorce
+
+  pave
+
+  maze
+
+  ozone'
+bip_39_word_new_line6: 'pottery
+
+  divorce
+
+  pave
+
+  maze
+
+  ozone
+
+  client'
+bip_39_word_new_line7: 'pottery
+
+  divorce
+
+  pave
+
+  maze
+
+  ozone
+
+  client
+
+  team'
+bip_39_word_new_line8: 'pottery
+
+  divorce
+
+  pave
+
+  maze
+
+  ozone
+
+  client
+
+  team
+
+  smooth'
+bip_39_word_new_line9: 'pottery
+
+  divorce
+
+  pave
+
+  maze
+
+  ozone
+
+  client
+
+  team
+
+  smooth
+
+  dry'
+bip_39_word_space_0:
+- pottery
+- divorce
+- pave
+- maze
+- ozone
+- client
+- team
+- smooth
+- dry
+- cannon
+- social
+- above
+bip_39_word_space_1: pottery
+bip_39_word_space_10: pottery divorce pave maze ozone client team smooth dry cannon
+bip_39_word_space_11: pottery divorce pave maze ozone client team smooth dry cannon
+  social
+bip_39_word_space_12: pottery divorce pave maze ozone client team smooth dry cannon
+  social above
+bip_39_word_space_2: pottery divorce
+bip_39_word_space_3: pottery divorce pave
+bip_39_word_space_4: pottery divorce pave maze
+bip_39_word_space_5: pottery divorce pave maze ozone
+bip_39_word_space_6: pottery divorce pave maze ozone client
+bip_39_word_space_7: pottery divorce pave maze ozone client team
+bip_39_word_space_8: pottery divorce pave maze ozone client team smooth
+bip_39_word_space_9: pottery divorce pave maze ozone client team smooth dry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

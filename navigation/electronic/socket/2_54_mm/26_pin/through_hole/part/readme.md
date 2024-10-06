@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: close just
+  * bip 39 word 3: close just pigeon
+  * bip 39 word: close just pigeon chuckle game behind armed nut grid fashion endless advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | close |  
+| bip_39_word_new_br10 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion |  
+| bip_39_word_new_br11 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion<br>endless |  
+| bip_39_word_new_br12 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid<br>fashion<br>endless<br>advice |  
+| bip_39_word_new_br2 | close<br>just |  
+| bip_39_word_new_br3 | close<br>just<br>pigeon |  
+| bip_39_word_new_br4 | close<br>just<br>pigeon<br>chuckle |  
+| bip_39_word_new_br5 | close<br>just<br>pigeon<br>chuckle<br>game |  
+| bip_39_word_new_br6 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind |  
+| bip_39_word_new_br7 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed |  
+| bip_39_word_new_br8 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut |  
+| bip_39_word_new_br9 | close<br>just<br>pigeon<br>chuckle<br>game<br>behind<br>armed<br>nut<br>grid |  
+| bip_39_word_new_line1 | close |  
+| bip_39_word_new_line10 | close
+just
+pigeon
+chuckle
+game
+behind
+armed
+nut
+grid
+fashion |  
+| bip_39_word_new_line11 | close
+just
+pigeon
+chuckle
+game
+behind
+armed
+nut
+grid
+fashion
+endless |  
+| bip_39_word_new_line12 | close
+just
+pigeon
+chuckle
+game
+behind
+armed
+nut
+grid
+fashion
+endless
+advice |  
+| bip_39_word_new_line2 | close
+just |  
+| bip_39_word_new_line3 | close
+just
+pigeon |  
+| bip_39_word_new_line4 | close
+just
+pigeon
+chuckle |  
+| bip_39_word_new_line5 | close
+just
+pigeon
+chuckle
+game |  
+| bip_39_word_new_line6 | close
+just
+pigeon
+chuckle
+game
+behind |  
+| bip_39_word_new_line7 | close
+just
+pigeon
+chuckle
+game
+behind
+armed |  
+| bip_39_word_new_line8 | close
+just
+pigeon
+chuckle
+game
+behind
+armed
+nut |  
+| bip_39_word_new_line9 | close
+just
+pigeon
+chuckle
+game
+behind
+armed
+nut
+grid |  
+| bip_39_word_space_0 | ['close', 'just', 'pigeon', 'chuckle', 'game', 'behind', 'armed', 'nut', 'grid', 'fashion', 'endless', 'advice'] |  
+| bip_39_word_space_1 | close |  
+| bip_39_word_space_10 | close just pigeon chuckle game behind armed nut grid fashion |  
+| bip_39_word_space_11 | close just pigeon chuckle game behind armed nut grid fashion endless |  
+| bip_39_word_space_12 | close just pigeon chuckle game behind armed nut grid fashion endless advice |  
+| bip_39_word_space_2 | close just |  
+| bip_39_word_space_3 | close just pigeon |  
+| bip_39_word_space_4 | close just pigeon chuckle |  
+| bip_39_word_space_5 | close just pigeon chuckle game |  
+| bip_39_word_space_6 | close just pigeon chuckle game behind |  
+| bip_39_word_space_7 | close just pigeon chuckle game behind armed |  
+| bip_39_word_space_8 | close just pigeon chuckle game behind armed nut |  
+| bip_39_word_space_9 | close just pigeon chuckle game behind armed nut grid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

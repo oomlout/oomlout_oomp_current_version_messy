@@ -1,3 +1,186 @@
+bip_39_word_new_br1: kind
+bip_39_word_new_br10: kind<br>matrix<br>regret<br>girl<br>august<br>inner<br>argue<br>like<br>lobster<br>adapt
+bip_39_word_new_br11: kind<br>matrix<br>regret<br>girl<br>august<br>inner<br>argue<br>like<br>lobster<br>adapt<br>gym
+bip_39_word_new_br12: kind<br>matrix<br>regret<br>girl<br>august<br>inner<br>argue<br>like<br>lobster<br>adapt<br>gym<br>acoustic
+bip_39_word_new_br2: kind<br>matrix
+bip_39_word_new_br3: kind<br>matrix<br>regret
+bip_39_word_new_br4: kind<br>matrix<br>regret<br>girl
+bip_39_word_new_br5: kind<br>matrix<br>regret<br>girl<br>august
+bip_39_word_new_br6: kind<br>matrix<br>regret<br>girl<br>august<br>inner
+bip_39_word_new_br7: kind<br>matrix<br>regret<br>girl<br>august<br>inner<br>argue
+bip_39_word_new_br8: kind<br>matrix<br>regret<br>girl<br>august<br>inner<br>argue<br>like
+bip_39_word_new_br9: kind<br>matrix<br>regret<br>girl<br>august<br>inner<br>argue<br>like<br>lobster
+bip_39_word_new_line1: kind
+bip_39_word_new_line10: 'kind
+
+  matrix
+
+  regret
+
+  girl
+
+  august
+
+  inner
+
+  argue
+
+  like
+
+  lobster
+
+  adapt'
+bip_39_word_new_line11: 'kind
+
+  matrix
+
+  regret
+
+  girl
+
+  august
+
+  inner
+
+  argue
+
+  like
+
+  lobster
+
+  adapt
+
+  gym'
+bip_39_word_new_line12: 'kind
+
+  matrix
+
+  regret
+
+  girl
+
+  august
+
+  inner
+
+  argue
+
+  like
+
+  lobster
+
+  adapt
+
+  gym
+
+  acoustic'
+bip_39_word_new_line2: 'kind
+
+  matrix'
+bip_39_word_new_line3: 'kind
+
+  matrix
+
+  regret'
+bip_39_word_new_line4: 'kind
+
+  matrix
+
+  regret
+
+  girl'
+bip_39_word_new_line5: 'kind
+
+  matrix
+
+  regret
+
+  girl
+
+  august'
+bip_39_word_new_line6: 'kind
+
+  matrix
+
+  regret
+
+  girl
+
+  august
+
+  inner'
+bip_39_word_new_line7: 'kind
+
+  matrix
+
+  regret
+
+  girl
+
+  august
+
+  inner
+
+  argue'
+bip_39_word_new_line8: 'kind
+
+  matrix
+
+  regret
+
+  girl
+
+  august
+
+  inner
+
+  argue
+
+  like'
+bip_39_word_new_line9: 'kind
+
+  matrix
+
+  regret
+
+  girl
+
+  august
+
+  inner
+
+  argue
+
+  like
+
+  lobster'
+bip_39_word_space_0:
+- kind
+- matrix
+- regret
+- girl
+- august
+- inner
+- argue
+- like
+- lobster
+- adapt
+- gym
+- acoustic
+bip_39_word_space_1: kind
+bip_39_word_space_10: kind matrix regret girl august inner argue like lobster adapt
+bip_39_word_space_11: kind matrix regret girl august inner argue like lobster adapt
+  gym
+bip_39_word_space_12: kind matrix regret girl august inner argue like lobster adapt
+  gym acoustic
+bip_39_word_space_2: kind matrix
+bip_39_word_space_3: kind matrix regret
+bip_39_word_space_4: kind matrix regret girl
+bip_39_word_space_5: kind matrix regret girl august
+bip_39_word_space_6: kind matrix regret girl august inner
+bip_39_word_space_7: kind matrix regret girl august inner argue
+bip_39_word_space_8: kind matrix regret girl august inner argue like
+bip_39_word_space_9: kind matrix regret girl august inner argue like lobster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

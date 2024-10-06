@@ -1,3 +1,186 @@
+bip_39_word_new_br1: engine
+bip_39_word_new_br10: engine<br>area<br>quality<br>tone<br>spray<br>winter<br>latin<br>escape<br>couch<br>dice
+bip_39_word_new_br11: engine<br>area<br>quality<br>tone<br>spray<br>winter<br>latin<br>escape<br>couch<br>dice<br>left
+bip_39_word_new_br12: engine<br>area<br>quality<br>tone<br>spray<br>winter<br>latin<br>escape<br>couch<br>dice<br>left<br>average
+bip_39_word_new_br2: engine<br>area
+bip_39_word_new_br3: engine<br>area<br>quality
+bip_39_word_new_br4: engine<br>area<br>quality<br>tone
+bip_39_word_new_br5: engine<br>area<br>quality<br>tone<br>spray
+bip_39_word_new_br6: engine<br>area<br>quality<br>tone<br>spray<br>winter
+bip_39_word_new_br7: engine<br>area<br>quality<br>tone<br>spray<br>winter<br>latin
+bip_39_word_new_br8: engine<br>area<br>quality<br>tone<br>spray<br>winter<br>latin<br>escape
+bip_39_word_new_br9: engine<br>area<br>quality<br>tone<br>spray<br>winter<br>latin<br>escape<br>couch
+bip_39_word_new_line1: engine
+bip_39_word_new_line10: 'engine
+
+  area
+
+  quality
+
+  tone
+
+  spray
+
+  winter
+
+  latin
+
+  escape
+
+  couch
+
+  dice'
+bip_39_word_new_line11: 'engine
+
+  area
+
+  quality
+
+  tone
+
+  spray
+
+  winter
+
+  latin
+
+  escape
+
+  couch
+
+  dice
+
+  left'
+bip_39_word_new_line12: 'engine
+
+  area
+
+  quality
+
+  tone
+
+  spray
+
+  winter
+
+  latin
+
+  escape
+
+  couch
+
+  dice
+
+  left
+
+  average'
+bip_39_word_new_line2: 'engine
+
+  area'
+bip_39_word_new_line3: 'engine
+
+  area
+
+  quality'
+bip_39_word_new_line4: 'engine
+
+  area
+
+  quality
+
+  tone'
+bip_39_word_new_line5: 'engine
+
+  area
+
+  quality
+
+  tone
+
+  spray'
+bip_39_word_new_line6: 'engine
+
+  area
+
+  quality
+
+  tone
+
+  spray
+
+  winter'
+bip_39_word_new_line7: 'engine
+
+  area
+
+  quality
+
+  tone
+
+  spray
+
+  winter
+
+  latin'
+bip_39_word_new_line8: 'engine
+
+  area
+
+  quality
+
+  tone
+
+  spray
+
+  winter
+
+  latin
+
+  escape'
+bip_39_word_new_line9: 'engine
+
+  area
+
+  quality
+
+  tone
+
+  spray
+
+  winter
+
+  latin
+
+  escape
+
+  couch'
+bip_39_word_space_0:
+- engine
+- area
+- quality
+- tone
+- spray
+- winter
+- latin
+- escape
+- couch
+- dice
+- left
+- average
+bip_39_word_space_1: engine
+bip_39_word_space_10: engine area quality tone spray winter latin escape couch dice
+bip_39_word_space_11: engine area quality tone spray winter latin escape couch dice
+  left
+bip_39_word_space_12: engine area quality tone spray winter latin escape couch dice
+  left average
+bip_39_word_space_2: engine area
+bip_39_word_space_3: engine area quality
+bip_39_word_space_4: engine area quality tone
+bip_39_word_space_5: engine area quality tone spray
+bip_39_word_space_6: engine area quality tone spray winter
+bip_39_word_space_7: engine area quality tone spray winter latin
+bip_39_word_space_8: engine area quality tone spray winter latin escape
+bip_39_word_space_9: engine area quality tone spray winter latin escape couch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

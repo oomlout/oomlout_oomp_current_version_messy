@@ -1,3 +1,186 @@
+bip_39_word_new_br1: among
+bip_39_word_new_br10: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country
+bip_39_word_new_br11: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country<br>border
+bip_39_word_new_br12: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer<br>country<br>border<br>apple
+bip_39_word_new_br2: among<br>swift
+bip_39_word_new_br3: among<br>swift<br>frozen
+bip_39_word_new_br4: among<br>swift<br>frozen<br>glue
+bip_39_word_new_br5: among<br>swift<br>frozen<br>glue<br>legend
+bip_39_word_new_br6: among<br>swift<br>frozen<br>glue<br>legend<br>faculty
+bip_39_word_new_br7: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case
+bip_39_word_new_br8: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick
+bip_39_word_new_br9: among<br>swift<br>frozen<br>glue<br>legend<br>faculty<br>case<br>stick<br>suffer
+bip_39_word_new_line1: among
+bip_39_word_new_line10: 'among
+
+  swift
+
+  frozen
+
+  glue
+
+  legend
+
+  faculty
+
+  case
+
+  stick
+
+  suffer
+
+  country'
+bip_39_word_new_line11: 'among
+
+  swift
+
+  frozen
+
+  glue
+
+  legend
+
+  faculty
+
+  case
+
+  stick
+
+  suffer
+
+  country
+
+  border'
+bip_39_word_new_line12: 'among
+
+  swift
+
+  frozen
+
+  glue
+
+  legend
+
+  faculty
+
+  case
+
+  stick
+
+  suffer
+
+  country
+
+  border
+
+  apple'
+bip_39_word_new_line2: 'among
+
+  swift'
+bip_39_word_new_line3: 'among
+
+  swift
+
+  frozen'
+bip_39_word_new_line4: 'among
+
+  swift
+
+  frozen
+
+  glue'
+bip_39_word_new_line5: 'among
+
+  swift
+
+  frozen
+
+  glue
+
+  legend'
+bip_39_word_new_line6: 'among
+
+  swift
+
+  frozen
+
+  glue
+
+  legend
+
+  faculty'
+bip_39_word_new_line7: 'among
+
+  swift
+
+  frozen
+
+  glue
+
+  legend
+
+  faculty
+
+  case'
+bip_39_word_new_line8: 'among
+
+  swift
+
+  frozen
+
+  glue
+
+  legend
+
+  faculty
+
+  case
+
+  stick'
+bip_39_word_new_line9: 'among
+
+  swift
+
+  frozen
+
+  glue
+
+  legend
+
+  faculty
+
+  case
+
+  stick
+
+  suffer'
+bip_39_word_space_0:
+- among
+- swift
+- frozen
+- glue
+- legend
+- faculty
+- case
+- stick
+- suffer
+- country
+- border
+- apple
+bip_39_word_space_1: among
+bip_39_word_space_10: among swift frozen glue legend faculty case stick suffer country
+bip_39_word_space_11: among swift frozen glue legend faculty case stick suffer country
+  border
+bip_39_word_space_12: among swift frozen glue legend faculty case stick suffer country
+  border apple
+bip_39_word_space_2: among swift
+bip_39_word_space_3: among swift frozen
+bip_39_word_space_4: among swift frozen glue
+bip_39_word_space_5: among swift frozen glue legend
+bip_39_word_space_6: among swift frozen glue legend faculty
+bip_39_word_space_7: among swift frozen glue legend faculty case
+bip_39_word_space_8: among swift frozen glue legend faculty case stick
+bip_39_word_space_9: among swift frozen glue legend faculty case stick suffer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

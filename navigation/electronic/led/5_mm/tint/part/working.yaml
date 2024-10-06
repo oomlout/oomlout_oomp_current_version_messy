@@ -1,3 +1,185 @@
+bip_39_word_new_br1: bag
+bip_39_word_new_br10: bag<br>enhance<br>chat<br>sing<br>frog<br>team<br>hole<br>morning<br>sing<br>asset
+bip_39_word_new_br11: bag<br>enhance<br>chat<br>sing<br>frog<br>team<br>hole<br>morning<br>sing<br>asset<br>method
+bip_39_word_new_br12: bag<br>enhance<br>chat<br>sing<br>frog<br>team<br>hole<br>morning<br>sing<br>asset<br>method<br>access
+bip_39_word_new_br2: bag<br>enhance
+bip_39_word_new_br3: bag<br>enhance<br>chat
+bip_39_word_new_br4: bag<br>enhance<br>chat<br>sing
+bip_39_word_new_br5: bag<br>enhance<br>chat<br>sing<br>frog
+bip_39_word_new_br6: bag<br>enhance<br>chat<br>sing<br>frog<br>team
+bip_39_word_new_br7: bag<br>enhance<br>chat<br>sing<br>frog<br>team<br>hole
+bip_39_word_new_br8: bag<br>enhance<br>chat<br>sing<br>frog<br>team<br>hole<br>morning
+bip_39_word_new_br9: bag<br>enhance<br>chat<br>sing<br>frog<br>team<br>hole<br>morning<br>sing
+bip_39_word_new_line1: bag
+bip_39_word_new_line10: 'bag
+
+  enhance
+
+  chat
+
+  sing
+
+  frog
+
+  team
+
+  hole
+
+  morning
+
+  sing
+
+  asset'
+bip_39_word_new_line11: 'bag
+
+  enhance
+
+  chat
+
+  sing
+
+  frog
+
+  team
+
+  hole
+
+  morning
+
+  sing
+
+  asset
+
+  method'
+bip_39_word_new_line12: 'bag
+
+  enhance
+
+  chat
+
+  sing
+
+  frog
+
+  team
+
+  hole
+
+  morning
+
+  sing
+
+  asset
+
+  method
+
+  access'
+bip_39_word_new_line2: 'bag
+
+  enhance'
+bip_39_word_new_line3: 'bag
+
+  enhance
+
+  chat'
+bip_39_word_new_line4: 'bag
+
+  enhance
+
+  chat
+
+  sing'
+bip_39_word_new_line5: 'bag
+
+  enhance
+
+  chat
+
+  sing
+
+  frog'
+bip_39_word_new_line6: 'bag
+
+  enhance
+
+  chat
+
+  sing
+
+  frog
+
+  team'
+bip_39_word_new_line7: 'bag
+
+  enhance
+
+  chat
+
+  sing
+
+  frog
+
+  team
+
+  hole'
+bip_39_word_new_line8: 'bag
+
+  enhance
+
+  chat
+
+  sing
+
+  frog
+
+  team
+
+  hole
+
+  morning'
+bip_39_word_new_line9: 'bag
+
+  enhance
+
+  chat
+
+  sing
+
+  frog
+
+  team
+
+  hole
+
+  morning
+
+  sing'
+bip_39_word_space_0:
+- bag
+- enhance
+- chat
+- sing
+- frog
+- team
+- hole
+- morning
+- sing
+- asset
+- method
+- access
+bip_39_word_space_1: bag
+bip_39_word_space_10: bag enhance chat sing frog team hole morning sing asset
+bip_39_word_space_11: bag enhance chat sing frog team hole morning sing asset method
+bip_39_word_space_12: bag enhance chat sing frog team hole morning sing asset method
+  access
+bip_39_word_space_2: bag enhance
+bip_39_word_space_3: bag enhance chat
+bip_39_word_space_4: bag enhance chat sing
+bip_39_word_space_5: bag enhance chat sing frog
+bip_39_word_space_6: bag enhance chat sing frog team
+bip_39_word_space_7: bag enhance chat sing frog team hole
+bip_39_word_space_8: bag enhance chat sing frog team hole morning
+bip_39_word_space_9: bag enhance chat sing frog team hole morning sing
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

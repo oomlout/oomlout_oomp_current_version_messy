@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pen
+bip_39_word_new_br10: pen<br>spell<br>enough<br>inhale<br>nose<br>wolf<br>arrive<br>poet<br>destroy<br>inhale
+bip_39_word_new_br11: pen<br>spell<br>enough<br>inhale<br>nose<br>wolf<br>arrive<br>poet<br>destroy<br>inhale<br>together
+bip_39_word_new_br12: pen<br>spell<br>enough<br>inhale<br>nose<br>wolf<br>arrive<br>poet<br>destroy<br>inhale<br>together<br>actress
+bip_39_word_new_br2: pen<br>spell
+bip_39_word_new_br3: pen<br>spell<br>enough
+bip_39_word_new_br4: pen<br>spell<br>enough<br>inhale
+bip_39_word_new_br5: pen<br>spell<br>enough<br>inhale<br>nose
+bip_39_word_new_br6: pen<br>spell<br>enough<br>inhale<br>nose<br>wolf
+bip_39_word_new_br7: pen<br>spell<br>enough<br>inhale<br>nose<br>wolf<br>arrive
+bip_39_word_new_br8: pen<br>spell<br>enough<br>inhale<br>nose<br>wolf<br>arrive<br>poet
+bip_39_word_new_br9: pen<br>spell<br>enough<br>inhale<br>nose<br>wolf<br>arrive<br>poet<br>destroy
+bip_39_word_new_line1: pen
+bip_39_word_new_line10: 'pen
+
+  spell
+
+  enough
+
+  inhale
+
+  nose
+
+  wolf
+
+  arrive
+
+  poet
+
+  destroy
+
+  inhale'
+bip_39_word_new_line11: 'pen
+
+  spell
+
+  enough
+
+  inhale
+
+  nose
+
+  wolf
+
+  arrive
+
+  poet
+
+  destroy
+
+  inhale
+
+  together'
+bip_39_word_new_line12: 'pen
+
+  spell
+
+  enough
+
+  inhale
+
+  nose
+
+  wolf
+
+  arrive
+
+  poet
+
+  destroy
+
+  inhale
+
+  together
+
+  actress'
+bip_39_word_new_line2: 'pen
+
+  spell'
+bip_39_word_new_line3: 'pen
+
+  spell
+
+  enough'
+bip_39_word_new_line4: 'pen
+
+  spell
+
+  enough
+
+  inhale'
+bip_39_word_new_line5: 'pen
+
+  spell
+
+  enough
+
+  inhale
+
+  nose'
+bip_39_word_new_line6: 'pen
+
+  spell
+
+  enough
+
+  inhale
+
+  nose
+
+  wolf'
+bip_39_word_new_line7: 'pen
+
+  spell
+
+  enough
+
+  inhale
+
+  nose
+
+  wolf
+
+  arrive'
+bip_39_word_new_line8: 'pen
+
+  spell
+
+  enough
+
+  inhale
+
+  nose
+
+  wolf
+
+  arrive
+
+  poet'
+bip_39_word_new_line9: 'pen
+
+  spell
+
+  enough
+
+  inhale
+
+  nose
+
+  wolf
+
+  arrive
+
+  poet
+
+  destroy'
+bip_39_word_space_0:
+- pen
+- spell
+- enough
+- inhale
+- nose
+- wolf
+- arrive
+- poet
+- destroy
+- inhale
+- together
+- actress
+bip_39_word_space_1: pen
+bip_39_word_space_10: pen spell enough inhale nose wolf arrive poet destroy inhale
+bip_39_word_space_11: pen spell enough inhale nose wolf arrive poet destroy inhale
+  together
+bip_39_word_space_12: pen spell enough inhale nose wolf arrive poet destroy inhale
+  together actress
+bip_39_word_space_2: pen spell
+bip_39_word_space_3: pen spell enough
+bip_39_word_space_4: pen spell enough inhale
+bip_39_word_space_5: pen spell enough inhale nose
+bip_39_word_space_6: pen spell enough inhale nose wolf
+bip_39_word_space_7: pen spell enough inhale nose wolf arrive
+bip_39_word_space_8: pen spell enough inhale nose wolf arrive poet
+bip_39_word_space_9: pen spell enough inhale nose wolf arrive poet destroy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: today latin
+  * bip 39 word 3: today latin cheese
+  * bip 39 word: today latin cheese injury match floor crisp dog stable hold advance another
 
 ### other_codes
 * short_code: ss6m45
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | today |  
+| bip_39_word_new_br10 | today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable<br>hold |  
+| bip_39_word_new_br11 | today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable<br>hold<br>advance |  
+| bip_39_word_new_br12 | today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable<br>hold<br>advance<br>another |  
+| bip_39_word_new_br2 | today<br>latin |  
+| bip_39_word_new_br3 | today<br>latin<br>cheese |  
+| bip_39_word_new_br4 | today<br>latin<br>cheese<br>injury |  
+| bip_39_word_new_br5 | today<br>latin<br>cheese<br>injury<br>match |  
+| bip_39_word_new_br6 | today<br>latin<br>cheese<br>injury<br>match<br>floor |  
+| bip_39_word_new_br7 | today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp |  
+| bip_39_word_new_br8 | today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog |  
+| bip_39_word_new_br9 | today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable |  
+| bip_39_word_new_line1 | today |  
+| bip_39_word_new_line10 | today
+latin
+cheese
+injury
+match
+floor
+crisp
+dog
+stable
+hold |  
+| bip_39_word_new_line11 | today
+latin
+cheese
+injury
+match
+floor
+crisp
+dog
+stable
+hold
+advance |  
+| bip_39_word_new_line12 | today
+latin
+cheese
+injury
+match
+floor
+crisp
+dog
+stable
+hold
+advance
+another |  
+| bip_39_word_new_line2 | today
+latin |  
+| bip_39_word_new_line3 | today
+latin
+cheese |  
+| bip_39_word_new_line4 | today
+latin
+cheese
+injury |  
+| bip_39_word_new_line5 | today
+latin
+cheese
+injury
+match |  
+| bip_39_word_new_line6 | today
+latin
+cheese
+injury
+match
+floor |  
+| bip_39_word_new_line7 | today
+latin
+cheese
+injury
+match
+floor
+crisp |  
+| bip_39_word_new_line8 | today
+latin
+cheese
+injury
+match
+floor
+crisp
+dog |  
+| bip_39_word_new_line9 | today
+latin
+cheese
+injury
+match
+floor
+crisp
+dog
+stable |  
+| bip_39_word_space_0 | ['today', 'latin', 'cheese', 'injury', 'match', 'floor', 'crisp', 'dog', 'stable', 'hold', 'advance', 'another'] |  
+| bip_39_word_space_1 | today |  
+| bip_39_word_space_10 | today latin cheese injury match floor crisp dog stable hold |  
+| bip_39_word_space_11 | today latin cheese injury match floor crisp dog stable hold advance |  
+| bip_39_word_space_12 | today latin cheese injury match floor crisp dog stable hold advance another |  
+| bip_39_word_space_2 | today latin |  
+| bip_39_word_space_3 | today latin cheese |  
+| bip_39_word_space_4 | today latin cheese injury |  
+| bip_39_word_space_5 | today latin cheese injury match |  
+| bip_39_word_space_6 | today latin cheese injury match floor |  
+| bip_39_word_space_7 | today latin cheese injury match floor crisp |  
+| bip_39_word_space_8 | today latin cheese injury match floor crisp dog |  
+| bip_39_word_space_9 | today latin cheese injury match floor crisp dog stable |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

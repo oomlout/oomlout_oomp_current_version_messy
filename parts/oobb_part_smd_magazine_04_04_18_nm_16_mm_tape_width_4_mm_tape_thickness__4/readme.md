@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: code route
+  * bip 39 word 3: code route lake
+  * bip 39 word: code route lake deal provide gather dirt dolphin match wink angry absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | code |  
+| bip_39_word_new_br10 | code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match<br>wink |  
+| bip_39_word_new_br11 | code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match<br>wink<br>angry |  
+| bip_39_word_new_br12 | code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match<br>wink<br>angry<br>absorb |  
+| bip_39_word_new_br2 | code<br>route |  
+| bip_39_word_new_br3 | code<br>route<br>lake |  
+| bip_39_word_new_br4 | code<br>route<br>lake<br>deal |  
+| bip_39_word_new_br5 | code<br>route<br>lake<br>deal<br>provide |  
+| bip_39_word_new_br6 | code<br>route<br>lake<br>deal<br>provide<br>gather |  
+| bip_39_word_new_br7 | code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt |  
+| bip_39_word_new_br8 | code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin |  
+| bip_39_word_new_br9 | code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match |  
+| bip_39_word_new_line1 | code |  
+| bip_39_word_new_line10 | code
+route
+lake
+deal
+provide
+gather
+dirt
+dolphin
+match
+wink |  
+| bip_39_word_new_line11 | code
+route
+lake
+deal
+provide
+gather
+dirt
+dolphin
+match
+wink
+angry |  
+| bip_39_word_new_line12 | code
+route
+lake
+deal
+provide
+gather
+dirt
+dolphin
+match
+wink
+angry
+absorb |  
+| bip_39_word_new_line2 | code
+route |  
+| bip_39_word_new_line3 | code
+route
+lake |  
+| bip_39_word_new_line4 | code
+route
+lake
+deal |  
+| bip_39_word_new_line5 | code
+route
+lake
+deal
+provide |  
+| bip_39_word_new_line6 | code
+route
+lake
+deal
+provide
+gather |  
+| bip_39_word_new_line7 | code
+route
+lake
+deal
+provide
+gather
+dirt |  
+| bip_39_word_new_line8 | code
+route
+lake
+deal
+provide
+gather
+dirt
+dolphin |  
+| bip_39_word_new_line9 | code
+route
+lake
+deal
+provide
+gather
+dirt
+dolphin
+match |  
+| bip_39_word_space_0 | ['code', 'route', 'lake', 'deal', 'provide', 'gather', 'dirt', 'dolphin', 'match', 'wink', 'angry', 'absorb'] |  
+| bip_39_word_space_1 | code |  
+| bip_39_word_space_10 | code route lake deal provide gather dirt dolphin match wink |  
+| bip_39_word_space_11 | code route lake deal provide gather dirt dolphin match wink angry |  
+| bip_39_word_space_12 | code route lake deal provide gather dirt dolphin match wink angry absorb |  
+| bip_39_word_space_2 | code route |  
+| bip_39_word_space_3 | code route lake |  
+| bip_39_word_space_4 | code route lake deal |  
+| bip_39_word_space_5 | code route lake deal provide |  
+| bip_39_word_space_6 | code route lake deal provide gather |  
+| bip_39_word_space_7 | code route lake deal provide gather dirt |  
+| bip_39_word_space_8 | code route lake deal provide gather dirt dolphin |  
+| bip_39_word_space_9 | code route lake deal provide gather dirt dolphin match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

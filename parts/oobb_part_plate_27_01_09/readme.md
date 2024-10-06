@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dad custom
+  * bip 39 word 3: dad custom slogan
+  * bip 39 word: dad custom slogan burger civil rally bread swallow cook lottery goat absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dad |  
+| bip_39_word_new_br10 | dad<br>custom<br>slogan<br>burger<br>civil<br>rally<br>bread<br>swallow<br>cook<br>lottery |  
+| bip_39_word_new_br11 | dad<br>custom<br>slogan<br>burger<br>civil<br>rally<br>bread<br>swallow<br>cook<br>lottery<br>goat |  
+| bip_39_word_new_br12 | dad<br>custom<br>slogan<br>burger<br>civil<br>rally<br>bread<br>swallow<br>cook<br>lottery<br>goat<br>absent |  
+| bip_39_word_new_br2 | dad<br>custom |  
+| bip_39_word_new_br3 | dad<br>custom<br>slogan |  
+| bip_39_word_new_br4 | dad<br>custom<br>slogan<br>burger |  
+| bip_39_word_new_br5 | dad<br>custom<br>slogan<br>burger<br>civil |  
+| bip_39_word_new_br6 | dad<br>custom<br>slogan<br>burger<br>civil<br>rally |  
+| bip_39_word_new_br7 | dad<br>custom<br>slogan<br>burger<br>civil<br>rally<br>bread |  
+| bip_39_word_new_br8 | dad<br>custom<br>slogan<br>burger<br>civil<br>rally<br>bread<br>swallow |  
+| bip_39_word_new_br9 | dad<br>custom<br>slogan<br>burger<br>civil<br>rally<br>bread<br>swallow<br>cook |  
+| bip_39_word_new_line1 | dad |  
+| bip_39_word_new_line10 | dad
+custom
+slogan
+burger
+civil
+rally
+bread
+swallow
+cook
+lottery |  
+| bip_39_word_new_line11 | dad
+custom
+slogan
+burger
+civil
+rally
+bread
+swallow
+cook
+lottery
+goat |  
+| bip_39_word_new_line12 | dad
+custom
+slogan
+burger
+civil
+rally
+bread
+swallow
+cook
+lottery
+goat
+absent |  
+| bip_39_word_new_line2 | dad
+custom |  
+| bip_39_word_new_line3 | dad
+custom
+slogan |  
+| bip_39_word_new_line4 | dad
+custom
+slogan
+burger |  
+| bip_39_word_new_line5 | dad
+custom
+slogan
+burger
+civil |  
+| bip_39_word_new_line6 | dad
+custom
+slogan
+burger
+civil
+rally |  
+| bip_39_word_new_line7 | dad
+custom
+slogan
+burger
+civil
+rally
+bread |  
+| bip_39_word_new_line8 | dad
+custom
+slogan
+burger
+civil
+rally
+bread
+swallow |  
+| bip_39_word_new_line9 | dad
+custom
+slogan
+burger
+civil
+rally
+bread
+swallow
+cook |  
+| bip_39_word_space_0 | ['dad', 'custom', 'slogan', 'burger', 'civil', 'rally', 'bread', 'swallow', 'cook', 'lottery', 'goat', 'absent'] |  
+| bip_39_word_space_1 | dad |  
+| bip_39_word_space_10 | dad custom slogan burger civil rally bread swallow cook lottery |  
+| bip_39_word_space_11 | dad custom slogan burger civil rally bread swallow cook lottery goat |  
+| bip_39_word_space_12 | dad custom slogan burger civil rally bread swallow cook lottery goat absent |  
+| bip_39_word_space_2 | dad custom |  
+| bip_39_word_space_3 | dad custom slogan |  
+| bip_39_word_space_4 | dad custom slogan burger |  
+| bip_39_word_space_5 | dad custom slogan burger civil |  
+| bip_39_word_space_6 | dad custom slogan burger civil rally |  
+| bip_39_word_space_7 | dad custom slogan burger civil rally bread |  
+| bip_39_word_space_8 | dad custom slogan burger civil rally bread swallow |  
+| bip_39_word_space_9 | dad custom slogan burger civil rally bread swallow cook |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

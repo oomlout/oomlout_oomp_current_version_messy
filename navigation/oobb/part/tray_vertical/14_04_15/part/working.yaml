@@ -1,3 +1,187 @@
+bip_39_word_new_br1: warrior
+bip_39_word_new_br10: warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist
+bip_39_word_new_br11: warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist<br>diagram
+bip_39_word_new_br12: warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall<br>twist<br>diagram<br>aspect
+bip_39_word_new_br2: warrior<br>husband
+bip_39_word_new_br3: warrior<br>husband<br>venture
+bip_39_word_new_br4: warrior<br>husband<br>venture<br>symptom
+bip_39_word_new_br5: warrior<br>husband<br>venture<br>symptom<br>then
+bip_39_word_new_br6: warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant
+bip_39_word_new_br7: warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen
+bip_39_word_new_br8: warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise
+bip_39_word_new_br9: warrior<br>husband<br>venture<br>symptom<br>then<br>vibrant<br>citizen<br>raise<br>wall
+bip_39_word_new_line1: warrior
+bip_39_word_new_line10: 'warrior
+
+  husband
+
+  venture
+
+  symptom
+
+  then
+
+  vibrant
+
+  citizen
+
+  raise
+
+  wall
+
+  twist'
+bip_39_word_new_line11: 'warrior
+
+  husband
+
+  venture
+
+  symptom
+
+  then
+
+  vibrant
+
+  citizen
+
+  raise
+
+  wall
+
+  twist
+
+  diagram'
+bip_39_word_new_line12: 'warrior
+
+  husband
+
+  venture
+
+  symptom
+
+  then
+
+  vibrant
+
+  citizen
+
+  raise
+
+  wall
+
+  twist
+
+  diagram
+
+  aspect'
+bip_39_word_new_line2: 'warrior
+
+  husband'
+bip_39_word_new_line3: 'warrior
+
+  husband
+
+  venture'
+bip_39_word_new_line4: 'warrior
+
+  husband
+
+  venture
+
+  symptom'
+bip_39_word_new_line5: 'warrior
+
+  husband
+
+  venture
+
+  symptom
+
+  then'
+bip_39_word_new_line6: 'warrior
+
+  husband
+
+  venture
+
+  symptom
+
+  then
+
+  vibrant'
+bip_39_word_new_line7: 'warrior
+
+  husband
+
+  venture
+
+  symptom
+
+  then
+
+  vibrant
+
+  citizen'
+bip_39_word_new_line8: 'warrior
+
+  husband
+
+  venture
+
+  symptom
+
+  then
+
+  vibrant
+
+  citizen
+
+  raise'
+bip_39_word_new_line9: 'warrior
+
+  husband
+
+  venture
+
+  symptom
+
+  then
+
+  vibrant
+
+  citizen
+
+  raise
+
+  wall'
+bip_39_word_space_0:
+- warrior
+- husband
+- venture
+- symptom
+- then
+- vibrant
+- citizen
+- raise
+- wall
+- twist
+- diagram
+- aspect
+bip_39_word_space_1: warrior
+bip_39_word_space_10: warrior husband venture symptom then vibrant citizen raise wall
+  twist
+bip_39_word_space_11: warrior husband venture symptom then vibrant citizen raise wall
+  twist diagram
+bip_39_word_space_12: warrior husband venture symptom then vibrant citizen raise wall
+  twist diagram aspect
+bip_39_word_space_2: warrior husband
+bip_39_word_space_3: warrior husband venture
+bip_39_word_space_4: warrior husband venture symptom
+bip_39_word_space_5: warrior husband venture symptom then
+bip_39_word_space_6: warrior husband venture symptom then vibrant
+bip_39_word_space_7: warrior husband venture symptom then vibrant citizen
+bip_39_word_space_8: warrior husband venture symptom then vibrant citizen raise
+bip_39_word_space_9: warrior husband venture symptom then vibrant citizen raise wall
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: truck bid
+  * bip 39 word 3: truck bid voice
+  * bip 39 word: truck bid voice tide manage fit school average enhance flip prepare animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | truck |  
+| bip_39_word_new_br10 | truck<br>bid<br>voice<br>tide<br>manage<br>fit<br>school<br>average<br>enhance<br>flip |  
+| bip_39_word_new_br11 | truck<br>bid<br>voice<br>tide<br>manage<br>fit<br>school<br>average<br>enhance<br>flip<br>prepare |  
+| bip_39_word_new_br12 | truck<br>bid<br>voice<br>tide<br>manage<br>fit<br>school<br>average<br>enhance<br>flip<br>prepare<br>animal |  
+| bip_39_word_new_br2 | truck<br>bid |  
+| bip_39_word_new_br3 | truck<br>bid<br>voice |  
+| bip_39_word_new_br4 | truck<br>bid<br>voice<br>tide |  
+| bip_39_word_new_br5 | truck<br>bid<br>voice<br>tide<br>manage |  
+| bip_39_word_new_br6 | truck<br>bid<br>voice<br>tide<br>manage<br>fit |  
+| bip_39_word_new_br7 | truck<br>bid<br>voice<br>tide<br>manage<br>fit<br>school |  
+| bip_39_word_new_br8 | truck<br>bid<br>voice<br>tide<br>manage<br>fit<br>school<br>average |  
+| bip_39_word_new_br9 | truck<br>bid<br>voice<br>tide<br>manage<br>fit<br>school<br>average<br>enhance |  
+| bip_39_word_new_line1 | truck |  
+| bip_39_word_new_line10 | truck
+bid
+voice
+tide
+manage
+fit
+school
+average
+enhance
+flip |  
+| bip_39_word_new_line11 | truck
+bid
+voice
+tide
+manage
+fit
+school
+average
+enhance
+flip
+prepare |  
+| bip_39_word_new_line12 | truck
+bid
+voice
+tide
+manage
+fit
+school
+average
+enhance
+flip
+prepare
+animal |  
+| bip_39_word_new_line2 | truck
+bid |  
+| bip_39_word_new_line3 | truck
+bid
+voice |  
+| bip_39_word_new_line4 | truck
+bid
+voice
+tide |  
+| bip_39_word_new_line5 | truck
+bid
+voice
+tide
+manage |  
+| bip_39_word_new_line6 | truck
+bid
+voice
+tide
+manage
+fit |  
+| bip_39_word_new_line7 | truck
+bid
+voice
+tide
+manage
+fit
+school |  
+| bip_39_word_new_line8 | truck
+bid
+voice
+tide
+manage
+fit
+school
+average |  
+| bip_39_word_new_line9 | truck
+bid
+voice
+tide
+manage
+fit
+school
+average
+enhance |  
+| bip_39_word_space_0 | ['truck', 'bid', 'voice', 'tide', 'manage', 'fit', 'school', 'average', 'enhance', 'flip', 'prepare', 'animal'] |  
+| bip_39_word_space_1 | truck |  
+| bip_39_word_space_10 | truck bid voice tide manage fit school average enhance flip |  
+| bip_39_word_space_11 | truck bid voice tide manage fit school average enhance flip prepare |  
+| bip_39_word_space_12 | truck bid voice tide manage fit school average enhance flip prepare animal |  
+| bip_39_word_space_2 | truck bid |  
+| bip_39_word_space_3 | truck bid voice |  
+| bip_39_word_space_4 | truck bid voice tide |  
+| bip_39_word_space_5 | truck bid voice tide manage |  
+| bip_39_word_space_6 | truck bid voice tide manage fit |  
+| bip_39_word_space_7 | truck bid voice tide manage fit school |  
+| bip_39_word_space_8 | truck bid voice tide manage fit school average |  
+| bip_39_word_space_9 | truck bid voice tide manage fit school average enhance |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

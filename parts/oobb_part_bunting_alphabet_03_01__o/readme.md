@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: o
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boil syrup
+  * bip 39 word 3: boil syrup illness
+  * bip 39 word: boil syrup illness slot rib home forum ski reopen ginger address attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boil |  
+| bip_39_word_new_br10 | boil<br>syrup<br>illness<br>slot<br>rib<br>home<br>forum<br>ski<br>reopen<br>ginger |  
+| bip_39_word_new_br11 | boil<br>syrup<br>illness<br>slot<br>rib<br>home<br>forum<br>ski<br>reopen<br>ginger<br>address |  
+| bip_39_word_new_br12 | boil<br>syrup<br>illness<br>slot<br>rib<br>home<br>forum<br>ski<br>reopen<br>ginger<br>address<br>attract |  
+| bip_39_word_new_br2 | boil<br>syrup |  
+| bip_39_word_new_br3 | boil<br>syrup<br>illness |  
+| bip_39_word_new_br4 | boil<br>syrup<br>illness<br>slot |  
+| bip_39_word_new_br5 | boil<br>syrup<br>illness<br>slot<br>rib |  
+| bip_39_word_new_br6 | boil<br>syrup<br>illness<br>slot<br>rib<br>home |  
+| bip_39_word_new_br7 | boil<br>syrup<br>illness<br>slot<br>rib<br>home<br>forum |  
+| bip_39_word_new_br8 | boil<br>syrup<br>illness<br>slot<br>rib<br>home<br>forum<br>ski |  
+| bip_39_word_new_br9 | boil<br>syrup<br>illness<br>slot<br>rib<br>home<br>forum<br>ski<br>reopen |  
+| bip_39_word_new_line1 | boil |  
+| bip_39_word_new_line10 | boil
+syrup
+illness
+slot
+rib
+home
+forum
+ski
+reopen
+ginger |  
+| bip_39_word_new_line11 | boil
+syrup
+illness
+slot
+rib
+home
+forum
+ski
+reopen
+ginger
+address |  
+| bip_39_word_new_line12 | boil
+syrup
+illness
+slot
+rib
+home
+forum
+ski
+reopen
+ginger
+address
+attract |  
+| bip_39_word_new_line2 | boil
+syrup |  
+| bip_39_word_new_line3 | boil
+syrup
+illness |  
+| bip_39_word_new_line4 | boil
+syrup
+illness
+slot |  
+| bip_39_word_new_line5 | boil
+syrup
+illness
+slot
+rib |  
+| bip_39_word_new_line6 | boil
+syrup
+illness
+slot
+rib
+home |  
+| bip_39_word_new_line7 | boil
+syrup
+illness
+slot
+rib
+home
+forum |  
+| bip_39_word_new_line8 | boil
+syrup
+illness
+slot
+rib
+home
+forum
+ski |  
+| bip_39_word_new_line9 | boil
+syrup
+illness
+slot
+rib
+home
+forum
+ski
+reopen |  
+| bip_39_word_space_0 | ['boil', 'syrup', 'illness', 'slot', 'rib', 'home', 'forum', 'ski', 'reopen', 'ginger', 'address', 'attract'] |  
+| bip_39_word_space_1 | boil |  
+| bip_39_word_space_10 | boil syrup illness slot rib home forum ski reopen ginger |  
+| bip_39_word_space_11 | boil syrup illness slot rib home forum ski reopen ginger address |  
+| bip_39_word_space_12 | boil syrup illness slot rib home forum ski reopen ginger address attract |  
+| bip_39_word_space_2 | boil syrup |  
+| bip_39_word_space_3 | boil syrup illness |  
+| bip_39_word_space_4 | boil syrup illness slot |  
+| bip_39_word_space_5 | boil syrup illness slot rib |  
+| bip_39_word_space_6 | boil syrup illness slot rib home |  
+| bip_39_word_space_7 | boil syrup illness slot rib home forum |  
+| bip_39_word_space_8 | boil syrup illness slot rib home forum ski |  
+| bip_39_word_space_9 | boil syrup illness slot rib home forum ski reopen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: accident behind
+  * bip 39 word 3: accident behind feature
+  * bip 39 word: accident behind feature token document crystal sense copy slam lizard harvest alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | accident |  
+| bip_39_word_new_br10 | accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard |  
+| bip_39_word_new_br11 | accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard<br>harvest |  
+| bip_39_word_new_br12 | accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam<br>lizard<br>harvest<br>alert |  
+| bip_39_word_new_br2 | accident<br>behind |  
+| bip_39_word_new_br3 | accident<br>behind<br>feature |  
+| bip_39_word_new_br4 | accident<br>behind<br>feature<br>token |  
+| bip_39_word_new_br5 | accident<br>behind<br>feature<br>token<br>document |  
+| bip_39_word_new_br6 | accident<br>behind<br>feature<br>token<br>document<br>crystal |  
+| bip_39_word_new_br7 | accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense |  
+| bip_39_word_new_br8 | accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy |  
+| bip_39_word_new_br9 | accident<br>behind<br>feature<br>token<br>document<br>crystal<br>sense<br>copy<br>slam |  
+| bip_39_word_new_line1 | accident |  
+| bip_39_word_new_line10 | accident
+behind
+feature
+token
+document
+crystal
+sense
+copy
+slam
+lizard |  
+| bip_39_word_new_line11 | accident
+behind
+feature
+token
+document
+crystal
+sense
+copy
+slam
+lizard
+harvest |  
+| bip_39_word_new_line12 | accident
+behind
+feature
+token
+document
+crystal
+sense
+copy
+slam
+lizard
+harvest
+alert |  
+| bip_39_word_new_line2 | accident
+behind |  
+| bip_39_word_new_line3 | accident
+behind
+feature |  
+| bip_39_word_new_line4 | accident
+behind
+feature
+token |  
+| bip_39_word_new_line5 | accident
+behind
+feature
+token
+document |  
+| bip_39_word_new_line6 | accident
+behind
+feature
+token
+document
+crystal |  
+| bip_39_word_new_line7 | accident
+behind
+feature
+token
+document
+crystal
+sense |  
+| bip_39_word_new_line8 | accident
+behind
+feature
+token
+document
+crystal
+sense
+copy |  
+| bip_39_word_new_line9 | accident
+behind
+feature
+token
+document
+crystal
+sense
+copy
+slam |  
+| bip_39_word_space_0 | ['accident', 'behind', 'feature', 'token', 'document', 'crystal', 'sense', 'copy', 'slam', 'lizard', 'harvest', 'alert'] |  
+| bip_39_word_space_1 | accident |  
+| bip_39_word_space_10 | accident behind feature token document crystal sense copy slam lizard |  
+| bip_39_word_space_11 | accident behind feature token document crystal sense copy slam lizard harvest |  
+| bip_39_word_space_12 | accident behind feature token document crystal sense copy slam lizard harvest alert |  
+| bip_39_word_space_2 | accident behind |  
+| bip_39_word_space_3 | accident behind feature |  
+| bip_39_word_space_4 | accident behind feature token |  
+| bip_39_word_space_5 | accident behind feature token document |  
+| bip_39_word_space_6 | accident behind feature token document crystal |  
+| bip_39_word_space_7 | accident behind feature token document crystal sense |  
+| bip_39_word_space_8 | accident behind feature token document crystal sense copy |  
+| bip_39_word_space_9 | accident behind feature token document crystal sense copy slam |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: silk
+bip_39_word_new_br10: silk<br>bird<br>safe<br>vendor<br>check<br>thumb<br>supreme<br>street<br>city<br>spread
+bip_39_word_new_br11: silk<br>bird<br>safe<br>vendor<br>check<br>thumb<br>supreme<br>street<br>city<br>spread<br>congress
+bip_39_word_new_br12: silk<br>bird<br>safe<br>vendor<br>check<br>thumb<br>supreme<br>street<br>city<br>spread<br>congress<br>agree
+bip_39_word_new_br2: silk<br>bird
+bip_39_word_new_br3: silk<br>bird<br>safe
+bip_39_word_new_br4: silk<br>bird<br>safe<br>vendor
+bip_39_word_new_br5: silk<br>bird<br>safe<br>vendor<br>check
+bip_39_word_new_br6: silk<br>bird<br>safe<br>vendor<br>check<br>thumb
+bip_39_word_new_br7: silk<br>bird<br>safe<br>vendor<br>check<br>thumb<br>supreme
+bip_39_word_new_br8: silk<br>bird<br>safe<br>vendor<br>check<br>thumb<br>supreme<br>street
+bip_39_word_new_br9: silk<br>bird<br>safe<br>vendor<br>check<br>thumb<br>supreme<br>street<br>city
+bip_39_word_new_line1: silk
+bip_39_word_new_line10: 'silk
+
+  bird
+
+  safe
+
+  vendor
+
+  check
+
+  thumb
+
+  supreme
+
+  street
+
+  city
+
+  spread'
+bip_39_word_new_line11: 'silk
+
+  bird
+
+  safe
+
+  vendor
+
+  check
+
+  thumb
+
+  supreme
+
+  street
+
+  city
+
+  spread
+
+  congress'
+bip_39_word_new_line12: 'silk
+
+  bird
+
+  safe
+
+  vendor
+
+  check
+
+  thumb
+
+  supreme
+
+  street
+
+  city
+
+  spread
+
+  congress
+
+  agree'
+bip_39_word_new_line2: 'silk
+
+  bird'
+bip_39_word_new_line3: 'silk
+
+  bird
+
+  safe'
+bip_39_word_new_line4: 'silk
+
+  bird
+
+  safe
+
+  vendor'
+bip_39_word_new_line5: 'silk
+
+  bird
+
+  safe
+
+  vendor
+
+  check'
+bip_39_word_new_line6: 'silk
+
+  bird
+
+  safe
+
+  vendor
+
+  check
+
+  thumb'
+bip_39_word_new_line7: 'silk
+
+  bird
+
+  safe
+
+  vendor
+
+  check
+
+  thumb
+
+  supreme'
+bip_39_word_new_line8: 'silk
+
+  bird
+
+  safe
+
+  vendor
+
+  check
+
+  thumb
+
+  supreme
+
+  street'
+bip_39_word_new_line9: 'silk
+
+  bird
+
+  safe
+
+  vendor
+
+  check
+
+  thumb
+
+  supreme
+
+  street
+
+  city'
+bip_39_word_space_0:
+- silk
+- bird
+- safe
+- vendor
+- check
+- thumb
+- supreme
+- street
+- city
+- spread
+- congress
+- agree
+bip_39_word_space_1: silk
+bip_39_word_space_10: silk bird safe vendor check thumb supreme street city spread
+bip_39_word_space_11: silk bird safe vendor check thumb supreme street city spread
+  congress
+bip_39_word_space_12: silk bird safe vendor check thumb supreme street city spread
+  congress agree
+bip_39_word_space_2: silk bird
+bip_39_word_space_3: silk bird safe
+bip_39_word_space_4: silk bird safe vendor
+bip_39_word_space_5: silk bird safe vendor check
+bip_39_word_space_6: silk bird safe vendor check thumb
+bip_39_word_space_7: silk bird safe vendor check thumb supreme
+bip_39_word_space_8: silk bird safe vendor check thumb supreme street
+bip_39_word_space_9: silk bird safe vendor check thumb supreme street city
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: retire truly
+  * bip 39 word 3: retire truly warfare
+  * bip 39 word: retire truly warfare charge lady surface garbage ritual small deputy pistol album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | retire |  
+| bip_39_word_new_br10 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface<br>garbage<br>ritual<br>small<br>deputy |  
+| bip_39_word_new_br11 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface<br>garbage<br>ritual<br>small<br>deputy<br>pistol |  
+| bip_39_word_new_br12 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface<br>garbage<br>ritual<br>small<br>deputy<br>pistol<br>album |  
+| bip_39_word_new_br2 | retire<br>truly |  
+| bip_39_word_new_br3 | retire<br>truly<br>warfare |  
+| bip_39_word_new_br4 | retire<br>truly<br>warfare<br>charge |  
+| bip_39_word_new_br5 | retire<br>truly<br>warfare<br>charge<br>lady |  
+| bip_39_word_new_br6 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface |  
+| bip_39_word_new_br7 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface<br>garbage |  
+| bip_39_word_new_br8 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface<br>garbage<br>ritual |  
+| bip_39_word_new_br9 | retire<br>truly<br>warfare<br>charge<br>lady<br>surface<br>garbage<br>ritual<br>small |  
+| bip_39_word_new_line1 | retire |  
+| bip_39_word_new_line10 | retire
+truly
+warfare
+charge
+lady
+surface
+garbage
+ritual
+small
+deputy |  
+| bip_39_word_new_line11 | retire
+truly
+warfare
+charge
+lady
+surface
+garbage
+ritual
+small
+deputy
+pistol |  
+| bip_39_word_new_line12 | retire
+truly
+warfare
+charge
+lady
+surface
+garbage
+ritual
+small
+deputy
+pistol
+album |  
+| bip_39_word_new_line2 | retire
+truly |  
+| bip_39_word_new_line3 | retire
+truly
+warfare |  
+| bip_39_word_new_line4 | retire
+truly
+warfare
+charge |  
+| bip_39_word_new_line5 | retire
+truly
+warfare
+charge
+lady |  
+| bip_39_word_new_line6 | retire
+truly
+warfare
+charge
+lady
+surface |  
+| bip_39_word_new_line7 | retire
+truly
+warfare
+charge
+lady
+surface
+garbage |  
+| bip_39_word_new_line8 | retire
+truly
+warfare
+charge
+lady
+surface
+garbage
+ritual |  
+| bip_39_word_new_line9 | retire
+truly
+warfare
+charge
+lady
+surface
+garbage
+ritual
+small |  
+| bip_39_word_space_0 | ['retire', 'truly', 'warfare', 'charge', 'lady', 'surface', 'garbage', 'ritual', 'small', 'deputy', 'pistol', 'album'] |  
+| bip_39_word_space_1 | retire |  
+| bip_39_word_space_10 | retire truly warfare charge lady surface garbage ritual small deputy |  
+| bip_39_word_space_11 | retire truly warfare charge lady surface garbage ritual small deputy pistol |  
+| bip_39_word_space_12 | retire truly warfare charge lady surface garbage ritual small deputy pistol album |  
+| bip_39_word_space_2 | retire truly |  
+| bip_39_word_space_3 | retire truly warfare |  
+| bip_39_word_space_4 | retire truly warfare charge |  
+| bip_39_word_space_5 | retire truly warfare charge lady |  
+| bip_39_word_space_6 | retire truly warfare charge lady surface |  
+| bip_39_word_space_7 | retire truly warfare charge lady surface garbage |  
+| bip_39_word_space_8 | retire truly warfare charge lady surface garbage ritual |  
+| bip_39_word_space_9 | retire truly warfare charge lady surface garbage ritual small |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

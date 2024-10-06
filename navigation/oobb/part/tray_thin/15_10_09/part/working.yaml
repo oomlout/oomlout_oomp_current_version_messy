@@ -1,3 +1,187 @@
+bip_39_word_new_br1: section
+bip_39_word_new_br10: section<br>wrong<br>flush<br>foil<br>alien<br>tunnel<br>solution<br>dolphin<br>crazy<br>permit
+bip_39_word_new_br11: section<br>wrong<br>flush<br>foil<br>alien<br>tunnel<br>solution<br>dolphin<br>crazy<br>permit<br>much
+bip_39_word_new_br12: section<br>wrong<br>flush<br>foil<br>alien<br>tunnel<br>solution<br>dolphin<br>crazy<br>permit<br>much<br>actress
+bip_39_word_new_br2: section<br>wrong
+bip_39_word_new_br3: section<br>wrong<br>flush
+bip_39_word_new_br4: section<br>wrong<br>flush<br>foil
+bip_39_word_new_br5: section<br>wrong<br>flush<br>foil<br>alien
+bip_39_word_new_br6: section<br>wrong<br>flush<br>foil<br>alien<br>tunnel
+bip_39_word_new_br7: section<br>wrong<br>flush<br>foil<br>alien<br>tunnel<br>solution
+bip_39_word_new_br8: section<br>wrong<br>flush<br>foil<br>alien<br>tunnel<br>solution<br>dolphin
+bip_39_word_new_br9: section<br>wrong<br>flush<br>foil<br>alien<br>tunnel<br>solution<br>dolphin<br>crazy
+bip_39_word_new_line1: section
+bip_39_word_new_line10: 'section
+
+  wrong
+
+  flush
+
+  foil
+
+  alien
+
+  tunnel
+
+  solution
+
+  dolphin
+
+  crazy
+
+  permit'
+bip_39_word_new_line11: 'section
+
+  wrong
+
+  flush
+
+  foil
+
+  alien
+
+  tunnel
+
+  solution
+
+  dolphin
+
+  crazy
+
+  permit
+
+  much'
+bip_39_word_new_line12: 'section
+
+  wrong
+
+  flush
+
+  foil
+
+  alien
+
+  tunnel
+
+  solution
+
+  dolphin
+
+  crazy
+
+  permit
+
+  much
+
+  actress'
+bip_39_word_new_line2: 'section
+
+  wrong'
+bip_39_word_new_line3: 'section
+
+  wrong
+
+  flush'
+bip_39_word_new_line4: 'section
+
+  wrong
+
+  flush
+
+  foil'
+bip_39_word_new_line5: 'section
+
+  wrong
+
+  flush
+
+  foil
+
+  alien'
+bip_39_word_new_line6: 'section
+
+  wrong
+
+  flush
+
+  foil
+
+  alien
+
+  tunnel'
+bip_39_word_new_line7: 'section
+
+  wrong
+
+  flush
+
+  foil
+
+  alien
+
+  tunnel
+
+  solution'
+bip_39_word_new_line8: 'section
+
+  wrong
+
+  flush
+
+  foil
+
+  alien
+
+  tunnel
+
+  solution
+
+  dolphin'
+bip_39_word_new_line9: 'section
+
+  wrong
+
+  flush
+
+  foil
+
+  alien
+
+  tunnel
+
+  solution
+
+  dolphin
+
+  crazy'
+bip_39_word_space_0:
+- section
+- wrong
+- flush
+- foil
+- alien
+- tunnel
+- solution
+- dolphin
+- crazy
+- permit
+- much
+- actress
+bip_39_word_space_1: section
+bip_39_word_space_10: section wrong flush foil alien tunnel solution dolphin crazy
+  permit
+bip_39_word_space_11: section wrong flush foil alien tunnel solution dolphin crazy
+  permit much
+bip_39_word_space_12: section wrong flush foil alien tunnel solution dolphin crazy
+  permit much actress
+bip_39_word_space_2: section wrong
+bip_39_word_space_3: section wrong flush
+bip_39_word_space_4: section wrong flush foil
+bip_39_word_space_5: section wrong flush foil alien
+bip_39_word_space_6: section wrong flush foil alien tunnel
+bip_39_word_space_7: section wrong flush foil alien tunnel solution
+bip_39_word_space_8: section wrong flush foil alien tunnel solution dolphin
+bip_39_word_space_9: section wrong flush foil alien tunnel solution dolphin crazy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

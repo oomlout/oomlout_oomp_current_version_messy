@@ -1,3 +1,186 @@
+bip_39_word_new_br1: kitten
+bip_39_word_new_br10: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle
+bip_39_word_new_br11: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle<br>skill
+bip_39_word_new_br12: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom<br>noodle<br>skill<br>appear
+bip_39_word_new_br2: kitten<br>top
+bip_39_word_new_br3: kitten<br>top<br>copper
+bip_39_word_new_br4: kitten<br>top<br>copper<br>dawn
+bip_39_word_new_br5: kitten<br>top<br>copper<br>dawn<br>century
+bip_39_word_new_br6: kitten<br>top<br>copper<br>dawn<br>century<br>famous
+bip_39_word_new_br7: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent
+bip_39_word_new_br8: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity
+bip_39_word_new_br9: kitten<br>top<br>copper<br>dawn<br>century<br>famous<br>agent<br>dignity<br>gloom
+bip_39_word_new_line1: kitten
+bip_39_word_new_line10: 'kitten
+
+  top
+
+  copper
+
+  dawn
+
+  century
+
+  famous
+
+  agent
+
+  dignity
+
+  gloom
+
+  noodle'
+bip_39_word_new_line11: 'kitten
+
+  top
+
+  copper
+
+  dawn
+
+  century
+
+  famous
+
+  agent
+
+  dignity
+
+  gloom
+
+  noodle
+
+  skill'
+bip_39_word_new_line12: 'kitten
+
+  top
+
+  copper
+
+  dawn
+
+  century
+
+  famous
+
+  agent
+
+  dignity
+
+  gloom
+
+  noodle
+
+  skill
+
+  appear'
+bip_39_word_new_line2: 'kitten
+
+  top'
+bip_39_word_new_line3: 'kitten
+
+  top
+
+  copper'
+bip_39_word_new_line4: 'kitten
+
+  top
+
+  copper
+
+  dawn'
+bip_39_word_new_line5: 'kitten
+
+  top
+
+  copper
+
+  dawn
+
+  century'
+bip_39_word_new_line6: 'kitten
+
+  top
+
+  copper
+
+  dawn
+
+  century
+
+  famous'
+bip_39_word_new_line7: 'kitten
+
+  top
+
+  copper
+
+  dawn
+
+  century
+
+  famous
+
+  agent'
+bip_39_word_new_line8: 'kitten
+
+  top
+
+  copper
+
+  dawn
+
+  century
+
+  famous
+
+  agent
+
+  dignity'
+bip_39_word_new_line9: 'kitten
+
+  top
+
+  copper
+
+  dawn
+
+  century
+
+  famous
+
+  agent
+
+  dignity
+
+  gloom'
+bip_39_word_space_0:
+- kitten
+- top
+- copper
+- dawn
+- century
+- famous
+- agent
+- dignity
+- gloom
+- noodle
+- skill
+- appear
+bip_39_word_space_1: kitten
+bip_39_word_space_10: kitten top copper dawn century famous agent dignity gloom noodle
+bip_39_word_space_11: kitten top copper dawn century famous agent dignity gloom noodle
+  skill
+bip_39_word_space_12: kitten top copper dawn century famous agent dignity gloom noodle
+  skill appear
+bip_39_word_space_2: kitten top
+bip_39_word_space_3: kitten top copper
+bip_39_word_space_4: kitten top copper dawn
+bip_39_word_space_5: kitten top copper dawn century
+bip_39_word_space_6: kitten top copper dawn century famous
+bip_39_word_space_7: kitten top copper dawn century famous agent
+bip_39_word_space_8: kitten top copper dawn century famous agent dignity
+bip_39_word_space_9: kitten top copper dawn century famous agent dignity gloom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

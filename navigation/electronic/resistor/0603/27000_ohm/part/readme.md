@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: keen group
+  * bip 39 word 3: keen group tourist
+  * bip 39 word: keen group tourist kite truly hood weekend addict learn gospel concert adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | keen |  
+| bip_39_word_new_br10 | keen<br>group<br>tourist<br>kite<br>truly<br>hood<br>weekend<br>addict<br>learn<br>gospel |  
+| bip_39_word_new_br11 | keen<br>group<br>tourist<br>kite<br>truly<br>hood<br>weekend<br>addict<br>learn<br>gospel<br>concert |  
+| bip_39_word_new_br12 | keen<br>group<br>tourist<br>kite<br>truly<br>hood<br>weekend<br>addict<br>learn<br>gospel<br>concert<br>adjust |  
+| bip_39_word_new_br2 | keen<br>group |  
+| bip_39_word_new_br3 | keen<br>group<br>tourist |  
+| bip_39_word_new_br4 | keen<br>group<br>tourist<br>kite |  
+| bip_39_word_new_br5 | keen<br>group<br>tourist<br>kite<br>truly |  
+| bip_39_word_new_br6 | keen<br>group<br>tourist<br>kite<br>truly<br>hood |  
+| bip_39_word_new_br7 | keen<br>group<br>tourist<br>kite<br>truly<br>hood<br>weekend |  
+| bip_39_word_new_br8 | keen<br>group<br>tourist<br>kite<br>truly<br>hood<br>weekend<br>addict |  
+| bip_39_word_new_br9 | keen<br>group<br>tourist<br>kite<br>truly<br>hood<br>weekend<br>addict<br>learn |  
+| bip_39_word_new_line1 | keen |  
+| bip_39_word_new_line10 | keen
+group
+tourist
+kite
+truly
+hood
+weekend
+addict
+learn
+gospel |  
+| bip_39_word_new_line11 | keen
+group
+tourist
+kite
+truly
+hood
+weekend
+addict
+learn
+gospel
+concert |  
+| bip_39_word_new_line12 | keen
+group
+tourist
+kite
+truly
+hood
+weekend
+addict
+learn
+gospel
+concert
+adjust |  
+| bip_39_word_new_line2 | keen
+group |  
+| bip_39_word_new_line3 | keen
+group
+tourist |  
+| bip_39_word_new_line4 | keen
+group
+tourist
+kite |  
+| bip_39_word_new_line5 | keen
+group
+tourist
+kite
+truly |  
+| bip_39_word_new_line6 | keen
+group
+tourist
+kite
+truly
+hood |  
+| bip_39_word_new_line7 | keen
+group
+tourist
+kite
+truly
+hood
+weekend |  
+| bip_39_word_new_line8 | keen
+group
+tourist
+kite
+truly
+hood
+weekend
+addict |  
+| bip_39_word_new_line9 | keen
+group
+tourist
+kite
+truly
+hood
+weekend
+addict
+learn |  
+| bip_39_word_space_0 | ['keen', 'group', 'tourist', 'kite', 'truly', 'hood', 'weekend', 'addict', 'learn', 'gospel', 'concert', 'adjust'] |  
+| bip_39_word_space_1 | keen |  
+| bip_39_word_space_10 | keen group tourist kite truly hood weekend addict learn gospel |  
+| bip_39_word_space_11 | keen group tourist kite truly hood weekend addict learn gospel concert |  
+| bip_39_word_space_12 | keen group tourist kite truly hood weekend addict learn gospel concert adjust |  
+| bip_39_word_space_2 | keen group |  
+| bip_39_word_space_3 | keen group tourist |  
+| bip_39_word_space_4 | keen group tourist kite |  
+| bip_39_word_space_5 | keen group tourist kite truly |  
+| bip_39_word_space_6 | keen group tourist kite truly hood |  
+| bip_39_word_space_7 | keen group tourist kite truly hood weekend |  
+| bip_39_word_space_8 | keen group tourist kite truly hood weekend addict |  
+| bip_39_word_space_9 | keen group tourist kite truly hood weekend addict learn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pool
+bip_39_word_new_br10: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury<br>equip<br>chicken<br>supreme<br>monkey
+bip_39_word_new_br11: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury<br>equip<br>chicken<br>supreme<br>monkey<br>luggage
+bip_39_word_new_br12: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury<br>equip<br>chicken<br>supreme<br>monkey<br>luggage<br>alert
+bip_39_word_new_br2: pool<br>avoid
+bip_39_word_new_br3: pool<br>avoid<br>glow
+bip_39_word_new_br4: pool<br>avoid<br>glow<br>aerobic
+bip_39_word_new_br5: pool<br>avoid<br>glow<br>aerobic<br>raven
+bip_39_word_new_br6: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury
+bip_39_word_new_br7: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury<br>equip
+bip_39_word_new_br8: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury<br>equip<br>chicken
+bip_39_word_new_br9: pool<br>avoid<br>glow<br>aerobic<br>raven<br>luxury<br>equip<br>chicken<br>supreme
+bip_39_word_new_line1: pool
+bip_39_word_new_line10: 'pool
+
+  avoid
+
+  glow
+
+  aerobic
+
+  raven
+
+  luxury
+
+  equip
+
+  chicken
+
+  supreme
+
+  monkey'
+bip_39_word_new_line11: 'pool
+
+  avoid
+
+  glow
+
+  aerobic
+
+  raven
+
+  luxury
+
+  equip
+
+  chicken
+
+  supreme
+
+  monkey
+
+  luggage'
+bip_39_word_new_line12: 'pool
+
+  avoid
+
+  glow
+
+  aerobic
+
+  raven
+
+  luxury
+
+  equip
+
+  chicken
+
+  supreme
+
+  monkey
+
+  luggage
+
+  alert'
+bip_39_word_new_line2: 'pool
+
+  avoid'
+bip_39_word_new_line3: 'pool
+
+  avoid
+
+  glow'
+bip_39_word_new_line4: 'pool
+
+  avoid
+
+  glow
+
+  aerobic'
+bip_39_word_new_line5: 'pool
+
+  avoid
+
+  glow
+
+  aerobic
+
+  raven'
+bip_39_word_new_line6: 'pool
+
+  avoid
+
+  glow
+
+  aerobic
+
+  raven
+
+  luxury'
+bip_39_word_new_line7: 'pool
+
+  avoid
+
+  glow
+
+  aerobic
+
+  raven
+
+  luxury
+
+  equip'
+bip_39_word_new_line8: 'pool
+
+  avoid
+
+  glow
+
+  aerobic
+
+  raven
+
+  luxury
+
+  equip
+
+  chicken'
+bip_39_word_new_line9: 'pool
+
+  avoid
+
+  glow
+
+  aerobic
+
+  raven
+
+  luxury
+
+  equip
+
+  chicken
+
+  supreme'
+bip_39_word_space_0:
+- pool
+- avoid
+- glow
+- aerobic
+- raven
+- luxury
+- equip
+- chicken
+- supreme
+- monkey
+- luggage
+- alert
+bip_39_word_space_1: pool
+bip_39_word_space_10: pool avoid glow aerobic raven luxury equip chicken supreme monkey
+bip_39_word_space_11: pool avoid glow aerobic raven luxury equip chicken supreme monkey
+  luggage
+bip_39_word_space_12: pool avoid glow aerobic raven luxury equip chicken supreme monkey
+  luggage alert
+bip_39_word_space_2: pool avoid
+bip_39_word_space_3: pool avoid glow
+bip_39_word_space_4: pool avoid glow aerobic
+bip_39_word_space_5: pool avoid glow aerobic raven
+bip_39_word_space_6: pool avoid glow aerobic raven luxury
+bip_39_word_space_7: pool avoid glow aerobic raven luxury equip
+bip_39_word_space_8: pool avoid glow aerobic raven luxury equip chicken
+bip_39_word_space_9: pool avoid glow aerobic raven luxury equip chicken supreme
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

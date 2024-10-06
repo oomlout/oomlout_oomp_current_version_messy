@@ -1,3 +1,187 @@
+bip_39_word_new_br1: belt
+bip_39_word_new_br10: belt<br>extend<br>thought<br>measure<br>radio<br>turtle<br>scale<br>globe<br>produce<br>giraffe
+bip_39_word_new_br11: belt<br>extend<br>thought<br>measure<br>radio<br>turtle<br>scale<br>globe<br>produce<br>giraffe<br>treat
+bip_39_word_new_br12: belt<br>extend<br>thought<br>measure<br>radio<br>turtle<br>scale<br>globe<br>produce<br>giraffe<br>treat<br>air
+bip_39_word_new_br2: belt<br>extend
+bip_39_word_new_br3: belt<br>extend<br>thought
+bip_39_word_new_br4: belt<br>extend<br>thought<br>measure
+bip_39_word_new_br5: belt<br>extend<br>thought<br>measure<br>radio
+bip_39_word_new_br6: belt<br>extend<br>thought<br>measure<br>radio<br>turtle
+bip_39_word_new_br7: belt<br>extend<br>thought<br>measure<br>radio<br>turtle<br>scale
+bip_39_word_new_br8: belt<br>extend<br>thought<br>measure<br>radio<br>turtle<br>scale<br>globe
+bip_39_word_new_br9: belt<br>extend<br>thought<br>measure<br>radio<br>turtle<br>scale<br>globe<br>produce
+bip_39_word_new_line1: belt
+bip_39_word_new_line10: 'belt
+
+  extend
+
+  thought
+
+  measure
+
+  radio
+
+  turtle
+
+  scale
+
+  globe
+
+  produce
+
+  giraffe'
+bip_39_word_new_line11: 'belt
+
+  extend
+
+  thought
+
+  measure
+
+  radio
+
+  turtle
+
+  scale
+
+  globe
+
+  produce
+
+  giraffe
+
+  treat'
+bip_39_word_new_line12: 'belt
+
+  extend
+
+  thought
+
+  measure
+
+  radio
+
+  turtle
+
+  scale
+
+  globe
+
+  produce
+
+  giraffe
+
+  treat
+
+  air'
+bip_39_word_new_line2: 'belt
+
+  extend'
+bip_39_word_new_line3: 'belt
+
+  extend
+
+  thought'
+bip_39_word_new_line4: 'belt
+
+  extend
+
+  thought
+
+  measure'
+bip_39_word_new_line5: 'belt
+
+  extend
+
+  thought
+
+  measure
+
+  radio'
+bip_39_word_new_line6: 'belt
+
+  extend
+
+  thought
+
+  measure
+
+  radio
+
+  turtle'
+bip_39_word_new_line7: 'belt
+
+  extend
+
+  thought
+
+  measure
+
+  radio
+
+  turtle
+
+  scale'
+bip_39_word_new_line8: 'belt
+
+  extend
+
+  thought
+
+  measure
+
+  radio
+
+  turtle
+
+  scale
+
+  globe'
+bip_39_word_new_line9: 'belt
+
+  extend
+
+  thought
+
+  measure
+
+  radio
+
+  turtle
+
+  scale
+
+  globe
+
+  produce'
+bip_39_word_space_0:
+- belt
+- extend
+- thought
+- measure
+- radio
+- turtle
+- scale
+- globe
+- produce
+- giraffe
+- treat
+- air
+bip_39_word_space_1: belt
+bip_39_word_space_10: belt extend thought measure radio turtle scale globe produce
+  giraffe
+bip_39_word_space_11: belt extend thought measure radio turtle scale globe produce
+  giraffe treat
+bip_39_word_space_12: belt extend thought measure radio turtle scale globe produce
+  giraffe treat air
+bip_39_word_space_2: belt extend
+bip_39_word_space_3: belt extend thought
+bip_39_word_space_4: belt extend thought measure
+bip_39_word_space_5: belt extend thought measure radio
+bip_39_word_space_6: belt extend thought measure radio turtle
+bip_39_word_space_7: belt extend thought measure radio turtle scale
+bip_39_word_space_8: belt extend thought measure radio turtle scale globe
+bip_39_word_space_9: belt extend thought measure radio turtle scale globe produce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

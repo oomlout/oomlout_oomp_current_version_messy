@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: army ribbon
+  * bip 39 word 3: army ribbon sing
+  * bip 39 word: army ribbon sing bridge way essence siege wet almost party lesson arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | army |  
+| bip_39_word_new_br10 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party |  
+| bip_39_word_new_br11 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party<br>lesson |  
+| bip_39_word_new_br12 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost<br>party<br>lesson<br>arm |  
+| bip_39_word_new_br2 | army<br>ribbon |  
+| bip_39_word_new_br3 | army<br>ribbon<br>sing |  
+| bip_39_word_new_br4 | army<br>ribbon<br>sing<br>bridge |  
+| bip_39_word_new_br5 | army<br>ribbon<br>sing<br>bridge<br>way |  
+| bip_39_word_new_br6 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence |  
+| bip_39_word_new_br7 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege |  
+| bip_39_word_new_br8 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet |  
+| bip_39_word_new_br9 | army<br>ribbon<br>sing<br>bridge<br>way<br>essence<br>siege<br>wet<br>almost |  
+| bip_39_word_new_line1 | army |  
+| bip_39_word_new_line10 | army
+ribbon
+sing
+bridge
+way
+essence
+siege
+wet
+almost
+party |  
+| bip_39_word_new_line11 | army
+ribbon
+sing
+bridge
+way
+essence
+siege
+wet
+almost
+party
+lesson |  
+| bip_39_word_new_line12 | army
+ribbon
+sing
+bridge
+way
+essence
+siege
+wet
+almost
+party
+lesson
+arm |  
+| bip_39_word_new_line2 | army
+ribbon |  
+| bip_39_word_new_line3 | army
+ribbon
+sing |  
+| bip_39_word_new_line4 | army
+ribbon
+sing
+bridge |  
+| bip_39_word_new_line5 | army
+ribbon
+sing
+bridge
+way |  
+| bip_39_word_new_line6 | army
+ribbon
+sing
+bridge
+way
+essence |  
+| bip_39_word_new_line7 | army
+ribbon
+sing
+bridge
+way
+essence
+siege |  
+| bip_39_word_new_line8 | army
+ribbon
+sing
+bridge
+way
+essence
+siege
+wet |  
+| bip_39_word_new_line9 | army
+ribbon
+sing
+bridge
+way
+essence
+siege
+wet
+almost |  
+| bip_39_word_space_0 | ['army', 'ribbon', 'sing', 'bridge', 'way', 'essence', 'siege', 'wet', 'almost', 'party', 'lesson', 'arm'] |  
+| bip_39_word_space_1 | army |  
+| bip_39_word_space_10 | army ribbon sing bridge way essence siege wet almost party |  
+| bip_39_word_space_11 | army ribbon sing bridge way essence siege wet almost party lesson |  
+| bip_39_word_space_12 | army ribbon sing bridge way essence siege wet almost party lesson arm |  
+| bip_39_word_space_2 | army ribbon |  
+| bip_39_word_space_3 | army ribbon sing |  
+| bip_39_word_space_4 | army ribbon sing bridge |  
+| bip_39_word_space_5 | army ribbon sing bridge way |  
+| bip_39_word_space_6 | army ribbon sing bridge way essence |  
+| bip_39_word_space_7 | army ribbon sing bridge way essence siege |  
+| bip_39_word_space_8 | army ribbon sing bridge way essence siege wet |  
+| bip_39_word_space_9 | army ribbon sing bridge way essence siege wet almost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

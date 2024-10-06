@@ -1,3 +1,186 @@
+bip_39_word_new_br1: romance
+bip_39_word_new_br10: romance<br>belt<br>coral<br>accident<br>great<br>make<br>sauce<br>pave<br>input<br>goose
+bip_39_word_new_br11: romance<br>belt<br>coral<br>accident<br>great<br>make<br>sauce<br>pave<br>input<br>goose<br>milk
+bip_39_word_new_br12: romance<br>belt<br>coral<br>accident<br>great<br>make<br>sauce<br>pave<br>input<br>goose<br>milk<br>afford
+bip_39_word_new_br2: romance<br>belt
+bip_39_word_new_br3: romance<br>belt<br>coral
+bip_39_word_new_br4: romance<br>belt<br>coral<br>accident
+bip_39_word_new_br5: romance<br>belt<br>coral<br>accident<br>great
+bip_39_word_new_br6: romance<br>belt<br>coral<br>accident<br>great<br>make
+bip_39_word_new_br7: romance<br>belt<br>coral<br>accident<br>great<br>make<br>sauce
+bip_39_word_new_br8: romance<br>belt<br>coral<br>accident<br>great<br>make<br>sauce<br>pave
+bip_39_word_new_br9: romance<br>belt<br>coral<br>accident<br>great<br>make<br>sauce<br>pave<br>input
+bip_39_word_new_line1: romance
+bip_39_word_new_line10: 'romance
+
+  belt
+
+  coral
+
+  accident
+
+  great
+
+  make
+
+  sauce
+
+  pave
+
+  input
+
+  goose'
+bip_39_word_new_line11: 'romance
+
+  belt
+
+  coral
+
+  accident
+
+  great
+
+  make
+
+  sauce
+
+  pave
+
+  input
+
+  goose
+
+  milk'
+bip_39_word_new_line12: 'romance
+
+  belt
+
+  coral
+
+  accident
+
+  great
+
+  make
+
+  sauce
+
+  pave
+
+  input
+
+  goose
+
+  milk
+
+  afford'
+bip_39_word_new_line2: 'romance
+
+  belt'
+bip_39_word_new_line3: 'romance
+
+  belt
+
+  coral'
+bip_39_word_new_line4: 'romance
+
+  belt
+
+  coral
+
+  accident'
+bip_39_word_new_line5: 'romance
+
+  belt
+
+  coral
+
+  accident
+
+  great'
+bip_39_word_new_line6: 'romance
+
+  belt
+
+  coral
+
+  accident
+
+  great
+
+  make'
+bip_39_word_new_line7: 'romance
+
+  belt
+
+  coral
+
+  accident
+
+  great
+
+  make
+
+  sauce'
+bip_39_word_new_line8: 'romance
+
+  belt
+
+  coral
+
+  accident
+
+  great
+
+  make
+
+  sauce
+
+  pave'
+bip_39_word_new_line9: 'romance
+
+  belt
+
+  coral
+
+  accident
+
+  great
+
+  make
+
+  sauce
+
+  pave
+
+  input'
+bip_39_word_space_0:
+- romance
+- belt
+- coral
+- accident
+- great
+- make
+- sauce
+- pave
+- input
+- goose
+- milk
+- afford
+bip_39_word_space_1: romance
+bip_39_word_space_10: romance belt coral accident great make sauce pave input goose
+bip_39_word_space_11: romance belt coral accident great make sauce pave input goose
+  milk
+bip_39_word_space_12: romance belt coral accident great make sauce pave input goose
+  milk afford
+bip_39_word_space_2: romance belt
+bip_39_word_space_3: romance belt coral
+bip_39_word_space_4: romance belt coral accident
+bip_39_word_space_5: romance belt coral accident great
+bip_39_word_space_6: romance belt coral accident great make
+bip_39_word_space_7: romance belt coral accident great make sauce
+bip_39_word_space_8: romance belt coral accident great make sauce pave
+bip_39_word_space_9: romance belt coral accident great make sauce pave input
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

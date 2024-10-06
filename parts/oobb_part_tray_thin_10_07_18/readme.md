@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flat deer
+  * bip 39 word 3: flat deer grief
+  * bip 39 word: flat deer grief embrace wheel tenant black lottery cat believe hint amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flat |  
+| bip_39_word_new_br10 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat<br>believe |  
+| bip_39_word_new_br11 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat<br>believe<br>hint |  
+| bip_39_word_new_br12 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat<br>believe<br>hint<br>amazing |  
+| bip_39_word_new_br2 | flat<br>deer |  
+| bip_39_word_new_br3 | flat<br>deer<br>grief |  
+| bip_39_word_new_br4 | flat<br>deer<br>grief<br>embrace |  
+| bip_39_word_new_br5 | flat<br>deer<br>grief<br>embrace<br>wheel |  
+| bip_39_word_new_br6 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant |  
+| bip_39_word_new_br7 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black |  
+| bip_39_word_new_br8 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery |  
+| bip_39_word_new_br9 | flat<br>deer<br>grief<br>embrace<br>wheel<br>tenant<br>black<br>lottery<br>cat |  
+| bip_39_word_new_line1 | flat |  
+| bip_39_word_new_line10 | flat
+deer
+grief
+embrace
+wheel
+tenant
+black
+lottery
+cat
+believe |  
+| bip_39_word_new_line11 | flat
+deer
+grief
+embrace
+wheel
+tenant
+black
+lottery
+cat
+believe
+hint |  
+| bip_39_word_new_line12 | flat
+deer
+grief
+embrace
+wheel
+tenant
+black
+lottery
+cat
+believe
+hint
+amazing |  
+| bip_39_word_new_line2 | flat
+deer |  
+| bip_39_word_new_line3 | flat
+deer
+grief |  
+| bip_39_word_new_line4 | flat
+deer
+grief
+embrace |  
+| bip_39_word_new_line5 | flat
+deer
+grief
+embrace
+wheel |  
+| bip_39_word_new_line6 | flat
+deer
+grief
+embrace
+wheel
+tenant |  
+| bip_39_word_new_line7 | flat
+deer
+grief
+embrace
+wheel
+tenant
+black |  
+| bip_39_word_new_line8 | flat
+deer
+grief
+embrace
+wheel
+tenant
+black
+lottery |  
+| bip_39_word_new_line9 | flat
+deer
+grief
+embrace
+wheel
+tenant
+black
+lottery
+cat |  
+| bip_39_word_space_0 | ['flat', 'deer', 'grief', 'embrace', 'wheel', 'tenant', 'black', 'lottery', 'cat', 'believe', 'hint', 'amazing'] |  
+| bip_39_word_space_1 | flat |  
+| bip_39_word_space_10 | flat deer grief embrace wheel tenant black lottery cat believe |  
+| bip_39_word_space_11 | flat deer grief embrace wheel tenant black lottery cat believe hint |  
+| bip_39_word_space_12 | flat deer grief embrace wheel tenant black lottery cat believe hint amazing |  
+| bip_39_word_space_2 | flat deer |  
+| bip_39_word_space_3 | flat deer grief |  
+| bip_39_word_space_4 | flat deer grief embrace |  
+| bip_39_word_space_5 | flat deer grief embrace wheel |  
+| bip_39_word_space_6 | flat deer grief embrace wheel tenant |  
+| bip_39_word_space_7 | flat deer grief embrace wheel tenant black |  
+| bip_39_word_space_8 | flat deer grief embrace wheel tenant black lottery |  
+| bip_39_word_space_9 | flat deer grief embrace wheel tenant black lottery cat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

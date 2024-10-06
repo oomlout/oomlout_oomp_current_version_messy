@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: burst eternal
+  * bip 39 word 3: burst eternal reject
+  * bip 39 word: burst eternal reject monster ivory convince chest sing rapid symbol print admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | burst |  
+| bip_39_word_new_br10 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince<br>chest<br>sing<br>rapid<br>symbol |  
+| bip_39_word_new_br11 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince<br>chest<br>sing<br>rapid<br>symbol<br>print |  
+| bip_39_word_new_br12 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince<br>chest<br>sing<br>rapid<br>symbol<br>print<br>admit |  
+| bip_39_word_new_br2 | burst<br>eternal |  
+| bip_39_word_new_br3 | burst<br>eternal<br>reject |  
+| bip_39_word_new_br4 | burst<br>eternal<br>reject<br>monster |  
+| bip_39_word_new_br5 | burst<br>eternal<br>reject<br>monster<br>ivory |  
+| bip_39_word_new_br6 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince |  
+| bip_39_word_new_br7 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince<br>chest |  
+| bip_39_word_new_br8 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince<br>chest<br>sing |  
+| bip_39_word_new_br9 | burst<br>eternal<br>reject<br>monster<br>ivory<br>convince<br>chest<br>sing<br>rapid |  
+| bip_39_word_new_line1 | burst |  
+| bip_39_word_new_line10 | burst
+eternal
+reject
+monster
+ivory
+convince
+chest
+sing
+rapid
+symbol |  
+| bip_39_word_new_line11 | burst
+eternal
+reject
+monster
+ivory
+convince
+chest
+sing
+rapid
+symbol
+print |  
+| bip_39_word_new_line12 | burst
+eternal
+reject
+monster
+ivory
+convince
+chest
+sing
+rapid
+symbol
+print
+admit |  
+| bip_39_word_new_line2 | burst
+eternal |  
+| bip_39_word_new_line3 | burst
+eternal
+reject |  
+| bip_39_word_new_line4 | burst
+eternal
+reject
+monster |  
+| bip_39_word_new_line5 | burst
+eternal
+reject
+monster
+ivory |  
+| bip_39_word_new_line6 | burst
+eternal
+reject
+monster
+ivory
+convince |  
+| bip_39_word_new_line7 | burst
+eternal
+reject
+monster
+ivory
+convince
+chest |  
+| bip_39_word_new_line8 | burst
+eternal
+reject
+monster
+ivory
+convince
+chest
+sing |  
+| bip_39_word_new_line9 | burst
+eternal
+reject
+monster
+ivory
+convince
+chest
+sing
+rapid |  
+| bip_39_word_space_0 | ['burst', 'eternal', 'reject', 'monster', 'ivory', 'convince', 'chest', 'sing', 'rapid', 'symbol', 'print', 'admit'] |  
+| bip_39_word_space_1 | burst |  
+| bip_39_word_space_10 | burst eternal reject monster ivory convince chest sing rapid symbol |  
+| bip_39_word_space_11 | burst eternal reject monster ivory convince chest sing rapid symbol print |  
+| bip_39_word_space_12 | burst eternal reject monster ivory convince chest sing rapid symbol print admit |  
+| bip_39_word_space_2 | burst eternal |  
+| bip_39_word_space_3 | burst eternal reject |  
+| bip_39_word_space_4 | burst eternal reject monster |  
+| bip_39_word_space_5 | burst eternal reject monster ivory |  
+| bip_39_word_space_6 | burst eternal reject monster ivory convince |  
+| bip_39_word_space_7 | burst eternal reject monster ivory convince chest |  
+| bip_39_word_space_8 | burst eternal reject monster ivory convince chest sing |  
+| bip_39_word_space_9 | burst eternal reject monster ivory convince chest sing rapid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

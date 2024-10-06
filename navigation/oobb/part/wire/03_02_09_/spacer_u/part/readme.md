@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spoon install
+  * bip 39 word 3: spoon install cake
+  * bip 39 word: spoon install cake grief pitch gossip girl toe increase dress dirt attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spoon |  
+| bip_39_word_new_br10 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip<br>girl<br>toe<br>increase<br>dress |  
+| bip_39_word_new_br11 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip<br>girl<br>toe<br>increase<br>dress<br>dirt |  
+| bip_39_word_new_br12 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip<br>girl<br>toe<br>increase<br>dress<br>dirt<br>attitude |  
+| bip_39_word_new_br2 | spoon<br>install |  
+| bip_39_word_new_br3 | spoon<br>install<br>cake |  
+| bip_39_word_new_br4 | spoon<br>install<br>cake<br>grief |  
+| bip_39_word_new_br5 | spoon<br>install<br>cake<br>grief<br>pitch |  
+| bip_39_word_new_br6 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip |  
+| bip_39_word_new_br7 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip<br>girl |  
+| bip_39_word_new_br8 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip<br>girl<br>toe |  
+| bip_39_word_new_br9 | spoon<br>install<br>cake<br>grief<br>pitch<br>gossip<br>girl<br>toe<br>increase |  
+| bip_39_word_new_line1 | spoon |  
+| bip_39_word_new_line10 | spoon
+install
+cake
+grief
+pitch
+gossip
+girl
+toe
+increase
+dress |  
+| bip_39_word_new_line11 | spoon
+install
+cake
+grief
+pitch
+gossip
+girl
+toe
+increase
+dress
+dirt |  
+| bip_39_word_new_line12 | spoon
+install
+cake
+grief
+pitch
+gossip
+girl
+toe
+increase
+dress
+dirt
+attitude |  
+| bip_39_word_new_line2 | spoon
+install |  
+| bip_39_word_new_line3 | spoon
+install
+cake |  
+| bip_39_word_new_line4 | spoon
+install
+cake
+grief |  
+| bip_39_word_new_line5 | spoon
+install
+cake
+grief
+pitch |  
+| bip_39_word_new_line6 | spoon
+install
+cake
+grief
+pitch
+gossip |  
+| bip_39_word_new_line7 | spoon
+install
+cake
+grief
+pitch
+gossip
+girl |  
+| bip_39_word_new_line8 | spoon
+install
+cake
+grief
+pitch
+gossip
+girl
+toe |  
+| bip_39_word_new_line9 | spoon
+install
+cake
+grief
+pitch
+gossip
+girl
+toe
+increase |  
+| bip_39_word_space_0 | ['spoon', 'install', 'cake', 'grief', 'pitch', 'gossip', 'girl', 'toe', 'increase', 'dress', 'dirt', 'attitude'] |  
+| bip_39_word_space_1 | spoon |  
+| bip_39_word_space_10 | spoon install cake grief pitch gossip girl toe increase dress |  
+| bip_39_word_space_11 | spoon install cake grief pitch gossip girl toe increase dress dirt |  
+| bip_39_word_space_12 | spoon install cake grief pitch gossip girl toe increase dress dirt attitude |  
+| bip_39_word_space_2 | spoon install |  
+| bip_39_word_space_3 | spoon install cake |  
+| bip_39_word_space_4 | spoon install cake grief |  
+| bip_39_word_space_5 | spoon install cake grief pitch |  
+| bip_39_word_space_6 | spoon install cake grief pitch gossip |  
+| bip_39_word_space_7 | spoon install cake grief pitch gossip girl |  
+| bip_39_word_space_8 | spoon install cake grief pitch gossip girl toe |  
+| bip_39_word_space_9 | spoon install cake grief pitch gossip girl toe increase |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glass candy
+  * bip 39 word 3: glass candy response
+  * bip 39 word: glass candy response any bunker sound process donor belt hint benefit adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glass |  
+| bip_39_word_new_br10 | glass<br>candy<br>response<br>any<br>bunker<br>sound<br>process<br>donor<br>belt<br>hint |  
+| bip_39_word_new_br11 | glass<br>candy<br>response<br>any<br>bunker<br>sound<br>process<br>donor<br>belt<br>hint<br>benefit |  
+| bip_39_word_new_br12 | glass<br>candy<br>response<br>any<br>bunker<br>sound<br>process<br>donor<br>belt<br>hint<br>benefit<br>adjust |  
+| bip_39_word_new_br2 | glass<br>candy |  
+| bip_39_word_new_br3 | glass<br>candy<br>response |  
+| bip_39_word_new_br4 | glass<br>candy<br>response<br>any |  
+| bip_39_word_new_br5 | glass<br>candy<br>response<br>any<br>bunker |  
+| bip_39_word_new_br6 | glass<br>candy<br>response<br>any<br>bunker<br>sound |  
+| bip_39_word_new_br7 | glass<br>candy<br>response<br>any<br>bunker<br>sound<br>process |  
+| bip_39_word_new_br8 | glass<br>candy<br>response<br>any<br>bunker<br>sound<br>process<br>donor |  
+| bip_39_word_new_br9 | glass<br>candy<br>response<br>any<br>bunker<br>sound<br>process<br>donor<br>belt |  
+| bip_39_word_new_line1 | glass |  
+| bip_39_word_new_line10 | glass
+candy
+response
+any
+bunker
+sound
+process
+donor
+belt
+hint |  
+| bip_39_word_new_line11 | glass
+candy
+response
+any
+bunker
+sound
+process
+donor
+belt
+hint
+benefit |  
+| bip_39_word_new_line12 | glass
+candy
+response
+any
+bunker
+sound
+process
+donor
+belt
+hint
+benefit
+adjust |  
+| bip_39_word_new_line2 | glass
+candy |  
+| bip_39_word_new_line3 | glass
+candy
+response |  
+| bip_39_word_new_line4 | glass
+candy
+response
+any |  
+| bip_39_word_new_line5 | glass
+candy
+response
+any
+bunker |  
+| bip_39_word_new_line6 | glass
+candy
+response
+any
+bunker
+sound |  
+| bip_39_word_new_line7 | glass
+candy
+response
+any
+bunker
+sound
+process |  
+| bip_39_word_new_line8 | glass
+candy
+response
+any
+bunker
+sound
+process
+donor |  
+| bip_39_word_new_line9 | glass
+candy
+response
+any
+bunker
+sound
+process
+donor
+belt |  
+| bip_39_word_space_0 | ['glass', 'candy', 'response', 'any', 'bunker', 'sound', 'process', 'donor', 'belt', 'hint', 'benefit', 'adjust'] |  
+| bip_39_word_space_1 | glass |  
+| bip_39_word_space_10 | glass candy response any bunker sound process donor belt hint |  
+| bip_39_word_space_11 | glass candy response any bunker sound process donor belt hint benefit |  
+| bip_39_word_space_12 | glass candy response any bunker sound process donor belt hint benefit adjust |  
+| bip_39_word_space_2 | glass candy |  
+| bip_39_word_space_3 | glass candy response |  
+| bip_39_word_space_4 | glass candy response any |  
+| bip_39_word_space_5 | glass candy response any bunker |  
+| bip_39_word_space_6 | glass candy response any bunker sound |  
+| bip_39_word_space_7 | glass candy response any bunker sound process |  
+| bip_39_word_space_8 | glass candy response any bunker sound process donor |  
+| bip_39_word_space_9 | glass candy response any bunker sound process donor belt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

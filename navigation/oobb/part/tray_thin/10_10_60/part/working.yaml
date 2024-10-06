@@ -1,3 +1,187 @@
+bip_39_word_new_br1: daughter
+bip_39_word_new_br10: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert
+bip_39_word_new_br11: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze
+bip_39_word_new_br12: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze<br>already
+bip_39_word_new_br2: daughter<br>vibrant
+bip_39_word_new_br3: daughter<br>vibrant<br>oil
+bip_39_word_new_br4: daughter<br>vibrant<br>oil<br>marble
+bip_39_word_new_br5: daughter<br>vibrant<br>oil<br>marble<br>breeze
+bip_39_word_new_br6: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely
+bip_39_word_new_br7: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand
+bip_39_word_new_br8: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august
+bip_39_word_new_br9: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort
+bip_39_word_new_line1: daughter
+bip_39_word_new_line10: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august
+
+  comfort
+
+  concert'
+bip_39_word_new_line11: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august
+
+  comfort
+
+  concert
+
+  gaze'
+bip_39_word_new_line12: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august
+
+  comfort
+
+  concert
+
+  gaze
+
+  already'
+bip_39_word_new_line2: 'daughter
+
+  vibrant'
+bip_39_word_new_line3: 'daughter
+
+  vibrant
+
+  oil'
+bip_39_word_new_line4: 'daughter
+
+  vibrant
+
+  oil
+
+  marble'
+bip_39_word_new_line5: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze'
+bip_39_word_new_line6: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely'
+bip_39_word_new_line7: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand'
+bip_39_word_new_line8: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august'
+bip_39_word_new_line9: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august
+
+  comfort'
+bip_39_word_space_0:
+- daughter
+- vibrant
+- oil
+- marble
+- breeze
+- rely
+- demand
+- august
+- comfort
+- concert
+- gaze
+- already
+bip_39_word_space_1: daughter
+bip_39_word_space_10: daughter vibrant oil marble breeze rely demand august comfort
+  concert
+bip_39_word_space_11: daughter vibrant oil marble breeze rely demand august comfort
+  concert gaze
+bip_39_word_space_12: daughter vibrant oil marble breeze rely demand august comfort
+  concert gaze already
+bip_39_word_space_2: daughter vibrant
+bip_39_word_space_3: daughter vibrant oil
+bip_39_word_space_4: daughter vibrant oil marble
+bip_39_word_space_5: daughter vibrant oil marble breeze
+bip_39_word_space_6: daughter vibrant oil marble breeze rely
+bip_39_word_space_7: daughter vibrant oil marble breeze rely demand
+bip_39_word_space_8: daughter vibrant oil marble breeze rely demand august
+bip_39_word_space_9: daughter vibrant oil marble breeze rely demand august comfort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

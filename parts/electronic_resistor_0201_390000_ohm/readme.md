@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: relief iron
+  * bip 39 word 3: relief iron key
+  * bip 39 word: relief iron key crater sound meat birth rate trick essence fade arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | relief |  
+| bip_39_word_new_br10 | relief<br>iron<br>key<br>crater<br>sound<br>meat<br>birth<br>rate<br>trick<br>essence |  
+| bip_39_word_new_br11 | relief<br>iron<br>key<br>crater<br>sound<br>meat<br>birth<br>rate<br>trick<br>essence<br>fade |  
+| bip_39_word_new_br12 | relief<br>iron<br>key<br>crater<br>sound<br>meat<br>birth<br>rate<br>trick<br>essence<br>fade<br>arrange |  
+| bip_39_word_new_br2 | relief<br>iron |  
+| bip_39_word_new_br3 | relief<br>iron<br>key |  
+| bip_39_word_new_br4 | relief<br>iron<br>key<br>crater |  
+| bip_39_word_new_br5 | relief<br>iron<br>key<br>crater<br>sound |  
+| bip_39_word_new_br6 | relief<br>iron<br>key<br>crater<br>sound<br>meat |  
+| bip_39_word_new_br7 | relief<br>iron<br>key<br>crater<br>sound<br>meat<br>birth |  
+| bip_39_word_new_br8 | relief<br>iron<br>key<br>crater<br>sound<br>meat<br>birth<br>rate |  
+| bip_39_word_new_br9 | relief<br>iron<br>key<br>crater<br>sound<br>meat<br>birth<br>rate<br>trick |  
+| bip_39_word_new_line1 | relief |  
+| bip_39_word_new_line10 | relief
+iron
+key
+crater
+sound
+meat
+birth
+rate
+trick
+essence |  
+| bip_39_word_new_line11 | relief
+iron
+key
+crater
+sound
+meat
+birth
+rate
+trick
+essence
+fade |  
+| bip_39_word_new_line12 | relief
+iron
+key
+crater
+sound
+meat
+birth
+rate
+trick
+essence
+fade
+arrange |  
+| bip_39_word_new_line2 | relief
+iron |  
+| bip_39_word_new_line3 | relief
+iron
+key |  
+| bip_39_word_new_line4 | relief
+iron
+key
+crater |  
+| bip_39_word_new_line5 | relief
+iron
+key
+crater
+sound |  
+| bip_39_word_new_line6 | relief
+iron
+key
+crater
+sound
+meat |  
+| bip_39_word_new_line7 | relief
+iron
+key
+crater
+sound
+meat
+birth |  
+| bip_39_word_new_line8 | relief
+iron
+key
+crater
+sound
+meat
+birth
+rate |  
+| bip_39_word_new_line9 | relief
+iron
+key
+crater
+sound
+meat
+birth
+rate
+trick |  
+| bip_39_word_space_0 | ['relief', 'iron', 'key', 'crater', 'sound', 'meat', 'birth', 'rate', 'trick', 'essence', 'fade', 'arrange'] |  
+| bip_39_word_space_1 | relief |  
+| bip_39_word_space_10 | relief iron key crater sound meat birth rate trick essence |  
+| bip_39_word_space_11 | relief iron key crater sound meat birth rate trick essence fade |  
+| bip_39_word_space_12 | relief iron key crater sound meat birth rate trick essence fade arrange |  
+| bip_39_word_space_2 | relief iron |  
+| bip_39_word_space_3 | relief iron key |  
+| bip_39_word_space_4 | relief iron key crater |  
+| bip_39_word_space_5 | relief iron key crater sound |  
+| bip_39_word_space_6 | relief iron key crater sound meat |  
+| bip_39_word_space_7 | relief iron key crater sound meat birth |  
+| bip_39_word_space_8 | relief iron key crater sound meat birth rate |  
+| bip_39_word_space_9 | relief iron key crater sound meat birth rate trick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

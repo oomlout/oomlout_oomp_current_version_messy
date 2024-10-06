@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: puppy clarify
+  * bip 39 word 3: puppy clarify spring
+  * bip 39 word: puppy clarify spring lyrics green buzz shed museum relief certain exit arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | puppy |  
+| bip_39_word_new_br10 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz<br>shed<br>museum<br>relief<br>certain |  
+| bip_39_word_new_br11 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz<br>shed<br>museum<br>relief<br>certain<br>exit |  
+| bip_39_word_new_br12 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz<br>shed<br>museum<br>relief<br>certain<br>exit<br>arena |  
+| bip_39_word_new_br2 | puppy<br>clarify |  
+| bip_39_word_new_br3 | puppy<br>clarify<br>spring |  
+| bip_39_word_new_br4 | puppy<br>clarify<br>spring<br>lyrics |  
+| bip_39_word_new_br5 | puppy<br>clarify<br>spring<br>lyrics<br>green |  
+| bip_39_word_new_br6 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz |  
+| bip_39_word_new_br7 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz<br>shed |  
+| bip_39_word_new_br8 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz<br>shed<br>museum |  
+| bip_39_word_new_br9 | puppy<br>clarify<br>spring<br>lyrics<br>green<br>buzz<br>shed<br>museum<br>relief |  
+| bip_39_word_new_line1 | puppy |  
+| bip_39_word_new_line10 | puppy
+clarify
+spring
+lyrics
+green
+buzz
+shed
+museum
+relief
+certain |  
+| bip_39_word_new_line11 | puppy
+clarify
+spring
+lyrics
+green
+buzz
+shed
+museum
+relief
+certain
+exit |  
+| bip_39_word_new_line12 | puppy
+clarify
+spring
+lyrics
+green
+buzz
+shed
+museum
+relief
+certain
+exit
+arena |  
+| bip_39_word_new_line2 | puppy
+clarify |  
+| bip_39_word_new_line3 | puppy
+clarify
+spring |  
+| bip_39_word_new_line4 | puppy
+clarify
+spring
+lyrics |  
+| bip_39_word_new_line5 | puppy
+clarify
+spring
+lyrics
+green |  
+| bip_39_word_new_line6 | puppy
+clarify
+spring
+lyrics
+green
+buzz |  
+| bip_39_word_new_line7 | puppy
+clarify
+spring
+lyrics
+green
+buzz
+shed |  
+| bip_39_word_new_line8 | puppy
+clarify
+spring
+lyrics
+green
+buzz
+shed
+museum |  
+| bip_39_word_new_line9 | puppy
+clarify
+spring
+lyrics
+green
+buzz
+shed
+museum
+relief |  
+| bip_39_word_space_0 | ['puppy', 'clarify', 'spring', 'lyrics', 'green', 'buzz', 'shed', 'museum', 'relief', 'certain', 'exit', 'arena'] |  
+| bip_39_word_space_1 | puppy |  
+| bip_39_word_space_10 | puppy clarify spring lyrics green buzz shed museum relief certain |  
+| bip_39_word_space_11 | puppy clarify spring lyrics green buzz shed museum relief certain exit |  
+| bip_39_word_space_12 | puppy clarify spring lyrics green buzz shed museum relief certain exit arena |  
+| bip_39_word_space_2 | puppy clarify |  
+| bip_39_word_space_3 | puppy clarify spring |  
+| bip_39_word_space_4 | puppy clarify spring lyrics |  
+| bip_39_word_space_5 | puppy clarify spring lyrics green |  
+| bip_39_word_space_6 | puppy clarify spring lyrics green buzz |  
+| bip_39_word_space_7 | puppy clarify spring lyrics green buzz shed |  
+| bip_39_word_space_8 | puppy clarify spring lyrics green buzz shed museum |  
+| bip_39_word_space_9 | puppy clarify spring lyrics green buzz shed museum relief |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

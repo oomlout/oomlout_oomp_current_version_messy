@@ -1,3 +1,186 @@
+bip_39_word_new_br1: below
+bip_39_word_new_br10: below<br>custom<br>click<br>truck<br>vessel<br>honey<br>say<br>spare<br>install<br>age
+bip_39_word_new_br11: below<br>custom<br>click<br>truck<br>vessel<br>honey<br>say<br>spare<br>install<br>age<br>napkin
+bip_39_word_new_br12: below<br>custom<br>click<br>truck<br>vessel<br>honey<br>say<br>spare<br>install<br>age<br>napkin<br>arena
+bip_39_word_new_br2: below<br>custom
+bip_39_word_new_br3: below<br>custom<br>click
+bip_39_word_new_br4: below<br>custom<br>click<br>truck
+bip_39_word_new_br5: below<br>custom<br>click<br>truck<br>vessel
+bip_39_word_new_br6: below<br>custom<br>click<br>truck<br>vessel<br>honey
+bip_39_word_new_br7: below<br>custom<br>click<br>truck<br>vessel<br>honey<br>say
+bip_39_word_new_br8: below<br>custom<br>click<br>truck<br>vessel<br>honey<br>say<br>spare
+bip_39_word_new_br9: below<br>custom<br>click<br>truck<br>vessel<br>honey<br>say<br>spare<br>install
+bip_39_word_new_line1: below
+bip_39_word_new_line10: 'below
+
+  custom
+
+  click
+
+  truck
+
+  vessel
+
+  honey
+
+  say
+
+  spare
+
+  install
+
+  age'
+bip_39_word_new_line11: 'below
+
+  custom
+
+  click
+
+  truck
+
+  vessel
+
+  honey
+
+  say
+
+  spare
+
+  install
+
+  age
+
+  napkin'
+bip_39_word_new_line12: 'below
+
+  custom
+
+  click
+
+  truck
+
+  vessel
+
+  honey
+
+  say
+
+  spare
+
+  install
+
+  age
+
+  napkin
+
+  arena'
+bip_39_word_new_line2: 'below
+
+  custom'
+bip_39_word_new_line3: 'below
+
+  custom
+
+  click'
+bip_39_word_new_line4: 'below
+
+  custom
+
+  click
+
+  truck'
+bip_39_word_new_line5: 'below
+
+  custom
+
+  click
+
+  truck
+
+  vessel'
+bip_39_word_new_line6: 'below
+
+  custom
+
+  click
+
+  truck
+
+  vessel
+
+  honey'
+bip_39_word_new_line7: 'below
+
+  custom
+
+  click
+
+  truck
+
+  vessel
+
+  honey
+
+  say'
+bip_39_word_new_line8: 'below
+
+  custom
+
+  click
+
+  truck
+
+  vessel
+
+  honey
+
+  say
+
+  spare'
+bip_39_word_new_line9: 'below
+
+  custom
+
+  click
+
+  truck
+
+  vessel
+
+  honey
+
+  say
+
+  spare
+
+  install'
+bip_39_word_space_0:
+- below
+- custom
+- click
+- truck
+- vessel
+- honey
+- say
+- spare
+- install
+- age
+- napkin
+- arena
+bip_39_word_space_1: below
+bip_39_word_space_10: below custom click truck vessel honey say spare install age
+bip_39_word_space_11: below custom click truck vessel honey say spare install age
+  napkin
+bip_39_word_space_12: below custom click truck vessel honey say spare install age
+  napkin arena
+bip_39_word_space_2: below custom
+bip_39_word_space_3: below custom click
+bip_39_word_space_4: below custom click truck
+bip_39_word_space_5: below custom click truck vessel
+bip_39_word_space_6: below custom click truck vessel honey
+bip_39_word_space_7: below custom click truck vessel honey say
+bip_39_word_space_8: below custom click truck vessel honey say spare
+bip_39_word_space_9: below custom click truck vessel honey say spare install
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hybrid toilet
+  * bip 39 word 3: hybrid toilet smile
+  * bip 39 word: hybrid toilet smile bean maple tower town shield benefit lounge hand advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hybrid |  
+| bip_39_word_new_br10 | hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower<br>town<br>shield<br>benefit<br>lounge |  
+| bip_39_word_new_br11 | hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower<br>town<br>shield<br>benefit<br>lounge<br>hand |  
+| bip_39_word_new_br12 | hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower<br>town<br>shield<br>benefit<br>lounge<br>hand<br>advice |  
+| bip_39_word_new_br2 | hybrid<br>toilet |  
+| bip_39_word_new_br3 | hybrid<br>toilet<br>smile |  
+| bip_39_word_new_br4 | hybrid<br>toilet<br>smile<br>bean |  
+| bip_39_word_new_br5 | hybrid<br>toilet<br>smile<br>bean<br>maple |  
+| bip_39_word_new_br6 | hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower |  
+| bip_39_word_new_br7 | hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower<br>town |  
+| bip_39_word_new_br8 | hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower<br>town<br>shield |  
+| bip_39_word_new_br9 | hybrid<br>toilet<br>smile<br>bean<br>maple<br>tower<br>town<br>shield<br>benefit |  
+| bip_39_word_new_line1 | hybrid |  
+| bip_39_word_new_line10 | hybrid
+toilet
+smile
+bean
+maple
+tower
+town
+shield
+benefit
+lounge |  
+| bip_39_word_new_line11 | hybrid
+toilet
+smile
+bean
+maple
+tower
+town
+shield
+benefit
+lounge
+hand |  
+| bip_39_word_new_line12 | hybrid
+toilet
+smile
+bean
+maple
+tower
+town
+shield
+benefit
+lounge
+hand
+advice |  
+| bip_39_word_new_line2 | hybrid
+toilet |  
+| bip_39_word_new_line3 | hybrid
+toilet
+smile |  
+| bip_39_word_new_line4 | hybrid
+toilet
+smile
+bean |  
+| bip_39_word_new_line5 | hybrid
+toilet
+smile
+bean
+maple |  
+| bip_39_word_new_line6 | hybrid
+toilet
+smile
+bean
+maple
+tower |  
+| bip_39_word_new_line7 | hybrid
+toilet
+smile
+bean
+maple
+tower
+town |  
+| bip_39_word_new_line8 | hybrid
+toilet
+smile
+bean
+maple
+tower
+town
+shield |  
+| bip_39_word_new_line9 | hybrid
+toilet
+smile
+bean
+maple
+tower
+town
+shield
+benefit |  
+| bip_39_word_space_0 | ['hybrid', 'toilet', 'smile', 'bean', 'maple', 'tower', 'town', 'shield', 'benefit', 'lounge', 'hand', 'advice'] |  
+| bip_39_word_space_1 | hybrid |  
+| bip_39_word_space_10 | hybrid toilet smile bean maple tower town shield benefit lounge |  
+| bip_39_word_space_11 | hybrid toilet smile bean maple tower town shield benefit lounge hand |  
+| bip_39_word_space_12 | hybrid toilet smile bean maple tower town shield benefit lounge hand advice |  
+| bip_39_word_space_2 | hybrid toilet |  
+| bip_39_word_space_3 | hybrid toilet smile |  
+| bip_39_word_space_4 | hybrid toilet smile bean |  
+| bip_39_word_space_5 | hybrid toilet smile bean maple |  
+| bip_39_word_space_6 | hybrid toilet smile bean maple tower |  
+| bip_39_word_space_7 | hybrid toilet smile bean maple tower town |  
+| bip_39_word_space_8 | hybrid toilet smile bean maple tower town shield |  
+| bip_39_word_space_9 | hybrid toilet smile bean maple tower town shield benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

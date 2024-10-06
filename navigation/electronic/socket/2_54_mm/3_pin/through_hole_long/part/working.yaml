@@ -1,3 +1,187 @@
+bip_39_word_new_br1: whip
+bip_39_word_new_br10: whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury
+bip_39_word_new_br11: whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury<br>toe
+bip_39_word_new_br12: whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor<br>fury<br>toe<br>also
+bip_39_word_new_br2: whip<br>glare
+bip_39_word_new_br3: whip<br>glare<br>exercise
+bip_39_word_new_br4: whip<br>glare<br>exercise<br>section
+bip_39_word_new_br5: whip<br>glare<br>exercise<br>section<br>gravity
+bip_39_word_new_br6: whip<br>glare<br>exercise<br>section<br>gravity<br>affair
+bip_39_word_new_br7: whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start
+bip_39_word_new_br8: whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry
+bip_39_word_new_br9: whip<br>glare<br>exercise<br>section<br>gravity<br>affair<br>start<br>angry<br>outdoor
+bip_39_word_new_line1: whip
+bip_39_word_new_line10: 'whip
+
+  glare
+
+  exercise
+
+  section
+
+  gravity
+
+  affair
+
+  start
+
+  angry
+
+  outdoor
+
+  fury'
+bip_39_word_new_line11: 'whip
+
+  glare
+
+  exercise
+
+  section
+
+  gravity
+
+  affair
+
+  start
+
+  angry
+
+  outdoor
+
+  fury
+
+  toe'
+bip_39_word_new_line12: 'whip
+
+  glare
+
+  exercise
+
+  section
+
+  gravity
+
+  affair
+
+  start
+
+  angry
+
+  outdoor
+
+  fury
+
+  toe
+
+  also'
+bip_39_word_new_line2: 'whip
+
+  glare'
+bip_39_word_new_line3: 'whip
+
+  glare
+
+  exercise'
+bip_39_word_new_line4: 'whip
+
+  glare
+
+  exercise
+
+  section'
+bip_39_word_new_line5: 'whip
+
+  glare
+
+  exercise
+
+  section
+
+  gravity'
+bip_39_word_new_line6: 'whip
+
+  glare
+
+  exercise
+
+  section
+
+  gravity
+
+  affair'
+bip_39_word_new_line7: 'whip
+
+  glare
+
+  exercise
+
+  section
+
+  gravity
+
+  affair
+
+  start'
+bip_39_word_new_line8: 'whip
+
+  glare
+
+  exercise
+
+  section
+
+  gravity
+
+  affair
+
+  start
+
+  angry'
+bip_39_word_new_line9: 'whip
+
+  glare
+
+  exercise
+
+  section
+
+  gravity
+
+  affair
+
+  start
+
+  angry
+
+  outdoor'
+bip_39_word_space_0:
+- whip
+- glare
+- exercise
+- section
+- gravity
+- affair
+- start
+- angry
+- outdoor
+- fury
+- toe
+- also
+bip_39_word_space_1: whip
+bip_39_word_space_10: whip glare exercise section gravity affair start angry outdoor
+  fury
+bip_39_word_space_11: whip glare exercise section gravity affair start angry outdoor
+  fury toe
+bip_39_word_space_12: whip glare exercise section gravity affair start angry outdoor
+  fury toe also
+bip_39_word_space_2: whip glare
+bip_39_word_space_3: whip glare exercise
+bip_39_word_space_4: whip glare exercise section
+bip_39_word_space_5: whip glare exercise section gravity
+bip_39_word_space_6: whip glare exercise section gravity affair
+bip_39_word_space_7: whip glare exercise section gravity affair start
+bip_39_word_space_8: whip glare exercise section gravity affair start angry
+bip_39_word_space_9: whip glare exercise section gravity affair start angry outdoor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

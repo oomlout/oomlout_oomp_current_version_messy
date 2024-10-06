@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: goddess axis
+  * bip 39 word 3: goddess axis noble
+  * bip 39 word: goddess axis noble tonight polar cream mask weather donate delay found asthma
 
 ### other_codes
 * short_code: so3nw9nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | goddess |  
+| bip_39_word_new_br10 | goddess<br>axis<br>noble<br>tonight<br>polar<br>cream<br>mask<br>weather<br>donate<br>delay |  
+| bip_39_word_new_br11 | goddess<br>axis<br>noble<br>tonight<br>polar<br>cream<br>mask<br>weather<br>donate<br>delay<br>found |  
+| bip_39_word_new_br12 | goddess<br>axis<br>noble<br>tonight<br>polar<br>cream<br>mask<br>weather<br>donate<br>delay<br>found<br>asthma |  
+| bip_39_word_new_br2 | goddess<br>axis |  
+| bip_39_word_new_br3 | goddess<br>axis<br>noble |  
+| bip_39_word_new_br4 | goddess<br>axis<br>noble<br>tonight |  
+| bip_39_word_new_br5 | goddess<br>axis<br>noble<br>tonight<br>polar |  
+| bip_39_word_new_br6 | goddess<br>axis<br>noble<br>tonight<br>polar<br>cream |  
+| bip_39_word_new_br7 | goddess<br>axis<br>noble<br>tonight<br>polar<br>cream<br>mask |  
+| bip_39_word_new_br8 | goddess<br>axis<br>noble<br>tonight<br>polar<br>cream<br>mask<br>weather |  
+| bip_39_word_new_br9 | goddess<br>axis<br>noble<br>tonight<br>polar<br>cream<br>mask<br>weather<br>donate |  
+| bip_39_word_new_line1 | goddess |  
+| bip_39_word_new_line10 | goddess
+axis
+noble
+tonight
+polar
+cream
+mask
+weather
+donate
+delay |  
+| bip_39_word_new_line11 | goddess
+axis
+noble
+tonight
+polar
+cream
+mask
+weather
+donate
+delay
+found |  
+| bip_39_word_new_line12 | goddess
+axis
+noble
+tonight
+polar
+cream
+mask
+weather
+donate
+delay
+found
+asthma |  
+| bip_39_word_new_line2 | goddess
+axis |  
+| bip_39_word_new_line3 | goddess
+axis
+noble |  
+| bip_39_word_new_line4 | goddess
+axis
+noble
+tonight |  
+| bip_39_word_new_line5 | goddess
+axis
+noble
+tonight
+polar |  
+| bip_39_word_new_line6 | goddess
+axis
+noble
+tonight
+polar
+cream |  
+| bip_39_word_new_line7 | goddess
+axis
+noble
+tonight
+polar
+cream
+mask |  
+| bip_39_word_new_line8 | goddess
+axis
+noble
+tonight
+polar
+cream
+mask
+weather |  
+| bip_39_word_new_line9 | goddess
+axis
+noble
+tonight
+polar
+cream
+mask
+weather
+donate |  
+| bip_39_word_space_0 | ['goddess', 'axis', 'noble', 'tonight', 'polar', 'cream', 'mask', 'weather', 'donate', 'delay', 'found', 'asthma'] |  
+| bip_39_word_space_1 | goddess |  
+| bip_39_word_space_10 | goddess axis noble tonight polar cream mask weather donate delay |  
+| bip_39_word_space_11 | goddess axis noble tonight polar cream mask weather donate delay found |  
+| bip_39_word_space_12 | goddess axis noble tonight polar cream mask weather donate delay found asthma |  
+| bip_39_word_space_2 | goddess axis |  
+| bip_39_word_space_3 | goddess axis noble |  
+| bip_39_word_space_4 | goddess axis noble tonight |  
+| bip_39_word_space_5 | goddess axis noble tonight polar |  
+| bip_39_word_space_6 | goddess axis noble tonight polar cream |  
+| bip_39_word_space_7 | goddess axis noble tonight polar cream mask |  
+| bip_39_word_space_8 | goddess axis noble tonight polar cream mask weather |  
+| bip_39_word_space_9 | goddess axis noble tonight polar cream mask weather donate |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

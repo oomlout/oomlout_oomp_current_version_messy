@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spread
+bip_39_word_new_br10: spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire
+bip_39_word_new_br11: spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire<br>unusual
+bip_39_word_new_br12: spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul<br>entire<br>unusual<br>april
+bip_39_word_new_br2: spread<br>marriage
+bip_39_word_new_br3: spread<br>marriage<br>era
+bip_39_word_new_br4: spread<br>marriage<br>era<br>kiss
+bip_39_word_new_br5: spread<br>marriage<br>era<br>kiss<br>possible
+bip_39_word_new_br6: spread<br>marriage<br>era<br>kiss<br>possible<br>pause
+bip_39_word_new_br7: spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math
+bip_39_word_new_br8: spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst
+bip_39_word_new_br9: spread<br>marriage<br>era<br>kiss<br>possible<br>pause<br>math<br>analyst<br>soul
+bip_39_word_new_line1: spread
+bip_39_word_new_line10: 'spread
+
+  marriage
+
+  era
+
+  kiss
+
+  possible
+
+  pause
+
+  math
+
+  analyst
+
+  soul
+
+  entire'
+bip_39_word_new_line11: 'spread
+
+  marriage
+
+  era
+
+  kiss
+
+  possible
+
+  pause
+
+  math
+
+  analyst
+
+  soul
+
+  entire
+
+  unusual'
+bip_39_word_new_line12: 'spread
+
+  marriage
+
+  era
+
+  kiss
+
+  possible
+
+  pause
+
+  math
+
+  analyst
+
+  soul
+
+  entire
+
+  unusual
+
+  april'
+bip_39_word_new_line2: 'spread
+
+  marriage'
+bip_39_word_new_line3: 'spread
+
+  marriage
+
+  era'
+bip_39_word_new_line4: 'spread
+
+  marriage
+
+  era
+
+  kiss'
+bip_39_word_new_line5: 'spread
+
+  marriage
+
+  era
+
+  kiss
+
+  possible'
+bip_39_word_new_line6: 'spread
+
+  marriage
+
+  era
+
+  kiss
+
+  possible
+
+  pause'
+bip_39_word_new_line7: 'spread
+
+  marriage
+
+  era
+
+  kiss
+
+  possible
+
+  pause
+
+  math'
+bip_39_word_new_line8: 'spread
+
+  marriage
+
+  era
+
+  kiss
+
+  possible
+
+  pause
+
+  math
+
+  analyst'
+bip_39_word_new_line9: 'spread
+
+  marriage
+
+  era
+
+  kiss
+
+  possible
+
+  pause
+
+  math
+
+  analyst
+
+  soul'
+bip_39_word_space_0:
+- spread
+- marriage
+- era
+- kiss
+- possible
+- pause
+- math
+- analyst
+- soul
+- entire
+- unusual
+- april
+bip_39_word_space_1: spread
+bip_39_word_space_10: spread marriage era kiss possible pause math analyst soul entire
+bip_39_word_space_11: spread marriage era kiss possible pause math analyst soul entire
+  unusual
+bip_39_word_space_12: spread marriage era kiss possible pause math analyst soul entire
+  unusual april
+bip_39_word_space_2: spread marriage
+bip_39_word_space_3: spread marriage era
+bip_39_word_space_4: spread marriage era kiss
+bip_39_word_space_5: spread marriage era kiss possible
+bip_39_word_space_6: spread marriage era kiss possible pause
+bip_39_word_space_7: spread marriage era kiss possible pause math
+bip_39_word_space_8: spread marriage era kiss possible pause math analyst
+bip_39_word_space_9: spread marriage era kiss possible pause math analyst soul
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

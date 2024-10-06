@@ -1,3 +1,186 @@
+bip_39_word_new_br1: young
+bip_39_word_new_br10: young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant
+bip_39_word_new_br11: young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant<br>pig
+bip_39_word_new_br12: young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance<br>elephant<br>pig<br>amused
+bip_39_word_new_br2: young<br>replace
+bip_39_word_new_br3: young<br>replace<br>bike
+bip_39_word_new_br4: young<br>replace<br>bike<br>inflict
+bip_39_word_new_br5: young<br>replace<br>bike<br>inflict<br>tip
+bip_39_word_new_br6: young<br>replace<br>bike<br>inflict<br>tip<br>victory
+bip_39_word_new_br7: young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle
+bip_39_word_new_br8: young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal
+bip_39_word_new_br9: young<br>replace<br>bike<br>inflict<br>tip<br>victory<br>cradle<br>mammal<br>dance
+bip_39_word_new_line1: young
+bip_39_word_new_line10: 'young
+
+  replace
+
+  bike
+
+  inflict
+
+  tip
+
+  victory
+
+  cradle
+
+  mammal
+
+  dance
+
+  elephant'
+bip_39_word_new_line11: 'young
+
+  replace
+
+  bike
+
+  inflict
+
+  tip
+
+  victory
+
+  cradle
+
+  mammal
+
+  dance
+
+  elephant
+
+  pig'
+bip_39_word_new_line12: 'young
+
+  replace
+
+  bike
+
+  inflict
+
+  tip
+
+  victory
+
+  cradle
+
+  mammal
+
+  dance
+
+  elephant
+
+  pig
+
+  amused'
+bip_39_word_new_line2: 'young
+
+  replace'
+bip_39_word_new_line3: 'young
+
+  replace
+
+  bike'
+bip_39_word_new_line4: 'young
+
+  replace
+
+  bike
+
+  inflict'
+bip_39_word_new_line5: 'young
+
+  replace
+
+  bike
+
+  inflict
+
+  tip'
+bip_39_word_new_line6: 'young
+
+  replace
+
+  bike
+
+  inflict
+
+  tip
+
+  victory'
+bip_39_word_new_line7: 'young
+
+  replace
+
+  bike
+
+  inflict
+
+  tip
+
+  victory
+
+  cradle'
+bip_39_word_new_line8: 'young
+
+  replace
+
+  bike
+
+  inflict
+
+  tip
+
+  victory
+
+  cradle
+
+  mammal'
+bip_39_word_new_line9: 'young
+
+  replace
+
+  bike
+
+  inflict
+
+  tip
+
+  victory
+
+  cradle
+
+  mammal
+
+  dance'
+bip_39_word_space_0:
+- young
+- replace
+- bike
+- inflict
+- tip
+- victory
+- cradle
+- mammal
+- dance
+- elephant
+- pig
+- amused
+bip_39_word_space_1: young
+bip_39_word_space_10: young replace bike inflict tip victory cradle mammal dance elephant
+bip_39_word_space_11: young replace bike inflict tip victory cradle mammal dance elephant
+  pig
+bip_39_word_space_12: young replace bike inflict tip victory cradle mammal dance elephant
+  pig amused
+bip_39_word_space_2: young replace
+bip_39_word_space_3: young replace bike
+bip_39_word_space_4: young replace bike inflict
+bip_39_word_space_5: young replace bike inflict tip
+bip_39_word_space_6: young replace bike inflict tip victory
+bip_39_word_space_7: young replace bike inflict tip victory cradle
+bip_39_word_space_8: young replace bike inflict tip victory cradle mammal
+bip_39_word_space_9: young replace bike inflict tip victory cradle mammal dance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

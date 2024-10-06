@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foam toast
+  * bip 39 word 3: foam toast lottery
+  * bip 39 word: foam toast lottery wet script jacket top erupt notice obscure topic about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foam |  
+| bip_39_word_new_br10 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket<br>top<br>erupt<br>notice<br>obscure |  
+| bip_39_word_new_br11 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket<br>top<br>erupt<br>notice<br>obscure<br>topic |  
+| bip_39_word_new_br12 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket<br>top<br>erupt<br>notice<br>obscure<br>topic<br>about |  
+| bip_39_word_new_br2 | foam<br>toast |  
+| bip_39_word_new_br3 | foam<br>toast<br>lottery |  
+| bip_39_word_new_br4 | foam<br>toast<br>lottery<br>wet |  
+| bip_39_word_new_br5 | foam<br>toast<br>lottery<br>wet<br>script |  
+| bip_39_word_new_br6 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket |  
+| bip_39_word_new_br7 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket<br>top |  
+| bip_39_word_new_br8 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket<br>top<br>erupt |  
+| bip_39_word_new_br9 | foam<br>toast<br>lottery<br>wet<br>script<br>jacket<br>top<br>erupt<br>notice |  
+| bip_39_word_new_line1 | foam |  
+| bip_39_word_new_line10 | foam
+toast
+lottery
+wet
+script
+jacket
+top
+erupt
+notice
+obscure |  
+| bip_39_word_new_line11 | foam
+toast
+lottery
+wet
+script
+jacket
+top
+erupt
+notice
+obscure
+topic |  
+| bip_39_word_new_line12 | foam
+toast
+lottery
+wet
+script
+jacket
+top
+erupt
+notice
+obscure
+topic
+about |  
+| bip_39_word_new_line2 | foam
+toast |  
+| bip_39_word_new_line3 | foam
+toast
+lottery |  
+| bip_39_word_new_line4 | foam
+toast
+lottery
+wet |  
+| bip_39_word_new_line5 | foam
+toast
+lottery
+wet
+script |  
+| bip_39_word_new_line6 | foam
+toast
+lottery
+wet
+script
+jacket |  
+| bip_39_word_new_line7 | foam
+toast
+lottery
+wet
+script
+jacket
+top |  
+| bip_39_word_new_line8 | foam
+toast
+lottery
+wet
+script
+jacket
+top
+erupt |  
+| bip_39_word_new_line9 | foam
+toast
+lottery
+wet
+script
+jacket
+top
+erupt
+notice |  
+| bip_39_word_space_0 | ['foam', 'toast', 'lottery', 'wet', 'script', 'jacket', 'top', 'erupt', 'notice', 'obscure', 'topic', 'about'] |  
+| bip_39_word_space_1 | foam |  
+| bip_39_word_space_10 | foam toast lottery wet script jacket top erupt notice obscure |  
+| bip_39_word_space_11 | foam toast lottery wet script jacket top erupt notice obscure topic |  
+| bip_39_word_space_12 | foam toast lottery wet script jacket top erupt notice obscure topic about |  
+| bip_39_word_space_2 | foam toast |  
+| bip_39_word_space_3 | foam toast lottery |  
+| bip_39_word_space_4 | foam toast lottery wet |  
+| bip_39_word_space_5 | foam toast lottery wet script |  
+| bip_39_word_space_6 | foam toast lottery wet script jacket |  
+| bip_39_word_space_7 | foam toast lottery wet script jacket top |  
+| bip_39_word_space_8 | foam toast lottery wet script jacket top erupt |  
+| bip_39_word_space_9 | foam toast lottery wet script jacket top erupt notice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

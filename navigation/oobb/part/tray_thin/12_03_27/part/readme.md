@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pair absent
+  * bip 39 word 3: pair absent steak
+  * bip 39 word: pair absent steak matrix cloud sibling entry finish plastic leg elbow any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pair |  
+| bip_39_word_new_br10 | pair<br>absent<br>steak<br>matrix<br>cloud<br>sibling<br>entry<br>finish<br>plastic<br>leg |  
+| bip_39_word_new_br11 | pair<br>absent<br>steak<br>matrix<br>cloud<br>sibling<br>entry<br>finish<br>plastic<br>leg<br>elbow |  
+| bip_39_word_new_br12 | pair<br>absent<br>steak<br>matrix<br>cloud<br>sibling<br>entry<br>finish<br>plastic<br>leg<br>elbow<br>any |  
+| bip_39_word_new_br2 | pair<br>absent |  
+| bip_39_word_new_br3 | pair<br>absent<br>steak |  
+| bip_39_word_new_br4 | pair<br>absent<br>steak<br>matrix |  
+| bip_39_word_new_br5 | pair<br>absent<br>steak<br>matrix<br>cloud |  
+| bip_39_word_new_br6 | pair<br>absent<br>steak<br>matrix<br>cloud<br>sibling |  
+| bip_39_word_new_br7 | pair<br>absent<br>steak<br>matrix<br>cloud<br>sibling<br>entry |  
+| bip_39_word_new_br8 | pair<br>absent<br>steak<br>matrix<br>cloud<br>sibling<br>entry<br>finish |  
+| bip_39_word_new_br9 | pair<br>absent<br>steak<br>matrix<br>cloud<br>sibling<br>entry<br>finish<br>plastic |  
+| bip_39_word_new_line1 | pair |  
+| bip_39_word_new_line10 | pair
+absent
+steak
+matrix
+cloud
+sibling
+entry
+finish
+plastic
+leg |  
+| bip_39_word_new_line11 | pair
+absent
+steak
+matrix
+cloud
+sibling
+entry
+finish
+plastic
+leg
+elbow |  
+| bip_39_word_new_line12 | pair
+absent
+steak
+matrix
+cloud
+sibling
+entry
+finish
+plastic
+leg
+elbow
+any |  
+| bip_39_word_new_line2 | pair
+absent |  
+| bip_39_word_new_line3 | pair
+absent
+steak |  
+| bip_39_word_new_line4 | pair
+absent
+steak
+matrix |  
+| bip_39_word_new_line5 | pair
+absent
+steak
+matrix
+cloud |  
+| bip_39_word_new_line6 | pair
+absent
+steak
+matrix
+cloud
+sibling |  
+| bip_39_word_new_line7 | pair
+absent
+steak
+matrix
+cloud
+sibling
+entry |  
+| bip_39_word_new_line8 | pair
+absent
+steak
+matrix
+cloud
+sibling
+entry
+finish |  
+| bip_39_word_new_line9 | pair
+absent
+steak
+matrix
+cloud
+sibling
+entry
+finish
+plastic |  
+| bip_39_word_space_0 | ['pair', 'absent', 'steak', 'matrix', 'cloud', 'sibling', 'entry', 'finish', 'plastic', 'leg', 'elbow', 'any'] |  
+| bip_39_word_space_1 | pair |  
+| bip_39_word_space_10 | pair absent steak matrix cloud sibling entry finish plastic leg |  
+| bip_39_word_space_11 | pair absent steak matrix cloud sibling entry finish plastic leg elbow |  
+| bip_39_word_space_12 | pair absent steak matrix cloud sibling entry finish plastic leg elbow any |  
+| bip_39_word_space_2 | pair absent |  
+| bip_39_word_space_3 | pair absent steak |  
+| bip_39_word_space_4 | pair absent steak matrix |  
+| bip_39_word_space_5 | pair absent steak matrix cloud |  
+| bip_39_word_space_6 | pair absent steak matrix cloud sibling |  
+| bip_39_word_space_7 | pair absent steak matrix cloud sibling entry |  
+| bip_39_word_space_8 | pair absent steak matrix cloud sibling entry finish |  
+| bip_39_word_space_9 | pair absent steak matrix cloud sibling entry finish plastic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

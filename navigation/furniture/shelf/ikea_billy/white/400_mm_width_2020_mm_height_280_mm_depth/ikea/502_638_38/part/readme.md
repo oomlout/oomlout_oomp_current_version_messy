@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 400_mm_width_2020_mm_height_280_mm_depth
   * manufacturer: ikea
   * part_number: 502_638_38
+  * bip 39 word 2: special foam
+  * bip 39 word 3: special foam rescue
+  * bip 39 word: special foam rescue rotate melt embark thank hard attract rocket bargain access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | special |  
+| bip_39_word_new_br10 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket |  
+| bip_39_word_new_br11 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket<br>bargain |  
+| bip_39_word_new_br12 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract<br>rocket<br>bargain<br>access |  
+| bip_39_word_new_br2 | special<br>foam |  
+| bip_39_word_new_br3 | special<br>foam<br>rescue |  
+| bip_39_word_new_br4 | special<br>foam<br>rescue<br>rotate |  
+| bip_39_word_new_br5 | special<br>foam<br>rescue<br>rotate<br>melt |  
+| bip_39_word_new_br6 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark |  
+| bip_39_word_new_br7 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank |  
+| bip_39_word_new_br8 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard |  
+| bip_39_word_new_br9 | special<br>foam<br>rescue<br>rotate<br>melt<br>embark<br>thank<br>hard<br>attract |  
+| bip_39_word_new_line1 | special |  
+| bip_39_word_new_line10 | special
+foam
+rescue
+rotate
+melt
+embark
+thank
+hard
+attract
+rocket |  
+| bip_39_word_new_line11 | special
+foam
+rescue
+rotate
+melt
+embark
+thank
+hard
+attract
+rocket
+bargain |  
+| bip_39_word_new_line12 | special
+foam
+rescue
+rotate
+melt
+embark
+thank
+hard
+attract
+rocket
+bargain
+access |  
+| bip_39_word_new_line2 | special
+foam |  
+| bip_39_word_new_line3 | special
+foam
+rescue |  
+| bip_39_word_new_line4 | special
+foam
+rescue
+rotate |  
+| bip_39_word_new_line5 | special
+foam
+rescue
+rotate
+melt |  
+| bip_39_word_new_line6 | special
+foam
+rescue
+rotate
+melt
+embark |  
+| bip_39_word_new_line7 | special
+foam
+rescue
+rotate
+melt
+embark
+thank |  
+| bip_39_word_new_line8 | special
+foam
+rescue
+rotate
+melt
+embark
+thank
+hard |  
+| bip_39_word_new_line9 | special
+foam
+rescue
+rotate
+melt
+embark
+thank
+hard
+attract |  
+| bip_39_word_space_0 | ['special', 'foam', 'rescue', 'rotate', 'melt', 'embark', 'thank', 'hard', 'attract', 'rocket', 'bargain', 'access'] |  
+| bip_39_word_space_1 | special |  
+| bip_39_word_space_10 | special foam rescue rotate melt embark thank hard attract rocket |  
+| bip_39_word_space_11 | special foam rescue rotate melt embark thank hard attract rocket bargain |  
+| bip_39_word_space_12 | special foam rescue rotate melt embark thank hard attract rocket bargain access |  
+| bip_39_word_space_2 | special foam |  
+| bip_39_word_space_3 | special foam rescue |  
+| bip_39_word_space_4 | special foam rescue rotate |  
+| bip_39_word_space_5 | special foam rescue rotate melt |  
+| bip_39_word_space_6 | special foam rescue rotate melt embark |  
+| bip_39_word_space_7 | special foam rescue rotate melt embark thank |  
+| bip_39_word_space_8 | special foam rescue rotate melt embark thank hard |  
+| bip_39_word_space_9 | special foam rescue rotate melt embark thank hard attract |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

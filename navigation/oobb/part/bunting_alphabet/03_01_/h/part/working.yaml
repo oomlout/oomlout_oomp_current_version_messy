@@ -1,3 +1,185 @@
+bip_39_word_new_br1: street
+bip_39_word_new_br10: street<br>outer<br>casino<br>canoe<br>text<br>cash<br>upon<br>grit<br>differ<br>same
+bip_39_word_new_br11: street<br>outer<br>casino<br>canoe<br>text<br>cash<br>upon<br>grit<br>differ<br>same<br>tape
+bip_39_word_new_br12: street<br>outer<br>casino<br>canoe<br>text<br>cash<br>upon<br>grit<br>differ<br>same<br>tape<br>arm
+bip_39_word_new_br2: street<br>outer
+bip_39_word_new_br3: street<br>outer<br>casino
+bip_39_word_new_br4: street<br>outer<br>casino<br>canoe
+bip_39_word_new_br5: street<br>outer<br>casino<br>canoe<br>text
+bip_39_word_new_br6: street<br>outer<br>casino<br>canoe<br>text<br>cash
+bip_39_word_new_br7: street<br>outer<br>casino<br>canoe<br>text<br>cash<br>upon
+bip_39_word_new_br8: street<br>outer<br>casino<br>canoe<br>text<br>cash<br>upon<br>grit
+bip_39_word_new_br9: street<br>outer<br>casino<br>canoe<br>text<br>cash<br>upon<br>grit<br>differ
+bip_39_word_new_line1: street
+bip_39_word_new_line10: 'street
+
+  outer
+
+  casino
+
+  canoe
+
+  text
+
+  cash
+
+  upon
+
+  grit
+
+  differ
+
+  same'
+bip_39_word_new_line11: 'street
+
+  outer
+
+  casino
+
+  canoe
+
+  text
+
+  cash
+
+  upon
+
+  grit
+
+  differ
+
+  same
+
+  tape'
+bip_39_word_new_line12: 'street
+
+  outer
+
+  casino
+
+  canoe
+
+  text
+
+  cash
+
+  upon
+
+  grit
+
+  differ
+
+  same
+
+  tape
+
+  arm'
+bip_39_word_new_line2: 'street
+
+  outer'
+bip_39_word_new_line3: 'street
+
+  outer
+
+  casino'
+bip_39_word_new_line4: 'street
+
+  outer
+
+  casino
+
+  canoe'
+bip_39_word_new_line5: 'street
+
+  outer
+
+  casino
+
+  canoe
+
+  text'
+bip_39_word_new_line6: 'street
+
+  outer
+
+  casino
+
+  canoe
+
+  text
+
+  cash'
+bip_39_word_new_line7: 'street
+
+  outer
+
+  casino
+
+  canoe
+
+  text
+
+  cash
+
+  upon'
+bip_39_word_new_line8: 'street
+
+  outer
+
+  casino
+
+  canoe
+
+  text
+
+  cash
+
+  upon
+
+  grit'
+bip_39_word_new_line9: 'street
+
+  outer
+
+  casino
+
+  canoe
+
+  text
+
+  cash
+
+  upon
+
+  grit
+
+  differ'
+bip_39_word_space_0:
+- street
+- outer
+- casino
+- canoe
+- text
+- cash
+- upon
+- grit
+- differ
+- same
+- tape
+- arm
+bip_39_word_space_1: street
+bip_39_word_space_10: street outer casino canoe text cash upon grit differ same
+bip_39_word_space_11: street outer casino canoe text cash upon grit differ same tape
+bip_39_word_space_12: street outer casino canoe text cash upon grit differ same tape
+  arm
+bip_39_word_space_2: street outer
+bip_39_word_space_3: street outer casino
+bip_39_word_space_4: street outer casino canoe
+bip_39_word_space_5: street outer casino canoe text
+bip_39_word_space_6: street outer casino canoe text cash
+bip_39_word_space_7: street outer casino canoe text cash upon
+bip_39_word_space_8: street outer casino canoe text cash upon grit
+bip_39_word_space_9: street outer casino canoe text cash upon grit differ
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chef
+bip_39_word_new_br10: chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark
+bip_39_word_new_br11: chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark<br>drive
+bip_39_word_new_br12: chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile<br>embark<br>drive<br>album
+bip_39_word_new_br2: chef<br>vacuum
+bip_39_word_new_br3: chef<br>vacuum<br>original
+bip_39_word_new_br4: chef<br>vacuum<br>original<br>ski
+bip_39_word_new_br5: chef<br>vacuum<br>original<br>ski<br>faculty
+bip_39_word_new_br6: chef<br>vacuum<br>original<br>ski<br>faculty<br>kid
+bip_39_word_new_br7: chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase
+bip_39_word_new_br8: chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken
+bip_39_word_new_br9: chef<br>vacuum<br>original<br>ski<br>faculty<br>kid<br>erase<br>broken<br>smile
+bip_39_word_new_line1: chef
+bip_39_word_new_line10: 'chef
+
+  vacuum
+
+  original
+
+  ski
+
+  faculty
+
+  kid
+
+  erase
+
+  broken
+
+  smile
+
+  embark'
+bip_39_word_new_line11: 'chef
+
+  vacuum
+
+  original
+
+  ski
+
+  faculty
+
+  kid
+
+  erase
+
+  broken
+
+  smile
+
+  embark
+
+  drive'
+bip_39_word_new_line12: 'chef
+
+  vacuum
+
+  original
+
+  ski
+
+  faculty
+
+  kid
+
+  erase
+
+  broken
+
+  smile
+
+  embark
+
+  drive
+
+  album'
+bip_39_word_new_line2: 'chef
+
+  vacuum'
+bip_39_word_new_line3: 'chef
+
+  vacuum
+
+  original'
+bip_39_word_new_line4: 'chef
+
+  vacuum
+
+  original
+
+  ski'
+bip_39_word_new_line5: 'chef
+
+  vacuum
+
+  original
+
+  ski
+
+  faculty'
+bip_39_word_new_line6: 'chef
+
+  vacuum
+
+  original
+
+  ski
+
+  faculty
+
+  kid'
+bip_39_word_new_line7: 'chef
+
+  vacuum
+
+  original
+
+  ski
+
+  faculty
+
+  kid
+
+  erase'
+bip_39_word_new_line8: 'chef
+
+  vacuum
+
+  original
+
+  ski
+
+  faculty
+
+  kid
+
+  erase
+
+  broken'
+bip_39_word_new_line9: 'chef
+
+  vacuum
+
+  original
+
+  ski
+
+  faculty
+
+  kid
+
+  erase
+
+  broken
+
+  smile'
+bip_39_word_space_0:
+- chef
+- vacuum
+- original
+- ski
+- faculty
+- kid
+- erase
+- broken
+- smile
+- embark
+- drive
+- album
+bip_39_word_space_1: chef
+bip_39_word_space_10: chef vacuum original ski faculty kid erase broken smile embark
+bip_39_word_space_11: chef vacuum original ski faculty kid erase broken smile embark
+  drive
+bip_39_word_space_12: chef vacuum original ski faculty kid erase broken smile embark
+  drive album
+bip_39_word_space_2: chef vacuum
+bip_39_word_space_3: chef vacuum original
+bip_39_word_space_4: chef vacuum original ski
+bip_39_word_space_5: chef vacuum original ski faculty
+bip_39_word_space_6: chef vacuum original ski faculty kid
+bip_39_word_space_7: chef vacuum original ski faculty kid erase
+bip_39_word_space_8: chef vacuum original ski faculty kid erase broken
+bip_39_word_space_9: chef vacuum original ski faculty kid erase broken smile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

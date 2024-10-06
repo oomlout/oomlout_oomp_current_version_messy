@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coffee horse
+  * bip 39 word 3: coffee horse address
+  * bip 39 word: coffee horse address orchard say list bid school domain door govern abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coffee |  
+| bip_39_word_new_br10 | coffee<br>horse<br>address<br>orchard<br>say<br>list<br>bid<br>school<br>domain<br>door |  
+| bip_39_word_new_br11 | coffee<br>horse<br>address<br>orchard<br>say<br>list<br>bid<br>school<br>domain<br>door<br>govern |  
+| bip_39_word_new_br12 | coffee<br>horse<br>address<br>orchard<br>say<br>list<br>bid<br>school<br>domain<br>door<br>govern<br>abstract |  
+| bip_39_word_new_br2 | coffee<br>horse |  
+| bip_39_word_new_br3 | coffee<br>horse<br>address |  
+| bip_39_word_new_br4 | coffee<br>horse<br>address<br>orchard |  
+| bip_39_word_new_br5 | coffee<br>horse<br>address<br>orchard<br>say |  
+| bip_39_word_new_br6 | coffee<br>horse<br>address<br>orchard<br>say<br>list |  
+| bip_39_word_new_br7 | coffee<br>horse<br>address<br>orchard<br>say<br>list<br>bid |  
+| bip_39_word_new_br8 | coffee<br>horse<br>address<br>orchard<br>say<br>list<br>bid<br>school |  
+| bip_39_word_new_br9 | coffee<br>horse<br>address<br>orchard<br>say<br>list<br>bid<br>school<br>domain |  
+| bip_39_word_new_line1 | coffee |  
+| bip_39_word_new_line10 | coffee
+horse
+address
+orchard
+say
+list
+bid
+school
+domain
+door |  
+| bip_39_word_new_line11 | coffee
+horse
+address
+orchard
+say
+list
+bid
+school
+domain
+door
+govern |  
+| bip_39_word_new_line12 | coffee
+horse
+address
+orchard
+say
+list
+bid
+school
+domain
+door
+govern
+abstract |  
+| bip_39_word_new_line2 | coffee
+horse |  
+| bip_39_word_new_line3 | coffee
+horse
+address |  
+| bip_39_word_new_line4 | coffee
+horse
+address
+orchard |  
+| bip_39_word_new_line5 | coffee
+horse
+address
+orchard
+say |  
+| bip_39_word_new_line6 | coffee
+horse
+address
+orchard
+say
+list |  
+| bip_39_word_new_line7 | coffee
+horse
+address
+orchard
+say
+list
+bid |  
+| bip_39_word_new_line8 | coffee
+horse
+address
+orchard
+say
+list
+bid
+school |  
+| bip_39_word_new_line9 | coffee
+horse
+address
+orchard
+say
+list
+bid
+school
+domain |  
+| bip_39_word_space_0 | ['coffee', 'horse', 'address', 'orchard', 'say', 'list', 'bid', 'school', 'domain', 'door', 'govern', 'abstract'] |  
+| bip_39_word_space_1 | coffee |  
+| bip_39_word_space_10 | coffee horse address orchard say list bid school domain door |  
+| bip_39_word_space_11 | coffee horse address orchard say list bid school domain door govern |  
+| bip_39_word_space_12 | coffee horse address orchard say list bid school domain door govern abstract |  
+| bip_39_word_space_2 | coffee horse |  
+| bip_39_word_space_3 | coffee horse address |  
+| bip_39_word_space_4 | coffee horse address orchard |  
+| bip_39_word_space_5 | coffee horse address orchard say |  
+| bip_39_word_space_6 | coffee horse address orchard say list |  
+| bip_39_word_space_7 | coffee horse address orchard say list bid |  
+| bip_39_word_space_8 | coffee horse address orchard say list bid school |  
+| bip_39_word_space_9 | coffee horse address orchard say list bid school domain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

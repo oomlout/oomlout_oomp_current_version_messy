@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hobby leader
+  * bip 39 word 3: hobby leader today
+  * bip 39 word: hobby leader today fix perfect cycle olive actual hint below foster actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hobby |  
+| bip_39_word_new_br10 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle<br>olive<br>actual<br>hint<br>below |  
+| bip_39_word_new_br11 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle<br>olive<br>actual<br>hint<br>below<br>foster |  
+| bip_39_word_new_br12 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle<br>olive<br>actual<br>hint<br>below<br>foster<br>actual |  
+| bip_39_word_new_br2 | hobby<br>leader |  
+| bip_39_word_new_br3 | hobby<br>leader<br>today |  
+| bip_39_word_new_br4 | hobby<br>leader<br>today<br>fix |  
+| bip_39_word_new_br5 | hobby<br>leader<br>today<br>fix<br>perfect |  
+| bip_39_word_new_br6 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle |  
+| bip_39_word_new_br7 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle<br>olive |  
+| bip_39_word_new_br8 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle<br>olive<br>actual |  
+| bip_39_word_new_br9 | hobby<br>leader<br>today<br>fix<br>perfect<br>cycle<br>olive<br>actual<br>hint |  
+| bip_39_word_new_line1 | hobby |  
+| bip_39_word_new_line10 | hobby
+leader
+today
+fix
+perfect
+cycle
+olive
+actual
+hint
+below |  
+| bip_39_word_new_line11 | hobby
+leader
+today
+fix
+perfect
+cycle
+olive
+actual
+hint
+below
+foster |  
+| bip_39_word_new_line12 | hobby
+leader
+today
+fix
+perfect
+cycle
+olive
+actual
+hint
+below
+foster
+actual |  
+| bip_39_word_new_line2 | hobby
+leader |  
+| bip_39_word_new_line3 | hobby
+leader
+today |  
+| bip_39_word_new_line4 | hobby
+leader
+today
+fix |  
+| bip_39_word_new_line5 | hobby
+leader
+today
+fix
+perfect |  
+| bip_39_word_new_line6 | hobby
+leader
+today
+fix
+perfect
+cycle |  
+| bip_39_word_new_line7 | hobby
+leader
+today
+fix
+perfect
+cycle
+olive |  
+| bip_39_word_new_line8 | hobby
+leader
+today
+fix
+perfect
+cycle
+olive
+actual |  
+| bip_39_word_new_line9 | hobby
+leader
+today
+fix
+perfect
+cycle
+olive
+actual
+hint |  
+| bip_39_word_space_0 | ['hobby', 'leader', 'today', 'fix', 'perfect', 'cycle', 'olive', 'actual', 'hint', 'below', 'foster', 'actual'] |  
+| bip_39_word_space_1 | hobby |  
+| bip_39_word_space_10 | hobby leader today fix perfect cycle olive actual hint below |  
+| bip_39_word_space_11 | hobby leader today fix perfect cycle olive actual hint below foster |  
+| bip_39_word_space_12 | hobby leader today fix perfect cycle olive actual hint below foster actual |  
+| bip_39_word_space_2 | hobby leader |  
+| bip_39_word_space_3 | hobby leader today |  
+| bip_39_word_space_4 | hobby leader today fix |  
+| bip_39_word_space_5 | hobby leader today fix perfect |  
+| bip_39_word_space_6 | hobby leader today fix perfect cycle |  
+| bip_39_word_space_7 | hobby leader today fix perfect cycle olive |  
+| bip_39_word_space_8 | hobby leader today fix perfect cycle olive actual |  
+| bip_39_word_space_9 | hobby leader today fix perfect cycle olive actual hint |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

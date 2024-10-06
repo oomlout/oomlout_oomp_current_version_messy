@@ -1,3 +1,185 @@
+bip_39_word_new_br1: dumb
+bip_39_word_new_br10: dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit
+bip_39_word_new_br11: dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit<br>envelope
+bip_39_word_new_br12: dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true<br>audit<br>envelope<br>approve
+bip_39_word_new_br2: dumb<br>must
+bip_39_word_new_br3: dumb<br>must<br>hard
+bip_39_word_new_br4: dumb<br>must<br>hard<br>uphold
+bip_39_word_new_br5: dumb<br>must<br>hard<br>uphold<br>match
+bip_39_word_new_br6: dumb<br>must<br>hard<br>uphold<br>match<br>submit
+bip_39_word_new_br7: dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar
+bip_39_word_new_br8: dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon
+bip_39_word_new_br9: dumb<br>must<br>hard<br>uphold<br>match<br>submit<br>solar<br>pigeon<br>true
+bip_39_word_new_line1: dumb
+bip_39_word_new_line10: 'dumb
+
+  must
+
+  hard
+
+  uphold
+
+  match
+
+  submit
+
+  solar
+
+  pigeon
+
+  true
+
+  audit'
+bip_39_word_new_line11: 'dumb
+
+  must
+
+  hard
+
+  uphold
+
+  match
+
+  submit
+
+  solar
+
+  pigeon
+
+  true
+
+  audit
+
+  envelope'
+bip_39_word_new_line12: 'dumb
+
+  must
+
+  hard
+
+  uphold
+
+  match
+
+  submit
+
+  solar
+
+  pigeon
+
+  true
+
+  audit
+
+  envelope
+
+  approve'
+bip_39_word_new_line2: 'dumb
+
+  must'
+bip_39_word_new_line3: 'dumb
+
+  must
+
+  hard'
+bip_39_word_new_line4: 'dumb
+
+  must
+
+  hard
+
+  uphold'
+bip_39_word_new_line5: 'dumb
+
+  must
+
+  hard
+
+  uphold
+
+  match'
+bip_39_word_new_line6: 'dumb
+
+  must
+
+  hard
+
+  uphold
+
+  match
+
+  submit'
+bip_39_word_new_line7: 'dumb
+
+  must
+
+  hard
+
+  uphold
+
+  match
+
+  submit
+
+  solar'
+bip_39_word_new_line8: 'dumb
+
+  must
+
+  hard
+
+  uphold
+
+  match
+
+  submit
+
+  solar
+
+  pigeon'
+bip_39_word_new_line9: 'dumb
+
+  must
+
+  hard
+
+  uphold
+
+  match
+
+  submit
+
+  solar
+
+  pigeon
+
+  true'
+bip_39_word_space_0:
+- dumb
+- must
+- hard
+- uphold
+- match
+- submit
+- solar
+- pigeon
+- 'true'
+- audit
+- envelope
+- approve
+bip_39_word_space_1: dumb
+bip_39_word_space_10: dumb must hard uphold match submit solar pigeon true audit
+bip_39_word_space_11: dumb must hard uphold match submit solar pigeon true audit envelope
+bip_39_word_space_12: dumb must hard uphold match submit solar pigeon true audit envelope
+  approve
+bip_39_word_space_2: dumb must
+bip_39_word_space_3: dumb must hard
+bip_39_word_space_4: dumb must hard uphold
+bip_39_word_space_5: dumb must hard uphold match
+bip_39_word_space_6: dumb must hard uphold match submit
+bip_39_word_space_7: dumb must hard uphold match submit solar
+bip_39_word_space_8: dumb must hard uphold match submit solar pigeon
+bip_39_word_space_9: dumb must hard uphold match submit solar pigeon true
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

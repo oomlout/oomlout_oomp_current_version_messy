@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: column owner
+  * bip 39 word 3: column owner escape
+  * bip 39 word: column owner escape decade outdoor nice hood blouse distance volume pioneer asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | column |  
+| bip_39_word_new_br10 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice<br>hood<br>blouse<br>distance<br>volume |  
+| bip_39_word_new_br11 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice<br>hood<br>blouse<br>distance<br>volume<br>pioneer |  
+| bip_39_word_new_br12 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice<br>hood<br>blouse<br>distance<br>volume<br>pioneer<br>asset |  
+| bip_39_word_new_br2 | column<br>owner |  
+| bip_39_word_new_br3 | column<br>owner<br>escape |  
+| bip_39_word_new_br4 | column<br>owner<br>escape<br>decade |  
+| bip_39_word_new_br5 | column<br>owner<br>escape<br>decade<br>outdoor |  
+| bip_39_word_new_br6 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice |  
+| bip_39_word_new_br7 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice<br>hood |  
+| bip_39_word_new_br8 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice<br>hood<br>blouse |  
+| bip_39_word_new_br9 | column<br>owner<br>escape<br>decade<br>outdoor<br>nice<br>hood<br>blouse<br>distance |  
+| bip_39_word_new_line1 | column |  
+| bip_39_word_new_line10 | column
+owner
+escape
+decade
+outdoor
+nice
+hood
+blouse
+distance
+volume |  
+| bip_39_word_new_line11 | column
+owner
+escape
+decade
+outdoor
+nice
+hood
+blouse
+distance
+volume
+pioneer |  
+| bip_39_word_new_line12 | column
+owner
+escape
+decade
+outdoor
+nice
+hood
+blouse
+distance
+volume
+pioneer
+asset |  
+| bip_39_word_new_line2 | column
+owner |  
+| bip_39_word_new_line3 | column
+owner
+escape |  
+| bip_39_word_new_line4 | column
+owner
+escape
+decade |  
+| bip_39_word_new_line5 | column
+owner
+escape
+decade
+outdoor |  
+| bip_39_word_new_line6 | column
+owner
+escape
+decade
+outdoor
+nice |  
+| bip_39_word_new_line7 | column
+owner
+escape
+decade
+outdoor
+nice
+hood |  
+| bip_39_word_new_line8 | column
+owner
+escape
+decade
+outdoor
+nice
+hood
+blouse |  
+| bip_39_word_new_line9 | column
+owner
+escape
+decade
+outdoor
+nice
+hood
+blouse
+distance |  
+| bip_39_word_space_0 | ['column', 'owner', 'escape', 'decade', 'outdoor', 'nice', 'hood', 'blouse', 'distance', 'volume', 'pioneer', 'asset'] |  
+| bip_39_word_space_1 | column |  
+| bip_39_word_space_10 | column owner escape decade outdoor nice hood blouse distance volume |  
+| bip_39_word_space_11 | column owner escape decade outdoor nice hood blouse distance volume pioneer |  
+| bip_39_word_space_12 | column owner escape decade outdoor nice hood blouse distance volume pioneer asset |  
+| bip_39_word_space_2 | column owner |  
+| bip_39_word_space_3 | column owner escape |  
+| bip_39_word_space_4 | column owner escape decade |  
+| bip_39_word_space_5 | column owner escape decade outdoor |  
+| bip_39_word_space_6 | column owner escape decade outdoor nice |  
+| bip_39_word_space_7 | column owner escape decade outdoor nice hood |  
+| bip_39_word_space_8 | column owner escape decade outdoor nice hood blouse |  
+| bip_39_word_space_9 | column owner escape decade outdoor nice hood blouse distance |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

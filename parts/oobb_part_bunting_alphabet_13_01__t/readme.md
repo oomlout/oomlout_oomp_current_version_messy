@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: t
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plate sniff
+  * bip 39 word 3: plate sniff sphere
+  * bip 39 word: plate sniff sphere try helmet thrive ribbon bulb moment plastic often adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plate |  
+| bip_39_word_new_br10 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive<br>ribbon<br>bulb<br>moment<br>plastic |  
+| bip_39_word_new_br11 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive<br>ribbon<br>bulb<br>moment<br>plastic<br>often |  
+| bip_39_word_new_br12 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive<br>ribbon<br>bulb<br>moment<br>plastic<br>often<br>adapt |  
+| bip_39_word_new_br2 | plate<br>sniff |  
+| bip_39_word_new_br3 | plate<br>sniff<br>sphere |  
+| bip_39_word_new_br4 | plate<br>sniff<br>sphere<br>try |  
+| bip_39_word_new_br5 | plate<br>sniff<br>sphere<br>try<br>helmet |  
+| bip_39_word_new_br6 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive |  
+| bip_39_word_new_br7 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive<br>ribbon |  
+| bip_39_word_new_br8 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive<br>ribbon<br>bulb |  
+| bip_39_word_new_br9 | plate<br>sniff<br>sphere<br>try<br>helmet<br>thrive<br>ribbon<br>bulb<br>moment |  
+| bip_39_word_new_line1 | plate |  
+| bip_39_word_new_line10 | plate
+sniff
+sphere
+try
+helmet
+thrive
+ribbon
+bulb
+moment
+plastic |  
+| bip_39_word_new_line11 | plate
+sniff
+sphere
+try
+helmet
+thrive
+ribbon
+bulb
+moment
+plastic
+often |  
+| bip_39_word_new_line12 | plate
+sniff
+sphere
+try
+helmet
+thrive
+ribbon
+bulb
+moment
+plastic
+often
+adapt |  
+| bip_39_word_new_line2 | plate
+sniff |  
+| bip_39_word_new_line3 | plate
+sniff
+sphere |  
+| bip_39_word_new_line4 | plate
+sniff
+sphere
+try |  
+| bip_39_word_new_line5 | plate
+sniff
+sphere
+try
+helmet |  
+| bip_39_word_new_line6 | plate
+sniff
+sphere
+try
+helmet
+thrive |  
+| bip_39_word_new_line7 | plate
+sniff
+sphere
+try
+helmet
+thrive
+ribbon |  
+| bip_39_word_new_line8 | plate
+sniff
+sphere
+try
+helmet
+thrive
+ribbon
+bulb |  
+| bip_39_word_new_line9 | plate
+sniff
+sphere
+try
+helmet
+thrive
+ribbon
+bulb
+moment |  
+| bip_39_word_space_0 | ['plate', 'sniff', 'sphere', 'try', 'helmet', 'thrive', 'ribbon', 'bulb', 'moment', 'plastic', 'often', 'adapt'] |  
+| bip_39_word_space_1 | plate |  
+| bip_39_word_space_10 | plate sniff sphere try helmet thrive ribbon bulb moment plastic |  
+| bip_39_word_space_11 | plate sniff sphere try helmet thrive ribbon bulb moment plastic often |  
+| bip_39_word_space_12 | plate sniff sphere try helmet thrive ribbon bulb moment plastic often adapt |  
+| bip_39_word_space_2 | plate sniff |  
+| bip_39_word_space_3 | plate sniff sphere |  
+| bip_39_word_space_4 | plate sniff sphere try |  
+| bip_39_word_space_5 | plate sniff sphere try helmet |  
+| bip_39_word_space_6 | plate sniff sphere try helmet thrive |  
+| bip_39_word_space_7 | plate sniff sphere try helmet thrive ribbon |  
+| bip_39_word_space_8 | plate sniff sphere try helmet thrive ribbon bulb |  
+| bip_39_word_space_9 | plate sniff sphere try helmet thrive ribbon bulb moment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

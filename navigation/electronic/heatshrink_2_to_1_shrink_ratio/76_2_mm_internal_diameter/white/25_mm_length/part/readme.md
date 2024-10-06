@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: electric uncle
+  * bip 39 word 3: electric uncle elder
+  * bip 39 word: electric uncle elder history minimum room blade orchard praise evil mean arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | electric |  
+| bip_39_word_new_br10 | electric<br>uncle<br>elder<br>history<br>minimum<br>room<br>blade<br>orchard<br>praise<br>evil |  
+| bip_39_word_new_br11 | electric<br>uncle<br>elder<br>history<br>minimum<br>room<br>blade<br>orchard<br>praise<br>evil<br>mean |  
+| bip_39_word_new_br12 | electric<br>uncle<br>elder<br>history<br>minimum<br>room<br>blade<br>orchard<br>praise<br>evil<br>mean<br>arch |  
+| bip_39_word_new_br2 | electric<br>uncle |  
+| bip_39_word_new_br3 | electric<br>uncle<br>elder |  
+| bip_39_word_new_br4 | electric<br>uncle<br>elder<br>history |  
+| bip_39_word_new_br5 | electric<br>uncle<br>elder<br>history<br>minimum |  
+| bip_39_word_new_br6 | electric<br>uncle<br>elder<br>history<br>minimum<br>room |  
+| bip_39_word_new_br7 | electric<br>uncle<br>elder<br>history<br>minimum<br>room<br>blade |  
+| bip_39_word_new_br8 | electric<br>uncle<br>elder<br>history<br>minimum<br>room<br>blade<br>orchard |  
+| bip_39_word_new_br9 | electric<br>uncle<br>elder<br>history<br>minimum<br>room<br>blade<br>orchard<br>praise |  
+| bip_39_word_new_line1 | electric |  
+| bip_39_word_new_line10 | electric
+uncle
+elder
+history
+minimum
+room
+blade
+orchard
+praise
+evil |  
+| bip_39_word_new_line11 | electric
+uncle
+elder
+history
+minimum
+room
+blade
+orchard
+praise
+evil
+mean |  
+| bip_39_word_new_line12 | electric
+uncle
+elder
+history
+minimum
+room
+blade
+orchard
+praise
+evil
+mean
+arch |  
+| bip_39_word_new_line2 | electric
+uncle |  
+| bip_39_word_new_line3 | electric
+uncle
+elder |  
+| bip_39_word_new_line4 | electric
+uncle
+elder
+history |  
+| bip_39_word_new_line5 | electric
+uncle
+elder
+history
+minimum |  
+| bip_39_word_new_line6 | electric
+uncle
+elder
+history
+minimum
+room |  
+| bip_39_word_new_line7 | electric
+uncle
+elder
+history
+minimum
+room
+blade |  
+| bip_39_word_new_line8 | electric
+uncle
+elder
+history
+minimum
+room
+blade
+orchard |  
+| bip_39_word_new_line9 | electric
+uncle
+elder
+history
+minimum
+room
+blade
+orchard
+praise |  
+| bip_39_word_space_0 | ['electric', 'uncle', 'elder', 'history', 'minimum', 'room', 'blade', 'orchard', 'praise', 'evil', 'mean', 'arch'] |  
+| bip_39_word_space_1 | electric |  
+| bip_39_word_space_10 | electric uncle elder history minimum room blade orchard praise evil |  
+| bip_39_word_space_11 | electric uncle elder history minimum room blade orchard praise evil mean |  
+| bip_39_word_space_12 | electric uncle elder history minimum room blade orchard praise evil mean arch |  
+| bip_39_word_space_2 | electric uncle |  
+| bip_39_word_space_3 | electric uncle elder |  
+| bip_39_word_space_4 | electric uncle elder history |  
+| bip_39_word_space_5 | electric uncle elder history minimum |  
+| bip_39_word_space_6 | electric uncle elder history minimum room |  
+| bip_39_word_space_7 | electric uncle elder history minimum room blade |  
+| bip_39_word_space_8 | electric uncle elder history minimum room blade orchard |  
+| bip_39_word_space_9 | electric uncle elder history minimum room blade orchard praise |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

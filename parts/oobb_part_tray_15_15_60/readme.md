@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tube negative
+  * bip 39 word 3: tube negative protect
+  * bip 39 word: tube negative protect license sudden wrestle audit drop solve soccer loyal angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tube |  
+| bip_39_word_new_br10 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle<br>audit<br>drop<br>solve<br>soccer |  
+| bip_39_word_new_br11 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle<br>audit<br>drop<br>solve<br>soccer<br>loyal |  
+| bip_39_word_new_br12 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle<br>audit<br>drop<br>solve<br>soccer<br>loyal<br>angle |  
+| bip_39_word_new_br2 | tube<br>negative |  
+| bip_39_word_new_br3 | tube<br>negative<br>protect |  
+| bip_39_word_new_br4 | tube<br>negative<br>protect<br>license |  
+| bip_39_word_new_br5 | tube<br>negative<br>protect<br>license<br>sudden |  
+| bip_39_word_new_br6 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle |  
+| bip_39_word_new_br7 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle<br>audit |  
+| bip_39_word_new_br8 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle<br>audit<br>drop |  
+| bip_39_word_new_br9 | tube<br>negative<br>protect<br>license<br>sudden<br>wrestle<br>audit<br>drop<br>solve |  
+| bip_39_word_new_line1 | tube |  
+| bip_39_word_new_line10 | tube
+negative
+protect
+license
+sudden
+wrestle
+audit
+drop
+solve
+soccer |  
+| bip_39_word_new_line11 | tube
+negative
+protect
+license
+sudden
+wrestle
+audit
+drop
+solve
+soccer
+loyal |  
+| bip_39_word_new_line12 | tube
+negative
+protect
+license
+sudden
+wrestle
+audit
+drop
+solve
+soccer
+loyal
+angle |  
+| bip_39_word_new_line2 | tube
+negative |  
+| bip_39_word_new_line3 | tube
+negative
+protect |  
+| bip_39_word_new_line4 | tube
+negative
+protect
+license |  
+| bip_39_word_new_line5 | tube
+negative
+protect
+license
+sudden |  
+| bip_39_word_new_line6 | tube
+negative
+protect
+license
+sudden
+wrestle |  
+| bip_39_word_new_line7 | tube
+negative
+protect
+license
+sudden
+wrestle
+audit |  
+| bip_39_word_new_line8 | tube
+negative
+protect
+license
+sudden
+wrestle
+audit
+drop |  
+| bip_39_word_new_line9 | tube
+negative
+protect
+license
+sudden
+wrestle
+audit
+drop
+solve |  
+| bip_39_word_space_0 | ['tube', 'negative', 'protect', 'license', 'sudden', 'wrestle', 'audit', 'drop', 'solve', 'soccer', 'loyal', 'angle'] |  
+| bip_39_word_space_1 | tube |  
+| bip_39_word_space_10 | tube negative protect license sudden wrestle audit drop solve soccer |  
+| bip_39_word_space_11 | tube negative protect license sudden wrestle audit drop solve soccer loyal |  
+| bip_39_word_space_12 | tube negative protect license sudden wrestle audit drop solve soccer loyal angle |  
+| bip_39_word_space_2 | tube negative |  
+| bip_39_word_space_3 | tube negative protect |  
+| bip_39_word_space_4 | tube negative protect license |  
+| bip_39_word_space_5 | tube negative protect license sudden |  
+| bip_39_word_space_6 | tube negative protect license sudden wrestle |  
+| bip_39_word_space_7 | tube negative protect license sudden wrestle audit |  
+| bip_39_word_space_8 | tube negative protect license sudden wrestle audit drop |  
+| bip_39_word_space_9 | tube negative protect license sudden wrestle audit drop solve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

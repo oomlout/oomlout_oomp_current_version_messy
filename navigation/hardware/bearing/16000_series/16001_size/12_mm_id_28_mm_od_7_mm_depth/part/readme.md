@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sample vicious
+  * bip 39 word 3: sample vicious marine
+  * bip 39 word: sample vicious marine caught lucky notable rose globe wisdom black cluster alpha
 
 ### other_codes
 * short_code: br16001
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sample |  
+| bip_39_word_new_br10 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom<br>black |  
+| bip_39_word_new_br11 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom<br>black<br>cluster |  
+| bip_39_word_new_br12 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom<br>black<br>cluster<br>alpha |  
+| bip_39_word_new_br2 | sample<br>vicious |  
+| bip_39_word_new_br3 | sample<br>vicious<br>marine |  
+| bip_39_word_new_br4 | sample<br>vicious<br>marine<br>caught |  
+| bip_39_word_new_br5 | sample<br>vicious<br>marine<br>caught<br>lucky |  
+| bip_39_word_new_br6 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable |  
+| bip_39_word_new_br7 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose |  
+| bip_39_word_new_br8 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe |  
+| bip_39_word_new_br9 | sample<br>vicious<br>marine<br>caught<br>lucky<br>notable<br>rose<br>globe<br>wisdom |  
+| bip_39_word_new_line1 | sample |  
+| bip_39_word_new_line10 | sample
+vicious
+marine
+caught
+lucky
+notable
+rose
+globe
+wisdom
+black |  
+| bip_39_word_new_line11 | sample
+vicious
+marine
+caught
+lucky
+notable
+rose
+globe
+wisdom
+black
+cluster |  
+| bip_39_word_new_line12 | sample
+vicious
+marine
+caught
+lucky
+notable
+rose
+globe
+wisdom
+black
+cluster
+alpha |  
+| bip_39_word_new_line2 | sample
+vicious |  
+| bip_39_word_new_line3 | sample
+vicious
+marine |  
+| bip_39_word_new_line4 | sample
+vicious
+marine
+caught |  
+| bip_39_word_new_line5 | sample
+vicious
+marine
+caught
+lucky |  
+| bip_39_word_new_line6 | sample
+vicious
+marine
+caught
+lucky
+notable |  
+| bip_39_word_new_line7 | sample
+vicious
+marine
+caught
+lucky
+notable
+rose |  
+| bip_39_word_new_line8 | sample
+vicious
+marine
+caught
+lucky
+notable
+rose
+globe |  
+| bip_39_word_new_line9 | sample
+vicious
+marine
+caught
+lucky
+notable
+rose
+globe
+wisdom |  
+| bip_39_word_space_0 | ['sample', 'vicious', 'marine', 'caught', 'lucky', 'notable', 'rose', 'globe', 'wisdom', 'black', 'cluster', 'alpha'] |  
+| bip_39_word_space_1 | sample |  
+| bip_39_word_space_10 | sample vicious marine caught lucky notable rose globe wisdom black |  
+| bip_39_word_space_11 | sample vicious marine caught lucky notable rose globe wisdom black cluster |  
+| bip_39_word_space_12 | sample vicious marine caught lucky notable rose globe wisdom black cluster alpha |  
+| bip_39_word_space_2 | sample vicious |  
+| bip_39_word_space_3 | sample vicious marine |  
+| bip_39_word_space_4 | sample vicious marine caught |  
+| bip_39_word_space_5 | sample vicious marine caught lucky |  
+| bip_39_word_space_6 | sample vicious marine caught lucky notable |  
+| bip_39_word_space_7 | sample vicious marine caught lucky notable rose |  
+| bip_39_word_space_8 | sample vicious marine caught lucky notable rose globe |  
+| bip_39_word_space_9 | sample vicious marine caught lucky notable rose globe wisdom |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

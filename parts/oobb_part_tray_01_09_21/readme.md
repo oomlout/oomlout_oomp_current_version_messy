@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fitness stairs
+  * bip 39 word 3: fitness stairs valid
+  * bip 39 word: fitness stairs valid credit castle bread luxury govern visa witness ship any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fitness |  
+| bip_39_word_new_br10 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread<br>luxury<br>govern<br>visa<br>witness |  
+| bip_39_word_new_br11 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread<br>luxury<br>govern<br>visa<br>witness<br>ship |  
+| bip_39_word_new_br12 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread<br>luxury<br>govern<br>visa<br>witness<br>ship<br>any |  
+| bip_39_word_new_br2 | fitness<br>stairs |  
+| bip_39_word_new_br3 | fitness<br>stairs<br>valid |  
+| bip_39_word_new_br4 | fitness<br>stairs<br>valid<br>credit |  
+| bip_39_word_new_br5 | fitness<br>stairs<br>valid<br>credit<br>castle |  
+| bip_39_word_new_br6 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread |  
+| bip_39_word_new_br7 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread<br>luxury |  
+| bip_39_word_new_br8 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread<br>luxury<br>govern |  
+| bip_39_word_new_br9 | fitness<br>stairs<br>valid<br>credit<br>castle<br>bread<br>luxury<br>govern<br>visa |  
+| bip_39_word_new_line1 | fitness |  
+| bip_39_word_new_line10 | fitness
+stairs
+valid
+credit
+castle
+bread
+luxury
+govern
+visa
+witness |  
+| bip_39_word_new_line11 | fitness
+stairs
+valid
+credit
+castle
+bread
+luxury
+govern
+visa
+witness
+ship |  
+| bip_39_word_new_line12 | fitness
+stairs
+valid
+credit
+castle
+bread
+luxury
+govern
+visa
+witness
+ship
+any |  
+| bip_39_word_new_line2 | fitness
+stairs |  
+| bip_39_word_new_line3 | fitness
+stairs
+valid |  
+| bip_39_word_new_line4 | fitness
+stairs
+valid
+credit |  
+| bip_39_word_new_line5 | fitness
+stairs
+valid
+credit
+castle |  
+| bip_39_word_new_line6 | fitness
+stairs
+valid
+credit
+castle
+bread |  
+| bip_39_word_new_line7 | fitness
+stairs
+valid
+credit
+castle
+bread
+luxury |  
+| bip_39_word_new_line8 | fitness
+stairs
+valid
+credit
+castle
+bread
+luxury
+govern |  
+| bip_39_word_new_line9 | fitness
+stairs
+valid
+credit
+castle
+bread
+luxury
+govern
+visa |  
+| bip_39_word_space_0 | ['fitness', 'stairs', 'valid', 'credit', 'castle', 'bread', 'luxury', 'govern', 'visa', 'witness', 'ship', 'any'] |  
+| bip_39_word_space_1 | fitness |  
+| bip_39_word_space_10 | fitness stairs valid credit castle bread luxury govern visa witness |  
+| bip_39_word_space_11 | fitness stairs valid credit castle bread luxury govern visa witness ship |  
+| bip_39_word_space_12 | fitness stairs valid credit castle bread luxury govern visa witness ship any |  
+| bip_39_word_space_2 | fitness stairs |  
+| bip_39_word_space_3 | fitness stairs valid |  
+| bip_39_word_space_4 | fitness stairs valid credit |  
+| bip_39_word_space_5 | fitness stairs valid credit castle |  
+| bip_39_word_space_6 | fitness stairs valid credit castle bread |  
+| bip_39_word_space_7 | fitness stairs valid credit castle bread luxury |  
+| bip_39_word_space_8 | fitness stairs valid credit castle bread luxury govern |  
+| bip_39_word_space_9 | fitness stairs valid credit castle bread luxury govern visa |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

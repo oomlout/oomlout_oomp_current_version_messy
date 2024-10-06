@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: noise gravity
+  * bip 39 word 3: noise gravity organ
+  * bip 39 word: noise gravity organ then surge heavy local imitate stand monkey round antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | noise |  
+| bip_39_word_new_br10 | noise<br>gravity<br>organ<br>then<br>surge<br>heavy<br>local<br>imitate<br>stand<br>monkey |  
+| bip_39_word_new_br11 | noise<br>gravity<br>organ<br>then<br>surge<br>heavy<br>local<br>imitate<br>stand<br>monkey<br>round |  
+| bip_39_word_new_br12 | noise<br>gravity<br>organ<br>then<br>surge<br>heavy<br>local<br>imitate<br>stand<br>monkey<br>round<br>antenna |  
+| bip_39_word_new_br2 | noise<br>gravity |  
+| bip_39_word_new_br3 | noise<br>gravity<br>organ |  
+| bip_39_word_new_br4 | noise<br>gravity<br>organ<br>then |  
+| bip_39_word_new_br5 | noise<br>gravity<br>organ<br>then<br>surge |  
+| bip_39_word_new_br6 | noise<br>gravity<br>organ<br>then<br>surge<br>heavy |  
+| bip_39_word_new_br7 | noise<br>gravity<br>organ<br>then<br>surge<br>heavy<br>local |  
+| bip_39_word_new_br8 | noise<br>gravity<br>organ<br>then<br>surge<br>heavy<br>local<br>imitate |  
+| bip_39_word_new_br9 | noise<br>gravity<br>organ<br>then<br>surge<br>heavy<br>local<br>imitate<br>stand |  
+| bip_39_word_new_line1 | noise |  
+| bip_39_word_new_line10 | noise
+gravity
+organ
+then
+surge
+heavy
+local
+imitate
+stand
+monkey |  
+| bip_39_word_new_line11 | noise
+gravity
+organ
+then
+surge
+heavy
+local
+imitate
+stand
+monkey
+round |  
+| bip_39_word_new_line12 | noise
+gravity
+organ
+then
+surge
+heavy
+local
+imitate
+stand
+monkey
+round
+antenna |  
+| bip_39_word_new_line2 | noise
+gravity |  
+| bip_39_word_new_line3 | noise
+gravity
+organ |  
+| bip_39_word_new_line4 | noise
+gravity
+organ
+then |  
+| bip_39_word_new_line5 | noise
+gravity
+organ
+then
+surge |  
+| bip_39_word_new_line6 | noise
+gravity
+organ
+then
+surge
+heavy |  
+| bip_39_word_new_line7 | noise
+gravity
+organ
+then
+surge
+heavy
+local |  
+| bip_39_word_new_line8 | noise
+gravity
+organ
+then
+surge
+heavy
+local
+imitate |  
+| bip_39_word_new_line9 | noise
+gravity
+organ
+then
+surge
+heavy
+local
+imitate
+stand |  
+| bip_39_word_space_0 | ['noise', 'gravity', 'organ', 'then', 'surge', 'heavy', 'local', 'imitate', 'stand', 'monkey', 'round', 'antenna'] |  
+| bip_39_word_space_1 | noise |  
+| bip_39_word_space_10 | noise gravity organ then surge heavy local imitate stand monkey |  
+| bip_39_word_space_11 | noise gravity organ then surge heavy local imitate stand monkey round |  
+| bip_39_word_space_12 | noise gravity organ then surge heavy local imitate stand monkey round antenna |  
+| bip_39_word_space_2 | noise gravity |  
+| bip_39_word_space_3 | noise gravity organ |  
+| bip_39_word_space_4 | noise gravity organ then |  
+| bip_39_word_space_5 | noise gravity organ then surge |  
+| bip_39_word_space_6 | noise gravity organ then surge heavy |  
+| bip_39_word_space_7 | noise gravity organ then surge heavy local |  
+| bip_39_word_space_8 | noise gravity organ then surge heavy local imitate |  
+| bip_39_word_space_9 | noise gravity organ then surge heavy local imitate stand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

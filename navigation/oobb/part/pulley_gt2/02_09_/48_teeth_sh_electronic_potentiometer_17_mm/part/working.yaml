@@ -1,3 +1,186 @@
+bip_39_word_new_br1: way
+bip_39_word_new_br10: way<br>carpet<br>fun<br>stage<br>rebel<br>believe<br>fix<br>virus<br>amazing<br>dynamic
+bip_39_word_new_br11: way<br>carpet<br>fun<br>stage<br>rebel<br>believe<br>fix<br>virus<br>amazing<br>dynamic<br>media
+bip_39_word_new_br12: way<br>carpet<br>fun<br>stage<br>rebel<br>believe<br>fix<br>virus<br>amazing<br>dynamic<br>media<br>assault
+bip_39_word_new_br2: way<br>carpet
+bip_39_word_new_br3: way<br>carpet<br>fun
+bip_39_word_new_br4: way<br>carpet<br>fun<br>stage
+bip_39_word_new_br5: way<br>carpet<br>fun<br>stage<br>rebel
+bip_39_word_new_br6: way<br>carpet<br>fun<br>stage<br>rebel<br>believe
+bip_39_word_new_br7: way<br>carpet<br>fun<br>stage<br>rebel<br>believe<br>fix
+bip_39_word_new_br8: way<br>carpet<br>fun<br>stage<br>rebel<br>believe<br>fix<br>virus
+bip_39_word_new_br9: way<br>carpet<br>fun<br>stage<br>rebel<br>believe<br>fix<br>virus<br>amazing
+bip_39_word_new_line1: way
+bip_39_word_new_line10: 'way
+
+  carpet
+
+  fun
+
+  stage
+
+  rebel
+
+  believe
+
+  fix
+
+  virus
+
+  amazing
+
+  dynamic'
+bip_39_word_new_line11: 'way
+
+  carpet
+
+  fun
+
+  stage
+
+  rebel
+
+  believe
+
+  fix
+
+  virus
+
+  amazing
+
+  dynamic
+
+  media'
+bip_39_word_new_line12: 'way
+
+  carpet
+
+  fun
+
+  stage
+
+  rebel
+
+  believe
+
+  fix
+
+  virus
+
+  amazing
+
+  dynamic
+
+  media
+
+  assault'
+bip_39_word_new_line2: 'way
+
+  carpet'
+bip_39_word_new_line3: 'way
+
+  carpet
+
+  fun'
+bip_39_word_new_line4: 'way
+
+  carpet
+
+  fun
+
+  stage'
+bip_39_word_new_line5: 'way
+
+  carpet
+
+  fun
+
+  stage
+
+  rebel'
+bip_39_word_new_line6: 'way
+
+  carpet
+
+  fun
+
+  stage
+
+  rebel
+
+  believe'
+bip_39_word_new_line7: 'way
+
+  carpet
+
+  fun
+
+  stage
+
+  rebel
+
+  believe
+
+  fix'
+bip_39_word_new_line8: 'way
+
+  carpet
+
+  fun
+
+  stage
+
+  rebel
+
+  believe
+
+  fix
+
+  virus'
+bip_39_word_new_line9: 'way
+
+  carpet
+
+  fun
+
+  stage
+
+  rebel
+
+  believe
+
+  fix
+
+  virus
+
+  amazing'
+bip_39_word_space_0:
+- way
+- carpet
+- fun
+- stage
+- rebel
+- believe
+- fix
+- virus
+- amazing
+- dynamic
+- media
+- assault
+bip_39_word_space_1: way
+bip_39_word_space_10: way carpet fun stage rebel believe fix virus amazing dynamic
+bip_39_word_space_11: way carpet fun stage rebel believe fix virus amazing dynamic
+  media
+bip_39_word_space_12: way carpet fun stage rebel believe fix virus amazing dynamic
+  media assault
+bip_39_word_space_2: way carpet
+bip_39_word_space_3: way carpet fun
+bip_39_word_space_4: way carpet fun stage
+bip_39_word_space_5: way carpet fun stage rebel
+bip_39_word_space_6: way carpet fun stage rebel believe
+bip_39_word_space_7: way carpet fun stage rebel believe fix
+bip_39_word_space_8: way carpet fun stage rebel believe fix virus
+bip_39_word_space_9: way carpet fun stage rebel believe fix virus amazing
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

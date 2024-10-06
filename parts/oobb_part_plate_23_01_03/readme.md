@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: illness voyage
+  * bip 39 word 3: illness voyage coast
+  * bip 39 word: illness voyage coast round forum oppose notice couch obey lock ketchup again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | illness |  
+| bip_39_word_new_br10 | illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey<br>lock |  
+| bip_39_word_new_br11 | illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey<br>lock<br>ketchup |  
+| bip_39_word_new_br12 | illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey<br>lock<br>ketchup<br>again |  
+| bip_39_word_new_br2 | illness<br>voyage |  
+| bip_39_word_new_br3 | illness<br>voyage<br>coast |  
+| bip_39_word_new_br4 | illness<br>voyage<br>coast<br>round |  
+| bip_39_word_new_br5 | illness<br>voyage<br>coast<br>round<br>forum |  
+| bip_39_word_new_br6 | illness<br>voyage<br>coast<br>round<br>forum<br>oppose |  
+| bip_39_word_new_br7 | illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice |  
+| bip_39_word_new_br8 | illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch |  
+| bip_39_word_new_br9 | illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey |  
+| bip_39_word_new_line1 | illness |  
+| bip_39_word_new_line10 | illness
+voyage
+coast
+round
+forum
+oppose
+notice
+couch
+obey
+lock |  
+| bip_39_word_new_line11 | illness
+voyage
+coast
+round
+forum
+oppose
+notice
+couch
+obey
+lock
+ketchup |  
+| bip_39_word_new_line12 | illness
+voyage
+coast
+round
+forum
+oppose
+notice
+couch
+obey
+lock
+ketchup
+again |  
+| bip_39_word_new_line2 | illness
+voyage |  
+| bip_39_word_new_line3 | illness
+voyage
+coast |  
+| bip_39_word_new_line4 | illness
+voyage
+coast
+round |  
+| bip_39_word_new_line5 | illness
+voyage
+coast
+round
+forum |  
+| bip_39_word_new_line6 | illness
+voyage
+coast
+round
+forum
+oppose |  
+| bip_39_word_new_line7 | illness
+voyage
+coast
+round
+forum
+oppose
+notice |  
+| bip_39_word_new_line8 | illness
+voyage
+coast
+round
+forum
+oppose
+notice
+couch |  
+| bip_39_word_new_line9 | illness
+voyage
+coast
+round
+forum
+oppose
+notice
+couch
+obey |  
+| bip_39_word_space_0 | ['illness', 'voyage', 'coast', 'round', 'forum', 'oppose', 'notice', 'couch', 'obey', 'lock', 'ketchup', 'again'] |  
+| bip_39_word_space_1 | illness |  
+| bip_39_word_space_10 | illness voyage coast round forum oppose notice couch obey lock |  
+| bip_39_word_space_11 | illness voyage coast round forum oppose notice couch obey lock ketchup |  
+| bip_39_word_space_12 | illness voyage coast round forum oppose notice couch obey lock ketchup again |  
+| bip_39_word_space_2 | illness voyage |  
+| bip_39_word_space_3 | illness voyage coast |  
+| bip_39_word_space_4 | illness voyage coast round |  
+| bip_39_word_space_5 | illness voyage coast round forum |  
+| bip_39_word_space_6 | illness voyage coast round forum oppose |  
+| bip_39_word_space_7 | illness voyage coast round forum oppose notice |  
+| bip_39_word_space_8 | illness voyage coast round forum oppose notice couch |  
+| bip_39_word_space_9 | illness voyage coast round forum oppose notice couch obey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: metal earn
+  * bip 39 word 3: metal earn diagram
+  * bip 39 word: metal earn diagram affair galaxy ancient order fork bunker they benefit april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | metal |  
+| bip_39_word_new_br10 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient<br>order<br>fork<br>bunker<br>they |  
+| bip_39_word_new_br11 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient<br>order<br>fork<br>bunker<br>they<br>benefit |  
+| bip_39_word_new_br12 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient<br>order<br>fork<br>bunker<br>they<br>benefit<br>april |  
+| bip_39_word_new_br2 | metal<br>earn |  
+| bip_39_word_new_br3 | metal<br>earn<br>diagram |  
+| bip_39_word_new_br4 | metal<br>earn<br>diagram<br>affair |  
+| bip_39_word_new_br5 | metal<br>earn<br>diagram<br>affair<br>galaxy |  
+| bip_39_word_new_br6 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient |  
+| bip_39_word_new_br7 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient<br>order |  
+| bip_39_word_new_br8 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient<br>order<br>fork |  
+| bip_39_word_new_br9 | metal<br>earn<br>diagram<br>affair<br>galaxy<br>ancient<br>order<br>fork<br>bunker |  
+| bip_39_word_new_line1 | metal |  
+| bip_39_word_new_line10 | metal
+earn
+diagram
+affair
+galaxy
+ancient
+order
+fork
+bunker
+they |  
+| bip_39_word_new_line11 | metal
+earn
+diagram
+affair
+galaxy
+ancient
+order
+fork
+bunker
+they
+benefit |  
+| bip_39_word_new_line12 | metal
+earn
+diagram
+affair
+galaxy
+ancient
+order
+fork
+bunker
+they
+benefit
+april |  
+| bip_39_word_new_line2 | metal
+earn |  
+| bip_39_word_new_line3 | metal
+earn
+diagram |  
+| bip_39_word_new_line4 | metal
+earn
+diagram
+affair |  
+| bip_39_word_new_line5 | metal
+earn
+diagram
+affair
+galaxy |  
+| bip_39_word_new_line6 | metal
+earn
+diagram
+affair
+galaxy
+ancient |  
+| bip_39_word_new_line7 | metal
+earn
+diagram
+affair
+galaxy
+ancient
+order |  
+| bip_39_word_new_line8 | metal
+earn
+diagram
+affair
+galaxy
+ancient
+order
+fork |  
+| bip_39_word_new_line9 | metal
+earn
+diagram
+affair
+galaxy
+ancient
+order
+fork
+bunker |  
+| bip_39_word_space_0 | ['metal', 'earn', 'diagram', 'affair', 'galaxy', 'ancient', 'order', 'fork', 'bunker', 'they', 'benefit', 'april'] |  
+| bip_39_word_space_1 | metal |  
+| bip_39_word_space_10 | metal earn diagram affair galaxy ancient order fork bunker they |  
+| bip_39_word_space_11 | metal earn diagram affair galaxy ancient order fork bunker they benefit |  
+| bip_39_word_space_12 | metal earn diagram affair galaxy ancient order fork bunker they benefit april |  
+| bip_39_word_space_2 | metal earn |  
+| bip_39_word_space_3 | metal earn diagram |  
+| bip_39_word_space_4 | metal earn diagram affair |  
+| bip_39_word_space_5 | metal earn diagram affair galaxy |  
+| bip_39_word_space_6 | metal earn diagram affair galaxy ancient |  
+| bip_39_word_space_7 | metal earn diagram affair galaxy ancient order |  
+| bip_39_word_space_8 | metal earn diagram affair galaxy ancient order fork |  
+| bip_39_word_space_9 | metal earn diagram affair galaxy ancient order fork bunker |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

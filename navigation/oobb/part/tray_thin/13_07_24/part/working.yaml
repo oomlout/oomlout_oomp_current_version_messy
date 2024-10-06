@@ -1,3 +1,186 @@
+bip_39_word_new_br1: shadow
+bip_39_word_new_br10: shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge<br>audit<br>crater<br>gas<br>alpha
+bip_39_word_new_br11: shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge<br>audit<br>crater<br>gas<br>alpha<br>world
+bip_39_word_new_br12: shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge<br>audit<br>crater<br>gas<br>alpha<br>world<br>address
+bip_39_word_new_br2: shadow<br>together
+bip_39_word_new_br3: shadow<br>together<br>knock
+bip_39_word_new_br4: shadow<br>together<br>knock<br>nasty
+bip_39_word_new_br5: shadow<br>together<br>knock<br>nasty<br>reopen
+bip_39_word_new_br6: shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge
+bip_39_word_new_br7: shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge<br>audit
+bip_39_word_new_br8: shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge<br>audit<br>crater
+bip_39_word_new_br9: shadow<br>together<br>knock<br>nasty<br>reopen<br>bridge<br>audit<br>crater<br>gas
+bip_39_word_new_line1: shadow
+bip_39_word_new_line10: 'shadow
+
+  together
+
+  knock
+
+  nasty
+
+  reopen
+
+  bridge
+
+  audit
+
+  crater
+
+  gas
+
+  alpha'
+bip_39_word_new_line11: 'shadow
+
+  together
+
+  knock
+
+  nasty
+
+  reopen
+
+  bridge
+
+  audit
+
+  crater
+
+  gas
+
+  alpha
+
+  world'
+bip_39_word_new_line12: 'shadow
+
+  together
+
+  knock
+
+  nasty
+
+  reopen
+
+  bridge
+
+  audit
+
+  crater
+
+  gas
+
+  alpha
+
+  world
+
+  address'
+bip_39_word_new_line2: 'shadow
+
+  together'
+bip_39_word_new_line3: 'shadow
+
+  together
+
+  knock'
+bip_39_word_new_line4: 'shadow
+
+  together
+
+  knock
+
+  nasty'
+bip_39_word_new_line5: 'shadow
+
+  together
+
+  knock
+
+  nasty
+
+  reopen'
+bip_39_word_new_line6: 'shadow
+
+  together
+
+  knock
+
+  nasty
+
+  reopen
+
+  bridge'
+bip_39_word_new_line7: 'shadow
+
+  together
+
+  knock
+
+  nasty
+
+  reopen
+
+  bridge
+
+  audit'
+bip_39_word_new_line8: 'shadow
+
+  together
+
+  knock
+
+  nasty
+
+  reopen
+
+  bridge
+
+  audit
+
+  crater'
+bip_39_word_new_line9: 'shadow
+
+  together
+
+  knock
+
+  nasty
+
+  reopen
+
+  bridge
+
+  audit
+
+  crater
+
+  gas'
+bip_39_word_space_0:
+- shadow
+- together
+- knock
+- nasty
+- reopen
+- bridge
+- audit
+- crater
+- gas
+- alpha
+- world
+- address
+bip_39_word_space_1: shadow
+bip_39_word_space_10: shadow together knock nasty reopen bridge audit crater gas alpha
+bip_39_word_space_11: shadow together knock nasty reopen bridge audit crater gas alpha
+  world
+bip_39_word_space_12: shadow together knock nasty reopen bridge audit crater gas alpha
+  world address
+bip_39_word_space_2: shadow together
+bip_39_word_space_3: shadow together knock
+bip_39_word_space_4: shadow together knock nasty
+bip_39_word_space_5: shadow together knock nasty reopen
+bip_39_word_space_6: shadow together knock nasty reopen bridge
+bip_39_word_space_7: shadow together knock nasty reopen bridge audit
+bip_39_word_space_8: shadow together knock nasty reopen bridge audit crater
+bip_39_word_space_9: shadow together knock nasty reopen bridge audit crater gas
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

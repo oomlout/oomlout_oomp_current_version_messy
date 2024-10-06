@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arch page
+  * bip 39 word 3: arch page extend
+  * bip 39 word: arch page extend copy private price modify voice moral merge define accuse
 
 ### other_codes
 * short_code: cs2b20p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arch |  
+| bip_39_word_new_br10 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge |  
+| bip_39_word_new_br11 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge<br>define |  
+| bip_39_word_new_br12 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral<br>merge<br>define<br>accuse |  
+| bip_39_word_new_br2 | arch<br>page |  
+| bip_39_word_new_br3 | arch<br>page<br>extend |  
+| bip_39_word_new_br4 | arch<br>page<br>extend<br>copy |  
+| bip_39_word_new_br5 | arch<br>page<br>extend<br>copy<br>private |  
+| bip_39_word_new_br6 | arch<br>page<br>extend<br>copy<br>private<br>price |  
+| bip_39_word_new_br7 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify |  
+| bip_39_word_new_br8 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice |  
+| bip_39_word_new_br9 | arch<br>page<br>extend<br>copy<br>private<br>price<br>modify<br>voice<br>moral |  
+| bip_39_word_new_line1 | arch |  
+| bip_39_word_new_line10 | arch
+page
+extend
+copy
+private
+price
+modify
+voice
+moral
+merge |  
+| bip_39_word_new_line11 | arch
+page
+extend
+copy
+private
+price
+modify
+voice
+moral
+merge
+define |  
+| bip_39_word_new_line12 | arch
+page
+extend
+copy
+private
+price
+modify
+voice
+moral
+merge
+define
+accuse |  
+| bip_39_word_new_line2 | arch
+page |  
+| bip_39_word_new_line3 | arch
+page
+extend |  
+| bip_39_word_new_line4 | arch
+page
+extend
+copy |  
+| bip_39_word_new_line5 | arch
+page
+extend
+copy
+private |  
+| bip_39_word_new_line6 | arch
+page
+extend
+copy
+private
+price |  
+| bip_39_word_new_line7 | arch
+page
+extend
+copy
+private
+price
+modify |  
+| bip_39_word_new_line8 | arch
+page
+extend
+copy
+private
+price
+modify
+voice |  
+| bip_39_word_new_line9 | arch
+page
+extend
+copy
+private
+price
+modify
+voice
+moral |  
+| bip_39_word_space_0 | ['arch', 'page', 'extend', 'copy', 'private', 'price', 'modify', 'voice', 'moral', 'merge', 'define', 'accuse'] |  
+| bip_39_word_space_1 | arch |  
+| bip_39_word_space_10 | arch page extend copy private price modify voice moral merge |  
+| bip_39_word_space_11 | arch page extend copy private price modify voice moral merge define |  
+| bip_39_word_space_12 | arch page extend copy private price modify voice moral merge define accuse |  
+| bip_39_word_space_2 | arch page |  
+| bip_39_word_space_3 | arch page extend |  
+| bip_39_word_space_4 | arch page extend copy |  
+| bip_39_word_space_5 | arch page extend copy private |  
+| bip_39_word_space_6 | arch page extend copy private price |  
+| bip_39_word_space_7 | arch page extend copy private price modify |  
+| bip_39_word_space_8 | arch page extend copy private price modify voice |  
+| bip_39_word_space_9 | arch page extend copy private price modify voice moral |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

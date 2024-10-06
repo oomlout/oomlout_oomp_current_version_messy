@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: silk smooth
+  * bip 39 word 3: silk smooth decade
+  * bip 39 word: silk smooth decade scale quote catch fork perfect busy cool stage any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | silk |  
+| bip_39_word_new_br10 | silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy<br>cool |  
+| bip_39_word_new_br11 | silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy<br>cool<br>stage |  
+| bip_39_word_new_br12 | silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy<br>cool<br>stage<br>any |  
+| bip_39_word_new_br2 | silk<br>smooth |  
+| bip_39_word_new_br3 | silk<br>smooth<br>decade |  
+| bip_39_word_new_br4 | silk<br>smooth<br>decade<br>scale |  
+| bip_39_word_new_br5 | silk<br>smooth<br>decade<br>scale<br>quote |  
+| bip_39_word_new_br6 | silk<br>smooth<br>decade<br>scale<br>quote<br>catch |  
+| bip_39_word_new_br7 | silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork |  
+| bip_39_word_new_br8 | silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect |  
+| bip_39_word_new_br9 | silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy |  
+| bip_39_word_new_line1 | silk |  
+| bip_39_word_new_line10 | silk
+smooth
+decade
+scale
+quote
+catch
+fork
+perfect
+busy
+cool |  
+| bip_39_word_new_line11 | silk
+smooth
+decade
+scale
+quote
+catch
+fork
+perfect
+busy
+cool
+stage |  
+| bip_39_word_new_line12 | silk
+smooth
+decade
+scale
+quote
+catch
+fork
+perfect
+busy
+cool
+stage
+any |  
+| bip_39_word_new_line2 | silk
+smooth |  
+| bip_39_word_new_line3 | silk
+smooth
+decade |  
+| bip_39_word_new_line4 | silk
+smooth
+decade
+scale |  
+| bip_39_word_new_line5 | silk
+smooth
+decade
+scale
+quote |  
+| bip_39_word_new_line6 | silk
+smooth
+decade
+scale
+quote
+catch |  
+| bip_39_word_new_line7 | silk
+smooth
+decade
+scale
+quote
+catch
+fork |  
+| bip_39_word_new_line8 | silk
+smooth
+decade
+scale
+quote
+catch
+fork
+perfect |  
+| bip_39_word_new_line9 | silk
+smooth
+decade
+scale
+quote
+catch
+fork
+perfect
+busy |  
+| bip_39_word_space_0 | ['silk', 'smooth', 'decade', 'scale', 'quote', 'catch', 'fork', 'perfect', 'busy', 'cool', 'stage', 'any'] |  
+| bip_39_word_space_1 | silk |  
+| bip_39_word_space_10 | silk smooth decade scale quote catch fork perfect busy cool |  
+| bip_39_word_space_11 | silk smooth decade scale quote catch fork perfect busy cool stage |  
+| bip_39_word_space_12 | silk smooth decade scale quote catch fork perfect busy cool stage any |  
+| bip_39_word_space_2 | silk smooth |  
+| bip_39_word_space_3 | silk smooth decade |  
+| bip_39_word_space_4 | silk smooth decade scale |  
+| bip_39_word_space_5 | silk smooth decade scale quote |  
+| bip_39_word_space_6 | silk smooth decade scale quote catch |  
+| bip_39_word_space_7 | silk smooth decade scale quote catch fork |  
+| bip_39_word_space_8 | silk smooth decade scale quote catch fork perfect |  
+| bip_39_word_space_9 | silk smooth decade scale quote catch fork perfect busy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reduce goose
+  * bip 39 word 3: reduce goose cool
+  * bip 39 word: reduce goose cool palm affair breeze tank thing trim door lucky already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reduce |  
+| bip_39_word_new_br10 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door |  
+| bip_39_word_new_br11 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door<br>lucky |  
+| bip_39_word_new_br12 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim<br>door<br>lucky<br>already |  
+| bip_39_word_new_br2 | reduce<br>goose |  
+| bip_39_word_new_br3 | reduce<br>goose<br>cool |  
+| bip_39_word_new_br4 | reduce<br>goose<br>cool<br>palm |  
+| bip_39_word_new_br5 | reduce<br>goose<br>cool<br>palm<br>affair |  
+| bip_39_word_new_br6 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze |  
+| bip_39_word_new_br7 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank |  
+| bip_39_word_new_br8 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing |  
+| bip_39_word_new_br9 | reduce<br>goose<br>cool<br>palm<br>affair<br>breeze<br>tank<br>thing<br>trim |  
+| bip_39_word_new_line1 | reduce |  
+| bip_39_word_new_line10 | reduce
+goose
+cool
+palm
+affair
+breeze
+tank
+thing
+trim
+door |  
+| bip_39_word_new_line11 | reduce
+goose
+cool
+palm
+affair
+breeze
+tank
+thing
+trim
+door
+lucky |  
+| bip_39_word_new_line12 | reduce
+goose
+cool
+palm
+affair
+breeze
+tank
+thing
+trim
+door
+lucky
+already |  
+| bip_39_word_new_line2 | reduce
+goose |  
+| bip_39_word_new_line3 | reduce
+goose
+cool |  
+| bip_39_word_new_line4 | reduce
+goose
+cool
+palm |  
+| bip_39_word_new_line5 | reduce
+goose
+cool
+palm
+affair |  
+| bip_39_word_new_line6 | reduce
+goose
+cool
+palm
+affair
+breeze |  
+| bip_39_word_new_line7 | reduce
+goose
+cool
+palm
+affair
+breeze
+tank |  
+| bip_39_word_new_line8 | reduce
+goose
+cool
+palm
+affair
+breeze
+tank
+thing |  
+| bip_39_word_new_line9 | reduce
+goose
+cool
+palm
+affair
+breeze
+tank
+thing
+trim |  
+| bip_39_word_space_0 | ['reduce', 'goose', 'cool', 'palm', 'affair', 'breeze', 'tank', 'thing', 'trim', 'door', 'lucky', 'already'] |  
+| bip_39_word_space_1 | reduce |  
+| bip_39_word_space_10 | reduce goose cool palm affair breeze tank thing trim door |  
+| bip_39_word_space_11 | reduce goose cool palm affair breeze tank thing trim door lucky |  
+| bip_39_word_space_12 | reduce goose cool palm affair breeze tank thing trim door lucky already |  
+| bip_39_word_space_2 | reduce goose |  
+| bip_39_word_space_3 | reduce goose cool |  
+| bip_39_word_space_4 | reduce goose cool palm |  
+| bip_39_word_space_5 | reduce goose cool palm affair |  
+| bip_39_word_space_6 | reduce goose cool palm affair breeze |  
+| bip_39_word_space_7 | reduce goose cool palm affair breeze tank |  
+| bip_39_word_space_8 | reduce goose cool palm affair breeze tank thing |  
+| bip_39_word_space_9 | reduce goose cool palm affair breeze tank thing trim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

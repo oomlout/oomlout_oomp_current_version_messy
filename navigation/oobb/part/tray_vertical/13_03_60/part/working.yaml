@@ -1,3 +1,186 @@
+bip_39_word_new_br1: 'off'
+bip_39_word_new_br10: off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind
+bip_39_word_new_br11: off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind<br>rib
+bip_39_word_new_br12: off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse<br>bind<br>rib<br>attack
+bip_39_word_new_br2: off<br>then
+bip_39_word_new_br3: off<br>then<br>turkey
+bip_39_word_new_br4: off<br>then<br>turkey<br>elephant
+bip_39_word_new_br5: off<br>then<br>turkey<br>elephant<br>crush
+bip_39_word_new_br6: off<br>then<br>turkey<br>elephant<br>crush<br>need
+bip_39_word_new_br7: off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring
+bip_39_word_new_br8: off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record
+bip_39_word_new_br9: off<br>then<br>turkey<br>elephant<br>crush<br>need<br>ring<br>record<br>endorse
+bip_39_word_new_line1: 'off'
+bip_39_word_new_line10: 'off
+
+  then
+
+  turkey
+
+  elephant
+
+  crush
+
+  need
+
+  ring
+
+  record
+
+  endorse
+
+  bind'
+bip_39_word_new_line11: 'off
+
+  then
+
+  turkey
+
+  elephant
+
+  crush
+
+  need
+
+  ring
+
+  record
+
+  endorse
+
+  bind
+
+  rib'
+bip_39_word_new_line12: 'off
+
+  then
+
+  turkey
+
+  elephant
+
+  crush
+
+  need
+
+  ring
+
+  record
+
+  endorse
+
+  bind
+
+  rib
+
+  attack'
+bip_39_word_new_line2: 'off
+
+  then'
+bip_39_word_new_line3: 'off
+
+  then
+
+  turkey'
+bip_39_word_new_line4: 'off
+
+  then
+
+  turkey
+
+  elephant'
+bip_39_word_new_line5: 'off
+
+  then
+
+  turkey
+
+  elephant
+
+  crush'
+bip_39_word_new_line6: 'off
+
+  then
+
+  turkey
+
+  elephant
+
+  crush
+
+  need'
+bip_39_word_new_line7: 'off
+
+  then
+
+  turkey
+
+  elephant
+
+  crush
+
+  need
+
+  ring'
+bip_39_word_new_line8: 'off
+
+  then
+
+  turkey
+
+  elephant
+
+  crush
+
+  need
+
+  ring
+
+  record'
+bip_39_word_new_line9: 'off
+
+  then
+
+  turkey
+
+  elephant
+
+  crush
+
+  need
+
+  ring
+
+  record
+
+  endorse'
+bip_39_word_space_0:
+- 'off'
+- then
+- turkey
+- elephant
+- crush
+- need
+- ring
+- record
+- endorse
+- bind
+- rib
+- attack
+bip_39_word_space_1: 'off'
+bip_39_word_space_10: off then turkey elephant crush need ring record endorse bind
+bip_39_word_space_11: off then turkey elephant crush need ring record endorse bind
+  rib
+bip_39_word_space_12: off then turkey elephant crush need ring record endorse bind
+  rib attack
+bip_39_word_space_2: off then
+bip_39_word_space_3: off then turkey
+bip_39_word_space_4: off then turkey elephant
+bip_39_word_space_5: off then turkey elephant crush
+bip_39_word_space_6: off then turkey elephant crush need
+bip_39_word_space_7: off then turkey elephant crush need ring
+bip_39_word_space_8: off then turkey elephant crush need ring record
+bip_39_word_space_9: off then turkey elephant crush need ring record endorse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

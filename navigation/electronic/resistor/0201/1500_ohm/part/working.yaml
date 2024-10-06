@@ -1,3 +1,186 @@
+bip_39_word_new_br1: craft
+bip_39_word_new_br10: craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action
+bip_39_word_new_br11: craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action<br>dirt
+bip_39_word_new_br12: craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain<br>action<br>dirt<br>above
+bip_39_word_new_br2: craft<br>joke
+bip_39_word_new_br3: craft<br>joke<br>return
+bip_39_word_new_br4: craft<br>joke<br>return<br>gold
+bip_39_word_new_br5: craft<br>joke<br>return<br>gold<br>galaxy
+bip_39_word_new_br6: craft<br>joke<br>return<br>gold<br>galaxy<br>network
+bip_39_word_new_br7: craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond
+bip_39_word_new_br8: craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge
+bip_39_word_new_br9: craft<br>joke<br>return<br>gold<br>galaxy<br>network<br>beyond<br>ridge<br>curtain
+bip_39_word_new_line1: craft
+bip_39_word_new_line10: 'craft
+
+  joke
+
+  return
+
+  gold
+
+  galaxy
+
+  network
+
+  beyond
+
+  ridge
+
+  curtain
+
+  action'
+bip_39_word_new_line11: 'craft
+
+  joke
+
+  return
+
+  gold
+
+  galaxy
+
+  network
+
+  beyond
+
+  ridge
+
+  curtain
+
+  action
+
+  dirt'
+bip_39_word_new_line12: 'craft
+
+  joke
+
+  return
+
+  gold
+
+  galaxy
+
+  network
+
+  beyond
+
+  ridge
+
+  curtain
+
+  action
+
+  dirt
+
+  above'
+bip_39_word_new_line2: 'craft
+
+  joke'
+bip_39_word_new_line3: 'craft
+
+  joke
+
+  return'
+bip_39_word_new_line4: 'craft
+
+  joke
+
+  return
+
+  gold'
+bip_39_word_new_line5: 'craft
+
+  joke
+
+  return
+
+  gold
+
+  galaxy'
+bip_39_word_new_line6: 'craft
+
+  joke
+
+  return
+
+  gold
+
+  galaxy
+
+  network'
+bip_39_word_new_line7: 'craft
+
+  joke
+
+  return
+
+  gold
+
+  galaxy
+
+  network
+
+  beyond'
+bip_39_word_new_line8: 'craft
+
+  joke
+
+  return
+
+  gold
+
+  galaxy
+
+  network
+
+  beyond
+
+  ridge'
+bip_39_word_new_line9: 'craft
+
+  joke
+
+  return
+
+  gold
+
+  galaxy
+
+  network
+
+  beyond
+
+  ridge
+
+  curtain'
+bip_39_word_space_0:
+- craft
+- joke
+- return
+- gold
+- galaxy
+- network
+- beyond
+- ridge
+- curtain
+- action
+- dirt
+- above
+bip_39_word_space_1: craft
+bip_39_word_space_10: craft joke return gold galaxy network beyond ridge curtain action
+bip_39_word_space_11: craft joke return gold galaxy network beyond ridge curtain action
+  dirt
+bip_39_word_space_12: craft joke return gold galaxy network beyond ridge curtain action
+  dirt above
+bip_39_word_space_2: craft joke
+bip_39_word_space_3: craft joke return
+bip_39_word_space_4: craft joke return gold
+bip_39_word_space_5: craft joke return gold galaxy
+bip_39_word_space_6: craft joke return gold galaxy network
+bip_39_word_space_7: craft joke return gold galaxy network beyond
+bip_39_word_space_8: craft joke return gold galaxy network beyond ridge
+bip_39_word_space_9: craft joke return gold galaxy network beyond ridge curtain
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

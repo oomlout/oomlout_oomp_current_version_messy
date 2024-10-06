@@ -1,3 +1,187 @@
+bip_39_word_new_br1: olive
+bip_39_word_new_br10: olive<br>cable<br>picture<br>simple<br>appear<br>present<br>rug<br>hidden<br>phrase<br>crash
+bip_39_word_new_br11: olive<br>cable<br>picture<br>simple<br>appear<br>present<br>rug<br>hidden<br>phrase<br>crash<br>whale
+bip_39_word_new_br12: olive<br>cable<br>picture<br>simple<br>appear<br>present<br>rug<br>hidden<br>phrase<br>crash<br>whale<br>ask
+bip_39_word_new_br2: olive<br>cable
+bip_39_word_new_br3: olive<br>cable<br>picture
+bip_39_word_new_br4: olive<br>cable<br>picture<br>simple
+bip_39_word_new_br5: olive<br>cable<br>picture<br>simple<br>appear
+bip_39_word_new_br6: olive<br>cable<br>picture<br>simple<br>appear<br>present
+bip_39_word_new_br7: olive<br>cable<br>picture<br>simple<br>appear<br>present<br>rug
+bip_39_word_new_br8: olive<br>cable<br>picture<br>simple<br>appear<br>present<br>rug<br>hidden
+bip_39_word_new_br9: olive<br>cable<br>picture<br>simple<br>appear<br>present<br>rug<br>hidden<br>phrase
+bip_39_word_new_line1: olive
+bip_39_word_new_line10: 'olive
+
+  cable
+
+  picture
+
+  simple
+
+  appear
+
+  present
+
+  rug
+
+  hidden
+
+  phrase
+
+  crash'
+bip_39_word_new_line11: 'olive
+
+  cable
+
+  picture
+
+  simple
+
+  appear
+
+  present
+
+  rug
+
+  hidden
+
+  phrase
+
+  crash
+
+  whale'
+bip_39_word_new_line12: 'olive
+
+  cable
+
+  picture
+
+  simple
+
+  appear
+
+  present
+
+  rug
+
+  hidden
+
+  phrase
+
+  crash
+
+  whale
+
+  ask'
+bip_39_word_new_line2: 'olive
+
+  cable'
+bip_39_word_new_line3: 'olive
+
+  cable
+
+  picture'
+bip_39_word_new_line4: 'olive
+
+  cable
+
+  picture
+
+  simple'
+bip_39_word_new_line5: 'olive
+
+  cable
+
+  picture
+
+  simple
+
+  appear'
+bip_39_word_new_line6: 'olive
+
+  cable
+
+  picture
+
+  simple
+
+  appear
+
+  present'
+bip_39_word_new_line7: 'olive
+
+  cable
+
+  picture
+
+  simple
+
+  appear
+
+  present
+
+  rug'
+bip_39_word_new_line8: 'olive
+
+  cable
+
+  picture
+
+  simple
+
+  appear
+
+  present
+
+  rug
+
+  hidden'
+bip_39_word_new_line9: 'olive
+
+  cable
+
+  picture
+
+  simple
+
+  appear
+
+  present
+
+  rug
+
+  hidden
+
+  phrase'
+bip_39_word_space_0:
+- olive
+- cable
+- picture
+- simple
+- appear
+- present
+- rug
+- hidden
+- phrase
+- crash
+- whale
+- ask
+bip_39_word_space_1: olive
+bip_39_word_space_10: olive cable picture simple appear present rug hidden phrase
+  crash
+bip_39_word_space_11: olive cable picture simple appear present rug hidden phrase
+  crash whale
+bip_39_word_space_12: olive cable picture simple appear present rug hidden phrase
+  crash whale ask
+bip_39_word_space_2: olive cable
+bip_39_word_space_3: olive cable picture
+bip_39_word_space_4: olive cable picture simple
+bip_39_word_space_5: olive cable picture simple appear
+bip_39_word_space_6: olive cable picture simple appear present
+bip_39_word_space_7: olive cable picture simple appear present rug
+bip_39_word_space_8: olive cable picture simple appear present rug hidden
+bip_39_word_space_9: olive cable picture simple appear present rug hidden phrase
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

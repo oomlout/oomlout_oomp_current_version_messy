@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: room buddy
+  * bip 39 word 3: room buddy youth
+  * bip 39 word: room buddy youth color robust twice damp giant bacon rack have also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | room |  
+| bip_39_word_new_br10 | room<br>buddy<br>youth<br>color<br>robust<br>twice<br>damp<br>giant<br>bacon<br>rack |  
+| bip_39_word_new_br11 | room<br>buddy<br>youth<br>color<br>robust<br>twice<br>damp<br>giant<br>bacon<br>rack<br>have |  
+| bip_39_word_new_br12 | room<br>buddy<br>youth<br>color<br>robust<br>twice<br>damp<br>giant<br>bacon<br>rack<br>have<br>also |  
+| bip_39_word_new_br2 | room<br>buddy |  
+| bip_39_word_new_br3 | room<br>buddy<br>youth |  
+| bip_39_word_new_br4 | room<br>buddy<br>youth<br>color |  
+| bip_39_word_new_br5 | room<br>buddy<br>youth<br>color<br>robust |  
+| bip_39_word_new_br6 | room<br>buddy<br>youth<br>color<br>robust<br>twice |  
+| bip_39_word_new_br7 | room<br>buddy<br>youth<br>color<br>robust<br>twice<br>damp |  
+| bip_39_word_new_br8 | room<br>buddy<br>youth<br>color<br>robust<br>twice<br>damp<br>giant |  
+| bip_39_word_new_br9 | room<br>buddy<br>youth<br>color<br>robust<br>twice<br>damp<br>giant<br>bacon |  
+| bip_39_word_new_line1 | room |  
+| bip_39_word_new_line10 | room
+buddy
+youth
+color
+robust
+twice
+damp
+giant
+bacon
+rack |  
+| bip_39_word_new_line11 | room
+buddy
+youth
+color
+robust
+twice
+damp
+giant
+bacon
+rack
+have |  
+| bip_39_word_new_line12 | room
+buddy
+youth
+color
+robust
+twice
+damp
+giant
+bacon
+rack
+have
+also |  
+| bip_39_word_new_line2 | room
+buddy |  
+| bip_39_word_new_line3 | room
+buddy
+youth |  
+| bip_39_word_new_line4 | room
+buddy
+youth
+color |  
+| bip_39_word_new_line5 | room
+buddy
+youth
+color
+robust |  
+| bip_39_word_new_line6 | room
+buddy
+youth
+color
+robust
+twice |  
+| bip_39_word_new_line7 | room
+buddy
+youth
+color
+robust
+twice
+damp |  
+| bip_39_word_new_line8 | room
+buddy
+youth
+color
+robust
+twice
+damp
+giant |  
+| bip_39_word_new_line9 | room
+buddy
+youth
+color
+robust
+twice
+damp
+giant
+bacon |  
+| bip_39_word_space_0 | ['room', 'buddy', 'youth', 'color', 'robust', 'twice', 'damp', 'giant', 'bacon', 'rack', 'have', 'also'] |  
+| bip_39_word_space_1 | room |  
+| bip_39_word_space_10 | room buddy youth color robust twice damp giant bacon rack |  
+| bip_39_word_space_11 | room buddy youth color robust twice damp giant bacon rack have |  
+| bip_39_word_space_12 | room buddy youth color robust twice damp giant bacon rack have also |  
+| bip_39_word_space_2 | room buddy |  
+| bip_39_word_space_3 | room buddy youth |  
+| bip_39_word_space_4 | room buddy youth color |  
+| bip_39_word_space_5 | room buddy youth color robust |  
+| bip_39_word_space_6 | room buddy youth color robust twice |  
+| bip_39_word_space_7 | room buddy youth color robust twice damp |  
+| bip_39_word_space_8 | room buddy youth color robust twice damp giant |  
+| bip_39_word_space_9 | room buddy youth color robust twice damp giant bacon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

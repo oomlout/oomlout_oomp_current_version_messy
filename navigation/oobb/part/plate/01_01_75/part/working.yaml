@@ -1,3 +1,186 @@
+bip_39_word_new_br1: live
+bip_39_word_new_br10: live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling
+bip_39_word_new_br11: live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling<br>pupil
+bip_39_word_new_br12: live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert<br>ceiling<br>pupil<br>aim
+bip_39_word_new_br2: live<br>undo
+bip_39_word_new_br3: live<br>undo<br>proof
+bip_39_word_new_br4: live<br>undo<br>proof<br>kid
+bip_39_word_new_br5: live<br>undo<br>proof<br>kid<br>bicycle
+bip_39_word_new_br6: live<br>undo<br>proof<br>kid<br>bicycle<br>before
+bip_39_word_new_br7: live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness
+bip_39_word_new_br8: live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air
+bip_39_word_new_br9: live<br>undo<br>proof<br>kid<br>bicycle<br>before<br>witness<br>air<br>divert
+bip_39_word_new_line1: live
+bip_39_word_new_line10: 'live
+
+  undo
+
+  proof
+
+  kid
+
+  bicycle
+
+  before
+
+  witness
+
+  air
+
+  divert
+
+  ceiling'
+bip_39_word_new_line11: 'live
+
+  undo
+
+  proof
+
+  kid
+
+  bicycle
+
+  before
+
+  witness
+
+  air
+
+  divert
+
+  ceiling
+
+  pupil'
+bip_39_word_new_line12: 'live
+
+  undo
+
+  proof
+
+  kid
+
+  bicycle
+
+  before
+
+  witness
+
+  air
+
+  divert
+
+  ceiling
+
+  pupil
+
+  aim'
+bip_39_word_new_line2: 'live
+
+  undo'
+bip_39_word_new_line3: 'live
+
+  undo
+
+  proof'
+bip_39_word_new_line4: 'live
+
+  undo
+
+  proof
+
+  kid'
+bip_39_word_new_line5: 'live
+
+  undo
+
+  proof
+
+  kid
+
+  bicycle'
+bip_39_word_new_line6: 'live
+
+  undo
+
+  proof
+
+  kid
+
+  bicycle
+
+  before'
+bip_39_word_new_line7: 'live
+
+  undo
+
+  proof
+
+  kid
+
+  bicycle
+
+  before
+
+  witness'
+bip_39_word_new_line8: 'live
+
+  undo
+
+  proof
+
+  kid
+
+  bicycle
+
+  before
+
+  witness
+
+  air'
+bip_39_word_new_line9: 'live
+
+  undo
+
+  proof
+
+  kid
+
+  bicycle
+
+  before
+
+  witness
+
+  air
+
+  divert'
+bip_39_word_space_0:
+- live
+- undo
+- proof
+- kid
+- bicycle
+- before
+- witness
+- air
+- divert
+- ceiling
+- pupil
+- aim
+bip_39_word_space_1: live
+bip_39_word_space_10: live undo proof kid bicycle before witness air divert ceiling
+bip_39_word_space_11: live undo proof kid bicycle before witness air divert ceiling
+  pupil
+bip_39_word_space_12: live undo proof kid bicycle before witness air divert ceiling
+  pupil aim
+bip_39_word_space_2: live undo
+bip_39_word_space_3: live undo proof
+bip_39_word_space_4: live undo proof kid
+bip_39_word_space_5: live undo proof kid bicycle
+bip_39_word_space_6: live undo proof kid bicycle before
+bip_39_word_space_7: live undo proof kid bicycle before witness
+bip_39_word_space_8: live undo proof kid bicycle before witness air
+bip_39_word_space_9: live undo proof kid bicycle before witness air divert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

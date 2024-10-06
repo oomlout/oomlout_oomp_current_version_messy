@@ -1,3 +1,185 @@
+bip_39_word_new_br1: inner
+bip_39_word_new_br10: inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer
+bip_39_word_new_br11: inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer<br>theory
+bip_39_word_new_br12: inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle<br>deer<br>theory<br>average
+bip_39_word_new_br2: inner<br>grain
+bip_39_word_new_br3: inner<br>grain<br>left
+bip_39_word_new_br4: inner<br>grain<br>left<br>gas
+bip_39_word_new_br5: inner<br>grain<br>left<br>gas<br>merry
+bip_39_word_new_br6: inner<br>grain<br>left<br>gas<br>merry<br>time
+bip_39_word_new_br7: inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi
+bip_39_word_new_br8: inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule
+bip_39_word_new_br9: inner<br>grain<br>left<br>gas<br>merry<br>time<br>kiwi<br>mule<br>uncle
+bip_39_word_new_line1: inner
+bip_39_word_new_line10: 'inner
+
+  grain
+
+  left
+
+  gas
+
+  merry
+
+  time
+
+  kiwi
+
+  mule
+
+  uncle
+
+  deer'
+bip_39_word_new_line11: 'inner
+
+  grain
+
+  left
+
+  gas
+
+  merry
+
+  time
+
+  kiwi
+
+  mule
+
+  uncle
+
+  deer
+
+  theory'
+bip_39_word_new_line12: 'inner
+
+  grain
+
+  left
+
+  gas
+
+  merry
+
+  time
+
+  kiwi
+
+  mule
+
+  uncle
+
+  deer
+
+  theory
+
+  average'
+bip_39_word_new_line2: 'inner
+
+  grain'
+bip_39_word_new_line3: 'inner
+
+  grain
+
+  left'
+bip_39_word_new_line4: 'inner
+
+  grain
+
+  left
+
+  gas'
+bip_39_word_new_line5: 'inner
+
+  grain
+
+  left
+
+  gas
+
+  merry'
+bip_39_word_new_line6: 'inner
+
+  grain
+
+  left
+
+  gas
+
+  merry
+
+  time'
+bip_39_word_new_line7: 'inner
+
+  grain
+
+  left
+
+  gas
+
+  merry
+
+  time
+
+  kiwi'
+bip_39_word_new_line8: 'inner
+
+  grain
+
+  left
+
+  gas
+
+  merry
+
+  time
+
+  kiwi
+
+  mule'
+bip_39_word_new_line9: 'inner
+
+  grain
+
+  left
+
+  gas
+
+  merry
+
+  time
+
+  kiwi
+
+  mule
+
+  uncle'
+bip_39_word_space_0:
+- inner
+- grain
+- left
+- gas
+- merry
+- time
+- kiwi
+- mule
+- uncle
+- deer
+- theory
+- average
+bip_39_word_space_1: inner
+bip_39_word_space_10: inner grain left gas merry time kiwi mule uncle deer
+bip_39_word_space_11: inner grain left gas merry time kiwi mule uncle deer theory
+bip_39_word_space_12: inner grain left gas merry time kiwi mule uncle deer theory
+  average
+bip_39_word_space_2: inner grain
+bip_39_word_space_3: inner grain left
+bip_39_word_space_4: inner grain left gas
+bip_39_word_space_5: inner grain left gas merry
+bip_39_word_space_6: inner grain left gas merry time
+bip_39_word_space_7: inner grain left gas merry time kiwi
+bip_39_word_space_8: inner grain left gas merry time kiwi mule
+bip_39_word_space_9: inner grain left gas merry time kiwi mule uncle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

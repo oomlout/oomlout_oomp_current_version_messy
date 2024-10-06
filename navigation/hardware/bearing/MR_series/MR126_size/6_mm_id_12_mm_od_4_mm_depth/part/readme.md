@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: impose switch
+  * bip 39 word 3: impose switch orange
+  * bip 39 word: impose switch orange artefact master document girl junk afraid arrest sport address
 
 ### other_codes
 * short_code: brMR126
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | impose |  
+| bip_39_word_new_br10 | impose<br>switch<br>orange<br>artefact<br>master<br>document<br>girl<br>junk<br>afraid<br>arrest |  
+| bip_39_word_new_br11 | impose<br>switch<br>orange<br>artefact<br>master<br>document<br>girl<br>junk<br>afraid<br>arrest<br>sport |  
+| bip_39_word_new_br12 | impose<br>switch<br>orange<br>artefact<br>master<br>document<br>girl<br>junk<br>afraid<br>arrest<br>sport<br>address |  
+| bip_39_word_new_br2 | impose<br>switch |  
+| bip_39_word_new_br3 | impose<br>switch<br>orange |  
+| bip_39_word_new_br4 | impose<br>switch<br>orange<br>artefact |  
+| bip_39_word_new_br5 | impose<br>switch<br>orange<br>artefact<br>master |  
+| bip_39_word_new_br6 | impose<br>switch<br>orange<br>artefact<br>master<br>document |  
+| bip_39_word_new_br7 | impose<br>switch<br>orange<br>artefact<br>master<br>document<br>girl |  
+| bip_39_word_new_br8 | impose<br>switch<br>orange<br>artefact<br>master<br>document<br>girl<br>junk |  
+| bip_39_word_new_br9 | impose<br>switch<br>orange<br>artefact<br>master<br>document<br>girl<br>junk<br>afraid |  
+| bip_39_word_new_line1 | impose |  
+| bip_39_word_new_line10 | impose
+switch
+orange
+artefact
+master
+document
+girl
+junk
+afraid
+arrest |  
+| bip_39_word_new_line11 | impose
+switch
+orange
+artefact
+master
+document
+girl
+junk
+afraid
+arrest
+sport |  
+| bip_39_word_new_line12 | impose
+switch
+orange
+artefact
+master
+document
+girl
+junk
+afraid
+arrest
+sport
+address |  
+| bip_39_word_new_line2 | impose
+switch |  
+| bip_39_word_new_line3 | impose
+switch
+orange |  
+| bip_39_word_new_line4 | impose
+switch
+orange
+artefact |  
+| bip_39_word_new_line5 | impose
+switch
+orange
+artefact
+master |  
+| bip_39_word_new_line6 | impose
+switch
+orange
+artefact
+master
+document |  
+| bip_39_word_new_line7 | impose
+switch
+orange
+artefact
+master
+document
+girl |  
+| bip_39_word_new_line8 | impose
+switch
+orange
+artefact
+master
+document
+girl
+junk |  
+| bip_39_word_new_line9 | impose
+switch
+orange
+artefact
+master
+document
+girl
+junk
+afraid |  
+| bip_39_word_space_0 | ['impose', 'switch', 'orange', 'artefact', 'master', 'document', 'girl', 'junk', 'afraid', 'arrest', 'sport', 'address'] |  
+| bip_39_word_space_1 | impose |  
+| bip_39_word_space_10 | impose switch orange artefact master document girl junk afraid arrest |  
+| bip_39_word_space_11 | impose switch orange artefact master document girl junk afraid arrest sport |  
+| bip_39_word_space_12 | impose switch orange artefact master document girl junk afraid arrest sport address |  
+| bip_39_word_space_2 | impose switch |  
+| bip_39_word_space_3 | impose switch orange |  
+| bip_39_word_space_4 | impose switch orange artefact |  
+| bip_39_word_space_5 | impose switch orange artefact master |  
+| bip_39_word_space_6 | impose switch orange artefact master document |  
+| bip_39_word_space_7 | impose switch orange artefact master document girl |  
+| bip_39_word_space_8 | impose switch orange artefact master document girl junk |  
+| bip_39_word_space_9 | impose switch orange artefact master document girl junk afraid |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

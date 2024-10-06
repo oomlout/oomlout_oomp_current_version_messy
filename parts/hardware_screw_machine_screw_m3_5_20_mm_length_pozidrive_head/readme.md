@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sniff iron
+  * bip 39 word 3: sniff iron truth
+  * bip 39 word: sniff iron truth infant quick fall chuckle critic trumpet much symptom alley
 
 ### other_codes
 * short_code: ms3d5m20pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sniff |  
+| bip_39_word_new_br10 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall<br>chuckle<br>critic<br>trumpet<br>much |  
+| bip_39_word_new_br11 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall<br>chuckle<br>critic<br>trumpet<br>much<br>symptom |  
+| bip_39_word_new_br12 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall<br>chuckle<br>critic<br>trumpet<br>much<br>symptom<br>alley |  
+| bip_39_word_new_br2 | sniff<br>iron |  
+| bip_39_word_new_br3 | sniff<br>iron<br>truth |  
+| bip_39_word_new_br4 | sniff<br>iron<br>truth<br>infant |  
+| bip_39_word_new_br5 | sniff<br>iron<br>truth<br>infant<br>quick |  
+| bip_39_word_new_br6 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall |  
+| bip_39_word_new_br7 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall<br>chuckle |  
+| bip_39_word_new_br8 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall<br>chuckle<br>critic |  
+| bip_39_word_new_br9 | sniff<br>iron<br>truth<br>infant<br>quick<br>fall<br>chuckle<br>critic<br>trumpet |  
+| bip_39_word_new_line1 | sniff |  
+| bip_39_word_new_line10 | sniff
+iron
+truth
+infant
+quick
+fall
+chuckle
+critic
+trumpet
+much |  
+| bip_39_word_new_line11 | sniff
+iron
+truth
+infant
+quick
+fall
+chuckle
+critic
+trumpet
+much
+symptom |  
+| bip_39_word_new_line12 | sniff
+iron
+truth
+infant
+quick
+fall
+chuckle
+critic
+trumpet
+much
+symptom
+alley |  
+| bip_39_word_new_line2 | sniff
+iron |  
+| bip_39_word_new_line3 | sniff
+iron
+truth |  
+| bip_39_word_new_line4 | sniff
+iron
+truth
+infant |  
+| bip_39_word_new_line5 | sniff
+iron
+truth
+infant
+quick |  
+| bip_39_word_new_line6 | sniff
+iron
+truth
+infant
+quick
+fall |  
+| bip_39_word_new_line7 | sniff
+iron
+truth
+infant
+quick
+fall
+chuckle |  
+| bip_39_word_new_line8 | sniff
+iron
+truth
+infant
+quick
+fall
+chuckle
+critic |  
+| bip_39_word_new_line9 | sniff
+iron
+truth
+infant
+quick
+fall
+chuckle
+critic
+trumpet |  
+| bip_39_word_space_0 | ['sniff', 'iron', 'truth', 'infant', 'quick', 'fall', 'chuckle', 'critic', 'trumpet', 'much', 'symptom', 'alley'] |  
+| bip_39_word_space_1 | sniff |  
+| bip_39_word_space_10 | sniff iron truth infant quick fall chuckle critic trumpet much |  
+| bip_39_word_space_11 | sniff iron truth infant quick fall chuckle critic trumpet much symptom |  
+| bip_39_word_space_12 | sniff iron truth infant quick fall chuckle critic trumpet much symptom alley |  
+| bip_39_word_space_2 | sniff iron |  
+| bip_39_word_space_3 | sniff iron truth |  
+| bip_39_word_space_4 | sniff iron truth infant |  
+| bip_39_word_space_5 | sniff iron truth infant quick |  
+| bip_39_word_space_6 | sniff iron truth infant quick fall |  
+| bip_39_word_space_7 | sniff iron truth infant quick fall chuckle |  
+| bip_39_word_space_8 | sniff iron truth infant quick fall chuckle critic |  
+| bip_39_word_space_9 | sniff iron truth infant quick fall chuckle critic trumpet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

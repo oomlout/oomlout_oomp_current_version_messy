@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: indoor artist
+  * bip 39 word 3: indoor artist garbage
+  * bip 39 word: indoor artist garbage reunion stable boat sick series fuel unique clinic analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | indoor |  
+| bip_39_word_new_br10 | indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat<br>sick<br>series<br>fuel<br>unique |  
+| bip_39_word_new_br11 | indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat<br>sick<br>series<br>fuel<br>unique<br>clinic |  
+| bip_39_word_new_br12 | indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat<br>sick<br>series<br>fuel<br>unique<br>clinic<br>analyst |  
+| bip_39_word_new_br2 | indoor<br>artist |  
+| bip_39_word_new_br3 | indoor<br>artist<br>garbage |  
+| bip_39_word_new_br4 | indoor<br>artist<br>garbage<br>reunion |  
+| bip_39_word_new_br5 | indoor<br>artist<br>garbage<br>reunion<br>stable |  
+| bip_39_word_new_br6 | indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat |  
+| bip_39_word_new_br7 | indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat<br>sick |  
+| bip_39_word_new_br8 | indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat<br>sick<br>series |  
+| bip_39_word_new_br9 | indoor<br>artist<br>garbage<br>reunion<br>stable<br>boat<br>sick<br>series<br>fuel |  
+| bip_39_word_new_line1 | indoor |  
+| bip_39_word_new_line10 | indoor
+artist
+garbage
+reunion
+stable
+boat
+sick
+series
+fuel
+unique |  
+| bip_39_word_new_line11 | indoor
+artist
+garbage
+reunion
+stable
+boat
+sick
+series
+fuel
+unique
+clinic |  
+| bip_39_word_new_line12 | indoor
+artist
+garbage
+reunion
+stable
+boat
+sick
+series
+fuel
+unique
+clinic
+analyst |  
+| bip_39_word_new_line2 | indoor
+artist |  
+| bip_39_word_new_line3 | indoor
+artist
+garbage |  
+| bip_39_word_new_line4 | indoor
+artist
+garbage
+reunion |  
+| bip_39_word_new_line5 | indoor
+artist
+garbage
+reunion
+stable |  
+| bip_39_word_new_line6 | indoor
+artist
+garbage
+reunion
+stable
+boat |  
+| bip_39_word_new_line7 | indoor
+artist
+garbage
+reunion
+stable
+boat
+sick |  
+| bip_39_word_new_line8 | indoor
+artist
+garbage
+reunion
+stable
+boat
+sick
+series |  
+| bip_39_word_new_line9 | indoor
+artist
+garbage
+reunion
+stable
+boat
+sick
+series
+fuel |  
+| bip_39_word_space_0 | ['indoor', 'artist', 'garbage', 'reunion', 'stable', 'boat', 'sick', 'series', 'fuel', 'unique', 'clinic', 'analyst'] |  
+| bip_39_word_space_1 | indoor |  
+| bip_39_word_space_10 | indoor artist garbage reunion stable boat sick series fuel unique |  
+| bip_39_word_space_11 | indoor artist garbage reunion stable boat sick series fuel unique clinic |  
+| bip_39_word_space_12 | indoor artist garbage reunion stable boat sick series fuel unique clinic analyst |  
+| bip_39_word_space_2 | indoor artist |  
+| bip_39_word_space_3 | indoor artist garbage |  
+| bip_39_word_space_4 | indoor artist garbage reunion |  
+| bip_39_word_space_5 | indoor artist garbage reunion stable |  
+| bip_39_word_space_6 | indoor artist garbage reunion stable boat |  
+| bip_39_word_space_7 | indoor artist garbage reunion stable boat sick |  
+| bip_39_word_space_8 | indoor artist garbage reunion stable boat sick series |  
+| bip_39_word_space_9 | indoor artist garbage reunion stable boat sick series fuel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

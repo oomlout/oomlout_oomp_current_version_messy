@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rose doll
+  * bip 39 word 3: rose doll copy
+  * bip 39 word: rose doll copy misery chief grass gold picture cheese settle reflect aisle
 
 ### other_codes
 * short_code: br6214
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rose |  
+| bip_39_word_new_br10 | rose<br>doll<br>copy<br>misery<br>chief<br>grass<br>gold<br>picture<br>cheese<br>settle |  
+| bip_39_word_new_br11 | rose<br>doll<br>copy<br>misery<br>chief<br>grass<br>gold<br>picture<br>cheese<br>settle<br>reflect |  
+| bip_39_word_new_br12 | rose<br>doll<br>copy<br>misery<br>chief<br>grass<br>gold<br>picture<br>cheese<br>settle<br>reflect<br>aisle |  
+| bip_39_word_new_br2 | rose<br>doll |  
+| bip_39_word_new_br3 | rose<br>doll<br>copy |  
+| bip_39_word_new_br4 | rose<br>doll<br>copy<br>misery |  
+| bip_39_word_new_br5 | rose<br>doll<br>copy<br>misery<br>chief |  
+| bip_39_word_new_br6 | rose<br>doll<br>copy<br>misery<br>chief<br>grass |  
+| bip_39_word_new_br7 | rose<br>doll<br>copy<br>misery<br>chief<br>grass<br>gold |  
+| bip_39_word_new_br8 | rose<br>doll<br>copy<br>misery<br>chief<br>grass<br>gold<br>picture |  
+| bip_39_word_new_br9 | rose<br>doll<br>copy<br>misery<br>chief<br>grass<br>gold<br>picture<br>cheese |  
+| bip_39_word_new_line1 | rose |  
+| bip_39_word_new_line10 | rose
+doll
+copy
+misery
+chief
+grass
+gold
+picture
+cheese
+settle |  
+| bip_39_word_new_line11 | rose
+doll
+copy
+misery
+chief
+grass
+gold
+picture
+cheese
+settle
+reflect |  
+| bip_39_word_new_line12 | rose
+doll
+copy
+misery
+chief
+grass
+gold
+picture
+cheese
+settle
+reflect
+aisle |  
+| bip_39_word_new_line2 | rose
+doll |  
+| bip_39_word_new_line3 | rose
+doll
+copy |  
+| bip_39_word_new_line4 | rose
+doll
+copy
+misery |  
+| bip_39_word_new_line5 | rose
+doll
+copy
+misery
+chief |  
+| bip_39_word_new_line6 | rose
+doll
+copy
+misery
+chief
+grass |  
+| bip_39_word_new_line7 | rose
+doll
+copy
+misery
+chief
+grass
+gold |  
+| bip_39_word_new_line8 | rose
+doll
+copy
+misery
+chief
+grass
+gold
+picture |  
+| bip_39_word_new_line9 | rose
+doll
+copy
+misery
+chief
+grass
+gold
+picture
+cheese |  
+| bip_39_word_space_0 | ['rose', 'doll', 'copy', 'misery', 'chief', 'grass', 'gold', 'picture', 'cheese', 'settle', 'reflect', 'aisle'] |  
+| bip_39_word_space_1 | rose |  
+| bip_39_word_space_10 | rose doll copy misery chief grass gold picture cheese settle |  
+| bip_39_word_space_11 | rose doll copy misery chief grass gold picture cheese settle reflect |  
+| bip_39_word_space_12 | rose doll copy misery chief grass gold picture cheese settle reflect aisle |  
+| bip_39_word_space_2 | rose doll |  
+| bip_39_word_space_3 | rose doll copy |  
+| bip_39_word_space_4 | rose doll copy misery |  
+| bip_39_word_space_5 | rose doll copy misery chief |  
+| bip_39_word_space_6 | rose doll copy misery chief grass |  
+| bip_39_word_space_7 | rose doll copy misery chief grass gold |  
+| bip_39_word_space_8 | rose doll copy misery chief grass gold picture |  
+| bip_39_word_space_9 | rose doll copy misery chief grass gold picture cheese |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

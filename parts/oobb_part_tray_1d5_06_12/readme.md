@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spice detail
+  * bip 39 word 3: spice detail basic
+  * bip 39 word: spice detail basic elite clinic rack sunny fiber chat track trial acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spice |  
+| bip_39_word_new_br10 | spice<br>detail<br>basic<br>elite<br>clinic<br>rack<br>sunny<br>fiber<br>chat<br>track |  
+| bip_39_word_new_br11 | spice<br>detail<br>basic<br>elite<br>clinic<br>rack<br>sunny<br>fiber<br>chat<br>track<br>trial |  
+| bip_39_word_new_br12 | spice<br>detail<br>basic<br>elite<br>clinic<br>rack<br>sunny<br>fiber<br>chat<br>track<br>trial<br>acoustic |  
+| bip_39_word_new_br2 | spice<br>detail |  
+| bip_39_word_new_br3 | spice<br>detail<br>basic |  
+| bip_39_word_new_br4 | spice<br>detail<br>basic<br>elite |  
+| bip_39_word_new_br5 | spice<br>detail<br>basic<br>elite<br>clinic |  
+| bip_39_word_new_br6 | spice<br>detail<br>basic<br>elite<br>clinic<br>rack |  
+| bip_39_word_new_br7 | spice<br>detail<br>basic<br>elite<br>clinic<br>rack<br>sunny |  
+| bip_39_word_new_br8 | spice<br>detail<br>basic<br>elite<br>clinic<br>rack<br>sunny<br>fiber |  
+| bip_39_word_new_br9 | spice<br>detail<br>basic<br>elite<br>clinic<br>rack<br>sunny<br>fiber<br>chat |  
+| bip_39_word_new_line1 | spice |  
+| bip_39_word_new_line10 | spice
+detail
+basic
+elite
+clinic
+rack
+sunny
+fiber
+chat
+track |  
+| bip_39_word_new_line11 | spice
+detail
+basic
+elite
+clinic
+rack
+sunny
+fiber
+chat
+track
+trial |  
+| bip_39_word_new_line12 | spice
+detail
+basic
+elite
+clinic
+rack
+sunny
+fiber
+chat
+track
+trial
+acoustic |  
+| bip_39_word_new_line2 | spice
+detail |  
+| bip_39_word_new_line3 | spice
+detail
+basic |  
+| bip_39_word_new_line4 | spice
+detail
+basic
+elite |  
+| bip_39_word_new_line5 | spice
+detail
+basic
+elite
+clinic |  
+| bip_39_word_new_line6 | spice
+detail
+basic
+elite
+clinic
+rack |  
+| bip_39_word_new_line7 | spice
+detail
+basic
+elite
+clinic
+rack
+sunny |  
+| bip_39_word_new_line8 | spice
+detail
+basic
+elite
+clinic
+rack
+sunny
+fiber |  
+| bip_39_word_new_line9 | spice
+detail
+basic
+elite
+clinic
+rack
+sunny
+fiber
+chat |  
+| bip_39_word_space_0 | ['spice', 'detail', 'basic', 'elite', 'clinic', 'rack', 'sunny', 'fiber', 'chat', 'track', 'trial', 'acoustic'] |  
+| bip_39_word_space_1 | spice |  
+| bip_39_word_space_10 | spice detail basic elite clinic rack sunny fiber chat track |  
+| bip_39_word_space_11 | spice detail basic elite clinic rack sunny fiber chat track trial |  
+| bip_39_word_space_12 | spice detail basic elite clinic rack sunny fiber chat track trial acoustic |  
+| bip_39_word_space_2 | spice detail |  
+| bip_39_word_space_3 | spice detail basic |  
+| bip_39_word_space_4 | spice detail basic elite |  
+| bip_39_word_space_5 | spice detail basic elite clinic |  
+| bip_39_word_space_6 | spice detail basic elite clinic rack |  
+| bip_39_word_space_7 | spice detail basic elite clinic rack sunny |  
+| bip_39_word_space_8 | spice detail basic elite clinic rack sunny fiber |  
+| bip_39_word_space_9 | spice detail basic elite clinic rack sunny fiber chat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

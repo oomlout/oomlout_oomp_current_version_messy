@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: divide muscle
+  * bip 39 word 3: divide muscle scout
+  * bip 39 word: divide muscle scout wing pupil swap wheel flush upper mansion spike apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | divide |  
+| bip_39_word_new_br10 | divide<br>muscle<br>scout<br>wing<br>pupil<br>swap<br>wheel<br>flush<br>upper<br>mansion |  
+| bip_39_word_new_br11 | divide<br>muscle<br>scout<br>wing<br>pupil<br>swap<br>wheel<br>flush<br>upper<br>mansion<br>spike |  
+| bip_39_word_new_br12 | divide<br>muscle<br>scout<br>wing<br>pupil<br>swap<br>wheel<br>flush<br>upper<br>mansion<br>spike<br>apart |  
+| bip_39_word_new_br2 | divide<br>muscle |  
+| bip_39_word_new_br3 | divide<br>muscle<br>scout |  
+| bip_39_word_new_br4 | divide<br>muscle<br>scout<br>wing |  
+| bip_39_word_new_br5 | divide<br>muscle<br>scout<br>wing<br>pupil |  
+| bip_39_word_new_br6 | divide<br>muscle<br>scout<br>wing<br>pupil<br>swap |  
+| bip_39_word_new_br7 | divide<br>muscle<br>scout<br>wing<br>pupil<br>swap<br>wheel |  
+| bip_39_word_new_br8 | divide<br>muscle<br>scout<br>wing<br>pupil<br>swap<br>wheel<br>flush |  
+| bip_39_word_new_br9 | divide<br>muscle<br>scout<br>wing<br>pupil<br>swap<br>wheel<br>flush<br>upper |  
+| bip_39_word_new_line1 | divide |  
+| bip_39_word_new_line10 | divide
+muscle
+scout
+wing
+pupil
+swap
+wheel
+flush
+upper
+mansion |  
+| bip_39_word_new_line11 | divide
+muscle
+scout
+wing
+pupil
+swap
+wheel
+flush
+upper
+mansion
+spike |  
+| bip_39_word_new_line12 | divide
+muscle
+scout
+wing
+pupil
+swap
+wheel
+flush
+upper
+mansion
+spike
+apart |  
+| bip_39_word_new_line2 | divide
+muscle |  
+| bip_39_word_new_line3 | divide
+muscle
+scout |  
+| bip_39_word_new_line4 | divide
+muscle
+scout
+wing |  
+| bip_39_word_new_line5 | divide
+muscle
+scout
+wing
+pupil |  
+| bip_39_word_new_line6 | divide
+muscle
+scout
+wing
+pupil
+swap |  
+| bip_39_word_new_line7 | divide
+muscle
+scout
+wing
+pupil
+swap
+wheel |  
+| bip_39_word_new_line8 | divide
+muscle
+scout
+wing
+pupil
+swap
+wheel
+flush |  
+| bip_39_word_new_line9 | divide
+muscle
+scout
+wing
+pupil
+swap
+wheel
+flush
+upper |  
+| bip_39_word_space_0 | ['divide', 'muscle', 'scout', 'wing', 'pupil', 'swap', 'wheel', 'flush', 'upper', 'mansion', 'spike', 'apart'] |  
+| bip_39_word_space_1 | divide |  
+| bip_39_word_space_10 | divide muscle scout wing pupil swap wheel flush upper mansion |  
+| bip_39_word_space_11 | divide muscle scout wing pupil swap wheel flush upper mansion spike |  
+| bip_39_word_space_12 | divide muscle scout wing pupil swap wheel flush upper mansion spike apart |  
+| bip_39_word_space_2 | divide muscle |  
+| bip_39_word_space_3 | divide muscle scout |  
+| bip_39_word_space_4 | divide muscle scout wing |  
+| bip_39_word_space_5 | divide muscle scout wing pupil |  
+| bip_39_word_space_6 | divide muscle scout wing pupil swap |  
+| bip_39_word_space_7 | divide muscle scout wing pupil swap wheel |  
+| bip_39_word_space_8 | divide muscle scout wing pupil swap wheel flush |  
+| bip_39_word_space_9 | divide muscle scout wing pupil swap wheel flush upper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

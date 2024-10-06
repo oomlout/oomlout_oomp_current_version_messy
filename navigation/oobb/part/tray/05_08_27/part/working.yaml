@@ -1,3 +1,187 @@
+bip_39_word_new_br1: combine
+bip_39_word_new_br10: combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire
+bip_39_word_new_br11: combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire<br>lock
+bip_39_word_new_br12: combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix<br>retire<br>lock<br>account
+bip_39_word_new_br2: combine<br>cement
+bip_39_word_new_br3: combine<br>cement<br>lesson
+bip_39_word_new_br4: combine<br>cement<br>lesson<br>tent
+bip_39_word_new_br5: combine<br>cement<br>lesson<br>tent<br>category
+bip_39_word_new_br6: combine<br>cement<br>lesson<br>tent<br>category<br>jacket
+bip_39_word_new_br7: combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew
+bip_39_word_new_br8: combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate
+bip_39_word_new_br9: combine<br>cement<br>lesson<br>tent<br>category<br>jacket<br>crew<br>educate<br>fix
+bip_39_word_new_line1: combine
+bip_39_word_new_line10: 'combine
+
+  cement
+
+  lesson
+
+  tent
+
+  category
+
+  jacket
+
+  crew
+
+  educate
+
+  fix
+
+  retire'
+bip_39_word_new_line11: 'combine
+
+  cement
+
+  lesson
+
+  tent
+
+  category
+
+  jacket
+
+  crew
+
+  educate
+
+  fix
+
+  retire
+
+  lock'
+bip_39_word_new_line12: 'combine
+
+  cement
+
+  lesson
+
+  tent
+
+  category
+
+  jacket
+
+  crew
+
+  educate
+
+  fix
+
+  retire
+
+  lock
+
+  account'
+bip_39_word_new_line2: 'combine
+
+  cement'
+bip_39_word_new_line3: 'combine
+
+  cement
+
+  lesson'
+bip_39_word_new_line4: 'combine
+
+  cement
+
+  lesson
+
+  tent'
+bip_39_word_new_line5: 'combine
+
+  cement
+
+  lesson
+
+  tent
+
+  category'
+bip_39_word_new_line6: 'combine
+
+  cement
+
+  lesson
+
+  tent
+
+  category
+
+  jacket'
+bip_39_word_new_line7: 'combine
+
+  cement
+
+  lesson
+
+  tent
+
+  category
+
+  jacket
+
+  crew'
+bip_39_word_new_line8: 'combine
+
+  cement
+
+  lesson
+
+  tent
+
+  category
+
+  jacket
+
+  crew
+
+  educate'
+bip_39_word_new_line9: 'combine
+
+  cement
+
+  lesson
+
+  tent
+
+  category
+
+  jacket
+
+  crew
+
+  educate
+
+  fix'
+bip_39_word_space_0:
+- combine
+- cement
+- lesson
+- tent
+- category
+- jacket
+- crew
+- educate
+- fix
+- retire
+- lock
+- account
+bip_39_word_space_1: combine
+bip_39_word_space_10: combine cement lesson tent category jacket crew educate fix
+  retire
+bip_39_word_space_11: combine cement lesson tent category jacket crew educate fix
+  retire lock
+bip_39_word_space_12: combine cement lesson tent category jacket crew educate fix
+  retire lock account
+bip_39_word_space_2: combine cement
+bip_39_word_space_3: combine cement lesson
+bip_39_word_space_4: combine cement lesson tent
+bip_39_word_space_5: combine cement lesson tent category
+bip_39_word_space_6: combine cement lesson tent category jacket
+bip_39_word_space_7: combine cement lesson tent category jacket crew
+bip_39_word_space_8: combine cement lesson tent category jacket crew educate
+bip_39_word_space_9: combine cement lesson tent category jacket crew educate fix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

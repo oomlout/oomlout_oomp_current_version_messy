@@ -1,3 +1,186 @@
+bip_39_word_new_br1: frozen
+bip_39_word_new_br10: frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject
+bip_39_word_new_br11: frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject<br>worry
+bip_39_word_new_br12: frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay<br>inject<br>worry<br>abuse
+bip_39_word_new_br2: frozen<br>maid
+bip_39_word_new_br3: frozen<br>maid<br>impose
+bip_39_word_new_br4: frozen<br>maid<br>impose<br>damage
+bip_39_word_new_br5: frozen<br>maid<br>impose<br>damage<br>party
+bip_39_word_new_br6: frozen<br>maid<br>impose<br>damage<br>party<br>trip
+bip_39_word_new_br7: frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop
+bip_39_word_new_br8: frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool
+bip_39_word_new_br9: frozen<br>maid<br>impose<br>damage<br>party<br>trip<br>loop<br>cool<br>delay
+bip_39_word_new_line1: frozen
+bip_39_word_new_line10: 'frozen
+
+  maid
+
+  impose
+
+  damage
+
+  party
+
+  trip
+
+  loop
+
+  cool
+
+  delay
+
+  inject'
+bip_39_word_new_line11: 'frozen
+
+  maid
+
+  impose
+
+  damage
+
+  party
+
+  trip
+
+  loop
+
+  cool
+
+  delay
+
+  inject
+
+  worry'
+bip_39_word_new_line12: 'frozen
+
+  maid
+
+  impose
+
+  damage
+
+  party
+
+  trip
+
+  loop
+
+  cool
+
+  delay
+
+  inject
+
+  worry
+
+  abuse'
+bip_39_word_new_line2: 'frozen
+
+  maid'
+bip_39_word_new_line3: 'frozen
+
+  maid
+
+  impose'
+bip_39_word_new_line4: 'frozen
+
+  maid
+
+  impose
+
+  damage'
+bip_39_word_new_line5: 'frozen
+
+  maid
+
+  impose
+
+  damage
+
+  party'
+bip_39_word_new_line6: 'frozen
+
+  maid
+
+  impose
+
+  damage
+
+  party
+
+  trip'
+bip_39_word_new_line7: 'frozen
+
+  maid
+
+  impose
+
+  damage
+
+  party
+
+  trip
+
+  loop'
+bip_39_word_new_line8: 'frozen
+
+  maid
+
+  impose
+
+  damage
+
+  party
+
+  trip
+
+  loop
+
+  cool'
+bip_39_word_new_line9: 'frozen
+
+  maid
+
+  impose
+
+  damage
+
+  party
+
+  trip
+
+  loop
+
+  cool
+
+  delay'
+bip_39_word_space_0:
+- frozen
+- maid
+- impose
+- damage
+- party
+- trip
+- loop
+- cool
+- delay
+- inject
+- worry
+- abuse
+bip_39_word_space_1: frozen
+bip_39_word_space_10: frozen maid impose damage party trip loop cool delay inject
+bip_39_word_space_11: frozen maid impose damage party trip loop cool delay inject
+  worry
+bip_39_word_space_12: frozen maid impose damage party trip loop cool delay inject
+  worry abuse
+bip_39_word_space_2: frozen maid
+bip_39_word_space_3: frozen maid impose
+bip_39_word_space_4: frozen maid impose damage
+bip_39_word_space_5: frozen maid impose damage party
+bip_39_word_space_6: frozen maid impose damage party trip
+bip_39_word_space_7: frozen maid impose damage party trip loop
+bip_39_word_space_8: frozen maid impose damage party trip loop cool
+bip_39_word_space_9: frozen maid impose damage party trip loop cool delay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

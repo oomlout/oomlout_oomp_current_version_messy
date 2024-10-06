@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mammal
+bip_39_word_new_br10: mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly
+bip_39_word_new_br11: mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly<br>become
+bip_39_word_new_br12: mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind<br>truly<br>become<br>assault
+bip_39_word_new_br2: mammal<br>idle
+bip_39_word_new_br3: mammal<br>idle<br>normal
+bip_39_word_new_br4: mammal<br>idle<br>normal<br>brother
+bip_39_word_new_br5: mammal<br>idle<br>normal<br>brother<br>best
+bip_39_word_new_br6: mammal<br>idle<br>normal<br>brother<br>best<br>oblige
+bip_39_word_new_br7: mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope
+bip_39_word_new_br8: mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already
+bip_39_word_new_br9: mammal<br>idle<br>normal<br>brother<br>best<br>oblige<br>hope<br>already<br>blind
+bip_39_word_new_line1: mammal
+bip_39_word_new_line10: 'mammal
+
+  idle
+
+  normal
+
+  brother
+
+  best
+
+  oblige
+
+  hope
+
+  already
+
+  blind
+
+  truly'
+bip_39_word_new_line11: 'mammal
+
+  idle
+
+  normal
+
+  brother
+
+  best
+
+  oblige
+
+  hope
+
+  already
+
+  blind
+
+  truly
+
+  become'
+bip_39_word_new_line12: 'mammal
+
+  idle
+
+  normal
+
+  brother
+
+  best
+
+  oblige
+
+  hope
+
+  already
+
+  blind
+
+  truly
+
+  become
+
+  assault'
+bip_39_word_new_line2: 'mammal
+
+  idle'
+bip_39_word_new_line3: 'mammal
+
+  idle
+
+  normal'
+bip_39_word_new_line4: 'mammal
+
+  idle
+
+  normal
+
+  brother'
+bip_39_word_new_line5: 'mammal
+
+  idle
+
+  normal
+
+  brother
+
+  best'
+bip_39_word_new_line6: 'mammal
+
+  idle
+
+  normal
+
+  brother
+
+  best
+
+  oblige'
+bip_39_word_new_line7: 'mammal
+
+  idle
+
+  normal
+
+  brother
+
+  best
+
+  oblige
+
+  hope'
+bip_39_word_new_line8: 'mammal
+
+  idle
+
+  normal
+
+  brother
+
+  best
+
+  oblige
+
+  hope
+
+  already'
+bip_39_word_new_line9: 'mammal
+
+  idle
+
+  normal
+
+  brother
+
+  best
+
+  oblige
+
+  hope
+
+  already
+
+  blind'
+bip_39_word_space_0:
+- mammal
+- idle
+- normal
+- brother
+- best
+- oblige
+- hope
+- already
+- blind
+- truly
+- become
+- assault
+bip_39_word_space_1: mammal
+bip_39_word_space_10: mammal idle normal brother best oblige hope already blind truly
+bip_39_word_space_11: mammal idle normal brother best oblige hope already blind truly
+  become
+bip_39_word_space_12: mammal idle normal brother best oblige hope already blind truly
+  become assault
+bip_39_word_space_2: mammal idle
+bip_39_word_space_3: mammal idle normal
+bip_39_word_space_4: mammal idle normal brother
+bip_39_word_space_5: mammal idle normal brother best
+bip_39_word_space_6: mammal idle normal brother best oblige
+bip_39_word_space_7: mammal idle normal brother best oblige hope
+bip_39_word_space_8: mammal idle normal brother best oblige hope already
+bip_39_word_space_9: mammal idle normal brother best oblige hope already blind
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

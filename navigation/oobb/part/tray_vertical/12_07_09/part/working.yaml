@@ -1,3 +1,186 @@
+bip_39_word_new_br1: deliver
+bip_39_word_new_br10: deliver<br>drink<br>visa<br>draft<br>fiber<br>december<br>beach<br>survey<br>couch<br>matrix
+bip_39_word_new_br11: deliver<br>drink<br>visa<br>draft<br>fiber<br>december<br>beach<br>survey<br>couch<br>matrix<br>inform
+bip_39_word_new_br12: deliver<br>drink<br>visa<br>draft<br>fiber<br>december<br>beach<br>survey<br>couch<br>matrix<br>inform<br>avocado
+bip_39_word_new_br2: deliver<br>drink
+bip_39_word_new_br3: deliver<br>drink<br>visa
+bip_39_word_new_br4: deliver<br>drink<br>visa<br>draft
+bip_39_word_new_br5: deliver<br>drink<br>visa<br>draft<br>fiber
+bip_39_word_new_br6: deliver<br>drink<br>visa<br>draft<br>fiber<br>december
+bip_39_word_new_br7: deliver<br>drink<br>visa<br>draft<br>fiber<br>december<br>beach
+bip_39_word_new_br8: deliver<br>drink<br>visa<br>draft<br>fiber<br>december<br>beach<br>survey
+bip_39_word_new_br9: deliver<br>drink<br>visa<br>draft<br>fiber<br>december<br>beach<br>survey<br>couch
+bip_39_word_new_line1: deliver
+bip_39_word_new_line10: 'deliver
+
+  drink
+
+  visa
+
+  draft
+
+  fiber
+
+  december
+
+  beach
+
+  survey
+
+  couch
+
+  matrix'
+bip_39_word_new_line11: 'deliver
+
+  drink
+
+  visa
+
+  draft
+
+  fiber
+
+  december
+
+  beach
+
+  survey
+
+  couch
+
+  matrix
+
+  inform'
+bip_39_word_new_line12: 'deliver
+
+  drink
+
+  visa
+
+  draft
+
+  fiber
+
+  december
+
+  beach
+
+  survey
+
+  couch
+
+  matrix
+
+  inform
+
+  avocado'
+bip_39_word_new_line2: 'deliver
+
+  drink'
+bip_39_word_new_line3: 'deliver
+
+  drink
+
+  visa'
+bip_39_word_new_line4: 'deliver
+
+  drink
+
+  visa
+
+  draft'
+bip_39_word_new_line5: 'deliver
+
+  drink
+
+  visa
+
+  draft
+
+  fiber'
+bip_39_word_new_line6: 'deliver
+
+  drink
+
+  visa
+
+  draft
+
+  fiber
+
+  december'
+bip_39_word_new_line7: 'deliver
+
+  drink
+
+  visa
+
+  draft
+
+  fiber
+
+  december
+
+  beach'
+bip_39_word_new_line8: 'deliver
+
+  drink
+
+  visa
+
+  draft
+
+  fiber
+
+  december
+
+  beach
+
+  survey'
+bip_39_word_new_line9: 'deliver
+
+  drink
+
+  visa
+
+  draft
+
+  fiber
+
+  december
+
+  beach
+
+  survey
+
+  couch'
+bip_39_word_space_0:
+- deliver
+- drink
+- visa
+- draft
+- fiber
+- december
+- beach
+- survey
+- couch
+- matrix
+- inform
+- avocado
+bip_39_word_space_1: deliver
+bip_39_word_space_10: deliver drink visa draft fiber december beach survey couch matrix
+bip_39_word_space_11: deliver drink visa draft fiber december beach survey couch matrix
+  inform
+bip_39_word_space_12: deliver drink visa draft fiber december beach survey couch matrix
+  inform avocado
+bip_39_word_space_2: deliver drink
+bip_39_word_space_3: deliver drink visa
+bip_39_word_space_4: deliver drink visa draft
+bip_39_word_space_5: deliver drink visa draft fiber
+bip_39_word_space_6: deliver drink visa draft fiber december
+bip_39_word_space_7: deliver drink visa draft fiber december beach
+bip_39_word_space_8: deliver drink visa draft fiber december beach survey
+bip_39_word_space_9: deliver drink visa draft fiber december beach survey couch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

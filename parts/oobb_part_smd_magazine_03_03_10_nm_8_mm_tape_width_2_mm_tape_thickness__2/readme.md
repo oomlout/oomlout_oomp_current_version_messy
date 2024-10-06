@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unhappy health
+  * bip 39 word 3: unhappy health cruise
+  * bip 39 word: unhappy health cruise health orange turn coconut property antenna cargo common arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unhappy |  
+| bip_39_word_new_br10 | unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna<br>cargo |  
+| bip_39_word_new_br11 | unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna<br>cargo<br>common |  
+| bip_39_word_new_br12 | unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna<br>cargo<br>common<br>arrive |  
+| bip_39_word_new_br2 | unhappy<br>health |  
+| bip_39_word_new_br3 | unhappy<br>health<br>cruise |  
+| bip_39_word_new_br4 | unhappy<br>health<br>cruise<br>health |  
+| bip_39_word_new_br5 | unhappy<br>health<br>cruise<br>health<br>orange |  
+| bip_39_word_new_br6 | unhappy<br>health<br>cruise<br>health<br>orange<br>turn |  
+| bip_39_word_new_br7 | unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut |  
+| bip_39_word_new_br8 | unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property |  
+| bip_39_word_new_br9 | unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna |  
+| bip_39_word_new_line1 | unhappy |  
+| bip_39_word_new_line10 | unhappy
+health
+cruise
+health
+orange
+turn
+coconut
+property
+antenna
+cargo |  
+| bip_39_word_new_line11 | unhappy
+health
+cruise
+health
+orange
+turn
+coconut
+property
+antenna
+cargo
+common |  
+| bip_39_word_new_line12 | unhappy
+health
+cruise
+health
+orange
+turn
+coconut
+property
+antenna
+cargo
+common
+arrive |  
+| bip_39_word_new_line2 | unhappy
+health |  
+| bip_39_word_new_line3 | unhappy
+health
+cruise |  
+| bip_39_word_new_line4 | unhappy
+health
+cruise
+health |  
+| bip_39_word_new_line5 | unhappy
+health
+cruise
+health
+orange |  
+| bip_39_word_new_line6 | unhappy
+health
+cruise
+health
+orange
+turn |  
+| bip_39_word_new_line7 | unhappy
+health
+cruise
+health
+orange
+turn
+coconut |  
+| bip_39_word_new_line8 | unhappy
+health
+cruise
+health
+orange
+turn
+coconut
+property |  
+| bip_39_word_new_line9 | unhappy
+health
+cruise
+health
+orange
+turn
+coconut
+property
+antenna |  
+| bip_39_word_space_0 | ['unhappy', 'health', 'cruise', 'health', 'orange', 'turn', 'coconut', 'property', 'antenna', 'cargo', 'common', 'arrive'] |  
+| bip_39_word_space_1 | unhappy |  
+| bip_39_word_space_10 | unhappy health cruise health orange turn coconut property antenna cargo |  
+| bip_39_word_space_11 | unhappy health cruise health orange turn coconut property antenna cargo common |  
+| bip_39_word_space_12 | unhappy health cruise health orange turn coconut property antenna cargo common arrive |  
+| bip_39_word_space_2 | unhappy health |  
+| bip_39_word_space_3 | unhappy health cruise |  
+| bip_39_word_space_4 | unhappy health cruise health |  
+| bip_39_word_space_5 | unhappy health cruise health orange |  
+| bip_39_word_space_6 | unhappy health cruise health orange turn |  
+| bip_39_word_space_7 | unhappy health cruise health orange turn coconut |  
+| bip_39_word_space_8 | unhappy health cruise health orange turn coconut property |  
+| bip_39_word_space_9 | unhappy health cruise health orange turn coconut property antenna |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

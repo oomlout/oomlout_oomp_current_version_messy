@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excess yard
+  * bip 39 word 3: excess yard palace
+  * bip 39 word: excess yard palace mushroom rebuild blur length wonder decide suspect bone apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excess |  
+| bip_39_word_new_br10 | excess<br>yard<br>palace<br>mushroom<br>rebuild<br>blur<br>length<br>wonder<br>decide<br>suspect |  
+| bip_39_word_new_br11 | excess<br>yard<br>palace<br>mushroom<br>rebuild<br>blur<br>length<br>wonder<br>decide<br>suspect<br>bone |  
+| bip_39_word_new_br12 | excess<br>yard<br>palace<br>mushroom<br>rebuild<br>blur<br>length<br>wonder<br>decide<br>suspect<br>bone<br>apart |  
+| bip_39_word_new_br2 | excess<br>yard |  
+| bip_39_word_new_br3 | excess<br>yard<br>palace |  
+| bip_39_word_new_br4 | excess<br>yard<br>palace<br>mushroom |  
+| bip_39_word_new_br5 | excess<br>yard<br>palace<br>mushroom<br>rebuild |  
+| bip_39_word_new_br6 | excess<br>yard<br>palace<br>mushroom<br>rebuild<br>blur |  
+| bip_39_word_new_br7 | excess<br>yard<br>palace<br>mushroom<br>rebuild<br>blur<br>length |  
+| bip_39_word_new_br8 | excess<br>yard<br>palace<br>mushroom<br>rebuild<br>blur<br>length<br>wonder |  
+| bip_39_word_new_br9 | excess<br>yard<br>palace<br>mushroom<br>rebuild<br>blur<br>length<br>wonder<br>decide |  
+| bip_39_word_new_line1 | excess |  
+| bip_39_word_new_line10 | excess
+yard
+palace
+mushroom
+rebuild
+blur
+length
+wonder
+decide
+suspect |  
+| bip_39_word_new_line11 | excess
+yard
+palace
+mushroom
+rebuild
+blur
+length
+wonder
+decide
+suspect
+bone |  
+| bip_39_word_new_line12 | excess
+yard
+palace
+mushroom
+rebuild
+blur
+length
+wonder
+decide
+suspect
+bone
+apart |  
+| bip_39_word_new_line2 | excess
+yard |  
+| bip_39_word_new_line3 | excess
+yard
+palace |  
+| bip_39_word_new_line4 | excess
+yard
+palace
+mushroom |  
+| bip_39_word_new_line5 | excess
+yard
+palace
+mushroom
+rebuild |  
+| bip_39_word_new_line6 | excess
+yard
+palace
+mushroom
+rebuild
+blur |  
+| bip_39_word_new_line7 | excess
+yard
+palace
+mushroom
+rebuild
+blur
+length |  
+| bip_39_word_new_line8 | excess
+yard
+palace
+mushroom
+rebuild
+blur
+length
+wonder |  
+| bip_39_word_new_line9 | excess
+yard
+palace
+mushroom
+rebuild
+blur
+length
+wonder
+decide |  
+| bip_39_word_space_0 | ['excess', 'yard', 'palace', 'mushroom', 'rebuild', 'blur', 'length', 'wonder', 'decide', 'suspect', 'bone', 'apart'] |  
+| bip_39_word_space_1 | excess |  
+| bip_39_word_space_10 | excess yard palace mushroom rebuild blur length wonder decide suspect |  
+| bip_39_word_space_11 | excess yard palace mushroom rebuild blur length wonder decide suspect bone |  
+| bip_39_word_space_12 | excess yard palace mushroom rebuild blur length wonder decide suspect bone apart |  
+| bip_39_word_space_2 | excess yard |  
+| bip_39_word_space_3 | excess yard palace |  
+| bip_39_word_space_4 | excess yard palace mushroom |  
+| bip_39_word_space_5 | excess yard palace mushroom rebuild |  
+| bip_39_word_space_6 | excess yard palace mushroom rebuild blur |  
+| bip_39_word_space_7 | excess yard palace mushroom rebuild blur length |  
+| bip_39_word_space_8 | excess yard palace mushroom rebuild blur length wonder |  
+| bip_39_word_space_9 | excess yard palace mushroom rebuild blur length wonder decide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

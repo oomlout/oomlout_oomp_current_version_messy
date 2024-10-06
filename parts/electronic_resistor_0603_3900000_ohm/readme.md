@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vintage sword
+  * bip 39 word 3: vintage sword dash
+  * bip 39 word: vintage sword dash session sauce helmet shoulder sort pistol hat range any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vintage |  
+| bip_39_word_new_br10 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat |  
+| bip_39_word_new_br11 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat<br>range |  
+| bip_39_word_new_br12 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol<br>hat<br>range<br>any |  
+| bip_39_word_new_br2 | vintage<br>sword |  
+| bip_39_word_new_br3 | vintage<br>sword<br>dash |  
+| bip_39_word_new_br4 | vintage<br>sword<br>dash<br>session |  
+| bip_39_word_new_br5 | vintage<br>sword<br>dash<br>session<br>sauce |  
+| bip_39_word_new_br6 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet |  
+| bip_39_word_new_br7 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder |  
+| bip_39_word_new_br8 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort |  
+| bip_39_word_new_br9 | vintage<br>sword<br>dash<br>session<br>sauce<br>helmet<br>shoulder<br>sort<br>pistol |  
+| bip_39_word_new_line1 | vintage |  
+| bip_39_word_new_line10 | vintage
+sword
+dash
+session
+sauce
+helmet
+shoulder
+sort
+pistol
+hat |  
+| bip_39_word_new_line11 | vintage
+sword
+dash
+session
+sauce
+helmet
+shoulder
+sort
+pistol
+hat
+range |  
+| bip_39_word_new_line12 | vintage
+sword
+dash
+session
+sauce
+helmet
+shoulder
+sort
+pistol
+hat
+range
+any |  
+| bip_39_word_new_line2 | vintage
+sword |  
+| bip_39_word_new_line3 | vintage
+sword
+dash |  
+| bip_39_word_new_line4 | vintage
+sword
+dash
+session |  
+| bip_39_word_new_line5 | vintage
+sword
+dash
+session
+sauce |  
+| bip_39_word_new_line6 | vintage
+sword
+dash
+session
+sauce
+helmet |  
+| bip_39_word_new_line7 | vintage
+sword
+dash
+session
+sauce
+helmet
+shoulder |  
+| bip_39_word_new_line8 | vintage
+sword
+dash
+session
+sauce
+helmet
+shoulder
+sort |  
+| bip_39_word_new_line9 | vintage
+sword
+dash
+session
+sauce
+helmet
+shoulder
+sort
+pistol |  
+| bip_39_word_space_0 | ['vintage', 'sword', 'dash', 'session', 'sauce', 'helmet', 'shoulder', 'sort', 'pistol', 'hat', 'range', 'any'] |  
+| bip_39_word_space_1 | vintage |  
+| bip_39_word_space_10 | vintage sword dash session sauce helmet shoulder sort pistol hat |  
+| bip_39_word_space_11 | vintage sword dash session sauce helmet shoulder sort pistol hat range |  
+| bip_39_word_space_12 | vintage sword dash session sauce helmet shoulder sort pistol hat range any |  
+| bip_39_word_space_2 | vintage sword |  
+| bip_39_word_space_3 | vintage sword dash |  
+| bip_39_word_space_4 | vintage sword dash session |  
+| bip_39_word_space_5 | vintage sword dash session sauce |  
+| bip_39_word_space_6 | vintage sword dash session sauce helmet |  
+| bip_39_word_space_7 | vintage sword dash session sauce helmet shoulder |  
+| bip_39_word_space_8 | vintage sword dash session sauce helmet shoulder sort |  
+| bip_39_word_space_9 | vintage sword dash session sauce helmet shoulder sort pistol |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

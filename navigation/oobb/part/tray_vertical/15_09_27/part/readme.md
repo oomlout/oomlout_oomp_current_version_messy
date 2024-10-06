@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: explain famous
+  * bip 39 word 3: explain famous flat
+  * bip 39 word: explain famous flat marine voice aware valley strong virtual budget speed athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | explain |  
+| bip_39_word_new_br10 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget |  
+| bip_39_word_new_br11 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget<br>speed |  
+| bip_39_word_new_br12 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual<br>budget<br>speed<br>athlete |  
+| bip_39_word_new_br2 | explain<br>famous |  
+| bip_39_word_new_br3 | explain<br>famous<br>flat |  
+| bip_39_word_new_br4 | explain<br>famous<br>flat<br>marine |  
+| bip_39_word_new_br5 | explain<br>famous<br>flat<br>marine<br>voice |  
+| bip_39_word_new_br6 | explain<br>famous<br>flat<br>marine<br>voice<br>aware |  
+| bip_39_word_new_br7 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley |  
+| bip_39_word_new_br8 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong |  
+| bip_39_word_new_br9 | explain<br>famous<br>flat<br>marine<br>voice<br>aware<br>valley<br>strong<br>virtual |  
+| bip_39_word_new_line1 | explain |  
+| bip_39_word_new_line10 | explain
+famous
+flat
+marine
+voice
+aware
+valley
+strong
+virtual
+budget |  
+| bip_39_word_new_line11 | explain
+famous
+flat
+marine
+voice
+aware
+valley
+strong
+virtual
+budget
+speed |  
+| bip_39_word_new_line12 | explain
+famous
+flat
+marine
+voice
+aware
+valley
+strong
+virtual
+budget
+speed
+athlete |  
+| bip_39_word_new_line2 | explain
+famous |  
+| bip_39_word_new_line3 | explain
+famous
+flat |  
+| bip_39_word_new_line4 | explain
+famous
+flat
+marine |  
+| bip_39_word_new_line5 | explain
+famous
+flat
+marine
+voice |  
+| bip_39_word_new_line6 | explain
+famous
+flat
+marine
+voice
+aware |  
+| bip_39_word_new_line7 | explain
+famous
+flat
+marine
+voice
+aware
+valley |  
+| bip_39_word_new_line8 | explain
+famous
+flat
+marine
+voice
+aware
+valley
+strong |  
+| bip_39_word_new_line9 | explain
+famous
+flat
+marine
+voice
+aware
+valley
+strong
+virtual |  
+| bip_39_word_space_0 | ['explain', 'famous', 'flat', 'marine', 'voice', 'aware', 'valley', 'strong', 'virtual', 'budget', 'speed', 'athlete'] |  
+| bip_39_word_space_1 | explain |  
+| bip_39_word_space_10 | explain famous flat marine voice aware valley strong virtual budget |  
+| bip_39_word_space_11 | explain famous flat marine voice aware valley strong virtual budget speed |  
+| bip_39_word_space_12 | explain famous flat marine voice aware valley strong virtual budget speed athlete |  
+| bip_39_word_space_2 | explain famous |  
+| bip_39_word_space_3 | explain famous flat |  
+| bip_39_word_space_4 | explain famous flat marine |  
+| bip_39_word_space_5 | explain famous flat marine voice |  
+| bip_39_word_space_6 | explain famous flat marine voice aware |  
+| bip_39_word_space_7 | explain famous flat marine voice aware valley |  
+| bip_39_word_space_8 | explain famous flat marine voice aware valley strong |  
+| bip_39_word_space_9 | explain famous flat marine voice aware valley strong virtual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

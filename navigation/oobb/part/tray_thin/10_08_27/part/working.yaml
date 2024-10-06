@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pass
+bip_39_word_new_br10: pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune
+bip_39_word_new_br11: pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune<br>lumber
+bip_39_word_new_br12: pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy<br>dune<br>lumber<br>amount
+bip_39_word_new_br2: pass<br>clean
+bip_39_word_new_br3: pass<br>clean<br>parent
+bip_39_word_new_br4: pass<br>clean<br>parent<br>interest
+bip_39_word_new_br5: pass<br>clean<br>parent<br>interest<br>seven
+bip_39_word_new_br6: pass<br>clean<br>parent<br>interest<br>seven<br>silk
+bip_39_word_new_br7: pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber
+bip_39_word_new_br8: pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict
+bip_39_word_new_br9: pass<br>clean<br>parent<br>interest<br>seven<br>silk<br>timber<br>addict<br>galaxy
+bip_39_word_new_line1: pass
+bip_39_word_new_line10: 'pass
+
+  clean
+
+  parent
+
+  interest
+
+  seven
+
+  silk
+
+  timber
+
+  addict
+
+  galaxy
+
+  dune'
+bip_39_word_new_line11: 'pass
+
+  clean
+
+  parent
+
+  interest
+
+  seven
+
+  silk
+
+  timber
+
+  addict
+
+  galaxy
+
+  dune
+
+  lumber'
+bip_39_word_new_line12: 'pass
+
+  clean
+
+  parent
+
+  interest
+
+  seven
+
+  silk
+
+  timber
+
+  addict
+
+  galaxy
+
+  dune
+
+  lumber
+
+  amount'
+bip_39_word_new_line2: 'pass
+
+  clean'
+bip_39_word_new_line3: 'pass
+
+  clean
+
+  parent'
+bip_39_word_new_line4: 'pass
+
+  clean
+
+  parent
+
+  interest'
+bip_39_word_new_line5: 'pass
+
+  clean
+
+  parent
+
+  interest
+
+  seven'
+bip_39_word_new_line6: 'pass
+
+  clean
+
+  parent
+
+  interest
+
+  seven
+
+  silk'
+bip_39_word_new_line7: 'pass
+
+  clean
+
+  parent
+
+  interest
+
+  seven
+
+  silk
+
+  timber'
+bip_39_word_new_line8: 'pass
+
+  clean
+
+  parent
+
+  interest
+
+  seven
+
+  silk
+
+  timber
+
+  addict'
+bip_39_word_new_line9: 'pass
+
+  clean
+
+  parent
+
+  interest
+
+  seven
+
+  silk
+
+  timber
+
+  addict
+
+  galaxy'
+bip_39_word_space_0:
+- pass
+- clean
+- parent
+- interest
+- seven
+- silk
+- timber
+- addict
+- galaxy
+- dune
+- lumber
+- amount
+bip_39_word_space_1: pass
+bip_39_word_space_10: pass clean parent interest seven silk timber addict galaxy dune
+bip_39_word_space_11: pass clean parent interest seven silk timber addict galaxy dune
+  lumber
+bip_39_word_space_12: pass clean parent interest seven silk timber addict galaxy dune
+  lumber amount
+bip_39_word_space_2: pass clean
+bip_39_word_space_3: pass clean parent
+bip_39_word_space_4: pass clean parent interest
+bip_39_word_space_5: pass clean parent interest seven
+bip_39_word_space_6: pass clean parent interest seven silk
+bip_39_word_space_7: pass clean parent interest seven silk timber
+bip_39_word_space_8: pass clean parent interest seven silk timber addict
+bip_39_word_space_9: pass clean parent interest seven silk timber addict galaxy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

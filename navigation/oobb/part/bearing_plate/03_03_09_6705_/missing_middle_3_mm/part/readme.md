@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: missing_middle_3_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: away baby
+  * bip 39 word 3: away baby zoo
+  * bip 39 word: away baby zoo surround elite august define mimic mercy energy morning account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | away |  
+| bip_39_word_new_br10 | away<br>baby<br>zoo<br>surround<br>elite<br>august<br>define<br>mimic<br>mercy<br>energy |  
+| bip_39_word_new_br11 | away<br>baby<br>zoo<br>surround<br>elite<br>august<br>define<br>mimic<br>mercy<br>energy<br>morning |  
+| bip_39_word_new_br12 | away<br>baby<br>zoo<br>surround<br>elite<br>august<br>define<br>mimic<br>mercy<br>energy<br>morning<br>account |  
+| bip_39_word_new_br2 | away<br>baby |  
+| bip_39_word_new_br3 | away<br>baby<br>zoo |  
+| bip_39_word_new_br4 | away<br>baby<br>zoo<br>surround |  
+| bip_39_word_new_br5 | away<br>baby<br>zoo<br>surround<br>elite |  
+| bip_39_word_new_br6 | away<br>baby<br>zoo<br>surround<br>elite<br>august |  
+| bip_39_word_new_br7 | away<br>baby<br>zoo<br>surround<br>elite<br>august<br>define |  
+| bip_39_word_new_br8 | away<br>baby<br>zoo<br>surround<br>elite<br>august<br>define<br>mimic |  
+| bip_39_word_new_br9 | away<br>baby<br>zoo<br>surround<br>elite<br>august<br>define<br>mimic<br>mercy |  
+| bip_39_word_new_line1 | away |  
+| bip_39_word_new_line10 | away
+baby
+zoo
+surround
+elite
+august
+define
+mimic
+mercy
+energy |  
+| bip_39_word_new_line11 | away
+baby
+zoo
+surround
+elite
+august
+define
+mimic
+mercy
+energy
+morning |  
+| bip_39_word_new_line12 | away
+baby
+zoo
+surround
+elite
+august
+define
+mimic
+mercy
+energy
+morning
+account |  
+| bip_39_word_new_line2 | away
+baby |  
+| bip_39_word_new_line3 | away
+baby
+zoo |  
+| bip_39_word_new_line4 | away
+baby
+zoo
+surround |  
+| bip_39_word_new_line5 | away
+baby
+zoo
+surround
+elite |  
+| bip_39_word_new_line6 | away
+baby
+zoo
+surround
+elite
+august |  
+| bip_39_word_new_line7 | away
+baby
+zoo
+surround
+elite
+august
+define |  
+| bip_39_word_new_line8 | away
+baby
+zoo
+surround
+elite
+august
+define
+mimic |  
+| bip_39_word_new_line9 | away
+baby
+zoo
+surround
+elite
+august
+define
+mimic
+mercy |  
+| bip_39_word_space_0 | ['away', 'baby', 'zoo', 'surround', 'elite', 'august', 'define', 'mimic', 'mercy', 'energy', 'morning', 'account'] |  
+| bip_39_word_space_1 | away |  
+| bip_39_word_space_10 | away baby zoo surround elite august define mimic mercy energy |  
+| bip_39_word_space_11 | away baby zoo surround elite august define mimic mercy energy morning |  
+| bip_39_word_space_12 | away baby zoo surround elite august define mimic mercy energy morning account |  
+| bip_39_word_space_2 | away baby |  
+| bip_39_word_space_3 | away baby zoo |  
+| bip_39_word_space_4 | away baby zoo surround |  
+| bip_39_word_space_5 | away baby zoo surround elite |  
+| bip_39_word_space_6 | away baby zoo surround elite august |  
+| bip_39_word_space_7 | away baby zoo surround elite august define |  
+| bip_39_word_space_8 | away baby zoo surround elite august define mimic |  
+| bip_39_word_space_9 | away baby zoo surround elite august define mimic mercy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

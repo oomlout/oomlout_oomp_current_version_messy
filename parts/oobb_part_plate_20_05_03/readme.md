@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: smart wealth
+  * bip 39 word 3: smart wealth emotion
+  * bip 39 word: smart wealth emotion man love unique raven immense razor spoil champion aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | smart |  
+| bip_39_word_new_br10 | smart<br>wealth<br>emotion<br>man<br>love<br>unique<br>raven<br>immense<br>razor<br>spoil |  
+| bip_39_word_new_br11 | smart<br>wealth<br>emotion<br>man<br>love<br>unique<br>raven<br>immense<br>razor<br>spoil<br>champion |  
+| bip_39_word_new_br12 | smart<br>wealth<br>emotion<br>man<br>love<br>unique<br>raven<br>immense<br>razor<br>spoil<br>champion<br>aspect |  
+| bip_39_word_new_br2 | smart<br>wealth |  
+| bip_39_word_new_br3 | smart<br>wealth<br>emotion |  
+| bip_39_word_new_br4 | smart<br>wealth<br>emotion<br>man |  
+| bip_39_word_new_br5 | smart<br>wealth<br>emotion<br>man<br>love |  
+| bip_39_word_new_br6 | smart<br>wealth<br>emotion<br>man<br>love<br>unique |  
+| bip_39_word_new_br7 | smart<br>wealth<br>emotion<br>man<br>love<br>unique<br>raven |  
+| bip_39_word_new_br8 | smart<br>wealth<br>emotion<br>man<br>love<br>unique<br>raven<br>immense |  
+| bip_39_word_new_br9 | smart<br>wealth<br>emotion<br>man<br>love<br>unique<br>raven<br>immense<br>razor |  
+| bip_39_word_new_line1 | smart |  
+| bip_39_word_new_line10 | smart
+wealth
+emotion
+man
+love
+unique
+raven
+immense
+razor
+spoil |  
+| bip_39_word_new_line11 | smart
+wealth
+emotion
+man
+love
+unique
+raven
+immense
+razor
+spoil
+champion |  
+| bip_39_word_new_line12 | smart
+wealth
+emotion
+man
+love
+unique
+raven
+immense
+razor
+spoil
+champion
+aspect |  
+| bip_39_word_new_line2 | smart
+wealth |  
+| bip_39_word_new_line3 | smart
+wealth
+emotion |  
+| bip_39_word_new_line4 | smart
+wealth
+emotion
+man |  
+| bip_39_word_new_line5 | smart
+wealth
+emotion
+man
+love |  
+| bip_39_word_new_line6 | smart
+wealth
+emotion
+man
+love
+unique |  
+| bip_39_word_new_line7 | smart
+wealth
+emotion
+man
+love
+unique
+raven |  
+| bip_39_word_new_line8 | smart
+wealth
+emotion
+man
+love
+unique
+raven
+immense |  
+| bip_39_word_new_line9 | smart
+wealth
+emotion
+man
+love
+unique
+raven
+immense
+razor |  
+| bip_39_word_space_0 | ['smart', 'wealth', 'emotion', 'man', 'love', 'unique', 'raven', 'immense', 'razor', 'spoil', 'champion', 'aspect'] |  
+| bip_39_word_space_1 | smart |  
+| bip_39_word_space_10 | smart wealth emotion man love unique raven immense razor spoil |  
+| bip_39_word_space_11 | smart wealth emotion man love unique raven immense razor spoil champion |  
+| bip_39_word_space_12 | smart wealth emotion man love unique raven immense razor spoil champion aspect |  
+| bip_39_word_space_2 | smart wealth |  
+| bip_39_word_space_3 | smart wealth emotion |  
+| bip_39_word_space_4 | smart wealth emotion man |  
+| bip_39_word_space_5 | smart wealth emotion man love |  
+| bip_39_word_space_6 | smart wealth emotion man love unique |  
+| bip_39_word_space_7 | smart wealth emotion man love unique raven |  
+| bip_39_word_space_8 | smart wealth emotion man love unique raven immense |  
+| bip_39_word_space_9 | smart wealth emotion man love unique raven immense razor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

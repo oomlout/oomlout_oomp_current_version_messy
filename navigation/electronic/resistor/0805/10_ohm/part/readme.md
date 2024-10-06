@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: weekend hold
+  * bip 39 word 3: weekend hold install
+  * bip 39 word: weekend hold install picture ten assist rain vocal sail horror filter arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | weekend |  
+| bip_39_word_new_br10 | weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror |  
+| bip_39_word_new_br11 | weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror<br>filter |  
+| bip_39_word_new_br12 | weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail<br>horror<br>filter<br>arm |  
+| bip_39_word_new_br2 | weekend<br>hold |  
+| bip_39_word_new_br3 | weekend<br>hold<br>install |  
+| bip_39_word_new_br4 | weekend<br>hold<br>install<br>picture |  
+| bip_39_word_new_br5 | weekend<br>hold<br>install<br>picture<br>ten |  
+| bip_39_word_new_br6 | weekend<br>hold<br>install<br>picture<br>ten<br>assist |  
+| bip_39_word_new_br7 | weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain |  
+| bip_39_word_new_br8 | weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal |  
+| bip_39_word_new_br9 | weekend<br>hold<br>install<br>picture<br>ten<br>assist<br>rain<br>vocal<br>sail |  
+| bip_39_word_new_line1 | weekend |  
+| bip_39_word_new_line10 | weekend
+hold
+install
+picture
+ten
+assist
+rain
+vocal
+sail
+horror |  
+| bip_39_word_new_line11 | weekend
+hold
+install
+picture
+ten
+assist
+rain
+vocal
+sail
+horror
+filter |  
+| bip_39_word_new_line12 | weekend
+hold
+install
+picture
+ten
+assist
+rain
+vocal
+sail
+horror
+filter
+arm |  
+| bip_39_word_new_line2 | weekend
+hold |  
+| bip_39_word_new_line3 | weekend
+hold
+install |  
+| bip_39_word_new_line4 | weekend
+hold
+install
+picture |  
+| bip_39_word_new_line5 | weekend
+hold
+install
+picture
+ten |  
+| bip_39_word_new_line6 | weekend
+hold
+install
+picture
+ten
+assist |  
+| bip_39_word_new_line7 | weekend
+hold
+install
+picture
+ten
+assist
+rain |  
+| bip_39_word_new_line8 | weekend
+hold
+install
+picture
+ten
+assist
+rain
+vocal |  
+| bip_39_word_new_line9 | weekend
+hold
+install
+picture
+ten
+assist
+rain
+vocal
+sail |  
+| bip_39_word_space_0 | ['weekend', 'hold', 'install', 'picture', 'ten', 'assist', 'rain', 'vocal', 'sail', 'horror', 'filter', 'arm'] |  
+| bip_39_word_space_1 | weekend |  
+| bip_39_word_space_10 | weekend hold install picture ten assist rain vocal sail horror |  
+| bip_39_word_space_11 | weekend hold install picture ten assist rain vocal sail horror filter |  
+| bip_39_word_space_12 | weekend hold install picture ten assist rain vocal sail horror filter arm |  
+| bip_39_word_space_2 | weekend hold |  
+| bip_39_word_space_3 | weekend hold install |  
+| bip_39_word_space_4 | weekend hold install picture |  
+| bip_39_word_space_5 | weekend hold install picture ten |  
+| bip_39_word_space_6 | weekend hold install picture ten assist |  
+| bip_39_word_space_7 | weekend hold install picture ten assist rain |  
+| bip_39_word_space_8 | weekend hold install picture ten assist rain vocal |  
+| bip_39_word_space_9 | weekend hold install picture ten assist rain vocal sail |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

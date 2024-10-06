@@ -1,3 +1,187 @@
+bip_39_word_new_br1: stable
+bip_39_word_new_br10: stable<br>chicken<br>extra<br>require<br>animal<br>busy<br>couple<br>yellow<br>catch<br>subject
+bip_39_word_new_br11: stable<br>chicken<br>extra<br>require<br>animal<br>busy<br>couple<br>yellow<br>catch<br>subject<br>loan
+bip_39_word_new_br12: stable<br>chicken<br>extra<br>require<br>animal<br>busy<br>couple<br>yellow<br>catch<br>subject<br>loan<br>ankle
+bip_39_word_new_br2: stable<br>chicken
+bip_39_word_new_br3: stable<br>chicken<br>extra
+bip_39_word_new_br4: stable<br>chicken<br>extra<br>require
+bip_39_word_new_br5: stable<br>chicken<br>extra<br>require<br>animal
+bip_39_word_new_br6: stable<br>chicken<br>extra<br>require<br>animal<br>busy
+bip_39_word_new_br7: stable<br>chicken<br>extra<br>require<br>animal<br>busy<br>couple
+bip_39_word_new_br8: stable<br>chicken<br>extra<br>require<br>animal<br>busy<br>couple<br>yellow
+bip_39_word_new_br9: stable<br>chicken<br>extra<br>require<br>animal<br>busy<br>couple<br>yellow<br>catch
+bip_39_word_new_line1: stable
+bip_39_word_new_line10: 'stable
+
+  chicken
+
+  extra
+
+  require
+
+  animal
+
+  busy
+
+  couple
+
+  yellow
+
+  catch
+
+  subject'
+bip_39_word_new_line11: 'stable
+
+  chicken
+
+  extra
+
+  require
+
+  animal
+
+  busy
+
+  couple
+
+  yellow
+
+  catch
+
+  subject
+
+  loan'
+bip_39_word_new_line12: 'stable
+
+  chicken
+
+  extra
+
+  require
+
+  animal
+
+  busy
+
+  couple
+
+  yellow
+
+  catch
+
+  subject
+
+  loan
+
+  ankle'
+bip_39_word_new_line2: 'stable
+
+  chicken'
+bip_39_word_new_line3: 'stable
+
+  chicken
+
+  extra'
+bip_39_word_new_line4: 'stable
+
+  chicken
+
+  extra
+
+  require'
+bip_39_word_new_line5: 'stable
+
+  chicken
+
+  extra
+
+  require
+
+  animal'
+bip_39_word_new_line6: 'stable
+
+  chicken
+
+  extra
+
+  require
+
+  animal
+
+  busy'
+bip_39_word_new_line7: 'stable
+
+  chicken
+
+  extra
+
+  require
+
+  animal
+
+  busy
+
+  couple'
+bip_39_word_new_line8: 'stable
+
+  chicken
+
+  extra
+
+  require
+
+  animal
+
+  busy
+
+  couple
+
+  yellow'
+bip_39_word_new_line9: 'stable
+
+  chicken
+
+  extra
+
+  require
+
+  animal
+
+  busy
+
+  couple
+
+  yellow
+
+  catch'
+bip_39_word_space_0:
+- stable
+- chicken
+- extra
+- require
+- animal
+- busy
+- couple
+- yellow
+- catch
+- subject
+- loan
+- ankle
+bip_39_word_space_1: stable
+bip_39_word_space_10: stable chicken extra require animal busy couple yellow catch
+  subject
+bip_39_word_space_11: stable chicken extra require animal busy couple yellow catch
+  subject loan
+bip_39_word_space_12: stable chicken extra require animal busy couple yellow catch
+  subject loan ankle
+bip_39_word_space_2: stable chicken
+bip_39_word_space_3: stable chicken extra
+bip_39_word_space_4: stable chicken extra require
+bip_39_word_space_5: stable chicken extra require animal
+bip_39_word_space_6: stable chicken extra require animal busy
+bip_39_word_space_7: stable chicken extra require animal busy couple
+bip_39_word_space_8: stable chicken extra require animal busy couple yellow
+bip_39_word_space_9: stable chicken extra require animal busy couple yellow catch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: setup book
+  * bip 39 word 3: setup book omit
+  * bip 39 word: setup book omit simple common picnic orange oval ugly assault table again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | setup |  
+| bip_39_word_new_br10 | setup<br>book<br>omit<br>simple<br>common<br>picnic<br>orange<br>oval<br>ugly<br>assault |  
+| bip_39_word_new_br11 | setup<br>book<br>omit<br>simple<br>common<br>picnic<br>orange<br>oval<br>ugly<br>assault<br>table |  
+| bip_39_word_new_br12 | setup<br>book<br>omit<br>simple<br>common<br>picnic<br>orange<br>oval<br>ugly<br>assault<br>table<br>again |  
+| bip_39_word_new_br2 | setup<br>book |  
+| bip_39_word_new_br3 | setup<br>book<br>omit |  
+| bip_39_word_new_br4 | setup<br>book<br>omit<br>simple |  
+| bip_39_word_new_br5 | setup<br>book<br>omit<br>simple<br>common |  
+| bip_39_word_new_br6 | setup<br>book<br>omit<br>simple<br>common<br>picnic |  
+| bip_39_word_new_br7 | setup<br>book<br>omit<br>simple<br>common<br>picnic<br>orange |  
+| bip_39_word_new_br8 | setup<br>book<br>omit<br>simple<br>common<br>picnic<br>orange<br>oval |  
+| bip_39_word_new_br9 | setup<br>book<br>omit<br>simple<br>common<br>picnic<br>orange<br>oval<br>ugly |  
+| bip_39_word_new_line1 | setup |  
+| bip_39_word_new_line10 | setup
+book
+omit
+simple
+common
+picnic
+orange
+oval
+ugly
+assault |  
+| bip_39_word_new_line11 | setup
+book
+omit
+simple
+common
+picnic
+orange
+oval
+ugly
+assault
+table |  
+| bip_39_word_new_line12 | setup
+book
+omit
+simple
+common
+picnic
+orange
+oval
+ugly
+assault
+table
+again |  
+| bip_39_word_new_line2 | setup
+book |  
+| bip_39_word_new_line3 | setup
+book
+omit |  
+| bip_39_word_new_line4 | setup
+book
+omit
+simple |  
+| bip_39_word_new_line5 | setup
+book
+omit
+simple
+common |  
+| bip_39_word_new_line6 | setup
+book
+omit
+simple
+common
+picnic |  
+| bip_39_word_new_line7 | setup
+book
+omit
+simple
+common
+picnic
+orange |  
+| bip_39_word_new_line8 | setup
+book
+omit
+simple
+common
+picnic
+orange
+oval |  
+| bip_39_word_new_line9 | setup
+book
+omit
+simple
+common
+picnic
+orange
+oval
+ugly |  
+| bip_39_word_space_0 | ['setup', 'book', 'omit', 'simple', 'common', 'picnic', 'orange', 'oval', 'ugly', 'assault', 'table', 'again'] |  
+| bip_39_word_space_1 | setup |  
+| bip_39_word_space_10 | setup book omit simple common picnic orange oval ugly assault |  
+| bip_39_word_space_11 | setup book omit simple common picnic orange oval ugly assault table |  
+| bip_39_word_space_12 | setup book omit simple common picnic orange oval ugly assault table again |  
+| bip_39_word_space_2 | setup book |  
+| bip_39_word_space_3 | setup book omit |  
+| bip_39_word_space_4 | setup book omit simple |  
+| bip_39_word_space_5 | setup book omit simple common |  
+| bip_39_word_space_6 | setup book omit simple common picnic |  
+| bip_39_word_space_7 | setup book omit simple common picnic orange |  
+| bip_39_word_space_8 | setup book omit simple common picnic orange oval |  
+| bip_39_word_space_9 | setup book omit simple common picnic orange oval ugly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: review alpha
+  * bip 39 word 3: review alpha crime
+  * bip 39 word: review alpha crime scout milk lunar hub pitch park catalog humble audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | review |  
+| bip_39_word_new_br10 | review<br>alpha<br>crime<br>scout<br>milk<br>lunar<br>hub<br>pitch<br>park<br>catalog |  
+| bip_39_word_new_br11 | review<br>alpha<br>crime<br>scout<br>milk<br>lunar<br>hub<br>pitch<br>park<br>catalog<br>humble |  
+| bip_39_word_new_br12 | review<br>alpha<br>crime<br>scout<br>milk<br>lunar<br>hub<br>pitch<br>park<br>catalog<br>humble<br>audit |  
+| bip_39_word_new_br2 | review<br>alpha |  
+| bip_39_word_new_br3 | review<br>alpha<br>crime |  
+| bip_39_word_new_br4 | review<br>alpha<br>crime<br>scout |  
+| bip_39_word_new_br5 | review<br>alpha<br>crime<br>scout<br>milk |  
+| bip_39_word_new_br6 | review<br>alpha<br>crime<br>scout<br>milk<br>lunar |  
+| bip_39_word_new_br7 | review<br>alpha<br>crime<br>scout<br>milk<br>lunar<br>hub |  
+| bip_39_word_new_br8 | review<br>alpha<br>crime<br>scout<br>milk<br>lunar<br>hub<br>pitch |  
+| bip_39_word_new_br9 | review<br>alpha<br>crime<br>scout<br>milk<br>lunar<br>hub<br>pitch<br>park |  
+| bip_39_word_new_line1 | review |  
+| bip_39_word_new_line10 | review
+alpha
+crime
+scout
+milk
+lunar
+hub
+pitch
+park
+catalog |  
+| bip_39_word_new_line11 | review
+alpha
+crime
+scout
+milk
+lunar
+hub
+pitch
+park
+catalog
+humble |  
+| bip_39_word_new_line12 | review
+alpha
+crime
+scout
+milk
+lunar
+hub
+pitch
+park
+catalog
+humble
+audit |  
+| bip_39_word_new_line2 | review
+alpha |  
+| bip_39_word_new_line3 | review
+alpha
+crime |  
+| bip_39_word_new_line4 | review
+alpha
+crime
+scout |  
+| bip_39_word_new_line5 | review
+alpha
+crime
+scout
+milk |  
+| bip_39_word_new_line6 | review
+alpha
+crime
+scout
+milk
+lunar |  
+| bip_39_word_new_line7 | review
+alpha
+crime
+scout
+milk
+lunar
+hub |  
+| bip_39_word_new_line8 | review
+alpha
+crime
+scout
+milk
+lunar
+hub
+pitch |  
+| bip_39_word_new_line9 | review
+alpha
+crime
+scout
+milk
+lunar
+hub
+pitch
+park |  
+| bip_39_word_space_0 | ['review', 'alpha', 'crime', 'scout', 'milk', 'lunar', 'hub', 'pitch', 'park', 'catalog', 'humble', 'audit'] |  
+| bip_39_word_space_1 | review |  
+| bip_39_word_space_10 | review alpha crime scout milk lunar hub pitch park catalog |  
+| bip_39_word_space_11 | review alpha crime scout milk lunar hub pitch park catalog humble |  
+| bip_39_word_space_12 | review alpha crime scout milk lunar hub pitch park catalog humble audit |  
+| bip_39_word_space_2 | review alpha |  
+| bip_39_word_space_3 | review alpha crime |  
+| bip_39_word_space_4 | review alpha crime scout |  
+| bip_39_word_space_5 | review alpha crime scout milk |  
+| bip_39_word_space_6 | review alpha crime scout milk lunar |  
+| bip_39_word_space_7 | review alpha crime scout milk lunar hub |  
+| bip_39_word_space_8 | review alpha crime scout milk lunar hub pitch |  
+| bip_39_word_space_9 | review alpha crime scout milk lunar hub pitch park |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

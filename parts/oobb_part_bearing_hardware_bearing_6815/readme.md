@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: earth cloud
+  * bip 39 word 3: earth cloud loud
+  * bip 39 word: earth cloud loud blossom that situate belt remember enable subway smooth angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | earth |  
+| bip_39_word_new_br10 | earth<br>cloud<br>loud<br>blossom<br>that<br>situate<br>belt<br>remember<br>enable<br>subway |  
+| bip_39_word_new_br11 | earth<br>cloud<br>loud<br>blossom<br>that<br>situate<br>belt<br>remember<br>enable<br>subway<br>smooth |  
+| bip_39_word_new_br12 | earth<br>cloud<br>loud<br>blossom<br>that<br>situate<br>belt<br>remember<br>enable<br>subway<br>smooth<br>angry |  
+| bip_39_word_new_br2 | earth<br>cloud |  
+| bip_39_word_new_br3 | earth<br>cloud<br>loud |  
+| bip_39_word_new_br4 | earth<br>cloud<br>loud<br>blossom |  
+| bip_39_word_new_br5 | earth<br>cloud<br>loud<br>blossom<br>that |  
+| bip_39_word_new_br6 | earth<br>cloud<br>loud<br>blossom<br>that<br>situate |  
+| bip_39_word_new_br7 | earth<br>cloud<br>loud<br>blossom<br>that<br>situate<br>belt |  
+| bip_39_word_new_br8 | earth<br>cloud<br>loud<br>blossom<br>that<br>situate<br>belt<br>remember |  
+| bip_39_word_new_br9 | earth<br>cloud<br>loud<br>blossom<br>that<br>situate<br>belt<br>remember<br>enable |  
+| bip_39_word_new_line1 | earth |  
+| bip_39_word_new_line10 | earth
+cloud
+loud
+blossom
+that
+situate
+belt
+remember
+enable
+subway |  
+| bip_39_word_new_line11 | earth
+cloud
+loud
+blossom
+that
+situate
+belt
+remember
+enable
+subway
+smooth |  
+| bip_39_word_new_line12 | earth
+cloud
+loud
+blossom
+that
+situate
+belt
+remember
+enable
+subway
+smooth
+angry |  
+| bip_39_word_new_line2 | earth
+cloud |  
+| bip_39_word_new_line3 | earth
+cloud
+loud |  
+| bip_39_word_new_line4 | earth
+cloud
+loud
+blossom |  
+| bip_39_word_new_line5 | earth
+cloud
+loud
+blossom
+that |  
+| bip_39_word_new_line6 | earth
+cloud
+loud
+blossom
+that
+situate |  
+| bip_39_word_new_line7 | earth
+cloud
+loud
+blossom
+that
+situate
+belt |  
+| bip_39_word_new_line8 | earth
+cloud
+loud
+blossom
+that
+situate
+belt
+remember |  
+| bip_39_word_new_line9 | earth
+cloud
+loud
+blossom
+that
+situate
+belt
+remember
+enable |  
+| bip_39_word_space_0 | ['earth', 'cloud', 'loud', 'blossom', 'that', 'situate', 'belt', 'remember', 'enable', 'subway', 'smooth', 'angry'] |  
+| bip_39_word_space_1 | earth |  
+| bip_39_word_space_10 | earth cloud loud blossom that situate belt remember enable subway |  
+| bip_39_word_space_11 | earth cloud loud blossom that situate belt remember enable subway smooth |  
+| bip_39_word_space_12 | earth cloud loud blossom that situate belt remember enable subway smooth angry |  
+| bip_39_word_space_2 | earth cloud |  
+| bip_39_word_space_3 | earth cloud loud |  
+| bip_39_word_space_4 | earth cloud loud blossom |  
+| bip_39_word_space_5 | earth cloud loud blossom that |  
+| bip_39_word_space_6 | earth cloud loud blossom that situate |  
+| bip_39_word_space_7 | earth cloud loud blossom that situate belt |  
+| bip_39_word_space_8 | earth cloud loud blossom that situate belt remember |  
+| bip_39_word_space_9 | earth cloud loud blossom that situate belt remember enable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

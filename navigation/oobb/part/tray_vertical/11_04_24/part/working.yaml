@@ -1,3 +1,187 @@
+bip_39_word_new_br1: promote
+bip_39_word_new_br10: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt
+bip_39_word_new_br11: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt<br>record
+bip_39_word_new_br12: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster<br>aunt<br>record<br>access
+bip_39_word_new_br2: promote<br>coin
+bip_39_word_new_br3: promote<br>coin<br>vapor
+bip_39_word_new_br4: promote<br>coin<br>vapor<br>curve
+bip_39_word_new_br5: promote<br>coin<br>vapor<br>curve<br>helmet
+bip_39_word_new_br6: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry
+bip_39_word_new_br7: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent
+bip_39_word_new_br8: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud
+bip_39_word_new_br9: promote<br>coin<br>vapor<br>curve<br>helmet<br>inquiry<br>absent<br>proud<br>foster
+bip_39_word_new_line1: promote
+bip_39_word_new_line10: 'promote
+
+  coin
+
+  vapor
+
+  curve
+
+  helmet
+
+  inquiry
+
+  absent
+
+  proud
+
+  foster
+
+  aunt'
+bip_39_word_new_line11: 'promote
+
+  coin
+
+  vapor
+
+  curve
+
+  helmet
+
+  inquiry
+
+  absent
+
+  proud
+
+  foster
+
+  aunt
+
+  record'
+bip_39_word_new_line12: 'promote
+
+  coin
+
+  vapor
+
+  curve
+
+  helmet
+
+  inquiry
+
+  absent
+
+  proud
+
+  foster
+
+  aunt
+
+  record
+
+  access'
+bip_39_word_new_line2: 'promote
+
+  coin'
+bip_39_word_new_line3: 'promote
+
+  coin
+
+  vapor'
+bip_39_word_new_line4: 'promote
+
+  coin
+
+  vapor
+
+  curve'
+bip_39_word_new_line5: 'promote
+
+  coin
+
+  vapor
+
+  curve
+
+  helmet'
+bip_39_word_new_line6: 'promote
+
+  coin
+
+  vapor
+
+  curve
+
+  helmet
+
+  inquiry'
+bip_39_word_new_line7: 'promote
+
+  coin
+
+  vapor
+
+  curve
+
+  helmet
+
+  inquiry
+
+  absent'
+bip_39_word_new_line8: 'promote
+
+  coin
+
+  vapor
+
+  curve
+
+  helmet
+
+  inquiry
+
+  absent
+
+  proud'
+bip_39_word_new_line9: 'promote
+
+  coin
+
+  vapor
+
+  curve
+
+  helmet
+
+  inquiry
+
+  absent
+
+  proud
+
+  foster'
+bip_39_word_space_0:
+- promote
+- coin
+- vapor
+- curve
+- helmet
+- inquiry
+- absent
+- proud
+- foster
+- aunt
+- record
+- access
+bip_39_word_space_1: promote
+bip_39_word_space_10: promote coin vapor curve helmet inquiry absent proud foster
+  aunt
+bip_39_word_space_11: promote coin vapor curve helmet inquiry absent proud foster
+  aunt record
+bip_39_word_space_12: promote coin vapor curve helmet inquiry absent proud foster
+  aunt record access
+bip_39_word_space_2: promote coin
+bip_39_word_space_3: promote coin vapor
+bip_39_word_space_4: promote coin vapor curve
+bip_39_word_space_5: promote coin vapor curve helmet
+bip_39_word_space_6: promote coin vapor curve helmet inquiry
+bip_39_word_space_7: promote coin vapor curve helmet inquiry absent
+bip_39_word_space_8: promote coin vapor curve helmet inquiry absent proud
+bip_39_word_space_9: promote coin vapor curve helmet inquiry absent proud foster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

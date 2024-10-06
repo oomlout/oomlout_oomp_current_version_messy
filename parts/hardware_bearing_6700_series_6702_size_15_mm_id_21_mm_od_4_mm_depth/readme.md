@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: display right
+  * bip 39 word 3: display right chief
+  * bip 39 word: display right chief easily garlic skirt ginger poem bread shrimp jazz action
 
 ### other_codes
 * short_code: br6702
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | display |  
+| bip_39_word_new_br10 | display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem<br>bread<br>shrimp |  
+| bip_39_word_new_br11 | display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem<br>bread<br>shrimp<br>jazz |  
+| bip_39_word_new_br12 | display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem<br>bread<br>shrimp<br>jazz<br>action |  
+| bip_39_word_new_br2 | display<br>right |  
+| bip_39_word_new_br3 | display<br>right<br>chief |  
+| bip_39_word_new_br4 | display<br>right<br>chief<br>easily |  
+| bip_39_word_new_br5 | display<br>right<br>chief<br>easily<br>garlic |  
+| bip_39_word_new_br6 | display<br>right<br>chief<br>easily<br>garlic<br>skirt |  
+| bip_39_word_new_br7 | display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger |  
+| bip_39_word_new_br8 | display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem |  
+| bip_39_word_new_br9 | display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem<br>bread |  
+| bip_39_word_new_line1 | display |  
+| bip_39_word_new_line10 | display
+right
+chief
+easily
+garlic
+skirt
+ginger
+poem
+bread
+shrimp |  
+| bip_39_word_new_line11 | display
+right
+chief
+easily
+garlic
+skirt
+ginger
+poem
+bread
+shrimp
+jazz |  
+| bip_39_word_new_line12 | display
+right
+chief
+easily
+garlic
+skirt
+ginger
+poem
+bread
+shrimp
+jazz
+action |  
+| bip_39_word_new_line2 | display
+right |  
+| bip_39_word_new_line3 | display
+right
+chief |  
+| bip_39_word_new_line4 | display
+right
+chief
+easily |  
+| bip_39_word_new_line5 | display
+right
+chief
+easily
+garlic |  
+| bip_39_word_new_line6 | display
+right
+chief
+easily
+garlic
+skirt |  
+| bip_39_word_new_line7 | display
+right
+chief
+easily
+garlic
+skirt
+ginger |  
+| bip_39_word_new_line8 | display
+right
+chief
+easily
+garlic
+skirt
+ginger
+poem |  
+| bip_39_word_new_line9 | display
+right
+chief
+easily
+garlic
+skirt
+ginger
+poem
+bread |  
+| bip_39_word_space_0 | ['display', 'right', 'chief', 'easily', 'garlic', 'skirt', 'ginger', 'poem', 'bread', 'shrimp', 'jazz', 'action'] |  
+| bip_39_word_space_1 | display |  
+| bip_39_word_space_10 | display right chief easily garlic skirt ginger poem bread shrimp |  
+| bip_39_word_space_11 | display right chief easily garlic skirt ginger poem bread shrimp jazz |  
+| bip_39_word_space_12 | display right chief easily garlic skirt ginger poem bread shrimp jazz action |  
+| bip_39_word_space_2 | display right |  
+| bip_39_word_space_3 | display right chief |  
+| bip_39_word_space_4 | display right chief easily |  
+| bip_39_word_space_5 | display right chief easily garlic |  
+| bip_39_word_space_6 | display right chief easily garlic skirt |  
+| bip_39_word_space_7 | display right chief easily garlic skirt ginger |  
+| bip_39_word_space_8 | display right chief easily garlic skirt ginger poem |  
+| bip_39_word_space_9 | display right chief easily garlic skirt ginger poem bread |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

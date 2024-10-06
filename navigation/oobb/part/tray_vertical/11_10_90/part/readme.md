@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hub flame
+  * bip 39 word 3: hub flame endless
+  * bip 39 word: hub flame endless text crowd purity popular fish pottery mammal keep ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hub |  
+| bip_39_word_new_br10 | hub<br>flame<br>endless<br>text<br>crowd<br>purity<br>popular<br>fish<br>pottery<br>mammal |  
+| bip_39_word_new_br11 | hub<br>flame<br>endless<br>text<br>crowd<br>purity<br>popular<br>fish<br>pottery<br>mammal<br>keep |  
+| bip_39_word_new_br12 | hub<br>flame<br>endless<br>text<br>crowd<br>purity<br>popular<br>fish<br>pottery<br>mammal<br>keep<br>ankle |  
+| bip_39_word_new_br2 | hub<br>flame |  
+| bip_39_word_new_br3 | hub<br>flame<br>endless |  
+| bip_39_word_new_br4 | hub<br>flame<br>endless<br>text |  
+| bip_39_word_new_br5 | hub<br>flame<br>endless<br>text<br>crowd |  
+| bip_39_word_new_br6 | hub<br>flame<br>endless<br>text<br>crowd<br>purity |  
+| bip_39_word_new_br7 | hub<br>flame<br>endless<br>text<br>crowd<br>purity<br>popular |  
+| bip_39_word_new_br8 | hub<br>flame<br>endless<br>text<br>crowd<br>purity<br>popular<br>fish |  
+| bip_39_word_new_br9 | hub<br>flame<br>endless<br>text<br>crowd<br>purity<br>popular<br>fish<br>pottery |  
+| bip_39_word_new_line1 | hub |  
+| bip_39_word_new_line10 | hub
+flame
+endless
+text
+crowd
+purity
+popular
+fish
+pottery
+mammal |  
+| bip_39_word_new_line11 | hub
+flame
+endless
+text
+crowd
+purity
+popular
+fish
+pottery
+mammal
+keep |  
+| bip_39_word_new_line12 | hub
+flame
+endless
+text
+crowd
+purity
+popular
+fish
+pottery
+mammal
+keep
+ankle |  
+| bip_39_word_new_line2 | hub
+flame |  
+| bip_39_word_new_line3 | hub
+flame
+endless |  
+| bip_39_word_new_line4 | hub
+flame
+endless
+text |  
+| bip_39_word_new_line5 | hub
+flame
+endless
+text
+crowd |  
+| bip_39_word_new_line6 | hub
+flame
+endless
+text
+crowd
+purity |  
+| bip_39_word_new_line7 | hub
+flame
+endless
+text
+crowd
+purity
+popular |  
+| bip_39_word_new_line8 | hub
+flame
+endless
+text
+crowd
+purity
+popular
+fish |  
+| bip_39_word_new_line9 | hub
+flame
+endless
+text
+crowd
+purity
+popular
+fish
+pottery |  
+| bip_39_word_space_0 | ['hub', 'flame', 'endless', 'text', 'crowd', 'purity', 'popular', 'fish', 'pottery', 'mammal', 'keep', 'ankle'] |  
+| bip_39_word_space_1 | hub |  
+| bip_39_word_space_10 | hub flame endless text crowd purity popular fish pottery mammal |  
+| bip_39_word_space_11 | hub flame endless text crowd purity popular fish pottery mammal keep |  
+| bip_39_word_space_12 | hub flame endless text crowd purity popular fish pottery mammal keep ankle |  
+| bip_39_word_space_2 | hub flame |  
+| bip_39_word_space_3 | hub flame endless |  
+| bip_39_word_space_4 | hub flame endless text |  
+| bip_39_word_space_5 | hub flame endless text crowd |  
+| bip_39_word_space_6 | hub flame endless text crowd purity |  
+| bip_39_word_space_7 | hub flame endless text crowd purity popular |  
+| bip_39_word_space_8 | hub flame endless text crowd purity popular fish |  
+| bip_39_word_space_9 | hub flame endless text crowd purity popular fish pottery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

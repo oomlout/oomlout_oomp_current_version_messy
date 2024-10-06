@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spy dignity
+  * bip 39 word 3: spy dignity aerobic
+  * bip 39 word: spy dignity aerobic call cannon this exotic surge curious thought garment admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spy |  
+| bip_39_word_new_br10 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this<br>exotic<br>surge<br>curious<br>thought |  
+| bip_39_word_new_br11 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this<br>exotic<br>surge<br>curious<br>thought<br>garment |  
+| bip_39_word_new_br12 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this<br>exotic<br>surge<br>curious<br>thought<br>garment<br>admit |  
+| bip_39_word_new_br2 | spy<br>dignity |  
+| bip_39_word_new_br3 | spy<br>dignity<br>aerobic |  
+| bip_39_word_new_br4 | spy<br>dignity<br>aerobic<br>call |  
+| bip_39_word_new_br5 | spy<br>dignity<br>aerobic<br>call<br>cannon |  
+| bip_39_word_new_br6 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this |  
+| bip_39_word_new_br7 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this<br>exotic |  
+| bip_39_word_new_br8 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this<br>exotic<br>surge |  
+| bip_39_word_new_br9 | spy<br>dignity<br>aerobic<br>call<br>cannon<br>this<br>exotic<br>surge<br>curious |  
+| bip_39_word_new_line1 | spy |  
+| bip_39_word_new_line10 | spy
+dignity
+aerobic
+call
+cannon
+this
+exotic
+surge
+curious
+thought |  
+| bip_39_word_new_line11 | spy
+dignity
+aerobic
+call
+cannon
+this
+exotic
+surge
+curious
+thought
+garment |  
+| bip_39_word_new_line12 | spy
+dignity
+aerobic
+call
+cannon
+this
+exotic
+surge
+curious
+thought
+garment
+admit |  
+| bip_39_word_new_line2 | spy
+dignity |  
+| bip_39_word_new_line3 | spy
+dignity
+aerobic |  
+| bip_39_word_new_line4 | spy
+dignity
+aerobic
+call |  
+| bip_39_word_new_line5 | spy
+dignity
+aerobic
+call
+cannon |  
+| bip_39_word_new_line6 | spy
+dignity
+aerobic
+call
+cannon
+this |  
+| bip_39_word_new_line7 | spy
+dignity
+aerobic
+call
+cannon
+this
+exotic |  
+| bip_39_word_new_line8 | spy
+dignity
+aerobic
+call
+cannon
+this
+exotic
+surge |  
+| bip_39_word_new_line9 | spy
+dignity
+aerobic
+call
+cannon
+this
+exotic
+surge
+curious |  
+| bip_39_word_space_0 | ['spy', 'dignity', 'aerobic', 'call', 'cannon', 'this', 'exotic', 'surge', 'curious', 'thought', 'garment', 'admit'] |  
+| bip_39_word_space_1 | spy |  
+| bip_39_word_space_10 | spy dignity aerobic call cannon this exotic surge curious thought |  
+| bip_39_word_space_11 | spy dignity aerobic call cannon this exotic surge curious thought garment |  
+| bip_39_word_space_12 | spy dignity aerobic call cannon this exotic surge curious thought garment admit |  
+| bip_39_word_space_2 | spy dignity |  
+| bip_39_word_space_3 | spy dignity aerobic |  
+| bip_39_word_space_4 | spy dignity aerobic call |  
+| bip_39_word_space_5 | spy dignity aerobic call cannon |  
+| bip_39_word_space_6 | spy dignity aerobic call cannon this |  
+| bip_39_word_space_7 | spy dignity aerobic call cannon this exotic |  
+| bip_39_word_space_8 | spy dignity aerobic call cannon this exotic surge |  
+| bip_39_word_space_9 | spy dignity aerobic call cannon this exotic surge curious |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

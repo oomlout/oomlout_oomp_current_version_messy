@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: betray unfair
+  * bip 39 word 3: betray unfair worry
+  * bip 39 word: betray unfair worry present glimpse hard occur task yard engine duck air
 
 ### other_codes
 * short_code: fh2d5b20p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | betray |  
+| bip_39_word_new_br10 | betray<br>unfair<br>worry<br>present<br>glimpse<br>hard<br>occur<br>task<br>yard<br>engine |  
+| bip_39_word_new_br11 | betray<br>unfair<br>worry<br>present<br>glimpse<br>hard<br>occur<br>task<br>yard<br>engine<br>duck |  
+| bip_39_word_new_br12 | betray<br>unfair<br>worry<br>present<br>glimpse<br>hard<br>occur<br>task<br>yard<br>engine<br>duck<br>air |  
+| bip_39_word_new_br2 | betray<br>unfair |  
+| bip_39_word_new_br3 | betray<br>unfair<br>worry |  
+| bip_39_word_new_br4 | betray<br>unfair<br>worry<br>present |  
+| bip_39_word_new_br5 | betray<br>unfair<br>worry<br>present<br>glimpse |  
+| bip_39_word_new_br6 | betray<br>unfair<br>worry<br>present<br>glimpse<br>hard |  
+| bip_39_word_new_br7 | betray<br>unfair<br>worry<br>present<br>glimpse<br>hard<br>occur |  
+| bip_39_word_new_br8 | betray<br>unfair<br>worry<br>present<br>glimpse<br>hard<br>occur<br>task |  
+| bip_39_word_new_br9 | betray<br>unfair<br>worry<br>present<br>glimpse<br>hard<br>occur<br>task<br>yard |  
+| bip_39_word_new_line1 | betray |  
+| bip_39_word_new_line10 | betray
+unfair
+worry
+present
+glimpse
+hard
+occur
+task
+yard
+engine |  
+| bip_39_word_new_line11 | betray
+unfair
+worry
+present
+glimpse
+hard
+occur
+task
+yard
+engine
+duck |  
+| bip_39_word_new_line12 | betray
+unfair
+worry
+present
+glimpse
+hard
+occur
+task
+yard
+engine
+duck
+air |  
+| bip_39_word_new_line2 | betray
+unfair |  
+| bip_39_word_new_line3 | betray
+unfair
+worry |  
+| bip_39_word_new_line4 | betray
+unfair
+worry
+present |  
+| bip_39_word_new_line5 | betray
+unfair
+worry
+present
+glimpse |  
+| bip_39_word_new_line6 | betray
+unfair
+worry
+present
+glimpse
+hard |  
+| bip_39_word_new_line7 | betray
+unfair
+worry
+present
+glimpse
+hard
+occur |  
+| bip_39_word_new_line8 | betray
+unfair
+worry
+present
+glimpse
+hard
+occur
+task |  
+| bip_39_word_new_line9 | betray
+unfair
+worry
+present
+glimpse
+hard
+occur
+task
+yard |  
+| bip_39_word_space_0 | ['betray', 'unfair', 'worry', 'present', 'glimpse', 'hard', 'occur', 'task', 'yard', 'engine', 'duck', 'air'] |  
+| bip_39_word_space_1 | betray |  
+| bip_39_word_space_10 | betray unfair worry present glimpse hard occur task yard engine |  
+| bip_39_word_space_11 | betray unfair worry present glimpse hard occur task yard engine duck |  
+| bip_39_word_space_12 | betray unfair worry present glimpse hard occur task yard engine duck air |  
+| bip_39_word_space_2 | betray unfair |  
+| bip_39_word_space_3 | betray unfair worry |  
+| bip_39_word_space_4 | betray unfair worry present |  
+| bip_39_word_space_5 | betray unfair worry present glimpse |  
+| bip_39_word_space_6 | betray unfair worry present glimpse hard |  
+| bip_39_word_space_7 | betray unfair worry present glimpse hard occur |  
+| bip_39_word_space_8 | betray unfair worry present glimpse hard occur task |  
+| bip_39_word_space_9 | betray unfair worry present glimpse hard occur task yard |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exhaust blast
+  * bip 39 word 3: exhaust blast forward
+  * bip 39 word: exhaust blast forward turtle practice rain attack spoon horror boat already asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exhaust |  
+| bip_39_word_new_br10 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat |  
+| bip_39_word_new_br11 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat<br>already |  
+| bip_39_word_new_br12 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror<br>boat<br>already<br>asthma |  
+| bip_39_word_new_br2 | exhaust<br>blast |  
+| bip_39_word_new_br3 | exhaust<br>blast<br>forward |  
+| bip_39_word_new_br4 | exhaust<br>blast<br>forward<br>turtle |  
+| bip_39_word_new_br5 | exhaust<br>blast<br>forward<br>turtle<br>practice |  
+| bip_39_word_new_br6 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain |  
+| bip_39_word_new_br7 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack |  
+| bip_39_word_new_br8 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon |  
+| bip_39_word_new_br9 | exhaust<br>blast<br>forward<br>turtle<br>practice<br>rain<br>attack<br>spoon<br>horror |  
+| bip_39_word_new_line1 | exhaust |  
+| bip_39_word_new_line10 | exhaust
+blast
+forward
+turtle
+practice
+rain
+attack
+spoon
+horror
+boat |  
+| bip_39_word_new_line11 | exhaust
+blast
+forward
+turtle
+practice
+rain
+attack
+spoon
+horror
+boat
+already |  
+| bip_39_word_new_line12 | exhaust
+blast
+forward
+turtle
+practice
+rain
+attack
+spoon
+horror
+boat
+already
+asthma |  
+| bip_39_word_new_line2 | exhaust
+blast |  
+| bip_39_word_new_line3 | exhaust
+blast
+forward |  
+| bip_39_word_new_line4 | exhaust
+blast
+forward
+turtle |  
+| bip_39_word_new_line5 | exhaust
+blast
+forward
+turtle
+practice |  
+| bip_39_word_new_line6 | exhaust
+blast
+forward
+turtle
+practice
+rain |  
+| bip_39_word_new_line7 | exhaust
+blast
+forward
+turtle
+practice
+rain
+attack |  
+| bip_39_word_new_line8 | exhaust
+blast
+forward
+turtle
+practice
+rain
+attack
+spoon |  
+| bip_39_word_new_line9 | exhaust
+blast
+forward
+turtle
+practice
+rain
+attack
+spoon
+horror |  
+| bip_39_word_space_0 | ['exhaust', 'blast', 'forward', 'turtle', 'practice', 'rain', 'attack', 'spoon', 'horror', 'boat', 'already', 'asthma'] |  
+| bip_39_word_space_1 | exhaust |  
+| bip_39_word_space_10 | exhaust blast forward turtle practice rain attack spoon horror boat |  
+| bip_39_word_space_11 | exhaust blast forward turtle practice rain attack spoon horror boat already |  
+| bip_39_word_space_12 | exhaust blast forward turtle practice rain attack spoon horror boat already asthma |  
+| bip_39_word_space_2 | exhaust blast |  
+| bip_39_word_space_3 | exhaust blast forward |  
+| bip_39_word_space_4 | exhaust blast forward turtle |  
+| bip_39_word_space_5 | exhaust blast forward turtle practice |  
+| bip_39_word_space_6 | exhaust blast forward turtle practice rain |  
+| bip_39_word_space_7 | exhaust blast forward turtle practice rain attack |  
+| bip_39_word_space_8 | exhaust blast forward turtle practice rain attack spoon |  
+| bip_39_word_space_9 | exhaust blast forward turtle practice rain attack spoon horror |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

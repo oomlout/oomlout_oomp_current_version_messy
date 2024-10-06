@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: element service
+  * bip 39 word 3: element service play
+  * bip 39 word: element service play cigar rotate wink aim flash knock fine twelve amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | element |  
+| bip_39_word_new_br10 | element<br>service<br>play<br>cigar<br>rotate<br>wink<br>aim<br>flash<br>knock<br>fine |  
+| bip_39_word_new_br11 | element<br>service<br>play<br>cigar<br>rotate<br>wink<br>aim<br>flash<br>knock<br>fine<br>twelve |  
+| bip_39_word_new_br12 | element<br>service<br>play<br>cigar<br>rotate<br>wink<br>aim<br>flash<br>knock<br>fine<br>twelve<br>amused |  
+| bip_39_word_new_br2 | element<br>service |  
+| bip_39_word_new_br3 | element<br>service<br>play |  
+| bip_39_word_new_br4 | element<br>service<br>play<br>cigar |  
+| bip_39_word_new_br5 | element<br>service<br>play<br>cigar<br>rotate |  
+| bip_39_word_new_br6 | element<br>service<br>play<br>cigar<br>rotate<br>wink |  
+| bip_39_word_new_br7 | element<br>service<br>play<br>cigar<br>rotate<br>wink<br>aim |  
+| bip_39_word_new_br8 | element<br>service<br>play<br>cigar<br>rotate<br>wink<br>aim<br>flash |  
+| bip_39_word_new_br9 | element<br>service<br>play<br>cigar<br>rotate<br>wink<br>aim<br>flash<br>knock |  
+| bip_39_word_new_line1 | element |  
+| bip_39_word_new_line10 | element
+service
+play
+cigar
+rotate
+wink
+aim
+flash
+knock
+fine |  
+| bip_39_word_new_line11 | element
+service
+play
+cigar
+rotate
+wink
+aim
+flash
+knock
+fine
+twelve |  
+| bip_39_word_new_line12 | element
+service
+play
+cigar
+rotate
+wink
+aim
+flash
+knock
+fine
+twelve
+amused |  
+| bip_39_word_new_line2 | element
+service |  
+| bip_39_word_new_line3 | element
+service
+play |  
+| bip_39_word_new_line4 | element
+service
+play
+cigar |  
+| bip_39_word_new_line5 | element
+service
+play
+cigar
+rotate |  
+| bip_39_word_new_line6 | element
+service
+play
+cigar
+rotate
+wink |  
+| bip_39_word_new_line7 | element
+service
+play
+cigar
+rotate
+wink
+aim |  
+| bip_39_word_new_line8 | element
+service
+play
+cigar
+rotate
+wink
+aim
+flash |  
+| bip_39_word_new_line9 | element
+service
+play
+cigar
+rotate
+wink
+aim
+flash
+knock |  
+| bip_39_word_space_0 | ['element', 'service', 'play', 'cigar', 'rotate', 'wink', 'aim', 'flash', 'knock', 'fine', 'twelve', 'amused'] |  
+| bip_39_word_space_1 | element |  
+| bip_39_word_space_10 | element service play cigar rotate wink aim flash knock fine |  
+| bip_39_word_space_11 | element service play cigar rotate wink aim flash knock fine twelve |  
+| bip_39_word_space_12 | element service play cigar rotate wink aim flash knock fine twelve amused |  
+| bip_39_word_space_2 | element service |  
+| bip_39_word_space_3 | element service play |  
+| bip_39_word_space_4 | element service play cigar |  
+| bip_39_word_space_5 | element service play cigar rotate |  
+| bip_39_word_space_6 | element service play cigar rotate wink |  
+| bip_39_word_space_7 | element service play cigar rotate wink aim |  
+| bip_39_word_space_8 | element service play cigar rotate wink aim flash |  
+| bip_39_word_space_9 | element service play cigar rotate wink aim flash knock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

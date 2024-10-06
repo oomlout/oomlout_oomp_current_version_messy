@@ -1,3 +1,186 @@
+bip_39_word_new_br1: exist
+bip_39_word_new_br10: exist<br>absorb<br>depend<br>buddy<br>drum<br>roof<br>melody<br>wish<br>diagram<br>solution
+bip_39_word_new_br11: exist<br>absorb<br>depend<br>buddy<br>drum<br>roof<br>melody<br>wish<br>diagram<br>solution<br>arrange
+bip_39_word_new_br12: exist<br>absorb<br>depend<br>buddy<br>drum<br>roof<br>melody<br>wish<br>diagram<br>solution<br>arrange<br>age
+bip_39_word_new_br2: exist<br>absorb
+bip_39_word_new_br3: exist<br>absorb<br>depend
+bip_39_word_new_br4: exist<br>absorb<br>depend<br>buddy
+bip_39_word_new_br5: exist<br>absorb<br>depend<br>buddy<br>drum
+bip_39_word_new_br6: exist<br>absorb<br>depend<br>buddy<br>drum<br>roof
+bip_39_word_new_br7: exist<br>absorb<br>depend<br>buddy<br>drum<br>roof<br>melody
+bip_39_word_new_br8: exist<br>absorb<br>depend<br>buddy<br>drum<br>roof<br>melody<br>wish
+bip_39_word_new_br9: exist<br>absorb<br>depend<br>buddy<br>drum<br>roof<br>melody<br>wish<br>diagram
+bip_39_word_new_line1: exist
+bip_39_word_new_line10: 'exist
+
+  absorb
+
+  depend
+
+  buddy
+
+  drum
+
+  roof
+
+  melody
+
+  wish
+
+  diagram
+
+  solution'
+bip_39_word_new_line11: 'exist
+
+  absorb
+
+  depend
+
+  buddy
+
+  drum
+
+  roof
+
+  melody
+
+  wish
+
+  diagram
+
+  solution
+
+  arrange'
+bip_39_word_new_line12: 'exist
+
+  absorb
+
+  depend
+
+  buddy
+
+  drum
+
+  roof
+
+  melody
+
+  wish
+
+  diagram
+
+  solution
+
+  arrange
+
+  age'
+bip_39_word_new_line2: 'exist
+
+  absorb'
+bip_39_word_new_line3: 'exist
+
+  absorb
+
+  depend'
+bip_39_word_new_line4: 'exist
+
+  absorb
+
+  depend
+
+  buddy'
+bip_39_word_new_line5: 'exist
+
+  absorb
+
+  depend
+
+  buddy
+
+  drum'
+bip_39_word_new_line6: 'exist
+
+  absorb
+
+  depend
+
+  buddy
+
+  drum
+
+  roof'
+bip_39_word_new_line7: 'exist
+
+  absorb
+
+  depend
+
+  buddy
+
+  drum
+
+  roof
+
+  melody'
+bip_39_word_new_line8: 'exist
+
+  absorb
+
+  depend
+
+  buddy
+
+  drum
+
+  roof
+
+  melody
+
+  wish'
+bip_39_word_new_line9: 'exist
+
+  absorb
+
+  depend
+
+  buddy
+
+  drum
+
+  roof
+
+  melody
+
+  wish
+
+  diagram'
+bip_39_word_space_0:
+- exist
+- absorb
+- depend
+- buddy
+- drum
+- roof
+- melody
+- wish
+- diagram
+- solution
+- arrange
+- age
+bip_39_word_space_1: exist
+bip_39_word_space_10: exist absorb depend buddy drum roof melody wish diagram solution
+bip_39_word_space_11: exist absorb depend buddy drum roof melody wish diagram solution
+  arrange
+bip_39_word_space_12: exist absorb depend buddy drum roof melody wish diagram solution
+  arrange age
+bip_39_word_space_2: exist absorb
+bip_39_word_space_3: exist absorb depend
+bip_39_word_space_4: exist absorb depend buddy
+bip_39_word_space_5: exist absorb depend buddy drum
+bip_39_word_space_6: exist absorb depend buddy drum roof
+bip_39_word_space_7: exist absorb depend buddy drum roof melody
+bip_39_word_space_8: exist absorb depend buddy drum roof melody wish
+bip_39_word_space_9: exist absorb depend buddy drum roof melody wish diagram
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

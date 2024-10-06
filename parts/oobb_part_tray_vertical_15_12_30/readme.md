@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: old thrive
+  * bip 39 word 3: old thrive wave
+  * bip 39 word: old thrive wave track regret hundred crawl minute advice aim gasp arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | old |  
+| bip_39_word_new_br10 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim |  
+| bip_39_word_new_br11 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim<br>gasp |  
+| bip_39_word_new_br12 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice<br>aim<br>gasp<br>arrange |  
+| bip_39_word_new_br2 | old<br>thrive |  
+| bip_39_word_new_br3 | old<br>thrive<br>wave |  
+| bip_39_word_new_br4 | old<br>thrive<br>wave<br>track |  
+| bip_39_word_new_br5 | old<br>thrive<br>wave<br>track<br>regret |  
+| bip_39_word_new_br6 | old<br>thrive<br>wave<br>track<br>regret<br>hundred |  
+| bip_39_word_new_br7 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl |  
+| bip_39_word_new_br8 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute |  
+| bip_39_word_new_br9 | old<br>thrive<br>wave<br>track<br>regret<br>hundred<br>crawl<br>minute<br>advice |  
+| bip_39_word_new_line1 | old |  
+| bip_39_word_new_line10 | old
+thrive
+wave
+track
+regret
+hundred
+crawl
+minute
+advice
+aim |  
+| bip_39_word_new_line11 | old
+thrive
+wave
+track
+regret
+hundred
+crawl
+minute
+advice
+aim
+gasp |  
+| bip_39_word_new_line12 | old
+thrive
+wave
+track
+regret
+hundred
+crawl
+minute
+advice
+aim
+gasp
+arrange |  
+| bip_39_word_new_line2 | old
+thrive |  
+| bip_39_word_new_line3 | old
+thrive
+wave |  
+| bip_39_word_new_line4 | old
+thrive
+wave
+track |  
+| bip_39_word_new_line5 | old
+thrive
+wave
+track
+regret |  
+| bip_39_word_new_line6 | old
+thrive
+wave
+track
+regret
+hundred |  
+| bip_39_word_new_line7 | old
+thrive
+wave
+track
+regret
+hundred
+crawl |  
+| bip_39_word_new_line8 | old
+thrive
+wave
+track
+regret
+hundred
+crawl
+minute |  
+| bip_39_word_new_line9 | old
+thrive
+wave
+track
+regret
+hundred
+crawl
+minute
+advice |  
+| bip_39_word_space_0 | ['old', 'thrive', 'wave', 'track', 'regret', 'hundred', 'crawl', 'minute', 'advice', 'aim', 'gasp', 'arrange'] |  
+| bip_39_word_space_1 | old |  
+| bip_39_word_space_10 | old thrive wave track regret hundred crawl minute advice aim |  
+| bip_39_word_space_11 | old thrive wave track regret hundred crawl minute advice aim gasp |  
+| bip_39_word_space_12 | old thrive wave track regret hundred crawl minute advice aim gasp arrange |  
+| bip_39_word_space_2 | old thrive |  
+| bip_39_word_space_3 | old thrive wave |  
+| bip_39_word_space_4 | old thrive wave track |  
+| bip_39_word_space_5 | old thrive wave track regret |  
+| bip_39_word_space_6 | old thrive wave track regret hundred |  
+| bip_39_word_space_7 | old thrive wave track regret hundred crawl |  
+| bip_39_word_space_8 | old thrive wave track regret hundred crawl minute |  
+| bip_39_word_space_9 | old thrive wave track regret hundred crawl minute advice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

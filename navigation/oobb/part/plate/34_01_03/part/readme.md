@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monkey flight
+  * bip 39 word 3: monkey flight beef
+  * bip 39 word: monkey flight beef volume burst witness combine maximum blame clip hole artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monkey |  
+| bip_39_word_new_br10 | monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum<br>blame<br>clip |  
+| bip_39_word_new_br11 | monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum<br>blame<br>clip<br>hole |  
+| bip_39_word_new_br12 | monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum<br>blame<br>clip<br>hole<br>artefact |  
+| bip_39_word_new_br2 | monkey<br>flight |  
+| bip_39_word_new_br3 | monkey<br>flight<br>beef |  
+| bip_39_word_new_br4 | monkey<br>flight<br>beef<br>volume |  
+| bip_39_word_new_br5 | monkey<br>flight<br>beef<br>volume<br>burst |  
+| bip_39_word_new_br6 | monkey<br>flight<br>beef<br>volume<br>burst<br>witness |  
+| bip_39_word_new_br7 | monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine |  
+| bip_39_word_new_br8 | monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum |  
+| bip_39_word_new_br9 | monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum<br>blame |  
+| bip_39_word_new_line1 | monkey |  
+| bip_39_word_new_line10 | monkey
+flight
+beef
+volume
+burst
+witness
+combine
+maximum
+blame
+clip |  
+| bip_39_word_new_line11 | monkey
+flight
+beef
+volume
+burst
+witness
+combine
+maximum
+blame
+clip
+hole |  
+| bip_39_word_new_line12 | monkey
+flight
+beef
+volume
+burst
+witness
+combine
+maximum
+blame
+clip
+hole
+artefact |  
+| bip_39_word_new_line2 | monkey
+flight |  
+| bip_39_word_new_line3 | monkey
+flight
+beef |  
+| bip_39_word_new_line4 | monkey
+flight
+beef
+volume |  
+| bip_39_word_new_line5 | monkey
+flight
+beef
+volume
+burst |  
+| bip_39_word_new_line6 | monkey
+flight
+beef
+volume
+burst
+witness |  
+| bip_39_word_new_line7 | monkey
+flight
+beef
+volume
+burst
+witness
+combine |  
+| bip_39_word_new_line8 | monkey
+flight
+beef
+volume
+burst
+witness
+combine
+maximum |  
+| bip_39_word_new_line9 | monkey
+flight
+beef
+volume
+burst
+witness
+combine
+maximum
+blame |  
+| bip_39_word_space_0 | ['monkey', 'flight', 'beef', 'volume', 'burst', 'witness', 'combine', 'maximum', 'blame', 'clip', 'hole', 'artefact'] |  
+| bip_39_word_space_1 | monkey |  
+| bip_39_word_space_10 | monkey flight beef volume burst witness combine maximum blame clip |  
+| bip_39_word_space_11 | monkey flight beef volume burst witness combine maximum blame clip hole |  
+| bip_39_word_space_12 | monkey flight beef volume burst witness combine maximum blame clip hole artefact |  
+| bip_39_word_space_2 | monkey flight |  
+| bip_39_word_space_3 | monkey flight beef |  
+| bip_39_word_space_4 | monkey flight beef volume |  
+| bip_39_word_space_5 | monkey flight beef volume burst |  
+| bip_39_word_space_6 | monkey flight beef volume burst witness |  
+| bip_39_word_space_7 | monkey flight beef volume burst witness combine |  
+| bip_39_word_space_8 | monkey flight beef volume burst witness combine maximum |  
+| bip_39_word_space_9 | monkey flight beef volume burst witness combine maximum blame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

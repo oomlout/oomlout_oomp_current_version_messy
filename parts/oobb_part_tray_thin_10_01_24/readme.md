@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: source flower
+  * bip 39 word 3: source flower toy
+  * bip 39 word: source flower toy mandate gain walk host decide elegant brain sight accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | source |  
+| bip_39_word_new_br10 | source<br>flower<br>toy<br>mandate<br>gain<br>walk<br>host<br>decide<br>elegant<br>brain |  
+| bip_39_word_new_br11 | source<br>flower<br>toy<br>mandate<br>gain<br>walk<br>host<br>decide<br>elegant<br>brain<br>sight |  
+| bip_39_word_new_br12 | source<br>flower<br>toy<br>mandate<br>gain<br>walk<br>host<br>decide<br>elegant<br>brain<br>sight<br>accident |  
+| bip_39_word_new_br2 | source<br>flower |  
+| bip_39_word_new_br3 | source<br>flower<br>toy |  
+| bip_39_word_new_br4 | source<br>flower<br>toy<br>mandate |  
+| bip_39_word_new_br5 | source<br>flower<br>toy<br>mandate<br>gain |  
+| bip_39_word_new_br6 | source<br>flower<br>toy<br>mandate<br>gain<br>walk |  
+| bip_39_word_new_br7 | source<br>flower<br>toy<br>mandate<br>gain<br>walk<br>host |  
+| bip_39_word_new_br8 | source<br>flower<br>toy<br>mandate<br>gain<br>walk<br>host<br>decide |  
+| bip_39_word_new_br9 | source<br>flower<br>toy<br>mandate<br>gain<br>walk<br>host<br>decide<br>elegant |  
+| bip_39_word_new_line1 | source |  
+| bip_39_word_new_line10 | source
+flower
+toy
+mandate
+gain
+walk
+host
+decide
+elegant
+brain |  
+| bip_39_word_new_line11 | source
+flower
+toy
+mandate
+gain
+walk
+host
+decide
+elegant
+brain
+sight |  
+| bip_39_word_new_line12 | source
+flower
+toy
+mandate
+gain
+walk
+host
+decide
+elegant
+brain
+sight
+accident |  
+| bip_39_word_new_line2 | source
+flower |  
+| bip_39_word_new_line3 | source
+flower
+toy |  
+| bip_39_word_new_line4 | source
+flower
+toy
+mandate |  
+| bip_39_word_new_line5 | source
+flower
+toy
+mandate
+gain |  
+| bip_39_word_new_line6 | source
+flower
+toy
+mandate
+gain
+walk |  
+| bip_39_word_new_line7 | source
+flower
+toy
+mandate
+gain
+walk
+host |  
+| bip_39_word_new_line8 | source
+flower
+toy
+mandate
+gain
+walk
+host
+decide |  
+| bip_39_word_new_line9 | source
+flower
+toy
+mandate
+gain
+walk
+host
+decide
+elegant |  
+| bip_39_word_space_0 | ['source', 'flower', 'toy', 'mandate', 'gain', 'walk', 'host', 'decide', 'elegant', 'brain', 'sight', 'accident'] |  
+| bip_39_word_space_1 | source |  
+| bip_39_word_space_10 | source flower toy mandate gain walk host decide elegant brain |  
+| bip_39_word_space_11 | source flower toy mandate gain walk host decide elegant brain sight |  
+| bip_39_word_space_12 | source flower toy mandate gain walk host decide elegant brain sight accident |  
+| bip_39_word_space_2 | source flower |  
+| bip_39_word_space_3 | source flower toy |  
+| bip_39_word_space_4 | source flower toy mandate |  
+| bip_39_word_space_5 | source flower toy mandate gain |  
+| bip_39_word_space_6 | source flower toy mandate gain walk |  
+| bip_39_word_space_7 | source flower toy mandate gain walk host |  
+| bip_39_word_space_8 | source flower toy mandate gain walk host decide |  
+| bip_39_word_space_9 | source flower toy mandate gain walk host decide elegant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

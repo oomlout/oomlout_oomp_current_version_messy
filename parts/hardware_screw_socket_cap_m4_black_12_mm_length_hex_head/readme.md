@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: select echo
+  * bip 39 word 3: select echo super
+  * bip 39 word: select echo super discover lizard sea barrel topple carry truth under artist
 
 ### other_codes
 * short_code: sc4b12h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | select |  
+| bip_39_word_new_br10 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth |  
+| bip_39_word_new_br11 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under |  
+| bip_39_word_new_br12 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry<br>truth<br>under<br>artist |  
+| bip_39_word_new_br2 | select<br>echo |  
+| bip_39_word_new_br3 | select<br>echo<br>super |  
+| bip_39_word_new_br4 | select<br>echo<br>super<br>discover |  
+| bip_39_word_new_br5 | select<br>echo<br>super<br>discover<br>lizard |  
+| bip_39_word_new_br6 | select<br>echo<br>super<br>discover<br>lizard<br>sea |  
+| bip_39_word_new_br7 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel |  
+| bip_39_word_new_br8 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple |  
+| bip_39_word_new_br9 | select<br>echo<br>super<br>discover<br>lizard<br>sea<br>barrel<br>topple<br>carry |  
+| bip_39_word_new_line1 | select |  
+| bip_39_word_new_line10 | select
+echo
+super
+discover
+lizard
+sea
+barrel
+topple
+carry
+truth |  
+| bip_39_word_new_line11 | select
+echo
+super
+discover
+lizard
+sea
+barrel
+topple
+carry
+truth
+under |  
+| bip_39_word_new_line12 | select
+echo
+super
+discover
+lizard
+sea
+barrel
+topple
+carry
+truth
+under
+artist |  
+| bip_39_word_new_line2 | select
+echo |  
+| bip_39_word_new_line3 | select
+echo
+super |  
+| bip_39_word_new_line4 | select
+echo
+super
+discover |  
+| bip_39_word_new_line5 | select
+echo
+super
+discover
+lizard |  
+| bip_39_word_new_line6 | select
+echo
+super
+discover
+lizard
+sea |  
+| bip_39_word_new_line7 | select
+echo
+super
+discover
+lizard
+sea
+barrel |  
+| bip_39_word_new_line8 | select
+echo
+super
+discover
+lizard
+sea
+barrel
+topple |  
+| bip_39_word_new_line9 | select
+echo
+super
+discover
+lizard
+sea
+barrel
+topple
+carry |  
+| bip_39_word_space_0 | ['select', 'echo', 'super', 'discover', 'lizard', 'sea', 'barrel', 'topple', 'carry', 'truth', 'under', 'artist'] |  
+| bip_39_word_space_1 | select |  
+| bip_39_word_space_10 | select echo super discover lizard sea barrel topple carry truth |  
+| bip_39_word_space_11 | select echo super discover lizard sea barrel topple carry truth under |  
+| bip_39_word_space_12 | select echo super discover lizard sea barrel topple carry truth under artist |  
+| bip_39_word_space_2 | select echo |  
+| bip_39_word_space_3 | select echo super |  
+| bip_39_word_space_4 | select echo super discover |  
+| bip_39_word_space_5 | select echo super discover lizard |  
+| bip_39_word_space_6 | select echo super discover lizard sea |  
+| bip_39_word_space_7 | select echo super discover lizard sea barrel |  
+| bip_39_word_space_8 | select echo super discover lizard sea barrel topple |  
+| bip_39_word_space_9 | select echo super discover lizard sea barrel topple carry |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

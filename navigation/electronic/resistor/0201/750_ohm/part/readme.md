@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bench clutch
+  * bip 39 word 3: bench clutch dove
+  * bip 39 word: bench clutch dove orient laptop whip uncle chicken occur glance debate accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bench |  
+| bip_39_word_new_br10 | bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken<br>occur<br>glance |  
+| bip_39_word_new_br11 | bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken<br>occur<br>glance<br>debate |  
+| bip_39_word_new_br12 | bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken<br>occur<br>glance<br>debate<br>accident |  
+| bip_39_word_new_br2 | bench<br>clutch |  
+| bip_39_word_new_br3 | bench<br>clutch<br>dove |  
+| bip_39_word_new_br4 | bench<br>clutch<br>dove<br>orient |  
+| bip_39_word_new_br5 | bench<br>clutch<br>dove<br>orient<br>laptop |  
+| bip_39_word_new_br6 | bench<br>clutch<br>dove<br>orient<br>laptop<br>whip |  
+| bip_39_word_new_br7 | bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle |  
+| bip_39_word_new_br8 | bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken |  
+| bip_39_word_new_br9 | bench<br>clutch<br>dove<br>orient<br>laptop<br>whip<br>uncle<br>chicken<br>occur |  
+| bip_39_word_new_line1 | bench |  
+| bip_39_word_new_line10 | bench
+clutch
+dove
+orient
+laptop
+whip
+uncle
+chicken
+occur
+glance |  
+| bip_39_word_new_line11 | bench
+clutch
+dove
+orient
+laptop
+whip
+uncle
+chicken
+occur
+glance
+debate |  
+| bip_39_word_new_line12 | bench
+clutch
+dove
+orient
+laptop
+whip
+uncle
+chicken
+occur
+glance
+debate
+accident |  
+| bip_39_word_new_line2 | bench
+clutch |  
+| bip_39_word_new_line3 | bench
+clutch
+dove |  
+| bip_39_word_new_line4 | bench
+clutch
+dove
+orient |  
+| bip_39_word_new_line5 | bench
+clutch
+dove
+orient
+laptop |  
+| bip_39_word_new_line6 | bench
+clutch
+dove
+orient
+laptop
+whip |  
+| bip_39_word_new_line7 | bench
+clutch
+dove
+orient
+laptop
+whip
+uncle |  
+| bip_39_word_new_line8 | bench
+clutch
+dove
+orient
+laptop
+whip
+uncle
+chicken |  
+| bip_39_word_new_line9 | bench
+clutch
+dove
+orient
+laptop
+whip
+uncle
+chicken
+occur |  
+| bip_39_word_space_0 | ['bench', 'clutch', 'dove', 'orient', 'laptop', 'whip', 'uncle', 'chicken', 'occur', 'glance', 'debate', 'accident'] |  
+| bip_39_word_space_1 | bench |  
+| bip_39_word_space_10 | bench clutch dove orient laptop whip uncle chicken occur glance |  
+| bip_39_word_space_11 | bench clutch dove orient laptop whip uncle chicken occur glance debate |  
+| bip_39_word_space_12 | bench clutch dove orient laptop whip uncle chicken occur glance debate accident |  
+| bip_39_word_space_2 | bench clutch |  
+| bip_39_word_space_3 | bench clutch dove |  
+| bip_39_word_space_4 | bench clutch dove orient |  
+| bip_39_word_space_5 | bench clutch dove orient laptop |  
+| bip_39_word_space_6 | bench clutch dove orient laptop whip |  
+| bip_39_word_space_7 | bench clutch dove orient laptop whip uncle |  
+| bip_39_word_space_8 | bench clutch dove orient laptop whip uncle chicken |  
+| bip_39_word_space_9 | bench clutch dove orient laptop whip uncle chicken occur |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

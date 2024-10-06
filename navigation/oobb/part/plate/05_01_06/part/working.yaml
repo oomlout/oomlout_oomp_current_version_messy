@@ -1,3 +1,185 @@
+bip_39_word_new_br1: learn
+bip_39_word_new_br10: learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused
+bip_39_word_new_br11: learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused<br>million
+bip_39_word_new_br12: learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist<br>amused<br>million<br>address
+bip_39_word_new_br2: learn<br>such
+bip_39_word_new_br3: learn<br>such<br>depth
+bip_39_word_new_br4: learn<br>such<br>depth<br>law
+bip_39_word_new_br5: learn<br>such<br>depth<br>law<br>exhaust
+bip_39_word_new_br6: learn<br>such<br>depth<br>law<br>exhaust<br>load
+bip_39_word_new_br7: learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad
+bip_39_word_new_br8: learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel
+bip_39_word_new_br9: learn<br>such<br>depth<br>law<br>exhaust<br>load<br>salad<br>jewel<br>twist
+bip_39_word_new_line1: learn
+bip_39_word_new_line10: 'learn
+
+  such
+
+  depth
+
+  law
+
+  exhaust
+
+  load
+
+  salad
+
+  jewel
+
+  twist
+
+  amused'
+bip_39_word_new_line11: 'learn
+
+  such
+
+  depth
+
+  law
+
+  exhaust
+
+  load
+
+  salad
+
+  jewel
+
+  twist
+
+  amused
+
+  million'
+bip_39_word_new_line12: 'learn
+
+  such
+
+  depth
+
+  law
+
+  exhaust
+
+  load
+
+  salad
+
+  jewel
+
+  twist
+
+  amused
+
+  million
+
+  address'
+bip_39_word_new_line2: 'learn
+
+  such'
+bip_39_word_new_line3: 'learn
+
+  such
+
+  depth'
+bip_39_word_new_line4: 'learn
+
+  such
+
+  depth
+
+  law'
+bip_39_word_new_line5: 'learn
+
+  such
+
+  depth
+
+  law
+
+  exhaust'
+bip_39_word_new_line6: 'learn
+
+  such
+
+  depth
+
+  law
+
+  exhaust
+
+  load'
+bip_39_word_new_line7: 'learn
+
+  such
+
+  depth
+
+  law
+
+  exhaust
+
+  load
+
+  salad'
+bip_39_word_new_line8: 'learn
+
+  such
+
+  depth
+
+  law
+
+  exhaust
+
+  load
+
+  salad
+
+  jewel'
+bip_39_word_new_line9: 'learn
+
+  such
+
+  depth
+
+  law
+
+  exhaust
+
+  load
+
+  salad
+
+  jewel
+
+  twist'
+bip_39_word_space_0:
+- learn
+- such
+- depth
+- law
+- exhaust
+- load
+- salad
+- jewel
+- twist
+- amused
+- million
+- address
+bip_39_word_space_1: learn
+bip_39_word_space_10: learn such depth law exhaust load salad jewel twist amused
+bip_39_word_space_11: learn such depth law exhaust load salad jewel twist amused million
+bip_39_word_space_12: learn such depth law exhaust load salad jewel twist amused million
+  address
+bip_39_word_space_2: learn such
+bip_39_word_space_3: learn such depth
+bip_39_word_space_4: learn such depth law
+bip_39_word_space_5: learn such depth law exhaust
+bip_39_word_space_6: learn such depth law exhaust load
+bip_39_word_space_7: learn such depth law exhaust load salad
+bip_39_word_space_8: learn such depth law exhaust load salad jewel
+bip_39_word_space_9: learn such depth law exhaust load salad jewel twist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

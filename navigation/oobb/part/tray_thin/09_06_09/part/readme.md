@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: review cup
+  * bip 39 word 3: review cup absurd
+  * bip 39 word: review cup absurd exhaust hammer weekend marble inspire rule exercise stone anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | review |  
+| bip_39_word_new_br10 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend<br>marble<br>inspire<br>rule<br>exercise |  
+| bip_39_word_new_br11 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend<br>marble<br>inspire<br>rule<br>exercise<br>stone |  
+| bip_39_word_new_br12 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend<br>marble<br>inspire<br>rule<br>exercise<br>stone<br>anger |  
+| bip_39_word_new_br2 | review<br>cup |  
+| bip_39_word_new_br3 | review<br>cup<br>absurd |  
+| bip_39_word_new_br4 | review<br>cup<br>absurd<br>exhaust |  
+| bip_39_word_new_br5 | review<br>cup<br>absurd<br>exhaust<br>hammer |  
+| bip_39_word_new_br6 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend |  
+| bip_39_word_new_br7 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend<br>marble |  
+| bip_39_word_new_br8 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend<br>marble<br>inspire |  
+| bip_39_word_new_br9 | review<br>cup<br>absurd<br>exhaust<br>hammer<br>weekend<br>marble<br>inspire<br>rule |  
+| bip_39_word_new_line1 | review |  
+| bip_39_word_new_line10 | review
+cup
+absurd
+exhaust
+hammer
+weekend
+marble
+inspire
+rule
+exercise |  
+| bip_39_word_new_line11 | review
+cup
+absurd
+exhaust
+hammer
+weekend
+marble
+inspire
+rule
+exercise
+stone |  
+| bip_39_word_new_line12 | review
+cup
+absurd
+exhaust
+hammer
+weekend
+marble
+inspire
+rule
+exercise
+stone
+anger |  
+| bip_39_word_new_line2 | review
+cup |  
+| bip_39_word_new_line3 | review
+cup
+absurd |  
+| bip_39_word_new_line4 | review
+cup
+absurd
+exhaust |  
+| bip_39_word_new_line5 | review
+cup
+absurd
+exhaust
+hammer |  
+| bip_39_word_new_line6 | review
+cup
+absurd
+exhaust
+hammer
+weekend |  
+| bip_39_word_new_line7 | review
+cup
+absurd
+exhaust
+hammer
+weekend
+marble |  
+| bip_39_word_new_line8 | review
+cup
+absurd
+exhaust
+hammer
+weekend
+marble
+inspire |  
+| bip_39_word_new_line9 | review
+cup
+absurd
+exhaust
+hammer
+weekend
+marble
+inspire
+rule |  
+| bip_39_word_space_0 | ['review', 'cup', 'absurd', 'exhaust', 'hammer', 'weekend', 'marble', 'inspire', 'rule', 'exercise', 'stone', 'anger'] |  
+| bip_39_word_space_1 | review |  
+| bip_39_word_space_10 | review cup absurd exhaust hammer weekend marble inspire rule exercise |  
+| bip_39_word_space_11 | review cup absurd exhaust hammer weekend marble inspire rule exercise stone |  
+| bip_39_word_space_12 | review cup absurd exhaust hammer weekend marble inspire rule exercise stone anger |  
+| bip_39_word_space_2 | review cup |  
+| bip_39_word_space_3 | review cup absurd |  
+| bip_39_word_space_4 | review cup absurd exhaust |  
+| bip_39_word_space_5 | review cup absurd exhaust hammer |  
+| bip_39_word_space_6 | review cup absurd exhaust hammer weekend |  
+| bip_39_word_space_7 | review cup absurd exhaust hammer weekend marble |  
+| bip_39_word_space_8 | review cup absurd exhaust hammer weekend marble inspire |  
+| bip_39_word_space_9 | review cup absurd exhaust hammer weekend marble inspire rule |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

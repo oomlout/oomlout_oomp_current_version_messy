@@ -1,3 +1,186 @@
+bip_39_word_new_br1: swap
+bip_39_word_new_br10: swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven<br>crouch<br>someone<br>used<br>lava
+bip_39_word_new_br11: swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven<br>crouch<br>someone<br>used<br>lava<br>scout
+bip_39_word_new_br12: swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven<br>crouch<br>someone<br>used<br>lava<br>scout<br>almost
+bip_39_word_new_br2: swap<br>remind
+bip_39_word_new_br3: swap<br>remind<br>tunnel
+bip_39_word_new_br4: swap<br>remind<br>tunnel<br>inquiry
+bip_39_word_new_br5: swap<br>remind<br>tunnel<br>inquiry<br>whip
+bip_39_word_new_br6: swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven
+bip_39_word_new_br7: swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven<br>crouch
+bip_39_word_new_br8: swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven<br>crouch<br>someone
+bip_39_word_new_br9: swap<br>remind<br>tunnel<br>inquiry<br>whip<br>oven<br>crouch<br>someone<br>used
+bip_39_word_new_line1: swap
+bip_39_word_new_line10: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry
+
+  whip
+
+  oven
+
+  crouch
+
+  someone
+
+  used
+
+  lava'
+bip_39_word_new_line11: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry
+
+  whip
+
+  oven
+
+  crouch
+
+  someone
+
+  used
+
+  lava
+
+  scout'
+bip_39_word_new_line12: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry
+
+  whip
+
+  oven
+
+  crouch
+
+  someone
+
+  used
+
+  lava
+
+  scout
+
+  almost'
+bip_39_word_new_line2: 'swap
+
+  remind'
+bip_39_word_new_line3: 'swap
+
+  remind
+
+  tunnel'
+bip_39_word_new_line4: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry'
+bip_39_word_new_line5: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry
+
+  whip'
+bip_39_word_new_line6: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry
+
+  whip
+
+  oven'
+bip_39_word_new_line7: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry
+
+  whip
+
+  oven
+
+  crouch'
+bip_39_word_new_line8: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry
+
+  whip
+
+  oven
+
+  crouch
+
+  someone'
+bip_39_word_new_line9: 'swap
+
+  remind
+
+  tunnel
+
+  inquiry
+
+  whip
+
+  oven
+
+  crouch
+
+  someone
+
+  used'
+bip_39_word_space_0:
+- swap
+- remind
+- tunnel
+- inquiry
+- whip
+- oven
+- crouch
+- someone
+- used
+- lava
+- scout
+- almost
+bip_39_word_space_1: swap
+bip_39_word_space_10: swap remind tunnel inquiry whip oven crouch someone used lava
+bip_39_word_space_11: swap remind tunnel inquiry whip oven crouch someone used lava
+  scout
+bip_39_word_space_12: swap remind tunnel inquiry whip oven crouch someone used lava
+  scout almost
+bip_39_word_space_2: swap remind
+bip_39_word_space_3: swap remind tunnel
+bip_39_word_space_4: swap remind tunnel inquiry
+bip_39_word_space_5: swap remind tunnel inquiry whip
+bip_39_word_space_6: swap remind tunnel inquiry whip oven
+bip_39_word_space_7: swap remind tunnel inquiry whip oven crouch
+bip_39_word_space_8: swap remind tunnel inquiry whip oven crouch someone
+bip_39_word_space_9: swap remind tunnel inquiry whip oven crouch someone used
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

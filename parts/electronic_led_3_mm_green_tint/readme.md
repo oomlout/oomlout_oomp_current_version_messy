@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exotic tobacco
+  * bip 39 word 3: exotic tobacco gap
+  * bip 39 word: exotic tobacco gap believe sick stamp sense cover grocery where chapter aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exotic |  
+| bip_39_word_new_br10 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp<br>sense<br>cover<br>grocery<br>where |  
+| bip_39_word_new_br11 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp<br>sense<br>cover<br>grocery<br>where<br>chapter |  
+| bip_39_word_new_br12 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp<br>sense<br>cover<br>grocery<br>where<br>chapter<br>aerobic |  
+| bip_39_word_new_br2 | exotic<br>tobacco |  
+| bip_39_word_new_br3 | exotic<br>tobacco<br>gap |  
+| bip_39_word_new_br4 | exotic<br>tobacco<br>gap<br>believe |  
+| bip_39_word_new_br5 | exotic<br>tobacco<br>gap<br>believe<br>sick |  
+| bip_39_word_new_br6 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp |  
+| bip_39_word_new_br7 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp<br>sense |  
+| bip_39_word_new_br8 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp<br>sense<br>cover |  
+| bip_39_word_new_br9 | exotic<br>tobacco<br>gap<br>believe<br>sick<br>stamp<br>sense<br>cover<br>grocery |  
+| bip_39_word_new_line1 | exotic |  
+| bip_39_word_new_line10 | exotic
+tobacco
+gap
+believe
+sick
+stamp
+sense
+cover
+grocery
+where |  
+| bip_39_word_new_line11 | exotic
+tobacco
+gap
+believe
+sick
+stamp
+sense
+cover
+grocery
+where
+chapter |  
+| bip_39_word_new_line12 | exotic
+tobacco
+gap
+believe
+sick
+stamp
+sense
+cover
+grocery
+where
+chapter
+aerobic |  
+| bip_39_word_new_line2 | exotic
+tobacco |  
+| bip_39_word_new_line3 | exotic
+tobacco
+gap |  
+| bip_39_word_new_line4 | exotic
+tobacco
+gap
+believe |  
+| bip_39_word_new_line5 | exotic
+tobacco
+gap
+believe
+sick |  
+| bip_39_word_new_line6 | exotic
+tobacco
+gap
+believe
+sick
+stamp |  
+| bip_39_word_new_line7 | exotic
+tobacco
+gap
+believe
+sick
+stamp
+sense |  
+| bip_39_word_new_line8 | exotic
+tobacco
+gap
+believe
+sick
+stamp
+sense
+cover |  
+| bip_39_word_new_line9 | exotic
+tobacco
+gap
+believe
+sick
+stamp
+sense
+cover
+grocery |  
+| bip_39_word_space_0 | ['exotic', 'tobacco', 'gap', 'believe', 'sick', 'stamp', 'sense', 'cover', 'grocery', 'where', 'chapter', 'aerobic'] |  
+| bip_39_word_space_1 | exotic |  
+| bip_39_word_space_10 | exotic tobacco gap believe sick stamp sense cover grocery where |  
+| bip_39_word_space_11 | exotic tobacco gap believe sick stamp sense cover grocery where chapter |  
+| bip_39_word_space_12 | exotic tobacco gap believe sick stamp sense cover grocery where chapter aerobic |  
+| bip_39_word_space_2 | exotic tobacco |  
+| bip_39_word_space_3 | exotic tobacco gap |  
+| bip_39_word_space_4 | exotic tobacco gap believe |  
+| bip_39_word_space_5 | exotic tobacco gap believe sick |  
+| bip_39_word_space_6 | exotic tobacco gap believe sick stamp |  
+| bip_39_word_space_7 | exotic tobacco gap believe sick stamp sense |  
+| bip_39_word_space_8 | exotic tobacco gap believe sick stamp sense cover |  
+| bip_39_word_space_9 | exotic tobacco gap believe sick stamp sense cover grocery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

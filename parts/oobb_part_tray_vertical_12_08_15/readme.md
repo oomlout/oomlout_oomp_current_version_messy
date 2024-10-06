@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nice border
+  * bip 39 word 3: nice border clump
+  * bip 39 word: nice border clump safe business film record powder brass now axis analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nice |  
+| bip_39_word_new_br10 | nice<br>border<br>clump<br>safe<br>business<br>film<br>record<br>powder<br>brass<br>now |  
+| bip_39_word_new_br11 | nice<br>border<br>clump<br>safe<br>business<br>film<br>record<br>powder<br>brass<br>now<br>axis |  
+| bip_39_word_new_br12 | nice<br>border<br>clump<br>safe<br>business<br>film<br>record<br>powder<br>brass<br>now<br>axis<br>analyst |  
+| bip_39_word_new_br2 | nice<br>border |  
+| bip_39_word_new_br3 | nice<br>border<br>clump |  
+| bip_39_word_new_br4 | nice<br>border<br>clump<br>safe |  
+| bip_39_word_new_br5 | nice<br>border<br>clump<br>safe<br>business |  
+| bip_39_word_new_br6 | nice<br>border<br>clump<br>safe<br>business<br>film |  
+| bip_39_word_new_br7 | nice<br>border<br>clump<br>safe<br>business<br>film<br>record |  
+| bip_39_word_new_br8 | nice<br>border<br>clump<br>safe<br>business<br>film<br>record<br>powder |  
+| bip_39_word_new_br9 | nice<br>border<br>clump<br>safe<br>business<br>film<br>record<br>powder<br>brass |  
+| bip_39_word_new_line1 | nice |  
+| bip_39_word_new_line10 | nice
+border
+clump
+safe
+business
+film
+record
+powder
+brass
+now |  
+| bip_39_word_new_line11 | nice
+border
+clump
+safe
+business
+film
+record
+powder
+brass
+now
+axis |  
+| bip_39_word_new_line12 | nice
+border
+clump
+safe
+business
+film
+record
+powder
+brass
+now
+axis
+analyst |  
+| bip_39_word_new_line2 | nice
+border |  
+| bip_39_word_new_line3 | nice
+border
+clump |  
+| bip_39_word_new_line4 | nice
+border
+clump
+safe |  
+| bip_39_word_new_line5 | nice
+border
+clump
+safe
+business |  
+| bip_39_word_new_line6 | nice
+border
+clump
+safe
+business
+film |  
+| bip_39_word_new_line7 | nice
+border
+clump
+safe
+business
+film
+record |  
+| bip_39_word_new_line8 | nice
+border
+clump
+safe
+business
+film
+record
+powder |  
+| bip_39_word_new_line9 | nice
+border
+clump
+safe
+business
+film
+record
+powder
+brass |  
+| bip_39_word_space_0 | ['nice', 'border', 'clump', 'safe', 'business', 'film', 'record', 'powder', 'brass', 'now', 'axis', 'analyst'] |  
+| bip_39_word_space_1 | nice |  
+| bip_39_word_space_10 | nice border clump safe business film record powder brass now |  
+| bip_39_word_space_11 | nice border clump safe business film record powder brass now axis |  
+| bip_39_word_space_12 | nice border clump safe business film record powder brass now axis analyst |  
+| bip_39_word_space_2 | nice border |  
+| bip_39_word_space_3 | nice border clump |  
+| bip_39_word_space_4 | nice border clump safe |  
+| bip_39_word_space_5 | nice border clump safe business |  
+| bip_39_word_space_6 | nice border clump safe business film |  
+| bip_39_word_space_7 | nice border clump safe business film record |  
+| bip_39_word_space_8 | nice border clump safe business film record powder |  
+| bip_39_word_space_9 | nice border clump safe business film record powder brass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

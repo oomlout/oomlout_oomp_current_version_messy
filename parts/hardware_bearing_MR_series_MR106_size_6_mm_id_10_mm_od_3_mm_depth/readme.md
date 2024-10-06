@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: promote ten
+  * bip 39 word 3: promote ten isolate
+  * bip 39 word: promote ten isolate trim mirror symbol arch hold song coin early all
 
 ### other_codes
 * short_code: brMR106
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | promote |  
+| bip_39_word_new_br10 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol<br>arch<br>hold<br>song<br>coin |  
+| bip_39_word_new_br11 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol<br>arch<br>hold<br>song<br>coin<br>early |  
+| bip_39_word_new_br12 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol<br>arch<br>hold<br>song<br>coin<br>early<br>all |  
+| bip_39_word_new_br2 | promote<br>ten |  
+| bip_39_word_new_br3 | promote<br>ten<br>isolate |  
+| bip_39_word_new_br4 | promote<br>ten<br>isolate<br>trim |  
+| bip_39_word_new_br5 | promote<br>ten<br>isolate<br>trim<br>mirror |  
+| bip_39_word_new_br6 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol |  
+| bip_39_word_new_br7 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol<br>arch |  
+| bip_39_word_new_br8 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol<br>arch<br>hold |  
+| bip_39_word_new_br9 | promote<br>ten<br>isolate<br>trim<br>mirror<br>symbol<br>arch<br>hold<br>song |  
+| bip_39_word_new_line1 | promote |  
+| bip_39_word_new_line10 | promote
+ten
+isolate
+trim
+mirror
+symbol
+arch
+hold
+song
+coin |  
+| bip_39_word_new_line11 | promote
+ten
+isolate
+trim
+mirror
+symbol
+arch
+hold
+song
+coin
+early |  
+| bip_39_word_new_line12 | promote
+ten
+isolate
+trim
+mirror
+symbol
+arch
+hold
+song
+coin
+early
+all |  
+| bip_39_word_new_line2 | promote
+ten |  
+| bip_39_word_new_line3 | promote
+ten
+isolate |  
+| bip_39_word_new_line4 | promote
+ten
+isolate
+trim |  
+| bip_39_word_new_line5 | promote
+ten
+isolate
+trim
+mirror |  
+| bip_39_word_new_line6 | promote
+ten
+isolate
+trim
+mirror
+symbol |  
+| bip_39_word_new_line7 | promote
+ten
+isolate
+trim
+mirror
+symbol
+arch |  
+| bip_39_word_new_line8 | promote
+ten
+isolate
+trim
+mirror
+symbol
+arch
+hold |  
+| bip_39_word_new_line9 | promote
+ten
+isolate
+trim
+mirror
+symbol
+arch
+hold
+song |  
+| bip_39_word_space_0 | ['promote', 'ten', 'isolate', 'trim', 'mirror', 'symbol', 'arch', 'hold', 'song', 'coin', 'early', 'all'] |  
+| bip_39_word_space_1 | promote |  
+| bip_39_word_space_10 | promote ten isolate trim mirror symbol arch hold song coin |  
+| bip_39_word_space_11 | promote ten isolate trim mirror symbol arch hold song coin early |  
+| bip_39_word_space_12 | promote ten isolate trim mirror symbol arch hold song coin early all |  
+| bip_39_word_space_2 | promote ten |  
+| bip_39_word_space_3 | promote ten isolate |  
+| bip_39_word_space_4 | promote ten isolate trim |  
+| bip_39_word_space_5 | promote ten isolate trim mirror |  
+| bip_39_word_space_6 | promote ten isolate trim mirror symbol |  
+| bip_39_word_space_7 | promote ten isolate trim mirror symbol arch |  
+| bip_39_word_space_8 | promote ten isolate trim mirror symbol arch hold |  
+| bip_39_word_space_9 | promote ten isolate trim mirror symbol arch hold song |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

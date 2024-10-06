@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: source spy
+  * bip 39 word 3: source spy you
+  * bip 39 word: source spy you spice myself hole attract exhaust candy usual era assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | source |  
+| bip_39_word_new_br10 | source<br>spy<br>you<br>spice<br>myself<br>hole<br>attract<br>exhaust<br>candy<br>usual |  
+| bip_39_word_new_br11 | source<br>spy<br>you<br>spice<br>myself<br>hole<br>attract<br>exhaust<br>candy<br>usual<br>era |  
+| bip_39_word_new_br12 | source<br>spy<br>you<br>spice<br>myself<br>hole<br>attract<br>exhaust<br>candy<br>usual<br>era<br>assist |  
+| bip_39_word_new_br2 | source<br>spy |  
+| bip_39_word_new_br3 | source<br>spy<br>you |  
+| bip_39_word_new_br4 | source<br>spy<br>you<br>spice |  
+| bip_39_word_new_br5 | source<br>spy<br>you<br>spice<br>myself |  
+| bip_39_word_new_br6 | source<br>spy<br>you<br>spice<br>myself<br>hole |  
+| bip_39_word_new_br7 | source<br>spy<br>you<br>spice<br>myself<br>hole<br>attract |  
+| bip_39_word_new_br8 | source<br>spy<br>you<br>spice<br>myself<br>hole<br>attract<br>exhaust |  
+| bip_39_word_new_br9 | source<br>spy<br>you<br>spice<br>myself<br>hole<br>attract<br>exhaust<br>candy |  
+| bip_39_word_new_line1 | source |  
+| bip_39_word_new_line10 | source
+spy
+you
+spice
+myself
+hole
+attract
+exhaust
+candy
+usual |  
+| bip_39_word_new_line11 | source
+spy
+you
+spice
+myself
+hole
+attract
+exhaust
+candy
+usual
+era |  
+| bip_39_word_new_line12 | source
+spy
+you
+spice
+myself
+hole
+attract
+exhaust
+candy
+usual
+era
+assist |  
+| bip_39_word_new_line2 | source
+spy |  
+| bip_39_word_new_line3 | source
+spy
+you |  
+| bip_39_word_new_line4 | source
+spy
+you
+spice |  
+| bip_39_word_new_line5 | source
+spy
+you
+spice
+myself |  
+| bip_39_word_new_line6 | source
+spy
+you
+spice
+myself
+hole |  
+| bip_39_word_new_line7 | source
+spy
+you
+spice
+myself
+hole
+attract |  
+| bip_39_word_new_line8 | source
+spy
+you
+spice
+myself
+hole
+attract
+exhaust |  
+| bip_39_word_new_line9 | source
+spy
+you
+spice
+myself
+hole
+attract
+exhaust
+candy |  
+| bip_39_word_space_0 | ['source', 'spy', 'you', 'spice', 'myself', 'hole', 'attract', 'exhaust', 'candy', 'usual', 'era', 'assist'] |  
+| bip_39_word_space_1 | source |  
+| bip_39_word_space_10 | source spy you spice myself hole attract exhaust candy usual |  
+| bip_39_word_space_11 | source spy you spice myself hole attract exhaust candy usual era |  
+| bip_39_word_space_12 | source spy you spice myself hole attract exhaust candy usual era assist |  
+| bip_39_word_space_2 | source spy |  
+| bip_39_word_space_3 | source spy you |  
+| bip_39_word_space_4 | source spy you spice |  
+| bip_39_word_space_5 | source spy you spice myself |  
+| bip_39_word_space_6 | source spy you spice myself hole |  
+| bip_39_word_space_7 | source spy you spice myself hole attract |  
+| bip_39_word_space_8 | source spy you spice myself hole attract exhaust |  
+| bip_39_word_space_9 | source spy you spice myself hole attract exhaust candy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

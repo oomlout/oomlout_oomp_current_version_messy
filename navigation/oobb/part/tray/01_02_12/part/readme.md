@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mobile autumn
+  * bip 39 word 3: mobile autumn various
+  * bip 39 word: mobile autumn various trigger resource lawsuit sphere lottery gas limb place acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mobile |  
+| bip_39_word_new_br10 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb |  
+| bip_39_word_new_br11 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb<br>place |  
+| bip_39_word_new_br12 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas<br>limb<br>place<br>acid |  
+| bip_39_word_new_br2 | mobile<br>autumn |  
+| bip_39_word_new_br3 | mobile<br>autumn<br>various |  
+| bip_39_word_new_br4 | mobile<br>autumn<br>various<br>trigger |  
+| bip_39_word_new_br5 | mobile<br>autumn<br>various<br>trigger<br>resource |  
+| bip_39_word_new_br6 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit |  
+| bip_39_word_new_br7 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere |  
+| bip_39_word_new_br8 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery |  
+| bip_39_word_new_br9 | mobile<br>autumn<br>various<br>trigger<br>resource<br>lawsuit<br>sphere<br>lottery<br>gas |  
+| bip_39_word_new_line1 | mobile |  
+| bip_39_word_new_line10 | mobile
+autumn
+various
+trigger
+resource
+lawsuit
+sphere
+lottery
+gas
+limb |  
+| bip_39_word_new_line11 | mobile
+autumn
+various
+trigger
+resource
+lawsuit
+sphere
+lottery
+gas
+limb
+place |  
+| bip_39_word_new_line12 | mobile
+autumn
+various
+trigger
+resource
+lawsuit
+sphere
+lottery
+gas
+limb
+place
+acid |  
+| bip_39_word_new_line2 | mobile
+autumn |  
+| bip_39_word_new_line3 | mobile
+autumn
+various |  
+| bip_39_word_new_line4 | mobile
+autumn
+various
+trigger |  
+| bip_39_word_new_line5 | mobile
+autumn
+various
+trigger
+resource |  
+| bip_39_word_new_line6 | mobile
+autumn
+various
+trigger
+resource
+lawsuit |  
+| bip_39_word_new_line7 | mobile
+autumn
+various
+trigger
+resource
+lawsuit
+sphere |  
+| bip_39_word_new_line8 | mobile
+autumn
+various
+trigger
+resource
+lawsuit
+sphere
+lottery |  
+| bip_39_word_new_line9 | mobile
+autumn
+various
+trigger
+resource
+lawsuit
+sphere
+lottery
+gas |  
+| bip_39_word_space_0 | ['mobile', 'autumn', 'various', 'trigger', 'resource', 'lawsuit', 'sphere', 'lottery', 'gas', 'limb', 'place', 'acid'] |  
+| bip_39_word_space_1 | mobile |  
+| bip_39_word_space_10 | mobile autumn various trigger resource lawsuit sphere lottery gas limb |  
+| bip_39_word_space_11 | mobile autumn various trigger resource lawsuit sphere lottery gas limb place |  
+| bip_39_word_space_12 | mobile autumn various trigger resource lawsuit sphere lottery gas limb place acid |  
+| bip_39_word_space_2 | mobile autumn |  
+| bip_39_word_space_3 | mobile autumn various |  
+| bip_39_word_space_4 | mobile autumn various trigger |  
+| bip_39_word_space_5 | mobile autumn various trigger resource |  
+| bip_39_word_space_6 | mobile autumn various trigger resource lawsuit |  
+| bip_39_word_space_7 | mobile autumn various trigger resource lawsuit sphere |  
+| bip_39_word_space_8 | mobile autumn various trigger resource lawsuit sphere lottery |  
+| bip_39_word_space_9 | mobile autumn various trigger resource lawsuit sphere lottery gas |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

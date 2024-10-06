@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: travel speed
+  * bip 39 word 3: travel speed flush
+  * bip 39 word: travel speed flush type indoor dismiss want awkward cage congress manage air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | travel |  
+| bip_39_word_new_br10 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress |  
+| bip_39_word_new_br11 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress<br>manage |  
+| bip_39_word_new_br12 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage<br>congress<br>manage<br>air |  
+| bip_39_word_new_br2 | travel<br>speed |  
+| bip_39_word_new_br3 | travel<br>speed<br>flush |  
+| bip_39_word_new_br4 | travel<br>speed<br>flush<br>type |  
+| bip_39_word_new_br5 | travel<br>speed<br>flush<br>type<br>indoor |  
+| bip_39_word_new_br6 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss |  
+| bip_39_word_new_br7 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want |  
+| bip_39_word_new_br8 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward |  
+| bip_39_word_new_br9 | travel<br>speed<br>flush<br>type<br>indoor<br>dismiss<br>want<br>awkward<br>cage |  
+| bip_39_word_new_line1 | travel |  
+| bip_39_word_new_line10 | travel
+speed
+flush
+type
+indoor
+dismiss
+want
+awkward
+cage
+congress |  
+| bip_39_word_new_line11 | travel
+speed
+flush
+type
+indoor
+dismiss
+want
+awkward
+cage
+congress
+manage |  
+| bip_39_word_new_line12 | travel
+speed
+flush
+type
+indoor
+dismiss
+want
+awkward
+cage
+congress
+manage
+air |  
+| bip_39_word_new_line2 | travel
+speed |  
+| bip_39_word_new_line3 | travel
+speed
+flush |  
+| bip_39_word_new_line4 | travel
+speed
+flush
+type |  
+| bip_39_word_new_line5 | travel
+speed
+flush
+type
+indoor |  
+| bip_39_word_new_line6 | travel
+speed
+flush
+type
+indoor
+dismiss |  
+| bip_39_word_new_line7 | travel
+speed
+flush
+type
+indoor
+dismiss
+want |  
+| bip_39_word_new_line8 | travel
+speed
+flush
+type
+indoor
+dismiss
+want
+awkward |  
+| bip_39_word_new_line9 | travel
+speed
+flush
+type
+indoor
+dismiss
+want
+awkward
+cage |  
+| bip_39_word_space_0 | ['travel', 'speed', 'flush', 'type', 'indoor', 'dismiss', 'want', 'awkward', 'cage', 'congress', 'manage', 'air'] |  
+| bip_39_word_space_1 | travel |  
+| bip_39_word_space_10 | travel speed flush type indoor dismiss want awkward cage congress |  
+| bip_39_word_space_11 | travel speed flush type indoor dismiss want awkward cage congress manage |  
+| bip_39_word_space_12 | travel speed flush type indoor dismiss want awkward cage congress manage air |  
+| bip_39_word_space_2 | travel speed |  
+| bip_39_word_space_3 | travel speed flush |  
+| bip_39_word_space_4 | travel speed flush type |  
+| bip_39_word_space_5 | travel speed flush type indoor |  
+| bip_39_word_space_6 | travel speed flush type indoor dismiss |  
+| bip_39_word_space_7 | travel speed flush type indoor dismiss want |  
+| bip_39_word_space_8 | travel speed flush type indoor dismiss want awkward |  
+| bip_39_word_space_9 | travel speed flush type indoor dismiss want awkward cage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reduce caught
+  * bip 39 word 3: reduce caught garment
+  * bip 39 word: reduce caught garment regret area improve tattoo target avoid bread pottery another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reduce |  
+| bip_39_word_new_br10 | reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid<br>bread |  
+| bip_39_word_new_br11 | reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid<br>bread<br>pottery |  
+| bip_39_word_new_br12 | reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid<br>bread<br>pottery<br>another |  
+| bip_39_word_new_br2 | reduce<br>caught |  
+| bip_39_word_new_br3 | reduce<br>caught<br>garment |  
+| bip_39_word_new_br4 | reduce<br>caught<br>garment<br>regret |  
+| bip_39_word_new_br5 | reduce<br>caught<br>garment<br>regret<br>area |  
+| bip_39_word_new_br6 | reduce<br>caught<br>garment<br>regret<br>area<br>improve |  
+| bip_39_word_new_br7 | reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo |  
+| bip_39_word_new_br8 | reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target |  
+| bip_39_word_new_br9 | reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid |  
+| bip_39_word_new_line1 | reduce |  
+| bip_39_word_new_line10 | reduce
+caught
+garment
+regret
+area
+improve
+tattoo
+target
+avoid
+bread |  
+| bip_39_word_new_line11 | reduce
+caught
+garment
+regret
+area
+improve
+tattoo
+target
+avoid
+bread
+pottery |  
+| bip_39_word_new_line12 | reduce
+caught
+garment
+regret
+area
+improve
+tattoo
+target
+avoid
+bread
+pottery
+another |  
+| bip_39_word_new_line2 | reduce
+caught |  
+| bip_39_word_new_line3 | reduce
+caught
+garment |  
+| bip_39_word_new_line4 | reduce
+caught
+garment
+regret |  
+| bip_39_word_new_line5 | reduce
+caught
+garment
+regret
+area |  
+| bip_39_word_new_line6 | reduce
+caught
+garment
+regret
+area
+improve |  
+| bip_39_word_new_line7 | reduce
+caught
+garment
+regret
+area
+improve
+tattoo |  
+| bip_39_word_new_line8 | reduce
+caught
+garment
+regret
+area
+improve
+tattoo
+target |  
+| bip_39_word_new_line9 | reduce
+caught
+garment
+regret
+area
+improve
+tattoo
+target
+avoid |  
+| bip_39_word_space_0 | ['reduce', 'caught', 'garment', 'regret', 'area', 'improve', 'tattoo', 'target', 'avoid', 'bread', 'pottery', 'another'] |  
+| bip_39_word_space_1 | reduce |  
+| bip_39_word_space_10 | reduce caught garment regret area improve tattoo target avoid bread |  
+| bip_39_word_space_11 | reduce caught garment regret area improve tattoo target avoid bread pottery |  
+| bip_39_word_space_12 | reduce caught garment regret area improve tattoo target avoid bread pottery another |  
+| bip_39_word_space_2 | reduce caught |  
+| bip_39_word_space_3 | reduce caught garment |  
+| bip_39_word_space_4 | reduce caught garment regret |  
+| bip_39_word_space_5 | reduce caught garment regret area |  
+| bip_39_word_space_6 | reduce caught garment regret area improve |  
+| bip_39_word_space_7 | reduce caught garment regret area improve tattoo |  
+| bip_39_word_space_8 | reduce caught garment regret area improve tattoo target |  
+| bip_39_word_space_9 | reduce caught garment regret area improve tattoo target avoid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

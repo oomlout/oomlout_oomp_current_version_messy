@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alpha twice
+  * bip 39 word 3: alpha twice arrange
+  * bip 39 word: alpha twice arrange device cushion change mimic survey blue notable disorder anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alpha |  
+| bip_39_word_new_br10 | alpha<br>twice<br>arrange<br>device<br>cushion<br>change<br>mimic<br>survey<br>blue<br>notable |  
+| bip_39_word_new_br11 | alpha<br>twice<br>arrange<br>device<br>cushion<br>change<br>mimic<br>survey<br>blue<br>notable<br>disorder |  
+| bip_39_word_new_br12 | alpha<br>twice<br>arrange<br>device<br>cushion<br>change<br>mimic<br>survey<br>blue<br>notable<br>disorder<br>anchor |  
+| bip_39_word_new_br2 | alpha<br>twice |  
+| bip_39_word_new_br3 | alpha<br>twice<br>arrange |  
+| bip_39_word_new_br4 | alpha<br>twice<br>arrange<br>device |  
+| bip_39_word_new_br5 | alpha<br>twice<br>arrange<br>device<br>cushion |  
+| bip_39_word_new_br6 | alpha<br>twice<br>arrange<br>device<br>cushion<br>change |  
+| bip_39_word_new_br7 | alpha<br>twice<br>arrange<br>device<br>cushion<br>change<br>mimic |  
+| bip_39_word_new_br8 | alpha<br>twice<br>arrange<br>device<br>cushion<br>change<br>mimic<br>survey |  
+| bip_39_word_new_br9 | alpha<br>twice<br>arrange<br>device<br>cushion<br>change<br>mimic<br>survey<br>blue |  
+| bip_39_word_new_line1 | alpha |  
+| bip_39_word_new_line10 | alpha
+twice
+arrange
+device
+cushion
+change
+mimic
+survey
+blue
+notable |  
+| bip_39_word_new_line11 | alpha
+twice
+arrange
+device
+cushion
+change
+mimic
+survey
+blue
+notable
+disorder |  
+| bip_39_word_new_line12 | alpha
+twice
+arrange
+device
+cushion
+change
+mimic
+survey
+blue
+notable
+disorder
+anchor |  
+| bip_39_word_new_line2 | alpha
+twice |  
+| bip_39_word_new_line3 | alpha
+twice
+arrange |  
+| bip_39_word_new_line4 | alpha
+twice
+arrange
+device |  
+| bip_39_word_new_line5 | alpha
+twice
+arrange
+device
+cushion |  
+| bip_39_word_new_line6 | alpha
+twice
+arrange
+device
+cushion
+change |  
+| bip_39_word_new_line7 | alpha
+twice
+arrange
+device
+cushion
+change
+mimic |  
+| bip_39_word_new_line8 | alpha
+twice
+arrange
+device
+cushion
+change
+mimic
+survey |  
+| bip_39_word_new_line9 | alpha
+twice
+arrange
+device
+cushion
+change
+mimic
+survey
+blue |  
+| bip_39_word_space_0 | ['alpha', 'twice', 'arrange', 'device', 'cushion', 'change', 'mimic', 'survey', 'blue', 'notable', 'disorder', 'anchor'] |  
+| bip_39_word_space_1 | alpha |  
+| bip_39_word_space_10 | alpha twice arrange device cushion change mimic survey blue notable |  
+| bip_39_word_space_11 | alpha twice arrange device cushion change mimic survey blue notable disorder |  
+| bip_39_word_space_12 | alpha twice arrange device cushion change mimic survey blue notable disorder anchor |  
+| bip_39_word_space_2 | alpha twice |  
+| bip_39_word_space_3 | alpha twice arrange |  
+| bip_39_word_space_4 | alpha twice arrange device |  
+| bip_39_word_space_5 | alpha twice arrange device cushion |  
+| bip_39_word_space_6 | alpha twice arrange device cushion change |  
+| bip_39_word_space_7 | alpha twice arrange device cushion change mimic |  
+| bip_39_word_space_8 | alpha twice arrange device cushion change mimic survey |  
+| bip_39_word_space_9 | alpha twice arrange device cushion change mimic survey blue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

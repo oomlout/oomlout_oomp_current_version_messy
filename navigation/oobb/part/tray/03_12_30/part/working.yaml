@@ -1,3 +1,186 @@
+bip_39_word_new_br1: copper
+bip_39_word_new_br10: copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country
+bip_39_word_new_br11: copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country<br>urge
+bip_39_word_new_br12: copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose<br>country<br>urge<br>alert
+bip_39_word_new_br2: copper<br>dance
+bip_39_word_new_br3: copper<br>dance<br>team
+bip_39_word_new_br4: copper<br>dance<br>team<br>auto
+bip_39_word_new_br5: copper<br>dance<br>team<br>auto<br>climb
+bip_39_word_new_br6: copper<br>dance<br>team<br>auto<br>climb<br>nice
+bip_39_word_new_br7: copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky
+bip_39_word_new_br8: copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october
+bip_39_word_new_br9: copper<br>dance<br>team<br>auto<br>climb<br>nice<br>lucky<br>october<br>nose
+bip_39_word_new_line1: copper
+bip_39_word_new_line10: 'copper
+
+  dance
+
+  team
+
+  auto
+
+  climb
+
+  nice
+
+  lucky
+
+  october
+
+  nose
+
+  country'
+bip_39_word_new_line11: 'copper
+
+  dance
+
+  team
+
+  auto
+
+  climb
+
+  nice
+
+  lucky
+
+  october
+
+  nose
+
+  country
+
+  urge'
+bip_39_word_new_line12: 'copper
+
+  dance
+
+  team
+
+  auto
+
+  climb
+
+  nice
+
+  lucky
+
+  october
+
+  nose
+
+  country
+
+  urge
+
+  alert'
+bip_39_word_new_line2: 'copper
+
+  dance'
+bip_39_word_new_line3: 'copper
+
+  dance
+
+  team'
+bip_39_word_new_line4: 'copper
+
+  dance
+
+  team
+
+  auto'
+bip_39_word_new_line5: 'copper
+
+  dance
+
+  team
+
+  auto
+
+  climb'
+bip_39_word_new_line6: 'copper
+
+  dance
+
+  team
+
+  auto
+
+  climb
+
+  nice'
+bip_39_word_new_line7: 'copper
+
+  dance
+
+  team
+
+  auto
+
+  climb
+
+  nice
+
+  lucky'
+bip_39_word_new_line8: 'copper
+
+  dance
+
+  team
+
+  auto
+
+  climb
+
+  nice
+
+  lucky
+
+  october'
+bip_39_word_new_line9: 'copper
+
+  dance
+
+  team
+
+  auto
+
+  climb
+
+  nice
+
+  lucky
+
+  october
+
+  nose'
+bip_39_word_space_0:
+- copper
+- dance
+- team
+- auto
+- climb
+- nice
+- lucky
+- october
+- nose
+- country
+- urge
+- alert
+bip_39_word_space_1: copper
+bip_39_word_space_10: copper dance team auto climb nice lucky october nose country
+bip_39_word_space_11: copper dance team auto climb nice lucky october nose country
+  urge
+bip_39_word_space_12: copper dance team auto climb nice lucky october nose country
+  urge alert
+bip_39_word_space_2: copper dance
+bip_39_word_space_3: copper dance team
+bip_39_word_space_4: copper dance team auto
+bip_39_word_space_5: copper dance team auto climb
+bip_39_word_space_6: copper dance team auto climb nice
+bip_39_word_space_7: copper dance team auto climb nice lucky
+bip_39_word_space_8: copper dance team auto climb nice lucky october
+bip_39_word_space_9: copper dance team auto climb nice lucky october nose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

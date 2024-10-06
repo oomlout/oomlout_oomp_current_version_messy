@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: supply wear
+  * bip 39 word 3: supply wear story
+  * bip 39 word: supply wear story snack tennis run endless color inform stool link antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | supply |  
+| bip_39_word_new_br10 | supply<br>wear<br>story<br>snack<br>tennis<br>run<br>endless<br>color<br>inform<br>stool |  
+| bip_39_word_new_br11 | supply<br>wear<br>story<br>snack<br>tennis<br>run<br>endless<br>color<br>inform<br>stool<br>link |  
+| bip_39_word_new_br12 | supply<br>wear<br>story<br>snack<br>tennis<br>run<br>endless<br>color<br>inform<br>stool<br>link<br>antique |  
+| bip_39_word_new_br2 | supply<br>wear |  
+| bip_39_word_new_br3 | supply<br>wear<br>story |  
+| bip_39_word_new_br4 | supply<br>wear<br>story<br>snack |  
+| bip_39_word_new_br5 | supply<br>wear<br>story<br>snack<br>tennis |  
+| bip_39_word_new_br6 | supply<br>wear<br>story<br>snack<br>tennis<br>run |  
+| bip_39_word_new_br7 | supply<br>wear<br>story<br>snack<br>tennis<br>run<br>endless |  
+| bip_39_word_new_br8 | supply<br>wear<br>story<br>snack<br>tennis<br>run<br>endless<br>color |  
+| bip_39_word_new_br9 | supply<br>wear<br>story<br>snack<br>tennis<br>run<br>endless<br>color<br>inform |  
+| bip_39_word_new_line1 | supply |  
+| bip_39_word_new_line10 | supply
+wear
+story
+snack
+tennis
+run
+endless
+color
+inform
+stool |  
+| bip_39_word_new_line11 | supply
+wear
+story
+snack
+tennis
+run
+endless
+color
+inform
+stool
+link |  
+| bip_39_word_new_line12 | supply
+wear
+story
+snack
+tennis
+run
+endless
+color
+inform
+stool
+link
+antique |  
+| bip_39_word_new_line2 | supply
+wear |  
+| bip_39_word_new_line3 | supply
+wear
+story |  
+| bip_39_word_new_line4 | supply
+wear
+story
+snack |  
+| bip_39_word_new_line5 | supply
+wear
+story
+snack
+tennis |  
+| bip_39_word_new_line6 | supply
+wear
+story
+snack
+tennis
+run |  
+| bip_39_word_new_line7 | supply
+wear
+story
+snack
+tennis
+run
+endless |  
+| bip_39_word_new_line8 | supply
+wear
+story
+snack
+tennis
+run
+endless
+color |  
+| bip_39_word_new_line9 | supply
+wear
+story
+snack
+tennis
+run
+endless
+color
+inform |  
+| bip_39_word_space_0 | ['supply', 'wear', 'story', 'snack', 'tennis', 'run', 'endless', 'color', 'inform', 'stool', 'link', 'antique'] |  
+| bip_39_word_space_1 | supply |  
+| bip_39_word_space_10 | supply wear story snack tennis run endless color inform stool |  
+| bip_39_word_space_11 | supply wear story snack tennis run endless color inform stool link |  
+| bip_39_word_space_12 | supply wear story snack tennis run endless color inform stool link antique |  
+| bip_39_word_space_2 | supply wear |  
+| bip_39_word_space_3 | supply wear story |  
+| bip_39_word_space_4 | supply wear story snack |  
+| bip_39_word_space_5 | supply wear story snack tennis |  
+| bip_39_word_space_6 | supply wear story snack tennis run |  
+| bip_39_word_space_7 | supply wear story snack tennis run endless |  
+| bip_39_word_space_8 | supply wear story snack tennis run endless color |  
+| bip_39_word_space_9 | supply wear story snack tennis run endless color inform |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

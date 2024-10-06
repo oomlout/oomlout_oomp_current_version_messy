@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: maximum thought
+  * bip 39 word 3: maximum thought seminar
+  * bip 39 word: maximum thought seminar furnace unknown sustain pulse web rent erase slow abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | maximum |  
+| bip_39_word_new_br10 | maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain<br>pulse<br>web<br>rent<br>erase |  
+| bip_39_word_new_br11 | maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain<br>pulse<br>web<br>rent<br>erase<br>slow |  
+| bip_39_word_new_br12 | maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain<br>pulse<br>web<br>rent<br>erase<br>slow<br>abuse |  
+| bip_39_word_new_br2 | maximum<br>thought |  
+| bip_39_word_new_br3 | maximum<br>thought<br>seminar |  
+| bip_39_word_new_br4 | maximum<br>thought<br>seminar<br>furnace |  
+| bip_39_word_new_br5 | maximum<br>thought<br>seminar<br>furnace<br>unknown |  
+| bip_39_word_new_br6 | maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain |  
+| bip_39_word_new_br7 | maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain<br>pulse |  
+| bip_39_word_new_br8 | maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain<br>pulse<br>web |  
+| bip_39_word_new_br9 | maximum<br>thought<br>seminar<br>furnace<br>unknown<br>sustain<br>pulse<br>web<br>rent |  
+| bip_39_word_new_line1 | maximum |  
+| bip_39_word_new_line10 | maximum
+thought
+seminar
+furnace
+unknown
+sustain
+pulse
+web
+rent
+erase |  
+| bip_39_word_new_line11 | maximum
+thought
+seminar
+furnace
+unknown
+sustain
+pulse
+web
+rent
+erase
+slow |  
+| bip_39_word_new_line12 | maximum
+thought
+seminar
+furnace
+unknown
+sustain
+pulse
+web
+rent
+erase
+slow
+abuse |  
+| bip_39_word_new_line2 | maximum
+thought |  
+| bip_39_word_new_line3 | maximum
+thought
+seminar |  
+| bip_39_word_new_line4 | maximum
+thought
+seminar
+furnace |  
+| bip_39_word_new_line5 | maximum
+thought
+seminar
+furnace
+unknown |  
+| bip_39_word_new_line6 | maximum
+thought
+seminar
+furnace
+unknown
+sustain |  
+| bip_39_word_new_line7 | maximum
+thought
+seminar
+furnace
+unknown
+sustain
+pulse |  
+| bip_39_word_new_line8 | maximum
+thought
+seminar
+furnace
+unknown
+sustain
+pulse
+web |  
+| bip_39_word_new_line9 | maximum
+thought
+seminar
+furnace
+unknown
+sustain
+pulse
+web
+rent |  
+| bip_39_word_space_0 | ['maximum', 'thought', 'seminar', 'furnace', 'unknown', 'sustain', 'pulse', 'web', 'rent', 'erase', 'slow', 'abuse'] |  
+| bip_39_word_space_1 | maximum |  
+| bip_39_word_space_10 | maximum thought seminar furnace unknown sustain pulse web rent erase |  
+| bip_39_word_space_11 | maximum thought seminar furnace unknown sustain pulse web rent erase slow |  
+| bip_39_word_space_12 | maximum thought seminar furnace unknown sustain pulse web rent erase slow abuse |  
+| bip_39_word_space_2 | maximum thought |  
+| bip_39_word_space_3 | maximum thought seminar |  
+| bip_39_word_space_4 | maximum thought seminar furnace |  
+| bip_39_word_space_5 | maximum thought seminar furnace unknown |  
+| bip_39_word_space_6 | maximum thought seminar furnace unknown sustain |  
+| bip_39_word_space_7 | maximum thought seminar furnace unknown sustain pulse |  
+| bip_39_word_space_8 | maximum thought seminar furnace unknown sustain pulse web |  
+| bip_39_word_space_9 | maximum thought seminar furnace unknown sustain pulse web rent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

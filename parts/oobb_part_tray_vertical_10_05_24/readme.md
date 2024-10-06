@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: author method
+  * bip 39 word 3: author method thing
+  * bip 39 word: author method thing soccer skate south blast spice state diesel tattoo alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | author |  
+| bip_39_word_new_br10 | author<br>method<br>thing<br>soccer<br>skate<br>south<br>blast<br>spice<br>state<br>diesel |  
+| bip_39_word_new_br11 | author<br>method<br>thing<br>soccer<br>skate<br>south<br>blast<br>spice<br>state<br>diesel<br>tattoo |  
+| bip_39_word_new_br12 | author<br>method<br>thing<br>soccer<br>skate<br>south<br>blast<br>spice<br>state<br>diesel<br>tattoo<br>alarm |  
+| bip_39_word_new_br2 | author<br>method |  
+| bip_39_word_new_br3 | author<br>method<br>thing |  
+| bip_39_word_new_br4 | author<br>method<br>thing<br>soccer |  
+| bip_39_word_new_br5 | author<br>method<br>thing<br>soccer<br>skate |  
+| bip_39_word_new_br6 | author<br>method<br>thing<br>soccer<br>skate<br>south |  
+| bip_39_word_new_br7 | author<br>method<br>thing<br>soccer<br>skate<br>south<br>blast |  
+| bip_39_word_new_br8 | author<br>method<br>thing<br>soccer<br>skate<br>south<br>blast<br>spice |  
+| bip_39_word_new_br9 | author<br>method<br>thing<br>soccer<br>skate<br>south<br>blast<br>spice<br>state |  
+| bip_39_word_new_line1 | author |  
+| bip_39_word_new_line10 | author
+method
+thing
+soccer
+skate
+south
+blast
+spice
+state
+diesel |  
+| bip_39_word_new_line11 | author
+method
+thing
+soccer
+skate
+south
+blast
+spice
+state
+diesel
+tattoo |  
+| bip_39_word_new_line12 | author
+method
+thing
+soccer
+skate
+south
+blast
+spice
+state
+diesel
+tattoo
+alarm |  
+| bip_39_word_new_line2 | author
+method |  
+| bip_39_word_new_line3 | author
+method
+thing |  
+| bip_39_word_new_line4 | author
+method
+thing
+soccer |  
+| bip_39_word_new_line5 | author
+method
+thing
+soccer
+skate |  
+| bip_39_word_new_line6 | author
+method
+thing
+soccer
+skate
+south |  
+| bip_39_word_new_line7 | author
+method
+thing
+soccer
+skate
+south
+blast |  
+| bip_39_word_new_line8 | author
+method
+thing
+soccer
+skate
+south
+blast
+spice |  
+| bip_39_word_new_line9 | author
+method
+thing
+soccer
+skate
+south
+blast
+spice
+state |  
+| bip_39_word_space_0 | ['author', 'method', 'thing', 'soccer', 'skate', 'south', 'blast', 'spice', 'state', 'diesel', 'tattoo', 'alarm'] |  
+| bip_39_word_space_1 | author |  
+| bip_39_word_space_10 | author method thing soccer skate south blast spice state diesel |  
+| bip_39_word_space_11 | author method thing soccer skate south blast spice state diesel tattoo |  
+| bip_39_word_space_12 | author method thing soccer skate south blast spice state diesel tattoo alarm |  
+| bip_39_word_space_2 | author method |  
+| bip_39_word_space_3 | author method thing |  
+| bip_39_word_space_4 | author method thing soccer |  
+| bip_39_word_space_5 | author method thing soccer skate |  
+| bip_39_word_space_6 | author method thing soccer skate south |  
+| bip_39_word_space_7 | author method thing soccer skate south blast |  
+| bip_39_word_space_8 | author method thing soccer skate south blast spice |  
+| bip_39_word_space_9 | author method thing soccer skate south blast spice state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

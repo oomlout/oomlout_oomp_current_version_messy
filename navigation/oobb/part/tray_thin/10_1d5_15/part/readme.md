@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: honey fence
+  * bip 39 word 3: honey fence uncover
+  * bip 39 word: honey fence uncover saddle solid core tongue pledge favorite because claim attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | honey |  
+| bip_39_word_new_br10 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core<br>tongue<br>pledge<br>favorite<br>because |  
+| bip_39_word_new_br11 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core<br>tongue<br>pledge<br>favorite<br>because<br>claim |  
+| bip_39_word_new_br12 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core<br>tongue<br>pledge<br>favorite<br>because<br>claim<br>attend |  
+| bip_39_word_new_br2 | honey<br>fence |  
+| bip_39_word_new_br3 | honey<br>fence<br>uncover |  
+| bip_39_word_new_br4 | honey<br>fence<br>uncover<br>saddle |  
+| bip_39_word_new_br5 | honey<br>fence<br>uncover<br>saddle<br>solid |  
+| bip_39_word_new_br6 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core |  
+| bip_39_word_new_br7 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core<br>tongue |  
+| bip_39_word_new_br8 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core<br>tongue<br>pledge |  
+| bip_39_word_new_br9 | honey<br>fence<br>uncover<br>saddle<br>solid<br>core<br>tongue<br>pledge<br>favorite |  
+| bip_39_word_new_line1 | honey |  
+| bip_39_word_new_line10 | honey
+fence
+uncover
+saddle
+solid
+core
+tongue
+pledge
+favorite
+because |  
+| bip_39_word_new_line11 | honey
+fence
+uncover
+saddle
+solid
+core
+tongue
+pledge
+favorite
+because
+claim |  
+| bip_39_word_new_line12 | honey
+fence
+uncover
+saddle
+solid
+core
+tongue
+pledge
+favorite
+because
+claim
+attend |  
+| bip_39_word_new_line2 | honey
+fence |  
+| bip_39_word_new_line3 | honey
+fence
+uncover |  
+| bip_39_word_new_line4 | honey
+fence
+uncover
+saddle |  
+| bip_39_word_new_line5 | honey
+fence
+uncover
+saddle
+solid |  
+| bip_39_word_new_line6 | honey
+fence
+uncover
+saddle
+solid
+core |  
+| bip_39_word_new_line7 | honey
+fence
+uncover
+saddle
+solid
+core
+tongue |  
+| bip_39_word_new_line8 | honey
+fence
+uncover
+saddle
+solid
+core
+tongue
+pledge |  
+| bip_39_word_new_line9 | honey
+fence
+uncover
+saddle
+solid
+core
+tongue
+pledge
+favorite |  
+| bip_39_word_space_0 | ['honey', 'fence', 'uncover', 'saddle', 'solid', 'core', 'tongue', 'pledge', 'favorite', 'because', 'claim', 'attend'] |  
+| bip_39_word_space_1 | honey |  
+| bip_39_word_space_10 | honey fence uncover saddle solid core tongue pledge favorite because |  
+| bip_39_word_space_11 | honey fence uncover saddle solid core tongue pledge favorite because claim |  
+| bip_39_word_space_12 | honey fence uncover saddle solid core tongue pledge favorite because claim attend |  
+| bip_39_word_space_2 | honey fence |  
+| bip_39_word_space_3 | honey fence uncover |  
+| bip_39_word_space_4 | honey fence uncover saddle |  
+| bip_39_word_space_5 | honey fence uncover saddle solid |  
+| bip_39_word_space_6 | honey fence uncover saddle solid core |  
+| bip_39_word_space_7 | honey fence uncover saddle solid core tongue |  
+| bip_39_word_space_8 | honey fence uncover saddle solid core tongue pledge |  
+| bip_39_word_space_9 | honey fence uncover saddle solid core tongue pledge favorite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

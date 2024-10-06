@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: force flight
+  * bip 39 word 3: force flight submit
+  * bip 39 word: force flight submit onion awake media debris gown sun balcony meadow ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | force |  
+| bip_39_word_new_br10 | force<br>flight<br>submit<br>onion<br>awake<br>media<br>debris<br>gown<br>sun<br>balcony |  
+| bip_39_word_new_br11 | force<br>flight<br>submit<br>onion<br>awake<br>media<br>debris<br>gown<br>sun<br>balcony<br>meadow |  
+| bip_39_word_new_br12 | force<br>flight<br>submit<br>onion<br>awake<br>media<br>debris<br>gown<br>sun<br>balcony<br>meadow<br>ahead |  
+| bip_39_word_new_br2 | force<br>flight |  
+| bip_39_word_new_br3 | force<br>flight<br>submit |  
+| bip_39_word_new_br4 | force<br>flight<br>submit<br>onion |  
+| bip_39_word_new_br5 | force<br>flight<br>submit<br>onion<br>awake |  
+| bip_39_word_new_br6 | force<br>flight<br>submit<br>onion<br>awake<br>media |  
+| bip_39_word_new_br7 | force<br>flight<br>submit<br>onion<br>awake<br>media<br>debris |  
+| bip_39_word_new_br8 | force<br>flight<br>submit<br>onion<br>awake<br>media<br>debris<br>gown |  
+| bip_39_word_new_br9 | force<br>flight<br>submit<br>onion<br>awake<br>media<br>debris<br>gown<br>sun |  
+| bip_39_word_new_line1 | force |  
+| bip_39_word_new_line10 | force
+flight
+submit
+onion
+awake
+media
+debris
+gown
+sun
+balcony |  
+| bip_39_word_new_line11 | force
+flight
+submit
+onion
+awake
+media
+debris
+gown
+sun
+balcony
+meadow |  
+| bip_39_word_new_line12 | force
+flight
+submit
+onion
+awake
+media
+debris
+gown
+sun
+balcony
+meadow
+ahead |  
+| bip_39_word_new_line2 | force
+flight |  
+| bip_39_word_new_line3 | force
+flight
+submit |  
+| bip_39_word_new_line4 | force
+flight
+submit
+onion |  
+| bip_39_word_new_line5 | force
+flight
+submit
+onion
+awake |  
+| bip_39_word_new_line6 | force
+flight
+submit
+onion
+awake
+media |  
+| bip_39_word_new_line7 | force
+flight
+submit
+onion
+awake
+media
+debris |  
+| bip_39_word_new_line8 | force
+flight
+submit
+onion
+awake
+media
+debris
+gown |  
+| bip_39_word_new_line9 | force
+flight
+submit
+onion
+awake
+media
+debris
+gown
+sun |  
+| bip_39_word_space_0 | ['force', 'flight', 'submit', 'onion', 'awake', 'media', 'debris', 'gown', 'sun', 'balcony', 'meadow', 'ahead'] |  
+| bip_39_word_space_1 | force |  
+| bip_39_word_space_10 | force flight submit onion awake media debris gown sun balcony |  
+| bip_39_word_space_11 | force flight submit onion awake media debris gown sun balcony meadow |  
+| bip_39_word_space_12 | force flight submit onion awake media debris gown sun balcony meadow ahead |  
+| bip_39_word_space_2 | force flight |  
+| bip_39_word_space_3 | force flight submit |  
+| bip_39_word_space_4 | force flight submit onion |  
+| bip_39_word_space_5 | force flight submit onion awake |  
+| bip_39_word_space_6 | force flight submit onion awake media |  
+| bip_39_word_space_7 | force flight submit onion awake media debris |  
+| bip_39_word_space_8 | force flight submit onion awake media debris gown |  
+| bip_39_word_space_9 | force flight submit onion awake media debris gown sun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

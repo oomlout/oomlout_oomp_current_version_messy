@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mansion
+bip_39_word_new_br10: mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party
+bip_39_word_new_br11: mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party<br>grant
+bip_39_word_new_br12: mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood<br>party<br>grant<br>already
+bip_39_word_new_br2: mansion<br>aisle
+bip_39_word_new_br3: mansion<br>aisle<br>couch
+bip_39_word_new_br4: mansion<br>aisle<br>couch<br>barely
+bip_39_word_new_br5: mansion<br>aisle<br>couch<br>barely<br>sting
+bip_39_word_new_br6: mansion<br>aisle<br>couch<br>barely<br>sting<br>check
+bip_39_word_new_br7: mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty
+bip_39_word_new_br8: mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology
+bip_39_word_new_br9: mansion<br>aisle<br>couch<br>barely<br>sting<br>check<br>poverty<br>apology<br>hood
+bip_39_word_new_line1: mansion
+bip_39_word_new_line10: 'mansion
+
+  aisle
+
+  couch
+
+  barely
+
+  sting
+
+  check
+
+  poverty
+
+  apology
+
+  hood
+
+  party'
+bip_39_word_new_line11: 'mansion
+
+  aisle
+
+  couch
+
+  barely
+
+  sting
+
+  check
+
+  poverty
+
+  apology
+
+  hood
+
+  party
+
+  grant'
+bip_39_word_new_line12: 'mansion
+
+  aisle
+
+  couch
+
+  barely
+
+  sting
+
+  check
+
+  poverty
+
+  apology
+
+  hood
+
+  party
+
+  grant
+
+  already'
+bip_39_word_new_line2: 'mansion
+
+  aisle'
+bip_39_word_new_line3: 'mansion
+
+  aisle
+
+  couch'
+bip_39_word_new_line4: 'mansion
+
+  aisle
+
+  couch
+
+  barely'
+bip_39_word_new_line5: 'mansion
+
+  aisle
+
+  couch
+
+  barely
+
+  sting'
+bip_39_word_new_line6: 'mansion
+
+  aisle
+
+  couch
+
+  barely
+
+  sting
+
+  check'
+bip_39_word_new_line7: 'mansion
+
+  aisle
+
+  couch
+
+  barely
+
+  sting
+
+  check
+
+  poverty'
+bip_39_word_new_line8: 'mansion
+
+  aisle
+
+  couch
+
+  barely
+
+  sting
+
+  check
+
+  poverty
+
+  apology'
+bip_39_word_new_line9: 'mansion
+
+  aisle
+
+  couch
+
+  barely
+
+  sting
+
+  check
+
+  poverty
+
+  apology
+
+  hood'
+bip_39_word_space_0:
+- mansion
+- aisle
+- couch
+- barely
+- sting
+- check
+- poverty
+- apology
+- hood
+- party
+- grant
+- already
+bip_39_word_space_1: mansion
+bip_39_word_space_10: mansion aisle couch barely sting check poverty apology hood
+  party
+bip_39_word_space_11: mansion aisle couch barely sting check poverty apology hood
+  party grant
+bip_39_word_space_12: mansion aisle couch barely sting check poverty apology hood
+  party grant already
+bip_39_word_space_2: mansion aisle
+bip_39_word_space_3: mansion aisle couch
+bip_39_word_space_4: mansion aisle couch barely
+bip_39_word_space_5: mansion aisle couch barely sting
+bip_39_word_space_6: mansion aisle couch barely sting check
+bip_39_word_space_7: mansion aisle couch barely sting check poverty
+bip_39_word_space_8: mansion aisle couch barely sting check poverty apology
+bip_39_word_space_9: mansion aisle couch barely sting check poverty apology hood
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

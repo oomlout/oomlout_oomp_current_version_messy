@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soccer board
+  * bip 39 word 3: soccer board program
+  * bip 39 word: soccer board program matter bacon have round happy park service canoe assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soccer |  
+| bip_39_word_new_br10 | soccer<br>board<br>program<br>matter<br>bacon<br>have<br>round<br>happy<br>park<br>service |  
+| bip_39_word_new_br11 | soccer<br>board<br>program<br>matter<br>bacon<br>have<br>round<br>happy<br>park<br>service<br>canoe |  
+| bip_39_word_new_br12 | soccer<br>board<br>program<br>matter<br>bacon<br>have<br>round<br>happy<br>park<br>service<br>canoe<br>assault |  
+| bip_39_word_new_br2 | soccer<br>board |  
+| bip_39_word_new_br3 | soccer<br>board<br>program |  
+| bip_39_word_new_br4 | soccer<br>board<br>program<br>matter |  
+| bip_39_word_new_br5 | soccer<br>board<br>program<br>matter<br>bacon |  
+| bip_39_word_new_br6 | soccer<br>board<br>program<br>matter<br>bacon<br>have |  
+| bip_39_word_new_br7 | soccer<br>board<br>program<br>matter<br>bacon<br>have<br>round |  
+| bip_39_word_new_br8 | soccer<br>board<br>program<br>matter<br>bacon<br>have<br>round<br>happy |  
+| bip_39_word_new_br9 | soccer<br>board<br>program<br>matter<br>bacon<br>have<br>round<br>happy<br>park |  
+| bip_39_word_new_line1 | soccer |  
+| bip_39_word_new_line10 | soccer
+board
+program
+matter
+bacon
+have
+round
+happy
+park
+service |  
+| bip_39_word_new_line11 | soccer
+board
+program
+matter
+bacon
+have
+round
+happy
+park
+service
+canoe |  
+| bip_39_word_new_line12 | soccer
+board
+program
+matter
+bacon
+have
+round
+happy
+park
+service
+canoe
+assault |  
+| bip_39_word_new_line2 | soccer
+board |  
+| bip_39_word_new_line3 | soccer
+board
+program |  
+| bip_39_word_new_line4 | soccer
+board
+program
+matter |  
+| bip_39_word_new_line5 | soccer
+board
+program
+matter
+bacon |  
+| bip_39_word_new_line6 | soccer
+board
+program
+matter
+bacon
+have |  
+| bip_39_word_new_line7 | soccer
+board
+program
+matter
+bacon
+have
+round |  
+| bip_39_word_new_line8 | soccer
+board
+program
+matter
+bacon
+have
+round
+happy |  
+| bip_39_word_new_line9 | soccer
+board
+program
+matter
+bacon
+have
+round
+happy
+park |  
+| bip_39_word_space_0 | ['soccer', 'board', 'program', 'matter', 'bacon', 'have', 'round', 'happy', 'park', 'service', 'canoe', 'assault'] |  
+| bip_39_word_space_1 | soccer |  
+| bip_39_word_space_10 | soccer board program matter bacon have round happy park service |  
+| bip_39_word_space_11 | soccer board program matter bacon have round happy park service canoe |  
+| bip_39_word_space_12 | soccer board program matter bacon have round happy park service canoe assault |  
+| bip_39_word_space_2 | soccer board |  
+| bip_39_word_space_3 | soccer board program |  
+| bip_39_word_space_4 | soccer board program matter |  
+| bip_39_word_space_5 | soccer board program matter bacon |  
+| bip_39_word_space_6 | soccer board program matter bacon have |  
+| bip_39_word_space_7 | soccer board program matter bacon have round |  
+| bip_39_word_space_8 | soccer board program matter bacon have round happy |  
+| bip_39_word_space_9 | soccer board program matter bacon have round happy park |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

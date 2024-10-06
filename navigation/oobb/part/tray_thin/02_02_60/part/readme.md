@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: party begin
+  * bip 39 word 3: party begin someone
+  * bip 39 word: party begin someone level actress absurd gallery scatter above fix cube advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | party |  
+| bip_39_word_new_br10 | party<br>begin<br>someone<br>level<br>actress<br>absurd<br>gallery<br>scatter<br>above<br>fix |  
+| bip_39_word_new_br11 | party<br>begin<br>someone<br>level<br>actress<br>absurd<br>gallery<br>scatter<br>above<br>fix<br>cube |  
+| bip_39_word_new_br12 | party<br>begin<br>someone<br>level<br>actress<br>absurd<br>gallery<br>scatter<br>above<br>fix<br>cube<br>advice |  
+| bip_39_word_new_br2 | party<br>begin |  
+| bip_39_word_new_br3 | party<br>begin<br>someone |  
+| bip_39_word_new_br4 | party<br>begin<br>someone<br>level |  
+| bip_39_word_new_br5 | party<br>begin<br>someone<br>level<br>actress |  
+| bip_39_word_new_br6 | party<br>begin<br>someone<br>level<br>actress<br>absurd |  
+| bip_39_word_new_br7 | party<br>begin<br>someone<br>level<br>actress<br>absurd<br>gallery |  
+| bip_39_word_new_br8 | party<br>begin<br>someone<br>level<br>actress<br>absurd<br>gallery<br>scatter |  
+| bip_39_word_new_br9 | party<br>begin<br>someone<br>level<br>actress<br>absurd<br>gallery<br>scatter<br>above |  
+| bip_39_word_new_line1 | party |  
+| bip_39_word_new_line10 | party
+begin
+someone
+level
+actress
+absurd
+gallery
+scatter
+above
+fix |  
+| bip_39_word_new_line11 | party
+begin
+someone
+level
+actress
+absurd
+gallery
+scatter
+above
+fix
+cube |  
+| bip_39_word_new_line12 | party
+begin
+someone
+level
+actress
+absurd
+gallery
+scatter
+above
+fix
+cube
+advice |  
+| bip_39_word_new_line2 | party
+begin |  
+| bip_39_word_new_line3 | party
+begin
+someone |  
+| bip_39_word_new_line4 | party
+begin
+someone
+level |  
+| bip_39_word_new_line5 | party
+begin
+someone
+level
+actress |  
+| bip_39_word_new_line6 | party
+begin
+someone
+level
+actress
+absurd |  
+| bip_39_word_new_line7 | party
+begin
+someone
+level
+actress
+absurd
+gallery |  
+| bip_39_word_new_line8 | party
+begin
+someone
+level
+actress
+absurd
+gallery
+scatter |  
+| bip_39_word_new_line9 | party
+begin
+someone
+level
+actress
+absurd
+gallery
+scatter
+above |  
+| bip_39_word_space_0 | ['party', 'begin', 'someone', 'level', 'actress', 'absurd', 'gallery', 'scatter', 'above', 'fix', 'cube', 'advice'] |  
+| bip_39_word_space_1 | party |  
+| bip_39_word_space_10 | party begin someone level actress absurd gallery scatter above fix |  
+| bip_39_word_space_11 | party begin someone level actress absurd gallery scatter above fix cube |  
+| bip_39_word_space_12 | party begin someone level actress absurd gallery scatter above fix cube advice |  
+| bip_39_word_space_2 | party begin |  
+| bip_39_word_space_3 | party begin someone |  
+| bip_39_word_space_4 | party begin someone level |  
+| bip_39_word_space_5 | party begin someone level actress |  
+| bip_39_word_space_6 | party begin someone level actress absurd |  
+| bip_39_word_space_7 | party begin someone level actress absurd gallery |  
+| bip_39_word_space_8 | party begin someone level actress absurd gallery scatter |  
+| bip_39_word_space_9 | party begin someone level actress absurd gallery scatter above |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dolphin sea
+  * bip 39 word 3: dolphin sea eagle
+  * bip 39 word: dolphin sea eagle orient addict timber okay reward soft sunset soul airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dolphin |  
+| bip_39_word_new_br10 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft<br>sunset |  
+| bip_39_word_new_br11 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft<br>sunset<br>soul |  
+| bip_39_word_new_br12 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft<br>sunset<br>soul<br>airport |  
+| bip_39_word_new_br2 | dolphin<br>sea |  
+| bip_39_word_new_br3 | dolphin<br>sea<br>eagle |  
+| bip_39_word_new_br4 | dolphin<br>sea<br>eagle<br>orient |  
+| bip_39_word_new_br5 | dolphin<br>sea<br>eagle<br>orient<br>addict |  
+| bip_39_word_new_br6 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber |  
+| bip_39_word_new_br7 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay |  
+| bip_39_word_new_br8 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward |  
+| bip_39_word_new_br9 | dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft |  
+| bip_39_word_new_line1 | dolphin |  
+| bip_39_word_new_line10 | dolphin
+sea
+eagle
+orient
+addict
+timber
+okay
+reward
+soft
+sunset |  
+| bip_39_word_new_line11 | dolphin
+sea
+eagle
+orient
+addict
+timber
+okay
+reward
+soft
+sunset
+soul |  
+| bip_39_word_new_line12 | dolphin
+sea
+eagle
+orient
+addict
+timber
+okay
+reward
+soft
+sunset
+soul
+airport |  
+| bip_39_word_new_line2 | dolphin
+sea |  
+| bip_39_word_new_line3 | dolphin
+sea
+eagle |  
+| bip_39_word_new_line4 | dolphin
+sea
+eagle
+orient |  
+| bip_39_word_new_line5 | dolphin
+sea
+eagle
+orient
+addict |  
+| bip_39_word_new_line6 | dolphin
+sea
+eagle
+orient
+addict
+timber |  
+| bip_39_word_new_line7 | dolphin
+sea
+eagle
+orient
+addict
+timber
+okay |  
+| bip_39_word_new_line8 | dolphin
+sea
+eagle
+orient
+addict
+timber
+okay
+reward |  
+| bip_39_word_new_line9 | dolphin
+sea
+eagle
+orient
+addict
+timber
+okay
+reward
+soft |  
+| bip_39_word_space_0 | ['dolphin', 'sea', 'eagle', 'orient', 'addict', 'timber', 'okay', 'reward', 'soft', 'sunset', 'soul', 'airport'] |  
+| bip_39_word_space_1 | dolphin |  
+| bip_39_word_space_10 | dolphin sea eagle orient addict timber okay reward soft sunset |  
+| bip_39_word_space_11 | dolphin sea eagle orient addict timber okay reward soft sunset soul |  
+| bip_39_word_space_12 | dolphin sea eagle orient addict timber okay reward soft sunset soul airport |  
+| bip_39_word_space_2 | dolphin sea |  
+| bip_39_word_space_3 | dolphin sea eagle |  
+| bip_39_word_space_4 | dolphin sea eagle orient |  
+| bip_39_word_space_5 | dolphin sea eagle orient addict |  
+| bip_39_word_space_6 | dolphin sea eagle orient addict timber |  
+| bip_39_word_space_7 | dolphin sea eagle orient addict timber okay |  
+| bip_39_word_space_8 | dolphin sea eagle orient addict timber okay reward |  
+| bip_39_word_space_9 | dolphin sea eagle orient addict timber okay reward soft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

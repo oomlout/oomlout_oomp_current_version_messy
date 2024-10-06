@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trick depth
+  * bip 39 word 3: trick depth reveal
+  * bip 39 word: trick depth reveal leopard wrap laptop hollow garlic swim until erupt attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trick |  
+| bip_39_word_new_br10 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop<br>hollow<br>garlic<br>swim<br>until |  
+| bip_39_word_new_br11 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop<br>hollow<br>garlic<br>swim<br>until<br>erupt |  
+| bip_39_word_new_br12 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop<br>hollow<br>garlic<br>swim<br>until<br>erupt<br>attack |  
+| bip_39_word_new_br2 | trick<br>depth |  
+| bip_39_word_new_br3 | trick<br>depth<br>reveal |  
+| bip_39_word_new_br4 | trick<br>depth<br>reveal<br>leopard |  
+| bip_39_word_new_br5 | trick<br>depth<br>reveal<br>leopard<br>wrap |  
+| bip_39_word_new_br6 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop |  
+| bip_39_word_new_br7 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop<br>hollow |  
+| bip_39_word_new_br8 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop<br>hollow<br>garlic |  
+| bip_39_word_new_br9 | trick<br>depth<br>reveal<br>leopard<br>wrap<br>laptop<br>hollow<br>garlic<br>swim |  
+| bip_39_word_new_line1 | trick |  
+| bip_39_word_new_line10 | trick
+depth
+reveal
+leopard
+wrap
+laptop
+hollow
+garlic
+swim
+until |  
+| bip_39_word_new_line11 | trick
+depth
+reveal
+leopard
+wrap
+laptop
+hollow
+garlic
+swim
+until
+erupt |  
+| bip_39_word_new_line12 | trick
+depth
+reveal
+leopard
+wrap
+laptop
+hollow
+garlic
+swim
+until
+erupt
+attack |  
+| bip_39_word_new_line2 | trick
+depth |  
+| bip_39_word_new_line3 | trick
+depth
+reveal |  
+| bip_39_word_new_line4 | trick
+depth
+reveal
+leopard |  
+| bip_39_word_new_line5 | trick
+depth
+reveal
+leopard
+wrap |  
+| bip_39_word_new_line6 | trick
+depth
+reveal
+leopard
+wrap
+laptop |  
+| bip_39_word_new_line7 | trick
+depth
+reveal
+leopard
+wrap
+laptop
+hollow |  
+| bip_39_word_new_line8 | trick
+depth
+reveal
+leopard
+wrap
+laptop
+hollow
+garlic |  
+| bip_39_word_new_line9 | trick
+depth
+reveal
+leopard
+wrap
+laptop
+hollow
+garlic
+swim |  
+| bip_39_word_space_0 | ['trick', 'depth', 'reveal', 'leopard', 'wrap', 'laptop', 'hollow', 'garlic', 'swim', 'until', 'erupt', 'attack'] |  
+| bip_39_word_space_1 | trick |  
+| bip_39_word_space_10 | trick depth reveal leopard wrap laptop hollow garlic swim until |  
+| bip_39_word_space_11 | trick depth reveal leopard wrap laptop hollow garlic swim until erupt |  
+| bip_39_word_space_12 | trick depth reveal leopard wrap laptop hollow garlic swim until erupt attack |  
+| bip_39_word_space_2 | trick depth |  
+| bip_39_word_space_3 | trick depth reveal |  
+| bip_39_word_space_4 | trick depth reveal leopard |  
+| bip_39_word_space_5 | trick depth reveal leopard wrap |  
+| bip_39_word_space_6 | trick depth reveal leopard wrap laptop |  
+| bip_39_word_space_7 | trick depth reveal leopard wrap laptop hollow |  
+| bip_39_word_space_8 | trick depth reveal leopard wrap laptop hollow garlic |  
+| bip_39_word_space_9 | trick depth reveal leopard wrap laptop hollow garlic swim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

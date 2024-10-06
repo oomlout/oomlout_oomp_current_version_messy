@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_2d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: odor once
+  * bip 39 word 3: odor once used
+  * bip 39 word: odor once used chuckle tribe pyramid spoil sick lock pottery estate alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | odor |  
+| bip_39_word_new_br10 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock<br>pottery |  
+| bip_39_word_new_br11 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock<br>pottery<br>estate |  
+| bip_39_word_new_br12 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock<br>pottery<br>estate<br>alcohol |  
+| bip_39_word_new_br2 | odor<br>once |  
+| bip_39_word_new_br3 | odor<br>once<br>used |  
+| bip_39_word_new_br4 | odor<br>once<br>used<br>chuckle |  
+| bip_39_word_new_br5 | odor<br>once<br>used<br>chuckle<br>tribe |  
+| bip_39_word_new_br6 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid |  
+| bip_39_word_new_br7 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil |  
+| bip_39_word_new_br8 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick |  
+| bip_39_word_new_br9 | odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock |  
+| bip_39_word_new_line1 | odor |  
+| bip_39_word_new_line10 | odor
+once
+used
+chuckle
+tribe
+pyramid
+spoil
+sick
+lock
+pottery |  
+| bip_39_word_new_line11 | odor
+once
+used
+chuckle
+tribe
+pyramid
+spoil
+sick
+lock
+pottery
+estate |  
+| bip_39_word_new_line12 | odor
+once
+used
+chuckle
+tribe
+pyramid
+spoil
+sick
+lock
+pottery
+estate
+alcohol |  
+| bip_39_word_new_line2 | odor
+once |  
+| bip_39_word_new_line3 | odor
+once
+used |  
+| bip_39_word_new_line4 | odor
+once
+used
+chuckle |  
+| bip_39_word_new_line5 | odor
+once
+used
+chuckle
+tribe |  
+| bip_39_word_new_line6 | odor
+once
+used
+chuckle
+tribe
+pyramid |  
+| bip_39_word_new_line7 | odor
+once
+used
+chuckle
+tribe
+pyramid
+spoil |  
+| bip_39_word_new_line8 | odor
+once
+used
+chuckle
+tribe
+pyramid
+spoil
+sick |  
+| bip_39_word_new_line9 | odor
+once
+used
+chuckle
+tribe
+pyramid
+spoil
+sick
+lock |  
+| bip_39_word_space_0 | ['odor', 'once', 'used', 'chuckle', 'tribe', 'pyramid', 'spoil', 'sick', 'lock', 'pottery', 'estate', 'alcohol'] |  
+| bip_39_word_space_1 | odor |  
+| bip_39_word_space_10 | odor once used chuckle tribe pyramid spoil sick lock pottery |  
+| bip_39_word_space_11 | odor once used chuckle tribe pyramid spoil sick lock pottery estate |  
+| bip_39_word_space_12 | odor once used chuckle tribe pyramid spoil sick lock pottery estate alcohol |  
+| bip_39_word_space_2 | odor once |  
+| bip_39_word_space_3 | odor once used |  
+| bip_39_word_space_4 | odor once used chuckle |  
+| bip_39_word_space_5 | odor once used chuckle tribe |  
+| bip_39_word_space_6 | odor once used chuckle tribe pyramid |  
+| bip_39_word_space_7 | odor once used chuckle tribe pyramid spoil |  
+| bip_39_word_space_8 | odor once used chuckle tribe pyramid spoil sick |  
+| bip_39_word_space_9 | odor once used chuckle tribe pyramid spoil sick lock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

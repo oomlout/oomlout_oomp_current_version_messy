@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: object defy
+  * bip 39 word 3: object defy night
+  * bip 39 word: object defy night issue want merry actual little empower basket whisper able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | object |  
+| bip_39_word_new_br10 | object<br>defy<br>night<br>issue<br>want<br>merry<br>actual<br>little<br>empower<br>basket |  
+| bip_39_word_new_br11 | object<br>defy<br>night<br>issue<br>want<br>merry<br>actual<br>little<br>empower<br>basket<br>whisper |  
+| bip_39_word_new_br12 | object<br>defy<br>night<br>issue<br>want<br>merry<br>actual<br>little<br>empower<br>basket<br>whisper<br>able |  
+| bip_39_word_new_br2 | object<br>defy |  
+| bip_39_word_new_br3 | object<br>defy<br>night |  
+| bip_39_word_new_br4 | object<br>defy<br>night<br>issue |  
+| bip_39_word_new_br5 | object<br>defy<br>night<br>issue<br>want |  
+| bip_39_word_new_br6 | object<br>defy<br>night<br>issue<br>want<br>merry |  
+| bip_39_word_new_br7 | object<br>defy<br>night<br>issue<br>want<br>merry<br>actual |  
+| bip_39_word_new_br8 | object<br>defy<br>night<br>issue<br>want<br>merry<br>actual<br>little |  
+| bip_39_word_new_br9 | object<br>defy<br>night<br>issue<br>want<br>merry<br>actual<br>little<br>empower |  
+| bip_39_word_new_line1 | object |  
+| bip_39_word_new_line10 | object
+defy
+night
+issue
+want
+merry
+actual
+little
+empower
+basket |  
+| bip_39_word_new_line11 | object
+defy
+night
+issue
+want
+merry
+actual
+little
+empower
+basket
+whisper |  
+| bip_39_word_new_line12 | object
+defy
+night
+issue
+want
+merry
+actual
+little
+empower
+basket
+whisper
+able |  
+| bip_39_word_new_line2 | object
+defy |  
+| bip_39_word_new_line3 | object
+defy
+night |  
+| bip_39_word_new_line4 | object
+defy
+night
+issue |  
+| bip_39_word_new_line5 | object
+defy
+night
+issue
+want |  
+| bip_39_word_new_line6 | object
+defy
+night
+issue
+want
+merry |  
+| bip_39_word_new_line7 | object
+defy
+night
+issue
+want
+merry
+actual |  
+| bip_39_word_new_line8 | object
+defy
+night
+issue
+want
+merry
+actual
+little |  
+| bip_39_word_new_line9 | object
+defy
+night
+issue
+want
+merry
+actual
+little
+empower |  
+| bip_39_word_space_0 | ['object', 'defy', 'night', 'issue', 'want', 'merry', 'actual', 'little', 'empower', 'basket', 'whisper', 'able'] |  
+| bip_39_word_space_1 | object |  
+| bip_39_word_space_10 | object defy night issue want merry actual little empower basket |  
+| bip_39_word_space_11 | object defy night issue want merry actual little empower basket whisper |  
+| bip_39_word_space_12 | object defy night issue want merry actual little empower basket whisper able |  
+| bip_39_word_space_2 | object defy |  
+| bip_39_word_space_3 | object defy night |  
+| bip_39_word_space_4 | object defy night issue |  
+| bip_39_word_space_5 | object defy night issue want |  
+| bip_39_word_space_6 | object defy night issue want merry |  
+| bip_39_word_space_7 | object defy night issue want merry actual |  
+| bip_39_word_space_8 | object defy night issue want merry actual little |  
+| bip_39_word_space_9 | object defy night issue want merry actual little empower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

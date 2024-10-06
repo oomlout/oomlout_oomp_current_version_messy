@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: upset matrix
+  * bip 39 word 3: upset matrix swamp
+  * bip 39 word: upset matrix swamp innocent settle fresh citizen orange enhance vanish credit any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | upset |  
+| bip_39_word_new_br10 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh<br>citizen<br>orange<br>enhance<br>vanish |  
+| bip_39_word_new_br11 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh<br>citizen<br>orange<br>enhance<br>vanish<br>credit |  
+| bip_39_word_new_br12 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh<br>citizen<br>orange<br>enhance<br>vanish<br>credit<br>any |  
+| bip_39_word_new_br2 | upset<br>matrix |  
+| bip_39_word_new_br3 | upset<br>matrix<br>swamp |  
+| bip_39_word_new_br4 | upset<br>matrix<br>swamp<br>innocent |  
+| bip_39_word_new_br5 | upset<br>matrix<br>swamp<br>innocent<br>settle |  
+| bip_39_word_new_br6 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh |  
+| bip_39_word_new_br7 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh<br>citizen |  
+| bip_39_word_new_br8 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh<br>citizen<br>orange |  
+| bip_39_word_new_br9 | upset<br>matrix<br>swamp<br>innocent<br>settle<br>fresh<br>citizen<br>orange<br>enhance |  
+| bip_39_word_new_line1 | upset |  
+| bip_39_word_new_line10 | upset
+matrix
+swamp
+innocent
+settle
+fresh
+citizen
+orange
+enhance
+vanish |  
+| bip_39_word_new_line11 | upset
+matrix
+swamp
+innocent
+settle
+fresh
+citizen
+orange
+enhance
+vanish
+credit |  
+| bip_39_word_new_line12 | upset
+matrix
+swamp
+innocent
+settle
+fresh
+citizen
+orange
+enhance
+vanish
+credit
+any |  
+| bip_39_word_new_line2 | upset
+matrix |  
+| bip_39_word_new_line3 | upset
+matrix
+swamp |  
+| bip_39_word_new_line4 | upset
+matrix
+swamp
+innocent |  
+| bip_39_word_new_line5 | upset
+matrix
+swamp
+innocent
+settle |  
+| bip_39_word_new_line6 | upset
+matrix
+swamp
+innocent
+settle
+fresh |  
+| bip_39_word_new_line7 | upset
+matrix
+swamp
+innocent
+settle
+fresh
+citizen |  
+| bip_39_word_new_line8 | upset
+matrix
+swamp
+innocent
+settle
+fresh
+citizen
+orange |  
+| bip_39_word_new_line9 | upset
+matrix
+swamp
+innocent
+settle
+fresh
+citizen
+orange
+enhance |  
+| bip_39_word_space_0 | ['upset', 'matrix', 'swamp', 'innocent', 'settle', 'fresh', 'citizen', 'orange', 'enhance', 'vanish', 'credit', 'any'] |  
+| bip_39_word_space_1 | upset |  
+| bip_39_word_space_10 | upset matrix swamp innocent settle fresh citizen orange enhance vanish |  
+| bip_39_word_space_11 | upset matrix swamp innocent settle fresh citizen orange enhance vanish credit |  
+| bip_39_word_space_12 | upset matrix swamp innocent settle fresh citizen orange enhance vanish credit any |  
+| bip_39_word_space_2 | upset matrix |  
+| bip_39_word_space_3 | upset matrix swamp |  
+| bip_39_word_space_4 | upset matrix swamp innocent |  
+| bip_39_word_space_5 | upset matrix swamp innocent settle |  
+| bip_39_word_space_6 | upset matrix swamp innocent settle fresh |  
+| bip_39_word_space_7 | upset matrix swamp innocent settle fresh citizen |  
+| bip_39_word_space_8 | upset matrix swamp innocent settle fresh citizen orange |  
+| bip_39_word_space_9 | upset matrix swamp innocent settle fresh citizen orange enhance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

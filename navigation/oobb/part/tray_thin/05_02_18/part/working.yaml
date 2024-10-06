@@ -1,3 +1,187 @@
+bip_39_word_new_br1: dad
+bip_39_word_new_br10: dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt<br>luggage<br>crisp<br>curtain<br>light
+bip_39_word_new_br11: dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt<br>luggage<br>crisp<br>curtain<br>light<br>kingdom
+bip_39_word_new_br12: dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt<br>luggage<br>crisp<br>curtain<br>light<br>kingdom<br>apology
+bip_39_word_new_br2: dad<br>frequent
+bip_39_word_new_br3: dad<br>frequent<br>almost
+bip_39_word_new_br4: dad<br>frequent<br>almost<br>amount
+bip_39_word_new_br5: dad<br>frequent<br>almost<br>amount<br>laundry
+bip_39_word_new_br6: dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt
+bip_39_word_new_br7: dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt<br>luggage
+bip_39_word_new_br8: dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt<br>luggage<br>crisp
+bip_39_word_new_br9: dad<br>frequent<br>almost<br>amount<br>laundry<br>dirt<br>luggage<br>crisp<br>curtain
+bip_39_word_new_line1: dad
+bip_39_word_new_line10: 'dad
+
+  frequent
+
+  almost
+
+  amount
+
+  laundry
+
+  dirt
+
+  luggage
+
+  crisp
+
+  curtain
+
+  light'
+bip_39_word_new_line11: 'dad
+
+  frequent
+
+  almost
+
+  amount
+
+  laundry
+
+  dirt
+
+  luggage
+
+  crisp
+
+  curtain
+
+  light
+
+  kingdom'
+bip_39_word_new_line12: 'dad
+
+  frequent
+
+  almost
+
+  amount
+
+  laundry
+
+  dirt
+
+  luggage
+
+  crisp
+
+  curtain
+
+  light
+
+  kingdom
+
+  apology'
+bip_39_word_new_line2: 'dad
+
+  frequent'
+bip_39_word_new_line3: 'dad
+
+  frequent
+
+  almost'
+bip_39_word_new_line4: 'dad
+
+  frequent
+
+  almost
+
+  amount'
+bip_39_word_new_line5: 'dad
+
+  frequent
+
+  almost
+
+  amount
+
+  laundry'
+bip_39_word_new_line6: 'dad
+
+  frequent
+
+  almost
+
+  amount
+
+  laundry
+
+  dirt'
+bip_39_word_new_line7: 'dad
+
+  frequent
+
+  almost
+
+  amount
+
+  laundry
+
+  dirt
+
+  luggage'
+bip_39_word_new_line8: 'dad
+
+  frequent
+
+  almost
+
+  amount
+
+  laundry
+
+  dirt
+
+  luggage
+
+  crisp'
+bip_39_word_new_line9: 'dad
+
+  frequent
+
+  almost
+
+  amount
+
+  laundry
+
+  dirt
+
+  luggage
+
+  crisp
+
+  curtain'
+bip_39_word_space_0:
+- dad
+- frequent
+- almost
+- amount
+- laundry
+- dirt
+- luggage
+- crisp
+- curtain
+- light
+- kingdom
+- apology
+bip_39_word_space_1: dad
+bip_39_word_space_10: dad frequent almost amount laundry dirt luggage crisp curtain
+  light
+bip_39_word_space_11: dad frequent almost amount laundry dirt luggage crisp curtain
+  light kingdom
+bip_39_word_space_12: dad frequent almost amount laundry dirt luggage crisp curtain
+  light kingdom apology
+bip_39_word_space_2: dad frequent
+bip_39_word_space_3: dad frequent almost
+bip_39_word_space_4: dad frequent almost amount
+bip_39_word_space_5: dad frequent almost amount laundry
+bip_39_word_space_6: dad frequent almost amount laundry dirt
+bip_39_word_space_7: dad frequent almost amount laundry dirt luggage
+bip_39_word_space_8: dad frequent almost amount laundry dirt luggage crisp
+bip_39_word_space_9: dad frequent almost amount laundry dirt luggage crisp curtain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

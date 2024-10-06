@@ -1,3 +1,186 @@
+bip_39_word_new_br1: trade
+bip_39_word_new_br10: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive
+bip_39_word_new_br11: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise
+bip_39_word_new_br12: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise<br>advance
+bip_39_word_new_br2: trade<br>junior
+bip_39_word_new_br3: trade<br>junior<br>elephant
+bip_39_word_new_br4: trade<br>junior<br>elephant<br>lake
+bip_39_word_new_br5: trade<br>junior<br>elephant<br>lake<br>fade
+bip_39_word_new_br6: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi
+bip_39_word_new_br7: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race
+bip_39_word_new_br8: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness
+bip_39_word_new_br9: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve
+bip_39_word_new_line1: trade
+bip_39_word_new_line10: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness
+
+  curve
+
+  arrive'
+bip_39_word_new_line11: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness
+
+  curve
+
+  arrive
+
+  demise'
+bip_39_word_new_line12: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness
+
+  curve
+
+  arrive
+
+  demise
+
+  advance'
+bip_39_word_new_line2: 'trade
+
+  junior'
+bip_39_word_new_line3: 'trade
+
+  junior
+
+  elephant'
+bip_39_word_new_line4: 'trade
+
+  junior
+
+  elephant
+
+  lake'
+bip_39_word_new_line5: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade'
+bip_39_word_new_line6: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi'
+bip_39_word_new_line7: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race'
+bip_39_word_new_line8: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness'
+bip_39_word_new_line9: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness
+
+  curve'
+bip_39_word_space_0:
+- trade
+- junior
+- elephant
+- lake
+- fade
+- satoshi
+- race
+- witness
+- curve
+- arrive
+- demise
+- advance
+bip_39_word_space_1: trade
+bip_39_word_space_10: trade junior elephant lake fade satoshi race witness curve arrive
+bip_39_word_space_11: trade junior elephant lake fade satoshi race witness curve arrive
+  demise
+bip_39_word_space_12: trade junior elephant lake fade satoshi race witness curve arrive
+  demise advance
+bip_39_word_space_2: trade junior
+bip_39_word_space_3: trade junior elephant
+bip_39_word_space_4: trade junior elephant lake
+bip_39_word_space_5: trade junior elephant lake fade
+bip_39_word_space_6: trade junior elephant lake fade satoshi
+bip_39_word_space_7: trade junior elephant lake fade satoshi race
+bip_39_word_space_8: trade junior elephant lake fade satoshi race witness
+bip_39_word_space_9: trade junior elephant lake fade satoshi race witness curve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: judge
+bip_39_word_new_br10: judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad
+bip_39_word_new_br11: judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad<br>random
+bip_39_word_new_br12: judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular<br>mad<br>random<br>attitude
+bip_39_word_new_br2: judge<br>crazy
+bip_39_word_new_br3: judge<br>crazy<br>team
+bip_39_word_new_br4: judge<br>crazy<br>team<br>museum
+bip_39_word_new_br5: judge<br>crazy<br>team<br>museum<br>exchange
+bip_39_word_new_br6: judge<br>crazy<br>team<br>museum<br>exchange<br>grape
+bip_39_word_new_br7: judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten
+bip_39_word_new_br8: judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never
+bip_39_word_new_br9: judge<br>crazy<br>team<br>museum<br>exchange<br>grape<br>kitten<br>never<br>popular
+bip_39_word_new_line1: judge
+bip_39_word_new_line10: 'judge
+
+  crazy
+
+  team
+
+  museum
+
+  exchange
+
+  grape
+
+  kitten
+
+  never
+
+  popular
+
+  mad'
+bip_39_word_new_line11: 'judge
+
+  crazy
+
+  team
+
+  museum
+
+  exchange
+
+  grape
+
+  kitten
+
+  never
+
+  popular
+
+  mad
+
+  random'
+bip_39_word_new_line12: 'judge
+
+  crazy
+
+  team
+
+  museum
+
+  exchange
+
+  grape
+
+  kitten
+
+  never
+
+  popular
+
+  mad
+
+  random
+
+  attitude'
+bip_39_word_new_line2: 'judge
+
+  crazy'
+bip_39_word_new_line3: 'judge
+
+  crazy
+
+  team'
+bip_39_word_new_line4: 'judge
+
+  crazy
+
+  team
+
+  museum'
+bip_39_word_new_line5: 'judge
+
+  crazy
+
+  team
+
+  museum
+
+  exchange'
+bip_39_word_new_line6: 'judge
+
+  crazy
+
+  team
+
+  museum
+
+  exchange
+
+  grape'
+bip_39_word_new_line7: 'judge
+
+  crazy
+
+  team
+
+  museum
+
+  exchange
+
+  grape
+
+  kitten'
+bip_39_word_new_line8: 'judge
+
+  crazy
+
+  team
+
+  museum
+
+  exchange
+
+  grape
+
+  kitten
+
+  never'
+bip_39_word_new_line9: 'judge
+
+  crazy
+
+  team
+
+  museum
+
+  exchange
+
+  grape
+
+  kitten
+
+  never
+
+  popular'
+bip_39_word_space_0:
+- judge
+- crazy
+- team
+- museum
+- exchange
+- grape
+- kitten
+- never
+- popular
+- mad
+- random
+- attitude
+bip_39_word_space_1: judge
+bip_39_word_space_10: judge crazy team museum exchange grape kitten never popular
+  mad
+bip_39_word_space_11: judge crazy team museum exchange grape kitten never popular
+  mad random
+bip_39_word_space_12: judge crazy team museum exchange grape kitten never popular
+  mad random attitude
+bip_39_word_space_2: judge crazy
+bip_39_word_space_3: judge crazy team
+bip_39_word_space_4: judge crazy team museum
+bip_39_word_space_5: judge crazy team museum exchange
+bip_39_word_space_6: judge crazy team museum exchange grape
+bip_39_word_space_7: judge crazy team museum exchange grape kitten
+bip_39_word_space_8: judge crazy team museum exchange grape kitten never
+bip_39_word_space_9: judge crazy team museum exchange grape kitten never popular
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

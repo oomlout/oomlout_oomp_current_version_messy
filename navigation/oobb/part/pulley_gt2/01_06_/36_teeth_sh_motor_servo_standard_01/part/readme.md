@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: labor permit
+  * bip 39 word 3: labor permit notice
+  * bip 39 word: labor permit notice honey reject second nut legal service scale pony ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | labor |  
+| bip_39_word_new_br10 | labor<br>permit<br>notice<br>honey<br>reject<br>second<br>nut<br>legal<br>service<br>scale |  
+| bip_39_word_new_br11 | labor<br>permit<br>notice<br>honey<br>reject<br>second<br>nut<br>legal<br>service<br>scale<br>pony |  
+| bip_39_word_new_br12 | labor<br>permit<br>notice<br>honey<br>reject<br>second<br>nut<br>legal<br>service<br>scale<br>pony<br>ability |  
+| bip_39_word_new_br2 | labor<br>permit |  
+| bip_39_word_new_br3 | labor<br>permit<br>notice |  
+| bip_39_word_new_br4 | labor<br>permit<br>notice<br>honey |  
+| bip_39_word_new_br5 | labor<br>permit<br>notice<br>honey<br>reject |  
+| bip_39_word_new_br6 | labor<br>permit<br>notice<br>honey<br>reject<br>second |  
+| bip_39_word_new_br7 | labor<br>permit<br>notice<br>honey<br>reject<br>second<br>nut |  
+| bip_39_word_new_br8 | labor<br>permit<br>notice<br>honey<br>reject<br>second<br>nut<br>legal |  
+| bip_39_word_new_br9 | labor<br>permit<br>notice<br>honey<br>reject<br>second<br>nut<br>legal<br>service |  
+| bip_39_word_new_line1 | labor |  
+| bip_39_word_new_line10 | labor
+permit
+notice
+honey
+reject
+second
+nut
+legal
+service
+scale |  
+| bip_39_word_new_line11 | labor
+permit
+notice
+honey
+reject
+second
+nut
+legal
+service
+scale
+pony |  
+| bip_39_word_new_line12 | labor
+permit
+notice
+honey
+reject
+second
+nut
+legal
+service
+scale
+pony
+ability |  
+| bip_39_word_new_line2 | labor
+permit |  
+| bip_39_word_new_line3 | labor
+permit
+notice |  
+| bip_39_word_new_line4 | labor
+permit
+notice
+honey |  
+| bip_39_word_new_line5 | labor
+permit
+notice
+honey
+reject |  
+| bip_39_word_new_line6 | labor
+permit
+notice
+honey
+reject
+second |  
+| bip_39_word_new_line7 | labor
+permit
+notice
+honey
+reject
+second
+nut |  
+| bip_39_word_new_line8 | labor
+permit
+notice
+honey
+reject
+second
+nut
+legal |  
+| bip_39_word_new_line9 | labor
+permit
+notice
+honey
+reject
+second
+nut
+legal
+service |  
+| bip_39_word_space_0 | ['labor', 'permit', 'notice', 'honey', 'reject', 'second', 'nut', 'legal', 'service', 'scale', 'pony', 'ability'] |  
+| bip_39_word_space_1 | labor |  
+| bip_39_word_space_10 | labor permit notice honey reject second nut legal service scale |  
+| bip_39_word_space_11 | labor permit notice honey reject second nut legal service scale pony |  
+| bip_39_word_space_12 | labor permit notice honey reject second nut legal service scale pony ability |  
+| bip_39_word_space_2 | labor permit |  
+| bip_39_word_space_3 | labor permit notice |  
+| bip_39_word_space_4 | labor permit notice honey |  
+| bip_39_word_space_5 | labor permit notice honey reject |  
+| bip_39_word_space_6 | labor permit notice honey reject second |  
+| bip_39_word_space_7 | labor permit notice honey reject second nut |  
+| bip_39_word_space_8 | labor permit notice honey reject second nut legal |  
+| bip_39_word_space_9 | labor permit notice honey reject second nut legal service |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

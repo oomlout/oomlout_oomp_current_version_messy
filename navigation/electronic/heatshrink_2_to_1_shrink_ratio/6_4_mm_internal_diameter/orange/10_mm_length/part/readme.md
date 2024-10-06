@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nominee stay
+  * bip 39 word 3: nominee stay amazing
+  * bip 39 word: nominee stay amazing rule hat fix client stick save today second assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nominee |  
+| bip_39_word_new_br10 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix<br>client<br>stick<br>save<br>today |  
+| bip_39_word_new_br11 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix<br>client<br>stick<br>save<br>today<br>second |  
+| bip_39_word_new_br12 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix<br>client<br>stick<br>save<br>today<br>second<br>assault |  
+| bip_39_word_new_br2 | nominee<br>stay |  
+| bip_39_word_new_br3 | nominee<br>stay<br>amazing |  
+| bip_39_word_new_br4 | nominee<br>stay<br>amazing<br>rule |  
+| bip_39_word_new_br5 | nominee<br>stay<br>amazing<br>rule<br>hat |  
+| bip_39_word_new_br6 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix |  
+| bip_39_word_new_br7 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix<br>client |  
+| bip_39_word_new_br8 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix<br>client<br>stick |  
+| bip_39_word_new_br9 | nominee<br>stay<br>amazing<br>rule<br>hat<br>fix<br>client<br>stick<br>save |  
+| bip_39_word_new_line1 | nominee |  
+| bip_39_word_new_line10 | nominee
+stay
+amazing
+rule
+hat
+fix
+client
+stick
+save
+today |  
+| bip_39_word_new_line11 | nominee
+stay
+amazing
+rule
+hat
+fix
+client
+stick
+save
+today
+second |  
+| bip_39_word_new_line12 | nominee
+stay
+amazing
+rule
+hat
+fix
+client
+stick
+save
+today
+second
+assault |  
+| bip_39_word_new_line2 | nominee
+stay |  
+| bip_39_word_new_line3 | nominee
+stay
+amazing |  
+| bip_39_word_new_line4 | nominee
+stay
+amazing
+rule |  
+| bip_39_word_new_line5 | nominee
+stay
+amazing
+rule
+hat |  
+| bip_39_word_new_line6 | nominee
+stay
+amazing
+rule
+hat
+fix |  
+| bip_39_word_new_line7 | nominee
+stay
+amazing
+rule
+hat
+fix
+client |  
+| bip_39_word_new_line8 | nominee
+stay
+amazing
+rule
+hat
+fix
+client
+stick |  
+| bip_39_word_new_line9 | nominee
+stay
+amazing
+rule
+hat
+fix
+client
+stick
+save |  
+| bip_39_word_space_0 | ['nominee', 'stay', 'amazing', 'rule', 'hat', 'fix', 'client', 'stick', 'save', 'today', 'second', 'assault'] |  
+| bip_39_word_space_1 | nominee |  
+| bip_39_word_space_10 | nominee stay amazing rule hat fix client stick save today |  
+| bip_39_word_space_11 | nominee stay amazing rule hat fix client stick save today second |  
+| bip_39_word_space_12 | nominee stay amazing rule hat fix client stick save today second assault |  
+| bip_39_word_space_2 | nominee stay |  
+| bip_39_word_space_3 | nominee stay amazing |  
+| bip_39_word_space_4 | nominee stay amazing rule |  
+| bip_39_word_space_5 | nominee stay amazing rule hat |  
+| bip_39_word_space_6 | nominee stay amazing rule hat fix |  
+| bip_39_word_space_7 | nominee stay amazing rule hat fix client |  
+| bip_39_word_space_8 | nominee stay amazing rule hat fix client stick |  
+| bip_39_word_space_9 | nominee stay amazing rule hat fix client stick save |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

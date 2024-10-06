@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: laundry clock
+  * bip 39 word 3: laundry clock quantum
+  * bip 39 word: laundry clock quantum spin aspect plunge hospital enjoy ensure inch island ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | laundry |  
+| bip_39_word_new_br10 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge<br>hospital<br>enjoy<br>ensure<br>inch |  
+| bip_39_word_new_br11 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge<br>hospital<br>enjoy<br>ensure<br>inch<br>island |  
+| bip_39_word_new_br12 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge<br>hospital<br>enjoy<br>ensure<br>inch<br>island<br>ankle |  
+| bip_39_word_new_br2 | laundry<br>clock |  
+| bip_39_word_new_br3 | laundry<br>clock<br>quantum |  
+| bip_39_word_new_br4 | laundry<br>clock<br>quantum<br>spin |  
+| bip_39_word_new_br5 | laundry<br>clock<br>quantum<br>spin<br>aspect |  
+| bip_39_word_new_br6 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge |  
+| bip_39_word_new_br7 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge<br>hospital |  
+| bip_39_word_new_br8 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge<br>hospital<br>enjoy |  
+| bip_39_word_new_br9 | laundry<br>clock<br>quantum<br>spin<br>aspect<br>plunge<br>hospital<br>enjoy<br>ensure |  
+| bip_39_word_new_line1 | laundry |  
+| bip_39_word_new_line10 | laundry
+clock
+quantum
+spin
+aspect
+plunge
+hospital
+enjoy
+ensure
+inch |  
+| bip_39_word_new_line11 | laundry
+clock
+quantum
+spin
+aspect
+plunge
+hospital
+enjoy
+ensure
+inch
+island |  
+| bip_39_word_new_line12 | laundry
+clock
+quantum
+spin
+aspect
+plunge
+hospital
+enjoy
+ensure
+inch
+island
+ankle |  
+| bip_39_word_new_line2 | laundry
+clock |  
+| bip_39_word_new_line3 | laundry
+clock
+quantum |  
+| bip_39_word_new_line4 | laundry
+clock
+quantum
+spin |  
+| bip_39_word_new_line5 | laundry
+clock
+quantum
+spin
+aspect |  
+| bip_39_word_new_line6 | laundry
+clock
+quantum
+spin
+aspect
+plunge |  
+| bip_39_word_new_line7 | laundry
+clock
+quantum
+spin
+aspect
+plunge
+hospital |  
+| bip_39_word_new_line8 | laundry
+clock
+quantum
+spin
+aspect
+plunge
+hospital
+enjoy |  
+| bip_39_word_new_line9 | laundry
+clock
+quantum
+spin
+aspect
+plunge
+hospital
+enjoy
+ensure |  
+| bip_39_word_space_0 | ['laundry', 'clock', 'quantum', 'spin', 'aspect', 'plunge', 'hospital', 'enjoy', 'ensure', 'inch', 'island', 'ankle'] |  
+| bip_39_word_space_1 | laundry |  
+| bip_39_word_space_10 | laundry clock quantum spin aspect plunge hospital enjoy ensure inch |  
+| bip_39_word_space_11 | laundry clock quantum spin aspect plunge hospital enjoy ensure inch island |  
+| bip_39_word_space_12 | laundry clock quantum spin aspect plunge hospital enjoy ensure inch island ankle |  
+| bip_39_word_space_2 | laundry clock |  
+| bip_39_word_space_3 | laundry clock quantum |  
+| bip_39_word_space_4 | laundry clock quantum spin |  
+| bip_39_word_space_5 | laundry clock quantum spin aspect |  
+| bip_39_word_space_6 | laundry clock quantum spin aspect plunge |  
+| bip_39_word_space_7 | laundry clock quantum spin aspect plunge hospital |  
+| bip_39_word_space_8 | laundry clock quantum spin aspect plunge hospital enjoy |  
+| bip_39_word_space_9 | laundry clock quantum spin aspect plunge hospital enjoy ensure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

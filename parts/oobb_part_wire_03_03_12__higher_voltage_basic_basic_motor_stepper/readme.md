@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: higher_voltage_basic_basic_motor_stepper
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: liquid worth
+  * bip 39 word 3: liquid worth window
+  * bip 39 word: liquid worth window gun vast castle image current resemble birth lens abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | liquid |  
+| bip_39_word_new_br10 | liquid<br>worth<br>window<br>gun<br>vast<br>castle<br>image<br>current<br>resemble<br>birth |  
+| bip_39_word_new_br11 | liquid<br>worth<br>window<br>gun<br>vast<br>castle<br>image<br>current<br>resemble<br>birth<br>lens |  
+| bip_39_word_new_br12 | liquid<br>worth<br>window<br>gun<br>vast<br>castle<br>image<br>current<br>resemble<br>birth<br>lens<br>abuse |  
+| bip_39_word_new_br2 | liquid<br>worth |  
+| bip_39_word_new_br3 | liquid<br>worth<br>window |  
+| bip_39_word_new_br4 | liquid<br>worth<br>window<br>gun |  
+| bip_39_word_new_br5 | liquid<br>worth<br>window<br>gun<br>vast |  
+| bip_39_word_new_br6 | liquid<br>worth<br>window<br>gun<br>vast<br>castle |  
+| bip_39_word_new_br7 | liquid<br>worth<br>window<br>gun<br>vast<br>castle<br>image |  
+| bip_39_word_new_br8 | liquid<br>worth<br>window<br>gun<br>vast<br>castle<br>image<br>current |  
+| bip_39_word_new_br9 | liquid<br>worth<br>window<br>gun<br>vast<br>castle<br>image<br>current<br>resemble |  
+| bip_39_word_new_line1 | liquid |  
+| bip_39_word_new_line10 | liquid
+worth
+window
+gun
+vast
+castle
+image
+current
+resemble
+birth |  
+| bip_39_word_new_line11 | liquid
+worth
+window
+gun
+vast
+castle
+image
+current
+resemble
+birth
+lens |  
+| bip_39_word_new_line12 | liquid
+worth
+window
+gun
+vast
+castle
+image
+current
+resemble
+birth
+lens
+abuse |  
+| bip_39_word_new_line2 | liquid
+worth |  
+| bip_39_word_new_line3 | liquid
+worth
+window |  
+| bip_39_word_new_line4 | liquid
+worth
+window
+gun |  
+| bip_39_word_new_line5 | liquid
+worth
+window
+gun
+vast |  
+| bip_39_word_new_line6 | liquid
+worth
+window
+gun
+vast
+castle |  
+| bip_39_word_new_line7 | liquid
+worth
+window
+gun
+vast
+castle
+image |  
+| bip_39_word_new_line8 | liquid
+worth
+window
+gun
+vast
+castle
+image
+current |  
+| bip_39_word_new_line9 | liquid
+worth
+window
+gun
+vast
+castle
+image
+current
+resemble |  
+| bip_39_word_space_0 | ['liquid', 'worth', 'window', 'gun', 'vast', 'castle', 'image', 'current', 'resemble', 'birth', 'lens', 'abuse'] |  
+| bip_39_word_space_1 | liquid |  
+| bip_39_word_space_10 | liquid worth window gun vast castle image current resemble birth |  
+| bip_39_word_space_11 | liquid worth window gun vast castle image current resemble birth lens |  
+| bip_39_word_space_12 | liquid worth window gun vast castle image current resemble birth lens abuse |  
+| bip_39_word_space_2 | liquid worth |  
+| bip_39_word_space_3 | liquid worth window |  
+| bip_39_word_space_4 | liquid worth window gun |  
+| bip_39_word_space_5 | liquid worth window gun vast |  
+| bip_39_word_space_6 | liquid worth window gun vast castle |  
+| bip_39_word_space_7 | liquid worth window gun vast castle image |  
+| bip_39_word_space_8 | liquid worth window gun vast castle image current |  
+| bip_39_word_space_9 | liquid worth window gun vast castle image current resemble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

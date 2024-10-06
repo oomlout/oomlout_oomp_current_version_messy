@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: acoustic corn
+  * bip 39 word 3: acoustic corn vehicle
+  * bip 39 word: acoustic corn vehicle shift ghost border crater post dinosaur remain leg admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | acoustic |  
+| bip_39_word_new_br10 | acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border<br>crater<br>post<br>dinosaur<br>remain |  
+| bip_39_word_new_br11 | acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border<br>crater<br>post<br>dinosaur<br>remain<br>leg |  
+| bip_39_word_new_br12 | acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border<br>crater<br>post<br>dinosaur<br>remain<br>leg<br>admit |  
+| bip_39_word_new_br2 | acoustic<br>corn |  
+| bip_39_word_new_br3 | acoustic<br>corn<br>vehicle |  
+| bip_39_word_new_br4 | acoustic<br>corn<br>vehicle<br>shift |  
+| bip_39_word_new_br5 | acoustic<br>corn<br>vehicle<br>shift<br>ghost |  
+| bip_39_word_new_br6 | acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border |  
+| bip_39_word_new_br7 | acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border<br>crater |  
+| bip_39_word_new_br8 | acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border<br>crater<br>post |  
+| bip_39_word_new_br9 | acoustic<br>corn<br>vehicle<br>shift<br>ghost<br>border<br>crater<br>post<br>dinosaur |  
+| bip_39_word_new_line1 | acoustic |  
+| bip_39_word_new_line10 | acoustic
+corn
+vehicle
+shift
+ghost
+border
+crater
+post
+dinosaur
+remain |  
+| bip_39_word_new_line11 | acoustic
+corn
+vehicle
+shift
+ghost
+border
+crater
+post
+dinosaur
+remain
+leg |  
+| bip_39_word_new_line12 | acoustic
+corn
+vehicle
+shift
+ghost
+border
+crater
+post
+dinosaur
+remain
+leg
+admit |  
+| bip_39_word_new_line2 | acoustic
+corn |  
+| bip_39_word_new_line3 | acoustic
+corn
+vehicle |  
+| bip_39_word_new_line4 | acoustic
+corn
+vehicle
+shift |  
+| bip_39_word_new_line5 | acoustic
+corn
+vehicle
+shift
+ghost |  
+| bip_39_word_new_line6 | acoustic
+corn
+vehicle
+shift
+ghost
+border |  
+| bip_39_word_new_line7 | acoustic
+corn
+vehicle
+shift
+ghost
+border
+crater |  
+| bip_39_word_new_line8 | acoustic
+corn
+vehicle
+shift
+ghost
+border
+crater
+post |  
+| bip_39_word_new_line9 | acoustic
+corn
+vehicle
+shift
+ghost
+border
+crater
+post
+dinosaur |  
+| bip_39_word_space_0 | ['acoustic', 'corn', 'vehicle', 'shift', 'ghost', 'border', 'crater', 'post', 'dinosaur', 'remain', 'leg', 'admit'] |  
+| bip_39_word_space_1 | acoustic |  
+| bip_39_word_space_10 | acoustic corn vehicle shift ghost border crater post dinosaur remain |  
+| bip_39_word_space_11 | acoustic corn vehicle shift ghost border crater post dinosaur remain leg |  
+| bip_39_word_space_12 | acoustic corn vehicle shift ghost border crater post dinosaur remain leg admit |  
+| bip_39_word_space_2 | acoustic corn |  
+| bip_39_word_space_3 | acoustic corn vehicle |  
+| bip_39_word_space_4 | acoustic corn vehicle shift |  
+| bip_39_word_space_5 | acoustic corn vehicle shift ghost |  
+| bip_39_word_space_6 | acoustic corn vehicle shift ghost border |  
+| bip_39_word_space_7 | acoustic corn vehicle shift ghost border crater |  
+| bip_39_word_space_8 | acoustic corn vehicle shift ghost border crater post |  
+| bip_39_word_space_9 | acoustic corn vehicle shift ghost border crater post dinosaur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

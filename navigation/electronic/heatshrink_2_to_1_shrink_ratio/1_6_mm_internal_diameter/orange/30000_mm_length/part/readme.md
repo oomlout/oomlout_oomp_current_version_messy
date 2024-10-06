@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: art between
+  * bip 39 word 3: art between silly
+  * bip 39 word: art between silly useless quote deer middle judge critic album pair also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | art |  
+| bip_39_word_new_br10 | art<br>between<br>silly<br>useless<br>quote<br>deer<br>middle<br>judge<br>critic<br>album |  
+| bip_39_word_new_br11 | art<br>between<br>silly<br>useless<br>quote<br>deer<br>middle<br>judge<br>critic<br>album<br>pair |  
+| bip_39_word_new_br12 | art<br>between<br>silly<br>useless<br>quote<br>deer<br>middle<br>judge<br>critic<br>album<br>pair<br>also |  
+| bip_39_word_new_br2 | art<br>between |  
+| bip_39_word_new_br3 | art<br>between<br>silly |  
+| bip_39_word_new_br4 | art<br>between<br>silly<br>useless |  
+| bip_39_word_new_br5 | art<br>between<br>silly<br>useless<br>quote |  
+| bip_39_word_new_br6 | art<br>between<br>silly<br>useless<br>quote<br>deer |  
+| bip_39_word_new_br7 | art<br>between<br>silly<br>useless<br>quote<br>deer<br>middle |  
+| bip_39_word_new_br8 | art<br>between<br>silly<br>useless<br>quote<br>deer<br>middle<br>judge |  
+| bip_39_word_new_br9 | art<br>between<br>silly<br>useless<br>quote<br>deer<br>middle<br>judge<br>critic |  
+| bip_39_word_new_line1 | art |  
+| bip_39_word_new_line10 | art
+between
+silly
+useless
+quote
+deer
+middle
+judge
+critic
+album |  
+| bip_39_word_new_line11 | art
+between
+silly
+useless
+quote
+deer
+middle
+judge
+critic
+album
+pair |  
+| bip_39_word_new_line12 | art
+between
+silly
+useless
+quote
+deer
+middle
+judge
+critic
+album
+pair
+also |  
+| bip_39_word_new_line2 | art
+between |  
+| bip_39_word_new_line3 | art
+between
+silly |  
+| bip_39_word_new_line4 | art
+between
+silly
+useless |  
+| bip_39_word_new_line5 | art
+between
+silly
+useless
+quote |  
+| bip_39_word_new_line6 | art
+between
+silly
+useless
+quote
+deer |  
+| bip_39_word_new_line7 | art
+between
+silly
+useless
+quote
+deer
+middle |  
+| bip_39_word_new_line8 | art
+between
+silly
+useless
+quote
+deer
+middle
+judge |  
+| bip_39_word_new_line9 | art
+between
+silly
+useless
+quote
+deer
+middle
+judge
+critic |  
+| bip_39_word_space_0 | ['art', 'between', 'silly', 'useless', 'quote', 'deer', 'middle', 'judge', 'critic', 'album', 'pair', 'also'] |  
+| bip_39_word_space_1 | art |  
+| bip_39_word_space_10 | art between silly useless quote deer middle judge critic album |  
+| bip_39_word_space_11 | art between silly useless quote deer middle judge critic album pair |  
+| bip_39_word_space_12 | art between silly useless quote deer middle judge critic album pair also |  
+| bip_39_word_space_2 | art between |  
+| bip_39_word_space_3 | art between silly |  
+| bip_39_word_space_4 | art between silly useless |  
+| bip_39_word_space_5 | art between silly useless quote |  
+| bip_39_word_space_6 | art between silly useless quote deer |  
+| bip_39_word_space_7 | art between silly useless quote deer middle |  
+| bip_39_word_space_8 | art between silly useless quote deer middle judge |  
+| bip_39_word_space_9 | art between silly useless quote deer middle judge critic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

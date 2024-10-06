@@ -1,3 +1,186 @@
+bip_39_word_new_br1: marble
+bip_39_word_new_br10: marble<br>service<br>cute<br>short<br>daughter<br>mouse<br>family<br>track<br>ski<br>hedgehog
+bip_39_word_new_br11: marble<br>service<br>cute<br>short<br>daughter<br>mouse<br>family<br>track<br>ski<br>hedgehog<br>cousin
+bip_39_word_new_br12: marble<br>service<br>cute<br>short<br>daughter<br>mouse<br>family<br>track<br>ski<br>hedgehog<br>cousin<br>antique
+bip_39_word_new_br2: marble<br>service
+bip_39_word_new_br3: marble<br>service<br>cute
+bip_39_word_new_br4: marble<br>service<br>cute<br>short
+bip_39_word_new_br5: marble<br>service<br>cute<br>short<br>daughter
+bip_39_word_new_br6: marble<br>service<br>cute<br>short<br>daughter<br>mouse
+bip_39_word_new_br7: marble<br>service<br>cute<br>short<br>daughter<br>mouse<br>family
+bip_39_word_new_br8: marble<br>service<br>cute<br>short<br>daughter<br>mouse<br>family<br>track
+bip_39_word_new_br9: marble<br>service<br>cute<br>short<br>daughter<br>mouse<br>family<br>track<br>ski
+bip_39_word_new_line1: marble
+bip_39_word_new_line10: 'marble
+
+  service
+
+  cute
+
+  short
+
+  daughter
+
+  mouse
+
+  family
+
+  track
+
+  ski
+
+  hedgehog'
+bip_39_word_new_line11: 'marble
+
+  service
+
+  cute
+
+  short
+
+  daughter
+
+  mouse
+
+  family
+
+  track
+
+  ski
+
+  hedgehog
+
+  cousin'
+bip_39_word_new_line12: 'marble
+
+  service
+
+  cute
+
+  short
+
+  daughter
+
+  mouse
+
+  family
+
+  track
+
+  ski
+
+  hedgehog
+
+  cousin
+
+  antique'
+bip_39_word_new_line2: 'marble
+
+  service'
+bip_39_word_new_line3: 'marble
+
+  service
+
+  cute'
+bip_39_word_new_line4: 'marble
+
+  service
+
+  cute
+
+  short'
+bip_39_word_new_line5: 'marble
+
+  service
+
+  cute
+
+  short
+
+  daughter'
+bip_39_word_new_line6: 'marble
+
+  service
+
+  cute
+
+  short
+
+  daughter
+
+  mouse'
+bip_39_word_new_line7: 'marble
+
+  service
+
+  cute
+
+  short
+
+  daughter
+
+  mouse
+
+  family'
+bip_39_word_new_line8: 'marble
+
+  service
+
+  cute
+
+  short
+
+  daughter
+
+  mouse
+
+  family
+
+  track'
+bip_39_word_new_line9: 'marble
+
+  service
+
+  cute
+
+  short
+
+  daughter
+
+  mouse
+
+  family
+
+  track
+
+  ski'
+bip_39_word_space_0:
+- marble
+- service
+- cute
+- short
+- daughter
+- mouse
+- family
+- track
+- ski
+- hedgehog
+- cousin
+- antique
+bip_39_word_space_1: marble
+bip_39_word_space_10: marble service cute short daughter mouse family track ski hedgehog
+bip_39_word_space_11: marble service cute short daughter mouse family track ski hedgehog
+  cousin
+bip_39_word_space_12: marble service cute short daughter mouse family track ski hedgehog
+  cousin antique
+bip_39_word_space_2: marble service
+bip_39_word_space_3: marble service cute
+bip_39_word_space_4: marble service cute short
+bip_39_word_space_5: marble service cute short daughter
+bip_39_word_space_6: marble service cute short daughter mouse
+bip_39_word_space_7: marble service cute short daughter mouse family
+bip_39_word_space_8: marble service cute short daughter mouse family track
+bip_39_word_space_9: marble service cute short daughter mouse family track ski
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

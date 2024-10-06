@@ -1,3 +1,187 @@
+bip_39_word_new_br1: muffin
+bip_39_word_new_br10: muffin<br>gravity<br>remember<br>trade<br>tiger<br>language<br>betray<br>cluster<br>dial<br>airport
+bip_39_word_new_br11: muffin<br>gravity<br>remember<br>trade<br>tiger<br>language<br>betray<br>cluster<br>dial<br>airport<br>yard
+bip_39_word_new_br12: muffin<br>gravity<br>remember<br>trade<br>tiger<br>language<br>betray<br>cluster<br>dial<br>airport<br>yard<br>animal
+bip_39_word_new_br2: muffin<br>gravity
+bip_39_word_new_br3: muffin<br>gravity<br>remember
+bip_39_word_new_br4: muffin<br>gravity<br>remember<br>trade
+bip_39_word_new_br5: muffin<br>gravity<br>remember<br>trade<br>tiger
+bip_39_word_new_br6: muffin<br>gravity<br>remember<br>trade<br>tiger<br>language
+bip_39_word_new_br7: muffin<br>gravity<br>remember<br>trade<br>tiger<br>language<br>betray
+bip_39_word_new_br8: muffin<br>gravity<br>remember<br>trade<br>tiger<br>language<br>betray<br>cluster
+bip_39_word_new_br9: muffin<br>gravity<br>remember<br>trade<br>tiger<br>language<br>betray<br>cluster<br>dial
+bip_39_word_new_line1: muffin
+bip_39_word_new_line10: 'muffin
+
+  gravity
+
+  remember
+
+  trade
+
+  tiger
+
+  language
+
+  betray
+
+  cluster
+
+  dial
+
+  airport'
+bip_39_word_new_line11: 'muffin
+
+  gravity
+
+  remember
+
+  trade
+
+  tiger
+
+  language
+
+  betray
+
+  cluster
+
+  dial
+
+  airport
+
+  yard'
+bip_39_word_new_line12: 'muffin
+
+  gravity
+
+  remember
+
+  trade
+
+  tiger
+
+  language
+
+  betray
+
+  cluster
+
+  dial
+
+  airport
+
+  yard
+
+  animal'
+bip_39_word_new_line2: 'muffin
+
+  gravity'
+bip_39_word_new_line3: 'muffin
+
+  gravity
+
+  remember'
+bip_39_word_new_line4: 'muffin
+
+  gravity
+
+  remember
+
+  trade'
+bip_39_word_new_line5: 'muffin
+
+  gravity
+
+  remember
+
+  trade
+
+  tiger'
+bip_39_word_new_line6: 'muffin
+
+  gravity
+
+  remember
+
+  trade
+
+  tiger
+
+  language'
+bip_39_word_new_line7: 'muffin
+
+  gravity
+
+  remember
+
+  trade
+
+  tiger
+
+  language
+
+  betray'
+bip_39_word_new_line8: 'muffin
+
+  gravity
+
+  remember
+
+  trade
+
+  tiger
+
+  language
+
+  betray
+
+  cluster'
+bip_39_word_new_line9: 'muffin
+
+  gravity
+
+  remember
+
+  trade
+
+  tiger
+
+  language
+
+  betray
+
+  cluster
+
+  dial'
+bip_39_word_space_0:
+- muffin
+- gravity
+- remember
+- trade
+- tiger
+- language
+- betray
+- cluster
+- dial
+- airport
+- yard
+- animal
+bip_39_word_space_1: muffin
+bip_39_word_space_10: muffin gravity remember trade tiger language betray cluster
+  dial airport
+bip_39_word_space_11: muffin gravity remember trade tiger language betray cluster
+  dial airport yard
+bip_39_word_space_12: muffin gravity remember trade tiger language betray cluster
+  dial airport yard animal
+bip_39_word_space_2: muffin gravity
+bip_39_word_space_3: muffin gravity remember
+bip_39_word_space_4: muffin gravity remember trade
+bip_39_word_space_5: muffin gravity remember trade tiger
+bip_39_word_space_6: muffin gravity remember trade tiger language
+bip_39_word_space_7: muffin gravity remember trade tiger language betray
+bip_39_word_space_8: muffin gravity remember trade tiger language betray cluster
+bip_39_word_space_9: muffin gravity remember trade tiger language betray cluster dial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

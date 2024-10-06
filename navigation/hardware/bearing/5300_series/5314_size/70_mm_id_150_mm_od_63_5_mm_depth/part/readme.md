@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tent blanket
+  * bip 39 word 3: tent blanket brass
+  * bip 39 word: tent blanket brass drive list force crash love bridge eight flight again
 
 ### other_codes
 * short_code: br5314
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tent |  
+| bip_39_word_new_br10 | tent<br>blanket<br>brass<br>drive<br>list<br>force<br>crash<br>love<br>bridge<br>eight |  
+| bip_39_word_new_br11 | tent<br>blanket<br>brass<br>drive<br>list<br>force<br>crash<br>love<br>bridge<br>eight<br>flight |  
+| bip_39_word_new_br12 | tent<br>blanket<br>brass<br>drive<br>list<br>force<br>crash<br>love<br>bridge<br>eight<br>flight<br>again |  
+| bip_39_word_new_br2 | tent<br>blanket |  
+| bip_39_word_new_br3 | tent<br>blanket<br>brass |  
+| bip_39_word_new_br4 | tent<br>blanket<br>brass<br>drive |  
+| bip_39_word_new_br5 | tent<br>blanket<br>brass<br>drive<br>list |  
+| bip_39_word_new_br6 | tent<br>blanket<br>brass<br>drive<br>list<br>force |  
+| bip_39_word_new_br7 | tent<br>blanket<br>brass<br>drive<br>list<br>force<br>crash |  
+| bip_39_word_new_br8 | tent<br>blanket<br>brass<br>drive<br>list<br>force<br>crash<br>love |  
+| bip_39_word_new_br9 | tent<br>blanket<br>brass<br>drive<br>list<br>force<br>crash<br>love<br>bridge |  
+| bip_39_word_new_line1 | tent |  
+| bip_39_word_new_line10 | tent
+blanket
+brass
+drive
+list
+force
+crash
+love
+bridge
+eight |  
+| bip_39_word_new_line11 | tent
+blanket
+brass
+drive
+list
+force
+crash
+love
+bridge
+eight
+flight |  
+| bip_39_word_new_line12 | tent
+blanket
+brass
+drive
+list
+force
+crash
+love
+bridge
+eight
+flight
+again |  
+| bip_39_word_new_line2 | tent
+blanket |  
+| bip_39_word_new_line3 | tent
+blanket
+brass |  
+| bip_39_word_new_line4 | tent
+blanket
+brass
+drive |  
+| bip_39_word_new_line5 | tent
+blanket
+brass
+drive
+list |  
+| bip_39_word_new_line6 | tent
+blanket
+brass
+drive
+list
+force |  
+| bip_39_word_new_line7 | tent
+blanket
+brass
+drive
+list
+force
+crash |  
+| bip_39_word_new_line8 | tent
+blanket
+brass
+drive
+list
+force
+crash
+love |  
+| bip_39_word_new_line9 | tent
+blanket
+brass
+drive
+list
+force
+crash
+love
+bridge |  
+| bip_39_word_space_0 | ['tent', 'blanket', 'brass', 'drive', 'list', 'force', 'crash', 'love', 'bridge', 'eight', 'flight', 'again'] |  
+| bip_39_word_space_1 | tent |  
+| bip_39_word_space_10 | tent blanket brass drive list force crash love bridge eight |  
+| bip_39_word_space_11 | tent blanket brass drive list force crash love bridge eight flight |  
+| bip_39_word_space_12 | tent blanket brass drive list force crash love bridge eight flight again |  
+| bip_39_word_space_2 | tent blanket |  
+| bip_39_word_space_3 | tent blanket brass |  
+| bip_39_word_space_4 | tent blanket brass drive |  
+| bip_39_word_space_5 | tent blanket brass drive list |  
+| bip_39_word_space_6 | tent blanket brass drive list force |  
+| bip_39_word_space_7 | tent blanket brass drive list force crash |  
+| bip_39_word_space_8 | tent blanket brass drive list force crash love |  
+| bip_39_word_space_9 | tent blanket brass drive list force crash love bridge |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

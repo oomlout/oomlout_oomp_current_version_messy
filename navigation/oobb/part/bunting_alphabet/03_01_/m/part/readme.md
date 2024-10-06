@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: m
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: section fiction
+  * bip 39 word 3: section fiction live
+  * bip 39 word: section fiction live remind void prosper trade return kangaroo cheese near allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | section |  
+| bip_39_word_new_br10 | section<br>fiction<br>live<br>remind<br>void<br>prosper<br>trade<br>return<br>kangaroo<br>cheese |  
+| bip_39_word_new_br11 | section<br>fiction<br>live<br>remind<br>void<br>prosper<br>trade<br>return<br>kangaroo<br>cheese<br>near |  
+| bip_39_word_new_br12 | section<br>fiction<br>live<br>remind<br>void<br>prosper<br>trade<br>return<br>kangaroo<br>cheese<br>near<br>allow |  
+| bip_39_word_new_br2 | section<br>fiction |  
+| bip_39_word_new_br3 | section<br>fiction<br>live |  
+| bip_39_word_new_br4 | section<br>fiction<br>live<br>remind |  
+| bip_39_word_new_br5 | section<br>fiction<br>live<br>remind<br>void |  
+| bip_39_word_new_br6 | section<br>fiction<br>live<br>remind<br>void<br>prosper |  
+| bip_39_word_new_br7 | section<br>fiction<br>live<br>remind<br>void<br>prosper<br>trade |  
+| bip_39_word_new_br8 | section<br>fiction<br>live<br>remind<br>void<br>prosper<br>trade<br>return |  
+| bip_39_word_new_br9 | section<br>fiction<br>live<br>remind<br>void<br>prosper<br>trade<br>return<br>kangaroo |  
+| bip_39_word_new_line1 | section |  
+| bip_39_word_new_line10 | section
+fiction
+live
+remind
+void
+prosper
+trade
+return
+kangaroo
+cheese |  
+| bip_39_word_new_line11 | section
+fiction
+live
+remind
+void
+prosper
+trade
+return
+kangaroo
+cheese
+near |  
+| bip_39_word_new_line12 | section
+fiction
+live
+remind
+void
+prosper
+trade
+return
+kangaroo
+cheese
+near
+allow |  
+| bip_39_word_new_line2 | section
+fiction |  
+| bip_39_word_new_line3 | section
+fiction
+live |  
+| bip_39_word_new_line4 | section
+fiction
+live
+remind |  
+| bip_39_word_new_line5 | section
+fiction
+live
+remind
+void |  
+| bip_39_word_new_line6 | section
+fiction
+live
+remind
+void
+prosper |  
+| bip_39_word_new_line7 | section
+fiction
+live
+remind
+void
+prosper
+trade |  
+| bip_39_word_new_line8 | section
+fiction
+live
+remind
+void
+prosper
+trade
+return |  
+| bip_39_word_new_line9 | section
+fiction
+live
+remind
+void
+prosper
+trade
+return
+kangaroo |  
+| bip_39_word_space_0 | ['section', 'fiction', 'live', 'remind', 'void', 'prosper', 'trade', 'return', 'kangaroo', 'cheese', 'near', 'allow'] |  
+| bip_39_word_space_1 | section |  
+| bip_39_word_space_10 | section fiction live remind void prosper trade return kangaroo cheese |  
+| bip_39_word_space_11 | section fiction live remind void prosper trade return kangaroo cheese near |  
+| bip_39_word_space_12 | section fiction live remind void prosper trade return kangaroo cheese near allow |  
+| bip_39_word_space_2 | section fiction |  
+| bip_39_word_space_3 | section fiction live |  
+| bip_39_word_space_4 | section fiction live remind |  
+| bip_39_word_space_5 | section fiction live remind void |  
+| bip_39_word_space_6 | section fiction live remind void prosper |  
+| bip_39_word_space_7 | section fiction live remind void prosper trade |  
+| bip_39_word_space_8 | section fiction live remind void prosper trade return |  
+| bip_39_word_space_9 | section fiction live remind void prosper trade return kangaroo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

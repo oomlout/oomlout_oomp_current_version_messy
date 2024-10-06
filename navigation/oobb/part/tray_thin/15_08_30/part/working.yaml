@@ -1,3 +1,187 @@
+bip_39_word_new_br1: dynamic
+bip_39_word_new_br10: dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december
+bip_39_word_new_br11: dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december<br>expose
+bip_39_word_new_br12: dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census<br>december<br>expose<br>assist
+bip_39_word_new_br2: dynamic<br>apple
+bip_39_word_new_br3: dynamic<br>apple<br>elephant
+bip_39_word_new_br4: dynamic<br>apple<br>elephant<br>friend
+bip_39_word_new_br5: dynamic<br>apple<br>elephant<br>friend<br>wide
+bip_39_word_new_br6: dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk
+bip_39_word_new_br7: dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect
+bip_39_word_new_br8: dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short
+bip_39_word_new_br9: dynamic<br>apple<br>elephant<br>friend<br>wide<br>chunk<br>protect<br>short<br>census
+bip_39_word_new_line1: dynamic
+bip_39_word_new_line10: 'dynamic
+
+  apple
+
+  elephant
+
+  friend
+
+  wide
+
+  chunk
+
+  protect
+
+  short
+
+  census
+
+  december'
+bip_39_word_new_line11: 'dynamic
+
+  apple
+
+  elephant
+
+  friend
+
+  wide
+
+  chunk
+
+  protect
+
+  short
+
+  census
+
+  december
+
+  expose'
+bip_39_word_new_line12: 'dynamic
+
+  apple
+
+  elephant
+
+  friend
+
+  wide
+
+  chunk
+
+  protect
+
+  short
+
+  census
+
+  december
+
+  expose
+
+  assist'
+bip_39_word_new_line2: 'dynamic
+
+  apple'
+bip_39_word_new_line3: 'dynamic
+
+  apple
+
+  elephant'
+bip_39_word_new_line4: 'dynamic
+
+  apple
+
+  elephant
+
+  friend'
+bip_39_word_new_line5: 'dynamic
+
+  apple
+
+  elephant
+
+  friend
+
+  wide'
+bip_39_word_new_line6: 'dynamic
+
+  apple
+
+  elephant
+
+  friend
+
+  wide
+
+  chunk'
+bip_39_word_new_line7: 'dynamic
+
+  apple
+
+  elephant
+
+  friend
+
+  wide
+
+  chunk
+
+  protect'
+bip_39_word_new_line8: 'dynamic
+
+  apple
+
+  elephant
+
+  friend
+
+  wide
+
+  chunk
+
+  protect
+
+  short'
+bip_39_word_new_line9: 'dynamic
+
+  apple
+
+  elephant
+
+  friend
+
+  wide
+
+  chunk
+
+  protect
+
+  short
+
+  census'
+bip_39_word_space_0:
+- dynamic
+- apple
+- elephant
+- friend
+- wide
+- chunk
+- protect
+- short
+- census
+- december
+- expose
+- assist
+bip_39_word_space_1: dynamic
+bip_39_word_space_10: dynamic apple elephant friend wide chunk protect short census
+  december
+bip_39_word_space_11: dynamic apple elephant friend wide chunk protect short census
+  december expose
+bip_39_word_space_12: dynamic apple elephant friend wide chunk protect short census
+  december expose assist
+bip_39_word_space_2: dynamic apple
+bip_39_word_space_3: dynamic apple elephant
+bip_39_word_space_4: dynamic apple elephant friend
+bip_39_word_space_5: dynamic apple elephant friend wide
+bip_39_word_space_6: dynamic apple elephant friend wide chunk
+bip_39_word_space_7: dynamic apple elephant friend wide chunk protect
+bip_39_word_space_8: dynamic apple elephant friend wide chunk protect short
+bip_39_word_space_9: dynamic apple elephant friend wide chunk protect short census
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

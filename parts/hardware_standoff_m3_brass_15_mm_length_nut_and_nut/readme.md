@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: marble anxiety
+  * bip 39 word 3: marble anxiety blast
+  * bip 39 word: marble anxiety blast chef fan vehicle mirror drum impose coconut eyebrow alien
 
 ### other_codes
 * short_code: so3br15nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | marble |  
+| bip_39_word_new_br10 | marble<br>anxiety<br>blast<br>chef<br>fan<br>vehicle<br>mirror<br>drum<br>impose<br>coconut |  
+| bip_39_word_new_br11 | marble<br>anxiety<br>blast<br>chef<br>fan<br>vehicle<br>mirror<br>drum<br>impose<br>coconut<br>eyebrow |  
+| bip_39_word_new_br12 | marble<br>anxiety<br>blast<br>chef<br>fan<br>vehicle<br>mirror<br>drum<br>impose<br>coconut<br>eyebrow<br>alien |  
+| bip_39_word_new_br2 | marble<br>anxiety |  
+| bip_39_word_new_br3 | marble<br>anxiety<br>blast |  
+| bip_39_word_new_br4 | marble<br>anxiety<br>blast<br>chef |  
+| bip_39_word_new_br5 | marble<br>anxiety<br>blast<br>chef<br>fan |  
+| bip_39_word_new_br6 | marble<br>anxiety<br>blast<br>chef<br>fan<br>vehicle |  
+| bip_39_word_new_br7 | marble<br>anxiety<br>blast<br>chef<br>fan<br>vehicle<br>mirror |  
+| bip_39_word_new_br8 | marble<br>anxiety<br>blast<br>chef<br>fan<br>vehicle<br>mirror<br>drum |  
+| bip_39_word_new_br9 | marble<br>anxiety<br>blast<br>chef<br>fan<br>vehicle<br>mirror<br>drum<br>impose |  
+| bip_39_word_new_line1 | marble |  
+| bip_39_word_new_line10 | marble
+anxiety
+blast
+chef
+fan
+vehicle
+mirror
+drum
+impose
+coconut |  
+| bip_39_word_new_line11 | marble
+anxiety
+blast
+chef
+fan
+vehicle
+mirror
+drum
+impose
+coconut
+eyebrow |  
+| bip_39_word_new_line12 | marble
+anxiety
+blast
+chef
+fan
+vehicle
+mirror
+drum
+impose
+coconut
+eyebrow
+alien |  
+| bip_39_word_new_line2 | marble
+anxiety |  
+| bip_39_word_new_line3 | marble
+anxiety
+blast |  
+| bip_39_word_new_line4 | marble
+anxiety
+blast
+chef |  
+| bip_39_word_new_line5 | marble
+anxiety
+blast
+chef
+fan |  
+| bip_39_word_new_line6 | marble
+anxiety
+blast
+chef
+fan
+vehicle |  
+| bip_39_word_new_line7 | marble
+anxiety
+blast
+chef
+fan
+vehicle
+mirror |  
+| bip_39_word_new_line8 | marble
+anxiety
+blast
+chef
+fan
+vehicle
+mirror
+drum |  
+| bip_39_word_new_line9 | marble
+anxiety
+blast
+chef
+fan
+vehicle
+mirror
+drum
+impose |  
+| bip_39_word_space_0 | ['marble', 'anxiety', 'blast', 'chef', 'fan', 'vehicle', 'mirror', 'drum', 'impose', 'coconut', 'eyebrow', 'alien'] |  
+| bip_39_word_space_1 | marble |  
+| bip_39_word_space_10 | marble anxiety blast chef fan vehicle mirror drum impose coconut |  
+| bip_39_word_space_11 | marble anxiety blast chef fan vehicle mirror drum impose coconut eyebrow |  
+| bip_39_word_space_12 | marble anxiety blast chef fan vehicle mirror drum impose coconut eyebrow alien |  
+| bip_39_word_space_2 | marble anxiety |  
+| bip_39_word_space_3 | marble anxiety blast |  
+| bip_39_word_space_4 | marble anxiety blast chef |  
+| bip_39_word_space_5 | marble anxiety blast chef fan |  
+| bip_39_word_space_6 | marble anxiety blast chef fan vehicle |  
+| bip_39_word_space_7 | marble anxiety blast chef fan vehicle mirror |  
+| bip_39_word_space_8 | marble anxiety blast chef fan vehicle mirror drum |  
+| bip_39_word_space_9 | marble anxiety blast chef fan vehicle mirror drum impose |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

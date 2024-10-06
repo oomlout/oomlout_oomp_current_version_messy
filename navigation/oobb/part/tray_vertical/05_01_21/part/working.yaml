@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sick
+bip_39_word_new_br10: sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey
+bip_39_word_new_br11: sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey<br>unusual
+bip_39_word_new_br12: sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme<br>journey<br>unusual<br>already
+bip_39_word_new_br2: sick<br>relief
+bip_39_word_new_br3: sick<br>relief<br>betray
+bip_39_word_new_br4: sick<br>relief<br>betray<br>labor
+bip_39_word_new_br5: sick<br>relief<br>betray<br>labor<br>aunt
+bip_39_word_new_br6: sick<br>relief<br>betray<br>labor<br>aunt<br>hockey
+bip_39_word_new_br7: sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper
+bip_39_word_new_br8: sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list
+bip_39_word_new_br9: sick<br>relief<br>betray<br>labor<br>aunt<br>hockey<br>pepper<br>list<br>theme
+bip_39_word_new_line1: sick
+bip_39_word_new_line10: 'sick
+
+  relief
+
+  betray
+
+  labor
+
+  aunt
+
+  hockey
+
+  pepper
+
+  list
+
+  theme
+
+  journey'
+bip_39_word_new_line11: 'sick
+
+  relief
+
+  betray
+
+  labor
+
+  aunt
+
+  hockey
+
+  pepper
+
+  list
+
+  theme
+
+  journey
+
+  unusual'
+bip_39_word_new_line12: 'sick
+
+  relief
+
+  betray
+
+  labor
+
+  aunt
+
+  hockey
+
+  pepper
+
+  list
+
+  theme
+
+  journey
+
+  unusual
+
+  already'
+bip_39_word_new_line2: 'sick
+
+  relief'
+bip_39_word_new_line3: 'sick
+
+  relief
+
+  betray'
+bip_39_word_new_line4: 'sick
+
+  relief
+
+  betray
+
+  labor'
+bip_39_word_new_line5: 'sick
+
+  relief
+
+  betray
+
+  labor
+
+  aunt'
+bip_39_word_new_line6: 'sick
+
+  relief
+
+  betray
+
+  labor
+
+  aunt
+
+  hockey'
+bip_39_word_new_line7: 'sick
+
+  relief
+
+  betray
+
+  labor
+
+  aunt
+
+  hockey
+
+  pepper'
+bip_39_word_new_line8: 'sick
+
+  relief
+
+  betray
+
+  labor
+
+  aunt
+
+  hockey
+
+  pepper
+
+  list'
+bip_39_word_new_line9: 'sick
+
+  relief
+
+  betray
+
+  labor
+
+  aunt
+
+  hockey
+
+  pepper
+
+  list
+
+  theme'
+bip_39_word_space_0:
+- sick
+- relief
+- betray
+- labor
+- aunt
+- hockey
+- pepper
+- list
+- theme
+- journey
+- unusual
+- already
+bip_39_word_space_1: sick
+bip_39_word_space_10: sick relief betray labor aunt hockey pepper list theme journey
+bip_39_word_space_11: sick relief betray labor aunt hockey pepper list theme journey
+  unusual
+bip_39_word_space_12: sick relief betray labor aunt hockey pepper list theme journey
+  unusual already
+bip_39_word_space_2: sick relief
+bip_39_word_space_3: sick relief betray
+bip_39_word_space_4: sick relief betray labor
+bip_39_word_space_5: sick relief betray labor aunt
+bip_39_word_space_6: sick relief betray labor aunt hockey
+bip_39_word_space_7: sick relief betray labor aunt hockey pepper
+bip_39_word_space_8: sick relief betray labor aunt hockey pepper list
+bip_39_word_space_9: sick relief betray labor aunt hockey pepper list theme
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

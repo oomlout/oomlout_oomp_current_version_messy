@@ -1,3 +1,186 @@
+bip_39_word_new_br1: better
+bip_39_word_new_br10: better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide
+bip_39_word_new_br11: better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide<br>close
+bip_39_word_new_br12: better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn<br>provide<br>close<br>arm
+bip_39_word_new_br2: better<br>token
+bip_39_word_new_br3: better<br>token<br>prize
+bip_39_word_new_br4: better<br>token<br>prize<br>census
+bip_39_word_new_br5: better<br>token<br>prize<br>census<br>response
+bip_39_word_new_br6: better<br>token<br>prize<br>census<br>response<br>proof
+bip_39_word_new_br7: better<br>token<br>prize<br>census<br>response<br>proof<br>jar
+bip_39_word_new_br8: better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid
+bip_39_word_new_br9: better<br>token<br>prize<br>census<br>response<br>proof<br>jar<br>pyramid<br>lawn
+bip_39_word_new_line1: better
+bip_39_word_new_line10: 'better
+
+  token
+
+  prize
+
+  census
+
+  response
+
+  proof
+
+  jar
+
+  pyramid
+
+  lawn
+
+  provide'
+bip_39_word_new_line11: 'better
+
+  token
+
+  prize
+
+  census
+
+  response
+
+  proof
+
+  jar
+
+  pyramid
+
+  lawn
+
+  provide
+
+  close'
+bip_39_word_new_line12: 'better
+
+  token
+
+  prize
+
+  census
+
+  response
+
+  proof
+
+  jar
+
+  pyramid
+
+  lawn
+
+  provide
+
+  close
+
+  arm'
+bip_39_word_new_line2: 'better
+
+  token'
+bip_39_word_new_line3: 'better
+
+  token
+
+  prize'
+bip_39_word_new_line4: 'better
+
+  token
+
+  prize
+
+  census'
+bip_39_word_new_line5: 'better
+
+  token
+
+  prize
+
+  census
+
+  response'
+bip_39_word_new_line6: 'better
+
+  token
+
+  prize
+
+  census
+
+  response
+
+  proof'
+bip_39_word_new_line7: 'better
+
+  token
+
+  prize
+
+  census
+
+  response
+
+  proof
+
+  jar'
+bip_39_word_new_line8: 'better
+
+  token
+
+  prize
+
+  census
+
+  response
+
+  proof
+
+  jar
+
+  pyramid'
+bip_39_word_new_line9: 'better
+
+  token
+
+  prize
+
+  census
+
+  response
+
+  proof
+
+  jar
+
+  pyramid
+
+  lawn'
+bip_39_word_space_0:
+- better
+- token
+- prize
+- census
+- response
+- proof
+- jar
+- pyramid
+- lawn
+- provide
+- close
+- arm
+bip_39_word_space_1: better
+bip_39_word_space_10: better token prize census response proof jar pyramid lawn provide
+bip_39_word_space_11: better token prize census response proof jar pyramid lawn provide
+  close
+bip_39_word_space_12: better token prize census response proof jar pyramid lawn provide
+  close arm
+bip_39_word_space_2: better token
+bip_39_word_space_3: better token prize
+bip_39_word_space_4: better token prize census
+bip_39_word_space_5: better token prize census response
+bip_39_word_space_6: better token prize census response proof
+bip_39_word_space_7: better token prize census response proof jar
+bip_39_word_space_8: better token prize census response proof jar pyramid
+bip_39_word_space_9: better token prize census response proof jar pyramid lawn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

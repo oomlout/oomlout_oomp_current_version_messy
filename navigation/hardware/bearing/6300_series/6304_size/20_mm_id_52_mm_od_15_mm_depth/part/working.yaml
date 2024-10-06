@@ -1,3 +1,186 @@
+bip_39_word_new_br1: syrup
+bip_39_word_new_br10: syrup<br>surround<br>idle<br>rare<br>dynamic<br>news<br>inform<br>kid<br>tunnel<br>crew
+bip_39_word_new_br11: syrup<br>surround<br>idle<br>rare<br>dynamic<br>news<br>inform<br>kid<br>tunnel<br>crew<br>link
+bip_39_word_new_br12: syrup<br>surround<br>idle<br>rare<br>dynamic<br>news<br>inform<br>kid<br>tunnel<br>crew<br>link<br>acid
+bip_39_word_new_br2: syrup<br>surround
+bip_39_word_new_br3: syrup<br>surround<br>idle
+bip_39_word_new_br4: syrup<br>surround<br>idle<br>rare
+bip_39_word_new_br5: syrup<br>surround<br>idle<br>rare<br>dynamic
+bip_39_word_new_br6: syrup<br>surround<br>idle<br>rare<br>dynamic<br>news
+bip_39_word_new_br7: syrup<br>surround<br>idle<br>rare<br>dynamic<br>news<br>inform
+bip_39_word_new_br8: syrup<br>surround<br>idle<br>rare<br>dynamic<br>news<br>inform<br>kid
+bip_39_word_new_br9: syrup<br>surround<br>idle<br>rare<br>dynamic<br>news<br>inform<br>kid<br>tunnel
+bip_39_word_new_line1: syrup
+bip_39_word_new_line10: 'syrup
+
+  surround
+
+  idle
+
+  rare
+
+  dynamic
+
+  news
+
+  inform
+
+  kid
+
+  tunnel
+
+  crew'
+bip_39_word_new_line11: 'syrup
+
+  surround
+
+  idle
+
+  rare
+
+  dynamic
+
+  news
+
+  inform
+
+  kid
+
+  tunnel
+
+  crew
+
+  link'
+bip_39_word_new_line12: 'syrup
+
+  surround
+
+  idle
+
+  rare
+
+  dynamic
+
+  news
+
+  inform
+
+  kid
+
+  tunnel
+
+  crew
+
+  link
+
+  acid'
+bip_39_word_new_line2: 'syrup
+
+  surround'
+bip_39_word_new_line3: 'syrup
+
+  surround
+
+  idle'
+bip_39_word_new_line4: 'syrup
+
+  surround
+
+  idle
+
+  rare'
+bip_39_word_new_line5: 'syrup
+
+  surround
+
+  idle
+
+  rare
+
+  dynamic'
+bip_39_word_new_line6: 'syrup
+
+  surround
+
+  idle
+
+  rare
+
+  dynamic
+
+  news'
+bip_39_word_new_line7: 'syrup
+
+  surround
+
+  idle
+
+  rare
+
+  dynamic
+
+  news
+
+  inform'
+bip_39_word_new_line8: 'syrup
+
+  surround
+
+  idle
+
+  rare
+
+  dynamic
+
+  news
+
+  inform
+
+  kid'
+bip_39_word_new_line9: 'syrup
+
+  surround
+
+  idle
+
+  rare
+
+  dynamic
+
+  news
+
+  inform
+
+  kid
+
+  tunnel'
+bip_39_word_space_0:
+- syrup
+- surround
+- idle
+- rare
+- dynamic
+- news
+- inform
+- kid
+- tunnel
+- crew
+- link
+- acid
+bip_39_word_space_1: syrup
+bip_39_word_space_10: syrup surround idle rare dynamic news inform kid tunnel crew
+bip_39_word_space_11: syrup surround idle rare dynamic news inform kid tunnel crew
+  link
+bip_39_word_space_12: syrup surround idle rare dynamic news inform kid tunnel crew
+  link acid
+bip_39_word_space_2: syrup surround
+bip_39_word_space_3: syrup surround idle
+bip_39_word_space_4: syrup surround idle rare
+bip_39_word_space_5: syrup surround idle rare dynamic
+bip_39_word_space_6: syrup surround idle rare dynamic news
+bip_39_word_space_7: syrup surround idle rare dynamic news inform
+bip_39_word_space_8: syrup surround idle rare dynamic news inform kid
+bip_39_word_space_9: syrup surround idle rare dynamic news inform kid tunnel
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

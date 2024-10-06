@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: useful sting
+  * bip 39 word 3: useful sting total
+  * bip 39 word: useful sting total coast network model rocket bird nation catalog wall age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | useful |  
+| bip_39_word_new_br10 | useful<br>sting<br>total<br>coast<br>network<br>model<br>rocket<br>bird<br>nation<br>catalog |  
+| bip_39_word_new_br11 | useful<br>sting<br>total<br>coast<br>network<br>model<br>rocket<br>bird<br>nation<br>catalog<br>wall |  
+| bip_39_word_new_br12 | useful<br>sting<br>total<br>coast<br>network<br>model<br>rocket<br>bird<br>nation<br>catalog<br>wall<br>age |  
+| bip_39_word_new_br2 | useful<br>sting |  
+| bip_39_word_new_br3 | useful<br>sting<br>total |  
+| bip_39_word_new_br4 | useful<br>sting<br>total<br>coast |  
+| bip_39_word_new_br5 | useful<br>sting<br>total<br>coast<br>network |  
+| bip_39_word_new_br6 | useful<br>sting<br>total<br>coast<br>network<br>model |  
+| bip_39_word_new_br7 | useful<br>sting<br>total<br>coast<br>network<br>model<br>rocket |  
+| bip_39_word_new_br8 | useful<br>sting<br>total<br>coast<br>network<br>model<br>rocket<br>bird |  
+| bip_39_word_new_br9 | useful<br>sting<br>total<br>coast<br>network<br>model<br>rocket<br>bird<br>nation |  
+| bip_39_word_new_line1 | useful |  
+| bip_39_word_new_line10 | useful
+sting
+total
+coast
+network
+model
+rocket
+bird
+nation
+catalog |  
+| bip_39_word_new_line11 | useful
+sting
+total
+coast
+network
+model
+rocket
+bird
+nation
+catalog
+wall |  
+| bip_39_word_new_line12 | useful
+sting
+total
+coast
+network
+model
+rocket
+bird
+nation
+catalog
+wall
+age |  
+| bip_39_word_new_line2 | useful
+sting |  
+| bip_39_word_new_line3 | useful
+sting
+total |  
+| bip_39_word_new_line4 | useful
+sting
+total
+coast |  
+| bip_39_word_new_line5 | useful
+sting
+total
+coast
+network |  
+| bip_39_word_new_line6 | useful
+sting
+total
+coast
+network
+model |  
+| bip_39_word_new_line7 | useful
+sting
+total
+coast
+network
+model
+rocket |  
+| bip_39_word_new_line8 | useful
+sting
+total
+coast
+network
+model
+rocket
+bird |  
+| bip_39_word_new_line9 | useful
+sting
+total
+coast
+network
+model
+rocket
+bird
+nation |  
+| bip_39_word_space_0 | ['useful', 'sting', 'total', 'coast', 'network', 'model', 'rocket', 'bird', 'nation', 'catalog', 'wall', 'age'] |  
+| bip_39_word_space_1 | useful |  
+| bip_39_word_space_10 | useful sting total coast network model rocket bird nation catalog |  
+| bip_39_word_space_11 | useful sting total coast network model rocket bird nation catalog wall |  
+| bip_39_word_space_12 | useful sting total coast network model rocket bird nation catalog wall age |  
+| bip_39_word_space_2 | useful sting |  
+| bip_39_word_space_3 | useful sting total |  
+| bip_39_word_space_4 | useful sting total coast |  
+| bip_39_word_space_5 | useful sting total coast network |  
+| bip_39_word_space_6 | useful sting total coast network model |  
+| bip_39_word_space_7 | useful sting total coast network model rocket |  
+| bip_39_word_space_8 | useful sting total coast network model rocket bird |  
+| bip_39_word_space_9 | useful sting total coast network model rocket bird nation |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

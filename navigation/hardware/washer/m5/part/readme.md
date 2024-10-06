@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: two spawn
+  * bip 39 word 3: two spawn recipe
+  * bip 39 word: two spawn recipe host damage where sell such furnace shop matter all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | two |  
+| bip_39_word_new_br10 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop |  
+| bip_39_word_new_br11 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop<br>matter |  
+| bip_39_word_new_br12 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace<br>shop<br>matter<br>all |  
+| bip_39_word_new_br2 | two<br>spawn |  
+| bip_39_word_new_br3 | two<br>spawn<br>recipe |  
+| bip_39_word_new_br4 | two<br>spawn<br>recipe<br>host |  
+| bip_39_word_new_br5 | two<br>spawn<br>recipe<br>host<br>damage |  
+| bip_39_word_new_br6 | two<br>spawn<br>recipe<br>host<br>damage<br>where |  
+| bip_39_word_new_br7 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell |  
+| bip_39_word_new_br8 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such |  
+| bip_39_word_new_br9 | two<br>spawn<br>recipe<br>host<br>damage<br>where<br>sell<br>such<br>furnace |  
+| bip_39_word_new_line1 | two |  
+| bip_39_word_new_line10 | two
+spawn
+recipe
+host
+damage
+where
+sell
+such
+furnace
+shop |  
+| bip_39_word_new_line11 | two
+spawn
+recipe
+host
+damage
+where
+sell
+such
+furnace
+shop
+matter |  
+| bip_39_word_new_line12 | two
+spawn
+recipe
+host
+damage
+where
+sell
+such
+furnace
+shop
+matter
+all |  
+| bip_39_word_new_line2 | two
+spawn |  
+| bip_39_word_new_line3 | two
+spawn
+recipe |  
+| bip_39_word_new_line4 | two
+spawn
+recipe
+host |  
+| bip_39_word_new_line5 | two
+spawn
+recipe
+host
+damage |  
+| bip_39_word_new_line6 | two
+spawn
+recipe
+host
+damage
+where |  
+| bip_39_word_new_line7 | two
+spawn
+recipe
+host
+damage
+where
+sell |  
+| bip_39_word_new_line8 | two
+spawn
+recipe
+host
+damage
+where
+sell
+such |  
+| bip_39_word_new_line9 | two
+spawn
+recipe
+host
+damage
+where
+sell
+such
+furnace |  
+| bip_39_word_space_0 | ['two', 'spawn', 'recipe', 'host', 'damage', 'where', 'sell', 'such', 'furnace', 'shop', 'matter', 'all'] |  
+| bip_39_word_space_1 | two |  
+| bip_39_word_space_10 | two spawn recipe host damage where sell such furnace shop |  
+| bip_39_word_space_11 | two spawn recipe host damage where sell such furnace shop matter |  
+| bip_39_word_space_12 | two spawn recipe host damage where sell such furnace shop matter all |  
+| bip_39_word_space_2 | two spawn |  
+| bip_39_word_space_3 | two spawn recipe |  
+| bip_39_word_space_4 | two spawn recipe host |  
+| bip_39_word_space_5 | two spawn recipe host damage |  
+| bip_39_word_space_6 | two spawn recipe host damage where |  
+| bip_39_word_space_7 | two spawn recipe host damage where sell |  
+| bip_39_word_space_8 | two spawn recipe host damage where sell such |  
+| bip_39_word_space_9 | two spawn recipe host damage where sell such furnace |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

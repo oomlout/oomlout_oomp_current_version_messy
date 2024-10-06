@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: electric bless
+  * bip 39 word 3: electric bless piece
+  * bip 39 word: electric bless piece canyon scorpion ethics junior rice endorse burst hobby aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | electric |  
+| bip_39_word_new_br10 | electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics<br>junior<br>rice<br>endorse<br>burst |  
+| bip_39_word_new_br11 | electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics<br>junior<br>rice<br>endorse<br>burst<br>hobby |  
+| bip_39_word_new_br12 | electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics<br>junior<br>rice<br>endorse<br>burst<br>hobby<br>aerobic |  
+| bip_39_word_new_br2 | electric<br>bless |  
+| bip_39_word_new_br3 | electric<br>bless<br>piece |  
+| bip_39_word_new_br4 | electric<br>bless<br>piece<br>canyon |  
+| bip_39_word_new_br5 | electric<br>bless<br>piece<br>canyon<br>scorpion |  
+| bip_39_word_new_br6 | electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics |  
+| bip_39_word_new_br7 | electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics<br>junior |  
+| bip_39_word_new_br8 | electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics<br>junior<br>rice |  
+| bip_39_word_new_br9 | electric<br>bless<br>piece<br>canyon<br>scorpion<br>ethics<br>junior<br>rice<br>endorse |  
+| bip_39_word_new_line1 | electric |  
+| bip_39_word_new_line10 | electric
+bless
+piece
+canyon
+scorpion
+ethics
+junior
+rice
+endorse
+burst |  
+| bip_39_word_new_line11 | electric
+bless
+piece
+canyon
+scorpion
+ethics
+junior
+rice
+endorse
+burst
+hobby |  
+| bip_39_word_new_line12 | electric
+bless
+piece
+canyon
+scorpion
+ethics
+junior
+rice
+endorse
+burst
+hobby
+aerobic |  
+| bip_39_word_new_line2 | electric
+bless |  
+| bip_39_word_new_line3 | electric
+bless
+piece |  
+| bip_39_word_new_line4 | electric
+bless
+piece
+canyon |  
+| bip_39_word_new_line5 | electric
+bless
+piece
+canyon
+scorpion |  
+| bip_39_word_new_line6 | electric
+bless
+piece
+canyon
+scorpion
+ethics |  
+| bip_39_word_new_line7 | electric
+bless
+piece
+canyon
+scorpion
+ethics
+junior |  
+| bip_39_word_new_line8 | electric
+bless
+piece
+canyon
+scorpion
+ethics
+junior
+rice |  
+| bip_39_word_new_line9 | electric
+bless
+piece
+canyon
+scorpion
+ethics
+junior
+rice
+endorse |  
+| bip_39_word_space_0 | ['electric', 'bless', 'piece', 'canyon', 'scorpion', 'ethics', 'junior', 'rice', 'endorse', 'burst', 'hobby', 'aerobic'] |  
+| bip_39_word_space_1 | electric |  
+| bip_39_word_space_10 | electric bless piece canyon scorpion ethics junior rice endorse burst |  
+| bip_39_word_space_11 | electric bless piece canyon scorpion ethics junior rice endorse burst hobby |  
+| bip_39_word_space_12 | electric bless piece canyon scorpion ethics junior rice endorse burst hobby aerobic |  
+| bip_39_word_space_2 | electric bless |  
+| bip_39_word_space_3 | electric bless piece |  
+| bip_39_word_space_4 | electric bless piece canyon |  
+| bip_39_word_space_5 | electric bless piece canyon scorpion |  
+| bip_39_word_space_6 | electric bless piece canyon scorpion ethics |  
+| bip_39_word_space_7 | electric bless piece canyon scorpion ethics junior |  
+| bip_39_word_space_8 | electric bless piece canyon scorpion ethics junior rice |  
+| bip_39_word_space_9 | electric bless piece canyon scorpion ethics junior rice endorse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

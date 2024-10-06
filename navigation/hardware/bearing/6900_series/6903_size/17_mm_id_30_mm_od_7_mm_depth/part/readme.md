@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: claim adult
+  * bip 39 word 3: claim adult axis
+  * bip 39 word: claim adult axis interest social all stem observe inside hospital install antenna
 
 ### other_codes
 * short_code: br6903
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | claim |  
+| bip_39_word_new_br10 | claim<br>adult<br>axis<br>interest<br>social<br>all<br>stem<br>observe<br>inside<br>hospital |  
+| bip_39_word_new_br11 | claim<br>adult<br>axis<br>interest<br>social<br>all<br>stem<br>observe<br>inside<br>hospital<br>install |  
+| bip_39_word_new_br12 | claim<br>adult<br>axis<br>interest<br>social<br>all<br>stem<br>observe<br>inside<br>hospital<br>install<br>antenna |  
+| bip_39_word_new_br2 | claim<br>adult |  
+| bip_39_word_new_br3 | claim<br>adult<br>axis |  
+| bip_39_word_new_br4 | claim<br>adult<br>axis<br>interest |  
+| bip_39_word_new_br5 | claim<br>adult<br>axis<br>interest<br>social |  
+| bip_39_word_new_br6 | claim<br>adult<br>axis<br>interest<br>social<br>all |  
+| bip_39_word_new_br7 | claim<br>adult<br>axis<br>interest<br>social<br>all<br>stem |  
+| bip_39_word_new_br8 | claim<br>adult<br>axis<br>interest<br>social<br>all<br>stem<br>observe |  
+| bip_39_word_new_br9 | claim<br>adult<br>axis<br>interest<br>social<br>all<br>stem<br>observe<br>inside |  
+| bip_39_word_new_line1 | claim |  
+| bip_39_word_new_line10 | claim
+adult
+axis
+interest
+social
+all
+stem
+observe
+inside
+hospital |  
+| bip_39_word_new_line11 | claim
+adult
+axis
+interest
+social
+all
+stem
+observe
+inside
+hospital
+install |  
+| bip_39_word_new_line12 | claim
+adult
+axis
+interest
+social
+all
+stem
+observe
+inside
+hospital
+install
+antenna |  
+| bip_39_word_new_line2 | claim
+adult |  
+| bip_39_word_new_line3 | claim
+adult
+axis |  
+| bip_39_word_new_line4 | claim
+adult
+axis
+interest |  
+| bip_39_word_new_line5 | claim
+adult
+axis
+interest
+social |  
+| bip_39_word_new_line6 | claim
+adult
+axis
+interest
+social
+all |  
+| bip_39_word_new_line7 | claim
+adult
+axis
+interest
+social
+all
+stem |  
+| bip_39_word_new_line8 | claim
+adult
+axis
+interest
+social
+all
+stem
+observe |  
+| bip_39_word_new_line9 | claim
+adult
+axis
+interest
+social
+all
+stem
+observe
+inside |  
+| bip_39_word_space_0 | ['claim', 'adult', 'axis', 'interest', 'social', 'all', 'stem', 'observe', 'inside', 'hospital', 'install', 'antenna'] |  
+| bip_39_word_space_1 | claim |  
+| bip_39_word_space_10 | claim adult axis interest social all stem observe inside hospital |  
+| bip_39_word_space_11 | claim adult axis interest social all stem observe inside hospital install |  
+| bip_39_word_space_12 | claim adult axis interest social all stem observe inside hospital install antenna |  
+| bip_39_word_space_2 | claim adult |  
+| bip_39_word_space_3 | claim adult axis |  
+| bip_39_word_space_4 | claim adult axis interest |  
+| bip_39_word_space_5 | claim adult axis interest social |  
+| bip_39_word_space_6 | claim adult axis interest social all |  
+| bip_39_word_space_7 | claim adult axis interest social all stem |  
+| bip_39_word_space_8 | claim adult axis interest social all stem observe |  
+| bip_39_word_space_9 | claim adult axis interest social all stem observe inside |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

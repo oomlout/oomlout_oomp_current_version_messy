@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: expire antique
+  * bip 39 word 3: expire antique cup
+  * bip 39 word: expire antique cup vacant critic woman flame key divide flower nation apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | expire |  
+| bip_39_word_new_br10 | expire<br>antique<br>cup<br>vacant<br>critic<br>woman<br>flame<br>key<br>divide<br>flower |  
+| bip_39_word_new_br11 | expire<br>antique<br>cup<br>vacant<br>critic<br>woman<br>flame<br>key<br>divide<br>flower<br>nation |  
+| bip_39_word_new_br12 | expire<br>antique<br>cup<br>vacant<br>critic<br>woman<br>flame<br>key<br>divide<br>flower<br>nation<br>apple |  
+| bip_39_word_new_br2 | expire<br>antique |  
+| bip_39_word_new_br3 | expire<br>antique<br>cup |  
+| bip_39_word_new_br4 | expire<br>antique<br>cup<br>vacant |  
+| bip_39_word_new_br5 | expire<br>antique<br>cup<br>vacant<br>critic |  
+| bip_39_word_new_br6 | expire<br>antique<br>cup<br>vacant<br>critic<br>woman |  
+| bip_39_word_new_br7 | expire<br>antique<br>cup<br>vacant<br>critic<br>woman<br>flame |  
+| bip_39_word_new_br8 | expire<br>antique<br>cup<br>vacant<br>critic<br>woman<br>flame<br>key |  
+| bip_39_word_new_br9 | expire<br>antique<br>cup<br>vacant<br>critic<br>woman<br>flame<br>key<br>divide |  
+| bip_39_word_new_line1 | expire |  
+| bip_39_word_new_line10 | expire
+antique
+cup
+vacant
+critic
+woman
+flame
+key
+divide
+flower |  
+| bip_39_word_new_line11 | expire
+antique
+cup
+vacant
+critic
+woman
+flame
+key
+divide
+flower
+nation |  
+| bip_39_word_new_line12 | expire
+antique
+cup
+vacant
+critic
+woman
+flame
+key
+divide
+flower
+nation
+apple |  
+| bip_39_word_new_line2 | expire
+antique |  
+| bip_39_word_new_line3 | expire
+antique
+cup |  
+| bip_39_word_new_line4 | expire
+antique
+cup
+vacant |  
+| bip_39_word_new_line5 | expire
+antique
+cup
+vacant
+critic |  
+| bip_39_word_new_line6 | expire
+antique
+cup
+vacant
+critic
+woman |  
+| bip_39_word_new_line7 | expire
+antique
+cup
+vacant
+critic
+woman
+flame |  
+| bip_39_word_new_line8 | expire
+antique
+cup
+vacant
+critic
+woman
+flame
+key |  
+| bip_39_word_new_line9 | expire
+antique
+cup
+vacant
+critic
+woman
+flame
+key
+divide |  
+| bip_39_word_space_0 | ['expire', 'antique', 'cup', 'vacant', 'critic', 'woman', 'flame', 'key', 'divide', 'flower', 'nation', 'apple'] |  
+| bip_39_word_space_1 | expire |  
+| bip_39_word_space_10 | expire antique cup vacant critic woman flame key divide flower |  
+| bip_39_word_space_11 | expire antique cup vacant critic woman flame key divide flower nation |  
+| bip_39_word_space_12 | expire antique cup vacant critic woman flame key divide flower nation apple |  
+| bip_39_word_space_2 | expire antique |  
+| bip_39_word_space_3 | expire antique cup |  
+| bip_39_word_space_4 | expire antique cup vacant |  
+| bip_39_word_space_5 | expire antique cup vacant critic |  
+| bip_39_word_space_6 | expire antique cup vacant critic woman |  
+| bip_39_word_space_7 | expire antique cup vacant critic woman flame |  
+| bip_39_word_space_8 | expire antique cup vacant critic woman flame key |  
+| bip_39_word_space_9 | expire antique cup vacant critic woman flame key divide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

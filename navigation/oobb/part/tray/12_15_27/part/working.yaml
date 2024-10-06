@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enable
+bip_39_word_new_br10: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify<br>health<br>skin<br>arrow<br>hair
+bip_39_word_new_br11: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify<br>health<br>skin<br>arrow<br>hair<br>fashion
+bip_39_word_new_br12: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify<br>health<br>skin<br>arrow<br>hair<br>fashion<br>annual
+bip_39_word_new_br2: enable<br>cloth
+bip_39_word_new_br3: enable<br>cloth<br>broom
+bip_39_word_new_br4: enable<br>cloth<br>broom<br>bracket
+bip_39_word_new_br5: enable<br>cloth<br>broom<br>bracket<br>metal
+bip_39_word_new_br6: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify
+bip_39_word_new_br7: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify<br>health
+bip_39_word_new_br8: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify<br>health<br>skin
+bip_39_word_new_br9: enable<br>cloth<br>broom<br>bracket<br>metal<br>modify<br>health<br>skin<br>arrow
+bip_39_word_new_line1: enable
+bip_39_word_new_line10: 'enable
+
+  cloth
+
+  broom
+
+  bracket
+
+  metal
+
+  modify
+
+  health
+
+  skin
+
+  arrow
+
+  hair'
+bip_39_word_new_line11: 'enable
+
+  cloth
+
+  broom
+
+  bracket
+
+  metal
+
+  modify
+
+  health
+
+  skin
+
+  arrow
+
+  hair
+
+  fashion'
+bip_39_word_new_line12: 'enable
+
+  cloth
+
+  broom
+
+  bracket
+
+  metal
+
+  modify
+
+  health
+
+  skin
+
+  arrow
+
+  hair
+
+  fashion
+
+  annual'
+bip_39_word_new_line2: 'enable
+
+  cloth'
+bip_39_word_new_line3: 'enable
+
+  cloth
+
+  broom'
+bip_39_word_new_line4: 'enable
+
+  cloth
+
+  broom
+
+  bracket'
+bip_39_word_new_line5: 'enable
+
+  cloth
+
+  broom
+
+  bracket
+
+  metal'
+bip_39_word_new_line6: 'enable
+
+  cloth
+
+  broom
+
+  bracket
+
+  metal
+
+  modify'
+bip_39_word_new_line7: 'enable
+
+  cloth
+
+  broom
+
+  bracket
+
+  metal
+
+  modify
+
+  health'
+bip_39_word_new_line8: 'enable
+
+  cloth
+
+  broom
+
+  bracket
+
+  metal
+
+  modify
+
+  health
+
+  skin'
+bip_39_word_new_line9: 'enable
+
+  cloth
+
+  broom
+
+  bracket
+
+  metal
+
+  modify
+
+  health
+
+  skin
+
+  arrow'
+bip_39_word_space_0:
+- enable
+- cloth
+- broom
+- bracket
+- metal
+- modify
+- health
+- skin
+- arrow
+- hair
+- fashion
+- annual
+bip_39_word_space_1: enable
+bip_39_word_space_10: enable cloth broom bracket metal modify health skin arrow hair
+bip_39_word_space_11: enable cloth broom bracket metal modify health skin arrow hair
+  fashion
+bip_39_word_space_12: enable cloth broom bracket metal modify health skin arrow hair
+  fashion annual
+bip_39_word_space_2: enable cloth
+bip_39_word_space_3: enable cloth broom
+bip_39_word_space_4: enable cloth broom bracket
+bip_39_word_space_5: enable cloth broom bracket metal
+bip_39_word_space_6: enable cloth broom bracket metal modify
+bip_39_word_space_7: enable cloth broom bracket metal modify health
+bip_39_word_space_8: enable cloth broom bracket metal modify health skin
+bip_39_word_space_9: enable cloth broom bracket metal modify health skin arrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

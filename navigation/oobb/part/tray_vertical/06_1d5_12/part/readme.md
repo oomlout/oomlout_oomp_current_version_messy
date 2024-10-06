@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vintage glad
+  * bip 39 word 3: vintage glad burst
+  * bip 39 word: vintage glad burst life stay vast immune miss city fence quarter acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vintage |  
+| bip_39_word_new_br10 | vintage<br>glad<br>burst<br>life<br>stay<br>vast<br>immune<br>miss<br>city<br>fence |  
+| bip_39_word_new_br11 | vintage<br>glad<br>burst<br>life<br>stay<br>vast<br>immune<br>miss<br>city<br>fence<br>quarter |  
+| bip_39_word_new_br12 | vintage<br>glad<br>burst<br>life<br>stay<br>vast<br>immune<br>miss<br>city<br>fence<br>quarter<br>acoustic |  
+| bip_39_word_new_br2 | vintage<br>glad |  
+| bip_39_word_new_br3 | vintage<br>glad<br>burst |  
+| bip_39_word_new_br4 | vintage<br>glad<br>burst<br>life |  
+| bip_39_word_new_br5 | vintage<br>glad<br>burst<br>life<br>stay |  
+| bip_39_word_new_br6 | vintage<br>glad<br>burst<br>life<br>stay<br>vast |  
+| bip_39_word_new_br7 | vintage<br>glad<br>burst<br>life<br>stay<br>vast<br>immune |  
+| bip_39_word_new_br8 | vintage<br>glad<br>burst<br>life<br>stay<br>vast<br>immune<br>miss |  
+| bip_39_word_new_br9 | vintage<br>glad<br>burst<br>life<br>stay<br>vast<br>immune<br>miss<br>city |  
+| bip_39_word_new_line1 | vintage |  
+| bip_39_word_new_line10 | vintage
+glad
+burst
+life
+stay
+vast
+immune
+miss
+city
+fence |  
+| bip_39_word_new_line11 | vintage
+glad
+burst
+life
+stay
+vast
+immune
+miss
+city
+fence
+quarter |  
+| bip_39_word_new_line12 | vintage
+glad
+burst
+life
+stay
+vast
+immune
+miss
+city
+fence
+quarter
+acoustic |  
+| bip_39_word_new_line2 | vintage
+glad |  
+| bip_39_word_new_line3 | vintage
+glad
+burst |  
+| bip_39_word_new_line4 | vintage
+glad
+burst
+life |  
+| bip_39_word_new_line5 | vintage
+glad
+burst
+life
+stay |  
+| bip_39_word_new_line6 | vintage
+glad
+burst
+life
+stay
+vast |  
+| bip_39_word_new_line7 | vintage
+glad
+burst
+life
+stay
+vast
+immune |  
+| bip_39_word_new_line8 | vintage
+glad
+burst
+life
+stay
+vast
+immune
+miss |  
+| bip_39_word_new_line9 | vintage
+glad
+burst
+life
+stay
+vast
+immune
+miss
+city |  
+| bip_39_word_space_0 | ['vintage', 'glad', 'burst', 'life', 'stay', 'vast', 'immune', 'miss', 'city', 'fence', 'quarter', 'acoustic'] |  
+| bip_39_word_space_1 | vintage |  
+| bip_39_word_space_10 | vintage glad burst life stay vast immune miss city fence |  
+| bip_39_word_space_11 | vintage glad burst life stay vast immune miss city fence quarter |  
+| bip_39_word_space_12 | vintage glad burst life stay vast immune miss city fence quarter acoustic |  
+| bip_39_word_space_2 | vintage glad |  
+| bip_39_word_space_3 | vintage glad burst |  
+| bip_39_word_space_4 | vintage glad burst life |  
+| bip_39_word_space_5 | vintage glad burst life stay |  
+| bip_39_word_space_6 | vintage glad burst life stay vast |  
+| bip_39_word_space_7 | vintage glad burst life stay vast immune |  
+| bip_39_word_space_8 | vintage glad burst life stay vast immune miss |  
+| bip_39_word_space_9 | vintage glad burst life stay vast immune miss city |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

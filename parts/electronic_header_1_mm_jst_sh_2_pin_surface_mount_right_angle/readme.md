@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: abstract car
+  * bip 39 word 3: abstract car slogan
+  * bip 39 word: abstract car slogan salad cram vault blast devote book key jeans arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | abstract |  
+| bip_39_word_new_br10 | abstract<br>car<br>slogan<br>salad<br>cram<br>vault<br>blast<br>devote<br>book<br>key |  
+| bip_39_word_new_br11 | abstract<br>car<br>slogan<br>salad<br>cram<br>vault<br>blast<br>devote<br>book<br>key<br>jeans |  
+| bip_39_word_new_br12 | abstract<br>car<br>slogan<br>salad<br>cram<br>vault<br>blast<br>devote<br>book<br>key<br>jeans<br>arctic |  
+| bip_39_word_new_br2 | abstract<br>car |  
+| bip_39_word_new_br3 | abstract<br>car<br>slogan |  
+| bip_39_word_new_br4 | abstract<br>car<br>slogan<br>salad |  
+| bip_39_word_new_br5 | abstract<br>car<br>slogan<br>salad<br>cram |  
+| bip_39_word_new_br6 | abstract<br>car<br>slogan<br>salad<br>cram<br>vault |  
+| bip_39_word_new_br7 | abstract<br>car<br>slogan<br>salad<br>cram<br>vault<br>blast |  
+| bip_39_word_new_br8 | abstract<br>car<br>slogan<br>salad<br>cram<br>vault<br>blast<br>devote |  
+| bip_39_word_new_br9 | abstract<br>car<br>slogan<br>salad<br>cram<br>vault<br>blast<br>devote<br>book |  
+| bip_39_word_new_line1 | abstract |  
+| bip_39_word_new_line10 | abstract
+car
+slogan
+salad
+cram
+vault
+blast
+devote
+book
+key |  
+| bip_39_word_new_line11 | abstract
+car
+slogan
+salad
+cram
+vault
+blast
+devote
+book
+key
+jeans |  
+| bip_39_word_new_line12 | abstract
+car
+slogan
+salad
+cram
+vault
+blast
+devote
+book
+key
+jeans
+arctic |  
+| bip_39_word_new_line2 | abstract
+car |  
+| bip_39_word_new_line3 | abstract
+car
+slogan |  
+| bip_39_word_new_line4 | abstract
+car
+slogan
+salad |  
+| bip_39_word_new_line5 | abstract
+car
+slogan
+salad
+cram |  
+| bip_39_word_new_line6 | abstract
+car
+slogan
+salad
+cram
+vault |  
+| bip_39_word_new_line7 | abstract
+car
+slogan
+salad
+cram
+vault
+blast |  
+| bip_39_word_new_line8 | abstract
+car
+slogan
+salad
+cram
+vault
+blast
+devote |  
+| bip_39_word_new_line9 | abstract
+car
+slogan
+salad
+cram
+vault
+blast
+devote
+book |  
+| bip_39_word_space_0 | ['abstract', 'car', 'slogan', 'salad', 'cram', 'vault', 'blast', 'devote', 'book', 'key', 'jeans', 'arctic'] |  
+| bip_39_word_space_1 | abstract |  
+| bip_39_word_space_10 | abstract car slogan salad cram vault blast devote book key |  
+| bip_39_word_space_11 | abstract car slogan salad cram vault blast devote book key jeans |  
+| bip_39_word_space_12 | abstract car slogan salad cram vault blast devote book key jeans arctic |  
+| bip_39_word_space_2 | abstract car |  
+| bip_39_word_space_3 | abstract car slogan |  
+| bip_39_word_space_4 | abstract car slogan salad |  
+| bip_39_word_space_5 | abstract car slogan salad cram |  
+| bip_39_word_space_6 | abstract car slogan salad cram vault |  
+| bip_39_word_space_7 | abstract car slogan salad cram vault blast |  
+| bip_39_word_space_8 | abstract car slogan salad cram vault blast devote |  
+| bip_39_word_space_9 | abstract car slogan salad cram vault blast devote book |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: drift
+bip_39_word_new_br10: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive
+bip_39_word_new_br11: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive<br>kitchen
+bip_39_word_new_br12: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe<br>olive<br>kitchen<br>alpha
+bip_39_word_new_br2: drift<br>huge
+bip_39_word_new_br3: drift<br>huge<br>price
+bip_39_word_new_br4: drift<br>huge<br>price<br>magnet
+bip_39_word_new_br5: drift<br>huge<br>price<br>magnet<br>galaxy
+bip_39_word_new_br6: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit
+bip_39_word_new_br7: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state
+bip_39_word_new_br8: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk
+bip_39_word_new_br9: drift<br>huge<br>price<br>magnet<br>galaxy<br>profit<br>state<br>hawk<br>shoe
+bip_39_word_new_line1: drift
+bip_39_word_new_line10: 'drift
+
+  huge
+
+  price
+
+  magnet
+
+  galaxy
+
+  profit
+
+  state
+
+  hawk
+
+  shoe
+
+  olive'
+bip_39_word_new_line11: 'drift
+
+  huge
+
+  price
+
+  magnet
+
+  galaxy
+
+  profit
+
+  state
+
+  hawk
+
+  shoe
+
+  olive
+
+  kitchen'
+bip_39_word_new_line12: 'drift
+
+  huge
+
+  price
+
+  magnet
+
+  galaxy
+
+  profit
+
+  state
+
+  hawk
+
+  shoe
+
+  olive
+
+  kitchen
+
+  alpha'
+bip_39_word_new_line2: 'drift
+
+  huge'
+bip_39_word_new_line3: 'drift
+
+  huge
+
+  price'
+bip_39_word_new_line4: 'drift
+
+  huge
+
+  price
+
+  magnet'
+bip_39_word_new_line5: 'drift
+
+  huge
+
+  price
+
+  magnet
+
+  galaxy'
+bip_39_word_new_line6: 'drift
+
+  huge
+
+  price
+
+  magnet
+
+  galaxy
+
+  profit'
+bip_39_word_new_line7: 'drift
+
+  huge
+
+  price
+
+  magnet
+
+  galaxy
+
+  profit
+
+  state'
+bip_39_word_new_line8: 'drift
+
+  huge
+
+  price
+
+  magnet
+
+  galaxy
+
+  profit
+
+  state
+
+  hawk'
+bip_39_word_new_line9: 'drift
+
+  huge
+
+  price
+
+  magnet
+
+  galaxy
+
+  profit
+
+  state
+
+  hawk
+
+  shoe'
+bip_39_word_space_0:
+- drift
+- huge
+- price
+- magnet
+- galaxy
+- profit
+- state
+- hawk
+- shoe
+- olive
+- kitchen
+- alpha
+bip_39_word_space_1: drift
+bip_39_word_space_10: drift huge price magnet galaxy profit state hawk shoe olive
+bip_39_word_space_11: drift huge price magnet galaxy profit state hawk shoe olive
+  kitchen
+bip_39_word_space_12: drift huge price magnet galaxy profit state hawk shoe olive
+  kitchen alpha
+bip_39_word_space_2: drift huge
+bip_39_word_space_3: drift huge price
+bip_39_word_space_4: drift huge price magnet
+bip_39_word_space_5: drift huge price magnet galaxy
+bip_39_word_space_6: drift huge price magnet galaxy profit
+bip_39_word_space_7: drift huge price magnet galaxy profit state
+bip_39_word_space_8: drift huge price magnet galaxy profit state hawk
+bip_39_word_space_9: drift huge price magnet galaxy profit state hawk shoe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

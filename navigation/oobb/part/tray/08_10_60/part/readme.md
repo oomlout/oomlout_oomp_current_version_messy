@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: settle speak
+  * bip 39 word 3: settle speak mushroom
+  * bip 39 word: settle speak mushroom daughter enter shove raise concert clock alien drastic asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | settle |  
+| bip_39_word_new_br10 | settle<br>speak<br>mushroom<br>daughter<br>enter<br>shove<br>raise<br>concert<br>clock<br>alien |  
+| bip_39_word_new_br11 | settle<br>speak<br>mushroom<br>daughter<br>enter<br>shove<br>raise<br>concert<br>clock<br>alien<br>drastic |  
+| bip_39_word_new_br12 | settle<br>speak<br>mushroom<br>daughter<br>enter<br>shove<br>raise<br>concert<br>clock<br>alien<br>drastic<br>asset |  
+| bip_39_word_new_br2 | settle<br>speak |  
+| bip_39_word_new_br3 | settle<br>speak<br>mushroom |  
+| bip_39_word_new_br4 | settle<br>speak<br>mushroom<br>daughter |  
+| bip_39_word_new_br5 | settle<br>speak<br>mushroom<br>daughter<br>enter |  
+| bip_39_word_new_br6 | settle<br>speak<br>mushroom<br>daughter<br>enter<br>shove |  
+| bip_39_word_new_br7 | settle<br>speak<br>mushroom<br>daughter<br>enter<br>shove<br>raise |  
+| bip_39_word_new_br8 | settle<br>speak<br>mushroom<br>daughter<br>enter<br>shove<br>raise<br>concert |  
+| bip_39_word_new_br9 | settle<br>speak<br>mushroom<br>daughter<br>enter<br>shove<br>raise<br>concert<br>clock |  
+| bip_39_word_new_line1 | settle |  
+| bip_39_word_new_line10 | settle
+speak
+mushroom
+daughter
+enter
+shove
+raise
+concert
+clock
+alien |  
+| bip_39_word_new_line11 | settle
+speak
+mushroom
+daughter
+enter
+shove
+raise
+concert
+clock
+alien
+drastic |  
+| bip_39_word_new_line12 | settle
+speak
+mushroom
+daughter
+enter
+shove
+raise
+concert
+clock
+alien
+drastic
+asset |  
+| bip_39_word_new_line2 | settle
+speak |  
+| bip_39_word_new_line3 | settle
+speak
+mushroom |  
+| bip_39_word_new_line4 | settle
+speak
+mushroom
+daughter |  
+| bip_39_word_new_line5 | settle
+speak
+mushroom
+daughter
+enter |  
+| bip_39_word_new_line6 | settle
+speak
+mushroom
+daughter
+enter
+shove |  
+| bip_39_word_new_line7 | settle
+speak
+mushroom
+daughter
+enter
+shove
+raise |  
+| bip_39_word_new_line8 | settle
+speak
+mushroom
+daughter
+enter
+shove
+raise
+concert |  
+| bip_39_word_new_line9 | settle
+speak
+mushroom
+daughter
+enter
+shove
+raise
+concert
+clock |  
+| bip_39_word_space_0 | ['settle', 'speak', 'mushroom', 'daughter', 'enter', 'shove', 'raise', 'concert', 'clock', 'alien', 'drastic', 'asset'] |  
+| bip_39_word_space_1 | settle |  
+| bip_39_word_space_10 | settle speak mushroom daughter enter shove raise concert clock alien |  
+| bip_39_word_space_11 | settle speak mushroom daughter enter shove raise concert clock alien drastic |  
+| bip_39_word_space_12 | settle speak mushroom daughter enter shove raise concert clock alien drastic asset |  
+| bip_39_word_space_2 | settle speak |  
+| bip_39_word_space_3 | settle speak mushroom |  
+| bip_39_word_space_4 | settle speak mushroom daughter |  
+| bip_39_word_space_5 | settle speak mushroom daughter enter |  
+| bip_39_word_space_6 | settle speak mushroom daughter enter shove |  
+| bip_39_word_space_7 | settle speak mushroom daughter enter shove raise |  
+| bip_39_word_space_8 | settle speak mushroom daughter enter shove raise concert |  
+| bip_39_word_space_9 | settle speak mushroom daughter enter shove raise concert clock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

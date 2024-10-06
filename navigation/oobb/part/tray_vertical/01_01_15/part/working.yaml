@@ -1,3 +1,186 @@
+bip_39_word_new_br1: differ
+bip_39_word_new_br10: differ<br>agent<br>ostrich<br>please<br>eager<br>toe<br>dash<br>clutch<br>need<br>syrup
+bip_39_word_new_br11: differ<br>agent<br>ostrich<br>please<br>eager<br>toe<br>dash<br>clutch<br>need<br>syrup<br>mention
+bip_39_word_new_br12: differ<br>agent<br>ostrich<br>please<br>eager<br>toe<br>dash<br>clutch<br>need<br>syrup<br>mention<br>about
+bip_39_word_new_br2: differ<br>agent
+bip_39_word_new_br3: differ<br>agent<br>ostrich
+bip_39_word_new_br4: differ<br>agent<br>ostrich<br>please
+bip_39_word_new_br5: differ<br>agent<br>ostrich<br>please<br>eager
+bip_39_word_new_br6: differ<br>agent<br>ostrich<br>please<br>eager<br>toe
+bip_39_word_new_br7: differ<br>agent<br>ostrich<br>please<br>eager<br>toe<br>dash
+bip_39_word_new_br8: differ<br>agent<br>ostrich<br>please<br>eager<br>toe<br>dash<br>clutch
+bip_39_word_new_br9: differ<br>agent<br>ostrich<br>please<br>eager<br>toe<br>dash<br>clutch<br>need
+bip_39_word_new_line1: differ
+bip_39_word_new_line10: 'differ
+
+  agent
+
+  ostrich
+
+  please
+
+  eager
+
+  toe
+
+  dash
+
+  clutch
+
+  need
+
+  syrup'
+bip_39_word_new_line11: 'differ
+
+  agent
+
+  ostrich
+
+  please
+
+  eager
+
+  toe
+
+  dash
+
+  clutch
+
+  need
+
+  syrup
+
+  mention'
+bip_39_word_new_line12: 'differ
+
+  agent
+
+  ostrich
+
+  please
+
+  eager
+
+  toe
+
+  dash
+
+  clutch
+
+  need
+
+  syrup
+
+  mention
+
+  about'
+bip_39_word_new_line2: 'differ
+
+  agent'
+bip_39_word_new_line3: 'differ
+
+  agent
+
+  ostrich'
+bip_39_word_new_line4: 'differ
+
+  agent
+
+  ostrich
+
+  please'
+bip_39_word_new_line5: 'differ
+
+  agent
+
+  ostrich
+
+  please
+
+  eager'
+bip_39_word_new_line6: 'differ
+
+  agent
+
+  ostrich
+
+  please
+
+  eager
+
+  toe'
+bip_39_word_new_line7: 'differ
+
+  agent
+
+  ostrich
+
+  please
+
+  eager
+
+  toe
+
+  dash'
+bip_39_word_new_line8: 'differ
+
+  agent
+
+  ostrich
+
+  please
+
+  eager
+
+  toe
+
+  dash
+
+  clutch'
+bip_39_word_new_line9: 'differ
+
+  agent
+
+  ostrich
+
+  please
+
+  eager
+
+  toe
+
+  dash
+
+  clutch
+
+  need'
+bip_39_word_space_0:
+- differ
+- agent
+- ostrich
+- please
+- eager
+- toe
+- dash
+- clutch
+- need
+- syrup
+- mention
+- about
+bip_39_word_space_1: differ
+bip_39_word_space_10: differ agent ostrich please eager toe dash clutch need syrup
+bip_39_word_space_11: differ agent ostrich please eager toe dash clutch need syrup
+  mention
+bip_39_word_space_12: differ agent ostrich please eager toe dash clutch need syrup
+  mention about
+bip_39_word_space_2: differ agent
+bip_39_word_space_3: differ agent ostrich
+bip_39_word_space_4: differ agent ostrich please
+bip_39_word_space_5: differ agent ostrich please eager
+bip_39_word_space_6: differ agent ostrich please eager toe
+bip_39_word_space_7: differ agent ostrich please eager toe dash
+bip_39_word_space_8: differ agent ostrich please eager toe dash clutch
+bip_39_word_space_9: differ agent ostrich please eager toe dash clutch need
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

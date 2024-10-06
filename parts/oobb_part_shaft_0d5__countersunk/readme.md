@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: runway tube
+  * bip 39 word 3: runway tube fragile
+  * bip 39 word: runway tube fragile kiss spray behind gallery violin believe hybrid swap across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | runway |  
+| bip_39_word_new_br10 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind<br>gallery<br>violin<br>believe<br>hybrid |  
+| bip_39_word_new_br11 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind<br>gallery<br>violin<br>believe<br>hybrid<br>swap |  
+| bip_39_word_new_br12 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind<br>gallery<br>violin<br>believe<br>hybrid<br>swap<br>across |  
+| bip_39_word_new_br2 | runway<br>tube |  
+| bip_39_word_new_br3 | runway<br>tube<br>fragile |  
+| bip_39_word_new_br4 | runway<br>tube<br>fragile<br>kiss |  
+| bip_39_word_new_br5 | runway<br>tube<br>fragile<br>kiss<br>spray |  
+| bip_39_word_new_br6 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind |  
+| bip_39_word_new_br7 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind<br>gallery |  
+| bip_39_word_new_br8 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind<br>gallery<br>violin |  
+| bip_39_word_new_br9 | runway<br>tube<br>fragile<br>kiss<br>spray<br>behind<br>gallery<br>violin<br>believe |  
+| bip_39_word_new_line1 | runway |  
+| bip_39_word_new_line10 | runway
+tube
+fragile
+kiss
+spray
+behind
+gallery
+violin
+believe
+hybrid |  
+| bip_39_word_new_line11 | runway
+tube
+fragile
+kiss
+spray
+behind
+gallery
+violin
+believe
+hybrid
+swap |  
+| bip_39_word_new_line12 | runway
+tube
+fragile
+kiss
+spray
+behind
+gallery
+violin
+believe
+hybrid
+swap
+across |  
+| bip_39_word_new_line2 | runway
+tube |  
+| bip_39_word_new_line3 | runway
+tube
+fragile |  
+| bip_39_word_new_line4 | runway
+tube
+fragile
+kiss |  
+| bip_39_word_new_line5 | runway
+tube
+fragile
+kiss
+spray |  
+| bip_39_word_new_line6 | runway
+tube
+fragile
+kiss
+spray
+behind |  
+| bip_39_word_new_line7 | runway
+tube
+fragile
+kiss
+spray
+behind
+gallery |  
+| bip_39_word_new_line8 | runway
+tube
+fragile
+kiss
+spray
+behind
+gallery
+violin |  
+| bip_39_word_new_line9 | runway
+tube
+fragile
+kiss
+spray
+behind
+gallery
+violin
+believe |  
+| bip_39_word_space_0 | ['runway', 'tube', 'fragile', 'kiss', 'spray', 'behind', 'gallery', 'violin', 'believe', 'hybrid', 'swap', 'across'] |  
+| bip_39_word_space_1 | runway |  
+| bip_39_word_space_10 | runway tube fragile kiss spray behind gallery violin believe hybrid |  
+| bip_39_word_space_11 | runway tube fragile kiss spray behind gallery violin believe hybrid swap |  
+| bip_39_word_space_12 | runway tube fragile kiss spray behind gallery violin believe hybrid swap across |  
+| bip_39_word_space_2 | runway tube |  
+| bip_39_word_space_3 | runway tube fragile |  
+| bip_39_word_space_4 | runway tube fragile kiss |  
+| bip_39_word_space_5 | runway tube fragile kiss spray |  
+| bip_39_word_space_6 | runway tube fragile kiss spray behind |  
+| bip_39_word_space_7 | runway tube fragile kiss spray behind gallery |  
+| bip_39_word_space_8 | runway tube fragile kiss spray behind gallery violin |  
+| bip_39_word_space_9 | runway tube fragile kiss spray behind gallery violin believe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

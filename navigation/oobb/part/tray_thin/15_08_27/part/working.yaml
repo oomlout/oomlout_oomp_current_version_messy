@@ -1,3 +1,186 @@
+bip_39_word_new_br1: end
+bip_39_word_new_br10: end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split
+bip_39_word_new_br11: end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split<br>cupboard
+bip_39_word_new_br12: end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra<br>split<br>cupboard<br>achieve
+bip_39_word_new_br2: end<br>clock
+bip_39_word_new_br3: end<br>clock<br>pond
+bip_39_word_new_br4: end<br>clock<br>pond<br>salon
+bip_39_word_new_br5: end<br>clock<br>pond<br>salon<br>birth
+bip_39_word_new_br6: end<br>clock<br>pond<br>salon<br>birth<br>total
+bip_39_word_new_br7: end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst
+bip_39_word_new_br8: end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around
+bip_39_word_new_br9: end<br>clock<br>pond<br>salon<br>birth<br>total<br>analyst<br>around<br>zebra
+bip_39_word_new_line1: end
+bip_39_word_new_line10: 'end
+
+  clock
+
+  pond
+
+  salon
+
+  birth
+
+  total
+
+  analyst
+
+  around
+
+  zebra
+
+  split'
+bip_39_word_new_line11: 'end
+
+  clock
+
+  pond
+
+  salon
+
+  birth
+
+  total
+
+  analyst
+
+  around
+
+  zebra
+
+  split
+
+  cupboard'
+bip_39_word_new_line12: 'end
+
+  clock
+
+  pond
+
+  salon
+
+  birth
+
+  total
+
+  analyst
+
+  around
+
+  zebra
+
+  split
+
+  cupboard
+
+  achieve'
+bip_39_word_new_line2: 'end
+
+  clock'
+bip_39_word_new_line3: 'end
+
+  clock
+
+  pond'
+bip_39_word_new_line4: 'end
+
+  clock
+
+  pond
+
+  salon'
+bip_39_word_new_line5: 'end
+
+  clock
+
+  pond
+
+  salon
+
+  birth'
+bip_39_word_new_line6: 'end
+
+  clock
+
+  pond
+
+  salon
+
+  birth
+
+  total'
+bip_39_word_new_line7: 'end
+
+  clock
+
+  pond
+
+  salon
+
+  birth
+
+  total
+
+  analyst'
+bip_39_word_new_line8: 'end
+
+  clock
+
+  pond
+
+  salon
+
+  birth
+
+  total
+
+  analyst
+
+  around'
+bip_39_word_new_line9: 'end
+
+  clock
+
+  pond
+
+  salon
+
+  birth
+
+  total
+
+  analyst
+
+  around
+
+  zebra'
+bip_39_word_space_0:
+- end
+- clock
+- pond
+- salon
+- birth
+- total
+- analyst
+- around
+- zebra
+- split
+- cupboard
+- achieve
+bip_39_word_space_1: end
+bip_39_word_space_10: end clock pond salon birth total analyst around zebra split
+bip_39_word_space_11: end clock pond salon birth total analyst around zebra split
+  cupboard
+bip_39_word_space_12: end clock pond salon birth total analyst around zebra split
+  cupboard achieve
+bip_39_word_space_2: end clock
+bip_39_word_space_3: end clock pond
+bip_39_word_space_4: end clock pond salon
+bip_39_word_space_5: end clock pond salon birth
+bip_39_word_space_6: end clock pond salon birth total
+bip_39_word_space_7: end clock pond salon birth total analyst
+bip_39_word_space_8: end clock pond salon birth total analyst around
+bip_39_word_space_9: end clock pond salon birth total analyst around zebra
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

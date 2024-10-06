@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ankle
+bip_39_word_new_br10: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve<br>panda<br>prosper<br>menu<br>afford
+bip_39_word_new_br11: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve<br>panda<br>prosper<br>menu<br>afford<br>boss
+bip_39_word_new_br12: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve<br>panda<br>prosper<br>menu<br>afford<br>boss<br>artefact
+bip_39_word_new_br2: ankle<br>frog
+bip_39_word_new_br3: ankle<br>frog<br>height
+bip_39_word_new_br4: ankle<br>frog<br>height<br>trumpet
+bip_39_word_new_br5: ankle<br>frog<br>height<br>trumpet<br>carbon
+bip_39_word_new_br6: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve
+bip_39_word_new_br7: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve<br>panda
+bip_39_word_new_br8: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve<br>panda<br>prosper
+bip_39_word_new_br9: ankle<br>frog<br>height<br>trumpet<br>carbon<br>solve<br>panda<br>prosper<br>menu
+bip_39_word_new_line1: ankle
+bip_39_word_new_line10: 'ankle
+
+  frog
+
+  height
+
+  trumpet
+
+  carbon
+
+  solve
+
+  panda
+
+  prosper
+
+  menu
+
+  afford'
+bip_39_word_new_line11: 'ankle
+
+  frog
+
+  height
+
+  trumpet
+
+  carbon
+
+  solve
+
+  panda
+
+  prosper
+
+  menu
+
+  afford
+
+  boss'
+bip_39_word_new_line12: 'ankle
+
+  frog
+
+  height
+
+  trumpet
+
+  carbon
+
+  solve
+
+  panda
+
+  prosper
+
+  menu
+
+  afford
+
+  boss
+
+  artefact'
+bip_39_word_new_line2: 'ankle
+
+  frog'
+bip_39_word_new_line3: 'ankle
+
+  frog
+
+  height'
+bip_39_word_new_line4: 'ankle
+
+  frog
+
+  height
+
+  trumpet'
+bip_39_word_new_line5: 'ankle
+
+  frog
+
+  height
+
+  trumpet
+
+  carbon'
+bip_39_word_new_line6: 'ankle
+
+  frog
+
+  height
+
+  trumpet
+
+  carbon
+
+  solve'
+bip_39_word_new_line7: 'ankle
+
+  frog
+
+  height
+
+  trumpet
+
+  carbon
+
+  solve
+
+  panda'
+bip_39_word_new_line8: 'ankle
+
+  frog
+
+  height
+
+  trumpet
+
+  carbon
+
+  solve
+
+  panda
+
+  prosper'
+bip_39_word_new_line9: 'ankle
+
+  frog
+
+  height
+
+  trumpet
+
+  carbon
+
+  solve
+
+  panda
+
+  prosper
+
+  menu'
+bip_39_word_space_0:
+- ankle
+- frog
+- height
+- trumpet
+- carbon
+- solve
+- panda
+- prosper
+- menu
+- afford
+- boss
+- artefact
+bip_39_word_space_1: ankle
+bip_39_word_space_10: ankle frog height trumpet carbon solve panda prosper menu afford
+bip_39_word_space_11: ankle frog height trumpet carbon solve panda prosper menu afford
+  boss
+bip_39_word_space_12: ankle frog height trumpet carbon solve panda prosper menu afford
+  boss artefact
+bip_39_word_space_2: ankle frog
+bip_39_word_space_3: ankle frog height
+bip_39_word_space_4: ankle frog height trumpet
+bip_39_word_space_5: ankle frog height trumpet carbon
+bip_39_word_space_6: ankle frog height trumpet carbon solve
+bip_39_word_space_7: ankle frog height trumpet carbon solve panda
+bip_39_word_space_8: ankle frog height trumpet carbon solve panda prosper
+bip_39_word_space_9: ankle frog height trumpet carbon solve panda prosper menu
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

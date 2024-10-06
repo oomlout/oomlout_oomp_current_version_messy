@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: check oyster
+  * bip 39 word 3: check oyster rare
+  * bip 39 word: check oyster rare tonight wreck empty enable cushion hole know sort alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | check |  
+| bip_39_word_new_br10 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty<br>enable<br>cushion<br>hole<br>know |  
+| bip_39_word_new_br11 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty<br>enable<br>cushion<br>hole<br>know<br>sort |  
+| bip_39_word_new_br12 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty<br>enable<br>cushion<br>hole<br>know<br>sort<br>alien |  
+| bip_39_word_new_br2 | check<br>oyster |  
+| bip_39_word_new_br3 | check<br>oyster<br>rare |  
+| bip_39_word_new_br4 | check<br>oyster<br>rare<br>tonight |  
+| bip_39_word_new_br5 | check<br>oyster<br>rare<br>tonight<br>wreck |  
+| bip_39_word_new_br6 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty |  
+| bip_39_word_new_br7 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty<br>enable |  
+| bip_39_word_new_br8 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty<br>enable<br>cushion |  
+| bip_39_word_new_br9 | check<br>oyster<br>rare<br>tonight<br>wreck<br>empty<br>enable<br>cushion<br>hole |  
+| bip_39_word_new_line1 | check |  
+| bip_39_word_new_line10 | check
+oyster
+rare
+tonight
+wreck
+empty
+enable
+cushion
+hole
+know |  
+| bip_39_word_new_line11 | check
+oyster
+rare
+tonight
+wreck
+empty
+enable
+cushion
+hole
+know
+sort |  
+| bip_39_word_new_line12 | check
+oyster
+rare
+tonight
+wreck
+empty
+enable
+cushion
+hole
+know
+sort
+alien |  
+| bip_39_word_new_line2 | check
+oyster |  
+| bip_39_word_new_line3 | check
+oyster
+rare |  
+| bip_39_word_new_line4 | check
+oyster
+rare
+tonight |  
+| bip_39_word_new_line5 | check
+oyster
+rare
+tonight
+wreck |  
+| bip_39_word_new_line6 | check
+oyster
+rare
+tonight
+wreck
+empty |  
+| bip_39_word_new_line7 | check
+oyster
+rare
+tonight
+wreck
+empty
+enable |  
+| bip_39_word_new_line8 | check
+oyster
+rare
+tonight
+wreck
+empty
+enable
+cushion |  
+| bip_39_word_new_line9 | check
+oyster
+rare
+tonight
+wreck
+empty
+enable
+cushion
+hole |  
+| bip_39_word_space_0 | ['check', 'oyster', 'rare', 'tonight', 'wreck', 'empty', 'enable', 'cushion', 'hole', 'know', 'sort', 'alien'] |  
+| bip_39_word_space_1 | check |  
+| bip_39_word_space_10 | check oyster rare tonight wreck empty enable cushion hole know |  
+| bip_39_word_space_11 | check oyster rare tonight wreck empty enable cushion hole know sort |  
+| bip_39_word_space_12 | check oyster rare tonight wreck empty enable cushion hole know sort alien |  
+| bip_39_word_space_2 | check oyster |  
+| bip_39_word_space_3 | check oyster rare |  
+| bip_39_word_space_4 | check oyster rare tonight |  
+| bip_39_word_space_5 | check oyster rare tonight wreck |  
+| bip_39_word_space_6 | check oyster rare tonight wreck empty |  
+| bip_39_word_space_7 | check oyster rare tonight wreck empty enable |  
+| bip_39_word_space_8 | check oyster rare tonight wreck empty enable cushion |  
+| bip_39_word_space_9 | check oyster rare tonight wreck empty enable cushion hole |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

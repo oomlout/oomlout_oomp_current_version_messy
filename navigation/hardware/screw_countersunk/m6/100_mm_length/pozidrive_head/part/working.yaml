@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cargo
+bip_39_word_new_br10: cargo<br>fashion<br>federal<br>skull<br>creek<br>common<br>appear<br>put<br>skirt<br>father
+bip_39_word_new_br11: cargo<br>fashion<br>federal<br>skull<br>creek<br>common<br>appear<br>put<br>skirt<br>father<br>mixed
+bip_39_word_new_br12: cargo<br>fashion<br>federal<br>skull<br>creek<br>common<br>appear<br>put<br>skirt<br>father<br>mixed<br>amateur
+bip_39_word_new_br2: cargo<br>fashion
+bip_39_word_new_br3: cargo<br>fashion<br>federal
+bip_39_word_new_br4: cargo<br>fashion<br>federal<br>skull
+bip_39_word_new_br5: cargo<br>fashion<br>federal<br>skull<br>creek
+bip_39_word_new_br6: cargo<br>fashion<br>federal<br>skull<br>creek<br>common
+bip_39_word_new_br7: cargo<br>fashion<br>federal<br>skull<br>creek<br>common<br>appear
+bip_39_word_new_br8: cargo<br>fashion<br>federal<br>skull<br>creek<br>common<br>appear<br>put
+bip_39_word_new_br9: cargo<br>fashion<br>federal<br>skull<br>creek<br>common<br>appear<br>put<br>skirt
+bip_39_word_new_line1: cargo
+bip_39_word_new_line10: 'cargo
+
+  fashion
+
+  federal
+
+  skull
+
+  creek
+
+  common
+
+  appear
+
+  put
+
+  skirt
+
+  father'
+bip_39_word_new_line11: 'cargo
+
+  fashion
+
+  federal
+
+  skull
+
+  creek
+
+  common
+
+  appear
+
+  put
+
+  skirt
+
+  father
+
+  mixed'
+bip_39_word_new_line12: 'cargo
+
+  fashion
+
+  federal
+
+  skull
+
+  creek
+
+  common
+
+  appear
+
+  put
+
+  skirt
+
+  father
+
+  mixed
+
+  amateur'
+bip_39_word_new_line2: 'cargo
+
+  fashion'
+bip_39_word_new_line3: 'cargo
+
+  fashion
+
+  federal'
+bip_39_word_new_line4: 'cargo
+
+  fashion
+
+  federal
+
+  skull'
+bip_39_word_new_line5: 'cargo
+
+  fashion
+
+  federal
+
+  skull
+
+  creek'
+bip_39_word_new_line6: 'cargo
+
+  fashion
+
+  federal
+
+  skull
+
+  creek
+
+  common'
+bip_39_word_new_line7: 'cargo
+
+  fashion
+
+  federal
+
+  skull
+
+  creek
+
+  common
+
+  appear'
+bip_39_word_new_line8: 'cargo
+
+  fashion
+
+  federal
+
+  skull
+
+  creek
+
+  common
+
+  appear
+
+  put'
+bip_39_word_new_line9: 'cargo
+
+  fashion
+
+  federal
+
+  skull
+
+  creek
+
+  common
+
+  appear
+
+  put
+
+  skirt'
+bip_39_word_space_0:
+- cargo
+- fashion
+- federal
+- skull
+- creek
+- common
+- appear
+- put
+- skirt
+- father
+- mixed
+- amateur
+bip_39_word_space_1: cargo
+bip_39_word_space_10: cargo fashion federal skull creek common appear put skirt father
+bip_39_word_space_11: cargo fashion federal skull creek common appear put skirt father
+  mixed
+bip_39_word_space_12: cargo fashion federal skull creek common appear put skirt father
+  mixed amateur
+bip_39_word_space_2: cargo fashion
+bip_39_word_space_3: cargo fashion federal
+bip_39_word_space_4: cargo fashion federal skull
+bip_39_word_space_5: cargo fashion federal skull creek
+bip_39_word_space_6: cargo fashion federal skull creek common
+bip_39_word_space_7: cargo fashion federal skull creek common appear
+bip_39_word_space_8: cargo fashion federal skull creek common appear put
+bip_39_word_space_9: cargo fashion federal skull creek common appear put skirt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

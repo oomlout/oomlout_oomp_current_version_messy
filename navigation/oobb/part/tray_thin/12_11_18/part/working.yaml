@@ -1,3 +1,186 @@
+bip_39_word_new_br1: when
+bip_39_word_new_br10: when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar
+bip_39_word_new_br11: when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar<br>nature
+bip_39_word_new_br12: when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard<br>lunar<br>nature<br>add
+bip_39_word_new_br2: when<br>gather
+bip_39_word_new_br3: when<br>gather<br>snack
+bip_39_word_new_br4: when<br>gather<br>snack<br>play
+bip_39_word_new_br5: when<br>gather<br>snack<br>play<br>enforce
+bip_39_word_new_br6: when<br>gather<br>snack<br>play<br>enforce<br>thought
+bip_39_word_new_br7: when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum
+bip_39_word_new_br8: when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude
+bip_39_word_new_br9: when<br>gather<br>snack<br>play<br>enforce<br>thought<br>drum<br>exclude<br>hazard
+bip_39_word_new_line1: when
+bip_39_word_new_line10: 'when
+
+  gather
+
+  snack
+
+  play
+
+  enforce
+
+  thought
+
+  drum
+
+  exclude
+
+  hazard
+
+  lunar'
+bip_39_word_new_line11: 'when
+
+  gather
+
+  snack
+
+  play
+
+  enforce
+
+  thought
+
+  drum
+
+  exclude
+
+  hazard
+
+  lunar
+
+  nature'
+bip_39_word_new_line12: 'when
+
+  gather
+
+  snack
+
+  play
+
+  enforce
+
+  thought
+
+  drum
+
+  exclude
+
+  hazard
+
+  lunar
+
+  nature
+
+  add'
+bip_39_word_new_line2: 'when
+
+  gather'
+bip_39_word_new_line3: 'when
+
+  gather
+
+  snack'
+bip_39_word_new_line4: 'when
+
+  gather
+
+  snack
+
+  play'
+bip_39_word_new_line5: 'when
+
+  gather
+
+  snack
+
+  play
+
+  enforce'
+bip_39_word_new_line6: 'when
+
+  gather
+
+  snack
+
+  play
+
+  enforce
+
+  thought'
+bip_39_word_new_line7: 'when
+
+  gather
+
+  snack
+
+  play
+
+  enforce
+
+  thought
+
+  drum'
+bip_39_word_new_line8: 'when
+
+  gather
+
+  snack
+
+  play
+
+  enforce
+
+  thought
+
+  drum
+
+  exclude'
+bip_39_word_new_line9: 'when
+
+  gather
+
+  snack
+
+  play
+
+  enforce
+
+  thought
+
+  drum
+
+  exclude
+
+  hazard'
+bip_39_word_space_0:
+- when
+- gather
+- snack
+- play
+- enforce
+- thought
+- drum
+- exclude
+- hazard
+- lunar
+- nature
+- add
+bip_39_word_space_1: when
+bip_39_word_space_10: when gather snack play enforce thought drum exclude hazard lunar
+bip_39_word_space_11: when gather snack play enforce thought drum exclude hazard lunar
+  nature
+bip_39_word_space_12: when gather snack play enforce thought drum exclude hazard lunar
+  nature add
+bip_39_word_space_2: when gather
+bip_39_word_space_3: when gather snack
+bip_39_word_space_4: when gather snack play
+bip_39_word_space_5: when gather snack play enforce
+bip_39_word_space_6: when gather snack play enforce thought
+bip_39_word_space_7: when gather snack play enforce thought drum
+bip_39_word_space_8: when gather snack play enforce thought drum exclude
+bip_39_word_space_9: when gather snack play enforce thought drum exclude hazard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: border
+bip_39_word_new_br10: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market<br>repair<br>ready
+bip_39_word_new_br11: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market<br>repair<br>ready<br>fuel
+bip_39_word_new_br12: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market<br>repair<br>ready<br>fuel<br>assault
+bip_39_word_new_br2: border<br>mosquito
+bip_39_word_new_br3: border<br>mosquito<br>brush
+bip_39_word_new_br4: border<br>mosquito<br>brush<br>crunch
+bip_39_word_new_br5: border<br>mosquito<br>brush<br>crunch<br>exist
+bip_39_word_new_br6: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi
+bip_39_word_new_br7: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage
+bip_39_word_new_br8: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market
+bip_39_word_new_br9: border<br>mosquito<br>brush<br>crunch<br>exist<br>satoshi<br>voyage<br>market<br>repair
+bip_39_word_new_line1: border
+bip_39_word_new_line10: 'border
+
+  mosquito
+
+  brush
+
+  crunch
+
+  exist
+
+  satoshi
+
+  voyage
+
+  market
+
+  repair
+
+  ready'
+bip_39_word_new_line11: 'border
+
+  mosquito
+
+  brush
+
+  crunch
+
+  exist
+
+  satoshi
+
+  voyage
+
+  market
+
+  repair
+
+  ready
+
+  fuel'
+bip_39_word_new_line12: 'border
+
+  mosquito
+
+  brush
+
+  crunch
+
+  exist
+
+  satoshi
+
+  voyage
+
+  market
+
+  repair
+
+  ready
+
+  fuel
+
+  assault'
+bip_39_word_new_line2: 'border
+
+  mosquito'
+bip_39_word_new_line3: 'border
+
+  mosquito
+
+  brush'
+bip_39_word_new_line4: 'border
+
+  mosquito
+
+  brush
+
+  crunch'
+bip_39_word_new_line5: 'border
+
+  mosquito
+
+  brush
+
+  crunch
+
+  exist'
+bip_39_word_new_line6: 'border
+
+  mosquito
+
+  brush
+
+  crunch
+
+  exist
+
+  satoshi'
+bip_39_word_new_line7: 'border
+
+  mosquito
+
+  brush
+
+  crunch
+
+  exist
+
+  satoshi
+
+  voyage'
+bip_39_word_new_line8: 'border
+
+  mosquito
+
+  brush
+
+  crunch
+
+  exist
+
+  satoshi
+
+  voyage
+
+  market'
+bip_39_word_new_line9: 'border
+
+  mosquito
+
+  brush
+
+  crunch
+
+  exist
+
+  satoshi
+
+  voyage
+
+  market
+
+  repair'
+bip_39_word_space_0:
+- border
+- mosquito
+- brush
+- crunch
+- exist
+- satoshi
+- voyage
+- market
+- repair
+- ready
+- fuel
+- assault
+bip_39_word_space_1: border
+bip_39_word_space_10: border mosquito brush crunch exist satoshi voyage market repair
+  ready
+bip_39_word_space_11: border mosquito brush crunch exist satoshi voyage market repair
+  ready fuel
+bip_39_word_space_12: border mosquito brush crunch exist satoshi voyage market repair
+  ready fuel assault
+bip_39_word_space_2: border mosquito
+bip_39_word_space_3: border mosquito brush
+bip_39_word_space_4: border mosquito brush crunch
+bip_39_word_space_5: border mosquito brush crunch exist
+bip_39_word_space_6: border mosquito brush crunch exist satoshi
+bip_39_word_space_7: border mosquito brush crunch exist satoshi voyage
+bip_39_word_space_8: border mosquito brush crunch exist satoshi voyage market
+bip_39_word_space_9: border mosquito brush crunch exist satoshi voyage market repair
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

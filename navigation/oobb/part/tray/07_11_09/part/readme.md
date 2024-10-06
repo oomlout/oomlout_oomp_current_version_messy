@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: type crystal
+  * bip 39 word 3: type crystal cradle
+  * bip 39 word: type crystal cradle brisk asset language brief shoot chair shoe tunnel alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | type |  
+| bip_39_word_new_br10 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language<br>brief<br>shoot<br>chair<br>shoe |  
+| bip_39_word_new_br11 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language<br>brief<br>shoot<br>chair<br>shoe<br>tunnel |  
+| bip_39_word_new_br12 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language<br>brief<br>shoot<br>chair<br>shoe<br>tunnel<br>alert |  
+| bip_39_word_new_br2 | type<br>crystal |  
+| bip_39_word_new_br3 | type<br>crystal<br>cradle |  
+| bip_39_word_new_br4 | type<br>crystal<br>cradle<br>brisk |  
+| bip_39_word_new_br5 | type<br>crystal<br>cradle<br>brisk<br>asset |  
+| bip_39_word_new_br6 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language |  
+| bip_39_word_new_br7 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language<br>brief |  
+| bip_39_word_new_br8 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language<br>brief<br>shoot |  
+| bip_39_word_new_br9 | type<br>crystal<br>cradle<br>brisk<br>asset<br>language<br>brief<br>shoot<br>chair |  
+| bip_39_word_new_line1 | type |  
+| bip_39_word_new_line10 | type
+crystal
+cradle
+brisk
+asset
+language
+brief
+shoot
+chair
+shoe |  
+| bip_39_word_new_line11 | type
+crystal
+cradle
+brisk
+asset
+language
+brief
+shoot
+chair
+shoe
+tunnel |  
+| bip_39_word_new_line12 | type
+crystal
+cradle
+brisk
+asset
+language
+brief
+shoot
+chair
+shoe
+tunnel
+alert |  
+| bip_39_word_new_line2 | type
+crystal |  
+| bip_39_word_new_line3 | type
+crystal
+cradle |  
+| bip_39_word_new_line4 | type
+crystal
+cradle
+brisk |  
+| bip_39_word_new_line5 | type
+crystal
+cradle
+brisk
+asset |  
+| bip_39_word_new_line6 | type
+crystal
+cradle
+brisk
+asset
+language |  
+| bip_39_word_new_line7 | type
+crystal
+cradle
+brisk
+asset
+language
+brief |  
+| bip_39_word_new_line8 | type
+crystal
+cradle
+brisk
+asset
+language
+brief
+shoot |  
+| bip_39_word_new_line9 | type
+crystal
+cradle
+brisk
+asset
+language
+brief
+shoot
+chair |  
+| bip_39_word_space_0 | ['type', 'crystal', 'cradle', 'brisk', 'asset', 'language', 'brief', 'shoot', 'chair', 'shoe', 'tunnel', 'alert'] |  
+| bip_39_word_space_1 | type |  
+| bip_39_word_space_10 | type crystal cradle brisk asset language brief shoot chair shoe |  
+| bip_39_word_space_11 | type crystal cradle brisk asset language brief shoot chair shoe tunnel |  
+| bip_39_word_space_12 | type crystal cradle brisk asset language brief shoot chair shoe tunnel alert |  
+| bip_39_word_space_2 | type crystal |  
+| bip_39_word_space_3 | type crystal cradle |  
+| bip_39_word_space_4 | type crystal cradle brisk |  
+| bip_39_word_space_5 | type crystal cradle brisk asset |  
+| bip_39_word_space_6 | type crystal cradle brisk asset language |  
+| bip_39_word_space_7 | type crystal cradle brisk asset language brief |  
+| bip_39_word_space_8 | type crystal cradle brisk asset language brief shoot |  
+| bip_39_word_space_9 | type crystal cradle brisk asset language brief shoot chair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

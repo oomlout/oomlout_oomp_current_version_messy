@@ -1,3 +1,187 @@
+bip_39_word_new_br1: unhappy
+bip_39_word_new_br10: unhappy<br>insane<br>mango<br>best<br>remind<br>retire<br>april<br>brave<br>kangaroo<br>famous
+bip_39_word_new_br11: unhappy<br>insane<br>mango<br>best<br>remind<br>retire<br>april<br>brave<br>kangaroo<br>famous<br>general
+bip_39_word_new_br12: unhappy<br>insane<br>mango<br>best<br>remind<br>retire<br>april<br>brave<br>kangaroo<br>famous<br>general<br>aisle
+bip_39_word_new_br2: unhappy<br>insane
+bip_39_word_new_br3: unhappy<br>insane<br>mango
+bip_39_word_new_br4: unhappy<br>insane<br>mango<br>best
+bip_39_word_new_br5: unhappy<br>insane<br>mango<br>best<br>remind
+bip_39_word_new_br6: unhappy<br>insane<br>mango<br>best<br>remind<br>retire
+bip_39_word_new_br7: unhappy<br>insane<br>mango<br>best<br>remind<br>retire<br>april
+bip_39_word_new_br8: unhappy<br>insane<br>mango<br>best<br>remind<br>retire<br>april<br>brave
+bip_39_word_new_br9: unhappy<br>insane<br>mango<br>best<br>remind<br>retire<br>april<br>brave<br>kangaroo
+bip_39_word_new_line1: unhappy
+bip_39_word_new_line10: 'unhappy
+
+  insane
+
+  mango
+
+  best
+
+  remind
+
+  retire
+
+  april
+
+  brave
+
+  kangaroo
+
+  famous'
+bip_39_word_new_line11: 'unhappy
+
+  insane
+
+  mango
+
+  best
+
+  remind
+
+  retire
+
+  april
+
+  brave
+
+  kangaroo
+
+  famous
+
+  general'
+bip_39_word_new_line12: 'unhappy
+
+  insane
+
+  mango
+
+  best
+
+  remind
+
+  retire
+
+  april
+
+  brave
+
+  kangaroo
+
+  famous
+
+  general
+
+  aisle'
+bip_39_word_new_line2: 'unhappy
+
+  insane'
+bip_39_word_new_line3: 'unhappy
+
+  insane
+
+  mango'
+bip_39_word_new_line4: 'unhappy
+
+  insane
+
+  mango
+
+  best'
+bip_39_word_new_line5: 'unhappy
+
+  insane
+
+  mango
+
+  best
+
+  remind'
+bip_39_word_new_line6: 'unhappy
+
+  insane
+
+  mango
+
+  best
+
+  remind
+
+  retire'
+bip_39_word_new_line7: 'unhappy
+
+  insane
+
+  mango
+
+  best
+
+  remind
+
+  retire
+
+  april'
+bip_39_word_new_line8: 'unhappy
+
+  insane
+
+  mango
+
+  best
+
+  remind
+
+  retire
+
+  april
+
+  brave'
+bip_39_word_new_line9: 'unhappy
+
+  insane
+
+  mango
+
+  best
+
+  remind
+
+  retire
+
+  april
+
+  brave
+
+  kangaroo'
+bip_39_word_space_0:
+- unhappy
+- insane
+- mango
+- best
+- remind
+- retire
+- april
+- brave
+- kangaroo
+- famous
+- general
+- aisle
+bip_39_word_space_1: unhappy
+bip_39_word_space_10: unhappy insane mango best remind retire april brave kangaroo
+  famous
+bip_39_word_space_11: unhappy insane mango best remind retire april brave kangaroo
+  famous general
+bip_39_word_space_12: unhappy insane mango best remind retire april brave kangaroo
+  famous general aisle
+bip_39_word_space_2: unhappy insane
+bip_39_word_space_3: unhappy insane mango
+bip_39_word_space_4: unhappy insane mango best
+bip_39_word_space_5: unhappy insane mango best remind
+bip_39_word_space_6: unhappy insane mango best remind retire
+bip_39_word_space_7: unhappy insane mango best remind retire april
+bip_39_word_space_8: unhappy insane mango best remind retire april brave
+bip_39_word_space_9: unhappy insane mango best remind retire april brave kangaroo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

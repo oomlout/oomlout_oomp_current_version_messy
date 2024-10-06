@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wasp card
+  * bip 39 word 3: wasp card bread
+  * bip 39 word: wasp card bread category elevator input practice argue current can snake ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wasp |  
+| bip_39_word_new_br10 | wasp<br>card<br>bread<br>category<br>elevator<br>input<br>practice<br>argue<br>current<br>can |  
+| bip_39_word_new_br11 | wasp<br>card<br>bread<br>category<br>elevator<br>input<br>practice<br>argue<br>current<br>can<br>snake |  
+| bip_39_word_new_br12 | wasp<br>card<br>bread<br>category<br>elevator<br>input<br>practice<br>argue<br>current<br>can<br>snake<br>ancient |  
+| bip_39_word_new_br2 | wasp<br>card |  
+| bip_39_word_new_br3 | wasp<br>card<br>bread |  
+| bip_39_word_new_br4 | wasp<br>card<br>bread<br>category |  
+| bip_39_word_new_br5 | wasp<br>card<br>bread<br>category<br>elevator |  
+| bip_39_word_new_br6 | wasp<br>card<br>bread<br>category<br>elevator<br>input |  
+| bip_39_word_new_br7 | wasp<br>card<br>bread<br>category<br>elevator<br>input<br>practice |  
+| bip_39_word_new_br8 | wasp<br>card<br>bread<br>category<br>elevator<br>input<br>practice<br>argue |  
+| bip_39_word_new_br9 | wasp<br>card<br>bread<br>category<br>elevator<br>input<br>practice<br>argue<br>current |  
+| bip_39_word_new_line1 | wasp |  
+| bip_39_word_new_line10 | wasp
+card
+bread
+category
+elevator
+input
+practice
+argue
+current
+can |  
+| bip_39_word_new_line11 | wasp
+card
+bread
+category
+elevator
+input
+practice
+argue
+current
+can
+snake |  
+| bip_39_word_new_line12 | wasp
+card
+bread
+category
+elevator
+input
+practice
+argue
+current
+can
+snake
+ancient |  
+| bip_39_word_new_line2 | wasp
+card |  
+| bip_39_word_new_line3 | wasp
+card
+bread |  
+| bip_39_word_new_line4 | wasp
+card
+bread
+category |  
+| bip_39_word_new_line5 | wasp
+card
+bread
+category
+elevator |  
+| bip_39_word_new_line6 | wasp
+card
+bread
+category
+elevator
+input |  
+| bip_39_word_new_line7 | wasp
+card
+bread
+category
+elevator
+input
+practice |  
+| bip_39_word_new_line8 | wasp
+card
+bread
+category
+elevator
+input
+practice
+argue |  
+| bip_39_word_new_line9 | wasp
+card
+bread
+category
+elevator
+input
+practice
+argue
+current |  
+| bip_39_word_space_0 | ['wasp', 'card', 'bread', 'category', 'elevator', 'input', 'practice', 'argue', 'current', 'can', 'snake', 'ancient'] |  
+| bip_39_word_space_1 | wasp |  
+| bip_39_word_space_10 | wasp card bread category elevator input practice argue current can |  
+| bip_39_word_space_11 | wasp card bread category elevator input practice argue current can snake |  
+| bip_39_word_space_12 | wasp card bread category elevator input practice argue current can snake ancient |  
+| bip_39_word_space_2 | wasp card |  
+| bip_39_word_space_3 | wasp card bread |  
+| bip_39_word_space_4 | wasp card bread category |  
+| bip_39_word_space_5 | wasp card bread category elevator |  
+| bip_39_word_space_6 | wasp card bread category elevator input |  
+| bip_39_word_space_7 | wasp card bread category elevator input practice |  
+| bip_39_word_space_8 | wasp card bread category elevator input practice argue |  
+| bip_39_word_space_9 | wasp card bread category elevator input practice argue current |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eight enact
+  * bip 39 word 3: eight enact captain
+  * bip 39 word: eight enact captain start profit canvas shrug wolf hybrid return love argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eight |  
+| bip_39_word_new_br10 | eight<br>enact<br>captain<br>start<br>profit<br>canvas<br>shrug<br>wolf<br>hybrid<br>return |  
+| bip_39_word_new_br11 | eight<br>enact<br>captain<br>start<br>profit<br>canvas<br>shrug<br>wolf<br>hybrid<br>return<br>love |  
+| bip_39_word_new_br12 | eight<br>enact<br>captain<br>start<br>profit<br>canvas<br>shrug<br>wolf<br>hybrid<br>return<br>love<br>argue |  
+| bip_39_word_new_br2 | eight<br>enact |  
+| bip_39_word_new_br3 | eight<br>enact<br>captain |  
+| bip_39_word_new_br4 | eight<br>enact<br>captain<br>start |  
+| bip_39_word_new_br5 | eight<br>enact<br>captain<br>start<br>profit |  
+| bip_39_word_new_br6 | eight<br>enact<br>captain<br>start<br>profit<br>canvas |  
+| bip_39_word_new_br7 | eight<br>enact<br>captain<br>start<br>profit<br>canvas<br>shrug |  
+| bip_39_word_new_br8 | eight<br>enact<br>captain<br>start<br>profit<br>canvas<br>shrug<br>wolf |  
+| bip_39_word_new_br9 | eight<br>enact<br>captain<br>start<br>profit<br>canvas<br>shrug<br>wolf<br>hybrid |  
+| bip_39_word_new_line1 | eight |  
+| bip_39_word_new_line10 | eight
+enact
+captain
+start
+profit
+canvas
+shrug
+wolf
+hybrid
+return |  
+| bip_39_word_new_line11 | eight
+enact
+captain
+start
+profit
+canvas
+shrug
+wolf
+hybrid
+return
+love |  
+| bip_39_word_new_line12 | eight
+enact
+captain
+start
+profit
+canvas
+shrug
+wolf
+hybrid
+return
+love
+argue |  
+| bip_39_word_new_line2 | eight
+enact |  
+| bip_39_word_new_line3 | eight
+enact
+captain |  
+| bip_39_word_new_line4 | eight
+enact
+captain
+start |  
+| bip_39_word_new_line5 | eight
+enact
+captain
+start
+profit |  
+| bip_39_word_new_line6 | eight
+enact
+captain
+start
+profit
+canvas |  
+| bip_39_word_new_line7 | eight
+enact
+captain
+start
+profit
+canvas
+shrug |  
+| bip_39_word_new_line8 | eight
+enact
+captain
+start
+profit
+canvas
+shrug
+wolf |  
+| bip_39_word_new_line9 | eight
+enact
+captain
+start
+profit
+canvas
+shrug
+wolf
+hybrid |  
+| bip_39_word_space_0 | ['eight', 'enact', 'captain', 'start', 'profit', 'canvas', 'shrug', 'wolf', 'hybrid', 'return', 'love', 'argue'] |  
+| bip_39_word_space_1 | eight |  
+| bip_39_word_space_10 | eight enact captain start profit canvas shrug wolf hybrid return |  
+| bip_39_word_space_11 | eight enact captain start profit canvas shrug wolf hybrid return love |  
+| bip_39_word_space_12 | eight enact captain start profit canvas shrug wolf hybrid return love argue |  
+| bip_39_word_space_2 | eight enact |  
+| bip_39_word_space_3 | eight enact captain |  
+| bip_39_word_space_4 | eight enact captain start |  
+| bip_39_word_space_5 | eight enact captain start profit |  
+| bip_39_word_space_6 | eight enact captain start profit canvas |  
+| bip_39_word_space_7 | eight enact captain start profit canvas shrug |  
+| bip_39_word_space_8 | eight enact captain start profit canvas shrug wolf |  
+| bip_39_word_space_9 | eight enact captain start profit canvas shrug wolf hybrid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

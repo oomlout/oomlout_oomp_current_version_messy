@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: dell
   * part_number: e2211hb
+  * bip 39 word 2: blood rice
+  * bip 39 word 3: blood rice blouse
+  * bip 39 word: blood rice blouse web guide awful typical salt achieve choice forward air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blood |  
+| bip_39_word_new_br10 | blood<br>rice<br>blouse<br>web<br>guide<br>awful<br>typical<br>salt<br>achieve<br>choice |  
+| bip_39_word_new_br11 | blood<br>rice<br>blouse<br>web<br>guide<br>awful<br>typical<br>salt<br>achieve<br>choice<br>forward |  
+| bip_39_word_new_br12 | blood<br>rice<br>blouse<br>web<br>guide<br>awful<br>typical<br>salt<br>achieve<br>choice<br>forward<br>air |  
+| bip_39_word_new_br2 | blood<br>rice |  
+| bip_39_word_new_br3 | blood<br>rice<br>blouse |  
+| bip_39_word_new_br4 | blood<br>rice<br>blouse<br>web |  
+| bip_39_word_new_br5 | blood<br>rice<br>blouse<br>web<br>guide |  
+| bip_39_word_new_br6 | blood<br>rice<br>blouse<br>web<br>guide<br>awful |  
+| bip_39_word_new_br7 | blood<br>rice<br>blouse<br>web<br>guide<br>awful<br>typical |  
+| bip_39_word_new_br8 | blood<br>rice<br>blouse<br>web<br>guide<br>awful<br>typical<br>salt |  
+| bip_39_word_new_br9 | blood<br>rice<br>blouse<br>web<br>guide<br>awful<br>typical<br>salt<br>achieve |  
+| bip_39_word_new_line1 | blood |  
+| bip_39_word_new_line10 | blood
+rice
+blouse
+web
+guide
+awful
+typical
+salt
+achieve
+choice |  
+| bip_39_word_new_line11 | blood
+rice
+blouse
+web
+guide
+awful
+typical
+salt
+achieve
+choice
+forward |  
+| bip_39_word_new_line12 | blood
+rice
+blouse
+web
+guide
+awful
+typical
+salt
+achieve
+choice
+forward
+air |  
+| bip_39_word_new_line2 | blood
+rice |  
+| bip_39_word_new_line3 | blood
+rice
+blouse |  
+| bip_39_word_new_line4 | blood
+rice
+blouse
+web |  
+| bip_39_word_new_line5 | blood
+rice
+blouse
+web
+guide |  
+| bip_39_word_new_line6 | blood
+rice
+blouse
+web
+guide
+awful |  
+| bip_39_word_new_line7 | blood
+rice
+blouse
+web
+guide
+awful
+typical |  
+| bip_39_word_new_line8 | blood
+rice
+blouse
+web
+guide
+awful
+typical
+salt |  
+| bip_39_word_new_line9 | blood
+rice
+blouse
+web
+guide
+awful
+typical
+salt
+achieve |  
+| bip_39_word_space_0 | ['blood', 'rice', 'blouse', 'web', 'guide', 'awful', 'typical', 'salt', 'achieve', 'choice', 'forward', 'air'] |  
+| bip_39_word_space_1 | blood |  
+| bip_39_word_space_10 | blood rice blouse web guide awful typical salt achieve choice |  
+| bip_39_word_space_11 | blood rice blouse web guide awful typical salt achieve choice forward |  
+| bip_39_word_space_12 | blood rice blouse web guide awful typical salt achieve choice forward air |  
+| bip_39_word_space_2 | blood rice |  
+| bip_39_word_space_3 | blood rice blouse |  
+| bip_39_word_space_4 | blood rice blouse web |  
+| bip_39_word_space_5 | blood rice blouse web guide |  
+| bip_39_word_space_6 | blood rice blouse web guide awful |  
+| bip_39_word_space_7 | blood rice blouse web guide awful typical |  
+| bip_39_word_space_8 | blood rice blouse web guide awful typical salt |  
+| bip_39_word_space_9 | blood rice blouse web guide awful typical salt achieve |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: high follow
+  * bip 39 word 3: high follow sport
+  * bip 39 word: high follow sport intact bronze chair swift drum deer cream bone air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | high |  
+| bip_39_word_new_br10 | high<br>follow<br>sport<br>intact<br>bronze<br>chair<br>swift<br>drum<br>deer<br>cream |  
+| bip_39_word_new_br11 | high<br>follow<br>sport<br>intact<br>bronze<br>chair<br>swift<br>drum<br>deer<br>cream<br>bone |  
+| bip_39_word_new_br12 | high<br>follow<br>sport<br>intact<br>bronze<br>chair<br>swift<br>drum<br>deer<br>cream<br>bone<br>air |  
+| bip_39_word_new_br2 | high<br>follow |  
+| bip_39_word_new_br3 | high<br>follow<br>sport |  
+| bip_39_word_new_br4 | high<br>follow<br>sport<br>intact |  
+| bip_39_word_new_br5 | high<br>follow<br>sport<br>intact<br>bronze |  
+| bip_39_word_new_br6 | high<br>follow<br>sport<br>intact<br>bronze<br>chair |  
+| bip_39_word_new_br7 | high<br>follow<br>sport<br>intact<br>bronze<br>chair<br>swift |  
+| bip_39_word_new_br8 | high<br>follow<br>sport<br>intact<br>bronze<br>chair<br>swift<br>drum |  
+| bip_39_word_new_br9 | high<br>follow<br>sport<br>intact<br>bronze<br>chair<br>swift<br>drum<br>deer |  
+| bip_39_word_new_line1 | high |  
+| bip_39_word_new_line10 | high
+follow
+sport
+intact
+bronze
+chair
+swift
+drum
+deer
+cream |  
+| bip_39_word_new_line11 | high
+follow
+sport
+intact
+bronze
+chair
+swift
+drum
+deer
+cream
+bone |  
+| bip_39_word_new_line12 | high
+follow
+sport
+intact
+bronze
+chair
+swift
+drum
+deer
+cream
+bone
+air |  
+| bip_39_word_new_line2 | high
+follow |  
+| bip_39_word_new_line3 | high
+follow
+sport |  
+| bip_39_word_new_line4 | high
+follow
+sport
+intact |  
+| bip_39_word_new_line5 | high
+follow
+sport
+intact
+bronze |  
+| bip_39_word_new_line6 | high
+follow
+sport
+intact
+bronze
+chair |  
+| bip_39_word_new_line7 | high
+follow
+sport
+intact
+bronze
+chair
+swift |  
+| bip_39_word_new_line8 | high
+follow
+sport
+intact
+bronze
+chair
+swift
+drum |  
+| bip_39_word_new_line9 | high
+follow
+sport
+intact
+bronze
+chair
+swift
+drum
+deer |  
+| bip_39_word_space_0 | ['high', 'follow', 'sport', 'intact', 'bronze', 'chair', 'swift', 'drum', 'deer', 'cream', 'bone', 'air'] |  
+| bip_39_word_space_1 | high |  
+| bip_39_word_space_10 | high follow sport intact bronze chair swift drum deer cream |  
+| bip_39_word_space_11 | high follow sport intact bronze chair swift drum deer cream bone |  
+| bip_39_word_space_12 | high follow sport intact bronze chair swift drum deer cream bone air |  
+| bip_39_word_space_2 | high follow |  
+| bip_39_word_space_3 | high follow sport |  
+| bip_39_word_space_4 | high follow sport intact |  
+| bip_39_word_space_5 | high follow sport intact bronze |  
+| bip_39_word_space_6 | high follow sport intact bronze chair |  
+| bip_39_word_space_7 | high follow sport intact bronze chair swift |  
+| bip_39_word_space_8 | high follow sport intact bronze chair swift drum |  
+| bip_39_word_space_9 | high follow sport intact bronze chair swift drum deer |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

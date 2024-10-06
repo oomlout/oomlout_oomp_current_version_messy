@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: robust ill
+  * bip 39 word 3: robust ill camera
+  * bip 39 word: robust ill camera define kind apology abstract hammer fiction blast swim alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | robust |  
+| bip_39_word_new_br10 | robust<br>ill<br>camera<br>define<br>kind<br>apology<br>abstract<br>hammer<br>fiction<br>blast |  
+| bip_39_word_new_br11 | robust<br>ill<br>camera<br>define<br>kind<br>apology<br>abstract<br>hammer<br>fiction<br>blast<br>swim |  
+| bip_39_word_new_br12 | robust<br>ill<br>camera<br>define<br>kind<br>apology<br>abstract<br>hammer<br>fiction<br>blast<br>swim<br>alarm |  
+| bip_39_word_new_br2 | robust<br>ill |  
+| bip_39_word_new_br3 | robust<br>ill<br>camera |  
+| bip_39_word_new_br4 | robust<br>ill<br>camera<br>define |  
+| bip_39_word_new_br5 | robust<br>ill<br>camera<br>define<br>kind |  
+| bip_39_word_new_br6 | robust<br>ill<br>camera<br>define<br>kind<br>apology |  
+| bip_39_word_new_br7 | robust<br>ill<br>camera<br>define<br>kind<br>apology<br>abstract |  
+| bip_39_word_new_br8 | robust<br>ill<br>camera<br>define<br>kind<br>apology<br>abstract<br>hammer |  
+| bip_39_word_new_br9 | robust<br>ill<br>camera<br>define<br>kind<br>apology<br>abstract<br>hammer<br>fiction |  
+| bip_39_word_new_line1 | robust |  
+| bip_39_word_new_line10 | robust
+ill
+camera
+define
+kind
+apology
+abstract
+hammer
+fiction
+blast |  
+| bip_39_word_new_line11 | robust
+ill
+camera
+define
+kind
+apology
+abstract
+hammer
+fiction
+blast
+swim |  
+| bip_39_word_new_line12 | robust
+ill
+camera
+define
+kind
+apology
+abstract
+hammer
+fiction
+blast
+swim
+alarm |  
+| bip_39_word_new_line2 | robust
+ill |  
+| bip_39_word_new_line3 | robust
+ill
+camera |  
+| bip_39_word_new_line4 | robust
+ill
+camera
+define |  
+| bip_39_word_new_line5 | robust
+ill
+camera
+define
+kind |  
+| bip_39_word_new_line6 | robust
+ill
+camera
+define
+kind
+apology |  
+| bip_39_word_new_line7 | robust
+ill
+camera
+define
+kind
+apology
+abstract |  
+| bip_39_word_new_line8 | robust
+ill
+camera
+define
+kind
+apology
+abstract
+hammer |  
+| bip_39_word_new_line9 | robust
+ill
+camera
+define
+kind
+apology
+abstract
+hammer
+fiction |  
+| bip_39_word_space_0 | ['robust', 'ill', 'camera', 'define', 'kind', 'apology', 'abstract', 'hammer', 'fiction', 'blast', 'swim', 'alarm'] |  
+| bip_39_word_space_1 | robust |  
+| bip_39_word_space_10 | robust ill camera define kind apology abstract hammer fiction blast |  
+| bip_39_word_space_11 | robust ill camera define kind apology abstract hammer fiction blast swim |  
+| bip_39_word_space_12 | robust ill camera define kind apology abstract hammer fiction blast swim alarm |  
+| bip_39_word_space_2 | robust ill |  
+| bip_39_word_space_3 | robust ill camera |  
+| bip_39_word_space_4 | robust ill camera define |  
+| bip_39_word_space_5 | robust ill camera define kind |  
+| bip_39_word_space_6 | robust ill camera define kind apology |  
+| bip_39_word_space_7 | robust ill camera define kind apology abstract |  
+| bip_39_word_space_8 | robust ill camera define kind apology abstract hammer |  
+| bip_39_word_space_9 | robust ill camera define kind apology abstract hammer fiction |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

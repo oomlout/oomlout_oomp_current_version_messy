@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nation ski
+  * bip 39 word 3: nation ski buyer
+  * bip 39 word: nation ski buyer skirt party fabric remain relief letter park disease amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nation |  
+| bip_39_word_new_br10 | nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter<br>park |  
+| bip_39_word_new_br11 | nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter<br>park<br>disease |  
+| bip_39_word_new_br12 | nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter<br>park<br>disease<br>amateur |  
+| bip_39_word_new_br2 | nation<br>ski |  
+| bip_39_word_new_br3 | nation<br>ski<br>buyer |  
+| bip_39_word_new_br4 | nation<br>ski<br>buyer<br>skirt |  
+| bip_39_word_new_br5 | nation<br>ski<br>buyer<br>skirt<br>party |  
+| bip_39_word_new_br6 | nation<br>ski<br>buyer<br>skirt<br>party<br>fabric |  
+| bip_39_word_new_br7 | nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain |  
+| bip_39_word_new_br8 | nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief |  
+| bip_39_word_new_br9 | nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter |  
+| bip_39_word_new_line1 | nation |  
+| bip_39_word_new_line10 | nation
+ski
+buyer
+skirt
+party
+fabric
+remain
+relief
+letter
+park |  
+| bip_39_word_new_line11 | nation
+ski
+buyer
+skirt
+party
+fabric
+remain
+relief
+letter
+park
+disease |  
+| bip_39_word_new_line12 | nation
+ski
+buyer
+skirt
+party
+fabric
+remain
+relief
+letter
+park
+disease
+amateur |  
+| bip_39_word_new_line2 | nation
+ski |  
+| bip_39_word_new_line3 | nation
+ski
+buyer |  
+| bip_39_word_new_line4 | nation
+ski
+buyer
+skirt |  
+| bip_39_word_new_line5 | nation
+ski
+buyer
+skirt
+party |  
+| bip_39_word_new_line6 | nation
+ski
+buyer
+skirt
+party
+fabric |  
+| bip_39_word_new_line7 | nation
+ski
+buyer
+skirt
+party
+fabric
+remain |  
+| bip_39_word_new_line8 | nation
+ski
+buyer
+skirt
+party
+fabric
+remain
+relief |  
+| bip_39_word_new_line9 | nation
+ski
+buyer
+skirt
+party
+fabric
+remain
+relief
+letter |  
+| bip_39_word_space_0 | ['nation', 'ski', 'buyer', 'skirt', 'party', 'fabric', 'remain', 'relief', 'letter', 'park', 'disease', 'amateur'] |  
+| bip_39_word_space_1 | nation |  
+| bip_39_word_space_10 | nation ski buyer skirt party fabric remain relief letter park |  
+| bip_39_word_space_11 | nation ski buyer skirt party fabric remain relief letter park disease |  
+| bip_39_word_space_12 | nation ski buyer skirt party fabric remain relief letter park disease amateur |  
+| bip_39_word_space_2 | nation ski |  
+| bip_39_word_space_3 | nation ski buyer |  
+| bip_39_word_space_4 | nation ski buyer skirt |  
+| bip_39_word_space_5 | nation ski buyer skirt party |  
+| bip_39_word_space_6 | nation ski buyer skirt party fabric |  
+| bip_39_word_space_7 | nation ski buyer skirt party fabric remain |  
+| bip_39_word_space_8 | nation ski buyer skirt party fabric remain relief |  
+| bip_39_word_space_9 | nation ski buyer skirt party fabric remain relief letter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

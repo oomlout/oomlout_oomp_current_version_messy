@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: since come
+  * bip 39 word 3: since come virus
+  * bip 39 word: since come virus wisdom target mutual fancy ramp success blue ignore anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | since |  
+| bip_39_word_new_br10 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue |  
+| bip_39_word_new_br11 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue<br>ignore |  
+| bip_39_word_new_br12 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success<br>blue<br>ignore<br>anxiety |  
+| bip_39_word_new_br2 | since<br>come |  
+| bip_39_word_new_br3 | since<br>come<br>virus |  
+| bip_39_word_new_br4 | since<br>come<br>virus<br>wisdom |  
+| bip_39_word_new_br5 | since<br>come<br>virus<br>wisdom<br>target |  
+| bip_39_word_new_br6 | since<br>come<br>virus<br>wisdom<br>target<br>mutual |  
+| bip_39_word_new_br7 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy |  
+| bip_39_word_new_br8 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp |  
+| bip_39_word_new_br9 | since<br>come<br>virus<br>wisdom<br>target<br>mutual<br>fancy<br>ramp<br>success |  
+| bip_39_word_new_line1 | since |  
+| bip_39_word_new_line10 | since
+come
+virus
+wisdom
+target
+mutual
+fancy
+ramp
+success
+blue |  
+| bip_39_word_new_line11 | since
+come
+virus
+wisdom
+target
+mutual
+fancy
+ramp
+success
+blue
+ignore |  
+| bip_39_word_new_line12 | since
+come
+virus
+wisdom
+target
+mutual
+fancy
+ramp
+success
+blue
+ignore
+anxiety |  
+| bip_39_word_new_line2 | since
+come |  
+| bip_39_word_new_line3 | since
+come
+virus |  
+| bip_39_word_new_line4 | since
+come
+virus
+wisdom |  
+| bip_39_word_new_line5 | since
+come
+virus
+wisdom
+target |  
+| bip_39_word_new_line6 | since
+come
+virus
+wisdom
+target
+mutual |  
+| bip_39_word_new_line7 | since
+come
+virus
+wisdom
+target
+mutual
+fancy |  
+| bip_39_word_new_line8 | since
+come
+virus
+wisdom
+target
+mutual
+fancy
+ramp |  
+| bip_39_word_new_line9 | since
+come
+virus
+wisdom
+target
+mutual
+fancy
+ramp
+success |  
+| bip_39_word_space_0 | ['since', 'come', 'virus', 'wisdom', 'target', 'mutual', 'fancy', 'ramp', 'success', 'blue', 'ignore', 'anxiety'] |  
+| bip_39_word_space_1 | since |  
+| bip_39_word_space_10 | since come virus wisdom target mutual fancy ramp success blue |  
+| bip_39_word_space_11 | since come virus wisdom target mutual fancy ramp success blue ignore |  
+| bip_39_word_space_12 | since come virus wisdom target mutual fancy ramp success blue ignore anxiety |  
+| bip_39_word_space_2 | since come |  
+| bip_39_word_space_3 | since come virus |  
+| bip_39_word_space_4 | since come virus wisdom |  
+| bip_39_word_space_5 | since come virus wisdom target |  
+| bip_39_word_space_6 | since come virus wisdom target mutual |  
+| bip_39_word_space_7 | since come virus wisdom target mutual fancy |  
+| bip_39_word_space_8 | since come virus wisdom target mutual fancy ramp |  
+| bip_39_word_space_9 | since come virus wisdom target mutual fancy ramp success |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

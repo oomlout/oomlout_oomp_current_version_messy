@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stairs empower
+  * bip 39 word 3: stairs empower subject
+  * bip 39 word: stairs empower subject pelican suffer family honey pink arrest sight noise air
 
 ### other_codes
 * short_code: cs2b5h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stairs |  
+| bip_39_word_new_br10 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family<br>honey<br>pink<br>arrest<br>sight |  
+| bip_39_word_new_br11 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family<br>honey<br>pink<br>arrest<br>sight<br>noise |  
+| bip_39_word_new_br12 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family<br>honey<br>pink<br>arrest<br>sight<br>noise<br>air |  
+| bip_39_word_new_br2 | stairs<br>empower |  
+| bip_39_word_new_br3 | stairs<br>empower<br>subject |  
+| bip_39_word_new_br4 | stairs<br>empower<br>subject<br>pelican |  
+| bip_39_word_new_br5 | stairs<br>empower<br>subject<br>pelican<br>suffer |  
+| bip_39_word_new_br6 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family |  
+| bip_39_word_new_br7 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family<br>honey |  
+| bip_39_word_new_br8 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family<br>honey<br>pink |  
+| bip_39_word_new_br9 | stairs<br>empower<br>subject<br>pelican<br>suffer<br>family<br>honey<br>pink<br>arrest |  
+| bip_39_word_new_line1 | stairs |  
+| bip_39_word_new_line10 | stairs
+empower
+subject
+pelican
+suffer
+family
+honey
+pink
+arrest
+sight |  
+| bip_39_word_new_line11 | stairs
+empower
+subject
+pelican
+suffer
+family
+honey
+pink
+arrest
+sight
+noise |  
+| bip_39_word_new_line12 | stairs
+empower
+subject
+pelican
+suffer
+family
+honey
+pink
+arrest
+sight
+noise
+air |  
+| bip_39_word_new_line2 | stairs
+empower |  
+| bip_39_word_new_line3 | stairs
+empower
+subject |  
+| bip_39_word_new_line4 | stairs
+empower
+subject
+pelican |  
+| bip_39_word_new_line5 | stairs
+empower
+subject
+pelican
+suffer |  
+| bip_39_word_new_line6 | stairs
+empower
+subject
+pelican
+suffer
+family |  
+| bip_39_word_new_line7 | stairs
+empower
+subject
+pelican
+suffer
+family
+honey |  
+| bip_39_word_new_line8 | stairs
+empower
+subject
+pelican
+suffer
+family
+honey
+pink |  
+| bip_39_word_new_line9 | stairs
+empower
+subject
+pelican
+suffer
+family
+honey
+pink
+arrest |  
+| bip_39_word_space_0 | ['stairs', 'empower', 'subject', 'pelican', 'suffer', 'family', 'honey', 'pink', 'arrest', 'sight', 'noise', 'air'] |  
+| bip_39_word_space_1 | stairs |  
+| bip_39_word_space_10 | stairs empower subject pelican suffer family honey pink arrest sight |  
+| bip_39_word_space_11 | stairs empower subject pelican suffer family honey pink arrest sight noise |  
+| bip_39_word_space_12 | stairs empower subject pelican suffer family honey pink arrest sight noise air |  
+| bip_39_word_space_2 | stairs empower |  
+| bip_39_word_space_3 | stairs empower subject |  
+| bip_39_word_space_4 | stairs empower subject pelican |  
+| bip_39_word_space_5 | stairs empower subject pelican suffer |  
+| bip_39_word_space_6 | stairs empower subject pelican suffer family |  
+| bip_39_word_space_7 | stairs empower subject pelican suffer family honey |  
+| bip_39_word_space_8 | stairs empower subject pelican suffer family honey pink |  
+| bip_39_word_space_9 | stairs empower subject pelican suffer family honey pink arrest |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

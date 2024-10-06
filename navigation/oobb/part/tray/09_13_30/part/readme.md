@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: language gloom
+  * bip 39 word 3: language gloom educate
+  * bip 39 word: language gloom educate pupil useless grab trip ankle permit shop ordinary acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | language |  
+| bip_39_word_new_br10 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop |  
+| bip_39_word_new_br11 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary |  
+| bip_39_word_new_br12 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary<br>acid |  
+| bip_39_word_new_br2 | language<br>gloom |  
+| bip_39_word_new_br3 | language<br>gloom<br>educate |  
+| bip_39_word_new_br4 | language<br>gloom<br>educate<br>pupil |  
+| bip_39_word_new_br5 | language<br>gloom<br>educate<br>pupil<br>useless |  
+| bip_39_word_new_br6 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab |  
+| bip_39_word_new_br7 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip |  
+| bip_39_word_new_br8 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle |  
+| bip_39_word_new_br9 | language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit |  
+| bip_39_word_new_line1 | language |  
+| bip_39_word_new_line10 | language
+gloom
+educate
+pupil
+useless
+grab
+trip
+ankle
+permit
+shop |  
+| bip_39_word_new_line11 | language
+gloom
+educate
+pupil
+useless
+grab
+trip
+ankle
+permit
+shop
+ordinary |  
+| bip_39_word_new_line12 | language
+gloom
+educate
+pupil
+useless
+grab
+trip
+ankle
+permit
+shop
+ordinary
+acid |  
+| bip_39_word_new_line2 | language
+gloom |  
+| bip_39_word_new_line3 | language
+gloom
+educate |  
+| bip_39_word_new_line4 | language
+gloom
+educate
+pupil |  
+| bip_39_word_new_line5 | language
+gloom
+educate
+pupil
+useless |  
+| bip_39_word_new_line6 | language
+gloom
+educate
+pupil
+useless
+grab |  
+| bip_39_word_new_line7 | language
+gloom
+educate
+pupil
+useless
+grab
+trip |  
+| bip_39_word_new_line8 | language
+gloom
+educate
+pupil
+useless
+grab
+trip
+ankle |  
+| bip_39_word_new_line9 | language
+gloom
+educate
+pupil
+useless
+grab
+trip
+ankle
+permit |  
+| bip_39_word_space_0 | ['language', 'gloom', 'educate', 'pupil', 'useless', 'grab', 'trip', 'ankle', 'permit', 'shop', 'ordinary', 'acid'] |  
+| bip_39_word_space_1 | language |  
+| bip_39_word_space_10 | language gloom educate pupil useless grab trip ankle permit shop |  
+| bip_39_word_space_11 | language gloom educate pupil useless grab trip ankle permit shop ordinary |  
+| bip_39_word_space_12 | language gloom educate pupil useless grab trip ankle permit shop ordinary acid |  
+| bip_39_word_space_2 | language gloom |  
+| bip_39_word_space_3 | language gloom educate |  
+| bip_39_word_space_4 | language gloom educate pupil |  
+| bip_39_word_space_5 | language gloom educate pupil useless |  
+| bip_39_word_space_6 | language gloom educate pupil useless grab |  
+| bip_39_word_space_7 | language gloom educate pupil useless grab trip |  
+| bip_39_word_space_8 | language gloom educate pupil useless grab trip ankle |  
+| bip_39_word_space_9 | language gloom educate pupil useless grab trip ankle permit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

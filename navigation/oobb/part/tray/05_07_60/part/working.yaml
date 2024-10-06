@@ -1,3 +1,187 @@
+bip_39_word_new_br1: truth
+bip_39_word_new_br10: truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool
+bip_39_word_new_br11: truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool<br>trap
+bip_39_word_new_br12: truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp<br>tool<br>trap<br>attitude
+bip_39_word_new_br2: truth<br>educate
+bip_39_word_new_br3: truth<br>educate<br>destroy
+bip_39_word_new_br4: truth<br>educate<br>destroy<br>enhance
+bip_39_word_new_br5: truth<br>educate<br>destroy<br>enhance<br>crucial
+bip_39_word_new_br6: truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear
+bip_39_word_new_br7: truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder
+bip_39_word_new_br8: truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant
+bip_39_word_new_br9: truth<br>educate<br>destroy<br>enhance<br>crucial<br>swear<br>thunder<br>vibrant<br>gasp
+bip_39_word_new_line1: truth
+bip_39_word_new_line10: 'truth
+
+  educate
+
+  destroy
+
+  enhance
+
+  crucial
+
+  swear
+
+  thunder
+
+  vibrant
+
+  gasp
+
+  tool'
+bip_39_word_new_line11: 'truth
+
+  educate
+
+  destroy
+
+  enhance
+
+  crucial
+
+  swear
+
+  thunder
+
+  vibrant
+
+  gasp
+
+  tool
+
+  trap'
+bip_39_word_new_line12: 'truth
+
+  educate
+
+  destroy
+
+  enhance
+
+  crucial
+
+  swear
+
+  thunder
+
+  vibrant
+
+  gasp
+
+  tool
+
+  trap
+
+  attitude'
+bip_39_word_new_line2: 'truth
+
+  educate'
+bip_39_word_new_line3: 'truth
+
+  educate
+
+  destroy'
+bip_39_word_new_line4: 'truth
+
+  educate
+
+  destroy
+
+  enhance'
+bip_39_word_new_line5: 'truth
+
+  educate
+
+  destroy
+
+  enhance
+
+  crucial'
+bip_39_word_new_line6: 'truth
+
+  educate
+
+  destroy
+
+  enhance
+
+  crucial
+
+  swear'
+bip_39_word_new_line7: 'truth
+
+  educate
+
+  destroy
+
+  enhance
+
+  crucial
+
+  swear
+
+  thunder'
+bip_39_word_new_line8: 'truth
+
+  educate
+
+  destroy
+
+  enhance
+
+  crucial
+
+  swear
+
+  thunder
+
+  vibrant'
+bip_39_word_new_line9: 'truth
+
+  educate
+
+  destroy
+
+  enhance
+
+  crucial
+
+  swear
+
+  thunder
+
+  vibrant
+
+  gasp'
+bip_39_word_space_0:
+- truth
+- educate
+- destroy
+- enhance
+- crucial
+- swear
+- thunder
+- vibrant
+- gasp
+- tool
+- trap
+- attitude
+bip_39_word_space_1: truth
+bip_39_word_space_10: truth educate destroy enhance crucial swear thunder vibrant
+  gasp tool
+bip_39_word_space_11: truth educate destroy enhance crucial swear thunder vibrant
+  gasp tool trap
+bip_39_word_space_12: truth educate destroy enhance crucial swear thunder vibrant
+  gasp tool trap attitude
+bip_39_word_space_2: truth educate
+bip_39_word_space_3: truth educate destroy
+bip_39_word_space_4: truth educate destroy enhance
+bip_39_word_space_5: truth educate destroy enhance crucial
+bip_39_word_space_6: truth educate destroy enhance crucial swear
+bip_39_word_space_7: truth educate destroy enhance crucial swear thunder
+bip_39_word_space_8: truth educate destroy enhance crucial swear thunder vibrant
+bip_39_word_space_9: truth educate destroy enhance crucial swear thunder vibrant gasp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

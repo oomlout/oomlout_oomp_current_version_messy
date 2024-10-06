@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prevent click
+  * bip 39 word 3: prevent click fresh
+  * bip 39 word: prevent click fresh loop dinosaur quality portion private target build safe armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prevent |  
+| bip_39_word_new_br10 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality<br>portion<br>private<br>target<br>build |  
+| bip_39_word_new_br11 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality<br>portion<br>private<br>target<br>build<br>safe |  
+| bip_39_word_new_br12 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality<br>portion<br>private<br>target<br>build<br>safe<br>armed |  
+| bip_39_word_new_br2 | prevent<br>click |  
+| bip_39_word_new_br3 | prevent<br>click<br>fresh |  
+| bip_39_word_new_br4 | prevent<br>click<br>fresh<br>loop |  
+| bip_39_word_new_br5 | prevent<br>click<br>fresh<br>loop<br>dinosaur |  
+| bip_39_word_new_br6 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality |  
+| bip_39_word_new_br7 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality<br>portion |  
+| bip_39_word_new_br8 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality<br>portion<br>private |  
+| bip_39_word_new_br9 | prevent<br>click<br>fresh<br>loop<br>dinosaur<br>quality<br>portion<br>private<br>target |  
+| bip_39_word_new_line1 | prevent |  
+| bip_39_word_new_line10 | prevent
+click
+fresh
+loop
+dinosaur
+quality
+portion
+private
+target
+build |  
+| bip_39_word_new_line11 | prevent
+click
+fresh
+loop
+dinosaur
+quality
+portion
+private
+target
+build
+safe |  
+| bip_39_word_new_line12 | prevent
+click
+fresh
+loop
+dinosaur
+quality
+portion
+private
+target
+build
+safe
+armed |  
+| bip_39_word_new_line2 | prevent
+click |  
+| bip_39_word_new_line3 | prevent
+click
+fresh |  
+| bip_39_word_new_line4 | prevent
+click
+fresh
+loop |  
+| bip_39_word_new_line5 | prevent
+click
+fresh
+loop
+dinosaur |  
+| bip_39_word_new_line6 | prevent
+click
+fresh
+loop
+dinosaur
+quality |  
+| bip_39_word_new_line7 | prevent
+click
+fresh
+loop
+dinosaur
+quality
+portion |  
+| bip_39_word_new_line8 | prevent
+click
+fresh
+loop
+dinosaur
+quality
+portion
+private |  
+| bip_39_word_new_line9 | prevent
+click
+fresh
+loop
+dinosaur
+quality
+portion
+private
+target |  
+| bip_39_word_space_0 | ['prevent', 'click', 'fresh', 'loop', 'dinosaur', 'quality', 'portion', 'private', 'target', 'build', 'safe', 'armed'] |  
+| bip_39_word_space_1 | prevent |  
+| bip_39_word_space_10 | prevent click fresh loop dinosaur quality portion private target build |  
+| bip_39_word_space_11 | prevent click fresh loop dinosaur quality portion private target build safe |  
+| bip_39_word_space_12 | prevent click fresh loop dinosaur quality portion private target build safe armed |  
+| bip_39_word_space_2 | prevent click |  
+| bip_39_word_space_3 | prevent click fresh |  
+| bip_39_word_space_4 | prevent click fresh loop |  
+| bip_39_word_space_5 | prevent click fresh loop dinosaur |  
+| bip_39_word_space_6 | prevent click fresh loop dinosaur quality |  
+| bip_39_word_space_7 | prevent click fresh loop dinosaur quality portion |  
+| bip_39_word_space_8 | prevent click fresh loop dinosaur quality portion private |  
+| bip_39_word_space_9 | prevent click fresh loop dinosaur quality portion private target |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

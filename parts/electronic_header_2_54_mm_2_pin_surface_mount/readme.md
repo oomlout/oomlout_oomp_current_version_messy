@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: thing protect
+  * bip 39 word 3: thing protect pond
+  * bip 39 word: thing protect pond suggest record degree brush fitness fiction artwork enter alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | thing |  
+| bip_39_word_new_br10 | thing<br>protect<br>pond<br>suggest<br>record<br>degree<br>brush<br>fitness<br>fiction<br>artwork |  
+| bip_39_word_new_br11 | thing<br>protect<br>pond<br>suggest<br>record<br>degree<br>brush<br>fitness<br>fiction<br>artwork<br>enter |  
+| bip_39_word_new_br12 | thing<br>protect<br>pond<br>suggest<br>record<br>degree<br>brush<br>fitness<br>fiction<br>artwork<br>enter<br>alley |  
+| bip_39_word_new_br2 | thing<br>protect |  
+| bip_39_word_new_br3 | thing<br>protect<br>pond |  
+| bip_39_word_new_br4 | thing<br>protect<br>pond<br>suggest |  
+| bip_39_word_new_br5 | thing<br>protect<br>pond<br>suggest<br>record |  
+| bip_39_word_new_br6 | thing<br>protect<br>pond<br>suggest<br>record<br>degree |  
+| bip_39_word_new_br7 | thing<br>protect<br>pond<br>suggest<br>record<br>degree<br>brush |  
+| bip_39_word_new_br8 | thing<br>protect<br>pond<br>suggest<br>record<br>degree<br>brush<br>fitness |  
+| bip_39_word_new_br9 | thing<br>protect<br>pond<br>suggest<br>record<br>degree<br>brush<br>fitness<br>fiction |  
+| bip_39_word_new_line1 | thing |  
+| bip_39_word_new_line10 | thing
+protect
+pond
+suggest
+record
+degree
+brush
+fitness
+fiction
+artwork |  
+| bip_39_word_new_line11 | thing
+protect
+pond
+suggest
+record
+degree
+brush
+fitness
+fiction
+artwork
+enter |  
+| bip_39_word_new_line12 | thing
+protect
+pond
+suggest
+record
+degree
+brush
+fitness
+fiction
+artwork
+enter
+alley |  
+| bip_39_word_new_line2 | thing
+protect |  
+| bip_39_word_new_line3 | thing
+protect
+pond |  
+| bip_39_word_new_line4 | thing
+protect
+pond
+suggest |  
+| bip_39_word_new_line5 | thing
+protect
+pond
+suggest
+record |  
+| bip_39_word_new_line6 | thing
+protect
+pond
+suggest
+record
+degree |  
+| bip_39_word_new_line7 | thing
+protect
+pond
+suggest
+record
+degree
+brush |  
+| bip_39_word_new_line8 | thing
+protect
+pond
+suggest
+record
+degree
+brush
+fitness |  
+| bip_39_word_new_line9 | thing
+protect
+pond
+suggest
+record
+degree
+brush
+fitness
+fiction |  
+| bip_39_word_space_0 | ['thing', 'protect', 'pond', 'suggest', 'record', 'degree', 'brush', 'fitness', 'fiction', 'artwork', 'enter', 'alley'] |  
+| bip_39_word_space_1 | thing |  
+| bip_39_word_space_10 | thing protect pond suggest record degree brush fitness fiction artwork |  
+| bip_39_word_space_11 | thing protect pond suggest record degree brush fitness fiction artwork enter |  
+| bip_39_word_space_12 | thing protect pond suggest record degree brush fitness fiction artwork enter alley |  
+| bip_39_word_space_2 | thing protect |  
+| bip_39_word_space_3 | thing protect pond |  
+| bip_39_word_space_4 | thing protect pond suggest |  
+| bip_39_word_space_5 | thing protect pond suggest record |  
+| bip_39_word_space_6 | thing protect pond suggest record degree |  
+| bip_39_word_space_7 | thing protect pond suggest record degree brush |  
+| bip_39_word_space_8 | thing protect pond suggest record degree brush fitness |  
+| bip_39_word_space_9 | thing protect pond suggest record degree brush fitness fiction |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

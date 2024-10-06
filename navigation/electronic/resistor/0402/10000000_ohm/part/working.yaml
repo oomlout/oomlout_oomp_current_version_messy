@@ -1,3 +1,186 @@
+bip_39_word_new_br1: radio
+bip_39_word_new_br10: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy
+bip_39_word_new_br11: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy<br>earth
+bip_39_word_new_br12: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl<br>economy<br>earth<br>among
+bip_39_word_new_br2: radio<br>bike
+bip_39_word_new_br3: radio<br>bike<br>immense
+bip_39_word_new_br4: radio<br>bike<br>immense<br>fantasy
+bip_39_word_new_br5: radio<br>bike<br>immense<br>fantasy<br>can
+bip_39_word_new_br6: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist
+bip_39_word_new_br7: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client
+bip_39_word_new_br8: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun
+bip_39_word_new_br9: radio<br>bike<br>immense<br>fantasy<br>can<br>tourist<br>client<br>gun<br>girl
+bip_39_word_new_line1: radio
+bip_39_word_new_line10: 'radio
+
+  bike
+
+  immense
+
+  fantasy
+
+  can
+
+  tourist
+
+  client
+
+  gun
+
+  girl
+
+  economy'
+bip_39_word_new_line11: 'radio
+
+  bike
+
+  immense
+
+  fantasy
+
+  can
+
+  tourist
+
+  client
+
+  gun
+
+  girl
+
+  economy
+
+  earth'
+bip_39_word_new_line12: 'radio
+
+  bike
+
+  immense
+
+  fantasy
+
+  can
+
+  tourist
+
+  client
+
+  gun
+
+  girl
+
+  economy
+
+  earth
+
+  among'
+bip_39_word_new_line2: 'radio
+
+  bike'
+bip_39_word_new_line3: 'radio
+
+  bike
+
+  immense'
+bip_39_word_new_line4: 'radio
+
+  bike
+
+  immense
+
+  fantasy'
+bip_39_word_new_line5: 'radio
+
+  bike
+
+  immense
+
+  fantasy
+
+  can'
+bip_39_word_new_line6: 'radio
+
+  bike
+
+  immense
+
+  fantasy
+
+  can
+
+  tourist'
+bip_39_word_new_line7: 'radio
+
+  bike
+
+  immense
+
+  fantasy
+
+  can
+
+  tourist
+
+  client'
+bip_39_word_new_line8: 'radio
+
+  bike
+
+  immense
+
+  fantasy
+
+  can
+
+  tourist
+
+  client
+
+  gun'
+bip_39_word_new_line9: 'radio
+
+  bike
+
+  immense
+
+  fantasy
+
+  can
+
+  tourist
+
+  client
+
+  gun
+
+  girl'
+bip_39_word_space_0:
+- radio
+- bike
+- immense
+- fantasy
+- can
+- tourist
+- client
+- gun
+- girl
+- economy
+- earth
+- among
+bip_39_word_space_1: radio
+bip_39_word_space_10: radio bike immense fantasy can tourist client gun girl economy
+bip_39_word_space_11: radio bike immense fantasy can tourist client gun girl economy
+  earth
+bip_39_word_space_12: radio bike immense fantasy can tourist client gun girl economy
+  earth among
+bip_39_word_space_2: radio bike
+bip_39_word_space_3: radio bike immense
+bip_39_word_space_4: radio bike immense fantasy
+bip_39_word_space_5: radio bike immense fantasy can
+bip_39_word_space_6: radio bike immense fantasy can tourist
+bip_39_word_space_7: radio bike immense fantasy can tourist client
+bip_39_word_space_8: radio bike immense fantasy can tourist client gun
+bip_39_word_space_9: radio bike immense fantasy can tourist client gun girl
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

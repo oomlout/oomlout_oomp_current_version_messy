@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: depth hedgehog
+  * bip 39 word 3: depth hedgehog seat
+  * bip 39 word: depth hedgehog seat you elbow bread spoil vessel camera loyal swamp abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | depth |  
+| bip_39_word_new_br10 | depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel<br>camera<br>loyal |  
+| bip_39_word_new_br11 | depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel<br>camera<br>loyal<br>swamp |  
+| bip_39_word_new_br12 | depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel<br>camera<br>loyal<br>swamp<br>abstract |  
+| bip_39_word_new_br2 | depth<br>hedgehog |  
+| bip_39_word_new_br3 | depth<br>hedgehog<br>seat |  
+| bip_39_word_new_br4 | depth<br>hedgehog<br>seat<br>you |  
+| bip_39_word_new_br5 | depth<br>hedgehog<br>seat<br>you<br>elbow |  
+| bip_39_word_new_br6 | depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread |  
+| bip_39_word_new_br7 | depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil |  
+| bip_39_word_new_br8 | depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel |  
+| bip_39_word_new_br9 | depth<br>hedgehog<br>seat<br>you<br>elbow<br>bread<br>spoil<br>vessel<br>camera |  
+| bip_39_word_new_line1 | depth |  
+| bip_39_word_new_line10 | depth
+hedgehog
+seat
+you
+elbow
+bread
+spoil
+vessel
+camera
+loyal |  
+| bip_39_word_new_line11 | depth
+hedgehog
+seat
+you
+elbow
+bread
+spoil
+vessel
+camera
+loyal
+swamp |  
+| bip_39_word_new_line12 | depth
+hedgehog
+seat
+you
+elbow
+bread
+spoil
+vessel
+camera
+loyal
+swamp
+abstract |  
+| bip_39_word_new_line2 | depth
+hedgehog |  
+| bip_39_word_new_line3 | depth
+hedgehog
+seat |  
+| bip_39_word_new_line4 | depth
+hedgehog
+seat
+you |  
+| bip_39_word_new_line5 | depth
+hedgehog
+seat
+you
+elbow |  
+| bip_39_word_new_line6 | depth
+hedgehog
+seat
+you
+elbow
+bread |  
+| bip_39_word_new_line7 | depth
+hedgehog
+seat
+you
+elbow
+bread
+spoil |  
+| bip_39_word_new_line8 | depth
+hedgehog
+seat
+you
+elbow
+bread
+spoil
+vessel |  
+| bip_39_word_new_line9 | depth
+hedgehog
+seat
+you
+elbow
+bread
+spoil
+vessel
+camera |  
+| bip_39_word_space_0 | ['depth', 'hedgehog', 'seat', 'you', 'elbow', 'bread', 'spoil', 'vessel', 'camera', 'loyal', 'swamp', 'abstract'] |  
+| bip_39_word_space_1 | depth |  
+| bip_39_word_space_10 | depth hedgehog seat you elbow bread spoil vessel camera loyal |  
+| bip_39_word_space_11 | depth hedgehog seat you elbow bread spoil vessel camera loyal swamp |  
+| bip_39_word_space_12 | depth hedgehog seat you elbow bread spoil vessel camera loyal swamp abstract |  
+| bip_39_word_space_2 | depth hedgehog |  
+| bip_39_word_space_3 | depth hedgehog seat |  
+| bip_39_word_space_4 | depth hedgehog seat you |  
+| bip_39_word_space_5 | depth hedgehog seat you elbow |  
+| bip_39_word_space_6 | depth hedgehog seat you elbow bread |  
+| bip_39_word_space_7 | depth hedgehog seat you elbow bread spoil |  
+| bip_39_word_space_8 | depth hedgehog seat you elbow bread spoil vessel |  
+| bip_39_word_space_9 | depth hedgehog seat you elbow bread spoil vessel camera |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: can rabbit
+  * bip 39 word 3: can rabbit liberty
+  * bip 39 word: can rabbit liberty again entry arena pulp silly six arctic blush accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | can |  
+| bip_39_word_new_br10 | can<br>rabbit<br>liberty<br>again<br>entry<br>arena<br>pulp<br>silly<br>six<br>arctic |  
+| bip_39_word_new_br11 | can<br>rabbit<br>liberty<br>again<br>entry<br>arena<br>pulp<br>silly<br>six<br>arctic<br>blush |  
+| bip_39_word_new_br12 | can<br>rabbit<br>liberty<br>again<br>entry<br>arena<br>pulp<br>silly<br>six<br>arctic<br>blush<br>accident |  
+| bip_39_word_new_br2 | can<br>rabbit |  
+| bip_39_word_new_br3 | can<br>rabbit<br>liberty |  
+| bip_39_word_new_br4 | can<br>rabbit<br>liberty<br>again |  
+| bip_39_word_new_br5 | can<br>rabbit<br>liberty<br>again<br>entry |  
+| bip_39_word_new_br6 | can<br>rabbit<br>liberty<br>again<br>entry<br>arena |  
+| bip_39_word_new_br7 | can<br>rabbit<br>liberty<br>again<br>entry<br>arena<br>pulp |  
+| bip_39_word_new_br8 | can<br>rabbit<br>liberty<br>again<br>entry<br>arena<br>pulp<br>silly |  
+| bip_39_word_new_br9 | can<br>rabbit<br>liberty<br>again<br>entry<br>arena<br>pulp<br>silly<br>six |  
+| bip_39_word_new_line1 | can |  
+| bip_39_word_new_line10 | can
+rabbit
+liberty
+again
+entry
+arena
+pulp
+silly
+six
+arctic |  
+| bip_39_word_new_line11 | can
+rabbit
+liberty
+again
+entry
+arena
+pulp
+silly
+six
+arctic
+blush |  
+| bip_39_word_new_line12 | can
+rabbit
+liberty
+again
+entry
+arena
+pulp
+silly
+six
+arctic
+blush
+accident |  
+| bip_39_word_new_line2 | can
+rabbit |  
+| bip_39_word_new_line3 | can
+rabbit
+liberty |  
+| bip_39_word_new_line4 | can
+rabbit
+liberty
+again |  
+| bip_39_word_new_line5 | can
+rabbit
+liberty
+again
+entry |  
+| bip_39_word_new_line6 | can
+rabbit
+liberty
+again
+entry
+arena |  
+| bip_39_word_new_line7 | can
+rabbit
+liberty
+again
+entry
+arena
+pulp |  
+| bip_39_word_new_line8 | can
+rabbit
+liberty
+again
+entry
+arena
+pulp
+silly |  
+| bip_39_word_new_line9 | can
+rabbit
+liberty
+again
+entry
+arena
+pulp
+silly
+six |  
+| bip_39_word_space_0 | ['can', 'rabbit', 'liberty', 'again', 'entry', 'arena', 'pulp', 'silly', 'six', 'arctic', 'blush', 'accident'] |  
+| bip_39_word_space_1 | can |  
+| bip_39_word_space_10 | can rabbit liberty again entry arena pulp silly six arctic |  
+| bip_39_word_space_11 | can rabbit liberty again entry arena pulp silly six arctic blush |  
+| bip_39_word_space_12 | can rabbit liberty again entry arena pulp silly six arctic blush accident |  
+| bip_39_word_space_2 | can rabbit |  
+| bip_39_word_space_3 | can rabbit liberty |  
+| bip_39_word_space_4 | can rabbit liberty again |  
+| bip_39_word_space_5 | can rabbit liberty again entry |  
+| bip_39_word_space_6 | can rabbit liberty again entry arena |  
+| bip_39_word_space_7 | can rabbit liberty again entry arena pulp |  
+| bip_39_word_space_8 | can rabbit liberty again entry arena pulp silly |  
+| bip_39_word_space_9 | can rabbit liberty again entry arena pulp silly six |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: carry ice
+  * bip 39 word 3: carry ice unfold
+  * bip 39 word: carry ice unfold drive snake pencil pipe green uncover add plate anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | carry |  
+| bip_39_word_new_br10 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil<br>pipe<br>green<br>uncover<br>add |  
+| bip_39_word_new_br11 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil<br>pipe<br>green<br>uncover<br>add<br>plate |  
+| bip_39_word_new_br12 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil<br>pipe<br>green<br>uncover<br>add<br>plate<br>anger |  
+| bip_39_word_new_br2 | carry<br>ice |  
+| bip_39_word_new_br3 | carry<br>ice<br>unfold |  
+| bip_39_word_new_br4 | carry<br>ice<br>unfold<br>drive |  
+| bip_39_word_new_br5 | carry<br>ice<br>unfold<br>drive<br>snake |  
+| bip_39_word_new_br6 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil |  
+| bip_39_word_new_br7 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil<br>pipe |  
+| bip_39_word_new_br8 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil<br>pipe<br>green |  
+| bip_39_word_new_br9 | carry<br>ice<br>unfold<br>drive<br>snake<br>pencil<br>pipe<br>green<br>uncover |  
+| bip_39_word_new_line1 | carry |  
+| bip_39_word_new_line10 | carry
+ice
+unfold
+drive
+snake
+pencil
+pipe
+green
+uncover
+add |  
+| bip_39_word_new_line11 | carry
+ice
+unfold
+drive
+snake
+pencil
+pipe
+green
+uncover
+add
+plate |  
+| bip_39_word_new_line12 | carry
+ice
+unfold
+drive
+snake
+pencil
+pipe
+green
+uncover
+add
+plate
+anger |  
+| bip_39_word_new_line2 | carry
+ice |  
+| bip_39_word_new_line3 | carry
+ice
+unfold |  
+| bip_39_word_new_line4 | carry
+ice
+unfold
+drive |  
+| bip_39_word_new_line5 | carry
+ice
+unfold
+drive
+snake |  
+| bip_39_word_new_line6 | carry
+ice
+unfold
+drive
+snake
+pencil |  
+| bip_39_word_new_line7 | carry
+ice
+unfold
+drive
+snake
+pencil
+pipe |  
+| bip_39_word_new_line8 | carry
+ice
+unfold
+drive
+snake
+pencil
+pipe
+green |  
+| bip_39_word_new_line9 | carry
+ice
+unfold
+drive
+snake
+pencil
+pipe
+green
+uncover |  
+| bip_39_word_space_0 | ['carry', 'ice', 'unfold', 'drive', 'snake', 'pencil', 'pipe', 'green', 'uncover', 'add', 'plate', 'anger'] |  
+| bip_39_word_space_1 | carry |  
+| bip_39_word_space_10 | carry ice unfold drive snake pencil pipe green uncover add |  
+| bip_39_word_space_11 | carry ice unfold drive snake pencil pipe green uncover add plate |  
+| bip_39_word_space_12 | carry ice unfold drive snake pencil pipe green uncover add plate anger |  
+| bip_39_word_space_2 | carry ice |  
+| bip_39_word_space_3 | carry ice unfold |  
+| bip_39_word_space_4 | carry ice unfold drive |  
+| bip_39_word_space_5 | carry ice unfold drive snake |  
+| bip_39_word_space_6 | carry ice unfold drive snake pencil |  
+| bip_39_word_space_7 | carry ice unfold drive snake pencil pipe |  
+| bip_39_word_space_8 | carry ice unfold drive snake pencil pipe green |  
+| bip_39_word_space_9 | carry ice unfold drive snake pencil pipe green uncover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

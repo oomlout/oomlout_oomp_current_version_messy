@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tuna venue
+  * bip 39 word 3: tuna venue nuclear
+  * bip 39 word: tuna venue nuclear shrimp impulse dwarf demise capable robust vibrant melt alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tuna |  
+| bip_39_word_new_br10 | tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf<br>demise<br>capable<br>robust<br>vibrant |  
+| bip_39_word_new_br11 | tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf<br>demise<br>capable<br>robust<br>vibrant<br>melt |  
+| bip_39_word_new_br12 | tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf<br>demise<br>capable<br>robust<br>vibrant<br>melt<br>alone |  
+| bip_39_word_new_br2 | tuna<br>venue |  
+| bip_39_word_new_br3 | tuna<br>venue<br>nuclear |  
+| bip_39_word_new_br4 | tuna<br>venue<br>nuclear<br>shrimp |  
+| bip_39_word_new_br5 | tuna<br>venue<br>nuclear<br>shrimp<br>impulse |  
+| bip_39_word_new_br6 | tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf |  
+| bip_39_word_new_br7 | tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf<br>demise |  
+| bip_39_word_new_br8 | tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf<br>demise<br>capable |  
+| bip_39_word_new_br9 | tuna<br>venue<br>nuclear<br>shrimp<br>impulse<br>dwarf<br>demise<br>capable<br>robust |  
+| bip_39_word_new_line1 | tuna |  
+| bip_39_word_new_line10 | tuna
+venue
+nuclear
+shrimp
+impulse
+dwarf
+demise
+capable
+robust
+vibrant |  
+| bip_39_word_new_line11 | tuna
+venue
+nuclear
+shrimp
+impulse
+dwarf
+demise
+capable
+robust
+vibrant
+melt |  
+| bip_39_word_new_line12 | tuna
+venue
+nuclear
+shrimp
+impulse
+dwarf
+demise
+capable
+robust
+vibrant
+melt
+alone |  
+| bip_39_word_new_line2 | tuna
+venue |  
+| bip_39_word_new_line3 | tuna
+venue
+nuclear |  
+| bip_39_word_new_line4 | tuna
+venue
+nuclear
+shrimp |  
+| bip_39_word_new_line5 | tuna
+venue
+nuclear
+shrimp
+impulse |  
+| bip_39_word_new_line6 | tuna
+venue
+nuclear
+shrimp
+impulse
+dwarf |  
+| bip_39_word_new_line7 | tuna
+venue
+nuclear
+shrimp
+impulse
+dwarf
+demise |  
+| bip_39_word_new_line8 | tuna
+venue
+nuclear
+shrimp
+impulse
+dwarf
+demise
+capable |  
+| bip_39_word_new_line9 | tuna
+venue
+nuclear
+shrimp
+impulse
+dwarf
+demise
+capable
+robust |  
+| bip_39_word_space_0 | ['tuna', 'venue', 'nuclear', 'shrimp', 'impulse', 'dwarf', 'demise', 'capable', 'robust', 'vibrant', 'melt', 'alone'] |  
+| bip_39_word_space_1 | tuna |  
+| bip_39_word_space_10 | tuna venue nuclear shrimp impulse dwarf demise capable robust vibrant |  
+| bip_39_word_space_11 | tuna venue nuclear shrimp impulse dwarf demise capable robust vibrant melt |  
+| bip_39_word_space_12 | tuna venue nuclear shrimp impulse dwarf demise capable robust vibrant melt alone |  
+| bip_39_word_space_2 | tuna venue |  
+| bip_39_word_space_3 | tuna venue nuclear |  
+| bip_39_word_space_4 | tuna venue nuclear shrimp |  
+| bip_39_word_space_5 | tuna venue nuclear shrimp impulse |  
+| bip_39_word_space_6 | tuna venue nuclear shrimp impulse dwarf |  
+| bip_39_word_space_7 | tuna venue nuclear shrimp impulse dwarf demise |  
+| bip_39_word_space_8 | tuna venue nuclear shrimp impulse dwarf demise capable |  
+| bip_39_word_space_9 | tuna venue nuclear shrimp impulse dwarf demise capable robust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

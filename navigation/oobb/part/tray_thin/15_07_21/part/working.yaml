@@ -1,3 +1,187 @@
+bip_39_word_new_br1: indoor
+bip_39_word_new_br10: indoor<br>soon<br>crack<br>question<br>amazing<br>virus<br>nuclear<br>donor<br>muffin<br>black
+bip_39_word_new_br11: indoor<br>soon<br>crack<br>question<br>amazing<br>virus<br>nuclear<br>donor<br>muffin<br>black<br>where
+bip_39_word_new_br12: indoor<br>soon<br>crack<br>question<br>amazing<br>virus<br>nuclear<br>donor<br>muffin<br>black<br>where<br>agent
+bip_39_word_new_br2: indoor<br>soon
+bip_39_word_new_br3: indoor<br>soon<br>crack
+bip_39_word_new_br4: indoor<br>soon<br>crack<br>question
+bip_39_word_new_br5: indoor<br>soon<br>crack<br>question<br>amazing
+bip_39_word_new_br6: indoor<br>soon<br>crack<br>question<br>amazing<br>virus
+bip_39_word_new_br7: indoor<br>soon<br>crack<br>question<br>amazing<br>virus<br>nuclear
+bip_39_word_new_br8: indoor<br>soon<br>crack<br>question<br>amazing<br>virus<br>nuclear<br>donor
+bip_39_word_new_br9: indoor<br>soon<br>crack<br>question<br>amazing<br>virus<br>nuclear<br>donor<br>muffin
+bip_39_word_new_line1: indoor
+bip_39_word_new_line10: 'indoor
+
+  soon
+
+  crack
+
+  question
+
+  amazing
+
+  virus
+
+  nuclear
+
+  donor
+
+  muffin
+
+  black'
+bip_39_word_new_line11: 'indoor
+
+  soon
+
+  crack
+
+  question
+
+  amazing
+
+  virus
+
+  nuclear
+
+  donor
+
+  muffin
+
+  black
+
+  where'
+bip_39_word_new_line12: 'indoor
+
+  soon
+
+  crack
+
+  question
+
+  amazing
+
+  virus
+
+  nuclear
+
+  donor
+
+  muffin
+
+  black
+
+  where
+
+  agent'
+bip_39_word_new_line2: 'indoor
+
+  soon'
+bip_39_word_new_line3: 'indoor
+
+  soon
+
+  crack'
+bip_39_word_new_line4: 'indoor
+
+  soon
+
+  crack
+
+  question'
+bip_39_word_new_line5: 'indoor
+
+  soon
+
+  crack
+
+  question
+
+  amazing'
+bip_39_word_new_line6: 'indoor
+
+  soon
+
+  crack
+
+  question
+
+  amazing
+
+  virus'
+bip_39_word_new_line7: 'indoor
+
+  soon
+
+  crack
+
+  question
+
+  amazing
+
+  virus
+
+  nuclear'
+bip_39_word_new_line8: 'indoor
+
+  soon
+
+  crack
+
+  question
+
+  amazing
+
+  virus
+
+  nuclear
+
+  donor'
+bip_39_word_new_line9: 'indoor
+
+  soon
+
+  crack
+
+  question
+
+  amazing
+
+  virus
+
+  nuclear
+
+  donor
+
+  muffin'
+bip_39_word_space_0:
+- indoor
+- soon
+- crack
+- question
+- amazing
+- virus
+- nuclear
+- donor
+- muffin
+- black
+- where
+- agent
+bip_39_word_space_1: indoor
+bip_39_word_space_10: indoor soon crack question amazing virus nuclear donor muffin
+  black
+bip_39_word_space_11: indoor soon crack question amazing virus nuclear donor muffin
+  black where
+bip_39_word_space_12: indoor soon crack question amazing virus nuclear donor muffin
+  black where agent
+bip_39_word_space_2: indoor soon
+bip_39_word_space_3: indoor soon crack
+bip_39_word_space_4: indoor soon crack question
+bip_39_word_space_5: indoor soon crack question amazing
+bip_39_word_space_6: indoor soon crack question amazing virus
+bip_39_word_space_7: indoor soon crack question amazing virus nuclear
+bip_39_word_space_8: indoor soon crack question amazing virus nuclear donor
+bip_39_word_space_9: indoor soon crack question amazing virus nuclear donor muffin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

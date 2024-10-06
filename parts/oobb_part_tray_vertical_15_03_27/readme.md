@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tail educate
+  * bip 39 word 3: tail educate rack
+  * bip 39 word: tail educate rack draw loyal clay stone vehicle sphere escape office aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tail |  
+| bip_39_word_new_br10 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay<br>stone<br>vehicle<br>sphere<br>escape |  
+| bip_39_word_new_br11 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay<br>stone<br>vehicle<br>sphere<br>escape<br>office |  
+| bip_39_word_new_br12 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay<br>stone<br>vehicle<br>sphere<br>escape<br>office<br>aisle |  
+| bip_39_word_new_br2 | tail<br>educate |  
+| bip_39_word_new_br3 | tail<br>educate<br>rack |  
+| bip_39_word_new_br4 | tail<br>educate<br>rack<br>draw |  
+| bip_39_word_new_br5 | tail<br>educate<br>rack<br>draw<br>loyal |  
+| bip_39_word_new_br6 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay |  
+| bip_39_word_new_br7 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay<br>stone |  
+| bip_39_word_new_br8 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay<br>stone<br>vehicle |  
+| bip_39_word_new_br9 | tail<br>educate<br>rack<br>draw<br>loyal<br>clay<br>stone<br>vehicle<br>sphere |  
+| bip_39_word_new_line1 | tail |  
+| bip_39_word_new_line10 | tail
+educate
+rack
+draw
+loyal
+clay
+stone
+vehicle
+sphere
+escape |  
+| bip_39_word_new_line11 | tail
+educate
+rack
+draw
+loyal
+clay
+stone
+vehicle
+sphere
+escape
+office |  
+| bip_39_word_new_line12 | tail
+educate
+rack
+draw
+loyal
+clay
+stone
+vehicle
+sphere
+escape
+office
+aisle |  
+| bip_39_word_new_line2 | tail
+educate |  
+| bip_39_word_new_line3 | tail
+educate
+rack |  
+| bip_39_word_new_line4 | tail
+educate
+rack
+draw |  
+| bip_39_word_new_line5 | tail
+educate
+rack
+draw
+loyal |  
+| bip_39_word_new_line6 | tail
+educate
+rack
+draw
+loyal
+clay |  
+| bip_39_word_new_line7 | tail
+educate
+rack
+draw
+loyal
+clay
+stone |  
+| bip_39_word_new_line8 | tail
+educate
+rack
+draw
+loyal
+clay
+stone
+vehicle |  
+| bip_39_word_new_line9 | tail
+educate
+rack
+draw
+loyal
+clay
+stone
+vehicle
+sphere |  
+| bip_39_word_space_0 | ['tail', 'educate', 'rack', 'draw', 'loyal', 'clay', 'stone', 'vehicle', 'sphere', 'escape', 'office', 'aisle'] |  
+| bip_39_word_space_1 | tail |  
+| bip_39_word_space_10 | tail educate rack draw loyal clay stone vehicle sphere escape |  
+| bip_39_word_space_11 | tail educate rack draw loyal clay stone vehicle sphere escape office |  
+| bip_39_word_space_12 | tail educate rack draw loyal clay stone vehicle sphere escape office aisle |  
+| bip_39_word_space_2 | tail educate |  
+| bip_39_word_space_3 | tail educate rack |  
+| bip_39_word_space_4 | tail educate rack draw |  
+| bip_39_word_space_5 | tail educate rack draw loyal |  
+| bip_39_word_space_6 | tail educate rack draw loyal clay |  
+| bip_39_word_space_7 | tail educate rack draw loyal clay stone |  
+| bip_39_word_space_8 | tail educate rack draw loyal clay stone vehicle |  
+| bip_39_word_space_9 | tail educate rack draw loyal clay stone vehicle sphere |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

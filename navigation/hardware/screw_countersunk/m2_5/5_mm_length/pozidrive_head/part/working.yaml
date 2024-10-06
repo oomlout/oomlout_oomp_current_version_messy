@@ -1,3 +1,187 @@
+bip_39_word_new_br1: program
+bip_39_word_new_br10: program<br>gym<br>talent<br>recall<br>pepper<br>hazard<br>rocket<br>ancient<br>mesh<br>lyrics
+bip_39_word_new_br11: program<br>gym<br>talent<br>recall<br>pepper<br>hazard<br>rocket<br>ancient<br>mesh<br>lyrics<br>mirror
+bip_39_word_new_br12: program<br>gym<br>talent<br>recall<br>pepper<br>hazard<br>rocket<br>ancient<br>mesh<br>lyrics<br>mirror<br>amateur
+bip_39_word_new_br2: program<br>gym
+bip_39_word_new_br3: program<br>gym<br>talent
+bip_39_word_new_br4: program<br>gym<br>talent<br>recall
+bip_39_word_new_br5: program<br>gym<br>talent<br>recall<br>pepper
+bip_39_word_new_br6: program<br>gym<br>talent<br>recall<br>pepper<br>hazard
+bip_39_word_new_br7: program<br>gym<br>talent<br>recall<br>pepper<br>hazard<br>rocket
+bip_39_word_new_br8: program<br>gym<br>talent<br>recall<br>pepper<br>hazard<br>rocket<br>ancient
+bip_39_word_new_br9: program<br>gym<br>talent<br>recall<br>pepper<br>hazard<br>rocket<br>ancient<br>mesh
+bip_39_word_new_line1: program
+bip_39_word_new_line10: 'program
+
+  gym
+
+  talent
+
+  recall
+
+  pepper
+
+  hazard
+
+  rocket
+
+  ancient
+
+  mesh
+
+  lyrics'
+bip_39_word_new_line11: 'program
+
+  gym
+
+  talent
+
+  recall
+
+  pepper
+
+  hazard
+
+  rocket
+
+  ancient
+
+  mesh
+
+  lyrics
+
+  mirror'
+bip_39_word_new_line12: 'program
+
+  gym
+
+  talent
+
+  recall
+
+  pepper
+
+  hazard
+
+  rocket
+
+  ancient
+
+  mesh
+
+  lyrics
+
+  mirror
+
+  amateur'
+bip_39_word_new_line2: 'program
+
+  gym'
+bip_39_word_new_line3: 'program
+
+  gym
+
+  talent'
+bip_39_word_new_line4: 'program
+
+  gym
+
+  talent
+
+  recall'
+bip_39_word_new_line5: 'program
+
+  gym
+
+  talent
+
+  recall
+
+  pepper'
+bip_39_word_new_line6: 'program
+
+  gym
+
+  talent
+
+  recall
+
+  pepper
+
+  hazard'
+bip_39_word_new_line7: 'program
+
+  gym
+
+  talent
+
+  recall
+
+  pepper
+
+  hazard
+
+  rocket'
+bip_39_word_new_line8: 'program
+
+  gym
+
+  talent
+
+  recall
+
+  pepper
+
+  hazard
+
+  rocket
+
+  ancient'
+bip_39_word_new_line9: 'program
+
+  gym
+
+  talent
+
+  recall
+
+  pepper
+
+  hazard
+
+  rocket
+
+  ancient
+
+  mesh'
+bip_39_word_space_0:
+- program
+- gym
+- talent
+- recall
+- pepper
+- hazard
+- rocket
+- ancient
+- mesh
+- lyrics
+- mirror
+- amateur
+bip_39_word_space_1: program
+bip_39_word_space_10: program gym talent recall pepper hazard rocket ancient mesh
+  lyrics
+bip_39_word_space_11: program gym talent recall pepper hazard rocket ancient mesh
+  lyrics mirror
+bip_39_word_space_12: program gym talent recall pepper hazard rocket ancient mesh
+  lyrics mirror amateur
+bip_39_word_space_2: program gym
+bip_39_word_space_3: program gym talent
+bip_39_word_space_4: program gym talent recall
+bip_39_word_space_5: program gym talent recall pepper
+bip_39_word_space_6: program gym talent recall pepper hazard
+bip_39_word_space_7: program gym talent recall pepper hazard rocket
+bip_39_word_space_8: program gym talent recall pepper hazard rocket ancient
+bip_39_word_space_9: program gym talent recall pepper hazard rocket ancient mesh
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

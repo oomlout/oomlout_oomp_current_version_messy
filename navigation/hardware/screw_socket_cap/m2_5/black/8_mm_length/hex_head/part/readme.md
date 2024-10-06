@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rather trend
+  * bip 39 word 3: rather trend charge
+  * bip 39 word: rather trend charge laundry vivid champion announce bulk remember boost mirror alter
 
 ### other_codes
 * short_code: sc2d5b8h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rather |  
+| bip_39_word_new_br10 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost |  
+| bip_39_word_new_br11 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost<br>mirror |  
+| bip_39_word_new_br12 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember<br>boost<br>mirror<br>alter |  
+| bip_39_word_new_br2 | rather<br>trend |  
+| bip_39_word_new_br3 | rather<br>trend<br>charge |  
+| bip_39_word_new_br4 | rather<br>trend<br>charge<br>laundry |  
+| bip_39_word_new_br5 | rather<br>trend<br>charge<br>laundry<br>vivid |  
+| bip_39_word_new_br6 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion |  
+| bip_39_word_new_br7 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce |  
+| bip_39_word_new_br8 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk |  
+| bip_39_word_new_br9 | rather<br>trend<br>charge<br>laundry<br>vivid<br>champion<br>announce<br>bulk<br>remember |  
+| bip_39_word_new_line1 | rather |  
+| bip_39_word_new_line10 | rather
+trend
+charge
+laundry
+vivid
+champion
+announce
+bulk
+remember
+boost |  
+| bip_39_word_new_line11 | rather
+trend
+charge
+laundry
+vivid
+champion
+announce
+bulk
+remember
+boost
+mirror |  
+| bip_39_word_new_line12 | rather
+trend
+charge
+laundry
+vivid
+champion
+announce
+bulk
+remember
+boost
+mirror
+alter |  
+| bip_39_word_new_line2 | rather
+trend |  
+| bip_39_word_new_line3 | rather
+trend
+charge |  
+| bip_39_word_new_line4 | rather
+trend
+charge
+laundry |  
+| bip_39_word_new_line5 | rather
+trend
+charge
+laundry
+vivid |  
+| bip_39_word_new_line6 | rather
+trend
+charge
+laundry
+vivid
+champion |  
+| bip_39_word_new_line7 | rather
+trend
+charge
+laundry
+vivid
+champion
+announce |  
+| bip_39_word_new_line8 | rather
+trend
+charge
+laundry
+vivid
+champion
+announce
+bulk |  
+| bip_39_word_new_line9 | rather
+trend
+charge
+laundry
+vivid
+champion
+announce
+bulk
+remember |  
+| bip_39_word_space_0 | ['rather', 'trend', 'charge', 'laundry', 'vivid', 'champion', 'announce', 'bulk', 'remember', 'boost', 'mirror', 'alter'] |  
+| bip_39_word_space_1 | rather |  
+| bip_39_word_space_10 | rather trend charge laundry vivid champion announce bulk remember boost |  
+| bip_39_word_space_11 | rather trend charge laundry vivid champion announce bulk remember boost mirror |  
+| bip_39_word_space_12 | rather trend charge laundry vivid champion announce bulk remember boost mirror alter |  
+| bip_39_word_space_2 | rather trend |  
+| bip_39_word_space_3 | rather trend charge |  
+| bip_39_word_space_4 | rather trend charge laundry |  
+| bip_39_word_space_5 | rather trend charge laundry vivid |  
+| bip_39_word_space_6 | rather trend charge laundry vivid champion |  
+| bip_39_word_space_7 | rather trend charge laundry vivid champion announce |  
+| bip_39_word_space_8 | rather trend charge laundry vivid champion announce bulk |  
+| bip_39_word_space_9 | rather trend charge laundry vivid champion announce bulk remember |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

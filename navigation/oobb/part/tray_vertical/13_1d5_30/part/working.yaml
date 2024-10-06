@@ -1,3 +1,187 @@
+bip_39_word_new_br1: omit
+bip_39_word_new_br10: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb<br>bone<br>squirrel<br>excuse<br>mammal
+bip_39_word_new_br11: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb<br>bone<br>squirrel<br>excuse<br>mammal<br>joy
+bip_39_word_new_br12: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb<br>bone<br>squirrel<br>excuse<br>mammal<br>joy<br>among
+bip_39_word_new_br2: omit<br>method
+bip_39_word_new_br3: omit<br>method<br>hospital
+bip_39_word_new_br4: omit<br>method<br>hospital<br>phrase
+bip_39_word_new_br5: omit<br>method<br>hospital<br>phrase<br>squirrel
+bip_39_word_new_br6: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb
+bip_39_word_new_br7: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb<br>bone
+bip_39_word_new_br8: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb<br>bone<br>squirrel
+bip_39_word_new_br9: omit<br>method<br>hospital<br>phrase<br>squirrel<br>dumb<br>bone<br>squirrel<br>excuse
+bip_39_word_new_line1: omit
+bip_39_word_new_line10: 'omit
+
+  method
+
+  hospital
+
+  phrase
+
+  squirrel
+
+  dumb
+
+  bone
+
+  squirrel
+
+  excuse
+
+  mammal'
+bip_39_word_new_line11: 'omit
+
+  method
+
+  hospital
+
+  phrase
+
+  squirrel
+
+  dumb
+
+  bone
+
+  squirrel
+
+  excuse
+
+  mammal
+
+  joy'
+bip_39_word_new_line12: 'omit
+
+  method
+
+  hospital
+
+  phrase
+
+  squirrel
+
+  dumb
+
+  bone
+
+  squirrel
+
+  excuse
+
+  mammal
+
+  joy
+
+  among'
+bip_39_word_new_line2: 'omit
+
+  method'
+bip_39_word_new_line3: 'omit
+
+  method
+
+  hospital'
+bip_39_word_new_line4: 'omit
+
+  method
+
+  hospital
+
+  phrase'
+bip_39_word_new_line5: 'omit
+
+  method
+
+  hospital
+
+  phrase
+
+  squirrel'
+bip_39_word_new_line6: 'omit
+
+  method
+
+  hospital
+
+  phrase
+
+  squirrel
+
+  dumb'
+bip_39_word_new_line7: 'omit
+
+  method
+
+  hospital
+
+  phrase
+
+  squirrel
+
+  dumb
+
+  bone'
+bip_39_word_new_line8: 'omit
+
+  method
+
+  hospital
+
+  phrase
+
+  squirrel
+
+  dumb
+
+  bone
+
+  squirrel'
+bip_39_word_new_line9: 'omit
+
+  method
+
+  hospital
+
+  phrase
+
+  squirrel
+
+  dumb
+
+  bone
+
+  squirrel
+
+  excuse'
+bip_39_word_space_0:
+- omit
+- method
+- hospital
+- phrase
+- squirrel
+- dumb
+- bone
+- squirrel
+- excuse
+- mammal
+- joy
+- among
+bip_39_word_space_1: omit
+bip_39_word_space_10: omit method hospital phrase squirrel dumb bone squirrel excuse
+  mammal
+bip_39_word_space_11: omit method hospital phrase squirrel dumb bone squirrel excuse
+  mammal joy
+bip_39_word_space_12: omit method hospital phrase squirrel dumb bone squirrel excuse
+  mammal joy among
+bip_39_word_space_2: omit method
+bip_39_word_space_3: omit method hospital
+bip_39_word_space_4: omit method hospital phrase
+bip_39_word_space_5: omit method hospital phrase squirrel
+bip_39_word_space_6: omit method hospital phrase squirrel dumb
+bip_39_word_space_7: omit method hospital phrase squirrel dumb bone
+bip_39_word_space_8: omit method hospital phrase squirrel dumb bone squirrel
+bip_39_word_space_9: omit method hospital phrase squirrel dumb bone squirrel excuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

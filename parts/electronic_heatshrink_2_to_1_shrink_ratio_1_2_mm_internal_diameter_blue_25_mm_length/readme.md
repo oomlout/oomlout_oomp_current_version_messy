@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: calm winter
+  * bip 39 word 3: calm winter level
+  * bip 39 word: calm winter level tube sadness gauge boost dwarf milk tower imitate acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | calm |  
+| bip_39_word_new_br10 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower |  
+| bip_39_word_new_br11 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower<br>imitate |  
+| bip_39_word_new_br12 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk<br>tower<br>imitate<br>acquire |  
+| bip_39_word_new_br2 | calm<br>winter |  
+| bip_39_word_new_br3 | calm<br>winter<br>level |  
+| bip_39_word_new_br4 | calm<br>winter<br>level<br>tube |  
+| bip_39_word_new_br5 | calm<br>winter<br>level<br>tube<br>sadness |  
+| bip_39_word_new_br6 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge |  
+| bip_39_word_new_br7 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost |  
+| bip_39_word_new_br8 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf |  
+| bip_39_word_new_br9 | calm<br>winter<br>level<br>tube<br>sadness<br>gauge<br>boost<br>dwarf<br>milk |  
+| bip_39_word_new_line1 | calm |  
+| bip_39_word_new_line10 | calm
+winter
+level
+tube
+sadness
+gauge
+boost
+dwarf
+milk
+tower |  
+| bip_39_word_new_line11 | calm
+winter
+level
+tube
+sadness
+gauge
+boost
+dwarf
+milk
+tower
+imitate |  
+| bip_39_word_new_line12 | calm
+winter
+level
+tube
+sadness
+gauge
+boost
+dwarf
+milk
+tower
+imitate
+acquire |  
+| bip_39_word_new_line2 | calm
+winter |  
+| bip_39_word_new_line3 | calm
+winter
+level |  
+| bip_39_word_new_line4 | calm
+winter
+level
+tube |  
+| bip_39_word_new_line5 | calm
+winter
+level
+tube
+sadness |  
+| bip_39_word_new_line6 | calm
+winter
+level
+tube
+sadness
+gauge |  
+| bip_39_word_new_line7 | calm
+winter
+level
+tube
+sadness
+gauge
+boost |  
+| bip_39_word_new_line8 | calm
+winter
+level
+tube
+sadness
+gauge
+boost
+dwarf |  
+| bip_39_word_new_line9 | calm
+winter
+level
+tube
+sadness
+gauge
+boost
+dwarf
+milk |  
+| bip_39_word_space_0 | ['calm', 'winter', 'level', 'tube', 'sadness', 'gauge', 'boost', 'dwarf', 'milk', 'tower', 'imitate', 'acquire'] |  
+| bip_39_word_space_1 | calm |  
+| bip_39_word_space_10 | calm winter level tube sadness gauge boost dwarf milk tower |  
+| bip_39_word_space_11 | calm winter level tube sadness gauge boost dwarf milk tower imitate |  
+| bip_39_word_space_12 | calm winter level tube sadness gauge boost dwarf milk tower imitate acquire |  
+| bip_39_word_space_2 | calm winter |  
+| bip_39_word_space_3 | calm winter level |  
+| bip_39_word_space_4 | calm winter level tube |  
+| bip_39_word_space_5 | calm winter level tube sadness |  
+| bip_39_word_space_6 | calm winter level tube sadness gauge |  
+| bip_39_word_space_7 | calm winter level tube sadness gauge boost |  
+| bip_39_word_space_8 | calm winter level tube sadness gauge boost dwarf |  
+| bip_39_word_space_9 | calm winter level tube sadness gauge boost dwarf milk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

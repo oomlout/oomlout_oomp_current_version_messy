@@ -1,3 +1,186 @@
+bip_39_word_new_br1: allow
+bip_39_word_new_br10: allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad
+bip_39_word_new_br11: allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad<br>include
+bip_39_word_new_br12: allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught<br>mad<br>include<br>address
+bip_39_word_new_br2: allow<br>fantasy
+bip_39_word_new_br3: allow<br>fantasy<br>muscle
+bip_39_word_new_br4: allow<br>fantasy<br>muscle<br>message
+bip_39_word_new_br5: allow<br>fantasy<br>muscle<br>message<br>ski
+bip_39_word_new_br6: allow<br>fantasy<br>muscle<br>message<br>ski<br>city
+bip_39_word_new_br7: allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge
+bip_39_word_new_br8: allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual
+bip_39_word_new_br9: allow<br>fantasy<br>muscle<br>message<br>ski<br>city<br>ridge<br>virtual<br>caught
+bip_39_word_new_line1: allow
+bip_39_word_new_line10: 'allow
+
+  fantasy
+
+  muscle
+
+  message
+
+  ski
+
+  city
+
+  ridge
+
+  virtual
+
+  caught
+
+  mad'
+bip_39_word_new_line11: 'allow
+
+  fantasy
+
+  muscle
+
+  message
+
+  ski
+
+  city
+
+  ridge
+
+  virtual
+
+  caught
+
+  mad
+
+  include'
+bip_39_word_new_line12: 'allow
+
+  fantasy
+
+  muscle
+
+  message
+
+  ski
+
+  city
+
+  ridge
+
+  virtual
+
+  caught
+
+  mad
+
+  include
+
+  address'
+bip_39_word_new_line2: 'allow
+
+  fantasy'
+bip_39_word_new_line3: 'allow
+
+  fantasy
+
+  muscle'
+bip_39_word_new_line4: 'allow
+
+  fantasy
+
+  muscle
+
+  message'
+bip_39_word_new_line5: 'allow
+
+  fantasy
+
+  muscle
+
+  message
+
+  ski'
+bip_39_word_new_line6: 'allow
+
+  fantasy
+
+  muscle
+
+  message
+
+  ski
+
+  city'
+bip_39_word_new_line7: 'allow
+
+  fantasy
+
+  muscle
+
+  message
+
+  ski
+
+  city
+
+  ridge'
+bip_39_word_new_line8: 'allow
+
+  fantasy
+
+  muscle
+
+  message
+
+  ski
+
+  city
+
+  ridge
+
+  virtual'
+bip_39_word_new_line9: 'allow
+
+  fantasy
+
+  muscle
+
+  message
+
+  ski
+
+  city
+
+  ridge
+
+  virtual
+
+  caught'
+bip_39_word_space_0:
+- allow
+- fantasy
+- muscle
+- message
+- ski
+- city
+- ridge
+- virtual
+- caught
+- mad
+- include
+- address
+bip_39_word_space_1: allow
+bip_39_word_space_10: allow fantasy muscle message ski city ridge virtual caught mad
+bip_39_word_space_11: allow fantasy muscle message ski city ridge virtual caught mad
+  include
+bip_39_word_space_12: allow fantasy muscle message ski city ridge virtual caught mad
+  include address
+bip_39_word_space_2: allow fantasy
+bip_39_word_space_3: allow fantasy muscle
+bip_39_word_space_4: allow fantasy muscle message
+bip_39_word_space_5: allow fantasy muscle message ski
+bip_39_word_space_6: allow fantasy muscle message ski city
+bip_39_word_space_7: allow fantasy muscle message ski city ridge
+bip_39_word_space_8: allow fantasy muscle message ski city ridge virtual
+bip_39_word_space_9: allow fantasy muscle message ski city ridge virtual caught
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

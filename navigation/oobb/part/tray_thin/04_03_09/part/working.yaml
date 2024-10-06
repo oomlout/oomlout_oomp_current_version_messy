@@ -1,3 +1,186 @@
+bip_39_word_new_br1: label
+bip_39_word_new_br10: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm<br>luggage
+bip_39_word_new_br11: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm<br>luggage<br>someone
+bip_39_word_new_br12: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm<br>luggage<br>someone<br>arrive
+bip_39_word_new_br2: label<br>super
+bip_39_word_new_br3: label<br>super<br>buzz
+bip_39_word_new_br4: label<br>super<br>buzz<br>boost
+bip_39_word_new_br5: label<br>super<br>buzz<br>boost<br>urban
+bip_39_word_new_br6: label<br>super<br>buzz<br>boost<br>urban<br>choose
+bip_39_word_new_br7: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease
+bip_39_word_new_br8: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond
+bip_39_word_new_br9: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm
+bip_39_word_new_line1: label
+bip_39_word_new_line10: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond
+
+  calm
+
+  luggage'
+bip_39_word_new_line11: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond
+
+  calm
+
+  luggage
+
+  someone'
+bip_39_word_new_line12: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond
+
+  calm
+
+  luggage
+
+  someone
+
+  arrive'
+bip_39_word_new_line2: 'label
+
+  super'
+bip_39_word_new_line3: 'label
+
+  super
+
+  buzz'
+bip_39_word_new_line4: 'label
+
+  super
+
+  buzz
+
+  boost'
+bip_39_word_new_line5: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban'
+bip_39_word_new_line6: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose'
+bip_39_word_new_line7: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease'
+bip_39_word_new_line8: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond'
+bip_39_word_new_line9: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond
+
+  calm'
+bip_39_word_space_0:
+- label
+- super
+- buzz
+- boost
+- urban
+- choose
+- decrease
+- diamond
+- calm
+- luggage
+- someone
+- arrive
+bip_39_word_space_1: label
+bip_39_word_space_10: label super buzz boost urban choose decrease diamond calm luggage
+bip_39_word_space_11: label super buzz boost urban choose decrease diamond calm luggage
+  someone
+bip_39_word_space_12: label super buzz boost urban choose decrease diamond calm luggage
+  someone arrive
+bip_39_word_space_2: label super
+bip_39_word_space_3: label super buzz
+bip_39_word_space_4: label super buzz boost
+bip_39_word_space_5: label super buzz boost urban
+bip_39_word_space_6: label super buzz boost urban choose
+bip_39_word_space_7: label super buzz boost urban choose decrease
+bip_39_word_space_8: label super buzz boost urban choose decrease diamond
+bip_39_word_space_9: label super buzz boost urban choose decrease diamond calm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

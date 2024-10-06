@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: balcony cause
+  * bip 39 word 3: balcony cause abuse
+  * bip 39 word: balcony cause abuse time depth advice bitter provide soup infant glory act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | balcony |  
+| bip_39_word_new_br10 | balcony<br>cause<br>abuse<br>time<br>depth<br>advice<br>bitter<br>provide<br>soup<br>infant |  
+| bip_39_word_new_br11 | balcony<br>cause<br>abuse<br>time<br>depth<br>advice<br>bitter<br>provide<br>soup<br>infant<br>glory |  
+| bip_39_word_new_br12 | balcony<br>cause<br>abuse<br>time<br>depth<br>advice<br>bitter<br>provide<br>soup<br>infant<br>glory<br>act |  
+| bip_39_word_new_br2 | balcony<br>cause |  
+| bip_39_word_new_br3 | balcony<br>cause<br>abuse |  
+| bip_39_word_new_br4 | balcony<br>cause<br>abuse<br>time |  
+| bip_39_word_new_br5 | balcony<br>cause<br>abuse<br>time<br>depth |  
+| bip_39_word_new_br6 | balcony<br>cause<br>abuse<br>time<br>depth<br>advice |  
+| bip_39_word_new_br7 | balcony<br>cause<br>abuse<br>time<br>depth<br>advice<br>bitter |  
+| bip_39_word_new_br8 | balcony<br>cause<br>abuse<br>time<br>depth<br>advice<br>bitter<br>provide |  
+| bip_39_word_new_br9 | balcony<br>cause<br>abuse<br>time<br>depth<br>advice<br>bitter<br>provide<br>soup |  
+| bip_39_word_new_line1 | balcony |  
+| bip_39_word_new_line10 | balcony
+cause
+abuse
+time
+depth
+advice
+bitter
+provide
+soup
+infant |  
+| bip_39_word_new_line11 | balcony
+cause
+abuse
+time
+depth
+advice
+bitter
+provide
+soup
+infant
+glory |  
+| bip_39_word_new_line12 | balcony
+cause
+abuse
+time
+depth
+advice
+bitter
+provide
+soup
+infant
+glory
+act |  
+| bip_39_word_new_line2 | balcony
+cause |  
+| bip_39_word_new_line3 | balcony
+cause
+abuse |  
+| bip_39_word_new_line4 | balcony
+cause
+abuse
+time |  
+| bip_39_word_new_line5 | balcony
+cause
+abuse
+time
+depth |  
+| bip_39_word_new_line6 | balcony
+cause
+abuse
+time
+depth
+advice |  
+| bip_39_word_new_line7 | balcony
+cause
+abuse
+time
+depth
+advice
+bitter |  
+| bip_39_word_new_line8 | balcony
+cause
+abuse
+time
+depth
+advice
+bitter
+provide |  
+| bip_39_word_new_line9 | balcony
+cause
+abuse
+time
+depth
+advice
+bitter
+provide
+soup |  
+| bip_39_word_space_0 | ['balcony', 'cause', 'abuse', 'time', 'depth', 'advice', 'bitter', 'provide', 'soup', 'infant', 'glory', 'act'] |  
+| bip_39_word_space_1 | balcony |  
+| bip_39_word_space_10 | balcony cause abuse time depth advice bitter provide soup infant |  
+| bip_39_word_space_11 | balcony cause abuse time depth advice bitter provide soup infant glory |  
+| bip_39_word_space_12 | balcony cause abuse time depth advice bitter provide soup infant glory act |  
+| bip_39_word_space_2 | balcony cause |  
+| bip_39_word_space_3 | balcony cause abuse |  
+| bip_39_word_space_4 | balcony cause abuse time |  
+| bip_39_word_space_5 | balcony cause abuse time depth |  
+| bip_39_word_space_6 | balcony cause abuse time depth advice |  
+| bip_39_word_space_7 | balcony cause abuse time depth advice bitter |  
+| bip_39_word_space_8 | balcony cause abuse time depth advice bitter provide |  
+| bip_39_word_space_9 | balcony cause abuse time depth advice bitter provide soup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

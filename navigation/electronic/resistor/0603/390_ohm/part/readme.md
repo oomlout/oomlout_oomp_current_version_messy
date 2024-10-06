@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dirt lamp
+  * bip 39 word 3: dirt lamp second
+  * bip 39 word: dirt lamp second dish analyst urge hill photo faith gown junk apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dirt |  
+| bip_39_word_new_br10 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge<br>hill<br>photo<br>faith<br>gown |  
+| bip_39_word_new_br11 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge<br>hill<br>photo<br>faith<br>gown<br>junk |  
+| bip_39_word_new_br12 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge<br>hill<br>photo<br>faith<br>gown<br>junk<br>apart |  
+| bip_39_word_new_br2 | dirt<br>lamp |  
+| bip_39_word_new_br3 | dirt<br>lamp<br>second |  
+| bip_39_word_new_br4 | dirt<br>lamp<br>second<br>dish |  
+| bip_39_word_new_br5 | dirt<br>lamp<br>second<br>dish<br>analyst |  
+| bip_39_word_new_br6 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge |  
+| bip_39_word_new_br7 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge<br>hill |  
+| bip_39_word_new_br8 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge<br>hill<br>photo |  
+| bip_39_word_new_br9 | dirt<br>lamp<br>second<br>dish<br>analyst<br>urge<br>hill<br>photo<br>faith |  
+| bip_39_word_new_line1 | dirt |  
+| bip_39_word_new_line10 | dirt
+lamp
+second
+dish
+analyst
+urge
+hill
+photo
+faith
+gown |  
+| bip_39_word_new_line11 | dirt
+lamp
+second
+dish
+analyst
+urge
+hill
+photo
+faith
+gown
+junk |  
+| bip_39_word_new_line12 | dirt
+lamp
+second
+dish
+analyst
+urge
+hill
+photo
+faith
+gown
+junk
+apart |  
+| bip_39_word_new_line2 | dirt
+lamp |  
+| bip_39_word_new_line3 | dirt
+lamp
+second |  
+| bip_39_word_new_line4 | dirt
+lamp
+second
+dish |  
+| bip_39_word_new_line5 | dirt
+lamp
+second
+dish
+analyst |  
+| bip_39_word_new_line6 | dirt
+lamp
+second
+dish
+analyst
+urge |  
+| bip_39_word_new_line7 | dirt
+lamp
+second
+dish
+analyst
+urge
+hill |  
+| bip_39_word_new_line8 | dirt
+lamp
+second
+dish
+analyst
+urge
+hill
+photo |  
+| bip_39_word_new_line9 | dirt
+lamp
+second
+dish
+analyst
+urge
+hill
+photo
+faith |  
+| bip_39_word_space_0 | ['dirt', 'lamp', 'second', 'dish', 'analyst', 'urge', 'hill', 'photo', 'faith', 'gown', 'junk', 'apart'] |  
+| bip_39_word_space_1 | dirt |  
+| bip_39_word_space_10 | dirt lamp second dish analyst urge hill photo faith gown |  
+| bip_39_word_space_11 | dirt lamp second dish analyst urge hill photo faith gown junk |  
+| bip_39_word_space_12 | dirt lamp second dish analyst urge hill photo faith gown junk apart |  
+| bip_39_word_space_2 | dirt lamp |  
+| bip_39_word_space_3 | dirt lamp second |  
+| bip_39_word_space_4 | dirt lamp second dish |  
+| bip_39_word_space_5 | dirt lamp second dish analyst |  
+| bip_39_word_space_6 | dirt lamp second dish analyst urge |  
+| bip_39_word_space_7 | dirt lamp second dish analyst urge hill |  
+| bip_39_word_space_8 | dirt lamp second dish analyst urge hill photo |  
+| bip_39_word_space_9 | dirt lamp second dish analyst urge hill photo faith |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

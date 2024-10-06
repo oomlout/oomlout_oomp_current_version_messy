@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pig hurt
+  * bip 39 word 3: pig hurt path
+  * bip 39 word: pig hurt path tube below inherit broom kid sorry apart never able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pig |  
+| bip_39_word_new_br10 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart |  
+| bip_39_word_new_br11 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart<br>never |  
+| bip_39_word_new_br12 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry<br>apart<br>never<br>able |  
+| bip_39_word_new_br2 | pig<br>hurt |  
+| bip_39_word_new_br3 | pig<br>hurt<br>path |  
+| bip_39_word_new_br4 | pig<br>hurt<br>path<br>tube |  
+| bip_39_word_new_br5 | pig<br>hurt<br>path<br>tube<br>below |  
+| bip_39_word_new_br6 | pig<br>hurt<br>path<br>tube<br>below<br>inherit |  
+| bip_39_word_new_br7 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom |  
+| bip_39_word_new_br8 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid |  
+| bip_39_word_new_br9 | pig<br>hurt<br>path<br>tube<br>below<br>inherit<br>broom<br>kid<br>sorry |  
+| bip_39_word_new_line1 | pig |  
+| bip_39_word_new_line10 | pig
+hurt
+path
+tube
+below
+inherit
+broom
+kid
+sorry
+apart |  
+| bip_39_word_new_line11 | pig
+hurt
+path
+tube
+below
+inherit
+broom
+kid
+sorry
+apart
+never |  
+| bip_39_word_new_line12 | pig
+hurt
+path
+tube
+below
+inherit
+broom
+kid
+sorry
+apart
+never
+able |  
+| bip_39_word_new_line2 | pig
+hurt |  
+| bip_39_word_new_line3 | pig
+hurt
+path |  
+| bip_39_word_new_line4 | pig
+hurt
+path
+tube |  
+| bip_39_word_new_line5 | pig
+hurt
+path
+tube
+below |  
+| bip_39_word_new_line6 | pig
+hurt
+path
+tube
+below
+inherit |  
+| bip_39_word_new_line7 | pig
+hurt
+path
+tube
+below
+inherit
+broom |  
+| bip_39_word_new_line8 | pig
+hurt
+path
+tube
+below
+inherit
+broom
+kid |  
+| bip_39_word_new_line9 | pig
+hurt
+path
+tube
+below
+inherit
+broom
+kid
+sorry |  
+| bip_39_word_space_0 | ['pig', 'hurt', 'path', 'tube', 'below', 'inherit', 'broom', 'kid', 'sorry', 'apart', 'never', 'able'] |  
+| bip_39_word_space_1 | pig |  
+| bip_39_word_space_10 | pig hurt path tube below inherit broom kid sorry apart |  
+| bip_39_word_space_11 | pig hurt path tube below inherit broom kid sorry apart never |  
+| bip_39_word_space_12 | pig hurt path tube below inherit broom kid sorry apart never able |  
+| bip_39_word_space_2 | pig hurt |  
+| bip_39_word_space_3 | pig hurt path |  
+| bip_39_word_space_4 | pig hurt path tube |  
+| bip_39_word_space_5 | pig hurt path tube below |  
+| bip_39_word_space_6 | pig hurt path tube below inherit |  
+| bip_39_word_space_7 | pig hurt path tube below inherit broom |  
+| bip_39_word_space_8 | pig hurt path tube below inherit broom kid |  
+| bip_39_word_space_9 | pig hurt path tube below inherit broom kid sorry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

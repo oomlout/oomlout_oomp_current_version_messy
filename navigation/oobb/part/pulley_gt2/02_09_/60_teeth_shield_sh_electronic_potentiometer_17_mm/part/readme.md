@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raise income
+  * bip 39 word 3: raise income decade
+  * bip 39 word: raise income decade title dinner reopen useful hold glance assault rifle achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raise |  
+| bip_39_word_new_br10 | raise<br>income<br>decade<br>title<br>dinner<br>reopen<br>useful<br>hold<br>glance<br>assault |  
+| bip_39_word_new_br11 | raise<br>income<br>decade<br>title<br>dinner<br>reopen<br>useful<br>hold<br>glance<br>assault<br>rifle |  
+| bip_39_word_new_br12 | raise<br>income<br>decade<br>title<br>dinner<br>reopen<br>useful<br>hold<br>glance<br>assault<br>rifle<br>achieve |  
+| bip_39_word_new_br2 | raise<br>income |  
+| bip_39_word_new_br3 | raise<br>income<br>decade |  
+| bip_39_word_new_br4 | raise<br>income<br>decade<br>title |  
+| bip_39_word_new_br5 | raise<br>income<br>decade<br>title<br>dinner |  
+| bip_39_word_new_br6 | raise<br>income<br>decade<br>title<br>dinner<br>reopen |  
+| bip_39_word_new_br7 | raise<br>income<br>decade<br>title<br>dinner<br>reopen<br>useful |  
+| bip_39_word_new_br8 | raise<br>income<br>decade<br>title<br>dinner<br>reopen<br>useful<br>hold |  
+| bip_39_word_new_br9 | raise<br>income<br>decade<br>title<br>dinner<br>reopen<br>useful<br>hold<br>glance |  
+| bip_39_word_new_line1 | raise |  
+| bip_39_word_new_line10 | raise
+income
+decade
+title
+dinner
+reopen
+useful
+hold
+glance
+assault |  
+| bip_39_word_new_line11 | raise
+income
+decade
+title
+dinner
+reopen
+useful
+hold
+glance
+assault
+rifle |  
+| bip_39_word_new_line12 | raise
+income
+decade
+title
+dinner
+reopen
+useful
+hold
+glance
+assault
+rifle
+achieve |  
+| bip_39_word_new_line2 | raise
+income |  
+| bip_39_word_new_line3 | raise
+income
+decade |  
+| bip_39_word_new_line4 | raise
+income
+decade
+title |  
+| bip_39_word_new_line5 | raise
+income
+decade
+title
+dinner |  
+| bip_39_word_new_line6 | raise
+income
+decade
+title
+dinner
+reopen |  
+| bip_39_word_new_line7 | raise
+income
+decade
+title
+dinner
+reopen
+useful |  
+| bip_39_word_new_line8 | raise
+income
+decade
+title
+dinner
+reopen
+useful
+hold |  
+| bip_39_word_new_line9 | raise
+income
+decade
+title
+dinner
+reopen
+useful
+hold
+glance |  
+| bip_39_word_space_0 | ['raise', 'income', 'decade', 'title', 'dinner', 'reopen', 'useful', 'hold', 'glance', 'assault', 'rifle', 'achieve'] |  
+| bip_39_word_space_1 | raise |  
+| bip_39_word_space_10 | raise income decade title dinner reopen useful hold glance assault |  
+| bip_39_word_space_11 | raise income decade title dinner reopen useful hold glance assault rifle |  
+| bip_39_word_space_12 | raise income decade title dinner reopen useful hold glance assault rifle achieve |  
+| bip_39_word_space_2 | raise income |  
+| bip_39_word_space_3 | raise income decade |  
+| bip_39_word_space_4 | raise income decade title |  
+| bip_39_word_space_5 | raise income decade title dinner |  
+| bip_39_word_space_6 | raise income decade title dinner reopen |  
+| bip_39_word_space_7 | raise income decade title dinner reopen useful |  
+| bip_39_word_space_8 | raise income decade title dinner reopen useful hold |  
+| bip_39_word_space_9 | raise income decade title dinner reopen useful hold glance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

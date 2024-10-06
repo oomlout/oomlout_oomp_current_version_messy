@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feel fiscal
+  * bip 39 word 3: feel fiscal horror
+  * bip 39 word: feel fiscal horror fire extend response cement clutch skull embark shuffle airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feel |  
+| bip_39_word_new_br10 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response<br>cement<br>clutch<br>skull<br>embark |  
+| bip_39_word_new_br11 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response<br>cement<br>clutch<br>skull<br>embark<br>shuffle |  
+| bip_39_word_new_br12 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response<br>cement<br>clutch<br>skull<br>embark<br>shuffle<br>airport |  
+| bip_39_word_new_br2 | feel<br>fiscal |  
+| bip_39_word_new_br3 | feel<br>fiscal<br>horror |  
+| bip_39_word_new_br4 | feel<br>fiscal<br>horror<br>fire |  
+| bip_39_word_new_br5 | feel<br>fiscal<br>horror<br>fire<br>extend |  
+| bip_39_word_new_br6 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response |  
+| bip_39_word_new_br7 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response<br>cement |  
+| bip_39_word_new_br8 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response<br>cement<br>clutch |  
+| bip_39_word_new_br9 | feel<br>fiscal<br>horror<br>fire<br>extend<br>response<br>cement<br>clutch<br>skull |  
+| bip_39_word_new_line1 | feel |  
+| bip_39_word_new_line10 | feel
+fiscal
+horror
+fire
+extend
+response
+cement
+clutch
+skull
+embark |  
+| bip_39_word_new_line11 | feel
+fiscal
+horror
+fire
+extend
+response
+cement
+clutch
+skull
+embark
+shuffle |  
+| bip_39_word_new_line12 | feel
+fiscal
+horror
+fire
+extend
+response
+cement
+clutch
+skull
+embark
+shuffle
+airport |  
+| bip_39_word_new_line2 | feel
+fiscal |  
+| bip_39_word_new_line3 | feel
+fiscal
+horror |  
+| bip_39_word_new_line4 | feel
+fiscal
+horror
+fire |  
+| bip_39_word_new_line5 | feel
+fiscal
+horror
+fire
+extend |  
+| bip_39_word_new_line6 | feel
+fiscal
+horror
+fire
+extend
+response |  
+| bip_39_word_new_line7 | feel
+fiscal
+horror
+fire
+extend
+response
+cement |  
+| bip_39_word_new_line8 | feel
+fiscal
+horror
+fire
+extend
+response
+cement
+clutch |  
+| bip_39_word_new_line9 | feel
+fiscal
+horror
+fire
+extend
+response
+cement
+clutch
+skull |  
+| bip_39_word_space_0 | ['feel', 'fiscal', 'horror', 'fire', 'extend', 'response', 'cement', 'clutch', 'skull', 'embark', 'shuffle', 'airport'] |  
+| bip_39_word_space_1 | feel |  
+| bip_39_word_space_10 | feel fiscal horror fire extend response cement clutch skull embark |  
+| bip_39_word_space_11 | feel fiscal horror fire extend response cement clutch skull embark shuffle |  
+| bip_39_word_space_12 | feel fiscal horror fire extend response cement clutch skull embark shuffle airport |  
+| bip_39_word_space_2 | feel fiscal |  
+| bip_39_word_space_3 | feel fiscal horror |  
+| bip_39_word_space_4 | feel fiscal horror fire |  
+| bip_39_word_space_5 | feel fiscal horror fire extend |  
+| bip_39_word_space_6 | feel fiscal horror fire extend response |  
+| bip_39_word_space_7 | feel fiscal horror fire extend response cement |  
+| bip_39_word_space_8 | feel fiscal horror fire extend response cement clutch |  
+| bip_39_word_space_9 | feel fiscal horror fire extend response cement clutch skull |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

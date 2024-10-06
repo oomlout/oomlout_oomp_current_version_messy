@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glare tongue
+  * bip 39 word 3: glare tongue accident
+  * bip 39 word: glare tongue accident wise blame fury rocket floor chronic universe cake annual
 
 ### other_codes
 * short_code: br16016
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glare |  
+| bip_39_word_new_br10 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe |  
+| bip_39_word_new_br11 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe<br>cake |  
+| bip_39_word_new_br12 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic<br>universe<br>cake<br>annual |  
+| bip_39_word_new_br2 | glare<br>tongue |  
+| bip_39_word_new_br3 | glare<br>tongue<br>accident |  
+| bip_39_word_new_br4 | glare<br>tongue<br>accident<br>wise |  
+| bip_39_word_new_br5 | glare<br>tongue<br>accident<br>wise<br>blame |  
+| bip_39_word_new_br6 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury |  
+| bip_39_word_new_br7 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket |  
+| bip_39_word_new_br8 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor |  
+| bip_39_word_new_br9 | glare<br>tongue<br>accident<br>wise<br>blame<br>fury<br>rocket<br>floor<br>chronic |  
+| bip_39_word_new_line1 | glare |  
+| bip_39_word_new_line10 | glare
+tongue
+accident
+wise
+blame
+fury
+rocket
+floor
+chronic
+universe |  
+| bip_39_word_new_line11 | glare
+tongue
+accident
+wise
+blame
+fury
+rocket
+floor
+chronic
+universe
+cake |  
+| bip_39_word_new_line12 | glare
+tongue
+accident
+wise
+blame
+fury
+rocket
+floor
+chronic
+universe
+cake
+annual |  
+| bip_39_word_new_line2 | glare
+tongue |  
+| bip_39_word_new_line3 | glare
+tongue
+accident |  
+| bip_39_word_new_line4 | glare
+tongue
+accident
+wise |  
+| bip_39_word_new_line5 | glare
+tongue
+accident
+wise
+blame |  
+| bip_39_word_new_line6 | glare
+tongue
+accident
+wise
+blame
+fury |  
+| bip_39_word_new_line7 | glare
+tongue
+accident
+wise
+blame
+fury
+rocket |  
+| bip_39_word_new_line8 | glare
+tongue
+accident
+wise
+blame
+fury
+rocket
+floor |  
+| bip_39_word_new_line9 | glare
+tongue
+accident
+wise
+blame
+fury
+rocket
+floor
+chronic |  
+| bip_39_word_space_0 | ['glare', 'tongue', 'accident', 'wise', 'blame', 'fury', 'rocket', 'floor', 'chronic', 'universe', 'cake', 'annual'] |  
+| bip_39_word_space_1 | glare |  
+| bip_39_word_space_10 | glare tongue accident wise blame fury rocket floor chronic universe |  
+| bip_39_word_space_11 | glare tongue accident wise blame fury rocket floor chronic universe cake |  
+| bip_39_word_space_12 | glare tongue accident wise blame fury rocket floor chronic universe cake annual |  
+| bip_39_word_space_2 | glare tongue |  
+| bip_39_word_space_3 | glare tongue accident |  
+| bip_39_word_space_4 | glare tongue accident wise |  
+| bip_39_word_space_5 | glare tongue accident wise blame |  
+| bip_39_word_space_6 | glare tongue accident wise blame fury |  
+| bip_39_word_space_7 | glare tongue accident wise blame fury rocket |  
+| bip_39_word_space_8 | glare tongue accident wise blame fury rocket floor |  
+| bip_39_word_space_9 | glare tongue accident wise blame fury rocket floor chronic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

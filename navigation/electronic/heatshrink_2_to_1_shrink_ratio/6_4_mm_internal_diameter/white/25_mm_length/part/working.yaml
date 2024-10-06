@@ -1,3 +1,186 @@
+bip_39_word_new_br1: guilt
+bip_39_word_new_br10: guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan<br>hidden<br>ten<br>inmate<br>float
+bip_39_word_new_br11: guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan<br>hidden<br>ten<br>inmate<br>float<br>month
+bip_39_word_new_br12: guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan<br>hidden<br>ten<br>inmate<br>float<br>month<br>act
+bip_39_word_new_br2: guilt<br>produce
+bip_39_word_new_br3: guilt<br>produce<br>sound
+bip_39_word_new_br4: guilt<br>produce<br>sound<br>garden
+bip_39_word_new_br5: guilt<br>produce<br>sound<br>garden<br>cannon
+bip_39_word_new_br6: guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan
+bip_39_word_new_br7: guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan<br>hidden
+bip_39_word_new_br8: guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan<br>hidden<br>ten
+bip_39_word_new_br9: guilt<br>produce<br>sound<br>garden<br>cannon<br>orphan<br>hidden<br>ten<br>inmate
+bip_39_word_new_line1: guilt
+bip_39_word_new_line10: 'guilt
+
+  produce
+
+  sound
+
+  garden
+
+  cannon
+
+  orphan
+
+  hidden
+
+  ten
+
+  inmate
+
+  float'
+bip_39_word_new_line11: 'guilt
+
+  produce
+
+  sound
+
+  garden
+
+  cannon
+
+  orphan
+
+  hidden
+
+  ten
+
+  inmate
+
+  float
+
+  month'
+bip_39_word_new_line12: 'guilt
+
+  produce
+
+  sound
+
+  garden
+
+  cannon
+
+  orphan
+
+  hidden
+
+  ten
+
+  inmate
+
+  float
+
+  month
+
+  act'
+bip_39_word_new_line2: 'guilt
+
+  produce'
+bip_39_word_new_line3: 'guilt
+
+  produce
+
+  sound'
+bip_39_word_new_line4: 'guilt
+
+  produce
+
+  sound
+
+  garden'
+bip_39_word_new_line5: 'guilt
+
+  produce
+
+  sound
+
+  garden
+
+  cannon'
+bip_39_word_new_line6: 'guilt
+
+  produce
+
+  sound
+
+  garden
+
+  cannon
+
+  orphan'
+bip_39_word_new_line7: 'guilt
+
+  produce
+
+  sound
+
+  garden
+
+  cannon
+
+  orphan
+
+  hidden'
+bip_39_word_new_line8: 'guilt
+
+  produce
+
+  sound
+
+  garden
+
+  cannon
+
+  orphan
+
+  hidden
+
+  ten'
+bip_39_word_new_line9: 'guilt
+
+  produce
+
+  sound
+
+  garden
+
+  cannon
+
+  orphan
+
+  hidden
+
+  ten
+
+  inmate'
+bip_39_word_space_0:
+- guilt
+- produce
+- sound
+- garden
+- cannon
+- orphan
+- hidden
+- ten
+- inmate
+- float
+- month
+- act
+bip_39_word_space_1: guilt
+bip_39_word_space_10: guilt produce sound garden cannon orphan hidden ten inmate float
+bip_39_word_space_11: guilt produce sound garden cannon orphan hidden ten inmate float
+  month
+bip_39_word_space_12: guilt produce sound garden cannon orphan hidden ten inmate float
+  month act
+bip_39_word_space_2: guilt produce
+bip_39_word_space_3: guilt produce sound
+bip_39_word_space_4: guilt produce sound garden
+bip_39_word_space_5: guilt produce sound garden cannon
+bip_39_word_space_6: guilt produce sound garden cannon orphan
+bip_39_word_space_7: guilt produce sound garden cannon orphan hidden
+bip_39_word_space_8: guilt produce sound garden cannon orphan hidden ten
+bip_39_word_space_9: guilt produce sound garden cannon orphan hidden ten inmate
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: own
+bip_39_word_new_br10: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter<br>auto
+bip_39_word_new_br11: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter<br>auto<br>size
+bip_39_word_new_br12: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter<br>auto<br>size<br>account
+bip_39_word_new_br2: own<br>lock
+bip_39_word_new_br3: own<br>lock<br>attitude
+bip_39_word_new_br4: own<br>lock<br>attitude<br>teach
+bip_39_word_new_br5: own<br>lock<br>attitude<br>teach<br>input
+bip_39_word_new_br6: own<br>lock<br>attitude<br>teach<br>input<br>gold
+bip_39_word_new_br7: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh
+bip_39_word_new_br8: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart
+bip_39_word_new_br9: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter
+bip_39_word_new_line1: own
+bip_39_word_new_line10: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart
+
+  alter
+
+  auto'
+bip_39_word_new_line11: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart
+
+  alter
+
+  auto
+
+  size'
+bip_39_word_new_line12: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart
+
+  alter
+
+  auto
+
+  size
+
+  account'
+bip_39_word_new_line2: 'own
+
+  lock'
+bip_39_word_new_line3: 'own
+
+  lock
+
+  attitude'
+bip_39_word_new_line4: 'own
+
+  lock
+
+  attitude
+
+  teach'
+bip_39_word_new_line5: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input'
+bip_39_word_new_line6: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold'
+bip_39_word_new_line7: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh'
+bip_39_word_new_line8: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart'
+bip_39_word_new_line9: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart
+
+  alter'
+bip_39_word_space_0:
+- own
+- lock
+- attitude
+- teach
+- input
+- gold
+- fresh
+- heart
+- alter
+- auto
+- size
+- account
+bip_39_word_space_1: own
+bip_39_word_space_10: own lock attitude teach input gold fresh heart alter auto
+bip_39_word_space_11: own lock attitude teach input gold fresh heart alter auto size
+bip_39_word_space_12: own lock attitude teach input gold fresh heart alter auto size
+  account
+bip_39_word_space_2: own lock
+bip_39_word_space_3: own lock attitude
+bip_39_word_space_4: own lock attitude teach
+bip_39_word_space_5: own lock attitude teach input
+bip_39_word_space_6: own lock attitude teach input gold
+bip_39_word_space_7: own lock attitude teach input gold fresh
+bip_39_word_space_8: own lock attitude teach input gold fresh heart
+bip_39_word_space_9: own lock attitude teach input gold fresh heart alter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: call behind
+  * bip 39 word 3: call behind confirm
+  * bip 39 word: call behind confirm demand eternal please deliver target always warfare enlist auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | call |  
+| bip_39_word_new_br10 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare |  
+| bip_39_word_new_br11 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare<br>enlist |  
+| bip_39_word_new_br12 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always<br>warfare<br>enlist<br>auction |  
+| bip_39_word_new_br2 | call<br>behind |  
+| bip_39_word_new_br3 | call<br>behind<br>confirm |  
+| bip_39_word_new_br4 | call<br>behind<br>confirm<br>demand |  
+| bip_39_word_new_br5 | call<br>behind<br>confirm<br>demand<br>eternal |  
+| bip_39_word_new_br6 | call<br>behind<br>confirm<br>demand<br>eternal<br>please |  
+| bip_39_word_new_br7 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver |  
+| bip_39_word_new_br8 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target |  
+| bip_39_word_new_br9 | call<br>behind<br>confirm<br>demand<br>eternal<br>please<br>deliver<br>target<br>always |  
+| bip_39_word_new_line1 | call |  
+| bip_39_word_new_line10 | call
+behind
+confirm
+demand
+eternal
+please
+deliver
+target
+always
+warfare |  
+| bip_39_word_new_line11 | call
+behind
+confirm
+demand
+eternal
+please
+deliver
+target
+always
+warfare
+enlist |  
+| bip_39_word_new_line12 | call
+behind
+confirm
+demand
+eternal
+please
+deliver
+target
+always
+warfare
+enlist
+auction |  
+| bip_39_word_new_line2 | call
+behind |  
+| bip_39_word_new_line3 | call
+behind
+confirm |  
+| bip_39_word_new_line4 | call
+behind
+confirm
+demand |  
+| bip_39_word_new_line5 | call
+behind
+confirm
+demand
+eternal |  
+| bip_39_word_new_line6 | call
+behind
+confirm
+demand
+eternal
+please |  
+| bip_39_word_new_line7 | call
+behind
+confirm
+demand
+eternal
+please
+deliver |  
+| bip_39_word_new_line8 | call
+behind
+confirm
+demand
+eternal
+please
+deliver
+target |  
+| bip_39_word_new_line9 | call
+behind
+confirm
+demand
+eternal
+please
+deliver
+target
+always |  
+| bip_39_word_space_0 | ['call', 'behind', 'confirm', 'demand', 'eternal', 'please', 'deliver', 'target', 'always', 'warfare', 'enlist', 'auction'] |  
+| bip_39_word_space_1 | call |  
+| bip_39_word_space_10 | call behind confirm demand eternal please deliver target always warfare |  
+| bip_39_word_space_11 | call behind confirm demand eternal please deliver target always warfare enlist |  
+| bip_39_word_space_12 | call behind confirm demand eternal please deliver target always warfare enlist auction |  
+| bip_39_word_space_2 | call behind |  
+| bip_39_word_space_3 | call behind confirm |  
+| bip_39_word_space_4 | call behind confirm demand |  
+| bip_39_word_space_5 | call behind confirm demand eternal |  
+| bip_39_word_space_6 | call behind confirm demand eternal please |  
+| bip_39_word_space_7 | call behind confirm demand eternal please deliver |  
+| bip_39_word_space_8 | call behind confirm demand eternal please deliver target |  
+| bip_39_word_space_9 | call behind confirm demand eternal please deliver target always |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

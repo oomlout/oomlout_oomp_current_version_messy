@@ -1,3 +1,187 @@
+bip_39_word_new_br1: teach
+bip_39_word_new_br10: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace
+bip_39_word_new_br11: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace<br>cargo
+bip_39_word_new_br12: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address<br>replace<br>cargo<br>amount
+bip_39_word_new_br2: teach<br>sudden
+bip_39_word_new_br3: teach<br>sudden<br>pet
+bip_39_word_new_br4: teach<br>sudden<br>pet<br>squirrel
+bip_39_word_new_br5: teach<br>sudden<br>pet<br>squirrel<br>surge
+bip_39_word_new_br6: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early
+bip_39_word_new_br7: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet
+bip_39_word_new_br8: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind
+bip_39_word_new_br9: teach<br>sudden<br>pet<br>squirrel<br>surge<br>early<br>bullet<br>remind<br>address
+bip_39_word_new_line1: teach
+bip_39_word_new_line10: 'teach
+
+  sudden
+
+  pet
+
+  squirrel
+
+  surge
+
+  early
+
+  bullet
+
+  remind
+
+  address
+
+  replace'
+bip_39_word_new_line11: 'teach
+
+  sudden
+
+  pet
+
+  squirrel
+
+  surge
+
+  early
+
+  bullet
+
+  remind
+
+  address
+
+  replace
+
+  cargo'
+bip_39_word_new_line12: 'teach
+
+  sudden
+
+  pet
+
+  squirrel
+
+  surge
+
+  early
+
+  bullet
+
+  remind
+
+  address
+
+  replace
+
+  cargo
+
+  amount'
+bip_39_word_new_line2: 'teach
+
+  sudden'
+bip_39_word_new_line3: 'teach
+
+  sudden
+
+  pet'
+bip_39_word_new_line4: 'teach
+
+  sudden
+
+  pet
+
+  squirrel'
+bip_39_word_new_line5: 'teach
+
+  sudden
+
+  pet
+
+  squirrel
+
+  surge'
+bip_39_word_new_line6: 'teach
+
+  sudden
+
+  pet
+
+  squirrel
+
+  surge
+
+  early'
+bip_39_word_new_line7: 'teach
+
+  sudden
+
+  pet
+
+  squirrel
+
+  surge
+
+  early
+
+  bullet'
+bip_39_word_new_line8: 'teach
+
+  sudden
+
+  pet
+
+  squirrel
+
+  surge
+
+  early
+
+  bullet
+
+  remind'
+bip_39_word_new_line9: 'teach
+
+  sudden
+
+  pet
+
+  squirrel
+
+  surge
+
+  early
+
+  bullet
+
+  remind
+
+  address'
+bip_39_word_space_0:
+- teach
+- sudden
+- pet
+- squirrel
+- surge
+- early
+- bullet
+- remind
+- address
+- replace
+- cargo
+- amount
+bip_39_word_space_1: teach
+bip_39_word_space_10: teach sudden pet squirrel surge early bullet remind address
+  replace
+bip_39_word_space_11: teach sudden pet squirrel surge early bullet remind address
+  replace cargo
+bip_39_word_space_12: teach sudden pet squirrel surge early bullet remind address
+  replace cargo amount
+bip_39_word_space_2: teach sudden
+bip_39_word_space_3: teach sudden pet
+bip_39_word_space_4: teach sudden pet squirrel
+bip_39_word_space_5: teach sudden pet squirrel surge
+bip_39_word_space_6: teach sudden pet squirrel surge early
+bip_39_word_space_7: teach sudden pet squirrel surge early bullet
+bip_39_word_space_8: teach sudden pet squirrel surge early bullet remind
+bip_39_word_space_9: teach sudden pet squirrel surge early bullet remind address
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

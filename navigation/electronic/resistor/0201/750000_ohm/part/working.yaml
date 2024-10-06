@@ -1,3 +1,187 @@
+bip_39_word_new_br1: whisper
+bip_39_word_new_br10: whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise
+bip_39_word_new_br11: whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise<br>task
+bip_39_word_new_br12: whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong<br>cruise<br>task<br>atom
+bip_39_word_new_br2: whisper<br>glue
+bip_39_word_new_br3: whisper<br>glue<br>join
+bip_39_word_new_br4: whisper<br>glue<br>join<br>sibling
+bip_39_word_new_br5: whisper<br>glue<br>join<br>sibling<br>marble
+bip_39_word_new_br6: whisper<br>glue<br>join<br>sibling<br>marble<br>inflict
+bip_39_word_new_br7: whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire
+bip_39_word_new_br8: whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main
+bip_39_word_new_br9: whisper<br>glue<br>join<br>sibling<br>marble<br>inflict<br>acquire<br>main<br>strong
+bip_39_word_new_line1: whisper
+bip_39_word_new_line10: 'whisper
+
+  glue
+
+  join
+
+  sibling
+
+  marble
+
+  inflict
+
+  acquire
+
+  main
+
+  strong
+
+  cruise'
+bip_39_word_new_line11: 'whisper
+
+  glue
+
+  join
+
+  sibling
+
+  marble
+
+  inflict
+
+  acquire
+
+  main
+
+  strong
+
+  cruise
+
+  task'
+bip_39_word_new_line12: 'whisper
+
+  glue
+
+  join
+
+  sibling
+
+  marble
+
+  inflict
+
+  acquire
+
+  main
+
+  strong
+
+  cruise
+
+  task
+
+  atom'
+bip_39_word_new_line2: 'whisper
+
+  glue'
+bip_39_word_new_line3: 'whisper
+
+  glue
+
+  join'
+bip_39_word_new_line4: 'whisper
+
+  glue
+
+  join
+
+  sibling'
+bip_39_word_new_line5: 'whisper
+
+  glue
+
+  join
+
+  sibling
+
+  marble'
+bip_39_word_new_line6: 'whisper
+
+  glue
+
+  join
+
+  sibling
+
+  marble
+
+  inflict'
+bip_39_word_new_line7: 'whisper
+
+  glue
+
+  join
+
+  sibling
+
+  marble
+
+  inflict
+
+  acquire'
+bip_39_word_new_line8: 'whisper
+
+  glue
+
+  join
+
+  sibling
+
+  marble
+
+  inflict
+
+  acquire
+
+  main'
+bip_39_word_new_line9: 'whisper
+
+  glue
+
+  join
+
+  sibling
+
+  marble
+
+  inflict
+
+  acquire
+
+  main
+
+  strong'
+bip_39_word_space_0:
+- whisper
+- glue
+- join
+- sibling
+- marble
+- inflict
+- acquire
+- main
+- strong
+- cruise
+- task
+- atom
+bip_39_word_space_1: whisper
+bip_39_word_space_10: whisper glue join sibling marble inflict acquire main strong
+  cruise
+bip_39_word_space_11: whisper glue join sibling marble inflict acquire main strong
+  cruise task
+bip_39_word_space_12: whisper glue join sibling marble inflict acquire main strong
+  cruise task atom
+bip_39_word_space_2: whisper glue
+bip_39_word_space_3: whisper glue join
+bip_39_word_space_4: whisper glue join sibling
+bip_39_word_space_5: whisper glue join sibling marble
+bip_39_word_space_6: whisper glue join sibling marble inflict
+bip_39_word_space_7: whisper glue join sibling marble inflict acquire
+bip_39_word_space_8: whisper glue join sibling marble inflict acquire main
+bip_39_word_space_9: whisper glue join sibling marble inflict acquire main strong
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

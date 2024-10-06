@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unveil light
+  * bip 39 word 3: unveil light burger
+  * bip 39 word: unveil light burger panic grab yard again jacket social catch fault afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unveil |  
+| bip_39_word_new_br10 | unveil<br>light<br>burger<br>panic<br>grab<br>yard<br>again<br>jacket<br>social<br>catch |  
+| bip_39_word_new_br11 | unveil<br>light<br>burger<br>panic<br>grab<br>yard<br>again<br>jacket<br>social<br>catch<br>fault |  
+| bip_39_word_new_br12 | unveil<br>light<br>burger<br>panic<br>grab<br>yard<br>again<br>jacket<br>social<br>catch<br>fault<br>afford |  
+| bip_39_word_new_br2 | unveil<br>light |  
+| bip_39_word_new_br3 | unveil<br>light<br>burger |  
+| bip_39_word_new_br4 | unveil<br>light<br>burger<br>panic |  
+| bip_39_word_new_br5 | unveil<br>light<br>burger<br>panic<br>grab |  
+| bip_39_word_new_br6 | unveil<br>light<br>burger<br>panic<br>grab<br>yard |  
+| bip_39_word_new_br7 | unveil<br>light<br>burger<br>panic<br>grab<br>yard<br>again |  
+| bip_39_word_new_br8 | unveil<br>light<br>burger<br>panic<br>grab<br>yard<br>again<br>jacket |  
+| bip_39_word_new_br9 | unveil<br>light<br>burger<br>panic<br>grab<br>yard<br>again<br>jacket<br>social |  
+| bip_39_word_new_line1 | unveil |  
+| bip_39_word_new_line10 | unveil
+light
+burger
+panic
+grab
+yard
+again
+jacket
+social
+catch |  
+| bip_39_word_new_line11 | unveil
+light
+burger
+panic
+grab
+yard
+again
+jacket
+social
+catch
+fault |  
+| bip_39_word_new_line12 | unveil
+light
+burger
+panic
+grab
+yard
+again
+jacket
+social
+catch
+fault
+afford |  
+| bip_39_word_new_line2 | unveil
+light |  
+| bip_39_word_new_line3 | unveil
+light
+burger |  
+| bip_39_word_new_line4 | unveil
+light
+burger
+panic |  
+| bip_39_word_new_line5 | unveil
+light
+burger
+panic
+grab |  
+| bip_39_word_new_line6 | unveil
+light
+burger
+panic
+grab
+yard |  
+| bip_39_word_new_line7 | unveil
+light
+burger
+panic
+grab
+yard
+again |  
+| bip_39_word_new_line8 | unveil
+light
+burger
+panic
+grab
+yard
+again
+jacket |  
+| bip_39_word_new_line9 | unveil
+light
+burger
+panic
+grab
+yard
+again
+jacket
+social |  
+| bip_39_word_space_0 | ['unveil', 'light', 'burger', 'panic', 'grab', 'yard', 'again', 'jacket', 'social', 'catch', 'fault', 'afford'] |  
+| bip_39_word_space_1 | unveil |  
+| bip_39_word_space_10 | unveil light burger panic grab yard again jacket social catch |  
+| bip_39_word_space_11 | unveil light burger panic grab yard again jacket social catch fault |  
+| bip_39_word_space_12 | unveil light burger panic grab yard again jacket social catch fault afford |  
+| bip_39_word_space_2 | unveil light |  
+| bip_39_word_space_3 | unveil light burger |  
+| bip_39_word_space_4 | unveil light burger panic |  
+| bip_39_word_space_5 | unveil light burger panic grab |  
+| bip_39_word_space_6 | unveil light burger panic grab yard |  
+| bip_39_word_space_7 | unveil light burger panic grab yard again |  
+| bip_39_word_space_8 | unveil light burger panic grab yard again jacket |  
+| bip_39_word_space_9 | unveil light burger panic grab yard again jacket social |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

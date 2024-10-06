@@ -1,3 +1,186 @@
+bip_39_word_new_br1: expand
+bip_39_word_new_br10: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter<br>unit
+bip_39_word_new_br11: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter<br>unit<br>credit
+bip_39_word_new_br12: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter<br>unit<br>credit<br>actress
+bip_39_word_new_br2: expand<br>pigeon
+bip_39_word_new_br3: expand<br>pigeon<br>list
+bip_39_word_new_br4: expand<br>pigeon<br>list<br>nurse
+bip_39_word_new_br5: expand<br>pigeon<br>list<br>nurse<br>oblige
+bip_39_word_new_br6: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual
+bip_39_word_new_br7: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim
+bip_39_word_new_br8: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend
+bip_39_word_new_br9: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter
+bip_39_word_new_line1: expand
+bip_39_word_new_line10: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend
+
+  bitter
+
+  unit'
+bip_39_word_new_line11: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend
+
+  bitter
+
+  unit
+
+  credit'
+bip_39_word_new_line12: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend
+
+  bitter
+
+  unit
+
+  credit
+
+  actress'
+bip_39_word_new_line2: 'expand
+
+  pigeon'
+bip_39_word_new_line3: 'expand
+
+  pigeon
+
+  list'
+bip_39_word_new_line4: 'expand
+
+  pigeon
+
+  list
+
+  nurse'
+bip_39_word_new_line5: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige'
+bip_39_word_new_line6: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual'
+bip_39_word_new_line7: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim'
+bip_39_word_new_line8: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend'
+bip_39_word_new_line9: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend
+
+  bitter'
+bip_39_word_space_0:
+- expand
+- pigeon
+- list
+- nurse
+- oblige
+- mutual
+- swim
+- spend
+- bitter
+- unit
+- credit
+- actress
+bip_39_word_space_1: expand
+bip_39_word_space_10: expand pigeon list nurse oblige mutual swim spend bitter unit
+bip_39_word_space_11: expand pigeon list nurse oblige mutual swim spend bitter unit
+  credit
+bip_39_word_space_12: expand pigeon list nurse oblige mutual swim spend bitter unit
+  credit actress
+bip_39_word_space_2: expand pigeon
+bip_39_word_space_3: expand pigeon list
+bip_39_word_space_4: expand pigeon list nurse
+bip_39_word_space_5: expand pigeon list nurse oblige
+bip_39_word_space_6: expand pigeon list nurse oblige mutual
+bip_39_word_space_7: expand pigeon list nurse oblige mutual swim
+bip_39_word_space_8: expand pigeon list nurse oblige mutual swim spend
+bip_39_word_space_9: expand pigeon list nurse oblige mutual swim spend bitter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

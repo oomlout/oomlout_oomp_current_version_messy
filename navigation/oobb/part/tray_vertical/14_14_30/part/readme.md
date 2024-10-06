@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: media choose
+  * bip 39 word 3: media choose body
+  * bip 39 word: media choose body drive quote feature pulp accuse churn monkey captain alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | media |  
+| bip_39_word_new_br10 | media<br>choose<br>body<br>drive<br>quote<br>feature<br>pulp<br>accuse<br>churn<br>monkey |  
+| bip_39_word_new_br11 | media<br>choose<br>body<br>drive<br>quote<br>feature<br>pulp<br>accuse<br>churn<br>monkey<br>captain |  
+| bip_39_word_new_br12 | media<br>choose<br>body<br>drive<br>quote<br>feature<br>pulp<br>accuse<br>churn<br>monkey<br>captain<br>alert |  
+| bip_39_word_new_br2 | media<br>choose |  
+| bip_39_word_new_br3 | media<br>choose<br>body |  
+| bip_39_word_new_br4 | media<br>choose<br>body<br>drive |  
+| bip_39_word_new_br5 | media<br>choose<br>body<br>drive<br>quote |  
+| bip_39_word_new_br6 | media<br>choose<br>body<br>drive<br>quote<br>feature |  
+| bip_39_word_new_br7 | media<br>choose<br>body<br>drive<br>quote<br>feature<br>pulp |  
+| bip_39_word_new_br8 | media<br>choose<br>body<br>drive<br>quote<br>feature<br>pulp<br>accuse |  
+| bip_39_word_new_br9 | media<br>choose<br>body<br>drive<br>quote<br>feature<br>pulp<br>accuse<br>churn |  
+| bip_39_word_new_line1 | media |  
+| bip_39_word_new_line10 | media
+choose
+body
+drive
+quote
+feature
+pulp
+accuse
+churn
+monkey |  
+| bip_39_word_new_line11 | media
+choose
+body
+drive
+quote
+feature
+pulp
+accuse
+churn
+monkey
+captain |  
+| bip_39_word_new_line12 | media
+choose
+body
+drive
+quote
+feature
+pulp
+accuse
+churn
+monkey
+captain
+alert |  
+| bip_39_word_new_line2 | media
+choose |  
+| bip_39_word_new_line3 | media
+choose
+body |  
+| bip_39_word_new_line4 | media
+choose
+body
+drive |  
+| bip_39_word_new_line5 | media
+choose
+body
+drive
+quote |  
+| bip_39_word_new_line6 | media
+choose
+body
+drive
+quote
+feature |  
+| bip_39_word_new_line7 | media
+choose
+body
+drive
+quote
+feature
+pulp |  
+| bip_39_word_new_line8 | media
+choose
+body
+drive
+quote
+feature
+pulp
+accuse |  
+| bip_39_word_new_line9 | media
+choose
+body
+drive
+quote
+feature
+pulp
+accuse
+churn |  
+| bip_39_word_space_0 | ['media', 'choose', 'body', 'drive', 'quote', 'feature', 'pulp', 'accuse', 'churn', 'monkey', 'captain', 'alert'] |  
+| bip_39_word_space_1 | media |  
+| bip_39_word_space_10 | media choose body drive quote feature pulp accuse churn monkey |  
+| bip_39_word_space_11 | media choose body drive quote feature pulp accuse churn monkey captain |  
+| bip_39_word_space_12 | media choose body drive quote feature pulp accuse churn monkey captain alert |  
+| bip_39_word_space_2 | media choose |  
+| bip_39_word_space_3 | media choose body |  
+| bip_39_word_space_4 | media choose body drive |  
+| bip_39_word_space_5 | media choose body drive quote |  
+| bip_39_word_space_6 | media choose body drive quote feature |  
+| bip_39_word_space_7 | media choose body drive quote feature pulp |  
+| bip_39_word_space_8 | media choose body drive quote feature pulp accuse |  
+| bip_39_word_space_9 | media choose body drive quote feature pulp accuse churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

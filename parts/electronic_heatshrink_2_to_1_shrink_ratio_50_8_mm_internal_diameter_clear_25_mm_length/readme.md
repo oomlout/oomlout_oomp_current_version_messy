@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rabbit fringe
+  * bip 39 word 3: rabbit fringe mistake
+  * bip 39 word: rabbit fringe mistake shock video suit faculty sword gentle near time about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rabbit |  
+| bip_39_word_new_br10 | rabbit<br>fringe<br>mistake<br>shock<br>video<br>suit<br>faculty<br>sword<br>gentle<br>near |  
+| bip_39_word_new_br11 | rabbit<br>fringe<br>mistake<br>shock<br>video<br>suit<br>faculty<br>sword<br>gentle<br>near<br>time |  
+| bip_39_word_new_br12 | rabbit<br>fringe<br>mistake<br>shock<br>video<br>suit<br>faculty<br>sword<br>gentle<br>near<br>time<br>about |  
+| bip_39_word_new_br2 | rabbit<br>fringe |  
+| bip_39_word_new_br3 | rabbit<br>fringe<br>mistake |  
+| bip_39_word_new_br4 | rabbit<br>fringe<br>mistake<br>shock |  
+| bip_39_word_new_br5 | rabbit<br>fringe<br>mistake<br>shock<br>video |  
+| bip_39_word_new_br6 | rabbit<br>fringe<br>mistake<br>shock<br>video<br>suit |  
+| bip_39_word_new_br7 | rabbit<br>fringe<br>mistake<br>shock<br>video<br>suit<br>faculty |  
+| bip_39_word_new_br8 | rabbit<br>fringe<br>mistake<br>shock<br>video<br>suit<br>faculty<br>sword |  
+| bip_39_word_new_br9 | rabbit<br>fringe<br>mistake<br>shock<br>video<br>suit<br>faculty<br>sword<br>gentle |  
+| bip_39_word_new_line1 | rabbit |  
+| bip_39_word_new_line10 | rabbit
+fringe
+mistake
+shock
+video
+suit
+faculty
+sword
+gentle
+near |  
+| bip_39_word_new_line11 | rabbit
+fringe
+mistake
+shock
+video
+suit
+faculty
+sword
+gentle
+near
+time |  
+| bip_39_word_new_line12 | rabbit
+fringe
+mistake
+shock
+video
+suit
+faculty
+sword
+gentle
+near
+time
+about |  
+| bip_39_word_new_line2 | rabbit
+fringe |  
+| bip_39_word_new_line3 | rabbit
+fringe
+mistake |  
+| bip_39_word_new_line4 | rabbit
+fringe
+mistake
+shock |  
+| bip_39_word_new_line5 | rabbit
+fringe
+mistake
+shock
+video |  
+| bip_39_word_new_line6 | rabbit
+fringe
+mistake
+shock
+video
+suit |  
+| bip_39_word_new_line7 | rabbit
+fringe
+mistake
+shock
+video
+suit
+faculty |  
+| bip_39_word_new_line8 | rabbit
+fringe
+mistake
+shock
+video
+suit
+faculty
+sword |  
+| bip_39_word_new_line9 | rabbit
+fringe
+mistake
+shock
+video
+suit
+faculty
+sword
+gentle |  
+| bip_39_word_space_0 | ['rabbit', 'fringe', 'mistake', 'shock', 'video', 'suit', 'faculty', 'sword', 'gentle', 'near', 'time', 'about'] |  
+| bip_39_word_space_1 | rabbit |  
+| bip_39_word_space_10 | rabbit fringe mistake shock video suit faculty sword gentle near |  
+| bip_39_word_space_11 | rabbit fringe mistake shock video suit faculty sword gentle near time |  
+| bip_39_word_space_12 | rabbit fringe mistake shock video suit faculty sword gentle near time about |  
+| bip_39_word_space_2 | rabbit fringe |  
+| bip_39_word_space_3 | rabbit fringe mistake |  
+| bip_39_word_space_4 | rabbit fringe mistake shock |  
+| bip_39_word_space_5 | rabbit fringe mistake shock video |  
+| bip_39_word_space_6 | rabbit fringe mistake shock video suit |  
+| bip_39_word_space_7 | rabbit fringe mistake shock video suit faculty |  
+| bip_39_word_space_8 | rabbit fringe mistake shock video suit faculty sword |  
+| bip_39_word_space_9 | rabbit fringe mistake shock video suit faculty sword gentle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

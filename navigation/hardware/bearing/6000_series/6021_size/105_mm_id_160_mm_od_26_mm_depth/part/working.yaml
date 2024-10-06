@@ -1,3 +1,185 @@
+bip_39_word_new_br1: program
+bip_39_word_new_br10: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net<br>weird<br>miss
+bip_39_word_new_br11: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net<br>weird<br>miss<br>sniff
+bip_39_word_new_br12: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net<br>weird<br>miss<br>sniff<br>answer
+bip_39_word_new_br2: program<br>host
+bip_39_word_new_br3: program<br>host<br>aim
+bip_39_word_new_br4: program<br>host<br>aim<br>idle
+bip_39_word_new_br5: program<br>host<br>aim<br>idle<br>churn
+bip_39_word_new_br6: program<br>host<br>aim<br>idle<br>churn<br>vicious
+bip_39_word_new_br7: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level
+bip_39_word_new_br8: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net
+bip_39_word_new_br9: program<br>host<br>aim<br>idle<br>churn<br>vicious<br>level<br>net<br>weird
+bip_39_word_new_line1: program
+bip_39_word_new_line10: 'program
+
+  host
+
+  aim
+
+  idle
+
+  churn
+
+  vicious
+
+  level
+
+  net
+
+  weird
+
+  miss'
+bip_39_word_new_line11: 'program
+
+  host
+
+  aim
+
+  idle
+
+  churn
+
+  vicious
+
+  level
+
+  net
+
+  weird
+
+  miss
+
+  sniff'
+bip_39_word_new_line12: 'program
+
+  host
+
+  aim
+
+  idle
+
+  churn
+
+  vicious
+
+  level
+
+  net
+
+  weird
+
+  miss
+
+  sniff
+
+  answer'
+bip_39_word_new_line2: 'program
+
+  host'
+bip_39_word_new_line3: 'program
+
+  host
+
+  aim'
+bip_39_word_new_line4: 'program
+
+  host
+
+  aim
+
+  idle'
+bip_39_word_new_line5: 'program
+
+  host
+
+  aim
+
+  idle
+
+  churn'
+bip_39_word_new_line6: 'program
+
+  host
+
+  aim
+
+  idle
+
+  churn
+
+  vicious'
+bip_39_word_new_line7: 'program
+
+  host
+
+  aim
+
+  idle
+
+  churn
+
+  vicious
+
+  level'
+bip_39_word_new_line8: 'program
+
+  host
+
+  aim
+
+  idle
+
+  churn
+
+  vicious
+
+  level
+
+  net'
+bip_39_word_new_line9: 'program
+
+  host
+
+  aim
+
+  idle
+
+  churn
+
+  vicious
+
+  level
+
+  net
+
+  weird'
+bip_39_word_space_0:
+- program
+- host
+- aim
+- idle
+- churn
+- vicious
+- level
+- net
+- weird
+- miss
+- sniff
+- answer
+bip_39_word_space_1: program
+bip_39_word_space_10: program host aim idle churn vicious level net weird miss
+bip_39_word_space_11: program host aim idle churn vicious level net weird miss sniff
+bip_39_word_space_12: program host aim idle churn vicious level net weird miss sniff
+  answer
+bip_39_word_space_2: program host
+bip_39_word_space_3: program host aim
+bip_39_word_space_4: program host aim idle
+bip_39_word_space_5: program host aim idle churn
+bip_39_word_space_6: program host aim idle churn vicious
+bip_39_word_space_7: program host aim idle churn vicious level
+bip_39_word_space_8: program host aim idle churn vicious level net
+bip_39_word_space_9: program host aim idle churn vicious level net weird
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

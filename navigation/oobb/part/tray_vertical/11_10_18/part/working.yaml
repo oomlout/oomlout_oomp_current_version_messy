@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mutual
+bip_39_word_new_br10: mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side
+bip_39_word_new_br11: mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side<br>crumble
+bip_39_word_new_br12: mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle<br>side<br>crumble<br>alpha
+bip_39_word_new_br2: mutual<br>giant
+bip_39_word_new_br3: mutual<br>giant<br>flight
+bip_39_word_new_br4: mutual<br>giant<br>flight<br>enjoy
+bip_39_word_new_br5: mutual<br>giant<br>flight<br>enjoy<br>toss
+bip_39_word_new_br6: mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand
+bip_39_word_new_br7: mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket
+bip_39_word_new_br8: mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just
+bip_39_word_new_br9: mutual<br>giant<br>flight<br>enjoy<br>toss<br>hand<br>blanket<br>just<br>struggle
+bip_39_word_new_line1: mutual
+bip_39_word_new_line10: 'mutual
+
+  giant
+
+  flight
+
+  enjoy
+
+  toss
+
+  hand
+
+  blanket
+
+  just
+
+  struggle
+
+  side'
+bip_39_word_new_line11: 'mutual
+
+  giant
+
+  flight
+
+  enjoy
+
+  toss
+
+  hand
+
+  blanket
+
+  just
+
+  struggle
+
+  side
+
+  crumble'
+bip_39_word_new_line12: 'mutual
+
+  giant
+
+  flight
+
+  enjoy
+
+  toss
+
+  hand
+
+  blanket
+
+  just
+
+  struggle
+
+  side
+
+  crumble
+
+  alpha'
+bip_39_word_new_line2: 'mutual
+
+  giant'
+bip_39_word_new_line3: 'mutual
+
+  giant
+
+  flight'
+bip_39_word_new_line4: 'mutual
+
+  giant
+
+  flight
+
+  enjoy'
+bip_39_word_new_line5: 'mutual
+
+  giant
+
+  flight
+
+  enjoy
+
+  toss'
+bip_39_word_new_line6: 'mutual
+
+  giant
+
+  flight
+
+  enjoy
+
+  toss
+
+  hand'
+bip_39_word_new_line7: 'mutual
+
+  giant
+
+  flight
+
+  enjoy
+
+  toss
+
+  hand
+
+  blanket'
+bip_39_word_new_line8: 'mutual
+
+  giant
+
+  flight
+
+  enjoy
+
+  toss
+
+  hand
+
+  blanket
+
+  just'
+bip_39_word_new_line9: 'mutual
+
+  giant
+
+  flight
+
+  enjoy
+
+  toss
+
+  hand
+
+  blanket
+
+  just
+
+  struggle'
+bip_39_word_space_0:
+- mutual
+- giant
+- flight
+- enjoy
+- toss
+- hand
+- blanket
+- just
+- struggle
+- side
+- crumble
+- alpha
+bip_39_word_space_1: mutual
+bip_39_word_space_10: mutual giant flight enjoy toss hand blanket just struggle side
+bip_39_word_space_11: mutual giant flight enjoy toss hand blanket just struggle side
+  crumble
+bip_39_word_space_12: mutual giant flight enjoy toss hand blanket just struggle side
+  crumble alpha
+bip_39_word_space_2: mutual giant
+bip_39_word_space_3: mutual giant flight
+bip_39_word_space_4: mutual giant flight enjoy
+bip_39_word_space_5: mutual giant flight enjoy toss
+bip_39_word_space_6: mutual giant flight enjoy toss hand
+bip_39_word_space_7: mutual giant flight enjoy toss hand blanket
+bip_39_word_space_8: mutual giant flight enjoy toss hand blanket just
+bip_39_word_space_9: mutual giant flight enjoy toss hand blanket just struggle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

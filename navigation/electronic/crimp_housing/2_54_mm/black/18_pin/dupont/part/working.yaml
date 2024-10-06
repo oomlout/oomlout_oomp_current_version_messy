@@ -1,3 +1,186 @@
+bip_39_word_new_br1: board
+bip_39_word_new_br10: board<br>want<br>isolate<br>leg<br>flavor<br>dice<br>beauty<br>minimum<br>reopen<br>share
+bip_39_word_new_br11: board<br>want<br>isolate<br>leg<br>flavor<br>dice<br>beauty<br>minimum<br>reopen<br>share<br>spoon
+bip_39_word_new_br12: board<br>want<br>isolate<br>leg<br>flavor<br>dice<br>beauty<br>minimum<br>reopen<br>share<br>spoon<br>any
+bip_39_word_new_br2: board<br>want
+bip_39_word_new_br3: board<br>want<br>isolate
+bip_39_word_new_br4: board<br>want<br>isolate<br>leg
+bip_39_word_new_br5: board<br>want<br>isolate<br>leg<br>flavor
+bip_39_word_new_br6: board<br>want<br>isolate<br>leg<br>flavor<br>dice
+bip_39_word_new_br7: board<br>want<br>isolate<br>leg<br>flavor<br>dice<br>beauty
+bip_39_word_new_br8: board<br>want<br>isolate<br>leg<br>flavor<br>dice<br>beauty<br>minimum
+bip_39_word_new_br9: board<br>want<br>isolate<br>leg<br>flavor<br>dice<br>beauty<br>minimum<br>reopen
+bip_39_word_new_line1: board
+bip_39_word_new_line10: 'board
+
+  want
+
+  isolate
+
+  leg
+
+  flavor
+
+  dice
+
+  beauty
+
+  minimum
+
+  reopen
+
+  share'
+bip_39_word_new_line11: 'board
+
+  want
+
+  isolate
+
+  leg
+
+  flavor
+
+  dice
+
+  beauty
+
+  minimum
+
+  reopen
+
+  share
+
+  spoon'
+bip_39_word_new_line12: 'board
+
+  want
+
+  isolate
+
+  leg
+
+  flavor
+
+  dice
+
+  beauty
+
+  minimum
+
+  reopen
+
+  share
+
+  spoon
+
+  any'
+bip_39_word_new_line2: 'board
+
+  want'
+bip_39_word_new_line3: 'board
+
+  want
+
+  isolate'
+bip_39_word_new_line4: 'board
+
+  want
+
+  isolate
+
+  leg'
+bip_39_word_new_line5: 'board
+
+  want
+
+  isolate
+
+  leg
+
+  flavor'
+bip_39_word_new_line6: 'board
+
+  want
+
+  isolate
+
+  leg
+
+  flavor
+
+  dice'
+bip_39_word_new_line7: 'board
+
+  want
+
+  isolate
+
+  leg
+
+  flavor
+
+  dice
+
+  beauty'
+bip_39_word_new_line8: 'board
+
+  want
+
+  isolate
+
+  leg
+
+  flavor
+
+  dice
+
+  beauty
+
+  minimum'
+bip_39_word_new_line9: 'board
+
+  want
+
+  isolate
+
+  leg
+
+  flavor
+
+  dice
+
+  beauty
+
+  minimum
+
+  reopen'
+bip_39_word_space_0:
+- board
+- want
+- isolate
+- leg
+- flavor
+- dice
+- beauty
+- minimum
+- reopen
+- share
+- spoon
+- any
+bip_39_word_space_1: board
+bip_39_word_space_10: board want isolate leg flavor dice beauty minimum reopen share
+bip_39_word_space_11: board want isolate leg flavor dice beauty minimum reopen share
+  spoon
+bip_39_word_space_12: board want isolate leg flavor dice beauty minimum reopen share
+  spoon any
+bip_39_word_space_2: board want
+bip_39_word_space_3: board want isolate
+bip_39_word_space_4: board want isolate leg
+bip_39_word_space_5: board want isolate leg flavor
+bip_39_word_space_6: board want isolate leg flavor dice
+bip_39_word_space_7: board want isolate leg flavor dice beauty
+bip_39_word_space_8: board want isolate leg flavor dice beauty minimum
+bip_39_word_space_9: board want isolate leg flavor dice beauty minimum reopen
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

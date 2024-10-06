@@ -1,3 +1,158 @@
+bip_39_word_new_br1: judge
+bip_39_word_new_br10: judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle<br>try
+bip_39_word_new_br11: judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle<br>try<br>craft
+bip_39_word_new_br2: judge<br>harbor
+bip_39_word_new_br3: judge<br>harbor<br>vote
+bip_39_word_new_br4: judge<br>harbor<br>vote<br>breeze
+bip_39_word_new_br5: judge<br>harbor<br>vote<br>breeze<br>where
+bip_39_word_new_br6: judge<br>harbor<br>vote<br>breeze<br>where<br>fox
+bip_39_word_new_br7: judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save
+bip_39_word_new_br8: judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo
+bip_39_word_new_br9: judge<br>harbor<br>vote<br>breeze<br>where<br>fox<br>save<br>photo<br>recycle
+bip_39_word_new_line1: judge
+bip_39_word_new_line10: 'judge
+
+  harbor
+
+  vote
+
+  breeze
+
+  where
+
+  fox
+
+  save
+
+  photo
+
+  recycle
+
+  try'
+bip_39_word_new_line11: 'judge
+
+  harbor
+
+  vote
+
+  breeze
+
+  where
+
+  fox
+
+  save
+
+  photo
+
+  recycle
+
+  try
+
+  craft'
+bip_39_word_new_line2: 'judge
+
+  harbor'
+bip_39_word_new_line3: 'judge
+
+  harbor
+
+  vote'
+bip_39_word_new_line4: 'judge
+
+  harbor
+
+  vote
+
+  breeze'
+bip_39_word_new_line5: 'judge
+
+  harbor
+
+  vote
+
+  breeze
+
+  where'
+bip_39_word_new_line6: 'judge
+
+  harbor
+
+  vote
+
+  breeze
+
+  where
+
+  fox'
+bip_39_word_new_line7: 'judge
+
+  harbor
+
+  vote
+
+  breeze
+
+  where
+
+  fox
+
+  save'
+bip_39_word_new_line8: 'judge
+
+  harbor
+
+  vote
+
+  breeze
+
+  where
+
+  fox
+
+  save
+
+  photo'
+bip_39_word_new_line9: 'judge
+
+  harbor
+
+  vote
+
+  breeze
+
+  where
+
+  fox
+
+  save
+
+  photo
+
+  recycle'
+bip_39_word_space_0:
+- judge
+- harbor
+- vote
+- breeze
+- where
+- fox
+- save
+- photo
+- recycle
+- try
+- craft
+bip_39_word_space_1: judge
+bip_39_word_space_10: judge harbor vote breeze where fox save photo recycle try
+bip_39_word_space_11: judge harbor vote breeze where fox save photo recycle try craft
+bip_39_word_space_2: judge harbor
+bip_39_word_space_3: judge harbor vote
+bip_39_word_space_4: judge harbor vote breeze
+bip_39_word_space_5: judge harbor vote breeze where
+bip_39_word_space_6: judge harbor vote breeze where fox
+bip_39_word_space_7: judge harbor vote breeze where fox save
+bip_39_word_space_8: judge harbor vote breeze where fox save photo
+bip_39_word_space_9: judge harbor vote breeze where fox save photo recycle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

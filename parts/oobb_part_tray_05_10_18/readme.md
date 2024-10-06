@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sand engine
+  * bip 39 word 3: sand engine then
+  * bip 39 word: sand engine then catch style zebra window heart idea current oxygen alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sand |  
+| bip_39_word_new_br10 | sand<br>engine<br>then<br>catch<br>style<br>zebra<br>window<br>heart<br>idea<br>current |  
+| bip_39_word_new_br11 | sand<br>engine<br>then<br>catch<br>style<br>zebra<br>window<br>heart<br>idea<br>current<br>oxygen |  
+| bip_39_word_new_br12 | sand<br>engine<br>then<br>catch<br>style<br>zebra<br>window<br>heart<br>idea<br>current<br>oxygen<br>alter |  
+| bip_39_word_new_br2 | sand<br>engine |  
+| bip_39_word_new_br3 | sand<br>engine<br>then |  
+| bip_39_word_new_br4 | sand<br>engine<br>then<br>catch |  
+| bip_39_word_new_br5 | sand<br>engine<br>then<br>catch<br>style |  
+| bip_39_word_new_br6 | sand<br>engine<br>then<br>catch<br>style<br>zebra |  
+| bip_39_word_new_br7 | sand<br>engine<br>then<br>catch<br>style<br>zebra<br>window |  
+| bip_39_word_new_br8 | sand<br>engine<br>then<br>catch<br>style<br>zebra<br>window<br>heart |  
+| bip_39_word_new_br9 | sand<br>engine<br>then<br>catch<br>style<br>zebra<br>window<br>heart<br>idea |  
+| bip_39_word_new_line1 | sand |  
+| bip_39_word_new_line10 | sand
+engine
+then
+catch
+style
+zebra
+window
+heart
+idea
+current |  
+| bip_39_word_new_line11 | sand
+engine
+then
+catch
+style
+zebra
+window
+heart
+idea
+current
+oxygen |  
+| bip_39_word_new_line12 | sand
+engine
+then
+catch
+style
+zebra
+window
+heart
+idea
+current
+oxygen
+alter |  
+| bip_39_word_new_line2 | sand
+engine |  
+| bip_39_word_new_line3 | sand
+engine
+then |  
+| bip_39_word_new_line4 | sand
+engine
+then
+catch |  
+| bip_39_word_new_line5 | sand
+engine
+then
+catch
+style |  
+| bip_39_word_new_line6 | sand
+engine
+then
+catch
+style
+zebra |  
+| bip_39_word_new_line7 | sand
+engine
+then
+catch
+style
+zebra
+window |  
+| bip_39_word_new_line8 | sand
+engine
+then
+catch
+style
+zebra
+window
+heart |  
+| bip_39_word_new_line9 | sand
+engine
+then
+catch
+style
+zebra
+window
+heart
+idea |  
+| bip_39_word_space_0 | ['sand', 'engine', 'then', 'catch', 'style', 'zebra', 'window', 'heart', 'idea', 'current', 'oxygen', 'alter'] |  
+| bip_39_word_space_1 | sand |  
+| bip_39_word_space_10 | sand engine then catch style zebra window heart idea current |  
+| bip_39_word_space_11 | sand engine then catch style zebra window heart idea current oxygen |  
+| bip_39_word_space_12 | sand engine then catch style zebra window heart idea current oxygen alter |  
+| bip_39_word_space_2 | sand engine |  
+| bip_39_word_space_3 | sand engine then |  
+| bip_39_word_space_4 | sand engine then catch |  
+| bip_39_word_space_5 | sand engine then catch style |  
+| bip_39_word_space_6 | sand engine then catch style zebra |  
+| bip_39_word_space_7 | sand engine then catch style zebra window |  
+| bip_39_word_space_8 | sand engine then catch style zebra window heart |  
+| bip_39_word_space_9 | sand engine then catch style zebra window heart idea |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

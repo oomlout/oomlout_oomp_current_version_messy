@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: polar small
+  * bip 39 word 3: polar small mystery
+  * bip 39 word: polar small mystery income decline shoe faith drama letter achieve game argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | polar |  
+| bip_39_word_new_br10 | polar<br>small<br>mystery<br>income<br>decline<br>shoe<br>faith<br>drama<br>letter<br>achieve |  
+| bip_39_word_new_br11 | polar<br>small<br>mystery<br>income<br>decline<br>shoe<br>faith<br>drama<br>letter<br>achieve<br>game |  
+| bip_39_word_new_br12 | polar<br>small<br>mystery<br>income<br>decline<br>shoe<br>faith<br>drama<br>letter<br>achieve<br>game<br>argue |  
+| bip_39_word_new_br2 | polar<br>small |  
+| bip_39_word_new_br3 | polar<br>small<br>mystery |  
+| bip_39_word_new_br4 | polar<br>small<br>mystery<br>income |  
+| bip_39_word_new_br5 | polar<br>small<br>mystery<br>income<br>decline |  
+| bip_39_word_new_br6 | polar<br>small<br>mystery<br>income<br>decline<br>shoe |  
+| bip_39_word_new_br7 | polar<br>small<br>mystery<br>income<br>decline<br>shoe<br>faith |  
+| bip_39_word_new_br8 | polar<br>small<br>mystery<br>income<br>decline<br>shoe<br>faith<br>drama |  
+| bip_39_word_new_br9 | polar<br>small<br>mystery<br>income<br>decline<br>shoe<br>faith<br>drama<br>letter |  
+| bip_39_word_new_line1 | polar |  
+| bip_39_word_new_line10 | polar
+small
+mystery
+income
+decline
+shoe
+faith
+drama
+letter
+achieve |  
+| bip_39_word_new_line11 | polar
+small
+mystery
+income
+decline
+shoe
+faith
+drama
+letter
+achieve
+game |  
+| bip_39_word_new_line12 | polar
+small
+mystery
+income
+decline
+shoe
+faith
+drama
+letter
+achieve
+game
+argue |  
+| bip_39_word_new_line2 | polar
+small |  
+| bip_39_word_new_line3 | polar
+small
+mystery |  
+| bip_39_word_new_line4 | polar
+small
+mystery
+income |  
+| bip_39_word_new_line5 | polar
+small
+mystery
+income
+decline |  
+| bip_39_word_new_line6 | polar
+small
+mystery
+income
+decline
+shoe |  
+| bip_39_word_new_line7 | polar
+small
+mystery
+income
+decline
+shoe
+faith |  
+| bip_39_word_new_line8 | polar
+small
+mystery
+income
+decline
+shoe
+faith
+drama |  
+| bip_39_word_new_line9 | polar
+small
+mystery
+income
+decline
+shoe
+faith
+drama
+letter |  
+| bip_39_word_space_0 | ['polar', 'small', 'mystery', 'income', 'decline', 'shoe', 'faith', 'drama', 'letter', 'achieve', 'game', 'argue'] |  
+| bip_39_word_space_1 | polar |  
+| bip_39_word_space_10 | polar small mystery income decline shoe faith drama letter achieve |  
+| bip_39_word_space_11 | polar small mystery income decline shoe faith drama letter achieve game |  
+| bip_39_word_space_12 | polar small mystery income decline shoe faith drama letter achieve game argue |  
+| bip_39_word_space_2 | polar small |  
+| bip_39_word_space_3 | polar small mystery |  
+| bip_39_word_space_4 | polar small mystery income |  
+| bip_39_word_space_5 | polar small mystery income decline |  
+| bip_39_word_space_6 | polar small mystery income decline shoe |  
+| bip_39_word_space_7 | polar small mystery income decline shoe faith |  
+| bip_39_word_space_8 | polar small mystery income decline shoe faith drama |  
+| bip_39_word_space_9 | polar small mystery income decline shoe faith drama letter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

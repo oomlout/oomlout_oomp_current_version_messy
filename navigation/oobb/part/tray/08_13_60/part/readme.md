@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: radio random
+  * bip 39 word 3: radio random letter
+  * bip 39 word: radio random letter web practice bone together old liquid hood sun already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | radio |  
+| bip_39_word_new_br10 | radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid<br>hood |  
+| bip_39_word_new_br11 | radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid<br>hood<br>sun |  
+| bip_39_word_new_br12 | radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid<br>hood<br>sun<br>already |  
+| bip_39_word_new_br2 | radio<br>random |  
+| bip_39_word_new_br3 | radio<br>random<br>letter |  
+| bip_39_word_new_br4 | radio<br>random<br>letter<br>web |  
+| bip_39_word_new_br5 | radio<br>random<br>letter<br>web<br>practice |  
+| bip_39_word_new_br6 | radio<br>random<br>letter<br>web<br>practice<br>bone |  
+| bip_39_word_new_br7 | radio<br>random<br>letter<br>web<br>practice<br>bone<br>together |  
+| bip_39_word_new_br8 | radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old |  
+| bip_39_word_new_br9 | radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid |  
+| bip_39_word_new_line1 | radio |  
+| bip_39_word_new_line10 | radio
+random
+letter
+web
+practice
+bone
+together
+old
+liquid
+hood |  
+| bip_39_word_new_line11 | radio
+random
+letter
+web
+practice
+bone
+together
+old
+liquid
+hood
+sun |  
+| bip_39_word_new_line12 | radio
+random
+letter
+web
+practice
+bone
+together
+old
+liquid
+hood
+sun
+already |  
+| bip_39_word_new_line2 | radio
+random |  
+| bip_39_word_new_line3 | radio
+random
+letter |  
+| bip_39_word_new_line4 | radio
+random
+letter
+web |  
+| bip_39_word_new_line5 | radio
+random
+letter
+web
+practice |  
+| bip_39_word_new_line6 | radio
+random
+letter
+web
+practice
+bone |  
+| bip_39_word_new_line7 | radio
+random
+letter
+web
+practice
+bone
+together |  
+| bip_39_word_new_line8 | radio
+random
+letter
+web
+practice
+bone
+together
+old |  
+| bip_39_word_new_line9 | radio
+random
+letter
+web
+practice
+bone
+together
+old
+liquid |  
+| bip_39_word_space_0 | ['radio', 'random', 'letter', 'web', 'practice', 'bone', 'together', 'old', 'liquid', 'hood', 'sun', 'already'] |  
+| bip_39_word_space_1 | radio |  
+| bip_39_word_space_10 | radio random letter web practice bone together old liquid hood |  
+| bip_39_word_space_11 | radio random letter web practice bone together old liquid hood sun |  
+| bip_39_word_space_12 | radio random letter web practice bone together old liquid hood sun already |  
+| bip_39_word_space_2 | radio random |  
+| bip_39_word_space_3 | radio random letter |  
+| bip_39_word_space_4 | radio random letter web |  
+| bip_39_word_space_5 | radio random letter web practice |  
+| bip_39_word_space_6 | radio random letter web practice bone |  
+| bip_39_word_space_7 | radio random letter web practice bone together |  
+| bip_39_word_space_8 | radio random letter web practice bone together old |  
+| bip_39_word_space_9 | radio random letter web practice bone together old liquid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

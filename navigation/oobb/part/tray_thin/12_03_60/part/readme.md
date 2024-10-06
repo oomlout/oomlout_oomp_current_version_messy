@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rapid awkward
+  * bip 39 word 3: rapid awkward valve
+  * bip 39 word: rapid awkward valve faint mom winner silk prepare enjoy useful alone abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rapid |  
+| bip_39_word_new_br10 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner<br>silk<br>prepare<br>enjoy<br>useful |  
+| bip_39_word_new_br11 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner<br>silk<br>prepare<br>enjoy<br>useful<br>alone |  
+| bip_39_word_new_br12 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner<br>silk<br>prepare<br>enjoy<br>useful<br>alone<br>abstract |  
+| bip_39_word_new_br2 | rapid<br>awkward |  
+| bip_39_word_new_br3 | rapid<br>awkward<br>valve |  
+| bip_39_word_new_br4 | rapid<br>awkward<br>valve<br>faint |  
+| bip_39_word_new_br5 | rapid<br>awkward<br>valve<br>faint<br>mom |  
+| bip_39_word_new_br6 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner |  
+| bip_39_word_new_br7 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner<br>silk |  
+| bip_39_word_new_br8 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner<br>silk<br>prepare |  
+| bip_39_word_new_br9 | rapid<br>awkward<br>valve<br>faint<br>mom<br>winner<br>silk<br>prepare<br>enjoy |  
+| bip_39_word_new_line1 | rapid |  
+| bip_39_word_new_line10 | rapid
+awkward
+valve
+faint
+mom
+winner
+silk
+prepare
+enjoy
+useful |  
+| bip_39_word_new_line11 | rapid
+awkward
+valve
+faint
+mom
+winner
+silk
+prepare
+enjoy
+useful
+alone |  
+| bip_39_word_new_line12 | rapid
+awkward
+valve
+faint
+mom
+winner
+silk
+prepare
+enjoy
+useful
+alone
+abstract |  
+| bip_39_word_new_line2 | rapid
+awkward |  
+| bip_39_word_new_line3 | rapid
+awkward
+valve |  
+| bip_39_word_new_line4 | rapid
+awkward
+valve
+faint |  
+| bip_39_word_new_line5 | rapid
+awkward
+valve
+faint
+mom |  
+| bip_39_word_new_line6 | rapid
+awkward
+valve
+faint
+mom
+winner |  
+| bip_39_word_new_line7 | rapid
+awkward
+valve
+faint
+mom
+winner
+silk |  
+| bip_39_word_new_line8 | rapid
+awkward
+valve
+faint
+mom
+winner
+silk
+prepare |  
+| bip_39_word_new_line9 | rapid
+awkward
+valve
+faint
+mom
+winner
+silk
+prepare
+enjoy |  
+| bip_39_word_space_0 | ['rapid', 'awkward', 'valve', 'faint', 'mom', 'winner', 'silk', 'prepare', 'enjoy', 'useful', 'alone', 'abstract'] |  
+| bip_39_word_space_1 | rapid |  
+| bip_39_word_space_10 | rapid awkward valve faint mom winner silk prepare enjoy useful |  
+| bip_39_word_space_11 | rapid awkward valve faint mom winner silk prepare enjoy useful alone |  
+| bip_39_word_space_12 | rapid awkward valve faint mom winner silk prepare enjoy useful alone abstract |  
+| bip_39_word_space_2 | rapid awkward |  
+| bip_39_word_space_3 | rapid awkward valve |  
+| bip_39_word_space_4 | rapid awkward valve faint |  
+| bip_39_word_space_5 | rapid awkward valve faint mom |  
+| bip_39_word_space_6 | rapid awkward valve faint mom winner |  
+| bip_39_word_space_7 | rapid awkward valve faint mom winner silk |  
+| bip_39_word_space_8 | rapid awkward valve faint mom winner silk prepare |  
+| bip_39_word_space_9 | rapid awkward valve faint mom winner silk prepare enjoy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

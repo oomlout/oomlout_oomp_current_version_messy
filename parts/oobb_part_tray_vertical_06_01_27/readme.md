@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: celery scout
+  * bip 39 word 3: celery scout stone
+  * bip 39 word: celery scout stone drama fiscal update famous setup hair figure ski anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | celery |  
+| bip_39_word_new_br10 | celery<br>scout<br>stone<br>drama<br>fiscal<br>update<br>famous<br>setup<br>hair<br>figure |  
+| bip_39_word_new_br11 | celery<br>scout<br>stone<br>drama<br>fiscal<br>update<br>famous<br>setup<br>hair<br>figure<br>ski |  
+| bip_39_word_new_br12 | celery<br>scout<br>stone<br>drama<br>fiscal<br>update<br>famous<br>setup<br>hair<br>figure<br>ski<br>anger |  
+| bip_39_word_new_br2 | celery<br>scout |  
+| bip_39_word_new_br3 | celery<br>scout<br>stone |  
+| bip_39_word_new_br4 | celery<br>scout<br>stone<br>drama |  
+| bip_39_word_new_br5 | celery<br>scout<br>stone<br>drama<br>fiscal |  
+| bip_39_word_new_br6 | celery<br>scout<br>stone<br>drama<br>fiscal<br>update |  
+| bip_39_word_new_br7 | celery<br>scout<br>stone<br>drama<br>fiscal<br>update<br>famous |  
+| bip_39_word_new_br8 | celery<br>scout<br>stone<br>drama<br>fiscal<br>update<br>famous<br>setup |  
+| bip_39_word_new_br9 | celery<br>scout<br>stone<br>drama<br>fiscal<br>update<br>famous<br>setup<br>hair |  
+| bip_39_word_new_line1 | celery |  
+| bip_39_word_new_line10 | celery
+scout
+stone
+drama
+fiscal
+update
+famous
+setup
+hair
+figure |  
+| bip_39_word_new_line11 | celery
+scout
+stone
+drama
+fiscal
+update
+famous
+setup
+hair
+figure
+ski |  
+| bip_39_word_new_line12 | celery
+scout
+stone
+drama
+fiscal
+update
+famous
+setup
+hair
+figure
+ski
+anger |  
+| bip_39_word_new_line2 | celery
+scout |  
+| bip_39_word_new_line3 | celery
+scout
+stone |  
+| bip_39_word_new_line4 | celery
+scout
+stone
+drama |  
+| bip_39_word_new_line5 | celery
+scout
+stone
+drama
+fiscal |  
+| bip_39_word_new_line6 | celery
+scout
+stone
+drama
+fiscal
+update |  
+| bip_39_word_new_line7 | celery
+scout
+stone
+drama
+fiscal
+update
+famous |  
+| bip_39_word_new_line8 | celery
+scout
+stone
+drama
+fiscal
+update
+famous
+setup |  
+| bip_39_word_new_line9 | celery
+scout
+stone
+drama
+fiscal
+update
+famous
+setup
+hair |  
+| bip_39_word_space_0 | ['celery', 'scout', 'stone', 'drama', 'fiscal', 'update', 'famous', 'setup', 'hair', 'figure', 'ski', 'anger'] |  
+| bip_39_word_space_1 | celery |  
+| bip_39_word_space_10 | celery scout stone drama fiscal update famous setup hair figure |  
+| bip_39_word_space_11 | celery scout stone drama fiscal update famous setup hair figure ski |  
+| bip_39_word_space_12 | celery scout stone drama fiscal update famous setup hair figure ski anger |  
+| bip_39_word_space_2 | celery scout |  
+| bip_39_word_space_3 | celery scout stone |  
+| bip_39_word_space_4 | celery scout stone drama |  
+| bip_39_word_space_5 | celery scout stone drama fiscal |  
+| bip_39_word_space_6 | celery scout stone drama fiscal update |  
+| bip_39_word_space_7 | celery scout stone drama fiscal update famous |  
+| bip_39_word_space_8 | celery scout stone drama fiscal update famous setup |  
+| bip_39_word_space_9 | celery scout stone drama fiscal update famous setup hair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

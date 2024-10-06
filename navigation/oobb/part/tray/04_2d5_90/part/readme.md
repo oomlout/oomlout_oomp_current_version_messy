@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mirror move
+  * bip 39 word 3: mirror move fantasy
+  * bip 39 word: mirror move fantasy noise usage fluid broken aerobic aim whisper inmate around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mirror |  
+| bip_39_word_new_br10 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid<br>broken<br>aerobic<br>aim<br>whisper |  
+| bip_39_word_new_br11 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid<br>broken<br>aerobic<br>aim<br>whisper<br>inmate |  
+| bip_39_word_new_br12 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid<br>broken<br>aerobic<br>aim<br>whisper<br>inmate<br>around |  
+| bip_39_word_new_br2 | mirror<br>move |  
+| bip_39_word_new_br3 | mirror<br>move<br>fantasy |  
+| bip_39_word_new_br4 | mirror<br>move<br>fantasy<br>noise |  
+| bip_39_word_new_br5 | mirror<br>move<br>fantasy<br>noise<br>usage |  
+| bip_39_word_new_br6 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid |  
+| bip_39_word_new_br7 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid<br>broken |  
+| bip_39_word_new_br8 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid<br>broken<br>aerobic |  
+| bip_39_word_new_br9 | mirror<br>move<br>fantasy<br>noise<br>usage<br>fluid<br>broken<br>aerobic<br>aim |  
+| bip_39_word_new_line1 | mirror |  
+| bip_39_word_new_line10 | mirror
+move
+fantasy
+noise
+usage
+fluid
+broken
+aerobic
+aim
+whisper |  
+| bip_39_word_new_line11 | mirror
+move
+fantasy
+noise
+usage
+fluid
+broken
+aerobic
+aim
+whisper
+inmate |  
+| bip_39_word_new_line12 | mirror
+move
+fantasy
+noise
+usage
+fluid
+broken
+aerobic
+aim
+whisper
+inmate
+around |  
+| bip_39_word_new_line2 | mirror
+move |  
+| bip_39_word_new_line3 | mirror
+move
+fantasy |  
+| bip_39_word_new_line4 | mirror
+move
+fantasy
+noise |  
+| bip_39_word_new_line5 | mirror
+move
+fantasy
+noise
+usage |  
+| bip_39_word_new_line6 | mirror
+move
+fantasy
+noise
+usage
+fluid |  
+| bip_39_word_new_line7 | mirror
+move
+fantasy
+noise
+usage
+fluid
+broken |  
+| bip_39_word_new_line8 | mirror
+move
+fantasy
+noise
+usage
+fluid
+broken
+aerobic |  
+| bip_39_word_new_line9 | mirror
+move
+fantasy
+noise
+usage
+fluid
+broken
+aerobic
+aim |  
+| bip_39_word_space_0 | ['mirror', 'move', 'fantasy', 'noise', 'usage', 'fluid', 'broken', 'aerobic', 'aim', 'whisper', 'inmate', 'around'] |  
+| bip_39_word_space_1 | mirror |  
+| bip_39_word_space_10 | mirror move fantasy noise usage fluid broken aerobic aim whisper |  
+| bip_39_word_space_11 | mirror move fantasy noise usage fluid broken aerobic aim whisper inmate |  
+| bip_39_word_space_12 | mirror move fantasy noise usage fluid broken aerobic aim whisper inmate around |  
+| bip_39_word_space_2 | mirror move |  
+| bip_39_word_space_3 | mirror move fantasy |  
+| bip_39_word_space_4 | mirror move fantasy noise |  
+| bip_39_word_space_5 | mirror move fantasy noise usage |  
+| bip_39_word_space_6 | mirror move fantasy noise usage fluid |  
+| bip_39_word_space_7 | mirror move fantasy noise usage fluid broken |  
+| bip_39_word_space_8 | mirror move fantasy noise usage fluid broken aerobic |  
+| bip_39_word_space_9 | mirror move fantasy noise usage fluid broken aerobic aim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

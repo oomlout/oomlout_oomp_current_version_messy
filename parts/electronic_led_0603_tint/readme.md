@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: casino develop
+  * bip 39 word 3: casino develop place
+  * bip 39 word: casino develop place lunar hello nurse device silly stock swift butter alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | casino |  
+| bip_39_word_new_br10 | casino<br>develop<br>place<br>lunar<br>hello<br>nurse<br>device<br>silly<br>stock<br>swift |  
+| bip_39_word_new_br11 | casino<br>develop<br>place<br>lunar<br>hello<br>nurse<br>device<br>silly<br>stock<br>swift<br>butter |  
+| bip_39_word_new_br12 | casino<br>develop<br>place<br>lunar<br>hello<br>nurse<br>device<br>silly<br>stock<br>swift<br>butter<br>alien |  
+| bip_39_word_new_br2 | casino<br>develop |  
+| bip_39_word_new_br3 | casino<br>develop<br>place |  
+| bip_39_word_new_br4 | casino<br>develop<br>place<br>lunar |  
+| bip_39_word_new_br5 | casino<br>develop<br>place<br>lunar<br>hello |  
+| bip_39_word_new_br6 | casino<br>develop<br>place<br>lunar<br>hello<br>nurse |  
+| bip_39_word_new_br7 | casino<br>develop<br>place<br>lunar<br>hello<br>nurse<br>device |  
+| bip_39_word_new_br8 | casino<br>develop<br>place<br>lunar<br>hello<br>nurse<br>device<br>silly |  
+| bip_39_word_new_br9 | casino<br>develop<br>place<br>lunar<br>hello<br>nurse<br>device<br>silly<br>stock |  
+| bip_39_word_new_line1 | casino |  
+| bip_39_word_new_line10 | casino
+develop
+place
+lunar
+hello
+nurse
+device
+silly
+stock
+swift |  
+| bip_39_word_new_line11 | casino
+develop
+place
+lunar
+hello
+nurse
+device
+silly
+stock
+swift
+butter |  
+| bip_39_word_new_line12 | casino
+develop
+place
+lunar
+hello
+nurse
+device
+silly
+stock
+swift
+butter
+alien |  
+| bip_39_word_new_line2 | casino
+develop |  
+| bip_39_word_new_line3 | casino
+develop
+place |  
+| bip_39_word_new_line4 | casino
+develop
+place
+lunar |  
+| bip_39_word_new_line5 | casino
+develop
+place
+lunar
+hello |  
+| bip_39_word_new_line6 | casino
+develop
+place
+lunar
+hello
+nurse |  
+| bip_39_word_new_line7 | casino
+develop
+place
+lunar
+hello
+nurse
+device |  
+| bip_39_word_new_line8 | casino
+develop
+place
+lunar
+hello
+nurse
+device
+silly |  
+| bip_39_word_new_line9 | casino
+develop
+place
+lunar
+hello
+nurse
+device
+silly
+stock |  
+| bip_39_word_space_0 | ['casino', 'develop', 'place', 'lunar', 'hello', 'nurse', 'device', 'silly', 'stock', 'swift', 'butter', 'alien'] |  
+| bip_39_word_space_1 | casino |  
+| bip_39_word_space_10 | casino develop place lunar hello nurse device silly stock swift |  
+| bip_39_word_space_11 | casino develop place lunar hello nurse device silly stock swift butter |  
+| bip_39_word_space_12 | casino develop place lunar hello nurse device silly stock swift butter alien |  
+| bip_39_word_space_2 | casino develop |  
+| bip_39_word_space_3 | casino develop place |  
+| bip_39_word_space_4 | casino develop place lunar |  
+| bip_39_word_space_5 | casino develop place lunar hello |  
+| bip_39_word_space_6 | casino develop place lunar hello nurse |  
+| bip_39_word_space_7 | casino develop place lunar hello nurse device |  
+| bip_39_word_space_8 | casino develop place lunar hello nurse device silly |  
+| bip_39_word_space_9 | casino develop place lunar hello nurse device silly stock |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

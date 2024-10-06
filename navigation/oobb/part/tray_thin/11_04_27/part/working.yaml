@@ -1,3 +1,187 @@
+bip_39_word_new_br1: skirt
+bip_39_word_new_br10: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect<br>include<br>differ<br>execute<br>grain
+bip_39_word_new_br11: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect<br>include<br>differ<br>execute<br>grain<br>fringe
+bip_39_word_new_br12: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect<br>include<br>differ<br>execute<br>grain<br>fringe<br>alcohol
+bip_39_word_new_br2: skirt<br>isolate
+bip_39_word_new_br3: skirt<br>isolate<br>vault
+bip_39_word_new_br4: skirt<br>isolate<br>vault<br>wine
+bip_39_word_new_br5: skirt<br>isolate<br>vault<br>wine<br>victory
+bip_39_word_new_br6: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect
+bip_39_word_new_br7: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect<br>include
+bip_39_word_new_br8: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect<br>include<br>differ
+bip_39_word_new_br9: skirt<br>isolate<br>vault<br>wine<br>victory<br>suspect<br>include<br>differ<br>execute
+bip_39_word_new_line1: skirt
+bip_39_word_new_line10: 'skirt
+
+  isolate
+
+  vault
+
+  wine
+
+  victory
+
+  suspect
+
+  include
+
+  differ
+
+  execute
+
+  grain'
+bip_39_word_new_line11: 'skirt
+
+  isolate
+
+  vault
+
+  wine
+
+  victory
+
+  suspect
+
+  include
+
+  differ
+
+  execute
+
+  grain
+
+  fringe'
+bip_39_word_new_line12: 'skirt
+
+  isolate
+
+  vault
+
+  wine
+
+  victory
+
+  suspect
+
+  include
+
+  differ
+
+  execute
+
+  grain
+
+  fringe
+
+  alcohol'
+bip_39_word_new_line2: 'skirt
+
+  isolate'
+bip_39_word_new_line3: 'skirt
+
+  isolate
+
+  vault'
+bip_39_word_new_line4: 'skirt
+
+  isolate
+
+  vault
+
+  wine'
+bip_39_word_new_line5: 'skirt
+
+  isolate
+
+  vault
+
+  wine
+
+  victory'
+bip_39_word_new_line6: 'skirt
+
+  isolate
+
+  vault
+
+  wine
+
+  victory
+
+  suspect'
+bip_39_word_new_line7: 'skirt
+
+  isolate
+
+  vault
+
+  wine
+
+  victory
+
+  suspect
+
+  include'
+bip_39_word_new_line8: 'skirt
+
+  isolate
+
+  vault
+
+  wine
+
+  victory
+
+  suspect
+
+  include
+
+  differ'
+bip_39_word_new_line9: 'skirt
+
+  isolate
+
+  vault
+
+  wine
+
+  victory
+
+  suspect
+
+  include
+
+  differ
+
+  execute'
+bip_39_word_space_0:
+- skirt
+- isolate
+- vault
+- wine
+- victory
+- suspect
+- include
+- differ
+- execute
+- grain
+- fringe
+- alcohol
+bip_39_word_space_1: skirt
+bip_39_word_space_10: skirt isolate vault wine victory suspect include differ execute
+  grain
+bip_39_word_space_11: skirt isolate vault wine victory suspect include differ execute
+  grain fringe
+bip_39_word_space_12: skirt isolate vault wine victory suspect include differ execute
+  grain fringe alcohol
+bip_39_word_space_2: skirt isolate
+bip_39_word_space_3: skirt isolate vault
+bip_39_word_space_4: skirt isolate vault wine
+bip_39_word_space_5: skirt isolate vault wine victory
+bip_39_word_space_6: skirt isolate vault wine victory suspect
+bip_39_word_space_7: skirt isolate vault wine victory suspect include
+bip_39_word_space_8: skirt isolate vault wine victory suspect include differ
+bip_39_word_space_9: skirt isolate vault wine victory suspect include differ execute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: maple
+bip_39_word_new_br10: maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire<br>cage<br>police<br>whip<br>jaguar
+bip_39_word_new_br11: maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire<br>cage<br>police<br>whip<br>jaguar<br>sweet
+bip_39_word_new_br12: maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire<br>cage<br>police<br>whip<br>jaguar<br>sweet<br>abstract
+bip_39_word_new_br2: maple<br>fresh
+bip_39_word_new_br3: maple<br>fresh<br>poverty
+bip_39_word_new_br4: maple<br>fresh<br>poverty<br>umbrella
+bip_39_word_new_br5: maple<br>fresh<br>poverty<br>umbrella<br>supply
+bip_39_word_new_br6: maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire
+bip_39_word_new_br7: maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire<br>cage
+bip_39_word_new_br8: maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire<br>cage<br>police
+bip_39_word_new_br9: maple<br>fresh<br>poverty<br>umbrella<br>supply<br>wire<br>cage<br>police<br>whip
+bip_39_word_new_line1: maple
+bip_39_word_new_line10: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella
+
+  supply
+
+  wire
+
+  cage
+
+  police
+
+  whip
+
+  jaguar'
+bip_39_word_new_line11: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella
+
+  supply
+
+  wire
+
+  cage
+
+  police
+
+  whip
+
+  jaguar
+
+  sweet'
+bip_39_word_new_line12: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella
+
+  supply
+
+  wire
+
+  cage
+
+  police
+
+  whip
+
+  jaguar
+
+  sweet
+
+  abstract'
+bip_39_word_new_line2: 'maple
+
+  fresh'
+bip_39_word_new_line3: 'maple
+
+  fresh
+
+  poverty'
+bip_39_word_new_line4: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella'
+bip_39_word_new_line5: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella
+
+  supply'
+bip_39_word_new_line6: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella
+
+  supply
+
+  wire'
+bip_39_word_new_line7: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella
+
+  supply
+
+  wire
+
+  cage'
+bip_39_word_new_line8: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella
+
+  supply
+
+  wire
+
+  cage
+
+  police'
+bip_39_word_new_line9: 'maple
+
+  fresh
+
+  poverty
+
+  umbrella
+
+  supply
+
+  wire
+
+  cage
+
+  police
+
+  whip'
+bip_39_word_space_0:
+- maple
+- fresh
+- poverty
+- umbrella
+- supply
+- wire
+- cage
+- police
+- whip
+- jaguar
+- sweet
+- abstract
+bip_39_word_space_1: maple
+bip_39_word_space_10: maple fresh poverty umbrella supply wire cage police whip jaguar
+bip_39_word_space_11: maple fresh poverty umbrella supply wire cage police whip jaguar
+  sweet
+bip_39_word_space_12: maple fresh poverty umbrella supply wire cage police whip jaguar
+  sweet abstract
+bip_39_word_space_2: maple fresh
+bip_39_word_space_3: maple fresh poverty
+bip_39_word_space_4: maple fresh poverty umbrella
+bip_39_word_space_5: maple fresh poverty umbrella supply
+bip_39_word_space_6: maple fresh poverty umbrella supply wire
+bip_39_word_space_7: maple fresh poverty umbrella supply wire cage
+bip_39_word_space_8: maple fresh poverty umbrella supply wire cage police
+bip_39_word_space_9: maple fresh poverty umbrella supply wire cage police whip
 classification: electrical
 classification_capital: Electrical
 classification_first_letter: e

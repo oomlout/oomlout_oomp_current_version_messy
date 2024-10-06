@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: own misery
+  * bip 39 word 3: own misery pretty
+  * bip 39 word: own misery pretty age weapon prevent false cram amount merit shrug avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | own |  
+| bip_39_word_new_br10 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit |  
+| bip_39_word_new_br11 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit<br>shrug |  
+| bip_39_word_new_br12 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount<br>merit<br>shrug<br>avocado |  
+| bip_39_word_new_br2 | own<br>misery |  
+| bip_39_word_new_br3 | own<br>misery<br>pretty |  
+| bip_39_word_new_br4 | own<br>misery<br>pretty<br>age |  
+| bip_39_word_new_br5 | own<br>misery<br>pretty<br>age<br>weapon |  
+| bip_39_word_new_br6 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent |  
+| bip_39_word_new_br7 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false |  
+| bip_39_word_new_br8 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram |  
+| bip_39_word_new_br9 | own<br>misery<br>pretty<br>age<br>weapon<br>prevent<br>false<br>cram<br>amount |  
+| bip_39_word_new_line1 | own |  
+| bip_39_word_new_line10 | own
+misery
+pretty
+age
+weapon
+prevent
+false
+cram
+amount
+merit |  
+| bip_39_word_new_line11 | own
+misery
+pretty
+age
+weapon
+prevent
+false
+cram
+amount
+merit
+shrug |  
+| bip_39_word_new_line12 | own
+misery
+pretty
+age
+weapon
+prevent
+false
+cram
+amount
+merit
+shrug
+avocado |  
+| bip_39_word_new_line2 | own
+misery |  
+| bip_39_word_new_line3 | own
+misery
+pretty |  
+| bip_39_word_new_line4 | own
+misery
+pretty
+age |  
+| bip_39_word_new_line5 | own
+misery
+pretty
+age
+weapon |  
+| bip_39_word_new_line6 | own
+misery
+pretty
+age
+weapon
+prevent |  
+| bip_39_word_new_line7 | own
+misery
+pretty
+age
+weapon
+prevent
+false |  
+| bip_39_word_new_line8 | own
+misery
+pretty
+age
+weapon
+prevent
+false
+cram |  
+| bip_39_word_new_line9 | own
+misery
+pretty
+age
+weapon
+prevent
+false
+cram
+amount |  
+| bip_39_word_space_0 | ['own', 'misery', 'pretty', 'age', 'weapon', 'prevent', 'false', 'cram', 'amount', 'merit', 'shrug', 'avocado'] |  
+| bip_39_word_space_1 | own |  
+| bip_39_word_space_10 | own misery pretty age weapon prevent false cram amount merit |  
+| bip_39_word_space_11 | own misery pretty age weapon prevent false cram amount merit shrug |  
+| bip_39_word_space_12 | own misery pretty age weapon prevent false cram amount merit shrug avocado |  
+| bip_39_word_space_2 | own misery |  
+| bip_39_word_space_3 | own misery pretty |  
+| bip_39_word_space_4 | own misery pretty age |  
+| bip_39_word_space_5 | own misery pretty age weapon |  
+| bip_39_word_space_6 | own misery pretty age weapon prevent |  
+| bip_39_word_space_7 | own misery pretty age weapon prevent false |  
+| bip_39_word_space_8 | own misery pretty age weapon prevent false cram |  
+| bip_39_word_space_9 | own misery pretty age weapon prevent false cram amount |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

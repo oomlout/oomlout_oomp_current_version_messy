@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: weapon moment
+  * bip 39 word 3: weapon moment strong
+  * bip 39 word: weapon moment strong bean label gun bronze blanket play unknown finish analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | weapon |  
+| bip_39_word_new_br10 | weapon<br>moment<br>strong<br>bean<br>label<br>gun<br>bronze<br>blanket<br>play<br>unknown |  
+| bip_39_word_new_br11 | weapon<br>moment<br>strong<br>bean<br>label<br>gun<br>bronze<br>blanket<br>play<br>unknown<br>finish |  
+| bip_39_word_new_br12 | weapon<br>moment<br>strong<br>bean<br>label<br>gun<br>bronze<br>blanket<br>play<br>unknown<br>finish<br>analyst |  
+| bip_39_word_new_br2 | weapon<br>moment |  
+| bip_39_word_new_br3 | weapon<br>moment<br>strong |  
+| bip_39_word_new_br4 | weapon<br>moment<br>strong<br>bean |  
+| bip_39_word_new_br5 | weapon<br>moment<br>strong<br>bean<br>label |  
+| bip_39_word_new_br6 | weapon<br>moment<br>strong<br>bean<br>label<br>gun |  
+| bip_39_word_new_br7 | weapon<br>moment<br>strong<br>bean<br>label<br>gun<br>bronze |  
+| bip_39_word_new_br8 | weapon<br>moment<br>strong<br>bean<br>label<br>gun<br>bronze<br>blanket |  
+| bip_39_word_new_br9 | weapon<br>moment<br>strong<br>bean<br>label<br>gun<br>bronze<br>blanket<br>play |  
+| bip_39_word_new_line1 | weapon |  
+| bip_39_word_new_line10 | weapon
+moment
+strong
+bean
+label
+gun
+bronze
+blanket
+play
+unknown |  
+| bip_39_word_new_line11 | weapon
+moment
+strong
+bean
+label
+gun
+bronze
+blanket
+play
+unknown
+finish |  
+| bip_39_word_new_line12 | weapon
+moment
+strong
+bean
+label
+gun
+bronze
+blanket
+play
+unknown
+finish
+analyst |  
+| bip_39_word_new_line2 | weapon
+moment |  
+| bip_39_word_new_line3 | weapon
+moment
+strong |  
+| bip_39_word_new_line4 | weapon
+moment
+strong
+bean |  
+| bip_39_word_new_line5 | weapon
+moment
+strong
+bean
+label |  
+| bip_39_word_new_line6 | weapon
+moment
+strong
+bean
+label
+gun |  
+| bip_39_word_new_line7 | weapon
+moment
+strong
+bean
+label
+gun
+bronze |  
+| bip_39_word_new_line8 | weapon
+moment
+strong
+bean
+label
+gun
+bronze
+blanket |  
+| bip_39_word_new_line9 | weapon
+moment
+strong
+bean
+label
+gun
+bronze
+blanket
+play |  
+| bip_39_word_space_0 | ['weapon', 'moment', 'strong', 'bean', 'label', 'gun', 'bronze', 'blanket', 'play', 'unknown', 'finish', 'analyst'] |  
+| bip_39_word_space_1 | weapon |  
+| bip_39_word_space_10 | weapon moment strong bean label gun bronze blanket play unknown |  
+| bip_39_word_space_11 | weapon moment strong bean label gun bronze blanket play unknown finish |  
+| bip_39_word_space_12 | weapon moment strong bean label gun bronze blanket play unknown finish analyst |  
+| bip_39_word_space_2 | weapon moment |  
+| bip_39_word_space_3 | weapon moment strong |  
+| bip_39_word_space_4 | weapon moment strong bean |  
+| bip_39_word_space_5 | weapon moment strong bean label |  
+| bip_39_word_space_6 | weapon moment strong bean label gun |  
+| bip_39_word_space_7 | weapon moment strong bean label gun bronze |  
+| bip_39_word_space_8 | weapon moment strong bean label gun bronze blanket |  
+| bip_39_word_space_9 | weapon moment strong bean label gun bronze blanket play |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

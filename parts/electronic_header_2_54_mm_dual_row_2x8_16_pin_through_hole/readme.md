@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broken venue
+  * bip 39 word 3: broken venue tomorrow
+  * bip 39 word: broken venue tomorrow put depend sun auto wisdom earth school guess answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broken |  
+| bip_39_word_new_br10 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun<br>auto<br>wisdom<br>earth<br>school |  
+| bip_39_word_new_br11 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun<br>auto<br>wisdom<br>earth<br>school<br>guess |  
+| bip_39_word_new_br12 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun<br>auto<br>wisdom<br>earth<br>school<br>guess<br>answer |  
+| bip_39_word_new_br2 | broken<br>venue |  
+| bip_39_word_new_br3 | broken<br>venue<br>tomorrow |  
+| bip_39_word_new_br4 | broken<br>venue<br>tomorrow<br>put |  
+| bip_39_word_new_br5 | broken<br>venue<br>tomorrow<br>put<br>depend |  
+| bip_39_word_new_br6 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun |  
+| bip_39_word_new_br7 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun<br>auto |  
+| bip_39_word_new_br8 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun<br>auto<br>wisdom |  
+| bip_39_word_new_br9 | broken<br>venue<br>tomorrow<br>put<br>depend<br>sun<br>auto<br>wisdom<br>earth |  
+| bip_39_word_new_line1 | broken |  
+| bip_39_word_new_line10 | broken
+venue
+tomorrow
+put
+depend
+sun
+auto
+wisdom
+earth
+school |  
+| bip_39_word_new_line11 | broken
+venue
+tomorrow
+put
+depend
+sun
+auto
+wisdom
+earth
+school
+guess |  
+| bip_39_word_new_line12 | broken
+venue
+tomorrow
+put
+depend
+sun
+auto
+wisdom
+earth
+school
+guess
+answer |  
+| bip_39_word_new_line2 | broken
+venue |  
+| bip_39_word_new_line3 | broken
+venue
+tomorrow |  
+| bip_39_word_new_line4 | broken
+venue
+tomorrow
+put |  
+| bip_39_word_new_line5 | broken
+venue
+tomorrow
+put
+depend |  
+| bip_39_word_new_line6 | broken
+venue
+tomorrow
+put
+depend
+sun |  
+| bip_39_word_new_line7 | broken
+venue
+tomorrow
+put
+depend
+sun
+auto |  
+| bip_39_word_new_line8 | broken
+venue
+tomorrow
+put
+depend
+sun
+auto
+wisdom |  
+| bip_39_word_new_line9 | broken
+venue
+tomorrow
+put
+depend
+sun
+auto
+wisdom
+earth |  
+| bip_39_word_space_0 | ['broken', 'venue', 'tomorrow', 'put', 'depend', 'sun', 'auto', 'wisdom', 'earth', 'school', 'guess', 'answer'] |  
+| bip_39_word_space_1 | broken |  
+| bip_39_word_space_10 | broken venue tomorrow put depend sun auto wisdom earth school |  
+| bip_39_word_space_11 | broken venue tomorrow put depend sun auto wisdom earth school guess |  
+| bip_39_word_space_12 | broken venue tomorrow put depend sun auto wisdom earth school guess answer |  
+| bip_39_word_space_2 | broken venue |  
+| bip_39_word_space_3 | broken venue tomorrow |  
+| bip_39_word_space_4 | broken venue tomorrow put |  
+| bip_39_word_space_5 | broken venue tomorrow put depend |  
+| bip_39_word_space_6 | broken venue tomorrow put depend sun |  
+| bip_39_word_space_7 | broken venue tomorrow put depend sun auto |  
+| bip_39_word_space_8 | broken venue tomorrow put depend sun auto wisdom |  
+| bip_39_word_space_9 | broken venue tomorrow put depend sun auto wisdom earth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

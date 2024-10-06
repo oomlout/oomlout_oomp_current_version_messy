@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: repeat add
+  * bip 39 word 3: repeat add charge
+  * bip 39 word: repeat add charge knee celery mistake test flag crawl lazy private announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | repeat |  
+| bip_39_word_new_br10 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy |  
+| bip_39_word_new_br11 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy<br>private |  
+| bip_39_word_new_br12 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl<br>lazy<br>private<br>announce |  
+| bip_39_word_new_br2 | repeat<br>add |  
+| bip_39_word_new_br3 | repeat<br>add<br>charge |  
+| bip_39_word_new_br4 | repeat<br>add<br>charge<br>knee |  
+| bip_39_word_new_br5 | repeat<br>add<br>charge<br>knee<br>celery |  
+| bip_39_word_new_br6 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake |  
+| bip_39_word_new_br7 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test |  
+| bip_39_word_new_br8 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag |  
+| bip_39_word_new_br9 | repeat<br>add<br>charge<br>knee<br>celery<br>mistake<br>test<br>flag<br>crawl |  
+| bip_39_word_new_line1 | repeat |  
+| bip_39_word_new_line10 | repeat
+add
+charge
+knee
+celery
+mistake
+test
+flag
+crawl
+lazy |  
+| bip_39_word_new_line11 | repeat
+add
+charge
+knee
+celery
+mistake
+test
+flag
+crawl
+lazy
+private |  
+| bip_39_word_new_line12 | repeat
+add
+charge
+knee
+celery
+mistake
+test
+flag
+crawl
+lazy
+private
+announce |  
+| bip_39_word_new_line2 | repeat
+add |  
+| bip_39_word_new_line3 | repeat
+add
+charge |  
+| bip_39_word_new_line4 | repeat
+add
+charge
+knee |  
+| bip_39_word_new_line5 | repeat
+add
+charge
+knee
+celery |  
+| bip_39_word_new_line6 | repeat
+add
+charge
+knee
+celery
+mistake |  
+| bip_39_word_new_line7 | repeat
+add
+charge
+knee
+celery
+mistake
+test |  
+| bip_39_word_new_line8 | repeat
+add
+charge
+knee
+celery
+mistake
+test
+flag |  
+| bip_39_word_new_line9 | repeat
+add
+charge
+knee
+celery
+mistake
+test
+flag
+crawl |  
+| bip_39_word_space_0 | ['repeat', 'add', 'charge', 'knee', 'celery', 'mistake', 'test', 'flag', 'crawl', 'lazy', 'private', 'announce'] |  
+| bip_39_word_space_1 | repeat |  
+| bip_39_word_space_10 | repeat add charge knee celery mistake test flag crawl lazy |  
+| bip_39_word_space_11 | repeat add charge knee celery mistake test flag crawl lazy private |  
+| bip_39_word_space_12 | repeat add charge knee celery mistake test flag crawl lazy private announce |  
+| bip_39_word_space_2 | repeat add |  
+| bip_39_word_space_3 | repeat add charge |  
+| bip_39_word_space_4 | repeat add charge knee |  
+| bip_39_word_space_5 | repeat add charge knee celery |  
+| bip_39_word_space_6 | repeat add charge knee celery mistake |  
+| bip_39_word_space_7 | repeat add charge knee celery mistake test |  
+| bip_39_word_space_8 | repeat add charge knee celery mistake test flag |  
+| bip_39_word_space_9 | repeat add charge knee celery mistake test flag crawl |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

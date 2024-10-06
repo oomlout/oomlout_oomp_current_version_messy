@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amount drift
+  * bip 39 word 3: amount drift season
+  * bip 39 word: amount drift season tank wool front evolve family nerve aunt deal account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amount |  
+| bip_39_word_new_br10 | amount<br>drift<br>season<br>tank<br>wool<br>front<br>evolve<br>family<br>nerve<br>aunt |  
+| bip_39_word_new_br11 | amount<br>drift<br>season<br>tank<br>wool<br>front<br>evolve<br>family<br>nerve<br>aunt<br>deal |  
+| bip_39_word_new_br12 | amount<br>drift<br>season<br>tank<br>wool<br>front<br>evolve<br>family<br>nerve<br>aunt<br>deal<br>account |  
+| bip_39_word_new_br2 | amount<br>drift |  
+| bip_39_word_new_br3 | amount<br>drift<br>season |  
+| bip_39_word_new_br4 | amount<br>drift<br>season<br>tank |  
+| bip_39_word_new_br5 | amount<br>drift<br>season<br>tank<br>wool |  
+| bip_39_word_new_br6 | amount<br>drift<br>season<br>tank<br>wool<br>front |  
+| bip_39_word_new_br7 | amount<br>drift<br>season<br>tank<br>wool<br>front<br>evolve |  
+| bip_39_word_new_br8 | amount<br>drift<br>season<br>tank<br>wool<br>front<br>evolve<br>family |  
+| bip_39_word_new_br9 | amount<br>drift<br>season<br>tank<br>wool<br>front<br>evolve<br>family<br>nerve |  
+| bip_39_word_new_line1 | amount |  
+| bip_39_word_new_line10 | amount
+drift
+season
+tank
+wool
+front
+evolve
+family
+nerve
+aunt |  
+| bip_39_word_new_line11 | amount
+drift
+season
+tank
+wool
+front
+evolve
+family
+nerve
+aunt
+deal |  
+| bip_39_word_new_line12 | amount
+drift
+season
+tank
+wool
+front
+evolve
+family
+nerve
+aunt
+deal
+account |  
+| bip_39_word_new_line2 | amount
+drift |  
+| bip_39_word_new_line3 | amount
+drift
+season |  
+| bip_39_word_new_line4 | amount
+drift
+season
+tank |  
+| bip_39_word_new_line5 | amount
+drift
+season
+tank
+wool |  
+| bip_39_word_new_line6 | amount
+drift
+season
+tank
+wool
+front |  
+| bip_39_word_new_line7 | amount
+drift
+season
+tank
+wool
+front
+evolve |  
+| bip_39_word_new_line8 | amount
+drift
+season
+tank
+wool
+front
+evolve
+family |  
+| bip_39_word_new_line9 | amount
+drift
+season
+tank
+wool
+front
+evolve
+family
+nerve |  
+| bip_39_word_space_0 | ['amount', 'drift', 'season', 'tank', 'wool', 'front', 'evolve', 'family', 'nerve', 'aunt', 'deal', 'account'] |  
+| bip_39_word_space_1 | amount |  
+| bip_39_word_space_10 | amount drift season tank wool front evolve family nerve aunt |  
+| bip_39_word_space_11 | amount drift season tank wool front evolve family nerve aunt deal |  
+| bip_39_word_space_12 | amount drift season tank wool front evolve family nerve aunt deal account |  
+| bip_39_word_space_2 | amount drift |  
+| bip_39_word_space_3 | amount drift season |  
+| bip_39_word_space_4 | amount drift season tank |  
+| bip_39_word_space_5 | amount drift season tank wool |  
+| bip_39_word_space_6 | amount drift season tank wool front |  
+| bip_39_word_space_7 | amount drift season tank wool front evolve |  
+| bip_39_word_space_8 | amount drift season tank wool front evolve family |  
+| bip_39_word_space_9 | amount drift season tank wool front evolve family nerve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

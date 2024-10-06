@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: washer
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: angry obvious
+  * bip 39 word 3: angry obvious learn
+  * bip 39 word: angry obvious learn width wheat chuckle trouble true tank load ridge ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | angry |  
+| bip_39_word_new_br10 | angry<br>obvious<br>learn<br>width<br>wheat<br>chuckle<br>trouble<br>true<br>tank<br>load |  
+| bip_39_word_new_br11 | angry<br>obvious<br>learn<br>width<br>wheat<br>chuckle<br>trouble<br>true<br>tank<br>load<br>ridge |  
+| bip_39_word_new_br12 | angry<br>obvious<br>learn<br>width<br>wheat<br>chuckle<br>trouble<br>true<br>tank<br>load<br>ridge<br>ask |  
+| bip_39_word_new_br2 | angry<br>obvious |  
+| bip_39_word_new_br3 | angry<br>obvious<br>learn |  
+| bip_39_word_new_br4 | angry<br>obvious<br>learn<br>width |  
+| bip_39_word_new_br5 | angry<br>obvious<br>learn<br>width<br>wheat |  
+| bip_39_word_new_br6 | angry<br>obvious<br>learn<br>width<br>wheat<br>chuckle |  
+| bip_39_word_new_br7 | angry<br>obvious<br>learn<br>width<br>wheat<br>chuckle<br>trouble |  
+| bip_39_word_new_br8 | angry<br>obvious<br>learn<br>width<br>wheat<br>chuckle<br>trouble<br>true |  
+| bip_39_word_new_br9 | angry<br>obvious<br>learn<br>width<br>wheat<br>chuckle<br>trouble<br>true<br>tank |  
+| bip_39_word_new_line1 | angry |  
+| bip_39_word_new_line10 | angry
+obvious
+learn
+width
+wheat
+chuckle
+trouble
+true
+tank
+load |  
+| bip_39_word_new_line11 | angry
+obvious
+learn
+width
+wheat
+chuckle
+trouble
+true
+tank
+load
+ridge |  
+| bip_39_word_new_line12 | angry
+obvious
+learn
+width
+wheat
+chuckle
+trouble
+true
+tank
+load
+ridge
+ask |  
+| bip_39_word_new_line2 | angry
+obvious |  
+| bip_39_word_new_line3 | angry
+obvious
+learn |  
+| bip_39_word_new_line4 | angry
+obvious
+learn
+width |  
+| bip_39_word_new_line5 | angry
+obvious
+learn
+width
+wheat |  
+| bip_39_word_new_line6 | angry
+obvious
+learn
+width
+wheat
+chuckle |  
+| bip_39_word_new_line7 | angry
+obvious
+learn
+width
+wheat
+chuckle
+trouble |  
+| bip_39_word_new_line8 | angry
+obvious
+learn
+width
+wheat
+chuckle
+trouble
+true |  
+| bip_39_word_new_line9 | angry
+obvious
+learn
+width
+wheat
+chuckle
+trouble
+true
+tank |  
+| bip_39_word_space_0 | ['angry', 'obvious', 'learn', 'width', 'wheat', 'chuckle', 'trouble', 'true', 'tank', 'load', 'ridge', 'ask'] |  
+| bip_39_word_space_1 | angry |  
+| bip_39_word_space_10 | angry obvious learn width wheat chuckle trouble true tank load |  
+| bip_39_word_space_11 | angry obvious learn width wheat chuckle trouble true tank load ridge |  
+| bip_39_word_space_12 | angry obvious learn width wheat chuckle trouble true tank load ridge ask |  
+| bip_39_word_space_2 | angry obvious |  
+| bip_39_word_space_3 | angry obvious learn |  
+| bip_39_word_space_4 | angry obvious learn width |  
+| bip_39_word_space_5 | angry obvious learn width wheat |  
+| bip_39_word_space_6 | angry obvious learn width wheat chuckle |  
+| bip_39_word_space_7 | angry obvious learn width wheat chuckle trouble |  
+| bip_39_word_space_8 | angry obvious learn width wheat chuckle trouble true |  
+| bip_39_word_space_9 | angry obvious learn width wheat chuckle trouble true tank |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

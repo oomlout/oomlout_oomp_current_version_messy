@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: renew clump
+  * bip 39 word 3: renew clump turtle
+  * bip 39 word: renew clump turtle crowd fortune chuckle arrow what deliver mystery bean average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | renew |  
+| bip_39_word_new_br10 | renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle<br>arrow<br>what<br>deliver<br>mystery |  
+| bip_39_word_new_br11 | renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle<br>arrow<br>what<br>deliver<br>mystery<br>bean |  
+| bip_39_word_new_br12 | renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle<br>arrow<br>what<br>deliver<br>mystery<br>bean<br>average |  
+| bip_39_word_new_br2 | renew<br>clump |  
+| bip_39_word_new_br3 | renew<br>clump<br>turtle |  
+| bip_39_word_new_br4 | renew<br>clump<br>turtle<br>crowd |  
+| bip_39_word_new_br5 | renew<br>clump<br>turtle<br>crowd<br>fortune |  
+| bip_39_word_new_br6 | renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle |  
+| bip_39_word_new_br7 | renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle<br>arrow |  
+| bip_39_word_new_br8 | renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle<br>arrow<br>what |  
+| bip_39_word_new_br9 | renew<br>clump<br>turtle<br>crowd<br>fortune<br>chuckle<br>arrow<br>what<br>deliver |  
+| bip_39_word_new_line1 | renew |  
+| bip_39_word_new_line10 | renew
+clump
+turtle
+crowd
+fortune
+chuckle
+arrow
+what
+deliver
+mystery |  
+| bip_39_word_new_line11 | renew
+clump
+turtle
+crowd
+fortune
+chuckle
+arrow
+what
+deliver
+mystery
+bean |  
+| bip_39_word_new_line12 | renew
+clump
+turtle
+crowd
+fortune
+chuckle
+arrow
+what
+deliver
+mystery
+bean
+average |  
+| bip_39_word_new_line2 | renew
+clump |  
+| bip_39_word_new_line3 | renew
+clump
+turtle |  
+| bip_39_word_new_line4 | renew
+clump
+turtle
+crowd |  
+| bip_39_word_new_line5 | renew
+clump
+turtle
+crowd
+fortune |  
+| bip_39_word_new_line6 | renew
+clump
+turtle
+crowd
+fortune
+chuckle |  
+| bip_39_word_new_line7 | renew
+clump
+turtle
+crowd
+fortune
+chuckle
+arrow |  
+| bip_39_word_new_line8 | renew
+clump
+turtle
+crowd
+fortune
+chuckle
+arrow
+what |  
+| bip_39_word_new_line9 | renew
+clump
+turtle
+crowd
+fortune
+chuckle
+arrow
+what
+deliver |  
+| bip_39_word_space_0 | ['renew', 'clump', 'turtle', 'crowd', 'fortune', 'chuckle', 'arrow', 'what', 'deliver', 'mystery', 'bean', 'average'] |  
+| bip_39_word_space_1 | renew |  
+| bip_39_word_space_10 | renew clump turtle crowd fortune chuckle arrow what deliver mystery |  
+| bip_39_word_space_11 | renew clump turtle crowd fortune chuckle arrow what deliver mystery bean |  
+| bip_39_word_space_12 | renew clump turtle crowd fortune chuckle arrow what deliver mystery bean average |  
+| bip_39_word_space_2 | renew clump |  
+| bip_39_word_space_3 | renew clump turtle |  
+| bip_39_word_space_4 | renew clump turtle crowd |  
+| bip_39_word_space_5 | renew clump turtle crowd fortune |  
+| bip_39_word_space_6 | renew clump turtle crowd fortune chuckle |  
+| bip_39_word_space_7 | renew clump turtle crowd fortune chuckle arrow |  
+| bip_39_word_space_8 | renew clump turtle crowd fortune chuckle arrow what |  
+| bip_39_word_space_9 | renew clump turtle crowd fortune chuckle arrow what deliver |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

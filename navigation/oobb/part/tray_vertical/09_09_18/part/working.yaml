@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enable
+bip_39_word_new_br10: enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap
+bip_39_word_new_br11: enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap<br>today
+bip_39_word_new_br12: enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine<br>swap<br>today<br>ahead
+bip_39_word_new_br2: enable<br>impulse
+bip_39_word_new_br3: enable<br>impulse<br>lounge
+bip_39_word_new_br4: enable<br>impulse<br>lounge<br>vote
+bip_39_word_new_br5: enable<br>impulse<br>lounge<br>vote<br>motor
+bip_39_word_new_br6: enable<br>impulse<br>lounge<br>vote<br>motor<br>start
+bip_39_word_new_br7: enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor
+bip_39_word_new_br8: enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave
+bip_39_word_new_br9: enable<br>impulse<br>lounge<br>vote<br>motor<br>start<br>anchor<br>leave<br>shine
+bip_39_word_new_line1: enable
+bip_39_word_new_line10: 'enable
+
+  impulse
+
+  lounge
+
+  vote
+
+  motor
+
+  start
+
+  anchor
+
+  leave
+
+  shine
+
+  swap'
+bip_39_word_new_line11: 'enable
+
+  impulse
+
+  lounge
+
+  vote
+
+  motor
+
+  start
+
+  anchor
+
+  leave
+
+  shine
+
+  swap
+
+  today'
+bip_39_word_new_line12: 'enable
+
+  impulse
+
+  lounge
+
+  vote
+
+  motor
+
+  start
+
+  anchor
+
+  leave
+
+  shine
+
+  swap
+
+  today
+
+  ahead'
+bip_39_word_new_line2: 'enable
+
+  impulse'
+bip_39_word_new_line3: 'enable
+
+  impulse
+
+  lounge'
+bip_39_word_new_line4: 'enable
+
+  impulse
+
+  lounge
+
+  vote'
+bip_39_word_new_line5: 'enable
+
+  impulse
+
+  lounge
+
+  vote
+
+  motor'
+bip_39_word_new_line6: 'enable
+
+  impulse
+
+  lounge
+
+  vote
+
+  motor
+
+  start'
+bip_39_word_new_line7: 'enable
+
+  impulse
+
+  lounge
+
+  vote
+
+  motor
+
+  start
+
+  anchor'
+bip_39_word_new_line8: 'enable
+
+  impulse
+
+  lounge
+
+  vote
+
+  motor
+
+  start
+
+  anchor
+
+  leave'
+bip_39_word_new_line9: 'enable
+
+  impulse
+
+  lounge
+
+  vote
+
+  motor
+
+  start
+
+  anchor
+
+  leave
+
+  shine'
+bip_39_word_space_0:
+- enable
+- impulse
+- lounge
+- vote
+- motor
+- start
+- anchor
+- leave
+- shine
+- swap
+- today
+- ahead
+bip_39_word_space_1: enable
+bip_39_word_space_10: enable impulse lounge vote motor start anchor leave shine swap
+bip_39_word_space_11: enable impulse lounge vote motor start anchor leave shine swap
+  today
+bip_39_word_space_12: enable impulse lounge vote motor start anchor leave shine swap
+  today ahead
+bip_39_word_space_2: enable impulse
+bip_39_word_space_3: enable impulse lounge
+bip_39_word_space_4: enable impulse lounge vote
+bip_39_word_space_5: enable impulse lounge vote motor
+bip_39_word_space_6: enable impulse lounge vote motor start
+bip_39_word_space_7: enable impulse lounge vote motor start anchor
+bip_39_word_space_8: enable impulse lounge vote motor start anchor leave
+bip_39_word_space_9: enable impulse lounge vote motor start anchor leave shine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

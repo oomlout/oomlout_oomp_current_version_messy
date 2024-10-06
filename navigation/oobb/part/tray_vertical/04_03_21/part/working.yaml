@@ -1,3 +1,187 @@
+bip_39_word_new_br1: popular
+bip_39_word_new_br10: popular<br>reunion<br>february<br>ginger<br>notice<br>cheap<br>viable<br>earth<br>place<br>infant
+bip_39_word_new_br11: popular<br>reunion<br>february<br>ginger<br>notice<br>cheap<br>viable<br>earth<br>place<br>infant<br>defense
+bip_39_word_new_br12: popular<br>reunion<br>february<br>ginger<br>notice<br>cheap<br>viable<br>earth<br>place<br>infant<br>defense<br>amateur
+bip_39_word_new_br2: popular<br>reunion
+bip_39_word_new_br3: popular<br>reunion<br>february
+bip_39_word_new_br4: popular<br>reunion<br>february<br>ginger
+bip_39_word_new_br5: popular<br>reunion<br>february<br>ginger<br>notice
+bip_39_word_new_br6: popular<br>reunion<br>february<br>ginger<br>notice<br>cheap
+bip_39_word_new_br7: popular<br>reunion<br>february<br>ginger<br>notice<br>cheap<br>viable
+bip_39_word_new_br8: popular<br>reunion<br>february<br>ginger<br>notice<br>cheap<br>viable<br>earth
+bip_39_word_new_br9: popular<br>reunion<br>february<br>ginger<br>notice<br>cheap<br>viable<br>earth<br>place
+bip_39_word_new_line1: popular
+bip_39_word_new_line10: 'popular
+
+  reunion
+
+  february
+
+  ginger
+
+  notice
+
+  cheap
+
+  viable
+
+  earth
+
+  place
+
+  infant'
+bip_39_word_new_line11: 'popular
+
+  reunion
+
+  february
+
+  ginger
+
+  notice
+
+  cheap
+
+  viable
+
+  earth
+
+  place
+
+  infant
+
+  defense'
+bip_39_word_new_line12: 'popular
+
+  reunion
+
+  february
+
+  ginger
+
+  notice
+
+  cheap
+
+  viable
+
+  earth
+
+  place
+
+  infant
+
+  defense
+
+  amateur'
+bip_39_word_new_line2: 'popular
+
+  reunion'
+bip_39_word_new_line3: 'popular
+
+  reunion
+
+  february'
+bip_39_word_new_line4: 'popular
+
+  reunion
+
+  february
+
+  ginger'
+bip_39_word_new_line5: 'popular
+
+  reunion
+
+  february
+
+  ginger
+
+  notice'
+bip_39_word_new_line6: 'popular
+
+  reunion
+
+  february
+
+  ginger
+
+  notice
+
+  cheap'
+bip_39_word_new_line7: 'popular
+
+  reunion
+
+  february
+
+  ginger
+
+  notice
+
+  cheap
+
+  viable'
+bip_39_word_new_line8: 'popular
+
+  reunion
+
+  february
+
+  ginger
+
+  notice
+
+  cheap
+
+  viable
+
+  earth'
+bip_39_word_new_line9: 'popular
+
+  reunion
+
+  february
+
+  ginger
+
+  notice
+
+  cheap
+
+  viable
+
+  earth
+
+  place'
+bip_39_word_space_0:
+- popular
+- reunion
+- february
+- ginger
+- notice
+- cheap
+- viable
+- earth
+- place
+- infant
+- defense
+- amateur
+bip_39_word_space_1: popular
+bip_39_word_space_10: popular reunion february ginger notice cheap viable earth place
+  infant
+bip_39_word_space_11: popular reunion february ginger notice cheap viable earth place
+  infant defense
+bip_39_word_space_12: popular reunion february ginger notice cheap viable earth place
+  infant defense amateur
+bip_39_word_space_2: popular reunion
+bip_39_word_space_3: popular reunion february
+bip_39_word_space_4: popular reunion february ginger
+bip_39_word_space_5: popular reunion february ginger notice
+bip_39_word_space_6: popular reunion february ginger notice cheap
+bip_39_word_space_7: popular reunion february ginger notice cheap viable
+bip_39_word_space_8: popular reunion february ginger notice cheap viable earth
+bip_39_word_space_9: popular reunion february ginger notice cheap viable earth place
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gorilla minimum
+  * bip 39 word 3: gorilla minimum swarm
+  * bip 39 word: gorilla minimum swarm mammal kidney arrest scene industry tunnel motion another affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gorilla |  
+| bip_39_word_new_br10 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest<br>scene<br>industry<br>tunnel<br>motion |  
+| bip_39_word_new_br11 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest<br>scene<br>industry<br>tunnel<br>motion<br>another |  
+| bip_39_word_new_br12 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest<br>scene<br>industry<br>tunnel<br>motion<br>another<br>affair |  
+| bip_39_word_new_br2 | gorilla<br>minimum |  
+| bip_39_word_new_br3 | gorilla<br>minimum<br>swarm |  
+| bip_39_word_new_br4 | gorilla<br>minimum<br>swarm<br>mammal |  
+| bip_39_word_new_br5 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney |  
+| bip_39_word_new_br6 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest |  
+| bip_39_word_new_br7 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest<br>scene |  
+| bip_39_word_new_br8 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest<br>scene<br>industry |  
+| bip_39_word_new_br9 | gorilla<br>minimum<br>swarm<br>mammal<br>kidney<br>arrest<br>scene<br>industry<br>tunnel |  
+| bip_39_word_new_line1 | gorilla |  
+| bip_39_word_new_line10 | gorilla
+minimum
+swarm
+mammal
+kidney
+arrest
+scene
+industry
+tunnel
+motion |  
+| bip_39_word_new_line11 | gorilla
+minimum
+swarm
+mammal
+kidney
+arrest
+scene
+industry
+tunnel
+motion
+another |  
+| bip_39_word_new_line12 | gorilla
+minimum
+swarm
+mammal
+kidney
+arrest
+scene
+industry
+tunnel
+motion
+another
+affair |  
+| bip_39_word_new_line2 | gorilla
+minimum |  
+| bip_39_word_new_line3 | gorilla
+minimum
+swarm |  
+| bip_39_word_new_line4 | gorilla
+minimum
+swarm
+mammal |  
+| bip_39_word_new_line5 | gorilla
+minimum
+swarm
+mammal
+kidney |  
+| bip_39_word_new_line6 | gorilla
+minimum
+swarm
+mammal
+kidney
+arrest |  
+| bip_39_word_new_line7 | gorilla
+minimum
+swarm
+mammal
+kidney
+arrest
+scene |  
+| bip_39_word_new_line8 | gorilla
+minimum
+swarm
+mammal
+kidney
+arrest
+scene
+industry |  
+| bip_39_word_new_line9 | gorilla
+minimum
+swarm
+mammal
+kidney
+arrest
+scene
+industry
+tunnel |  
+| bip_39_word_space_0 | ['gorilla', 'minimum', 'swarm', 'mammal', 'kidney', 'arrest', 'scene', 'industry', 'tunnel', 'motion', 'another', 'affair'] |  
+| bip_39_word_space_1 | gorilla |  
+| bip_39_word_space_10 | gorilla minimum swarm mammal kidney arrest scene industry tunnel motion |  
+| bip_39_word_space_11 | gorilla minimum swarm mammal kidney arrest scene industry tunnel motion another |  
+| bip_39_word_space_12 | gorilla minimum swarm mammal kidney arrest scene industry tunnel motion another affair |  
+| bip_39_word_space_2 | gorilla minimum |  
+| bip_39_word_space_3 | gorilla minimum swarm |  
+| bip_39_word_space_4 | gorilla minimum swarm mammal |  
+| bip_39_word_space_5 | gorilla minimum swarm mammal kidney |  
+| bip_39_word_space_6 | gorilla minimum swarm mammal kidney arrest |  
+| bip_39_word_space_7 | gorilla minimum swarm mammal kidney arrest scene |  
+| bip_39_word_space_8 | gorilla minimum swarm mammal kidney arrest scene industry |  
+| bip_39_word_space_9 | gorilla minimum swarm mammal kidney arrest scene industry tunnel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

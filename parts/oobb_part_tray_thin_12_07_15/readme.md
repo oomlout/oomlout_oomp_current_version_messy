@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prepare spatial
+  * bip 39 word 3: prepare spatial mass
+  * bip 39 word: prepare spatial mass smart virus head fun adjust match tooth west access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prepare |  
+| bip_39_word_new_br10 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head<br>fun<br>adjust<br>match<br>tooth |  
+| bip_39_word_new_br11 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head<br>fun<br>adjust<br>match<br>tooth<br>west |  
+| bip_39_word_new_br12 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head<br>fun<br>adjust<br>match<br>tooth<br>west<br>access |  
+| bip_39_word_new_br2 | prepare<br>spatial |  
+| bip_39_word_new_br3 | prepare<br>spatial<br>mass |  
+| bip_39_word_new_br4 | prepare<br>spatial<br>mass<br>smart |  
+| bip_39_word_new_br5 | prepare<br>spatial<br>mass<br>smart<br>virus |  
+| bip_39_word_new_br6 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head |  
+| bip_39_word_new_br7 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head<br>fun |  
+| bip_39_word_new_br8 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head<br>fun<br>adjust |  
+| bip_39_word_new_br9 | prepare<br>spatial<br>mass<br>smart<br>virus<br>head<br>fun<br>adjust<br>match |  
+| bip_39_word_new_line1 | prepare |  
+| bip_39_word_new_line10 | prepare
+spatial
+mass
+smart
+virus
+head
+fun
+adjust
+match
+tooth |  
+| bip_39_word_new_line11 | prepare
+spatial
+mass
+smart
+virus
+head
+fun
+adjust
+match
+tooth
+west |  
+| bip_39_word_new_line12 | prepare
+spatial
+mass
+smart
+virus
+head
+fun
+adjust
+match
+tooth
+west
+access |  
+| bip_39_word_new_line2 | prepare
+spatial |  
+| bip_39_word_new_line3 | prepare
+spatial
+mass |  
+| bip_39_word_new_line4 | prepare
+spatial
+mass
+smart |  
+| bip_39_word_new_line5 | prepare
+spatial
+mass
+smart
+virus |  
+| bip_39_word_new_line6 | prepare
+spatial
+mass
+smart
+virus
+head |  
+| bip_39_word_new_line7 | prepare
+spatial
+mass
+smart
+virus
+head
+fun |  
+| bip_39_word_new_line8 | prepare
+spatial
+mass
+smart
+virus
+head
+fun
+adjust |  
+| bip_39_word_new_line9 | prepare
+spatial
+mass
+smart
+virus
+head
+fun
+adjust
+match |  
+| bip_39_word_space_0 | ['prepare', 'spatial', 'mass', 'smart', 'virus', 'head', 'fun', 'adjust', 'match', 'tooth', 'west', 'access'] |  
+| bip_39_word_space_1 | prepare |  
+| bip_39_word_space_10 | prepare spatial mass smart virus head fun adjust match tooth |  
+| bip_39_word_space_11 | prepare spatial mass smart virus head fun adjust match tooth west |  
+| bip_39_word_space_12 | prepare spatial mass smart virus head fun adjust match tooth west access |  
+| bip_39_word_space_2 | prepare spatial |  
+| bip_39_word_space_3 | prepare spatial mass |  
+| bip_39_word_space_4 | prepare spatial mass smart |  
+| bip_39_word_space_5 | prepare spatial mass smart virus |  
+| bip_39_word_space_6 | prepare spatial mass smart virus head |  
+| bip_39_word_space_7 | prepare spatial mass smart virus head fun |  
+| bip_39_word_space_8 | prepare spatial mass smart virus head fun adjust |  
+| bip_39_word_space_9 | prepare spatial mass smart virus head fun adjust match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

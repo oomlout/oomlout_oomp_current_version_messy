@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wet process
+  * bip 39 word 3: wet process fold
+  * bip 39 word: wet process fold slam survey wall rescue police version garment unable accuse
 
 ### other_codes
 * short_code: br5303
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wet |  
+| bip_39_word_new_br10 | wet<br>process<br>fold<br>slam<br>survey<br>wall<br>rescue<br>police<br>version<br>garment |  
+| bip_39_word_new_br11 | wet<br>process<br>fold<br>slam<br>survey<br>wall<br>rescue<br>police<br>version<br>garment<br>unable |  
+| bip_39_word_new_br12 | wet<br>process<br>fold<br>slam<br>survey<br>wall<br>rescue<br>police<br>version<br>garment<br>unable<br>accuse |  
+| bip_39_word_new_br2 | wet<br>process |  
+| bip_39_word_new_br3 | wet<br>process<br>fold |  
+| bip_39_word_new_br4 | wet<br>process<br>fold<br>slam |  
+| bip_39_word_new_br5 | wet<br>process<br>fold<br>slam<br>survey |  
+| bip_39_word_new_br6 | wet<br>process<br>fold<br>slam<br>survey<br>wall |  
+| bip_39_word_new_br7 | wet<br>process<br>fold<br>slam<br>survey<br>wall<br>rescue |  
+| bip_39_word_new_br8 | wet<br>process<br>fold<br>slam<br>survey<br>wall<br>rescue<br>police |  
+| bip_39_word_new_br9 | wet<br>process<br>fold<br>slam<br>survey<br>wall<br>rescue<br>police<br>version |  
+| bip_39_word_new_line1 | wet |  
+| bip_39_word_new_line10 | wet
+process
+fold
+slam
+survey
+wall
+rescue
+police
+version
+garment |  
+| bip_39_word_new_line11 | wet
+process
+fold
+slam
+survey
+wall
+rescue
+police
+version
+garment
+unable |  
+| bip_39_word_new_line12 | wet
+process
+fold
+slam
+survey
+wall
+rescue
+police
+version
+garment
+unable
+accuse |  
+| bip_39_word_new_line2 | wet
+process |  
+| bip_39_word_new_line3 | wet
+process
+fold |  
+| bip_39_word_new_line4 | wet
+process
+fold
+slam |  
+| bip_39_word_new_line5 | wet
+process
+fold
+slam
+survey |  
+| bip_39_word_new_line6 | wet
+process
+fold
+slam
+survey
+wall |  
+| bip_39_word_new_line7 | wet
+process
+fold
+slam
+survey
+wall
+rescue |  
+| bip_39_word_new_line8 | wet
+process
+fold
+slam
+survey
+wall
+rescue
+police |  
+| bip_39_word_new_line9 | wet
+process
+fold
+slam
+survey
+wall
+rescue
+police
+version |  
+| bip_39_word_space_0 | ['wet', 'process', 'fold', 'slam', 'survey', 'wall', 'rescue', 'police', 'version', 'garment', 'unable', 'accuse'] |  
+| bip_39_word_space_1 | wet |  
+| bip_39_word_space_10 | wet process fold slam survey wall rescue police version garment |  
+| bip_39_word_space_11 | wet process fold slam survey wall rescue police version garment unable |  
+| bip_39_word_space_12 | wet process fold slam survey wall rescue police version garment unable accuse |  
+| bip_39_word_space_2 | wet process |  
+| bip_39_word_space_3 | wet process fold |  
+| bip_39_word_space_4 | wet process fold slam |  
+| bip_39_word_space_5 | wet process fold slam survey |  
+| bip_39_word_space_6 | wet process fold slam survey wall |  
+| bip_39_word_space_7 | wet process fold slam survey wall rescue |  
+| bip_39_word_space_8 | wet process fold slam survey wall rescue police |  
+| bip_39_word_space_9 | wet process fold slam survey wall rescue police version |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

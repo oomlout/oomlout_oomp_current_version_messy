@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spray
+bip_39_word_new_br10: spray<br>joy<br>pony<br>license<br>remember<br>outer<br>solid<br>maid<br>sponsor<br>expect
+bip_39_word_new_br11: spray<br>joy<br>pony<br>license<br>remember<br>outer<br>solid<br>maid<br>sponsor<br>expect<br>cabbage
+bip_39_word_new_br12: spray<br>joy<br>pony<br>license<br>remember<br>outer<br>solid<br>maid<br>sponsor<br>expect<br>cabbage<br>around
+bip_39_word_new_br2: spray<br>joy
+bip_39_word_new_br3: spray<br>joy<br>pony
+bip_39_word_new_br4: spray<br>joy<br>pony<br>license
+bip_39_word_new_br5: spray<br>joy<br>pony<br>license<br>remember
+bip_39_word_new_br6: spray<br>joy<br>pony<br>license<br>remember<br>outer
+bip_39_word_new_br7: spray<br>joy<br>pony<br>license<br>remember<br>outer<br>solid
+bip_39_word_new_br8: spray<br>joy<br>pony<br>license<br>remember<br>outer<br>solid<br>maid
+bip_39_word_new_br9: spray<br>joy<br>pony<br>license<br>remember<br>outer<br>solid<br>maid<br>sponsor
+bip_39_word_new_line1: spray
+bip_39_word_new_line10: 'spray
+
+  joy
+
+  pony
+
+  license
+
+  remember
+
+  outer
+
+  solid
+
+  maid
+
+  sponsor
+
+  expect'
+bip_39_word_new_line11: 'spray
+
+  joy
+
+  pony
+
+  license
+
+  remember
+
+  outer
+
+  solid
+
+  maid
+
+  sponsor
+
+  expect
+
+  cabbage'
+bip_39_word_new_line12: 'spray
+
+  joy
+
+  pony
+
+  license
+
+  remember
+
+  outer
+
+  solid
+
+  maid
+
+  sponsor
+
+  expect
+
+  cabbage
+
+  around'
+bip_39_word_new_line2: 'spray
+
+  joy'
+bip_39_word_new_line3: 'spray
+
+  joy
+
+  pony'
+bip_39_word_new_line4: 'spray
+
+  joy
+
+  pony
+
+  license'
+bip_39_word_new_line5: 'spray
+
+  joy
+
+  pony
+
+  license
+
+  remember'
+bip_39_word_new_line6: 'spray
+
+  joy
+
+  pony
+
+  license
+
+  remember
+
+  outer'
+bip_39_word_new_line7: 'spray
+
+  joy
+
+  pony
+
+  license
+
+  remember
+
+  outer
+
+  solid'
+bip_39_word_new_line8: 'spray
+
+  joy
+
+  pony
+
+  license
+
+  remember
+
+  outer
+
+  solid
+
+  maid'
+bip_39_word_new_line9: 'spray
+
+  joy
+
+  pony
+
+  license
+
+  remember
+
+  outer
+
+  solid
+
+  maid
+
+  sponsor'
+bip_39_word_space_0:
+- spray
+- joy
+- pony
+- license
+- remember
+- outer
+- solid
+- maid
+- sponsor
+- expect
+- cabbage
+- around
+bip_39_word_space_1: spray
+bip_39_word_space_10: spray joy pony license remember outer solid maid sponsor expect
+bip_39_word_space_11: spray joy pony license remember outer solid maid sponsor expect
+  cabbage
+bip_39_word_space_12: spray joy pony license remember outer solid maid sponsor expect
+  cabbage around
+bip_39_word_space_2: spray joy
+bip_39_word_space_3: spray joy pony
+bip_39_word_space_4: spray joy pony license
+bip_39_word_space_5: spray joy pony license remember
+bip_39_word_space_6: spray joy pony license remember outer
+bip_39_word_space_7: spray joy pony license remember outer solid
+bip_39_word_space_8: spray joy pony license remember outer solid maid
+bip_39_word_space_9: spray joy pony license remember outer solid maid sponsor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

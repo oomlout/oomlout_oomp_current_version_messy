@@ -1,3 +1,186 @@
+bip_39_word_new_br1: kangaroo
+bip_39_word_new_br10: kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan
+bip_39_word_new_br11: kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan<br>okay
+bip_39_word_new_br12: kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment<br>orphan<br>okay<br>apology
+bip_39_word_new_br2: kangaroo<br>dial
+bip_39_word_new_br3: kangaroo<br>dial<br>planet
+bip_39_word_new_br4: kangaroo<br>dial<br>planet<br>holiday
+bip_39_word_new_br5: kangaroo<br>dial<br>planet<br>holiday<br>trim
+bip_39_word_new_br6: kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long
+bip_39_word_new_br7: kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse
+bip_39_word_new_br8: kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt
+bip_39_word_new_br9: kangaroo<br>dial<br>planet<br>holiday<br>trim<br>long<br>pulse<br>belt<br>payment
+bip_39_word_new_line1: kangaroo
+bip_39_word_new_line10: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday
+
+  trim
+
+  long
+
+  pulse
+
+  belt
+
+  payment
+
+  orphan'
+bip_39_word_new_line11: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday
+
+  trim
+
+  long
+
+  pulse
+
+  belt
+
+  payment
+
+  orphan
+
+  okay'
+bip_39_word_new_line12: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday
+
+  trim
+
+  long
+
+  pulse
+
+  belt
+
+  payment
+
+  orphan
+
+  okay
+
+  apology'
+bip_39_word_new_line2: 'kangaroo
+
+  dial'
+bip_39_word_new_line3: 'kangaroo
+
+  dial
+
+  planet'
+bip_39_word_new_line4: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday'
+bip_39_word_new_line5: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday
+
+  trim'
+bip_39_word_new_line6: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday
+
+  trim
+
+  long'
+bip_39_word_new_line7: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday
+
+  trim
+
+  long
+
+  pulse'
+bip_39_word_new_line8: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday
+
+  trim
+
+  long
+
+  pulse
+
+  belt'
+bip_39_word_new_line9: 'kangaroo
+
+  dial
+
+  planet
+
+  holiday
+
+  trim
+
+  long
+
+  pulse
+
+  belt
+
+  payment'
+bip_39_word_space_0:
+- kangaroo
+- dial
+- planet
+- holiday
+- trim
+- long
+- pulse
+- belt
+- payment
+- orphan
+- okay
+- apology
+bip_39_word_space_1: kangaroo
+bip_39_word_space_10: kangaroo dial planet holiday trim long pulse belt payment orphan
+bip_39_word_space_11: kangaroo dial planet holiday trim long pulse belt payment orphan
+  okay
+bip_39_word_space_12: kangaroo dial planet holiday trim long pulse belt payment orphan
+  okay apology
+bip_39_word_space_2: kangaroo dial
+bip_39_word_space_3: kangaroo dial planet
+bip_39_word_space_4: kangaroo dial planet holiday
+bip_39_word_space_5: kangaroo dial planet holiday trim
+bip_39_word_space_6: kangaroo dial planet holiday trim long
+bip_39_word_space_7: kangaroo dial planet holiday trim long pulse
+bip_39_word_space_8: kangaroo dial planet holiday trim long pulse belt
+bip_39_word_space_9: kangaroo dial planet holiday trim long pulse belt payment
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

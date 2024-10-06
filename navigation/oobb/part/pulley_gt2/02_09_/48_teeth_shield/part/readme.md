@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dance toy
+  * bip 39 word 3: dance toy round
+  * bip 39 word: dance toy round rookie coil gun doctor orphan appear number honey accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dance |  
+| bip_39_word_new_br10 | dance<br>toy<br>round<br>rookie<br>coil<br>gun<br>doctor<br>orphan<br>appear<br>number |  
+| bip_39_word_new_br11 | dance<br>toy<br>round<br>rookie<br>coil<br>gun<br>doctor<br>orphan<br>appear<br>number<br>honey |  
+| bip_39_word_new_br12 | dance<br>toy<br>round<br>rookie<br>coil<br>gun<br>doctor<br>orphan<br>appear<br>number<br>honey<br>accident |  
+| bip_39_word_new_br2 | dance<br>toy |  
+| bip_39_word_new_br3 | dance<br>toy<br>round |  
+| bip_39_word_new_br4 | dance<br>toy<br>round<br>rookie |  
+| bip_39_word_new_br5 | dance<br>toy<br>round<br>rookie<br>coil |  
+| bip_39_word_new_br6 | dance<br>toy<br>round<br>rookie<br>coil<br>gun |  
+| bip_39_word_new_br7 | dance<br>toy<br>round<br>rookie<br>coil<br>gun<br>doctor |  
+| bip_39_word_new_br8 | dance<br>toy<br>round<br>rookie<br>coil<br>gun<br>doctor<br>orphan |  
+| bip_39_word_new_br9 | dance<br>toy<br>round<br>rookie<br>coil<br>gun<br>doctor<br>orphan<br>appear |  
+| bip_39_word_new_line1 | dance |  
+| bip_39_word_new_line10 | dance
+toy
+round
+rookie
+coil
+gun
+doctor
+orphan
+appear
+number |  
+| bip_39_word_new_line11 | dance
+toy
+round
+rookie
+coil
+gun
+doctor
+orphan
+appear
+number
+honey |  
+| bip_39_word_new_line12 | dance
+toy
+round
+rookie
+coil
+gun
+doctor
+orphan
+appear
+number
+honey
+accident |  
+| bip_39_word_new_line2 | dance
+toy |  
+| bip_39_word_new_line3 | dance
+toy
+round |  
+| bip_39_word_new_line4 | dance
+toy
+round
+rookie |  
+| bip_39_word_new_line5 | dance
+toy
+round
+rookie
+coil |  
+| bip_39_word_new_line6 | dance
+toy
+round
+rookie
+coil
+gun |  
+| bip_39_word_new_line7 | dance
+toy
+round
+rookie
+coil
+gun
+doctor |  
+| bip_39_word_new_line8 | dance
+toy
+round
+rookie
+coil
+gun
+doctor
+orphan |  
+| bip_39_word_new_line9 | dance
+toy
+round
+rookie
+coil
+gun
+doctor
+orphan
+appear |  
+| bip_39_word_space_0 | ['dance', 'toy', 'round', 'rookie', 'coil', 'gun', 'doctor', 'orphan', 'appear', 'number', 'honey', 'accident'] |  
+| bip_39_word_space_1 | dance |  
+| bip_39_word_space_10 | dance toy round rookie coil gun doctor orphan appear number |  
+| bip_39_word_space_11 | dance toy round rookie coil gun doctor orphan appear number honey |  
+| bip_39_word_space_12 | dance toy round rookie coil gun doctor orphan appear number honey accident |  
+| bip_39_word_space_2 | dance toy |  
+| bip_39_word_space_3 | dance toy round |  
+| bip_39_word_space_4 | dance toy round rookie |  
+| bip_39_word_space_5 | dance toy round rookie coil |  
+| bip_39_word_space_6 | dance toy round rookie coil gun |  
+| bip_39_word_space_7 | dance toy round rookie coil gun doctor |  
+| bip_39_word_space_8 | dance toy round rookie coil gun doctor orphan |  
+| bip_39_word_space_9 | dance toy round rookie coil gun doctor orphan appear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

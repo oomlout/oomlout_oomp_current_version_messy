@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: giant network
+  * bip 39 word 3: giant network wet
+  * bip 39 word: giant network wet enforce patrol umbrella inspire public abandon hybrid tenant afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | giant |  
+| bip_39_word_new_br10 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon<br>hybrid |  
+| bip_39_word_new_br11 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon<br>hybrid<br>tenant |  
+| bip_39_word_new_br12 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon<br>hybrid<br>tenant<br>afford |  
+| bip_39_word_new_br2 | giant<br>network |  
+| bip_39_word_new_br3 | giant<br>network<br>wet |  
+| bip_39_word_new_br4 | giant<br>network<br>wet<br>enforce |  
+| bip_39_word_new_br5 | giant<br>network<br>wet<br>enforce<br>patrol |  
+| bip_39_word_new_br6 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella |  
+| bip_39_word_new_br7 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire |  
+| bip_39_word_new_br8 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public |  
+| bip_39_word_new_br9 | giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon |  
+| bip_39_word_new_line1 | giant |  
+| bip_39_word_new_line10 | giant
+network
+wet
+enforce
+patrol
+umbrella
+inspire
+public
+abandon
+hybrid |  
+| bip_39_word_new_line11 | giant
+network
+wet
+enforce
+patrol
+umbrella
+inspire
+public
+abandon
+hybrid
+tenant |  
+| bip_39_word_new_line12 | giant
+network
+wet
+enforce
+patrol
+umbrella
+inspire
+public
+abandon
+hybrid
+tenant
+afford |  
+| bip_39_word_new_line2 | giant
+network |  
+| bip_39_word_new_line3 | giant
+network
+wet |  
+| bip_39_word_new_line4 | giant
+network
+wet
+enforce |  
+| bip_39_word_new_line5 | giant
+network
+wet
+enforce
+patrol |  
+| bip_39_word_new_line6 | giant
+network
+wet
+enforce
+patrol
+umbrella |  
+| bip_39_word_new_line7 | giant
+network
+wet
+enforce
+patrol
+umbrella
+inspire |  
+| bip_39_word_new_line8 | giant
+network
+wet
+enforce
+patrol
+umbrella
+inspire
+public |  
+| bip_39_word_new_line9 | giant
+network
+wet
+enforce
+patrol
+umbrella
+inspire
+public
+abandon |  
+| bip_39_word_space_0 | ['giant', 'network', 'wet', 'enforce', 'patrol', 'umbrella', 'inspire', 'public', 'abandon', 'hybrid', 'tenant', 'afford'] |  
+| bip_39_word_space_1 | giant |  
+| bip_39_word_space_10 | giant network wet enforce patrol umbrella inspire public abandon hybrid |  
+| bip_39_word_space_11 | giant network wet enforce patrol umbrella inspire public abandon hybrid tenant |  
+| bip_39_word_space_12 | giant network wet enforce patrol umbrella inspire public abandon hybrid tenant afford |  
+| bip_39_word_space_2 | giant network |  
+| bip_39_word_space_3 | giant network wet |  
+| bip_39_word_space_4 | giant network wet enforce |  
+| bip_39_word_space_5 | giant network wet enforce patrol |  
+| bip_39_word_space_6 | giant network wet enforce patrol umbrella |  
+| bip_39_word_space_7 | giant network wet enforce patrol umbrella inspire |  
+| bip_39_word_space_8 | giant network wet enforce patrol umbrella inspire public |  
+| bip_39_word_space_9 | giant network wet enforce patrol umbrella inspire public abandon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

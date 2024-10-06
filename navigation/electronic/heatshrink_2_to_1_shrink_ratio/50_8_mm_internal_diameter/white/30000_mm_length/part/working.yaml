@@ -1,3 +1,187 @@
+bip_39_word_new_br1: library
+bip_39_word_new_br10: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link<br>erupt<br>code<br>library<br>deer
+bip_39_word_new_br11: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link<br>erupt<br>code<br>library<br>deer<br>frame
+bip_39_word_new_br12: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link<br>erupt<br>code<br>library<br>deer<br>frame<br>account
+bip_39_word_new_br2: library<br>inflict
+bip_39_word_new_br3: library<br>inflict<br>enforce
+bip_39_word_new_br4: library<br>inflict<br>enforce<br>veteran
+bip_39_word_new_br5: library<br>inflict<br>enforce<br>veteran<br>prosper
+bip_39_word_new_br6: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link
+bip_39_word_new_br7: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link<br>erupt
+bip_39_word_new_br8: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link<br>erupt<br>code
+bip_39_word_new_br9: library<br>inflict<br>enforce<br>veteran<br>prosper<br>link<br>erupt<br>code<br>library
+bip_39_word_new_line1: library
+bip_39_word_new_line10: 'library
+
+  inflict
+
+  enforce
+
+  veteran
+
+  prosper
+
+  link
+
+  erupt
+
+  code
+
+  library
+
+  deer'
+bip_39_word_new_line11: 'library
+
+  inflict
+
+  enforce
+
+  veteran
+
+  prosper
+
+  link
+
+  erupt
+
+  code
+
+  library
+
+  deer
+
+  frame'
+bip_39_word_new_line12: 'library
+
+  inflict
+
+  enforce
+
+  veteran
+
+  prosper
+
+  link
+
+  erupt
+
+  code
+
+  library
+
+  deer
+
+  frame
+
+  account'
+bip_39_word_new_line2: 'library
+
+  inflict'
+bip_39_word_new_line3: 'library
+
+  inflict
+
+  enforce'
+bip_39_word_new_line4: 'library
+
+  inflict
+
+  enforce
+
+  veteran'
+bip_39_word_new_line5: 'library
+
+  inflict
+
+  enforce
+
+  veteran
+
+  prosper'
+bip_39_word_new_line6: 'library
+
+  inflict
+
+  enforce
+
+  veteran
+
+  prosper
+
+  link'
+bip_39_word_new_line7: 'library
+
+  inflict
+
+  enforce
+
+  veteran
+
+  prosper
+
+  link
+
+  erupt'
+bip_39_word_new_line8: 'library
+
+  inflict
+
+  enforce
+
+  veteran
+
+  prosper
+
+  link
+
+  erupt
+
+  code'
+bip_39_word_new_line9: 'library
+
+  inflict
+
+  enforce
+
+  veteran
+
+  prosper
+
+  link
+
+  erupt
+
+  code
+
+  library'
+bip_39_word_space_0:
+- library
+- inflict
+- enforce
+- veteran
+- prosper
+- link
+- erupt
+- code
+- library
+- deer
+- frame
+- account
+bip_39_word_space_1: library
+bip_39_word_space_10: library inflict enforce veteran prosper link erupt code library
+  deer
+bip_39_word_space_11: library inflict enforce veteran prosper link erupt code library
+  deer frame
+bip_39_word_space_12: library inflict enforce veteran prosper link erupt code library
+  deer frame account
+bip_39_word_space_2: library inflict
+bip_39_word_space_3: library inflict enforce
+bip_39_word_space_4: library inflict enforce veteran
+bip_39_word_space_5: library inflict enforce veteran prosper
+bip_39_word_space_6: library inflict enforce veteran prosper link
+bip_39_word_space_7: library inflict enforce veteran prosper link erupt
+bip_39_word_space_8: library inflict enforce veteran prosper link erupt code
+bip_39_word_space_9: library inflict enforce veteran prosper link erupt code library
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

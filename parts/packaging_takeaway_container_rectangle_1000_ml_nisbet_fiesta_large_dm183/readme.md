@@ -20,6 +20,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: nisbet_fiesta
   * part_number: large_dm183
+  * bip 39 word 2: attend casino
+  * bip 39 word 3: attend casino often
+  * bip 39 word: attend casino often castle poet wreck grocery swarm cloth liberty oven afraid
 
 ### other_codes
 * short_code: tcr1000
@@ -31,6 +34,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | attend |  
+| bip_39_word_new_br10 | attend<br>casino<br>often<br>castle<br>poet<br>wreck<br>grocery<br>swarm<br>cloth<br>liberty |  
+| bip_39_word_new_br11 | attend<br>casino<br>often<br>castle<br>poet<br>wreck<br>grocery<br>swarm<br>cloth<br>liberty<br>oven |  
+| bip_39_word_new_br12 | attend<br>casino<br>often<br>castle<br>poet<br>wreck<br>grocery<br>swarm<br>cloth<br>liberty<br>oven<br>afraid |  
+| bip_39_word_new_br2 | attend<br>casino |  
+| bip_39_word_new_br3 | attend<br>casino<br>often |  
+| bip_39_word_new_br4 | attend<br>casino<br>often<br>castle |  
+| bip_39_word_new_br5 | attend<br>casino<br>often<br>castle<br>poet |  
+| bip_39_word_new_br6 | attend<br>casino<br>often<br>castle<br>poet<br>wreck |  
+| bip_39_word_new_br7 | attend<br>casino<br>often<br>castle<br>poet<br>wreck<br>grocery |  
+| bip_39_word_new_br8 | attend<br>casino<br>often<br>castle<br>poet<br>wreck<br>grocery<br>swarm |  
+| bip_39_word_new_br9 | attend<br>casino<br>often<br>castle<br>poet<br>wreck<br>grocery<br>swarm<br>cloth |  
+| bip_39_word_new_line1 | attend |  
+| bip_39_word_new_line10 | attend
+casino
+often
+castle
+poet
+wreck
+grocery
+swarm
+cloth
+liberty |  
+| bip_39_word_new_line11 | attend
+casino
+often
+castle
+poet
+wreck
+grocery
+swarm
+cloth
+liberty
+oven |  
+| bip_39_word_new_line12 | attend
+casino
+often
+castle
+poet
+wreck
+grocery
+swarm
+cloth
+liberty
+oven
+afraid |  
+| bip_39_word_new_line2 | attend
+casino |  
+| bip_39_word_new_line3 | attend
+casino
+often |  
+| bip_39_word_new_line4 | attend
+casino
+often
+castle |  
+| bip_39_word_new_line5 | attend
+casino
+often
+castle
+poet |  
+| bip_39_word_new_line6 | attend
+casino
+often
+castle
+poet
+wreck |  
+| bip_39_word_new_line7 | attend
+casino
+often
+castle
+poet
+wreck
+grocery |  
+| bip_39_word_new_line8 | attend
+casino
+often
+castle
+poet
+wreck
+grocery
+swarm |  
+| bip_39_word_new_line9 | attend
+casino
+often
+castle
+poet
+wreck
+grocery
+swarm
+cloth |  
+| bip_39_word_space_0 | ['attend', 'casino', 'often', 'castle', 'poet', 'wreck', 'grocery', 'swarm', 'cloth', 'liberty', 'oven', 'afraid'] |  
+| bip_39_word_space_1 | attend |  
+| bip_39_word_space_10 | attend casino often castle poet wreck grocery swarm cloth liberty |  
+| bip_39_word_space_11 | attend casino often castle poet wreck grocery swarm cloth liberty oven |  
+| bip_39_word_space_12 | attend casino often castle poet wreck grocery swarm cloth liberty oven afraid |  
+| bip_39_word_space_2 | attend casino |  
+| bip_39_word_space_3 | attend casino often |  
+| bip_39_word_space_4 | attend casino often castle |  
+| bip_39_word_space_5 | attend casino often castle poet |  
+| bip_39_word_space_6 | attend casino often castle poet wreck |  
+| bip_39_word_space_7 | attend casino often castle poet wreck grocery |  
+| bip_39_word_space_8 | attend casino often castle poet wreck grocery swarm |  
+| bip_39_word_space_9 | attend casino often castle poet wreck grocery swarm cloth |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

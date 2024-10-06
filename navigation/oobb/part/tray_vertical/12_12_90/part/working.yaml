@@ -1,3 +1,185 @@
+bip_39_word_new_br1: buddy
+bip_39_word_new_br10: buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown
+bip_39_word_new_br11: buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown<br>corn
+bip_39_word_new_br12: buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield<br>brown<br>corn<br>actor
+bip_39_word_new_br2: buddy<br>logic
+bip_39_word_new_br3: buddy<br>logic<br>nasty
+bip_39_word_new_br4: buddy<br>logic<br>nasty<br>job
+bip_39_word_new_br5: buddy<br>logic<br>nasty<br>job<br>crater
+bip_39_word_new_br6: buddy<br>logic<br>nasty<br>job<br>crater<br>inch
+bip_39_word_new_br7: buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media
+bip_39_word_new_br8: buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy
+bip_39_word_new_br9: buddy<br>logic<br>nasty<br>job<br>crater<br>inch<br>media<br>mercy<br>shield
+bip_39_word_new_line1: buddy
+bip_39_word_new_line10: 'buddy
+
+  logic
+
+  nasty
+
+  job
+
+  crater
+
+  inch
+
+  media
+
+  mercy
+
+  shield
+
+  brown'
+bip_39_word_new_line11: 'buddy
+
+  logic
+
+  nasty
+
+  job
+
+  crater
+
+  inch
+
+  media
+
+  mercy
+
+  shield
+
+  brown
+
+  corn'
+bip_39_word_new_line12: 'buddy
+
+  logic
+
+  nasty
+
+  job
+
+  crater
+
+  inch
+
+  media
+
+  mercy
+
+  shield
+
+  brown
+
+  corn
+
+  actor'
+bip_39_word_new_line2: 'buddy
+
+  logic'
+bip_39_word_new_line3: 'buddy
+
+  logic
+
+  nasty'
+bip_39_word_new_line4: 'buddy
+
+  logic
+
+  nasty
+
+  job'
+bip_39_word_new_line5: 'buddy
+
+  logic
+
+  nasty
+
+  job
+
+  crater'
+bip_39_word_new_line6: 'buddy
+
+  logic
+
+  nasty
+
+  job
+
+  crater
+
+  inch'
+bip_39_word_new_line7: 'buddy
+
+  logic
+
+  nasty
+
+  job
+
+  crater
+
+  inch
+
+  media'
+bip_39_word_new_line8: 'buddy
+
+  logic
+
+  nasty
+
+  job
+
+  crater
+
+  inch
+
+  media
+
+  mercy'
+bip_39_word_new_line9: 'buddy
+
+  logic
+
+  nasty
+
+  job
+
+  crater
+
+  inch
+
+  media
+
+  mercy
+
+  shield'
+bip_39_word_space_0:
+- buddy
+- logic
+- nasty
+- job
+- crater
+- inch
+- media
+- mercy
+- shield
+- brown
+- corn
+- actor
+bip_39_word_space_1: buddy
+bip_39_word_space_10: buddy logic nasty job crater inch media mercy shield brown
+bip_39_word_space_11: buddy logic nasty job crater inch media mercy shield brown corn
+bip_39_word_space_12: buddy logic nasty job crater inch media mercy shield brown corn
+  actor
+bip_39_word_space_2: buddy logic
+bip_39_word_space_3: buddy logic nasty
+bip_39_word_space_4: buddy logic nasty job
+bip_39_word_space_5: buddy logic nasty job crater
+bip_39_word_space_6: buddy logic nasty job crater inch
+bip_39_word_space_7: buddy logic nasty job crater inch media
+bip_39_word_space_8: buddy logic nasty job crater inch media mercy
+bip_39_word_space_9: buddy logic nasty job crater inch media mercy shield
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

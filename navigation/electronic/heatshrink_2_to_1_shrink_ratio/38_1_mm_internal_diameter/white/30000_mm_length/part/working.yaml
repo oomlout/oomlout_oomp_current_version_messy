@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fee
+bip_39_word_new_br10: fee<br>pull<br>output<br>radar<br>common<br>model<br>only<br>raw<br>moon<br>assault
+bip_39_word_new_br11: fee<br>pull<br>output<br>radar<br>common<br>model<br>only<br>raw<br>moon<br>assault<br>rely
+bip_39_word_new_br12: fee<br>pull<br>output<br>radar<br>common<br>model<br>only<br>raw<br>moon<br>assault<br>rely<br>addict
+bip_39_word_new_br2: fee<br>pull
+bip_39_word_new_br3: fee<br>pull<br>output
+bip_39_word_new_br4: fee<br>pull<br>output<br>radar
+bip_39_word_new_br5: fee<br>pull<br>output<br>radar<br>common
+bip_39_word_new_br6: fee<br>pull<br>output<br>radar<br>common<br>model
+bip_39_word_new_br7: fee<br>pull<br>output<br>radar<br>common<br>model<br>only
+bip_39_word_new_br8: fee<br>pull<br>output<br>radar<br>common<br>model<br>only<br>raw
+bip_39_word_new_br9: fee<br>pull<br>output<br>radar<br>common<br>model<br>only<br>raw<br>moon
+bip_39_word_new_line1: fee
+bip_39_word_new_line10: 'fee
+
+  pull
+
+  output
+
+  radar
+
+  common
+
+  model
+
+  only
+
+  raw
+
+  moon
+
+  assault'
+bip_39_word_new_line11: 'fee
+
+  pull
+
+  output
+
+  radar
+
+  common
+
+  model
+
+  only
+
+  raw
+
+  moon
+
+  assault
+
+  rely'
+bip_39_word_new_line12: 'fee
+
+  pull
+
+  output
+
+  radar
+
+  common
+
+  model
+
+  only
+
+  raw
+
+  moon
+
+  assault
+
+  rely
+
+  addict'
+bip_39_word_new_line2: 'fee
+
+  pull'
+bip_39_word_new_line3: 'fee
+
+  pull
+
+  output'
+bip_39_word_new_line4: 'fee
+
+  pull
+
+  output
+
+  radar'
+bip_39_word_new_line5: 'fee
+
+  pull
+
+  output
+
+  radar
+
+  common'
+bip_39_word_new_line6: 'fee
+
+  pull
+
+  output
+
+  radar
+
+  common
+
+  model'
+bip_39_word_new_line7: 'fee
+
+  pull
+
+  output
+
+  radar
+
+  common
+
+  model
+
+  only'
+bip_39_word_new_line8: 'fee
+
+  pull
+
+  output
+
+  radar
+
+  common
+
+  model
+
+  only
+
+  raw'
+bip_39_word_new_line9: 'fee
+
+  pull
+
+  output
+
+  radar
+
+  common
+
+  model
+
+  only
+
+  raw
+
+  moon'
+bip_39_word_space_0:
+- fee
+- pull
+- output
+- radar
+- common
+- model
+- only
+- raw
+- moon
+- assault
+- rely
+- addict
+bip_39_word_space_1: fee
+bip_39_word_space_10: fee pull output radar common model only raw moon assault
+bip_39_word_space_11: fee pull output radar common model only raw moon assault rely
+bip_39_word_space_12: fee pull output radar common model only raw moon assault rely
+  addict
+bip_39_word_space_2: fee pull
+bip_39_word_space_3: fee pull output
+bip_39_word_space_4: fee pull output radar
+bip_39_word_space_5: fee pull output radar common
+bip_39_word_space_6: fee pull output radar common model
+bip_39_word_space_7: fee pull output radar common model only
+bip_39_word_space_8: fee pull output radar common model only raw
+bip_39_word_space_9: fee pull output radar common model only raw moon
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

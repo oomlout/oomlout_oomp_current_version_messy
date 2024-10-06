@@ -1,3 +1,187 @@
+bip_39_word_new_br1: awesome
+bip_39_word_new_br10: awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf<br>potato<br>skate<br>pattern<br>west
+bip_39_word_new_br11: awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf<br>potato<br>skate<br>pattern<br>west<br>shadow
+bip_39_word_new_br12: awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf<br>potato<br>skate<br>pattern<br>west<br>shadow<br>abstract
+bip_39_word_new_br2: awesome<br>myth
+bip_39_word_new_br3: awesome<br>myth<br>sleep
+bip_39_word_new_br4: awesome<br>myth<br>sleep<br>galaxy
+bip_39_word_new_br5: awesome<br>myth<br>sleep<br>galaxy<br>lobster
+bip_39_word_new_br6: awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf
+bip_39_word_new_br7: awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf<br>potato
+bip_39_word_new_br8: awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf<br>potato<br>skate
+bip_39_word_new_br9: awesome<br>myth<br>sleep<br>galaxy<br>lobster<br>wolf<br>potato<br>skate<br>pattern
+bip_39_word_new_line1: awesome
+bip_39_word_new_line10: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy
+
+  lobster
+
+  wolf
+
+  potato
+
+  skate
+
+  pattern
+
+  west'
+bip_39_word_new_line11: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy
+
+  lobster
+
+  wolf
+
+  potato
+
+  skate
+
+  pattern
+
+  west
+
+  shadow'
+bip_39_word_new_line12: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy
+
+  lobster
+
+  wolf
+
+  potato
+
+  skate
+
+  pattern
+
+  west
+
+  shadow
+
+  abstract'
+bip_39_word_new_line2: 'awesome
+
+  myth'
+bip_39_word_new_line3: 'awesome
+
+  myth
+
+  sleep'
+bip_39_word_new_line4: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy'
+bip_39_word_new_line5: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy
+
+  lobster'
+bip_39_word_new_line6: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy
+
+  lobster
+
+  wolf'
+bip_39_word_new_line7: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy
+
+  lobster
+
+  wolf
+
+  potato'
+bip_39_word_new_line8: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy
+
+  lobster
+
+  wolf
+
+  potato
+
+  skate'
+bip_39_word_new_line9: 'awesome
+
+  myth
+
+  sleep
+
+  galaxy
+
+  lobster
+
+  wolf
+
+  potato
+
+  skate
+
+  pattern'
+bip_39_word_space_0:
+- awesome
+- myth
+- sleep
+- galaxy
+- lobster
+- wolf
+- potato
+- skate
+- pattern
+- west
+- shadow
+- abstract
+bip_39_word_space_1: awesome
+bip_39_word_space_10: awesome myth sleep galaxy lobster wolf potato skate pattern
+  west
+bip_39_word_space_11: awesome myth sleep galaxy lobster wolf potato skate pattern
+  west shadow
+bip_39_word_space_12: awesome myth sleep galaxy lobster wolf potato skate pattern
+  west shadow abstract
+bip_39_word_space_2: awesome myth
+bip_39_word_space_3: awesome myth sleep
+bip_39_word_space_4: awesome myth sleep galaxy
+bip_39_word_space_5: awesome myth sleep galaxy lobster
+bip_39_word_space_6: awesome myth sleep galaxy lobster wolf
+bip_39_word_space_7: awesome myth sleep galaxy lobster wolf potato
+bip_39_word_space_8: awesome myth sleep galaxy lobster wolf potato skate
+bip_39_word_space_9: awesome myth sleep galaxy lobster wolf potato skate pattern
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

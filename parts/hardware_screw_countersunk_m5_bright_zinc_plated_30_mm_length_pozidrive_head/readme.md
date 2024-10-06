@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: around say
+  * bip 39 word 3: around say return
+  * bip 39 word: around say return just funny knife claw unhappy citizen hotel slim adapt
 
 ### other_codes
 * short_code: cs5bz30pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | around |  
+| bip_39_word_new_br10 | around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel |  
+| bip_39_word_new_br11 | around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel<br>slim |  
+| bip_39_word_new_br12 | around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen<br>hotel<br>slim<br>adapt |  
+| bip_39_word_new_br2 | around<br>say |  
+| bip_39_word_new_br3 | around<br>say<br>return |  
+| bip_39_word_new_br4 | around<br>say<br>return<br>just |  
+| bip_39_word_new_br5 | around<br>say<br>return<br>just<br>funny |  
+| bip_39_word_new_br6 | around<br>say<br>return<br>just<br>funny<br>knife |  
+| bip_39_word_new_br7 | around<br>say<br>return<br>just<br>funny<br>knife<br>claw |  
+| bip_39_word_new_br8 | around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy |  
+| bip_39_word_new_br9 | around<br>say<br>return<br>just<br>funny<br>knife<br>claw<br>unhappy<br>citizen |  
+| bip_39_word_new_line1 | around |  
+| bip_39_word_new_line10 | around
+say
+return
+just
+funny
+knife
+claw
+unhappy
+citizen
+hotel |  
+| bip_39_word_new_line11 | around
+say
+return
+just
+funny
+knife
+claw
+unhappy
+citizen
+hotel
+slim |  
+| bip_39_word_new_line12 | around
+say
+return
+just
+funny
+knife
+claw
+unhappy
+citizen
+hotel
+slim
+adapt |  
+| bip_39_word_new_line2 | around
+say |  
+| bip_39_word_new_line3 | around
+say
+return |  
+| bip_39_word_new_line4 | around
+say
+return
+just |  
+| bip_39_word_new_line5 | around
+say
+return
+just
+funny |  
+| bip_39_word_new_line6 | around
+say
+return
+just
+funny
+knife |  
+| bip_39_word_new_line7 | around
+say
+return
+just
+funny
+knife
+claw |  
+| bip_39_word_new_line8 | around
+say
+return
+just
+funny
+knife
+claw
+unhappy |  
+| bip_39_word_new_line9 | around
+say
+return
+just
+funny
+knife
+claw
+unhappy
+citizen |  
+| bip_39_word_space_0 | ['around', 'say', 'return', 'just', 'funny', 'knife', 'claw', 'unhappy', 'citizen', 'hotel', 'slim', 'adapt'] |  
+| bip_39_word_space_1 | around |  
+| bip_39_word_space_10 | around say return just funny knife claw unhappy citizen hotel |  
+| bip_39_word_space_11 | around say return just funny knife claw unhappy citizen hotel slim |  
+| bip_39_word_space_12 | around say return just funny knife claw unhappy citizen hotel slim adapt |  
+| bip_39_word_space_2 | around say |  
+| bip_39_word_space_3 | around say return |  
+| bip_39_word_space_4 | around say return just |  
+| bip_39_word_space_5 | around say return just funny |  
+| bip_39_word_space_6 | around say return just funny knife |  
+| bip_39_word_space_7 | around say return just funny knife claw |  
+| bip_39_word_space_8 | around say return just funny knife claw unhappy |  
+| bip_39_word_space_9 | around say return just funny knife claw unhappy citizen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

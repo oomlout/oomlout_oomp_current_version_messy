@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: myself asset
+  * bip 39 word 3: myself asset ready
+  * bip 39 word: myself asset ready weather news jacket copper cotton vague kind twist autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | myself |  
+| bip_39_word_new_br10 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind |  
+| bip_39_word_new_br11 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist |  
+| bip_39_word_new_br12 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist<br>autumn |  
+| bip_39_word_new_br2 | myself<br>asset |  
+| bip_39_word_new_br3 | myself<br>asset<br>ready |  
+| bip_39_word_new_br4 | myself<br>asset<br>ready<br>weather |  
+| bip_39_word_new_br5 | myself<br>asset<br>ready<br>weather<br>news |  
+| bip_39_word_new_br6 | myself<br>asset<br>ready<br>weather<br>news<br>jacket |  
+| bip_39_word_new_br7 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper |  
+| bip_39_word_new_br8 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton |  
+| bip_39_word_new_br9 | myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague |  
+| bip_39_word_new_line1 | myself |  
+| bip_39_word_new_line10 | myself
+asset
+ready
+weather
+news
+jacket
+copper
+cotton
+vague
+kind |  
+| bip_39_word_new_line11 | myself
+asset
+ready
+weather
+news
+jacket
+copper
+cotton
+vague
+kind
+twist |  
+| bip_39_word_new_line12 | myself
+asset
+ready
+weather
+news
+jacket
+copper
+cotton
+vague
+kind
+twist
+autumn |  
+| bip_39_word_new_line2 | myself
+asset |  
+| bip_39_word_new_line3 | myself
+asset
+ready |  
+| bip_39_word_new_line4 | myself
+asset
+ready
+weather |  
+| bip_39_word_new_line5 | myself
+asset
+ready
+weather
+news |  
+| bip_39_word_new_line6 | myself
+asset
+ready
+weather
+news
+jacket |  
+| bip_39_word_new_line7 | myself
+asset
+ready
+weather
+news
+jacket
+copper |  
+| bip_39_word_new_line8 | myself
+asset
+ready
+weather
+news
+jacket
+copper
+cotton |  
+| bip_39_word_new_line9 | myself
+asset
+ready
+weather
+news
+jacket
+copper
+cotton
+vague |  
+| bip_39_word_space_0 | ['myself', 'asset', 'ready', 'weather', 'news', 'jacket', 'copper', 'cotton', 'vague', 'kind', 'twist', 'autumn'] |  
+| bip_39_word_space_1 | myself |  
+| bip_39_word_space_10 | myself asset ready weather news jacket copper cotton vague kind |  
+| bip_39_word_space_11 | myself asset ready weather news jacket copper cotton vague kind twist |  
+| bip_39_word_space_12 | myself asset ready weather news jacket copper cotton vague kind twist autumn |  
+| bip_39_word_space_2 | myself asset |  
+| bip_39_word_space_3 | myself asset ready |  
+| bip_39_word_space_4 | myself asset ready weather |  
+| bip_39_word_space_5 | myself asset ready weather news |  
+| bip_39_word_space_6 | myself asset ready weather news jacket |  
+| bip_39_word_space_7 | myself asset ready weather news jacket copper |  
+| bip_39_word_space_8 | myself asset ready weather news jacket copper cotton |  
+| bip_39_word_space_9 | myself asset ready weather news jacket copper cotton vague |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

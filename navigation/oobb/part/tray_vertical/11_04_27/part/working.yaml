@@ -1,3 +1,187 @@
+bip_39_word_new_br1: timber
+bip_39_word_new_br10: timber<br>devote<br>boost<br>village<br>senior<br>battle<br>amazing<br>lumber<br>elbow<br>dry
+bip_39_word_new_br11: timber<br>devote<br>boost<br>village<br>senior<br>battle<br>amazing<br>lumber<br>elbow<br>dry<br>dilemma
+bip_39_word_new_br12: timber<br>devote<br>boost<br>village<br>senior<br>battle<br>amazing<br>lumber<br>elbow<br>dry<br>dilemma<br>average
+bip_39_word_new_br2: timber<br>devote
+bip_39_word_new_br3: timber<br>devote<br>boost
+bip_39_word_new_br4: timber<br>devote<br>boost<br>village
+bip_39_word_new_br5: timber<br>devote<br>boost<br>village<br>senior
+bip_39_word_new_br6: timber<br>devote<br>boost<br>village<br>senior<br>battle
+bip_39_word_new_br7: timber<br>devote<br>boost<br>village<br>senior<br>battle<br>amazing
+bip_39_word_new_br8: timber<br>devote<br>boost<br>village<br>senior<br>battle<br>amazing<br>lumber
+bip_39_word_new_br9: timber<br>devote<br>boost<br>village<br>senior<br>battle<br>amazing<br>lumber<br>elbow
+bip_39_word_new_line1: timber
+bip_39_word_new_line10: 'timber
+
+  devote
+
+  boost
+
+  village
+
+  senior
+
+  battle
+
+  amazing
+
+  lumber
+
+  elbow
+
+  dry'
+bip_39_word_new_line11: 'timber
+
+  devote
+
+  boost
+
+  village
+
+  senior
+
+  battle
+
+  amazing
+
+  lumber
+
+  elbow
+
+  dry
+
+  dilemma'
+bip_39_word_new_line12: 'timber
+
+  devote
+
+  boost
+
+  village
+
+  senior
+
+  battle
+
+  amazing
+
+  lumber
+
+  elbow
+
+  dry
+
+  dilemma
+
+  average'
+bip_39_word_new_line2: 'timber
+
+  devote'
+bip_39_word_new_line3: 'timber
+
+  devote
+
+  boost'
+bip_39_word_new_line4: 'timber
+
+  devote
+
+  boost
+
+  village'
+bip_39_word_new_line5: 'timber
+
+  devote
+
+  boost
+
+  village
+
+  senior'
+bip_39_word_new_line6: 'timber
+
+  devote
+
+  boost
+
+  village
+
+  senior
+
+  battle'
+bip_39_word_new_line7: 'timber
+
+  devote
+
+  boost
+
+  village
+
+  senior
+
+  battle
+
+  amazing'
+bip_39_word_new_line8: 'timber
+
+  devote
+
+  boost
+
+  village
+
+  senior
+
+  battle
+
+  amazing
+
+  lumber'
+bip_39_word_new_line9: 'timber
+
+  devote
+
+  boost
+
+  village
+
+  senior
+
+  battle
+
+  amazing
+
+  lumber
+
+  elbow'
+bip_39_word_space_0:
+- timber
+- devote
+- boost
+- village
+- senior
+- battle
+- amazing
+- lumber
+- elbow
+- dry
+- dilemma
+- average
+bip_39_word_space_1: timber
+bip_39_word_space_10: timber devote boost village senior battle amazing lumber elbow
+  dry
+bip_39_word_space_11: timber devote boost village senior battle amazing lumber elbow
+  dry dilemma
+bip_39_word_space_12: timber devote boost village senior battle amazing lumber elbow
+  dry dilemma average
+bip_39_word_space_2: timber devote
+bip_39_word_space_3: timber devote boost
+bip_39_word_space_4: timber devote boost village
+bip_39_word_space_5: timber devote boost village senior
+bip_39_word_space_6: timber devote boost village senior battle
+bip_39_word_space_7: timber devote boost village senior battle amazing
+bip_39_word_space_8: timber devote boost village senior battle amazing lumber
+bip_39_word_space_9: timber devote boost village senior battle amazing lumber elbow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

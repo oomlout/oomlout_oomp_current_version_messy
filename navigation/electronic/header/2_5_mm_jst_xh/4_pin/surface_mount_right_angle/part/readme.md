@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: heavy water
+  * bip 39 word 3: heavy water alert
+  * bip 39 word: heavy water alert current pyramid flight budget initial sausage medal gentle abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | heavy |  
+| bip_39_word_new_br10 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal |  
+| bip_39_word_new_br11 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal<br>gentle |  
+| bip_39_word_new_br12 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage<br>medal<br>gentle<br>abstract |  
+| bip_39_word_new_br2 | heavy<br>water |  
+| bip_39_word_new_br3 | heavy<br>water<br>alert |  
+| bip_39_word_new_br4 | heavy<br>water<br>alert<br>current |  
+| bip_39_word_new_br5 | heavy<br>water<br>alert<br>current<br>pyramid |  
+| bip_39_word_new_br6 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight |  
+| bip_39_word_new_br7 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget |  
+| bip_39_word_new_br8 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial |  
+| bip_39_word_new_br9 | heavy<br>water<br>alert<br>current<br>pyramid<br>flight<br>budget<br>initial<br>sausage |  
+| bip_39_word_new_line1 | heavy |  
+| bip_39_word_new_line10 | heavy
+water
+alert
+current
+pyramid
+flight
+budget
+initial
+sausage
+medal |  
+| bip_39_word_new_line11 | heavy
+water
+alert
+current
+pyramid
+flight
+budget
+initial
+sausage
+medal
+gentle |  
+| bip_39_word_new_line12 | heavy
+water
+alert
+current
+pyramid
+flight
+budget
+initial
+sausage
+medal
+gentle
+abstract |  
+| bip_39_word_new_line2 | heavy
+water |  
+| bip_39_word_new_line3 | heavy
+water
+alert |  
+| bip_39_word_new_line4 | heavy
+water
+alert
+current |  
+| bip_39_word_new_line5 | heavy
+water
+alert
+current
+pyramid |  
+| bip_39_word_new_line6 | heavy
+water
+alert
+current
+pyramid
+flight |  
+| bip_39_word_new_line7 | heavy
+water
+alert
+current
+pyramid
+flight
+budget |  
+| bip_39_word_new_line8 | heavy
+water
+alert
+current
+pyramid
+flight
+budget
+initial |  
+| bip_39_word_new_line9 | heavy
+water
+alert
+current
+pyramid
+flight
+budget
+initial
+sausage |  
+| bip_39_word_space_0 | ['heavy', 'water', 'alert', 'current', 'pyramid', 'flight', 'budget', 'initial', 'sausage', 'medal', 'gentle', 'abstract'] |  
+| bip_39_word_space_1 | heavy |  
+| bip_39_word_space_10 | heavy water alert current pyramid flight budget initial sausage medal |  
+| bip_39_word_space_11 | heavy water alert current pyramid flight budget initial sausage medal gentle |  
+| bip_39_word_space_12 | heavy water alert current pyramid flight budget initial sausage medal gentle abstract |  
+| bip_39_word_space_2 | heavy water |  
+| bip_39_word_space_3 | heavy water alert |  
+| bip_39_word_space_4 | heavy water alert current |  
+| bip_39_word_space_5 | heavy water alert current pyramid |  
+| bip_39_word_space_6 | heavy water alert current pyramid flight |  
+| bip_39_word_space_7 | heavy water alert current pyramid flight budget |  
+| bip_39_word_space_8 | heavy water alert current pyramid flight budget initial |  
+| bip_39_word_space_9 | heavy water alert current pyramid flight budget initial sausage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

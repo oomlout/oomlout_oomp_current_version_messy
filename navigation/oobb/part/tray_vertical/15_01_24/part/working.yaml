@@ -1,3 +1,187 @@
+bip_39_word_new_br1: play
+bip_39_word_new_br10: play<br>achieve<br>elder<br>fix<br>mushroom<br>moment<br>private<br>clump<br>sadness<br>six
+bip_39_word_new_br11: play<br>achieve<br>elder<br>fix<br>mushroom<br>moment<br>private<br>clump<br>sadness<br>six<br>breeze
+bip_39_word_new_br12: play<br>achieve<br>elder<br>fix<br>mushroom<br>moment<br>private<br>clump<br>sadness<br>six<br>breeze<br>album
+bip_39_word_new_br2: play<br>achieve
+bip_39_word_new_br3: play<br>achieve<br>elder
+bip_39_word_new_br4: play<br>achieve<br>elder<br>fix
+bip_39_word_new_br5: play<br>achieve<br>elder<br>fix<br>mushroom
+bip_39_word_new_br6: play<br>achieve<br>elder<br>fix<br>mushroom<br>moment
+bip_39_word_new_br7: play<br>achieve<br>elder<br>fix<br>mushroom<br>moment<br>private
+bip_39_word_new_br8: play<br>achieve<br>elder<br>fix<br>mushroom<br>moment<br>private<br>clump
+bip_39_word_new_br9: play<br>achieve<br>elder<br>fix<br>mushroom<br>moment<br>private<br>clump<br>sadness
+bip_39_word_new_line1: play
+bip_39_word_new_line10: 'play
+
+  achieve
+
+  elder
+
+  fix
+
+  mushroom
+
+  moment
+
+  private
+
+  clump
+
+  sadness
+
+  six'
+bip_39_word_new_line11: 'play
+
+  achieve
+
+  elder
+
+  fix
+
+  mushroom
+
+  moment
+
+  private
+
+  clump
+
+  sadness
+
+  six
+
+  breeze'
+bip_39_word_new_line12: 'play
+
+  achieve
+
+  elder
+
+  fix
+
+  mushroom
+
+  moment
+
+  private
+
+  clump
+
+  sadness
+
+  six
+
+  breeze
+
+  album'
+bip_39_word_new_line2: 'play
+
+  achieve'
+bip_39_word_new_line3: 'play
+
+  achieve
+
+  elder'
+bip_39_word_new_line4: 'play
+
+  achieve
+
+  elder
+
+  fix'
+bip_39_word_new_line5: 'play
+
+  achieve
+
+  elder
+
+  fix
+
+  mushroom'
+bip_39_word_new_line6: 'play
+
+  achieve
+
+  elder
+
+  fix
+
+  mushroom
+
+  moment'
+bip_39_word_new_line7: 'play
+
+  achieve
+
+  elder
+
+  fix
+
+  mushroom
+
+  moment
+
+  private'
+bip_39_word_new_line8: 'play
+
+  achieve
+
+  elder
+
+  fix
+
+  mushroom
+
+  moment
+
+  private
+
+  clump'
+bip_39_word_new_line9: 'play
+
+  achieve
+
+  elder
+
+  fix
+
+  mushroom
+
+  moment
+
+  private
+
+  clump
+
+  sadness'
+bip_39_word_space_0:
+- play
+- achieve
+- elder
+- fix
+- mushroom
+- moment
+- private
+- clump
+- sadness
+- six
+- breeze
+- album
+bip_39_word_space_1: play
+bip_39_word_space_10: play achieve elder fix mushroom moment private clump sadness
+  six
+bip_39_word_space_11: play achieve elder fix mushroom moment private clump sadness
+  six breeze
+bip_39_word_space_12: play achieve elder fix mushroom moment private clump sadness
+  six breeze album
+bip_39_word_space_2: play achieve
+bip_39_word_space_3: play achieve elder
+bip_39_word_space_4: play achieve elder fix
+bip_39_word_space_5: play achieve elder fix mushroom
+bip_39_word_space_6: play achieve elder fix mushroom moment
+bip_39_word_space_7: play achieve elder fix mushroom moment private
+bip_39_word_space_8: play achieve elder fix mushroom moment private clump
+bip_39_word_space_9: play achieve elder fix mushroom moment private clump sadness
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

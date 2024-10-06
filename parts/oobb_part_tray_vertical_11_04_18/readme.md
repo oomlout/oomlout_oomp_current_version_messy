@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: word ketchup
+  * bip 39 word 3: word ketchup coast
+  * bip 39 word: word ketchup coast deer undo dice poverty number jaguar ensure input angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | word |  
+| bip_39_word_new_br10 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice<br>poverty<br>number<br>jaguar<br>ensure |  
+| bip_39_word_new_br11 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice<br>poverty<br>number<br>jaguar<br>ensure<br>input |  
+| bip_39_word_new_br12 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice<br>poverty<br>number<br>jaguar<br>ensure<br>input<br>angle |  
+| bip_39_word_new_br2 | word<br>ketchup |  
+| bip_39_word_new_br3 | word<br>ketchup<br>coast |  
+| bip_39_word_new_br4 | word<br>ketchup<br>coast<br>deer |  
+| bip_39_word_new_br5 | word<br>ketchup<br>coast<br>deer<br>undo |  
+| bip_39_word_new_br6 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice |  
+| bip_39_word_new_br7 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice<br>poverty |  
+| bip_39_word_new_br8 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice<br>poverty<br>number |  
+| bip_39_word_new_br9 | word<br>ketchup<br>coast<br>deer<br>undo<br>dice<br>poverty<br>number<br>jaguar |  
+| bip_39_word_new_line1 | word |  
+| bip_39_word_new_line10 | word
+ketchup
+coast
+deer
+undo
+dice
+poverty
+number
+jaguar
+ensure |  
+| bip_39_word_new_line11 | word
+ketchup
+coast
+deer
+undo
+dice
+poverty
+number
+jaguar
+ensure
+input |  
+| bip_39_word_new_line12 | word
+ketchup
+coast
+deer
+undo
+dice
+poverty
+number
+jaguar
+ensure
+input
+angle |  
+| bip_39_word_new_line2 | word
+ketchup |  
+| bip_39_word_new_line3 | word
+ketchup
+coast |  
+| bip_39_word_new_line4 | word
+ketchup
+coast
+deer |  
+| bip_39_word_new_line5 | word
+ketchup
+coast
+deer
+undo |  
+| bip_39_word_new_line6 | word
+ketchup
+coast
+deer
+undo
+dice |  
+| bip_39_word_new_line7 | word
+ketchup
+coast
+deer
+undo
+dice
+poverty |  
+| bip_39_word_new_line8 | word
+ketchup
+coast
+deer
+undo
+dice
+poverty
+number |  
+| bip_39_word_new_line9 | word
+ketchup
+coast
+deer
+undo
+dice
+poverty
+number
+jaguar |  
+| bip_39_word_space_0 | ['word', 'ketchup', 'coast', 'deer', 'undo', 'dice', 'poverty', 'number', 'jaguar', 'ensure', 'input', 'angle'] |  
+| bip_39_word_space_1 | word |  
+| bip_39_word_space_10 | word ketchup coast deer undo dice poverty number jaguar ensure |  
+| bip_39_word_space_11 | word ketchup coast deer undo dice poverty number jaguar ensure input |  
+| bip_39_word_space_12 | word ketchup coast deer undo dice poverty number jaguar ensure input angle |  
+| bip_39_word_space_2 | word ketchup |  
+| bip_39_word_space_3 | word ketchup coast |  
+| bip_39_word_space_4 | word ketchup coast deer |  
+| bip_39_word_space_5 | word ketchup coast deer undo |  
+| bip_39_word_space_6 | word ketchup coast deer undo dice |  
+| bip_39_word_space_7 | word ketchup coast deer undo dice poverty |  
+| bip_39_word_space_8 | word ketchup coast deer undo dice poverty number |  
+| bip_39_word_space_9 | word ketchup coast deer undo dice poverty number jaguar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

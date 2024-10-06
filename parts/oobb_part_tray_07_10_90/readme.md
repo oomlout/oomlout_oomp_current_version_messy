@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: split stand
+  * bip 39 word 3: split stand dynamic
+  * bip 39 word: split stand dynamic repeat cheap ginger sing swap critic grit gift air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | split |  
+| bip_39_word_new_br10 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger<br>sing<br>swap<br>critic<br>grit |  
+| bip_39_word_new_br11 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger<br>sing<br>swap<br>critic<br>grit<br>gift |  
+| bip_39_word_new_br12 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger<br>sing<br>swap<br>critic<br>grit<br>gift<br>air |  
+| bip_39_word_new_br2 | split<br>stand |  
+| bip_39_word_new_br3 | split<br>stand<br>dynamic |  
+| bip_39_word_new_br4 | split<br>stand<br>dynamic<br>repeat |  
+| bip_39_word_new_br5 | split<br>stand<br>dynamic<br>repeat<br>cheap |  
+| bip_39_word_new_br6 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger |  
+| bip_39_word_new_br7 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger<br>sing |  
+| bip_39_word_new_br8 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger<br>sing<br>swap |  
+| bip_39_word_new_br9 | split<br>stand<br>dynamic<br>repeat<br>cheap<br>ginger<br>sing<br>swap<br>critic |  
+| bip_39_word_new_line1 | split |  
+| bip_39_word_new_line10 | split
+stand
+dynamic
+repeat
+cheap
+ginger
+sing
+swap
+critic
+grit |  
+| bip_39_word_new_line11 | split
+stand
+dynamic
+repeat
+cheap
+ginger
+sing
+swap
+critic
+grit
+gift |  
+| bip_39_word_new_line12 | split
+stand
+dynamic
+repeat
+cheap
+ginger
+sing
+swap
+critic
+grit
+gift
+air |  
+| bip_39_word_new_line2 | split
+stand |  
+| bip_39_word_new_line3 | split
+stand
+dynamic |  
+| bip_39_word_new_line4 | split
+stand
+dynamic
+repeat |  
+| bip_39_word_new_line5 | split
+stand
+dynamic
+repeat
+cheap |  
+| bip_39_word_new_line6 | split
+stand
+dynamic
+repeat
+cheap
+ginger |  
+| bip_39_word_new_line7 | split
+stand
+dynamic
+repeat
+cheap
+ginger
+sing |  
+| bip_39_word_new_line8 | split
+stand
+dynamic
+repeat
+cheap
+ginger
+sing
+swap |  
+| bip_39_word_new_line9 | split
+stand
+dynamic
+repeat
+cheap
+ginger
+sing
+swap
+critic |  
+| bip_39_word_space_0 | ['split', 'stand', 'dynamic', 'repeat', 'cheap', 'ginger', 'sing', 'swap', 'critic', 'grit', 'gift', 'air'] |  
+| bip_39_word_space_1 | split |  
+| bip_39_word_space_10 | split stand dynamic repeat cheap ginger sing swap critic grit |  
+| bip_39_word_space_11 | split stand dynamic repeat cheap ginger sing swap critic grit gift |  
+| bip_39_word_space_12 | split stand dynamic repeat cheap ginger sing swap critic grit gift air |  
+| bip_39_word_space_2 | split stand |  
+| bip_39_word_space_3 | split stand dynamic |  
+| bip_39_word_space_4 | split stand dynamic repeat |  
+| bip_39_word_space_5 | split stand dynamic repeat cheap |  
+| bip_39_word_space_6 | split stand dynamic repeat cheap ginger |  
+| bip_39_word_space_7 | split stand dynamic repeat cheap ginger sing |  
+| bip_39_word_space_8 | split stand dynamic repeat cheap ginger sing swap |  
+| bip_39_word_space_9 | split stand dynamic repeat cheap ginger sing swap critic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skull approve
+  * bip 39 word 3: skull approve reform
+  * bip 39 word: skull approve reform tip grow erase vendor name always law day approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skull |  
+| bip_39_word_new_br10 | skull<br>approve<br>reform<br>tip<br>grow<br>erase<br>vendor<br>name<br>always<br>law |  
+| bip_39_word_new_br11 | skull<br>approve<br>reform<br>tip<br>grow<br>erase<br>vendor<br>name<br>always<br>law<br>day |  
+| bip_39_word_new_br12 | skull<br>approve<br>reform<br>tip<br>grow<br>erase<br>vendor<br>name<br>always<br>law<br>day<br>approve |  
+| bip_39_word_new_br2 | skull<br>approve |  
+| bip_39_word_new_br3 | skull<br>approve<br>reform |  
+| bip_39_word_new_br4 | skull<br>approve<br>reform<br>tip |  
+| bip_39_word_new_br5 | skull<br>approve<br>reform<br>tip<br>grow |  
+| bip_39_word_new_br6 | skull<br>approve<br>reform<br>tip<br>grow<br>erase |  
+| bip_39_word_new_br7 | skull<br>approve<br>reform<br>tip<br>grow<br>erase<br>vendor |  
+| bip_39_word_new_br8 | skull<br>approve<br>reform<br>tip<br>grow<br>erase<br>vendor<br>name |  
+| bip_39_word_new_br9 | skull<br>approve<br>reform<br>tip<br>grow<br>erase<br>vendor<br>name<br>always |  
+| bip_39_word_new_line1 | skull |  
+| bip_39_word_new_line10 | skull
+approve
+reform
+tip
+grow
+erase
+vendor
+name
+always
+law |  
+| bip_39_word_new_line11 | skull
+approve
+reform
+tip
+grow
+erase
+vendor
+name
+always
+law
+day |  
+| bip_39_word_new_line12 | skull
+approve
+reform
+tip
+grow
+erase
+vendor
+name
+always
+law
+day
+approve |  
+| bip_39_word_new_line2 | skull
+approve |  
+| bip_39_word_new_line3 | skull
+approve
+reform |  
+| bip_39_word_new_line4 | skull
+approve
+reform
+tip |  
+| bip_39_word_new_line5 | skull
+approve
+reform
+tip
+grow |  
+| bip_39_word_new_line6 | skull
+approve
+reform
+tip
+grow
+erase |  
+| bip_39_word_new_line7 | skull
+approve
+reform
+tip
+grow
+erase
+vendor |  
+| bip_39_word_new_line8 | skull
+approve
+reform
+tip
+grow
+erase
+vendor
+name |  
+| bip_39_word_new_line9 | skull
+approve
+reform
+tip
+grow
+erase
+vendor
+name
+always |  
+| bip_39_word_space_0 | ['skull', 'approve', 'reform', 'tip', 'grow', 'erase', 'vendor', 'name', 'always', 'law', 'day', 'approve'] |  
+| bip_39_word_space_1 | skull |  
+| bip_39_word_space_10 | skull approve reform tip grow erase vendor name always law |  
+| bip_39_word_space_11 | skull approve reform tip grow erase vendor name always law day |  
+| bip_39_word_space_12 | skull approve reform tip grow erase vendor name always law day approve |  
+| bip_39_word_space_2 | skull approve |  
+| bip_39_word_space_3 | skull approve reform |  
+| bip_39_word_space_4 | skull approve reform tip |  
+| bip_39_word_space_5 | skull approve reform tip grow |  
+| bip_39_word_space_6 | skull approve reform tip grow erase |  
+| bip_39_word_space_7 | skull approve reform tip grow erase vendor |  
+| bip_39_word_space_8 | skull approve reform tip grow erase vendor name |  
+| bip_39_word_space_9 | skull approve reform tip grow erase vendor name always |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

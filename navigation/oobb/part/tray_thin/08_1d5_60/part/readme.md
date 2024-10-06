@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: robust donor
+  * bip 39 word 3: robust donor person
+  * bip 39 word: robust donor person sauce recycle water visual clever inside jeans detail acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | robust |  
+| bip_39_word_new_br10 | robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside<br>jeans |  
+| bip_39_word_new_br11 | robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside<br>jeans<br>detail |  
+| bip_39_word_new_br12 | robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside<br>jeans<br>detail<br>acquire |  
+| bip_39_word_new_br2 | robust<br>donor |  
+| bip_39_word_new_br3 | robust<br>donor<br>person |  
+| bip_39_word_new_br4 | robust<br>donor<br>person<br>sauce |  
+| bip_39_word_new_br5 | robust<br>donor<br>person<br>sauce<br>recycle |  
+| bip_39_word_new_br6 | robust<br>donor<br>person<br>sauce<br>recycle<br>water |  
+| bip_39_word_new_br7 | robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual |  
+| bip_39_word_new_br8 | robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever |  
+| bip_39_word_new_br9 | robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside |  
+| bip_39_word_new_line1 | robust |  
+| bip_39_word_new_line10 | robust
+donor
+person
+sauce
+recycle
+water
+visual
+clever
+inside
+jeans |  
+| bip_39_word_new_line11 | robust
+donor
+person
+sauce
+recycle
+water
+visual
+clever
+inside
+jeans
+detail |  
+| bip_39_word_new_line12 | robust
+donor
+person
+sauce
+recycle
+water
+visual
+clever
+inside
+jeans
+detail
+acquire |  
+| bip_39_word_new_line2 | robust
+donor |  
+| bip_39_word_new_line3 | robust
+donor
+person |  
+| bip_39_word_new_line4 | robust
+donor
+person
+sauce |  
+| bip_39_word_new_line5 | robust
+donor
+person
+sauce
+recycle |  
+| bip_39_word_new_line6 | robust
+donor
+person
+sauce
+recycle
+water |  
+| bip_39_word_new_line7 | robust
+donor
+person
+sauce
+recycle
+water
+visual |  
+| bip_39_word_new_line8 | robust
+donor
+person
+sauce
+recycle
+water
+visual
+clever |  
+| bip_39_word_new_line9 | robust
+donor
+person
+sauce
+recycle
+water
+visual
+clever
+inside |  
+| bip_39_word_space_0 | ['robust', 'donor', 'person', 'sauce', 'recycle', 'water', 'visual', 'clever', 'inside', 'jeans', 'detail', 'acquire'] |  
+| bip_39_word_space_1 | robust |  
+| bip_39_word_space_10 | robust donor person sauce recycle water visual clever inside jeans |  
+| bip_39_word_space_11 | robust donor person sauce recycle water visual clever inside jeans detail |  
+| bip_39_word_space_12 | robust donor person sauce recycle water visual clever inside jeans detail acquire |  
+| bip_39_word_space_2 | robust donor |  
+| bip_39_word_space_3 | robust donor person |  
+| bip_39_word_space_4 | robust donor person sauce |  
+| bip_39_word_space_5 | robust donor person sauce recycle |  
+| bip_39_word_space_6 | robust donor person sauce recycle water |  
+| bip_39_word_space_7 | robust donor person sauce recycle water visual |  
+| bip_39_word_space_8 | robust donor person sauce recycle water visual clever |  
+| bip_39_word_space_9 | robust donor person sauce recycle water visual clever inside |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

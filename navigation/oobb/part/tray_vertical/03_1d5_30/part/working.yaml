@@ -1,3 +1,186 @@
+bip_39_word_new_br1: original
+bip_39_word_new_br10: original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla
+bip_39_word_new_br11: original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla<br>peace
+bip_39_word_new_br12: original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false<br>gorilla<br>peace<br>alter
+bip_39_word_new_br2: original<br>yard
+bip_39_word_new_br3: original<br>yard<br>dumb
+bip_39_word_new_br4: original<br>yard<br>dumb<br>aerobic
+bip_39_word_new_br5: original<br>yard<br>dumb<br>aerobic<br>under
+bip_39_word_new_br6: original<br>yard<br>dumb<br>aerobic<br>under<br>room
+bip_39_word_new_br7: original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south
+bip_39_word_new_br8: original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush
+bip_39_word_new_br9: original<br>yard<br>dumb<br>aerobic<br>under<br>room<br>south<br>blush<br>false
+bip_39_word_new_line1: original
+bip_39_word_new_line10: 'original
+
+  yard
+
+  dumb
+
+  aerobic
+
+  under
+
+  room
+
+  south
+
+  blush
+
+  false
+
+  gorilla'
+bip_39_word_new_line11: 'original
+
+  yard
+
+  dumb
+
+  aerobic
+
+  under
+
+  room
+
+  south
+
+  blush
+
+  false
+
+  gorilla
+
+  peace'
+bip_39_word_new_line12: 'original
+
+  yard
+
+  dumb
+
+  aerobic
+
+  under
+
+  room
+
+  south
+
+  blush
+
+  false
+
+  gorilla
+
+  peace
+
+  alter'
+bip_39_word_new_line2: 'original
+
+  yard'
+bip_39_word_new_line3: 'original
+
+  yard
+
+  dumb'
+bip_39_word_new_line4: 'original
+
+  yard
+
+  dumb
+
+  aerobic'
+bip_39_word_new_line5: 'original
+
+  yard
+
+  dumb
+
+  aerobic
+
+  under'
+bip_39_word_new_line6: 'original
+
+  yard
+
+  dumb
+
+  aerobic
+
+  under
+
+  room'
+bip_39_word_new_line7: 'original
+
+  yard
+
+  dumb
+
+  aerobic
+
+  under
+
+  room
+
+  south'
+bip_39_word_new_line8: 'original
+
+  yard
+
+  dumb
+
+  aerobic
+
+  under
+
+  room
+
+  south
+
+  blush'
+bip_39_word_new_line9: 'original
+
+  yard
+
+  dumb
+
+  aerobic
+
+  under
+
+  room
+
+  south
+
+  blush
+
+  false'
+bip_39_word_space_0:
+- original
+- yard
+- dumb
+- aerobic
+- under
+- room
+- south
+- blush
+- 'false'
+- gorilla
+- peace
+- alter
+bip_39_word_space_1: original
+bip_39_word_space_10: original yard dumb aerobic under room south blush false gorilla
+bip_39_word_space_11: original yard dumb aerobic under room south blush false gorilla
+  peace
+bip_39_word_space_12: original yard dumb aerobic under room south blush false gorilla
+  peace alter
+bip_39_word_space_2: original yard
+bip_39_word_space_3: original yard dumb
+bip_39_word_space_4: original yard dumb aerobic
+bip_39_word_space_5: original yard dumb aerobic under
+bip_39_word_space_6: original yard dumb aerobic under room
+bip_39_word_space_7: original yard dumb aerobic under room south
+bip_39_word_space_8: original yard dumb aerobic under room south blush
+bip_39_word_space_9: original yard dumb aerobic under room south blush false
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

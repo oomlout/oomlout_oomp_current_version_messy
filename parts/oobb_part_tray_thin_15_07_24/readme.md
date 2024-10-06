@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jazz conduct
+  * bip 39 word 3: jazz conduct tape
+  * bip 39 word: jazz conduct tape vintage device actor paddle cry embark barrel require arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jazz |  
+| bip_39_word_new_br10 | jazz<br>conduct<br>tape<br>vintage<br>device<br>actor<br>paddle<br>cry<br>embark<br>barrel |  
+| bip_39_word_new_br11 | jazz<br>conduct<br>tape<br>vintage<br>device<br>actor<br>paddle<br>cry<br>embark<br>barrel<br>require |  
+| bip_39_word_new_br12 | jazz<br>conduct<br>tape<br>vintage<br>device<br>actor<br>paddle<br>cry<br>embark<br>barrel<br>require<br>arm |  
+| bip_39_word_new_br2 | jazz<br>conduct |  
+| bip_39_word_new_br3 | jazz<br>conduct<br>tape |  
+| bip_39_word_new_br4 | jazz<br>conduct<br>tape<br>vintage |  
+| bip_39_word_new_br5 | jazz<br>conduct<br>tape<br>vintage<br>device |  
+| bip_39_word_new_br6 | jazz<br>conduct<br>tape<br>vintage<br>device<br>actor |  
+| bip_39_word_new_br7 | jazz<br>conduct<br>tape<br>vintage<br>device<br>actor<br>paddle |  
+| bip_39_word_new_br8 | jazz<br>conduct<br>tape<br>vintage<br>device<br>actor<br>paddle<br>cry |  
+| bip_39_word_new_br9 | jazz<br>conduct<br>tape<br>vintage<br>device<br>actor<br>paddle<br>cry<br>embark |  
+| bip_39_word_new_line1 | jazz |  
+| bip_39_word_new_line10 | jazz
+conduct
+tape
+vintage
+device
+actor
+paddle
+cry
+embark
+barrel |  
+| bip_39_word_new_line11 | jazz
+conduct
+tape
+vintage
+device
+actor
+paddle
+cry
+embark
+barrel
+require |  
+| bip_39_word_new_line12 | jazz
+conduct
+tape
+vintage
+device
+actor
+paddle
+cry
+embark
+barrel
+require
+arm |  
+| bip_39_word_new_line2 | jazz
+conduct |  
+| bip_39_word_new_line3 | jazz
+conduct
+tape |  
+| bip_39_word_new_line4 | jazz
+conduct
+tape
+vintage |  
+| bip_39_word_new_line5 | jazz
+conduct
+tape
+vintage
+device |  
+| bip_39_word_new_line6 | jazz
+conduct
+tape
+vintage
+device
+actor |  
+| bip_39_word_new_line7 | jazz
+conduct
+tape
+vintage
+device
+actor
+paddle |  
+| bip_39_word_new_line8 | jazz
+conduct
+tape
+vintage
+device
+actor
+paddle
+cry |  
+| bip_39_word_new_line9 | jazz
+conduct
+tape
+vintage
+device
+actor
+paddle
+cry
+embark |  
+| bip_39_word_space_0 | ['jazz', 'conduct', 'tape', 'vintage', 'device', 'actor', 'paddle', 'cry', 'embark', 'barrel', 'require', 'arm'] |  
+| bip_39_word_space_1 | jazz |  
+| bip_39_word_space_10 | jazz conduct tape vintage device actor paddle cry embark barrel |  
+| bip_39_word_space_11 | jazz conduct tape vintage device actor paddle cry embark barrel require |  
+| bip_39_word_space_12 | jazz conduct tape vintage device actor paddle cry embark barrel require arm |  
+| bip_39_word_space_2 | jazz conduct |  
+| bip_39_word_space_3 | jazz conduct tape |  
+| bip_39_word_space_4 | jazz conduct tape vintage |  
+| bip_39_word_space_5 | jazz conduct tape vintage device |  
+| bip_39_word_space_6 | jazz conduct tape vintage device actor |  
+| bip_39_word_space_7 | jazz conduct tape vintage device actor paddle |  
+| bip_39_word_space_8 | jazz conduct tape vintage device actor paddle cry |  
+| bip_39_word_space_9 | jazz conduct tape vintage device actor paddle cry embark |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

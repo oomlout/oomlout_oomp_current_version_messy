@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: misery choice
+  * bip 39 word 3: misery choice govern
+  * bip 39 word: misery choice govern model cost crush spend fire twist estate ability aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | misery |  
+| bip_39_word_new_br10 | misery<br>choice<br>govern<br>model<br>cost<br>crush<br>spend<br>fire<br>twist<br>estate |  
+| bip_39_word_new_br11 | misery<br>choice<br>govern<br>model<br>cost<br>crush<br>spend<br>fire<br>twist<br>estate<br>ability |  
+| bip_39_word_new_br12 | misery<br>choice<br>govern<br>model<br>cost<br>crush<br>spend<br>fire<br>twist<br>estate<br>ability<br>aspect |  
+| bip_39_word_new_br2 | misery<br>choice |  
+| bip_39_word_new_br3 | misery<br>choice<br>govern |  
+| bip_39_word_new_br4 | misery<br>choice<br>govern<br>model |  
+| bip_39_word_new_br5 | misery<br>choice<br>govern<br>model<br>cost |  
+| bip_39_word_new_br6 | misery<br>choice<br>govern<br>model<br>cost<br>crush |  
+| bip_39_word_new_br7 | misery<br>choice<br>govern<br>model<br>cost<br>crush<br>spend |  
+| bip_39_word_new_br8 | misery<br>choice<br>govern<br>model<br>cost<br>crush<br>spend<br>fire |  
+| bip_39_word_new_br9 | misery<br>choice<br>govern<br>model<br>cost<br>crush<br>spend<br>fire<br>twist |  
+| bip_39_word_new_line1 | misery |  
+| bip_39_word_new_line10 | misery
+choice
+govern
+model
+cost
+crush
+spend
+fire
+twist
+estate |  
+| bip_39_word_new_line11 | misery
+choice
+govern
+model
+cost
+crush
+spend
+fire
+twist
+estate
+ability |  
+| bip_39_word_new_line12 | misery
+choice
+govern
+model
+cost
+crush
+spend
+fire
+twist
+estate
+ability
+aspect |  
+| bip_39_word_new_line2 | misery
+choice |  
+| bip_39_word_new_line3 | misery
+choice
+govern |  
+| bip_39_word_new_line4 | misery
+choice
+govern
+model |  
+| bip_39_word_new_line5 | misery
+choice
+govern
+model
+cost |  
+| bip_39_word_new_line6 | misery
+choice
+govern
+model
+cost
+crush |  
+| bip_39_word_new_line7 | misery
+choice
+govern
+model
+cost
+crush
+spend |  
+| bip_39_word_new_line8 | misery
+choice
+govern
+model
+cost
+crush
+spend
+fire |  
+| bip_39_word_new_line9 | misery
+choice
+govern
+model
+cost
+crush
+spend
+fire
+twist |  
+| bip_39_word_space_0 | ['misery', 'choice', 'govern', 'model', 'cost', 'crush', 'spend', 'fire', 'twist', 'estate', 'ability', 'aspect'] |  
+| bip_39_word_space_1 | misery |  
+| bip_39_word_space_10 | misery choice govern model cost crush spend fire twist estate |  
+| bip_39_word_space_11 | misery choice govern model cost crush spend fire twist estate ability |  
+| bip_39_word_space_12 | misery choice govern model cost crush spend fire twist estate ability aspect |  
+| bip_39_word_space_2 | misery choice |  
+| bip_39_word_space_3 | misery choice govern |  
+| bip_39_word_space_4 | misery choice govern model |  
+| bip_39_word_space_5 | misery choice govern model cost |  
+| bip_39_word_space_6 | misery choice govern model cost crush |  
+| bip_39_word_space_7 | misery choice govern model cost crush spend |  
+| bip_39_word_space_8 | misery choice govern model cost crush spend fire |  
+| bip_39_word_space_9 | misery choice govern model cost crush spend fire twist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

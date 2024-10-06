@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deposit fiscal
+  * bip 39 word 3: deposit fiscal ten
+  * bip 39 word: deposit fiscal ten pupil you garage tomorrow stable shaft limb immense anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deposit |  
+| bip_39_word_new_br10 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb |  
+| bip_39_word_new_br11 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb<br>immense |  
+| bip_39_word_new_br12 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft<br>limb<br>immense<br>anxiety |  
+| bip_39_word_new_br2 | deposit<br>fiscal |  
+| bip_39_word_new_br3 | deposit<br>fiscal<br>ten |  
+| bip_39_word_new_br4 | deposit<br>fiscal<br>ten<br>pupil |  
+| bip_39_word_new_br5 | deposit<br>fiscal<br>ten<br>pupil<br>you |  
+| bip_39_word_new_br6 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage |  
+| bip_39_word_new_br7 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow |  
+| bip_39_word_new_br8 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable |  
+| bip_39_word_new_br9 | deposit<br>fiscal<br>ten<br>pupil<br>you<br>garage<br>tomorrow<br>stable<br>shaft |  
+| bip_39_word_new_line1 | deposit |  
+| bip_39_word_new_line10 | deposit
+fiscal
+ten
+pupil
+you
+garage
+tomorrow
+stable
+shaft
+limb |  
+| bip_39_word_new_line11 | deposit
+fiscal
+ten
+pupil
+you
+garage
+tomorrow
+stable
+shaft
+limb
+immense |  
+| bip_39_word_new_line12 | deposit
+fiscal
+ten
+pupil
+you
+garage
+tomorrow
+stable
+shaft
+limb
+immense
+anxiety |  
+| bip_39_word_new_line2 | deposit
+fiscal |  
+| bip_39_word_new_line3 | deposit
+fiscal
+ten |  
+| bip_39_word_new_line4 | deposit
+fiscal
+ten
+pupil |  
+| bip_39_word_new_line5 | deposit
+fiscal
+ten
+pupil
+you |  
+| bip_39_word_new_line6 | deposit
+fiscal
+ten
+pupil
+you
+garage |  
+| bip_39_word_new_line7 | deposit
+fiscal
+ten
+pupil
+you
+garage
+tomorrow |  
+| bip_39_word_new_line8 | deposit
+fiscal
+ten
+pupil
+you
+garage
+tomorrow
+stable |  
+| bip_39_word_new_line9 | deposit
+fiscal
+ten
+pupil
+you
+garage
+tomorrow
+stable
+shaft |  
+| bip_39_word_space_0 | ['deposit', 'fiscal', 'ten', 'pupil', 'you', 'garage', 'tomorrow', 'stable', 'shaft', 'limb', 'immense', 'anxiety'] |  
+| bip_39_word_space_1 | deposit |  
+| bip_39_word_space_10 | deposit fiscal ten pupil you garage tomorrow stable shaft limb |  
+| bip_39_word_space_11 | deposit fiscal ten pupil you garage tomorrow stable shaft limb immense |  
+| bip_39_word_space_12 | deposit fiscal ten pupil you garage tomorrow stable shaft limb immense anxiety |  
+| bip_39_word_space_2 | deposit fiscal |  
+| bip_39_word_space_3 | deposit fiscal ten |  
+| bip_39_word_space_4 | deposit fiscal ten pupil |  
+| bip_39_word_space_5 | deposit fiscal ten pupil you |  
+| bip_39_word_space_6 | deposit fiscal ten pupil you garage |  
+| bip_39_word_space_7 | deposit fiscal ten pupil you garage tomorrow |  
+| bip_39_word_space_8 | deposit fiscal ten pupil you garage tomorrow stable |  
+| bip_39_word_space_9 | deposit fiscal ten pupil you garage tomorrow stable shaft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: local wrap
+  * bip 39 word 3: local wrap lock
+  * bip 39 word: local wrap lock just wolf electric photo depend match media hedgehog abuse
 
 ### other_codes
 * short_code: sc2d5b20h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | local |  
+| bip_39_word_new_br10 | local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend<br>match<br>media |  
+| bip_39_word_new_br11 | local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend<br>match<br>media<br>hedgehog |  
+| bip_39_word_new_br12 | local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend<br>match<br>media<br>hedgehog<br>abuse |  
+| bip_39_word_new_br2 | local<br>wrap |  
+| bip_39_word_new_br3 | local<br>wrap<br>lock |  
+| bip_39_word_new_br4 | local<br>wrap<br>lock<br>just |  
+| bip_39_word_new_br5 | local<br>wrap<br>lock<br>just<br>wolf |  
+| bip_39_word_new_br6 | local<br>wrap<br>lock<br>just<br>wolf<br>electric |  
+| bip_39_word_new_br7 | local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo |  
+| bip_39_word_new_br8 | local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend |  
+| bip_39_word_new_br9 | local<br>wrap<br>lock<br>just<br>wolf<br>electric<br>photo<br>depend<br>match |  
+| bip_39_word_new_line1 | local |  
+| bip_39_word_new_line10 | local
+wrap
+lock
+just
+wolf
+electric
+photo
+depend
+match
+media |  
+| bip_39_word_new_line11 | local
+wrap
+lock
+just
+wolf
+electric
+photo
+depend
+match
+media
+hedgehog |  
+| bip_39_word_new_line12 | local
+wrap
+lock
+just
+wolf
+electric
+photo
+depend
+match
+media
+hedgehog
+abuse |  
+| bip_39_word_new_line2 | local
+wrap |  
+| bip_39_word_new_line3 | local
+wrap
+lock |  
+| bip_39_word_new_line4 | local
+wrap
+lock
+just |  
+| bip_39_word_new_line5 | local
+wrap
+lock
+just
+wolf |  
+| bip_39_word_new_line6 | local
+wrap
+lock
+just
+wolf
+electric |  
+| bip_39_word_new_line7 | local
+wrap
+lock
+just
+wolf
+electric
+photo |  
+| bip_39_word_new_line8 | local
+wrap
+lock
+just
+wolf
+electric
+photo
+depend |  
+| bip_39_word_new_line9 | local
+wrap
+lock
+just
+wolf
+electric
+photo
+depend
+match |  
+| bip_39_word_space_0 | ['local', 'wrap', 'lock', 'just', 'wolf', 'electric', 'photo', 'depend', 'match', 'media', 'hedgehog', 'abuse'] |  
+| bip_39_word_space_1 | local |  
+| bip_39_word_space_10 | local wrap lock just wolf electric photo depend match media |  
+| bip_39_word_space_11 | local wrap lock just wolf electric photo depend match media hedgehog |  
+| bip_39_word_space_12 | local wrap lock just wolf electric photo depend match media hedgehog abuse |  
+| bip_39_word_space_2 | local wrap |  
+| bip_39_word_space_3 | local wrap lock |  
+| bip_39_word_space_4 | local wrap lock just |  
+| bip_39_word_space_5 | local wrap lock just wolf |  
+| bip_39_word_space_6 | local wrap lock just wolf electric |  
+| bip_39_word_space_7 | local wrap lock just wolf electric photo |  
+| bip_39_word_space_8 | local wrap lock just wolf electric photo depend |  
+| bip_39_word_space_9 | local wrap lock just wolf electric photo depend match |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tilt
+bip_39_word_new_br10: tilt<br>develop<br>oval<br>illness<br>either<br>armor<br>tackle<br>pole<br>example<br>asthma
+bip_39_word_new_br11: tilt<br>develop<br>oval<br>illness<br>either<br>armor<br>tackle<br>pole<br>example<br>asthma<br>blade
+bip_39_word_new_br12: tilt<br>develop<br>oval<br>illness<br>either<br>armor<br>tackle<br>pole<br>example<br>asthma<br>blade<br>actual
+bip_39_word_new_br2: tilt<br>develop
+bip_39_word_new_br3: tilt<br>develop<br>oval
+bip_39_word_new_br4: tilt<br>develop<br>oval<br>illness
+bip_39_word_new_br5: tilt<br>develop<br>oval<br>illness<br>either
+bip_39_word_new_br6: tilt<br>develop<br>oval<br>illness<br>either<br>armor
+bip_39_word_new_br7: tilt<br>develop<br>oval<br>illness<br>either<br>armor<br>tackle
+bip_39_word_new_br8: tilt<br>develop<br>oval<br>illness<br>either<br>armor<br>tackle<br>pole
+bip_39_word_new_br9: tilt<br>develop<br>oval<br>illness<br>either<br>armor<br>tackle<br>pole<br>example
+bip_39_word_new_line1: tilt
+bip_39_word_new_line10: 'tilt
+
+  develop
+
+  oval
+
+  illness
+
+  either
+
+  armor
+
+  tackle
+
+  pole
+
+  example
+
+  asthma'
+bip_39_word_new_line11: 'tilt
+
+  develop
+
+  oval
+
+  illness
+
+  either
+
+  armor
+
+  tackle
+
+  pole
+
+  example
+
+  asthma
+
+  blade'
+bip_39_word_new_line12: 'tilt
+
+  develop
+
+  oval
+
+  illness
+
+  either
+
+  armor
+
+  tackle
+
+  pole
+
+  example
+
+  asthma
+
+  blade
+
+  actual'
+bip_39_word_new_line2: 'tilt
+
+  develop'
+bip_39_word_new_line3: 'tilt
+
+  develop
+
+  oval'
+bip_39_word_new_line4: 'tilt
+
+  develop
+
+  oval
+
+  illness'
+bip_39_word_new_line5: 'tilt
+
+  develop
+
+  oval
+
+  illness
+
+  either'
+bip_39_word_new_line6: 'tilt
+
+  develop
+
+  oval
+
+  illness
+
+  either
+
+  armor'
+bip_39_word_new_line7: 'tilt
+
+  develop
+
+  oval
+
+  illness
+
+  either
+
+  armor
+
+  tackle'
+bip_39_word_new_line8: 'tilt
+
+  develop
+
+  oval
+
+  illness
+
+  either
+
+  armor
+
+  tackle
+
+  pole'
+bip_39_word_new_line9: 'tilt
+
+  develop
+
+  oval
+
+  illness
+
+  either
+
+  armor
+
+  tackle
+
+  pole
+
+  example'
+bip_39_word_space_0:
+- tilt
+- develop
+- oval
+- illness
+- either
+- armor
+- tackle
+- pole
+- example
+- asthma
+- blade
+- actual
+bip_39_word_space_1: tilt
+bip_39_word_space_10: tilt develop oval illness either armor tackle pole example asthma
+bip_39_word_space_11: tilt develop oval illness either armor tackle pole example asthma
+  blade
+bip_39_word_space_12: tilt develop oval illness either armor tackle pole example asthma
+  blade actual
+bip_39_word_space_2: tilt develop
+bip_39_word_space_3: tilt develop oval
+bip_39_word_space_4: tilt develop oval illness
+bip_39_word_space_5: tilt develop oval illness either
+bip_39_word_space_6: tilt develop oval illness either armor
+bip_39_word_space_7: tilt develop oval illness either armor tackle
+bip_39_word_space_8: tilt develop oval illness either armor tackle pole
+bip_39_word_space_9: tilt develop oval illness either armor tackle pole example
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

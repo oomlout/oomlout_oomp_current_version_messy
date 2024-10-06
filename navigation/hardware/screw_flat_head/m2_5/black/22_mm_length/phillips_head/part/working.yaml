@@ -1,3 +1,185 @@
+bip_39_word_new_br1: diet
+bip_39_word_new_br10: diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval
+bip_39_word_new_br11: diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval<br>steel
+bip_39_word_new_br12: diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge<br>oval<br>steel<br>assist
+bip_39_word_new_br2: diet<br>sun
+bip_39_word_new_br3: diet<br>sun<br>clown
+bip_39_word_new_br4: diet<br>sun<br>clown<br>vanish
+bip_39_word_new_br5: diet<br>sun<br>clown<br>vanish<br>rail
+bip_39_word_new_br6: diet<br>sun<br>clown<br>vanish<br>rail<br>tip
+bip_39_word_new_br7: diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl
+bip_39_word_new_br8: diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely
+bip_39_word_new_br9: diet<br>sun<br>clown<br>vanish<br>rail<br>tip<br>crawl<br>barely<br>huge
+bip_39_word_new_line1: diet
+bip_39_word_new_line10: 'diet
+
+  sun
+
+  clown
+
+  vanish
+
+  rail
+
+  tip
+
+  crawl
+
+  barely
+
+  huge
+
+  oval'
+bip_39_word_new_line11: 'diet
+
+  sun
+
+  clown
+
+  vanish
+
+  rail
+
+  tip
+
+  crawl
+
+  barely
+
+  huge
+
+  oval
+
+  steel'
+bip_39_word_new_line12: 'diet
+
+  sun
+
+  clown
+
+  vanish
+
+  rail
+
+  tip
+
+  crawl
+
+  barely
+
+  huge
+
+  oval
+
+  steel
+
+  assist'
+bip_39_word_new_line2: 'diet
+
+  sun'
+bip_39_word_new_line3: 'diet
+
+  sun
+
+  clown'
+bip_39_word_new_line4: 'diet
+
+  sun
+
+  clown
+
+  vanish'
+bip_39_word_new_line5: 'diet
+
+  sun
+
+  clown
+
+  vanish
+
+  rail'
+bip_39_word_new_line6: 'diet
+
+  sun
+
+  clown
+
+  vanish
+
+  rail
+
+  tip'
+bip_39_word_new_line7: 'diet
+
+  sun
+
+  clown
+
+  vanish
+
+  rail
+
+  tip
+
+  crawl'
+bip_39_word_new_line8: 'diet
+
+  sun
+
+  clown
+
+  vanish
+
+  rail
+
+  tip
+
+  crawl
+
+  barely'
+bip_39_word_new_line9: 'diet
+
+  sun
+
+  clown
+
+  vanish
+
+  rail
+
+  tip
+
+  crawl
+
+  barely
+
+  huge'
+bip_39_word_space_0:
+- diet
+- sun
+- clown
+- vanish
+- rail
+- tip
+- crawl
+- barely
+- huge
+- oval
+- steel
+- assist
+bip_39_word_space_1: diet
+bip_39_word_space_10: diet sun clown vanish rail tip crawl barely huge oval
+bip_39_word_space_11: diet sun clown vanish rail tip crawl barely huge oval steel
+bip_39_word_space_12: diet sun clown vanish rail tip crawl barely huge oval steel
+  assist
+bip_39_word_space_2: diet sun
+bip_39_word_space_3: diet sun clown
+bip_39_word_space_4: diet sun clown vanish
+bip_39_word_space_5: diet sun clown vanish rail
+bip_39_word_space_6: diet sun clown vanish rail tip
+bip_39_word_space_7: diet sun clown vanish rail tip crawl
+bip_39_word_space_8: diet sun clown vanish rail tip crawl barely
+bip_39_word_space_9: diet sun clown vanish rail tip crawl barely huge
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

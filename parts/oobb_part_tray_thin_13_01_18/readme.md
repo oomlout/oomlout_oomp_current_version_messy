@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gain filter
+  * bip 39 word 3: gain filter chimney
+  * bip 39 word: gain filter chimney face rival pulse citizen palace exhibit recycle interest admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gain |  
+| bip_39_word_new_br10 | gain<br>filter<br>chimney<br>face<br>rival<br>pulse<br>citizen<br>palace<br>exhibit<br>recycle |  
+| bip_39_word_new_br11 | gain<br>filter<br>chimney<br>face<br>rival<br>pulse<br>citizen<br>palace<br>exhibit<br>recycle<br>interest |  
+| bip_39_word_new_br12 | gain<br>filter<br>chimney<br>face<br>rival<br>pulse<br>citizen<br>palace<br>exhibit<br>recycle<br>interest<br>admit |  
+| bip_39_word_new_br2 | gain<br>filter |  
+| bip_39_word_new_br3 | gain<br>filter<br>chimney |  
+| bip_39_word_new_br4 | gain<br>filter<br>chimney<br>face |  
+| bip_39_word_new_br5 | gain<br>filter<br>chimney<br>face<br>rival |  
+| bip_39_word_new_br6 | gain<br>filter<br>chimney<br>face<br>rival<br>pulse |  
+| bip_39_word_new_br7 | gain<br>filter<br>chimney<br>face<br>rival<br>pulse<br>citizen |  
+| bip_39_word_new_br8 | gain<br>filter<br>chimney<br>face<br>rival<br>pulse<br>citizen<br>palace |  
+| bip_39_word_new_br9 | gain<br>filter<br>chimney<br>face<br>rival<br>pulse<br>citizen<br>palace<br>exhibit |  
+| bip_39_word_new_line1 | gain |  
+| bip_39_word_new_line10 | gain
+filter
+chimney
+face
+rival
+pulse
+citizen
+palace
+exhibit
+recycle |  
+| bip_39_word_new_line11 | gain
+filter
+chimney
+face
+rival
+pulse
+citizen
+palace
+exhibit
+recycle
+interest |  
+| bip_39_word_new_line12 | gain
+filter
+chimney
+face
+rival
+pulse
+citizen
+palace
+exhibit
+recycle
+interest
+admit |  
+| bip_39_word_new_line2 | gain
+filter |  
+| bip_39_word_new_line3 | gain
+filter
+chimney |  
+| bip_39_word_new_line4 | gain
+filter
+chimney
+face |  
+| bip_39_word_new_line5 | gain
+filter
+chimney
+face
+rival |  
+| bip_39_word_new_line6 | gain
+filter
+chimney
+face
+rival
+pulse |  
+| bip_39_word_new_line7 | gain
+filter
+chimney
+face
+rival
+pulse
+citizen |  
+| bip_39_word_new_line8 | gain
+filter
+chimney
+face
+rival
+pulse
+citizen
+palace |  
+| bip_39_word_new_line9 | gain
+filter
+chimney
+face
+rival
+pulse
+citizen
+palace
+exhibit |  
+| bip_39_word_space_0 | ['gain', 'filter', 'chimney', 'face', 'rival', 'pulse', 'citizen', 'palace', 'exhibit', 'recycle', 'interest', 'admit'] |  
+| bip_39_word_space_1 | gain |  
+| bip_39_word_space_10 | gain filter chimney face rival pulse citizen palace exhibit recycle |  
+| bip_39_word_space_11 | gain filter chimney face rival pulse citizen palace exhibit recycle interest |  
+| bip_39_word_space_12 | gain filter chimney face rival pulse citizen palace exhibit recycle interest admit |  
+| bip_39_word_space_2 | gain filter |  
+| bip_39_word_space_3 | gain filter chimney |  
+| bip_39_word_space_4 | gain filter chimney face |  
+| bip_39_word_space_5 | gain filter chimney face rival |  
+| bip_39_word_space_6 | gain filter chimney face rival pulse |  
+| bip_39_word_space_7 | gain filter chimney face rival pulse citizen |  
+| bip_39_word_space_8 | gain filter chimney face rival pulse citizen palace |  
+| bip_39_word_space_9 | gain filter chimney face rival pulse citizen palace exhibit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

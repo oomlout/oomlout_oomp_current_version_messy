@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wide
+bip_39_word_new_br10: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide
+bip_39_word_new_br11: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide<br>wrestle
+bip_39_word_new_br12: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise<br>provide<br>wrestle<br>all
+bip_39_word_new_br2: wide<br>script
+bip_39_word_new_br3: wide<br>script<br>axis
+bip_39_word_new_br4: wide<br>script<br>axis<br>reveal
+bip_39_word_new_br5: wide<br>script<br>axis<br>reveal<br>portion
+bip_39_word_new_br6: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum
+bip_39_word_new_br7: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave
+bip_39_word_new_br8: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail
+bip_39_word_new_br9: wide<br>script<br>axis<br>reveal<br>portion<br>vacuum<br>leave<br>mail<br>exercise
+bip_39_word_new_line1: wide
+bip_39_word_new_line10: 'wide
+
+  script
+
+  axis
+
+  reveal
+
+  portion
+
+  vacuum
+
+  leave
+
+  mail
+
+  exercise
+
+  provide'
+bip_39_word_new_line11: 'wide
+
+  script
+
+  axis
+
+  reveal
+
+  portion
+
+  vacuum
+
+  leave
+
+  mail
+
+  exercise
+
+  provide
+
+  wrestle'
+bip_39_word_new_line12: 'wide
+
+  script
+
+  axis
+
+  reveal
+
+  portion
+
+  vacuum
+
+  leave
+
+  mail
+
+  exercise
+
+  provide
+
+  wrestle
+
+  all'
+bip_39_word_new_line2: 'wide
+
+  script'
+bip_39_word_new_line3: 'wide
+
+  script
+
+  axis'
+bip_39_word_new_line4: 'wide
+
+  script
+
+  axis
+
+  reveal'
+bip_39_word_new_line5: 'wide
+
+  script
+
+  axis
+
+  reveal
+
+  portion'
+bip_39_word_new_line6: 'wide
+
+  script
+
+  axis
+
+  reveal
+
+  portion
+
+  vacuum'
+bip_39_word_new_line7: 'wide
+
+  script
+
+  axis
+
+  reveal
+
+  portion
+
+  vacuum
+
+  leave'
+bip_39_word_new_line8: 'wide
+
+  script
+
+  axis
+
+  reveal
+
+  portion
+
+  vacuum
+
+  leave
+
+  mail'
+bip_39_word_new_line9: 'wide
+
+  script
+
+  axis
+
+  reveal
+
+  portion
+
+  vacuum
+
+  leave
+
+  mail
+
+  exercise'
+bip_39_word_space_0:
+- wide
+- script
+- axis
+- reveal
+- portion
+- vacuum
+- leave
+- mail
+- exercise
+- provide
+- wrestle
+- all
+bip_39_word_space_1: wide
+bip_39_word_space_10: wide script axis reveal portion vacuum leave mail exercise provide
+bip_39_word_space_11: wide script axis reveal portion vacuum leave mail exercise provide
+  wrestle
+bip_39_word_space_12: wide script axis reveal portion vacuum leave mail exercise provide
+  wrestle all
+bip_39_word_space_2: wide script
+bip_39_word_space_3: wide script axis
+bip_39_word_space_4: wide script axis reveal
+bip_39_word_space_5: wide script axis reveal portion
+bip_39_word_space_6: wide script axis reveal portion vacuum
+bip_39_word_space_7: wide script axis reveal portion vacuum leave
+bip_39_word_space_8: wide script axis reveal portion vacuum leave mail
+bip_39_word_space_9: wide script axis reveal portion vacuum leave mail exercise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

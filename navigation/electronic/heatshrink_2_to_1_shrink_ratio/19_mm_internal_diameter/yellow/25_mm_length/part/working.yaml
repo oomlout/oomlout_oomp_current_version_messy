@@ -1,3 +1,186 @@
+bip_39_word_new_br1: middle
+bip_39_word_new_br10: middle<br>ceiling<br>vanish<br>off<br>vague<br>warm<br>mail<br>evoke<br>claim<br>range
+bip_39_word_new_br11: middle<br>ceiling<br>vanish<br>off<br>vague<br>warm<br>mail<br>evoke<br>claim<br>range<br>grunt
+bip_39_word_new_br12: middle<br>ceiling<br>vanish<br>off<br>vague<br>warm<br>mail<br>evoke<br>claim<br>range<br>grunt<br>attract
+bip_39_word_new_br2: middle<br>ceiling
+bip_39_word_new_br3: middle<br>ceiling<br>vanish
+bip_39_word_new_br4: middle<br>ceiling<br>vanish<br>off
+bip_39_word_new_br5: middle<br>ceiling<br>vanish<br>off<br>vague
+bip_39_word_new_br6: middle<br>ceiling<br>vanish<br>off<br>vague<br>warm
+bip_39_word_new_br7: middle<br>ceiling<br>vanish<br>off<br>vague<br>warm<br>mail
+bip_39_word_new_br8: middle<br>ceiling<br>vanish<br>off<br>vague<br>warm<br>mail<br>evoke
+bip_39_word_new_br9: middle<br>ceiling<br>vanish<br>off<br>vague<br>warm<br>mail<br>evoke<br>claim
+bip_39_word_new_line1: middle
+bip_39_word_new_line10: 'middle
+
+  ceiling
+
+  vanish
+
+  off
+
+  vague
+
+  warm
+
+  mail
+
+  evoke
+
+  claim
+
+  range'
+bip_39_word_new_line11: 'middle
+
+  ceiling
+
+  vanish
+
+  off
+
+  vague
+
+  warm
+
+  mail
+
+  evoke
+
+  claim
+
+  range
+
+  grunt'
+bip_39_word_new_line12: 'middle
+
+  ceiling
+
+  vanish
+
+  off
+
+  vague
+
+  warm
+
+  mail
+
+  evoke
+
+  claim
+
+  range
+
+  grunt
+
+  attract'
+bip_39_word_new_line2: 'middle
+
+  ceiling'
+bip_39_word_new_line3: 'middle
+
+  ceiling
+
+  vanish'
+bip_39_word_new_line4: 'middle
+
+  ceiling
+
+  vanish
+
+  off'
+bip_39_word_new_line5: 'middle
+
+  ceiling
+
+  vanish
+
+  off
+
+  vague'
+bip_39_word_new_line6: 'middle
+
+  ceiling
+
+  vanish
+
+  off
+
+  vague
+
+  warm'
+bip_39_word_new_line7: 'middle
+
+  ceiling
+
+  vanish
+
+  off
+
+  vague
+
+  warm
+
+  mail'
+bip_39_word_new_line8: 'middle
+
+  ceiling
+
+  vanish
+
+  off
+
+  vague
+
+  warm
+
+  mail
+
+  evoke'
+bip_39_word_new_line9: 'middle
+
+  ceiling
+
+  vanish
+
+  off
+
+  vague
+
+  warm
+
+  mail
+
+  evoke
+
+  claim'
+bip_39_word_space_0:
+- middle
+- ceiling
+- vanish
+- 'off'
+- vague
+- warm
+- mail
+- evoke
+- claim
+- range
+- grunt
+- attract
+bip_39_word_space_1: middle
+bip_39_word_space_10: middle ceiling vanish off vague warm mail evoke claim range
+bip_39_word_space_11: middle ceiling vanish off vague warm mail evoke claim range
+  grunt
+bip_39_word_space_12: middle ceiling vanish off vague warm mail evoke claim range
+  grunt attract
+bip_39_word_space_2: middle ceiling
+bip_39_word_space_3: middle ceiling vanish
+bip_39_word_space_4: middle ceiling vanish off
+bip_39_word_space_5: middle ceiling vanish off vague
+bip_39_word_space_6: middle ceiling vanish off vague warm
+bip_39_word_space_7: middle ceiling vanish off vague warm mail
+bip_39_word_space_8: middle ceiling vanish off vague warm mail evoke
+bip_39_word_space_9: middle ceiling vanish off vague warm mail evoke claim
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

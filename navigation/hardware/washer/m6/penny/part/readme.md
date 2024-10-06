@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: engine royal
+  * bip 39 word 3: engine royal awesome
+  * bip 39 word: engine royal awesome vocal margin expose beauty three choice have truly arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | engine |  
+| bip_39_word_new_br10 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose<br>beauty<br>three<br>choice<br>have |  
+| bip_39_word_new_br11 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose<br>beauty<br>three<br>choice<br>have<br>truly |  
+| bip_39_word_new_br12 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose<br>beauty<br>three<br>choice<br>have<br>truly<br>arrest |  
+| bip_39_word_new_br2 | engine<br>royal |  
+| bip_39_word_new_br3 | engine<br>royal<br>awesome |  
+| bip_39_word_new_br4 | engine<br>royal<br>awesome<br>vocal |  
+| bip_39_word_new_br5 | engine<br>royal<br>awesome<br>vocal<br>margin |  
+| bip_39_word_new_br6 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose |  
+| bip_39_word_new_br7 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose<br>beauty |  
+| bip_39_word_new_br8 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose<br>beauty<br>three |  
+| bip_39_word_new_br9 | engine<br>royal<br>awesome<br>vocal<br>margin<br>expose<br>beauty<br>three<br>choice |  
+| bip_39_word_new_line1 | engine |  
+| bip_39_word_new_line10 | engine
+royal
+awesome
+vocal
+margin
+expose
+beauty
+three
+choice
+have |  
+| bip_39_word_new_line11 | engine
+royal
+awesome
+vocal
+margin
+expose
+beauty
+three
+choice
+have
+truly |  
+| bip_39_word_new_line12 | engine
+royal
+awesome
+vocal
+margin
+expose
+beauty
+three
+choice
+have
+truly
+arrest |  
+| bip_39_word_new_line2 | engine
+royal |  
+| bip_39_word_new_line3 | engine
+royal
+awesome |  
+| bip_39_word_new_line4 | engine
+royal
+awesome
+vocal |  
+| bip_39_word_new_line5 | engine
+royal
+awesome
+vocal
+margin |  
+| bip_39_word_new_line6 | engine
+royal
+awesome
+vocal
+margin
+expose |  
+| bip_39_word_new_line7 | engine
+royal
+awesome
+vocal
+margin
+expose
+beauty |  
+| bip_39_word_new_line8 | engine
+royal
+awesome
+vocal
+margin
+expose
+beauty
+three |  
+| bip_39_word_new_line9 | engine
+royal
+awesome
+vocal
+margin
+expose
+beauty
+three
+choice |  
+| bip_39_word_space_0 | ['engine', 'royal', 'awesome', 'vocal', 'margin', 'expose', 'beauty', 'three', 'choice', 'have', 'truly', 'arrest'] |  
+| bip_39_word_space_1 | engine |  
+| bip_39_word_space_10 | engine royal awesome vocal margin expose beauty three choice have |  
+| bip_39_word_space_11 | engine royal awesome vocal margin expose beauty three choice have truly |  
+| bip_39_word_space_12 | engine royal awesome vocal margin expose beauty three choice have truly arrest |  
+| bip_39_word_space_2 | engine royal |  
+| bip_39_word_space_3 | engine royal awesome |  
+| bip_39_word_space_4 | engine royal awesome vocal |  
+| bip_39_word_space_5 | engine royal awesome vocal margin |  
+| bip_39_word_space_6 | engine royal awesome vocal margin expose |  
+| bip_39_word_space_7 | engine royal awesome vocal margin expose beauty |  
+| bip_39_word_space_8 | engine royal awesome vocal margin expose beauty three |  
+| bip_39_word_space_9 | engine royal awesome vocal margin expose beauty three choice |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

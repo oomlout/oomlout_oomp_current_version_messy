@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: dewalt
   * part_number: dc988
+  * bip 39 word 2: beef bracket
+  * bip 39 word 3: beef bracket elevator
+  * bip 39 word: beef bracket elevator smooth pig vehicle frame napkin soft try various area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | beef |  
+| bip_39_word_new_br10 | beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle<br>frame<br>napkin<br>soft<br>try |  
+| bip_39_word_new_br11 | beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle<br>frame<br>napkin<br>soft<br>try<br>various |  
+| bip_39_word_new_br12 | beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle<br>frame<br>napkin<br>soft<br>try<br>various<br>area |  
+| bip_39_word_new_br2 | beef<br>bracket |  
+| bip_39_word_new_br3 | beef<br>bracket<br>elevator |  
+| bip_39_word_new_br4 | beef<br>bracket<br>elevator<br>smooth |  
+| bip_39_word_new_br5 | beef<br>bracket<br>elevator<br>smooth<br>pig |  
+| bip_39_word_new_br6 | beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle |  
+| bip_39_word_new_br7 | beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle<br>frame |  
+| bip_39_word_new_br8 | beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle<br>frame<br>napkin |  
+| bip_39_word_new_br9 | beef<br>bracket<br>elevator<br>smooth<br>pig<br>vehicle<br>frame<br>napkin<br>soft |  
+| bip_39_word_new_line1 | beef |  
+| bip_39_word_new_line10 | beef
+bracket
+elevator
+smooth
+pig
+vehicle
+frame
+napkin
+soft
+try |  
+| bip_39_word_new_line11 | beef
+bracket
+elevator
+smooth
+pig
+vehicle
+frame
+napkin
+soft
+try
+various |  
+| bip_39_word_new_line12 | beef
+bracket
+elevator
+smooth
+pig
+vehicle
+frame
+napkin
+soft
+try
+various
+area |  
+| bip_39_word_new_line2 | beef
+bracket |  
+| bip_39_word_new_line3 | beef
+bracket
+elevator |  
+| bip_39_word_new_line4 | beef
+bracket
+elevator
+smooth |  
+| bip_39_word_new_line5 | beef
+bracket
+elevator
+smooth
+pig |  
+| bip_39_word_new_line6 | beef
+bracket
+elevator
+smooth
+pig
+vehicle |  
+| bip_39_word_new_line7 | beef
+bracket
+elevator
+smooth
+pig
+vehicle
+frame |  
+| bip_39_word_new_line8 | beef
+bracket
+elevator
+smooth
+pig
+vehicle
+frame
+napkin |  
+| bip_39_word_new_line9 | beef
+bracket
+elevator
+smooth
+pig
+vehicle
+frame
+napkin
+soft |  
+| bip_39_word_space_0 | ['beef', 'bracket', 'elevator', 'smooth', 'pig', 'vehicle', 'frame', 'napkin', 'soft', 'try', 'various', 'area'] |  
+| bip_39_word_space_1 | beef |  
+| bip_39_word_space_10 | beef bracket elevator smooth pig vehicle frame napkin soft try |  
+| bip_39_word_space_11 | beef bracket elevator smooth pig vehicle frame napkin soft try various |  
+| bip_39_word_space_12 | beef bracket elevator smooth pig vehicle frame napkin soft try various area |  
+| bip_39_word_space_2 | beef bracket |  
+| bip_39_word_space_3 | beef bracket elevator |  
+| bip_39_word_space_4 | beef bracket elevator smooth |  
+| bip_39_word_space_5 | beef bracket elevator smooth pig |  
+| bip_39_word_space_6 | beef bracket elevator smooth pig vehicle |  
+| bip_39_word_space_7 | beef bracket elevator smooth pig vehicle frame |  
+| bip_39_word_space_8 | beef bracket elevator smooth pig vehicle frame napkin |  
+| bip_39_word_space_9 | beef bracket elevator smooth pig vehicle frame napkin soft |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

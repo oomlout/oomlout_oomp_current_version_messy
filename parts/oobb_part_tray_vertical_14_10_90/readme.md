@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enough dutch
+  * bip 39 word 3: enough dutch affair
+  * bip 39 word: enough dutch affair rose food joke moment calm off slim naive absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enough |  
+| bip_39_word_new_br10 | enough<br>dutch<br>affair<br>rose<br>food<br>joke<br>moment<br>calm<br>off<br>slim |  
+| bip_39_word_new_br11 | enough<br>dutch<br>affair<br>rose<br>food<br>joke<br>moment<br>calm<br>off<br>slim<br>naive |  
+| bip_39_word_new_br12 | enough<br>dutch<br>affair<br>rose<br>food<br>joke<br>moment<br>calm<br>off<br>slim<br>naive<br>absorb |  
+| bip_39_word_new_br2 | enough<br>dutch |  
+| bip_39_word_new_br3 | enough<br>dutch<br>affair |  
+| bip_39_word_new_br4 | enough<br>dutch<br>affair<br>rose |  
+| bip_39_word_new_br5 | enough<br>dutch<br>affair<br>rose<br>food |  
+| bip_39_word_new_br6 | enough<br>dutch<br>affair<br>rose<br>food<br>joke |  
+| bip_39_word_new_br7 | enough<br>dutch<br>affair<br>rose<br>food<br>joke<br>moment |  
+| bip_39_word_new_br8 | enough<br>dutch<br>affair<br>rose<br>food<br>joke<br>moment<br>calm |  
+| bip_39_word_new_br9 | enough<br>dutch<br>affair<br>rose<br>food<br>joke<br>moment<br>calm<br>off |  
+| bip_39_word_new_line1 | enough |  
+| bip_39_word_new_line10 | enough
+dutch
+affair
+rose
+food
+joke
+moment
+calm
+off
+slim |  
+| bip_39_word_new_line11 | enough
+dutch
+affair
+rose
+food
+joke
+moment
+calm
+off
+slim
+naive |  
+| bip_39_word_new_line12 | enough
+dutch
+affair
+rose
+food
+joke
+moment
+calm
+off
+slim
+naive
+absorb |  
+| bip_39_word_new_line2 | enough
+dutch |  
+| bip_39_word_new_line3 | enough
+dutch
+affair |  
+| bip_39_word_new_line4 | enough
+dutch
+affair
+rose |  
+| bip_39_word_new_line5 | enough
+dutch
+affair
+rose
+food |  
+| bip_39_word_new_line6 | enough
+dutch
+affair
+rose
+food
+joke |  
+| bip_39_word_new_line7 | enough
+dutch
+affair
+rose
+food
+joke
+moment |  
+| bip_39_word_new_line8 | enough
+dutch
+affair
+rose
+food
+joke
+moment
+calm |  
+| bip_39_word_new_line9 | enough
+dutch
+affair
+rose
+food
+joke
+moment
+calm
+off |  
+| bip_39_word_space_0 | ['enough', 'dutch', 'affair', 'rose', 'food', 'joke', 'moment', 'calm', 'off', 'slim', 'naive', 'absorb'] |  
+| bip_39_word_space_1 | enough |  
+| bip_39_word_space_10 | enough dutch affair rose food joke moment calm off slim |  
+| bip_39_word_space_11 | enough dutch affair rose food joke moment calm off slim naive |  
+| bip_39_word_space_12 | enough dutch affair rose food joke moment calm off slim naive absorb |  
+| bip_39_word_space_2 | enough dutch |  
+| bip_39_word_space_3 | enough dutch affair |  
+| bip_39_word_space_4 | enough dutch affair rose |  
+| bip_39_word_space_5 | enough dutch affair rose food |  
+| bip_39_word_space_6 | enough dutch affair rose food joke |  
+| bip_39_word_space_7 | enough dutch affair rose food joke moment |  
+| bip_39_word_space_8 | enough dutch affair rose food joke moment calm |  
+| bip_39_word_space_9 | enough dutch affair rose food joke moment calm off |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

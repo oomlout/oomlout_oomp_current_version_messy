@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fit decade
+  * bip 39 word 3: fit decade sick
+  * bip 39 word: fit decade sick sound moral decorate base uphold rigid gravity hole atom
 
 ### other_codes
 * short_code: cs5m100pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fit |  
+| bip_39_word_new_br10 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity |  
+| bip_39_word_new_br11 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity<br>hole |  
+| bip_39_word_new_br12 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid<br>gravity<br>hole<br>atom |  
+| bip_39_word_new_br2 | fit<br>decade |  
+| bip_39_word_new_br3 | fit<br>decade<br>sick |  
+| bip_39_word_new_br4 | fit<br>decade<br>sick<br>sound |  
+| bip_39_word_new_br5 | fit<br>decade<br>sick<br>sound<br>moral |  
+| bip_39_word_new_br6 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate |  
+| bip_39_word_new_br7 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base |  
+| bip_39_word_new_br8 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold |  
+| bip_39_word_new_br9 | fit<br>decade<br>sick<br>sound<br>moral<br>decorate<br>base<br>uphold<br>rigid |  
+| bip_39_word_new_line1 | fit |  
+| bip_39_word_new_line10 | fit
+decade
+sick
+sound
+moral
+decorate
+base
+uphold
+rigid
+gravity |  
+| bip_39_word_new_line11 | fit
+decade
+sick
+sound
+moral
+decorate
+base
+uphold
+rigid
+gravity
+hole |  
+| bip_39_word_new_line12 | fit
+decade
+sick
+sound
+moral
+decorate
+base
+uphold
+rigid
+gravity
+hole
+atom |  
+| bip_39_word_new_line2 | fit
+decade |  
+| bip_39_word_new_line3 | fit
+decade
+sick |  
+| bip_39_word_new_line4 | fit
+decade
+sick
+sound |  
+| bip_39_word_new_line5 | fit
+decade
+sick
+sound
+moral |  
+| bip_39_word_new_line6 | fit
+decade
+sick
+sound
+moral
+decorate |  
+| bip_39_word_new_line7 | fit
+decade
+sick
+sound
+moral
+decorate
+base |  
+| bip_39_word_new_line8 | fit
+decade
+sick
+sound
+moral
+decorate
+base
+uphold |  
+| bip_39_word_new_line9 | fit
+decade
+sick
+sound
+moral
+decorate
+base
+uphold
+rigid |  
+| bip_39_word_space_0 | ['fit', 'decade', 'sick', 'sound', 'moral', 'decorate', 'base', 'uphold', 'rigid', 'gravity', 'hole', 'atom'] |  
+| bip_39_word_space_1 | fit |  
+| bip_39_word_space_10 | fit decade sick sound moral decorate base uphold rigid gravity |  
+| bip_39_word_space_11 | fit decade sick sound moral decorate base uphold rigid gravity hole |  
+| bip_39_word_space_12 | fit decade sick sound moral decorate base uphold rigid gravity hole atom |  
+| bip_39_word_space_2 | fit decade |  
+| bip_39_word_space_3 | fit decade sick |  
+| bip_39_word_space_4 | fit decade sick sound |  
+| bip_39_word_space_5 | fit decade sick sound moral |  
+| bip_39_word_space_6 | fit decade sick sound moral decorate |  
+| bip_39_word_space_7 | fit decade sick sound moral decorate base |  
+| bip_39_word_space_8 | fit decade sick sound moral decorate base uphold |  
+| bip_39_word_space_9 | fit decade sick sound moral decorate base uphold rigid |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

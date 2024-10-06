@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cake leaf
+  * bip 39 word 3: cake leaf velvet
+  * bip 39 word: cake leaf velvet bundle chicken head harsh common express icon car arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cake |  
+| bip_39_word_new_br10 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head<br>harsh<br>common<br>express<br>icon |  
+| bip_39_word_new_br11 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head<br>harsh<br>common<br>express<br>icon<br>car |  
+| bip_39_word_new_br12 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head<br>harsh<br>common<br>express<br>icon<br>car<br>arrow |  
+| bip_39_word_new_br2 | cake<br>leaf |  
+| bip_39_word_new_br3 | cake<br>leaf<br>velvet |  
+| bip_39_word_new_br4 | cake<br>leaf<br>velvet<br>bundle |  
+| bip_39_word_new_br5 | cake<br>leaf<br>velvet<br>bundle<br>chicken |  
+| bip_39_word_new_br6 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head |  
+| bip_39_word_new_br7 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head<br>harsh |  
+| bip_39_word_new_br8 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head<br>harsh<br>common |  
+| bip_39_word_new_br9 | cake<br>leaf<br>velvet<br>bundle<br>chicken<br>head<br>harsh<br>common<br>express |  
+| bip_39_word_new_line1 | cake |  
+| bip_39_word_new_line10 | cake
+leaf
+velvet
+bundle
+chicken
+head
+harsh
+common
+express
+icon |  
+| bip_39_word_new_line11 | cake
+leaf
+velvet
+bundle
+chicken
+head
+harsh
+common
+express
+icon
+car |  
+| bip_39_word_new_line12 | cake
+leaf
+velvet
+bundle
+chicken
+head
+harsh
+common
+express
+icon
+car
+arrow |  
+| bip_39_word_new_line2 | cake
+leaf |  
+| bip_39_word_new_line3 | cake
+leaf
+velvet |  
+| bip_39_word_new_line4 | cake
+leaf
+velvet
+bundle |  
+| bip_39_word_new_line5 | cake
+leaf
+velvet
+bundle
+chicken |  
+| bip_39_word_new_line6 | cake
+leaf
+velvet
+bundle
+chicken
+head |  
+| bip_39_word_new_line7 | cake
+leaf
+velvet
+bundle
+chicken
+head
+harsh |  
+| bip_39_word_new_line8 | cake
+leaf
+velvet
+bundle
+chicken
+head
+harsh
+common |  
+| bip_39_word_new_line9 | cake
+leaf
+velvet
+bundle
+chicken
+head
+harsh
+common
+express |  
+| bip_39_word_space_0 | ['cake', 'leaf', 'velvet', 'bundle', 'chicken', 'head', 'harsh', 'common', 'express', 'icon', 'car', 'arrow'] |  
+| bip_39_word_space_1 | cake |  
+| bip_39_word_space_10 | cake leaf velvet bundle chicken head harsh common express icon |  
+| bip_39_word_space_11 | cake leaf velvet bundle chicken head harsh common express icon car |  
+| bip_39_word_space_12 | cake leaf velvet bundle chicken head harsh common express icon car arrow |  
+| bip_39_word_space_2 | cake leaf |  
+| bip_39_word_space_3 | cake leaf velvet |  
+| bip_39_word_space_4 | cake leaf velvet bundle |  
+| bip_39_word_space_5 | cake leaf velvet bundle chicken |  
+| bip_39_word_space_6 | cake leaf velvet bundle chicken head |  
+| bip_39_word_space_7 | cake leaf velvet bundle chicken head harsh |  
+| bip_39_word_space_8 | cake leaf velvet bundle chicken head harsh common |  
+| bip_39_word_space_9 | cake leaf velvet bundle chicken head harsh common express |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

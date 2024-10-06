@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: thunder second
+  * bip 39 word 3: thunder second reopen
+  * bip 39 word: thunder second reopen quality play anger impose math beef mixed owner autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | thunder |  
+| bip_39_word_new_br10 | thunder<br>second<br>reopen<br>quality<br>play<br>anger<br>impose<br>math<br>beef<br>mixed |  
+| bip_39_word_new_br11 | thunder<br>second<br>reopen<br>quality<br>play<br>anger<br>impose<br>math<br>beef<br>mixed<br>owner |  
+| bip_39_word_new_br12 | thunder<br>second<br>reopen<br>quality<br>play<br>anger<br>impose<br>math<br>beef<br>mixed<br>owner<br>autumn |  
+| bip_39_word_new_br2 | thunder<br>second |  
+| bip_39_word_new_br3 | thunder<br>second<br>reopen |  
+| bip_39_word_new_br4 | thunder<br>second<br>reopen<br>quality |  
+| bip_39_word_new_br5 | thunder<br>second<br>reopen<br>quality<br>play |  
+| bip_39_word_new_br6 | thunder<br>second<br>reopen<br>quality<br>play<br>anger |  
+| bip_39_word_new_br7 | thunder<br>second<br>reopen<br>quality<br>play<br>anger<br>impose |  
+| bip_39_word_new_br8 | thunder<br>second<br>reopen<br>quality<br>play<br>anger<br>impose<br>math |  
+| bip_39_word_new_br9 | thunder<br>second<br>reopen<br>quality<br>play<br>anger<br>impose<br>math<br>beef |  
+| bip_39_word_new_line1 | thunder |  
+| bip_39_word_new_line10 | thunder
+second
+reopen
+quality
+play
+anger
+impose
+math
+beef
+mixed |  
+| bip_39_word_new_line11 | thunder
+second
+reopen
+quality
+play
+anger
+impose
+math
+beef
+mixed
+owner |  
+| bip_39_word_new_line12 | thunder
+second
+reopen
+quality
+play
+anger
+impose
+math
+beef
+mixed
+owner
+autumn |  
+| bip_39_word_new_line2 | thunder
+second |  
+| bip_39_word_new_line3 | thunder
+second
+reopen |  
+| bip_39_word_new_line4 | thunder
+second
+reopen
+quality |  
+| bip_39_word_new_line5 | thunder
+second
+reopen
+quality
+play |  
+| bip_39_word_new_line6 | thunder
+second
+reopen
+quality
+play
+anger |  
+| bip_39_word_new_line7 | thunder
+second
+reopen
+quality
+play
+anger
+impose |  
+| bip_39_word_new_line8 | thunder
+second
+reopen
+quality
+play
+anger
+impose
+math |  
+| bip_39_word_new_line9 | thunder
+second
+reopen
+quality
+play
+anger
+impose
+math
+beef |  
+| bip_39_word_space_0 | ['thunder', 'second', 'reopen', 'quality', 'play', 'anger', 'impose', 'math', 'beef', 'mixed', 'owner', 'autumn'] |  
+| bip_39_word_space_1 | thunder |  
+| bip_39_word_space_10 | thunder second reopen quality play anger impose math beef mixed |  
+| bip_39_word_space_11 | thunder second reopen quality play anger impose math beef mixed owner |  
+| bip_39_word_space_12 | thunder second reopen quality play anger impose math beef mixed owner autumn |  
+| bip_39_word_space_2 | thunder second |  
+| bip_39_word_space_3 | thunder second reopen |  
+| bip_39_word_space_4 | thunder second reopen quality |  
+| bip_39_word_space_5 | thunder second reopen quality play |  
+| bip_39_word_space_6 | thunder second reopen quality play anger |  
+| bip_39_word_space_7 | thunder second reopen quality play anger impose |  
+| bip_39_word_space_8 | thunder second reopen quality play anger impose math |  
+| bip_39_word_space_9 | thunder second reopen quality play anger impose math beef |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: dance
+bip_39_word_new_br10: dance<br>kiss<br>salmon<br>fragile<br>risk<br>list<br>moon<br>sheriff<br>dose<br>urge
+bip_39_word_new_br11: dance<br>kiss<br>salmon<br>fragile<br>risk<br>list<br>moon<br>sheriff<br>dose<br>urge<br>assume
+bip_39_word_new_br12: dance<br>kiss<br>salmon<br>fragile<br>risk<br>list<br>moon<br>sheriff<br>dose<br>urge<br>assume<br>another
+bip_39_word_new_br2: dance<br>kiss
+bip_39_word_new_br3: dance<br>kiss<br>salmon
+bip_39_word_new_br4: dance<br>kiss<br>salmon<br>fragile
+bip_39_word_new_br5: dance<br>kiss<br>salmon<br>fragile<br>risk
+bip_39_word_new_br6: dance<br>kiss<br>salmon<br>fragile<br>risk<br>list
+bip_39_word_new_br7: dance<br>kiss<br>salmon<br>fragile<br>risk<br>list<br>moon
+bip_39_word_new_br8: dance<br>kiss<br>salmon<br>fragile<br>risk<br>list<br>moon<br>sheriff
+bip_39_word_new_br9: dance<br>kiss<br>salmon<br>fragile<br>risk<br>list<br>moon<br>sheriff<br>dose
+bip_39_word_new_line1: dance
+bip_39_word_new_line10: 'dance
+
+  kiss
+
+  salmon
+
+  fragile
+
+  risk
+
+  list
+
+  moon
+
+  sheriff
+
+  dose
+
+  urge'
+bip_39_word_new_line11: 'dance
+
+  kiss
+
+  salmon
+
+  fragile
+
+  risk
+
+  list
+
+  moon
+
+  sheriff
+
+  dose
+
+  urge
+
+  assume'
+bip_39_word_new_line12: 'dance
+
+  kiss
+
+  salmon
+
+  fragile
+
+  risk
+
+  list
+
+  moon
+
+  sheriff
+
+  dose
+
+  urge
+
+  assume
+
+  another'
+bip_39_word_new_line2: 'dance
+
+  kiss'
+bip_39_word_new_line3: 'dance
+
+  kiss
+
+  salmon'
+bip_39_word_new_line4: 'dance
+
+  kiss
+
+  salmon
+
+  fragile'
+bip_39_word_new_line5: 'dance
+
+  kiss
+
+  salmon
+
+  fragile
+
+  risk'
+bip_39_word_new_line6: 'dance
+
+  kiss
+
+  salmon
+
+  fragile
+
+  risk
+
+  list'
+bip_39_word_new_line7: 'dance
+
+  kiss
+
+  salmon
+
+  fragile
+
+  risk
+
+  list
+
+  moon'
+bip_39_word_new_line8: 'dance
+
+  kiss
+
+  salmon
+
+  fragile
+
+  risk
+
+  list
+
+  moon
+
+  sheriff'
+bip_39_word_new_line9: 'dance
+
+  kiss
+
+  salmon
+
+  fragile
+
+  risk
+
+  list
+
+  moon
+
+  sheriff
+
+  dose'
+bip_39_word_space_0:
+- dance
+- kiss
+- salmon
+- fragile
+- risk
+- list
+- moon
+- sheriff
+- dose
+- urge
+- assume
+- another
+bip_39_word_space_1: dance
+bip_39_word_space_10: dance kiss salmon fragile risk list moon sheriff dose urge
+bip_39_word_space_11: dance kiss salmon fragile risk list moon sheriff dose urge assume
+bip_39_word_space_12: dance kiss salmon fragile risk list moon sheriff dose urge assume
+  another
+bip_39_word_space_2: dance kiss
+bip_39_word_space_3: dance kiss salmon
+bip_39_word_space_4: dance kiss salmon fragile
+bip_39_word_space_5: dance kiss salmon fragile risk
+bip_39_word_space_6: dance kiss salmon fragile risk list
+bip_39_word_space_7: dance kiss salmon fragile risk list moon
+bip_39_word_space_8: dance kiss salmon fragile risk list moon sheriff
+bip_39_word_space_9: dance kiss salmon fragile risk list moon sheriff dose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

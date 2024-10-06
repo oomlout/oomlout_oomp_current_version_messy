@@ -1,3 +1,187 @@
+bip_39_word_new_br1: voyage
+bip_39_word_new_br10: voyage<br>decorate<br>member<br>ramp<br>level<br>across<br>shoot<br>enemy<br>betray<br>yellow
+bip_39_word_new_br11: voyage<br>decorate<br>member<br>ramp<br>level<br>across<br>shoot<br>enemy<br>betray<br>yellow<br>olive
+bip_39_word_new_br12: voyage<br>decorate<br>member<br>ramp<br>level<br>across<br>shoot<br>enemy<br>betray<br>yellow<br>olive<br>artist
+bip_39_word_new_br2: voyage<br>decorate
+bip_39_word_new_br3: voyage<br>decorate<br>member
+bip_39_word_new_br4: voyage<br>decorate<br>member<br>ramp
+bip_39_word_new_br5: voyage<br>decorate<br>member<br>ramp<br>level
+bip_39_word_new_br6: voyage<br>decorate<br>member<br>ramp<br>level<br>across
+bip_39_word_new_br7: voyage<br>decorate<br>member<br>ramp<br>level<br>across<br>shoot
+bip_39_word_new_br8: voyage<br>decorate<br>member<br>ramp<br>level<br>across<br>shoot<br>enemy
+bip_39_word_new_br9: voyage<br>decorate<br>member<br>ramp<br>level<br>across<br>shoot<br>enemy<br>betray
+bip_39_word_new_line1: voyage
+bip_39_word_new_line10: 'voyage
+
+  decorate
+
+  member
+
+  ramp
+
+  level
+
+  across
+
+  shoot
+
+  enemy
+
+  betray
+
+  yellow'
+bip_39_word_new_line11: 'voyage
+
+  decorate
+
+  member
+
+  ramp
+
+  level
+
+  across
+
+  shoot
+
+  enemy
+
+  betray
+
+  yellow
+
+  olive'
+bip_39_word_new_line12: 'voyage
+
+  decorate
+
+  member
+
+  ramp
+
+  level
+
+  across
+
+  shoot
+
+  enemy
+
+  betray
+
+  yellow
+
+  olive
+
+  artist'
+bip_39_word_new_line2: 'voyage
+
+  decorate'
+bip_39_word_new_line3: 'voyage
+
+  decorate
+
+  member'
+bip_39_word_new_line4: 'voyage
+
+  decorate
+
+  member
+
+  ramp'
+bip_39_word_new_line5: 'voyage
+
+  decorate
+
+  member
+
+  ramp
+
+  level'
+bip_39_word_new_line6: 'voyage
+
+  decorate
+
+  member
+
+  ramp
+
+  level
+
+  across'
+bip_39_word_new_line7: 'voyage
+
+  decorate
+
+  member
+
+  ramp
+
+  level
+
+  across
+
+  shoot'
+bip_39_word_new_line8: 'voyage
+
+  decorate
+
+  member
+
+  ramp
+
+  level
+
+  across
+
+  shoot
+
+  enemy'
+bip_39_word_new_line9: 'voyage
+
+  decorate
+
+  member
+
+  ramp
+
+  level
+
+  across
+
+  shoot
+
+  enemy
+
+  betray'
+bip_39_word_space_0:
+- voyage
+- decorate
+- member
+- ramp
+- level
+- across
+- shoot
+- enemy
+- betray
+- yellow
+- olive
+- artist
+bip_39_word_space_1: voyage
+bip_39_word_space_10: voyage decorate member ramp level across shoot enemy betray
+  yellow
+bip_39_word_space_11: voyage decorate member ramp level across shoot enemy betray
+  yellow olive
+bip_39_word_space_12: voyage decorate member ramp level across shoot enemy betray
+  yellow olive artist
+bip_39_word_space_2: voyage decorate
+bip_39_word_space_3: voyage decorate member
+bip_39_word_space_4: voyage decorate member ramp
+bip_39_word_space_5: voyage decorate member ramp level
+bip_39_word_space_6: voyage decorate member ramp level across
+bip_39_word_space_7: voyage decorate member ramp level across shoot
+bip_39_word_space_8: voyage decorate member ramp level across shoot enemy
+bip_39_word_space_9: voyage decorate member ramp level across shoot enemy betray
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: crisp
+bip_39_word_new_br10: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid
+bip_39_word_new_br11: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title
+bip_39_word_new_br12: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title<br>achieve
+bip_39_word_new_br2: crisp<br>say
+bip_39_word_new_br3: crisp<br>say<br>motor
+bip_39_word_new_br4: crisp<br>say<br>motor<br>one
+bip_39_word_new_br5: crisp<br>say<br>motor<br>one<br>cluster
+bip_39_word_new_br6: crisp<br>say<br>motor<br>one<br>cluster<br>grid
+bip_39_word_new_br7: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse
+bip_39_word_new_br8: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge
+bip_39_word_new_br9: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour
+bip_39_word_new_line1: crisp
+bip_39_word_new_line10: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge
+
+  hour
+
+  bid'
+bip_39_word_new_line11: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge
+
+  hour
+
+  bid
+
+  title'
+bip_39_word_new_line12: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge
+
+  hour
+
+  bid
+
+  title
+
+  achieve'
+bip_39_word_new_line2: 'crisp
+
+  say'
+bip_39_word_new_line3: 'crisp
+
+  say
+
+  motor'
+bip_39_word_new_line4: 'crisp
+
+  say
+
+  motor
+
+  one'
+bip_39_word_new_line5: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster'
+bip_39_word_new_line6: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid'
+bip_39_word_new_line7: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse'
+bip_39_word_new_line8: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge'
+bip_39_word_new_line9: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge
+
+  hour'
+bip_39_word_space_0:
+- crisp
+- say
+- motor
+- one
+- cluster
+- grid
+- glimpse
+- huge
+- hour
+- bid
+- title
+- achieve
+bip_39_word_space_1: crisp
+bip_39_word_space_10: crisp say motor one cluster grid glimpse huge hour bid
+bip_39_word_space_11: crisp say motor one cluster grid glimpse huge hour bid title
+bip_39_word_space_12: crisp say motor one cluster grid glimpse huge hour bid title
+  achieve
+bip_39_word_space_2: crisp say
+bip_39_word_space_3: crisp say motor
+bip_39_word_space_4: crisp say motor one
+bip_39_word_space_5: crisp say motor one cluster
+bip_39_word_space_6: crisp say motor one cluster grid
+bip_39_word_space_7: crisp say motor one cluster grid glimpse
+bip_39_word_space_8: crisp say motor one cluster grid glimpse huge
+bip_39_word_space_9: crisp say motor one cluster grid glimpse huge hour
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

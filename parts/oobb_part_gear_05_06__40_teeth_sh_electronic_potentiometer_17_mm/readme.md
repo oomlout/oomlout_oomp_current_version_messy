@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ethics spawn
+  * bip 39 word 3: ethics spawn recall
+  * bip 39 word: ethics spawn recall fame spice left stumble obey ethics crowd enable abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ethics |  
+| bip_39_word_new_br10 | ethics<br>spawn<br>recall<br>fame<br>spice<br>left<br>stumble<br>obey<br>ethics<br>crowd |  
+| bip_39_word_new_br11 | ethics<br>spawn<br>recall<br>fame<br>spice<br>left<br>stumble<br>obey<br>ethics<br>crowd<br>enable |  
+| bip_39_word_new_br12 | ethics<br>spawn<br>recall<br>fame<br>spice<br>left<br>stumble<br>obey<br>ethics<br>crowd<br>enable<br>abuse |  
+| bip_39_word_new_br2 | ethics<br>spawn |  
+| bip_39_word_new_br3 | ethics<br>spawn<br>recall |  
+| bip_39_word_new_br4 | ethics<br>spawn<br>recall<br>fame |  
+| bip_39_word_new_br5 | ethics<br>spawn<br>recall<br>fame<br>spice |  
+| bip_39_word_new_br6 | ethics<br>spawn<br>recall<br>fame<br>spice<br>left |  
+| bip_39_word_new_br7 | ethics<br>spawn<br>recall<br>fame<br>spice<br>left<br>stumble |  
+| bip_39_word_new_br8 | ethics<br>spawn<br>recall<br>fame<br>spice<br>left<br>stumble<br>obey |  
+| bip_39_word_new_br9 | ethics<br>spawn<br>recall<br>fame<br>spice<br>left<br>stumble<br>obey<br>ethics |  
+| bip_39_word_new_line1 | ethics |  
+| bip_39_word_new_line10 | ethics
+spawn
+recall
+fame
+spice
+left
+stumble
+obey
+ethics
+crowd |  
+| bip_39_word_new_line11 | ethics
+spawn
+recall
+fame
+spice
+left
+stumble
+obey
+ethics
+crowd
+enable |  
+| bip_39_word_new_line12 | ethics
+spawn
+recall
+fame
+spice
+left
+stumble
+obey
+ethics
+crowd
+enable
+abuse |  
+| bip_39_word_new_line2 | ethics
+spawn |  
+| bip_39_word_new_line3 | ethics
+spawn
+recall |  
+| bip_39_word_new_line4 | ethics
+spawn
+recall
+fame |  
+| bip_39_word_new_line5 | ethics
+spawn
+recall
+fame
+spice |  
+| bip_39_word_new_line6 | ethics
+spawn
+recall
+fame
+spice
+left |  
+| bip_39_word_new_line7 | ethics
+spawn
+recall
+fame
+spice
+left
+stumble |  
+| bip_39_word_new_line8 | ethics
+spawn
+recall
+fame
+spice
+left
+stumble
+obey |  
+| bip_39_word_new_line9 | ethics
+spawn
+recall
+fame
+spice
+left
+stumble
+obey
+ethics |  
+| bip_39_word_space_0 | ['ethics', 'spawn', 'recall', 'fame', 'spice', 'left', 'stumble', 'obey', 'ethics', 'crowd', 'enable', 'abuse'] |  
+| bip_39_word_space_1 | ethics |  
+| bip_39_word_space_10 | ethics spawn recall fame spice left stumble obey ethics crowd |  
+| bip_39_word_space_11 | ethics spawn recall fame spice left stumble obey ethics crowd enable |  
+| bip_39_word_space_12 | ethics spawn recall fame spice left stumble obey ethics crowd enable abuse |  
+| bip_39_word_space_2 | ethics spawn |  
+| bip_39_word_space_3 | ethics spawn recall |  
+| bip_39_word_space_4 | ethics spawn recall fame |  
+| bip_39_word_space_5 | ethics spawn recall fame spice |  
+| bip_39_word_space_6 | ethics spawn recall fame spice left |  
+| bip_39_word_space_7 | ethics spawn recall fame spice left stumble |  
+| bip_39_word_space_8 | ethics spawn recall fame spice left stumble obey |  
+| bip_39_word_space_9 | ethics spawn recall fame spice left stumble obey ethics |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

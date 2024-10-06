@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: umbrella answer
+  * bip 39 word 3: umbrella answer feel
+  * bip 39 word: umbrella answer feel require can breeze hat super spread census replace armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | umbrella |  
+| bip_39_word_new_br10 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze<br>hat<br>super<br>spread<br>census |  
+| bip_39_word_new_br11 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze<br>hat<br>super<br>spread<br>census<br>replace |  
+| bip_39_word_new_br12 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze<br>hat<br>super<br>spread<br>census<br>replace<br>armor |  
+| bip_39_word_new_br2 | umbrella<br>answer |  
+| bip_39_word_new_br3 | umbrella<br>answer<br>feel |  
+| bip_39_word_new_br4 | umbrella<br>answer<br>feel<br>require |  
+| bip_39_word_new_br5 | umbrella<br>answer<br>feel<br>require<br>can |  
+| bip_39_word_new_br6 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze |  
+| bip_39_word_new_br7 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze<br>hat |  
+| bip_39_word_new_br8 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze<br>hat<br>super |  
+| bip_39_word_new_br9 | umbrella<br>answer<br>feel<br>require<br>can<br>breeze<br>hat<br>super<br>spread |  
+| bip_39_word_new_line1 | umbrella |  
+| bip_39_word_new_line10 | umbrella
+answer
+feel
+require
+can
+breeze
+hat
+super
+spread
+census |  
+| bip_39_word_new_line11 | umbrella
+answer
+feel
+require
+can
+breeze
+hat
+super
+spread
+census
+replace |  
+| bip_39_word_new_line12 | umbrella
+answer
+feel
+require
+can
+breeze
+hat
+super
+spread
+census
+replace
+armor |  
+| bip_39_word_new_line2 | umbrella
+answer |  
+| bip_39_word_new_line3 | umbrella
+answer
+feel |  
+| bip_39_word_new_line4 | umbrella
+answer
+feel
+require |  
+| bip_39_word_new_line5 | umbrella
+answer
+feel
+require
+can |  
+| bip_39_word_new_line6 | umbrella
+answer
+feel
+require
+can
+breeze |  
+| bip_39_word_new_line7 | umbrella
+answer
+feel
+require
+can
+breeze
+hat |  
+| bip_39_word_new_line8 | umbrella
+answer
+feel
+require
+can
+breeze
+hat
+super |  
+| bip_39_word_new_line9 | umbrella
+answer
+feel
+require
+can
+breeze
+hat
+super
+spread |  
+| bip_39_word_space_0 | ['umbrella', 'answer', 'feel', 'require', 'can', 'breeze', 'hat', 'super', 'spread', 'census', 'replace', 'armor'] |  
+| bip_39_word_space_1 | umbrella |  
+| bip_39_word_space_10 | umbrella answer feel require can breeze hat super spread census |  
+| bip_39_word_space_11 | umbrella answer feel require can breeze hat super spread census replace |  
+| bip_39_word_space_12 | umbrella answer feel require can breeze hat super spread census replace armor |  
+| bip_39_word_space_2 | umbrella answer |  
+| bip_39_word_space_3 | umbrella answer feel |  
+| bip_39_word_space_4 | umbrella answer feel require |  
+| bip_39_word_space_5 | umbrella answer feel require can |  
+| bip_39_word_space_6 | umbrella answer feel require can breeze |  
+| bip_39_word_space_7 | umbrella answer feel require can breeze hat |  
+| bip_39_word_space_8 | umbrella answer feel require can breeze hat super |  
+| bip_39_word_space_9 | umbrella answer feel require can breeze hat super spread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

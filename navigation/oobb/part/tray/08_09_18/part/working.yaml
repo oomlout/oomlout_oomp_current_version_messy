@@ -1,3 +1,186 @@
+bip_39_word_new_br1: honey
+bip_39_word_new_br10: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote<br>unable<br>firm
+bip_39_word_new_br11: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote<br>unable<br>firm<br>wood
+bip_39_word_new_br12: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote<br>unable<br>firm<br>wood<br>accident
+bip_39_word_new_br2: honey<br>sauce
+bip_39_word_new_br3: honey<br>sauce<br>hazard
+bip_39_word_new_br4: honey<br>sauce<br>hazard<br>junior
+bip_39_word_new_br5: honey<br>sauce<br>hazard<br>junior<br>own
+bip_39_word_new_br6: honey<br>sauce<br>hazard<br>junior<br>own<br>critic
+bip_39_word_new_br7: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original
+bip_39_word_new_br8: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote
+bip_39_word_new_br9: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote<br>unable
+bip_39_word_new_line1: honey
+bip_39_word_new_line10: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote
+
+  unable
+
+  firm'
+bip_39_word_new_line11: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote
+
+  unable
+
+  firm
+
+  wood'
+bip_39_word_new_line12: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote
+
+  unable
+
+  firm
+
+  wood
+
+  accident'
+bip_39_word_new_line2: 'honey
+
+  sauce'
+bip_39_word_new_line3: 'honey
+
+  sauce
+
+  hazard'
+bip_39_word_new_line4: 'honey
+
+  sauce
+
+  hazard
+
+  junior'
+bip_39_word_new_line5: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own'
+bip_39_word_new_line6: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic'
+bip_39_word_new_line7: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original'
+bip_39_word_new_line8: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote'
+bip_39_word_new_line9: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote
+
+  unable'
+bip_39_word_space_0:
+- honey
+- sauce
+- hazard
+- junior
+- own
+- critic
+- original
+- quote
+- unable
+- firm
+- wood
+- accident
+bip_39_word_space_1: honey
+bip_39_word_space_10: honey sauce hazard junior own critic original quote unable firm
+bip_39_word_space_11: honey sauce hazard junior own critic original quote unable firm
+  wood
+bip_39_word_space_12: honey sauce hazard junior own critic original quote unable firm
+  wood accident
+bip_39_word_space_2: honey sauce
+bip_39_word_space_3: honey sauce hazard
+bip_39_word_space_4: honey sauce hazard junior
+bip_39_word_space_5: honey sauce hazard junior own
+bip_39_word_space_6: honey sauce hazard junior own critic
+bip_39_word_space_7: honey sauce hazard junior own critic original
+bip_39_word_space_8: honey sauce hazard junior own critic original quote
+bip_39_word_space_9: honey sauce hazard junior own critic original quote unable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

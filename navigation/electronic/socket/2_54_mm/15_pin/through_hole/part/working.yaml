@@ -1,3 +1,187 @@
+bip_39_word_new_br1: private
+bip_39_word_new_br10: private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin
+bip_39_word_new_br11: private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin<br>trend
+bip_39_word_new_br12: private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune<br>cabin<br>trend<br>athlete
+bip_39_word_new_br2: private<br>inmate
+bip_39_word_new_br3: private<br>inmate<br>crisp
+bip_39_word_new_br4: private<br>inmate<br>crisp<br>surprise
+bip_39_word_new_br5: private<br>inmate<br>crisp<br>surprise<br>voyage
+bip_39_word_new_br6: private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw
+bip_39_word_new_br7: private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint
+bip_39_word_new_br8: private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder
+bip_39_word_new_br9: private<br>inmate<br>crisp<br>surprise<br>voyage<br>draw<br>hint<br>ladder<br>fortune
+bip_39_word_new_line1: private
+bip_39_word_new_line10: 'private
+
+  inmate
+
+  crisp
+
+  surprise
+
+  voyage
+
+  draw
+
+  hint
+
+  ladder
+
+  fortune
+
+  cabin'
+bip_39_word_new_line11: 'private
+
+  inmate
+
+  crisp
+
+  surprise
+
+  voyage
+
+  draw
+
+  hint
+
+  ladder
+
+  fortune
+
+  cabin
+
+  trend'
+bip_39_word_new_line12: 'private
+
+  inmate
+
+  crisp
+
+  surprise
+
+  voyage
+
+  draw
+
+  hint
+
+  ladder
+
+  fortune
+
+  cabin
+
+  trend
+
+  athlete'
+bip_39_word_new_line2: 'private
+
+  inmate'
+bip_39_word_new_line3: 'private
+
+  inmate
+
+  crisp'
+bip_39_word_new_line4: 'private
+
+  inmate
+
+  crisp
+
+  surprise'
+bip_39_word_new_line5: 'private
+
+  inmate
+
+  crisp
+
+  surprise
+
+  voyage'
+bip_39_word_new_line6: 'private
+
+  inmate
+
+  crisp
+
+  surprise
+
+  voyage
+
+  draw'
+bip_39_word_new_line7: 'private
+
+  inmate
+
+  crisp
+
+  surprise
+
+  voyage
+
+  draw
+
+  hint'
+bip_39_word_new_line8: 'private
+
+  inmate
+
+  crisp
+
+  surprise
+
+  voyage
+
+  draw
+
+  hint
+
+  ladder'
+bip_39_word_new_line9: 'private
+
+  inmate
+
+  crisp
+
+  surprise
+
+  voyage
+
+  draw
+
+  hint
+
+  ladder
+
+  fortune'
+bip_39_word_space_0:
+- private
+- inmate
+- crisp
+- surprise
+- voyage
+- draw
+- hint
+- ladder
+- fortune
+- cabin
+- trend
+- athlete
+bip_39_word_space_1: private
+bip_39_word_space_10: private inmate crisp surprise voyage draw hint ladder fortune
+  cabin
+bip_39_word_space_11: private inmate crisp surprise voyage draw hint ladder fortune
+  cabin trend
+bip_39_word_space_12: private inmate crisp surprise voyage draw hint ladder fortune
+  cabin trend athlete
+bip_39_word_space_2: private inmate
+bip_39_word_space_3: private inmate crisp
+bip_39_word_space_4: private inmate crisp surprise
+bip_39_word_space_5: private inmate crisp surprise voyage
+bip_39_word_space_6: private inmate crisp surprise voyage draw
+bip_39_word_space_7: private inmate crisp surprise voyage draw hint
+bip_39_word_space_8: private inmate crisp surprise voyage draw hint ladder
+bip_39_word_space_9: private inmate crisp surprise voyage draw hint ladder fortune
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: food critic
+  * bip 39 word 3: food critic minimum
+  * bip 39 word: food critic minimum voyage venture journey holiday warrior gift assume garment advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | food |  
+| bip_39_word_new_br10 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume |  
+| bip_39_word_new_br11 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume<br>garment |  
+| bip_39_word_new_br12 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift<br>assume<br>garment<br>advance |  
+| bip_39_word_new_br2 | food<br>critic |  
+| bip_39_word_new_br3 | food<br>critic<br>minimum |  
+| bip_39_word_new_br4 | food<br>critic<br>minimum<br>voyage |  
+| bip_39_word_new_br5 | food<br>critic<br>minimum<br>voyage<br>venture |  
+| bip_39_word_new_br6 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey |  
+| bip_39_word_new_br7 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday |  
+| bip_39_word_new_br8 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior |  
+| bip_39_word_new_br9 | food<br>critic<br>minimum<br>voyage<br>venture<br>journey<br>holiday<br>warrior<br>gift |  
+| bip_39_word_new_line1 | food |  
+| bip_39_word_new_line10 | food
+critic
+minimum
+voyage
+venture
+journey
+holiday
+warrior
+gift
+assume |  
+| bip_39_word_new_line11 | food
+critic
+minimum
+voyage
+venture
+journey
+holiday
+warrior
+gift
+assume
+garment |  
+| bip_39_word_new_line12 | food
+critic
+minimum
+voyage
+venture
+journey
+holiday
+warrior
+gift
+assume
+garment
+advance |  
+| bip_39_word_new_line2 | food
+critic |  
+| bip_39_word_new_line3 | food
+critic
+minimum |  
+| bip_39_word_new_line4 | food
+critic
+minimum
+voyage |  
+| bip_39_word_new_line5 | food
+critic
+minimum
+voyage
+venture |  
+| bip_39_word_new_line6 | food
+critic
+minimum
+voyage
+venture
+journey |  
+| bip_39_word_new_line7 | food
+critic
+minimum
+voyage
+venture
+journey
+holiday |  
+| bip_39_word_new_line8 | food
+critic
+minimum
+voyage
+venture
+journey
+holiday
+warrior |  
+| bip_39_word_new_line9 | food
+critic
+minimum
+voyage
+venture
+journey
+holiday
+warrior
+gift |  
+| bip_39_word_space_0 | ['food', 'critic', 'minimum', 'voyage', 'venture', 'journey', 'holiday', 'warrior', 'gift', 'assume', 'garment', 'advance'] |  
+| bip_39_word_space_1 | food |  
+| bip_39_word_space_10 | food critic minimum voyage venture journey holiday warrior gift assume |  
+| bip_39_word_space_11 | food critic minimum voyage venture journey holiday warrior gift assume garment |  
+| bip_39_word_space_12 | food critic minimum voyage venture journey holiday warrior gift assume garment advance |  
+| bip_39_word_space_2 | food critic |  
+| bip_39_word_space_3 | food critic minimum |  
+| bip_39_word_space_4 | food critic minimum voyage |  
+| bip_39_word_space_5 | food critic minimum voyage venture |  
+| bip_39_word_space_6 | food critic minimum voyage venture journey |  
+| bip_39_word_space_7 | food critic minimum voyage venture journey holiday |  
+| bip_39_word_space_8 | food critic minimum voyage venture journey holiday warrior |  
+| bip_39_word_space_9 | food critic minimum voyage venture journey holiday warrior gift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

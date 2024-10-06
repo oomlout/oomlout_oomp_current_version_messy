@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: story spice
+  * bip 39 word 3: story spice luxury
+  * bip 39 word: story spice luxury story lion bike anchor thank name direct vanish avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | story |  
+| bip_39_word_new_br10 | story<br>spice<br>luxury<br>story<br>lion<br>bike<br>anchor<br>thank<br>name<br>direct |  
+| bip_39_word_new_br11 | story<br>spice<br>luxury<br>story<br>lion<br>bike<br>anchor<br>thank<br>name<br>direct<br>vanish |  
+| bip_39_word_new_br12 | story<br>spice<br>luxury<br>story<br>lion<br>bike<br>anchor<br>thank<br>name<br>direct<br>vanish<br>avocado |  
+| bip_39_word_new_br2 | story<br>spice |  
+| bip_39_word_new_br3 | story<br>spice<br>luxury |  
+| bip_39_word_new_br4 | story<br>spice<br>luxury<br>story |  
+| bip_39_word_new_br5 | story<br>spice<br>luxury<br>story<br>lion |  
+| bip_39_word_new_br6 | story<br>spice<br>luxury<br>story<br>lion<br>bike |  
+| bip_39_word_new_br7 | story<br>spice<br>luxury<br>story<br>lion<br>bike<br>anchor |  
+| bip_39_word_new_br8 | story<br>spice<br>luxury<br>story<br>lion<br>bike<br>anchor<br>thank |  
+| bip_39_word_new_br9 | story<br>spice<br>luxury<br>story<br>lion<br>bike<br>anchor<br>thank<br>name |  
+| bip_39_word_new_line1 | story |  
+| bip_39_word_new_line10 | story
+spice
+luxury
+story
+lion
+bike
+anchor
+thank
+name
+direct |  
+| bip_39_word_new_line11 | story
+spice
+luxury
+story
+lion
+bike
+anchor
+thank
+name
+direct
+vanish |  
+| bip_39_word_new_line12 | story
+spice
+luxury
+story
+lion
+bike
+anchor
+thank
+name
+direct
+vanish
+avocado |  
+| bip_39_word_new_line2 | story
+spice |  
+| bip_39_word_new_line3 | story
+spice
+luxury |  
+| bip_39_word_new_line4 | story
+spice
+luxury
+story |  
+| bip_39_word_new_line5 | story
+spice
+luxury
+story
+lion |  
+| bip_39_word_new_line6 | story
+spice
+luxury
+story
+lion
+bike |  
+| bip_39_word_new_line7 | story
+spice
+luxury
+story
+lion
+bike
+anchor |  
+| bip_39_word_new_line8 | story
+spice
+luxury
+story
+lion
+bike
+anchor
+thank |  
+| bip_39_word_new_line9 | story
+spice
+luxury
+story
+lion
+bike
+anchor
+thank
+name |  
+| bip_39_word_space_0 | ['story', 'spice', 'luxury', 'story', 'lion', 'bike', 'anchor', 'thank', 'name', 'direct', 'vanish', 'avocado'] |  
+| bip_39_word_space_1 | story |  
+| bip_39_word_space_10 | story spice luxury story lion bike anchor thank name direct |  
+| bip_39_word_space_11 | story spice luxury story lion bike anchor thank name direct vanish |  
+| bip_39_word_space_12 | story spice luxury story lion bike anchor thank name direct vanish avocado |  
+| bip_39_word_space_2 | story spice |  
+| bip_39_word_space_3 | story spice luxury |  
+| bip_39_word_space_4 | story spice luxury story |  
+| bip_39_word_space_5 | story spice luxury story lion |  
+| bip_39_word_space_6 | story spice luxury story lion bike |  
+| bip_39_word_space_7 | story spice luxury story lion bike anchor |  
+| bip_39_word_space_8 | story spice luxury story lion bike anchor thank |  
+| bip_39_word_space_9 | story spice luxury story lion bike anchor thank name |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

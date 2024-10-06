@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: q
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blossom guitar
+  * bip 39 word 3: blossom guitar ketchup
+  * bip 39 word: blossom guitar ketchup hurt city rose cart mechanic idle cushion sail absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blossom |  
+| bip_39_word_new_br10 | blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic<br>idle<br>cushion |  
+| bip_39_word_new_br11 | blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic<br>idle<br>cushion<br>sail |  
+| bip_39_word_new_br12 | blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic<br>idle<br>cushion<br>sail<br>absorb |  
+| bip_39_word_new_br2 | blossom<br>guitar |  
+| bip_39_word_new_br3 | blossom<br>guitar<br>ketchup |  
+| bip_39_word_new_br4 | blossom<br>guitar<br>ketchup<br>hurt |  
+| bip_39_word_new_br5 | blossom<br>guitar<br>ketchup<br>hurt<br>city |  
+| bip_39_word_new_br6 | blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose |  
+| bip_39_word_new_br7 | blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart |  
+| bip_39_word_new_br8 | blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic |  
+| bip_39_word_new_br9 | blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic<br>idle |  
+| bip_39_word_new_line1 | blossom |  
+| bip_39_word_new_line10 | blossom
+guitar
+ketchup
+hurt
+city
+rose
+cart
+mechanic
+idle
+cushion |  
+| bip_39_word_new_line11 | blossom
+guitar
+ketchup
+hurt
+city
+rose
+cart
+mechanic
+idle
+cushion
+sail |  
+| bip_39_word_new_line12 | blossom
+guitar
+ketchup
+hurt
+city
+rose
+cart
+mechanic
+idle
+cushion
+sail
+absorb |  
+| bip_39_word_new_line2 | blossom
+guitar |  
+| bip_39_word_new_line3 | blossom
+guitar
+ketchup |  
+| bip_39_word_new_line4 | blossom
+guitar
+ketchup
+hurt |  
+| bip_39_word_new_line5 | blossom
+guitar
+ketchup
+hurt
+city |  
+| bip_39_word_new_line6 | blossom
+guitar
+ketchup
+hurt
+city
+rose |  
+| bip_39_word_new_line7 | blossom
+guitar
+ketchup
+hurt
+city
+rose
+cart |  
+| bip_39_word_new_line8 | blossom
+guitar
+ketchup
+hurt
+city
+rose
+cart
+mechanic |  
+| bip_39_word_new_line9 | blossom
+guitar
+ketchup
+hurt
+city
+rose
+cart
+mechanic
+idle |  
+| bip_39_word_space_0 | ['blossom', 'guitar', 'ketchup', 'hurt', 'city', 'rose', 'cart', 'mechanic', 'idle', 'cushion', 'sail', 'absorb'] |  
+| bip_39_word_space_1 | blossom |  
+| bip_39_word_space_10 | blossom guitar ketchup hurt city rose cart mechanic idle cushion |  
+| bip_39_word_space_11 | blossom guitar ketchup hurt city rose cart mechanic idle cushion sail |  
+| bip_39_word_space_12 | blossom guitar ketchup hurt city rose cart mechanic idle cushion sail absorb |  
+| bip_39_word_space_2 | blossom guitar |  
+| bip_39_word_space_3 | blossom guitar ketchup |  
+| bip_39_word_space_4 | blossom guitar ketchup hurt |  
+| bip_39_word_space_5 | blossom guitar ketchup hurt city |  
+| bip_39_word_space_6 | blossom guitar ketchup hurt city rose |  
+| bip_39_word_space_7 | blossom guitar ketchup hurt city rose cart |  
+| bip_39_word_space_8 | blossom guitar ketchup hurt city rose cart mechanic |  
+| bip_39_word_space_9 | blossom guitar ketchup hurt city rose cart mechanic idle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

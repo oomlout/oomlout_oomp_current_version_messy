@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: any walnut
+  * bip 39 word 3: any walnut index
+  * bip 39 word: any walnut index gravity hover gym polar fee excuse topple peanut actress
 
 ### other_codes
 * short_code: br639
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | any |  
+| bip_39_word_new_br10 | any<br>walnut<br>index<br>gravity<br>hover<br>gym<br>polar<br>fee<br>excuse<br>topple |  
+| bip_39_word_new_br11 | any<br>walnut<br>index<br>gravity<br>hover<br>gym<br>polar<br>fee<br>excuse<br>topple<br>peanut |  
+| bip_39_word_new_br12 | any<br>walnut<br>index<br>gravity<br>hover<br>gym<br>polar<br>fee<br>excuse<br>topple<br>peanut<br>actress |  
+| bip_39_word_new_br2 | any<br>walnut |  
+| bip_39_word_new_br3 | any<br>walnut<br>index |  
+| bip_39_word_new_br4 | any<br>walnut<br>index<br>gravity |  
+| bip_39_word_new_br5 | any<br>walnut<br>index<br>gravity<br>hover |  
+| bip_39_word_new_br6 | any<br>walnut<br>index<br>gravity<br>hover<br>gym |  
+| bip_39_word_new_br7 | any<br>walnut<br>index<br>gravity<br>hover<br>gym<br>polar |  
+| bip_39_word_new_br8 | any<br>walnut<br>index<br>gravity<br>hover<br>gym<br>polar<br>fee |  
+| bip_39_word_new_br9 | any<br>walnut<br>index<br>gravity<br>hover<br>gym<br>polar<br>fee<br>excuse |  
+| bip_39_word_new_line1 | any |  
+| bip_39_word_new_line10 | any
+walnut
+index
+gravity
+hover
+gym
+polar
+fee
+excuse
+topple |  
+| bip_39_word_new_line11 | any
+walnut
+index
+gravity
+hover
+gym
+polar
+fee
+excuse
+topple
+peanut |  
+| bip_39_word_new_line12 | any
+walnut
+index
+gravity
+hover
+gym
+polar
+fee
+excuse
+topple
+peanut
+actress |  
+| bip_39_word_new_line2 | any
+walnut |  
+| bip_39_word_new_line3 | any
+walnut
+index |  
+| bip_39_word_new_line4 | any
+walnut
+index
+gravity |  
+| bip_39_word_new_line5 | any
+walnut
+index
+gravity
+hover |  
+| bip_39_word_new_line6 | any
+walnut
+index
+gravity
+hover
+gym |  
+| bip_39_word_new_line7 | any
+walnut
+index
+gravity
+hover
+gym
+polar |  
+| bip_39_word_new_line8 | any
+walnut
+index
+gravity
+hover
+gym
+polar
+fee |  
+| bip_39_word_new_line9 | any
+walnut
+index
+gravity
+hover
+gym
+polar
+fee
+excuse |  
+| bip_39_word_space_0 | ['any', 'walnut', 'index', 'gravity', 'hover', 'gym', 'polar', 'fee', 'excuse', 'topple', 'peanut', 'actress'] |  
+| bip_39_word_space_1 | any |  
+| bip_39_word_space_10 | any walnut index gravity hover gym polar fee excuse topple |  
+| bip_39_word_space_11 | any walnut index gravity hover gym polar fee excuse topple peanut |  
+| bip_39_word_space_12 | any walnut index gravity hover gym polar fee excuse topple peanut actress |  
+| bip_39_word_space_2 | any walnut |  
+| bip_39_word_space_3 | any walnut index |  
+| bip_39_word_space_4 | any walnut index gravity |  
+| bip_39_word_space_5 | any walnut index gravity hover |  
+| bip_39_word_space_6 | any walnut index gravity hover gym |  
+| bip_39_word_space_7 | any walnut index gravity hover gym polar |  
+| bip_39_word_space_8 | any walnut index gravity hover gym polar fee |  
+| bip_39_word_space_9 | any walnut index gravity hover gym polar fee excuse |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

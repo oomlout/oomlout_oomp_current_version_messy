@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foam position
+  * bip 39 word 3: foam position critic
+  * bip 39 word: foam position critic token cement mobile approve lunar okay swim front album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foam |  
+| bip_39_word_new_br10 | foam<br>position<br>critic<br>token<br>cement<br>mobile<br>approve<br>lunar<br>okay<br>swim |  
+| bip_39_word_new_br11 | foam<br>position<br>critic<br>token<br>cement<br>mobile<br>approve<br>lunar<br>okay<br>swim<br>front |  
+| bip_39_word_new_br12 | foam<br>position<br>critic<br>token<br>cement<br>mobile<br>approve<br>lunar<br>okay<br>swim<br>front<br>album |  
+| bip_39_word_new_br2 | foam<br>position |  
+| bip_39_word_new_br3 | foam<br>position<br>critic |  
+| bip_39_word_new_br4 | foam<br>position<br>critic<br>token |  
+| bip_39_word_new_br5 | foam<br>position<br>critic<br>token<br>cement |  
+| bip_39_word_new_br6 | foam<br>position<br>critic<br>token<br>cement<br>mobile |  
+| bip_39_word_new_br7 | foam<br>position<br>critic<br>token<br>cement<br>mobile<br>approve |  
+| bip_39_word_new_br8 | foam<br>position<br>critic<br>token<br>cement<br>mobile<br>approve<br>lunar |  
+| bip_39_word_new_br9 | foam<br>position<br>critic<br>token<br>cement<br>mobile<br>approve<br>lunar<br>okay |  
+| bip_39_word_new_line1 | foam |  
+| bip_39_word_new_line10 | foam
+position
+critic
+token
+cement
+mobile
+approve
+lunar
+okay
+swim |  
+| bip_39_word_new_line11 | foam
+position
+critic
+token
+cement
+mobile
+approve
+lunar
+okay
+swim
+front |  
+| bip_39_word_new_line12 | foam
+position
+critic
+token
+cement
+mobile
+approve
+lunar
+okay
+swim
+front
+album |  
+| bip_39_word_new_line2 | foam
+position |  
+| bip_39_word_new_line3 | foam
+position
+critic |  
+| bip_39_word_new_line4 | foam
+position
+critic
+token |  
+| bip_39_word_new_line5 | foam
+position
+critic
+token
+cement |  
+| bip_39_word_new_line6 | foam
+position
+critic
+token
+cement
+mobile |  
+| bip_39_word_new_line7 | foam
+position
+critic
+token
+cement
+mobile
+approve |  
+| bip_39_word_new_line8 | foam
+position
+critic
+token
+cement
+mobile
+approve
+lunar |  
+| bip_39_word_new_line9 | foam
+position
+critic
+token
+cement
+mobile
+approve
+lunar
+okay |  
+| bip_39_word_space_0 | ['foam', 'position', 'critic', 'token', 'cement', 'mobile', 'approve', 'lunar', 'okay', 'swim', 'front', 'album'] |  
+| bip_39_word_space_1 | foam |  
+| bip_39_word_space_10 | foam position critic token cement mobile approve lunar okay swim |  
+| bip_39_word_space_11 | foam position critic token cement mobile approve lunar okay swim front |  
+| bip_39_word_space_12 | foam position critic token cement mobile approve lunar okay swim front album |  
+| bip_39_word_space_2 | foam position |  
+| bip_39_word_space_3 | foam position critic |  
+| bip_39_word_space_4 | foam position critic token |  
+| bip_39_word_space_5 | foam position critic token cement |  
+| bip_39_word_space_6 | foam position critic token cement mobile |  
+| bip_39_word_space_7 | foam position critic token cement mobile approve |  
+| bip_39_word_space_8 | foam position critic token cement mobile approve lunar |  
+| bip_39_word_space_9 | foam position critic token cement mobile approve lunar okay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

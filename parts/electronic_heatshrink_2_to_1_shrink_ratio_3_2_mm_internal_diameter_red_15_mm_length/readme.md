@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: illegal open
+  * bip 39 word 3: illegal open tilt
+  * bip 39 word: illegal open tilt chest worth patrol cause myself sorry theme humble announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | illegal |  
+| bip_39_word_new_br10 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol<br>cause<br>myself<br>sorry<br>theme |  
+| bip_39_word_new_br11 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol<br>cause<br>myself<br>sorry<br>theme<br>humble |  
+| bip_39_word_new_br12 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol<br>cause<br>myself<br>sorry<br>theme<br>humble<br>announce |  
+| bip_39_word_new_br2 | illegal<br>open |  
+| bip_39_word_new_br3 | illegal<br>open<br>tilt |  
+| bip_39_word_new_br4 | illegal<br>open<br>tilt<br>chest |  
+| bip_39_word_new_br5 | illegal<br>open<br>tilt<br>chest<br>worth |  
+| bip_39_word_new_br6 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol |  
+| bip_39_word_new_br7 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol<br>cause |  
+| bip_39_word_new_br8 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol<br>cause<br>myself |  
+| bip_39_word_new_br9 | illegal<br>open<br>tilt<br>chest<br>worth<br>patrol<br>cause<br>myself<br>sorry |  
+| bip_39_word_new_line1 | illegal |  
+| bip_39_word_new_line10 | illegal
+open
+tilt
+chest
+worth
+patrol
+cause
+myself
+sorry
+theme |  
+| bip_39_word_new_line11 | illegal
+open
+tilt
+chest
+worth
+patrol
+cause
+myself
+sorry
+theme
+humble |  
+| bip_39_word_new_line12 | illegal
+open
+tilt
+chest
+worth
+patrol
+cause
+myself
+sorry
+theme
+humble
+announce |  
+| bip_39_word_new_line2 | illegal
+open |  
+| bip_39_word_new_line3 | illegal
+open
+tilt |  
+| bip_39_word_new_line4 | illegal
+open
+tilt
+chest |  
+| bip_39_word_new_line5 | illegal
+open
+tilt
+chest
+worth |  
+| bip_39_word_new_line6 | illegal
+open
+tilt
+chest
+worth
+patrol |  
+| bip_39_word_new_line7 | illegal
+open
+tilt
+chest
+worth
+patrol
+cause |  
+| bip_39_word_new_line8 | illegal
+open
+tilt
+chest
+worth
+patrol
+cause
+myself |  
+| bip_39_word_new_line9 | illegal
+open
+tilt
+chest
+worth
+patrol
+cause
+myself
+sorry |  
+| bip_39_word_space_0 | ['illegal', 'open', 'tilt', 'chest', 'worth', 'patrol', 'cause', 'myself', 'sorry', 'theme', 'humble', 'announce'] |  
+| bip_39_word_space_1 | illegal |  
+| bip_39_word_space_10 | illegal open tilt chest worth patrol cause myself sorry theme |  
+| bip_39_word_space_11 | illegal open tilt chest worth patrol cause myself sorry theme humble |  
+| bip_39_word_space_12 | illegal open tilt chest worth patrol cause myself sorry theme humble announce |  
+| bip_39_word_space_2 | illegal open |  
+| bip_39_word_space_3 | illegal open tilt |  
+| bip_39_word_space_4 | illegal open tilt chest |  
+| bip_39_word_space_5 | illegal open tilt chest worth |  
+| bip_39_word_space_6 | illegal open tilt chest worth patrol |  
+| bip_39_word_space_7 | illegal open tilt chest worth patrol cause |  
+| bip_39_word_space_8 | illegal open tilt chest worth patrol cause myself |  
+| bip_39_word_space_9 | illegal open tilt chest worth patrol cause myself sorry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

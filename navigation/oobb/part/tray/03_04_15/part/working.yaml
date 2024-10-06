@@ -1,3 +1,187 @@
+bip_39_word_new_br1: alcohol
+bip_39_word_new_br10: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service<br>unique<br>captain<br>pact<br>dilemma
+bip_39_word_new_br11: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service<br>unique<br>captain<br>pact<br>dilemma<br>choose
+bip_39_word_new_br12: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service<br>unique<br>captain<br>pact<br>dilemma<br>choose<br>achieve
+bip_39_word_new_br2: alcohol<br>treat
+bip_39_word_new_br3: alcohol<br>treat<br>rail
+bip_39_word_new_br4: alcohol<br>treat<br>rail<br>bargain
+bip_39_word_new_br5: alcohol<br>treat<br>rail<br>bargain<br>belt
+bip_39_word_new_br6: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service
+bip_39_word_new_br7: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service<br>unique
+bip_39_word_new_br8: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service<br>unique<br>captain
+bip_39_word_new_br9: alcohol<br>treat<br>rail<br>bargain<br>belt<br>service<br>unique<br>captain<br>pact
+bip_39_word_new_line1: alcohol
+bip_39_word_new_line10: 'alcohol
+
+  treat
+
+  rail
+
+  bargain
+
+  belt
+
+  service
+
+  unique
+
+  captain
+
+  pact
+
+  dilemma'
+bip_39_word_new_line11: 'alcohol
+
+  treat
+
+  rail
+
+  bargain
+
+  belt
+
+  service
+
+  unique
+
+  captain
+
+  pact
+
+  dilemma
+
+  choose'
+bip_39_word_new_line12: 'alcohol
+
+  treat
+
+  rail
+
+  bargain
+
+  belt
+
+  service
+
+  unique
+
+  captain
+
+  pact
+
+  dilemma
+
+  choose
+
+  achieve'
+bip_39_word_new_line2: 'alcohol
+
+  treat'
+bip_39_word_new_line3: 'alcohol
+
+  treat
+
+  rail'
+bip_39_word_new_line4: 'alcohol
+
+  treat
+
+  rail
+
+  bargain'
+bip_39_word_new_line5: 'alcohol
+
+  treat
+
+  rail
+
+  bargain
+
+  belt'
+bip_39_word_new_line6: 'alcohol
+
+  treat
+
+  rail
+
+  bargain
+
+  belt
+
+  service'
+bip_39_word_new_line7: 'alcohol
+
+  treat
+
+  rail
+
+  bargain
+
+  belt
+
+  service
+
+  unique'
+bip_39_word_new_line8: 'alcohol
+
+  treat
+
+  rail
+
+  bargain
+
+  belt
+
+  service
+
+  unique
+
+  captain'
+bip_39_word_new_line9: 'alcohol
+
+  treat
+
+  rail
+
+  bargain
+
+  belt
+
+  service
+
+  unique
+
+  captain
+
+  pact'
+bip_39_word_space_0:
+- alcohol
+- treat
+- rail
+- bargain
+- belt
+- service
+- unique
+- captain
+- pact
+- dilemma
+- choose
+- achieve
+bip_39_word_space_1: alcohol
+bip_39_word_space_10: alcohol treat rail bargain belt service unique captain pact
+  dilemma
+bip_39_word_space_11: alcohol treat rail bargain belt service unique captain pact
+  dilemma choose
+bip_39_word_space_12: alcohol treat rail bargain belt service unique captain pact
+  dilemma choose achieve
+bip_39_word_space_2: alcohol treat
+bip_39_word_space_3: alcohol treat rail
+bip_39_word_space_4: alcohol treat rail bargain
+bip_39_word_space_5: alcohol treat rail bargain belt
+bip_39_word_space_6: alcohol treat rail bargain belt service
+bip_39_word_space_7: alcohol treat rail bargain belt service unique
+bip_39_word_space_8: alcohol treat rail bargain belt service unique captain
+bip_39_word_space_9: alcohol treat rail bargain belt service unique captain pact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

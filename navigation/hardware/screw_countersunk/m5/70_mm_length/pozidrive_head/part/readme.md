@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: result action
+  * bip 39 word 3: result action return
+  * bip 39 word: result action return machine screen fiction plastic retreat buzz pepper shed anger
 
 ### other_codes
 * short_code: cs5m70pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | result |  
+| bip_39_word_new_br10 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper |  
+| bip_39_word_new_br11 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper<br>shed |  
+| bip_39_word_new_br12 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz<br>pepper<br>shed<br>anger |  
+| bip_39_word_new_br2 | result<br>action |  
+| bip_39_word_new_br3 | result<br>action<br>return |  
+| bip_39_word_new_br4 | result<br>action<br>return<br>machine |  
+| bip_39_word_new_br5 | result<br>action<br>return<br>machine<br>screen |  
+| bip_39_word_new_br6 | result<br>action<br>return<br>machine<br>screen<br>fiction |  
+| bip_39_word_new_br7 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic |  
+| bip_39_word_new_br8 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat |  
+| bip_39_word_new_br9 | result<br>action<br>return<br>machine<br>screen<br>fiction<br>plastic<br>retreat<br>buzz |  
+| bip_39_word_new_line1 | result |  
+| bip_39_word_new_line10 | result
+action
+return
+machine
+screen
+fiction
+plastic
+retreat
+buzz
+pepper |  
+| bip_39_word_new_line11 | result
+action
+return
+machine
+screen
+fiction
+plastic
+retreat
+buzz
+pepper
+shed |  
+| bip_39_word_new_line12 | result
+action
+return
+machine
+screen
+fiction
+plastic
+retreat
+buzz
+pepper
+shed
+anger |  
+| bip_39_word_new_line2 | result
+action |  
+| bip_39_word_new_line3 | result
+action
+return |  
+| bip_39_word_new_line4 | result
+action
+return
+machine |  
+| bip_39_word_new_line5 | result
+action
+return
+machine
+screen |  
+| bip_39_word_new_line6 | result
+action
+return
+machine
+screen
+fiction |  
+| bip_39_word_new_line7 | result
+action
+return
+machine
+screen
+fiction
+plastic |  
+| bip_39_word_new_line8 | result
+action
+return
+machine
+screen
+fiction
+plastic
+retreat |  
+| bip_39_word_new_line9 | result
+action
+return
+machine
+screen
+fiction
+plastic
+retreat
+buzz |  
+| bip_39_word_space_0 | ['result', 'action', 'return', 'machine', 'screen', 'fiction', 'plastic', 'retreat', 'buzz', 'pepper', 'shed', 'anger'] |  
+| bip_39_word_space_1 | result |  
+| bip_39_word_space_10 | result action return machine screen fiction plastic retreat buzz pepper |  
+| bip_39_word_space_11 | result action return machine screen fiction plastic retreat buzz pepper shed |  
+| bip_39_word_space_12 | result action return machine screen fiction plastic retreat buzz pepper shed anger |  
+| bip_39_word_space_2 | result action |  
+| bip_39_word_space_3 | result action return |  
+| bip_39_word_space_4 | result action return machine |  
+| bip_39_word_space_5 | result action return machine screen |  
+| bip_39_word_space_6 | result action return machine screen fiction |  
+| bip_39_word_space_7 | result action return machine screen fiction plastic |  
+| bip_39_word_space_8 | result action return machine screen fiction plastic retreat |  
+| bip_39_word_space_9 | result action return machine screen fiction plastic retreat buzz |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

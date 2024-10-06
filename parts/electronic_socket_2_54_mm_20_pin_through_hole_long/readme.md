@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: usage creek
+  * bip 39 word 3: usage creek around
+  * bip 39 word: usage creek around convince paddle marble tide pelican speed speak melody access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | usage |  
+| bip_39_word_new_br10 | usage<br>creek<br>around<br>convince<br>paddle<br>marble<br>tide<br>pelican<br>speed<br>speak |  
+| bip_39_word_new_br11 | usage<br>creek<br>around<br>convince<br>paddle<br>marble<br>tide<br>pelican<br>speed<br>speak<br>melody |  
+| bip_39_word_new_br12 | usage<br>creek<br>around<br>convince<br>paddle<br>marble<br>tide<br>pelican<br>speed<br>speak<br>melody<br>access |  
+| bip_39_word_new_br2 | usage<br>creek |  
+| bip_39_word_new_br3 | usage<br>creek<br>around |  
+| bip_39_word_new_br4 | usage<br>creek<br>around<br>convince |  
+| bip_39_word_new_br5 | usage<br>creek<br>around<br>convince<br>paddle |  
+| bip_39_word_new_br6 | usage<br>creek<br>around<br>convince<br>paddle<br>marble |  
+| bip_39_word_new_br7 | usage<br>creek<br>around<br>convince<br>paddle<br>marble<br>tide |  
+| bip_39_word_new_br8 | usage<br>creek<br>around<br>convince<br>paddle<br>marble<br>tide<br>pelican |  
+| bip_39_word_new_br9 | usage<br>creek<br>around<br>convince<br>paddle<br>marble<br>tide<br>pelican<br>speed |  
+| bip_39_word_new_line1 | usage |  
+| bip_39_word_new_line10 | usage
+creek
+around
+convince
+paddle
+marble
+tide
+pelican
+speed
+speak |  
+| bip_39_word_new_line11 | usage
+creek
+around
+convince
+paddle
+marble
+tide
+pelican
+speed
+speak
+melody |  
+| bip_39_word_new_line12 | usage
+creek
+around
+convince
+paddle
+marble
+tide
+pelican
+speed
+speak
+melody
+access |  
+| bip_39_word_new_line2 | usage
+creek |  
+| bip_39_word_new_line3 | usage
+creek
+around |  
+| bip_39_word_new_line4 | usage
+creek
+around
+convince |  
+| bip_39_word_new_line5 | usage
+creek
+around
+convince
+paddle |  
+| bip_39_word_new_line6 | usage
+creek
+around
+convince
+paddle
+marble |  
+| bip_39_word_new_line7 | usage
+creek
+around
+convince
+paddle
+marble
+tide |  
+| bip_39_word_new_line8 | usage
+creek
+around
+convince
+paddle
+marble
+tide
+pelican |  
+| bip_39_word_new_line9 | usage
+creek
+around
+convince
+paddle
+marble
+tide
+pelican
+speed |  
+| bip_39_word_space_0 | ['usage', 'creek', 'around', 'convince', 'paddle', 'marble', 'tide', 'pelican', 'speed', 'speak', 'melody', 'access'] |  
+| bip_39_word_space_1 | usage |  
+| bip_39_word_space_10 | usage creek around convince paddle marble tide pelican speed speak |  
+| bip_39_word_space_11 | usage creek around convince paddle marble tide pelican speed speak melody |  
+| bip_39_word_space_12 | usage creek around convince paddle marble tide pelican speed speak melody access |  
+| bip_39_word_space_2 | usage creek |  
+| bip_39_word_space_3 | usage creek around |  
+| bip_39_word_space_4 | usage creek around convince |  
+| bip_39_word_space_5 | usage creek around convince paddle |  
+| bip_39_word_space_6 | usage creek around convince paddle marble |  
+| bip_39_word_space_7 | usage creek around convince paddle marble tide |  
+| bip_39_word_space_8 | usage creek around convince paddle marble tide pelican |  
+| bip_39_word_space_9 | usage creek around convince paddle marble tide pelican speed |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

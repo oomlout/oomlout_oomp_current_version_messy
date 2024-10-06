@@ -1,3 +1,186 @@
+bip_39_word_new_br1: obey
+bip_39_word_new_br10: obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment
+bip_39_word_new_br11: obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment<br>love
+bip_39_word_new_br12: obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first<br>payment<br>love<br>album
+bip_39_word_new_br2: obey<br>pen
+bip_39_word_new_br3: obey<br>pen<br>enforce
+bip_39_word_new_br4: obey<br>pen<br>enforce<br>useless
+bip_39_word_new_br5: obey<br>pen<br>enforce<br>useless<br>museum
+bip_39_word_new_br6: obey<br>pen<br>enforce<br>useless<br>museum<br>arrange
+bip_39_word_new_br7: obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect
+bip_39_word_new_br8: obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put
+bip_39_word_new_br9: obey<br>pen<br>enforce<br>useless<br>museum<br>arrange<br>suspect<br>put<br>first
+bip_39_word_new_line1: obey
+bip_39_word_new_line10: 'obey
+
+  pen
+
+  enforce
+
+  useless
+
+  museum
+
+  arrange
+
+  suspect
+
+  put
+
+  first
+
+  payment'
+bip_39_word_new_line11: 'obey
+
+  pen
+
+  enforce
+
+  useless
+
+  museum
+
+  arrange
+
+  suspect
+
+  put
+
+  first
+
+  payment
+
+  love'
+bip_39_word_new_line12: 'obey
+
+  pen
+
+  enforce
+
+  useless
+
+  museum
+
+  arrange
+
+  suspect
+
+  put
+
+  first
+
+  payment
+
+  love
+
+  album'
+bip_39_word_new_line2: 'obey
+
+  pen'
+bip_39_word_new_line3: 'obey
+
+  pen
+
+  enforce'
+bip_39_word_new_line4: 'obey
+
+  pen
+
+  enforce
+
+  useless'
+bip_39_word_new_line5: 'obey
+
+  pen
+
+  enforce
+
+  useless
+
+  museum'
+bip_39_word_new_line6: 'obey
+
+  pen
+
+  enforce
+
+  useless
+
+  museum
+
+  arrange'
+bip_39_word_new_line7: 'obey
+
+  pen
+
+  enforce
+
+  useless
+
+  museum
+
+  arrange
+
+  suspect'
+bip_39_word_new_line8: 'obey
+
+  pen
+
+  enforce
+
+  useless
+
+  museum
+
+  arrange
+
+  suspect
+
+  put'
+bip_39_word_new_line9: 'obey
+
+  pen
+
+  enforce
+
+  useless
+
+  museum
+
+  arrange
+
+  suspect
+
+  put
+
+  first'
+bip_39_word_space_0:
+- obey
+- pen
+- enforce
+- useless
+- museum
+- arrange
+- suspect
+- put
+- first
+- payment
+- love
+- album
+bip_39_word_space_1: obey
+bip_39_word_space_10: obey pen enforce useless museum arrange suspect put first payment
+bip_39_word_space_11: obey pen enforce useless museum arrange suspect put first payment
+  love
+bip_39_word_space_12: obey pen enforce useless museum arrange suspect put first payment
+  love album
+bip_39_word_space_2: obey pen
+bip_39_word_space_3: obey pen enforce
+bip_39_word_space_4: obey pen enforce useless
+bip_39_word_space_5: obey pen enforce useless museum
+bip_39_word_space_6: obey pen enforce useless museum arrange
+bip_39_word_space_7: obey pen enforce useless museum arrange suspect
+bip_39_word_space_8: obey pen enforce useless museum arrange suspect put
+bip_39_word_space_9: obey pen enforce useless museum arrange suspect put first
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

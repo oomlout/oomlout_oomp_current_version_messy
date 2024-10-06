@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: below budget
+  * bip 39 word 3: below budget cute
+  * bip 39 word: below budget cute mail pause main error spoil other divert section allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | below |  
+| bip_39_word_new_br10 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert |  
+| bip_39_word_new_br11 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert<br>section |  
+| bip_39_word_new_br12 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other<br>divert<br>section<br>allow |  
+| bip_39_word_new_br2 | below<br>budget |  
+| bip_39_word_new_br3 | below<br>budget<br>cute |  
+| bip_39_word_new_br4 | below<br>budget<br>cute<br>mail |  
+| bip_39_word_new_br5 | below<br>budget<br>cute<br>mail<br>pause |  
+| bip_39_word_new_br6 | below<br>budget<br>cute<br>mail<br>pause<br>main |  
+| bip_39_word_new_br7 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error |  
+| bip_39_word_new_br8 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil |  
+| bip_39_word_new_br9 | below<br>budget<br>cute<br>mail<br>pause<br>main<br>error<br>spoil<br>other |  
+| bip_39_word_new_line1 | below |  
+| bip_39_word_new_line10 | below
+budget
+cute
+mail
+pause
+main
+error
+spoil
+other
+divert |  
+| bip_39_word_new_line11 | below
+budget
+cute
+mail
+pause
+main
+error
+spoil
+other
+divert
+section |  
+| bip_39_word_new_line12 | below
+budget
+cute
+mail
+pause
+main
+error
+spoil
+other
+divert
+section
+allow |  
+| bip_39_word_new_line2 | below
+budget |  
+| bip_39_word_new_line3 | below
+budget
+cute |  
+| bip_39_word_new_line4 | below
+budget
+cute
+mail |  
+| bip_39_word_new_line5 | below
+budget
+cute
+mail
+pause |  
+| bip_39_word_new_line6 | below
+budget
+cute
+mail
+pause
+main |  
+| bip_39_word_new_line7 | below
+budget
+cute
+mail
+pause
+main
+error |  
+| bip_39_word_new_line8 | below
+budget
+cute
+mail
+pause
+main
+error
+spoil |  
+| bip_39_word_new_line9 | below
+budget
+cute
+mail
+pause
+main
+error
+spoil
+other |  
+| bip_39_word_space_0 | ['below', 'budget', 'cute', 'mail', 'pause', 'main', 'error', 'spoil', 'other', 'divert', 'section', 'allow'] |  
+| bip_39_word_space_1 | below |  
+| bip_39_word_space_10 | below budget cute mail pause main error spoil other divert |  
+| bip_39_word_space_11 | below budget cute mail pause main error spoil other divert section |  
+| bip_39_word_space_12 | below budget cute mail pause main error spoil other divert section allow |  
+| bip_39_word_space_2 | below budget |  
+| bip_39_word_space_3 | below budget cute |  
+| bip_39_word_space_4 | below budget cute mail |  
+| bip_39_word_space_5 | below budget cute mail pause |  
+| bip_39_word_space_6 | below budget cute mail pause main |  
+| bip_39_word_space_7 | below budget cute mail pause main error |  
+| bip_39_word_space_8 | below budget cute mail pause main error spoil |  
+| bip_39_word_space_9 | below budget cute mail pause main error spoil other |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

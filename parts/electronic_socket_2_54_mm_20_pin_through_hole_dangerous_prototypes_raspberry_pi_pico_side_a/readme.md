@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: dangerous_prototypes
   * part_number: raspberry_pi_pico_side_a
+  * bip 39 word 2: sheriff letter
+  * bip 39 word 3: sheriff letter aspect
+  * bip 39 word: sheriff letter aspect scale maid box cactus fire rocket top window adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sheriff |  
+| bip_39_word_new_br10 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box<br>cactus<br>fire<br>rocket<br>top |  
+| bip_39_word_new_br11 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box<br>cactus<br>fire<br>rocket<br>top<br>window |  
+| bip_39_word_new_br12 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box<br>cactus<br>fire<br>rocket<br>top<br>window<br>adapt |  
+| bip_39_word_new_br2 | sheriff<br>letter |  
+| bip_39_word_new_br3 | sheriff<br>letter<br>aspect |  
+| bip_39_word_new_br4 | sheriff<br>letter<br>aspect<br>scale |  
+| bip_39_word_new_br5 | sheriff<br>letter<br>aspect<br>scale<br>maid |  
+| bip_39_word_new_br6 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box |  
+| bip_39_word_new_br7 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box<br>cactus |  
+| bip_39_word_new_br8 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box<br>cactus<br>fire |  
+| bip_39_word_new_br9 | sheriff<br>letter<br>aspect<br>scale<br>maid<br>box<br>cactus<br>fire<br>rocket |  
+| bip_39_word_new_line1 | sheriff |  
+| bip_39_word_new_line10 | sheriff
+letter
+aspect
+scale
+maid
+box
+cactus
+fire
+rocket
+top |  
+| bip_39_word_new_line11 | sheriff
+letter
+aspect
+scale
+maid
+box
+cactus
+fire
+rocket
+top
+window |  
+| bip_39_word_new_line12 | sheriff
+letter
+aspect
+scale
+maid
+box
+cactus
+fire
+rocket
+top
+window
+adapt |  
+| bip_39_word_new_line2 | sheriff
+letter |  
+| bip_39_word_new_line3 | sheriff
+letter
+aspect |  
+| bip_39_word_new_line4 | sheriff
+letter
+aspect
+scale |  
+| bip_39_word_new_line5 | sheriff
+letter
+aspect
+scale
+maid |  
+| bip_39_word_new_line6 | sheriff
+letter
+aspect
+scale
+maid
+box |  
+| bip_39_word_new_line7 | sheriff
+letter
+aspect
+scale
+maid
+box
+cactus |  
+| bip_39_word_new_line8 | sheriff
+letter
+aspect
+scale
+maid
+box
+cactus
+fire |  
+| bip_39_word_new_line9 | sheriff
+letter
+aspect
+scale
+maid
+box
+cactus
+fire
+rocket |  
+| bip_39_word_space_0 | ['sheriff', 'letter', 'aspect', 'scale', 'maid', 'box', 'cactus', 'fire', 'rocket', 'top', 'window', 'adapt'] |  
+| bip_39_word_space_1 | sheriff |  
+| bip_39_word_space_10 | sheriff letter aspect scale maid box cactus fire rocket top |  
+| bip_39_word_space_11 | sheriff letter aspect scale maid box cactus fire rocket top window |  
+| bip_39_word_space_12 | sheriff letter aspect scale maid box cactus fire rocket top window adapt |  
+| bip_39_word_space_2 | sheriff letter |  
+| bip_39_word_space_3 | sheriff letter aspect |  
+| bip_39_word_space_4 | sheriff letter aspect scale |  
+| bip_39_word_space_5 | sheriff letter aspect scale maid |  
+| bip_39_word_space_6 | sheriff letter aspect scale maid box |  
+| bip_39_word_space_7 | sheriff letter aspect scale maid box cactus |  
+| bip_39_word_space_8 | sheriff letter aspect scale maid box cactus fire |  
+| bip_39_word_space_9 | sheriff letter aspect scale maid box cactus fire rocket |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: name purse
+  * bip 39 word 3: name purse couch
+  * bip 39 word: name purse couch crazy blade bronze hour object salute patient annual any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | name |  
+| bip_39_word_new_br10 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute<br>patient |  
+| bip_39_word_new_br11 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute<br>patient<br>annual |  
+| bip_39_word_new_br12 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute<br>patient<br>annual<br>any |  
+| bip_39_word_new_br2 | name<br>purse |  
+| bip_39_word_new_br3 | name<br>purse<br>couch |  
+| bip_39_word_new_br4 | name<br>purse<br>couch<br>crazy |  
+| bip_39_word_new_br5 | name<br>purse<br>couch<br>crazy<br>blade |  
+| bip_39_word_new_br6 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze |  
+| bip_39_word_new_br7 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour |  
+| bip_39_word_new_br8 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object |  
+| bip_39_word_new_br9 | name<br>purse<br>couch<br>crazy<br>blade<br>bronze<br>hour<br>object<br>salute |  
+| bip_39_word_new_line1 | name |  
+| bip_39_word_new_line10 | name
+purse
+couch
+crazy
+blade
+bronze
+hour
+object
+salute
+patient |  
+| bip_39_word_new_line11 | name
+purse
+couch
+crazy
+blade
+bronze
+hour
+object
+salute
+patient
+annual |  
+| bip_39_word_new_line12 | name
+purse
+couch
+crazy
+blade
+bronze
+hour
+object
+salute
+patient
+annual
+any |  
+| bip_39_word_new_line2 | name
+purse |  
+| bip_39_word_new_line3 | name
+purse
+couch |  
+| bip_39_word_new_line4 | name
+purse
+couch
+crazy |  
+| bip_39_word_new_line5 | name
+purse
+couch
+crazy
+blade |  
+| bip_39_word_new_line6 | name
+purse
+couch
+crazy
+blade
+bronze |  
+| bip_39_word_new_line7 | name
+purse
+couch
+crazy
+blade
+bronze
+hour |  
+| bip_39_word_new_line8 | name
+purse
+couch
+crazy
+blade
+bronze
+hour
+object |  
+| bip_39_word_new_line9 | name
+purse
+couch
+crazy
+blade
+bronze
+hour
+object
+salute |  
+| bip_39_word_space_0 | ['name', 'purse', 'couch', 'crazy', 'blade', 'bronze', 'hour', 'object', 'salute', 'patient', 'annual', 'any'] |  
+| bip_39_word_space_1 | name |  
+| bip_39_word_space_10 | name purse couch crazy blade bronze hour object salute patient |  
+| bip_39_word_space_11 | name purse couch crazy blade bronze hour object salute patient annual |  
+| bip_39_word_space_12 | name purse couch crazy blade bronze hour object salute patient annual any |  
+| bip_39_word_space_2 | name purse |  
+| bip_39_word_space_3 | name purse couch |  
+| bip_39_word_space_4 | name purse couch crazy |  
+| bip_39_word_space_5 | name purse couch crazy blade |  
+| bip_39_word_space_6 | name purse couch crazy blade bronze |  
+| bip_39_word_space_7 | name purse couch crazy blade bronze hour |  
+| bip_39_word_space_8 | name purse couch crazy blade bronze hour object |  
+| bip_39_word_space_9 | name purse couch crazy blade bronze hour object salute |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

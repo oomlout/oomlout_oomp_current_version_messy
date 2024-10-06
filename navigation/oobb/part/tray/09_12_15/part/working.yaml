@@ -1,3 +1,185 @@
+bip_39_word_new_br1: strong
+bip_39_word_new_br10: strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push
+bip_39_word_new_br11: strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push<br>album
+bip_39_word_new_br12: strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun<br>push<br>album<br>annual
+bip_39_word_new_br2: strong<br>place
+bip_39_word_new_br3: strong<br>place<br>shop
+bip_39_word_new_br4: strong<br>place<br>shop<br>oak
+bip_39_word_new_br5: strong<br>place<br>shop<br>oak<br>praise
+bip_39_word_new_br6: strong<br>place<br>shop<br>oak<br>praise<br>consider
+bip_39_word_new_br7: strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall
+bip_39_word_new_br8: strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click
+bip_39_word_new_br9: strong<br>place<br>shop<br>oak<br>praise<br>consider<br>wall<br>click<br>gun
+bip_39_word_new_line1: strong
+bip_39_word_new_line10: 'strong
+
+  place
+
+  shop
+
+  oak
+
+  praise
+
+  consider
+
+  wall
+
+  click
+
+  gun
+
+  push'
+bip_39_word_new_line11: 'strong
+
+  place
+
+  shop
+
+  oak
+
+  praise
+
+  consider
+
+  wall
+
+  click
+
+  gun
+
+  push
+
+  album'
+bip_39_word_new_line12: 'strong
+
+  place
+
+  shop
+
+  oak
+
+  praise
+
+  consider
+
+  wall
+
+  click
+
+  gun
+
+  push
+
+  album
+
+  annual'
+bip_39_word_new_line2: 'strong
+
+  place'
+bip_39_word_new_line3: 'strong
+
+  place
+
+  shop'
+bip_39_word_new_line4: 'strong
+
+  place
+
+  shop
+
+  oak'
+bip_39_word_new_line5: 'strong
+
+  place
+
+  shop
+
+  oak
+
+  praise'
+bip_39_word_new_line6: 'strong
+
+  place
+
+  shop
+
+  oak
+
+  praise
+
+  consider'
+bip_39_word_new_line7: 'strong
+
+  place
+
+  shop
+
+  oak
+
+  praise
+
+  consider
+
+  wall'
+bip_39_word_new_line8: 'strong
+
+  place
+
+  shop
+
+  oak
+
+  praise
+
+  consider
+
+  wall
+
+  click'
+bip_39_word_new_line9: 'strong
+
+  place
+
+  shop
+
+  oak
+
+  praise
+
+  consider
+
+  wall
+
+  click
+
+  gun'
+bip_39_word_space_0:
+- strong
+- place
+- shop
+- oak
+- praise
+- consider
+- wall
+- click
+- gun
+- push
+- album
+- annual
+bip_39_word_space_1: strong
+bip_39_word_space_10: strong place shop oak praise consider wall click gun push
+bip_39_word_space_11: strong place shop oak praise consider wall click gun push album
+bip_39_word_space_12: strong place shop oak praise consider wall click gun push album
+  annual
+bip_39_word_space_2: strong place
+bip_39_word_space_3: strong place shop
+bip_39_word_space_4: strong place shop oak
+bip_39_word_space_5: strong place shop oak praise
+bip_39_word_space_6: strong place shop oak praise consider
+bip_39_word_space_7: strong place shop oak praise consider wall
+bip_39_word_space_8: strong place shop oak praise consider wall click
+bip_39_word_space_9: strong place shop oak praise consider wall click gun
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

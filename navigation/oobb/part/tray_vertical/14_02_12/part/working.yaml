@@ -1,3 +1,186 @@
+bip_39_word_new_br1: flash
+bip_39_word_new_br10: flash<br>quarter<br>face<br>warm<br>sample<br>prefer<br>silk<br>alone<br>shadow<br>captain
+bip_39_word_new_br11: flash<br>quarter<br>face<br>warm<br>sample<br>prefer<br>silk<br>alone<br>shadow<br>captain<br>come
+bip_39_word_new_br12: flash<br>quarter<br>face<br>warm<br>sample<br>prefer<br>silk<br>alone<br>shadow<br>captain<br>come<br>alone
+bip_39_word_new_br2: flash<br>quarter
+bip_39_word_new_br3: flash<br>quarter<br>face
+bip_39_word_new_br4: flash<br>quarter<br>face<br>warm
+bip_39_word_new_br5: flash<br>quarter<br>face<br>warm<br>sample
+bip_39_word_new_br6: flash<br>quarter<br>face<br>warm<br>sample<br>prefer
+bip_39_word_new_br7: flash<br>quarter<br>face<br>warm<br>sample<br>prefer<br>silk
+bip_39_word_new_br8: flash<br>quarter<br>face<br>warm<br>sample<br>prefer<br>silk<br>alone
+bip_39_word_new_br9: flash<br>quarter<br>face<br>warm<br>sample<br>prefer<br>silk<br>alone<br>shadow
+bip_39_word_new_line1: flash
+bip_39_word_new_line10: 'flash
+
+  quarter
+
+  face
+
+  warm
+
+  sample
+
+  prefer
+
+  silk
+
+  alone
+
+  shadow
+
+  captain'
+bip_39_word_new_line11: 'flash
+
+  quarter
+
+  face
+
+  warm
+
+  sample
+
+  prefer
+
+  silk
+
+  alone
+
+  shadow
+
+  captain
+
+  come'
+bip_39_word_new_line12: 'flash
+
+  quarter
+
+  face
+
+  warm
+
+  sample
+
+  prefer
+
+  silk
+
+  alone
+
+  shadow
+
+  captain
+
+  come
+
+  alone'
+bip_39_word_new_line2: 'flash
+
+  quarter'
+bip_39_word_new_line3: 'flash
+
+  quarter
+
+  face'
+bip_39_word_new_line4: 'flash
+
+  quarter
+
+  face
+
+  warm'
+bip_39_word_new_line5: 'flash
+
+  quarter
+
+  face
+
+  warm
+
+  sample'
+bip_39_word_new_line6: 'flash
+
+  quarter
+
+  face
+
+  warm
+
+  sample
+
+  prefer'
+bip_39_word_new_line7: 'flash
+
+  quarter
+
+  face
+
+  warm
+
+  sample
+
+  prefer
+
+  silk'
+bip_39_word_new_line8: 'flash
+
+  quarter
+
+  face
+
+  warm
+
+  sample
+
+  prefer
+
+  silk
+
+  alone'
+bip_39_word_new_line9: 'flash
+
+  quarter
+
+  face
+
+  warm
+
+  sample
+
+  prefer
+
+  silk
+
+  alone
+
+  shadow'
+bip_39_word_space_0:
+- flash
+- quarter
+- face
+- warm
+- sample
+- prefer
+- silk
+- alone
+- shadow
+- captain
+- come
+- alone
+bip_39_word_space_1: flash
+bip_39_word_space_10: flash quarter face warm sample prefer silk alone shadow captain
+bip_39_word_space_11: flash quarter face warm sample prefer silk alone shadow captain
+  come
+bip_39_word_space_12: flash quarter face warm sample prefer silk alone shadow captain
+  come alone
+bip_39_word_space_2: flash quarter
+bip_39_word_space_3: flash quarter face
+bip_39_word_space_4: flash quarter face warm
+bip_39_word_space_5: flash quarter face warm sample
+bip_39_word_space_6: flash quarter face warm sample prefer
+bip_39_word_space_7: flash quarter face warm sample prefer silk
+bip_39_word_space_8: flash quarter face warm sample prefer silk alone
+bip_39_word_space_9: flash quarter face warm sample prefer silk alone shadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

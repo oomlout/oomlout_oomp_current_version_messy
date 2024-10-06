@@ -1,3 +1,186 @@
+bip_39_word_new_br1: habit
+bip_39_word_new_br10: habit<br>sibling<br>piece<br>noodle<br>blood<br>various<br>salt<br>bleak<br>animal<br>jungle
+bip_39_word_new_br11: habit<br>sibling<br>piece<br>noodle<br>blood<br>various<br>salt<br>bleak<br>animal<br>jungle<br>motor
+bip_39_word_new_br12: habit<br>sibling<br>piece<br>noodle<br>blood<br>various<br>salt<br>bleak<br>animal<br>jungle<br>motor<br>athlete
+bip_39_word_new_br2: habit<br>sibling
+bip_39_word_new_br3: habit<br>sibling<br>piece
+bip_39_word_new_br4: habit<br>sibling<br>piece<br>noodle
+bip_39_word_new_br5: habit<br>sibling<br>piece<br>noodle<br>blood
+bip_39_word_new_br6: habit<br>sibling<br>piece<br>noodle<br>blood<br>various
+bip_39_word_new_br7: habit<br>sibling<br>piece<br>noodle<br>blood<br>various<br>salt
+bip_39_word_new_br8: habit<br>sibling<br>piece<br>noodle<br>blood<br>various<br>salt<br>bleak
+bip_39_word_new_br9: habit<br>sibling<br>piece<br>noodle<br>blood<br>various<br>salt<br>bleak<br>animal
+bip_39_word_new_line1: habit
+bip_39_word_new_line10: 'habit
+
+  sibling
+
+  piece
+
+  noodle
+
+  blood
+
+  various
+
+  salt
+
+  bleak
+
+  animal
+
+  jungle'
+bip_39_word_new_line11: 'habit
+
+  sibling
+
+  piece
+
+  noodle
+
+  blood
+
+  various
+
+  salt
+
+  bleak
+
+  animal
+
+  jungle
+
+  motor'
+bip_39_word_new_line12: 'habit
+
+  sibling
+
+  piece
+
+  noodle
+
+  blood
+
+  various
+
+  salt
+
+  bleak
+
+  animal
+
+  jungle
+
+  motor
+
+  athlete'
+bip_39_word_new_line2: 'habit
+
+  sibling'
+bip_39_word_new_line3: 'habit
+
+  sibling
+
+  piece'
+bip_39_word_new_line4: 'habit
+
+  sibling
+
+  piece
+
+  noodle'
+bip_39_word_new_line5: 'habit
+
+  sibling
+
+  piece
+
+  noodle
+
+  blood'
+bip_39_word_new_line6: 'habit
+
+  sibling
+
+  piece
+
+  noodle
+
+  blood
+
+  various'
+bip_39_word_new_line7: 'habit
+
+  sibling
+
+  piece
+
+  noodle
+
+  blood
+
+  various
+
+  salt'
+bip_39_word_new_line8: 'habit
+
+  sibling
+
+  piece
+
+  noodle
+
+  blood
+
+  various
+
+  salt
+
+  bleak'
+bip_39_word_new_line9: 'habit
+
+  sibling
+
+  piece
+
+  noodle
+
+  blood
+
+  various
+
+  salt
+
+  bleak
+
+  animal'
+bip_39_word_space_0:
+- habit
+- sibling
+- piece
+- noodle
+- blood
+- various
+- salt
+- bleak
+- animal
+- jungle
+- motor
+- athlete
+bip_39_word_space_1: habit
+bip_39_word_space_10: habit sibling piece noodle blood various salt bleak animal jungle
+bip_39_word_space_11: habit sibling piece noodle blood various salt bleak animal jungle
+  motor
+bip_39_word_space_12: habit sibling piece noodle blood various salt bleak animal jungle
+  motor athlete
+bip_39_word_space_2: habit sibling
+bip_39_word_space_3: habit sibling piece
+bip_39_word_space_4: habit sibling piece noodle
+bip_39_word_space_5: habit sibling piece noodle blood
+bip_39_word_space_6: habit sibling piece noodle blood various
+bip_39_word_space_7: habit sibling piece noodle blood various salt
+bip_39_word_space_8: habit sibling piece noodle blood various salt bleak
+bip_39_word_space_9: habit sibling piece noodle blood various salt bleak animal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

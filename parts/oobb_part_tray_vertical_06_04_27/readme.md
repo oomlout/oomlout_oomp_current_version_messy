@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: horror wonder
+  * bip 39 word 3: horror wonder fiscal
+  * bip 39 word: horror wonder fiscal claw neutral large brisk scheme second crew average apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | horror |  
+| bip_39_word_new_br10 | horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large<br>brisk<br>scheme<br>second<br>crew |  
+| bip_39_word_new_br11 | horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large<br>brisk<br>scheme<br>second<br>crew<br>average |  
+| bip_39_word_new_br12 | horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large<br>brisk<br>scheme<br>second<br>crew<br>average<br>apple |  
+| bip_39_word_new_br2 | horror<br>wonder |  
+| bip_39_word_new_br3 | horror<br>wonder<br>fiscal |  
+| bip_39_word_new_br4 | horror<br>wonder<br>fiscal<br>claw |  
+| bip_39_word_new_br5 | horror<br>wonder<br>fiscal<br>claw<br>neutral |  
+| bip_39_word_new_br6 | horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large |  
+| bip_39_word_new_br7 | horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large<br>brisk |  
+| bip_39_word_new_br8 | horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large<br>brisk<br>scheme |  
+| bip_39_word_new_br9 | horror<br>wonder<br>fiscal<br>claw<br>neutral<br>large<br>brisk<br>scheme<br>second |  
+| bip_39_word_new_line1 | horror |  
+| bip_39_word_new_line10 | horror
+wonder
+fiscal
+claw
+neutral
+large
+brisk
+scheme
+second
+crew |  
+| bip_39_word_new_line11 | horror
+wonder
+fiscal
+claw
+neutral
+large
+brisk
+scheme
+second
+crew
+average |  
+| bip_39_word_new_line12 | horror
+wonder
+fiscal
+claw
+neutral
+large
+brisk
+scheme
+second
+crew
+average
+apple |  
+| bip_39_word_new_line2 | horror
+wonder |  
+| bip_39_word_new_line3 | horror
+wonder
+fiscal |  
+| bip_39_word_new_line4 | horror
+wonder
+fiscal
+claw |  
+| bip_39_word_new_line5 | horror
+wonder
+fiscal
+claw
+neutral |  
+| bip_39_word_new_line6 | horror
+wonder
+fiscal
+claw
+neutral
+large |  
+| bip_39_word_new_line7 | horror
+wonder
+fiscal
+claw
+neutral
+large
+brisk |  
+| bip_39_word_new_line8 | horror
+wonder
+fiscal
+claw
+neutral
+large
+brisk
+scheme |  
+| bip_39_word_new_line9 | horror
+wonder
+fiscal
+claw
+neutral
+large
+brisk
+scheme
+second |  
+| bip_39_word_space_0 | ['horror', 'wonder', 'fiscal', 'claw', 'neutral', 'large', 'brisk', 'scheme', 'second', 'crew', 'average', 'apple'] |  
+| bip_39_word_space_1 | horror |  
+| bip_39_word_space_10 | horror wonder fiscal claw neutral large brisk scheme second crew |  
+| bip_39_word_space_11 | horror wonder fiscal claw neutral large brisk scheme second crew average |  
+| bip_39_word_space_12 | horror wonder fiscal claw neutral large brisk scheme second crew average apple |  
+| bip_39_word_space_2 | horror wonder |  
+| bip_39_word_space_3 | horror wonder fiscal |  
+| bip_39_word_space_4 | horror wonder fiscal claw |  
+| bip_39_word_space_5 | horror wonder fiscal claw neutral |  
+| bip_39_word_space_6 | horror wonder fiscal claw neutral large |  
+| bip_39_word_space_7 | horror wonder fiscal claw neutral large brisk |  
+| bip_39_word_space_8 | horror wonder fiscal claw neutral large brisk scheme |  
+| bip_39_word_space_9 | horror wonder fiscal claw neutral large brisk scheme second |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

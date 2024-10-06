@@ -1,3 +1,187 @@
+bip_39_word_new_br1: danger
+bip_39_word_new_br10: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach
+bip_39_word_new_br11: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew
+bip_39_word_new_br12: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew<br>army
+bip_39_word_new_br2: danger<br>hole
+bip_39_word_new_br3: danger<br>hole<br>transfer
+bip_39_word_new_br4: danger<br>hole<br>transfer<br>jump
+bip_39_word_new_br5: danger<br>hole<br>transfer<br>jump<br>addict
+bip_39_word_new_br6: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous
+bip_39_word_new_br7: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth
+bip_39_word_new_br8: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud
+bip_39_word_new_br9: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second
+bip_39_word_new_line1: danger
+bip_39_word_new_line10: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud
+
+  second
+
+  stomach'
+bip_39_word_new_line11: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud
+
+  second
+
+  stomach
+
+  crew'
+bip_39_word_new_line12: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud
+
+  second
+
+  stomach
+
+  crew
+
+  army'
+bip_39_word_new_line2: 'danger
+
+  hole'
+bip_39_word_new_line3: 'danger
+
+  hole
+
+  transfer'
+bip_39_word_new_line4: 'danger
+
+  hole
+
+  transfer
+
+  jump'
+bip_39_word_new_line5: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict'
+bip_39_word_new_line6: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous'
+bip_39_word_new_line7: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth'
+bip_39_word_new_line8: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud'
+bip_39_word_new_line9: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud
+
+  second'
+bip_39_word_space_0:
+- danger
+- hole
+- transfer
+- jump
+- addict
+- jealous
+- worth
+- cloud
+- second
+- stomach
+- crew
+- army
+bip_39_word_space_1: danger
+bip_39_word_space_10: danger hole transfer jump addict jealous worth cloud second
+  stomach
+bip_39_word_space_11: danger hole transfer jump addict jealous worth cloud second
+  stomach crew
+bip_39_word_space_12: danger hole transfer jump addict jealous worth cloud second
+  stomach crew army
+bip_39_word_space_2: danger hole
+bip_39_word_space_3: danger hole transfer
+bip_39_word_space_4: danger hole transfer jump
+bip_39_word_space_5: danger hole transfer jump addict
+bip_39_word_space_6: danger hole transfer jump addict jealous
+bip_39_word_space_7: danger hole transfer jump addict jealous worth
+bip_39_word_space_8: danger hole transfer jump addict jealous worth cloud
+bip_39_word_space_9: danger hole transfer jump addict jealous worth cloud second
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

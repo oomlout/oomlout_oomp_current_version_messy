@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: detect math
+  * bip 39 word 3: detect math capable
+  * bip 39 word: detect math capable alcohol select solar wear dizzy course grow train aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | detect |  
+| bip_39_word_new_br10 | detect<br>math<br>capable<br>alcohol<br>select<br>solar<br>wear<br>dizzy<br>course<br>grow |  
+| bip_39_word_new_br11 | detect<br>math<br>capable<br>alcohol<br>select<br>solar<br>wear<br>dizzy<br>course<br>grow<br>train |  
+| bip_39_word_new_br12 | detect<br>math<br>capable<br>alcohol<br>select<br>solar<br>wear<br>dizzy<br>course<br>grow<br>train<br>aunt |  
+| bip_39_word_new_br2 | detect<br>math |  
+| bip_39_word_new_br3 | detect<br>math<br>capable |  
+| bip_39_word_new_br4 | detect<br>math<br>capable<br>alcohol |  
+| bip_39_word_new_br5 | detect<br>math<br>capable<br>alcohol<br>select |  
+| bip_39_word_new_br6 | detect<br>math<br>capable<br>alcohol<br>select<br>solar |  
+| bip_39_word_new_br7 | detect<br>math<br>capable<br>alcohol<br>select<br>solar<br>wear |  
+| bip_39_word_new_br8 | detect<br>math<br>capable<br>alcohol<br>select<br>solar<br>wear<br>dizzy |  
+| bip_39_word_new_br9 | detect<br>math<br>capable<br>alcohol<br>select<br>solar<br>wear<br>dizzy<br>course |  
+| bip_39_word_new_line1 | detect |  
+| bip_39_word_new_line10 | detect
+math
+capable
+alcohol
+select
+solar
+wear
+dizzy
+course
+grow |  
+| bip_39_word_new_line11 | detect
+math
+capable
+alcohol
+select
+solar
+wear
+dizzy
+course
+grow
+train |  
+| bip_39_word_new_line12 | detect
+math
+capable
+alcohol
+select
+solar
+wear
+dizzy
+course
+grow
+train
+aunt |  
+| bip_39_word_new_line2 | detect
+math |  
+| bip_39_word_new_line3 | detect
+math
+capable |  
+| bip_39_word_new_line4 | detect
+math
+capable
+alcohol |  
+| bip_39_word_new_line5 | detect
+math
+capable
+alcohol
+select |  
+| bip_39_word_new_line6 | detect
+math
+capable
+alcohol
+select
+solar |  
+| bip_39_word_new_line7 | detect
+math
+capable
+alcohol
+select
+solar
+wear |  
+| bip_39_word_new_line8 | detect
+math
+capable
+alcohol
+select
+solar
+wear
+dizzy |  
+| bip_39_word_new_line9 | detect
+math
+capable
+alcohol
+select
+solar
+wear
+dizzy
+course |  
+| bip_39_word_space_0 | ['detect', 'math', 'capable', 'alcohol', 'select', 'solar', 'wear', 'dizzy', 'course', 'grow', 'train', 'aunt'] |  
+| bip_39_word_space_1 | detect |  
+| bip_39_word_space_10 | detect math capable alcohol select solar wear dizzy course grow |  
+| bip_39_word_space_11 | detect math capable alcohol select solar wear dizzy course grow train |  
+| bip_39_word_space_12 | detect math capable alcohol select solar wear dizzy course grow train aunt |  
+| bip_39_word_space_2 | detect math |  
+| bip_39_word_space_3 | detect math capable |  
+| bip_39_word_space_4 | detect math capable alcohol |  
+| bip_39_word_space_5 | detect math capable alcohol select |  
+| bip_39_word_space_6 | detect math capable alcohol select solar |  
+| bip_39_word_space_7 | detect math capable alcohol select solar wear |  
+| bip_39_word_space_8 | detect math capable alcohol select solar wear dizzy |  
+| bip_39_word_space_9 | detect math capable alcohol select solar wear dizzy course |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

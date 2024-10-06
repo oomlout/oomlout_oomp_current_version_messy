@@ -1,3 +1,186 @@
+bip_39_word_new_br1: concert
+bip_39_word_new_br10: concert<br>salon<br>desert<br>car<br>duck<br>job<br>canal<br>aware<br>open<br>marriage
+bip_39_word_new_br11: concert<br>salon<br>desert<br>car<br>duck<br>job<br>canal<br>aware<br>open<br>marriage<br>image
+bip_39_word_new_br12: concert<br>salon<br>desert<br>car<br>duck<br>job<br>canal<br>aware<br>open<br>marriage<br>image<br>athlete
+bip_39_word_new_br2: concert<br>salon
+bip_39_word_new_br3: concert<br>salon<br>desert
+bip_39_word_new_br4: concert<br>salon<br>desert<br>car
+bip_39_word_new_br5: concert<br>salon<br>desert<br>car<br>duck
+bip_39_word_new_br6: concert<br>salon<br>desert<br>car<br>duck<br>job
+bip_39_word_new_br7: concert<br>salon<br>desert<br>car<br>duck<br>job<br>canal
+bip_39_word_new_br8: concert<br>salon<br>desert<br>car<br>duck<br>job<br>canal<br>aware
+bip_39_word_new_br9: concert<br>salon<br>desert<br>car<br>duck<br>job<br>canal<br>aware<br>open
+bip_39_word_new_line1: concert
+bip_39_word_new_line10: 'concert
+
+  salon
+
+  desert
+
+  car
+
+  duck
+
+  job
+
+  canal
+
+  aware
+
+  open
+
+  marriage'
+bip_39_word_new_line11: 'concert
+
+  salon
+
+  desert
+
+  car
+
+  duck
+
+  job
+
+  canal
+
+  aware
+
+  open
+
+  marriage
+
+  image'
+bip_39_word_new_line12: 'concert
+
+  salon
+
+  desert
+
+  car
+
+  duck
+
+  job
+
+  canal
+
+  aware
+
+  open
+
+  marriage
+
+  image
+
+  athlete'
+bip_39_word_new_line2: 'concert
+
+  salon'
+bip_39_word_new_line3: 'concert
+
+  salon
+
+  desert'
+bip_39_word_new_line4: 'concert
+
+  salon
+
+  desert
+
+  car'
+bip_39_word_new_line5: 'concert
+
+  salon
+
+  desert
+
+  car
+
+  duck'
+bip_39_word_new_line6: 'concert
+
+  salon
+
+  desert
+
+  car
+
+  duck
+
+  job'
+bip_39_word_new_line7: 'concert
+
+  salon
+
+  desert
+
+  car
+
+  duck
+
+  job
+
+  canal'
+bip_39_word_new_line8: 'concert
+
+  salon
+
+  desert
+
+  car
+
+  duck
+
+  job
+
+  canal
+
+  aware'
+bip_39_word_new_line9: 'concert
+
+  salon
+
+  desert
+
+  car
+
+  duck
+
+  job
+
+  canal
+
+  aware
+
+  open'
+bip_39_word_space_0:
+- concert
+- salon
+- desert
+- car
+- duck
+- job
+- canal
+- aware
+- open
+- marriage
+- image
+- athlete
+bip_39_word_space_1: concert
+bip_39_word_space_10: concert salon desert car duck job canal aware open marriage
+bip_39_word_space_11: concert salon desert car duck job canal aware open marriage
+  image
+bip_39_word_space_12: concert salon desert car duck job canal aware open marriage
+  image athlete
+bip_39_word_space_2: concert salon
+bip_39_word_space_3: concert salon desert
+bip_39_word_space_4: concert salon desert car
+bip_39_word_space_5: concert salon desert car duck
+bip_39_word_space_6: concert salon desert car duck job
+bip_39_word_space_7: concert salon desert car duck job canal
+bip_39_word_space_8: concert salon desert car duck job canal aware
+bip_39_word_space_9: concert salon desert car duck job canal aware open
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

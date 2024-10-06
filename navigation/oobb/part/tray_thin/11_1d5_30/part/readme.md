@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flame foster
+  * bip 39 word 3: flame foster that
+  * bip 39 word: flame foster that dress inform hello abuse roast hawk badge surround around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flame |  
+| bip_39_word_new_br10 | flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk<br>badge |  
+| bip_39_word_new_br11 | flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk<br>badge<br>surround |  
+| bip_39_word_new_br12 | flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk<br>badge<br>surround<br>around |  
+| bip_39_word_new_br2 | flame<br>foster |  
+| bip_39_word_new_br3 | flame<br>foster<br>that |  
+| bip_39_word_new_br4 | flame<br>foster<br>that<br>dress |  
+| bip_39_word_new_br5 | flame<br>foster<br>that<br>dress<br>inform |  
+| bip_39_word_new_br6 | flame<br>foster<br>that<br>dress<br>inform<br>hello |  
+| bip_39_word_new_br7 | flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse |  
+| bip_39_word_new_br8 | flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast |  
+| bip_39_word_new_br9 | flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk |  
+| bip_39_word_new_line1 | flame |  
+| bip_39_word_new_line10 | flame
+foster
+that
+dress
+inform
+hello
+abuse
+roast
+hawk
+badge |  
+| bip_39_word_new_line11 | flame
+foster
+that
+dress
+inform
+hello
+abuse
+roast
+hawk
+badge
+surround |  
+| bip_39_word_new_line12 | flame
+foster
+that
+dress
+inform
+hello
+abuse
+roast
+hawk
+badge
+surround
+around |  
+| bip_39_word_new_line2 | flame
+foster |  
+| bip_39_word_new_line3 | flame
+foster
+that |  
+| bip_39_word_new_line4 | flame
+foster
+that
+dress |  
+| bip_39_word_new_line5 | flame
+foster
+that
+dress
+inform |  
+| bip_39_word_new_line6 | flame
+foster
+that
+dress
+inform
+hello |  
+| bip_39_word_new_line7 | flame
+foster
+that
+dress
+inform
+hello
+abuse |  
+| bip_39_word_new_line8 | flame
+foster
+that
+dress
+inform
+hello
+abuse
+roast |  
+| bip_39_word_new_line9 | flame
+foster
+that
+dress
+inform
+hello
+abuse
+roast
+hawk |  
+| bip_39_word_space_0 | ['flame', 'foster', 'that', 'dress', 'inform', 'hello', 'abuse', 'roast', 'hawk', 'badge', 'surround', 'around'] |  
+| bip_39_word_space_1 | flame |  
+| bip_39_word_space_10 | flame foster that dress inform hello abuse roast hawk badge |  
+| bip_39_word_space_11 | flame foster that dress inform hello abuse roast hawk badge surround |  
+| bip_39_word_space_12 | flame foster that dress inform hello abuse roast hawk badge surround around |  
+| bip_39_word_space_2 | flame foster |  
+| bip_39_word_space_3 | flame foster that |  
+| bip_39_word_space_4 | flame foster that dress |  
+| bip_39_word_space_5 | flame foster that dress inform |  
+| bip_39_word_space_6 | flame foster that dress inform hello |  
+| bip_39_word_space_7 | flame foster that dress inform hello abuse |  
+| bip_39_word_space_8 | flame foster that dress inform hello abuse roast |  
+| bip_39_word_space_9 | flame foster that dress inform hello abuse roast hawk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

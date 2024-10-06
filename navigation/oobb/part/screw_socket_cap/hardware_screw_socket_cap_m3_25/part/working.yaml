@@ -1,3 +1,187 @@
+bip_39_word_new_br1: aim
+bip_39_word_new_br10: aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber<br>crucial<br>insect<br>language<br>deputy
+bip_39_word_new_br11: aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber<br>crucial<br>insect<br>language<br>deputy<br>rare
+bip_39_word_new_br12: aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber<br>crucial<br>insect<br>language<br>deputy<br>rare<br>abstract
+bip_39_word_new_br2: aim<br>uphold
+bip_39_word_new_br3: aim<br>uphold<br>napkin
+bip_39_word_new_br4: aim<br>uphold<br>napkin<br>imitate
+bip_39_word_new_br5: aim<br>uphold<br>napkin<br>imitate<br>kit
+bip_39_word_new_br6: aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber
+bip_39_word_new_br7: aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber<br>crucial
+bip_39_word_new_br8: aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber<br>crucial<br>insect
+bip_39_word_new_br9: aim<br>uphold<br>napkin<br>imitate<br>kit<br>timber<br>crucial<br>insect<br>language
+bip_39_word_new_line1: aim
+bip_39_word_new_line10: 'aim
+
+  uphold
+
+  napkin
+
+  imitate
+
+  kit
+
+  timber
+
+  crucial
+
+  insect
+
+  language
+
+  deputy'
+bip_39_word_new_line11: 'aim
+
+  uphold
+
+  napkin
+
+  imitate
+
+  kit
+
+  timber
+
+  crucial
+
+  insect
+
+  language
+
+  deputy
+
+  rare'
+bip_39_word_new_line12: 'aim
+
+  uphold
+
+  napkin
+
+  imitate
+
+  kit
+
+  timber
+
+  crucial
+
+  insect
+
+  language
+
+  deputy
+
+  rare
+
+  abstract'
+bip_39_word_new_line2: 'aim
+
+  uphold'
+bip_39_word_new_line3: 'aim
+
+  uphold
+
+  napkin'
+bip_39_word_new_line4: 'aim
+
+  uphold
+
+  napkin
+
+  imitate'
+bip_39_word_new_line5: 'aim
+
+  uphold
+
+  napkin
+
+  imitate
+
+  kit'
+bip_39_word_new_line6: 'aim
+
+  uphold
+
+  napkin
+
+  imitate
+
+  kit
+
+  timber'
+bip_39_word_new_line7: 'aim
+
+  uphold
+
+  napkin
+
+  imitate
+
+  kit
+
+  timber
+
+  crucial'
+bip_39_word_new_line8: 'aim
+
+  uphold
+
+  napkin
+
+  imitate
+
+  kit
+
+  timber
+
+  crucial
+
+  insect'
+bip_39_word_new_line9: 'aim
+
+  uphold
+
+  napkin
+
+  imitate
+
+  kit
+
+  timber
+
+  crucial
+
+  insect
+
+  language'
+bip_39_word_space_0:
+- aim
+- uphold
+- napkin
+- imitate
+- kit
+- timber
+- crucial
+- insect
+- language
+- deputy
+- rare
+- abstract
+bip_39_word_space_1: aim
+bip_39_word_space_10: aim uphold napkin imitate kit timber crucial insect language
+  deputy
+bip_39_word_space_11: aim uphold napkin imitate kit timber crucial insect language
+  deputy rare
+bip_39_word_space_12: aim uphold napkin imitate kit timber crucial insect language
+  deputy rare abstract
+bip_39_word_space_2: aim uphold
+bip_39_word_space_3: aim uphold napkin
+bip_39_word_space_4: aim uphold napkin imitate
+bip_39_word_space_5: aim uphold napkin imitate kit
+bip_39_word_space_6: aim uphold napkin imitate kit timber
+bip_39_word_space_7: aim uphold napkin imitate kit timber crucial
+bip_39_word_space_8: aim uphold napkin imitate kit timber crucial insect
+bip_39_word_space_9: aim uphold napkin imitate kit timber crucial insect language
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

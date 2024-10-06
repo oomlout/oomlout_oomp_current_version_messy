@@ -1,3 +1,186 @@
+bip_39_word_new_br1: misery
+bip_39_word_new_br10: misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral
+bip_39_word_new_br11: misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral<br>where
+bip_39_word_new_br12: misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right<br>moral<br>where<br>attend
+bip_39_word_new_br2: misery<br>receive
+bip_39_word_new_br3: misery<br>receive<br>sell
+bip_39_word_new_br4: misery<br>receive<br>sell<br>lion
+bip_39_word_new_br5: misery<br>receive<br>sell<br>lion<br>physical
+bip_39_word_new_br6: misery<br>receive<br>sell<br>lion<br>physical<br>ocean
+bip_39_word_new_br7: misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift
+bip_39_word_new_br8: misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife
+bip_39_word_new_br9: misery<br>receive<br>sell<br>lion<br>physical<br>ocean<br>lift<br>wife<br>right
+bip_39_word_new_line1: misery
+bip_39_word_new_line10: 'misery
+
+  receive
+
+  sell
+
+  lion
+
+  physical
+
+  ocean
+
+  lift
+
+  wife
+
+  right
+
+  moral'
+bip_39_word_new_line11: 'misery
+
+  receive
+
+  sell
+
+  lion
+
+  physical
+
+  ocean
+
+  lift
+
+  wife
+
+  right
+
+  moral
+
+  where'
+bip_39_word_new_line12: 'misery
+
+  receive
+
+  sell
+
+  lion
+
+  physical
+
+  ocean
+
+  lift
+
+  wife
+
+  right
+
+  moral
+
+  where
+
+  attend'
+bip_39_word_new_line2: 'misery
+
+  receive'
+bip_39_word_new_line3: 'misery
+
+  receive
+
+  sell'
+bip_39_word_new_line4: 'misery
+
+  receive
+
+  sell
+
+  lion'
+bip_39_word_new_line5: 'misery
+
+  receive
+
+  sell
+
+  lion
+
+  physical'
+bip_39_word_new_line6: 'misery
+
+  receive
+
+  sell
+
+  lion
+
+  physical
+
+  ocean'
+bip_39_word_new_line7: 'misery
+
+  receive
+
+  sell
+
+  lion
+
+  physical
+
+  ocean
+
+  lift'
+bip_39_word_new_line8: 'misery
+
+  receive
+
+  sell
+
+  lion
+
+  physical
+
+  ocean
+
+  lift
+
+  wife'
+bip_39_word_new_line9: 'misery
+
+  receive
+
+  sell
+
+  lion
+
+  physical
+
+  ocean
+
+  lift
+
+  wife
+
+  right'
+bip_39_word_space_0:
+- misery
+- receive
+- sell
+- lion
+- physical
+- ocean
+- lift
+- wife
+- right
+- moral
+- where
+- attend
+bip_39_word_space_1: misery
+bip_39_word_space_10: misery receive sell lion physical ocean lift wife right moral
+bip_39_word_space_11: misery receive sell lion physical ocean lift wife right moral
+  where
+bip_39_word_space_12: misery receive sell lion physical ocean lift wife right moral
+  where attend
+bip_39_word_space_2: misery receive
+bip_39_word_space_3: misery receive sell
+bip_39_word_space_4: misery receive sell lion
+bip_39_word_space_5: misery receive sell lion physical
+bip_39_word_space_6: misery receive sell lion physical ocean
+bip_39_word_space_7: misery receive sell lion physical ocean lift
+bip_39_word_space_8: misery receive sell lion physical ocean lift wife
+bip_39_word_space_9: misery receive sell lion physical ocean lift wife right
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

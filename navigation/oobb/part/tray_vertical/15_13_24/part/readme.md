@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crater festival
+  * bip 39 word 3: crater festival gospel
+  * bip 39 word: crater festival gospel man swallow column rotate identify bean summer print apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crater |  
+| bip_39_word_new_br10 | crater<br>festival<br>gospel<br>man<br>swallow<br>column<br>rotate<br>identify<br>bean<br>summer |  
+| bip_39_word_new_br11 | crater<br>festival<br>gospel<br>man<br>swallow<br>column<br>rotate<br>identify<br>bean<br>summer<br>print |  
+| bip_39_word_new_br12 | crater<br>festival<br>gospel<br>man<br>swallow<br>column<br>rotate<br>identify<br>bean<br>summer<br>print<br>apology |  
+| bip_39_word_new_br2 | crater<br>festival |  
+| bip_39_word_new_br3 | crater<br>festival<br>gospel |  
+| bip_39_word_new_br4 | crater<br>festival<br>gospel<br>man |  
+| bip_39_word_new_br5 | crater<br>festival<br>gospel<br>man<br>swallow |  
+| bip_39_word_new_br6 | crater<br>festival<br>gospel<br>man<br>swallow<br>column |  
+| bip_39_word_new_br7 | crater<br>festival<br>gospel<br>man<br>swallow<br>column<br>rotate |  
+| bip_39_word_new_br8 | crater<br>festival<br>gospel<br>man<br>swallow<br>column<br>rotate<br>identify |  
+| bip_39_word_new_br9 | crater<br>festival<br>gospel<br>man<br>swallow<br>column<br>rotate<br>identify<br>bean |  
+| bip_39_word_new_line1 | crater |  
+| bip_39_word_new_line10 | crater
+festival
+gospel
+man
+swallow
+column
+rotate
+identify
+bean
+summer |  
+| bip_39_word_new_line11 | crater
+festival
+gospel
+man
+swallow
+column
+rotate
+identify
+bean
+summer
+print |  
+| bip_39_word_new_line12 | crater
+festival
+gospel
+man
+swallow
+column
+rotate
+identify
+bean
+summer
+print
+apology |  
+| bip_39_word_new_line2 | crater
+festival |  
+| bip_39_word_new_line3 | crater
+festival
+gospel |  
+| bip_39_word_new_line4 | crater
+festival
+gospel
+man |  
+| bip_39_word_new_line5 | crater
+festival
+gospel
+man
+swallow |  
+| bip_39_word_new_line6 | crater
+festival
+gospel
+man
+swallow
+column |  
+| bip_39_word_new_line7 | crater
+festival
+gospel
+man
+swallow
+column
+rotate |  
+| bip_39_word_new_line8 | crater
+festival
+gospel
+man
+swallow
+column
+rotate
+identify |  
+| bip_39_word_new_line9 | crater
+festival
+gospel
+man
+swallow
+column
+rotate
+identify
+bean |  
+| bip_39_word_space_0 | ['crater', 'festival', 'gospel', 'man', 'swallow', 'column', 'rotate', 'identify', 'bean', 'summer', 'print', 'apology'] |  
+| bip_39_word_space_1 | crater |  
+| bip_39_word_space_10 | crater festival gospel man swallow column rotate identify bean summer |  
+| bip_39_word_space_11 | crater festival gospel man swallow column rotate identify bean summer print |  
+| bip_39_word_space_12 | crater festival gospel man swallow column rotate identify bean summer print apology |  
+| bip_39_word_space_2 | crater festival |  
+| bip_39_word_space_3 | crater festival gospel |  
+| bip_39_word_space_4 | crater festival gospel man |  
+| bip_39_word_space_5 | crater festival gospel man swallow |  
+| bip_39_word_space_6 | crater festival gospel man swallow column |  
+| bip_39_word_space_7 | crater festival gospel man swallow column rotate |  
+| bip_39_word_space_8 | crater festival gospel man swallow column rotate identify |  
+| bip_39_word_space_9 | crater festival gospel man swallow column rotate identify bean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

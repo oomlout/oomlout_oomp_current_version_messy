@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: much confirm
+  * bip 39 word 3: much confirm lunch
+  * bip 39 word: much confirm lunch friend artist blame coast giant riot reopen slam able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | much |  
+| bip_39_word_new_br10 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen |  
+| bip_39_word_new_br11 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen<br>slam |  
+| bip_39_word_new_br12 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot<br>reopen<br>slam<br>able |  
+| bip_39_word_new_br2 | much<br>confirm |  
+| bip_39_word_new_br3 | much<br>confirm<br>lunch |  
+| bip_39_word_new_br4 | much<br>confirm<br>lunch<br>friend |  
+| bip_39_word_new_br5 | much<br>confirm<br>lunch<br>friend<br>artist |  
+| bip_39_word_new_br6 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame |  
+| bip_39_word_new_br7 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast |  
+| bip_39_word_new_br8 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant |  
+| bip_39_word_new_br9 | much<br>confirm<br>lunch<br>friend<br>artist<br>blame<br>coast<br>giant<br>riot |  
+| bip_39_word_new_line1 | much |  
+| bip_39_word_new_line10 | much
+confirm
+lunch
+friend
+artist
+blame
+coast
+giant
+riot
+reopen |  
+| bip_39_word_new_line11 | much
+confirm
+lunch
+friend
+artist
+blame
+coast
+giant
+riot
+reopen
+slam |  
+| bip_39_word_new_line12 | much
+confirm
+lunch
+friend
+artist
+blame
+coast
+giant
+riot
+reopen
+slam
+able |  
+| bip_39_word_new_line2 | much
+confirm |  
+| bip_39_word_new_line3 | much
+confirm
+lunch |  
+| bip_39_word_new_line4 | much
+confirm
+lunch
+friend |  
+| bip_39_word_new_line5 | much
+confirm
+lunch
+friend
+artist |  
+| bip_39_word_new_line6 | much
+confirm
+lunch
+friend
+artist
+blame |  
+| bip_39_word_new_line7 | much
+confirm
+lunch
+friend
+artist
+blame
+coast |  
+| bip_39_word_new_line8 | much
+confirm
+lunch
+friend
+artist
+blame
+coast
+giant |  
+| bip_39_word_new_line9 | much
+confirm
+lunch
+friend
+artist
+blame
+coast
+giant
+riot |  
+| bip_39_word_space_0 | ['much', 'confirm', 'lunch', 'friend', 'artist', 'blame', 'coast', 'giant', 'riot', 'reopen', 'slam', 'able'] |  
+| bip_39_word_space_1 | much |  
+| bip_39_word_space_10 | much confirm lunch friend artist blame coast giant riot reopen |  
+| bip_39_word_space_11 | much confirm lunch friend artist blame coast giant riot reopen slam |  
+| bip_39_word_space_12 | much confirm lunch friend artist blame coast giant riot reopen slam able |  
+| bip_39_word_space_2 | much confirm |  
+| bip_39_word_space_3 | much confirm lunch |  
+| bip_39_word_space_4 | much confirm lunch friend |  
+| bip_39_word_space_5 | much confirm lunch friend artist |  
+| bip_39_word_space_6 | much confirm lunch friend artist blame |  
+| bip_39_word_space_7 | much confirm lunch friend artist blame coast |  
+| bip_39_word_space_8 | much confirm lunch friend artist blame coast giant |  
+| bip_39_word_space_9 | much confirm lunch friend artist blame coast giant riot |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: citizen
+bip_39_word_new_br10: citizen<br>patient<br>want<br>confirm<br>typical<br>shaft<br>estate<br>video<br>address<br>boring
+bip_39_word_new_br11: citizen<br>patient<br>want<br>confirm<br>typical<br>shaft<br>estate<br>video<br>address<br>boring<br>escape
+bip_39_word_new_br12: citizen<br>patient<br>want<br>confirm<br>typical<br>shaft<br>estate<br>video<br>address<br>boring<br>escape<br>autumn
+bip_39_word_new_br2: citizen<br>patient
+bip_39_word_new_br3: citizen<br>patient<br>want
+bip_39_word_new_br4: citizen<br>patient<br>want<br>confirm
+bip_39_word_new_br5: citizen<br>patient<br>want<br>confirm<br>typical
+bip_39_word_new_br6: citizen<br>patient<br>want<br>confirm<br>typical<br>shaft
+bip_39_word_new_br7: citizen<br>patient<br>want<br>confirm<br>typical<br>shaft<br>estate
+bip_39_word_new_br8: citizen<br>patient<br>want<br>confirm<br>typical<br>shaft<br>estate<br>video
+bip_39_word_new_br9: citizen<br>patient<br>want<br>confirm<br>typical<br>shaft<br>estate<br>video<br>address
+bip_39_word_new_line1: citizen
+bip_39_word_new_line10: 'citizen
+
+  patient
+
+  want
+
+  confirm
+
+  typical
+
+  shaft
+
+  estate
+
+  video
+
+  address
+
+  boring'
+bip_39_word_new_line11: 'citizen
+
+  patient
+
+  want
+
+  confirm
+
+  typical
+
+  shaft
+
+  estate
+
+  video
+
+  address
+
+  boring
+
+  escape'
+bip_39_word_new_line12: 'citizen
+
+  patient
+
+  want
+
+  confirm
+
+  typical
+
+  shaft
+
+  estate
+
+  video
+
+  address
+
+  boring
+
+  escape
+
+  autumn'
+bip_39_word_new_line2: 'citizen
+
+  patient'
+bip_39_word_new_line3: 'citizen
+
+  patient
+
+  want'
+bip_39_word_new_line4: 'citizen
+
+  patient
+
+  want
+
+  confirm'
+bip_39_word_new_line5: 'citizen
+
+  patient
+
+  want
+
+  confirm
+
+  typical'
+bip_39_word_new_line6: 'citizen
+
+  patient
+
+  want
+
+  confirm
+
+  typical
+
+  shaft'
+bip_39_word_new_line7: 'citizen
+
+  patient
+
+  want
+
+  confirm
+
+  typical
+
+  shaft
+
+  estate'
+bip_39_word_new_line8: 'citizen
+
+  patient
+
+  want
+
+  confirm
+
+  typical
+
+  shaft
+
+  estate
+
+  video'
+bip_39_word_new_line9: 'citizen
+
+  patient
+
+  want
+
+  confirm
+
+  typical
+
+  shaft
+
+  estate
+
+  video
+
+  address'
+bip_39_word_space_0:
+- citizen
+- patient
+- want
+- confirm
+- typical
+- shaft
+- estate
+- video
+- address
+- boring
+- escape
+- autumn
+bip_39_word_space_1: citizen
+bip_39_word_space_10: citizen patient want confirm typical shaft estate video address
+  boring
+bip_39_word_space_11: citizen patient want confirm typical shaft estate video address
+  boring escape
+bip_39_word_space_12: citizen patient want confirm typical shaft estate video address
+  boring escape autumn
+bip_39_word_space_2: citizen patient
+bip_39_word_space_3: citizen patient want
+bip_39_word_space_4: citizen patient want confirm
+bip_39_word_space_5: citizen patient want confirm typical
+bip_39_word_space_6: citizen patient want confirm typical shaft
+bip_39_word_space_7: citizen patient want confirm typical shaft estate
+bip_39_word_space_8: citizen patient want confirm typical shaft estate video
+bip_39_word_space_9: citizen patient want confirm typical shaft estate video address
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

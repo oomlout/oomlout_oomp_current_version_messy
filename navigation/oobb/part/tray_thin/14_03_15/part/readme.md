@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frog defense
+  * bip 39 word 3: frog defense benefit
+  * bip 39 word: frog defense benefit thrive seed brick custom pony mercy butter whip argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frog |  
+| bip_39_word_new_br10 | frog<br>defense<br>benefit<br>thrive<br>seed<br>brick<br>custom<br>pony<br>mercy<br>butter |  
+| bip_39_word_new_br11 | frog<br>defense<br>benefit<br>thrive<br>seed<br>brick<br>custom<br>pony<br>mercy<br>butter<br>whip |  
+| bip_39_word_new_br12 | frog<br>defense<br>benefit<br>thrive<br>seed<br>brick<br>custom<br>pony<br>mercy<br>butter<br>whip<br>argue |  
+| bip_39_word_new_br2 | frog<br>defense |  
+| bip_39_word_new_br3 | frog<br>defense<br>benefit |  
+| bip_39_word_new_br4 | frog<br>defense<br>benefit<br>thrive |  
+| bip_39_word_new_br5 | frog<br>defense<br>benefit<br>thrive<br>seed |  
+| bip_39_word_new_br6 | frog<br>defense<br>benefit<br>thrive<br>seed<br>brick |  
+| bip_39_word_new_br7 | frog<br>defense<br>benefit<br>thrive<br>seed<br>brick<br>custom |  
+| bip_39_word_new_br8 | frog<br>defense<br>benefit<br>thrive<br>seed<br>brick<br>custom<br>pony |  
+| bip_39_word_new_br9 | frog<br>defense<br>benefit<br>thrive<br>seed<br>brick<br>custom<br>pony<br>mercy |  
+| bip_39_word_new_line1 | frog |  
+| bip_39_word_new_line10 | frog
+defense
+benefit
+thrive
+seed
+brick
+custom
+pony
+mercy
+butter |  
+| bip_39_word_new_line11 | frog
+defense
+benefit
+thrive
+seed
+brick
+custom
+pony
+mercy
+butter
+whip |  
+| bip_39_word_new_line12 | frog
+defense
+benefit
+thrive
+seed
+brick
+custom
+pony
+mercy
+butter
+whip
+argue |  
+| bip_39_word_new_line2 | frog
+defense |  
+| bip_39_word_new_line3 | frog
+defense
+benefit |  
+| bip_39_word_new_line4 | frog
+defense
+benefit
+thrive |  
+| bip_39_word_new_line5 | frog
+defense
+benefit
+thrive
+seed |  
+| bip_39_word_new_line6 | frog
+defense
+benefit
+thrive
+seed
+brick |  
+| bip_39_word_new_line7 | frog
+defense
+benefit
+thrive
+seed
+brick
+custom |  
+| bip_39_word_new_line8 | frog
+defense
+benefit
+thrive
+seed
+brick
+custom
+pony |  
+| bip_39_word_new_line9 | frog
+defense
+benefit
+thrive
+seed
+brick
+custom
+pony
+mercy |  
+| bip_39_word_space_0 | ['frog', 'defense', 'benefit', 'thrive', 'seed', 'brick', 'custom', 'pony', 'mercy', 'butter', 'whip', 'argue'] |  
+| bip_39_word_space_1 | frog |  
+| bip_39_word_space_10 | frog defense benefit thrive seed brick custom pony mercy butter |  
+| bip_39_word_space_11 | frog defense benefit thrive seed brick custom pony mercy butter whip |  
+| bip_39_word_space_12 | frog defense benefit thrive seed brick custom pony mercy butter whip argue |  
+| bip_39_word_space_2 | frog defense |  
+| bip_39_word_space_3 | frog defense benefit |  
+| bip_39_word_space_4 | frog defense benefit thrive |  
+| bip_39_word_space_5 | frog defense benefit thrive seed |  
+| bip_39_word_space_6 | frog defense benefit thrive seed brick |  
+| bip_39_word_space_7 | frog defense benefit thrive seed brick custom |  
+| bip_39_word_space_8 | frog defense benefit thrive seed brick custom pony |  
+| bip_39_word_space_9 | frog defense benefit thrive seed brick custom pony mercy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

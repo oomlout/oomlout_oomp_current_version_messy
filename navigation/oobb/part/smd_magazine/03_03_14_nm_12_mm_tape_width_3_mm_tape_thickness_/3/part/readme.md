@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mosquito future
+  * bip 39 word 3: mosquito future level
+  * bip 39 word: mosquito future level devote kangaroo minimum good twist erupt second recycle aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mosquito |  
+| bip_39_word_new_br10 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum<br>good<br>twist<br>erupt<br>second |  
+| bip_39_word_new_br11 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum<br>good<br>twist<br>erupt<br>second<br>recycle |  
+| bip_39_word_new_br12 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum<br>good<br>twist<br>erupt<br>second<br>recycle<br>aspect |  
+| bip_39_word_new_br2 | mosquito<br>future |  
+| bip_39_word_new_br3 | mosquito<br>future<br>level |  
+| bip_39_word_new_br4 | mosquito<br>future<br>level<br>devote |  
+| bip_39_word_new_br5 | mosquito<br>future<br>level<br>devote<br>kangaroo |  
+| bip_39_word_new_br6 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum |  
+| bip_39_word_new_br7 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum<br>good |  
+| bip_39_word_new_br8 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum<br>good<br>twist |  
+| bip_39_word_new_br9 | mosquito<br>future<br>level<br>devote<br>kangaroo<br>minimum<br>good<br>twist<br>erupt |  
+| bip_39_word_new_line1 | mosquito |  
+| bip_39_word_new_line10 | mosquito
+future
+level
+devote
+kangaroo
+minimum
+good
+twist
+erupt
+second |  
+| bip_39_word_new_line11 | mosquito
+future
+level
+devote
+kangaroo
+minimum
+good
+twist
+erupt
+second
+recycle |  
+| bip_39_word_new_line12 | mosquito
+future
+level
+devote
+kangaroo
+minimum
+good
+twist
+erupt
+second
+recycle
+aspect |  
+| bip_39_word_new_line2 | mosquito
+future |  
+| bip_39_word_new_line3 | mosquito
+future
+level |  
+| bip_39_word_new_line4 | mosquito
+future
+level
+devote |  
+| bip_39_word_new_line5 | mosquito
+future
+level
+devote
+kangaroo |  
+| bip_39_word_new_line6 | mosquito
+future
+level
+devote
+kangaroo
+minimum |  
+| bip_39_word_new_line7 | mosquito
+future
+level
+devote
+kangaroo
+minimum
+good |  
+| bip_39_word_new_line8 | mosquito
+future
+level
+devote
+kangaroo
+minimum
+good
+twist |  
+| bip_39_word_new_line9 | mosquito
+future
+level
+devote
+kangaroo
+minimum
+good
+twist
+erupt |  
+| bip_39_word_space_0 | ['mosquito', 'future', 'level', 'devote', 'kangaroo', 'minimum', 'good', 'twist', 'erupt', 'second', 'recycle', 'aspect'] |  
+| bip_39_word_space_1 | mosquito |  
+| bip_39_word_space_10 | mosquito future level devote kangaroo minimum good twist erupt second |  
+| bip_39_word_space_11 | mosquito future level devote kangaroo minimum good twist erupt second recycle |  
+| bip_39_word_space_12 | mosquito future level devote kangaroo minimum good twist erupt second recycle aspect |  
+| bip_39_word_space_2 | mosquito future |  
+| bip_39_word_space_3 | mosquito future level |  
+| bip_39_word_space_4 | mosquito future level devote |  
+| bip_39_word_space_5 | mosquito future level devote kangaroo |  
+| bip_39_word_space_6 | mosquito future level devote kangaroo minimum |  
+| bip_39_word_space_7 | mosquito future level devote kangaroo minimum good |  
+| bip_39_word_space_8 | mosquito future level devote kangaroo minimum good twist |  
+| bip_39_word_space_9 | mosquito future level devote kangaroo minimum good twist erupt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

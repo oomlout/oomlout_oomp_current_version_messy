@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: proof laptop
+  * bip 39 word 3: proof laptop toss
+  * bip 39 word: proof laptop toss forum foam weasel salt ignore vault advice sell apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | proof |  
+| bip_39_word_new_br10 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel<br>salt<br>ignore<br>vault<br>advice |  
+| bip_39_word_new_br11 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel<br>salt<br>ignore<br>vault<br>advice<br>sell |  
+| bip_39_word_new_br12 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel<br>salt<br>ignore<br>vault<br>advice<br>sell<br>apple |  
+| bip_39_word_new_br2 | proof<br>laptop |  
+| bip_39_word_new_br3 | proof<br>laptop<br>toss |  
+| bip_39_word_new_br4 | proof<br>laptop<br>toss<br>forum |  
+| bip_39_word_new_br5 | proof<br>laptop<br>toss<br>forum<br>foam |  
+| bip_39_word_new_br6 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel |  
+| bip_39_word_new_br7 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel<br>salt |  
+| bip_39_word_new_br8 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel<br>salt<br>ignore |  
+| bip_39_word_new_br9 | proof<br>laptop<br>toss<br>forum<br>foam<br>weasel<br>salt<br>ignore<br>vault |  
+| bip_39_word_new_line1 | proof |  
+| bip_39_word_new_line10 | proof
+laptop
+toss
+forum
+foam
+weasel
+salt
+ignore
+vault
+advice |  
+| bip_39_word_new_line11 | proof
+laptop
+toss
+forum
+foam
+weasel
+salt
+ignore
+vault
+advice
+sell |  
+| bip_39_word_new_line12 | proof
+laptop
+toss
+forum
+foam
+weasel
+salt
+ignore
+vault
+advice
+sell
+apple |  
+| bip_39_word_new_line2 | proof
+laptop |  
+| bip_39_word_new_line3 | proof
+laptop
+toss |  
+| bip_39_word_new_line4 | proof
+laptop
+toss
+forum |  
+| bip_39_word_new_line5 | proof
+laptop
+toss
+forum
+foam |  
+| bip_39_word_new_line6 | proof
+laptop
+toss
+forum
+foam
+weasel |  
+| bip_39_word_new_line7 | proof
+laptop
+toss
+forum
+foam
+weasel
+salt |  
+| bip_39_word_new_line8 | proof
+laptop
+toss
+forum
+foam
+weasel
+salt
+ignore |  
+| bip_39_word_new_line9 | proof
+laptop
+toss
+forum
+foam
+weasel
+salt
+ignore
+vault |  
+| bip_39_word_space_0 | ['proof', 'laptop', 'toss', 'forum', 'foam', 'weasel', 'salt', 'ignore', 'vault', 'advice', 'sell', 'apple'] |  
+| bip_39_word_space_1 | proof |  
+| bip_39_word_space_10 | proof laptop toss forum foam weasel salt ignore vault advice |  
+| bip_39_word_space_11 | proof laptop toss forum foam weasel salt ignore vault advice sell |  
+| bip_39_word_space_12 | proof laptop toss forum foam weasel salt ignore vault advice sell apple |  
+| bip_39_word_space_2 | proof laptop |  
+| bip_39_word_space_3 | proof laptop toss |  
+| bip_39_word_space_4 | proof laptop toss forum |  
+| bip_39_word_space_5 | proof laptop toss forum foam |  
+| bip_39_word_space_6 | proof laptop toss forum foam weasel |  
+| bip_39_word_space_7 | proof laptop toss forum foam weasel salt |  
+| bip_39_word_space_8 | proof laptop toss forum foam weasel salt ignore |  
+| bip_39_word_space_9 | proof laptop toss forum foam weasel salt ignore vault |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

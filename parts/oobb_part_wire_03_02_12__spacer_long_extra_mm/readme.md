@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_long_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cry boat
+  * bip 39 word 3: cry boat advance
+  * bip 39 word: cry boat advance song grape cup bracket arrive wonder world clown assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cry |  
+| bip_39_word_new_br10 | cry<br>boat<br>advance<br>song<br>grape<br>cup<br>bracket<br>arrive<br>wonder<br>world |  
+| bip_39_word_new_br11 | cry<br>boat<br>advance<br>song<br>grape<br>cup<br>bracket<br>arrive<br>wonder<br>world<br>clown |  
+| bip_39_word_new_br12 | cry<br>boat<br>advance<br>song<br>grape<br>cup<br>bracket<br>arrive<br>wonder<br>world<br>clown<br>assist |  
+| bip_39_word_new_br2 | cry<br>boat |  
+| bip_39_word_new_br3 | cry<br>boat<br>advance |  
+| bip_39_word_new_br4 | cry<br>boat<br>advance<br>song |  
+| bip_39_word_new_br5 | cry<br>boat<br>advance<br>song<br>grape |  
+| bip_39_word_new_br6 | cry<br>boat<br>advance<br>song<br>grape<br>cup |  
+| bip_39_word_new_br7 | cry<br>boat<br>advance<br>song<br>grape<br>cup<br>bracket |  
+| bip_39_word_new_br8 | cry<br>boat<br>advance<br>song<br>grape<br>cup<br>bracket<br>arrive |  
+| bip_39_word_new_br9 | cry<br>boat<br>advance<br>song<br>grape<br>cup<br>bracket<br>arrive<br>wonder |  
+| bip_39_word_new_line1 | cry |  
+| bip_39_word_new_line10 | cry
+boat
+advance
+song
+grape
+cup
+bracket
+arrive
+wonder
+world |  
+| bip_39_word_new_line11 | cry
+boat
+advance
+song
+grape
+cup
+bracket
+arrive
+wonder
+world
+clown |  
+| bip_39_word_new_line12 | cry
+boat
+advance
+song
+grape
+cup
+bracket
+arrive
+wonder
+world
+clown
+assist |  
+| bip_39_word_new_line2 | cry
+boat |  
+| bip_39_word_new_line3 | cry
+boat
+advance |  
+| bip_39_word_new_line4 | cry
+boat
+advance
+song |  
+| bip_39_word_new_line5 | cry
+boat
+advance
+song
+grape |  
+| bip_39_word_new_line6 | cry
+boat
+advance
+song
+grape
+cup |  
+| bip_39_word_new_line7 | cry
+boat
+advance
+song
+grape
+cup
+bracket |  
+| bip_39_word_new_line8 | cry
+boat
+advance
+song
+grape
+cup
+bracket
+arrive |  
+| bip_39_word_new_line9 | cry
+boat
+advance
+song
+grape
+cup
+bracket
+arrive
+wonder |  
+| bip_39_word_space_0 | ['cry', 'boat', 'advance', 'song', 'grape', 'cup', 'bracket', 'arrive', 'wonder', 'world', 'clown', 'assist'] |  
+| bip_39_word_space_1 | cry |  
+| bip_39_word_space_10 | cry boat advance song grape cup bracket arrive wonder world |  
+| bip_39_word_space_11 | cry boat advance song grape cup bracket arrive wonder world clown |  
+| bip_39_word_space_12 | cry boat advance song grape cup bracket arrive wonder world clown assist |  
+| bip_39_word_space_2 | cry boat |  
+| bip_39_word_space_3 | cry boat advance |  
+| bip_39_word_space_4 | cry boat advance song |  
+| bip_39_word_space_5 | cry boat advance song grape |  
+| bip_39_word_space_6 | cry boat advance song grape cup |  
+| bip_39_word_space_7 | cry boat advance song grape cup bracket |  
+| bip_39_word_space_8 | cry boat advance song grape cup bracket arrive |  
+| bip_39_word_space_9 | cry boat advance song grape cup bracket arrive wonder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

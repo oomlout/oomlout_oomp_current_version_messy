@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dad fold
+  * bip 39 word 3: dad fold number
+  * bip 39 word: dad fold number direct gasp female theory ozone sense panic piece arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dad |  
+| bip_39_word_new_br10 | dad<br>fold<br>number<br>direct<br>gasp<br>female<br>theory<br>ozone<br>sense<br>panic |  
+| bip_39_word_new_br11 | dad<br>fold<br>number<br>direct<br>gasp<br>female<br>theory<br>ozone<br>sense<br>panic<br>piece |  
+| bip_39_word_new_br12 | dad<br>fold<br>number<br>direct<br>gasp<br>female<br>theory<br>ozone<br>sense<br>panic<br>piece<br>arena |  
+| bip_39_word_new_br2 | dad<br>fold |  
+| bip_39_word_new_br3 | dad<br>fold<br>number |  
+| bip_39_word_new_br4 | dad<br>fold<br>number<br>direct |  
+| bip_39_word_new_br5 | dad<br>fold<br>number<br>direct<br>gasp |  
+| bip_39_word_new_br6 | dad<br>fold<br>number<br>direct<br>gasp<br>female |  
+| bip_39_word_new_br7 | dad<br>fold<br>number<br>direct<br>gasp<br>female<br>theory |  
+| bip_39_word_new_br8 | dad<br>fold<br>number<br>direct<br>gasp<br>female<br>theory<br>ozone |  
+| bip_39_word_new_br9 | dad<br>fold<br>number<br>direct<br>gasp<br>female<br>theory<br>ozone<br>sense |  
+| bip_39_word_new_line1 | dad |  
+| bip_39_word_new_line10 | dad
+fold
+number
+direct
+gasp
+female
+theory
+ozone
+sense
+panic |  
+| bip_39_word_new_line11 | dad
+fold
+number
+direct
+gasp
+female
+theory
+ozone
+sense
+panic
+piece |  
+| bip_39_word_new_line12 | dad
+fold
+number
+direct
+gasp
+female
+theory
+ozone
+sense
+panic
+piece
+arena |  
+| bip_39_word_new_line2 | dad
+fold |  
+| bip_39_word_new_line3 | dad
+fold
+number |  
+| bip_39_word_new_line4 | dad
+fold
+number
+direct |  
+| bip_39_word_new_line5 | dad
+fold
+number
+direct
+gasp |  
+| bip_39_word_new_line6 | dad
+fold
+number
+direct
+gasp
+female |  
+| bip_39_word_new_line7 | dad
+fold
+number
+direct
+gasp
+female
+theory |  
+| bip_39_word_new_line8 | dad
+fold
+number
+direct
+gasp
+female
+theory
+ozone |  
+| bip_39_word_new_line9 | dad
+fold
+number
+direct
+gasp
+female
+theory
+ozone
+sense |  
+| bip_39_word_space_0 | ['dad', 'fold', 'number', 'direct', 'gasp', 'female', 'theory', 'ozone', 'sense', 'panic', 'piece', 'arena'] |  
+| bip_39_word_space_1 | dad |  
+| bip_39_word_space_10 | dad fold number direct gasp female theory ozone sense panic |  
+| bip_39_word_space_11 | dad fold number direct gasp female theory ozone sense panic piece |  
+| bip_39_word_space_12 | dad fold number direct gasp female theory ozone sense panic piece arena |  
+| bip_39_word_space_2 | dad fold |  
+| bip_39_word_space_3 | dad fold number |  
+| bip_39_word_space_4 | dad fold number direct |  
+| bip_39_word_space_5 | dad fold number direct gasp |  
+| bip_39_word_space_6 | dad fold number direct gasp female |  
+| bip_39_word_space_7 | dad fold number direct gasp female theory |  
+| bip_39_word_space_8 | dad fold number direct gasp female theory ozone |  
+| bip_39_word_space_9 | dad fold number direct gasp female theory ozone sense |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

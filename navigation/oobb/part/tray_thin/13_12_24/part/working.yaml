@@ -1,3 +1,187 @@
+bip_39_word_new_br1: bronze
+bip_39_word_new_br10: bronze<br>avoid<br>banner<br>range<br>laugh<br>debate<br>margin<br>between<br>churn<br>collect
+bip_39_word_new_br11: bronze<br>avoid<br>banner<br>range<br>laugh<br>debate<br>margin<br>between<br>churn<br>collect<br>soup
+bip_39_word_new_br12: bronze<br>avoid<br>banner<br>range<br>laugh<br>debate<br>margin<br>between<br>churn<br>collect<br>soup<br>author
+bip_39_word_new_br2: bronze<br>avoid
+bip_39_word_new_br3: bronze<br>avoid<br>banner
+bip_39_word_new_br4: bronze<br>avoid<br>banner<br>range
+bip_39_word_new_br5: bronze<br>avoid<br>banner<br>range<br>laugh
+bip_39_word_new_br6: bronze<br>avoid<br>banner<br>range<br>laugh<br>debate
+bip_39_word_new_br7: bronze<br>avoid<br>banner<br>range<br>laugh<br>debate<br>margin
+bip_39_word_new_br8: bronze<br>avoid<br>banner<br>range<br>laugh<br>debate<br>margin<br>between
+bip_39_word_new_br9: bronze<br>avoid<br>banner<br>range<br>laugh<br>debate<br>margin<br>between<br>churn
+bip_39_word_new_line1: bronze
+bip_39_word_new_line10: 'bronze
+
+  avoid
+
+  banner
+
+  range
+
+  laugh
+
+  debate
+
+  margin
+
+  between
+
+  churn
+
+  collect'
+bip_39_word_new_line11: 'bronze
+
+  avoid
+
+  banner
+
+  range
+
+  laugh
+
+  debate
+
+  margin
+
+  between
+
+  churn
+
+  collect
+
+  soup'
+bip_39_word_new_line12: 'bronze
+
+  avoid
+
+  banner
+
+  range
+
+  laugh
+
+  debate
+
+  margin
+
+  between
+
+  churn
+
+  collect
+
+  soup
+
+  author'
+bip_39_word_new_line2: 'bronze
+
+  avoid'
+bip_39_word_new_line3: 'bronze
+
+  avoid
+
+  banner'
+bip_39_word_new_line4: 'bronze
+
+  avoid
+
+  banner
+
+  range'
+bip_39_word_new_line5: 'bronze
+
+  avoid
+
+  banner
+
+  range
+
+  laugh'
+bip_39_word_new_line6: 'bronze
+
+  avoid
+
+  banner
+
+  range
+
+  laugh
+
+  debate'
+bip_39_word_new_line7: 'bronze
+
+  avoid
+
+  banner
+
+  range
+
+  laugh
+
+  debate
+
+  margin'
+bip_39_word_new_line8: 'bronze
+
+  avoid
+
+  banner
+
+  range
+
+  laugh
+
+  debate
+
+  margin
+
+  between'
+bip_39_word_new_line9: 'bronze
+
+  avoid
+
+  banner
+
+  range
+
+  laugh
+
+  debate
+
+  margin
+
+  between
+
+  churn'
+bip_39_word_space_0:
+- bronze
+- avoid
+- banner
+- range
+- laugh
+- debate
+- margin
+- between
+- churn
+- collect
+- soup
+- author
+bip_39_word_space_1: bronze
+bip_39_word_space_10: bronze avoid banner range laugh debate margin between churn
+  collect
+bip_39_word_space_11: bronze avoid banner range laugh debate margin between churn
+  collect soup
+bip_39_word_space_12: bronze avoid banner range laugh debate margin between churn
+  collect soup author
+bip_39_word_space_2: bronze avoid
+bip_39_word_space_3: bronze avoid banner
+bip_39_word_space_4: bronze avoid banner range
+bip_39_word_space_5: bronze avoid banner range laugh
+bip_39_word_space_6: bronze avoid banner range laugh debate
+bip_39_word_space_7: bronze avoid banner range laugh debate margin
+bip_39_word_space_8: bronze avoid banner range laugh debate margin between
+bip_39_word_space_9: bronze avoid banner range laugh debate margin between churn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: extra
+bip_39_word_new_br10: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth
+bip_39_word_new_br11: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb
+bip_39_word_new_br12: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb<br>assist
+bip_39_word_new_br2: extra<br>shrug
+bip_39_word_new_br3: extra<br>shrug<br>torch
+bip_39_word_new_br4: extra<br>shrug<br>torch<br>unable
+bip_39_word_new_br5: extra<br>shrug<br>torch<br>unable<br>clever
+bip_39_word_new_br6: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant
+bip_39_word_new_br7: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill
+bip_39_word_new_br8: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy
+bip_39_word_new_br9: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon
+bip_39_word_new_line1: extra
+bip_39_word_new_line10: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy
+
+  weapon
+
+  worth'
+bip_39_word_new_line11: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy
+
+  weapon
+
+  worth
+
+  bulb'
+bip_39_word_new_line12: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy
+
+  weapon
+
+  worth
+
+  bulb
+
+  assist'
+bip_39_word_new_line2: 'extra
+
+  shrug'
+bip_39_word_new_line3: 'extra
+
+  shrug
+
+  torch'
+bip_39_word_new_line4: 'extra
+
+  shrug
+
+  torch
+
+  unable'
+bip_39_word_new_line5: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever'
+bip_39_word_new_line6: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant'
+bip_39_word_new_line7: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill'
+bip_39_word_new_line8: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy'
+bip_39_word_new_line9: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy
+
+  weapon'
+bip_39_word_space_0:
+- extra
+- shrug
+- torch
+- unable
+- clever
+- peasant
+- pill
+- shy
+- weapon
+- worth
+- bulb
+- assist
+bip_39_word_space_1: extra
+bip_39_word_space_10: extra shrug torch unable clever peasant pill shy weapon worth
+bip_39_word_space_11: extra shrug torch unable clever peasant pill shy weapon worth
+  bulb
+bip_39_word_space_12: extra shrug torch unable clever peasant pill shy weapon worth
+  bulb assist
+bip_39_word_space_2: extra shrug
+bip_39_word_space_3: extra shrug torch
+bip_39_word_space_4: extra shrug torch unable
+bip_39_word_space_5: extra shrug torch unable clever
+bip_39_word_space_6: extra shrug torch unable clever peasant
+bip_39_word_space_7: extra shrug torch unable clever peasant pill
+bip_39_word_space_8: extra shrug torch unable clever peasant pill shy
+bip_39_word_space_9: extra shrug torch unable clever peasant pill shy weapon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

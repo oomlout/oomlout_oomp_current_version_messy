@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inquiry fog
+  * bip 39 word 3: inquiry fog account
+  * bip 39 word: inquiry fog account alert suspect force depth vibrant bacon april stairs artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inquiry |  
+| bip_39_word_new_br10 | inquiry<br>fog<br>account<br>alert<br>suspect<br>force<br>depth<br>vibrant<br>bacon<br>april |  
+| bip_39_word_new_br11 | inquiry<br>fog<br>account<br>alert<br>suspect<br>force<br>depth<br>vibrant<br>bacon<br>april<br>stairs |  
+| bip_39_word_new_br12 | inquiry<br>fog<br>account<br>alert<br>suspect<br>force<br>depth<br>vibrant<br>bacon<br>april<br>stairs<br>artist |  
+| bip_39_word_new_br2 | inquiry<br>fog |  
+| bip_39_word_new_br3 | inquiry<br>fog<br>account |  
+| bip_39_word_new_br4 | inquiry<br>fog<br>account<br>alert |  
+| bip_39_word_new_br5 | inquiry<br>fog<br>account<br>alert<br>suspect |  
+| bip_39_word_new_br6 | inquiry<br>fog<br>account<br>alert<br>suspect<br>force |  
+| bip_39_word_new_br7 | inquiry<br>fog<br>account<br>alert<br>suspect<br>force<br>depth |  
+| bip_39_word_new_br8 | inquiry<br>fog<br>account<br>alert<br>suspect<br>force<br>depth<br>vibrant |  
+| bip_39_word_new_br9 | inquiry<br>fog<br>account<br>alert<br>suspect<br>force<br>depth<br>vibrant<br>bacon |  
+| bip_39_word_new_line1 | inquiry |  
+| bip_39_word_new_line10 | inquiry
+fog
+account
+alert
+suspect
+force
+depth
+vibrant
+bacon
+april |  
+| bip_39_word_new_line11 | inquiry
+fog
+account
+alert
+suspect
+force
+depth
+vibrant
+bacon
+april
+stairs |  
+| bip_39_word_new_line12 | inquiry
+fog
+account
+alert
+suspect
+force
+depth
+vibrant
+bacon
+april
+stairs
+artist |  
+| bip_39_word_new_line2 | inquiry
+fog |  
+| bip_39_word_new_line3 | inquiry
+fog
+account |  
+| bip_39_word_new_line4 | inquiry
+fog
+account
+alert |  
+| bip_39_word_new_line5 | inquiry
+fog
+account
+alert
+suspect |  
+| bip_39_word_new_line6 | inquiry
+fog
+account
+alert
+suspect
+force |  
+| bip_39_word_new_line7 | inquiry
+fog
+account
+alert
+suspect
+force
+depth |  
+| bip_39_word_new_line8 | inquiry
+fog
+account
+alert
+suspect
+force
+depth
+vibrant |  
+| bip_39_word_new_line9 | inquiry
+fog
+account
+alert
+suspect
+force
+depth
+vibrant
+bacon |  
+| bip_39_word_space_0 | ['inquiry', 'fog', 'account', 'alert', 'suspect', 'force', 'depth', 'vibrant', 'bacon', 'april', 'stairs', 'artist'] |  
+| bip_39_word_space_1 | inquiry |  
+| bip_39_word_space_10 | inquiry fog account alert suspect force depth vibrant bacon april |  
+| bip_39_word_space_11 | inquiry fog account alert suspect force depth vibrant bacon april stairs |  
+| bip_39_word_space_12 | inquiry fog account alert suspect force depth vibrant bacon april stairs artist |  
+| bip_39_word_space_2 | inquiry fog |  
+| bip_39_word_space_3 | inquiry fog account |  
+| bip_39_word_space_4 | inquiry fog account alert |  
+| bip_39_word_space_5 | inquiry fog account alert suspect |  
+| bip_39_word_space_6 | inquiry fog account alert suspect force |  
+| bip_39_word_space_7 | inquiry fog account alert suspect force depth |  
+| bip_39_word_space_8 | inquiry fog account alert suspect force depth vibrant |  
+| bip_39_word_space_9 | inquiry fog account alert suspect force depth vibrant bacon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: panther invest
+  * bip 39 word 3: panther invest sure
+  * bip 39 word: panther invest sure bronze post success annual help final car unknown army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | panther |  
+| bip_39_word_new_br10 | panther<br>invest<br>sure<br>bronze<br>post<br>success<br>annual<br>help<br>final<br>car |  
+| bip_39_word_new_br11 | panther<br>invest<br>sure<br>bronze<br>post<br>success<br>annual<br>help<br>final<br>car<br>unknown |  
+| bip_39_word_new_br12 | panther<br>invest<br>sure<br>bronze<br>post<br>success<br>annual<br>help<br>final<br>car<br>unknown<br>army |  
+| bip_39_word_new_br2 | panther<br>invest |  
+| bip_39_word_new_br3 | panther<br>invest<br>sure |  
+| bip_39_word_new_br4 | panther<br>invest<br>sure<br>bronze |  
+| bip_39_word_new_br5 | panther<br>invest<br>sure<br>bronze<br>post |  
+| bip_39_word_new_br6 | panther<br>invest<br>sure<br>bronze<br>post<br>success |  
+| bip_39_word_new_br7 | panther<br>invest<br>sure<br>bronze<br>post<br>success<br>annual |  
+| bip_39_word_new_br8 | panther<br>invest<br>sure<br>bronze<br>post<br>success<br>annual<br>help |  
+| bip_39_word_new_br9 | panther<br>invest<br>sure<br>bronze<br>post<br>success<br>annual<br>help<br>final |  
+| bip_39_word_new_line1 | panther |  
+| bip_39_word_new_line10 | panther
+invest
+sure
+bronze
+post
+success
+annual
+help
+final
+car |  
+| bip_39_word_new_line11 | panther
+invest
+sure
+bronze
+post
+success
+annual
+help
+final
+car
+unknown |  
+| bip_39_word_new_line12 | panther
+invest
+sure
+bronze
+post
+success
+annual
+help
+final
+car
+unknown
+army |  
+| bip_39_word_new_line2 | panther
+invest |  
+| bip_39_word_new_line3 | panther
+invest
+sure |  
+| bip_39_word_new_line4 | panther
+invest
+sure
+bronze |  
+| bip_39_word_new_line5 | panther
+invest
+sure
+bronze
+post |  
+| bip_39_word_new_line6 | panther
+invest
+sure
+bronze
+post
+success |  
+| bip_39_word_new_line7 | panther
+invest
+sure
+bronze
+post
+success
+annual |  
+| bip_39_word_new_line8 | panther
+invest
+sure
+bronze
+post
+success
+annual
+help |  
+| bip_39_word_new_line9 | panther
+invest
+sure
+bronze
+post
+success
+annual
+help
+final |  
+| bip_39_word_space_0 | ['panther', 'invest', 'sure', 'bronze', 'post', 'success', 'annual', 'help', 'final', 'car', 'unknown', 'army'] |  
+| bip_39_word_space_1 | panther |  
+| bip_39_word_space_10 | panther invest sure bronze post success annual help final car |  
+| bip_39_word_space_11 | panther invest sure bronze post success annual help final car unknown |  
+| bip_39_word_space_12 | panther invest sure bronze post success annual help final car unknown army |  
+| bip_39_word_space_2 | panther invest |  
+| bip_39_word_space_3 | panther invest sure |  
+| bip_39_word_space_4 | panther invest sure bronze |  
+| bip_39_word_space_5 | panther invest sure bronze post |  
+| bip_39_word_space_6 | panther invest sure bronze post success |  
+| bip_39_word_space_7 | panther invest sure bronze post success annual |  
+| bip_39_word_space_8 | panther invest sure bronze post success annual help |  
+| bip_39_word_space_9 | panther invest sure bronze post success annual help final |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

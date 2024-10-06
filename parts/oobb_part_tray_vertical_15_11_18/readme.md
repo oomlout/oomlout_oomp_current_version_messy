@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: angle pulp
+  * bip 39 word 3: angle pulp symbol
+  * bip 39 word: angle pulp symbol mixture tomorrow stick talk thunder final armor sun access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | angle |  
+| bip_39_word_new_br10 | angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick<br>talk<br>thunder<br>final<br>armor |  
+| bip_39_word_new_br11 | angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick<br>talk<br>thunder<br>final<br>armor<br>sun |  
+| bip_39_word_new_br12 | angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick<br>talk<br>thunder<br>final<br>armor<br>sun<br>access |  
+| bip_39_word_new_br2 | angle<br>pulp |  
+| bip_39_word_new_br3 | angle<br>pulp<br>symbol |  
+| bip_39_word_new_br4 | angle<br>pulp<br>symbol<br>mixture |  
+| bip_39_word_new_br5 | angle<br>pulp<br>symbol<br>mixture<br>tomorrow |  
+| bip_39_word_new_br6 | angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick |  
+| bip_39_word_new_br7 | angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick<br>talk |  
+| bip_39_word_new_br8 | angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick<br>talk<br>thunder |  
+| bip_39_word_new_br9 | angle<br>pulp<br>symbol<br>mixture<br>tomorrow<br>stick<br>talk<br>thunder<br>final |  
+| bip_39_word_new_line1 | angle |  
+| bip_39_word_new_line10 | angle
+pulp
+symbol
+mixture
+tomorrow
+stick
+talk
+thunder
+final
+armor |  
+| bip_39_word_new_line11 | angle
+pulp
+symbol
+mixture
+tomorrow
+stick
+talk
+thunder
+final
+armor
+sun |  
+| bip_39_word_new_line12 | angle
+pulp
+symbol
+mixture
+tomorrow
+stick
+talk
+thunder
+final
+armor
+sun
+access |  
+| bip_39_word_new_line2 | angle
+pulp |  
+| bip_39_word_new_line3 | angle
+pulp
+symbol |  
+| bip_39_word_new_line4 | angle
+pulp
+symbol
+mixture |  
+| bip_39_word_new_line5 | angle
+pulp
+symbol
+mixture
+tomorrow |  
+| bip_39_word_new_line6 | angle
+pulp
+symbol
+mixture
+tomorrow
+stick |  
+| bip_39_word_new_line7 | angle
+pulp
+symbol
+mixture
+tomorrow
+stick
+talk |  
+| bip_39_word_new_line8 | angle
+pulp
+symbol
+mixture
+tomorrow
+stick
+talk
+thunder |  
+| bip_39_word_new_line9 | angle
+pulp
+symbol
+mixture
+tomorrow
+stick
+talk
+thunder
+final |  
+| bip_39_word_space_0 | ['angle', 'pulp', 'symbol', 'mixture', 'tomorrow', 'stick', 'talk', 'thunder', 'final', 'armor', 'sun', 'access'] |  
+| bip_39_word_space_1 | angle |  
+| bip_39_word_space_10 | angle pulp symbol mixture tomorrow stick talk thunder final armor |  
+| bip_39_word_space_11 | angle pulp symbol mixture tomorrow stick talk thunder final armor sun |  
+| bip_39_word_space_12 | angle pulp symbol mixture tomorrow stick talk thunder final armor sun access |  
+| bip_39_word_space_2 | angle pulp |  
+| bip_39_word_space_3 | angle pulp symbol |  
+| bip_39_word_space_4 | angle pulp symbol mixture |  
+| bip_39_word_space_5 | angle pulp symbol mixture tomorrow |  
+| bip_39_word_space_6 | angle pulp symbol mixture tomorrow stick |  
+| bip_39_word_space_7 | angle pulp symbol mixture tomorrow stick talk |  
+| bip_39_word_space_8 | angle pulp symbol mixture tomorrow stick talk thunder |  
+| bip_39_word_space_9 | angle pulp symbol mixture tomorrow stick talk thunder final |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

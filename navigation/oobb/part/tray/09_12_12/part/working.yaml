@@ -1,3 +1,187 @@
+bip_39_word_new_br1: wire
+bip_39_word_new_br10: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick
+bip_39_word_new_br11: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet
+bip_39_word_new_br12: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet<br>amount
+bip_39_word_new_br2: wire<br>sniff
+bip_39_word_new_br3: wire<br>sniff<br>audit
+bip_39_word_new_br4: wire<br>sniff<br>audit<br>abstract
+bip_39_word_new_br5: wire<br>sniff<br>audit<br>abstract<br>jungle
+bip_39_word_new_br6: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate
+bip_39_word_new_br7: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard
+bip_39_word_new_br8: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy
+bip_39_word_new_br9: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce
+bip_39_word_new_line1: wire
+bip_39_word_new_line10: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy
+
+  reduce
+
+  quick'
+bip_39_word_new_line11: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy
+
+  reduce
+
+  quick
+
+  bullet'
+bip_39_word_new_line12: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy
+
+  reduce
+
+  quick
+
+  bullet
+
+  amount'
+bip_39_word_new_line2: 'wire
+
+  sniff'
+bip_39_word_new_line3: 'wire
+
+  sniff
+
+  audit'
+bip_39_word_new_line4: 'wire
+
+  sniff
+
+  audit
+
+  abstract'
+bip_39_word_new_line5: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle'
+bip_39_word_new_line6: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate'
+bip_39_word_new_line7: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard'
+bip_39_word_new_line8: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy'
+bip_39_word_new_line9: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy
+
+  reduce'
+bip_39_word_space_0:
+- wire
+- sniff
+- audit
+- abstract
+- jungle
+- situate
+- cupboard
+- strategy
+- reduce
+- quick
+- bullet
+- amount
+bip_39_word_space_1: wire
+bip_39_word_space_10: wire sniff audit abstract jungle situate cupboard strategy reduce
+  quick
+bip_39_word_space_11: wire sniff audit abstract jungle situate cupboard strategy reduce
+  quick bullet
+bip_39_word_space_12: wire sniff audit abstract jungle situate cupboard strategy reduce
+  quick bullet amount
+bip_39_word_space_2: wire sniff
+bip_39_word_space_3: wire sniff audit
+bip_39_word_space_4: wire sniff audit abstract
+bip_39_word_space_5: wire sniff audit abstract jungle
+bip_39_word_space_6: wire sniff audit abstract jungle situate
+bip_39_word_space_7: wire sniff audit abstract jungle situate cupboard
+bip_39_word_space_8: wire sniff audit abstract jungle situate cupboard strategy
+bip_39_word_space_9: wire sniff audit abstract jungle situate cupboard strategy reduce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

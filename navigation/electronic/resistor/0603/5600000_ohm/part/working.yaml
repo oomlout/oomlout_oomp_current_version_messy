@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bounce
+bip_39_word_new_br10: bounce<br>match<br>sibling<br>clay<br>board<br>spoil<br>web<br>thank<br>dynamic<br>general
+bip_39_word_new_br11: bounce<br>match<br>sibling<br>clay<br>board<br>spoil<br>web<br>thank<br>dynamic<br>general<br>sure
+bip_39_word_new_br12: bounce<br>match<br>sibling<br>clay<br>board<br>spoil<br>web<br>thank<br>dynamic<br>general<br>sure<br>assume
+bip_39_word_new_br2: bounce<br>match
+bip_39_word_new_br3: bounce<br>match<br>sibling
+bip_39_word_new_br4: bounce<br>match<br>sibling<br>clay
+bip_39_word_new_br5: bounce<br>match<br>sibling<br>clay<br>board
+bip_39_word_new_br6: bounce<br>match<br>sibling<br>clay<br>board<br>spoil
+bip_39_word_new_br7: bounce<br>match<br>sibling<br>clay<br>board<br>spoil<br>web
+bip_39_word_new_br8: bounce<br>match<br>sibling<br>clay<br>board<br>spoil<br>web<br>thank
+bip_39_word_new_br9: bounce<br>match<br>sibling<br>clay<br>board<br>spoil<br>web<br>thank<br>dynamic
+bip_39_word_new_line1: bounce
+bip_39_word_new_line10: 'bounce
+
+  match
+
+  sibling
+
+  clay
+
+  board
+
+  spoil
+
+  web
+
+  thank
+
+  dynamic
+
+  general'
+bip_39_word_new_line11: 'bounce
+
+  match
+
+  sibling
+
+  clay
+
+  board
+
+  spoil
+
+  web
+
+  thank
+
+  dynamic
+
+  general
+
+  sure'
+bip_39_word_new_line12: 'bounce
+
+  match
+
+  sibling
+
+  clay
+
+  board
+
+  spoil
+
+  web
+
+  thank
+
+  dynamic
+
+  general
+
+  sure
+
+  assume'
+bip_39_word_new_line2: 'bounce
+
+  match'
+bip_39_word_new_line3: 'bounce
+
+  match
+
+  sibling'
+bip_39_word_new_line4: 'bounce
+
+  match
+
+  sibling
+
+  clay'
+bip_39_word_new_line5: 'bounce
+
+  match
+
+  sibling
+
+  clay
+
+  board'
+bip_39_word_new_line6: 'bounce
+
+  match
+
+  sibling
+
+  clay
+
+  board
+
+  spoil'
+bip_39_word_new_line7: 'bounce
+
+  match
+
+  sibling
+
+  clay
+
+  board
+
+  spoil
+
+  web'
+bip_39_word_new_line8: 'bounce
+
+  match
+
+  sibling
+
+  clay
+
+  board
+
+  spoil
+
+  web
+
+  thank'
+bip_39_word_new_line9: 'bounce
+
+  match
+
+  sibling
+
+  clay
+
+  board
+
+  spoil
+
+  web
+
+  thank
+
+  dynamic'
+bip_39_word_space_0:
+- bounce
+- match
+- sibling
+- clay
+- board
+- spoil
+- web
+- thank
+- dynamic
+- general
+- sure
+- assume
+bip_39_word_space_1: bounce
+bip_39_word_space_10: bounce match sibling clay board spoil web thank dynamic general
+bip_39_word_space_11: bounce match sibling clay board spoil web thank dynamic general
+  sure
+bip_39_word_space_12: bounce match sibling clay board spoil web thank dynamic general
+  sure assume
+bip_39_word_space_2: bounce match
+bip_39_word_space_3: bounce match sibling
+bip_39_word_space_4: bounce match sibling clay
+bip_39_word_space_5: bounce match sibling clay board
+bip_39_word_space_6: bounce match sibling clay board spoil
+bip_39_word_space_7: bounce match sibling clay board spoil web
+bip_39_word_space_8: bounce match sibling clay board spoil web thank
+bip_39_word_space_9: bounce match sibling clay board spoil web thank dynamic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

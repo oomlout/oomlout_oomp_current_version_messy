@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: strike pear
+  * bip 39 word 3: strike pear unaware
+  * bip 39 word: strike pear unaware valid inform violin quit gather crucial correct cool attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | strike |  
+| bip_39_word_new_br10 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct |  
+| bip_39_word_new_br11 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct<br>cool |  
+| bip_39_word_new_br12 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial<br>correct<br>cool<br>attract |  
+| bip_39_word_new_br2 | strike<br>pear |  
+| bip_39_word_new_br3 | strike<br>pear<br>unaware |  
+| bip_39_word_new_br4 | strike<br>pear<br>unaware<br>valid |  
+| bip_39_word_new_br5 | strike<br>pear<br>unaware<br>valid<br>inform |  
+| bip_39_word_new_br6 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin |  
+| bip_39_word_new_br7 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit |  
+| bip_39_word_new_br8 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather |  
+| bip_39_word_new_br9 | strike<br>pear<br>unaware<br>valid<br>inform<br>violin<br>quit<br>gather<br>crucial |  
+| bip_39_word_new_line1 | strike |  
+| bip_39_word_new_line10 | strike
+pear
+unaware
+valid
+inform
+violin
+quit
+gather
+crucial
+correct |  
+| bip_39_word_new_line11 | strike
+pear
+unaware
+valid
+inform
+violin
+quit
+gather
+crucial
+correct
+cool |  
+| bip_39_word_new_line12 | strike
+pear
+unaware
+valid
+inform
+violin
+quit
+gather
+crucial
+correct
+cool
+attract |  
+| bip_39_word_new_line2 | strike
+pear |  
+| bip_39_word_new_line3 | strike
+pear
+unaware |  
+| bip_39_word_new_line4 | strike
+pear
+unaware
+valid |  
+| bip_39_word_new_line5 | strike
+pear
+unaware
+valid
+inform |  
+| bip_39_word_new_line6 | strike
+pear
+unaware
+valid
+inform
+violin |  
+| bip_39_word_new_line7 | strike
+pear
+unaware
+valid
+inform
+violin
+quit |  
+| bip_39_word_new_line8 | strike
+pear
+unaware
+valid
+inform
+violin
+quit
+gather |  
+| bip_39_word_new_line9 | strike
+pear
+unaware
+valid
+inform
+violin
+quit
+gather
+crucial |  
+| bip_39_word_space_0 | ['strike', 'pear', 'unaware', 'valid', 'inform', 'violin', 'quit', 'gather', 'crucial', 'correct', 'cool', 'attract'] |  
+| bip_39_word_space_1 | strike |  
+| bip_39_word_space_10 | strike pear unaware valid inform violin quit gather crucial correct |  
+| bip_39_word_space_11 | strike pear unaware valid inform violin quit gather crucial correct cool |  
+| bip_39_word_space_12 | strike pear unaware valid inform violin quit gather crucial correct cool attract |  
+| bip_39_word_space_2 | strike pear |  
+| bip_39_word_space_3 | strike pear unaware |  
+| bip_39_word_space_4 | strike pear unaware valid |  
+| bip_39_word_space_5 | strike pear unaware valid inform |  
+| bip_39_word_space_6 | strike pear unaware valid inform violin |  
+| bip_39_word_space_7 | strike pear unaware valid inform violin quit |  
+| bip_39_word_space_8 | strike pear unaware valid inform violin quit gather |  
+| bip_39_word_space_9 | strike pear unaware valid inform violin quit gather crucial |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

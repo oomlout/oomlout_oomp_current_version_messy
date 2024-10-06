@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: actress elbow
+  * bip 39 word 3: actress elbow dish
+  * bip 39 word: actress elbow dish argue nose imitate spice suggest middle voice noble alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | actress |  
+| bip_39_word_new_br10 | actress<br>elbow<br>dish<br>argue<br>nose<br>imitate<br>spice<br>suggest<br>middle<br>voice |  
+| bip_39_word_new_br11 | actress<br>elbow<br>dish<br>argue<br>nose<br>imitate<br>spice<br>suggest<br>middle<br>voice<br>noble |  
+| bip_39_word_new_br12 | actress<br>elbow<br>dish<br>argue<br>nose<br>imitate<br>spice<br>suggest<br>middle<br>voice<br>noble<br>alone |  
+| bip_39_word_new_br2 | actress<br>elbow |  
+| bip_39_word_new_br3 | actress<br>elbow<br>dish |  
+| bip_39_word_new_br4 | actress<br>elbow<br>dish<br>argue |  
+| bip_39_word_new_br5 | actress<br>elbow<br>dish<br>argue<br>nose |  
+| bip_39_word_new_br6 | actress<br>elbow<br>dish<br>argue<br>nose<br>imitate |  
+| bip_39_word_new_br7 | actress<br>elbow<br>dish<br>argue<br>nose<br>imitate<br>spice |  
+| bip_39_word_new_br8 | actress<br>elbow<br>dish<br>argue<br>nose<br>imitate<br>spice<br>suggest |  
+| bip_39_word_new_br9 | actress<br>elbow<br>dish<br>argue<br>nose<br>imitate<br>spice<br>suggest<br>middle |  
+| bip_39_word_new_line1 | actress |  
+| bip_39_word_new_line10 | actress
+elbow
+dish
+argue
+nose
+imitate
+spice
+suggest
+middle
+voice |  
+| bip_39_word_new_line11 | actress
+elbow
+dish
+argue
+nose
+imitate
+spice
+suggest
+middle
+voice
+noble |  
+| bip_39_word_new_line12 | actress
+elbow
+dish
+argue
+nose
+imitate
+spice
+suggest
+middle
+voice
+noble
+alone |  
+| bip_39_word_new_line2 | actress
+elbow |  
+| bip_39_word_new_line3 | actress
+elbow
+dish |  
+| bip_39_word_new_line4 | actress
+elbow
+dish
+argue |  
+| bip_39_word_new_line5 | actress
+elbow
+dish
+argue
+nose |  
+| bip_39_word_new_line6 | actress
+elbow
+dish
+argue
+nose
+imitate |  
+| bip_39_word_new_line7 | actress
+elbow
+dish
+argue
+nose
+imitate
+spice |  
+| bip_39_word_new_line8 | actress
+elbow
+dish
+argue
+nose
+imitate
+spice
+suggest |  
+| bip_39_word_new_line9 | actress
+elbow
+dish
+argue
+nose
+imitate
+spice
+suggest
+middle |  
+| bip_39_word_space_0 | ['actress', 'elbow', 'dish', 'argue', 'nose', 'imitate', 'spice', 'suggest', 'middle', 'voice', 'noble', 'alone'] |  
+| bip_39_word_space_1 | actress |  
+| bip_39_word_space_10 | actress elbow dish argue nose imitate spice suggest middle voice |  
+| bip_39_word_space_11 | actress elbow dish argue nose imitate spice suggest middle voice noble |  
+| bip_39_word_space_12 | actress elbow dish argue nose imitate spice suggest middle voice noble alone |  
+| bip_39_word_space_2 | actress elbow |  
+| bip_39_word_space_3 | actress elbow dish |  
+| bip_39_word_space_4 | actress elbow dish argue |  
+| bip_39_word_space_5 | actress elbow dish argue nose |  
+| bip_39_word_space_6 | actress elbow dish argue nose imitate |  
+| bip_39_word_space_7 | actress elbow dish argue nose imitate spice |  
+| bip_39_word_space_8 | actress elbow dish argue nose imitate spice suggest |  
+| bip_39_word_space_9 | actress elbow dish argue nose imitate spice suggest middle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

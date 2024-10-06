@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: margin gym
+  * bip 39 word 3: margin gym erase
+  * bip 39 word: margin gym erase fossil second manual warfare gorilla relief column symptom asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | margin |  
+| bip_39_word_new_br10 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column |  
+| bip_39_word_new_br11 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column<br>symptom |  
+| bip_39_word_new_br12 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief<br>column<br>symptom<br>asset |  
+| bip_39_word_new_br2 | margin<br>gym |  
+| bip_39_word_new_br3 | margin<br>gym<br>erase |  
+| bip_39_word_new_br4 | margin<br>gym<br>erase<br>fossil |  
+| bip_39_word_new_br5 | margin<br>gym<br>erase<br>fossil<br>second |  
+| bip_39_word_new_br6 | margin<br>gym<br>erase<br>fossil<br>second<br>manual |  
+| bip_39_word_new_br7 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare |  
+| bip_39_word_new_br8 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla |  
+| bip_39_word_new_br9 | margin<br>gym<br>erase<br>fossil<br>second<br>manual<br>warfare<br>gorilla<br>relief |  
+| bip_39_word_new_line1 | margin |  
+| bip_39_word_new_line10 | margin
+gym
+erase
+fossil
+second
+manual
+warfare
+gorilla
+relief
+column |  
+| bip_39_word_new_line11 | margin
+gym
+erase
+fossil
+second
+manual
+warfare
+gorilla
+relief
+column
+symptom |  
+| bip_39_word_new_line12 | margin
+gym
+erase
+fossil
+second
+manual
+warfare
+gorilla
+relief
+column
+symptom
+asset |  
+| bip_39_word_new_line2 | margin
+gym |  
+| bip_39_word_new_line3 | margin
+gym
+erase |  
+| bip_39_word_new_line4 | margin
+gym
+erase
+fossil |  
+| bip_39_word_new_line5 | margin
+gym
+erase
+fossil
+second |  
+| bip_39_word_new_line6 | margin
+gym
+erase
+fossil
+second
+manual |  
+| bip_39_word_new_line7 | margin
+gym
+erase
+fossil
+second
+manual
+warfare |  
+| bip_39_word_new_line8 | margin
+gym
+erase
+fossil
+second
+manual
+warfare
+gorilla |  
+| bip_39_word_new_line9 | margin
+gym
+erase
+fossil
+second
+manual
+warfare
+gorilla
+relief |  
+| bip_39_word_space_0 | ['margin', 'gym', 'erase', 'fossil', 'second', 'manual', 'warfare', 'gorilla', 'relief', 'column', 'symptom', 'asset'] |  
+| bip_39_word_space_1 | margin |  
+| bip_39_word_space_10 | margin gym erase fossil second manual warfare gorilla relief column |  
+| bip_39_word_space_11 | margin gym erase fossil second manual warfare gorilla relief column symptom |  
+| bip_39_word_space_12 | margin gym erase fossil second manual warfare gorilla relief column symptom asset |  
+| bip_39_word_space_2 | margin gym |  
+| bip_39_word_space_3 | margin gym erase |  
+| bip_39_word_space_4 | margin gym erase fossil |  
+| bip_39_word_space_5 | margin gym erase fossil second |  
+| bip_39_word_space_6 | margin gym erase fossil second manual |  
+| bip_39_word_space_7 | margin gym erase fossil second manual warfare |  
+| bip_39_word_space_8 | margin gym erase fossil second manual warfare gorilla |  
+| bip_39_word_space_9 | margin gym erase fossil second manual warfare gorilla relief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

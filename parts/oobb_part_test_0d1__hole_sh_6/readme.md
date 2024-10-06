@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hole_sh_6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: melt scale
+  * bip 39 word 3: melt scale erosion
+  * bip 39 word: melt scale erosion balcony degree eight dove loop tortoise proof ginger again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | melt |  
+| bip_39_word_new_br10 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight<br>dove<br>loop<br>tortoise<br>proof |  
+| bip_39_word_new_br11 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight<br>dove<br>loop<br>tortoise<br>proof<br>ginger |  
+| bip_39_word_new_br12 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight<br>dove<br>loop<br>tortoise<br>proof<br>ginger<br>again |  
+| bip_39_word_new_br2 | melt<br>scale |  
+| bip_39_word_new_br3 | melt<br>scale<br>erosion |  
+| bip_39_word_new_br4 | melt<br>scale<br>erosion<br>balcony |  
+| bip_39_word_new_br5 | melt<br>scale<br>erosion<br>balcony<br>degree |  
+| bip_39_word_new_br6 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight |  
+| bip_39_word_new_br7 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight<br>dove |  
+| bip_39_word_new_br8 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight<br>dove<br>loop |  
+| bip_39_word_new_br9 | melt<br>scale<br>erosion<br>balcony<br>degree<br>eight<br>dove<br>loop<br>tortoise |  
+| bip_39_word_new_line1 | melt |  
+| bip_39_word_new_line10 | melt
+scale
+erosion
+balcony
+degree
+eight
+dove
+loop
+tortoise
+proof |  
+| bip_39_word_new_line11 | melt
+scale
+erosion
+balcony
+degree
+eight
+dove
+loop
+tortoise
+proof
+ginger |  
+| bip_39_word_new_line12 | melt
+scale
+erosion
+balcony
+degree
+eight
+dove
+loop
+tortoise
+proof
+ginger
+again |  
+| bip_39_word_new_line2 | melt
+scale |  
+| bip_39_word_new_line3 | melt
+scale
+erosion |  
+| bip_39_word_new_line4 | melt
+scale
+erosion
+balcony |  
+| bip_39_word_new_line5 | melt
+scale
+erosion
+balcony
+degree |  
+| bip_39_word_new_line6 | melt
+scale
+erosion
+balcony
+degree
+eight |  
+| bip_39_word_new_line7 | melt
+scale
+erosion
+balcony
+degree
+eight
+dove |  
+| bip_39_word_new_line8 | melt
+scale
+erosion
+balcony
+degree
+eight
+dove
+loop |  
+| bip_39_word_new_line9 | melt
+scale
+erosion
+balcony
+degree
+eight
+dove
+loop
+tortoise |  
+| bip_39_word_space_0 | ['melt', 'scale', 'erosion', 'balcony', 'degree', 'eight', 'dove', 'loop', 'tortoise', 'proof', 'ginger', 'again'] |  
+| bip_39_word_space_1 | melt |  
+| bip_39_word_space_10 | melt scale erosion balcony degree eight dove loop tortoise proof |  
+| bip_39_word_space_11 | melt scale erosion balcony degree eight dove loop tortoise proof ginger |  
+| bip_39_word_space_12 | melt scale erosion balcony degree eight dove loop tortoise proof ginger again |  
+| bip_39_word_space_2 | melt scale |  
+| bip_39_word_space_3 | melt scale erosion |  
+| bip_39_word_space_4 | melt scale erosion balcony |  
+| bip_39_word_space_5 | melt scale erosion balcony degree |  
+| bip_39_word_space_6 | melt scale erosion balcony degree eight |  
+| bip_39_word_space_7 | melt scale erosion balcony degree eight dove |  
+| bip_39_word_space_8 | melt scale erosion balcony degree eight dove loop |  
+| bip_39_word_space_9 | melt scale erosion balcony degree eight dove loop tortoise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

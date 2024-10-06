@@ -1,3 +1,187 @@
+bip_39_word_new_br1: crunch
+bip_39_word_new_br10: crunch<br>coyote<br>memory<br>oak<br>turkey<br>advance<br>supreme<br>bronze<br>burst<br>crew
+bip_39_word_new_br11: crunch<br>coyote<br>memory<br>oak<br>turkey<br>advance<br>supreme<br>bronze<br>burst<br>crew<br>oyster
+bip_39_word_new_br12: crunch<br>coyote<br>memory<br>oak<br>turkey<br>advance<br>supreme<br>bronze<br>burst<br>crew<br>oyster<br>abstract
+bip_39_word_new_br2: crunch<br>coyote
+bip_39_word_new_br3: crunch<br>coyote<br>memory
+bip_39_word_new_br4: crunch<br>coyote<br>memory<br>oak
+bip_39_word_new_br5: crunch<br>coyote<br>memory<br>oak<br>turkey
+bip_39_word_new_br6: crunch<br>coyote<br>memory<br>oak<br>turkey<br>advance
+bip_39_word_new_br7: crunch<br>coyote<br>memory<br>oak<br>turkey<br>advance<br>supreme
+bip_39_word_new_br8: crunch<br>coyote<br>memory<br>oak<br>turkey<br>advance<br>supreme<br>bronze
+bip_39_word_new_br9: crunch<br>coyote<br>memory<br>oak<br>turkey<br>advance<br>supreme<br>bronze<br>burst
+bip_39_word_new_line1: crunch
+bip_39_word_new_line10: 'crunch
+
+  coyote
+
+  memory
+
+  oak
+
+  turkey
+
+  advance
+
+  supreme
+
+  bronze
+
+  burst
+
+  crew'
+bip_39_word_new_line11: 'crunch
+
+  coyote
+
+  memory
+
+  oak
+
+  turkey
+
+  advance
+
+  supreme
+
+  bronze
+
+  burst
+
+  crew
+
+  oyster'
+bip_39_word_new_line12: 'crunch
+
+  coyote
+
+  memory
+
+  oak
+
+  turkey
+
+  advance
+
+  supreme
+
+  bronze
+
+  burst
+
+  crew
+
+  oyster
+
+  abstract'
+bip_39_word_new_line2: 'crunch
+
+  coyote'
+bip_39_word_new_line3: 'crunch
+
+  coyote
+
+  memory'
+bip_39_word_new_line4: 'crunch
+
+  coyote
+
+  memory
+
+  oak'
+bip_39_word_new_line5: 'crunch
+
+  coyote
+
+  memory
+
+  oak
+
+  turkey'
+bip_39_word_new_line6: 'crunch
+
+  coyote
+
+  memory
+
+  oak
+
+  turkey
+
+  advance'
+bip_39_word_new_line7: 'crunch
+
+  coyote
+
+  memory
+
+  oak
+
+  turkey
+
+  advance
+
+  supreme'
+bip_39_word_new_line8: 'crunch
+
+  coyote
+
+  memory
+
+  oak
+
+  turkey
+
+  advance
+
+  supreme
+
+  bronze'
+bip_39_word_new_line9: 'crunch
+
+  coyote
+
+  memory
+
+  oak
+
+  turkey
+
+  advance
+
+  supreme
+
+  bronze
+
+  burst'
+bip_39_word_space_0:
+- crunch
+- coyote
+- memory
+- oak
+- turkey
+- advance
+- supreme
+- bronze
+- burst
+- crew
+- oyster
+- abstract
+bip_39_word_space_1: crunch
+bip_39_word_space_10: crunch coyote memory oak turkey advance supreme bronze burst
+  crew
+bip_39_word_space_11: crunch coyote memory oak turkey advance supreme bronze burst
+  crew oyster
+bip_39_word_space_12: crunch coyote memory oak turkey advance supreme bronze burst
+  crew oyster abstract
+bip_39_word_space_2: crunch coyote
+bip_39_word_space_3: crunch coyote memory
+bip_39_word_space_4: crunch coyote memory oak
+bip_39_word_space_5: crunch coyote memory oak turkey
+bip_39_word_space_6: crunch coyote memory oak turkey advance
+bip_39_word_space_7: crunch coyote memory oak turkey advance supreme
+bip_39_word_space_8: crunch coyote memory oak turkey advance supreme bronze
+bip_39_word_space_9: crunch coyote memory oak turkey advance supreme bronze burst
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

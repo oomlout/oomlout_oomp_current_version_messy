@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fault bind
+  * bip 39 word 3: fault bind whale
+  * bip 39 word: fault bind whale laundry faint twenty affair relax tired love trick athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fault |  
+| bip_39_word_new_br10 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love |  
+| bip_39_word_new_br11 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love<br>trick |  
+| bip_39_word_new_br12 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired<br>love<br>trick<br>athlete |  
+| bip_39_word_new_br2 | fault<br>bind |  
+| bip_39_word_new_br3 | fault<br>bind<br>whale |  
+| bip_39_word_new_br4 | fault<br>bind<br>whale<br>laundry |  
+| bip_39_word_new_br5 | fault<br>bind<br>whale<br>laundry<br>faint |  
+| bip_39_word_new_br6 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty |  
+| bip_39_word_new_br7 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair |  
+| bip_39_word_new_br8 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax |  
+| bip_39_word_new_br9 | fault<br>bind<br>whale<br>laundry<br>faint<br>twenty<br>affair<br>relax<br>tired |  
+| bip_39_word_new_line1 | fault |  
+| bip_39_word_new_line10 | fault
+bind
+whale
+laundry
+faint
+twenty
+affair
+relax
+tired
+love |  
+| bip_39_word_new_line11 | fault
+bind
+whale
+laundry
+faint
+twenty
+affair
+relax
+tired
+love
+trick |  
+| bip_39_word_new_line12 | fault
+bind
+whale
+laundry
+faint
+twenty
+affair
+relax
+tired
+love
+trick
+athlete |  
+| bip_39_word_new_line2 | fault
+bind |  
+| bip_39_word_new_line3 | fault
+bind
+whale |  
+| bip_39_word_new_line4 | fault
+bind
+whale
+laundry |  
+| bip_39_word_new_line5 | fault
+bind
+whale
+laundry
+faint |  
+| bip_39_word_new_line6 | fault
+bind
+whale
+laundry
+faint
+twenty |  
+| bip_39_word_new_line7 | fault
+bind
+whale
+laundry
+faint
+twenty
+affair |  
+| bip_39_word_new_line8 | fault
+bind
+whale
+laundry
+faint
+twenty
+affair
+relax |  
+| bip_39_word_new_line9 | fault
+bind
+whale
+laundry
+faint
+twenty
+affair
+relax
+tired |  
+| bip_39_word_space_0 | ['fault', 'bind', 'whale', 'laundry', 'faint', 'twenty', 'affair', 'relax', 'tired', 'love', 'trick', 'athlete'] |  
+| bip_39_word_space_1 | fault |  
+| bip_39_word_space_10 | fault bind whale laundry faint twenty affair relax tired love |  
+| bip_39_word_space_11 | fault bind whale laundry faint twenty affair relax tired love trick |  
+| bip_39_word_space_12 | fault bind whale laundry faint twenty affair relax tired love trick athlete |  
+| bip_39_word_space_2 | fault bind |  
+| bip_39_word_space_3 | fault bind whale |  
+| bip_39_word_space_4 | fault bind whale laundry |  
+| bip_39_word_space_5 | fault bind whale laundry faint |  
+| bip_39_word_space_6 | fault bind whale laundry faint twenty |  
+| bip_39_word_space_7 | fault bind whale laundry faint twenty affair |  
+| bip_39_word_space_8 | fault bind whale laundry faint twenty affair relax |  
+| bip_39_word_space_9 | fault bind whale laundry faint twenty affair relax tired |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

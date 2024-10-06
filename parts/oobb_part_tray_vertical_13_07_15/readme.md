@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: report mobile
+  * bip 39 word 3: report mobile process
+  * bip 39 word: report mobile process gentle domain depend useful mesh month genius above athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | report |  
+| bip_39_word_new_br10 | report<br>mobile<br>process<br>gentle<br>domain<br>depend<br>useful<br>mesh<br>month<br>genius |  
+| bip_39_word_new_br11 | report<br>mobile<br>process<br>gentle<br>domain<br>depend<br>useful<br>mesh<br>month<br>genius<br>above |  
+| bip_39_word_new_br12 | report<br>mobile<br>process<br>gentle<br>domain<br>depend<br>useful<br>mesh<br>month<br>genius<br>above<br>athlete |  
+| bip_39_word_new_br2 | report<br>mobile |  
+| bip_39_word_new_br3 | report<br>mobile<br>process |  
+| bip_39_word_new_br4 | report<br>mobile<br>process<br>gentle |  
+| bip_39_word_new_br5 | report<br>mobile<br>process<br>gentle<br>domain |  
+| bip_39_word_new_br6 | report<br>mobile<br>process<br>gentle<br>domain<br>depend |  
+| bip_39_word_new_br7 | report<br>mobile<br>process<br>gentle<br>domain<br>depend<br>useful |  
+| bip_39_word_new_br8 | report<br>mobile<br>process<br>gentle<br>domain<br>depend<br>useful<br>mesh |  
+| bip_39_word_new_br9 | report<br>mobile<br>process<br>gentle<br>domain<br>depend<br>useful<br>mesh<br>month |  
+| bip_39_word_new_line1 | report |  
+| bip_39_word_new_line10 | report
+mobile
+process
+gentle
+domain
+depend
+useful
+mesh
+month
+genius |  
+| bip_39_word_new_line11 | report
+mobile
+process
+gentle
+domain
+depend
+useful
+mesh
+month
+genius
+above |  
+| bip_39_word_new_line12 | report
+mobile
+process
+gentle
+domain
+depend
+useful
+mesh
+month
+genius
+above
+athlete |  
+| bip_39_word_new_line2 | report
+mobile |  
+| bip_39_word_new_line3 | report
+mobile
+process |  
+| bip_39_word_new_line4 | report
+mobile
+process
+gentle |  
+| bip_39_word_new_line5 | report
+mobile
+process
+gentle
+domain |  
+| bip_39_word_new_line6 | report
+mobile
+process
+gentle
+domain
+depend |  
+| bip_39_word_new_line7 | report
+mobile
+process
+gentle
+domain
+depend
+useful |  
+| bip_39_word_new_line8 | report
+mobile
+process
+gentle
+domain
+depend
+useful
+mesh |  
+| bip_39_word_new_line9 | report
+mobile
+process
+gentle
+domain
+depend
+useful
+mesh
+month |  
+| bip_39_word_space_0 | ['report', 'mobile', 'process', 'gentle', 'domain', 'depend', 'useful', 'mesh', 'month', 'genius', 'above', 'athlete'] |  
+| bip_39_word_space_1 | report |  
+| bip_39_word_space_10 | report mobile process gentle domain depend useful mesh month genius |  
+| bip_39_word_space_11 | report mobile process gentle domain depend useful mesh month genius above |  
+| bip_39_word_space_12 | report mobile process gentle domain depend useful mesh month genius above athlete |  
+| bip_39_word_space_2 | report mobile |  
+| bip_39_word_space_3 | report mobile process |  
+| bip_39_word_space_4 | report mobile process gentle |  
+| bip_39_word_space_5 | report mobile process gentle domain |  
+| bip_39_word_space_6 | report mobile process gentle domain depend |  
+| bip_39_word_space_7 | report mobile process gentle domain depend useful |  
+| bip_39_word_space_8 | report mobile process gentle domain depend useful mesh |  
+| bip_39_word_space_9 | report mobile process gentle domain depend useful mesh month |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

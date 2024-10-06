@@ -1,3 +1,187 @@
+bip_39_word_new_br1: notice
+bip_39_word_new_br10: notice<br>myself<br>ignore<br>hand<br>assault<br>clinic<br>ordinary<br>humor<br>special<br>daring
+bip_39_word_new_br11: notice<br>myself<br>ignore<br>hand<br>assault<br>clinic<br>ordinary<br>humor<br>special<br>daring<br>devote
+bip_39_word_new_br12: notice<br>myself<br>ignore<br>hand<br>assault<br>clinic<br>ordinary<br>humor<br>special<br>daring<br>devote<br>abuse
+bip_39_word_new_br2: notice<br>myself
+bip_39_word_new_br3: notice<br>myself<br>ignore
+bip_39_word_new_br4: notice<br>myself<br>ignore<br>hand
+bip_39_word_new_br5: notice<br>myself<br>ignore<br>hand<br>assault
+bip_39_word_new_br6: notice<br>myself<br>ignore<br>hand<br>assault<br>clinic
+bip_39_word_new_br7: notice<br>myself<br>ignore<br>hand<br>assault<br>clinic<br>ordinary
+bip_39_word_new_br8: notice<br>myself<br>ignore<br>hand<br>assault<br>clinic<br>ordinary<br>humor
+bip_39_word_new_br9: notice<br>myself<br>ignore<br>hand<br>assault<br>clinic<br>ordinary<br>humor<br>special
+bip_39_word_new_line1: notice
+bip_39_word_new_line10: 'notice
+
+  myself
+
+  ignore
+
+  hand
+
+  assault
+
+  clinic
+
+  ordinary
+
+  humor
+
+  special
+
+  daring'
+bip_39_word_new_line11: 'notice
+
+  myself
+
+  ignore
+
+  hand
+
+  assault
+
+  clinic
+
+  ordinary
+
+  humor
+
+  special
+
+  daring
+
+  devote'
+bip_39_word_new_line12: 'notice
+
+  myself
+
+  ignore
+
+  hand
+
+  assault
+
+  clinic
+
+  ordinary
+
+  humor
+
+  special
+
+  daring
+
+  devote
+
+  abuse'
+bip_39_word_new_line2: 'notice
+
+  myself'
+bip_39_word_new_line3: 'notice
+
+  myself
+
+  ignore'
+bip_39_word_new_line4: 'notice
+
+  myself
+
+  ignore
+
+  hand'
+bip_39_word_new_line5: 'notice
+
+  myself
+
+  ignore
+
+  hand
+
+  assault'
+bip_39_word_new_line6: 'notice
+
+  myself
+
+  ignore
+
+  hand
+
+  assault
+
+  clinic'
+bip_39_word_new_line7: 'notice
+
+  myself
+
+  ignore
+
+  hand
+
+  assault
+
+  clinic
+
+  ordinary'
+bip_39_word_new_line8: 'notice
+
+  myself
+
+  ignore
+
+  hand
+
+  assault
+
+  clinic
+
+  ordinary
+
+  humor'
+bip_39_word_new_line9: 'notice
+
+  myself
+
+  ignore
+
+  hand
+
+  assault
+
+  clinic
+
+  ordinary
+
+  humor
+
+  special'
+bip_39_word_space_0:
+- notice
+- myself
+- ignore
+- hand
+- assault
+- clinic
+- ordinary
+- humor
+- special
+- daring
+- devote
+- abuse
+bip_39_word_space_1: notice
+bip_39_word_space_10: notice myself ignore hand assault clinic ordinary humor special
+  daring
+bip_39_word_space_11: notice myself ignore hand assault clinic ordinary humor special
+  daring devote
+bip_39_word_space_12: notice myself ignore hand assault clinic ordinary humor special
+  daring devote abuse
+bip_39_word_space_2: notice myself
+bip_39_word_space_3: notice myself ignore
+bip_39_word_space_4: notice myself ignore hand
+bip_39_word_space_5: notice myself ignore hand assault
+bip_39_word_space_6: notice myself ignore hand assault clinic
+bip_39_word_space_7: notice myself ignore hand assault clinic ordinary
+bip_39_word_space_8: notice myself ignore hand assault clinic ordinary humor
+bip_39_word_space_9: notice myself ignore hand assault clinic ordinary humor special
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

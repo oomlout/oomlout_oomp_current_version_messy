@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: legal lyrics
+  * bip 39 word 3: legal lyrics ability
+  * bip 39 word: legal lyrics ability deny uncover egg unfold voyage ahead garlic clarify adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | legal |  
+| bip_39_word_new_br10 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg<br>unfold<br>voyage<br>ahead<br>garlic |  
+| bip_39_word_new_br11 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg<br>unfold<br>voyage<br>ahead<br>garlic<br>clarify |  
+| bip_39_word_new_br12 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg<br>unfold<br>voyage<br>ahead<br>garlic<br>clarify<br>adult |  
+| bip_39_word_new_br2 | legal<br>lyrics |  
+| bip_39_word_new_br3 | legal<br>lyrics<br>ability |  
+| bip_39_word_new_br4 | legal<br>lyrics<br>ability<br>deny |  
+| bip_39_word_new_br5 | legal<br>lyrics<br>ability<br>deny<br>uncover |  
+| bip_39_word_new_br6 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg |  
+| bip_39_word_new_br7 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg<br>unfold |  
+| bip_39_word_new_br8 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg<br>unfold<br>voyage |  
+| bip_39_word_new_br9 | legal<br>lyrics<br>ability<br>deny<br>uncover<br>egg<br>unfold<br>voyage<br>ahead |  
+| bip_39_word_new_line1 | legal |  
+| bip_39_word_new_line10 | legal
+lyrics
+ability
+deny
+uncover
+egg
+unfold
+voyage
+ahead
+garlic |  
+| bip_39_word_new_line11 | legal
+lyrics
+ability
+deny
+uncover
+egg
+unfold
+voyage
+ahead
+garlic
+clarify |  
+| bip_39_word_new_line12 | legal
+lyrics
+ability
+deny
+uncover
+egg
+unfold
+voyage
+ahead
+garlic
+clarify
+adult |  
+| bip_39_word_new_line2 | legal
+lyrics |  
+| bip_39_word_new_line3 | legal
+lyrics
+ability |  
+| bip_39_word_new_line4 | legal
+lyrics
+ability
+deny |  
+| bip_39_word_new_line5 | legal
+lyrics
+ability
+deny
+uncover |  
+| bip_39_word_new_line6 | legal
+lyrics
+ability
+deny
+uncover
+egg |  
+| bip_39_word_new_line7 | legal
+lyrics
+ability
+deny
+uncover
+egg
+unfold |  
+| bip_39_word_new_line8 | legal
+lyrics
+ability
+deny
+uncover
+egg
+unfold
+voyage |  
+| bip_39_word_new_line9 | legal
+lyrics
+ability
+deny
+uncover
+egg
+unfold
+voyage
+ahead |  
+| bip_39_word_space_0 | ['legal', 'lyrics', 'ability', 'deny', 'uncover', 'egg', 'unfold', 'voyage', 'ahead', 'garlic', 'clarify', 'adult'] |  
+| bip_39_word_space_1 | legal |  
+| bip_39_word_space_10 | legal lyrics ability deny uncover egg unfold voyage ahead garlic |  
+| bip_39_word_space_11 | legal lyrics ability deny uncover egg unfold voyage ahead garlic clarify |  
+| bip_39_word_space_12 | legal lyrics ability deny uncover egg unfold voyage ahead garlic clarify adult |  
+| bip_39_word_space_2 | legal lyrics |  
+| bip_39_word_space_3 | legal lyrics ability |  
+| bip_39_word_space_4 | legal lyrics ability deny |  
+| bip_39_word_space_5 | legal lyrics ability deny uncover |  
+| bip_39_word_space_6 | legal lyrics ability deny uncover egg |  
+| bip_39_word_space_7 | legal lyrics ability deny uncover egg unfold |  
+| bip_39_word_space_8 | legal lyrics ability deny uncover egg unfold voyage |  
+| bip_39_word_space_9 | legal lyrics ability deny uncover egg unfold voyage ahead |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

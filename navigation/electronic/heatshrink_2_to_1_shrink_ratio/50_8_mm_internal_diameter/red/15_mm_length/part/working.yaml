@@ -1,3 +1,187 @@
+bip_39_word_new_br1: invite
+bip_39_word_new_br10: invite<br>credit<br>crumble<br>excess<br>defy<br>aisle<br>divert<br>coconut<br>topple<br>calm
+bip_39_word_new_br11: invite<br>credit<br>crumble<br>excess<br>defy<br>aisle<br>divert<br>coconut<br>topple<br>calm<br>soup
+bip_39_word_new_br12: invite<br>credit<br>crumble<br>excess<br>defy<br>aisle<br>divert<br>coconut<br>topple<br>calm<br>soup<br>angle
+bip_39_word_new_br2: invite<br>credit
+bip_39_word_new_br3: invite<br>credit<br>crumble
+bip_39_word_new_br4: invite<br>credit<br>crumble<br>excess
+bip_39_word_new_br5: invite<br>credit<br>crumble<br>excess<br>defy
+bip_39_word_new_br6: invite<br>credit<br>crumble<br>excess<br>defy<br>aisle
+bip_39_word_new_br7: invite<br>credit<br>crumble<br>excess<br>defy<br>aisle<br>divert
+bip_39_word_new_br8: invite<br>credit<br>crumble<br>excess<br>defy<br>aisle<br>divert<br>coconut
+bip_39_word_new_br9: invite<br>credit<br>crumble<br>excess<br>defy<br>aisle<br>divert<br>coconut<br>topple
+bip_39_word_new_line1: invite
+bip_39_word_new_line10: 'invite
+
+  credit
+
+  crumble
+
+  excess
+
+  defy
+
+  aisle
+
+  divert
+
+  coconut
+
+  topple
+
+  calm'
+bip_39_word_new_line11: 'invite
+
+  credit
+
+  crumble
+
+  excess
+
+  defy
+
+  aisle
+
+  divert
+
+  coconut
+
+  topple
+
+  calm
+
+  soup'
+bip_39_word_new_line12: 'invite
+
+  credit
+
+  crumble
+
+  excess
+
+  defy
+
+  aisle
+
+  divert
+
+  coconut
+
+  topple
+
+  calm
+
+  soup
+
+  angle'
+bip_39_word_new_line2: 'invite
+
+  credit'
+bip_39_word_new_line3: 'invite
+
+  credit
+
+  crumble'
+bip_39_word_new_line4: 'invite
+
+  credit
+
+  crumble
+
+  excess'
+bip_39_word_new_line5: 'invite
+
+  credit
+
+  crumble
+
+  excess
+
+  defy'
+bip_39_word_new_line6: 'invite
+
+  credit
+
+  crumble
+
+  excess
+
+  defy
+
+  aisle'
+bip_39_word_new_line7: 'invite
+
+  credit
+
+  crumble
+
+  excess
+
+  defy
+
+  aisle
+
+  divert'
+bip_39_word_new_line8: 'invite
+
+  credit
+
+  crumble
+
+  excess
+
+  defy
+
+  aisle
+
+  divert
+
+  coconut'
+bip_39_word_new_line9: 'invite
+
+  credit
+
+  crumble
+
+  excess
+
+  defy
+
+  aisle
+
+  divert
+
+  coconut
+
+  topple'
+bip_39_word_space_0:
+- invite
+- credit
+- crumble
+- excess
+- defy
+- aisle
+- divert
+- coconut
+- topple
+- calm
+- soup
+- angle
+bip_39_word_space_1: invite
+bip_39_word_space_10: invite credit crumble excess defy aisle divert coconut topple
+  calm
+bip_39_word_space_11: invite credit crumble excess defy aisle divert coconut topple
+  calm soup
+bip_39_word_space_12: invite credit crumble excess defy aisle divert coconut topple
+  calm soup angle
+bip_39_word_space_2: invite credit
+bip_39_word_space_3: invite credit crumble
+bip_39_word_space_4: invite credit crumble excess
+bip_39_word_space_5: invite credit crumble excess defy
+bip_39_word_space_6: invite credit crumble excess defy aisle
+bip_39_word_space_7: invite credit crumble excess defy aisle divert
+bip_39_word_space_8: invite credit crumble excess defy aisle divert coconut
+bip_39_word_space_9: invite credit crumble excess defy aisle divert coconut topple
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

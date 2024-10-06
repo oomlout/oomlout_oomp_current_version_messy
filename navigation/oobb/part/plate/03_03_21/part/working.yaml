@@ -1,3 +1,187 @@
+bip_39_word_new_br1: august
+bip_39_word_new_br10: august<br>dog<br>pigeon<br>junk<br>machine<br>document<br>donkey<br>begin<br>sudden<br>garment
+bip_39_word_new_br11: august<br>dog<br>pigeon<br>junk<br>machine<br>document<br>donkey<br>begin<br>sudden<br>garment<br>decrease
+bip_39_word_new_br12: august<br>dog<br>pigeon<br>junk<br>machine<br>document<br>donkey<br>begin<br>sudden<br>garment<br>decrease<br>apple
+bip_39_word_new_br2: august<br>dog
+bip_39_word_new_br3: august<br>dog<br>pigeon
+bip_39_word_new_br4: august<br>dog<br>pigeon<br>junk
+bip_39_word_new_br5: august<br>dog<br>pigeon<br>junk<br>machine
+bip_39_word_new_br6: august<br>dog<br>pigeon<br>junk<br>machine<br>document
+bip_39_word_new_br7: august<br>dog<br>pigeon<br>junk<br>machine<br>document<br>donkey
+bip_39_word_new_br8: august<br>dog<br>pigeon<br>junk<br>machine<br>document<br>donkey<br>begin
+bip_39_word_new_br9: august<br>dog<br>pigeon<br>junk<br>machine<br>document<br>donkey<br>begin<br>sudden
+bip_39_word_new_line1: august
+bip_39_word_new_line10: 'august
+
+  dog
+
+  pigeon
+
+  junk
+
+  machine
+
+  document
+
+  donkey
+
+  begin
+
+  sudden
+
+  garment'
+bip_39_word_new_line11: 'august
+
+  dog
+
+  pigeon
+
+  junk
+
+  machine
+
+  document
+
+  donkey
+
+  begin
+
+  sudden
+
+  garment
+
+  decrease'
+bip_39_word_new_line12: 'august
+
+  dog
+
+  pigeon
+
+  junk
+
+  machine
+
+  document
+
+  donkey
+
+  begin
+
+  sudden
+
+  garment
+
+  decrease
+
+  apple'
+bip_39_word_new_line2: 'august
+
+  dog'
+bip_39_word_new_line3: 'august
+
+  dog
+
+  pigeon'
+bip_39_word_new_line4: 'august
+
+  dog
+
+  pigeon
+
+  junk'
+bip_39_word_new_line5: 'august
+
+  dog
+
+  pigeon
+
+  junk
+
+  machine'
+bip_39_word_new_line6: 'august
+
+  dog
+
+  pigeon
+
+  junk
+
+  machine
+
+  document'
+bip_39_word_new_line7: 'august
+
+  dog
+
+  pigeon
+
+  junk
+
+  machine
+
+  document
+
+  donkey'
+bip_39_word_new_line8: 'august
+
+  dog
+
+  pigeon
+
+  junk
+
+  machine
+
+  document
+
+  donkey
+
+  begin'
+bip_39_word_new_line9: 'august
+
+  dog
+
+  pigeon
+
+  junk
+
+  machine
+
+  document
+
+  donkey
+
+  begin
+
+  sudden'
+bip_39_word_space_0:
+- august
+- dog
+- pigeon
+- junk
+- machine
+- document
+- donkey
+- begin
+- sudden
+- garment
+- decrease
+- apple
+bip_39_word_space_1: august
+bip_39_word_space_10: august dog pigeon junk machine document donkey begin sudden
+  garment
+bip_39_word_space_11: august dog pigeon junk machine document donkey begin sudden
+  garment decrease
+bip_39_word_space_12: august dog pigeon junk machine document donkey begin sudden
+  garment decrease apple
+bip_39_word_space_2: august dog
+bip_39_word_space_3: august dog pigeon
+bip_39_word_space_4: august dog pigeon junk
+bip_39_word_space_5: august dog pigeon junk machine
+bip_39_word_space_6: august dog pigeon junk machine document
+bip_39_word_space_7: august dog pigeon junk machine document donkey
+bip_39_word_space_8: august dog pigeon junk machine document donkey begin
+bip_39_word_space_9: august dog pigeon junk machine document donkey begin sudden
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

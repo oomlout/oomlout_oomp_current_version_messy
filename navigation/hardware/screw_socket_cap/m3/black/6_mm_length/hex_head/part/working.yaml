@@ -1,3 +1,187 @@
+bip_39_word_new_br1: orphan
+bip_39_word_new_br10: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct
+bip_39_word_new_br11: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest
+bip_39_word_new_br12: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest<br>actress
+bip_39_word_new_br2: orphan<br>parrot
+bip_39_word_new_br3: orphan<br>parrot<br>nasty
+bip_39_word_new_br4: orphan<br>parrot<br>nasty<br>anger
+bip_39_word_new_br5: orphan<br>parrot<br>nasty<br>anger<br>trouble
+bip_39_word_new_br6: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword
+bip_39_word_new_br7: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet
+bip_39_word_new_br8: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular
+bip_39_word_new_br9: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic
+bip_39_word_new_line1: orphan
+bip_39_word_new_line10: 'orphan
+
+  parrot
+
+  nasty
+
+  anger
+
+  trouble
+
+  sword
+
+  bullet
+
+  popular
+
+  picnic
+
+  correct'
+bip_39_word_new_line11: 'orphan
+
+  parrot
+
+  nasty
+
+  anger
+
+  trouble
+
+  sword
+
+  bullet
+
+  popular
+
+  picnic
+
+  correct
+
+  interest'
+bip_39_word_new_line12: 'orphan
+
+  parrot
+
+  nasty
+
+  anger
+
+  trouble
+
+  sword
+
+  bullet
+
+  popular
+
+  picnic
+
+  correct
+
+  interest
+
+  actress'
+bip_39_word_new_line2: 'orphan
+
+  parrot'
+bip_39_word_new_line3: 'orphan
+
+  parrot
+
+  nasty'
+bip_39_word_new_line4: 'orphan
+
+  parrot
+
+  nasty
+
+  anger'
+bip_39_word_new_line5: 'orphan
+
+  parrot
+
+  nasty
+
+  anger
+
+  trouble'
+bip_39_word_new_line6: 'orphan
+
+  parrot
+
+  nasty
+
+  anger
+
+  trouble
+
+  sword'
+bip_39_word_new_line7: 'orphan
+
+  parrot
+
+  nasty
+
+  anger
+
+  trouble
+
+  sword
+
+  bullet'
+bip_39_word_new_line8: 'orphan
+
+  parrot
+
+  nasty
+
+  anger
+
+  trouble
+
+  sword
+
+  bullet
+
+  popular'
+bip_39_word_new_line9: 'orphan
+
+  parrot
+
+  nasty
+
+  anger
+
+  trouble
+
+  sword
+
+  bullet
+
+  popular
+
+  picnic'
+bip_39_word_space_0:
+- orphan
+- parrot
+- nasty
+- anger
+- trouble
+- sword
+- bullet
+- popular
+- picnic
+- correct
+- interest
+- actress
+bip_39_word_space_1: orphan
+bip_39_word_space_10: orphan parrot nasty anger trouble sword bullet popular picnic
+  correct
+bip_39_word_space_11: orphan parrot nasty anger trouble sword bullet popular picnic
+  correct interest
+bip_39_word_space_12: orphan parrot nasty anger trouble sword bullet popular picnic
+  correct interest actress
+bip_39_word_space_2: orphan parrot
+bip_39_word_space_3: orphan parrot nasty
+bip_39_word_space_4: orphan parrot nasty anger
+bip_39_word_space_5: orphan parrot nasty anger trouble
+bip_39_word_space_6: orphan parrot nasty anger trouble sword
+bip_39_word_space_7: orphan parrot nasty anger trouble sword bullet
+bip_39_word_space_8: orphan parrot nasty anger trouble sword bullet popular
+bip_39_word_space_9: orphan parrot nasty anger trouble sword bullet popular picnic
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 12d0_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: security pig
+  * bip 39 word 3: security pig mushroom
+  * bip 39 word: security pig mushroom front head express endorse where message charge canvas ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | security |  
+| bip_39_word_new_br10 | security<br>pig<br>mushroom<br>front<br>head<br>express<br>endorse<br>where<br>message<br>charge |  
+| bip_39_word_new_br11 | security<br>pig<br>mushroom<br>front<br>head<br>express<br>endorse<br>where<br>message<br>charge<br>canvas |  
+| bip_39_word_new_br12 | security<br>pig<br>mushroom<br>front<br>head<br>express<br>endorse<br>where<br>message<br>charge<br>canvas<br>ask |  
+| bip_39_word_new_br2 | security<br>pig |  
+| bip_39_word_new_br3 | security<br>pig<br>mushroom |  
+| bip_39_word_new_br4 | security<br>pig<br>mushroom<br>front |  
+| bip_39_word_new_br5 | security<br>pig<br>mushroom<br>front<br>head |  
+| bip_39_word_new_br6 | security<br>pig<br>mushroom<br>front<br>head<br>express |  
+| bip_39_word_new_br7 | security<br>pig<br>mushroom<br>front<br>head<br>express<br>endorse |  
+| bip_39_word_new_br8 | security<br>pig<br>mushroom<br>front<br>head<br>express<br>endorse<br>where |  
+| bip_39_word_new_br9 | security<br>pig<br>mushroom<br>front<br>head<br>express<br>endorse<br>where<br>message |  
+| bip_39_word_new_line1 | security |  
+| bip_39_word_new_line10 | security
+pig
+mushroom
+front
+head
+express
+endorse
+where
+message
+charge |  
+| bip_39_word_new_line11 | security
+pig
+mushroom
+front
+head
+express
+endorse
+where
+message
+charge
+canvas |  
+| bip_39_word_new_line12 | security
+pig
+mushroom
+front
+head
+express
+endorse
+where
+message
+charge
+canvas
+ask |  
+| bip_39_word_new_line2 | security
+pig |  
+| bip_39_word_new_line3 | security
+pig
+mushroom |  
+| bip_39_word_new_line4 | security
+pig
+mushroom
+front |  
+| bip_39_word_new_line5 | security
+pig
+mushroom
+front
+head |  
+| bip_39_word_new_line6 | security
+pig
+mushroom
+front
+head
+express |  
+| bip_39_word_new_line7 | security
+pig
+mushroom
+front
+head
+express
+endorse |  
+| bip_39_word_new_line8 | security
+pig
+mushroom
+front
+head
+express
+endorse
+where |  
+| bip_39_word_new_line9 | security
+pig
+mushroom
+front
+head
+express
+endorse
+where
+message |  
+| bip_39_word_space_0 | ['security', 'pig', 'mushroom', 'front', 'head', 'express', 'endorse', 'where', 'message', 'charge', 'canvas', 'ask'] |  
+| bip_39_word_space_1 | security |  
+| bip_39_word_space_10 | security pig mushroom front head express endorse where message charge |  
+| bip_39_word_space_11 | security pig mushroom front head express endorse where message charge canvas |  
+| bip_39_word_space_12 | security pig mushroom front head express endorse where message charge canvas ask |  
+| bip_39_word_space_2 | security pig |  
+| bip_39_word_space_3 | security pig mushroom |  
+| bip_39_word_space_4 | security pig mushroom front |  
+| bip_39_word_space_5 | security pig mushroom front head |  
+| bip_39_word_space_6 | security pig mushroom front head express |  
+| bip_39_word_space_7 | security pig mushroom front head express endorse |  
+| bip_39_word_space_8 | security pig mushroom front head express endorse where |  
+| bip_39_word_space_9 | security pig mushroom front head express endorse where message |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

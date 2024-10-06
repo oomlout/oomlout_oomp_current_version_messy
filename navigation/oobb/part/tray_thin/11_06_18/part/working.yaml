@@ -1,3 +1,186 @@
+bip_39_word_new_br1: easily
+bip_39_word_new_br10: easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove
+bip_39_word_new_br11: easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove<br>essay
+bip_39_word_new_br12: easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune<br>remove<br>essay<br>area
+bip_39_word_new_br2: easily<br>dinosaur
+bip_39_word_new_br3: easily<br>dinosaur<br>just
+bip_39_word_new_br4: easily<br>dinosaur<br>just<br>warm
+bip_39_word_new_br5: easily<br>dinosaur<br>just<br>warm<br>buzz
+bip_39_word_new_br6: easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance
+bip_39_word_new_br7: easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek
+bip_39_word_new_br8: easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift
+bip_39_word_new_br9: easily<br>dinosaur<br>just<br>warm<br>buzz<br>advance<br>seek<br>lift<br>dune
+bip_39_word_new_line1: easily
+bip_39_word_new_line10: 'easily
+
+  dinosaur
+
+  just
+
+  warm
+
+  buzz
+
+  advance
+
+  seek
+
+  lift
+
+  dune
+
+  remove'
+bip_39_word_new_line11: 'easily
+
+  dinosaur
+
+  just
+
+  warm
+
+  buzz
+
+  advance
+
+  seek
+
+  lift
+
+  dune
+
+  remove
+
+  essay'
+bip_39_word_new_line12: 'easily
+
+  dinosaur
+
+  just
+
+  warm
+
+  buzz
+
+  advance
+
+  seek
+
+  lift
+
+  dune
+
+  remove
+
+  essay
+
+  area'
+bip_39_word_new_line2: 'easily
+
+  dinosaur'
+bip_39_word_new_line3: 'easily
+
+  dinosaur
+
+  just'
+bip_39_word_new_line4: 'easily
+
+  dinosaur
+
+  just
+
+  warm'
+bip_39_word_new_line5: 'easily
+
+  dinosaur
+
+  just
+
+  warm
+
+  buzz'
+bip_39_word_new_line6: 'easily
+
+  dinosaur
+
+  just
+
+  warm
+
+  buzz
+
+  advance'
+bip_39_word_new_line7: 'easily
+
+  dinosaur
+
+  just
+
+  warm
+
+  buzz
+
+  advance
+
+  seek'
+bip_39_word_new_line8: 'easily
+
+  dinosaur
+
+  just
+
+  warm
+
+  buzz
+
+  advance
+
+  seek
+
+  lift'
+bip_39_word_new_line9: 'easily
+
+  dinosaur
+
+  just
+
+  warm
+
+  buzz
+
+  advance
+
+  seek
+
+  lift
+
+  dune'
+bip_39_word_space_0:
+- easily
+- dinosaur
+- just
+- warm
+- buzz
+- advance
+- seek
+- lift
+- dune
+- remove
+- essay
+- area
+bip_39_word_space_1: easily
+bip_39_word_space_10: easily dinosaur just warm buzz advance seek lift dune remove
+bip_39_word_space_11: easily dinosaur just warm buzz advance seek lift dune remove
+  essay
+bip_39_word_space_12: easily dinosaur just warm buzz advance seek lift dune remove
+  essay area
+bip_39_word_space_2: easily dinosaur
+bip_39_word_space_3: easily dinosaur just
+bip_39_word_space_4: easily dinosaur just warm
+bip_39_word_space_5: easily dinosaur just warm buzz
+bip_39_word_space_6: easily dinosaur just warm buzz advance
+bip_39_word_space_7: easily dinosaur just warm buzz advance seek
+bip_39_word_space_8: easily dinosaur just warm buzz advance seek lift
+bip_39_word_space_9: easily dinosaur just warm buzz advance seek lift dune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

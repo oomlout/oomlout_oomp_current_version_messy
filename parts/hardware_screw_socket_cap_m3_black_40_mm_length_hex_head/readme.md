@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: length city
+  * bip 39 word 3: length city tape
+  * bip 39 word: length city tape chaos repair domain govern lecture tomato ribbon opinion anger
 
 ### other_codes
 * short_code: sc3b40h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | length |  
+| bip_39_word_new_br10 | length<br>city<br>tape<br>chaos<br>repair<br>domain<br>govern<br>lecture<br>tomato<br>ribbon |  
+| bip_39_word_new_br11 | length<br>city<br>tape<br>chaos<br>repair<br>domain<br>govern<br>lecture<br>tomato<br>ribbon<br>opinion |  
+| bip_39_word_new_br12 | length<br>city<br>tape<br>chaos<br>repair<br>domain<br>govern<br>lecture<br>tomato<br>ribbon<br>opinion<br>anger |  
+| bip_39_word_new_br2 | length<br>city |  
+| bip_39_word_new_br3 | length<br>city<br>tape |  
+| bip_39_word_new_br4 | length<br>city<br>tape<br>chaos |  
+| bip_39_word_new_br5 | length<br>city<br>tape<br>chaos<br>repair |  
+| bip_39_word_new_br6 | length<br>city<br>tape<br>chaos<br>repair<br>domain |  
+| bip_39_word_new_br7 | length<br>city<br>tape<br>chaos<br>repair<br>domain<br>govern |  
+| bip_39_word_new_br8 | length<br>city<br>tape<br>chaos<br>repair<br>domain<br>govern<br>lecture |  
+| bip_39_word_new_br9 | length<br>city<br>tape<br>chaos<br>repair<br>domain<br>govern<br>lecture<br>tomato |  
+| bip_39_word_new_line1 | length |  
+| bip_39_word_new_line10 | length
+city
+tape
+chaos
+repair
+domain
+govern
+lecture
+tomato
+ribbon |  
+| bip_39_word_new_line11 | length
+city
+tape
+chaos
+repair
+domain
+govern
+lecture
+tomato
+ribbon
+opinion |  
+| bip_39_word_new_line12 | length
+city
+tape
+chaos
+repair
+domain
+govern
+lecture
+tomato
+ribbon
+opinion
+anger |  
+| bip_39_word_new_line2 | length
+city |  
+| bip_39_word_new_line3 | length
+city
+tape |  
+| bip_39_word_new_line4 | length
+city
+tape
+chaos |  
+| bip_39_word_new_line5 | length
+city
+tape
+chaos
+repair |  
+| bip_39_word_new_line6 | length
+city
+tape
+chaos
+repair
+domain |  
+| bip_39_word_new_line7 | length
+city
+tape
+chaos
+repair
+domain
+govern |  
+| bip_39_word_new_line8 | length
+city
+tape
+chaos
+repair
+domain
+govern
+lecture |  
+| bip_39_word_new_line9 | length
+city
+tape
+chaos
+repair
+domain
+govern
+lecture
+tomato |  
+| bip_39_word_space_0 | ['length', 'city', 'tape', 'chaos', 'repair', 'domain', 'govern', 'lecture', 'tomato', 'ribbon', 'opinion', 'anger'] |  
+| bip_39_word_space_1 | length |  
+| bip_39_word_space_10 | length city tape chaos repair domain govern lecture tomato ribbon |  
+| bip_39_word_space_11 | length city tape chaos repair domain govern lecture tomato ribbon opinion |  
+| bip_39_word_space_12 | length city tape chaos repair domain govern lecture tomato ribbon opinion anger |  
+| bip_39_word_space_2 | length city |  
+| bip_39_word_space_3 | length city tape |  
+| bip_39_word_space_4 | length city tape chaos |  
+| bip_39_word_space_5 | length city tape chaos repair |  
+| bip_39_word_space_6 | length city tape chaos repair domain |  
+| bip_39_word_space_7 | length city tape chaos repair domain govern |  
+| bip_39_word_space_8 | length city tape chaos repair domain govern lecture |  
+| bip_39_word_space_9 | length city tape chaos repair domain govern lecture tomato |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: kite
+bip_39_word_new_br10: kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey
+bip_39_word_new_br11: kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey<br>table
+bip_39_word_new_br12: kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust<br>turkey<br>table<br>average
+bip_39_word_new_br2: kite<br>start
+bip_39_word_new_br3: kite<br>start<br>judge
+bip_39_word_new_br4: kite<br>start<br>judge<br>recall
+bip_39_word_new_br5: kite<br>start<br>judge<br>recall<br>wasp
+bip_39_word_new_br6: kite<br>start<br>judge<br>recall<br>wasp<br>toward
+bip_39_word_new_br7: kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause
+bip_39_word_new_br8: kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid
+bip_39_word_new_br9: kite<br>start<br>judge<br>recall<br>wasp<br>toward<br>cause<br>solid<br>trust
+bip_39_word_new_line1: kite
+bip_39_word_new_line10: 'kite
+
+  start
+
+  judge
+
+  recall
+
+  wasp
+
+  toward
+
+  cause
+
+  solid
+
+  trust
+
+  turkey'
+bip_39_word_new_line11: 'kite
+
+  start
+
+  judge
+
+  recall
+
+  wasp
+
+  toward
+
+  cause
+
+  solid
+
+  trust
+
+  turkey
+
+  table'
+bip_39_word_new_line12: 'kite
+
+  start
+
+  judge
+
+  recall
+
+  wasp
+
+  toward
+
+  cause
+
+  solid
+
+  trust
+
+  turkey
+
+  table
+
+  average'
+bip_39_word_new_line2: 'kite
+
+  start'
+bip_39_word_new_line3: 'kite
+
+  start
+
+  judge'
+bip_39_word_new_line4: 'kite
+
+  start
+
+  judge
+
+  recall'
+bip_39_word_new_line5: 'kite
+
+  start
+
+  judge
+
+  recall
+
+  wasp'
+bip_39_word_new_line6: 'kite
+
+  start
+
+  judge
+
+  recall
+
+  wasp
+
+  toward'
+bip_39_word_new_line7: 'kite
+
+  start
+
+  judge
+
+  recall
+
+  wasp
+
+  toward
+
+  cause'
+bip_39_word_new_line8: 'kite
+
+  start
+
+  judge
+
+  recall
+
+  wasp
+
+  toward
+
+  cause
+
+  solid'
+bip_39_word_new_line9: 'kite
+
+  start
+
+  judge
+
+  recall
+
+  wasp
+
+  toward
+
+  cause
+
+  solid
+
+  trust'
+bip_39_word_space_0:
+- kite
+- start
+- judge
+- recall
+- wasp
+- toward
+- cause
+- solid
+- trust
+- turkey
+- table
+- average
+bip_39_word_space_1: kite
+bip_39_word_space_10: kite start judge recall wasp toward cause solid trust turkey
+bip_39_word_space_11: kite start judge recall wasp toward cause solid trust turkey
+  table
+bip_39_word_space_12: kite start judge recall wasp toward cause solid trust turkey
+  table average
+bip_39_word_space_2: kite start
+bip_39_word_space_3: kite start judge
+bip_39_word_space_4: kite start judge recall
+bip_39_word_space_5: kite start judge recall wasp
+bip_39_word_space_6: kite start judge recall wasp toward
+bip_39_word_space_7: kite start judge recall wasp toward cause
+bip_39_word_space_8: kite start judge recall wasp toward cause solid
+bip_39_word_space_9: kite start judge recall wasp toward cause solid trust
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

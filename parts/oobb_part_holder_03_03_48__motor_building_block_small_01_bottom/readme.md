@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_building_block_small_01_bottom
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rule early
+  * bip 39 word 3: rule early always
+  * bip 39 word: rule early always feel blast urban reform club sight repair tilt again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rule |  
+| bip_39_word_new_br10 | rule<br>early<br>always<br>feel<br>blast<br>urban<br>reform<br>club<br>sight<br>repair |  
+| bip_39_word_new_br11 | rule<br>early<br>always<br>feel<br>blast<br>urban<br>reform<br>club<br>sight<br>repair<br>tilt |  
+| bip_39_word_new_br12 | rule<br>early<br>always<br>feel<br>blast<br>urban<br>reform<br>club<br>sight<br>repair<br>tilt<br>again |  
+| bip_39_word_new_br2 | rule<br>early |  
+| bip_39_word_new_br3 | rule<br>early<br>always |  
+| bip_39_word_new_br4 | rule<br>early<br>always<br>feel |  
+| bip_39_word_new_br5 | rule<br>early<br>always<br>feel<br>blast |  
+| bip_39_word_new_br6 | rule<br>early<br>always<br>feel<br>blast<br>urban |  
+| bip_39_word_new_br7 | rule<br>early<br>always<br>feel<br>blast<br>urban<br>reform |  
+| bip_39_word_new_br8 | rule<br>early<br>always<br>feel<br>blast<br>urban<br>reform<br>club |  
+| bip_39_word_new_br9 | rule<br>early<br>always<br>feel<br>blast<br>urban<br>reform<br>club<br>sight |  
+| bip_39_word_new_line1 | rule |  
+| bip_39_word_new_line10 | rule
+early
+always
+feel
+blast
+urban
+reform
+club
+sight
+repair |  
+| bip_39_word_new_line11 | rule
+early
+always
+feel
+blast
+urban
+reform
+club
+sight
+repair
+tilt |  
+| bip_39_word_new_line12 | rule
+early
+always
+feel
+blast
+urban
+reform
+club
+sight
+repair
+tilt
+again |  
+| bip_39_word_new_line2 | rule
+early |  
+| bip_39_word_new_line3 | rule
+early
+always |  
+| bip_39_word_new_line4 | rule
+early
+always
+feel |  
+| bip_39_word_new_line5 | rule
+early
+always
+feel
+blast |  
+| bip_39_word_new_line6 | rule
+early
+always
+feel
+blast
+urban |  
+| bip_39_word_new_line7 | rule
+early
+always
+feel
+blast
+urban
+reform |  
+| bip_39_word_new_line8 | rule
+early
+always
+feel
+blast
+urban
+reform
+club |  
+| bip_39_word_new_line9 | rule
+early
+always
+feel
+blast
+urban
+reform
+club
+sight |  
+| bip_39_word_space_0 | ['rule', 'early', 'always', 'feel', 'blast', 'urban', 'reform', 'club', 'sight', 'repair', 'tilt', 'again'] |  
+| bip_39_word_space_1 | rule |  
+| bip_39_word_space_10 | rule early always feel blast urban reform club sight repair |  
+| bip_39_word_space_11 | rule early always feel blast urban reform club sight repair tilt |  
+| bip_39_word_space_12 | rule early always feel blast urban reform club sight repair tilt again |  
+| bip_39_word_space_2 | rule early |  
+| bip_39_word_space_3 | rule early always |  
+| bip_39_word_space_4 | rule early always feel |  
+| bip_39_word_space_5 | rule early always feel blast |  
+| bip_39_word_space_6 | rule early always feel blast urban |  
+| bip_39_word_space_7 | rule early always feel blast urban reform |  
+| bip_39_word_space_8 | rule early always feel blast urban reform club |  
+| bip_39_word_space_9 | rule early always feel blast urban reform club sight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

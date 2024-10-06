@@ -1,3 +1,187 @@
+bip_39_word_new_br1: blanket
+bip_39_word_new_br10: blanket<br>course<br>merry<br>mixed<br>run<br>leopard<br>portion<br>hurry<br>kingdom<br>feel
+bip_39_word_new_br11: blanket<br>course<br>merry<br>mixed<br>run<br>leopard<br>portion<br>hurry<br>kingdom<br>feel<br>layer
+bip_39_word_new_br12: blanket<br>course<br>merry<br>mixed<br>run<br>leopard<br>portion<br>hurry<br>kingdom<br>feel<br>layer<br>actual
+bip_39_word_new_br2: blanket<br>course
+bip_39_word_new_br3: blanket<br>course<br>merry
+bip_39_word_new_br4: blanket<br>course<br>merry<br>mixed
+bip_39_word_new_br5: blanket<br>course<br>merry<br>mixed<br>run
+bip_39_word_new_br6: blanket<br>course<br>merry<br>mixed<br>run<br>leopard
+bip_39_word_new_br7: blanket<br>course<br>merry<br>mixed<br>run<br>leopard<br>portion
+bip_39_word_new_br8: blanket<br>course<br>merry<br>mixed<br>run<br>leopard<br>portion<br>hurry
+bip_39_word_new_br9: blanket<br>course<br>merry<br>mixed<br>run<br>leopard<br>portion<br>hurry<br>kingdom
+bip_39_word_new_line1: blanket
+bip_39_word_new_line10: 'blanket
+
+  course
+
+  merry
+
+  mixed
+
+  run
+
+  leopard
+
+  portion
+
+  hurry
+
+  kingdom
+
+  feel'
+bip_39_word_new_line11: 'blanket
+
+  course
+
+  merry
+
+  mixed
+
+  run
+
+  leopard
+
+  portion
+
+  hurry
+
+  kingdom
+
+  feel
+
+  layer'
+bip_39_word_new_line12: 'blanket
+
+  course
+
+  merry
+
+  mixed
+
+  run
+
+  leopard
+
+  portion
+
+  hurry
+
+  kingdom
+
+  feel
+
+  layer
+
+  actual'
+bip_39_word_new_line2: 'blanket
+
+  course'
+bip_39_word_new_line3: 'blanket
+
+  course
+
+  merry'
+bip_39_word_new_line4: 'blanket
+
+  course
+
+  merry
+
+  mixed'
+bip_39_word_new_line5: 'blanket
+
+  course
+
+  merry
+
+  mixed
+
+  run'
+bip_39_word_new_line6: 'blanket
+
+  course
+
+  merry
+
+  mixed
+
+  run
+
+  leopard'
+bip_39_word_new_line7: 'blanket
+
+  course
+
+  merry
+
+  mixed
+
+  run
+
+  leopard
+
+  portion'
+bip_39_word_new_line8: 'blanket
+
+  course
+
+  merry
+
+  mixed
+
+  run
+
+  leopard
+
+  portion
+
+  hurry'
+bip_39_word_new_line9: 'blanket
+
+  course
+
+  merry
+
+  mixed
+
+  run
+
+  leopard
+
+  portion
+
+  hurry
+
+  kingdom'
+bip_39_word_space_0:
+- blanket
+- course
+- merry
+- mixed
+- run
+- leopard
+- portion
+- hurry
+- kingdom
+- feel
+- layer
+- actual
+bip_39_word_space_1: blanket
+bip_39_word_space_10: blanket course merry mixed run leopard portion hurry kingdom
+  feel
+bip_39_word_space_11: blanket course merry mixed run leopard portion hurry kingdom
+  feel layer
+bip_39_word_space_12: blanket course merry mixed run leopard portion hurry kingdom
+  feel layer actual
+bip_39_word_space_2: blanket course
+bip_39_word_space_3: blanket course merry
+bip_39_word_space_4: blanket course merry mixed
+bip_39_word_space_5: blanket course merry mixed run
+bip_39_word_space_6: blanket course merry mixed run leopard
+bip_39_word_space_7: blanket course merry mixed run leopard portion
+bip_39_word_space_8: blanket course merry mixed run leopard portion hurry
+bip_39_word_space_9: blanket course merry mixed run leopard portion hurry kingdom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

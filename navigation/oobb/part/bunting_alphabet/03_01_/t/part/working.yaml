@@ -1,3 +1,187 @@
+bip_39_word_new_br1: drip
+bip_39_word_new_br10: drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial
+bip_39_word_new_br11: drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial<br>depend
+bip_39_word_new_br12: drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel<br>initial<br>depend<br>affair
+bip_39_word_new_br2: drip<br>broom
+bip_39_word_new_br3: drip<br>broom<br>raise
+bip_39_word_new_br4: drip<br>broom<br>raise<br>regular
+bip_39_word_new_br5: drip<br>broom<br>raise<br>regular<br>practice
+bip_39_word_new_br6: drip<br>broom<br>raise<br>regular<br>practice<br>clown
+bip_39_word_new_br7: drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer
+bip_39_word_new_br8: drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology
+bip_39_word_new_br9: drip<br>broom<br>raise<br>regular<br>practice<br>clown<br>transfer<br>ecology<br>gospel
+bip_39_word_new_line1: drip
+bip_39_word_new_line10: 'drip
+
+  broom
+
+  raise
+
+  regular
+
+  practice
+
+  clown
+
+  transfer
+
+  ecology
+
+  gospel
+
+  initial'
+bip_39_word_new_line11: 'drip
+
+  broom
+
+  raise
+
+  regular
+
+  practice
+
+  clown
+
+  transfer
+
+  ecology
+
+  gospel
+
+  initial
+
+  depend'
+bip_39_word_new_line12: 'drip
+
+  broom
+
+  raise
+
+  regular
+
+  practice
+
+  clown
+
+  transfer
+
+  ecology
+
+  gospel
+
+  initial
+
+  depend
+
+  affair'
+bip_39_word_new_line2: 'drip
+
+  broom'
+bip_39_word_new_line3: 'drip
+
+  broom
+
+  raise'
+bip_39_word_new_line4: 'drip
+
+  broom
+
+  raise
+
+  regular'
+bip_39_word_new_line5: 'drip
+
+  broom
+
+  raise
+
+  regular
+
+  practice'
+bip_39_word_new_line6: 'drip
+
+  broom
+
+  raise
+
+  regular
+
+  practice
+
+  clown'
+bip_39_word_new_line7: 'drip
+
+  broom
+
+  raise
+
+  regular
+
+  practice
+
+  clown
+
+  transfer'
+bip_39_word_new_line8: 'drip
+
+  broom
+
+  raise
+
+  regular
+
+  practice
+
+  clown
+
+  transfer
+
+  ecology'
+bip_39_word_new_line9: 'drip
+
+  broom
+
+  raise
+
+  regular
+
+  practice
+
+  clown
+
+  transfer
+
+  ecology
+
+  gospel'
+bip_39_word_space_0:
+- drip
+- broom
+- raise
+- regular
+- practice
+- clown
+- transfer
+- ecology
+- gospel
+- initial
+- depend
+- affair
+bip_39_word_space_1: drip
+bip_39_word_space_10: drip broom raise regular practice clown transfer ecology gospel
+  initial
+bip_39_word_space_11: drip broom raise regular practice clown transfer ecology gospel
+  initial depend
+bip_39_word_space_12: drip broom raise regular practice clown transfer ecology gospel
+  initial depend affair
+bip_39_word_space_2: drip broom
+bip_39_word_space_3: drip broom raise
+bip_39_word_space_4: drip broom raise regular
+bip_39_word_space_5: drip broom raise regular practice
+bip_39_word_space_6: drip broom raise regular practice clown
+bip_39_word_space_7: drip broom raise regular practice clown transfer
+bip_39_word_space_8: drip broom raise regular practice clown transfer ecology
+bip_39_word_space_9: drip broom raise regular practice clown transfer ecology gospel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

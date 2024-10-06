@@ -1,3 +1,187 @@
+bip_39_word_new_br1: glow
+bip_39_word_new_br10: glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter<br>leisure<br>cigar<br>cabin<br>siren
+bip_39_word_new_br11: glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter<br>leisure<br>cigar<br>cabin<br>siren<br>during
+bip_39_word_new_br12: glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter<br>leisure<br>cigar<br>cabin<br>siren<br>during<br>arm
+bip_39_word_new_br2: glow<br>hospital
+bip_39_word_new_br3: glow<br>hospital<br>reject
+bip_39_word_new_br4: glow<br>hospital<br>reject<br>cabbage
+bip_39_word_new_br5: glow<br>hospital<br>reject<br>cabbage<br>trouble
+bip_39_word_new_br6: glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter
+bip_39_word_new_br7: glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter<br>leisure
+bip_39_word_new_br8: glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter<br>leisure<br>cigar
+bip_39_word_new_br9: glow<br>hospital<br>reject<br>cabbage<br>trouble<br>quarter<br>leisure<br>cigar<br>cabin
+bip_39_word_new_line1: glow
+bip_39_word_new_line10: 'glow
+
+  hospital
+
+  reject
+
+  cabbage
+
+  trouble
+
+  quarter
+
+  leisure
+
+  cigar
+
+  cabin
+
+  siren'
+bip_39_word_new_line11: 'glow
+
+  hospital
+
+  reject
+
+  cabbage
+
+  trouble
+
+  quarter
+
+  leisure
+
+  cigar
+
+  cabin
+
+  siren
+
+  during'
+bip_39_word_new_line12: 'glow
+
+  hospital
+
+  reject
+
+  cabbage
+
+  trouble
+
+  quarter
+
+  leisure
+
+  cigar
+
+  cabin
+
+  siren
+
+  during
+
+  arm'
+bip_39_word_new_line2: 'glow
+
+  hospital'
+bip_39_word_new_line3: 'glow
+
+  hospital
+
+  reject'
+bip_39_word_new_line4: 'glow
+
+  hospital
+
+  reject
+
+  cabbage'
+bip_39_word_new_line5: 'glow
+
+  hospital
+
+  reject
+
+  cabbage
+
+  trouble'
+bip_39_word_new_line6: 'glow
+
+  hospital
+
+  reject
+
+  cabbage
+
+  trouble
+
+  quarter'
+bip_39_word_new_line7: 'glow
+
+  hospital
+
+  reject
+
+  cabbage
+
+  trouble
+
+  quarter
+
+  leisure'
+bip_39_word_new_line8: 'glow
+
+  hospital
+
+  reject
+
+  cabbage
+
+  trouble
+
+  quarter
+
+  leisure
+
+  cigar'
+bip_39_word_new_line9: 'glow
+
+  hospital
+
+  reject
+
+  cabbage
+
+  trouble
+
+  quarter
+
+  leisure
+
+  cigar
+
+  cabin'
+bip_39_word_space_0:
+- glow
+- hospital
+- reject
+- cabbage
+- trouble
+- quarter
+- leisure
+- cigar
+- cabin
+- siren
+- during
+- arm
+bip_39_word_space_1: glow
+bip_39_word_space_10: glow hospital reject cabbage trouble quarter leisure cigar cabin
+  siren
+bip_39_word_space_11: glow hospital reject cabbage trouble quarter leisure cigar cabin
+  siren during
+bip_39_word_space_12: glow hospital reject cabbage trouble quarter leisure cigar cabin
+  siren during arm
+bip_39_word_space_2: glow hospital
+bip_39_word_space_3: glow hospital reject
+bip_39_word_space_4: glow hospital reject cabbage
+bip_39_word_space_5: glow hospital reject cabbage trouble
+bip_39_word_space_6: glow hospital reject cabbage trouble quarter
+bip_39_word_space_7: glow hospital reject cabbage trouble quarter leisure
+bip_39_word_space_8: glow hospital reject cabbage trouble quarter leisure cigar
+bip_39_word_space_9: glow hospital reject cabbage trouble quarter leisure cigar cabin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

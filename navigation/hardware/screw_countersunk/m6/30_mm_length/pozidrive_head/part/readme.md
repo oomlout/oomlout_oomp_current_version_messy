@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: emerge cake
+  * bip 39 word 3: emerge cake attend
+  * bip 39 word: emerge cake attend noodle bus armor gallery very team corn little answer
 
 ### other_codes
 * short_code: cs6m30pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | emerge |  
+| bip_39_word_new_br10 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn |  
+| bip_39_word_new_br11 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn<br>little |  
+| bip_39_word_new_br12 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team<br>corn<br>little<br>answer |  
+| bip_39_word_new_br2 | emerge<br>cake |  
+| bip_39_word_new_br3 | emerge<br>cake<br>attend |  
+| bip_39_word_new_br4 | emerge<br>cake<br>attend<br>noodle |  
+| bip_39_word_new_br5 | emerge<br>cake<br>attend<br>noodle<br>bus |  
+| bip_39_word_new_br6 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor |  
+| bip_39_word_new_br7 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery |  
+| bip_39_word_new_br8 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very |  
+| bip_39_word_new_br9 | emerge<br>cake<br>attend<br>noodle<br>bus<br>armor<br>gallery<br>very<br>team |  
+| bip_39_word_new_line1 | emerge |  
+| bip_39_word_new_line10 | emerge
+cake
+attend
+noodle
+bus
+armor
+gallery
+very
+team
+corn |  
+| bip_39_word_new_line11 | emerge
+cake
+attend
+noodle
+bus
+armor
+gallery
+very
+team
+corn
+little |  
+| bip_39_word_new_line12 | emerge
+cake
+attend
+noodle
+bus
+armor
+gallery
+very
+team
+corn
+little
+answer |  
+| bip_39_word_new_line2 | emerge
+cake |  
+| bip_39_word_new_line3 | emerge
+cake
+attend |  
+| bip_39_word_new_line4 | emerge
+cake
+attend
+noodle |  
+| bip_39_word_new_line5 | emerge
+cake
+attend
+noodle
+bus |  
+| bip_39_word_new_line6 | emerge
+cake
+attend
+noodle
+bus
+armor |  
+| bip_39_word_new_line7 | emerge
+cake
+attend
+noodle
+bus
+armor
+gallery |  
+| bip_39_word_new_line8 | emerge
+cake
+attend
+noodle
+bus
+armor
+gallery
+very |  
+| bip_39_word_new_line9 | emerge
+cake
+attend
+noodle
+bus
+armor
+gallery
+very
+team |  
+| bip_39_word_space_0 | ['emerge', 'cake', 'attend', 'noodle', 'bus', 'armor', 'gallery', 'very', 'team', 'corn', 'little', 'answer'] |  
+| bip_39_word_space_1 | emerge |  
+| bip_39_word_space_10 | emerge cake attend noodle bus armor gallery very team corn |  
+| bip_39_word_space_11 | emerge cake attend noodle bus armor gallery very team corn little |  
+| bip_39_word_space_12 | emerge cake attend noodle bus armor gallery very team corn little answer |  
+| bip_39_word_space_2 | emerge cake |  
+| bip_39_word_space_3 | emerge cake attend |  
+| bip_39_word_space_4 | emerge cake attend noodle |  
+| bip_39_word_space_5 | emerge cake attend noodle bus |  
+| bip_39_word_space_6 | emerge cake attend noodle bus armor |  
+| bip_39_word_space_7 | emerge cake attend noodle bus armor gallery |  
+| bip_39_word_space_8 | emerge cake attend noodle bus armor gallery very |  
+| bip_39_word_space_9 | emerge cake attend noodle bus armor gallery very team |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

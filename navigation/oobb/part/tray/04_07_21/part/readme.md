@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: giraffe office
+  * bip 39 word 3: giraffe office champion
+  * bip 39 word: giraffe office champion artist zero table enough laptop visual rule silly adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | giraffe |  
+| bip_39_word_new_br10 | giraffe<br>office<br>champion<br>artist<br>zero<br>table<br>enough<br>laptop<br>visual<br>rule |  
+| bip_39_word_new_br11 | giraffe<br>office<br>champion<br>artist<br>zero<br>table<br>enough<br>laptop<br>visual<br>rule<br>silly |  
+| bip_39_word_new_br12 | giraffe<br>office<br>champion<br>artist<br>zero<br>table<br>enough<br>laptop<br>visual<br>rule<br>silly<br>adapt |  
+| bip_39_word_new_br2 | giraffe<br>office |  
+| bip_39_word_new_br3 | giraffe<br>office<br>champion |  
+| bip_39_word_new_br4 | giraffe<br>office<br>champion<br>artist |  
+| bip_39_word_new_br5 | giraffe<br>office<br>champion<br>artist<br>zero |  
+| bip_39_word_new_br6 | giraffe<br>office<br>champion<br>artist<br>zero<br>table |  
+| bip_39_word_new_br7 | giraffe<br>office<br>champion<br>artist<br>zero<br>table<br>enough |  
+| bip_39_word_new_br8 | giraffe<br>office<br>champion<br>artist<br>zero<br>table<br>enough<br>laptop |  
+| bip_39_word_new_br9 | giraffe<br>office<br>champion<br>artist<br>zero<br>table<br>enough<br>laptop<br>visual |  
+| bip_39_word_new_line1 | giraffe |  
+| bip_39_word_new_line10 | giraffe
+office
+champion
+artist
+zero
+table
+enough
+laptop
+visual
+rule |  
+| bip_39_word_new_line11 | giraffe
+office
+champion
+artist
+zero
+table
+enough
+laptop
+visual
+rule
+silly |  
+| bip_39_word_new_line12 | giraffe
+office
+champion
+artist
+zero
+table
+enough
+laptop
+visual
+rule
+silly
+adapt |  
+| bip_39_word_new_line2 | giraffe
+office |  
+| bip_39_word_new_line3 | giraffe
+office
+champion |  
+| bip_39_word_new_line4 | giraffe
+office
+champion
+artist |  
+| bip_39_word_new_line5 | giraffe
+office
+champion
+artist
+zero |  
+| bip_39_word_new_line6 | giraffe
+office
+champion
+artist
+zero
+table |  
+| bip_39_word_new_line7 | giraffe
+office
+champion
+artist
+zero
+table
+enough |  
+| bip_39_word_new_line8 | giraffe
+office
+champion
+artist
+zero
+table
+enough
+laptop |  
+| bip_39_word_new_line9 | giraffe
+office
+champion
+artist
+zero
+table
+enough
+laptop
+visual |  
+| bip_39_word_space_0 | ['giraffe', 'office', 'champion', 'artist', 'zero', 'table', 'enough', 'laptop', 'visual', 'rule', 'silly', 'adapt'] |  
+| bip_39_word_space_1 | giraffe |  
+| bip_39_word_space_10 | giraffe office champion artist zero table enough laptop visual rule |  
+| bip_39_word_space_11 | giraffe office champion artist zero table enough laptop visual rule silly |  
+| bip_39_word_space_12 | giraffe office champion artist zero table enough laptop visual rule silly adapt |  
+| bip_39_word_space_2 | giraffe office |  
+| bip_39_word_space_3 | giraffe office champion |  
+| bip_39_word_space_4 | giraffe office champion artist |  
+| bip_39_word_space_5 | giraffe office champion artist zero |  
+| bip_39_word_space_6 | giraffe office champion artist zero table |  
+| bip_39_word_space_7 | giraffe office champion artist zero table enough |  
+| bip_39_word_space_8 | giraffe office champion artist zero table enough laptop |  
+| bip_39_word_space_9 | giraffe office champion artist zero table enough laptop visual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

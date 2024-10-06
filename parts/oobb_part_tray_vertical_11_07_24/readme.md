@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: control brisk
+  * bip 39 word 3: control brisk hover
+  * bip 39 word: control brisk hover liquid divert leisure amateur strategy actress wet gap approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | control |  
+| bip_39_word_new_br10 | control<br>brisk<br>hover<br>liquid<br>divert<br>leisure<br>amateur<br>strategy<br>actress<br>wet |  
+| bip_39_word_new_br11 | control<br>brisk<br>hover<br>liquid<br>divert<br>leisure<br>amateur<br>strategy<br>actress<br>wet<br>gap |  
+| bip_39_word_new_br12 | control<br>brisk<br>hover<br>liquid<br>divert<br>leisure<br>amateur<br>strategy<br>actress<br>wet<br>gap<br>approve |  
+| bip_39_word_new_br2 | control<br>brisk |  
+| bip_39_word_new_br3 | control<br>brisk<br>hover |  
+| bip_39_word_new_br4 | control<br>brisk<br>hover<br>liquid |  
+| bip_39_word_new_br5 | control<br>brisk<br>hover<br>liquid<br>divert |  
+| bip_39_word_new_br6 | control<br>brisk<br>hover<br>liquid<br>divert<br>leisure |  
+| bip_39_word_new_br7 | control<br>brisk<br>hover<br>liquid<br>divert<br>leisure<br>amateur |  
+| bip_39_word_new_br8 | control<br>brisk<br>hover<br>liquid<br>divert<br>leisure<br>amateur<br>strategy |  
+| bip_39_word_new_br9 | control<br>brisk<br>hover<br>liquid<br>divert<br>leisure<br>amateur<br>strategy<br>actress |  
+| bip_39_word_new_line1 | control |  
+| bip_39_word_new_line10 | control
+brisk
+hover
+liquid
+divert
+leisure
+amateur
+strategy
+actress
+wet |  
+| bip_39_word_new_line11 | control
+brisk
+hover
+liquid
+divert
+leisure
+amateur
+strategy
+actress
+wet
+gap |  
+| bip_39_word_new_line12 | control
+brisk
+hover
+liquid
+divert
+leisure
+amateur
+strategy
+actress
+wet
+gap
+approve |  
+| bip_39_word_new_line2 | control
+brisk |  
+| bip_39_word_new_line3 | control
+brisk
+hover |  
+| bip_39_word_new_line4 | control
+brisk
+hover
+liquid |  
+| bip_39_word_new_line5 | control
+brisk
+hover
+liquid
+divert |  
+| bip_39_word_new_line6 | control
+brisk
+hover
+liquid
+divert
+leisure |  
+| bip_39_word_new_line7 | control
+brisk
+hover
+liquid
+divert
+leisure
+amateur |  
+| bip_39_word_new_line8 | control
+brisk
+hover
+liquid
+divert
+leisure
+amateur
+strategy |  
+| bip_39_word_new_line9 | control
+brisk
+hover
+liquid
+divert
+leisure
+amateur
+strategy
+actress |  
+| bip_39_word_space_0 | ['control', 'brisk', 'hover', 'liquid', 'divert', 'leisure', 'amateur', 'strategy', 'actress', 'wet', 'gap', 'approve'] |  
+| bip_39_word_space_1 | control |  
+| bip_39_word_space_10 | control brisk hover liquid divert leisure amateur strategy actress wet |  
+| bip_39_word_space_11 | control brisk hover liquid divert leisure amateur strategy actress wet gap |  
+| bip_39_word_space_12 | control brisk hover liquid divert leisure amateur strategy actress wet gap approve |  
+| bip_39_word_space_2 | control brisk |  
+| bip_39_word_space_3 | control brisk hover |  
+| bip_39_word_space_4 | control brisk hover liquid |  
+| bip_39_word_space_5 | control brisk hover liquid divert |  
+| bip_39_word_space_6 | control brisk hover liquid divert leisure |  
+| bip_39_word_space_7 | control brisk hover liquid divert leisure amateur |  
+| bip_39_word_space_8 | control brisk hover liquid divert leisure amateur strategy |  
+| bip_39_word_space_9 | control brisk hover liquid divert leisure amateur strategy actress |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

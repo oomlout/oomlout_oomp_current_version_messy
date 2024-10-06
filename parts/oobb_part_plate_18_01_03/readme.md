@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: above code
+  * bip 39 word 3: above code alter
+  * bip 39 word: above code alter horn swing steel toddler prepare pizza blast essence always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | above |  
+| bip_39_word_new_br10 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast |  
+| bip_39_word_new_br11 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast<br>essence |  
+| bip_39_word_new_br12 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza<br>blast<br>essence<br>always |  
+| bip_39_word_new_br2 | above<br>code |  
+| bip_39_word_new_br3 | above<br>code<br>alter |  
+| bip_39_word_new_br4 | above<br>code<br>alter<br>horn |  
+| bip_39_word_new_br5 | above<br>code<br>alter<br>horn<br>swing |  
+| bip_39_word_new_br6 | above<br>code<br>alter<br>horn<br>swing<br>steel |  
+| bip_39_word_new_br7 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler |  
+| bip_39_word_new_br8 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare |  
+| bip_39_word_new_br9 | above<br>code<br>alter<br>horn<br>swing<br>steel<br>toddler<br>prepare<br>pizza |  
+| bip_39_word_new_line1 | above |  
+| bip_39_word_new_line10 | above
+code
+alter
+horn
+swing
+steel
+toddler
+prepare
+pizza
+blast |  
+| bip_39_word_new_line11 | above
+code
+alter
+horn
+swing
+steel
+toddler
+prepare
+pizza
+blast
+essence |  
+| bip_39_word_new_line12 | above
+code
+alter
+horn
+swing
+steel
+toddler
+prepare
+pizza
+blast
+essence
+always |  
+| bip_39_word_new_line2 | above
+code |  
+| bip_39_word_new_line3 | above
+code
+alter |  
+| bip_39_word_new_line4 | above
+code
+alter
+horn |  
+| bip_39_word_new_line5 | above
+code
+alter
+horn
+swing |  
+| bip_39_word_new_line6 | above
+code
+alter
+horn
+swing
+steel |  
+| bip_39_word_new_line7 | above
+code
+alter
+horn
+swing
+steel
+toddler |  
+| bip_39_word_new_line8 | above
+code
+alter
+horn
+swing
+steel
+toddler
+prepare |  
+| bip_39_word_new_line9 | above
+code
+alter
+horn
+swing
+steel
+toddler
+prepare
+pizza |  
+| bip_39_word_space_0 | ['above', 'code', 'alter', 'horn', 'swing', 'steel', 'toddler', 'prepare', 'pizza', 'blast', 'essence', 'always'] |  
+| bip_39_word_space_1 | above |  
+| bip_39_word_space_10 | above code alter horn swing steel toddler prepare pizza blast |  
+| bip_39_word_space_11 | above code alter horn swing steel toddler prepare pizza blast essence |  
+| bip_39_word_space_12 | above code alter horn swing steel toddler prepare pizza blast essence always |  
+| bip_39_word_space_2 | above code |  
+| bip_39_word_space_3 | above code alter |  
+| bip_39_word_space_4 | above code alter horn |  
+| bip_39_word_space_5 | above code alter horn swing |  
+| bip_39_word_space_6 | above code alter horn swing steel |  
+| bip_39_word_space_7 | above code alter horn swing steel toddler |  
+| bip_39_word_space_8 | above code alter horn swing steel toddler prepare |  
+| bip_39_word_space_9 | above code alter horn swing steel toddler prepare pizza |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

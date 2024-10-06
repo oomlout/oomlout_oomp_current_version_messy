@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1470_mm_width_1470_mm_height_390_mm_depth
   * manufacturer: ikea
   * part_number: 302_758_61
+  * bip 39 word 2: about first
+  * bip 39 word 3: about first sunny
+  * bip 39 word: about first sunny minimum tone lend eager leopard club ramp vendor antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | about |  
+| bip_39_word_new_br10 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp |  
+| bip_39_word_new_br11 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp<br>vendor |  
+| bip_39_word_new_br12 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp<br>vendor<br>antenna |  
+| bip_39_word_new_br2 | about<br>first |  
+| bip_39_word_new_br3 | about<br>first<br>sunny |  
+| bip_39_word_new_br4 | about<br>first<br>sunny<br>minimum |  
+| bip_39_word_new_br5 | about<br>first<br>sunny<br>minimum<br>tone |  
+| bip_39_word_new_br6 | about<br>first<br>sunny<br>minimum<br>tone<br>lend |  
+| bip_39_word_new_br7 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager |  
+| bip_39_word_new_br8 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard |  
+| bip_39_word_new_br9 | about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club |  
+| bip_39_word_new_line1 | about |  
+| bip_39_word_new_line10 | about
+first
+sunny
+minimum
+tone
+lend
+eager
+leopard
+club
+ramp |  
+| bip_39_word_new_line11 | about
+first
+sunny
+minimum
+tone
+lend
+eager
+leopard
+club
+ramp
+vendor |  
+| bip_39_word_new_line12 | about
+first
+sunny
+minimum
+tone
+lend
+eager
+leopard
+club
+ramp
+vendor
+antenna |  
+| bip_39_word_new_line2 | about
+first |  
+| bip_39_word_new_line3 | about
+first
+sunny |  
+| bip_39_word_new_line4 | about
+first
+sunny
+minimum |  
+| bip_39_word_new_line5 | about
+first
+sunny
+minimum
+tone |  
+| bip_39_word_new_line6 | about
+first
+sunny
+minimum
+tone
+lend |  
+| bip_39_word_new_line7 | about
+first
+sunny
+minimum
+tone
+lend
+eager |  
+| bip_39_word_new_line8 | about
+first
+sunny
+minimum
+tone
+lend
+eager
+leopard |  
+| bip_39_word_new_line9 | about
+first
+sunny
+minimum
+tone
+lend
+eager
+leopard
+club |  
+| bip_39_word_space_0 | ['about', 'first', 'sunny', 'minimum', 'tone', 'lend', 'eager', 'leopard', 'club', 'ramp', 'vendor', 'antenna'] |  
+| bip_39_word_space_1 | about |  
+| bip_39_word_space_10 | about first sunny minimum tone lend eager leopard club ramp |  
+| bip_39_word_space_11 | about first sunny minimum tone lend eager leopard club ramp vendor |  
+| bip_39_word_space_12 | about first sunny minimum tone lend eager leopard club ramp vendor antenna |  
+| bip_39_word_space_2 | about first |  
+| bip_39_word_space_3 | about first sunny |  
+| bip_39_word_space_4 | about first sunny minimum |  
+| bip_39_word_space_5 | about first sunny minimum tone |  
+| bip_39_word_space_6 | about first sunny minimum tone lend |  
+| bip_39_word_space_7 | about first sunny minimum tone lend eager |  
+| bip_39_word_space_8 | about first sunny minimum tone lend eager leopard |  
+| bip_39_word_space_9 | about first sunny minimum tone lend eager leopard club |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

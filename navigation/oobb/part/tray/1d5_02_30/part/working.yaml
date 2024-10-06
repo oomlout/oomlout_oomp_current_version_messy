@@ -1,3 +1,186 @@
+bip_39_word_new_br1: upper
+bip_39_word_new_br10: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf<br>hurdle<br>cabin<br>mutual<br>crew
+bip_39_word_new_br11: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf<br>hurdle<br>cabin<br>mutual<br>crew<br>strong
+bip_39_word_new_br12: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf<br>hurdle<br>cabin<br>mutual<br>crew<br>strong<br>author
+bip_39_word_new_br2: upper<br>wrist
+bip_39_word_new_br3: upper<br>wrist<br>flush
+bip_39_word_new_br4: upper<br>wrist<br>flush<br>giggle
+bip_39_word_new_br5: upper<br>wrist<br>flush<br>giggle<br>position
+bip_39_word_new_br6: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf
+bip_39_word_new_br7: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf<br>hurdle
+bip_39_word_new_br8: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf<br>hurdle<br>cabin
+bip_39_word_new_br9: upper<br>wrist<br>flush<br>giggle<br>position<br>leaf<br>hurdle<br>cabin<br>mutual
+bip_39_word_new_line1: upper
+bip_39_word_new_line10: 'upper
+
+  wrist
+
+  flush
+
+  giggle
+
+  position
+
+  leaf
+
+  hurdle
+
+  cabin
+
+  mutual
+
+  crew'
+bip_39_word_new_line11: 'upper
+
+  wrist
+
+  flush
+
+  giggle
+
+  position
+
+  leaf
+
+  hurdle
+
+  cabin
+
+  mutual
+
+  crew
+
+  strong'
+bip_39_word_new_line12: 'upper
+
+  wrist
+
+  flush
+
+  giggle
+
+  position
+
+  leaf
+
+  hurdle
+
+  cabin
+
+  mutual
+
+  crew
+
+  strong
+
+  author'
+bip_39_word_new_line2: 'upper
+
+  wrist'
+bip_39_word_new_line3: 'upper
+
+  wrist
+
+  flush'
+bip_39_word_new_line4: 'upper
+
+  wrist
+
+  flush
+
+  giggle'
+bip_39_word_new_line5: 'upper
+
+  wrist
+
+  flush
+
+  giggle
+
+  position'
+bip_39_word_new_line6: 'upper
+
+  wrist
+
+  flush
+
+  giggle
+
+  position
+
+  leaf'
+bip_39_word_new_line7: 'upper
+
+  wrist
+
+  flush
+
+  giggle
+
+  position
+
+  leaf
+
+  hurdle'
+bip_39_word_new_line8: 'upper
+
+  wrist
+
+  flush
+
+  giggle
+
+  position
+
+  leaf
+
+  hurdle
+
+  cabin'
+bip_39_word_new_line9: 'upper
+
+  wrist
+
+  flush
+
+  giggle
+
+  position
+
+  leaf
+
+  hurdle
+
+  cabin
+
+  mutual'
+bip_39_word_space_0:
+- upper
+- wrist
+- flush
+- giggle
+- position
+- leaf
+- hurdle
+- cabin
+- mutual
+- crew
+- strong
+- author
+bip_39_word_space_1: upper
+bip_39_word_space_10: upper wrist flush giggle position leaf hurdle cabin mutual crew
+bip_39_word_space_11: upper wrist flush giggle position leaf hurdle cabin mutual crew
+  strong
+bip_39_word_space_12: upper wrist flush giggle position leaf hurdle cabin mutual crew
+  strong author
+bip_39_word_space_2: upper wrist
+bip_39_word_space_3: upper wrist flush
+bip_39_word_space_4: upper wrist flush giggle
+bip_39_word_space_5: upper wrist flush giggle position
+bip_39_word_space_6: upper wrist flush giggle position leaf
+bip_39_word_space_7: upper wrist flush giggle position leaf hurdle
+bip_39_word_space_8: upper wrist flush giggle position leaf hurdle cabin
+bip_39_word_space_9: upper wrist flush giggle position leaf hurdle cabin mutual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

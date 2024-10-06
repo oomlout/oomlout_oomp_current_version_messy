@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ship slush
+  * bip 39 word 3: ship slush gadget
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ship |  
+| bip_39_word_new_br10 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch |  
+| bip_39_word_new_br11 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch<br>vast |  
+| bip_39_word_new_br2 | ship<br>slush |  
+| bip_39_word_new_br3 | ship<br>slush<br>gadget |  
+| bip_39_word_new_br4 | ship<br>slush<br>gadget<br>time |  
+| bip_39_word_new_br5 | ship<br>slush<br>gadget<br>time<br>wink |  
+| bip_39_word_new_br6 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade |  
+| bip_39_word_new_br7 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse |  
+| bip_39_word_new_br8 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near |  
+| bip_39_word_new_br9 | ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit |  
+| bip_39_word_new_line1 | ship |  
+| bip_39_word_new_line10 | ship
+slush
+gadget
+time
+wink
+upgrade
+nurse
+near
+exit
+couch |  
+| bip_39_word_new_line11 | ship
+slush
+gadget
+time
+wink
+upgrade
+nurse
+near
+exit
+couch
+vast |  
+| bip_39_word_new_line2 | ship
+slush |  
+| bip_39_word_new_line3 | ship
+slush
+gadget |  
+| bip_39_word_new_line4 | ship
+slush
+gadget
+time |  
+| bip_39_word_new_line5 | ship
+slush
+gadget
+time
+wink |  
+| bip_39_word_new_line6 | ship
+slush
+gadget
+time
+wink
+upgrade |  
+| bip_39_word_new_line7 | ship
+slush
+gadget
+time
+wink
+upgrade
+nurse |  
+| bip_39_word_new_line8 | ship
+slush
+gadget
+time
+wink
+upgrade
+nurse
+near |  
+| bip_39_word_new_line9 | ship
+slush
+gadget
+time
+wink
+upgrade
+nurse
+near
+exit |  
+| bip_39_word_space_0 | ['ship', 'slush', 'gadget', 'time', 'wink', 'upgrade', 'nurse', 'near', 'exit', 'couch', 'vast'] |  
+| bip_39_word_space_1 | ship |  
+| bip_39_word_space_10 | ship slush gadget time wink upgrade nurse near exit couch |  
+| bip_39_word_space_11 | ship slush gadget time wink upgrade nurse near exit couch vast |  
+| bip_39_word_space_2 | ship slush |  
+| bip_39_word_space_3 | ship slush gadget |  
+| bip_39_word_space_4 | ship slush gadget time |  
+| bip_39_word_space_5 | ship slush gadget time wink |  
+| bip_39_word_space_6 | ship slush gadget time wink upgrade |  
+| bip_39_word_space_7 | ship slush gadget time wink upgrade nurse |  
+| bip_39_word_space_8 | ship slush gadget time wink upgrade nurse near |  
+| bip_39_word_space_9 | ship slush gadget time wink upgrade nurse near exit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

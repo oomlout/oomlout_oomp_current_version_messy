@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: profit injury
+  * bip 39 word 3: profit injury elbow
+  * bip 39 word: profit injury elbow perfect arrest scene negative awkward rifle swear melody alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | profit |  
+| bip_39_word_new_br10 | profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene<br>negative<br>awkward<br>rifle<br>swear |  
+| bip_39_word_new_br11 | profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene<br>negative<br>awkward<br>rifle<br>swear<br>melody |  
+| bip_39_word_new_br12 | profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene<br>negative<br>awkward<br>rifle<br>swear<br>melody<br>alone |  
+| bip_39_word_new_br2 | profit<br>injury |  
+| bip_39_word_new_br3 | profit<br>injury<br>elbow |  
+| bip_39_word_new_br4 | profit<br>injury<br>elbow<br>perfect |  
+| bip_39_word_new_br5 | profit<br>injury<br>elbow<br>perfect<br>arrest |  
+| bip_39_word_new_br6 | profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene |  
+| bip_39_word_new_br7 | profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene<br>negative |  
+| bip_39_word_new_br8 | profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene<br>negative<br>awkward |  
+| bip_39_word_new_br9 | profit<br>injury<br>elbow<br>perfect<br>arrest<br>scene<br>negative<br>awkward<br>rifle |  
+| bip_39_word_new_line1 | profit |  
+| bip_39_word_new_line10 | profit
+injury
+elbow
+perfect
+arrest
+scene
+negative
+awkward
+rifle
+swear |  
+| bip_39_word_new_line11 | profit
+injury
+elbow
+perfect
+arrest
+scene
+negative
+awkward
+rifle
+swear
+melody |  
+| bip_39_word_new_line12 | profit
+injury
+elbow
+perfect
+arrest
+scene
+negative
+awkward
+rifle
+swear
+melody
+alone |  
+| bip_39_word_new_line2 | profit
+injury |  
+| bip_39_word_new_line3 | profit
+injury
+elbow |  
+| bip_39_word_new_line4 | profit
+injury
+elbow
+perfect |  
+| bip_39_word_new_line5 | profit
+injury
+elbow
+perfect
+arrest |  
+| bip_39_word_new_line6 | profit
+injury
+elbow
+perfect
+arrest
+scene |  
+| bip_39_word_new_line7 | profit
+injury
+elbow
+perfect
+arrest
+scene
+negative |  
+| bip_39_word_new_line8 | profit
+injury
+elbow
+perfect
+arrest
+scene
+negative
+awkward |  
+| bip_39_word_new_line9 | profit
+injury
+elbow
+perfect
+arrest
+scene
+negative
+awkward
+rifle |  
+| bip_39_word_space_0 | ['profit', 'injury', 'elbow', 'perfect', 'arrest', 'scene', 'negative', 'awkward', 'rifle', 'swear', 'melody', 'alone'] |  
+| bip_39_word_space_1 | profit |  
+| bip_39_word_space_10 | profit injury elbow perfect arrest scene negative awkward rifle swear |  
+| bip_39_word_space_11 | profit injury elbow perfect arrest scene negative awkward rifle swear melody |  
+| bip_39_word_space_12 | profit injury elbow perfect arrest scene negative awkward rifle swear melody alone |  
+| bip_39_word_space_2 | profit injury |  
+| bip_39_word_space_3 | profit injury elbow |  
+| bip_39_word_space_4 | profit injury elbow perfect |  
+| bip_39_word_space_5 | profit injury elbow perfect arrest |  
+| bip_39_word_space_6 | profit injury elbow perfect arrest scene |  
+| bip_39_word_space_7 | profit injury elbow perfect arrest scene negative |  
+| bip_39_word_space_8 | profit injury elbow perfect arrest scene negative awkward |  
+| bip_39_word_space_9 | profit injury elbow perfect arrest scene negative awkward rifle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

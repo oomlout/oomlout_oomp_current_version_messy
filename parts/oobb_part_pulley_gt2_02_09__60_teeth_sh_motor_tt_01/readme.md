@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: absurd person
+  * bip 39 word 3: absurd person gloom
+  * bip 39 word: absurd person gloom diary diamond dolphin tired inch bullet october tent arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | absurd |  
+| bip_39_word_new_br10 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin<br>tired<br>inch<br>bullet<br>october |  
+| bip_39_word_new_br11 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin<br>tired<br>inch<br>bullet<br>october<br>tent |  
+| bip_39_word_new_br12 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin<br>tired<br>inch<br>bullet<br>october<br>tent<br>arena |  
+| bip_39_word_new_br2 | absurd<br>person |  
+| bip_39_word_new_br3 | absurd<br>person<br>gloom |  
+| bip_39_word_new_br4 | absurd<br>person<br>gloom<br>diary |  
+| bip_39_word_new_br5 | absurd<br>person<br>gloom<br>diary<br>diamond |  
+| bip_39_word_new_br6 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin |  
+| bip_39_word_new_br7 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin<br>tired |  
+| bip_39_word_new_br8 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin<br>tired<br>inch |  
+| bip_39_word_new_br9 | absurd<br>person<br>gloom<br>diary<br>diamond<br>dolphin<br>tired<br>inch<br>bullet |  
+| bip_39_word_new_line1 | absurd |  
+| bip_39_word_new_line10 | absurd
+person
+gloom
+diary
+diamond
+dolphin
+tired
+inch
+bullet
+october |  
+| bip_39_word_new_line11 | absurd
+person
+gloom
+diary
+diamond
+dolphin
+tired
+inch
+bullet
+october
+tent |  
+| bip_39_word_new_line12 | absurd
+person
+gloom
+diary
+diamond
+dolphin
+tired
+inch
+bullet
+october
+tent
+arena |  
+| bip_39_word_new_line2 | absurd
+person |  
+| bip_39_word_new_line3 | absurd
+person
+gloom |  
+| bip_39_word_new_line4 | absurd
+person
+gloom
+diary |  
+| bip_39_word_new_line5 | absurd
+person
+gloom
+diary
+diamond |  
+| bip_39_word_new_line6 | absurd
+person
+gloom
+diary
+diamond
+dolphin |  
+| bip_39_word_new_line7 | absurd
+person
+gloom
+diary
+diamond
+dolphin
+tired |  
+| bip_39_word_new_line8 | absurd
+person
+gloom
+diary
+diamond
+dolphin
+tired
+inch |  
+| bip_39_word_new_line9 | absurd
+person
+gloom
+diary
+diamond
+dolphin
+tired
+inch
+bullet |  
+| bip_39_word_space_0 | ['absurd', 'person', 'gloom', 'diary', 'diamond', 'dolphin', 'tired', 'inch', 'bullet', 'october', 'tent', 'arena'] |  
+| bip_39_word_space_1 | absurd |  
+| bip_39_word_space_10 | absurd person gloom diary diamond dolphin tired inch bullet october |  
+| bip_39_word_space_11 | absurd person gloom diary diamond dolphin tired inch bullet october tent |  
+| bip_39_word_space_12 | absurd person gloom diary diamond dolphin tired inch bullet october tent arena |  
+| bip_39_word_space_2 | absurd person |  
+| bip_39_word_space_3 | absurd person gloom |  
+| bip_39_word_space_4 | absurd person gloom diary |  
+| bip_39_word_space_5 | absurd person gloom diary diamond |  
+| bip_39_word_space_6 | absurd person gloom diary diamond dolphin |  
+| bip_39_word_space_7 | absurd person gloom diary diamond dolphin tired |  
+| bip_39_word_space_8 | absurd person gloom diary diamond dolphin tired inch |  
+| bip_39_word_space_9 | absurd person gloom diary diamond dolphin tired inch bullet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

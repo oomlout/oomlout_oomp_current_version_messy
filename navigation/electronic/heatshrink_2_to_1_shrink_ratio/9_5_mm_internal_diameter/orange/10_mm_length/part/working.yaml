@@ -1,3 +1,186 @@
+bip_39_word_new_br1: charge
+bip_39_word_new_br10: charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare
+bip_39_word_new_br11: charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare<br>absurd
+bip_39_word_new_br12: charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry<br>scare<br>absurd<br>auto
+bip_39_word_new_br2: charge<br>duty
+bip_39_word_new_br3: charge<br>duty<br>vast
+bip_39_word_new_br4: charge<br>duty<br>vast<br>genius
+bip_39_word_new_br5: charge<br>duty<br>vast<br>genius<br>remove
+bip_39_word_new_br6: charge<br>duty<br>vast<br>genius<br>remove<br>hockey
+bip_39_word_new_br7: charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random
+bip_39_word_new_br8: charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew
+bip_39_word_new_br9: charge<br>duty<br>vast<br>genius<br>remove<br>hockey<br>random<br>renew<br>inquiry
+bip_39_word_new_line1: charge
+bip_39_word_new_line10: 'charge
+
+  duty
+
+  vast
+
+  genius
+
+  remove
+
+  hockey
+
+  random
+
+  renew
+
+  inquiry
+
+  scare'
+bip_39_word_new_line11: 'charge
+
+  duty
+
+  vast
+
+  genius
+
+  remove
+
+  hockey
+
+  random
+
+  renew
+
+  inquiry
+
+  scare
+
+  absurd'
+bip_39_word_new_line12: 'charge
+
+  duty
+
+  vast
+
+  genius
+
+  remove
+
+  hockey
+
+  random
+
+  renew
+
+  inquiry
+
+  scare
+
+  absurd
+
+  auto'
+bip_39_word_new_line2: 'charge
+
+  duty'
+bip_39_word_new_line3: 'charge
+
+  duty
+
+  vast'
+bip_39_word_new_line4: 'charge
+
+  duty
+
+  vast
+
+  genius'
+bip_39_word_new_line5: 'charge
+
+  duty
+
+  vast
+
+  genius
+
+  remove'
+bip_39_word_new_line6: 'charge
+
+  duty
+
+  vast
+
+  genius
+
+  remove
+
+  hockey'
+bip_39_word_new_line7: 'charge
+
+  duty
+
+  vast
+
+  genius
+
+  remove
+
+  hockey
+
+  random'
+bip_39_word_new_line8: 'charge
+
+  duty
+
+  vast
+
+  genius
+
+  remove
+
+  hockey
+
+  random
+
+  renew'
+bip_39_word_new_line9: 'charge
+
+  duty
+
+  vast
+
+  genius
+
+  remove
+
+  hockey
+
+  random
+
+  renew
+
+  inquiry'
+bip_39_word_space_0:
+- charge
+- duty
+- vast
+- genius
+- remove
+- hockey
+- random
+- renew
+- inquiry
+- scare
+- absurd
+- auto
+bip_39_word_space_1: charge
+bip_39_word_space_10: charge duty vast genius remove hockey random renew inquiry scare
+bip_39_word_space_11: charge duty vast genius remove hockey random renew inquiry scare
+  absurd
+bip_39_word_space_12: charge duty vast genius remove hockey random renew inquiry scare
+  absurd auto
+bip_39_word_space_2: charge duty
+bip_39_word_space_3: charge duty vast
+bip_39_word_space_4: charge duty vast genius
+bip_39_word_space_5: charge duty vast genius remove
+bip_39_word_space_6: charge duty vast genius remove hockey
+bip_39_word_space_7: charge duty vast genius remove hockey random
+bip_39_word_space_8: charge duty vast genius remove hockey random renew
+bip_39_word_space_9: charge duty vast genius remove hockey random renew inquiry
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

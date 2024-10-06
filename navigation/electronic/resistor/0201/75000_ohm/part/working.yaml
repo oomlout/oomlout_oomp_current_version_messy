@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vapor
+bip_39_word_new_br10: vapor<br>enlist<br>estate<br>fold<br>purse<br>caution<br>nice<br>flame<br>vendor<br>glory
+bip_39_word_new_br11: vapor<br>enlist<br>estate<br>fold<br>purse<br>caution<br>nice<br>flame<br>vendor<br>glory<br>drill
+bip_39_word_new_br12: vapor<br>enlist<br>estate<br>fold<br>purse<br>caution<br>nice<br>flame<br>vendor<br>glory<br>drill<br>ability
+bip_39_word_new_br2: vapor<br>enlist
+bip_39_word_new_br3: vapor<br>enlist<br>estate
+bip_39_word_new_br4: vapor<br>enlist<br>estate<br>fold
+bip_39_word_new_br5: vapor<br>enlist<br>estate<br>fold<br>purse
+bip_39_word_new_br6: vapor<br>enlist<br>estate<br>fold<br>purse<br>caution
+bip_39_word_new_br7: vapor<br>enlist<br>estate<br>fold<br>purse<br>caution<br>nice
+bip_39_word_new_br8: vapor<br>enlist<br>estate<br>fold<br>purse<br>caution<br>nice<br>flame
+bip_39_word_new_br9: vapor<br>enlist<br>estate<br>fold<br>purse<br>caution<br>nice<br>flame<br>vendor
+bip_39_word_new_line1: vapor
+bip_39_word_new_line10: 'vapor
+
+  enlist
+
+  estate
+
+  fold
+
+  purse
+
+  caution
+
+  nice
+
+  flame
+
+  vendor
+
+  glory'
+bip_39_word_new_line11: 'vapor
+
+  enlist
+
+  estate
+
+  fold
+
+  purse
+
+  caution
+
+  nice
+
+  flame
+
+  vendor
+
+  glory
+
+  drill'
+bip_39_word_new_line12: 'vapor
+
+  enlist
+
+  estate
+
+  fold
+
+  purse
+
+  caution
+
+  nice
+
+  flame
+
+  vendor
+
+  glory
+
+  drill
+
+  ability'
+bip_39_word_new_line2: 'vapor
+
+  enlist'
+bip_39_word_new_line3: 'vapor
+
+  enlist
+
+  estate'
+bip_39_word_new_line4: 'vapor
+
+  enlist
+
+  estate
+
+  fold'
+bip_39_word_new_line5: 'vapor
+
+  enlist
+
+  estate
+
+  fold
+
+  purse'
+bip_39_word_new_line6: 'vapor
+
+  enlist
+
+  estate
+
+  fold
+
+  purse
+
+  caution'
+bip_39_word_new_line7: 'vapor
+
+  enlist
+
+  estate
+
+  fold
+
+  purse
+
+  caution
+
+  nice'
+bip_39_word_new_line8: 'vapor
+
+  enlist
+
+  estate
+
+  fold
+
+  purse
+
+  caution
+
+  nice
+
+  flame'
+bip_39_word_new_line9: 'vapor
+
+  enlist
+
+  estate
+
+  fold
+
+  purse
+
+  caution
+
+  nice
+
+  flame
+
+  vendor'
+bip_39_word_space_0:
+- vapor
+- enlist
+- estate
+- fold
+- purse
+- caution
+- nice
+- flame
+- vendor
+- glory
+- drill
+- ability
+bip_39_word_space_1: vapor
+bip_39_word_space_10: vapor enlist estate fold purse caution nice flame vendor glory
+bip_39_word_space_11: vapor enlist estate fold purse caution nice flame vendor glory
+  drill
+bip_39_word_space_12: vapor enlist estate fold purse caution nice flame vendor glory
+  drill ability
+bip_39_word_space_2: vapor enlist
+bip_39_word_space_3: vapor enlist estate
+bip_39_word_space_4: vapor enlist estate fold
+bip_39_word_space_5: vapor enlist estate fold purse
+bip_39_word_space_6: vapor enlist estate fold purse caution
+bip_39_word_space_7: vapor enlist estate fold purse caution nice
+bip_39_word_space_8: vapor enlist estate fold purse caution nice flame
+bip_39_word_space_9: vapor enlist estate fold purse caution nice flame vendor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

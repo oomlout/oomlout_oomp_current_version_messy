@@ -1,3 +1,186 @@
+bip_39_word_new_br1: blush
+bip_39_word_new_br10: blush<br>season<br>never<br>swallow<br>voice<br>verb<br>speak<br>lens<br>submit<br>genuine
+bip_39_word_new_br11: blush<br>season<br>never<br>swallow<br>voice<br>verb<br>speak<br>lens<br>submit<br>genuine<br>problem
+bip_39_word_new_br12: blush<br>season<br>never<br>swallow<br>voice<br>verb<br>speak<br>lens<br>submit<br>genuine<br>problem<br>aisle
+bip_39_word_new_br2: blush<br>season
+bip_39_word_new_br3: blush<br>season<br>never
+bip_39_word_new_br4: blush<br>season<br>never<br>swallow
+bip_39_word_new_br5: blush<br>season<br>never<br>swallow<br>voice
+bip_39_word_new_br6: blush<br>season<br>never<br>swallow<br>voice<br>verb
+bip_39_word_new_br7: blush<br>season<br>never<br>swallow<br>voice<br>verb<br>speak
+bip_39_word_new_br8: blush<br>season<br>never<br>swallow<br>voice<br>verb<br>speak<br>lens
+bip_39_word_new_br9: blush<br>season<br>never<br>swallow<br>voice<br>verb<br>speak<br>lens<br>submit
+bip_39_word_new_line1: blush
+bip_39_word_new_line10: 'blush
+
+  season
+
+  never
+
+  swallow
+
+  voice
+
+  verb
+
+  speak
+
+  lens
+
+  submit
+
+  genuine'
+bip_39_word_new_line11: 'blush
+
+  season
+
+  never
+
+  swallow
+
+  voice
+
+  verb
+
+  speak
+
+  lens
+
+  submit
+
+  genuine
+
+  problem'
+bip_39_word_new_line12: 'blush
+
+  season
+
+  never
+
+  swallow
+
+  voice
+
+  verb
+
+  speak
+
+  lens
+
+  submit
+
+  genuine
+
+  problem
+
+  aisle'
+bip_39_word_new_line2: 'blush
+
+  season'
+bip_39_word_new_line3: 'blush
+
+  season
+
+  never'
+bip_39_word_new_line4: 'blush
+
+  season
+
+  never
+
+  swallow'
+bip_39_word_new_line5: 'blush
+
+  season
+
+  never
+
+  swallow
+
+  voice'
+bip_39_word_new_line6: 'blush
+
+  season
+
+  never
+
+  swallow
+
+  voice
+
+  verb'
+bip_39_word_new_line7: 'blush
+
+  season
+
+  never
+
+  swallow
+
+  voice
+
+  verb
+
+  speak'
+bip_39_word_new_line8: 'blush
+
+  season
+
+  never
+
+  swallow
+
+  voice
+
+  verb
+
+  speak
+
+  lens'
+bip_39_word_new_line9: 'blush
+
+  season
+
+  never
+
+  swallow
+
+  voice
+
+  verb
+
+  speak
+
+  lens
+
+  submit'
+bip_39_word_space_0:
+- blush
+- season
+- never
+- swallow
+- voice
+- verb
+- speak
+- lens
+- submit
+- genuine
+- problem
+- aisle
+bip_39_word_space_1: blush
+bip_39_word_space_10: blush season never swallow voice verb speak lens submit genuine
+bip_39_word_space_11: blush season never swallow voice verb speak lens submit genuine
+  problem
+bip_39_word_space_12: blush season never swallow voice verb speak lens submit genuine
+  problem aisle
+bip_39_word_space_2: blush season
+bip_39_word_space_3: blush season never
+bip_39_word_space_4: blush season never swallow
+bip_39_word_space_5: blush season never swallow voice
+bip_39_word_space_6: blush season never swallow voice verb
+bip_39_word_space_7: blush season never swallow voice verb speak
+bip_39_word_space_8: blush season never swallow voice verb speak lens
+bip_39_word_space_9: blush season never swallow voice verb speak lens submit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

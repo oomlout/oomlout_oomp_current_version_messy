@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slogan clog
+  * bip 39 word 3: slogan clog south
+  * bip 39 word: slogan clog south pink better river salad reunion observe real wise accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slogan |  
+| bip_39_word_new_br10 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real |  
+| bip_39_word_new_br11 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise |  
+| bip_39_word_new_br12 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise<br>accuse |  
+| bip_39_word_new_br2 | slogan<br>clog |  
+| bip_39_word_new_br3 | slogan<br>clog<br>south |  
+| bip_39_word_new_br4 | slogan<br>clog<br>south<br>pink |  
+| bip_39_word_new_br5 | slogan<br>clog<br>south<br>pink<br>better |  
+| bip_39_word_new_br6 | slogan<br>clog<br>south<br>pink<br>better<br>river |  
+| bip_39_word_new_br7 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad |  
+| bip_39_word_new_br8 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion |  
+| bip_39_word_new_br9 | slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe |  
+| bip_39_word_new_line1 | slogan |  
+| bip_39_word_new_line10 | slogan
+clog
+south
+pink
+better
+river
+salad
+reunion
+observe
+real |  
+| bip_39_word_new_line11 | slogan
+clog
+south
+pink
+better
+river
+salad
+reunion
+observe
+real
+wise |  
+| bip_39_word_new_line12 | slogan
+clog
+south
+pink
+better
+river
+salad
+reunion
+observe
+real
+wise
+accuse |  
+| bip_39_word_new_line2 | slogan
+clog |  
+| bip_39_word_new_line3 | slogan
+clog
+south |  
+| bip_39_word_new_line4 | slogan
+clog
+south
+pink |  
+| bip_39_word_new_line5 | slogan
+clog
+south
+pink
+better |  
+| bip_39_word_new_line6 | slogan
+clog
+south
+pink
+better
+river |  
+| bip_39_word_new_line7 | slogan
+clog
+south
+pink
+better
+river
+salad |  
+| bip_39_word_new_line8 | slogan
+clog
+south
+pink
+better
+river
+salad
+reunion |  
+| bip_39_word_new_line9 | slogan
+clog
+south
+pink
+better
+river
+salad
+reunion
+observe |  
+| bip_39_word_space_0 | ['slogan', 'clog', 'south', 'pink', 'better', 'river', 'salad', 'reunion', 'observe', 'real', 'wise', 'accuse'] |  
+| bip_39_word_space_1 | slogan |  
+| bip_39_word_space_10 | slogan clog south pink better river salad reunion observe real |  
+| bip_39_word_space_11 | slogan clog south pink better river salad reunion observe real wise |  
+| bip_39_word_space_12 | slogan clog south pink better river salad reunion observe real wise accuse |  
+| bip_39_word_space_2 | slogan clog |  
+| bip_39_word_space_3 | slogan clog south |  
+| bip_39_word_space_4 | slogan clog south pink |  
+| bip_39_word_space_5 | slogan clog south pink better |  
+| bip_39_word_space_6 | slogan clog south pink better river |  
+| bip_39_word_space_7 | slogan clog south pink better river salad |  
+| bip_39_word_space_8 | slogan clog south pink better river salad reunion |  
+| bip_39_word_space_9 | slogan clog south pink better river salad reunion observe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

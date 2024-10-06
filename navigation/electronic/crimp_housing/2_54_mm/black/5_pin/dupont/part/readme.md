@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: dupont
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arrive erode
+  * bip 39 word 3: arrive erode salad
+  * bip 39 word: arrive erode salad game miss loan cruel foam grunt foster adjust acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arrive |  
+| bip_39_word_new_br10 | arrive<br>erode<br>salad<br>game<br>miss<br>loan<br>cruel<br>foam<br>grunt<br>foster |  
+| bip_39_word_new_br11 | arrive<br>erode<br>salad<br>game<br>miss<br>loan<br>cruel<br>foam<br>grunt<br>foster<br>adjust |  
+| bip_39_word_new_br12 | arrive<br>erode<br>salad<br>game<br>miss<br>loan<br>cruel<br>foam<br>grunt<br>foster<br>adjust<br>acid |  
+| bip_39_word_new_br2 | arrive<br>erode |  
+| bip_39_word_new_br3 | arrive<br>erode<br>salad |  
+| bip_39_word_new_br4 | arrive<br>erode<br>salad<br>game |  
+| bip_39_word_new_br5 | arrive<br>erode<br>salad<br>game<br>miss |  
+| bip_39_word_new_br6 | arrive<br>erode<br>salad<br>game<br>miss<br>loan |  
+| bip_39_word_new_br7 | arrive<br>erode<br>salad<br>game<br>miss<br>loan<br>cruel |  
+| bip_39_word_new_br8 | arrive<br>erode<br>salad<br>game<br>miss<br>loan<br>cruel<br>foam |  
+| bip_39_word_new_br9 | arrive<br>erode<br>salad<br>game<br>miss<br>loan<br>cruel<br>foam<br>grunt |  
+| bip_39_word_new_line1 | arrive |  
+| bip_39_word_new_line10 | arrive
+erode
+salad
+game
+miss
+loan
+cruel
+foam
+grunt
+foster |  
+| bip_39_word_new_line11 | arrive
+erode
+salad
+game
+miss
+loan
+cruel
+foam
+grunt
+foster
+adjust |  
+| bip_39_word_new_line12 | arrive
+erode
+salad
+game
+miss
+loan
+cruel
+foam
+grunt
+foster
+adjust
+acid |  
+| bip_39_word_new_line2 | arrive
+erode |  
+| bip_39_word_new_line3 | arrive
+erode
+salad |  
+| bip_39_word_new_line4 | arrive
+erode
+salad
+game |  
+| bip_39_word_new_line5 | arrive
+erode
+salad
+game
+miss |  
+| bip_39_word_new_line6 | arrive
+erode
+salad
+game
+miss
+loan |  
+| bip_39_word_new_line7 | arrive
+erode
+salad
+game
+miss
+loan
+cruel |  
+| bip_39_word_new_line8 | arrive
+erode
+salad
+game
+miss
+loan
+cruel
+foam |  
+| bip_39_word_new_line9 | arrive
+erode
+salad
+game
+miss
+loan
+cruel
+foam
+grunt |  
+| bip_39_word_space_0 | ['arrive', 'erode', 'salad', 'game', 'miss', 'loan', 'cruel', 'foam', 'grunt', 'foster', 'adjust', 'acid'] |  
+| bip_39_word_space_1 | arrive |  
+| bip_39_word_space_10 | arrive erode salad game miss loan cruel foam grunt foster |  
+| bip_39_word_space_11 | arrive erode salad game miss loan cruel foam grunt foster adjust |  
+| bip_39_word_space_12 | arrive erode salad game miss loan cruel foam grunt foster adjust acid |  
+| bip_39_word_space_2 | arrive erode |  
+| bip_39_word_space_3 | arrive erode salad |  
+| bip_39_word_space_4 | arrive erode salad game |  
+| bip_39_word_space_5 | arrive erode salad game miss |  
+| bip_39_word_space_6 | arrive erode salad game miss loan |  
+| bip_39_word_space_7 | arrive erode salad game miss loan cruel |  
+| bip_39_word_space_8 | arrive erode salad game miss loan cruel foam |  
+| bip_39_word_space_9 | arrive erode salad game miss loan cruel foam grunt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

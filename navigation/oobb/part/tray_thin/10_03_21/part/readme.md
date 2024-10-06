@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: belt genre
+  * bip 39 word 3: belt genre make
+  * bip 39 word: belt genre make situate under faint wrestle filter cabin tonight decade also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | belt |  
+| bip_39_word_new_br10 | belt<br>genre<br>make<br>situate<br>under<br>faint<br>wrestle<br>filter<br>cabin<br>tonight |  
+| bip_39_word_new_br11 | belt<br>genre<br>make<br>situate<br>under<br>faint<br>wrestle<br>filter<br>cabin<br>tonight<br>decade |  
+| bip_39_word_new_br12 | belt<br>genre<br>make<br>situate<br>under<br>faint<br>wrestle<br>filter<br>cabin<br>tonight<br>decade<br>also |  
+| bip_39_word_new_br2 | belt<br>genre |  
+| bip_39_word_new_br3 | belt<br>genre<br>make |  
+| bip_39_word_new_br4 | belt<br>genre<br>make<br>situate |  
+| bip_39_word_new_br5 | belt<br>genre<br>make<br>situate<br>under |  
+| bip_39_word_new_br6 | belt<br>genre<br>make<br>situate<br>under<br>faint |  
+| bip_39_word_new_br7 | belt<br>genre<br>make<br>situate<br>under<br>faint<br>wrestle |  
+| bip_39_word_new_br8 | belt<br>genre<br>make<br>situate<br>under<br>faint<br>wrestle<br>filter |  
+| bip_39_word_new_br9 | belt<br>genre<br>make<br>situate<br>under<br>faint<br>wrestle<br>filter<br>cabin |  
+| bip_39_word_new_line1 | belt |  
+| bip_39_word_new_line10 | belt
+genre
+make
+situate
+under
+faint
+wrestle
+filter
+cabin
+tonight |  
+| bip_39_word_new_line11 | belt
+genre
+make
+situate
+under
+faint
+wrestle
+filter
+cabin
+tonight
+decade |  
+| bip_39_word_new_line12 | belt
+genre
+make
+situate
+under
+faint
+wrestle
+filter
+cabin
+tonight
+decade
+also |  
+| bip_39_word_new_line2 | belt
+genre |  
+| bip_39_word_new_line3 | belt
+genre
+make |  
+| bip_39_word_new_line4 | belt
+genre
+make
+situate |  
+| bip_39_word_new_line5 | belt
+genre
+make
+situate
+under |  
+| bip_39_word_new_line6 | belt
+genre
+make
+situate
+under
+faint |  
+| bip_39_word_new_line7 | belt
+genre
+make
+situate
+under
+faint
+wrestle |  
+| bip_39_word_new_line8 | belt
+genre
+make
+situate
+under
+faint
+wrestle
+filter |  
+| bip_39_word_new_line9 | belt
+genre
+make
+situate
+under
+faint
+wrestle
+filter
+cabin |  
+| bip_39_word_space_0 | ['belt', 'genre', 'make', 'situate', 'under', 'faint', 'wrestle', 'filter', 'cabin', 'tonight', 'decade', 'also'] |  
+| bip_39_word_space_1 | belt |  
+| bip_39_word_space_10 | belt genre make situate under faint wrestle filter cabin tonight |  
+| bip_39_word_space_11 | belt genre make situate under faint wrestle filter cabin tonight decade |  
+| bip_39_word_space_12 | belt genre make situate under faint wrestle filter cabin tonight decade also |  
+| bip_39_word_space_2 | belt genre |  
+| bip_39_word_space_3 | belt genre make |  
+| bip_39_word_space_4 | belt genre make situate |  
+| bip_39_word_space_5 | belt genre make situate under |  
+| bip_39_word_space_6 | belt genre make situate under faint |  
+| bip_39_word_space_7 | belt genre make situate under faint wrestle |  
+| bip_39_word_space_8 | belt genre make situate under faint wrestle filter |  
+| bip_39_word_space_9 | belt genre make situate under faint wrestle filter cabin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

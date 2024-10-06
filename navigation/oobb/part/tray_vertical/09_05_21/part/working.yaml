@@ -1,3 +1,187 @@
+bip_39_word_new_br1: firm
+bip_39_word_new_br10: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer<br>kidney<br>question<br>quit<br>flavor
+bip_39_word_new_br11: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer<br>kidney<br>question<br>quit<br>flavor<br>unaware
+bip_39_word_new_br12: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer<br>kidney<br>question<br>quit<br>flavor<br>unaware<br>apart
+bip_39_word_new_br2: firm<br>plastic
+bip_39_word_new_br3: firm<br>plastic<br>civil
+bip_39_word_new_br4: firm<br>plastic<br>civil<br>discover
+bip_39_word_new_br5: firm<br>plastic<br>civil<br>discover<br>tilt
+bip_39_word_new_br6: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer
+bip_39_word_new_br7: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer<br>kidney
+bip_39_word_new_br8: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer<br>kidney<br>question
+bip_39_word_new_br9: firm<br>plastic<br>civil<br>discover<br>tilt<br>layer<br>kidney<br>question<br>quit
+bip_39_word_new_line1: firm
+bip_39_word_new_line10: 'firm
+
+  plastic
+
+  civil
+
+  discover
+
+  tilt
+
+  layer
+
+  kidney
+
+  question
+
+  quit
+
+  flavor'
+bip_39_word_new_line11: 'firm
+
+  plastic
+
+  civil
+
+  discover
+
+  tilt
+
+  layer
+
+  kidney
+
+  question
+
+  quit
+
+  flavor
+
+  unaware'
+bip_39_word_new_line12: 'firm
+
+  plastic
+
+  civil
+
+  discover
+
+  tilt
+
+  layer
+
+  kidney
+
+  question
+
+  quit
+
+  flavor
+
+  unaware
+
+  apart'
+bip_39_word_new_line2: 'firm
+
+  plastic'
+bip_39_word_new_line3: 'firm
+
+  plastic
+
+  civil'
+bip_39_word_new_line4: 'firm
+
+  plastic
+
+  civil
+
+  discover'
+bip_39_word_new_line5: 'firm
+
+  plastic
+
+  civil
+
+  discover
+
+  tilt'
+bip_39_word_new_line6: 'firm
+
+  plastic
+
+  civil
+
+  discover
+
+  tilt
+
+  layer'
+bip_39_word_new_line7: 'firm
+
+  plastic
+
+  civil
+
+  discover
+
+  tilt
+
+  layer
+
+  kidney'
+bip_39_word_new_line8: 'firm
+
+  plastic
+
+  civil
+
+  discover
+
+  tilt
+
+  layer
+
+  kidney
+
+  question'
+bip_39_word_new_line9: 'firm
+
+  plastic
+
+  civil
+
+  discover
+
+  tilt
+
+  layer
+
+  kidney
+
+  question
+
+  quit'
+bip_39_word_space_0:
+- firm
+- plastic
+- civil
+- discover
+- tilt
+- layer
+- kidney
+- question
+- quit
+- flavor
+- unaware
+- apart
+bip_39_word_space_1: firm
+bip_39_word_space_10: firm plastic civil discover tilt layer kidney question quit
+  flavor
+bip_39_word_space_11: firm plastic civil discover tilt layer kidney question quit
+  flavor unaware
+bip_39_word_space_12: firm plastic civil discover tilt layer kidney question quit
+  flavor unaware apart
+bip_39_word_space_2: firm plastic
+bip_39_word_space_3: firm plastic civil
+bip_39_word_space_4: firm plastic civil discover
+bip_39_word_space_5: firm plastic civil discover tilt
+bip_39_word_space_6: firm plastic civil discover tilt layer
+bip_39_word_space_7: firm plastic civil discover tilt layer kidney
+bip_39_word_space_8: firm plastic civil discover tilt layer kidney question
+bip_39_word_space_9: firm plastic civil discover tilt layer kidney question quit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

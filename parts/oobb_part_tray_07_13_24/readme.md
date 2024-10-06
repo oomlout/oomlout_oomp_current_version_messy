@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: conduct swap
+  * bip 39 word 3: conduct swap december
+  * bip 39 word: conduct swap december license atom asthma melt clog eyebrow flat track advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | conduct |  
+| bip_39_word_new_br10 | conduct<br>swap<br>december<br>license<br>atom<br>asthma<br>melt<br>clog<br>eyebrow<br>flat |  
+| bip_39_word_new_br11 | conduct<br>swap<br>december<br>license<br>atom<br>asthma<br>melt<br>clog<br>eyebrow<br>flat<br>track |  
+| bip_39_word_new_br12 | conduct<br>swap<br>december<br>license<br>atom<br>asthma<br>melt<br>clog<br>eyebrow<br>flat<br>track<br>advance |  
+| bip_39_word_new_br2 | conduct<br>swap |  
+| bip_39_word_new_br3 | conduct<br>swap<br>december |  
+| bip_39_word_new_br4 | conduct<br>swap<br>december<br>license |  
+| bip_39_word_new_br5 | conduct<br>swap<br>december<br>license<br>atom |  
+| bip_39_word_new_br6 | conduct<br>swap<br>december<br>license<br>atom<br>asthma |  
+| bip_39_word_new_br7 | conduct<br>swap<br>december<br>license<br>atom<br>asthma<br>melt |  
+| bip_39_word_new_br8 | conduct<br>swap<br>december<br>license<br>atom<br>asthma<br>melt<br>clog |  
+| bip_39_word_new_br9 | conduct<br>swap<br>december<br>license<br>atom<br>asthma<br>melt<br>clog<br>eyebrow |  
+| bip_39_word_new_line1 | conduct |  
+| bip_39_word_new_line10 | conduct
+swap
+december
+license
+atom
+asthma
+melt
+clog
+eyebrow
+flat |  
+| bip_39_word_new_line11 | conduct
+swap
+december
+license
+atom
+asthma
+melt
+clog
+eyebrow
+flat
+track |  
+| bip_39_word_new_line12 | conduct
+swap
+december
+license
+atom
+asthma
+melt
+clog
+eyebrow
+flat
+track
+advance |  
+| bip_39_word_new_line2 | conduct
+swap |  
+| bip_39_word_new_line3 | conduct
+swap
+december |  
+| bip_39_word_new_line4 | conduct
+swap
+december
+license |  
+| bip_39_word_new_line5 | conduct
+swap
+december
+license
+atom |  
+| bip_39_word_new_line6 | conduct
+swap
+december
+license
+atom
+asthma |  
+| bip_39_word_new_line7 | conduct
+swap
+december
+license
+atom
+asthma
+melt |  
+| bip_39_word_new_line8 | conduct
+swap
+december
+license
+atom
+asthma
+melt
+clog |  
+| bip_39_word_new_line9 | conduct
+swap
+december
+license
+atom
+asthma
+melt
+clog
+eyebrow |  
+| bip_39_word_space_0 | ['conduct', 'swap', 'december', 'license', 'atom', 'asthma', 'melt', 'clog', 'eyebrow', 'flat', 'track', 'advance'] |  
+| bip_39_word_space_1 | conduct |  
+| bip_39_word_space_10 | conduct swap december license atom asthma melt clog eyebrow flat |  
+| bip_39_word_space_11 | conduct swap december license atom asthma melt clog eyebrow flat track |  
+| bip_39_word_space_12 | conduct swap december license atom asthma melt clog eyebrow flat track advance |  
+| bip_39_word_space_2 | conduct swap |  
+| bip_39_word_space_3 | conduct swap december |  
+| bip_39_word_space_4 | conduct swap december license |  
+| bip_39_word_space_5 | conduct swap december license atom |  
+| bip_39_word_space_6 | conduct swap december license atom asthma |  
+| bip_39_word_space_7 | conduct swap december license atom asthma melt |  
+| bip_39_word_space_8 | conduct swap december license atom asthma melt clog |  
+| bip_39_word_space_9 | conduct swap december license atom asthma melt clog eyebrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

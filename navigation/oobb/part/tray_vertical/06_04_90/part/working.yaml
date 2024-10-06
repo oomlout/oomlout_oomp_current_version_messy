@@ -1,3 +1,186 @@
+bip_39_word_new_br1: jungle
+bip_39_word_new_br10: jungle<br>spy<br>genre<br>sport<br>hold<br>visa<br>float<br>tourist<br>hobby<br>spirit
+bip_39_word_new_br11: jungle<br>spy<br>genre<br>sport<br>hold<br>visa<br>float<br>tourist<br>hobby<br>spirit<br>angry
+bip_39_word_new_br12: jungle<br>spy<br>genre<br>sport<br>hold<br>visa<br>float<br>tourist<br>hobby<br>spirit<br>angry<br>actor
+bip_39_word_new_br2: jungle<br>spy
+bip_39_word_new_br3: jungle<br>spy<br>genre
+bip_39_word_new_br4: jungle<br>spy<br>genre<br>sport
+bip_39_word_new_br5: jungle<br>spy<br>genre<br>sport<br>hold
+bip_39_word_new_br6: jungle<br>spy<br>genre<br>sport<br>hold<br>visa
+bip_39_word_new_br7: jungle<br>spy<br>genre<br>sport<br>hold<br>visa<br>float
+bip_39_word_new_br8: jungle<br>spy<br>genre<br>sport<br>hold<br>visa<br>float<br>tourist
+bip_39_word_new_br9: jungle<br>spy<br>genre<br>sport<br>hold<br>visa<br>float<br>tourist<br>hobby
+bip_39_word_new_line1: jungle
+bip_39_word_new_line10: 'jungle
+
+  spy
+
+  genre
+
+  sport
+
+  hold
+
+  visa
+
+  float
+
+  tourist
+
+  hobby
+
+  spirit'
+bip_39_word_new_line11: 'jungle
+
+  spy
+
+  genre
+
+  sport
+
+  hold
+
+  visa
+
+  float
+
+  tourist
+
+  hobby
+
+  spirit
+
+  angry'
+bip_39_word_new_line12: 'jungle
+
+  spy
+
+  genre
+
+  sport
+
+  hold
+
+  visa
+
+  float
+
+  tourist
+
+  hobby
+
+  spirit
+
+  angry
+
+  actor'
+bip_39_word_new_line2: 'jungle
+
+  spy'
+bip_39_word_new_line3: 'jungle
+
+  spy
+
+  genre'
+bip_39_word_new_line4: 'jungle
+
+  spy
+
+  genre
+
+  sport'
+bip_39_word_new_line5: 'jungle
+
+  spy
+
+  genre
+
+  sport
+
+  hold'
+bip_39_word_new_line6: 'jungle
+
+  spy
+
+  genre
+
+  sport
+
+  hold
+
+  visa'
+bip_39_word_new_line7: 'jungle
+
+  spy
+
+  genre
+
+  sport
+
+  hold
+
+  visa
+
+  float'
+bip_39_word_new_line8: 'jungle
+
+  spy
+
+  genre
+
+  sport
+
+  hold
+
+  visa
+
+  float
+
+  tourist'
+bip_39_word_new_line9: 'jungle
+
+  spy
+
+  genre
+
+  sport
+
+  hold
+
+  visa
+
+  float
+
+  tourist
+
+  hobby'
+bip_39_word_space_0:
+- jungle
+- spy
+- genre
+- sport
+- hold
+- visa
+- float
+- tourist
+- hobby
+- spirit
+- angry
+- actor
+bip_39_word_space_1: jungle
+bip_39_word_space_10: jungle spy genre sport hold visa float tourist hobby spirit
+bip_39_word_space_11: jungle spy genre sport hold visa float tourist hobby spirit
+  angry
+bip_39_word_space_12: jungle spy genre sport hold visa float tourist hobby spirit
+  angry actor
+bip_39_word_space_2: jungle spy
+bip_39_word_space_3: jungle spy genre
+bip_39_word_space_4: jungle spy genre sport
+bip_39_word_space_5: jungle spy genre sport hold
+bip_39_word_space_6: jungle spy genre sport hold visa
+bip_39_word_space_7: jungle spy genre sport hold visa float
+bip_39_word_space_8: jungle spy genre sport hold visa float tourist
+bip_39_word_space_9: jungle spy genre sport hold visa float tourist hobby
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

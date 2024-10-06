@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: whale knee
+  * bip 39 word 3: whale knee armed
+  * bip 39 word: whale knee armed best hurt super tiger load glance habit envelope about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | whale |  
+| bip_39_word_new_br10 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit |  
+| bip_39_word_new_br11 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit<br>envelope |  
+| bip_39_word_new_br12 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance<br>habit<br>envelope<br>about |  
+| bip_39_word_new_br2 | whale<br>knee |  
+| bip_39_word_new_br3 | whale<br>knee<br>armed |  
+| bip_39_word_new_br4 | whale<br>knee<br>armed<br>best |  
+| bip_39_word_new_br5 | whale<br>knee<br>armed<br>best<br>hurt |  
+| bip_39_word_new_br6 | whale<br>knee<br>armed<br>best<br>hurt<br>super |  
+| bip_39_word_new_br7 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger |  
+| bip_39_word_new_br8 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load |  
+| bip_39_word_new_br9 | whale<br>knee<br>armed<br>best<br>hurt<br>super<br>tiger<br>load<br>glance |  
+| bip_39_word_new_line1 | whale |  
+| bip_39_word_new_line10 | whale
+knee
+armed
+best
+hurt
+super
+tiger
+load
+glance
+habit |  
+| bip_39_word_new_line11 | whale
+knee
+armed
+best
+hurt
+super
+tiger
+load
+glance
+habit
+envelope |  
+| bip_39_word_new_line12 | whale
+knee
+armed
+best
+hurt
+super
+tiger
+load
+glance
+habit
+envelope
+about |  
+| bip_39_word_new_line2 | whale
+knee |  
+| bip_39_word_new_line3 | whale
+knee
+armed |  
+| bip_39_word_new_line4 | whale
+knee
+armed
+best |  
+| bip_39_word_new_line5 | whale
+knee
+armed
+best
+hurt |  
+| bip_39_word_new_line6 | whale
+knee
+armed
+best
+hurt
+super |  
+| bip_39_word_new_line7 | whale
+knee
+armed
+best
+hurt
+super
+tiger |  
+| bip_39_word_new_line8 | whale
+knee
+armed
+best
+hurt
+super
+tiger
+load |  
+| bip_39_word_new_line9 | whale
+knee
+armed
+best
+hurt
+super
+tiger
+load
+glance |  
+| bip_39_word_space_0 | ['whale', 'knee', 'armed', 'best', 'hurt', 'super', 'tiger', 'load', 'glance', 'habit', 'envelope', 'about'] |  
+| bip_39_word_space_1 | whale |  
+| bip_39_word_space_10 | whale knee armed best hurt super tiger load glance habit |  
+| bip_39_word_space_11 | whale knee armed best hurt super tiger load glance habit envelope |  
+| bip_39_word_space_12 | whale knee armed best hurt super tiger load glance habit envelope about |  
+| bip_39_word_space_2 | whale knee |  
+| bip_39_word_space_3 | whale knee armed |  
+| bip_39_word_space_4 | whale knee armed best |  
+| bip_39_word_space_5 | whale knee armed best hurt |  
+| bip_39_word_space_6 | whale knee armed best hurt super |  
+| bip_39_word_space_7 | whale knee armed best hurt super tiger |  
+| bip_39_word_space_8 | whale knee armed best hurt super tiger load |  
+| bip_39_word_space_9 | whale knee armed best hurt super tiger load glance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

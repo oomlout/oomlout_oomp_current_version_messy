@@ -1,3 +1,186 @@
+bip_39_word_new_br1: script
+bip_39_word_new_br10: script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check
+bip_39_word_new_br11: script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check<br>caution
+bip_39_word_new_br12: script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand<br>check<br>caution<br>admit
+bip_39_word_new_br2: script<br>mesh
+bip_39_word_new_br3: script<br>mesh<br>address
+bip_39_word_new_br4: script<br>mesh<br>address<br>admit
+bip_39_word_new_br5: script<br>mesh<br>address<br>admit<br>cradle
+bip_39_word_new_br6: script<br>mesh<br>address<br>admit<br>cradle<br>box
+bip_39_word_new_br7: script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior
+bip_39_word_new_br8: script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup
+bip_39_word_new_br9: script<br>mesh<br>address<br>admit<br>cradle<br>box<br>junior<br>cup<br>demand
+bip_39_word_new_line1: script
+bip_39_word_new_line10: 'script
+
+  mesh
+
+  address
+
+  admit
+
+  cradle
+
+  box
+
+  junior
+
+  cup
+
+  demand
+
+  check'
+bip_39_word_new_line11: 'script
+
+  mesh
+
+  address
+
+  admit
+
+  cradle
+
+  box
+
+  junior
+
+  cup
+
+  demand
+
+  check
+
+  caution'
+bip_39_word_new_line12: 'script
+
+  mesh
+
+  address
+
+  admit
+
+  cradle
+
+  box
+
+  junior
+
+  cup
+
+  demand
+
+  check
+
+  caution
+
+  admit'
+bip_39_word_new_line2: 'script
+
+  mesh'
+bip_39_word_new_line3: 'script
+
+  mesh
+
+  address'
+bip_39_word_new_line4: 'script
+
+  mesh
+
+  address
+
+  admit'
+bip_39_word_new_line5: 'script
+
+  mesh
+
+  address
+
+  admit
+
+  cradle'
+bip_39_word_new_line6: 'script
+
+  mesh
+
+  address
+
+  admit
+
+  cradle
+
+  box'
+bip_39_word_new_line7: 'script
+
+  mesh
+
+  address
+
+  admit
+
+  cradle
+
+  box
+
+  junior'
+bip_39_word_new_line8: 'script
+
+  mesh
+
+  address
+
+  admit
+
+  cradle
+
+  box
+
+  junior
+
+  cup'
+bip_39_word_new_line9: 'script
+
+  mesh
+
+  address
+
+  admit
+
+  cradle
+
+  box
+
+  junior
+
+  cup
+
+  demand'
+bip_39_word_space_0:
+- script
+- mesh
+- address
+- admit
+- cradle
+- box
+- junior
+- cup
+- demand
+- check
+- caution
+- admit
+bip_39_word_space_1: script
+bip_39_word_space_10: script mesh address admit cradle box junior cup demand check
+bip_39_word_space_11: script mesh address admit cradle box junior cup demand check
+  caution
+bip_39_word_space_12: script mesh address admit cradle box junior cup demand check
+  caution admit
+bip_39_word_space_2: script mesh
+bip_39_word_space_3: script mesh address
+bip_39_word_space_4: script mesh address admit
+bip_39_word_space_5: script mesh address admit cradle
+bip_39_word_space_6: script mesh address admit cradle box
+bip_39_word_space_7: script mesh address admit cradle box junior
+bip_39_word_space_8: script mesh address admit cradle box junior cup
+bip_39_word_space_9: script mesh address admit cradle box junior cup demand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

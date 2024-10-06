@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cash peanut
+  * bip 39 word 3: cash peanut school
+  * bip 39 word: cash peanut school orphan what beef range pave model kangaroo solid angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cash |  
+| bip_39_word_new_br10 | cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model<br>kangaroo |  
+| bip_39_word_new_br11 | cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model<br>kangaroo<br>solid |  
+| bip_39_word_new_br12 | cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model<br>kangaroo<br>solid<br>angry |  
+| bip_39_word_new_br2 | cash<br>peanut |  
+| bip_39_word_new_br3 | cash<br>peanut<br>school |  
+| bip_39_word_new_br4 | cash<br>peanut<br>school<br>orphan |  
+| bip_39_word_new_br5 | cash<br>peanut<br>school<br>orphan<br>what |  
+| bip_39_word_new_br6 | cash<br>peanut<br>school<br>orphan<br>what<br>beef |  
+| bip_39_word_new_br7 | cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range |  
+| bip_39_word_new_br8 | cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave |  
+| bip_39_word_new_br9 | cash<br>peanut<br>school<br>orphan<br>what<br>beef<br>range<br>pave<br>model |  
+| bip_39_word_new_line1 | cash |  
+| bip_39_word_new_line10 | cash
+peanut
+school
+orphan
+what
+beef
+range
+pave
+model
+kangaroo |  
+| bip_39_word_new_line11 | cash
+peanut
+school
+orphan
+what
+beef
+range
+pave
+model
+kangaroo
+solid |  
+| bip_39_word_new_line12 | cash
+peanut
+school
+orphan
+what
+beef
+range
+pave
+model
+kangaroo
+solid
+angry |  
+| bip_39_word_new_line2 | cash
+peanut |  
+| bip_39_word_new_line3 | cash
+peanut
+school |  
+| bip_39_word_new_line4 | cash
+peanut
+school
+orphan |  
+| bip_39_word_new_line5 | cash
+peanut
+school
+orphan
+what |  
+| bip_39_word_new_line6 | cash
+peanut
+school
+orphan
+what
+beef |  
+| bip_39_word_new_line7 | cash
+peanut
+school
+orphan
+what
+beef
+range |  
+| bip_39_word_new_line8 | cash
+peanut
+school
+orphan
+what
+beef
+range
+pave |  
+| bip_39_word_new_line9 | cash
+peanut
+school
+orphan
+what
+beef
+range
+pave
+model |  
+| bip_39_word_space_0 | ['cash', 'peanut', 'school', 'orphan', 'what', 'beef', 'range', 'pave', 'model', 'kangaroo', 'solid', 'angry'] |  
+| bip_39_word_space_1 | cash |  
+| bip_39_word_space_10 | cash peanut school orphan what beef range pave model kangaroo |  
+| bip_39_word_space_11 | cash peanut school orphan what beef range pave model kangaroo solid |  
+| bip_39_word_space_12 | cash peanut school orphan what beef range pave model kangaroo solid angry |  
+| bip_39_word_space_2 | cash peanut |  
+| bip_39_word_space_3 | cash peanut school |  
+| bip_39_word_space_4 | cash peanut school orphan |  
+| bip_39_word_space_5 | cash peanut school orphan what |  
+| bip_39_word_space_6 | cash peanut school orphan what beef |  
+| bip_39_word_space_7 | cash peanut school orphan what beef range |  
+| bip_39_word_space_8 | cash peanut school orphan what beef range pave |  
+| bip_39_word_space_9 | cash peanut school orphan what beef range pave model |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

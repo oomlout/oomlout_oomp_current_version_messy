@@ -1,3 +1,187 @@
+bip_39_word_new_br1: inflict
+bip_39_word_new_br10: inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo<br>lake<br>trigger<br>real<br>dolphin
+bip_39_word_new_br11: inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo<br>lake<br>trigger<br>real<br>dolphin<br>index
+bip_39_word_new_br12: inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo<br>lake<br>trigger<br>real<br>dolphin<br>index<br>abuse
+bip_39_word_new_br2: inflict<br>diesel
+bip_39_word_new_br3: inflict<br>diesel<br>badge
+bip_39_word_new_br4: inflict<br>diesel<br>badge<br>dinosaur
+bip_39_word_new_br5: inflict<br>diesel<br>badge<br>dinosaur<br>goddess
+bip_39_word_new_br6: inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo
+bip_39_word_new_br7: inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo<br>lake
+bip_39_word_new_br8: inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo<br>lake<br>trigger
+bip_39_word_new_br9: inflict<br>diesel<br>badge<br>dinosaur<br>goddess<br>echo<br>lake<br>trigger<br>real
+bip_39_word_new_line1: inflict
+bip_39_word_new_line10: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur
+
+  goddess
+
+  echo
+
+  lake
+
+  trigger
+
+  real
+
+  dolphin'
+bip_39_word_new_line11: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur
+
+  goddess
+
+  echo
+
+  lake
+
+  trigger
+
+  real
+
+  dolphin
+
+  index'
+bip_39_word_new_line12: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur
+
+  goddess
+
+  echo
+
+  lake
+
+  trigger
+
+  real
+
+  dolphin
+
+  index
+
+  abuse'
+bip_39_word_new_line2: 'inflict
+
+  diesel'
+bip_39_word_new_line3: 'inflict
+
+  diesel
+
+  badge'
+bip_39_word_new_line4: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur'
+bip_39_word_new_line5: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur
+
+  goddess'
+bip_39_word_new_line6: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur
+
+  goddess
+
+  echo'
+bip_39_word_new_line7: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur
+
+  goddess
+
+  echo
+
+  lake'
+bip_39_word_new_line8: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur
+
+  goddess
+
+  echo
+
+  lake
+
+  trigger'
+bip_39_word_new_line9: 'inflict
+
+  diesel
+
+  badge
+
+  dinosaur
+
+  goddess
+
+  echo
+
+  lake
+
+  trigger
+
+  real'
+bip_39_word_space_0:
+- inflict
+- diesel
+- badge
+- dinosaur
+- goddess
+- echo
+- lake
+- trigger
+- real
+- dolphin
+- index
+- abuse
+bip_39_word_space_1: inflict
+bip_39_word_space_10: inflict diesel badge dinosaur goddess echo lake trigger real
+  dolphin
+bip_39_word_space_11: inflict diesel badge dinosaur goddess echo lake trigger real
+  dolphin index
+bip_39_word_space_12: inflict diesel badge dinosaur goddess echo lake trigger real
+  dolphin index abuse
+bip_39_word_space_2: inflict diesel
+bip_39_word_space_3: inflict diesel badge
+bip_39_word_space_4: inflict diesel badge dinosaur
+bip_39_word_space_5: inflict diesel badge dinosaur goddess
+bip_39_word_space_6: inflict diesel badge dinosaur goddess echo
+bip_39_word_space_7: inflict diesel badge dinosaur goddess echo lake
+bip_39_word_space_8: inflict diesel badge dinosaur goddess echo lake trigger
+bip_39_word_space_9: inflict diesel badge dinosaur goddess echo lake trigger real
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

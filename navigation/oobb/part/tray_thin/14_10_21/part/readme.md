@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: name track
+  * bip 39 word 3: name track science
+  * bip 39 word: name track science sponsor swing cousin math pair seminar arrest ready ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | name |  
+| bip_39_word_new_br10 | name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar<br>arrest |  
+| bip_39_word_new_br11 | name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar<br>arrest<br>ready |  
+| bip_39_word_new_br12 | name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar<br>arrest<br>ready<br>ask |  
+| bip_39_word_new_br2 | name<br>track |  
+| bip_39_word_new_br3 | name<br>track<br>science |  
+| bip_39_word_new_br4 | name<br>track<br>science<br>sponsor |  
+| bip_39_word_new_br5 | name<br>track<br>science<br>sponsor<br>swing |  
+| bip_39_word_new_br6 | name<br>track<br>science<br>sponsor<br>swing<br>cousin |  
+| bip_39_word_new_br7 | name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math |  
+| bip_39_word_new_br8 | name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair |  
+| bip_39_word_new_br9 | name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar |  
+| bip_39_word_new_line1 | name |  
+| bip_39_word_new_line10 | name
+track
+science
+sponsor
+swing
+cousin
+math
+pair
+seminar
+arrest |  
+| bip_39_word_new_line11 | name
+track
+science
+sponsor
+swing
+cousin
+math
+pair
+seminar
+arrest
+ready |  
+| bip_39_word_new_line12 | name
+track
+science
+sponsor
+swing
+cousin
+math
+pair
+seminar
+arrest
+ready
+ask |  
+| bip_39_word_new_line2 | name
+track |  
+| bip_39_word_new_line3 | name
+track
+science |  
+| bip_39_word_new_line4 | name
+track
+science
+sponsor |  
+| bip_39_word_new_line5 | name
+track
+science
+sponsor
+swing |  
+| bip_39_word_new_line6 | name
+track
+science
+sponsor
+swing
+cousin |  
+| bip_39_word_new_line7 | name
+track
+science
+sponsor
+swing
+cousin
+math |  
+| bip_39_word_new_line8 | name
+track
+science
+sponsor
+swing
+cousin
+math
+pair |  
+| bip_39_word_new_line9 | name
+track
+science
+sponsor
+swing
+cousin
+math
+pair
+seminar |  
+| bip_39_word_space_0 | ['name', 'track', 'science', 'sponsor', 'swing', 'cousin', 'math', 'pair', 'seminar', 'arrest', 'ready', 'ask'] |  
+| bip_39_word_space_1 | name |  
+| bip_39_word_space_10 | name track science sponsor swing cousin math pair seminar arrest |  
+| bip_39_word_space_11 | name track science sponsor swing cousin math pair seminar arrest ready |  
+| bip_39_word_space_12 | name track science sponsor swing cousin math pair seminar arrest ready ask |  
+| bip_39_word_space_2 | name track |  
+| bip_39_word_space_3 | name track science |  
+| bip_39_word_space_4 | name track science sponsor |  
+| bip_39_word_space_5 | name track science sponsor swing |  
+| bip_39_word_space_6 | name track science sponsor swing cousin |  
+| bip_39_word_space_7 | name track science sponsor swing cousin math |  
+| bip_39_word_space_8 | name track science sponsor swing cousin math pair |  
+| bip_39_word_space_9 | name track science sponsor swing cousin math pair seminar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

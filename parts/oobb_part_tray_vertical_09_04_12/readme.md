@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quick bubble
+  * bip 39 word 3: quick bubble vivid
+  * bip 39 word: quick bubble vivid ready purpose view wear key elder album cargo area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quick |  
+| bip_39_word_new_br10 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view<br>wear<br>key<br>elder<br>album |  
+| bip_39_word_new_br11 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view<br>wear<br>key<br>elder<br>album<br>cargo |  
+| bip_39_word_new_br12 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view<br>wear<br>key<br>elder<br>album<br>cargo<br>area |  
+| bip_39_word_new_br2 | quick<br>bubble |  
+| bip_39_word_new_br3 | quick<br>bubble<br>vivid |  
+| bip_39_word_new_br4 | quick<br>bubble<br>vivid<br>ready |  
+| bip_39_word_new_br5 | quick<br>bubble<br>vivid<br>ready<br>purpose |  
+| bip_39_word_new_br6 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view |  
+| bip_39_word_new_br7 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view<br>wear |  
+| bip_39_word_new_br8 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view<br>wear<br>key |  
+| bip_39_word_new_br9 | quick<br>bubble<br>vivid<br>ready<br>purpose<br>view<br>wear<br>key<br>elder |  
+| bip_39_word_new_line1 | quick |  
+| bip_39_word_new_line10 | quick
+bubble
+vivid
+ready
+purpose
+view
+wear
+key
+elder
+album |  
+| bip_39_word_new_line11 | quick
+bubble
+vivid
+ready
+purpose
+view
+wear
+key
+elder
+album
+cargo |  
+| bip_39_word_new_line12 | quick
+bubble
+vivid
+ready
+purpose
+view
+wear
+key
+elder
+album
+cargo
+area |  
+| bip_39_word_new_line2 | quick
+bubble |  
+| bip_39_word_new_line3 | quick
+bubble
+vivid |  
+| bip_39_word_new_line4 | quick
+bubble
+vivid
+ready |  
+| bip_39_word_new_line5 | quick
+bubble
+vivid
+ready
+purpose |  
+| bip_39_word_new_line6 | quick
+bubble
+vivid
+ready
+purpose
+view |  
+| bip_39_word_new_line7 | quick
+bubble
+vivid
+ready
+purpose
+view
+wear |  
+| bip_39_word_new_line8 | quick
+bubble
+vivid
+ready
+purpose
+view
+wear
+key |  
+| bip_39_word_new_line9 | quick
+bubble
+vivid
+ready
+purpose
+view
+wear
+key
+elder |  
+| bip_39_word_space_0 | ['quick', 'bubble', 'vivid', 'ready', 'purpose', 'view', 'wear', 'key', 'elder', 'album', 'cargo', 'area'] |  
+| bip_39_word_space_1 | quick |  
+| bip_39_word_space_10 | quick bubble vivid ready purpose view wear key elder album |  
+| bip_39_word_space_11 | quick bubble vivid ready purpose view wear key elder album cargo |  
+| bip_39_word_space_12 | quick bubble vivid ready purpose view wear key elder album cargo area |  
+| bip_39_word_space_2 | quick bubble |  
+| bip_39_word_space_3 | quick bubble vivid |  
+| bip_39_word_space_4 | quick bubble vivid ready |  
+| bip_39_word_space_5 | quick bubble vivid ready purpose |  
+| bip_39_word_space_6 | quick bubble vivid ready purpose view |  
+| bip_39_word_space_7 | quick bubble vivid ready purpose view wear |  
+| bip_39_word_space_8 | quick bubble vivid ready purpose view wear key |  
+| bip_39_word_space_9 | quick bubble vivid ready purpose view wear key elder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

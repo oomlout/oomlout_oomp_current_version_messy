@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 8_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: forward doll
+  * bip 39 word 3: forward doll thunder
+  * bip 39 word: forward doll thunder aspect purity alien travel weapon weapon segment garlic annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | forward |  
+| bip_39_word_new_br10 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien<br>travel<br>weapon<br>weapon<br>segment |  
+| bip_39_word_new_br11 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien<br>travel<br>weapon<br>weapon<br>segment<br>garlic |  
+| bip_39_word_new_br12 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien<br>travel<br>weapon<br>weapon<br>segment<br>garlic<br>annual |  
+| bip_39_word_new_br2 | forward<br>doll |  
+| bip_39_word_new_br3 | forward<br>doll<br>thunder |  
+| bip_39_word_new_br4 | forward<br>doll<br>thunder<br>aspect |  
+| bip_39_word_new_br5 | forward<br>doll<br>thunder<br>aspect<br>purity |  
+| bip_39_word_new_br6 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien |  
+| bip_39_word_new_br7 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien<br>travel |  
+| bip_39_word_new_br8 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien<br>travel<br>weapon |  
+| bip_39_word_new_br9 | forward<br>doll<br>thunder<br>aspect<br>purity<br>alien<br>travel<br>weapon<br>weapon |  
+| bip_39_word_new_line1 | forward |  
+| bip_39_word_new_line10 | forward
+doll
+thunder
+aspect
+purity
+alien
+travel
+weapon
+weapon
+segment |  
+| bip_39_word_new_line11 | forward
+doll
+thunder
+aspect
+purity
+alien
+travel
+weapon
+weapon
+segment
+garlic |  
+| bip_39_word_new_line12 | forward
+doll
+thunder
+aspect
+purity
+alien
+travel
+weapon
+weapon
+segment
+garlic
+annual |  
+| bip_39_word_new_line2 | forward
+doll |  
+| bip_39_word_new_line3 | forward
+doll
+thunder |  
+| bip_39_word_new_line4 | forward
+doll
+thunder
+aspect |  
+| bip_39_word_new_line5 | forward
+doll
+thunder
+aspect
+purity |  
+| bip_39_word_new_line6 | forward
+doll
+thunder
+aspect
+purity
+alien |  
+| bip_39_word_new_line7 | forward
+doll
+thunder
+aspect
+purity
+alien
+travel |  
+| bip_39_word_new_line8 | forward
+doll
+thunder
+aspect
+purity
+alien
+travel
+weapon |  
+| bip_39_word_new_line9 | forward
+doll
+thunder
+aspect
+purity
+alien
+travel
+weapon
+weapon |  
+| bip_39_word_space_0 | ['forward', 'doll', 'thunder', 'aspect', 'purity', 'alien', 'travel', 'weapon', 'weapon', 'segment', 'garlic', 'annual'] |  
+| bip_39_word_space_1 | forward |  
+| bip_39_word_space_10 | forward doll thunder aspect purity alien travel weapon weapon segment |  
+| bip_39_word_space_11 | forward doll thunder aspect purity alien travel weapon weapon segment garlic |  
+| bip_39_word_space_12 | forward doll thunder aspect purity alien travel weapon weapon segment garlic annual |  
+| bip_39_word_space_2 | forward doll |  
+| bip_39_word_space_3 | forward doll thunder |  
+| bip_39_word_space_4 | forward doll thunder aspect |  
+| bip_39_word_space_5 | forward doll thunder aspect purity |  
+| bip_39_word_space_6 | forward doll thunder aspect purity alien |  
+| bip_39_word_space_7 | forward doll thunder aspect purity alien travel |  
+| bip_39_word_space_8 | forward doll thunder aspect purity alien travel weapon |  
+| bip_39_word_space_9 | forward doll thunder aspect purity alien travel weapon weapon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

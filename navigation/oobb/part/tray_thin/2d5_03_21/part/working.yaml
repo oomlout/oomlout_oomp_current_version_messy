@@ -1,3 +1,187 @@
+bip_39_word_new_br1: month
+bip_39_word_new_br10: month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social<br>cheap<br>symbol<br>polar<br>loop
+bip_39_word_new_br11: month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social<br>cheap<br>symbol<br>polar<br>loop<br>capital
+bip_39_word_new_br12: month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social<br>cheap<br>symbol<br>polar<br>loop<br>capital<br>assume
+bip_39_word_new_br2: month<br>hospital
+bip_39_word_new_br3: month<br>hospital<br>diesel
+bip_39_word_new_br4: month<br>hospital<br>diesel<br>fatigue
+bip_39_word_new_br5: month<br>hospital<br>diesel<br>fatigue<br>fancy
+bip_39_word_new_br6: month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social
+bip_39_word_new_br7: month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social<br>cheap
+bip_39_word_new_br8: month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social<br>cheap<br>symbol
+bip_39_word_new_br9: month<br>hospital<br>diesel<br>fatigue<br>fancy<br>social<br>cheap<br>symbol<br>polar
+bip_39_word_new_line1: month
+bip_39_word_new_line10: 'month
+
+  hospital
+
+  diesel
+
+  fatigue
+
+  fancy
+
+  social
+
+  cheap
+
+  symbol
+
+  polar
+
+  loop'
+bip_39_word_new_line11: 'month
+
+  hospital
+
+  diesel
+
+  fatigue
+
+  fancy
+
+  social
+
+  cheap
+
+  symbol
+
+  polar
+
+  loop
+
+  capital'
+bip_39_word_new_line12: 'month
+
+  hospital
+
+  diesel
+
+  fatigue
+
+  fancy
+
+  social
+
+  cheap
+
+  symbol
+
+  polar
+
+  loop
+
+  capital
+
+  assume'
+bip_39_word_new_line2: 'month
+
+  hospital'
+bip_39_word_new_line3: 'month
+
+  hospital
+
+  diesel'
+bip_39_word_new_line4: 'month
+
+  hospital
+
+  diesel
+
+  fatigue'
+bip_39_word_new_line5: 'month
+
+  hospital
+
+  diesel
+
+  fatigue
+
+  fancy'
+bip_39_word_new_line6: 'month
+
+  hospital
+
+  diesel
+
+  fatigue
+
+  fancy
+
+  social'
+bip_39_word_new_line7: 'month
+
+  hospital
+
+  diesel
+
+  fatigue
+
+  fancy
+
+  social
+
+  cheap'
+bip_39_word_new_line8: 'month
+
+  hospital
+
+  diesel
+
+  fatigue
+
+  fancy
+
+  social
+
+  cheap
+
+  symbol'
+bip_39_word_new_line9: 'month
+
+  hospital
+
+  diesel
+
+  fatigue
+
+  fancy
+
+  social
+
+  cheap
+
+  symbol
+
+  polar'
+bip_39_word_space_0:
+- month
+- hospital
+- diesel
+- fatigue
+- fancy
+- social
+- cheap
+- symbol
+- polar
+- loop
+- capital
+- assume
+bip_39_word_space_1: month
+bip_39_word_space_10: month hospital diesel fatigue fancy social cheap symbol polar
+  loop
+bip_39_word_space_11: month hospital diesel fatigue fancy social cheap symbol polar
+  loop capital
+bip_39_word_space_12: month hospital diesel fatigue fancy social cheap symbol polar
+  loop capital assume
+bip_39_word_space_2: month hospital
+bip_39_word_space_3: month hospital diesel
+bip_39_word_space_4: month hospital diesel fatigue
+bip_39_word_space_5: month hospital diesel fatigue fancy
+bip_39_word_space_6: month hospital diesel fatigue fancy social
+bip_39_word_space_7: month hospital diesel fatigue fancy social cheap
+bip_39_word_space_8: month hospital diesel fatigue fancy social cheap symbol
+bip_39_word_space_9: month hospital diesel fatigue fancy social cheap symbol polar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

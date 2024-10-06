@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: virtual blind
+  * bip 39 word 3: virtual blind arrow
+  * bip 39 word: virtual blind arrow december quote true real laptop dragon soap limb attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | virtual |  
+| bip_39_word_new_br10 | virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap |  
+| bip_39_word_new_br11 | virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap<br>limb |  
+| bip_39_word_new_br12 | virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon<br>soap<br>limb<br>attract |  
+| bip_39_word_new_br2 | virtual<br>blind |  
+| bip_39_word_new_br3 | virtual<br>blind<br>arrow |  
+| bip_39_word_new_br4 | virtual<br>blind<br>arrow<br>december |  
+| bip_39_word_new_br5 | virtual<br>blind<br>arrow<br>december<br>quote |  
+| bip_39_word_new_br6 | virtual<br>blind<br>arrow<br>december<br>quote<br>true |  
+| bip_39_word_new_br7 | virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real |  
+| bip_39_word_new_br8 | virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop |  
+| bip_39_word_new_br9 | virtual<br>blind<br>arrow<br>december<br>quote<br>true<br>real<br>laptop<br>dragon |  
+| bip_39_word_new_line1 | virtual |  
+| bip_39_word_new_line10 | virtual
+blind
+arrow
+december
+quote
+true
+real
+laptop
+dragon
+soap |  
+| bip_39_word_new_line11 | virtual
+blind
+arrow
+december
+quote
+true
+real
+laptop
+dragon
+soap
+limb |  
+| bip_39_word_new_line12 | virtual
+blind
+arrow
+december
+quote
+true
+real
+laptop
+dragon
+soap
+limb
+attract |  
+| bip_39_word_new_line2 | virtual
+blind |  
+| bip_39_word_new_line3 | virtual
+blind
+arrow |  
+| bip_39_word_new_line4 | virtual
+blind
+arrow
+december |  
+| bip_39_word_new_line5 | virtual
+blind
+arrow
+december
+quote |  
+| bip_39_word_new_line6 | virtual
+blind
+arrow
+december
+quote
+true |  
+| bip_39_word_new_line7 | virtual
+blind
+arrow
+december
+quote
+true
+real |  
+| bip_39_word_new_line8 | virtual
+blind
+arrow
+december
+quote
+true
+real
+laptop |  
+| bip_39_word_new_line9 | virtual
+blind
+arrow
+december
+quote
+true
+real
+laptop
+dragon |  
+| bip_39_word_space_0 | ['virtual', 'blind', 'arrow', 'december', 'quote', 'true', 'real', 'laptop', 'dragon', 'soap', 'limb', 'attract'] |  
+| bip_39_word_space_1 | virtual |  
+| bip_39_word_space_10 | virtual blind arrow december quote true real laptop dragon soap |  
+| bip_39_word_space_11 | virtual blind arrow december quote true real laptop dragon soap limb |  
+| bip_39_word_space_12 | virtual blind arrow december quote true real laptop dragon soap limb attract |  
+| bip_39_word_space_2 | virtual blind |  
+| bip_39_word_space_3 | virtual blind arrow |  
+| bip_39_word_space_4 | virtual blind arrow december |  
+| bip_39_word_space_5 | virtual blind arrow december quote |  
+| bip_39_word_space_6 | virtual blind arrow december quote true |  
+| bip_39_word_space_7 | virtual blind arrow december quote true real |  
+| bip_39_word_space_8 | virtual blind arrow december quote true real laptop |  
+| bip_39_word_space_9 | virtual blind arrow december quote true real laptop dragon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

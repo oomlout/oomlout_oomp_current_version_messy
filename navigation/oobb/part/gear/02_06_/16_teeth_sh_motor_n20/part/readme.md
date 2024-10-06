@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: thought hole
+  * bip 39 word 3: thought hole crop
+  * bip 39 word: thought hole crop because omit enough rubber blame road patch notable accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | thought |  
+| bip_39_word_new_br10 | thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch |  
+| bip_39_word_new_br11 | thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch<br>notable |  
+| bip_39_word_new_br12 | thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road<br>patch<br>notable<br>accuse |  
+| bip_39_word_new_br2 | thought<br>hole |  
+| bip_39_word_new_br3 | thought<br>hole<br>crop |  
+| bip_39_word_new_br4 | thought<br>hole<br>crop<br>because |  
+| bip_39_word_new_br5 | thought<br>hole<br>crop<br>because<br>omit |  
+| bip_39_word_new_br6 | thought<br>hole<br>crop<br>because<br>omit<br>enough |  
+| bip_39_word_new_br7 | thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber |  
+| bip_39_word_new_br8 | thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame |  
+| bip_39_word_new_br9 | thought<br>hole<br>crop<br>because<br>omit<br>enough<br>rubber<br>blame<br>road |  
+| bip_39_word_new_line1 | thought |  
+| bip_39_word_new_line10 | thought
+hole
+crop
+because
+omit
+enough
+rubber
+blame
+road
+patch |  
+| bip_39_word_new_line11 | thought
+hole
+crop
+because
+omit
+enough
+rubber
+blame
+road
+patch
+notable |  
+| bip_39_word_new_line12 | thought
+hole
+crop
+because
+omit
+enough
+rubber
+blame
+road
+patch
+notable
+accuse |  
+| bip_39_word_new_line2 | thought
+hole |  
+| bip_39_word_new_line3 | thought
+hole
+crop |  
+| bip_39_word_new_line4 | thought
+hole
+crop
+because |  
+| bip_39_word_new_line5 | thought
+hole
+crop
+because
+omit |  
+| bip_39_word_new_line6 | thought
+hole
+crop
+because
+omit
+enough |  
+| bip_39_word_new_line7 | thought
+hole
+crop
+because
+omit
+enough
+rubber |  
+| bip_39_word_new_line8 | thought
+hole
+crop
+because
+omit
+enough
+rubber
+blame |  
+| bip_39_word_new_line9 | thought
+hole
+crop
+because
+omit
+enough
+rubber
+blame
+road |  
+| bip_39_word_space_0 | ['thought', 'hole', 'crop', 'because', 'omit', 'enough', 'rubber', 'blame', 'road', 'patch', 'notable', 'accuse'] |  
+| bip_39_word_space_1 | thought |  
+| bip_39_word_space_10 | thought hole crop because omit enough rubber blame road patch |  
+| bip_39_word_space_11 | thought hole crop because omit enough rubber blame road patch notable |  
+| bip_39_word_space_12 | thought hole crop because omit enough rubber blame road patch notable accuse |  
+| bip_39_word_space_2 | thought hole |  
+| bip_39_word_space_3 | thought hole crop |  
+| bip_39_word_space_4 | thought hole crop because |  
+| bip_39_word_space_5 | thought hole crop because omit |  
+| bip_39_word_space_6 | thought hole crop because omit enough |  
+| bip_39_word_space_7 | thought hole crop because omit enough rubber |  
+| bip_39_word_space_8 | thought hole crop because omit enough rubber blame |  
+| bip_39_word_space_9 | thought hole crop because omit enough rubber blame road |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

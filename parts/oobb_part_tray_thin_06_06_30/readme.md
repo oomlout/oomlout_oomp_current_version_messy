@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dynamic wagon
+  * bip 39 word 3: dynamic wagon inflict
+  * bip 39 word: dynamic wagon inflict safe proof drill aerobic heart ginger egg bachelor across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dynamic |  
+| bip_39_word_new_br10 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill<br>aerobic<br>heart<br>ginger<br>egg |  
+| bip_39_word_new_br11 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill<br>aerobic<br>heart<br>ginger<br>egg<br>bachelor |  
+| bip_39_word_new_br12 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill<br>aerobic<br>heart<br>ginger<br>egg<br>bachelor<br>across |  
+| bip_39_word_new_br2 | dynamic<br>wagon |  
+| bip_39_word_new_br3 | dynamic<br>wagon<br>inflict |  
+| bip_39_word_new_br4 | dynamic<br>wagon<br>inflict<br>safe |  
+| bip_39_word_new_br5 | dynamic<br>wagon<br>inflict<br>safe<br>proof |  
+| bip_39_word_new_br6 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill |  
+| bip_39_word_new_br7 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill<br>aerobic |  
+| bip_39_word_new_br8 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill<br>aerobic<br>heart |  
+| bip_39_word_new_br9 | dynamic<br>wagon<br>inflict<br>safe<br>proof<br>drill<br>aerobic<br>heart<br>ginger |  
+| bip_39_word_new_line1 | dynamic |  
+| bip_39_word_new_line10 | dynamic
+wagon
+inflict
+safe
+proof
+drill
+aerobic
+heart
+ginger
+egg |  
+| bip_39_word_new_line11 | dynamic
+wagon
+inflict
+safe
+proof
+drill
+aerobic
+heart
+ginger
+egg
+bachelor |  
+| bip_39_word_new_line12 | dynamic
+wagon
+inflict
+safe
+proof
+drill
+aerobic
+heart
+ginger
+egg
+bachelor
+across |  
+| bip_39_word_new_line2 | dynamic
+wagon |  
+| bip_39_word_new_line3 | dynamic
+wagon
+inflict |  
+| bip_39_word_new_line4 | dynamic
+wagon
+inflict
+safe |  
+| bip_39_word_new_line5 | dynamic
+wagon
+inflict
+safe
+proof |  
+| bip_39_word_new_line6 | dynamic
+wagon
+inflict
+safe
+proof
+drill |  
+| bip_39_word_new_line7 | dynamic
+wagon
+inflict
+safe
+proof
+drill
+aerobic |  
+| bip_39_word_new_line8 | dynamic
+wagon
+inflict
+safe
+proof
+drill
+aerobic
+heart |  
+| bip_39_word_new_line9 | dynamic
+wagon
+inflict
+safe
+proof
+drill
+aerobic
+heart
+ginger |  
+| bip_39_word_space_0 | ['dynamic', 'wagon', 'inflict', 'safe', 'proof', 'drill', 'aerobic', 'heart', 'ginger', 'egg', 'bachelor', 'across'] |  
+| bip_39_word_space_1 | dynamic |  
+| bip_39_word_space_10 | dynamic wagon inflict safe proof drill aerobic heart ginger egg |  
+| bip_39_word_space_11 | dynamic wagon inflict safe proof drill aerobic heart ginger egg bachelor |  
+| bip_39_word_space_12 | dynamic wagon inflict safe proof drill aerobic heart ginger egg bachelor across |  
+| bip_39_word_space_2 | dynamic wagon |  
+| bip_39_word_space_3 | dynamic wagon inflict |  
+| bip_39_word_space_4 | dynamic wagon inflict safe |  
+| bip_39_word_space_5 | dynamic wagon inflict safe proof |  
+| bip_39_word_space_6 | dynamic wagon inflict safe proof drill |  
+| bip_39_word_space_7 | dynamic wagon inflict safe proof drill aerobic |  
+| bip_39_word_space_8 | dynamic wagon inflict safe proof drill aerobic heart |  
+| bip_39_word_space_9 | dynamic wagon inflict safe proof drill aerobic heart ginger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gaze fabric
+  * bip 39 word 3: gaze fabric hope
+  * bip 39 word: gaze fabric hope soon castle you hybrid romance region man popular assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gaze |  
+| bip_39_word_new_br10 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region<br>man |  
+| bip_39_word_new_br11 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region<br>man<br>popular |  
+| bip_39_word_new_br12 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region<br>man<br>popular<br>assist |  
+| bip_39_word_new_br2 | gaze<br>fabric |  
+| bip_39_word_new_br3 | gaze<br>fabric<br>hope |  
+| bip_39_word_new_br4 | gaze<br>fabric<br>hope<br>soon |  
+| bip_39_word_new_br5 | gaze<br>fabric<br>hope<br>soon<br>castle |  
+| bip_39_word_new_br6 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you |  
+| bip_39_word_new_br7 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid |  
+| bip_39_word_new_br8 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance |  
+| bip_39_word_new_br9 | gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region |  
+| bip_39_word_new_line1 | gaze |  
+| bip_39_word_new_line10 | gaze
+fabric
+hope
+soon
+castle
+you
+hybrid
+romance
+region
+man |  
+| bip_39_word_new_line11 | gaze
+fabric
+hope
+soon
+castle
+you
+hybrid
+romance
+region
+man
+popular |  
+| bip_39_word_new_line12 | gaze
+fabric
+hope
+soon
+castle
+you
+hybrid
+romance
+region
+man
+popular
+assist |  
+| bip_39_word_new_line2 | gaze
+fabric |  
+| bip_39_word_new_line3 | gaze
+fabric
+hope |  
+| bip_39_word_new_line4 | gaze
+fabric
+hope
+soon |  
+| bip_39_word_new_line5 | gaze
+fabric
+hope
+soon
+castle |  
+| bip_39_word_new_line6 | gaze
+fabric
+hope
+soon
+castle
+you |  
+| bip_39_word_new_line7 | gaze
+fabric
+hope
+soon
+castle
+you
+hybrid |  
+| bip_39_word_new_line8 | gaze
+fabric
+hope
+soon
+castle
+you
+hybrid
+romance |  
+| bip_39_word_new_line9 | gaze
+fabric
+hope
+soon
+castle
+you
+hybrid
+romance
+region |  
+| bip_39_word_space_0 | ['gaze', 'fabric', 'hope', 'soon', 'castle', 'you', 'hybrid', 'romance', 'region', 'man', 'popular', 'assist'] |  
+| bip_39_word_space_1 | gaze |  
+| bip_39_word_space_10 | gaze fabric hope soon castle you hybrid romance region man |  
+| bip_39_word_space_11 | gaze fabric hope soon castle you hybrid romance region man popular |  
+| bip_39_word_space_12 | gaze fabric hope soon castle you hybrid romance region man popular assist |  
+| bip_39_word_space_2 | gaze fabric |  
+| bip_39_word_space_3 | gaze fabric hope |  
+| bip_39_word_space_4 | gaze fabric hope soon |  
+| bip_39_word_space_5 | gaze fabric hope soon castle |  
+| bip_39_word_space_6 | gaze fabric hope soon castle you |  
+| bip_39_word_space_7 | gaze fabric hope soon castle you hybrid |  
+| bip_39_word_space_8 | gaze fabric hope soon castle you hybrid romance |  
+| bip_39_word_space_9 | gaze fabric hope soon castle you hybrid romance region |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

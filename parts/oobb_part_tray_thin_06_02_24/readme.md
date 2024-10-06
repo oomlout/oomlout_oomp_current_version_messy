@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oxygen dizzy
+  * bip 39 word 3: oxygen dizzy horror
+  * bip 39 word: oxygen dizzy horror unable place bubble crucial antique cat earth nose alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oxygen |  
+| bip_39_word_new_br10 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble<br>crucial<br>antique<br>cat<br>earth |  
+| bip_39_word_new_br11 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble<br>crucial<br>antique<br>cat<br>earth<br>nose |  
+| bip_39_word_new_br12 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble<br>crucial<br>antique<br>cat<br>earth<br>nose<br>alley |  
+| bip_39_word_new_br2 | oxygen<br>dizzy |  
+| bip_39_word_new_br3 | oxygen<br>dizzy<br>horror |  
+| bip_39_word_new_br4 | oxygen<br>dizzy<br>horror<br>unable |  
+| bip_39_word_new_br5 | oxygen<br>dizzy<br>horror<br>unable<br>place |  
+| bip_39_word_new_br6 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble |  
+| bip_39_word_new_br7 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble<br>crucial |  
+| bip_39_word_new_br8 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble<br>crucial<br>antique |  
+| bip_39_word_new_br9 | oxygen<br>dizzy<br>horror<br>unable<br>place<br>bubble<br>crucial<br>antique<br>cat |  
+| bip_39_word_new_line1 | oxygen |  
+| bip_39_word_new_line10 | oxygen
+dizzy
+horror
+unable
+place
+bubble
+crucial
+antique
+cat
+earth |  
+| bip_39_word_new_line11 | oxygen
+dizzy
+horror
+unable
+place
+bubble
+crucial
+antique
+cat
+earth
+nose |  
+| bip_39_word_new_line12 | oxygen
+dizzy
+horror
+unable
+place
+bubble
+crucial
+antique
+cat
+earth
+nose
+alley |  
+| bip_39_word_new_line2 | oxygen
+dizzy |  
+| bip_39_word_new_line3 | oxygen
+dizzy
+horror |  
+| bip_39_word_new_line4 | oxygen
+dizzy
+horror
+unable |  
+| bip_39_word_new_line5 | oxygen
+dizzy
+horror
+unable
+place |  
+| bip_39_word_new_line6 | oxygen
+dizzy
+horror
+unable
+place
+bubble |  
+| bip_39_word_new_line7 | oxygen
+dizzy
+horror
+unable
+place
+bubble
+crucial |  
+| bip_39_word_new_line8 | oxygen
+dizzy
+horror
+unable
+place
+bubble
+crucial
+antique |  
+| bip_39_word_new_line9 | oxygen
+dizzy
+horror
+unable
+place
+bubble
+crucial
+antique
+cat |  
+| bip_39_word_space_0 | ['oxygen', 'dizzy', 'horror', 'unable', 'place', 'bubble', 'crucial', 'antique', 'cat', 'earth', 'nose', 'alley'] |  
+| bip_39_word_space_1 | oxygen |  
+| bip_39_word_space_10 | oxygen dizzy horror unable place bubble crucial antique cat earth |  
+| bip_39_word_space_11 | oxygen dizzy horror unable place bubble crucial antique cat earth nose |  
+| bip_39_word_space_12 | oxygen dizzy horror unable place bubble crucial antique cat earth nose alley |  
+| bip_39_word_space_2 | oxygen dizzy |  
+| bip_39_word_space_3 | oxygen dizzy horror |  
+| bip_39_word_space_4 | oxygen dizzy horror unable |  
+| bip_39_word_space_5 | oxygen dizzy horror unable place |  
+| bip_39_word_space_6 | oxygen dizzy horror unable place bubble |  
+| bip_39_word_space_7 | oxygen dizzy horror unable place bubble crucial |  
+| bip_39_word_space_8 | oxygen dizzy horror unable place bubble crucial antique |  
+| bip_39_word_space_9 | oxygen dizzy horror unable place bubble crucial antique cat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

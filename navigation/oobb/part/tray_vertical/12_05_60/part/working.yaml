@@ -1,3 +1,186 @@
+bip_39_word_new_br1: follow
+bip_39_word_new_br10: follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit
+bip_39_word_new_br11: follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit<br>right
+bip_39_word_new_br12: follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry<br>edit<br>right<br>addict
+bip_39_word_new_br2: follow<br>face
+bip_39_word_new_br3: follow<br>face<br>erupt
+bip_39_word_new_br4: follow<br>face<br>erupt<br>surround
+bip_39_word_new_br5: follow<br>face<br>erupt<br>surround<br>market
+bip_39_word_new_br6: follow<br>face<br>erupt<br>surround<br>market<br>inflict
+bip_39_word_new_br7: follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy
+bip_39_word_new_br8: follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast
+bip_39_word_new_br9: follow<br>face<br>erupt<br>surround<br>market<br>inflict<br>toy<br>blast<br>sorry
+bip_39_word_new_line1: follow
+bip_39_word_new_line10: 'follow
+
+  face
+
+  erupt
+
+  surround
+
+  market
+
+  inflict
+
+  toy
+
+  blast
+
+  sorry
+
+  edit'
+bip_39_word_new_line11: 'follow
+
+  face
+
+  erupt
+
+  surround
+
+  market
+
+  inflict
+
+  toy
+
+  blast
+
+  sorry
+
+  edit
+
+  right'
+bip_39_word_new_line12: 'follow
+
+  face
+
+  erupt
+
+  surround
+
+  market
+
+  inflict
+
+  toy
+
+  blast
+
+  sorry
+
+  edit
+
+  right
+
+  addict'
+bip_39_word_new_line2: 'follow
+
+  face'
+bip_39_word_new_line3: 'follow
+
+  face
+
+  erupt'
+bip_39_word_new_line4: 'follow
+
+  face
+
+  erupt
+
+  surround'
+bip_39_word_new_line5: 'follow
+
+  face
+
+  erupt
+
+  surround
+
+  market'
+bip_39_word_new_line6: 'follow
+
+  face
+
+  erupt
+
+  surround
+
+  market
+
+  inflict'
+bip_39_word_new_line7: 'follow
+
+  face
+
+  erupt
+
+  surround
+
+  market
+
+  inflict
+
+  toy'
+bip_39_word_new_line8: 'follow
+
+  face
+
+  erupt
+
+  surround
+
+  market
+
+  inflict
+
+  toy
+
+  blast'
+bip_39_word_new_line9: 'follow
+
+  face
+
+  erupt
+
+  surround
+
+  market
+
+  inflict
+
+  toy
+
+  blast
+
+  sorry'
+bip_39_word_space_0:
+- follow
+- face
+- erupt
+- surround
+- market
+- inflict
+- toy
+- blast
+- sorry
+- edit
+- right
+- addict
+bip_39_word_space_1: follow
+bip_39_word_space_10: follow face erupt surround market inflict toy blast sorry edit
+bip_39_word_space_11: follow face erupt surround market inflict toy blast sorry edit
+  right
+bip_39_word_space_12: follow face erupt surround market inflict toy blast sorry edit
+  right addict
+bip_39_word_space_2: follow face
+bip_39_word_space_3: follow face erupt
+bip_39_word_space_4: follow face erupt surround
+bip_39_word_space_5: follow face erupt surround market
+bip_39_word_space_6: follow face erupt surround market inflict
+bip_39_word_space_7: follow face erupt surround market inflict toy
+bip_39_word_space_8: follow face erupt surround market inflict toy blast
+bip_39_word_space_9: follow face erupt surround market inflict toy blast sorry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: error
+bip_39_word_new_br10: error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama
+bip_39_word_new_br11: error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama<br>grit
+bip_39_word_new_br12: error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper<br>drama<br>grit<br>animal
+bip_39_word_new_br2: error<br>junk
+bip_39_word_new_br3: error<br>junk<br>scene
+bip_39_word_new_br4: error<br>junk<br>scene<br>subway
+bip_39_word_new_br5: error<br>junk<br>scene<br>subway<br>connect
+bip_39_word_new_br6: error<br>junk<br>scene<br>subway<br>connect<br>lonely
+bip_39_word_new_br7: error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger
+bip_39_word_new_br8: error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence
+bip_39_word_new_br9: error<br>junk<br>scene<br>subway<br>connect<br>lonely<br>burger<br>sentence<br>copper
+bip_39_word_new_line1: error
+bip_39_word_new_line10: 'error
+
+  junk
+
+  scene
+
+  subway
+
+  connect
+
+  lonely
+
+  burger
+
+  sentence
+
+  copper
+
+  drama'
+bip_39_word_new_line11: 'error
+
+  junk
+
+  scene
+
+  subway
+
+  connect
+
+  lonely
+
+  burger
+
+  sentence
+
+  copper
+
+  drama
+
+  grit'
+bip_39_word_new_line12: 'error
+
+  junk
+
+  scene
+
+  subway
+
+  connect
+
+  lonely
+
+  burger
+
+  sentence
+
+  copper
+
+  drama
+
+  grit
+
+  animal'
+bip_39_word_new_line2: 'error
+
+  junk'
+bip_39_word_new_line3: 'error
+
+  junk
+
+  scene'
+bip_39_word_new_line4: 'error
+
+  junk
+
+  scene
+
+  subway'
+bip_39_word_new_line5: 'error
+
+  junk
+
+  scene
+
+  subway
+
+  connect'
+bip_39_word_new_line6: 'error
+
+  junk
+
+  scene
+
+  subway
+
+  connect
+
+  lonely'
+bip_39_word_new_line7: 'error
+
+  junk
+
+  scene
+
+  subway
+
+  connect
+
+  lonely
+
+  burger'
+bip_39_word_new_line8: 'error
+
+  junk
+
+  scene
+
+  subway
+
+  connect
+
+  lonely
+
+  burger
+
+  sentence'
+bip_39_word_new_line9: 'error
+
+  junk
+
+  scene
+
+  subway
+
+  connect
+
+  lonely
+
+  burger
+
+  sentence
+
+  copper'
+bip_39_word_space_0:
+- error
+- junk
+- scene
+- subway
+- connect
+- lonely
+- burger
+- sentence
+- copper
+- drama
+- grit
+- animal
+bip_39_word_space_1: error
+bip_39_word_space_10: error junk scene subway connect lonely burger sentence copper
+  drama
+bip_39_word_space_11: error junk scene subway connect lonely burger sentence copper
+  drama grit
+bip_39_word_space_12: error junk scene subway connect lonely burger sentence copper
+  drama grit animal
+bip_39_word_space_2: error junk
+bip_39_word_space_3: error junk scene
+bip_39_word_space_4: error junk scene subway
+bip_39_word_space_5: error junk scene subway connect
+bip_39_word_space_6: error junk scene subway connect lonely
+bip_39_word_space_7: error junk scene subway connect lonely burger
+bip_39_word_space_8: error junk scene subway connect lonely burger sentence
+bip_39_word_space_9: error junk scene subway connect lonely burger sentence copper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

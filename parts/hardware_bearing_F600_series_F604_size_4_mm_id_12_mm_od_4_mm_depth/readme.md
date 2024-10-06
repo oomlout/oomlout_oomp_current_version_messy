@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dutch ugly
+  * bip 39 word 3: dutch ugly syrup
+  * bip 39 word: dutch ugly syrup check catch treat have junk stone myth anxiety air
 
 ### other_codes
 * short_code: brF604
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dutch |  
+| bip_39_word_new_br10 | dutch<br>ugly<br>syrup<br>check<br>catch<br>treat<br>have<br>junk<br>stone<br>myth |  
+| bip_39_word_new_br11 | dutch<br>ugly<br>syrup<br>check<br>catch<br>treat<br>have<br>junk<br>stone<br>myth<br>anxiety |  
+| bip_39_word_new_br12 | dutch<br>ugly<br>syrup<br>check<br>catch<br>treat<br>have<br>junk<br>stone<br>myth<br>anxiety<br>air |  
+| bip_39_word_new_br2 | dutch<br>ugly |  
+| bip_39_word_new_br3 | dutch<br>ugly<br>syrup |  
+| bip_39_word_new_br4 | dutch<br>ugly<br>syrup<br>check |  
+| bip_39_word_new_br5 | dutch<br>ugly<br>syrup<br>check<br>catch |  
+| bip_39_word_new_br6 | dutch<br>ugly<br>syrup<br>check<br>catch<br>treat |  
+| bip_39_word_new_br7 | dutch<br>ugly<br>syrup<br>check<br>catch<br>treat<br>have |  
+| bip_39_word_new_br8 | dutch<br>ugly<br>syrup<br>check<br>catch<br>treat<br>have<br>junk |  
+| bip_39_word_new_br9 | dutch<br>ugly<br>syrup<br>check<br>catch<br>treat<br>have<br>junk<br>stone |  
+| bip_39_word_new_line1 | dutch |  
+| bip_39_word_new_line10 | dutch
+ugly
+syrup
+check
+catch
+treat
+have
+junk
+stone
+myth |  
+| bip_39_word_new_line11 | dutch
+ugly
+syrup
+check
+catch
+treat
+have
+junk
+stone
+myth
+anxiety |  
+| bip_39_word_new_line12 | dutch
+ugly
+syrup
+check
+catch
+treat
+have
+junk
+stone
+myth
+anxiety
+air |  
+| bip_39_word_new_line2 | dutch
+ugly |  
+| bip_39_word_new_line3 | dutch
+ugly
+syrup |  
+| bip_39_word_new_line4 | dutch
+ugly
+syrup
+check |  
+| bip_39_word_new_line5 | dutch
+ugly
+syrup
+check
+catch |  
+| bip_39_word_new_line6 | dutch
+ugly
+syrup
+check
+catch
+treat |  
+| bip_39_word_new_line7 | dutch
+ugly
+syrup
+check
+catch
+treat
+have |  
+| bip_39_word_new_line8 | dutch
+ugly
+syrup
+check
+catch
+treat
+have
+junk |  
+| bip_39_word_new_line9 | dutch
+ugly
+syrup
+check
+catch
+treat
+have
+junk
+stone |  
+| bip_39_word_space_0 | ['dutch', 'ugly', 'syrup', 'check', 'catch', 'treat', 'have', 'junk', 'stone', 'myth', 'anxiety', 'air'] |  
+| bip_39_word_space_1 | dutch |  
+| bip_39_word_space_10 | dutch ugly syrup check catch treat have junk stone myth |  
+| bip_39_word_space_11 | dutch ugly syrup check catch treat have junk stone myth anxiety |  
+| bip_39_word_space_12 | dutch ugly syrup check catch treat have junk stone myth anxiety air |  
+| bip_39_word_space_2 | dutch ugly |  
+| bip_39_word_space_3 | dutch ugly syrup |  
+| bip_39_word_space_4 | dutch ugly syrup check |  
+| bip_39_word_space_5 | dutch ugly syrup check catch |  
+| bip_39_word_space_6 | dutch ugly syrup check catch treat |  
+| bip_39_word_space_7 | dutch ugly syrup check catch treat have |  
+| bip_39_word_space_8 | dutch ugly syrup check catch treat have junk |  
+| bip_39_word_space_9 | dutch ugly syrup check catch treat have junk stone |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: rib
+bip_39_word_new_br10: rib<br>region<br>radio<br>broom<br>onion<br>horse<br>poet<br>tip<br>midnight<br>okay
+bip_39_word_new_br11: rib<br>region<br>radio<br>broom<br>onion<br>horse<br>poet<br>tip<br>midnight<br>okay<br>chimney
+bip_39_word_new_br12: rib<br>region<br>radio<br>broom<br>onion<br>horse<br>poet<br>tip<br>midnight<br>okay<br>chimney<br>arrest
+bip_39_word_new_br2: rib<br>region
+bip_39_word_new_br3: rib<br>region<br>radio
+bip_39_word_new_br4: rib<br>region<br>radio<br>broom
+bip_39_word_new_br5: rib<br>region<br>radio<br>broom<br>onion
+bip_39_word_new_br6: rib<br>region<br>radio<br>broom<br>onion<br>horse
+bip_39_word_new_br7: rib<br>region<br>radio<br>broom<br>onion<br>horse<br>poet
+bip_39_word_new_br8: rib<br>region<br>radio<br>broom<br>onion<br>horse<br>poet<br>tip
+bip_39_word_new_br9: rib<br>region<br>radio<br>broom<br>onion<br>horse<br>poet<br>tip<br>midnight
+bip_39_word_new_line1: rib
+bip_39_word_new_line10: 'rib
+
+  region
+
+  radio
+
+  broom
+
+  onion
+
+  horse
+
+  poet
+
+  tip
+
+  midnight
+
+  okay'
+bip_39_word_new_line11: 'rib
+
+  region
+
+  radio
+
+  broom
+
+  onion
+
+  horse
+
+  poet
+
+  tip
+
+  midnight
+
+  okay
+
+  chimney'
+bip_39_word_new_line12: 'rib
+
+  region
+
+  radio
+
+  broom
+
+  onion
+
+  horse
+
+  poet
+
+  tip
+
+  midnight
+
+  okay
+
+  chimney
+
+  arrest'
+bip_39_word_new_line2: 'rib
+
+  region'
+bip_39_word_new_line3: 'rib
+
+  region
+
+  radio'
+bip_39_word_new_line4: 'rib
+
+  region
+
+  radio
+
+  broom'
+bip_39_word_new_line5: 'rib
+
+  region
+
+  radio
+
+  broom
+
+  onion'
+bip_39_word_new_line6: 'rib
+
+  region
+
+  radio
+
+  broom
+
+  onion
+
+  horse'
+bip_39_word_new_line7: 'rib
+
+  region
+
+  radio
+
+  broom
+
+  onion
+
+  horse
+
+  poet'
+bip_39_word_new_line8: 'rib
+
+  region
+
+  radio
+
+  broom
+
+  onion
+
+  horse
+
+  poet
+
+  tip'
+bip_39_word_new_line9: 'rib
+
+  region
+
+  radio
+
+  broom
+
+  onion
+
+  horse
+
+  poet
+
+  tip
+
+  midnight'
+bip_39_word_space_0:
+- rib
+- region
+- radio
+- broom
+- onion
+- horse
+- poet
+- tip
+- midnight
+- okay
+- chimney
+- arrest
+bip_39_word_space_1: rib
+bip_39_word_space_10: rib region radio broom onion horse poet tip midnight okay
+bip_39_word_space_11: rib region radio broom onion horse poet tip midnight okay chimney
+bip_39_word_space_12: rib region radio broom onion horse poet tip midnight okay chimney
+  arrest
+bip_39_word_space_2: rib region
+bip_39_word_space_3: rib region radio
+bip_39_word_space_4: rib region radio broom
+bip_39_word_space_5: rib region radio broom onion
+bip_39_word_space_6: rib region radio broom onion horse
+bip_39_word_space_7: rib region radio broom onion horse poet
+bip_39_word_space_8: rib region radio broom onion horse poet tip
+bip_39_word_space_9: rib region radio broom onion horse poet tip midnight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

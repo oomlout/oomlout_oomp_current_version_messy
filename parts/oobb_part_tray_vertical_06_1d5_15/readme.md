@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: choice fit
+  * bip 39 word 3: choice fit traffic
+  * bip 39 word: choice fit traffic demand output trim borrow rate remind happy wing alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | choice |  
+| bip_39_word_new_br10 | choice<br>fit<br>traffic<br>demand<br>output<br>trim<br>borrow<br>rate<br>remind<br>happy |  
+| bip_39_word_new_br11 | choice<br>fit<br>traffic<br>demand<br>output<br>trim<br>borrow<br>rate<br>remind<br>happy<br>wing |  
+| bip_39_word_new_br12 | choice<br>fit<br>traffic<br>demand<br>output<br>trim<br>borrow<br>rate<br>remind<br>happy<br>wing<br>alarm |  
+| bip_39_word_new_br2 | choice<br>fit |  
+| bip_39_word_new_br3 | choice<br>fit<br>traffic |  
+| bip_39_word_new_br4 | choice<br>fit<br>traffic<br>demand |  
+| bip_39_word_new_br5 | choice<br>fit<br>traffic<br>demand<br>output |  
+| bip_39_word_new_br6 | choice<br>fit<br>traffic<br>demand<br>output<br>trim |  
+| bip_39_word_new_br7 | choice<br>fit<br>traffic<br>demand<br>output<br>trim<br>borrow |  
+| bip_39_word_new_br8 | choice<br>fit<br>traffic<br>demand<br>output<br>trim<br>borrow<br>rate |  
+| bip_39_word_new_br9 | choice<br>fit<br>traffic<br>demand<br>output<br>trim<br>borrow<br>rate<br>remind |  
+| bip_39_word_new_line1 | choice |  
+| bip_39_word_new_line10 | choice
+fit
+traffic
+demand
+output
+trim
+borrow
+rate
+remind
+happy |  
+| bip_39_word_new_line11 | choice
+fit
+traffic
+demand
+output
+trim
+borrow
+rate
+remind
+happy
+wing |  
+| bip_39_word_new_line12 | choice
+fit
+traffic
+demand
+output
+trim
+borrow
+rate
+remind
+happy
+wing
+alarm |  
+| bip_39_word_new_line2 | choice
+fit |  
+| bip_39_word_new_line3 | choice
+fit
+traffic |  
+| bip_39_word_new_line4 | choice
+fit
+traffic
+demand |  
+| bip_39_word_new_line5 | choice
+fit
+traffic
+demand
+output |  
+| bip_39_word_new_line6 | choice
+fit
+traffic
+demand
+output
+trim |  
+| bip_39_word_new_line7 | choice
+fit
+traffic
+demand
+output
+trim
+borrow |  
+| bip_39_word_new_line8 | choice
+fit
+traffic
+demand
+output
+trim
+borrow
+rate |  
+| bip_39_word_new_line9 | choice
+fit
+traffic
+demand
+output
+trim
+borrow
+rate
+remind |  
+| bip_39_word_space_0 | ['choice', 'fit', 'traffic', 'demand', 'output', 'trim', 'borrow', 'rate', 'remind', 'happy', 'wing', 'alarm'] |  
+| bip_39_word_space_1 | choice |  
+| bip_39_word_space_10 | choice fit traffic demand output trim borrow rate remind happy |  
+| bip_39_word_space_11 | choice fit traffic demand output trim borrow rate remind happy wing |  
+| bip_39_word_space_12 | choice fit traffic demand output trim borrow rate remind happy wing alarm |  
+| bip_39_word_space_2 | choice fit |  
+| bip_39_word_space_3 | choice fit traffic |  
+| bip_39_word_space_4 | choice fit traffic demand |  
+| bip_39_word_space_5 | choice fit traffic demand output |  
+| bip_39_word_space_6 | choice fit traffic demand output trim |  
+| bip_39_word_space_7 | choice fit traffic demand output trim borrow |  
+| bip_39_word_space_8 | choice fit traffic demand output trim borrow rate |  
+| bip_39_word_space_9 | choice fit traffic demand output trim borrow rate remind |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

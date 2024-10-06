@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fatal
+bip_39_word_new_br10: fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven
+bip_39_word_new_br11: fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven<br>help
+bip_39_word_new_br12: fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large<br>seven<br>help<br>another
+bip_39_word_new_br2: fatal<br>silver
+bip_39_word_new_br3: fatal<br>silver<br>slot
+bip_39_word_new_br4: fatal<br>silver<br>slot<br>gasp
+bip_39_word_new_br5: fatal<br>silver<br>slot<br>gasp<br>simple
+bip_39_word_new_br6: fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit
+bip_39_word_new_br7: fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit
+bip_39_word_new_br8: fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck
+bip_39_word_new_br9: fatal<br>silver<br>slot<br>gasp<br>simple<br>orbit<br>quit<br>neck<br>large
+bip_39_word_new_line1: fatal
+bip_39_word_new_line10: 'fatal
+
+  silver
+
+  slot
+
+  gasp
+
+  simple
+
+  orbit
+
+  quit
+
+  neck
+
+  large
+
+  seven'
+bip_39_word_new_line11: 'fatal
+
+  silver
+
+  slot
+
+  gasp
+
+  simple
+
+  orbit
+
+  quit
+
+  neck
+
+  large
+
+  seven
+
+  help'
+bip_39_word_new_line12: 'fatal
+
+  silver
+
+  slot
+
+  gasp
+
+  simple
+
+  orbit
+
+  quit
+
+  neck
+
+  large
+
+  seven
+
+  help
+
+  another'
+bip_39_word_new_line2: 'fatal
+
+  silver'
+bip_39_word_new_line3: 'fatal
+
+  silver
+
+  slot'
+bip_39_word_new_line4: 'fatal
+
+  silver
+
+  slot
+
+  gasp'
+bip_39_word_new_line5: 'fatal
+
+  silver
+
+  slot
+
+  gasp
+
+  simple'
+bip_39_word_new_line6: 'fatal
+
+  silver
+
+  slot
+
+  gasp
+
+  simple
+
+  orbit'
+bip_39_word_new_line7: 'fatal
+
+  silver
+
+  slot
+
+  gasp
+
+  simple
+
+  orbit
+
+  quit'
+bip_39_word_new_line8: 'fatal
+
+  silver
+
+  slot
+
+  gasp
+
+  simple
+
+  orbit
+
+  quit
+
+  neck'
+bip_39_word_new_line9: 'fatal
+
+  silver
+
+  slot
+
+  gasp
+
+  simple
+
+  orbit
+
+  quit
+
+  neck
+
+  large'
+bip_39_word_space_0:
+- fatal
+- silver
+- slot
+- gasp
+- simple
+- orbit
+- quit
+- neck
+- large
+- seven
+- help
+- another
+bip_39_word_space_1: fatal
+bip_39_word_space_10: fatal silver slot gasp simple orbit quit neck large seven
+bip_39_word_space_11: fatal silver slot gasp simple orbit quit neck large seven help
+bip_39_word_space_12: fatal silver slot gasp simple orbit quit neck large seven help
+  another
+bip_39_word_space_2: fatal silver
+bip_39_word_space_3: fatal silver slot
+bip_39_word_space_4: fatal silver slot gasp
+bip_39_word_space_5: fatal silver slot gasp simple
+bip_39_word_space_6: fatal silver slot gasp simple orbit
+bip_39_word_space_7: fatal silver slot gasp simple orbit quit
+bip_39_word_space_8: fatal silver slot gasp simple orbit quit neck
+bip_39_word_space_9: fatal silver slot gasp simple orbit quit neck large
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

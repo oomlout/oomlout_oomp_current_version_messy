@@ -1,3 +1,186 @@
+bip_39_word_new_br1: endorse
+bip_39_word_new_br10: endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album
+bip_39_word_new_br11: endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album<br>swear
+bip_39_word_new_br12: endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial<br>album<br>swear<br>abstract
+bip_39_word_new_br2: endorse<br>indoor
+bip_39_word_new_br3: endorse<br>indoor<br>salon
+bip_39_word_new_br4: endorse<br>indoor<br>salon<br>audit
+bip_39_word_new_br5: endorse<br>indoor<br>salon<br>audit<br>meat
+bip_39_word_new_br6: endorse<br>indoor<br>salon<br>audit<br>meat<br>give
+bip_39_word_new_br7: endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar
+bip_39_word_new_br8: endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget
+bip_39_word_new_br9: endorse<br>indoor<br>salon<br>audit<br>meat<br>give<br>similar<br>gadget<br>dial
+bip_39_word_new_line1: endorse
+bip_39_word_new_line10: 'endorse
+
+  indoor
+
+  salon
+
+  audit
+
+  meat
+
+  give
+
+  similar
+
+  gadget
+
+  dial
+
+  album'
+bip_39_word_new_line11: 'endorse
+
+  indoor
+
+  salon
+
+  audit
+
+  meat
+
+  give
+
+  similar
+
+  gadget
+
+  dial
+
+  album
+
+  swear'
+bip_39_word_new_line12: 'endorse
+
+  indoor
+
+  salon
+
+  audit
+
+  meat
+
+  give
+
+  similar
+
+  gadget
+
+  dial
+
+  album
+
+  swear
+
+  abstract'
+bip_39_word_new_line2: 'endorse
+
+  indoor'
+bip_39_word_new_line3: 'endorse
+
+  indoor
+
+  salon'
+bip_39_word_new_line4: 'endorse
+
+  indoor
+
+  salon
+
+  audit'
+bip_39_word_new_line5: 'endorse
+
+  indoor
+
+  salon
+
+  audit
+
+  meat'
+bip_39_word_new_line6: 'endorse
+
+  indoor
+
+  salon
+
+  audit
+
+  meat
+
+  give'
+bip_39_word_new_line7: 'endorse
+
+  indoor
+
+  salon
+
+  audit
+
+  meat
+
+  give
+
+  similar'
+bip_39_word_new_line8: 'endorse
+
+  indoor
+
+  salon
+
+  audit
+
+  meat
+
+  give
+
+  similar
+
+  gadget'
+bip_39_word_new_line9: 'endorse
+
+  indoor
+
+  salon
+
+  audit
+
+  meat
+
+  give
+
+  similar
+
+  gadget
+
+  dial'
+bip_39_word_space_0:
+- endorse
+- indoor
+- salon
+- audit
+- meat
+- give
+- similar
+- gadget
+- dial
+- album
+- swear
+- abstract
+bip_39_word_space_1: endorse
+bip_39_word_space_10: endorse indoor salon audit meat give similar gadget dial album
+bip_39_word_space_11: endorse indoor salon audit meat give similar gadget dial album
+  swear
+bip_39_word_space_12: endorse indoor salon audit meat give similar gadget dial album
+  swear abstract
+bip_39_word_space_2: endorse indoor
+bip_39_word_space_3: endorse indoor salon
+bip_39_word_space_4: endorse indoor salon audit
+bip_39_word_space_5: endorse indoor salon audit meat
+bip_39_word_space_6: endorse indoor salon audit meat give
+bip_39_word_space_7: endorse indoor salon audit meat give similar
+bip_39_word_space_8: endorse indoor salon audit meat give similar gadget
+bip_39_word_space_9: endorse indoor salon audit meat give similar gadget dial
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: able film
+  * bip 39 word 3: able film nurse
+  * bip 39 word: able film nurse cactus wink slush cat speed little donate brass announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | able |  
+| bip_39_word_new_br10 | able<br>film<br>nurse<br>cactus<br>wink<br>slush<br>cat<br>speed<br>little<br>donate |  
+| bip_39_word_new_br11 | able<br>film<br>nurse<br>cactus<br>wink<br>slush<br>cat<br>speed<br>little<br>donate<br>brass |  
+| bip_39_word_new_br12 | able<br>film<br>nurse<br>cactus<br>wink<br>slush<br>cat<br>speed<br>little<br>donate<br>brass<br>announce |  
+| bip_39_word_new_br2 | able<br>film |  
+| bip_39_word_new_br3 | able<br>film<br>nurse |  
+| bip_39_word_new_br4 | able<br>film<br>nurse<br>cactus |  
+| bip_39_word_new_br5 | able<br>film<br>nurse<br>cactus<br>wink |  
+| bip_39_word_new_br6 | able<br>film<br>nurse<br>cactus<br>wink<br>slush |  
+| bip_39_word_new_br7 | able<br>film<br>nurse<br>cactus<br>wink<br>slush<br>cat |  
+| bip_39_word_new_br8 | able<br>film<br>nurse<br>cactus<br>wink<br>slush<br>cat<br>speed |  
+| bip_39_word_new_br9 | able<br>film<br>nurse<br>cactus<br>wink<br>slush<br>cat<br>speed<br>little |  
+| bip_39_word_new_line1 | able |  
+| bip_39_word_new_line10 | able
+film
+nurse
+cactus
+wink
+slush
+cat
+speed
+little
+donate |  
+| bip_39_word_new_line11 | able
+film
+nurse
+cactus
+wink
+slush
+cat
+speed
+little
+donate
+brass |  
+| bip_39_word_new_line12 | able
+film
+nurse
+cactus
+wink
+slush
+cat
+speed
+little
+donate
+brass
+announce |  
+| bip_39_word_new_line2 | able
+film |  
+| bip_39_word_new_line3 | able
+film
+nurse |  
+| bip_39_word_new_line4 | able
+film
+nurse
+cactus |  
+| bip_39_word_new_line5 | able
+film
+nurse
+cactus
+wink |  
+| bip_39_word_new_line6 | able
+film
+nurse
+cactus
+wink
+slush |  
+| bip_39_word_new_line7 | able
+film
+nurse
+cactus
+wink
+slush
+cat |  
+| bip_39_word_new_line8 | able
+film
+nurse
+cactus
+wink
+slush
+cat
+speed |  
+| bip_39_word_new_line9 | able
+film
+nurse
+cactus
+wink
+slush
+cat
+speed
+little |  
+| bip_39_word_space_0 | ['able', 'film', 'nurse', 'cactus', 'wink', 'slush', 'cat', 'speed', 'little', 'donate', 'brass', 'announce'] |  
+| bip_39_word_space_1 | able |  
+| bip_39_word_space_10 | able film nurse cactus wink slush cat speed little donate |  
+| bip_39_word_space_11 | able film nurse cactus wink slush cat speed little donate brass |  
+| bip_39_word_space_12 | able film nurse cactus wink slush cat speed little donate brass announce |  
+| bip_39_word_space_2 | able film |  
+| bip_39_word_space_3 | able film nurse |  
+| bip_39_word_space_4 | able film nurse cactus |  
+| bip_39_word_space_5 | able film nurse cactus wink |  
+| bip_39_word_space_6 | able film nurse cactus wink slush |  
+| bip_39_word_space_7 | able film nurse cactus wink slush cat |  
+| bip_39_word_space_8 | able film nurse cactus wink slush cat speed |  
+| bip_39_word_space_9 | able film nurse cactus wink slush cat speed little |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

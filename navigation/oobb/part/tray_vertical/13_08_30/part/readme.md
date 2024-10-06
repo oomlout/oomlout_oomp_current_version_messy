@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cushion become
+  * bip 39 word 3: cushion become elevator
+  * bip 39 word: cushion become elevator evoke rubber almost afraid normal odor satoshi point annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cushion |  
+| bip_39_word_new_br10 | cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost<br>afraid<br>normal<br>odor<br>satoshi |  
+| bip_39_word_new_br11 | cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost<br>afraid<br>normal<br>odor<br>satoshi<br>point |  
+| bip_39_word_new_br12 | cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost<br>afraid<br>normal<br>odor<br>satoshi<br>point<br>annual |  
+| bip_39_word_new_br2 | cushion<br>become |  
+| bip_39_word_new_br3 | cushion<br>become<br>elevator |  
+| bip_39_word_new_br4 | cushion<br>become<br>elevator<br>evoke |  
+| bip_39_word_new_br5 | cushion<br>become<br>elevator<br>evoke<br>rubber |  
+| bip_39_word_new_br6 | cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost |  
+| bip_39_word_new_br7 | cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost<br>afraid |  
+| bip_39_word_new_br8 | cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost<br>afraid<br>normal |  
+| bip_39_word_new_br9 | cushion<br>become<br>elevator<br>evoke<br>rubber<br>almost<br>afraid<br>normal<br>odor |  
+| bip_39_word_new_line1 | cushion |  
+| bip_39_word_new_line10 | cushion
+become
+elevator
+evoke
+rubber
+almost
+afraid
+normal
+odor
+satoshi |  
+| bip_39_word_new_line11 | cushion
+become
+elevator
+evoke
+rubber
+almost
+afraid
+normal
+odor
+satoshi
+point |  
+| bip_39_word_new_line12 | cushion
+become
+elevator
+evoke
+rubber
+almost
+afraid
+normal
+odor
+satoshi
+point
+annual |  
+| bip_39_word_new_line2 | cushion
+become |  
+| bip_39_word_new_line3 | cushion
+become
+elevator |  
+| bip_39_word_new_line4 | cushion
+become
+elevator
+evoke |  
+| bip_39_word_new_line5 | cushion
+become
+elevator
+evoke
+rubber |  
+| bip_39_word_new_line6 | cushion
+become
+elevator
+evoke
+rubber
+almost |  
+| bip_39_word_new_line7 | cushion
+become
+elevator
+evoke
+rubber
+almost
+afraid |  
+| bip_39_word_new_line8 | cushion
+become
+elevator
+evoke
+rubber
+almost
+afraid
+normal |  
+| bip_39_word_new_line9 | cushion
+become
+elevator
+evoke
+rubber
+almost
+afraid
+normal
+odor |  
+| bip_39_word_space_0 | ['cushion', 'become', 'elevator', 'evoke', 'rubber', 'almost', 'afraid', 'normal', 'odor', 'satoshi', 'point', 'annual'] |  
+| bip_39_word_space_1 | cushion |  
+| bip_39_word_space_10 | cushion become elevator evoke rubber almost afraid normal odor satoshi |  
+| bip_39_word_space_11 | cushion become elevator evoke rubber almost afraid normal odor satoshi point |  
+| bip_39_word_space_12 | cushion become elevator evoke rubber almost afraid normal odor satoshi point annual |  
+| bip_39_word_space_2 | cushion become |  
+| bip_39_word_space_3 | cushion become elevator |  
+| bip_39_word_space_4 | cushion become elevator evoke |  
+| bip_39_word_space_5 | cushion become elevator evoke rubber |  
+| bip_39_word_space_6 | cushion become elevator evoke rubber almost |  
+| bip_39_word_space_7 | cushion become elevator evoke rubber almost afraid |  
+| bip_39_word_space_8 | cushion become elevator evoke rubber almost afraid normal |  
+| bip_39_word_space_9 | cushion become elevator evoke rubber almost afraid normal odor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

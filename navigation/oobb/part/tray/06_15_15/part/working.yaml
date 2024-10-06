@@ -1,3 +1,186 @@
+bip_39_word_new_br1: accident
+bip_39_word_new_br10: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit
+bip_39_word_new_br11: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge
+bip_39_word_new_br12: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge<br>author
+bip_39_word_new_br2: accident<br>leg
+bip_39_word_new_br3: accident<br>leg<br>bright
+bip_39_word_new_br4: accident<br>leg<br>bright<br>flush
+bip_39_word_new_br5: accident<br>leg<br>bright<br>flush<br>soon
+bip_39_word_new_br6: accident<br>leg<br>bright<br>flush<br>soon<br>weapon
+bip_39_word_new_br7: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk
+bip_39_word_new_br8: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans
+bip_39_word_new_br9: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close
+bip_39_word_new_line1: accident
+bip_39_word_new_line10: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans
+
+  close
+
+  deposit'
+bip_39_word_new_line11: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans
+
+  close
+
+  deposit
+
+  lounge'
+bip_39_word_new_line12: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans
+
+  close
+
+  deposit
+
+  lounge
+
+  author'
+bip_39_word_new_line2: 'accident
+
+  leg'
+bip_39_word_new_line3: 'accident
+
+  leg
+
+  bright'
+bip_39_word_new_line4: 'accident
+
+  leg
+
+  bright
+
+  flush'
+bip_39_word_new_line5: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon'
+bip_39_word_new_line6: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon'
+bip_39_word_new_line7: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk'
+bip_39_word_new_line8: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans'
+bip_39_word_new_line9: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans
+
+  close'
+bip_39_word_space_0:
+- accident
+- leg
+- bright
+- flush
+- soon
+- weapon
+- talk
+- jeans
+- close
+- deposit
+- lounge
+- author
+bip_39_word_space_1: accident
+bip_39_word_space_10: accident leg bright flush soon weapon talk jeans close deposit
+bip_39_word_space_11: accident leg bright flush soon weapon talk jeans close deposit
+  lounge
+bip_39_word_space_12: accident leg bright flush soon weapon talk jeans close deposit
+  lounge author
+bip_39_word_space_2: accident leg
+bip_39_word_space_3: accident leg bright
+bip_39_word_space_4: accident leg bright flush
+bip_39_word_space_5: accident leg bright flush soon
+bip_39_word_space_6: accident leg bright flush soon weapon
+bip_39_word_space_7: accident leg bright flush soon weapon talk
+bip_39_word_space_8: accident leg bright flush soon weapon talk jeans
+bip_39_word_space_9: accident leg bright flush soon weapon talk jeans close
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

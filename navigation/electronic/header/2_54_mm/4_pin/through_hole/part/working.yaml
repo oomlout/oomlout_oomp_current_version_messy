@@ -1,3 +1,185 @@
+bip_39_word_new_br1: void
+bip_39_word_new_br10: void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic
+bip_39_word_new_br11: void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic<br>body
+bip_39_word_new_br12: void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone<br>comic<br>body<br>ability
+bip_39_word_new_br2: void<br>myth
+bip_39_word_new_br3: void<br>myth<br>first
+bip_39_word_new_br4: void<br>myth<br>first<br>wash
+bip_39_word_new_br5: void<br>myth<br>first<br>wash<br>crime
+bip_39_word_new_br6: void<br>myth<br>first<br>wash<br>crime<br>exit
+bip_39_word_new_br7: void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride
+bip_39_word_new_br8: void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow
+bip_39_word_new_br9: void<br>myth<br>first<br>wash<br>crime<br>exit<br>pride<br>tomorrow<br>ozone
+bip_39_word_new_line1: void
+bip_39_word_new_line10: 'void
+
+  myth
+
+  first
+
+  wash
+
+  crime
+
+  exit
+
+  pride
+
+  tomorrow
+
+  ozone
+
+  comic'
+bip_39_word_new_line11: 'void
+
+  myth
+
+  first
+
+  wash
+
+  crime
+
+  exit
+
+  pride
+
+  tomorrow
+
+  ozone
+
+  comic
+
+  body'
+bip_39_word_new_line12: 'void
+
+  myth
+
+  first
+
+  wash
+
+  crime
+
+  exit
+
+  pride
+
+  tomorrow
+
+  ozone
+
+  comic
+
+  body
+
+  ability'
+bip_39_word_new_line2: 'void
+
+  myth'
+bip_39_word_new_line3: 'void
+
+  myth
+
+  first'
+bip_39_word_new_line4: 'void
+
+  myth
+
+  first
+
+  wash'
+bip_39_word_new_line5: 'void
+
+  myth
+
+  first
+
+  wash
+
+  crime'
+bip_39_word_new_line6: 'void
+
+  myth
+
+  first
+
+  wash
+
+  crime
+
+  exit'
+bip_39_word_new_line7: 'void
+
+  myth
+
+  first
+
+  wash
+
+  crime
+
+  exit
+
+  pride'
+bip_39_word_new_line8: 'void
+
+  myth
+
+  first
+
+  wash
+
+  crime
+
+  exit
+
+  pride
+
+  tomorrow'
+bip_39_word_new_line9: 'void
+
+  myth
+
+  first
+
+  wash
+
+  crime
+
+  exit
+
+  pride
+
+  tomorrow
+
+  ozone'
+bip_39_word_space_0:
+- void
+- myth
+- first
+- wash
+- crime
+- exit
+- pride
+- tomorrow
+- ozone
+- comic
+- body
+- ability
+bip_39_word_space_1: void
+bip_39_word_space_10: void myth first wash crime exit pride tomorrow ozone comic
+bip_39_word_space_11: void myth first wash crime exit pride tomorrow ozone comic body
+bip_39_word_space_12: void myth first wash crime exit pride tomorrow ozone comic body
+  ability
+bip_39_word_space_2: void myth
+bip_39_word_space_3: void myth first
+bip_39_word_space_4: void myth first wash
+bip_39_word_space_5: void myth first wash crime
+bip_39_word_space_6: void myth first wash crime exit
+bip_39_word_space_7: void myth first wash crime exit pride
+bip_39_word_space_8: void myth first wash crime exit pride tomorrow
+bip_39_word_space_9: void myth first wash crime exit pride tomorrow ozone
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

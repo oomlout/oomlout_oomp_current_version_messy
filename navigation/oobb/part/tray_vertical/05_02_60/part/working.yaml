@@ -1,3 +1,186 @@
+bip_39_word_new_br1: speed
+bip_39_word_new_br10: speed<br>coach<br>maze<br>abandon<br>act<br>girl<br>off<br>obscure<br>ostrich<br>option
+bip_39_word_new_br11: speed<br>coach<br>maze<br>abandon<br>act<br>girl<br>off<br>obscure<br>ostrich<br>option<br>loop
+bip_39_word_new_br12: speed<br>coach<br>maze<br>abandon<br>act<br>girl<br>off<br>obscure<br>ostrich<br>option<br>loop<br>antique
+bip_39_word_new_br2: speed<br>coach
+bip_39_word_new_br3: speed<br>coach<br>maze
+bip_39_word_new_br4: speed<br>coach<br>maze<br>abandon
+bip_39_word_new_br5: speed<br>coach<br>maze<br>abandon<br>act
+bip_39_word_new_br6: speed<br>coach<br>maze<br>abandon<br>act<br>girl
+bip_39_word_new_br7: speed<br>coach<br>maze<br>abandon<br>act<br>girl<br>off
+bip_39_word_new_br8: speed<br>coach<br>maze<br>abandon<br>act<br>girl<br>off<br>obscure
+bip_39_word_new_br9: speed<br>coach<br>maze<br>abandon<br>act<br>girl<br>off<br>obscure<br>ostrich
+bip_39_word_new_line1: speed
+bip_39_word_new_line10: 'speed
+
+  coach
+
+  maze
+
+  abandon
+
+  act
+
+  girl
+
+  off
+
+  obscure
+
+  ostrich
+
+  option'
+bip_39_word_new_line11: 'speed
+
+  coach
+
+  maze
+
+  abandon
+
+  act
+
+  girl
+
+  off
+
+  obscure
+
+  ostrich
+
+  option
+
+  loop'
+bip_39_word_new_line12: 'speed
+
+  coach
+
+  maze
+
+  abandon
+
+  act
+
+  girl
+
+  off
+
+  obscure
+
+  ostrich
+
+  option
+
+  loop
+
+  antique'
+bip_39_word_new_line2: 'speed
+
+  coach'
+bip_39_word_new_line3: 'speed
+
+  coach
+
+  maze'
+bip_39_word_new_line4: 'speed
+
+  coach
+
+  maze
+
+  abandon'
+bip_39_word_new_line5: 'speed
+
+  coach
+
+  maze
+
+  abandon
+
+  act'
+bip_39_word_new_line6: 'speed
+
+  coach
+
+  maze
+
+  abandon
+
+  act
+
+  girl'
+bip_39_word_new_line7: 'speed
+
+  coach
+
+  maze
+
+  abandon
+
+  act
+
+  girl
+
+  off'
+bip_39_word_new_line8: 'speed
+
+  coach
+
+  maze
+
+  abandon
+
+  act
+
+  girl
+
+  off
+
+  obscure'
+bip_39_word_new_line9: 'speed
+
+  coach
+
+  maze
+
+  abandon
+
+  act
+
+  girl
+
+  off
+
+  obscure
+
+  ostrich'
+bip_39_word_space_0:
+- speed
+- coach
+- maze
+- abandon
+- act
+- girl
+- 'off'
+- obscure
+- ostrich
+- option
+- loop
+- antique
+bip_39_word_space_1: speed
+bip_39_word_space_10: speed coach maze abandon act girl off obscure ostrich option
+bip_39_word_space_11: speed coach maze abandon act girl off obscure ostrich option
+  loop
+bip_39_word_space_12: speed coach maze abandon act girl off obscure ostrich option
+  loop antique
+bip_39_word_space_2: speed coach
+bip_39_word_space_3: speed coach maze
+bip_39_word_space_4: speed coach maze abandon
+bip_39_word_space_5: speed coach maze abandon act
+bip_39_word_space_6: speed coach maze abandon act girl
+bip_39_word_space_7: speed coach maze abandon act girl off
+bip_39_word_space_8: speed coach maze abandon act girl off obscure
+bip_39_word_space_9: speed coach maze abandon act girl off obscure ostrich
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

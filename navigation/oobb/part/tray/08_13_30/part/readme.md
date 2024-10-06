@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: final scan
+  * bip 39 word 3: final scan depend
+  * bip 39 word: final scan depend business account omit silent wealth solve transfer carpet among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | final |  
+| bip_39_word_new_br10 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer |  
+| bip_39_word_new_br11 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet |  
+| bip_39_word_new_br12 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet<br>among |  
+| bip_39_word_new_br2 | final<br>scan |  
+| bip_39_word_new_br3 | final<br>scan<br>depend |  
+| bip_39_word_new_br4 | final<br>scan<br>depend<br>business |  
+| bip_39_word_new_br5 | final<br>scan<br>depend<br>business<br>account |  
+| bip_39_word_new_br6 | final<br>scan<br>depend<br>business<br>account<br>omit |  
+| bip_39_word_new_br7 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent |  
+| bip_39_word_new_br8 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth |  
+| bip_39_word_new_br9 | final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve |  
+| bip_39_word_new_line1 | final |  
+| bip_39_word_new_line10 | final
+scan
+depend
+business
+account
+omit
+silent
+wealth
+solve
+transfer |  
+| bip_39_word_new_line11 | final
+scan
+depend
+business
+account
+omit
+silent
+wealth
+solve
+transfer
+carpet |  
+| bip_39_word_new_line12 | final
+scan
+depend
+business
+account
+omit
+silent
+wealth
+solve
+transfer
+carpet
+among |  
+| bip_39_word_new_line2 | final
+scan |  
+| bip_39_word_new_line3 | final
+scan
+depend |  
+| bip_39_word_new_line4 | final
+scan
+depend
+business |  
+| bip_39_word_new_line5 | final
+scan
+depend
+business
+account |  
+| bip_39_word_new_line6 | final
+scan
+depend
+business
+account
+omit |  
+| bip_39_word_new_line7 | final
+scan
+depend
+business
+account
+omit
+silent |  
+| bip_39_word_new_line8 | final
+scan
+depend
+business
+account
+omit
+silent
+wealth |  
+| bip_39_word_new_line9 | final
+scan
+depend
+business
+account
+omit
+silent
+wealth
+solve |  
+| bip_39_word_space_0 | ['final', 'scan', 'depend', 'business', 'account', 'omit', 'silent', 'wealth', 'solve', 'transfer', 'carpet', 'among'] |  
+| bip_39_word_space_1 | final |  
+| bip_39_word_space_10 | final scan depend business account omit silent wealth solve transfer |  
+| bip_39_word_space_11 | final scan depend business account omit silent wealth solve transfer carpet |  
+| bip_39_word_space_12 | final scan depend business account omit silent wealth solve transfer carpet among |  
+| bip_39_word_space_2 | final scan |  
+| bip_39_word_space_3 | final scan depend |  
+| bip_39_word_space_4 | final scan depend business |  
+| bip_39_word_space_5 | final scan depend business account |  
+| bip_39_word_space_6 | final scan depend business account omit |  
+| bip_39_word_space_7 | final scan depend business account omit silent |  
+| bip_39_word_space_8 | final scan depend business account omit silent wealth |  
+| bip_39_word_space_9 | final scan depend business account omit silent wealth solve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fame hover
+  * bip 39 word 3: fame hover book
+  * bip 39 word: fame hover book case merge arena wave update ethics code main amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fame |  
+| bip_39_word_new_br10 | fame<br>hover<br>book<br>case<br>merge<br>arena<br>wave<br>update<br>ethics<br>code |  
+| bip_39_word_new_br11 | fame<br>hover<br>book<br>case<br>merge<br>arena<br>wave<br>update<br>ethics<br>code<br>main |  
+| bip_39_word_new_br12 | fame<br>hover<br>book<br>case<br>merge<br>arena<br>wave<br>update<br>ethics<br>code<br>main<br>amateur |  
+| bip_39_word_new_br2 | fame<br>hover |  
+| bip_39_word_new_br3 | fame<br>hover<br>book |  
+| bip_39_word_new_br4 | fame<br>hover<br>book<br>case |  
+| bip_39_word_new_br5 | fame<br>hover<br>book<br>case<br>merge |  
+| bip_39_word_new_br6 | fame<br>hover<br>book<br>case<br>merge<br>arena |  
+| bip_39_word_new_br7 | fame<br>hover<br>book<br>case<br>merge<br>arena<br>wave |  
+| bip_39_word_new_br8 | fame<br>hover<br>book<br>case<br>merge<br>arena<br>wave<br>update |  
+| bip_39_word_new_br9 | fame<br>hover<br>book<br>case<br>merge<br>arena<br>wave<br>update<br>ethics |  
+| bip_39_word_new_line1 | fame |  
+| bip_39_word_new_line10 | fame
+hover
+book
+case
+merge
+arena
+wave
+update
+ethics
+code |  
+| bip_39_word_new_line11 | fame
+hover
+book
+case
+merge
+arena
+wave
+update
+ethics
+code
+main |  
+| bip_39_word_new_line12 | fame
+hover
+book
+case
+merge
+arena
+wave
+update
+ethics
+code
+main
+amateur |  
+| bip_39_word_new_line2 | fame
+hover |  
+| bip_39_word_new_line3 | fame
+hover
+book |  
+| bip_39_word_new_line4 | fame
+hover
+book
+case |  
+| bip_39_word_new_line5 | fame
+hover
+book
+case
+merge |  
+| bip_39_word_new_line6 | fame
+hover
+book
+case
+merge
+arena |  
+| bip_39_word_new_line7 | fame
+hover
+book
+case
+merge
+arena
+wave |  
+| bip_39_word_new_line8 | fame
+hover
+book
+case
+merge
+arena
+wave
+update |  
+| bip_39_word_new_line9 | fame
+hover
+book
+case
+merge
+arena
+wave
+update
+ethics |  
+| bip_39_word_space_0 | ['fame', 'hover', 'book', 'case', 'merge', 'arena', 'wave', 'update', 'ethics', 'code', 'main', 'amateur'] |  
+| bip_39_word_space_1 | fame |  
+| bip_39_word_space_10 | fame hover book case merge arena wave update ethics code |  
+| bip_39_word_space_11 | fame hover book case merge arena wave update ethics code main |  
+| bip_39_word_space_12 | fame hover book case merge arena wave update ethics code main amateur |  
+| bip_39_word_space_2 | fame hover |  
+| bip_39_word_space_3 | fame hover book |  
+| bip_39_word_space_4 | fame hover book case |  
+| bip_39_word_space_5 | fame hover book case merge |  
+| bip_39_word_space_6 | fame hover book case merge arena |  
+| bip_39_word_space_7 | fame hover book case merge arena wave |  
+| bip_39_word_space_8 | fame hover book case merge arena wave update |  
+| bip_39_word_space_9 | fame hover book case merge arena wave update ethics |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

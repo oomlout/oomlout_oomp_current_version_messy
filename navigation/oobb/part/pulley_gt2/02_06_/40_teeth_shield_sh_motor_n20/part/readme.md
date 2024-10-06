@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foot banana
+  * bip 39 word 3: foot banana wire
+  * bip 39 word: foot banana wire someone float cook hurry occur metal injury snake arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foot |  
+| bip_39_word_new_br10 | foot<br>banana<br>wire<br>someone<br>float<br>cook<br>hurry<br>occur<br>metal<br>injury |  
+| bip_39_word_new_br11 | foot<br>banana<br>wire<br>someone<br>float<br>cook<br>hurry<br>occur<br>metal<br>injury<br>snake |  
+| bip_39_word_new_br12 | foot<br>banana<br>wire<br>someone<br>float<br>cook<br>hurry<br>occur<br>metal<br>injury<br>snake<br>arrange |  
+| bip_39_word_new_br2 | foot<br>banana |  
+| bip_39_word_new_br3 | foot<br>banana<br>wire |  
+| bip_39_word_new_br4 | foot<br>banana<br>wire<br>someone |  
+| bip_39_word_new_br5 | foot<br>banana<br>wire<br>someone<br>float |  
+| bip_39_word_new_br6 | foot<br>banana<br>wire<br>someone<br>float<br>cook |  
+| bip_39_word_new_br7 | foot<br>banana<br>wire<br>someone<br>float<br>cook<br>hurry |  
+| bip_39_word_new_br8 | foot<br>banana<br>wire<br>someone<br>float<br>cook<br>hurry<br>occur |  
+| bip_39_word_new_br9 | foot<br>banana<br>wire<br>someone<br>float<br>cook<br>hurry<br>occur<br>metal |  
+| bip_39_word_new_line1 | foot |  
+| bip_39_word_new_line10 | foot
+banana
+wire
+someone
+float
+cook
+hurry
+occur
+metal
+injury |  
+| bip_39_word_new_line11 | foot
+banana
+wire
+someone
+float
+cook
+hurry
+occur
+metal
+injury
+snake |  
+| bip_39_word_new_line12 | foot
+banana
+wire
+someone
+float
+cook
+hurry
+occur
+metal
+injury
+snake
+arrange |  
+| bip_39_word_new_line2 | foot
+banana |  
+| bip_39_word_new_line3 | foot
+banana
+wire |  
+| bip_39_word_new_line4 | foot
+banana
+wire
+someone |  
+| bip_39_word_new_line5 | foot
+banana
+wire
+someone
+float |  
+| bip_39_word_new_line6 | foot
+banana
+wire
+someone
+float
+cook |  
+| bip_39_word_new_line7 | foot
+banana
+wire
+someone
+float
+cook
+hurry |  
+| bip_39_word_new_line8 | foot
+banana
+wire
+someone
+float
+cook
+hurry
+occur |  
+| bip_39_word_new_line9 | foot
+banana
+wire
+someone
+float
+cook
+hurry
+occur
+metal |  
+| bip_39_word_space_0 | ['foot', 'banana', 'wire', 'someone', 'float', 'cook', 'hurry', 'occur', 'metal', 'injury', 'snake', 'arrange'] |  
+| bip_39_word_space_1 | foot |  
+| bip_39_word_space_10 | foot banana wire someone float cook hurry occur metal injury |  
+| bip_39_word_space_11 | foot banana wire someone float cook hurry occur metal injury snake |  
+| bip_39_word_space_12 | foot banana wire someone float cook hurry occur metal injury snake arrange |  
+| bip_39_word_space_2 | foot banana |  
+| bip_39_word_space_3 | foot banana wire |  
+| bip_39_word_space_4 | foot banana wire someone |  
+| bip_39_word_space_5 | foot banana wire someone float |  
+| bip_39_word_space_6 | foot banana wire someone float cook |  
+| bip_39_word_space_7 | foot banana wire someone float cook hurry |  
+| bip_39_word_space_8 | foot banana wire someone float cook hurry occur |  
+| bip_39_word_space_9 | foot banana wire someone float cook hurry occur metal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

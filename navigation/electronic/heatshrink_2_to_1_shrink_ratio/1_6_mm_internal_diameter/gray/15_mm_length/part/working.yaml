@@ -1,3 +1,186 @@
+bip_39_word_new_br1: teach
+bip_39_word_new_br10: teach<br>memory<br>copper<br>know<br>unveil<br>scatter<br>wool<br>then<br>cheap<br>mean
+bip_39_word_new_br11: teach<br>memory<br>copper<br>know<br>unveil<br>scatter<br>wool<br>then<br>cheap<br>mean<br>obvious
+bip_39_word_new_br12: teach<br>memory<br>copper<br>know<br>unveil<br>scatter<br>wool<br>then<br>cheap<br>mean<br>obvious<br>account
+bip_39_word_new_br2: teach<br>memory
+bip_39_word_new_br3: teach<br>memory<br>copper
+bip_39_word_new_br4: teach<br>memory<br>copper<br>know
+bip_39_word_new_br5: teach<br>memory<br>copper<br>know<br>unveil
+bip_39_word_new_br6: teach<br>memory<br>copper<br>know<br>unveil<br>scatter
+bip_39_word_new_br7: teach<br>memory<br>copper<br>know<br>unveil<br>scatter<br>wool
+bip_39_word_new_br8: teach<br>memory<br>copper<br>know<br>unveil<br>scatter<br>wool<br>then
+bip_39_word_new_br9: teach<br>memory<br>copper<br>know<br>unveil<br>scatter<br>wool<br>then<br>cheap
+bip_39_word_new_line1: teach
+bip_39_word_new_line10: 'teach
+
+  memory
+
+  copper
+
+  know
+
+  unveil
+
+  scatter
+
+  wool
+
+  then
+
+  cheap
+
+  mean'
+bip_39_word_new_line11: 'teach
+
+  memory
+
+  copper
+
+  know
+
+  unveil
+
+  scatter
+
+  wool
+
+  then
+
+  cheap
+
+  mean
+
+  obvious'
+bip_39_word_new_line12: 'teach
+
+  memory
+
+  copper
+
+  know
+
+  unveil
+
+  scatter
+
+  wool
+
+  then
+
+  cheap
+
+  mean
+
+  obvious
+
+  account'
+bip_39_word_new_line2: 'teach
+
+  memory'
+bip_39_word_new_line3: 'teach
+
+  memory
+
+  copper'
+bip_39_word_new_line4: 'teach
+
+  memory
+
+  copper
+
+  know'
+bip_39_word_new_line5: 'teach
+
+  memory
+
+  copper
+
+  know
+
+  unveil'
+bip_39_word_new_line6: 'teach
+
+  memory
+
+  copper
+
+  know
+
+  unveil
+
+  scatter'
+bip_39_word_new_line7: 'teach
+
+  memory
+
+  copper
+
+  know
+
+  unveil
+
+  scatter
+
+  wool'
+bip_39_word_new_line8: 'teach
+
+  memory
+
+  copper
+
+  know
+
+  unveil
+
+  scatter
+
+  wool
+
+  then'
+bip_39_word_new_line9: 'teach
+
+  memory
+
+  copper
+
+  know
+
+  unveil
+
+  scatter
+
+  wool
+
+  then
+
+  cheap'
+bip_39_word_space_0:
+- teach
+- memory
+- copper
+- know
+- unveil
+- scatter
+- wool
+- then
+- cheap
+- mean
+- obvious
+- account
+bip_39_word_space_1: teach
+bip_39_word_space_10: teach memory copper know unveil scatter wool then cheap mean
+bip_39_word_space_11: teach memory copper know unveil scatter wool then cheap mean
+  obvious
+bip_39_word_space_12: teach memory copper know unveil scatter wool then cheap mean
+  obvious account
+bip_39_word_space_2: teach memory
+bip_39_word_space_3: teach memory copper
+bip_39_word_space_4: teach memory copper know
+bip_39_word_space_5: teach memory copper know unveil
+bip_39_word_space_6: teach memory copper know unveil scatter
+bip_39_word_space_7: teach memory copper know unveil scatter wool
+bip_39_word_space_8: teach memory copper know unveil scatter wool then
+bip_39_word_space_9: teach memory copper know unveil scatter wool then cheap
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

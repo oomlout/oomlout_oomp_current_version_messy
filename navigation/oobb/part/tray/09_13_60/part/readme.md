@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trigger invite
+  * bip 39 word 3: trigger invite easily
+  * bip 39 word: trigger invite easily deny short wedding smart furnace thrive faint monster apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trigger |  
+| bip_39_word_new_br10 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint |  
+| bip_39_word_new_br11 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint<br>monster |  
+| bip_39_word_new_br12 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive<br>faint<br>monster<br>apart |  
+| bip_39_word_new_br2 | trigger<br>invite |  
+| bip_39_word_new_br3 | trigger<br>invite<br>easily |  
+| bip_39_word_new_br4 | trigger<br>invite<br>easily<br>deny |  
+| bip_39_word_new_br5 | trigger<br>invite<br>easily<br>deny<br>short |  
+| bip_39_word_new_br6 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding |  
+| bip_39_word_new_br7 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart |  
+| bip_39_word_new_br8 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace |  
+| bip_39_word_new_br9 | trigger<br>invite<br>easily<br>deny<br>short<br>wedding<br>smart<br>furnace<br>thrive |  
+| bip_39_word_new_line1 | trigger |  
+| bip_39_word_new_line10 | trigger
+invite
+easily
+deny
+short
+wedding
+smart
+furnace
+thrive
+faint |  
+| bip_39_word_new_line11 | trigger
+invite
+easily
+deny
+short
+wedding
+smart
+furnace
+thrive
+faint
+monster |  
+| bip_39_word_new_line12 | trigger
+invite
+easily
+deny
+short
+wedding
+smart
+furnace
+thrive
+faint
+monster
+apart |  
+| bip_39_word_new_line2 | trigger
+invite |  
+| bip_39_word_new_line3 | trigger
+invite
+easily |  
+| bip_39_word_new_line4 | trigger
+invite
+easily
+deny |  
+| bip_39_word_new_line5 | trigger
+invite
+easily
+deny
+short |  
+| bip_39_word_new_line6 | trigger
+invite
+easily
+deny
+short
+wedding |  
+| bip_39_word_new_line7 | trigger
+invite
+easily
+deny
+short
+wedding
+smart |  
+| bip_39_word_new_line8 | trigger
+invite
+easily
+deny
+short
+wedding
+smart
+furnace |  
+| bip_39_word_new_line9 | trigger
+invite
+easily
+deny
+short
+wedding
+smart
+furnace
+thrive |  
+| bip_39_word_space_0 | ['trigger', 'invite', 'easily', 'deny', 'short', 'wedding', 'smart', 'furnace', 'thrive', 'faint', 'monster', 'apart'] |  
+| bip_39_word_space_1 | trigger |  
+| bip_39_word_space_10 | trigger invite easily deny short wedding smart furnace thrive faint |  
+| bip_39_word_space_11 | trigger invite easily deny short wedding smart furnace thrive faint monster |  
+| bip_39_word_space_12 | trigger invite easily deny short wedding smart furnace thrive faint monster apart |  
+| bip_39_word_space_2 | trigger invite |  
+| bip_39_word_space_3 | trigger invite easily |  
+| bip_39_word_space_4 | trigger invite easily deny |  
+| bip_39_word_space_5 | trigger invite easily deny short |  
+| bip_39_word_space_6 | trigger invite easily deny short wedding |  
+| bip_39_word_space_7 | trigger invite easily deny short wedding smart |  
+| bip_39_word_space_8 | trigger invite easily deny short wedding smart furnace |  
+| bip_39_word_space_9 | trigger invite easily deny short wedding smart furnace thrive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

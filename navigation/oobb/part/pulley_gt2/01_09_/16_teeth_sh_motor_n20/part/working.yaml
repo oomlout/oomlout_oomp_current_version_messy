@@ -1,3 +1,186 @@
+bip_39_word_new_br1: coffee
+bip_39_word_new_br10: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory<br>neglect
+bip_39_word_new_br11: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory<br>neglect<br>river
+bip_39_word_new_br12: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory<br>neglect<br>river<br>attract
+bip_39_word_new_br2: coffee<br>always
+bip_39_word_new_br3: coffee<br>always<br>build
+bip_39_word_new_br4: coffee<br>always<br>build<br>chuckle
+bip_39_word_new_br5: coffee<br>always<br>build<br>chuckle<br>smooth
+bip_39_word_new_br6: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu
+bip_39_word_new_br7: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack
+bip_39_word_new_br8: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise
+bip_39_word_new_br9: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory
+bip_39_word_new_line1: coffee
+bip_39_word_new_line10: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise
+
+  memory
+
+  neglect'
+bip_39_word_new_line11: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise
+
+  memory
+
+  neglect
+
+  river'
+bip_39_word_new_line12: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise
+
+  memory
+
+  neglect
+
+  river
+
+  attract'
+bip_39_word_new_line2: 'coffee
+
+  always'
+bip_39_word_new_line3: 'coffee
+
+  always
+
+  build'
+bip_39_word_new_line4: 'coffee
+
+  always
+
+  build
+
+  chuckle'
+bip_39_word_new_line5: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth'
+bip_39_word_new_line6: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu'
+bip_39_word_new_line7: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack'
+bip_39_word_new_line8: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise'
+bip_39_word_new_line9: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise
+
+  memory'
+bip_39_word_space_0:
+- coffee
+- always
+- build
+- chuckle
+- smooth
+- menu
+- rack
+- demise
+- memory
+- neglect
+- river
+- attract
+bip_39_word_space_1: coffee
+bip_39_word_space_10: coffee always build chuckle smooth menu rack demise memory neglect
+bip_39_word_space_11: coffee always build chuckle smooth menu rack demise memory neglect
+  river
+bip_39_word_space_12: coffee always build chuckle smooth menu rack demise memory neglect
+  river attract
+bip_39_word_space_2: coffee always
+bip_39_word_space_3: coffee always build
+bip_39_word_space_4: coffee always build chuckle
+bip_39_word_space_5: coffee always build chuckle smooth
+bip_39_word_space_6: coffee always build chuckle smooth menu
+bip_39_word_space_7: coffee always build chuckle smooth menu rack
+bip_39_word_space_8: coffee always build chuckle smooth menu rack demise
+bip_39_word_space_9: coffee always build chuckle smooth menu rack demise memory
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

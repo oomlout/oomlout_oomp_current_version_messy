@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soul vessel
+  * bip 39 word 3: soul vessel place
+  * bip 39 word: soul vessel place argue combine border enlist trash shuffle pave march amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soul |  
+| bip_39_word_new_br10 | soul<br>vessel<br>place<br>argue<br>combine<br>border<br>enlist<br>trash<br>shuffle<br>pave |  
+| bip_39_word_new_br11 | soul<br>vessel<br>place<br>argue<br>combine<br>border<br>enlist<br>trash<br>shuffle<br>pave<br>march |  
+| bip_39_word_new_br12 | soul<br>vessel<br>place<br>argue<br>combine<br>border<br>enlist<br>trash<br>shuffle<br>pave<br>march<br>amateur |  
+| bip_39_word_new_br2 | soul<br>vessel |  
+| bip_39_word_new_br3 | soul<br>vessel<br>place |  
+| bip_39_word_new_br4 | soul<br>vessel<br>place<br>argue |  
+| bip_39_word_new_br5 | soul<br>vessel<br>place<br>argue<br>combine |  
+| bip_39_word_new_br6 | soul<br>vessel<br>place<br>argue<br>combine<br>border |  
+| bip_39_word_new_br7 | soul<br>vessel<br>place<br>argue<br>combine<br>border<br>enlist |  
+| bip_39_word_new_br8 | soul<br>vessel<br>place<br>argue<br>combine<br>border<br>enlist<br>trash |  
+| bip_39_word_new_br9 | soul<br>vessel<br>place<br>argue<br>combine<br>border<br>enlist<br>trash<br>shuffle |  
+| bip_39_word_new_line1 | soul |  
+| bip_39_word_new_line10 | soul
+vessel
+place
+argue
+combine
+border
+enlist
+trash
+shuffle
+pave |  
+| bip_39_word_new_line11 | soul
+vessel
+place
+argue
+combine
+border
+enlist
+trash
+shuffle
+pave
+march |  
+| bip_39_word_new_line12 | soul
+vessel
+place
+argue
+combine
+border
+enlist
+trash
+shuffle
+pave
+march
+amateur |  
+| bip_39_word_new_line2 | soul
+vessel |  
+| bip_39_word_new_line3 | soul
+vessel
+place |  
+| bip_39_word_new_line4 | soul
+vessel
+place
+argue |  
+| bip_39_word_new_line5 | soul
+vessel
+place
+argue
+combine |  
+| bip_39_word_new_line6 | soul
+vessel
+place
+argue
+combine
+border |  
+| bip_39_word_new_line7 | soul
+vessel
+place
+argue
+combine
+border
+enlist |  
+| bip_39_word_new_line8 | soul
+vessel
+place
+argue
+combine
+border
+enlist
+trash |  
+| bip_39_word_new_line9 | soul
+vessel
+place
+argue
+combine
+border
+enlist
+trash
+shuffle |  
+| bip_39_word_space_0 | ['soul', 'vessel', 'place', 'argue', 'combine', 'border', 'enlist', 'trash', 'shuffle', 'pave', 'march', 'amateur'] |  
+| bip_39_word_space_1 | soul |  
+| bip_39_word_space_10 | soul vessel place argue combine border enlist trash shuffle pave |  
+| bip_39_word_space_11 | soul vessel place argue combine border enlist trash shuffle pave march |  
+| bip_39_word_space_12 | soul vessel place argue combine border enlist trash shuffle pave march amateur |  
+| bip_39_word_space_2 | soul vessel |  
+| bip_39_word_space_3 | soul vessel place |  
+| bip_39_word_space_4 | soul vessel place argue |  
+| bip_39_word_space_5 | soul vessel place argue combine |  
+| bip_39_word_space_6 | soul vessel place argue combine border |  
+| bip_39_word_space_7 | soul vessel place argue combine border enlist |  
+| bip_39_word_space_8 | soul vessel place argue combine border enlist trash |  
+| bip_39_word_space_9 | soul vessel place argue combine border enlist trash shuffle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

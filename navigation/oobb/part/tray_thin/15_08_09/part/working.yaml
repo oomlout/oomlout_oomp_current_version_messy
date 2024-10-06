@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ankle
+bip_39_word_new_br10: ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest
+bip_39_word_new_br11: ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest<br>similar
+bip_39_word_new_br12: ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net<br>suggest<br>similar<br>armed
+bip_39_word_new_br2: ankle<br>razor
+bip_39_word_new_br3: ankle<br>razor<br>load
+bip_39_word_new_br4: ankle<br>razor<br>load<br>hurdle
+bip_39_word_new_br5: ankle<br>razor<br>load<br>hurdle<br>teach
+bip_39_word_new_br6: ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome
+bip_39_word_new_br7: ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice
+bip_39_word_new_br8: ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want
+bip_39_word_new_br9: ankle<br>razor<br>load<br>hurdle<br>teach<br>welcome<br>nice<br>want<br>net
+bip_39_word_new_line1: ankle
+bip_39_word_new_line10: 'ankle
+
+  razor
+
+  load
+
+  hurdle
+
+  teach
+
+  welcome
+
+  nice
+
+  want
+
+  net
+
+  suggest'
+bip_39_word_new_line11: 'ankle
+
+  razor
+
+  load
+
+  hurdle
+
+  teach
+
+  welcome
+
+  nice
+
+  want
+
+  net
+
+  suggest
+
+  similar'
+bip_39_word_new_line12: 'ankle
+
+  razor
+
+  load
+
+  hurdle
+
+  teach
+
+  welcome
+
+  nice
+
+  want
+
+  net
+
+  suggest
+
+  similar
+
+  armed'
+bip_39_word_new_line2: 'ankle
+
+  razor'
+bip_39_word_new_line3: 'ankle
+
+  razor
+
+  load'
+bip_39_word_new_line4: 'ankle
+
+  razor
+
+  load
+
+  hurdle'
+bip_39_word_new_line5: 'ankle
+
+  razor
+
+  load
+
+  hurdle
+
+  teach'
+bip_39_word_new_line6: 'ankle
+
+  razor
+
+  load
+
+  hurdle
+
+  teach
+
+  welcome'
+bip_39_word_new_line7: 'ankle
+
+  razor
+
+  load
+
+  hurdle
+
+  teach
+
+  welcome
+
+  nice'
+bip_39_word_new_line8: 'ankle
+
+  razor
+
+  load
+
+  hurdle
+
+  teach
+
+  welcome
+
+  nice
+
+  want'
+bip_39_word_new_line9: 'ankle
+
+  razor
+
+  load
+
+  hurdle
+
+  teach
+
+  welcome
+
+  nice
+
+  want
+
+  net'
+bip_39_word_space_0:
+- ankle
+- razor
+- load
+- hurdle
+- teach
+- welcome
+- nice
+- want
+- net
+- suggest
+- similar
+- armed
+bip_39_word_space_1: ankle
+bip_39_word_space_10: ankle razor load hurdle teach welcome nice want net suggest
+bip_39_word_space_11: ankle razor load hurdle teach welcome nice want net suggest
+  similar
+bip_39_word_space_12: ankle razor load hurdle teach welcome nice want net suggest
+  similar armed
+bip_39_word_space_2: ankle razor
+bip_39_word_space_3: ankle razor load
+bip_39_word_space_4: ankle razor load hurdle
+bip_39_word_space_5: ankle razor load hurdle teach
+bip_39_word_space_6: ankle razor load hurdle teach welcome
+bip_39_word_space_7: ankle razor load hurdle teach welcome nice
+bip_39_word_space_8: ankle razor load hurdle teach welcome nice want
+bip_39_word_space_9: ankle razor load hurdle teach welcome nice want net
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

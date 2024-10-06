@@ -1,3 +1,186 @@
+bip_39_word_new_br1: marble
+bip_39_word_new_br10: marble<br>fever<br>ceiling<br>illegal<br>gate<br>review<br>moon<br>infant<br>love<br>medal
+bip_39_word_new_br11: marble<br>fever<br>ceiling<br>illegal<br>gate<br>review<br>moon<br>infant<br>love<br>medal<br>find
+bip_39_word_new_br12: marble<br>fever<br>ceiling<br>illegal<br>gate<br>review<br>moon<br>infant<br>love<br>medal<br>find<br>aim
+bip_39_word_new_br2: marble<br>fever
+bip_39_word_new_br3: marble<br>fever<br>ceiling
+bip_39_word_new_br4: marble<br>fever<br>ceiling<br>illegal
+bip_39_word_new_br5: marble<br>fever<br>ceiling<br>illegal<br>gate
+bip_39_word_new_br6: marble<br>fever<br>ceiling<br>illegal<br>gate<br>review
+bip_39_word_new_br7: marble<br>fever<br>ceiling<br>illegal<br>gate<br>review<br>moon
+bip_39_word_new_br8: marble<br>fever<br>ceiling<br>illegal<br>gate<br>review<br>moon<br>infant
+bip_39_word_new_br9: marble<br>fever<br>ceiling<br>illegal<br>gate<br>review<br>moon<br>infant<br>love
+bip_39_word_new_line1: marble
+bip_39_word_new_line10: 'marble
+
+  fever
+
+  ceiling
+
+  illegal
+
+  gate
+
+  review
+
+  moon
+
+  infant
+
+  love
+
+  medal'
+bip_39_word_new_line11: 'marble
+
+  fever
+
+  ceiling
+
+  illegal
+
+  gate
+
+  review
+
+  moon
+
+  infant
+
+  love
+
+  medal
+
+  find'
+bip_39_word_new_line12: 'marble
+
+  fever
+
+  ceiling
+
+  illegal
+
+  gate
+
+  review
+
+  moon
+
+  infant
+
+  love
+
+  medal
+
+  find
+
+  aim'
+bip_39_word_new_line2: 'marble
+
+  fever'
+bip_39_word_new_line3: 'marble
+
+  fever
+
+  ceiling'
+bip_39_word_new_line4: 'marble
+
+  fever
+
+  ceiling
+
+  illegal'
+bip_39_word_new_line5: 'marble
+
+  fever
+
+  ceiling
+
+  illegal
+
+  gate'
+bip_39_word_new_line6: 'marble
+
+  fever
+
+  ceiling
+
+  illegal
+
+  gate
+
+  review'
+bip_39_word_new_line7: 'marble
+
+  fever
+
+  ceiling
+
+  illegal
+
+  gate
+
+  review
+
+  moon'
+bip_39_word_new_line8: 'marble
+
+  fever
+
+  ceiling
+
+  illegal
+
+  gate
+
+  review
+
+  moon
+
+  infant'
+bip_39_word_new_line9: 'marble
+
+  fever
+
+  ceiling
+
+  illegal
+
+  gate
+
+  review
+
+  moon
+
+  infant
+
+  love'
+bip_39_word_space_0:
+- marble
+- fever
+- ceiling
+- illegal
+- gate
+- review
+- moon
+- infant
+- love
+- medal
+- find
+- aim
+bip_39_word_space_1: marble
+bip_39_word_space_10: marble fever ceiling illegal gate review moon infant love medal
+bip_39_word_space_11: marble fever ceiling illegal gate review moon infant love medal
+  find
+bip_39_word_space_12: marble fever ceiling illegal gate review moon infant love medal
+  find aim
+bip_39_word_space_2: marble fever
+bip_39_word_space_3: marble fever ceiling
+bip_39_word_space_4: marble fever ceiling illegal
+bip_39_word_space_5: marble fever ceiling illegal gate
+bip_39_word_space_6: marble fever ceiling illegal gate review
+bip_39_word_space_7: marble fever ceiling illegal gate review moon
+bip_39_word_space_8: marble fever ceiling illegal gate review moon infant
+bip_39_word_space_9: marble fever ceiling illegal gate review moon infant love
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

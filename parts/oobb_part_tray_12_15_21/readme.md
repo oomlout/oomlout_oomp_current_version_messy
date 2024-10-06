@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stove gym
+  * bip 39 word 3: stove gym atom
+  * bip 39 word: stove gym atom obvious sorry switch tuna vivid laptop future neglect audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stove |  
+| bip_39_word_new_br10 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch<br>tuna<br>vivid<br>laptop<br>future |  
+| bip_39_word_new_br11 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch<br>tuna<br>vivid<br>laptop<br>future<br>neglect |  
+| bip_39_word_new_br12 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch<br>tuna<br>vivid<br>laptop<br>future<br>neglect<br>audit |  
+| bip_39_word_new_br2 | stove<br>gym |  
+| bip_39_word_new_br3 | stove<br>gym<br>atom |  
+| bip_39_word_new_br4 | stove<br>gym<br>atom<br>obvious |  
+| bip_39_word_new_br5 | stove<br>gym<br>atom<br>obvious<br>sorry |  
+| bip_39_word_new_br6 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch |  
+| bip_39_word_new_br7 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch<br>tuna |  
+| bip_39_word_new_br8 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch<br>tuna<br>vivid |  
+| bip_39_word_new_br9 | stove<br>gym<br>atom<br>obvious<br>sorry<br>switch<br>tuna<br>vivid<br>laptop |  
+| bip_39_word_new_line1 | stove |  
+| bip_39_word_new_line10 | stove
+gym
+atom
+obvious
+sorry
+switch
+tuna
+vivid
+laptop
+future |  
+| bip_39_word_new_line11 | stove
+gym
+atom
+obvious
+sorry
+switch
+tuna
+vivid
+laptop
+future
+neglect |  
+| bip_39_word_new_line12 | stove
+gym
+atom
+obvious
+sorry
+switch
+tuna
+vivid
+laptop
+future
+neglect
+audit |  
+| bip_39_word_new_line2 | stove
+gym |  
+| bip_39_word_new_line3 | stove
+gym
+atom |  
+| bip_39_word_new_line4 | stove
+gym
+atom
+obvious |  
+| bip_39_word_new_line5 | stove
+gym
+atom
+obvious
+sorry |  
+| bip_39_word_new_line6 | stove
+gym
+atom
+obvious
+sorry
+switch |  
+| bip_39_word_new_line7 | stove
+gym
+atom
+obvious
+sorry
+switch
+tuna |  
+| bip_39_word_new_line8 | stove
+gym
+atom
+obvious
+sorry
+switch
+tuna
+vivid |  
+| bip_39_word_new_line9 | stove
+gym
+atom
+obvious
+sorry
+switch
+tuna
+vivid
+laptop |  
+| bip_39_word_space_0 | ['stove', 'gym', 'atom', 'obvious', 'sorry', 'switch', 'tuna', 'vivid', 'laptop', 'future', 'neglect', 'audit'] |  
+| bip_39_word_space_1 | stove |  
+| bip_39_word_space_10 | stove gym atom obvious sorry switch tuna vivid laptop future |  
+| bip_39_word_space_11 | stove gym atom obvious sorry switch tuna vivid laptop future neglect |  
+| bip_39_word_space_12 | stove gym atom obvious sorry switch tuna vivid laptop future neglect audit |  
+| bip_39_word_space_2 | stove gym |  
+| bip_39_word_space_3 | stove gym atom |  
+| bip_39_word_space_4 | stove gym atom obvious |  
+| bip_39_word_space_5 | stove gym atom obvious sorry |  
+| bip_39_word_space_6 | stove gym atom obvious sorry switch |  
+| bip_39_word_space_7 | stove gym atom obvious sorry switch tuna |  
+| bip_39_word_space_8 | stove gym atom obvious sorry switch tuna vivid |  
+| bip_39_word_space_9 | stove gym atom obvious sorry switch tuna vivid laptop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

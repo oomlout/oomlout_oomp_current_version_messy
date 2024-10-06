@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: magic bright
+  * bip 39 word 3: magic bright property
+  * bip 39 word: magic bright property deposit pink radar milk pattern blossom simple daring arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | magic |  
+| bip_39_word_new_br10 | magic<br>bright<br>property<br>deposit<br>pink<br>radar<br>milk<br>pattern<br>blossom<br>simple |  
+| bip_39_word_new_br11 | magic<br>bright<br>property<br>deposit<br>pink<br>radar<br>milk<br>pattern<br>blossom<br>simple<br>daring |  
+| bip_39_word_new_br12 | magic<br>bright<br>property<br>deposit<br>pink<br>radar<br>milk<br>pattern<br>blossom<br>simple<br>daring<br>arch |  
+| bip_39_word_new_br2 | magic<br>bright |  
+| bip_39_word_new_br3 | magic<br>bright<br>property |  
+| bip_39_word_new_br4 | magic<br>bright<br>property<br>deposit |  
+| bip_39_word_new_br5 | magic<br>bright<br>property<br>deposit<br>pink |  
+| bip_39_word_new_br6 | magic<br>bright<br>property<br>deposit<br>pink<br>radar |  
+| bip_39_word_new_br7 | magic<br>bright<br>property<br>deposit<br>pink<br>radar<br>milk |  
+| bip_39_word_new_br8 | magic<br>bright<br>property<br>deposit<br>pink<br>radar<br>milk<br>pattern |  
+| bip_39_word_new_br9 | magic<br>bright<br>property<br>deposit<br>pink<br>radar<br>milk<br>pattern<br>blossom |  
+| bip_39_word_new_line1 | magic |  
+| bip_39_word_new_line10 | magic
+bright
+property
+deposit
+pink
+radar
+milk
+pattern
+blossom
+simple |  
+| bip_39_word_new_line11 | magic
+bright
+property
+deposit
+pink
+radar
+milk
+pattern
+blossom
+simple
+daring |  
+| bip_39_word_new_line12 | magic
+bright
+property
+deposit
+pink
+radar
+milk
+pattern
+blossom
+simple
+daring
+arch |  
+| bip_39_word_new_line2 | magic
+bright |  
+| bip_39_word_new_line3 | magic
+bright
+property |  
+| bip_39_word_new_line4 | magic
+bright
+property
+deposit |  
+| bip_39_word_new_line5 | magic
+bright
+property
+deposit
+pink |  
+| bip_39_word_new_line6 | magic
+bright
+property
+deposit
+pink
+radar |  
+| bip_39_word_new_line7 | magic
+bright
+property
+deposit
+pink
+radar
+milk |  
+| bip_39_word_new_line8 | magic
+bright
+property
+deposit
+pink
+radar
+milk
+pattern |  
+| bip_39_word_new_line9 | magic
+bright
+property
+deposit
+pink
+radar
+milk
+pattern
+blossom |  
+| bip_39_word_space_0 | ['magic', 'bright', 'property', 'deposit', 'pink', 'radar', 'milk', 'pattern', 'blossom', 'simple', 'daring', 'arch'] |  
+| bip_39_word_space_1 | magic |  
+| bip_39_word_space_10 | magic bright property deposit pink radar milk pattern blossom simple |  
+| bip_39_word_space_11 | magic bright property deposit pink radar milk pattern blossom simple daring |  
+| bip_39_word_space_12 | magic bright property deposit pink radar milk pattern blossom simple daring arch |  
+| bip_39_word_space_2 | magic bright |  
+| bip_39_word_space_3 | magic bright property |  
+| bip_39_word_space_4 | magic bright property deposit |  
+| bip_39_word_space_5 | magic bright property deposit pink |  
+| bip_39_word_space_6 | magic bright property deposit pink radar |  
+| bip_39_word_space_7 | magic bright property deposit pink radar milk |  
+| bip_39_word_space_8 | magic bright property deposit pink radar milk pattern |  
+| bip_39_word_space_9 | magic bright property deposit pink radar milk pattern blossom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

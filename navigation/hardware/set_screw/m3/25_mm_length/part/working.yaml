@@ -1,3 +1,186 @@
+bip_39_word_new_br1: diet
+bip_39_word_new_br10: diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage
+bip_39_word_new_br11: diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage<br>flight
+bip_39_word_new_br12: diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture<br>luggage<br>flight<br>already
+bip_39_word_new_br2: diet<br>ancient
+bip_39_word_new_br3: diet<br>ancient<br>museum
+bip_39_word_new_br4: diet<br>ancient<br>museum<br>color
+bip_39_word_new_br5: diet<br>ancient<br>museum<br>color<br>cost
+bip_39_word_new_br6: diet<br>ancient<br>museum<br>color<br>cost<br>jar
+bip_39_word_new_br7: diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss
+bip_39_word_new_br8: diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power
+bip_39_word_new_br9: diet<br>ancient<br>museum<br>color<br>cost<br>jar<br>dismiss<br>power<br>venture
+bip_39_word_new_line1: diet
+bip_39_word_new_line10: 'diet
+
+  ancient
+
+  museum
+
+  color
+
+  cost
+
+  jar
+
+  dismiss
+
+  power
+
+  venture
+
+  luggage'
+bip_39_word_new_line11: 'diet
+
+  ancient
+
+  museum
+
+  color
+
+  cost
+
+  jar
+
+  dismiss
+
+  power
+
+  venture
+
+  luggage
+
+  flight'
+bip_39_word_new_line12: 'diet
+
+  ancient
+
+  museum
+
+  color
+
+  cost
+
+  jar
+
+  dismiss
+
+  power
+
+  venture
+
+  luggage
+
+  flight
+
+  already'
+bip_39_word_new_line2: 'diet
+
+  ancient'
+bip_39_word_new_line3: 'diet
+
+  ancient
+
+  museum'
+bip_39_word_new_line4: 'diet
+
+  ancient
+
+  museum
+
+  color'
+bip_39_word_new_line5: 'diet
+
+  ancient
+
+  museum
+
+  color
+
+  cost'
+bip_39_word_new_line6: 'diet
+
+  ancient
+
+  museum
+
+  color
+
+  cost
+
+  jar'
+bip_39_word_new_line7: 'diet
+
+  ancient
+
+  museum
+
+  color
+
+  cost
+
+  jar
+
+  dismiss'
+bip_39_word_new_line8: 'diet
+
+  ancient
+
+  museum
+
+  color
+
+  cost
+
+  jar
+
+  dismiss
+
+  power'
+bip_39_word_new_line9: 'diet
+
+  ancient
+
+  museum
+
+  color
+
+  cost
+
+  jar
+
+  dismiss
+
+  power
+
+  venture'
+bip_39_word_space_0:
+- diet
+- ancient
+- museum
+- color
+- cost
+- jar
+- dismiss
+- power
+- venture
+- luggage
+- flight
+- already
+bip_39_word_space_1: diet
+bip_39_word_space_10: diet ancient museum color cost jar dismiss power venture luggage
+bip_39_word_space_11: diet ancient museum color cost jar dismiss power venture luggage
+  flight
+bip_39_word_space_12: diet ancient museum color cost jar dismiss power venture luggage
+  flight already
+bip_39_word_space_2: diet ancient
+bip_39_word_space_3: diet ancient museum
+bip_39_word_space_4: diet ancient museum color
+bip_39_word_space_5: diet ancient museum color cost
+bip_39_word_space_6: diet ancient museum color cost jar
+bip_39_word_space_7: diet ancient museum color cost jar dismiss
+bip_39_word_space_8: diet ancient museum color cost jar dismiss power
+bip_39_word_space_9: diet ancient museum color cost jar dismiss power venture
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

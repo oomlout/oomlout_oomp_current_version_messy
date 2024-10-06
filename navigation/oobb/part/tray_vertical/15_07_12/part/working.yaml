@@ -1,3 +1,186 @@
+bip_39_word_new_br1: usage
+bip_39_word_new_br10: usage<br>mind<br>want<br>abandon<br>uniform<br>sister<br>suit<br>pond<br>north<br>budget
+bip_39_word_new_br11: usage<br>mind<br>want<br>abandon<br>uniform<br>sister<br>suit<br>pond<br>north<br>budget<br>maze
+bip_39_word_new_br12: usage<br>mind<br>want<br>abandon<br>uniform<br>sister<br>suit<br>pond<br>north<br>budget<br>maze<br>apology
+bip_39_word_new_br2: usage<br>mind
+bip_39_word_new_br3: usage<br>mind<br>want
+bip_39_word_new_br4: usage<br>mind<br>want<br>abandon
+bip_39_word_new_br5: usage<br>mind<br>want<br>abandon<br>uniform
+bip_39_word_new_br6: usage<br>mind<br>want<br>abandon<br>uniform<br>sister
+bip_39_word_new_br7: usage<br>mind<br>want<br>abandon<br>uniform<br>sister<br>suit
+bip_39_word_new_br8: usage<br>mind<br>want<br>abandon<br>uniform<br>sister<br>suit<br>pond
+bip_39_word_new_br9: usage<br>mind<br>want<br>abandon<br>uniform<br>sister<br>suit<br>pond<br>north
+bip_39_word_new_line1: usage
+bip_39_word_new_line10: 'usage
+
+  mind
+
+  want
+
+  abandon
+
+  uniform
+
+  sister
+
+  suit
+
+  pond
+
+  north
+
+  budget'
+bip_39_word_new_line11: 'usage
+
+  mind
+
+  want
+
+  abandon
+
+  uniform
+
+  sister
+
+  suit
+
+  pond
+
+  north
+
+  budget
+
+  maze'
+bip_39_word_new_line12: 'usage
+
+  mind
+
+  want
+
+  abandon
+
+  uniform
+
+  sister
+
+  suit
+
+  pond
+
+  north
+
+  budget
+
+  maze
+
+  apology'
+bip_39_word_new_line2: 'usage
+
+  mind'
+bip_39_word_new_line3: 'usage
+
+  mind
+
+  want'
+bip_39_word_new_line4: 'usage
+
+  mind
+
+  want
+
+  abandon'
+bip_39_word_new_line5: 'usage
+
+  mind
+
+  want
+
+  abandon
+
+  uniform'
+bip_39_word_new_line6: 'usage
+
+  mind
+
+  want
+
+  abandon
+
+  uniform
+
+  sister'
+bip_39_word_new_line7: 'usage
+
+  mind
+
+  want
+
+  abandon
+
+  uniform
+
+  sister
+
+  suit'
+bip_39_word_new_line8: 'usage
+
+  mind
+
+  want
+
+  abandon
+
+  uniform
+
+  sister
+
+  suit
+
+  pond'
+bip_39_word_new_line9: 'usage
+
+  mind
+
+  want
+
+  abandon
+
+  uniform
+
+  sister
+
+  suit
+
+  pond
+
+  north'
+bip_39_word_space_0:
+- usage
+- mind
+- want
+- abandon
+- uniform
+- sister
+- suit
+- pond
+- north
+- budget
+- maze
+- apology
+bip_39_word_space_1: usage
+bip_39_word_space_10: usage mind want abandon uniform sister suit pond north budget
+bip_39_word_space_11: usage mind want abandon uniform sister suit pond north budget
+  maze
+bip_39_word_space_12: usage mind want abandon uniform sister suit pond north budget
+  maze apology
+bip_39_word_space_2: usage mind
+bip_39_word_space_3: usage mind want
+bip_39_word_space_4: usage mind want abandon
+bip_39_word_space_5: usage mind want abandon uniform
+bip_39_word_space_6: usage mind want abandon uniform sister
+bip_39_word_space_7: usage mind want abandon uniform sister suit
+bip_39_word_space_8: usage mind want abandon uniform sister suit pond
+bip_39_word_space_9: usage mind want abandon uniform sister suit pond north
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

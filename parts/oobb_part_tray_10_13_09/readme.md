@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: script cabin
+  * bip 39 word 3: script cabin stem
+  * bip 39 word: script cabin stem fuel attitude auto pepper settle warm assault vacuum asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | script |  
+| bip_39_word_new_br10 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault |  
+| bip_39_word_new_br11 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault<br>vacuum |  
+| bip_39_word_new_br12 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm<br>assault<br>vacuum<br>asthma |  
+| bip_39_word_new_br2 | script<br>cabin |  
+| bip_39_word_new_br3 | script<br>cabin<br>stem |  
+| bip_39_word_new_br4 | script<br>cabin<br>stem<br>fuel |  
+| bip_39_word_new_br5 | script<br>cabin<br>stem<br>fuel<br>attitude |  
+| bip_39_word_new_br6 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto |  
+| bip_39_word_new_br7 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper |  
+| bip_39_word_new_br8 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle |  
+| bip_39_word_new_br9 | script<br>cabin<br>stem<br>fuel<br>attitude<br>auto<br>pepper<br>settle<br>warm |  
+| bip_39_word_new_line1 | script |  
+| bip_39_word_new_line10 | script
+cabin
+stem
+fuel
+attitude
+auto
+pepper
+settle
+warm
+assault |  
+| bip_39_word_new_line11 | script
+cabin
+stem
+fuel
+attitude
+auto
+pepper
+settle
+warm
+assault
+vacuum |  
+| bip_39_word_new_line12 | script
+cabin
+stem
+fuel
+attitude
+auto
+pepper
+settle
+warm
+assault
+vacuum
+asthma |  
+| bip_39_word_new_line2 | script
+cabin |  
+| bip_39_word_new_line3 | script
+cabin
+stem |  
+| bip_39_word_new_line4 | script
+cabin
+stem
+fuel |  
+| bip_39_word_new_line5 | script
+cabin
+stem
+fuel
+attitude |  
+| bip_39_word_new_line6 | script
+cabin
+stem
+fuel
+attitude
+auto |  
+| bip_39_word_new_line7 | script
+cabin
+stem
+fuel
+attitude
+auto
+pepper |  
+| bip_39_word_new_line8 | script
+cabin
+stem
+fuel
+attitude
+auto
+pepper
+settle |  
+| bip_39_word_new_line9 | script
+cabin
+stem
+fuel
+attitude
+auto
+pepper
+settle
+warm |  
+| bip_39_word_space_0 | ['script', 'cabin', 'stem', 'fuel', 'attitude', 'auto', 'pepper', 'settle', 'warm', 'assault', 'vacuum', 'asthma'] |  
+| bip_39_word_space_1 | script |  
+| bip_39_word_space_10 | script cabin stem fuel attitude auto pepper settle warm assault |  
+| bip_39_word_space_11 | script cabin stem fuel attitude auto pepper settle warm assault vacuum |  
+| bip_39_word_space_12 | script cabin stem fuel attitude auto pepper settle warm assault vacuum asthma |  
+| bip_39_word_space_2 | script cabin |  
+| bip_39_word_space_3 | script cabin stem |  
+| bip_39_word_space_4 | script cabin stem fuel |  
+| bip_39_word_space_5 | script cabin stem fuel attitude |  
+| bip_39_word_space_6 | script cabin stem fuel attitude auto |  
+| bip_39_word_space_7 | script cabin stem fuel attitude auto pepper |  
+| bip_39_word_space_8 | script cabin stem fuel attitude auto pepper settle |  
+| bip_39_word_space_9 | script cabin stem fuel attitude auto pepper settle warm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

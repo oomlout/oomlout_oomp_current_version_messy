@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brief cancel
+  * bip 39 word 3: brief cancel violin
+  * bip 39 word: brief cancel violin follow exhaust team melt arch donor athlete round arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brief |  
+| bip_39_word_new_br10 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete |  
+| bip_39_word_new_br11 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete<br>round |  
+| bip_39_word_new_br12 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor<br>athlete<br>round<br>arrange |  
+| bip_39_word_new_br2 | brief<br>cancel |  
+| bip_39_word_new_br3 | brief<br>cancel<br>violin |  
+| bip_39_word_new_br4 | brief<br>cancel<br>violin<br>follow |  
+| bip_39_word_new_br5 | brief<br>cancel<br>violin<br>follow<br>exhaust |  
+| bip_39_word_new_br6 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team |  
+| bip_39_word_new_br7 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt |  
+| bip_39_word_new_br8 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch |  
+| bip_39_word_new_br9 | brief<br>cancel<br>violin<br>follow<br>exhaust<br>team<br>melt<br>arch<br>donor |  
+| bip_39_word_new_line1 | brief |  
+| bip_39_word_new_line10 | brief
+cancel
+violin
+follow
+exhaust
+team
+melt
+arch
+donor
+athlete |  
+| bip_39_word_new_line11 | brief
+cancel
+violin
+follow
+exhaust
+team
+melt
+arch
+donor
+athlete
+round |  
+| bip_39_word_new_line12 | brief
+cancel
+violin
+follow
+exhaust
+team
+melt
+arch
+donor
+athlete
+round
+arrange |  
+| bip_39_word_new_line2 | brief
+cancel |  
+| bip_39_word_new_line3 | brief
+cancel
+violin |  
+| bip_39_word_new_line4 | brief
+cancel
+violin
+follow |  
+| bip_39_word_new_line5 | brief
+cancel
+violin
+follow
+exhaust |  
+| bip_39_word_new_line6 | brief
+cancel
+violin
+follow
+exhaust
+team |  
+| bip_39_word_new_line7 | brief
+cancel
+violin
+follow
+exhaust
+team
+melt |  
+| bip_39_word_new_line8 | brief
+cancel
+violin
+follow
+exhaust
+team
+melt
+arch |  
+| bip_39_word_new_line9 | brief
+cancel
+violin
+follow
+exhaust
+team
+melt
+arch
+donor |  
+| bip_39_word_space_0 | ['brief', 'cancel', 'violin', 'follow', 'exhaust', 'team', 'melt', 'arch', 'donor', 'athlete', 'round', 'arrange'] |  
+| bip_39_word_space_1 | brief |  
+| bip_39_word_space_10 | brief cancel violin follow exhaust team melt arch donor athlete |  
+| bip_39_word_space_11 | brief cancel violin follow exhaust team melt arch donor athlete round |  
+| bip_39_word_space_12 | brief cancel violin follow exhaust team melt arch donor athlete round arrange |  
+| bip_39_word_space_2 | brief cancel |  
+| bip_39_word_space_3 | brief cancel violin |  
+| bip_39_word_space_4 | brief cancel violin follow |  
+| bip_39_word_space_5 | brief cancel violin follow exhaust |  
+| bip_39_word_space_6 | brief cancel violin follow exhaust team |  
+| bip_39_word_space_7 | brief cancel violin follow exhaust team melt |  
+| bip_39_word_space_8 | brief cancel violin follow exhaust team melt arch |  
+| bip_39_word_space_9 | brief cancel violin follow exhaust team melt arch donor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

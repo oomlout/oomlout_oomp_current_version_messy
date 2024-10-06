@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1_8_volt
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blind grace
+  * bip 39 word 3: blind grace dirt
+  * bip 39 word: blind grace dirt duty bullet rib umbrella skin juice raven imitate accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blind |  
+| bip_39_word_new_br10 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice<br>raven |  
+| bip_39_word_new_br11 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice<br>raven<br>imitate |  
+| bip_39_word_new_br12 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice<br>raven<br>imitate<br>accuse |  
+| bip_39_word_new_br2 | blind<br>grace |  
+| bip_39_word_new_br3 | blind<br>grace<br>dirt |  
+| bip_39_word_new_br4 | blind<br>grace<br>dirt<br>duty |  
+| bip_39_word_new_br5 | blind<br>grace<br>dirt<br>duty<br>bullet |  
+| bip_39_word_new_br6 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib |  
+| bip_39_word_new_br7 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella |  
+| bip_39_word_new_br8 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin |  
+| bip_39_word_new_br9 | blind<br>grace<br>dirt<br>duty<br>bullet<br>rib<br>umbrella<br>skin<br>juice |  
+| bip_39_word_new_line1 | blind |  
+| bip_39_word_new_line10 | blind
+grace
+dirt
+duty
+bullet
+rib
+umbrella
+skin
+juice
+raven |  
+| bip_39_word_new_line11 | blind
+grace
+dirt
+duty
+bullet
+rib
+umbrella
+skin
+juice
+raven
+imitate |  
+| bip_39_word_new_line12 | blind
+grace
+dirt
+duty
+bullet
+rib
+umbrella
+skin
+juice
+raven
+imitate
+accuse |  
+| bip_39_word_new_line2 | blind
+grace |  
+| bip_39_word_new_line3 | blind
+grace
+dirt |  
+| bip_39_word_new_line4 | blind
+grace
+dirt
+duty |  
+| bip_39_word_new_line5 | blind
+grace
+dirt
+duty
+bullet |  
+| bip_39_word_new_line6 | blind
+grace
+dirt
+duty
+bullet
+rib |  
+| bip_39_word_new_line7 | blind
+grace
+dirt
+duty
+bullet
+rib
+umbrella |  
+| bip_39_word_new_line8 | blind
+grace
+dirt
+duty
+bullet
+rib
+umbrella
+skin |  
+| bip_39_word_new_line9 | blind
+grace
+dirt
+duty
+bullet
+rib
+umbrella
+skin
+juice |  
+| bip_39_word_space_0 | ['blind', 'grace', 'dirt', 'duty', 'bullet', 'rib', 'umbrella', 'skin', 'juice', 'raven', 'imitate', 'accuse'] |  
+| bip_39_word_space_1 | blind |  
+| bip_39_word_space_10 | blind grace dirt duty bullet rib umbrella skin juice raven |  
+| bip_39_word_space_11 | blind grace dirt duty bullet rib umbrella skin juice raven imitate |  
+| bip_39_word_space_12 | blind grace dirt duty bullet rib umbrella skin juice raven imitate accuse |  
+| bip_39_word_space_2 | blind grace |  
+| bip_39_word_space_3 | blind grace dirt |  
+| bip_39_word_space_4 | blind grace dirt duty |  
+| bip_39_word_space_5 | blind grace dirt duty bullet |  
+| bip_39_word_space_6 | blind grace dirt duty bullet rib |  
+| bip_39_word_space_7 | blind grace dirt duty bullet rib umbrella |  
+| bip_39_word_space_8 | blind grace dirt duty bullet rib umbrella skin |  
+| bip_39_word_space_9 | blind grace dirt duty bullet rib umbrella skin juice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

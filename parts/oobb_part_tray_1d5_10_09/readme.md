@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: episode speak
+  * bip 39 word 3: episode speak that
+  * bip 39 word: episode speak that smooth primary very west cheap heart shuffle stand absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | episode |  
+| bip_39_word_new_br10 | episode<br>speak<br>that<br>smooth<br>primary<br>very<br>west<br>cheap<br>heart<br>shuffle |  
+| bip_39_word_new_br11 | episode<br>speak<br>that<br>smooth<br>primary<br>very<br>west<br>cheap<br>heart<br>shuffle<br>stand |  
+| bip_39_word_new_br12 | episode<br>speak<br>that<br>smooth<br>primary<br>very<br>west<br>cheap<br>heart<br>shuffle<br>stand<br>absent |  
+| bip_39_word_new_br2 | episode<br>speak |  
+| bip_39_word_new_br3 | episode<br>speak<br>that |  
+| bip_39_word_new_br4 | episode<br>speak<br>that<br>smooth |  
+| bip_39_word_new_br5 | episode<br>speak<br>that<br>smooth<br>primary |  
+| bip_39_word_new_br6 | episode<br>speak<br>that<br>smooth<br>primary<br>very |  
+| bip_39_word_new_br7 | episode<br>speak<br>that<br>smooth<br>primary<br>very<br>west |  
+| bip_39_word_new_br8 | episode<br>speak<br>that<br>smooth<br>primary<br>very<br>west<br>cheap |  
+| bip_39_word_new_br9 | episode<br>speak<br>that<br>smooth<br>primary<br>very<br>west<br>cheap<br>heart |  
+| bip_39_word_new_line1 | episode |  
+| bip_39_word_new_line10 | episode
+speak
+that
+smooth
+primary
+very
+west
+cheap
+heart
+shuffle |  
+| bip_39_word_new_line11 | episode
+speak
+that
+smooth
+primary
+very
+west
+cheap
+heart
+shuffle
+stand |  
+| bip_39_word_new_line12 | episode
+speak
+that
+smooth
+primary
+very
+west
+cheap
+heart
+shuffle
+stand
+absent |  
+| bip_39_word_new_line2 | episode
+speak |  
+| bip_39_word_new_line3 | episode
+speak
+that |  
+| bip_39_word_new_line4 | episode
+speak
+that
+smooth |  
+| bip_39_word_new_line5 | episode
+speak
+that
+smooth
+primary |  
+| bip_39_word_new_line6 | episode
+speak
+that
+smooth
+primary
+very |  
+| bip_39_word_new_line7 | episode
+speak
+that
+smooth
+primary
+very
+west |  
+| bip_39_word_new_line8 | episode
+speak
+that
+smooth
+primary
+very
+west
+cheap |  
+| bip_39_word_new_line9 | episode
+speak
+that
+smooth
+primary
+very
+west
+cheap
+heart |  
+| bip_39_word_space_0 | ['episode', 'speak', 'that', 'smooth', 'primary', 'very', 'west', 'cheap', 'heart', 'shuffle', 'stand', 'absent'] |  
+| bip_39_word_space_1 | episode |  
+| bip_39_word_space_10 | episode speak that smooth primary very west cheap heart shuffle |  
+| bip_39_word_space_11 | episode speak that smooth primary very west cheap heart shuffle stand |  
+| bip_39_word_space_12 | episode speak that smooth primary very west cheap heart shuffle stand absent |  
+| bip_39_word_space_2 | episode speak |  
+| bip_39_word_space_3 | episode speak that |  
+| bip_39_word_space_4 | episode speak that smooth |  
+| bip_39_word_space_5 | episode speak that smooth primary |  
+| bip_39_word_space_6 | episode speak that smooth primary very |  
+| bip_39_word_space_7 | episode speak that smooth primary very west |  
+| bip_39_word_space_8 | episode speak that smooth primary very west cheap |  
+| bip_39_word_space_9 | episode speak that smooth primary very west cheap heart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

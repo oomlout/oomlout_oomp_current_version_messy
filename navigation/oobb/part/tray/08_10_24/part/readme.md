@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pupil twenty
+  * bip 39 word 3: pupil twenty practice
+  * bip 39 word: pupil twenty practice tide lion ring ginger net corn habit same amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pupil |  
+| bip_39_word_new_br10 | pupil<br>twenty<br>practice<br>tide<br>lion<br>ring<br>ginger<br>net<br>corn<br>habit |  
+| bip_39_word_new_br11 | pupil<br>twenty<br>practice<br>tide<br>lion<br>ring<br>ginger<br>net<br>corn<br>habit<br>same |  
+| bip_39_word_new_br12 | pupil<br>twenty<br>practice<br>tide<br>lion<br>ring<br>ginger<br>net<br>corn<br>habit<br>same<br>amused |  
+| bip_39_word_new_br2 | pupil<br>twenty |  
+| bip_39_word_new_br3 | pupil<br>twenty<br>practice |  
+| bip_39_word_new_br4 | pupil<br>twenty<br>practice<br>tide |  
+| bip_39_word_new_br5 | pupil<br>twenty<br>practice<br>tide<br>lion |  
+| bip_39_word_new_br6 | pupil<br>twenty<br>practice<br>tide<br>lion<br>ring |  
+| bip_39_word_new_br7 | pupil<br>twenty<br>practice<br>tide<br>lion<br>ring<br>ginger |  
+| bip_39_word_new_br8 | pupil<br>twenty<br>practice<br>tide<br>lion<br>ring<br>ginger<br>net |  
+| bip_39_word_new_br9 | pupil<br>twenty<br>practice<br>tide<br>lion<br>ring<br>ginger<br>net<br>corn |  
+| bip_39_word_new_line1 | pupil |  
+| bip_39_word_new_line10 | pupil
+twenty
+practice
+tide
+lion
+ring
+ginger
+net
+corn
+habit |  
+| bip_39_word_new_line11 | pupil
+twenty
+practice
+tide
+lion
+ring
+ginger
+net
+corn
+habit
+same |  
+| bip_39_word_new_line12 | pupil
+twenty
+practice
+tide
+lion
+ring
+ginger
+net
+corn
+habit
+same
+amused |  
+| bip_39_word_new_line2 | pupil
+twenty |  
+| bip_39_word_new_line3 | pupil
+twenty
+practice |  
+| bip_39_word_new_line4 | pupil
+twenty
+practice
+tide |  
+| bip_39_word_new_line5 | pupil
+twenty
+practice
+tide
+lion |  
+| bip_39_word_new_line6 | pupil
+twenty
+practice
+tide
+lion
+ring |  
+| bip_39_word_new_line7 | pupil
+twenty
+practice
+tide
+lion
+ring
+ginger |  
+| bip_39_word_new_line8 | pupil
+twenty
+practice
+tide
+lion
+ring
+ginger
+net |  
+| bip_39_word_new_line9 | pupil
+twenty
+practice
+tide
+lion
+ring
+ginger
+net
+corn |  
+| bip_39_word_space_0 | ['pupil', 'twenty', 'practice', 'tide', 'lion', 'ring', 'ginger', 'net', 'corn', 'habit', 'same', 'amused'] |  
+| bip_39_word_space_1 | pupil |  
+| bip_39_word_space_10 | pupil twenty practice tide lion ring ginger net corn habit |  
+| bip_39_word_space_11 | pupil twenty practice tide lion ring ginger net corn habit same |  
+| bip_39_word_space_12 | pupil twenty practice tide lion ring ginger net corn habit same amused |  
+| bip_39_word_space_2 | pupil twenty |  
+| bip_39_word_space_3 | pupil twenty practice |  
+| bip_39_word_space_4 | pupil twenty practice tide |  
+| bip_39_word_space_5 | pupil twenty practice tide lion |  
+| bip_39_word_space_6 | pupil twenty practice tide lion ring |  
+| bip_39_word_space_7 | pupil twenty practice tide lion ring ginger |  
+| bip_39_word_space_8 | pupil twenty practice tide lion ring ginger net |  
+| bip_39_word_space_9 | pupil twenty practice tide lion ring ginger net corn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

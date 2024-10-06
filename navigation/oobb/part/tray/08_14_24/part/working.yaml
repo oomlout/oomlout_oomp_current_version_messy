@@ -1,3 +1,186 @@
+bip_39_word_new_br1: similar
+bip_39_word_new_br10: similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber
+bip_39_word_new_br11: similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber<br>title
+bip_39_word_new_br12: similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly<br>timber<br>title<br>antique
+bip_39_word_new_br2: similar<br>spike
+bip_39_word_new_br3: similar<br>spike<br>safe
+bip_39_word_new_br4: similar<br>spike<br>safe<br>industry
+bip_39_word_new_br5: similar<br>spike<br>safe<br>industry<br>approve
+bip_39_word_new_br6: similar<br>spike<br>safe<br>industry<br>approve<br>tuna
+bip_39_word_new_br7: similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder
+bip_39_word_new_br8: similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall
+bip_39_word_new_br9: similar<br>spike<br>safe<br>industry<br>approve<br>tuna<br>elder<br>fall<br>truly
+bip_39_word_new_line1: similar
+bip_39_word_new_line10: 'similar
+
+  spike
+
+  safe
+
+  industry
+
+  approve
+
+  tuna
+
+  elder
+
+  fall
+
+  truly
+
+  timber'
+bip_39_word_new_line11: 'similar
+
+  spike
+
+  safe
+
+  industry
+
+  approve
+
+  tuna
+
+  elder
+
+  fall
+
+  truly
+
+  timber
+
+  title'
+bip_39_word_new_line12: 'similar
+
+  spike
+
+  safe
+
+  industry
+
+  approve
+
+  tuna
+
+  elder
+
+  fall
+
+  truly
+
+  timber
+
+  title
+
+  antique'
+bip_39_word_new_line2: 'similar
+
+  spike'
+bip_39_word_new_line3: 'similar
+
+  spike
+
+  safe'
+bip_39_word_new_line4: 'similar
+
+  spike
+
+  safe
+
+  industry'
+bip_39_word_new_line5: 'similar
+
+  spike
+
+  safe
+
+  industry
+
+  approve'
+bip_39_word_new_line6: 'similar
+
+  spike
+
+  safe
+
+  industry
+
+  approve
+
+  tuna'
+bip_39_word_new_line7: 'similar
+
+  spike
+
+  safe
+
+  industry
+
+  approve
+
+  tuna
+
+  elder'
+bip_39_word_new_line8: 'similar
+
+  spike
+
+  safe
+
+  industry
+
+  approve
+
+  tuna
+
+  elder
+
+  fall'
+bip_39_word_new_line9: 'similar
+
+  spike
+
+  safe
+
+  industry
+
+  approve
+
+  tuna
+
+  elder
+
+  fall
+
+  truly'
+bip_39_word_space_0:
+- similar
+- spike
+- safe
+- industry
+- approve
+- tuna
+- elder
+- fall
+- truly
+- timber
+- title
+- antique
+bip_39_word_space_1: similar
+bip_39_word_space_10: similar spike safe industry approve tuna elder fall truly timber
+bip_39_word_space_11: similar spike safe industry approve tuna elder fall truly timber
+  title
+bip_39_word_space_12: similar spike safe industry approve tuna elder fall truly timber
+  title antique
+bip_39_word_space_2: similar spike
+bip_39_word_space_3: similar spike safe
+bip_39_word_space_4: similar spike safe industry
+bip_39_word_space_5: similar spike safe industry approve
+bip_39_word_space_6: similar spike safe industry approve tuna
+bip_39_word_space_7: similar spike safe industry approve tuna elder
+bip_39_word_space_8: similar spike safe industry approve tuna elder fall
+bip_39_word_space_9: similar spike safe industry approve tuna elder fall truly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decide you
+  * bip 39 word 3: decide you entry
+  * bip 39 word: decide you entry zoo share fever cigar chest desk olympic pulp actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decide |  
+| bip_39_word_new_br10 | decide<br>you<br>entry<br>zoo<br>share<br>fever<br>cigar<br>chest<br>desk<br>olympic |  
+| bip_39_word_new_br11 | decide<br>you<br>entry<br>zoo<br>share<br>fever<br>cigar<br>chest<br>desk<br>olympic<br>pulp |  
+| bip_39_word_new_br12 | decide<br>you<br>entry<br>zoo<br>share<br>fever<br>cigar<br>chest<br>desk<br>olympic<br>pulp<br>actual |  
+| bip_39_word_new_br2 | decide<br>you |  
+| bip_39_word_new_br3 | decide<br>you<br>entry |  
+| bip_39_word_new_br4 | decide<br>you<br>entry<br>zoo |  
+| bip_39_word_new_br5 | decide<br>you<br>entry<br>zoo<br>share |  
+| bip_39_word_new_br6 | decide<br>you<br>entry<br>zoo<br>share<br>fever |  
+| bip_39_word_new_br7 | decide<br>you<br>entry<br>zoo<br>share<br>fever<br>cigar |  
+| bip_39_word_new_br8 | decide<br>you<br>entry<br>zoo<br>share<br>fever<br>cigar<br>chest |  
+| bip_39_word_new_br9 | decide<br>you<br>entry<br>zoo<br>share<br>fever<br>cigar<br>chest<br>desk |  
+| bip_39_word_new_line1 | decide |  
+| bip_39_word_new_line10 | decide
+you
+entry
+zoo
+share
+fever
+cigar
+chest
+desk
+olympic |  
+| bip_39_word_new_line11 | decide
+you
+entry
+zoo
+share
+fever
+cigar
+chest
+desk
+olympic
+pulp |  
+| bip_39_word_new_line12 | decide
+you
+entry
+zoo
+share
+fever
+cigar
+chest
+desk
+olympic
+pulp
+actual |  
+| bip_39_word_new_line2 | decide
+you |  
+| bip_39_word_new_line3 | decide
+you
+entry |  
+| bip_39_word_new_line4 | decide
+you
+entry
+zoo |  
+| bip_39_word_new_line5 | decide
+you
+entry
+zoo
+share |  
+| bip_39_word_new_line6 | decide
+you
+entry
+zoo
+share
+fever |  
+| bip_39_word_new_line7 | decide
+you
+entry
+zoo
+share
+fever
+cigar |  
+| bip_39_word_new_line8 | decide
+you
+entry
+zoo
+share
+fever
+cigar
+chest |  
+| bip_39_word_new_line9 | decide
+you
+entry
+zoo
+share
+fever
+cigar
+chest
+desk |  
+| bip_39_word_space_0 | ['decide', 'you', 'entry', 'zoo', 'share', 'fever', 'cigar', 'chest', 'desk', 'olympic', 'pulp', 'actual'] |  
+| bip_39_word_space_1 | decide |  
+| bip_39_word_space_10 | decide you entry zoo share fever cigar chest desk olympic |  
+| bip_39_word_space_11 | decide you entry zoo share fever cigar chest desk olympic pulp |  
+| bip_39_word_space_12 | decide you entry zoo share fever cigar chest desk olympic pulp actual |  
+| bip_39_word_space_2 | decide you |  
+| bip_39_word_space_3 | decide you entry |  
+| bip_39_word_space_4 | decide you entry zoo |  
+| bip_39_word_space_5 | decide you entry zoo share |  
+| bip_39_word_space_6 | decide you entry zoo share fever |  
+| bip_39_word_space_7 | decide you entry zoo share fever cigar |  
+| bip_39_word_space_8 | decide you entry zoo share fever cigar chest |  
+| bip_39_word_space_9 | decide you entry zoo share fever cigar chest desk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

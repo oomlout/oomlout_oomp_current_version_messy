@@ -1,3 +1,187 @@
+bip_39_word_new_br1: famous
+bip_39_word_new_br10: famous<br>rhythm<br>shed<br>throw<br>require<br>mandate<br>typical<br>monitor<br>bubble<br>useless
+bip_39_word_new_br11: famous<br>rhythm<br>shed<br>throw<br>require<br>mandate<br>typical<br>monitor<br>bubble<br>useless<br>festival
+bip_39_word_new_br12: famous<br>rhythm<br>shed<br>throw<br>require<br>mandate<br>typical<br>monitor<br>bubble<br>useless<br>festival<br>across
+bip_39_word_new_br2: famous<br>rhythm
+bip_39_word_new_br3: famous<br>rhythm<br>shed
+bip_39_word_new_br4: famous<br>rhythm<br>shed<br>throw
+bip_39_word_new_br5: famous<br>rhythm<br>shed<br>throw<br>require
+bip_39_word_new_br6: famous<br>rhythm<br>shed<br>throw<br>require<br>mandate
+bip_39_word_new_br7: famous<br>rhythm<br>shed<br>throw<br>require<br>mandate<br>typical
+bip_39_word_new_br8: famous<br>rhythm<br>shed<br>throw<br>require<br>mandate<br>typical<br>monitor
+bip_39_word_new_br9: famous<br>rhythm<br>shed<br>throw<br>require<br>mandate<br>typical<br>monitor<br>bubble
+bip_39_word_new_line1: famous
+bip_39_word_new_line10: 'famous
+
+  rhythm
+
+  shed
+
+  throw
+
+  require
+
+  mandate
+
+  typical
+
+  monitor
+
+  bubble
+
+  useless'
+bip_39_word_new_line11: 'famous
+
+  rhythm
+
+  shed
+
+  throw
+
+  require
+
+  mandate
+
+  typical
+
+  monitor
+
+  bubble
+
+  useless
+
+  festival'
+bip_39_word_new_line12: 'famous
+
+  rhythm
+
+  shed
+
+  throw
+
+  require
+
+  mandate
+
+  typical
+
+  monitor
+
+  bubble
+
+  useless
+
+  festival
+
+  across'
+bip_39_word_new_line2: 'famous
+
+  rhythm'
+bip_39_word_new_line3: 'famous
+
+  rhythm
+
+  shed'
+bip_39_word_new_line4: 'famous
+
+  rhythm
+
+  shed
+
+  throw'
+bip_39_word_new_line5: 'famous
+
+  rhythm
+
+  shed
+
+  throw
+
+  require'
+bip_39_word_new_line6: 'famous
+
+  rhythm
+
+  shed
+
+  throw
+
+  require
+
+  mandate'
+bip_39_word_new_line7: 'famous
+
+  rhythm
+
+  shed
+
+  throw
+
+  require
+
+  mandate
+
+  typical'
+bip_39_word_new_line8: 'famous
+
+  rhythm
+
+  shed
+
+  throw
+
+  require
+
+  mandate
+
+  typical
+
+  monitor'
+bip_39_word_new_line9: 'famous
+
+  rhythm
+
+  shed
+
+  throw
+
+  require
+
+  mandate
+
+  typical
+
+  monitor
+
+  bubble'
+bip_39_word_space_0:
+- famous
+- rhythm
+- shed
+- throw
+- require
+- mandate
+- typical
+- monitor
+- bubble
+- useless
+- festival
+- across
+bip_39_word_space_1: famous
+bip_39_word_space_10: famous rhythm shed throw require mandate typical monitor bubble
+  useless
+bip_39_word_space_11: famous rhythm shed throw require mandate typical monitor bubble
+  useless festival
+bip_39_word_space_12: famous rhythm shed throw require mandate typical monitor bubble
+  useless festival across
+bip_39_word_space_2: famous rhythm
+bip_39_word_space_3: famous rhythm shed
+bip_39_word_space_4: famous rhythm shed throw
+bip_39_word_space_5: famous rhythm shed throw require
+bip_39_word_space_6: famous rhythm shed throw require mandate
+bip_39_word_space_7: famous rhythm shed throw require mandate typical
+bip_39_word_space_8: famous rhythm shed throw require mandate typical monitor
+bip_39_word_space_9: famous rhythm shed throw require mandate typical monitor bubble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

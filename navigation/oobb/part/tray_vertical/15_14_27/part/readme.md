@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: detect transfer
+  * bip 39 word 3: detect transfer puppy
+  * bip 39 word: detect transfer puppy later impulse rare hobby damp nest tourist vibrant approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | detect |  
+| bip_39_word_new_br10 | detect<br>transfer<br>puppy<br>later<br>impulse<br>rare<br>hobby<br>damp<br>nest<br>tourist |  
+| bip_39_word_new_br11 | detect<br>transfer<br>puppy<br>later<br>impulse<br>rare<br>hobby<br>damp<br>nest<br>tourist<br>vibrant |  
+| bip_39_word_new_br12 | detect<br>transfer<br>puppy<br>later<br>impulse<br>rare<br>hobby<br>damp<br>nest<br>tourist<br>vibrant<br>approve |  
+| bip_39_word_new_br2 | detect<br>transfer |  
+| bip_39_word_new_br3 | detect<br>transfer<br>puppy |  
+| bip_39_word_new_br4 | detect<br>transfer<br>puppy<br>later |  
+| bip_39_word_new_br5 | detect<br>transfer<br>puppy<br>later<br>impulse |  
+| bip_39_word_new_br6 | detect<br>transfer<br>puppy<br>later<br>impulse<br>rare |  
+| bip_39_word_new_br7 | detect<br>transfer<br>puppy<br>later<br>impulse<br>rare<br>hobby |  
+| bip_39_word_new_br8 | detect<br>transfer<br>puppy<br>later<br>impulse<br>rare<br>hobby<br>damp |  
+| bip_39_word_new_br9 | detect<br>transfer<br>puppy<br>later<br>impulse<br>rare<br>hobby<br>damp<br>nest |  
+| bip_39_word_new_line1 | detect |  
+| bip_39_word_new_line10 | detect
+transfer
+puppy
+later
+impulse
+rare
+hobby
+damp
+nest
+tourist |  
+| bip_39_word_new_line11 | detect
+transfer
+puppy
+later
+impulse
+rare
+hobby
+damp
+nest
+tourist
+vibrant |  
+| bip_39_word_new_line12 | detect
+transfer
+puppy
+later
+impulse
+rare
+hobby
+damp
+nest
+tourist
+vibrant
+approve |  
+| bip_39_word_new_line2 | detect
+transfer |  
+| bip_39_word_new_line3 | detect
+transfer
+puppy |  
+| bip_39_word_new_line4 | detect
+transfer
+puppy
+later |  
+| bip_39_word_new_line5 | detect
+transfer
+puppy
+later
+impulse |  
+| bip_39_word_new_line6 | detect
+transfer
+puppy
+later
+impulse
+rare |  
+| bip_39_word_new_line7 | detect
+transfer
+puppy
+later
+impulse
+rare
+hobby |  
+| bip_39_word_new_line8 | detect
+transfer
+puppy
+later
+impulse
+rare
+hobby
+damp |  
+| bip_39_word_new_line9 | detect
+transfer
+puppy
+later
+impulse
+rare
+hobby
+damp
+nest |  
+| bip_39_word_space_0 | ['detect', 'transfer', 'puppy', 'later', 'impulse', 'rare', 'hobby', 'damp', 'nest', 'tourist', 'vibrant', 'approve'] |  
+| bip_39_word_space_1 | detect |  
+| bip_39_word_space_10 | detect transfer puppy later impulse rare hobby damp nest tourist |  
+| bip_39_word_space_11 | detect transfer puppy later impulse rare hobby damp nest tourist vibrant |  
+| bip_39_word_space_12 | detect transfer puppy later impulse rare hobby damp nest tourist vibrant approve |  
+| bip_39_word_space_2 | detect transfer |  
+| bip_39_word_space_3 | detect transfer puppy |  
+| bip_39_word_space_4 | detect transfer puppy later |  
+| bip_39_word_space_5 | detect transfer puppy later impulse |  
+| bip_39_word_space_6 | detect transfer puppy later impulse rare |  
+| bip_39_word_space_7 | detect transfer puppy later impulse rare hobby |  
+| bip_39_word_space_8 | detect transfer puppy later impulse rare hobby damp |  
+| bip_39_word_space_9 | detect transfer puppy later impulse rare hobby damp nest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

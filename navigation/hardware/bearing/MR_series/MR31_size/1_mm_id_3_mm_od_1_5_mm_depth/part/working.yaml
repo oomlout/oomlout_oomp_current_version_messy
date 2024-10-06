@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pilot
+bip_39_word_new_br10: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan<br>easy
+bip_39_word_new_br11: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan<br>easy<br>conduct
+bip_39_word_new_br12: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan<br>easy<br>conduct<br>alien
+bip_39_word_new_br2: pilot<br>enjoy
+bip_39_word_new_br3: pilot<br>enjoy<br>special
+bip_39_word_new_br4: pilot<br>enjoy<br>special<br>relief
+bip_39_word_new_br5: pilot<br>enjoy<br>special<br>relief<br>amount
+bip_39_word_new_br6: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane
+bip_39_word_new_br7: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw
+bip_39_word_new_br8: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice
+bip_39_word_new_br9: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan
+bip_39_word_new_line1: pilot
+bip_39_word_new_line10: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice
+
+  orphan
+
+  easy'
+bip_39_word_new_line11: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice
+
+  orphan
+
+  easy
+
+  conduct'
+bip_39_word_new_line12: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice
+
+  orphan
+
+  easy
+
+  conduct
+
+  alien'
+bip_39_word_new_line2: 'pilot
+
+  enjoy'
+bip_39_word_new_line3: 'pilot
+
+  enjoy
+
+  special'
+bip_39_word_new_line4: 'pilot
+
+  enjoy
+
+  special
+
+  relief'
+bip_39_word_new_line5: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount'
+bip_39_word_new_line6: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane'
+bip_39_word_new_line7: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw'
+bip_39_word_new_line8: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice'
+bip_39_word_new_line9: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice
+
+  orphan'
+bip_39_word_space_0:
+- pilot
+- enjoy
+- special
+- relief
+- amount
+- insane
+- throw
+- practice
+- orphan
+- easy
+- conduct
+- alien
+bip_39_word_space_1: pilot
+bip_39_word_space_10: pilot enjoy special relief amount insane throw practice orphan
+  easy
+bip_39_word_space_11: pilot enjoy special relief amount insane throw practice orphan
+  easy conduct
+bip_39_word_space_12: pilot enjoy special relief amount insane throw practice orphan
+  easy conduct alien
+bip_39_word_space_2: pilot enjoy
+bip_39_word_space_3: pilot enjoy special
+bip_39_word_space_4: pilot enjoy special relief
+bip_39_word_space_5: pilot enjoy special relief amount
+bip_39_word_space_6: pilot enjoy special relief amount insane
+bip_39_word_space_7: pilot enjoy special relief amount insane throw
+bip_39_word_space_8: pilot enjoy special relief amount insane throw practice
+bip_39_word_space_9: pilot enjoy special relief amount insane throw practice orphan
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

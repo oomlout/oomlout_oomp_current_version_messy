@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: egg arrive
+  * bip 39 word 3: egg arrive mask
+  * bip 39 word: egg arrive mask prosper garlic lottery idea group torch live brown accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | egg |  
+| bip_39_word_new_br10 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery<br>idea<br>group<br>torch<br>live |  
+| bip_39_word_new_br11 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery<br>idea<br>group<br>torch<br>live<br>brown |  
+| bip_39_word_new_br12 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery<br>idea<br>group<br>torch<br>live<br>brown<br>accident |  
+| bip_39_word_new_br2 | egg<br>arrive |  
+| bip_39_word_new_br3 | egg<br>arrive<br>mask |  
+| bip_39_word_new_br4 | egg<br>arrive<br>mask<br>prosper |  
+| bip_39_word_new_br5 | egg<br>arrive<br>mask<br>prosper<br>garlic |  
+| bip_39_word_new_br6 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery |  
+| bip_39_word_new_br7 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery<br>idea |  
+| bip_39_word_new_br8 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery<br>idea<br>group |  
+| bip_39_word_new_br9 | egg<br>arrive<br>mask<br>prosper<br>garlic<br>lottery<br>idea<br>group<br>torch |  
+| bip_39_word_new_line1 | egg |  
+| bip_39_word_new_line10 | egg
+arrive
+mask
+prosper
+garlic
+lottery
+idea
+group
+torch
+live |  
+| bip_39_word_new_line11 | egg
+arrive
+mask
+prosper
+garlic
+lottery
+idea
+group
+torch
+live
+brown |  
+| bip_39_word_new_line12 | egg
+arrive
+mask
+prosper
+garlic
+lottery
+idea
+group
+torch
+live
+brown
+accident |  
+| bip_39_word_new_line2 | egg
+arrive |  
+| bip_39_word_new_line3 | egg
+arrive
+mask |  
+| bip_39_word_new_line4 | egg
+arrive
+mask
+prosper |  
+| bip_39_word_new_line5 | egg
+arrive
+mask
+prosper
+garlic |  
+| bip_39_word_new_line6 | egg
+arrive
+mask
+prosper
+garlic
+lottery |  
+| bip_39_word_new_line7 | egg
+arrive
+mask
+prosper
+garlic
+lottery
+idea |  
+| bip_39_word_new_line8 | egg
+arrive
+mask
+prosper
+garlic
+lottery
+idea
+group |  
+| bip_39_word_new_line9 | egg
+arrive
+mask
+prosper
+garlic
+lottery
+idea
+group
+torch |  
+| bip_39_word_space_0 | ['egg', 'arrive', 'mask', 'prosper', 'garlic', 'lottery', 'idea', 'group', 'torch', 'live', 'brown', 'accident'] |  
+| bip_39_word_space_1 | egg |  
+| bip_39_word_space_10 | egg arrive mask prosper garlic lottery idea group torch live |  
+| bip_39_word_space_11 | egg arrive mask prosper garlic lottery idea group torch live brown |  
+| bip_39_word_space_12 | egg arrive mask prosper garlic lottery idea group torch live brown accident |  
+| bip_39_word_space_2 | egg arrive |  
+| bip_39_word_space_3 | egg arrive mask |  
+| bip_39_word_space_4 | egg arrive mask prosper |  
+| bip_39_word_space_5 | egg arrive mask prosper garlic |  
+| bip_39_word_space_6 | egg arrive mask prosper garlic lottery |  
+| bip_39_word_space_7 | egg arrive mask prosper garlic lottery idea |  
+| bip_39_word_space_8 | egg arrive mask prosper garlic lottery idea group |  
+| bip_39_word_space_9 | egg arrive mask prosper garlic lottery idea group torch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

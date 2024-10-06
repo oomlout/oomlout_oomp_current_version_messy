@@ -1,3 +1,187 @@
+bip_39_word_new_br1: afraid
+bip_39_word_new_br10: afraid<br>shine<br>spider<br>intact<br>never<br>calm<br>powder<br>recipe<br>bracket<br>during
+bip_39_word_new_br11: afraid<br>shine<br>spider<br>intact<br>never<br>calm<br>powder<br>recipe<br>bracket<br>during<br>marine
+bip_39_word_new_br12: afraid<br>shine<br>spider<br>intact<br>never<br>calm<br>powder<br>recipe<br>bracket<br>during<br>marine<br>anchor
+bip_39_word_new_br2: afraid<br>shine
+bip_39_word_new_br3: afraid<br>shine<br>spider
+bip_39_word_new_br4: afraid<br>shine<br>spider<br>intact
+bip_39_word_new_br5: afraid<br>shine<br>spider<br>intact<br>never
+bip_39_word_new_br6: afraid<br>shine<br>spider<br>intact<br>never<br>calm
+bip_39_word_new_br7: afraid<br>shine<br>spider<br>intact<br>never<br>calm<br>powder
+bip_39_word_new_br8: afraid<br>shine<br>spider<br>intact<br>never<br>calm<br>powder<br>recipe
+bip_39_word_new_br9: afraid<br>shine<br>spider<br>intact<br>never<br>calm<br>powder<br>recipe<br>bracket
+bip_39_word_new_line1: afraid
+bip_39_word_new_line10: 'afraid
+
+  shine
+
+  spider
+
+  intact
+
+  never
+
+  calm
+
+  powder
+
+  recipe
+
+  bracket
+
+  during'
+bip_39_word_new_line11: 'afraid
+
+  shine
+
+  spider
+
+  intact
+
+  never
+
+  calm
+
+  powder
+
+  recipe
+
+  bracket
+
+  during
+
+  marine'
+bip_39_word_new_line12: 'afraid
+
+  shine
+
+  spider
+
+  intact
+
+  never
+
+  calm
+
+  powder
+
+  recipe
+
+  bracket
+
+  during
+
+  marine
+
+  anchor'
+bip_39_word_new_line2: 'afraid
+
+  shine'
+bip_39_word_new_line3: 'afraid
+
+  shine
+
+  spider'
+bip_39_word_new_line4: 'afraid
+
+  shine
+
+  spider
+
+  intact'
+bip_39_word_new_line5: 'afraid
+
+  shine
+
+  spider
+
+  intact
+
+  never'
+bip_39_word_new_line6: 'afraid
+
+  shine
+
+  spider
+
+  intact
+
+  never
+
+  calm'
+bip_39_word_new_line7: 'afraid
+
+  shine
+
+  spider
+
+  intact
+
+  never
+
+  calm
+
+  powder'
+bip_39_word_new_line8: 'afraid
+
+  shine
+
+  spider
+
+  intact
+
+  never
+
+  calm
+
+  powder
+
+  recipe'
+bip_39_word_new_line9: 'afraid
+
+  shine
+
+  spider
+
+  intact
+
+  never
+
+  calm
+
+  powder
+
+  recipe
+
+  bracket'
+bip_39_word_space_0:
+- afraid
+- shine
+- spider
+- intact
+- never
+- calm
+- powder
+- recipe
+- bracket
+- during
+- marine
+- anchor
+bip_39_word_space_1: afraid
+bip_39_word_space_10: afraid shine spider intact never calm powder recipe bracket
+  during
+bip_39_word_space_11: afraid shine spider intact never calm powder recipe bracket
+  during marine
+bip_39_word_space_12: afraid shine spider intact never calm powder recipe bracket
+  during marine anchor
+bip_39_word_space_2: afraid shine
+bip_39_word_space_3: afraid shine spider
+bip_39_word_space_4: afraid shine spider intact
+bip_39_word_space_5: afraid shine spider intact never
+bip_39_word_space_6: afraid shine spider intact never calm
+bip_39_word_space_7: afraid shine spider intact never calm powder
+bip_39_word_space_8: afraid shine spider intact never calm powder recipe
+bip_39_word_space_9: afraid shine spider intact never calm powder recipe bracket
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

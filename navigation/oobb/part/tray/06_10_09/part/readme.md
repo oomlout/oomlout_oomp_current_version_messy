@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remove monster
+  * bip 39 word 3: remove monster kite
+  * bip 39 word: remove monster kite labor tackle brother match tribe wild hamster casual armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remove |  
+| bip_39_word_new_br10 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother<br>match<br>tribe<br>wild<br>hamster |  
+| bip_39_word_new_br11 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother<br>match<br>tribe<br>wild<br>hamster<br>casual |  
+| bip_39_word_new_br12 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother<br>match<br>tribe<br>wild<br>hamster<br>casual<br>armor |  
+| bip_39_word_new_br2 | remove<br>monster |  
+| bip_39_word_new_br3 | remove<br>monster<br>kite |  
+| bip_39_word_new_br4 | remove<br>monster<br>kite<br>labor |  
+| bip_39_word_new_br5 | remove<br>monster<br>kite<br>labor<br>tackle |  
+| bip_39_word_new_br6 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother |  
+| bip_39_word_new_br7 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother<br>match |  
+| bip_39_word_new_br8 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother<br>match<br>tribe |  
+| bip_39_word_new_br9 | remove<br>monster<br>kite<br>labor<br>tackle<br>brother<br>match<br>tribe<br>wild |  
+| bip_39_word_new_line1 | remove |  
+| bip_39_word_new_line10 | remove
+monster
+kite
+labor
+tackle
+brother
+match
+tribe
+wild
+hamster |  
+| bip_39_word_new_line11 | remove
+monster
+kite
+labor
+tackle
+brother
+match
+tribe
+wild
+hamster
+casual |  
+| bip_39_word_new_line12 | remove
+monster
+kite
+labor
+tackle
+brother
+match
+tribe
+wild
+hamster
+casual
+armor |  
+| bip_39_word_new_line2 | remove
+monster |  
+| bip_39_word_new_line3 | remove
+monster
+kite |  
+| bip_39_word_new_line4 | remove
+monster
+kite
+labor |  
+| bip_39_word_new_line5 | remove
+monster
+kite
+labor
+tackle |  
+| bip_39_word_new_line6 | remove
+monster
+kite
+labor
+tackle
+brother |  
+| bip_39_word_new_line7 | remove
+monster
+kite
+labor
+tackle
+brother
+match |  
+| bip_39_word_new_line8 | remove
+monster
+kite
+labor
+tackle
+brother
+match
+tribe |  
+| bip_39_word_new_line9 | remove
+monster
+kite
+labor
+tackle
+brother
+match
+tribe
+wild |  
+| bip_39_word_space_0 | ['remove', 'monster', 'kite', 'labor', 'tackle', 'brother', 'match', 'tribe', 'wild', 'hamster', 'casual', 'armor'] |  
+| bip_39_word_space_1 | remove |  
+| bip_39_word_space_10 | remove monster kite labor tackle brother match tribe wild hamster |  
+| bip_39_word_space_11 | remove monster kite labor tackle brother match tribe wild hamster casual |  
+| bip_39_word_space_12 | remove monster kite labor tackle brother match tribe wild hamster casual armor |  
+| bip_39_word_space_2 | remove monster |  
+| bip_39_word_space_3 | remove monster kite |  
+| bip_39_word_space_4 | remove monster kite labor |  
+| bip_39_word_space_5 | remove monster kite labor tackle |  
+| bip_39_word_space_6 | remove monster kite labor tackle brother |  
+| bip_39_word_space_7 | remove monster kite labor tackle brother match |  
+| bip_39_word_space_8 | remove monster kite labor tackle brother match tribe |  
+| bip_39_word_space_9 | remove monster kite labor tackle brother match tribe wild |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

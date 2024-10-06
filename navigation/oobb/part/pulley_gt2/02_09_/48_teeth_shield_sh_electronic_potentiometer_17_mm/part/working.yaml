@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lawsuit
+bip_39_word_new_br10: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry<br>make<br>age<br>output<br>stamp
+bip_39_word_new_br11: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry<br>make<br>age<br>output<br>stamp<br>load
+bip_39_word_new_br12: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry<br>make<br>age<br>output<br>stamp<br>load<br>afraid
+bip_39_word_new_br2: lawsuit<br>notable
+bip_39_word_new_br3: lawsuit<br>notable<br>yard
+bip_39_word_new_br4: lawsuit<br>notable<br>yard<br>drill
+bip_39_word_new_br5: lawsuit<br>notable<br>yard<br>drill<br>vicious
+bip_39_word_new_br6: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry
+bip_39_word_new_br7: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry<br>make
+bip_39_word_new_br8: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry<br>make<br>age
+bip_39_word_new_br9: lawsuit<br>notable<br>yard<br>drill<br>vicious<br>cry<br>make<br>age<br>output
+bip_39_word_new_line1: lawsuit
+bip_39_word_new_line10: 'lawsuit
+
+  notable
+
+  yard
+
+  drill
+
+  vicious
+
+  cry
+
+  make
+
+  age
+
+  output
+
+  stamp'
+bip_39_word_new_line11: 'lawsuit
+
+  notable
+
+  yard
+
+  drill
+
+  vicious
+
+  cry
+
+  make
+
+  age
+
+  output
+
+  stamp
+
+  load'
+bip_39_word_new_line12: 'lawsuit
+
+  notable
+
+  yard
+
+  drill
+
+  vicious
+
+  cry
+
+  make
+
+  age
+
+  output
+
+  stamp
+
+  load
+
+  afraid'
+bip_39_word_new_line2: 'lawsuit
+
+  notable'
+bip_39_word_new_line3: 'lawsuit
+
+  notable
+
+  yard'
+bip_39_word_new_line4: 'lawsuit
+
+  notable
+
+  yard
+
+  drill'
+bip_39_word_new_line5: 'lawsuit
+
+  notable
+
+  yard
+
+  drill
+
+  vicious'
+bip_39_word_new_line6: 'lawsuit
+
+  notable
+
+  yard
+
+  drill
+
+  vicious
+
+  cry'
+bip_39_word_new_line7: 'lawsuit
+
+  notable
+
+  yard
+
+  drill
+
+  vicious
+
+  cry
+
+  make'
+bip_39_word_new_line8: 'lawsuit
+
+  notable
+
+  yard
+
+  drill
+
+  vicious
+
+  cry
+
+  make
+
+  age'
+bip_39_word_new_line9: 'lawsuit
+
+  notable
+
+  yard
+
+  drill
+
+  vicious
+
+  cry
+
+  make
+
+  age
+
+  output'
+bip_39_word_space_0:
+- lawsuit
+- notable
+- yard
+- drill
+- vicious
+- cry
+- make
+- age
+- output
+- stamp
+- load
+- afraid
+bip_39_word_space_1: lawsuit
+bip_39_word_space_10: lawsuit notable yard drill vicious cry make age output stamp
+bip_39_word_space_11: lawsuit notable yard drill vicious cry make age output stamp
+  load
+bip_39_word_space_12: lawsuit notable yard drill vicious cry make age output stamp
+  load afraid
+bip_39_word_space_2: lawsuit notable
+bip_39_word_space_3: lawsuit notable yard
+bip_39_word_space_4: lawsuit notable yard drill
+bip_39_word_space_5: lawsuit notable yard drill vicious
+bip_39_word_space_6: lawsuit notable yard drill vicious cry
+bip_39_word_space_7: lawsuit notable yard drill vicious cry make
+bip_39_word_space_8: lawsuit notable yard drill vicious cry make age
+bip_39_word_space_9: lawsuit notable yard drill vicious cry make age output
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

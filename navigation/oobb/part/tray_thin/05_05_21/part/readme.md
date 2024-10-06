@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hammer pond
+  * bip 39 word 3: hammer pond film
+  * bip 39 word: hammer pond film biology coconut tonight detect never fish fault group attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hammer |  
+| bip_39_word_new_br10 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight<br>detect<br>never<br>fish<br>fault |  
+| bip_39_word_new_br11 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight<br>detect<br>never<br>fish<br>fault<br>group |  
+| bip_39_word_new_br12 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight<br>detect<br>never<br>fish<br>fault<br>group<br>attitude |  
+| bip_39_word_new_br2 | hammer<br>pond |  
+| bip_39_word_new_br3 | hammer<br>pond<br>film |  
+| bip_39_word_new_br4 | hammer<br>pond<br>film<br>biology |  
+| bip_39_word_new_br5 | hammer<br>pond<br>film<br>biology<br>coconut |  
+| bip_39_word_new_br6 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight |  
+| bip_39_word_new_br7 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight<br>detect |  
+| bip_39_word_new_br8 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight<br>detect<br>never |  
+| bip_39_word_new_br9 | hammer<br>pond<br>film<br>biology<br>coconut<br>tonight<br>detect<br>never<br>fish |  
+| bip_39_word_new_line1 | hammer |  
+| bip_39_word_new_line10 | hammer
+pond
+film
+biology
+coconut
+tonight
+detect
+never
+fish
+fault |  
+| bip_39_word_new_line11 | hammer
+pond
+film
+biology
+coconut
+tonight
+detect
+never
+fish
+fault
+group |  
+| bip_39_word_new_line12 | hammer
+pond
+film
+biology
+coconut
+tonight
+detect
+never
+fish
+fault
+group
+attitude |  
+| bip_39_word_new_line2 | hammer
+pond |  
+| bip_39_word_new_line3 | hammer
+pond
+film |  
+| bip_39_word_new_line4 | hammer
+pond
+film
+biology |  
+| bip_39_word_new_line5 | hammer
+pond
+film
+biology
+coconut |  
+| bip_39_word_new_line6 | hammer
+pond
+film
+biology
+coconut
+tonight |  
+| bip_39_word_new_line7 | hammer
+pond
+film
+biology
+coconut
+tonight
+detect |  
+| bip_39_word_new_line8 | hammer
+pond
+film
+biology
+coconut
+tonight
+detect
+never |  
+| bip_39_word_new_line9 | hammer
+pond
+film
+biology
+coconut
+tonight
+detect
+never
+fish |  
+| bip_39_word_space_0 | ['hammer', 'pond', 'film', 'biology', 'coconut', 'tonight', 'detect', 'never', 'fish', 'fault', 'group', 'attitude'] |  
+| bip_39_word_space_1 | hammer |  
+| bip_39_word_space_10 | hammer pond film biology coconut tonight detect never fish fault |  
+| bip_39_word_space_11 | hammer pond film biology coconut tonight detect never fish fault group |  
+| bip_39_word_space_12 | hammer pond film biology coconut tonight detect never fish fault group attitude |  
+| bip_39_word_space_2 | hammer pond |  
+| bip_39_word_space_3 | hammer pond film |  
+| bip_39_word_space_4 | hammer pond film biology |  
+| bip_39_word_space_5 | hammer pond film biology coconut |  
+| bip_39_word_space_6 | hammer pond film biology coconut tonight |  
+| bip_39_word_space_7 | hammer pond film biology coconut tonight detect |  
+| bip_39_word_space_8 | hammer pond film biology coconut tonight detect never |  
+| bip_39_word_space_9 | hammer pond film biology coconut tonight detect never fish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

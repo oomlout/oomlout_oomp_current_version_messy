@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hub treat
+  * bip 39 word 3: hub treat flat
+  * bip 39 word: hub treat flat creek stadium basket student over happy tip undo adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hub |  
+| bip_39_word_new_br10 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket<br>student<br>over<br>happy<br>tip |  
+| bip_39_word_new_br11 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket<br>student<br>over<br>happy<br>tip<br>undo |  
+| bip_39_word_new_br12 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket<br>student<br>over<br>happy<br>tip<br>undo<br>adjust |  
+| bip_39_word_new_br2 | hub<br>treat |  
+| bip_39_word_new_br3 | hub<br>treat<br>flat |  
+| bip_39_word_new_br4 | hub<br>treat<br>flat<br>creek |  
+| bip_39_word_new_br5 | hub<br>treat<br>flat<br>creek<br>stadium |  
+| bip_39_word_new_br6 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket |  
+| bip_39_word_new_br7 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket<br>student |  
+| bip_39_word_new_br8 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket<br>student<br>over |  
+| bip_39_word_new_br9 | hub<br>treat<br>flat<br>creek<br>stadium<br>basket<br>student<br>over<br>happy |  
+| bip_39_word_new_line1 | hub |  
+| bip_39_word_new_line10 | hub
+treat
+flat
+creek
+stadium
+basket
+student
+over
+happy
+tip |  
+| bip_39_word_new_line11 | hub
+treat
+flat
+creek
+stadium
+basket
+student
+over
+happy
+tip
+undo |  
+| bip_39_word_new_line12 | hub
+treat
+flat
+creek
+stadium
+basket
+student
+over
+happy
+tip
+undo
+adjust |  
+| bip_39_word_new_line2 | hub
+treat |  
+| bip_39_word_new_line3 | hub
+treat
+flat |  
+| bip_39_word_new_line4 | hub
+treat
+flat
+creek |  
+| bip_39_word_new_line5 | hub
+treat
+flat
+creek
+stadium |  
+| bip_39_word_new_line6 | hub
+treat
+flat
+creek
+stadium
+basket |  
+| bip_39_word_new_line7 | hub
+treat
+flat
+creek
+stadium
+basket
+student |  
+| bip_39_word_new_line8 | hub
+treat
+flat
+creek
+stadium
+basket
+student
+over |  
+| bip_39_word_new_line9 | hub
+treat
+flat
+creek
+stadium
+basket
+student
+over
+happy |  
+| bip_39_word_space_0 | ['hub', 'treat', 'flat', 'creek', 'stadium', 'basket', 'student', 'over', 'happy', 'tip', 'undo', 'adjust'] |  
+| bip_39_word_space_1 | hub |  
+| bip_39_word_space_10 | hub treat flat creek stadium basket student over happy tip |  
+| bip_39_word_space_11 | hub treat flat creek stadium basket student over happy tip undo |  
+| bip_39_word_space_12 | hub treat flat creek stadium basket student over happy tip undo adjust |  
+| bip_39_word_space_2 | hub treat |  
+| bip_39_word_space_3 | hub treat flat |  
+| bip_39_word_space_4 | hub treat flat creek |  
+| bip_39_word_space_5 | hub treat flat creek stadium |  
+| bip_39_word_space_6 | hub treat flat creek stadium basket |  
+| bip_39_word_space_7 | hub treat flat creek stadium basket student |  
+| bip_39_word_space_8 | hub treat flat creek stadium basket student over |  
+| bip_39_word_space_9 | hub treat flat creek stadium basket student over happy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

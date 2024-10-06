@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fan
+bip_39_word_new_br10: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind
+bip_39_word_new_br11: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind
+bip_39_word_new_br12: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind<br>alpha
+bip_39_word_new_br2: fan<br>armor
+bip_39_word_new_br3: fan<br>armor<br>success
+bip_39_word_new_br4: fan<br>armor<br>success<br>man
+bip_39_word_new_br5: fan<br>armor<br>success<br>man<br>fame
+bip_39_word_new_br6: fan<br>armor<br>success<br>man<br>fame<br>know
+bip_39_word_new_br7: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather
+bip_39_word_new_br8: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten
+bip_39_word_new_br9: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror
+bip_39_word_new_line1: fan
+bip_39_word_new_line10: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten
+
+  horror
+
+  mind'
+bip_39_word_new_line11: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten
+
+  horror
+
+  mind
+
+  bind'
+bip_39_word_new_line12: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten
+
+  horror
+
+  mind
+
+  bind
+
+  alpha'
+bip_39_word_new_line2: 'fan
+
+  armor'
+bip_39_word_new_line3: 'fan
+
+  armor
+
+  success'
+bip_39_word_new_line4: 'fan
+
+  armor
+
+  success
+
+  man'
+bip_39_word_new_line5: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame'
+bip_39_word_new_line6: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know'
+bip_39_word_new_line7: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather'
+bip_39_word_new_line8: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten'
+bip_39_word_new_line9: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten
+
+  horror'
+bip_39_word_space_0:
+- fan
+- armor
+- success
+- man
+- fame
+- know
+- gather
+- ten
+- horror
+- mind
+- bind
+- alpha
+bip_39_word_space_1: fan
+bip_39_word_space_10: fan armor success man fame know gather ten horror mind
+bip_39_word_space_11: fan armor success man fame know gather ten horror mind bind
+bip_39_word_space_12: fan armor success man fame know gather ten horror mind bind
+  alpha
+bip_39_word_space_2: fan armor
+bip_39_word_space_3: fan armor success
+bip_39_word_space_4: fan armor success man
+bip_39_word_space_5: fan armor success man fame
+bip_39_word_space_6: fan armor success man fame know
+bip_39_word_space_7: fan armor success man fame know gather
+bip_39_word_space_8: fan armor success man fame know gather ten
+bip_39_word_space_9: fan armor success man fame know gather ten horror
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

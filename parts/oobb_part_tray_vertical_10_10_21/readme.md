@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: detect client
+  * bip 39 word 3: detect client ticket
+  * bip 39 word: detect client ticket baby lecture wagon alter dragon benefit plastic hip assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | detect |  
+| bip_39_word_new_br10 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon<br>alter<br>dragon<br>benefit<br>plastic |  
+| bip_39_word_new_br11 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon<br>alter<br>dragon<br>benefit<br>plastic<br>hip |  
+| bip_39_word_new_br12 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon<br>alter<br>dragon<br>benefit<br>plastic<br>hip<br>assist |  
+| bip_39_word_new_br2 | detect<br>client |  
+| bip_39_word_new_br3 | detect<br>client<br>ticket |  
+| bip_39_word_new_br4 | detect<br>client<br>ticket<br>baby |  
+| bip_39_word_new_br5 | detect<br>client<br>ticket<br>baby<br>lecture |  
+| bip_39_word_new_br6 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon |  
+| bip_39_word_new_br7 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon<br>alter |  
+| bip_39_word_new_br8 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon<br>alter<br>dragon |  
+| bip_39_word_new_br9 | detect<br>client<br>ticket<br>baby<br>lecture<br>wagon<br>alter<br>dragon<br>benefit |  
+| bip_39_word_new_line1 | detect |  
+| bip_39_word_new_line10 | detect
+client
+ticket
+baby
+lecture
+wagon
+alter
+dragon
+benefit
+plastic |  
+| bip_39_word_new_line11 | detect
+client
+ticket
+baby
+lecture
+wagon
+alter
+dragon
+benefit
+plastic
+hip |  
+| bip_39_word_new_line12 | detect
+client
+ticket
+baby
+lecture
+wagon
+alter
+dragon
+benefit
+plastic
+hip
+assist |  
+| bip_39_word_new_line2 | detect
+client |  
+| bip_39_word_new_line3 | detect
+client
+ticket |  
+| bip_39_word_new_line4 | detect
+client
+ticket
+baby |  
+| bip_39_word_new_line5 | detect
+client
+ticket
+baby
+lecture |  
+| bip_39_word_new_line6 | detect
+client
+ticket
+baby
+lecture
+wagon |  
+| bip_39_word_new_line7 | detect
+client
+ticket
+baby
+lecture
+wagon
+alter |  
+| bip_39_word_new_line8 | detect
+client
+ticket
+baby
+lecture
+wagon
+alter
+dragon |  
+| bip_39_word_new_line9 | detect
+client
+ticket
+baby
+lecture
+wagon
+alter
+dragon
+benefit |  
+| bip_39_word_space_0 | ['detect', 'client', 'ticket', 'baby', 'lecture', 'wagon', 'alter', 'dragon', 'benefit', 'plastic', 'hip', 'assist'] |  
+| bip_39_word_space_1 | detect |  
+| bip_39_word_space_10 | detect client ticket baby lecture wagon alter dragon benefit plastic |  
+| bip_39_word_space_11 | detect client ticket baby lecture wagon alter dragon benefit plastic hip |  
+| bip_39_word_space_12 | detect client ticket baby lecture wagon alter dragon benefit plastic hip assist |  
+| bip_39_word_space_2 | detect client |  
+| bip_39_word_space_3 | detect client ticket |  
+| bip_39_word_space_4 | detect client ticket baby |  
+| bip_39_word_space_5 | detect client ticket baby lecture |  
+| bip_39_word_space_6 | detect client ticket baby lecture wagon |  
+| bip_39_word_space_7 | detect client ticket baby lecture wagon alter |  
+| bip_39_word_space_8 | detect client ticket baby lecture wagon alter dragon |  
+| bip_39_word_space_9 | detect client ticket baby lecture wagon alter dragon benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

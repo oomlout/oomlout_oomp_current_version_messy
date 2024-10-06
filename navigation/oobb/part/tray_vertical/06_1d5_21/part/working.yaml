@@ -1,3 +1,187 @@
+bip_39_word_new_br1: drastic
+bip_39_word_new_br10: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want
+bip_39_word_new_br11: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want<br>eight
+bip_39_word_new_br12: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance<br>want<br>eight<br>assist
+bip_39_word_new_br2: drastic<br>position
+bip_39_word_new_br3: drastic<br>position<br>pause
+bip_39_word_new_br4: drastic<br>position<br>pause<br>armed
+bip_39_word_new_br5: drastic<br>position<br>pause<br>armed<br>fall
+bip_39_word_new_br6: drastic<br>position<br>pause<br>armed<br>fall<br>tongue
+bip_39_word_new_br7: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore
+bip_39_word_new_br8: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee
+bip_39_word_new_br9: drastic<br>position<br>pause<br>armed<br>fall<br>tongue<br>ignore<br>knee<br>advance
+bip_39_word_new_line1: drastic
+bip_39_word_new_line10: 'drastic
+
+  position
+
+  pause
+
+  armed
+
+  fall
+
+  tongue
+
+  ignore
+
+  knee
+
+  advance
+
+  want'
+bip_39_word_new_line11: 'drastic
+
+  position
+
+  pause
+
+  armed
+
+  fall
+
+  tongue
+
+  ignore
+
+  knee
+
+  advance
+
+  want
+
+  eight'
+bip_39_word_new_line12: 'drastic
+
+  position
+
+  pause
+
+  armed
+
+  fall
+
+  tongue
+
+  ignore
+
+  knee
+
+  advance
+
+  want
+
+  eight
+
+  assist'
+bip_39_word_new_line2: 'drastic
+
+  position'
+bip_39_word_new_line3: 'drastic
+
+  position
+
+  pause'
+bip_39_word_new_line4: 'drastic
+
+  position
+
+  pause
+
+  armed'
+bip_39_word_new_line5: 'drastic
+
+  position
+
+  pause
+
+  armed
+
+  fall'
+bip_39_word_new_line6: 'drastic
+
+  position
+
+  pause
+
+  armed
+
+  fall
+
+  tongue'
+bip_39_word_new_line7: 'drastic
+
+  position
+
+  pause
+
+  armed
+
+  fall
+
+  tongue
+
+  ignore'
+bip_39_word_new_line8: 'drastic
+
+  position
+
+  pause
+
+  armed
+
+  fall
+
+  tongue
+
+  ignore
+
+  knee'
+bip_39_word_new_line9: 'drastic
+
+  position
+
+  pause
+
+  armed
+
+  fall
+
+  tongue
+
+  ignore
+
+  knee
+
+  advance'
+bip_39_word_space_0:
+- drastic
+- position
+- pause
+- armed
+- fall
+- tongue
+- ignore
+- knee
+- advance
+- want
+- eight
+- assist
+bip_39_word_space_1: drastic
+bip_39_word_space_10: drastic position pause armed fall tongue ignore knee advance
+  want
+bip_39_word_space_11: drastic position pause armed fall tongue ignore knee advance
+  want eight
+bip_39_word_space_12: drastic position pause armed fall tongue ignore knee advance
+  want eight assist
+bip_39_word_space_2: drastic position
+bip_39_word_space_3: drastic position pause
+bip_39_word_space_4: drastic position pause armed
+bip_39_word_space_5: drastic position pause armed fall
+bip_39_word_space_6: drastic position pause armed fall tongue
+bip_39_word_space_7: drastic position pause armed fall tongue ignore
+bip_39_word_space_8: drastic position pause armed fall tongue ignore knee
+bip_39_word_space_9: drastic position pause armed fall tongue ignore knee advance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: text hazard
+  * bip 39 word 3: text hazard dry
+  * bip 39 word: text hazard dry brass soccer boring outer wife debate scare spoon alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | text |  
+| bip_39_word_new_br10 | text<br>hazard<br>dry<br>brass<br>soccer<br>boring<br>outer<br>wife<br>debate<br>scare |  
+| bip_39_word_new_br11 | text<br>hazard<br>dry<br>brass<br>soccer<br>boring<br>outer<br>wife<br>debate<br>scare<br>spoon |  
+| bip_39_word_new_br12 | text<br>hazard<br>dry<br>brass<br>soccer<br>boring<br>outer<br>wife<br>debate<br>scare<br>spoon<br>alley |  
+| bip_39_word_new_br2 | text<br>hazard |  
+| bip_39_word_new_br3 | text<br>hazard<br>dry |  
+| bip_39_word_new_br4 | text<br>hazard<br>dry<br>brass |  
+| bip_39_word_new_br5 | text<br>hazard<br>dry<br>brass<br>soccer |  
+| bip_39_word_new_br6 | text<br>hazard<br>dry<br>brass<br>soccer<br>boring |  
+| bip_39_word_new_br7 | text<br>hazard<br>dry<br>brass<br>soccer<br>boring<br>outer |  
+| bip_39_word_new_br8 | text<br>hazard<br>dry<br>brass<br>soccer<br>boring<br>outer<br>wife |  
+| bip_39_word_new_br9 | text<br>hazard<br>dry<br>brass<br>soccer<br>boring<br>outer<br>wife<br>debate |  
+| bip_39_word_new_line1 | text |  
+| bip_39_word_new_line10 | text
+hazard
+dry
+brass
+soccer
+boring
+outer
+wife
+debate
+scare |  
+| bip_39_word_new_line11 | text
+hazard
+dry
+brass
+soccer
+boring
+outer
+wife
+debate
+scare
+spoon |  
+| bip_39_word_new_line12 | text
+hazard
+dry
+brass
+soccer
+boring
+outer
+wife
+debate
+scare
+spoon
+alley |  
+| bip_39_word_new_line2 | text
+hazard |  
+| bip_39_word_new_line3 | text
+hazard
+dry |  
+| bip_39_word_new_line4 | text
+hazard
+dry
+brass |  
+| bip_39_word_new_line5 | text
+hazard
+dry
+brass
+soccer |  
+| bip_39_word_new_line6 | text
+hazard
+dry
+brass
+soccer
+boring |  
+| bip_39_word_new_line7 | text
+hazard
+dry
+brass
+soccer
+boring
+outer |  
+| bip_39_word_new_line8 | text
+hazard
+dry
+brass
+soccer
+boring
+outer
+wife |  
+| bip_39_word_new_line9 | text
+hazard
+dry
+brass
+soccer
+boring
+outer
+wife
+debate |  
+| bip_39_word_space_0 | ['text', 'hazard', 'dry', 'brass', 'soccer', 'boring', 'outer', 'wife', 'debate', 'scare', 'spoon', 'alley'] |  
+| bip_39_word_space_1 | text |  
+| bip_39_word_space_10 | text hazard dry brass soccer boring outer wife debate scare |  
+| bip_39_word_space_11 | text hazard dry brass soccer boring outer wife debate scare spoon |  
+| bip_39_word_space_12 | text hazard dry brass soccer boring outer wife debate scare spoon alley |  
+| bip_39_word_space_2 | text hazard |  
+| bip_39_word_space_3 | text hazard dry |  
+| bip_39_word_space_4 | text hazard dry brass |  
+| bip_39_word_space_5 | text hazard dry brass soccer |  
+| bip_39_word_space_6 | text hazard dry brass soccer boring |  
+| bip_39_word_space_7 | text hazard dry brass soccer boring outer |  
+| bip_39_word_space_8 | text hazard dry brass soccer boring outer wife |  
+| bip_39_word_space_9 | text hazard dry brass soccer boring outer wife debate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

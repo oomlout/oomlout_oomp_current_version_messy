@@ -1,3 +1,187 @@
+bip_39_word_new_br1: forward
+bip_39_word_new_br10: forward<br>tumble<br>element<br>whip<br>moral<br>struggle<br>radio<br>actor<br>rule<br>obey
+bip_39_word_new_br11: forward<br>tumble<br>element<br>whip<br>moral<br>struggle<br>radio<br>actor<br>rule<br>obey<br>supply
+bip_39_word_new_br12: forward<br>tumble<br>element<br>whip<br>moral<br>struggle<br>radio<br>actor<br>rule<br>obey<br>supply<br>aunt
+bip_39_word_new_br2: forward<br>tumble
+bip_39_word_new_br3: forward<br>tumble<br>element
+bip_39_word_new_br4: forward<br>tumble<br>element<br>whip
+bip_39_word_new_br5: forward<br>tumble<br>element<br>whip<br>moral
+bip_39_word_new_br6: forward<br>tumble<br>element<br>whip<br>moral<br>struggle
+bip_39_word_new_br7: forward<br>tumble<br>element<br>whip<br>moral<br>struggle<br>radio
+bip_39_word_new_br8: forward<br>tumble<br>element<br>whip<br>moral<br>struggle<br>radio<br>actor
+bip_39_word_new_br9: forward<br>tumble<br>element<br>whip<br>moral<br>struggle<br>radio<br>actor<br>rule
+bip_39_word_new_line1: forward
+bip_39_word_new_line10: 'forward
+
+  tumble
+
+  element
+
+  whip
+
+  moral
+
+  struggle
+
+  radio
+
+  actor
+
+  rule
+
+  obey'
+bip_39_word_new_line11: 'forward
+
+  tumble
+
+  element
+
+  whip
+
+  moral
+
+  struggle
+
+  radio
+
+  actor
+
+  rule
+
+  obey
+
+  supply'
+bip_39_word_new_line12: 'forward
+
+  tumble
+
+  element
+
+  whip
+
+  moral
+
+  struggle
+
+  radio
+
+  actor
+
+  rule
+
+  obey
+
+  supply
+
+  aunt'
+bip_39_word_new_line2: 'forward
+
+  tumble'
+bip_39_word_new_line3: 'forward
+
+  tumble
+
+  element'
+bip_39_word_new_line4: 'forward
+
+  tumble
+
+  element
+
+  whip'
+bip_39_word_new_line5: 'forward
+
+  tumble
+
+  element
+
+  whip
+
+  moral'
+bip_39_word_new_line6: 'forward
+
+  tumble
+
+  element
+
+  whip
+
+  moral
+
+  struggle'
+bip_39_word_new_line7: 'forward
+
+  tumble
+
+  element
+
+  whip
+
+  moral
+
+  struggle
+
+  radio'
+bip_39_word_new_line8: 'forward
+
+  tumble
+
+  element
+
+  whip
+
+  moral
+
+  struggle
+
+  radio
+
+  actor'
+bip_39_word_new_line9: 'forward
+
+  tumble
+
+  element
+
+  whip
+
+  moral
+
+  struggle
+
+  radio
+
+  actor
+
+  rule'
+bip_39_word_space_0:
+- forward
+- tumble
+- element
+- whip
+- moral
+- struggle
+- radio
+- actor
+- rule
+- obey
+- supply
+- aunt
+bip_39_word_space_1: forward
+bip_39_word_space_10: forward tumble element whip moral struggle radio actor rule
+  obey
+bip_39_word_space_11: forward tumble element whip moral struggle radio actor rule
+  obey supply
+bip_39_word_space_12: forward tumble element whip moral struggle radio actor rule
+  obey supply aunt
+bip_39_word_space_2: forward tumble
+bip_39_word_space_3: forward tumble element
+bip_39_word_space_4: forward tumble element whip
+bip_39_word_space_5: forward tumble element whip moral
+bip_39_word_space_6: forward tumble element whip moral struggle
+bip_39_word_space_7: forward tumble element whip moral struggle radio
+bip_39_word_space_8: forward tumble element whip moral struggle radio actor
+bip_39_word_space_9: forward tumble element whip moral struggle radio actor rule
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

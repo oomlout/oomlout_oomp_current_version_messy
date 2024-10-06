@@ -1,3 +1,187 @@
+bip_39_word_new_br1: cycle
+bip_39_word_new_br10: cycle<br>utility<br>element<br>describe<br>duty<br>circle<br>net<br>agree<br>toddler<br>they
+bip_39_word_new_br11: cycle<br>utility<br>element<br>describe<br>duty<br>circle<br>net<br>agree<br>toddler<br>they<br>crunch
+bip_39_word_new_br12: cycle<br>utility<br>element<br>describe<br>duty<br>circle<br>net<br>agree<br>toddler<br>they<br>crunch<br>atom
+bip_39_word_new_br2: cycle<br>utility
+bip_39_word_new_br3: cycle<br>utility<br>element
+bip_39_word_new_br4: cycle<br>utility<br>element<br>describe
+bip_39_word_new_br5: cycle<br>utility<br>element<br>describe<br>duty
+bip_39_word_new_br6: cycle<br>utility<br>element<br>describe<br>duty<br>circle
+bip_39_word_new_br7: cycle<br>utility<br>element<br>describe<br>duty<br>circle<br>net
+bip_39_word_new_br8: cycle<br>utility<br>element<br>describe<br>duty<br>circle<br>net<br>agree
+bip_39_word_new_br9: cycle<br>utility<br>element<br>describe<br>duty<br>circle<br>net<br>agree<br>toddler
+bip_39_word_new_line1: cycle
+bip_39_word_new_line10: 'cycle
+
+  utility
+
+  element
+
+  describe
+
+  duty
+
+  circle
+
+  net
+
+  agree
+
+  toddler
+
+  they'
+bip_39_word_new_line11: 'cycle
+
+  utility
+
+  element
+
+  describe
+
+  duty
+
+  circle
+
+  net
+
+  agree
+
+  toddler
+
+  they
+
+  crunch'
+bip_39_word_new_line12: 'cycle
+
+  utility
+
+  element
+
+  describe
+
+  duty
+
+  circle
+
+  net
+
+  agree
+
+  toddler
+
+  they
+
+  crunch
+
+  atom'
+bip_39_word_new_line2: 'cycle
+
+  utility'
+bip_39_word_new_line3: 'cycle
+
+  utility
+
+  element'
+bip_39_word_new_line4: 'cycle
+
+  utility
+
+  element
+
+  describe'
+bip_39_word_new_line5: 'cycle
+
+  utility
+
+  element
+
+  describe
+
+  duty'
+bip_39_word_new_line6: 'cycle
+
+  utility
+
+  element
+
+  describe
+
+  duty
+
+  circle'
+bip_39_word_new_line7: 'cycle
+
+  utility
+
+  element
+
+  describe
+
+  duty
+
+  circle
+
+  net'
+bip_39_word_new_line8: 'cycle
+
+  utility
+
+  element
+
+  describe
+
+  duty
+
+  circle
+
+  net
+
+  agree'
+bip_39_word_new_line9: 'cycle
+
+  utility
+
+  element
+
+  describe
+
+  duty
+
+  circle
+
+  net
+
+  agree
+
+  toddler'
+bip_39_word_space_0:
+- cycle
+- utility
+- element
+- describe
+- duty
+- circle
+- net
+- agree
+- toddler
+- they
+- crunch
+- atom
+bip_39_word_space_1: cycle
+bip_39_word_space_10: cycle utility element describe duty circle net agree toddler
+  they
+bip_39_word_space_11: cycle utility element describe duty circle net agree toddler
+  they crunch
+bip_39_word_space_12: cycle utility element describe duty circle net agree toddler
+  they crunch atom
+bip_39_word_space_2: cycle utility
+bip_39_word_space_3: cycle utility element
+bip_39_word_space_4: cycle utility element describe
+bip_39_word_space_5: cycle utility element describe duty
+bip_39_word_space_6: cycle utility element describe duty circle
+bip_39_word_space_7: cycle utility element describe duty circle net
+bip_39_word_space_8: cycle utility element describe duty circle net agree
+bip_39_word_space_9: cycle utility element describe duty circle net agree toddler
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

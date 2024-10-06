@@ -1,3 +1,185 @@
+bip_39_word_new_br1: radar
+bip_39_word_new_br10: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix<br>cherry
+bip_39_word_new_br11: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix<br>cherry<br>resist
+bip_39_word_new_br12: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix<br>cherry<br>resist<br>abuse
+bip_39_word_new_br2: radar<br>neutral
+bip_39_word_new_br3: radar<br>neutral<br>tag
+bip_39_word_new_br4: radar<br>neutral<br>tag<br>wrist
+bip_39_word_new_br5: radar<br>neutral<br>tag<br>wrist<br>poet
+bip_39_word_new_br6: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava
+bip_39_word_new_br7: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime
+bip_39_word_new_br8: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot
+bip_39_word_new_br9: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix
+bip_39_word_new_line1: radar
+bip_39_word_new_line10: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot
+
+  fix
+
+  cherry'
+bip_39_word_new_line11: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot
+
+  fix
+
+  cherry
+
+  resist'
+bip_39_word_new_line12: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot
+
+  fix
+
+  cherry
+
+  resist
+
+  abuse'
+bip_39_word_new_line2: 'radar
+
+  neutral'
+bip_39_word_new_line3: 'radar
+
+  neutral
+
+  tag'
+bip_39_word_new_line4: 'radar
+
+  neutral
+
+  tag
+
+  wrist'
+bip_39_word_new_line5: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet'
+bip_39_word_new_line6: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava'
+bip_39_word_new_line7: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime'
+bip_39_word_new_line8: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot'
+bip_39_word_new_line9: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot
+
+  fix'
+bip_39_word_space_0:
+- radar
+- neutral
+- tag
+- wrist
+- poet
+- lava
+- crime
+- pilot
+- fix
+- cherry
+- resist
+- abuse
+bip_39_word_space_1: radar
+bip_39_word_space_10: radar neutral tag wrist poet lava crime pilot fix cherry
+bip_39_word_space_11: radar neutral tag wrist poet lava crime pilot fix cherry resist
+bip_39_word_space_12: radar neutral tag wrist poet lava crime pilot fix cherry resist
+  abuse
+bip_39_word_space_2: radar neutral
+bip_39_word_space_3: radar neutral tag
+bip_39_word_space_4: radar neutral tag wrist
+bip_39_word_space_5: radar neutral tag wrist poet
+bip_39_word_space_6: radar neutral tag wrist poet lava
+bip_39_word_space_7: radar neutral tag wrist poet lava crime
+bip_39_word_space_8: radar neutral tag wrist poet lava crime pilot
+bip_39_word_space_9: radar neutral tag wrist poet lava crime pilot fix
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

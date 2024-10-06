@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2_5_volt
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: harvest prison
+  * bip 39 word 3: harvest prison kingdom
+  * bip 39 word: harvest prison kingdom gain visa volume trap tennis dignity game want ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | harvest |  
+| bip_39_word_new_br10 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume<br>trap<br>tennis<br>dignity<br>game |  
+| bip_39_word_new_br11 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume<br>trap<br>tennis<br>dignity<br>game<br>want |  
+| bip_39_word_new_br12 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume<br>trap<br>tennis<br>dignity<br>game<br>want<br>ahead |  
+| bip_39_word_new_br2 | harvest<br>prison |  
+| bip_39_word_new_br3 | harvest<br>prison<br>kingdom |  
+| bip_39_word_new_br4 | harvest<br>prison<br>kingdom<br>gain |  
+| bip_39_word_new_br5 | harvest<br>prison<br>kingdom<br>gain<br>visa |  
+| bip_39_word_new_br6 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume |  
+| bip_39_word_new_br7 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume<br>trap |  
+| bip_39_word_new_br8 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume<br>trap<br>tennis |  
+| bip_39_word_new_br9 | harvest<br>prison<br>kingdom<br>gain<br>visa<br>volume<br>trap<br>tennis<br>dignity |  
+| bip_39_word_new_line1 | harvest |  
+| bip_39_word_new_line10 | harvest
+prison
+kingdom
+gain
+visa
+volume
+trap
+tennis
+dignity
+game |  
+| bip_39_word_new_line11 | harvest
+prison
+kingdom
+gain
+visa
+volume
+trap
+tennis
+dignity
+game
+want |  
+| bip_39_word_new_line12 | harvest
+prison
+kingdom
+gain
+visa
+volume
+trap
+tennis
+dignity
+game
+want
+ahead |  
+| bip_39_word_new_line2 | harvest
+prison |  
+| bip_39_word_new_line3 | harvest
+prison
+kingdom |  
+| bip_39_word_new_line4 | harvest
+prison
+kingdom
+gain |  
+| bip_39_word_new_line5 | harvest
+prison
+kingdom
+gain
+visa |  
+| bip_39_word_new_line6 | harvest
+prison
+kingdom
+gain
+visa
+volume |  
+| bip_39_word_new_line7 | harvest
+prison
+kingdom
+gain
+visa
+volume
+trap |  
+| bip_39_word_new_line8 | harvest
+prison
+kingdom
+gain
+visa
+volume
+trap
+tennis |  
+| bip_39_word_new_line9 | harvest
+prison
+kingdom
+gain
+visa
+volume
+trap
+tennis
+dignity |  
+| bip_39_word_space_0 | ['harvest', 'prison', 'kingdom', 'gain', 'visa', 'volume', 'trap', 'tennis', 'dignity', 'game', 'want', 'ahead'] |  
+| bip_39_word_space_1 | harvest |  
+| bip_39_word_space_10 | harvest prison kingdom gain visa volume trap tennis dignity game |  
+| bip_39_word_space_11 | harvest prison kingdom gain visa volume trap tennis dignity game want |  
+| bip_39_word_space_12 | harvest prison kingdom gain visa volume trap tennis dignity game want ahead |  
+| bip_39_word_space_2 | harvest prison |  
+| bip_39_word_space_3 | harvest prison kingdom |  
+| bip_39_word_space_4 | harvest prison kingdom gain |  
+| bip_39_word_space_5 | harvest prison kingdom gain visa |  
+| bip_39_word_space_6 | harvest prison kingdom gain visa volume |  
+| bip_39_word_space_7 | harvest prison kingdom gain visa volume trap |  
+| bip_39_word_space_8 | harvest prison kingdom gain visa volume trap tennis |  
+| bip_39_word_space_9 | harvest prison kingdom gain visa volume trap tennis dignity |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

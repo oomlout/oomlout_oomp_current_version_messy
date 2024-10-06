@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: royal must
+  * bip 39 word 3: royal must arrange
+  * bip 39 word: royal must arrange general slush bone panther adapt use receive scan another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | royal |  
+| bip_39_word_new_br10 | royal<br>must<br>arrange<br>general<br>slush<br>bone<br>panther<br>adapt<br>use<br>receive |  
+| bip_39_word_new_br11 | royal<br>must<br>arrange<br>general<br>slush<br>bone<br>panther<br>adapt<br>use<br>receive<br>scan |  
+| bip_39_word_new_br12 | royal<br>must<br>arrange<br>general<br>slush<br>bone<br>panther<br>adapt<br>use<br>receive<br>scan<br>another |  
+| bip_39_word_new_br2 | royal<br>must |  
+| bip_39_word_new_br3 | royal<br>must<br>arrange |  
+| bip_39_word_new_br4 | royal<br>must<br>arrange<br>general |  
+| bip_39_word_new_br5 | royal<br>must<br>arrange<br>general<br>slush |  
+| bip_39_word_new_br6 | royal<br>must<br>arrange<br>general<br>slush<br>bone |  
+| bip_39_word_new_br7 | royal<br>must<br>arrange<br>general<br>slush<br>bone<br>panther |  
+| bip_39_word_new_br8 | royal<br>must<br>arrange<br>general<br>slush<br>bone<br>panther<br>adapt |  
+| bip_39_word_new_br9 | royal<br>must<br>arrange<br>general<br>slush<br>bone<br>panther<br>adapt<br>use |  
+| bip_39_word_new_line1 | royal |  
+| bip_39_word_new_line10 | royal
+must
+arrange
+general
+slush
+bone
+panther
+adapt
+use
+receive |  
+| bip_39_word_new_line11 | royal
+must
+arrange
+general
+slush
+bone
+panther
+adapt
+use
+receive
+scan |  
+| bip_39_word_new_line12 | royal
+must
+arrange
+general
+slush
+bone
+panther
+adapt
+use
+receive
+scan
+another |  
+| bip_39_word_new_line2 | royal
+must |  
+| bip_39_word_new_line3 | royal
+must
+arrange |  
+| bip_39_word_new_line4 | royal
+must
+arrange
+general |  
+| bip_39_word_new_line5 | royal
+must
+arrange
+general
+slush |  
+| bip_39_word_new_line6 | royal
+must
+arrange
+general
+slush
+bone |  
+| bip_39_word_new_line7 | royal
+must
+arrange
+general
+slush
+bone
+panther |  
+| bip_39_word_new_line8 | royal
+must
+arrange
+general
+slush
+bone
+panther
+adapt |  
+| bip_39_word_new_line9 | royal
+must
+arrange
+general
+slush
+bone
+panther
+adapt
+use |  
+| bip_39_word_space_0 | ['royal', 'must', 'arrange', 'general', 'slush', 'bone', 'panther', 'adapt', 'use', 'receive', 'scan', 'another'] |  
+| bip_39_word_space_1 | royal |  
+| bip_39_word_space_10 | royal must arrange general slush bone panther adapt use receive |  
+| bip_39_word_space_11 | royal must arrange general slush bone panther adapt use receive scan |  
+| bip_39_word_space_12 | royal must arrange general slush bone panther adapt use receive scan another |  
+| bip_39_word_space_2 | royal must |  
+| bip_39_word_space_3 | royal must arrange |  
+| bip_39_word_space_4 | royal must arrange general |  
+| bip_39_word_space_5 | royal must arrange general slush |  
+| bip_39_word_space_6 | royal must arrange general slush bone |  
+| bip_39_word_space_7 | royal must arrange general slush bone panther |  
+| bip_39_word_space_8 | royal must arrange general slush bone panther adapt |  
+| bip_39_word_space_9 | royal must arrange general slush bone panther adapt use |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

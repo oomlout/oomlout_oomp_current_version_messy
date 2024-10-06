@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: people clock
+  * bip 39 word 3: people clock mountain
+  * bip 39 word: people clock mountain digital love cube alcohol sibling crack tube blade angry
 
 ### other_codes
 * short_code: brMR128
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | people |  
+| bip_39_word_new_br10 | people<br>clock<br>mountain<br>digital<br>love<br>cube<br>alcohol<br>sibling<br>crack<br>tube |  
+| bip_39_word_new_br11 | people<br>clock<br>mountain<br>digital<br>love<br>cube<br>alcohol<br>sibling<br>crack<br>tube<br>blade |  
+| bip_39_word_new_br12 | people<br>clock<br>mountain<br>digital<br>love<br>cube<br>alcohol<br>sibling<br>crack<br>tube<br>blade<br>angry |  
+| bip_39_word_new_br2 | people<br>clock |  
+| bip_39_word_new_br3 | people<br>clock<br>mountain |  
+| bip_39_word_new_br4 | people<br>clock<br>mountain<br>digital |  
+| bip_39_word_new_br5 | people<br>clock<br>mountain<br>digital<br>love |  
+| bip_39_word_new_br6 | people<br>clock<br>mountain<br>digital<br>love<br>cube |  
+| bip_39_word_new_br7 | people<br>clock<br>mountain<br>digital<br>love<br>cube<br>alcohol |  
+| bip_39_word_new_br8 | people<br>clock<br>mountain<br>digital<br>love<br>cube<br>alcohol<br>sibling |  
+| bip_39_word_new_br9 | people<br>clock<br>mountain<br>digital<br>love<br>cube<br>alcohol<br>sibling<br>crack |  
+| bip_39_word_new_line1 | people |  
+| bip_39_word_new_line10 | people
+clock
+mountain
+digital
+love
+cube
+alcohol
+sibling
+crack
+tube |  
+| bip_39_word_new_line11 | people
+clock
+mountain
+digital
+love
+cube
+alcohol
+sibling
+crack
+tube
+blade |  
+| bip_39_word_new_line12 | people
+clock
+mountain
+digital
+love
+cube
+alcohol
+sibling
+crack
+tube
+blade
+angry |  
+| bip_39_word_new_line2 | people
+clock |  
+| bip_39_word_new_line3 | people
+clock
+mountain |  
+| bip_39_word_new_line4 | people
+clock
+mountain
+digital |  
+| bip_39_word_new_line5 | people
+clock
+mountain
+digital
+love |  
+| bip_39_word_new_line6 | people
+clock
+mountain
+digital
+love
+cube |  
+| bip_39_word_new_line7 | people
+clock
+mountain
+digital
+love
+cube
+alcohol |  
+| bip_39_word_new_line8 | people
+clock
+mountain
+digital
+love
+cube
+alcohol
+sibling |  
+| bip_39_word_new_line9 | people
+clock
+mountain
+digital
+love
+cube
+alcohol
+sibling
+crack |  
+| bip_39_word_space_0 | ['people', 'clock', 'mountain', 'digital', 'love', 'cube', 'alcohol', 'sibling', 'crack', 'tube', 'blade', 'angry'] |  
+| bip_39_word_space_1 | people |  
+| bip_39_word_space_10 | people clock mountain digital love cube alcohol sibling crack tube |  
+| bip_39_word_space_11 | people clock mountain digital love cube alcohol sibling crack tube blade |  
+| bip_39_word_space_12 | people clock mountain digital love cube alcohol sibling crack tube blade angry |  
+| bip_39_word_space_2 | people clock |  
+| bip_39_word_space_3 | people clock mountain |  
+| bip_39_word_space_4 | people clock mountain digital |  
+| bip_39_word_space_5 | people clock mountain digital love |  
+| bip_39_word_space_6 | people clock mountain digital love cube |  
+| bip_39_word_space_7 | people clock mountain digital love cube alcohol |  
+| bip_39_word_space_8 | people clock mountain digital love cube alcohol sibling |  
+| bip_39_word_space_9 | people clock mountain digital love cube alcohol sibling crack |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

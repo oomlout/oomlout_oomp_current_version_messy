@@ -1,3 +1,186 @@
+bip_39_word_new_br1: suspect
+bip_39_word_new_br10: suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate<br>van<br>flash<br>muffin<br>lobster
+bip_39_word_new_br11: suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate<br>van<br>flash<br>muffin<br>lobster<br>tower
+bip_39_word_new_br12: suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate<br>van<br>flash<br>muffin<br>lobster<br>tower<br>across
+bip_39_word_new_br2: suspect<br>jeans
+bip_39_word_new_br3: suspect<br>jeans<br>crazy
+bip_39_word_new_br4: suspect<br>jeans<br>crazy<br>april
+bip_39_word_new_br5: suspect<br>jeans<br>crazy<br>april<br>nut
+bip_39_word_new_br6: suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate
+bip_39_word_new_br7: suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate<br>van
+bip_39_word_new_br8: suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate<br>van<br>flash
+bip_39_word_new_br9: suspect<br>jeans<br>crazy<br>april<br>nut<br>indicate<br>van<br>flash<br>muffin
+bip_39_word_new_line1: suspect
+bip_39_word_new_line10: 'suspect
+
+  jeans
+
+  crazy
+
+  april
+
+  nut
+
+  indicate
+
+  van
+
+  flash
+
+  muffin
+
+  lobster'
+bip_39_word_new_line11: 'suspect
+
+  jeans
+
+  crazy
+
+  april
+
+  nut
+
+  indicate
+
+  van
+
+  flash
+
+  muffin
+
+  lobster
+
+  tower'
+bip_39_word_new_line12: 'suspect
+
+  jeans
+
+  crazy
+
+  april
+
+  nut
+
+  indicate
+
+  van
+
+  flash
+
+  muffin
+
+  lobster
+
+  tower
+
+  across'
+bip_39_word_new_line2: 'suspect
+
+  jeans'
+bip_39_word_new_line3: 'suspect
+
+  jeans
+
+  crazy'
+bip_39_word_new_line4: 'suspect
+
+  jeans
+
+  crazy
+
+  april'
+bip_39_word_new_line5: 'suspect
+
+  jeans
+
+  crazy
+
+  april
+
+  nut'
+bip_39_word_new_line6: 'suspect
+
+  jeans
+
+  crazy
+
+  april
+
+  nut
+
+  indicate'
+bip_39_word_new_line7: 'suspect
+
+  jeans
+
+  crazy
+
+  april
+
+  nut
+
+  indicate
+
+  van'
+bip_39_word_new_line8: 'suspect
+
+  jeans
+
+  crazy
+
+  april
+
+  nut
+
+  indicate
+
+  van
+
+  flash'
+bip_39_word_new_line9: 'suspect
+
+  jeans
+
+  crazy
+
+  april
+
+  nut
+
+  indicate
+
+  van
+
+  flash
+
+  muffin'
+bip_39_word_space_0:
+- suspect
+- jeans
+- crazy
+- april
+- nut
+- indicate
+- van
+- flash
+- muffin
+- lobster
+- tower
+- across
+bip_39_word_space_1: suspect
+bip_39_word_space_10: suspect jeans crazy april nut indicate van flash muffin lobster
+bip_39_word_space_11: suspect jeans crazy april nut indicate van flash muffin lobster
+  tower
+bip_39_word_space_12: suspect jeans crazy april nut indicate van flash muffin lobster
+  tower across
+bip_39_word_space_2: suspect jeans
+bip_39_word_space_3: suspect jeans crazy
+bip_39_word_space_4: suspect jeans crazy april
+bip_39_word_space_5: suspect jeans crazy april nut
+bip_39_word_space_6: suspect jeans crazy april nut indicate
+bip_39_word_space_7: suspect jeans crazy april nut indicate van
+bip_39_word_space_8: suspect jeans crazy april nut indicate van flash
+bip_39_word_space_9: suspect jeans crazy april nut indicate van flash muffin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

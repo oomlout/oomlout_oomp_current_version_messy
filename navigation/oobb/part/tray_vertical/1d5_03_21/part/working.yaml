@@ -1,3 +1,186 @@
+bip_39_word_new_br1: online
+bip_39_word_new_br10: online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork
+bip_39_word_new_br11: online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork<br>august
+bip_39_word_new_br12: online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy<br>artwork<br>august<br>airport
+bip_39_word_new_br2: online<br>guide
+bip_39_word_new_br3: online<br>guide<br>main
+bip_39_word_new_br4: online<br>guide<br>main<br>primary
+bip_39_word_new_br5: online<br>guide<br>main<br>primary<br>glow
+bip_39_word_new_br6: online<br>guide<br>main<br>primary<br>glow<br>net
+bip_39_word_new_br7: online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer
+bip_39_word_new_br8: online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world
+bip_39_word_new_br9: online<br>guide<br>main<br>primary<br>glow<br>net<br>soccer<br>world<br>lazy
+bip_39_word_new_line1: online
+bip_39_word_new_line10: 'online
+
+  guide
+
+  main
+
+  primary
+
+  glow
+
+  net
+
+  soccer
+
+  world
+
+  lazy
+
+  artwork'
+bip_39_word_new_line11: 'online
+
+  guide
+
+  main
+
+  primary
+
+  glow
+
+  net
+
+  soccer
+
+  world
+
+  lazy
+
+  artwork
+
+  august'
+bip_39_word_new_line12: 'online
+
+  guide
+
+  main
+
+  primary
+
+  glow
+
+  net
+
+  soccer
+
+  world
+
+  lazy
+
+  artwork
+
+  august
+
+  airport'
+bip_39_word_new_line2: 'online
+
+  guide'
+bip_39_word_new_line3: 'online
+
+  guide
+
+  main'
+bip_39_word_new_line4: 'online
+
+  guide
+
+  main
+
+  primary'
+bip_39_word_new_line5: 'online
+
+  guide
+
+  main
+
+  primary
+
+  glow'
+bip_39_word_new_line6: 'online
+
+  guide
+
+  main
+
+  primary
+
+  glow
+
+  net'
+bip_39_word_new_line7: 'online
+
+  guide
+
+  main
+
+  primary
+
+  glow
+
+  net
+
+  soccer'
+bip_39_word_new_line8: 'online
+
+  guide
+
+  main
+
+  primary
+
+  glow
+
+  net
+
+  soccer
+
+  world'
+bip_39_word_new_line9: 'online
+
+  guide
+
+  main
+
+  primary
+
+  glow
+
+  net
+
+  soccer
+
+  world
+
+  lazy'
+bip_39_word_space_0:
+- online
+- guide
+- main
+- primary
+- glow
+- net
+- soccer
+- world
+- lazy
+- artwork
+- august
+- airport
+bip_39_word_space_1: online
+bip_39_word_space_10: online guide main primary glow net soccer world lazy artwork
+bip_39_word_space_11: online guide main primary glow net soccer world lazy artwork
+  august
+bip_39_word_space_12: online guide main primary glow net soccer world lazy artwork
+  august airport
+bip_39_word_space_2: online guide
+bip_39_word_space_3: online guide main
+bip_39_word_space_4: online guide main primary
+bip_39_word_space_5: online guide main primary glow
+bip_39_word_space_6: online guide main primary glow net
+bip_39_word_space_7: online guide main primary glow net soccer
+bip_39_word_space_8: online guide main primary glow net soccer world
+bip_39_word_space_9: online guide main primary glow net soccer world lazy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

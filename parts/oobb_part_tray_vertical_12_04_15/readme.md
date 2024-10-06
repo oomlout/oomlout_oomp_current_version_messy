@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slide van
+  * bip 39 word 3: slide van parade
+  * bip 39 word: slide van parade clerk sentence quick knife error kite pave joy accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slide |  
+| bip_39_word_new_br10 | slide<br>van<br>parade<br>clerk<br>sentence<br>quick<br>knife<br>error<br>kite<br>pave |  
+| bip_39_word_new_br11 | slide<br>van<br>parade<br>clerk<br>sentence<br>quick<br>knife<br>error<br>kite<br>pave<br>joy |  
+| bip_39_word_new_br12 | slide<br>van<br>parade<br>clerk<br>sentence<br>quick<br>knife<br>error<br>kite<br>pave<br>joy<br>accident |  
+| bip_39_word_new_br2 | slide<br>van |  
+| bip_39_word_new_br3 | slide<br>van<br>parade |  
+| bip_39_word_new_br4 | slide<br>van<br>parade<br>clerk |  
+| bip_39_word_new_br5 | slide<br>van<br>parade<br>clerk<br>sentence |  
+| bip_39_word_new_br6 | slide<br>van<br>parade<br>clerk<br>sentence<br>quick |  
+| bip_39_word_new_br7 | slide<br>van<br>parade<br>clerk<br>sentence<br>quick<br>knife |  
+| bip_39_word_new_br8 | slide<br>van<br>parade<br>clerk<br>sentence<br>quick<br>knife<br>error |  
+| bip_39_word_new_br9 | slide<br>van<br>parade<br>clerk<br>sentence<br>quick<br>knife<br>error<br>kite |  
+| bip_39_word_new_line1 | slide |  
+| bip_39_word_new_line10 | slide
+van
+parade
+clerk
+sentence
+quick
+knife
+error
+kite
+pave |  
+| bip_39_word_new_line11 | slide
+van
+parade
+clerk
+sentence
+quick
+knife
+error
+kite
+pave
+joy |  
+| bip_39_word_new_line12 | slide
+van
+parade
+clerk
+sentence
+quick
+knife
+error
+kite
+pave
+joy
+accident |  
+| bip_39_word_new_line2 | slide
+van |  
+| bip_39_word_new_line3 | slide
+van
+parade |  
+| bip_39_word_new_line4 | slide
+van
+parade
+clerk |  
+| bip_39_word_new_line5 | slide
+van
+parade
+clerk
+sentence |  
+| bip_39_word_new_line6 | slide
+van
+parade
+clerk
+sentence
+quick |  
+| bip_39_word_new_line7 | slide
+van
+parade
+clerk
+sentence
+quick
+knife |  
+| bip_39_word_new_line8 | slide
+van
+parade
+clerk
+sentence
+quick
+knife
+error |  
+| bip_39_word_new_line9 | slide
+van
+parade
+clerk
+sentence
+quick
+knife
+error
+kite |  
+| bip_39_word_space_0 | ['slide', 'van', 'parade', 'clerk', 'sentence', 'quick', 'knife', 'error', 'kite', 'pave', 'joy', 'accident'] |  
+| bip_39_word_space_1 | slide |  
+| bip_39_word_space_10 | slide van parade clerk sentence quick knife error kite pave |  
+| bip_39_word_space_11 | slide van parade clerk sentence quick knife error kite pave joy |  
+| bip_39_word_space_12 | slide van parade clerk sentence quick knife error kite pave joy accident |  
+| bip_39_word_space_2 | slide van |  
+| bip_39_word_space_3 | slide van parade |  
+| bip_39_word_space_4 | slide van parade clerk |  
+| bip_39_word_space_5 | slide van parade clerk sentence |  
+| bip_39_word_space_6 | slide van parade clerk sentence quick |  
+| bip_39_word_space_7 | slide van parade clerk sentence quick knife |  
+| bip_39_word_space_8 | slide van parade clerk sentence quick knife error |  
+| bip_39_word_space_9 | slide van parade clerk sentence quick knife error kite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

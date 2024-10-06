@@ -1,3 +1,186 @@
+bip_39_word_new_br1: twelve
+bip_39_word_new_br10: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano
+bip_39_word_new_br11: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano<br>cheap
+bip_39_word_new_br12: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access<br>volcano<br>cheap<br>arrive
+bip_39_word_new_br2: twelve<br>science
+bip_39_word_new_br3: twelve<br>science<br>slab
+bip_39_word_new_br4: twelve<br>science<br>slab<br>leisure
+bip_39_word_new_br5: twelve<br>science<br>slab<br>leisure<br>calm
+bip_39_word_new_br6: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop
+bip_39_word_new_br7: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp
+bip_39_word_new_br8: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot
+bip_39_word_new_br9: twelve<br>science<br>slab<br>leisure<br>calm<br>laptop<br>gasp<br>riot<br>access
+bip_39_word_new_line1: twelve
+bip_39_word_new_line10: 'twelve
+
+  science
+
+  slab
+
+  leisure
+
+  calm
+
+  laptop
+
+  gasp
+
+  riot
+
+  access
+
+  volcano'
+bip_39_word_new_line11: 'twelve
+
+  science
+
+  slab
+
+  leisure
+
+  calm
+
+  laptop
+
+  gasp
+
+  riot
+
+  access
+
+  volcano
+
+  cheap'
+bip_39_word_new_line12: 'twelve
+
+  science
+
+  slab
+
+  leisure
+
+  calm
+
+  laptop
+
+  gasp
+
+  riot
+
+  access
+
+  volcano
+
+  cheap
+
+  arrive'
+bip_39_word_new_line2: 'twelve
+
+  science'
+bip_39_word_new_line3: 'twelve
+
+  science
+
+  slab'
+bip_39_word_new_line4: 'twelve
+
+  science
+
+  slab
+
+  leisure'
+bip_39_word_new_line5: 'twelve
+
+  science
+
+  slab
+
+  leisure
+
+  calm'
+bip_39_word_new_line6: 'twelve
+
+  science
+
+  slab
+
+  leisure
+
+  calm
+
+  laptop'
+bip_39_word_new_line7: 'twelve
+
+  science
+
+  slab
+
+  leisure
+
+  calm
+
+  laptop
+
+  gasp'
+bip_39_word_new_line8: 'twelve
+
+  science
+
+  slab
+
+  leisure
+
+  calm
+
+  laptop
+
+  gasp
+
+  riot'
+bip_39_word_new_line9: 'twelve
+
+  science
+
+  slab
+
+  leisure
+
+  calm
+
+  laptop
+
+  gasp
+
+  riot
+
+  access'
+bip_39_word_space_0:
+- twelve
+- science
+- slab
+- leisure
+- calm
+- laptop
+- gasp
+- riot
+- access
+- volcano
+- cheap
+- arrive
+bip_39_word_space_1: twelve
+bip_39_word_space_10: twelve science slab leisure calm laptop gasp riot access volcano
+bip_39_word_space_11: twelve science slab leisure calm laptop gasp riot access volcano
+  cheap
+bip_39_word_space_12: twelve science slab leisure calm laptop gasp riot access volcano
+  cheap arrive
+bip_39_word_space_2: twelve science
+bip_39_word_space_3: twelve science slab
+bip_39_word_space_4: twelve science slab leisure
+bip_39_word_space_5: twelve science slab leisure calm
+bip_39_word_space_6: twelve science slab leisure calm laptop
+bip_39_word_space_7: twelve science slab leisure calm laptop gasp
+bip_39_word_space_8: twelve science slab leisure calm laptop gasp riot
+bip_39_word_space_9: twelve science slab leisure calm laptop gasp riot access
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

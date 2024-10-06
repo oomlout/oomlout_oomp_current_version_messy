@@ -1,3 +1,186 @@
+bip_39_word_new_br1: learn
+bip_39_word_new_br10: learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast
+bip_39_word_new_br11: learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast<br>energy
+bip_39_word_new_br12: learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city<br>roast<br>energy<br>aisle
+bip_39_word_new_br2: learn<br>weekend
+bip_39_word_new_br3: learn<br>weekend<br>rare
+bip_39_word_new_br4: learn<br>weekend<br>rare<br>choose
+bip_39_word_new_br5: learn<br>weekend<br>rare<br>choose<br>radio
+bip_39_word_new_br6: learn<br>weekend<br>rare<br>choose<br>radio<br>wedding
+bip_39_word_new_br7: learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas
+bip_39_word_new_br8: learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal
+bip_39_word_new_br9: learn<br>weekend<br>rare<br>choose<br>radio<br>wedding<br>gas<br>loyal<br>city
+bip_39_word_new_line1: learn
+bip_39_word_new_line10: 'learn
+
+  weekend
+
+  rare
+
+  choose
+
+  radio
+
+  wedding
+
+  gas
+
+  loyal
+
+  city
+
+  roast'
+bip_39_word_new_line11: 'learn
+
+  weekend
+
+  rare
+
+  choose
+
+  radio
+
+  wedding
+
+  gas
+
+  loyal
+
+  city
+
+  roast
+
+  energy'
+bip_39_word_new_line12: 'learn
+
+  weekend
+
+  rare
+
+  choose
+
+  radio
+
+  wedding
+
+  gas
+
+  loyal
+
+  city
+
+  roast
+
+  energy
+
+  aisle'
+bip_39_word_new_line2: 'learn
+
+  weekend'
+bip_39_word_new_line3: 'learn
+
+  weekend
+
+  rare'
+bip_39_word_new_line4: 'learn
+
+  weekend
+
+  rare
+
+  choose'
+bip_39_word_new_line5: 'learn
+
+  weekend
+
+  rare
+
+  choose
+
+  radio'
+bip_39_word_new_line6: 'learn
+
+  weekend
+
+  rare
+
+  choose
+
+  radio
+
+  wedding'
+bip_39_word_new_line7: 'learn
+
+  weekend
+
+  rare
+
+  choose
+
+  radio
+
+  wedding
+
+  gas'
+bip_39_word_new_line8: 'learn
+
+  weekend
+
+  rare
+
+  choose
+
+  radio
+
+  wedding
+
+  gas
+
+  loyal'
+bip_39_word_new_line9: 'learn
+
+  weekend
+
+  rare
+
+  choose
+
+  radio
+
+  wedding
+
+  gas
+
+  loyal
+
+  city'
+bip_39_word_space_0:
+- learn
+- weekend
+- rare
+- choose
+- radio
+- wedding
+- gas
+- loyal
+- city
+- roast
+- energy
+- aisle
+bip_39_word_space_1: learn
+bip_39_word_space_10: learn weekend rare choose radio wedding gas loyal city roast
+bip_39_word_space_11: learn weekend rare choose radio wedding gas loyal city roast
+  energy
+bip_39_word_space_12: learn weekend rare choose radio wedding gas loyal city roast
+  energy aisle
+bip_39_word_space_2: learn weekend
+bip_39_word_space_3: learn weekend rare
+bip_39_word_space_4: learn weekend rare choose
+bip_39_word_space_5: learn weekend rare choose radio
+bip_39_word_space_6: learn weekend rare choose radio wedding
+bip_39_word_space_7: learn weekend rare choose radio wedding gas
+bip_39_word_space_8: learn weekend rare choose radio wedding gas loyal
+bip_39_word_space_9: learn weekend rare choose radio wedding gas loyal city
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: result rescue
+  * bip 39 word 3: result rescue alley
+  * bip 39 word: result rescue alley true rose snow artist spread harvest travel rubber arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | result |  
+| bip_39_word_new_br10 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel |  
+| bip_39_word_new_br11 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel<br>rubber |  
+| bip_39_word_new_br12 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest<br>travel<br>rubber<br>arrive |  
+| bip_39_word_new_br2 | result<br>rescue |  
+| bip_39_word_new_br3 | result<br>rescue<br>alley |  
+| bip_39_word_new_br4 | result<br>rescue<br>alley<br>true |  
+| bip_39_word_new_br5 | result<br>rescue<br>alley<br>true<br>rose |  
+| bip_39_word_new_br6 | result<br>rescue<br>alley<br>true<br>rose<br>snow |  
+| bip_39_word_new_br7 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist |  
+| bip_39_word_new_br8 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread |  
+| bip_39_word_new_br9 | result<br>rescue<br>alley<br>true<br>rose<br>snow<br>artist<br>spread<br>harvest |  
+| bip_39_word_new_line1 | result |  
+| bip_39_word_new_line10 | result
+rescue
+alley
+true
+rose
+snow
+artist
+spread
+harvest
+travel |  
+| bip_39_word_new_line11 | result
+rescue
+alley
+true
+rose
+snow
+artist
+spread
+harvest
+travel
+rubber |  
+| bip_39_word_new_line12 | result
+rescue
+alley
+true
+rose
+snow
+artist
+spread
+harvest
+travel
+rubber
+arrive |  
+| bip_39_word_new_line2 | result
+rescue |  
+| bip_39_word_new_line3 | result
+rescue
+alley |  
+| bip_39_word_new_line4 | result
+rescue
+alley
+true |  
+| bip_39_word_new_line5 | result
+rescue
+alley
+true
+rose |  
+| bip_39_word_new_line6 | result
+rescue
+alley
+true
+rose
+snow |  
+| bip_39_word_new_line7 | result
+rescue
+alley
+true
+rose
+snow
+artist |  
+| bip_39_word_new_line8 | result
+rescue
+alley
+true
+rose
+snow
+artist
+spread |  
+| bip_39_word_new_line9 | result
+rescue
+alley
+true
+rose
+snow
+artist
+spread
+harvest |  
+| bip_39_word_space_0 | ['result', 'rescue', 'alley', 'true', 'rose', 'snow', 'artist', 'spread', 'harvest', 'travel', 'rubber', 'arrive'] |  
+| bip_39_word_space_1 | result |  
+| bip_39_word_space_10 | result rescue alley true rose snow artist spread harvest travel |  
+| bip_39_word_space_11 | result rescue alley true rose snow artist spread harvest travel rubber |  
+| bip_39_word_space_12 | result rescue alley true rose snow artist spread harvest travel rubber arrive |  
+| bip_39_word_space_2 | result rescue |  
+| bip_39_word_space_3 | result rescue alley |  
+| bip_39_word_space_4 | result rescue alley true |  
+| bip_39_word_space_5 | result rescue alley true rose |  
+| bip_39_word_space_6 | result rescue alley true rose snow |  
+| bip_39_word_space_7 | result rescue alley true rose snow artist |  
+| bip_39_word_space_8 | result rescue alley true rose snow artist spread |  
+| bip_39_word_space_9 | result rescue alley true rose snow artist spread harvest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

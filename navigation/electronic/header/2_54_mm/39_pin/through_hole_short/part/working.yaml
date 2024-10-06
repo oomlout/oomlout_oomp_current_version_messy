@@ -1,3 +1,187 @@
+bip_39_word_new_br1: divide
+bip_39_word_new_br10: divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select
+bip_39_word_new_br11: divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select<br>leisure
+bip_39_word_new_br12: divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral<br>select<br>leisure<br>another
+bip_39_word_new_br2: divide<br>onion
+bip_39_word_new_br3: divide<br>onion<br>script
+bip_39_word_new_br4: divide<br>onion<br>script<br>goddess
+bip_39_word_new_br5: divide<br>onion<br>script<br>goddess<br>deliver
+bip_39_word_new_br6: divide<br>onion<br>script<br>goddess<br>deliver<br>husband
+bip_39_word_new_br7: divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about
+bip_39_word_new_br8: divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used
+bip_39_word_new_br9: divide<br>onion<br>script<br>goddess<br>deliver<br>husband<br>about<br>used<br>coral
+bip_39_word_new_line1: divide
+bip_39_word_new_line10: 'divide
+
+  onion
+
+  script
+
+  goddess
+
+  deliver
+
+  husband
+
+  about
+
+  used
+
+  coral
+
+  select'
+bip_39_word_new_line11: 'divide
+
+  onion
+
+  script
+
+  goddess
+
+  deliver
+
+  husband
+
+  about
+
+  used
+
+  coral
+
+  select
+
+  leisure'
+bip_39_word_new_line12: 'divide
+
+  onion
+
+  script
+
+  goddess
+
+  deliver
+
+  husband
+
+  about
+
+  used
+
+  coral
+
+  select
+
+  leisure
+
+  another'
+bip_39_word_new_line2: 'divide
+
+  onion'
+bip_39_word_new_line3: 'divide
+
+  onion
+
+  script'
+bip_39_word_new_line4: 'divide
+
+  onion
+
+  script
+
+  goddess'
+bip_39_word_new_line5: 'divide
+
+  onion
+
+  script
+
+  goddess
+
+  deliver'
+bip_39_word_new_line6: 'divide
+
+  onion
+
+  script
+
+  goddess
+
+  deliver
+
+  husband'
+bip_39_word_new_line7: 'divide
+
+  onion
+
+  script
+
+  goddess
+
+  deliver
+
+  husband
+
+  about'
+bip_39_word_new_line8: 'divide
+
+  onion
+
+  script
+
+  goddess
+
+  deliver
+
+  husband
+
+  about
+
+  used'
+bip_39_word_new_line9: 'divide
+
+  onion
+
+  script
+
+  goddess
+
+  deliver
+
+  husband
+
+  about
+
+  used
+
+  coral'
+bip_39_word_space_0:
+- divide
+- onion
+- script
+- goddess
+- deliver
+- husband
+- about
+- used
+- coral
+- select
+- leisure
+- another
+bip_39_word_space_1: divide
+bip_39_word_space_10: divide onion script goddess deliver husband about used coral
+  select
+bip_39_word_space_11: divide onion script goddess deliver husband about used coral
+  select leisure
+bip_39_word_space_12: divide onion script goddess deliver husband about used coral
+  select leisure another
+bip_39_word_space_2: divide onion
+bip_39_word_space_3: divide onion script
+bip_39_word_space_4: divide onion script goddess
+bip_39_word_space_5: divide onion script goddess deliver
+bip_39_word_space_6: divide onion script goddess deliver husband
+bip_39_word_space_7: divide onion script goddess deliver husband about
+bip_39_word_space_8: divide onion script goddess deliver husband about used
+bip_39_word_space_9: divide onion script goddess deliver husband about used coral
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: teach october
+  * bip 39 word 3: teach october draw
+  * bip 39 word: teach october draw neutral brain forum mind try fat caught payment assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | teach |  
+| bip_39_word_new_br10 | teach<br>october<br>draw<br>neutral<br>brain<br>forum<br>mind<br>try<br>fat<br>caught |  
+| bip_39_word_new_br11 | teach<br>october<br>draw<br>neutral<br>brain<br>forum<br>mind<br>try<br>fat<br>caught<br>payment |  
+| bip_39_word_new_br12 | teach<br>october<br>draw<br>neutral<br>brain<br>forum<br>mind<br>try<br>fat<br>caught<br>payment<br>assault |  
+| bip_39_word_new_br2 | teach<br>october |  
+| bip_39_word_new_br3 | teach<br>october<br>draw |  
+| bip_39_word_new_br4 | teach<br>october<br>draw<br>neutral |  
+| bip_39_word_new_br5 | teach<br>october<br>draw<br>neutral<br>brain |  
+| bip_39_word_new_br6 | teach<br>october<br>draw<br>neutral<br>brain<br>forum |  
+| bip_39_word_new_br7 | teach<br>october<br>draw<br>neutral<br>brain<br>forum<br>mind |  
+| bip_39_word_new_br8 | teach<br>october<br>draw<br>neutral<br>brain<br>forum<br>mind<br>try |  
+| bip_39_word_new_br9 | teach<br>october<br>draw<br>neutral<br>brain<br>forum<br>mind<br>try<br>fat |  
+| bip_39_word_new_line1 | teach |  
+| bip_39_word_new_line10 | teach
+october
+draw
+neutral
+brain
+forum
+mind
+try
+fat
+caught |  
+| bip_39_word_new_line11 | teach
+october
+draw
+neutral
+brain
+forum
+mind
+try
+fat
+caught
+payment |  
+| bip_39_word_new_line12 | teach
+october
+draw
+neutral
+brain
+forum
+mind
+try
+fat
+caught
+payment
+assault |  
+| bip_39_word_new_line2 | teach
+october |  
+| bip_39_word_new_line3 | teach
+october
+draw |  
+| bip_39_word_new_line4 | teach
+october
+draw
+neutral |  
+| bip_39_word_new_line5 | teach
+october
+draw
+neutral
+brain |  
+| bip_39_word_new_line6 | teach
+october
+draw
+neutral
+brain
+forum |  
+| bip_39_word_new_line7 | teach
+october
+draw
+neutral
+brain
+forum
+mind |  
+| bip_39_word_new_line8 | teach
+october
+draw
+neutral
+brain
+forum
+mind
+try |  
+| bip_39_word_new_line9 | teach
+october
+draw
+neutral
+brain
+forum
+mind
+try
+fat |  
+| bip_39_word_space_0 | ['teach', 'october', 'draw', 'neutral', 'brain', 'forum', 'mind', 'try', 'fat', 'caught', 'payment', 'assault'] |  
+| bip_39_word_space_1 | teach |  
+| bip_39_word_space_10 | teach october draw neutral brain forum mind try fat caught |  
+| bip_39_word_space_11 | teach october draw neutral brain forum mind try fat caught payment |  
+| bip_39_word_space_12 | teach october draw neutral brain forum mind try fat caught payment assault |  
+| bip_39_word_space_2 | teach october |  
+| bip_39_word_space_3 | teach october draw |  
+| bip_39_word_space_4 | teach october draw neutral |  
+| bip_39_word_space_5 | teach october draw neutral brain |  
+| bip_39_word_space_6 | teach october draw neutral brain forum |  
+| bip_39_word_space_7 | teach october draw neutral brain forum mind |  
+| bip_39_word_space_8 | teach october draw neutral brain forum mind try |  
+| bip_39_word_space_9 | teach october draw neutral brain forum mind try fat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

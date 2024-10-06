@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: resource maximum
+  * bip 39 word 3: resource maximum effort
+  * bip 39 word: resource maximum effort swim taxi goose throw increase drum match maple armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resource |  
+| bip_39_word_new_br10 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose<br>throw<br>increase<br>drum<br>match |  
+| bip_39_word_new_br11 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose<br>throw<br>increase<br>drum<br>match<br>maple |  
+| bip_39_word_new_br12 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose<br>throw<br>increase<br>drum<br>match<br>maple<br>armor |  
+| bip_39_word_new_br2 | resource<br>maximum |  
+| bip_39_word_new_br3 | resource<br>maximum<br>effort |  
+| bip_39_word_new_br4 | resource<br>maximum<br>effort<br>swim |  
+| bip_39_word_new_br5 | resource<br>maximum<br>effort<br>swim<br>taxi |  
+| bip_39_word_new_br6 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose |  
+| bip_39_word_new_br7 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose<br>throw |  
+| bip_39_word_new_br8 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose<br>throw<br>increase |  
+| bip_39_word_new_br9 | resource<br>maximum<br>effort<br>swim<br>taxi<br>goose<br>throw<br>increase<br>drum |  
+| bip_39_word_new_line1 | resource |  
+| bip_39_word_new_line10 | resource
+maximum
+effort
+swim
+taxi
+goose
+throw
+increase
+drum
+match |  
+| bip_39_word_new_line11 | resource
+maximum
+effort
+swim
+taxi
+goose
+throw
+increase
+drum
+match
+maple |  
+| bip_39_word_new_line12 | resource
+maximum
+effort
+swim
+taxi
+goose
+throw
+increase
+drum
+match
+maple
+armor |  
+| bip_39_word_new_line2 | resource
+maximum |  
+| bip_39_word_new_line3 | resource
+maximum
+effort |  
+| bip_39_word_new_line4 | resource
+maximum
+effort
+swim |  
+| bip_39_word_new_line5 | resource
+maximum
+effort
+swim
+taxi |  
+| bip_39_word_new_line6 | resource
+maximum
+effort
+swim
+taxi
+goose |  
+| bip_39_word_new_line7 | resource
+maximum
+effort
+swim
+taxi
+goose
+throw |  
+| bip_39_word_new_line8 | resource
+maximum
+effort
+swim
+taxi
+goose
+throw
+increase |  
+| bip_39_word_new_line9 | resource
+maximum
+effort
+swim
+taxi
+goose
+throw
+increase
+drum |  
+| bip_39_word_space_0 | ['resource', 'maximum', 'effort', 'swim', 'taxi', 'goose', 'throw', 'increase', 'drum', 'match', 'maple', 'armor'] |  
+| bip_39_word_space_1 | resource |  
+| bip_39_word_space_10 | resource maximum effort swim taxi goose throw increase drum match |  
+| bip_39_word_space_11 | resource maximum effort swim taxi goose throw increase drum match maple |  
+| bip_39_word_space_12 | resource maximum effort swim taxi goose throw increase drum match maple armor |  
+| bip_39_word_space_2 | resource maximum |  
+| bip_39_word_space_3 | resource maximum effort |  
+| bip_39_word_space_4 | resource maximum effort swim |  
+| bip_39_word_space_5 | resource maximum effort swim taxi |  
+| bip_39_word_space_6 | resource maximum effort swim taxi goose |  
+| bip_39_word_space_7 | resource maximum effort swim taxi goose throw |  
+| bip_39_word_space_8 | resource maximum effort swim taxi goose throw increase |  
+| bip_39_word_space_9 | resource maximum effort swim taxi goose throw increase drum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

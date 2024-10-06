@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: consider cool
+  * bip 39 word 3: consider cool cabin
+  * bip 39 word: consider cool cabin okay nose fresh talent smoke grape few spirit anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | consider |  
+| bip_39_word_new_br10 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh<br>talent<br>smoke<br>grape<br>few |  
+| bip_39_word_new_br11 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh<br>talent<br>smoke<br>grape<br>few<br>spirit |  
+| bip_39_word_new_br12 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh<br>talent<br>smoke<br>grape<br>few<br>spirit<br>anxiety |  
+| bip_39_word_new_br2 | consider<br>cool |  
+| bip_39_word_new_br3 | consider<br>cool<br>cabin |  
+| bip_39_word_new_br4 | consider<br>cool<br>cabin<br>okay |  
+| bip_39_word_new_br5 | consider<br>cool<br>cabin<br>okay<br>nose |  
+| bip_39_word_new_br6 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh |  
+| bip_39_word_new_br7 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh<br>talent |  
+| bip_39_word_new_br8 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh<br>talent<br>smoke |  
+| bip_39_word_new_br9 | consider<br>cool<br>cabin<br>okay<br>nose<br>fresh<br>talent<br>smoke<br>grape |  
+| bip_39_word_new_line1 | consider |  
+| bip_39_word_new_line10 | consider
+cool
+cabin
+okay
+nose
+fresh
+talent
+smoke
+grape
+few |  
+| bip_39_word_new_line11 | consider
+cool
+cabin
+okay
+nose
+fresh
+talent
+smoke
+grape
+few
+spirit |  
+| bip_39_word_new_line12 | consider
+cool
+cabin
+okay
+nose
+fresh
+talent
+smoke
+grape
+few
+spirit
+anxiety |  
+| bip_39_word_new_line2 | consider
+cool |  
+| bip_39_word_new_line3 | consider
+cool
+cabin |  
+| bip_39_word_new_line4 | consider
+cool
+cabin
+okay |  
+| bip_39_word_new_line5 | consider
+cool
+cabin
+okay
+nose |  
+| bip_39_word_new_line6 | consider
+cool
+cabin
+okay
+nose
+fresh |  
+| bip_39_word_new_line7 | consider
+cool
+cabin
+okay
+nose
+fresh
+talent |  
+| bip_39_word_new_line8 | consider
+cool
+cabin
+okay
+nose
+fresh
+talent
+smoke |  
+| bip_39_word_new_line9 | consider
+cool
+cabin
+okay
+nose
+fresh
+talent
+smoke
+grape |  
+| bip_39_word_space_0 | ['consider', 'cool', 'cabin', 'okay', 'nose', 'fresh', 'talent', 'smoke', 'grape', 'few', 'spirit', 'anxiety'] |  
+| bip_39_word_space_1 | consider |  
+| bip_39_word_space_10 | consider cool cabin okay nose fresh talent smoke grape few |  
+| bip_39_word_space_11 | consider cool cabin okay nose fresh talent smoke grape few spirit |  
+| bip_39_word_space_12 | consider cool cabin okay nose fresh talent smoke grape few spirit anxiety |  
+| bip_39_word_space_2 | consider cool |  
+| bip_39_word_space_3 | consider cool cabin |  
+| bip_39_word_space_4 | consider cool cabin okay |  
+| bip_39_word_space_5 | consider cool cabin okay nose |  
+| bip_39_word_space_6 | consider cool cabin okay nose fresh |  
+| bip_39_word_space_7 | consider cool cabin okay nose fresh talent |  
+| bip_39_word_space_8 | consider cool cabin okay nose fresh talent smoke |  
+| bip_39_word_space_9 | consider cool cabin okay nose fresh talent smoke grape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stumble coffee
+  * bip 39 word 3: stumble coffee curve
+  * bip 39 word: stumble coffee curve latin blast chef foam then genius pretty cook allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stumble |  
+| bip_39_word_new_br10 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef<br>foam<br>then<br>genius<br>pretty |  
+| bip_39_word_new_br11 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef<br>foam<br>then<br>genius<br>pretty<br>cook |  
+| bip_39_word_new_br12 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef<br>foam<br>then<br>genius<br>pretty<br>cook<br>allow |  
+| bip_39_word_new_br2 | stumble<br>coffee |  
+| bip_39_word_new_br3 | stumble<br>coffee<br>curve |  
+| bip_39_word_new_br4 | stumble<br>coffee<br>curve<br>latin |  
+| bip_39_word_new_br5 | stumble<br>coffee<br>curve<br>latin<br>blast |  
+| bip_39_word_new_br6 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef |  
+| bip_39_word_new_br7 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef<br>foam |  
+| bip_39_word_new_br8 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef<br>foam<br>then |  
+| bip_39_word_new_br9 | stumble<br>coffee<br>curve<br>latin<br>blast<br>chef<br>foam<br>then<br>genius |  
+| bip_39_word_new_line1 | stumble |  
+| bip_39_word_new_line10 | stumble
+coffee
+curve
+latin
+blast
+chef
+foam
+then
+genius
+pretty |  
+| bip_39_word_new_line11 | stumble
+coffee
+curve
+latin
+blast
+chef
+foam
+then
+genius
+pretty
+cook |  
+| bip_39_word_new_line12 | stumble
+coffee
+curve
+latin
+blast
+chef
+foam
+then
+genius
+pretty
+cook
+allow |  
+| bip_39_word_new_line2 | stumble
+coffee |  
+| bip_39_word_new_line3 | stumble
+coffee
+curve |  
+| bip_39_word_new_line4 | stumble
+coffee
+curve
+latin |  
+| bip_39_word_new_line5 | stumble
+coffee
+curve
+latin
+blast |  
+| bip_39_word_new_line6 | stumble
+coffee
+curve
+latin
+blast
+chef |  
+| bip_39_word_new_line7 | stumble
+coffee
+curve
+latin
+blast
+chef
+foam |  
+| bip_39_word_new_line8 | stumble
+coffee
+curve
+latin
+blast
+chef
+foam
+then |  
+| bip_39_word_new_line9 | stumble
+coffee
+curve
+latin
+blast
+chef
+foam
+then
+genius |  
+| bip_39_word_space_0 | ['stumble', 'coffee', 'curve', 'latin', 'blast', 'chef', 'foam', 'then', 'genius', 'pretty', 'cook', 'allow'] |  
+| bip_39_word_space_1 | stumble |  
+| bip_39_word_space_10 | stumble coffee curve latin blast chef foam then genius pretty |  
+| bip_39_word_space_11 | stumble coffee curve latin blast chef foam then genius pretty cook |  
+| bip_39_word_space_12 | stumble coffee curve latin blast chef foam then genius pretty cook allow |  
+| bip_39_word_space_2 | stumble coffee |  
+| bip_39_word_space_3 | stumble coffee curve |  
+| bip_39_word_space_4 | stumble coffee curve latin |  
+| bip_39_word_space_5 | stumble coffee curve latin blast |  
+| bip_39_word_space_6 | stumble coffee curve latin blast chef |  
+| bip_39_word_space_7 | stumble coffee curve latin blast chef foam |  
+| bip_39_word_space_8 | stumble coffee curve latin blast chef foam then |  
+| bip_39_word_space_9 | stumble coffee curve latin blast chef foam then genius |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sorry perfect
+  * bip 39 word 3: sorry perfect verify
+  * bip 39 word: sorry perfect verify guess napkin lunch oppose zero crack dress swallow apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sorry |  
+| bip_39_word_new_br10 | sorry<br>perfect<br>verify<br>guess<br>napkin<br>lunch<br>oppose<br>zero<br>crack<br>dress |  
+| bip_39_word_new_br11 | sorry<br>perfect<br>verify<br>guess<br>napkin<br>lunch<br>oppose<br>zero<br>crack<br>dress<br>swallow |  
+| bip_39_word_new_br12 | sorry<br>perfect<br>verify<br>guess<br>napkin<br>lunch<br>oppose<br>zero<br>crack<br>dress<br>swallow<br>apology |  
+| bip_39_word_new_br2 | sorry<br>perfect |  
+| bip_39_word_new_br3 | sorry<br>perfect<br>verify |  
+| bip_39_word_new_br4 | sorry<br>perfect<br>verify<br>guess |  
+| bip_39_word_new_br5 | sorry<br>perfect<br>verify<br>guess<br>napkin |  
+| bip_39_word_new_br6 | sorry<br>perfect<br>verify<br>guess<br>napkin<br>lunch |  
+| bip_39_word_new_br7 | sorry<br>perfect<br>verify<br>guess<br>napkin<br>lunch<br>oppose |  
+| bip_39_word_new_br8 | sorry<br>perfect<br>verify<br>guess<br>napkin<br>lunch<br>oppose<br>zero |  
+| bip_39_word_new_br9 | sorry<br>perfect<br>verify<br>guess<br>napkin<br>lunch<br>oppose<br>zero<br>crack |  
+| bip_39_word_new_line1 | sorry |  
+| bip_39_word_new_line10 | sorry
+perfect
+verify
+guess
+napkin
+lunch
+oppose
+zero
+crack
+dress |  
+| bip_39_word_new_line11 | sorry
+perfect
+verify
+guess
+napkin
+lunch
+oppose
+zero
+crack
+dress
+swallow |  
+| bip_39_word_new_line12 | sorry
+perfect
+verify
+guess
+napkin
+lunch
+oppose
+zero
+crack
+dress
+swallow
+apology |  
+| bip_39_word_new_line2 | sorry
+perfect |  
+| bip_39_word_new_line3 | sorry
+perfect
+verify |  
+| bip_39_word_new_line4 | sorry
+perfect
+verify
+guess |  
+| bip_39_word_new_line5 | sorry
+perfect
+verify
+guess
+napkin |  
+| bip_39_word_new_line6 | sorry
+perfect
+verify
+guess
+napkin
+lunch |  
+| bip_39_word_new_line7 | sorry
+perfect
+verify
+guess
+napkin
+lunch
+oppose |  
+| bip_39_word_new_line8 | sorry
+perfect
+verify
+guess
+napkin
+lunch
+oppose
+zero |  
+| bip_39_word_new_line9 | sorry
+perfect
+verify
+guess
+napkin
+lunch
+oppose
+zero
+crack |  
+| bip_39_word_space_0 | ['sorry', 'perfect', 'verify', 'guess', 'napkin', 'lunch', 'oppose', 'zero', 'crack', 'dress', 'swallow', 'apology'] |  
+| bip_39_word_space_1 | sorry |  
+| bip_39_word_space_10 | sorry perfect verify guess napkin lunch oppose zero crack dress |  
+| bip_39_word_space_11 | sorry perfect verify guess napkin lunch oppose zero crack dress swallow |  
+| bip_39_word_space_12 | sorry perfect verify guess napkin lunch oppose zero crack dress swallow apology |  
+| bip_39_word_space_2 | sorry perfect |  
+| bip_39_word_space_3 | sorry perfect verify |  
+| bip_39_word_space_4 | sorry perfect verify guess |  
+| bip_39_word_space_5 | sorry perfect verify guess napkin |  
+| bip_39_word_space_6 | sorry perfect verify guess napkin lunch |  
+| bip_39_word_space_7 | sorry perfect verify guess napkin lunch oppose |  
+| bip_39_word_space_8 | sorry perfect verify guess napkin lunch oppose zero |  
+| bip_39_word_space_9 | sorry perfect verify guess napkin lunch oppose zero crack |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,159 @@
+bip_39_word_new_br1: shallow
+bip_39_word_new_br10: shallow<br>place<br>school<br>orange<br>fiber<br>earn<br>grab<br>link<br>vote<br>price
+bip_39_word_new_br11: shallow<br>place<br>school<br>orange<br>fiber<br>earn<br>grab<br>link<br>vote<br>price<br>evolve
+bip_39_word_new_br2: shallow<br>place
+bip_39_word_new_br3: shallow<br>place<br>school
+bip_39_word_new_br4: shallow<br>place<br>school<br>orange
+bip_39_word_new_br5: shallow<br>place<br>school<br>orange<br>fiber
+bip_39_word_new_br6: shallow<br>place<br>school<br>orange<br>fiber<br>earn
+bip_39_word_new_br7: shallow<br>place<br>school<br>orange<br>fiber<br>earn<br>grab
+bip_39_word_new_br8: shallow<br>place<br>school<br>orange<br>fiber<br>earn<br>grab<br>link
+bip_39_word_new_br9: shallow<br>place<br>school<br>orange<br>fiber<br>earn<br>grab<br>link<br>vote
+bip_39_word_new_line1: shallow
+bip_39_word_new_line10: 'shallow
+
+  place
+
+  school
+
+  orange
+
+  fiber
+
+  earn
+
+  grab
+
+  link
+
+  vote
+
+  price'
+bip_39_word_new_line11: 'shallow
+
+  place
+
+  school
+
+  orange
+
+  fiber
+
+  earn
+
+  grab
+
+  link
+
+  vote
+
+  price
+
+  evolve'
+bip_39_word_new_line2: 'shallow
+
+  place'
+bip_39_word_new_line3: 'shallow
+
+  place
+
+  school'
+bip_39_word_new_line4: 'shallow
+
+  place
+
+  school
+
+  orange'
+bip_39_word_new_line5: 'shallow
+
+  place
+
+  school
+
+  orange
+
+  fiber'
+bip_39_word_new_line6: 'shallow
+
+  place
+
+  school
+
+  orange
+
+  fiber
+
+  earn'
+bip_39_word_new_line7: 'shallow
+
+  place
+
+  school
+
+  orange
+
+  fiber
+
+  earn
+
+  grab'
+bip_39_word_new_line8: 'shallow
+
+  place
+
+  school
+
+  orange
+
+  fiber
+
+  earn
+
+  grab
+
+  link'
+bip_39_word_new_line9: 'shallow
+
+  place
+
+  school
+
+  orange
+
+  fiber
+
+  earn
+
+  grab
+
+  link
+
+  vote'
+bip_39_word_space_0:
+- shallow
+- place
+- school
+- orange
+- fiber
+- earn
+- grab
+- link
+- vote
+- price
+- evolve
+bip_39_word_space_1: shallow
+bip_39_word_space_10: shallow place school orange fiber earn grab link vote price
+bip_39_word_space_11: shallow place school orange fiber earn grab link vote price
+  evolve
+bip_39_word_space_2: shallow place
+bip_39_word_space_3: shallow place school
+bip_39_word_space_4: shallow place school orange
+bip_39_word_space_5: shallow place school orange fiber
+bip_39_word_space_6: shallow place school orange fiber earn
+bip_39_word_space_7: shallow place school orange fiber earn grab
+bip_39_word_space_8: shallow place school orange fiber earn grab link
+bip_39_word_space_9: shallow place school orange fiber earn grab link vote
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

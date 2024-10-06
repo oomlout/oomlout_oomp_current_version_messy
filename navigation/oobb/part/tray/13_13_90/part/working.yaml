@@ -1,3 +1,186 @@
+bip_39_word_new_br1: present
+bip_39_word_new_br10: present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what
+bip_39_word_new_br11: present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what<br>tank
+bip_39_word_new_br12: present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try<br>what<br>tank<br>ahead
+bip_39_word_new_br2: present<br>follow
+bip_39_word_new_br3: present<br>follow<br>company
+bip_39_word_new_br4: present<br>follow<br>company<br>wait
+bip_39_word_new_br5: present<br>follow<br>company<br>wait<br>arrive
+bip_39_word_new_br6: present<br>follow<br>company<br>wait<br>arrive<br>acid
+bip_39_word_new_br7: present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract
+bip_39_word_new_br8: present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost
+bip_39_word_new_br9: present<br>follow<br>company<br>wait<br>arrive<br>acid<br>abstract<br>boost<br>try
+bip_39_word_new_line1: present
+bip_39_word_new_line10: 'present
+
+  follow
+
+  company
+
+  wait
+
+  arrive
+
+  acid
+
+  abstract
+
+  boost
+
+  try
+
+  what'
+bip_39_word_new_line11: 'present
+
+  follow
+
+  company
+
+  wait
+
+  arrive
+
+  acid
+
+  abstract
+
+  boost
+
+  try
+
+  what
+
+  tank'
+bip_39_word_new_line12: 'present
+
+  follow
+
+  company
+
+  wait
+
+  arrive
+
+  acid
+
+  abstract
+
+  boost
+
+  try
+
+  what
+
+  tank
+
+  ahead'
+bip_39_word_new_line2: 'present
+
+  follow'
+bip_39_word_new_line3: 'present
+
+  follow
+
+  company'
+bip_39_word_new_line4: 'present
+
+  follow
+
+  company
+
+  wait'
+bip_39_word_new_line5: 'present
+
+  follow
+
+  company
+
+  wait
+
+  arrive'
+bip_39_word_new_line6: 'present
+
+  follow
+
+  company
+
+  wait
+
+  arrive
+
+  acid'
+bip_39_word_new_line7: 'present
+
+  follow
+
+  company
+
+  wait
+
+  arrive
+
+  acid
+
+  abstract'
+bip_39_word_new_line8: 'present
+
+  follow
+
+  company
+
+  wait
+
+  arrive
+
+  acid
+
+  abstract
+
+  boost'
+bip_39_word_new_line9: 'present
+
+  follow
+
+  company
+
+  wait
+
+  arrive
+
+  acid
+
+  abstract
+
+  boost
+
+  try'
+bip_39_word_space_0:
+- present
+- follow
+- company
+- wait
+- arrive
+- acid
+- abstract
+- boost
+- try
+- what
+- tank
+- ahead
+bip_39_word_space_1: present
+bip_39_word_space_10: present follow company wait arrive acid abstract boost try what
+bip_39_word_space_11: present follow company wait arrive acid abstract boost try what
+  tank
+bip_39_word_space_12: present follow company wait arrive acid abstract boost try what
+  tank ahead
+bip_39_word_space_2: present follow
+bip_39_word_space_3: present follow company
+bip_39_word_space_4: present follow company wait
+bip_39_word_space_5: present follow company wait arrive
+bip_39_word_space_6: present follow company wait arrive acid
+bip_39_word_space_7: present follow company wait arrive acid abstract
+bip_39_word_space_8: present follow company wait arrive acid abstract boost
+bip_39_word_space_9: present follow company wait arrive acid abstract boost try
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

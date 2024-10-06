@@ -1,3 +1,186 @@
+bip_39_word_new_br1: escape
+bip_39_word_new_br10: escape<br>behind<br>book<br>salt<br>dice<br>adjust<br>abandon<br>web<br>exotic<br>athlete
+bip_39_word_new_br11: escape<br>behind<br>book<br>salt<br>dice<br>adjust<br>abandon<br>web<br>exotic<br>athlete<br>kiwi
+bip_39_word_new_br12: escape<br>behind<br>book<br>salt<br>dice<br>adjust<br>abandon<br>web<br>exotic<br>athlete<br>kiwi<br>annual
+bip_39_word_new_br2: escape<br>behind
+bip_39_word_new_br3: escape<br>behind<br>book
+bip_39_word_new_br4: escape<br>behind<br>book<br>salt
+bip_39_word_new_br5: escape<br>behind<br>book<br>salt<br>dice
+bip_39_word_new_br6: escape<br>behind<br>book<br>salt<br>dice<br>adjust
+bip_39_word_new_br7: escape<br>behind<br>book<br>salt<br>dice<br>adjust<br>abandon
+bip_39_word_new_br8: escape<br>behind<br>book<br>salt<br>dice<br>adjust<br>abandon<br>web
+bip_39_word_new_br9: escape<br>behind<br>book<br>salt<br>dice<br>adjust<br>abandon<br>web<br>exotic
+bip_39_word_new_line1: escape
+bip_39_word_new_line10: 'escape
+
+  behind
+
+  book
+
+  salt
+
+  dice
+
+  adjust
+
+  abandon
+
+  web
+
+  exotic
+
+  athlete'
+bip_39_word_new_line11: 'escape
+
+  behind
+
+  book
+
+  salt
+
+  dice
+
+  adjust
+
+  abandon
+
+  web
+
+  exotic
+
+  athlete
+
+  kiwi'
+bip_39_word_new_line12: 'escape
+
+  behind
+
+  book
+
+  salt
+
+  dice
+
+  adjust
+
+  abandon
+
+  web
+
+  exotic
+
+  athlete
+
+  kiwi
+
+  annual'
+bip_39_word_new_line2: 'escape
+
+  behind'
+bip_39_word_new_line3: 'escape
+
+  behind
+
+  book'
+bip_39_word_new_line4: 'escape
+
+  behind
+
+  book
+
+  salt'
+bip_39_word_new_line5: 'escape
+
+  behind
+
+  book
+
+  salt
+
+  dice'
+bip_39_word_new_line6: 'escape
+
+  behind
+
+  book
+
+  salt
+
+  dice
+
+  adjust'
+bip_39_word_new_line7: 'escape
+
+  behind
+
+  book
+
+  salt
+
+  dice
+
+  adjust
+
+  abandon'
+bip_39_word_new_line8: 'escape
+
+  behind
+
+  book
+
+  salt
+
+  dice
+
+  adjust
+
+  abandon
+
+  web'
+bip_39_word_new_line9: 'escape
+
+  behind
+
+  book
+
+  salt
+
+  dice
+
+  adjust
+
+  abandon
+
+  web
+
+  exotic'
+bip_39_word_space_0:
+- escape
+- behind
+- book
+- salt
+- dice
+- adjust
+- abandon
+- web
+- exotic
+- athlete
+- kiwi
+- annual
+bip_39_word_space_1: escape
+bip_39_word_space_10: escape behind book salt dice adjust abandon web exotic athlete
+bip_39_word_space_11: escape behind book salt dice adjust abandon web exotic athlete
+  kiwi
+bip_39_word_space_12: escape behind book salt dice adjust abandon web exotic athlete
+  kiwi annual
+bip_39_word_space_2: escape behind
+bip_39_word_space_3: escape behind book
+bip_39_word_space_4: escape behind book salt
+bip_39_word_space_5: escape behind book salt dice
+bip_39_word_space_6: escape behind book salt dice adjust
+bip_39_word_space_7: escape behind book salt dice adjust abandon
+bip_39_word_space_8: escape behind book salt dice adjust abandon web
+bip_39_word_space_9: escape behind book salt dice adjust abandon web exotic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

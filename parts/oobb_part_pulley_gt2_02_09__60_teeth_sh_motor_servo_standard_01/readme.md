@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: online discover
+  * bip 39 word 3: online discover mask
+  * bip 39 word: online discover mask hidden question danger afraid carpet wage visa ignore armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | online |  
+| bip_39_word_new_br10 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa |  
+| bip_39_word_new_br11 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa<br>ignore |  
+| bip_39_word_new_br12 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage<br>visa<br>ignore<br>armor |  
+| bip_39_word_new_br2 | online<br>discover |  
+| bip_39_word_new_br3 | online<br>discover<br>mask |  
+| bip_39_word_new_br4 | online<br>discover<br>mask<br>hidden |  
+| bip_39_word_new_br5 | online<br>discover<br>mask<br>hidden<br>question |  
+| bip_39_word_new_br6 | online<br>discover<br>mask<br>hidden<br>question<br>danger |  
+| bip_39_word_new_br7 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid |  
+| bip_39_word_new_br8 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet |  
+| bip_39_word_new_br9 | online<br>discover<br>mask<br>hidden<br>question<br>danger<br>afraid<br>carpet<br>wage |  
+| bip_39_word_new_line1 | online |  
+| bip_39_word_new_line10 | online
+discover
+mask
+hidden
+question
+danger
+afraid
+carpet
+wage
+visa |  
+| bip_39_word_new_line11 | online
+discover
+mask
+hidden
+question
+danger
+afraid
+carpet
+wage
+visa
+ignore |  
+| bip_39_word_new_line12 | online
+discover
+mask
+hidden
+question
+danger
+afraid
+carpet
+wage
+visa
+ignore
+armor |  
+| bip_39_word_new_line2 | online
+discover |  
+| bip_39_word_new_line3 | online
+discover
+mask |  
+| bip_39_word_new_line4 | online
+discover
+mask
+hidden |  
+| bip_39_word_new_line5 | online
+discover
+mask
+hidden
+question |  
+| bip_39_word_new_line6 | online
+discover
+mask
+hidden
+question
+danger |  
+| bip_39_word_new_line7 | online
+discover
+mask
+hidden
+question
+danger
+afraid |  
+| bip_39_word_new_line8 | online
+discover
+mask
+hidden
+question
+danger
+afraid
+carpet |  
+| bip_39_word_new_line9 | online
+discover
+mask
+hidden
+question
+danger
+afraid
+carpet
+wage |  
+| bip_39_word_space_0 | ['online', 'discover', 'mask', 'hidden', 'question', 'danger', 'afraid', 'carpet', 'wage', 'visa', 'ignore', 'armor'] |  
+| bip_39_word_space_1 | online |  
+| bip_39_word_space_10 | online discover mask hidden question danger afraid carpet wage visa |  
+| bip_39_word_space_11 | online discover mask hidden question danger afraid carpet wage visa ignore |  
+| bip_39_word_space_12 | online discover mask hidden question danger afraid carpet wage visa ignore armor |  
+| bip_39_word_space_2 | online discover |  
+| bip_39_word_space_3 | online discover mask |  
+| bip_39_word_space_4 | online discover mask hidden |  
+| bip_39_word_space_5 | online discover mask hidden question |  
+| bip_39_word_space_6 | online discover mask hidden question danger |  
+| bip_39_word_space_7 | online discover mask hidden question danger afraid |  
+| bip_39_word_space_8 | online discover mask hidden question danger afraid carpet |  
+| bip_39_word_space_9 | online discover mask hidden question danger afraid carpet wage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

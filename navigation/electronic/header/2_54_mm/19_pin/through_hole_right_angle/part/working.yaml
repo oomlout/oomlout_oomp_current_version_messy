@@ -1,3 +1,187 @@
+bip_39_word_new_br1: kangaroo
+bip_39_word_new_br10: kangaroo<br>material<br>amateur<br>shove<br>inject<br>soda<br>cause<br>fly<br>raven<br>echo
+bip_39_word_new_br11: kangaroo<br>material<br>amateur<br>shove<br>inject<br>soda<br>cause<br>fly<br>raven<br>echo<br>ticket
+bip_39_word_new_br12: kangaroo<br>material<br>amateur<br>shove<br>inject<br>soda<br>cause<br>fly<br>raven<br>echo<br>ticket<br>acoustic
+bip_39_word_new_br2: kangaroo<br>material
+bip_39_word_new_br3: kangaroo<br>material<br>amateur
+bip_39_word_new_br4: kangaroo<br>material<br>amateur<br>shove
+bip_39_word_new_br5: kangaroo<br>material<br>amateur<br>shove<br>inject
+bip_39_word_new_br6: kangaroo<br>material<br>amateur<br>shove<br>inject<br>soda
+bip_39_word_new_br7: kangaroo<br>material<br>amateur<br>shove<br>inject<br>soda<br>cause
+bip_39_word_new_br8: kangaroo<br>material<br>amateur<br>shove<br>inject<br>soda<br>cause<br>fly
+bip_39_word_new_br9: kangaroo<br>material<br>amateur<br>shove<br>inject<br>soda<br>cause<br>fly<br>raven
+bip_39_word_new_line1: kangaroo
+bip_39_word_new_line10: 'kangaroo
+
+  material
+
+  amateur
+
+  shove
+
+  inject
+
+  soda
+
+  cause
+
+  fly
+
+  raven
+
+  echo'
+bip_39_word_new_line11: 'kangaroo
+
+  material
+
+  amateur
+
+  shove
+
+  inject
+
+  soda
+
+  cause
+
+  fly
+
+  raven
+
+  echo
+
+  ticket'
+bip_39_word_new_line12: 'kangaroo
+
+  material
+
+  amateur
+
+  shove
+
+  inject
+
+  soda
+
+  cause
+
+  fly
+
+  raven
+
+  echo
+
+  ticket
+
+  acoustic'
+bip_39_word_new_line2: 'kangaroo
+
+  material'
+bip_39_word_new_line3: 'kangaroo
+
+  material
+
+  amateur'
+bip_39_word_new_line4: 'kangaroo
+
+  material
+
+  amateur
+
+  shove'
+bip_39_word_new_line5: 'kangaroo
+
+  material
+
+  amateur
+
+  shove
+
+  inject'
+bip_39_word_new_line6: 'kangaroo
+
+  material
+
+  amateur
+
+  shove
+
+  inject
+
+  soda'
+bip_39_word_new_line7: 'kangaroo
+
+  material
+
+  amateur
+
+  shove
+
+  inject
+
+  soda
+
+  cause'
+bip_39_word_new_line8: 'kangaroo
+
+  material
+
+  amateur
+
+  shove
+
+  inject
+
+  soda
+
+  cause
+
+  fly'
+bip_39_word_new_line9: 'kangaroo
+
+  material
+
+  amateur
+
+  shove
+
+  inject
+
+  soda
+
+  cause
+
+  fly
+
+  raven'
+bip_39_word_space_0:
+- kangaroo
+- material
+- amateur
+- shove
+- inject
+- soda
+- cause
+- fly
+- raven
+- echo
+- ticket
+- acoustic
+bip_39_word_space_1: kangaroo
+bip_39_word_space_10: kangaroo material amateur shove inject soda cause fly raven
+  echo
+bip_39_word_space_11: kangaroo material amateur shove inject soda cause fly raven
+  echo ticket
+bip_39_word_space_12: kangaroo material amateur shove inject soda cause fly raven
+  echo ticket acoustic
+bip_39_word_space_2: kangaroo material
+bip_39_word_space_3: kangaroo material amateur
+bip_39_word_space_4: kangaroo material amateur shove
+bip_39_word_space_5: kangaroo material amateur shove inject
+bip_39_word_space_6: kangaroo material amateur shove inject soda
+bip_39_word_space_7: kangaroo material amateur shove inject soda cause
+bip_39_word_space_8: kangaroo material amateur shove inject soda cause fly
+bip_39_word_space_9: kangaroo material amateur shove inject soda cause fly raven
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

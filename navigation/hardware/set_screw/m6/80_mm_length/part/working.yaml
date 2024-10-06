@@ -1,3 +1,185 @@
+bip_39_word_new_br1: sun
+bip_39_word_new_br10: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb
+bip_39_word_new_br11: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb<br>random
+bip_39_word_new_br12: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust<br>verb<br>random<br>artwork
+bip_39_word_new_br2: sun<br>glue
+bip_39_word_new_br3: sun<br>glue<br>walk
+bip_39_word_new_br4: sun<br>glue<br>walk<br>novel
+bip_39_word_new_br5: sun<br>glue<br>walk<br>novel<br>mutual
+bip_39_word_new_br6: sun<br>glue<br>walk<br>novel<br>mutual<br>urban
+bip_39_word_new_br7: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle
+bip_39_word_new_br8: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom
+bip_39_word_new_br9: sun<br>glue<br>walk<br>novel<br>mutual<br>urban<br>idle<br>gloom<br>dust
+bip_39_word_new_line1: sun
+bip_39_word_new_line10: 'sun
+
+  glue
+
+  walk
+
+  novel
+
+  mutual
+
+  urban
+
+  idle
+
+  gloom
+
+  dust
+
+  verb'
+bip_39_word_new_line11: 'sun
+
+  glue
+
+  walk
+
+  novel
+
+  mutual
+
+  urban
+
+  idle
+
+  gloom
+
+  dust
+
+  verb
+
+  random'
+bip_39_word_new_line12: 'sun
+
+  glue
+
+  walk
+
+  novel
+
+  mutual
+
+  urban
+
+  idle
+
+  gloom
+
+  dust
+
+  verb
+
+  random
+
+  artwork'
+bip_39_word_new_line2: 'sun
+
+  glue'
+bip_39_word_new_line3: 'sun
+
+  glue
+
+  walk'
+bip_39_word_new_line4: 'sun
+
+  glue
+
+  walk
+
+  novel'
+bip_39_word_new_line5: 'sun
+
+  glue
+
+  walk
+
+  novel
+
+  mutual'
+bip_39_word_new_line6: 'sun
+
+  glue
+
+  walk
+
+  novel
+
+  mutual
+
+  urban'
+bip_39_word_new_line7: 'sun
+
+  glue
+
+  walk
+
+  novel
+
+  mutual
+
+  urban
+
+  idle'
+bip_39_word_new_line8: 'sun
+
+  glue
+
+  walk
+
+  novel
+
+  mutual
+
+  urban
+
+  idle
+
+  gloom'
+bip_39_word_new_line9: 'sun
+
+  glue
+
+  walk
+
+  novel
+
+  mutual
+
+  urban
+
+  idle
+
+  gloom
+
+  dust'
+bip_39_word_space_0:
+- sun
+- glue
+- walk
+- novel
+- mutual
+- urban
+- idle
+- gloom
+- dust
+- verb
+- random
+- artwork
+bip_39_word_space_1: sun
+bip_39_word_space_10: sun glue walk novel mutual urban idle gloom dust verb
+bip_39_word_space_11: sun glue walk novel mutual urban idle gloom dust verb random
+bip_39_word_space_12: sun glue walk novel mutual urban idle gloom dust verb random
+  artwork
+bip_39_word_space_2: sun glue
+bip_39_word_space_3: sun glue walk
+bip_39_word_space_4: sun glue walk novel
+bip_39_word_space_5: sun glue walk novel mutual
+bip_39_word_space_6: sun glue walk novel mutual urban
+bip_39_word_space_7: sun glue walk novel mutual urban idle
+bip_39_word_space_8: sun glue walk novel mutual urban idle gloom
+bip_39_word_space_9: sun glue walk novel mutual urban idle gloom dust
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

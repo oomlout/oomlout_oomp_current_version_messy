@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: disagree trip
+  * bip 39 word 3: disagree trip glue
+  * bip 39 word: disagree trip glue virtual climb pool morning base merit primary detail absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | disagree |  
+| bip_39_word_new_br10 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary |  
+| bip_39_word_new_br11 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary<br>detail |  
+| bip_39_word_new_br12 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit<br>primary<br>detail<br>absent |  
+| bip_39_word_new_br2 | disagree<br>trip |  
+| bip_39_word_new_br3 | disagree<br>trip<br>glue |  
+| bip_39_word_new_br4 | disagree<br>trip<br>glue<br>virtual |  
+| bip_39_word_new_br5 | disagree<br>trip<br>glue<br>virtual<br>climb |  
+| bip_39_word_new_br6 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool |  
+| bip_39_word_new_br7 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning |  
+| bip_39_word_new_br8 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base |  
+| bip_39_word_new_br9 | disagree<br>trip<br>glue<br>virtual<br>climb<br>pool<br>morning<br>base<br>merit |  
+| bip_39_word_new_line1 | disagree |  
+| bip_39_word_new_line10 | disagree
+trip
+glue
+virtual
+climb
+pool
+morning
+base
+merit
+primary |  
+| bip_39_word_new_line11 | disagree
+trip
+glue
+virtual
+climb
+pool
+morning
+base
+merit
+primary
+detail |  
+| bip_39_word_new_line12 | disagree
+trip
+glue
+virtual
+climb
+pool
+morning
+base
+merit
+primary
+detail
+absent |  
+| bip_39_word_new_line2 | disagree
+trip |  
+| bip_39_word_new_line3 | disagree
+trip
+glue |  
+| bip_39_word_new_line4 | disagree
+trip
+glue
+virtual |  
+| bip_39_word_new_line5 | disagree
+trip
+glue
+virtual
+climb |  
+| bip_39_word_new_line6 | disagree
+trip
+glue
+virtual
+climb
+pool |  
+| bip_39_word_new_line7 | disagree
+trip
+glue
+virtual
+climb
+pool
+morning |  
+| bip_39_word_new_line8 | disagree
+trip
+glue
+virtual
+climb
+pool
+morning
+base |  
+| bip_39_word_new_line9 | disagree
+trip
+glue
+virtual
+climb
+pool
+morning
+base
+merit |  
+| bip_39_word_space_0 | ['disagree', 'trip', 'glue', 'virtual', 'climb', 'pool', 'morning', 'base', 'merit', 'primary', 'detail', 'absent'] |  
+| bip_39_word_space_1 | disagree |  
+| bip_39_word_space_10 | disagree trip glue virtual climb pool morning base merit primary |  
+| bip_39_word_space_11 | disagree trip glue virtual climb pool morning base merit primary detail |  
+| bip_39_word_space_12 | disagree trip glue virtual climb pool morning base merit primary detail absent |  
+| bip_39_word_space_2 | disagree trip |  
+| bip_39_word_space_3 | disagree trip glue |  
+| bip_39_word_space_4 | disagree trip glue virtual |  
+| bip_39_word_space_5 | disagree trip glue virtual climb |  
+| bip_39_word_space_6 | disagree trip glue virtual climb pool |  
+| bip_39_word_space_7 | disagree trip glue virtual climb pool morning |  
+| bip_39_word_space_8 | disagree trip glue virtual climb pool morning base |  
+| bip_39_word_space_9 | disagree trip glue virtual climb pool morning base merit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

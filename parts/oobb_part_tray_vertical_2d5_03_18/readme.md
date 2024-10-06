@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: child door
+  * bip 39 word 3: child door mass
+  * bip 39 word: child door mass boss crystal noodle project guilt say clerk bounce aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | child |  
+| bip_39_word_new_br10 | child<br>door<br>mass<br>boss<br>crystal<br>noodle<br>project<br>guilt<br>say<br>clerk |  
+| bip_39_word_new_br11 | child<br>door<br>mass<br>boss<br>crystal<br>noodle<br>project<br>guilt<br>say<br>clerk<br>bounce |  
+| bip_39_word_new_br12 | child<br>door<br>mass<br>boss<br>crystal<br>noodle<br>project<br>guilt<br>say<br>clerk<br>bounce<br>aerobic |  
+| bip_39_word_new_br2 | child<br>door |  
+| bip_39_word_new_br3 | child<br>door<br>mass |  
+| bip_39_word_new_br4 | child<br>door<br>mass<br>boss |  
+| bip_39_word_new_br5 | child<br>door<br>mass<br>boss<br>crystal |  
+| bip_39_word_new_br6 | child<br>door<br>mass<br>boss<br>crystal<br>noodle |  
+| bip_39_word_new_br7 | child<br>door<br>mass<br>boss<br>crystal<br>noodle<br>project |  
+| bip_39_word_new_br8 | child<br>door<br>mass<br>boss<br>crystal<br>noodle<br>project<br>guilt |  
+| bip_39_word_new_br9 | child<br>door<br>mass<br>boss<br>crystal<br>noodle<br>project<br>guilt<br>say |  
+| bip_39_word_new_line1 | child |  
+| bip_39_word_new_line10 | child
+door
+mass
+boss
+crystal
+noodle
+project
+guilt
+say
+clerk |  
+| bip_39_word_new_line11 | child
+door
+mass
+boss
+crystal
+noodle
+project
+guilt
+say
+clerk
+bounce |  
+| bip_39_word_new_line12 | child
+door
+mass
+boss
+crystal
+noodle
+project
+guilt
+say
+clerk
+bounce
+aerobic |  
+| bip_39_word_new_line2 | child
+door |  
+| bip_39_word_new_line3 | child
+door
+mass |  
+| bip_39_word_new_line4 | child
+door
+mass
+boss |  
+| bip_39_word_new_line5 | child
+door
+mass
+boss
+crystal |  
+| bip_39_word_new_line6 | child
+door
+mass
+boss
+crystal
+noodle |  
+| bip_39_word_new_line7 | child
+door
+mass
+boss
+crystal
+noodle
+project |  
+| bip_39_word_new_line8 | child
+door
+mass
+boss
+crystal
+noodle
+project
+guilt |  
+| bip_39_word_new_line9 | child
+door
+mass
+boss
+crystal
+noodle
+project
+guilt
+say |  
+| bip_39_word_space_0 | ['child', 'door', 'mass', 'boss', 'crystal', 'noodle', 'project', 'guilt', 'say', 'clerk', 'bounce', 'aerobic'] |  
+| bip_39_word_space_1 | child |  
+| bip_39_word_space_10 | child door mass boss crystal noodle project guilt say clerk |  
+| bip_39_word_space_11 | child door mass boss crystal noodle project guilt say clerk bounce |  
+| bip_39_word_space_12 | child door mass boss crystal noodle project guilt say clerk bounce aerobic |  
+| bip_39_word_space_2 | child door |  
+| bip_39_word_space_3 | child door mass |  
+| bip_39_word_space_4 | child door mass boss |  
+| bip_39_word_space_5 | child door mass boss crystal |  
+| bip_39_word_space_6 | child door mass boss crystal noodle |  
+| bip_39_word_space_7 | child door mass boss crystal noodle project |  
+| bip_39_word_space_8 | child door mass boss crystal noodle project guilt |  
+| bip_39_word_space_9 | child door mass boss crystal noodle project guilt say |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

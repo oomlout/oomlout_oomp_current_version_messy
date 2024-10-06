@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mimic
+bip_39_word_new_br10: mimic<br>word<br>era<br>thumb<br>planet<br>athlete<br>crowd<br>beach<br>hunt<br>endless
+bip_39_word_new_br11: mimic<br>word<br>era<br>thumb<br>planet<br>athlete<br>crowd<br>beach<br>hunt<br>endless<br>bargain
+bip_39_word_new_br12: mimic<br>word<br>era<br>thumb<br>planet<br>athlete<br>crowd<br>beach<br>hunt<br>endless<br>bargain<br>anchor
+bip_39_word_new_br2: mimic<br>word
+bip_39_word_new_br3: mimic<br>word<br>era
+bip_39_word_new_br4: mimic<br>word<br>era<br>thumb
+bip_39_word_new_br5: mimic<br>word<br>era<br>thumb<br>planet
+bip_39_word_new_br6: mimic<br>word<br>era<br>thumb<br>planet<br>athlete
+bip_39_word_new_br7: mimic<br>word<br>era<br>thumb<br>planet<br>athlete<br>crowd
+bip_39_word_new_br8: mimic<br>word<br>era<br>thumb<br>planet<br>athlete<br>crowd<br>beach
+bip_39_word_new_br9: mimic<br>word<br>era<br>thumb<br>planet<br>athlete<br>crowd<br>beach<br>hunt
+bip_39_word_new_line1: mimic
+bip_39_word_new_line10: 'mimic
+
+  word
+
+  era
+
+  thumb
+
+  planet
+
+  athlete
+
+  crowd
+
+  beach
+
+  hunt
+
+  endless'
+bip_39_word_new_line11: 'mimic
+
+  word
+
+  era
+
+  thumb
+
+  planet
+
+  athlete
+
+  crowd
+
+  beach
+
+  hunt
+
+  endless
+
+  bargain'
+bip_39_word_new_line12: 'mimic
+
+  word
+
+  era
+
+  thumb
+
+  planet
+
+  athlete
+
+  crowd
+
+  beach
+
+  hunt
+
+  endless
+
+  bargain
+
+  anchor'
+bip_39_word_new_line2: 'mimic
+
+  word'
+bip_39_word_new_line3: 'mimic
+
+  word
+
+  era'
+bip_39_word_new_line4: 'mimic
+
+  word
+
+  era
+
+  thumb'
+bip_39_word_new_line5: 'mimic
+
+  word
+
+  era
+
+  thumb
+
+  planet'
+bip_39_word_new_line6: 'mimic
+
+  word
+
+  era
+
+  thumb
+
+  planet
+
+  athlete'
+bip_39_word_new_line7: 'mimic
+
+  word
+
+  era
+
+  thumb
+
+  planet
+
+  athlete
+
+  crowd'
+bip_39_word_new_line8: 'mimic
+
+  word
+
+  era
+
+  thumb
+
+  planet
+
+  athlete
+
+  crowd
+
+  beach'
+bip_39_word_new_line9: 'mimic
+
+  word
+
+  era
+
+  thumb
+
+  planet
+
+  athlete
+
+  crowd
+
+  beach
+
+  hunt'
+bip_39_word_space_0:
+- mimic
+- word
+- era
+- thumb
+- planet
+- athlete
+- crowd
+- beach
+- hunt
+- endless
+- bargain
+- anchor
+bip_39_word_space_1: mimic
+bip_39_word_space_10: mimic word era thumb planet athlete crowd beach hunt endless
+bip_39_word_space_11: mimic word era thumb planet athlete crowd beach hunt endless
+  bargain
+bip_39_word_space_12: mimic word era thumb planet athlete crowd beach hunt endless
+  bargain anchor
+bip_39_word_space_2: mimic word
+bip_39_word_space_3: mimic word era
+bip_39_word_space_4: mimic word era thumb
+bip_39_word_space_5: mimic word era thumb planet
+bip_39_word_space_6: mimic word era thumb planet athlete
+bip_39_word_space_7: mimic word era thumb planet athlete crowd
+bip_39_word_space_8: mimic word era thumb planet athlete crowd beach
+bip_39_word_space_9: mimic word era thumb planet athlete crowd beach hunt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

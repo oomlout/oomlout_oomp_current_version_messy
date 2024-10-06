@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: match eagle
+  * bip 39 word 3: match eagle butter
+  * bip 39 word: match eagle butter risk city series oxygen country lake glass setup advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | match |  
+| bip_39_word_new_br10 | match<br>eagle<br>butter<br>risk<br>city<br>series<br>oxygen<br>country<br>lake<br>glass |  
+| bip_39_word_new_br11 | match<br>eagle<br>butter<br>risk<br>city<br>series<br>oxygen<br>country<br>lake<br>glass<br>setup |  
+| bip_39_word_new_br12 | match<br>eagle<br>butter<br>risk<br>city<br>series<br>oxygen<br>country<br>lake<br>glass<br>setup<br>advice |  
+| bip_39_word_new_br2 | match<br>eagle |  
+| bip_39_word_new_br3 | match<br>eagle<br>butter |  
+| bip_39_word_new_br4 | match<br>eagle<br>butter<br>risk |  
+| bip_39_word_new_br5 | match<br>eagle<br>butter<br>risk<br>city |  
+| bip_39_word_new_br6 | match<br>eagle<br>butter<br>risk<br>city<br>series |  
+| bip_39_word_new_br7 | match<br>eagle<br>butter<br>risk<br>city<br>series<br>oxygen |  
+| bip_39_word_new_br8 | match<br>eagle<br>butter<br>risk<br>city<br>series<br>oxygen<br>country |  
+| bip_39_word_new_br9 | match<br>eagle<br>butter<br>risk<br>city<br>series<br>oxygen<br>country<br>lake |  
+| bip_39_word_new_line1 | match |  
+| bip_39_word_new_line10 | match
+eagle
+butter
+risk
+city
+series
+oxygen
+country
+lake
+glass |  
+| bip_39_word_new_line11 | match
+eagle
+butter
+risk
+city
+series
+oxygen
+country
+lake
+glass
+setup |  
+| bip_39_word_new_line12 | match
+eagle
+butter
+risk
+city
+series
+oxygen
+country
+lake
+glass
+setup
+advice |  
+| bip_39_word_new_line2 | match
+eagle |  
+| bip_39_word_new_line3 | match
+eagle
+butter |  
+| bip_39_word_new_line4 | match
+eagle
+butter
+risk |  
+| bip_39_word_new_line5 | match
+eagle
+butter
+risk
+city |  
+| bip_39_word_new_line6 | match
+eagle
+butter
+risk
+city
+series |  
+| bip_39_word_new_line7 | match
+eagle
+butter
+risk
+city
+series
+oxygen |  
+| bip_39_word_new_line8 | match
+eagle
+butter
+risk
+city
+series
+oxygen
+country |  
+| bip_39_word_new_line9 | match
+eagle
+butter
+risk
+city
+series
+oxygen
+country
+lake |  
+| bip_39_word_space_0 | ['match', 'eagle', 'butter', 'risk', 'city', 'series', 'oxygen', 'country', 'lake', 'glass', 'setup', 'advice'] |  
+| bip_39_word_space_1 | match |  
+| bip_39_word_space_10 | match eagle butter risk city series oxygen country lake glass |  
+| bip_39_word_space_11 | match eagle butter risk city series oxygen country lake glass setup |  
+| bip_39_word_space_12 | match eagle butter risk city series oxygen country lake glass setup advice |  
+| bip_39_word_space_2 | match eagle |  
+| bip_39_word_space_3 | match eagle butter |  
+| bip_39_word_space_4 | match eagle butter risk |  
+| bip_39_word_space_5 | match eagle butter risk city |  
+| bip_39_word_space_6 | match eagle butter risk city series |  
+| bip_39_word_space_7 | match eagle butter risk city series oxygen |  
+| bip_39_word_space_8 | match eagle butter risk city series oxygen country |  
+| bip_39_word_space_9 | match eagle butter risk city series oxygen country lake |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

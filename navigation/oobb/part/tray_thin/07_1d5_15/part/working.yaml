@@ -1,3 +1,185 @@
+bip_39_word_new_br1: throw
+bip_39_word_new_br10: throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame
+bip_39_word_new_br11: throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame<br>boil
+bip_39_word_new_br12: throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube<br>frame<br>boil<br>attitude
+bip_39_word_new_br2: throw<br>mind
+bip_39_word_new_br3: throw<br>mind<br>horse
+bip_39_word_new_br4: throw<br>mind<br>horse<br>dinner
+bip_39_word_new_br5: throw<br>mind<br>horse<br>dinner<br>risk
+bip_39_word_new_br6: throw<br>mind<br>horse<br>dinner<br>risk<br>agent
+bip_39_word_new_br7: throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar
+bip_39_word_new_br8: throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state
+bip_39_word_new_br9: throw<br>mind<br>horse<br>dinner<br>risk<br>agent<br>solar<br>state<br>tube
+bip_39_word_new_line1: throw
+bip_39_word_new_line10: 'throw
+
+  mind
+
+  horse
+
+  dinner
+
+  risk
+
+  agent
+
+  solar
+
+  state
+
+  tube
+
+  frame'
+bip_39_word_new_line11: 'throw
+
+  mind
+
+  horse
+
+  dinner
+
+  risk
+
+  agent
+
+  solar
+
+  state
+
+  tube
+
+  frame
+
+  boil'
+bip_39_word_new_line12: 'throw
+
+  mind
+
+  horse
+
+  dinner
+
+  risk
+
+  agent
+
+  solar
+
+  state
+
+  tube
+
+  frame
+
+  boil
+
+  attitude'
+bip_39_word_new_line2: 'throw
+
+  mind'
+bip_39_word_new_line3: 'throw
+
+  mind
+
+  horse'
+bip_39_word_new_line4: 'throw
+
+  mind
+
+  horse
+
+  dinner'
+bip_39_word_new_line5: 'throw
+
+  mind
+
+  horse
+
+  dinner
+
+  risk'
+bip_39_word_new_line6: 'throw
+
+  mind
+
+  horse
+
+  dinner
+
+  risk
+
+  agent'
+bip_39_word_new_line7: 'throw
+
+  mind
+
+  horse
+
+  dinner
+
+  risk
+
+  agent
+
+  solar'
+bip_39_word_new_line8: 'throw
+
+  mind
+
+  horse
+
+  dinner
+
+  risk
+
+  agent
+
+  solar
+
+  state'
+bip_39_word_new_line9: 'throw
+
+  mind
+
+  horse
+
+  dinner
+
+  risk
+
+  agent
+
+  solar
+
+  state
+
+  tube'
+bip_39_word_space_0:
+- throw
+- mind
+- horse
+- dinner
+- risk
+- agent
+- solar
+- state
+- tube
+- frame
+- boil
+- attitude
+bip_39_word_space_1: throw
+bip_39_word_space_10: throw mind horse dinner risk agent solar state tube frame
+bip_39_word_space_11: throw mind horse dinner risk agent solar state tube frame boil
+bip_39_word_space_12: throw mind horse dinner risk agent solar state tube frame boil
+  attitude
+bip_39_word_space_2: throw mind
+bip_39_word_space_3: throw mind horse
+bip_39_word_space_4: throw mind horse dinner
+bip_39_word_space_5: throw mind horse dinner risk
+bip_39_word_space_6: throw mind horse dinner risk agent
+bip_39_word_space_7: throw mind horse dinner risk agent solar
+bip_39_word_space_8: throw mind horse dinner risk agent solar state
+bip_39_word_space_9: throw mind horse dinner risk agent solar state tube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

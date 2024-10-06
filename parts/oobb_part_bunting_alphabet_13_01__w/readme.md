@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: w
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mind cart
+  * bip 39 word 3: mind cart viable
+  * bip 39 word: mind cart viable element material once erupt you narrow burger fiber audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mind |  
+| bip_39_word_new_br10 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger |  
+| bip_39_word_new_br11 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger<br>fiber |  
+| bip_39_word_new_br12 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow<br>burger<br>fiber<br>audit |  
+| bip_39_word_new_br2 | mind<br>cart |  
+| bip_39_word_new_br3 | mind<br>cart<br>viable |  
+| bip_39_word_new_br4 | mind<br>cart<br>viable<br>element |  
+| bip_39_word_new_br5 | mind<br>cart<br>viable<br>element<br>material |  
+| bip_39_word_new_br6 | mind<br>cart<br>viable<br>element<br>material<br>once |  
+| bip_39_word_new_br7 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt |  
+| bip_39_word_new_br8 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you |  
+| bip_39_word_new_br9 | mind<br>cart<br>viable<br>element<br>material<br>once<br>erupt<br>you<br>narrow |  
+| bip_39_word_new_line1 | mind |  
+| bip_39_word_new_line10 | mind
+cart
+viable
+element
+material
+once
+erupt
+you
+narrow
+burger |  
+| bip_39_word_new_line11 | mind
+cart
+viable
+element
+material
+once
+erupt
+you
+narrow
+burger
+fiber |  
+| bip_39_word_new_line12 | mind
+cart
+viable
+element
+material
+once
+erupt
+you
+narrow
+burger
+fiber
+audit |  
+| bip_39_word_new_line2 | mind
+cart |  
+| bip_39_word_new_line3 | mind
+cart
+viable |  
+| bip_39_word_new_line4 | mind
+cart
+viable
+element |  
+| bip_39_word_new_line5 | mind
+cart
+viable
+element
+material |  
+| bip_39_word_new_line6 | mind
+cart
+viable
+element
+material
+once |  
+| bip_39_word_new_line7 | mind
+cart
+viable
+element
+material
+once
+erupt |  
+| bip_39_word_new_line8 | mind
+cart
+viable
+element
+material
+once
+erupt
+you |  
+| bip_39_word_new_line9 | mind
+cart
+viable
+element
+material
+once
+erupt
+you
+narrow |  
+| bip_39_word_space_0 | ['mind', 'cart', 'viable', 'element', 'material', 'once', 'erupt', 'you', 'narrow', 'burger', 'fiber', 'audit'] |  
+| bip_39_word_space_1 | mind |  
+| bip_39_word_space_10 | mind cart viable element material once erupt you narrow burger |  
+| bip_39_word_space_11 | mind cart viable element material once erupt you narrow burger fiber |  
+| bip_39_word_space_12 | mind cart viable element material once erupt you narrow burger fiber audit |  
+| bip_39_word_space_2 | mind cart |  
+| bip_39_word_space_3 | mind cart viable |  
+| bip_39_word_space_4 | mind cart viable element |  
+| bip_39_word_space_5 | mind cart viable element material |  
+| bip_39_word_space_6 | mind cart viable element material once |  
+| bip_39_word_space_7 | mind cart viable element material once erupt |  
+| bip_39_word_space_8 | mind cart viable element material once erupt you |  
+| bip_39_word_space_9 | mind cart viable element material once erupt you narrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

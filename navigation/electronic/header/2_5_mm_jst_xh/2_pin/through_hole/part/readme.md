@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cluster file
+  * bip 39 word 3: cluster file rude
+  * bip 39 word: cluster file rude abandon jeans damage negative aim unfair force melody anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cluster |  
+| bip_39_word_new_br10 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force |  
+| bip_39_word_new_br11 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force<br>melody |  
+| bip_39_word_new_br12 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair<br>force<br>melody<br>anxiety |  
+| bip_39_word_new_br2 | cluster<br>file |  
+| bip_39_word_new_br3 | cluster<br>file<br>rude |  
+| bip_39_word_new_br4 | cluster<br>file<br>rude<br>abandon |  
+| bip_39_word_new_br5 | cluster<br>file<br>rude<br>abandon<br>jeans |  
+| bip_39_word_new_br6 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage |  
+| bip_39_word_new_br7 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative |  
+| bip_39_word_new_br8 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim |  
+| bip_39_word_new_br9 | cluster<br>file<br>rude<br>abandon<br>jeans<br>damage<br>negative<br>aim<br>unfair |  
+| bip_39_word_new_line1 | cluster |  
+| bip_39_word_new_line10 | cluster
+file
+rude
+abandon
+jeans
+damage
+negative
+aim
+unfair
+force |  
+| bip_39_word_new_line11 | cluster
+file
+rude
+abandon
+jeans
+damage
+negative
+aim
+unfair
+force
+melody |  
+| bip_39_word_new_line12 | cluster
+file
+rude
+abandon
+jeans
+damage
+negative
+aim
+unfair
+force
+melody
+anxiety |  
+| bip_39_word_new_line2 | cluster
+file |  
+| bip_39_word_new_line3 | cluster
+file
+rude |  
+| bip_39_word_new_line4 | cluster
+file
+rude
+abandon |  
+| bip_39_word_new_line5 | cluster
+file
+rude
+abandon
+jeans |  
+| bip_39_word_new_line6 | cluster
+file
+rude
+abandon
+jeans
+damage |  
+| bip_39_word_new_line7 | cluster
+file
+rude
+abandon
+jeans
+damage
+negative |  
+| bip_39_word_new_line8 | cluster
+file
+rude
+abandon
+jeans
+damage
+negative
+aim |  
+| bip_39_word_new_line9 | cluster
+file
+rude
+abandon
+jeans
+damage
+negative
+aim
+unfair |  
+| bip_39_word_space_0 | ['cluster', 'file', 'rude', 'abandon', 'jeans', 'damage', 'negative', 'aim', 'unfair', 'force', 'melody', 'anxiety'] |  
+| bip_39_word_space_1 | cluster |  
+| bip_39_word_space_10 | cluster file rude abandon jeans damage negative aim unfair force |  
+| bip_39_word_space_11 | cluster file rude abandon jeans damage negative aim unfair force melody |  
+| bip_39_word_space_12 | cluster file rude abandon jeans damage negative aim unfair force melody anxiety |  
+| bip_39_word_space_2 | cluster file |  
+| bip_39_word_space_3 | cluster file rude |  
+| bip_39_word_space_4 | cluster file rude abandon |  
+| bip_39_word_space_5 | cluster file rude abandon jeans |  
+| bip_39_word_space_6 | cluster file rude abandon jeans damage |  
+| bip_39_word_space_7 | cluster file rude abandon jeans damage negative |  
+| bip_39_word_space_8 | cluster file rude abandon jeans damage negative aim |  
+| bip_39_word_space_9 | cluster file rude abandon jeans damage negative aim unfair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

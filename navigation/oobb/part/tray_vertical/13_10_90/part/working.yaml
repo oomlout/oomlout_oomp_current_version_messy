@@ -1,3 +1,186 @@
+bip_39_word_new_br1: often
+bip_39_word_new_br10: often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect
+bip_39_word_new_br11: often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect<br>grab
+bip_39_word_new_br12: often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp<br>expect<br>grab<br>arrest
+bip_39_word_new_br2: often<br>romance
+bip_39_word_new_br3: often<br>romance<br>device
+bip_39_word_new_br4: often<br>romance<br>device<br>piano
+bip_39_word_new_br5: often<br>romance<br>device<br>piano<br>impulse
+bip_39_word_new_br6: often<br>romance<br>device<br>piano<br>impulse<br>song
+bip_39_word_new_br7: often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant
+bip_39_word_new_br8: often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave
+bip_39_word_new_br9: often<br>romance<br>device<br>piano<br>impulse<br>song<br>giant<br>behave<br>ramp
+bip_39_word_new_line1: often
+bip_39_word_new_line10: 'often
+
+  romance
+
+  device
+
+  piano
+
+  impulse
+
+  song
+
+  giant
+
+  behave
+
+  ramp
+
+  expect'
+bip_39_word_new_line11: 'often
+
+  romance
+
+  device
+
+  piano
+
+  impulse
+
+  song
+
+  giant
+
+  behave
+
+  ramp
+
+  expect
+
+  grab'
+bip_39_word_new_line12: 'often
+
+  romance
+
+  device
+
+  piano
+
+  impulse
+
+  song
+
+  giant
+
+  behave
+
+  ramp
+
+  expect
+
+  grab
+
+  arrest'
+bip_39_word_new_line2: 'often
+
+  romance'
+bip_39_word_new_line3: 'often
+
+  romance
+
+  device'
+bip_39_word_new_line4: 'often
+
+  romance
+
+  device
+
+  piano'
+bip_39_word_new_line5: 'often
+
+  romance
+
+  device
+
+  piano
+
+  impulse'
+bip_39_word_new_line6: 'often
+
+  romance
+
+  device
+
+  piano
+
+  impulse
+
+  song'
+bip_39_word_new_line7: 'often
+
+  romance
+
+  device
+
+  piano
+
+  impulse
+
+  song
+
+  giant'
+bip_39_word_new_line8: 'often
+
+  romance
+
+  device
+
+  piano
+
+  impulse
+
+  song
+
+  giant
+
+  behave'
+bip_39_word_new_line9: 'often
+
+  romance
+
+  device
+
+  piano
+
+  impulse
+
+  song
+
+  giant
+
+  behave
+
+  ramp'
+bip_39_word_space_0:
+- often
+- romance
+- device
+- piano
+- impulse
+- song
+- giant
+- behave
+- ramp
+- expect
+- grab
+- arrest
+bip_39_word_space_1: often
+bip_39_word_space_10: often romance device piano impulse song giant behave ramp expect
+bip_39_word_space_11: often romance device piano impulse song giant behave ramp expect
+  grab
+bip_39_word_space_12: often romance device piano impulse song giant behave ramp expect
+  grab arrest
+bip_39_word_space_2: often romance
+bip_39_word_space_3: often romance device
+bip_39_word_space_4: often romance device piano
+bip_39_word_space_5: often romance device piano impulse
+bip_39_word_space_6: often romance device piano impulse song
+bip_39_word_space_7: often romance device piano impulse song giant
+bip_39_word_space_8: often romance device piano impulse song giant behave
+bip_39_word_space_9: often romance device piano impulse song giant behave ramp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: x
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: card recycle
+  * bip 39 word 3: card recycle witness
+  * bip 39 word: card recycle witness tent input decade pause shed destroy purpose civil action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | card |  
+| bip_39_word_new_br10 | card<br>recycle<br>witness<br>tent<br>input<br>decade<br>pause<br>shed<br>destroy<br>purpose |  
+| bip_39_word_new_br11 | card<br>recycle<br>witness<br>tent<br>input<br>decade<br>pause<br>shed<br>destroy<br>purpose<br>civil |  
+| bip_39_word_new_br12 | card<br>recycle<br>witness<br>tent<br>input<br>decade<br>pause<br>shed<br>destroy<br>purpose<br>civil<br>action |  
+| bip_39_word_new_br2 | card<br>recycle |  
+| bip_39_word_new_br3 | card<br>recycle<br>witness |  
+| bip_39_word_new_br4 | card<br>recycle<br>witness<br>tent |  
+| bip_39_word_new_br5 | card<br>recycle<br>witness<br>tent<br>input |  
+| bip_39_word_new_br6 | card<br>recycle<br>witness<br>tent<br>input<br>decade |  
+| bip_39_word_new_br7 | card<br>recycle<br>witness<br>tent<br>input<br>decade<br>pause |  
+| bip_39_word_new_br8 | card<br>recycle<br>witness<br>tent<br>input<br>decade<br>pause<br>shed |  
+| bip_39_word_new_br9 | card<br>recycle<br>witness<br>tent<br>input<br>decade<br>pause<br>shed<br>destroy |  
+| bip_39_word_new_line1 | card |  
+| bip_39_word_new_line10 | card
+recycle
+witness
+tent
+input
+decade
+pause
+shed
+destroy
+purpose |  
+| bip_39_word_new_line11 | card
+recycle
+witness
+tent
+input
+decade
+pause
+shed
+destroy
+purpose
+civil |  
+| bip_39_word_new_line12 | card
+recycle
+witness
+tent
+input
+decade
+pause
+shed
+destroy
+purpose
+civil
+action |  
+| bip_39_word_new_line2 | card
+recycle |  
+| bip_39_word_new_line3 | card
+recycle
+witness |  
+| bip_39_word_new_line4 | card
+recycle
+witness
+tent |  
+| bip_39_word_new_line5 | card
+recycle
+witness
+tent
+input |  
+| bip_39_word_new_line6 | card
+recycle
+witness
+tent
+input
+decade |  
+| bip_39_word_new_line7 | card
+recycle
+witness
+tent
+input
+decade
+pause |  
+| bip_39_word_new_line8 | card
+recycle
+witness
+tent
+input
+decade
+pause
+shed |  
+| bip_39_word_new_line9 | card
+recycle
+witness
+tent
+input
+decade
+pause
+shed
+destroy |  
+| bip_39_word_space_0 | ['card', 'recycle', 'witness', 'tent', 'input', 'decade', 'pause', 'shed', 'destroy', 'purpose', 'civil', 'action'] |  
+| bip_39_word_space_1 | card |  
+| bip_39_word_space_10 | card recycle witness tent input decade pause shed destroy purpose |  
+| bip_39_word_space_11 | card recycle witness tent input decade pause shed destroy purpose civil |  
+| bip_39_word_space_12 | card recycle witness tent input decade pause shed destroy purpose civil action |  
+| bip_39_word_space_2 | card recycle |  
+| bip_39_word_space_3 | card recycle witness |  
+| bip_39_word_space_4 | card recycle witness tent |  
+| bip_39_word_space_5 | card recycle witness tent input |  
+| bip_39_word_space_6 | card recycle witness tent input decade |  
+| bip_39_word_space_7 | card recycle witness tent input decade pause |  
+| bip_39_word_space_8 | card recycle witness tent input decade pause shed |  
+| bip_39_word_space_9 | card recycle witness tent input decade pause shed destroy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

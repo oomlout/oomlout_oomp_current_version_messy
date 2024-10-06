@@ -1,3 +1,186 @@
+bip_39_word_new_br1: thunder
+bip_39_word_new_br10: thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat
+bip_39_word_new_br11: thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat<br>inject
+bip_39_word_new_br12: thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output<br>boat<br>inject<br>acoustic
+bip_39_word_new_br2: thunder<br>patch
+bip_39_word_new_br3: thunder<br>patch<br>scare
+bip_39_word_new_br4: thunder<br>patch<br>scare<br>odor
+bip_39_word_new_br5: thunder<br>patch<br>scare<br>odor<br>orphan
+bip_39_word_new_br6: thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge
+bip_39_word_new_br7: thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide
+bip_39_word_new_br8: thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry
+bip_39_word_new_br9: thunder<br>patch<br>scare<br>odor<br>orphan<br>lounge<br>glide<br>hurry<br>output
+bip_39_word_new_line1: thunder
+bip_39_word_new_line10: 'thunder
+
+  patch
+
+  scare
+
+  odor
+
+  orphan
+
+  lounge
+
+  glide
+
+  hurry
+
+  output
+
+  boat'
+bip_39_word_new_line11: 'thunder
+
+  patch
+
+  scare
+
+  odor
+
+  orphan
+
+  lounge
+
+  glide
+
+  hurry
+
+  output
+
+  boat
+
+  inject'
+bip_39_word_new_line12: 'thunder
+
+  patch
+
+  scare
+
+  odor
+
+  orphan
+
+  lounge
+
+  glide
+
+  hurry
+
+  output
+
+  boat
+
+  inject
+
+  acoustic'
+bip_39_word_new_line2: 'thunder
+
+  patch'
+bip_39_word_new_line3: 'thunder
+
+  patch
+
+  scare'
+bip_39_word_new_line4: 'thunder
+
+  patch
+
+  scare
+
+  odor'
+bip_39_word_new_line5: 'thunder
+
+  patch
+
+  scare
+
+  odor
+
+  orphan'
+bip_39_word_new_line6: 'thunder
+
+  patch
+
+  scare
+
+  odor
+
+  orphan
+
+  lounge'
+bip_39_word_new_line7: 'thunder
+
+  patch
+
+  scare
+
+  odor
+
+  orphan
+
+  lounge
+
+  glide'
+bip_39_word_new_line8: 'thunder
+
+  patch
+
+  scare
+
+  odor
+
+  orphan
+
+  lounge
+
+  glide
+
+  hurry'
+bip_39_word_new_line9: 'thunder
+
+  patch
+
+  scare
+
+  odor
+
+  orphan
+
+  lounge
+
+  glide
+
+  hurry
+
+  output'
+bip_39_word_space_0:
+- thunder
+- patch
+- scare
+- odor
+- orphan
+- lounge
+- glide
+- hurry
+- output
+- boat
+- inject
+- acoustic
+bip_39_word_space_1: thunder
+bip_39_word_space_10: thunder patch scare odor orphan lounge glide hurry output boat
+bip_39_word_space_11: thunder patch scare odor orphan lounge glide hurry output boat
+  inject
+bip_39_word_space_12: thunder patch scare odor orphan lounge glide hurry output boat
+  inject acoustic
+bip_39_word_space_2: thunder patch
+bip_39_word_space_3: thunder patch scare
+bip_39_word_space_4: thunder patch scare odor
+bip_39_word_space_5: thunder patch scare odor orphan
+bip_39_word_space_6: thunder patch scare odor orphan lounge
+bip_39_word_space_7: thunder patch scare odor orphan lounge glide
+bip_39_word_space_8: thunder patch scare odor orphan lounge glide hurry
+bip_39_word_space_9: thunder patch scare odor orphan lounge glide hurry output
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

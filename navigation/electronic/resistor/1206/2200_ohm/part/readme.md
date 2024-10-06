@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: any valley
+  * bip 39 word 3: any valley spatial
+  * bip 39 word: any valley spatial network color receive plug sail poem human impulse assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | any |  
+| bip_39_word_new_br10 | any<br>valley<br>spatial<br>network<br>color<br>receive<br>plug<br>sail<br>poem<br>human |  
+| bip_39_word_new_br11 | any<br>valley<br>spatial<br>network<br>color<br>receive<br>plug<br>sail<br>poem<br>human<br>impulse |  
+| bip_39_word_new_br12 | any<br>valley<br>spatial<br>network<br>color<br>receive<br>plug<br>sail<br>poem<br>human<br>impulse<br>assume |  
+| bip_39_word_new_br2 | any<br>valley |  
+| bip_39_word_new_br3 | any<br>valley<br>spatial |  
+| bip_39_word_new_br4 | any<br>valley<br>spatial<br>network |  
+| bip_39_word_new_br5 | any<br>valley<br>spatial<br>network<br>color |  
+| bip_39_word_new_br6 | any<br>valley<br>spatial<br>network<br>color<br>receive |  
+| bip_39_word_new_br7 | any<br>valley<br>spatial<br>network<br>color<br>receive<br>plug |  
+| bip_39_word_new_br8 | any<br>valley<br>spatial<br>network<br>color<br>receive<br>plug<br>sail |  
+| bip_39_word_new_br9 | any<br>valley<br>spatial<br>network<br>color<br>receive<br>plug<br>sail<br>poem |  
+| bip_39_word_new_line1 | any |  
+| bip_39_word_new_line10 | any
+valley
+spatial
+network
+color
+receive
+plug
+sail
+poem
+human |  
+| bip_39_word_new_line11 | any
+valley
+spatial
+network
+color
+receive
+plug
+sail
+poem
+human
+impulse |  
+| bip_39_word_new_line12 | any
+valley
+spatial
+network
+color
+receive
+plug
+sail
+poem
+human
+impulse
+assume |  
+| bip_39_word_new_line2 | any
+valley |  
+| bip_39_word_new_line3 | any
+valley
+spatial |  
+| bip_39_word_new_line4 | any
+valley
+spatial
+network |  
+| bip_39_word_new_line5 | any
+valley
+spatial
+network
+color |  
+| bip_39_word_new_line6 | any
+valley
+spatial
+network
+color
+receive |  
+| bip_39_word_new_line7 | any
+valley
+spatial
+network
+color
+receive
+plug |  
+| bip_39_word_new_line8 | any
+valley
+spatial
+network
+color
+receive
+plug
+sail |  
+| bip_39_word_new_line9 | any
+valley
+spatial
+network
+color
+receive
+plug
+sail
+poem |  
+| bip_39_word_space_0 | ['any', 'valley', 'spatial', 'network', 'color', 'receive', 'plug', 'sail', 'poem', 'human', 'impulse', 'assume'] |  
+| bip_39_word_space_1 | any |  
+| bip_39_word_space_10 | any valley spatial network color receive plug sail poem human |  
+| bip_39_word_space_11 | any valley spatial network color receive plug sail poem human impulse |  
+| bip_39_word_space_12 | any valley spatial network color receive plug sail poem human impulse assume |  
+| bip_39_word_space_2 | any valley |  
+| bip_39_word_space_3 | any valley spatial |  
+| bip_39_word_space_4 | any valley spatial network |  
+| bip_39_word_space_5 | any valley spatial network color |  
+| bip_39_word_space_6 | any valley spatial network color receive |  
+| bip_39_word_space_7 | any valley spatial network color receive plug |  
+| bip_39_word_space_8 | any valley spatial network color receive plug sail |  
+| bip_39_word_space_9 | any valley spatial network color receive plug sail poem |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

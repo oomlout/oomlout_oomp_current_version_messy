@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scatter vicious
+  * bip 39 word 3: scatter vicious soul
+  * bip 39 word: scatter vicious soul once velvet wrap genius crane resist spare grain abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scatter |  
+| bip_39_word_new_br10 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare |  
+| bip_39_word_new_br11 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare<br>grain |  
+| bip_39_word_new_br12 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist<br>spare<br>grain<br>abstract |  
+| bip_39_word_new_br2 | scatter<br>vicious |  
+| bip_39_word_new_br3 | scatter<br>vicious<br>soul |  
+| bip_39_word_new_br4 | scatter<br>vicious<br>soul<br>once |  
+| bip_39_word_new_br5 | scatter<br>vicious<br>soul<br>once<br>velvet |  
+| bip_39_word_new_br6 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap |  
+| bip_39_word_new_br7 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius |  
+| bip_39_word_new_br8 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane |  
+| bip_39_word_new_br9 | scatter<br>vicious<br>soul<br>once<br>velvet<br>wrap<br>genius<br>crane<br>resist |  
+| bip_39_word_new_line1 | scatter |  
+| bip_39_word_new_line10 | scatter
+vicious
+soul
+once
+velvet
+wrap
+genius
+crane
+resist
+spare |  
+| bip_39_word_new_line11 | scatter
+vicious
+soul
+once
+velvet
+wrap
+genius
+crane
+resist
+spare
+grain |  
+| bip_39_word_new_line12 | scatter
+vicious
+soul
+once
+velvet
+wrap
+genius
+crane
+resist
+spare
+grain
+abstract |  
+| bip_39_word_new_line2 | scatter
+vicious |  
+| bip_39_word_new_line3 | scatter
+vicious
+soul |  
+| bip_39_word_new_line4 | scatter
+vicious
+soul
+once |  
+| bip_39_word_new_line5 | scatter
+vicious
+soul
+once
+velvet |  
+| bip_39_word_new_line6 | scatter
+vicious
+soul
+once
+velvet
+wrap |  
+| bip_39_word_new_line7 | scatter
+vicious
+soul
+once
+velvet
+wrap
+genius |  
+| bip_39_word_new_line8 | scatter
+vicious
+soul
+once
+velvet
+wrap
+genius
+crane |  
+| bip_39_word_new_line9 | scatter
+vicious
+soul
+once
+velvet
+wrap
+genius
+crane
+resist |  
+| bip_39_word_space_0 | ['scatter', 'vicious', 'soul', 'once', 'velvet', 'wrap', 'genius', 'crane', 'resist', 'spare', 'grain', 'abstract'] |  
+| bip_39_word_space_1 | scatter |  
+| bip_39_word_space_10 | scatter vicious soul once velvet wrap genius crane resist spare |  
+| bip_39_word_space_11 | scatter vicious soul once velvet wrap genius crane resist spare grain |  
+| bip_39_word_space_12 | scatter vicious soul once velvet wrap genius crane resist spare grain abstract |  
+| bip_39_word_space_2 | scatter vicious |  
+| bip_39_word_space_3 | scatter vicious soul |  
+| bip_39_word_space_4 | scatter vicious soul once |  
+| bip_39_word_space_5 | scatter vicious soul once velvet |  
+| bip_39_word_space_6 | scatter vicious soul once velvet wrap |  
+| bip_39_word_space_7 | scatter vicious soul once velvet wrap genius |  
+| bip_39_word_space_8 | scatter vicious soul once velvet wrap genius crane |  
+| bip_39_word_space_9 | scatter vicious soul once velvet wrap genius crane resist |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

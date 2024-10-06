@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: leg differ
+  * bip 39 word 3: leg differ inside
+  * bip 39 word: leg differ inside fiction practice dwarf tip yellow relief eager chase amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | leg |  
+| bip_39_word_new_br10 | leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf<br>tip<br>yellow<br>relief<br>eager |  
+| bip_39_word_new_br11 | leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf<br>tip<br>yellow<br>relief<br>eager<br>chase |  
+| bip_39_word_new_br12 | leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf<br>tip<br>yellow<br>relief<br>eager<br>chase<br>amount |  
+| bip_39_word_new_br2 | leg<br>differ |  
+| bip_39_word_new_br3 | leg<br>differ<br>inside |  
+| bip_39_word_new_br4 | leg<br>differ<br>inside<br>fiction |  
+| bip_39_word_new_br5 | leg<br>differ<br>inside<br>fiction<br>practice |  
+| bip_39_word_new_br6 | leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf |  
+| bip_39_word_new_br7 | leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf<br>tip |  
+| bip_39_word_new_br8 | leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf<br>tip<br>yellow |  
+| bip_39_word_new_br9 | leg<br>differ<br>inside<br>fiction<br>practice<br>dwarf<br>tip<br>yellow<br>relief |  
+| bip_39_word_new_line1 | leg |  
+| bip_39_word_new_line10 | leg
+differ
+inside
+fiction
+practice
+dwarf
+tip
+yellow
+relief
+eager |  
+| bip_39_word_new_line11 | leg
+differ
+inside
+fiction
+practice
+dwarf
+tip
+yellow
+relief
+eager
+chase |  
+| bip_39_word_new_line12 | leg
+differ
+inside
+fiction
+practice
+dwarf
+tip
+yellow
+relief
+eager
+chase
+amount |  
+| bip_39_word_new_line2 | leg
+differ |  
+| bip_39_word_new_line3 | leg
+differ
+inside |  
+| bip_39_word_new_line4 | leg
+differ
+inside
+fiction |  
+| bip_39_word_new_line5 | leg
+differ
+inside
+fiction
+practice |  
+| bip_39_word_new_line6 | leg
+differ
+inside
+fiction
+practice
+dwarf |  
+| bip_39_word_new_line7 | leg
+differ
+inside
+fiction
+practice
+dwarf
+tip |  
+| bip_39_word_new_line8 | leg
+differ
+inside
+fiction
+practice
+dwarf
+tip
+yellow |  
+| bip_39_word_new_line9 | leg
+differ
+inside
+fiction
+practice
+dwarf
+tip
+yellow
+relief |  
+| bip_39_word_space_0 | ['leg', 'differ', 'inside', 'fiction', 'practice', 'dwarf', 'tip', 'yellow', 'relief', 'eager', 'chase', 'amount'] |  
+| bip_39_word_space_1 | leg |  
+| bip_39_word_space_10 | leg differ inside fiction practice dwarf tip yellow relief eager |  
+| bip_39_word_space_11 | leg differ inside fiction practice dwarf tip yellow relief eager chase |  
+| bip_39_word_space_12 | leg differ inside fiction practice dwarf tip yellow relief eager chase amount |  
+| bip_39_word_space_2 | leg differ |  
+| bip_39_word_space_3 | leg differ inside |  
+| bip_39_word_space_4 | leg differ inside fiction |  
+| bip_39_word_space_5 | leg differ inside fiction practice |  
+| bip_39_word_space_6 | leg differ inside fiction practice dwarf |  
+| bip_39_word_space_7 | leg differ inside fiction practice dwarf tip |  
+| bip_39_word_space_8 | leg differ inside fiction practice dwarf tip yellow |  
+| bip_39_word_space_9 | leg differ inside fiction practice dwarf tip yellow relief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

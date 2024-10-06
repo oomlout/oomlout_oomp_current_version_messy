@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: twice task
+  * bip 39 word 3: twice task picnic
+  * bip 39 word: twice task picnic fine hidden able defy series eagle trap weather acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | twice |  
+| bip_39_word_new_br10 | twice<br>task<br>picnic<br>fine<br>hidden<br>able<br>defy<br>series<br>eagle<br>trap |  
+| bip_39_word_new_br11 | twice<br>task<br>picnic<br>fine<br>hidden<br>able<br>defy<br>series<br>eagle<br>trap<br>weather |  
+| bip_39_word_new_br12 | twice<br>task<br>picnic<br>fine<br>hidden<br>able<br>defy<br>series<br>eagle<br>trap<br>weather<br>acquire |  
+| bip_39_word_new_br2 | twice<br>task |  
+| bip_39_word_new_br3 | twice<br>task<br>picnic |  
+| bip_39_word_new_br4 | twice<br>task<br>picnic<br>fine |  
+| bip_39_word_new_br5 | twice<br>task<br>picnic<br>fine<br>hidden |  
+| bip_39_word_new_br6 | twice<br>task<br>picnic<br>fine<br>hidden<br>able |  
+| bip_39_word_new_br7 | twice<br>task<br>picnic<br>fine<br>hidden<br>able<br>defy |  
+| bip_39_word_new_br8 | twice<br>task<br>picnic<br>fine<br>hidden<br>able<br>defy<br>series |  
+| bip_39_word_new_br9 | twice<br>task<br>picnic<br>fine<br>hidden<br>able<br>defy<br>series<br>eagle |  
+| bip_39_word_new_line1 | twice |  
+| bip_39_word_new_line10 | twice
+task
+picnic
+fine
+hidden
+able
+defy
+series
+eagle
+trap |  
+| bip_39_word_new_line11 | twice
+task
+picnic
+fine
+hidden
+able
+defy
+series
+eagle
+trap
+weather |  
+| bip_39_word_new_line12 | twice
+task
+picnic
+fine
+hidden
+able
+defy
+series
+eagle
+trap
+weather
+acquire |  
+| bip_39_word_new_line2 | twice
+task |  
+| bip_39_word_new_line3 | twice
+task
+picnic |  
+| bip_39_word_new_line4 | twice
+task
+picnic
+fine |  
+| bip_39_word_new_line5 | twice
+task
+picnic
+fine
+hidden |  
+| bip_39_word_new_line6 | twice
+task
+picnic
+fine
+hidden
+able |  
+| bip_39_word_new_line7 | twice
+task
+picnic
+fine
+hidden
+able
+defy |  
+| bip_39_word_new_line8 | twice
+task
+picnic
+fine
+hidden
+able
+defy
+series |  
+| bip_39_word_new_line9 | twice
+task
+picnic
+fine
+hidden
+able
+defy
+series
+eagle |  
+| bip_39_word_space_0 | ['twice', 'task', 'picnic', 'fine', 'hidden', 'able', 'defy', 'series', 'eagle', 'trap', 'weather', 'acquire'] |  
+| bip_39_word_space_1 | twice |  
+| bip_39_word_space_10 | twice task picnic fine hidden able defy series eagle trap |  
+| bip_39_word_space_11 | twice task picnic fine hidden able defy series eagle trap weather |  
+| bip_39_word_space_12 | twice task picnic fine hidden able defy series eagle trap weather acquire |  
+| bip_39_word_space_2 | twice task |  
+| bip_39_word_space_3 | twice task picnic |  
+| bip_39_word_space_4 | twice task picnic fine |  
+| bip_39_word_space_5 | twice task picnic fine hidden |  
+| bip_39_word_space_6 | twice task picnic fine hidden able |  
+| bip_39_word_space_7 | twice task picnic fine hidden able defy |  
+| bip_39_word_space_8 | twice task picnic fine hidden able defy series |  
+| bip_39_word_space_9 | twice task picnic fine hidden able defy series eagle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

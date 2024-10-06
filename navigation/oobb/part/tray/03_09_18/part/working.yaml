@@ -1,3 +1,187 @@
+bip_39_word_new_br1: awkward
+bip_39_word_new_br10: awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust
+bip_39_word_new_br11: awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust<br>biology
+bip_39_word_new_br12: awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion<br>exhaust<br>biology<br>atom
+bip_39_word_new_br2: awkward<br>explain
+bip_39_word_new_br3: awkward<br>explain<br>cotton
+bip_39_word_new_br4: awkward<br>explain<br>cotton<br>effort
+bip_39_word_new_br5: awkward<br>explain<br>cotton<br>effort<br>evil
+bip_39_word_new_br6: awkward<br>explain<br>cotton<br>effort<br>evil<br>need
+bip_39_word_new_br7: awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much
+bip_39_word_new_br8: awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist
+bip_39_word_new_br9: awkward<br>explain<br>cotton<br>effort<br>evil<br>need<br>much<br>tourist<br>reunion
+bip_39_word_new_line1: awkward
+bip_39_word_new_line10: 'awkward
+
+  explain
+
+  cotton
+
+  effort
+
+  evil
+
+  need
+
+  much
+
+  tourist
+
+  reunion
+
+  exhaust'
+bip_39_word_new_line11: 'awkward
+
+  explain
+
+  cotton
+
+  effort
+
+  evil
+
+  need
+
+  much
+
+  tourist
+
+  reunion
+
+  exhaust
+
+  biology'
+bip_39_word_new_line12: 'awkward
+
+  explain
+
+  cotton
+
+  effort
+
+  evil
+
+  need
+
+  much
+
+  tourist
+
+  reunion
+
+  exhaust
+
+  biology
+
+  atom'
+bip_39_word_new_line2: 'awkward
+
+  explain'
+bip_39_word_new_line3: 'awkward
+
+  explain
+
+  cotton'
+bip_39_word_new_line4: 'awkward
+
+  explain
+
+  cotton
+
+  effort'
+bip_39_word_new_line5: 'awkward
+
+  explain
+
+  cotton
+
+  effort
+
+  evil'
+bip_39_word_new_line6: 'awkward
+
+  explain
+
+  cotton
+
+  effort
+
+  evil
+
+  need'
+bip_39_word_new_line7: 'awkward
+
+  explain
+
+  cotton
+
+  effort
+
+  evil
+
+  need
+
+  much'
+bip_39_word_new_line8: 'awkward
+
+  explain
+
+  cotton
+
+  effort
+
+  evil
+
+  need
+
+  much
+
+  tourist'
+bip_39_word_new_line9: 'awkward
+
+  explain
+
+  cotton
+
+  effort
+
+  evil
+
+  need
+
+  much
+
+  tourist
+
+  reunion'
+bip_39_word_space_0:
+- awkward
+- explain
+- cotton
+- effort
+- evil
+- need
+- much
+- tourist
+- reunion
+- exhaust
+- biology
+- atom
+bip_39_word_space_1: awkward
+bip_39_word_space_10: awkward explain cotton effort evil need much tourist reunion
+  exhaust
+bip_39_word_space_11: awkward explain cotton effort evil need much tourist reunion
+  exhaust biology
+bip_39_word_space_12: awkward explain cotton effort evil need much tourist reunion
+  exhaust biology atom
+bip_39_word_space_2: awkward explain
+bip_39_word_space_3: awkward explain cotton
+bip_39_word_space_4: awkward explain cotton effort
+bip_39_word_space_5: awkward explain cotton effort evil
+bip_39_word_space_6: awkward explain cotton effort evil need
+bip_39_word_space_7: awkward explain cotton effort evil need much
+bip_39_word_space_8: awkward explain cotton effort evil need much tourist
+bip_39_word_space_9: awkward explain cotton effort evil need much tourist reunion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

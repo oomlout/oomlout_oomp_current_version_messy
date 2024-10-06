@@ -1,3 +1,186 @@
+bip_39_word_new_br1: aunt
+bip_39_word_new_br10: aunt<br>glare<br>autumn<br>all<br>model<br>dinner<br>forum<br>around<br>cause<br>lumber
+bip_39_word_new_br11: aunt<br>glare<br>autumn<br>all<br>model<br>dinner<br>forum<br>around<br>cause<br>lumber<br>vote
+bip_39_word_new_br12: aunt<br>glare<br>autumn<br>all<br>model<br>dinner<br>forum<br>around<br>cause<br>lumber<br>vote<br>again
+bip_39_word_new_br2: aunt<br>glare
+bip_39_word_new_br3: aunt<br>glare<br>autumn
+bip_39_word_new_br4: aunt<br>glare<br>autumn<br>all
+bip_39_word_new_br5: aunt<br>glare<br>autumn<br>all<br>model
+bip_39_word_new_br6: aunt<br>glare<br>autumn<br>all<br>model<br>dinner
+bip_39_word_new_br7: aunt<br>glare<br>autumn<br>all<br>model<br>dinner<br>forum
+bip_39_word_new_br8: aunt<br>glare<br>autumn<br>all<br>model<br>dinner<br>forum<br>around
+bip_39_word_new_br9: aunt<br>glare<br>autumn<br>all<br>model<br>dinner<br>forum<br>around<br>cause
+bip_39_word_new_line1: aunt
+bip_39_word_new_line10: 'aunt
+
+  glare
+
+  autumn
+
+  all
+
+  model
+
+  dinner
+
+  forum
+
+  around
+
+  cause
+
+  lumber'
+bip_39_word_new_line11: 'aunt
+
+  glare
+
+  autumn
+
+  all
+
+  model
+
+  dinner
+
+  forum
+
+  around
+
+  cause
+
+  lumber
+
+  vote'
+bip_39_word_new_line12: 'aunt
+
+  glare
+
+  autumn
+
+  all
+
+  model
+
+  dinner
+
+  forum
+
+  around
+
+  cause
+
+  lumber
+
+  vote
+
+  again'
+bip_39_word_new_line2: 'aunt
+
+  glare'
+bip_39_word_new_line3: 'aunt
+
+  glare
+
+  autumn'
+bip_39_word_new_line4: 'aunt
+
+  glare
+
+  autumn
+
+  all'
+bip_39_word_new_line5: 'aunt
+
+  glare
+
+  autumn
+
+  all
+
+  model'
+bip_39_word_new_line6: 'aunt
+
+  glare
+
+  autumn
+
+  all
+
+  model
+
+  dinner'
+bip_39_word_new_line7: 'aunt
+
+  glare
+
+  autumn
+
+  all
+
+  model
+
+  dinner
+
+  forum'
+bip_39_word_new_line8: 'aunt
+
+  glare
+
+  autumn
+
+  all
+
+  model
+
+  dinner
+
+  forum
+
+  around'
+bip_39_word_new_line9: 'aunt
+
+  glare
+
+  autumn
+
+  all
+
+  model
+
+  dinner
+
+  forum
+
+  around
+
+  cause'
+bip_39_word_space_0:
+- aunt
+- glare
+- autumn
+- all
+- model
+- dinner
+- forum
+- around
+- cause
+- lumber
+- vote
+- again
+bip_39_word_space_1: aunt
+bip_39_word_space_10: aunt glare autumn all model dinner forum around cause lumber
+bip_39_word_space_11: aunt glare autumn all model dinner forum around cause lumber
+  vote
+bip_39_word_space_12: aunt glare autumn all model dinner forum around cause lumber
+  vote again
+bip_39_word_space_2: aunt glare
+bip_39_word_space_3: aunt glare autumn
+bip_39_word_space_4: aunt glare autumn all
+bip_39_word_space_5: aunt glare autumn all model
+bip_39_word_space_6: aunt glare autumn all model dinner
+bip_39_word_space_7: aunt glare autumn all model dinner forum
+bip_39_word_space_8: aunt glare autumn all model dinner forum around
+bip_39_word_space_9: aunt glare autumn all model dinner forum around cause
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

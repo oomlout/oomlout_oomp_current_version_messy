@@ -1,3 +1,186 @@
+bip_39_word_new_br1: elder
+bip_39_word_new_br10: elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label
+bip_39_word_new_br11: elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label<br>ride
+bip_39_word_new_br12: elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn<br>label<br>ride<br>album
+bip_39_word_new_br2: elder<br>size
+bip_39_word_new_br3: elder<br>size<br>just
+bip_39_word_new_br4: elder<br>size<br>just<br>expose
+bip_39_word_new_br5: elder<br>size<br>just<br>expose<br>position
+bip_39_word_new_br6: elder<br>size<br>just<br>expose<br>position<br>erase
+bip_39_word_new_br7: elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome
+bip_39_word_new_br8: elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon
+bip_39_word_new_br9: elder<br>size<br>just<br>expose<br>position<br>erase<br>welcome<br>soon<br>horn
+bip_39_word_new_line1: elder
+bip_39_word_new_line10: 'elder
+
+  size
+
+  just
+
+  expose
+
+  position
+
+  erase
+
+  welcome
+
+  soon
+
+  horn
+
+  label'
+bip_39_word_new_line11: 'elder
+
+  size
+
+  just
+
+  expose
+
+  position
+
+  erase
+
+  welcome
+
+  soon
+
+  horn
+
+  label
+
+  ride'
+bip_39_word_new_line12: 'elder
+
+  size
+
+  just
+
+  expose
+
+  position
+
+  erase
+
+  welcome
+
+  soon
+
+  horn
+
+  label
+
+  ride
+
+  album'
+bip_39_word_new_line2: 'elder
+
+  size'
+bip_39_word_new_line3: 'elder
+
+  size
+
+  just'
+bip_39_word_new_line4: 'elder
+
+  size
+
+  just
+
+  expose'
+bip_39_word_new_line5: 'elder
+
+  size
+
+  just
+
+  expose
+
+  position'
+bip_39_word_new_line6: 'elder
+
+  size
+
+  just
+
+  expose
+
+  position
+
+  erase'
+bip_39_word_new_line7: 'elder
+
+  size
+
+  just
+
+  expose
+
+  position
+
+  erase
+
+  welcome'
+bip_39_word_new_line8: 'elder
+
+  size
+
+  just
+
+  expose
+
+  position
+
+  erase
+
+  welcome
+
+  soon'
+bip_39_word_new_line9: 'elder
+
+  size
+
+  just
+
+  expose
+
+  position
+
+  erase
+
+  welcome
+
+  soon
+
+  horn'
+bip_39_word_space_0:
+- elder
+- size
+- just
+- expose
+- position
+- erase
+- welcome
+- soon
+- horn
+- label
+- ride
+- album
+bip_39_word_space_1: elder
+bip_39_word_space_10: elder size just expose position erase welcome soon horn label
+bip_39_word_space_11: elder size just expose position erase welcome soon horn label
+  ride
+bip_39_word_space_12: elder size just expose position erase welcome soon horn label
+  ride album
+bip_39_word_space_2: elder size
+bip_39_word_space_3: elder size just
+bip_39_word_space_4: elder size just expose
+bip_39_word_space_5: elder size just expose position
+bip_39_word_space_6: elder size just expose position erase
+bip_39_word_space_7: elder size just expose position erase welcome
+bip_39_word_space_8: elder size just expose position erase welcome soon
+bip_39_word_space_9: elder size just expose position erase welcome soon horn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

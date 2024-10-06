@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fetch
+bip_39_word_new_br10: fetch<br>valid<br>put<br>mom<br>useful<br>very<br>inhale<br>pet<br>drastic<br>cute
+bip_39_word_new_br11: fetch<br>valid<br>put<br>mom<br>useful<br>very<br>inhale<br>pet<br>drastic<br>cute<br>spring
+bip_39_word_new_br12: fetch<br>valid<br>put<br>mom<br>useful<br>very<br>inhale<br>pet<br>drastic<br>cute<br>spring<br>amazing
+bip_39_word_new_br2: fetch<br>valid
+bip_39_word_new_br3: fetch<br>valid<br>put
+bip_39_word_new_br4: fetch<br>valid<br>put<br>mom
+bip_39_word_new_br5: fetch<br>valid<br>put<br>mom<br>useful
+bip_39_word_new_br6: fetch<br>valid<br>put<br>mom<br>useful<br>very
+bip_39_word_new_br7: fetch<br>valid<br>put<br>mom<br>useful<br>very<br>inhale
+bip_39_word_new_br8: fetch<br>valid<br>put<br>mom<br>useful<br>very<br>inhale<br>pet
+bip_39_word_new_br9: fetch<br>valid<br>put<br>mom<br>useful<br>very<br>inhale<br>pet<br>drastic
+bip_39_word_new_line1: fetch
+bip_39_word_new_line10: 'fetch
+
+  valid
+
+  put
+
+  mom
+
+  useful
+
+  very
+
+  inhale
+
+  pet
+
+  drastic
+
+  cute'
+bip_39_word_new_line11: 'fetch
+
+  valid
+
+  put
+
+  mom
+
+  useful
+
+  very
+
+  inhale
+
+  pet
+
+  drastic
+
+  cute
+
+  spring'
+bip_39_word_new_line12: 'fetch
+
+  valid
+
+  put
+
+  mom
+
+  useful
+
+  very
+
+  inhale
+
+  pet
+
+  drastic
+
+  cute
+
+  spring
+
+  amazing'
+bip_39_word_new_line2: 'fetch
+
+  valid'
+bip_39_word_new_line3: 'fetch
+
+  valid
+
+  put'
+bip_39_word_new_line4: 'fetch
+
+  valid
+
+  put
+
+  mom'
+bip_39_word_new_line5: 'fetch
+
+  valid
+
+  put
+
+  mom
+
+  useful'
+bip_39_word_new_line6: 'fetch
+
+  valid
+
+  put
+
+  mom
+
+  useful
+
+  very'
+bip_39_word_new_line7: 'fetch
+
+  valid
+
+  put
+
+  mom
+
+  useful
+
+  very
+
+  inhale'
+bip_39_word_new_line8: 'fetch
+
+  valid
+
+  put
+
+  mom
+
+  useful
+
+  very
+
+  inhale
+
+  pet'
+bip_39_word_new_line9: 'fetch
+
+  valid
+
+  put
+
+  mom
+
+  useful
+
+  very
+
+  inhale
+
+  pet
+
+  drastic'
+bip_39_word_space_0:
+- fetch
+- valid
+- put
+- mom
+- useful
+- very
+- inhale
+- pet
+- drastic
+- cute
+- spring
+- amazing
+bip_39_word_space_1: fetch
+bip_39_word_space_10: fetch valid put mom useful very inhale pet drastic cute
+bip_39_word_space_11: fetch valid put mom useful very inhale pet drastic cute spring
+bip_39_word_space_12: fetch valid put mom useful very inhale pet drastic cute spring
+  amazing
+bip_39_word_space_2: fetch valid
+bip_39_word_space_3: fetch valid put
+bip_39_word_space_4: fetch valid put mom
+bip_39_word_space_5: fetch valid put mom useful
+bip_39_word_space_6: fetch valid put mom useful very
+bip_39_word_space_7: fetch valid put mom useful very inhale
+bip_39_word_space_8: fetch valid put mom useful very inhale pet
+bip_39_word_space_9: fetch valid put mom useful very inhale pet drastic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

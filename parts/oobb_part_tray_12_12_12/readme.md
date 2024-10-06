@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: people expect
+  * bip 39 word 3: people expect wet
+  * bip 39 word: people expect wet pond gain young humble region science trick wealth armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | people |  
+| bip_39_word_new_br10 | people<br>expect<br>wet<br>pond<br>gain<br>young<br>humble<br>region<br>science<br>trick |  
+| bip_39_word_new_br11 | people<br>expect<br>wet<br>pond<br>gain<br>young<br>humble<br>region<br>science<br>trick<br>wealth |  
+| bip_39_word_new_br12 | people<br>expect<br>wet<br>pond<br>gain<br>young<br>humble<br>region<br>science<br>trick<br>wealth<br>armed |  
+| bip_39_word_new_br2 | people<br>expect |  
+| bip_39_word_new_br3 | people<br>expect<br>wet |  
+| bip_39_word_new_br4 | people<br>expect<br>wet<br>pond |  
+| bip_39_word_new_br5 | people<br>expect<br>wet<br>pond<br>gain |  
+| bip_39_word_new_br6 | people<br>expect<br>wet<br>pond<br>gain<br>young |  
+| bip_39_word_new_br7 | people<br>expect<br>wet<br>pond<br>gain<br>young<br>humble |  
+| bip_39_word_new_br8 | people<br>expect<br>wet<br>pond<br>gain<br>young<br>humble<br>region |  
+| bip_39_word_new_br9 | people<br>expect<br>wet<br>pond<br>gain<br>young<br>humble<br>region<br>science |  
+| bip_39_word_new_line1 | people |  
+| bip_39_word_new_line10 | people
+expect
+wet
+pond
+gain
+young
+humble
+region
+science
+trick |  
+| bip_39_word_new_line11 | people
+expect
+wet
+pond
+gain
+young
+humble
+region
+science
+trick
+wealth |  
+| bip_39_word_new_line12 | people
+expect
+wet
+pond
+gain
+young
+humble
+region
+science
+trick
+wealth
+armed |  
+| bip_39_word_new_line2 | people
+expect |  
+| bip_39_word_new_line3 | people
+expect
+wet |  
+| bip_39_word_new_line4 | people
+expect
+wet
+pond |  
+| bip_39_word_new_line5 | people
+expect
+wet
+pond
+gain |  
+| bip_39_word_new_line6 | people
+expect
+wet
+pond
+gain
+young |  
+| bip_39_word_new_line7 | people
+expect
+wet
+pond
+gain
+young
+humble |  
+| bip_39_word_new_line8 | people
+expect
+wet
+pond
+gain
+young
+humble
+region |  
+| bip_39_word_new_line9 | people
+expect
+wet
+pond
+gain
+young
+humble
+region
+science |  
+| bip_39_word_space_0 | ['people', 'expect', 'wet', 'pond', 'gain', 'young', 'humble', 'region', 'science', 'trick', 'wealth', 'armed'] |  
+| bip_39_word_space_1 | people |  
+| bip_39_word_space_10 | people expect wet pond gain young humble region science trick |  
+| bip_39_word_space_11 | people expect wet pond gain young humble region science trick wealth |  
+| bip_39_word_space_12 | people expect wet pond gain young humble region science trick wealth armed |  
+| bip_39_word_space_2 | people expect |  
+| bip_39_word_space_3 | people expect wet |  
+| bip_39_word_space_4 | people expect wet pond |  
+| bip_39_word_space_5 | people expect wet pond gain |  
+| bip_39_word_space_6 | people expect wet pond gain young |  
+| bip_39_word_space_7 | people expect wet pond gain young humble |  
+| bip_39_word_space_8 | people expect wet pond gain young humble region |  
+| bip_39_word_space_9 | people expect wet pond gain young humble region science |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

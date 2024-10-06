@@ -1,3 +1,186 @@
+bip_39_word_new_br1: abstract
+bip_39_word_new_br10: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill<br>lizard<br>sea<br>claw<br>limit
+bip_39_word_new_br11: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill<br>lizard<br>sea<br>claw<br>limit<br>winner
+bip_39_word_new_br12: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill<br>lizard<br>sea<br>claw<br>limit<br>winner<br>act
+bip_39_word_new_br2: abstract<br>yard
+bip_39_word_new_br3: abstract<br>yard<br>vehicle
+bip_39_word_new_br4: abstract<br>yard<br>vehicle<br>junk
+bip_39_word_new_br5: abstract<br>yard<br>vehicle<br>junk<br>labor
+bip_39_word_new_br6: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill
+bip_39_word_new_br7: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill<br>lizard
+bip_39_word_new_br8: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill<br>lizard<br>sea
+bip_39_word_new_br9: abstract<br>yard<br>vehicle<br>junk<br>labor<br>pill<br>lizard<br>sea<br>claw
+bip_39_word_new_line1: abstract
+bip_39_word_new_line10: 'abstract
+
+  yard
+
+  vehicle
+
+  junk
+
+  labor
+
+  pill
+
+  lizard
+
+  sea
+
+  claw
+
+  limit'
+bip_39_word_new_line11: 'abstract
+
+  yard
+
+  vehicle
+
+  junk
+
+  labor
+
+  pill
+
+  lizard
+
+  sea
+
+  claw
+
+  limit
+
+  winner'
+bip_39_word_new_line12: 'abstract
+
+  yard
+
+  vehicle
+
+  junk
+
+  labor
+
+  pill
+
+  lizard
+
+  sea
+
+  claw
+
+  limit
+
+  winner
+
+  act'
+bip_39_word_new_line2: 'abstract
+
+  yard'
+bip_39_word_new_line3: 'abstract
+
+  yard
+
+  vehicle'
+bip_39_word_new_line4: 'abstract
+
+  yard
+
+  vehicle
+
+  junk'
+bip_39_word_new_line5: 'abstract
+
+  yard
+
+  vehicle
+
+  junk
+
+  labor'
+bip_39_word_new_line6: 'abstract
+
+  yard
+
+  vehicle
+
+  junk
+
+  labor
+
+  pill'
+bip_39_word_new_line7: 'abstract
+
+  yard
+
+  vehicle
+
+  junk
+
+  labor
+
+  pill
+
+  lizard'
+bip_39_word_new_line8: 'abstract
+
+  yard
+
+  vehicle
+
+  junk
+
+  labor
+
+  pill
+
+  lizard
+
+  sea'
+bip_39_word_new_line9: 'abstract
+
+  yard
+
+  vehicle
+
+  junk
+
+  labor
+
+  pill
+
+  lizard
+
+  sea
+
+  claw'
+bip_39_word_space_0:
+- abstract
+- yard
+- vehicle
+- junk
+- labor
+- pill
+- lizard
+- sea
+- claw
+- limit
+- winner
+- act
+bip_39_word_space_1: abstract
+bip_39_word_space_10: abstract yard vehicle junk labor pill lizard sea claw limit
+bip_39_word_space_11: abstract yard vehicle junk labor pill lizard sea claw limit
+  winner
+bip_39_word_space_12: abstract yard vehicle junk labor pill lizard sea claw limit
+  winner act
+bip_39_word_space_2: abstract yard
+bip_39_word_space_3: abstract yard vehicle
+bip_39_word_space_4: abstract yard vehicle junk
+bip_39_word_space_5: abstract yard vehicle junk labor
+bip_39_word_space_6: abstract yard vehicle junk labor pill
+bip_39_word_space_7: abstract yard vehicle junk labor pill lizard
+bip_39_word_space_8: abstract yard vehicle junk labor pill lizard sea
+bip_39_word_space_9: abstract yard vehicle junk labor pill lizard sea claw
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

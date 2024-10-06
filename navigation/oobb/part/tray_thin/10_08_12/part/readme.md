@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pioneer top
+  * bip 39 word 3: pioneer top circle
+  * bip 39 word: pioneer top circle nest text pig illegal animal patch hat choice abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pioneer |  
+| bip_39_word_new_br10 | pioneer<br>top<br>circle<br>nest<br>text<br>pig<br>illegal<br>animal<br>patch<br>hat |  
+| bip_39_word_new_br11 | pioneer<br>top<br>circle<br>nest<br>text<br>pig<br>illegal<br>animal<br>patch<br>hat<br>choice |  
+| bip_39_word_new_br12 | pioneer<br>top<br>circle<br>nest<br>text<br>pig<br>illegal<br>animal<br>patch<br>hat<br>choice<br>abuse |  
+| bip_39_word_new_br2 | pioneer<br>top |  
+| bip_39_word_new_br3 | pioneer<br>top<br>circle |  
+| bip_39_word_new_br4 | pioneer<br>top<br>circle<br>nest |  
+| bip_39_word_new_br5 | pioneer<br>top<br>circle<br>nest<br>text |  
+| bip_39_word_new_br6 | pioneer<br>top<br>circle<br>nest<br>text<br>pig |  
+| bip_39_word_new_br7 | pioneer<br>top<br>circle<br>nest<br>text<br>pig<br>illegal |  
+| bip_39_word_new_br8 | pioneer<br>top<br>circle<br>nest<br>text<br>pig<br>illegal<br>animal |  
+| bip_39_word_new_br9 | pioneer<br>top<br>circle<br>nest<br>text<br>pig<br>illegal<br>animal<br>patch |  
+| bip_39_word_new_line1 | pioneer |  
+| bip_39_word_new_line10 | pioneer
+top
+circle
+nest
+text
+pig
+illegal
+animal
+patch
+hat |  
+| bip_39_word_new_line11 | pioneer
+top
+circle
+nest
+text
+pig
+illegal
+animal
+patch
+hat
+choice |  
+| bip_39_word_new_line12 | pioneer
+top
+circle
+nest
+text
+pig
+illegal
+animal
+patch
+hat
+choice
+abuse |  
+| bip_39_word_new_line2 | pioneer
+top |  
+| bip_39_word_new_line3 | pioneer
+top
+circle |  
+| bip_39_word_new_line4 | pioneer
+top
+circle
+nest |  
+| bip_39_word_new_line5 | pioneer
+top
+circle
+nest
+text |  
+| bip_39_word_new_line6 | pioneer
+top
+circle
+nest
+text
+pig |  
+| bip_39_word_new_line7 | pioneer
+top
+circle
+nest
+text
+pig
+illegal |  
+| bip_39_word_new_line8 | pioneer
+top
+circle
+nest
+text
+pig
+illegal
+animal |  
+| bip_39_word_new_line9 | pioneer
+top
+circle
+nest
+text
+pig
+illegal
+animal
+patch |  
+| bip_39_word_space_0 | ['pioneer', 'top', 'circle', 'nest', 'text', 'pig', 'illegal', 'animal', 'patch', 'hat', 'choice', 'abuse'] |  
+| bip_39_word_space_1 | pioneer |  
+| bip_39_word_space_10 | pioneer top circle nest text pig illegal animal patch hat |  
+| bip_39_word_space_11 | pioneer top circle nest text pig illegal animal patch hat choice |  
+| bip_39_word_space_12 | pioneer top circle nest text pig illegal animal patch hat choice abuse |  
+| bip_39_word_space_2 | pioneer top |  
+| bip_39_word_space_3 | pioneer top circle |  
+| bip_39_word_space_4 | pioneer top circle nest |  
+| bip_39_word_space_5 | pioneer top circle nest text |  
+| bip_39_word_space_6 | pioneer top circle nest text pig |  
+| bip_39_word_space_7 | pioneer top circle nest text pig illegal |  
+| bip_39_word_space_8 | pioneer top circle nest text pig illegal animal |  
+| bip_39_word_space_9 | pioneer top circle nest text pig illegal animal patch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

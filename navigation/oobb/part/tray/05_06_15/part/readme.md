@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stamp banner
+  * bip 39 word 3: stamp banner length
+  * bip 39 word: stamp banner length soap unknown tortoise ball mixture rifle void scrub argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stamp |  
+| bip_39_word_new_br10 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise<br>ball<br>mixture<br>rifle<br>void |  
+| bip_39_word_new_br11 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise<br>ball<br>mixture<br>rifle<br>void<br>scrub |  
+| bip_39_word_new_br12 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise<br>ball<br>mixture<br>rifle<br>void<br>scrub<br>argue |  
+| bip_39_word_new_br2 | stamp<br>banner |  
+| bip_39_word_new_br3 | stamp<br>banner<br>length |  
+| bip_39_word_new_br4 | stamp<br>banner<br>length<br>soap |  
+| bip_39_word_new_br5 | stamp<br>banner<br>length<br>soap<br>unknown |  
+| bip_39_word_new_br6 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise |  
+| bip_39_word_new_br7 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise<br>ball |  
+| bip_39_word_new_br8 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise<br>ball<br>mixture |  
+| bip_39_word_new_br9 | stamp<br>banner<br>length<br>soap<br>unknown<br>tortoise<br>ball<br>mixture<br>rifle |  
+| bip_39_word_new_line1 | stamp |  
+| bip_39_word_new_line10 | stamp
+banner
+length
+soap
+unknown
+tortoise
+ball
+mixture
+rifle
+void |  
+| bip_39_word_new_line11 | stamp
+banner
+length
+soap
+unknown
+tortoise
+ball
+mixture
+rifle
+void
+scrub |  
+| bip_39_word_new_line12 | stamp
+banner
+length
+soap
+unknown
+tortoise
+ball
+mixture
+rifle
+void
+scrub
+argue |  
+| bip_39_word_new_line2 | stamp
+banner |  
+| bip_39_word_new_line3 | stamp
+banner
+length |  
+| bip_39_word_new_line4 | stamp
+banner
+length
+soap |  
+| bip_39_word_new_line5 | stamp
+banner
+length
+soap
+unknown |  
+| bip_39_word_new_line6 | stamp
+banner
+length
+soap
+unknown
+tortoise |  
+| bip_39_word_new_line7 | stamp
+banner
+length
+soap
+unknown
+tortoise
+ball |  
+| bip_39_word_new_line8 | stamp
+banner
+length
+soap
+unknown
+tortoise
+ball
+mixture |  
+| bip_39_word_new_line9 | stamp
+banner
+length
+soap
+unknown
+tortoise
+ball
+mixture
+rifle |  
+| bip_39_word_space_0 | ['stamp', 'banner', 'length', 'soap', 'unknown', 'tortoise', 'ball', 'mixture', 'rifle', 'void', 'scrub', 'argue'] |  
+| bip_39_word_space_1 | stamp |  
+| bip_39_word_space_10 | stamp banner length soap unknown tortoise ball mixture rifle void |  
+| bip_39_word_space_11 | stamp banner length soap unknown tortoise ball mixture rifle void scrub |  
+| bip_39_word_space_12 | stamp banner length soap unknown tortoise ball mixture rifle void scrub argue |  
+| bip_39_word_space_2 | stamp banner |  
+| bip_39_word_space_3 | stamp banner length |  
+| bip_39_word_space_4 | stamp banner length soap |  
+| bip_39_word_space_5 | stamp banner length soap unknown |  
+| bip_39_word_space_6 | stamp banner length soap unknown tortoise |  
+| bip_39_word_space_7 | stamp banner length soap unknown tortoise ball |  
+| bip_39_word_space_8 | stamp banner length soap unknown tortoise ball mixture |  
+| bip_39_word_space_9 | stamp banner length soap unknown tortoise ball mixture rifle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

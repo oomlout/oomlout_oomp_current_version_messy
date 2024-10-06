@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bless nerve
+  * bip 39 word 3: bless nerve purpose
+  * bip 39 word: bless nerve purpose family liberty crane position flower pupil gossip call add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bless |  
+| bip_39_word_new_br10 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane<br>position<br>flower<br>pupil<br>gossip |  
+| bip_39_word_new_br11 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane<br>position<br>flower<br>pupil<br>gossip<br>call |  
+| bip_39_word_new_br12 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane<br>position<br>flower<br>pupil<br>gossip<br>call<br>add |  
+| bip_39_word_new_br2 | bless<br>nerve |  
+| bip_39_word_new_br3 | bless<br>nerve<br>purpose |  
+| bip_39_word_new_br4 | bless<br>nerve<br>purpose<br>family |  
+| bip_39_word_new_br5 | bless<br>nerve<br>purpose<br>family<br>liberty |  
+| bip_39_word_new_br6 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane |  
+| bip_39_word_new_br7 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane<br>position |  
+| bip_39_word_new_br8 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane<br>position<br>flower |  
+| bip_39_word_new_br9 | bless<br>nerve<br>purpose<br>family<br>liberty<br>crane<br>position<br>flower<br>pupil |  
+| bip_39_word_new_line1 | bless |  
+| bip_39_word_new_line10 | bless
+nerve
+purpose
+family
+liberty
+crane
+position
+flower
+pupil
+gossip |  
+| bip_39_word_new_line11 | bless
+nerve
+purpose
+family
+liberty
+crane
+position
+flower
+pupil
+gossip
+call |  
+| bip_39_word_new_line12 | bless
+nerve
+purpose
+family
+liberty
+crane
+position
+flower
+pupil
+gossip
+call
+add |  
+| bip_39_word_new_line2 | bless
+nerve |  
+| bip_39_word_new_line3 | bless
+nerve
+purpose |  
+| bip_39_word_new_line4 | bless
+nerve
+purpose
+family |  
+| bip_39_word_new_line5 | bless
+nerve
+purpose
+family
+liberty |  
+| bip_39_word_new_line6 | bless
+nerve
+purpose
+family
+liberty
+crane |  
+| bip_39_word_new_line7 | bless
+nerve
+purpose
+family
+liberty
+crane
+position |  
+| bip_39_word_new_line8 | bless
+nerve
+purpose
+family
+liberty
+crane
+position
+flower |  
+| bip_39_word_new_line9 | bless
+nerve
+purpose
+family
+liberty
+crane
+position
+flower
+pupil |  
+| bip_39_word_space_0 | ['bless', 'nerve', 'purpose', 'family', 'liberty', 'crane', 'position', 'flower', 'pupil', 'gossip', 'call', 'add'] |  
+| bip_39_word_space_1 | bless |  
+| bip_39_word_space_10 | bless nerve purpose family liberty crane position flower pupil gossip |  
+| bip_39_word_space_11 | bless nerve purpose family liberty crane position flower pupil gossip call |  
+| bip_39_word_space_12 | bless nerve purpose family liberty crane position flower pupil gossip call add |  
+| bip_39_word_space_2 | bless nerve |  
+| bip_39_word_space_3 | bless nerve purpose |  
+| bip_39_word_space_4 | bless nerve purpose family |  
+| bip_39_word_space_5 | bless nerve purpose family liberty |  
+| bip_39_word_space_6 | bless nerve purpose family liberty crane |  
+| bip_39_word_space_7 | bless nerve purpose family liberty crane position |  
+| bip_39_word_space_8 | bless nerve purpose family liberty crane position flower |  
+| bip_39_word_space_9 | bless nerve purpose family liberty crane position flower pupil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: shifted
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: world clock
+  * bip 39 word 3: world clock bag
+  * bip 39 word: world clock bag faint spring chimney express judge need iron bench apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | world |  
+| bip_39_word_new_br10 | world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need<br>iron |  
+| bip_39_word_new_br11 | world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need<br>iron<br>bench |  
+| bip_39_word_new_br12 | world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need<br>iron<br>bench<br>apart |  
+| bip_39_word_new_br2 | world<br>clock |  
+| bip_39_word_new_br3 | world<br>clock<br>bag |  
+| bip_39_word_new_br4 | world<br>clock<br>bag<br>faint |  
+| bip_39_word_new_br5 | world<br>clock<br>bag<br>faint<br>spring |  
+| bip_39_word_new_br6 | world<br>clock<br>bag<br>faint<br>spring<br>chimney |  
+| bip_39_word_new_br7 | world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express |  
+| bip_39_word_new_br8 | world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge |  
+| bip_39_word_new_br9 | world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need |  
+| bip_39_word_new_line1 | world |  
+| bip_39_word_new_line10 | world
+clock
+bag
+faint
+spring
+chimney
+express
+judge
+need
+iron |  
+| bip_39_word_new_line11 | world
+clock
+bag
+faint
+spring
+chimney
+express
+judge
+need
+iron
+bench |  
+| bip_39_word_new_line12 | world
+clock
+bag
+faint
+spring
+chimney
+express
+judge
+need
+iron
+bench
+apart |  
+| bip_39_word_new_line2 | world
+clock |  
+| bip_39_word_new_line3 | world
+clock
+bag |  
+| bip_39_word_new_line4 | world
+clock
+bag
+faint |  
+| bip_39_word_new_line5 | world
+clock
+bag
+faint
+spring |  
+| bip_39_word_new_line6 | world
+clock
+bag
+faint
+spring
+chimney |  
+| bip_39_word_new_line7 | world
+clock
+bag
+faint
+spring
+chimney
+express |  
+| bip_39_word_new_line8 | world
+clock
+bag
+faint
+spring
+chimney
+express
+judge |  
+| bip_39_word_new_line9 | world
+clock
+bag
+faint
+spring
+chimney
+express
+judge
+need |  
+| bip_39_word_space_0 | ['world', 'clock', 'bag', 'faint', 'spring', 'chimney', 'express', 'judge', 'need', 'iron', 'bench', 'apart'] |  
+| bip_39_word_space_1 | world |  
+| bip_39_word_space_10 | world clock bag faint spring chimney express judge need iron |  
+| bip_39_word_space_11 | world clock bag faint spring chimney express judge need iron bench |  
+| bip_39_word_space_12 | world clock bag faint spring chimney express judge need iron bench apart |  
+| bip_39_word_space_2 | world clock |  
+| bip_39_word_space_3 | world clock bag |  
+| bip_39_word_space_4 | world clock bag faint |  
+| bip_39_word_space_5 | world clock bag faint spring |  
+| bip_39_word_space_6 | world clock bag faint spring chimney |  
+| bip_39_word_space_7 | world clock bag faint spring chimney express |  
+| bip_39_word_space_8 | world clock bag faint spring chimney express judge |  
+| bip_39_word_space_9 | world clock bag faint spring chimney express judge need |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

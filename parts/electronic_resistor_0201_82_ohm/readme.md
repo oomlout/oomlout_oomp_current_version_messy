@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: muscle coach
+  * bip 39 word 3: muscle coach wisdom
+  * bip 39 word: muscle coach wisdom super road palm clump cinnamon answer rubber dash ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | muscle |  
+| bip_39_word_new_br10 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm<br>clump<br>cinnamon<br>answer<br>rubber |  
+| bip_39_word_new_br11 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm<br>clump<br>cinnamon<br>answer<br>rubber<br>dash |  
+| bip_39_word_new_br12 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm<br>clump<br>cinnamon<br>answer<br>rubber<br>dash<br>ask |  
+| bip_39_word_new_br2 | muscle<br>coach |  
+| bip_39_word_new_br3 | muscle<br>coach<br>wisdom |  
+| bip_39_word_new_br4 | muscle<br>coach<br>wisdom<br>super |  
+| bip_39_word_new_br5 | muscle<br>coach<br>wisdom<br>super<br>road |  
+| bip_39_word_new_br6 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm |  
+| bip_39_word_new_br7 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm<br>clump |  
+| bip_39_word_new_br8 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm<br>clump<br>cinnamon |  
+| bip_39_word_new_br9 | muscle<br>coach<br>wisdom<br>super<br>road<br>palm<br>clump<br>cinnamon<br>answer |  
+| bip_39_word_new_line1 | muscle |  
+| bip_39_word_new_line10 | muscle
+coach
+wisdom
+super
+road
+palm
+clump
+cinnamon
+answer
+rubber |  
+| bip_39_word_new_line11 | muscle
+coach
+wisdom
+super
+road
+palm
+clump
+cinnamon
+answer
+rubber
+dash |  
+| bip_39_word_new_line12 | muscle
+coach
+wisdom
+super
+road
+palm
+clump
+cinnamon
+answer
+rubber
+dash
+ask |  
+| bip_39_word_new_line2 | muscle
+coach |  
+| bip_39_word_new_line3 | muscle
+coach
+wisdom |  
+| bip_39_word_new_line4 | muscle
+coach
+wisdom
+super |  
+| bip_39_word_new_line5 | muscle
+coach
+wisdom
+super
+road |  
+| bip_39_word_new_line6 | muscle
+coach
+wisdom
+super
+road
+palm |  
+| bip_39_word_new_line7 | muscle
+coach
+wisdom
+super
+road
+palm
+clump |  
+| bip_39_word_new_line8 | muscle
+coach
+wisdom
+super
+road
+palm
+clump
+cinnamon |  
+| bip_39_word_new_line9 | muscle
+coach
+wisdom
+super
+road
+palm
+clump
+cinnamon
+answer |  
+| bip_39_word_space_0 | ['muscle', 'coach', 'wisdom', 'super', 'road', 'palm', 'clump', 'cinnamon', 'answer', 'rubber', 'dash', 'ask'] |  
+| bip_39_word_space_1 | muscle |  
+| bip_39_word_space_10 | muscle coach wisdom super road palm clump cinnamon answer rubber |  
+| bip_39_word_space_11 | muscle coach wisdom super road palm clump cinnamon answer rubber dash |  
+| bip_39_word_space_12 | muscle coach wisdom super road palm clump cinnamon answer rubber dash ask |  
+| bip_39_word_space_2 | muscle coach |  
+| bip_39_word_space_3 | muscle coach wisdom |  
+| bip_39_word_space_4 | muscle coach wisdom super |  
+| bip_39_word_space_5 | muscle coach wisdom super road |  
+| bip_39_word_space_6 | muscle coach wisdom super road palm |  
+| bip_39_word_space_7 | muscle coach wisdom super road palm clump |  
+| bip_39_word_space_8 | muscle coach wisdom super road palm clump cinnamon |  
+| bip_39_word_space_9 | muscle coach wisdom super road palm clump cinnamon answer |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

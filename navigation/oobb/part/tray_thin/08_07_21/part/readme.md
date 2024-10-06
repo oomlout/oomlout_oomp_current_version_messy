@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frozen innocent
+  * bip 39 word 3: frozen innocent then
+  * bip 39 word: frozen innocent then man soup please judge actual govern lawsuit appear already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frozen |  
+| bip_39_word_new_br10 | frozen<br>innocent<br>then<br>man<br>soup<br>please<br>judge<br>actual<br>govern<br>lawsuit |  
+| bip_39_word_new_br11 | frozen<br>innocent<br>then<br>man<br>soup<br>please<br>judge<br>actual<br>govern<br>lawsuit<br>appear |  
+| bip_39_word_new_br12 | frozen<br>innocent<br>then<br>man<br>soup<br>please<br>judge<br>actual<br>govern<br>lawsuit<br>appear<br>already |  
+| bip_39_word_new_br2 | frozen<br>innocent |  
+| bip_39_word_new_br3 | frozen<br>innocent<br>then |  
+| bip_39_word_new_br4 | frozen<br>innocent<br>then<br>man |  
+| bip_39_word_new_br5 | frozen<br>innocent<br>then<br>man<br>soup |  
+| bip_39_word_new_br6 | frozen<br>innocent<br>then<br>man<br>soup<br>please |  
+| bip_39_word_new_br7 | frozen<br>innocent<br>then<br>man<br>soup<br>please<br>judge |  
+| bip_39_word_new_br8 | frozen<br>innocent<br>then<br>man<br>soup<br>please<br>judge<br>actual |  
+| bip_39_word_new_br9 | frozen<br>innocent<br>then<br>man<br>soup<br>please<br>judge<br>actual<br>govern |  
+| bip_39_word_new_line1 | frozen |  
+| bip_39_word_new_line10 | frozen
+innocent
+then
+man
+soup
+please
+judge
+actual
+govern
+lawsuit |  
+| bip_39_word_new_line11 | frozen
+innocent
+then
+man
+soup
+please
+judge
+actual
+govern
+lawsuit
+appear |  
+| bip_39_word_new_line12 | frozen
+innocent
+then
+man
+soup
+please
+judge
+actual
+govern
+lawsuit
+appear
+already |  
+| bip_39_word_new_line2 | frozen
+innocent |  
+| bip_39_word_new_line3 | frozen
+innocent
+then |  
+| bip_39_word_new_line4 | frozen
+innocent
+then
+man |  
+| bip_39_word_new_line5 | frozen
+innocent
+then
+man
+soup |  
+| bip_39_word_new_line6 | frozen
+innocent
+then
+man
+soup
+please |  
+| bip_39_word_new_line7 | frozen
+innocent
+then
+man
+soup
+please
+judge |  
+| bip_39_word_new_line8 | frozen
+innocent
+then
+man
+soup
+please
+judge
+actual |  
+| bip_39_word_new_line9 | frozen
+innocent
+then
+man
+soup
+please
+judge
+actual
+govern |  
+| bip_39_word_space_0 | ['frozen', 'innocent', 'then', 'man', 'soup', 'please', 'judge', 'actual', 'govern', 'lawsuit', 'appear', 'already'] |  
+| bip_39_word_space_1 | frozen |  
+| bip_39_word_space_10 | frozen innocent then man soup please judge actual govern lawsuit |  
+| bip_39_word_space_11 | frozen innocent then man soup please judge actual govern lawsuit appear |  
+| bip_39_word_space_12 | frozen innocent then man soup please judge actual govern lawsuit appear already |  
+| bip_39_word_space_2 | frozen innocent |  
+| bip_39_word_space_3 | frozen innocent then |  
+| bip_39_word_space_4 | frozen innocent then man |  
+| bip_39_word_space_5 | frozen innocent then man soup |  
+| bip_39_word_space_6 | frozen innocent then man soup please |  
+| bip_39_word_space_7 | frozen innocent then man soup please judge |  
+| bip_39_word_space_8 | frozen innocent then man soup please judge actual |  
+| bip_39_word_space_9 | frozen innocent then man soup please judge actual govern |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

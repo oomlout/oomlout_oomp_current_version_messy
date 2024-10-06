@@ -1,3 +1,186 @@
+bip_39_word_new_br1: often
+bip_39_word_new_br10: often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith
+bip_39_word_new_br11: often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith<br>anxiety
+bip_39_word_new_br12: often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer<br>faith<br>anxiety<br>aisle
+bip_39_word_new_br2: often<br>weapon
+bip_39_word_new_br3: often<br>weapon<br>jewel
+bip_39_word_new_br4: often<br>weapon<br>jewel<br>taste
+bip_39_word_new_br5: often<br>weapon<br>jewel<br>taste<br>essay
+bip_39_word_new_br6: often<br>weapon<br>jewel<br>taste<br>essay<br>like
+bip_39_word_new_br7: often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger
+bip_39_word_new_br8: often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load
+bip_39_word_new_br9: often<br>weapon<br>jewel<br>taste<br>essay<br>like<br>finger<br>load<br>buyer
+bip_39_word_new_line1: often
+bip_39_word_new_line10: 'often
+
+  weapon
+
+  jewel
+
+  taste
+
+  essay
+
+  like
+
+  finger
+
+  load
+
+  buyer
+
+  faith'
+bip_39_word_new_line11: 'often
+
+  weapon
+
+  jewel
+
+  taste
+
+  essay
+
+  like
+
+  finger
+
+  load
+
+  buyer
+
+  faith
+
+  anxiety'
+bip_39_word_new_line12: 'often
+
+  weapon
+
+  jewel
+
+  taste
+
+  essay
+
+  like
+
+  finger
+
+  load
+
+  buyer
+
+  faith
+
+  anxiety
+
+  aisle'
+bip_39_word_new_line2: 'often
+
+  weapon'
+bip_39_word_new_line3: 'often
+
+  weapon
+
+  jewel'
+bip_39_word_new_line4: 'often
+
+  weapon
+
+  jewel
+
+  taste'
+bip_39_word_new_line5: 'often
+
+  weapon
+
+  jewel
+
+  taste
+
+  essay'
+bip_39_word_new_line6: 'often
+
+  weapon
+
+  jewel
+
+  taste
+
+  essay
+
+  like'
+bip_39_word_new_line7: 'often
+
+  weapon
+
+  jewel
+
+  taste
+
+  essay
+
+  like
+
+  finger'
+bip_39_word_new_line8: 'often
+
+  weapon
+
+  jewel
+
+  taste
+
+  essay
+
+  like
+
+  finger
+
+  load'
+bip_39_word_new_line9: 'often
+
+  weapon
+
+  jewel
+
+  taste
+
+  essay
+
+  like
+
+  finger
+
+  load
+
+  buyer'
+bip_39_word_space_0:
+- often
+- weapon
+- jewel
+- taste
+- essay
+- like
+- finger
+- load
+- buyer
+- faith
+- anxiety
+- aisle
+bip_39_word_space_1: often
+bip_39_word_space_10: often weapon jewel taste essay like finger load buyer faith
+bip_39_word_space_11: often weapon jewel taste essay like finger load buyer faith
+  anxiety
+bip_39_word_space_12: often weapon jewel taste essay like finger load buyer faith
+  anxiety aisle
+bip_39_word_space_2: often weapon
+bip_39_word_space_3: often weapon jewel
+bip_39_word_space_4: often weapon jewel taste
+bip_39_word_space_5: often weapon jewel taste essay
+bip_39_word_space_6: often weapon jewel taste essay like
+bip_39_word_space_7: often weapon jewel taste essay like finger
+bip_39_word_space_8: often weapon jewel taste essay like finger load
+bip_39_word_space_9: often weapon jewel taste essay like finger load buyer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

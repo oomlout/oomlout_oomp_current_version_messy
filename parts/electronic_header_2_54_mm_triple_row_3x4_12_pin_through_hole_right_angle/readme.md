@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sort pledge
+  * bip 39 word 3: sort pledge later
+  * bip 39 word: sort pledge later story alone table neutral staff forward convince visual age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sort |  
+| bip_39_word_new_br10 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince |  
+| bip_39_word_new_br11 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince<br>visual |  
+| bip_39_word_new_br12 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward<br>convince<br>visual<br>age |  
+| bip_39_word_new_br2 | sort<br>pledge |  
+| bip_39_word_new_br3 | sort<br>pledge<br>later |  
+| bip_39_word_new_br4 | sort<br>pledge<br>later<br>story |  
+| bip_39_word_new_br5 | sort<br>pledge<br>later<br>story<br>alone |  
+| bip_39_word_new_br6 | sort<br>pledge<br>later<br>story<br>alone<br>table |  
+| bip_39_word_new_br7 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral |  
+| bip_39_word_new_br8 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff |  
+| bip_39_word_new_br9 | sort<br>pledge<br>later<br>story<br>alone<br>table<br>neutral<br>staff<br>forward |  
+| bip_39_word_new_line1 | sort |  
+| bip_39_word_new_line10 | sort
+pledge
+later
+story
+alone
+table
+neutral
+staff
+forward
+convince |  
+| bip_39_word_new_line11 | sort
+pledge
+later
+story
+alone
+table
+neutral
+staff
+forward
+convince
+visual |  
+| bip_39_word_new_line12 | sort
+pledge
+later
+story
+alone
+table
+neutral
+staff
+forward
+convince
+visual
+age |  
+| bip_39_word_new_line2 | sort
+pledge |  
+| bip_39_word_new_line3 | sort
+pledge
+later |  
+| bip_39_word_new_line4 | sort
+pledge
+later
+story |  
+| bip_39_word_new_line5 | sort
+pledge
+later
+story
+alone |  
+| bip_39_word_new_line6 | sort
+pledge
+later
+story
+alone
+table |  
+| bip_39_word_new_line7 | sort
+pledge
+later
+story
+alone
+table
+neutral |  
+| bip_39_word_new_line8 | sort
+pledge
+later
+story
+alone
+table
+neutral
+staff |  
+| bip_39_word_new_line9 | sort
+pledge
+later
+story
+alone
+table
+neutral
+staff
+forward |  
+| bip_39_word_space_0 | ['sort', 'pledge', 'later', 'story', 'alone', 'table', 'neutral', 'staff', 'forward', 'convince', 'visual', 'age'] |  
+| bip_39_word_space_1 | sort |  
+| bip_39_word_space_10 | sort pledge later story alone table neutral staff forward convince |  
+| bip_39_word_space_11 | sort pledge later story alone table neutral staff forward convince visual |  
+| bip_39_word_space_12 | sort pledge later story alone table neutral staff forward convince visual age |  
+| bip_39_word_space_2 | sort pledge |  
+| bip_39_word_space_3 | sort pledge later |  
+| bip_39_word_space_4 | sort pledge later story |  
+| bip_39_word_space_5 | sort pledge later story alone |  
+| bip_39_word_space_6 | sort pledge later story alone table |  
+| bip_39_word_space_7 | sort pledge later story alone table neutral |  
+| bip_39_word_space_8 | sort pledge later story alone table neutral staff |  
+| bip_39_word_space_9 | sort pledge later story alone table neutral staff forward |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

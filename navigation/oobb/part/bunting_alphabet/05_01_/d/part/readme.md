@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: d
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pass file
+  * bip 39 word 3: pass file rabbit
+  * bip 39 word: pass file rabbit garage sleep divorce hire enforce worry pudding jewel annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pass |  
+| bip_39_word_new_br10 | pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce<br>hire<br>enforce<br>worry<br>pudding |  
+| bip_39_word_new_br11 | pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce<br>hire<br>enforce<br>worry<br>pudding<br>jewel |  
+| bip_39_word_new_br12 | pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce<br>hire<br>enforce<br>worry<br>pudding<br>jewel<br>annual |  
+| bip_39_word_new_br2 | pass<br>file |  
+| bip_39_word_new_br3 | pass<br>file<br>rabbit |  
+| bip_39_word_new_br4 | pass<br>file<br>rabbit<br>garage |  
+| bip_39_word_new_br5 | pass<br>file<br>rabbit<br>garage<br>sleep |  
+| bip_39_word_new_br6 | pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce |  
+| bip_39_word_new_br7 | pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce<br>hire |  
+| bip_39_word_new_br8 | pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce<br>hire<br>enforce |  
+| bip_39_word_new_br9 | pass<br>file<br>rabbit<br>garage<br>sleep<br>divorce<br>hire<br>enforce<br>worry |  
+| bip_39_word_new_line1 | pass |  
+| bip_39_word_new_line10 | pass
+file
+rabbit
+garage
+sleep
+divorce
+hire
+enforce
+worry
+pudding |  
+| bip_39_word_new_line11 | pass
+file
+rabbit
+garage
+sleep
+divorce
+hire
+enforce
+worry
+pudding
+jewel |  
+| bip_39_word_new_line12 | pass
+file
+rabbit
+garage
+sleep
+divorce
+hire
+enforce
+worry
+pudding
+jewel
+annual |  
+| bip_39_word_new_line2 | pass
+file |  
+| bip_39_word_new_line3 | pass
+file
+rabbit |  
+| bip_39_word_new_line4 | pass
+file
+rabbit
+garage |  
+| bip_39_word_new_line5 | pass
+file
+rabbit
+garage
+sleep |  
+| bip_39_word_new_line6 | pass
+file
+rabbit
+garage
+sleep
+divorce |  
+| bip_39_word_new_line7 | pass
+file
+rabbit
+garage
+sleep
+divorce
+hire |  
+| bip_39_word_new_line8 | pass
+file
+rabbit
+garage
+sleep
+divorce
+hire
+enforce |  
+| bip_39_word_new_line9 | pass
+file
+rabbit
+garage
+sleep
+divorce
+hire
+enforce
+worry |  
+| bip_39_word_space_0 | ['pass', 'file', 'rabbit', 'garage', 'sleep', 'divorce', 'hire', 'enforce', 'worry', 'pudding', 'jewel', 'annual'] |  
+| bip_39_word_space_1 | pass |  
+| bip_39_word_space_10 | pass file rabbit garage sleep divorce hire enforce worry pudding |  
+| bip_39_word_space_11 | pass file rabbit garage sleep divorce hire enforce worry pudding jewel |  
+| bip_39_word_space_12 | pass file rabbit garage sleep divorce hire enforce worry pudding jewel annual |  
+| bip_39_word_space_2 | pass file |  
+| bip_39_word_space_3 | pass file rabbit |  
+| bip_39_word_space_4 | pass file rabbit garage |  
+| bip_39_word_space_5 | pass file rabbit garage sleep |  
+| bip_39_word_space_6 | pass file rabbit garage sleep divorce |  
+| bip_39_word_space_7 | pass file rabbit garage sleep divorce hire |  
+| bip_39_word_space_8 | pass file rabbit garage sleep divorce hire enforce |  
+| bip_39_word_space_9 | pass file rabbit garage sleep divorce hire enforce worry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

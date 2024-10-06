@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remove brain
+  * bip 39 word 3: remove brain negative
+  * bip 39 word: remove brain negative shadow install clip mesh energy column kick unknown approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remove |  
+| bip_39_word_new_br10 | remove<br>brain<br>negative<br>shadow<br>install<br>clip<br>mesh<br>energy<br>column<br>kick |  
+| bip_39_word_new_br11 | remove<br>brain<br>negative<br>shadow<br>install<br>clip<br>mesh<br>energy<br>column<br>kick<br>unknown |  
+| bip_39_word_new_br12 | remove<br>brain<br>negative<br>shadow<br>install<br>clip<br>mesh<br>energy<br>column<br>kick<br>unknown<br>approve |  
+| bip_39_word_new_br2 | remove<br>brain |  
+| bip_39_word_new_br3 | remove<br>brain<br>negative |  
+| bip_39_word_new_br4 | remove<br>brain<br>negative<br>shadow |  
+| bip_39_word_new_br5 | remove<br>brain<br>negative<br>shadow<br>install |  
+| bip_39_word_new_br6 | remove<br>brain<br>negative<br>shadow<br>install<br>clip |  
+| bip_39_word_new_br7 | remove<br>brain<br>negative<br>shadow<br>install<br>clip<br>mesh |  
+| bip_39_word_new_br8 | remove<br>brain<br>negative<br>shadow<br>install<br>clip<br>mesh<br>energy |  
+| bip_39_word_new_br9 | remove<br>brain<br>negative<br>shadow<br>install<br>clip<br>mesh<br>energy<br>column |  
+| bip_39_word_new_line1 | remove |  
+| bip_39_word_new_line10 | remove
+brain
+negative
+shadow
+install
+clip
+mesh
+energy
+column
+kick |  
+| bip_39_word_new_line11 | remove
+brain
+negative
+shadow
+install
+clip
+mesh
+energy
+column
+kick
+unknown |  
+| bip_39_word_new_line12 | remove
+brain
+negative
+shadow
+install
+clip
+mesh
+energy
+column
+kick
+unknown
+approve |  
+| bip_39_word_new_line2 | remove
+brain |  
+| bip_39_word_new_line3 | remove
+brain
+negative |  
+| bip_39_word_new_line4 | remove
+brain
+negative
+shadow |  
+| bip_39_word_new_line5 | remove
+brain
+negative
+shadow
+install |  
+| bip_39_word_new_line6 | remove
+brain
+negative
+shadow
+install
+clip |  
+| bip_39_word_new_line7 | remove
+brain
+negative
+shadow
+install
+clip
+mesh |  
+| bip_39_word_new_line8 | remove
+brain
+negative
+shadow
+install
+clip
+mesh
+energy |  
+| bip_39_word_new_line9 | remove
+brain
+negative
+shadow
+install
+clip
+mesh
+energy
+column |  
+| bip_39_word_space_0 | ['remove', 'brain', 'negative', 'shadow', 'install', 'clip', 'mesh', 'energy', 'column', 'kick', 'unknown', 'approve'] |  
+| bip_39_word_space_1 | remove |  
+| bip_39_word_space_10 | remove brain negative shadow install clip mesh energy column kick |  
+| bip_39_word_space_11 | remove brain negative shadow install clip mesh energy column kick unknown |  
+| bip_39_word_space_12 | remove brain negative shadow install clip mesh energy column kick unknown approve |  
+| bip_39_word_space_2 | remove brain |  
+| bip_39_word_space_3 | remove brain negative |  
+| bip_39_word_space_4 | remove brain negative shadow |  
+| bip_39_word_space_5 | remove brain negative shadow install |  
+| bip_39_word_space_6 | remove brain negative shadow install clip |  
+| bip_39_word_space_7 | remove brain negative shadow install clip mesh |  
+| bip_39_word_space_8 | remove brain negative shadow install clip mesh energy |  
+| bip_39_word_space_9 | remove brain negative shadow install clip mesh energy column |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

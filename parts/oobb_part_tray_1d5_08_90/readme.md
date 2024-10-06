@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chair black
+  * bip 39 word 3: chair black divert
+  * bip 39 word: chair black divert truck near faint chase tobacco vault deputy luxury attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chair |  
+| bip_39_word_new_br10 | chair<br>black<br>divert<br>truck<br>near<br>faint<br>chase<br>tobacco<br>vault<br>deputy |  
+| bip_39_word_new_br11 | chair<br>black<br>divert<br>truck<br>near<br>faint<br>chase<br>tobacco<br>vault<br>deputy<br>luxury |  
+| bip_39_word_new_br12 | chair<br>black<br>divert<br>truck<br>near<br>faint<br>chase<br>tobacco<br>vault<br>deputy<br>luxury<br>attack |  
+| bip_39_word_new_br2 | chair<br>black |  
+| bip_39_word_new_br3 | chair<br>black<br>divert |  
+| bip_39_word_new_br4 | chair<br>black<br>divert<br>truck |  
+| bip_39_word_new_br5 | chair<br>black<br>divert<br>truck<br>near |  
+| bip_39_word_new_br6 | chair<br>black<br>divert<br>truck<br>near<br>faint |  
+| bip_39_word_new_br7 | chair<br>black<br>divert<br>truck<br>near<br>faint<br>chase |  
+| bip_39_word_new_br8 | chair<br>black<br>divert<br>truck<br>near<br>faint<br>chase<br>tobacco |  
+| bip_39_word_new_br9 | chair<br>black<br>divert<br>truck<br>near<br>faint<br>chase<br>tobacco<br>vault |  
+| bip_39_word_new_line1 | chair |  
+| bip_39_word_new_line10 | chair
+black
+divert
+truck
+near
+faint
+chase
+tobacco
+vault
+deputy |  
+| bip_39_word_new_line11 | chair
+black
+divert
+truck
+near
+faint
+chase
+tobacco
+vault
+deputy
+luxury |  
+| bip_39_word_new_line12 | chair
+black
+divert
+truck
+near
+faint
+chase
+tobacco
+vault
+deputy
+luxury
+attack |  
+| bip_39_word_new_line2 | chair
+black |  
+| bip_39_word_new_line3 | chair
+black
+divert |  
+| bip_39_word_new_line4 | chair
+black
+divert
+truck |  
+| bip_39_word_new_line5 | chair
+black
+divert
+truck
+near |  
+| bip_39_word_new_line6 | chair
+black
+divert
+truck
+near
+faint |  
+| bip_39_word_new_line7 | chair
+black
+divert
+truck
+near
+faint
+chase |  
+| bip_39_word_new_line8 | chair
+black
+divert
+truck
+near
+faint
+chase
+tobacco |  
+| bip_39_word_new_line9 | chair
+black
+divert
+truck
+near
+faint
+chase
+tobacco
+vault |  
+| bip_39_word_space_0 | ['chair', 'black', 'divert', 'truck', 'near', 'faint', 'chase', 'tobacco', 'vault', 'deputy', 'luxury', 'attack'] |  
+| bip_39_word_space_1 | chair |  
+| bip_39_word_space_10 | chair black divert truck near faint chase tobacco vault deputy |  
+| bip_39_word_space_11 | chair black divert truck near faint chase tobacco vault deputy luxury |  
+| bip_39_word_space_12 | chair black divert truck near faint chase tobacco vault deputy luxury attack |  
+| bip_39_word_space_2 | chair black |  
+| bip_39_word_space_3 | chair black divert |  
+| bip_39_word_space_4 | chair black divert truck |  
+| bip_39_word_space_5 | chair black divert truck near |  
+| bip_39_word_space_6 | chair black divert truck near faint |  
+| bip_39_word_space_7 | chair black divert truck near faint chase |  
+| bip_39_word_space_8 | chair black divert truck near faint chase tobacco |  
+| bip_39_word_space_9 | chair black divert truck near faint chase tobacco vault |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

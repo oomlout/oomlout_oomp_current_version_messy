@@ -1,3 +1,186 @@
+bip_39_word_new_br1: able
+bip_39_word_new_br10: able<br>voyage<br>duty<br>mixture<br>treat<br>rose<br>bulk<br>reflect<br>acoustic<br>mind
+bip_39_word_new_br11: able<br>voyage<br>duty<br>mixture<br>treat<br>rose<br>bulk<br>reflect<br>acoustic<br>mind<br>nest
+bip_39_word_new_br12: able<br>voyage<br>duty<br>mixture<br>treat<br>rose<br>bulk<br>reflect<br>acoustic<br>mind<br>nest<br>amused
+bip_39_word_new_br2: able<br>voyage
+bip_39_word_new_br3: able<br>voyage<br>duty
+bip_39_word_new_br4: able<br>voyage<br>duty<br>mixture
+bip_39_word_new_br5: able<br>voyage<br>duty<br>mixture<br>treat
+bip_39_word_new_br6: able<br>voyage<br>duty<br>mixture<br>treat<br>rose
+bip_39_word_new_br7: able<br>voyage<br>duty<br>mixture<br>treat<br>rose<br>bulk
+bip_39_word_new_br8: able<br>voyage<br>duty<br>mixture<br>treat<br>rose<br>bulk<br>reflect
+bip_39_word_new_br9: able<br>voyage<br>duty<br>mixture<br>treat<br>rose<br>bulk<br>reflect<br>acoustic
+bip_39_word_new_line1: able
+bip_39_word_new_line10: 'able
+
+  voyage
+
+  duty
+
+  mixture
+
+  treat
+
+  rose
+
+  bulk
+
+  reflect
+
+  acoustic
+
+  mind'
+bip_39_word_new_line11: 'able
+
+  voyage
+
+  duty
+
+  mixture
+
+  treat
+
+  rose
+
+  bulk
+
+  reflect
+
+  acoustic
+
+  mind
+
+  nest'
+bip_39_word_new_line12: 'able
+
+  voyage
+
+  duty
+
+  mixture
+
+  treat
+
+  rose
+
+  bulk
+
+  reflect
+
+  acoustic
+
+  mind
+
+  nest
+
+  amused'
+bip_39_word_new_line2: 'able
+
+  voyage'
+bip_39_word_new_line3: 'able
+
+  voyage
+
+  duty'
+bip_39_word_new_line4: 'able
+
+  voyage
+
+  duty
+
+  mixture'
+bip_39_word_new_line5: 'able
+
+  voyage
+
+  duty
+
+  mixture
+
+  treat'
+bip_39_word_new_line6: 'able
+
+  voyage
+
+  duty
+
+  mixture
+
+  treat
+
+  rose'
+bip_39_word_new_line7: 'able
+
+  voyage
+
+  duty
+
+  mixture
+
+  treat
+
+  rose
+
+  bulk'
+bip_39_word_new_line8: 'able
+
+  voyage
+
+  duty
+
+  mixture
+
+  treat
+
+  rose
+
+  bulk
+
+  reflect'
+bip_39_word_new_line9: 'able
+
+  voyage
+
+  duty
+
+  mixture
+
+  treat
+
+  rose
+
+  bulk
+
+  reflect
+
+  acoustic'
+bip_39_word_space_0:
+- able
+- voyage
+- duty
+- mixture
+- treat
+- rose
+- bulk
+- reflect
+- acoustic
+- mind
+- nest
+- amused
+bip_39_word_space_1: able
+bip_39_word_space_10: able voyage duty mixture treat rose bulk reflect acoustic mind
+bip_39_word_space_11: able voyage duty mixture treat rose bulk reflect acoustic mind
+  nest
+bip_39_word_space_12: able voyage duty mixture treat rose bulk reflect acoustic mind
+  nest amused
+bip_39_word_space_2: able voyage
+bip_39_word_space_3: able voyage duty
+bip_39_word_space_4: able voyage duty mixture
+bip_39_word_space_5: able voyage duty mixture treat
+bip_39_word_space_6: able voyage duty mixture treat rose
+bip_39_word_space_7: able voyage duty mixture treat rose bulk
+bip_39_word_space_8: able voyage duty mixture treat rose bulk reflect
+bip_39_word_space_9: able voyage duty mixture treat rose bulk reflect acoustic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tuna cloth
+  * bip 39 word 3: tuna cloth clerk
+  * bip 39 word: tuna cloth clerk occur wrong keep riot salon post aerobic volume alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tuna |  
+| bip_39_word_new_br10 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep<br>riot<br>salon<br>post<br>aerobic |  
+| bip_39_word_new_br11 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep<br>riot<br>salon<br>post<br>aerobic<br>volume |  
+| bip_39_word_new_br12 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep<br>riot<br>salon<br>post<br>aerobic<br>volume<br>alone |  
+| bip_39_word_new_br2 | tuna<br>cloth |  
+| bip_39_word_new_br3 | tuna<br>cloth<br>clerk |  
+| bip_39_word_new_br4 | tuna<br>cloth<br>clerk<br>occur |  
+| bip_39_word_new_br5 | tuna<br>cloth<br>clerk<br>occur<br>wrong |  
+| bip_39_word_new_br6 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep |  
+| bip_39_word_new_br7 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep<br>riot |  
+| bip_39_word_new_br8 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep<br>riot<br>salon |  
+| bip_39_word_new_br9 | tuna<br>cloth<br>clerk<br>occur<br>wrong<br>keep<br>riot<br>salon<br>post |  
+| bip_39_word_new_line1 | tuna |  
+| bip_39_word_new_line10 | tuna
+cloth
+clerk
+occur
+wrong
+keep
+riot
+salon
+post
+aerobic |  
+| bip_39_word_new_line11 | tuna
+cloth
+clerk
+occur
+wrong
+keep
+riot
+salon
+post
+aerobic
+volume |  
+| bip_39_word_new_line12 | tuna
+cloth
+clerk
+occur
+wrong
+keep
+riot
+salon
+post
+aerobic
+volume
+alone |  
+| bip_39_word_new_line2 | tuna
+cloth |  
+| bip_39_word_new_line3 | tuna
+cloth
+clerk |  
+| bip_39_word_new_line4 | tuna
+cloth
+clerk
+occur |  
+| bip_39_word_new_line5 | tuna
+cloth
+clerk
+occur
+wrong |  
+| bip_39_word_new_line6 | tuna
+cloth
+clerk
+occur
+wrong
+keep |  
+| bip_39_word_new_line7 | tuna
+cloth
+clerk
+occur
+wrong
+keep
+riot |  
+| bip_39_word_new_line8 | tuna
+cloth
+clerk
+occur
+wrong
+keep
+riot
+salon |  
+| bip_39_word_new_line9 | tuna
+cloth
+clerk
+occur
+wrong
+keep
+riot
+salon
+post |  
+| bip_39_word_space_0 | ['tuna', 'cloth', 'clerk', 'occur', 'wrong', 'keep', 'riot', 'salon', 'post', 'aerobic', 'volume', 'alone'] |  
+| bip_39_word_space_1 | tuna |  
+| bip_39_word_space_10 | tuna cloth clerk occur wrong keep riot salon post aerobic |  
+| bip_39_word_space_11 | tuna cloth clerk occur wrong keep riot salon post aerobic volume |  
+| bip_39_word_space_12 | tuna cloth clerk occur wrong keep riot salon post aerobic volume alone |  
+| bip_39_word_space_2 | tuna cloth |  
+| bip_39_word_space_3 | tuna cloth clerk |  
+| bip_39_word_space_4 | tuna cloth clerk occur |  
+| bip_39_word_space_5 | tuna cloth clerk occur wrong |  
+| bip_39_word_space_6 | tuna cloth clerk occur wrong keep |  
+| bip_39_word_space_7 | tuna cloth clerk occur wrong keep riot |  
+| bip_39_word_space_8 | tuna cloth clerk occur wrong keep riot salon |  
+| bip_39_word_space_9 | tuna cloth clerk occur wrong keep riot salon post |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

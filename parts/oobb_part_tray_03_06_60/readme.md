@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: defy kitchen
+  * bip 39 word 3: defy kitchen panic
+  * bip 39 word: defy kitchen panic seminar slice hospital obtain oak nasty sunny shoot above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | defy |  
+| bip_39_word_new_br10 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital<br>obtain<br>oak<br>nasty<br>sunny |  
+| bip_39_word_new_br11 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital<br>obtain<br>oak<br>nasty<br>sunny<br>shoot |  
+| bip_39_word_new_br12 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital<br>obtain<br>oak<br>nasty<br>sunny<br>shoot<br>above |  
+| bip_39_word_new_br2 | defy<br>kitchen |  
+| bip_39_word_new_br3 | defy<br>kitchen<br>panic |  
+| bip_39_word_new_br4 | defy<br>kitchen<br>panic<br>seminar |  
+| bip_39_word_new_br5 | defy<br>kitchen<br>panic<br>seminar<br>slice |  
+| bip_39_word_new_br6 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital |  
+| bip_39_word_new_br7 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital<br>obtain |  
+| bip_39_word_new_br8 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital<br>obtain<br>oak |  
+| bip_39_word_new_br9 | defy<br>kitchen<br>panic<br>seminar<br>slice<br>hospital<br>obtain<br>oak<br>nasty |  
+| bip_39_word_new_line1 | defy |  
+| bip_39_word_new_line10 | defy
+kitchen
+panic
+seminar
+slice
+hospital
+obtain
+oak
+nasty
+sunny |  
+| bip_39_word_new_line11 | defy
+kitchen
+panic
+seminar
+slice
+hospital
+obtain
+oak
+nasty
+sunny
+shoot |  
+| bip_39_word_new_line12 | defy
+kitchen
+panic
+seminar
+slice
+hospital
+obtain
+oak
+nasty
+sunny
+shoot
+above |  
+| bip_39_word_new_line2 | defy
+kitchen |  
+| bip_39_word_new_line3 | defy
+kitchen
+panic |  
+| bip_39_word_new_line4 | defy
+kitchen
+panic
+seminar |  
+| bip_39_word_new_line5 | defy
+kitchen
+panic
+seminar
+slice |  
+| bip_39_word_new_line6 | defy
+kitchen
+panic
+seminar
+slice
+hospital |  
+| bip_39_word_new_line7 | defy
+kitchen
+panic
+seminar
+slice
+hospital
+obtain |  
+| bip_39_word_new_line8 | defy
+kitchen
+panic
+seminar
+slice
+hospital
+obtain
+oak |  
+| bip_39_word_new_line9 | defy
+kitchen
+panic
+seminar
+slice
+hospital
+obtain
+oak
+nasty |  
+| bip_39_word_space_0 | ['defy', 'kitchen', 'panic', 'seminar', 'slice', 'hospital', 'obtain', 'oak', 'nasty', 'sunny', 'shoot', 'above'] |  
+| bip_39_word_space_1 | defy |  
+| bip_39_word_space_10 | defy kitchen panic seminar slice hospital obtain oak nasty sunny |  
+| bip_39_word_space_11 | defy kitchen panic seminar slice hospital obtain oak nasty sunny shoot |  
+| bip_39_word_space_12 | defy kitchen panic seminar slice hospital obtain oak nasty sunny shoot above |  
+| bip_39_word_space_2 | defy kitchen |  
+| bip_39_word_space_3 | defy kitchen panic |  
+| bip_39_word_space_4 | defy kitchen panic seminar |  
+| bip_39_word_space_5 | defy kitchen panic seminar slice |  
+| bip_39_word_space_6 | defy kitchen panic seminar slice hospital |  
+| bip_39_word_space_7 | defy kitchen panic seminar slice hospital obtain |  
+| bip_39_word_space_8 | defy kitchen panic seminar slice hospital obtain oak |  
+| bip_39_word_space_9 | defy kitchen panic seminar slice hospital obtain oak nasty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

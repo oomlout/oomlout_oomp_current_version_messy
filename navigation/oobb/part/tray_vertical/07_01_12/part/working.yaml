@@ -1,3 +1,186 @@
+bip_39_word_new_br1: reduce
+bip_39_word_new_br10: reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member
+bip_39_word_new_br11: reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member<br>error
+bip_39_word_new_br12: reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse<br>member<br>error<br>advice
+bip_39_word_new_br2: reduce<br>glove
+bip_39_word_new_br3: reduce<br>glove<br>board
+bip_39_word_new_br4: reduce<br>glove<br>board<br>fetch
+bip_39_word_new_br5: reduce<br>glove<br>board<br>fetch<br>cook
+bip_39_word_new_br6: reduce<br>glove<br>board<br>fetch<br>cook<br>congress
+bip_39_word_new_br7: reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle
+bip_39_word_new_br8: reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar
+bip_39_word_new_br9: reduce<br>glove<br>board<br>fetch<br>cook<br>congress<br>ankle<br>polar<br>endorse
+bip_39_word_new_line1: reduce
+bip_39_word_new_line10: 'reduce
+
+  glove
+
+  board
+
+  fetch
+
+  cook
+
+  congress
+
+  ankle
+
+  polar
+
+  endorse
+
+  member'
+bip_39_word_new_line11: 'reduce
+
+  glove
+
+  board
+
+  fetch
+
+  cook
+
+  congress
+
+  ankle
+
+  polar
+
+  endorse
+
+  member
+
+  error'
+bip_39_word_new_line12: 'reduce
+
+  glove
+
+  board
+
+  fetch
+
+  cook
+
+  congress
+
+  ankle
+
+  polar
+
+  endorse
+
+  member
+
+  error
+
+  advice'
+bip_39_word_new_line2: 'reduce
+
+  glove'
+bip_39_word_new_line3: 'reduce
+
+  glove
+
+  board'
+bip_39_word_new_line4: 'reduce
+
+  glove
+
+  board
+
+  fetch'
+bip_39_word_new_line5: 'reduce
+
+  glove
+
+  board
+
+  fetch
+
+  cook'
+bip_39_word_new_line6: 'reduce
+
+  glove
+
+  board
+
+  fetch
+
+  cook
+
+  congress'
+bip_39_word_new_line7: 'reduce
+
+  glove
+
+  board
+
+  fetch
+
+  cook
+
+  congress
+
+  ankle'
+bip_39_word_new_line8: 'reduce
+
+  glove
+
+  board
+
+  fetch
+
+  cook
+
+  congress
+
+  ankle
+
+  polar'
+bip_39_word_new_line9: 'reduce
+
+  glove
+
+  board
+
+  fetch
+
+  cook
+
+  congress
+
+  ankle
+
+  polar
+
+  endorse'
+bip_39_word_space_0:
+- reduce
+- glove
+- board
+- fetch
+- cook
+- congress
+- ankle
+- polar
+- endorse
+- member
+- error
+- advice
+bip_39_word_space_1: reduce
+bip_39_word_space_10: reduce glove board fetch cook congress ankle polar endorse member
+bip_39_word_space_11: reduce glove board fetch cook congress ankle polar endorse member
+  error
+bip_39_word_space_12: reduce glove board fetch cook congress ankle polar endorse member
+  error advice
+bip_39_word_space_2: reduce glove
+bip_39_word_space_3: reduce glove board
+bip_39_word_space_4: reduce glove board fetch
+bip_39_word_space_5: reduce glove board fetch cook
+bip_39_word_space_6: reduce glove board fetch cook congress
+bip_39_word_space_7: reduce glove board fetch cook congress ankle
+bip_39_word_space_8: reduce glove board fetch cook congress ankle polar
+bip_39_word_space_9: reduce glove board fetch cook congress ankle polar endorse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

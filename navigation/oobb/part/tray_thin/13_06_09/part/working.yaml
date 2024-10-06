@@ -1,3 +1,187 @@
+bip_39_word_new_br1: profit
+bip_39_word_new_br10: profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record
+bip_39_word_new_br11: profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record<br>warm
+bip_39_word_new_br12: profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder<br>record<br>warm<br>album
+bip_39_word_new_br2: profit<br>palm
+bip_39_word_new_br3: profit<br>palm<br>hunt
+bip_39_word_new_br4: profit<br>palm<br>hunt<br>verify
+bip_39_word_new_br5: profit<br>palm<br>hunt<br>verify<br>unusual
+bip_39_word_new_br6: profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage
+bip_39_word_new_br7: profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich
+bip_39_word_new_br8: profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable
+bip_39_word_new_br9: profit<br>palm<br>hunt<br>verify<br>unusual<br>vintage<br>rich<br>capable<br>thunder
+bip_39_word_new_line1: profit
+bip_39_word_new_line10: 'profit
+
+  palm
+
+  hunt
+
+  verify
+
+  unusual
+
+  vintage
+
+  rich
+
+  capable
+
+  thunder
+
+  record'
+bip_39_word_new_line11: 'profit
+
+  palm
+
+  hunt
+
+  verify
+
+  unusual
+
+  vintage
+
+  rich
+
+  capable
+
+  thunder
+
+  record
+
+  warm'
+bip_39_word_new_line12: 'profit
+
+  palm
+
+  hunt
+
+  verify
+
+  unusual
+
+  vintage
+
+  rich
+
+  capable
+
+  thunder
+
+  record
+
+  warm
+
+  album'
+bip_39_word_new_line2: 'profit
+
+  palm'
+bip_39_word_new_line3: 'profit
+
+  palm
+
+  hunt'
+bip_39_word_new_line4: 'profit
+
+  palm
+
+  hunt
+
+  verify'
+bip_39_word_new_line5: 'profit
+
+  palm
+
+  hunt
+
+  verify
+
+  unusual'
+bip_39_word_new_line6: 'profit
+
+  palm
+
+  hunt
+
+  verify
+
+  unusual
+
+  vintage'
+bip_39_word_new_line7: 'profit
+
+  palm
+
+  hunt
+
+  verify
+
+  unusual
+
+  vintage
+
+  rich'
+bip_39_word_new_line8: 'profit
+
+  palm
+
+  hunt
+
+  verify
+
+  unusual
+
+  vintage
+
+  rich
+
+  capable'
+bip_39_word_new_line9: 'profit
+
+  palm
+
+  hunt
+
+  verify
+
+  unusual
+
+  vintage
+
+  rich
+
+  capable
+
+  thunder'
+bip_39_word_space_0:
+- profit
+- palm
+- hunt
+- verify
+- unusual
+- vintage
+- rich
+- capable
+- thunder
+- record
+- warm
+- album
+bip_39_word_space_1: profit
+bip_39_word_space_10: profit palm hunt verify unusual vintage rich capable thunder
+  record
+bip_39_word_space_11: profit palm hunt verify unusual vintage rich capable thunder
+  record warm
+bip_39_word_space_12: profit palm hunt verify unusual vintage rich capable thunder
+  record warm album
+bip_39_word_space_2: profit palm
+bip_39_word_space_3: profit palm hunt
+bip_39_word_space_4: profit palm hunt verify
+bip_39_word_space_5: profit palm hunt verify unusual
+bip_39_word_space_6: profit palm hunt verify unusual vintage
+bip_39_word_space_7: profit palm hunt verify unusual vintage rich
+bip_39_word_space_8: profit palm hunt verify unusual vintage rich capable
+bip_39_word_space_9: profit palm hunt verify unusual vintage rich capable thunder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

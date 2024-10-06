@@ -1,3 +1,186 @@
+bip_39_word_new_br1: best
+bip_39_word_new_br10: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief
+bip_39_word_new_br11: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief<br>tragic
+bip_39_word_new_br12: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip<br>brief<br>tragic<br>artwork
+bip_39_word_new_br2: best<br>melody
+bip_39_word_new_br3: best<br>melody<br>property
+bip_39_word_new_br4: best<br>melody<br>property<br>lend
+bip_39_word_new_br5: best<br>melody<br>property<br>lend<br>youth
+bip_39_word_new_br6: best<br>melody<br>property<br>lend<br>youth<br>whale
+bip_39_word_new_br7: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage
+bip_39_word_new_br8: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin
+bip_39_word_new_br9: best<br>melody<br>property<br>lend<br>youth<br>whale<br>vintage<br>spin<br>gossip
+bip_39_word_new_line1: best
+bip_39_word_new_line10: 'best
+
+  melody
+
+  property
+
+  lend
+
+  youth
+
+  whale
+
+  vintage
+
+  spin
+
+  gossip
+
+  brief'
+bip_39_word_new_line11: 'best
+
+  melody
+
+  property
+
+  lend
+
+  youth
+
+  whale
+
+  vintage
+
+  spin
+
+  gossip
+
+  brief
+
+  tragic'
+bip_39_word_new_line12: 'best
+
+  melody
+
+  property
+
+  lend
+
+  youth
+
+  whale
+
+  vintage
+
+  spin
+
+  gossip
+
+  brief
+
+  tragic
+
+  artwork'
+bip_39_word_new_line2: 'best
+
+  melody'
+bip_39_word_new_line3: 'best
+
+  melody
+
+  property'
+bip_39_word_new_line4: 'best
+
+  melody
+
+  property
+
+  lend'
+bip_39_word_new_line5: 'best
+
+  melody
+
+  property
+
+  lend
+
+  youth'
+bip_39_word_new_line6: 'best
+
+  melody
+
+  property
+
+  lend
+
+  youth
+
+  whale'
+bip_39_word_new_line7: 'best
+
+  melody
+
+  property
+
+  lend
+
+  youth
+
+  whale
+
+  vintage'
+bip_39_word_new_line8: 'best
+
+  melody
+
+  property
+
+  lend
+
+  youth
+
+  whale
+
+  vintage
+
+  spin'
+bip_39_word_new_line9: 'best
+
+  melody
+
+  property
+
+  lend
+
+  youth
+
+  whale
+
+  vintage
+
+  spin
+
+  gossip'
+bip_39_word_space_0:
+- best
+- melody
+- property
+- lend
+- youth
+- whale
+- vintage
+- spin
+- gossip
+- brief
+- tragic
+- artwork
+bip_39_word_space_1: best
+bip_39_word_space_10: best melody property lend youth whale vintage spin gossip brief
+bip_39_word_space_11: best melody property lend youth whale vintage spin gossip brief
+  tragic
+bip_39_word_space_12: best melody property lend youth whale vintage spin gossip brief
+  tragic artwork
+bip_39_word_space_2: best melody
+bip_39_word_space_3: best melody property
+bip_39_word_space_4: best melody property lend
+bip_39_word_space_5: best melody property lend youth
+bip_39_word_space_6: best melody property lend youth whale
+bip_39_word_space_7: best melody property lend youth whale vintage
+bip_39_word_space_8: best melody property lend youth whale vintage spin
+bip_39_word_space_9: best melody property lend youth whale vintage spin gossip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: feature
+bip_39_word_new_br10: feature<br>morning<br>hub<br>shield<br>want<br>guess<br>bulb<br>steak<br>spring<br>prepare
+bip_39_word_new_br11: feature<br>morning<br>hub<br>shield<br>want<br>guess<br>bulb<br>steak<br>spring<br>prepare<br>eye
+bip_39_word_new_br12: feature<br>morning<br>hub<br>shield<br>want<br>guess<br>bulb<br>steak<br>spring<br>prepare<br>eye<br>achieve
+bip_39_word_new_br2: feature<br>morning
+bip_39_word_new_br3: feature<br>morning<br>hub
+bip_39_word_new_br4: feature<br>morning<br>hub<br>shield
+bip_39_word_new_br5: feature<br>morning<br>hub<br>shield<br>want
+bip_39_word_new_br6: feature<br>morning<br>hub<br>shield<br>want<br>guess
+bip_39_word_new_br7: feature<br>morning<br>hub<br>shield<br>want<br>guess<br>bulb
+bip_39_word_new_br8: feature<br>morning<br>hub<br>shield<br>want<br>guess<br>bulb<br>steak
+bip_39_word_new_br9: feature<br>morning<br>hub<br>shield<br>want<br>guess<br>bulb<br>steak<br>spring
+bip_39_word_new_line1: feature
+bip_39_word_new_line10: 'feature
+
+  morning
+
+  hub
+
+  shield
+
+  want
+
+  guess
+
+  bulb
+
+  steak
+
+  spring
+
+  prepare'
+bip_39_word_new_line11: 'feature
+
+  morning
+
+  hub
+
+  shield
+
+  want
+
+  guess
+
+  bulb
+
+  steak
+
+  spring
+
+  prepare
+
+  eye'
+bip_39_word_new_line12: 'feature
+
+  morning
+
+  hub
+
+  shield
+
+  want
+
+  guess
+
+  bulb
+
+  steak
+
+  spring
+
+  prepare
+
+  eye
+
+  achieve'
+bip_39_word_new_line2: 'feature
+
+  morning'
+bip_39_word_new_line3: 'feature
+
+  morning
+
+  hub'
+bip_39_word_new_line4: 'feature
+
+  morning
+
+  hub
+
+  shield'
+bip_39_word_new_line5: 'feature
+
+  morning
+
+  hub
+
+  shield
+
+  want'
+bip_39_word_new_line6: 'feature
+
+  morning
+
+  hub
+
+  shield
+
+  want
+
+  guess'
+bip_39_word_new_line7: 'feature
+
+  morning
+
+  hub
+
+  shield
+
+  want
+
+  guess
+
+  bulb'
+bip_39_word_new_line8: 'feature
+
+  morning
+
+  hub
+
+  shield
+
+  want
+
+  guess
+
+  bulb
+
+  steak'
+bip_39_word_new_line9: 'feature
+
+  morning
+
+  hub
+
+  shield
+
+  want
+
+  guess
+
+  bulb
+
+  steak
+
+  spring'
+bip_39_word_space_0:
+- feature
+- morning
+- hub
+- shield
+- want
+- guess
+- bulb
+- steak
+- spring
+- prepare
+- eye
+- achieve
+bip_39_word_space_1: feature
+bip_39_word_space_10: feature morning hub shield want guess bulb steak spring prepare
+bip_39_word_space_11: feature morning hub shield want guess bulb steak spring prepare
+  eye
+bip_39_word_space_12: feature morning hub shield want guess bulb steak spring prepare
+  eye achieve
+bip_39_word_space_2: feature morning
+bip_39_word_space_3: feature morning hub
+bip_39_word_space_4: feature morning hub shield
+bip_39_word_space_5: feature morning hub shield want
+bip_39_word_space_6: feature morning hub shield want guess
+bip_39_word_space_7: feature morning hub shield want guess bulb
+bip_39_word_space_8: feature morning hub shield want guess bulb steak
+bip_39_word_space_9: feature morning hub shield want guess bulb steak spring
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

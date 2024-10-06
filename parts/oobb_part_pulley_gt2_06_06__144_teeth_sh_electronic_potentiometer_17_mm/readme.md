@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: include barely
+  * bip 39 word 3: include barely measure
+  * bip 39 word: include barely measure buyer park betray kitchen track version example wall adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | include |  
+| bip_39_word_new_br10 | include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version<br>example |  
+| bip_39_word_new_br11 | include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version<br>example<br>wall |  
+| bip_39_word_new_br12 | include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version<br>example<br>wall<br>adjust |  
+| bip_39_word_new_br2 | include<br>barely |  
+| bip_39_word_new_br3 | include<br>barely<br>measure |  
+| bip_39_word_new_br4 | include<br>barely<br>measure<br>buyer |  
+| bip_39_word_new_br5 | include<br>barely<br>measure<br>buyer<br>park |  
+| bip_39_word_new_br6 | include<br>barely<br>measure<br>buyer<br>park<br>betray |  
+| bip_39_word_new_br7 | include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen |  
+| bip_39_word_new_br8 | include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track |  
+| bip_39_word_new_br9 | include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version |  
+| bip_39_word_new_line1 | include |  
+| bip_39_word_new_line10 | include
+barely
+measure
+buyer
+park
+betray
+kitchen
+track
+version
+example |  
+| bip_39_word_new_line11 | include
+barely
+measure
+buyer
+park
+betray
+kitchen
+track
+version
+example
+wall |  
+| bip_39_word_new_line12 | include
+barely
+measure
+buyer
+park
+betray
+kitchen
+track
+version
+example
+wall
+adjust |  
+| bip_39_word_new_line2 | include
+barely |  
+| bip_39_word_new_line3 | include
+barely
+measure |  
+| bip_39_word_new_line4 | include
+barely
+measure
+buyer |  
+| bip_39_word_new_line5 | include
+barely
+measure
+buyer
+park |  
+| bip_39_word_new_line6 | include
+barely
+measure
+buyer
+park
+betray |  
+| bip_39_word_new_line7 | include
+barely
+measure
+buyer
+park
+betray
+kitchen |  
+| bip_39_word_new_line8 | include
+barely
+measure
+buyer
+park
+betray
+kitchen
+track |  
+| bip_39_word_new_line9 | include
+barely
+measure
+buyer
+park
+betray
+kitchen
+track
+version |  
+| bip_39_word_space_0 | ['include', 'barely', 'measure', 'buyer', 'park', 'betray', 'kitchen', 'track', 'version', 'example', 'wall', 'adjust'] |  
+| bip_39_word_space_1 | include |  
+| bip_39_word_space_10 | include barely measure buyer park betray kitchen track version example |  
+| bip_39_word_space_11 | include barely measure buyer park betray kitchen track version example wall |  
+| bip_39_word_space_12 | include barely measure buyer park betray kitchen track version example wall adjust |  
+| bip_39_word_space_2 | include barely |  
+| bip_39_word_space_3 | include barely measure |  
+| bip_39_word_space_4 | include barely measure buyer |  
+| bip_39_word_space_5 | include barely measure buyer park |  
+| bip_39_word_space_6 | include barely measure buyer park betray |  
+| bip_39_word_space_7 | include barely measure buyer park betray kitchen |  
+| bip_39_word_space_8 | include barely measure buyer park betray kitchen track |  
+| bip_39_word_space_9 | include barely measure buyer park betray kitchen track version |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

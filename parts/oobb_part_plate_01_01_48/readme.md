@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: seat ski
+  * bip 39 word 3: seat ski distance
+  * bip 39 word: seat ski distance lumber coin time bomb summer bunker tank wisdom attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | seat |  
+| bip_39_word_new_br10 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank |  
+| bip_39_word_new_br11 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank<br>wisdom |  
+| bip_39_word_new_br12 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker<br>tank<br>wisdom<br>attack |  
+| bip_39_word_new_br2 | seat<br>ski |  
+| bip_39_word_new_br3 | seat<br>ski<br>distance |  
+| bip_39_word_new_br4 | seat<br>ski<br>distance<br>lumber |  
+| bip_39_word_new_br5 | seat<br>ski<br>distance<br>lumber<br>coin |  
+| bip_39_word_new_br6 | seat<br>ski<br>distance<br>lumber<br>coin<br>time |  
+| bip_39_word_new_br7 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb |  
+| bip_39_word_new_br8 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer |  
+| bip_39_word_new_br9 | seat<br>ski<br>distance<br>lumber<br>coin<br>time<br>bomb<br>summer<br>bunker |  
+| bip_39_word_new_line1 | seat |  
+| bip_39_word_new_line10 | seat
+ski
+distance
+lumber
+coin
+time
+bomb
+summer
+bunker
+tank |  
+| bip_39_word_new_line11 | seat
+ski
+distance
+lumber
+coin
+time
+bomb
+summer
+bunker
+tank
+wisdom |  
+| bip_39_word_new_line12 | seat
+ski
+distance
+lumber
+coin
+time
+bomb
+summer
+bunker
+tank
+wisdom
+attack |  
+| bip_39_word_new_line2 | seat
+ski |  
+| bip_39_word_new_line3 | seat
+ski
+distance |  
+| bip_39_word_new_line4 | seat
+ski
+distance
+lumber |  
+| bip_39_word_new_line5 | seat
+ski
+distance
+lumber
+coin |  
+| bip_39_word_new_line6 | seat
+ski
+distance
+lumber
+coin
+time |  
+| bip_39_word_new_line7 | seat
+ski
+distance
+lumber
+coin
+time
+bomb |  
+| bip_39_word_new_line8 | seat
+ski
+distance
+lumber
+coin
+time
+bomb
+summer |  
+| bip_39_word_new_line9 | seat
+ski
+distance
+lumber
+coin
+time
+bomb
+summer
+bunker |  
+| bip_39_word_space_0 | ['seat', 'ski', 'distance', 'lumber', 'coin', 'time', 'bomb', 'summer', 'bunker', 'tank', 'wisdom', 'attack'] |  
+| bip_39_word_space_1 | seat |  
+| bip_39_word_space_10 | seat ski distance lumber coin time bomb summer bunker tank |  
+| bip_39_word_space_11 | seat ski distance lumber coin time bomb summer bunker tank wisdom |  
+| bip_39_word_space_12 | seat ski distance lumber coin time bomb summer bunker tank wisdom attack |  
+| bip_39_word_space_2 | seat ski |  
+| bip_39_word_space_3 | seat ski distance |  
+| bip_39_word_space_4 | seat ski distance lumber |  
+| bip_39_word_space_5 | seat ski distance lumber coin |  
+| bip_39_word_space_6 | seat ski distance lumber coin time |  
+| bip_39_word_space_7 | seat ski distance lumber coin time bomb |  
+| bip_39_word_space_8 | seat ski distance lumber coin time bomb summer |  
+| bip_39_word_space_9 | seat ski distance lumber coin time bomb summer bunker |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

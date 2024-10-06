@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: axis cover
+  * bip 39 word 3: axis cover nasty
+  * bip 39 word: axis cover nasty stuff puzzle spatial priority position argue drum crunch always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | axis |  
+| bip_39_word_new_br10 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum |  
+| bip_39_word_new_br11 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum<br>crunch |  
+| bip_39_word_new_br12 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue<br>drum<br>crunch<br>always |  
+| bip_39_word_new_br2 | axis<br>cover |  
+| bip_39_word_new_br3 | axis<br>cover<br>nasty |  
+| bip_39_word_new_br4 | axis<br>cover<br>nasty<br>stuff |  
+| bip_39_word_new_br5 | axis<br>cover<br>nasty<br>stuff<br>puzzle |  
+| bip_39_word_new_br6 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial |  
+| bip_39_word_new_br7 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority |  
+| bip_39_word_new_br8 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position |  
+| bip_39_word_new_br9 | axis<br>cover<br>nasty<br>stuff<br>puzzle<br>spatial<br>priority<br>position<br>argue |  
+| bip_39_word_new_line1 | axis |  
+| bip_39_word_new_line10 | axis
+cover
+nasty
+stuff
+puzzle
+spatial
+priority
+position
+argue
+drum |  
+| bip_39_word_new_line11 | axis
+cover
+nasty
+stuff
+puzzle
+spatial
+priority
+position
+argue
+drum
+crunch |  
+| bip_39_word_new_line12 | axis
+cover
+nasty
+stuff
+puzzle
+spatial
+priority
+position
+argue
+drum
+crunch
+always |  
+| bip_39_word_new_line2 | axis
+cover |  
+| bip_39_word_new_line3 | axis
+cover
+nasty |  
+| bip_39_word_new_line4 | axis
+cover
+nasty
+stuff |  
+| bip_39_word_new_line5 | axis
+cover
+nasty
+stuff
+puzzle |  
+| bip_39_word_new_line6 | axis
+cover
+nasty
+stuff
+puzzle
+spatial |  
+| bip_39_word_new_line7 | axis
+cover
+nasty
+stuff
+puzzle
+spatial
+priority |  
+| bip_39_word_new_line8 | axis
+cover
+nasty
+stuff
+puzzle
+spatial
+priority
+position |  
+| bip_39_word_new_line9 | axis
+cover
+nasty
+stuff
+puzzle
+spatial
+priority
+position
+argue |  
+| bip_39_word_space_0 | ['axis', 'cover', 'nasty', 'stuff', 'puzzle', 'spatial', 'priority', 'position', 'argue', 'drum', 'crunch', 'always'] |  
+| bip_39_word_space_1 | axis |  
+| bip_39_word_space_10 | axis cover nasty stuff puzzle spatial priority position argue drum |  
+| bip_39_word_space_11 | axis cover nasty stuff puzzle spatial priority position argue drum crunch |  
+| bip_39_word_space_12 | axis cover nasty stuff puzzle spatial priority position argue drum crunch always |  
+| bip_39_word_space_2 | axis cover |  
+| bip_39_word_space_3 | axis cover nasty |  
+| bip_39_word_space_4 | axis cover nasty stuff |  
+| bip_39_word_space_5 | axis cover nasty stuff puzzle |  
+| bip_39_word_space_6 | axis cover nasty stuff puzzle spatial |  
+| bip_39_word_space_7 | axis cover nasty stuff puzzle spatial priority |  
+| bip_39_word_space_8 | axis cover nasty stuff puzzle spatial priority position |  
+| bip_39_word_space_9 | axis cover nasty stuff puzzle spatial priority position argue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

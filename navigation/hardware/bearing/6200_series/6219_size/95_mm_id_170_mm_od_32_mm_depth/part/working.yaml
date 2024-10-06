@@ -1,3 +1,186 @@
+bip_39_word_new_br1: squirrel
+bip_39_word_new_br10: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute
+bip_39_word_new_br11: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt
+bip_39_word_new_br12: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt<br>auto
+bip_39_word_new_br2: squirrel<br>luxury
+bip_39_word_new_br3: squirrel<br>luxury<br>book
+bip_39_word_new_br4: squirrel<br>luxury<br>book<br>chaos
+bip_39_word_new_br5: squirrel<br>luxury<br>book<br>chaos<br>fuel
+bip_39_word_new_br6: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half
+bip_39_word_new_br7: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle
+bip_39_word_new_br8: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own
+bip_39_word_new_br9: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur
+bip_39_word_new_line1: squirrel
+bip_39_word_new_line10: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own
+
+  occur
+
+  cute'
+bip_39_word_new_line11: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own
+
+  occur
+
+  cute
+
+  guilt'
+bip_39_word_new_line12: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own
+
+  occur
+
+  cute
+
+  guilt
+
+  auto'
+bip_39_word_new_line2: 'squirrel
+
+  luxury'
+bip_39_word_new_line3: 'squirrel
+
+  luxury
+
+  book'
+bip_39_word_new_line4: 'squirrel
+
+  luxury
+
+  book
+
+  chaos'
+bip_39_word_new_line5: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel'
+bip_39_word_new_line6: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half'
+bip_39_word_new_line7: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle'
+bip_39_word_new_line8: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own'
+bip_39_word_new_line9: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own
+
+  occur'
+bip_39_word_space_0:
+- squirrel
+- luxury
+- book
+- chaos
+- fuel
+- half
+- wrestle
+- own
+- occur
+- cute
+- guilt
+- auto
+bip_39_word_space_1: squirrel
+bip_39_word_space_10: squirrel luxury book chaos fuel half wrestle own occur cute
+bip_39_word_space_11: squirrel luxury book chaos fuel half wrestle own occur cute
+  guilt
+bip_39_word_space_12: squirrel luxury book chaos fuel half wrestle own occur cute
+  guilt auto
+bip_39_word_space_2: squirrel luxury
+bip_39_word_space_3: squirrel luxury book
+bip_39_word_space_4: squirrel luxury book chaos
+bip_39_word_space_5: squirrel luxury book chaos fuel
+bip_39_word_space_6: squirrel luxury book chaos fuel half
+bip_39_word_space_7: squirrel luxury book chaos fuel half wrestle
+bip_39_word_space_8: squirrel luxury book chaos fuel half wrestle own
+bip_39_word_space_9: squirrel luxury book chaos fuel half wrestle own occur
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

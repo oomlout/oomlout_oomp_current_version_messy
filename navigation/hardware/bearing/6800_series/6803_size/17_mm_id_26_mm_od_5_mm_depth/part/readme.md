@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: web jelly
+  * bip 39 word 3: web jelly swarm
+  * bip 39 word: web jelly swarm slab right muscle whisper divide ugly salad arrest absent
 
 ### other_codes
 * short_code: br6803
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | web |  
+| bip_39_word_new_br10 | web<br>jelly<br>swarm<br>slab<br>right<br>muscle<br>whisper<br>divide<br>ugly<br>salad |  
+| bip_39_word_new_br11 | web<br>jelly<br>swarm<br>slab<br>right<br>muscle<br>whisper<br>divide<br>ugly<br>salad<br>arrest |  
+| bip_39_word_new_br12 | web<br>jelly<br>swarm<br>slab<br>right<br>muscle<br>whisper<br>divide<br>ugly<br>salad<br>arrest<br>absent |  
+| bip_39_word_new_br2 | web<br>jelly |  
+| bip_39_word_new_br3 | web<br>jelly<br>swarm |  
+| bip_39_word_new_br4 | web<br>jelly<br>swarm<br>slab |  
+| bip_39_word_new_br5 | web<br>jelly<br>swarm<br>slab<br>right |  
+| bip_39_word_new_br6 | web<br>jelly<br>swarm<br>slab<br>right<br>muscle |  
+| bip_39_word_new_br7 | web<br>jelly<br>swarm<br>slab<br>right<br>muscle<br>whisper |  
+| bip_39_word_new_br8 | web<br>jelly<br>swarm<br>slab<br>right<br>muscle<br>whisper<br>divide |  
+| bip_39_word_new_br9 | web<br>jelly<br>swarm<br>slab<br>right<br>muscle<br>whisper<br>divide<br>ugly |  
+| bip_39_word_new_line1 | web |  
+| bip_39_word_new_line10 | web
+jelly
+swarm
+slab
+right
+muscle
+whisper
+divide
+ugly
+salad |  
+| bip_39_word_new_line11 | web
+jelly
+swarm
+slab
+right
+muscle
+whisper
+divide
+ugly
+salad
+arrest |  
+| bip_39_word_new_line12 | web
+jelly
+swarm
+slab
+right
+muscle
+whisper
+divide
+ugly
+salad
+arrest
+absent |  
+| bip_39_word_new_line2 | web
+jelly |  
+| bip_39_word_new_line3 | web
+jelly
+swarm |  
+| bip_39_word_new_line4 | web
+jelly
+swarm
+slab |  
+| bip_39_word_new_line5 | web
+jelly
+swarm
+slab
+right |  
+| bip_39_word_new_line6 | web
+jelly
+swarm
+slab
+right
+muscle |  
+| bip_39_word_new_line7 | web
+jelly
+swarm
+slab
+right
+muscle
+whisper |  
+| bip_39_word_new_line8 | web
+jelly
+swarm
+slab
+right
+muscle
+whisper
+divide |  
+| bip_39_word_new_line9 | web
+jelly
+swarm
+slab
+right
+muscle
+whisper
+divide
+ugly |  
+| bip_39_word_space_0 | ['web', 'jelly', 'swarm', 'slab', 'right', 'muscle', 'whisper', 'divide', 'ugly', 'salad', 'arrest', 'absent'] |  
+| bip_39_word_space_1 | web |  
+| bip_39_word_space_10 | web jelly swarm slab right muscle whisper divide ugly salad |  
+| bip_39_word_space_11 | web jelly swarm slab right muscle whisper divide ugly salad arrest |  
+| bip_39_word_space_12 | web jelly swarm slab right muscle whisper divide ugly salad arrest absent |  
+| bip_39_word_space_2 | web jelly |  
+| bip_39_word_space_3 | web jelly swarm |  
+| bip_39_word_space_4 | web jelly swarm slab |  
+| bip_39_word_space_5 | web jelly swarm slab right |  
+| bip_39_word_space_6 | web jelly swarm slab right muscle |  
+| bip_39_word_space_7 | web jelly swarm slab right muscle whisper |  
+| bip_39_word_space_8 | web jelly swarm slab right muscle whisper divide |  
+| bip_39_word_space_9 | web jelly swarm slab right muscle whisper divide ugly |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

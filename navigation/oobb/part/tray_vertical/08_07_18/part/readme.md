@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bleak stamp
+  * bip 39 word 3: bleak stamp assume
+  * bip 39 word: bleak stamp assume acid size ordinary ride kiwi hundred ugly menu acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bleak |  
+| bip_39_word_new_br10 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly |  
+| bip_39_word_new_br11 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly<br>menu |  
+| bip_39_word_new_br12 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred<br>ugly<br>menu<br>acoustic |  
+| bip_39_word_new_br2 | bleak<br>stamp |  
+| bip_39_word_new_br3 | bleak<br>stamp<br>assume |  
+| bip_39_word_new_br4 | bleak<br>stamp<br>assume<br>acid |  
+| bip_39_word_new_br5 | bleak<br>stamp<br>assume<br>acid<br>size |  
+| bip_39_word_new_br6 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary |  
+| bip_39_word_new_br7 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride |  
+| bip_39_word_new_br8 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi |  
+| bip_39_word_new_br9 | bleak<br>stamp<br>assume<br>acid<br>size<br>ordinary<br>ride<br>kiwi<br>hundred |  
+| bip_39_word_new_line1 | bleak |  
+| bip_39_word_new_line10 | bleak
+stamp
+assume
+acid
+size
+ordinary
+ride
+kiwi
+hundred
+ugly |  
+| bip_39_word_new_line11 | bleak
+stamp
+assume
+acid
+size
+ordinary
+ride
+kiwi
+hundred
+ugly
+menu |  
+| bip_39_word_new_line12 | bleak
+stamp
+assume
+acid
+size
+ordinary
+ride
+kiwi
+hundred
+ugly
+menu
+acoustic |  
+| bip_39_word_new_line2 | bleak
+stamp |  
+| bip_39_word_new_line3 | bleak
+stamp
+assume |  
+| bip_39_word_new_line4 | bleak
+stamp
+assume
+acid |  
+| bip_39_word_new_line5 | bleak
+stamp
+assume
+acid
+size |  
+| bip_39_word_new_line6 | bleak
+stamp
+assume
+acid
+size
+ordinary |  
+| bip_39_word_new_line7 | bleak
+stamp
+assume
+acid
+size
+ordinary
+ride |  
+| bip_39_word_new_line8 | bleak
+stamp
+assume
+acid
+size
+ordinary
+ride
+kiwi |  
+| bip_39_word_new_line9 | bleak
+stamp
+assume
+acid
+size
+ordinary
+ride
+kiwi
+hundred |  
+| bip_39_word_space_0 | ['bleak', 'stamp', 'assume', 'acid', 'size', 'ordinary', 'ride', 'kiwi', 'hundred', 'ugly', 'menu', 'acoustic'] |  
+| bip_39_word_space_1 | bleak |  
+| bip_39_word_space_10 | bleak stamp assume acid size ordinary ride kiwi hundred ugly |  
+| bip_39_word_space_11 | bleak stamp assume acid size ordinary ride kiwi hundred ugly menu |  
+| bip_39_word_space_12 | bleak stamp assume acid size ordinary ride kiwi hundred ugly menu acoustic |  
+| bip_39_word_space_2 | bleak stamp |  
+| bip_39_word_space_3 | bleak stamp assume |  
+| bip_39_word_space_4 | bleak stamp assume acid |  
+| bip_39_word_space_5 | bleak stamp assume acid size |  
+| bip_39_word_space_6 | bleak stamp assume acid size ordinary |  
+| bip_39_word_space_7 | bleak stamp assume acid size ordinary ride |  
+| bip_39_word_space_8 | bleak stamp assume acid size ordinary ride kiwi |  
+| bip_39_word_space_9 | bleak stamp assume acid size ordinary ride kiwi hundred |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tumble olympic
+  * bip 39 word 3: tumble olympic surprise
+  * bip 39 word: tumble olympic surprise harvest want march meadow deal naive hurry cross amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tumble |  
+| bip_39_word_new_br10 | tumble<br>olympic<br>surprise<br>harvest<br>want<br>march<br>meadow<br>deal<br>naive<br>hurry |  
+| bip_39_word_new_br11 | tumble<br>olympic<br>surprise<br>harvest<br>want<br>march<br>meadow<br>deal<br>naive<br>hurry<br>cross |  
+| bip_39_word_new_br12 | tumble<br>olympic<br>surprise<br>harvest<br>want<br>march<br>meadow<br>deal<br>naive<br>hurry<br>cross<br>amount |  
+| bip_39_word_new_br2 | tumble<br>olympic |  
+| bip_39_word_new_br3 | tumble<br>olympic<br>surprise |  
+| bip_39_word_new_br4 | tumble<br>olympic<br>surprise<br>harvest |  
+| bip_39_word_new_br5 | tumble<br>olympic<br>surprise<br>harvest<br>want |  
+| bip_39_word_new_br6 | tumble<br>olympic<br>surprise<br>harvest<br>want<br>march |  
+| bip_39_word_new_br7 | tumble<br>olympic<br>surprise<br>harvest<br>want<br>march<br>meadow |  
+| bip_39_word_new_br8 | tumble<br>olympic<br>surprise<br>harvest<br>want<br>march<br>meadow<br>deal |  
+| bip_39_word_new_br9 | tumble<br>olympic<br>surprise<br>harvest<br>want<br>march<br>meadow<br>deal<br>naive |  
+| bip_39_word_new_line1 | tumble |  
+| bip_39_word_new_line10 | tumble
+olympic
+surprise
+harvest
+want
+march
+meadow
+deal
+naive
+hurry |  
+| bip_39_word_new_line11 | tumble
+olympic
+surprise
+harvest
+want
+march
+meadow
+deal
+naive
+hurry
+cross |  
+| bip_39_word_new_line12 | tumble
+olympic
+surprise
+harvest
+want
+march
+meadow
+deal
+naive
+hurry
+cross
+amount |  
+| bip_39_word_new_line2 | tumble
+olympic |  
+| bip_39_word_new_line3 | tumble
+olympic
+surprise |  
+| bip_39_word_new_line4 | tumble
+olympic
+surprise
+harvest |  
+| bip_39_word_new_line5 | tumble
+olympic
+surprise
+harvest
+want |  
+| bip_39_word_new_line6 | tumble
+olympic
+surprise
+harvest
+want
+march |  
+| bip_39_word_new_line7 | tumble
+olympic
+surprise
+harvest
+want
+march
+meadow |  
+| bip_39_word_new_line8 | tumble
+olympic
+surprise
+harvest
+want
+march
+meadow
+deal |  
+| bip_39_word_new_line9 | tumble
+olympic
+surprise
+harvest
+want
+march
+meadow
+deal
+naive |  
+| bip_39_word_space_0 | ['tumble', 'olympic', 'surprise', 'harvest', 'want', 'march', 'meadow', 'deal', 'naive', 'hurry', 'cross', 'amount'] |  
+| bip_39_word_space_1 | tumble |  
+| bip_39_word_space_10 | tumble olympic surprise harvest want march meadow deal naive hurry |  
+| bip_39_word_space_11 | tumble olympic surprise harvest want march meadow deal naive hurry cross |  
+| bip_39_word_space_12 | tumble olympic surprise harvest want march meadow deal naive hurry cross amount |  
+| bip_39_word_space_2 | tumble olympic |  
+| bip_39_word_space_3 | tumble olympic surprise |  
+| bip_39_word_space_4 | tumble olympic surprise harvest |  
+| bip_39_word_space_5 | tumble olympic surprise harvest want |  
+| bip_39_word_space_6 | tumble olympic surprise harvest want march |  
+| bip_39_word_space_7 | tumble olympic surprise harvest want march meadow |  
+| bip_39_word_space_8 | tumble olympic surprise harvest want march meadow deal |  
+| bip_39_word_space_9 | tumble olympic surprise harvest want march meadow deal naive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

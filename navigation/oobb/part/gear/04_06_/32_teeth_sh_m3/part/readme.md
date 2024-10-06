@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 32_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pave body
+  * bip 39 word 3: pave body under
+  * bip 39 word: pave body under antique twenty host shine keen quiz rival comic all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pave |  
+| bip_39_word_new_br10 | pave<br>body<br>under<br>antique<br>twenty<br>host<br>shine<br>keen<br>quiz<br>rival |  
+| bip_39_word_new_br11 | pave<br>body<br>under<br>antique<br>twenty<br>host<br>shine<br>keen<br>quiz<br>rival<br>comic |  
+| bip_39_word_new_br12 | pave<br>body<br>under<br>antique<br>twenty<br>host<br>shine<br>keen<br>quiz<br>rival<br>comic<br>all |  
+| bip_39_word_new_br2 | pave<br>body |  
+| bip_39_word_new_br3 | pave<br>body<br>under |  
+| bip_39_word_new_br4 | pave<br>body<br>under<br>antique |  
+| bip_39_word_new_br5 | pave<br>body<br>under<br>antique<br>twenty |  
+| bip_39_word_new_br6 | pave<br>body<br>under<br>antique<br>twenty<br>host |  
+| bip_39_word_new_br7 | pave<br>body<br>under<br>antique<br>twenty<br>host<br>shine |  
+| bip_39_word_new_br8 | pave<br>body<br>under<br>antique<br>twenty<br>host<br>shine<br>keen |  
+| bip_39_word_new_br9 | pave<br>body<br>under<br>antique<br>twenty<br>host<br>shine<br>keen<br>quiz |  
+| bip_39_word_new_line1 | pave |  
+| bip_39_word_new_line10 | pave
+body
+under
+antique
+twenty
+host
+shine
+keen
+quiz
+rival |  
+| bip_39_word_new_line11 | pave
+body
+under
+antique
+twenty
+host
+shine
+keen
+quiz
+rival
+comic |  
+| bip_39_word_new_line12 | pave
+body
+under
+antique
+twenty
+host
+shine
+keen
+quiz
+rival
+comic
+all |  
+| bip_39_word_new_line2 | pave
+body |  
+| bip_39_word_new_line3 | pave
+body
+under |  
+| bip_39_word_new_line4 | pave
+body
+under
+antique |  
+| bip_39_word_new_line5 | pave
+body
+under
+antique
+twenty |  
+| bip_39_word_new_line6 | pave
+body
+under
+antique
+twenty
+host |  
+| bip_39_word_new_line7 | pave
+body
+under
+antique
+twenty
+host
+shine |  
+| bip_39_word_new_line8 | pave
+body
+under
+antique
+twenty
+host
+shine
+keen |  
+| bip_39_word_new_line9 | pave
+body
+under
+antique
+twenty
+host
+shine
+keen
+quiz |  
+| bip_39_word_space_0 | ['pave', 'body', 'under', 'antique', 'twenty', 'host', 'shine', 'keen', 'quiz', 'rival', 'comic', 'all'] |  
+| bip_39_word_space_1 | pave |  
+| bip_39_word_space_10 | pave body under antique twenty host shine keen quiz rival |  
+| bip_39_word_space_11 | pave body under antique twenty host shine keen quiz rival comic |  
+| bip_39_word_space_12 | pave body under antique twenty host shine keen quiz rival comic all |  
+| bip_39_word_space_2 | pave body |  
+| bip_39_word_space_3 | pave body under |  
+| bip_39_word_space_4 | pave body under antique |  
+| bip_39_word_space_5 | pave body under antique twenty |  
+| bip_39_word_space_6 | pave body under antique twenty host |  
+| bip_39_word_space_7 | pave body under antique twenty host shine |  
+| bip_39_word_space_8 | pave body under antique twenty host shine keen |  
+| bip_39_word_space_9 | pave body under antique twenty host shine keen quiz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: crisp
+bip_39_word_new_br10: crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very
+bip_39_word_new_br11: crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very<br>copy
+bip_39_word_new_br12: crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local<br>very<br>copy<br>across
+bip_39_word_new_br2: crisp<br>coil
+bip_39_word_new_br3: crisp<br>coil<br>history
+bip_39_word_new_br4: crisp<br>coil<br>history<br>treat
+bip_39_word_new_br5: crisp<br>coil<br>history<br>treat<br>bean
+bip_39_word_new_br6: crisp<br>coil<br>history<br>treat<br>bean<br>frog
+bip_39_word_new_br7: crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry
+bip_39_word_new_br8: crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice
+bip_39_word_new_br9: crisp<br>coil<br>history<br>treat<br>bean<br>frog<br>worry<br>juice<br>local
+bip_39_word_new_line1: crisp
+bip_39_word_new_line10: 'crisp
+
+  coil
+
+  history
+
+  treat
+
+  bean
+
+  frog
+
+  worry
+
+  juice
+
+  local
+
+  very'
+bip_39_word_new_line11: 'crisp
+
+  coil
+
+  history
+
+  treat
+
+  bean
+
+  frog
+
+  worry
+
+  juice
+
+  local
+
+  very
+
+  copy'
+bip_39_word_new_line12: 'crisp
+
+  coil
+
+  history
+
+  treat
+
+  bean
+
+  frog
+
+  worry
+
+  juice
+
+  local
+
+  very
+
+  copy
+
+  across'
+bip_39_word_new_line2: 'crisp
+
+  coil'
+bip_39_word_new_line3: 'crisp
+
+  coil
+
+  history'
+bip_39_word_new_line4: 'crisp
+
+  coil
+
+  history
+
+  treat'
+bip_39_word_new_line5: 'crisp
+
+  coil
+
+  history
+
+  treat
+
+  bean'
+bip_39_word_new_line6: 'crisp
+
+  coil
+
+  history
+
+  treat
+
+  bean
+
+  frog'
+bip_39_word_new_line7: 'crisp
+
+  coil
+
+  history
+
+  treat
+
+  bean
+
+  frog
+
+  worry'
+bip_39_word_new_line8: 'crisp
+
+  coil
+
+  history
+
+  treat
+
+  bean
+
+  frog
+
+  worry
+
+  juice'
+bip_39_word_new_line9: 'crisp
+
+  coil
+
+  history
+
+  treat
+
+  bean
+
+  frog
+
+  worry
+
+  juice
+
+  local'
+bip_39_word_space_0:
+- crisp
+- coil
+- history
+- treat
+- bean
+- frog
+- worry
+- juice
+- local
+- very
+- copy
+- across
+bip_39_word_space_1: crisp
+bip_39_word_space_10: crisp coil history treat bean frog worry juice local very
+bip_39_word_space_11: crisp coil history treat bean frog worry juice local very copy
+bip_39_word_space_12: crisp coil history treat bean frog worry juice local very copy
+  across
+bip_39_word_space_2: crisp coil
+bip_39_word_space_3: crisp coil history
+bip_39_word_space_4: crisp coil history treat
+bip_39_word_space_5: crisp coil history treat bean
+bip_39_word_space_6: crisp coil history treat bean frog
+bip_39_word_space_7: crisp coil history treat bean frog worry
+bip_39_word_space_8: crisp coil history treat bean frog worry juice
+bip_39_word_space_9: crisp coil history treat bean frog worry juice local
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

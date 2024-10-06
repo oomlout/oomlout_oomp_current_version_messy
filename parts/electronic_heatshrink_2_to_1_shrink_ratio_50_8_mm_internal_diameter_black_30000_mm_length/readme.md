@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: artefact arrest
+  * bip 39 word 3: artefact arrest limit
+  * bip 39 word: artefact arrest limit lawn aware tackle orbit morning chef ketchup street amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | artefact |  
+| bip_39_word_new_br10 | artefact<br>arrest<br>limit<br>lawn<br>aware<br>tackle<br>orbit<br>morning<br>chef<br>ketchup |  
+| bip_39_word_new_br11 | artefact<br>arrest<br>limit<br>lawn<br>aware<br>tackle<br>orbit<br>morning<br>chef<br>ketchup<br>street |  
+| bip_39_word_new_br12 | artefact<br>arrest<br>limit<br>lawn<br>aware<br>tackle<br>orbit<br>morning<br>chef<br>ketchup<br>street<br>amount |  
+| bip_39_word_new_br2 | artefact<br>arrest |  
+| bip_39_word_new_br3 | artefact<br>arrest<br>limit |  
+| bip_39_word_new_br4 | artefact<br>arrest<br>limit<br>lawn |  
+| bip_39_word_new_br5 | artefact<br>arrest<br>limit<br>lawn<br>aware |  
+| bip_39_word_new_br6 | artefact<br>arrest<br>limit<br>lawn<br>aware<br>tackle |  
+| bip_39_word_new_br7 | artefact<br>arrest<br>limit<br>lawn<br>aware<br>tackle<br>orbit |  
+| bip_39_word_new_br8 | artefact<br>arrest<br>limit<br>lawn<br>aware<br>tackle<br>orbit<br>morning |  
+| bip_39_word_new_br9 | artefact<br>arrest<br>limit<br>lawn<br>aware<br>tackle<br>orbit<br>morning<br>chef |  
+| bip_39_word_new_line1 | artefact |  
+| bip_39_word_new_line10 | artefact
+arrest
+limit
+lawn
+aware
+tackle
+orbit
+morning
+chef
+ketchup |  
+| bip_39_word_new_line11 | artefact
+arrest
+limit
+lawn
+aware
+tackle
+orbit
+morning
+chef
+ketchup
+street |  
+| bip_39_word_new_line12 | artefact
+arrest
+limit
+lawn
+aware
+tackle
+orbit
+morning
+chef
+ketchup
+street
+amount |  
+| bip_39_word_new_line2 | artefact
+arrest |  
+| bip_39_word_new_line3 | artefact
+arrest
+limit |  
+| bip_39_word_new_line4 | artefact
+arrest
+limit
+lawn |  
+| bip_39_word_new_line5 | artefact
+arrest
+limit
+lawn
+aware |  
+| bip_39_word_new_line6 | artefact
+arrest
+limit
+lawn
+aware
+tackle |  
+| bip_39_word_new_line7 | artefact
+arrest
+limit
+lawn
+aware
+tackle
+orbit |  
+| bip_39_word_new_line8 | artefact
+arrest
+limit
+lawn
+aware
+tackle
+orbit
+morning |  
+| bip_39_word_new_line9 | artefact
+arrest
+limit
+lawn
+aware
+tackle
+orbit
+morning
+chef |  
+| bip_39_word_space_0 | ['artefact', 'arrest', 'limit', 'lawn', 'aware', 'tackle', 'orbit', 'morning', 'chef', 'ketchup', 'street', 'amount'] |  
+| bip_39_word_space_1 | artefact |  
+| bip_39_word_space_10 | artefact arrest limit lawn aware tackle orbit morning chef ketchup |  
+| bip_39_word_space_11 | artefact arrest limit lawn aware tackle orbit morning chef ketchup street |  
+| bip_39_word_space_12 | artefact arrest limit lawn aware tackle orbit morning chef ketchup street amount |  
+| bip_39_word_space_2 | artefact arrest |  
+| bip_39_word_space_3 | artefact arrest limit |  
+| bip_39_word_space_4 | artefact arrest limit lawn |  
+| bip_39_word_space_5 | artefact arrest limit lawn aware |  
+| bip_39_word_space_6 | artefact arrest limit lawn aware tackle |  
+| bip_39_word_space_7 | artefact arrest limit lawn aware tackle orbit |  
+| bip_39_word_space_8 | artefact arrest limit lawn aware tackle orbit morning |  
+| bip_39_word_space_9 | artefact arrest limit lawn aware tackle orbit morning chef |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: end tonight
+  * bip 39 word 3: end tonight day
+  * bip 39 word: end tonight day scene canal inform balcony catalog remind grab poverty assault
 
 ### other_codes
 * short_code: cs6bz40pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | end |  
+| bip_39_word_new_br10 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab |  
+| bip_39_word_new_br11 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab<br>poverty |  
+| bip_39_word_new_br12 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind<br>grab<br>poverty<br>assault |  
+| bip_39_word_new_br2 | end<br>tonight |  
+| bip_39_word_new_br3 | end<br>tonight<br>day |  
+| bip_39_word_new_br4 | end<br>tonight<br>day<br>scene |  
+| bip_39_word_new_br5 | end<br>tonight<br>day<br>scene<br>canal |  
+| bip_39_word_new_br6 | end<br>tonight<br>day<br>scene<br>canal<br>inform |  
+| bip_39_word_new_br7 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony |  
+| bip_39_word_new_br8 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog |  
+| bip_39_word_new_br9 | end<br>tonight<br>day<br>scene<br>canal<br>inform<br>balcony<br>catalog<br>remind |  
+| bip_39_word_new_line1 | end |  
+| bip_39_word_new_line10 | end
+tonight
+day
+scene
+canal
+inform
+balcony
+catalog
+remind
+grab |  
+| bip_39_word_new_line11 | end
+tonight
+day
+scene
+canal
+inform
+balcony
+catalog
+remind
+grab
+poverty |  
+| bip_39_word_new_line12 | end
+tonight
+day
+scene
+canal
+inform
+balcony
+catalog
+remind
+grab
+poverty
+assault |  
+| bip_39_word_new_line2 | end
+tonight |  
+| bip_39_word_new_line3 | end
+tonight
+day |  
+| bip_39_word_new_line4 | end
+tonight
+day
+scene |  
+| bip_39_word_new_line5 | end
+tonight
+day
+scene
+canal |  
+| bip_39_word_new_line6 | end
+tonight
+day
+scene
+canal
+inform |  
+| bip_39_word_new_line7 | end
+tonight
+day
+scene
+canal
+inform
+balcony |  
+| bip_39_word_new_line8 | end
+tonight
+day
+scene
+canal
+inform
+balcony
+catalog |  
+| bip_39_word_new_line9 | end
+tonight
+day
+scene
+canal
+inform
+balcony
+catalog
+remind |  
+| bip_39_word_space_0 | ['end', 'tonight', 'day', 'scene', 'canal', 'inform', 'balcony', 'catalog', 'remind', 'grab', 'poverty', 'assault'] |  
+| bip_39_word_space_1 | end |  
+| bip_39_word_space_10 | end tonight day scene canal inform balcony catalog remind grab |  
+| bip_39_word_space_11 | end tonight day scene canal inform balcony catalog remind grab poverty |  
+| bip_39_word_space_12 | end tonight day scene canal inform balcony catalog remind grab poverty assault |  
+| bip_39_word_space_2 | end tonight |  
+| bip_39_word_space_3 | end tonight day |  
+| bip_39_word_space_4 | end tonight day scene |  
+| bip_39_word_space_5 | end tonight day scene canal |  
+| bip_39_word_space_6 | end tonight day scene canal inform |  
+| bip_39_word_space_7 | end tonight day scene canal inform balcony |  
+| bip_39_word_space_8 | end tonight day scene canal inform balcony catalog |  
+| bip_39_word_space_9 | end tonight day scene canal inform balcony catalog remind |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

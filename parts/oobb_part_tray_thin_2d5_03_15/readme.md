@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stuff stem
+  * bip 39 word 3: stuff stem suggest
+  * bip 39 word: stuff stem suggest unhappy divide pause prefer amazing follow proud ghost account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stuff |  
+| bip_39_word_new_br10 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause<br>prefer<br>amazing<br>follow<br>proud |  
+| bip_39_word_new_br11 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause<br>prefer<br>amazing<br>follow<br>proud<br>ghost |  
+| bip_39_word_new_br12 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause<br>prefer<br>amazing<br>follow<br>proud<br>ghost<br>account |  
+| bip_39_word_new_br2 | stuff<br>stem |  
+| bip_39_word_new_br3 | stuff<br>stem<br>suggest |  
+| bip_39_word_new_br4 | stuff<br>stem<br>suggest<br>unhappy |  
+| bip_39_word_new_br5 | stuff<br>stem<br>suggest<br>unhappy<br>divide |  
+| bip_39_word_new_br6 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause |  
+| bip_39_word_new_br7 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause<br>prefer |  
+| bip_39_word_new_br8 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause<br>prefer<br>amazing |  
+| bip_39_word_new_br9 | stuff<br>stem<br>suggest<br>unhappy<br>divide<br>pause<br>prefer<br>amazing<br>follow |  
+| bip_39_word_new_line1 | stuff |  
+| bip_39_word_new_line10 | stuff
+stem
+suggest
+unhappy
+divide
+pause
+prefer
+amazing
+follow
+proud |  
+| bip_39_word_new_line11 | stuff
+stem
+suggest
+unhappy
+divide
+pause
+prefer
+amazing
+follow
+proud
+ghost |  
+| bip_39_word_new_line12 | stuff
+stem
+suggest
+unhappy
+divide
+pause
+prefer
+amazing
+follow
+proud
+ghost
+account |  
+| bip_39_word_new_line2 | stuff
+stem |  
+| bip_39_word_new_line3 | stuff
+stem
+suggest |  
+| bip_39_word_new_line4 | stuff
+stem
+suggest
+unhappy |  
+| bip_39_word_new_line5 | stuff
+stem
+suggest
+unhappy
+divide |  
+| bip_39_word_new_line6 | stuff
+stem
+suggest
+unhappy
+divide
+pause |  
+| bip_39_word_new_line7 | stuff
+stem
+suggest
+unhappy
+divide
+pause
+prefer |  
+| bip_39_word_new_line8 | stuff
+stem
+suggest
+unhappy
+divide
+pause
+prefer
+amazing |  
+| bip_39_word_new_line9 | stuff
+stem
+suggest
+unhappy
+divide
+pause
+prefer
+amazing
+follow |  
+| bip_39_word_space_0 | ['stuff', 'stem', 'suggest', 'unhappy', 'divide', 'pause', 'prefer', 'amazing', 'follow', 'proud', 'ghost', 'account'] |  
+| bip_39_word_space_1 | stuff |  
+| bip_39_word_space_10 | stuff stem suggest unhappy divide pause prefer amazing follow proud |  
+| bip_39_word_space_11 | stuff stem suggest unhappy divide pause prefer amazing follow proud ghost |  
+| bip_39_word_space_12 | stuff stem suggest unhappy divide pause prefer amazing follow proud ghost account |  
+| bip_39_word_space_2 | stuff stem |  
+| bip_39_word_space_3 | stuff stem suggest |  
+| bip_39_word_space_4 | stuff stem suggest unhappy |  
+| bip_39_word_space_5 | stuff stem suggest unhappy divide |  
+| bip_39_word_space_6 | stuff stem suggest unhappy divide pause |  
+| bip_39_word_space_7 | stuff stem suggest unhappy divide pause prefer |  
+| bip_39_word_space_8 | stuff stem suggest unhappy divide pause prefer amazing |  
+| bip_39_word_space_9 | stuff stem suggest unhappy divide pause prefer amazing follow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

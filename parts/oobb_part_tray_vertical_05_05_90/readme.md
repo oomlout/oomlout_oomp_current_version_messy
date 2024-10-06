@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: right sadness
+  * bip 39 word 3: right sadness select
+  * bip 39 word: right sadness select fluid donor occur number rare image enemy excess antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | right |  
+| bip_39_word_new_br10 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy |  
+| bip_39_word_new_br11 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy<br>excess |  
+| bip_39_word_new_br12 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image<br>enemy<br>excess<br>antique |  
+| bip_39_word_new_br2 | right<br>sadness |  
+| bip_39_word_new_br3 | right<br>sadness<br>select |  
+| bip_39_word_new_br4 | right<br>sadness<br>select<br>fluid |  
+| bip_39_word_new_br5 | right<br>sadness<br>select<br>fluid<br>donor |  
+| bip_39_word_new_br6 | right<br>sadness<br>select<br>fluid<br>donor<br>occur |  
+| bip_39_word_new_br7 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number |  
+| bip_39_word_new_br8 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare |  
+| bip_39_word_new_br9 | right<br>sadness<br>select<br>fluid<br>donor<br>occur<br>number<br>rare<br>image |  
+| bip_39_word_new_line1 | right |  
+| bip_39_word_new_line10 | right
+sadness
+select
+fluid
+donor
+occur
+number
+rare
+image
+enemy |  
+| bip_39_word_new_line11 | right
+sadness
+select
+fluid
+donor
+occur
+number
+rare
+image
+enemy
+excess |  
+| bip_39_word_new_line12 | right
+sadness
+select
+fluid
+donor
+occur
+number
+rare
+image
+enemy
+excess
+antique |  
+| bip_39_word_new_line2 | right
+sadness |  
+| bip_39_word_new_line3 | right
+sadness
+select |  
+| bip_39_word_new_line4 | right
+sadness
+select
+fluid |  
+| bip_39_word_new_line5 | right
+sadness
+select
+fluid
+donor |  
+| bip_39_word_new_line6 | right
+sadness
+select
+fluid
+donor
+occur |  
+| bip_39_word_new_line7 | right
+sadness
+select
+fluid
+donor
+occur
+number |  
+| bip_39_word_new_line8 | right
+sadness
+select
+fluid
+donor
+occur
+number
+rare |  
+| bip_39_word_new_line9 | right
+sadness
+select
+fluid
+donor
+occur
+number
+rare
+image |  
+| bip_39_word_space_0 | ['right', 'sadness', 'select', 'fluid', 'donor', 'occur', 'number', 'rare', 'image', 'enemy', 'excess', 'antique'] |  
+| bip_39_word_space_1 | right |  
+| bip_39_word_space_10 | right sadness select fluid donor occur number rare image enemy |  
+| bip_39_word_space_11 | right sadness select fluid donor occur number rare image enemy excess |  
+| bip_39_word_space_12 | right sadness select fluid donor occur number rare image enemy excess antique |  
+| bip_39_word_space_2 | right sadness |  
+| bip_39_word_space_3 | right sadness select |  
+| bip_39_word_space_4 | right sadness select fluid |  
+| bip_39_word_space_5 | right sadness select fluid donor |  
+| bip_39_word_space_6 | right sadness select fluid donor occur |  
+| bip_39_word_space_7 | right sadness select fluid donor occur number |  
+| bip_39_word_space_8 | right sadness select fluid donor occur number rare |  
+| bip_39_word_space_9 | right sadness select fluid donor occur number rare image |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

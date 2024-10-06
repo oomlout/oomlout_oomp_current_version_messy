@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: allow match
+  * bip 39 word 3: allow match donor
+  * bip 39 word: allow match donor fork desert label increase exhaust nephew rail wave able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | allow |  
+| bip_39_word_new_br10 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail |  
+| bip_39_word_new_br11 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave |  
+| bip_39_word_new_br12 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew<br>rail<br>wave<br>able |  
+| bip_39_word_new_br2 | allow<br>match |  
+| bip_39_word_new_br3 | allow<br>match<br>donor |  
+| bip_39_word_new_br4 | allow<br>match<br>donor<br>fork |  
+| bip_39_word_new_br5 | allow<br>match<br>donor<br>fork<br>desert |  
+| bip_39_word_new_br6 | allow<br>match<br>donor<br>fork<br>desert<br>label |  
+| bip_39_word_new_br7 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase |  
+| bip_39_word_new_br8 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust |  
+| bip_39_word_new_br9 | allow<br>match<br>donor<br>fork<br>desert<br>label<br>increase<br>exhaust<br>nephew |  
+| bip_39_word_new_line1 | allow |  
+| bip_39_word_new_line10 | allow
+match
+donor
+fork
+desert
+label
+increase
+exhaust
+nephew
+rail |  
+| bip_39_word_new_line11 | allow
+match
+donor
+fork
+desert
+label
+increase
+exhaust
+nephew
+rail
+wave |  
+| bip_39_word_new_line12 | allow
+match
+donor
+fork
+desert
+label
+increase
+exhaust
+nephew
+rail
+wave
+able |  
+| bip_39_word_new_line2 | allow
+match |  
+| bip_39_word_new_line3 | allow
+match
+donor |  
+| bip_39_word_new_line4 | allow
+match
+donor
+fork |  
+| bip_39_word_new_line5 | allow
+match
+donor
+fork
+desert |  
+| bip_39_word_new_line6 | allow
+match
+donor
+fork
+desert
+label |  
+| bip_39_word_new_line7 | allow
+match
+donor
+fork
+desert
+label
+increase |  
+| bip_39_word_new_line8 | allow
+match
+donor
+fork
+desert
+label
+increase
+exhaust |  
+| bip_39_word_new_line9 | allow
+match
+donor
+fork
+desert
+label
+increase
+exhaust
+nephew |  
+| bip_39_word_space_0 | ['allow', 'match', 'donor', 'fork', 'desert', 'label', 'increase', 'exhaust', 'nephew', 'rail', 'wave', 'able'] |  
+| bip_39_word_space_1 | allow |  
+| bip_39_word_space_10 | allow match donor fork desert label increase exhaust nephew rail |  
+| bip_39_word_space_11 | allow match donor fork desert label increase exhaust nephew rail wave |  
+| bip_39_word_space_12 | allow match donor fork desert label increase exhaust nephew rail wave able |  
+| bip_39_word_space_2 | allow match |  
+| bip_39_word_space_3 | allow match donor |  
+| bip_39_word_space_4 | allow match donor fork |  
+| bip_39_word_space_5 | allow match donor fork desert |  
+| bip_39_word_space_6 | allow match donor fork desert label |  
+| bip_39_word_space_7 | allow match donor fork desert label increase |  
+| bip_39_word_space_8 | allow match donor fork desert label increase exhaust |  
+| bip_39_word_space_9 | allow match donor fork desert label increase exhaust nephew |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

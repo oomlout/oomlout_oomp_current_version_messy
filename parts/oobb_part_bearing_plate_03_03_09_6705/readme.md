@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fatal six
+  * bip 39 word 3: fatal six matter
+  * bip 39 word: fatal six matter lock grid later purpose urge before treat weekend artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fatal |  
+| bip_39_word_new_br10 | fatal<br>six<br>matter<br>lock<br>grid<br>later<br>purpose<br>urge<br>before<br>treat |  
+| bip_39_word_new_br11 | fatal<br>six<br>matter<br>lock<br>grid<br>later<br>purpose<br>urge<br>before<br>treat<br>weekend |  
+| bip_39_word_new_br12 | fatal<br>six<br>matter<br>lock<br>grid<br>later<br>purpose<br>urge<br>before<br>treat<br>weekend<br>artefact |  
+| bip_39_word_new_br2 | fatal<br>six |  
+| bip_39_word_new_br3 | fatal<br>six<br>matter |  
+| bip_39_word_new_br4 | fatal<br>six<br>matter<br>lock |  
+| bip_39_word_new_br5 | fatal<br>six<br>matter<br>lock<br>grid |  
+| bip_39_word_new_br6 | fatal<br>six<br>matter<br>lock<br>grid<br>later |  
+| bip_39_word_new_br7 | fatal<br>six<br>matter<br>lock<br>grid<br>later<br>purpose |  
+| bip_39_word_new_br8 | fatal<br>six<br>matter<br>lock<br>grid<br>later<br>purpose<br>urge |  
+| bip_39_word_new_br9 | fatal<br>six<br>matter<br>lock<br>grid<br>later<br>purpose<br>urge<br>before |  
+| bip_39_word_new_line1 | fatal |  
+| bip_39_word_new_line10 | fatal
+six
+matter
+lock
+grid
+later
+purpose
+urge
+before
+treat |  
+| bip_39_word_new_line11 | fatal
+six
+matter
+lock
+grid
+later
+purpose
+urge
+before
+treat
+weekend |  
+| bip_39_word_new_line12 | fatal
+six
+matter
+lock
+grid
+later
+purpose
+urge
+before
+treat
+weekend
+artefact |  
+| bip_39_word_new_line2 | fatal
+six |  
+| bip_39_word_new_line3 | fatal
+six
+matter |  
+| bip_39_word_new_line4 | fatal
+six
+matter
+lock |  
+| bip_39_word_new_line5 | fatal
+six
+matter
+lock
+grid |  
+| bip_39_word_new_line6 | fatal
+six
+matter
+lock
+grid
+later |  
+| bip_39_word_new_line7 | fatal
+six
+matter
+lock
+grid
+later
+purpose |  
+| bip_39_word_new_line8 | fatal
+six
+matter
+lock
+grid
+later
+purpose
+urge |  
+| bip_39_word_new_line9 | fatal
+six
+matter
+lock
+grid
+later
+purpose
+urge
+before |  
+| bip_39_word_space_0 | ['fatal', 'six', 'matter', 'lock', 'grid', 'later', 'purpose', 'urge', 'before', 'treat', 'weekend', 'artefact'] |  
+| bip_39_word_space_1 | fatal |  
+| bip_39_word_space_10 | fatal six matter lock grid later purpose urge before treat |  
+| bip_39_word_space_11 | fatal six matter lock grid later purpose urge before treat weekend |  
+| bip_39_word_space_12 | fatal six matter lock grid later purpose urge before treat weekend artefact |  
+| bip_39_word_space_2 | fatal six |  
+| bip_39_word_space_3 | fatal six matter |  
+| bip_39_word_space_4 | fatal six matter lock |  
+| bip_39_word_space_5 | fatal six matter lock grid |  
+| bip_39_word_space_6 | fatal six matter lock grid later |  
+| bip_39_word_space_7 | fatal six matter lock grid later purpose |  
+| bip_39_word_space_8 | fatal six matter lock grid later purpose urge |  
+| bip_39_word_space_9 | fatal six matter lock grid later purpose urge before |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

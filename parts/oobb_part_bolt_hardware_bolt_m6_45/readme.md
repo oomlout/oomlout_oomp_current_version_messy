@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fringe diesel
+  * bip 39 word 3: fringe diesel pencil
+  * bip 39 word: fringe diesel pencil slab learn civil neglect error crater window globe around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fringe |  
+| bip_39_word_new_br10 | fringe<br>diesel<br>pencil<br>slab<br>learn<br>civil<br>neglect<br>error<br>crater<br>window |  
+| bip_39_word_new_br11 | fringe<br>diesel<br>pencil<br>slab<br>learn<br>civil<br>neglect<br>error<br>crater<br>window<br>globe |  
+| bip_39_word_new_br12 | fringe<br>diesel<br>pencil<br>slab<br>learn<br>civil<br>neglect<br>error<br>crater<br>window<br>globe<br>around |  
+| bip_39_word_new_br2 | fringe<br>diesel |  
+| bip_39_word_new_br3 | fringe<br>diesel<br>pencil |  
+| bip_39_word_new_br4 | fringe<br>diesel<br>pencil<br>slab |  
+| bip_39_word_new_br5 | fringe<br>diesel<br>pencil<br>slab<br>learn |  
+| bip_39_word_new_br6 | fringe<br>diesel<br>pencil<br>slab<br>learn<br>civil |  
+| bip_39_word_new_br7 | fringe<br>diesel<br>pencil<br>slab<br>learn<br>civil<br>neglect |  
+| bip_39_word_new_br8 | fringe<br>diesel<br>pencil<br>slab<br>learn<br>civil<br>neglect<br>error |  
+| bip_39_word_new_br9 | fringe<br>diesel<br>pencil<br>slab<br>learn<br>civil<br>neglect<br>error<br>crater |  
+| bip_39_word_new_line1 | fringe |  
+| bip_39_word_new_line10 | fringe
+diesel
+pencil
+slab
+learn
+civil
+neglect
+error
+crater
+window |  
+| bip_39_word_new_line11 | fringe
+diesel
+pencil
+slab
+learn
+civil
+neglect
+error
+crater
+window
+globe |  
+| bip_39_word_new_line12 | fringe
+diesel
+pencil
+slab
+learn
+civil
+neglect
+error
+crater
+window
+globe
+around |  
+| bip_39_word_new_line2 | fringe
+diesel |  
+| bip_39_word_new_line3 | fringe
+diesel
+pencil |  
+| bip_39_word_new_line4 | fringe
+diesel
+pencil
+slab |  
+| bip_39_word_new_line5 | fringe
+diesel
+pencil
+slab
+learn |  
+| bip_39_word_new_line6 | fringe
+diesel
+pencil
+slab
+learn
+civil |  
+| bip_39_word_new_line7 | fringe
+diesel
+pencil
+slab
+learn
+civil
+neglect |  
+| bip_39_word_new_line8 | fringe
+diesel
+pencil
+slab
+learn
+civil
+neglect
+error |  
+| bip_39_word_new_line9 | fringe
+diesel
+pencil
+slab
+learn
+civil
+neglect
+error
+crater |  
+| bip_39_word_space_0 | ['fringe', 'diesel', 'pencil', 'slab', 'learn', 'civil', 'neglect', 'error', 'crater', 'window', 'globe', 'around'] |  
+| bip_39_word_space_1 | fringe |  
+| bip_39_word_space_10 | fringe diesel pencil slab learn civil neglect error crater window |  
+| bip_39_word_space_11 | fringe diesel pencil slab learn civil neglect error crater window globe |  
+| bip_39_word_space_12 | fringe diesel pencil slab learn civil neglect error crater window globe around |  
+| bip_39_word_space_2 | fringe diesel |  
+| bip_39_word_space_3 | fringe diesel pencil |  
+| bip_39_word_space_4 | fringe diesel pencil slab |  
+| bip_39_word_space_5 | fringe diesel pencil slab learn |  
+| bip_39_word_space_6 | fringe diesel pencil slab learn civil |  
+| bip_39_word_space_7 | fringe diesel pencil slab learn civil neglect |  
+| bip_39_word_space_8 | fringe diesel pencil slab learn civil neglect error |  
+| bip_39_word_space_9 | fringe diesel pencil slab learn civil neglect error crater |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

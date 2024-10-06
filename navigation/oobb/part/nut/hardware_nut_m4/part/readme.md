@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: middle fit
+  * bip 39 word 3: middle fit jacket
+  * bip 39 word: middle fit jacket depth can plate hill lawn dutch affair chase action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | middle |  
+| bip_39_word_new_br10 | middle<br>fit<br>jacket<br>depth<br>can<br>plate<br>hill<br>lawn<br>dutch<br>affair |  
+| bip_39_word_new_br11 | middle<br>fit<br>jacket<br>depth<br>can<br>plate<br>hill<br>lawn<br>dutch<br>affair<br>chase |  
+| bip_39_word_new_br12 | middle<br>fit<br>jacket<br>depth<br>can<br>plate<br>hill<br>lawn<br>dutch<br>affair<br>chase<br>action |  
+| bip_39_word_new_br2 | middle<br>fit |  
+| bip_39_word_new_br3 | middle<br>fit<br>jacket |  
+| bip_39_word_new_br4 | middle<br>fit<br>jacket<br>depth |  
+| bip_39_word_new_br5 | middle<br>fit<br>jacket<br>depth<br>can |  
+| bip_39_word_new_br6 | middle<br>fit<br>jacket<br>depth<br>can<br>plate |  
+| bip_39_word_new_br7 | middle<br>fit<br>jacket<br>depth<br>can<br>plate<br>hill |  
+| bip_39_word_new_br8 | middle<br>fit<br>jacket<br>depth<br>can<br>plate<br>hill<br>lawn |  
+| bip_39_word_new_br9 | middle<br>fit<br>jacket<br>depth<br>can<br>plate<br>hill<br>lawn<br>dutch |  
+| bip_39_word_new_line1 | middle |  
+| bip_39_word_new_line10 | middle
+fit
+jacket
+depth
+can
+plate
+hill
+lawn
+dutch
+affair |  
+| bip_39_word_new_line11 | middle
+fit
+jacket
+depth
+can
+plate
+hill
+lawn
+dutch
+affair
+chase |  
+| bip_39_word_new_line12 | middle
+fit
+jacket
+depth
+can
+plate
+hill
+lawn
+dutch
+affair
+chase
+action |  
+| bip_39_word_new_line2 | middle
+fit |  
+| bip_39_word_new_line3 | middle
+fit
+jacket |  
+| bip_39_word_new_line4 | middle
+fit
+jacket
+depth |  
+| bip_39_word_new_line5 | middle
+fit
+jacket
+depth
+can |  
+| bip_39_word_new_line6 | middle
+fit
+jacket
+depth
+can
+plate |  
+| bip_39_word_new_line7 | middle
+fit
+jacket
+depth
+can
+plate
+hill |  
+| bip_39_word_new_line8 | middle
+fit
+jacket
+depth
+can
+plate
+hill
+lawn |  
+| bip_39_word_new_line9 | middle
+fit
+jacket
+depth
+can
+plate
+hill
+lawn
+dutch |  
+| bip_39_word_space_0 | ['middle', 'fit', 'jacket', 'depth', 'can', 'plate', 'hill', 'lawn', 'dutch', 'affair', 'chase', 'action'] |  
+| bip_39_word_space_1 | middle |  
+| bip_39_word_space_10 | middle fit jacket depth can plate hill lawn dutch affair |  
+| bip_39_word_space_11 | middle fit jacket depth can plate hill lawn dutch affair chase |  
+| bip_39_word_space_12 | middle fit jacket depth can plate hill lawn dutch affair chase action |  
+| bip_39_word_space_2 | middle fit |  
+| bip_39_word_space_3 | middle fit jacket |  
+| bip_39_word_space_4 | middle fit jacket depth |  
+| bip_39_word_space_5 | middle fit jacket depth can |  
+| bip_39_word_space_6 | middle fit jacket depth can plate |  
+| bip_39_word_space_7 | middle fit jacket depth can plate hill |  
+| bip_39_word_space_8 | middle fit jacket depth can plate hill lawn |  
+| bip_39_word_space_9 | middle fit jacket depth can plate hill lawn dutch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

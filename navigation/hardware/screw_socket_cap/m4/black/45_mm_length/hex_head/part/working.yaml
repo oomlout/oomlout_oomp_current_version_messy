@@ -1,3 +1,186 @@
+bip_39_word_new_br1: attend
+bip_39_word_new_br10: attend<br>cruel<br>globe<br>flight<br>dust<br>blade<br>village<br>maximum<br>valve<br>sugar
+bip_39_word_new_br11: attend<br>cruel<br>globe<br>flight<br>dust<br>blade<br>village<br>maximum<br>valve<br>sugar<br>forum
+bip_39_word_new_br12: attend<br>cruel<br>globe<br>flight<br>dust<br>blade<br>village<br>maximum<br>valve<br>sugar<br>forum<br>amused
+bip_39_word_new_br2: attend<br>cruel
+bip_39_word_new_br3: attend<br>cruel<br>globe
+bip_39_word_new_br4: attend<br>cruel<br>globe<br>flight
+bip_39_word_new_br5: attend<br>cruel<br>globe<br>flight<br>dust
+bip_39_word_new_br6: attend<br>cruel<br>globe<br>flight<br>dust<br>blade
+bip_39_word_new_br7: attend<br>cruel<br>globe<br>flight<br>dust<br>blade<br>village
+bip_39_word_new_br8: attend<br>cruel<br>globe<br>flight<br>dust<br>blade<br>village<br>maximum
+bip_39_word_new_br9: attend<br>cruel<br>globe<br>flight<br>dust<br>blade<br>village<br>maximum<br>valve
+bip_39_word_new_line1: attend
+bip_39_word_new_line10: 'attend
+
+  cruel
+
+  globe
+
+  flight
+
+  dust
+
+  blade
+
+  village
+
+  maximum
+
+  valve
+
+  sugar'
+bip_39_word_new_line11: 'attend
+
+  cruel
+
+  globe
+
+  flight
+
+  dust
+
+  blade
+
+  village
+
+  maximum
+
+  valve
+
+  sugar
+
+  forum'
+bip_39_word_new_line12: 'attend
+
+  cruel
+
+  globe
+
+  flight
+
+  dust
+
+  blade
+
+  village
+
+  maximum
+
+  valve
+
+  sugar
+
+  forum
+
+  amused'
+bip_39_word_new_line2: 'attend
+
+  cruel'
+bip_39_word_new_line3: 'attend
+
+  cruel
+
+  globe'
+bip_39_word_new_line4: 'attend
+
+  cruel
+
+  globe
+
+  flight'
+bip_39_word_new_line5: 'attend
+
+  cruel
+
+  globe
+
+  flight
+
+  dust'
+bip_39_word_new_line6: 'attend
+
+  cruel
+
+  globe
+
+  flight
+
+  dust
+
+  blade'
+bip_39_word_new_line7: 'attend
+
+  cruel
+
+  globe
+
+  flight
+
+  dust
+
+  blade
+
+  village'
+bip_39_word_new_line8: 'attend
+
+  cruel
+
+  globe
+
+  flight
+
+  dust
+
+  blade
+
+  village
+
+  maximum'
+bip_39_word_new_line9: 'attend
+
+  cruel
+
+  globe
+
+  flight
+
+  dust
+
+  blade
+
+  village
+
+  maximum
+
+  valve'
+bip_39_word_space_0:
+- attend
+- cruel
+- globe
+- flight
+- dust
+- blade
+- village
+- maximum
+- valve
+- sugar
+- forum
+- amused
+bip_39_word_space_1: attend
+bip_39_word_space_10: attend cruel globe flight dust blade village maximum valve sugar
+bip_39_word_space_11: attend cruel globe flight dust blade village maximum valve sugar
+  forum
+bip_39_word_space_12: attend cruel globe flight dust blade village maximum valve sugar
+  forum amused
+bip_39_word_space_2: attend cruel
+bip_39_word_space_3: attend cruel globe
+bip_39_word_space_4: attend cruel globe flight
+bip_39_word_space_5: attend cruel globe flight dust
+bip_39_word_space_6: attend cruel globe flight dust blade
+bip_39_word_space_7: attend cruel globe flight dust blade village
+bip_39_word_space_8: attend cruel globe flight dust blade village maximum
+bip_39_word_space_9: attend cruel globe flight dust blade village maximum valve
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

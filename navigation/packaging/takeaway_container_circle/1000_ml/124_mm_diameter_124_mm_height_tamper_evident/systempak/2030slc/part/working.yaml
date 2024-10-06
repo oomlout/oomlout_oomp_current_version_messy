@@ -1,3 +1,186 @@
+bip_39_word_new_br1: avoid
+bip_39_word_new_br10: avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe
+bip_39_word_new_br11: avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe<br>cherry
+bip_39_word_new_br12: avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock<br>believe<br>cherry<br>admit
+bip_39_word_new_br2: avoid<br>rent
+bip_39_word_new_br3: avoid<br>rent<br>frown
+bip_39_word_new_br4: avoid<br>rent<br>frown<br>alley
+bip_39_word_new_br5: avoid<br>rent<br>frown<br>alley<br>tide
+bip_39_word_new_br6: avoid<br>rent<br>frown<br>alley<br>tide<br>transfer
+bip_39_word_new_br7: avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide
+bip_39_word_new_br8: avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork
+bip_39_word_new_br9: avoid<br>rent<br>frown<br>alley<br>tide<br>transfer<br>slide<br>fork<br>sock
+bip_39_word_new_line1: avoid
+bip_39_word_new_line10: 'avoid
+
+  rent
+
+  frown
+
+  alley
+
+  tide
+
+  transfer
+
+  slide
+
+  fork
+
+  sock
+
+  believe'
+bip_39_word_new_line11: 'avoid
+
+  rent
+
+  frown
+
+  alley
+
+  tide
+
+  transfer
+
+  slide
+
+  fork
+
+  sock
+
+  believe
+
+  cherry'
+bip_39_word_new_line12: 'avoid
+
+  rent
+
+  frown
+
+  alley
+
+  tide
+
+  transfer
+
+  slide
+
+  fork
+
+  sock
+
+  believe
+
+  cherry
+
+  admit'
+bip_39_word_new_line2: 'avoid
+
+  rent'
+bip_39_word_new_line3: 'avoid
+
+  rent
+
+  frown'
+bip_39_word_new_line4: 'avoid
+
+  rent
+
+  frown
+
+  alley'
+bip_39_word_new_line5: 'avoid
+
+  rent
+
+  frown
+
+  alley
+
+  tide'
+bip_39_word_new_line6: 'avoid
+
+  rent
+
+  frown
+
+  alley
+
+  tide
+
+  transfer'
+bip_39_word_new_line7: 'avoid
+
+  rent
+
+  frown
+
+  alley
+
+  tide
+
+  transfer
+
+  slide'
+bip_39_word_new_line8: 'avoid
+
+  rent
+
+  frown
+
+  alley
+
+  tide
+
+  transfer
+
+  slide
+
+  fork'
+bip_39_word_new_line9: 'avoid
+
+  rent
+
+  frown
+
+  alley
+
+  tide
+
+  transfer
+
+  slide
+
+  fork
+
+  sock'
+bip_39_word_space_0:
+- avoid
+- rent
+- frown
+- alley
+- tide
+- transfer
+- slide
+- fork
+- sock
+- believe
+- cherry
+- admit
+bip_39_word_space_1: avoid
+bip_39_word_space_10: avoid rent frown alley tide transfer slide fork sock believe
+bip_39_word_space_11: avoid rent frown alley tide transfer slide fork sock believe
+  cherry
+bip_39_word_space_12: avoid rent frown alley tide transfer slide fork sock believe
+  cherry admit
+bip_39_word_space_2: avoid rent
+bip_39_word_space_3: avoid rent frown
+bip_39_word_space_4: avoid rent frown alley
+bip_39_word_space_5: avoid rent frown alley tide
+bip_39_word_space_6: avoid rent frown alley tide transfer
+bip_39_word_space_7: avoid rent frown alley tide transfer slide
+bip_39_word_space_8: avoid rent frown alley tide transfer slide fork
+bip_39_word_space_9: avoid rent frown alley tide transfer slide fork sock
 box_quantity: '264'
 classification: packaging
 classification_capital: Packaging

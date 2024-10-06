@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decorate repair
+  * bip 39 word 3: decorate repair goddess
+  * bip 39 word: decorate repair goddess rain innocent among present curve quote wolf kitchen acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decorate |  
+| bip_39_word_new_br10 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf |  
+| bip_39_word_new_br11 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf<br>kitchen |  
+| bip_39_word_new_br12 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote<br>wolf<br>kitchen<br>acoustic |  
+| bip_39_word_new_br2 | decorate<br>repair |  
+| bip_39_word_new_br3 | decorate<br>repair<br>goddess |  
+| bip_39_word_new_br4 | decorate<br>repair<br>goddess<br>rain |  
+| bip_39_word_new_br5 | decorate<br>repair<br>goddess<br>rain<br>innocent |  
+| bip_39_word_new_br6 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among |  
+| bip_39_word_new_br7 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present |  
+| bip_39_word_new_br8 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve |  
+| bip_39_word_new_br9 | decorate<br>repair<br>goddess<br>rain<br>innocent<br>among<br>present<br>curve<br>quote |  
+| bip_39_word_new_line1 | decorate |  
+| bip_39_word_new_line10 | decorate
+repair
+goddess
+rain
+innocent
+among
+present
+curve
+quote
+wolf |  
+| bip_39_word_new_line11 | decorate
+repair
+goddess
+rain
+innocent
+among
+present
+curve
+quote
+wolf
+kitchen |  
+| bip_39_word_new_line12 | decorate
+repair
+goddess
+rain
+innocent
+among
+present
+curve
+quote
+wolf
+kitchen
+acoustic |  
+| bip_39_word_new_line2 | decorate
+repair |  
+| bip_39_word_new_line3 | decorate
+repair
+goddess |  
+| bip_39_word_new_line4 | decorate
+repair
+goddess
+rain |  
+| bip_39_word_new_line5 | decorate
+repair
+goddess
+rain
+innocent |  
+| bip_39_word_new_line6 | decorate
+repair
+goddess
+rain
+innocent
+among |  
+| bip_39_word_new_line7 | decorate
+repair
+goddess
+rain
+innocent
+among
+present |  
+| bip_39_word_new_line8 | decorate
+repair
+goddess
+rain
+innocent
+among
+present
+curve |  
+| bip_39_word_new_line9 | decorate
+repair
+goddess
+rain
+innocent
+among
+present
+curve
+quote |  
+| bip_39_word_space_0 | ['decorate', 'repair', 'goddess', 'rain', 'innocent', 'among', 'present', 'curve', 'quote', 'wolf', 'kitchen', 'acoustic'] |  
+| bip_39_word_space_1 | decorate |  
+| bip_39_word_space_10 | decorate repair goddess rain innocent among present curve quote wolf |  
+| bip_39_word_space_11 | decorate repair goddess rain innocent among present curve quote wolf kitchen |  
+| bip_39_word_space_12 | decorate repair goddess rain innocent among present curve quote wolf kitchen acoustic |  
+| bip_39_word_space_2 | decorate repair |  
+| bip_39_word_space_3 | decorate repair goddess |  
+| bip_39_word_space_4 | decorate repair goddess rain |  
+| bip_39_word_space_5 | decorate repair goddess rain innocent |  
+| bip_39_word_space_6 | decorate repair goddess rain innocent among |  
+| bip_39_word_space_7 | decorate repair goddess rain innocent among present |  
+| bip_39_word_space_8 | decorate repair goddess rain innocent among present curve |  
+| bip_39_word_space_9 | decorate repair goddess rain innocent among present curve quote |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trouble misery
+  * bip 39 word 3: trouble misery life
+  * bip 39 word: trouble misery life frog raven damage peasant concert rent base security aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trouble |  
+| bip_39_word_new_br10 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base |  
+| bip_39_word_new_br11 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base<br>security |  
+| bip_39_word_new_br12 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent<br>base<br>security<br>aim |  
+| bip_39_word_new_br2 | trouble<br>misery |  
+| bip_39_word_new_br3 | trouble<br>misery<br>life |  
+| bip_39_word_new_br4 | trouble<br>misery<br>life<br>frog |  
+| bip_39_word_new_br5 | trouble<br>misery<br>life<br>frog<br>raven |  
+| bip_39_word_new_br6 | trouble<br>misery<br>life<br>frog<br>raven<br>damage |  
+| bip_39_word_new_br7 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant |  
+| bip_39_word_new_br8 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert |  
+| bip_39_word_new_br9 | trouble<br>misery<br>life<br>frog<br>raven<br>damage<br>peasant<br>concert<br>rent |  
+| bip_39_word_new_line1 | trouble |  
+| bip_39_word_new_line10 | trouble
+misery
+life
+frog
+raven
+damage
+peasant
+concert
+rent
+base |  
+| bip_39_word_new_line11 | trouble
+misery
+life
+frog
+raven
+damage
+peasant
+concert
+rent
+base
+security |  
+| bip_39_word_new_line12 | trouble
+misery
+life
+frog
+raven
+damage
+peasant
+concert
+rent
+base
+security
+aim |  
+| bip_39_word_new_line2 | trouble
+misery |  
+| bip_39_word_new_line3 | trouble
+misery
+life |  
+| bip_39_word_new_line4 | trouble
+misery
+life
+frog |  
+| bip_39_word_new_line5 | trouble
+misery
+life
+frog
+raven |  
+| bip_39_word_new_line6 | trouble
+misery
+life
+frog
+raven
+damage |  
+| bip_39_word_new_line7 | trouble
+misery
+life
+frog
+raven
+damage
+peasant |  
+| bip_39_word_new_line8 | trouble
+misery
+life
+frog
+raven
+damage
+peasant
+concert |  
+| bip_39_word_new_line9 | trouble
+misery
+life
+frog
+raven
+damage
+peasant
+concert
+rent |  
+| bip_39_word_space_0 | ['trouble', 'misery', 'life', 'frog', 'raven', 'damage', 'peasant', 'concert', 'rent', 'base', 'security', 'aim'] |  
+| bip_39_word_space_1 | trouble |  
+| bip_39_word_space_10 | trouble misery life frog raven damage peasant concert rent base |  
+| bip_39_word_space_11 | trouble misery life frog raven damage peasant concert rent base security |  
+| bip_39_word_space_12 | trouble misery life frog raven damage peasant concert rent base security aim |  
+| bip_39_word_space_2 | trouble misery |  
+| bip_39_word_space_3 | trouble misery life |  
+| bip_39_word_space_4 | trouble misery life frog |  
+| bip_39_word_space_5 | trouble misery life frog raven |  
+| bip_39_word_space_6 | trouble misery life frog raven damage |  
+| bip_39_word_space_7 | trouble misery life frog raven damage peasant |  
+| bip_39_word_space_8 | trouble misery life frog raven damage peasant concert |  
+| bip_39_word_space_9 | trouble misery life frog raven damage peasant concert rent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: embody obey
+  * bip 39 word 3: embody obey solution
+  * bip 39 word: embody obey solution rent crop leader bounce abandon tongue quiz head any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | embody |  
+| bip_39_word_new_br10 | embody<br>obey<br>solution<br>rent<br>crop<br>leader<br>bounce<br>abandon<br>tongue<br>quiz |  
+| bip_39_word_new_br11 | embody<br>obey<br>solution<br>rent<br>crop<br>leader<br>bounce<br>abandon<br>tongue<br>quiz<br>head |  
+| bip_39_word_new_br12 | embody<br>obey<br>solution<br>rent<br>crop<br>leader<br>bounce<br>abandon<br>tongue<br>quiz<br>head<br>any |  
+| bip_39_word_new_br2 | embody<br>obey |  
+| bip_39_word_new_br3 | embody<br>obey<br>solution |  
+| bip_39_word_new_br4 | embody<br>obey<br>solution<br>rent |  
+| bip_39_word_new_br5 | embody<br>obey<br>solution<br>rent<br>crop |  
+| bip_39_word_new_br6 | embody<br>obey<br>solution<br>rent<br>crop<br>leader |  
+| bip_39_word_new_br7 | embody<br>obey<br>solution<br>rent<br>crop<br>leader<br>bounce |  
+| bip_39_word_new_br8 | embody<br>obey<br>solution<br>rent<br>crop<br>leader<br>bounce<br>abandon |  
+| bip_39_word_new_br9 | embody<br>obey<br>solution<br>rent<br>crop<br>leader<br>bounce<br>abandon<br>tongue |  
+| bip_39_word_new_line1 | embody |  
+| bip_39_word_new_line10 | embody
+obey
+solution
+rent
+crop
+leader
+bounce
+abandon
+tongue
+quiz |  
+| bip_39_word_new_line11 | embody
+obey
+solution
+rent
+crop
+leader
+bounce
+abandon
+tongue
+quiz
+head |  
+| bip_39_word_new_line12 | embody
+obey
+solution
+rent
+crop
+leader
+bounce
+abandon
+tongue
+quiz
+head
+any |  
+| bip_39_word_new_line2 | embody
+obey |  
+| bip_39_word_new_line3 | embody
+obey
+solution |  
+| bip_39_word_new_line4 | embody
+obey
+solution
+rent |  
+| bip_39_word_new_line5 | embody
+obey
+solution
+rent
+crop |  
+| bip_39_word_new_line6 | embody
+obey
+solution
+rent
+crop
+leader |  
+| bip_39_word_new_line7 | embody
+obey
+solution
+rent
+crop
+leader
+bounce |  
+| bip_39_word_new_line8 | embody
+obey
+solution
+rent
+crop
+leader
+bounce
+abandon |  
+| bip_39_word_new_line9 | embody
+obey
+solution
+rent
+crop
+leader
+bounce
+abandon
+tongue |  
+| bip_39_word_space_0 | ['embody', 'obey', 'solution', 'rent', 'crop', 'leader', 'bounce', 'abandon', 'tongue', 'quiz', 'head', 'any'] |  
+| bip_39_word_space_1 | embody |  
+| bip_39_word_space_10 | embody obey solution rent crop leader bounce abandon tongue quiz |  
+| bip_39_word_space_11 | embody obey solution rent crop leader bounce abandon tongue quiz head |  
+| bip_39_word_space_12 | embody obey solution rent crop leader bounce abandon tongue quiz head any |  
+| bip_39_word_space_2 | embody obey |  
+| bip_39_word_space_3 | embody obey solution |  
+| bip_39_word_space_4 | embody obey solution rent |  
+| bip_39_word_space_5 | embody obey solution rent crop |  
+| bip_39_word_space_6 | embody obey solution rent crop leader |  
+| bip_39_word_space_7 | embody obey solution rent crop leader bounce |  
+| bip_39_word_space_8 | embody obey solution rent crop leader bounce abandon |  
+| bip_39_word_space_9 | embody obey solution rent crop leader bounce abandon tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

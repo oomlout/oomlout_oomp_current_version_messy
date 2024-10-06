@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_screwdriver_multi_quikpik_200_mm_knife
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tiger maple
+  * bip 39 word 3: tiger maple social
+  * bip 39 word: tiger maple social amused vintage about digital bean ring leaf curious among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tiger |  
+| bip_39_word_new_br10 | tiger<br>maple<br>social<br>amused<br>vintage<br>about<br>digital<br>bean<br>ring<br>leaf |  
+| bip_39_word_new_br11 | tiger<br>maple<br>social<br>amused<br>vintage<br>about<br>digital<br>bean<br>ring<br>leaf<br>curious |  
+| bip_39_word_new_br12 | tiger<br>maple<br>social<br>amused<br>vintage<br>about<br>digital<br>bean<br>ring<br>leaf<br>curious<br>among |  
+| bip_39_word_new_br2 | tiger<br>maple |  
+| bip_39_word_new_br3 | tiger<br>maple<br>social |  
+| bip_39_word_new_br4 | tiger<br>maple<br>social<br>amused |  
+| bip_39_word_new_br5 | tiger<br>maple<br>social<br>amused<br>vintage |  
+| bip_39_word_new_br6 | tiger<br>maple<br>social<br>amused<br>vintage<br>about |  
+| bip_39_word_new_br7 | tiger<br>maple<br>social<br>amused<br>vintage<br>about<br>digital |  
+| bip_39_word_new_br8 | tiger<br>maple<br>social<br>amused<br>vintage<br>about<br>digital<br>bean |  
+| bip_39_word_new_br9 | tiger<br>maple<br>social<br>amused<br>vintage<br>about<br>digital<br>bean<br>ring |  
+| bip_39_word_new_line1 | tiger |  
+| bip_39_word_new_line10 | tiger
+maple
+social
+amused
+vintage
+about
+digital
+bean
+ring
+leaf |  
+| bip_39_word_new_line11 | tiger
+maple
+social
+amused
+vintage
+about
+digital
+bean
+ring
+leaf
+curious |  
+| bip_39_word_new_line12 | tiger
+maple
+social
+amused
+vintage
+about
+digital
+bean
+ring
+leaf
+curious
+among |  
+| bip_39_word_new_line2 | tiger
+maple |  
+| bip_39_word_new_line3 | tiger
+maple
+social |  
+| bip_39_word_new_line4 | tiger
+maple
+social
+amused |  
+| bip_39_word_new_line5 | tiger
+maple
+social
+amused
+vintage |  
+| bip_39_word_new_line6 | tiger
+maple
+social
+amused
+vintage
+about |  
+| bip_39_word_new_line7 | tiger
+maple
+social
+amused
+vintage
+about
+digital |  
+| bip_39_word_new_line8 | tiger
+maple
+social
+amused
+vintage
+about
+digital
+bean |  
+| bip_39_word_new_line9 | tiger
+maple
+social
+amused
+vintage
+about
+digital
+bean
+ring |  
+| bip_39_word_space_0 | ['tiger', 'maple', 'social', 'amused', 'vintage', 'about', 'digital', 'bean', 'ring', 'leaf', 'curious', 'among'] |  
+| bip_39_word_space_1 | tiger |  
+| bip_39_word_space_10 | tiger maple social amused vintage about digital bean ring leaf |  
+| bip_39_word_space_11 | tiger maple social amused vintage about digital bean ring leaf curious |  
+| bip_39_word_space_12 | tiger maple social amused vintage about digital bean ring leaf curious among |  
+| bip_39_word_space_2 | tiger maple |  
+| bip_39_word_space_3 | tiger maple social |  
+| bip_39_word_space_4 | tiger maple social amused |  
+| bip_39_word_space_5 | tiger maple social amused vintage |  
+| bip_39_word_space_6 | tiger maple social amused vintage about |  
+| bip_39_word_space_7 | tiger maple social amused vintage about digital |  
+| bip_39_word_space_8 | tiger maple social amused vintage about digital bean |  
+| bip_39_word_space_9 | tiger maple social amused vintage about digital bean ring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

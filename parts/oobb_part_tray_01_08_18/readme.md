@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nominee forest
+  * bip 39 word 3: nominee forest gasp
+  * bip 39 word: nominee forest gasp decide garlic disagree garbage sing entry minute alarm attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nominee |  
+| bip_39_word_new_br10 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree<br>garbage<br>sing<br>entry<br>minute |  
+| bip_39_word_new_br11 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree<br>garbage<br>sing<br>entry<br>minute<br>alarm |  
+| bip_39_word_new_br12 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree<br>garbage<br>sing<br>entry<br>minute<br>alarm<br>attract |  
+| bip_39_word_new_br2 | nominee<br>forest |  
+| bip_39_word_new_br3 | nominee<br>forest<br>gasp |  
+| bip_39_word_new_br4 | nominee<br>forest<br>gasp<br>decide |  
+| bip_39_word_new_br5 | nominee<br>forest<br>gasp<br>decide<br>garlic |  
+| bip_39_word_new_br6 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree |  
+| bip_39_word_new_br7 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree<br>garbage |  
+| bip_39_word_new_br8 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree<br>garbage<br>sing |  
+| bip_39_word_new_br9 | nominee<br>forest<br>gasp<br>decide<br>garlic<br>disagree<br>garbage<br>sing<br>entry |  
+| bip_39_word_new_line1 | nominee |  
+| bip_39_word_new_line10 | nominee
+forest
+gasp
+decide
+garlic
+disagree
+garbage
+sing
+entry
+minute |  
+| bip_39_word_new_line11 | nominee
+forest
+gasp
+decide
+garlic
+disagree
+garbage
+sing
+entry
+minute
+alarm |  
+| bip_39_word_new_line12 | nominee
+forest
+gasp
+decide
+garlic
+disagree
+garbage
+sing
+entry
+minute
+alarm
+attract |  
+| bip_39_word_new_line2 | nominee
+forest |  
+| bip_39_word_new_line3 | nominee
+forest
+gasp |  
+| bip_39_word_new_line4 | nominee
+forest
+gasp
+decide |  
+| bip_39_word_new_line5 | nominee
+forest
+gasp
+decide
+garlic |  
+| bip_39_word_new_line6 | nominee
+forest
+gasp
+decide
+garlic
+disagree |  
+| bip_39_word_new_line7 | nominee
+forest
+gasp
+decide
+garlic
+disagree
+garbage |  
+| bip_39_word_new_line8 | nominee
+forest
+gasp
+decide
+garlic
+disagree
+garbage
+sing |  
+| bip_39_word_new_line9 | nominee
+forest
+gasp
+decide
+garlic
+disagree
+garbage
+sing
+entry |  
+| bip_39_word_space_0 | ['nominee', 'forest', 'gasp', 'decide', 'garlic', 'disagree', 'garbage', 'sing', 'entry', 'minute', 'alarm', 'attract'] |  
+| bip_39_word_space_1 | nominee |  
+| bip_39_word_space_10 | nominee forest gasp decide garlic disagree garbage sing entry minute |  
+| bip_39_word_space_11 | nominee forest gasp decide garlic disagree garbage sing entry minute alarm |  
+| bip_39_word_space_12 | nominee forest gasp decide garlic disagree garbage sing entry minute alarm attract |  
+| bip_39_word_space_2 | nominee forest |  
+| bip_39_word_space_3 | nominee forest gasp |  
+| bip_39_word_space_4 | nominee forest gasp decide |  
+| bip_39_word_space_5 | nominee forest gasp decide garlic |  
+| bip_39_word_space_6 | nominee forest gasp decide garlic disagree |  
+| bip_39_word_space_7 | nominee forest gasp decide garlic disagree garbage |  
+| bip_39_word_space_8 | nominee forest gasp decide garlic disagree garbage sing |  
+| bip_39_word_space_9 | nominee forest gasp decide garlic disagree garbage sing entry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: call walk
+  * bip 39 word 3: call walk toddler
+  * bip 39 word: call walk toddler issue lizard tell perfect boss when cradle nut amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | call |  
+| bip_39_word_new_br10 | call<br>walk<br>toddler<br>issue<br>lizard<br>tell<br>perfect<br>boss<br>when<br>cradle |  
+| bip_39_word_new_br11 | call<br>walk<br>toddler<br>issue<br>lizard<br>tell<br>perfect<br>boss<br>when<br>cradle<br>nut |  
+| bip_39_word_new_br12 | call<br>walk<br>toddler<br>issue<br>lizard<br>tell<br>perfect<br>boss<br>when<br>cradle<br>nut<br>amused |  
+| bip_39_word_new_br2 | call<br>walk |  
+| bip_39_word_new_br3 | call<br>walk<br>toddler |  
+| bip_39_word_new_br4 | call<br>walk<br>toddler<br>issue |  
+| bip_39_word_new_br5 | call<br>walk<br>toddler<br>issue<br>lizard |  
+| bip_39_word_new_br6 | call<br>walk<br>toddler<br>issue<br>lizard<br>tell |  
+| bip_39_word_new_br7 | call<br>walk<br>toddler<br>issue<br>lizard<br>tell<br>perfect |  
+| bip_39_word_new_br8 | call<br>walk<br>toddler<br>issue<br>lizard<br>tell<br>perfect<br>boss |  
+| bip_39_word_new_br9 | call<br>walk<br>toddler<br>issue<br>lizard<br>tell<br>perfect<br>boss<br>when |  
+| bip_39_word_new_line1 | call |  
+| bip_39_word_new_line10 | call
+walk
+toddler
+issue
+lizard
+tell
+perfect
+boss
+when
+cradle |  
+| bip_39_word_new_line11 | call
+walk
+toddler
+issue
+lizard
+tell
+perfect
+boss
+when
+cradle
+nut |  
+| bip_39_word_new_line12 | call
+walk
+toddler
+issue
+lizard
+tell
+perfect
+boss
+when
+cradle
+nut
+amused |  
+| bip_39_word_new_line2 | call
+walk |  
+| bip_39_word_new_line3 | call
+walk
+toddler |  
+| bip_39_word_new_line4 | call
+walk
+toddler
+issue |  
+| bip_39_word_new_line5 | call
+walk
+toddler
+issue
+lizard |  
+| bip_39_word_new_line6 | call
+walk
+toddler
+issue
+lizard
+tell |  
+| bip_39_word_new_line7 | call
+walk
+toddler
+issue
+lizard
+tell
+perfect |  
+| bip_39_word_new_line8 | call
+walk
+toddler
+issue
+lizard
+tell
+perfect
+boss |  
+| bip_39_word_new_line9 | call
+walk
+toddler
+issue
+lizard
+tell
+perfect
+boss
+when |  
+| bip_39_word_space_0 | ['call', 'walk', 'toddler', 'issue', 'lizard', 'tell', 'perfect', 'boss', 'when', 'cradle', 'nut', 'amused'] |  
+| bip_39_word_space_1 | call |  
+| bip_39_word_space_10 | call walk toddler issue lizard tell perfect boss when cradle |  
+| bip_39_word_space_11 | call walk toddler issue lizard tell perfect boss when cradle nut |  
+| bip_39_word_space_12 | call walk toddler issue lizard tell perfect boss when cradle nut amused |  
+| bip_39_word_space_2 | call walk |  
+| bip_39_word_space_3 | call walk toddler |  
+| bip_39_word_space_4 | call walk toddler issue |  
+| bip_39_word_space_5 | call walk toddler issue lizard |  
+| bip_39_word_space_6 | call walk toddler issue lizard tell |  
+| bip_39_word_space_7 | call walk toddler issue lizard tell perfect |  
+| bip_39_word_space_8 | call walk toddler issue lizard tell perfect boss |  
+| bip_39_word_space_9 | call walk toddler issue lizard tell perfect boss when |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

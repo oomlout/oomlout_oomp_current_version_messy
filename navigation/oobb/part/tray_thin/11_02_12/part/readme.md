@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: police path
+  * bip 39 word 3: police path blast
+  * bip 39 word: police path blast brass state tree kangaroo guitar intact company ladder artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | police |  
+| bip_39_word_new_br10 | police<br>path<br>blast<br>brass<br>state<br>tree<br>kangaroo<br>guitar<br>intact<br>company |  
+| bip_39_word_new_br11 | police<br>path<br>blast<br>brass<br>state<br>tree<br>kangaroo<br>guitar<br>intact<br>company<br>ladder |  
+| bip_39_word_new_br12 | police<br>path<br>blast<br>brass<br>state<br>tree<br>kangaroo<br>guitar<br>intact<br>company<br>ladder<br>artwork |  
+| bip_39_word_new_br2 | police<br>path |  
+| bip_39_word_new_br3 | police<br>path<br>blast |  
+| bip_39_word_new_br4 | police<br>path<br>blast<br>brass |  
+| bip_39_word_new_br5 | police<br>path<br>blast<br>brass<br>state |  
+| bip_39_word_new_br6 | police<br>path<br>blast<br>brass<br>state<br>tree |  
+| bip_39_word_new_br7 | police<br>path<br>blast<br>brass<br>state<br>tree<br>kangaroo |  
+| bip_39_word_new_br8 | police<br>path<br>blast<br>brass<br>state<br>tree<br>kangaroo<br>guitar |  
+| bip_39_word_new_br9 | police<br>path<br>blast<br>brass<br>state<br>tree<br>kangaroo<br>guitar<br>intact |  
+| bip_39_word_new_line1 | police |  
+| bip_39_word_new_line10 | police
+path
+blast
+brass
+state
+tree
+kangaroo
+guitar
+intact
+company |  
+| bip_39_word_new_line11 | police
+path
+blast
+brass
+state
+tree
+kangaroo
+guitar
+intact
+company
+ladder |  
+| bip_39_word_new_line12 | police
+path
+blast
+brass
+state
+tree
+kangaroo
+guitar
+intact
+company
+ladder
+artwork |  
+| bip_39_word_new_line2 | police
+path |  
+| bip_39_word_new_line3 | police
+path
+blast |  
+| bip_39_word_new_line4 | police
+path
+blast
+brass |  
+| bip_39_word_new_line5 | police
+path
+blast
+brass
+state |  
+| bip_39_word_new_line6 | police
+path
+blast
+brass
+state
+tree |  
+| bip_39_word_new_line7 | police
+path
+blast
+brass
+state
+tree
+kangaroo |  
+| bip_39_word_new_line8 | police
+path
+blast
+brass
+state
+tree
+kangaroo
+guitar |  
+| bip_39_word_new_line9 | police
+path
+blast
+brass
+state
+tree
+kangaroo
+guitar
+intact |  
+| bip_39_word_space_0 | ['police', 'path', 'blast', 'brass', 'state', 'tree', 'kangaroo', 'guitar', 'intact', 'company', 'ladder', 'artwork'] |  
+| bip_39_word_space_1 | police |  
+| bip_39_word_space_10 | police path blast brass state tree kangaroo guitar intact company |  
+| bip_39_word_space_11 | police path blast brass state tree kangaroo guitar intact company ladder |  
+| bip_39_word_space_12 | police path blast brass state tree kangaroo guitar intact company ladder artwork |  
+| bip_39_word_space_2 | police path |  
+| bip_39_word_space_3 | police path blast |  
+| bip_39_word_space_4 | police path blast brass |  
+| bip_39_word_space_5 | police path blast brass state |  
+| bip_39_word_space_6 | police path blast brass state tree |  
+| bip_39_word_space_7 | police path blast brass state tree kangaroo |  
+| bip_39_word_space_8 | police path blast brass state tree kangaroo guitar |  
+| bip_39_word_space_9 | police path blast brass state tree kangaroo guitar intact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

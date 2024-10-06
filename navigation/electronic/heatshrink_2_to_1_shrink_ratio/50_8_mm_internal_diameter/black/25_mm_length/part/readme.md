@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: caught fan
+  * bip 39 word 3: caught fan siren
+  * bip 39 word: caught fan siren undo crop journey fitness panda all bridge arrow analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | caught |  
+| bip_39_word_new_br10 | caught<br>fan<br>siren<br>undo<br>crop<br>journey<br>fitness<br>panda<br>all<br>bridge |  
+| bip_39_word_new_br11 | caught<br>fan<br>siren<br>undo<br>crop<br>journey<br>fitness<br>panda<br>all<br>bridge<br>arrow |  
+| bip_39_word_new_br12 | caught<br>fan<br>siren<br>undo<br>crop<br>journey<br>fitness<br>panda<br>all<br>bridge<br>arrow<br>analyst |  
+| bip_39_word_new_br2 | caught<br>fan |  
+| bip_39_word_new_br3 | caught<br>fan<br>siren |  
+| bip_39_word_new_br4 | caught<br>fan<br>siren<br>undo |  
+| bip_39_word_new_br5 | caught<br>fan<br>siren<br>undo<br>crop |  
+| bip_39_word_new_br6 | caught<br>fan<br>siren<br>undo<br>crop<br>journey |  
+| bip_39_word_new_br7 | caught<br>fan<br>siren<br>undo<br>crop<br>journey<br>fitness |  
+| bip_39_word_new_br8 | caught<br>fan<br>siren<br>undo<br>crop<br>journey<br>fitness<br>panda |  
+| bip_39_word_new_br9 | caught<br>fan<br>siren<br>undo<br>crop<br>journey<br>fitness<br>panda<br>all |  
+| bip_39_word_new_line1 | caught |  
+| bip_39_word_new_line10 | caught
+fan
+siren
+undo
+crop
+journey
+fitness
+panda
+all
+bridge |  
+| bip_39_word_new_line11 | caught
+fan
+siren
+undo
+crop
+journey
+fitness
+panda
+all
+bridge
+arrow |  
+| bip_39_word_new_line12 | caught
+fan
+siren
+undo
+crop
+journey
+fitness
+panda
+all
+bridge
+arrow
+analyst |  
+| bip_39_word_new_line2 | caught
+fan |  
+| bip_39_word_new_line3 | caught
+fan
+siren |  
+| bip_39_word_new_line4 | caught
+fan
+siren
+undo |  
+| bip_39_word_new_line5 | caught
+fan
+siren
+undo
+crop |  
+| bip_39_word_new_line6 | caught
+fan
+siren
+undo
+crop
+journey |  
+| bip_39_word_new_line7 | caught
+fan
+siren
+undo
+crop
+journey
+fitness |  
+| bip_39_word_new_line8 | caught
+fan
+siren
+undo
+crop
+journey
+fitness
+panda |  
+| bip_39_word_new_line9 | caught
+fan
+siren
+undo
+crop
+journey
+fitness
+panda
+all |  
+| bip_39_word_space_0 | ['caught', 'fan', 'siren', 'undo', 'crop', 'journey', 'fitness', 'panda', 'all', 'bridge', 'arrow', 'analyst'] |  
+| bip_39_word_space_1 | caught |  
+| bip_39_word_space_10 | caught fan siren undo crop journey fitness panda all bridge |  
+| bip_39_word_space_11 | caught fan siren undo crop journey fitness panda all bridge arrow |  
+| bip_39_word_space_12 | caught fan siren undo crop journey fitness panda all bridge arrow analyst |  
+| bip_39_word_space_2 | caught fan |  
+| bip_39_word_space_3 | caught fan siren |  
+| bip_39_word_space_4 | caught fan siren undo |  
+| bip_39_word_space_5 | caught fan siren undo crop |  
+| bip_39_word_space_6 | caught fan siren undo crop journey |  
+| bip_39_word_space_7 | caught fan siren undo crop journey fitness |  
+| bip_39_word_space_8 | caught fan siren undo crop journey fitness panda |  
+| bip_39_word_space_9 | caught fan siren undo crop journey fitness panda all |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

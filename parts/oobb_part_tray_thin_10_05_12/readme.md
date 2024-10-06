@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bar sunset
+  * bip 39 word 3: bar sunset infant
+  * bip 39 word: bar sunset infant civil ring fat memory orchard rival satisfy make arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bar |  
+| bip_39_word_new_br10 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat<br>memory<br>orchard<br>rival<br>satisfy |  
+| bip_39_word_new_br11 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat<br>memory<br>orchard<br>rival<br>satisfy<br>make |  
+| bip_39_word_new_br12 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat<br>memory<br>orchard<br>rival<br>satisfy<br>make<br>arrange |  
+| bip_39_word_new_br2 | bar<br>sunset |  
+| bip_39_word_new_br3 | bar<br>sunset<br>infant |  
+| bip_39_word_new_br4 | bar<br>sunset<br>infant<br>civil |  
+| bip_39_word_new_br5 | bar<br>sunset<br>infant<br>civil<br>ring |  
+| bip_39_word_new_br6 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat |  
+| bip_39_word_new_br7 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat<br>memory |  
+| bip_39_word_new_br8 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat<br>memory<br>orchard |  
+| bip_39_word_new_br9 | bar<br>sunset<br>infant<br>civil<br>ring<br>fat<br>memory<br>orchard<br>rival |  
+| bip_39_word_new_line1 | bar |  
+| bip_39_word_new_line10 | bar
+sunset
+infant
+civil
+ring
+fat
+memory
+orchard
+rival
+satisfy |  
+| bip_39_word_new_line11 | bar
+sunset
+infant
+civil
+ring
+fat
+memory
+orchard
+rival
+satisfy
+make |  
+| bip_39_word_new_line12 | bar
+sunset
+infant
+civil
+ring
+fat
+memory
+orchard
+rival
+satisfy
+make
+arrange |  
+| bip_39_word_new_line2 | bar
+sunset |  
+| bip_39_word_new_line3 | bar
+sunset
+infant |  
+| bip_39_word_new_line4 | bar
+sunset
+infant
+civil |  
+| bip_39_word_new_line5 | bar
+sunset
+infant
+civil
+ring |  
+| bip_39_word_new_line6 | bar
+sunset
+infant
+civil
+ring
+fat |  
+| bip_39_word_new_line7 | bar
+sunset
+infant
+civil
+ring
+fat
+memory |  
+| bip_39_word_new_line8 | bar
+sunset
+infant
+civil
+ring
+fat
+memory
+orchard |  
+| bip_39_word_new_line9 | bar
+sunset
+infant
+civil
+ring
+fat
+memory
+orchard
+rival |  
+| bip_39_word_space_0 | ['bar', 'sunset', 'infant', 'civil', 'ring', 'fat', 'memory', 'orchard', 'rival', 'satisfy', 'make', 'arrange'] |  
+| bip_39_word_space_1 | bar |  
+| bip_39_word_space_10 | bar sunset infant civil ring fat memory orchard rival satisfy |  
+| bip_39_word_space_11 | bar sunset infant civil ring fat memory orchard rival satisfy make |  
+| bip_39_word_space_12 | bar sunset infant civil ring fat memory orchard rival satisfy make arrange |  
+| bip_39_word_space_2 | bar sunset |  
+| bip_39_word_space_3 | bar sunset infant |  
+| bip_39_word_space_4 | bar sunset infant civil |  
+| bip_39_word_space_5 | bar sunset infant civil ring |  
+| bip_39_word_space_6 | bar sunset infant civil ring fat |  
+| bip_39_word_space_7 | bar sunset infant civil ring fat memory |  
+| bip_39_word_space_8 | bar sunset infant civil ring fat memory orchard |  
+| bip_39_word_space_9 | bar sunset infant civil ring fat memory orchard rival |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

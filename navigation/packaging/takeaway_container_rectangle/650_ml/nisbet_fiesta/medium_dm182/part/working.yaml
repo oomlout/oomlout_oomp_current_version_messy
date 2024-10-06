@@ -1,3 +1,187 @@
+bip_39_word_new_br1: exact
+bip_39_word_new_br10: exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere
+bip_39_word_new_br11: exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere<br>start
+bip_39_word_new_br12: exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito<br>sphere<br>start<br>access
+bip_39_word_new_br2: exact<br>canyon
+bip_39_word_new_br3: exact<br>canyon<br>tired
+bip_39_word_new_br4: exact<br>canyon<br>tired<br>scorpion
+bip_39_word_new_br5: exact<br>canyon<br>tired<br>scorpion<br>inspire
+bip_39_word_new_br6: exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot
+bip_39_word_new_br7: exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve
+bip_39_word_new_br8: exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto
+bip_39_word_new_br9: exact<br>canyon<br>tired<br>scorpion<br>inspire<br>slot<br>valve<br>auto<br>mosquito
+bip_39_word_new_line1: exact
+bip_39_word_new_line10: 'exact
+
+  canyon
+
+  tired
+
+  scorpion
+
+  inspire
+
+  slot
+
+  valve
+
+  auto
+
+  mosquito
+
+  sphere'
+bip_39_word_new_line11: 'exact
+
+  canyon
+
+  tired
+
+  scorpion
+
+  inspire
+
+  slot
+
+  valve
+
+  auto
+
+  mosquito
+
+  sphere
+
+  start'
+bip_39_word_new_line12: 'exact
+
+  canyon
+
+  tired
+
+  scorpion
+
+  inspire
+
+  slot
+
+  valve
+
+  auto
+
+  mosquito
+
+  sphere
+
+  start
+
+  access'
+bip_39_word_new_line2: 'exact
+
+  canyon'
+bip_39_word_new_line3: 'exact
+
+  canyon
+
+  tired'
+bip_39_word_new_line4: 'exact
+
+  canyon
+
+  tired
+
+  scorpion'
+bip_39_word_new_line5: 'exact
+
+  canyon
+
+  tired
+
+  scorpion
+
+  inspire'
+bip_39_word_new_line6: 'exact
+
+  canyon
+
+  tired
+
+  scorpion
+
+  inspire
+
+  slot'
+bip_39_word_new_line7: 'exact
+
+  canyon
+
+  tired
+
+  scorpion
+
+  inspire
+
+  slot
+
+  valve'
+bip_39_word_new_line8: 'exact
+
+  canyon
+
+  tired
+
+  scorpion
+
+  inspire
+
+  slot
+
+  valve
+
+  auto'
+bip_39_word_new_line9: 'exact
+
+  canyon
+
+  tired
+
+  scorpion
+
+  inspire
+
+  slot
+
+  valve
+
+  auto
+
+  mosquito'
+bip_39_word_space_0:
+- exact
+- canyon
+- tired
+- scorpion
+- inspire
+- slot
+- valve
+- auto
+- mosquito
+- sphere
+- start
+- access
+bip_39_word_space_1: exact
+bip_39_word_space_10: exact canyon tired scorpion inspire slot valve auto mosquito
+  sphere
+bip_39_word_space_11: exact canyon tired scorpion inspire slot valve auto mosquito
+  sphere start
+bip_39_word_space_12: exact canyon tired scorpion inspire slot valve auto mosquito
+  sphere start access
+bip_39_word_space_2: exact canyon
+bip_39_word_space_3: exact canyon tired
+bip_39_word_space_4: exact canyon tired scorpion
+bip_39_word_space_5: exact canyon tired scorpion inspire
+bip_39_word_space_6: exact canyon tired scorpion inspire slot
+bip_39_word_space_7: exact canyon tired scorpion inspire slot valve
+bip_39_word_space_8: exact canyon tired scorpion inspire slot valve auto
+bip_39_word_space_9: exact canyon tired scorpion inspire slot valve auto mosquito
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

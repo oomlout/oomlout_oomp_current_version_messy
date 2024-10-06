@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: field wear
+  * bip 39 word 3: field wear glimpse
+  * bip 39 word: field wear glimpse occur cousin delay holiday hockey into cat stumble arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | field |  
+| bip_39_word_new_br10 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay<br>holiday<br>hockey<br>into<br>cat |  
+| bip_39_word_new_br11 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay<br>holiday<br>hockey<br>into<br>cat<br>stumble |  
+| bip_39_word_new_br12 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay<br>holiday<br>hockey<br>into<br>cat<br>stumble<br>arch |  
+| bip_39_word_new_br2 | field<br>wear |  
+| bip_39_word_new_br3 | field<br>wear<br>glimpse |  
+| bip_39_word_new_br4 | field<br>wear<br>glimpse<br>occur |  
+| bip_39_word_new_br5 | field<br>wear<br>glimpse<br>occur<br>cousin |  
+| bip_39_word_new_br6 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay |  
+| bip_39_word_new_br7 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay<br>holiday |  
+| bip_39_word_new_br8 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay<br>holiday<br>hockey |  
+| bip_39_word_new_br9 | field<br>wear<br>glimpse<br>occur<br>cousin<br>delay<br>holiday<br>hockey<br>into |  
+| bip_39_word_new_line1 | field |  
+| bip_39_word_new_line10 | field
+wear
+glimpse
+occur
+cousin
+delay
+holiday
+hockey
+into
+cat |  
+| bip_39_word_new_line11 | field
+wear
+glimpse
+occur
+cousin
+delay
+holiday
+hockey
+into
+cat
+stumble |  
+| bip_39_word_new_line12 | field
+wear
+glimpse
+occur
+cousin
+delay
+holiday
+hockey
+into
+cat
+stumble
+arch |  
+| bip_39_word_new_line2 | field
+wear |  
+| bip_39_word_new_line3 | field
+wear
+glimpse |  
+| bip_39_word_new_line4 | field
+wear
+glimpse
+occur |  
+| bip_39_word_new_line5 | field
+wear
+glimpse
+occur
+cousin |  
+| bip_39_word_new_line6 | field
+wear
+glimpse
+occur
+cousin
+delay |  
+| bip_39_word_new_line7 | field
+wear
+glimpse
+occur
+cousin
+delay
+holiday |  
+| bip_39_word_new_line8 | field
+wear
+glimpse
+occur
+cousin
+delay
+holiday
+hockey |  
+| bip_39_word_new_line9 | field
+wear
+glimpse
+occur
+cousin
+delay
+holiday
+hockey
+into |  
+| bip_39_word_space_0 | ['field', 'wear', 'glimpse', 'occur', 'cousin', 'delay', 'holiday', 'hockey', 'into', 'cat', 'stumble', 'arch'] |  
+| bip_39_word_space_1 | field |  
+| bip_39_word_space_10 | field wear glimpse occur cousin delay holiday hockey into cat |  
+| bip_39_word_space_11 | field wear glimpse occur cousin delay holiday hockey into cat stumble |  
+| bip_39_word_space_12 | field wear glimpse occur cousin delay holiday hockey into cat stumble arch |  
+| bip_39_word_space_2 | field wear |  
+| bip_39_word_space_3 | field wear glimpse |  
+| bip_39_word_space_4 | field wear glimpse occur |  
+| bip_39_word_space_5 | field wear glimpse occur cousin |  
+| bip_39_word_space_6 | field wear glimpse occur cousin delay |  
+| bip_39_word_space_7 | field wear glimpse occur cousin delay holiday |  
+| bip_39_word_space_8 | field wear glimpse occur cousin delay holiday hockey |  
+| bip_39_word_space_9 | field wear glimpse occur cousin delay holiday hockey into |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cart pepper
+  * bip 39 word 3: cart pepper brass
+  * bip 39 word: cart pepper brass wait rigid put lounge angle ask stool absorb autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cart |  
+| bip_39_word_new_br10 | cart<br>pepper<br>brass<br>wait<br>rigid<br>put<br>lounge<br>angle<br>ask<br>stool |  
+| bip_39_word_new_br11 | cart<br>pepper<br>brass<br>wait<br>rigid<br>put<br>lounge<br>angle<br>ask<br>stool<br>absorb |  
+| bip_39_word_new_br12 | cart<br>pepper<br>brass<br>wait<br>rigid<br>put<br>lounge<br>angle<br>ask<br>stool<br>absorb<br>autumn |  
+| bip_39_word_new_br2 | cart<br>pepper |  
+| bip_39_word_new_br3 | cart<br>pepper<br>brass |  
+| bip_39_word_new_br4 | cart<br>pepper<br>brass<br>wait |  
+| bip_39_word_new_br5 | cart<br>pepper<br>brass<br>wait<br>rigid |  
+| bip_39_word_new_br6 | cart<br>pepper<br>brass<br>wait<br>rigid<br>put |  
+| bip_39_word_new_br7 | cart<br>pepper<br>brass<br>wait<br>rigid<br>put<br>lounge |  
+| bip_39_word_new_br8 | cart<br>pepper<br>brass<br>wait<br>rigid<br>put<br>lounge<br>angle |  
+| bip_39_word_new_br9 | cart<br>pepper<br>brass<br>wait<br>rigid<br>put<br>lounge<br>angle<br>ask |  
+| bip_39_word_new_line1 | cart |  
+| bip_39_word_new_line10 | cart
+pepper
+brass
+wait
+rigid
+put
+lounge
+angle
+ask
+stool |  
+| bip_39_word_new_line11 | cart
+pepper
+brass
+wait
+rigid
+put
+lounge
+angle
+ask
+stool
+absorb |  
+| bip_39_word_new_line12 | cart
+pepper
+brass
+wait
+rigid
+put
+lounge
+angle
+ask
+stool
+absorb
+autumn |  
+| bip_39_word_new_line2 | cart
+pepper |  
+| bip_39_word_new_line3 | cart
+pepper
+brass |  
+| bip_39_word_new_line4 | cart
+pepper
+brass
+wait |  
+| bip_39_word_new_line5 | cart
+pepper
+brass
+wait
+rigid |  
+| bip_39_word_new_line6 | cart
+pepper
+brass
+wait
+rigid
+put |  
+| bip_39_word_new_line7 | cart
+pepper
+brass
+wait
+rigid
+put
+lounge |  
+| bip_39_word_new_line8 | cart
+pepper
+brass
+wait
+rigid
+put
+lounge
+angle |  
+| bip_39_word_new_line9 | cart
+pepper
+brass
+wait
+rigid
+put
+lounge
+angle
+ask |  
+| bip_39_word_space_0 | ['cart', 'pepper', 'brass', 'wait', 'rigid', 'put', 'lounge', 'angle', 'ask', 'stool', 'absorb', 'autumn'] |  
+| bip_39_word_space_1 | cart |  
+| bip_39_word_space_10 | cart pepper brass wait rigid put lounge angle ask stool |  
+| bip_39_word_space_11 | cart pepper brass wait rigid put lounge angle ask stool absorb |  
+| bip_39_word_space_12 | cart pepper brass wait rigid put lounge angle ask stool absorb autumn |  
+| bip_39_word_space_2 | cart pepper |  
+| bip_39_word_space_3 | cart pepper brass |  
+| bip_39_word_space_4 | cart pepper brass wait |  
+| bip_39_word_space_5 | cart pepper brass wait rigid |  
+| bip_39_word_space_6 | cart pepper brass wait rigid put |  
+| bip_39_word_space_7 | cart pepper brass wait rigid put lounge |  
+| bip_39_word_space_8 | cart pepper brass wait rigid put lounge angle |  
+| bip_39_word_space_9 | cart pepper brass wait rigid put lounge angle ask |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

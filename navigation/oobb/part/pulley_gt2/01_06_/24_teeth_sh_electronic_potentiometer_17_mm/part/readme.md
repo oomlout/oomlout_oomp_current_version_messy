@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: name trial
+  * bip 39 word 3: name trial enter
+  * bip 39 word: name trial enter kitchen mutual lend merit sure just also cheap art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | name |  
+| bip_39_word_new_br10 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also |  
+| bip_39_word_new_br11 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also<br>cheap |  
+| bip_39_word_new_br12 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just<br>also<br>cheap<br>art |  
+| bip_39_word_new_br2 | name<br>trial |  
+| bip_39_word_new_br3 | name<br>trial<br>enter |  
+| bip_39_word_new_br4 | name<br>trial<br>enter<br>kitchen |  
+| bip_39_word_new_br5 | name<br>trial<br>enter<br>kitchen<br>mutual |  
+| bip_39_word_new_br6 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend |  
+| bip_39_word_new_br7 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit |  
+| bip_39_word_new_br8 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure |  
+| bip_39_word_new_br9 | name<br>trial<br>enter<br>kitchen<br>mutual<br>lend<br>merit<br>sure<br>just |  
+| bip_39_word_new_line1 | name |  
+| bip_39_word_new_line10 | name
+trial
+enter
+kitchen
+mutual
+lend
+merit
+sure
+just
+also |  
+| bip_39_word_new_line11 | name
+trial
+enter
+kitchen
+mutual
+lend
+merit
+sure
+just
+also
+cheap |  
+| bip_39_word_new_line12 | name
+trial
+enter
+kitchen
+mutual
+lend
+merit
+sure
+just
+also
+cheap
+art |  
+| bip_39_word_new_line2 | name
+trial |  
+| bip_39_word_new_line3 | name
+trial
+enter |  
+| bip_39_word_new_line4 | name
+trial
+enter
+kitchen |  
+| bip_39_word_new_line5 | name
+trial
+enter
+kitchen
+mutual |  
+| bip_39_word_new_line6 | name
+trial
+enter
+kitchen
+mutual
+lend |  
+| bip_39_word_new_line7 | name
+trial
+enter
+kitchen
+mutual
+lend
+merit |  
+| bip_39_word_new_line8 | name
+trial
+enter
+kitchen
+mutual
+lend
+merit
+sure |  
+| bip_39_word_new_line9 | name
+trial
+enter
+kitchen
+mutual
+lend
+merit
+sure
+just |  
+| bip_39_word_space_0 | ['name', 'trial', 'enter', 'kitchen', 'mutual', 'lend', 'merit', 'sure', 'just', 'also', 'cheap', 'art'] |  
+| bip_39_word_space_1 | name |  
+| bip_39_word_space_10 | name trial enter kitchen mutual lend merit sure just also |  
+| bip_39_word_space_11 | name trial enter kitchen mutual lend merit sure just also cheap |  
+| bip_39_word_space_12 | name trial enter kitchen mutual lend merit sure just also cheap art |  
+| bip_39_word_space_2 | name trial |  
+| bip_39_word_space_3 | name trial enter |  
+| bip_39_word_space_4 | name trial enter kitchen |  
+| bip_39_word_space_5 | name trial enter kitchen mutual |  
+| bip_39_word_space_6 | name trial enter kitchen mutual lend |  
+| bip_39_word_space_7 | name trial enter kitchen mutual lend merit |  
+| bip_39_word_space_8 | name trial enter kitchen mutual lend merit sure |  
+| bip_39_word_space_9 | name trial enter kitchen mutual lend merit sure just |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

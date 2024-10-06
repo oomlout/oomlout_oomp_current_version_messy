@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tomorrow
+bip_39_word_new_br10: tomorrow<br>suit<br>common<br>clock<br>live<br>brown<br>dizzy<br>latin<br>february<br>weapon
+bip_39_word_new_br11: tomorrow<br>suit<br>common<br>clock<br>live<br>brown<br>dizzy<br>latin<br>february<br>weapon<br>onion
+bip_39_word_new_br12: tomorrow<br>suit<br>common<br>clock<br>live<br>brown<br>dizzy<br>latin<br>february<br>weapon<br>onion<br>auction
+bip_39_word_new_br2: tomorrow<br>suit
+bip_39_word_new_br3: tomorrow<br>suit<br>common
+bip_39_word_new_br4: tomorrow<br>suit<br>common<br>clock
+bip_39_word_new_br5: tomorrow<br>suit<br>common<br>clock<br>live
+bip_39_word_new_br6: tomorrow<br>suit<br>common<br>clock<br>live<br>brown
+bip_39_word_new_br7: tomorrow<br>suit<br>common<br>clock<br>live<br>brown<br>dizzy
+bip_39_word_new_br8: tomorrow<br>suit<br>common<br>clock<br>live<br>brown<br>dizzy<br>latin
+bip_39_word_new_br9: tomorrow<br>suit<br>common<br>clock<br>live<br>brown<br>dizzy<br>latin<br>february
+bip_39_word_new_line1: tomorrow
+bip_39_word_new_line10: 'tomorrow
+
+  suit
+
+  common
+
+  clock
+
+  live
+
+  brown
+
+  dizzy
+
+  latin
+
+  february
+
+  weapon'
+bip_39_word_new_line11: 'tomorrow
+
+  suit
+
+  common
+
+  clock
+
+  live
+
+  brown
+
+  dizzy
+
+  latin
+
+  february
+
+  weapon
+
+  onion'
+bip_39_word_new_line12: 'tomorrow
+
+  suit
+
+  common
+
+  clock
+
+  live
+
+  brown
+
+  dizzy
+
+  latin
+
+  february
+
+  weapon
+
+  onion
+
+  auction'
+bip_39_word_new_line2: 'tomorrow
+
+  suit'
+bip_39_word_new_line3: 'tomorrow
+
+  suit
+
+  common'
+bip_39_word_new_line4: 'tomorrow
+
+  suit
+
+  common
+
+  clock'
+bip_39_word_new_line5: 'tomorrow
+
+  suit
+
+  common
+
+  clock
+
+  live'
+bip_39_word_new_line6: 'tomorrow
+
+  suit
+
+  common
+
+  clock
+
+  live
+
+  brown'
+bip_39_word_new_line7: 'tomorrow
+
+  suit
+
+  common
+
+  clock
+
+  live
+
+  brown
+
+  dizzy'
+bip_39_word_new_line8: 'tomorrow
+
+  suit
+
+  common
+
+  clock
+
+  live
+
+  brown
+
+  dizzy
+
+  latin'
+bip_39_word_new_line9: 'tomorrow
+
+  suit
+
+  common
+
+  clock
+
+  live
+
+  brown
+
+  dizzy
+
+  latin
+
+  february'
+bip_39_word_space_0:
+- tomorrow
+- suit
+- common
+- clock
+- live
+- brown
+- dizzy
+- latin
+- february
+- weapon
+- onion
+- auction
+bip_39_word_space_1: tomorrow
+bip_39_word_space_10: tomorrow suit common clock live brown dizzy latin february weapon
+bip_39_word_space_11: tomorrow suit common clock live brown dizzy latin february weapon
+  onion
+bip_39_word_space_12: tomorrow suit common clock live brown dizzy latin february weapon
+  onion auction
+bip_39_word_space_2: tomorrow suit
+bip_39_word_space_3: tomorrow suit common
+bip_39_word_space_4: tomorrow suit common clock
+bip_39_word_space_5: tomorrow suit common clock live
+bip_39_word_space_6: tomorrow suit common clock live brown
+bip_39_word_space_7: tomorrow suit common clock live brown dizzy
+bip_39_word_space_8: tomorrow suit common clock live brown dizzy latin
+bip_39_word_space_9: tomorrow suit common clock live brown dizzy latin february
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

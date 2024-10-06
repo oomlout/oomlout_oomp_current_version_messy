@@ -1,3 +1,187 @@
+bip_39_word_new_br1: planet
+bip_39_word_new_br10: planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check
+bip_39_word_new_br11: planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check<br>razor
+bip_39_word_new_br12: planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady<br>check<br>razor<br>aim
+bip_39_word_new_br2: planet<br>capable
+bip_39_word_new_br3: planet<br>capable<br>double
+bip_39_word_new_br4: planet<br>capable<br>double<br>vocal
+bip_39_word_new_br5: planet<br>capable<br>double<br>vocal<br>way
+bip_39_word_new_br6: planet<br>capable<br>double<br>vocal<br>way<br>special
+bip_39_word_new_br7: planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican
+bip_39_word_new_br8: planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage
+bip_39_word_new_br9: planet<br>capable<br>double<br>vocal<br>way<br>special<br>pelican<br>manage<br>lady
+bip_39_word_new_line1: planet
+bip_39_word_new_line10: 'planet
+
+  capable
+
+  double
+
+  vocal
+
+  way
+
+  special
+
+  pelican
+
+  manage
+
+  lady
+
+  check'
+bip_39_word_new_line11: 'planet
+
+  capable
+
+  double
+
+  vocal
+
+  way
+
+  special
+
+  pelican
+
+  manage
+
+  lady
+
+  check
+
+  razor'
+bip_39_word_new_line12: 'planet
+
+  capable
+
+  double
+
+  vocal
+
+  way
+
+  special
+
+  pelican
+
+  manage
+
+  lady
+
+  check
+
+  razor
+
+  aim'
+bip_39_word_new_line2: 'planet
+
+  capable'
+bip_39_word_new_line3: 'planet
+
+  capable
+
+  double'
+bip_39_word_new_line4: 'planet
+
+  capable
+
+  double
+
+  vocal'
+bip_39_word_new_line5: 'planet
+
+  capable
+
+  double
+
+  vocal
+
+  way'
+bip_39_word_new_line6: 'planet
+
+  capable
+
+  double
+
+  vocal
+
+  way
+
+  special'
+bip_39_word_new_line7: 'planet
+
+  capable
+
+  double
+
+  vocal
+
+  way
+
+  special
+
+  pelican'
+bip_39_word_new_line8: 'planet
+
+  capable
+
+  double
+
+  vocal
+
+  way
+
+  special
+
+  pelican
+
+  manage'
+bip_39_word_new_line9: 'planet
+
+  capable
+
+  double
+
+  vocal
+
+  way
+
+  special
+
+  pelican
+
+  manage
+
+  lady'
+bip_39_word_space_0:
+- planet
+- capable
+- double
+- vocal
+- way
+- special
+- pelican
+- manage
+- lady
+- check
+- razor
+- aim
+bip_39_word_space_1: planet
+bip_39_word_space_10: planet capable double vocal way special pelican manage lady
+  check
+bip_39_word_space_11: planet capable double vocal way special pelican manage lady
+  check razor
+bip_39_word_space_12: planet capable double vocal way special pelican manage lady
+  check razor aim
+bip_39_word_space_2: planet capable
+bip_39_word_space_3: planet capable double
+bip_39_word_space_4: planet capable double vocal
+bip_39_word_space_5: planet capable double vocal way
+bip_39_word_space_6: planet capable double vocal way special
+bip_39_word_space_7: planet capable double vocal way special pelican
+bip_39_word_space_8: planet capable double vocal way special pelican manage
+bip_39_word_space_9: planet capable double vocal way special pelican manage lady
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

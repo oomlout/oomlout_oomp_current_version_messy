@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: economy upgrade
+  * bip 39 word 3: economy upgrade pony
+  * bip 39 word: economy upgrade pony fashion volcano legend sting destroy lady peace over alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | economy |  
+| bip_39_word_new_br10 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend<br>sting<br>destroy<br>lady<br>peace |  
+| bip_39_word_new_br11 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend<br>sting<br>destroy<br>lady<br>peace<br>over |  
+| bip_39_word_new_br12 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend<br>sting<br>destroy<br>lady<br>peace<br>over<br>alpha |  
+| bip_39_word_new_br2 | economy<br>upgrade |  
+| bip_39_word_new_br3 | economy<br>upgrade<br>pony |  
+| bip_39_word_new_br4 | economy<br>upgrade<br>pony<br>fashion |  
+| bip_39_word_new_br5 | economy<br>upgrade<br>pony<br>fashion<br>volcano |  
+| bip_39_word_new_br6 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend |  
+| bip_39_word_new_br7 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend<br>sting |  
+| bip_39_word_new_br8 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend<br>sting<br>destroy |  
+| bip_39_word_new_br9 | economy<br>upgrade<br>pony<br>fashion<br>volcano<br>legend<br>sting<br>destroy<br>lady |  
+| bip_39_word_new_line1 | economy |  
+| bip_39_word_new_line10 | economy
+upgrade
+pony
+fashion
+volcano
+legend
+sting
+destroy
+lady
+peace |  
+| bip_39_word_new_line11 | economy
+upgrade
+pony
+fashion
+volcano
+legend
+sting
+destroy
+lady
+peace
+over |  
+| bip_39_word_new_line12 | economy
+upgrade
+pony
+fashion
+volcano
+legend
+sting
+destroy
+lady
+peace
+over
+alpha |  
+| bip_39_word_new_line2 | economy
+upgrade |  
+| bip_39_word_new_line3 | economy
+upgrade
+pony |  
+| bip_39_word_new_line4 | economy
+upgrade
+pony
+fashion |  
+| bip_39_word_new_line5 | economy
+upgrade
+pony
+fashion
+volcano |  
+| bip_39_word_new_line6 | economy
+upgrade
+pony
+fashion
+volcano
+legend |  
+| bip_39_word_new_line7 | economy
+upgrade
+pony
+fashion
+volcano
+legend
+sting |  
+| bip_39_word_new_line8 | economy
+upgrade
+pony
+fashion
+volcano
+legend
+sting
+destroy |  
+| bip_39_word_new_line9 | economy
+upgrade
+pony
+fashion
+volcano
+legend
+sting
+destroy
+lady |  
+| bip_39_word_space_0 | ['economy', 'upgrade', 'pony', 'fashion', 'volcano', 'legend', 'sting', 'destroy', 'lady', 'peace', 'over', 'alpha'] |  
+| bip_39_word_space_1 | economy |  
+| bip_39_word_space_10 | economy upgrade pony fashion volcano legend sting destroy lady peace |  
+| bip_39_word_space_11 | economy upgrade pony fashion volcano legend sting destroy lady peace over |  
+| bip_39_word_space_12 | economy upgrade pony fashion volcano legend sting destroy lady peace over alpha |  
+| bip_39_word_space_2 | economy upgrade |  
+| bip_39_word_space_3 | economy upgrade pony |  
+| bip_39_word_space_4 | economy upgrade pony fashion |  
+| bip_39_word_space_5 | economy upgrade pony fashion volcano |  
+| bip_39_word_space_6 | economy upgrade pony fashion volcano legend |  
+| bip_39_word_space_7 | economy upgrade pony fashion volcano legend sting |  
+| bip_39_word_space_8 | economy upgrade pony fashion volcano legend sting destroy |  
+| bip_39_word_space_9 | economy upgrade pony fashion volcano legend sting destroy lady |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

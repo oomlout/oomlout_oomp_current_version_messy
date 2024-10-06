@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: velvet this
+  * bip 39 word 3: velvet this scare
+  * bip 39 word: velvet this scare science north exile term auction slim churn panel age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | velvet |  
+| bip_39_word_new_br10 | velvet<br>this<br>scare<br>science<br>north<br>exile<br>term<br>auction<br>slim<br>churn |  
+| bip_39_word_new_br11 | velvet<br>this<br>scare<br>science<br>north<br>exile<br>term<br>auction<br>slim<br>churn<br>panel |  
+| bip_39_word_new_br12 | velvet<br>this<br>scare<br>science<br>north<br>exile<br>term<br>auction<br>slim<br>churn<br>panel<br>age |  
+| bip_39_word_new_br2 | velvet<br>this |  
+| bip_39_word_new_br3 | velvet<br>this<br>scare |  
+| bip_39_word_new_br4 | velvet<br>this<br>scare<br>science |  
+| bip_39_word_new_br5 | velvet<br>this<br>scare<br>science<br>north |  
+| bip_39_word_new_br6 | velvet<br>this<br>scare<br>science<br>north<br>exile |  
+| bip_39_word_new_br7 | velvet<br>this<br>scare<br>science<br>north<br>exile<br>term |  
+| bip_39_word_new_br8 | velvet<br>this<br>scare<br>science<br>north<br>exile<br>term<br>auction |  
+| bip_39_word_new_br9 | velvet<br>this<br>scare<br>science<br>north<br>exile<br>term<br>auction<br>slim |  
+| bip_39_word_new_line1 | velvet |  
+| bip_39_word_new_line10 | velvet
+this
+scare
+science
+north
+exile
+term
+auction
+slim
+churn |  
+| bip_39_word_new_line11 | velvet
+this
+scare
+science
+north
+exile
+term
+auction
+slim
+churn
+panel |  
+| bip_39_word_new_line12 | velvet
+this
+scare
+science
+north
+exile
+term
+auction
+slim
+churn
+panel
+age |  
+| bip_39_word_new_line2 | velvet
+this |  
+| bip_39_word_new_line3 | velvet
+this
+scare |  
+| bip_39_word_new_line4 | velvet
+this
+scare
+science |  
+| bip_39_word_new_line5 | velvet
+this
+scare
+science
+north |  
+| bip_39_word_new_line6 | velvet
+this
+scare
+science
+north
+exile |  
+| bip_39_word_new_line7 | velvet
+this
+scare
+science
+north
+exile
+term |  
+| bip_39_word_new_line8 | velvet
+this
+scare
+science
+north
+exile
+term
+auction |  
+| bip_39_word_new_line9 | velvet
+this
+scare
+science
+north
+exile
+term
+auction
+slim |  
+| bip_39_word_space_0 | ['velvet', 'this', 'scare', 'science', 'north', 'exile', 'term', 'auction', 'slim', 'churn', 'panel', 'age'] |  
+| bip_39_word_space_1 | velvet |  
+| bip_39_word_space_10 | velvet this scare science north exile term auction slim churn |  
+| bip_39_word_space_11 | velvet this scare science north exile term auction slim churn panel |  
+| bip_39_word_space_12 | velvet this scare science north exile term auction slim churn panel age |  
+| bip_39_word_space_2 | velvet this |  
+| bip_39_word_space_3 | velvet this scare |  
+| bip_39_word_space_4 | velvet this scare science |  
+| bip_39_word_space_5 | velvet this scare science north |  
+| bip_39_word_space_6 | velvet this scare science north exile |  
+| bip_39_word_space_7 | velvet this scare science north exile term |  
+| bip_39_word_space_8 | velvet this scare science north exile term auction |  
+| bip_39_word_space_9 | velvet this scare science north exile term auction slim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

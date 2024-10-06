@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: invite rice
+  * bip 39 word 3: invite rice gauge
+  * bip 39 word: invite rice gauge sock online butter rich file suffer impact annual affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | invite |  
+| bip_39_word_new_br10 | invite<br>rice<br>gauge<br>sock<br>online<br>butter<br>rich<br>file<br>suffer<br>impact |  
+| bip_39_word_new_br11 | invite<br>rice<br>gauge<br>sock<br>online<br>butter<br>rich<br>file<br>suffer<br>impact<br>annual |  
+| bip_39_word_new_br12 | invite<br>rice<br>gauge<br>sock<br>online<br>butter<br>rich<br>file<br>suffer<br>impact<br>annual<br>affair |  
+| bip_39_word_new_br2 | invite<br>rice |  
+| bip_39_word_new_br3 | invite<br>rice<br>gauge |  
+| bip_39_word_new_br4 | invite<br>rice<br>gauge<br>sock |  
+| bip_39_word_new_br5 | invite<br>rice<br>gauge<br>sock<br>online |  
+| bip_39_word_new_br6 | invite<br>rice<br>gauge<br>sock<br>online<br>butter |  
+| bip_39_word_new_br7 | invite<br>rice<br>gauge<br>sock<br>online<br>butter<br>rich |  
+| bip_39_word_new_br8 | invite<br>rice<br>gauge<br>sock<br>online<br>butter<br>rich<br>file |  
+| bip_39_word_new_br9 | invite<br>rice<br>gauge<br>sock<br>online<br>butter<br>rich<br>file<br>suffer |  
+| bip_39_word_new_line1 | invite |  
+| bip_39_word_new_line10 | invite
+rice
+gauge
+sock
+online
+butter
+rich
+file
+suffer
+impact |  
+| bip_39_word_new_line11 | invite
+rice
+gauge
+sock
+online
+butter
+rich
+file
+suffer
+impact
+annual |  
+| bip_39_word_new_line12 | invite
+rice
+gauge
+sock
+online
+butter
+rich
+file
+suffer
+impact
+annual
+affair |  
+| bip_39_word_new_line2 | invite
+rice |  
+| bip_39_word_new_line3 | invite
+rice
+gauge |  
+| bip_39_word_new_line4 | invite
+rice
+gauge
+sock |  
+| bip_39_word_new_line5 | invite
+rice
+gauge
+sock
+online |  
+| bip_39_word_new_line6 | invite
+rice
+gauge
+sock
+online
+butter |  
+| bip_39_word_new_line7 | invite
+rice
+gauge
+sock
+online
+butter
+rich |  
+| bip_39_word_new_line8 | invite
+rice
+gauge
+sock
+online
+butter
+rich
+file |  
+| bip_39_word_new_line9 | invite
+rice
+gauge
+sock
+online
+butter
+rich
+file
+suffer |  
+| bip_39_word_space_0 | ['invite', 'rice', 'gauge', 'sock', 'online', 'butter', 'rich', 'file', 'suffer', 'impact', 'annual', 'affair'] |  
+| bip_39_word_space_1 | invite |  
+| bip_39_word_space_10 | invite rice gauge sock online butter rich file suffer impact |  
+| bip_39_word_space_11 | invite rice gauge sock online butter rich file suffer impact annual |  
+| bip_39_word_space_12 | invite rice gauge sock online butter rich file suffer impact annual affair |  
+| bip_39_word_space_2 | invite rice |  
+| bip_39_word_space_3 | invite rice gauge |  
+| bip_39_word_space_4 | invite rice gauge sock |  
+| bip_39_word_space_5 | invite rice gauge sock online |  
+| bip_39_word_space_6 | invite rice gauge sock online butter |  
+| bip_39_word_space_7 | invite rice gauge sock online butter rich |  
+| bip_39_word_space_8 | invite rice gauge sock online butter rich file |  
+| bip_39_word_space_9 | invite rice gauge sock online butter rich file suffer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

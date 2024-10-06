@@ -1,3 +1,186 @@
+bip_39_word_new_br1: catalog
+bip_39_word_new_br10: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon<br>either<br>minute<br>sea<br>phrase
+bip_39_word_new_br11: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon<br>either<br>minute<br>sea<br>phrase<br>expand
+bip_39_word_new_br12: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon<br>either<br>minute<br>sea<br>phrase<br>expand<br>armor
+bip_39_word_new_br2: catalog<br>limit
+bip_39_word_new_br3: catalog<br>limit<br>sadness
+bip_39_word_new_br4: catalog<br>limit<br>sadness<br>nature
+bip_39_word_new_br5: catalog<br>limit<br>sadness<br>nature<br>merit
+bip_39_word_new_br6: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon
+bip_39_word_new_br7: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon<br>either
+bip_39_word_new_br8: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon<br>either<br>minute
+bip_39_word_new_br9: catalog<br>limit<br>sadness<br>nature<br>merit<br>bacon<br>either<br>minute<br>sea
+bip_39_word_new_line1: catalog
+bip_39_word_new_line10: 'catalog
+
+  limit
+
+  sadness
+
+  nature
+
+  merit
+
+  bacon
+
+  either
+
+  minute
+
+  sea
+
+  phrase'
+bip_39_word_new_line11: 'catalog
+
+  limit
+
+  sadness
+
+  nature
+
+  merit
+
+  bacon
+
+  either
+
+  minute
+
+  sea
+
+  phrase
+
+  expand'
+bip_39_word_new_line12: 'catalog
+
+  limit
+
+  sadness
+
+  nature
+
+  merit
+
+  bacon
+
+  either
+
+  minute
+
+  sea
+
+  phrase
+
+  expand
+
+  armor'
+bip_39_word_new_line2: 'catalog
+
+  limit'
+bip_39_word_new_line3: 'catalog
+
+  limit
+
+  sadness'
+bip_39_word_new_line4: 'catalog
+
+  limit
+
+  sadness
+
+  nature'
+bip_39_word_new_line5: 'catalog
+
+  limit
+
+  sadness
+
+  nature
+
+  merit'
+bip_39_word_new_line6: 'catalog
+
+  limit
+
+  sadness
+
+  nature
+
+  merit
+
+  bacon'
+bip_39_word_new_line7: 'catalog
+
+  limit
+
+  sadness
+
+  nature
+
+  merit
+
+  bacon
+
+  either'
+bip_39_word_new_line8: 'catalog
+
+  limit
+
+  sadness
+
+  nature
+
+  merit
+
+  bacon
+
+  either
+
+  minute'
+bip_39_word_new_line9: 'catalog
+
+  limit
+
+  sadness
+
+  nature
+
+  merit
+
+  bacon
+
+  either
+
+  minute
+
+  sea'
+bip_39_word_space_0:
+- catalog
+- limit
+- sadness
+- nature
+- merit
+- bacon
+- either
+- minute
+- sea
+- phrase
+- expand
+- armor
+bip_39_word_space_1: catalog
+bip_39_word_space_10: catalog limit sadness nature merit bacon either minute sea phrase
+bip_39_word_space_11: catalog limit sadness nature merit bacon either minute sea phrase
+  expand
+bip_39_word_space_12: catalog limit sadness nature merit bacon either minute sea phrase
+  expand armor
+bip_39_word_space_2: catalog limit
+bip_39_word_space_3: catalog limit sadness
+bip_39_word_space_4: catalog limit sadness nature
+bip_39_word_space_5: catalog limit sadness nature merit
+bip_39_word_space_6: catalog limit sadness nature merit bacon
+bip_39_word_space_7: catalog limit sadness nature merit bacon either
+bip_39_word_space_8: catalog limit sadness nature merit bacon either minute
+bip_39_word_space_9: catalog limit sadness nature merit bacon either minute sea
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

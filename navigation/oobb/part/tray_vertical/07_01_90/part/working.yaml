@@ -1,3 +1,186 @@
+bip_39_word_new_br1: upgrade
+bip_39_word_new_br10: upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish
+bip_39_word_new_br11: upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish<br>diamond
+bip_39_word_new_br12: upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird<br>dish<br>diamond<br>add
+bip_39_word_new_br2: upgrade<br>wasp
+bip_39_word_new_br3: upgrade<br>wasp<br>weapon
+bip_39_word_new_br4: upgrade<br>wasp<br>weapon<br>advice
+bip_39_word_new_br5: upgrade<br>wasp<br>weapon<br>advice<br>lend
+bip_39_word_new_br6: upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight
+bip_39_word_new_br7: upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game
+bip_39_word_new_br8: upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin
+bip_39_word_new_br9: upgrade<br>wasp<br>weapon<br>advice<br>lend<br>midnight<br>game<br>latin<br>bird
+bip_39_word_new_line1: upgrade
+bip_39_word_new_line10: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice
+
+  lend
+
+  midnight
+
+  game
+
+  latin
+
+  bird
+
+  dish'
+bip_39_word_new_line11: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice
+
+  lend
+
+  midnight
+
+  game
+
+  latin
+
+  bird
+
+  dish
+
+  diamond'
+bip_39_word_new_line12: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice
+
+  lend
+
+  midnight
+
+  game
+
+  latin
+
+  bird
+
+  dish
+
+  diamond
+
+  add'
+bip_39_word_new_line2: 'upgrade
+
+  wasp'
+bip_39_word_new_line3: 'upgrade
+
+  wasp
+
+  weapon'
+bip_39_word_new_line4: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice'
+bip_39_word_new_line5: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice
+
+  lend'
+bip_39_word_new_line6: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice
+
+  lend
+
+  midnight'
+bip_39_word_new_line7: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice
+
+  lend
+
+  midnight
+
+  game'
+bip_39_word_new_line8: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice
+
+  lend
+
+  midnight
+
+  game
+
+  latin'
+bip_39_word_new_line9: 'upgrade
+
+  wasp
+
+  weapon
+
+  advice
+
+  lend
+
+  midnight
+
+  game
+
+  latin
+
+  bird'
+bip_39_word_space_0:
+- upgrade
+- wasp
+- weapon
+- advice
+- lend
+- midnight
+- game
+- latin
+- bird
+- dish
+- diamond
+- add
+bip_39_word_space_1: upgrade
+bip_39_word_space_10: upgrade wasp weapon advice lend midnight game latin bird dish
+bip_39_word_space_11: upgrade wasp weapon advice lend midnight game latin bird dish
+  diamond
+bip_39_word_space_12: upgrade wasp weapon advice lend midnight game latin bird dish
+  diamond add
+bip_39_word_space_2: upgrade wasp
+bip_39_word_space_3: upgrade wasp weapon
+bip_39_word_space_4: upgrade wasp weapon advice
+bip_39_word_space_5: upgrade wasp weapon advice lend
+bip_39_word_space_6: upgrade wasp weapon advice lend midnight
+bip_39_word_space_7: upgrade wasp weapon advice lend midnight game
+bip_39_word_space_8: upgrade wasp weapon advice lend midnight game latin
+bip_39_word_space_9: upgrade wasp weapon advice lend midnight game latin bird
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

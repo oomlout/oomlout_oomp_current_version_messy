@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stuff record
+  * bip 39 word 3: stuff record earn
+  * bip 39 word: stuff record earn attitude thunder alarm great visual receive middle walnut ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stuff |  
+| bip_39_word_new_br10 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm<br>great<br>visual<br>receive<br>middle |  
+| bip_39_word_new_br11 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm<br>great<br>visual<br>receive<br>middle<br>walnut |  
+| bip_39_word_new_br12 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm<br>great<br>visual<br>receive<br>middle<br>walnut<br>ability |  
+| bip_39_word_new_br2 | stuff<br>record |  
+| bip_39_word_new_br3 | stuff<br>record<br>earn |  
+| bip_39_word_new_br4 | stuff<br>record<br>earn<br>attitude |  
+| bip_39_word_new_br5 | stuff<br>record<br>earn<br>attitude<br>thunder |  
+| bip_39_word_new_br6 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm |  
+| bip_39_word_new_br7 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm<br>great |  
+| bip_39_word_new_br8 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm<br>great<br>visual |  
+| bip_39_word_new_br9 | stuff<br>record<br>earn<br>attitude<br>thunder<br>alarm<br>great<br>visual<br>receive |  
+| bip_39_word_new_line1 | stuff |  
+| bip_39_word_new_line10 | stuff
+record
+earn
+attitude
+thunder
+alarm
+great
+visual
+receive
+middle |  
+| bip_39_word_new_line11 | stuff
+record
+earn
+attitude
+thunder
+alarm
+great
+visual
+receive
+middle
+walnut |  
+| bip_39_word_new_line12 | stuff
+record
+earn
+attitude
+thunder
+alarm
+great
+visual
+receive
+middle
+walnut
+ability |  
+| bip_39_word_new_line2 | stuff
+record |  
+| bip_39_word_new_line3 | stuff
+record
+earn |  
+| bip_39_word_new_line4 | stuff
+record
+earn
+attitude |  
+| bip_39_word_new_line5 | stuff
+record
+earn
+attitude
+thunder |  
+| bip_39_word_new_line6 | stuff
+record
+earn
+attitude
+thunder
+alarm |  
+| bip_39_word_new_line7 | stuff
+record
+earn
+attitude
+thunder
+alarm
+great |  
+| bip_39_word_new_line8 | stuff
+record
+earn
+attitude
+thunder
+alarm
+great
+visual |  
+| bip_39_word_new_line9 | stuff
+record
+earn
+attitude
+thunder
+alarm
+great
+visual
+receive |  
+| bip_39_word_space_0 | ['stuff', 'record', 'earn', 'attitude', 'thunder', 'alarm', 'great', 'visual', 'receive', 'middle', 'walnut', 'ability'] |  
+| bip_39_word_space_1 | stuff |  
+| bip_39_word_space_10 | stuff record earn attitude thunder alarm great visual receive middle |  
+| bip_39_word_space_11 | stuff record earn attitude thunder alarm great visual receive middle walnut |  
+| bip_39_word_space_12 | stuff record earn attitude thunder alarm great visual receive middle walnut ability |  
+| bip_39_word_space_2 | stuff record |  
+| bip_39_word_space_3 | stuff record earn |  
+| bip_39_word_space_4 | stuff record earn attitude |  
+| bip_39_word_space_5 | stuff record earn attitude thunder |  
+| bip_39_word_space_6 | stuff record earn attitude thunder alarm |  
+| bip_39_word_space_7 | stuff record earn attitude thunder alarm great |  
+| bip_39_word_space_8 | stuff record earn attitude thunder alarm great visual |  
+| bip_39_word_space_9 | stuff record earn attitude thunder alarm great visual receive |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

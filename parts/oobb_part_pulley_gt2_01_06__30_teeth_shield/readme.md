@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feel bomb
+  * bip 39 word 3: feel bomb novel
+  * bip 39 word: feel bomb novel broccoli monkey market scan scene husband art term antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feel |  
+| bip_39_word_new_br10 | feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market<br>scan<br>scene<br>husband<br>art |  
+| bip_39_word_new_br11 | feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market<br>scan<br>scene<br>husband<br>art<br>term |  
+| bip_39_word_new_br12 | feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market<br>scan<br>scene<br>husband<br>art<br>term<br>antenna |  
+| bip_39_word_new_br2 | feel<br>bomb |  
+| bip_39_word_new_br3 | feel<br>bomb<br>novel |  
+| bip_39_word_new_br4 | feel<br>bomb<br>novel<br>broccoli |  
+| bip_39_word_new_br5 | feel<br>bomb<br>novel<br>broccoli<br>monkey |  
+| bip_39_word_new_br6 | feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market |  
+| bip_39_word_new_br7 | feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market<br>scan |  
+| bip_39_word_new_br8 | feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market<br>scan<br>scene |  
+| bip_39_word_new_br9 | feel<br>bomb<br>novel<br>broccoli<br>monkey<br>market<br>scan<br>scene<br>husband |  
+| bip_39_word_new_line1 | feel |  
+| bip_39_word_new_line10 | feel
+bomb
+novel
+broccoli
+monkey
+market
+scan
+scene
+husband
+art |  
+| bip_39_word_new_line11 | feel
+bomb
+novel
+broccoli
+monkey
+market
+scan
+scene
+husband
+art
+term |  
+| bip_39_word_new_line12 | feel
+bomb
+novel
+broccoli
+monkey
+market
+scan
+scene
+husband
+art
+term
+antenna |  
+| bip_39_word_new_line2 | feel
+bomb |  
+| bip_39_word_new_line3 | feel
+bomb
+novel |  
+| bip_39_word_new_line4 | feel
+bomb
+novel
+broccoli |  
+| bip_39_word_new_line5 | feel
+bomb
+novel
+broccoli
+monkey |  
+| bip_39_word_new_line6 | feel
+bomb
+novel
+broccoli
+monkey
+market |  
+| bip_39_word_new_line7 | feel
+bomb
+novel
+broccoli
+monkey
+market
+scan |  
+| bip_39_word_new_line8 | feel
+bomb
+novel
+broccoli
+monkey
+market
+scan
+scene |  
+| bip_39_word_new_line9 | feel
+bomb
+novel
+broccoli
+monkey
+market
+scan
+scene
+husband |  
+| bip_39_word_space_0 | ['feel', 'bomb', 'novel', 'broccoli', 'monkey', 'market', 'scan', 'scene', 'husband', 'art', 'term', 'antenna'] |  
+| bip_39_word_space_1 | feel |  
+| bip_39_word_space_10 | feel bomb novel broccoli monkey market scan scene husband art |  
+| bip_39_word_space_11 | feel bomb novel broccoli monkey market scan scene husband art term |  
+| bip_39_word_space_12 | feel bomb novel broccoli monkey market scan scene husband art term antenna |  
+| bip_39_word_space_2 | feel bomb |  
+| bip_39_word_space_3 | feel bomb novel |  
+| bip_39_word_space_4 | feel bomb novel broccoli |  
+| bip_39_word_space_5 | feel bomb novel broccoli monkey |  
+| bip_39_word_space_6 | feel bomb novel broccoli monkey market |  
+| bip_39_word_space_7 | feel bomb novel broccoli monkey market scan |  
+| bip_39_word_space_8 | feel bomb novel broccoli monkey market scan scene |  
+| bip_39_word_space_9 | feel bomb novel broccoli monkey market scan scene husband |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

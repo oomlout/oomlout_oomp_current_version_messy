@@ -1,3 +1,186 @@
+bip_39_word_new_br1: state
+bip_39_word_new_br10: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north
+bip_39_word_new_br11: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north<br>orient
+bip_39_word_new_br12: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino<br>north<br>orient<br>armed
+bip_39_word_new_br2: state<br>twin
+bip_39_word_new_br3: state<br>twin<br>ostrich
+bip_39_word_new_br4: state<br>twin<br>ostrich<br>fix
+bip_39_word_new_br5: state<br>twin<br>ostrich<br>fix<br>thumb
+bip_39_word_new_br6: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven
+bip_39_word_new_br7: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce
+bip_39_word_new_br8: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip
+bip_39_word_new_br9: state<br>twin<br>ostrich<br>fix<br>thumb<br>oven<br>divorce<br>clip<br>casino
+bip_39_word_new_line1: state
+bip_39_word_new_line10: 'state
+
+  twin
+
+  ostrich
+
+  fix
+
+  thumb
+
+  oven
+
+  divorce
+
+  clip
+
+  casino
+
+  north'
+bip_39_word_new_line11: 'state
+
+  twin
+
+  ostrich
+
+  fix
+
+  thumb
+
+  oven
+
+  divorce
+
+  clip
+
+  casino
+
+  north
+
+  orient'
+bip_39_word_new_line12: 'state
+
+  twin
+
+  ostrich
+
+  fix
+
+  thumb
+
+  oven
+
+  divorce
+
+  clip
+
+  casino
+
+  north
+
+  orient
+
+  armed'
+bip_39_word_new_line2: 'state
+
+  twin'
+bip_39_word_new_line3: 'state
+
+  twin
+
+  ostrich'
+bip_39_word_new_line4: 'state
+
+  twin
+
+  ostrich
+
+  fix'
+bip_39_word_new_line5: 'state
+
+  twin
+
+  ostrich
+
+  fix
+
+  thumb'
+bip_39_word_new_line6: 'state
+
+  twin
+
+  ostrich
+
+  fix
+
+  thumb
+
+  oven'
+bip_39_word_new_line7: 'state
+
+  twin
+
+  ostrich
+
+  fix
+
+  thumb
+
+  oven
+
+  divorce'
+bip_39_word_new_line8: 'state
+
+  twin
+
+  ostrich
+
+  fix
+
+  thumb
+
+  oven
+
+  divorce
+
+  clip'
+bip_39_word_new_line9: 'state
+
+  twin
+
+  ostrich
+
+  fix
+
+  thumb
+
+  oven
+
+  divorce
+
+  clip
+
+  casino'
+bip_39_word_space_0:
+- state
+- twin
+- ostrich
+- fix
+- thumb
+- oven
+- divorce
+- clip
+- casino
+- north
+- orient
+- armed
+bip_39_word_space_1: state
+bip_39_word_space_10: state twin ostrich fix thumb oven divorce clip casino north
+bip_39_word_space_11: state twin ostrich fix thumb oven divorce clip casino north
+  orient
+bip_39_word_space_12: state twin ostrich fix thumb oven divorce clip casino north
+  orient armed
+bip_39_word_space_2: state twin
+bip_39_word_space_3: state twin ostrich
+bip_39_word_space_4: state twin ostrich fix
+bip_39_word_space_5: state twin ostrich fix thumb
+bip_39_word_space_6: state twin ostrich fix thumb oven
+bip_39_word_space_7: state twin ostrich fix thumb oven divorce
+bip_39_word_space_8: state twin ostrich fix thumb oven divorce clip
+bip_39_word_space_9: state twin ostrich fix thumb oven divorce clip casino
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

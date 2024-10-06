@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: funny warrior
+  * bip 39 word 3: funny warrior sweet
+  * bip 39 word: funny warrior sweet giggle dynamic angle forget myself stick recycle response apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | funny |  
+| bip_39_word_new_br10 | funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle<br>forget<br>myself<br>stick<br>recycle |  
+| bip_39_word_new_br11 | funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle<br>forget<br>myself<br>stick<br>recycle<br>response |  
+| bip_39_word_new_br12 | funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle<br>forget<br>myself<br>stick<br>recycle<br>response<br>apart |  
+| bip_39_word_new_br2 | funny<br>warrior |  
+| bip_39_word_new_br3 | funny<br>warrior<br>sweet |  
+| bip_39_word_new_br4 | funny<br>warrior<br>sweet<br>giggle |  
+| bip_39_word_new_br5 | funny<br>warrior<br>sweet<br>giggle<br>dynamic |  
+| bip_39_word_new_br6 | funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle |  
+| bip_39_word_new_br7 | funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle<br>forget |  
+| bip_39_word_new_br8 | funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle<br>forget<br>myself |  
+| bip_39_word_new_br9 | funny<br>warrior<br>sweet<br>giggle<br>dynamic<br>angle<br>forget<br>myself<br>stick |  
+| bip_39_word_new_line1 | funny |  
+| bip_39_word_new_line10 | funny
+warrior
+sweet
+giggle
+dynamic
+angle
+forget
+myself
+stick
+recycle |  
+| bip_39_word_new_line11 | funny
+warrior
+sweet
+giggle
+dynamic
+angle
+forget
+myself
+stick
+recycle
+response |  
+| bip_39_word_new_line12 | funny
+warrior
+sweet
+giggle
+dynamic
+angle
+forget
+myself
+stick
+recycle
+response
+apart |  
+| bip_39_word_new_line2 | funny
+warrior |  
+| bip_39_word_new_line3 | funny
+warrior
+sweet |  
+| bip_39_word_new_line4 | funny
+warrior
+sweet
+giggle |  
+| bip_39_word_new_line5 | funny
+warrior
+sweet
+giggle
+dynamic |  
+| bip_39_word_new_line6 | funny
+warrior
+sweet
+giggle
+dynamic
+angle |  
+| bip_39_word_new_line7 | funny
+warrior
+sweet
+giggle
+dynamic
+angle
+forget |  
+| bip_39_word_new_line8 | funny
+warrior
+sweet
+giggle
+dynamic
+angle
+forget
+myself |  
+| bip_39_word_new_line9 | funny
+warrior
+sweet
+giggle
+dynamic
+angle
+forget
+myself
+stick |  
+| bip_39_word_space_0 | ['funny', 'warrior', 'sweet', 'giggle', 'dynamic', 'angle', 'forget', 'myself', 'stick', 'recycle', 'response', 'apart'] |  
+| bip_39_word_space_1 | funny |  
+| bip_39_word_space_10 | funny warrior sweet giggle dynamic angle forget myself stick recycle |  
+| bip_39_word_space_11 | funny warrior sweet giggle dynamic angle forget myself stick recycle response |  
+| bip_39_word_space_12 | funny warrior sweet giggle dynamic angle forget myself stick recycle response apart |  
+| bip_39_word_space_2 | funny warrior |  
+| bip_39_word_space_3 | funny warrior sweet |  
+| bip_39_word_space_4 | funny warrior sweet giggle |  
+| bip_39_word_space_5 | funny warrior sweet giggle dynamic |  
+| bip_39_word_space_6 | funny warrior sweet giggle dynamic angle |  
+| bip_39_word_space_7 | funny warrior sweet giggle dynamic angle forget |  
+| bip_39_word_space_8 | funny warrior sweet giggle dynamic angle forget myself |  
+| bip_39_word_space_9 | funny warrior sweet giggle dynamic angle forget myself stick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

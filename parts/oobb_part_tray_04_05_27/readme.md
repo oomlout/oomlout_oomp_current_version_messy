@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: loyal unveil
+  * bip 39 word 3: loyal unveil focus
+  * bip 39 word: loyal unveil focus trade differ race purchase skill rocket report little ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | loyal |  
+| bip_39_word_new_br10 | loyal<br>unveil<br>focus<br>trade<br>differ<br>race<br>purchase<br>skill<br>rocket<br>report |  
+| bip_39_word_new_br11 | loyal<br>unveil<br>focus<br>trade<br>differ<br>race<br>purchase<br>skill<br>rocket<br>report<br>little |  
+| bip_39_word_new_br12 | loyal<br>unveil<br>focus<br>trade<br>differ<br>race<br>purchase<br>skill<br>rocket<br>report<br>little<br>ancient |  
+| bip_39_word_new_br2 | loyal<br>unveil |  
+| bip_39_word_new_br3 | loyal<br>unveil<br>focus |  
+| bip_39_word_new_br4 | loyal<br>unveil<br>focus<br>trade |  
+| bip_39_word_new_br5 | loyal<br>unveil<br>focus<br>trade<br>differ |  
+| bip_39_word_new_br6 | loyal<br>unveil<br>focus<br>trade<br>differ<br>race |  
+| bip_39_word_new_br7 | loyal<br>unveil<br>focus<br>trade<br>differ<br>race<br>purchase |  
+| bip_39_word_new_br8 | loyal<br>unveil<br>focus<br>trade<br>differ<br>race<br>purchase<br>skill |  
+| bip_39_word_new_br9 | loyal<br>unveil<br>focus<br>trade<br>differ<br>race<br>purchase<br>skill<br>rocket |  
+| bip_39_word_new_line1 | loyal |  
+| bip_39_word_new_line10 | loyal
+unveil
+focus
+trade
+differ
+race
+purchase
+skill
+rocket
+report |  
+| bip_39_word_new_line11 | loyal
+unveil
+focus
+trade
+differ
+race
+purchase
+skill
+rocket
+report
+little |  
+| bip_39_word_new_line12 | loyal
+unveil
+focus
+trade
+differ
+race
+purchase
+skill
+rocket
+report
+little
+ancient |  
+| bip_39_word_new_line2 | loyal
+unveil |  
+| bip_39_word_new_line3 | loyal
+unveil
+focus |  
+| bip_39_word_new_line4 | loyal
+unveil
+focus
+trade |  
+| bip_39_word_new_line5 | loyal
+unveil
+focus
+trade
+differ |  
+| bip_39_word_new_line6 | loyal
+unveil
+focus
+trade
+differ
+race |  
+| bip_39_word_new_line7 | loyal
+unveil
+focus
+trade
+differ
+race
+purchase |  
+| bip_39_word_new_line8 | loyal
+unveil
+focus
+trade
+differ
+race
+purchase
+skill |  
+| bip_39_word_new_line9 | loyal
+unveil
+focus
+trade
+differ
+race
+purchase
+skill
+rocket |  
+| bip_39_word_space_0 | ['loyal', 'unveil', 'focus', 'trade', 'differ', 'race', 'purchase', 'skill', 'rocket', 'report', 'little', 'ancient'] |  
+| bip_39_word_space_1 | loyal |  
+| bip_39_word_space_10 | loyal unveil focus trade differ race purchase skill rocket report |  
+| bip_39_word_space_11 | loyal unveil focus trade differ race purchase skill rocket report little |  
+| bip_39_word_space_12 | loyal unveil focus trade differ race purchase skill rocket report little ancient |  
+| bip_39_word_space_2 | loyal unveil |  
+| bip_39_word_space_3 | loyal unveil focus |  
+| bip_39_word_space_4 | loyal unveil focus trade |  
+| bip_39_word_space_5 | loyal unveil focus trade differ |  
+| bip_39_word_space_6 | loyal unveil focus trade differ race |  
+| bip_39_word_space_7 | loyal unveil focus trade differ race purchase |  
+| bip_39_word_space_8 | loyal unveil focus trade differ race purchase skill |  
+| bip_39_word_space_9 | loyal unveil focus trade differ race purchase skill rocket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

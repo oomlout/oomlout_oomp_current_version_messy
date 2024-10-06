@@ -1,3 +1,186 @@
+bip_39_word_new_br1: idea
+bip_39_word_new_br10: idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant
+bip_39_word_new_br11: idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant<br>try
+bip_39_word_new_br12: idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid<br>elephant<br>try<br>answer
+bip_39_word_new_br2: idea<br>clerk
+bip_39_word_new_br3: idea<br>clerk<br>rifle
+bip_39_word_new_br4: idea<br>clerk<br>rifle<br>grocery
+bip_39_word_new_br5: idea<br>clerk<br>rifle<br>grocery<br>describe
+bip_39_word_new_br6: idea<br>clerk<br>rifle<br>grocery<br>describe<br>two
+bip_39_word_new_br7: idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality
+bip_39_word_new_br8: idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial
+bip_39_word_new_br9: idea<br>clerk<br>rifle<br>grocery<br>describe<br>two<br>quality<br>denial<br>valid
+bip_39_word_new_line1: idea
+bip_39_word_new_line10: 'idea
+
+  clerk
+
+  rifle
+
+  grocery
+
+  describe
+
+  two
+
+  quality
+
+  denial
+
+  valid
+
+  elephant'
+bip_39_word_new_line11: 'idea
+
+  clerk
+
+  rifle
+
+  grocery
+
+  describe
+
+  two
+
+  quality
+
+  denial
+
+  valid
+
+  elephant
+
+  try'
+bip_39_word_new_line12: 'idea
+
+  clerk
+
+  rifle
+
+  grocery
+
+  describe
+
+  two
+
+  quality
+
+  denial
+
+  valid
+
+  elephant
+
+  try
+
+  answer'
+bip_39_word_new_line2: 'idea
+
+  clerk'
+bip_39_word_new_line3: 'idea
+
+  clerk
+
+  rifle'
+bip_39_word_new_line4: 'idea
+
+  clerk
+
+  rifle
+
+  grocery'
+bip_39_word_new_line5: 'idea
+
+  clerk
+
+  rifle
+
+  grocery
+
+  describe'
+bip_39_word_new_line6: 'idea
+
+  clerk
+
+  rifle
+
+  grocery
+
+  describe
+
+  two'
+bip_39_word_new_line7: 'idea
+
+  clerk
+
+  rifle
+
+  grocery
+
+  describe
+
+  two
+
+  quality'
+bip_39_word_new_line8: 'idea
+
+  clerk
+
+  rifle
+
+  grocery
+
+  describe
+
+  two
+
+  quality
+
+  denial'
+bip_39_word_new_line9: 'idea
+
+  clerk
+
+  rifle
+
+  grocery
+
+  describe
+
+  two
+
+  quality
+
+  denial
+
+  valid'
+bip_39_word_space_0:
+- idea
+- clerk
+- rifle
+- grocery
+- describe
+- two
+- quality
+- denial
+- valid
+- elephant
+- try
+- answer
+bip_39_word_space_1: idea
+bip_39_word_space_10: idea clerk rifle grocery describe two quality denial valid elephant
+bip_39_word_space_11: idea clerk rifle grocery describe two quality denial valid elephant
+  try
+bip_39_word_space_12: idea clerk rifle grocery describe two quality denial valid elephant
+  try answer
+bip_39_word_space_2: idea clerk
+bip_39_word_space_3: idea clerk rifle
+bip_39_word_space_4: idea clerk rifle grocery
+bip_39_word_space_5: idea clerk rifle grocery describe
+bip_39_word_space_6: idea clerk rifle grocery describe two
+bip_39_word_space_7: idea clerk rifle grocery describe two quality
+bip_39_word_space_8: idea clerk rifle grocery describe two quality denial
+bip_39_word_space_9: idea clerk rifle grocery describe two quality denial valid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

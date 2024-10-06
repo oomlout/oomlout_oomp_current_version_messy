@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: second expand
+  * bip 39 word 3: second expand fork
+  * bip 39 word: second expand fork sugar sport chest tape solid embark boss village absent
 
 ### other_codes
 * short_code: so3br25nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | second |  
+| bip_39_word_new_br10 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss |  
+| bip_39_word_new_br11 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss<br>village |  
+| bip_39_word_new_br12 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark<br>boss<br>village<br>absent |  
+| bip_39_word_new_br2 | second<br>expand |  
+| bip_39_word_new_br3 | second<br>expand<br>fork |  
+| bip_39_word_new_br4 | second<br>expand<br>fork<br>sugar |  
+| bip_39_word_new_br5 | second<br>expand<br>fork<br>sugar<br>sport |  
+| bip_39_word_new_br6 | second<br>expand<br>fork<br>sugar<br>sport<br>chest |  
+| bip_39_word_new_br7 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape |  
+| bip_39_word_new_br8 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid |  
+| bip_39_word_new_br9 | second<br>expand<br>fork<br>sugar<br>sport<br>chest<br>tape<br>solid<br>embark |  
+| bip_39_word_new_line1 | second |  
+| bip_39_word_new_line10 | second
+expand
+fork
+sugar
+sport
+chest
+tape
+solid
+embark
+boss |  
+| bip_39_word_new_line11 | second
+expand
+fork
+sugar
+sport
+chest
+tape
+solid
+embark
+boss
+village |  
+| bip_39_word_new_line12 | second
+expand
+fork
+sugar
+sport
+chest
+tape
+solid
+embark
+boss
+village
+absent |  
+| bip_39_word_new_line2 | second
+expand |  
+| bip_39_word_new_line3 | second
+expand
+fork |  
+| bip_39_word_new_line4 | second
+expand
+fork
+sugar |  
+| bip_39_word_new_line5 | second
+expand
+fork
+sugar
+sport |  
+| bip_39_word_new_line6 | second
+expand
+fork
+sugar
+sport
+chest |  
+| bip_39_word_new_line7 | second
+expand
+fork
+sugar
+sport
+chest
+tape |  
+| bip_39_word_new_line8 | second
+expand
+fork
+sugar
+sport
+chest
+tape
+solid |  
+| bip_39_word_new_line9 | second
+expand
+fork
+sugar
+sport
+chest
+tape
+solid
+embark |  
+| bip_39_word_space_0 | ['second', 'expand', 'fork', 'sugar', 'sport', 'chest', 'tape', 'solid', 'embark', 'boss', 'village', 'absent'] |  
+| bip_39_word_space_1 | second |  
+| bip_39_word_space_10 | second expand fork sugar sport chest tape solid embark boss |  
+| bip_39_word_space_11 | second expand fork sugar sport chest tape solid embark boss village |  
+| bip_39_word_space_12 | second expand fork sugar sport chest tape solid embark boss village absent |  
+| bip_39_word_space_2 | second expand |  
+| bip_39_word_space_3 | second expand fork |  
+| bip_39_word_space_4 | second expand fork sugar |  
+| bip_39_word_space_5 | second expand fork sugar sport |  
+| bip_39_word_space_6 | second expand fork sugar sport chest |  
+| bip_39_word_space_7 | second expand fork sugar sport chest tape |  
+| bip_39_word_space_8 | second expand fork sugar sport chest tape solid |  
+| bip_39_word_space_9 | second expand fork sugar sport chest tape solid embark |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: album
+bip_39_word_new_br10: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight<br>fiscal
+bip_39_word_new_br11: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight<br>fiscal<br>castle
+bip_39_word_new_br12: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight<br>fiscal<br>castle<br>ask
+bip_39_word_new_br2: album<br>erosion
+bip_39_word_new_br3: album<br>erosion<br>fluid
+bip_39_word_new_br4: album<br>erosion<br>fluid<br>cattle
+bip_39_word_new_br5: album<br>erosion<br>fluid<br>cattle<br>expire
+bip_39_word_new_br6: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum
+bip_39_word_new_br7: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper
+bip_39_word_new_br8: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road
+bip_39_word_new_br9: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight
+bip_39_word_new_line1: album
+bip_39_word_new_line10: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road
+
+  slight
+
+  fiscal'
+bip_39_word_new_line11: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road
+
+  slight
+
+  fiscal
+
+  castle'
+bip_39_word_new_line12: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road
+
+  slight
+
+  fiscal
+
+  castle
+
+  ask'
+bip_39_word_new_line2: 'album
+
+  erosion'
+bip_39_word_new_line3: 'album
+
+  erosion
+
+  fluid'
+bip_39_word_new_line4: 'album
+
+  erosion
+
+  fluid
+
+  cattle'
+bip_39_word_new_line5: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire'
+bip_39_word_new_line6: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum'
+bip_39_word_new_line7: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper'
+bip_39_word_new_line8: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road'
+bip_39_word_new_line9: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road
+
+  slight'
+bip_39_word_space_0:
+- album
+- erosion
+- fluid
+- cattle
+- expire
+- maximum
+- pepper
+- road
+- slight
+- fiscal
+- castle
+- ask
+bip_39_word_space_1: album
+bip_39_word_space_10: album erosion fluid cattle expire maximum pepper road slight
+  fiscal
+bip_39_word_space_11: album erosion fluid cattle expire maximum pepper road slight
+  fiscal castle
+bip_39_word_space_12: album erosion fluid cattle expire maximum pepper road slight
+  fiscal castle ask
+bip_39_word_space_2: album erosion
+bip_39_word_space_3: album erosion fluid
+bip_39_word_space_4: album erosion fluid cattle
+bip_39_word_space_5: album erosion fluid cattle expire
+bip_39_word_space_6: album erosion fluid cattle expire maximum
+bip_39_word_space_7: album erosion fluid cattle expire maximum pepper
+bip_39_word_space_8: album erosion fluid cattle expire maximum pepper road
+bip_39_word_space_9: album erosion fluid cattle expire maximum pepper road slight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: famous jump
+  * bip 39 word 3: famous jump visit
+  * bip 39 word: famous jump visit song give increase diary boil paper staff floor april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | famous |  
+| bip_39_word_new_br10 | famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper<br>staff |  
+| bip_39_word_new_br11 | famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper<br>staff<br>floor |  
+| bip_39_word_new_br12 | famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper<br>staff<br>floor<br>april |  
+| bip_39_word_new_br2 | famous<br>jump |  
+| bip_39_word_new_br3 | famous<br>jump<br>visit |  
+| bip_39_word_new_br4 | famous<br>jump<br>visit<br>song |  
+| bip_39_word_new_br5 | famous<br>jump<br>visit<br>song<br>give |  
+| bip_39_word_new_br6 | famous<br>jump<br>visit<br>song<br>give<br>increase |  
+| bip_39_word_new_br7 | famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary |  
+| bip_39_word_new_br8 | famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil |  
+| bip_39_word_new_br9 | famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper |  
+| bip_39_word_new_line1 | famous |  
+| bip_39_word_new_line10 | famous
+jump
+visit
+song
+give
+increase
+diary
+boil
+paper
+staff |  
+| bip_39_word_new_line11 | famous
+jump
+visit
+song
+give
+increase
+diary
+boil
+paper
+staff
+floor |  
+| bip_39_word_new_line12 | famous
+jump
+visit
+song
+give
+increase
+diary
+boil
+paper
+staff
+floor
+april |  
+| bip_39_word_new_line2 | famous
+jump |  
+| bip_39_word_new_line3 | famous
+jump
+visit |  
+| bip_39_word_new_line4 | famous
+jump
+visit
+song |  
+| bip_39_word_new_line5 | famous
+jump
+visit
+song
+give |  
+| bip_39_word_new_line6 | famous
+jump
+visit
+song
+give
+increase |  
+| bip_39_word_new_line7 | famous
+jump
+visit
+song
+give
+increase
+diary |  
+| bip_39_word_new_line8 | famous
+jump
+visit
+song
+give
+increase
+diary
+boil |  
+| bip_39_word_new_line9 | famous
+jump
+visit
+song
+give
+increase
+diary
+boil
+paper |  
+| bip_39_word_space_0 | ['famous', 'jump', 'visit', 'song', 'give', 'increase', 'diary', 'boil', 'paper', 'staff', 'floor', 'april'] |  
+| bip_39_word_space_1 | famous |  
+| bip_39_word_space_10 | famous jump visit song give increase diary boil paper staff |  
+| bip_39_word_space_11 | famous jump visit song give increase diary boil paper staff floor |  
+| bip_39_word_space_12 | famous jump visit song give increase diary boil paper staff floor april |  
+| bip_39_word_space_2 | famous jump |  
+| bip_39_word_space_3 | famous jump visit |  
+| bip_39_word_space_4 | famous jump visit song |  
+| bip_39_word_space_5 | famous jump visit song give |  
+| bip_39_word_space_6 | famous jump visit song give increase |  
+| bip_39_word_space_7 | famous jump visit song give increase diary |  
+| bip_39_word_space_8 | famous jump visit song give increase diary boil |  
+| bip_39_word_space_9 | famous jump visit song give increase diary boil paper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: luggage spray
+  * bip 39 word 3: luggage spray duty
+  * bip 39 word: luggage spray duty pottery culture turn crush talk talent dad dolphin aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | luggage |  
+| bip_39_word_new_br10 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn<br>crush<br>talk<br>talent<br>dad |  
+| bip_39_word_new_br11 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn<br>crush<br>talk<br>talent<br>dad<br>dolphin |  
+| bip_39_word_new_br12 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn<br>crush<br>talk<br>talent<br>dad<br>dolphin<br>aisle |  
+| bip_39_word_new_br2 | luggage<br>spray |  
+| bip_39_word_new_br3 | luggage<br>spray<br>duty |  
+| bip_39_word_new_br4 | luggage<br>spray<br>duty<br>pottery |  
+| bip_39_word_new_br5 | luggage<br>spray<br>duty<br>pottery<br>culture |  
+| bip_39_word_new_br6 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn |  
+| bip_39_word_new_br7 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn<br>crush |  
+| bip_39_word_new_br8 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn<br>crush<br>talk |  
+| bip_39_word_new_br9 | luggage<br>spray<br>duty<br>pottery<br>culture<br>turn<br>crush<br>talk<br>talent |  
+| bip_39_word_new_line1 | luggage |  
+| bip_39_word_new_line10 | luggage
+spray
+duty
+pottery
+culture
+turn
+crush
+talk
+talent
+dad |  
+| bip_39_word_new_line11 | luggage
+spray
+duty
+pottery
+culture
+turn
+crush
+talk
+talent
+dad
+dolphin |  
+| bip_39_word_new_line12 | luggage
+spray
+duty
+pottery
+culture
+turn
+crush
+talk
+talent
+dad
+dolphin
+aisle |  
+| bip_39_word_new_line2 | luggage
+spray |  
+| bip_39_word_new_line3 | luggage
+spray
+duty |  
+| bip_39_word_new_line4 | luggage
+spray
+duty
+pottery |  
+| bip_39_word_new_line5 | luggage
+spray
+duty
+pottery
+culture |  
+| bip_39_word_new_line6 | luggage
+spray
+duty
+pottery
+culture
+turn |  
+| bip_39_word_new_line7 | luggage
+spray
+duty
+pottery
+culture
+turn
+crush |  
+| bip_39_word_new_line8 | luggage
+spray
+duty
+pottery
+culture
+turn
+crush
+talk |  
+| bip_39_word_new_line9 | luggage
+spray
+duty
+pottery
+culture
+turn
+crush
+talk
+talent |  
+| bip_39_word_space_0 | ['luggage', 'spray', 'duty', 'pottery', 'culture', 'turn', 'crush', 'talk', 'talent', 'dad', 'dolphin', 'aisle'] |  
+| bip_39_word_space_1 | luggage |  
+| bip_39_word_space_10 | luggage spray duty pottery culture turn crush talk talent dad |  
+| bip_39_word_space_11 | luggage spray duty pottery culture turn crush talk talent dad dolphin |  
+| bip_39_word_space_12 | luggage spray duty pottery culture turn crush talk talent dad dolphin aisle |  
+| bip_39_word_space_2 | luggage spray |  
+| bip_39_word_space_3 | luggage spray duty |  
+| bip_39_word_space_4 | luggage spray duty pottery |  
+| bip_39_word_space_5 | luggage spray duty pottery culture |  
+| bip_39_word_space_6 | luggage spray duty pottery culture turn |  
+| bip_39_word_space_7 | luggage spray duty pottery culture turn crush |  
+| bip_39_word_space_8 | luggage spray duty pottery culture turn crush talk |  
+| bip_39_word_space_9 | luggage spray duty pottery culture turn crush talk talent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

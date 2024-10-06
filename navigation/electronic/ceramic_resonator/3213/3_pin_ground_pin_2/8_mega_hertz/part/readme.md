@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wait ski
+  * bip 39 word 3: wait ski entire
+  * bip 39 word: wait ski entire mixed sort shoot bundle meadow random sustain whip autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wait |  
+| bip_39_word_new_br10 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain |  
+| bip_39_word_new_br11 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain<br>whip |  
+| bip_39_word_new_br12 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain<br>whip<br>autumn |  
+| bip_39_word_new_br2 | wait<br>ski |  
+| bip_39_word_new_br3 | wait<br>ski<br>entire |  
+| bip_39_word_new_br4 | wait<br>ski<br>entire<br>mixed |  
+| bip_39_word_new_br5 | wait<br>ski<br>entire<br>mixed<br>sort |  
+| bip_39_word_new_br6 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot |  
+| bip_39_word_new_br7 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle |  
+| bip_39_word_new_br8 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow |  
+| bip_39_word_new_br9 | wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random |  
+| bip_39_word_new_line1 | wait |  
+| bip_39_word_new_line10 | wait
+ski
+entire
+mixed
+sort
+shoot
+bundle
+meadow
+random
+sustain |  
+| bip_39_word_new_line11 | wait
+ski
+entire
+mixed
+sort
+shoot
+bundle
+meadow
+random
+sustain
+whip |  
+| bip_39_word_new_line12 | wait
+ski
+entire
+mixed
+sort
+shoot
+bundle
+meadow
+random
+sustain
+whip
+autumn |  
+| bip_39_word_new_line2 | wait
+ski |  
+| bip_39_word_new_line3 | wait
+ski
+entire |  
+| bip_39_word_new_line4 | wait
+ski
+entire
+mixed |  
+| bip_39_word_new_line5 | wait
+ski
+entire
+mixed
+sort |  
+| bip_39_word_new_line6 | wait
+ski
+entire
+mixed
+sort
+shoot |  
+| bip_39_word_new_line7 | wait
+ski
+entire
+mixed
+sort
+shoot
+bundle |  
+| bip_39_word_new_line8 | wait
+ski
+entire
+mixed
+sort
+shoot
+bundle
+meadow |  
+| bip_39_word_new_line9 | wait
+ski
+entire
+mixed
+sort
+shoot
+bundle
+meadow
+random |  
+| bip_39_word_space_0 | ['wait', 'ski', 'entire', 'mixed', 'sort', 'shoot', 'bundle', 'meadow', 'random', 'sustain', 'whip', 'autumn'] |  
+| bip_39_word_space_1 | wait |  
+| bip_39_word_space_10 | wait ski entire mixed sort shoot bundle meadow random sustain |  
+| bip_39_word_space_11 | wait ski entire mixed sort shoot bundle meadow random sustain whip |  
+| bip_39_word_space_12 | wait ski entire mixed sort shoot bundle meadow random sustain whip autumn |  
+| bip_39_word_space_2 | wait ski |  
+| bip_39_word_space_3 | wait ski entire |  
+| bip_39_word_space_4 | wait ski entire mixed |  
+| bip_39_word_space_5 | wait ski entire mixed sort |  
+| bip_39_word_space_6 | wait ski entire mixed sort shoot |  
+| bip_39_word_space_7 | wait ski entire mixed sort shoot bundle |  
+| bip_39_word_space_8 | wait ski entire mixed sort shoot bundle meadow |  
+| bip_39_word_space_9 | wait ski entire mixed sort shoot bundle meadow random |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: basic vacuum
+  * bip 39 word 3: basic vacuum type
+  * bip 39 word: basic vacuum type hub dismiss satoshi entry chunk sting refuse network account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | basic |  
+| bip_39_word_new_br10 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi<br>entry<br>chunk<br>sting<br>refuse |  
+| bip_39_word_new_br11 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi<br>entry<br>chunk<br>sting<br>refuse<br>network |  
+| bip_39_word_new_br12 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi<br>entry<br>chunk<br>sting<br>refuse<br>network<br>account |  
+| bip_39_word_new_br2 | basic<br>vacuum |  
+| bip_39_word_new_br3 | basic<br>vacuum<br>type |  
+| bip_39_word_new_br4 | basic<br>vacuum<br>type<br>hub |  
+| bip_39_word_new_br5 | basic<br>vacuum<br>type<br>hub<br>dismiss |  
+| bip_39_word_new_br6 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi |  
+| bip_39_word_new_br7 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi<br>entry |  
+| bip_39_word_new_br8 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi<br>entry<br>chunk |  
+| bip_39_word_new_br9 | basic<br>vacuum<br>type<br>hub<br>dismiss<br>satoshi<br>entry<br>chunk<br>sting |  
+| bip_39_word_new_line1 | basic |  
+| bip_39_word_new_line10 | basic
+vacuum
+type
+hub
+dismiss
+satoshi
+entry
+chunk
+sting
+refuse |  
+| bip_39_word_new_line11 | basic
+vacuum
+type
+hub
+dismiss
+satoshi
+entry
+chunk
+sting
+refuse
+network |  
+| bip_39_word_new_line12 | basic
+vacuum
+type
+hub
+dismiss
+satoshi
+entry
+chunk
+sting
+refuse
+network
+account |  
+| bip_39_word_new_line2 | basic
+vacuum |  
+| bip_39_word_new_line3 | basic
+vacuum
+type |  
+| bip_39_word_new_line4 | basic
+vacuum
+type
+hub |  
+| bip_39_word_new_line5 | basic
+vacuum
+type
+hub
+dismiss |  
+| bip_39_word_new_line6 | basic
+vacuum
+type
+hub
+dismiss
+satoshi |  
+| bip_39_word_new_line7 | basic
+vacuum
+type
+hub
+dismiss
+satoshi
+entry |  
+| bip_39_word_new_line8 | basic
+vacuum
+type
+hub
+dismiss
+satoshi
+entry
+chunk |  
+| bip_39_word_new_line9 | basic
+vacuum
+type
+hub
+dismiss
+satoshi
+entry
+chunk
+sting |  
+| bip_39_word_space_0 | ['basic', 'vacuum', 'type', 'hub', 'dismiss', 'satoshi', 'entry', 'chunk', 'sting', 'refuse', 'network', 'account'] |  
+| bip_39_word_space_1 | basic |  
+| bip_39_word_space_10 | basic vacuum type hub dismiss satoshi entry chunk sting refuse |  
+| bip_39_word_space_11 | basic vacuum type hub dismiss satoshi entry chunk sting refuse network |  
+| bip_39_word_space_12 | basic vacuum type hub dismiss satoshi entry chunk sting refuse network account |  
+| bip_39_word_space_2 | basic vacuum |  
+| bip_39_word_space_3 | basic vacuum type |  
+| bip_39_word_space_4 | basic vacuum type hub |  
+| bip_39_word_space_5 | basic vacuum type hub dismiss |  
+| bip_39_word_space_6 | basic vacuum type hub dismiss satoshi |  
+| bip_39_word_space_7 | basic vacuum type hub dismiss satoshi entry |  
+| bip_39_word_space_8 | basic vacuum type hub dismiss satoshi entry chunk |  
+| bip_39_word_space_9 | basic vacuum type hub dismiss satoshi entry chunk sting |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

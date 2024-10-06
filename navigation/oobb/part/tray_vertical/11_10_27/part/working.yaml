@@ -1,3 +1,186 @@
+bip_39_word_new_br1: alcohol
+bip_39_word_new_br10: alcohol<br>post<br>useful<br>dress<br>winner<br>never<br>angle<br>era<br>theory<br>path
+bip_39_word_new_br11: alcohol<br>post<br>useful<br>dress<br>winner<br>never<br>angle<br>era<br>theory<br>path<br>lemon
+bip_39_word_new_br12: alcohol<br>post<br>useful<br>dress<br>winner<br>never<br>angle<br>era<br>theory<br>path<br>lemon<br>angry
+bip_39_word_new_br2: alcohol<br>post
+bip_39_word_new_br3: alcohol<br>post<br>useful
+bip_39_word_new_br4: alcohol<br>post<br>useful<br>dress
+bip_39_word_new_br5: alcohol<br>post<br>useful<br>dress<br>winner
+bip_39_word_new_br6: alcohol<br>post<br>useful<br>dress<br>winner<br>never
+bip_39_word_new_br7: alcohol<br>post<br>useful<br>dress<br>winner<br>never<br>angle
+bip_39_word_new_br8: alcohol<br>post<br>useful<br>dress<br>winner<br>never<br>angle<br>era
+bip_39_word_new_br9: alcohol<br>post<br>useful<br>dress<br>winner<br>never<br>angle<br>era<br>theory
+bip_39_word_new_line1: alcohol
+bip_39_word_new_line10: 'alcohol
+
+  post
+
+  useful
+
+  dress
+
+  winner
+
+  never
+
+  angle
+
+  era
+
+  theory
+
+  path'
+bip_39_word_new_line11: 'alcohol
+
+  post
+
+  useful
+
+  dress
+
+  winner
+
+  never
+
+  angle
+
+  era
+
+  theory
+
+  path
+
+  lemon'
+bip_39_word_new_line12: 'alcohol
+
+  post
+
+  useful
+
+  dress
+
+  winner
+
+  never
+
+  angle
+
+  era
+
+  theory
+
+  path
+
+  lemon
+
+  angry'
+bip_39_word_new_line2: 'alcohol
+
+  post'
+bip_39_word_new_line3: 'alcohol
+
+  post
+
+  useful'
+bip_39_word_new_line4: 'alcohol
+
+  post
+
+  useful
+
+  dress'
+bip_39_word_new_line5: 'alcohol
+
+  post
+
+  useful
+
+  dress
+
+  winner'
+bip_39_word_new_line6: 'alcohol
+
+  post
+
+  useful
+
+  dress
+
+  winner
+
+  never'
+bip_39_word_new_line7: 'alcohol
+
+  post
+
+  useful
+
+  dress
+
+  winner
+
+  never
+
+  angle'
+bip_39_word_new_line8: 'alcohol
+
+  post
+
+  useful
+
+  dress
+
+  winner
+
+  never
+
+  angle
+
+  era'
+bip_39_word_new_line9: 'alcohol
+
+  post
+
+  useful
+
+  dress
+
+  winner
+
+  never
+
+  angle
+
+  era
+
+  theory'
+bip_39_word_space_0:
+- alcohol
+- post
+- useful
+- dress
+- winner
+- never
+- angle
+- era
+- theory
+- path
+- lemon
+- angry
+bip_39_word_space_1: alcohol
+bip_39_word_space_10: alcohol post useful dress winner never angle era theory path
+bip_39_word_space_11: alcohol post useful dress winner never angle era theory path
+  lemon
+bip_39_word_space_12: alcohol post useful dress winner never angle era theory path
+  lemon angry
+bip_39_word_space_2: alcohol post
+bip_39_word_space_3: alcohol post useful
+bip_39_word_space_4: alcohol post useful dress
+bip_39_word_space_5: alcohol post useful dress winner
+bip_39_word_space_6: alcohol post useful dress winner never
+bip_39_word_space_7: alcohol post useful dress winner never angle
+bip_39_word_space_8: alcohol post useful dress winner never angle era
+bip_39_word_space_9: alcohol post useful dress winner never angle era theory
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inflict region
+  * bip 39 word 3: inflict region crime
+  * bip 39 word: inflict region crime plug air genuine zero comfort excuse acid science appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inflict |  
+| bip_39_word_new_br10 | inflict<br>region<br>crime<br>plug<br>air<br>genuine<br>zero<br>comfort<br>excuse<br>acid |  
+| bip_39_word_new_br11 | inflict<br>region<br>crime<br>plug<br>air<br>genuine<br>zero<br>comfort<br>excuse<br>acid<br>science |  
+| bip_39_word_new_br12 | inflict<br>region<br>crime<br>plug<br>air<br>genuine<br>zero<br>comfort<br>excuse<br>acid<br>science<br>appear |  
+| bip_39_word_new_br2 | inflict<br>region |  
+| bip_39_word_new_br3 | inflict<br>region<br>crime |  
+| bip_39_word_new_br4 | inflict<br>region<br>crime<br>plug |  
+| bip_39_word_new_br5 | inflict<br>region<br>crime<br>plug<br>air |  
+| bip_39_word_new_br6 | inflict<br>region<br>crime<br>plug<br>air<br>genuine |  
+| bip_39_word_new_br7 | inflict<br>region<br>crime<br>plug<br>air<br>genuine<br>zero |  
+| bip_39_word_new_br8 | inflict<br>region<br>crime<br>plug<br>air<br>genuine<br>zero<br>comfort |  
+| bip_39_word_new_br9 | inflict<br>region<br>crime<br>plug<br>air<br>genuine<br>zero<br>comfort<br>excuse |  
+| bip_39_word_new_line1 | inflict |  
+| bip_39_word_new_line10 | inflict
+region
+crime
+plug
+air
+genuine
+zero
+comfort
+excuse
+acid |  
+| bip_39_word_new_line11 | inflict
+region
+crime
+plug
+air
+genuine
+zero
+comfort
+excuse
+acid
+science |  
+| bip_39_word_new_line12 | inflict
+region
+crime
+plug
+air
+genuine
+zero
+comfort
+excuse
+acid
+science
+appear |  
+| bip_39_word_new_line2 | inflict
+region |  
+| bip_39_word_new_line3 | inflict
+region
+crime |  
+| bip_39_word_new_line4 | inflict
+region
+crime
+plug |  
+| bip_39_word_new_line5 | inflict
+region
+crime
+plug
+air |  
+| bip_39_word_new_line6 | inflict
+region
+crime
+plug
+air
+genuine |  
+| bip_39_word_new_line7 | inflict
+region
+crime
+plug
+air
+genuine
+zero |  
+| bip_39_word_new_line8 | inflict
+region
+crime
+plug
+air
+genuine
+zero
+comfort |  
+| bip_39_word_new_line9 | inflict
+region
+crime
+plug
+air
+genuine
+zero
+comfort
+excuse |  
+| bip_39_word_space_0 | ['inflict', 'region', 'crime', 'plug', 'air', 'genuine', 'zero', 'comfort', 'excuse', 'acid', 'science', 'appear'] |  
+| bip_39_word_space_1 | inflict |  
+| bip_39_word_space_10 | inflict region crime plug air genuine zero comfort excuse acid |  
+| bip_39_word_space_11 | inflict region crime plug air genuine zero comfort excuse acid science |  
+| bip_39_word_space_12 | inflict region crime plug air genuine zero comfort excuse acid science appear |  
+| bip_39_word_space_2 | inflict region |  
+| bip_39_word_space_3 | inflict region crime |  
+| bip_39_word_space_4 | inflict region crime plug |  
+| bip_39_word_space_5 | inflict region crime plug air |  
+| bip_39_word_space_6 | inflict region crime plug air genuine |  
+| bip_39_word_space_7 | inflict region crime plug air genuine zero |  
+| bip_39_word_space_8 | inflict region crime plug air genuine zero comfort |  
+| bip_39_word_space_9 | inflict region crime plug air genuine zero comfort excuse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

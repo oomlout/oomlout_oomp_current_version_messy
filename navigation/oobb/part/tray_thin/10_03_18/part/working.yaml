@@ -1,3 +1,187 @@
+bip_39_word_new_br1: amused
+bip_39_word_new_br10: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student<br>broken
+bip_39_word_new_br11: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student<br>broken<br>wasp
+bip_39_word_new_br12: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student<br>broken<br>wasp<br>adult
+bip_39_word_new_br2: amused<br>churn
+bip_39_word_new_br3: amused<br>churn<br>wing
+bip_39_word_new_br4: amused<br>churn<br>wing<br>bird
+bip_39_word_new_br5: amused<br>churn<br>wing<br>bird<br>erosion
+bip_39_word_new_br6: amused<br>churn<br>wing<br>bird<br>erosion<br>judge
+bip_39_word_new_br7: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display
+bip_39_word_new_br8: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect
+bip_39_word_new_br9: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student
+bip_39_word_new_line1: amused
+bip_39_word_new_line10: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect
+
+  student
+
+  broken'
+bip_39_word_new_line11: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect
+
+  student
+
+  broken
+
+  wasp'
+bip_39_word_new_line12: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect
+
+  student
+
+  broken
+
+  wasp
+
+  adult'
+bip_39_word_new_line2: 'amused
+
+  churn'
+bip_39_word_new_line3: 'amused
+
+  churn
+
+  wing'
+bip_39_word_new_line4: 'amused
+
+  churn
+
+  wing
+
+  bird'
+bip_39_word_new_line5: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion'
+bip_39_word_new_line6: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge'
+bip_39_word_new_line7: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display'
+bip_39_word_new_line8: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect'
+bip_39_word_new_line9: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect
+
+  student'
+bip_39_word_space_0:
+- amused
+- churn
+- wing
+- bird
+- erosion
+- judge
+- display
+- suspect
+- student
+- broken
+- wasp
+- adult
+bip_39_word_space_1: amused
+bip_39_word_space_10: amused churn wing bird erosion judge display suspect student
+  broken
+bip_39_word_space_11: amused churn wing bird erosion judge display suspect student
+  broken wasp
+bip_39_word_space_12: amused churn wing bird erosion judge display suspect student
+  broken wasp adult
+bip_39_word_space_2: amused churn
+bip_39_word_space_3: amused churn wing
+bip_39_word_space_4: amused churn wing bird
+bip_39_word_space_5: amused churn wing bird erosion
+bip_39_word_space_6: amused churn wing bird erosion judge
+bip_39_word_space_7: amused churn wing bird erosion judge display
+bip_39_word_space_8: amused churn wing bird erosion judge display suspect
+bip_39_word_space_9: amused churn wing bird erosion judge display suspect student
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

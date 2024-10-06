@@ -1,3 +1,187 @@
+bip_39_word_new_br1: term
+bip_39_word_new_br10: term<br>rabbit<br>extra<br>enough<br>program<br>dilemma<br>recall<br>absorb<br>verify<br>foam
+bip_39_word_new_br11: term<br>rabbit<br>extra<br>enough<br>program<br>dilemma<br>recall<br>absorb<br>verify<br>foam<br>actual
+bip_39_word_new_br12: term<br>rabbit<br>extra<br>enough<br>program<br>dilemma<br>recall<br>absorb<br>verify<br>foam<br>actual<br>actual
+bip_39_word_new_br2: term<br>rabbit
+bip_39_word_new_br3: term<br>rabbit<br>extra
+bip_39_word_new_br4: term<br>rabbit<br>extra<br>enough
+bip_39_word_new_br5: term<br>rabbit<br>extra<br>enough<br>program
+bip_39_word_new_br6: term<br>rabbit<br>extra<br>enough<br>program<br>dilemma
+bip_39_word_new_br7: term<br>rabbit<br>extra<br>enough<br>program<br>dilemma<br>recall
+bip_39_word_new_br8: term<br>rabbit<br>extra<br>enough<br>program<br>dilemma<br>recall<br>absorb
+bip_39_word_new_br9: term<br>rabbit<br>extra<br>enough<br>program<br>dilemma<br>recall<br>absorb<br>verify
+bip_39_word_new_line1: term
+bip_39_word_new_line10: 'term
+
+  rabbit
+
+  extra
+
+  enough
+
+  program
+
+  dilemma
+
+  recall
+
+  absorb
+
+  verify
+
+  foam'
+bip_39_word_new_line11: 'term
+
+  rabbit
+
+  extra
+
+  enough
+
+  program
+
+  dilemma
+
+  recall
+
+  absorb
+
+  verify
+
+  foam
+
+  actual'
+bip_39_word_new_line12: 'term
+
+  rabbit
+
+  extra
+
+  enough
+
+  program
+
+  dilemma
+
+  recall
+
+  absorb
+
+  verify
+
+  foam
+
+  actual
+
+  actual'
+bip_39_word_new_line2: 'term
+
+  rabbit'
+bip_39_word_new_line3: 'term
+
+  rabbit
+
+  extra'
+bip_39_word_new_line4: 'term
+
+  rabbit
+
+  extra
+
+  enough'
+bip_39_word_new_line5: 'term
+
+  rabbit
+
+  extra
+
+  enough
+
+  program'
+bip_39_word_new_line6: 'term
+
+  rabbit
+
+  extra
+
+  enough
+
+  program
+
+  dilemma'
+bip_39_word_new_line7: 'term
+
+  rabbit
+
+  extra
+
+  enough
+
+  program
+
+  dilemma
+
+  recall'
+bip_39_word_new_line8: 'term
+
+  rabbit
+
+  extra
+
+  enough
+
+  program
+
+  dilemma
+
+  recall
+
+  absorb'
+bip_39_word_new_line9: 'term
+
+  rabbit
+
+  extra
+
+  enough
+
+  program
+
+  dilemma
+
+  recall
+
+  absorb
+
+  verify'
+bip_39_word_space_0:
+- term
+- rabbit
+- extra
+- enough
+- program
+- dilemma
+- recall
+- absorb
+- verify
+- foam
+- actual
+- actual
+bip_39_word_space_1: term
+bip_39_word_space_10: term rabbit extra enough program dilemma recall absorb verify
+  foam
+bip_39_word_space_11: term rabbit extra enough program dilemma recall absorb verify
+  foam actual
+bip_39_word_space_12: term rabbit extra enough program dilemma recall absorb verify
+  foam actual actual
+bip_39_word_space_2: term rabbit
+bip_39_word_space_3: term rabbit extra
+bip_39_word_space_4: term rabbit extra enough
+bip_39_word_space_5: term rabbit extra enough program
+bip_39_word_space_6: term rabbit extra enough program dilemma
+bip_39_word_space_7: term rabbit extra enough program dilemma recall
+bip_39_word_space_8: term rabbit extra enough program dilemma recall absorb
+bip_39_word_space_9: term rabbit extra enough program dilemma recall absorb verify
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

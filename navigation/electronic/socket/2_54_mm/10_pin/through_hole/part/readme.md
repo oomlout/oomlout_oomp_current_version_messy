@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: isolate vault
+  * bip 39 word 3: isolate vault craft
+  * bip 39 word: isolate vault craft tobacco mercy range snow winter random annual bachelor amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | isolate |  
+| bip_39_word_new_br10 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual |  
+| bip_39_word_new_br11 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual<br>bachelor |  
+| bip_39_word_new_br12 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random<br>annual<br>bachelor<br>amazing |  
+| bip_39_word_new_br2 | isolate<br>vault |  
+| bip_39_word_new_br3 | isolate<br>vault<br>craft |  
+| bip_39_word_new_br4 | isolate<br>vault<br>craft<br>tobacco |  
+| bip_39_word_new_br5 | isolate<br>vault<br>craft<br>tobacco<br>mercy |  
+| bip_39_word_new_br6 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range |  
+| bip_39_word_new_br7 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow |  
+| bip_39_word_new_br8 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter |  
+| bip_39_word_new_br9 | isolate<br>vault<br>craft<br>tobacco<br>mercy<br>range<br>snow<br>winter<br>random |  
+| bip_39_word_new_line1 | isolate |  
+| bip_39_word_new_line10 | isolate
+vault
+craft
+tobacco
+mercy
+range
+snow
+winter
+random
+annual |  
+| bip_39_word_new_line11 | isolate
+vault
+craft
+tobacco
+mercy
+range
+snow
+winter
+random
+annual
+bachelor |  
+| bip_39_word_new_line12 | isolate
+vault
+craft
+tobacco
+mercy
+range
+snow
+winter
+random
+annual
+bachelor
+amazing |  
+| bip_39_word_new_line2 | isolate
+vault |  
+| bip_39_word_new_line3 | isolate
+vault
+craft |  
+| bip_39_word_new_line4 | isolate
+vault
+craft
+tobacco |  
+| bip_39_word_new_line5 | isolate
+vault
+craft
+tobacco
+mercy |  
+| bip_39_word_new_line6 | isolate
+vault
+craft
+tobacco
+mercy
+range |  
+| bip_39_word_new_line7 | isolate
+vault
+craft
+tobacco
+mercy
+range
+snow |  
+| bip_39_word_new_line8 | isolate
+vault
+craft
+tobacco
+mercy
+range
+snow
+winter |  
+| bip_39_word_new_line9 | isolate
+vault
+craft
+tobacco
+mercy
+range
+snow
+winter
+random |  
+| bip_39_word_space_0 | ['isolate', 'vault', 'craft', 'tobacco', 'mercy', 'range', 'snow', 'winter', 'random', 'annual', 'bachelor', 'amazing'] |  
+| bip_39_word_space_1 | isolate |  
+| bip_39_word_space_10 | isolate vault craft tobacco mercy range snow winter random annual |  
+| bip_39_word_space_11 | isolate vault craft tobacco mercy range snow winter random annual bachelor |  
+| bip_39_word_space_12 | isolate vault craft tobacco mercy range snow winter random annual bachelor amazing |  
+| bip_39_word_space_2 | isolate vault |  
+| bip_39_word_space_3 | isolate vault craft |  
+| bip_39_word_space_4 | isolate vault craft tobacco |  
+| bip_39_word_space_5 | isolate vault craft tobacco mercy |  
+| bip_39_word_space_6 | isolate vault craft tobacco mercy range |  
+| bip_39_word_space_7 | isolate vault craft tobacco mercy range snow |  
+| bip_39_word_space_8 | isolate vault craft tobacco mercy range snow winter |  
+| bip_39_word_space_9 | isolate vault craft tobacco mercy range snow winter random |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

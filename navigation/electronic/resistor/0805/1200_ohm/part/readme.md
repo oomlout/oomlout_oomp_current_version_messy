@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: couch illegal
+  * bip 39 word 3: couch illegal jelly
+  * bip 39 word: couch illegal jelly cabbage age waste hard gospel swim comic blind apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | couch |  
+| bip_39_word_new_br10 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste<br>hard<br>gospel<br>swim<br>comic |  
+| bip_39_word_new_br11 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste<br>hard<br>gospel<br>swim<br>comic<br>blind |  
+| bip_39_word_new_br12 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste<br>hard<br>gospel<br>swim<br>comic<br>blind<br>apple |  
+| bip_39_word_new_br2 | couch<br>illegal |  
+| bip_39_word_new_br3 | couch<br>illegal<br>jelly |  
+| bip_39_word_new_br4 | couch<br>illegal<br>jelly<br>cabbage |  
+| bip_39_word_new_br5 | couch<br>illegal<br>jelly<br>cabbage<br>age |  
+| bip_39_word_new_br6 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste |  
+| bip_39_word_new_br7 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste<br>hard |  
+| bip_39_word_new_br8 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste<br>hard<br>gospel |  
+| bip_39_word_new_br9 | couch<br>illegal<br>jelly<br>cabbage<br>age<br>waste<br>hard<br>gospel<br>swim |  
+| bip_39_word_new_line1 | couch |  
+| bip_39_word_new_line10 | couch
+illegal
+jelly
+cabbage
+age
+waste
+hard
+gospel
+swim
+comic |  
+| bip_39_word_new_line11 | couch
+illegal
+jelly
+cabbage
+age
+waste
+hard
+gospel
+swim
+comic
+blind |  
+| bip_39_word_new_line12 | couch
+illegal
+jelly
+cabbage
+age
+waste
+hard
+gospel
+swim
+comic
+blind
+apple |  
+| bip_39_word_new_line2 | couch
+illegal |  
+| bip_39_word_new_line3 | couch
+illegal
+jelly |  
+| bip_39_word_new_line4 | couch
+illegal
+jelly
+cabbage |  
+| bip_39_word_new_line5 | couch
+illegal
+jelly
+cabbage
+age |  
+| bip_39_word_new_line6 | couch
+illegal
+jelly
+cabbage
+age
+waste |  
+| bip_39_word_new_line7 | couch
+illegal
+jelly
+cabbage
+age
+waste
+hard |  
+| bip_39_word_new_line8 | couch
+illegal
+jelly
+cabbage
+age
+waste
+hard
+gospel |  
+| bip_39_word_new_line9 | couch
+illegal
+jelly
+cabbage
+age
+waste
+hard
+gospel
+swim |  
+| bip_39_word_space_0 | ['couch', 'illegal', 'jelly', 'cabbage', 'age', 'waste', 'hard', 'gospel', 'swim', 'comic', 'blind', 'apple'] |  
+| bip_39_word_space_1 | couch |  
+| bip_39_word_space_10 | couch illegal jelly cabbage age waste hard gospel swim comic |  
+| bip_39_word_space_11 | couch illegal jelly cabbage age waste hard gospel swim comic blind |  
+| bip_39_word_space_12 | couch illegal jelly cabbage age waste hard gospel swim comic blind apple |  
+| bip_39_word_space_2 | couch illegal |  
+| bip_39_word_space_3 | couch illegal jelly |  
+| bip_39_word_space_4 | couch illegal jelly cabbage |  
+| bip_39_word_space_5 | couch illegal jelly cabbage age |  
+| bip_39_word_space_6 | couch illegal jelly cabbage age waste |  
+| bip_39_word_space_7 | couch illegal jelly cabbage age waste hard |  
+| bip_39_word_space_8 | couch illegal jelly cabbage age waste hard gospel |  
+| bip_39_word_space_9 | couch illegal jelly cabbage age waste hard gospel swim |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

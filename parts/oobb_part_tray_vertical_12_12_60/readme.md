@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: west spread
+  * bip 39 word 3: west spread skirt
+  * bip 39 word: west spread skirt beyond narrow night light casino enrich shoulder stool about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | west |  
+| bip_39_word_new_br10 | west<br>spread<br>skirt<br>beyond<br>narrow<br>night<br>light<br>casino<br>enrich<br>shoulder |  
+| bip_39_word_new_br11 | west<br>spread<br>skirt<br>beyond<br>narrow<br>night<br>light<br>casino<br>enrich<br>shoulder<br>stool |  
+| bip_39_word_new_br12 | west<br>spread<br>skirt<br>beyond<br>narrow<br>night<br>light<br>casino<br>enrich<br>shoulder<br>stool<br>about |  
+| bip_39_word_new_br2 | west<br>spread |  
+| bip_39_word_new_br3 | west<br>spread<br>skirt |  
+| bip_39_word_new_br4 | west<br>spread<br>skirt<br>beyond |  
+| bip_39_word_new_br5 | west<br>spread<br>skirt<br>beyond<br>narrow |  
+| bip_39_word_new_br6 | west<br>spread<br>skirt<br>beyond<br>narrow<br>night |  
+| bip_39_word_new_br7 | west<br>spread<br>skirt<br>beyond<br>narrow<br>night<br>light |  
+| bip_39_word_new_br8 | west<br>spread<br>skirt<br>beyond<br>narrow<br>night<br>light<br>casino |  
+| bip_39_word_new_br9 | west<br>spread<br>skirt<br>beyond<br>narrow<br>night<br>light<br>casino<br>enrich |  
+| bip_39_word_new_line1 | west |  
+| bip_39_word_new_line10 | west
+spread
+skirt
+beyond
+narrow
+night
+light
+casino
+enrich
+shoulder |  
+| bip_39_word_new_line11 | west
+spread
+skirt
+beyond
+narrow
+night
+light
+casino
+enrich
+shoulder
+stool |  
+| bip_39_word_new_line12 | west
+spread
+skirt
+beyond
+narrow
+night
+light
+casino
+enrich
+shoulder
+stool
+about |  
+| bip_39_word_new_line2 | west
+spread |  
+| bip_39_word_new_line3 | west
+spread
+skirt |  
+| bip_39_word_new_line4 | west
+spread
+skirt
+beyond |  
+| bip_39_word_new_line5 | west
+spread
+skirt
+beyond
+narrow |  
+| bip_39_word_new_line6 | west
+spread
+skirt
+beyond
+narrow
+night |  
+| bip_39_word_new_line7 | west
+spread
+skirt
+beyond
+narrow
+night
+light |  
+| bip_39_word_new_line8 | west
+spread
+skirt
+beyond
+narrow
+night
+light
+casino |  
+| bip_39_word_new_line9 | west
+spread
+skirt
+beyond
+narrow
+night
+light
+casino
+enrich |  
+| bip_39_word_space_0 | ['west', 'spread', 'skirt', 'beyond', 'narrow', 'night', 'light', 'casino', 'enrich', 'shoulder', 'stool', 'about'] |  
+| bip_39_word_space_1 | west |  
+| bip_39_word_space_10 | west spread skirt beyond narrow night light casino enrich shoulder |  
+| bip_39_word_space_11 | west spread skirt beyond narrow night light casino enrich shoulder stool |  
+| bip_39_word_space_12 | west spread skirt beyond narrow night light casino enrich shoulder stool about |  
+| bip_39_word_space_2 | west spread |  
+| bip_39_word_space_3 | west spread skirt |  
+| bip_39_word_space_4 | west spread skirt beyond |  
+| bip_39_word_space_5 | west spread skirt beyond narrow |  
+| bip_39_word_space_6 | west spread skirt beyond narrow night |  
+| bip_39_word_space_7 | west spread skirt beyond narrow night light |  
+| bip_39_word_space_8 | west spread skirt beyond narrow night light casino |  
+| bip_39_word_space_9 | west spread skirt beyond narrow night light casino enrich |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

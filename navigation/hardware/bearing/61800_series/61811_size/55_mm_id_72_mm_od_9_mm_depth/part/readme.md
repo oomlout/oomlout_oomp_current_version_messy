@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: claim click
+  * bip 39 word 3: claim click spring
+  * bip 39 word: claim click spring kidney ecology cereal ignore insect remove dolphin body alarm
 
 ### other_codes
 * short_code: br61811
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | claim |  
+| bip_39_word_new_br10 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal<br>ignore<br>insect<br>remove<br>dolphin |  
+| bip_39_word_new_br11 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal<br>ignore<br>insect<br>remove<br>dolphin<br>body |  
+| bip_39_word_new_br12 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal<br>ignore<br>insect<br>remove<br>dolphin<br>body<br>alarm |  
+| bip_39_word_new_br2 | claim<br>click |  
+| bip_39_word_new_br3 | claim<br>click<br>spring |  
+| bip_39_word_new_br4 | claim<br>click<br>spring<br>kidney |  
+| bip_39_word_new_br5 | claim<br>click<br>spring<br>kidney<br>ecology |  
+| bip_39_word_new_br6 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal |  
+| bip_39_word_new_br7 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal<br>ignore |  
+| bip_39_word_new_br8 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal<br>ignore<br>insect |  
+| bip_39_word_new_br9 | claim<br>click<br>spring<br>kidney<br>ecology<br>cereal<br>ignore<br>insect<br>remove |  
+| bip_39_word_new_line1 | claim |  
+| bip_39_word_new_line10 | claim
+click
+spring
+kidney
+ecology
+cereal
+ignore
+insect
+remove
+dolphin |  
+| bip_39_word_new_line11 | claim
+click
+spring
+kidney
+ecology
+cereal
+ignore
+insect
+remove
+dolphin
+body |  
+| bip_39_word_new_line12 | claim
+click
+spring
+kidney
+ecology
+cereal
+ignore
+insect
+remove
+dolphin
+body
+alarm |  
+| bip_39_word_new_line2 | claim
+click |  
+| bip_39_word_new_line3 | claim
+click
+spring |  
+| bip_39_word_new_line4 | claim
+click
+spring
+kidney |  
+| bip_39_word_new_line5 | claim
+click
+spring
+kidney
+ecology |  
+| bip_39_word_new_line6 | claim
+click
+spring
+kidney
+ecology
+cereal |  
+| bip_39_word_new_line7 | claim
+click
+spring
+kidney
+ecology
+cereal
+ignore |  
+| bip_39_word_new_line8 | claim
+click
+spring
+kidney
+ecology
+cereal
+ignore
+insect |  
+| bip_39_word_new_line9 | claim
+click
+spring
+kidney
+ecology
+cereal
+ignore
+insect
+remove |  
+| bip_39_word_space_0 | ['claim', 'click', 'spring', 'kidney', 'ecology', 'cereal', 'ignore', 'insect', 'remove', 'dolphin', 'body', 'alarm'] |  
+| bip_39_word_space_1 | claim |  
+| bip_39_word_space_10 | claim click spring kidney ecology cereal ignore insect remove dolphin |  
+| bip_39_word_space_11 | claim click spring kidney ecology cereal ignore insect remove dolphin body |  
+| bip_39_word_space_12 | claim click spring kidney ecology cereal ignore insect remove dolphin body alarm |  
+| bip_39_word_space_2 | claim click |  
+| bip_39_word_space_3 | claim click spring |  
+| bip_39_word_space_4 | claim click spring kidney |  
+| bip_39_word_space_5 | claim click spring kidney ecology |  
+| bip_39_word_space_6 | claim click spring kidney ecology cereal |  
+| bip_39_word_space_7 | claim click spring kidney ecology cereal ignore |  
+| bip_39_word_space_8 | claim click spring kidney ecology cereal ignore insect |  
+| bip_39_word_space_9 | claim click spring kidney ecology cereal ignore insect remove |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

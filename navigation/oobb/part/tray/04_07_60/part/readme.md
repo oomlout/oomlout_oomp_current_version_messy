@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: icon sea
+  * bip 39 word 3: icon sea human
+  * bip 39 word: icon sea human whisper crumble provide kid enlist inhale arrow crack around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | icon |  
+| bip_39_word_new_br10 | icon<br>sea<br>human<br>whisper<br>crumble<br>provide<br>kid<br>enlist<br>inhale<br>arrow |  
+| bip_39_word_new_br11 | icon<br>sea<br>human<br>whisper<br>crumble<br>provide<br>kid<br>enlist<br>inhale<br>arrow<br>crack |  
+| bip_39_word_new_br12 | icon<br>sea<br>human<br>whisper<br>crumble<br>provide<br>kid<br>enlist<br>inhale<br>arrow<br>crack<br>around |  
+| bip_39_word_new_br2 | icon<br>sea |  
+| bip_39_word_new_br3 | icon<br>sea<br>human |  
+| bip_39_word_new_br4 | icon<br>sea<br>human<br>whisper |  
+| bip_39_word_new_br5 | icon<br>sea<br>human<br>whisper<br>crumble |  
+| bip_39_word_new_br6 | icon<br>sea<br>human<br>whisper<br>crumble<br>provide |  
+| bip_39_word_new_br7 | icon<br>sea<br>human<br>whisper<br>crumble<br>provide<br>kid |  
+| bip_39_word_new_br8 | icon<br>sea<br>human<br>whisper<br>crumble<br>provide<br>kid<br>enlist |  
+| bip_39_word_new_br9 | icon<br>sea<br>human<br>whisper<br>crumble<br>provide<br>kid<br>enlist<br>inhale |  
+| bip_39_word_new_line1 | icon |  
+| bip_39_word_new_line10 | icon
+sea
+human
+whisper
+crumble
+provide
+kid
+enlist
+inhale
+arrow |  
+| bip_39_word_new_line11 | icon
+sea
+human
+whisper
+crumble
+provide
+kid
+enlist
+inhale
+arrow
+crack |  
+| bip_39_word_new_line12 | icon
+sea
+human
+whisper
+crumble
+provide
+kid
+enlist
+inhale
+arrow
+crack
+around |  
+| bip_39_word_new_line2 | icon
+sea |  
+| bip_39_word_new_line3 | icon
+sea
+human |  
+| bip_39_word_new_line4 | icon
+sea
+human
+whisper |  
+| bip_39_word_new_line5 | icon
+sea
+human
+whisper
+crumble |  
+| bip_39_word_new_line6 | icon
+sea
+human
+whisper
+crumble
+provide |  
+| bip_39_word_new_line7 | icon
+sea
+human
+whisper
+crumble
+provide
+kid |  
+| bip_39_word_new_line8 | icon
+sea
+human
+whisper
+crumble
+provide
+kid
+enlist |  
+| bip_39_word_new_line9 | icon
+sea
+human
+whisper
+crumble
+provide
+kid
+enlist
+inhale |  
+| bip_39_word_space_0 | ['icon', 'sea', 'human', 'whisper', 'crumble', 'provide', 'kid', 'enlist', 'inhale', 'arrow', 'crack', 'around'] |  
+| bip_39_word_space_1 | icon |  
+| bip_39_word_space_10 | icon sea human whisper crumble provide kid enlist inhale arrow |  
+| bip_39_word_space_11 | icon sea human whisper crumble provide kid enlist inhale arrow crack |  
+| bip_39_word_space_12 | icon sea human whisper crumble provide kid enlist inhale arrow crack around |  
+| bip_39_word_space_2 | icon sea |  
+| bip_39_word_space_3 | icon sea human |  
+| bip_39_word_space_4 | icon sea human whisper |  
+| bip_39_word_space_5 | icon sea human whisper crumble |  
+| bip_39_word_space_6 | icon sea human whisper crumble provide |  
+| bip_39_word_space_7 | icon sea human whisper crumble provide kid |  
+| bip_39_word_space_8 | icon sea human whisper crumble provide kid enlist |  
+| bip_39_word_space_9 | icon sea human whisper crumble provide kid enlist inhale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

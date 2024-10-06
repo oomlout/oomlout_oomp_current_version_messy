@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: water supreme
+  * bip 39 word 3: water supreme film
+  * bip 39 word: water supreme film nerve slide spray drama work grunt rally demise acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | water |  
+| bip_39_word_new_br10 | water<br>supreme<br>film<br>nerve<br>slide<br>spray<br>drama<br>work<br>grunt<br>rally |  
+| bip_39_word_new_br11 | water<br>supreme<br>film<br>nerve<br>slide<br>spray<br>drama<br>work<br>grunt<br>rally<br>demise |  
+| bip_39_word_new_br12 | water<br>supreme<br>film<br>nerve<br>slide<br>spray<br>drama<br>work<br>grunt<br>rally<br>demise<br>acid |  
+| bip_39_word_new_br2 | water<br>supreme |  
+| bip_39_word_new_br3 | water<br>supreme<br>film |  
+| bip_39_word_new_br4 | water<br>supreme<br>film<br>nerve |  
+| bip_39_word_new_br5 | water<br>supreme<br>film<br>nerve<br>slide |  
+| bip_39_word_new_br6 | water<br>supreme<br>film<br>nerve<br>slide<br>spray |  
+| bip_39_word_new_br7 | water<br>supreme<br>film<br>nerve<br>slide<br>spray<br>drama |  
+| bip_39_word_new_br8 | water<br>supreme<br>film<br>nerve<br>slide<br>spray<br>drama<br>work |  
+| bip_39_word_new_br9 | water<br>supreme<br>film<br>nerve<br>slide<br>spray<br>drama<br>work<br>grunt |  
+| bip_39_word_new_line1 | water |  
+| bip_39_word_new_line10 | water
+supreme
+film
+nerve
+slide
+spray
+drama
+work
+grunt
+rally |  
+| bip_39_word_new_line11 | water
+supreme
+film
+nerve
+slide
+spray
+drama
+work
+grunt
+rally
+demise |  
+| bip_39_word_new_line12 | water
+supreme
+film
+nerve
+slide
+spray
+drama
+work
+grunt
+rally
+demise
+acid |  
+| bip_39_word_new_line2 | water
+supreme |  
+| bip_39_word_new_line3 | water
+supreme
+film |  
+| bip_39_word_new_line4 | water
+supreme
+film
+nerve |  
+| bip_39_word_new_line5 | water
+supreme
+film
+nerve
+slide |  
+| bip_39_word_new_line6 | water
+supreme
+film
+nerve
+slide
+spray |  
+| bip_39_word_new_line7 | water
+supreme
+film
+nerve
+slide
+spray
+drama |  
+| bip_39_word_new_line8 | water
+supreme
+film
+nerve
+slide
+spray
+drama
+work |  
+| bip_39_word_new_line9 | water
+supreme
+film
+nerve
+slide
+spray
+drama
+work
+grunt |  
+| bip_39_word_space_0 | ['water', 'supreme', 'film', 'nerve', 'slide', 'spray', 'drama', 'work', 'grunt', 'rally', 'demise', 'acid'] |  
+| bip_39_word_space_1 | water |  
+| bip_39_word_space_10 | water supreme film nerve slide spray drama work grunt rally |  
+| bip_39_word_space_11 | water supreme film nerve slide spray drama work grunt rally demise |  
+| bip_39_word_space_12 | water supreme film nerve slide spray drama work grunt rally demise acid |  
+| bip_39_word_space_2 | water supreme |  
+| bip_39_word_space_3 | water supreme film |  
+| bip_39_word_space_4 | water supreme film nerve |  
+| bip_39_word_space_5 | water supreme film nerve slide |  
+| bip_39_word_space_6 | water supreme film nerve slide spray |  
+| bip_39_word_space_7 | water supreme film nerve slide spray drama |  
+| bip_39_word_space_8 | water supreme film nerve slide spray drama work |  
+| bip_39_word_space_9 | water supreme film nerve slide spray drama work grunt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

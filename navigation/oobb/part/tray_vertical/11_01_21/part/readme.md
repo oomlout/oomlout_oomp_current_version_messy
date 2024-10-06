@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: seat teach
+  * bip 39 word 3: seat teach vague
+  * bip 39 word: seat teach vague vibrant slush day praise act two utility quote april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | seat |  
+| bip_39_word_new_br10 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day<br>praise<br>act<br>two<br>utility |  
+| bip_39_word_new_br11 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day<br>praise<br>act<br>two<br>utility<br>quote |  
+| bip_39_word_new_br12 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day<br>praise<br>act<br>two<br>utility<br>quote<br>april |  
+| bip_39_word_new_br2 | seat<br>teach |  
+| bip_39_word_new_br3 | seat<br>teach<br>vague |  
+| bip_39_word_new_br4 | seat<br>teach<br>vague<br>vibrant |  
+| bip_39_word_new_br5 | seat<br>teach<br>vague<br>vibrant<br>slush |  
+| bip_39_word_new_br6 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day |  
+| bip_39_word_new_br7 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day<br>praise |  
+| bip_39_word_new_br8 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day<br>praise<br>act |  
+| bip_39_word_new_br9 | seat<br>teach<br>vague<br>vibrant<br>slush<br>day<br>praise<br>act<br>two |  
+| bip_39_word_new_line1 | seat |  
+| bip_39_word_new_line10 | seat
+teach
+vague
+vibrant
+slush
+day
+praise
+act
+two
+utility |  
+| bip_39_word_new_line11 | seat
+teach
+vague
+vibrant
+slush
+day
+praise
+act
+two
+utility
+quote |  
+| bip_39_word_new_line12 | seat
+teach
+vague
+vibrant
+slush
+day
+praise
+act
+two
+utility
+quote
+april |  
+| bip_39_word_new_line2 | seat
+teach |  
+| bip_39_word_new_line3 | seat
+teach
+vague |  
+| bip_39_word_new_line4 | seat
+teach
+vague
+vibrant |  
+| bip_39_word_new_line5 | seat
+teach
+vague
+vibrant
+slush |  
+| bip_39_word_new_line6 | seat
+teach
+vague
+vibrant
+slush
+day |  
+| bip_39_word_new_line7 | seat
+teach
+vague
+vibrant
+slush
+day
+praise |  
+| bip_39_word_new_line8 | seat
+teach
+vague
+vibrant
+slush
+day
+praise
+act |  
+| bip_39_word_new_line9 | seat
+teach
+vague
+vibrant
+slush
+day
+praise
+act
+two |  
+| bip_39_word_space_0 | ['seat', 'teach', 'vague', 'vibrant', 'slush', 'day', 'praise', 'act', 'two', 'utility', 'quote', 'april'] |  
+| bip_39_word_space_1 | seat |  
+| bip_39_word_space_10 | seat teach vague vibrant slush day praise act two utility |  
+| bip_39_word_space_11 | seat teach vague vibrant slush day praise act two utility quote |  
+| bip_39_word_space_12 | seat teach vague vibrant slush day praise act two utility quote april |  
+| bip_39_word_space_2 | seat teach |  
+| bip_39_word_space_3 | seat teach vague |  
+| bip_39_word_space_4 | seat teach vague vibrant |  
+| bip_39_word_space_5 | seat teach vague vibrant slush |  
+| bip_39_word_space_6 | seat teach vague vibrant slush day |  
+| bip_39_word_space_7 | seat teach vague vibrant slush day praise |  
+| bip_39_word_space_8 | seat teach vague vibrant slush day praise act |  
+| bip_39_word_space_9 | seat teach vague vibrant slush day praise act two |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

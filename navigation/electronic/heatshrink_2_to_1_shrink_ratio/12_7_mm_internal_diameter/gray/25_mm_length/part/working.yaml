@@ -1,3 +1,187 @@
+bip_39_word_new_br1: struggle
+bip_39_word_new_br10: struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire
+bip_39_word_new_br11: struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire<br>van
+bip_39_word_new_br12: struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow<br>retire<br>van<br>actor
+bip_39_word_new_br2: struggle<br>unusual
+bip_39_word_new_br3: struggle<br>unusual<br>shine
+bip_39_word_new_br4: struggle<br>unusual<br>shine<br>network
+bip_39_word_new_br5: struggle<br>unusual<br>shine<br>network<br>check
+bip_39_word_new_br6: struggle<br>unusual<br>shine<br>network<br>check<br>school
+bip_39_word_new_br7: struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha
+bip_39_word_new_br8: struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round
+bip_39_word_new_br9: struggle<br>unusual<br>shine<br>network<br>check<br>school<br>alpha<br>round<br>glow
+bip_39_word_new_line1: struggle
+bip_39_word_new_line10: 'struggle
+
+  unusual
+
+  shine
+
+  network
+
+  check
+
+  school
+
+  alpha
+
+  round
+
+  glow
+
+  retire'
+bip_39_word_new_line11: 'struggle
+
+  unusual
+
+  shine
+
+  network
+
+  check
+
+  school
+
+  alpha
+
+  round
+
+  glow
+
+  retire
+
+  van'
+bip_39_word_new_line12: 'struggle
+
+  unusual
+
+  shine
+
+  network
+
+  check
+
+  school
+
+  alpha
+
+  round
+
+  glow
+
+  retire
+
+  van
+
+  actor'
+bip_39_word_new_line2: 'struggle
+
+  unusual'
+bip_39_word_new_line3: 'struggle
+
+  unusual
+
+  shine'
+bip_39_word_new_line4: 'struggle
+
+  unusual
+
+  shine
+
+  network'
+bip_39_word_new_line5: 'struggle
+
+  unusual
+
+  shine
+
+  network
+
+  check'
+bip_39_word_new_line6: 'struggle
+
+  unusual
+
+  shine
+
+  network
+
+  check
+
+  school'
+bip_39_word_new_line7: 'struggle
+
+  unusual
+
+  shine
+
+  network
+
+  check
+
+  school
+
+  alpha'
+bip_39_word_new_line8: 'struggle
+
+  unusual
+
+  shine
+
+  network
+
+  check
+
+  school
+
+  alpha
+
+  round'
+bip_39_word_new_line9: 'struggle
+
+  unusual
+
+  shine
+
+  network
+
+  check
+
+  school
+
+  alpha
+
+  round
+
+  glow'
+bip_39_word_space_0:
+- struggle
+- unusual
+- shine
+- network
+- check
+- school
+- alpha
+- round
+- glow
+- retire
+- van
+- actor
+bip_39_word_space_1: struggle
+bip_39_word_space_10: struggle unusual shine network check school alpha round glow
+  retire
+bip_39_word_space_11: struggle unusual shine network check school alpha round glow
+  retire van
+bip_39_word_space_12: struggle unusual shine network check school alpha round glow
+  retire van actor
+bip_39_word_space_2: struggle unusual
+bip_39_word_space_3: struggle unusual shine
+bip_39_word_space_4: struggle unusual shine network
+bip_39_word_space_5: struggle unusual shine network check
+bip_39_word_space_6: struggle unusual shine network check school
+bip_39_word_space_7: struggle unusual shine network check school alpha
+bip_39_word_space_8: struggle unusual shine network check school alpha round
+bip_39_word_space_9: struggle unusual shine network check school alpha round glow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

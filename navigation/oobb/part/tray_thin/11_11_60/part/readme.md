@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: iron define
+  * bip 39 word 3: iron define outdoor
+  * bip 39 word: iron define outdoor swamp approve page current three parade usual inspire alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | iron |  
+| bip_39_word_new_br10 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page<br>current<br>three<br>parade<br>usual |  
+| bip_39_word_new_br11 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page<br>current<br>three<br>parade<br>usual<br>inspire |  
+| bip_39_word_new_br12 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page<br>current<br>three<br>parade<br>usual<br>inspire<br>alone |  
+| bip_39_word_new_br2 | iron<br>define |  
+| bip_39_word_new_br3 | iron<br>define<br>outdoor |  
+| bip_39_word_new_br4 | iron<br>define<br>outdoor<br>swamp |  
+| bip_39_word_new_br5 | iron<br>define<br>outdoor<br>swamp<br>approve |  
+| bip_39_word_new_br6 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page |  
+| bip_39_word_new_br7 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page<br>current |  
+| bip_39_word_new_br8 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page<br>current<br>three |  
+| bip_39_word_new_br9 | iron<br>define<br>outdoor<br>swamp<br>approve<br>page<br>current<br>three<br>parade |  
+| bip_39_word_new_line1 | iron |  
+| bip_39_word_new_line10 | iron
+define
+outdoor
+swamp
+approve
+page
+current
+three
+parade
+usual |  
+| bip_39_word_new_line11 | iron
+define
+outdoor
+swamp
+approve
+page
+current
+three
+parade
+usual
+inspire |  
+| bip_39_word_new_line12 | iron
+define
+outdoor
+swamp
+approve
+page
+current
+three
+parade
+usual
+inspire
+alone |  
+| bip_39_word_new_line2 | iron
+define |  
+| bip_39_word_new_line3 | iron
+define
+outdoor |  
+| bip_39_word_new_line4 | iron
+define
+outdoor
+swamp |  
+| bip_39_word_new_line5 | iron
+define
+outdoor
+swamp
+approve |  
+| bip_39_word_new_line6 | iron
+define
+outdoor
+swamp
+approve
+page |  
+| bip_39_word_new_line7 | iron
+define
+outdoor
+swamp
+approve
+page
+current |  
+| bip_39_word_new_line8 | iron
+define
+outdoor
+swamp
+approve
+page
+current
+three |  
+| bip_39_word_new_line9 | iron
+define
+outdoor
+swamp
+approve
+page
+current
+three
+parade |  
+| bip_39_word_space_0 | ['iron', 'define', 'outdoor', 'swamp', 'approve', 'page', 'current', 'three', 'parade', 'usual', 'inspire', 'alone'] |  
+| bip_39_word_space_1 | iron |  
+| bip_39_word_space_10 | iron define outdoor swamp approve page current three parade usual |  
+| bip_39_word_space_11 | iron define outdoor swamp approve page current three parade usual inspire |  
+| bip_39_word_space_12 | iron define outdoor swamp approve page current three parade usual inspire alone |  
+| bip_39_word_space_2 | iron define |  
+| bip_39_word_space_3 | iron define outdoor |  
+| bip_39_word_space_4 | iron define outdoor swamp |  
+| bip_39_word_space_5 | iron define outdoor swamp approve |  
+| bip_39_word_space_6 | iron define outdoor swamp approve page |  
+| bip_39_word_space_7 | iron define outdoor swamp approve page current |  
+| bip_39_word_space_8 | iron define outdoor swamp approve page current three |  
+| bip_39_word_space_9 | iron define outdoor swamp approve page current three parade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

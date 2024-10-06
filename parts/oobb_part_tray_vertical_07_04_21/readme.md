@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tennis subway
+  * bip 39 word 3: tennis subway seed
+  * bip 39 word: tennis subway seed cart soon funny club start trash cluster combine armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tennis |  
+| bip_39_word_new_br10 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny<br>club<br>start<br>trash<br>cluster |  
+| bip_39_word_new_br11 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny<br>club<br>start<br>trash<br>cluster<br>combine |  
+| bip_39_word_new_br12 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny<br>club<br>start<br>trash<br>cluster<br>combine<br>armed |  
+| bip_39_word_new_br2 | tennis<br>subway |  
+| bip_39_word_new_br3 | tennis<br>subway<br>seed |  
+| bip_39_word_new_br4 | tennis<br>subway<br>seed<br>cart |  
+| bip_39_word_new_br5 | tennis<br>subway<br>seed<br>cart<br>soon |  
+| bip_39_word_new_br6 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny |  
+| bip_39_word_new_br7 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny<br>club |  
+| bip_39_word_new_br8 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny<br>club<br>start |  
+| bip_39_word_new_br9 | tennis<br>subway<br>seed<br>cart<br>soon<br>funny<br>club<br>start<br>trash |  
+| bip_39_word_new_line1 | tennis |  
+| bip_39_word_new_line10 | tennis
+subway
+seed
+cart
+soon
+funny
+club
+start
+trash
+cluster |  
+| bip_39_word_new_line11 | tennis
+subway
+seed
+cart
+soon
+funny
+club
+start
+trash
+cluster
+combine |  
+| bip_39_word_new_line12 | tennis
+subway
+seed
+cart
+soon
+funny
+club
+start
+trash
+cluster
+combine
+armed |  
+| bip_39_word_new_line2 | tennis
+subway |  
+| bip_39_word_new_line3 | tennis
+subway
+seed |  
+| bip_39_word_new_line4 | tennis
+subway
+seed
+cart |  
+| bip_39_word_new_line5 | tennis
+subway
+seed
+cart
+soon |  
+| bip_39_word_new_line6 | tennis
+subway
+seed
+cart
+soon
+funny |  
+| bip_39_word_new_line7 | tennis
+subway
+seed
+cart
+soon
+funny
+club |  
+| bip_39_word_new_line8 | tennis
+subway
+seed
+cart
+soon
+funny
+club
+start |  
+| bip_39_word_new_line9 | tennis
+subway
+seed
+cart
+soon
+funny
+club
+start
+trash |  
+| bip_39_word_space_0 | ['tennis', 'subway', 'seed', 'cart', 'soon', 'funny', 'club', 'start', 'trash', 'cluster', 'combine', 'armed'] |  
+| bip_39_word_space_1 | tennis |  
+| bip_39_word_space_10 | tennis subway seed cart soon funny club start trash cluster |  
+| bip_39_word_space_11 | tennis subway seed cart soon funny club start trash cluster combine |  
+| bip_39_word_space_12 | tennis subway seed cart soon funny club start trash cluster combine armed |  
+| bip_39_word_space_2 | tennis subway |  
+| bip_39_word_space_3 | tennis subway seed |  
+| bip_39_word_space_4 | tennis subway seed cart |  
+| bip_39_word_space_5 | tennis subway seed cart soon |  
+| bip_39_word_space_6 | tennis subway seed cart soon funny |  
+| bip_39_word_space_7 | tennis subway seed cart soon funny club |  
+| bip_39_word_space_8 | tennis subway seed cart soon funny club start |  
+| bip_39_word_space_9 | tennis subway seed cart soon funny club start trash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

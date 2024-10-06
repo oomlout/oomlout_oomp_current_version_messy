@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: l
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: accuse open
+  * bip 39 word 3: accuse open suggest
+  * bip 39 word: accuse open suggest nose stable melt medal fever easy indicate glance announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | accuse |  
+| bip_39_word_new_br10 | accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy<br>indicate |  
+| bip_39_word_new_br11 | accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy<br>indicate<br>glance |  
+| bip_39_word_new_br12 | accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy<br>indicate<br>glance<br>announce |  
+| bip_39_word_new_br2 | accuse<br>open |  
+| bip_39_word_new_br3 | accuse<br>open<br>suggest |  
+| bip_39_word_new_br4 | accuse<br>open<br>suggest<br>nose |  
+| bip_39_word_new_br5 | accuse<br>open<br>suggest<br>nose<br>stable |  
+| bip_39_word_new_br6 | accuse<br>open<br>suggest<br>nose<br>stable<br>melt |  
+| bip_39_word_new_br7 | accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal |  
+| bip_39_word_new_br8 | accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever |  
+| bip_39_word_new_br9 | accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy |  
+| bip_39_word_new_line1 | accuse |  
+| bip_39_word_new_line10 | accuse
+open
+suggest
+nose
+stable
+melt
+medal
+fever
+easy
+indicate |  
+| bip_39_word_new_line11 | accuse
+open
+suggest
+nose
+stable
+melt
+medal
+fever
+easy
+indicate
+glance |  
+| bip_39_word_new_line12 | accuse
+open
+suggest
+nose
+stable
+melt
+medal
+fever
+easy
+indicate
+glance
+announce |  
+| bip_39_word_new_line2 | accuse
+open |  
+| bip_39_word_new_line3 | accuse
+open
+suggest |  
+| bip_39_word_new_line4 | accuse
+open
+suggest
+nose |  
+| bip_39_word_new_line5 | accuse
+open
+suggest
+nose
+stable |  
+| bip_39_word_new_line6 | accuse
+open
+suggest
+nose
+stable
+melt |  
+| bip_39_word_new_line7 | accuse
+open
+suggest
+nose
+stable
+melt
+medal |  
+| bip_39_word_new_line8 | accuse
+open
+suggest
+nose
+stable
+melt
+medal
+fever |  
+| bip_39_word_new_line9 | accuse
+open
+suggest
+nose
+stable
+melt
+medal
+fever
+easy |  
+| bip_39_word_space_0 | ['accuse', 'open', 'suggest', 'nose', 'stable', 'melt', 'medal', 'fever', 'easy', 'indicate', 'glance', 'announce'] |  
+| bip_39_word_space_1 | accuse |  
+| bip_39_word_space_10 | accuse open suggest nose stable melt medal fever easy indicate |  
+| bip_39_word_space_11 | accuse open suggest nose stable melt medal fever easy indicate glance |  
+| bip_39_word_space_12 | accuse open suggest nose stable melt medal fever easy indicate glance announce |  
+| bip_39_word_space_2 | accuse open |  
+| bip_39_word_space_3 | accuse open suggest |  
+| bip_39_word_space_4 | accuse open suggest nose |  
+| bip_39_word_space_5 | accuse open suggest nose stable |  
+| bip_39_word_space_6 | accuse open suggest nose stable melt |  
+| bip_39_word_space_7 | accuse open suggest nose stable melt medal |  
+| bip_39_word_space_8 | accuse open suggest nose stable melt medal fever |  
+| bip_39_word_space_9 | accuse open suggest nose stable melt medal fever easy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

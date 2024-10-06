@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sell element
+  * bip 39 word 3: sell element aspect
+  * bip 39 word: sell element aspect episode sustain flat sketch retreat airport bounce feel arrange
 
 ### other_codes
 * short_code: brF607
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sell |  
+| bip_39_word_new_br10 | sell<br>element<br>aspect<br>episode<br>sustain<br>flat<br>sketch<br>retreat<br>airport<br>bounce |  
+| bip_39_word_new_br11 | sell<br>element<br>aspect<br>episode<br>sustain<br>flat<br>sketch<br>retreat<br>airport<br>bounce<br>feel |  
+| bip_39_word_new_br12 | sell<br>element<br>aspect<br>episode<br>sustain<br>flat<br>sketch<br>retreat<br>airport<br>bounce<br>feel<br>arrange |  
+| bip_39_word_new_br2 | sell<br>element |  
+| bip_39_word_new_br3 | sell<br>element<br>aspect |  
+| bip_39_word_new_br4 | sell<br>element<br>aspect<br>episode |  
+| bip_39_word_new_br5 | sell<br>element<br>aspect<br>episode<br>sustain |  
+| bip_39_word_new_br6 | sell<br>element<br>aspect<br>episode<br>sustain<br>flat |  
+| bip_39_word_new_br7 | sell<br>element<br>aspect<br>episode<br>sustain<br>flat<br>sketch |  
+| bip_39_word_new_br8 | sell<br>element<br>aspect<br>episode<br>sustain<br>flat<br>sketch<br>retreat |  
+| bip_39_word_new_br9 | sell<br>element<br>aspect<br>episode<br>sustain<br>flat<br>sketch<br>retreat<br>airport |  
+| bip_39_word_new_line1 | sell |  
+| bip_39_word_new_line10 | sell
+element
+aspect
+episode
+sustain
+flat
+sketch
+retreat
+airport
+bounce |  
+| bip_39_word_new_line11 | sell
+element
+aspect
+episode
+sustain
+flat
+sketch
+retreat
+airport
+bounce
+feel |  
+| bip_39_word_new_line12 | sell
+element
+aspect
+episode
+sustain
+flat
+sketch
+retreat
+airport
+bounce
+feel
+arrange |  
+| bip_39_word_new_line2 | sell
+element |  
+| bip_39_word_new_line3 | sell
+element
+aspect |  
+| bip_39_word_new_line4 | sell
+element
+aspect
+episode |  
+| bip_39_word_new_line5 | sell
+element
+aspect
+episode
+sustain |  
+| bip_39_word_new_line6 | sell
+element
+aspect
+episode
+sustain
+flat |  
+| bip_39_word_new_line7 | sell
+element
+aspect
+episode
+sustain
+flat
+sketch |  
+| bip_39_word_new_line8 | sell
+element
+aspect
+episode
+sustain
+flat
+sketch
+retreat |  
+| bip_39_word_new_line9 | sell
+element
+aspect
+episode
+sustain
+flat
+sketch
+retreat
+airport |  
+| bip_39_word_space_0 | ['sell', 'element', 'aspect', 'episode', 'sustain', 'flat', 'sketch', 'retreat', 'airport', 'bounce', 'feel', 'arrange'] |  
+| bip_39_word_space_1 | sell |  
+| bip_39_word_space_10 | sell element aspect episode sustain flat sketch retreat airport bounce |  
+| bip_39_word_space_11 | sell element aspect episode sustain flat sketch retreat airport bounce feel |  
+| bip_39_word_space_12 | sell element aspect episode sustain flat sketch retreat airport bounce feel arrange |  
+| bip_39_word_space_2 | sell element |  
+| bip_39_word_space_3 | sell element aspect |  
+| bip_39_word_space_4 | sell element aspect episode |  
+| bip_39_word_space_5 | sell element aspect episode sustain |  
+| bip_39_word_space_6 | sell element aspect episode sustain flat |  
+| bip_39_word_space_7 | sell element aspect episode sustain flat sketch |  
+| bip_39_word_space_8 | sell element aspect episode sustain flat sketch retreat |  
+| bip_39_word_space_9 | sell element aspect episode sustain flat sketch retreat airport |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

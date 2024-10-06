@@ -1,3 +1,186 @@
+bip_39_word_new_br1: try
+bip_39_word_new_br10: try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift
+bip_39_word_new_br11: try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift<br>dose
+bip_39_word_new_br12: try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair<br>swift<br>dose<br>atom
+bip_39_word_new_br2: try<br>hill
+bip_39_word_new_br3: try<br>hill<br>leopard
+bip_39_word_new_br4: try<br>hill<br>leopard<br>abstract
+bip_39_word_new_br5: try<br>hill<br>leopard<br>abstract<br>knee
+bip_39_word_new_br6: try<br>hill<br>leopard<br>abstract<br>knee<br>rice
+bip_39_word_new_br7: try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process
+bip_39_word_new_br8: try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift
+bip_39_word_new_br9: try<br>hill<br>leopard<br>abstract<br>knee<br>rice<br>process<br>gift<br>pair
+bip_39_word_new_line1: try
+bip_39_word_new_line10: 'try
+
+  hill
+
+  leopard
+
+  abstract
+
+  knee
+
+  rice
+
+  process
+
+  gift
+
+  pair
+
+  swift'
+bip_39_word_new_line11: 'try
+
+  hill
+
+  leopard
+
+  abstract
+
+  knee
+
+  rice
+
+  process
+
+  gift
+
+  pair
+
+  swift
+
+  dose'
+bip_39_word_new_line12: 'try
+
+  hill
+
+  leopard
+
+  abstract
+
+  knee
+
+  rice
+
+  process
+
+  gift
+
+  pair
+
+  swift
+
+  dose
+
+  atom'
+bip_39_word_new_line2: 'try
+
+  hill'
+bip_39_word_new_line3: 'try
+
+  hill
+
+  leopard'
+bip_39_word_new_line4: 'try
+
+  hill
+
+  leopard
+
+  abstract'
+bip_39_word_new_line5: 'try
+
+  hill
+
+  leopard
+
+  abstract
+
+  knee'
+bip_39_word_new_line6: 'try
+
+  hill
+
+  leopard
+
+  abstract
+
+  knee
+
+  rice'
+bip_39_word_new_line7: 'try
+
+  hill
+
+  leopard
+
+  abstract
+
+  knee
+
+  rice
+
+  process'
+bip_39_word_new_line8: 'try
+
+  hill
+
+  leopard
+
+  abstract
+
+  knee
+
+  rice
+
+  process
+
+  gift'
+bip_39_word_new_line9: 'try
+
+  hill
+
+  leopard
+
+  abstract
+
+  knee
+
+  rice
+
+  process
+
+  gift
+
+  pair'
+bip_39_word_space_0:
+- try
+- hill
+- leopard
+- abstract
+- knee
+- rice
+- process
+- gift
+- pair
+- swift
+- dose
+- atom
+bip_39_word_space_1: try
+bip_39_word_space_10: try hill leopard abstract knee rice process gift pair swift
+bip_39_word_space_11: try hill leopard abstract knee rice process gift pair swift
+  dose
+bip_39_word_space_12: try hill leopard abstract knee rice process gift pair swift
+  dose atom
+bip_39_word_space_2: try hill
+bip_39_word_space_3: try hill leopard
+bip_39_word_space_4: try hill leopard abstract
+bip_39_word_space_5: try hill leopard abstract knee
+bip_39_word_space_6: try hill leopard abstract knee rice
+bip_39_word_space_7: try hill leopard abstract knee rice process
+bip_39_word_space_8: try hill leopard abstract knee rice process gift
+bip_39_word_space_9: try hill leopard abstract knee rice process gift pair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

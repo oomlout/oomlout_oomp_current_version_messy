@@ -1,3 +1,186 @@
+bip_39_word_new_br1: inject
+bip_39_word_new_br10: inject<br>season<br>before<br>neck<br>future<br>vehicle<br>scheme<br>blast<br>aim<br>awful
+bip_39_word_new_br11: inject<br>season<br>before<br>neck<br>future<br>vehicle<br>scheme<br>blast<br>aim<br>awful<br>unit
+bip_39_word_new_br12: inject<br>season<br>before<br>neck<br>future<br>vehicle<br>scheme<br>blast<br>aim<br>awful<br>unit<br>aisle
+bip_39_word_new_br2: inject<br>season
+bip_39_word_new_br3: inject<br>season<br>before
+bip_39_word_new_br4: inject<br>season<br>before<br>neck
+bip_39_word_new_br5: inject<br>season<br>before<br>neck<br>future
+bip_39_word_new_br6: inject<br>season<br>before<br>neck<br>future<br>vehicle
+bip_39_word_new_br7: inject<br>season<br>before<br>neck<br>future<br>vehicle<br>scheme
+bip_39_word_new_br8: inject<br>season<br>before<br>neck<br>future<br>vehicle<br>scheme<br>blast
+bip_39_word_new_br9: inject<br>season<br>before<br>neck<br>future<br>vehicle<br>scheme<br>blast<br>aim
+bip_39_word_new_line1: inject
+bip_39_word_new_line10: 'inject
+
+  season
+
+  before
+
+  neck
+
+  future
+
+  vehicle
+
+  scheme
+
+  blast
+
+  aim
+
+  awful'
+bip_39_word_new_line11: 'inject
+
+  season
+
+  before
+
+  neck
+
+  future
+
+  vehicle
+
+  scheme
+
+  blast
+
+  aim
+
+  awful
+
+  unit'
+bip_39_word_new_line12: 'inject
+
+  season
+
+  before
+
+  neck
+
+  future
+
+  vehicle
+
+  scheme
+
+  blast
+
+  aim
+
+  awful
+
+  unit
+
+  aisle'
+bip_39_word_new_line2: 'inject
+
+  season'
+bip_39_word_new_line3: 'inject
+
+  season
+
+  before'
+bip_39_word_new_line4: 'inject
+
+  season
+
+  before
+
+  neck'
+bip_39_word_new_line5: 'inject
+
+  season
+
+  before
+
+  neck
+
+  future'
+bip_39_word_new_line6: 'inject
+
+  season
+
+  before
+
+  neck
+
+  future
+
+  vehicle'
+bip_39_word_new_line7: 'inject
+
+  season
+
+  before
+
+  neck
+
+  future
+
+  vehicle
+
+  scheme'
+bip_39_word_new_line8: 'inject
+
+  season
+
+  before
+
+  neck
+
+  future
+
+  vehicle
+
+  scheme
+
+  blast'
+bip_39_word_new_line9: 'inject
+
+  season
+
+  before
+
+  neck
+
+  future
+
+  vehicle
+
+  scheme
+
+  blast
+
+  aim'
+bip_39_word_space_0:
+- inject
+- season
+- before
+- neck
+- future
+- vehicle
+- scheme
+- blast
+- aim
+- awful
+- unit
+- aisle
+bip_39_word_space_1: inject
+bip_39_word_space_10: inject season before neck future vehicle scheme blast aim awful
+bip_39_word_space_11: inject season before neck future vehicle scheme blast aim awful
+  unit
+bip_39_word_space_12: inject season before neck future vehicle scheme blast aim awful
+  unit aisle
+bip_39_word_space_2: inject season
+bip_39_word_space_3: inject season before
+bip_39_word_space_4: inject season before neck
+bip_39_word_space_5: inject season before neck future
+bip_39_word_space_6: inject season before neck future vehicle
+bip_39_word_space_7: inject season before neck future vehicle scheme
+bip_39_word_space_8: inject season before neck future vehicle scheme blast
+bip_39_word_space_9: inject season before neck future vehicle scheme blast aim
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

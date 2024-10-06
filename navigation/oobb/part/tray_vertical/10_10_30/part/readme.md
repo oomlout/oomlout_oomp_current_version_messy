@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: song please
+  * bip 39 word 3: song please advance
+  * bip 39 word: song please advance evidence reveal lend hamster awake burst hungry bunker aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | song |  
+| bip_39_word_new_br10 | song<br>please<br>advance<br>evidence<br>reveal<br>lend<br>hamster<br>awake<br>burst<br>hungry |  
+| bip_39_word_new_br11 | song<br>please<br>advance<br>evidence<br>reveal<br>lend<br>hamster<br>awake<br>burst<br>hungry<br>bunker |  
+| bip_39_word_new_br12 | song<br>please<br>advance<br>evidence<br>reveal<br>lend<br>hamster<br>awake<br>burst<br>hungry<br>bunker<br>aisle |  
+| bip_39_word_new_br2 | song<br>please |  
+| bip_39_word_new_br3 | song<br>please<br>advance |  
+| bip_39_word_new_br4 | song<br>please<br>advance<br>evidence |  
+| bip_39_word_new_br5 | song<br>please<br>advance<br>evidence<br>reveal |  
+| bip_39_word_new_br6 | song<br>please<br>advance<br>evidence<br>reveal<br>lend |  
+| bip_39_word_new_br7 | song<br>please<br>advance<br>evidence<br>reveal<br>lend<br>hamster |  
+| bip_39_word_new_br8 | song<br>please<br>advance<br>evidence<br>reveal<br>lend<br>hamster<br>awake |  
+| bip_39_word_new_br9 | song<br>please<br>advance<br>evidence<br>reveal<br>lend<br>hamster<br>awake<br>burst |  
+| bip_39_word_new_line1 | song |  
+| bip_39_word_new_line10 | song
+please
+advance
+evidence
+reveal
+lend
+hamster
+awake
+burst
+hungry |  
+| bip_39_word_new_line11 | song
+please
+advance
+evidence
+reveal
+lend
+hamster
+awake
+burst
+hungry
+bunker |  
+| bip_39_word_new_line12 | song
+please
+advance
+evidence
+reveal
+lend
+hamster
+awake
+burst
+hungry
+bunker
+aisle |  
+| bip_39_word_new_line2 | song
+please |  
+| bip_39_word_new_line3 | song
+please
+advance |  
+| bip_39_word_new_line4 | song
+please
+advance
+evidence |  
+| bip_39_word_new_line5 | song
+please
+advance
+evidence
+reveal |  
+| bip_39_word_new_line6 | song
+please
+advance
+evidence
+reveal
+lend |  
+| bip_39_word_new_line7 | song
+please
+advance
+evidence
+reveal
+lend
+hamster |  
+| bip_39_word_new_line8 | song
+please
+advance
+evidence
+reveal
+lend
+hamster
+awake |  
+| bip_39_word_new_line9 | song
+please
+advance
+evidence
+reveal
+lend
+hamster
+awake
+burst |  
+| bip_39_word_space_0 | ['song', 'please', 'advance', 'evidence', 'reveal', 'lend', 'hamster', 'awake', 'burst', 'hungry', 'bunker', 'aisle'] |  
+| bip_39_word_space_1 | song |  
+| bip_39_word_space_10 | song please advance evidence reveal lend hamster awake burst hungry |  
+| bip_39_word_space_11 | song please advance evidence reveal lend hamster awake burst hungry bunker |  
+| bip_39_word_space_12 | song please advance evidence reveal lend hamster awake burst hungry bunker aisle |  
+| bip_39_word_space_2 | song please |  
+| bip_39_word_space_3 | song please advance |  
+| bip_39_word_space_4 | song please advance evidence |  
+| bip_39_word_space_5 | song please advance evidence reveal |  
+| bip_39_word_space_6 | song please advance evidence reveal lend |  
+| bip_39_word_space_7 | song please advance evidence reveal lend hamster |  
+| bip_39_word_space_8 | song please advance evidence reveal lend hamster awake |  
+| bip_39_word_space_9 | song please advance evidence reveal lend hamster awake burst |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

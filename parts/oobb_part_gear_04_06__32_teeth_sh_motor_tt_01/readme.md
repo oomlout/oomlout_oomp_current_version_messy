@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 32_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: palace avoid
+  * bip 39 word 3: palace avoid notable
+  * bip 39 word: palace avoid notable twist excite sniff prosper daughter snake famous supply alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | palace |  
+| bip_39_word_new_br10 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous |  
+| bip_39_word_new_br11 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply |  
+| bip_39_word_new_br12 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply<br>alpha |  
+| bip_39_word_new_br2 | palace<br>avoid |  
+| bip_39_word_new_br3 | palace<br>avoid<br>notable |  
+| bip_39_word_new_br4 | palace<br>avoid<br>notable<br>twist |  
+| bip_39_word_new_br5 | palace<br>avoid<br>notable<br>twist<br>excite |  
+| bip_39_word_new_br6 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff |  
+| bip_39_word_new_br7 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper |  
+| bip_39_word_new_br8 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter |  
+| bip_39_word_new_br9 | palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake |  
+| bip_39_word_new_line1 | palace |  
+| bip_39_word_new_line10 | palace
+avoid
+notable
+twist
+excite
+sniff
+prosper
+daughter
+snake
+famous |  
+| bip_39_word_new_line11 | palace
+avoid
+notable
+twist
+excite
+sniff
+prosper
+daughter
+snake
+famous
+supply |  
+| bip_39_word_new_line12 | palace
+avoid
+notable
+twist
+excite
+sniff
+prosper
+daughter
+snake
+famous
+supply
+alpha |  
+| bip_39_word_new_line2 | palace
+avoid |  
+| bip_39_word_new_line3 | palace
+avoid
+notable |  
+| bip_39_word_new_line4 | palace
+avoid
+notable
+twist |  
+| bip_39_word_new_line5 | palace
+avoid
+notable
+twist
+excite |  
+| bip_39_word_new_line6 | palace
+avoid
+notable
+twist
+excite
+sniff |  
+| bip_39_word_new_line7 | palace
+avoid
+notable
+twist
+excite
+sniff
+prosper |  
+| bip_39_word_new_line8 | palace
+avoid
+notable
+twist
+excite
+sniff
+prosper
+daughter |  
+| bip_39_word_new_line9 | palace
+avoid
+notable
+twist
+excite
+sniff
+prosper
+daughter
+snake |  
+| bip_39_word_space_0 | ['palace', 'avoid', 'notable', 'twist', 'excite', 'sniff', 'prosper', 'daughter', 'snake', 'famous', 'supply', 'alpha'] |  
+| bip_39_word_space_1 | palace |  
+| bip_39_word_space_10 | palace avoid notable twist excite sniff prosper daughter snake famous |  
+| bip_39_word_space_11 | palace avoid notable twist excite sniff prosper daughter snake famous supply |  
+| bip_39_word_space_12 | palace avoid notable twist excite sniff prosper daughter snake famous supply alpha |  
+| bip_39_word_space_2 | palace avoid |  
+| bip_39_word_space_3 | palace avoid notable |  
+| bip_39_word_space_4 | palace avoid notable twist |  
+| bip_39_word_space_5 | palace avoid notable twist excite |  
+| bip_39_word_space_6 | palace avoid notable twist excite sniff |  
+| bip_39_word_space_7 | palace avoid notable twist excite sniff prosper |  
+| bip_39_word_space_8 | palace avoid notable twist excite sniff prosper daughter |  
+| bip_39_word_space_9 | palace avoid notable twist excite sniff prosper daughter snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

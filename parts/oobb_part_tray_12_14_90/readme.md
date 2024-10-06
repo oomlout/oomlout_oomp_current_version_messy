@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inch grass
+  * bip 39 word 3: inch grass when
+  * bip 39 word: inch grass when embody siren network all impulse ladder cloud satisfy announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inch |  
+| bip_39_word_new_br10 | inch<br>grass<br>when<br>embody<br>siren<br>network<br>all<br>impulse<br>ladder<br>cloud |  
+| bip_39_word_new_br11 | inch<br>grass<br>when<br>embody<br>siren<br>network<br>all<br>impulse<br>ladder<br>cloud<br>satisfy |  
+| bip_39_word_new_br12 | inch<br>grass<br>when<br>embody<br>siren<br>network<br>all<br>impulse<br>ladder<br>cloud<br>satisfy<br>announce |  
+| bip_39_word_new_br2 | inch<br>grass |  
+| bip_39_word_new_br3 | inch<br>grass<br>when |  
+| bip_39_word_new_br4 | inch<br>grass<br>when<br>embody |  
+| bip_39_word_new_br5 | inch<br>grass<br>when<br>embody<br>siren |  
+| bip_39_word_new_br6 | inch<br>grass<br>when<br>embody<br>siren<br>network |  
+| bip_39_word_new_br7 | inch<br>grass<br>when<br>embody<br>siren<br>network<br>all |  
+| bip_39_word_new_br8 | inch<br>grass<br>when<br>embody<br>siren<br>network<br>all<br>impulse |  
+| bip_39_word_new_br9 | inch<br>grass<br>when<br>embody<br>siren<br>network<br>all<br>impulse<br>ladder |  
+| bip_39_word_new_line1 | inch |  
+| bip_39_word_new_line10 | inch
+grass
+when
+embody
+siren
+network
+all
+impulse
+ladder
+cloud |  
+| bip_39_word_new_line11 | inch
+grass
+when
+embody
+siren
+network
+all
+impulse
+ladder
+cloud
+satisfy |  
+| bip_39_word_new_line12 | inch
+grass
+when
+embody
+siren
+network
+all
+impulse
+ladder
+cloud
+satisfy
+announce |  
+| bip_39_word_new_line2 | inch
+grass |  
+| bip_39_word_new_line3 | inch
+grass
+when |  
+| bip_39_word_new_line4 | inch
+grass
+when
+embody |  
+| bip_39_word_new_line5 | inch
+grass
+when
+embody
+siren |  
+| bip_39_word_new_line6 | inch
+grass
+when
+embody
+siren
+network |  
+| bip_39_word_new_line7 | inch
+grass
+when
+embody
+siren
+network
+all |  
+| bip_39_word_new_line8 | inch
+grass
+when
+embody
+siren
+network
+all
+impulse |  
+| bip_39_word_new_line9 | inch
+grass
+when
+embody
+siren
+network
+all
+impulse
+ladder |  
+| bip_39_word_space_0 | ['inch', 'grass', 'when', 'embody', 'siren', 'network', 'all', 'impulse', 'ladder', 'cloud', 'satisfy', 'announce'] |  
+| bip_39_word_space_1 | inch |  
+| bip_39_word_space_10 | inch grass when embody siren network all impulse ladder cloud |  
+| bip_39_word_space_11 | inch grass when embody siren network all impulse ladder cloud satisfy |  
+| bip_39_word_space_12 | inch grass when embody siren network all impulse ladder cloud satisfy announce |  
+| bip_39_word_space_2 | inch grass |  
+| bip_39_word_space_3 | inch grass when |  
+| bip_39_word_space_4 | inch grass when embody |  
+| bip_39_word_space_5 | inch grass when embody siren |  
+| bip_39_word_space_6 | inch grass when embody siren network |  
+| bip_39_word_space_7 | inch grass when embody siren network all |  
+| bip_39_word_space_8 | inch grass when embody siren network all impulse |  
+| bip_39_word_space_9 | inch grass when embody siren network all impulse ladder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

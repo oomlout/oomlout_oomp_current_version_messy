@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: equal lend
+  * bip 39 word 3: equal lend panther
+  * bip 39 word: equal lend panther venue bulb captain movie cross budget claim key accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | equal |  
+| bip_39_word_new_br10 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain<br>movie<br>cross<br>budget<br>claim |  
+| bip_39_word_new_br11 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain<br>movie<br>cross<br>budget<br>claim<br>key |  
+| bip_39_word_new_br12 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain<br>movie<br>cross<br>budget<br>claim<br>key<br>accuse |  
+| bip_39_word_new_br2 | equal<br>lend |  
+| bip_39_word_new_br3 | equal<br>lend<br>panther |  
+| bip_39_word_new_br4 | equal<br>lend<br>panther<br>venue |  
+| bip_39_word_new_br5 | equal<br>lend<br>panther<br>venue<br>bulb |  
+| bip_39_word_new_br6 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain |  
+| bip_39_word_new_br7 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain<br>movie |  
+| bip_39_word_new_br8 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain<br>movie<br>cross |  
+| bip_39_word_new_br9 | equal<br>lend<br>panther<br>venue<br>bulb<br>captain<br>movie<br>cross<br>budget |  
+| bip_39_word_new_line1 | equal |  
+| bip_39_word_new_line10 | equal
+lend
+panther
+venue
+bulb
+captain
+movie
+cross
+budget
+claim |  
+| bip_39_word_new_line11 | equal
+lend
+panther
+venue
+bulb
+captain
+movie
+cross
+budget
+claim
+key |  
+| bip_39_word_new_line12 | equal
+lend
+panther
+venue
+bulb
+captain
+movie
+cross
+budget
+claim
+key
+accuse |  
+| bip_39_word_new_line2 | equal
+lend |  
+| bip_39_word_new_line3 | equal
+lend
+panther |  
+| bip_39_word_new_line4 | equal
+lend
+panther
+venue |  
+| bip_39_word_new_line5 | equal
+lend
+panther
+venue
+bulb |  
+| bip_39_word_new_line6 | equal
+lend
+panther
+venue
+bulb
+captain |  
+| bip_39_word_new_line7 | equal
+lend
+panther
+venue
+bulb
+captain
+movie |  
+| bip_39_word_new_line8 | equal
+lend
+panther
+venue
+bulb
+captain
+movie
+cross |  
+| bip_39_word_new_line9 | equal
+lend
+panther
+venue
+bulb
+captain
+movie
+cross
+budget |  
+| bip_39_word_space_0 | ['equal', 'lend', 'panther', 'venue', 'bulb', 'captain', 'movie', 'cross', 'budget', 'claim', 'key', 'accuse'] |  
+| bip_39_word_space_1 | equal |  
+| bip_39_word_space_10 | equal lend panther venue bulb captain movie cross budget claim |  
+| bip_39_word_space_11 | equal lend panther venue bulb captain movie cross budget claim key |  
+| bip_39_word_space_12 | equal lend panther venue bulb captain movie cross budget claim key accuse |  
+| bip_39_word_space_2 | equal lend |  
+| bip_39_word_space_3 | equal lend panther |  
+| bip_39_word_space_4 | equal lend panther venue |  
+| bip_39_word_space_5 | equal lend panther venue bulb |  
+| bip_39_word_space_6 | equal lend panther venue bulb captain |  
+| bip_39_word_space_7 | equal lend panther venue bulb captain movie |  
+| bip_39_word_space_8 | equal lend panther venue bulb captain movie cross |  
+| bip_39_word_space_9 | equal lend panther venue bulb captain movie cross budget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: common prevent
+  * bip 39 word 3: common prevent nominee
+  * bip 39 word: common prevent nominee verb primary torch math mushroom author refuse elder alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | common |  
+| bip_39_word_new_br10 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author<br>refuse |  
+| bip_39_word_new_br11 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author<br>refuse<br>elder |  
+| bip_39_word_new_br12 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author<br>refuse<br>elder<br>alone |  
+| bip_39_word_new_br2 | common<br>prevent |  
+| bip_39_word_new_br3 | common<br>prevent<br>nominee |  
+| bip_39_word_new_br4 | common<br>prevent<br>nominee<br>verb |  
+| bip_39_word_new_br5 | common<br>prevent<br>nominee<br>verb<br>primary |  
+| bip_39_word_new_br6 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch |  
+| bip_39_word_new_br7 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math |  
+| bip_39_word_new_br8 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom |  
+| bip_39_word_new_br9 | common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author |  
+| bip_39_word_new_line1 | common |  
+| bip_39_word_new_line10 | common
+prevent
+nominee
+verb
+primary
+torch
+math
+mushroom
+author
+refuse |  
+| bip_39_word_new_line11 | common
+prevent
+nominee
+verb
+primary
+torch
+math
+mushroom
+author
+refuse
+elder |  
+| bip_39_word_new_line12 | common
+prevent
+nominee
+verb
+primary
+torch
+math
+mushroom
+author
+refuse
+elder
+alone |  
+| bip_39_word_new_line2 | common
+prevent |  
+| bip_39_word_new_line3 | common
+prevent
+nominee |  
+| bip_39_word_new_line4 | common
+prevent
+nominee
+verb |  
+| bip_39_word_new_line5 | common
+prevent
+nominee
+verb
+primary |  
+| bip_39_word_new_line6 | common
+prevent
+nominee
+verb
+primary
+torch |  
+| bip_39_word_new_line7 | common
+prevent
+nominee
+verb
+primary
+torch
+math |  
+| bip_39_word_new_line8 | common
+prevent
+nominee
+verb
+primary
+torch
+math
+mushroom |  
+| bip_39_word_new_line9 | common
+prevent
+nominee
+verb
+primary
+torch
+math
+mushroom
+author |  
+| bip_39_word_space_0 | ['common', 'prevent', 'nominee', 'verb', 'primary', 'torch', 'math', 'mushroom', 'author', 'refuse', 'elder', 'alone'] |  
+| bip_39_word_space_1 | common |  
+| bip_39_word_space_10 | common prevent nominee verb primary torch math mushroom author refuse |  
+| bip_39_word_space_11 | common prevent nominee verb primary torch math mushroom author refuse elder |  
+| bip_39_word_space_12 | common prevent nominee verb primary torch math mushroom author refuse elder alone |  
+| bip_39_word_space_2 | common prevent |  
+| bip_39_word_space_3 | common prevent nominee |  
+| bip_39_word_space_4 | common prevent nominee verb |  
+| bip_39_word_space_5 | common prevent nominee verb primary |  
+| bip_39_word_space_6 | common prevent nominee verb primary torch |  
+| bip_39_word_space_7 | common prevent nominee verb primary torch math |  
+| bip_39_word_space_8 | common prevent nominee verb primary torch math mushroom |  
+| bip_39_word_space_9 | common prevent nominee verb primary torch math mushroom author |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

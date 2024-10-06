@@ -1,3 +1,187 @@
+bip_39_word_new_br1: horse
+bip_39_word_new_br10: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present<br>volume
+bip_39_word_new_br11: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present<br>volume<br>describe
+bip_39_word_new_br12: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present<br>volume<br>describe<br>artist
+bip_39_word_new_br2: horse<br>major
+bip_39_word_new_br3: horse<br>major<br>clarify
+bip_39_word_new_br4: horse<br>major<br>clarify<br>lend
+bip_39_word_new_br5: horse<br>major<br>clarify<br>lend<br>battle
+bip_39_word_new_br6: horse<br>major<br>clarify<br>lend<br>battle<br>prosper
+bip_39_word_new_br7: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep
+bip_39_word_new_br8: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate
+bip_39_word_new_br9: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present
+bip_39_word_new_line1: horse
+bip_39_word_new_line10: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate
+
+  present
+
+  volume'
+bip_39_word_new_line11: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate
+
+  present
+
+  volume
+
+  describe'
+bip_39_word_new_line12: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate
+
+  present
+
+  volume
+
+  describe
+
+  artist'
+bip_39_word_new_line2: 'horse
+
+  major'
+bip_39_word_new_line3: 'horse
+
+  major
+
+  clarify'
+bip_39_word_new_line4: 'horse
+
+  major
+
+  clarify
+
+  lend'
+bip_39_word_new_line5: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle'
+bip_39_word_new_line6: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper'
+bip_39_word_new_line7: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep'
+bip_39_word_new_line8: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate'
+bip_39_word_new_line9: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate
+
+  present'
+bip_39_word_space_0:
+- horse
+- major
+- clarify
+- lend
+- battle
+- prosper
+- sleep
+- rotate
+- present
+- volume
+- describe
+- artist
+bip_39_word_space_1: horse
+bip_39_word_space_10: horse major clarify lend battle prosper sleep rotate present
+  volume
+bip_39_word_space_11: horse major clarify lend battle prosper sleep rotate present
+  volume describe
+bip_39_word_space_12: horse major clarify lend battle prosper sleep rotate present
+  volume describe artist
+bip_39_word_space_2: horse major
+bip_39_word_space_3: horse major clarify
+bip_39_word_space_4: horse major clarify lend
+bip_39_word_space_5: horse major clarify lend battle
+bip_39_word_space_6: horse major clarify lend battle prosper
+bip_39_word_space_7: horse major clarify lend battle prosper sleep
+bip_39_word_space_8: horse major clarify lend battle prosper sleep rotate
+bip_39_word_space_9: horse major clarify lend battle prosper sleep rotate present
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

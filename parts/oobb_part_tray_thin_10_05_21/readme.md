@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: maze supreme
+  * bip 39 word 3: maze supreme time
+  * bip 39 word: maze supreme time member gown sibling biology escape walk genius ridge athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | maze |  
+| bip_39_word_new_br10 | maze<br>supreme<br>time<br>member<br>gown<br>sibling<br>biology<br>escape<br>walk<br>genius |  
+| bip_39_word_new_br11 | maze<br>supreme<br>time<br>member<br>gown<br>sibling<br>biology<br>escape<br>walk<br>genius<br>ridge |  
+| bip_39_word_new_br12 | maze<br>supreme<br>time<br>member<br>gown<br>sibling<br>biology<br>escape<br>walk<br>genius<br>ridge<br>athlete |  
+| bip_39_word_new_br2 | maze<br>supreme |  
+| bip_39_word_new_br3 | maze<br>supreme<br>time |  
+| bip_39_word_new_br4 | maze<br>supreme<br>time<br>member |  
+| bip_39_word_new_br5 | maze<br>supreme<br>time<br>member<br>gown |  
+| bip_39_word_new_br6 | maze<br>supreme<br>time<br>member<br>gown<br>sibling |  
+| bip_39_word_new_br7 | maze<br>supreme<br>time<br>member<br>gown<br>sibling<br>biology |  
+| bip_39_word_new_br8 | maze<br>supreme<br>time<br>member<br>gown<br>sibling<br>biology<br>escape |  
+| bip_39_word_new_br9 | maze<br>supreme<br>time<br>member<br>gown<br>sibling<br>biology<br>escape<br>walk |  
+| bip_39_word_new_line1 | maze |  
+| bip_39_word_new_line10 | maze
+supreme
+time
+member
+gown
+sibling
+biology
+escape
+walk
+genius |  
+| bip_39_word_new_line11 | maze
+supreme
+time
+member
+gown
+sibling
+biology
+escape
+walk
+genius
+ridge |  
+| bip_39_word_new_line12 | maze
+supreme
+time
+member
+gown
+sibling
+biology
+escape
+walk
+genius
+ridge
+athlete |  
+| bip_39_word_new_line2 | maze
+supreme |  
+| bip_39_word_new_line3 | maze
+supreme
+time |  
+| bip_39_word_new_line4 | maze
+supreme
+time
+member |  
+| bip_39_word_new_line5 | maze
+supreme
+time
+member
+gown |  
+| bip_39_word_new_line6 | maze
+supreme
+time
+member
+gown
+sibling |  
+| bip_39_word_new_line7 | maze
+supreme
+time
+member
+gown
+sibling
+biology |  
+| bip_39_word_new_line8 | maze
+supreme
+time
+member
+gown
+sibling
+biology
+escape |  
+| bip_39_word_new_line9 | maze
+supreme
+time
+member
+gown
+sibling
+biology
+escape
+walk |  
+| bip_39_word_space_0 | ['maze', 'supreme', 'time', 'member', 'gown', 'sibling', 'biology', 'escape', 'walk', 'genius', 'ridge', 'athlete'] |  
+| bip_39_word_space_1 | maze |  
+| bip_39_word_space_10 | maze supreme time member gown sibling biology escape walk genius |  
+| bip_39_word_space_11 | maze supreme time member gown sibling biology escape walk genius ridge |  
+| bip_39_word_space_12 | maze supreme time member gown sibling biology escape walk genius ridge athlete |  
+| bip_39_word_space_2 | maze supreme |  
+| bip_39_word_space_3 | maze supreme time |  
+| bip_39_word_space_4 | maze supreme time member |  
+| bip_39_word_space_5 | maze supreme time member gown |  
+| bip_39_word_space_6 | maze supreme time member gown sibling |  
+| bip_39_word_space_7 | maze supreme time member gown sibling biology |  
+| bip_39_word_space_8 | maze supreme time member gown sibling biology escape |  
+| bip_39_word_space_9 | maze supreme time member gown sibling biology escape walk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

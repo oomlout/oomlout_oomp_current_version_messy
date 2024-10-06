@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: journey jelly
+  * bip 39 word 3: journey jelly paddle
+  * bip 39 word: journey jelly paddle fatigue drop next moment actress voice welcome bless argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | journey |  
+| bip_39_word_new_br10 | journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next<br>moment<br>actress<br>voice<br>welcome |  
+| bip_39_word_new_br11 | journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next<br>moment<br>actress<br>voice<br>welcome<br>bless |  
+| bip_39_word_new_br12 | journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next<br>moment<br>actress<br>voice<br>welcome<br>bless<br>argue |  
+| bip_39_word_new_br2 | journey<br>jelly |  
+| bip_39_word_new_br3 | journey<br>jelly<br>paddle |  
+| bip_39_word_new_br4 | journey<br>jelly<br>paddle<br>fatigue |  
+| bip_39_word_new_br5 | journey<br>jelly<br>paddle<br>fatigue<br>drop |  
+| bip_39_word_new_br6 | journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next |  
+| bip_39_word_new_br7 | journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next<br>moment |  
+| bip_39_word_new_br8 | journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next<br>moment<br>actress |  
+| bip_39_word_new_br9 | journey<br>jelly<br>paddle<br>fatigue<br>drop<br>next<br>moment<br>actress<br>voice |  
+| bip_39_word_new_line1 | journey |  
+| bip_39_word_new_line10 | journey
+jelly
+paddle
+fatigue
+drop
+next
+moment
+actress
+voice
+welcome |  
+| bip_39_word_new_line11 | journey
+jelly
+paddle
+fatigue
+drop
+next
+moment
+actress
+voice
+welcome
+bless |  
+| bip_39_word_new_line12 | journey
+jelly
+paddle
+fatigue
+drop
+next
+moment
+actress
+voice
+welcome
+bless
+argue |  
+| bip_39_word_new_line2 | journey
+jelly |  
+| bip_39_word_new_line3 | journey
+jelly
+paddle |  
+| bip_39_word_new_line4 | journey
+jelly
+paddle
+fatigue |  
+| bip_39_word_new_line5 | journey
+jelly
+paddle
+fatigue
+drop |  
+| bip_39_word_new_line6 | journey
+jelly
+paddle
+fatigue
+drop
+next |  
+| bip_39_word_new_line7 | journey
+jelly
+paddle
+fatigue
+drop
+next
+moment |  
+| bip_39_word_new_line8 | journey
+jelly
+paddle
+fatigue
+drop
+next
+moment
+actress |  
+| bip_39_word_new_line9 | journey
+jelly
+paddle
+fatigue
+drop
+next
+moment
+actress
+voice |  
+| bip_39_word_space_0 | ['journey', 'jelly', 'paddle', 'fatigue', 'drop', 'next', 'moment', 'actress', 'voice', 'welcome', 'bless', 'argue'] |  
+| bip_39_word_space_1 | journey |  
+| bip_39_word_space_10 | journey jelly paddle fatigue drop next moment actress voice welcome |  
+| bip_39_word_space_11 | journey jelly paddle fatigue drop next moment actress voice welcome bless |  
+| bip_39_word_space_12 | journey jelly paddle fatigue drop next moment actress voice welcome bless argue |  
+| bip_39_word_space_2 | journey jelly |  
+| bip_39_word_space_3 | journey jelly paddle |  
+| bip_39_word_space_4 | journey jelly paddle fatigue |  
+| bip_39_word_space_5 | journey jelly paddle fatigue drop |  
+| bip_39_word_space_6 | journey jelly paddle fatigue drop next |  
+| bip_39_word_space_7 | journey jelly paddle fatigue drop next moment |  
+| bip_39_word_space_8 | journey jelly paddle fatigue drop next moment actress |  
+| bip_39_word_space_9 | journey jelly paddle fatigue drop next moment actress voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

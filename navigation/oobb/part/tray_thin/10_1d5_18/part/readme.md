@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ozone easy
+  * bip 39 word 3: ozone easy dinner
+  * bip 39 word: ozone easy dinner ring parent safe liquid unveil world donkey sleep already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ozone |  
+| bip_39_word_new_br10 | ozone<br>easy<br>dinner<br>ring<br>parent<br>safe<br>liquid<br>unveil<br>world<br>donkey |  
+| bip_39_word_new_br11 | ozone<br>easy<br>dinner<br>ring<br>parent<br>safe<br>liquid<br>unveil<br>world<br>donkey<br>sleep |  
+| bip_39_word_new_br12 | ozone<br>easy<br>dinner<br>ring<br>parent<br>safe<br>liquid<br>unveil<br>world<br>donkey<br>sleep<br>already |  
+| bip_39_word_new_br2 | ozone<br>easy |  
+| bip_39_word_new_br3 | ozone<br>easy<br>dinner |  
+| bip_39_word_new_br4 | ozone<br>easy<br>dinner<br>ring |  
+| bip_39_word_new_br5 | ozone<br>easy<br>dinner<br>ring<br>parent |  
+| bip_39_word_new_br6 | ozone<br>easy<br>dinner<br>ring<br>parent<br>safe |  
+| bip_39_word_new_br7 | ozone<br>easy<br>dinner<br>ring<br>parent<br>safe<br>liquid |  
+| bip_39_word_new_br8 | ozone<br>easy<br>dinner<br>ring<br>parent<br>safe<br>liquid<br>unveil |  
+| bip_39_word_new_br9 | ozone<br>easy<br>dinner<br>ring<br>parent<br>safe<br>liquid<br>unveil<br>world |  
+| bip_39_word_new_line1 | ozone |  
+| bip_39_word_new_line10 | ozone
+easy
+dinner
+ring
+parent
+safe
+liquid
+unveil
+world
+donkey |  
+| bip_39_word_new_line11 | ozone
+easy
+dinner
+ring
+parent
+safe
+liquid
+unveil
+world
+donkey
+sleep |  
+| bip_39_word_new_line12 | ozone
+easy
+dinner
+ring
+parent
+safe
+liquid
+unveil
+world
+donkey
+sleep
+already |  
+| bip_39_word_new_line2 | ozone
+easy |  
+| bip_39_word_new_line3 | ozone
+easy
+dinner |  
+| bip_39_word_new_line4 | ozone
+easy
+dinner
+ring |  
+| bip_39_word_new_line5 | ozone
+easy
+dinner
+ring
+parent |  
+| bip_39_word_new_line6 | ozone
+easy
+dinner
+ring
+parent
+safe |  
+| bip_39_word_new_line7 | ozone
+easy
+dinner
+ring
+parent
+safe
+liquid |  
+| bip_39_word_new_line8 | ozone
+easy
+dinner
+ring
+parent
+safe
+liquid
+unveil |  
+| bip_39_word_new_line9 | ozone
+easy
+dinner
+ring
+parent
+safe
+liquid
+unveil
+world |  
+| bip_39_word_space_0 | ['ozone', 'easy', 'dinner', 'ring', 'parent', 'safe', 'liquid', 'unveil', 'world', 'donkey', 'sleep', 'already'] |  
+| bip_39_word_space_1 | ozone |  
+| bip_39_word_space_10 | ozone easy dinner ring parent safe liquid unveil world donkey |  
+| bip_39_word_space_11 | ozone easy dinner ring parent safe liquid unveil world donkey sleep |  
+| bip_39_word_space_12 | ozone easy dinner ring parent safe liquid unveil world donkey sleep already |  
+| bip_39_word_space_2 | ozone easy |  
+| bip_39_word_space_3 | ozone easy dinner |  
+| bip_39_word_space_4 | ozone easy dinner ring |  
+| bip_39_word_space_5 | ozone easy dinner ring parent |  
+| bip_39_word_space_6 | ozone easy dinner ring parent safe |  
+| bip_39_word_space_7 | ozone easy dinner ring parent safe liquid |  
+| bip_39_word_space_8 | ozone easy dinner ring parent safe liquid unveil |  
+| bip_39_word_space_9 | ozone easy dinner ring parent safe liquid unveil world |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

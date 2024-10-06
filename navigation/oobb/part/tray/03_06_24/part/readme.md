@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ecology casual
+  * bip 39 word 3: ecology casual insane
+  * bip 39 word: ecology casual insane dog hammer general never woman alone rhythm you allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ecology |  
+| bip_39_word_new_br10 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general<br>never<br>woman<br>alone<br>rhythm |  
+| bip_39_word_new_br11 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general<br>never<br>woman<br>alone<br>rhythm<br>you |  
+| bip_39_word_new_br12 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general<br>never<br>woman<br>alone<br>rhythm<br>you<br>allow |  
+| bip_39_word_new_br2 | ecology<br>casual |  
+| bip_39_word_new_br3 | ecology<br>casual<br>insane |  
+| bip_39_word_new_br4 | ecology<br>casual<br>insane<br>dog |  
+| bip_39_word_new_br5 | ecology<br>casual<br>insane<br>dog<br>hammer |  
+| bip_39_word_new_br6 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general |  
+| bip_39_word_new_br7 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general<br>never |  
+| bip_39_word_new_br8 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general<br>never<br>woman |  
+| bip_39_word_new_br9 | ecology<br>casual<br>insane<br>dog<br>hammer<br>general<br>never<br>woman<br>alone |  
+| bip_39_word_new_line1 | ecology |  
+| bip_39_word_new_line10 | ecology
+casual
+insane
+dog
+hammer
+general
+never
+woman
+alone
+rhythm |  
+| bip_39_word_new_line11 | ecology
+casual
+insane
+dog
+hammer
+general
+never
+woman
+alone
+rhythm
+you |  
+| bip_39_word_new_line12 | ecology
+casual
+insane
+dog
+hammer
+general
+never
+woman
+alone
+rhythm
+you
+allow |  
+| bip_39_word_new_line2 | ecology
+casual |  
+| bip_39_word_new_line3 | ecology
+casual
+insane |  
+| bip_39_word_new_line4 | ecology
+casual
+insane
+dog |  
+| bip_39_word_new_line5 | ecology
+casual
+insane
+dog
+hammer |  
+| bip_39_word_new_line6 | ecology
+casual
+insane
+dog
+hammer
+general |  
+| bip_39_word_new_line7 | ecology
+casual
+insane
+dog
+hammer
+general
+never |  
+| bip_39_word_new_line8 | ecology
+casual
+insane
+dog
+hammer
+general
+never
+woman |  
+| bip_39_word_new_line9 | ecology
+casual
+insane
+dog
+hammer
+general
+never
+woman
+alone |  
+| bip_39_word_space_0 | ['ecology', 'casual', 'insane', 'dog', 'hammer', 'general', 'never', 'woman', 'alone', 'rhythm', 'you', 'allow'] |  
+| bip_39_word_space_1 | ecology |  
+| bip_39_word_space_10 | ecology casual insane dog hammer general never woman alone rhythm |  
+| bip_39_word_space_11 | ecology casual insane dog hammer general never woman alone rhythm you |  
+| bip_39_word_space_12 | ecology casual insane dog hammer general never woman alone rhythm you allow |  
+| bip_39_word_space_2 | ecology casual |  
+| bip_39_word_space_3 | ecology casual insane |  
+| bip_39_word_space_4 | ecology casual insane dog |  
+| bip_39_word_space_5 | ecology casual insane dog hammer |  
+| bip_39_word_space_6 | ecology casual insane dog hammer general |  
+| bip_39_word_space_7 | ecology casual insane dog hammer general never |  
+| bip_39_word_space_8 | ecology casual insane dog hammer general never woman |  
+| bip_39_word_space_9 | ecology casual insane dog hammer general never woman alone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: royal shy
+  * bip 39 word 3: royal shy rebel
+  * bip 39 word: royal shy rebel hello half art alien furnace cactus faint token accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | royal |  
+| bip_39_word_new_br10 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint |  
+| bip_39_word_new_br11 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint<br>token |  
+| bip_39_word_new_br12 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus<br>faint<br>token<br>accident |  
+| bip_39_word_new_br2 | royal<br>shy |  
+| bip_39_word_new_br3 | royal<br>shy<br>rebel |  
+| bip_39_word_new_br4 | royal<br>shy<br>rebel<br>hello |  
+| bip_39_word_new_br5 | royal<br>shy<br>rebel<br>hello<br>half |  
+| bip_39_word_new_br6 | royal<br>shy<br>rebel<br>hello<br>half<br>art |  
+| bip_39_word_new_br7 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien |  
+| bip_39_word_new_br8 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace |  
+| bip_39_word_new_br9 | royal<br>shy<br>rebel<br>hello<br>half<br>art<br>alien<br>furnace<br>cactus |  
+| bip_39_word_new_line1 | royal |  
+| bip_39_word_new_line10 | royal
+shy
+rebel
+hello
+half
+art
+alien
+furnace
+cactus
+faint |  
+| bip_39_word_new_line11 | royal
+shy
+rebel
+hello
+half
+art
+alien
+furnace
+cactus
+faint
+token |  
+| bip_39_word_new_line12 | royal
+shy
+rebel
+hello
+half
+art
+alien
+furnace
+cactus
+faint
+token
+accident |  
+| bip_39_word_new_line2 | royal
+shy |  
+| bip_39_word_new_line3 | royal
+shy
+rebel |  
+| bip_39_word_new_line4 | royal
+shy
+rebel
+hello |  
+| bip_39_word_new_line5 | royal
+shy
+rebel
+hello
+half |  
+| bip_39_word_new_line6 | royal
+shy
+rebel
+hello
+half
+art |  
+| bip_39_word_new_line7 | royal
+shy
+rebel
+hello
+half
+art
+alien |  
+| bip_39_word_new_line8 | royal
+shy
+rebel
+hello
+half
+art
+alien
+furnace |  
+| bip_39_word_new_line9 | royal
+shy
+rebel
+hello
+half
+art
+alien
+furnace
+cactus |  
+| bip_39_word_space_0 | ['royal', 'shy', 'rebel', 'hello', 'half', 'art', 'alien', 'furnace', 'cactus', 'faint', 'token', 'accident'] |  
+| bip_39_word_space_1 | royal |  
+| bip_39_word_space_10 | royal shy rebel hello half art alien furnace cactus faint |  
+| bip_39_word_space_11 | royal shy rebel hello half art alien furnace cactus faint token |  
+| bip_39_word_space_12 | royal shy rebel hello half art alien furnace cactus faint token accident |  
+| bip_39_word_space_2 | royal shy |  
+| bip_39_word_space_3 | royal shy rebel |  
+| bip_39_word_space_4 | royal shy rebel hello |  
+| bip_39_word_space_5 | royal shy rebel hello half |  
+| bip_39_word_space_6 | royal shy rebel hello half art |  
+| bip_39_word_space_7 | royal shy rebel hello half art alien |  
+| bip_39_word_space_8 | royal shy rebel hello half art alien furnace |  
+| bip_39_word_space_9 | royal shy rebel hello half art alien furnace cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

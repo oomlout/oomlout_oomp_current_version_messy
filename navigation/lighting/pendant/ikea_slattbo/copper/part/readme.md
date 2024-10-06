@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aunt wisdom
+  * bip 39 word 3: aunt wisdom require
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aunt |  
+| bip_39_word_new_br10 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck<br>recall |  
+| bip_39_word_new_br11 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck<br>recall<br>oil |  
+| bip_39_word_new_br2 | aunt<br>wisdom |  
+| bip_39_word_new_br3 | aunt<br>wisdom<br>require |  
+| bip_39_word_new_br4 | aunt<br>wisdom<br>require<br>tourist |  
+| bip_39_word_new_br5 | aunt<br>wisdom<br>require<br>tourist<br>scatter |  
+| bip_39_word_new_br6 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin |  
+| bip_39_word_new_br7 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg |  
+| bip_39_word_new_br8 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself |  
+| bip_39_word_new_br9 | aunt<br>wisdom<br>require<br>tourist<br>scatter<br>muffin<br>egg<br>myself<br>neck |  
+| bip_39_word_new_line1 | aunt |  
+| bip_39_word_new_line10 | aunt
+wisdom
+require
+tourist
+scatter
+muffin
+egg
+myself
+neck
+recall |  
+| bip_39_word_new_line11 | aunt
+wisdom
+require
+tourist
+scatter
+muffin
+egg
+myself
+neck
+recall
+oil |  
+| bip_39_word_new_line2 | aunt
+wisdom |  
+| bip_39_word_new_line3 | aunt
+wisdom
+require |  
+| bip_39_word_new_line4 | aunt
+wisdom
+require
+tourist |  
+| bip_39_word_new_line5 | aunt
+wisdom
+require
+tourist
+scatter |  
+| bip_39_word_new_line6 | aunt
+wisdom
+require
+tourist
+scatter
+muffin |  
+| bip_39_word_new_line7 | aunt
+wisdom
+require
+tourist
+scatter
+muffin
+egg |  
+| bip_39_word_new_line8 | aunt
+wisdom
+require
+tourist
+scatter
+muffin
+egg
+myself |  
+| bip_39_word_new_line9 | aunt
+wisdom
+require
+tourist
+scatter
+muffin
+egg
+myself
+neck |  
+| bip_39_word_space_0 | ['aunt', 'wisdom', 'require', 'tourist', 'scatter', 'muffin', 'egg', 'myself', 'neck', 'recall', 'oil'] |  
+| bip_39_word_space_1 | aunt |  
+| bip_39_word_space_10 | aunt wisdom require tourist scatter muffin egg myself neck recall |  
+| bip_39_word_space_11 | aunt wisdom require tourist scatter muffin egg myself neck recall oil |  
+| bip_39_word_space_2 | aunt wisdom |  
+| bip_39_word_space_3 | aunt wisdom require |  
+| bip_39_word_space_4 | aunt wisdom require tourist |  
+| bip_39_word_space_5 | aunt wisdom require tourist scatter |  
+| bip_39_word_space_6 | aunt wisdom require tourist scatter muffin |  
+| bip_39_word_space_7 | aunt wisdom require tourist scatter muffin egg |  
+| bip_39_word_space_8 | aunt wisdom require tourist scatter muffin egg myself |  
+| bip_39_word_space_9 | aunt wisdom require tourist scatter muffin egg myself neck |  
 | classification | lighting |  
 | classification_capital | Lighting |  
 | classification_first_letter | l |  

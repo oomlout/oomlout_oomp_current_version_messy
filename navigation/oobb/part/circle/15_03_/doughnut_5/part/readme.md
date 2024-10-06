@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: practice soap
+  * bip 39 word 3: practice soap outer
+  * bip 39 word: practice soap outer vintage ceiling fault place garage capable donate summer aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | practice |  
+| bip_39_word_new_br10 | practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault<br>place<br>garage<br>capable<br>donate |  
+| bip_39_word_new_br11 | practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault<br>place<br>garage<br>capable<br>donate<br>summer |  
+| bip_39_word_new_br12 | practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault<br>place<br>garage<br>capable<br>donate<br>summer<br>aisle |  
+| bip_39_word_new_br2 | practice<br>soap |  
+| bip_39_word_new_br3 | practice<br>soap<br>outer |  
+| bip_39_word_new_br4 | practice<br>soap<br>outer<br>vintage |  
+| bip_39_word_new_br5 | practice<br>soap<br>outer<br>vintage<br>ceiling |  
+| bip_39_word_new_br6 | practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault |  
+| bip_39_word_new_br7 | practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault<br>place |  
+| bip_39_word_new_br8 | practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault<br>place<br>garage |  
+| bip_39_word_new_br9 | practice<br>soap<br>outer<br>vintage<br>ceiling<br>fault<br>place<br>garage<br>capable |  
+| bip_39_word_new_line1 | practice |  
+| bip_39_word_new_line10 | practice
+soap
+outer
+vintage
+ceiling
+fault
+place
+garage
+capable
+donate |  
+| bip_39_word_new_line11 | practice
+soap
+outer
+vintage
+ceiling
+fault
+place
+garage
+capable
+donate
+summer |  
+| bip_39_word_new_line12 | practice
+soap
+outer
+vintage
+ceiling
+fault
+place
+garage
+capable
+donate
+summer
+aisle |  
+| bip_39_word_new_line2 | practice
+soap |  
+| bip_39_word_new_line3 | practice
+soap
+outer |  
+| bip_39_word_new_line4 | practice
+soap
+outer
+vintage |  
+| bip_39_word_new_line5 | practice
+soap
+outer
+vintage
+ceiling |  
+| bip_39_word_new_line6 | practice
+soap
+outer
+vintage
+ceiling
+fault |  
+| bip_39_word_new_line7 | practice
+soap
+outer
+vintage
+ceiling
+fault
+place |  
+| bip_39_word_new_line8 | practice
+soap
+outer
+vintage
+ceiling
+fault
+place
+garage |  
+| bip_39_word_new_line9 | practice
+soap
+outer
+vintage
+ceiling
+fault
+place
+garage
+capable |  
+| bip_39_word_space_0 | ['practice', 'soap', 'outer', 'vintage', 'ceiling', 'fault', 'place', 'garage', 'capable', 'donate', 'summer', 'aisle'] |  
+| bip_39_word_space_1 | practice |  
+| bip_39_word_space_10 | practice soap outer vintage ceiling fault place garage capable donate |  
+| bip_39_word_space_11 | practice soap outer vintage ceiling fault place garage capable donate summer |  
+| bip_39_word_space_12 | practice soap outer vintage ceiling fault place garage capable donate summer aisle |  
+| bip_39_word_space_2 | practice soap |  
+| bip_39_word_space_3 | practice soap outer |  
+| bip_39_word_space_4 | practice soap outer vintage |  
+| bip_39_word_space_5 | practice soap outer vintage ceiling |  
+| bip_39_word_space_6 | practice soap outer vintage ceiling fault |  
+| bip_39_word_space_7 | practice soap outer vintage ceiling fault place |  
+| bip_39_word_space_8 | practice soap outer vintage ceiling fault place garage |  
+| bip_39_word_space_9 | practice soap outer vintage ceiling fault place garage capable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

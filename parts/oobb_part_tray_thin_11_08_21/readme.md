@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: push antique
+  * bip 39 word 3: push antique quote
+  * bip 39 word: push antique quote jazz doll dutch settle lady cost like vehicle adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | push |  
+| bip_39_word_new_br10 | push<br>antique<br>quote<br>jazz<br>doll<br>dutch<br>settle<br>lady<br>cost<br>like |  
+| bip_39_word_new_br11 | push<br>antique<br>quote<br>jazz<br>doll<br>dutch<br>settle<br>lady<br>cost<br>like<br>vehicle |  
+| bip_39_word_new_br12 | push<br>antique<br>quote<br>jazz<br>doll<br>dutch<br>settle<br>lady<br>cost<br>like<br>vehicle<br>adjust |  
+| bip_39_word_new_br2 | push<br>antique |  
+| bip_39_word_new_br3 | push<br>antique<br>quote |  
+| bip_39_word_new_br4 | push<br>antique<br>quote<br>jazz |  
+| bip_39_word_new_br5 | push<br>antique<br>quote<br>jazz<br>doll |  
+| bip_39_word_new_br6 | push<br>antique<br>quote<br>jazz<br>doll<br>dutch |  
+| bip_39_word_new_br7 | push<br>antique<br>quote<br>jazz<br>doll<br>dutch<br>settle |  
+| bip_39_word_new_br8 | push<br>antique<br>quote<br>jazz<br>doll<br>dutch<br>settle<br>lady |  
+| bip_39_word_new_br9 | push<br>antique<br>quote<br>jazz<br>doll<br>dutch<br>settle<br>lady<br>cost |  
+| bip_39_word_new_line1 | push |  
+| bip_39_word_new_line10 | push
+antique
+quote
+jazz
+doll
+dutch
+settle
+lady
+cost
+like |  
+| bip_39_word_new_line11 | push
+antique
+quote
+jazz
+doll
+dutch
+settle
+lady
+cost
+like
+vehicle |  
+| bip_39_word_new_line12 | push
+antique
+quote
+jazz
+doll
+dutch
+settle
+lady
+cost
+like
+vehicle
+adjust |  
+| bip_39_word_new_line2 | push
+antique |  
+| bip_39_word_new_line3 | push
+antique
+quote |  
+| bip_39_word_new_line4 | push
+antique
+quote
+jazz |  
+| bip_39_word_new_line5 | push
+antique
+quote
+jazz
+doll |  
+| bip_39_word_new_line6 | push
+antique
+quote
+jazz
+doll
+dutch |  
+| bip_39_word_new_line7 | push
+antique
+quote
+jazz
+doll
+dutch
+settle |  
+| bip_39_word_new_line8 | push
+antique
+quote
+jazz
+doll
+dutch
+settle
+lady |  
+| bip_39_word_new_line9 | push
+antique
+quote
+jazz
+doll
+dutch
+settle
+lady
+cost |  
+| bip_39_word_space_0 | ['push', 'antique', 'quote', 'jazz', 'doll', 'dutch', 'settle', 'lady', 'cost', 'like', 'vehicle', 'adjust'] |  
+| bip_39_word_space_1 | push |  
+| bip_39_word_space_10 | push antique quote jazz doll dutch settle lady cost like |  
+| bip_39_word_space_11 | push antique quote jazz doll dutch settle lady cost like vehicle |  
+| bip_39_word_space_12 | push antique quote jazz doll dutch settle lady cost like vehicle adjust |  
+| bip_39_word_space_2 | push antique |  
+| bip_39_word_space_3 | push antique quote |  
+| bip_39_word_space_4 | push antique quote jazz |  
+| bip_39_word_space_5 | push antique quote jazz doll |  
+| bip_39_word_space_6 | push antique quote jazz doll dutch |  
+| bip_39_word_space_7 | push antique quote jazz doll dutch settle |  
+| bip_39_word_space_8 | push antique quote jazz doll dutch settle lady |  
+| bip_39_word_space_9 | push antique quote jazz doll dutch settle lady cost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

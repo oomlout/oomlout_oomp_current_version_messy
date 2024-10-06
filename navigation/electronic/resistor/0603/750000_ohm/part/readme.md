@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hub steak
+  * bip 39 word 3: hub steak fame
+  * bip 39 word: hub steak fame glimpse future album bind mimic armed kit road alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hub |  
+| bip_39_word_new_br10 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit |  
+| bip_39_word_new_br11 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit<br>road |  
+| bip_39_word_new_br12 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed<br>kit<br>road<br>alter |  
+| bip_39_word_new_br2 | hub<br>steak |  
+| bip_39_word_new_br3 | hub<br>steak<br>fame |  
+| bip_39_word_new_br4 | hub<br>steak<br>fame<br>glimpse |  
+| bip_39_word_new_br5 | hub<br>steak<br>fame<br>glimpse<br>future |  
+| bip_39_word_new_br6 | hub<br>steak<br>fame<br>glimpse<br>future<br>album |  
+| bip_39_word_new_br7 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind |  
+| bip_39_word_new_br8 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic |  
+| bip_39_word_new_br9 | hub<br>steak<br>fame<br>glimpse<br>future<br>album<br>bind<br>mimic<br>armed |  
+| bip_39_word_new_line1 | hub |  
+| bip_39_word_new_line10 | hub
+steak
+fame
+glimpse
+future
+album
+bind
+mimic
+armed
+kit |  
+| bip_39_word_new_line11 | hub
+steak
+fame
+glimpse
+future
+album
+bind
+mimic
+armed
+kit
+road |  
+| bip_39_word_new_line12 | hub
+steak
+fame
+glimpse
+future
+album
+bind
+mimic
+armed
+kit
+road
+alter |  
+| bip_39_word_new_line2 | hub
+steak |  
+| bip_39_word_new_line3 | hub
+steak
+fame |  
+| bip_39_word_new_line4 | hub
+steak
+fame
+glimpse |  
+| bip_39_word_new_line5 | hub
+steak
+fame
+glimpse
+future |  
+| bip_39_word_new_line6 | hub
+steak
+fame
+glimpse
+future
+album |  
+| bip_39_word_new_line7 | hub
+steak
+fame
+glimpse
+future
+album
+bind |  
+| bip_39_word_new_line8 | hub
+steak
+fame
+glimpse
+future
+album
+bind
+mimic |  
+| bip_39_word_new_line9 | hub
+steak
+fame
+glimpse
+future
+album
+bind
+mimic
+armed |  
+| bip_39_word_space_0 | ['hub', 'steak', 'fame', 'glimpse', 'future', 'album', 'bind', 'mimic', 'armed', 'kit', 'road', 'alter'] |  
+| bip_39_word_space_1 | hub |  
+| bip_39_word_space_10 | hub steak fame glimpse future album bind mimic armed kit |  
+| bip_39_word_space_11 | hub steak fame glimpse future album bind mimic armed kit road |  
+| bip_39_word_space_12 | hub steak fame glimpse future album bind mimic armed kit road alter |  
+| bip_39_word_space_2 | hub steak |  
+| bip_39_word_space_3 | hub steak fame |  
+| bip_39_word_space_4 | hub steak fame glimpse |  
+| bip_39_word_space_5 | hub steak fame glimpse future |  
+| bip_39_word_space_6 | hub steak fame glimpse future album |  
+| bip_39_word_space_7 | hub steak fame glimpse future album bind |  
+| bip_39_word_space_8 | hub steak fame glimpse future album bind mimic |  
+| bip_39_word_space_9 | hub steak fame glimpse future album bind mimic armed |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

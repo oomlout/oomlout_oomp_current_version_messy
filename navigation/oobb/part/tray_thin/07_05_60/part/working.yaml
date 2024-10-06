@@ -1,3 +1,185 @@
+bip_39_word_new_br1: lift
+bip_39_word_new_br10: lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong
+bip_39_word_new_br11: lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong<br>can
+bip_39_word_new_br12: lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must<br>wrong<br>can<br>attract
+bip_39_word_new_br2: lift<br>harsh
+bip_39_word_new_br3: lift<br>harsh<br>idea
+bip_39_word_new_br4: lift<br>harsh<br>idea<br>goddess
+bip_39_word_new_br5: lift<br>harsh<br>idea<br>goddess<br>left
+bip_39_word_new_br6: lift<br>harsh<br>idea<br>goddess<br>left<br>math
+bip_39_word_new_br7: lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal
+bip_39_word_new_br8: lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread
+bip_39_word_new_br9: lift<br>harsh<br>idea<br>goddess<br>left<br>math<br>mammal<br>bread<br>must
+bip_39_word_new_line1: lift
+bip_39_word_new_line10: 'lift
+
+  harsh
+
+  idea
+
+  goddess
+
+  left
+
+  math
+
+  mammal
+
+  bread
+
+  must
+
+  wrong'
+bip_39_word_new_line11: 'lift
+
+  harsh
+
+  idea
+
+  goddess
+
+  left
+
+  math
+
+  mammal
+
+  bread
+
+  must
+
+  wrong
+
+  can'
+bip_39_word_new_line12: 'lift
+
+  harsh
+
+  idea
+
+  goddess
+
+  left
+
+  math
+
+  mammal
+
+  bread
+
+  must
+
+  wrong
+
+  can
+
+  attract'
+bip_39_word_new_line2: 'lift
+
+  harsh'
+bip_39_word_new_line3: 'lift
+
+  harsh
+
+  idea'
+bip_39_word_new_line4: 'lift
+
+  harsh
+
+  idea
+
+  goddess'
+bip_39_word_new_line5: 'lift
+
+  harsh
+
+  idea
+
+  goddess
+
+  left'
+bip_39_word_new_line6: 'lift
+
+  harsh
+
+  idea
+
+  goddess
+
+  left
+
+  math'
+bip_39_word_new_line7: 'lift
+
+  harsh
+
+  idea
+
+  goddess
+
+  left
+
+  math
+
+  mammal'
+bip_39_word_new_line8: 'lift
+
+  harsh
+
+  idea
+
+  goddess
+
+  left
+
+  math
+
+  mammal
+
+  bread'
+bip_39_word_new_line9: 'lift
+
+  harsh
+
+  idea
+
+  goddess
+
+  left
+
+  math
+
+  mammal
+
+  bread
+
+  must'
+bip_39_word_space_0:
+- lift
+- harsh
+- idea
+- goddess
+- left
+- math
+- mammal
+- bread
+- must
+- wrong
+- can
+- attract
+bip_39_word_space_1: lift
+bip_39_word_space_10: lift harsh idea goddess left math mammal bread must wrong
+bip_39_word_space_11: lift harsh idea goddess left math mammal bread must wrong can
+bip_39_word_space_12: lift harsh idea goddess left math mammal bread must wrong can
+  attract
+bip_39_word_space_2: lift harsh
+bip_39_word_space_3: lift harsh idea
+bip_39_word_space_4: lift harsh idea goddess
+bip_39_word_space_5: lift harsh idea goddess left
+bip_39_word_space_6: lift harsh idea goddess left math
+bip_39_word_space_7: lift harsh idea goddess left math mammal
+bip_39_word_space_8: lift harsh idea goddess left math mammal bread
+bip_39_word_space_9: lift harsh idea goddess left math mammal bread must
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

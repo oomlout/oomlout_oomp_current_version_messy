@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clean
+bip_39_word_new_br10: clean<br>small<br>city<br>video<br>fire<br>shell<br>expect<br>around<br>balance<br>use
+bip_39_word_new_br11: clean<br>small<br>city<br>video<br>fire<br>shell<br>expect<br>around<br>balance<br>use<br>moment
+bip_39_word_new_br12: clean<br>small<br>city<br>video<br>fire<br>shell<br>expect<br>around<br>balance<br>use<br>moment<br>assist
+bip_39_word_new_br2: clean<br>small
+bip_39_word_new_br3: clean<br>small<br>city
+bip_39_word_new_br4: clean<br>small<br>city<br>video
+bip_39_word_new_br5: clean<br>small<br>city<br>video<br>fire
+bip_39_word_new_br6: clean<br>small<br>city<br>video<br>fire<br>shell
+bip_39_word_new_br7: clean<br>small<br>city<br>video<br>fire<br>shell<br>expect
+bip_39_word_new_br8: clean<br>small<br>city<br>video<br>fire<br>shell<br>expect<br>around
+bip_39_word_new_br9: clean<br>small<br>city<br>video<br>fire<br>shell<br>expect<br>around<br>balance
+bip_39_word_new_line1: clean
+bip_39_word_new_line10: 'clean
+
+  small
+
+  city
+
+  video
+
+  fire
+
+  shell
+
+  expect
+
+  around
+
+  balance
+
+  use'
+bip_39_word_new_line11: 'clean
+
+  small
+
+  city
+
+  video
+
+  fire
+
+  shell
+
+  expect
+
+  around
+
+  balance
+
+  use
+
+  moment'
+bip_39_word_new_line12: 'clean
+
+  small
+
+  city
+
+  video
+
+  fire
+
+  shell
+
+  expect
+
+  around
+
+  balance
+
+  use
+
+  moment
+
+  assist'
+bip_39_word_new_line2: 'clean
+
+  small'
+bip_39_word_new_line3: 'clean
+
+  small
+
+  city'
+bip_39_word_new_line4: 'clean
+
+  small
+
+  city
+
+  video'
+bip_39_word_new_line5: 'clean
+
+  small
+
+  city
+
+  video
+
+  fire'
+bip_39_word_new_line6: 'clean
+
+  small
+
+  city
+
+  video
+
+  fire
+
+  shell'
+bip_39_word_new_line7: 'clean
+
+  small
+
+  city
+
+  video
+
+  fire
+
+  shell
+
+  expect'
+bip_39_word_new_line8: 'clean
+
+  small
+
+  city
+
+  video
+
+  fire
+
+  shell
+
+  expect
+
+  around'
+bip_39_word_new_line9: 'clean
+
+  small
+
+  city
+
+  video
+
+  fire
+
+  shell
+
+  expect
+
+  around
+
+  balance'
+bip_39_word_space_0:
+- clean
+- small
+- city
+- video
+- fire
+- shell
+- expect
+- around
+- balance
+- use
+- moment
+- assist
+bip_39_word_space_1: clean
+bip_39_word_space_10: clean small city video fire shell expect around balance use
+bip_39_word_space_11: clean small city video fire shell expect around balance use
+  moment
+bip_39_word_space_12: clean small city video fire shell expect around balance use
+  moment assist
+bip_39_word_space_2: clean small
+bip_39_word_space_3: clean small city
+bip_39_word_space_4: clean small city video
+bip_39_word_space_5: clean small city video fire
+bip_39_word_space_6: clean small city video fire shell
+bip_39_word_space_7: clean small city video fire shell expect
+bip_39_word_space_8: clean small city video fire shell expect around
+bip_39_word_space_9: clean small city video fire shell expect around balance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

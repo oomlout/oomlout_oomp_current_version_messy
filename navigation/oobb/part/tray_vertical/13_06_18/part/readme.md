@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: snap have
+  * bip 39 word 3: snap have attend
+  * bip 39 word: snap have attend myself hood mandate blur bus jazz ocean kiwi approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | snap |  
+| bip_39_word_new_br10 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean |  
+| bip_39_word_new_br11 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean<br>kiwi |  
+| bip_39_word_new_br12 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz<br>ocean<br>kiwi<br>approve |  
+| bip_39_word_new_br2 | snap<br>have |  
+| bip_39_word_new_br3 | snap<br>have<br>attend |  
+| bip_39_word_new_br4 | snap<br>have<br>attend<br>myself |  
+| bip_39_word_new_br5 | snap<br>have<br>attend<br>myself<br>hood |  
+| bip_39_word_new_br6 | snap<br>have<br>attend<br>myself<br>hood<br>mandate |  
+| bip_39_word_new_br7 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur |  
+| bip_39_word_new_br8 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus |  
+| bip_39_word_new_br9 | snap<br>have<br>attend<br>myself<br>hood<br>mandate<br>blur<br>bus<br>jazz |  
+| bip_39_word_new_line1 | snap |  
+| bip_39_word_new_line10 | snap
+have
+attend
+myself
+hood
+mandate
+blur
+bus
+jazz
+ocean |  
+| bip_39_word_new_line11 | snap
+have
+attend
+myself
+hood
+mandate
+blur
+bus
+jazz
+ocean
+kiwi |  
+| bip_39_word_new_line12 | snap
+have
+attend
+myself
+hood
+mandate
+blur
+bus
+jazz
+ocean
+kiwi
+approve |  
+| bip_39_word_new_line2 | snap
+have |  
+| bip_39_word_new_line3 | snap
+have
+attend |  
+| bip_39_word_new_line4 | snap
+have
+attend
+myself |  
+| bip_39_word_new_line5 | snap
+have
+attend
+myself
+hood |  
+| bip_39_word_new_line6 | snap
+have
+attend
+myself
+hood
+mandate |  
+| bip_39_word_new_line7 | snap
+have
+attend
+myself
+hood
+mandate
+blur |  
+| bip_39_word_new_line8 | snap
+have
+attend
+myself
+hood
+mandate
+blur
+bus |  
+| bip_39_word_new_line9 | snap
+have
+attend
+myself
+hood
+mandate
+blur
+bus
+jazz |  
+| bip_39_word_space_0 | ['snap', 'have', 'attend', 'myself', 'hood', 'mandate', 'blur', 'bus', 'jazz', 'ocean', 'kiwi', 'approve'] |  
+| bip_39_word_space_1 | snap |  
+| bip_39_word_space_10 | snap have attend myself hood mandate blur bus jazz ocean |  
+| bip_39_word_space_11 | snap have attend myself hood mandate blur bus jazz ocean kiwi |  
+| bip_39_word_space_12 | snap have attend myself hood mandate blur bus jazz ocean kiwi approve |  
+| bip_39_word_space_2 | snap have |  
+| bip_39_word_space_3 | snap have attend |  
+| bip_39_word_space_4 | snap have attend myself |  
+| bip_39_word_space_5 | snap have attend myself hood |  
+| bip_39_word_space_6 | snap have attend myself hood mandate |  
+| bip_39_word_space_7 | snap have attend myself hood mandate blur |  
+| bip_39_word_space_8 | snap have attend myself hood mandate blur bus |  
+| bip_39_word_space_9 | snap have attend myself hood mandate blur bus jazz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

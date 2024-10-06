@@ -1,3 +1,186 @@
+bip_39_word_new_br1: throw
+bip_39_word_new_br10: throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare
+bip_39_word_new_br11: throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare<br>lamp
+bip_39_word_new_br12: throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game<br>rare<br>lamp<br>air
+bip_39_word_new_br2: throw<br>spy
+bip_39_word_new_br3: throw<br>spy<br>never
+bip_39_word_new_br4: throw<br>spy<br>never<br>material
+bip_39_word_new_br5: throw<br>spy<br>never<br>material<br>kiwi
+bip_39_word_new_br6: throw<br>spy<br>never<br>material<br>kiwi<br>change
+bip_39_word_new_br7: throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence
+bip_39_word_new_br8: throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice
+bip_39_word_new_br9: throw<br>spy<br>never<br>material<br>kiwi<br>change<br>evidence<br>choice<br>game
+bip_39_word_new_line1: throw
+bip_39_word_new_line10: 'throw
+
+  spy
+
+  never
+
+  material
+
+  kiwi
+
+  change
+
+  evidence
+
+  choice
+
+  game
+
+  rare'
+bip_39_word_new_line11: 'throw
+
+  spy
+
+  never
+
+  material
+
+  kiwi
+
+  change
+
+  evidence
+
+  choice
+
+  game
+
+  rare
+
+  lamp'
+bip_39_word_new_line12: 'throw
+
+  spy
+
+  never
+
+  material
+
+  kiwi
+
+  change
+
+  evidence
+
+  choice
+
+  game
+
+  rare
+
+  lamp
+
+  air'
+bip_39_word_new_line2: 'throw
+
+  spy'
+bip_39_word_new_line3: 'throw
+
+  spy
+
+  never'
+bip_39_word_new_line4: 'throw
+
+  spy
+
+  never
+
+  material'
+bip_39_word_new_line5: 'throw
+
+  spy
+
+  never
+
+  material
+
+  kiwi'
+bip_39_word_new_line6: 'throw
+
+  spy
+
+  never
+
+  material
+
+  kiwi
+
+  change'
+bip_39_word_new_line7: 'throw
+
+  spy
+
+  never
+
+  material
+
+  kiwi
+
+  change
+
+  evidence'
+bip_39_word_new_line8: 'throw
+
+  spy
+
+  never
+
+  material
+
+  kiwi
+
+  change
+
+  evidence
+
+  choice'
+bip_39_word_new_line9: 'throw
+
+  spy
+
+  never
+
+  material
+
+  kiwi
+
+  change
+
+  evidence
+
+  choice
+
+  game'
+bip_39_word_space_0:
+- throw
+- spy
+- never
+- material
+- kiwi
+- change
+- evidence
+- choice
+- game
+- rare
+- lamp
+- air
+bip_39_word_space_1: throw
+bip_39_word_space_10: throw spy never material kiwi change evidence choice game rare
+bip_39_word_space_11: throw spy never material kiwi change evidence choice game rare
+  lamp
+bip_39_word_space_12: throw spy never material kiwi change evidence choice game rare
+  lamp air
+bip_39_word_space_2: throw spy
+bip_39_word_space_3: throw spy never
+bip_39_word_space_4: throw spy never material
+bip_39_word_space_5: throw spy never material kiwi
+bip_39_word_space_6: throw spy never material kiwi change
+bip_39_word_space_7: throw spy never material kiwi change evidence
+bip_39_word_space_8: throw spy never material kiwi change evidence choice
+bip_39_word_space_9: throw spy never material kiwi change evidence choice game
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

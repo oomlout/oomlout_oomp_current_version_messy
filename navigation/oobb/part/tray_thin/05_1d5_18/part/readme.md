@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vote fortune
+  * bip 39 word 3: vote fortune alert
+  * bip 39 word: vote fortune alert sick radar search ask orient usual unhappy update area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vote |  
+| bip_39_word_new_br10 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy |  
+| bip_39_word_new_br11 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy<br>update |  
+| bip_39_word_new_br12 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual<br>unhappy<br>update<br>area |  
+| bip_39_word_new_br2 | vote<br>fortune |  
+| bip_39_word_new_br3 | vote<br>fortune<br>alert |  
+| bip_39_word_new_br4 | vote<br>fortune<br>alert<br>sick |  
+| bip_39_word_new_br5 | vote<br>fortune<br>alert<br>sick<br>radar |  
+| bip_39_word_new_br6 | vote<br>fortune<br>alert<br>sick<br>radar<br>search |  
+| bip_39_word_new_br7 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask |  
+| bip_39_word_new_br8 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient |  
+| bip_39_word_new_br9 | vote<br>fortune<br>alert<br>sick<br>radar<br>search<br>ask<br>orient<br>usual |  
+| bip_39_word_new_line1 | vote |  
+| bip_39_word_new_line10 | vote
+fortune
+alert
+sick
+radar
+search
+ask
+orient
+usual
+unhappy |  
+| bip_39_word_new_line11 | vote
+fortune
+alert
+sick
+radar
+search
+ask
+orient
+usual
+unhappy
+update |  
+| bip_39_word_new_line12 | vote
+fortune
+alert
+sick
+radar
+search
+ask
+orient
+usual
+unhappy
+update
+area |  
+| bip_39_word_new_line2 | vote
+fortune |  
+| bip_39_word_new_line3 | vote
+fortune
+alert |  
+| bip_39_word_new_line4 | vote
+fortune
+alert
+sick |  
+| bip_39_word_new_line5 | vote
+fortune
+alert
+sick
+radar |  
+| bip_39_word_new_line6 | vote
+fortune
+alert
+sick
+radar
+search |  
+| bip_39_word_new_line7 | vote
+fortune
+alert
+sick
+radar
+search
+ask |  
+| bip_39_word_new_line8 | vote
+fortune
+alert
+sick
+radar
+search
+ask
+orient |  
+| bip_39_word_new_line9 | vote
+fortune
+alert
+sick
+radar
+search
+ask
+orient
+usual |  
+| bip_39_word_space_0 | ['vote', 'fortune', 'alert', 'sick', 'radar', 'search', 'ask', 'orient', 'usual', 'unhappy', 'update', 'area'] |  
+| bip_39_word_space_1 | vote |  
+| bip_39_word_space_10 | vote fortune alert sick radar search ask orient usual unhappy |  
+| bip_39_word_space_11 | vote fortune alert sick radar search ask orient usual unhappy update |  
+| bip_39_word_space_12 | vote fortune alert sick radar search ask orient usual unhappy update area |  
+| bip_39_word_space_2 | vote fortune |  
+| bip_39_word_space_3 | vote fortune alert |  
+| bip_39_word_space_4 | vote fortune alert sick |  
+| bip_39_word_space_5 | vote fortune alert sick radar |  
+| bip_39_word_space_6 | vote fortune alert sick radar search |  
+| bip_39_word_space_7 | vote fortune alert sick radar search ask |  
+| bip_39_word_space_8 | vote fortune alert sick radar search ask orient |  
+| bip_39_word_space_9 | vote fortune alert sick radar search ask orient usual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

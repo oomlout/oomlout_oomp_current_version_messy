@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fix
+bip_39_word_new_br10: fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow
+bip_39_word_new_br11: fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow<br>job
+bip_39_word_new_br12: fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique<br>swallow<br>job<br>absurd
+bip_39_word_new_br2: fix<br>swift
+bip_39_word_new_br3: fix<br>swift<br>method
+bip_39_word_new_br4: fix<br>swift<br>method<br>rebel
+bip_39_word_new_br5: fix<br>swift<br>method<br>rebel<br>oyster
+bip_39_word_new_br6: fix<br>swift<br>method<br>rebel<br>oyster<br>situate
+bip_39_word_new_br7: fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten
+bip_39_word_new_br8: fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck
+bip_39_word_new_br9: fix<br>swift<br>method<br>rebel<br>oyster<br>situate<br>ten<br>wreck<br>antique
+bip_39_word_new_line1: fix
+bip_39_word_new_line10: 'fix
+
+  swift
+
+  method
+
+  rebel
+
+  oyster
+
+  situate
+
+  ten
+
+  wreck
+
+  antique
+
+  swallow'
+bip_39_word_new_line11: 'fix
+
+  swift
+
+  method
+
+  rebel
+
+  oyster
+
+  situate
+
+  ten
+
+  wreck
+
+  antique
+
+  swallow
+
+  job'
+bip_39_word_new_line12: 'fix
+
+  swift
+
+  method
+
+  rebel
+
+  oyster
+
+  situate
+
+  ten
+
+  wreck
+
+  antique
+
+  swallow
+
+  job
+
+  absurd'
+bip_39_word_new_line2: 'fix
+
+  swift'
+bip_39_word_new_line3: 'fix
+
+  swift
+
+  method'
+bip_39_word_new_line4: 'fix
+
+  swift
+
+  method
+
+  rebel'
+bip_39_word_new_line5: 'fix
+
+  swift
+
+  method
+
+  rebel
+
+  oyster'
+bip_39_word_new_line6: 'fix
+
+  swift
+
+  method
+
+  rebel
+
+  oyster
+
+  situate'
+bip_39_word_new_line7: 'fix
+
+  swift
+
+  method
+
+  rebel
+
+  oyster
+
+  situate
+
+  ten'
+bip_39_word_new_line8: 'fix
+
+  swift
+
+  method
+
+  rebel
+
+  oyster
+
+  situate
+
+  ten
+
+  wreck'
+bip_39_word_new_line9: 'fix
+
+  swift
+
+  method
+
+  rebel
+
+  oyster
+
+  situate
+
+  ten
+
+  wreck
+
+  antique'
+bip_39_word_space_0:
+- fix
+- swift
+- method
+- rebel
+- oyster
+- situate
+- ten
+- wreck
+- antique
+- swallow
+- job
+- absurd
+bip_39_word_space_1: fix
+bip_39_word_space_10: fix swift method rebel oyster situate ten wreck antique swallow
+bip_39_word_space_11: fix swift method rebel oyster situate ten wreck antique swallow
+  job
+bip_39_word_space_12: fix swift method rebel oyster situate ten wreck antique swallow
+  job absurd
+bip_39_word_space_2: fix swift
+bip_39_word_space_3: fix swift method
+bip_39_word_space_4: fix swift method rebel
+bip_39_word_space_5: fix swift method rebel oyster
+bip_39_word_space_6: fix swift method rebel oyster situate
+bip_39_word_space_7: fix swift method rebel oyster situate ten
+bip_39_word_space_8: fix swift method rebel oyster situate ten wreck
+bip_39_word_space_9: fix swift method rebel oyster situate ten wreck antique
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

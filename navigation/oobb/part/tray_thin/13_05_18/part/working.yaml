@@ -1,3 +1,187 @@
+bip_39_word_new_br1: aspect
+bip_39_word_new_br10: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz
+bip_39_word_new_br11: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird
+bip_39_word_new_br12: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird<br>artwork
+bip_39_word_new_br2: aspect<br>toward
+bip_39_word_new_br3: aspect<br>toward<br>service
+bip_39_word_new_br4: aspect<br>toward<br>service<br>couple
+bip_39_word_new_br5: aspect<br>toward<br>service<br>couple<br>album
+bip_39_word_new_br6: aspect<br>toward<br>service<br>couple<br>album<br>chase
+bip_39_word_new_br7: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december
+bip_39_word_new_br8: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity
+bip_39_word_new_br9: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token
+bip_39_word_new_line1: aspect
+bip_39_word_new_line10: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity
+
+  token
+
+  buzz'
+bip_39_word_new_line11: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity
+
+  token
+
+  buzz
+
+  bird'
+bip_39_word_new_line12: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity
+
+  token
+
+  buzz
+
+  bird
+
+  artwork'
+bip_39_word_new_line2: 'aspect
+
+  toward'
+bip_39_word_new_line3: 'aspect
+
+  toward
+
+  service'
+bip_39_word_new_line4: 'aspect
+
+  toward
+
+  service
+
+  couple'
+bip_39_word_new_line5: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album'
+bip_39_word_new_line6: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase'
+bip_39_word_new_line7: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december'
+bip_39_word_new_line8: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity'
+bip_39_word_new_line9: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity
+
+  token'
+bip_39_word_space_0:
+- aspect
+- toward
+- service
+- couple
+- album
+- chase
+- december
+- purity
+- token
+- buzz
+- bird
+- artwork
+bip_39_word_space_1: aspect
+bip_39_word_space_10: aspect toward service couple album chase december purity token
+  buzz
+bip_39_word_space_11: aspect toward service couple album chase december purity token
+  buzz bird
+bip_39_word_space_12: aspect toward service couple album chase december purity token
+  buzz bird artwork
+bip_39_word_space_2: aspect toward
+bip_39_word_space_3: aspect toward service
+bip_39_word_space_4: aspect toward service couple
+bip_39_word_space_5: aspect toward service couple album
+bip_39_word_space_6: aspect toward service couple album chase
+bip_39_word_space_7: aspect toward service couple album chase december
+bip_39_word_space_8: aspect toward service couple album chase december purity
+bip_39_word_space_9: aspect toward service couple album chase december purity token
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

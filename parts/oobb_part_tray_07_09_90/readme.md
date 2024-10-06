@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exhibit remember
+  * bip 39 word 3: exhibit remember diesel
+  * bip 39 word: exhibit remember diesel nuclear lizard cement private supply suggest need mutual advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exhibit |  
+| bip_39_word_new_br10 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest<br>need |  
+| bip_39_word_new_br11 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest<br>need<br>mutual |  
+| bip_39_word_new_br12 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest<br>need<br>mutual<br>advice |  
+| bip_39_word_new_br2 | exhibit<br>remember |  
+| bip_39_word_new_br3 | exhibit<br>remember<br>diesel |  
+| bip_39_word_new_br4 | exhibit<br>remember<br>diesel<br>nuclear |  
+| bip_39_word_new_br5 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard |  
+| bip_39_word_new_br6 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement |  
+| bip_39_word_new_br7 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private |  
+| bip_39_word_new_br8 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply |  
+| bip_39_word_new_br9 | exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest |  
+| bip_39_word_new_line1 | exhibit |  
+| bip_39_word_new_line10 | exhibit
+remember
+diesel
+nuclear
+lizard
+cement
+private
+supply
+suggest
+need |  
+| bip_39_word_new_line11 | exhibit
+remember
+diesel
+nuclear
+lizard
+cement
+private
+supply
+suggest
+need
+mutual |  
+| bip_39_word_new_line12 | exhibit
+remember
+diesel
+nuclear
+lizard
+cement
+private
+supply
+suggest
+need
+mutual
+advice |  
+| bip_39_word_new_line2 | exhibit
+remember |  
+| bip_39_word_new_line3 | exhibit
+remember
+diesel |  
+| bip_39_word_new_line4 | exhibit
+remember
+diesel
+nuclear |  
+| bip_39_word_new_line5 | exhibit
+remember
+diesel
+nuclear
+lizard |  
+| bip_39_word_new_line6 | exhibit
+remember
+diesel
+nuclear
+lizard
+cement |  
+| bip_39_word_new_line7 | exhibit
+remember
+diesel
+nuclear
+lizard
+cement
+private |  
+| bip_39_word_new_line8 | exhibit
+remember
+diesel
+nuclear
+lizard
+cement
+private
+supply |  
+| bip_39_word_new_line9 | exhibit
+remember
+diesel
+nuclear
+lizard
+cement
+private
+supply
+suggest |  
+| bip_39_word_space_0 | ['exhibit', 'remember', 'diesel', 'nuclear', 'lizard', 'cement', 'private', 'supply', 'suggest', 'need', 'mutual', 'advice'] |  
+| bip_39_word_space_1 | exhibit |  
+| bip_39_word_space_10 | exhibit remember diesel nuclear lizard cement private supply suggest need |  
+| bip_39_word_space_11 | exhibit remember diesel nuclear lizard cement private supply suggest need mutual |  
+| bip_39_word_space_12 | exhibit remember diesel nuclear lizard cement private supply suggest need mutual advice |  
+| bip_39_word_space_2 | exhibit remember |  
+| bip_39_word_space_3 | exhibit remember diesel |  
+| bip_39_word_space_4 | exhibit remember diesel nuclear |  
+| bip_39_word_space_5 | exhibit remember diesel nuclear lizard |  
+| bip_39_word_space_6 | exhibit remember diesel nuclear lizard cement |  
+| bip_39_word_space_7 | exhibit remember diesel nuclear lizard cement private |  
+| bip_39_word_space_8 | exhibit remember diesel nuclear lizard cement private supply |  
+| bip_39_word_space_9 | exhibit remember diesel nuclear lizard cement private supply suggest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: field ethics
+  * bip 39 word 3: field ethics between
+  * bip 39 word: field ethics between month multiply fragile claw stay gentle false surge august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | field |  
+| bip_39_word_new_br10 | field<br>ethics<br>between<br>month<br>multiply<br>fragile<br>claw<br>stay<br>gentle<br>false |  
+| bip_39_word_new_br11 | field<br>ethics<br>between<br>month<br>multiply<br>fragile<br>claw<br>stay<br>gentle<br>false<br>surge |  
+| bip_39_word_new_br12 | field<br>ethics<br>between<br>month<br>multiply<br>fragile<br>claw<br>stay<br>gentle<br>false<br>surge<br>august |  
+| bip_39_word_new_br2 | field<br>ethics |  
+| bip_39_word_new_br3 | field<br>ethics<br>between |  
+| bip_39_word_new_br4 | field<br>ethics<br>between<br>month |  
+| bip_39_word_new_br5 | field<br>ethics<br>between<br>month<br>multiply |  
+| bip_39_word_new_br6 | field<br>ethics<br>between<br>month<br>multiply<br>fragile |  
+| bip_39_word_new_br7 | field<br>ethics<br>between<br>month<br>multiply<br>fragile<br>claw |  
+| bip_39_word_new_br8 | field<br>ethics<br>between<br>month<br>multiply<br>fragile<br>claw<br>stay |  
+| bip_39_word_new_br9 | field<br>ethics<br>between<br>month<br>multiply<br>fragile<br>claw<br>stay<br>gentle |  
+| bip_39_word_new_line1 | field |  
+| bip_39_word_new_line10 | field
+ethics
+between
+month
+multiply
+fragile
+claw
+stay
+gentle
+false |  
+| bip_39_word_new_line11 | field
+ethics
+between
+month
+multiply
+fragile
+claw
+stay
+gentle
+false
+surge |  
+| bip_39_word_new_line12 | field
+ethics
+between
+month
+multiply
+fragile
+claw
+stay
+gentle
+false
+surge
+august |  
+| bip_39_word_new_line2 | field
+ethics |  
+| bip_39_word_new_line3 | field
+ethics
+between |  
+| bip_39_word_new_line4 | field
+ethics
+between
+month |  
+| bip_39_word_new_line5 | field
+ethics
+between
+month
+multiply |  
+| bip_39_word_new_line6 | field
+ethics
+between
+month
+multiply
+fragile |  
+| bip_39_word_new_line7 | field
+ethics
+between
+month
+multiply
+fragile
+claw |  
+| bip_39_word_new_line8 | field
+ethics
+between
+month
+multiply
+fragile
+claw
+stay |  
+| bip_39_word_new_line9 | field
+ethics
+between
+month
+multiply
+fragile
+claw
+stay
+gentle |  
+| bip_39_word_space_0 | ['field', 'ethics', 'between', 'month', 'multiply', 'fragile', 'claw', 'stay', 'gentle', 'false', 'surge', 'august'] |  
+| bip_39_word_space_1 | field |  
+| bip_39_word_space_10 | field ethics between month multiply fragile claw stay gentle false |  
+| bip_39_word_space_11 | field ethics between month multiply fragile claw stay gentle false surge |  
+| bip_39_word_space_12 | field ethics between month multiply fragile claw stay gentle false surge august |  
+| bip_39_word_space_2 | field ethics |  
+| bip_39_word_space_3 | field ethics between |  
+| bip_39_word_space_4 | field ethics between month |  
+| bip_39_word_space_5 | field ethics between month multiply |  
+| bip_39_word_space_6 | field ethics between month multiply fragile |  
+| bip_39_word_space_7 | field ethics between month multiply fragile claw |  
+| bip_39_word_space_8 | field ethics between month multiply fragile claw stay |  
+| bip_39_word_space_9 | field ethics between month multiply fragile claw stay gentle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

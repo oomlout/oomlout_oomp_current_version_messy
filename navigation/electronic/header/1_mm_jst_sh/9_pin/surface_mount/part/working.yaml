@@ -1,3 +1,186 @@
+bip_39_word_new_br1: polar
+bip_39_word_new_br10: polar<br>forest<br>tide<br>action<br>gap<br>word<br>analyst<br>pen<br>recycle<br>disease
+bip_39_word_new_br11: polar<br>forest<br>tide<br>action<br>gap<br>word<br>analyst<br>pen<br>recycle<br>disease<br>siren
+bip_39_word_new_br12: polar<br>forest<br>tide<br>action<br>gap<br>word<br>analyst<br>pen<br>recycle<br>disease<br>siren<br>add
+bip_39_word_new_br2: polar<br>forest
+bip_39_word_new_br3: polar<br>forest<br>tide
+bip_39_word_new_br4: polar<br>forest<br>tide<br>action
+bip_39_word_new_br5: polar<br>forest<br>tide<br>action<br>gap
+bip_39_word_new_br6: polar<br>forest<br>tide<br>action<br>gap<br>word
+bip_39_word_new_br7: polar<br>forest<br>tide<br>action<br>gap<br>word<br>analyst
+bip_39_word_new_br8: polar<br>forest<br>tide<br>action<br>gap<br>word<br>analyst<br>pen
+bip_39_word_new_br9: polar<br>forest<br>tide<br>action<br>gap<br>word<br>analyst<br>pen<br>recycle
+bip_39_word_new_line1: polar
+bip_39_word_new_line10: 'polar
+
+  forest
+
+  tide
+
+  action
+
+  gap
+
+  word
+
+  analyst
+
+  pen
+
+  recycle
+
+  disease'
+bip_39_word_new_line11: 'polar
+
+  forest
+
+  tide
+
+  action
+
+  gap
+
+  word
+
+  analyst
+
+  pen
+
+  recycle
+
+  disease
+
+  siren'
+bip_39_word_new_line12: 'polar
+
+  forest
+
+  tide
+
+  action
+
+  gap
+
+  word
+
+  analyst
+
+  pen
+
+  recycle
+
+  disease
+
+  siren
+
+  add'
+bip_39_word_new_line2: 'polar
+
+  forest'
+bip_39_word_new_line3: 'polar
+
+  forest
+
+  tide'
+bip_39_word_new_line4: 'polar
+
+  forest
+
+  tide
+
+  action'
+bip_39_word_new_line5: 'polar
+
+  forest
+
+  tide
+
+  action
+
+  gap'
+bip_39_word_new_line6: 'polar
+
+  forest
+
+  tide
+
+  action
+
+  gap
+
+  word'
+bip_39_word_new_line7: 'polar
+
+  forest
+
+  tide
+
+  action
+
+  gap
+
+  word
+
+  analyst'
+bip_39_word_new_line8: 'polar
+
+  forest
+
+  tide
+
+  action
+
+  gap
+
+  word
+
+  analyst
+
+  pen'
+bip_39_word_new_line9: 'polar
+
+  forest
+
+  tide
+
+  action
+
+  gap
+
+  word
+
+  analyst
+
+  pen
+
+  recycle'
+bip_39_word_space_0:
+- polar
+- forest
+- tide
+- action
+- gap
+- word
+- analyst
+- pen
+- recycle
+- disease
+- siren
+- add
+bip_39_word_space_1: polar
+bip_39_word_space_10: polar forest tide action gap word analyst pen recycle disease
+bip_39_word_space_11: polar forest tide action gap word analyst pen recycle disease
+  siren
+bip_39_word_space_12: polar forest tide action gap word analyst pen recycle disease
+  siren add
+bip_39_word_space_2: polar forest
+bip_39_word_space_3: polar forest tide
+bip_39_word_space_4: polar forest tide action
+bip_39_word_space_5: polar forest tide action gap
+bip_39_word_space_6: polar forest tide action gap word
+bip_39_word_space_7: polar forest tide action gap word analyst
+bip_39_word_space_8: polar forest tide action gap word analyst pen
+bip_39_word_space_9: polar forest tide action gap word analyst pen recycle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

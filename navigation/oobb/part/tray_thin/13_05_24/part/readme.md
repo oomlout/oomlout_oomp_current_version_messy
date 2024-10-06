@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: birth tip
+  * bip 39 word 3: birth tip quiz
+  * bip 39 word: birth tip quiz paper onion grab series balcony rhythm shuffle math actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | birth |  
+| bip_39_word_new_br10 | birth<br>tip<br>quiz<br>paper<br>onion<br>grab<br>series<br>balcony<br>rhythm<br>shuffle |  
+| bip_39_word_new_br11 | birth<br>tip<br>quiz<br>paper<br>onion<br>grab<br>series<br>balcony<br>rhythm<br>shuffle<br>math |  
+| bip_39_word_new_br12 | birth<br>tip<br>quiz<br>paper<br>onion<br>grab<br>series<br>balcony<br>rhythm<br>shuffle<br>math<br>actress |  
+| bip_39_word_new_br2 | birth<br>tip |  
+| bip_39_word_new_br3 | birth<br>tip<br>quiz |  
+| bip_39_word_new_br4 | birth<br>tip<br>quiz<br>paper |  
+| bip_39_word_new_br5 | birth<br>tip<br>quiz<br>paper<br>onion |  
+| bip_39_word_new_br6 | birth<br>tip<br>quiz<br>paper<br>onion<br>grab |  
+| bip_39_word_new_br7 | birth<br>tip<br>quiz<br>paper<br>onion<br>grab<br>series |  
+| bip_39_word_new_br8 | birth<br>tip<br>quiz<br>paper<br>onion<br>grab<br>series<br>balcony |  
+| bip_39_word_new_br9 | birth<br>tip<br>quiz<br>paper<br>onion<br>grab<br>series<br>balcony<br>rhythm |  
+| bip_39_word_new_line1 | birth |  
+| bip_39_word_new_line10 | birth
+tip
+quiz
+paper
+onion
+grab
+series
+balcony
+rhythm
+shuffle |  
+| bip_39_word_new_line11 | birth
+tip
+quiz
+paper
+onion
+grab
+series
+balcony
+rhythm
+shuffle
+math |  
+| bip_39_word_new_line12 | birth
+tip
+quiz
+paper
+onion
+grab
+series
+balcony
+rhythm
+shuffle
+math
+actress |  
+| bip_39_word_new_line2 | birth
+tip |  
+| bip_39_word_new_line3 | birth
+tip
+quiz |  
+| bip_39_word_new_line4 | birth
+tip
+quiz
+paper |  
+| bip_39_word_new_line5 | birth
+tip
+quiz
+paper
+onion |  
+| bip_39_word_new_line6 | birth
+tip
+quiz
+paper
+onion
+grab |  
+| bip_39_word_new_line7 | birth
+tip
+quiz
+paper
+onion
+grab
+series |  
+| bip_39_word_new_line8 | birth
+tip
+quiz
+paper
+onion
+grab
+series
+balcony |  
+| bip_39_word_new_line9 | birth
+tip
+quiz
+paper
+onion
+grab
+series
+balcony
+rhythm |  
+| bip_39_word_space_0 | ['birth', 'tip', 'quiz', 'paper', 'onion', 'grab', 'series', 'balcony', 'rhythm', 'shuffle', 'math', 'actress'] |  
+| bip_39_word_space_1 | birth |  
+| bip_39_word_space_10 | birth tip quiz paper onion grab series balcony rhythm shuffle |  
+| bip_39_word_space_11 | birth tip quiz paper onion grab series balcony rhythm shuffle math |  
+| bip_39_word_space_12 | birth tip quiz paper onion grab series balcony rhythm shuffle math actress |  
+| bip_39_word_space_2 | birth tip |  
+| bip_39_word_space_3 | birth tip quiz |  
+| bip_39_word_space_4 | birth tip quiz paper |  
+| bip_39_word_space_5 | birth tip quiz paper onion |  
+| bip_39_word_space_6 | birth tip quiz paper onion grab |  
+| bip_39_word_space_7 | birth tip quiz paper onion grab series |  
+| bip_39_word_space_8 | birth tip quiz paper onion grab series balcony |  
+| bip_39_word_space_9 | birth tip quiz paper onion grab series balcony rhythm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: staff coin
+  * bip 39 word 3: staff coin affair
+  * bip 39 word: staff coin affair afraid buffalo crater plate brand smart rotate satisfy admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | staff |  
+| bip_39_word_new_br10 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater<br>plate<br>brand<br>smart<br>rotate |  
+| bip_39_word_new_br11 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater<br>plate<br>brand<br>smart<br>rotate<br>satisfy |  
+| bip_39_word_new_br12 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater<br>plate<br>brand<br>smart<br>rotate<br>satisfy<br>admit |  
+| bip_39_word_new_br2 | staff<br>coin |  
+| bip_39_word_new_br3 | staff<br>coin<br>affair |  
+| bip_39_word_new_br4 | staff<br>coin<br>affair<br>afraid |  
+| bip_39_word_new_br5 | staff<br>coin<br>affair<br>afraid<br>buffalo |  
+| bip_39_word_new_br6 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater |  
+| bip_39_word_new_br7 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater<br>plate |  
+| bip_39_word_new_br8 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater<br>plate<br>brand |  
+| bip_39_word_new_br9 | staff<br>coin<br>affair<br>afraid<br>buffalo<br>crater<br>plate<br>brand<br>smart |  
+| bip_39_word_new_line1 | staff |  
+| bip_39_word_new_line10 | staff
+coin
+affair
+afraid
+buffalo
+crater
+plate
+brand
+smart
+rotate |  
+| bip_39_word_new_line11 | staff
+coin
+affair
+afraid
+buffalo
+crater
+plate
+brand
+smart
+rotate
+satisfy |  
+| bip_39_word_new_line12 | staff
+coin
+affair
+afraid
+buffalo
+crater
+plate
+brand
+smart
+rotate
+satisfy
+admit |  
+| bip_39_word_new_line2 | staff
+coin |  
+| bip_39_word_new_line3 | staff
+coin
+affair |  
+| bip_39_word_new_line4 | staff
+coin
+affair
+afraid |  
+| bip_39_word_new_line5 | staff
+coin
+affair
+afraid
+buffalo |  
+| bip_39_word_new_line6 | staff
+coin
+affair
+afraid
+buffalo
+crater |  
+| bip_39_word_new_line7 | staff
+coin
+affair
+afraid
+buffalo
+crater
+plate |  
+| bip_39_word_new_line8 | staff
+coin
+affair
+afraid
+buffalo
+crater
+plate
+brand |  
+| bip_39_word_new_line9 | staff
+coin
+affair
+afraid
+buffalo
+crater
+plate
+brand
+smart |  
+| bip_39_word_space_0 | ['staff', 'coin', 'affair', 'afraid', 'buffalo', 'crater', 'plate', 'brand', 'smart', 'rotate', 'satisfy', 'admit'] |  
+| bip_39_word_space_1 | staff |  
+| bip_39_word_space_10 | staff coin affair afraid buffalo crater plate brand smart rotate |  
+| bip_39_word_space_11 | staff coin affair afraid buffalo crater plate brand smart rotate satisfy |  
+| bip_39_word_space_12 | staff coin affair afraid buffalo crater plate brand smart rotate satisfy admit |  
+| bip_39_word_space_2 | staff coin |  
+| bip_39_word_space_3 | staff coin affair |  
+| bip_39_word_space_4 | staff coin affair afraid |  
+| bip_39_word_space_5 | staff coin affair afraid buffalo |  
+| bip_39_word_space_6 | staff coin affair afraid buffalo crater |  
+| bip_39_word_space_7 | staff coin affair afraid buffalo crater plate |  
+| bip_39_word_space_8 | staff coin affair afraid buffalo crater plate brand |  
+| bip_39_word_space_9 | staff coin affair afraid buffalo crater plate brand smart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

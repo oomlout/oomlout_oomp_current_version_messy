@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: water shoot
+  * bip 39 word 3: water shoot phone
+  * bip 39 word: water shoot phone matrix skate relax spider depend victory slab west admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | water |  
+| bip_39_word_new_br10 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab |  
+| bip_39_word_new_br11 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west |  
+| bip_39_word_new_br12 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory<br>slab<br>west<br>admit |  
+| bip_39_word_new_br2 | water<br>shoot |  
+| bip_39_word_new_br3 | water<br>shoot<br>phone |  
+| bip_39_word_new_br4 | water<br>shoot<br>phone<br>matrix |  
+| bip_39_word_new_br5 | water<br>shoot<br>phone<br>matrix<br>skate |  
+| bip_39_word_new_br6 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax |  
+| bip_39_word_new_br7 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider |  
+| bip_39_word_new_br8 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend |  
+| bip_39_word_new_br9 | water<br>shoot<br>phone<br>matrix<br>skate<br>relax<br>spider<br>depend<br>victory |  
+| bip_39_word_new_line1 | water |  
+| bip_39_word_new_line10 | water
+shoot
+phone
+matrix
+skate
+relax
+spider
+depend
+victory
+slab |  
+| bip_39_word_new_line11 | water
+shoot
+phone
+matrix
+skate
+relax
+spider
+depend
+victory
+slab
+west |  
+| bip_39_word_new_line12 | water
+shoot
+phone
+matrix
+skate
+relax
+spider
+depend
+victory
+slab
+west
+admit |  
+| bip_39_word_new_line2 | water
+shoot |  
+| bip_39_word_new_line3 | water
+shoot
+phone |  
+| bip_39_word_new_line4 | water
+shoot
+phone
+matrix |  
+| bip_39_word_new_line5 | water
+shoot
+phone
+matrix
+skate |  
+| bip_39_word_new_line6 | water
+shoot
+phone
+matrix
+skate
+relax |  
+| bip_39_word_new_line7 | water
+shoot
+phone
+matrix
+skate
+relax
+spider |  
+| bip_39_word_new_line8 | water
+shoot
+phone
+matrix
+skate
+relax
+spider
+depend |  
+| bip_39_word_new_line9 | water
+shoot
+phone
+matrix
+skate
+relax
+spider
+depend
+victory |  
+| bip_39_word_space_0 | ['water', 'shoot', 'phone', 'matrix', 'skate', 'relax', 'spider', 'depend', 'victory', 'slab', 'west', 'admit'] |  
+| bip_39_word_space_1 | water |  
+| bip_39_word_space_10 | water shoot phone matrix skate relax spider depend victory slab |  
+| bip_39_word_space_11 | water shoot phone matrix skate relax spider depend victory slab west |  
+| bip_39_word_space_12 | water shoot phone matrix skate relax spider depend victory slab west admit |  
+| bip_39_word_space_2 | water shoot |  
+| bip_39_word_space_3 | water shoot phone |  
+| bip_39_word_space_4 | water shoot phone matrix |  
+| bip_39_word_space_5 | water shoot phone matrix skate |  
+| bip_39_word_space_6 | water shoot phone matrix skate relax |  
+| bip_39_word_space_7 | water shoot phone matrix skate relax spider |  
+| bip_39_word_space_8 | water shoot phone matrix skate relax spider depend |  
+| bip_39_word_space_9 | water shoot phone matrix skate relax spider depend victory |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

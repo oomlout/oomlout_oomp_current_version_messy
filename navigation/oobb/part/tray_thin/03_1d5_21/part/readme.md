@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: steak update
+  * bip 39 word 3: steak update turtle
+  * bip 39 word: steak update turtle damage town near pigeon profit write pigeon pond afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | steak |  
+| bip_39_word_new_br10 | steak<br>update<br>turtle<br>damage<br>town<br>near<br>pigeon<br>profit<br>write<br>pigeon |  
+| bip_39_word_new_br11 | steak<br>update<br>turtle<br>damage<br>town<br>near<br>pigeon<br>profit<br>write<br>pigeon<br>pond |  
+| bip_39_word_new_br12 | steak<br>update<br>turtle<br>damage<br>town<br>near<br>pigeon<br>profit<br>write<br>pigeon<br>pond<br>afraid |  
+| bip_39_word_new_br2 | steak<br>update |  
+| bip_39_word_new_br3 | steak<br>update<br>turtle |  
+| bip_39_word_new_br4 | steak<br>update<br>turtle<br>damage |  
+| bip_39_word_new_br5 | steak<br>update<br>turtle<br>damage<br>town |  
+| bip_39_word_new_br6 | steak<br>update<br>turtle<br>damage<br>town<br>near |  
+| bip_39_word_new_br7 | steak<br>update<br>turtle<br>damage<br>town<br>near<br>pigeon |  
+| bip_39_word_new_br8 | steak<br>update<br>turtle<br>damage<br>town<br>near<br>pigeon<br>profit |  
+| bip_39_word_new_br9 | steak<br>update<br>turtle<br>damage<br>town<br>near<br>pigeon<br>profit<br>write |  
+| bip_39_word_new_line1 | steak |  
+| bip_39_word_new_line10 | steak
+update
+turtle
+damage
+town
+near
+pigeon
+profit
+write
+pigeon |  
+| bip_39_word_new_line11 | steak
+update
+turtle
+damage
+town
+near
+pigeon
+profit
+write
+pigeon
+pond |  
+| bip_39_word_new_line12 | steak
+update
+turtle
+damage
+town
+near
+pigeon
+profit
+write
+pigeon
+pond
+afraid |  
+| bip_39_word_new_line2 | steak
+update |  
+| bip_39_word_new_line3 | steak
+update
+turtle |  
+| bip_39_word_new_line4 | steak
+update
+turtle
+damage |  
+| bip_39_word_new_line5 | steak
+update
+turtle
+damage
+town |  
+| bip_39_word_new_line6 | steak
+update
+turtle
+damage
+town
+near |  
+| bip_39_word_new_line7 | steak
+update
+turtle
+damage
+town
+near
+pigeon |  
+| bip_39_word_new_line8 | steak
+update
+turtle
+damage
+town
+near
+pigeon
+profit |  
+| bip_39_word_new_line9 | steak
+update
+turtle
+damage
+town
+near
+pigeon
+profit
+write |  
+| bip_39_word_space_0 | ['steak', 'update', 'turtle', 'damage', 'town', 'near', 'pigeon', 'profit', 'write', 'pigeon', 'pond', 'afraid'] |  
+| bip_39_word_space_1 | steak |  
+| bip_39_word_space_10 | steak update turtle damage town near pigeon profit write pigeon |  
+| bip_39_word_space_11 | steak update turtle damage town near pigeon profit write pigeon pond |  
+| bip_39_word_space_12 | steak update turtle damage town near pigeon profit write pigeon pond afraid |  
+| bip_39_word_space_2 | steak update |  
+| bip_39_word_space_3 | steak update turtle |  
+| bip_39_word_space_4 | steak update turtle damage |  
+| bip_39_word_space_5 | steak update turtle damage town |  
+| bip_39_word_space_6 | steak update turtle damage town near |  
+| bip_39_word_space_7 | steak update turtle damage town near pigeon |  
+| bip_39_word_space_8 | steak update turtle damage town near pigeon profit |  
+| bip_39_word_space_9 | steak update turtle damage town near pigeon profit write |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

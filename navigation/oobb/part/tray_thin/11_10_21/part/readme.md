@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: only wealth
+  * bip 39 word 3: only wealth village
+  * bip 39 word: only wealth village rocket supreme element expire kangaroo tonight exist jeans album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | only |  
+| bip_39_word_new_br10 | only<br>wealth<br>village<br>rocket<br>supreme<br>element<br>expire<br>kangaroo<br>tonight<br>exist |  
+| bip_39_word_new_br11 | only<br>wealth<br>village<br>rocket<br>supreme<br>element<br>expire<br>kangaroo<br>tonight<br>exist<br>jeans |  
+| bip_39_word_new_br12 | only<br>wealth<br>village<br>rocket<br>supreme<br>element<br>expire<br>kangaroo<br>tonight<br>exist<br>jeans<br>album |  
+| bip_39_word_new_br2 | only<br>wealth |  
+| bip_39_word_new_br3 | only<br>wealth<br>village |  
+| bip_39_word_new_br4 | only<br>wealth<br>village<br>rocket |  
+| bip_39_word_new_br5 | only<br>wealth<br>village<br>rocket<br>supreme |  
+| bip_39_word_new_br6 | only<br>wealth<br>village<br>rocket<br>supreme<br>element |  
+| bip_39_word_new_br7 | only<br>wealth<br>village<br>rocket<br>supreme<br>element<br>expire |  
+| bip_39_word_new_br8 | only<br>wealth<br>village<br>rocket<br>supreme<br>element<br>expire<br>kangaroo |  
+| bip_39_word_new_br9 | only<br>wealth<br>village<br>rocket<br>supreme<br>element<br>expire<br>kangaroo<br>tonight |  
+| bip_39_word_new_line1 | only |  
+| bip_39_word_new_line10 | only
+wealth
+village
+rocket
+supreme
+element
+expire
+kangaroo
+tonight
+exist |  
+| bip_39_word_new_line11 | only
+wealth
+village
+rocket
+supreme
+element
+expire
+kangaroo
+tonight
+exist
+jeans |  
+| bip_39_word_new_line12 | only
+wealth
+village
+rocket
+supreme
+element
+expire
+kangaroo
+tonight
+exist
+jeans
+album |  
+| bip_39_word_new_line2 | only
+wealth |  
+| bip_39_word_new_line3 | only
+wealth
+village |  
+| bip_39_word_new_line4 | only
+wealth
+village
+rocket |  
+| bip_39_word_new_line5 | only
+wealth
+village
+rocket
+supreme |  
+| bip_39_word_new_line6 | only
+wealth
+village
+rocket
+supreme
+element |  
+| bip_39_word_new_line7 | only
+wealth
+village
+rocket
+supreme
+element
+expire |  
+| bip_39_word_new_line8 | only
+wealth
+village
+rocket
+supreme
+element
+expire
+kangaroo |  
+| bip_39_word_new_line9 | only
+wealth
+village
+rocket
+supreme
+element
+expire
+kangaroo
+tonight |  
+| bip_39_word_space_0 | ['only', 'wealth', 'village', 'rocket', 'supreme', 'element', 'expire', 'kangaroo', 'tonight', 'exist', 'jeans', 'album'] |  
+| bip_39_word_space_1 | only |  
+| bip_39_word_space_10 | only wealth village rocket supreme element expire kangaroo tonight exist |  
+| bip_39_word_space_11 | only wealth village rocket supreme element expire kangaroo tonight exist jeans |  
+| bip_39_word_space_12 | only wealth village rocket supreme element expire kangaroo tonight exist jeans album |  
+| bip_39_word_space_2 | only wealth |  
+| bip_39_word_space_3 | only wealth village |  
+| bip_39_word_space_4 | only wealth village rocket |  
+| bip_39_word_space_5 | only wealth village rocket supreme |  
+| bip_39_word_space_6 | only wealth village rocket supreme element |  
+| bip_39_word_space_7 | only wealth village rocket supreme element expire |  
+| bip_39_word_space_8 | only wealth village rocket supreme element expire kangaroo |  
+| bip_39_word_space_9 | only wealth village rocket supreme element expire kangaroo tonight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

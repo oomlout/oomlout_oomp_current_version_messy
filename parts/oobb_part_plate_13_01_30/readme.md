@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grocery sibling
+  * bip 39 word 3: grocery sibling announce
+  * bip 39 word: grocery sibling announce hamster mimic all exercise ozone layer chat notable ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grocery |  
+| bip_39_word_new_br10 | grocery<br>sibling<br>announce<br>hamster<br>mimic<br>all<br>exercise<br>ozone<br>layer<br>chat |  
+| bip_39_word_new_br11 | grocery<br>sibling<br>announce<br>hamster<br>mimic<br>all<br>exercise<br>ozone<br>layer<br>chat<br>notable |  
+| bip_39_word_new_br12 | grocery<br>sibling<br>announce<br>hamster<br>mimic<br>all<br>exercise<br>ozone<br>layer<br>chat<br>notable<br>ankle |  
+| bip_39_word_new_br2 | grocery<br>sibling |  
+| bip_39_word_new_br3 | grocery<br>sibling<br>announce |  
+| bip_39_word_new_br4 | grocery<br>sibling<br>announce<br>hamster |  
+| bip_39_word_new_br5 | grocery<br>sibling<br>announce<br>hamster<br>mimic |  
+| bip_39_word_new_br6 | grocery<br>sibling<br>announce<br>hamster<br>mimic<br>all |  
+| bip_39_word_new_br7 | grocery<br>sibling<br>announce<br>hamster<br>mimic<br>all<br>exercise |  
+| bip_39_word_new_br8 | grocery<br>sibling<br>announce<br>hamster<br>mimic<br>all<br>exercise<br>ozone |  
+| bip_39_word_new_br9 | grocery<br>sibling<br>announce<br>hamster<br>mimic<br>all<br>exercise<br>ozone<br>layer |  
+| bip_39_word_new_line1 | grocery |  
+| bip_39_word_new_line10 | grocery
+sibling
+announce
+hamster
+mimic
+all
+exercise
+ozone
+layer
+chat |  
+| bip_39_word_new_line11 | grocery
+sibling
+announce
+hamster
+mimic
+all
+exercise
+ozone
+layer
+chat
+notable |  
+| bip_39_word_new_line12 | grocery
+sibling
+announce
+hamster
+mimic
+all
+exercise
+ozone
+layer
+chat
+notable
+ankle |  
+| bip_39_word_new_line2 | grocery
+sibling |  
+| bip_39_word_new_line3 | grocery
+sibling
+announce |  
+| bip_39_word_new_line4 | grocery
+sibling
+announce
+hamster |  
+| bip_39_word_new_line5 | grocery
+sibling
+announce
+hamster
+mimic |  
+| bip_39_word_new_line6 | grocery
+sibling
+announce
+hamster
+mimic
+all |  
+| bip_39_word_new_line7 | grocery
+sibling
+announce
+hamster
+mimic
+all
+exercise |  
+| bip_39_word_new_line8 | grocery
+sibling
+announce
+hamster
+mimic
+all
+exercise
+ozone |  
+| bip_39_word_new_line9 | grocery
+sibling
+announce
+hamster
+mimic
+all
+exercise
+ozone
+layer |  
+| bip_39_word_space_0 | ['grocery', 'sibling', 'announce', 'hamster', 'mimic', 'all', 'exercise', 'ozone', 'layer', 'chat', 'notable', 'ankle'] |  
+| bip_39_word_space_1 | grocery |  
+| bip_39_word_space_10 | grocery sibling announce hamster mimic all exercise ozone layer chat |  
+| bip_39_word_space_11 | grocery sibling announce hamster mimic all exercise ozone layer chat notable |  
+| bip_39_word_space_12 | grocery sibling announce hamster mimic all exercise ozone layer chat notable ankle |  
+| bip_39_word_space_2 | grocery sibling |  
+| bip_39_word_space_3 | grocery sibling announce |  
+| bip_39_word_space_4 | grocery sibling announce hamster |  
+| bip_39_word_space_5 | grocery sibling announce hamster mimic |  
+| bip_39_word_space_6 | grocery sibling announce hamster mimic all |  
+| bip_39_word_space_7 | grocery sibling announce hamster mimic all exercise |  
+| bip_39_word_space_8 | grocery sibling announce hamster mimic all exercise ozone |  
+| bip_39_word_space_9 | grocery sibling announce hamster mimic all exercise ozone layer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

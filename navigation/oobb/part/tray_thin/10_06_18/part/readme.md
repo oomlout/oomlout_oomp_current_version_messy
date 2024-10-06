@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: high general
+  * bip 39 word 3: high general kick
+  * bip 39 word: high general kick roof scheme six north license tragic prosper owner arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | high |  
+| bip_39_word_new_br10 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper |  
+| bip_39_word_new_br11 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper<br>owner |  
+| bip_39_word_new_br12 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic<br>prosper<br>owner<br>arch |  
+| bip_39_word_new_br2 | high<br>general |  
+| bip_39_word_new_br3 | high<br>general<br>kick |  
+| bip_39_word_new_br4 | high<br>general<br>kick<br>roof |  
+| bip_39_word_new_br5 | high<br>general<br>kick<br>roof<br>scheme |  
+| bip_39_word_new_br6 | high<br>general<br>kick<br>roof<br>scheme<br>six |  
+| bip_39_word_new_br7 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north |  
+| bip_39_word_new_br8 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license |  
+| bip_39_word_new_br9 | high<br>general<br>kick<br>roof<br>scheme<br>six<br>north<br>license<br>tragic |  
+| bip_39_word_new_line1 | high |  
+| bip_39_word_new_line10 | high
+general
+kick
+roof
+scheme
+six
+north
+license
+tragic
+prosper |  
+| bip_39_word_new_line11 | high
+general
+kick
+roof
+scheme
+six
+north
+license
+tragic
+prosper
+owner |  
+| bip_39_word_new_line12 | high
+general
+kick
+roof
+scheme
+six
+north
+license
+tragic
+prosper
+owner
+arch |  
+| bip_39_word_new_line2 | high
+general |  
+| bip_39_word_new_line3 | high
+general
+kick |  
+| bip_39_word_new_line4 | high
+general
+kick
+roof |  
+| bip_39_word_new_line5 | high
+general
+kick
+roof
+scheme |  
+| bip_39_word_new_line6 | high
+general
+kick
+roof
+scheme
+six |  
+| bip_39_word_new_line7 | high
+general
+kick
+roof
+scheme
+six
+north |  
+| bip_39_word_new_line8 | high
+general
+kick
+roof
+scheme
+six
+north
+license |  
+| bip_39_word_new_line9 | high
+general
+kick
+roof
+scheme
+six
+north
+license
+tragic |  
+| bip_39_word_space_0 | ['high', 'general', 'kick', 'roof', 'scheme', 'six', 'north', 'license', 'tragic', 'prosper', 'owner', 'arch'] |  
+| bip_39_word_space_1 | high |  
+| bip_39_word_space_10 | high general kick roof scheme six north license tragic prosper |  
+| bip_39_word_space_11 | high general kick roof scheme six north license tragic prosper owner |  
+| bip_39_word_space_12 | high general kick roof scheme six north license tragic prosper owner arch |  
+| bip_39_word_space_2 | high general |  
+| bip_39_word_space_3 | high general kick |  
+| bip_39_word_space_4 | high general kick roof |  
+| bip_39_word_space_5 | high general kick roof scheme |  
+| bip_39_word_space_6 | high general kick roof scheme six |  
+| bip_39_word_space_7 | high general kick roof scheme six north |  
+| bip_39_word_space_8 | high general kick roof scheme six north license |  
+| bip_39_word_space_9 | high general kick roof scheme six north license tragic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

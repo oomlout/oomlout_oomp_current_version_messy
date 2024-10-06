@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: protect edit
+  * bip 39 word 3: protect edit soap
+  * bip 39 word: protect edit soap moral other struggle bean soda vintage enter mass advice
 
 ### other_codes
 * short_code: sc4b40h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | protect |  
+| bip_39_word_new_br10 | protect<br>edit<br>soap<br>moral<br>other<br>struggle<br>bean<br>soda<br>vintage<br>enter |  
+| bip_39_word_new_br11 | protect<br>edit<br>soap<br>moral<br>other<br>struggle<br>bean<br>soda<br>vintage<br>enter<br>mass |  
+| bip_39_word_new_br12 | protect<br>edit<br>soap<br>moral<br>other<br>struggle<br>bean<br>soda<br>vintage<br>enter<br>mass<br>advice |  
+| bip_39_word_new_br2 | protect<br>edit |  
+| bip_39_word_new_br3 | protect<br>edit<br>soap |  
+| bip_39_word_new_br4 | protect<br>edit<br>soap<br>moral |  
+| bip_39_word_new_br5 | protect<br>edit<br>soap<br>moral<br>other |  
+| bip_39_word_new_br6 | protect<br>edit<br>soap<br>moral<br>other<br>struggle |  
+| bip_39_word_new_br7 | protect<br>edit<br>soap<br>moral<br>other<br>struggle<br>bean |  
+| bip_39_word_new_br8 | protect<br>edit<br>soap<br>moral<br>other<br>struggle<br>bean<br>soda |  
+| bip_39_word_new_br9 | protect<br>edit<br>soap<br>moral<br>other<br>struggle<br>bean<br>soda<br>vintage |  
+| bip_39_word_new_line1 | protect |  
+| bip_39_word_new_line10 | protect
+edit
+soap
+moral
+other
+struggle
+bean
+soda
+vintage
+enter |  
+| bip_39_word_new_line11 | protect
+edit
+soap
+moral
+other
+struggle
+bean
+soda
+vintage
+enter
+mass |  
+| bip_39_word_new_line12 | protect
+edit
+soap
+moral
+other
+struggle
+bean
+soda
+vintage
+enter
+mass
+advice |  
+| bip_39_word_new_line2 | protect
+edit |  
+| bip_39_word_new_line3 | protect
+edit
+soap |  
+| bip_39_word_new_line4 | protect
+edit
+soap
+moral |  
+| bip_39_word_new_line5 | protect
+edit
+soap
+moral
+other |  
+| bip_39_word_new_line6 | protect
+edit
+soap
+moral
+other
+struggle |  
+| bip_39_word_new_line7 | protect
+edit
+soap
+moral
+other
+struggle
+bean |  
+| bip_39_word_new_line8 | protect
+edit
+soap
+moral
+other
+struggle
+bean
+soda |  
+| bip_39_word_new_line9 | protect
+edit
+soap
+moral
+other
+struggle
+bean
+soda
+vintage |  
+| bip_39_word_space_0 | ['protect', 'edit', 'soap', 'moral', 'other', 'struggle', 'bean', 'soda', 'vintage', 'enter', 'mass', 'advice'] |  
+| bip_39_word_space_1 | protect |  
+| bip_39_word_space_10 | protect edit soap moral other struggle bean soda vintage enter |  
+| bip_39_word_space_11 | protect edit soap moral other struggle bean soda vintage enter mass |  
+| bip_39_word_space_12 | protect edit soap moral other struggle bean soda vintage enter mass advice |  
+| bip_39_word_space_2 | protect edit |  
+| bip_39_word_space_3 | protect edit soap |  
+| bip_39_word_space_4 | protect edit soap moral |  
+| bip_39_word_space_5 | protect edit soap moral other |  
+| bip_39_word_space_6 | protect edit soap moral other struggle |  
+| bip_39_word_space_7 | protect edit soap moral other struggle bean |  
+| bip_39_word_space_8 | protect edit soap moral other struggle bean soda |  
+| bip_39_word_space_9 | protect edit soap moral other struggle bean soda vintage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

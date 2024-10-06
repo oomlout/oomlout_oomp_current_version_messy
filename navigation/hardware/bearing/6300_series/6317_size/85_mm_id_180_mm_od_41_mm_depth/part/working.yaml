@@ -1,3 +1,186 @@
+bip_39_word_new_br1: long
+bip_39_word_new_br10: long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else
+bip_39_word_new_br11: long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else<br>section
+bip_39_word_new_br12: long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide<br>else<br>section<br>able
+bip_39_word_new_br2: long<br>elite
+bip_39_word_new_br3: long<br>elite<br>october
+bip_39_word_new_br4: long<br>elite<br>october<br>seven
+bip_39_word_new_br5: long<br>elite<br>october<br>seven<br>aisle
+bip_39_word_new_br6: long<br>elite<br>october<br>seven<br>aisle<br>elder
+bip_39_word_new_br7: long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag
+bip_39_word_new_br8: long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle
+bip_39_word_new_br9: long<br>elite<br>october<br>seven<br>aisle<br>elder<br>flag<br>recycle<br>tide
+bip_39_word_new_line1: long
+bip_39_word_new_line10: 'long
+
+  elite
+
+  october
+
+  seven
+
+  aisle
+
+  elder
+
+  flag
+
+  recycle
+
+  tide
+
+  else'
+bip_39_word_new_line11: 'long
+
+  elite
+
+  october
+
+  seven
+
+  aisle
+
+  elder
+
+  flag
+
+  recycle
+
+  tide
+
+  else
+
+  section'
+bip_39_word_new_line12: 'long
+
+  elite
+
+  october
+
+  seven
+
+  aisle
+
+  elder
+
+  flag
+
+  recycle
+
+  tide
+
+  else
+
+  section
+
+  able'
+bip_39_word_new_line2: 'long
+
+  elite'
+bip_39_word_new_line3: 'long
+
+  elite
+
+  october'
+bip_39_word_new_line4: 'long
+
+  elite
+
+  october
+
+  seven'
+bip_39_word_new_line5: 'long
+
+  elite
+
+  october
+
+  seven
+
+  aisle'
+bip_39_word_new_line6: 'long
+
+  elite
+
+  october
+
+  seven
+
+  aisle
+
+  elder'
+bip_39_word_new_line7: 'long
+
+  elite
+
+  october
+
+  seven
+
+  aisle
+
+  elder
+
+  flag'
+bip_39_word_new_line8: 'long
+
+  elite
+
+  october
+
+  seven
+
+  aisle
+
+  elder
+
+  flag
+
+  recycle'
+bip_39_word_new_line9: 'long
+
+  elite
+
+  october
+
+  seven
+
+  aisle
+
+  elder
+
+  flag
+
+  recycle
+
+  tide'
+bip_39_word_space_0:
+- long
+- elite
+- october
+- seven
+- aisle
+- elder
+- flag
+- recycle
+- tide
+- else
+- section
+- able
+bip_39_word_space_1: long
+bip_39_word_space_10: long elite october seven aisle elder flag recycle tide else
+bip_39_word_space_11: long elite october seven aisle elder flag recycle tide else
+  section
+bip_39_word_space_12: long elite october seven aisle elder flag recycle tide else
+  section able
+bip_39_word_space_2: long elite
+bip_39_word_space_3: long elite october
+bip_39_word_space_4: long elite october seven
+bip_39_word_space_5: long elite october seven aisle
+bip_39_word_space_6: long elite october seven aisle elder
+bip_39_word_space_7: long elite october seven aisle elder flag
+bip_39_word_space_8: long elite october seven aisle elder flag recycle
+bip_39_word_space_9: long elite october seven aisle elder flag recycle tide
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chief disorder
+  * bip 39 word 3: chief disorder hazard
+  * bip 39 word: chief disorder hazard film kitten scene universe muscle creek cash require airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chief |  
+| bip_39_word_new_br10 | chief<br>disorder<br>hazard<br>film<br>kitten<br>scene<br>universe<br>muscle<br>creek<br>cash |  
+| bip_39_word_new_br11 | chief<br>disorder<br>hazard<br>film<br>kitten<br>scene<br>universe<br>muscle<br>creek<br>cash<br>require |  
+| bip_39_word_new_br12 | chief<br>disorder<br>hazard<br>film<br>kitten<br>scene<br>universe<br>muscle<br>creek<br>cash<br>require<br>airport |  
+| bip_39_word_new_br2 | chief<br>disorder |  
+| bip_39_word_new_br3 | chief<br>disorder<br>hazard |  
+| bip_39_word_new_br4 | chief<br>disorder<br>hazard<br>film |  
+| bip_39_word_new_br5 | chief<br>disorder<br>hazard<br>film<br>kitten |  
+| bip_39_word_new_br6 | chief<br>disorder<br>hazard<br>film<br>kitten<br>scene |  
+| bip_39_word_new_br7 | chief<br>disorder<br>hazard<br>film<br>kitten<br>scene<br>universe |  
+| bip_39_word_new_br8 | chief<br>disorder<br>hazard<br>film<br>kitten<br>scene<br>universe<br>muscle |  
+| bip_39_word_new_br9 | chief<br>disorder<br>hazard<br>film<br>kitten<br>scene<br>universe<br>muscle<br>creek |  
+| bip_39_word_new_line1 | chief |  
+| bip_39_word_new_line10 | chief
+disorder
+hazard
+film
+kitten
+scene
+universe
+muscle
+creek
+cash |  
+| bip_39_word_new_line11 | chief
+disorder
+hazard
+film
+kitten
+scene
+universe
+muscle
+creek
+cash
+require |  
+| bip_39_word_new_line12 | chief
+disorder
+hazard
+film
+kitten
+scene
+universe
+muscle
+creek
+cash
+require
+airport |  
+| bip_39_word_new_line2 | chief
+disorder |  
+| bip_39_word_new_line3 | chief
+disorder
+hazard |  
+| bip_39_word_new_line4 | chief
+disorder
+hazard
+film |  
+| bip_39_word_new_line5 | chief
+disorder
+hazard
+film
+kitten |  
+| bip_39_word_new_line6 | chief
+disorder
+hazard
+film
+kitten
+scene |  
+| bip_39_word_new_line7 | chief
+disorder
+hazard
+film
+kitten
+scene
+universe |  
+| bip_39_word_new_line8 | chief
+disorder
+hazard
+film
+kitten
+scene
+universe
+muscle |  
+| bip_39_word_new_line9 | chief
+disorder
+hazard
+film
+kitten
+scene
+universe
+muscle
+creek |  
+| bip_39_word_space_0 | ['chief', 'disorder', 'hazard', 'film', 'kitten', 'scene', 'universe', 'muscle', 'creek', 'cash', 'require', 'airport'] |  
+| bip_39_word_space_1 | chief |  
+| bip_39_word_space_10 | chief disorder hazard film kitten scene universe muscle creek cash |  
+| bip_39_word_space_11 | chief disorder hazard film kitten scene universe muscle creek cash require |  
+| bip_39_word_space_12 | chief disorder hazard film kitten scene universe muscle creek cash require airport |  
+| bip_39_word_space_2 | chief disorder |  
+| bip_39_word_space_3 | chief disorder hazard |  
+| bip_39_word_space_4 | chief disorder hazard film |  
+| bip_39_word_space_5 | chief disorder hazard film kitten |  
+| bip_39_word_space_6 | chief disorder hazard film kitten scene |  
+| bip_39_word_space_7 | chief disorder hazard film kitten scene universe |  
+| bip_39_word_space_8 | chief disorder hazard film kitten scene universe muscle |  
+| bip_39_word_space_9 | chief disorder hazard film kitten scene universe muscle creek |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

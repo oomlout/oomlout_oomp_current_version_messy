@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: staff duck
+  * bip 39 word 3: staff duck reason
+  * bip 39 word: staff duck reason travel rival relax number make amount return deny arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | staff |  
+| bip_39_word_new_br10 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return |  
+| bip_39_word_new_br11 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return<br>deny |  
+| bip_39_word_new_br12 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount<br>return<br>deny<br>arch |  
+| bip_39_word_new_br2 | staff<br>duck |  
+| bip_39_word_new_br3 | staff<br>duck<br>reason |  
+| bip_39_word_new_br4 | staff<br>duck<br>reason<br>travel |  
+| bip_39_word_new_br5 | staff<br>duck<br>reason<br>travel<br>rival |  
+| bip_39_word_new_br6 | staff<br>duck<br>reason<br>travel<br>rival<br>relax |  
+| bip_39_word_new_br7 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number |  
+| bip_39_word_new_br8 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make |  
+| bip_39_word_new_br9 | staff<br>duck<br>reason<br>travel<br>rival<br>relax<br>number<br>make<br>amount |  
+| bip_39_word_new_line1 | staff |  
+| bip_39_word_new_line10 | staff
+duck
+reason
+travel
+rival
+relax
+number
+make
+amount
+return |  
+| bip_39_word_new_line11 | staff
+duck
+reason
+travel
+rival
+relax
+number
+make
+amount
+return
+deny |  
+| bip_39_word_new_line12 | staff
+duck
+reason
+travel
+rival
+relax
+number
+make
+amount
+return
+deny
+arch |  
+| bip_39_word_new_line2 | staff
+duck |  
+| bip_39_word_new_line3 | staff
+duck
+reason |  
+| bip_39_word_new_line4 | staff
+duck
+reason
+travel |  
+| bip_39_word_new_line5 | staff
+duck
+reason
+travel
+rival |  
+| bip_39_word_new_line6 | staff
+duck
+reason
+travel
+rival
+relax |  
+| bip_39_word_new_line7 | staff
+duck
+reason
+travel
+rival
+relax
+number |  
+| bip_39_word_new_line8 | staff
+duck
+reason
+travel
+rival
+relax
+number
+make |  
+| bip_39_word_new_line9 | staff
+duck
+reason
+travel
+rival
+relax
+number
+make
+amount |  
+| bip_39_word_space_0 | ['staff', 'duck', 'reason', 'travel', 'rival', 'relax', 'number', 'make', 'amount', 'return', 'deny', 'arch'] |  
+| bip_39_word_space_1 | staff |  
+| bip_39_word_space_10 | staff duck reason travel rival relax number make amount return |  
+| bip_39_word_space_11 | staff duck reason travel rival relax number make amount return deny |  
+| bip_39_word_space_12 | staff duck reason travel rival relax number make amount return deny arch |  
+| bip_39_word_space_2 | staff duck |  
+| bip_39_word_space_3 | staff duck reason |  
+| bip_39_word_space_4 | staff duck reason travel |  
+| bip_39_word_space_5 | staff duck reason travel rival |  
+| bip_39_word_space_6 | staff duck reason travel rival relax |  
+| bip_39_word_space_7 | staff duck reason travel rival relax number |  
+| bip_39_word_space_8 | staff duck reason travel rival relax number make |  
+| bip_39_word_space_9 | staff duck reason travel rival relax number make amount |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

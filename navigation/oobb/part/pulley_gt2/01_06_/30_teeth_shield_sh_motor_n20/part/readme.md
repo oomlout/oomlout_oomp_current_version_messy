@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: muffin word
+  * bip 39 word 3: muffin word announce
+  * bip 39 word: muffin word announce virus pottery miracle olive before drum fine accuse ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | muffin |  
+| bip_39_word_new_br10 | muffin<br>word<br>announce<br>virus<br>pottery<br>miracle<br>olive<br>before<br>drum<br>fine |  
+| bip_39_word_new_br11 | muffin<br>word<br>announce<br>virus<br>pottery<br>miracle<br>olive<br>before<br>drum<br>fine<br>accuse |  
+| bip_39_word_new_br12 | muffin<br>word<br>announce<br>virus<br>pottery<br>miracle<br>olive<br>before<br>drum<br>fine<br>accuse<br>ability |  
+| bip_39_word_new_br2 | muffin<br>word |  
+| bip_39_word_new_br3 | muffin<br>word<br>announce |  
+| bip_39_word_new_br4 | muffin<br>word<br>announce<br>virus |  
+| bip_39_word_new_br5 | muffin<br>word<br>announce<br>virus<br>pottery |  
+| bip_39_word_new_br6 | muffin<br>word<br>announce<br>virus<br>pottery<br>miracle |  
+| bip_39_word_new_br7 | muffin<br>word<br>announce<br>virus<br>pottery<br>miracle<br>olive |  
+| bip_39_word_new_br8 | muffin<br>word<br>announce<br>virus<br>pottery<br>miracle<br>olive<br>before |  
+| bip_39_word_new_br9 | muffin<br>word<br>announce<br>virus<br>pottery<br>miracle<br>olive<br>before<br>drum |  
+| bip_39_word_new_line1 | muffin |  
+| bip_39_word_new_line10 | muffin
+word
+announce
+virus
+pottery
+miracle
+olive
+before
+drum
+fine |  
+| bip_39_word_new_line11 | muffin
+word
+announce
+virus
+pottery
+miracle
+olive
+before
+drum
+fine
+accuse |  
+| bip_39_word_new_line12 | muffin
+word
+announce
+virus
+pottery
+miracle
+olive
+before
+drum
+fine
+accuse
+ability |  
+| bip_39_word_new_line2 | muffin
+word |  
+| bip_39_word_new_line3 | muffin
+word
+announce |  
+| bip_39_word_new_line4 | muffin
+word
+announce
+virus |  
+| bip_39_word_new_line5 | muffin
+word
+announce
+virus
+pottery |  
+| bip_39_word_new_line6 | muffin
+word
+announce
+virus
+pottery
+miracle |  
+| bip_39_word_new_line7 | muffin
+word
+announce
+virus
+pottery
+miracle
+olive |  
+| bip_39_word_new_line8 | muffin
+word
+announce
+virus
+pottery
+miracle
+olive
+before |  
+| bip_39_word_new_line9 | muffin
+word
+announce
+virus
+pottery
+miracle
+olive
+before
+drum |  
+| bip_39_word_space_0 | ['muffin', 'word', 'announce', 'virus', 'pottery', 'miracle', 'olive', 'before', 'drum', 'fine', 'accuse', 'ability'] |  
+| bip_39_word_space_1 | muffin |  
+| bip_39_word_space_10 | muffin word announce virus pottery miracle olive before drum fine |  
+| bip_39_word_space_11 | muffin word announce virus pottery miracle olive before drum fine accuse |  
+| bip_39_word_space_12 | muffin word announce virus pottery miracle olive before drum fine accuse ability |  
+| bip_39_word_space_2 | muffin word |  
+| bip_39_word_space_3 | muffin word announce |  
+| bip_39_word_space_4 | muffin word announce virus |  
+| bip_39_word_space_5 | muffin word announce virus pottery |  
+| bip_39_word_space_6 | muffin word announce virus pottery miracle |  
+| bip_39_word_space_7 | muffin word announce virus pottery miracle olive |  
+| bip_39_word_space_8 | muffin word announce virus pottery miracle olive before |  
+| bip_39_word_space_9 | muffin word announce virus pottery miracle olive before drum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

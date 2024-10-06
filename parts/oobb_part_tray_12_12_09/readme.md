@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swamp unveil
+  * bip 39 word 3: swamp unveil damage
+  * bip 39 word: swamp unveil damage tissue base car step better degree talk admit armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swamp |  
+| bip_39_word_new_br10 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car<br>step<br>better<br>degree<br>talk |  
+| bip_39_word_new_br11 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car<br>step<br>better<br>degree<br>talk<br>admit |  
+| bip_39_word_new_br12 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car<br>step<br>better<br>degree<br>talk<br>admit<br>armor |  
+| bip_39_word_new_br2 | swamp<br>unveil |  
+| bip_39_word_new_br3 | swamp<br>unveil<br>damage |  
+| bip_39_word_new_br4 | swamp<br>unveil<br>damage<br>tissue |  
+| bip_39_word_new_br5 | swamp<br>unveil<br>damage<br>tissue<br>base |  
+| bip_39_word_new_br6 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car |  
+| bip_39_word_new_br7 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car<br>step |  
+| bip_39_word_new_br8 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car<br>step<br>better |  
+| bip_39_word_new_br9 | swamp<br>unveil<br>damage<br>tissue<br>base<br>car<br>step<br>better<br>degree |  
+| bip_39_word_new_line1 | swamp |  
+| bip_39_word_new_line10 | swamp
+unveil
+damage
+tissue
+base
+car
+step
+better
+degree
+talk |  
+| bip_39_word_new_line11 | swamp
+unveil
+damage
+tissue
+base
+car
+step
+better
+degree
+talk
+admit |  
+| bip_39_word_new_line12 | swamp
+unveil
+damage
+tissue
+base
+car
+step
+better
+degree
+talk
+admit
+armor |  
+| bip_39_word_new_line2 | swamp
+unveil |  
+| bip_39_word_new_line3 | swamp
+unveil
+damage |  
+| bip_39_word_new_line4 | swamp
+unveil
+damage
+tissue |  
+| bip_39_word_new_line5 | swamp
+unveil
+damage
+tissue
+base |  
+| bip_39_word_new_line6 | swamp
+unveil
+damage
+tissue
+base
+car |  
+| bip_39_word_new_line7 | swamp
+unveil
+damage
+tissue
+base
+car
+step |  
+| bip_39_word_new_line8 | swamp
+unveil
+damage
+tissue
+base
+car
+step
+better |  
+| bip_39_word_new_line9 | swamp
+unveil
+damage
+tissue
+base
+car
+step
+better
+degree |  
+| bip_39_word_space_0 | ['swamp', 'unveil', 'damage', 'tissue', 'base', 'car', 'step', 'better', 'degree', 'talk', 'admit', 'armor'] |  
+| bip_39_word_space_1 | swamp |  
+| bip_39_word_space_10 | swamp unveil damage tissue base car step better degree talk |  
+| bip_39_word_space_11 | swamp unveil damage tissue base car step better degree talk admit |  
+| bip_39_word_space_12 | swamp unveil damage tissue base car step better degree talk admit armor |  
+| bip_39_word_space_2 | swamp unveil |  
+| bip_39_word_space_3 | swamp unveil damage |  
+| bip_39_word_space_4 | swamp unveil damage tissue |  
+| bip_39_word_space_5 | swamp unveil damage tissue base |  
+| bip_39_word_space_6 | swamp unveil damage tissue base car |  
+| bip_39_word_space_7 | swamp unveil damage tissue base car step |  
+| bip_39_word_space_8 | swamp unveil damage tissue base car step better |  
+| bip_39_word_space_9 | swamp unveil damage tissue base car step better degree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

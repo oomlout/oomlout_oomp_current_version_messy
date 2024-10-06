@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trumpet north
+  * bip 39 word 3: trumpet north negative
+  * bip 39 word: trumpet north negative they banner cabbage dose soup barrel reopen junk address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trumpet |  
+| bip_39_word_new_br10 | trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel<br>reopen |  
+| bip_39_word_new_br11 | trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel<br>reopen<br>junk |  
+| bip_39_word_new_br12 | trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel<br>reopen<br>junk<br>address |  
+| bip_39_word_new_br2 | trumpet<br>north |  
+| bip_39_word_new_br3 | trumpet<br>north<br>negative |  
+| bip_39_word_new_br4 | trumpet<br>north<br>negative<br>they |  
+| bip_39_word_new_br5 | trumpet<br>north<br>negative<br>they<br>banner |  
+| bip_39_word_new_br6 | trumpet<br>north<br>negative<br>they<br>banner<br>cabbage |  
+| bip_39_word_new_br7 | trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose |  
+| bip_39_word_new_br8 | trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup |  
+| bip_39_word_new_br9 | trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel |  
+| bip_39_word_new_line1 | trumpet |  
+| bip_39_word_new_line10 | trumpet
+north
+negative
+they
+banner
+cabbage
+dose
+soup
+barrel
+reopen |  
+| bip_39_word_new_line11 | trumpet
+north
+negative
+they
+banner
+cabbage
+dose
+soup
+barrel
+reopen
+junk |  
+| bip_39_word_new_line12 | trumpet
+north
+negative
+they
+banner
+cabbage
+dose
+soup
+barrel
+reopen
+junk
+address |  
+| bip_39_word_new_line2 | trumpet
+north |  
+| bip_39_word_new_line3 | trumpet
+north
+negative |  
+| bip_39_word_new_line4 | trumpet
+north
+negative
+they |  
+| bip_39_word_new_line5 | trumpet
+north
+negative
+they
+banner |  
+| bip_39_word_new_line6 | trumpet
+north
+negative
+they
+banner
+cabbage |  
+| bip_39_word_new_line7 | trumpet
+north
+negative
+they
+banner
+cabbage
+dose |  
+| bip_39_word_new_line8 | trumpet
+north
+negative
+they
+banner
+cabbage
+dose
+soup |  
+| bip_39_word_new_line9 | trumpet
+north
+negative
+they
+banner
+cabbage
+dose
+soup
+barrel |  
+| bip_39_word_space_0 | ['trumpet', 'north', 'negative', 'they', 'banner', 'cabbage', 'dose', 'soup', 'barrel', 'reopen', 'junk', 'address'] |  
+| bip_39_word_space_1 | trumpet |  
+| bip_39_word_space_10 | trumpet north negative they banner cabbage dose soup barrel reopen |  
+| bip_39_word_space_11 | trumpet north negative they banner cabbage dose soup barrel reopen junk |  
+| bip_39_word_space_12 | trumpet north negative they banner cabbage dose soup barrel reopen junk address |  
+| bip_39_word_space_2 | trumpet north |  
+| bip_39_word_space_3 | trumpet north negative |  
+| bip_39_word_space_4 | trumpet north negative they |  
+| bip_39_word_space_5 | trumpet north negative they banner |  
+| bip_39_word_space_6 | trumpet north negative they banner cabbage |  
+| bip_39_word_space_7 | trumpet north negative they banner cabbage dose |  
+| bip_39_word_space_8 | trumpet north negative they banner cabbage dose soup |  
+| bip_39_word_space_9 | trumpet north negative they banner cabbage dose soup barrel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: scare
+bip_39_word_new_br10: scare<br>wink<br>cost<br>push<br>empty<br>put<br>manage<br>boil<br>nation<br>melt
+bip_39_word_new_br11: scare<br>wink<br>cost<br>push<br>empty<br>put<br>manage<br>boil<br>nation<br>melt<br>foil
+bip_39_word_new_br12: scare<br>wink<br>cost<br>push<br>empty<br>put<br>manage<br>boil<br>nation<br>melt<br>foil<br>adapt
+bip_39_word_new_br2: scare<br>wink
+bip_39_word_new_br3: scare<br>wink<br>cost
+bip_39_word_new_br4: scare<br>wink<br>cost<br>push
+bip_39_word_new_br5: scare<br>wink<br>cost<br>push<br>empty
+bip_39_word_new_br6: scare<br>wink<br>cost<br>push<br>empty<br>put
+bip_39_word_new_br7: scare<br>wink<br>cost<br>push<br>empty<br>put<br>manage
+bip_39_word_new_br8: scare<br>wink<br>cost<br>push<br>empty<br>put<br>manage<br>boil
+bip_39_word_new_br9: scare<br>wink<br>cost<br>push<br>empty<br>put<br>manage<br>boil<br>nation
+bip_39_word_new_line1: scare
+bip_39_word_new_line10: 'scare
+
+  wink
+
+  cost
+
+  push
+
+  empty
+
+  put
+
+  manage
+
+  boil
+
+  nation
+
+  melt'
+bip_39_word_new_line11: 'scare
+
+  wink
+
+  cost
+
+  push
+
+  empty
+
+  put
+
+  manage
+
+  boil
+
+  nation
+
+  melt
+
+  foil'
+bip_39_word_new_line12: 'scare
+
+  wink
+
+  cost
+
+  push
+
+  empty
+
+  put
+
+  manage
+
+  boil
+
+  nation
+
+  melt
+
+  foil
+
+  adapt'
+bip_39_word_new_line2: 'scare
+
+  wink'
+bip_39_word_new_line3: 'scare
+
+  wink
+
+  cost'
+bip_39_word_new_line4: 'scare
+
+  wink
+
+  cost
+
+  push'
+bip_39_word_new_line5: 'scare
+
+  wink
+
+  cost
+
+  push
+
+  empty'
+bip_39_word_new_line6: 'scare
+
+  wink
+
+  cost
+
+  push
+
+  empty
+
+  put'
+bip_39_word_new_line7: 'scare
+
+  wink
+
+  cost
+
+  push
+
+  empty
+
+  put
+
+  manage'
+bip_39_word_new_line8: 'scare
+
+  wink
+
+  cost
+
+  push
+
+  empty
+
+  put
+
+  manage
+
+  boil'
+bip_39_word_new_line9: 'scare
+
+  wink
+
+  cost
+
+  push
+
+  empty
+
+  put
+
+  manage
+
+  boil
+
+  nation'
+bip_39_word_space_0:
+- scare
+- wink
+- cost
+- push
+- empty
+- put
+- manage
+- boil
+- nation
+- melt
+- foil
+- adapt
+bip_39_word_space_1: scare
+bip_39_word_space_10: scare wink cost push empty put manage boil nation melt
+bip_39_word_space_11: scare wink cost push empty put manage boil nation melt foil
+bip_39_word_space_12: scare wink cost push empty put manage boil nation melt foil
+  adapt
+bip_39_word_space_2: scare wink
+bip_39_word_space_3: scare wink cost
+bip_39_word_space_4: scare wink cost push
+bip_39_word_space_5: scare wink cost push empty
+bip_39_word_space_6: scare wink cost push empty put
+bip_39_word_space_7: scare wink cost push empty put manage
+bip_39_word_space_8: scare wink cost push empty put manage boil
+bip_39_word_space_9: scare wink cost push empty put manage boil nation
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

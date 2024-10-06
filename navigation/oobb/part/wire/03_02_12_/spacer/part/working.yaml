@@ -1,3 +1,186 @@
+bip_39_word_new_br1: young
+bip_39_word_new_br10: young<br>govern<br>below<br>immense<br>nut<br>rebuild<br>frown<br>member<br>this<br>call
+bip_39_word_new_br11: young<br>govern<br>below<br>immense<br>nut<br>rebuild<br>frown<br>member<br>this<br>call<br>guitar
+bip_39_word_new_br12: young<br>govern<br>below<br>immense<br>nut<br>rebuild<br>frown<br>member<br>this<br>call<br>guitar<br>accident
+bip_39_word_new_br2: young<br>govern
+bip_39_word_new_br3: young<br>govern<br>below
+bip_39_word_new_br4: young<br>govern<br>below<br>immense
+bip_39_word_new_br5: young<br>govern<br>below<br>immense<br>nut
+bip_39_word_new_br6: young<br>govern<br>below<br>immense<br>nut<br>rebuild
+bip_39_word_new_br7: young<br>govern<br>below<br>immense<br>nut<br>rebuild<br>frown
+bip_39_word_new_br8: young<br>govern<br>below<br>immense<br>nut<br>rebuild<br>frown<br>member
+bip_39_word_new_br9: young<br>govern<br>below<br>immense<br>nut<br>rebuild<br>frown<br>member<br>this
+bip_39_word_new_line1: young
+bip_39_word_new_line10: 'young
+
+  govern
+
+  below
+
+  immense
+
+  nut
+
+  rebuild
+
+  frown
+
+  member
+
+  this
+
+  call'
+bip_39_word_new_line11: 'young
+
+  govern
+
+  below
+
+  immense
+
+  nut
+
+  rebuild
+
+  frown
+
+  member
+
+  this
+
+  call
+
+  guitar'
+bip_39_word_new_line12: 'young
+
+  govern
+
+  below
+
+  immense
+
+  nut
+
+  rebuild
+
+  frown
+
+  member
+
+  this
+
+  call
+
+  guitar
+
+  accident'
+bip_39_word_new_line2: 'young
+
+  govern'
+bip_39_word_new_line3: 'young
+
+  govern
+
+  below'
+bip_39_word_new_line4: 'young
+
+  govern
+
+  below
+
+  immense'
+bip_39_word_new_line5: 'young
+
+  govern
+
+  below
+
+  immense
+
+  nut'
+bip_39_word_new_line6: 'young
+
+  govern
+
+  below
+
+  immense
+
+  nut
+
+  rebuild'
+bip_39_word_new_line7: 'young
+
+  govern
+
+  below
+
+  immense
+
+  nut
+
+  rebuild
+
+  frown'
+bip_39_word_new_line8: 'young
+
+  govern
+
+  below
+
+  immense
+
+  nut
+
+  rebuild
+
+  frown
+
+  member'
+bip_39_word_new_line9: 'young
+
+  govern
+
+  below
+
+  immense
+
+  nut
+
+  rebuild
+
+  frown
+
+  member
+
+  this'
+bip_39_word_space_0:
+- young
+- govern
+- below
+- immense
+- nut
+- rebuild
+- frown
+- member
+- this
+- call
+- guitar
+- accident
+bip_39_word_space_1: young
+bip_39_word_space_10: young govern below immense nut rebuild frown member this call
+bip_39_word_space_11: young govern below immense nut rebuild frown member this call
+  guitar
+bip_39_word_space_12: young govern below immense nut rebuild frown member this call
+  guitar accident
+bip_39_word_space_2: young govern
+bip_39_word_space_3: young govern below
+bip_39_word_space_4: young govern below immense
+bip_39_word_space_5: young govern below immense nut
+bip_39_word_space_6: young govern below immense nut rebuild
+bip_39_word_space_7: young govern below immense nut rebuild frown
+bip_39_word_space_8: young govern below immense nut rebuild frown member
+bip_39_word_space_9: young govern below immense nut rebuild frown member this
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

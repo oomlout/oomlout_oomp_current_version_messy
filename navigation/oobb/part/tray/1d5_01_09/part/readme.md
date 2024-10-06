@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: word surround
+  * bip 39 word 3: word surround move
+  * bip 39 word: word surround move effort know tell machine gap gorilla anchor project access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | word |  
+| bip_39_word_new_br10 | word<br>surround<br>move<br>effort<br>know<br>tell<br>machine<br>gap<br>gorilla<br>anchor |  
+| bip_39_word_new_br11 | word<br>surround<br>move<br>effort<br>know<br>tell<br>machine<br>gap<br>gorilla<br>anchor<br>project |  
+| bip_39_word_new_br12 | word<br>surround<br>move<br>effort<br>know<br>tell<br>machine<br>gap<br>gorilla<br>anchor<br>project<br>access |  
+| bip_39_word_new_br2 | word<br>surround |  
+| bip_39_word_new_br3 | word<br>surround<br>move |  
+| bip_39_word_new_br4 | word<br>surround<br>move<br>effort |  
+| bip_39_word_new_br5 | word<br>surround<br>move<br>effort<br>know |  
+| bip_39_word_new_br6 | word<br>surround<br>move<br>effort<br>know<br>tell |  
+| bip_39_word_new_br7 | word<br>surround<br>move<br>effort<br>know<br>tell<br>machine |  
+| bip_39_word_new_br8 | word<br>surround<br>move<br>effort<br>know<br>tell<br>machine<br>gap |  
+| bip_39_word_new_br9 | word<br>surround<br>move<br>effort<br>know<br>tell<br>machine<br>gap<br>gorilla |  
+| bip_39_word_new_line1 | word |  
+| bip_39_word_new_line10 | word
+surround
+move
+effort
+know
+tell
+machine
+gap
+gorilla
+anchor |  
+| bip_39_word_new_line11 | word
+surround
+move
+effort
+know
+tell
+machine
+gap
+gorilla
+anchor
+project |  
+| bip_39_word_new_line12 | word
+surround
+move
+effort
+know
+tell
+machine
+gap
+gorilla
+anchor
+project
+access |  
+| bip_39_word_new_line2 | word
+surround |  
+| bip_39_word_new_line3 | word
+surround
+move |  
+| bip_39_word_new_line4 | word
+surround
+move
+effort |  
+| bip_39_word_new_line5 | word
+surround
+move
+effort
+know |  
+| bip_39_word_new_line6 | word
+surround
+move
+effort
+know
+tell |  
+| bip_39_word_new_line7 | word
+surround
+move
+effort
+know
+tell
+machine |  
+| bip_39_word_new_line8 | word
+surround
+move
+effort
+know
+tell
+machine
+gap |  
+| bip_39_word_new_line9 | word
+surround
+move
+effort
+know
+tell
+machine
+gap
+gorilla |  
+| bip_39_word_space_0 | ['word', 'surround', 'move', 'effort', 'know', 'tell', 'machine', 'gap', 'gorilla', 'anchor', 'project', 'access'] |  
+| bip_39_word_space_1 | word |  
+| bip_39_word_space_10 | word surround move effort know tell machine gap gorilla anchor |  
+| bip_39_word_space_11 | word surround move effort know tell machine gap gorilla anchor project |  
+| bip_39_word_space_12 | word surround move effort know tell machine gap gorilla anchor project access |  
+| bip_39_word_space_2 | word surround |  
+| bip_39_word_space_3 | word surround move |  
+| bip_39_word_space_4 | word surround move effort |  
+| bip_39_word_space_5 | word surround move effort know |  
+| bip_39_word_space_6 | word surround move effort know tell |  
+| bip_39_word_space_7 | word surround move effort know tell machine |  
+| bip_39_word_space_8 | word surround move effort know tell machine gap |  
+| bip_39_word_space_9 | word surround move effort know tell machine gap gorilla |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

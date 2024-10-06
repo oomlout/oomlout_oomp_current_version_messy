@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: repair when
+  * bip 39 word 3: repair when member
+  * bip 39 word: repair when member beach lend fruit reunion resemble diesel day oppose acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | repair |  
+| bip_39_word_new_br10 | repair<br>when<br>member<br>beach<br>lend<br>fruit<br>reunion<br>resemble<br>diesel<br>day |  
+| bip_39_word_new_br11 | repair<br>when<br>member<br>beach<br>lend<br>fruit<br>reunion<br>resemble<br>diesel<br>day<br>oppose |  
+| bip_39_word_new_br12 | repair<br>when<br>member<br>beach<br>lend<br>fruit<br>reunion<br>resemble<br>diesel<br>day<br>oppose<br>acquire |  
+| bip_39_word_new_br2 | repair<br>when |  
+| bip_39_word_new_br3 | repair<br>when<br>member |  
+| bip_39_word_new_br4 | repair<br>when<br>member<br>beach |  
+| bip_39_word_new_br5 | repair<br>when<br>member<br>beach<br>lend |  
+| bip_39_word_new_br6 | repair<br>when<br>member<br>beach<br>lend<br>fruit |  
+| bip_39_word_new_br7 | repair<br>when<br>member<br>beach<br>lend<br>fruit<br>reunion |  
+| bip_39_word_new_br8 | repair<br>when<br>member<br>beach<br>lend<br>fruit<br>reunion<br>resemble |  
+| bip_39_word_new_br9 | repair<br>when<br>member<br>beach<br>lend<br>fruit<br>reunion<br>resemble<br>diesel |  
+| bip_39_word_new_line1 | repair |  
+| bip_39_word_new_line10 | repair
+when
+member
+beach
+lend
+fruit
+reunion
+resemble
+diesel
+day |  
+| bip_39_word_new_line11 | repair
+when
+member
+beach
+lend
+fruit
+reunion
+resemble
+diesel
+day
+oppose |  
+| bip_39_word_new_line12 | repair
+when
+member
+beach
+lend
+fruit
+reunion
+resemble
+diesel
+day
+oppose
+acquire |  
+| bip_39_word_new_line2 | repair
+when |  
+| bip_39_word_new_line3 | repair
+when
+member |  
+| bip_39_word_new_line4 | repair
+when
+member
+beach |  
+| bip_39_word_new_line5 | repair
+when
+member
+beach
+lend |  
+| bip_39_word_new_line6 | repair
+when
+member
+beach
+lend
+fruit |  
+| bip_39_word_new_line7 | repair
+when
+member
+beach
+lend
+fruit
+reunion |  
+| bip_39_word_new_line8 | repair
+when
+member
+beach
+lend
+fruit
+reunion
+resemble |  
+| bip_39_word_new_line9 | repair
+when
+member
+beach
+lend
+fruit
+reunion
+resemble
+diesel |  
+| bip_39_word_space_0 | ['repair', 'when', 'member', 'beach', 'lend', 'fruit', 'reunion', 'resemble', 'diesel', 'day', 'oppose', 'acquire'] |  
+| bip_39_word_space_1 | repair |  
+| bip_39_word_space_10 | repair when member beach lend fruit reunion resemble diesel day |  
+| bip_39_word_space_11 | repair when member beach lend fruit reunion resemble diesel day oppose |  
+| bip_39_word_space_12 | repair when member beach lend fruit reunion resemble diesel day oppose acquire |  
+| bip_39_word_space_2 | repair when |  
+| bip_39_word_space_3 | repair when member |  
+| bip_39_word_space_4 | repair when member beach |  
+| bip_39_word_space_5 | repair when member beach lend |  
+| bip_39_word_space_6 | repair when member beach lend fruit |  
+| bip_39_word_space_7 | repair when member beach lend fruit reunion |  
+| bip_39_word_space_8 | repair when member beach lend fruit reunion resemble |  
+| bip_39_word_space_9 | repair when member beach lend fruit reunion resemble diesel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

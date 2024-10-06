@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: recall what
+  * bip 39 word 3: recall what dice
+  * bip 39 word: recall what dice setup sound liar inhale exotic property air example argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | recall |  
+| bip_39_word_new_br10 | recall<br>what<br>dice<br>setup<br>sound<br>liar<br>inhale<br>exotic<br>property<br>air |  
+| bip_39_word_new_br11 | recall<br>what<br>dice<br>setup<br>sound<br>liar<br>inhale<br>exotic<br>property<br>air<br>example |  
+| bip_39_word_new_br12 | recall<br>what<br>dice<br>setup<br>sound<br>liar<br>inhale<br>exotic<br>property<br>air<br>example<br>argue |  
+| bip_39_word_new_br2 | recall<br>what |  
+| bip_39_word_new_br3 | recall<br>what<br>dice |  
+| bip_39_word_new_br4 | recall<br>what<br>dice<br>setup |  
+| bip_39_word_new_br5 | recall<br>what<br>dice<br>setup<br>sound |  
+| bip_39_word_new_br6 | recall<br>what<br>dice<br>setup<br>sound<br>liar |  
+| bip_39_word_new_br7 | recall<br>what<br>dice<br>setup<br>sound<br>liar<br>inhale |  
+| bip_39_word_new_br8 | recall<br>what<br>dice<br>setup<br>sound<br>liar<br>inhale<br>exotic |  
+| bip_39_word_new_br9 | recall<br>what<br>dice<br>setup<br>sound<br>liar<br>inhale<br>exotic<br>property |  
+| bip_39_word_new_line1 | recall |  
+| bip_39_word_new_line10 | recall
+what
+dice
+setup
+sound
+liar
+inhale
+exotic
+property
+air |  
+| bip_39_word_new_line11 | recall
+what
+dice
+setup
+sound
+liar
+inhale
+exotic
+property
+air
+example |  
+| bip_39_word_new_line12 | recall
+what
+dice
+setup
+sound
+liar
+inhale
+exotic
+property
+air
+example
+argue |  
+| bip_39_word_new_line2 | recall
+what |  
+| bip_39_word_new_line3 | recall
+what
+dice |  
+| bip_39_word_new_line4 | recall
+what
+dice
+setup |  
+| bip_39_word_new_line5 | recall
+what
+dice
+setup
+sound |  
+| bip_39_word_new_line6 | recall
+what
+dice
+setup
+sound
+liar |  
+| bip_39_word_new_line7 | recall
+what
+dice
+setup
+sound
+liar
+inhale |  
+| bip_39_word_new_line8 | recall
+what
+dice
+setup
+sound
+liar
+inhale
+exotic |  
+| bip_39_word_new_line9 | recall
+what
+dice
+setup
+sound
+liar
+inhale
+exotic
+property |  
+| bip_39_word_space_0 | ['recall', 'what', 'dice', 'setup', 'sound', 'liar', 'inhale', 'exotic', 'property', 'air', 'example', 'argue'] |  
+| bip_39_word_space_1 | recall |  
+| bip_39_word_space_10 | recall what dice setup sound liar inhale exotic property air |  
+| bip_39_word_space_11 | recall what dice setup sound liar inhale exotic property air example |  
+| bip_39_word_space_12 | recall what dice setup sound liar inhale exotic property air example argue |  
+| bip_39_word_space_2 | recall what |  
+| bip_39_word_space_3 | recall what dice |  
+| bip_39_word_space_4 | recall what dice setup |  
+| bip_39_word_space_5 | recall what dice setup sound |  
+| bip_39_word_space_6 | recall what dice setup sound liar |  
+| bip_39_word_space_7 | recall what dice setup sound liar inhale |  
+| bip_39_word_space_8 | recall what dice setup sound liar inhale exotic |  
+| bip_39_word_space_9 | recall what dice setup sound liar inhale exotic property |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

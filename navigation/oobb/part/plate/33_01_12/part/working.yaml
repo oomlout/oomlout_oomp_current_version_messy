@@ -1,3 +1,185 @@
+bip_39_word_new_br1: gold
+bip_39_word_new_br10: gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman
+bip_39_word_new_br11: gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman<br>dumb
+bip_39_word_new_br12: gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power<br>woman<br>dumb<br>artefact
+bip_39_word_new_br2: gold<br>rigid
+bip_39_word_new_br3: gold<br>rigid<br>pull
+bip_39_word_new_br4: gold<br>rigid<br>pull<br>cash
+bip_39_word_new_br5: gold<br>rigid<br>pull<br>cash<br>impact
+bip_39_word_new_br6: gold<br>rigid<br>pull<br>cash<br>impact<br>vapor
+bip_39_word_new_br7: gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch
+bip_39_word_new_br8: gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double
+bip_39_word_new_br9: gold<br>rigid<br>pull<br>cash<br>impact<br>vapor<br>inch<br>double<br>power
+bip_39_word_new_line1: gold
+bip_39_word_new_line10: 'gold
+
+  rigid
+
+  pull
+
+  cash
+
+  impact
+
+  vapor
+
+  inch
+
+  double
+
+  power
+
+  woman'
+bip_39_word_new_line11: 'gold
+
+  rigid
+
+  pull
+
+  cash
+
+  impact
+
+  vapor
+
+  inch
+
+  double
+
+  power
+
+  woman
+
+  dumb'
+bip_39_word_new_line12: 'gold
+
+  rigid
+
+  pull
+
+  cash
+
+  impact
+
+  vapor
+
+  inch
+
+  double
+
+  power
+
+  woman
+
+  dumb
+
+  artefact'
+bip_39_word_new_line2: 'gold
+
+  rigid'
+bip_39_word_new_line3: 'gold
+
+  rigid
+
+  pull'
+bip_39_word_new_line4: 'gold
+
+  rigid
+
+  pull
+
+  cash'
+bip_39_word_new_line5: 'gold
+
+  rigid
+
+  pull
+
+  cash
+
+  impact'
+bip_39_word_new_line6: 'gold
+
+  rigid
+
+  pull
+
+  cash
+
+  impact
+
+  vapor'
+bip_39_word_new_line7: 'gold
+
+  rigid
+
+  pull
+
+  cash
+
+  impact
+
+  vapor
+
+  inch'
+bip_39_word_new_line8: 'gold
+
+  rigid
+
+  pull
+
+  cash
+
+  impact
+
+  vapor
+
+  inch
+
+  double'
+bip_39_word_new_line9: 'gold
+
+  rigid
+
+  pull
+
+  cash
+
+  impact
+
+  vapor
+
+  inch
+
+  double
+
+  power'
+bip_39_word_space_0:
+- gold
+- rigid
+- pull
+- cash
+- impact
+- vapor
+- inch
+- double
+- power
+- woman
+- dumb
+- artefact
+bip_39_word_space_1: gold
+bip_39_word_space_10: gold rigid pull cash impact vapor inch double power woman
+bip_39_word_space_11: gold rigid pull cash impact vapor inch double power woman dumb
+bip_39_word_space_12: gold rigid pull cash impact vapor inch double power woman dumb
+  artefact
+bip_39_word_space_2: gold rigid
+bip_39_word_space_3: gold rigid pull
+bip_39_word_space_4: gold rigid pull cash
+bip_39_word_space_5: gold rigid pull cash impact
+bip_39_word_space_6: gold rigid pull cash impact vapor
+bip_39_word_space_7: gold rigid pull cash impact vapor inch
+bip_39_word_space_8: gold rigid pull cash impact vapor inch double
+bip_39_word_space_9: gold rigid pull cash impact vapor inch double power
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

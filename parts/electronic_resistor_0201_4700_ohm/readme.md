@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sting nominee
+  * bip 39 word 3: sting nominee civil
+  * bip 39 word: sting nominee civil simple nature conduct mom home unhappy finish gate absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sting |  
+| bip_39_word_new_br10 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct<br>mom<br>home<br>unhappy<br>finish |  
+| bip_39_word_new_br11 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct<br>mom<br>home<br>unhappy<br>finish<br>gate |  
+| bip_39_word_new_br12 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct<br>mom<br>home<br>unhappy<br>finish<br>gate<br>absorb |  
+| bip_39_word_new_br2 | sting<br>nominee |  
+| bip_39_word_new_br3 | sting<br>nominee<br>civil |  
+| bip_39_word_new_br4 | sting<br>nominee<br>civil<br>simple |  
+| bip_39_word_new_br5 | sting<br>nominee<br>civil<br>simple<br>nature |  
+| bip_39_word_new_br6 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct |  
+| bip_39_word_new_br7 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct<br>mom |  
+| bip_39_word_new_br8 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct<br>mom<br>home |  
+| bip_39_word_new_br9 | sting<br>nominee<br>civil<br>simple<br>nature<br>conduct<br>mom<br>home<br>unhappy |  
+| bip_39_word_new_line1 | sting |  
+| bip_39_word_new_line10 | sting
+nominee
+civil
+simple
+nature
+conduct
+mom
+home
+unhappy
+finish |  
+| bip_39_word_new_line11 | sting
+nominee
+civil
+simple
+nature
+conduct
+mom
+home
+unhappy
+finish
+gate |  
+| bip_39_word_new_line12 | sting
+nominee
+civil
+simple
+nature
+conduct
+mom
+home
+unhappy
+finish
+gate
+absorb |  
+| bip_39_word_new_line2 | sting
+nominee |  
+| bip_39_word_new_line3 | sting
+nominee
+civil |  
+| bip_39_word_new_line4 | sting
+nominee
+civil
+simple |  
+| bip_39_word_new_line5 | sting
+nominee
+civil
+simple
+nature |  
+| bip_39_word_new_line6 | sting
+nominee
+civil
+simple
+nature
+conduct |  
+| bip_39_word_new_line7 | sting
+nominee
+civil
+simple
+nature
+conduct
+mom |  
+| bip_39_word_new_line8 | sting
+nominee
+civil
+simple
+nature
+conduct
+mom
+home |  
+| bip_39_word_new_line9 | sting
+nominee
+civil
+simple
+nature
+conduct
+mom
+home
+unhappy |  
+| bip_39_word_space_0 | ['sting', 'nominee', 'civil', 'simple', 'nature', 'conduct', 'mom', 'home', 'unhappy', 'finish', 'gate', 'absorb'] |  
+| bip_39_word_space_1 | sting |  
+| bip_39_word_space_10 | sting nominee civil simple nature conduct mom home unhappy finish |  
+| bip_39_word_space_11 | sting nominee civil simple nature conduct mom home unhappy finish gate |  
+| bip_39_word_space_12 | sting nominee civil simple nature conduct mom home unhappy finish gate absorb |  
+| bip_39_word_space_2 | sting nominee |  
+| bip_39_word_space_3 | sting nominee civil |  
+| bip_39_word_space_4 | sting nominee civil simple |  
+| bip_39_word_space_5 | sting nominee civil simple nature |  
+| bip_39_word_space_6 | sting nominee civil simple nature conduct |  
+| bip_39_word_space_7 | sting nominee civil simple nature conduct mom |  
+| bip_39_word_space_8 | sting nominee civil simple nature conduct mom home |  
+| bip_39_word_space_9 | sting nominee civil simple nature conduct mom home unhappy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

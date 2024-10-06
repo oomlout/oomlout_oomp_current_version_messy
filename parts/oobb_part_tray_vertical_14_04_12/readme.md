@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: author wink
+  * bip 39 word 3: author wink surface
+  * bip 39 word: author wink surface inject snake course book mushroom alcohol salmon sort approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | author |  
+| bip_39_word_new_br10 | author<br>wink<br>surface<br>inject<br>snake<br>course<br>book<br>mushroom<br>alcohol<br>salmon |  
+| bip_39_word_new_br11 | author<br>wink<br>surface<br>inject<br>snake<br>course<br>book<br>mushroom<br>alcohol<br>salmon<br>sort |  
+| bip_39_word_new_br12 | author<br>wink<br>surface<br>inject<br>snake<br>course<br>book<br>mushroom<br>alcohol<br>salmon<br>sort<br>approve |  
+| bip_39_word_new_br2 | author<br>wink |  
+| bip_39_word_new_br3 | author<br>wink<br>surface |  
+| bip_39_word_new_br4 | author<br>wink<br>surface<br>inject |  
+| bip_39_word_new_br5 | author<br>wink<br>surface<br>inject<br>snake |  
+| bip_39_word_new_br6 | author<br>wink<br>surface<br>inject<br>snake<br>course |  
+| bip_39_word_new_br7 | author<br>wink<br>surface<br>inject<br>snake<br>course<br>book |  
+| bip_39_word_new_br8 | author<br>wink<br>surface<br>inject<br>snake<br>course<br>book<br>mushroom |  
+| bip_39_word_new_br9 | author<br>wink<br>surface<br>inject<br>snake<br>course<br>book<br>mushroom<br>alcohol |  
+| bip_39_word_new_line1 | author |  
+| bip_39_word_new_line10 | author
+wink
+surface
+inject
+snake
+course
+book
+mushroom
+alcohol
+salmon |  
+| bip_39_word_new_line11 | author
+wink
+surface
+inject
+snake
+course
+book
+mushroom
+alcohol
+salmon
+sort |  
+| bip_39_word_new_line12 | author
+wink
+surface
+inject
+snake
+course
+book
+mushroom
+alcohol
+salmon
+sort
+approve |  
+| bip_39_word_new_line2 | author
+wink |  
+| bip_39_word_new_line3 | author
+wink
+surface |  
+| bip_39_word_new_line4 | author
+wink
+surface
+inject |  
+| bip_39_word_new_line5 | author
+wink
+surface
+inject
+snake |  
+| bip_39_word_new_line6 | author
+wink
+surface
+inject
+snake
+course |  
+| bip_39_word_new_line7 | author
+wink
+surface
+inject
+snake
+course
+book |  
+| bip_39_word_new_line8 | author
+wink
+surface
+inject
+snake
+course
+book
+mushroom |  
+| bip_39_word_new_line9 | author
+wink
+surface
+inject
+snake
+course
+book
+mushroom
+alcohol |  
+| bip_39_word_space_0 | ['author', 'wink', 'surface', 'inject', 'snake', 'course', 'book', 'mushroom', 'alcohol', 'salmon', 'sort', 'approve'] |  
+| bip_39_word_space_1 | author |  
+| bip_39_word_space_10 | author wink surface inject snake course book mushroom alcohol salmon |  
+| bip_39_word_space_11 | author wink surface inject snake course book mushroom alcohol salmon sort |  
+| bip_39_word_space_12 | author wink surface inject snake course book mushroom alcohol salmon sort approve |  
+| bip_39_word_space_2 | author wink |  
+| bip_39_word_space_3 | author wink surface |  
+| bip_39_word_space_4 | author wink surface inject |  
+| bip_39_word_space_5 | author wink surface inject snake |  
+| bip_39_word_space_6 | author wink surface inject snake course |  
+| bip_39_word_space_7 | author wink surface inject snake course book |  
+| bip_39_word_space_8 | author wink surface inject snake course book mushroom |  
+| bip_39_word_space_9 | author wink surface inject snake course book mushroom alcohol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

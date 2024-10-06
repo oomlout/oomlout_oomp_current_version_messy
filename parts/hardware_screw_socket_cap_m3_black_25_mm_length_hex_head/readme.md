@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: acid sense
+  * bip 39 word 3: acid sense moment
+  * bip 39 word: acid sense moment angry basic waste embrace sunset orange quiz grass aerobic
 
 ### other_codes
 * short_code: sc3b25h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | acid |  
+| bip_39_word_new_br10 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz |  
+| bip_39_word_new_br11 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass |  
+| bip_39_word_new_br12 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass<br>aerobic |  
+| bip_39_word_new_br2 | acid<br>sense |  
+| bip_39_word_new_br3 | acid<br>sense<br>moment |  
+| bip_39_word_new_br4 | acid<br>sense<br>moment<br>angry |  
+| bip_39_word_new_br5 | acid<br>sense<br>moment<br>angry<br>basic |  
+| bip_39_word_new_br6 | acid<br>sense<br>moment<br>angry<br>basic<br>waste |  
+| bip_39_word_new_br7 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace |  
+| bip_39_word_new_br8 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset |  
+| bip_39_word_new_br9 | acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange |  
+| bip_39_word_new_line1 | acid |  
+| bip_39_word_new_line10 | acid
+sense
+moment
+angry
+basic
+waste
+embrace
+sunset
+orange
+quiz |  
+| bip_39_word_new_line11 | acid
+sense
+moment
+angry
+basic
+waste
+embrace
+sunset
+orange
+quiz
+grass |  
+| bip_39_word_new_line12 | acid
+sense
+moment
+angry
+basic
+waste
+embrace
+sunset
+orange
+quiz
+grass
+aerobic |  
+| bip_39_word_new_line2 | acid
+sense |  
+| bip_39_word_new_line3 | acid
+sense
+moment |  
+| bip_39_word_new_line4 | acid
+sense
+moment
+angry |  
+| bip_39_word_new_line5 | acid
+sense
+moment
+angry
+basic |  
+| bip_39_word_new_line6 | acid
+sense
+moment
+angry
+basic
+waste |  
+| bip_39_word_new_line7 | acid
+sense
+moment
+angry
+basic
+waste
+embrace |  
+| bip_39_word_new_line8 | acid
+sense
+moment
+angry
+basic
+waste
+embrace
+sunset |  
+| bip_39_word_new_line9 | acid
+sense
+moment
+angry
+basic
+waste
+embrace
+sunset
+orange |  
+| bip_39_word_space_0 | ['acid', 'sense', 'moment', 'angry', 'basic', 'waste', 'embrace', 'sunset', 'orange', 'quiz', 'grass', 'aerobic'] |  
+| bip_39_word_space_1 | acid |  
+| bip_39_word_space_10 | acid sense moment angry basic waste embrace sunset orange quiz |  
+| bip_39_word_space_11 | acid sense moment angry basic waste embrace sunset orange quiz grass |  
+| bip_39_word_space_12 | acid sense moment angry basic waste embrace sunset orange quiz grass aerobic |  
+| bip_39_word_space_2 | acid sense |  
+| bip_39_word_space_3 | acid sense moment |  
+| bip_39_word_space_4 | acid sense moment angry |  
+| bip_39_word_space_5 | acid sense moment angry basic |  
+| bip_39_word_space_6 | acid sense moment angry basic waste |  
+| bip_39_word_space_7 | acid sense moment angry basic waste embrace |  
+| bip_39_word_space_8 | acid sense moment angry basic waste embrace sunset |  
+| bip_39_word_space_9 | acid sense moment angry basic waste embrace sunset orange |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

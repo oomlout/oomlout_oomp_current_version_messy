@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: own humor
+  * bip 39 word 3: own humor mail
+  * bip 39 word: own humor mail truth tongue clay car submit royal concert select arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | own |  
+| bip_39_word_new_br10 | own<br>humor<br>mail<br>truth<br>tongue<br>clay<br>car<br>submit<br>royal<br>concert |  
+| bip_39_word_new_br11 | own<br>humor<br>mail<br>truth<br>tongue<br>clay<br>car<br>submit<br>royal<br>concert<br>select |  
+| bip_39_word_new_br12 | own<br>humor<br>mail<br>truth<br>tongue<br>clay<br>car<br>submit<br>royal<br>concert<br>select<br>arch |  
+| bip_39_word_new_br2 | own<br>humor |  
+| bip_39_word_new_br3 | own<br>humor<br>mail |  
+| bip_39_word_new_br4 | own<br>humor<br>mail<br>truth |  
+| bip_39_word_new_br5 | own<br>humor<br>mail<br>truth<br>tongue |  
+| bip_39_word_new_br6 | own<br>humor<br>mail<br>truth<br>tongue<br>clay |  
+| bip_39_word_new_br7 | own<br>humor<br>mail<br>truth<br>tongue<br>clay<br>car |  
+| bip_39_word_new_br8 | own<br>humor<br>mail<br>truth<br>tongue<br>clay<br>car<br>submit |  
+| bip_39_word_new_br9 | own<br>humor<br>mail<br>truth<br>tongue<br>clay<br>car<br>submit<br>royal |  
+| bip_39_word_new_line1 | own |  
+| bip_39_word_new_line10 | own
+humor
+mail
+truth
+tongue
+clay
+car
+submit
+royal
+concert |  
+| bip_39_word_new_line11 | own
+humor
+mail
+truth
+tongue
+clay
+car
+submit
+royal
+concert
+select |  
+| bip_39_word_new_line12 | own
+humor
+mail
+truth
+tongue
+clay
+car
+submit
+royal
+concert
+select
+arch |  
+| bip_39_word_new_line2 | own
+humor |  
+| bip_39_word_new_line3 | own
+humor
+mail |  
+| bip_39_word_new_line4 | own
+humor
+mail
+truth |  
+| bip_39_word_new_line5 | own
+humor
+mail
+truth
+tongue |  
+| bip_39_word_new_line6 | own
+humor
+mail
+truth
+tongue
+clay |  
+| bip_39_word_new_line7 | own
+humor
+mail
+truth
+tongue
+clay
+car |  
+| bip_39_word_new_line8 | own
+humor
+mail
+truth
+tongue
+clay
+car
+submit |  
+| bip_39_word_new_line9 | own
+humor
+mail
+truth
+tongue
+clay
+car
+submit
+royal |  
+| bip_39_word_space_0 | ['own', 'humor', 'mail', 'truth', 'tongue', 'clay', 'car', 'submit', 'royal', 'concert', 'select', 'arch'] |  
+| bip_39_word_space_1 | own |  
+| bip_39_word_space_10 | own humor mail truth tongue clay car submit royal concert |  
+| bip_39_word_space_11 | own humor mail truth tongue clay car submit royal concert select |  
+| bip_39_word_space_12 | own humor mail truth tongue clay car submit royal concert select arch |  
+| bip_39_word_space_2 | own humor |  
+| bip_39_word_space_3 | own humor mail |  
+| bip_39_word_space_4 | own humor mail truth |  
+| bip_39_word_space_5 | own humor mail truth tongue |  
+| bip_39_word_space_6 | own humor mail truth tongue clay |  
+| bip_39_word_space_7 | own humor mail truth tongue clay car |  
+| bip_39_word_space_8 | own humor mail truth tongue clay car submit |  
+| bip_39_word_space_9 | own humor mail truth tongue clay car submit royal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

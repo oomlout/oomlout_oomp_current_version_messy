@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feed rhythm
+  * bip 39 word 3: feed rhythm peanut
+  * bip 39 word: feed rhythm peanut fever teach glare argue filter buffalo trouble innocent again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feed |  
+| bip_39_word_new_br10 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare<br>argue<br>filter<br>buffalo<br>trouble |  
+| bip_39_word_new_br11 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare<br>argue<br>filter<br>buffalo<br>trouble<br>innocent |  
+| bip_39_word_new_br12 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare<br>argue<br>filter<br>buffalo<br>trouble<br>innocent<br>again |  
+| bip_39_word_new_br2 | feed<br>rhythm |  
+| bip_39_word_new_br3 | feed<br>rhythm<br>peanut |  
+| bip_39_word_new_br4 | feed<br>rhythm<br>peanut<br>fever |  
+| bip_39_word_new_br5 | feed<br>rhythm<br>peanut<br>fever<br>teach |  
+| bip_39_word_new_br6 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare |  
+| bip_39_word_new_br7 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare<br>argue |  
+| bip_39_word_new_br8 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare<br>argue<br>filter |  
+| bip_39_word_new_br9 | feed<br>rhythm<br>peanut<br>fever<br>teach<br>glare<br>argue<br>filter<br>buffalo |  
+| bip_39_word_new_line1 | feed |  
+| bip_39_word_new_line10 | feed
+rhythm
+peanut
+fever
+teach
+glare
+argue
+filter
+buffalo
+trouble |  
+| bip_39_word_new_line11 | feed
+rhythm
+peanut
+fever
+teach
+glare
+argue
+filter
+buffalo
+trouble
+innocent |  
+| bip_39_word_new_line12 | feed
+rhythm
+peanut
+fever
+teach
+glare
+argue
+filter
+buffalo
+trouble
+innocent
+again |  
+| bip_39_word_new_line2 | feed
+rhythm |  
+| bip_39_word_new_line3 | feed
+rhythm
+peanut |  
+| bip_39_word_new_line4 | feed
+rhythm
+peanut
+fever |  
+| bip_39_word_new_line5 | feed
+rhythm
+peanut
+fever
+teach |  
+| bip_39_word_new_line6 | feed
+rhythm
+peanut
+fever
+teach
+glare |  
+| bip_39_word_new_line7 | feed
+rhythm
+peanut
+fever
+teach
+glare
+argue |  
+| bip_39_word_new_line8 | feed
+rhythm
+peanut
+fever
+teach
+glare
+argue
+filter |  
+| bip_39_word_new_line9 | feed
+rhythm
+peanut
+fever
+teach
+glare
+argue
+filter
+buffalo |  
+| bip_39_word_space_0 | ['feed', 'rhythm', 'peanut', 'fever', 'teach', 'glare', 'argue', 'filter', 'buffalo', 'trouble', 'innocent', 'again'] |  
+| bip_39_word_space_1 | feed |  
+| bip_39_word_space_10 | feed rhythm peanut fever teach glare argue filter buffalo trouble |  
+| bip_39_word_space_11 | feed rhythm peanut fever teach glare argue filter buffalo trouble innocent |  
+| bip_39_word_space_12 | feed rhythm peanut fever teach glare argue filter buffalo trouble innocent again |  
+| bip_39_word_space_2 | feed rhythm |  
+| bip_39_word_space_3 | feed rhythm peanut |  
+| bip_39_word_space_4 | feed rhythm peanut fever |  
+| bip_39_word_space_5 | feed rhythm peanut fever teach |  
+| bip_39_word_space_6 | feed rhythm peanut fever teach glare |  
+| bip_39_word_space_7 | feed rhythm peanut fever teach glare argue |  
+| bip_39_word_space_8 | feed rhythm peanut fever teach glare argue filter |  
+| bip_39_word_space_9 | feed rhythm peanut fever teach glare argue filter buffalo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shrimp gown
+  * bip 39 word 3: shrimp gown veteran
+  * bip 39 word: shrimp gown veteran album rival romance differ fire come someone under antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shrimp |  
+| bip_39_word_new_br10 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance<br>differ<br>fire<br>come<br>someone |  
+| bip_39_word_new_br11 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance<br>differ<br>fire<br>come<br>someone<br>under |  
+| bip_39_word_new_br12 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance<br>differ<br>fire<br>come<br>someone<br>under<br>antique |  
+| bip_39_word_new_br2 | shrimp<br>gown |  
+| bip_39_word_new_br3 | shrimp<br>gown<br>veteran |  
+| bip_39_word_new_br4 | shrimp<br>gown<br>veteran<br>album |  
+| bip_39_word_new_br5 | shrimp<br>gown<br>veteran<br>album<br>rival |  
+| bip_39_word_new_br6 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance |  
+| bip_39_word_new_br7 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance<br>differ |  
+| bip_39_word_new_br8 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance<br>differ<br>fire |  
+| bip_39_word_new_br9 | shrimp<br>gown<br>veteran<br>album<br>rival<br>romance<br>differ<br>fire<br>come |  
+| bip_39_word_new_line1 | shrimp |  
+| bip_39_word_new_line10 | shrimp
+gown
+veteran
+album
+rival
+romance
+differ
+fire
+come
+someone |  
+| bip_39_word_new_line11 | shrimp
+gown
+veteran
+album
+rival
+romance
+differ
+fire
+come
+someone
+under |  
+| bip_39_word_new_line12 | shrimp
+gown
+veteran
+album
+rival
+romance
+differ
+fire
+come
+someone
+under
+antique |  
+| bip_39_word_new_line2 | shrimp
+gown |  
+| bip_39_word_new_line3 | shrimp
+gown
+veteran |  
+| bip_39_word_new_line4 | shrimp
+gown
+veteran
+album |  
+| bip_39_word_new_line5 | shrimp
+gown
+veteran
+album
+rival |  
+| bip_39_word_new_line6 | shrimp
+gown
+veteran
+album
+rival
+romance |  
+| bip_39_word_new_line7 | shrimp
+gown
+veteran
+album
+rival
+romance
+differ |  
+| bip_39_word_new_line8 | shrimp
+gown
+veteran
+album
+rival
+romance
+differ
+fire |  
+| bip_39_word_new_line9 | shrimp
+gown
+veteran
+album
+rival
+romance
+differ
+fire
+come |  
+| bip_39_word_space_0 | ['shrimp', 'gown', 'veteran', 'album', 'rival', 'romance', 'differ', 'fire', 'come', 'someone', 'under', 'antique'] |  
+| bip_39_word_space_1 | shrimp |  
+| bip_39_word_space_10 | shrimp gown veteran album rival romance differ fire come someone |  
+| bip_39_word_space_11 | shrimp gown veteran album rival romance differ fire come someone under |  
+| bip_39_word_space_12 | shrimp gown veteran album rival romance differ fire come someone under antique |  
+| bip_39_word_space_2 | shrimp gown |  
+| bip_39_word_space_3 | shrimp gown veteran |  
+| bip_39_word_space_4 | shrimp gown veteran album |  
+| bip_39_word_space_5 | shrimp gown veteran album rival |  
+| bip_39_word_space_6 | shrimp gown veteran album rival romance |  
+| bip_39_word_space_7 | shrimp gown veteran album rival romance differ |  
+| bip_39_word_space_8 | shrimp gown veteran album rival romance differ fire |  
+| bip_39_word_space_9 | shrimp gown veteran album rival romance differ fire come |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

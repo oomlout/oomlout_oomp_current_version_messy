@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: milk cereal
+  * bip 39 word 3: milk cereal want
+  * bip 39 word: milk cereal want few social pioneer also oxygen found reduce sniff above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | milk |  
+| bip_39_word_new_br10 | milk<br>cereal<br>want<br>few<br>social<br>pioneer<br>also<br>oxygen<br>found<br>reduce |  
+| bip_39_word_new_br11 | milk<br>cereal<br>want<br>few<br>social<br>pioneer<br>also<br>oxygen<br>found<br>reduce<br>sniff |  
+| bip_39_word_new_br12 | milk<br>cereal<br>want<br>few<br>social<br>pioneer<br>also<br>oxygen<br>found<br>reduce<br>sniff<br>above |  
+| bip_39_word_new_br2 | milk<br>cereal |  
+| bip_39_word_new_br3 | milk<br>cereal<br>want |  
+| bip_39_word_new_br4 | milk<br>cereal<br>want<br>few |  
+| bip_39_word_new_br5 | milk<br>cereal<br>want<br>few<br>social |  
+| bip_39_word_new_br6 | milk<br>cereal<br>want<br>few<br>social<br>pioneer |  
+| bip_39_word_new_br7 | milk<br>cereal<br>want<br>few<br>social<br>pioneer<br>also |  
+| bip_39_word_new_br8 | milk<br>cereal<br>want<br>few<br>social<br>pioneer<br>also<br>oxygen |  
+| bip_39_word_new_br9 | milk<br>cereal<br>want<br>few<br>social<br>pioneer<br>also<br>oxygen<br>found |  
+| bip_39_word_new_line1 | milk |  
+| bip_39_word_new_line10 | milk
+cereal
+want
+few
+social
+pioneer
+also
+oxygen
+found
+reduce |  
+| bip_39_word_new_line11 | milk
+cereal
+want
+few
+social
+pioneer
+also
+oxygen
+found
+reduce
+sniff |  
+| bip_39_word_new_line12 | milk
+cereal
+want
+few
+social
+pioneer
+also
+oxygen
+found
+reduce
+sniff
+above |  
+| bip_39_word_new_line2 | milk
+cereal |  
+| bip_39_word_new_line3 | milk
+cereal
+want |  
+| bip_39_word_new_line4 | milk
+cereal
+want
+few |  
+| bip_39_word_new_line5 | milk
+cereal
+want
+few
+social |  
+| bip_39_word_new_line6 | milk
+cereal
+want
+few
+social
+pioneer |  
+| bip_39_word_new_line7 | milk
+cereal
+want
+few
+social
+pioneer
+also |  
+| bip_39_word_new_line8 | milk
+cereal
+want
+few
+social
+pioneer
+also
+oxygen |  
+| bip_39_word_new_line9 | milk
+cereal
+want
+few
+social
+pioneer
+also
+oxygen
+found |  
+| bip_39_word_space_0 | ['milk', 'cereal', 'want', 'few', 'social', 'pioneer', 'also', 'oxygen', 'found', 'reduce', 'sniff', 'above'] |  
+| bip_39_word_space_1 | milk |  
+| bip_39_word_space_10 | milk cereal want few social pioneer also oxygen found reduce |  
+| bip_39_word_space_11 | milk cereal want few social pioneer also oxygen found reduce sniff |  
+| bip_39_word_space_12 | milk cereal want few social pioneer also oxygen found reduce sniff above |  
+| bip_39_word_space_2 | milk cereal |  
+| bip_39_word_space_3 | milk cereal want |  
+| bip_39_word_space_4 | milk cereal want few |  
+| bip_39_word_space_5 | milk cereal want few social |  
+| bip_39_word_space_6 | milk cereal want few social pioneer |  
+| bip_39_word_space_7 | milk cereal want few social pioneer also |  
+| bip_39_word_space_8 | milk cereal want few social pioneer also oxygen |  
+| bip_39_word_space_9 | milk cereal want few social pioneer also oxygen found |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

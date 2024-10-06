@@ -1,3 +1,186 @@
+bip_39_word_new_br1: awake
+bip_39_word_new_br10: awake<br>play<br>hotel<br>crash<br>best<br>genuine<br>police<br>depart<br>mercy<br>vault
+bip_39_word_new_br11: awake<br>play<br>hotel<br>crash<br>best<br>genuine<br>police<br>depart<br>mercy<br>vault<br>girl
+bip_39_word_new_br12: awake<br>play<br>hotel<br>crash<br>best<br>genuine<br>police<br>depart<br>mercy<br>vault<br>girl<br>arm
+bip_39_word_new_br2: awake<br>play
+bip_39_word_new_br3: awake<br>play<br>hotel
+bip_39_word_new_br4: awake<br>play<br>hotel<br>crash
+bip_39_word_new_br5: awake<br>play<br>hotel<br>crash<br>best
+bip_39_word_new_br6: awake<br>play<br>hotel<br>crash<br>best<br>genuine
+bip_39_word_new_br7: awake<br>play<br>hotel<br>crash<br>best<br>genuine<br>police
+bip_39_word_new_br8: awake<br>play<br>hotel<br>crash<br>best<br>genuine<br>police<br>depart
+bip_39_word_new_br9: awake<br>play<br>hotel<br>crash<br>best<br>genuine<br>police<br>depart<br>mercy
+bip_39_word_new_line1: awake
+bip_39_word_new_line10: 'awake
+
+  play
+
+  hotel
+
+  crash
+
+  best
+
+  genuine
+
+  police
+
+  depart
+
+  mercy
+
+  vault'
+bip_39_word_new_line11: 'awake
+
+  play
+
+  hotel
+
+  crash
+
+  best
+
+  genuine
+
+  police
+
+  depart
+
+  mercy
+
+  vault
+
+  girl'
+bip_39_word_new_line12: 'awake
+
+  play
+
+  hotel
+
+  crash
+
+  best
+
+  genuine
+
+  police
+
+  depart
+
+  mercy
+
+  vault
+
+  girl
+
+  arm'
+bip_39_word_new_line2: 'awake
+
+  play'
+bip_39_word_new_line3: 'awake
+
+  play
+
+  hotel'
+bip_39_word_new_line4: 'awake
+
+  play
+
+  hotel
+
+  crash'
+bip_39_word_new_line5: 'awake
+
+  play
+
+  hotel
+
+  crash
+
+  best'
+bip_39_word_new_line6: 'awake
+
+  play
+
+  hotel
+
+  crash
+
+  best
+
+  genuine'
+bip_39_word_new_line7: 'awake
+
+  play
+
+  hotel
+
+  crash
+
+  best
+
+  genuine
+
+  police'
+bip_39_word_new_line8: 'awake
+
+  play
+
+  hotel
+
+  crash
+
+  best
+
+  genuine
+
+  police
+
+  depart'
+bip_39_word_new_line9: 'awake
+
+  play
+
+  hotel
+
+  crash
+
+  best
+
+  genuine
+
+  police
+
+  depart
+
+  mercy'
+bip_39_word_space_0:
+- awake
+- play
+- hotel
+- crash
+- best
+- genuine
+- police
+- depart
+- mercy
+- vault
+- girl
+- arm
+bip_39_word_space_1: awake
+bip_39_word_space_10: awake play hotel crash best genuine police depart mercy vault
+bip_39_word_space_11: awake play hotel crash best genuine police depart mercy vault
+  girl
+bip_39_word_space_12: awake play hotel crash best genuine police depart mercy vault
+  girl arm
+bip_39_word_space_2: awake play
+bip_39_word_space_3: awake play hotel
+bip_39_word_space_4: awake play hotel crash
+bip_39_word_space_5: awake play hotel crash best
+bip_39_word_space_6: awake play hotel crash best genuine
+bip_39_word_space_7: awake play hotel crash best genuine police
+bip_39_word_space_8: awake play hotel crash best genuine police depart
+bip_39_word_space_9: awake play hotel crash best genuine police depart mercy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

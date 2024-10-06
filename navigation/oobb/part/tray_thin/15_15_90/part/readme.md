@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: car noise
+  * bip 39 word 3: car noise season
+  * bip 39 word: car noise season name dizzy poem meat cause pill lonely metal attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | car |  
+| bip_39_word_new_br10 | car<br>noise<br>season<br>name<br>dizzy<br>poem<br>meat<br>cause<br>pill<br>lonely |  
+| bip_39_word_new_br11 | car<br>noise<br>season<br>name<br>dizzy<br>poem<br>meat<br>cause<br>pill<br>lonely<br>metal |  
+| bip_39_word_new_br12 | car<br>noise<br>season<br>name<br>dizzy<br>poem<br>meat<br>cause<br>pill<br>lonely<br>metal<br>attitude |  
+| bip_39_word_new_br2 | car<br>noise |  
+| bip_39_word_new_br3 | car<br>noise<br>season |  
+| bip_39_word_new_br4 | car<br>noise<br>season<br>name |  
+| bip_39_word_new_br5 | car<br>noise<br>season<br>name<br>dizzy |  
+| bip_39_word_new_br6 | car<br>noise<br>season<br>name<br>dizzy<br>poem |  
+| bip_39_word_new_br7 | car<br>noise<br>season<br>name<br>dizzy<br>poem<br>meat |  
+| bip_39_word_new_br8 | car<br>noise<br>season<br>name<br>dizzy<br>poem<br>meat<br>cause |  
+| bip_39_word_new_br9 | car<br>noise<br>season<br>name<br>dizzy<br>poem<br>meat<br>cause<br>pill |  
+| bip_39_word_new_line1 | car |  
+| bip_39_word_new_line10 | car
+noise
+season
+name
+dizzy
+poem
+meat
+cause
+pill
+lonely |  
+| bip_39_word_new_line11 | car
+noise
+season
+name
+dizzy
+poem
+meat
+cause
+pill
+lonely
+metal |  
+| bip_39_word_new_line12 | car
+noise
+season
+name
+dizzy
+poem
+meat
+cause
+pill
+lonely
+metal
+attitude |  
+| bip_39_word_new_line2 | car
+noise |  
+| bip_39_word_new_line3 | car
+noise
+season |  
+| bip_39_word_new_line4 | car
+noise
+season
+name |  
+| bip_39_word_new_line5 | car
+noise
+season
+name
+dizzy |  
+| bip_39_word_new_line6 | car
+noise
+season
+name
+dizzy
+poem |  
+| bip_39_word_new_line7 | car
+noise
+season
+name
+dizzy
+poem
+meat |  
+| bip_39_word_new_line8 | car
+noise
+season
+name
+dizzy
+poem
+meat
+cause |  
+| bip_39_word_new_line9 | car
+noise
+season
+name
+dizzy
+poem
+meat
+cause
+pill |  
+| bip_39_word_space_0 | ['car', 'noise', 'season', 'name', 'dizzy', 'poem', 'meat', 'cause', 'pill', 'lonely', 'metal', 'attitude'] |  
+| bip_39_word_space_1 | car |  
+| bip_39_word_space_10 | car noise season name dizzy poem meat cause pill lonely |  
+| bip_39_word_space_11 | car noise season name dizzy poem meat cause pill lonely metal |  
+| bip_39_word_space_12 | car noise season name dizzy poem meat cause pill lonely metal attitude |  
+| bip_39_word_space_2 | car noise |  
+| bip_39_word_space_3 | car noise season |  
+| bip_39_word_space_4 | car noise season name |  
+| bip_39_word_space_5 | car noise season name dizzy |  
+| bip_39_word_space_6 | car noise season name dizzy poem |  
+| bip_39_word_space_7 | car noise season name dizzy poem meat |  
+| bip_39_word_space_8 | car noise season name dizzy poem meat cause |  
+| bip_39_word_space_9 | car noise season name dizzy poem meat cause pill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

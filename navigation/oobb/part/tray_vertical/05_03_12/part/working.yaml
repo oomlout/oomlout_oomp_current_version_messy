@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ask
+bip_39_word_new_br10: ask<br>position<br>peanut<br>nose<br>hip<br>crucial<br>assault<br>sweet<br>solid<br>guide
+bip_39_word_new_br11: ask<br>position<br>peanut<br>nose<br>hip<br>crucial<br>assault<br>sweet<br>solid<br>guide<br>found
+bip_39_word_new_br12: ask<br>position<br>peanut<br>nose<br>hip<br>crucial<br>assault<br>sweet<br>solid<br>guide<br>found<br>airport
+bip_39_word_new_br2: ask<br>position
+bip_39_word_new_br3: ask<br>position<br>peanut
+bip_39_word_new_br4: ask<br>position<br>peanut<br>nose
+bip_39_word_new_br5: ask<br>position<br>peanut<br>nose<br>hip
+bip_39_word_new_br6: ask<br>position<br>peanut<br>nose<br>hip<br>crucial
+bip_39_word_new_br7: ask<br>position<br>peanut<br>nose<br>hip<br>crucial<br>assault
+bip_39_word_new_br8: ask<br>position<br>peanut<br>nose<br>hip<br>crucial<br>assault<br>sweet
+bip_39_word_new_br9: ask<br>position<br>peanut<br>nose<br>hip<br>crucial<br>assault<br>sweet<br>solid
+bip_39_word_new_line1: ask
+bip_39_word_new_line10: 'ask
+
+  position
+
+  peanut
+
+  nose
+
+  hip
+
+  crucial
+
+  assault
+
+  sweet
+
+  solid
+
+  guide'
+bip_39_word_new_line11: 'ask
+
+  position
+
+  peanut
+
+  nose
+
+  hip
+
+  crucial
+
+  assault
+
+  sweet
+
+  solid
+
+  guide
+
+  found'
+bip_39_word_new_line12: 'ask
+
+  position
+
+  peanut
+
+  nose
+
+  hip
+
+  crucial
+
+  assault
+
+  sweet
+
+  solid
+
+  guide
+
+  found
+
+  airport'
+bip_39_word_new_line2: 'ask
+
+  position'
+bip_39_word_new_line3: 'ask
+
+  position
+
+  peanut'
+bip_39_word_new_line4: 'ask
+
+  position
+
+  peanut
+
+  nose'
+bip_39_word_new_line5: 'ask
+
+  position
+
+  peanut
+
+  nose
+
+  hip'
+bip_39_word_new_line6: 'ask
+
+  position
+
+  peanut
+
+  nose
+
+  hip
+
+  crucial'
+bip_39_word_new_line7: 'ask
+
+  position
+
+  peanut
+
+  nose
+
+  hip
+
+  crucial
+
+  assault'
+bip_39_word_new_line8: 'ask
+
+  position
+
+  peanut
+
+  nose
+
+  hip
+
+  crucial
+
+  assault
+
+  sweet'
+bip_39_word_new_line9: 'ask
+
+  position
+
+  peanut
+
+  nose
+
+  hip
+
+  crucial
+
+  assault
+
+  sweet
+
+  solid'
+bip_39_word_space_0:
+- ask
+- position
+- peanut
+- nose
+- hip
+- crucial
+- assault
+- sweet
+- solid
+- guide
+- found
+- airport
+bip_39_word_space_1: ask
+bip_39_word_space_10: ask position peanut nose hip crucial assault sweet solid guide
+bip_39_word_space_11: ask position peanut nose hip crucial assault sweet solid guide
+  found
+bip_39_word_space_12: ask position peanut nose hip crucial assault sweet solid guide
+  found airport
+bip_39_word_space_2: ask position
+bip_39_word_space_3: ask position peanut
+bip_39_word_space_4: ask position peanut nose
+bip_39_word_space_5: ask position peanut nose hip
+bip_39_word_space_6: ask position peanut nose hip crucial
+bip_39_word_space_7: ask position peanut nose hip crucial assault
+bip_39_word_space_8: ask position peanut nose hip crucial assault sweet
+bip_39_word_space_9: ask position peanut nose hip crucial assault sweet solid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

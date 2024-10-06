@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fresh
+bip_39_word_new_br10: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong<br>thrive<br>blade<br>inject<br>element
+bip_39_word_new_br11: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong<br>thrive<br>blade<br>inject<br>element<br>nature
+bip_39_word_new_br12: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong<br>thrive<br>blade<br>inject<br>element<br>nature<br>arch
+bip_39_word_new_br2: fresh<br>nice
+bip_39_word_new_br3: fresh<br>nice<br>dress
+bip_39_word_new_br4: fresh<br>nice<br>dress<br>hour
+bip_39_word_new_br5: fresh<br>nice<br>dress<br>hour<br>jaguar
+bip_39_word_new_br6: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong
+bip_39_word_new_br7: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong<br>thrive
+bip_39_word_new_br8: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong<br>thrive<br>blade
+bip_39_word_new_br9: fresh<br>nice<br>dress<br>hour<br>jaguar<br>strong<br>thrive<br>blade<br>inject
+bip_39_word_new_line1: fresh
+bip_39_word_new_line10: 'fresh
+
+  nice
+
+  dress
+
+  hour
+
+  jaguar
+
+  strong
+
+  thrive
+
+  blade
+
+  inject
+
+  element'
+bip_39_word_new_line11: 'fresh
+
+  nice
+
+  dress
+
+  hour
+
+  jaguar
+
+  strong
+
+  thrive
+
+  blade
+
+  inject
+
+  element
+
+  nature'
+bip_39_word_new_line12: 'fresh
+
+  nice
+
+  dress
+
+  hour
+
+  jaguar
+
+  strong
+
+  thrive
+
+  blade
+
+  inject
+
+  element
+
+  nature
+
+  arch'
+bip_39_word_new_line2: 'fresh
+
+  nice'
+bip_39_word_new_line3: 'fresh
+
+  nice
+
+  dress'
+bip_39_word_new_line4: 'fresh
+
+  nice
+
+  dress
+
+  hour'
+bip_39_word_new_line5: 'fresh
+
+  nice
+
+  dress
+
+  hour
+
+  jaguar'
+bip_39_word_new_line6: 'fresh
+
+  nice
+
+  dress
+
+  hour
+
+  jaguar
+
+  strong'
+bip_39_word_new_line7: 'fresh
+
+  nice
+
+  dress
+
+  hour
+
+  jaguar
+
+  strong
+
+  thrive'
+bip_39_word_new_line8: 'fresh
+
+  nice
+
+  dress
+
+  hour
+
+  jaguar
+
+  strong
+
+  thrive
+
+  blade'
+bip_39_word_new_line9: 'fresh
+
+  nice
+
+  dress
+
+  hour
+
+  jaguar
+
+  strong
+
+  thrive
+
+  blade
+
+  inject'
+bip_39_word_space_0:
+- fresh
+- nice
+- dress
+- hour
+- jaguar
+- strong
+- thrive
+- blade
+- inject
+- element
+- nature
+- arch
+bip_39_word_space_1: fresh
+bip_39_word_space_10: fresh nice dress hour jaguar strong thrive blade inject element
+bip_39_word_space_11: fresh nice dress hour jaguar strong thrive blade inject element
+  nature
+bip_39_word_space_12: fresh nice dress hour jaguar strong thrive blade inject element
+  nature arch
+bip_39_word_space_2: fresh nice
+bip_39_word_space_3: fresh nice dress
+bip_39_word_space_4: fresh nice dress hour
+bip_39_word_space_5: fresh nice dress hour jaguar
+bip_39_word_space_6: fresh nice dress hour jaguar strong
+bip_39_word_space_7: fresh nice dress hour jaguar strong thrive
+bip_39_word_space_8: fresh nice dress hour jaguar strong thrive blade
+bip_39_word_space_9: fresh nice dress hour jaguar strong thrive blade inject
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

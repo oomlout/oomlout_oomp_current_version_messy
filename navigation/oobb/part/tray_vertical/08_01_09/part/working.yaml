@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fee
+bip_39_word_new_br10: fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock
+bip_39_word_new_br11: fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock<br>table
+bip_39_word_new_br12: fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend<br>clock<br>table<br>annual
+bip_39_word_new_br2: fee<br>token
+bip_39_word_new_br3: fee<br>token<br>waste
+bip_39_word_new_br4: fee<br>token<br>waste<br>depth
+bip_39_word_new_br5: fee<br>token<br>waste<br>depth<br>inspire
+bip_39_word_new_br6: fee<br>token<br>waste<br>depth<br>inspire<br>pass
+bip_39_word_new_br7: fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid
+bip_39_word_new_br8: fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory
+bip_39_word_new_br9: fee<br>token<br>waste<br>depth<br>inspire<br>pass<br>rapid<br>glory<br>spend
+bip_39_word_new_line1: fee
+bip_39_word_new_line10: 'fee
+
+  token
+
+  waste
+
+  depth
+
+  inspire
+
+  pass
+
+  rapid
+
+  glory
+
+  spend
+
+  clock'
+bip_39_word_new_line11: 'fee
+
+  token
+
+  waste
+
+  depth
+
+  inspire
+
+  pass
+
+  rapid
+
+  glory
+
+  spend
+
+  clock
+
+  table'
+bip_39_word_new_line12: 'fee
+
+  token
+
+  waste
+
+  depth
+
+  inspire
+
+  pass
+
+  rapid
+
+  glory
+
+  spend
+
+  clock
+
+  table
+
+  annual'
+bip_39_word_new_line2: 'fee
+
+  token'
+bip_39_word_new_line3: 'fee
+
+  token
+
+  waste'
+bip_39_word_new_line4: 'fee
+
+  token
+
+  waste
+
+  depth'
+bip_39_word_new_line5: 'fee
+
+  token
+
+  waste
+
+  depth
+
+  inspire'
+bip_39_word_new_line6: 'fee
+
+  token
+
+  waste
+
+  depth
+
+  inspire
+
+  pass'
+bip_39_word_new_line7: 'fee
+
+  token
+
+  waste
+
+  depth
+
+  inspire
+
+  pass
+
+  rapid'
+bip_39_word_new_line8: 'fee
+
+  token
+
+  waste
+
+  depth
+
+  inspire
+
+  pass
+
+  rapid
+
+  glory'
+bip_39_word_new_line9: 'fee
+
+  token
+
+  waste
+
+  depth
+
+  inspire
+
+  pass
+
+  rapid
+
+  glory
+
+  spend'
+bip_39_word_space_0:
+- fee
+- token
+- waste
+- depth
+- inspire
+- pass
+- rapid
+- glory
+- spend
+- clock
+- table
+- annual
+bip_39_word_space_1: fee
+bip_39_word_space_10: fee token waste depth inspire pass rapid glory spend clock
+bip_39_word_space_11: fee token waste depth inspire pass rapid glory spend clock table
+bip_39_word_space_12: fee token waste depth inspire pass rapid glory spend clock table
+  annual
+bip_39_word_space_2: fee token
+bip_39_word_space_3: fee token waste
+bip_39_word_space_4: fee token waste depth
+bip_39_word_space_5: fee token waste depth inspire
+bip_39_word_space_6: fee token waste depth inspire pass
+bip_39_word_space_7: fee token waste depth inspire pass rapid
+bip_39_word_space_8: fee token waste depth inspire pass rapid glory
+bip_39_word_space_9: fee token waste depth inspire pass rapid glory spend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

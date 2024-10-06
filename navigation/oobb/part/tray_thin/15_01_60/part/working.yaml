@@ -1,3 +1,186 @@
+bip_39_word_new_br1: toss
+bip_39_word_new_br10: toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact
+bip_39_word_new_br11: toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact<br>mango
+bip_39_word_new_br12: toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile<br>impact<br>mango<br>ability
+bip_39_word_new_br2: toss<br>help
+bip_39_word_new_br3: toss<br>help<br>exhibit
+bip_39_word_new_br4: toss<br>help<br>exhibit<br>caught
+bip_39_word_new_br5: toss<br>help<br>exhibit<br>caught<br>main
+bip_39_word_new_br6: toss<br>help<br>exhibit<br>caught<br>main<br>era
+bip_39_word_new_br7: toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment
+bip_39_word_new_br8: toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget
+bip_39_word_new_br9: toss<br>help<br>exhibit<br>caught<br>main<br>era<br>moment<br>budget<br>mobile
+bip_39_word_new_line1: toss
+bip_39_word_new_line10: 'toss
+
+  help
+
+  exhibit
+
+  caught
+
+  main
+
+  era
+
+  moment
+
+  budget
+
+  mobile
+
+  impact'
+bip_39_word_new_line11: 'toss
+
+  help
+
+  exhibit
+
+  caught
+
+  main
+
+  era
+
+  moment
+
+  budget
+
+  mobile
+
+  impact
+
+  mango'
+bip_39_word_new_line12: 'toss
+
+  help
+
+  exhibit
+
+  caught
+
+  main
+
+  era
+
+  moment
+
+  budget
+
+  mobile
+
+  impact
+
+  mango
+
+  ability'
+bip_39_word_new_line2: 'toss
+
+  help'
+bip_39_word_new_line3: 'toss
+
+  help
+
+  exhibit'
+bip_39_word_new_line4: 'toss
+
+  help
+
+  exhibit
+
+  caught'
+bip_39_word_new_line5: 'toss
+
+  help
+
+  exhibit
+
+  caught
+
+  main'
+bip_39_word_new_line6: 'toss
+
+  help
+
+  exhibit
+
+  caught
+
+  main
+
+  era'
+bip_39_word_new_line7: 'toss
+
+  help
+
+  exhibit
+
+  caught
+
+  main
+
+  era
+
+  moment'
+bip_39_word_new_line8: 'toss
+
+  help
+
+  exhibit
+
+  caught
+
+  main
+
+  era
+
+  moment
+
+  budget'
+bip_39_word_new_line9: 'toss
+
+  help
+
+  exhibit
+
+  caught
+
+  main
+
+  era
+
+  moment
+
+  budget
+
+  mobile'
+bip_39_word_space_0:
+- toss
+- help
+- exhibit
+- caught
+- main
+- era
+- moment
+- budget
+- mobile
+- impact
+- mango
+- ability
+bip_39_word_space_1: toss
+bip_39_word_space_10: toss help exhibit caught main era moment budget mobile impact
+bip_39_word_space_11: toss help exhibit caught main era moment budget mobile impact
+  mango
+bip_39_word_space_12: toss help exhibit caught main era moment budget mobile impact
+  mango ability
+bip_39_word_space_2: toss help
+bip_39_word_space_3: toss help exhibit
+bip_39_word_space_4: toss help exhibit caught
+bip_39_word_space_5: toss help exhibit caught main
+bip_39_word_space_6: toss help exhibit caught main era
+bip_39_word_space_7: toss help exhibit caught main era moment
+bip_39_word_space_8: toss help exhibit caught main era moment budget
+bip_39_word_space_9: toss help exhibit caught main era moment budget mobile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

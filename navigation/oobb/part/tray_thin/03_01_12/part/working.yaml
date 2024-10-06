@@ -1,3 +1,187 @@
+bip_39_word_new_br1: music
+bip_39_word_new_br10: music<br>water<br>favorite<br>genre<br>jacket<br>enlist<br>derive<br>yellow<br>mention<br>second
+bip_39_word_new_br11: music<br>water<br>favorite<br>genre<br>jacket<br>enlist<br>derive<br>yellow<br>mention<br>second<br>illegal
+bip_39_word_new_br12: music<br>water<br>favorite<br>genre<br>jacket<br>enlist<br>derive<br>yellow<br>mention<br>second<br>illegal<br>ancient
+bip_39_word_new_br2: music<br>water
+bip_39_word_new_br3: music<br>water<br>favorite
+bip_39_word_new_br4: music<br>water<br>favorite<br>genre
+bip_39_word_new_br5: music<br>water<br>favorite<br>genre<br>jacket
+bip_39_word_new_br6: music<br>water<br>favorite<br>genre<br>jacket<br>enlist
+bip_39_word_new_br7: music<br>water<br>favorite<br>genre<br>jacket<br>enlist<br>derive
+bip_39_word_new_br8: music<br>water<br>favorite<br>genre<br>jacket<br>enlist<br>derive<br>yellow
+bip_39_word_new_br9: music<br>water<br>favorite<br>genre<br>jacket<br>enlist<br>derive<br>yellow<br>mention
+bip_39_word_new_line1: music
+bip_39_word_new_line10: 'music
+
+  water
+
+  favorite
+
+  genre
+
+  jacket
+
+  enlist
+
+  derive
+
+  yellow
+
+  mention
+
+  second'
+bip_39_word_new_line11: 'music
+
+  water
+
+  favorite
+
+  genre
+
+  jacket
+
+  enlist
+
+  derive
+
+  yellow
+
+  mention
+
+  second
+
+  illegal'
+bip_39_word_new_line12: 'music
+
+  water
+
+  favorite
+
+  genre
+
+  jacket
+
+  enlist
+
+  derive
+
+  yellow
+
+  mention
+
+  second
+
+  illegal
+
+  ancient'
+bip_39_word_new_line2: 'music
+
+  water'
+bip_39_word_new_line3: 'music
+
+  water
+
+  favorite'
+bip_39_word_new_line4: 'music
+
+  water
+
+  favorite
+
+  genre'
+bip_39_word_new_line5: 'music
+
+  water
+
+  favorite
+
+  genre
+
+  jacket'
+bip_39_word_new_line6: 'music
+
+  water
+
+  favorite
+
+  genre
+
+  jacket
+
+  enlist'
+bip_39_word_new_line7: 'music
+
+  water
+
+  favorite
+
+  genre
+
+  jacket
+
+  enlist
+
+  derive'
+bip_39_word_new_line8: 'music
+
+  water
+
+  favorite
+
+  genre
+
+  jacket
+
+  enlist
+
+  derive
+
+  yellow'
+bip_39_word_new_line9: 'music
+
+  water
+
+  favorite
+
+  genre
+
+  jacket
+
+  enlist
+
+  derive
+
+  yellow
+
+  mention'
+bip_39_word_space_0:
+- music
+- water
+- favorite
+- genre
+- jacket
+- enlist
+- derive
+- yellow
+- mention
+- second
+- illegal
+- ancient
+bip_39_word_space_1: music
+bip_39_word_space_10: music water favorite genre jacket enlist derive yellow mention
+  second
+bip_39_word_space_11: music water favorite genre jacket enlist derive yellow mention
+  second illegal
+bip_39_word_space_12: music water favorite genre jacket enlist derive yellow mention
+  second illegal ancient
+bip_39_word_space_2: music water
+bip_39_word_space_3: music water favorite
+bip_39_word_space_4: music water favorite genre
+bip_39_word_space_5: music water favorite genre jacket
+bip_39_word_space_6: music water favorite genre jacket enlist
+bip_39_word_space_7: music water favorite genre jacket enlist derive
+bip_39_word_space_8: music water favorite genre jacket enlist derive yellow
+bip_39_word_space_9: music water favorite genre jacket enlist derive yellow mention
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

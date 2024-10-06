@@ -1,3 +1,185 @@
+bip_39_word_new_br1: corn
+bip_39_word_new_br10: corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain
+bip_39_word_new_br11: corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain<br>over
+bip_39_word_new_br12: corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing<br>grain<br>over<br>allow
+bip_39_word_new_br2: corn<br>grief
+bip_39_word_new_br3: corn<br>grief<br>fruit
+bip_39_word_new_br4: corn<br>grief<br>fruit<br>walk
+bip_39_word_new_br5: corn<br>grief<br>fruit<br>walk<br>yard
+bip_39_word_new_br6: corn<br>grief<br>fruit<br>walk<br>yard<br>now
+bip_39_word_new_br7: corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan
+bip_39_word_new_br8: corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various
+bip_39_word_new_br9: corn<br>grief<br>fruit<br>walk<br>yard<br>now<br>scan<br>various<br>thing
+bip_39_word_new_line1: corn
+bip_39_word_new_line10: 'corn
+
+  grief
+
+  fruit
+
+  walk
+
+  yard
+
+  now
+
+  scan
+
+  various
+
+  thing
+
+  grain'
+bip_39_word_new_line11: 'corn
+
+  grief
+
+  fruit
+
+  walk
+
+  yard
+
+  now
+
+  scan
+
+  various
+
+  thing
+
+  grain
+
+  over'
+bip_39_word_new_line12: 'corn
+
+  grief
+
+  fruit
+
+  walk
+
+  yard
+
+  now
+
+  scan
+
+  various
+
+  thing
+
+  grain
+
+  over
+
+  allow'
+bip_39_word_new_line2: 'corn
+
+  grief'
+bip_39_word_new_line3: 'corn
+
+  grief
+
+  fruit'
+bip_39_word_new_line4: 'corn
+
+  grief
+
+  fruit
+
+  walk'
+bip_39_word_new_line5: 'corn
+
+  grief
+
+  fruit
+
+  walk
+
+  yard'
+bip_39_word_new_line6: 'corn
+
+  grief
+
+  fruit
+
+  walk
+
+  yard
+
+  now'
+bip_39_word_new_line7: 'corn
+
+  grief
+
+  fruit
+
+  walk
+
+  yard
+
+  now
+
+  scan'
+bip_39_word_new_line8: 'corn
+
+  grief
+
+  fruit
+
+  walk
+
+  yard
+
+  now
+
+  scan
+
+  various'
+bip_39_word_new_line9: 'corn
+
+  grief
+
+  fruit
+
+  walk
+
+  yard
+
+  now
+
+  scan
+
+  various
+
+  thing'
+bip_39_word_space_0:
+- corn
+- grief
+- fruit
+- walk
+- yard
+- now
+- scan
+- various
+- thing
+- grain
+- over
+- allow
+bip_39_word_space_1: corn
+bip_39_word_space_10: corn grief fruit walk yard now scan various thing grain
+bip_39_word_space_11: corn grief fruit walk yard now scan various thing grain over
+bip_39_word_space_12: corn grief fruit walk yard now scan various thing grain over
+  allow
+bip_39_word_space_2: corn grief
+bip_39_word_space_3: corn grief fruit
+bip_39_word_space_4: corn grief fruit walk
+bip_39_word_space_5: corn grief fruit walk yard
+bip_39_word_space_6: corn grief fruit walk yard now
+bip_39_word_space_7: corn grief fruit walk yard now scan
+bip_39_word_space_8: corn grief fruit walk yard now scan various
+bip_39_word_space_9: corn grief fruit walk yard now scan various thing
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

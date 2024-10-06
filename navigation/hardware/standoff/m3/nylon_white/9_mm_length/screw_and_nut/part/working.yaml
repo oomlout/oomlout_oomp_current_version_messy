@@ -1,3 +1,187 @@
+bip_39_word_new_br1: labor
+bip_39_word_new_br10: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup<br>season<br>provide<br>patch<br>business
+bip_39_word_new_br11: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup<br>season<br>provide<br>patch<br>business<br>eager
+bip_39_word_new_br12: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup<br>season<br>provide<br>patch<br>business<br>eager<br>almost
+bip_39_word_new_br2: labor<br>virtual
+bip_39_word_new_br3: labor<br>virtual<br>oppose
+bip_39_word_new_br4: labor<br>virtual<br>oppose<br>cup
+bip_39_word_new_br5: labor<br>virtual<br>oppose<br>cup<br>deposit
+bip_39_word_new_br6: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup
+bip_39_word_new_br7: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup<br>season
+bip_39_word_new_br8: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup<br>season<br>provide
+bip_39_word_new_br9: labor<br>virtual<br>oppose<br>cup<br>deposit<br>ketchup<br>season<br>provide<br>patch
+bip_39_word_new_line1: labor
+bip_39_word_new_line10: 'labor
+
+  virtual
+
+  oppose
+
+  cup
+
+  deposit
+
+  ketchup
+
+  season
+
+  provide
+
+  patch
+
+  business'
+bip_39_word_new_line11: 'labor
+
+  virtual
+
+  oppose
+
+  cup
+
+  deposit
+
+  ketchup
+
+  season
+
+  provide
+
+  patch
+
+  business
+
+  eager'
+bip_39_word_new_line12: 'labor
+
+  virtual
+
+  oppose
+
+  cup
+
+  deposit
+
+  ketchup
+
+  season
+
+  provide
+
+  patch
+
+  business
+
+  eager
+
+  almost'
+bip_39_word_new_line2: 'labor
+
+  virtual'
+bip_39_word_new_line3: 'labor
+
+  virtual
+
+  oppose'
+bip_39_word_new_line4: 'labor
+
+  virtual
+
+  oppose
+
+  cup'
+bip_39_word_new_line5: 'labor
+
+  virtual
+
+  oppose
+
+  cup
+
+  deposit'
+bip_39_word_new_line6: 'labor
+
+  virtual
+
+  oppose
+
+  cup
+
+  deposit
+
+  ketchup'
+bip_39_word_new_line7: 'labor
+
+  virtual
+
+  oppose
+
+  cup
+
+  deposit
+
+  ketchup
+
+  season'
+bip_39_word_new_line8: 'labor
+
+  virtual
+
+  oppose
+
+  cup
+
+  deposit
+
+  ketchup
+
+  season
+
+  provide'
+bip_39_word_new_line9: 'labor
+
+  virtual
+
+  oppose
+
+  cup
+
+  deposit
+
+  ketchup
+
+  season
+
+  provide
+
+  patch'
+bip_39_word_space_0:
+- labor
+- virtual
+- oppose
+- cup
+- deposit
+- ketchup
+- season
+- provide
+- patch
+- business
+- eager
+- almost
+bip_39_word_space_1: labor
+bip_39_word_space_10: labor virtual oppose cup deposit ketchup season provide patch
+  business
+bip_39_word_space_11: labor virtual oppose cup deposit ketchup season provide patch
+  business eager
+bip_39_word_space_12: labor virtual oppose cup deposit ketchup season provide patch
+  business eager almost
+bip_39_word_space_2: labor virtual
+bip_39_word_space_3: labor virtual oppose
+bip_39_word_space_4: labor virtual oppose cup
+bip_39_word_space_5: labor virtual oppose cup deposit
+bip_39_word_space_6: labor virtual oppose cup deposit ketchup
+bip_39_word_space_7: labor virtual oppose cup deposit ketchup season
+bip_39_word_space_8: labor virtual oppose cup deposit ketchup season provide
+bip_39_word_space_9: labor virtual oppose cup deposit ketchup season provide patch
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

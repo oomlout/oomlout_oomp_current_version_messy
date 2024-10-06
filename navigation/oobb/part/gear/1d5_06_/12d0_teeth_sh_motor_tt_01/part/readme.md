@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 12d0_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: museum dragon
+  * bip 39 word 3: museum dragon soon
+  * bip 39 word: museum dragon soon title isolate buddy floor remind utility mountain uniform about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | museum |  
+| bip_39_word_new_br10 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy<br>floor<br>remind<br>utility<br>mountain |  
+| bip_39_word_new_br11 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy<br>floor<br>remind<br>utility<br>mountain<br>uniform |  
+| bip_39_word_new_br12 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy<br>floor<br>remind<br>utility<br>mountain<br>uniform<br>about |  
+| bip_39_word_new_br2 | museum<br>dragon |  
+| bip_39_word_new_br3 | museum<br>dragon<br>soon |  
+| bip_39_word_new_br4 | museum<br>dragon<br>soon<br>title |  
+| bip_39_word_new_br5 | museum<br>dragon<br>soon<br>title<br>isolate |  
+| bip_39_word_new_br6 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy |  
+| bip_39_word_new_br7 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy<br>floor |  
+| bip_39_word_new_br8 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy<br>floor<br>remind |  
+| bip_39_word_new_br9 | museum<br>dragon<br>soon<br>title<br>isolate<br>buddy<br>floor<br>remind<br>utility |  
+| bip_39_word_new_line1 | museum |  
+| bip_39_word_new_line10 | museum
+dragon
+soon
+title
+isolate
+buddy
+floor
+remind
+utility
+mountain |  
+| bip_39_word_new_line11 | museum
+dragon
+soon
+title
+isolate
+buddy
+floor
+remind
+utility
+mountain
+uniform |  
+| bip_39_word_new_line12 | museum
+dragon
+soon
+title
+isolate
+buddy
+floor
+remind
+utility
+mountain
+uniform
+about |  
+| bip_39_word_new_line2 | museum
+dragon |  
+| bip_39_word_new_line3 | museum
+dragon
+soon |  
+| bip_39_word_new_line4 | museum
+dragon
+soon
+title |  
+| bip_39_word_new_line5 | museum
+dragon
+soon
+title
+isolate |  
+| bip_39_word_new_line6 | museum
+dragon
+soon
+title
+isolate
+buddy |  
+| bip_39_word_new_line7 | museum
+dragon
+soon
+title
+isolate
+buddy
+floor |  
+| bip_39_word_new_line8 | museum
+dragon
+soon
+title
+isolate
+buddy
+floor
+remind |  
+| bip_39_word_new_line9 | museum
+dragon
+soon
+title
+isolate
+buddy
+floor
+remind
+utility |  
+| bip_39_word_space_0 | ['museum', 'dragon', 'soon', 'title', 'isolate', 'buddy', 'floor', 'remind', 'utility', 'mountain', 'uniform', 'about'] |  
+| bip_39_word_space_1 | museum |  
+| bip_39_word_space_10 | museum dragon soon title isolate buddy floor remind utility mountain |  
+| bip_39_word_space_11 | museum dragon soon title isolate buddy floor remind utility mountain uniform |  
+| bip_39_word_space_12 | museum dragon soon title isolate buddy floor remind utility mountain uniform about |  
+| bip_39_word_space_2 | museum dragon |  
+| bip_39_word_space_3 | museum dragon soon |  
+| bip_39_word_space_4 | museum dragon soon title |  
+| bip_39_word_space_5 | museum dragon soon title isolate |  
+| bip_39_word_space_6 | museum dragon soon title isolate buddy |  
+| bip_39_word_space_7 | museum dragon soon title isolate buddy floor |  
+| bip_39_word_space_8 | museum dragon soon title isolate buddy floor remind |  
+| bip_39_word_space_9 | museum dragon soon title isolate buddy floor remind utility |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

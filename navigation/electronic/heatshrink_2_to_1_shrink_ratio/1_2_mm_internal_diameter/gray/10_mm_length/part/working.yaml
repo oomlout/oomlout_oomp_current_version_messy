@@ -1,3 +1,186 @@
+bip_39_word_new_br1: book
+bip_39_word_new_br10: book<br>dinner<br>measure<br>park<br>edit<br>dune<br>approve<br>vapor<br>denial<br>arrow
+bip_39_word_new_br11: book<br>dinner<br>measure<br>park<br>edit<br>dune<br>approve<br>vapor<br>denial<br>arrow<br>true
+bip_39_word_new_br12: book<br>dinner<br>measure<br>park<br>edit<br>dune<br>approve<br>vapor<br>denial<br>arrow<br>true<br>almost
+bip_39_word_new_br2: book<br>dinner
+bip_39_word_new_br3: book<br>dinner<br>measure
+bip_39_word_new_br4: book<br>dinner<br>measure<br>park
+bip_39_word_new_br5: book<br>dinner<br>measure<br>park<br>edit
+bip_39_word_new_br6: book<br>dinner<br>measure<br>park<br>edit<br>dune
+bip_39_word_new_br7: book<br>dinner<br>measure<br>park<br>edit<br>dune<br>approve
+bip_39_word_new_br8: book<br>dinner<br>measure<br>park<br>edit<br>dune<br>approve<br>vapor
+bip_39_word_new_br9: book<br>dinner<br>measure<br>park<br>edit<br>dune<br>approve<br>vapor<br>denial
+bip_39_word_new_line1: book
+bip_39_word_new_line10: 'book
+
+  dinner
+
+  measure
+
+  park
+
+  edit
+
+  dune
+
+  approve
+
+  vapor
+
+  denial
+
+  arrow'
+bip_39_word_new_line11: 'book
+
+  dinner
+
+  measure
+
+  park
+
+  edit
+
+  dune
+
+  approve
+
+  vapor
+
+  denial
+
+  arrow
+
+  true'
+bip_39_word_new_line12: 'book
+
+  dinner
+
+  measure
+
+  park
+
+  edit
+
+  dune
+
+  approve
+
+  vapor
+
+  denial
+
+  arrow
+
+  true
+
+  almost'
+bip_39_word_new_line2: 'book
+
+  dinner'
+bip_39_word_new_line3: 'book
+
+  dinner
+
+  measure'
+bip_39_word_new_line4: 'book
+
+  dinner
+
+  measure
+
+  park'
+bip_39_word_new_line5: 'book
+
+  dinner
+
+  measure
+
+  park
+
+  edit'
+bip_39_word_new_line6: 'book
+
+  dinner
+
+  measure
+
+  park
+
+  edit
+
+  dune'
+bip_39_word_new_line7: 'book
+
+  dinner
+
+  measure
+
+  park
+
+  edit
+
+  dune
+
+  approve'
+bip_39_word_new_line8: 'book
+
+  dinner
+
+  measure
+
+  park
+
+  edit
+
+  dune
+
+  approve
+
+  vapor'
+bip_39_word_new_line9: 'book
+
+  dinner
+
+  measure
+
+  park
+
+  edit
+
+  dune
+
+  approve
+
+  vapor
+
+  denial'
+bip_39_word_space_0:
+- book
+- dinner
+- measure
+- park
+- edit
+- dune
+- approve
+- vapor
+- denial
+- arrow
+- 'true'
+- almost
+bip_39_word_space_1: book
+bip_39_word_space_10: book dinner measure park edit dune approve vapor denial arrow
+bip_39_word_space_11: book dinner measure park edit dune approve vapor denial arrow
+  true
+bip_39_word_space_12: book dinner measure park edit dune approve vapor denial arrow
+  true almost
+bip_39_word_space_2: book dinner
+bip_39_word_space_3: book dinner measure
+bip_39_word_space_4: book dinner measure park
+bip_39_word_space_5: book dinner measure park edit
+bip_39_word_space_6: book dinner measure park edit dune
+bip_39_word_space_7: book dinner measure park edit dune approve
+bip_39_word_space_8: book dinner measure park edit dune approve vapor
+bip_39_word_space_9: book dinner measure park edit dune approve vapor denial
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

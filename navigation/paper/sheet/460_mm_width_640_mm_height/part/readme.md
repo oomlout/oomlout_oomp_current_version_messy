@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: roast idle
+  * bip 39 word 3: roast idle else
+  * bip 39 word: roast idle else six devote setup piece dust year lawn invest alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | roast |  
+| bip_39_word_new_br10 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn |  
+| bip_39_word_new_br11 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn<br>invest |  
+| bip_39_word_new_br12 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year<br>lawn<br>invest<br>alone |  
+| bip_39_word_new_br2 | roast<br>idle |  
+| bip_39_word_new_br3 | roast<br>idle<br>else |  
+| bip_39_word_new_br4 | roast<br>idle<br>else<br>six |  
+| bip_39_word_new_br5 | roast<br>idle<br>else<br>six<br>devote |  
+| bip_39_word_new_br6 | roast<br>idle<br>else<br>six<br>devote<br>setup |  
+| bip_39_word_new_br7 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece |  
+| bip_39_word_new_br8 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust |  
+| bip_39_word_new_br9 | roast<br>idle<br>else<br>six<br>devote<br>setup<br>piece<br>dust<br>year |  
+| bip_39_word_new_line1 | roast |  
+| bip_39_word_new_line10 | roast
+idle
+else
+six
+devote
+setup
+piece
+dust
+year
+lawn |  
+| bip_39_word_new_line11 | roast
+idle
+else
+six
+devote
+setup
+piece
+dust
+year
+lawn
+invest |  
+| bip_39_word_new_line12 | roast
+idle
+else
+six
+devote
+setup
+piece
+dust
+year
+lawn
+invest
+alone |  
+| bip_39_word_new_line2 | roast
+idle |  
+| bip_39_word_new_line3 | roast
+idle
+else |  
+| bip_39_word_new_line4 | roast
+idle
+else
+six |  
+| bip_39_word_new_line5 | roast
+idle
+else
+six
+devote |  
+| bip_39_word_new_line6 | roast
+idle
+else
+six
+devote
+setup |  
+| bip_39_word_new_line7 | roast
+idle
+else
+six
+devote
+setup
+piece |  
+| bip_39_word_new_line8 | roast
+idle
+else
+six
+devote
+setup
+piece
+dust |  
+| bip_39_word_new_line9 | roast
+idle
+else
+six
+devote
+setup
+piece
+dust
+year |  
+| bip_39_word_space_0 | ['roast', 'idle', 'else', 'six', 'devote', 'setup', 'piece', 'dust', 'year', 'lawn', 'invest', 'alone'] |  
+| bip_39_word_space_1 | roast |  
+| bip_39_word_space_10 | roast idle else six devote setup piece dust year lawn |  
+| bip_39_word_space_11 | roast idle else six devote setup piece dust year lawn invest |  
+| bip_39_word_space_12 | roast idle else six devote setup piece dust year lawn invest alone |  
+| bip_39_word_space_2 | roast idle |  
+| bip_39_word_space_3 | roast idle else |  
+| bip_39_word_space_4 | roast idle else six |  
+| bip_39_word_space_5 | roast idle else six devote |  
+| bip_39_word_space_6 | roast idle else six devote setup |  
+| bip_39_word_space_7 | roast idle else six devote setup piece |  
+| bip_39_word_space_8 | roast idle else six devote setup piece dust |  
+| bip_39_word_space_9 | roast idle else six devote setup piece dust year |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

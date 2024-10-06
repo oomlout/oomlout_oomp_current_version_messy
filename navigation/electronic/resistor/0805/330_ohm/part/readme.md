@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: solve impose
+  * bip 39 word 3: solve impose pull
+  * bip 39 word: solve impose pull cat trim remain insane purchase speak bread motor auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | solve |  
+| bip_39_word_new_br10 | solve<br>impose<br>pull<br>cat<br>trim<br>remain<br>insane<br>purchase<br>speak<br>bread |  
+| bip_39_word_new_br11 | solve<br>impose<br>pull<br>cat<br>trim<br>remain<br>insane<br>purchase<br>speak<br>bread<br>motor |  
+| bip_39_word_new_br12 | solve<br>impose<br>pull<br>cat<br>trim<br>remain<br>insane<br>purchase<br>speak<br>bread<br>motor<br>auction |  
+| bip_39_word_new_br2 | solve<br>impose |  
+| bip_39_word_new_br3 | solve<br>impose<br>pull |  
+| bip_39_word_new_br4 | solve<br>impose<br>pull<br>cat |  
+| bip_39_word_new_br5 | solve<br>impose<br>pull<br>cat<br>trim |  
+| bip_39_word_new_br6 | solve<br>impose<br>pull<br>cat<br>trim<br>remain |  
+| bip_39_word_new_br7 | solve<br>impose<br>pull<br>cat<br>trim<br>remain<br>insane |  
+| bip_39_word_new_br8 | solve<br>impose<br>pull<br>cat<br>trim<br>remain<br>insane<br>purchase |  
+| bip_39_word_new_br9 | solve<br>impose<br>pull<br>cat<br>trim<br>remain<br>insane<br>purchase<br>speak |  
+| bip_39_word_new_line1 | solve |  
+| bip_39_word_new_line10 | solve
+impose
+pull
+cat
+trim
+remain
+insane
+purchase
+speak
+bread |  
+| bip_39_word_new_line11 | solve
+impose
+pull
+cat
+trim
+remain
+insane
+purchase
+speak
+bread
+motor |  
+| bip_39_word_new_line12 | solve
+impose
+pull
+cat
+trim
+remain
+insane
+purchase
+speak
+bread
+motor
+auction |  
+| bip_39_word_new_line2 | solve
+impose |  
+| bip_39_word_new_line3 | solve
+impose
+pull |  
+| bip_39_word_new_line4 | solve
+impose
+pull
+cat |  
+| bip_39_word_new_line5 | solve
+impose
+pull
+cat
+trim |  
+| bip_39_word_new_line6 | solve
+impose
+pull
+cat
+trim
+remain |  
+| bip_39_word_new_line7 | solve
+impose
+pull
+cat
+trim
+remain
+insane |  
+| bip_39_word_new_line8 | solve
+impose
+pull
+cat
+trim
+remain
+insane
+purchase |  
+| bip_39_word_new_line9 | solve
+impose
+pull
+cat
+trim
+remain
+insane
+purchase
+speak |  
+| bip_39_word_space_0 | ['solve', 'impose', 'pull', 'cat', 'trim', 'remain', 'insane', 'purchase', 'speak', 'bread', 'motor', 'auction'] |  
+| bip_39_word_space_1 | solve |  
+| bip_39_word_space_10 | solve impose pull cat trim remain insane purchase speak bread |  
+| bip_39_word_space_11 | solve impose pull cat trim remain insane purchase speak bread motor |  
+| bip_39_word_space_12 | solve impose pull cat trim remain insane purchase speak bread motor auction |  
+| bip_39_word_space_2 | solve impose |  
+| bip_39_word_space_3 | solve impose pull |  
+| bip_39_word_space_4 | solve impose pull cat |  
+| bip_39_word_space_5 | solve impose pull cat trim |  
+| bip_39_word_space_6 | solve impose pull cat trim remain |  
+| bip_39_word_space_7 | solve impose pull cat trim remain insane |  
+| bip_39_word_space_8 | solve impose pull cat trim remain insane purchase |  
+| bip_39_word_space_9 | solve impose pull cat trim remain insane purchase speak |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

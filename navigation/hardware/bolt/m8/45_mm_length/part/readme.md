@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: present seminar
+  * bip 39 word 3: present seminar claim
+  * bip 39 word: present seminar claim version kit outdoor used wing such mirror deposit angle
 
 ### other_codes
 * short_code: b8m45
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | present |  
+| bip_39_word_new_br10 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror |  
+| bip_39_word_new_br11 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror<br>deposit |  
+| bip_39_word_new_br12 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such<br>mirror<br>deposit<br>angle |  
+| bip_39_word_new_br2 | present<br>seminar |  
+| bip_39_word_new_br3 | present<br>seminar<br>claim |  
+| bip_39_word_new_br4 | present<br>seminar<br>claim<br>version |  
+| bip_39_word_new_br5 | present<br>seminar<br>claim<br>version<br>kit |  
+| bip_39_word_new_br6 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor |  
+| bip_39_word_new_br7 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used |  
+| bip_39_word_new_br8 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing |  
+| bip_39_word_new_br9 | present<br>seminar<br>claim<br>version<br>kit<br>outdoor<br>used<br>wing<br>such |  
+| bip_39_word_new_line1 | present |  
+| bip_39_word_new_line10 | present
+seminar
+claim
+version
+kit
+outdoor
+used
+wing
+such
+mirror |  
+| bip_39_word_new_line11 | present
+seminar
+claim
+version
+kit
+outdoor
+used
+wing
+such
+mirror
+deposit |  
+| bip_39_word_new_line12 | present
+seminar
+claim
+version
+kit
+outdoor
+used
+wing
+such
+mirror
+deposit
+angle |  
+| bip_39_word_new_line2 | present
+seminar |  
+| bip_39_word_new_line3 | present
+seminar
+claim |  
+| bip_39_word_new_line4 | present
+seminar
+claim
+version |  
+| bip_39_word_new_line5 | present
+seminar
+claim
+version
+kit |  
+| bip_39_word_new_line6 | present
+seminar
+claim
+version
+kit
+outdoor |  
+| bip_39_word_new_line7 | present
+seminar
+claim
+version
+kit
+outdoor
+used |  
+| bip_39_word_new_line8 | present
+seminar
+claim
+version
+kit
+outdoor
+used
+wing |  
+| bip_39_word_new_line9 | present
+seminar
+claim
+version
+kit
+outdoor
+used
+wing
+such |  
+| bip_39_word_space_0 | ['present', 'seminar', 'claim', 'version', 'kit', 'outdoor', 'used', 'wing', 'such', 'mirror', 'deposit', 'angle'] |  
+| bip_39_word_space_1 | present |  
+| bip_39_word_space_10 | present seminar claim version kit outdoor used wing such mirror |  
+| bip_39_word_space_11 | present seminar claim version kit outdoor used wing such mirror deposit |  
+| bip_39_word_space_12 | present seminar claim version kit outdoor used wing such mirror deposit angle |  
+| bip_39_word_space_2 | present seminar |  
+| bip_39_word_space_3 | present seminar claim |  
+| bip_39_word_space_4 | present seminar claim version |  
+| bip_39_word_space_5 | present seminar claim version kit |  
+| bip_39_word_space_6 | present seminar claim version kit outdoor |  
+| bip_39_word_space_7 | present seminar claim version kit outdoor used |  
+| bip_39_word_space_8 | present seminar claim version kit outdoor used wing |  
+| bip_39_word_space_9 | present seminar claim version kit outdoor used wing such |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: attitude address
+  * bip 39 word 3: attitude address timber
+  * bip 39 word: attitude address timber reject label unhappy jewel velvet gown valve tell author
 
 ### other_codes
 * short_code: so3br20nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | attitude |  
+| bip_39_word_new_br10 | attitude<br>address<br>timber<br>reject<br>label<br>unhappy<br>jewel<br>velvet<br>gown<br>valve |  
+| bip_39_word_new_br11 | attitude<br>address<br>timber<br>reject<br>label<br>unhappy<br>jewel<br>velvet<br>gown<br>valve<br>tell |  
+| bip_39_word_new_br12 | attitude<br>address<br>timber<br>reject<br>label<br>unhappy<br>jewel<br>velvet<br>gown<br>valve<br>tell<br>author |  
+| bip_39_word_new_br2 | attitude<br>address |  
+| bip_39_word_new_br3 | attitude<br>address<br>timber |  
+| bip_39_word_new_br4 | attitude<br>address<br>timber<br>reject |  
+| bip_39_word_new_br5 | attitude<br>address<br>timber<br>reject<br>label |  
+| bip_39_word_new_br6 | attitude<br>address<br>timber<br>reject<br>label<br>unhappy |  
+| bip_39_word_new_br7 | attitude<br>address<br>timber<br>reject<br>label<br>unhappy<br>jewel |  
+| bip_39_word_new_br8 | attitude<br>address<br>timber<br>reject<br>label<br>unhappy<br>jewel<br>velvet |  
+| bip_39_word_new_br9 | attitude<br>address<br>timber<br>reject<br>label<br>unhappy<br>jewel<br>velvet<br>gown |  
+| bip_39_word_new_line1 | attitude |  
+| bip_39_word_new_line10 | attitude
+address
+timber
+reject
+label
+unhappy
+jewel
+velvet
+gown
+valve |  
+| bip_39_word_new_line11 | attitude
+address
+timber
+reject
+label
+unhappy
+jewel
+velvet
+gown
+valve
+tell |  
+| bip_39_word_new_line12 | attitude
+address
+timber
+reject
+label
+unhappy
+jewel
+velvet
+gown
+valve
+tell
+author |  
+| bip_39_word_new_line2 | attitude
+address |  
+| bip_39_word_new_line3 | attitude
+address
+timber |  
+| bip_39_word_new_line4 | attitude
+address
+timber
+reject |  
+| bip_39_word_new_line5 | attitude
+address
+timber
+reject
+label |  
+| bip_39_word_new_line6 | attitude
+address
+timber
+reject
+label
+unhappy |  
+| bip_39_word_new_line7 | attitude
+address
+timber
+reject
+label
+unhappy
+jewel |  
+| bip_39_word_new_line8 | attitude
+address
+timber
+reject
+label
+unhappy
+jewel
+velvet |  
+| bip_39_word_new_line9 | attitude
+address
+timber
+reject
+label
+unhappy
+jewel
+velvet
+gown |  
+| bip_39_word_space_0 | ['attitude', 'address', 'timber', 'reject', 'label', 'unhappy', 'jewel', 'velvet', 'gown', 'valve', 'tell', 'author'] |  
+| bip_39_word_space_1 | attitude |  
+| bip_39_word_space_10 | attitude address timber reject label unhappy jewel velvet gown valve |  
+| bip_39_word_space_11 | attitude address timber reject label unhappy jewel velvet gown valve tell |  
+| bip_39_word_space_12 | attitude address timber reject label unhappy jewel velvet gown valve tell author |  
+| bip_39_word_space_2 | attitude address |  
+| bip_39_word_space_3 | attitude address timber |  
+| bip_39_word_space_4 | attitude address timber reject |  
+| bip_39_word_space_5 | attitude address timber reject label |  
+| bip_39_word_space_6 | attitude address timber reject label unhappy |  
+| bip_39_word_space_7 | attitude address timber reject label unhappy jewel |  
+| bip_39_word_space_8 | attitude address timber reject label unhappy jewel velvet |  
+| bip_39_word_space_9 | attitude address timber reject label unhappy jewel velvet gown |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

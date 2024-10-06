@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sun volume
+  * bip 39 word 3: sun volume feed
+  * bip 39 word: sun volume feed scan resemble genius execute need lamp ketchup stairs arrange
 
 ### other_codes
 * short_code: cs2d5bz16pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sun |  
+| bip_39_word_new_br10 | sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup |  
+| bip_39_word_new_br11 | sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup<br>stairs |  
+| bip_39_word_new_br12 | sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup<br>stairs<br>arrange |  
+| bip_39_word_new_br2 | sun<br>volume |  
+| bip_39_word_new_br3 | sun<br>volume<br>feed |  
+| bip_39_word_new_br4 | sun<br>volume<br>feed<br>scan |  
+| bip_39_word_new_br5 | sun<br>volume<br>feed<br>scan<br>resemble |  
+| bip_39_word_new_br6 | sun<br>volume<br>feed<br>scan<br>resemble<br>genius |  
+| bip_39_word_new_br7 | sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute |  
+| bip_39_word_new_br8 | sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need |  
+| bip_39_word_new_br9 | sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp |  
+| bip_39_word_new_line1 | sun |  
+| bip_39_word_new_line10 | sun
+volume
+feed
+scan
+resemble
+genius
+execute
+need
+lamp
+ketchup |  
+| bip_39_word_new_line11 | sun
+volume
+feed
+scan
+resemble
+genius
+execute
+need
+lamp
+ketchup
+stairs |  
+| bip_39_word_new_line12 | sun
+volume
+feed
+scan
+resemble
+genius
+execute
+need
+lamp
+ketchup
+stairs
+arrange |  
+| bip_39_word_new_line2 | sun
+volume |  
+| bip_39_word_new_line3 | sun
+volume
+feed |  
+| bip_39_word_new_line4 | sun
+volume
+feed
+scan |  
+| bip_39_word_new_line5 | sun
+volume
+feed
+scan
+resemble |  
+| bip_39_word_new_line6 | sun
+volume
+feed
+scan
+resemble
+genius |  
+| bip_39_word_new_line7 | sun
+volume
+feed
+scan
+resemble
+genius
+execute |  
+| bip_39_word_new_line8 | sun
+volume
+feed
+scan
+resemble
+genius
+execute
+need |  
+| bip_39_word_new_line9 | sun
+volume
+feed
+scan
+resemble
+genius
+execute
+need
+lamp |  
+| bip_39_word_space_0 | ['sun', 'volume', 'feed', 'scan', 'resemble', 'genius', 'execute', 'need', 'lamp', 'ketchup', 'stairs', 'arrange'] |  
+| bip_39_word_space_1 | sun |  
+| bip_39_word_space_10 | sun volume feed scan resemble genius execute need lamp ketchup |  
+| bip_39_word_space_11 | sun volume feed scan resemble genius execute need lamp ketchup stairs |  
+| bip_39_word_space_12 | sun volume feed scan resemble genius execute need lamp ketchup stairs arrange |  
+| bip_39_word_space_2 | sun volume |  
+| bip_39_word_space_3 | sun volume feed |  
+| bip_39_word_space_4 | sun volume feed scan |  
+| bip_39_word_space_5 | sun volume feed scan resemble |  
+| bip_39_word_space_6 | sun volume feed scan resemble genius |  
+| bip_39_word_space_7 | sun volume feed scan resemble genius execute |  
+| bip_39_word_space_8 | sun volume feed scan resemble genius execute need |  
+| bip_39_word_space_9 | sun volume feed scan resemble genius execute need lamp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

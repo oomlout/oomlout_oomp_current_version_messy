@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rival ten
+  * bip 39 word 3: rival ten pitch
+  * bip 39 word: rival ten pitch fame glow cool term inform enlist blind enroll about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rival |  
+| bip_39_word_new_br10 | rival<br>ten<br>pitch<br>fame<br>glow<br>cool<br>term<br>inform<br>enlist<br>blind |  
+| bip_39_word_new_br11 | rival<br>ten<br>pitch<br>fame<br>glow<br>cool<br>term<br>inform<br>enlist<br>blind<br>enroll |  
+| bip_39_word_new_br12 | rival<br>ten<br>pitch<br>fame<br>glow<br>cool<br>term<br>inform<br>enlist<br>blind<br>enroll<br>about |  
+| bip_39_word_new_br2 | rival<br>ten |  
+| bip_39_word_new_br3 | rival<br>ten<br>pitch |  
+| bip_39_word_new_br4 | rival<br>ten<br>pitch<br>fame |  
+| bip_39_word_new_br5 | rival<br>ten<br>pitch<br>fame<br>glow |  
+| bip_39_word_new_br6 | rival<br>ten<br>pitch<br>fame<br>glow<br>cool |  
+| bip_39_word_new_br7 | rival<br>ten<br>pitch<br>fame<br>glow<br>cool<br>term |  
+| bip_39_word_new_br8 | rival<br>ten<br>pitch<br>fame<br>glow<br>cool<br>term<br>inform |  
+| bip_39_word_new_br9 | rival<br>ten<br>pitch<br>fame<br>glow<br>cool<br>term<br>inform<br>enlist |  
+| bip_39_word_new_line1 | rival |  
+| bip_39_word_new_line10 | rival
+ten
+pitch
+fame
+glow
+cool
+term
+inform
+enlist
+blind |  
+| bip_39_word_new_line11 | rival
+ten
+pitch
+fame
+glow
+cool
+term
+inform
+enlist
+blind
+enroll |  
+| bip_39_word_new_line12 | rival
+ten
+pitch
+fame
+glow
+cool
+term
+inform
+enlist
+blind
+enroll
+about |  
+| bip_39_word_new_line2 | rival
+ten |  
+| bip_39_word_new_line3 | rival
+ten
+pitch |  
+| bip_39_word_new_line4 | rival
+ten
+pitch
+fame |  
+| bip_39_word_new_line5 | rival
+ten
+pitch
+fame
+glow |  
+| bip_39_word_new_line6 | rival
+ten
+pitch
+fame
+glow
+cool |  
+| bip_39_word_new_line7 | rival
+ten
+pitch
+fame
+glow
+cool
+term |  
+| bip_39_word_new_line8 | rival
+ten
+pitch
+fame
+glow
+cool
+term
+inform |  
+| bip_39_word_new_line9 | rival
+ten
+pitch
+fame
+glow
+cool
+term
+inform
+enlist |  
+| bip_39_word_space_0 | ['rival', 'ten', 'pitch', 'fame', 'glow', 'cool', 'term', 'inform', 'enlist', 'blind', 'enroll', 'about'] |  
+| bip_39_word_space_1 | rival |  
+| bip_39_word_space_10 | rival ten pitch fame glow cool term inform enlist blind |  
+| bip_39_word_space_11 | rival ten pitch fame glow cool term inform enlist blind enroll |  
+| bip_39_word_space_12 | rival ten pitch fame glow cool term inform enlist blind enroll about |  
+| bip_39_word_space_2 | rival ten |  
+| bip_39_word_space_3 | rival ten pitch |  
+| bip_39_word_space_4 | rival ten pitch fame |  
+| bip_39_word_space_5 | rival ten pitch fame glow |  
+| bip_39_word_space_6 | rival ten pitch fame glow cool |  
+| bip_39_word_space_7 | rival ten pitch fame glow cool term |  
+| bip_39_word_space_8 | rival ten pitch fame glow cool term inform |  
+| bip_39_word_space_9 | rival ten pitch fame glow cool term inform enlist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

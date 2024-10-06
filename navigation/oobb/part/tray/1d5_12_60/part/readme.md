@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frost inflict
+  * bip 39 word 3: frost inflict stomach
+  * bip 39 word: frost inflict stomach citizen orchard timber tumble cycle rapid pave fever autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frost |  
+| bip_39_word_new_br10 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber<br>tumble<br>cycle<br>rapid<br>pave |  
+| bip_39_word_new_br11 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber<br>tumble<br>cycle<br>rapid<br>pave<br>fever |  
+| bip_39_word_new_br12 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber<br>tumble<br>cycle<br>rapid<br>pave<br>fever<br>autumn |  
+| bip_39_word_new_br2 | frost<br>inflict |  
+| bip_39_word_new_br3 | frost<br>inflict<br>stomach |  
+| bip_39_word_new_br4 | frost<br>inflict<br>stomach<br>citizen |  
+| bip_39_word_new_br5 | frost<br>inflict<br>stomach<br>citizen<br>orchard |  
+| bip_39_word_new_br6 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber |  
+| bip_39_word_new_br7 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber<br>tumble |  
+| bip_39_word_new_br8 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber<br>tumble<br>cycle |  
+| bip_39_word_new_br9 | frost<br>inflict<br>stomach<br>citizen<br>orchard<br>timber<br>tumble<br>cycle<br>rapid |  
+| bip_39_word_new_line1 | frost |  
+| bip_39_word_new_line10 | frost
+inflict
+stomach
+citizen
+orchard
+timber
+tumble
+cycle
+rapid
+pave |  
+| bip_39_word_new_line11 | frost
+inflict
+stomach
+citizen
+orchard
+timber
+tumble
+cycle
+rapid
+pave
+fever |  
+| bip_39_word_new_line12 | frost
+inflict
+stomach
+citizen
+orchard
+timber
+tumble
+cycle
+rapid
+pave
+fever
+autumn |  
+| bip_39_word_new_line2 | frost
+inflict |  
+| bip_39_word_new_line3 | frost
+inflict
+stomach |  
+| bip_39_word_new_line4 | frost
+inflict
+stomach
+citizen |  
+| bip_39_word_new_line5 | frost
+inflict
+stomach
+citizen
+orchard |  
+| bip_39_word_new_line6 | frost
+inflict
+stomach
+citizen
+orchard
+timber |  
+| bip_39_word_new_line7 | frost
+inflict
+stomach
+citizen
+orchard
+timber
+tumble |  
+| bip_39_word_new_line8 | frost
+inflict
+stomach
+citizen
+orchard
+timber
+tumble
+cycle |  
+| bip_39_word_new_line9 | frost
+inflict
+stomach
+citizen
+orchard
+timber
+tumble
+cycle
+rapid |  
+| bip_39_word_space_0 | ['frost', 'inflict', 'stomach', 'citizen', 'orchard', 'timber', 'tumble', 'cycle', 'rapid', 'pave', 'fever', 'autumn'] |  
+| bip_39_word_space_1 | frost |  
+| bip_39_word_space_10 | frost inflict stomach citizen orchard timber tumble cycle rapid pave |  
+| bip_39_word_space_11 | frost inflict stomach citizen orchard timber tumble cycle rapid pave fever |  
+| bip_39_word_space_12 | frost inflict stomach citizen orchard timber tumble cycle rapid pave fever autumn |  
+| bip_39_word_space_2 | frost inflict |  
+| bip_39_word_space_3 | frost inflict stomach |  
+| bip_39_word_space_4 | frost inflict stomach citizen |  
+| bip_39_word_space_5 | frost inflict stomach citizen orchard |  
+| bip_39_word_space_6 | frost inflict stomach citizen orchard timber |  
+| bip_39_word_space_7 | frost inflict stomach citizen orchard timber tumble |  
+| bip_39_word_space_8 | frost inflict stomach citizen orchard timber tumble cycle |  
+| bip_39_word_space_9 | frost inflict stomach citizen orchard timber tumble cycle rapid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

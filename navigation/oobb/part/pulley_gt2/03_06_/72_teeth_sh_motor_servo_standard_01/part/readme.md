@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: voice seek
+  * bip 39 word 3: voice seek offer
+  * bip 39 word: voice seek offer uniform obvious swim occur boost sick dolphin auction any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | voice |  
+| bip_39_word_new_br10 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin |  
+| bip_39_word_new_br11 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin<br>auction |  
+| bip_39_word_new_br12 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick<br>dolphin<br>auction<br>any |  
+| bip_39_word_new_br2 | voice<br>seek |  
+| bip_39_word_new_br3 | voice<br>seek<br>offer |  
+| bip_39_word_new_br4 | voice<br>seek<br>offer<br>uniform |  
+| bip_39_word_new_br5 | voice<br>seek<br>offer<br>uniform<br>obvious |  
+| bip_39_word_new_br6 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim |  
+| bip_39_word_new_br7 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur |  
+| bip_39_word_new_br8 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost |  
+| bip_39_word_new_br9 | voice<br>seek<br>offer<br>uniform<br>obvious<br>swim<br>occur<br>boost<br>sick |  
+| bip_39_word_new_line1 | voice |  
+| bip_39_word_new_line10 | voice
+seek
+offer
+uniform
+obvious
+swim
+occur
+boost
+sick
+dolphin |  
+| bip_39_word_new_line11 | voice
+seek
+offer
+uniform
+obvious
+swim
+occur
+boost
+sick
+dolphin
+auction |  
+| bip_39_word_new_line12 | voice
+seek
+offer
+uniform
+obvious
+swim
+occur
+boost
+sick
+dolphin
+auction
+any |  
+| bip_39_word_new_line2 | voice
+seek |  
+| bip_39_word_new_line3 | voice
+seek
+offer |  
+| bip_39_word_new_line4 | voice
+seek
+offer
+uniform |  
+| bip_39_word_new_line5 | voice
+seek
+offer
+uniform
+obvious |  
+| bip_39_word_new_line6 | voice
+seek
+offer
+uniform
+obvious
+swim |  
+| bip_39_word_new_line7 | voice
+seek
+offer
+uniform
+obvious
+swim
+occur |  
+| bip_39_word_new_line8 | voice
+seek
+offer
+uniform
+obvious
+swim
+occur
+boost |  
+| bip_39_word_new_line9 | voice
+seek
+offer
+uniform
+obvious
+swim
+occur
+boost
+sick |  
+| bip_39_word_space_0 | ['voice', 'seek', 'offer', 'uniform', 'obvious', 'swim', 'occur', 'boost', 'sick', 'dolphin', 'auction', 'any'] |  
+| bip_39_word_space_1 | voice |  
+| bip_39_word_space_10 | voice seek offer uniform obvious swim occur boost sick dolphin |  
+| bip_39_word_space_11 | voice seek offer uniform obvious swim occur boost sick dolphin auction |  
+| bip_39_word_space_12 | voice seek offer uniform obvious swim occur boost sick dolphin auction any |  
+| bip_39_word_space_2 | voice seek |  
+| bip_39_word_space_3 | voice seek offer |  
+| bip_39_word_space_4 | voice seek offer uniform |  
+| bip_39_word_space_5 | voice seek offer uniform obvious |  
+| bip_39_word_space_6 | voice seek offer uniform obvious swim |  
+| bip_39_word_space_7 | voice seek offer uniform obvious swim occur |  
+| bip_39_word_space_8 | voice seek offer uniform obvious swim occur boost |  
+| bip_39_word_space_9 | voice seek offer uniform obvious swim occur boost sick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

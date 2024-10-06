@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fever metal
+  * bip 39 word 3: fever metal focus
+  * bip 39 word: fever metal focus divorce obscure announce razor joke patch dizzy danger atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fever |  
+| bip_39_word_new_br10 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce<br>razor<br>joke<br>patch<br>dizzy |  
+| bip_39_word_new_br11 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce<br>razor<br>joke<br>patch<br>dizzy<br>danger |  
+| bip_39_word_new_br12 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce<br>razor<br>joke<br>patch<br>dizzy<br>danger<br>atom |  
+| bip_39_word_new_br2 | fever<br>metal |  
+| bip_39_word_new_br3 | fever<br>metal<br>focus |  
+| bip_39_word_new_br4 | fever<br>metal<br>focus<br>divorce |  
+| bip_39_word_new_br5 | fever<br>metal<br>focus<br>divorce<br>obscure |  
+| bip_39_word_new_br6 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce |  
+| bip_39_word_new_br7 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce<br>razor |  
+| bip_39_word_new_br8 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce<br>razor<br>joke |  
+| bip_39_word_new_br9 | fever<br>metal<br>focus<br>divorce<br>obscure<br>announce<br>razor<br>joke<br>patch |  
+| bip_39_word_new_line1 | fever |  
+| bip_39_word_new_line10 | fever
+metal
+focus
+divorce
+obscure
+announce
+razor
+joke
+patch
+dizzy |  
+| bip_39_word_new_line11 | fever
+metal
+focus
+divorce
+obscure
+announce
+razor
+joke
+patch
+dizzy
+danger |  
+| bip_39_word_new_line12 | fever
+metal
+focus
+divorce
+obscure
+announce
+razor
+joke
+patch
+dizzy
+danger
+atom |  
+| bip_39_word_new_line2 | fever
+metal |  
+| bip_39_word_new_line3 | fever
+metal
+focus |  
+| bip_39_word_new_line4 | fever
+metal
+focus
+divorce |  
+| bip_39_word_new_line5 | fever
+metal
+focus
+divorce
+obscure |  
+| bip_39_word_new_line6 | fever
+metal
+focus
+divorce
+obscure
+announce |  
+| bip_39_word_new_line7 | fever
+metal
+focus
+divorce
+obscure
+announce
+razor |  
+| bip_39_word_new_line8 | fever
+metal
+focus
+divorce
+obscure
+announce
+razor
+joke |  
+| bip_39_word_new_line9 | fever
+metal
+focus
+divorce
+obscure
+announce
+razor
+joke
+patch |  
+| bip_39_word_space_0 | ['fever', 'metal', 'focus', 'divorce', 'obscure', 'announce', 'razor', 'joke', 'patch', 'dizzy', 'danger', 'atom'] |  
+| bip_39_word_space_1 | fever |  
+| bip_39_word_space_10 | fever metal focus divorce obscure announce razor joke patch dizzy |  
+| bip_39_word_space_11 | fever metal focus divorce obscure announce razor joke patch dizzy danger |  
+| bip_39_word_space_12 | fever metal focus divorce obscure announce razor joke patch dizzy danger atom |  
+| bip_39_word_space_2 | fever metal |  
+| bip_39_word_space_3 | fever metal focus |  
+| bip_39_word_space_4 | fever metal focus divorce |  
+| bip_39_word_space_5 | fever metal focus divorce obscure |  
+| bip_39_word_space_6 | fever metal focus divorce obscure announce |  
+| bip_39_word_space_7 | fever metal focus divorce obscure announce razor |  
+| bip_39_word_space_8 | fever metal focus divorce obscure announce razor joke |  
+| bip_39_word_space_9 | fever metal focus divorce obscure announce razor joke patch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

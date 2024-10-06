@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: worth possible
+  * bip 39 word 3: worth possible kid
+  * bip 39 word: worth possible kid scene grass loyal column airport clock wish phrase assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | worth |  
+| bip_39_word_new_br10 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish |  
+| bip_39_word_new_br11 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish<br>phrase |  
+| bip_39_word_new_br12 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish<br>phrase<br>assist |  
+| bip_39_word_new_br2 | worth<br>possible |  
+| bip_39_word_new_br3 | worth<br>possible<br>kid |  
+| bip_39_word_new_br4 | worth<br>possible<br>kid<br>scene |  
+| bip_39_word_new_br5 | worth<br>possible<br>kid<br>scene<br>grass |  
+| bip_39_word_new_br6 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal |  
+| bip_39_word_new_br7 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column |  
+| bip_39_word_new_br8 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport |  
+| bip_39_word_new_br9 | worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock |  
+| bip_39_word_new_line1 | worth |  
+| bip_39_word_new_line10 | worth
+possible
+kid
+scene
+grass
+loyal
+column
+airport
+clock
+wish |  
+| bip_39_word_new_line11 | worth
+possible
+kid
+scene
+grass
+loyal
+column
+airport
+clock
+wish
+phrase |  
+| bip_39_word_new_line12 | worth
+possible
+kid
+scene
+grass
+loyal
+column
+airport
+clock
+wish
+phrase
+assist |  
+| bip_39_word_new_line2 | worth
+possible |  
+| bip_39_word_new_line3 | worth
+possible
+kid |  
+| bip_39_word_new_line4 | worth
+possible
+kid
+scene |  
+| bip_39_word_new_line5 | worth
+possible
+kid
+scene
+grass |  
+| bip_39_word_new_line6 | worth
+possible
+kid
+scene
+grass
+loyal |  
+| bip_39_word_new_line7 | worth
+possible
+kid
+scene
+grass
+loyal
+column |  
+| bip_39_word_new_line8 | worth
+possible
+kid
+scene
+grass
+loyal
+column
+airport |  
+| bip_39_word_new_line9 | worth
+possible
+kid
+scene
+grass
+loyal
+column
+airport
+clock |  
+| bip_39_word_space_0 | ['worth', 'possible', 'kid', 'scene', 'grass', 'loyal', 'column', 'airport', 'clock', 'wish', 'phrase', 'assist'] |  
+| bip_39_word_space_1 | worth |  
+| bip_39_word_space_10 | worth possible kid scene grass loyal column airport clock wish |  
+| bip_39_word_space_11 | worth possible kid scene grass loyal column airport clock wish phrase |  
+| bip_39_word_space_12 | worth possible kid scene grass loyal column airport clock wish phrase assist |  
+| bip_39_word_space_2 | worth possible |  
+| bip_39_word_space_3 | worth possible kid |  
+| bip_39_word_space_4 | worth possible kid scene |  
+| bip_39_word_space_5 | worth possible kid scene grass |  
+| bip_39_word_space_6 | worth possible kid scene grass loyal |  
+| bip_39_word_space_7 | worth possible kid scene grass loyal column |  
+| bip_39_word_space_8 | worth possible kid scene grass loyal column airport |  
+| bip_39_word_space_9 | worth possible kid scene grass loyal column airport clock |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wink valid
+  * bip 39 word 3: wink valid fortune
+  * bip 39 word: wink valid fortune present dutch possible wire oppose under merge sunny angle
 
 ### other_codes
 * short_code: b5m35
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wink |  
+| bip_39_word_new_br10 | wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose<br>under<br>merge |  
+| bip_39_word_new_br11 | wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose<br>under<br>merge<br>sunny |  
+| bip_39_word_new_br12 | wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose<br>under<br>merge<br>sunny<br>angle |  
+| bip_39_word_new_br2 | wink<br>valid |  
+| bip_39_word_new_br3 | wink<br>valid<br>fortune |  
+| bip_39_word_new_br4 | wink<br>valid<br>fortune<br>present |  
+| bip_39_word_new_br5 | wink<br>valid<br>fortune<br>present<br>dutch |  
+| bip_39_word_new_br6 | wink<br>valid<br>fortune<br>present<br>dutch<br>possible |  
+| bip_39_word_new_br7 | wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire |  
+| bip_39_word_new_br8 | wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose |  
+| bip_39_word_new_br9 | wink<br>valid<br>fortune<br>present<br>dutch<br>possible<br>wire<br>oppose<br>under |  
+| bip_39_word_new_line1 | wink |  
+| bip_39_word_new_line10 | wink
+valid
+fortune
+present
+dutch
+possible
+wire
+oppose
+under
+merge |  
+| bip_39_word_new_line11 | wink
+valid
+fortune
+present
+dutch
+possible
+wire
+oppose
+under
+merge
+sunny |  
+| bip_39_word_new_line12 | wink
+valid
+fortune
+present
+dutch
+possible
+wire
+oppose
+under
+merge
+sunny
+angle |  
+| bip_39_word_new_line2 | wink
+valid |  
+| bip_39_word_new_line3 | wink
+valid
+fortune |  
+| bip_39_word_new_line4 | wink
+valid
+fortune
+present |  
+| bip_39_word_new_line5 | wink
+valid
+fortune
+present
+dutch |  
+| bip_39_word_new_line6 | wink
+valid
+fortune
+present
+dutch
+possible |  
+| bip_39_word_new_line7 | wink
+valid
+fortune
+present
+dutch
+possible
+wire |  
+| bip_39_word_new_line8 | wink
+valid
+fortune
+present
+dutch
+possible
+wire
+oppose |  
+| bip_39_word_new_line9 | wink
+valid
+fortune
+present
+dutch
+possible
+wire
+oppose
+under |  
+| bip_39_word_space_0 | ['wink', 'valid', 'fortune', 'present', 'dutch', 'possible', 'wire', 'oppose', 'under', 'merge', 'sunny', 'angle'] |  
+| bip_39_word_space_1 | wink |  
+| bip_39_word_space_10 | wink valid fortune present dutch possible wire oppose under merge |  
+| bip_39_word_space_11 | wink valid fortune present dutch possible wire oppose under merge sunny |  
+| bip_39_word_space_12 | wink valid fortune present dutch possible wire oppose under merge sunny angle |  
+| bip_39_word_space_2 | wink valid |  
+| bip_39_word_space_3 | wink valid fortune |  
+| bip_39_word_space_4 | wink valid fortune present |  
+| bip_39_word_space_5 | wink valid fortune present dutch |  
+| bip_39_word_space_6 | wink valid fortune present dutch possible |  
+| bip_39_word_space_7 | wink valid fortune present dutch possible wire |  
+| bip_39_word_space_8 | wink valid fortune present dutch possible wire oppose |  
+| bip_39_word_space_9 | wink valid fortune present dutch possible wire oppose under |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

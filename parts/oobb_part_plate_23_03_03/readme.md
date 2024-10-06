@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: script kangaroo
+  * bip 39 word 3: script kangaroo major
+  * bip 39 word: script kangaroo major any harbor year goose rebuild fatigue witness neck asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | script |  
+| bip_39_word_new_br10 | script<br>kangaroo<br>major<br>any<br>harbor<br>year<br>goose<br>rebuild<br>fatigue<br>witness |  
+| bip_39_word_new_br11 | script<br>kangaroo<br>major<br>any<br>harbor<br>year<br>goose<br>rebuild<br>fatigue<br>witness<br>neck |  
+| bip_39_word_new_br12 | script<br>kangaroo<br>major<br>any<br>harbor<br>year<br>goose<br>rebuild<br>fatigue<br>witness<br>neck<br>asset |  
+| bip_39_word_new_br2 | script<br>kangaroo |  
+| bip_39_word_new_br3 | script<br>kangaroo<br>major |  
+| bip_39_word_new_br4 | script<br>kangaroo<br>major<br>any |  
+| bip_39_word_new_br5 | script<br>kangaroo<br>major<br>any<br>harbor |  
+| bip_39_word_new_br6 | script<br>kangaroo<br>major<br>any<br>harbor<br>year |  
+| bip_39_word_new_br7 | script<br>kangaroo<br>major<br>any<br>harbor<br>year<br>goose |  
+| bip_39_word_new_br8 | script<br>kangaroo<br>major<br>any<br>harbor<br>year<br>goose<br>rebuild |  
+| bip_39_word_new_br9 | script<br>kangaroo<br>major<br>any<br>harbor<br>year<br>goose<br>rebuild<br>fatigue |  
+| bip_39_word_new_line1 | script |  
+| bip_39_word_new_line10 | script
+kangaroo
+major
+any
+harbor
+year
+goose
+rebuild
+fatigue
+witness |  
+| bip_39_word_new_line11 | script
+kangaroo
+major
+any
+harbor
+year
+goose
+rebuild
+fatigue
+witness
+neck |  
+| bip_39_word_new_line12 | script
+kangaroo
+major
+any
+harbor
+year
+goose
+rebuild
+fatigue
+witness
+neck
+asset |  
+| bip_39_word_new_line2 | script
+kangaroo |  
+| bip_39_word_new_line3 | script
+kangaroo
+major |  
+| bip_39_word_new_line4 | script
+kangaroo
+major
+any |  
+| bip_39_word_new_line5 | script
+kangaroo
+major
+any
+harbor |  
+| bip_39_word_new_line6 | script
+kangaroo
+major
+any
+harbor
+year |  
+| bip_39_word_new_line7 | script
+kangaroo
+major
+any
+harbor
+year
+goose |  
+| bip_39_word_new_line8 | script
+kangaroo
+major
+any
+harbor
+year
+goose
+rebuild |  
+| bip_39_word_new_line9 | script
+kangaroo
+major
+any
+harbor
+year
+goose
+rebuild
+fatigue |  
+| bip_39_word_space_0 | ['script', 'kangaroo', 'major', 'any', 'harbor', 'year', 'goose', 'rebuild', 'fatigue', 'witness', 'neck', 'asset'] |  
+| bip_39_word_space_1 | script |  
+| bip_39_word_space_10 | script kangaroo major any harbor year goose rebuild fatigue witness |  
+| bip_39_word_space_11 | script kangaroo major any harbor year goose rebuild fatigue witness neck |  
+| bip_39_word_space_12 | script kangaroo major any harbor year goose rebuild fatigue witness neck asset |  
+| bip_39_word_space_2 | script kangaroo |  
+| bip_39_word_space_3 | script kangaroo major |  
+| bip_39_word_space_4 | script kangaroo major any |  
+| bip_39_word_space_5 | script kangaroo major any harbor |  
+| bip_39_word_space_6 | script kangaroo major any harbor year |  
+| bip_39_word_space_7 | script kangaroo major any harbor year goose |  
+| bip_39_word_space_8 | script kangaroo major any harbor year goose rebuild |  
+| bip_39_word_space_9 | script kangaroo major any harbor year goose rebuild fatigue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

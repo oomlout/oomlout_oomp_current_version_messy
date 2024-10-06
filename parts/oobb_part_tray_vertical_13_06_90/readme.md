@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: use tuition
+  * bip 39 word 3: use tuition toe
+  * bip 39 word: use tuition toe movie grief because assault build upon seed earth apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | use |  
+| bip_39_word_new_br10 | use<br>tuition<br>toe<br>movie<br>grief<br>because<br>assault<br>build<br>upon<br>seed |  
+| bip_39_word_new_br11 | use<br>tuition<br>toe<br>movie<br>grief<br>because<br>assault<br>build<br>upon<br>seed<br>earth |  
+| bip_39_word_new_br12 | use<br>tuition<br>toe<br>movie<br>grief<br>because<br>assault<br>build<br>upon<br>seed<br>earth<br>apple |  
+| bip_39_word_new_br2 | use<br>tuition |  
+| bip_39_word_new_br3 | use<br>tuition<br>toe |  
+| bip_39_word_new_br4 | use<br>tuition<br>toe<br>movie |  
+| bip_39_word_new_br5 | use<br>tuition<br>toe<br>movie<br>grief |  
+| bip_39_word_new_br6 | use<br>tuition<br>toe<br>movie<br>grief<br>because |  
+| bip_39_word_new_br7 | use<br>tuition<br>toe<br>movie<br>grief<br>because<br>assault |  
+| bip_39_word_new_br8 | use<br>tuition<br>toe<br>movie<br>grief<br>because<br>assault<br>build |  
+| bip_39_word_new_br9 | use<br>tuition<br>toe<br>movie<br>grief<br>because<br>assault<br>build<br>upon |  
+| bip_39_word_new_line1 | use |  
+| bip_39_word_new_line10 | use
+tuition
+toe
+movie
+grief
+because
+assault
+build
+upon
+seed |  
+| bip_39_word_new_line11 | use
+tuition
+toe
+movie
+grief
+because
+assault
+build
+upon
+seed
+earth |  
+| bip_39_word_new_line12 | use
+tuition
+toe
+movie
+grief
+because
+assault
+build
+upon
+seed
+earth
+apple |  
+| bip_39_word_new_line2 | use
+tuition |  
+| bip_39_word_new_line3 | use
+tuition
+toe |  
+| bip_39_word_new_line4 | use
+tuition
+toe
+movie |  
+| bip_39_word_new_line5 | use
+tuition
+toe
+movie
+grief |  
+| bip_39_word_new_line6 | use
+tuition
+toe
+movie
+grief
+because |  
+| bip_39_word_new_line7 | use
+tuition
+toe
+movie
+grief
+because
+assault |  
+| bip_39_word_new_line8 | use
+tuition
+toe
+movie
+grief
+because
+assault
+build |  
+| bip_39_word_new_line9 | use
+tuition
+toe
+movie
+grief
+because
+assault
+build
+upon |  
+| bip_39_word_space_0 | ['use', 'tuition', 'toe', 'movie', 'grief', 'because', 'assault', 'build', 'upon', 'seed', 'earth', 'apple'] |  
+| bip_39_word_space_1 | use |  
+| bip_39_word_space_10 | use tuition toe movie grief because assault build upon seed |  
+| bip_39_word_space_11 | use tuition toe movie grief because assault build upon seed earth |  
+| bip_39_word_space_12 | use tuition toe movie grief because assault build upon seed earth apple |  
+| bip_39_word_space_2 | use tuition |  
+| bip_39_word_space_3 | use tuition toe |  
+| bip_39_word_space_4 | use tuition toe movie |  
+| bip_39_word_space_5 | use tuition toe movie grief |  
+| bip_39_word_space_6 | use tuition toe movie grief because |  
+| bip_39_word_space_7 | use tuition toe movie grief because assault |  
+| bip_39_word_space_8 | use tuition toe movie grief because assault build |  
+| bip_39_word_space_9 | use tuition toe movie grief because assault build upon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

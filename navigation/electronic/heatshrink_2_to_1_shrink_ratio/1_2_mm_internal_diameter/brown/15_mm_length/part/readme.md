@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: opinion myth
+  * bip 39 word 3: opinion myth donor
+  * bip 39 word: opinion myth donor language lend keep wide little rate cabbage million attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | opinion |  
+| bip_39_word_new_br10 | opinion<br>myth<br>donor<br>language<br>lend<br>keep<br>wide<br>little<br>rate<br>cabbage |  
+| bip_39_word_new_br11 | opinion<br>myth<br>donor<br>language<br>lend<br>keep<br>wide<br>little<br>rate<br>cabbage<br>million |  
+| bip_39_word_new_br12 | opinion<br>myth<br>donor<br>language<br>lend<br>keep<br>wide<br>little<br>rate<br>cabbage<br>million<br>attend |  
+| bip_39_word_new_br2 | opinion<br>myth |  
+| bip_39_word_new_br3 | opinion<br>myth<br>donor |  
+| bip_39_word_new_br4 | opinion<br>myth<br>donor<br>language |  
+| bip_39_word_new_br5 | opinion<br>myth<br>donor<br>language<br>lend |  
+| bip_39_word_new_br6 | opinion<br>myth<br>donor<br>language<br>lend<br>keep |  
+| bip_39_word_new_br7 | opinion<br>myth<br>donor<br>language<br>lend<br>keep<br>wide |  
+| bip_39_word_new_br8 | opinion<br>myth<br>donor<br>language<br>lend<br>keep<br>wide<br>little |  
+| bip_39_word_new_br9 | opinion<br>myth<br>donor<br>language<br>lend<br>keep<br>wide<br>little<br>rate |  
+| bip_39_word_new_line1 | opinion |  
+| bip_39_word_new_line10 | opinion
+myth
+donor
+language
+lend
+keep
+wide
+little
+rate
+cabbage |  
+| bip_39_word_new_line11 | opinion
+myth
+donor
+language
+lend
+keep
+wide
+little
+rate
+cabbage
+million |  
+| bip_39_word_new_line12 | opinion
+myth
+donor
+language
+lend
+keep
+wide
+little
+rate
+cabbage
+million
+attend |  
+| bip_39_word_new_line2 | opinion
+myth |  
+| bip_39_word_new_line3 | opinion
+myth
+donor |  
+| bip_39_word_new_line4 | opinion
+myth
+donor
+language |  
+| bip_39_word_new_line5 | opinion
+myth
+donor
+language
+lend |  
+| bip_39_word_new_line6 | opinion
+myth
+donor
+language
+lend
+keep |  
+| bip_39_word_new_line7 | opinion
+myth
+donor
+language
+lend
+keep
+wide |  
+| bip_39_word_new_line8 | opinion
+myth
+donor
+language
+lend
+keep
+wide
+little |  
+| bip_39_word_new_line9 | opinion
+myth
+donor
+language
+lend
+keep
+wide
+little
+rate |  
+| bip_39_word_space_0 | ['opinion', 'myth', 'donor', 'language', 'lend', 'keep', 'wide', 'little', 'rate', 'cabbage', 'million', 'attend'] |  
+| bip_39_word_space_1 | opinion |  
+| bip_39_word_space_10 | opinion myth donor language lend keep wide little rate cabbage |  
+| bip_39_word_space_11 | opinion myth donor language lend keep wide little rate cabbage million |  
+| bip_39_word_space_12 | opinion myth donor language lend keep wide little rate cabbage million attend |  
+| bip_39_word_space_2 | opinion myth |  
+| bip_39_word_space_3 | opinion myth donor |  
+| bip_39_word_space_4 | opinion myth donor language |  
+| bip_39_word_space_5 | opinion myth donor language lend |  
+| bip_39_word_space_6 | opinion myth donor language lend keep |  
+| bip_39_word_space_7 | opinion myth donor language lend keep wide |  
+| bip_39_word_space_8 | opinion myth donor language lend keep wide little |  
+| bip_39_word_space_9 | opinion myth donor language lend keep wide little rate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

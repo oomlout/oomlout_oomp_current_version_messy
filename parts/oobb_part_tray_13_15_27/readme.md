@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toe inside
+  * bip 39 word 3: toe inside strategy
+  * bip 39 word: toe inside strategy club egg endorse access finish bread bullet place arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toe |  
+| bip_39_word_new_br10 | toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish<br>bread<br>bullet |  
+| bip_39_word_new_br11 | toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish<br>bread<br>bullet<br>place |  
+| bip_39_word_new_br12 | toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish<br>bread<br>bullet<br>place<br>arrive |  
+| bip_39_word_new_br2 | toe<br>inside |  
+| bip_39_word_new_br3 | toe<br>inside<br>strategy |  
+| bip_39_word_new_br4 | toe<br>inside<br>strategy<br>club |  
+| bip_39_word_new_br5 | toe<br>inside<br>strategy<br>club<br>egg |  
+| bip_39_word_new_br6 | toe<br>inside<br>strategy<br>club<br>egg<br>endorse |  
+| bip_39_word_new_br7 | toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access |  
+| bip_39_word_new_br8 | toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish |  
+| bip_39_word_new_br9 | toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish<br>bread |  
+| bip_39_word_new_line1 | toe |  
+| bip_39_word_new_line10 | toe
+inside
+strategy
+club
+egg
+endorse
+access
+finish
+bread
+bullet |  
+| bip_39_word_new_line11 | toe
+inside
+strategy
+club
+egg
+endorse
+access
+finish
+bread
+bullet
+place |  
+| bip_39_word_new_line12 | toe
+inside
+strategy
+club
+egg
+endorse
+access
+finish
+bread
+bullet
+place
+arrive |  
+| bip_39_word_new_line2 | toe
+inside |  
+| bip_39_word_new_line3 | toe
+inside
+strategy |  
+| bip_39_word_new_line4 | toe
+inside
+strategy
+club |  
+| bip_39_word_new_line5 | toe
+inside
+strategy
+club
+egg |  
+| bip_39_word_new_line6 | toe
+inside
+strategy
+club
+egg
+endorse |  
+| bip_39_word_new_line7 | toe
+inside
+strategy
+club
+egg
+endorse
+access |  
+| bip_39_word_new_line8 | toe
+inside
+strategy
+club
+egg
+endorse
+access
+finish |  
+| bip_39_word_new_line9 | toe
+inside
+strategy
+club
+egg
+endorse
+access
+finish
+bread |  
+| bip_39_word_space_0 | ['toe', 'inside', 'strategy', 'club', 'egg', 'endorse', 'access', 'finish', 'bread', 'bullet', 'place', 'arrive'] |  
+| bip_39_word_space_1 | toe |  
+| bip_39_word_space_10 | toe inside strategy club egg endorse access finish bread bullet |  
+| bip_39_word_space_11 | toe inside strategy club egg endorse access finish bread bullet place |  
+| bip_39_word_space_12 | toe inside strategy club egg endorse access finish bread bullet place arrive |  
+| bip_39_word_space_2 | toe inside |  
+| bip_39_word_space_3 | toe inside strategy |  
+| bip_39_word_space_4 | toe inside strategy club |  
+| bip_39_word_space_5 | toe inside strategy club egg |  
+| bip_39_word_space_6 | toe inside strategy club egg endorse |  
+| bip_39_word_space_7 | toe inside strategy club egg endorse access |  
+| bip_39_word_space_8 | toe inside strategy club egg endorse access finish |  
+| bip_39_word_space_9 | toe inside strategy club egg endorse access finish bread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

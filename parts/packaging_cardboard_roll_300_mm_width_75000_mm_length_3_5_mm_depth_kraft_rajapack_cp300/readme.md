@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: rajapack
   * part_number: cp300
+  * bip 39 word 2: rhythm error
+  * bip 39 word 3: rhythm error assume
+  * bip 39 word: rhythm error assume blossom recycle wheel hip comic nominee always journey around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rhythm |  
+| bip_39_word_new_br10 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel<br>hip<br>comic<br>nominee<br>always |  
+| bip_39_word_new_br11 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel<br>hip<br>comic<br>nominee<br>always<br>journey |  
+| bip_39_word_new_br12 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel<br>hip<br>comic<br>nominee<br>always<br>journey<br>around |  
+| bip_39_word_new_br2 | rhythm<br>error |  
+| bip_39_word_new_br3 | rhythm<br>error<br>assume |  
+| bip_39_word_new_br4 | rhythm<br>error<br>assume<br>blossom |  
+| bip_39_word_new_br5 | rhythm<br>error<br>assume<br>blossom<br>recycle |  
+| bip_39_word_new_br6 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel |  
+| bip_39_word_new_br7 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel<br>hip |  
+| bip_39_word_new_br8 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel<br>hip<br>comic |  
+| bip_39_word_new_br9 | rhythm<br>error<br>assume<br>blossom<br>recycle<br>wheel<br>hip<br>comic<br>nominee |  
+| bip_39_word_new_line1 | rhythm |  
+| bip_39_word_new_line10 | rhythm
+error
+assume
+blossom
+recycle
+wheel
+hip
+comic
+nominee
+always |  
+| bip_39_word_new_line11 | rhythm
+error
+assume
+blossom
+recycle
+wheel
+hip
+comic
+nominee
+always
+journey |  
+| bip_39_word_new_line12 | rhythm
+error
+assume
+blossom
+recycle
+wheel
+hip
+comic
+nominee
+always
+journey
+around |  
+| bip_39_word_new_line2 | rhythm
+error |  
+| bip_39_word_new_line3 | rhythm
+error
+assume |  
+| bip_39_word_new_line4 | rhythm
+error
+assume
+blossom |  
+| bip_39_word_new_line5 | rhythm
+error
+assume
+blossom
+recycle |  
+| bip_39_word_new_line6 | rhythm
+error
+assume
+blossom
+recycle
+wheel |  
+| bip_39_word_new_line7 | rhythm
+error
+assume
+blossom
+recycle
+wheel
+hip |  
+| bip_39_word_new_line8 | rhythm
+error
+assume
+blossom
+recycle
+wheel
+hip
+comic |  
+| bip_39_word_new_line9 | rhythm
+error
+assume
+blossom
+recycle
+wheel
+hip
+comic
+nominee |  
+| bip_39_word_space_0 | ['rhythm', 'error', 'assume', 'blossom', 'recycle', 'wheel', 'hip', 'comic', 'nominee', 'always', 'journey', 'around'] |  
+| bip_39_word_space_1 | rhythm |  
+| bip_39_word_space_10 | rhythm error assume blossom recycle wheel hip comic nominee always |  
+| bip_39_word_space_11 | rhythm error assume blossom recycle wheel hip comic nominee always journey |  
+| bip_39_word_space_12 | rhythm error assume blossom recycle wheel hip comic nominee always journey around |  
+| bip_39_word_space_2 | rhythm error |  
+| bip_39_word_space_3 | rhythm error assume |  
+| bip_39_word_space_4 | rhythm error assume blossom |  
+| bip_39_word_space_5 | rhythm error assume blossom recycle |  
+| bip_39_word_space_6 | rhythm error assume blossom recycle wheel |  
+| bip_39_word_space_7 | rhythm error assume blossom recycle wheel hip |  
+| bip_39_word_space_8 | rhythm error assume blossom recycle wheel hip comic |  
+| bip_39_word_space_9 | rhythm error assume blossom recycle wheel hip comic nominee |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

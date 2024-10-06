@@ -1,3 +1,187 @@
+bip_39_word_new_br1: rebuild
+bip_39_word_new_br10: rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange<br>near<br>invite<br>defense<br>fit
+bip_39_word_new_br11: rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange<br>near<br>invite<br>defense<br>fit<br>industry
+bip_39_word_new_br12: rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange<br>near<br>invite<br>defense<br>fit<br>industry<br>alcohol
+bip_39_word_new_br2: rebuild<br>mosquito
+bip_39_word_new_br3: rebuild<br>mosquito<br>stock
+bip_39_word_new_br4: rebuild<br>mosquito<br>stock<br>shed
+bip_39_word_new_br5: rebuild<br>mosquito<br>stock<br>shed<br>swim
+bip_39_word_new_br6: rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange
+bip_39_word_new_br7: rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange<br>near
+bip_39_word_new_br8: rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange<br>near<br>invite
+bip_39_word_new_br9: rebuild<br>mosquito<br>stock<br>shed<br>swim<br>arrange<br>near<br>invite<br>defense
+bip_39_word_new_line1: rebuild
+bip_39_word_new_line10: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed
+
+  swim
+
+  arrange
+
+  near
+
+  invite
+
+  defense
+
+  fit'
+bip_39_word_new_line11: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed
+
+  swim
+
+  arrange
+
+  near
+
+  invite
+
+  defense
+
+  fit
+
+  industry'
+bip_39_word_new_line12: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed
+
+  swim
+
+  arrange
+
+  near
+
+  invite
+
+  defense
+
+  fit
+
+  industry
+
+  alcohol'
+bip_39_word_new_line2: 'rebuild
+
+  mosquito'
+bip_39_word_new_line3: 'rebuild
+
+  mosquito
+
+  stock'
+bip_39_word_new_line4: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed'
+bip_39_word_new_line5: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed
+
+  swim'
+bip_39_word_new_line6: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed
+
+  swim
+
+  arrange'
+bip_39_word_new_line7: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed
+
+  swim
+
+  arrange
+
+  near'
+bip_39_word_new_line8: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed
+
+  swim
+
+  arrange
+
+  near
+
+  invite'
+bip_39_word_new_line9: 'rebuild
+
+  mosquito
+
+  stock
+
+  shed
+
+  swim
+
+  arrange
+
+  near
+
+  invite
+
+  defense'
+bip_39_word_space_0:
+- rebuild
+- mosquito
+- stock
+- shed
+- swim
+- arrange
+- near
+- invite
+- defense
+- fit
+- industry
+- alcohol
+bip_39_word_space_1: rebuild
+bip_39_word_space_10: rebuild mosquito stock shed swim arrange near invite defense
+  fit
+bip_39_word_space_11: rebuild mosquito stock shed swim arrange near invite defense
+  fit industry
+bip_39_word_space_12: rebuild mosquito stock shed swim arrange near invite defense
+  fit industry alcohol
+bip_39_word_space_2: rebuild mosquito
+bip_39_word_space_3: rebuild mosquito stock
+bip_39_word_space_4: rebuild mosquito stock shed
+bip_39_word_space_5: rebuild mosquito stock shed swim
+bip_39_word_space_6: rebuild mosquito stock shed swim arrange
+bip_39_word_space_7: rebuild mosquito stock shed swim arrange near
+bip_39_word_space_8: rebuild mosquito stock shed swim arrange near invite
+bip_39_word_space_9: rebuild mosquito stock shed swim arrange near invite defense
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

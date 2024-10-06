@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nature stairs
+  * bip 39 word 3: nature stairs enable
+  * bip 39 word: nature stairs enable educate rescue caution immense thrive vast stadium force actress
 
 ### other_codes
 * short_code: n6m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nature |  
+| bip_39_word_new_br10 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast<br>stadium |  
+| bip_39_word_new_br11 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast<br>stadium<br>force |  
+| bip_39_word_new_br12 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast<br>stadium<br>force<br>actress |  
+| bip_39_word_new_br2 | nature<br>stairs |  
+| bip_39_word_new_br3 | nature<br>stairs<br>enable |  
+| bip_39_word_new_br4 | nature<br>stairs<br>enable<br>educate |  
+| bip_39_word_new_br5 | nature<br>stairs<br>enable<br>educate<br>rescue |  
+| bip_39_word_new_br6 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution |  
+| bip_39_word_new_br7 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense |  
+| bip_39_word_new_br8 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive |  
+| bip_39_word_new_br9 | nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast |  
+| bip_39_word_new_line1 | nature |  
+| bip_39_word_new_line10 | nature
+stairs
+enable
+educate
+rescue
+caution
+immense
+thrive
+vast
+stadium |  
+| bip_39_word_new_line11 | nature
+stairs
+enable
+educate
+rescue
+caution
+immense
+thrive
+vast
+stadium
+force |  
+| bip_39_word_new_line12 | nature
+stairs
+enable
+educate
+rescue
+caution
+immense
+thrive
+vast
+stadium
+force
+actress |  
+| bip_39_word_new_line2 | nature
+stairs |  
+| bip_39_word_new_line3 | nature
+stairs
+enable |  
+| bip_39_word_new_line4 | nature
+stairs
+enable
+educate |  
+| bip_39_word_new_line5 | nature
+stairs
+enable
+educate
+rescue |  
+| bip_39_word_new_line6 | nature
+stairs
+enable
+educate
+rescue
+caution |  
+| bip_39_word_new_line7 | nature
+stairs
+enable
+educate
+rescue
+caution
+immense |  
+| bip_39_word_new_line8 | nature
+stairs
+enable
+educate
+rescue
+caution
+immense
+thrive |  
+| bip_39_word_new_line9 | nature
+stairs
+enable
+educate
+rescue
+caution
+immense
+thrive
+vast |  
+| bip_39_word_space_0 | ['nature', 'stairs', 'enable', 'educate', 'rescue', 'caution', 'immense', 'thrive', 'vast', 'stadium', 'force', 'actress'] |  
+| bip_39_word_space_1 | nature |  
+| bip_39_word_space_10 | nature stairs enable educate rescue caution immense thrive vast stadium |  
+| bip_39_word_space_11 | nature stairs enable educate rescue caution immense thrive vast stadium force |  
+| bip_39_word_space_12 | nature stairs enable educate rescue caution immense thrive vast stadium force actress |  
+| bip_39_word_space_2 | nature stairs |  
+| bip_39_word_space_3 | nature stairs enable |  
+| bip_39_word_space_4 | nature stairs enable educate |  
+| bip_39_word_space_5 | nature stairs enable educate rescue |  
+| bip_39_word_space_6 | nature stairs enable educate rescue caution |  
+| bip_39_word_space_7 | nature stairs enable educate rescue caution immense |  
+| bip_39_word_space_8 | nature stairs enable educate rescue caution immense thrive |  
+| bip_39_word_space_9 | nature stairs enable educate rescue caution immense thrive vast |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

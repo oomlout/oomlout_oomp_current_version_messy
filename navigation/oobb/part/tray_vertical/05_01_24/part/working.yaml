@@ -1,3 +1,186 @@
+bip_39_word_new_br1: famous
+bip_39_word_new_br10: famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit
+bip_39_word_new_br11: famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit<br>goose
+bip_39_word_new_br12: famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match<br>omit<br>goose<br>actress
+bip_39_word_new_br2: famous<br>wide
+bip_39_word_new_br3: famous<br>wide<br>chest
+bip_39_word_new_br4: famous<br>wide<br>chest<br>cart
+bip_39_word_new_br5: famous<br>wide<br>chest<br>cart<br>athlete
+bip_39_word_new_br6: famous<br>wide<br>chest<br>cart<br>athlete<br>speak
+bip_39_word_new_br7: famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt
+bip_39_word_new_br8: famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect
+bip_39_word_new_br9: famous<br>wide<br>chest<br>cart<br>athlete<br>speak<br>aunt<br>insect<br>match
+bip_39_word_new_line1: famous
+bip_39_word_new_line10: 'famous
+
+  wide
+
+  chest
+
+  cart
+
+  athlete
+
+  speak
+
+  aunt
+
+  insect
+
+  match
+
+  omit'
+bip_39_word_new_line11: 'famous
+
+  wide
+
+  chest
+
+  cart
+
+  athlete
+
+  speak
+
+  aunt
+
+  insect
+
+  match
+
+  omit
+
+  goose'
+bip_39_word_new_line12: 'famous
+
+  wide
+
+  chest
+
+  cart
+
+  athlete
+
+  speak
+
+  aunt
+
+  insect
+
+  match
+
+  omit
+
+  goose
+
+  actress'
+bip_39_word_new_line2: 'famous
+
+  wide'
+bip_39_word_new_line3: 'famous
+
+  wide
+
+  chest'
+bip_39_word_new_line4: 'famous
+
+  wide
+
+  chest
+
+  cart'
+bip_39_word_new_line5: 'famous
+
+  wide
+
+  chest
+
+  cart
+
+  athlete'
+bip_39_word_new_line6: 'famous
+
+  wide
+
+  chest
+
+  cart
+
+  athlete
+
+  speak'
+bip_39_word_new_line7: 'famous
+
+  wide
+
+  chest
+
+  cart
+
+  athlete
+
+  speak
+
+  aunt'
+bip_39_word_new_line8: 'famous
+
+  wide
+
+  chest
+
+  cart
+
+  athlete
+
+  speak
+
+  aunt
+
+  insect'
+bip_39_word_new_line9: 'famous
+
+  wide
+
+  chest
+
+  cart
+
+  athlete
+
+  speak
+
+  aunt
+
+  insect
+
+  match'
+bip_39_word_space_0:
+- famous
+- wide
+- chest
+- cart
+- athlete
+- speak
+- aunt
+- insect
+- match
+- omit
+- goose
+- actress
+bip_39_word_space_1: famous
+bip_39_word_space_10: famous wide chest cart athlete speak aunt insect match omit
+bip_39_word_space_11: famous wide chest cart athlete speak aunt insect match omit
+  goose
+bip_39_word_space_12: famous wide chest cart athlete speak aunt insect match omit
+  goose actress
+bip_39_word_space_2: famous wide
+bip_39_word_space_3: famous wide chest
+bip_39_word_space_4: famous wide chest cart
+bip_39_word_space_5: famous wide chest cart athlete
+bip_39_word_space_6: famous wide chest cart athlete speak
+bip_39_word_space_7: famous wide chest cart athlete speak aunt
+bip_39_word_space_8: famous wide chest cart athlete speak aunt insect
+bip_39_word_space_9: famous wide chest cart athlete speak aunt insect match
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

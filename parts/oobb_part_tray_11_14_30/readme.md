@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: best kitten
+  * bip 39 word 3: best kitten nasty
+  * bip 39 word: best kitten nasty syrup fiction voice size when render certain amateur atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | best |  
+| bip_39_word_new_br10 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice<br>size<br>when<br>render<br>certain |  
+| bip_39_word_new_br11 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice<br>size<br>when<br>render<br>certain<br>amateur |  
+| bip_39_word_new_br12 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice<br>size<br>when<br>render<br>certain<br>amateur<br>atom |  
+| bip_39_word_new_br2 | best<br>kitten |  
+| bip_39_word_new_br3 | best<br>kitten<br>nasty |  
+| bip_39_word_new_br4 | best<br>kitten<br>nasty<br>syrup |  
+| bip_39_word_new_br5 | best<br>kitten<br>nasty<br>syrup<br>fiction |  
+| bip_39_word_new_br6 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice |  
+| bip_39_word_new_br7 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice<br>size |  
+| bip_39_word_new_br8 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice<br>size<br>when |  
+| bip_39_word_new_br9 | best<br>kitten<br>nasty<br>syrup<br>fiction<br>voice<br>size<br>when<br>render |  
+| bip_39_word_new_line1 | best |  
+| bip_39_word_new_line10 | best
+kitten
+nasty
+syrup
+fiction
+voice
+size
+when
+render
+certain |  
+| bip_39_word_new_line11 | best
+kitten
+nasty
+syrup
+fiction
+voice
+size
+when
+render
+certain
+amateur |  
+| bip_39_word_new_line12 | best
+kitten
+nasty
+syrup
+fiction
+voice
+size
+when
+render
+certain
+amateur
+atom |  
+| bip_39_word_new_line2 | best
+kitten |  
+| bip_39_word_new_line3 | best
+kitten
+nasty |  
+| bip_39_word_new_line4 | best
+kitten
+nasty
+syrup |  
+| bip_39_word_new_line5 | best
+kitten
+nasty
+syrup
+fiction |  
+| bip_39_word_new_line6 | best
+kitten
+nasty
+syrup
+fiction
+voice |  
+| bip_39_word_new_line7 | best
+kitten
+nasty
+syrup
+fiction
+voice
+size |  
+| bip_39_word_new_line8 | best
+kitten
+nasty
+syrup
+fiction
+voice
+size
+when |  
+| bip_39_word_new_line9 | best
+kitten
+nasty
+syrup
+fiction
+voice
+size
+when
+render |  
+| bip_39_word_space_0 | ['best', 'kitten', 'nasty', 'syrup', 'fiction', 'voice', 'size', 'when', 'render', 'certain', 'amateur', 'atom'] |  
+| bip_39_word_space_1 | best |  
+| bip_39_word_space_10 | best kitten nasty syrup fiction voice size when render certain |  
+| bip_39_word_space_11 | best kitten nasty syrup fiction voice size when render certain amateur |  
+| bip_39_word_space_12 | best kitten nasty syrup fiction voice size when render certain amateur atom |  
+| bip_39_word_space_2 | best kitten |  
+| bip_39_word_space_3 | best kitten nasty |  
+| bip_39_word_space_4 | best kitten nasty syrup |  
+| bip_39_word_space_5 | best kitten nasty syrup fiction |  
+| bip_39_word_space_6 | best kitten nasty syrup fiction voice |  
+| bip_39_word_space_7 | best kitten nasty syrup fiction voice size |  
+| bip_39_word_space_8 | best kitten nasty syrup fiction voice size when |  
+| bip_39_word_space_9 | best kitten nasty syrup fiction voice size when render |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

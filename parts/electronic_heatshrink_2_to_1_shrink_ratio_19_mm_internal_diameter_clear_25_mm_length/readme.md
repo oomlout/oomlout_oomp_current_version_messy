@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: floor child
+  * bip 39 word 3: floor child soap
+  * bip 39 word: floor child soap snap piece jacket banner recipe team lazy code already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | floor |  
+| bip_39_word_new_br10 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy |  
+| bip_39_word_new_br11 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy<br>code |  
+| bip_39_word_new_br12 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team<br>lazy<br>code<br>already |  
+| bip_39_word_new_br2 | floor<br>child |  
+| bip_39_word_new_br3 | floor<br>child<br>soap |  
+| bip_39_word_new_br4 | floor<br>child<br>soap<br>snap |  
+| bip_39_word_new_br5 | floor<br>child<br>soap<br>snap<br>piece |  
+| bip_39_word_new_br6 | floor<br>child<br>soap<br>snap<br>piece<br>jacket |  
+| bip_39_word_new_br7 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner |  
+| bip_39_word_new_br8 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe |  
+| bip_39_word_new_br9 | floor<br>child<br>soap<br>snap<br>piece<br>jacket<br>banner<br>recipe<br>team |  
+| bip_39_word_new_line1 | floor |  
+| bip_39_word_new_line10 | floor
+child
+soap
+snap
+piece
+jacket
+banner
+recipe
+team
+lazy |  
+| bip_39_word_new_line11 | floor
+child
+soap
+snap
+piece
+jacket
+banner
+recipe
+team
+lazy
+code |  
+| bip_39_word_new_line12 | floor
+child
+soap
+snap
+piece
+jacket
+banner
+recipe
+team
+lazy
+code
+already |  
+| bip_39_word_new_line2 | floor
+child |  
+| bip_39_word_new_line3 | floor
+child
+soap |  
+| bip_39_word_new_line4 | floor
+child
+soap
+snap |  
+| bip_39_word_new_line5 | floor
+child
+soap
+snap
+piece |  
+| bip_39_word_new_line6 | floor
+child
+soap
+snap
+piece
+jacket |  
+| bip_39_word_new_line7 | floor
+child
+soap
+snap
+piece
+jacket
+banner |  
+| bip_39_word_new_line8 | floor
+child
+soap
+snap
+piece
+jacket
+banner
+recipe |  
+| bip_39_word_new_line9 | floor
+child
+soap
+snap
+piece
+jacket
+banner
+recipe
+team |  
+| bip_39_word_space_0 | ['floor', 'child', 'soap', 'snap', 'piece', 'jacket', 'banner', 'recipe', 'team', 'lazy', 'code', 'already'] |  
+| bip_39_word_space_1 | floor |  
+| bip_39_word_space_10 | floor child soap snap piece jacket banner recipe team lazy |  
+| bip_39_word_space_11 | floor child soap snap piece jacket banner recipe team lazy code |  
+| bip_39_word_space_12 | floor child soap snap piece jacket banner recipe team lazy code already |  
+| bip_39_word_space_2 | floor child |  
+| bip_39_word_space_3 | floor child soap |  
+| bip_39_word_space_4 | floor child soap snap |  
+| bip_39_word_space_5 | floor child soap snap piece |  
+| bip_39_word_space_6 | floor child soap snap piece jacket |  
+| bip_39_word_space_7 | floor child soap snap piece jacket banner |  
+| bip_39_word_space_8 | floor child soap snap piece jacket banner recipe |  
+| bip_39_word_space_9 | floor child soap snap piece jacket banner recipe team |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

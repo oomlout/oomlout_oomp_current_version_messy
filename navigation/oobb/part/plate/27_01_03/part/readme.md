@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: income become
+  * bip 39 word 3: income become weather
+  * bip 39 word: income become weather path gather hotel material canvas exchange world cattle abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | income |  
+| bip_39_word_new_br10 | income<br>become<br>weather<br>path<br>gather<br>hotel<br>material<br>canvas<br>exchange<br>world |  
+| bip_39_word_new_br11 | income<br>become<br>weather<br>path<br>gather<br>hotel<br>material<br>canvas<br>exchange<br>world<br>cattle |  
+| bip_39_word_new_br12 | income<br>become<br>weather<br>path<br>gather<br>hotel<br>material<br>canvas<br>exchange<br>world<br>cattle<br>abstract |  
+| bip_39_word_new_br2 | income<br>become |  
+| bip_39_word_new_br3 | income<br>become<br>weather |  
+| bip_39_word_new_br4 | income<br>become<br>weather<br>path |  
+| bip_39_word_new_br5 | income<br>become<br>weather<br>path<br>gather |  
+| bip_39_word_new_br6 | income<br>become<br>weather<br>path<br>gather<br>hotel |  
+| bip_39_word_new_br7 | income<br>become<br>weather<br>path<br>gather<br>hotel<br>material |  
+| bip_39_word_new_br8 | income<br>become<br>weather<br>path<br>gather<br>hotel<br>material<br>canvas |  
+| bip_39_word_new_br9 | income<br>become<br>weather<br>path<br>gather<br>hotel<br>material<br>canvas<br>exchange |  
+| bip_39_word_new_line1 | income |  
+| bip_39_word_new_line10 | income
+become
+weather
+path
+gather
+hotel
+material
+canvas
+exchange
+world |  
+| bip_39_word_new_line11 | income
+become
+weather
+path
+gather
+hotel
+material
+canvas
+exchange
+world
+cattle |  
+| bip_39_word_new_line12 | income
+become
+weather
+path
+gather
+hotel
+material
+canvas
+exchange
+world
+cattle
+abstract |  
+| bip_39_word_new_line2 | income
+become |  
+| bip_39_word_new_line3 | income
+become
+weather |  
+| bip_39_word_new_line4 | income
+become
+weather
+path |  
+| bip_39_word_new_line5 | income
+become
+weather
+path
+gather |  
+| bip_39_word_new_line6 | income
+become
+weather
+path
+gather
+hotel |  
+| bip_39_word_new_line7 | income
+become
+weather
+path
+gather
+hotel
+material |  
+| bip_39_word_new_line8 | income
+become
+weather
+path
+gather
+hotel
+material
+canvas |  
+| bip_39_word_new_line9 | income
+become
+weather
+path
+gather
+hotel
+material
+canvas
+exchange |  
+| bip_39_word_space_0 | ['income', 'become', 'weather', 'path', 'gather', 'hotel', 'material', 'canvas', 'exchange', 'world', 'cattle', 'abstract'] |  
+| bip_39_word_space_1 | income |  
+| bip_39_word_space_10 | income become weather path gather hotel material canvas exchange world |  
+| bip_39_word_space_11 | income become weather path gather hotel material canvas exchange world cattle |  
+| bip_39_word_space_12 | income become weather path gather hotel material canvas exchange world cattle abstract |  
+| bip_39_word_space_2 | income become |  
+| bip_39_word_space_3 | income become weather |  
+| bip_39_word_space_4 | income become weather path |  
+| bip_39_word_space_5 | income become weather path gather |  
+| bip_39_word_space_6 | income become weather path gather hotel |  
+| bip_39_word_space_7 | income become weather path gather hotel material |  
+| bip_39_word_space_8 | income become weather path gather hotel material canvas |  
+| bip_39_word_space_9 | income become weather path gather hotel material canvas exchange |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plastic stool
+  * bip 39 word 3: plastic stool divorce
+  * bip 39 word: plastic stool divorce busy ready proud stove example praise mansion company attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plastic |  
+| bip_39_word_new_br10 | plastic<br>stool<br>divorce<br>busy<br>ready<br>proud<br>stove<br>example<br>praise<br>mansion |  
+| bip_39_word_new_br11 | plastic<br>stool<br>divorce<br>busy<br>ready<br>proud<br>stove<br>example<br>praise<br>mansion<br>company |  
+| bip_39_word_new_br12 | plastic<br>stool<br>divorce<br>busy<br>ready<br>proud<br>stove<br>example<br>praise<br>mansion<br>company<br>attitude |  
+| bip_39_word_new_br2 | plastic<br>stool |  
+| bip_39_word_new_br3 | plastic<br>stool<br>divorce |  
+| bip_39_word_new_br4 | plastic<br>stool<br>divorce<br>busy |  
+| bip_39_word_new_br5 | plastic<br>stool<br>divorce<br>busy<br>ready |  
+| bip_39_word_new_br6 | plastic<br>stool<br>divorce<br>busy<br>ready<br>proud |  
+| bip_39_word_new_br7 | plastic<br>stool<br>divorce<br>busy<br>ready<br>proud<br>stove |  
+| bip_39_word_new_br8 | plastic<br>stool<br>divorce<br>busy<br>ready<br>proud<br>stove<br>example |  
+| bip_39_word_new_br9 | plastic<br>stool<br>divorce<br>busy<br>ready<br>proud<br>stove<br>example<br>praise |  
+| bip_39_word_new_line1 | plastic |  
+| bip_39_word_new_line10 | plastic
+stool
+divorce
+busy
+ready
+proud
+stove
+example
+praise
+mansion |  
+| bip_39_word_new_line11 | plastic
+stool
+divorce
+busy
+ready
+proud
+stove
+example
+praise
+mansion
+company |  
+| bip_39_word_new_line12 | plastic
+stool
+divorce
+busy
+ready
+proud
+stove
+example
+praise
+mansion
+company
+attitude |  
+| bip_39_word_new_line2 | plastic
+stool |  
+| bip_39_word_new_line3 | plastic
+stool
+divorce |  
+| bip_39_word_new_line4 | plastic
+stool
+divorce
+busy |  
+| bip_39_word_new_line5 | plastic
+stool
+divorce
+busy
+ready |  
+| bip_39_word_new_line6 | plastic
+stool
+divorce
+busy
+ready
+proud |  
+| bip_39_word_new_line7 | plastic
+stool
+divorce
+busy
+ready
+proud
+stove |  
+| bip_39_word_new_line8 | plastic
+stool
+divorce
+busy
+ready
+proud
+stove
+example |  
+| bip_39_word_new_line9 | plastic
+stool
+divorce
+busy
+ready
+proud
+stove
+example
+praise |  
+| bip_39_word_space_0 | ['plastic', 'stool', 'divorce', 'busy', 'ready', 'proud', 'stove', 'example', 'praise', 'mansion', 'company', 'attitude'] |  
+| bip_39_word_space_1 | plastic |  
+| bip_39_word_space_10 | plastic stool divorce busy ready proud stove example praise mansion |  
+| bip_39_word_space_11 | plastic stool divorce busy ready proud stove example praise mansion company |  
+| bip_39_word_space_12 | plastic stool divorce busy ready proud stove example praise mansion company attitude |  
+| bip_39_word_space_2 | plastic stool |  
+| bip_39_word_space_3 | plastic stool divorce |  
+| bip_39_word_space_4 | plastic stool divorce busy |  
+| bip_39_word_space_5 | plastic stool divorce busy ready |  
+| bip_39_word_space_6 | plastic stool divorce busy ready proud |  
+| bip_39_word_space_7 | plastic stool divorce busy ready proud stove |  
+| bip_39_word_space_8 | plastic stool divorce busy ready proud stove example |  
+| bip_39_word_space_9 | plastic stool divorce busy ready proud stove example praise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

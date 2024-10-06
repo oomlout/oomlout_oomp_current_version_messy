@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wasp
+bip_39_word_new_br10: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include
+bip_39_word_new_br11: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony
+bip_39_word_new_br12: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony<br>alley
+bip_39_word_new_br2: wasp<br>buddy
+bip_39_word_new_br3: wasp<br>buddy<br>visa
+bip_39_word_new_br4: wasp<br>buddy<br>visa<br>senior
+bip_39_word_new_br5: wasp<br>buddy<br>visa<br>senior<br>glue
+bip_39_word_new_br6: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift
+bip_39_word_new_br7: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible
+bip_39_word_new_br8: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek
+bip_39_word_new_br9: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact
+bip_39_word_new_line1: wasp
+bip_39_word_new_line10: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek
+
+  artefact
+
+  include'
+bip_39_word_new_line11: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek
+
+  artefact
+
+  include
+
+  pony'
+bip_39_word_new_line12: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek
+
+  artefact
+
+  include
+
+  pony
+
+  alley'
+bip_39_word_new_line2: 'wasp
+
+  buddy'
+bip_39_word_new_line3: 'wasp
+
+  buddy
+
+  visa'
+bip_39_word_new_line4: 'wasp
+
+  buddy
+
+  visa
+
+  senior'
+bip_39_word_new_line5: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue'
+bip_39_word_new_line6: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift'
+bip_39_word_new_line7: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible'
+bip_39_word_new_line8: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek'
+bip_39_word_new_line9: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek
+
+  artefact'
+bip_39_word_space_0:
+- wasp
+- buddy
+- visa
+- senior
+- glue
+- gift
+- possible
+- seek
+- artefact
+- include
+- pony
+- alley
+bip_39_word_space_1: wasp
+bip_39_word_space_10: wasp buddy visa senior glue gift possible seek artefact include
+bip_39_word_space_11: wasp buddy visa senior glue gift possible seek artefact include
+  pony
+bip_39_word_space_12: wasp buddy visa senior glue gift possible seek artefact include
+  pony alley
+bip_39_word_space_2: wasp buddy
+bip_39_word_space_3: wasp buddy visa
+bip_39_word_space_4: wasp buddy visa senior
+bip_39_word_space_5: wasp buddy visa senior glue
+bip_39_word_space_6: wasp buddy visa senior glue gift
+bip_39_word_space_7: wasp buddy visa senior glue gift possible
+bip_39_word_space_8: wasp buddy visa senior glue gift possible seek
+bip_39_word_space_9: wasp buddy visa senior glue gift possible seek artefact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

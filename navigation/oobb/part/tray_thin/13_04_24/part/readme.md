@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hazard advice
+  * bip 39 word 3: hazard advice defy
+  * bip 39 word: hazard advice defy glass tribe issue area amateur hamster unit large ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hazard |  
+| bip_39_word_new_br10 | hazard<br>advice<br>defy<br>glass<br>tribe<br>issue<br>area<br>amateur<br>hamster<br>unit |  
+| bip_39_word_new_br11 | hazard<br>advice<br>defy<br>glass<br>tribe<br>issue<br>area<br>amateur<br>hamster<br>unit<br>large |  
+| bip_39_word_new_br12 | hazard<br>advice<br>defy<br>glass<br>tribe<br>issue<br>area<br>amateur<br>hamster<br>unit<br>large<br>ability |  
+| bip_39_word_new_br2 | hazard<br>advice |  
+| bip_39_word_new_br3 | hazard<br>advice<br>defy |  
+| bip_39_word_new_br4 | hazard<br>advice<br>defy<br>glass |  
+| bip_39_word_new_br5 | hazard<br>advice<br>defy<br>glass<br>tribe |  
+| bip_39_word_new_br6 | hazard<br>advice<br>defy<br>glass<br>tribe<br>issue |  
+| bip_39_word_new_br7 | hazard<br>advice<br>defy<br>glass<br>tribe<br>issue<br>area |  
+| bip_39_word_new_br8 | hazard<br>advice<br>defy<br>glass<br>tribe<br>issue<br>area<br>amateur |  
+| bip_39_word_new_br9 | hazard<br>advice<br>defy<br>glass<br>tribe<br>issue<br>area<br>amateur<br>hamster |  
+| bip_39_word_new_line1 | hazard |  
+| bip_39_word_new_line10 | hazard
+advice
+defy
+glass
+tribe
+issue
+area
+amateur
+hamster
+unit |  
+| bip_39_word_new_line11 | hazard
+advice
+defy
+glass
+tribe
+issue
+area
+amateur
+hamster
+unit
+large |  
+| bip_39_word_new_line12 | hazard
+advice
+defy
+glass
+tribe
+issue
+area
+amateur
+hamster
+unit
+large
+ability |  
+| bip_39_word_new_line2 | hazard
+advice |  
+| bip_39_word_new_line3 | hazard
+advice
+defy |  
+| bip_39_word_new_line4 | hazard
+advice
+defy
+glass |  
+| bip_39_word_new_line5 | hazard
+advice
+defy
+glass
+tribe |  
+| bip_39_word_new_line6 | hazard
+advice
+defy
+glass
+tribe
+issue |  
+| bip_39_word_new_line7 | hazard
+advice
+defy
+glass
+tribe
+issue
+area |  
+| bip_39_word_new_line8 | hazard
+advice
+defy
+glass
+tribe
+issue
+area
+amateur |  
+| bip_39_word_new_line9 | hazard
+advice
+defy
+glass
+tribe
+issue
+area
+amateur
+hamster |  
+| bip_39_word_space_0 | ['hazard', 'advice', 'defy', 'glass', 'tribe', 'issue', 'area', 'amateur', 'hamster', 'unit', 'large', 'ability'] |  
+| bip_39_word_space_1 | hazard |  
+| bip_39_word_space_10 | hazard advice defy glass tribe issue area amateur hamster unit |  
+| bip_39_word_space_11 | hazard advice defy glass tribe issue area amateur hamster unit large |  
+| bip_39_word_space_12 | hazard advice defy glass tribe issue area amateur hamster unit large ability |  
+| bip_39_word_space_2 | hazard advice |  
+| bip_39_word_space_3 | hazard advice defy |  
+| bip_39_word_space_4 | hazard advice defy glass |  
+| bip_39_word_space_5 | hazard advice defy glass tribe |  
+| bip_39_word_space_6 | hazard advice defy glass tribe issue |  
+| bip_39_word_space_7 | hazard advice defy glass tribe issue area |  
+| bip_39_word_space_8 | hazard advice defy glass tribe issue area amateur |  
+| bip_39_word_space_9 | hazard advice defy glass tribe issue area amateur hamster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

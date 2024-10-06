@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: higher_voltage_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cause shrimp
+  * bip 39 word 3: cause shrimp unable
+  * bip 39 word: cause shrimp unable action slight undo hamster sketch royal pride pink add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cause |  
+| bip_39_word_new_br10 | cause<br>shrimp<br>unable<br>action<br>slight<br>undo<br>hamster<br>sketch<br>royal<br>pride |  
+| bip_39_word_new_br11 | cause<br>shrimp<br>unable<br>action<br>slight<br>undo<br>hamster<br>sketch<br>royal<br>pride<br>pink |  
+| bip_39_word_new_br12 | cause<br>shrimp<br>unable<br>action<br>slight<br>undo<br>hamster<br>sketch<br>royal<br>pride<br>pink<br>add |  
+| bip_39_word_new_br2 | cause<br>shrimp |  
+| bip_39_word_new_br3 | cause<br>shrimp<br>unable |  
+| bip_39_word_new_br4 | cause<br>shrimp<br>unable<br>action |  
+| bip_39_word_new_br5 | cause<br>shrimp<br>unable<br>action<br>slight |  
+| bip_39_word_new_br6 | cause<br>shrimp<br>unable<br>action<br>slight<br>undo |  
+| bip_39_word_new_br7 | cause<br>shrimp<br>unable<br>action<br>slight<br>undo<br>hamster |  
+| bip_39_word_new_br8 | cause<br>shrimp<br>unable<br>action<br>slight<br>undo<br>hamster<br>sketch |  
+| bip_39_word_new_br9 | cause<br>shrimp<br>unable<br>action<br>slight<br>undo<br>hamster<br>sketch<br>royal |  
+| bip_39_word_new_line1 | cause |  
+| bip_39_word_new_line10 | cause
+shrimp
+unable
+action
+slight
+undo
+hamster
+sketch
+royal
+pride |  
+| bip_39_word_new_line11 | cause
+shrimp
+unable
+action
+slight
+undo
+hamster
+sketch
+royal
+pride
+pink |  
+| bip_39_word_new_line12 | cause
+shrimp
+unable
+action
+slight
+undo
+hamster
+sketch
+royal
+pride
+pink
+add |  
+| bip_39_word_new_line2 | cause
+shrimp |  
+| bip_39_word_new_line3 | cause
+shrimp
+unable |  
+| bip_39_word_new_line4 | cause
+shrimp
+unable
+action |  
+| bip_39_word_new_line5 | cause
+shrimp
+unable
+action
+slight |  
+| bip_39_word_new_line6 | cause
+shrimp
+unable
+action
+slight
+undo |  
+| bip_39_word_new_line7 | cause
+shrimp
+unable
+action
+slight
+undo
+hamster |  
+| bip_39_word_new_line8 | cause
+shrimp
+unable
+action
+slight
+undo
+hamster
+sketch |  
+| bip_39_word_new_line9 | cause
+shrimp
+unable
+action
+slight
+undo
+hamster
+sketch
+royal |  
+| bip_39_word_space_0 | ['cause', 'shrimp', 'unable', 'action', 'slight', 'undo', 'hamster', 'sketch', 'royal', 'pride', 'pink', 'add'] |  
+| bip_39_word_space_1 | cause |  
+| bip_39_word_space_10 | cause shrimp unable action slight undo hamster sketch royal pride |  
+| bip_39_word_space_11 | cause shrimp unable action slight undo hamster sketch royal pride pink |  
+| bip_39_word_space_12 | cause shrimp unable action slight undo hamster sketch royal pride pink add |  
+| bip_39_word_space_2 | cause shrimp |  
+| bip_39_word_space_3 | cause shrimp unable |  
+| bip_39_word_space_4 | cause shrimp unable action |  
+| bip_39_word_space_5 | cause shrimp unable action slight |  
+| bip_39_word_space_6 | cause shrimp unable action slight undo |  
+| bip_39_word_space_7 | cause shrimp unable action slight undo hamster |  
+| bip_39_word_space_8 | cause shrimp unable action slight undo hamster sketch |  
+| bip_39_word_space_9 | cause shrimp unable action slight undo hamster sketch royal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

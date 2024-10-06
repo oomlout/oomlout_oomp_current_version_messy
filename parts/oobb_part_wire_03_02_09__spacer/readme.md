@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spring inmate
+  * bip 39 word 3: spring inmate wrap
+  * bip 39 word: spring inmate wrap annual elbow figure fiber amount hard chuckle mask attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spring |  
+| bip_39_word_new_br10 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure<br>fiber<br>amount<br>hard<br>chuckle |  
+| bip_39_word_new_br11 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure<br>fiber<br>amount<br>hard<br>chuckle<br>mask |  
+| bip_39_word_new_br12 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure<br>fiber<br>amount<br>hard<br>chuckle<br>mask<br>attack |  
+| bip_39_word_new_br2 | spring<br>inmate |  
+| bip_39_word_new_br3 | spring<br>inmate<br>wrap |  
+| bip_39_word_new_br4 | spring<br>inmate<br>wrap<br>annual |  
+| bip_39_word_new_br5 | spring<br>inmate<br>wrap<br>annual<br>elbow |  
+| bip_39_word_new_br6 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure |  
+| bip_39_word_new_br7 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure<br>fiber |  
+| bip_39_word_new_br8 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure<br>fiber<br>amount |  
+| bip_39_word_new_br9 | spring<br>inmate<br>wrap<br>annual<br>elbow<br>figure<br>fiber<br>amount<br>hard |  
+| bip_39_word_new_line1 | spring |  
+| bip_39_word_new_line10 | spring
+inmate
+wrap
+annual
+elbow
+figure
+fiber
+amount
+hard
+chuckle |  
+| bip_39_word_new_line11 | spring
+inmate
+wrap
+annual
+elbow
+figure
+fiber
+amount
+hard
+chuckle
+mask |  
+| bip_39_word_new_line12 | spring
+inmate
+wrap
+annual
+elbow
+figure
+fiber
+amount
+hard
+chuckle
+mask
+attack |  
+| bip_39_word_new_line2 | spring
+inmate |  
+| bip_39_word_new_line3 | spring
+inmate
+wrap |  
+| bip_39_word_new_line4 | spring
+inmate
+wrap
+annual |  
+| bip_39_word_new_line5 | spring
+inmate
+wrap
+annual
+elbow |  
+| bip_39_word_new_line6 | spring
+inmate
+wrap
+annual
+elbow
+figure |  
+| bip_39_word_new_line7 | spring
+inmate
+wrap
+annual
+elbow
+figure
+fiber |  
+| bip_39_word_new_line8 | spring
+inmate
+wrap
+annual
+elbow
+figure
+fiber
+amount |  
+| bip_39_word_new_line9 | spring
+inmate
+wrap
+annual
+elbow
+figure
+fiber
+amount
+hard |  
+| bip_39_word_space_0 | ['spring', 'inmate', 'wrap', 'annual', 'elbow', 'figure', 'fiber', 'amount', 'hard', 'chuckle', 'mask', 'attack'] |  
+| bip_39_word_space_1 | spring |  
+| bip_39_word_space_10 | spring inmate wrap annual elbow figure fiber amount hard chuckle |  
+| bip_39_word_space_11 | spring inmate wrap annual elbow figure fiber amount hard chuckle mask |  
+| bip_39_word_space_12 | spring inmate wrap annual elbow figure fiber amount hard chuckle mask attack |  
+| bip_39_word_space_2 | spring inmate |  
+| bip_39_word_space_3 | spring inmate wrap |  
+| bip_39_word_space_4 | spring inmate wrap annual |  
+| bip_39_word_space_5 | spring inmate wrap annual elbow |  
+| bip_39_word_space_6 | spring inmate wrap annual elbow figure |  
+| bip_39_word_space_7 | spring inmate wrap annual elbow figure fiber |  
+| bip_39_word_space_8 | spring inmate wrap annual elbow figure fiber amount |  
+| bip_39_word_space_9 | spring inmate wrap annual elbow figure fiber amount hard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

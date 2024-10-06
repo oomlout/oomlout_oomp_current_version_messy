@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 56_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quick fiction
+  * bip 39 word 3: quick fiction unveil
+  * bip 39 word: quick fiction unveil clump repair quit cube leaf develop muscle fork acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quick |  
+| bip_39_word_new_br10 | quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop<br>muscle |  
+| bip_39_word_new_br11 | quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop<br>muscle<br>fork |  
+| bip_39_word_new_br12 | quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop<br>muscle<br>fork<br>acoustic |  
+| bip_39_word_new_br2 | quick<br>fiction |  
+| bip_39_word_new_br3 | quick<br>fiction<br>unveil |  
+| bip_39_word_new_br4 | quick<br>fiction<br>unveil<br>clump |  
+| bip_39_word_new_br5 | quick<br>fiction<br>unveil<br>clump<br>repair |  
+| bip_39_word_new_br6 | quick<br>fiction<br>unveil<br>clump<br>repair<br>quit |  
+| bip_39_word_new_br7 | quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube |  
+| bip_39_word_new_br8 | quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf |  
+| bip_39_word_new_br9 | quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop |  
+| bip_39_word_new_line1 | quick |  
+| bip_39_word_new_line10 | quick
+fiction
+unveil
+clump
+repair
+quit
+cube
+leaf
+develop
+muscle |  
+| bip_39_word_new_line11 | quick
+fiction
+unveil
+clump
+repair
+quit
+cube
+leaf
+develop
+muscle
+fork |  
+| bip_39_word_new_line12 | quick
+fiction
+unveil
+clump
+repair
+quit
+cube
+leaf
+develop
+muscle
+fork
+acoustic |  
+| bip_39_word_new_line2 | quick
+fiction |  
+| bip_39_word_new_line3 | quick
+fiction
+unveil |  
+| bip_39_word_new_line4 | quick
+fiction
+unveil
+clump |  
+| bip_39_word_new_line5 | quick
+fiction
+unveil
+clump
+repair |  
+| bip_39_word_new_line6 | quick
+fiction
+unveil
+clump
+repair
+quit |  
+| bip_39_word_new_line7 | quick
+fiction
+unveil
+clump
+repair
+quit
+cube |  
+| bip_39_word_new_line8 | quick
+fiction
+unveil
+clump
+repair
+quit
+cube
+leaf |  
+| bip_39_word_new_line9 | quick
+fiction
+unveil
+clump
+repair
+quit
+cube
+leaf
+develop |  
+| bip_39_word_space_0 | ['quick', 'fiction', 'unveil', 'clump', 'repair', 'quit', 'cube', 'leaf', 'develop', 'muscle', 'fork', 'acoustic'] |  
+| bip_39_word_space_1 | quick |  
+| bip_39_word_space_10 | quick fiction unveil clump repair quit cube leaf develop muscle |  
+| bip_39_word_space_11 | quick fiction unveil clump repair quit cube leaf develop muscle fork |  
+| bip_39_word_space_12 | quick fiction unveil clump repair quit cube leaf develop muscle fork acoustic |  
+| bip_39_word_space_2 | quick fiction |  
+| bip_39_word_space_3 | quick fiction unveil |  
+| bip_39_word_space_4 | quick fiction unveil clump |  
+| bip_39_word_space_5 | quick fiction unveil clump repair |  
+| bip_39_word_space_6 | quick fiction unveil clump repair quit |  
+| bip_39_word_space_7 | quick fiction unveil clump repair quit cube |  
+| bip_39_word_space_8 | quick fiction unveil clump repair quit cube leaf |  
+| bip_39_word_space_9 | quick fiction unveil clump repair quit cube leaf develop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

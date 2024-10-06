@@ -1,3 +1,186 @@
+bip_39_word_new_br1: absorb
+bip_39_word_new_br10: absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain
+bip_39_word_new_br11: absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain<br>service
+bip_39_word_new_br12: absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard<br>gain<br>service<br>airport
+bip_39_word_new_br2: absorb<br>trap
+bip_39_word_new_br3: absorb<br>trap<br>witness
+bip_39_word_new_br4: absorb<br>trap<br>witness<br>layer
+bip_39_word_new_br5: absorb<br>trap<br>witness<br>layer<br>end
+bip_39_word_new_br6: absorb<br>trap<br>witness<br>layer<br>end<br>submit
+bip_39_word_new_br7: absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn
+bip_39_word_new_br8: absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original
+bip_39_word_new_br9: absorb<br>trap<br>witness<br>layer<br>end<br>submit<br>lawn<br>original<br>orchard
+bip_39_word_new_line1: absorb
+bip_39_word_new_line10: 'absorb
+
+  trap
+
+  witness
+
+  layer
+
+  end
+
+  submit
+
+  lawn
+
+  original
+
+  orchard
+
+  gain'
+bip_39_word_new_line11: 'absorb
+
+  trap
+
+  witness
+
+  layer
+
+  end
+
+  submit
+
+  lawn
+
+  original
+
+  orchard
+
+  gain
+
+  service'
+bip_39_word_new_line12: 'absorb
+
+  trap
+
+  witness
+
+  layer
+
+  end
+
+  submit
+
+  lawn
+
+  original
+
+  orchard
+
+  gain
+
+  service
+
+  airport'
+bip_39_word_new_line2: 'absorb
+
+  trap'
+bip_39_word_new_line3: 'absorb
+
+  trap
+
+  witness'
+bip_39_word_new_line4: 'absorb
+
+  trap
+
+  witness
+
+  layer'
+bip_39_word_new_line5: 'absorb
+
+  trap
+
+  witness
+
+  layer
+
+  end'
+bip_39_word_new_line6: 'absorb
+
+  trap
+
+  witness
+
+  layer
+
+  end
+
+  submit'
+bip_39_word_new_line7: 'absorb
+
+  trap
+
+  witness
+
+  layer
+
+  end
+
+  submit
+
+  lawn'
+bip_39_word_new_line8: 'absorb
+
+  trap
+
+  witness
+
+  layer
+
+  end
+
+  submit
+
+  lawn
+
+  original'
+bip_39_word_new_line9: 'absorb
+
+  trap
+
+  witness
+
+  layer
+
+  end
+
+  submit
+
+  lawn
+
+  original
+
+  orchard'
+bip_39_word_space_0:
+- absorb
+- trap
+- witness
+- layer
+- end
+- submit
+- lawn
+- original
+- orchard
+- gain
+- service
+- airport
+bip_39_word_space_1: absorb
+bip_39_word_space_10: absorb trap witness layer end submit lawn original orchard gain
+bip_39_word_space_11: absorb trap witness layer end submit lawn original orchard gain
+  service
+bip_39_word_space_12: absorb trap witness layer end submit lawn original orchard gain
+  service airport
+bip_39_word_space_2: absorb trap
+bip_39_word_space_3: absorb trap witness
+bip_39_word_space_4: absorb trap witness layer
+bip_39_word_space_5: absorb trap witness layer end
+bip_39_word_space_6: absorb trap witness layer end submit
+bip_39_word_space_7: absorb trap witness layer end submit lawn
+bip_39_word_space_8: absorb trap witness layer end submit lawn original
+bip_39_word_space_9: absorb trap witness layer end submit lawn original orchard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

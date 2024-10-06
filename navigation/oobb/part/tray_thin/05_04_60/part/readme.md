@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pupil door
+  * bip 39 word 3: pupil door crystal
+  * bip 39 word: pupil door crystal local split sudden wage leopard crawl table width achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pupil |  
+| bip_39_word_new_br10 | pupil<br>door<br>crystal<br>local<br>split<br>sudden<br>wage<br>leopard<br>crawl<br>table |  
+| bip_39_word_new_br11 | pupil<br>door<br>crystal<br>local<br>split<br>sudden<br>wage<br>leopard<br>crawl<br>table<br>width |  
+| bip_39_word_new_br12 | pupil<br>door<br>crystal<br>local<br>split<br>sudden<br>wage<br>leopard<br>crawl<br>table<br>width<br>achieve |  
+| bip_39_word_new_br2 | pupil<br>door |  
+| bip_39_word_new_br3 | pupil<br>door<br>crystal |  
+| bip_39_word_new_br4 | pupil<br>door<br>crystal<br>local |  
+| bip_39_word_new_br5 | pupil<br>door<br>crystal<br>local<br>split |  
+| bip_39_word_new_br6 | pupil<br>door<br>crystal<br>local<br>split<br>sudden |  
+| bip_39_word_new_br7 | pupil<br>door<br>crystal<br>local<br>split<br>sudden<br>wage |  
+| bip_39_word_new_br8 | pupil<br>door<br>crystal<br>local<br>split<br>sudden<br>wage<br>leopard |  
+| bip_39_word_new_br9 | pupil<br>door<br>crystal<br>local<br>split<br>sudden<br>wage<br>leopard<br>crawl |  
+| bip_39_word_new_line1 | pupil |  
+| bip_39_word_new_line10 | pupil
+door
+crystal
+local
+split
+sudden
+wage
+leopard
+crawl
+table |  
+| bip_39_word_new_line11 | pupil
+door
+crystal
+local
+split
+sudden
+wage
+leopard
+crawl
+table
+width |  
+| bip_39_word_new_line12 | pupil
+door
+crystal
+local
+split
+sudden
+wage
+leopard
+crawl
+table
+width
+achieve |  
+| bip_39_word_new_line2 | pupil
+door |  
+| bip_39_word_new_line3 | pupil
+door
+crystal |  
+| bip_39_word_new_line4 | pupil
+door
+crystal
+local |  
+| bip_39_word_new_line5 | pupil
+door
+crystal
+local
+split |  
+| bip_39_word_new_line6 | pupil
+door
+crystal
+local
+split
+sudden |  
+| bip_39_word_new_line7 | pupil
+door
+crystal
+local
+split
+sudden
+wage |  
+| bip_39_word_new_line8 | pupil
+door
+crystal
+local
+split
+sudden
+wage
+leopard |  
+| bip_39_word_new_line9 | pupil
+door
+crystal
+local
+split
+sudden
+wage
+leopard
+crawl |  
+| bip_39_word_space_0 | ['pupil', 'door', 'crystal', 'local', 'split', 'sudden', 'wage', 'leopard', 'crawl', 'table', 'width', 'achieve'] |  
+| bip_39_word_space_1 | pupil |  
+| bip_39_word_space_10 | pupil door crystal local split sudden wage leopard crawl table |  
+| bip_39_word_space_11 | pupil door crystal local split sudden wage leopard crawl table width |  
+| bip_39_word_space_12 | pupil door crystal local split sudden wage leopard crawl table width achieve |  
+| bip_39_word_space_2 | pupil door |  
+| bip_39_word_space_3 | pupil door crystal |  
+| bip_39_word_space_4 | pupil door crystal local |  
+| bip_39_word_space_5 | pupil door crystal local split |  
+| bip_39_word_space_6 | pupil door crystal local split sudden |  
+| bip_39_word_space_7 | pupil door crystal local split sudden wage |  
+| bip_39_word_space_8 | pupil door crystal local split sudden wage leopard |  
+| bip_39_word_space_9 | pupil door crystal local split sudden wage leopard crawl |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

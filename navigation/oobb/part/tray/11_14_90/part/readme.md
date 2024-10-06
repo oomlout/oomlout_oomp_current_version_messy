@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unfold grass
+  * bip 39 word 3: unfold grass cake
+  * bip 39 word: unfold grass cake stone build disorder tone across offer credit cheap achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unfold |  
+| bip_39_word_new_br10 | unfold<br>grass<br>cake<br>stone<br>build<br>disorder<br>tone<br>across<br>offer<br>credit |  
+| bip_39_word_new_br11 | unfold<br>grass<br>cake<br>stone<br>build<br>disorder<br>tone<br>across<br>offer<br>credit<br>cheap |  
+| bip_39_word_new_br12 | unfold<br>grass<br>cake<br>stone<br>build<br>disorder<br>tone<br>across<br>offer<br>credit<br>cheap<br>achieve |  
+| bip_39_word_new_br2 | unfold<br>grass |  
+| bip_39_word_new_br3 | unfold<br>grass<br>cake |  
+| bip_39_word_new_br4 | unfold<br>grass<br>cake<br>stone |  
+| bip_39_word_new_br5 | unfold<br>grass<br>cake<br>stone<br>build |  
+| bip_39_word_new_br6 | unfold<br>grass<br>cake<br>stone<br>build<br>disorder |  
+| bip_39_word_new_br7 | unfold<br>grass<br>cake<br>stone<br>build<br>disorder<br>tone |  
+| bip_39_word_new_br8 | unfold<br>grass<br>cake<br>stone<br>build<br>disorder<br>tone<br>across |  
+| bip_39_word_new_br9 | unfold<br>grass<br>cake<br>stone<br>build<br>disorder<br>tone<br>across<br>offer |  
+| bip_39_word_new_line1 | unfold |  
+| bip_39_word_new_line10 | unfold
+grass
+cake
+stone
+build
+disorder
+tone
+across
+offer
+credit |  
+| bip_39_word_new_line11 | unfold
+grass
+cake
+stone
+build
+disorder
+tone
+across
+offer
+credit
+cheap |  
+| bip_39_word_new_line12 | unfold
+grass
+cake
+stone
+build
+disorder
+tone
+across
+offer
+credit
+cheap
+achieve |  
+| bip_39_word_new_line2 | unfold
+grass |  
+| bip_39_word_new_line3 | unfold
+grass
+cake |  
+| bip_39_word_new_line4 | unfold
+grass
+cake
+stone |  
+| bip_39_word_new_line5 | unfold
+grass
+cake
+stone
+build |  
+| bip_39_word_new_line6 | unfold
+grass
+cake
+stone
+build
+disorder |  
+| bip_39_word_new_line7 | unfold
+grass
+cake
+stone
+build
+disorder
+tone |  
+| bip_39_word_new_line8 | unfold
+grass
+cake
+stone
+build
+disorder
+tone
+across |  
+| bip_39_word_new_line9 | unfold
+grass
+cake
+stone
+build
+disorder
+tone
+across
+offer |  
+| bip_39_word_space_0 | ['unfold', 'grass', 'cake', 'stone', 'build', 'disorder', 'tone', 'across', 'offer', 'credit', 'cheap', 'achieve'] |  
+| bip_39_word_space_1 | unfold |  
+| bip_39_word_space_10 | unfold grass cake stone build disorder tone across offer credit |  
+| bip_39_word_space_11 | unfold grass cake stone build disorder tone across offer credit cheap |  
+| bip_39_word_space_12 | unfold grass cake stone build disorder tone across offer credit cheap achieve |  
+| bip_39_word_space_2 | unfold grass |  
+| bip_39_word_space_3 | unfold grass cake |  
+| bip_39_word_space_4 | unfold grass cake stone |  
+| bip_39_word_space_5 | unfold grass cake stone build |  
+| bip_39_word_space_6 | unfold grass cake stone build disorder |  
+| bip_39_word_space_7 | unfold grass cake stone build disorder tone |  
+| bip_39_word_space_8 | unfold grass cake stone build disorder tone across |  
+| bip_39_word_space_9 | unfold grass cake stone build disorder tone across offer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

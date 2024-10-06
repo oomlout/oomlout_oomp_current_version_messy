@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oval boring
+  * bip 39 word 3: oval boring narrow
+  * bip 39 word: oval boring narrow hold nasty attend glad permit acquire pause tomato ability
 
 ### other_codes
 * short_code: so3br25sn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oval |  
+| bip_39_word_new_br10 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend<br>glad<br>permit<br>acquire<br>pause |  
+| bip_39_word_new_br11 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend<br>glad<br>permit<br>acquire<br>pause<br>tomato |  
+| bip_39_word_new_br12 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend<br>glad<br>permit<br>acquire<br>pause<br>tomato<br>ability |  
+| bip_39_word_new_br2 | oval<br>boring |  
+| bip_39_word_new_br3 | oval<br>boring<br>narrow |  
+| bip_39_word_new_br4 | oval<br>boring<br>narrow<br>hold |  
+| bip_39_word_new_br5 | oval<br>boring<br>narrow<br>hold<br>nasty |  
+| bip_39_word_new_br6 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend |  
+| bip_39_word_new_br7 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend<br>glad |  
+| bip_39_word_new_br8 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend<br>glad<br>permit |  
+| bip_39_word_new_br9 | oval<br>boring<br>narrow<br>hold<br>nasty<br>attend<br>glad<br>permit<br>acquire |  
+| bip_39_word_new_line1 | oval |  
+| bip_39_word_new_line10 | oval
+boring
+narrow
+hold
+nasty
+attend
+glad
+permit
+acquire
+pause |  
+| bip_39_word_new_line11 | oval
+boring
+narrow
+hold
+nasty
+attend
+glad
+permit
+acquire
+pause
+tomato |  
+| bip_39_word_new_line12 | oval
+boring
+narrow
+hold
+nasty
+attend
+glad
+permit
+acquire
+pause
+tomato
+ability |  
+| bip_39_word_new_line2 | oval
+boring |  
+| bip_39_word_new_line3 | oval
+boring
+narrow |  
+| bip_39_word_new_line4 | oval
+boring
+narrow
+hold |  
+| bip_39_word_new_line5 | oval
+boring
+narrow
+hold
+nasty |  
+| bip_39_word_new_line6 | oval
+boring
+narrow
+hold
+nasty
+attend |  
+| bip_39_word_new_line7 | oval
+boring
+narrow
+hold
+nasty
+attend
+glad |  
+| bip_39_word_new_line8 | oval
+boring
+narrow
+hold
+nasty
+attend
+glad
+permit |  
+| bip_39_word_new_line9 | oval
+boring
+narrow
+hold
+nasty
+attend
+glad
+permit
+acquire |  
+| bip_39_word_space_0 | ['oval', 'boring', 'narrow', 'hold', 'nasty', 'attend', 'glad', 'permit', 'acquire', 'pause', 'tomato', 'ability'] |  
+| bip_39_word_space_1 | oval |  
+| bip_39_word_space_10 | oval boring narrow hold nasty attend glad permit acquire pause |  
+| bip_39_word_space_11 | oval boring narrow hold nasty attend glad permit acquire pause tomato |  
+| bip_39_word_space_12 | oval boring narrow hold nasty attend glad permit acquire pause tomato ability |  
+| bip_39_word_space_2 | oval boring |  
+| bip_39_word_space_3 | oval boring narrow |  
+| bip_39_word_space_4 | oval boring narrow hold |  
+| bip_39_word_space_5 | oval boring narrow hold nasty |  
+| bip_39_word_space_6 | oval boring narrow hold nasty attend |  
+| bip_39_word_space_7 | oval boring narrow hold nasty attend glad |  
+| bip_39_word_space_8 | oval boring narrow hold nasty attend glad permit |  
+| bip_39_word_space_9 | oval boring narrow hold nasty attend glad permit acquire |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

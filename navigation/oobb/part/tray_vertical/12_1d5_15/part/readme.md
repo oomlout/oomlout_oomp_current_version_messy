@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: allow amazing
+  * bip 39 word 3: allow amazing boss
+  * bip 39 word: allow amazing boss quote thing nut basket monitor cost volume such access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | allow |  
+| bip_39_word_new_br10 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume |  
+| bip_39_word_new_br11 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume<br>such |  
+| bip_39_word_new_br12 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost<br>volume<br>such<br>access |  
+| bip_39_word_new_br2 | allow<br>amazing |  
+| bip_39_word_new_br3 | allow<br>amazing<br>boss |  
+| bip_39_word_new_br4 | allow<br>amazing<br>boss<br>quote |  
+| bip_39_word_new_br5 | allow<br>amazing<br>boss<br>quote<br>thing |  
+| bip_39_word_new_br6 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut |  
+| bip_39_word_new_br7 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket |  
+| bip_39_word_new_br8 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor |  
+| bip_39_word_new_br9 | allow<br>amazing<br>boss<br>quote<br>thing<br>nut<br>basket<br>monitor<br>cost |  
+| bip_39_word_new_line1 | allow |  
+| bip_39_word_new_line10 | allow
+amazing
+boss
+quote
+thing
+nut
+basket
+monitor
+cost
+volume |  
+| bip_39_word_new_line11 | allow
+amazing
+boss
+quote
+thing
+nut
+basket
+monitor
+cost
+volume
+such |  
+| bip_39_word_new_line12 | allow
+amazing
+boss
+quote
+thing
+nut
+basket
+monitor
+cost
+volume
+such
+access |  
+| bip_39_word_new_line2 | allow
+amazing |  
+| bip_39_word_new_line3 | allow
+amazing
+boss |  
+| bip_39_word_new_line4 | allow
+amazing
+boss
+quote |  
+| bip_39_word_new_line5 | allow
+amazing
+boss
+quote
+thing |  
+| bip_39_word_new_line6 | allow
+amazing
+boss
+quote
+thing
+nut |  
+| bip_39_word_new_line7 | allow
+amazing
+boss
+quote
+thing
+nut
+basket |  
+| bip_39_word_new_line8 | allow
+amazing
+boss
+quote
+thing
+nut
+basket
+monitor |  
+| bip_39_word_new_line9 | allow
+amazing
+boss
+quote
+thing
+nut
+basket
+monitor
+cost |  
+| bip_39_word_space_0 | ['allow', 'amazing', 'boss', 'quote', 'thing', 'nut', 'basket', 'monitor', 'cost', 'volume', 'such', 'access'] |  
+| bip_39_word_space_1 | allow |  
+| bip_39_word_space_10 | allow amazing boss quote thing nut basket monitor cost volume |  
+| bip_39_word_space_11 | allow amazing boss quote thing nut basket monitor cost volume such |  
+| bip_39_word_space_12 | allow amazing boss quote thing nut basket monitor cost volume such access |  
+| bip_39_word_space_2 | allow amazing |  
+| bip_39_word_space_3 | allow amazing boss |  
+| bip_39_word_space_4 | allow amazing boss quote |  
+| bip_39_word_space_5 | allow amazing boss quote thing |  
+| bip_39_word_space_6 | allow amazing boss quote thing nut |  
+| bip_39_word_space_7 | allow amazing boss quote thing nut basket |  
+| bip_39_word_space_8 | allow amazing boss quote thing nut basket monitor |  
+| bip_39_word_space_9 | allow amazing boss quote thing nut basket monitor cost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

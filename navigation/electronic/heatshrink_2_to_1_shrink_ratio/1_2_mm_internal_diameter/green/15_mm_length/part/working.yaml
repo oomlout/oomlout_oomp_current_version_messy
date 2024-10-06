@@ -1,3 +1,187 @@
+bip_39_word_new_br1: first
+bip_39_word_new_br10: first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best
+bip_39_word_new_br11: first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best<br>select
+bip_39_word_new_br12: first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo<br>best<br>select<br>artefact
+bip_39_word_new_br2: first<br>payment
+bip_39_word_new_br3: first<br>payment<br>ticket
+bip_39_word_new_br4: first<br>payment<br>ticket<br>era
+bip_39_word_new_br5: first<br>payment<br>ticket<br>era<br>install
+bip_39_word_new_br6: first<br>payment<br>ticket<br>era<br>install<br>rebuild
+bip_39_word_new_br7: first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft
+bip_39_word_new_br8: first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer
+bip_39_word_new_br9: first<br>payment<br>ticket<br>era<br>install<br>rebuild<br>craft<br>hammer<br>photo
+bip_39_word_new_line1: first
+bip_39_word_new_line10: 'first
+
+  payment
+
+  ticket
+
+  era
+
+  install
+
+  rebuild
+
+  craft
+
+  hammer
+
+  photo
+
+  best'
+bip_39_word_new_line11: 'first
+
+  payment
+
+  ticket
+
+  era
+
+  install
+
+  rebuild
+
+  craft
+
+  hammer
+
+  photo
+
+  best
+
+  select'
+bip_39_word_new_line12: 'first
+
+  payment
+
+  ticket
+
+  era
+
+  install
+
+  rebuild
+
+  craft
+
+  hammer
+
+  photo
+
+  best
+
+  select
+
+  artefact'
+bip_39_word_new_line2: 'first
+
+  payment'
+bip_39_word_new_line3: 'first
+
+  payment
+
+  ticket'
+bip_39_word_new_line4: 'first
+
+  payment
+
+  ticket
+
+  era'
+bip_39_word_new_line5: 'first
+
+  payment
+
+  ticket
+
+  era
+
+  install'
+bip_39_word_new_line6: 'first
+
+  payment
+
+  ticket
+
+  era
+
+  install
+
+  rebuild'
+bip_39_word_new_line7: 'first
+
+  payment
+
+  ticket
+
+  era
+
+  install
+
+  rebuild
+
+  craft'
+bip_39_word_new_line8: 'first
+
+  payment
+
+  ticket
+
+  era
+
+  install
+
+  rebuild
+
+  craft
+
+  hammer'
+bip_39_word_new_line9: 'first
+
+  payment
+
+  ticket
+
+  era
+
+  install
+
+  rebuild
+
+  craft
+
+  hammer
+
+  photo'
+bip_39_word_space_0:
+- first
+- payment
+- ticket
+- era
+- install
+- rebuild
+- craft
+- hammer
+- photo
+- best
+- select
+- artefact
+bip_39_word_space_1: first
+bip_39_word_space_10: first payment ticket era install rebuild craft hammer photo
+  best
+bip_39_word_space_11: first payment ticket era install rebuild craft hammer photo
+  best select
+bip_39_word_space_12: first payment ticket era install rebuild craft hammer photo
+  best select artefact
+bip_39_word_space_2: first payment
+bip_39_word_space_3: first payment ticket
+bip_39_word_space_4: first payment ticket era
+bip_39_word_space_5: first payment ticket era install
+bip_39_word_space_6: first payment ticket era install rebuild
+bip_39_word_space_7: first payment ticket era install rebuild craft
+bip_39_word_space_8: first payment ticket era install rebuild craft hammer
+bip_39_word_space_9: first payment ticket era install rebuild craft hammer photo
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

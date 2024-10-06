@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hotel ice
+  * bip 39 word 3: hotel ice glow
+  * bip 39 word: hotel ice glow catch wheat poet dilemma record six rapid clown assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hotel |  
+| bip_39_word_new_br10 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet<br>dilemma<br>record<br>six<br>rapid |  
+| bip_39_word_new_br11 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet<br>dilemma<br>record<br>six<br>rapid<br>clown |  
+| bip_39_word_new_br12 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet<br>dilemma<br>record<br>six<br>rapid<br>clown<br>assault |  
+| bip_39_word_new_br2 | hotel<br>ice |  
+| bip_39_word_new_br3 | hotel<br>ice<br>glow |  
+| bip_39_word_new_br4 | hotel<br>ice<br>glow<br>catch |  
+| bip_39_word_new_br5 | hotel<br>ice<br>glow<br>catch<br>wheat |  
+| bip_39_word_new_br6 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet |  
+| bip_39_word_new_br7 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet<br>dilemma |  
+| bip_39_word_new_br8 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet<br>dilemma<br>record |  
+| bip_39_word_new_br9 | hotel<br>ice<br>glow<br>catch<br>wheat<br>poet<br>dilemma<br>record<br>six |  
+| bip_39_word_new_line1 | hotel |  
+| bip_39_word_new_line10 | hotel
+ice
+glow
+catch
+wheat
+poet
+dilemma
+record
+six
+rapid |  
+| bip_39_word_new_line11 | hotel
+ice
+glow
+catch
+wheat
+poet
+dilemma
+record
+six
+rapid
+clown |  
+| bip_39_word_new_line12 | hotel
+ice
+glow
+catch
+wheat
+poet
+dilemma
+record
+six
+rapid
+clown
+assault |  
+| bip_39_word_new_line2 | hotel
+ice |  
+| bip_39_word_new_line3 | hotel
+ice
+glow |  
+| bip_39_word_new_line4 | hotel
+ice
+glow
+catch |  
+| bip_39_word_new_line5 | hotel
+ice
+glow
+catch
+wheat |  
+| bip_39_word_new_line6 | hotel
+ice
+glow
+catch
+wheat
+poet |  
+| bip_39_word_new_line7 | hotel
+ice
+glow
+catch
+wheat
+poet
+dilemma |  
+| bip_39_word_new_line8 | hotel
+ice
+glow
+catch
+wheat
+poet
+dilemma
+record |  
+| bip_39_word_new_line9 | hotel
+ice
+glow
+catch
+wheat
+poet
+dilemma
+record
+six |  
+| bip_39_word_space_0 | ['hotel', 'ice', 'glow', 'catch', 'wheat', 'poet', 'dilemma', 'record', 'six', 'rapid', 'clown', 'assault'] |  
+| bip_39_word_space_1 | hotel |  
+| bip_39_word_space_10 | hotel ice glow catch wheat poet dilemma record six rapid |  
+| bip_39_word_space_11 | hotel ice glow catch wheat poet dilemma record six rapid clown |  
+| bip_39_word_space_12 | hotel ice glow catch wheat poet dilemma record six rapid clown assault |  
+| bip_39_word_space_2 | hotel ice |  
+| bip_39_word_space_3 | hotel ice glow |  
+| bip_39_word_space_4 | hotel ice glow catch |  
+| bip_39_word_space_5 | hotel ice glow catch wheat |  
+| bip_39_word_space_6 | hotel ice glow catch wheat poet |  
+| bip_39_word_space_7 | hotel ice glow catch wheat poet dilemma |  
+| bip_39_word_space_8 | hotel ice glow catch wheat poet dilemma record |  
+| bip_39_word_space_9 | hotel ice glow catch wheat poet dilemma record six |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

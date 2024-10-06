@@ -1,3 +1,187 @@
+bip_39_word_new_br1: hundred
+bip_39_word_new_br10: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion<br>horn<br>dash<br>assume<br>action
+bip_39_word_new_br11: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion<br>horn<br>dash<br>assume<br>action<br>grain
+bip_39_word_new_br12: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion<br>horn<br>dash<br>assume<br>action<br>grain<br>agent
+bip_39_word_new_br2: hundred<br>young
+bip_39_word_new_br3: hundred<br>young<br>endless
+bip_39_word_new_br4: hundred<br>young<br>endless<br>slogan
+bip_39_word_new_br5: hundred<br>young<br>endless<br>slogan<br>patrol
+bip_39_word_new_br6: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion
+bip_39_word_new_br7: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion<br>horn
+bip_39_word_new_br8: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion<br>horn<br>dash
+bip_39_word_new_br9: hundred<br>young<br>endless<br>slogan<br>patrol<br>portion<br>horn<br>dash<br>assume
+bip_39_word_new_line1: hundred
+bip_39_word_new_line10: 'hundred
+
+  young
+
+  endless
+
+  slogan
+
+  patrol
+
+  portion
+
+  horn
+
+  dash
+
+  assume
+
+  action'
+bip_39_word_new_line11: 'hundred
+
+  young
+
+  endless
+
+  slogan
+
+  patrol
+
+  portion
+
+  horn
+
+  dash
+
+  assume
+
+  action
+
+  grain'
+bip_39_word_new_line12: 'hundred
+
+  young
+
+  endless
+
+  slogan
+
+  patrol
+
+  portion
+
+  horn
+
+  dash
+
+  assume
+
+  action
+
+  grain
+
+  agent'
+bip_39_word_new_line2: 'hundred
+
+  young'
+bip_39_word_new_line3: 'hundred
+
+  young
+
+  endless'
+bip_39_word_new_line4: 'hundred
+
+  young
+
+  endless
+
+  slogan'
+bip_39_word_new_line5: 'hundred
+
+  young
+
+  endless
+
+  slogan
+
+  patrol'
+bip_39_word_new_line6: 'hundred
+
+  young
+
+  endless
+
+  slogan
+
+  patrol
+
+  portion'
+bip_39_word_new_line7: 'hundred
+
+  young
+
+  endless
+
+  slogan
+
+  patrol
+
+  portion
+
+  horn'
+bip_39_word_new_line8: 'hundred
+
+  young
+
+  endless
+
+  slogan
+
+  patrol
+
+  portion
+
+  horn
+
+  dash'
+bip_39_word_new_line9: 'hundred
+
+  young
+
+  endless
+
+  slogan
+
+  patrol
+
+  portion
+
+  horn
+
+  dash
+
+  assume'
+bip_39_word_space_0:
+- hundred
+- young
+- endless
+- slogan
+- patrol
+- portion
+- horn
+- dash
+- assume
+- action
+- grain
+- agent
+bip_39_word_space_1: hundred
+bip_39_word_space_10: hundred young endless slogan patrol portion horn dash assume
+  action
+bip_39_word_space_11: hundred young endless slogan patrol portion horn dash assume
+  action grain
+bip_39_word_space_12: hundred young endless slogan patrol portion horn dash assume
+  action grain agent
+bip_39_word_space_2: hundred young
+bip_39_word_space_3: hundred young endless
+bip_39_word_space_4: hundred young endless slogan
+bip_39_word_space_5: hundred young endless slogan patrol
+bip_39_word_space_6: hundred young endless slogan patrol portion
+bip_39_word_space_7: hundred young endless slogan patrol portion horn
+bip_39_word_space_8: hundred young endless slogan patrol portion horn dash
+bip_39_word_space_9: hundred young endless slogan patrol portion horn dash assume
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

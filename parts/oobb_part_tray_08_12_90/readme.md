@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raccoon venture
+  * bip 39 word 3: raccoon venture path
+  * bip 39 word: raccoon venture path ensure wood kind drop label tongue soccer result alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raccoon |  
+| bip_39_word_new_br10 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind<br>drop<br>label<br>tongue<br>soccer |  
+| bip_39_word_new_br11 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind<br>drop<br>label<br>tongue<br>soccer<br>result |  
+| bip_39_word_new_br12 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind<br>drop<br>label<br>tongue<br>soccer<br>result<br>alien |  
+| bip_39_word_new_br2 | raccoon<br>venture |  
+| bip_39_word_new_br3 | raccoon<br>venture<br>path |  
+| bip_39_word_new_br4 | raccoon<br>venture<br>path<br>ensure |  
+| bip_39_word_new_br5 | raccoon<br>venture<br>path<br>ensure<br>wood |  
+| bip_39_word_new_br6 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind |  
+| bip_39_word_new_br7 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind<br>drop |  
+| bip_39_word_new_br8 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind<br>drop<br>label |  
+| bip_39_word_new_br9 | raccoon<br>venture<br>path<br>ensure<br>wood<br>kind<br>drop<br>label<br>tongue |  
+| bip_39_word_new_line1 | raccoon |  
+| bip_39_word_new_line10 | raccoon
+venture
+path
+ensure
+wood
+kind
+drop
+label
+tongue
+soccer |  
+| bip_39_word_new_line11 | raccoon
+venture
+path
+ensure
+wood
+kind
+drop
+label
+tongue
+soccer
+result |  
+| bip_39_word_new_line12 | raccoon
+venture
+path
+ensure
+wood
+kind
+drop
+label
+tongue
+soccer
+result
+alien |  
+| bip_39_word_new_line2 | raccoon
+venture |  
+| bip_39_word_new_line3 | raccoon
+venture
+path |  
+| bip_39_word_new_line4 | raccoon
+venture
+path
+ensure |  
+| bip_39_word_new_line5 | raccoon
+venture
+path
+ensure
+wood |  
+| bip_39_word_new_line6 | raccoon
+venture
+path
+ensure
+wood
+kind |  
+| bip_39_word_new_line7 | raccoon
+venture
+path
+ensure
+wood
+kind
+drop |  
+| bip_39_word_new_line8 | raccoon
+venture
+path
+ensure
+wood
+kind
+drop
+label |  
+| bip_39_word_new_line9 | raccoon
+venture
+path
+ensure
+wood
+kind
+drop
+label
+tongue |  
+| bip_39_word_space_0 | ['raccoon', 'venture', 'path', 'ensure', 'wood', 'kind', 'drop', 'label', 'tongue', 'soccer', 'result', 'alien'] |  
+| bip_39_word_space_1 | raccoon |  
+| bip_39_word_space_10 | raccoon venture path ensure wood kind drop label tongue soccer |  
+| bip_39_word_space_11 | raccoon venture path ensure wood kind drop label tongue soccer result |  
+| bip_39_word_space_12 | raccoon venture path ensure wood kind drop label tongue soccer result alien |  
+| bip_39_word_space_2 | raccoon venture |  
+| bip_39_word_space_3 | raccoon venture path |  
+| bip_39_word_space_4 | raccoon venture path ensure |  
+| bip_39_word_space_5 | raccoon venture path ensure wood |  
+| bip_39_word_space_6 | raccoon venture path ensure wood kind |  
+| bip_39_word_space_7 | raccoon venture path ensure wood kind drop |  
+| bip_39_word_space_8 | raccoon venture path ensure wood kind drop label |  
+| bip_39_word_space_9 | raccoon venture path ensure wood kind drop label tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

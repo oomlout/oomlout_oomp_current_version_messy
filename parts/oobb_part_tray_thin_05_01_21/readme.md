@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nice voice
+  * bip 39 word 3: nice voice female
+  * bip 39 word: nice voice female kitten chicken ski dice crisp must cherry million amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nice |  
+| bip_39_word_new_br10 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski<br>dice<br>crisp<br>must<br>cherry |  
+| bip_39_word_new_br11 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski<br>dice<br>crisp<br>must<br>cherry<br>million |  
+| bip_39_word_new_br12 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski<br>dice<br>crisp<br>must<br>cherry<br>million<br>amount |  
+| bip_39_word_new_br2 | nice<br>voice |  
+| bip_39_word_new_br3 | nice<br>voice<br>female |  
+| bip_39_word_new_br4 | nice<br>voice<br>female<br>kitten |  
+| bip_39_word_new_br5 | nice<br>voice<br>female<br>kitten<br>chicken |  
+| bip_39_word_new_br6 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski |  
+| bip_39_word_new_br7 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski<br>dice |  
+| bip_39_word_new_br8 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski<br>dice<br>crisp |  
+| bip_39_word_new_br9 | nice<br>voice<br>female<br>kitten<br>chicken<br>ski<br>dice<br>crisp<br>must |  
+| bip_39_word_new_line1 | nice |  
+| bip_39_word_new_line10 | nice
+voice
+female
+kitten
+chicken
+ski
+dice
+crisp
+must
+cherry |  
+| bip_39_word_new_line11 | nice
+voice
+female
+kitten
+chicken
+ski
+dice
+crisp
+must
+cherry
+million |  
+| bip_39_word_new_line12 | nice
+voice
+female
+kitten
+chicken
+ski
+dice
+crisp
+must
+cherry
+million
+amount |  
+| bip_39_word_new_line2 | nice
+voice |  
+| bip_39_word_new_line3 | nice
+voice
+female |  
+| bip_39_word_new_line4 | nice
+voice
+female
+kitten |  
+| bip_39_word_new_line5 | nice
+voice
+female
+kitten
+chicken |  
+| bip_39_word_new_line6 | nice
+voice
+female
+kitten
+chicken
+ski |  
+| bip_39_word_new_line7 | nice
+voice
+female
+kitten
+chicken
+ski
+dice |  
+| bip_39_word_new_line8 | nice
+voice
+female
+kitten
+chicken
+ski
+dice
+crisp |  
+| bip_39_word_new_line9 | nice
+voice
+female
+kitten
+chicken
+ski
+dice
+crisp
+must |  
+| bip_39_word_space_0 | ['nice', 'voice', 'female', 'kitten', 'chicken', 'ski', 'dice', 'crisp', 'must', 'cherry', 'million', 'amount'] |  
+| bip_39_word_space_1 | nice |  
+| bip_39_word_space_10 | nice voice female kitten chicken ski dice crisp must cherry |  
+| bip_39_word_space_11 | nice voice female kitten chicken ski dice crisp must cherry million |  
+| bip_39_word_space_12 | nice voice female kitten chicken ski dice crisp must cherry million amount |  
+| bip_39_word_space_2 | nice voice |  
+| bip_39_word_space_3 | nice voice female |  
+| bip_39_word_space_4 | nice voice female kitten |  
+| bip_39_word_space_5 | nice voice female kitten chicken |  
+| bip_39_word_space_6 | nice voice female kitten chicken ski |  
+| bip_39_word_space_7 | nice voice female kitten chicken ski dice |  
+| bip_39_word_space_8 | nice voice female kitten chicken ski dice crisp |  
+| bip_39_word_space_9 | nice voice female kitten chicken ski dice crisp must |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

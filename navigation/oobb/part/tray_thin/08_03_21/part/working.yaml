@@ -1,3 +1,187 @@
+bip_39_word_new_br1: crazy
+bip_39_word_new_br10: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass<br>useful<br>smart<br>turtle<br>glory
+bip_39_word_new_br11: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass<br>useful<br>smart<br>turtle<br>glory<br>fog
+bip_39_word_new_br12: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass<br>useful<br>smart<br>turtle<br>glory<br>fog<br>arch
+bip_39_word_new_br2: crazy<br>chest
+bip_39_word_new_br3: crazy<br>chest<br>opinion
+bip_39_word_new_br4: crazy<br>chest<br>opinion<br>bridge
+bip_39_word_new_br5: crazy<br>chest<br>opinion<br>bridge<br>vintage
+bip_39_word_new_br6: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass
+bip_39_word_new_br7: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass<br>useful
+bip_39_word_new_br8: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass<br>useful<br>smart
+bip_39_word_new_br9: crazy<br>chest<br>opinion<br>bridge<br>vintage<br>brass<br>useful<br>smart<br>turtle
+bip_39_word_new_line1: crazy
+bip_39_word_new_line10: 'crazy
+
+  chest
+
+  opinion
+
+  bridge
+
+  vintage
+
+  brass
+
+  useful
+
+  smart
+
+  turtle
+
+  glory'
+bip_39_word_new_line11: 'crazy
+
+  chest
+
+  opinion
+
+  bridge
+
+  vintage
+
+  brass
+
+  useful
+
+  smart
+
+  turtle
+
+  glory
+
+  fog'
+bip_39_word_new_line12: 'crazy
+
+  chest
+
+  opinion
+
+  bridge
+
+  vintage
+
+  brass
+
+  useful
+
+  smart
+
+  turtle
+
+  glory
+
+  fog
+
+  arch'
+bip_39_word_new_line2: 'crazy
+
+  chest'
+bip_39_word_new_line3: 'crazy
+
+  chest
+
+  opinion'
+bip_39_word_new_line4: 'crazy
+
+  chest
+
+  opinion
+
+  bridge'
+bip_39_word_new_line5: 'crazy
+
+  chest
+
+  opinion
+
+  bridge
+
+  vintage'
+bip_39_word_new_line6: 'crazy
+
+  chest
+
+  opinion
+
+  bridge
+
+  vintage
+
+  brass'
+bip_39_word_new_line7: 'crazy
+
+  chest
+
+  opinion
+
+  bridge
+
+  vintage
+
+  brass
+
+  useful'
+bip_39_word_new_line8: 'crazy
+
+  chest
+
+  opinion
+
+  bridge
+
+  vintage
+
+  brass
+
+  useful
+
+  smart'
+bip_39_word_new_line9: 'crazy
+
+  chest
+
+  opinion
+
+  bridge
+
+  vintage
+
+  brass
+
+  useful
+
+  smart
+
+  turtle'
+bip_39_word_space_0:
+- crazy
+- chest
+- opinion
+- bridge
+- vintage
+- brass
+- useful
+- smart
+- turtle
+- glory
+- fog
+- arch
+bip_39_word_space_1: crazy
+bip_39_word_space_10: crazy chest opinion bridge vintage brass useful smart turtle
+  glory
+bip_39_word_space_11: crazy chest opinion bridge vintage brass useful smart turtle
+  glory fog
+bip_39_word_space_12: crazy chest opinion bridge vintage brass useful smart turtle
+  glory fog arch
+bip_39_word_space_2: crazy chest
+bip_39_word_space_3: crazy chest opinion
+bip_39_word_space_4: crazy chest opinion bridge
+bip_39_word_space_5: crazy chest opinion bridge vintage
+bip_39_word_space_6: crazy chest opinion bridge vintage brass
+bip_39_word_space_7: crazy chest opinion bridge vintage brass useful
+bip_39_word_space_8: crazy chest opinion bridge vintage brass useful smart
+bip_39_word_space_9: crazy chest opinion bridge vintage brass useful smart turtle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jungle wrestle
+  * bip 39 word 3: jungle wrestle explain
+  * bip 39 word: jungle wrestle explain magnet come domain meadow domain someone naive liar absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jungle |  
+| bip_39_word_new_br10 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain<br>meadow<br>domain<br>someone<br>naive |  
+| bip_39_word_new_br11 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain<br>meadow<br>domain<br>someone<br>naive<br>liar |  
+| bip_39_word_new_br12 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain<br>meadow<br>domain<br>someone<br>naive<br>liar<br>absorb |  
+| bip_39_word_new_br2 | jungle<br>wrestle |  
+| bip_39_word_new_br3 | jungle<br>wrestle<br>explain |  
+| bip_39_word_new_br4 | jungle<br>wrestle<br>explain<br>magnet |  
+| bip_39_word_new_br5 | jungle<br>wrestle<br>explain<br>magnet<br>come |  
+| bip_39_word_new_br6 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain |  
+| bip_39_word_new_br7 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain<br>meadow |  
+| bip_39_word_new_br8 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain<br>meadow<br>domain |  
+| bip_39_word_new_br9 | jungle<br>wrestle<br>explain<br>magnet<br>come<br>domain<br>meadow<br>domain<br>someone |  
+| bip_39_word_new_line1 | jungle |  
+| bip_39_word_new_line10 | jungle
+wrestle
+explain
+magnet
+come
+domain
+meadow
+domain
+someone
+naive |  
+| bip_39_word_new_line11 | jungle
+wrestle
+explain
+magnet
+come
+domain
+meadow
+domain
+someone
+naive
+liar |  
+| bip_39_word_new_line12 | jungle
+wrestle
+explain
+magnet
+come
+domain
+meadow
+domain
+someone
+naive
+liar
+absorb |  
+| bip_39_word_new_line2 | jungle
+wrestle |  
+| bip_39_word_new_line3 | jungle
+wrestle
+explain |  
+| bip_39_word_new_line4 | jungle
+wrestle
+explain
+magnet |  
+| bip_39_word_new_line5 | jungle
+wrestle
+explain
+magnet
+come |  
+| bip_39_word_new_line6 | jungle
+wrestle
+explain
+magnet
+come
+domain |  
+| bip_39_word_new_line7 | jungle
+wrestle
+explain
+magnet
+come
+domain
+meadow |  
+| bip_39_word_new_line8 | jungle
+wrestle
+explain
+magnet
+come
+domain
+meadow
+domain |  
+| bip_39_word_new_line9 | jungle
+wrestle
+explain
+magnet
+come
+domain
+meadow
+domain
+someone |  
+| bip_39_word_space_0 | ['jungle', 'wrestle', 'explain', 'magnet', 'come', 'domain', 'meadow', 'domain', 'someone', 'naive', 'liar', 'absorb'] |  
+| bip_39_word_space_1 | jungle |  
+| bip_39_word_space_10 | jungle wrestle explain magnet come domain meadow domain someone naive |  
+| bip_39_word_space_11 | jungle wrestle explain magnet come domain meadow domain someone naive liar |  
+| bip_39_word_space_12 | jungle wrestle explain magnet come domain meadow domain someone naive liar absorb |  
+| bip_39_word_space_2 | jungle wrestle |  
+| bip_39_word_space_3 | jungle wrestle explain |  
+| bip_39_word_space_4 | jungle wrestle explain magnet |  
+| bip_39_word_space_5 | jungle wrestle explain magnet come |  
+| bip_39_word_space_6 | jungle wrestle explain magnet come domain |  
+| bip_39_word_space_7 | jungle wrestle explain magnet come domain meadow |  
+| bip_39_word_space_8 | jungle wrestle explain magnet come domain meadow domain |  
+| bip_39_word_space_9 | jungle wrestle explain magnet come domain meadow domain someone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

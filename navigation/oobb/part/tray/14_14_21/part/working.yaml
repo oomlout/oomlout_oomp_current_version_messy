@@ -1,3 +1,186 @@
+bip_39_word_new_br1: please
+bip_39_word_new_br10: please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict
+bip_39_word_new_br11: please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict<br>wasp
+bip_39_word_new_br12: please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely<br>addict<br>wasp<br>across
+bip_39_word_new_br2: please<br>sense
+bip_39_word_new_br3: please<br>sense<br>remove
+bip_39_word_new_br4: please<br>sense<br>remove<br>tray
+bip_39_word_new_br5: please<br>sense<br>remove<br>tray<br>disagree
+bip_39_word_new_br6: please<br>sense<br>remove<br>tray<br>disagree<br>twin
+bip_39_word_new_br7: please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital
+bip_39_word_new_br8: please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky
+bip_39_word_new_br9: please<br>sense<br>remove<br>tray<br>disagree<br>twin<br>hospital<br>lucky<br>rely
+bip_39_word_new_line1: please
+bip_39_word_new_line10: 'please
+
+  sense
+
+  remove
+
+  tray
+
+  disagree
+
+  twin
+
+  hospital
+
+  lucky
+
+  rely
+
+  addict'
+bip_39_word_new_line11: 'please
+
+  sense
+
+  remove
+
+  tray
+
+  disagree
+
+  twin
+
+  hospital
+
+  lucky
+
+  rely
+
+  addict
+
+  wasp'
+bip_39_word_new_line12: 'please
+
+  sense
+
+  remove
+
+  tray
+
+  disagree
+
+  twin
+
+  hospital
+
+  lucky
+
+  rely
+
+  addict
+
+  wasp
+
+  across'
+bip_39_word_new_line2: 'please
+
+  sense'
+bip_39_word_new_line3: 'please
+
+  sense
+
+  remove'
+bip_39_word_new_line4: 'please
+
+  sense
+
+  remove
+
+  tray'
+bip_39_word_new_line5: 'please
+
+  sense
+
+  remove
+
+  tray
+
+  disagree'
+bip_39_word_new_line6: 'please
+
+  sense
+
+  remove
+
+  tray
+
+  disagree
+
+  twin'
+bip_39_word_new_line7: 'please
+
+  sense
+
+  remove
+
+  tray
+
+  disagree
+
+  twin
+
+  hospital'
+bip_39_word_new_line8: 'please
+
+  sense
+
+  remove
+
+  tray
+
+  disagree
+
+  twin
+
+  hospital
+
+  lucky'
+bip_39_word_new_line9: 'please
+
+  sense
+
+  remove
+
+  tray
+
+  disagree
+
+  twin
+
+  hospital
+
+  lucky
+
+  rely'
+bip_39_word_space_0:
+- please
+- sense
+- remove
+- tray
+- disagree
+- twin
+- hospital
+- lucky
+- rely
+- addict
+- wasp
+- across
+bip_39_word_space_1: please
+bip_39_word_space_10: please sense remove tray disagree twin hospital lucky rely addict
+bip_39_word_space_11: please sense remove tray disagree twin hospital lucky rely addict
+  wasp
+bip_39_word_space_12: please sense remove tray disagree twin hospital lucky rely addict
+  wasp across
+bip_39_word_space_2: please sense
+bip_39_word_space_3: please sense remove
+bip_39_word_space_4: please sense remove tray
+bip_39_word_space_5: please sense remove tray disagree
+bip_39_word_space_6: please sense remove tray disagree twin
+bip_39_word_space_7: please sense remove tray disagree twin hospital
+bip_39_word_space_8: please sense remove tray disagree twin hospital lucky
+bip_39_word_space_9: please sense remove tray disagree twin hospital lucky rely
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

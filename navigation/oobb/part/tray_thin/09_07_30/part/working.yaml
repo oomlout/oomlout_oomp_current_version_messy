@@ -1,3 +1,186 @@
+bip_39_word_new_br1: peasant
+bip_39_word_new_br10: peasant<br>radio<br>undo<br>state<br>vocal<br>prepare<br>sight<br>lumber<br>check<br>hunt
+bip_39_word_new_br11: peasant<br>radio<br>undo<br>state<br>vocal<br>prepare<br>sight<br>lumber<br>check<br>hunt<br>jewel
+bip_39_word_new_br12: peasant<br>radio<br>undo<br>state<br>vocal<br>prepare<br>sight<br>lumber<br>check<br>hunt<br>jewel<br>alien
+bip_39_word_new_br2: peasant<br>radio
+bip_39_word_new_br3: peasant<br>radio<br>undo
+bip_39_word_new_br4: peasant<br>radio<br>undo<br>state
+bip_39_word_new_br5: peasant<br>radio<br>undo<br>state<br>vocal
+bip_39_word_new_br6: peasant<br>radio<br>undo<br>state<br>vocal<br>prepare
+bip_39_word_new_br7: peasant<br>radio<br>undo<br>state<br>vocal<br>prepare<br>sight
+bip_39_word_new_br8: peasant<br>radio<br>undo<br>state<br>vocal<br>prepare<br>sight<br>lumber
+bip_39_word_new_br9: peasant<br>radio<br>undo<br>state<br>vocal<br>prepare<br>sight<br>lumber<br>check
+bip_39_word_new_line1: peasant
+bip_39_word_new_line10: 'peasant
+
+  radio
+
+  undo
+
+  state
+
+  vocal
+
+  prepare
+
+  sight
+
+  lumber
+
+  check
+
+  hunt'
+bip_39_word_new_line11: 'peasant
+
+  radio
+
+  undo
+
+  state
+
+  vocal
+
+  prepare
+
+  sight
+
+  lumber
+
+  check
+
+  hunt
+
+  jewel'
+bip_39_word_new_line12: 'peasant
+
+  radio
+
+  undo
+
+  state
+
+  vocal
+
+  prepare
+
+  sight
+
+  lumber
+
+  check
+
+  hunt
+
+  jewel
+
+  alien'
+bip_39_word_new_line2: 'peasant
+
+  radio'
+bip_39_word_new_line3: 'peasant
+
+  radio
+
+  undo'
+bip_39_word_new_line4: 'peasant
+
+  radio
+
+  undo
+
+  state'
+bip_39_word_new_line5: 'peasant
+
+  radio
+
+  undo
+
+  state
+
+  vocal'
+bip_39_word_new_line6: 'peasant
+
+  radio
+
+  undo
+
+  state
+
+  vocal
+
+  prepare'
+bip_39_word_new_line7: 'peasant
+
+  radio
+
+  undo
+
+  state
+
+  vocal
+
+  prepare
+
+  sight'
+bip_39_word_new_line8: 'peasant
+
+  radio
+
+  undo
+
+  state
+
+  vocal
+
+  prepare
+
+  sight
+
+  lumber'
+bip_39_word_new_line9: 'peasant
+
+  radio
+
+  undo
+
+  state
+
+  vocal
+
+  prepare
+
+  sight
+
+  lumber
+
+  check'
+bip_39_word_space_0:
+- peasant
+- radio
+- undo
+- state
+- vocal
+- prepare
+- sight
+- lumber
+- check
+- hunt
+- jewel
+- alien
+bip_39_word_space_1: peasant
+bip_39_word_space_10: peasant radio undo state vocal prepare sight lumber check hunt
+bip_39_word_space_11: peasant radio undo state vocal prepare sight lumber check hunt
+  jewel
+bip_39_word_space_12: peasant radio undo state vocal prepare sight lumber check hunt
+  jewel alien
+bip_39_word_space_2: peasant radio
+bip_39_word_space_3: peasant radio undo
+bip_39_word_space_4: peasant radio undo state
+bip_39_word_space_5: peasant radio undo state vocal
+bip_39_word_space_6: peasant radio undo state vocal prepare
+bip_39_word_space_7: peasant radio undo state vocal prepare sight
+bip_39_word_space_8: peasant radio undo state vocal prepare sight lumber
+bip_39_word_space_9: peasant radio undo state vocal prepare sight lumber check
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exhibit market
+  * bip 39 word 3: exhibit market dial
+  * bip 39 word: exhibit market dial music shoot fine base rack elephant second protect almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exhibit |  
+| bip_39_word_new_br10 | exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack<br>elephant<br>second |  
+| bip_39_word_new_br11 | exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack<br>elephant<br>second<br>protect |  
+| bip_39_word_new_br12 | exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack<br>elephant<br>second<br>protect<br>almost |  
+| bip_39_word_new_br2 | exhibit<br>market |  
+| bip_39_word_new_br3 | exhibit<br>market<br>dial |  
+| bip_39_word_new_br4 | exhibit<br>market<br>dial<br>music |  
+| bip_39_word_new_br5 | exhibit<br>market<br>dial<br>music<br>shoot |  
+| bip_39_word_new_br6 | exhibit<br>market<br>dial<br>music<br>shoot<br>fine |  
+| bip_39_word_new_br7 | exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base |  
+| bip_39_word_new_br8 | exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack |  
+| bip_39_word_new_br9 | exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack<br>elephant |  
+| bip_39_word_new_line1 | exhibit |  
+| bip_39_word_new_line10 | exhibit
+market
+dial
+music
+shoot
+fine
+base
+rack
+elephant
+second |  
+| bip_39_word_new_line11 | exhibit
+market
+dial
+music
+shoot
+fine
+base
+rack
+elephant
+second
+protect |  
+| bip_39_word_new_line12 | exhibit
+market
+dial
+music
+shoot
+fine
+base
+rack
+elephant
+second
+protect
+almost |  
+| bip_39_word_new_line2 | exhibit
+market |  
+| bip_39_word_new_line3 | exhibit
+market
+dial |  
+| bip_39_word_new_line4 | exhibit
+market
+dial
+music |  
+| bip_39_word_new_line5 | exhibit
+market
+dial
+music
+shoot |  
+| bip_39_word_new_line6 | exhibit
+market
+dial
+music
+shoot
+fine |  
+| bip_39_word_new_line7 | exhibit
+market
+dial
+music
+shoot
+fine
+base |  
+| bip_39_word_new_line8 | exhibit
+market
+dial
+music
+shoot
+fine
+base
+rack |  
+| bip_39_word_new_line9 | exhibit
+market
+dial
+music
+shoot
+fine
+base
+rack
+elephant |  
+| bip_39_word_space_0 | ['exhibit', 'market', 'dial', 'music', 'shoot', 'fine', 'base', 'rack', 'elephant', 'second', 'protect', 'almost'] |  
+| bip_39_word_space_1 | exhibit |  
+| bip_39_word_space_10 | exhibit market dial music shoot fine base rack elephant second |  
+| bip_39_word_space_11 | exhibit market dial music shoot fine base rack elephant second protect |  
+| bip_39_word_space_12 | exhibit market dial music shoot fine base rack elephant second protect almost |  
+| bip_39_word_space_2 | exhibit market |  
+| bip_39_word_space_3 | exhibit market dial |  
+| bip_39_word_space_4 | exhibit market dial music |  
+| bip_39_word_space_5 | exhibit market dial music shoot |  
+| bip_39_word_space_6 | exhibit market dial music shoot fine |  
+| bip_39_word_space_7 | exhibit market dial music shoot fine base |  
+| bip_39_word_space_8 | exhibit market dial music shoot fine base rack |  
+| bip_39_word_space_9 | exhibit market dial music shoot fine base rack elephant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

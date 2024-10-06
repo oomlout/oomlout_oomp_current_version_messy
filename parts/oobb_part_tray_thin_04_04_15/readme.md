@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: portion allow
+  * bip 39 word 3: portion allow dog
+  * bip 39 word: portion allow dog puppy urban wolf kiwi essence deny wage donor art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | portion |  
+| bip_39_word_new_br10 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf<br>kiwi<br>essence<br>deny<br>wage |  
+| bip_39_word_new_br11 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf<br>kiwi<br>essence<br>deny<br>wage<br>donor |  
+| bip_39_word_new_br12 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf<br>kiwi<br>essence<br>deny<br>wage<br>donor<br>art |  
+| bip_39_word_new_br2 | portion<br>allow |  
+| bip_39_word_new_br3 | portion<br>allow<br>dog |  
+| bip_39_word_new_br4 | portion<br>allow<br>dog<br>puppy |  
+| bip_39_word_new_br5 | portion<br>allow<br>dog<br>puppy<br>urban |  
+| bip_39_word_new_br6 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf |  
+| bip_39_word_new_br7 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf<br>kiwi |  
+| bip_39_word_new_br8 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf<br>kiwi<br>essence |  
+| bip_39_word_new_br9 | portion<br>allow<br>dog<br>puppy<br>urban<br>wolf<br>kiwi<br>essence<br>deny |  
+| bip_39_word_new_line1 | portion |  
+| bip_39_word_new_line10 | portion
+allow
+dog
+puppy
+urban
+wolf
+kiwi
+essence
+deny
+wage |  
+| bip_39_word_new_line11 | portion
+allow
+dog
+puppy
+urban
+wolf
+kiwi
+essence
+deny
+wage
+donor |  
+| bip_39_word_new_line12 | portion
+allow
+dog
+puppy
+urban
+wolf
+kiwi
+essence
+deny
+wage
+donor
+art |  
+| bip_39_word_new_line2 | portion
+allow |  
+| bip_39_word_new_line3 | portion
+allow
+dog |  
+| bip_39_word_new_line4 | portion
+allow
+dog
+puppy |  
+| bip_39_word_new_line5 | portion
+allow
+dog
+puppy
+urban |  
+| bip_39_word_new_line6 | portion
+allow
+dog
+puppy
+urban
+wolf |  
+| bip_39_word_new_line7 | portion
+allow
+dog
+puppy
+urban
+wolf
+kiwi |  
+| bip_39_word_new_line8 | portion
+allow
+dog
+puppy
+urban
+wolf
+kiwi
+essence |  
+| bip_39_word_new_line9 | portion
+allow
+dog
+puppy
+urban
+wolf
+kiwi
+essence
+deny |  
+| bip_39_word_space_0 | ['portion', 'allow', 'dog', 'puppy', 'urban', 'wolf', 'kiwi', 'essence', 'deny', 'wage', 'donor', 'art'] |  
+| bip_39_word_space_1 | portion |  
+| bip_39_word_space_10 | portion allow dog puppy urban wolf kiwi essence deny wage |  
+| bip_39_word_space_11 | portion allow dog puppy urban wolf kiwi essence deny wage donor |  
+| bip_39_word_space_12 | portion allow dog puppy urban wolf kiwi essence deny wage donor art |  
+| bip_39_word_space_2 | portion allow |  
+| bip_39_word_space_3 | portion allow dog |  
+| bip_39_word_space_4 | portion allow dog puppy |  
+| bip_39_word_space_5 | portion allow dog puppy urban |  
+| bip_39_word_space_6 | portion allow dog puppy urban wolf |  
+| bip_39_word_space_7 | portion allow dog puppy urban wolf kiwi |  
+| bip_39_word_space_8 | portion allow dog puppy urban wolf kiwi essence |  
+| bip_39_word_space_9 | portion allow dog puppy urban wolf kiwi essence deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

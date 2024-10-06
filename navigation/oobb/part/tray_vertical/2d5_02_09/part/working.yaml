@@ -1,3 +1,187 @@
+bip_39_word_new_br1: gospel
+bip_39_word_new_br10: gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair
+bip_39_word_new_br11: gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair<br>solve
+bip_39_word_new_br12: gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten<br>unfair<br>solve<br>agree
+bip_39_word_new_br2: gospel<br>autumn
+bip_39_word_new_br3: gospel<br>autumn<br>blouse
+bip_39_word_new_br4: gospel<br>autumn<br>blouse<br>reopen
+bip_39_word_new_br5: gospel<br>autumn<br>blouse<br>reopen<br>surface
+bip_39_word_new_br6: gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity
+bip_39_word_new_br7: gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill
+bip_39_word_new_br8: gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror
+bip_39_word_new_br9: gospel<br>autumn<br>blouse<br>reopen<br>surface<br>gravity<br>pill<br>mirror<br>ten
+bip_39_word_new_line1: gospel
+bip_39_word_new_line10: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen
+
+  surface
+
+  gravity
+
+  pill
+
+  mirror
+
+  ten
+
+  unfair'
+bip_39_word_new_line11: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen
+
+  surface
+
+  gravity
+
+  pill
+
+  mirror
+
+  ten
+
+  unfair
+
+  solve'
+bip_39_word_new_line12: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen
+
+  surface
+
+  gravity
+
+  pill
+
+  mirror
+
+  ten
+
+  unfair
+
+  solve
+
+  agree'
+bip_39_word_new_line2: 'gospel
+
+  autumn'
+bip_39_word_new_line3: 'gospel
+
+  autumn
+
+  blouse'
+bip_39_word_new_line4: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen'
+bip_39_word_new_line5: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen
+
+  surface'
+bip_39_word_new_line6: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen
+
+  surface
+
+  gravity'
+bip_39_word_new_line7: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen
+
+  surface
+
+  gravity
+
+  pill'
+bip_39_word_new_line8: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen
+
+  surface
+
+  gravity
+
+  pill
+
+  mirror'
+bip_39_word_new_line9: 'gospel
+
+  autumn
+
+  blouse
+
+  reopen
+
+  surface
+
+  gravity
+
+  pill
+
+  mirror
+
+  ten'
+bip_39_word_space_0:
+- gospel
+- autumn
+- blouse
+- reopen
+- surface
+- gravity
+- pill
+- mirror
+- ten
+- unfair
+- solve
+- agree
+bip_39_word_space_1: gospel
+bip_39_word_space_10: gospel autumn blouse reopen surface gravity pill mirror ten
+  unfair
+bip_39_word_space_11: gospel autumn blouse reopen surface gravity pill mirror ten
+  unfair solve
+bip_39_word_space_12: gospel autumn blouse reopen surface gravity pill mirror ten
+  unfair solve agree
+bip_39_word_space_2: gospel autumn
+bip_39_word_space_3: gospel autumn blouse
+bip_39_word_space_4: gospel autumn blouse reopen
+bip_39_word_space_5: gospel autumn blouse reopen surface
+bip_39_word_space_6: gospel autumn blouse reopen surface gravity
+bip_39_word_space_7: gospel autumn blouse reopen surface gravity pill
+bip_39_word_space_8: gospel autumn blouse reopen surface gravity pill mirror
+bip_39_word_space_9: gospel autumn blouse reopen surface gravity pill mirror ten
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

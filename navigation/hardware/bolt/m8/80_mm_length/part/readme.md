@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: patch tonight
+  * bip 39 word 3: patch tonight autumn
+  * bip 39 word: patch tonight autumn curious float hidden must beyond tribe warrior sun address
 
 ### other_codes
 * short_code: b8m80
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | patch |  
+| bip_39_word_new_br10 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden<br>must<br>beyond<br>tribe<br>warrior |  
+| bip_39_word_new_br11 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden<br>must<br>beyond<br>tribe<br>warrior<br>sun |  
+| bip_39_word_new_br12 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden<br>must<br>beyond<br>tribe<br>warrior<br>sun<br>address |  
+| bip_39_word_new_br2 | patch<br>tonight |  
+| bip_39_word_new_br3 | patch<br>tonight<br>autumn |  
+| bip_39_word_new_br4 | patch<br>tonight<br>autumn<br>curious |  
+| bip_39_word_new_br5 | patch<br>tonight<br>autumn<br>curious<br>float |  
+| bip_39_word_new_br6 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden |  
+| bip_39_word_new_br7 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden<br>must |  
+| bip_39_word_new_br8 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden<br>must<br>beyond |  
+| bip_39_word_new_br9 | patch<br>tonight<br>autumn<br>curious<br>float<br>hidden<br>must<br>beyond<br>tribe |  
+| bip_39_word_new_line1 | patch |  
+| bip_39_word_new_line10 | patch
+tonight
+autumn
+curious
+float
+hidden
+must
+beyond
+tribe
+warrior |  
+| bip_39_word_new_line11 | patch
+tonight
+autumn
+curious
+float
+hidden
+must
+beyond
+tribe
+warrior
+sun |  
+| bip_39_word_new_line12 | patch
+tonight
+autumn
+curious
+float
+hidden
+must
+beyond
+tribe
+warrior
+sun
+address |  
+| bip_39_word_new_line2 | patch
+tonight |  
+| bip_39_word_new_line3 | patch
+tonight
+autumn |  
+| bip_39_word_new_line4 | patch
+tonight
+autumn
+curious |  
+| bip_39_word_new_line5 | patch
+tonight
+autumn
+curious
+float |  
+| bip_39_word_new_line6 | patch
+tonight
+autumn
+curious
+float
+hidden |  
+| bip_39_word_new_line7 | patch
+tonight
+autumn
+curious
+float
+hidden
+must |  
+| bip_39_word_new_line8 | patch
+tonight
+autumn
+curious
+float
+hidden
+must
+beyond |  
+| bip_39_word_new_line9 | patch
+tonight
+autumn
+curious
+float
+hidden
+must
+beyond
+tribe |  
+| bip_39_word_space_0 | ['patch', 'tonight', 'autumn', 'curious', 'float', 'hidden', 'must', 'beyond', 'tribe', 'warrior', 'sun', 'address'] |  
+| bip_39_word_space_1 | patch |  
+| bip_39_word_space_10 | patch tonight autumn curious float hidden must beyond tribe warrior |  
+| bip_39_word_space_11 | patch tonight autumn curious float hidden must beyond tribe warrior sun |  
+| bip_39_word_space_12 | patch tonight autumn curious float hidden must beyond tribe warrior sun address |  
+| bip_39_word_space_2 | patch tonight |  
+| bip_39_word_space_3 | patch tonight autumn |  
+| bip_39_word_space_4 | patch tonight autumn curious |  
+| bip_39_word_space_5 | patch tonight autumn curious float |  
+| bip_39_word_space_6 | patch tonight autumn curious float hidden |  
+| bip_39_word_space_7 | patch tonight autumn curious float hidden must |  
+| bip_39_word_space_8 | patch tonight autumn curious float hidden must beyond |  
+| bip_39_word_space_9 | patch tonight autumn curious float hidden must beyond tribe |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: theme
+bip_39_word_new_br10: theme<br>home<br>enter<br>guide<br>admit<br>resource<br>side<br>roof<br>delay<br>parent
+bip_39_word_new_br11: theme<br>home<br>enter<br>guide<br>admit<br>resource<br>side<br>roof<br>delay<br>parent<br>pigeon
+bip_39_word_new_br12: theme<br>home<br>enter<br>guide<br>admit<br>resource<br>side<br>roof<br>delay<br>parent<br>pigeon<br>accident
+bip_39_word_new_br2: theme<br>home
+bip_39_word_new_br3: theme<br>home<br>enter
+bip_39_word_new_br4: theme<br>home<br>enter<br>guide
+bip_39_word_new_br5: theme<br>home<br>enter<br>guide<br>admit
+bip_39_word_new_br6: theme<br>home<br>enter<br>guide<br>admit<br>resource
+bip_39_word_new_br7: theme<br>home<br>enter<br>guide<br>admit<br>resource<br>side
+bip_39_word_new_br8: theme<br>home<br>enter<br>guide<br>admit<br>resource<br>side<br>roof
+bip_39_word_new_br9: theme<br>home<br>enter<br>guide<br>admit<br>resource<br>side<br>roof<br>delay
+bip_39_word_new_line1: theme
+bip_39_word_new_line10: 'theme
+
+  home
+
+  enter
+
+  guide
+
+  admit
+
+  resource
+
+  side
+
+  roof
+
+  delay
+
+  parent'
+bip_39_word_new_line11: 'theme
+
+  home
+
+  enter
+
+  guide
+
+  admit
+
+  resource
+
+  side
+
+  roof
+
+  delay
+
+  parent
+
+  pigeon'
+bip_39_word_new_line12: 'theme
+
+  home
+
+  enter
+
+  guide
+
+  admit
+
+  resource
+
+  side
+
+  roof
+
+  delay
+
+  parent
+
+  pigeon
+
+  accident'
+bip_39_word_new_line2: 'theme
+
+  home'
+bip_39_word_new_line3: 'theme
+
+  home
+
+  enter'
+bip_39_word_new_line4: 'theme
+
+  home
+
+  enter
+
+  guide'
+bip_39_word_new_line5: 'theme
+
+  home
+
+  enter
+
+  guide
+
+  admit'
+bip_39_word_new_line6: 'theme
+
+  home
+
+  enter
+
+  guide
+
+  admit
+
+  resource'
+bip_39_word_new_line7: 'theme
+
+  home
+
+  enter
+
+  guide
+
+  admit
+
+  resource
+
+  side'
+bip_39_word_new_line8: 'theme
+
+  home
+
+  enter
+
+  guide
+
+  admit
+
+  resource
+
+  side
+
+  roof'
+bip_39_word_new_line9: 'theme
+
+  home
+
+  enter
+
+  guide
+
+  admit
+
+  resource
+
+  side
+
+  roof
+
+  delay'
+bip_39_word_space_0:
+- theme
+- home
+- enter
+- guide
+- admit
+- resource
+- side
+- roof
+- delay
+- parent
+- pigeon
+- accident
+bip_39_word_space_1: theme
+bip_39_word_space_10: theme home enter guide admit resource side roof delay parent
+bip_39_word_space_11: theme home enter guide admit resource side roof delay parent
+  pigeon
+bip_39_word_space_12: theme home enter guide admit resource side roof delay parent
+  pigeon accident
+bip_39_word_space_2: theme home
+bip_39_word_space_3: theme home enter
+bip_39_word_space_4: theme home enter guide
+bip_39_word_space_5: theme home enter guide admit
+bip_39_word_space_6: theme home enter guide admit resource
+bip_39_word_space_7: theme home enter guide admit resource side
+bip_39_word_space_8: theme home enter guide admit resource side roof
+bip_39_word_space_9: theme home enter guide admit resource side roof delay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

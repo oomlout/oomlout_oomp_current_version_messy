@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: until such
+  * bip 39 word 3: until such belt
+  * bip 39 word: until such belt leaf enact curtain must cup riot tumble stem animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | until |  
+| bip_39_word_new_br10 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble |  
+| bip_39_word_new_br11 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble<br>stem |  
+| bip_39_word_new_br12 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot<br>tumble<br>stem<br>animal |  
+| bip_39_word_new_br2 | until<br>such |  
+| bip_39_word_new_br3 | until<br>such<br>belt |  
+| bip_39_word_new_br4 | until<br>such<br>belt<br>leaf |  
+| bip_39_word_new_br5 | until<br>such<br>belt<br>leaf<br>enact |  
+| bip_39_word_new_br6 | until<br>such<br>belt<br>leaf<br>enact<br>curtain |  
+| bip_39_word_new_br7 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must |  
+| bip_39_word_new_br8 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup |  
+| bip_39_word_new_br9 | until<br>such<br>belt<br>leaf<br>enact<br>curtain<br>must<br>cup<br>riot |  
+| bip_39_word_new_line1 | until |  
+| bip_39_word_new_line10 | until
+such
+belt
+leaf
+enact
+curtain
+must
+cup
+riot
+tumble |  
+| bip_39_word_new_line11 | until
+such
+belt
+leaf
+enact
+curtain
+must
+cup
+riot
+tumble
+stem |  
+| bip_39_word_new_line12 | until
+such
+belt
+leaf
+enact
+curtain
+must
+cup
+riot
+tumble
+stem
+animal |  
+| bip_39_word_new_line2 | until
+such |  
+| bip_39_word_new_line3 | until
+such
+belt |  
+| bip_39_word_new_line4 | until
+such
+belt
+leaf |  
+| bip_39_word_new_line5 | until
+such
+belt
+leaf
+enact |  
+| bip_39_word_new_line6 | until
+such
+belt
+leaf
+enact
+curtain |  
+| bip_39_word_new_line7 | until
+such
+belt
+leaf
+enact
+curtain
+must |  
+| bip_39_word_new_line8 | until
+such
+belt
+leaf
+enact
+curtain
+must
+cup |  
+| bip_39_word_new_line9 | until
+such
+belt
+leaf
+enact
+curtain
+must
+cup
+riot |  
+| bip_39_word_space_0 | ['until', 'such', 'belt', 'leaf', 'enact', 'curtain', 'must', 'cup', 'riot', 'tumble', 'stem', 'animal'] |  
+| bip_39_word_space_1 | until |  
+| bip_39_word_space_10 | until such belt leaf enact curtain must cup riot tumble |  
+| bip_39_word_space_11 | until such belt leaf enact curtain must cup riot tumble stem |  
+| bip_39_word_space_12 | until such belt leaf enact curtain must cup riot tumble stem animal |  
+| bip_39_word_space_2 | until such |  
+| bip_39_word_space_3 | until such belt |  
+| bip_39_word_space_4 | until such belt leaf |  
+| bip_39_word_space_5 | until such belt leaf enact |  
+| bip_39_word_space_6 | until such belt leaf enact curtain |  
+| bip_39_word_space_7 | until such belt leaf enact curtain must |  
+| bip_39_word_space_8 | until such belt leaf enact curtain must cup |  
+| bip_39_word_space_9 | until such belt leaf enact curtain must cup riot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

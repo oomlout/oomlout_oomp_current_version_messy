@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cry cover
+  * bip 39 word 3: cry cover assume
+  * bip 39 word: cry cover assume soda random alert song ocean vanish name various arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cry |  
+| bip_39_word_new_br10 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name |  
+| bip_39_word_new_br11 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name<br>various |  
+| bip_39_word_new_br12 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name<br>various<br>arena |  
+| bip_39_word_new_br2 | cry<br>cover |  
+| bip_39_word_new_br3 | cry<br>cover<br>assume |  
+| bip_39_word_new_br4 | cry<br>cover<br>assume<br>soda |  
+| bip_39_word_new_br5 | cry<br>cover<br>assume<br>soda<br>random |  
+| bip_39_word_new_br6 | cry<br>cover<br>assume<br>soda<br>random<br>alert |  
+| bip_39_word_new_br7 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song |  
+| bip_39_word_new_br8 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean |  
+| bip_39_word_new_br9 | cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish |  
+| bip_39_word_new_line1 | cry |  
+| bip_39_word_new_line10 | cry
+cover
+assume
+soda
+random
+alert
+song
+ocean
+vanish
+name |  
+| bip_39_word_new_line11 | cry
+cover
+assume
+soda
+random
+alert
+song
+ocean
+vanish
+name
+various |  
+| bip_39_word_new_line12 | cry
+cover
+assume
+soda
+random
+alert
+song
+ocean
+vanish
+name
+various
+arena |  
+| bip_39_word_new_line2 | cry
+cover |  
+| bip_39_word_new_line3 | cry
+cover
+assume |  
+| bip_39_word_new_line4 | cry
+cover
+assume
+soda |  
+| bip_39_word_new_line5 | cry
+cover
+assume
+soda
+random |  
+| bip_39_word_new_line6 | cry
+cover
+assume
+soda
+random
+alert |  
+| bip_39_word_new_line7 | cry
+cover
+assume
+soda
+random
+alert
+song |  
+| bip_39_word_new_line8 | cry
+cover
+assume
+soda
+random
+alert
+song
+ocean |  
+| bip_39_word_new_line9 | cry
+cover
+assume
+soda
+random
+alert
+song
+ocean
+vanish |  
+| bip_39_word_space_0 | ['cry', 'cover', 'assume', 'soda', 'random', 'alert', 'song', 'ocean', 'vanish', 'name', 'various', 'arena'] |  
+| bip_39_word_space_1 | cry |  
+| bip_39_word_space_10 | cry cover assume soda random alert song ocean vanish name |  
+| bip_39_word_space_11 | cry cover assume soda random alert song ocean vanish name various |  
+| bip_39_word_space_12 | cry cover assume soda random alert song ocean vanish name various arena |  
+| bip_39_word_space_2 | cry cover |  
+| bip_39_word_space_3 | cry cover assume |  
+| bip_39_word_space_4 | cry cover assume soda |  
+| bip_39_word_space_5 | cry cover assume soda random |  
+| bip_39_word_space_6 | cry cover assume soda random alert |  
+| bip_39_word_space_7 | cry cover assume soda random alert song |  
+| bip_39_word_space_8 | cry cover assume soda random alert song ocean |  
+| bip_39_word_space_9 | cry cover assume soda random alert song ocean vanish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

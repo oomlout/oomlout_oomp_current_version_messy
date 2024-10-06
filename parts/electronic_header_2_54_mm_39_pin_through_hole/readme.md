@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: month plug
+  * bip 39 word 3: month plug bracket
+  * bip 39 word: month plug bracket rain gaze idle raise drum latin robust engine address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | month |  
+| bip_39_word_new_br10 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust |  
+| bip_39_word_new_br11 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust<br>engine |  
+| bip_39_word_new_br12 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin<br>robust<br>engine<br>address |  
+| bip_39_word_new_br2 | month<br>plug |  
+| bip_39_word_new_br3 | month<br>plug<br>bracket |  
+| bip_39_word_new_br4 | month<br>plug<br>bracket<br>rain |  
+| bip_39_word_new_br5 | month<br>plug<br>bracket<br>rain<br>gaze |  
+| bip_39_word_new_br6 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle |  
+| bip_39_word_new_br7 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise |  
+| bip_39_word_new_br8 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum |  
+| bip_39_word_new_br9 | month<br>plug<br>bracket<br>rain<br>gaze<br>idle<br>raise<br>drum<br>latin |  
+| bip_39_word_new_line1 | month |  
+| bip_39_word_new_line10 | month
+plug
+bracket
+rain
+gaze
+idle
+raise
+drum
+latin
+robust |  
+| bip_39_word_new_line11 | month
+plug
+bracket
+rain
+gaze
+idle
+raise
+drum
+latin
+robust
+engine |  
+| bip_39_word_new_line12 | month
+plug
+bracket
+rain
+gaze
+idle
+raise
+drum
+latin
+robust
+engine
+address |  
+| bip_39_word_new_line2 | month
+plug |  
+| bip_39_word_new_line3 | month
+plug
+bracket |  
+| bip_39_word_new_line4 | month
+plug
+bracket
+rain |  
+| bip_39_word_new_line5 | month
+plug
+bracket
+rain
+gaze |  
+| bip_39_word_new_line6 | month
+plug
+bracket
+rain
+gaze
+idle |  
+| bip_39_word_new_line7 | month
+plug
+bracket
+rain
+gaze
+idle
+raise |  
+| bip_39_word_new_line8 | month
+plug
+bracket
+rain
+gaze
+idle
+raise
+drum |  
+| bip_39_word_new_line9 | month
+plug
+bracket
+rain
+gaze
+idle
+raise
+drum
+latin |  
+| bip_39_word_space_0 | ['month', 'plug', 'bracket', 'rain', 'gaze', 'idle', 'raise', 'drum', 'latin', 'robust', 'engine', 'address'] |  
+| bip_39_word_space_1 | month |  
+| bip_39_word_space_10 | month plug bracket rain gaze idle raise drum latin robust |  
+| bip_39_word_space_11 | month plug bracket rain gaze idle raise drum latin robust engine |  
+| bip_39_word_space_12 | month plug bracket rain gaze idle raise drum latin robust engine address |  
+| bip_39_word_space_2 | month plug |  
+| bip_39_word_space_3 | month plug bracket |  
+| bip_39_word_space_4 | month plug bracket rain |  
+| bip_39_word_space_5 | month plug bracket rain gaze |  
+| bip_39_word_space_6 | month plug bracket rain gaze idle |  
+| bip_39_word_space_7 | month plug bracket rain gaze idle raise |  
+| bip_39_word_space_8 | month plug bracket rain gaze idle raise drum |  
+| bip_39_word_space_9 | month plug bracket rain gaze idle raise drum latin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

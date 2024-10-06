@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hungry smoke
+  * bip 39 word 3: hungry smoke where
+  * bip 39 word: hungry smoke where culture film laugh shove domain gain captain evil ancient
 
 ### other_codes
 * short_code: br6310
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hungry |  
+| bip_39_word_new_br10 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh<br>shove<br>domain<br>gain<br>captain |  
+| bip_39_word_new_br11 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh<br>shove<br>domain<br>gain<br>captain<br>evil |  
+| bip_39_word_new_br12 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh<br>shove<br>domain<br>gain<br>captain<br>evil<br>ancient |  
+| bip_39_word_new_br2 | hungry<br>smoke |  
+| bip_39_word_new_br3 | hungry<br>smoke<br>where |  
+| bip_39_word_new_br4 | hungry<br>smoke<br>where<br>culture |  
+| bip_39_word_new_br5 | hungry<br>smoke<br>where<br>culture<br>film |  
+| bip_39_word_new_br6 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh |  
+| bip_39_word_new_br7 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh<br>shove |  
+| bip_39_word_new_br8 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh<br>shove<br>domain |  
+| bip_39_word_new_br9 | hungry<br>smoke<br>where<br>culture<br>film<br>laugh<br>shove<br>domain<br>gain |  
+| bip_39_word_new_line1 | hungry |  
+| bip_39_word_new_line10 | hungry
+smoke
+where
+culture
+film
+laugh
+shove
+domain
+gain
+captain |  
+| bip_39_word_new_line11 | hungry
+smoke
+where
+culture
+film
+laugh
+shove
+domain
+gain
+captain
+evil |  
+| bip_39_word_new_line12 | hungry
+smoke
+where
+culture
+film
+laugh
+shove
+domain
+gain
+captain
+evil
+ancient |  
+| bip_39_word_new_line2 | hungry
+smoke |  
+| bip_39_word_new_line3 | hungry
+smoke
+where |  
+| bip_39_word_new_line4 | hungry
+smoke
+where
+culture |  
+| bip_39_word_new_line5 | hungry
+smoke
+where
+culture
+film |  
+| bip_39_word_new_line6 | hungry
+smoke
+where
+culture
+film
+laugh |  
+| bip_39_word_new_line7 | hungry
+smoke
+where
+culture
+film
+laugh
+shove |  
+| bip_39_word_new_line8 | hungry
+smoke
+where
+culture
+film
+laugh
+shove
+domain |  
+| bip_39_word_new_line9 | hungry
+smoke
+where
+culture
+film
+laugh
+shove
+domain
+gain |  
+| bip_39_word_space_0 | ['hungry', 'smoke', 'where', 'culture', 'film', 'laugh', 'shove', 'domain', 'gain', 'captain', 'evil', 'ancient'] |  
+| bip_39_word_space_1 | hungry |  
+| bip_39_word_space_10 | hungry smoke where culture film laugh shove domain gain captain |  
+| bip_39_word_space_11 | hungry smoke where culture film laugh shove domain gain captain evil |  
+| bip_39_word_space_12 | hungry smoke where culture film laugh shove domain gain captain evil ancient |  
+| bip_39_word_space_2 | hungry smoke |  
+| bip_39_word_space_3 | hungry smoke where |  
+| bip_39_word_space_4 | hungry smoke where culture |  
+| bip_39_word_space_5 | hungry smoke where culture film |  
+| bip_39_word_space_6 | hungry smoke where culture film laugh |  
+| bip_39_word_space_7 | hungry smoke where culture film laugh shove |  
+| bip_39_word_space_8 | hungry smoke where culture film laugh shove domain |  
+| bip_39_word_space_9 | hungry smoke where culture film laugh shove domain gain |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

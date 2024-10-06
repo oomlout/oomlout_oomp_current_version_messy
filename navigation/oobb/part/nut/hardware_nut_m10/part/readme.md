@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: beef screen
+  * bip 39 word 3: beef screen nurse
+  * bip 39 word: beef screen nurse travel diesel office oppose tongue weird mobile visa asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | beef |  
+| bip_39_word_new_br10 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird<br>mobile |  
+| bip_39_word_new_br11 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird<br>mobile<br>visa |  
+| bip_39_word_new_br12 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird<br>mobile<br>visa<br>asset |  
+| bip_39_word_new_br2 | beef<br>screen |  
+| bip_39_word_new_br3 | beef<br>screen<br>nurse |  
+| bip_39_word_new_br4 | beef<br>screen<br>nurse<br>travel |  
+| bip_39_word_new_br5 | beef<br>screen<br>nurse<br>travel<br>diesel |  
+| bip_39_word_new_br6 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office |  
+| bip_39_word_new_br7 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose |  
+| bip_39_word_new_br8 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue |  
+| bip_39_word_new_br9 | beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird |  
+| bip_39_word_new_line1 | beef |  
+| bip_39_word_new_line10 | beef
+screen
+nurse
+travel
+diesel
+office
+oppose
+tongue
+weird
+mobile |  
+| bip_39_word_new_line11 | beef
+screen
+nurse
+travel
+diesel
+office
+oppose
+tongue
+weird
+mobile
+visa |  
+| bip_39_word_new_line12 | beef
+screen
+nurse
+travel
+diesel
+office
+oppose
+tongue
+weird
+mobile
+visa
+asset |  
+| bip_39_word_new_line2 | beef
+screen |  
+| bip_39_word_new_line3 | beef
+screen
+nurse |  
+| bip_39_word_new_line4 | beef
+screen
+nurse
+travel |  
+| bip_39_word_new_line5 | beef
+screen
+nurse
+travel
+diesel |  
+| bip_39_word_new_line6 | beef
+screen
+nurse
+travel
+diesel
+office |  
+| bip_39_word_new_line7 | beef
+screen
+nurse
+travel
+diesel
+office
+oppose |  
+| bip_39_word_new_line8 | beef
+screen
+nurse
+travel
+diesel
+office
+oppose
+tongue |  
+| bip_39_word_new_line9 | beef
+screen
+nurse
+travel
+diesel
+office
+oppose
+tongue
+weird |  
+| bip_39_word_space_0 | ['beef', 'screen', 'nurse', 'travel', 'diesel', 'office', 'oppose', 'tongue', 'weird', 'mobile', 'visa', 'asset'] |  
+| bip_39_word_space_1 | beef |  
+| bip_39_word_space_10 | beef screen nurse travel diesel office oppose tongue weird mobile |  
+| bip_39_word_space_11 | beef screen nurse travel diesel office oppose tongue weird mobile visa |  
+| bip_39_word_space_12 | beef screen nurse travel diesel office oppose tongue weird mobile visa asset |  
+| bip_39_word_space_2 | beef screen |  
+| bip_39_word_space_3 | beef screen nurse |  
+| bip_39_word_space_4 | beef screen nurse travel |  
+| bip_39_word_space_5 | beef screen nurse travel diesel |  
+| bip_39_word_space_6 | beef screen nurse travel diesel office |  
+| bip_39_word_space_7 | beef screen nurse travel diesel office oppose |  
+| bip_39_word_space_8 | beef screen nurse travel diesel office oppose tongue |  
+| bip_39_word_space_9 | beef screen nurse travel diesel office oppose tongue weird |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

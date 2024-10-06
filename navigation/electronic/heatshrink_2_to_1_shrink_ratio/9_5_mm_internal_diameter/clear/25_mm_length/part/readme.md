@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lumber shadow
+  * bip 39 word 3: lumber shadow island
+  * bip 39 word: lumber shadow island shove spare talk there silly expire base armor address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lumber |  
+| bip_39_word_new_br10 | lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly<br>expire<br>base |  
+| bip_39_word_new_br11 | lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly<br>expire<br>base<br>armor |  
+| bip_39_word_new_br12 | lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly<br>expire<br>base<br>armor<br>address |  
+| bip_39_word_new_br2 | lumber<br>shadow |  
+| bip_39_word_new_br3 | lumber<br>shadow<br>island |  
+| bip_39_word_new_br4 | lumber<br>shadow<br>island<br>shove |  
+| bip_39_word_new_br5 | lumber<br>shadow<br>island<br>shove<br>spare |  
+| bip_39_word_new_br6 | lumber<br>shadow<br>island<br>shove<br>spare<br>talk |  
+| bip_39_word_new_br7 | lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there |  
+| bip_39_word_new_br8 | lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly |  
+| bip_39_word_new_br9 | lumber<br>shadow<br>island<br>shove<br>spare<br>talk<br>there<br>silly<br>expire |  
+| bip_39_word_new_line1 | lumber |  
+| bip_39_word_new_line10 | lumber
+shadow
+island
+shove
+spare
+talk
+there
+silly
+expire
+base |  
+| bip_39_word_new_line11 | lumber
+shadow
+island
+shove
+spare
+talk
+there
+silly
+expire
+base
+armor |  
+| bip_39_word_new_line12 | lumber
+shadow
+island
+shove
+spare
+talk
+there
+silly
+expire
+base
+armor
+address |  
+| bip_39_word_new_line2 | lumber
+shadow |  
+| bip_39_word_new_line3 | lumber
+shadow
+island |  
+| bip_39_word_new_line4 | lumber
+shadow
+island
+shove |  
+| bip_39_word_new_line5 | lumber
+shadow
+island
+shove
+spare |  
+| bip_39_word_new_line6 | lumber
+shadow
+island
+shove
+spare
+talk |  
+| bip_39_word_new_line7 | lumber
+shadow
+island
+shove
+spare
+talk
+there |  
+| bip_39_word_new_line8 | lumber
+shadow
+island
+shove
+spare
+talk
+there
+silly |  
+| bip_39_word_new_line9 | lumber
+shadow
+island
+shove
+spare
+talk
+there
+silly
+expire |  
+| bip_39_word_space_0 | ['lumber', 'shadow', 'island', 'shove', 'spare', 'talk', 'there', 'silly', 'expire', 'base', 'armor', 'address'] |  
+| bip_39_word_space_1 | lumber |  
+| bip_39_word_space_10 | lumber shadow island shove spare talk there silly expire base |  
+| bip_39_word_space_11 | lumber shadow island shove spare talk there silly expire base armor |  
+| bip_39_word_space_12 | lumber shadow island shove spare talk there silly expire base armor address |  
+| bip_39_word_space_2 | lumber shadow |  
+| bip_39_word_space_3 | lumber shadow island |  
+| bip_39_word_space_4 | lumber shadow island shove |  
+| bip_39_word_space_5 | lumber shadow island shove spare |  
+| bip_39_word_space_6 | lumber shadow island shove spare talk |  
+| bip_39_word_space_7 | lumber shadow island shove spare talk there |  
+| bip_39_word_space_8 | lumber shadow island shove spare talk there silly |  
+| bip_39_word_space_9 | lumber shadow island shove spare talk there silly expire |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

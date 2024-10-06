@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lemon fiscal
+  * bip 39 word 3: lemon fiscal modify
+  * bip 39 word: lemon fiscal modify own tide ethics coil toy snake smart indoor account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lemon |  
+| bip_39_word_new_br10 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics<br>coil<br>toy<br>snake<br>smart |  
+| bip_39_word_new_br11 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics<br>coil<br>toy<br>snake<br>smart<br>indoor |  
+| bip_39_word_new_br12 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics<br>coil<br>toy<br>snake<br>smart<br>indoor<br>account |  
+| bip_39_word_new_br2 | lemon<br>fiscal |  
+| bip_39_word_new_br3 | lemon<br>fiscal<br>modify |  
+| bip_39_word_new_br4 | lemon<br>fiscal<br>modify<br>own |  
+| bip_39_word_new_br5 | lemon<br>fiscal<br>modify<br>own<br>tide |  
+| bip_39_word_new_br6 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics |  
+| bip_39_word_new_br7 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics<br>coil |  
+| bip_39_word_new_br8 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics<br>coil<br>toy |  
+| bip_39_word_new_br9 | lemon<br>fiscal<br>modify<br>own<br>tide<br>ethics<br>coil<br>toy<br>snake |  
+| bip_39_word_new_line1 | lemon |  
+| bip_39_word_new_line10 | lemon
+fiscal
+modify
+own
+tide
+ethics
+coil
+toy
+snake
+smart |  
+| bip_39_word_new_line11 | lemon
+fiscal
+modify
+own
+tide
+ethics
+coil
+toy
+snake
+smart
+indoor |  
+| bip_39_word_new_line12 | lemon
+fiscal
+modify
+own
+tide
+ethics
+coil
+toy
+snake
+smart
+indoor
+account |  
+| bip_39_word_new_line2 | lemon
+fiscal |  
+| bip_39_word_new_line3 | lemon
+fiscal
+modify |  
+| bip_39_word_new_line4 | lemon
+fiscal
+modify
+own |  
+| bip_39_word_new_line5 | lemon
+fiscal
+modify
+own
+tide |  
+| bip_39_word_new_line6 | lemon
+fiscal
+modify
+own
+tide
+ethics |  
+| bip_39_word_new_line7 | lemon
+fiscal
+modify
+own
+tide
+ethics
+coil |  
+| bip_39_word_new_line8 | lemon
+fiscal
+modify
+own
+tide
+ethics
+coil
+toy |  
+| bip_39_word_new_line9 | lemon
+fiscal
+modify
+own
+tide
+ethics
+coil
+toy
+snake |  
+| bip_39_word_space_0 | ['lemon', 'fiscal', 'modify', 'own', 'tide', 'ethics', 'coil', 'toy', 'snake', 'smart', 'indoor', 'account'] |  
+| bip_39_word_space_1 | lemon |  
+| bip_39_word_space_10 | lemon fiscal modify own tide ethics coil toy snake smart |  
+| bip_39_word_space_11 | lemon fiscal modify own tide ethics coil toy snake smart indoor |  
+| bip_39_word_space_12 | lemon fiscal modify own tide ethics coil toy snake smart indoor account |  
+| bip_39_word_space_2 | lemon fiscal |  
+| bip_39_word_space_3 | lemon fiscal modify |  
+| bip_39_word_space_4 | lemon fiscal modify own |  
+| bip_39_word_space_5 | lemon fiscal modify own tide |  
+| bip_39_word_space_6 | lemon fiscal modify own tide ethics |  
+| bip_39_word_space_7 | lemon fiscal modify own tide ethics coil |  
+| bip_39_word_space_8 | lemon fiscal modify own tide ethics coil toy |  
+| bip_39_word_space_9 | lemon fiscal modify own tide ethics coil toy snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: robot pitch
+  * bip 39 word 3: robot pitch review
+  * bip 39 word: robot pitch review prepare denial infant machine mandate ankle fetch flame amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | robot |  
+| bip_39_word_new_br10 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant<br>machine<br>mandate<br>ankle<br>fetch |  
+| bip_39_word_new_br11 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant<br>machine<br>mandate<br>ankle<br>fetch<br>flame |  
+| bip_39_word_new_br12 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant<br>machine<br>mandate<br>ankle<br>fetch<br>flame<br>amazing |  
+| bip_39_word_new_br2 | robot<br>pitch |  
+| bip_39_word_new_br3 | robot<br>pitch<br>review |  
+| bip_39_word_new_br4 | robot<br>pitch<br>review<br>prepare |  
+| bip_39_word_new_br5 | robot<br>pitch<br>review<br>prepare<br>denial |  
+| bip_39_word_new_br6 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant |  
+| bip_39_word_new_br7 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant<br>machine |  
+| bip_39_word_new_br8 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant<br>machine<br>mandate |  
+| bip_39_word_new_br9 | robot<br>pitch<br>review<br>prepare<br>denial<br>infant<br>machine<br>mandate<br>ankle |  
+| bip_39_word_new_line1 | robot |  
+| bip_39_word_new_line10 | robot
+pitch
+review
+prepare
+denial
+infant
+machine
+mandate
+ankle
+fetch |  
+| bip_39_word_new_line11 | robot
+pitch
+review
+prepare
+denial
+infant
+machine
+mandate
+ankle
+fetch
+flame |  
+| bip_39_word_new_line12 | robot
+pitch
+review
+prepare
+denial
+infant
+machine
+mandate
+ankle
+fetch
+flame
+amazing |  
+| bip_39_word_new_line2 | robot
+pitch |  
+| bip_39_word_new_line3 | robot
+pitch
+review |  
+| bip_39_word_new_line4 | robot
+pitch
+review
+prepare |  
+| bip_39_word_new_line5 | robot
+pitch
+review
+prepare
+denial |  
+| bip_39_word_new_line6 | robot
+pitch
+review
+prepare
+denial
+infant |  
+| bip_39_word_new_line7 | robot
+pitch
+review
+prepare
+denial
+infant
+machine |  
+| bip_39_word_new_line8 | robot
+pitch
+review
+prepare
+denial
+infant
+machine
+mandate |  
+| bip_39_word_new_line9 | robot
+pitch
+review
+prepare
+denial
+infant
+machine
+mandate
+ankle |  
+| bip_39_word_space_0 | ['robot', 'pitch', 'review', 'prepare', 'denial', 'infant', 'machine', 'mandate', 'ankle', 'fetch', 'flame', 'amazing'] |  
+| bip_39_word_space_1 | robot |  
+| bip_39_word_space_10 | robot pitch review prepare denial infant machine mandate ankle fetch |  
+| bip_39_word_space_11 | robot pitch review prepare denial infant machine mandate ankle fetch flame |  
+| bip_39_word_space_12 | robot pitch review prepare denial infant machine mandate ankle fetch flame amazing |  
+| bip_39_word_space_2 | robot pitch |  
+| bip_39_word_space_3 | robot pitch review |  
+| bip_39_word_space_4 | robot pitch review prepare |  
+| bip_39_word_space_5 | robot pitch review prepare denial |  
+| bip_39_word_space_6 | robot pitch review prepare denial infant |  
+| bip_39_word_space_7 | robot pitch review prepare denial infant machine |  
+| bip_39_word_space_8 | robot pitch review prepare denial infant machine mandate |  
+| bip_39_word_space_9 | robot pitch review prepare denial infant machine mandate ankle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

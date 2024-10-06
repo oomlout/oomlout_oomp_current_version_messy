@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: possible vote
+  * bip 39 word 3: possible vote cross
+  * bip 39 word: possible vote cross seek shock furnace copper hunt update drink obey around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | possible |  
+| bip_39_word_new_br10 | possible<br>vote<br>cross<br>seek<br>shock<br>furnace<br>copper<br>hunt<br>update<br>drink |  
+| bip_39_word_new_br11 | possible<br>vote<br>cross<br>seek<br>shock<br>furnace<br>copper<br>hunt<br>update<br>drink<br>obey |  
+| bip_39_word_new_br12 | possible<br>vote<br>cross<br>seek<br>shock<br>furnace<br>copper<br>hunt<br>update<br>drink<br>obey<br>around |  
+| bip_39_word_new_br2 | possible<br>vote |  
+| bip_39_word_new_br3 | possible<br>vote<br>cross |  
+| bip_39_word_new_br4 | possible<br>vote<br>cross<br>seek |  
+| bip_39_word_new_br5 | possible<br>vote<br>cross<br>seek<br>shock |  
+| bip_39_word_new_br6 | possible<br>vote<br>cross<br>seek<br>shock<br>furnace |  
+| bip_39_word_new_br7 | possible<br>vote<br>cross<br>seek<br>shock<br>furnace<br>copper |  
+| bip_39_word_new_br8 | possible<br>vote<br>cross<br>seek<br>shock<br>furnace<br>copper<br>hunt |  
+| bip_39_word_new_br9 | possible<br>vote<br>cross<br>seek<br>shock<br>furnace<br>copper<br>hunt<br>update |  
+| bip_39_word_new_line1 | possible |  
+| bip_39_word_new_line10 | possible
+vote
+cross
+seek
+shock
+furnace
+copper
+hunt
+update
+drink |  
+| bip_39_word_new_line11 | possible
+vote
+cross
+seek
+shock
+furnace
+copper
+hunt
+update
+drink
+obey |  
+| bip_39_word_new_line12 | possible
+vote
+cross
+seek
+shock
+furnace
+copper
+hunt
+update
+drink
+obey
+around |  
+| bip_39_word_new_line2 | possible
+vote |  
+| bip_39_word_new_line3 | possible
+vote
+cross |  
+| bip_39_word_new_line4 | possible
+vote
+cross
+seek |  
+| bip_39_word_new_line5 | possible
+vote
+cross
+seek
+shock |  
+| bip_39_word_new_line6 | possible
+vote
+cross
+seek
+shock
+furnace |  
+| bip_39_word_new_line7 | possible
+vote
+cross
+seek
+shock
+furnace
+copper |  
+| bip_39_word_new_line8 | possible
+vote
+cross
+seek
+shock
+furnace
+copper
+hunt |  
+| bip_39_word_new_line9 | possible
+vote
+cross
+seek
+shock
+furnace
+copper
+hunt
+update |  
+| bip_39_word_space_0 | ['possible', 'vote', 'cross', 'seek', 'shock', 'furnace', 'copper', 'hunt', 'update', 'drink', 'obey', 'around'] |  
+| bip_39_word_space_1 | possible |  
+| bip_39_word_space_10 | possible vote cross seek shock furnace copper hunt update drink |  
+| bip_39_word_space_11 | possible vote cross seek shock furnace copper hunt update drink obey |  
+| bip_39_word_space_12 | possible vote cross seek shock furnace copper hunt update drink obey around |  
+| bip_39_word_space_2 | possible vote |  
+| bip_39_word_space_3 | possible vote cross |  
+| bip_39_word_space_4 | possible vote cross seek |  
+| bip_39_word_space_5 | possible vote cross seek shock |  
+| bip_39_word_space_6 | possible vote cross seek shock furnace |  
+| bip_39_word_space_7 | possible vote cross seek shock furnace copper |  
+| bip_39_word_space_8 | possible vote cross seek shock furnace copper hunt |  
+| bip_39_word_space_9 | possible vote cross seek shock furnace copper hunt update |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

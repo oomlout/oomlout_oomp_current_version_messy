@@ -1,3 +1,187 @@
+bip_39_word_new_br1: gift
+bip_39_word_new_br10: gift<br>illegal<br>column<br>thunder<br>tube<br>cliff<br>develop<br>fruit<br>typical<br>mirror
+bip_39_word_new_br11: gift<br>illegal<br>column<br>thunder<br>tube<br>cliff<br>develop<br>fruit<br>typical<br>mirror<br>mule
+bip_39_word_new_br12: gift<br>illegal<br>column<br>thunder<br>tube<br>cliff<br>develop<br>fruit<br>typical<br>mirror<br>mule<br>abstract
+bip_39_word_new_br2: gift<br>illegal
+bip_39_word_new_br3: gift<br>illegal<br>column
+bip_39_word_new_br4: gift<br>illegal<br>column<br>thunder
+bip_39_word_new_br5: gift<br>illegal<br>column<br>thunder<br>tube
+bip_39_word_new_br6: gift<br>illegal<br>column<br>thunder<br>tube<br>cliff
+bip_39_word_new_br7: gift<br>illegal<br>column<br>thunder<br>tube<br>cliff<br>develop
+bip_39_word_new_br8: gift<br>illegal<br>column<br>thunder<br>tube<br>cliff<br>develop<br>fruit
+bip_39_word_new_br9: gift<br>illegal<br>column<br>thunder<br>tube<br>cliff<br>develop<br>fruit<br>typical
+bip_39_word_new_line1: gift
+bip_39_word_new_line10: 'gift
+
+  illegal
+
+  column
+
+  thunder
+
+  tube
+
+  cliff
+
+  develop
+
+  fruit
+
+  typical
+
+  mirror'
+bip_39_word_new_line11: 'gift
+
+  illegal
+
+  column
+
+  thunder
+
+  tube
+
+  cliff
+
+  develop
+
+  fruit
+
+  typical
+
+  mirror
+
+  mule'
+bip_39_word_new_line12: 'gift
+
+  illegal
+
+  column
+
+  thunder
+
+  tube
+
+  cliff
+
+  develop
+
+  fruit
+
+  typical
+
+  mirror
+
+  mule
+
+  abstract'
+bip_39_word_new_line2: 'gift
+
+  illegal'
+bip_39_word_new_line3: 'gift
+
+  illegal
+
+  column'
+bip_39_word_new_line4: 'gift
+
+  illegal
+
+  column
+
+  thunder'
+bip_39_word_new_line5: 'gift
+
+  illegal
+
+  column
+
+  thunder
+
+  tube'
+bip_39_word_new_line6: 'gift
+
+  illegal
+
+  column
+
+  thunder
+
+  tube
+
+  cliff'
+bip_39_word_new_line7: 'gift
+
+  illegal
+
+  column
+
+  thunder
+
+  tube
+
+  cliff
+
+  develop'
+bip_39_word_new_line8: 'gift
+
+  illegal
+
+  column
+
+  thunder
+
+  tube
+
+  cliff
+
+  develop
+
+  fruit'
+bip_39_word_new_line9: 'gift
+
+  illegal
+
+  column
+
+  thunder
+
+  tube
+
+  cliff
+
+  develop
+
+  fruit
+
+  typical'
+bip_39_word_space_0:
+- gift
+- illegal
+- column
+- thunder
+- tube
+- cliff
+- develop
+- fruit
+- typical
+- mirror
+- mule
+- abstract
+bip_39_word_space_1: gift
+bip_39_word_space_10: gift illegal column thunder tube cliff develop fruit typical
+  mirror
+bip_39_word_space_11: gift illegal column thunder tube cliff develop fruit typical
+  mirror mule
+bip_39_word_space_12: gift illegal column thunder tube cliff develop fruit typical
+  mirror mule abstract
+bip_39_word_space_2: gift illegal
+bip_39_word_space_3: gift illegal column
+bip_39_word_space_4: gift illegal column thunder
+bip_39_word_space_5: gift illegal column thunder tube
+bip_39_word_space_6: gift illegal column thunder tube cliff
+bip_39_word_space_7: gift illegal column thunder tube cliff develop
+bip_39_word_space_8: gift illegal column thunder tube cliff develop fruit
+bip_39_word_space_9: gift illegal column thunder tube cliff develop fruit typical
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

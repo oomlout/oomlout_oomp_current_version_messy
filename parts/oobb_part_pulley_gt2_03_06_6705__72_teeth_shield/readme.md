@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fiction poet
+  * bip 39 word 3: fiction poet salt
+  * bip 39 word: fiction poet salt old volume oil unhappy foster hover size pear angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fiction |  
+| bip_39_word_new_br10 | fiction<br>poet<br>salt<br>old<br>volume<br>oil<br>unhappy<br>foster<br>hover<br>size |  
+| bip_39_word_new_br11 | fiction<br>poet<br>salt<br>old<br>volume<br>oil<br>unhappy<br>foster<br>hover<br>size<br>pear |  
+| bip_39_word_new_br12 | fiction<br>poet<br>salt<br>old<br>volume<br>oil<br>unhappy<br>foster<br>hover<br>size<br>pear<br>angle |  
+| bip_39_word_new_br2 | fiction<br>poet |  
+| bip_39_word_new_br3 | fiction<br>poet<br>salt |  
+| bip_39_word_new_br4 | fiction<br>poet<br>salt<br>old |  
+| bip_39_word_new_br5 | fiction<br>poet<br>salt<br>old<br>volume |  
+| bip_39_word_new_br6 | fiction<br>poet<br>salt<br>old<br>volume<br>oil |  
+| bip_39_word_new_br7 | fiction<br>poet<br>salt<br>old<br>volume<br>oil<br>unhappy |  
+| bip_39_word_new_br8 | fiction<br>poet<br>salt<br>old<br>volume<br>oil<br>unhappy<br>foster |  
+| bip_39_word_new_br9 | fiction<br>poet<br>salt<br>old<br>volume<br>oil<br>unhappy<br>foster<br>hover |  
+| bip_39_word_new_line1 | fiction |  
+| bip_39_word_new_line10 | fiction
+poet
+salt
+old
+volume
+oil
+unhappy
+foster
+hover
+size |  
+| bip_39_word_new_line11 | fiction
+poet
+salt
+old
+volume
+oil
+unhappy
+foster
+hover
+size
+pear |  
+| bip_39_word_new_line12 | fiction
+poet
+salt
+old
+volume
+oil
+unhappy
+foster
+hover
+size
+pear
+angle |  
+| bip_39_word_new_line2 | fiction
+poet |  
+| bip_39_word_new_line3 | fiction
+poet
+salt |  
+| bip_39_word_new_line4 | fiction
+poet
+salt
+old |  
+| bip_39_word_new_line5 | fiction
+poet
+salt
+old
+volume |  
+| bip_39_word_new_line6 | fiction
+poet
+salt
+old
+volume
+oil |  
+| bip_39_word_new_line7 | fiction
+poet
+salt
+old
+volume
+oil
+unhappy |  
+| bip_39_word_new_line8 | fiction
+poet
+salt
+old
+volume
+oil
+unhappy
+foster |  
+| bip_39_word_new_line9 | fiction
+poet
+salt
+old
+volume
+oil
+unhappy
+foster
+hover |  
+| bip_39_word_space_0 | ['fiction', 'poet', 'salt', 'old', 'volume', 'oil', 'unhappy', 'foster', 'hover', 'size', 'pear', 'angle'] |  
+| bip_39_word_space_1 | fiction |  
+| bip_39_word_space_10 | fiction poet salt old volume oil unhappy foster hover size |  
+| bip_39_word_space_11 | fiction poet salt old volume oil unhappy foster hover size pear |  
+| bip_39_word_space_12 | fiction poet salt old volume oil unhappy foster hover size pear angle |  
+| bip_39_word_space_2 | fiction poet |  
+| bip_39_word_space_3 | fiction poet salt |  
+| bip_39_word_space_4 | fiction poet salt old |  
+| bip_39_word_space_5 | fiction poet salt old volume |  
+| bip_39_word_space_6 | fiction poet salt old volume oil |  
+| bip_39_word_space_7 | fiction poet salt old volume oil unhappy |  
+| bip_39_word_space_8 | fiction poet salt old volume oil unhappy foster |  
+| bip_39_word_space_9 | fiction poet salt old volume oil unhappy foster hover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

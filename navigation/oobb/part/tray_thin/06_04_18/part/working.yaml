@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pizza
+bip_39_word_new_br10: pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project
+bip_39_word_new_br11: pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project<br>depth
+bip_39_word_new_br12: pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain<br>project<br>depth<br>admit
+bip_39_word_new_br2: pizza<br>mule
+bip_39_word_new_br3: pizza<br>mule<br>clarify
+bip_39_word_new_br4: pizza<br>mule<br>clarify<br>grunt
+bip_39_word_new_br5: pizza<br>mule<br>clarify<br>grunt<br>spirit
+bip_39_word_new_br6: pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust
+bip_39_word_new_br7: pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton
+bip_39_word_new_br8: pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion
+bip_39_word_new_br9: pizza<br>mule<br>clarify<br>grunt<br>spirit<br>exhaust<br>cotton<br>mansion<br>explain
+bip_39_word_new_line1: pizza
+bip_39_word_new_line10: 'pizza
+
+  mule
+
+  clarify
+
+  grunt
+
+  spirit
+
+  exhaust
+
+  cotton
+
+  mansion
+
+  explain
+
+  project'
+bip_39_word_new_line11: 'pizza
+
+  mule
+
+  clarify
+
+  grunt
+
+  spirit
+
+  exhaust
+
+  cotton
+
+  mansion
+
+  explain
+
+  project
+
+  depth'
+bip_39_word_new_line12: 'pizza
+
+  mule
+
+  clarify
+
+  grunt
+
+  spirit
+
+  exhaust
+
+  cotton
+
+  mansion
+
+  explain
+
+  project
+
+  depth
+
+  admit'
+bip_39_word_new_line2: 'pizza
+
+  mule'
+bip_39_word_new_line3: 'pizza
+
+  mule
+
+  clarify'
+bip_39_word_new_line4: 'pizza
+
+  mule
+
+  clarify
+
+  grunt'
+bip_39_word_new_line5: 'pizza
+
+  mule
+
+  clarify
+
+  grunt
+
+  spirit'
+bip_39_word_new_line6: 'pizza
+
+  mule
+
+  clarify
+
+  grunt
+
+  spirit
+
+  exhaust'
+bip_39_word_new_line7: 'pizza
+
+  mule
+
+  clarify
+
+  grunt
+
+  spirit
+
+  exhaust
+
+  cotton'
+bip_39_word_new_line8: 'pizza
+
+  mule
+
+  clarify
+
+  grunt
+
+  spirit
+
+  exhaust
+
+  cotton
+
+  mansion'
+bip_39_word_new_line9: 'pizza
+
+  mule
+
+  clarify
+
+  grunt
+
+  spirit
+
+  exhaust
+
+  cotton
+
+  mansion
+
+  explain'
+bip_39_word_space_0:
+- pizza
+- mule
+- clarify
+- grunt
+- spirit
+- exhaust
+- cotton
+- mansion
+- explain
+- project
+- depth
+- admit
+bip_39_word_space_1: pizza
+bip_39_word_space_10: pizza mule clarify grunt spirit exhaust cotton mansion explain
+  project
+bip_39_word_space_11: pizza mule clarify grunt spirit exhaust cotton mansion explain
+  project depth
+bip_39_word_space_12: pizza mule clarify grunt spirit exhaust cotton mansion explain
+  project depth admit
+bip_39_word_space_2: pizza mule
+bip_39_word_space_3: pizza mule clarify
+bip_39_word_space_4: pizza mule clarify grunt
+bip_39_word_space_5: pizza mule clarify grunt spirit
+bip_39_word_space_6: pizza mule clarify grunt spirit exhaust
+bip_39_word_space_7: pizza mule clarify grunt spirit exhaust cotton
+bip_39_word_space_8: pizza mule clarify grunt spirit exhaust cotton mansion
+bip_39_word_space_9: pizza mule clarify grunt spirit exhaust cotton mansion explain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

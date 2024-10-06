@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: network popular
+  * bip 39 word 3: network popular blouse
+  * bip 39 word: network popular blouse top stamp twice season exercise thank crucial siege among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | network |  
+| bip_39_word_new_br10 | network<br>popular<br>blouse<br>top<br>stamp<br>twice<br>season<br>exercise<br>thank<br>crucial |  
+| bip_39_word_new_br11 | network<br>popular<br>blouse<br>top<br>stamp<br>twice<br>season<br>exercise<br>thank<br>crucial<br>siege |  
+| bip_39_word_new_br12 | network<br>popular<br>blouse<br>top<br>stamp<br>twice<br>season<br>exercise<br>thank<br>crucial<br>siege<br>among |  
+| bip_39_word_new_br2 | network<br>popular |  
+| bip_39_word_new_br3 | network<br>popular<br>blouse |  
+| bip_39_word_new_br4 | network<br>popular<br>blouse<br>top |  
+| bip_39_word_new_br5 | network<br>popular<br>blouse<br>top<br>stamp |  
+| bip_39_word_new_br6 | network<br>popular<br>blouse<br>top<br>stamp<br>twice |  
+| bip_39_word_new_br7 | network<br>popular<br>blouse<br>top<br>stamp<br>twice<br>season |  
+| bip_39_word_new_br8 | network<br>popular<br>blouse<br>top<br>stamp<br>twice<br>season<br>exercise |  
+| bip_39_word_new_br9 | network<br>popular<br>blouse<br>top<br>stamp<br>twice<br>season<br>exercise<br>thank |  
+| bip_39_word_new_line1 | network |  
+| bip_39_word_new_line10 | network
+popular
+blouse
+top
+stamp
+twice
+season
+exercise
+thank
+crucial |  
+| bip_39_word_new_line11 | network
+popular
+blouse
+top
+stamp
+twice
+season
+exercise
+thank
+crucial
+siege |  
+| bip_39_word_new_line12 | network
+popular
+blouse
+top
+stamp
+twice
+season
+exercise
+thank
+crucial
+siege
+among |  
+| bip_39_word_new_line2 | network
+popular |  
+| bip_39_word_new_line3 | network
+popular
+blouse |  
+| bip_39_word_new_line4 | network
+popular
+blouse
+top |  
+| bip_39_word_new_line5 | network
+popular
+blouse
+top
+stamp |  
+| bip_39_word_new_line6 | network
+popular
+blouse
+top
+stamp
+twice |  
+| bip_39_word_new_line7 | network
+popular
+blouse
+top
+stamp
+twice
+season |  
+| bip_39_word_new_line8 | network
+popular
+blouse
+top
+stamp
+twice
+season
+exercise |  
+| bip_39_word_new_line9 | network
+popular
+blouse
+top
+stamp
+twice
+season
+exercise
+thank |  
+| bip_39_word_space_0 | ['network', 'popular', 'blouse', 'top', 'stamp', 'twice', 'season', 'exercise', 'thank', 'crucial', 'siege', 'among'] |  
+| bip_39_word_space_1 | network |  
+| bip_39_word_space_10 | network popular blouse top stamp twice season exercise thank crucial |  
+| bip_39_word_space_11 | network popular blouse top stamp twice season exercise thank crucial siege |  
+| bip_39_word_space_12 | network popular blouse top stamp twice season exercise thank crucial siege among |  
+| bip_39_word_space_2 | network popular |  
+| bip_39_word_space_3 | network popular blouse |  
+| bip_39_word_space_4 | network popular blouse top |  
+| bip_39_word_space_5 | network popular blouse top stamp |  
+| bip_39_word_space_6 | network popular blouse top stamp twice |  
+| bip_39_word_space_7 | network popular blouse top stamp twice season |  
+| bip_39_word_space_8 | network popular blouse top stamp twice season exercise |  
+| bip_39_word_space_9 | network popular blouse top stamp twice season exercise thank |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

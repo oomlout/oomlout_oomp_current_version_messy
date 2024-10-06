@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: father today
+  * bip 39 word 3: father today false
+  * bip 39 word: father today false orbit kiss inch shock wrist drive list century again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | father |  
+| bip_39_word_new_br10 | father<br>today<br>false<br>orbit<br>kiss<br>inch<br>shock<br>wrist<br>drive<br>list |  
+| bip_39_word_new_br11 | father<br>today<br>false<br>orbit<br>kiss<br>inch<br>shock<br>wrist<br>drive<br>list<br>century |  
+| bip_39_word_new_br12 | father<br>today<br>false<br>orbit<br>kiss<br>inch<br>shock<br>wrist<br>drive<br>list<br>century<br>again |  
+| bip_39_word_new_br2 | father<br>today |  
+| bip_39_word_new_br3 | father<br>today<br>false |  
+| bip_39_word_new_br4 | father<br>today<br>false<br>orbit |  
+| bip_39_word_new_br5 | father<br>today<br>false<br>orbit<br>kiss |  
+| bip_39_word_new_br6 | father<br>today<br>false<br>orbit<br>kiss<br>inch |  
+| bip_39_word_new_br7 | father<br>today<br>false<br>orbit<br>kiss<br>inch<br>shock |  
+| bip_39_word_new_br8 | father<br>today<br>false<br>orbit<br>kiss<br>inch<br>shock<br>wrist |  
+| bip_39_word_new_br9 | father<br>today<br>false<br>orbit<br>kiss<br>inch<br>shock<br>wrist<br>drive |  
+| bip_39_word_new_line1 | father |  
+| bip_39_word_new_line10 | father
+today
+false
+orbit
+kiss
+inch
+shock
+wrist
+drive
+list |  
+| bip_39_word_new_line11 | father
+today
+false
+orbit
+kiss
+inch
+shock
+wrist
+drive
+list
+century |  
+| bip_39_word_new_line12 | father
+today
+false
+orbit
+kiss
+inch
+shock
+wrist
+drive
+list
+century
+again |  
+| bip_39_word_new_line2 | father
+today |  
+| bip_39_word_new_line3 | father
+today
+false |  
+| bip_39_word_new_line4 | father
+today
+false
+orbit |  
+| bip_39_word_new_line5 | father
+today
+false
+orbit
+kiss |  
+| bip_39_word_new_line6 | father
+today
+false
+orbit
+kiss
+inch |  
+| bip_39_word_new_line7 | father
+today
+false
+orbit
+kiss
+inch
+shock |  
+| bip_39_word_new_line8 | father
+today
+false
+orbit
+kiss
+inch
+shock
+wrist |  
+| bip_39_word_new_line9 | father
+today
+false
+orbit
+kiss
+inch
+shock
+wrist
+drive |  
+| bip_39_word_space_0 | ['father', 'today', 'false', 'orbit', 'kiss', 'inch', 'shock', 'wrist', 'drive', 'list', 'century', 'again'] |  
+| bip_39_word_space_1 | father |  
+| bip_39_word_space_10 | father today false orbit kiss inch shock wrist drive list |  
+| bip_39_word_space_11 | father today false orbit kiss inch shock wrist drive list century |  
+| bip_39_word_space_12 | father today false orbit kiss inch shock wrist drive list century again |  
+| bip_39_word_space_2 | father today |  
+| bip_39_word_space_3 | father today false |  
+| bip_39_word_space_4 | father today false orbit |  
+| bip_39_word_space_5 | father today false orbit kiss |  
+| bip_39_word_space_6 | father today false orbit kiss inch |  
+| bip_39_word_space_7 | father today false orbit kiss inch shock |  
+| bip_39_word_space_8 | father today false orbit kiss inch shock wrist |  
+| bip_39_word_space_9 | father today false orbit kiss inch shock wrist drive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

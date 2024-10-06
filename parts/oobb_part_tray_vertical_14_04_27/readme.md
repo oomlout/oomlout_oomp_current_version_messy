@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: salad smooth
+  * bip 39 word 3: salad smooth patch
+  * bip 39 word: salad smooth patch vital answer allow purchase exit such donkey husband arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | salad |  
+| bip_39_word_new_br10 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow<br>purchase<br>exit<br>such<br>donkey |  
+| bip_39_word_new_br11 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow<br>purchase<br>exit<br>such<br>donkey<br>husband |  
+| bip_39_word_new_br12 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow<br>purchase<br>exit<br>such<br>donkey<br>husband<br>arrest |  
+| bip_39_word_new_br2 | salad<br>smooth |  
+| bip_39_word_new_br3 | salad<br>smooth<br>patch |  
+| bip_39_word_new_br4 | salad<br>smooth<br>patch<br>vital |  
+| bip_39_word_new_br5 | salad<br>smooth<br>patch<br>vital<br>answer |  
+| bip_39_word_new_br6 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow |  
+| bip_39_word_new_br7 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow<br>purchase |  
+| bip_39_word_new_br8 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow<br>purchase<br>exit |  
+| bip_39_word_new_br9 | salad<br>smooth<br>patch<br>vital<br>answer<br>allow<br>purchase<br>exit<br>such |  
+| bip_39_word_new_line1 | salad |  
+| bip_39_word_new_line10 | salad
+smooth
+patch
+vital
+answer
+allow
+purchase
+exit
+such
+donkey |  
+| bip_39_word_new_line11 | salad
+smooth
+patch
+vital
+answer
+allow
+purchase
+exit
+such
+donkey
+husband |  
+| bip_39_word_new_line12 | salad
+smooth
+patch
+vital
+answer
+allow
+purchase
+exit
+such
+donkey
+husband
+arrest |  
+| bip_39_word_new_line2 | salad
+smooth |  
+| bip_39_word_new_line3 | salad
+smooth
+patch |  
+| bip_39_word_new_line4 | salad
+smooth
+patch
+vital |  
+| bip_39_word_new_line5 | salad
+smooth
+patch
+vital
+answer |  
+| bip_39_word_new_line6 | salad
+smooth
+patch
+vital
+answer
+allow |  
+| bip_39_word_new_line7 | salad
+smooth
+patch
+vital
+answer
+allow
+purchase |  
+| bip_39_word_new_line8 | salad
+smooth
+patch
+vital
+answer
+allow
+purchase
+exit |  
+| bip_39_word_new_line9 | salad
+smooth
+patch
+vital
+answer
+allow
+purchase
+exit
+such |  
+| bip_39_word_space_0 | ['salad', 'smooth', 'patch', 'vital', 'answer', 'allow', 'purchase', 'exit', 'such', 'donkey', 'husband', 'arrest'] |  
+| bip_39_word_space_1 | salad |  
+| bip_39_word_space_10 | salad smooth patch vital answer allow purchase exit such donkey |  
+| bip_39_word_space_11 | salad smooth patch vital answer allow purchase exit such donkey husband |  
+| bip_39_word_space_12 | salad smooth patch vital answer allow purchase exit such donkey husband arrest |  
+| bip_39_word_space_2 | salad smooth |  
+| bip_39_word_space_3 | salad smooth patch |  
+| bip_39_word_space_4 | salad smooth patch vital |  
+| bip_39_word_space_5 | salad smooth patch vital answer |  
+| bip_39_word_space_6 | salad smooth patch vital answer allow |  
+| bip_39_word_space_7 | salad smooth patch vital answer allow purchase |  
+| bip_39_word_space_8 | salad smooth patch vital answer allow purchase exit |  
+| bip_39_word_space_9 | salad smooth patch vital answer allow purchase exit such |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

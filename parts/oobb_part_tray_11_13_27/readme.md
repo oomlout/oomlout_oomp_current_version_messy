@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: peace legal
+  * bip 39 word 3: peace legal best
+  * bip 39 word: peace legal best opinion cable push scare note once mimic atom achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | peace |  
+| bip_39_word_new_br10 | peace<br>legal<br>best<br>opinion<br>cable<br>push<br>scare<br>note<br>once<br>mimic |  
+| bip_39_word_new_br11 | peace<br>legal<br>best<br>opinion<br>cable<br>push<br>scare<br>note<br>once<br>mimic<br>atom |  
+| bip_39_word_new_br12 | peace<br>legal<br>best<br>opinion<br>cable<br>push<br>scare<br>note<br>once<br>mimic<br>atom<br>achieve |  
+| bip_39_word_new_br2 | peace<br>legal |  
+| bip_39_word_new_br3 | peace<br>legal<br>best |  
+| bip_39_word_new_br4 | peace<br>legal<br>best<br>opinion |  
+| bip_39_word_new_br5 | peace<br>legal<br>best<br>opinion<br>cable |  
+| bip_39_word_new_br6 | peace<br>legal<br>best<br>opinion<br>cable<br>push |  
+| bip_39_word_new_br7 | peace<br>legal<br>best<br>opinion<br>cable<br>push<br>scare |  
+| bip_39_word_new_br8 | peace<br>legal<br>best<br>opinion<br>cable<br>push<br>scare<br>note |  
+| bip_39_word_new_br9 | peace<br>legal<br>best<br>opinion<br>cable<br>push<br>scare<br>note<br>once |  
+| bip_39_word_new_line1 | peace |  
+| bip_39_word_new_line10 | peace
+legal
+best
+opinion
+cable
+push
+scare
+note
+once
+mimic |  
+| bip_39_word_new_line11 | peace
+legal
+best
+opinion
+cable
+push
+scare
+note
+once
+mimic
+atom |  
+| bip_39_word_new_line12 | peace
+legal
+best
+opinion
+cable
+push
+scare
+note
+once
+mimic
+atom
+achieve |  
+| bip_39_word_new_line2 | peace
+legal |  
+| bip_39_word_new_line3 | peace
+legal
+best |  
+| bip_39_word_new_line4 | peace
+legal
+best
+opinion |  
+| bip_39_word_new_line5 | peace
+legal
+best
+opinion
+cable |  
+| bip_39_word_new_line6 | peace
+legal
+best
+opinion
+cable
+push |  
+| bip_39_word_new_line7 | peace
+legal
+best
+opinion
+cable
+push
+scare |  
+| bip_39_word_new_line8 | peace
+legal
+best
+opinion
+cable
+push
+scare
+note |  
+| bip_39_word_new_line9 | peace
+legal
+best
+opinion
+cable
+push
+scare
+note
+once |  
+| bip_39_word_space_0 | ['peace', 'legal', 'best', 'opinion', 'cable', 'push', 'scare', 'note', 'once', 'mimic', 'atom', 'achieve'] |  
+| bip_39_word_space_1 | peace |  
+| bip_39_word_space_10 | peace legal best opinion cable push scare note once mimic |  
+| bip_39_word_space_11 | peace legal best opinion cable push scare note once mimic atom |  
+| bip_39_word_space_12 | peace legal best opinion cable push scare note once mimic atom achieve |  
+| bip_39_word_space_2 | peace legal |  
+| bip_39_word_space_3 | peace legal best |  
+| bip_39_word_space_4 | peace legal best opinion |  
+| bip_39_word_space_5 | peace legal best opinion cable |  
+| bip_39_word_space_6 | peace legal best opinion cable push |  
+| bip_39_word_space_7 | peace legal best opinion cable push scare |  
+| bip_39_word_space_8 | peace legal best opinion cable push scare note |  
+| bip_39_word_space_9 | peace legal best opinion cable push scare note once |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

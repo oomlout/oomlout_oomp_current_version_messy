@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tuition swallow
+  * bip 39 word 3: tuition swallow odor
+  * bip 39 word: tuition swallow odor then shuffle diet security urge clown fall unveil answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tuition |  
+| bip_39_word_new_br10 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet<br>security<br>urge<br>clown<br>fall |  
+| bip_39_word_new_br11 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet<br>security<br>urge<br>clown<br>fall<br>unveil |  
+| bip_39_word_new_br12 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet<br>security<br>urge<br>clown<br>fall<br>unveil<br>answer |  
+| bip_39_word_new_br2 | tuition<br>swallow |  
+| bip_39_word_new_br3 | tuition<br>swallow<br>odor |  
+| bip_39_word_new_br4 | tuition<br>swallow<br>odor<br>then |  
+| bip_39_word_new_br5 | tuition<br>swallow<br>odor<br>then<br>shuffle |  
+| bip_39_word_new_br6 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet |  
+| bip_39_word_new_br7 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet<br>security |  
+| bip_39_word_new_br8 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet<br>security<br>urge |  
+| bip_39_word_new_br9 | tuition<br>swallow<br>odor<br>then<br>shuffle<br>diet<br>security<br>urge<br>clown |  
+| bip_39_word_new_line1 | tuition |  
+| bip_39_word_new_line10 | tuition
+swallow
+odor
+then
+shuffle
+diet
+security
+urge
+clown
+fall |  
+| bip_39_word_new_line11 | tuition
+swallow
+odor
+then
+shuffle
+diet
+security
+urge
+clown
+fall
+unveil |  
+| bip_39_word_new_line12 | tuition
+swallow
+odor
+then
+shuffle
+diet
+security
+urge
+clown
+fall
+unveil
+answer |  
+| bip_39_word_new_line2 | tuition
+swallow |  
+| bip_39_word_new_line3 | tuition
+swallow
+odor |  
+| bip_39_word_new_line4 | tuition
+swallow
+odor
+then |  
+| bip_39_word_new_line5 | tuition
+swallow
+odor
+then
+shuffle |  
+| bip_39_word_new_line6 | tuition
+swallow
+odor
+then
+shuffle
+diet |  
+| bip_39_word_new_line7 | tuition
+swallow
+odor
+then
+shuffle
+diet
+security |  
+| bip_39_word_new_line8 | tuition
+swallow
+odor
+then
+shuffle
+diet
+security
+urge |  
+| bip_39_word_new_line9 | tuition
+swallow
+odor
+then
+shuffle
+diet
+security
+urge
+clown |  
+| bip_39_word_space_0 | ['tuition', 'swallow', 'odor', 'then', 'shuffle', 'diet', 'security', 'urge', 'clown', 'fall', 'unveil', 'answer'] |  
+| bip_39_word_space_1 | tuition |  
+| bip_39_word_space_10 | tuition swallow odor then shuffle diet security urge clown fall |  
+| bip_39_word_space_11 | tuition swallow odor then shuffle diet security urge clown fall unveil |  
+| bip_39_word_space_12 | tuition swallow odor then shuffle diet security urge clown fall unveil answer |  
+| bip_39_word_space_2 | tuition swallow |  
+| bip_39_word_space_3 | tuition swallow odor |  
+| bip_39_word_space_4 | tuition swallow odor then |  
+| bip_39_word_space_5 | tuition swallow odor then shuffle |  
+| bip_39_word_space_6 | tuition swallow odor then shuffle diet |  
+| bip_39_word_space_7 | tuition swallow odor then shuffle diet security |  
+| bip_39_word_space_8 | tuition swallow odor then shuffle diet security urge |  
+| bip_39_word_space_9 | tuition swallow odor then shuffle diet security urge clown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

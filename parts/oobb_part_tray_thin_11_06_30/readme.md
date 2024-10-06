@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: identify option
+  * bip 39 word 3: identify option text
+  * bip 39 word: identify option text adapt step six spare vanish one bind virus antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | identify |  
+| bip_39_word_new_br10 | identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one<br>bind |  
+| bip_39_word_new_br11 | identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one<br>bind<br>virus |  
+| bip_39_word_new_br12 | identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one<br>bind<br>virus<br>antenna |  
+| bip_39_word_new_br2 | identify<br>option |  
+| bip_39_word_new_br3 | identify<br>option<br>text |  
+| bip_39_word_new_br4 | identify<br>option<br>text<br>adapt |  
+| bip_39_word_new_br5 | identify<br>option<br>text<br>adapt<br>step |  
+| bip_39_word_new_br6 | identify<br>option<br>text<br>adapt<br>step<br>six |  
+| bip_39_word_new_br7 | identify<br>option<br>text<br>adapt<br>step<br>six<br>spare |  
+| bip_39_word_new_br8 | identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish |  
+| bip_39_word_new_br9 | identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one |  
+| bip_39_word_new_line1 | identify |  
+| bip_39_word_new_line10 | identify
+option
+text
+adapt
+step
+six
+spare
+vanish
+one
+bind |  
+| bip_39_word_new_line11 | identify
+option
+text
+adapt
+step
+six
+spare
+vanish
+one
+bind
+virus |  
+| bip_39_word_new_line12 | identify
+option
+text
+adapt
+step
+six
+spare
+vanish
+one
+bind
+virus
+antenna |  
+| bip_39_word_new_line2 | identify
+option |  
+| bip_39_word_new_line3 | identify
+option
+text |  
+| bip_39_word_new_line4 | identify
+option
+text
+adapt |  
+| bip_39_word_new_line5 | identify
+option
+text
+adapt
+step |  
+| bip_39_word_new_line6 | identify
+option
+text
+adapt
+step
+six |  
+| bip_39_word_new_line7 | identify
+option
+text
+adapt
+step
+six
+spare |  
+| bip_39_word_new_line8 | identify
+option
+text
+adapt
+step
+six
+spare
+vanish |  
+| bip_39_word_new_line9 | identify
+option
+text
+adapt
+step
+six
+spare
+vanish
+one |  
+| bip_39_word_space_0 | ['identify', 'option', 'text', 'adapt', 'step', 'six', 'spare', 'vanish', 'one', 'bind', 'virus', 'antenna'] |  
+| bip_39_word_space_1 | identify |  
+| bip_39_word_space_10 | identify option text adapt step six spare vanish one bind |  
+| bip_39_word_space_11 | identify option text adapt step six spare vanish one bind virus |  
+| bip_39_word_space_12 | identify option text adapt step six spare vanish one bind virus antenna |  
+| bip_39_word_space_2 | identify option |  
+| bip_39_word_space_3 | identify option text |  
+| bip_39_word_space_4 | identify option text adapt |  
+| bip_39_word_space_5 | identify option text adapt step |  
+| bip_39_word_space_6 | identify option text adapt step six |  
+| bip_39_word_space_7 | identify option text adapt step six spare |  
+| bip_39_word_space_8 | identify option text adapt step six spare vanish |  
+| bip_39_word_space_9 | identify option text adapt step six spare vanish one |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

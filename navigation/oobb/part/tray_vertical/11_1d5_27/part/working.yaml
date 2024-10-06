@@ -1,3 +1,185 @@
+bip_39_word_new_br1: bar
+bip_39_word_new_br10: bar<br>crumble<br>total<br>fix<br>trumpet<br>hard<br>alien<br>mystery<br>share<br>win
+bip_39_word_new_br11: bar<br>crumble<br>total<br>fix<br>trumpet<br>hard<br>alien<br>mystery<br>share<br>win<br>wrist
+bip_39_word_new_br12: bar<br>crumble<br>total<br>fix<br>trumpet<br>hard<br>alien<br>mystery<br>share<br>win<br>wrist<br>account
+bip_39_word_new_br2: bar<br>crumble
+bip_39_word_new_br3: bar<br>crumble<br>total
+bip_39_word_new_br4: bar<br>crumble<br>total<br>fix
+bip_39_word_new_br5: bar<br>crumble<br>total<br>fix<br>trumpet
+bip_39_word_new_br6: bar<br>crumble<br>total<br>fix<br>trumpet<br>hard
+bip_39_word_new_br7: bar<br>crumble<br>total<br>fix<br>trumpet<br>hard<br>alien
+bip_39_word_new_br8: bar<br>crumble<br>total<br>fix<br>trumpet<br>hard<br>alien<br>mystery
+bip_39_word_new_br9: bar<br>crumble<br>total<br>fix<br>trumpet<br>hard<br>alien<br>mystery<br>share
+bip_39_word_new_line1: bar
+bip_39_word_new_line10: 'bar
+
+  crumble
+
+  total
+
+  fix
+
+  trumpet
+
+  hard
+
+  alien
+
+  mystery
+
+  share
+
+  win'
+bip_39_word_new_line11: 'bar
+
+  crumble
+
+  total
+
+  fix
+
+  trumpet
+
+  hard
+
+  alien
+
+  mystery
+
+  share
+
+  win
+
+  wrist'
+bip_39_word_new_line12: 'bar
+
+  crumble
+
+  total
+
+  fix
+
+  trumpet
+
+  hard
+
+  alien
+
+  mystery
+
+  share
+
+  win
+
+  wrist
+
+  account'
+bip_39_word_new_line2: 'bar
+
+  crumble'
+bip_39_word_new_line3: 'bar
+
+  crumble
+
+  total'
+bip_39_word_new_line4: 'bar
+
+  crumble
+
+  total
+
+  fix'
+bip_39_word_new_line5: 'bar
+
+  crumble
+
+  total
+
+  fix
+
+  trumpet'
+bip_39_word_new_line6: 'bar
+
+  crumble
+
+  total
+
+  fix
+
+  trumpet
+
+  hard'
+bip_39_word_new_line7: 'bar
+
+  crumble
+
+  total
+
+  fix
+
+  trumpet
+
+  hard
+
+  alien'
+bip_39_word_new_line8: 'bar
+
+  crumble
+
+  total
+
+  fix
+
+  trumpet
+
+  hard
+
+  alien
+
+  mystery'
+bip_39_word_new_line9: 'bar
+
+  crumble
+
+  total
+
+  fix
+
+  trumpet
+
+  hard
+
+  alien
+
+  mystery
+
+  share'
+bip_39_word_space_0:
+- bar
+- crumble
+- total
+- fix
+- trumpet
+- hard
+- alien
+- mystery
+- share
+- win
+- wrist
+- account
+bip_39_word_space_1: bar
+bip_39_word_space_10: bar crumble total fix trumpet hard alien mystery share win
+bip_39_word_space_11: bar crumble total fix trumpet hard alien mystery share win wrist
+bip_39_word_space_12: bar crumble total fix trumpet hard alien mystery share win wrist
+  account
+bip_39_word_space_2: bar crumble
+bip_39_word_space_3: bar crumble total
+bip_39_word_space_4: bar crumble total fix
+bip_39_word_space_5: bar crumble total fix trumpet
+bip_39_word_space_6: bar crumble total fix trumpet hard
+bip_39_word_space_7: bar crumble total fix trumpet hard alien
+bip_39_word_space_8: bar crumble total fix trumpet hard alien mystery
+bip_39_word_space_9: bar crumble total fix trumpet hard alien mystery share
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

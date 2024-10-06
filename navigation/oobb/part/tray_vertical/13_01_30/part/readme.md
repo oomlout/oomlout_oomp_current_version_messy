@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hair tumble
+  * bip 39 word 3: hair tumble polar
+  * bip 39 word: hair tumble polar rhythm know usage kangaroo come release caught present acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hair |  
+| bip_39_word_new_br10 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage<br>kangaroo<br>come<br>release<br>caught |  
+| bip_39_word_new_br11 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage<br>kangaroo<br>come<br>release<br>caught<br>present |  
+| bip_39_word_new_br12 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage<br>kangaroo<br>come<br>release<br>caught<br>present<br>acquire |  
+| bip_39_word_new_br2 | hair<br>tumble |  
+| bip_39_word_new_br3 | hair<br>tumble<br>polar |  
+| bip_39_word_new_br4 | hair<br>tumble<br>polar<br>rhythm |  
+| bip_39_word_new_br5 | hair<br>tumble<br>polar<br>rhythm<br>know |  
+| bip_39_word_new_br6 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage |  
+| bip_39_word_new_br7 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage<br>kangaroo |  
+| bip_39_word_new_br8 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage<br>kangaroo<br>come |  
+| bip_39_word_new_br9 | hair<br>tumble<br>polar<br>rhythm<br>know<br>usage<br>kangaroo<br>come<br>release |  
+| bip_39_word_new_line1 | hair |  
+| bip_39_word_new_line10 | hair
+tumble
+polar
+rhythm
+know
+usage
+kangaroo
+come
+release
+caught |  
+| bip_39_word_new_line11 | hair
+tumble
+polar
+rhythm
+know
+usage
+kangaroo
+come
+release
+caught
+present |  
+| bip_39_word_new_line12 | hair
+tumble
+polar
+rhythm
+know
+usage
+kangaroo
+come
+release
+caught
+present
+acquire |  
+| bip_39_word_new_line2 | hair
+tumble |  
+| bip_39_word_new_line3 | hair
+tumble
+polar |  
+| bip_39_word_new_line4 | hair
+tumble
+polar
+rhythm |  
+| bip_39_word_new_line5 | hair
+tumble
+polar
+rhythm
+know |  
+| bip_39_word_new_line6 | hair
+tumble
+polar
+rhythm
+know
+usage |  
+| bip_39_word_new_line7 | hair
+tumble
+polar
+rhythm
+know
+usage
+kangaroo |  
+| bip_39_word_new_line8 | hair
+tumble
+polar
+rhythm
+know
+usage
+kangaroo
+come |  
+| bip_39_word_new_line9 | hair
+tumble
+polar
+rhythm
+know
+usage
+kangaroo
+come
+release |  
+| bip_39_word_space_0 | ['hair', 'tumble', 'polar', 'rhythm', 'know', 'usage', 'kangaroo', 'come', 'release', 'caught', 'present', 'acquire'] |  
+| bip_39_word_space_1 | hair |  
+| bip_39_word_space_10 | hair tumble polar rhythm know usage kangaroo come release caught |  
+| bip_39_word_space_11 | hair tumble polar rhythm know usage kangaroo come release caught present |  
+| bip_39_word_space_12 | hair tumble polar rhythm know usage kangaroo come release caught present acquire |  
+| bip_39_word_space_2 | hair tumble |  
+| bip_39_word_space_3 | hair tumble polar |  
+| bip_39_word_space_4 | hair tumble polar rhythm |  
+| bip_39_word_space_5 | hair tumble polar rhythm know |  
+| bip_39_word_space_6 | hair tumble polar rhythm know usage |  
+| bip_39_word_space_7 | hair tumble polar rhythm know usage kangaroo |  
+| bip_39_word_space_8 | hair tumble polar rhythm know usage kangaroo come |  
+| bip_39_word_space_9 | hair tumble polar rhythm know usage kangaroo come release |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: can
+bip_39_word_new_br10: can<br>sail<br>season<br>innocent<br>quick<br>palm<br>extend<br>thought<br>avoid<br>teach
+bip_39_word_new_br11: can<br>sail<br>season<br>innocent<br>quick<br>palm<br>extend<br>thought<br>avoid<br>teach<br>embark
+bip_39_word_new_br12: can<br>sail<br>season<br>innocent<br>quick<br>palm<br>extend<br>thought<br>avoid<br>teach<br>embark<br>arrow
+bip_39_word_new_br2: can<br>sail
+bip_39_word_new_br3: can<br>sail<br>season
+bip_39_word_new_br4: can<br>sail<br>season<br>innocent
+bip_39_word_new_br5: can<br>sail<br>season<br>innocent<br>quick
+bip_39_word_new_br6: can<br>sail<br>season<br>innocent<br>quick<br>palm
+bip_39_word_new_br7: can<br>sail<br>season<br>innocent<br>quick<br>palm<br>extend
+bip_39_word_new_br8: can<br>sail<br>season<br>innocent<br>quick<br>palm<br>extend<br>thought
+bip_39_word_new_br9: can<br>sail<br>season<br>innocent<br>quick<br>palm<br>extend<br>thought<br>avoid
+bip_39_word_new_line1: can
+bip_39_word_new_line10: 'can
+
+  sail
+
+  season
+
+  innocent
+
+  quick
+
+  palm
+
+  extend
+
+  thought
+
+  avoid
+
+  teach'
+bip_39_word_new_line11: 'can
+
+  sail
+
+  season
+
+  innocent
+
+  quick
+
+  palm
+
+  extend
+
+  thought
+
+  avoid
+
+  teach
+
+  embark'
+bip_39_word_new_line12: 'can
+
+  sail
+
+  season
+
+  innocent
+
+  quick
+
+  palm
+
+  extend
+
+  thought
+
+  avoid
+
+  teach
+
+  embark
+
+  arrow'
+bip_39_word_new_line2: 'can
+
+  sail'
+bip_39_word_new_line3: 'can
+
+  sail
+
+  season'
+bip_39_word_new_line4: 'can
+
+  sail
+
+  season
+
+  innocent'
+bip_39_word_new_line5: 'can
+
+  sail
+
+  season
+
+  innocent
+
+  quick'
+bip_39_word_new_line6: 'can
+
+  sail
+
+  season
+
+  innocent
+
+  quick
+
+  palm'
+bip_39_word_new_line7: 'can
+
+  sail
+
+  season
+
+  innocent
+
+  quick
+
+  palm
+
+  extend'
+bip_39_word_new_line8: 'can
+
+  sail
+
+  season
+
+  innocent
+
+  quick
+
+  palm
+
+  extend
+
+  thought'
+bip_39_word_new_line9: 'can
+
+  sail
+
+  season
+
+  innocent
+
+  quick
+
+  palm
+
+  extend
+
+  thought
+
+  avoid'
+bip_39_word_space_0:
+- can
+- sail
+- season
+- innocent
+- quick
+- palm
+- extend
+- thought
+- avoid
+- teach
+- embark
+- arrow
+bip_39_word_space_1: can
+bip_39_word_space_10: can sail season innocent quick palm extend thought avoid teach
+bip_39_word_space_11: can sail season innocent quick palm extend thought avoid teach
+  embark
+bip_39_word_space_12: can sail season innocent quick palm extend thought avoid teach
+  embark arrow
+bip_39_word_space_2: can sail
+bip_39_word_space_3: can sail season
+bip_39_word_space_4: can sail season innocent
+bip_39_word_space_5: can sail season innocent quick
+bip_39_word_space_6: can sail season innocent quick palm
+bip_39_word_space_7: can sail season innocent quick palm extend
+bip_39_word_space_8: can sail season innocent quick palm extend thought
+bip_39_word_space_9: can sail season innocent quick palm extend thought avoid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,184 @@
+bip_39_word_new_br1: bag
+bip_39_word_new_br10: bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid
+bip_39_word_new_br11: bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid<br>woman
+bip_39_word_new_br12: bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban<br>maid<br>woman<br>auto
+bip_39_word_new_br2: bag<br>wise
+bip_39_word_new_br3: bag<br>wise<br>void
+bip_39_word_new_br4: bag<br>wise<br>void<br>always
+bip_39_word_new_br5: bag<br>wise<br>void<br>always<br>shy
+bip_39_word_new_br6: bag<br>wise<br>void<br>always<br>shy<br>cloth
+bip_39_word_new_br7: bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float
+bip_39_word_new_br8: bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink
+bip_39_word_new_br9: bag<br>wise<br>void<br>always<br>shy<br>cloth<br>float<br>pink<br>urban
+bip_39_word_new_line1: bag
+bip_39_word_new_line10: 'bag
+
+  wise
+
+  void
+
+  always
+
+  shy
+
+  cloth
+
+  float
+
+  pink
+
+  urban
+
+  maid'
+bip_39_word_new_line11: 'bag
+
+  wise
+
+  void
+
+  always
+
+  shy
+
+  cloth
+
+  float
+
+  pink
+
+  urban
+
+  maid
+
+  woman'
+bip_39_word_new_line12: 'bag
+
+  wise
+
+  void
+
+  always
+
+  shy
+
+  cloth
+
+  float
+
+  pink
+
+  urban
+
+  maid
+
+  woman
+
+  auto'
+bip_39_word_new_line2: 'bag
+
+  wise'
+bip_39_word_new_line3: 'bag
+
+  wise
+
+  void'
+bip_39_word_new_line4: 'bag
+
+  wise
+
+  void
+
+  always'
+bip_39_word_new_line5: 'bag
+
+  wise
+
+  void
+
+  always
+
+  shy'
+bip_39_word_new_line6: 'bag
+
+  wise
+
+  void
+
+  always
+
+  shy
+
+  cloth'
+bip_39_word_new_line7: 'bag
+
+  wise
+
+  void
+
+  always
+
+  shy
+
+  cloth
+
+  float'
+bip_39_word_new_line8: 'bag
+
+  wise
+
+  void
+
+  always
+
+  shy
+
+  cloth
+
+  float
+
+  pink'
+bip_39_word_new_line9: 'bag
+
+  wise
+
+  void
+
+  always
+
+  shy
+
+  cloth
+
+  float
+
+  pink
+
+  urban'
+bip_39_word_space_0:
+- bag
+- wise
+- void
+- always
+- shy
+- cloth
+- float
+- pink
+- urban
+- maid
+- woman
+- auto
+bip_39_word_space_1: bag
+bip_39_word_space_10: bag wise void always shy cloth float pink urban maid
+bip_39_word_space_11: bag wise void always shy cloth float pink urban maid woman
+bip_39_word_space_12: bag wise void always shy cloth float pink urban maid woman auto
+bip_39_word_space_2: bag wise
+bip_39_word_space_3: bag wise void
+bip_39_word_space_4: bag wise void always
+bip_39_word_space_5: bag wise void always shy
+bip_39_word_space_6: bag wise void always shy cloth
+bip_39_word_space_7: bag wise void always shy cloth float
+bip_39_word_space_8: bag wise void always shy cloth float pink
+bip_39_word_space_9: bag wise void always shy cloth float pink urban
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

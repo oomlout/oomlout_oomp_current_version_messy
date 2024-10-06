@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trim flock
+  * bip 39 word 3: trim flock usual
+  * bip 39 word: trim flock usual slow price seek answer minimum festival minor emerge assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trim |  
+| bip_39_word_new_br10 | trim<br>flock<br>usual<br>slow<br>price<br>seek<br>answer<br>minimum<br>festival<br>minor |  
+| bip_39_word_new_br11 | trim<br>flock<br>usual<br>slow<br>price<br>seek<br>answer<br>minimum<br>festival<br>minor<br>emerge |  
+| bip_39_word_new_br12 | trim<br>flock<br>usual<br>slow<br>price<br>seek<br>answer<br>minimum<br>festival<br>minor<br>emerge<br>assume |  
+| bip_39_word_new_br2 | trim<br>flock |  
+| bip_39_word_new_br3 | trim<br>flock<br>usual |  
+| bip_39_word_new_br4 | trim<br>flock<br>usual<br>slow |  
+| bip_39_word_new_br5 | trim<br>flock<br>usual<br>slow<br>price |  
+| bip_39_word_new_br6 | trim<br>flock<br>usual<br>slow<br>price<br>seek |  
+| bip_39_word_new_br7 | trim<br>flock<br>usual<br>slow<br>price<br>seek<br>answer |  
+| bip_39_word_new_br8 | trim<br>flock<br>usual<br>slow<br>price<br>seek<br>answer<br>minimum |  
+| bip_39_word_new_br9 | trim<br>flock<br>usual<br>slow<br>price<br>seek<br>answer<br>minimum<br>festival |  
+| bip_39_word_new_line1 | trim |  
+| bip_39_word_new_line10 | trim
+flock
+usual
+slow
+price
+seek
+answer
+minimum
+festival
+minor |  
+| bip_39_word_new_line11 | trim
+flock
+usual
+slow
+price
+seek
+answer
+minimum
+festival
+minor
+emerge |  
+| bip_39_word_new_line12 | trim
+flock
+usual
+slow
+price
+seek
+answer
+minimum
+festival
+minor
+emerge
+assume |  
+| bip_39_word_new_line2 | trim
+flock |  
+| bip_39_word_new_line3 | trim
+flock
+usual |  
+| bip_39_word_new_line4 | trim
+flock
+usual
+slow |  
+| bip_39_word_new_line5 | trim
+flock
+usual
+slow
+price |  
+| bip_39_word_new_line6 | trim
+flock
+usual
+slow
+price
+seek |  
+| bip_39_word_new_line7 | trim
+flock
+usual
+slow
+price
+seek
+answer |  
+| bip_39_word_new_line8 | trim
+flock
+usual
+slow
+price
+seek
+answer
+minimum |  
+| bip_39_word_new_line9 | trim
+flock
+usual
+slow
+price
+seek
+answer
+minimum
+festival |  
+| bip_39_word_space_0 | ['trim', 'flock', 'usual', 'slow', 'price', 'seek', 'answer', 'minimum', 'festival', 'minor', 'emerge', 'assume'] |  
+| bip_39_word_space_1 | trim |  
+| bip_39_word_space_10 | trim flock usual slow price seek answer minimum festival minor |  
+| bip_39_word_space_11 | trim flock usual slow price seek answer minimum festival minor emerge |  
+| bip_39_word_space_12 | trim flock usual slow price seek answer minimum festival minor emerge assume |  
+| bip_39_word_space_2 | trim flock |  
+| bip_39_word_space_3 | trim flock usual |  
+| bip_39_word_space_4 | trim flock usual slow |  
+| bip_39_word_space_5 | trim flock usual slow price |  
+| bip_39_word_space_6 | trim flock usual slow price seek |  
+| bip_39_word_space_7 | trim flock usual slow price seek answer |  
+| bip_39_word_space_8 | trim flock usual slow price seek answer minimum |  
+| bip_39_word_space_9 | trim flock usual slow price seek answer minimum festival |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

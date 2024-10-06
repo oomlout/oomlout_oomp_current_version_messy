@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: maple stairs
+  * bip 39 word 3: maple stairs march
+  * bip 39 word: maple stairs march lawsuit grab rib cabbage pledge fiscal island convince auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | maple |  
+| bip_39_word_new_br10 | maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib<br>cabbage<br>pledge<br>fiscal<br>island |  
+| bip_39_word_new_br11 | maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib<br>cabbage<br>pledge<br>fiscal<br>island<br>convince |  
+| bip_39_word_new_br12 | maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib<br>cabbage<br>pledge<br>fiscal<br>island<br>convince<br>auto |  
+| bip_39_word_new_br2 | maple<br>stairs |  
+| bip_39_word_new_br3 | maple<br>stairs<br>march |  
+| bip_39_word_new_br4 | maple<br>stairs<br>march<br>lawsuit |  
+| bip_39_word_new_br5 | maple<br>stairs<br>march<br>lawsuit<br>grab |  
+| bip_39_word_new_br6 | maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib |  
+| bip_39_word_new_br7 | maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib<br>cabbage |  
+| bip_39_word_new_br8 | maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib<br>cabbage<br>pledge |  
+| bip_39_word_new_br9 | maple<br>stairs<br>march<br>lawsuit<br>grab<br>rib<br>cabbage<br>pledge<br>fiscal |  
+| bip_39_word_new_line1 | maple |  
+| bip_39_word_new_line10 | maple
+stairs
+march
+lawsuit
+grab
+rib
+cabbage
+pledge
+fiscal
+island |  
+| bip_39_word_new_line11 | maple
+stairs
+march
+lawsuit
+grab
+rib
+cabbage
+pledge
+fiscal
+island
+convince |  
+| bip_39_word_new_line12 | maple
+stairs
+march
+lawsuit
+grab
+rib
+cabbage
+pledge
+fiscal
+island
+convince
+auto |  
+| bip_39_word_new_line2 | maple
+stairs |  
+| bip_39_word_new_line3 | maple
+stairs
+march |  
+| bip_39_word_new_line4 | maple
+stairs
+march
+lawsuit |  
+| bip_39_word_new_line5 | maple
+stairs
+march
+lawsuit
+grab |  
+| bip_39_word_new_line6 | maple
+stairs
+march
+lawsuit
+grab
+rib |  
+| bip_39_word_new_line7 | maple
+stairs
+march
+lawsuit
+grab
+rib
+cabbage |  
+| bip_39_word_new_line8 | maple
+stairs
+march
+lawsuit
+grab
+rib
+cabbage
+pledge |  
+| bip_39_word_new_line9 | maple
+stairs
+march
+lawsuit
+grab
+rib
+cabbage
+pledge
+fiscal |  
+| bip_39_word_space_0 | ['maple', 'stairs', 'march', 'lawsuit', 'grab', 'rib', 'cabbage', 'pledge', 'fiscal', 'island', 'convince', 'auto'] |  
+| bip_39_word_space_1 | maple |  
+| bip_39_word_space_10 | maple stairs march lawsuit grab rib cabbage pledge fiscal island |  
+| bip_39_word_space_11 | maple stairs march lawsuit grab rib cabbage pledge fiscal island convince |  
+| bip_39_word_space_12 | maple stairs march lawsuit grab rib cabbage pledge fiscal island convince auto |  
+| bip_39_word_space_2 | maple stairs |  
+| bip_39_word_space_3 | maple stairs march |  
+| bip_39_word_space_4 | maple stairs march lawsuit |  
+| bip_39_word_space_5 | maple stairs march lawsuit grab |  
+| bip_39_word_space_6 | maple stairs march lawsuit grab rib |  
+| bip_39_word_space_7 | maple stairs march lawsuit grab rib cabbage |  
+| bip_39_word_space_8 | maple stairs march lawsuit grab rib cabbage pledge |  
+| bip_39_word_space_9 | maple stairs march lawsuit grab rib cabbage pledge fiscal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

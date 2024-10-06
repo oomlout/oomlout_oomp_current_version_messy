@@ -1,3 +1,185 @@
+bip_39_word_new_br1: visual
+bip_39_word_new_br10: visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery
+bip_39_word_new_br11: visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery<br>hair
+bip_39_word_new_br12: visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip<br>celery<br>hair<br>accuse
+bip_39_word_new_br2: visual<br>whale
+bip_39_word_new_br3: visual<br>whale<br>moon
+bip_39_word_new_br4: visual<br>whale<br>moon<br>kiwi
+bip_39_word_new_br5: visual<br>whale<br>moon<br>kiwi<br>west
+bip_39_word_new_br6: visual<br>whale<br>moon<br>kiwi<br>west<br>gather
+bip_39_word_new_br7: visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any
+bip_39_word_new_br8: visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil
+bip_39_word_new_br9: visual<br>whale<br>moon<br>kiwi<br>west<br>gather<br>any<br>spoil<br>tip
+bip_39_word_new_line1: visual
+bip_39_word_new_line10: 'visual
+
+  whale
+
+  moon
+
+  kiwi
+
+  west
+
+  gather
+
+  any
+
+  spoil
+
+  tip
+
+  celery'
+bip_39_word_new_line11: 'visual
+
+  whale
+
+  moon
+
+  kiwi
+
+  west
+
+  gather
+
+  any
+
+  spoil
+
+  tip
+
+  celery
+
+  hair'
+bip_39_word_new_line12: 'visual
+
+  whale
+
+  moon
+
+  kiwi
+
+  west
+
+  gather
+
+  any
+
+  spoil
+
+  tip
+
+  celery
+
+  hair
+
+  accuse'
+bip_39_word_new_line2: 'visual
+
+  whale'
+bip_39_word_new_line3: 'visual
+
+  whale
+
+  moon'
+bip_39_word_new_line4: 'visual
+
+  whale
+
+  moon
+
+  kiwi'
+bip_39_word_new_line5: 'visual
+
+  whale
+
+  moon
+
+  kiwi
+
+  west'
+bip_39_word_new_line6: 'visual
+
+  whale
+
+  moon
+
+  kiwi
+
+  west
+
+  gather'
+bip_39_word_new_line7: 'visual
+
+  whale
+
+  moon
+
+  kiwi
+
+  west
+
+  gather
+
+  any'
+bip_39_word_new_line8: 'visual
+
+  whale
+
+  moon
+
+  kiwi
+
+  west
+
+  gather
+
+  any
+
+  spoil'
+bip_39_word_new_line9: 'visual
+
+  whale
+
+  moon
+
+  kiwi
+
+  west
+
+  gather
+
+  any
+
+  spoil
+
+  tip'
+bip_39_word_space_0:
+- visual
+- whale
+- moon
+- kiwi
+- west
+- gather
+- any
+- spoil
+- tip
+- celery
+- hair
+- accuse
+bip_39_word_space_1: visual
+bip_39_word_space_10: visual whale moon kiwi west gather any spoil tip celery
+bip_39_word_space_11: visual whale moon kiwi west gather any spoil tip celery hair
+bip_39_word_space_12: visual whale moon kiwi west gather any spoil tip celery hair
+  accuse
+bip_39_word_space_2: visual whale
+bip_39_word_space_3: visual whale moon
+bip_39_word_space_4: visual whale moon kiwi
+bip_39_word_space_5: visual whale moon kiwi west
+bip_39_word_space_6: visual whale moon kiwi west gather
+bip_39_word_space_7: visual whale moon kiwi west gather any
+bip_39_word_space_8: visual whale moon kiwi west gather any spoil
+bip_39_word_space_9: visual whale moon kiwi west gather any spoil tip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

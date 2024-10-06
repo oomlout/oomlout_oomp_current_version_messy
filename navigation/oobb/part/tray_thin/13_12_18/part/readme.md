@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: this easy
+  * bip 39 word 3: this easy below
+  * bip 39 word: this easy below disorder ahead section spray spare exile shrug hope annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | this |  
+| bip_39_word_new_br10 | this<br>easy<br>below<br>disorder<br>ahead<br>section<br>spray<br>spare<br>exile<br>shrug |  
+| bip_39_word_new_br11 | this<br>easy<br>below<br>disorder<br>ahead<br>section<br>spray<br>spare<br>exile<br>shrug<br>hope |  
+| bip_39_word_new_br12 | this<br>easy<br>below<br>disorder<br>ahead<br>section<br>spray<br>spare<br>exile<br>shrug<br>hope<br>annual |  
+| bip_39_word_new_br2 | this<br>easy |  
+| bip_39_word_new_br3 | this<br>easy<br>below |  
+| bip_39_word_new_br4 | this<br>easy<br>below<br>disorder |  
+| bip_39_word_new_br5 | this<br>easy<br>below<br>disorder<br>ahead |  
+| bip_39_word_new_br6 | this<br>easy<br>below<br>disorder<br>ahead<br>section |  
+| bip_39_word_new_br7 | this<br>easy<br>below<br>disorder<br>ahead<br>section<br>spray |  
+| bip_39_word_new_br8 | this<br>easy<br>below<br>disorder<br>ahead<br>section<br>spray<br>spare |  
+| bip_39_word_new_br9 | this<br>easy<br>below<br>disorder<br>ahead<br>section<br>spray<br>spare<br>exile |  
+| bip_39_word_new_line1 | this |  
+| bip_39_word_new_line10 | this
+easy
+below
+disorder
+ahead
+section
+spray
+spare
+exile
+shrug |  
+| bip_39_word_new_line11 | this
+easy
+below
+disorder
+ahead
+section
+spray
+spare
+exile
+shrug
+hope |  
+| bip_39_word_new_line12 | this
+easy
+below
+disorder
+ahead
+section
+spray
+spare
+exile
+shrug
+hope
+annual |  
+| bip_39_word_new_line2 | this
+easy |  
+| bip_39_word_new_line3 | this
+easy
+below |  
+| bip_39_word_new_line4 | this
+easy
+below
+disorder |  
+| bip_39_word_new_line5 | this
+easy
+below
+disorder
+ahead |  
+| bip_39_word_new_line6 | this
+easy
+below
+disorder
+ahead
+section |  
+| bip_39_word_new_line7 | this
+easy
+below
+disorder
+ahead
+section
+spray |  
+| bip_39_word_new_line8 | this
+easy
+below
+disorder
+ahead
+section
+spray
+spare |  
+| bip_39_word_new_line9 | this
+easy
+below
+disorder
+ahead
+section
+spray
+spare
+exile |  
+| bip_39_word_space_0 | ['this', 'easy', 'below', 'disorder', 'ahead', 'section', 'spray', 'spare', 'exile', 'shrug', 'hope', 'annual'] |  
+| bip_39_word_space_1 | this |  
+| bip_39_word_space_10 | this easy below disorder ahead section spray spare exile shrug |  
+| bip_39_word_space_11 | this easy below disorder ahead section spray spare exile shrug hope |  
+| bip_39_word_space_12 | this easy below disorder ahead section spray spare exile shrug hope annual |  
+| bip_39_word_space_2 | this easy |  
+| bip_39_word_space_3 | this easy below |  
+| bip_39_word_space_4 | this easy below disorder |  
+| bip_39_word_space_5 | this easy below disorder ahead |  
+| bip_39_word_space_6 | this easy below disorder ahead section |  
+| bip_39_word_space_7 | this easy below disorder ahead section spray |  
+| bip_39_word_space_8 | this easy below disorder ahead section spray spare |  
+| bip_39_word_space_9 | this easy below disorder ahead section spray spare exile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

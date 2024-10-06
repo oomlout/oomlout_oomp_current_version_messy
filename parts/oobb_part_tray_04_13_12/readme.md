@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: extend memory
+  * bip 39 word 3: extend memory spawn
+  * bip 39 word: extend memory spawn trade stadium thunder glove apple best enjoy addict access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | extend |  
+| bip_39_word_new_br10 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder<br>glove<br>apple<br>best<br>enjoy |  
+| bip_39_word_new_br11 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder<br>glove<br>apple<br>best<br>enjoy<br>addict |  
+| bip_39_word_new_br12 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder<br>glove<br>apple<br>best<br>enjoy<br>addict<br>access |  
+| bip_39_word_new_br2 | extend<br>memory |  
+| bip_39_word_new_br3 | extend<br>memory<br>spawn |  
+| bip_39_word_new_br4 | extend<br>memory<br>spawn<br>trade |  
+| bip_39_word_new_br5 | extend<br>memory<br>spawn<br>trade<br>stadium |  
+| bip_39_word_new_br6 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder |  
+| bip_39_word_new_br7 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder<br>glove |  
+| bip_39_word_new_br8 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder<br>glove<br>apple |  
+| bip_39_word_new_br9 | extend<br>memory<br>spawn<br>trade<br>stadium<br>thunder<br>glove<br>apple<br>best |  
+| bip_39_word_new_line1 | extend |  
+| bip_39_word_new_line10 | extend
+memory
+spawn
+trade
+stadium
+thunder
+glove
+apple
+best
+enjoy |  
+| bip_39_word_new_line11 | extend
+memory
+spawn
+trade
+stadium
+thunder
+glove
+apple
+best
+enjoy
+addict |  
+| bip_39_word_new_line12 | extend
+memory
+spawn
+trade
+stadium
+thunder
+glove
+apple
+best
+enjoy
+addict
+access |  
+| bip_39_word_new_line2 | extend
+memory |  
+| bip_39_word_new_line3 | extend
+memory
+spawn |  
+| bip_39_word_new_line4 | extend
+memory
+spawn
+trade |  
+| bip_39_word_new_line5 | extend
+memory
+spawn
+trade
+stadium |  
+| bip_39_word_new_line6 | extend
+memory
+spawn
+trade
+stadium
+thunder |  
+| bip_39_word_new_line7 | extend
+memory
+spawn
+trade
+stadium
+thunder
+glove |  
+| bip_39_word_new_line8 | extend
+memory
+spawn
+trade
+stadium
+thunder
+glove
+apple |  
+| bip_39_word_new_line9 | extend
+memory
+spawn
+trade
+stadium
+thunder
+glove
+apple
+best |  
+| bip_39_word_space_0 | ['extend', 'memory', 'spawn', 'trade', 'stadium', 'thunder', 'glove', 'apple', 'best', 'enjoy', 'addict', 'access'] |  
+| bip_39_word_space_1 | extend |  
+| bip_39_word_space_10 | extend memory spawn trade stadium thunder glove apple best enjoy |  
+| bip_39_word_space_11 | extend memory spawn trade stadium thunder glove apple best enjoy addict |  
+| bip_39_word_space_12 | extend memory spawn trade stadium thunder glove apple best enjoy addict access |  
+| bip_39_word_space_2 | extend memory |  
+| bip_39_word_space_3 | extend memory spawn |  
+| bip_39_word_space_4 | extend memory spawn trade |  
+| bip_39_word_space_5 | extend memory spawn trade stadium |  
+| bip_39_word_space_6 | extend memory spawn trade stadium thunder |  
+| bip_39_word_space_7 | extend memory spawn trade stadium thunder glove |  
+| bip_39_word_space_8 | extend memory spawn trade stadium thunder glove apple |  
+| bip_39_word_space_9 | extend memory spawn trade stadium thunder glove apple best |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

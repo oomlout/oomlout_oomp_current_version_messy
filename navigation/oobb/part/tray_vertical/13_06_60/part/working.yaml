@@ -1,3 +1,185 @@
+bip_39_word_new_br1: find
+bip_39_word_new_br10: find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm
+bip_39_word_new_br11: find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm<br>science
+bip_39_word_new_br12: find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad<br>firm<br>science<br>already
+bip_39_word_new_br2: find<br>sick
+bip_39_word_new_br3: find<br>sick<br>segment
+bip_39_word_new_br4: find<br>sick<br>segment<br>okay
+bip_39_word_new_br5: find<br>sick<br>segment<br>okay<br>lunar
+bip_39_word_new_br6: find<br>sick<br>segment<br>okay<br>lunar<br>impose
+bip_39_word_new_br7: find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi
+bip_39_word_new_br8: find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when
+bip_39_word_new_br9: find<br>sick<br>segment<br>okay<br>lunar<br>impose<br>taxi<br>when<br>mad
+bip_39_word_new_line1: find
+bip_39_word_new_line10: 'find
+
+  sick
+
+  segment
+
+  okay
+
+  lunar
+
+  impose
+
+  taxi
+
+  when
+
+  mad
+
+  firm'
+bip_39_word_new_line11: 'find
+
+  sick
+
+  segment
+
+  okay
+
+  lunar
+
+  impose
+
+  taxi
+
+  when
+
+  mad
+
+  firm
+
+  science'
+bip_39_word_new_line12: 'find
+
+  sick
+
+  segment
+
+  okay
+
+  lunar
+
+  impose
+
+  taxi
+
+  when
+
+  mad
+
+  firm
+
+  science
+
+  already'
+bip_39_word_new_line2: 'find
+
+  sick'
+bip_39_word_new_line3: 'find
+
+  sick
+
+  segment'
+bip_39_word_new_line4: 'find
+
+  sick
+
+  segment
+
+  okay'
+bip_39_word_new_line5: 'find
+
+  sick
+
+  segment
+
+  okay
+
+  lunar'
+bip_39_word_new_line6: 'find
+
+  sick
+
+  segment
+
+  okay
+
+  lunar
+
+  impose'
+bip_39_word_new_line7: 'find
+
+  sick
+
+  segment
+
+  okay
+
+  lunar
+
+  impose
+
+  taxi'
+bip_39_word_new_line8: 'find
+
+  sick
+
+  segment
+
+  okay
+
+  lunar
+
+  impose
+
+  taxi
+
+  when'
+bip_39_word_new_line9: 'find
+
+  sick
+
+  segment
+
+  okay
+
+  lunar
+
+  impose
+
+  taxi
+
+  when
+
+  mad'
+bip_39_word_space_0:
+- find
+- sick
+- segment
+- okay
+- lunar
+- impose
+- taxi
+- when
+- mad
+- firm
+- science
+- already
+bip_39_word_space_1: find
+bip_39_word_space_10: find sick segment okay lunar impose taxi when mad firm
+bip_39_word_space_11: find sick segment okay lunar impose taxi when mad firm science
+bip_39_word_space_12: find sick segment okay lunar impose taxi when mad firm science
+  already
+bip_39_word_space_2: find sick
+bip_39_word_space_3: find sick segment
+bip_39_word_space_4: find sick segment okay
+bip_39_word_space_5: find sick segment okay lunar
+bip_39_word_space_6: find sick segment okay lunar impose
+bip_39_word_space_7: find sick segment okay lunar impose taxi
+bip_39_word_space_8: find sick segment okay lunar impose taxi when
+bip_39_word_space_9: find sick segment okay lunar impose taxi when mad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

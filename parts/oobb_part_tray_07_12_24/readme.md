@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: later ecology
+  * bip 39 word 3: later ecology trouble
+  * bip 39 word: later ecology trouble pelican include gaze trick view lunch turtle jacket armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | later |  
+| bip_39_word_new_br10 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze<br>trick<br>view<br>lunch<br>turtle |  
+| bip_39_word_new_br11 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze<br>trick<br>view<br>lunch<br>turtle<br>jacket |  
+| bip_39_word_new_br12 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze<br>trick<br>view<br>lunch<br>turtle<br>jacket<br>armor |  
+| bip_39_word_new_br2 | later<br>ecology |  
+| bip_39_word_new_br3 | later<br>ecology<br>trouble |  
+| bip_39_word_new_br4 | later<br>ecology<br>trouble<br>pelican |  
+| bip_39_word_new_br5 | later<br>ecology<br>trouble<br>pelican<br>include |  
+| bip_39_word_new_br6 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze |  
+| bip_39_word_new_br7 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze<br>trick |  
+| bip_39_word_new_br8 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze<br>trick<br>view |  
+| bip_39_word_new_br9 | later<br>ecology<br>trouble<br>pelican<br>include<br>gaze<br>trick<br>view<br>lunch |  
+| bip_39_word_new_line1 | later |  
+| bip_39_word_new_line10 | later
+ecology
+trouble
+pelican
+include
+gaze
+trick
+view
+lunch
+turtle |  
+| bip_39_word_new_line11 | later
+ecology
+trouble
+pelican
+include
+gaze
+trick
+view
+lunch
+turtle
+jacket |  
+| bip_39_word_new_line12 | later
+ecology
+trouble
+pelican
+include
+gaze
+trick
+view
+lunch
+turtle
+jacket
+armor |  
+| bip_39_word_new_line2 | later
+ecology |  
+| bip_39_word_new_line3 | later
+ecology
+trouble |  
+| bip_39_word_new_line4 | later
+ecology
+trouble
+pelican |  
+| bip_39_word_new_line5 | later
+ecology
+trouble
+pelican
+include |  
+| bip_39_word_new_line6 | later
+ecology
+trouble
+pelican
+include
+gaze |  
+| bip_39_word_new_line7 | later
+ecology
+trouble
+pelican
+include
+gaze
+trick |  
+| bip_39_word_new_line8 | later
+ecology
+trouble
+pelican
+include
+gaze
+trick
+view |  
+| bip_39_word_new_line9 | later
+ecology
+trouble
+pelican
+include
+gaze
+trick
+view
+lunch |  
+| bip_39_word_space_0 | ['later', 'ecology', 'trouble', 'pelican', 'include', 'gaze', 'trick', 'view', 'lunch', 'turtle', 'jacket', 'armor'] |  
+| bip_39_word_space_1 | later |  
+| bip_39_word_space_10 | later ecology trouble pelican include gaze trick view lunch turtle |  
+| bip_39_word_space_11 | later ecology trouble pelican include gaze trick view lunch turtle jacket |  
+| bip_39_word_space_12 | later ecology trouble pelican include gaze trick view lunch turtle jacket armor |  
+| bip_39_word_space_2 | later ecology |  
+| bip_39_word_space_3 | later ecology trouble |  
+| bip_39_word_space_4 | later ecology trouble pelican |  
+| bip_39_word_space_5 | later ecology trouble pelican include |  
+| bip_39_word_space_6 | later ecology trouble pelican include gaze |  
+| bip_39_word_space_7 | later ecology trouble pelican include gaze trick |  
+| bip_39_word_space_8 | later ecology trouble pelican include gaze trick view |  
+| bip_39_word_space_9 | later ecology trouble pelican include gaze trick view lunch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

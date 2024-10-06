@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: into unfold
+  * bip 39 word 3: into unfold gorilla
+  * bip 39 word: into unfold gorilla fault leaf repair rice bird design apart pig ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | into |  
+| bip_39_word_new_br10 | into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair<br>rice<br>bird<br>design<br>apart |  
+| bip_39_word_new_br11 | into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair<br>rice<br>bird<br>design<br>apart<br>pig |  
+| bip_39_word_new_br12 | into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair<br>rice<br>bird<br>design<br>apart<br>pig<br>ancient |  
+| bip_39_word_new_br2 | into<br>unfold |  
+| bip_39_word_new_br3 | into<br>unfold<br>gorilla |  
+| bip_39_word_new_br4 | into<br>unfold<br>gorilla<br>fault |  
+| bip_39_word_new_br5 | into<br>unfold<br>gorilla<br>fault<br>leaf |  
+| bip_39_word_new_br6 | into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair |  
+| bip_39_word_new_br7 | into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair<br>rice |  
+| bip_39_word_new_br8 | into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair<br>rice<br>bird |  
+| bip_39_word_new_br9 | into<br>unfold<br>gorilla<br>fault<br>leaf<br>repair<br>rice<br>bird<br>design |  
+| bip_39_word_new_line1 | into |  
+| bip_39_word_new_line10 | into
+unfold
+gorilla
+fault
+leaf
+repair
+rice
+bird
+design
+apart |  
+| bip_39_word_new_line11 | into
+unfold
+gorilla
+fault
+leaf
+repair
+rice
+bird
+design
+apart
+pig |  
+| bip_39_word_new_line12 | into
+unfold
+gorilla
+fault
+leaf
+repair
+rice
+bird
+design
+apart
+pig
+ancient |  
+| bip_39_word_new_line2 | into
+unfold |  
+| bip_39_word_new_line3 | into
+unfold
+gorilla |  
+| bip_39_word_new_line4 | into
+unfold
+gorilla
+fault |  
+| bip_39_word_new_line5 | into
+unfold
+gorilla
+fault
+leaf |  
+| bip_39_word_new_line6 | into
+unfold
+gorilla
+fault
+leaf
+repair |  
+| bip_39_word_new_line7 | into
+unfold
+gorilla
+fault
+leaf
+repair
+rice |  
+| bip_39_word_new_line8 | into
+unfold
+gorilla
+fault
+leaf
+repair
+rice
+bird |  
+| bip_39_word_new_line9 | into
+unfold
+gorilla
+fault
+leaf
+repair
+rice
+bird
+design |  
+| bip_39_word_space_0 | ['into', 'unfold', 'gorilla', 'fault', 'leaf', 'repair', 'rice', 'bird', 'design', 'apart', 'pig', 'ancient'] |  
+| bip_39_word_space_1 | into |  
+| bip_39_word_space_10 | into unfold gorilla fault leaf repair rice bird design apart |  
+| bip_39_word_space_11 | into unfold gorilla fault leaf repair rice bird design apart pig |  
+| bip_39_word_space_12 | into unfold gorilla fault leaf repair rice bird design apart pig ancient |  
+| bip_39_word_space_2 | into unfold |  
+| bip_39_word_space_3 | into unfold gorilla |  
+| bip_39_word_space_4 | into unfold gorilla fault |  
+| bip_39_word_space_5 | into unfold gorilla fault leaf |  
+| bip_39_word_space_6 | into unfold gorilla fault leaf repair |  
+| bip_39_word_space_7 | into unfold gorilla fault leaf repair rice |  
+| bip_39_word_space_8 | into unfold gorilla fault leaf repair rice bird |  
+| bip_39_word_space_9 | into unfold gorilla fault leaf repair rice bird design |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

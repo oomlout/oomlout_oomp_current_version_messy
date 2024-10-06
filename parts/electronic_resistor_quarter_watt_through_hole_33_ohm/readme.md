@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cook type
+  * bip 39 word 3: cook type waste
+  * bip 39 word: cook type waste exist illness huge clerk pyramid already cave unusual aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cook |  
+| bip_39_word_new_br10 | cook<br>type<br>waste<br>exist<br>illness<br>huge<br>clerk<br>pyramid<br>already<br>cave |  
+| bip_39_word_new_br11 | cook<br>type<br>waste<br>exist<br>illness<br>huge<br>clerk<br>pyramid<br>already<br>cave<br>unusual |  
+| bip_39_word_new_br12 | cook<br>type<br>waste<br>exist<br>illness<br>huge<br>clerk<br>pyramid<br>already<br>cave<br>unusual<br>aspect |  
+| bip_39_word_new_br2 | cook<br>type |  
+| bip_39_word_new_br3 | cook<br>type<br>waste |  
+| bip_39_word_new_br4 | cook<br>type<br>waste<br>exist |  
+| bip_39_word_new_br5 | cook<br>type<br>waste<br>exist<br>illness |  
+| bip_39_word_new_br6 | cook<br>type<br>waste<br>exist<br>illness<br>huge |  
+| bip_39_word_new_br7 | cook<br>type<br>waste<br>exist<br>illness<br>huge<br>clerk |  
+| bip_39_word_new_br8 | cook<br>type<br>waste<br>exist<br>illness<br>huge<br>clerk<br>pyramid |  
+| bip_39_word_new_br9 | cook<br>type<br>waste<br>exist<br>illness<br>huge<br>clerk<br>pyramid<br>already |  
+| bip_39_word_new_line1 | cook |  
+| bip_39_word_new_line10 | cook
+type
+waste
+exist
+illness
+huge
+clerk
+pyramid
+already
+cave |  
+| bip_39_word_new_line11 | cook
+type
+waste
+exist
+illness
+huge
+clerk
+pyramid
+already
+cave
+unusual |  
+| bip_39_word_new_line12 | cook
+type
+waste
+exist
+illness
+huge
+clerk
+pyramid
+already
+cave
+unusual
+aspect |  
+| bip_39_word_new_line2 | cook
+type |  
+| bip_39_word_new_line3 | cook
+type
+waste |  
+| bip_39_word_new_line4 | cook
+type
+waste
+exist |  
+| bip_39_word_new_line5 | cook
+type
+waste
+exist
+illness |  
+| bip_39_word_new_line6 | cook
+type
+waste
+exist
+illness
+huge |  
+| bip_39_word_new_line7 | cook
+type
+waste
+exist
+illness
+huge
+clerk |  
+| bip_39_word_new_line8 | cook
+type
+waste
+exist
+illness
+huge
+clerk
+pyramid |  
+| bip_39_word_new_line9 | cook
+type
+waste
+exist
+illness
+huge
+clerk
+pyramid
+already |  
+| bip_39_word_space_0 | ['cook', 'type', 'waste', 'exist', 'illness', 'huge', 'clerk', 'pyramid', 'already', 'cave', 'unusual', 'aspect'] |  
+| bip_39_word_space_1 | cook |  
+| bip_39_word_space_10 | cook type waste exist illness huge clerk pyramid already cave |  
+| bip_39_word_space_11 | cook type waste exist illness huge clerk pyramid already cave unusual |  
+| bip_39_word_space_12 | cook type waste exist illness huge clerk pyramid already cave unusual aspect |  
+| bip_39_word_space_2 | cook type |  
+| bip_39_word_space_3 | cook type waste |  
+| bip_39_word_space_4 | cook type waste exist |  
+| bip_39_word_space_5 | cook type waste exist illness |  
+| bip_39_word_space_6 | cook type waste exist illness huge |  
+| bip_39_word_space_7 | cook type waste exist illness huge clerk |  
+| bip_39_word_space_8 | cook type waste exist illness huge clerk pyramid |  
+| bip_39_word_space_9 | cook type waste exist illness huge clerk pyramid already |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

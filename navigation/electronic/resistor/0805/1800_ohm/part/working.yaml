@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rich
+bip_39_word_new_br10: rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture
+bip_39_word_new_br11: rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture<br>install
+bip_39_word_new_br12: rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say<br>lecture<br>install<br>alpha
+bip_39_word_new_br2: rich<br>arrange
+bip_39_word_new_br3: rich<br>arrange<br>feature
+bip_39_word_new_br4: rich<br>arrange<br>feature<br>luxury
+bip_39_word_new_br5: rich<br>arrange<br>feature<br>luxury<br>brown
+bip_39_word_new_br6: rich<br>arrange<br>feature<br>luxury<br>brown<br>planet
+bip_39_word_new_br7: rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great
+bip_39_word_new_br8: rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april
+bip_39_word_new_br9: rich<br>arrange<br>feature<br>luxury<br>brown<br>planet<br>great<br>april<br>say
+bip_39_word_new_line1: rich
+bip_39_word_new_line10: 'rich
+
+  arrange
+
+  feature
+
+  luxury
+
+  brown
+
+  planet
+
+  great
+
+  april
+
+  say
+
+  lecture'
+bip_39_word_new_line11: 'rich
+
+  arrange
+
+  feature
+
+  luxury
+
+  brown
+
+  planet
+
+  great
+
+  april
+
+  say
+
+  lecture
+
+  install'
+bip_39_word_new_line12: 'rich
+
+  arrange
+
+  feature
+
+  luxury
+
+  brown
+
+  planet
+
+  great
+
+  april
+
+  say
+
+  lecture
+
+  install
+
+  alpha'
+bip_39_word_new_line2: 'rich
+
+  arrange'
+bip_39_word_new_line3: 'rich
+
+  arrange
+
+  feature'
+bip_39_word_new_line4: 'rich
+
+  arrange
+
+  feature
+
+  luxury'
+bip_39_word_new_line5: 'rich
+
+  arrange
+
+  feature
+
+  luxury
+
+  brown'
+bip_39_word_new_line6: 'rich
+
+  arrange
+
+  feature
+
+  luxury
+
+  brown
+
+  planet'
+bip_39_word_new_line7: 'rich
+
+  arrange
+
+  feature
+
+  luxury
+
+  brown
+
+  planet
+
+  great'
+bip_39_word_new_line8: 'rich
+
+  arrange
+
+  feature
+
+  luxury
+
+  brown
+
+  planet
+
+  great
+
+  april'
+bip_39_word_new_line9: 'rich
+
+  arrange
+
+  feature
+
+  luxury
+
+  brown
+
+  planet
+
+  great
+
+  april
+
+  say'
+bip_39_word_space_0:
+- rich
+- arrange
+- feature
+- luxury
+- brown
+- planet
+- great
+- april
+- say
+- lecture
+- install
+- alpha
+bip_39_word_space_1: rich
+bip_39_word_space_10: rich arrange feature luxury brown planet great april say lecture
+bip_39_word_space_11: rich arrange feature luxury brown planet great april say lecture
+  install
+bip_39_word_space_12: rich arrange feature luxury brown planet great april say lecture
+  install alpha
+bip_39_word_space_2: rich arrange
+bip_39_word_space_3: rich arrange feature
+bip_39_word_space_4: rich arrange feature luxury
+bip_39_word_space_5: rich arrange feature luxury brown
+bip_39_word_space_6: rich arrange feature luxury brown planet
+bip_39_word_space_7: rich arrange feature luxury brown planet great
+bip_39_word_space_8: rich arrange feature luxury brown planet great april
+bip_39_word_space_9: rich arrange feature luxury brown planet great april say
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

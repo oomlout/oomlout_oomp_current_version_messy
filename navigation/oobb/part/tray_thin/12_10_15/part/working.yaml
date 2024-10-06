@@ -1,3 +1,187 @@
+bip_39_word_new_br1: proud
+bip_39_word_new_br10: proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond
+bip_39_word_new_br11: proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond<br>planet
+bip_39_word_new_br12: proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie<br>beyond<br>planet<br>ability
+bip_39_word_new_br2: proud<br>rival
+bip_39_word_new_br3: proud<br>rival<br>survey
+bip_39_word_new_br4: proud<br>rival<br>survey<br>control
+bip_39_word_new_br5: proud<br>rival<br>survey<br>control<br>master
+bip_39_word_new_br6: proud<br>rival<br>survey<br>control<br>master<br>leisure
+bip_39_word_new_br7: proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge
+bip_39_word_new_br8: proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry
+bip_39_word_new_br9: proud<br>rival<br>survey<br>control<br>master<br>leisure<br>pledge<br>sorry<br>movie
+bip_39_word_new_line1: proud
+bip_39_word_new_line10: 'proud
+
+  rival
+
+  survey
+
+  control
+
+  master
+
+  leisure
+
+  pledge
+
+  sorry
+
+  movie
+
+  beyond'
+bip_39_word_new_line11: 'proud
+
+  rival
+
+  survey
+
+  control
+
+  master
+
+  leisure
+
+  pledge
+
+  sorry
+
+  movie
+
+  beyond
+
+  planet'
+bip_39_word_new_line12: 'proud
+
+  rival
+
+  survey
+
+  control
+
+  master
+
+  leisure
+
+  pledge
+
+  sorry
+
+  movie
+
+  beyond
+
+  planet
+
+  ability'
+bip_39_word_new_line2: 'proud
+
+  rival'
+bip_39_word_new_line3: 'proud
+
+  rival
+
+  survey'
+bip_39_word_new_line4: 'proud
+
+  rival
+
+  survey
+
+  control'
+bip_39_word_new_line5: 'proud
+
+  rival
+
+  survey
+
+  control
+
+  master'
+bip_39_word_new_line6: 'proud
+
+  rival
+
+  survey
+
+  control
+
+  master
+
+  leisure'
+bip_39_word_new_line7: 'proud
+
+  rival
+
+  survey
+
+  control
+
+  master
+
+  leisure
+
+  pledge'
+bip_39_word_new_line8: 'proud
+
+  rival
+
+  survey
+
+  control
+
+  master
+
+  leisure
+
+  pledge
+
+  sorry'
+bip_39_word_new_line9: 'proud
+
+  rival
+
+  survey
+
+  control
+
+  master
+
+  leisure
+
+  pledge
+
+  sorry
+
+  movie'
+bip_39_word_space_0:
+- proud
+- rival
+- survey
+- control
+- master
+- leisure
+- pledge
+- sorry
+- movie
+- beyond
+- planet
+- ability
+bip_39_word_space_1: proud
+bip_39_word_space_10: proud rival survey control master leisure pledge sorry movie
+  beyond
+bip_39_word_space_11: proud rival survey control master leisure pledge sorry movie
+  beyond planet
+bip_39_word_space_12: proud rival survey control master leisure pledge sorry movie
+  beyond planet ability
+bip_39_word_space_2: proud rival
+bip_39_word_space_3: proud rival survey
+bip_39_word_space_4: proud rival survey control
+bip_39_word_space_5: proud rival survey control master
+bip_39_word_space_6: proud rival survey control master leisure
+bip_39_word_space_7: proud rival survey control master leisure pledge
+bip_39_word_space_8: proud rival survey control master leisure pledge sorry
+bip_39_word_space_9: proud rival survey control master leisure pledge sorry movie
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

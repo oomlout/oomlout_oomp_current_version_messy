@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sponsor breeze
+  * bip 39 word 3: sponsor breeze able
+  * bip 39 word: sponsor breeze able reunion dirt merit school mimic demise toss pledge always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sponsor |  
+| bip_39_word_new_br10 | sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit<br>school<br>mimic<br>demise<br>toss |  
+| bip_39_word_new_br11 | sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit<br>school<br>mimic<br>demise<br>toss<br>pledge |  
+| bip_39_word_new_br12 | sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit<br>school<br>mimic<br>demise<br>toss<br>pledge<br>always |  
+| bip_39_word_new_br2 | sponsor<br>breeze |  
+| bip_39_word_new_br3 | sponsor<br>breeze<br>able |  
+| bip_39_word_new_br4 | sponsor<br>breeze<br>able<br>reunion |  
+| bip_39_word_new_br5 | sponsor<br>breeze<br>able<br>reunion<br>dirt |  
+| bip_39_word_new_br6 | sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit |  
+| bip_39_word_new_br7 | sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit<br>school |  
+| bip_39_word_new_br8 | sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit<br>school<br>mimic |  
+| bip_39_word_new_br9 | sponsor<br>breeze<br>able<br>reunion<br>dirt<br>merit<br>school<br>mimic<br>demise |  
+| bip_39_word_new_line1 | sponsor |  
+| bip_39_word_new_line10 | sponsor
+breeze
+able
+reunion
+dirt
+merit
+school
+mimic
+demise
+toss |  
+| bip_39_word_new_line11 | sponsor
+breeze
+able
+reunion
+dirt
+merit
+school
+mimic
+demise
+toss
+pledge |  
+| bip_39_word_new_line12 | sponsor
+breeze
+able
+reunion
+dirt
+merit
+school
+mimic
+demise
+toss
+pledge
+always |  
+| bip_39_word_new_line2 | sponsor
+breeze |  
+| bip_39_word_new_line3 | sponsor
+breeze
+able |  
+| bip_39_word_new_line4 | sponsor
+breeze
+able
+reunion |  
+| bip_39_word_new_line5 | sponsor
+breeze
+able
+reunion
+dirt |  
+| bip_39_word_new_line6 | sponsor
+breeze
+able
+reunion
+dirt
+merit |  
+| bip_39_word_new_line7 | sponsor
+breeze
+able
+reunion
+dirt
+merit
+school |  
+| bip_39_word_new_line8 | sponsor
+breeze
+able
+reunion
+dirt
+merit
+school
+mimic |  
+| bip_39_word_new_line9 | sponsor
+breeze
+able
+reunion
+dirt
+merit
+school
+mimic
+demise |  
+| bip_39_word_space_0 | ['sponsor', 'breeze', 'able', 'reunion', 'dirt', 'merit', 'school', 'mimic', 'demise', 'toss', 'pledge', 'always'] |  
+| bip_39_word_space_1 | sponsor |  
+| bip_39_word_space_10 | sponsor breeze able reunion dirt merit school mimic demise toss |  
+| bip_39_word_space_11 | sponsor breeze able reunion dirt merit school mimic demise toss pledge |  
+| bip_39_word_space_12 | sponsor breeze able reunion dirt merit school mimic demise toss pledge always |  
+| bip_39_word_space_2 | sponsor breeze |  
+| bip_39_word_space_3 | sponsor breeze able |  
+| bip_39_word_space_4 | sponsor breeze able reunion |  
+| bip_39_word_space_5 | sponsor breeze able reunion dirt |  
+| bip_39_word_space_6 | sponsor breeze able reunion dirt merit |  
+| bip_39_word_space_7 | sponsor breeze able reunion dirt merit school |  
+| bip_39_word_space_8 | sponsor breeze able reunion dirt merit school mimic |  
+| bip_39_word_space_9 | sponsor breeze able reunion dirt merit school mimic demise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

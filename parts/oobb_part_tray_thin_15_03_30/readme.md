@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: patrol fee
+  * bip 39 word 3: patrol fee foil
+  * bip 39 word: patrol fee foil session defense secret forget deny mirror laundry ask album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | patrol |  
+| bip_39_word_new_br10 | patrol<br>fee<br>foil<br>session<br>defense<br>secret<br>forget<br>deny<br>mirror<br>laundry |  
+| bip_39_word_new_br11 | patrol<br>fee<br>foil<br>session<br>defense<br>secret<br>forget<br>deny<br>mirror<br>laundry<br>ask |  
+| bip_39_word_new_br12 | patrol<br>fee<br>foil<br>session<br>defense<br>secret<br>forget<br>deny<br>mirror<br>laundry<br>ask<br>album |  
+| bip_39_word_new_br2 | patrol<br>fee |  
+| bip_39_word_new_br3 | patrol<br>fee<br>foil |  
+| bip_39_word_new_br4 | patrol<br>fee<br>foil<br>session |  
+| bip_39_word_new_br5 | patrol<br>fee<br>foil<br>session<br>defense |  
+| bip_39_word_new_br6 | patrol<br>fee<br>foil<br>session<br>defense<br>secret |  
+| bip_39_word_new_br7 | patrol<br>fee<br>foil<br>session<br>defense<br>secret<br>forget |  
+| bip_39_word_new_br8 | patrol<br>fee<br>foil<br>session<br>defense<br>secret<br>forget<br>deny |  
+| bip_39_word_new_br9 | patrol<br>fee<br>foil<br>session<br>defense<br>secret<br>forget<br>deny<br>mirror |  
+| bip_39_word_new_line1 | patrol |  
+| bip_39_word_new_line10 | patrol
+fee
+foil
+session
+defense
+secret
+forget
+deny
+mirror
+laundry |  
+| bip_39_word_new_line11 | patrol
+fee
+foil
+session
+defense
+secret
+forget
+deny
+mirror
+laundry
+ask |  
+| bip_39_word_new_line12 | patrol
+fee
+foil
+session
+defense
+secret
+forget
+deny
+mirror
+laundry
+ask
+album |  
+| bip_39_word_new_line2 | patrol
+fee |  
+| bip_39_word_new_line3 | patrol
+fee
+foil |  
+| bip_39_word_new_line4 | patrol
+fee
+foil
+session |  
+| bip_39_word_new_line5 | patrol
+fee
+foil
+session
+defense |  
+| bip_39_word_new_line6 | patrol
+fee
+foil
+session
+defense
+secret |  
+| bip_39_word_new_line7 | patrol
+fee
+foil
+session
+defense
+secret
+forget |  
+| bip_39_word_new_line8 | patrol
+fee
+foil
+session
+defense
+secret
+forget
+deny |  
+| bip_39_word_new_line9 | patrol
+fee
+foil
+session
+defense
+secret
+forget
+deny
+mirror |  
+| bip_39_word_space_0 | ['patrol', 'fee', 'foil', 'session', 'defense', 'secret', 'forget', 'deny', 'mirror', 'laundry', 'ask', 'album'] |  
+| bip_39_word_space_1 | patrol |  
+| bip_39_word_space_10 | patrol fee foil session defense secret forget deny mirror laundry |  
+| bip_39_word_space_11 | patrol fee foil session defense secret forget deny mirror laundry ask |  
+| bip_39_word_space_12 | patrol fee foil session defense secret forget deny mirror laundry ask album |  
+| bip_39_word_space_2 | patrol fee |  
+| bip_39_word_space_3 | patrol fee foil |  
+| bip_39_word_space_4 | patrol fee foil session |  
+| bip_39_word_space_5 | patrol fee foil session defense |  
+| bip_39_word_space_6 | patrol fee foil session defense secret |  
+| bip_39_word_space_7 | patrol fee foil session defense secret forget |  
+| bip_39_word_space_8 | patrol fee foil session defense secret forget deny |  
+| bip_39_word_space_9 | patrol fee foil session defense secret forget deny mirror |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

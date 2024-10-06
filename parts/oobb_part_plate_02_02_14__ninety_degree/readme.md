@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: syrup green
+  * bip 39 word 3: syrup green total
+  * bip 39 word: syrup green total unit pupil airport wasp foil able end mixture adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | syrup |  
+| bip_39_word_new_br10 | syrup<br>green<br>total<br>unit<br>pupil<br>airport<br>wasp<br>foil<br>able<br>end |  
+| bip_39_word_new_br11 | syrup<br>green<br>total<br>unit<br>pupil<br>airport<br>wasp<br>foil<br>able<br>end<br>mixture |  
+| bip_39_word_new_br12 | syrup<br>green<br>total<br>unit<br>pupil<br>airport<br>wasp<br>foil<br>able<br>end<br>mixture<br>adapt |  
+| bip_39_word_new_br2 | syrup<br>green |  
+| bip_39_word_new_br3 | syrup<br>green<br>total |  
+| bip_39_word_new_br4 | syrup<br>green<br>total<br>unit |  
+| bip_39_word_new_br5 | syrup<br>green<br>total<br>unit<br>pupil |  
+| bip_39_word_new_br6 | syrup<br>green<br>total<br>unit<br>pupil<br>airport |  
+| bip_39_word_new_br7 | syrup<br>green<br>total<br>unit<br>pupil<br>airport<br>wasp |  
+| bip_39_word_new_br8 | syrup<br>green<br>total<br>unit<br>pupil<br>airport<br>wasp<br>foil |  
+| bip_39_word_new_br9 | syrup<br>green<br>total<br>unit<br>pupil<br>airport<br>wasp<br>foil<br>able |  
+| bip_39_word_new_line1 | syrup |  
+| bip_39_word_new_line10 | syrup
+green
+total
+unit
+pupil
+airport
+wasp
+foil
+able
+end |  
+| bip_39_word_new_line11 | syrup
+green
+total
+unit
+pupil
+airport
+wasp
+foil
+able
+end
+mixture |  
+| bip_39_word_new_line12 | syrup
+green
+total
+unit
+pupil
+airport
+wasp
+foil
+able
+end
+mixture
+adapt |  
+| bip_39_word_new_line2 | syrup
+green |  
+| bip_39_word_new_line3 | syrup
+green
+total |  
+| bip_39_word_new_line4 | syrup
+green
+total
+unit |  
+| bip_39_word_new_line5 | syrup
+green
+total
+unit
+pupil |  
+| bip_39_word_new_line6 | syrup
+green
+total
+unit
+pupil
+airport |  
+| bip_39_word_new_line7 | syrup
+green
+total
+unit
+pupil
+airport
+wasp |  
+| bip_39_word_new_line8 | syrup
+green
+total
+unit
+pupil
+airport
+wasp
+foil |  
+| bip_39_word_new_line9 | syrup
+green
+total
+unit
+pupil
+airport
+wasp
+foil
+able |  
+| bip_39_word_space_0 | ['syrup', 'green', 'total', 'unit', 'pupil', 'airport', 'wasp', 'foil', 'able', 'end', 'mixture', 'adapt'] |  
+| bip_39_word_space_1 | syrup |  
+| bip_39_word_space_10 | syrup green total unit pupil airport wasp foil able end |  
+| bip_39_word_space_11 | syrup green total unit pupil airport wasp foil able end mixture |  
+| bip_39_word_space_12 | syrup green total unit pupil airport wasp foil able end mixture adapt |  
+| bip_39_word_space_2 | syrup green |  
+| bip_39_word_space_3 | syrup green total |  
+| bip_39_word_space_4 | syrup green total unit |  
+| bip_39_word_space_5 | syrup green total unit pupil |  
+| bip_39_word_space_6 | syrup green total unit pupil airport |  
+| bip_39_word_space_7 | syrup green total unit pupil airport wasp |  
+| bip_39_word_space_8 | syrup green total unit pupil airport wasp foil |  
+| bip_39_word_space_9 | syrup green total unit pupil airport wasp foil able |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

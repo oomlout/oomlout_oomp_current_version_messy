@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dial honey
+  * bip 39 word 3: dial honey certain
+  * bip 39 word: dial honey certain spray patrol sentence canyon pizza flash hair chicken alter
 
 ### other_codes
 * short_code: sc4b16h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dial |  
+| bip_39_word_new_br10 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence<br>canyon<br>pizza<br>flash<br>hair |  
+| bip_39_word_new_br11 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence<br>canyon<br>pizza<br>flash<br>hair<br>chicken |  
+| bip_39_word_new_br12 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence<br>canyon<br>pizza<br>flash<br>hair<br>chicken<br>alter |  
+| bip_39_word_new_br2 | dial<br>honey |  
+| bip_39_word_new_br3 | dial<br>honey<br>certain |  
+| bip_39_word_new_br4 | dial<br>honey<br>certain<br>spray |  
+| bip_39_word_new_br5 | dial<br>honey<br>certain<br>spray<br>patrol |  
+| bip_39_word_new_br6 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence |  
+| bip_39_word_new_br7 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence<br>canyon |  
+| bip_39_word_new_br8 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence<br>canyon<br>pizza |  
+| bip_39_word_new_br9 | dial<br>honey<br>certain<br>spray<br>patrol<br>sentence<br>canyon<br>pizza<br>flash |  
+| bip_39_word_new_line1 | dial |  
+| bip_39_word_new_line10 | dial
+honey
+certain
+spray
+patrol
+sentence
+canyon
+pizza
+flash
+hair |  
+| bip_39_word_new_line11 | dial
+honey
+certain
+spray
+patrol
+sentence
+canyon
+pizza
+flash
+hair
+chicken |  
+| bip_39_word_new_line12 | dial
+honey
+certain
+spray
+patrol
+sentence
+canyon
+pizza
+flash
+hair
+chicken
+alter |  
+| bip_39_word_new_line2 | dial
+honey |  
+| bip_39_word_new_line3 | dial
+honey
+certain |  
+| bip_39_word_new_line4 | dial
+honey
+certain
+spray |  
+| bip_39_word_new_line5 | dial
+honey
+certain
+spray
+patrol |  
+| bip_39_word_new_line6 | dial
+honey
+certain
+spray
+patrol
+sentence |  
+| bip_39_word_new_line7 | dial
+honey
+certain
+spray
+patrol
+sentence
+canyon |  
+| bip_39_word_new_line8 | dial
+honey
+certain
+spray
+patrol
+sentence
+canyon
+pizza |  
+| bip_39_word_new_line9 | dial
+honey
+certain
+spray
+patrol
+sentence
+canyon
+pizza
+flash |  
+| bip_39_word_space_0 | ['dial', 'honey', 'certain', 'spray', 'patrol', 'sentence', 'canyon', 'pizza', 'flash', 'hair', 'chicken', 'alter'] |  
+| bip_39_word_space_1 | dial |  
+| bip_39_word_space_10 | dial honey certain spray patrol sentence canyon pizza flash hair |  
+| bip_39_word_space_11 | dial honey certain spray patrol sentence canyon pizza flash hair chicken |  
+| bip_39_word_space_12 | dial honey certain spray patrol sentence canyon pizza flash hair chicken alter |  
+| bip_39_word_space_2 | dial honey |  
+| bip_39_word_space_3 | dial honey certain |  
+| bip_39_word_space_4 | dial honey certain spray |  
+| bip_39_word_space_5 | dial honey certain spray patrol |  
+| bip_39_word_space_6 | dial honey certain spray patrol sentence |  
+| bip_39_word_space_7 | dial honey certain spray patrol sentence canyon |  
+| bip_39_word_space_8 | dial honey certain spray patrol sentence canyon pizza |  
+| bip_39_word_space_9 | dial honey certain spray patrol sentence canyon pizza flash |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fabric shift
+  * bip 39 word 3: fabric shift simple
+  * bip 39 word: fabric shift simple magnet note top despair sock cry wink doll apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fabric |  
+| bip_39_word_new_br10 | fabric<br>shift<br>simple<br>magnet<br>note<br>top<br>despair<br>sock<br>cry<br>wink |  
+| bip_39_word_new_br11 | fabric<br>shift<br>simple<br>magnet<br>note<br>top<br>despair<br>sock<br>cry<br>wink<br>doll |  
+| bip_39_word_new_br12 | fabric<br>shift<br>simple<br>magnet<br>note<br>top<br>despair<br>sock<br>cry<br>wink<br>doll<br>apart |  
+| bip_39_word_new_br2 | fabric<br>shift |  
+| bip_39_word_new_br3 | fabric<br>shift<br>simple |  
+| bip_39_word_new_br4 | fabric<br>shift<br>simple<br>magnet |  
+| bip_39_word_new_br5 | fabric<br>shift<br>simple<br>magnet<br>note |  
+| bip_39_word_new_br6 | fabric<br>shift<br>simple<br>magnet<br>note<br>top |  
+| bip_39_word_new_br7 | fabric<br>shift<br>simple<br>magnet<br>note<br>top<br>despair |  
+| bip_39_word_new_br8 | fabric<br>shift<br>simple<br>magnet<br>note<br>top<br>despair<br>sock |  
+| bip_39_word_new_br9 | fabric<br>shift<br>simple<br>magnet<br>note<br>top<br>despair<br>sock<br>cry |  
+| bip_39_word_new_line1 | fabric |  
+| bip_39_word_new_line10 | fabric
+shift
+simple
+magnet
+note
+top
+despair
+sock
+cry
+wink |  
+| bip_39_word_new_line11 | fabric
+shift
+simple
+magnet
+note
+top
+despair
+sock
+cry
+wink
+doll |  
+| bip_39_word_new_line12 | fabric
+shift
+simple
+magnet
+note
+top
+despair
+sock
+cry
+wink
+doll
+apart |  
+| bip_39_word_new_line2 | fabric
+shift |  
+| bip_39_word_new_line3 | fabric
+shift
+simple |  
+| bip_39_word_new_line4 | fabric
+shift
+simple
+magnet |  
+| bip_39_word_new_line5 | fabric
+shift
+simple
+magnet
+note |  
+| bip_39_word_new_line6 | fabric
+shift
+simple
+magnet
+note
+top |  
+| bip_39_word_new_line7 | fabric
+shift
+simple
+magnet
+note
+top
+despair |  
+| bip_39_word_new_line8 | fabric
+shift
+simple
+magnet
+note
+top
+despair
+sock |  
+| bip_39_word_new_line9 | fabric
+shift
+simple
+magnet
+note
+top
+despair
+sock
+cry |  
+| bip_39_word_space_0 | ['fabric', 'shift', 'simple', 'magnet', 'note', 'top', 'despair', 'sock', 'cry', 'wink', 'doll', 'apart'] |  
+| bip_39_word_space_1 | fabric |  
+| bip_39_word_space_10 | fabric shift simple magnet note top despair sock cry wink |  
+| bip_39_word_space_11 | fabric shift simple magnet note top despair sock cry wink doll |  
+| bip_39_word_space_12 | fabric shift simple magnet note top despair sock cry wink doll apart |  
+| bip_39_word_space_2 | fabric shift |  
+| bip_39_word_space_3 | fabric shift simple |  
+| bip_39_word_space_4 | fabric shift simple magnet |  
+| bip_39_word_space_5 | fabric shift simple magnet note |  
+| bip_39_word_space_6 | fabric shift simple magnet note top |  
+| bip_39_word_space_7 | fabric shift simple magnet note top despair |  
+| bip_39_word_space_8 | fabric shift simple magnet note top despair sock |  
+| bip_39_word_space_9 | fabric shift simple magnet note top despair sock cry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

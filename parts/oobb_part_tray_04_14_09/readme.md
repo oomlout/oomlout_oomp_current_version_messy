@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coyote engage
+  * bip 39 word 3: coyote engage spirit
+  * bip 39 word: coyote engage spirit capital reopen tube slight term thumb dash pair anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coyote |  
+| bip_39_word_new_br10 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube<br>slight<br>term<br>thumb<br>dash |  
+| bip_39_word_new_br11 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube<br>slight<br>term<br>thumb<br>dash<br>pair |  
+| bip_39_word_new_br12 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube<br>slight<br>term<br>thumb<br>dash<br>pair<br>anchor |  
+| bip_39_word_new_br2 | coyote<br>engage |  
+| bip_39_word_new_br3 | coyote<br>engage<br>spirit |  
+| bip_39_word_new_br4 | coyote<br>engage<br>spirit<br>capital |  
+| bip_39_word_new_br5 | coyote<br>engage<br>spirit<br>capital<br>reopen |  
+| bip_39_word_new_br6 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube |  
+| bip_39_word_new_br7 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube<br>slight |  
+| bip_39_word_new_br8 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube<br>slight<br>term |  
+| bip_39_word_new_br9 | coyote<br>engage<br>spirit<br>capital<br>reopen<br>tube<br>slight<br>term<br>thumb |  
+| bip_39_word_new_line1 | coyote |  
+| bip_39_word_new_line10 | coyote
+engage
+spirit
+capital
+reopen
+tube
+slight
+term
+thumb
+dash |  
+| bip_39_word_new_line11 | coyote
+engage
+spirit
+capital
+reopen
+tube
+slight
+term
+thumb
+dash
+pair |  
+| bip_39_word_new_line12 | coyote
+engage
+spirit
+capital
+reopen
+tube
+slight
+term
+thumb
+dash
+pair
+anchor |  
+| bip_39_word_new_line2 | coyote
+engage |  
+| bip_39_word_new_line3 | coyote
+engage
+spirit |  
+| bip_39_word_new_line4 | coyote
+engage
+spirit
+capital |  
+| bip_39_word_new_line5 | coyote
+engage
+spirit
+capital
+reopen |  
+| bip_39_word_new_line6 | coyote
+engage
+spirit
+capital
+reopen
+tube |  
+| bip_39_word_new_line7 | coyote
+engage
+spirit
+capital
+reopen
+tube
+slight |  
+| bip_39_word_new_line8 | coyote
+engage
+spirit
+capital
+reopen
+tube
+slight
+term |  
+| bip_39_word_new_line9 | coyote
+engage
+spirit
+capital
+reopen
+tube
+slight
+term
+thumb |  
+| bip_39_word_space_0 | ['coyote', 'engage', 'spirit', 'capital', 'reopen', 'tube', 'slight', 'term', 'thumb', 'dash', 'pair', 'anchor'] |  
+| bip_39_word_space_1 | coyote |  
+| bip_39_word_space_10 | coyote engage spirit capital reopen tube slight term thumb dash |  
+| bip_39_word_space_11 | coyote engage spirit capital reopen tube slight term thumb dash pair |  
+| bip_39_word_space_12 | coyote engage spirit capital reopen tube slight term thumb dash pair anchor |  
+| bip_39_word_space_2 | coyote engage |  
+| bip_39_word_space_3 | coyote engage spirit |  
+| bip_39_word_space_4 | coyote engage spirit capital |  
+| bip_39_word_space_5 | coyote engage spirit capital reopen |  
+| bip_39_word_space_6 | coyote engage spirit capital reopen tube |  
+| bip_39_word_space_7 | coyote engage spirit capital reopen tube slight |  
+| bip_39_word_space_8 | coyote engage spirit capital reopen tube slight term |  
+| bip_39_word_space_9 | coyote engage spirit capital reopen tube slight term thumb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: injury
+bip_39_word_new_br10: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip<br>eight<br>master<br>south<br>fun
+bip_39_word_new_br11: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip<br>eight<br>master<br>south<br>fun<br>sorry
+bip_39_word_new_br12: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip<br>eight<br>master<br>south<br>fun<br>sorry<br>approve
+bip_39_word_new_br2: injury<br>eagle
+bip_39_word_new_br3: injury<br>eagle<br>lady
+bip_39_word_new_br4: injury<br>eagle<br>lady<br>inner
+bip_39_word_new_br5: injury<br>eagle<br>lady<br>inner<br>gadget
+bip_39_word_new_br6: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip
+bip_39_word_new_br7: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip<br>eight
+bip_39_word_new_br8: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip<br>eight<br>master
+bip_39_word_new_br9: injury<br>eagle<br>lady<br>inner<br>gadget<br>hip<br>eight<br>master<br>south
+bip_39_word_new_line1: injury
+bip_39_word_new_line10: 'injury
+
+  eagle
+
+  lady
+
+  inner
+
+  gadget
+
+  hip
+
+  eight
+
+  master
+
+  south
+
+  fun'
+bip_39_word_new_line11: 'injury
+
+  eagle
+
+  lady
+
+  inner
+
+  gadget
+
+  hip
+
+  eight
+
+  master
+
+  south
+
+  fun
+
+  sorry'
+bip_39_word_new_line12: 'injury
+
+  eagle
+
+  lady
+
+  inner
+
+  gadget
+
+  hip
+
+  eight
+
+  master
+
+  south
+
+  fun
+
+  sorry
+
+  approve'
+bip_39_word_new_line2: 'injury
+
+  eagle'
+bip_39_word_new_line3: 'injury
+
+  eagle
+
+  lady'
+bip_39_word_new_line4: 'injury
+
+  eagle
+
+  lady
+
+  inner'
+bip_39_word_new_line5: 'injury
+
+  eagle
+
+  lady
+
+  inner
+
+  gadget'
+bip_39_word_new_line6: 'injury
+
+  eagle
+
+  lady
+
+  inner
+
+  gadget
+
+  hip'
+bip_39_word_new_line7: 'injury
+
+  eagle
+
+  lady
+
+  inner
+
+  gadget
+
+  hip
+
+  eight'
+bip_39_word_new_line8: 'injury
+
+  eagle
+
+  lady
+
+  inner
+
+  gadget
+
+  hip
+
+  eight
+
+  master'
+bip_39_word_new_line9: 'injury
+
+  eagle
+
+  lady
+
+  inner
+
+  gadget
+
+  hip
+
+  eight
+
+  master
+
+  south'
+bip_39_word_space_0:
+- injury
+- eagle
+- lady
+- inner
+- gadget
+- hip
+- eight
+- master
+- south
+- fun
+- sorry
+- approve
+bip_39_word_space_1: injury
+bip_39_word_space_10: injury eagle lady inner gadget hip eight master south fun
+bip_39_word_space_11: injury eagle lady inner gadget hip eight master south fun sorry
+bip_39_word_space_12: injury eagle lady inner gadget hip eight master south fun sorry
+  approve
+bip_39_word_space_2: injury eagle
+bip_39_word_space_3: injury eagle lady
+bip_39_word_space_4: injury eagle lady inner
+bip_39_word_space_5: injury eagle lady inner gadget
+bip_39_word_space_6: injury eagle lady inner gadget hip
+bip_39_word_space_7: injury eagle lady inner gadget hip eight
+bip_39_word_space_8: injury eagle lady inner gadget hip eight master
+bip_39_word_space_9: injury eagle lady inner gadget hip eight master south
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

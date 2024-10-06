@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: degree silent
+  * bip 39 word 3: degree silent level
+  * bip 39 word: degree silent level narrow gloom announce vacuum elite endorse special van ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | degree |  
+| bip_39_word_new_br10 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special |  
+| bip_39_word_new_br11 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special<br>van |  
+| bip_39_word_new_br12 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse<br>special<br>van<br>ahead |  
+| bip_39_word_new_br2 | degree<br>silent |  
+| bip_39_word_new_br3 | degree<br>silent<br>level |  
+| bip_39_word_new_br4 | degree<br>silent<br>level<br>narrow |  
+| bip_39_word_new_br5 | degree<br>silent<br>level<br>narrow<br>gloom |  
+| bip_39_word_new_br6 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce |  
+| bip_39_word_new_br7 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum |  
+| bip_39_word_new_br8 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite |  
+| bip_39_word_new_br9 | degree<br>silent<br>level<br>narrow<br>gloom<br>announce<br>vacuum<br>elite<br>endorse |  
+| bip_39_word_new_line1 | degree |  
+| bip_39_word_new_line10 | degree
+silent
+level
+narrow
+gloom
+announce
+vacuum
+elite
+endorse
+special |  
+| bip_39_word_new_line11 | degree
+silent
+level
+narrow
+gloom
+announce
+vacuum
+elite
+endorse
+special
+van |  
+| bip_39_word_new_line12 | degree
+silent
+level
+narrow
+gloom
+announce
+vacuum
+elite
+endorse
+special
+van
+ahead |  
+| bip_39_word_new_line2 | degree
+silent |  
+| bip_39_word_new_line3 | degree
+silent
+level |  
+| bip_39_word_new_line4 | degree
+silent
+level
+narrow |  
+| bip_39_word_new_line5 | degree
+silent
+level
+narrow
+gloom |  
+| bip_39_word_new_line6 | degree
+silent
+level
+narrow
+gloom
+announce |  
+| bip_39_word_new_line7 | degree
+silent
+level
+narrow
+gloom
+announce
+vacuum |  
+| bip_39_word_new_line8 | degree
+silent
+level
+narrow
+gloom
+announce
+vacuum
+elite |  
+| bip_39_word_new_line9 | degree
+silent
+level
+narrow
+gloom
+announce
+vacuum
+elite
+endorse |  
+| bip_39_word_space_0 | ['degree', 'silent', 'level', 'narrow', 'gloom', 'announce', 'vacuum', 'elite', 'endorse', 'special', 'van', 'ahead'] |  
+| bip_39_word_space_1 | degree |  
+| bip_39_word_space_10 | degree silent level narrow gloom announce vacuum elite endorse special |  
+| bip_39_word_space_11 | degree silent level narrow gloom announce vacuum elite endorse special van |  
+| bip_39_word_space_12 | degree silent level narrow gloom announce vacuum elite endorse special van ahead |  
+| bip_39_word_space_2 | degree silent |  
+| bip_39_word_space_3 | degree silent level |  
+| bip_39_word_space_4 | degree silent level narrow |  
+| bip_39_word_space_5 | degree silent level narrow gloom |  
+| bip_39_word_space_6 | degree silent level narrow gloom announce |  
+| bip_39_word_space_7 | degree silent level narrow gloom announce vacuum |  
+| bip_39_word_space_8 | degree silent level narrow gloom announce vacuum elite |  
+| bip_39_word_space_9 | degree silent level narrow gloom announce vacuum elite endorse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

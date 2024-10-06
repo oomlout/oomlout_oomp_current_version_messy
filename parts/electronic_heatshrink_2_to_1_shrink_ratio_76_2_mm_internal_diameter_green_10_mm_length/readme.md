@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: awkward dash
+  * bip 39 word 3: awkward dash power
+  * bip 39 word: awkward dash power staff immune evil metal empty fury quality brain athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | awkward |  
+| bip_39_word_new_br10 | awkward<br>dash<br>power<br>staff<br>immune<br>evil<br>metal<br>empty<br>fury<br>quality |  
+| bip_39_word_new_br11 | awkward<br>dash<br>power<br>staff<br>immune<br>evil<br>metal<br>empty<br>fury<br>quality<br>brain |  
+| bip_39_word_new_br12 | awkward<br>dash<br>power<br>staff<br>immune<br>evil<br>metal<br>empty<br>fury<br>quality<br>brain<br>athlete |  
+| bip_39_word_new_br2 | awkward<br>dash |  
+| bip_39_word_new_br3 | awkward<br>dash<br>power |  
+| bip_39_word_new_br4 | awkward<br>dash<br>power<br>staff |  
+| bip_39_word_new_br5 | awkward<br>dash<br>power<br>staff<br>immune |  
+| bip_39_word_new_br6 | awkward<br>dash<br>power<br>staff<br>immune<br>evil |  
+| bip_39_word_new_br7 | awkward<br>dash<br>power<br>staff<br>immune<br>evil<br>metal |  
+| bip_39_word_new_br8 | awkward<br>dash<br>power<br>staff<br>immune<br>evil<br>metal<br>empty |  
+| bip_39_word_new_br9 | awkward<br>dash<br>power<br>staff<br>immune<br>evil<br>metal<br>empty<br>fury |  
+| bip_39_word_new_line1 | awkward |  
+| bip_39_word_new_line10 | awkward
+dash
+power
+staff
+immune
+evil
+metal
+empty
+fury
+quality |  
+| bip_39_word_new_line11 | awkward
+dash
+power
+staff
+immune
+evil
+metal
+empty
+fury
+quality
+brain |  
+| bip_39_word_new_line12 | awkward
+dash
+power
+staff
+immune
+evil
+metal
+empty
+fury
+quality
+brain
+athlete |  
+| bip_39_word_new_line2 | awkward
+dash |  
+| bip_39_word_new_line3 | awkward
+dash
+power |  
+| bip_39_word_new_line4 | awkward
+dash
+power
+staff |  
+| bip_39_word_new_line5 | awkward
+dash
+power
+staff
+immune |  
+| bip_39_word_new_line6 | awkward
+dash
+power
+staff
+immune
+evil |  
+| bip_39_word_new_line7 | awkward
+dash
+power
+staff
+immune
+evil
+metal |  
+| bip_39_word_new_line8 | awkward
+dash
+power
+staff
+immune
+evil
+metal
+empty |  
+| bip_39_word_new_line9 | awkward
+dash
+power
+staff
+immune
+evil
+metal
+empty
+fury |  
+| bip_39_word_space_0 | ['awkward', 'dash', 'power', 'staff', 'immune', 'evil', 'metal', 'empty', 'fury', 'quality', 'brain', 'athlete'] |  
+| bip_39_word_space_1 | awkward |  
+| bip_39_word_space_10 | awkward dash power staff immune evil metal empty fury quality |  
+| bip_39_word_space_11 | awkward dash power staff immune evil metal empty fury quality brain |  
+| bip_39_word_space_12 | awkward dash power staff immune evil metal empty fury quality brain athlete |  
+| bip_39_word_space_2 | awkward dash |  
+| bip_39_word_space_3 | awkward dash power |  
+| bip_39_word_space_4 | awkward dash power staff |  
+| bip_39_word_space_5 | awkward dash power staff immune |  
+| bip_39_word_space_6 | awkward dash power staff immune evil |  
+| bip_39_word_space_7 | awkward dash power staff immune evil metal |  
+| bip_39_word_space_8 | awkward dash power staff immune evil metal empty |  
+| bip_39_word_space_9 | awkward dash power staff immune evil metal empty fury |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

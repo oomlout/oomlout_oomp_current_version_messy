@@ -1,3 +1,185 @@
+bip_39_word_new_br1: pistol
+bip_39_word_new_br10: pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best
+bip_39_word_new_br11: pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best<br>lava
+bip_39_word_new_br12: pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean<br>best<br>lava<br>attack
+bip_39_word_new_br2: pistol<br>obscure
+bip_39_word_new_br3: pistol<br>obscure<br>recall
+bip_39_word_new_br4: pistol<br>obscure<br>recall<br>tool
+bip_39_word_new_br5: pistol<br>obscure<br>recall<br>tool<br>ill
+bip_39_word_new_br6: pistol<br>obscure<br>recall<br>tool<br>ill<br>talk
+bip_39_word_new_br7: pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer
+bip_39_word_new_br8: pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase
+bip_39_word_new_br9: pistol<br>obscure<br>recall<br>tool<br>ill<br>talk<br>offer<br>erase<br>clean
+bip_39_word_new_line1: pistol
+bip_39_word_new_line10: 'pistol
+
+  obscure
+
+  recall
+
+  tool
+
+  ill
+
+  talk
+
+  offer
+
+  erase
+
+  clean
+
+  best'
+bip_39_word_new_line11: 'pistol
+
+  obscure
+
+  recall
+
+  tool
+
+  ill
+
+  talk
+
+  offer
+
+  erase
+
+  clean
+
+  best
+
+  lava'
+bip_39_word_new_line12: 'pistol
+
+  obscure
+
+  recall
+
+  tool
+
+  ill
+
+  talk
+
+  offer
+
+  erase
+
+  clean
+
+  best
+
+  lava
+
+  attack'
+bip_39_word_new_line2: 'pistol
+
+  obscure'
+bip_39_word_new_line3: 'pistol
+
+  obscure
+
+  recall'
+bip_39_word_new_line4: 'pistol
+
+  obscure
+
+  recall
+
+  tool'
+bip_39_word_new_line5: 'pistol
+
+  obscure
+
+  recall
+
+  tool
+
+  ill'
+bip_39_word_new_line6: 'pistol
+
+  obscure
+
+  recall
+
+  tool
+
+  ill
+
+  talk'
+bip_39_word_new_line7: 'pistol
+
+  obscure
+
+  recall
+
+  tool
+
+  ill
+
+  talk
+
+  offer'
+bip_39_word_new_line8: 'pistol
+
+  obscure
+
+  recall
+
+  tool
+
+  ill
+
+  talk
+
+  offer
+
+  erase'
+bip_39_word_new_line9: 'pistol
+
+  obscure
+
+  recall
+
+  tool
+
+  ill
+
+  talk
+
+  offer
+
+  erase
+
+  clean'
+bip_39_word_space_0:
+- pistol
+- obscure
+- recall
+- tool
+- ill
+- talk
+- offer
+- erase
+- clean
+- best
+- lava
+- attack
+bip_39_word_space_1: pistol
+bip_39_word_space_10: pistol obscure recall tool ill talk offer erase clean best
+bip_39_word_space_11: pistol obscure recall tool ill talk offer erase clean best lava
+bip_39_word_space_12: pistol obscure recall tool ill talk offer erase clean best lava
+  attack
+bip_39_word_space_2: pistol obscure
+bip_39_word_space_3: pistol obscure recall
+bip_39_word_space_4: pistol obscure recall tool
+bip_39_word_space_5: pistol obscure recall tool ill
+bip_39_word_space_6: pistol obscure recall tool ill talk
+bip_39_word_space_7: pistol obscure recall tool ill talk offer
+bip_39_word_space_8: pistol obscure recall tool ill talk offer erase
+bip_39_word_space_9: pistol obscure recall tool ill talk offer erase clean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

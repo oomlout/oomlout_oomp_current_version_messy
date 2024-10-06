@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cruise great
+  * bip 39 word 3: cruise great engine
+  * bip 39 word: cruise great engine intact garage stadium promote feed recall extend govern addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cruise |  
+| bip_39_word_new_br10 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium<br>promote<br>feed<br>recall<br>extend |  
+| bip_39_word_new_br11 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium<br>promote<br>feed<br>recall<br>extend<br>govern |  
+| bip_39_word_new_br12 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium<br>promote<br>feed<br>recall<br>extend<br>govern<br>addict |  
+| bip_39_word_new_br2 | cruise<br>great |  
+| bip_39_word_new_br3 | cruise<br>great<br>engine |  
+| bip_39_word_new_br4 | cruise<br>great<br>engine<br>intact |  
+| bip_39_word_new_br5 | cruise<br>great<br>engine<br>intact<br>garage |  
+| bip_39_word_new_br6 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium |  
+| bip_39_word_new_br7 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium<br>promote |  
+| bip_39_word_new_br8 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium<br>promote<br>feed |  
+| bip_39_word_new_br9 | cruise<br>great<br>engine<br>intact<br>garage<br>stadium<br>promote<br>feed<br>recall |  
+| bip_39_word_new_line1 | cruise |  
+| bip_39_word_new_line10 | cruise
+great
+engine
+intact
+garage
+stadium
+promote
+feed
+recall
+extend |  
+| bip_39_word_new_line11 | cruise
+great
+engine
+intact
+garage
+stadium
+promote
+feed
+recall
+extend
+govern |  
+| bip_39_word_new_line12 | cruise
+great
+engine
+intact
+garage
+stadium
+promote
+feed
+recall
+extend
+govern
+addict |  
+| bip_39_word_new_line2 | cruise
+great |  
+| bip_39_word_new_line3 | cruise
+great
+engine |  
+| bip_39_word_new_line4 | cruise
+great
+engine
+intact |  
+| bip_39_word_new_line5 | cruise
+great
+engine
+intact
+garage |  
+| bip_39_word_new_line6 | cruise
+great
+engine
+intact
+garage
+stadium |  
+| bip_39_word_new_line7 | cruise
+great
+engine
+intact
+garage
+stadium
+promote |  
+| bip_39_word_new_line8 | cruise
+great
+engine
+intact
+garage
+stadium
+promote
+feed |  
+| bip_39_word_new_line9 | cruise
+great
+engine
+intact
+garage
+stadium
+promote
+feed
+recall |  
+| bip_39_word_space_0 | ['cruise', 'great', 'engine', 'intact', 'garage', 'stadium', 'promote', 'feed', 'recall', 'extend', 'govern', 'addict'] |  
+| bip_39_word_space_1 | cruise |  
+| bip_39_word_space_10 | cruise great engine intact garage stadium promote feed recall extend |  
+| bip_39_word_space_11 | cruise great engine intact garage stadium promote feed recall extend govern |  
+| bip_39_word_space_12 | cruise great engine intact garage stadium promote feed recall extend govern addict |  
+| bip_39_word_space_2 | cruise great |  
+| bip_39_word_space_3 | cruise great engine |  
+| bip_39_word_space_4 | cruise great engine intact |  
+| bip_39_word_space_5 | cruise great engine intact garage |  
+| bip_39_word_space_6 | cruise great engine intact garage stadium |  
+| bip_39_word_space_7 | cruise great engine intact garage stadium promote |  
+| bip_39_word_space_8 | cruise great engine intact garage stadium promote feed |  
+| bip_39_word_space_9 | cruise great engine intact garage stadium promote feed recall |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

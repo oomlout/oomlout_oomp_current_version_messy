@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cute
+bip_39_word_new_br10: cute<br>tool<br>ancient<br>certain<br>color<br>eye<br>people<br>soccer<br>crucial<br>flower
+bip_39_word_new_br11: cute<br>tool<br>ancient<br>certain<br>color<br>eye<br>people<br>soccer<br>crucial<br>flower<br>among
+bip_39_word_new_br12: cute<br>tool<br>ancient<br>certain<br>color<br>eye<br>people<br>soccer<br>crucial<br>flower<br>among<br>act
+bip_39_word_new_br2: cute<br>tool
+bip_39_word_new_br3: cute<br>tool<br>ancient
+bip_39_word_new_br4: cute<br>tool<br>ancient<br>certain
+bip_39_word_new_br5: cute<br>tool<br>ancient<br>certain<br>color
+bip_39_word_new_br6: cute<br>tool<br>ancient<br>certain<br>color<br>eye
+bip_39_word_new_br7: cute<br>tool<br>ancient<br>certain<br>color<br>eye<br>people
+bip_39_word_new_br8: cute<br>tool<br>ancient<br>certain<br>color<br>eye<br>people<br>soccer
+bip_39_word_new_br9: cute<br>tool<br>ancient<br>certain<br>color<br>eye<br>people<br>soccer<br>crucial
+bip_39_word_new_line1: cute
+bip_39_word_new_line10: 'cute
+
+  tool
+
+  ancient
+
+  certain
+
+  color
+
+  eye
+
+  people
+
+  soccer
+
+  crucial
+
+  flower'
+bip_39_word_new_line11: 'cute
+
+  tool
+
+  ancient
+
+  certain
+
+  color
+
+  eye
+
+  people
+
+  soccer
+
+  crucial
+
+  flower
+
+  among'
+bip_39_word_new_line12: 'cute
+
+  tool
+
+  ancient
+
+  certain
+
+  color
+
+  eye
+
+  people
+
+  soccer
+
+  crucial
+
+  flower
+
+  among
+
+  act'
+bip_39_word_new_line2: 'cute
+
+  tool'
+bip_39_word_new_line3: 'cute
+
+  tool
+
+  ancient'
+bip_39_word_new_line4: 'cute
+
+  tool
+
+  ancient
+
+  certain'
+bip_39_word_new_line5: 'cute
+
+  tool
+
+  ancient
+
+  certain
+
+  color'
+bip_39_word_new_line6: 'cute
+
+  tool
+
+  ancient
+
+  certain
+
+  color
+
+  eye'
+bip_39_word_new_line7: 'cute
+
+  tool
+
+  ancient
+
+  certain
+
+  color
+
+  eye
+
+  people'
+bip_39_word_new_line8: 'cute
+
+  tool
+
+  ancient
+
+  certain
+
+  color
+
+  eye
+
+  people
+
+  soccer'
+bip_39_word_new_line9: 'cute
+
+  tool
+
+  ancient
+
+  certain
+
+  color
+
+  eye
+
+  people
+
+  soccer
+
+  crucial'
+bip_39_word_space_0:
+- cute
+- tool
+- ancient
+- certain
+- color
+- eye
+- people
+- soccer
+- crucial
+- flower
+- among
+- act
+bip_39_word_space_1: cute
+bip_39_word_space_10: cute tool ancient certain color eye people soccer crucial flower
+bip_39_word_space_11: cute tool ancient certain color eye people soccer crucial flower
+  among
+bip_39_word_space_12: cute tool ancient certain color eye people soccer crucial flower
+  among act
+bip_39_word_space_2: cute tool
+bip_39_word_space_3: cute tool ancient
+bip_39_word_space_4: cute tool ancient certain
+bip_39_word_space_5: cute tool ancient certain color
+bip_39_word_space_6: cute tool ancient certain color eye
+bip_39_word_space_7: cute tool ancient certain color eye people
+bip_39_word_space_8: cute tool ancient certain color eye people soccer
+bip_39_word_space_9: cute tool ancient certain color eye people soccer crucial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

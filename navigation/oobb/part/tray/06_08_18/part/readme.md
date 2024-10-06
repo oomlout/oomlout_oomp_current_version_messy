@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: film adult
+  * bip 39 word 3: film adult nurse
+  * bip 39 word: film adult nurse fork pigeon body pool teach awkward museum journey alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | film |  
+| bip_39_word_new_br10 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body<br>pool<br>teach<br>awkward<br>museum |  
+| bip_39_word_new_br11 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body<br>pool<br>teach<br>awkward<br>museum<br>journey |  
+| bip_39_word_new_br12 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body<br>pool<br>teach<br>awkward<br>museum<br>journey<br>alcohol |  
+| bip_39_word_new_br2 | film<br>adult |  
+| bip_39_word_new_br3 | film<br>adult<br>nurse |  
+| bip_39_word_new_br4 | film<br>adult<br>nurse<br>fork |  
+| bip_39_word_new_br5 | film<br>adult<br>nurse<br>fork<br>pigeon |  
+| bip_39_word_new_br6 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body |  
+| bip_39_word_new_br7 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body<br>pool |  
+| bip_39_word_new_br8 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body<br>pool<br>teach |  
+| bip_39_word_new_br9 | film<br>adult<br>nurse<br>fork<br>pigeon<br>body<br>pool<br>teach<br>awkward |  
+| bip_39_word_new_line1 | film |  
+| bip_39_word_new_line10 | film
+adult
+nurse
+fork
+pigeon
+body
+pool
+teach
+awkward
+museum |  
+| bip_39_word_new_line11 | film
+adult
+nurse
+fork
+pigeon
+body
+pool
+teach
+awkward
+museum
+journey |  
+| bip_39_word_new_line12 | film
+adult
+nurse
+fork
+pigeon
+body
+pool
+teach
+awkward
+museum
+journey
+alcohol |  
+| bip_39_word_new_line2 | film
+adult |  
+| bip_39_word_new_line3 | film
+adult
+nurse |  
+| bip_39_word_new_line4 | film
+adult
+nurse
+fork |  
+| bip_39_word_new_line5 | film
+adult
+nurse
+fork
+pigeon |  
+| bip_39_word_new_line6 | film
+adult
+nurse
+fork
+pigeon
+body |  
+| bip_39_word_new_line7 | film
+adult
+nurse
+fork
+pigeon
+body
+pool |  
+| bip_39_word_new_line8 | film
+adult
+nurse
+fork
+pigeon
+body
+pool
+teach |  
+| bip_39_word_new_line9 | film
+adult
+nurse
+fork
+pigeon
+body
+pool
+teach
+awkward |  
+| bip_39_word_space_0 | ['film', 'adult', 'nurse', 'fork', 'pigeon', 'body', 'pool', 'teach', 'awkward', 'museum', 'journey', 'alcohol'] |  
+| bip_39_word_space_1 | film |  
+| bip_39_word_space_10 | film adult nurse fork pigeon body pool teach awkward museum |  
+| bip_39_word_space_11 | film adult nurse fork pigeon body pool teach awkward museum journey |  
+| bip_39_word_space_12 | film adult nurse fork pigeon body pool teach awkward museum journey alcohol |  
+| bip_39_word_space_2 | film adult |  
+| bip_39_word_space_3 | film adult nurse |  
+| bip_39_word_space_4 | film adult nurse fork |  
+| bip_39_word_space_5 | film adult nurse fork pigeon |  
+| bip_39_word_space_6 | film adult nurse fork pigeon body |  
+| bip_39_word_space_7 | film adult nurse fork pigeon body pool |  
+| bip_39_word_space_8 | film adult nurse fork pigeon body pool teach |  
+| bip_39_word_space_9 | film adult nurse fork pigeon body pool teach awkward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

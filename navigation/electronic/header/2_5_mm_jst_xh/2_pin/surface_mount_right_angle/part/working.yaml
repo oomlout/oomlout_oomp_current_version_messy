@@ -1,3 +1,187 @@
+bip_39_word_new_br1: about
+bip_39_word_new_br10: about<br>game<br>excite<br>protect<br>breeze<br>between<br>immense<br>tumble<br>lab<br>umbrella
+bip_39_word_new_br11: about<br>game<br>excite<br>protect<br>breeze<br>between<br>immense<br>tumble<br>lab<br>umbrella<br>whisper
+bip_39_word_new_br12: about<br>game<br>excite<br>protect<br>breeze<br>between<br>immense<br>tumble<br>lab<br>umbrella<br>whisper<br>adult
+bip_39_word_new_br2: about<br>game
+bip_39_word_new_br3: about<br>game<br>excite
+bip_39_word_new_br4: about<br>game<br>excite<br>protect
+bip_39_word_new_br5: about<br>game<br>excite<br>protect<br>breeze
+bip_39_word_new_br6: about<br>game<br>excite<br>protect<br>breeze<br>between
+bip_39_word_new_br7: about<br>game<br>excite<br>protect<br>breeze<br>between<br>immense
+bip_39_word_new_br8: about<br>game<br>excite<br>protect<br>breeze<br>between<br>immense<br>tumble
+bip_39_word_new_br9: about<br>game<br>excite<br>protect<br>breeze<br>between<br>immense<br>tumble<br>lab
+bip_39_word_new_line1: about
+bip_39_word_new_line10: 'about
+
+  game
+
+  excite
+
+  protect
+
+  breeze
+
+  between
+
+  immense
+
+  tumble
+
+  lab
+
+  umbrella'
+bip_39_word_new_line11: 'about
+
+  game
+
+  excite
+
+  protect
+
+  breeze
+
+  between
+
+  immense
+
+  tumble
+
+  lab
+
+  umbrella
+
+  whisper'
+bip_39_word_new_line12: 'about
+
+  game
+
+  excite
+
+  protect
+
+  breeze
+
+  between
+
+  immense
+
+  tumble
+
+  lab
+
+  umbrella
+
+  whisper
+
+  adult'
+bip_39_word_new_line2: 'about
+
+  game'
+bip_39_word_new_line3: 'about
+
+  game
+
+  excite'
+bip_39_word_new_line4: 'about
+
+  game
+
+  excite
+
+  protect'
+bip_39_word_new_line5: 'about
+
+  game
+
+  excite
+
+  protect
+
+  breeze'
+bip_39_word_new_line6: 'about
+
+  game
+
+  excite
+
+  protect
+
+  breeze
+
+  between'
+bip_39_word_new_line7: 'about
+
+  game
+
+  excite
+
+  protect
+
+  breeze
+
+  between
+
+  immense'
+bip_39_word_new_line8: 'about
+
+  game
+
+  excite
+
+  protect
+
+  breeze
+
+  between
+
+  immense
+
+  tumble'
+bip_39_word_new_line9: 'about
+
+  game
+
+  excite
+
+  protect
+
+  breeze
+
+  between
+
+  immense
+
+  tumble
+
+  lab'
+bip_39_word_space_0:
+- about
+- game
+- excite
+- protect
+- breeze
+- between
+- immense
+- tumble
+- lab
+- umbrella
+- whisper
+- adult
+bip_39_word_space_1: about
+bip_39_word_space_10: about game excite protect breeze between immense tumble lab
+  umbrella
+bip_39_word_space_11: about game excite protect breeze between immense tumble lab
+  umbrella whisper
+bip_39_word_space_12: about game excite protect breeze between immense tumble lab
+  umbrella whisper adult
+bip_39_word_space_2: about game
+bip_39_word_space_3: about game excite
+bip_39_word_space_4: about game excite protect
+bip_39_word_space_5: about game excite protect breeze
+bip_39_word_space_6: about game excite protect breeze between
+bip_39_word_space_7: about game excite protect breeze between immense
+bip_39_word_space_8: about game excite protect breeze between immense tumble
+bip_39_word_space_9: about game excite protect breeze between immense tumble lab
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: innocent
+bip_39_word_new_br10: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define<br>method
+bip_39_word_new_br11: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define<br>method<br>clump
+bip_39_word_new_br12: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define<br>method<br>clump<br>avocado
+bip_39_word_new_br2: innocent<br>swing
+bip_39_word_new_br3: innocent<br>swing<br>eye
+bip_39_word_new_br4: innocent<br>swing<br>eye<br>cheese
+bip_39_word_new_br5: innocent<br>swing<br>eye<br>cheese<br>false
+bip_39_word_new_br6: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs
+bip_39_word_new_br7: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray
+bip_39_word_new_br8: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple
+bip_39_word_new_br9: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define
+bip_39_word_new_line1: innocent
+bip_39_word_new_line10: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple
+
+  define
+
+  method'
+bip_39_word_new_line11: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple
+
+  define
+
+  method
+
+  clump'
+bip_39_word_new_line12: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple
+
+  define
+
+  method
+
+  clump
+
+  avocado'
+bip_39_word_new_line2: 'innocent
+
+  swing'
+bip_39_word_new_line3: 'innocent
+
+  swing
+
+  eye'
+bip_39_word_new_line4: 'innocent
+
+  swing
+
+  eye
+
+  cheese'
+bip_39_word_new_line5: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false'
+bip_39_word_new_line6: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs'
+bip_39_word_new_line7: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray'
+bip_39_word_new_line8: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple'
+bip_39_word_new_line9: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple
+
+  define'
+bip_39_word_space_0:
+- innocent
+- swing
+- eye
+- cheese
+- 'false'
+- stairs
+- spray
+- maple
+- define
+- method
+- clump
+- avocado
+bip_39_word_space_1: innocent
+bip_39_word_space_10: innocent swing eye cheese false stairs spray maple define method
+bip_39_word_space_11: innocent swing eye cheese false stairs spray maple define method
+  clump
+bip_39_word_space_12: innocent swing eye cheese false stairs spray maple define method
+  clump avocado
+bip_39_word_space_2: innocent swing
+bip_39_word_space_3: innocent swing eye
+bip_39_word_space_4: innocent swing eye cheese
+bip_39_word_space_5: innocent swing eye cheese false
+bip_39_word_space_6: innocent swing eye cheese false stairs
+bip_39_word_space_7: innocent swing eye cheese false stairs spray
+bip_39_word_space_8: innocent swing eye cheese false stairs spray maple
+bip_39_word_space_9: innocent swing eye cheese false stairs spray maple define
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

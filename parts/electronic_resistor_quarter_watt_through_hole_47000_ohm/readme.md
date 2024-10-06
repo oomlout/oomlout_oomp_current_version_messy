@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bulk bleak
+  * bip 39 word 3: bulk bleak crumble
+  * bip 39 word: bulk bleak crumble quit assault venue gadget carry charge tag prison auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bulk |  
+| bip_39_word_new_br10 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge<br>tag |  
+| bip_39_word_new_br11 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge<br>tag<br>prison |  
+| bip_39_word_new_br12 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge<br>tag<br>prison<br>auto |  
+| bip_39_word_new_br2 | bulk<br>bleak |  
+| bip_39_word_new_br3 | bulk<br>bleak<br>crumble |  
+| bip_39_word_new_br4 | bulk<br>bleak<br>crumble<br>quit |  
+| bip_39_word_new_br5 | bulk<br>bleak<br>crumble<br>quit<br>assault |  
+| bip_39_word_new_br6 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue |  
+| bip_39_word_new_br7 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget |  
+| bip_39_word_new_br8 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry |  
+| bip_39_word_new_br9 | bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge |  
+| bip_39_word_new_line1 | bulk |  
+| bip_39_word_new_line10 | bulk
+bleak
+crumble
+quit
+assault
+venue
+gadget
+carry
+charge
+tag |  
+| bip_39_word_new_line11 | bulk
+bleak
+crumble
+quit
+assault
+venue
+gadget
+carry
+charge
+tag
+prison |  
+| bip_39_word_new_line12 | bulk
+bleak
+crumble
+quit
+assault
+venue
+gadget
+carry
+charge
+tag
+prison
+auto |  
+| bip_39_word_new_line2 | bulk
+bleak |  
+| bip_39_word_new_line3 | bulk
+bleak
+crumble |  
+| bip_39_word_new_line4 | bulk
+bleak
+crumble
+quit |  
+| bip_39_word_new_line5 | bulk
+bleak
+crumble
+quit
+assault |  
+| bip_39_word_new_line6 | bulk
+bleak
+crumble
+quit
+assault
+venue |  
+| bip_39_word_new_line7 | bulk
+bleak
+crumble
+quit
+assault
+venue
+gadget |  
+| bip_39_word_new_line8 | bulk
+bleak
+crumble
+quit
+assault
+venue
+gadget
+carry |  
+| bip_39_word_new_line9 | bulk
+bleak
+crumble
+quit
+assault
+venue
+gadget
+carry
+charge |  
+| bip_39_word_space_0 | ['bulk', 'bleak', 'crumble', 'quit', 'assault', 'venue', 'gadget', 'carry', 'charge', 'tag', 'prison', 'auto'] |  
+| bip_39_word_space_1 | bulk |  
+| bip_39_word_space_10 | bulk bleak crumble quit assault venue gadget carry charge tag |  
+| bip_39_word_space_11 | bulk bleak crumble quit assault venue gadget carry charge tag prison |  
+| bip_39_word_space_12 | bulk bleak crumble quit assault venue gadget carry charge tag prison auto |  
+| bip_39_word_space_2 | bulk bleak |  
+| bip_39_word_space_3 | bulk bleak crumble |  
+| bip_39_word_space_4 | bulk bleak crumble quit |  
+| bip_39_word_space_5 | bulk bleak crumble quit assault |  
+| bip_39_word_space_6 | bulk bleak crumble quit assault venue |  
+| bip_39_word_space_7 | bulk bleak crumble quit assault venue gadget |  
+| bip_39_word_space_8 | bulk bleak crumble quit assault venue gadget carry |  
+| bip_39_word_space_9 | bulk bleak crumble quit assault venue gadget carry charge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

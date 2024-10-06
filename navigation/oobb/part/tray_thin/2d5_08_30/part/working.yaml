@@ -1,3 +1,187 @@
+bip_39_word_new_br1: donkey
+bip_39_word_new_br10: donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life
+bip_39_word_new_br11: donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life<br>bench
+bip_39_word_new_br12: donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major<br>life<br>bench<br>agent
+bip_39_word_new_br2: donkey<br>enemy
+bip_39_word_new_br3: donkey<br>enemy<br>whisper
+bip_39_word_new_br4: donkey<br>enemy<br>whisper<br>champion
+bip_39_word_new_br5: donkey<br>enemy<br>whisper<br>champion<br>differ
+bip_39_word_new_br6: donkey<br>enemy<br>whisper<br>champion<br>differ<br>market
+bip_39_word_new_br7: donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom
+bip_39_word_new_br8: donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim
+bip_39_word_new_br9: donkey<br>enemy<br>whisper<br>champion<br>differ<br>market<br>wisdom<br>slim<br>major
+bip_39_word_new_line1: donkey
+bip_39_word_new_line10: 'donkey
+
+  enemy
+
+  whisper
+
+  champion
+
+  differ
+
+  market
+
+  wisdom
+
+  slim
+
+  major
+
+  life'
+bip_39_word_new_line11: 'donkey
+
+  enemy
+
+  whisper
+
+  champion
+
+  differ
+
+  market
+
+  wisdom
+
+  slim
+
+  major
+
+  life
+
+  bench'
+bip_39_word_new_line12: 'donkey
+
+  enemy
+
+  whisper
+
+  champion
+
+  differ
+
+  market
+
+  wisdom
+
+  slim
+
+  major
+
+  life
+
+  bench
+
+  agent'
+bip_39_word_new_line2: 'donkey
+
+  enemy'
+bip_39_word_new_line3: 'donkey
+
+  enemy
+
+  whisper'
+bip_39_word_new_line4: 'donkey
+
+  enemy
+
+  whisper
+
+  champion'
+bip_39_word_new_line5: 'donkey
+
+  enemy
+
+  whisper
+
+  champion
+
+  differ'
+bip_39_word_new_line6: 'donkey
+
+  enemy
+
+  whisper
+
+  champion
+
+  differ
+
+  market'
+bip_39_word_new_line7: 'donkey
+
+  enemy
+
+  whisper
+
+  champion
+
+  differ
+
+  market
+
+  wisdom'
+bip_39_word_new_line8: 'donkey
+
+  enemy
+
+  whisper
+
+  champion
+
+  differ
+
+  market
+
+  wisdom
+
+  slim'
+bip_39_word_new_line9: 'donkey
+
+  enemy
+
+  whisper
+
+  champion
+
+  differ
+
+  market
+
+  wisdom
+
+  slim
+
+  major'
+bip_39_word_space_0:
+- donkey
+- enemy
+- whisper
+- champion
+- differ
+- market
+- wisdom
+- slim
+- major
+- life
+- bench
+- agent
+bip_39_word_space_1: donkey
+bip_39_word_space_10: donkey enemy whisper champion differ market wisdom slim major
+  life
+bip_39_word_space_11: donkey enemy whisper champion differ market wisdom slim major
+  life bench
+bip_39_word_space_12: donkey enemy whisper champion differ market wisdom slim major
+  life bench agent
+bip_39_word_space_2: donkey enemy
+bip_39_word_space_3: donkey enemy whisper
+bip_39_word_space_4: donkey enemy whisper champion
+bip_39_word_space_5: donkey enemy whisper champion differ
+bip_39_word_space_6: donkey enemy whisper champion differ market
+bip_39_word_space_7: donkey enemy whisper champion differ market wisdom
+bip_39_word_space_8: donkey enemy whisper champion differ market wisdom slim
+bip_39_word_space_9: donkey enemy whisper champion differ market wisdom slim major
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mix endorse
+  * bip 39 word 3: mix endorse witness
+  * bip 39 word: mix endorse witness raccoon close drastic muffin step stumble nest robust annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mix |  
+| bip_39_word_new_br10 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest |  
+| bip_39_word_new_br11 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest<br>robust |  
+| bip_39_word_new_br12 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble<br>nest<br>robust<br>annual |  
+| bip_39_word_new_br2 | mix<br>endorse |  
+| bip_39_word_new_br3 | mix<br>endorse<br>witness |  
+| bip_39_word_new_br4 | mix<br>endorse<br>witness<br>raccoon |  
+| bip_39_word_new_br5 | mix<br>endorse<br>witness<br>raccoon<br>close |  
+| bip_39_word_new_br6 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic |  
+| bip_39_word_new_br7 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin |  
+| bip_39_word_new_br8 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step |  
+| bip_39_word_new_br9 | mix<br>endorse<br>witness<br>raccoon<br>close<br>drastic<br>muffin<br>step<br>stumble |  
+| bip_39_word_new_line1 | mix |  
+| bip_39_word_new_line10 | mix
+endorse
+witness
+raccoon
+close
+drastic
+muffin
+step
+stumble
+nest |  
+| bip_39_word_new_line11 | mix
+endorse
+witness
+raccoon
+close
+drastic
+muffin
+step
+stumble
+nest
+robust |  
+| bip_39_word_new_line12 | mix
+endorse
+witness
+raccoon
+close
+drastic
+muffin
+step
+stumble
+nest
+robust
+annual |  
+| bip_39_word_new_line2 | mix
+endorse |  
+| bip_39_word_new_line3 | mix
+endorse
+witness |  
+| bip_39_word_new_line4 | mix
+endorse
+witness
+raccoon |  
+| bip_39_word_new_line5 | mix
+endorse
+witness
+raccoon
+close |  
+| bip_39_word_new_line6 | mix
+endorse
+witness
+raccoon
+close
+drastic |  
+| bip_39_word_new_line7 | mix
+endorse
+witness
+raccoon
+close
+drastic
+muffin |  
+| bip_39_word_new_line8 | mix
+endorse
+witness
+raccoon
+close
+drastic
+muffin
+step |  
+| bip_39_word_new_line9 | mix
+endorse
+witness
+raccoon
+close
+drastic
+muffin
+step
+stumble |  
+| bip_39_word_space_0 | ['mix', 'endorse', 'witness', 'raccoon', 'close', 'drastic', 'muffin', 'step', 'stumble', 'nest', 'robust', 'annual'] |  
+| bip_39_word_space_1 | mix |  
+| bip_39_word_space_10 | mix endorse witness raccoon close drastic muffin step stumble nest |  
+| bip_39_word_space_11 | mix endorse witness raccoon close drastic muffin step stumble nest robust |  
+| bip_39_word_space_12 | mix endorse witness raccoon close drastic muffin step stumble nest robust annual |  
+| bip_39_word_space_2 | mix endorse |  
+| bip_39_word_space_3 | mix endorse witness |  
+| bip_39_word_space_4 | mix endorse witness raccoon |  
+| bip_39_word_space_5 | mix endorse witness raccoon close |  
+| bip_39_word_space_6 | mix endorse witness raccoon close drastic |  
+| bip_39_word_space_7 | mix endorse witness raccoon close drastic muffin |  
+| bip_39_word_space_8 | mix endorse witness raccoon close drastic muffin step |  
+| bip_39_word_space_9 | mix endorse witness raccoon close drastic muffin step stumble |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: seed mushroom
+  * bip 39 word 3: seed mushroom april
+  * bip 39 word: seed mushroom april device poverty under ostrich inspire agree action just any
 
 ### other_codes
 * short_code: ss3m8
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | seed |  
+| bip_39_word_new_br10 | seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire<br>agree<br>action |  
+| bip_39_word_new_br11 | seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire<br>agree<br>action<br>just |  
+| bip_39_word_new_br12 | seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire<br>agree<br>action<br>just<br>any |  
+| bip_39_word_new_br2 | seed<br>mushroom |  
+| bip_39_word_new_br3 | seed<br>mushroom<br>april |  
+| bip_39_word_new_br4 | seed<br>mushroom<br>april<br>device |  
+| bip_39_word_new_br5 | seed<br>mushroom<br>april<br>device<br>poverty |  
+| bip_39_word_new_br6 | seed<br>mushroom<br>april<br>device<br>poverty<br>under |  
+| bip_39_word_new_br7 | seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich |  
+| bip_39_word_new_br8 | seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire |  
+| bip_39_word_new_br9 | seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire<br>agree |  
+| bip_39_word_new_line1 | seed |  
+| bip_39_word_new_line10 | seed
+mushroom
+april
+device
+poverty
+under
+ostrich
+inspire
+agree
+action |  
+| bip_39_word_new_line11 | seed
+mushroom
+april
+device
+poverty
+under
+ostrich
+inspire
+agree
+action
+just |  
+| bip_39_word_new_line12 | seed
+mushroom
+april
+device
+poverty
+under
+ostrich
+inspire
+agree
+action
+just
+any |  
+| bip_39_word_new_line2 | seed
+mushroom |  
+| bip_39_word_new_line3 | seed
+mushroom
+april |  
+| bip_39_word_new_line4 | seed
+mushroom
+april
+device |  
+| bip_39_word_new_line5 | seed
+mushroom
+april
+device
+poverty |  
+| bip_39_word_new_line6 | seed
+mushroom
+april
+device
+poverty
+under |  
+| bip_39_word_new_line7 | seed
+mushroom
+april
+device
+poverty
+under
+ostrich |  
+| bip_39_word_new_line8 | seed
+mushroom
+april
+device
+poverty
+under
+ostrich
+inspire |  
+| bip_39_word_new_line9 | seed
+mushroom
+april
+device
+poverty
+under
+ostrich
+inspire
+agree |  
+| bip_39_word_space_0 | ['seed', 'mushroom', 'april', 'device', 'poverty', 'under', 'ostrich', 'inspire', 'agree', 'action', 'just', 'any'] |  
+| bip_39_word_space_1 | seed |  
+| bip_39_word_space_10 | seed mushroom april device poverty under ostrich inspire agree action |  
+| bip_39_word_space_11 | seed mushroom april device poverty under ostrich inspire agree action just |  
+| bip_39_word_space_12 | seed mushroom april device poverty under ostrich inspire agree action just any |  
+| bip_39_word_space_2 | seed mushroom |  
+| bip_39_word_space_3 | seed mushroom april |  
+| bip_39_word_space_4 | seed mushroom april device |  
+| bip_39_word_space_5 | seed mushroom april device poverty |  
+| bip_39_word_space_6 | seed mushroom april device poverty under |  
+| bip_39_word_space_7 | seed mushroom april device poverty under ostrich |  
+| bip_39_word_space_8 | seed mushroom april device poverty under ostrich inspire |  
+| bip_39_word_space_9 | seed mushroom april device poverty under ostrich inspire agree |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

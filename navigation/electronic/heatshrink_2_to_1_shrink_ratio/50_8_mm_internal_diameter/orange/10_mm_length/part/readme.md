@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wheat hover
+  * bip 39 word 3: wheat hover panther
+  * bip 39 word: wheat hover panther arena solid search stem accident sauce arena error ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wheat |  
+| bip_39_word_new_br10 | wheat<br>hover<br>panther<br>arena<br>solid<br>search<br>stem<br>accident<br>sauce<br>arena |  
+| bip_39_word_new_br11 | wheat<br>hover<br>panther<br>arena<br>solid<br>search<br>stem<br>accident<br>sauce<br>arena<br>error |  
+| bip_39_word_new_br12 | wheat<br>hover<br>panther<br>arena<br>solid<br>search<br>stem<br>accident<br>sauce<br>arena<br>error<br>ankle |  
+| bip_39_word_new_br2 | wheat<br>hover |  
+| bip_39_word_new_br3 | wheat<br>hover<br>panther |  
+| bip_39_word_new_br4 | wheat<br>hover<br>panther<br>arena |  
+| bip_39_word_new_br5 | wheat<br>hover<br>panther<br>arena<br>solid |  
+| bip_39_word_new_br6 | wheat<br>hover<br>panther<br>arena<br>solid<br>search |  
+| bip_39_word_new_br7 | wheat<br>hover<br>panther<br>arena<br>solid<br>search<br>stem |  
+| bip_39_word_new_br8 | wheat<br>hover<br>panther<br>arena<br>solid<br>search<br>stem<br>accident |  
+| bip_39_word_new_br9 | wheat<br>hover<br>panther<br>arena<br>solid<br>search<br>stem<br>accident<br>sauce |  
+| bip_39_word_new_line1 | wheat |  
+| bip_39_word_new_line10 | wheat
+hover
+panther
+arena
+solid
+search
+stem
+accident
+sauce
+arena |  
+| bip_39_word_new_line11 | wheat
+hover
+panther
+arena
+solid
+search
+stem
+accident
+sauce
+arena
+error |  
+| bip_39_word_new_line12 | wheat
+hover
+panther
+arena
+solid
+search
+stem
+accident
+sauce
+arena
+error
+ankle |  
+| bip_39_word_new_line2 | wheat
+hover |  
+| bip_39_word_new_line3 | wheat
+hover
+panther |  
+| bip_39_word_new_line4 | wheat
+hover
+panther
+arena |  
+| bip_39_word_new_line5 | wheat
+hover
+panther
+arena
+solid |  
+| bip_39_word_new_line6 | wheat
+hover
+panther
+arena
+solid
+search |  
+| bip_39_word_new_line7 | wheat
+hover
+panther
+arena
+solid
+search
+stem |  
+| bip_39_word_new_line8 | wheat
+hover
+panther
+arena
+solid
+search
+stem
+accident |  
+| bip_39_word_new_line9 | wheat
+hover
+panther
+arena
+solid
+search
+stem
+accident
+sauce |  
+| bip_39_word_space_0 | ['wheat', 'hover', 'panther', 'arena', 'solid', 'search', 'stem', 'accident', 'sauce', 'arena', 'error', 'ankle'] |  
+| bip_39_word_space_1 | wheat |  
+| bip_39_word_space_10 | wheat hover panther arena solid search stem accident sauce arena |  
+| bip_39_word_space_11 | wheat hover panther arena solid search stem accident sauce arena error |  
+| bip_39_word_space_12 | wheat hover panther arena solid search stem accident sauce arena error ankle |  
+| bip_39_word_space_2 | wheat hover |  
+| bip_39_word_space_3 | wheat hover panther |  
+| bip_39_word_space_4 | wheat hover panther arena |  
+| bip_39_word_space_5 | wheat hover panther arena solid |  
+| bip_39_word_space_6 | wheat hover panther arena solid search |  
+| bip_39_word_space_7 | wheat hover panther arena solid search stem |  
+| bip_39_word_space_8 | wheat hover panther arena solid search stem accident |  
+| bip_39_word_space_9 | wheat hover panther arena solid search stem accident sauce |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

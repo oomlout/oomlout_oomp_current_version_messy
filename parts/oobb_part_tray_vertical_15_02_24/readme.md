@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: range dice
+  * bip 39 word 3: range dice bus
+  * bip 39 word: range dice bus glove genius patch subway obvious trust barrel injury add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | range |  
+| bip_39_word_new_br10 | range<br>dice<br>bus<br>glove<br>genius<br>patch<br>subway<br>obvious<br>trust<br>barrel |  
+| bip_39_word_new_br11 | range<br>dice<br>bus<br>glove<br>genius<br>patch<br>subway<br>obvious<br>trust<br>barrel<br>injury |  
+| bip_39_word_new_br12 | range<br>dice<br>bus<br>glove<br>genius<br>patch<br>subway<br>obvious<br>trust<br>barrel<br>injury<br>add |  
+| bip_39_word_new_br2 | range<br>dice |  
+| bip_39_word_new_br3 | range<br>dice<br>bus |  
+| bip_39_word_new_br4 | range<br>dice<br>bus<br>glove |  
+| bip_39_word_new_br5 | range<br>dice<br>bus<br>glove<br>genius |  
+| bip_39_word_new_br6 | range<br>dice<br>bus<br>glove<br>genius<br>patch |  
+| bip_39_word_new_br7 | range<br>dice<br>bus<br>glove<br>genius<br>patch<br>subway |  
+| bip_39_word_new_br8 | range<br>dice<br>bus<br>glove<br>genius<br>patch<br>subway<br>obvious |  
+| bip_39_word_new_br9 | range<br>dice<br>bus<br>glove<br>genius<br>patch<br>subway<br>obvious<br>trust |  
+| bip_39_word_new_line1 | range |  
+| bip_39_word_new_line10 | range
+dice
+bus
+glove
+genius
+patch
+subway
+obvious
+trust
+barrel |  
+| bip_39_word_new_line11 | range
+dice
+bus
+glove
+genius
+patch
+subway
+obvious
+trust
+barrel
+injury |  
+| bip_39_word_new_line12 | range
+dice
+bus
+glove
+genius
+patch
+subway
+obvious
+trust
+barrel
+injury
+add |  
+| bip_39_word_new_line2 | range
+dice |  
+| bip_39_word_new_line3 | range
+dice
+bus |  
+| bip_39_word_new_line4 | range
+dice
+bus
+glove |  
+| bip_39_word_new_line5 | range
+dice
+bus
+glove
+genius |  
+| bip_39_word_new_line6 | range
+dice
+bus
+glove
+genius
+patch |  
+| bip_39_word_new_line7 | range
+dice
+bus
+glove
+genius
+patch
+subway |  
+| bip_39_word_new_line8 | range
+dice
+bus
+glove
+genius
+patch
+subway
+obvious |  
+| bip_39_word_new_line9 | range
+dice
+bus
+glove
+genius
+patch
+subway
+obvious
+trust |  
+| bip_39_word_space_0 | ['range', 'dice', 'bus', 'glove', 'genius', 'patch', 'subway', 'obvious', 'trust', 'barrel', 'injury', 'add'] |  
+| bip_39_word_space_1 | range |  
+| bip_39_word_space_10 | range dice bus glove genius patch subway obvious trust barrel |  
+| bip_39_word_space_11 | range dice bus glove genius patch subway obvious trust barrel injury |  
+| bip_39_word_space_12 | range dice bus glove genius patch subway obvious trust barrel injury add |  
+| bip_39_word_space_2 | range dice |  
+| bip_39_word_space_3 | range dice bus |  
+| bip_39_word_space_4 | range dice bus glove |  
+| bip_39_word_space_5 | range dice bus glove genius |  
+| bip_39_word_space_6 | range dice bus glove genius patch |  
+| bip_39_word_space_7 | range dice bus glove genius patch subway |  
+| bip_39_word_space_8 | range dice bus glove genius patch subway obvious |  
+| bip_39_word_space_9 | range dice bus glove genius patch subway obvious trust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chair ski
+  * bip 39 word 3: chair ski admit
+  * bip 39 word: chair ski admit light unhappy siege play happy open crush excess artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chair |  
+| bip_39_word_new_br10 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush |  
+| bip_39_word_new_br11 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush<br>excess |  
+| bip_39_word_new_br12 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open<br>crush<br>excess<br>artefact |  
+| bip_39_word_new_br2 | chair<br>ski |  
+| bip_39_word_new_br3 | chair<br>ski<br>admit |  
+| bip_39_word_new_br4 | chair<br>ski<br>admit<br>light |  
+| bip_39_word_new_br5 | chair<br>ski<br>admit<br>light<br>unhappy |  
+| bip_39_word_new_br6 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege |  
+| bip_39_word_new_br7 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play |  
+| bip_39_word_new_br8 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy |  
+| bip_39_word_new_br9 | chair<br>ski<br>admit<br>light<br>unhappy<br>siege<br>play<br>happy<br>open |  
+| bip_39_word_new_line1 | chair |  
+| bip_39_word_new_line10 | chair
+ski
+admit
+light
+unhappy
+siege
+play
+happy
+open
+crush |  
+| bip_39_word_new_line11 | chair
+ski
+admit
+light
+unhappy
+siege
+play
+happy
+open
+crush
+excess |  
+| bip_39_word_new_line12 | chair
+ski
+admit
+light
+unhappy
+siege
+play
+happy
+open
+crush
+excess
+artefact |  
+| bip_39_word_new_line2 | chair
+ski |  
+| bip_39_word_new_line3 | chair
+ski
+admit |  
+| bip_39_word_new_line4 | chair
+ski
+admit
+light |  
+| bip_39_word_new_line5 | chair
+ski
+admit
+light
+unhappy |  
+| bip_39_word_new_line6 | chair
+ski
+admit
+light
+unhappy
+siege |  
+| bip_39_word_new_line7 | chair
+ski
+admit
+light
+unhappy
+siege
+play |  
+| bip_39_word_new_line8 | chair
+ski
+admit
+light
+unhappy
+siege
+play
+happy |  
+| bip_39_word_new_line9 | chair
+ski
+admit
+light
+unhappy
+siege
+play
+happy
+open |  
+| bip_39_word_space_0 | ['chair', 'ski', 'admit', 'light', 'unhappy', 'siege', 'play', 'happy', 'open', 'crush', 'excess', 'artefact'] |  
+| bip_39_word_space_1 | chair |  
+| bip_39_word_space_10 | chair ski admit light unhappy siege play happy open crush |  
+| bip_39_word_space_11 | chair ski admit light unhappy siege play happy open crush excess |  
+| bip_39_word_space_12 | chair ski admit light unhappy siege play happy open crush excess artefact |  
+| bip_39_word_space_2 | chair ski |  
+| bip_39_word_space_3 | chair ski admit |  
+| bip_39_word_space_4 | chair ski admit light |  
+| bip_39_word_space_5 | chair ski admit light unhappy |  
+| bip_39_word_space_6 | chair ski admit light unhappy siege |  
+| bip_39_word_space_7 | chair ski admit light unhappy siege play |  
+| bip_39_word_space_8 | chair ski admit light unhappy siege play happy |  
+| bip_39_word_space_9 | chair ski admit light unhappy siege play happy open |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

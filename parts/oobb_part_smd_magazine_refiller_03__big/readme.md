@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: big
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lake track
+  * bip 39 word 3: lake track found
+  * bip 39 word: lake track found hobby talent planet casino logic stomach unable brown art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lake |  
+| bip_39_word_new_br10 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable |  
+| bip_39_word_new_br11 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable<br>brown |  
+| bip_39_word_new_br12 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach<br>unable<br>brown<br>art |  
+| bip_39_word_new_br2 | lake<br>track |  
+| bip_39_word_new_br3 | lake<br>track<br>found |  
+| bip_39_word_new_br4 | lake<br>track<br>found<br>hobby |  
+| bip_39_word_new_br5 | lake<br>track<br>found<br>hobby<br>talent |  
+| bip_39_word_new_br6 | lake<br>track<br>found<br>hobby<br>talent<br>planet |  
+| bip_39_word_new_br7 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino |  
+| bip_39_word_new_br8 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic |  
+| bip_39_word_new_br9 | lake<br>track<br>found<br>hobby<br>talent<br>planet<br>casino<br>logic<br>stomach |  
+| bip_39_word_new_line1 | lake |  
+| bip_39_word_new_line10 | lake
+track
+found
+hobby
+talent
+planet
+casino
+logic
+stomach
+unable |  
+| bip_39_word_new_line11 | lake
+track
+found
+hobby
+talent
+planet
+casino
+logic
+stomach
+unable
+brown |  
+| bip_39_word_new_line12 | lake
+track
+found
+hobby
+talent
+planet
+casino
+logic
+stomach
+unable
+brown
+art |  
+| bip_39_word_new_line2 | lake
+track |  
+| bip_39_word_new_line3 | lake
+track
+found |  
+| bip_39_word_new_line4 | lake
+track
+found
+hobby |  
+| bip_39_word_new_line5 | lake
+track
+found
+hobby
+talent |  
+| bip_39_word_new_line6 | lake
+track
+found
+hobby
+talent
+planet |  
+| bip_39_word_new_line7 | lake
+track
+found
+hobby
+talent
+planet
+casino |  
+| bip_39_word_new_line8 | lake
+track
+found
+hobby
+talent
+planet
+casino
+logic |  
+| bip_39_word_new_line9 | lake
+track
+found
+hobby
+talent
+planet
+casino
+logic
+stomach |  
+| bip_39_word_space_0 | ['lake', 'track', 'found', 'hobby', 'talent', 'planet', 'casino', 'logic', 'stomach', 'unable', 'brown', 'art'] |  
+| bip_39_word_space_1 | lake |  
+| bip_39_word_space_10 | lake track found hobby talent planet casino logic stomach unable |  
+| bip_39_word_space_11 | lake track found hobby talent planet casino logic stomach unable brown |  
+| bip_39_word_space_12 | lake track found hobby talent planet casino logic stomach unable brown art |  
+| bip_39_word_space_2 | lake track |  
+| bip_39_word_space_3 | lake track found |  
+| bip_39_word_space_4 | lake track found hobby |  
+| bip_39_word_space_5 | lake track found hobby talent |  
+| bip_39_word_space_6 | lake track found hobby talent planet |  
+| bip_39_word_space_7 | lake track found hobby talent planet casino |  
+| bip_39_word_space_8 | lake track found hobby talent planet casino logic |  
+| bip_39_word_space_9 | lake track found hobby talent planet casino logic stomach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

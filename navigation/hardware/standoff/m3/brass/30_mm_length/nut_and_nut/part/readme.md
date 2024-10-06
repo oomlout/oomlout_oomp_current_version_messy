@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cloud critic
+  * bip 39 word 3: cloud critic romance
+  * bip 39 word: cloud critic romance cliff foot spatial brush boil nothing bunker enforce alien
 
 ### other_codes
 * short_code: so3br30nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cloud |  
+| bip_39_word_new_br10 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing<br>bunker |  
+| bip_39_word_new_br11 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing<br>bunker<br>enforce |  
+| bip_39_word_new_br12 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing<br>bunker<br>enforce<br>alien |  
+| bip_39_word_new_br2 | cloud<br>critic |  
+| bip_39_word_new_br3 | cloud<br>critic<br>romance |  
+| bip_39_word_new_br4 | cloud<br>critic<br>romance<br>cliff |  
+| bip_39_word_new_br5 | cloud<br>critic<br>romance<br>cliff<br>foot |  
+| bip_39_word_new_br6 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial |  
+| bip_39_word_new_br7 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush |  
+| bip_39_word_new_br8 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil |  
+| bip_39_word_new_br9 | cloud<br>critic<br>romance<br>cliff<br>foot<br>spatial<br>brush<br>boil<br>nothing |  
+| bip_39_word_new_line1 | cloud |  
+| bip_39_word_new_line10 | cloud
+critic
+romance
+cliff
+foot
+spatial
+brush
+boil
+nothing
+bunker |  
+| bip_39_word_new_line11 | cloud
+critic
+romance
+cliff
+foot
+spatial
+brush
+boil
+nothing
+bunker
+enforce |  
+| bip_39_word_new_line12 | cloud
+critic
+romance
+cliff
+foot
+spatial
+brush
+boil
+nothing
+bunker
+enforce
+alien |  
+| bip_39_word_new_line2 | cloud
+critic |  
+| bip_39_word_new_line3 | cloud
+critic
+romance |  
+| bip_39_word_new_line4 | cloud
+critic
+romance
+cliff |  
+| bip_39_word_new_line5 | cloud
+critic
+romance
+cliff
+foot |  
+| bip_39_word_new_line6 | cloud
+critic
+romance
+cliff
+foot
+spatial |  
+| bip_39_word_new_line7 | cloud
+critic
+romance
+cliff
+foot
+spatial
+brush |  
+| bip_39_word_new_line8 | cloud
+critic
+romance
+cliff
+foot
+spatial
+brush
+boil |  
+| bip_39_word_new_line9 | cloud
+critic
+romance
+cliff
+foot
+spatial
+brush
+boil
+nothing |  
+| bip_39_word_space_0 | ['cloud', 'critic', 'romance', 'cliff', 'foot', 'spatial', 'brush', 'boil', 'nothing', 'bunker', 'enforce', 'alien'] |  
+| bip_39_word_space_1 | cloud |  
+| bip_39_word_space_10 | cloud critic romance cliff foot spatial brush boil nothing bunker |  
+| bip_39_word_space_11 | cloud critic romance cliff foot spatial brush boil nothing bunker enforce |  
+| bip_39_word_space_12 | cloud critic romance cliff foot spatial brush boil nothing bunker enforce alien |  
+| bip_39_word_space_2 | cloud critic |  
+| bip_39_word_space_3 | cloud critic romance |  
+| bip_39_word_space_4 | cloud critic romance cliff |  
+| bip_39_word_space_5 | cloud critic romance cliff foot |  
+| bip_39_word_space_6 | cloud critic romance cliff foot spatial |  
+| bip_39_word_space_7 | cloud critic romance cliff foot spatial brush |  
+| bip_39_word_space_8 | cloud critic romance cliff foot spatial brush boil |  
+| bip_39_word_space_9 | cloud critic romance cliff foot spatial brush boil nothing |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

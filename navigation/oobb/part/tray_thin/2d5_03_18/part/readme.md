@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: minute tiger
+  * bip 39 word 3: minute tiger few
+  * bip 39 word: minute tiger few silly air immense mule peace ahead twice young alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | minute |  
+| bip_39_word_new_br10 | minute<br>tiger<br>few<br>silly<br>air<br>immense<br>mule<br>peace<br>ahead<br>twice |  
+| bip_39_word_new_br11 | minute<br>tiger<br>few<br>silly<br>air<br>immense<br>mule<br>peace<br>ahead<br>twice<br>young |  
+| bip_39_word_new_br12 | minute<br>tiger<br>few<br>silly<br>air<br>immense<br>mule<br>peace<br>ahead<br>twice<br>young<br>alien |  
+| bip_39_word_new_br2 | minute<br>tiger |  
+| bip_39_word_new_br3 | minute<br>tiger<br>few |  
+| bip_39_word_new_br4 | minute<br>tiger<br>few<br>silly |  
+| bip_39_word_new_br5 | minute<br>tiger<br>few<br>silly<br>air |  
+| bip_39_word_new_br6 | minute<br>tiger<br>few<br>silly<br>air<br>immense |  
+| bip_39_word_new_br7 | minute<br>tiger<br>few<br>silly<br>air<br>immense<br>mule |  
+| bip_39_word_new_br8 | minute<br>tiger<br>few<br>silly<br>air<br>immense<br>mule<br>peace |  
+| bip_39_word_new_br9 | minute<br>tiger<br>few<br>silly<br>air<br>immense<br>mule<br>peace<br>ahead |  
+| bip_39_word_new_line1 | minute |  
+| bip_39_word_new_line10 | minute
+tiger
+few
+silly
+air
+immense
+mule
+peace
+ahead
+twice |  
+| bip_39_word_new_line11 | minute
+tiger
+few
+silly
+air
+immense
+mule
+peace
+ahead
+twice
+young |  
+| bip_39_word_new_line12 | minute
+tiger
+few
+silly
+air
+immense
+mule
+peace
+ahead
+twice
+young
+alien |  
+| bip_39_word_new_line2 | minute
+tiger |  
+| bip_39_word_new_line3 | minute
+tiger
+few |  
+| bip_39_word_new_line4 | minute
+tiger
+few
+silly |  
+| bip_39_word_new_line5 | minute
+tiger
+few
+silly
+air |  
+| bip_39_word_new_line6 | minute
+tiger
+few
+silly
+air
+immense |  
+| bip_39_word_new_line7 | minute
+tiger
+few
+silly
+air
+immense
+mule |  
+| bip_39_word_new_line8 | minute
+tiger
+few
+silly
+air
+immense
+mule
+peace |  
+| bip_39_word_new_line9 | minute
+tiger
+few
+silly
+air
+immense
+mule
+peace
+ahead |  
+| bip_39_word_space_0 | ['minute', 'tiger', 'few', 'silly', 'air', 'immense', 'mule', 'peace', 'ahead', 'twice', 'young', 'alien'] |  
+| bip_39_word_space_1 | minute |  
+| bip_39_word_space_10 | minute tiger few silly air immense mule peace ahead twice |  
+| bip_39_word_space_11 | minute tiger few silly air immense mule peace ahead twice young |  
+| bip_39_word_space_12 | minute tiger few silly air immense mule peace ahead twice young alien |  
+| bip_39_word_space_2 | minute tiger |  
+| bip_39_word_space_3 | minute tiger few |  
+| bip_39_word_space_4 | minute tiger few silly |  
+| bip_39_word_space_5 | minute tiger few silly air |  
+| bip_39_word_space_6 | minute tiger few silly air immense |  
+| bip_39_word_space_7 | minute tiger few silly air immense mule |  
+| bip_39_word_space_8 | minute tiger few silly air immense mule peace |  
+| bip_39_word_space_9 | minute tiger few silly air immense mule peace ahead |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,184 @@
+bip_39_word_new_br1: mean
+bip_39_word_new_br10: mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe
+bip_39_word_new_br11: mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe<br>hour
+bip_39_word_new_br12: mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate<br>pipe<br>hour<br>arena
+bip_39_word_new_br2: mean<br>baby
+bip_39_word_new_br3: mean<br>baby<br>man
+bip_39_word_new_br4: mean<br>baby<br>man<br>wrap
+bip_39_word_new_br5: mean<br>baby<br>man<br>wrap<br>flee
+bip_39_word_new_br6: mean<br>baby<br>man<br>wrap<br>flee<br>leave
+bip_39_word_new_br7: mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid
+bip_39_word_new_br8: mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale
+bip_39_word_new_br9: mean<br>baby<br>man<br>wrap<br>flee<br>leave<br>rigid<br>inhale<br>skate
+bip_39_word_new_line1: mean
+bip_39_word_new_line10: 'mean
+
+  baby
+
+  man
+
+  wrap
+
+  flee
+
+  leave
+
+  rigid
+
+  inhale
+
+  skate
+
+  pipe'
+bip_39_word_new_line11: 'mean
+
+  baby
+
+  man
+
+  wrap
+
+  flee
+
+  leave
+
+  rigid
+
+  inhale
+
+  skate
+
+  pipe
+
+  hour'
+bip_39_word_new_line12: 'mean
+
+  baby
+
+  man
+
+  wrap
+
+  flee
+
+  leave
+
+  rigid
+
+  inhale
+
+  skate
+
+  pipe
+
+  hour
+
+  arena'
+bip_39_word_new_line2: 'mean
+
+  baby'
+bip_39_word_new_line3: 'mean
+
+  baby
+
+  man'
+bip_39_word_new_line4: 'mean
+
+  baby
+
+  man
+
+  wrap'
+bip_39_word_new_line5: 'mean
+
+  baby
+
+  man
+
+  wrap
+
+  flee'
+bip_39_word_new_line6: 'mean
+
+  baby
+
+  man
+
+  wrap
+
+  flee
+
+  leave'
+bip_39_word_new_line7: 'mean
+
+  baby
+
+  man
+
+  wrap
+
+  flee
+
+  leave
+
+  rigid'
+bip_39_word_new_line8: 'mean
+
+  baby
+
+  man
+
+  wrap
+
+  flee
+
+  leave
+
+  rigid
+
+  inhale'
+bip_39_word_new_line9: 'mean
+
+  baby
+
+  man
+
+  wrap
+
+  flee
+
+  leave
+
+  rigid
+
+  inhale
+
+  skate'
+bip_39_word_space_0:
+- mean
+- baby
+- man
+- wrap
+- flee
+- leave
+- rigid
+- inhale
+- skate
+- pipe
+- hour
+- arena
+bip_39_word_space_1: mean
+bip_39_word_space_10: mean baby man wrap flee leave rigid inhale skate pipe
+bip_39_word_space_11: mean baby man wrap flee leave rigid inhale skate pipe hour
+bip_39_word_space_12: mean baby man wrap flee leave rigid inhale skate pipe hour arena
+bip_39_word_space_2: mean baby
+bip_39_word_space_3: mean baby man
+bip_39_word_space_4: mean baby man wrap
+bip_39_word_space_5: mean baby man wrap flee
+bip_39_word_space_6: mean baby man wrap flee leave
+bip_39_word_space_7: mean baby man wrap flee leave rigid
+bip_39_word_space_8: mean baby man wrap flee leave rigid inhale
+bip_39_word_space_9: mean baby man wrap flee leave rigid inhale skate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

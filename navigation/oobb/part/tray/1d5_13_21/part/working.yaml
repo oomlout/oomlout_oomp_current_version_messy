@@ -1,3 +1,187 @@
+bip_39_word_new_br1: office
+bip_39_word_new_br10: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book<br>heart
+bip_39_word_new_br11: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book<br>heart<br>noble
+bip_39_word_new_br12: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book<br>heart<br>noble<br>alien
+bip_39_word_new_br2: office<br>tired
+bip_39_word_new_br3: office<br>tired<br>collect
+bip_39_word_new_br4: office<br>tired<br>collect<br>stable
+bip_39_word_new_br5: office<br>tired<br>collect<br>stable<br>assist
+bip_39_word_new_br6: office<br>tired<br>collect<br>stable<br>assist<br>advice
+bip_39_word_new_br7: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major
+bip_39_word_new_br8: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy
+bip_39_word_new_br9: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book
+bip_39_word_new_line1: office
+bip_39_word_new_line10: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy
+
+  book
+
+  heart'
+bip_39_word_new_line11: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy
+
+  book
+
+  heart
+
+  noble'
+bip_39_word_new_line12: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy
+
+  book
+
+  heart
+
+  noble
+
+  alien'
+bip_39_word_new_line2: 'office
+
+  tired'
+bip_39_word_new_line3: 'office
+
+  tired
+
+  collect'
+bip_39_word_new_line4: 'office
+
+  tired
+
+  collect
+
+  stable'
+bip_39_word_new_line5: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist'
+bip_39_word_new_line6: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice'
+bip_39_word_new_line7: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major'
+bip_39_word_new_line8: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy'
+bip_39_word_new_line9: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy
+
+  book'
+bip_39_word_space_0:
+- office
+- tired
+- collect
+- stable
+- assist
+- advice
+- major
+- strategy
+- book
+- heart
+- noble
+- alien
+bip_39_word_space_1: office
+bip_39_word_space_10: office tired collect stable assist advice major strategy book
+  heart
+bip_39_word_space_11: office tired collect stable assist advice major strategy book
+  heart noble
+bip_39_word_space_12: office tired collect stable assist advice major strategy book
+  heart noble alien
+bip_39_word_space_2: office tired
+bip_39_word_space_3: office tired collect
+bip_39_word_space_4: office tired collect stable
+bip_39_word_space_5: office tired collect stable assist
+bip_39_word_space_6: office tired collect stable assist advice
+bip_39_word_space_7: office tired collect stable assist advice major
+bip_39_word_space_8: office tired collect stable assist advice major strategy
+bip_39_word_space_9: office tired collect stable assist advice major strategy book
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

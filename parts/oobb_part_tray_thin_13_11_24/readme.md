@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dance valve
+  * bip 39 word 3: dance valve silent
+  * bip 39 word: dance valve silent surround book tuition misery upgrade cart tornado tool appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dance |  
+| bip_39_word_new_br10 | dance<br>valve<br>silent<br>surround<br>book<br>tuition<br>misery<br>upgrade<br>cart<br>tornado |  
+| bip_39_word_new_br11 | dance<br>valve<br>silent<br>surround<br>book<br>tuition<br>misery<br>upgrade<br>cart<br>tornado<br>tool |  
+| bip_39_word_new_br12 | dance<br>valve<br>silent<br>surround<br>book<br>tuition<br>misery<br>upgrade<br>cart<br>tornado<br>tool<br>appear |  
+| bip_39_word_new_br2 | dance<br>valve |  
+| bip_39_word_new_br3 | dance<br>valve<br>silent |  
+| bip_39_word_new_br4 | dance<br>valve<br>silent<br>surround |  
+| bip_39_word_new_br5 | dance<br>valve<br>silent<br>surround<br>book |  
+| bip_39_word_new_br6 | dance<br>valve<br>silent<br>surround<br>book<br>tuition |  
+| bip_39_word_new_br7 | dance<br>valve<br>silent<br>surround<br>book<br>tuition<br>misery |  
+| bip_39_word_new_br8 | dance<br>valve<br>silent<br>surround<br>book<br>tuition<br>misery<br>upgrade |  
+| bip_39_word_new_br9 | dance<br>valve<br>silent<br>surround<br>book<br>tuition<br>misery<br>upgrade<br>cart |  
+| bip_39_word_new_line1 | dance |  
+| bip_39_word_new_line10 | dance
+valve
+silent
+surround
+book
+tuition
+misery
+upgrade
+cart
+tornado |  
+| bip_39_word_new_line11 | dance
+valve
+silent
+surround
+book
+tuition
+misery
+upgrade
+cart
+tornado
+tool |  
+| bip_39_word_new_line12 | dance
+valve
+silent
+surround
+book
+tuition
+misery
+upgrade
+cart
+tornado
+tool
+appear |  
+| bip_39_word_new_line2 | dance
+valve |  
+| bip_39_word_new_line3 | dance
+valve
+silent |  
+| bip_39_word_new_line4 | dance
+valve
+silent
+surround |  
+| bip_39_word_new_line5 | dance
+valve
+silent
+surround
+book |  
+| bip_39_word_new_line6 | dance
+valve
+silent
+surround
+book
+tuition |  
+| bip_39_word_new_line7 | dance
+valve
+silent
+surround
+book
+tuition
+misery |  
+| bip_39_word_new_line8 | dance
+valve
+silent
+surround
+book
+tuition
+misery
+upgrade |  
+| bip_39_word_new_line9 | dance
+valve
+silent
+surround
+book
+tuition
+misery
+upgrade
+cart |  
+| bip_39_word_space_0 | ['dance', 'valve', 'silent', 'surround', 'book', 'tuition', 'misery', 'upgrade', 'cart', 'tornado', 'tool', 'appear'] |  
+| bip_39_word_space_1 | dance |  
+| bip_39_word_space_10 | dance valve silent surround book tuition misery upgrade cart tornado |  
+| bip_39_word_space_11 | dance valve silent surround book tuition misery upgrade cart tornado tool |  
+| bip_39_word_space_12 | dance valve silent surround book tuition misery upgrade cart tornado tool appear |  
+| bip_39_word_space_2 | dance valve |  
+| bip_39_word_space_3 | dance valve silent |  
+| bip_39_word_space_4 | dance valve silent surround |  
+| bip_39_word_space_5 | dance valve silent surround book |  
+| bip_39_word_space_6 | dance valve silent surround book tuition |  
+| bip_39_word_space_7 | dance valve silent surround book tuition misery |  
+| bip_39_word_space_8 | dance valve silent surround book tuition misery upgrade |  
+| bip_39_word_space_9 | dance valve silent surround book tuition misery upgrade cart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

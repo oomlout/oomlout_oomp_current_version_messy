@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rib gold
+  * bip 39 word 3: rib gold magic
+  * bip 39 word: rib gold magic math angle oxygen depth time expand real once adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rib |  
+| bip_39_word_new_br10 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real |  
+| bip_39_word_new_br11 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real<br>once |  
+| bip_39_word_new_br12 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand<br>real<br>once<br>adapt |  
+| bip_39_word_new_br2 | rib<br>gold |  
+| bip_39_word_new_br3 | rib<br>gold<br>magic |  
+| bip_39_word_new_br4 | rib<br>gold<br>magic<br>math |  
+| bip_39_word_new_br5 | rib<br>gold<br>magic<br>math<br>angle |  
+| bip_39_word_new_br6 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen |  
+| bip_39_word_new_br7 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth |  
+| bip_39_word_new_br8 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time |  
+| bip_39_word_new_br9 | rib<br>gold<br>magic<br>math<br>angle<br>oxygen<br>depth<br>time<br>expand |  
+| bip_39_word_new_line1 | rib |  
+| bip_39_word_new_line10 | rib
+gold
+magic
+math
+angle
+oxygen
+depth
+time
+expand
+real |  
+| bip_39_word_new_line11 | rib
+gold
+magic
+math
+angle
+oxygen
+depth
+time
+expand
+real
+once |  
+| bip_39_word_new_line12 | rib
+gold
+magic
+math
+angle
+oxygen
+depth
+time
+expand
+real
+once
+adapt |  
+| bip_39_word_new_line2 | rib
+gold |  
+| bip_39_word_new_line3 | rib
+gold
+magic |  
+| bip_39_word_new_line4 | rib
+gold
+magic
+math |  
+| bip_39_word_new_line5 | rib
+gold
+magic
+math
+angle |  
+| bip_39_word_new_line6 | rib
+gold
+magic
+math
+angle
+oxygen |  
+| bip_39_word_new_line7 | rib
+gold
+magic
+math
+angle
+oxygen
+depth |  
+| bip_39_word_new_line8 | rib
+gold
+magic
+math
+angle
+oxygen
+depth
+time |  
+| bip_39_word_new_line9 | rib
+gold
+magic
+math
+angle
+oxygen
+depth
+time
+expand |  
+| bip_39_word_space_0 | ['rib', 'gold', 'magic', 'math', 'angle', 'oxygen', 'depth', 'time', 'expand', 'real', 'once', 'adapt'] |  
+| bip_39_word_space_1 | rib |  
+| bip_39_word_space_10 | rib gold magic math angle oxygen depth time expand real |  
+| bip_39_word_space_11 | rib gold magic math angle oxygen depth time expand real once |  
+| bip_39_word_space_12 | rib gold magic math angle oxygen depth time expand real once adapt |  
+| bip_39_word_space_2 | rib gold |  
+| bip_39_word_space_3 | rib gold magic |  
+| bip_39_word_space_4 | rib gold magic math |  
+| bip_39_word_space_5 | rib gold magic math angle |  
+| bip_39_word_space_6 | rib gold magic math angle oxygen |  
+| bip_39_word_space_7 | rib gold magic math angle oxygen depth |  
+| bip_39_word_space_8 | rib gold magic math angle oxygen depth time |  
+| bip_39_word_space_9 | rib gold magic math angle oxygen depth time expand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

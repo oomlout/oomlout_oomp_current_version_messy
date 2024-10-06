@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trust motion
+  * bip 39 word 3: trust motion gadget
+  * bip 39 word: trust motion gadget room tumble rent wool junk furnace spray round acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trust |  
+| bip_39_word_new_br10 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace<br>spray |  
+| bip_39_word_new_br11 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace<br>spray<br>round |  
+| bip_39_word_new_br12 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace<br>spray<br>round<br>acquire |  
+| bip_39_word_new_br2 | trust<br>motion |  
+| bip_39_word_new_br3 | trust<br>motion<br>gadget |  
+| bip_39_word_new_br4 | trust<br>motion<br>gadget<br>room |  
+| bip_39_word_new_br5 | trust<br>motion<br>gadget<br>room<br>tumble |  
+| bip_39_word_new_br6 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent |  
+| bip_39_word_new_br7 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool |  
+| bip_39_word_new_br8 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk |  
+| bip_39_word_new_br9 | trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace |  
+| bip_39_word_new_line1 | trust |  
+| bip_39_word_new_line10 | trust
+motion
+gadget
+room
+tumble
+rent
+wool
+junk
+furnace
+spray |  
+| bip_39_word_new_line11 | trust
+motion
+gadget
+room
+tumble
+rent
+wool
+junk
+furnace
+spray
+round |  
+| bip_39_word_new_line12 | trust
+motion
+gadget
+room
+tumble
+rent
+wool
+junk
+furnace
+spray
+round
+acquire |  
+| bip_39_word_new_line2 | trust
+motion |  
+| bip_39_word_new_line3 | trust
+motion
+gadget |  
+| bip_39_word_new_line4 | trust
+motion
+gadget
+room |  
+| bip_39_word_new_line5 | trust
+motion
+gadget
+room
+tumble |  
+| bip_39_word_new_line6 | trust
+motion
+gadget
+room
+tumble
+rent |  
+| bip_39_word_new_line7 | trust
+motion
+gadget
+room
+tumble
+rent
+wool |  
+| bip_39_word_new_line8 | trust
+motion
+gadget
+room
+tumble
+rent
+wool
+junk |  
+| bip_39_word_new_line9 | trust
+motion
+gadget
+room
+tumble
+rent
+wool
+junk
+furnace |  
+| bip_39_word_space_0 | ['trust', 'motion', 'gadget', 'room', 'tumble', 'rent', 'wool', 'junk', 'furnace', 'spray', 'round', 'acquire'] |  
+| bip_39_word_space_1 | trust |  
+| bip_39_word_space_10 | trust motion gadget room tumble rent wool junk furnace spray |  
+| bip_39_word_space_11 | trust motion gadget room tumble rent wool junk furnace spray round |  
+| bip_39_word_space_12 | trust motion gadget room tumble rent wool junk furnace spray round acquire |  
+| bip_39_word_space_2 | trust motion |  
+| bip_39_word_space_3 | trust motion gadget |  
+| bip_39_word_space_4 | trust motion gadget room |  
+| bip_39_word_space_5 | trust motion gadget room tumble |  
+| bip_39_word_space_6 | trust motion gadget room tumble rent |  
+| bip_39_word_space_7 | trust motion gadget room tumble rent wool |  
+| bip_39_word_space_8 | trust motion gadget room tumble rent wool junk |  
+| bip_39_word_space_9 | trust motion gadget room tumble rent wool junk furnace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

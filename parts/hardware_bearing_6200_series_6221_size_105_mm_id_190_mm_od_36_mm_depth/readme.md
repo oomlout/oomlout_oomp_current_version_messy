@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: day island
+  * bip 39 word 3: day island raise
+  * bip 39 word: day island raise erode cycle glare suit abandon dream funny pluck above
 
 ### other_codes
 * short_code: br6221
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | day |  
+| bip_39_word_new_br10 | day<br>island<br>raise<br>erode<br>cycle<br>glare<br>suit<br>abandon<br>dream<br>funny |  
+| bip_39_word_new_br11 | day<br>island<br>raise<br>erode<br>cycle<br>glare<br>suit<br>abandon<br>dream<br>funny<br>pluck |  
+| bip_39_word_new_br12 | day<br>island<br>raise<br>erode<br>cycle<br>glare<br>suit<br>abandon<br>dream<br>funny<br>pluck<br>above |  
+| bip_39_word_new_br2 | day<br>island |  
+| bip_39_word_new_br3 | day<br>island<br>raise |  
+| bip_39_word_new_br4 | day<br>island<br>raise<br>erode |  
+| bip_39_word_new_br5 | day<br>island<br>raise<br>erode<br>cycle |  
+| bip_39_word_new_br6 | day<br>island<br>raise<br>erode<br>cycle<br>glare |  
+| bip_39_word_new_br7 | day<br>island<br>raise<br>erode<br>cycle<br>glare<br>suit |  
+| bip_39_word_new_br8 | day<br>island<br>raise<br>erode<br>cycle<br>glare<br>suit<br>abandon |  
+| bip_39_word_new_br9 | day<br>island<br>raise<br>erode<br>cycle<br>glare<br>suit<br>abandon<br>dream |  
+| bip_39_word_new_line1 | day |  
+| bip_39_word_new_line10 | day
+island
+raise
+erode
+cycle
+glare
+suit
+abandon
+dream
+funny |  
+| bip_39_word_new_line11 | day
+island
+raise
+erode
+cycle
+glare
+suit
+abandon
+dream
+funny
+pluck |  
+| bip_39_word_new_line12 | day
+island
+raise
+erode
+cycle
+glare
+suit
+abandon
+dream
+funny
+pluck
+above |  
+| bip_39_word_new_line2 | day
+island |  
+| bip_39_word_new_line3 | day
+island
+raise |  
+| bip_39_word_new_line4 | day
+island
+raise
+erode |  
+| bip_39_word_new_line5 | day
+island
+raise
+erode
+cycle |  
+| bip_39_word_new_line6 | day
+island
+raise
+erode
+cycle
+glare |  
+| bip_39_word_new_line7 | day
+island
+raise
+erode
+cycle
+glare
+suit |  
+| bip_39_word_new_line8 | day
+island
+raise
+erode
+cycle
+glare
+suit
+abandon |  
+| bip_39_word_new_line9 | day
+island
+raise
+erode
+cycle
+glare
+suit
+abandon
+dream |  
+| bip_39_word_space_0 | ['day', 'island', 'raise', 'erode', 'cycle', 'glare', 'suit', 'abandon', 'dream', 'funny', 'pluck', 'above'] |  
+| bip_39_word_space_1 | day |  
+| bip_39_word_space_10 | day island raise erode cycle glare suit abandon dream funny |  
+| bip_39_word_space_11 | day island raise erode cycle glare suit abandon dream funny pluck |  
+| bip_39_word_space_12 | day island raise erode cycle glare suit abandon dream funny pluck above |  
+| bip_39_word_space_2 | day island |  
+| bip_39_word_space_3 | day island raise |  
+| bip_39_word_space_4 | day island raise erode |  
+| bip_39_word_space_5 | day island raise erode cycle |  
+| bip_39_word_space_6 | day island raise erode cycle glare |  
+| bip_39_word_space_7 | day island raise erode cycle glare suit |  
+| bip_39_word_space_8 | day island raise erode cycle glare suit abandon |  
+| bip_39_word_space_9 | day island raise erode cycle glare suit abandon dream |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

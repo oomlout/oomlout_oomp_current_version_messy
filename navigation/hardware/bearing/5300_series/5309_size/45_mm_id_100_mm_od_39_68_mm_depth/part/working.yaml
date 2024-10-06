@@ -1,3 +1,187 @@
+bip_39_word_new_br1: danger
+bip_39_word_new_br10: danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper<br>deposit<br>stick<br>remember<br>shoulder
+bip_39_word_new_br11: danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper<br>deposit<br>stick<br>remember<br>shoulder<br>flat
+bip_39_word_new_br12: danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper<br>deposit<br>stick<br>remember<br>shoulder<br>flat<br>arrest
+bip_39_word_new_br2: danger<br>increase
+bip_39_word_new_br3: danger<br>increase<br>sunset
+bip_39_word_new_br4: danger<br>increase<br>sunset<br>destroy
+bip_39_word_new_br5: danger<br>increase<br>sunset<br>destroy<br>seat
+bip_39_word_new_br6: danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper
+bip_39_word_new_br7: danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper<br>deposit
+bip_39_word_new_br8: danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper<br>deposit<br>stick
+bip_39_word_new_br9: danger<br>increase<br>sunset<br>destroy<br>seat<br>whisper<br>deposit<br>stick<br>remember
+bip_39_word_new_line1: danger
+bip_39_word_new_line10: 'danger
+
+  increase
+
+  sunset
+
+  destroy
+
+  seat
+
+  whisper
+
+  deposit
+
+  stick
+
+  remember
+
+  shoulder'
+bip_39_word_new_line11: 'danger
+
+  increase
+
+  sunset
+
+  destroy
+
+  seat
+
+  whisper
+
+  deposit
+
+  stick
+
+  remember
+
+  shoulder
+
+  flat'
+bip_39_word_new_line12: 'danger
+
+  increase
+
+  sunset
+
+  destroy
+
+  seat
+
+  whisper
+
+  deposit
+
+  stick
+
+  remember
+
+  shoulder
+
+  flat
+
+  arrest'
+bip_39_word_new_line2: 'danger
+
+  increase'
+bip_39_word_new_line3: 'danger
+
+  increase
+
+  sunset'
+bip_39_word_new_line4: 'danger
+
+  increase
+
+  sunset
+
+  destroy'
+bip_39_word_new_line5: 'danger
+
+  increase
+
+  sunset
+
+  destroy
+
+  seat'
+bip_39_word_new_line6: 'danger
+
+  increase
+
+  sunset
+
+  destroy
+
+  seat
+
+  whisper'
+bip_39_word_new_line7: 'danger
+
+  increase
+
+  sunset
+
+  destroy
+
+  seat
+
+  whisper
+
+  deposit'
+bip_39_word_new_line8: 'danger
+
+  increase
+
+  sunset
+
+  destroy
+
+  seat
+
+  whisper
+
+  deposit
+
+  stick'
+bip_39_word_new_line9: 'danger
+
+  increase
+
+  sunset
+
+  destroy
+
+  seat
+
+  whisper
+
+  deposit
+
+  stick
+
+  remember'
+bip_39_word_space_0:
+- danger
+- increase
+- sunset
+- destroy
+- seat
+- whisper
+- deposit
+- stick
+- remember
+- shoulder
+- flat
+- arrest
+bip_39_word_space_1: danger
+bip_39_word_space_10: danger increase sunset destroy seat whisper deposit stick remember
+  shoulder
+bip_39_word_space_11: danger increase sunset destroy seat whisper deposit stick remember
+  shoulder flat
+bip_39_word_space_12: danger increase sunset destroy seat whisper deposit stick remember
+  shoulder flat arrest
+bip_39_word_space_2: danger increase
+bip_39_word_space_3: danger increase sunset
+bip_39_word_space_4: danger increase sunset destroy
+bip_39_word_space_5: danger increase sunset destroy seat
+bip_39_word_space_6: danger increase sunset destroy seat whisper
+bip_39_word_space_7: danger increase sunset destroy seat whisper deposit
+bip_39_word_space_8: danger increase sunset destroy seat whisper deposit stick
+bip_39_word_space_9: danger increase sunset destroy seat whisper deposit stick remember
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

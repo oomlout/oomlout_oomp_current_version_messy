@@ -1,3 +1,187 @@
+bip_39_word_new_br1: exchange
+bip_39_word_new_br10: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media
+bip_39_word_new_br11: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media<br>monkey
+bip_39_word_new_br12: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain<br>media<br>monkey<br>alpha
+bip_39_word_new_br2: exchange<br>plug
+bip_39_word_new_br3: exchange<br>plug<br>patrol
+bip_39_word_new_br4: exchange<br>plug<br>patrol<br>jeans
+bip_39_word_new_br5: exchange<br>plug<br>patrol<br>jeans<br>name
+bip_39_word_new_br6: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift
+bip_39_word_new_br7: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private
+bip_39_word_new_br8: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon
+bip_39_word_new_br9: exchange<br>plug<br>patrol<br>jeans<br>name<br>shift<br>private<br>abandon<br>explain
+bip_39_word_new_line1: exchange
+bip_39_word_new_line10: 'exchange
+
+  plug
+
+  patrol
+
+  jeans
+
+  name
+
+  shift
+
+  private
+
+  abandon
+
+  explain
+
+  media'
+bip_39_word_new_line11: 'exchange
+
+  plug
+
+  patrol
+
+  jeans
+
+  name
+
+  shift
+
+  private
+
+  abandon
+
+  explain
+
+  media
+
+  monkey'
+bip_39_word_new_line12: 'exchange
+
+  plug
+
+  patrol
+
+  jeans
+
+  name
+
+  shift
+
+  private
+
+  abandon
+
+  explain
+
+  media
+
+  monkey
+
+  alpha'
+bip_39_word_new_line2: 'exchange
+
+  plug'
+bip_39_word_new_line3: 'exchange
+
+  plug
+
+  patrol'
+bip_39_word_new_line4: 'exchange
+
+  plug
+
+  patrol
+
+  jeans'
+bip_39_word_new_line5: 'exchange
+
+  plug
+
+  patrol
+
+  jeans
+
+  name'
+bip_39_word_new_line6: 'exchange
+
+  plug
+
+  patrol
+
+  jeans
+
+  name
+
+  shift'
+bip_39_word_new_line7: 'exchange
+
+  plug
+
+  patrol
+
+  jeans
+
+  name
+
+  shift
+
+  private'
+bip_39_word_new_line8: 'exchange
+
+  plug
+
+  patrol
+
+  jeans
+
+  name
+
+  shift
+
+  private
+
+  abandon'
+bip_39_word_new_line9: 'exchange
+
+  plug
+
+  patrol
+
+  jeans
+
+  name
+
+  shift
+
+  private
+
+  abandon
+
+  explain'
+bip_39_word_space_0:
+- exchange
+- plug
+- patrol
+- jeans
+- name
+- shift
+- private
+- abandon
+- explain
+- media
+- monkey
+- alpha
+bip_39_word_space_1: exchange
+bip_39_word_space_10: exchange plug patrol jeans name shift private abandon explain
+  media
+bip_39_word_space_11: exchange plug patrol jeans name shift private abandon explain
+  media monkey
+bip_39_word_space_12: exchange plug patrol jeans name shift private abandon explain
+  media monkey alpha
+bip_39_word_space_2: exchange plug
+bip_39_word_space_3: exchange plug patrol
+bip_39_word_space_4: exchange plug patrol jeans
+bip_39_word_space_5: exchange plug patrol jeans name
+bip_39_word_space_6: exchange plug patrol jeans name shift
+bip_39_word_space_7: exchange plug patrol jeans name shift private
+bip_39_word_space_8: exchange plug patrol jeans name shift private abandon
+bip_39_word_space_9: exchange plug patrol jeans name shift private abandon explain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

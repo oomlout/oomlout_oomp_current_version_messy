@@ -1,3 +1,185 @@
+bip_39_word_new_br1: insane
+bip_39_word_new_br10: insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate<br>foam<br>link<br>outer<br>note
+bip_39_word_new_br11: insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate<br>foam<br>link<br>outer<br>note<br>minimum
+bip_39_word_new_br12: insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate<br>foam<br>link<br>outer<br>note<br>minimum<br>acquire
+bip_39_word_new_br2: insane<br>acquire
+bip_39_word_new_br3: insane<br>acquire<br>ankle
+bip_39_word_new_br4: insane<br>acquire<br>ankle<br>pair
+bip_39_word_new_br5: insane<br>acquire<br>ankle<br>pair<br>spoil
+bip_39_word_new_br6: insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate
+bip_39_word_new_br7: insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate<br>foam
+bip_39_word_new_br8: insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate<br>foam<br>link
+bip_39_word_new_br9: insane<br>acquire<br>ankle<br>pair<br>spoil<br>skate<br>foam<br>link<br>outer
+bip_39_word_new_line1: insane
+bip_39_word_new_line10: 'insane
+
+  acquire
+
+  ankle
+
+  pair
+
+  spoil
+
+  skate
+
+  foam
+
+  link
+
+  outer
+
+  note'
+bip_39_word_new_line11: 'insane
+
+  acquire
+
+  ankle
+
+  pair
+
+  spoil
+
+  skate
+
+  foam
+
+  link
+
+  outer
+
+  note
+
+  minimum'
+bip_39_word_new_line12: 'insane
+
+  acquire
+
+  ankle
+
+  pair
+
+  spoil
+
+  skate
+
+  foam
+
+  link
+
+  outer
+
+  note
+
+  minimum
+
+  acquire'
+bip_39_word_new_line2: 'insane
+
+  acquire'
+bip_39_word_new_line3: 'insane
+
+  acquire
+
+  ankle'
+bip_39_word_new_line4: 'insane
+
+  acquire
+
+  ankle
+
+  pair'
+bip_39_word_new_line5: 'insane
+
+  acquire
+
+  ankle
+
+  pair
+
+  spoil'
+bip_39_word_new_line6: 'insane
+
+  acquire
+
+  ankle
+
+  pair
+
+  spoil
+
+  skate'
+bip_39_word_new_line7: 'insane
+
+  acquire
+
+  ankle
+
+  pair
+
+  spoil
+
+  skate
+
+  foam'
+bip_39_word_new_line8: 'insane
+
+  acquire
+
+  ankle
+
+  pair
+
+  spoil
+
+  skate
+
+  foam
+
+  link'
+bip_39_word_new_line9: 'insane
+
+  acquire
+
+  ankle
+
+  pair
+
+  spoil
+
+  skate
+
+  foam
+
+  link
+
+  outer'
+bip_39_word_space_0:
+- insane
+- acquire
+- ankle
+- pair
+- spoil
+- skate
+- foam
+- link
+- outer
+- note
+- minimum
+- acquire
+bip_39_word_space_1: insane
+bip_39_word_space_10: insane acquire ankle pair spoil skate foam link outer note
+bip_39_word_space_11: insane acquire ankle pair spoil skate foam link outer note minimum
+bip_39_word_space_12: insane acquire ankle pair spoil skate foam link outer note minimum
+  acquire
+bip_39_word_space_2: insane acquire
+bip_39_word_space_3: insane acquire ankle
+bip_39_word_space_4: insane acquire ankle pair
+bip_39_word_space_5: insane acquire ankle pair spoil
+bip_39_word_space_6: insane acquire ankle pair spoil skate
+bip_39_word_space_7: insane acquire ankle pair spoil skate foam
+bip_39_word_space_8: insane acquire ankle pair spoil skate foam link
+bip_39_word_space_9: insane acquire ankle pair spoil skate foam link outer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

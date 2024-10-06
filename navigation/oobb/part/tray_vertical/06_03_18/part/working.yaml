@@ -1,3 +1,187 @@
+bip_39_word_new_br1: exact
+bip_39_word_new_br10: exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse
+bip_39_word_new_br11: exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse<br>acid
+bip_39_word_new_br12: exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard<br>blouse<br>acid<br>antenna
+bip_39_word_new_br2: exact<br>spider
+bip_39_word_new_br3: exact<br>spider<br>manual
+bip_39_word_new_br4: exact<br>spider<br>manual<br>sponsor
+bip_39_word_new_br5: exact<br>spider<br>manual<br>sponsor<br>learn
+bip_39_word_new_br6: exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty
+bip_39_word_new_br7: exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super
+bip_39_word_new_br8: exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon
+bip_39_word_new_br9: exact<br>spider<br>manual<br>sponsor<br>learn<br>twenty<br>super<br>bacon<br>cupboard
+bip_39_word_new_line1: exact
+bip_39_word_new_line10: 'exact
+
+  spider
+
+  manual
+
+  sponsor
+
+  learn
+
+  twenty
+
+  super
+
+  bacon
+
+  cupboard
+
+  blouse'
+bip_39_word_new_line11: 'exact
+
+  spider
+
+  manual
+
+  sponsor
+
+  learn
+
+  twenty
+
+  super
+
+  bacon
+
+  cupboard
+
+  blouse
+
+  acid'
+bip_39_word_new_line12: 'exact
+
+  spider
+
+  manual
+
+  sponsor
+
+  learn
+
+  twenty
+
+  super
+
+  bacon
+
+  cupboard
+
+  blouse
+
+  acid
+
+  antenna'
+bip_39_word_new_line2: 'exact
+
+  spider'
+bip_39_word_new_line3: 'exact
+
+  spider
+
+  manual'
+bip_39_word_new_line4: 'exact
+
+  spider
+
+  manual
+
+  sponsor'
+bip_39_word_new_line5: 'exact
+
+  spider
+
+  manual
+
+  sponsor
+
+  learn'
+bip_39_word_new_line6: 'exact
+
+  spider
+
+  manual
+
+  sponsor
+
+  learn
+
+  twenty'
+bip_39_word_new_line7: 'exact
+
+  spider
+
+  manual
+
+  sponsor
+
+  learn
+
+  twenty
+
+  super'
+bip_39_word_new_line8: 'exact
+
+  spider
+
+  manual
+
+  sponsor
+
+  learn
+
+  twenty
+
+  super
+
+  bacon'
+bip_39_word_new_line9: 'exact
+
+  spider
+
+  manual
+
+  sponsor
+
+  learn
+
+  twenty
+
+  super
+
+  bacon
+
+  cupboard'
+bip_39_word_space_0:
+- exact
+- spider
+- manual
+- sponsor
+- learn
+- twenty
+- super
+- bacon
+- cupboard
+- blouse
+- acid
+- antenna
+bip_39_word_space_1: exact
+bip_39_word_space_10: exact spider manual sponsor learn twenty super bacon cupboard
+  blouse
+bip_39_word_space_11: exact spider manual sponsor learn twenty super bacon cupboard
+  blouse acid
+bip_39_word_space_12: exact spider manual sponsor learn twenty super bacon cupboard
+  blouse acid antenna
+bip_39_word_space_2: exact spider
+bip_39_word_space_3: exact spider manual
+bip_39_word_space_4: exact spider manual sponsor
+bip_39_word_space_5: exact spider manual sponsor learn
+bip_39_word_space_6: exact spider manual sponsor learn twenty
+bip_39_word_space_7: exact spider manual sponsor learn twenty super
+bip_39_word_space_8: exact spider manual sponsor learn twenty super bacon
+bip_39_word_space_9: exact spider manual sponsor learn twenty super bacon cupboard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

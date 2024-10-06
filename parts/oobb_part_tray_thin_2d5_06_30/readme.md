@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diet math
+  * bip 39 word 3: diet math brass
+  * bip 39 word: diet math brass calm orphan direct describe token lemon inflict birth average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diet |  
+| bip_39_word_new_br10 | diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token<br>lemon<br>inflict |  
+| bip_39_word_new_br11 | diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token<br>lemon<br>inflict<br>birth |  
+| bip_39_word_new_br12 | diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token<br>lemon<br>inflict<br>birth<br>average |  
+| bip_39_word_new_br2 | diet<br>math |  
+| bip_39_word_new_br3 | diet<br>math<br>brass |  
+| bip_39_word_new_br4 | diet<br>math<br>brass<br>calm |  
+| bip_39_word_new_br5 | diet<br>math<br>brass<br>calm<br>orphan |  
+| bip_39_word_new_br6 | diet<br>math<br>brass<br>calm<br>orphan<br>direct |  
+| bip_39_word_new_br7 | diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe |  
+| bip_39_word_new_br8 | diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token |  
+| bip_39_word_new_br9 | diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token<br>lemon |  
+| bip_39_word_new_line1 | diet |  
+| bip_39_word_new_line10 | diet
+math
+brass
+calm
+orphan
+direct
+describe
+token
+lemon
+inflict |  
+| bip_39_word_new_line11 | diet
+math
+brass
+calm
+orphan
+direct
+describe
+token
+lemon
+inflict
+birth |  
+| bip_39_word_new_line12 | diet
+math
+brass
+calm
+orphan
+direct
+describe
+token
+lemon
+inflict
+birth
+average |  
+| bip_39_word_new_line2 | diet
+math |  
+| bip_39_word_new_line3 | diet
+math
+brass |  
+| bip_39_word_new_line4 | diet
+math
+brass
+calm |  
+| bip_39_word_new_line5 | diet
+math
+brass
+calm
+orphan |  
+| bip_39_word_new_line6 | diet
+math
+brass
+calm
+orphan
+direct |  
+| bip_39_word_new_line7 | diet
+math
+brass
+calm
+orphan
+direct
+describe |  
+| bip_39_word_new_line8 | diet
+math
+brass
+calm
+orphan
+direct
+describe
+token |  
+| bip_39_word_new_line9 | diet
+math
+brass
+calm
+orphan
+direct
+describe
+token
+lemon |  
+| bip_39_word_space_0 | ['diet', 'math', 'brass', 'calm', 'orphan', 'direct', 'describe', 'token', 'lemon', 'inflict', 'birth', 'average'] |  
+| bip_39_word_space_1 | diet |  
+| bip_39_word_space_10 | diet math brass calm orphan direct describe token lemon inflict |  
+| bip_39_word_space_11 | diet math brass calm orphan direct describe token lemon inflict birth |  
+| bip_39_word_space_12 | diet math brass calm orphan direct describe token lemon inflict birth average |  
+| bip_39_word_space_2 | diet math |  
+| bip_39_word_space_3 | diet math brass |  
+| bip_39_word_space_4 | diet math brass calm |  
+| bip_39_word_space_5 | diet math brass calm orphan |  
+| bip_39_word_space_6 | diet math brass calm orphan direct |  
+| bip_39_word_space_7 | diet math brass calm orphan direct describe |  
+| bip_39_word_space_8 | diet math brass calm orphan direct describe token |  
+| bip_39_word_space_9 | diet math brass calm orphan direct describe token lemon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

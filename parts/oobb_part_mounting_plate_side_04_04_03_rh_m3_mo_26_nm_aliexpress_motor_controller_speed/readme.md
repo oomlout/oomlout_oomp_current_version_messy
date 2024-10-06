@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grocery much
+  * bip 39 word 3: grocery much budget
+  * bip 39 word: grocery much budget cliff amount violin pair wrestle prefer ecology skate art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grocery |  
+| bip_39_word_new_br10 | grocery<br>much<br>budget<br>cliff<br>amount<br>violin<br>pair<br>wrestle<br>prefer<br>ecology |  
+| bip_39_word_new_br11 | grocery<br>much<br>budget<br>cliff<br>amount<br>violin<br>pair<br>wrestle<br>prefer<br>ecology<br>skate |  
+| bip_39_word_new_br12 | grocery<br>much<br>budget<br>cliff<br>amount<br>violin<br>pair<br>wrestle<br>prefer<br>ecology<br>skate<br>art |  
+| bip_39_word_new_br2 | grocery<br>much |  
+| bip_39_word_new_br3 | grocery<br>much<br>budget |  
+| bip_39_word_new_br4 | grocery<br>much<br>budget<br>cliff |  
+| bip_39_word_new_br5 | grocery<br>much<br>budget<br>cliff<br>amount |  
+| bip_39_word_new_br6 | grocery<br>much<br>budget<br>cliff<br>amount<br>violin |  
+| bip_39_word_new_br7 | grocery<br>much<br>budget<br>cliff<br>amount<br>violin<br>pair |  
+| bip_39_word_new_br8 | grocery<br>much<br>budget<br>cliff<br>amount<br>violin<br>pair<br>wrestle |  
+| bip_39_word_new_br9 | grocery<br>much<br>budget<br>cliff<br>amount<br>violin<br>pair<br>wrestle<br>prefer |  
+| bip_39_word_new_line1 | grocery |  
+| bip_39_word_new_line10 | grocery
+much
+budget
+cliff
+amount
+violin
+pair
+wrestle
+prefer
+ecology |  
+| bip_39_word_new_line11 | grocery
+much
+budget
+cliff
+amount
+violin
+pair
+wrestle
+prefer
+ecology
+skate |  
+| bip_39_word_new_line12 | grocery
+much
+budget
+cliff
+amount
+violin
+pair
+wrestle
+prefer
+ecology
+skate
+art |  
+| bip_39_word_new_line2 | grocery
+much |  
+| bip_39_word_new_line3 | grocery
+much
+budget |  
+| bip_39_word_new_line4 | grocery
+much
+budget
+cliff |  
+| bip_39_word_new_line5 | grocery
+much
+budget
+cliff
+amount |  
+| bip_39_word_new_line6 | grocery
+much
+budget
+cliff
+amount
+violin |  
+| bip_39_word_new_line7 | grocery
+much
+budget
+cliff
+amount
+violin
+pair |  
+| bip_39_word_new_line8 | grocery
+much
+budget
+cliff
+amount
+violin
+pair
+wrestle |  
+| bip_39_word_new_line9 | grocery
+much
+budget
+cliff
+amount
+violin
+pair
+wrestle
+prefer |  
+| bip_39_word_space_0 | ['grocery', 'much', 'budget', 'cliff', 'amount', 'violin', 'pair', 'wrestle', 'prefer', 'ecology', 'skate', 'art'] |  
+| bip_39_word_space_1 | grocery |  
+| bip_39_word_space_10 | grocery much budget cliff amount violin pair wrestle prefer ecology |  
+| bip_39_word_space_11 | grocery much budget cliff amount violin pair wrestle prefer ecology skate |  
+| bip_39_word_space_12 | grocery much budget cliff amount violin pair wrestle prefer ecology skate art |  
+| bip_39_word_space_2 | grocery much |  
+| bip_39_word_space_3 | grocery much budget |  
+| bip_39_word_space_4 | grocery much budget cliff |  
+| bip_39_word_space_5 | grocery much budget cliff amount |  
+| bip_39_word_space_6 | grocery much budget cliff amount violin |  
+| bip_39_word_space_7 | grocery much budget cliff amount violin pair |  
+| bip_39_word_space_8 | grocery much budget cliff amount violin pair wrestle |  
+| bip_39_word_space_9 | grocery much budget cliff amount violin pair wrestle prefer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

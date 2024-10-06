@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: strategy payment
+  * bip 39 word 3: strategy payment burst
+  * bip 39 word: strategy payment burst blade strike couple snap antenna shrug swallow bubble already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | strategy |  
+| bip_39_word_new_br10 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow |  
+| bip_39_word_new_br11 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble |  
+| bip_39_word_new_br12 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble<br>already |  
+| bip_39_word_new_br2 | strategy<br>payment |  
+| bip_39_word_new_br3 | strategy<br>payment<br>burst |  
+| bip_39_word_new_br4 | strategy<br>payment<br>burst<br>blade |  
+| bip_39_word_new_br5 | strategy<br>payment<br>burst<br>blade<br>strike |  
+| bip_39_word_new_br6 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple |  
+| bip_39_word_new_br7 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap |  
+| bip_39_word_new_br8 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna |  
+| bip_39_word_new_br9 | strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug |  
+| bip_39_word_new_line1 | strategy |  
+| bip_39_word_new_line10 | strategy
+payment
+burst
+blade
+strike
+couple
+snap
+antenna
+shrug
+swallow |  
+| bip_39_word_new_line11 | strategy
+payment
+burst
+blade
+strike
+couple
+snap
+antenna
+shrug
+swallow
+bubble |  
+| bip_39_word_new_line12 | strategy
+payment
+burst
+blade
+strike
+couple
+snap
+antenna
+shrug
+swallow
+bubble
+already |  
+| bip_39_word_new_line2 | strategy
+payment |  
+| bip_39_word_new_line3 | strategy
+payment
+burst |  
+| bip_39_word_new_line4 | strategy
+payment
+burst
+blade |  
+| bip_39_word_new_line5 | strategy
+payment
+burst
+blade
+strike |  
+| bip_39_word_new_line6 | strategy
+payment
+burst
+blade
+strike
+couple |  
+| bip_39_word_new_line7 | strategy
+payment
+burst
+blade
+strike
+couple
+snap |  
+| bip_39_word_new_line8 | strategy
+payment
+burst
+blade
+strike
+couple
+snap
+antenna |  
+| bip_39_word_new_line9 | strategy
+payment
+burst
+blade
+strike
+couple
+snap
+antenna
+shrug |  
+| bip_39_word_space_0 | ['strategy', 'payment', 'burst', 'blade', 'strike', 'couple', 'snap', 'antenna', 'shrug', 'swallow', 'bubble', 'already'] |  
+| bip_39_word_space_1 | strategy |  
+| bip_39_word_space_10 | strategy payment burst blade strike couple snap antenna shrug swallow |  
+| bip_39_word_space_11 | strategy payment burst blade strike couple snap antenna shrug swallow bubble |  
+| bip_39_word_space_12 | strategy payment burst blade strike couple snap antenna shrug swallow bubble already |  
+| bip_39_word_space_2 | strategy payment |  
+| bip_39_word_space_3 | strategy payment burst |  
+| bip_39_word_space_4 | strategy payment burst blade |  
+| bip_39_word_space_5 | strategy payment burst blade strike |  
+| bip_39_word_space_6 | strategy payment burst blade strike couple |  
+| bip_39_word_space_7 | strategy payment burst blade strike couple snap |  
+| bip_39_word_space_8 | strategy payment burst blade strike couple snap antenna |  
+| bip_39_word_space_9 | strategy payment burst blade strike couple snap antenna shrug |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: disorder include
+  * bip 39 word 3: disorder include midnight
+  * bip 39 word: disorder include midnight seven chair limb wonder page basic stove business average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | disorder |  
+| bip_39_word_new_br10 | disorder<br>include<br>midnight<br>seven<br>chair<br>limb<br>wonder<br>page<br>basic<br>stove |  
+| bip_39_word_new_br11 | disorder<br>include<br>midnight<br>seven<br>chair<br>limb<br>wonder<br>page<br>basic<br>stove<br>business |  
+| bip_39_word_new_br12 | disorder<br>include<br>midnight<br>seven<br>chair<br>limb<br>wonder<br>page<br>basic<br>stove<br>business<br>average |  
+| bip_39_word_new_br2 | disorder<br>include |  
+| bip_39_word_new_br3 | disorder<br>include<br>midnight |  
+| bip_39_word_new_br4 | disorder<br>include<br>midnight<br>seven |  
+| bip_39_word_new_br5 | disorder<br>include<br>midnight<br>seven<br>chair |  
+| bip_39_word_new_br6 | disorder<br>include<br>midnight<br>seven<br>chair<br>limb |  
+| bip_39_word_new_br7 | disorder<br>include<br>midnight<br>seven<br>chair<br>limb<br>wonder |  
+| bip_39_word_new_br8 | disorder<br>include<br>midnight<br>seven<br>chair<br>limb<br>wonder<br>page |  
+| bip_39_word_new_br9 | disorder<br>include<br>midnight<br>seven<br>chair<br>limb<br>wonder<br>page<br>basic |  
+| bip_39_word_new_line1 | disorder |  
+| bip_39_word_new_line10 | disorder
+include
+midnight
+seven
+chair
+limb
+wonder
+page
+basic
+stove |  
+| bip_39_word_new_line11 | disorder
+include
+midnight
+seven
+chair
+limb
+wonder
+page
+basic
+stove
+business |  
+| bip_39_word_new_line12 | disorder
+include
+midnight
+seven
+chair
+limb
+wonder
+page
+basic
+stove
+business
+average |  
+| bip_39_word_new_line2 | disorder
+include |  
+| bip_39_word_new_line3 | disorder
+include
+midnight |  
+| bip_39_word_new_line4 | disorder
+include
+midnight
+seven |  
+| bip_39_word_new_line5 | disorder
+include
+midnight
+seven
+chair |  
+| bip_39_word_new_line6 | disorder
+include
+midnight
+seven
+chair
+limb |  
+| bip_39_word_new_line7 | disorder
+include
+midnight
+seven
+chair
+limb
+wonder |  
+| bip_39_word_new_line8 | disorder
+include
+midnight
+seven
+chair
+limb
+wonder
+page |  
+| bip_39_word_new_line9 | disorder
+include
+midnight
+seven
+chair
+limb
+wonder
+page
+basic |  
+| bip_39_word_space_0 | ['disorder', 'include', 'midnight', 'seven', 'chair', 'limb', 'wonder', 'page', 'basic', 'stove', 'business', 'average'] |  
+| bip_39_word_space_1 | disorder |  
+| bip_39_word_space_10 | disorder include midnight seven chair limb wonder page basic stove |  
+| bip_39_word_space_11 | disorder include midnight seven chair limb wonder page basic stove business |  
+| bip_39_word_space_12 | disorder include midnight seven chair limb wonder page basic stove business average |  
+| bip_39_word_space_2 | disorder include |  
+| bip_39_word_space_3 | disorder include midnight |  
+| bip_39_word_space_4 | disorder include midnight seven |  
+| bip_39_word_space_5 | disorder include midnight seven chair |  
+| bip_39_word_space_6 | disorder include midnight seven chair limb |  
+| bip_39_word_space_7 | disorder include midnight seven chair limb wonder |  
+| bip_39_word_space_8 | disorder include midnight seven chair limb wonder page |  
+| bip_39_word_space_9 | disorder include midnight seven chair limb wonder page basic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

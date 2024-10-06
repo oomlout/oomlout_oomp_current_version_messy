@@ -1,3 +1,187 @@
+bip_39_word_new_br1: cheap
+bip_39_word_new_br10: cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry
+bip_39_word_new_br11: cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry<br>pave
+bip_39_word_new_br12: cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator<br>dry<br>pave<br>apple
+bip_39_word_new_br2: cheap<br>negative
+bip_39_word_new_br3: cheap<br>negative<br>stem
+bip_39_word_new_br4: cheap<br>negative<br>stem<br>enter
+bip_39_word_new_br5: cheap<br>negative<br>stem<br>enter<br>stage
+bip_39_word_new_br6: cheap<br>negative<br>stem<br>enter<br>stage<br>choice
+bip_39_word_new_br7: cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide
+bip_39_word_new_br8: cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane
+bip_39_word_new_br9: cheap<br>negative<br>stem<br>enter<br>stage<br>choice<br>divide<br>insane<br>elevator
+bip_39_word_new_line1: cheap
+bip_39_word_new_line10: 'cheap
+
+  negative
+
+  stem
+
+  enter
+
+  stage
+
+  choice
+
+  divide
+
+  insane
+
+  elevator
+
+  dry'
+bip_39_word_new_line11: 'cheap
+
+  negative
+
+  stem
+
+  enter
+
+  stage
+
+  choice
+
+  divide
+
+  insane
+
+  elevator
+
+  dry
+
+  pave'
+bip_39_word_new_line12: 'cheap
+
+  negative
+
+  stem
+
+  enter
+
+  stage
+
+  choice
+
+  divide
+
+  insane
+
+  elevator
+
+  dry
+
+  pave
+
+  apple'
+bip_39_word_new_line2: 'cheap
+
+  negative'
+bip_39_word_new_line3: 'cheap
+
+  negative
+
+  stem'
+bip_39_word_new_line4: 'cheap
+
+  negative
+
+  stem
+
+  enter'
+bip_39_word_new_line5: 'cheap
+
+  negative
+
+  stem
+
+  enter
+
+  stage'
+bip_39_word_new_line6: 'cheap
+
+  negative
+
+  stem
+
+  enter
+
+  stage
+
+  choice'
+bip_39_word_new_line7: 'cheap
+
+  negative
+
+  stem
+
+  enter
+
+  stage
+
+  choice
+
+  divide'
+bip_39_word_new_line8: 'cheap
+
+  negative
+
+  stem
+
+  enter
+
+  stage
+
+  choice
+
+  divide
+
+  insane'
+bip_39_word_new_line9: 'cheap
+
+  negative
+
+  stem
+
+  enter
+
+  stage
+
+  choice
+
+  divide
+
+  insane
+
+  elevator'
+bip_39_word_space_0:
+- cheap
+- negative
+- stem
+- enter
+- stage
+- choice
+- divide
+- insane
+- elevator
+- dry
+- pave
+- apple
+bip_39_word_space_1: cheap
+bip_39_word_space_10: cheap negative stem enter stage choice divide insane elevator
+  dry
+bip_39_word_space_11: cheap negative stem enter stage choice divide insane elevator
+  dry pave
+bip_39_word_space_12: cheap negative stem enter stage choice divide insane elevator
+  dry pave apple
+bip_39_word_space_2: cheap negative
+bip_39_word_space_3: cheap negative stem
+bip_39_word_space_4: cheap negative stem enter
+bip_39_word_space_5: cheap negative stem enter stage
+bip_39_word_space_6: cheap negative stem enter stage choice
+bip_39_word_space_7: cheap negative stem enter stage choice divide
+bip_39_word_space_8: cheap negative stem enter stage choice divide insane
+bip_39_word_space_9: cheap negative stem enter stage choice divide insane elevator
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

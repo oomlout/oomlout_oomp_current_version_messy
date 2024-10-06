@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: couch supreme
+  * bip 39 word 3: couch supreme tape
+  * bip 39 word: couch supreme tape truck whisper reform early royal first client oppose adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | couch |  
+| bip_39_word_new_br10 | couch<br>supreme<br>tape<br>truck<br>whisper<br>reform<br>early<br>royal<br>first<br>client |  
+| bip_39_word_new_br11 | couch<br>supreme<br>tape<br>truck<br>whisper<br>reform<br>early<br>royal<br>first<br>client<br>oppose |  
+| bip_39_word_new_br12 | couch<br>supreme<br>tape<br>truck<br>whisper<br>reform<br>early<br>royal<br>first<br>client<br>oppose<br>adjust |  
+| bip_39_word_new_br2 | couch<br>supreme |  
+| bip_39_word_new_br3 | couch<br>supreme<br>tape |  
+| bip_39_word_new_br4 | couch<br>supreme<br>tape<br>truck |  
+| bip_39_word_new_br5 | couch<br>supreme<br>tape<br>truck<br>whisper |  
+| bip_39_word_new_br6 | couch<br>supreme<br>tape<br>truck<br>whisper<br>reform |  
+| bip_39_word_new_br7 | couch<br>supreme<br>tape<br>truck<br>whisper<br>reform<br>early |  
+| bip_39_word_new_br8 | couch<br>supreme<br>tape<br>truck<br>whisper<br>reform<br>early<br>royal |  
+| bip_39_word_new_br9 | couch<br>supreme<br>tape<br>truck<br>whisper<br>reform<br>early<br>royal<br>first |  
+| bip_39_word_new_line1 | couch |  
+| bip_39_word_new_line10 | couch
+supreme
+tape
+truck
+whisper
+reform
+early
+royal
+first
+client |  
+| bip_39_word_new_line11 | couch
+supreme
+tape
+truck
+whisper
+reform
+early
+royal
+first
+client
+oppose |  
+| bip_39_word_new_line12 | couch
+supreme
+tape
+truck
+whisper
+reform
+early
+royal
+first
+client
+oppose
+adjust |  
+| bip_39_word_new_line2 | couch
+supreme |  
+| bip_39_word_new_line3 | couch
+supreme
+tape |  
+| bip_39_word_new_line4 | couch
+supreme
+tape
+truck |  
+| bip_39_word_new_line5 | couch
+supreme
+tape
+truck
+whisper |  
+| bip_39_word_new_line6 | couch
+supreme
+tape
+truck
+whisper
+reform |  
+| bip_39_word_new_line7 | couch
+supreme
+tape
+truck
+whisper
+reform
+early |  
+| bip_39_word_new_line8 | couch
+supreme
+tape
+truck
+whisper
+reform
+early
+royal |  
+| bip_39_word_new_line9 | couch
+supreme
+tape
+truck
+whisper
+reform
+early
+royal
+first |  
+| bip_39_word_space_0 | ['couch', 'supreme', 'tape', 'truck', 'whisper', 'reform', 'early', 'royal', 'first', 'client', 'oppose', 'adjust'] |  
+| bip_39_word_space_1 | couch |  
+| bip_39_word_space_10 | couch supreme tape truck whisper reform early royal first client |  
+| bip_39_word_space_11 | couch supreme tape truck whisper reform early royal first client oppose |  
+| bip_39_word_space_12 | couch supreme tape truck whisper reform early royal first client oppose adjust |  
+| bip_39_word_space_2 | couch supreme |  
+| bip_39_word_space_3 | couch supreme tape |  
+| bip_39_word_space_4 | couch supreme tape truck |  
+| bip_39_word_space_5 | couch supreme tape truck whisper |  
+| bip_39_word_space_6 | couch supreme tape truck whisper reform |  
+| bip_39_word_space_7 | couch supreme tape truck whisper reform early |  
+| bip_39_word_space_8 | couch supreme tape truck whisper reform early royal |  
+| bip_39_word_space_9 | couch supreme tape truck whisper reform early royal first |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

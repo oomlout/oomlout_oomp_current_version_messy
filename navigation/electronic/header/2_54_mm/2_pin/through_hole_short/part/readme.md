@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kingdom fluid
+  * bip 39 word 3: kingdom fluid wheat
+  * bip 39 word: kingdom fluid wheat tail click shiver toy fit pattern nice ranch audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kingdom |  
+| bip_39_word_new_br10 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver<br>toy<br>fit<br>pattern<br>nice |  
+| bip_39_word_new_br11 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver<br>toy<br>fit<br>pattern<br>nice<br>ranch |  
+| bip_39_word_new_br12 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver<br>toy<br>fit<br>pattern<br>nice<br>ranch<br>audit |  
+| bip_39_word_new_br2 | kingdom<br>fluid |  
+| bip_39_word_new_br3 | kingdom<br>fluid<br>wheat |  
+| bip_39_word_new_br4 | kingdom<br>fluid<br>wheat<br>tail |  
+| bip_39_word_new_br5 | kingdom<br>fluid<br>wheat<br>tail<br>click |  
+| bip_39_word_new_br6 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver |  
+| bip_39_word_new_br7 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver<br>toy |  
+| bip_39_word_new_br8 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver<br>toy<br>fit |  
+| bip_39_word_new_br9 | kingdom<br>fluid<br>wheat<br>tail<br>click<br>shiver<br>toy<br>fit<br>pattern |  
+| bip_39_word_new_line1 | kingdom |  
+| bip_39_word_new_line10 | kingdom
+fluid
+wheat
+tail
+click
+shiver
+toy
+fit
+pattern
+nice |  
+| bip_39_word_new_line11 | kingdom
+fluid
+wheat
+tail
+click
+shiver
+toy
+fit
+pattern
+nice
+ranch |  
+| bip_39_word_new_line12 | kingdom
+fluid
+wheat
+tail
+click
+shiver
+toy
+fit
+pattern
+nice
+ranch
+audit |  
+| bip_39_word_new_line2 | kingdom
+fluid |  
+| bip_39_word_new_line3 | kingdom
+fluid
+wheat |  
+| bip_39_word_new_line4 | kingdom
+fluid
+wheat
+tail |  
+| bip_39_word_new_line5 | kingdom
+fluid
+wheat
+tail
+click |  
+| bip_39_word_new_line6 | kingdom
+fluid
+wheat
+tail
+click
+shiver |  
+| bip_39_word_new_line7 | kingdom
+fluid
+wheat
+tail
+click
+shiver
+toy |  
+| bip_39_word_new_line8 | kingdom
+fluid
+wheat
+tail
+click
+shiver
+toy
+fit |  
+| bip_39_word_new_line9 | kingdom
+fluid
+wheat
+tail
+click
+shiver
+toy
+fit
+pattern |  
+| bip_39_word_space_0 | ['kingdom', 'fluid', 'wheat', 'tail', 'click', 'shiver', 'toy', 'fit', 'pattern', 'nice', 'ranch', 'audit'] |  
+| bip_39_word_space_1 | kingdom |  
+| bip_39_word_space_10 | kingdom fluid wheat tail click shiver toy fit pattern nice |  
+| bip_39_word_space_11 | kingdom fluid wheat tail click shiver toy fit pattern nice ranch |  
+| bip_39_word_space_12 | kingdom fluid wheat tail click shiver toy fit pattern nice ranch audit |  
+| bip_39_word_space_2 | kingdom fluid |  
+| bip_39_word_space_3 | kingdom fluid wheat |  
+| bip_39_word_space_4 | kingdom fluid wheat tail |  
+| bip_39_word_space_5 | kingdom fluid wheat tail click |  
+| bip_39_word_space_6 | kingdom fluid wheat tail click shiver |  
+| bip_39_word_space_7 | kingdom fluid wheat tail click shiver toy |  
+| bip_39_word_space_8 | kingdom fluid wheat tail click shiver toy fit |  
+| bip_39_word_space_9 | kingdom fluid wheat tail click shiver toy fit pattern |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

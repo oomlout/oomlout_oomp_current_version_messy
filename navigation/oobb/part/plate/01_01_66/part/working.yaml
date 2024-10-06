@@ -1,3 +1,186 @@
+bip_39_word_new_br1: attack
+bip_39_word_new_br10: attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put
+bip_39_word_new_br11: attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put<br>hammer
+bip_39_word_new_br12: attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only<br>put<br>hammer<br>adjust
+bip_39_word_new_br2: attack<br>little
+bip_39_word_new_br3: attack<br>little<br>bench
+bip_39_word_new_br4: attack<br>little<br>bench<br>slow
+bip_39_word_new_br5: attack<br>little<br>bench<br>slow<br>produce
+bip_39_word_new_br6: attack<br>little<br>bench<br>slow<br>produce<br>lion
+bip_39_word_new_br7: attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef
+bip_39_word_new_br8: attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private
+bip_39_word_new_br9: attack<br>little<br>bench<br>slow<br>produce<br>lion<br>chef<br>private<br>only
+bip_39_word_new_line1: attack
+bip_39_word_new_line10: 'attack
+
+  little
+
+  bench
+
+  slow
+
+  produce
+
+  lion
+
+  chef
+
+  private
+
+  only
+
+  put'
+bip_39_word_new_line11: 'attack
+
+  little
+
+  bench
+
+  slow
+
+  produce
+
+  lion
+
+  chef
+
+  private
+
+  only
+
+  put
+
+  hammer'
+bip_39_word_new_line12: 'attack
+
+  little
+
+  bench
+
+  slow
+
+  produce
+
+  lion
+
+  chef
+
+  private
+
+  only
+
+  put
+
+  hammer
+
+  adjust'
+bip_39_word_new_line2: 'attack
+
+  little'
+bip_39_word_new_line3: 'attack
+
+  little
+
+  bench'
+bip_39_word_new_line4: 'attack
+
+  little
+
+  bench
+
+  slow'
+bip_39_word_new_line5: 'attack
+
+  little
+
+  bench
+
+  slow
+
+  produce'
+bip_39_word_new_line6: 'attack
+
+  little
+
+  bench
+
+  slow
+
+  produce
+
+  lion'
+bip_39_word_new_line7: 'attack
+
+  little
+
+  bench
+
+  slow
+
+  produce
+
+  lion
+
+  chef'
+bip_39_word_new_line8: 'attack
+
+  little
+
+  bench
+
+  slow
+
+  produce
+
+  lion
+
+  chef
+
+  private'
+bip_39_word_new_line9: 'attack
+
+  little
+
+  bench
+
+  slow
+
+  produce
+
+  lion
+
+  chef
+
+  private
+
+  only'
+bip_39_word_space_0:
+- attack
+- little
+- bench
+- slow
+- produce
+- lion
+- chef
+- private
+- only
+- put
+- hammer
+- adjust
+bip_39_word_space_1: attack
+bip_39_word_space_10: attack little bench slow produce lion chef private only put
+bip_39_word_space_11: attack little bench slow produce lion chef private only put
+  hammer
+bip_39_word_space_12: attack little bench slow produce lion chef private only put
+  hammer adjust
+bip_39_word_space_2: attack little
+bip_39_word_space_3: attack little bench
+bip_39_word_space_4: attack little bench slow
+bip_39_word_space_5: attack little bench slow produce
+bip_39_word_space_6: attack little bench slow produce lion
+bip_39_word_space_7: attack little bench slow produce lion chef
+bip_39_word_space_8: attack little bench slow produce lion chef private
+bip_39_word_space_9: attack little bench slow produce lion chef private only
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

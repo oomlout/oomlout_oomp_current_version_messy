@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: memory tired
+  * bip 39 word 3: memory tired together
+  * bip 39 word: memory tired together champion entry allow elevator obscure solar forum cheap alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | memory |  
+| bip_39_word_new_br10 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum |  
+| bip_39_word_new_br11 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum<br>cheap |  
+| bip_39_word_new_br12 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar<br>forum<br>cheap<br>alley |  
+| bip_39_word_new_br2 | memory<br>tired |  
+| bip_39_word_new_br3 | memory<br>tired<br>together |  
+| bip_39_word_new_br4 | memory<br>tired<br>together<br>champion |  
+| bip_39_word_new_br5 | memory<br>tired<br>together<br>champion<br>entry |  
+| bip_39_word_new_br6 | memory<br>tired<br>together<br>champion<br>entry<br>allow |  
+| bip_39_word_new_br7 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator |  
+| bip_39_word_new_br8 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure |  
+| bip_39_word_new_br9 | memory<br>tired<br>together<br>champion<br>entry<br>allow<br>elevator<br>obscure<br>solar |  
+| bip_39_word_new_line1 | memory |  
+| bip_39_word_new_line10 | memory
+tired
+together
+champion
+entry
+allow
+elevator
+obscure
+solar
+forum |  
+| bip_39_word_new_line11 | memory
+tired
+together
+champion
+entry
+allow
+elevator
+obscure
+solar
+forum
+cheap |  
+| bip_39_word_new_line12 | memory
+tired
+together
+champion
+entry
+allow
+elevator
+obscure
+solar
+forum
+cheap
+alley |  
+| bip_39_word_new_line2 | memory
+tired |  
+| bip_39_word_new_line3 | memory
+tired
+together |  
+| bip_39_word_new_line4 | memory
+tired
+together
+champion |  
+| bip_39_word_new_line5 | memory
+tired
+together
+champion
+entry |  
+| bip_39_word_new_line6 | memory
+tired
+together
+champion
+entry
+allow |  
+| bip_39_word_new_line7 | memory
+tired
+together
+champion
+entry
+allow
+elevator |  
+| bip_39_word_new_line8 | memory
+tired
+together
+champion
+entry
+allow
+elevator
+obscure |  
+| bip_39_word_new_line9 | memory
+tired
+together
+champion
+entry
+allow
+elevator
+obscure
+solar |  
+| bip_39_word_space_0 | ['memory', 'tired', 'together', 'champion', 'entry', 'allow', 'elevator', 'obscure', 'solar', 'forum', 'cheap', 'alley'] |  
+| bip_39_word_space_1 | memory |  
+| bip_39_word_space_10 | memory tired together champion entry allow elevator obscure solar forum |  
+| bip_39_word_space_11 | memory tired together champion entry allow elevator obscure solar forum cheap |  
+| bip_39_word_space_12 | memory tired together champion entry allow elevator obscure solar forum cheap alley |  
+| bip_39_word_space_2 | memory tired |  
+| bip_39_word_space_3 | memory tired together |  
+| bip_39_word_space_4 | memory tired together champion |  
+| bip_39_word_space_5 | memory tired together champion entry |  
+| bip_39_word_space_6 | memory tired together champion entry allow |  
+| bip_39_word_space_7 | memory tired together champion entry allow elevator |  
+| bip_39_word_space_8 | memory tired together champion entry allow elevator obscure |  
+| bip_39_word_space_9 | memory tired together champion entry allow elevator obscure solar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

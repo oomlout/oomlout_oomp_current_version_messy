@@ -1,3 +1,186 @@
+bip_39_word_new_br1: track
+bip_39_word_new_br10: track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent<br>addict<br>frog<br>when<br>duck
+bip_39_word_new_br11: track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent<br>addict<br>frog<br>when<br>duck<br>purpose
+bip_39_word_new_br12: track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent<br>addict<br>frog<br>when<br>duck<br>purpose<br>across
+bip_39_word_new_br2: track<br>myth
+bip_39_word_new_br3: track<br>myth<br>yellow
+bip_39_word_new_br4: track<br>myth<br>yellow<br>merge
+bip_39_word_new_br5: track<br>myth<br>yellow<br>merge<br>tomorrow
+bip_39_word_new_br6: track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent
+bip_39_word_new_br7: track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent<br>addict
+bip_39_word_new_br8: track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent<br>addict<br>frog
+bip_39_word_new_br9: track<br>myth<br>yellow<br>merge<br>tomorrow<br>agent<br>addict<br>frog<br>when
+bip_39_word_new_line1: track
+bip_39_word_new_line10: 'track
+
+  myth
+
+  yellow
+
+  merge
+
+  tomorrow
+
+  agent
+
+  addict
+
+  frog
+
+  when
+
+  duck'
+bip_39_word_new_line11: 'track
+
+  myth
+
+  yellow
+
+  merge
+
+  tomorrow
+
+  agent
+
+  addict
+
+  frog
+
+  when
+
+  duck
+
+  purpose'
+bip_39_word_new_line12: 'track
+
+  myth
+
+  yellow
+
+  merge
+
+  tomorrow
+
+  agent
+
+  addict
+
+  frog
+
+  when
+
+  duck
+
+  purpose
+
+  across'
+bip_39_word_new_line2: 'track
+
+  myth'
+bip_39_word_new_line3: 'track
+
+  myth
+
+  yellow'
+bip_39_word_new_line4: 'track
+
+  myth
+
+  yellow
+
+  merge'
+bip_39_word_new_line5: 'track
+
+  myth
+
+  yellow
+
+  merge
+
+  tomorrow'
+bip_39_word_new_line6: 'track
+
+  myth
+
+  yellow
+
+  merge
+
+  tomorrow
+
+  agent'
+bip_39_word_new_line7: 'track
+
+  myth
+
+  yellow
+
+  merge
+
+  tomorrow
+
+  agent
+
+  addict'
+bip_39_word_new_line8: 'track
+
+  myth
+
+  yellow
+
+  merge
+
+  tomorrow
+
+  agent
+
+  addict
+
+  frog'
+bip_39_word_new_line9: 'track
+
+  myth
+
+  yellow
+
+  merge
+
+  tomorrow
+
+  agent
+
+  addict
+
+  frog
+
+  when'
+bip_39_word_space_0:
+- track
+- myth
+- yellow
+- merge
+- tomorrow
+- agent
+- addict
+- frog
+- when
+- duck
+- purpose
+- across
+bip_39_word_space_1: track
+bip_39_word_space_10: track myth yellow merge tomorrow agent addict frog when duck
+bip_39_word_space_11: track myth yellow merge tomorrow agent addict frog when duck
+  purpose
+bip_39_word_space_12: track myth yellow merge tomorrow agent addict frog when duck
+  purpose across
+bip_39_word_space_2: track myth
+bip_39_word_space_3: track myth yellow
+bip_39_word_space_4: track myth yellow merge
+bip_39_word_space_5: track myth yellow merge tomorrow
+bip_39_word_space_6: track myth yellow merge tomorrow agent
+bip_39_word_space_7: track myth yellow merge tomorrow agent addict
+bip_39_word_space_8: track myth yellow merge tomorrow agent addict frog
+bip_39_word_space_9: track myth yellow merge tomorrow agent addict frog when
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trim domain
+  * bip 39 word 3: trim domain orphan
+  * bip 39 word: trim domain orphan flame power economy cook glad bottom goat hard about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trim |  
+| bip_39_word_new_br10 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat |  
+| bip_39_word_new_br11 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat<br>hard |  
+| bip_39_word_new_br12 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom<br>goat<br>hard<br>about |  
+| bip_39_word_new_br2 | trim<br>domain |  
+| bip_39_word_new_br3 | trim<br>domain<br>orphan |  
+| bip_39_word_new_br4 | trim<br>domain<br>orphan<br>flame |  
+| bip_39_word_new_br5 | trim<br>domain<br>orphan<br>flame<br>power |  
+| bip_39_word_new_br6 | trim<br>domain<br>orphan<br>flame<br>power<br>economy |  
+| bip_39_word_new_br7 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook |  
+| bip_39_word_new_br8 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad |  
+| bip_39_word_new_br9 | trim<br>domain<br>orphan<br>flame<br>power<br>economy<br>cook<br>glad<br>bottom |  
+| bip_39_word_new_line1 | trim |  
+| bip_39_word_new_line10 | trim
+domain
+orphan
+flame
+power
+economy
+cook
+glad
+bottom
+goat |  
+| bip_39_word_new_line11 | trim
+domain
+orphan
+flame
+power
+economy
+cook
+glad
+bottom
+goat
+hard |  
+| bip_39_word_new_line12 | trim
+domain
+orphan
+flame
+power
+economy
+cook
+glad
+bottom
+goat
+hard
+about |  
+| bip_39_word_new_line2 | trim
+domain |  
+| bip_39_word_new_line3 | trim
+domain
+orphan |  
+| bip_39_word_new_line4 | trim
+domain
+orphan
+flame |  
+| bip_39_word_new_line5 | trim
+domain
+orphan
+flame
+power |  
+| bip_39_word_new_line6 | trim
+domain
+orphan
+flame
+power
+economy |  
+| bip_39_word_new_line7 | trim
+domain
+orphan
+flame
+power
+economy
+cook |  
+| bip_39_word_new_line8 | trim
+domain
+orphan
+flame
+power
+economy
+cook
+glad |  
+| bip_39_word_new_line9 | trim
+domain
+orphan
+flame
+power
+economy
+cook
+glad
+bottom |  
+| bip_39_word_space_0 | ['trim', 'domain', 'orphan', 'flame', 'power', 'economy', 'cook', 'glad', 'bottom', 'goat', 'hard', 'about'] |  
+| bip_39_word_space_1 | trim |  
+| bip_39_word_space_10 | trim domain orphan flame power economy cook glad bottom goat |  
+| bip_39_word_space_11 | trim domain orphan flame power economy cook glad bottom goat hard |  
+| bip_39_word_space_12 | trim domain orphan flame power economy cook glad bottom goat hard about |  
+| bip_39_word_space_2 | trim domain |  
+| bip_39_word_space_3 | trim domain orphan |  
+| bip_39_word_space_4 | trim domain orphan flame |  
+| bip_39_word_space_5 | trim domain orphan flame power |  
+| bip_39_word_space_6 | trim domain orphan flame power economy |  
+| bip_39_word_space_7 | trim domain orphan flame power economy cook |  
+| bip_39_word_space_8 | trim domain orphan flame power economy cook glad |  
+| bip_39_word_space_9 | trim domain orphan flame power economy cook glad bottom |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

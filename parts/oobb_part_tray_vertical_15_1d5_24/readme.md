@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: come sort
+  * bip 39 word 3: come sort mesh
+  * bip 39 word: come sort mesh ordinary property smart update shiver shallow dynamic person actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | come |  
+| bip_39_word_new_br10 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart<br>update<br>shiver<br>shallow<br>dynamic |  
+| bip_39_word_new_br11 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart<br>update<br>shiver<br>shallow<br>dynamic<br>person |  
+| bip_39_word_new_br12 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart<br>update<br>shiver<br>shallow<br>dynamic<br>person<br>actual |  
+| bip_39_word_new_br2 | come<br>sort |  
+| bip_39_word_new_br3 | come<br>sort<br>mesh |  
+| bip_39_word_new_br4 | come<br>sort<br>mesh<br>ordinary |  
+| bip_39_word_new_br5 | come<br>sort<br>mesh<br>ordinary<br>property |  
+| bip_39_word_new_br6 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart |  
+| bip_39_word_new_br7 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart<br>update |  
+| bip_39_word_new_br8 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart<br>update<br>shiver |  
+| bip_39_word_new_br9 | come<br>sort<br>mesh<br>ordinary<br>property<br>smart<br>update<br>shiver<br>shallow |  
+| bip_39_word_new_line1 | come |  
+| bip_39_word_new_line10 | come
+sort
+mesh
+ordinary
+property
+smart
+update
+shiver
+shallow
+dynamic |  
+| bip_39_word_new_line11 | come
+sort
+mesh
+ordinary
+property
+smart
+update
+shiver
+shallow
+dynamic
+person |  
+| bip_39_word_new_line12 | come
+sort
+mesh
+ordinary
+property
+smart
+update
+shiver
+shallow
+dynamic
+person
+actual |  
+| bip_39_word_new_line2 | come
+sort |  
+| bip_39_word_new_line3 | come
+sort
+mesh |  
+| bip_39_word_new_line4 | come
+sort
+mesh
+ordinary |  
+| bip_39_word_new_line5 | come
+sort
+mesh
+ordinary
+property |  
+| bip_39_word_new_line6 | come
+sort
+mesh
+ordinary
+property
+smart |  
+| bip_39_word_new_line7 | come
+sort
+mesh
+ordinary
+property
+smart
+update |  
+| bip_39_word_new_line8 | come
+sort
+mesh
+ordinary
+property
+smart
+update
+shiver |  
+| bip_39_word_new_line9 | come
+sort
+mesh
+ordinary
+property
+smart
+update
+shiver
+shallow |  
+| bip_39_word_space_0 | ['come', 'sort', 'mesh', 'ordinary', 'property', 'smart', 'update', 'shiver', 'shallow', 'dynamic', 'person', 'actual'] |  
+| bip_39_word_space_1 | come |  
+| bip_39_word_space_10 | come sort mesh ordinary property smart update shiver shallow dynamic |  
+| bip_39_word_space_11 | come sort mesh ordinary property smart update shiver shallow dynamic person |  
+| bip_39_word_space_12 | come sort mesh ordinary property smart update shiver shallow dynamic person actual |  
+| bip_39_word_space_2 | come sort |  
+| bip_39_word_space_3 | come sort mesh |  
+| bip_39_word_space_4 | come sort mesh ordinary |  
+| bip_39_word_space_5 | come sort mesh ordinary property |  
+| bip_39_word_space_6 | come sort mesh ordinary property smart |  
+| bip_39_word_space_7 | come sort mesh ordinary property smart update |  
+| bip_39_word_space_8 | come sort mesh ordinary property smart update shiver |  
+| bip_39_word_space_9 | come sort mesh ordinary property smart update shiver shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

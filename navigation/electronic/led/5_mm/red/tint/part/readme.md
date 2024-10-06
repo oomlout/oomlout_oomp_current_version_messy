@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: city teach
+  * bip 39 word 3: city teach forget
+  * bip 39 word: city teach forget large intact stadium melt mammal model update sorry accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | city |  
+| bip_39_word_new_br10 | city<br>teach<br>forget<br>large<br>intact<br>stadium<br>melt<br>mammal<br>model<br>update |  
+| bip_39_word_new_br11 | city<br>teach<br>forget<br>large<br>intact<br>stadium<br>melt<br>mammal<br>model<br>update<br>sorry |  
+| bip_39_word_new_br12 | city<br>teach<br>forget<br>large<br>intact<br>stadium<br>melt<br>mammal<br>model<br>update<br>sorry<br>accuse |  
+| bip_39_word_new_br2 | city<br>teach |  
+| bip_39_word_new_br3 | city<br>teach<br>forget |  
+| bip_39_word_new_br4 | city<br>teach<br>forget<br>large |  
+| bip_39_word_new_br5 | city<br>teach<br>forget<br>large<br>intact |  
+| bip_39_word_new_br6 | city<br>teach<br>forget<br>large<br>intact<br>stadium |  
+| bip_39_word_new_br7 | city<br>teach<br>forget<br>large<br>intact<br>stadium<br>melt |  
+| bip_39_word_new_br8 | city<br>teach<br>forget<br>large<br>intact<br>stadium<br>melt<br>mammal |  
+| bip_39_word_new_br9 | city<br>teach<br>forget<br>large<br>intact<br>stadium<br>melt<br>mammal<br>model |  
+| bip_39_word_new_line1 | city |  
+| bip_39_word_new_line10 | city
+teach
+forget
+large
+intact
+stadium
+melt
+mammal
+model
+update |  
+| bip_39_word_new_line11 | city
+teach
+forget
+large
+intact
+stadium
+melt
+mammal
+model
+update
+sorry |  
+| bip_39_word_new_line12 | city
+teach
+forget
+large
+intact
+stadium
+melt
+mammal
+model
+update
+sorry
+accuse |  
+| bip_39_word_new_line2 | city
+teach |  
+| bip_39_word_new_line3 | city
+teach
+forget |  
+| bip_39_word_new_line4 | city
+teach
+forget
+large |  
+| bip_39_word_new_line5 | city
+teach
+forget
+large
+intact |  
+| bip_39_word_new_line6 | city
+teach
+forget
+large
+intact
+stadium |  
+| bip_39_word_new_line7 | city
+teach
+forget
+large
+intact
+stadium
+melt |  
+| bip_39_word_new_line8 | city
+teach
+forget
+large
+intact
+stadium
+melt
+mammal |  
+| bip_39_word_new_line9 | city
+teach
+forget
+large
+intact
+stadium
+melt
+mammal
+model |  
+| bip_39_word_space_0 | ['city', 'teach', 'forget', 'large', 'intact', 'stadium', 'melt', 'mammal', 'model', 'update', 'sorry', 'accuse'] |  
+| bip_39_word_space_1 | city |  
+| bip_39_word_space_10 | city teach forget large intact stadium melt mammal model update |  
+| bip_39_word_space_11 | city teach forget large intact stadium melt mammal model update sorry |  
+| bip_39_word_space_12 | city teach forget large intact stadium melt mammal model update sorry accuse |  
+| bip_39_word_space_2 | city teach |  
+| bip_39_word_space_3 | city teach forget |  
+| bip_39_word_space_4 | city teach forget large |  
+| bip_39_word_space_5 | city teach forget large intact |  
+| bip_39_word_space_6 | city teach forget large intact stadium |  
+| bip_39_word_space_7 | city teach forget large intact stadium melt |  
+| bip_39_word_space_8 | city teach forget large intact stadium melt mammal |  
+| bip_39_word_space_9 | city teach forget large intact stadium melt mammal model |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

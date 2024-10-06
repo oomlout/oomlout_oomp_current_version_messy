@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wedding scene
+  * bip 39 word 3: wedding scene culture
+  * bip 39 word: wedding scene culture actual fall peace system supply talent usual evoke amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wedding |  
+| bip_39_word_new_br10 | wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply<br>talent<br>usual |  
+| bip_39_word_new_br11 | wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply<br>talent<br>usual<br>evoke |  
+| bip_39_word_new_br12 | wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply<br>talent<br>usual<br>evoke<br>amount |  
+| bip_39_word_new_br2 | wedding<br>scene |  
+| bip_39_word_new_br3 | wedding<br>scene<br>culture |  
+| bip_39_word_new_br4 | wedding<br>scene<br>culture<br>actual |  
+| bip_39_word_new_br5 | wedding<br>scene<br>culture<br>actual<br>fall |  
+| bip_39_word_new_br6 | wedding<br>scene<br>culture<br>actual<br>fall<br>peace |  
+| bip_39_word_new_br7 | wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system |  
+| bip_39_word_new_br8 | wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply |  
+| bip_39_word_new_br9 | wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply<br>talent |  
+| bip_39_word_new_line1 | wedding |  
+| bip_39_word_new_line10 | wedding
+scene
+culture
+actual
+fall
+peace
+system
+supply
+talent
+usual |  
+| bip_39_word_new_line11 | wedding
+scene
+culture
+actual
+fall
+peace
+system
+supply
+talent
+usual
+evoke |  
+| bip_39_word_new_line12 | wedding
+scene
+culture
+actual
+fall
+peace
+system
+supply
+talent
+usual
+evoke
+amount |  
+| bip_39_word_new_line2 | wedding
+scene |  
+| bip_39_word_new_line3 | wedding
+scene
+culture |  
+| bip_39_word_new_line4 | wedding
+scene
+culture
+actual |  
+| bip_39_word_new_line5 | wedding
+scene
+culture
+actual
+fall |  
+| bip_39_word_new_line6 | wedding
+scene
+culture
+actual
+fall
+peace |  
+| bip_39_word_new_line7 | wedding
+scene
+culture
+actual
+fall
+peace
+system |  
+| bip_39_word_new_line8 | wedding
+scene
+culture
+actual
+fall
+peace
+system
+supply |  
+| bip_39_word_new_line9 | wedding
+scene
+culture
+actual
+fall
+peace
+system
+supply
+talent |  
+| bip_39_word_space_0 | ['wedding', 'scene', 'culture', 'actual', 'fall', 'peace', 'system', 'supply', 'talent', 'usual', 'evoke', 'amount'] |  
+| bip_39_word_space_1 | wedding |  
+| bip_39_word_space_10 | wedding scene culture actual fall peace system supply talent usual |  
+| bip_39_word_space_11 | wedding scene culture actual fall peace system supply talent usual evoke |  
+| bip_39_word_space_12 | wedding scene culture actual fall peace system supply talent usual evoke amount |  
+| bip_39_word_space_2 | wedding scene |  
+| bip_39_word_space_3 | wedding scene culture |  
+| bip_39_word_space_4 | wedding scene culture actual |  
+| bip_39_word_space_5 | wedding scene culture actual fall |  
+| bip_39_word_space_6 | wedding scene culture actual fall peace |  
+| bip_39_word_space_7 | wedding scene culture actual fall peace system |  
+| bip_39_word_space_8 | wedding scene culture actual fall peace system supply |  
+| bip_39_word_space_9 | wedding scene culture actual fall peace system supply talent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

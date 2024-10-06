@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: disease win
+  * bip 39 word 3: disease win turn
+  * bip 39 word: disease win turn banner dry program spring property syrup auction awful ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | disease |  
+| bip_39_word_new_br10 | disease<br>win<br>turn<br>banner<br>dry<br>program<br>spring<br>property<br>syrup<br>auction |  
+| bip_39_word_new_br11 | disease<br>win<br>turn<br>banner<br>dry<br>program<br>spring<br>property<br>syrup<br>auction<br>awful |  
+| bip_39_word_new_br12 | disease<br>win<br>turn<br>banner<br>dry<br>program<br>spring<br>property<br>syrup<br>auction<br>awful<br>ancient |  
+| bip_39_word_new_br2 | disease<br>win |  
+| bip_39_word_new_br3 | disease<br>win<br>turn |  
+| bip_39_word_new_br4 | disease<br>win<br>turn<br>banner |  
+| bip_39_word_new_br5 | disease<br>win<br>turn<br>banner<br>dry |  
+| bip_39_word_new_br6 | disease<br>win<br>turn<br>banner<br>dry<br>program |  
+| bip_39_word_new_br7 | disease<br>win<br>turn<br>banner<br>dry<br>program<br>spring |  
+| bip_39_word_new_br8 | disease<br>win<br>turn<br>banner<br>dry<br>program<br>spring<br>property |  
+| bip_39_word_new_br9 | disease<br>win<br>turn<br>banner<br>dry<br>program<br>spring<br>property<br>syrup |  
+| bip_39_word_new_line1 | disease |  
+| bip_39_word_new_line10 | disease
+win
+turn
+banner
+dry
+program
+spring
+property
+syrup
+auction |  
+| bip_39_word_new_line11 | disease
+win
+turn
+banner
+dry
+program
+spring
+property
+syrup
+auction
+awful |  
+| bip_39_word_new_line12 | disease
+win
+turn
+banner
+dry
+program
+spring
+property
+syrup
+auction
+awful
+ancient |  
+| bip_39_word_new_line2 | disease
+win |  
+| bip_39_word_new_line3 | disease
+win
+turn |  
+| bip_39_word_new_line4 | disease
+win
+turn
+banner |  
+| bip_39_word_new_line5 | disease
+win
+turn
+banner
+dry |  
+| bip_39_word_new_line6 | disease
+win
+turn
+banner
+dry
+program |  
+| bip_39_word_new_line7 | disease
+win
+turn
+banner
+dry
+program
+spring |  
+| bip_39_word_new_line8 | disease
+win
+turn
+banner
+dry
+program
+spring
+property |  
+| bip_39_word_new_line9 | disease
+win
+turn
+banner
+dry
+program
+spring
+property
+syrup |  
+| bip_39_word_space_0 | ['disease', 'win', 'turn', 'banner', 'dry', 'program', 'spring', 'property', 'syrup', 'auction', 'awful', 'ancient'] |  
+| bip_39_word_space_1 | disease |  
+| bip_39_word_space_10 | disease win turn banner dry program spring property syrup auction |  
+| bip_39_word_space_11 | disease win turn banner dry program spring property syrup auction awful |  
+| bip_39_word_space_12 | disease win turn banner dry program spring property syrup auction awful ancient |  
+| bip_39_word_space_2 | disease win |  
+| bip_39_word_space_3 | disease win turn |  
+| bip_39_word_space_4 | disease win turn banner |  
+| bip_39_word_space_5 | disease win turn banner dry |  
+| bip_39_word_space_6 | disease win turn banner dry program |  
+| bip_39_word_space_7 | disease win turn banner dry program spring |  
+| bip_39_word_space_8 | disease win turn banner dry program spring property |  
+| bip_39_word_space_9 | disease win turn banner dry program spring property syrup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

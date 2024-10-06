@@ -1,3 +1,185 @@
+bip_39_word_new_br1: borrow
+bip_39_word_new_br10: borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid
+bip_39_word_new_br11: borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid<br>rescue
+bip_39_word_new_br12: borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger<br>solid<br>rescue<br>artwork
+bip_39_word_new_br2: borrow<br>angle
+bip_39_word_new_br3: borrow<br>angle<br>tide
+bip_39_word_new_br4: borrow<br>angle<br>tide<br>force
+bip_39_word_new_br5: borrow<br>angle<br>tide<br>force<br>true
+bip_39_word_new_br6: borrow<br>angle<br>tide<br>force<br>true<br>power
+bip_39_word_new_br7: borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry
+bip_39_word_new_br8: borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half
+bip_39_word_new_br9: borrow<br>angle<br>tide<br>force<br>true<br>power<br>hurry<br>half<br>ginger
+bip_39_word_new_line1: borrow
+bip_39_word_new_line10: 'borrow
+
+  angle
+
+  tide
+
+  force
+
+  true
+
+  power
+
+  hurry
+
+  half
+
+  ginger
+
+  solid'
+bip_39_word_new_line11: 'borrow
+
+  angle
+
+  tide
+
+  force
+
+  true
+
+  power
+
+  hurry
+
+  half
+
+  ginger
+
+  solid
+
+  rescue'
+bip_39_word_new_line12: 'borrow
+
+  angle
+
+  tide
+
+  force
+
+  true
+
+  power
+
+  hurry
+
+  half
+
+  ginger
+
+  solid
+
+  rescue
+
+  artwork'
+bip_39_word_new_line2: 'borrow
+
+  angle'
+bip_39_word_new_line3: 'borrow
+
+  angle
+
+  tide'
+bip_39_word_new_line4: 'borrow
+
+  angle
+
+  tide
+
+  force'
+bip_39_word_new_line5: 'borrow
+
+  angle
+
+  tide
+
+  force
+
+  true'
+bip_39_word_new_line6: 'borrow
+
+  angle
+
+  tide
+
+  force
+
+  true
+
+  power'
+bip_39_word_new_line7: 'borrow
+
+  angle
+
+  tide
+
+  force
+
+  true
+
+  power
+
+  hurry'
+bip_39_word_new_line8: 'borrow
+
+  angle
+
+  tide
+
+  force
+
+  true
+
+  power
+
+  hurry
+
+  half'
+bip_39_word_new_line9: 'borrow
+
+  angle
+
+  tide
+
+  force
+
+  true
+
+  power
+
+  hurry
+
+  half
+
+  ginger'
+bip_39_word_space_0:
+- borrow
+- angle
+- tide
+- force
+- 'true'
+- power
+- hurry
+- half
+- ginger
+- solid
+- rescue
+- artwork
+bip_39_word_space_1: borrow
+bip_39_word_space_10: borrow angle tide force true power hurry half ginger solid
+bip_39_word_space_11: borrow angle tide force true power hurry half ginger solid rescue
+bip_39_word_space_12: borrow angle tide force true power hurry half ginger solid rescue
+  artwork
+bip_39_word_space_2: borrow angle
+bip_39_word_space_3: borrow angle tide
+bip_39_word_space_4: borrow angle tide force
+bip_39_word_space_5: borrow angle tide force true
+bip_39_word_space_6: borrow angle tide force true power
+bip_39_word_space_7: borrow angle tide force true power hurry
+bip_39_word_space_8: borrow angle tide force true power hurry half
+bip_39_word_space_9: borrow angle tide force true power hurry half ginger
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

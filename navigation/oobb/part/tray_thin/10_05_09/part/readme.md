@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: parent work
+  * bip 39 word 3: parent work bacon
+  * bip 39 word: parent work bacon catalog supreme obscure solution pretty relief resist foster above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | parent |  
+| bip_39_word_new_br10 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure<br>solution<br>pretty<br>relief<br>resist |  
+| bip_39_word_new_br11 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure<br>solution<br>pretty<br>relief<br>resist<br>foster |  
+| bip_39_word_new_br12 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure<br>solution<br>pretty<br>relief<br>resist<br>foster<br>above |  
+| bip_39_word_new_br2 | parent<br>work |  
+| bip_39_word_new_br3 | parent<br>work<br>bacon |  
+| bip_39_word_new_br4 | parent<br>work<br>bacon<br>catalog |  
+| bip_39_word_new_br5 | parent<br>work<br>bacon<br>catalog<br>supreme |  
+| bip_39_word_new_br6 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure |  
+| bip_39_word_new_br7 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure<br>solution |  
+| bip_39_word_new_br8 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure<br>solution<br>pretty |  
+| bip_39_word_new_br9 | parent<br>work<br>bacon<br>catalog<br>supreme<br>obscure<br>solution<br>pretty<br>relief |  
+| bip_39_word_new_line1 | parent |  
+| bip_39_word_new_line10 | parent
+work
+bacon
+catalog
+supreme
+obscure
+solution
+pretty
+relief
+resist |  
+| bip_39_word_new_line11 | parent
+work
+bacon
+catalog
+supreme
+obscure
+solution
+pretty
+relief
+resist
+foster |  
+| bip_39_word_new_line12 | parent
+work
+bacon
+catalog
+supreme
+obscure
+solution
+pretty
+relief
+resist
+foster
+above |  
+| bip_39_word_new_line2 | parent
+work |  
+| bip_39_word_new_line3 | parent
+work
+bacon |  
+| bip_39_word_new_line4 | parent
+work
+bacon
+catalog |  
+| bip_39_word_new_line5 | parent
+work
+bacon
+catalog
+supreme |  
+| bip_39_word_new_line6 | parent
+work
+bacon
+catalog
+supreme
+obscure |  
+| bip_39_word_new_line7 | parent
+work
+bacon
+catalog
+supreme
+obscure
+solution |  
+| bip_39_word_new_line8 | parent
+work
+bacon
+catalog
+supreme
+obscure
+solution
+pretty |  
+| bip_39_word_new_line9 | parent
+work
+bacon
+catalog
+supreme
+obscure
+solution
+pretty
+relief |  
+| bip_39_word_space_0 | ['parent', 'work', 'bacon', 'catalog', 'supreme', 'obscure', 'solution', 'pretty', 'relief', 'resist', 'foster', 'above'] |  
+| bip_39_word_space_1 | parent |  
+| bip_39_word_space_10 | parent work bacon catalog supreme obscure solution pretty relief resist |  
+| bip_39_word_space_11 | parent work bacon catalog supreme obscure solution pretty relief resist foster |  
+| bip_39_word_space_12 | parent work bacon catalog supreme obscure solution pretty relief resist foster above |  
+| bip_39_word_space_2 | parent work |  
+| bip_39_word_space_3 | parent work bacon |  
+| bip_39_word_space_4 | parent work bacon catalog |  
+| bip_39_word_space_5 | parent work bacon catalog supreme |  
+| bip_39_word_space_6 | parent work bacon catalog supreme obscure |  
+| bip_39_word_space_7 | parent work bacon catalog supreme obscure solution |  
+| bip_39_word_space_8 | parent work bacon catalog supreme obscure solution pretty |  
+| bip_39_word_space_9 | parent work bacon catalog supreme obscure solution pretty relief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

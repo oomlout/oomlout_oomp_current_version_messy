@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: select endless
+  * bip 39 word 3: select endless topple
+  * bip 39 word: select endless topple portion food ancient fuel good member woman bag apology
 
 ### other_codes
 * short_code: brMR74
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | select |  
+| bip_39_word_new_br10 | select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good<br>member<br>woman |  
+| bip_39_word_new_br11 | select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good<br>member<br>woman<br>bag |  
+| bip_39_word_new_br12 | select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good<br>member<br>woman<br>bag<br>apology |  
+| bip_39_word_new_br2 | select<br>endless |  
+| bip_39_word_new_br3 | select<br>endless<br>topple |  
+| bip_39_word_new_br4 | select<br>endless<br>topple<br>portion |  
+| bip_39_word_new_br5 | select<br>endless<br>topple<br>portion<br>food |  
+| bip_39_word_new_br6 | select<br>endless<br>topple<br>portion<br>food<br>ancient |  
+| bip_39_word_new_br7 | select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel |  
+| bip_39_word_new_br8 | select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good |  
+| bip_39_word_new_br9 | select<br>endless<br>topple<br>portion<br>food<br>ancient<br>fuel<br>good<br>member |  
+| bip_39_word_new_line1 | select |  
+| bip_39_word_new_line10 | select
+endless
+topple
+portion
+food
+ancient
+fuel
+good
+member
+woman |  
+| bip_39_word_new_line11 | select
+endless
+topple
+portion
+food
+ancient
+fuel
+good
+member
+woman
+bag |  
+| bip_39_word_new_line12 | select
+endless
+topple
+portion
+food
+ancient
+fuel
+good
+member
+woman
+bag
+apology |  
+| bip_39_word_new_line2 | select
+endless |  
+| bip_39_word_new_line3 | select
+endless
+topple |  
+| bip_39_word_new_line4 | select
+endless
+topple
+portion |  
+| bip_39_word_new_line5 | select
+endless
+topple
+portion
+food |  
+| bip_39_word_new_line6 | select
+endless
+topple
+portion
+food
+ancient |  
+| bip_39_word_new_line7 | select
+endless
+topple
+portion
+food
+ancient
+fuel |  
+| bip_39_word_new_line8 | select
+endless
+topple
+portion
+food
+ancient
+fuel
+good |  
+| bip_39_word_new_line9 | select
+endless
+topple
+portion
+food
+ancient
+fuel
+good
+member |  
+| bip_39_word_space_0 | ['select', 'endless', 'topple', 'portion', 'food', 'ancient', 'fuel', 'good', 'member', 'woman', 'bag', 'apology'] |  
+| bip_39_word_space_1 | select |  
+| bip_39_word_space_10 | select endless topple portion food ancient fuel good member woman |  
+| bip_39_word_space_11 | select endless topple portion food ancient fuel good member woman bag |  
+| bip_39_word_space_12 | select endless topple portion food ancient fuel good member woman bag apology |  
+| bip_39_word_space_2 | select endless |  
+| bip_39_word_space_3 | select endless topple |  
+| bip_39_word_space_4 | select endless topple portion |  
+| bip_39_word_space_5 | select endless topple portion food |  
+| bip_39_word_space_6 | select endless topple portion food ancient |  
+| bip_39_word_space_7 | select endless topple portion food ancient fuel |  
+| bip_39_word_space_8 | select endless topple portion food ancient fuel good |  
+| bip_39_word_space_9 | select endless topple portion food ancient fuel good member |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

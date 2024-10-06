@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scorpion inmate
+  * bip 39 word 3: scorpion inmate coffee
+  * bip 39 word: scorpion inmate coffee mango ghost brush enlist hen grid uniform aerobic aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scorpion |  
+| bip_39_word_new_br10 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid<br>uniform |  
+| bip_39_word_new_br11 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid<br>uniform<br>aerobic |  
+| bip_39_word_new_br12 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid<br>uniform<br>aerobic<br>aunt |  
+| bip_39_word_new_br2 | scorpion<br>inmate |  
+| bip_39_word_new_br3 | scorpion<br>inmate<br>coffee |  
+| bip_39_word_new_br4 | scorpion<br>inmate<br>coffee<br>mango |  
+| bip_39_word_new_br5 | scorpion<br>inmate<br>coffee<br>mango<br>ghost |  
+| bip_39_word_new_br6 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush |  
+| bip_39_word_new_br7 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist |  
+| bip_39_word_new_br8 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen |  
+| bip_39_word_new_br9 | scorpion<br>inmate<br>coffee<br>mango<br>ghost<br>brush<br>enlist<br>hen<br>grid |  
+| bip_39_word_new_line1 | scorpion |  
+| bip_39_word_new_line10 | scorpion
+inmate
+coffee
+mango
+ghost
+brush
+enlist
+hen
+grid
+uniform |  
+| bip_39_word_new_line11 | scorpion
+inmate
+coffee
+mango
+ghost
+brush
+enlist
+hen
+grid
+uniform
+aerobic |  
+| bip_39_word_new_line12 | scorpion
+inmate
+coffee
+mango
+ghost
+brush
+enlist
+hen
+grid
+uniform
+aerobic
+aunt |  
+| bip_39_word_new_line2 | scorpion
+inmate |  
+| bip_39_word_new_line3 | scorpion
+inmate
+coffee |  
+| bip_39_word_new_line4 | scorpion
+inmate
+coffee
+mango |  
+| bip_39_word_new_line5 | scorpion
+inmate
+coffee
+mango
+ghost |  
+| bip_39_word_new_line6 | scorpion
+inmate
+coffee
+mango
+ghost
+brush |  
+| bip_39_word_new_line7 | scorpion
+inmate
+coffee
+mango
+ghost
+brush
+enlist |  
+| bip_39_word_new_line8 | scorpion
+inmate
+coffee
+mango
+ghost
+brush
+enlist
+hen |  
+| bip_39_word_new_line9 | scorpion
+inmate
+coffee
+mango
+ghost
+brush
+enlist
+hen
+grid |  
+| bip_39_word_space_0 | ['scorpion', 'inmate', 'coffee', 'mango', 'ghost', 'brush', 'enlist', 'hen', 'grid', 'uniform', 'aerobic', 'aunt'] |  
+| bip_39_word_space_1 | scorpion |  
+| bip_39_word_space_10 | scorpion inmate coffee mango ghost brush enlist hen grid uniform |  
+| bip_39_word_space_11 | scorpion inmate coffee mango ghost brush enlist hen grid uniform aerobic |  
+| bip_39_word_space_12 | scorpion inmate coffee mango ghost brush enlist hen grid uniform aerobic aunt |  
+| bip_39_word_space_2 | scorpion inmate |  
+| bip_39_word_space_3 | scorpion inmate coffee |  
+| bip_39_word_space_4 | scorpion inmate coffee mango |  
+| bip_39_word_space_5 | scorpion inmate coffee mango ghost |  
+| bip_39_word_space_6 | scorpion inmate coffee mango ghost brush |  
+| bip_39_word_space_7 | scorpion inmate coffee mango ghost brush enlist |  
+| bip_39_word_space_8 | scorpion inmate coffee mango ghost brush enlist hen |  
+| bip_39_word_space_9 | scorpion inmate coffee mango ghost brush enlist hen grid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

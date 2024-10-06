@@ -1,3 +1,186 @@
+bip_39_word_new_br1: diet
+bip_39_word_new_br10: diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe
+bip_39_word_new_br11: diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe<br>shrug
+bip_39_word_new_br12: diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability<br>giraffe<br>shrug<br>add
+bip_39_word_new_br2: diet<br>logic
+bip_39_word_new_br3: diet<br>logic<br>deposit
+bip_39_word_new_br4: diet<br>logic<br>deposit<br>apple
+bip_39_word_new_br5: diet<br>logic<br>deposit<br>apple<br>burst
+bip_39_word_new_br6: diet<br>logic<br>deposit<br>apple<br>burst<br>now
+bip_39_word_new_br7: diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february
+bip_39_word_new_br8: diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task
+bip_39_word_new_br9: diet<br>logic<br>deposit<br>apple<br>burst<br>now<br>february<br>task<br>ability
+bip_39_word_new_line1: diet
+bip_39_word_new_line10: 'diet
+
+  logic
+
+  deposit
+
+  apple
+
+  burst
+
+  now
+
+  february
+
+  task
+
+  ability
+
+  giraffe'
+bip_39_word_new_line11: 'diet
+
+  logic
+
+  deposit
+
+  apple
+
+  burst
+
+  now
+
+  february
+
+  task
+
+  ability
+
+  giraffe
+
+  shrug'
+bip_39_word_new_line12: 'diet
+
+  logic
+
+  deposit
+
+  apple
+
+  burst
+
+  now
+
+  february
+
+  task
+
+  ability
+
+  giraffe
+
+  shrug
+
+  add'
+bip_39_word_new_line2: 'diet
+
+  logic'
+bip_39_word_new_line3: 'diet
+
+  logic
+
+  deposit'
+bip_39_word_new_line4: 'diet
+
+  logic
+
+  deposit
+
+  apple'
+bip_39_word_new_line5: 'diet
+
+  logic
+
+  deposit
+
+  apple
+
+  burst'
+bip_39_word_new_line6: 'diet
+
+  logic
+
+  deposit
+
+  apple
+
+  burst
+
+  now'
+bip_39_word_new_line7: 'diet
+
+  logic
+
+  deposit
+
+  apple
+
+  burst
+
+  now
+
+  february'
+bip_39_word_new_line8: 'diet
+
+  logic
+
+  deposit
+
+  apple
+
+  burst
+
+  now
+
+  february
+
+  task'
+bip_39_word_new_line9: 'diet
+
+  logic
+
+  deposit
+
+  apple
+
+  burst
+
+  now
+
+  february
+
+  task
+
+  ability'
+bip_39_word_space_0:
+- diet
+- logic
+- deposit
+- apple
+- burst
+- now
+- february
+- task
+- ability
+- giraffe
+- shrug
+- add
+bip_39_word_space_1: diet
+bip_39_word_space_10: diet logic deposit apple burst now february task ability giraffe
+bip_39_word_space_11: diet logic deposit apple burst now february task ability giraffe
+  shrug
+bip_39_word_space_12: diet logic deposit apple burst now february task ability giraffe
+  shrug add
+bip_39_word_space_2: diet logic
+bip_39_word_space_3: diet logic deposit
+bip_39_word_space_4: diet logic deposit apple
+bip_39_word_space_5: diet logic deposit apple burst
+bip_39_word_space_6: diet logic deposit apple burst now
+bip_39_word_space_7: diet logic deposit apple burst now february
+bip_39_word_space_8: diet logic deposit apple burst now february task
+bip_39_word_space_9: diet logic deposit apple burst now february task ability
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

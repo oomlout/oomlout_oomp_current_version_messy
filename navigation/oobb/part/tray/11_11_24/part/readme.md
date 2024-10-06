@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: insect car
+  * bip 39 word 3: insect car razor
+  * bip 39 word: insect car razor juice example mimic east unique time myself rotate assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | insect |  
+| bip_39_word_new_br10 | insect<br>car<br>razor<br>juice<br>example<br>mimic<br>east<br>unique<br>time<br>myself |  
+| bip_39_word_new_br11 | insect<br>car<br>razor<br>juice<br>example<br>mimic<br>east<br>unique<br>time<br>myself<br>rotate |  
+| bip_39_word_new_br12 | insect<br>car<br>razor<br>juice<br>example<br>mimic<br>east<br>unique<br>time<br>myself<br>rotate<br>assault |  
+| bip_39_word_new_br2 | insect<br>car |  
+| bip_39_word_new_br3 | insect<br>car<br>razor |  
+| bip_39_word_new_br4 | insect<br>car<br>razor<br>juice |  
+| bip_39_word_new_br5 | insect<br>car<br>razor<br>juice<br>example |  
+| bip_39_word_new_br6 | insect<br>car<br>razor<br>juice<br>example<br>mimic |  
+| bip_39_word_new_br7 | insect<br>car<br>razor<br>juice<br>example<br>mimic<br>east |  
+| bip_39_word_new_br8 | insect<br>car<br>razor<br>juice<br>example<br>mimic<br>east<br>unique |  
+| bip_39_word_new_br9 | insect<br>car<br>razor<br>juice<br>example<br>mimic<br>east<br>unique<br>time |  
+| bip_39_word_new_line1 | insect |  
+| bip_39_word_new_line10 | insect
+car
+razor
+juice
+example
+mimic
+east
+unique
+time
+myself |  
+| bip_39_word_new_line11 | insect
+car
+razor
+juice
+example
+mimic
+east
+unique
+time
+myself
+rotate |  
+| bip_39_word_new_line12 | insect
+car
+razor
+juice
+example
+mimic
+east
+unique
+time
+myself
+rotate
+assault |  
+| bip_39_word_new_line2 | insect
+car |  
+| bip_39_word_new_line3 | insect
+car
+razor |  
+| bip_39_word_new_line4 | insect
+car
+razor
+juice |  
+| bip_39_word_new_line5 | insect
+car
+razor
+juice
+example |  
+| bip_39_word_new_line6 | insect
+car
+razor
+juice
+example
+mimic |  
+| bip_39_word_new_line7 | insect
+car
+razor
+juice
+example
+mimic
+east |  
+| bip_39_word_new_line8 | insect
+car
+razor
+juice
+example
+mimic
+east
+unique |  
+| bip_39_word_new_line9 | insect
+car
+razor
+juice
+example
+mimic
+east
+unique
+time |  
+| bip_39_word_space_0 | ['insect', 'car', 'razor', 'juice', 'example', 'mimic', 'east', 'unique', 'time', 'myself', 'rotate', 'assault'] |  
+| bip_39_word_space_1 | insect |  
+| bip_39_word_space_10 | insect car razor juice example mimic east unique time myself |  
+| bip_39_word_space_11 | insect car razor juice example mimic east unique time myself rotate |  
+| bip_39_word_space_12 | insect car razor juice example mimic east unique time myself rotate assault |  
+| bip_39_word_space_2 | insect car |  
+| bip_39_word_space_3 | insect car razor |  
+| bip_39_word_space_4 | insect car razor juice |  
+| bip_39_word_space_5 | insect car razor juice example |  
+| bip_39_word_space_6 | insect car razor juice example mimic |  
+| bip_39_word_space_7 | insect car razor juice example mimic east |  
+| bip_39_word_space_8 | insect car razor juice example mimic east unique |  
+| bip_39_word_space_9 | insect car razor juice example mimic east unique time |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

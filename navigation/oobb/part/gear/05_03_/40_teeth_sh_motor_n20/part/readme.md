@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: current scene
+  * bip 39 word 3: current scene clump
+  * bip 39 word: current scene clump rib vessel steak burden file palm city medal all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | current |  
+| bip_39_word_new_br10 | current<br>scene<br>clump<br>rib<br>vessel<br>steak<br>burden<br>file<br>palm<br>city |  
+| bip_39_word_new_br11 | current<br>scene<br>clump<br>rib<br>vessel<br>steak<br>burden<br>file<br>palm<br>city<br>medal |  
+| bip_39_word_new_br12 | current<br>scene<br>clump<br>rib<br>vessel<br>steak<br>burden<br>file<br>palm<br>city<br>medal<br>all |  
+| bip_39_word_new_br2 | current<br>scene |  
+| bip_39_word_new_br3 | current<br>scene<br>clump |  
+| bip_39_word_new_br4 | current<br>scene<br>clump<br>rib |  
+| bip_39_word_new_br5 | current<br>scene<br>clump<br>rib<br>vessel |  
+| bip_39_word_new_br6 | current<br>scene<br>clump<br>rib<br>vessel<br>steak |  
+| bip_39_word_new_br7 | current<br>scene<br>clump<br>rib<br>vessel<br>steak<br>burden |  
+| bip_39_word_new_br8 | current<br>scene<br>clump<br>rib<br>vessel<br>steak<br>burden<br>file |  
+| bip_39_word_new_br9 | current<br>scene<br>clump<br>rib<br>vessel<br>steak<br>burden<br>file<br>palm |  
+| bip_39_word_new_line1 | current |  
+| bip_39_word_new_line10 | current
+scene
+clump
+rib
+vessel
+steak
+burden
+file
+palm
+city |  
+| bip_39_word_new_line11 | current
+scene
+clump
+rib
+vessel
+steak
+burden
+file
+palm
+city
+medal |  
+| bip_39_word_new_line12 | current
+scene
+clump
+rib
+vessel
+steak
+burden
+file
+palm
+city
+medal
+all |  
+| bip_39_word_new_line2 | current
+scene |  
+| bip_39_word_new_line3 | current
+scene
+clump |  
+| bip_39_word_new_line4 | current
+scene
+clump
+rib |  
+| bip_39_word_new_line5 | current
+scene
+clump
+rib
+vessel |  
+| bip_39_word_new_line6 | current
+scene
+clump
+rib
+vessel
+steak |  
+| bip_39_word_new_line7 | current
+scene
+clump
+rib
+vessel
+steak
+burden |  
+| bip_39_word_new_line8 | current
+scene
+clump
+rib
+vessel
+steak
+burden
+file |  
+| bip_39_word_new_line9 | current
+scene
+clump
+rib
+vessel
+steak
+burden
+file
+palm |  
+| bip_39_word_space_0 | ['current', 'scene', 'clump', 'rib', 'vessel', 'steak', 'burden', 'file', 'palm', 'city', 'medal', 'all'] |  
+| bip_39_word_space_1 | current |  
+| bip_39_word_space_10 | current scene clump rib vessel steak burden file palm city |  
+| bip_39_word_space_11 | current scene clump rib vessel steak burden file palm city medal |  
+| bip_39_word_space_12 | current scene clump rib vessel steak burden file palm city medal all |  
+| bip_39_word_space_2 | current scene |  
+| bip_39_word_space_3 | current scene clump |  
+| bip_39_word_space_4 | current scene clump rib |  
+| bip_39_word_space_5 | current scene clump rib vessel |  
+| bip_39_word_space_6 | current scene clump rib vessel steak |  
+| bip_39_word_space_7 | current scene clump rib vessel steak burden |  
+| bip_39_word_space_8 | current scene clump rib vessel steak burden file |  
+| bip_39_word_space_9 | current scene clump rib vessel steak burden file palm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

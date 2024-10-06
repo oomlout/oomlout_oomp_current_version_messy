@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: draft fiscal
+  * bip 39 word 3: draft fiscal behind
+  * bip 39 word: draft fiscal behind doll area scene frame employ gorilla fossil enable april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | draft |  
+| bip_39_word_new_br10 | draft<br>fiscal<br>behind<br>doll<br>area<br>scene<br>frame<br>employ<br>gorilla<br>fossil |  
+| bip_39_word_new_br11 | draft<br>fiscal<br>behind<br>doll<br>area<br>scene<br>frame<br>employ<br>gorilla<br>fossil<br>enable |  
+| bip_39_word_new_br12 | draft<br>fiscal<br>behind<br>doll<br>area<br>scene<br>frame<br>employ<br>gorilla<br>fossil<br>enable<br>april |  
+| bip_39_word_new_br2 | draft<br>fiscal |  
+| bip_39_word_new_br3 | draft<br>fiscal<br>behind |  
+| bip_39_word_new_br4 | draft<br>fiscal<br>behind<br>doll |  
+| bip_39_word_new_br5 | draft<br>fiscal<br>behind<br>doll<br>area |  
+| bip_39_word_new_br6 | draft<br>fiscal<br>behind<br>doll<br>area<br>scene |  
+| bip_39_word_new_br7 | draft<br>fiscal<br>behind<br>doll<br>area<br>scene<br>frame |  
+| bip_39_word_new_br8 | draft<br>fiscal<br>behind<br>doll<br>area<br>scene<br>frame<br>employ |  
+| bip_39_word_new_br9 | draft<br>fiscal<br>behind<br>doll<br>area<br>scene<br>frame<br>employ<br>gorilla |  
+| bip_39_word_new_line1 | draft |  
+| bip_39_word_new_line10 | draft
+fiscal
+behind
+doll
+area
+scene
+frame
+employ
+gorilla
+fossil |  
+| bip_39_word_new_line11 | draft
+fiscal
+behind
+doll
+area
+scene
+frame
+employ
+gorilla
+fossil
+enable |  
+| bip_39_word_new_line12 | draft
+fiscal
+behind
+doll
+area
+scene
+frame
+employ
+gorilla
+fossil
+enable
+april |  
+| bip_39_word_new_line2 | draft
+fiscal |  
+| bip_39_word_new_line3 | draft
+fiscal
+behind |  
+| bip_39_word_new_line4 | draft
+fiscal
+behind
+doll |  
+| bip_39_word_new_line5 | draft
+fiscal
+behind
+doll
+area |  
+| bip_39_word_new_line6 | draft
+fiscal
+behind
+doll
+area
+scene |  
+| bip_39_word_new_line7 | draft
+fiscal
+behind
+doll
+area
+scene
+frame |  
+| bip_39_word_new_line8 | draft
+fiscal
+behind
+doll
+area
+scene
+frame
+employ |  
+| bip_39_word_new_line9 | draft
+fiscal
+behind
+doll
+area
+scene
+frame
+employ
+gorilla |  
+| bip_39_word_space_0 | ['draft', 'fiscal', 'behind', 'doll', 'area', 'scene', 'frame', 'employ', 'gorilla', 'fossil', 'enable', 'april'] |  
+| bip_39_word_space_1 | draft |  
+| bip_39_word_space_10 | draft fiscal behind doll area scene frame employ gorilla fossil |  
+| bip_39_word_space_11 | draft fiscal behind doll area scene frame employ gorilla fossil enable |  
+| bip_39_word_space_12 | draft fiscal behind doll area scene frame employ gorilla fossil enable april |  
+| bip_39_word_space_2 | draft fiscal |  
+| bip_39_word_space_3 | draft fiscal behind |  
+| bip_39_word_space_4 | draft fiscal behind doll |  
+| bip_39_word_space_5 | draft fiscal behind doll area |  
+| bip_39_word_space_6 | draft fiscal behind doll area scene |  
+| bip_39_word_space_7 | draft fiscal behind doll area scene frame |  
+| bip_39_word_space_8 | draft fiscal behind doll area scene frame employ |  
+| bip_39_word_space_9 | draft fiscal behind doll area scene frame employ gorilla |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

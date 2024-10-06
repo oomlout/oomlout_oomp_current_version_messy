@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: install pepper
+  * bip 39 word 3: install pepper draft
+  * bip 39 word: install pepper draft belt head comic negative hawk service sun erupt ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | install |  
+| bip_39_word_new_br10 | install<br>pepper<br>draft<br>belt<br>head<br>comic<br>negative<br>hawk<br>service<br>sun |  
+| bip_39_word_new_br11 | install<br>pepper<br>draft<br>belt<br>head<br>comic<br>negative<br>hawk<br>service<br>sun<br>erupt |  
+| bip_39_word_new_br12 | install<br>pepper<br>draft<br>belt<br>head<br>comic<br>negative<br>hawk<br>service<br>sun<br>erupt<br>ahead |  
+| bip_39_word_new_br2 | install<br>pepper |  
+| bip_39_word_new_br3 | install<br>pepper<br>draft |  
+| bip_39_word_new_br4 | install<br>pepper<br>draft<br>belt |  
+| bip_39_word_new_br5 | install<br>pepper<br>draft<br>belt<br>head |  
+| bip_39_word_new_br6 | install<br>pepper<br>draft<br>belt<br>head<br>comic |  
+| bip_39_word_new_br7 | install<br>pepper<br>draft<br>belt<br>head<br>comic<br>negative |  
+| bip_39_word_new_br8 | install<br>pepper<br>draft<br>belt<br>head<br>comic<br>negative<br>hawk |  
+| bip_39_word_new_br9 | install<br>pepper<br>draft<br>belt<br>head<br>comic<br>negative<br>hawk<br>service |  
+| bip_39_word_new_line1 | install |  
+| bip_39_word_new_line10 | install
+pepper
+draft
+belt
+head
+comic
+negative
+hawk
+service
+sun |  
+| bip_39_word_new_line11 | install
+pepper
+draft
+belt
+head
+comic
+negative
+hawk
+service
+sun
+erupt |  
+| bip_39_word_new_line12 | install
+pepper
+draft
+belt
+head
+comic
+negative
+hawk
+service
+sun
+erupt
+ahead |  
+| bip_39_word_new_line2 | install
+pepper |  
+| bip_39_word_new_line3 | install
+pepper
+draft |  
+| bip_39_word_new_line4 | install
+pepper
+draft
+belt |  
+| bip_39_word_new_line5 | install
+pepper
+draft
+belt
+head |  
+| bip_39_word_new_line6 | install
+pepper
+draft
+belt
+head
+comic |  
+| bip_39_word_new_line7 | install
+pepper
+draft
+belt
+head
+comic
+negative |  
+| bip_39_word_new_line8 | install
+pepper
+draft
+belt
+head
+comic
+negative
+hawk |  
+| bip_39_word_new_line9 | install
+pepper
+draft
+belt
+head
+comic
+negative
+hawk
+service |  
+| bip_39_word_space_0 | ['install', 'pepper', 'draft', 'belt', 'head', 'comic', 'negative', 'hawk', 'service', 'sun', 'erupt', 'ahead'] |  
+| bip_39_word_space_1 | install |  
+| bip_39_word_space_10 | install pepper draft belt head comic negative hawk service sun |  
+| bip_39_word_space_11 | install pepper draft belt head comic negative hawk service sun erupt |  
+| bip_39_word_space_12 | install pepper draft belt head comic negative hawk service sun erupt ahead |  
+| bip_39_word_space_2 | install pepper |  
+| bip_39_word_space_3 | install pepper draft |  
+| bip_39_word_space_4 | install pepper draft belt |  
+| bip_39_word_space_5 | install pepper draft belt head |  
+| bip_39_word_space_6 | install pepper draft belt head comic |  
+| bip_39_word_space_7 | install pepper draft belt head comic negative |  
+| bip_39_word_space_8 | install pepper draft belt head comic negative hawk |  
+| bip_39_word_space_9 | install pepper draft belt head comic negative hawk service |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

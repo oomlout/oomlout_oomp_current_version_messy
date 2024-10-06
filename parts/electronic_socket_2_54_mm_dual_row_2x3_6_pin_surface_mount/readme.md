@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chronic horse
+  * bip 39 word 3: chronic horse isolate
+  * bip 39 word: chronic horse isolate vast margin fuel sad enforce eagle angle april amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chronic |  
+| bip_39_word_new_br10 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel<br>sad<br>enforce<br>eagle<br>angle |  
+| bip_39_word_new_br11 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel<br>sad<br>enforce<br>eagle<br>angle<br>april |  
+| bip_39_word_new_br12 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel<br>sad<br>enforce<br>eagle<br>angle<br>april<br>amount |  
+| bip_39_word_new_br2 | chronic<br>horse |  
+| bip_39_word_new_br3 | chronic<br>horse<br>isolate |  
+| bip_39_word_new_br4 | chronic<br>horse<br>isolate<br>vast |  
+| bip_39_word_new_br5 | chronic<br>horse<br>isolate<br>vast<br>margin |  
+| bip_39_word_new_br6 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel |  
+| bip_39_word_new_br7 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel<br>sad |  
+| bip_39_word_new_br8 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel<br>sad<br>enforce |  
+| bip_39_word_new_br9 | chronic<br>horse<br>isolate<br>vast<br>margin<br>fuel<br>sad<br>enforce<br>eagle |  
+| bip_39_word_new_line1 | chronic |  
+| bip_39_word_new_line10 | chronic
+horse
+isolate
+vast
+margin
+fuel
+sad
+enforce
+eagle
+angle |  
+| bip_39_word_new_line11 | chronic
+horse
+isolate
+vast
+margin
+fuel
+sad
+enforce
+eagle
+angle
+april |  
+| bip_39_word_new_line12 | chronic
+horse
+isolate
+vast
+margin
+fuel
+sad
+enforce
+eagle
+angle
+april
+amount |  
+| bip_39_word_new_line2 | chronic
+horse |  
+| bip_39_word_new_line3 | chronic
+horse
+isolate |  
+| bip_39_word_new_line4 | chronic
+horse
+isolate
+vast |  
+| bip_39_word_new_line5 | chronic
+horse
+isolate
+vast
+margin |  
+| bip_39_word_new_line6 | chronic
+horse
+isolate
+vast
+margin
+fuel |  
+| bip_39_word_new_line7 | chronic
+horse
+isolate
+vast
+margin
+fuel
+sad |  
+| bip_39_word_new_line8 | chronic
+horse
+isolate
+vast
+margin
+fuel
+sad
+enforce |  
+| bip_39_word_new_line9 | chronic
+horse
+isolate
+vast
+margin
+fuel
+sad
+enforce
+eagle |  
+| bip_39_word_space_0 | ['chronic', 'horse', 'isolate', 'vast', 'margin', 'fuel', 'sad', 'enforce', 'eagle', 'angle', 'april', 'amount'] |  
+| bip_39_word_space_1 | chronic |  
+| bip_39_word_space_10 | chronic horse isolate vast margin fuel sad enforce eagle angle |  
+| bip_39_word_space_11 | chronic horse isolate vast margin fuel sad enforce eagle angle april |  
+| bip_39_word_space_12 | chronic horse isolate vast margin fuel sad enforce eagle angle april amount |  
+| bip_39_word_space_2 | chronic horse |  
+| bip_39_word_space_3 | chronic horse isolate |  
+| bip_39_word_space_4 | chronic horse isolate vast |  
+| bip_39_word_space_5 | chronic horse isolate vast margin |  
+| bip_39_word_space_6 | chronic horse isolate vast margin fuel |  
+| bip_39_word_space_7 | chronic horse isolate vast margin fuel sad |  
+| bip_39_word_space_8 | chronic horse isolate vast margin fuel sad enforce |  
+| bip_39_word_space_9 | chronic horse isolate vast margin fuel sad enforce eagle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

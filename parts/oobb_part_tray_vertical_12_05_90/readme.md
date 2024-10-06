@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shine make
+  * bip 39 word 3: shine make ostrich
+  * bip 39 word: shine make ostrich family sock crew note muffin worry trap grant arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shine |  
+| bip_39_word_new_br10 | shine<br>make<br>ostrich<br>family<br>sock<br>crew<br>note<br>muffin<br>worry<br>trap |  
+| bip_39_word_new_br11 | shine<br>make<br>ostrich<br>family<br>sock<br>crew<br>note<br>muffin<br>worry<br>trap<br>grant |  
+| bip_39_word_new_br12 | shine<br>make<br>ostrich<br>family<br>sock<br>crew<br>note<br>muffin<br>worry<br>trap<br>grant<br>arrange |  
+| bip_39_word_new_br2 | shine<br>make |  
+| bip_39_word_new_br3 | shine<br>make<br>ostrich |  
+| bip_39_word_new_br4 | shine<br>make<br>ostrich<br>family |  
+| bip_39_word_new_br5 | shine<br>make<br>ostrich<br>family<br>sock |  
+| bip_39_word_new_br6 | shine<br>make<br>ostrich<br>family<br>sock<br>crew |  
+| bip_39_word_new_br7 | shine<br>make<br>ostrich<br>family<br>sock<br>crew<br>note |  
+| bip_39_word_new_br8 | shine<br>make<br>ostrich<br>family<br>sock<br>crew<br>note<br>muffin |  
+| bip_39_word_new_br9 | shine<br>make<br>ostrich<br>family<br>sock<br>crew<br>note<br>muffin<br>worry |  
+| bip_39_word_new_line1 | shine |  
+| bip_39_word_new_line10 | shine
+make
+ostrich
+family
+sock
+crew
+note
+muffin
+worry
+trap |  
+| bip_39_word_new_line11 | shine
+make
+ostrich
+family
+sock
+crew
+note
+muffin
+worry
+trap
+grant |  
+| bip_39_word_new_line12 | shine
+make
+ostrich
+family
+sock
+crew
+note
+muffin
+worry
+trap
+grant
+arrange |  
+| bip_39_word_new_line2 | shine
+make |  
+| bip_39_word_new_line3 | shine
+make
+ostrich |  
+| bip_39_word_new_line4 | shine
+make
+ostrich
+family |  
+| bip_39_word_new_line5 | shine
+make
+ostrich
+family
+sock |  
+| bip_39_word_new_line6 | shine
+make
+ostrich
+family
+sock
+crew |  
+| bip_39_word_new_line7 | shine
+make
+ostrich
+family
+sock
+crew
+note |  
+| bip_39_word_new_line8 | shine
+make
+ostrich
+family
+sock
+crew
+note
+muffin |  
+| bip_39_word_new_line9 | shine
+make
+ostrich
+family
+sock
+crew
+note
+muffin
+worry |  
+| bip_39_word_space_0 | ['shine', 'make', 'ostrich', 'family', 'sock', 'crew', 'note', 'muffin', 'worry', 'trap', 'grant', 'arrange'] |  
+| bip_39_word_space_1 | shine |  
+| bip_39_word_space_10 | shine make ostrich family sock crew note muffin worry trap |  
+| bip_39_word_space_11 | shine make ostrich family sock crew note muffin worry trap grant |  
+| bip_39_word_space_12 | shine make ostrich family sock crew note muffin worry trap grant arrange |  
+| bip_39_word_space_2 | shine make |  
+| bip_39_word_space_3 | shine make ostrich |  
+| bip_39_word_space_4 | shine make ostrich family |  
+| bip_39_word_space_5 | shine make ostrich family sock |  
+| bip_39_word_space_6 | shine make ostrich family sock crew |  
+| bip_39_word_space_7 | shine make ostrich family sock crew note |  
+| bip_39_word_space_8 | shine make ostrich family sock crew note muffin |  
+| bip_39_word_space_9 | shine make ostrich family sock crew note muffin worry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

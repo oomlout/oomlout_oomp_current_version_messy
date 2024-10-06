@@ -1,3 +1,187 @@
+bip_39_word_new_br1: typical
+bip_39_word_new_br10: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone<br>ozone<br>romance<br>math<br>couple
+bip_39_word_new_br11: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone<br>ozone<br>romance<br>math<br>couple<br>dumb
+bip_39_word_new_br12: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone<br>ozone<br>romance<br>math<br>couple<br>dumb<br>alpha
+bip_39_word_new_br2: typical<br>drastic
+bip_39_word_new_br3: typical<br>drastic<br>artist
+bip_39_word_new_br4: typical<br>drastic<br>artist<br>inquiry
+bip_39_word_new_br5: typical<br>drastic<br>artist<br>inquiry<br>sunset
+bip_39_word_new_br6: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone
+bip_39_word_new_br7: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone<br>ozone
+bip_39_word_new_br8: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone<br>ozone<br>romance
+bip_39_word_new_br9: typical<br>drastic<br>artist<br>inquiry<br>sunset<br>tone<br>ozone<br>romance<br>math
+bip_39_word_new_line1: typical
+bip_39_word_new_line10: 'typical
+
+  drastic
+
+  artist
+
+  inquiry
+
+  sunset
+
+  tone
+
+  ozone
+
+  romance
+
+  math
+
+  couple'
+bip_39_word_new_line11: 'typical
+
+  drastic
+
+  artist
+
+  inquiry
+
+  sunset
+
+  tone
+
+  ozone
+
+  romance
+
+  math
+
+  couple
+
+  dumb'
+bip_39_word_new_line12: 'typical
+
+  drastic
+
+  artist
+
+  inquiry
+
+  sunset
+
+  tone
+
+  ozone
+
+  romance
+
+  math
+
+  couple
+
+  dumb
+
+  alpha'
+bip_39_word_new_line2: 'typical
+
+  drastic'
+bip_39_word_new_line3: 'typical
+
+  drastic
+
+  artist'
+bip_39_word_new_line4: 'typical
+
+  drastic
+
+  artist
+
+  inquiry'
+bip_39_word_new_line5: 'typical
+
+  drastic
+
+  artist
+
+  inquiry
+
+  sunset'
+bip_39_word_new_line6: 'typical
+
+  drastic
+
+  artist
+
+  inquiry
+
+  sunset
+
+  tone'
+bip_39_word_new_line7: 'typical
+
+  drastic
+
+  artist
+
+  inquiry
+
+  sunset
+
+  tone
+
+  ozone'
+bip_39_word_new_line8: 'typical
+
+  drastic
+
+  artist
+
+  inquiry
+
+  sunset
+
+  tone
+
+  ozone
+
+  romance'
+bip_39_word_new_line9: 'typical
+
+  drastic
+
+  artist
+
+  inquiry
+
+  sunset
+
+  tone
+
+  ozone
+
+  romance
+
+  math'
+bip_39_word_space_0:
+- typical
+- drastic
+- artist
+- inquiry
+- sunset
+- tone
+- ozone
+- romance
+- math
+- couple
+- dumb
+- alpha
+bip_39_word_space_1: typical
+bip_39_word_space_10: typical drastic artist inquiry sunset tone ozone romance math
+  couple
+bip_39_word_space_11: typical drastic artist inquiry sunset tone ozone romance math
+  couple dumb
+bip_39_word_space_12: typical drastic artist inquiry sunset tone ozone romance math
+  couple dumb alpha
+bip_39_word_space_2: typical drastic
+bip_39_word_space_3: typical drastic artist
+bip_39_word_space_4: typical drastic artist inquiry
+bip_39_word_space_5: typical drastic artist inquiry sunset
+bip_39_word_space_6: typical drastic artist inquiry sunset tone
+bip_39_word_space_7: typical drastic artist inquiry sunset tone ozone
+bip_39_word_space_8: typical drastic artist inquiry sunset tone ozone romance
+bip_39_word_space_9: typical drastic artist inquiry sunset tone ozone romance math
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

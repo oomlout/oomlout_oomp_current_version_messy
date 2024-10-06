@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pig demand
+  * bip 39 word 3: pig demand enough
+  * bip 39 word: pig demand enough volume spring fun winner pulp plunge cat seed avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pig |  
+| bip_39_word_new_br10 | pig<br>demand<br>enough<br>volume<br>spring<br>fun<br>winner<br>pulp<br>plunge<br>cat |  
+| bip_39_word_new_br11 | pig<br>demand<br>enough<br>volume<br>spring<br>fun<br>winner<br>pulp<br>plunge<br>cat<br>seed |  
+| bip_39_word_new_br12 | pig<br>demand<br>enough<br>volume<br>spring<br>fun<br>winner<br>pulp<br>plunge<br>cat<br>seed<br>avocado |  
+| bip_39_word_new_br2 | pig<br>demand |  
+| bip_39_word_new_br3 | pig<br>demand<br>enough |  
+| bip_39_word_new_br4 | pig<br>demand<br>enough<br>volume |  
+| bip_39_word_new_br5 | pig<br>demand<br>enough<br>volume<br>spring |  
+| bip_39_word_new_br6 | pig<br>demand<br>enough<br>volume<br>spring<br>fun |  
+| bip_39_word_new_br7 | pig<br>demand<br>enough<br>volume<br>spring<br>fun<br>winner |  
+| bip_39_word_new_br8 | pig<br>demand<br>enough<br>volume<br>spring<br>fun<br>winner<br>pulp |  
+| bip_39_word_new_br9 | pig<br>demand<br>enough<br>volume<br>spring<br>fun<br>winner<br>pulp<br>plunge |  
+| bip_39_word_new_line1 | pig |  
+| bip_39_word_new_line10 | pig
+demand
+enough
+volume
+spring
+fun
+winner
+pulp
+plunge
+cat |  
+| bip_39_word_new_line11 | pig
+demand
+enough
+volume
+spring
+fun
+winner
+pulp
+plunge
+cat
+seed |  
+| bip_39_word_new_line12 | pig
+demand
+enough
+volume
+spring
+fun
+winner
+pulp
+plunge
+cat
+seed
+avocado |  
+| bip_39_word_new_line2 | pig
+demand |  
+| bip_39_word_new_line3 | pig
+demand
+enough |  
+| bip_39_word_new_line4 | pig
+demand
+enough
+volume |  
+| bip_39_word_new_line5 | pig
+demand
+enough
+volume
+spring |  
+| bip_39_word_new_line6 | pig
+demand
+enough
+volume
+spring
+fun |  
+| bip_39_word_new_line7 | pig
+demand
+enough
+volume
+spring
+fun
+winner |  
+| bip_39_word_new_line8 | pig
+demand
+enough
+volume
+spring
+fun
+winner
+pulp |  
+| bip_39_word_new_line9 | pig
+demand
+enough
+volume
+spring
+fun
+winner
+pulp
+plunge |  
+| bip_39_word_space_0 | ['pig', 'demand', 'enough', 'volume', 'spring', 'fun', 'winner', 'pulp', 'plunge', 'cat', 'seed', 'avocado'] |  
+| bip_39_word_space_1 | pig |  
+| bip_39_word_space_10 | pig demand enough volume spring fun winner pulp plunge cat |  
+| bip_39_word_space_11 | pig demand enough volume spring fun winner pulp plunge cat seed |  
+| bip_39_word_space_12 | pig demand enough volume spring fun winner pulp plunge cat seed avocado |  
+| bip_39_word_space_2 | pig demand |  
+| bip_39_word_space_3 | pig demand enough |  
+| bip_39_word_space_4 | pig demand enough volume |  
+| bip_39_word_space_5 | pig demand enough volume spring |  
+| bip_39_word_space_6 | pig demand enough volume spring fun |  
+| bip_39_word_space_7 | pig demand enough volume spring fun winner |  
+| bip_39_word_space_8 | pig demand enough volume spring fun winner pulp |  
+| bip_39_word_space_9 | pig demand enough volume spring fun winner pulp plunge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: code upset
+  * bip 39 word 3: code upset pass
+  * bip 39 word: code upset pass guide sign wide moral afraid forest bubble find acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | code |  
+| bip_39_word_new_br10 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble |  
+| bip_39_word_new_br11 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble<br>find |  
+| bip_39_word_new_br12 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest<br>bubble<br>find<br>acquire |  
+| bip_39_word_new_br2 | code<br>upset |  
+| bip_39_word_new_br3 | code<br>upset<br>pass |  
+| bip_39_word_new_br4 | code<br>upset<br>pass<br>guide |  
+| bip_39_word_new_br5 | code<br>upset<br>pass<br>guide<br>sign |  
+| bip_39_word_new_br6 | code<br>upset<br>pass<br>guide<br>sign<br>wide |  
+| bip_39_word_new_br7 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral |  
+| bip_39_word_new_br8 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid |  
+| bip_39_word_new_br9 | code<br>upset<br>pass<br>guide<br>sign<br>wide<br>moral<br>afraid<br>forest |  
+| bip_39_word_new_line1 | code |  
+| bip_39_word_new_line10 | code
+upset
+pass
+guide
+sign
+wide
+moral
+afraid
+forest
+bubble |  
+| bip_39_word_new_line11 | code
+upset
+pass
+guide
+sign
+wide
+moral
+afraid
+forest
+bubble
+find |  
+| bip_39_word_new_line12 | code
+upset
+pass
+guide
+sign
+wide
+moral
+afraid
+forest
+bubble
+find
+acquire |  
+| bip_39_word_new_line2 | code
+upset |  
+| bip_39_word_new_line3 | code
+upset
+pass |  
+| bip_39_word_new_line4 | code
+upset
+pass
+guide |  
+| bip_39_word_new_line5 | code
+upset
+pass
+guide
+sign |  
+| bip_39_word_new_line6 | code
+upset
+pass
+guide
+sign
+wide |  
+| bip_39_word_new_line7 | code
+upset
+pass
+guide
+sign
+wide
+moral |  
+| bip_39_word_new_line8 | code
+upset
+pass
+guide
+sign
+wide
+moral
+afraid |  
+| bip_39_word_new_line9 | code
+upset
+pass
+guide
+sign
+wide
+moral
+afraid
+forest |  
+| bip_39_word_space_0 | ['code', 'upset', 'pass', 'guide', 'sign', 'wide', 'moral', 'afraid', 'forest', 'bubble', 'find', 'acquire'] |  
+| bip_39_word_space_1 | code |  
+| bip_39_word_space_10 | code upset pass guide sign wide moral afraid forest bubble |  
+| bip_39_word_space_11 | code upset pass guide sign wide moral afraid forest bubble find |  
+| bip_39_word_space_12 | code upset pass guide sign wide moral afraid forest bubble find acquire |  
+| bip_39_word_space_2 | code upset |  
+| bip_39_word_space_3 | code upset pass |  
+| bip_39_word_space_4 | code upset pass guide |  
+| bip_39_word_space_5 | code upset pass guide sign |  
+| bip_39_word_space_6 | code upset pass guide sign wide |  
+| bip_39_word_space_7 | code upset pass guide sign wide moral |  
+| bip_39_word_space_8 | code upset pass guide sign wide moral afraid |  
+| bip_39_word_space_9 | code upset pass guide sign wide moral afraid forest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

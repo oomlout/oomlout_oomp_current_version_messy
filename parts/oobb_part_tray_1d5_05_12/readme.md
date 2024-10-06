@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toe emerge
+  * bip 39 word 3: toe emerge verify
+  * bip 39 word: toe emerge verify present accident flee actor arrest oblige spoil weapon ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toe |  
+| bip_39_word_new_br10 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil |  
+| bip_39_word_new_br11 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil<br>weapon |  
+| bip_39_word_new_br12 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige<br>spoil<br>weapon<br>ahead |  
+| bip_39_word_new_br2 | toe<br>emerge |  
+| bip_39_word_new_br3 | toe<br>emerge<br>verify |  
+| bip_39_word_new_br4 | toe<br>emerge<br>verify<br>present |  
+| bip_39_word_new_br5 | toe<br>emerge<br>verify<br>present<br>accident |  
+| bip_39_word_new_br6 | toe<br>emerge<br>verify<br>present<br>accident<br>flee |  
+| bip_39_word_new_br7 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor |  
+| bip_39_word_new_br8 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest |  
+| bip_39_word_new_br9 | toe<br>emerge<br>verify<br>present<br>accident<br>flee<br>actor<br>arrest<br>oblige |  
+| bip_39_word_new_line1 | toe |  
+| bip_39_word_new_line10 | toe
+emerge
+verify
+present
+accident
+flee
+actor
+arrest
+oblige
+spoil |  
+| bip_39_word_new_line11 | toe
+emerge
+verify
+present
+accident
+flee
+actor
+arrest
+oblige
+spoil
+weapon |  
+| bip_39_word_new_line12 | toe
+emerge
+verify
+present
+accident
+flee
+actor
+arrest
+oblige
+spoil
+weapon
+ahead |  
+| bip_39_word_new_line2 | toe
+emerge |  
+| bip_39_word_new_line3 | toe
+emerge
+verify |  
+| bip_39_word_new_line4 | toe
+emerge
+verify
+present |  
+| bip_39_word_new_line5 | toe
+emerge
+verify
+present
+accident |  
+| bip_39_word_new_line6 | toe
+emerge
+verify
+present
+accident
+flee |  
+| bip_39_word_new_line7 | toe
+emerge
+verify
+present
+accident
+flee
+actor |  
+| bip_39_word_new_line8 | toe
+emerge
+verify
+present
+accident
+flee
+actor
+arrest |  
+| bip_39_word_new_line9 | toe
+emerge
+verify
+present
+accident
+flee
+actor
+arrest
+oblige |  
+| bip_39_word_space_0 | ['toe', 'emerge', 'verify', 'present', 'accident', 'flee', 'actor', 'arrest', 'oblige', 'spoil', 'weapon', 'ahead'] |  
+| bip_39_word_space_1 | toe |  
+| bip_39_word_space_10 | toe emerge verify present accident flee actor arrest oblige spoil |  
+| bip_39_word_space_11 | toe emerge verify present accident flee actor arrest oblige spoil weapon |  
+| bip_39_word_space_12 | toe emerge verify present accident flee actor arrest oblige spoil weapon ahead |  
+| bip_39_word_space_2 | toe emerge |  
+| bip_39_word_space_3 | toe emerge verify |  
+| bip_39_word_space_4 | toe emerge verify present |  
+| bip_39_word_space_5 | toe emerge verify present accident |  
+| bip_39_word_space_6 | toe emerge verify present accident flee |  
+| bip_39_word_space_7 | toe emerge verify present accident flee actor |  
+| bip_39_word_space_8 | toe emerge verify present accident flee actor arrest |  
+| bip_39_word_space_9 | toe emerge verify present accident flee actor arrest oblige |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: high
+bip_39_word_new_br10: high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack
+bip_39_word_new_br11: high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack<br>hurdle
+bip_39_word_new_br12: high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand<br>rack<br>hurdle<br>achieve
+bip_39_word_new_br2: high<br>judge
+bip_39_word_new_br3: high<br>judge<br>curve
+bip_39_word_new_br4: high<br>judge<br>curve<br>warrior
+bip_39_word_new_br5: high<br>judge<br>curve<br>warrior<br>gorilla
+bip_39_word_new_br6: high<br>judge<br>curve<br>warrior<br>gorilla<br>help
+bip_39_word_new_br7: high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess
+bip_39_word_new_br8: high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand
+bip_39_word_new_br9: high<br>judge<br>curve<br>warrior<br>gorilla<br>help<br>guess<br>demand<br>demand
+bip_39_word_new_line1: high
+bip_39_word_new_line10: 'high
+
+  judge
+
+  curve
+
+  warrior
+
+  gorilla
+
+  help
+
+  guess
+
+  demand
+
+  demand
+
+  rack'
+bip_39_word_new_line11: 'high
+
+  judge
+
+  curve
+
+  warrior
+
+  gorilla
+
+  help
+
+  guess
+
+  demand
+
+  demand
+
+  rack
+
+  hurdle'
+bip_39_word_new_line12: 'high
+
+  judge
+
+  curve
+
+  warrior
+
+  gorilla
+
+  help
+
+  guess
+
+  demand
+
+  demand
+
+  rack
+
+  hurdle
+
+  achieve'
+bip_39_word_new_line2: 'high
+
+  judge'
+bip_39_word_new_line3: 'high
+
+  judge
+
+  curve'
+bip_39_word_new_line4: 'high
+
+  judge
+
+  curve
+
+  warrior'
+bip_39_word_new_line5: 'high
+
+  judge
+
+  curve
+
+  warrior
+
+  gorilla'
+bip_39_word_new_line6: 'high
+
+  judge
+
+  curve
+
+  warrior
+
+  gorilla
+
+  help'
+bip_39_word_new_line7: 'high
+
+  judge
+
+  curve
+
+  warrior
+
+  gorilla
+
+  help
+
+  guess'
+bip_39_word_new_line8: 'high
+
+  judge
+
+  curve
+
+  warrior
+
+  gorilla
+
+  help
+
+  guess
+
+  demand'
+bip_39_word_new_line9: 'high
+
+  judge
+
+  curve
+
+  warrior
+
+  gorilla
+
+  help
+
+  guess
+
+  demand
+
+  demand'
+bip_39_word_space_0:
+- high
+- judge
+- curve
+- warrior
+- gorilla
+- help
+- guess
+- demand
+- demand
+- rack
+- hurdle
+- achieve
+bip_39_word_space_1: high
+bip_39_word_space_10: high judge curve warrior gorilla help guess demand demand rack
+bip_39_word_space_11: high judge curve warrior gorilla help guess demand demand rack
+  hurdle
+bip_39_word_space_12: high judge curve warrior gorilla help guess demand demand rack
+  hurdle achieve
+bip_39_word_space_2: high judge
+bip_39_word_space_3: high judge curve
+bip_39_word_space_4: high judge curve warrior
+bip_39_word_space_5: high judge curve warrior gorilla
+bip_39_word_space_6: high judge curve warrior gorilla help
+bip_39_word_space_7: high judge curve warrior gorilla help guess
+bip_39_word_space_8: high judge curve warrior gorilla help guess demand
+bip_39_word_space_9: high judge curve warrior gorilla help guess demand demand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

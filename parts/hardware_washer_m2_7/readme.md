@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pipe kiss
+  * bip 39 word 3: pipe kiss jump
+  * bip 39 word: pipe kiss jump sweet skate early shallow wagon service wide mom antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pipe |  
+| bip_39_word_new_br10 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early<br>shallow<br>wagon<br>service<br>wide |  
+| bip_39_word_new_br11 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early<br>shallow<br>wagon<br>service<br>wide<br>mom |  
+| bip_39_word_new_br12 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early<br>shallow<br>wagon<br>service<br>wide<br>mom<br>antique |  
+| bip_39_word_new_br2 | pipe<br>kiss |  
+| bip_39_word_new_br3 | pipe<br>kiss<br>jump |  
+| bip_39_word_new_br4 | pipe<br>kiss<br>jump<br>sweet |  
+| bip_39_word_new_br5 | pipe<br>kiss<br>jump<br>sweet<br>skate |  
+| bip_39_word_new_br6 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early |  
+| bip_39_word_new_br7 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early<br>shallow |  
+| bip_39_word_new_br8 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early<br>shallow<br>wagon |  
+| bip_39_word_new_br9 | pipe<br>kiss<br>jump<br>sweet<br>skate<br>early<br>shallow<br>wagon<br>service |  
+| bip_39_word_new_line1 | pipe |  
+| bip_39_word_new_line10 | pipe
+kiss
+jump
+sweet
+skate
+early
+shallow
+wagon
+service
+wide |  
+| bip_39_word_new_line11 | pipe
+kiss
+jump
+sweet
+skate
+early
+shallow
+wagon
+service
+wide
+mom |  
+| bip_39_word_new_line12 | pipe
+kiss
+jump
+sweet
+skate
+early
+shallow
+wagon
+service
+wide
+mom
+antique |  
+| bip_39_word_new_line2 | pipe
+kiss |  
+| bip_39_word_new_line3 | pipe
+kiss
+jump |  
+| bip_39_word_new_line4 | pipe
+kiss
+jump
+sweet |  
+| bip_39_word_new_line5 | pipe
+kiss
+jump
+sweet
+skate |  
+| bip_39_word_new_line6 | pipe
+kiss
+jump
+sweet
+skate
+early |  
+| bip_39_word_new_line7 | pipe
+kiss
+jump
+sweet
+skate
+early
+shallow |  
+| bip_39_word_new_line8 | pipe
+kiss
+jump
+sweet
+skate
+early
+shallow
+wagon |  
+| bip_39_word_new_line9 | pipe
+kiss
+jump
+sweet
+skate
+early
+shallow
+wagon
+service |  
+| bip_39_word_space_0 | ['pipe', 'kiss', 'jump', 'sweet', 'skate', 'early', 'shallow', 'wagon', 'service', 'wide', 'mom', 'antique'] |  
+| bip_39_word_space_1 | pipe |  
+| bip_39_word_space_10 | pipe kiss jump sweet skate early shallow wagon service wide |  
+| bip_39_word_space_11 | pipe kiss jump sweet skate early shallow wagon service wide mom |  
+| bip_39_word_space_12 | pipe kiss jump sweet skate early shallow wagon service wide mom antique |  
+| bip_39_word_space_2 | pipe kiss |  
+| bip_39_word_space_3 | pipe kiss jump |  
+| bip_39_word_space_4 | pipe kiss jump sweet |  
+| bip_39_word_space_5 | pipe kiss jump sweet skate |  
+| bip_39_word_space_6 | pipe kiss jump sweet skate early |  
+| bip_39_word_space_7 | pipe kiss jump sweet skate early shallow |  
+| bip_39_word_space_8 | pipe kiss jump sweet skate early shallow wagon |  
+| bip_39_word_space_9 | pipe kiss jump sweet skate early shallow wagon service |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

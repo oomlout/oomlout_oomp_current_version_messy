@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trophy seat
+  * bip 39 word 3: trophy seat ketchup
+  * bip 39 word: trophy seat ketchup blur senior company swarm century cigar fix main attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trophy |  
+| bip_39_word_new_br10 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar<br>fix |  
+| bip_39_word_new_br11 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar<br>fix<br>main |  
+| bip_39_word_new_br12 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar<br>fix<br>main<br>attack |  
+| bip_39_word_new_br2 | trophy<br>seat |  
+| bip_39_word_new_br3 | trophy<br>seat<br>ketchup |  
+| bip_39_word_new_br4 | trophy<br>seat<br>ketchup<br>blur |  
+| bip_39_word_new_br5 | trophy<br>seat<br>ketchup<br>blur<br>senior |  
+| bip_39_word_new_br6 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company |  
+| bip_39_word_new_br7 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm |  
+| bip_39_word_new_br8 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century |  
+| bip_39_word_new_br9 | trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar |  
+| bip_39_word_new_line1 | trophy |  
+| bip_39_word_new_line10 | trophy
+seat
+ketchup
+blur
+senior
+company
+swarm
+century
+cigar
+fix |  
+| bip_39_word_new_line11 | trophy
+seat
+ketchup
+blur
+senior
+company
+swarm
+century
+cigar
+fix
+main |  
+| bip_39_word_new_line12 | trophy
+seat
+ketchup
+blur
+senior
+company
+swarm
+century
+cigar
+fix
+main
+attack |  
+| bip_39_word_new_line2 | trophy
+seat |  
+| bip_39_word_new_line3 | trophy
+seat
+ketchup |  
+| bip_39_word_new_line4 | trophy
+seat
+ketchup
+blur |  
+| bip_39_word_new_line5 | trophy
+seat
+ketchup
+blur
+senior |  
+| bip_39_word_new_line6 | trophy
+seat
+ketchup
+blur
+senior
+company |  
+| bip_39_word_new_line7 | trophy
+seat
+ketchup
+blur
+senior
+company
+swarm |  
+| bip_39_word_new_line8 | trophy
+seat
+ketchup
+blur
+senior
+company
+swarm
+century |  
+| bip_39_word_new_line9 | trophy
+seat
+ketchup
+blur
+senior
+company
+swarm
+century
+cigar |  
+| bip_39_word_space_0 | ['trophy', 'seat', 'ketchup', 'blur', 'senior', 'company', 'swarm', 'century', 'cigar', 'fix', 'main', 'attack'] |  
+| bip_39_word_space_1 | trophy |  
+| bip_39_word_space_10 | trophy seat ketchup blur senior company swarm century cigar fix |  
+| bip_39_word_space_11 | trophy seat ketchup blur senior company swarm century cigar fix main |  
+| bip_39_word_space_12 | trophy seat ketchup blur senior company swarm century cigar fix main attack |  
+| bip_39_word_space_2 | trophy seat |  
+| bip_39_word_space_3 | trophy seat ketchup |  
+| bip_39_word_space_4 | trophy seat ketchup blur |  
+| bip_39_word_space_5 | trophy seat ketchup blur senior |  
+| bip_39_word_space_6 | trophy seat ketchup blur senior company |  
+| bip_39_word_space_7 | trophy seat ketchup blur senior company swarm |  
+| bip_39_word_space_8 | trophy seat ketchup blur senior company swarm century |  
+| bip_39_word_space_9 | trophy seat ketchup blur senior company swarm century cigar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

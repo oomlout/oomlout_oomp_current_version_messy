@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: three_quarter
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mansion borrow
+  * bip 39 word 3: mansion borrow quality
+  * bip 39 word: mansion borrow quality wild armed pepper brave paper syrup void slender armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mansion |  
+| bip_39_word_new_br10 | mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup<br>void |  
+| bip_39_word_new_br11 | mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup<br>void<br>slender |  
+| bip_39_word_new_br12 | mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup<br>void<br>slender<br>armor |  
+| bip_39_word_new_br2 | mansion<br>borrow |  
+| bip_39_word_new_br3 | mansion<br>borrow<br>quality |  
+| bip_39_word_new_br4 | mansion<br>borrow<br>quality<br>wild |  
+| bip_39_word_new_br5 | mansion<br>borrow<br>quality<br>wild<br>armed |  
+| bip_39_word_new_br6 | mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper |  
+| bip_39_word_new_br7 | mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave |  
+| bip_39_word_new_br8 | mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper |  
+| bip_39_word_new_br9 | mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup |  
+| bip_39_word_new_line1 | mansion |  
+| bip_39_word_new_line10 | mansion
+borrow
+quality
+wild
+armed
+pepper
+brave
+paper
+syrup
+void |  
+| bip_39_word_new_line11 | mansion
+borrow
+quality
+wild
+armed
+pepper
+brave
+paper
+syrup
+void
+slender |  
+| bip_39_word_new_line12 | mansion
+borrow
+quality
+wild
+armed
+pepper
+brave
+paper
+syrup
+void
+slender
+armor |  
+| bip_39_word_new_line2 | mansion
+borrow |  
+| bip_39_word_new_line3 | mansion
+borrow
+quality |  
+| bip_39_word_new_line4 | mansion
+borrow
+quality
+wild |  
+| bip_39_word_new_line5 | mansion
+borrow
+quality
+wild
+armed |  
+| bip_39_word_new_line6 | mansion
+borrow
+quality
+wild
+armed
+pepper |  
+| bip_39_word_new_line7 | mansion
+borrow
+quality
+wild
+armed
+pepper
+brave |  
+| bip_39_word_new_line8 | mansion
+borrow
+quality
+wild
+armed
+pepper
+brave
+paper |  
+| bip_39_word_new_line9 | mansion
+borrow
+quality
+wild
+armed
+pepper
+brave
+paper
+syrup |  
+| bip_39_word_space_0 | ['mansion', 'borrow', 'quality', 'wild', 'armed', 'pepper', 'brave', 'paper', 'syrup', 'void', 'slender', 'armor'] |  
+| bip_39_word_space_1 | mansion |  
+| bip_39_word_space_10 | mansion borrow quality wild armed pepper brave paper syrup void |  
+| bip_39_word_space_11 | mansion borrow quality wild armed pepper brave paper syrup void slender |  
+| bip_39_word_space_12 | mansion borrow quality wild armed pepper brave paper syrup void slender armor |  
+| bip_39_word_space_2 | mansion borrow |  
+| bip_39_word_space_3 | mansion borrow quality |  
+| bip_39_word_space_4 | mansion borrow quality wild |  
+| bip_39_word_space_5 | mansion borrow quality wild armed |  
+| bip_39_word_space_6 | mansion borrow quality wild armed pepper |  
+| bip_39_word_space_7 | mansion borrow quality wild armed pepper brave |  
+| bip_39_word_space_8 | mansion borrow quality wild armed pepper brave paper |  
+| bip_39_word_space_9 | mansion borrow quality wild armed pepper brave paper syrup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gaze movie
+  * bip 39 word 3: gaze movie crawl
+  * bip 39 word: gaze movie crawl nose elite thumb point squirrel turtle struggle enable action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gaze |  
+| bip_39_word_new_br10 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb<br>point<br>squirrel<br>turtle<br>struggle |  
+| bip_39_word_new_br11 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb<br>point<br>squirrel<br>turtle<br>struggle<br>enable |  
+| bip_39_word_new_br12 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb<br>point<br>squirrel<br>turtle<br>struggle<br>enable<br>action |  
+| bip_39_word_new_br2 | gaze<br>movie |  
+| bip_39_word_new_br3 | gaze<br>movie<br>crawl |  
+| bip_39_word_new_br4 | gaze<br>movie<br>crawl<br>nose |  
+| bip_39_word_new_br5 | gaze<br>movie<br>crawl<br>nose<br>elite |  
+| bip_39_word_new_br6 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb |  
+| bip_39_word_new_br7 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb<br>point |  
+| bip_39_word_new_br8 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb<br>point<br>squirrel |  
+| bip_39_word_new_br9 | gaze<br>movie<br>crawl<br>nose<br>elite<br>thumb<br>point<br>squirrel<br>turtle |  
+| bip_39_word_new_line1 | gaze |  
+| bip_39_word_new_line10 | gaze
+movie
+crawl
+nose
+elite
+thumb
+point
+squirrel
+turtle
+struggle |  
+| bip_39_word_new_line11 | gaze
+movie
+crawl
+nose
+elite
+thumb
+point
+squirrel
+turtle
+struggle
+enable |  
+| bip_39_word_new_line12 | gaze
+movie
+crawl
+nose
+elite
+thumb
+point
+squirrel
+turtle
+struggle
+enable
+action |  
+| bip_39_word_new_line2 | gaze
+movie |  
+| bip_39_word_new_line3 | gaze
+movie
+crawl |  
+| bip_39_word_new_line4 | gaze
+movie
+crawl
+nose |  
+| bip_39_word_new_line5 | gaze
+movie
+crawl
+nose
+elite |  
+| bip_39_word_new_line6 | gaze
+movie
+crawl
+nose
+elite
+thumb |  
+| bip_39_word_new_line7 | gaze
+movie
+crawl
+nose
+elite
+thumb
+point |  
+| bip_39_word_new_line8 | gaze
+movie
+crawl
+nose
+elite
+thumb
+point
+squirrel |  
+| bip_39_word_new_line9 | gaze
+movie
+crawl
+nose
+elite
+thumb
+point
+squirrel
+turtle |  
+| bip_39_word_space_0 | ['gaze', 'movie', 'crawl', 'nose', 'elite', 'thumb', 'point', 'squirrel', 'turtle', 'struggle', 'enable', 'action'] |  
+| bip_39_word_space_1 | gaze |  
+| bip_39_word_space_10 | gaze movie crawl nose elite thumb point squirrel turtle struggle |  
+| bip_39_word_space_11 | gaze movie crawl nose elite thumb point squirrel turtle struggle enable |  
+| bip_39_word_space_12 | gaze movie crawl nose elite thumb point squirrel turtle struggle enable action |  
+| bip_39_word_space_2 | gaze movie |  
+| bip_39_word_space_3 | gaze movie crawl |  
+| bip_39_word_space_4 | gaze movie crawl nose |  
+| bip_39_word_space_5 | gaze movie crawl nose elite |  
+| bip_39_word_space_6 | gaze movie crawl nose elite thumb |  
+| bip_39_word_space_7 | gaze movie crawl nose elite thumb point |  
+| bip_39_word_space_8 | gaze movie crawl nose elite thumb point squirrel |  
+| bip_39_word_space_9 | gaze movie crawl nose elite thumb point squirrel turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

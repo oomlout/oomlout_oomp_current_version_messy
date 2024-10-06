@@ -1,3 +1,187 @@
+bip_39_word_new_br1: soul
+bip_39_word_new_br10: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray
+bip_39_word_new_br11: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray<br>diagram
+bip_39_word_new_br12: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray<br>diagram<br>adapt
+bip_39_word_new_br2: soul<br>impulse
+bip_39_word_new_br3: soul<br>impulse<br>useless
+bip_39_word_new_br4: soul<br>impulse<br>useless<br>one
+bip_39_word_new_br5: soul<br>impulse<br>useless<br>one<br>organ
+bip_39_word_new_br6: soul<br>impulse<br>useless<br>one<br>organ<br>cluster
+bip_39_word_new_br7: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest
+bip_39_word_new_br8: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh
+bip_39_word_new_br9: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert
+bip_39_word_new_line1: soul
+bip_39_word_new_line10: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh
+
+  divert
+
+  spray'
+bip_39_word_new_line11: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh
+
+  divert
+
+  spray
+
+  diagram'
+bip_39_word_new_line12: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh
+
+  divert
+
+  spray
+
+  diagram
+
+  adapt'
+bip_39_word_new_line2: 'soul
+
+  impulse'
+bip_39_word_new_line3: 'soul
+
+  impulse
+
+  useless'
+bip_39_word_new_line4: 'soul
+
+  impulse
+
+  useless
+
+  one'
+bip_39_word_new_line5: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ'
+bip_39_word_new_line6: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster'
+bip_39_word_new_line7: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest'
+bip_39_word_new_line8: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh'
+bip_39_word_new_line9: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh
+
+  divert'
+bip_39_word_space_0:
+- soul
+- impulse
+- useless
+- one
+- organ
+- cluster
+- interest
+- harsh
+- divert
+- spray
+- diagram
+- adapt
+bip_39_word_space_1: soul
+bip_39_word_space_10: soul impulse useless one organ cluster interest harsh divert
+  spray
+bip_39_word_space_11: soul impulse useless one organ cluster interest harsh divert
+  spray diagram
+bip_39_word_space_12: soul impulse useless one organ cluster interest harsh divert
+  spray diagram adapt
+bip_39_word_space_2: soul impulse
+bip_39_word_space_3: soul impulse useless
+bip_39_word_space_4: soul impulse useless one
+bip_39_word_space_5: soul impulse useless one organ
+bip_39_word_space_6: soul impulse useless one organ cluster
+bip_39_word_space_7: soul impulse useless one organ cluster interest
+bip_39_word_space_8: soul impulse useless one organ cluster interest harsh
+bip_39_word_space_9: soul impulse useless one organ cluster interest harsh divert
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

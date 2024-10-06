@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drink regret
+  * bip 39 word 3: drink regret rubber
+  * bip 39 word: drink regret rubber nuclear world spray butter sick erosion key burst also
 
 ### other_codes
 * short_code: ss5m14
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drink |  
+| bip_39_word_new_br10 | drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick<br>erosion<br>key |  
+| bip_39_word_new_br11 | drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick<br>erosion<br>key<br>burst |  
+| bip_39_word_new_br12 | drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick<br>erosion<br>key<br>burst<br>also |  
+| bip_39_word_new_br2 | drink<br>regret |  
+| bip_39_word_new_br3 | drink<br>regret<br>rubber |  
+| bip_39_word_new_br4 | drink<br>regret<br>rubber<br>nuclear |  
+| bip_39_word_new_br5 | drink<br>regret<br>rubber<br>nuclear<br>world |  
+| bip_39_word_new_br6 | drink<br>regret<br>rubber<br>nuclear<br>world<br>spray |  
+| bip_39_word_new_br7 | drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter |  
+| bip_39_word_new_br8 | drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick |  
+| bip_39_word_new_br9 | drink<br>regret<br>rubber<br>nuclear<br>world<br>spray<br>butter<br>sick<br>erosion |  
+| bip_39_word_new_line1 | drink |  
+| bip_39_word_new_line10 | drink
+regret
+rubber
+nuclear
+world
+spray
+butter
+sick
+erosion
+key |  
+| bip_39_word_new_line11 | drink
+regret
+rubber
+nuclear
+world
+spray
+butter
+sick
+erosion
+key
+burst |  
+| bip_39_word_new_line12 | drink
+regret
+rubber
+nuclear
+world
+spray
+butter
+sick
+erosion
+key
+burst
+also |  
+| bip_39_word_new_line2 | drink
+regret |  
+| bip_39_word_new_line3 | drink
+regret
+rubber |  
+| bip_39_word_new_line4 | drink
+regret
+rubber
+nuclear |  
+| bip_39_word_new_line5 | drink
+regret
+rubber
+nuclear
+world |  
+| bip_39_word_new_line6 | drink
+regret
+rubber
+nuclear
+world
+spray |  
+| bip_39_word_new_line7 | drink
+regret
+rubber
+nuclear
+world
+spray
+butter |  
+| bip_39_word_new_line8 | drink
+regret
+rubber
+nuclear
+world
+spray
+butter
+sick |  
+| bip_39_word_new_line9 | drink
+regret
+rubber
+nuclear
+world
+spray
+butter
+sick
+erosion |  
+| bip_39_word_space_0 | ['drink', 'regret', 'rubber', 'nuclear', 'world', 'spray', 'butter', 'sick', 'erosion', 'key', 'burst', 'also'] |  
+| bip_39_word_space_1 | drink |  
+| bip_39_word_space_10 | drink regret rubber nuclear world spray butter sick erosion key |  
+| bip_39_word_space_11 | drink regret rubber nuclear world spray butter sick erosion key burst |  
+| bip_39_word_space_12 | drink regret rubber nuclear world spray butter sick erosion key burst also |  
+| bip_39_word_space_2 | drink regret |  
+| bip_39_word_space_3 | drink regret rubber |  
+| bip_39_word_space_4 | drink regret rubber nuclear |  
+| bip_39_word_space_5 | drink regret rubber nuclear world |  
+| bip_39_word_space_6 | drink regret rubber nuclear world spray |  
+| bip_39_word_space_7 | drink regret rubber nuclear world spray butter |  
+| bip_39_word_space_8 | drink regret rubber nuclear world spray butter sick |  
+| bip_39_word_space_9 | drink regret rubber nuclear world spray butter sick erosion |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

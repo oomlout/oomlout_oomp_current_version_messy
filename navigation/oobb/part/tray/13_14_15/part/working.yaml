@@ -1,3 +1,186 @@
+bip_39_word_new_br1: orange
+bip_39_word_new_br10: orange<br>tooth<br>aware<br>silent<br>angry<br>tornado<br>tag<br>copper<br>basket<br>question
+bip_39_word_new_br11: orange<br>tooth<br>aware<br>silent<br>angry<br>tornado<br>tag<br>copper<br>basket<br>question<br>visit
+bip_39_word_new_br12: orange<br>tooth<br>aware<br>silent<br>angry<br>tornado<br>tag<br>copper<br>basket<br>question<br>visit<br>amount
+bip_39_word_new_br2: orange<br>tooth
+bip_39_word_new_br3: orange<br>tooth<br>aware
+bip_39_word_new_br4: orange<br>tooth<br>aware<br>silent
+bip_39_word_new_br5: orange<br>tooth<br>aware<br>silent<br>angry
+bip_39_word_new_br6: orange<br>tooth<br>aware<br>silent<br>angry<br>tornado
+bip_39_word_new_br7: orange<br>tooth<br>aware<br>silent<br>angry<br>tornado<br>tag
+bip_39_word_new_br8: orange<br>tooth<br>aware<br>silent<br>angry<br>tornado<br>tag<br>copper
+bip_39_word_new_br9: orange<br>tooth<br>aware<br>silent<br>angry<br>tornado<br>tag<br>copper<br>basket
+bip_39_word_new_line1: orange
+bip_39_word_new_line10: 'orange
+
+  tooth
+
+  aware
+
+  silent
+
+  angry
+
+  tornado
+
+  tag
+
+  copper
+
+  basket
+
+  question'
+bip_39_word_new_line11: 'orange
+
+  tooth
+
+  aware
+
+  silent
+
+  angry
+
+  tornado
+
+  tag
+
+  copper
+
+  basket
+
+  question
+
+  visit'
+bip_39_word_new_line12: 'orange
+
+  tooth
+
+  aware
+
+  silent
+
+  angry
+
+  tornado
+
+  tag
+
+  copper
+
+  basket
+
+  question
+
+  visit
+
+  amount'
+bip_39_word_new_line2: 'orange
+
+  tooth'
+bip_39_word_new_line3: 'orange
+
+  tooth
+
+  aware'
+bip_39_word_new_line4: 'orange
+
+  tooth
+
+  aware
+
+  silent'
+bip_39_word_new_line5: 'orange
+
+  tooth
+
+  aware
+
+  silent
+
+  angry'
+bip_39_word_new_line6: 'orange
+
+  tooth
+
+  aware
+
+  silent
+
+  angry
+
+  tornado'
+bip_39_word_new_line7: 'orange
+
+  tooth
+
+  aware
+
+  silent
+
+  angry
+
+  tornado
+
+  tag'
+bip_39_word_new_line8: 'orange
+
+  tooth
+
+  aware
+
+  silent
+
+  angry
+
+  tornado
+
+  tag
+
+  copper'
+bip_39_word_new_line9: 'orange
+
+  tooth
+
+  aware
+
+  silent
+
+  angry
+
+  tornado
+
+  tag
+
+  copper
+
+  basket'
+bip_39_word_space_0:
+- orange
+- tooth
+- aware
+- silent
+- angry
+- tornado
+- tag
+- copper
+- basket
+- question
+- visit
+- amount
+bip_39_word_space_1: orange
+bip_39_word_space_10: orange tooth aware silent angry tornado tag copper basket question
+bip_39_word_space_11: orange tooth aware silent angry tornado tag copper basket question
+  visit
+bip_39_word_space_12: orange tooth aware silent angry tornado tag copper basket question
+  visit amount
+bip_39_word_space_2: orange tooth
+bip_39_word_space_3: orange tooth aware
+bip_39_word_space_4: orange tooth aware silent
+bip_39_word_space_5: orange tooth aware silent angry
+bip_39_word_space_6: orange tooth aware silent angry tornado
+bip_39_word_space_7: orange tooth aware silent angry tornado tag
+bip_39_word_space_8: orange tooth aware silent angry tornado tag copper
+bip_39_word_space_9: orange tooth aware silent angry tornado tag copper basket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stomach group
+  * bip 39 word 3: stomach group enroll
+  * bip 39 word: stomach group enroll flock leopard elbow tribe unusual output random describe actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stomach |  
+| bip_39_word_new_br10 | stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow<br>tribe<br>unusual<br>output<br>random |  
+| bip_39_word_new_br11 | stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow<br>tribe<br>unusual<br>output<br>random<br>describe |  
+| bip_39_word_new_br12 | stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow<br>tribe<br>unusual<br>output<br>random<br>describe<br>actual |  
+| bip_39_word_new_br2 | stomach<br>group |  
+| bip_39_word_new_br3 | stomach<br>group<br>enroll |  
+| bip_39_word_new_br4 | stomach<br>group<br>enroll<br>flock |  
+| bip_39_word_new_br5 | stomach<br>group<br>enroll<br>flock<br>leopard |  
+| bip_39_word_new_br6 | stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow |  
+| bip_39_word_new_br7 | stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow<br>tribe |  
+| bip_39_word_new_br8 | stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow<br>tribe<br>unusual |  
+| bip_39_word_new_br9 | stomach<br>group<br>enroll<br>flock<br>leopard<br>elbow<br>tribe<br>unusual<br>output |  
+| bip_39_word_new_line1 | stomach |  
+| bip_39_word_new_line10 | stomach
+group
+enroll
+flock
+leopard
+elbow
+tribe
+unusual
+output
+random |  
+| bip_39_word_new_line11 | stomach
+group
+enroll
+flock
+leopard
+elbow
+tribe
+unusual
+output
+random
+describe |  
+| bip_39_word_new_line12 | stomach
+group
+enroll
+flock
+leopard
+elbow
+tribe
+unusual
+output
+random
+describe
+actual |  
+| bip_39_word_new_line2 | stomach
+group |  
+| bip_39_word_new_line3 | stomach
+group
+enroll |  
+| bip_39_word_new_line4 | stomach
+group
+enroll
+flock |  
+| bip_39_word_new_line5 | stomach
+group
+enroll
+flock
+leopard |  
+| bip_39_word_new_line6 | stomach
+group
+enroll
+flock
+leopard
+elbow |  
+| bip_39_word_new_line7 | stomach
+group
+enroll
+flock
+leopard
+elbow
+tribe |  
+| bip_39_word_new_line8 | stomach
+group
+enroll
+flock
+leopard
+elbow
+tribe
+unusual |  
+| bip_39_word_new_line9 | stomach
+group
+enroll
+flock
+leopard
+elbow
+tribe
+unusual
+output |  
+| bip_39_word_space_0 | ['stomach', 'group', 'enroll', 'flock', 'leopard', 'elbow', 'tribe', 'unusual', 'output', 'random', 'describe', 'actual'] |  
+| bip_39_word_space_1 | stomach |  
+| bip_39_word_space_10 | stomach group enroll flock leopard elbow tribe unusual output random |  
+| bip_39_word_space_11 | stomach group enroll flock leopard elbow tribe unusual output random describe |  
+| bip_39_word_space_12 | stomach group enroll flock leopard elbow tribe unusual output random describe actual |  
+| bip_39_word_space_2 | stomach group |  
+| bip_39_word_space_3 | stomach group enroll |  
+| bip_39_word_space_4 | stomach group enroll flock |  
+| bip_39_word_space_5 | stomach group enroll flock leopard |  
+| bip_39_word_space_6 | stomach group enroll flock leopard elbow |  
+| bip_39_word_space_7 | stomach group enroll flock leopard elbow tribe |  
+| bip_39_word_space_8 | stomach group enroll flock leopard elbow tribe unusual |  
+| bip_39_word_space_9 | stomach group enroll flock leopard elbow tribe unusual output |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

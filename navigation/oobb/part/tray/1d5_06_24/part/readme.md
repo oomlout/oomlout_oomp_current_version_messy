@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hawk orient
+  * bip 39 word 3: hawk orient cannon
+  * bip 39 word: hawk orient cannon double veteran worth inmate lunch kitten inform custom all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hawk |  
+| bip_39_word_new_br10 | hawk<br>orient<br>cannon<br>double<br>veteran<br>worth<br>inmate<br>lunch<br>kitten<br>inform |  
+| bip_39_word_new_br11 | hawk<br>orient<br>cannon<br>double<br>veteran<br>worth<br>inmate<br>lunch<br>kitten<br>inform<br>custom |  
+| bip_39_word_new_br12 | hawk<br>orient<br>cannon<br>double<br>veteran<br>worth<br>inmate<br>lunch<br>kitten<br>inform<br>custom<br>all |  
+| bip_39_word_new_br2 | hawk<br>orient |  
+| bip_39_word_new_br3 | hawk<br>orient<br>cannon |  
+| bip_39_word_new_br4 | hawk<br>orient<br>cannon<br>double |  
+| bip_39_word_new_br5 | hawk<br>orient<br>cannon<br>double<br>veteran |  
+| bip_39_word_new_br6 | hawk<br>orient<br>cannon<br>double<br>veteran<br>worth |  
+| bip_39_word_new_br7 | hawk<br>orient<br>cannon<br>double<br>veteran<br>worth<br>inmate |  
+| bip_39_word_new_br8 | hawk<br>orient<br>cannon<br>double<br>veteran<br>worth<br>inmate<br>lunch |  
+| bip_39_word_new_br9 | hawk<br>orient<br>cannon<br>double<br>veteran<br>worth<br>inmate<br>lunch<br>kitten |  
+| bip_39_word_new_line1 | hawk |  
+| bip_39_word_new_line10 | hawk
+orient
+cannon
+double
+veteran
+worth
+inmate
+lunch
+kitten
+inform |  
+| bip_39_word_new_line11 | hawk
+orient
+cannon
+double
+veteran
+worth
+inmate
+lunch
+kitten
+inform
+custom |  
+| bip_39_word_new_line12 | hawk
+orient
+cannon
+double
+veteran
+worth
+inmate
+lunch
+kitten
+inform
+custom
+all |  
+| bip_39_word_new_line2 | hawk
+orient |  
+| bip_39_word_new_line3 | hawk
+orient
+cannon |  
+| bip_39_word_new_line4 | hawk
+orient
+cannon
+double |  
+| bip_39_word_new_line5 | hawk
+orient
+cannon
+double
+veteran |  
+| bip_39_word_new_line6 | hawk
+orient
+cannon
+double
+veteran
+worth |  
+| bip_39_word_new_line7 | hawk
+orient
+cannon
+double
+veteran
+worth
+inmate |  
+| bip_39_word_new_line8 | hawk
+orient
+cannon
+double
+veteran
+worth
+inmate
+lunch |  
+| bip_39_word_new_line9 | hawk
+orient
+cannon
+double
+veteran
+worth
+inmate
+lunch
+kitten |  
+| bip_39_word_space_0 | ['hawk', 'orient', 'cannon', 'double', 'veteran', 'worth', 'inmate', 'lunch', 'kitten', 'inform', 'custom', 'all'] |  
+| bip_39_word_space_1 | hawk |  
+| bip_39_word_space_10 | hawk orient cannon double veteran worth inmate lunch kitten inform |  
+| bip_39_word_space_11 | hawk orient cannon double veteran worth inmate lunch kitten inform custom |  
+| bip_39_word_space_12 | hawk orient cannon double veteran worth inmate lunch kitten inform custom all |  
+| bip_39_word_space_2 | hawk orient |  
+| bip_39_word_space_3 | hawk orient cannon |  
+| bip_39_word_space_4 | hawk orient cannon double |  
+| bip_39_word_space_5 | hawk orient cannon double veteran |  
+| bip_39_word_space_6 | hawk orient cannon double veteran worth |  
+| bip_39_word_space_7 | hawk orient cannon double veteran worth inmate |  
+| bip_39_word_space_8 | hawk orient cannon double veteran worth inmate lunch |  
+| bip_39_word_space_9 | hawk orient cannon double veteran worth inmate lunch kitten |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

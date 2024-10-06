@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: thought custom
+  * bip 39 word 3: thought custom month
+  * bip 39 word: thought custom month tackle twice simple shy frame library recall discover actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | thought |  
+| bip_39_word_new_br10 | thought<br>custom<br>month<br>tackle<br>twice<br>simple<br>shy<br>frame<br>library<br>recall |  
+| bip_39_word_new_br11 | thought<br>custom<br>month<br>tackle<br>twice<br>simple<br>shy<br>frame<br>library<br>recall<br>discover |  
+| bip_39_word_new_br12 | thought<br>custom<br>month<br>tackle<br>twice<br>simple<br>shy<br>frame<br>library<br>recall<br>discover<br>actor |  
+| bip_39_word_new_br2 | thought<br>custom |  
+| bip_39_word_new_br3 | thought<br>custom<br>month |  
+| bip_39_word_new_br4 | thought<br>custom<br>month<br>tackle |  
+| bip_39_word_new_br5 | thought<br>custom<br>month<br>tackle<br>twice |  
+| bip_39_word_new_br6 | thought<br>custom<br>month<br>tackle<br>twice<br>simple |  
+| bip_39_word_new_br7 | thought<br>custom<br>month<br>tackle<br>twice<br>simple<br>shy |  
+| bip_39_word_new_br8 | thought<br>custom<br>month<br>tackle<br>twice<br>simple<br>shy<br>frame |  
+| bip_39_word_new_br9 | thought<br>custom<br>month<br>tackle<br>twice<br>simple<br>shy<br>frame<br>library |  
+| bip_39_word_new_line1 | thought |  
+| bip_39_word_new_line10 | thought
+custom
+month
+tackle
+twice
+simple
+shy
+frame
+library
+recall |  
+| bip_39_word_new_line11 | thought
+custom
+month
+tackle
+twice
+simple
+shy
+frame
+library
+recall
+discover |  
+| bip_39_word_new_line12 | thought
+custom
+month
+tackle
+twice
+simple
+shy
+frame
+library
+recall
+discover
+actor |  
+| bip_39_word_new_line2 | thought
+custom |  
+| bip_39_word_new_line3 | thought
+custom
+month |  
+| bip_39_word_new_line4 | thought
+custom
+month
+tackle |  
+| bip_39_word_new_line5 | thought
+custom
+month
+tackle
+twice |  
+| bip_39_word_new_line6 | thought
+custom
+month
+tackle
+twice
+simple |  
+| bip_39_word_new_line7 | thought
+custom
+month
+tackle
+twice
+simple
+shy |  
+| bip_39_word_new_line8 | thought
+custom
+month
+tackle
+twice
+simple
+shy
+frame |  
+| bip_39_word_new_line9 | thought
+custom
+month
+tackle
+twice
+simple
+shy
+frame
+library |  
+| bip_39_word_space_0 | ['thought', 'custom', 'month', 'tackle', 'twice', 'simple', 'shy', 'frame', 'library', 'recall', 'discover', 'actor'] |  
+| bip_39_word_space_1 | thought |  
+| bip_39_word_space_10 | thought custom month tackle twice simple shy frame library recall |  
+| bip_39_word_space_11 | thought custom month tackle twice simple shy frame library recall discover |  
+| bip_39_word_space_12 | thought custom month tackle twice simple shy frame library recall discover actor |  
+| bip_39_word_space_2 | thought custom |  
+| bip_39_word_space_3 | thought custom month |  
+| bip_39_word_space_4 | thought custom month tackle |  
+| bip_39_word_space_5 | thought custom month tackle twice |  
+| bip_39_word_space_6 | thought custom month tackle twice simple |  
+| bip_39_word_space_7 | thought custom month tackle twice simple shy |  
+| bip_39_word_space_8 | thought custom month tackle twice simple shy frame |  
+| bip_39_word_space_9 | thought custom month tackle twice simple shy frame library |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

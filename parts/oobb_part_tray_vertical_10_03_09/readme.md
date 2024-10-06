@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inspire liar
+  * bip 39 word 3: inspire liar goose
+  * bip 39 word: inspire liar goose stock insect slush shoot floor abstract pair craft arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inspire |  
+| bip_39_word_new_br10 | inspire<br>liar<br>goose<br>stock<br>insect<br>slush<br>shoot<br>floor<br>abstract<br>pair |  
+| bip_39_word_new_br11 | inspire<br>liar<br>goose<br>stock<br>insect<br>slush<br>shoot<br>floor<br>abstract<br>pair<br>craft |  
+| bip_39_word_new_br12 | inspire<br>liar<br>goose<br>stock<br>insect<br>slush<br>shoot<br>floor<br>abstract<br>pair<br>craft<br>arrest |  
+| bip_39_word_new_br2 | inspire<br>liar |  
+| bip_39_word_new_br3 | inspire<br>liar<br>goose |  
+| bip_39_word_new_br4 | inspire<br>liar<br>goose<br>stock |  
+| bip_39_word_new_br5 | inspire<br>liar<br>goose<br>stock<br>insect |  
+| bip_39_word_new_br6 | inspire<br>liar<br>goose<br>stock<br>insect<br>slush |  
+| bip_39_word_new_br7 | inspire<br>liar<br>goose<br>stock<br>insect<br>slush<br>shoot |  
+| bip_39_word_new_br8 | inspire<br>liar<br>goose<br>stock<br>insect<br>slush<br>shoot<br>floor |  
+| bip_39_word_new_br9 | inspire<br>liar<br>goose<br>stock<br>insect<br>slush<br>shoot<br>floor<br>abstract |  
+| bip_39_word_new_line1 | inspire |  
+| bip_39_word_new_line10 | inspire
+liar
+goose
+stock
+insect
+slush
+shoot
+floor
+abstract
+pair |  
+| bip_39_word_new_line11 | inspire
+liar
+goose
+stock
+insect
+slush
+shoot
+floor
+abstract
+pair
+craft |  
+| bip_39_word_new_line12 | inspire
+liar
+goose
+stock
+insect
+slush
+shoot
+floor
+abstract
+pair
+craft
+arrest |  
+| bip_39_word_new_line2 | inspire
+liar |  
+| bip_39_word_new_line3 | inspire
+liar
+goose |  
+| bip_39_word_new_line4 | inspire
+liar
+goose
+stock |  
+| bip_39_word_new_line5 | inspire
+liar
+goose
+stock
+insect |  
+| bip_39_word_new_line6 | inspire
+liar
+goose
+stock
+insect
+slush |  
+| bip_39_word_new_line7 | inspire
+liar
+goose
+stock
+insect
+slush
+shoot |  
+| bip_39_word_new_line8 | inspire
+liar
+goose
+stock
+insect
+slush
+shoot
+floor |  
+| bip_39_word_new_line9 | inspire
+liar
+goose
+stock
+insect
+slush
+shoot
+floor
+abstract |  
+| bip_39_word_space_0 | ['inspire', 'liar', 'goose', 'stock', 'insect', 'slush', 'shoot', 'floor', 'abstract', 'pair', 'craft', 'arrest'] |  
+| bip_39_word_space_1 | inspire |  
+| bip_39_word_space_10 | inspire liar goose stock insect slush shoot floor abstract pair |  
+| bip_39_word_space_11 | inspire liar goose stock insect slush shoot floor abstract pair craft |  
+| bip_39_word_space_12 | inspire liar goose stock insect slush shoot floor abstract pair craft arrest |  
+| bip_39_word_space_2 | inspire liar |  
+| bip_39_word_space_3 | inspire liar goose |  
+| bip_39_word_space_4 | inspire liar goose stock |  
+| bip_39_word_space_5 | inspire liar goose stock insect |  
+| bip_39_word_space_6 | inspire liar goose stock insect slush |  
+| bip_39_word_space_7 | inspire liar goose stock insect slush shoot |  
+| bip_39_word_space_8 | inspire liar goose stock insect slush shoot floor |  
+| bip_39_word_space_9 | inspire liar goose stock insect slush shoot floor abstract |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

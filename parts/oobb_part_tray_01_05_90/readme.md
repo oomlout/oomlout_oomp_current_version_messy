@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: garment kitten
+  * bip 39 word 3: garment kitten clinic
+  * bip 39 word: garment kitten clinic venue position poverty between strike dawn clarify jump attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | garment |  
+| bip_39_word_new_br10 | garment<br>kitten<br>clinic<br>venue<br>position<br>poverty<br>between<br>strike<br>dawn<br>clarify |  
+| bip_39_word_new_br11 | garment<br>kitten<br>clinic<br>venue<br>position<br>poverty<br>between<br>strike<br>dawn<br>clarify<br>jump |  
+| bip_39_word_new_br12 | garment<br>kitten<br>clinic<br>venue<br>position<br>poverty<br>between<br>strike<br>dawn<br>clarify<br>jump<br>attitude |  
+| bip_39_word_new_br2 | garment<br>kitten |  
+| bip_39_word_new_br3 | garment<br>kitten<br>clinic |  
+| bip_39_word_new_br4 | garment<br>kitten<br>clinic<br>venue |  
+| bip_39_word_new_br5 | garment<br>kitten<br>clinic<br>venue<br>position |  
+| bip_39_word_new_br6 | garment<br>kitten<br>clinic<br>venue<br>position<br>poverty |  
+| bip_39_word_new_br7 | garment<br>kitten<br>clinic<br>venue<br>position<br>poverty<br>between |  
+| bip_39_word_new_br8 | garment<br>kitten<br>clinic<br>venue<br>position<br>poverty<br>between<br>strike |  
+| bip_39_word_new_br9 | garment<br>kitten<br>clinic<br>venue<br>position<br>poverty<br>between<br>strike<br>dawn |  
+| bip_39_word_new_line1 | garment |  
+| bip_39_word_new_line10 | garment
+kitten
+clinic
+venue
+position
+poverty
+between
+strike
+dawn
+clarify |  
+| bip_39_word_new_line11 | garment
+kitten
+clinic
+venue
+position
+poverty
+between
+strike
+dawn
+clarify
+jump |  
+| bip_39_word_new_line12 | garment
+kitten
+clinic
+venue
+position
+poverty
+between
+strike
+dawn
+clarify
+jump
+attitude |  
+| bip_39_word_new_line2 | garment
+kitten |  
+| bip_39_word_new_line3 | garment
+kitten
+clinic |  
+| bip_39_word_new_line4 | garment
+kitten
+clinic
+venue |  
+| bip_39_word_new_line5 | garment
+kitten
+clinic
+venue
+position |  
+| bip_39_word_new_line6 | garment
+kitten
+clinic
+venue
+position
+poverty |  
+| bip_39_word_new_line7 | garment
+kitten
+clinic
+venue
+position
+poverty
+between |  
+| bip_39_word_new_line8 | garment
+kitten
+clinic
+venue
+position
+poverty
+between
+strike |  
+| bip_39_word_new_line9 | garment
+kitten
+clinic
+venue
+position
+poverty
+between
+strike
+dawn |  
+| bip_39_word_space_0 | ['garment', 'kitten', 'clinic', 'venue', 'position', 'poverty', 'between', 'strike', 'dawn', 'clarify', 'jump', 'attitude'] |  
+| bip_39_word_space_1 | garment |  
+| bip_39_word_space_10 | garment kitten clinic venue position poverty between strike dawn clarify |  
+| bip_39_word_space_11 | garment kitten clinic venue position poverty between strike dawn clarify jump |  
+| bip_39_word_space_12 | garment kitten clinic venue position poverty between strike dawn clarify jump attitude |  
+| bip_39_word_space_2 | garment kitten |  
+| bip_39_word_space_3 | garment kitten clinic |  
+| bip_39_word_space_4 | garment kitten clinic venue |  
+| bip_39_word_space_5 | garment kitten clinic venue position |  
+| bip_39_word_space_6 | garment kitten clinic venue position poverty |  
+| bip_39_word_space_7 | garment kitten clinic venue position poverty between |  
+| bip_39_word_space_8 | garment kitten clinic venue position poverty between strike |  
+| bip_39_word_space_9 | garment kitten clinic venue position poverty between strike dawn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

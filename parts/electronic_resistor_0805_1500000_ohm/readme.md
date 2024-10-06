@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exact bright
+  * bip 39 word 3: exact bright door
+  * bip 39 word: exact bright door door either stadium air danger flock call company alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exact |  
+| bip_39_word_new_br10 | exact<br>bright<br>door<br>door<br>either<br>stadium<br>air<br>danger<br>flock<br>call |  
+| bip_39_word_new_br11 | exact<br>bright<br>door<br>door<br>either<br>stadium<br>air<br>danger<br>flock<br>call<br>company |  
+| bip_39_word_new_br12 | exact<br>bright<br>door<br>door<br>either<br>stadium<br>air<br>danger<br>flock<br>call<br>company<br>alarm |  
+| bip_39_word_new_br2 | exact<br>bright |  
+| bip_39_word_new_br3 | exact<br>bright<br>door |  
+| bip_39_word_new_br4 | exact<br>bright<br>door<br>door |  
+| bip_39_word_new_br5 | exact<br>bright<br>door<br>door<br>either |  
+| bip_39_word_new_br6 | exact<br>bright<br>door<br>door<br>either<br>stadium |  
+| bip_39_word_new_br7 | exact<br>bright<br>door<br>door<br>either<br>stadium<br>air |  
+| bip_39_word_new_br8 | exact<br>bright<br>door<br>door<br>either<br>stadium<br>air<br>danger |  
+| bip_39_word_new_br9 | exact<br>bright<br>door<br>door<br>either<br>stadium<br>air<br>danger<br>flock |  
+| bip_39_word_new_line1 | exact |  
+| bip_39_word_new_line10 | exact
+bright
+door
+door
+either
+stadium
+air
+danger
+flock
+call |  
+| bip_39_word_new_line11 | exact
+bright
+door
+door
+either
+stadium
+air
+danger
+flock
+call
+company |  
+| bip_39_word_new_line12 | exact
+bright
+door
+door
+either
+stadium
+air
+danger
+flock
+call
+company
+alarm |  
+| bip_39_word_new_line2 | exact
+bright |  
+| bip_39_word_new_line3 | exact
+bright
+door |  
+| bip_39_word_new_line4 | exact
+bright
+door
+door |  
+| bip_39_word_new_line5 | exact
+bright
+door
+door
+either |  
+| bip_39_word_new_line6 | exact
+bright
+door
+door
+either
+stadium |  
+| bip_39_word_new_line7 | exact
+bright
+door
+door
+either
+stadium
+air |  
+| bip_39_word_new_line8 | exact
+bright
+door
+door
+either
+stadium
+air
+danger |  
+| bip_39_word_new_line9 | exact
+bright
+door
+door
+either
+stadium
+air
+danger
+flock |  
+| bip_39_word_space_0 | ['exact', 'bright', 'door', 'door', 'either', 'stadium', 'air', 'danger', 'flock', 'call', 'company', 'alarm'] |  
+| bip_39_word_space_1 | exact |  
+| bip_39_word_space_10 | exact bright door door either stadium air danger flock call |  
+| bip_39_word_space_11 | exact bright door door either stadium air danger flock call company |  
+| bip_39_word_space_12 | exact bright door door either stadium air danger flock call company alarm |  
+| bip_39_word_space_2 | exact bright |  
+| bip_39_word_space_3 | exact bright door |  
+| bip_39_word_space_4 | exact bright door door |  
+| bip_39_word_space_5 | exact bright door door either |  
+| bip_39_word_space_6 | exact bright door door either stadium |  
+| bip_39_word_space_7 | exact bright door door either stadium air |  
+| bip_39_word_space_8 | exact bright door door either stadium air danger |  
+| bip_39_word_space_9 | exact bright door door either stadium air danger flock |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

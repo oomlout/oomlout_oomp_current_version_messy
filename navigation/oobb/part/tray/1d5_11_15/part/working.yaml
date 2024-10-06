@@ -1,3 +1,187 @@
+bip_39_word_new_br1: brave
+bip_39_word_new_br10: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad
+bip_39_word_new_br11: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury
+bip_39_word_new_br12: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury<br>afford
+bip_39_word_new_br2: brave<br>trust
+bip_39_word_new_br3: brave<br>trust<br>pilot
+bip_39_word_new_br4: brave<br>trust<br>pilot<br>student
+bip_39_word_new_br5: brave<br>trust<br>pilot<br>student<br>blossom
+bip_39_word_new_br6: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant
+bip_39_word_new_br7: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella
+bip_39_word_new_br8: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop
+bip_39_word_new_br9: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm
+bip_39_word_new_line1: brave
+bip_39_word_new_line10: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop
+
+  rhythm
+
+  glad'
+bip_39_word_new_line11: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop
+
+  rhythm
+
+  glad
+
+  luxury'
+bip_39_word_new_line12: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop
+
+  rhythm
+
+  glad
+
+  luxury
+
+  afford'
+bip_39_word_new_line2: 'brave
+
+  trust'
+bip_39_word_new_line3: 'brave
+
+  trust
+
+  pilot'
+bip_39_word_new_line4: 'brave
+
+  trust
+
+  pilot
+
+  student'
+bip_39_word_new_line5: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom'
+bip_39_word_new_line6: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant'
+bip_39_word_new_line7: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella'
+bip_39_word_new_line8: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop'
+bip_39_word_new_line9: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop
+
+  rhythm'
+bip_39_word_space_0:
+- brave
+- trust
+- pilot
+- student
+- blossom
+- elegant
+- umbrella
+- develop
+- rhythm
+- glad
+- luxury
+- afford
+bip_39_word_space_1: brave
+bip_39_word_space_10: brave trust pilot student blossom elegant umbrella develop rhythm
+  glad
+bip_39_word_space_11: brave trust pilot student blossom elegant umbrella develop rhythm
+  glad luxury
+bip_39_word_space_12: brave trust pilot student blossom elegant umbrella develop rhythm
+  glad luxury afford
+bip_39_word_space_2: brave trust
+bip_39_word_space_3: brave trust pilot
+bip_39_word_space_4: brave trust pilot student
+bip_39_word_space_5: brave trust pilot student blossom
+bip_39_word_space_6: brave trust pilot student blossom elegant
+bip_39_word_space_7: brave trust pilot student blossom elegant umbrella
+bip_39_word_space_8: brave trust pilot student blossom elegant umbrella develop
+bip_39_word_space_9: brave trust pilot student blossom elegant umbrella develop rhythm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: earth
+bip_39_word_new_br10: earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi
+bip_39_word_new_br11: earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi<br>hybrid
+bip_39_word_new_br12: earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon<br>satoshi<br>hybrid<br>analyst
+bip_39_word_new_br2: earth<br>ability
+bip_39_word_new_br3: earth<br>ability<br>end
+bip_39_word_new_br4: earth<br>ability<br>end<br>length
+bip_39_word_new_br5: earth<br>ability<br>end<br>length<br>sustain
+bip_39_word_new_br6: earth<br>ability<br>end<br>length<br>sustain<br>grab
+bip_39_word_new_br7: earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee
+bip_39_word_new_br8: earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below
+bip_39_word_new_br9: earth<br>ability<br>end<br>length<br>sustain<br>grab<br>nominee<br>below<br>ribbon
+bip_39_word_new_line1: earth
+bip_39_word_new_line10: 'earth
+
+  ability
+
+  end
+
+  length
+
+  sustain
+
+  grab
+
+  nominee
+
+  below
+
+  ribbon
+
+  satoshi'
+bip_39_word_new_line11: 'earth
+
+  ability
+
+  end
+
+  length
+
+  sustain
+
+  grab
+
+  nominee
+
+  below
+
+  ribbon
+
+  satoshi
+
+  hybrid'
+bip_39_word_new_line12: 'earth
+
+  ability
+
+  end
+
+  length
+
+  sustain
+
+  grab
+
+  nominee
+
+  below
+
+  ribbon
+
+  satoshi
+
+  hybrid
+
+  analyst'
+bip_39_word_new_line2: 'earth
+
+  ability'
+bip_39_word_new_line3: 'earth
+
+  ability
+
+  end'
+bip_39_word_new_line4: 'earth
+
+  ability
+
+  end
+
+  length'
+bip_39_word_new_line5: 'earth
+
+  ability
+
+  end
+
+  length
+
+  sustain'
+bip_39_word_new_line6: 'earth
+
+  ability
+
+  end
+
+  length
+
+  sustain
+
+  grab'
+bip_39_word_new_line7: 'earth
+
+  ability
+
+  end
+
+  length
+
+  sustain
+
+  grab
+
+  nominee'
+bip_39_word_new_line8: 'earth
+
+  ability
+
+  end
+
+  length
+
+  sustain
+
+  grab
+
+  nominee
+
+  below'
+bip_39_word_new_line9: 'earth
+
+  ability
+
+  end
+
+  length
+
+  sustain
+
+  grab
+
+  nominee
+
+  below
+
+  ribbon'
+bip_39_word_space_0:
+- earth
+- ability
+- end
+- length
+- sustain
+- grab
+- nominee
+- below
+- ribbon
+- satoshi
+- hybrid
+- analyst
+bip_39_word_space_1: earth
+bip_39_word_space_10: earth ability end length sustain grab nominee below ribbon satoshi
+bip_39_word_space_11: earth ability end length sustain grab nominee below ribbon satoshi
+  hybrid
+bip_39_word_space_12: earth ability end length sustain grab nominee below ribbon satoshi
+  hybrid analyst
+bip_39_word_space_2: earth ability
+bip_39_word_space_3: earth ability end
+bip_39_word_space_4: earth ability end length
+bip_39_word_space_5: earth ability end length sustain
+bip_39_word_space_6: earth ability end length sustain grab
+bip_39_word_space_7: earth ability end length sustain grab nominee
+bip_39_word_space_8: earth ability end length sustain grab nominee below
+bip_39_word_space_9: earth ability end length sustain grab nominee below ribbon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

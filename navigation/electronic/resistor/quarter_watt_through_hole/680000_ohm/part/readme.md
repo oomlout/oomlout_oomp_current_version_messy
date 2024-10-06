@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fruit plastic
+  * bip 39 word 3: fruit plastic silly
+  * bip 39 word: fruit plastic silly crater trend document tragic master champion setup alert also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fruit |  
+| bip_39_word_new_br10 | fruit<br>plastic<br>silly<br>crater<br>trend<br>document<br>tragic<br>master<br>champion<br>setup |  
+| bip_39_word_new_br11 | fruit<br>plastic<br>silly<br>crater<br>trend<br>document<br>tragic<br>master<br>champion<br>setup<br>alert |  
+| bip_39_word_new_br12 | fruit<br>plastic<br>silly<br>crater<br>trend<br>document<br>tragic<br>master<br>champion<br>setup<br>alert<br>also |  
+| bip_39_word_new_br2 | fruit<br>plastic |  
+| bip_39_word_new_br3 | fruit<br>plastic<br>silly |  
+| bip_39_word_new_br4 | fruit<br>plastic<br>silly<br>crater |  
+| bip_39_word_new_br5 | fruit<br>plastic<br>silly<br>crater<br>trend |  
+| bip_39_word_new_br6 | fruit<br>plastic<br>silly<br>crater<br>trend<br>document |  
+| bip_39_word_new_br7 | fruit<br>plastic<br>silly<br>crater<br>trend<br>document<br>tragic |  
+| bip_39_word_new_br8 | fruit<br>plastic<br>silly<br>crater<br>trend<br>document<br>tragic<br>master |  
+| bip_39_word_new_br9 | fruit<br>plastic<br>silly<br>crater<br>trend<br>document<br>tragic<br>master<br>champion |  
+| bip_39_word_new_line1 | fruit |  
+| bip_39_word_new_line10 | fruit
+plastic
+silly
+crater
+trend
+document
+tragic
+master
+champion
+setup |  
+| bip_39_word_new_line11 | fruit
+plastic
+silly
+crater
+trend
+document
+tragic
+master
+champion
+setup
+alert |  
+| bip_39_word_new_line12 | fruit
+plastic
+silly
+crater
+trend
+document
+tragic
+master
+champion
+setup
+alert
+also |  
+| bip_39_word_new_line2 | fruit
+plastic |  
+| bip_39_word_new_line3 | fruit
+plastic
+silly |  
+| bip_39_word_new_line4 | fruit
+plastic
+silly
+crater |  
+| bip_39_word_new_line5 | fruit
+plastic
+silly
+crater
+trend |  
+| bip_39_word_new_line6 | fruit
+plastic
+silly
+crater
+trend
+document |  
+| bip_39_word_new_line7 | fruit
+plastic
+silly
+crater
+trend
+document
+tragic |  
+| bip_39_word_new_line8 | fruit
+plastic
+silly
+crater
+trend
+document
+tragic
+master |  
+| bip_39_word_new_line9 | fruit
+plastic
+silly
+crater
+trend
+document
+tragic
+master
+champion |  
+| bip_39_word_space_0 | ['fruit', 'plastic', 'silly', 'crater', 'trend', 'document', 'tragic', 'master', 'champion', 'setup', 'alert', 'also'] |  
+| bip_39_word_space_1 | fruit |  
+| bip_39_word_space_10 | fruit plastic silly crater trend document tragic master champion setup |  
+| bip_39_word_space_11 | fruit plastic silly crater trend document tragic master champion setup alert |  
+| bip_39_word_space_12 | fruit plastic silly crater trend document tragic master champion setup alert also |  
+| bip_39_word_space_2 | fruit plastic |  
+| bip_39_word_space_3 | fruit plastic silly |  
+| bip_39_word_space_4 | fruit plastic silly crater |  
+| bip_39_word_space_5 | fruit plastic silly crater trend |  
+| bip_39_word_space_6 | fruit plastic silly crater trend document |  
+| bip_39_word_space_7 | fruit plastic silly crater trend document tragic |  
+| bip_39_word_space_8 | fruit plastic silly crater trend document tragic master |  
+| bip_39_word_space_9 | fruit plastic silly crater trend document tragic master champion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

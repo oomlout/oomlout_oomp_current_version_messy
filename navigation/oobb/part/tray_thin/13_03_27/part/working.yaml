@@ -1,3 +1,186 @@
+bip_39_word_new_br1: grape
+bip_39_word_new_br10: grape<br>into<br>salute<br>antique<br>asthma<br>enlist<br>join<br>flight<br>mutual<br>tissue
+bip_39_word_new_br11: grape<br>into<br>salute<br>antique<br>asthma<br>enlist<br>join<br>flight<br>mutual<br>tissue<br>spend
+bip_39_word_new_br12: grape<br>into<br>salute<br>antique<br>asthma<br>enlist<br>join<br>flight<br>mutual<br>tissue<br>spend<br>ahead
+bip_39_word_new_br2: grape<br>into
+bip_39_word_new_br3: grape<br>into<br>salute
+bip_39_word_new_br4: grape<br>into<br>salute<br>antique
+bip_39_word_new_br5: grape<br>into<br>salute<br>antique<br>asthma
+bip_39_word_new_br6: grape<br>into<br>salute<br>antique<br>asthma<br>enlist
+bip_39_word_new_br7: grape<br>into<br>salute<br>antique<br>asthma<br>enlist<br>join
+bip_39_word_new_br8: grape<br>into<br>salute<br>antique<br>asthma<br>enlist<br>join<br>flight
+bip_39_word_new_br9: grape<br>into<br>salute<br>antique<br>asthma<br>enlist<br>join<br>flight<br>mutual
+bip_39_word_new_line1: grape
+bip_39_word_new_line10: 'grape
+
+  into
+
+  salute
+
+  antique
+
+  asthma
+
+  enlist
+
+  join
+
+  flight
+
+  mutual
+
+  tissue'
+bip_39_word_new_line11: 'grape
+
+  into
+
+  salute
+
+  antique
+
+  asthma
+
+  enlist
+
+  join
+
+  flight
+
+  mutual
+
+  tissue
+
+  spend'
+bip_39_word_new_line12: 'grape
+
+  into
+
+  salute
+
+  antique
+
+  asthma
+
+  enlist
+
+  join
+
+  flight
+
+  mutual
+
+  tissue
+
+  spend
+
+  ahead'
+bip_39_word_new_line2: 'grape
+
+  into'
+bip_39_word_new_line3: 'grape
+
+  into
+
+  salute'
+bip_39_word_new_line4: 'grape
+
+  into
+
+  salute
+
+  antique'
+bip_39_word_new_line5: 'grape
+
+  into
+
+  salute
+
+  antique
+
+  asthma'
+bip_39_word_new_line6: 'grape
+
+  into
+
+  salute
+
+  antique
+
+  asthma
+
+  enlist'
+bip_39_word_new_line7: 'grape
+
+  into
+
+  salute
+
+  antique
+
+  asthma
+
+  enlist
+
+  join'
+bip_39_word_new_line8: 'grape
+
+  into
+
+  salute
+
+  antique
+
+  asthma
+
+  enlist
+
+  join
+
+  flight'
+bip_39_word_new_line9: 'grape
+
+  into
+
+  salute
+
+  antique
+
+  asthma
+
+  enlist
+
+  join
+
+  flight
+
+  mutual'
+bip_39_word_space_0:
+- grape
+- into
+- salute
+- antique
+- asthma
+- enlist
+- join
+- flight
+- mutual
+- tissue
+- spend
+- ahead
+bip_39_word_space_1: grape
+bip_39_word_space_10: grape into salute antique asthma enlist join flight mutual tissue
+bip_39_word_space_11: grape into salute antique asthma enlist join flight mutual tissue
+  spend
+bip_39_word_space_12: grape into salute antique asthma enlist join flight mutual tissue
+  spend ahead
+bip_39_word_space_2: grape into
+bip_39_word_space_3: grape into salute
+bip_39_word_space_4: grape into salute antique
+bip_39_word_space_5: grape into salute antique asthma
+bip_39_word_space_6: grape into salute antique asthma enlist
+bip_39_word_space_7: grape into salute antique asthma enlist join
+bip_39_word_space_8: grape into salute antique asthma enlist join flight
+bip_39_word_space_9: grape into salute antique asthma enlist join flight mutual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drama sign
+  * bip 39 word 3: drama sign announce
+  * bip 39 word: drama sign announce bleak all robust uphold forget position noble use ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drama |  
+| bip_39_word_new_br10 | drama<br>sign<br>announce<br>bleak<br>all<br>robust<br>uphold<br>forget<br>position<br>noble |  
+| bip_39_word_new_br11 | drama<br>sign<br>announce<br>bleak<br>all<br>robust<br>uphold<br>forget<br>position<br>noble<br>use |  
+| bip_39_word_new_br12 | drama<br>sign<br>announce<br>bleak<br>all<br>robust<br>uphold<br>forget<br>position<br>noble<br>use<br>ahead |  
+| bip_39_word_new_br2 | drama<br>sign |  
+| bip_39_word_new_br3 | drama<br>sign<br>announce |  
+| bip_39_word_new_br4 | drama<br>sign<br>announce<br>bleak |  
+| bip_39_word_new_br5 | drama<br>sign<br>announce<br>bleak<br>all |  
+| bip_39_word_new_br6 | drama<br>sign<br>announce<br>bleak<br>all<br>robust |  
+| bip_39_word_new_br7 | drama<br>sign<br>announce<br>bleak<br>all<br>robust<br>uphold |  
+| bip_39_word_new_br8 | drama<br>sign<br>announce<br>bleak<br>all<br>robust<br>uphold<br>forget |  
+| bip_39_word_new_br9 | drama<br>sign<br>announce<br>bleak<br>all<br>robust<br>uphold<br>forget<br>position |  
+| bip_39_word_new_line1 | drama |  
+| bip_39_word_new_line10 | drama
+sign
+announce
+bleak
+all
+robust
+uphold
+forget
+position
+noble |  
+| bip_39_word_new_line11 | drama
+sign
+announce
+bleak
+all
+robust
+uphold
+forget
+position
+noble
+use |  
+| bip_39_word_new_line12 | drama
+sign
+announce
+bleak
+all
+robust
+uphold
+forget
+position
+noble
+use
+ahead |  
+| bip_39_word_new_line2 | drama
+sign |  
+| bip_39_word_new_line3 | drama
+sign
+announce |  
+| bip_39_word_new_line4 | drama
+sign
+announce
+bleak |  
+| bip_39_word_new_line5 | drama
+sign
+announce
+bleak
+all |  
+| bip_39_word_new_line6 | drama
+sign
+announce
+bleak
+all
+robust |  
+| bip_39_word_new_line7 | drama
+sign
+announce
+bleak
+all
+robust
+uphold |  
+| bip_39_word_new_line8 | drama
+sign
+announce
+bleak
+all
+robust
+uphold
+forget |  
+| bip_39_word_new_line9 | drama
+sign
+announce
+bleak
+all
+robust
+uphold
+forget
+position |  
+| bip_39_word_space_0 | ['drama', 'sign', 'announce', 'bleak', 'all', 'robust', 'uphold', 'forget', 'position', 'noble', 'use', 'ahead'] |  
+| bip_39_word_space_1 | drama |  
+| bip_39_word_space_10 | drama sign announce bleak all robust uphold forget position noble |  
+| bip_39_word_space_11 | drama sign announce bleak all robust uphold forget position noble use |  
+| bip_39_word_space_12 | drama sign announce bleak all robust uphold forget position noble use ahead |  
+| bip_39_word_space_2 | drama sign |  
+| bip_39_word_space_3 | drama sign announce |  
+| bip_39_word_space_4 | drama sign announce bleak |  
+| bip_39_word_space_5 | drama sign announce bleak all |  
+| bip_39_word_space_6 | drama sign announce bleak all robust |  
+| bip_39_word_space_7 | drama sign announce bleak all robust uphold |  
+| bip_39_word_space_8 | drama sign announce bleak all robust uphold forget |  
+| bip_39_word_space_9 | drama sign announce bleak all robust uphold forget position |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

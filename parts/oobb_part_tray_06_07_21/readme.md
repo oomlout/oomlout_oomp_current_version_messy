@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unknown rose
+  * bip 39 word 3: unknown rose science
+  * bip 39 word: unknown rose science above word census spin amazing bargain make foster art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unknown |  
+| bip_39_word_new_br10 | unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain<br>make |  
+| bip_39_word_new_br11 | unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain<br>make<br>foster |  
+| bip_39_word_new_br12 | unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain<br>make<br>foster<br>art |  
+| bip_39_word_new_br2 | unknown<br>rose |  
+| bip_39_word_new_br3 | unknown<br>rose<br>science |  
+| bip_39_word_new_br4 | unknown<br>rose<br>science<br>above |  
+| bip_39_word_new_br5 | unknown<br>rose<br>science<br>above<br>word |  
+| bip_39_word_new_br6 | unknown<br>rose<br>science<br>above<br>word<br>census |  
+| bip_39_word_new_br7 | unknown<br>rose<br>science<br>above<br>word<br>census<br>spin |  
+| bip_39_word_new_br8 | unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing |  
+| bip_39_word_new_br9 | unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain |  
+| bip_39_word_new_line1 | unknown |  
+| bip_39_word_new_line10 | unknown
+rose
+science
+above
+word
+census
+spin
+amazing
+bargain
+make |  
+| bip_39_word_new_line11 | unknown
+rose
+science
+above
+word
+census
+spin
+amazing
+bargain
+make
+foster |  
+| bip_39_word_new_line12 | unknown
+rose
+science
+above
+word
+census
+spin
+amazing
+bargain
+make
+foster
+art |  
+| bip_39_word_new_line2 | unknown
+rose |  
+| bip_39_word_new_line3 | unknown
+rose
+science |  
+| bip_39_word_new_line4 | unknown
+rose
+science
+above |  
+| bip_39_word_new_line5 | unknown
+rose
+science
+above
+word |  
+| bip_39_word_new_line6 | unknown
+rose
+science
+above
+word
+census |  
+| bip_39_word_new_line7 | unknown
+rose
+science
+above
+word
+census
+spin |  
+| bip_39_word_new_line8 | unknown
+rose
+science
+above
+word
+census
+spin
+amazing |  
+| bip_39_word_new_line9 | unknown
+rose
+science
+above
+word
+census
+spin
+amazing
+bargain |  
+| bip_39_word_space_0 | ['unknown', 'rose', 'science', 'above', 'word', 'census', 'spin', 'amazing', 'bargain', 'make', 'foster', 'art'] |  
+| bip_39_word_space_1 | unknown |  
+| bip_39_word_space_10 | unknown rose science above word census spin amazing bargain make |  
+| bip_39_word_space_11 | unknown rose science above word census spin amazing bargain make foster |  
+| bip_39_word_space_12 | unknown rose science above word census spin amazing bargain make foster art |  
+| bip_39_word_space_2 | unknown rose |  
+| bip_39_word_space_3 | unknown rose science |  
+| bip_39_word_space_4 | unknown rose science above |  
+| bip_39_word_space_5 | unknown rose science above word |  
+| bip_39_word_space_6 | unknown rose science above word census |  
+| bip_39_word_space_7 | unknown rose science above word census spin |  
+| bip_39_word_space_8 | unknown rose science above word census spin amazing |  
+| bip_39_word_space_9 | unknown rose science above word census spin amazing bargain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

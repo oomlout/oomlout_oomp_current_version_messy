@@ -1,3 +1,185 @@
+bip_39_word_new_br1: print
+bip_39_word_new_br10: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire
+bip_39_word_new_br11: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap
+bip_39_word_new_br12: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap<br>achieve
+bip_39_word_new_br2: print<br>federal
+bip_39_word_new_br3: print<br>federal<br>hen
+bip_39_word_new_br4: print<br>federal<br>hen<br>wood
+bip_39_word_new_br5: print<br>federal<br>hen<br>wood<br>near
+bip_39_word_new_br6: print<br>federal<br>hen<br>wood<br>near<br>climb
+bip_39_word_new_br7: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow
+bip_39_word_new_br8: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice
+bip_39_word_new_br9: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster
+bip_39_word_new_line1: print
+bip_39_word_new_line10: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice
+
+  foster
+
+  fire'
+bip_39_word_new_line11: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice
+
+  foster
+
+  fire
+
+  trap'
+bip_39_word_new_line12: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice
+
+  foster
+
+  fire
+
+  trap
+
+  achieve'
+bip_39_word_new_line2: 'print
+
+  federal'
+bip_39_word_new_line3: 'print
+
+  federal
+
+  hen'
+bip_39_word_new_line4: 'print
+
+  federal
+
+  hen
+
+  wood'
+bip_39_word_new_line5: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near'
+bip_39_word_new_line6: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb'
+bip_39_word_new_line7: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow'
+bip_39_word_new_line8: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice'
+bip_39_word_new_line9: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice
+
+  foster'
+bip_39_word_space_0:
+- print
+- federal
+- hen
+- wood
+- near
+- climb
+- follow
+- nice
+- foster
+- fire
+- trap
+- achieve
+bip_39_word_space_1: print
+bip_39_word_space_10: print federal hen wood near climb follow nice foster fire
+bip_39_word_space_11: print federal hen wood near climb follow nice foster fire trap
+bip_39_word_space_12: print federal hen wood near climb follow nice foster fire trap
+  achieve
+bip_39_word_space_2: print federal
+bip_39_word_space_3: print federal hen
+bip_39_word_space_4: print federal hen wood
+bip_39_word_space_5: print federal hen wood near
+bip_39_word_space_6: print federal hen wood near climb
+bip_39_word_space_7: print federal hen wood near climb follow
+bip_39_word_space_8: print federal hen wood near climb follow nice
+bip_39_word_space_9: print federal hen wood near climb follow nice foster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

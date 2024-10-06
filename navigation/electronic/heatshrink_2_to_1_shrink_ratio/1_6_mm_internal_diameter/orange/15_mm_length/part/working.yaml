@@ -1,3 +1,186 @@
+bip_39_word_new_br1: snow
+bip_39_word_new_br10: snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock
+bip_39_word_new_br11: snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock<br>cash
+bip_39_word_new_br12: snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon<br>clock<br>cash<br>act
+bip_39_word_new_br2: snow<br>donkey
+bip_39_word_new_br3: snow<br>donkey<br>cute
+bip_39_word_new_br4: snow<br>donkey<br>cute<br>host
+bip_39_word_new_br5: snow<br>donkey<br>cute<br>host<br>teach
+bip_39_word_new_br6: snow<br>donkey<br>cute<br>host<br>teach<br>public
+bip_39_word_new_br7: snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic
+bip_39_word_new_br8: snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose
+bip_39_word_new_br9: snow<br>donkey<br>cute<br>host<br>teach<br>public<br>olympic<br>dose<br>bacon
+bip_39_word_new_line1: snow
+bip_39_word_new_line10: 'snow
+
+  donkey
+
+  cute
+
+  host
+
+  teach
+
+  public
+
+  olympic
+
+  dose
+
+  bacon
+
+  clock'
+bip_39_word_new_line11: 'snow
+
+  donkey
+
+  cute
+
+  host
+
+  teach
+
+  public
+
+  olympic
+
+  dose
+
+  bacon
+
+  clock
+
+  cash'
+bip_39_word_new_line12: 'snow
+
+  donkey
+
+  cute
+
+  host
+
+  teach
+
+  public
+
+  olympic
+
+  dose
+
+  bacon
+
+  clock
+
+  cash
+
+  act'
+bip_39_word_new_line2: 'snow
+
+  donkey'
+bip_39_word_new_line3: 'snow
+
+  donkey
+
+  cute'
+bip_39_word_new_line4: 'snow
+
+  donkey
+
+  cute
+
+  host'
+bip_39_word_new_line5: 'snow
+
+  donkey
+
+  cute
+
+  host
+
+  teach'
+bip_39_word_new_line6: 'snow
+
+  donkey
+
+  cute
+
+  host
+
+  teach
+
+  public'
+bip_39_word_new_line7: 'snow
+
+  donkey
+
+  cute
+
+  host
+
+  teach
+
+  public
+
+  olympic'
+bip_39_word_new_line8: 'snow
+
+  donkey
+
+  cute
+
+  host
+
+  teach
+
+  public
+
+  olympic
+
+  dose'
+bip_39_word_new_line9: 'snow
+
+  donkey
+
+  cute
+
+  host
+
+  teach
+
+  public
+
+  olympic
+
+  dose
+
+  bacon'
+bip_39_word_space_0:
+- snow
+- donkey
+- cute
+- host
+- teach
+- public
+- olympic
+- dose
+- bacon
+- clock
+- cash
+- act
+bip_39_word_space_1: snow
+bip_39_word_space_10: snow donkey cute host teach public olympic dose bacon clock
+bip_39_word_space_11: snow donkey cute host teach public olympic dose bacon clock
+  cash
+bip_39_word_space_12: snow donkey cute host teach public olympic dose bacon clock
+  cash act
+bip_39_word_space_2: snow donkey
+bip_39_word_space_3: snow donkey cute
+bip_39_word_space_4: snow donkey cute host
+bip_39_word_space_5: snow donkey cute host teach
+bip_39_word_space_6: snow donkey cute host teach public
+bip_39_word_space_7: snow donkey cute host teach public olympic
+bip_39_word_space_8: snow donkey cute host teach public olympic dose
+bip_39_word_space_9: snow donkey cute host teach public olympic dose bacon
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

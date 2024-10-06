@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: dupont
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ticket erupt
+  * bip 39 word 3: ticket erupt people
+  * bip 39 word: ticket erupt people summer famous often distance record unaware stable whip another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ticket |  
+| bip_39_word_new_br10 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable |  
+| bip_39_word_new_br11 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip |  
+| bip_39_word_new_br12 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware<br>stable<br>whip<br>another |  
+| bip_39_word_new_br2 | ticket<br>erupt |  
+| bip_39_word_new_br3 | ticket<br>erupt<br>people |  
+| bip_39_word_new_br4 | ticket<br>erupt<br>people<br>summer |  
+| bip_39_word_new_br5 | ticket<br>erupt<br>people<br>summer<br>famous |  
+| bip_39_word_new_br6 | ticket<br>erupt<br>people<br>summer<br>famous<br>often |  
+| bip_39_word_new_br7 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance |  
+| bip_39_word_new_br8 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record |  
+| bip_39_word_new_br9 | ticket<br>erupt<br>people<br>summer<br>famous<br>often<br>distance<br>record<br>unaware |  
+| bip_39_word_new_line1 | ticket |  
+| bip_39_word_new_line10 | ticket
+erupt
+people
+summer
+famous
+often
+distance
+record
+unaware
+stable |  
+| bip_39_word_new_line11 | ticket
+erupt
+people
+summer
+famous
+often
+distance
+record
+unaware
+stable
+whip |  
+| bip_39_word_new_line12 | ticket
+erupt
+people
+summer
+famous
+often
+distance
+record
+unaware
+stable
+whip
+another |  
+| bip_39_word_new_line2 | ticket
+erupt |  
+| bip_39_word_new_line3 | ticket
+erupt
+people |  
+| bip_39_word_new_line4 | ticket
+erupt
+people
+summer |  
+| bip_39_word_new_line5 | ticket
+erupt
+people
+summer
+famous |  
+| bip_39_word_new_line6 | ticket
+erupt
+people
+summer
+famous
+often |  
+| bip_39_word_new_line7 | ticket
+erupt
+people
+summer
+famous
+often
+distance |  
+| bip_39_word_new_line8 | ticket
+erupt
+people
+summer
+famous
+often
+distance
+record |  
+| bip_39_word_new_line9 | ticket
+erupt
+people
+summer
+famous
+often
+distance
+record
+unaware |  
+| bip_39_word_space_0 | ['ticket', 'erupt', 'people', 'summer', 'famous', 'often', 'distance', 'record', 'unaware', 'stable', 'whip', 'another'] |  
+| bip_39_word_space_1 | ticket |  
+| bip_39_word_space_10 | ticket erupt people summer famous often distance record unaware stable |  
+| bip_39_word_space_11 | ticket erupt people summer famous often distance record unaware stable whip |  
+| bip_39_word_space_12 | ticket erupt people summer famous often distance record unaware stable whip another |  
+| bip_39_word_space_2 | ticket erupt |  
+| bip_39_word_space_3 | ticket erupt people |  
+| bip_39_word_space_4 | ticket erupt people summer |  
+| bip_39_word_space_5 | ticket erupt people summer famous |  
+| bip_39_word_space_6 | ticket erupt people summer famous often |  
+| bip_39_word_space_7 | ticket erupt people summer famous often distance |  
+| bip_39_word_space_8 | ticket erupt people summer famous often distance record |  
+| bip_39_word_space_9 | ticket erupt people summer famous often distance record unaware |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

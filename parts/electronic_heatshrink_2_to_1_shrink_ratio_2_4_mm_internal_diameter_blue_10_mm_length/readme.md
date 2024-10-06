@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cushion ozone
+  * bip 39 word 3: cushion ozone grape
+  * bip 39 word: cushion ozone grape range minimum clap ice happy cupboard chase nest attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cushion |  
+| bip_39_word_new_br10 | cushion<br>ozone<br>grape<br>range<br>minimum<br>clap<br>ice<br>happy<br>cupboard<br>chase |  
+| bip_39_word_new_br11 | cushion<br>ozone<br>grape<br>range<br>minimum<br>clap<br>ice<br>happy<br>cupboard<br>chase<br>nest |  
+| bip_39_word_new_br12 | cushion<br>ozone<br>grape<br>range<br>minimum<br>clap<br>ice<br>happy<br>cupboard<br>chase<br>nest<br>attitude |  
+| bip_39_word_new_br2 | cushion<br>ozone |  
+| bip_39_word_new_br3 | cushion<br>ozone<br>grape |  
+| bip_39_word_new_br4 | cushion<br>ozone<br>grape<br>range |  
+| bip_39_word_new_br5 | cushion<br>ozone<br>grape<br>range<br>minimum |  
+| bip_39_word_new_br6 | cushion<br>ozone<br>grape<br>range<br>minimum<br>clap |  
+| bip_39_word_new_br7 | cushion<br>ozone<br>grape<br>range<br>minimum<br>clap<br>ice |  
+| bip_39_word_new_br8 | cushion<br>ozone<br>grape<br>range<br>minimum<br>clap<br>ice<br>happy |  
+| bip_39_word_new_br9 | cushion<br>ozone<br>grape<br>range<br>minimum<br>clap<br>ice<br>happy<br>cupboard |  
+| bip_39_word_new_line1 | cushion |  
+| bip_39_word_new_line10 | cushion
+ozone
+grape
+range
+minimum
+clap
+ice
+happy
+cupboard
+chase |  
+| bip_39_word_new_line11 | cushion
+ozone
+grape
+range
+minimum
+clap
+ice
+happy
+cupboard
+chase
+nest |  
+| bip_39_word_new_line12 | cushion
+ozone
+grape
+range
+minimum
+clap
+ice
+happy
+cupboard
+chase
+nest
+attitude |  
+| bip_39_word_new_line2 | cushion
+ozone |  
+| bip_39_word_new_line3 | cushion
+ozone
+grape |  
+| bip_39_word_new_line4 | cushion
+ozone
+grape
+range |  
+| bip_39_word_new_line5 | cushion
+ozone
+grape
+range
+minimum |  
+| bip_39_word_new_line6 | cushion
+ozone
+grape
+range
+minimum
+clap |  
+| bip_39_word_new_line7 | cushion
+ozone
+grape
+range
+minimum
+clap
+ice |  
+| bip_39_word_new_line8 | cushion
+ozone
+grape
+range
+minimum
+clap
+ice
+happy |  
+| bip_39_word_new_line9 | cushion
+ozone
+grape
+range
+minimum
+clap
+ice
+happy
+cupboard |  
+| bip_39_word_space_0 | ['cushion', 'ozone', 'grape', 'range', 'minimum', 'clap', 'ice', 'happy', 'cupboard', 'chase', 'nest', 'attitude'] |  
+| bip_39_word_space_1 | cushion |  
+| bip_39_word_space_10 | cushion ozone grape range minimum clap ice happy cupboard chase |  
+| bip_39_word_space_11 | cushion ozone grape range minimum clap ice happy cupboard chase nest |  
+| bip_39_word_space_12 | cushion ozone grape range minimum clap ice happy cupboard chase nest attitude |  
+| bip_39_word_space_2 | cushion ozone |  
+| bip_39_word_space_3 | cushion ozone grape |  
+| bip_39_word_space_4 | cushion ozone grape range |  
+| bip_39_word_space_5 | cushion ozone grape range minimum |  
+| bip_39_word_space_6 | cushion ozone grape range minimum clap |  
+| bip_39_word_space_7 | cushion ozone grape range minimum clap ice |  
+| bip_39_word_space_8 | cushion ozone grape range minimum clap ice happy |  
+| bip_39_word_space_9 | cushion ozone grape range minimum clap ice happy cupboard |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

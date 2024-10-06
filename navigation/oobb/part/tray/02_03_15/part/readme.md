@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: forward torch
+  * bip 39 word 3: forward torch laugh
+  * bip 39 word: forward torch laugh warrior kite target slogan south maximum lift warfare anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | forward |  
+| bip_39_word_new_br10 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target<br>slogan<br>south<br>maximum<br>lift |  
+| bip_39_word_new_br11 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target<br>slogan<br>south<br>maximum<br>lift<br>warfare |  
+| bip_39_word_new_br12 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target<br>slogan<br>south<br>maximum<br>lift<br>warfare<br>anger |  
+| bip_39_word_new_br2 | forward<br>torch |  
+| bip_39_word_new_br3 | forward<br>torch<br>laugh |  
+| bip_39_word_new_br4 | forward<br>torch<br>laugh<br>warrior |  
+| bip_39_word_new_br5 | forward<br>torch<br>laugh<br>warrior<br>kite |  
+| bip_39_word_new_br6 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target |  
+| bip_39_word_new_br7 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target<br>slogan |  
+| bip_39_word_new_br8 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target<br>slogan<br>south |  
+| bip_39_word_new_br9 | forward<br>torch<br>laugh<br>warrior<br>kite<br>target<br>slogan<br>south<br>maximum |  
+| bip_39_word_new_line1 | forward |  
+| bip_39_word_new_line10 | forward
+torch
+laugh
+warrior
+kite
+target
+slogan
+south
+maximum
+lift |  
+| bip_39_word_new_line11 | forward
+torch
+laugh
+warrior
+kite
+target
+slogan
+south
+maximum
+lift
+warfare |  
+| bip_39_word_new_line12 | forward
+torch
+laugh
+warrior
+kite
+target
+slogan
+south
+maximum
+lift
+warfare
+anger |  
+| bip_39_word_new_line2 | forward
+torch |  
+| bip_39_word_new_line3 | forward
+torch
+laugh |  
+| bip_39_word_new_line4 | forward
+torch
+laugh
+warrior |  
+| bip_39_word_new_line5 | forward
+torch
+laugh
+warrior
+kite |  
+| bip_39_word_new_line6 | forward
+torch
+laugh
+warrior
+kite
+target |  
+| bip_39_word_new_line7 | forward
+torch
+laugh
+warrior
+kite
+target
+slogan |  
+| bip_39_word_new_line8 | forward
+torch
+laugh
+warrior
+kite
+target
+slogan
+south |  
+| bip_39_word_new_line9 | forward
+torch
+laugh
+warrior
+kite
+target
+slogan
+south
+maximum |  
+| bip_39_word_space_0 | ['forward', 'torch', 'laugh', 'warrior', 'kite', 'target', 'slogan', 'south', 'maximum', 'lift', 'warfare', 'anger'] |  
+| bip_39_word_space_1 | forward |  
+| bip_39_word_space_10 | forward torch laugh warrior kite target slogan south maximum lift |  
+| bip_39_word_space_11 | forward torch laugh warrior kite target slogan south maximum lift warfare |  
+| bip_39_word_space_12 | forward torch laugh warrior kite target slogan south maximum lift warfare anger |  
+| bip_39_word_space_2 | forward torch |  
+| bip_39_word_space_3 | forward torch laugh |  
+| bip_39_word_space_4 | forward torch laugh warrior |  
+| bip_39_word_space_5 | forward torch laugh warrior kite |  
+| bip_39_word_space_6 | forward torch laugh warrior kite target |  
+| bip_39_word_space_7 | forward torch laugh warrior kite target slogan |  
+| bip_39_word_space_8 | forward torch laugh warrior kite target slogan south |  
+| bip_39_word_space_9 | forward torch laugh warrior kite target slogan south maximum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pet
+bip_39_word_new_br10: pet<br>tip<br>brief<br>host<br>hammer<br>sun<br>junk<br>squirrel<br>vehicle<br>develop
+bip_39_word_new_br11: pet<br>tip<br>brief<br>host<br>hammer<br>sun<br>junk<br>squirrel<br>vehicle<br>develop<br>run
+bip_39_word_new_br12: pet<br>tip<br>brief<br>host<br>hammer<br>sun<br>junk<br>squirrel<br>vehicle<br>develop<br>run<br>author
+bip_39_word_new_br2: pet<br>tip
+bip_39_word_new_br3: pet<br>tip<br>brief
+bip_39_word_new_br4: pet<br>tip<br>brief<br>host
+bip_39_word_new_br5: pet<br>tip<br>brief<br>host<br>hammer
+bip_39_word_new_br6: pet<br>tip<br>brief<br>host<br>hammer<br>sun
+bip_39_word_new_br7: pet<br>tip<br>brief<br>host<br>hammer<br>sun<br>junk
+bip_39_word_new_br8: pet<br>tip<br>brief<br>host<br>hammer<br>sun<br>junk<br>squirrel
+bip_39_word_new_br9: pet<br>tip<br>brief<br>host<br>hammer<br>sun<br>junk<br>squirrel<br>vehicle
+bip_39_word_new_line1: pet
+bip_39_word_new_line10: 'pet
+
+  tip
+
+  brief
+
+  host
+
+  hammer
+
+  sun
+
+  junk
+
+  squirrel
+
+  vehicle
+
+  develop'
+bip_39_word_new_line11: 'pet
+
+  tip
+
+  brief
+
+  host
+
+  hammer
+
+  sun
+
+  junk
+
+  squirrel
+
+  vehicle
+
+  develop
+
+  run'
+bip_39_word_new_line12: 'pet
+
+  tip
+
+  brief
+
+  host
+
+  hammer
+
+  sun
+
+  junk
+
+  squirrel
+
+  vehicle
+
+  develop
+
+  run
+
+  author'
+bip_39_word_new_line2: 'pet
+
+  tip'
+bip_39_word_new_line3: 'pet
+
+  tip
+
+  brief'
+bip_39_word_new_line4: 'pet
+
+  tip
+
+  brief
+
+  host'
+bip_39_word_new_line5: 'pet
+
+  tip
+
+  brief
+
+  host
+
+  hammer'
+bip_39_word_new_line6: 'pet
+
+  tip
+
+  brief
+
+  host
+
+  hammer
+
+  sun'
+bip_39_word_new_line7: 'pet
+
+  tip
+
+  brief
+
+  host
+
+  hammer
+
+  sun
+
+  junk'
+bip_39_word_new_line8: 'pet
+
+  tip
+
+  brief
+
+  host
+
+  hammer
+
+  sun
+
+  junk
+
+  squirrel'
+bip_39_word_new_line9: 'pet
+
+  tip
+
+  brief
+
+  host
+
+  hammer
+
+  sun
+
+  junk
+
+  squirrel
+
+  vehicle'
+bip_39_word_space_0:
+- pet
+- tip
+- brief
+- host
+- hammer
+- sun
+- junk
+- squirrel
+- vehicle
+- develop
+- run
+- author
+bip_39_word_space_1: pet
+bip_39_word_space_10: pet tip brief host hammer sun junk squirrel vehicle develop
+bip_39_word_space_11: pet tip brief host hammer sun junk squirrel vehicle develop
+  run
+bip_39_word_space_12: pet tip brief host hammer sun junk squirrel vehicle develop
+  run author
+bip_39_word_space_2: pet tip
+bip_39_word_space_3: pet tip brief
+bip_39_word_space_4: pet tip brief host
+bip_39_word_space_5: pet tip brief host hammer
+bip_39_word_space_6: pet tip brief host hammer sun
+bip_39_word_space_7: pet tip brief host hammer sun junk
+bip_39_word_space_8: pet tip brief host hammer sun junk squirrel
+bip_39_word_space_9: pet tip brief host hammer sun junk squirrel vehicle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

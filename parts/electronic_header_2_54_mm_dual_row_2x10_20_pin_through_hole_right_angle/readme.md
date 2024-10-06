@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faculty situate
+  * bip 39 word 3: faculty situate tenant
+  * bip 39 word: faculty situate tenant frequent ride length mechanic rail hybrid burden stem alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faculty |  
+| bip_39_word_new_br10 | faculty<br>situate<br>tenant<br>frequent<br>ride<br>length<br>mechanic<br>rail<br>hybrid<br>burden |  
+| bip_39_word_new_br11 | faculty<br>situate<br>tenant<br>frequent<br>ride<br>length<br>mechanic<br>rail<br>hybrid<br>burden<br>stem |  
+| bip_39_word_new_br12 | faculty<br>situate<br>tenant<br>frequent<br>ride<br>length<br>mechanic<br>rail<br>hybrid<br>burden<br>stem<br>alarm |  
+| bip_39_word_new_br2 | faculty<br>situate |  
+| bip_39_word_new_br3 | faculty<br>situate<br>tenant |  
+| bip_39_word_new_br4 | faculty<br>situate<br>tenant<br>frequent |  
+| bip_39_word_new_br5 | faculty<br>situate<br>tenant<br>frequent<br>ride |  
+| bip_39_word_new_br6 | faculty<br>situate<br>tenant<br>frequent<br>ride<br>length |  
+| bip_39_word_new_br7 | faculty<br>situate<br>tenant<br>frequent<br>ride<br>length<br>mechanic |  
+| bip_39_word_new_br8 | faculty<br>situate<br>tenant<br>frequent<br>ride<br>length<br>mechanic<br>rail |  
+| bip_39_word_new_br9 | faculty<br>situate<br>tenant<br>frequent<br>ride<br>length<br>mechanic<br>rail<br>hybrid |  
+| bip_39_word_new_line1 | faculty |  
+| bip_39_word_new_line10 | faculty
+situate
+tenant
+frequent
+ride
+length
+mechanic
+rail
+hybrid
+burden |  
+| bip_39_word_new_line11 | faculty
+situate
+tenant
+frequent
+ride
+length
+mechanic
+rail
+hybrid
+burden
+stem |  
+| bip_39_word_new_line12 | faculty
+situate
+tenant
+frequent
+ride
+length
+mechanic
+rail
+hybrid
+burden
+stem
+alarm |  
+| bip_39_word_new_line2 | faculty
+situate |  
+| bip_39_word_new_line3 | faculty
+situate
+tenant |  
+| bip_39_word_new_line4 | faculty
+situate
+tenant
+frequent |  
+| bip_39_word_new_line5 | faculty
+situate
+tenant
+frequent
+ride |  
+| bip_39_word_new_line6 | faculty
+situate
+tenant
+frequent
+ride
+length |  
+| bip_39_word_new_line7 | faculty
+situate
+tenant
+frequent
+ride
+length
+mechanic |  
+| bip_39_word_new_line8 | faculty
+situate
+tenant
+frequent
+ride
+length
+mechanic
+rail |  
+| bip_39_word_new_line9 | faculty
+situate
+tenant
+frequent
+ride
+length
+mechanic
+rail
+hybrid |  
+| bip_39_word_space_0 | ['faculty', 'situate', 'tenant', 'frequent', 'ride', 'length', 'mechanic', 'rail', 'hybrid', 'burden', 'stem', 'alarm'] |  
+| bip_39_word_space_1 | faculty |  
+| bip_39_word_space_10 | faculty situate tenant frequent ride length mechanic rail hybrid burden |  
+| bip_39_word_space_11 | faculty situate tenant frequent ride length mechanic rail hybrid burden stem |  
+| bip_39_word_space_12 | faculty situate tenant frequent ride length mechanic rail hybrid burden stem alarm |  
+| bip_39_word_space_2 | faculty situate |  
+| bip_39_word_space_3 | faculty situate tenant |  
+| bip_39_word_space_4 | faculty situate tenant frequent |  
+| bip_39_word_space_5 | faculty situate tenant frequent ride |  
+| bip_39_word_space_6 | faculty situate tenant frequent ride length |  
+| bip_39_word_space_7 | faculty situate tenant frequent ride length mechanic |  
+| bip_39_word_space_8 | faculty situate tenant frequent ride length mechanic rail |  
+| bip_39_word_space_9 | faculty situate tenant frequent ride length mechanic rail hybrid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

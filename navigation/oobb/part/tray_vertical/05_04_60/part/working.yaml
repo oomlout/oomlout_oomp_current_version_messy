@@ -1,3 +1,185 @@
+bip_39_word_new_br1: side
+bip_39_word_new_br10: side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face
+bip_39_word_new_br11: side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face<br>loud
+bip_39_word_new_br12: side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host<br>face<br>loud<br>angry
+bip_39_word_new_br2: side<br>pupil
+bip_39_word_new_br3: side<br>pupil<br>easily
+bip_39_word_new_br4: side<br>pupil<br>easily<br>age
+bip_39_word_new_br5: side<br>pupil<br>easily<br>age<br>rigid
+bip_39_word_new_br6: side<br>pupil<br>easily<br>age<br>rigid<br>lunar
+bip_39_word_new_br7: side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide
+bip_39_word_new_br8: side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror
+bip_39_word_new_br9: side<br>pupil<br>easily<br>age<br>rigid<br>lunar<br>divide<br>mirror<br>host
+bip_39_word_new_line1: side
+bip_39_word_new_line10: 'side
+
+  pupil
+
+  easily
+
+  age
+
+  rigid
+
+  lunar
+
+  divide
+
+  mirror
+
+  host
+
+  face'
+bip_39_word_new_line11: 'side
+
+  pupil
+
+  easily
+
+  age
+
+  rigid
+
+  lunar
+
+  divide
+
+  mirror
+
+  host
+
+  face
+
+  loud'
+bip_39_word_new_line12: 'side
+
+  pupil
+
+  easily
+
+  age
+
+  rigid
+
+  lunar
+
+  divide
+
+  mirror
+
+  host
+
+  face
+
+  loud
+
+  angry'
+bip_39_word_new_line2: 'side
+
+  pupil'
+bip_39_word_new_line3: 'side
+
+  pupil
+
+  easily'
+bip_39_word_new_line4: 'side
+
+  pupil
+
+  easily
+
+  age'
+bip_39_word_new_line5: 'side
+
+  pupil
+
+  easily
+
+  age
+
+  rigid'
+bip_39_word_new_line6: 'side
+
+  pupil
+
+  easily
+
+  age
+
+  rigid
+
+  lunar'
+bip_39_word_new_line7: 'side
+
+  pupil
+
+  easily
+
+  age
+
+  rigid
+
+  lunar
+
+  divide'
+bip_39_word_new_line8: 'side
+
+  pupil
+
+  easily
+
+  age
+
+  rigid
+
+  lunar
+
+  divide
+
+  mirror'
+bip_39_word_new_line9: 'side
+
+  pupil
+
+  easily
+
+  age
+
+  rigid
+
+  lunar
+
+  divide
+
+  mirror
+
+  host'
+bip_39_word_space_0:
+- side
+- pupil
+- easily
+- age
+- rigid
+- lunar
+- divide
+- mirror
+- host
+- face
+- loud
+- angry
+bip_39_word_space_1: side
+bip_39_word_space_10: side pupil easily age rigid lunar divide mirror host face
+bip_39_word_space_11: side pupil easily age rigid lunar divide mirror host face loud
+bip_39_word_space_12: side pupil easily age rigid lunar divide mirror host face loud
+  angry
+bip_39_word_space_2: side pupil
+bip_39_word_space_3: side pupil easily
+bip_39_word_space_4: side pupil easily age
+bip_39_word_space_5: side pupil easily age rigid
+bip_39_word_space_6: side pupil easily age rigid lunar
+bip_39_word_space_7: side pupil easily age rigid lunar divide
+bip_39_word_space_8: side pupil easily age rigid lunar divide mirror
+bip_39_word_space_9: side pupil easily age rigid lunar divide mirror host
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

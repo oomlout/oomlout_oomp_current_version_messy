@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tumble ethics
+  * bip 39 word 3: tumble ethics jeans
+  * bip 39 word: tumble ethics jeans warfare injury wolf hurry aim figure monitor solution any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tumble |  
+| bip_39_word_new_br10 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry<br>aim<br>figure<br>monitor |  
+| bip_39_word_new_br11 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry<br>aim<br>figure<br>monitor<br>solution |  
+| bip_39_word_new_br12 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry<br>aim<br>figure<br>monitor<br>solution<br>any |  
+| bip_39_word_new_br2 | tumble<br>ethics |  
+| bip_39_word_new_br3 | tumble<br>ethics<br>jeans |  
+| bip_39_word_new_br4 | tumble<br>ethics<br>jeans<br>warfare |  
+| bip_39_word_new_br5 | tumble<br>ethics<br>jeans<br>warfare<br>injury |  
+| bip_39_word_new_br6 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf |  
+| bip_39_word_new_br7 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry |  
+| bip_39_word_new_br8 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry<br>aim |  
+| bip_39_word_new_br9 | tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry<br>aim<br>figure |  
+| bip_39_word_new_line1 | tumble |  
+| bip_39_word_new_line10 | tumble
+ethics
+jeans
+warfare
+injury
+wolf
+hurry
+aim
+figure
+monitor |  
+| bip_39_word_new_line11 | tumble
+ethics
+jeans
+warfare
+injury
+wolf
+hurry
+aim
+figure
+monitor
+solution |  
+| bip_39_word_new_line12 | tumble
+ethics
+jeans
+warfare
+injury
+wolf
+hurry
+aim
+figure
+monitor
+solution
+any |  
+| bip_39_word_new_line2 | tumble
+ethics |  
+| bip_39_word_new_line3 | tumble
+ethics
+jeans |  
+| bip_39_word_new_line4 | tumble
+ethics
+jeans
+warfare |  
+| bip_39_word_new_line5 | tumble
+ethics
+jeans
+warfare
+injury |  
+| bip_39_word_new_line6 | tumble
+ethics
+jeans
+warfare
+injury
+wolf |  
+| bip_39_word_new_line7 | tumble
+ethics
+jeans
+warfare
+injury
+wolf
+hurry |  
+| bip_39_word_new_line8 | tumble
+ethics
+jeans
+warfare
+injury
+wolf
+hurry
+aim |  
+| bip_39_word_new_line9 | tumble
+ethics
+jeans
+warfare
+injury
+wolf
+hurry
+aim
+figure |  
+| bip_39_word_space_0 | ['tumble', 'ethics', 'jeans', 'warfare', 'injury', 'wolf', 'hurry', 'aim', 'figure', 'monitor', 'solution', 'any'] |  
+| bip_39_word_space_1 | tumble |  
+| bip_39_word_space_10 | tumble ethics jeans warfare injury wolf hurry aim figure monitor |  
+| bip_39_word_space_11 | tumble ethics jeans warfare injury wolf hurry aim figure monitor solution |  
+| bip_39_word_space_12 | tumble ethics jeans warfare injury wolf hurry aim figure monitor solution any |  
+| bip_39_word_space_2 | tumble ethics |  
+| bip_39_word_space_3 | tumble ethics jeans |  
+| bip_39_word_space_4 | tumble ethics jeans warfare |  
+| bip_39_word_space_5 | tumble ethics jeans warfare injury |  
+| bip_39_word_space_6 | tumble ethics jeans warfare injury wolf |  
+| bip_39_word_space_7 | tumble ethics jeans warfare injury wolf hurry |  
+| bip_39_word_space_8 | tumble ethics jeans warfare injury wolf hurry aim |  
+| bip_39_word_space_9 | tumble ethics jeans warfare injury wolf hurry aim figure |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

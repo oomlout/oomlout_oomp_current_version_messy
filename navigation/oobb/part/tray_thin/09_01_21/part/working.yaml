@@ -1,3 +1,187 @@
+bip_39_word_new_br1: fossil
+bip_39_word_new_br10: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute
+bip_39_word_new_br11: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit
+bip_39_word_new_br12: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit<br>ability
+bip_39_word_new_br2: fossil<br>approve
+bip_39_word_new_br3: fossil<br>approve<br>exhaust
+bip_39_word_new_br4: fossil<br>approve<br>exhaust<br>economy
+bip_39_word_new_br5: fossil<br>approve<br>exhaust<br>economy<br>acid
+bip_39_word_new_br6: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist
+bip_39_word_new_br7: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase
+bip_39_word_new_br8: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden
+bip_39_word_new_br9: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan
+bip_39_word_new_line1: fossil
+bip_39_word_new_line10: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden
+
+  scan
+
+  salute'
+bip_39_word_new_line11: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden
+
+  scan
+
+  salute
+
+  exhibit'
+bip_39_word_new_line12: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden
+
+  scan
+
+  salute
+
+  exhibit
+
+  ability'
+bip_39_word_new_line2: 'fossil
+
+  approve'
+bip_39_word_new_line3: 'fossil
+
+  approve
+
+  exhaust'
+bip_39_word_new_line4: 'fossil
+
+  approve
+
+  exhaust
+
+  economy'
+bip_39_word_new_line5: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid'
+bip_39_word_new_line6: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist'
+bip_39_word_new_line7: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase'
+bip_39_word_new_line8: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden'
+bip_39_word_new_line9: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden
+
+  scan'
+bip_39_word_space_0:
+- fossil
+- approve
+- exhaust
+- economy
+- acid
+- assist
+- phrase
+- burden
+- scan
+- salute
+- exhibit
+- ability
+bip_39_word_space_1: fossil
+bip_39_word_space_10: fossil approve exhaust economy acid assist phrase burden scan
+  salute
+bip_39_word_space_11: fossil approve exhaust economy acid assist phrase burden scan
+  salute exhibit
+bip_39_word_space_12: fossil approve exhaust economy acid assist phrase burden scan
+  salute exhibit ability
+bip_39_word_space_2: fossil approve
+bip_39_word_space_3: fossil approve exhaust
+bip_39_word_space_4: fossil approve exhaust economy
+bip_39_word_space_5: fossil approve exhaust economy acid
+bip_39_word_space_6: fossil approve exhaust economy acid assist
+bip_39_word_space_7: fossil approve exhaust economy acid assist phrase
+bip_39_word_space_8: fossil approve exhaust economy acid assist phrase burden
+bip_39_word_space_9: fossil approve exhaust economy acid assist phrase burden scan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

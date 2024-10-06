@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: payment bacon
+  * bip 39 word 3: payment bacon verify
+  * bip 39 word: payment bacon verify clarify pig donkey brass bubble hen convince vibrant afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | payment |  
+| bip_39_word_new_br10 | payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey<br>brass<br>bubble<br>hen<br>convince |  
+| bip_39_word_new_br11 | payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey<br>brass<br>bubble<br>hen<br>convince<br>vibrant |  
+| bip_39_word_new_br12 | payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey<br>brass<br>bubble<br>hen<br>convince<br>vibrant<br>afraid |  
+| bip_39_word_new_br2 | payment<br>bacon |  
+| bip_39_word_new_br3 | payment<br>bacon<br>verify |  
+| bip_39_word_new_br4 | payment<br>bacon<br>verify<br>clarify |  
+| bip_39_word_new_br5 | payment<br>bacon<br>verify<br>clarify<br>pig |  
+| bip_39_word_new_br6 | payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey |  
+| bip_39_word_new_br7 | payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey<br>brass |  
+| bip_39_word_new_br8 | payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey<br>brass<br>bubble |  
+| bip_39_word_new_br9 | payment<br>bacon<br>verify<br>clarify<br>pig<br>donkey<br>brass<br>bubble<br>hen |  
+| bip_39_word_new_line1 | payment |  
+| bip_39_word_new_line10 | payment
+bacon
+verify
+clarify
+pig
+donkey
+brass
+bubble
+hen
+convince |  
+| bip_39_word_new_line11 | payment
+bacon
+verify
+clarify
+pig
+donkey
+brass
+bubble
+hen
+convince
+vibrant |  
+| bip_39_word_new_line12 | payment
+bacon
+verify
+clarify
+pig
+donkey
+brass
+bubble
+hen
+convince
+vibrant
+afraid |  
+| bip_39_word_new_line2 | payment
+bacon |  
+| bip_39_word_new_line3 | payment
+bacon
+verify |  
+| bip_39_word_new_line4 | payment
+bacon
+verify
+clarify |  
+| bip_39_word_new_line5 | payment
+bacon
+verify
+clarify
+pig |  
+| bip_39_word_new_line6 | payment
+bacon
+verify
+clarify
+pig
+donkey |  
+| bip_39_word_new_line7 | payment
+bacon
+verify
+clarify
+pig
+donkey
+brass |  
+| bip_39_word_new_line8 | payment
+bacon
+verify
+clarify
+pig
+donkey
+brass
+bubble |  
+| bip_39_word_new_line9 | payment
+bacon
+verify
+clarify
+pig
+donkey
+brass
+bubble
+hen |  
+| bip_39_word_space_0 | ['payment', 'bacon', 'verify', 'clarify', 'pig', 'donkey', 'brass', 'bubble', 'hen', 'convince', 'vibrant', 'afraid'] |  
+| bip_39_word_space_1 | payment |  
+| bip_39_word_space_10 | payment bacon verify clarify pig donkey brass bubble hen convince |  
+| bip_39_word_space_11 | payment bacon verify clarify pig donkey brass bubble hen convince vibrant |  
+| bip_39_word_space_12 | payment bacon verify clarify pig donkey brass bubble hen convince vibrant afraid |  
+| bip_39_word_space_2 | payment bacon |  
+| bip_39_word_space_3 | payment bacon verify |  
+| bip_39_word_space_4 | payment bacon verify clarify |  
+| bip_39_word_space_5 | payment bacon verify clarify pig |  
+| bip_39_word_space_6 | payment bacon verify clarify pig donkey |  
+| bip_39_word_space_7 | payment bacon verify clarify pig donkey brass |  
+| bip_39_word_space_8 | payment bacon verify clarify pig donkey brass bubble |  
+| bip_39_word_space_9 | payment bacon verify clarify pig donkey brass bubble hen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: circle grass
+  * bip 39 word 3: circle grass display
+  * bip 39 word: circle grass display board gain idle inspire document people live resemble atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | circle |  
+| bip_39_word_new_br10 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live |  
+| bip_39_word_new_br11 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live<br>resemble |  
+| bip_39_word_new_br12 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people<br>live<br>resemble<br>atom |  
+| bip_39_word_new_br2 | circle<br>grass |  
+| bip_39_word_new_br3 | circle<br>grass<br>display |  
+| bip_39_word_new_br4 | circle<br>grass<br>display<br>board |  
+| bip_39_word_new_br5 | circle<br>grass<br>display<br>board<br>gain |  
+| bip_39_word_new_br6 | circle<br>grass<br>display<br>board<br>gain<br>idle |  
+| bip_39_word_new_br7 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire |  
+| bip_39_word_new_br8 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document |  
+| bip_39_word_new_br9 | circle<br>grass<br>display<br>board<br>gain<br>idle<br>inspire<br>document<br>people |  
+| bip_39_word_new_line1 | circle |  
+| bip_39_word_new_line10 | circle
+grass
+display
+board
+gain
+idle
+inspire
+document
+people
+live |  
+| bip_39_word_new_line11 | circle
+grass
+display
+board
+gain
+idle
+inspire
+document
+people
+live
+resemble |  
+| bip_39_word_new_line12 | circle
+grass
+display
+board
+gain
+idle
+inspire
+document
+people
+live
+resemble
+atom |  
+| bip_39_word_new_line2 | circle
+grass |  
+| bip_39_word_new_line3 | circle
+grass
+display |  
+| bip_39_word_new_line4 | circle
+grass
+display
+board |  
+| bip_39_word_new_line5 | circle
+grass
+display
+board
+gain |  
+| bip_39_word_new_line6 | circle
+grass
+display
+board
+gain
+idle |  
+| bip_39_word_new_line7 | circle
+grass
+display
+board
+gain
+idle
+inspire |  
+| bip_39_word_new_line8 | circle
+grass
+display
+board
+gain
+idle
+inspire
+document |  
+| bip_39_word_new_line9 | circle
+grass
+display
+board
+gain
+idle
+inspire
+document
+people |  
+| bip_39_word_space_0 | ['circle', 'grass', 'display', 'board', 'gain', 'idle', 'inspire', 'document', 'people', 'live', 'resemble', 'atom'] |  
+| bip_39_word_space_1 | circle |  
+| bip_39_word_space_10 | circle grass display board gain idle inspire document people live |  
+| bip_39_word_space_11 | circle grass display board gain idle inspire document people live resemble |  
+| bip_39_word_space_12 | circle grass display board gain idle inspire document people live resemble atom |  
+| bip_39_word_space_2 | circle grass |  
+| bip_39_word_space_3 | circle grass display |  
+| bip_39_word_space_4 | circle grass display board |  
+| bip_39_word_space_5 | circle grass display board gain |  
+| bip_39_word_space_6 | circle grass display board gain idle |  
+| bip_39_word_space_7 | circle grass display board gain idle inspire |  
+| bip_39_word_space_8 | circle grass display board gain idle inspire document |  
+| bip_39_word_space_9 | circle grass display board gain idle inspire document people |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

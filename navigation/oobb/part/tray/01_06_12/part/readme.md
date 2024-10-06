@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: balcony ignore
+  * bip 39 word 3: balcony ignore ski
+  * bip 39 word: balcony ignore ski mule solution still goose celery quit hurdle spoil airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | balcony |  
+| bip_39_word_new_br10 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still<br>goose<br>celery<br>quit<br>hurdle |  
+| bip_39_word_new_br11 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still<br>goose<br>celery<br>quit<br>hurdle<br>spoil |  
+| bip_39_word_new_br12 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still<br>goose<br>celery<br>quit<br>hurdle<br>spoil<br>airport |  
+| bip_39_word_new_br2 | balcony<br>ignore |  
+| bip_39_word_new_br3 | balcony<br>ignore<br>ski |  
+| bip_39_word_new_br4 | balcony<br>ignore<br>ski<br>mule |  
+| bip_39_word_new_br5 | balcony<br>ignore<br>ski<br>mule<br>solution |  
+| bip_39_word_new_br6 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still |  
+| bip_39_word_new_br7 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still<br>goose |  
+| bip_39_word_new_br8 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still<br>goose<br>celery |  
+| bip_39_word_new_br9 | balcony<br>ignore<br>ski<br>mule<br>solution<br>still<br>goose<br>celery<br>quit |  
+| bip_39_word_new_line1 | balcony |  
+| bip_39_word_new_line10 | balcony
+ignore
+ski
+mule
+solution
+still
+goose
+celery
+quit
+hurdle |  
+| bip_39_word_new_line11 | balcony
+ignore
+ski
+mule
+solution
+still
+goose
+celery
+quit
+hurdle
+spoil |  
+| bip_39_word_new_line12 | balcony
+ignore
+ski
+mule
+solution
+still
+goose
+celery
+quit
+hurdle
+spoil
+airport |  
+| bip_39_word_new_line2 | balcony
+ignore |  
+| bip_39_word_new_line3 | balcony
+ignore
+ski |  
+| bip_39_word_new_line4 | balcony
+ignore
+ski
+mule |  
+| bip_39_word_new_line5 | balcony
+ignore
+ski
+mule
+solution |  
+| bip_39_word_new_line6 | balcony
+ignore
+ski
+mule
+solution
+still |  
+| bip_39_word_new_line7 | balcony
+ignore
+ski
+mule
+solution
+still
+goose |  
+| bip_39_word_new_line8 | balcony
+ignore
+ski
+mule
+solution
+still
+goose
+celery |  
+| bip_39_word_new_line9 | balcony
+ignore
+ski
+mule
+solution
+still
+goose
+celery
+quit |  
+| bip_39_word_space_0 | ['balcony', 'ignore', 'ski', 'mule', 'solution', 'still', 'goose', 'celery', 'quit', 'hurdle', 'spoil', 'airport'] |  
+| bip_39_word_space_1 | balcony |  
+| bip_39_word_space_10 | balcony ignore ski mule solution still goose celery quit hurdle |  
+| bip_39_word_space_11 | balcony ignore ski mule solution still goose celery quit hurdle spoil |  
+| bip_39_word_space_12 | balcony ignore ski mule solution still goose celery quit hurdle spoil airport |  
+| bip_39_word_space_2 | balcony ignore |  
+| bip_39_word_space_3 | balcony ignore ski |  
+| bip_39_word_space_4 | balcony ignore ski mule |  
+| bip_39_word_space_5 | balcony ignore ski mule solution |  
+| bip_39_word_space_6 | balcony ignore ski mule solution still |  
+| bip_39_word_space_7 | balcony ignore ski mule solution still goose |  
+| bip_39_word_space_8 | balcony ignore ski mule solution still goose celery |  
+| bip_39_word_space_9 | balcony ignore ski mule solution still goose celery quit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

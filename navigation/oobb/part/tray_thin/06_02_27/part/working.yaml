@@ -1,3 +1,187 @@
+bip_39_word_new_br1: elephant
+bip_39_word_new_br10: elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor<br>occur<br>team<br>frown<br>nose
+bip_39_word_new_br11: elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor<br>occur<br>team<br>frown<br>nose<br>main
+bip_39_word_new_br12: elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor<br>occur<br>team<br>frown<br>nose<br>main<br>atom
+bip_39_word_new_br2: elephant<br>penalty
+bip_39_word_new_br3: elephant<br>penalty<br>rhythm
+bip_39_word_new_br4: elephant<br>penalty<br>rhythm<br>wing
+bip_39_word_new_br5: elephant<br>penalty<br>rhythm<br>wing<br>chapter
+bip_39_word_new_br6: elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor
+bip_39_word_new_br7: elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor<br>occur
+bip_39_word_new_br8: elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor<br>occur<br>team
+bip_39_word_new_br9: elephant<br>penalty<br>rhythm<br>wing<br>chapter<br>bachelor<br>occur<br>team<br>frown
+bip_39_word_new_line1: elephant
+bip_39_word_new_line10: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing
+
+  chapter
+
+  bachelor
+
+  occur
+
+  team
+
+  frown
+
+  nose'
+bip_39_word_new_line11: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing
+
+  chapter
+
+  bachelor
+
+  occur
+
+  team
+
+  frown
+
+  nose
+
+  main'
+bip_39_word_new_line12: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing
+
+  chapter
+
+  bachelor
+
+  occur
+
+  team
+
+  frown
+
+  nose
+
+  main
+
+  atom'
+bip_39_word_new_line2: 'elephant
+
+  penalty'
+bip_39_word_new_line3: 'elephant
+
+  penalty
+
+  rhythm'
+bip_39_word_new_line4: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing'
+bip_39_word_new_line5: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing
+
+  chapter'
+bip_39_word_new_line6: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing
+
+  chapter
+
+  bachelor'
+bip_39_word_new_line7: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing
+
+  chapter
+
+  bachelor
+
+  occur'
+bip_39_word_new_line8: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing
+
+  chapter
+
+  bachelor
+
+  occur
+
+  team'
+bip_39_word_new_line9: 'elephant
+
+  penalty
+
+  rhythm
+
+  wing
+
+  chapter
+
+  bachelor
+
+  occur
+
+  team
+
+  frown'
+bip_39_word_space_0:
+- elephant
+- penalty
+- rhythm
+- wing
+- chapter
+- bachelor
+- occur
+- team
+- frown
+- nose
+- main
+- atom
+bip_39_word_space_1: elephant
+bip_39_word_space_10: elephant penalty rhythm wing chapter bachelor occur team frown
+  nose
+bip_39_word_space_11: elephant penalty rhythm wing chapter bachelor occur team frown
+  nose main
+bip_39_word_space_12: elephant penalty rhythm wing chapter bachelor occur team frown
+  nose main atom
+bip_39_word_space_2: elephant penalty
+bip_39_word_space_3: elephant penalty rhythm
+bip_39_word_space_4: elephant penalty rhythm wing
+bip_39_word_space_5: elephant penalty rhythm wing chapter
+bip_39_word_space_6: elephant penalty rhythm wing chapter bachelor
+bip_39_word_space_7: elephant penalty rhythm wing chapter bachelor occur
+bip_39_word_space_8: elephant penalty rhythm wing chapter bachelor occur team
+bip_39_word_space_9: elephant penalty rhythm wing chapter bachelor occur team frown
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

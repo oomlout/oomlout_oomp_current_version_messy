@@ -1,3 +1,186 @@
+bip_39_word_new_br1: moment
+bip_39_word_new_br10: moment<br>peanut<br>seven<br>flush<br>faculty<br>actress<br>bomb<br>creek<br>host<br>ordinary
+bip_39_word_new_br11: moment<br>peanut<br>seven<br>flush<br>faculty<br>actress<br>bomb<br>creek<br>host<br>ordinary<br>govern
+bip_39_word_new_br12: moment<br>peanut<br>seven<br>flush<br>faculty<br>actress<br>bomb<br>creek<br>host<br>ordinary<br>govern<br>anxiety
+bip_39_word_new_br2: moment<br>peanut
+bip_39_word_new_br3: moment<br>peanut<br>seven
+bip_39_word_new_br4: moment<br>peanut<br>seven<br>flush
+bip_39_word_new_br5: moment<br>peanut<br>seven<br>flush<br>faculty
+bip_39_word_new_br6: moment<br>peanut<br>seven<br>flush<br>faculty<br>actress
+bip_39_word_new_br7: moment<br>peanut<br>seven<br>flush<br>faculty<br>actress<br>bomb
+bip_39_word_new_br8: moment<br>peanut<br>seven<br>flush<br>faculty<br>actress<br>bomb<br>creek
+bip_39_word_new_br9: moment<br>peanut<br>seven<br>flush<br>faculty<br>actress<br>bomb<br>creek<br>host
+bip_39_word_new_line1: moment
+bip_39_word_new_line10: 'moment
+
+  peanut
+
+  seven
+
+  flush
+
+  faculty
+
+  actress
+
+  bomb
+
+  creek
+
+  host
+
+  ordinary'
+bip_39_word_new_line11: 'moment
+
+  peanut
+
+  seven
+
+  flush
+
+  faculty
+
+  actress
+
+  bomb
+
+  creek
+
+  host
+
+  ordinary
+
+  govern'
+bip_39_word_new_line12: 'moment
+
+  peanut
+
+  seven
+
+  flush
+
+  faculty
+
+  actress
+
+  bomb
+
+  creek
+
+  host
+
+  ordinary
+
+  govern
+
+  anxiety'
+bip_39_word_new_line2: 'moment
+
+  peanut'
+bip_39_word_new_line3: 'moment
+
+  peanut
+
+  seven'
+bip_39_word_new_line4: 'moment
+
+  peanut
+
+  seven
+
+  flush'
+bip_39_word_new_line5: 'moment
+
+  peanut
+
+  seven
+
+  flush
+
+  faculty'
+bip_39_word_new_line6: 'moment
+
+  peanut
+
+  seven
+
+  flush
+
+  faculty
+
+  actress'
+bip_39_word_new_line7: 'moment
+
+  peanut
+
+  seven
+
+  flush
+
+  faculty
+
+  actress
+
+  bomb'
+bip_39_word_new_line8: 'moment
+
+  peanut
+
+  seven
+
+  flush
+
+  faculty
+
+  actress
+
+  bomb
+
+  creek'
+bip_39_word_new_line9: 'moment
+
+  peanut
+
+  seven
+
+  flush
+
+  faculty
+
+  actress
+
+  bomb
+
+  creek
+
+  host'
+bip_39_word_space_0:
+- moment
+- peanut
+- seven
+- flush
+- faculty
+- actress
+- bomb
+- creek
+- host
+- ordinary
+- govern
+- anxiety
+bip_39_word_space_1: moment
+bip_39_word_space_10: moment peanut seven flush faculty actress bomb creek host ordinary
+bip_39_word_space_11: moment peanut seven flush faculty actress bomb creek host ordinary
+  govern
+bip_39_word_space_12: moment peanut seven flush faculty actress bomb creek host ordinary
+  govern anxiety
+bip_39_word_space_2: moment peanut
+bip_39_word_space_3: moment peanut seven
+bip_39_word_space_4: moment peanut seven flush
+bip_39_word_space_5: moment peanut seven flush faculty
+bip_39_word_space_6: moment peanut seven flush faculty actress
+bip_39_word_space_7: moment peanut seven flush faculty actress bomb
+bip_39_word_space_8: moment peanut seven flush faculty actress bomb creek
+bip_39_word_space_9: moment peanut seven flush faculty actress bomb creek host
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: top sense
+  * bip 39 word 3: top sense win
+  * bip 39 word: top sense win omit nerve dentist bleak clump post couch holiday armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | top |  
+| bip_39_word_new_br10 | top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump<br>post<br>couch |  
+| bip_39_word_new_br11 | top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump<br>post<br>couch<br>holiday |  
+| bip_39_word_new_br12 | top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump<br>post<br>couch<br>holiday<br>armed |  
+| bip_39_word_new_br2 | top<br>sense |  
+| bip_39_word_new_br3 | top<br>sense<br>win |  
+| bip_39_word_new_br4 | top<br>sense<br>win<br>omit |  
+| bip_39_word_new_br5 | top<br>sense<br>win<br>omit<br>nerve |  
+| bip_39_word_new_br6 | top<br>sense<br>win<br>omit<br>nerve<br>dentist |  
+| bip_39_word_new_br7 | top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak |  
+| bip_39_word_new_br8 | top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump |  
+| bip_39_word_new_br9 | top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump<br>post |  
+| bip_39_word_new_line1 | top |  
+| bip_39_word_new_line10 | top
+sense
+win
+omit
+nerve
+dentist
+bleak
+clump
+post
+couch |  
+| bip_39_word_new_line11 | top
+sense
+win
+omit
+nerve
+dentist
+bleak
+clump
+post
+couch
+holiday |  
+| bip_39_word_new_line12 | top
+sense
+win
+omit
+nerve
+dentist
+bleak
+clump
+post
+couch
+holiday
+armed |  
+| bip_39_word_new_line2 | top
+sense |  
+| bip_39_word_new_line3 | top
+sense
+win |  
+| bip_39_word_new_line4 | top
+sense
+win
+omit |  
+| bip_39_word_new_line5 | top
+sense
+win
+omit
+nerve |  
+| bip_39_word_new_line6 | top
+sense
+win
+omit
+nerve
+dentist |  
+| bip_39_word_new_line7 | top
+sense
+win
+omit
+nerve
+dentist
+bleak |  
+| bip_39_word_new_line8 | top
+sense
+win
+omit
+nerve
+dentist
+bleak
+clump |  
+| bip_39_word_new_line9 | top
+sense
+win
+omit
+nerve
+dentist
+bleak
+clump
+post |  
+| bip_39_word_space_0 | ['top', 'sense', 'win', 'omit', 'nerve', 'dentist', 'bleak', 'clump', 'post', 'couch', 'holiday', 'armed'] |  
+| bip_39_word_space_1 | top |  
+| bip_39_word_space_10 | top sense win omit nerve dentist bleak clump post couch |  
+| bip_39_word_space_11 | top sense win omit nerve dentist bleak clump post couch holiday |  
+| bip_39_word_space_12 | top sense win omit nerve dentist bleak clump post couch holiday armed |  
+| bip_39_word_space_2 | top sense |  
+| bip_39_word_space_3 | top sense win |  
+| bip_39_word_space_4 | top sense win omit |  
+| bip_39_word_space_5 | top sense win omit nerve |  
+| bip_39_word_space_6 | top sense win omit nerve dentist |  
+| bip_39_word_space_7 | top sense win omit nerve dentist bleak |  
+| bip_39_word_space_8 | top sense win omit nerve dentist bleak clump |  
+| bip_39_word_space_9 | top sense win omit nerve dentist bleak clump post |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

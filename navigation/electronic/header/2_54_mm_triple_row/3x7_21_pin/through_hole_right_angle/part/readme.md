@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coyote private
+  * bip 39 word 3: coyote private venture
+  * bip 39 word: coyote private venture antenna help author play enjoy energy race body air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coyote |  
+| bip_39_word_new_br10 | coyote<br>private<br>venture<br>antenna<br>help<br>author<br>play<br>enjoy<br>energy<br>race |  
+| bip_39_word_new_br11 | coyote<br>private<br>venture<br>antenna<br>help<br>author<br>play<br>enjoy<br>energy<br>race<br>body |  
+| bip_39_word_new_br12 | coyote<br>private<br>venture<br>antenna<br>help<br>author<br>play<br>enjoy<br>energy<br>race<br>body<br>air |  
+| bip_39_word_new_br2 | coyote<br>private |  
+| bip_39_word_new_br3 | coyote<br>private<br>venture |  
+| bip_39_word_new_br4 | coyote<br>private<br>venture<br>antenna |  
+| bip_39_word_new_br5 | coyote<br>private<br>venture<br>antenna<br>help |  
+| bip_39_word_new_br6 | coyote<br>private<br>venture<br>antenna<br>help<br>author |  
+| bip_39_word_new_br7 | coyote<br>private<br>venture<br>antenna<br>help<br>author<br>play |  
+| bip_39_word_new_br8 | coyote<br>private<br>venture<br>antenna<br>help<br>author<br>play<br>enjoy |  
+| bip_39_word_new_br9 | coyote<br>private<br>venture<br>antenna<br>help<br>author<br>play<br>enjoy<br>energy |  
+| bip_39_word_new_line1 | coyote |  
+| bip_39_word_new_line10 | coyote
+private
+venture
+antenna
+help
+author
+play
+enjoy
+energy
+race |  
+| bip_39_word_new_line11 | coyote
+private
+venture
+antenna
+help
+author
+play
+enjoy
+energy
+race
+body |  
+| bip_39_word_new_line12 | coyote
+private
+venture
+antenna
+help
+author
+play
+enjoy
+energy
+race
+body
+air |  
+| bip_39_word_new_line2 | coyote
+private |  
+| bip_39_word_new_line3 | coyote
+private
+venture |  
+| bip_39_word_new_line4 | coyote
+private
+venture
+antenna |  
+| bip_39_word_new_line5 | coyote
+private
+venture
+antenna
+help |  
+| bip_39_word_new_line6 | coyote
+private
+venture
+antenna
+help
+author |  
+| bip_39_word_new_line7 | coyote
+private
+venture
+antenna
+help
+author
+play |  
+| bip_39_word_new_line8 | coyote
+private
+venture
+antenna
+help
+author
+play
+enjoy |  
+| bip_39_word_new_line9 | coyote
+private
+venture
+antenna
+help
+author
+play
+enjoy
+energy |  
+| bip_39_word_space_0 | ['coyote', 'private', 'venture', 'antenna', 'help', 'author', 'play', 'enjoy', 'energy', 'race', 'body', 'air'] |  
+| bip_39_word_space_1 | coyote |  
+| bip_39_word_space_10 | coyote private venture antenna help author play enjoy energy race |  
+| bip_39_word_space_11 | coyote private venture antenna help author play enjoy energy race body |  
+| bip_39_word_space_12 | coyote private venture antenna help author play enjoy energy race body air |  
+| bip_39_word_space_2 | coyote private |  
+| bip_39_word_space_3 | coyote private venture |  
+| bip_39_word_space_4 | coyote private venture antenna |  
+| bip_39_word_space_5 | coyote private venture antenna help |  
+| bip_39_word_space_6 | coyote private venture antenna help author |  
+| bip_39_word_space_7 | coyote private venture antenna help author play |  
+| bip_39_word_space_8 | coyote private venture antenna help author play enjoy |  
+| bip_39_word_space_9 | coyote private venture antenna help author play enjoy energy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

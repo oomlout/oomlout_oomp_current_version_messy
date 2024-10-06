@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: systempak
   * part_number: 254
+  * bip 39 word 2: october together
+  * bip 39 word 3: october together fringe
+  * bip 39 word: october together fringe must transfer again cash around village civil online absent
 
 ### other_codes
 * short_code: tcc670
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | october |  
+| bip_39_word_new_br10 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil |  
+| bip_39_word_new_br11 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil<br>online |  
+| bip_39_word_new_br12 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village<br>civil<br>online<br>absent |  
+| bip_39_word_new_br2 | october<br>together |  
+| bip_39_word_new_br3 | october<br>together<br>fringe |  
+| bip_39_word_new_br4 | october<br>together<br>fringe<br>must |  
+| bip_39_word_new_br5 | october<br>together<br>fringe<br>must<br>transfer |  
+| bip_39_word_new_br6 | october<br>together<br>fringe<br>must<br>transfer<br>again |  
+| bip_39_word_new_br7 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash |  
+| bip_39_word_new_br8 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around |  
+| bip_39_word_new_br9 | october<br>together<br>fringe<br>must<br>transfer<br>again<br>cash<br>around<br>village |  
+| bip_39_word_new_line1 | october |  
+| bip_39_word_new_line10 | october
+together
+fringe
+must
+transfer
+again
+cash
+around
+village
+civil |  
+| bip_39_word_new_line11 | october
+together
+fringe
+must
+transfer
+again
+cash
+around
+village
+civil
+online |  
+| bip_39_word_new_line12 | october
+together
+fringe
+must
+transfer
+again
+cash
+around
+village
+civil
+online
+absent |  
+| bip_39_word_new_line2 | october
+together |  
+| bip_39_word_new_line3 | october
+together
+fringe |  
+| bip_39_word_new_line4 | october
+together
+fringe
+must |  
+| bip_39_word_new_line5 | october
+together
+fringe
+must
+transfer |  
+| bip_39_word_new_line6 | october
+together
+fringe
+must
+transfer
+again |  
+| bip_39_word_new_line7 | october
+together
+fringe
+must
+transfer
+again
+cash |  
+| bip_39_word_new_line8 | october
+together
+fringe
+must
+transfer
+again
+cash
+around |  
+| bip_39_word_new_line9 | october
+together
+fringe
+must
+transfer
+again
+cash
+around
+village |  
+| bip_39_word_space_0 | ['october', 'together', 'fringe', 'must', 'transfer', 'again', 'cash', 'around', 'village', 'civil', 'online', 'absent'] |  
+| bip_39_word_space_1 | october |  
+| bip_39_word_space_10 | october together fringe must transfer again cash around village civil |  
+| bip_39_word_space_11 | october together fringe must transfer again cash around village civil online |  
+| bip_39_word_space_12 | october together fringe must transfer again cash around village civil online absent |  
+| bip_39_word_space_2 | october together |  
+| bip_39_word_space_3 | october together fringe |  
+| bip_39_word_space_4 | october together fringe must |  
+| bip_39_word_space_5 | october together fringe must transfer |  
+| bip_39_word_space_6 | october together fringe must transfer again |  
+| bip_39_word_space_7 | october together fringe must transfer again cash |  
+| bip_39_word_space_8 | october together fringe must transfer again cash around |  
+| bip_39_word_space_9 | october together fringe must transfer again cash around village |  
 | box_quantity | 316 |  
 | classification | packaging |  
 | classification_capital | Packaging |  

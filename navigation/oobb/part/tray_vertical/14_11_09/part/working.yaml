@@ -1,3 +1,185 @@
+bip_39_word_new_br1: glance
+bip_39_word_new_br10: glance<br>escape<br>live<br>fury<br>gap<br>giant<br>misery<br>kiss<br>kite<br>alley
+bip_39_word_new_br11: glance<br>escape<br>live<br>fury<br>gap<br>giant<br>misery<br>kiss<br>kite<br>alley<br>metal
+bip_39_word_new_br12: glance<br>escape<br>live<br>fury<br>gap<br>giant<br>misery<br>kiss<br>kite<br>alley<br>metal<br>aim
+bip_39_word_new_br2: glance<br>escape
+bip_39_word_new_br3: glance<br>escape<br>live
+bip_39_word_new_br4: glance<br>escape<br>live<br>fury
+bip_39_word_new_br5: glance<br>escape<br>live<br>fury<br>gap
+bip_39_word_new_br6: glance<br>escape<br>live<br>fury<br>gap<br>giant
+bip_39_word_new_br7: glance<br>escape<br>live<br>fury<br>gap<br>giant<br>misery
+bip_39_word_new_br8: glance<br>escape<br>live<br>fury<br>gap<br>giant<br>misery<br>kiss
+bip_39_word_new_br9: glance<br>escape<br>live<br>fury<br>gap<br>giant<br>misery<br>kiss<br>kite
+bip_39_word_new_line1: glance
+bip_39_word_new_line10: 'glance
+
+  escape
+
+  live
+
+  fury
+
+  gap
+
+  giant
+
+  misery
+
+  kiss
+
+  kite
+
+  alley'
+bip_39_word_new_line11: 'glance
+
+  escape
+
+  live
+
+  fury
+
+  gap
+
+  giant
+
+  misery
+
+  kiss
+
+  kite
+
+  alley
+
+  metal'
+bip_39_word_new_line12: 'glance
+
+  escape
+
+  live
+
+  fury
+
+  gap
+
+  giant
+
+  misery
+
+  kiss
+
+  kite
+
+  alley
+
+  metal
+
+  aim'
+bip_39_word_new_line2: 'glance
+
+  escape'
+bip_39_word_new_line3: 'glance
+
+  escape
+
+  live'
+bip_39_word_new_line4: 'glance
+
+  escape
+
+  live
+
+  fury'
+bip_39_word_new_line5: 'glance
+
+  escape
+
+  live
+
+  fury
+
+  gap'
+bip_39_word_new_line6: 'glance
+
+  escape
+
+  live
+
+  fury
+
+  gap
+
+  giant'
+bip_39_word_new_line7: 'glance
+
+  escape
+
+  live
+
+  fury
+
+  gap
+
+  giant
+
+  misery'
+bip_39_word_new_line8: 'glance
+
+  escape
+
+  live
+
+  fury
+
+  gap
+
+  giant
+
+  misery
+
+  kiss'
+bip_39_word_new_line9: 'glance
+
+  escape
+
+  live
+
+  fury
+
+  gap
+
+  giant
+
+  misery
+
+  kiss
+
+  kite'
+bip_39_word_space_0:
+- glance
+- escape
+- live
+- fury
+- gap
+- giant
+- misery
+- kiss
+- kite
+- alley
+- metal
+- aim
+bip_39_word_space_1: glance
+bip_39_word_space_10: glance escape live fury gap giant misery kiss kite alley
+bip_39_word_space_11: glance escape live fury gap giant misery kiss kite alley metal
+bip_39_word_space_12: glance escape live fury gap giant misery kiss kite alley metal
+  aim
+bip_39_word_space_2: glance escape
+bip_39_word_space_3: glance escape live
+bip_39_word_space_4: glance escape live fury
+bip_39_word_space_5: glance escape live fury gap
+bip_39_word_space_6: glance escape live fury gap giant
+bip_39_word_space_7: glance escape live fury gap giant misery
+bip_39_word_space_8: glance escape live fury gap giant misery kiss
+bip_39_word_space_9: glance escape live fury gap giant misery kiss kite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

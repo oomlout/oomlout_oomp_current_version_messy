@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: t
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oak paddle
+  * bip 39 word 3: oak paddle pitch
+  * bip 39 word: oak paddle pitch hungry visa you arctic junk snake grit fox attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oak |  
+| bip_39_word_new_br10 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you<br>arctic<br>junk<br>snake<br>grit |  
+| bip_39_word_new_br11 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you<br>arctic<br>junk<br>snake<br>grit<br>fox |  
+| bip_39_word_new_br12 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you<br>arctic<br>junk<br>snake<br>grit<br>fox<br>attitude |  
+| bip_39_word_new_br2 | oak<br>paddle |  
+| bip_39_word_new_br3 | oak<br>paddle<br>pitch |  
+| bip_39_word_new_br4 | oak<br>paddle<br>pitch<br>hungry |  
+| bip_39_word_new_br5 | oak<br>paddle<br>pitch<br>hungry<br>visa |  
+| bip_39_word_new_br6 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you |  
+| bip_39_word_new_br7 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you<br>arctic |  
+| bip_39_word_new_br8 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you<br>arctic<br>junk |  
+| bip_39_word_new_br9 | oak<br>paddle<br>pitch<br>hungry<br>visa<br>you<br>arctic<br>junk<br>snake |  
+| bip_39_word_new_line1 | oak |  
+| bip_39_word_new_line10 | oak
+paddle
+pitch
+hungry
+visa
+you
+arctic
+junk
+snake
+grit |  
+| bip_39_word_new_line11 | oak
+paddle
+pitch
+hungry
+visa
+you
+arctic
+junk
+snake
+grit
+fox |  
+| bip_39_word_new_line12 | oak
+paddle
+pitch
+hungry
+visa
+you
+arctic
+junk
+snake
+grit
+fox
+attitude |  
+| bip_39_word_new_line2 | oak
+paddle |  
+| bip_39_word_new_line3 | oak
+paddle
+pitch |  
+| bip_39_word_new_line4 | oak
+paddle
+pitch
+hungry |  
+| bip_39_word_new_line5 | oak
+paddle
+pitch
+hungry
+visa |  
+| bip_39_word_new_line6 | oak
+paddle
+pitch
+hungry
+visa
+you |  
+| bip_39_word_new_line7 | oak
+paddle
+pitch
+hungry
+visa
+you
+arctic |  
+| bip_39_word_new_line8 | oak
+paddle
+pitch
+hungry
+visa
+you
+arctic
+junk |  
+| bip_39_word_new_line9 | oak
+paddle
+pitch
+hungry
+visa
+you
+arctic
+junk
+snake |  
+| bip_39_word_space_0 | ['oak', 'paddle', 'pitch', 'hungry', 'visa', 'you', 'arctic', 'junk', 'snake', 'grit', 'fox', 'attitude'] |  
+| bip_39_word_space_1 | oak |  
+| bip_39_word_space_10 | oak paddle pitch hungry visa you arctic junk snake grit |  
+| bip_39_word_space_11 | oak paddle pitch hungry visa you arctic junk snake grit fox |  
+| bip_39_word_space_12 | oak paddle pitch hungry visa you arctic junk snake grit fox attitude |  
+| bip_39_word_space_2 | oak paddle |  
+| bip_39_word_space_3 | oak paddle pitch |  
+| bip_39_word_space_4 | oak paddle pitch hungry |  
+| bip_39_word_space_5 | oak paddle pitch hungry visa |  
+| bip_39_word_space_6 | oak paddle pitch hungry visa you |  
+| bip_39_word_space_7 | oak paddle pitch hungry visa you arctic |  
+| bip_39_word_space_8 | oak paddle pitch hungry visa you arctic junk |  
+| bip_39_word_space_9 | oak paddle pitch hungry visa you arctic junk snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: devote market
+  * bip 39 word 3: devote market mimic
+  * bip 39 word: devote market mimic strike desk year number devote joy wink faith announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | devote |  
+| bip_39_word_new_br10 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink |  
+| bip_39_word_new_br11 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith |  
+| bip_39_word_new_br12 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith<br>announce |  
+| bip_39_word_new_br2 | devote<br>market |  
+| bip_39_word_new_br3 | devote<br>market<br>mimic |  
+| bip_39_word_new_br4 | devote<br>market<br>mimic<br>strike |  
+| bip_39_word_new_br5 | devote<br>market<br>mimic<br>strike<br>desk |  
+| bip_39_word_new_br6 | devote<br>market<br>mimic<br>strike<br>desk<br>year |  
+| bip_39_word_new_br7 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number |  
+| bip_39_word_new_br8 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote |  
+| bip_39_word_new_br9 | devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy |  
+| bip_39_word_new_line1 | devote |  
+| bip_39_word_new_line10 | devote
+market
+mimic
+strike
+desk
+year
+number
+devote
+joy
+wink |  
+| bip_39_word_new_line11 | devote
+market
+mimic
+strike
+desk
+year
+number
+devote
+joy
+wink
+faith |  
+| bip_39_word_new_line12 | devote
+market
+mimic
+strike
+desk
+year
+number
+devote
+joy
+wink
+faith
+announce |  
+| bip_39_word_new_line2 | devote
+market |  
+| bip_39_word_new_line3 | devote
+market
+mimic |  
+| bip_39_word_new_line4 | devote
+market
+mimic
+strike |  
+| bip_39_word_new_line5 | devote
+market
+mimic
+strike
+desk |  
+| bip_39_word_new_line6 | devote
+market
+mimic
+strike
+desk
+year |  
+| bip_39_word_new_line7 | devote
+market
+mimic
+strike
+desk
+year
+number |  
+| bip_39_word_new_line8 | devote
+market
+mimic
+strike
+desk
+year
+number
+devote |  
+| bip_39_word_new_line9 | devote
+market
+mimic
+strike
+desk
+year
+number
+devote
+joy |  
+| bip_39_word_space_0 | ['devote', 'market', 'mimic', 'strike', 'desk', 'year', 'number', 'devote', 'joy', 'wink', 'faith', 'announce'] |  
+| bip_39_word_space_1 | devote |  
+| bip_39_word_space_10 | devote market mimic strike desk year number devote joy wink |  
+| bip_39_word_space_11 | devote market mimic strike desk year number devote joy wink faith |  
+| bip_39_word_space_12 | devote market mimic strike desk year number devote joy wink faith announce |  
+| bip_39_word_space_2 | devote market |  
+| bip_39_word_space_3 | devote market mimic |  
+| bip_39_word_space_4 | devote market mimic strike |  
+| bip_39_word_space_5 | devote market mimic strike desk |  
+| bip_39_word_space_6 | devote market mimic strike desk year |  
+| bip_39_word_space_7 | devote market mimic strike desk year number |  
+| bip_39_word_space_8 | devote market mimic strike desk year number devote |  
+| bip_39_word_space_9 | devote market mimic strike desk year number devote joy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

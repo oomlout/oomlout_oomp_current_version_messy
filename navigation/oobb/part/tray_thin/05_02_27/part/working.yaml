@@ -1,3 +1,186 @@
+bip_39_word_new_br1: effort
+bip_39_word_new_br10: effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day
+bip_39_word_new_br11: effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day<br>rude
+bip_39_word_new_br12: effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin<br>day<br>rude<br>arctic
+bip_39_word_new_br2: effort<br>venture
+bip_39_word_new_br3: effort<br>venture<br>cliff
+bip_39_word_new_br4: effort<br>venture<br>cliff<br>castle
+bip_39_word_new_br5: effort<br>venture<br>cliff<br>castle<br>edge
+bip_39_word_new_br6: effort<br>venture<br>cliff<br>castle<br>edge<br>betray
+bip_39_word_new_br7: effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice
+bip_39_word_new_br8: effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example
+bip_39_word_new_br9: effort<br>venture<br>cliff<br>castle<br>edge<br>betray<br>ice<br>example<br>twin
+bip_39_word_new_line1: effort
+bip_39_word_new_line10: 'effort
+
+  venture
+
+  cliff
+
+  castle
+
+  edge
+
+  betray
+
+  ice
+
+  example
+
+  twin
+
+  day'
+bip_39_word_new_line11: 'effort
+
+  venture
+
+  cliff
+
+  castle
+
+  edge
+
+  betray
+
+  ice
+
+  example
+
+  twin
+
+  day
+
+  rude'
+bip_39_word_new_line12: 'effort
+
+  venture
+
+  cliff
+
+  castle
+
+  edge
+
+  betray
+
+  ice
+
+  example
+
+  twin
+
+  day
+
+  rude
+
+  arctic'
+bip_39_word_new_line2: 'effort
+
+  venture'
+bip_39_word_new_line3: 'effort
+
+  venture
+
+  cliff'
+bip_39_word_new_line4: 'effort
+
+  venture
+
+  cliff
+
+  castle'
+bip_39_word_new_line5: 'effort
+
+  venture
+
+  cliff
+
+  castle
+
+  edge'
+bip_39_word_new_line6: 'effort
+
+  venture
+
+  cliff
+
+  castle
+
+  edge
+
+  betray'
+bip_39_word_new_line7: 'effort
+
+  venture
+
+  cliff
+
+  castle
+
+  edge
+
+  betray
+
+  ice'
+bip_39_word_new_line8: 'effort
+
+  venture
+
+  cliff
+
+  castle
+
+  edge
+
+  betray
+
+  ice
+
+  example'
+bip_39_word_new_line9: 'effort
+
+  venture
+
+  cliff
+
+  castle
+
+  edge
+
+  betray
+
+  ice
+
+  example
+
+  twin'
+bip_39_word_space_0:
+- effort
+- venture
+- cliff
+- castle
+- edge
+- betray
+- ice
+- example
+- twin
+- day
+- rude
+- arctic
+bip_39_word_space_1: effort
+bip_39_word_space_10: effort venture cliff castle edge betray ice example twin day
+bip_39_word_space_11: effort venture cliff castle edge betray ice example twin day
+  rude
+bip_39_word_space_12: effort venture cliff castle edge betray ice example twin day
+  rude arctic
+bip_39_word_space_2: effort venture
+bip_39_word_space_3: effort venture cliff
+bip_39_word_space_4: effort venture cliff castle
+bip_39_word_space_5: effort venture cliff castle edge
+bip_39_word_space_6: effort venture cliff castle edge betray
+bip_39_word_space_7: effort venture cliff castle edge betray ice
+bip_39_word_space_8: effort venture cliff castle edge betray ice example
+bip_39_word_space_9: effort venture cliff castle edge betray ice example twin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: high
+bip_39_word_new_br10: high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method
+bip_39_word_new_br11: high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method<br>dream
+bip_39_word_new_br12: high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal<br>method<br>dream<br>aisle
+bip_39_word_new_br2: high<br>heart
+bip_39_word_new_br3: high<br>heart<br>safe
+bip_39_word_new_br4: high<br>heart<br>safe<br>regret
+bip_39_word_new_br5: high<br>heart<br>safe<br>regret<br>feel
+bip_39_word_new_br6: high<br>heart<br>safe<br>regret<br>feel<br>device
+bip_39_word_new_br7: high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger
+bip_39_word_new_br8: high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward
+bip_39_word_new_br9: high<br>heart<br>safe<br>regret<br>feel<br>device<br>ginger<br>forward<br>equal
+bip_39_word_new_line1: high
+bip_39_word_new_line10: 'high
+
+  heart
+
+  safe
+
+  regret
+
+  feel
+
+  device
+
+  ginger
+
+  forward
+
+  equal
+
+  method'
+bip_39_word_new_line11: 'high
+
+  heart
+
+  safe
+
+  regret
+
+  feel
+
+  device
+
+  ginger
+
+  forward
+
+  equal
+
+  method
+
+  dream'
+bip_39_word_new_line12: 'high
+
+  heart
+
+  safe
+
+  regret
+
+  feel
+
+  device
+
+  ginger
+
+  forward
+
+  equal
+
+  method
+
+  dream
+
+  aisle'
+bip_39_word_new_line2: 'high
+
+  heart'
+bip_39_word_new_line3: 'high
+
+  heart
+
+  safe'
+bip_39_word_new_line4: 'high
+
+  heart
+
+  safe
+
+  regret'
+bip_39_word_new_line5: 'high
+
+  heart
+
+  safe
+
+  regret
+
+  feel'
+bip_39_word_new_line6: 'high
+
+  heart
+
+  safe
+
+  regret
+
+  feel
+
+  device'
+bip_39_word_new_line7: 'high
+
+  heart
+
+  safe
+
+  regret
+
+  feel
+
+  device
+
+  ginger'
+bip_39_word_new_line8: 'high
+
+  heart
+
+  safe
+
+  regret
+
+  feel
+
+  device
+
+  ginger
+
+  forward'
+bip_39_word_new_line9: 'high
+
+  heart
+
+  safe
+
+  regret
+
+  feel
+
+  device
+
+  ginger
+
+  forward
+
+  equal'
+bip_39_word_space_0:
+- high
+- heart
+- safe
+- regret
+- feel
+- device
+- ginger
+- forward
+- equal
+- method
+- dream
+- aisle
+bip_39_word_space_1: high
+bip_39_word_space_10: high heart safe regret feel device ginger forward equal method
+bip_39_word_space_11: high heart safe regret feel device ginger forward equal method
+  dream
+bip_39_word_space_12: high heart safe regret feel device ginger forward equal method
+  dream aisle
+bip_39_word_space_2: high heart
+bip_39_word_space_3: high heart safe
+bip_39_word_space_4: high heart safe regret
+bip_39_word_space_5: high heart safe regret feel
+bip_39_word_space_6: high heart safe regret feel device
+bip_39_word_space_7: high heart safe regret feel device ginger
+bip_39_word_space_8: high heart safe regret feel device ginger forward
+bip_39_word_space_9: high heart safe regret feel device ginger forward equal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

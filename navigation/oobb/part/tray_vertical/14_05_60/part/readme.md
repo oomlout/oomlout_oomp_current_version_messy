@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: warfare helmet
+  * bip 39 word 3: warfare helmet devote
+  * bip 39 word: warfare helmet devote million cupboard stem benefit before lawsuit traffic update absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | warfare |  
+| bip_39_word_new_br10 | warfare<br>helmet<br>devote<br>million<br>cupboard<br>stem<br>benefit<br>before<br>lawsuit<br>traffic |  
+| bip_39_word_new_br11 | warfare<br>helmet<br>devote<br>million<br>cupboard<br>stem<br>benefit<br>before<br>lawsuit<br>traffic<br>update |  
+| bip_39_word_new_br12 | warfare<br>helmet<br>devote<br>million<br>cupboard<br>stem<br>benefit<br>before<br>lawsuit<br>traffic<br>update<br>absurd |  
+| bip_39_word_new_br2 | warfare<br>helmet |  
+| bip_39_word_new_br3 | warfare<br>helmet<br>devote |  
+| bip_39_word_new_br4 | warfare<br>helmet<br>devote<br>million |  
+| bip_39_word_new_br5 | warfare<br>helmet<br>devote<br>million<br>cupboard |  
+| bip_39_word_new_br6 | warfare<br>helmet<br>devote<br>million<br>cupboard<br>stem |  
+| bip_39_word_new_br7 | warfare<br>helmet<br>devote<br>million<br>cupboard<br>stem<br>benefit |  
+| bip_39_word_new_br8 | warfare<br>helmet<br>devote<br>million<br>cupboard<br>stem<br>benefit<br>before |  
+| bip_39_word_new_br9 | warfare<br>helmet<br>devote<br>million<br>cupboard<br>stem<br>benefit<br>before<br>lawsuit |  
+| bip_39_word_new_line1 | warfare |  
+| bip_39_word_new_line10 | warfare
+helmet
+devote
+million
+cupboard
+stem
+benefit
+before
+lawsuit
+traffic |  
+| bip_39_word_new_line11 | warfare
+helmet
+devote
+million
+cupboard
+stem
+benefit
+before
+lawsuit
+traffic
+update |  
+| bip_39_word_new_line12 | warfare
+helmet
+devote
+million
+cupboard
+stem
+benefit
+before
+lawsuit
+traffic
+update
+absurd |  
+| bip_39_word_new_line2 | warfare
+helmet |  
+| bip_39_word_new_line3 | warfare
+helmet
+devote |  
+| bip_39_word_new_line4 | warfare
+helmet
+devote
+million |  
+| bip_39_word_new_line5 | warfare
+helmet
+devote
+million
+cupboard |  
+| bip_39_word_new_line6 | warfare
+helmet
+devote
+million
+cupboard
+stem |  
+| bip_39_word_new_line7 | warfare
+helmet
+devote
+million
+cupboard
+stem
+benefit |  
+| bip_39_word_new_line8 | warfare
+helmet
+devote
+million
+cupboard
+stem
+benefit
+before |  
+| bip_39_word_new_line9 | warfare
+helmet
+devote
+million
+cupboard
+stem
+benefit
+before
+lawsuit |  
+| bip_39_word_space_0 | ['warfare', 'helmet', 'devote', 'million', 'cupboard', 'stem', 'benefit', 'before', 'lawsuit', 'traffic', 'update', 'absurd'] |  
+| bip_39_word_space_1 | warfare |  
+| bip_39_word_space_10 | warfare helmet devote million cupboard stem benefit before lawsuit traffic |  
+| bip_39_word_space_11 | warfare helmet devote million cupboard stem benefit before lawsuit traffic update |  
+| bip_39_word_space_12 | warfare helmet devote million cupboard stem benefit before lawsuit traffic update absurd |  
+| bip_39_word_space_2 | warfare helmet |  
+| bip_39_word_space_3 | warfare helmet devote |  
+| bip_39_word_space_4 | warfare helmet devote million |  
+| bip_39_word_space_5 | warfare helmet devote million cupboard |  
+| bip_39_word_space_6 | warfare helmet devote million cupboard stem |  
+| bip_39_word_space_7 | warfare helmet devote million cupboard stem benefit |  
+| bip_39_word_space_8 | warfare helmet devote million cupboard stem benefit before |  
+| bip_39_word_space_9 | warfare helmet devote million cupboard stem benefit before lawsuit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

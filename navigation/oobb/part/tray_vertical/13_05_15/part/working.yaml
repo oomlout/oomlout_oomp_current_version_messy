@@ -1,3 +1,186 @@
+bip_39_word_new_br1: divide
+bip_39_word_new_br10: divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial
+bip_39_word_new_br11: divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial<br>describe
+bip_39_word_new_br12: divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word<br>spatial<br>describe<br>audit
+bip_39_word_new_br2: divide<br>simple
+bip_39_word_new_br3: divide<br>simple<br>thumb
+bip_39_word_new_br4: divide<br>simple<br>thumb<br>march
+bip_39_word_new_br5: divide<br>simple<br>thumb<br>march<br>ensure
+bip_39_word_new_br6: divide<br>simple<br>thumb<br>march<br>ensure<br>acquire
+bip_39_word_new_br7: divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when
+bip_39_word_new_br8: divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban
+bip_39_word_new_br9: divide<br>simple<br>thumb<br>march<br>ensure<br>acquire<br>when<br>urban<br>word
+bip_39_word_new_line1: divide
+bip_39_word_new_line10: 'divide
+
+  simple
+
+  thumb
+
+  march
+
+  ensure
+
+  acquire
+
+  when
+
+  urban
+
+  word
+
+  spatial'
+bip_39_word_new_line11: 'divide
+
+  simple
+
+  thumb
+
+  march
+
+  ensure
+
+  acquire
+
+  when
+
+  urban
+
+  word
+
+  spatial
+
+  describe'
+bip_39_word_new_line12: 'divide
+
+  simple
+
+  thumb
+
+  march
+
+  ensure
+
+  acquire
+
+  when
+
+  urban
+
+  word
+
+  spatial
+
+  describe
+
+  audit'
+bip_39_word_new_line2: 'divide
+
+  simple'
+bip_39_word_new_line3: 'divide
+
+  simple
+
+  thumb'
+bip_39_word_new_line4: 'divide
+
+  simple
+
+  thumb
+
+  march'
+bip_39_word_new_line5: 'divide
+
+  simple
+
+  thumb
+
+  march
+
+  ensure'
+bip_39_word_new_line6: 'divide
+
+  simple
+
+  thumb
+
+  march
+
+  ensure
+
+  acquire'
+bip_39_word_new_line7: 'divide
+
+  simple
+
+  thumb
+
+  march
+
+  ensure
+
+  acquire
+
+  when'
+bip_39_word_new_line8: 'divide
+
+  simple
+
+  thumb
+
+  march
+
+  ensure
+
+  acquire
+
+  when
+
+  urban'
+bip_39_word_new_line9: 'divide
+
+  simple
+
+  thumb
+
+  march
+
+  ensure
+
+  acquire
+
+  when
+
+  urban
+
+  word'
+bip_39_word_space_0:
+- divide
+- simple
+- thumb
+- march
+- ensure
+- acquire
+- when
+- urban
+- word
+- spatial
+- describe
+- audit
+bip_39_word_space_1: divide
+bip_39_word_space_10: divide simple thumb march ensure acquire when urban word spatial
+bip_39_word_space_11: divide simple thumb march ensure acquire when urban word spatial
+  describe
+bip_39_word_space_12: divide simple thumb march ensure acquire when urban word spatial
+  describe audit
+bip_39_word_space_2: divide simple
+bip_39_word_space_3: divide simple thumb
+bip_39_word_space_4: divide simple thumb march
+bip_39_word_space_5: divide simple thumb march ensure
+bip_39_word_space_6: divide simple thumb march ensure acquire
+bip_39_word_space_7: divide simple thumb march ensure acquire when
+bip_39_word_space_8: divide simple thumb march ensure acquire when urban
+bip_39_word_space_9: divide simple thumb march ensure acquire when urban word
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

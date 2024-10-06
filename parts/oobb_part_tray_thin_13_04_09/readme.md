@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: saddle hurry
+  * bip 39 word 3: saddle hurry modify
+  * bip 39 word: saddle hurry modify slab pistol blade recall live neither today kitten all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | saddle |  
+| bip_39_word_new_br10 | saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade<br>recall<br>live<br>neither<br>today |  
+| bip_39_word_new_br11 | saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade<br>recall<br>live<br>neither<br>today<br>kitten |  
+| bip_39_word_new_br12 | saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade<br>recall<br>live<br>neither<br>today<br>kitten<br>all |  
+| bip_39_word_new_br2 | saddle<br>hurry |  
+| bip_39_word_new_br3 | saddle<br>hurry<br>modify |  
+| bip_39_word_new_br4 | saddle<br>hurry<br>modify<br>slab |  
+| bip_39_word_new_br5 | saddle<br>hurry<br>modify<br>slab<br>pistol |  
+| bip_39_word_new_br6 | saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade |  
+| bip_39_word_new_br7 | saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade<br>recall |  
+| bip_39_word_new_br8 | saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade<br>recall<br>live |  
+| bip_39_word_new_br9 | saddle<br>hurry<br>modify<br>slab<br>pistol<br>blade<br>recall<br>live<br>neither |  
+| bip_39_word_new_line1 | saddle |  
+| bip_39_word_new_line10 | saddle
+hurry
+modify
+slab
+pistol
+blade
+recall
+live
+neither
+today |  
+| bip_39_word_new_line11 | saddle
+hurry
+modify
+slab
+pistol
+blade
+recall
+live
+neither
+today
+kitten |  
+| bip_39_word_new_line12 | saddle
+hurry
+modify
+slab
+pistol
+blade
+recall
+live
+neither
+today
+kitten
+all |  
+| bip_39_word_new_line2 | saddle
+hurry |  
+| bip_39_word_new_line3 | saddle
+hurry
+modify |  
+| bip_39_word_new_line4 | saddle
+hurry
+modify
+slab |  
+| bip_39_word_new_line5 | saddle
+hurry
+modify
+slab
+pistol |  
+| bip_39_word_new_line6 | saddle
+hurry
+modify
+slab
+pistol
+blade |  
+| bip_39_word_new_line7 | saddle
+hurry
+modify
+slab
+pistol
+blade
+recall |  
+| bip_39_word_new_line8 | saddle
+hurry
+modify
+slab
+pistol
+blade
+recall
+live |  
+| bip_39_word_new_line9 | saddle
+hurry
+modify
+slab
+pistol
+blade
+recall
+live
+neither |  
+| bip_39_word_space_0 | ['saddle', 'hurry', 'modify', 'slab', 'pistol', 'blade', 'recall', 'live', 'neither', 'today', 'kitten', 'all'] |  
+| bip_39_word_space_1 | saddle |  
+| bip_39_word_space_10 | saddle hurry modify slab pistol blade recall live neither today |  
+| bip_39_word_space_11 | saddle hurry modify slab pistol blade recall live neither today kitten |  
+| bip_39_word_space_12 | saddle hurry modify slab pistol blade recall live neither today kitten all |  
+| bip_39_word_space_2 | saddle hurry |  
+| bip_39_word_space_3 | saddle hurry modify |  
+| bip_39_word_space_4 | saddle hurry modify slab |  
+| bip_39_word_space_5 | saddle hurry modify slab pistol |  
+| bip_39_word_space_6 | saddle hurry modify slab pistol blade |  
+| bip_39_word_space_7 | saddle hurry modify slab pistol blade recall |  
+| bip_39_word_space_8 | saddle hurry modify slab pistol blade recall live |  
+| bip_39_word_space_9 | saddle hurry modify slab pistol blade recall live neither |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

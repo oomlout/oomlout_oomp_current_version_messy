@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: problem start
+  * bip 39 word 3: problem start place
+  * bip 39 word: problem start place rib super target lake father visit chaos find army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | problem |  
+| bip_39_word_new_br10 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos |  
+| bip_39_word_new_br11 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos<br>find |  
+| bip_39_word_new_br12 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit<br>chaos<br>find<br>army |  
+| bip_39_word_new_br2 | problem<br>start |  
+| bip_39_word_new_br3 | problem<br>start<br>place |  
+| bip_39_word_new_br4 | problem<br>start<br>place<br>rib |  
+| bip_39_word_new_br5 | problem<br>start<br>place<br>rib<br>super |  
+| bip_39_word_new_br6 | problem<br>start<br>place<br>rib<br>super<br>target |  
+| bip_39_word_new_br7 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake |  
+| bip_39_word_new_br8 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father |  
+| bip_39_word_new_br9 | problem<br>start<br>place<br>rib<br>super<br>target<br>lake<br>father<br>visit |  
+| bip_39_word_new_line1 | problem |  
+| bip_39_word_new_line10 | problem
+start
+place
+rib
+super
+target
+lake
+father
+visit
+chaos |  
+| bip_39_word_new_line11 | problem
+start
+place
+rib
+super
+target
+lake
+father
+visit
+chaos
+find |  
+| bip_39_word_new_line12 | problem
+start
+place
+rib
+super
+target
+lake
+father
+visit
+chaos
+find
+army |  
+| bip_39_word_new_line2 | problem
+start |  
+| bip_39_word_new_line3 | problem
+start
+place |  
+| bip_39_word_new_line4 | problem
+start
+place
+rib |  
+| bip_39_word_new_line5 | problem
+start
+place
+rib
+super |  
+| bip_39_word_new_line6 | problem
+start
+place
+rib
+super
+target |  
+| bip_39_word_new_line7 | problem
+start
+place
+rib
+super
+target
+lake |  
+| bip_39_word_new_line8 | problem
+start
+place
+rib
+super
+target
+lake
+father |  
+| bip_39_word_new_line9 | problem
+start
+place
+rib
+super
+target
+lake
+father
+visit |  
+| bip_39_word_space_0 | ['problem', 'start', 'place', 'rib', 'super', 'target', 'lake', 'father', 'visit', 'chaos', 'find', 'army'] |  
+| bip_39_word_space_1 | problem |  
+| bip_39_word_space_10 | problem start place rib super target lake father visit chaos |  
+| bip_39_word_space_11 | problem start place rib super target lake father visit chaos find |  
+| bip_39_word_space_12 | problem start place rib super target lake father visit chaos find army |  
+| bip_39_word_space_2 | problem start |  
+| bip_39_word_space_3 | problem start place |  
+| bip_39_word_space_4 | problem start place rib |  
+| bip_39_word_space_5 | problem start place rib super |  
+| bip_39_word_space_6 | problem start place rib super target |  
+| bip_39_word_space_7 | problem start place rib super target lake |  
+| bip_39_word_space_8 | problem start place rib super target lake father |  
+| bip_39_word_space_9 | problem start place rib super target lake father visit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

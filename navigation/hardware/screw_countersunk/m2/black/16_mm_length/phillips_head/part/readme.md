@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hunt trade
+  * bip 39 word 3: hunt trade bleak
+  * bip 39 word: hunt trade bleak invest link blind roast believe inflict minimum idle annual
 
 ### other_codes
 * short_code: cs2b16p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hunt |  
+| bip_39_word_new_br10 | hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe<br>inflict<br>minimum |  
+| bip_39_word_new_br11 | hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe<br>inflict<br>minimum<br>idle |  
+| bip_39_word_new_br12 | hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe<br>inflict<br>minimum<br>idle<br>annual |  
+| bip_39_word_new_br2 | hunt<br>trade |  
+| bip_39_word_new_br3 | hunt<br>trade<br>bleak |  
+| bip_39_word_new_br4 | hunt<br>trade<br>bleak<br>invest |  
+| bip_39_word_new_br5 | hunt<br>trade<br>bleak<br>invest<br>link |  
+| bip_39_word_new_br6 | hunt<br>trade<br>bleak<br>invest<br>link<br>blind |  
+| bip_39_word_new_br7 | hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast |  
+| bip_39_word_new_br8 | hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe |  
+| bip_39_word_new_br9 | hunt<br>trade<br>bleak<br>invest<br>link<br>blind<br>roast<br>believe<br>inflict |  
+| bip_39_word_new_line1 | hunt |  
+| bip_39_word_new_line10 | hunt
+trade
+bleak
+invest
+link
+blind
+roast
+believe
+inflict
+minimum |  
+| bip_39_word_new_line11 | hunt
+trade
+bleak
+invest
+link
+blind
+roast
+believe
+inflict
+minimum
+idle |  
+| bip_39_word_new_line12 | hunt
+trade
+bleak
+invest
+link
+blind
+roast
+believe
+inflict
+minimum
+idle
+annual |  
+| bip_39_word_new_line2 | hunt
+trade |  
+| bip_39_word_new_line3 | hunt
+trade
+bleak |  
+| bip_39_word_new_line4 | hunt
+trade
+bleak
+invest |  
+| bip_39_word_new_line5 | hunt
+trade
+bleak
+invest
+link |  
+| bip_39_word_new_line6 | hunt
+trade
+bleak
+invest
+link
+blind |  
+| bip_39_word_new_line7 | hunt
+trade
+bleak
+invest
+link
+blind
+roast |  
+| bip_39_word_new_line8 | hunt
+trade
+bleak
+invest
+link
+blind
+roast
+believe |  
+| bip_39_word_new_line9 | hunt
+trade
+bleak
+invest
+link
+blind
+roast
+believe
+inflict |  
+| bip_39_word_space_0 | ['hunt', 'trade', 'bleak', 'invest', 'link', 'blind', 'roast', 'believe', 'inflict', 'minimum', 'idle', 'annual'] |  
+| bip_39_word_space_1 | hunt |  
+| bip_39_word_space_10 | hunt trade bleak invest link blind roast believe inflict minimum |  
+| bip_39_word_space_11 | hunt trade bleak invest link blind roast believe inflict minimum idle |  
+| bip_39_word_space_12 | hunt trade bleak invest link blind roast believe inflict minimum idle annual |  
+| bip_39_word_space_2 | hunt trade |  
+| bip_39_word_space_3 | hunt trade bleak |  
+| bip_39_word_space_4 | hunt trade bleak invest |  
+| bip_39_word_space_5 | hunt trade bleak invest link |  
+| bip_39_word_space_6 | hunt trade bleak invest link blind |  
+| bip_39_word_space_7 | hunt trade bleak invest link blind roast |  
+| bip_39_word_space_8 | hunt trade bleak invest link blind roast believe |  
+| bip_39_word_space_9 | hunt trade bleak invest link blind roast believe inflict |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

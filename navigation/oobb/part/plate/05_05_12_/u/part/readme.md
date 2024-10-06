@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chapter interest
+  * bip 39 word 3: chapter interest medal
+  * bip 39 word: chapter interest medal earn poem indicate exclude window tongue punch glare ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chapter |  
+| bip_39_word_new_br10 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate<br>exclude<br>window<br>tongue<br>punch |  
+| bip_39_word_new_br11 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate<br>exclude<br>window<br>tongue<br>punch<br>glare |  
+| bip_39_word_new_br12 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate<br>exclude<br>window<br>tongue<br>punch<br>glare<br>ask |  
+| bip_39_word_new_br2 | chapter<br>interest |  
+| bip_39_word_new_br3 | chapter<br>interest<br>medal |  
+| bip_39_word_new_br4 | chapter<br>interest<br>medal<br>earn |  
+| bip_39_word_new_br5 | chapter<br>interest<br>medal<br>earn<br>poem |  
+| bip_39_word_new_br6 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate |  
+| bip_39_word_new_br7 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate<br>exclude |  
+| bip_39_word_new_br8 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate<br>exclude<br>window |  
+| bip_39_word_new_br9 | chapter<br>interest<br>medal<br>earn<br>poem<br>indicate<br>exclude<br>window<br>tongue |  
+| bip_39_word_new_line1 | chapter |  
+| bip_39_word_new_line10 | chapter
+interest
+medal
+earn
+poem
+indicate
+exclude
+window
+tongue
+punch |  
+| bip_39_word_new_line11 | chapter
+interest
+medal
+earn
+poem
+indicate
+exclude
+window
+tongue
+punch
+glare |  
+| bip_39_word_new_line12 | chapter
+interest
+medal
+earn
+poem
+indicate
+exclude
+window
+tongue
+punch
+glare
+ask |  
+| bip_39_word_new_line2 | chapter
+interest |  
+| bip_39_word_new_line3 | chapter
+interest
+medal |  
+| bip_39_word_new_line4 | chapter
+interest
+medal
+earn |  
+| bip_39_word_new_line5 | chapter
+interest
+medal
+earn
+poem |  
+| bip_39_word_new_line6 | chapter
+interest
+medal
+earn
+poem
+indicate |  
+| bip_39_word_new_line7 | chapter
+interest
+medal
+earn
+poem
+indicate
+exclude |  
+| bip_39_word_new_line8 | chapter
+interest
+medal
+earn
+poem
+indicate
+exclude
+window |  
+| bip_39_word_new_line9 | chapter
+interest
+medal
+earn
+poem
+indicate
+exclude
+window
+tongue |  
+| bip_39_word_space_0 | ['chapter', 'interest', 'medal', 'earn', 'poem', 'indicate', 'exclude', 'window', 'tongue', 'punch', 'glare', 'ask'] |  
+| bip_39_word_space_1 | chapter |  
+| bip_39_word_space_10 | chapter interest medal earn poem indicate exclude window tongue punch |  
+| bip_39_word_space_11 | chapter interest medal earn poem indicate exclude window tongue punch glare |  
+| bip_39_word_space_12 | chapter interest medal earn poem indicate exclude window tongue punch glare ask |  
+| bip_39_word_space_2 | chapter interest |  
+| bip_39_word_space_3 | chapter interest medal |  
+| bip_39_word_space_4 | chapter interest medal earn |  
+| bip_39_word_space_5 | chapter interest medal earn poem |  
+| bip_39_word_space_6 | chapter interest medal earn poem indicate |  
+| bip_39_word_space_7 | chapter interest medal earn poem indicate exclude |  
+| bip_39_word_space_8 | chapter interest medal earn poem indicate exclude window |  
+| bip_39_word_space_9 | chapter interest medal earn poem indicate exclude window tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

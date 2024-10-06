@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: author then
+  * bip 39 word 3: author then lock
+  * bip 39 word: author then lock junior true sleep chat deer easy double breeze also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | author |  
+| bip_39_word_new_br10 | author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer<br>easy<br>double |  
+| bip_39_word_new_br11 | author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer<br>easy<br>double<br>breeze |  
+| bip_39_word_new_br12 | author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer<br>easy<br>double<br>breeze<br>also |  
+| bip_39_word_new_br2 | author<br>then |  
+| bip_39_word_new_br3 | author<br>then<br>lock |  
+| bip_39_word_new_br4 | author<br>then<br>lock<br>junior |  
+| bip_39_word_new_br5 | author<br>then<br>lock<br>junior<br>true |  
+| bip_39_word_new_br6 | author<br>then<br>lock<br>junior<br>true<br>sleep |  
+| bip_39_word_new_br7 | author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat |  
+| bip_39_word_new_br8 | author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer |  
+| bip_39_word_new_br9 | author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer<br>easy |  
+| bip_39_word_new_line1 | author |  
+| bip_39_word_new_line10 | author
+then
+lock
+junior
+true
+sleep
+chat
+deer
+easy
+double |  
+| bip_39_word_new_line11 | author
+then
+lock
+junior
+true
+sleep
+chat
+deer
+easy
+double
+breeze |  
+| bip_39_word_new_line12 | author
+then
+lock
+junior
+true
+sleep
+chat
+deer
+easy
+double
+breeze
+also |  
+| bip_39_word_new_line2 | author
+then |  
+| bip_39_word_new_line3 | author
+then
+lock |  
+| bip_39_word_new_line4 | author
+then
+lock
+junior |  
+| bip_39_word_new_line5 | author
+then
+lock
+junior
+true |  
+| bip_39_word_new_line6 | author
+then
+lock
+junior
+true
+sleep |  
+| bip_39_word_new_line7 | author
+then
+lock
+junior
+true
+sleep
+chat |  
+| bip_39_word_new_line8 | author
+then
+lock
+junior
+true
+sleep
+chat
+deer |  
+| bip_39_word_new_line9 | author
+then
+lock
+junior
+true
+sleep
+chat
+deer
+easy |  
+| bip_39_word_space_0 | ['author', 'then', 'lock', 'junior', 'true', 'sleep', 'chat', 'deer', 'easy', 'double', 'breeze', 'also'] |  
+| bip_39_word_space_1 | author |  
+| bip_39_word_space_10 | author then lock junior true sleep chat deer easy double |  
+| bip_39_word_space_11 | author then lock junior true sleep chat deer easy double breeze |  
+| bip_39_word_space_12 | author then lock junior true sleep chat deer easy double breeze also |  
+| bip_39_word_space_2 | author then |  
+| bip_39_word_space_3 | author then lock |  
+| bip_39_word_space_4 | author then lock junior |  
+| bip_39_word_space_5 | author then lock junior true |  
+| bip_39_word_space_6 | author then lock junior true sleep |  
+| bip_39_word_space_7 | author then lock junior true sleep chat |  
+| bip_39_word_space_8 | author then lock junior true sleep chat deer |  
+| bip_39_word_space_9 | author then lock junior true sleep chat deer easy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fly goat
+  * bip 39 word 3: fly goat palm
+  * bip 39 word: fly goat palm sudden balcony glad patch arrange install crime swap afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fly |  
+| bip_39_word_new_br10 | fly<br>goat<br>palm<br>sudden<br>balcony<br>glad<br>patch<br>arrange<br>install<br>crime |  
+| bip_39_word_new_br11 | fly<br>goat<br>palm<br>sudden<br>balcony<br>glad<br>patch<br>arrange<br>install<br>crime<br>swap |  
+| bip_39_word_new_br12 | fly<br>goat<br>palm<br>sudden<br>balcony<br>glad<br>patch<br>arrange<br>install<br>crime<br>swap<br>afraid |  
+| bip_39_word_new_br2 | fly<br>goat |  
+| bip_39_word_new_br3 | fly<br>goat<br>palm |  
+| bip_39_word_new_br4 | fly<br>goat<br>palm<br>sudden |  
+| bip_39_word_new_br5 | fly<br>goat<br>palm<br>sudden<br>balcony |  
+| bip_39_word_new_br6 | fly<br>goat<br>palm<br>sudden<br>balcony<br>glad |  
+| bip_39_word_new_br7 | fly<br>goat<br>palm<br>sudden<br>balcony<br>glad<br>patch |  
+| bip_39_word_new_br8 | fly<br>goat<br>palm<br>sudden<br>balcony<br>glad<br>patch<br>arrange |  
+| bip_39_word_new_br9 | fly<br>goat<br>palm<br>sudden<br>balcony<br>glad<br>patch<br>arrange<br>install |  
+| bip_39_word_new_line1 | fly |  
+| bip_39_word_new_line10 | fly
+goat
+palm
+sudden
+balcony
+glad
+patch
+arrange
+install
+crime |  
+| bip_39_word_new_line11 | fly
+goat
+palm
+sudden
+balcony
+glad
+patch
+arrange
+install
+crime
+swap |  
+| bip_39_word_new_line12 | fly
+goat
+palm
+sudden
+balcony
+glad
+patch
+arrange
+install
+crime
+swap
+afraid |  
+| bip_39_word_new_line2 | fly
+goat |  
+| bip_39_word_new_line3 | fly
+goat
+palm |  
+| bip_39_word_new_line4 | fly
+goat
+palm
+sudden |  
+| bip_39_word_new_line5 | fly
+goat
+palm
+sudden
+balcony |  
+| bip_39_word_new_line6 | fly
+goat
+palm
+sudden
+balcony
+glad |  
+| bip_39_word_new_line7 | fly
+goat
+palm
+sudden
+balcony
+glad
+patch |  
+| bip_39_word_new_line8 | fly
+goat
+palm
+sudden
+balcony
+glad
+patch
+arrange |  
+| bip_39_word_new_line9 | fly
+goat
+palm
+sudden
+balcony
+glad
+patch
+arrange
+install |  
+| bip_39_word_space_0 | ['fly', 'goat', 'palm', 'sudden', 'balcony', 'glad', 'patch', 'arrange', 'install', 'crime', 'swap', 'afraid'] |  
+| bip_39_word_space_1 | fly |  
+| bip_39_word_space_10 | fly goat palm sudden balcony glad patch arrange install crime |  
+| bip_39_word_space_11 | fly goat palm sudden balcony glad patch arrange install crime swap |  
+| bip_39_word_space_12 | fly goat palm sudden balcony glad patch arrange install crime swap afraid |  
+| bip_39_word_space_2 | fly goat |  
+| bip_39_word_space_3 | fly goat palm |  
+| bip_39_word_space_4 | fly goat palm sudden |  
+| bip_39_word_space_5 | fly goat palm sudden balcony |  
+| bip_39_word_space_6 | fly goat palm sudden balcony glad |  
+| bip_39_word_space_7 | fly goat palm sudden balcony glad patch |  
+| bip_39_word_space_8 | fly goat palm sudden balcony glad patch arrange |  
+| bip_39_word_space_9 | fly goat palm sudden balcony glad patch arrange install |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

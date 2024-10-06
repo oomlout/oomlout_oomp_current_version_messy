@@ -1,3 +1,187 @@
+bip_39_word_new_br1: engage
+bip_39_word_new_br10: engage<br>album<br>inquiry<br>sadness<br>neglect<br>dance<br>accident<br>mimic<br>rescue<br>soft
+bip_39_word_new_br11: engage<br>album<br>inquiry<br>sadness<br>neglect<br>dance<br>accident<br>mimic<br>rescue<br>soft<br>raise
+bip_39_word_new_br12: engage<br>album<br>inquiry<br>sadness<br>neglect<br>dance<br>accident<br>mimic<br>rescue<br>soft<br>raise<br>affair
+bip_39_word_new_br2: engage<br>album
+bip_39_word_new_br3: engage<br>album<br>inquiry
+bip_39_word_new_br4: engage<br>album<br>inquiry<br>sadness
+bip_39_word_new_br5: engage<br>album<br>inquiry<br>sadness<br>neglect
+bip_39_word_new_br6: engage<br>album<br>inquiry<br>sadness<br>neglect<br>dance
+bip_39_word_new_br7: engage<br>album<br>inquiry<br>sadness<br>neglect<br>dance<br>accident
+bip_39_word_new_br8: engage<br>album<br>inquiry<br>sadness<br>neglect<br>dance<br>accident<br>mimic
+bip_39_word_new_br9: engage<br>album<br>inquiry<br>sadness<br>neglect<br>dance<br>accident<br>mimic<br>rescue
+bip_39_word_new_line1: engage
+bip_39_word_new_line10: 'engage
+
+  album
+
+  inquiry
+
+  sadness
+
+  neglect
+
+  dance
+
+  accident
+
+  mimic
+
+  rescue
+
+  soft'
+bip_39_word_new_line11: 'engage
+
+  album
+
+  inquiry
+
+  sadness
+
+  neglect
+
+  dance
+
+  accident
+
+  mimic
+
+  rescue
+
+  soft
+
+  raise'
+bip_39_word_new_line12: 'engage
+
+  album
+
+  inquiry
+
+  sadness
+
+  neglect
+
+  dance
+
+  accident
+
+  mimic
+
+  rescue
+
+  soft
+
+  raise
+
+  affair'
+bip_39_word_new_line2: 'engage
+
+  album'
+bip_39_word_new_line3: 'engage
+
+  album
+
+  inquiry'
+bip_39_word_new_line4: 'engage
+
+  album
+
+  inquiry
+
+  sadness'
+bip_39_word_new_line5: 'engage
+
+  album
+
+  inquiry
+
+  sadness
+
+  neglect'
+bip_39_word_new_line6: 'engage
+
+  album
+
+  inquiry
+
+  sadness
+
+  neglect
+
+  dance'
+bip_39_word_new_line7: 'engage
+
+  album
+
+  inquiry
+
+  sadness
+
+  neglect
+
+  dance
+
+  accident'
+bip_39_word_new_line8: 'engage
+
+  album
+
+  inquiry
+
+  sadness
+
+  neglect
+
+  dance
+
+  accident
+
+  mimic'
+bip_39_word_new_line9: 'engage
+
+  album
+
+  inquiry
+
+  sadness
+
+  neglect
+
+  dance
+
+  accident
+
+  mimic
+
+  rescue'
+bip_39_word_space_0:
+- engage
+- album
+- inquiry
+- sadness
+- neglect
+- dance
+- accident
+- mimic
+- rescue
+- soft
+- raise
+- affair
+bip_39_word_space_1: engage
+bip_39_word_space_10: engage album inquiry sadness neglect dance accident mimic rescue
+  soft
+bip_39_word_space_11: engage album inquiry sadness neglect dance accident mimic rescue
+  soft raise
+bip_39_word_space_12: engage album inquiry sadness neglect dance accident mimic rescue
+  soft raise affair
+bip_39_word_space_2: engage album
+bip_39_word_space_3: engage album inquiry
+bip_39_word_space_4: engage album inquiry sadness
+bip_39_word_space_5: engage album inquiry sadness neglect
+bip_39_word_space_6: engage album inquiry sadness neglect dance
+bip_39_word_space_7: engage album inquiry sadness neglect dance accident
+bip_39_word_space_8: engage album inquiry sadness neglect dance accident mimic
+bip_39_word_space_9: engage album inquiry sadness neglect dance accident mimic rescue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fine sense
+  * bip 39 word 3: fine sense tissue
+  * bip 39 word: fine sense tissue term hidden blame dawn exhaust now pulp carpet able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fine |  
+| bip_39_word_new_br10 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame<br>dawn<br>exhaust<br>now<br>pulp |  
+| bip_39_word_new_br11 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame<br>dawn<br>exhaust<br>now<br>pulp<br>carpet |  
+| bip_39_word_new_br12 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame<br>dawn<br>exhaust<br>now<br>pulp<br>carpet<br>able |  
+| bip_39_word_new_br2 | fine<br>sense |  
+| bip_39_word_new_br3 | fine<br>sense<br>tissue |  
+| bip_39_word_new_br4 | fine<br>sense<br>tissue<br>term |  
+| bip_39_word_new_br5 | fine<br>sense<br>tissue<br>term<br>hidden |  
+| bip_39_word_new_br6 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame |  
+| bip_39_word_new_br7 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame<br>dawn |  
+| bip_39_word_new_br8 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame<br>dawn<br>exhaust |  
+| bip_39_word_new_br9 | fine<br>sense<br>tissue<br>term<br>hidden<br>blame<br>dawn<br>exhaust<br>now |  
+| bip_39_word_new_line1 | fine |  
+| bip_39_word_new_line10 | fine
+sense
+tissue
+term
+hidden
+blame
+dawn
+exhaust
+now
+pulp |  
+| bip_39_word_new_line11 | fine
+sense
+tissue
+term
+hidden
+blame
+dawn
+exhaust
+now
+pulp
+carpet |  
+| bip_39_word_new_line12 | fine
+sense
+tissue
+term
+hidden
+blame
+dawn
+exhaust
+now
+pulp
+carpet
+able |  
+| bip_39_word_new_line2 | fine
+sense |  
+| bip_39_word_new_line3 | fine
+sense
+tissue |  
+| bip_39_word_new_line4 | fine
+sense
+tissue
+term |  
+| bip_39_word_new_line5 | fine
+sense
+tissue
+term
+hidden |  
+| bip_39_word_new_line6 | fine
+sense
+tissue
+term
+hidden
+blame |  
+| bip_39_word_new_line7 | fine
+sense
+tissue
+term
+hidden
+blame
+dawn |  
+| bip_39_word_new_line8 | fine
+sense
+tissue
+term
+hidden
+blame
+dawn
+exhaust |  
+| bip_39_word_new_line9 | fine
+sense
+tissue
+term
+hidden
+blame
+dawn
+exhaust
+now |  
+| bip_39_word_space_0 | ['fine', 'sense', 'tissue', 'term', 'hidden', 'blame', 'dawn', 'exhaust', 'now', 'pulp', 'carpet', 'able'] |  
+| bip_39_word_space_1 | fine |  
+| bip_39_word_space_10 | fine sense tissue term hidden blame dawn exhaust now pulp |  
+| bip_39_word_space_11 | fine sense tissue term hidden blame dawn exhaust now pulp carpet |  
+| bip_39_word_space_12 | fine sense tissue term hidden blame dawn exhaust now pulp carpet able |  
+| bip_39_word_space_2 | fine sense |  
+| bip_39_word_space_3 | fine sense tissue |  
+| bip_39_word_space_4 | fine sense tissue term |  
+| bip_39_word_space_5 | fine sense tissue term hidden |  
+| bip_39_word_space_6 | fine sense tissue term hidden blame |  
+| bip_39_word_space_7 | fine sense tissue term hidden blame dawn |  
+| bip_39_word_space_8 | fine sense tissue term hidden blame dawn exhaust |  
+| bip_39_word_space_9 | fine sense tissue term hidden blame dawn exhaust now |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: inform
+bip_39_word_new_br10: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top
+bip_39_word_new_br11: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top<br>cigar
+bip_39_word_new_br12: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle<br>top<br>cigar<br>absorb
+bip_39_word_new_br2: inform<br>mixed
+bip_39_word_new_br3: inform<br>mixed<br>effort
+bip_39_word_new_br4: inform<br>mixed<br>effort<br>hole
+bip_39_word_new_br5: inform<br>mixed<br>effort<br>hole<br>budget
+bip_39_word_new_br6: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake
+bip_39_word_new_br7: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender
+bip_39_word_new_br8: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster
+bip_39_word_new_br9: inform<br>mixed<br>effort<br>hole<br>budget<br>mistake<br>slender<br>hamster<br>cradle
+bip_39_word_new_line1: inform
+bip_39_word_new_line10: 'inform
+
+  mixed
+
+  effort
+
+  hole
+
+  budget
+
+  mistake
+
+  slender
+
+  hamster
+
+  cradle
+
+  top'
+bip_39_word_new_line11: 'inform
+
+  mixed
+
+  effort
+
+  hole
+
+  budget
+
+  mistake
+
+  slender
+
+  hamster
+
+  cradle
+
+  top
+
+  cigar'
+bip_39_word_new_line12: 'inform
+
+  mixed
+
+  effort
+
+  hole
+
+  budget
+
+  mistake
+
+  slender
+
+  hamster
+
+  cradle
+
+  top
+
+  cigar
+
+  absorb'
+bip_39_word_new_line2: 'inform
+
+  mixed'
+bip_39_word_new_line3: 'inform
+
+  mixed
+
+  effort'
+bip_39_word_new_line4: 'inform
+
+  mixed
+
+  effort
+
+  hole'
+bip_39_word_new_line5: 'inform
+
+  mixed
+
+  effort
+
+  hole
+
+  budget'
+bip_39_word_new_line6: 'inform
+
+  mixed
+
+  effort
+
+  hole
+
+  budget
+
+  mistake'
+bip_39_word_new_line7: 'inform
+
+  mixed
+
+  effort
+
+  hole
+
+  budget
+
+  mistake
+
+  slender'
+bip_39_word_new_line8: 'inform
+
+  mixed
+
+  effort
+
+  hole
+
+  budget
+
+  mistake
+
+  slender
+
+  hamster'
+bip_39_word_new_line9: 'inform
+
+  mixed
+
+  effort
+
+  hole
+
+  budget
+
+  mistake
+
+  slender
+
+  hamster
+
+  cradle'
+bip_39_word_space_0:
+- inform
+- mixed
+- effort
+- hole
+- budget
+- mistake
+- slender
+- hamster
+- cradle
+- top
+- cigar
+- absorb
+bip_39_word_space_1: inform
+bip_39_word_space_10: inform mixed effort hole budget mistake slender hamster cradle
+  top
+bip_39_word_space_11: inform mixed effort hole budget mistake slender hamster cradle
+  top cigar
+bip_39_word_space_12: inform mixed effort hole budget mistake slender hamster cradle
+  top cigar absorb
+bip_39_word_space_2: inform mixed
+bip_39_word_space_3: inform mixed effort
+bip_39_word_space_4: inform mixed effort hole
+bip_39_word_space_5: inform mixed effort hole budget
+bip_39_word_space_6: inform mixed effort hole budget mistake
+bip_39_word_space_7: inform mixed effort hole budget mistake slender
+bip_39_word_space_8: inform mixed effort hole budget mistake slender hamster
+bip_39_word_space_9: inform mixed effort hole budget mistake slender hamster cradle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

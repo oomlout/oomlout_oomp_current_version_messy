@@ -1,3 +1,187 @@
+bip_39_word_new_br1: surprise
+bip_39_word_new_br10: surprise<br>digital<br>advance<br>hire<br>enforce<br>agent<br>south<br>accuse<br>simple<br>blur
+bip_39_word_new_br11: surprise<br>digital<br>advance<br>hire<br>enforce<br>agent<br>south<br>accuse<br>simple<br>blur<br>release
+bip_39_word_new_br12: surprise<br>digital<br>advance<br>hire<br>enforce<br>agent<br>south<br>accuse<br>simple<br>blur<br>release<br>amount
+bip_39_word_new_br2: surprise<br>digital
+bip_39_word_new_br3: surprise<br>digital<br>advance
+bip_39_word_new_br4: surprise<br>digital<br>advance<br>hire
+bip_39_word_new_br5: surprise<br>digital<br>advance<br>hire<br>enforce
+bip_39_word_new_br6: surprise<br>digital<br>advance<br>hire<br>enforce<br>agent
+bip_39_word_new_br7: surprise<br>digital<br>advance<br>hire<br>enforce<br>agent<br>south
+bip_39_word_new_br8: surprise<br>digital<br>advance<br>hire<br>enforce<br>agent<br>south<br>accuse
+bip_39_word_new_br9: surprise<br>digital<br>advance<br>hire<br>enforce<br>agent<br>south<br>accuse<br>simple
+bip_39_word_new_line1: surprise
+bip_39_word_new_line10: 'surprise
+
+  digital
+
+  advance
+
+  hire
+
+  enforce
+
+  agent
+
+  south
+
+  accuse
+
+  simple
+
+  blur'
+bip_39_word_new_line11: 'surprise
+
+  digital
+
+  advance
+
+  hire
+
+  enforce
+
+  agent
+
+  south
+
+  accuse
+
+  simple
+
+  blur
+
+  release'
+bip_39_word_new_line12: 'surprise
+
+  digital
+
+  advance
+
+  hire
+
+  enforce
+
+  agent
+
+  south
+
+  accuse
+
+  simple
+
+  blur
+
+  release
+
+  amount'
+bip_39_word_new_line2: 'surprise
+
+  digital'
+bip_39_word_new_line3: 'surprise
+
+  digital
+
+  advance'
+bip_39_word_new_line4: 'surprise
+
+  digital
+
+  advance
+
+  hire'
+bip_39_word_new_line5: 'surprise
+
+  digital
+
+  advance
+
+  hire
+
+  enforce'
+bip_39_word_new_line6: 'surprise
+
+  digital
+
+  advance
+
+  hire
+
+  enforce
+
+  agent'
+bip_39_word_new_line7: 'surprise
+
+  digital
+
+  advance
+
+  hire
+
+  enforce
+
+  agent
+
+  south'
+bip_39_word_new_line8: 'surprise
+
+  digital
+
+  advance
+
+  hire
+
+  enforce
+
+  agent
+
+  south
+
+  accuse'
+bip_39_word_new_line9: 'surprise
+
+  digital
+
+  advance
+
+  hire
+
+  enforce
+
+  agent
+
+  south
+
+  accuse
+
+  simple'
+bip_39_word_space_0:
+- surprise
+- digital
+- advance
+- hire
+- enforce
+- agent
+- south
+- accuse
+- simple
+- blur
+- release
+- amount
+bip_39_word_space_1: surprise
+bip_39_word_space_10: surprise digital advance hire enforce agent south accuse simple
+  blur
+bip_39_word_space_11: surprise digital advance hire enforce agent south accuse simple
+  blur release
+bip_39_word_space_12: surprise digital advance hire enforce agent south accuse simple
+  blur release amount
+bip_39_word_space_2: surprise digital
+bip_39_word_space_3: surprise digital advance
+bip_39_word_space_4: surprise digital advance hire
+bip_39_word_space_5: surprise digital advance hire enforce
+bip_39_word_space_6: surprise digital advance hire enforce agent
+bip_39_word_space_7: surprise digital advance hire enforce agent south
+bip_39_word_space_8: surprise digital advance hire enforce agent south accuse
+bip_39_word_space_9: surprise digital advance hire enforce agent south accuse simple
 classification: tool
 classification_capital: Tool
 classification_first_letter: t

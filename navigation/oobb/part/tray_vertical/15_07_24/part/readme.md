@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: middle river
+  * bip 39 word 3: middle river cancel
+  * bip 39 word: middle river cancel arctic birth hazard burden amused giraffe snap gossip advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | middle |  
+| bip_39_word_new_br10 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard<br>burden<br>amused<br>giraffe<br>snap |  
+| bip_39_word_new_br11 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard<br>burden<br>amused<br>giraffe<br>snap<br>gossip |  
+| bip_39_word_new_br12 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard<br>burden<br>amused<br>giraffe<br>snap<br>gossip<br>advice |  
+| bip_39_word_new_br2 | middle<br>river |  
+| bip_39_word_new_br3 | middle<br>river<br>cancel |  
+| bip_39_word_new_br4 | middle<br>river<br>cancel<br>arctic |  
+| bip_39_word_new_br5 | middle<br>river<br>cancel<br>arctic<br>birth |  
+| bip_39_word_new_br6 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard |  
+| bip_39_word_new_br7 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard<br>burden |  
+| bip_39_word_new_br8 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard<br>burden<br>amused |  
+| bip_39_word_new_br9 | middle<br>river<br>cancel<br>arctic<br>birth<br>hazard<br>burden<br>amused<br>giraffe |  
+| bip_39_word_new_line1 | middle |  
+| bip_39_word_new_line10 | middle
+river
+cancel
+arctic
+birth
+hazard
+burden
+amused
+giraffe
+snap |  
+| bip_39_word_new_line11 | middle
+river
+cancel
+arctic
+birth
+hazard
+burden
+amused
+giraffe
+snap
+gossip |  
+| bip_39_word_new_line12 | middle
+river
+cancel
+arctic
+birth
+hazard
+burden
+amused
+giraffe
+snap
+gossip
+advice |  
+| bip_39_word_new_line2 | middle
+river |  
+| bip_39_word_new_line3 | middle
+river
+cancel |  
+| bip_39_word_new_line4 | middle
+river
+cancel
+arctic |  
+| bip_39_word_new_line5 | middle
+river
+cancel
+arctic
+birth |  
+| bip_39_word_new_line6 | middle
+river
+cancel
+arctic
+birth
+hazard |  
+| bip_39_word_new_line7 | middle
+river
+cancel
+arctic
+birth
+hazard
+burden |  
+| bip_39_word_new_line8 | middle
+river
+cancel
+arctic
+birth
+hazard
+burden
+amused |  
+| bip_39_word_new_line9 | middle
+river
+cancel
+arctic
+birth
+hazard
+burden
+amused
+giraffe |  
+| bip_39_word_space_0 | ['middle', 'river', 'cancel', 'arctic', 'birth', 'hazard', 'burden', 'amused', 'giraffe', 'snap', 'gossip', 'advice'] |  
+| bip_39_word_space_1 | middle |  
+| bip_39_word_space_10 | middle river cancel arctic birth hazard burden amused giraffe snap |  
+| bip_39_word_space_11 | middle river cancel arctic birth hazard burden amused giraffe snap gossip |  
+| bip_39_word_space_12 | middle river cancel arctic birth hazard burden amused giraffe snap gossip advice |  
+| bip_39_word_space_2 | middle river |  
+| bip_39_word_space_3 | middle river cancel |  
+| bip_39_word_space_4 | middle river cancel arctic |  
+| bip_39_word_space_5 | middle river cancel arctic birth |  
+| bip_39_word_space_6 | middle river cancel arctic birth hazard |  
+| bip_39_word_space_7 | middle river cancel arctic birth hazard burden |  
+| bip_39_word_space_8 | middle river cancel arctic birth hazard burden amused |  
+| bip_39_word_space_9 | middle river cancel arctic birth hazard burden amused giraffe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: artwork
+bip_39_word_new_br10: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock<br>multiply<br>manage<br>humor<br>job
+bip_39_word_new_br11: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock<br>multiply<br>manage<br>humor<br>job<br>blame
+bip_39_word_new_br12: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock<br>multiply<br>manage<br>humor<br>job<br>blame<br>annual
+bip_39_word_new_br2: artwork<br>link
+bip_39_word_new_br3: artwork<br>link<br>nephew
+bip_39_word_new_br4: artwork<br>link<br>nephew<br>fantasy
+bip_39_word_new_br5: artwork<br>link<br>nephew<br>fantasy<br>celery
+bip_39_word_new_br6: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock
+bip_39_word_new_br7: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock<br>multiply
+bip_39_word_new_br8: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock<br>multiply<br>manage
+bip_39_word_new_br9: artwork<br>link<br>nephew<br>fantasy<br>celery<br>clock<br>multiply<br>manage<br>humor
+bip_39_word_new_line1: artwork
+bip_39_word_new_line10: 'artwork
+
+  link
+
+  nephew
+
+  fantasy
+
+  celery
+
+  clock
+
+  multiply
+
+  manage
+
+  humor
+
+  job'
+bip_39_word_new_line11: 'artwork
+
+  link
+
+  nephew
+
+  fantasy
+
+  celery
+
+  clock
+
+  multiply
+
+  manage
+
+  humor
+
+  job
+
+  blame'
+bip_39_word_new_line12: 'artwork
+
+  link
+
+  nephew
+
+  fantasy
+
+  celery
+
+  clock
+
+  multiply
+
+  manage
+
+  humor
+
+  job
+
+  blame
+
+  annual'
+bip_39_word_new_line2: 'artwork
+
+  link'
+bip_39_word_new_line3: 'artwork
+
+  link
+
+  nephew'
+bip_39_word_new_line4: 'artwork
+
+  link
+
+  nephew
+
+  fantasy'
+bip_39_word_new_line5: 'artwork
+
+  link
+
+  nephew
+
+  fantasy
+
+  celery'
+bip_39_word_new_line6: 'artwork
+
+  link
+
+  nephew
+
+  fantasy
+
+  celery
+
+  clock'
+bip_39_word_new_line7: 'artwork
+
+  link
+
+  nephew
+
+  fantasy
+
+  celery
+
+  clock
+
+  multiply'
+bip_39_word_new_line8: 'artwork
+
+  link
+
+  nephew
+
+  fantasy
+
+  celery
+
+  clock
+
+  multiply
+
+  manage'
+bip_39_word_new_line9: 'artwork
+
+  link
+
+  nephew
+
+  fantasy
+
+  celery
+
+  clock
+
+  multiply
+
+  manage
+
+  humor'
+bip_39_word_space_0:
+- artwork
+- link
+- nephew
+- fantasy
+- celery
+- clock
+- multiply
+- manage
+- humor
+- job
+- blame
+- annual
+bip_39_word_space_1: artwork
+bip_39_word_space_10: artwork link nephew fantasy celery clock multiply manage humor
+  job
+bip_39_word_space_11: artwork link nephew fantasy celery clock multiply manage humor
+  job blame
+bip_39_word_space_12: artwork link nephew fantasy celery clock multiply manage humor
+  job blame annual
+bip_39_word_space_2: artwork link
+bip_39_word_space_3: artwork link nephew
+bip_39_word_space_4: artwork link nephew fantasy
+bip_39_word_space_5: artwork link nephew fantasy celery
+bip_39_word_space_6: artwork link nephew fantasy celery clock
+bip_39_word_space_7: artwork link nephew fantasy celery clock multiply
+bip_39_word_space_8: artwork link nephew fantasy celery clock multiply manage
+bip_39_word_space_9: artwork link nephew fantasy celery clock multiply manage humor
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

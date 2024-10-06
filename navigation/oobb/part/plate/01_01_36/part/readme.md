@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hockey age
+  * bip 39 word 3: hockey age gravity
+  * bip 39 word: hockey age gravity perfect rich reject spoil hero canal fee mixture aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hockey |  
+| bip_39_word_new_br10 | hockey<br>age<br>gravity<br>perfect<br>rich<br>reject<br>spoil<br>hero<br>canal<br>fee |  
+| bip_39_word_new_br11 | hockey<br>age<br>gravity<br>perfect<br>rich<br>reject<br>spoil<br>hero<br>canal<br>fee<br>mixture |  
+| bip_39_word_new_br12 | hockey<br>age<br>gravity<br>perfect<br>rich<br>reject<br>spoil<br>hero<br>canal<br>fee<br>mixture<br>aunt |  
+| bip_39_word_new_br2 | hockey<br>age |  
+| bip_39_word_new_br3 | hockey<br>age<br>gravity |  
+| bip_39_word_new_br4 | hockey<br>age<br>gravity<br>perfect |  
+| bip_39_word_new_br5 | hockey<br>age<br>gravity<br>perfect<br>rich |  
+| bip_39_word_new_br6 | hockey<br>age<br>gravity<br>perfect<br>rich<br>reject |  
+| bip_39_word_new_br7 | hockey<br>age<br>gravity<br>perfect<br>rich<br>reject<br>spoil |  
+| bip_39_word_new_br8 | hockey<br>age<br>gravity<br>perfect<br>rich<br>reject<br>spoil<br>hero |  
+| bip_39_word_new_br9 | hockey<br>age<br>gravity<br>perfect<br>rich<br>reject<br>spoil<br>hero<br>canal |  
+| bip_39_word_new_line1 | hockey |  
+| bip_39_word_new_line10 | hockey
+age
+gravity
+perfect
+rich
+reject
+spoil
+hero
+canal
+fee |  
+| bip_39_word_new_line11 | hockey
+age
+gravity
+perfect
+rich
+reject
+spoil
+hero
+canal
+fee
+mixture |  
+| bip_39_word_new_line12 | hockey
+age
+gravity
+perfect
+rich
+reject
+spoil
+hero
+canal
+fee
+mixture
+aunt |  
+| bip_39_word_new_line2 | hockey
+age |  
+| bip_39_word_new_line3 | hockey
+age
+gravity |  
+| bip_39_word_new_line4 | hockey
+age
+gravity
+perfect |  
+| bip_39_word_new_line5 | hockey
+age
+gravity
+perfect
+rich |  
+| bip_39_word_new_line6 | hockey
+age
+gravity
+perfect
+rich
+reject |  
+| bip_39_word_new_line7 | hockey
+age
+gravity
+perfect
+rich
+reject
+spoil |  
+| bip_39_word_new_line8 | hockey
+age
+gravity
+perfect
+rich
+reject
+spoil
+hero |  
+| bip_39_word_new_line9 | hockey
+age
+gravity
+perfect
+rich
+reject
+spoil
+hero
+canal |  
+| bip_39_word_space_0 | ['hockey', 'age', 'gravity', 'perfect', 'rich', 'reject', 'spoil', 'hero', 'canal', 'fee', 'mixture', 'aunt'] |  
+| bip_39_word_space_1 | hockey |  
+| bip_39_word_space_10 | hockey age gravity perfect rich reject spoil hero canal fee |  
+| bip_39_word_space_11 | hockey age gravity perfect rich reject spoil hero canal fee mixture |  
+| bip_39_word_space_12 | hockey age gravity perfect rich reject spoil hero canal fee mixture aunt |  
+| bip_39_word_space_2 | hockey age |  
+| bip_39_word_space_3 | hockey age gravity |  
+| bip_39_word_space_4 | hockey age gravity perfect |  
+| bip_39_word_space_5 | hockey age gravity perfect rich |  
+| bip_39_word_space_6 | hockey age gravity perfect rich reject |  
+| bip_39_word_space_7 | hockey age gravity perfect rich reject spoil |  
+| bip_39_word_space_8 | hockey age gravity perfect rich reject spoil hero |  
+| bip_39_word_space_9 | hockey age gravity perfect rich reject spoil hero canal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

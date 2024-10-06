@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: divorce brick
+  * bip 39 word 3: divorce brick atom
+  * bip 39 word: divorce brick atom upper talent left renew tail pupil mandate below approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | divorce |  
+| bip_39_word_new_br10 | divorce<br>brick<br>atom<br>upper<br>talent<br>left<br>renew<br>tail<br>pupil<br>mandate |  
+| bip_39_word_new_br11 | divorce<br>brick<br>atom<br>upper<br>talent<br>left<br>renew<br>tail<br>pupil<br>mandate<br>below |  
+| bip_39_word_new_br12 | divorce<br>brick<br>atom<br>upper<br>talent<br>left<br>renew<br>tail<br>pupil<br>mandate<br>below<br>approve |  
+| bip_39_word_new_br2 | divorce<br>brick |  
+| bip_39_word_new_br3 | divorce<br>brick<br>atom |  
+| bip_39_word_new_br4 | divorce<br>brick<br>atom<br>upper |  
+| bip_39_word_new_br5 | divorce<br>brick<br>atom<br>upper<br>talent |  
+| bip_39_word_new_br6 | divorce<br>brick<br>atom<br>upper<br>talent<br>left |  
+| bip_39_word_new_br7 | divorce<br>brick<br>atom<br>upper<br>talent<br>left<br>renew |  
+| bip_39_word_new_br8 | divorce<br>brick<br>atom<br>upper<br>talent<br>left<br>renew<br>tail |  
+| bip_39_word_new_br9 | divorce<br>brick<br>atom<br>upper<br>talent<br>left<br>renew<br>tail<br>pupil |  
+| bip_39_word_new_line1 | divorce |  
+| bip_39_word_new_line10 | divorce
+brick
+atom
+upper
+talent
+left
+renew
+tail
+pupil
+mandate |  
+| bip_39_word_new_line11 | divorce
+brick
+atom
+upper
+talent
+left
+renew
+tail
+pupil
+mandate
+below |  
+| bip_39_word_new_line12 | divorce
+brick
+atom
+upper
+talent
+left
+renew
+tail
+pupil
+mandate
+below
+approve |  
+| bip_39_word_new_line2 | divorce
+brick |  
+| bip_39_word_new_line3 | divorce
+brick
+atom |  
+| bip_39_word_new_line4 | divorce
+brick
+atom
+upper |  
+| bip_39_word_new_line5 | divorce
+brick
+atom
+upper
+talent |  
+| bip_39_word_new_line6 | divorce
+brick
+atom
+upper
+talent
+left |  
+| bip_39_word_new_line7 | divorce
+brick
+atom
+upper
+talent
+left
+renew |  
+| bip_39_word_new_line8 | divorce
+brick
+atom
+upper
+talent
+left
+renew
+tail |  
+| bip_39_word_new_line9 | divorce
+brick
+atom
+upper
+talent
+left
+renew
+tail
+pupil |  
+| bip_39_word_space_0 | ['divorce', 'brick', 'atom', 'upper', 'talent', 'left', 'renew', 'tail', 'pupil', 'mandate', 'below', 'approve'] |  
+| bip_39_word_space_1 | divorce |  
+| bip_39_word_space_10 | divorce brick atom upper talent left renew tail pupil mandate |  
+| bip_39_word_space_11 | divorce brick atom upper talent left renew tail pupil mandate below |  
+| bip_39_word_space_12 | divorce brick atom upper talent left renew tail pupil mandate below approve |  
+| bip_39_word_space_2 | divorce brick |  
+| bip_39_word_space_3 | divorce brick atom |  
+| bip_39_word_space_4 | divorce brick atom upper |  
+| bip_39_word_space_5 | divorce brick atom upper talent |  
+| bip_39_word_space_6 | divorce brick atom upper talent left |  
+| bip_39_word_space_7 | divorce brick atom upper talent left renew |  
+| bip_39_word_space_8 | divorce brick atom upper talent left renew tail |  
+| bip_39_word_space_9 | divorce brick atom upper talent left renew tail pupil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rack usage
+  * bip 39 word 3: rack usage human
+  * bip 39 word: rack usage human one network unhappy maple want sail join market assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rack |  
+| bip_39_word_new_br10 | rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want<br>sail<br>join |  
+| bip_39_word_new_br11 | rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want<br>sail<br>join<br>market |  
+| bip_39_word_new_br12 | rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want<br>sail<br>join<br>market<br>assault |  
+| bip_39_word_new_br2 | rack<br>usage |  
+| bip_39_word_new_br3 | rack<br>usage<br>human |  
+| bip_39_word_new_br4 | rack<br>usage<br>human<br>one |  
+| bip_39_word_new_br5 | rack<br>usage<br>human<br>one<br>network |  
+| bip_39_word_new_br6 | rack<br>usage<br>human<br>one<br>network<br>unhappy |  
+| bip_39_word_new_br7 | rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple |  
+| bip_39_word_new_br8 | rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want |  
+| bip_39_word_new_br9 | rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want<br>sail |  
+| bip_39_word_new_line1 | rack |  
+| bip_39_word_new_line10 | rack
+usage
+human
+one
+network
+unhappy
+maple
+want
+sail
+join |  
+| bip_39_word_new_line11 | rack
+usage
+human
+one
+network
+unhappy
+maple
+want
+sail
+join
+market |  
+| bip_39_word_new_line12 | rack
+usage
+human
+one
+network
+unhappy
+maple
+want
+sail
+join
+market
+assault |  
+| bip_39_word_new_line2 | rack
+usage |  
+| bip_39_word_new_line3 | rack
+usage
+human |  
+| bip_39_word_new_line4 | rack
+usage
+human
+one |  
+| bip_39_word_new_line5 | rack
+usage
+human
+one
+network |  
+| bip_39_word_new_line6 | rack
+usage
+human
+one
+network
+unhappy |  
+| bip_39_word_new_line7 | rack
+usage
+human
+one
+network
+unhappy
+maple |  
+| bip_39_word_new_line8 | rack
+usage
+human
+one
+network
+unhappy
+maple
+want |  
+| bip_39_word_new_line9 | rack
+usage
+human
+one
+network
+unhappy
+maple
+want
+sail |  
+| bip_39_word_space_0 | ['rack', 'usage', 'human', 'one', 'network', 'unhappy', 'maple', 'want', 'sail', 'join', 'market', 'assault'] |  
+| bip_39_word_space_1 | rack |  
+| bip_39_word_space_10 | rack usage human one network unhappy maple want sail join |  
+| bip_39_word_space_11 | rack usage human one network unhappy maple want sail join market |  
+| bip_39_word_space_12 | rack usage human one network unhappy maple want sail join market assault |  
+| bip_39_word_space_2 | rack usage |  
+| bip_39_word_space_3 | rack usage human |  
+| bip_39_word_space_4 | rack usage human one |  
+| bip_39_word_space_5 | rack usage human one network |  
+| bip_39_word_space_6 | rack usage human one network unhappy |  
+| bip_39_word_space_7 | rack usage human one network unhappy maple |  
+| bip_39_word_space_8 | rack usage human one network unhappy maple want |  
+| bip_39_word_space_9 | rack usage human one network unhappy maple want sail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

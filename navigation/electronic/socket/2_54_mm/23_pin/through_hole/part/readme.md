@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tooth purpose
+  * bip 39 word 3: tooth purpose page
+  * bip 39 word: tooth purpose page jelly any dumb ankle rude purity route dilemma avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tooth |  
+| bip_39_word_new_br10 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb<br>ankle<br>rude<br>purity<br>route |  
+| bip_39_word_new_br11 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb<br>ankle<br>rude<br>purity<br>route<br>dilemma |  
+| bip_39_word_new_br12 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb<br>ankle<br>rude<br>purity<br>route<br>dilemma<br>avocado |  
+| bip_39_word_new_br2 | tooth<br>purpose |  
+| bip_39_word_new_br3 | tooth<br>purpose<br>page |  
+| bip_39_word_new_br4 | tooth<br>purpose<br>page<br>jelly |  
+| bip_39_word_new_br5 | tooth<br>purpose<br>page<br>jelly<br>any |  
+| bip_39_word_new_br6 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb |  
+| bip_39_word_new_br7 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb<br>ankle |  
+| bip_39_word_new_br8 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb<br>ankle<br>rude |  
+| bip_39_word_new_br9 | tooth<br>purpose<br>page<br>jelly<br>any<br>dumb<br>ankle<br>rude<br>purity |  
+| bip_39_word_new_line1 | tooth |  
+| bip_39_word_new_line10 | tooth
+purpose
+page
+jelly
+any
+dumb
+ankle
+rude
+purity
+route |  
+| bip_39_word_new_line11 | tooth
+purpose
+page
+jelly
+any
+dumb
+ankle
+rude
+purity
+route
+dilemma |  
+| bip_39_word_new_line12 | tooth
+purpose
+page
+jelly
+any
+dumb
+ankle
+rude
+purity
+route
+dilemma
+avocado |  
+| bip_39_word_new_line2 | tooth
+purpose |  
+| bip_39_word_new_line3 | tooth
+purpose
+page |  
+| bip_39_word_new_line4 | tooth
+purpose
+page
+jelly |  
+| bip_39_word_new_line5 | tooth
+purpose
+page
+jelly
+any |  
+| bip_39_word_new_line6 | tooth
+purpose
+page
+jelly
+any
+dumb |  
+| bip_39_word_new_line7 | tooth
+purpose
+page
+jelly
+any
+dumb
+ankle |  
+| bip_39_word_new_line8 | tooth
+purpose
+page
+jelly
+any
+dumb
+ankle
+rude |  
+| bip_39_word_new_line9 | tooth
+purpose
+page
+jelly
+any
+dumb
+ankle
+rude
+purity |  
+| bip_39_word_space_0 | ['tooth', 'purpose', 'page', 'jelly', 'any', 'dumb', 'ankle', 'rude', 'purity', 'route', 'dilemma', 'avocado'] |  
+| bip_39_word_space_1 | tooth |  
+| bip_39_word_space_10 | tooth purpose page jelly any dumb ankle rude purity route |  
+| bip_39_word_space_11 | tooth purpose page jelly any dumb ankle rude purity route dilemma |  
+| bip_39_word_space_12 | tooth purpose page jelly any dumb ankle rude purity route dilemma avocado |  
+| bip_39_word_space_2 | tooth purpose |  
+| bip_39_word_space_3 | tooth purpose page |  
+| bip_39_word_space_4 | tooth purpose page jelly |  
+| bip_39_word_space_5 | tooth purpose page jelly any |  
+| bip_39_word_space_6 | tooth purpose page jelly any dumb |  
+| bip_39_word_space_7 | tooth purpose page jelly any dumb ankle |  
+| bip_39_word_space_8 | tooth purpose page jelly any dumb ankle rude |  
+| bip_39_word_space_9 | tooth purpose page jelly any dumb ankle rude purity |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

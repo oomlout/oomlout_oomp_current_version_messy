@@ -1,3 +1,185 @@
+bip_39_word_new_br1: noise
+bip_39_word_new_br10: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge
+bip_39_word_new_br11: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge<br>nest
+bip_39_word_new_br12: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge<br>nest<br>amateur
+bip_39_word_new_br2: noise<br>region
+bip_39_word_new_br3: noise<br>region<br>alpha
+bip_39_word_new_br4: noise<br>region<br>alpha<br>soul
+bip_39_word_new_br5: noise<br>region<br>alpha<br>soul<br>sand
+bip_39_word_new_br6: noise<br>region<br>alpha<br>soul<br>sand<br>around
+bip_39_word_new_br7: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely
+bip_39_word_new_br8: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb
+bip_39_word_new_br9: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold
+bip_39_word_new_line1: noise
+bip_39_word_new_line10: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb
+
+  fold
+
+  edge'
+bip_39_word_new_line11: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb
+
+  fold
+
+  edge
+
+  nest'
+bip_39_word_new_line12: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb
+
+  fold
+
+  edge
+
+  nest
+
+  amateur'
+bip_39_word_new_line2: 'noise
+
+  region'
+bip_39_word_new_line3: 'noise
+
+  region
+
+  alpha'
+bip_39_word_new_line4: 'noise
+
+  region
+
+  alpha
+
+  soul'
+bip_39_word_new_line5: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand'
+bip_39_word_new_line6: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around'
+bip_39_word_new_line7: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely'
+bip_39_word_new_line8: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb'
+bip_39_word_new_line9: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb
+
+  fold'
+bip_39_word_space_0:
+- noise
+- region
+- alpha
+- soul
+- sand
+- around
+- lonely
+- climb
+- fold
+- edge
+- nest
+- amateur
+bip_39_word_space_1: noise
+bip_39_word_space_10: noise region alpha soul sand around lonely climb fold edge
+bip_39_word_space_11: noise region alpha soul sand around lonely climb fold edge nest
+bip_39_word_space_12: noise region alpha soul sand around lonely climb fold edge nest
+  amateur
+bip_39_word_space_2: noise region
+bip_39_word_space_3: noise region alpha
+bip_39_word_space_4: noise region alpha soul
+bip_39_word_space_5: noise region alpha soul sand
+bip_39_word_space_6: noise region alpha soul sand around
+bip_39_word_space_7: noise region alpha soul sand around lonely
+bip_39_word_space_8: noise region alpha soul sand around lonely climb
+bip_39_word_space_9: noise region alpha soul sand around lonely climb fold
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

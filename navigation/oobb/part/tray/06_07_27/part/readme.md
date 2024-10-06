@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hurry shuffle
+  * bip 39 word 3: hurry shuffle eight
+  * bip 39 word: hurry shuffle eight interest decade trade bulb bring tired home fence asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hurry |  
+| bip_39_word_new_br10 | hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired<br>home |  
+| bip_39_word_new_br11 | hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired<br>home<br>fence |  
+| bip_39_word_new_br12 | hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired<br>home<br>fence<br>asset |  
+| bip_39_word_new_br2 | hurry<br>shuffle |  
+| bip_39_word_new_br3 | hurry<br>shuffle<br>eight |  
+| bip_39_word_new_br4 | hurry<br>shuffle<br>eight<br>interest |  
+| bip_39_word_new_br5 | hurry<br>shuffle<br>eight<br>interest<br>decade |  
+| bip_39_word_new_br6 | hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade |  
+| bip_39_word_new_br7 | hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb |  
+| bip_39_word_new_br8 | hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring |  
+| bip_39_word_new_br9 | hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired |  
+| bip_39_word_new_line1 | hurry |  
+| bip_39_word_new_line10 | hurry
+shuffle
+eight
+interest
+decade
+trade
+bulb
+bring
+tired
+home |  
+| bip_39_word_new_line11 | hurry
+shuffle
+eight
+interest
+decade
+trade
+bulb
+bring
+tired
+home
+fence |  
+| bip_39_word_new_line12 | hurry
+shuffle
+eight
+interest
+decade
+trade
+bulb
+bring
+tired
+home
+fence
+asset |  
+| bip_39_word_new_line2 | hurry
+shuffle |  
+| bip_39_word_new_line3 | hurry
+shuffle
+eight |  
+| bip_39_word_new_line4 | hurry
+shuffle
+eight
+interest |  
+| bip_39_word_new_line5 | hurry
+shuffle
+eight
+interest
+decade |  
+| bip_39_word_new_line6 | hurry
+shuffle
+eight
+interest
+decade
+trade |  
+| bip_39_word_new_line7 | hurry
+shuffle
+eight
+interest
+decade
+trade
+bulb |  
+| bip_39_word_new_line8 | hurry
+shuffle
+eight
+interest
+decade
+trade
+bulb
+bring |  
+| bip_39_word_new_line9 | hurry
+shuffle
+eight
+interest
+decade
+trade
+bulb
+bring
+tired |  
+| bip_39_word_space_0 | ['hurry', 'shuffle', 'eight', 'interest', 'decade', 'trade', 'bulb', 'bring', 'tired', 'home', 'fence', 'asset'] |  
+| bip_39_word_space_1 | hurry |  
+| bip_39_word_space_10 | hurry shuffle eight interest decade trade bulb bring tired home |  
+| bip_39_word_space_11 | hurry shuffle eight interest decade trade bulb bring tired home fence |  
+| bip_39_word_space_12 | hurry shuffle eight interest decade trade bulb bring tired home fence asset |  
+| bip_39_word_space_2 | hurry shuffle |  
+| bip_39_word_space_3 | hurry shuffle eight |  
+| bip_39_word_space_4 | hurry shuffle eight interest |  
+| bip_39_word_space_5 | hurry shuffle eight interest decade |  
+| bip_39_word_space_6 | hurry shuffle eight interest decade trade |  
+| bip_39_word_space_7 | hurry shuffle eight interest decade trade bulb |  
+| bip_39_word_space_8 | hurry shuffle eight interest decade trade bulb bring |  
+| bip_39_word_space_9 | hurry shuffle eight interest decade trade bulb bring tired |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

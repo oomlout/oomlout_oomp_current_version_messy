@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sock tattoo
+  * bip 39 word 3: sock tattoo cup
+  * bip 39 word: sock tattoo cup beyond use aerobic timber pottery crater dash nature among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sock |  
+| bip_39_word_new_br10 | sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery<br>crater<br>dash |  
+| bip_39_word_new_br11 | sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery<br>crater<br>dash<br>nature |  
+| bip_39_word_new_br12 | sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery<br>crater<br>dash<br>nature<br>among |  
+| bip_39_word_new_br2 | sock<br>tattoo |  
+| bip_39_word_new_br3 | sock<br>tattoo<br>cup |  
+| bip_39_word_new_br4 | sock<br>tattoo<br>cup<br>beyond |  
+| bip_39_word_new_br5 | sock<br>tattoo<br>cup<br>beyond<br>use |  
+| bip_39_word_new_br6 | sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic |  
+| bip_39_word_new_br7 | sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber |  
+| bip_39_word_new_br8 | sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery |  
+| bip_39_word_new_br9 | sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery<br>crater |  
+| bip_39_word_new_line1 | sock |  
+| bip_39_word_new_line10 | sock
+tattoo
+cup
+beyond
+use
+aerobic
+timber
+pottery
+crater
+dash |  
+| bip_39_word_new_line11 | sock
+tattoo
+cup
+beyond
+use
+aerobic
+timber
+pottery
+crater
+dash
+nature |  
+| bip_39_word_new_line12 | sock
+tattoo
+cup
+beyond
+use
+aerobic
+timber
+pottery
+crater
+dash
+nature
+among |  
+| bip_39_word_new_line2 | sock
+tattoo |  
+| bip_39_word_new_line3 | sock
+tattoo
+cup |  
+| bip_39_word_new_line4 | sock
+tattoo
+cup
+beyond |  
+| bip_39_word_new_line5 | sock
+tattoo
+cup
+beyond
+use |  
+| bip_39_word_new_line6 | sock
+tattoo
+cup
+beyond
+use
+aerobic |  
+| bip_39_word_new_line7 | sock
+tattoo
+cup
+beyond
+use
+aerobic
+timber |  
+| bip_39_word_new_line8 | sock
+tattoo
+cup
+beyond
+use
+aerobic
+timber
+pottery |  
+| bip_39_word_new_line9 | sock
+tattoo
+cup
+beyond
+use
+aerobic
+timber
+pottery
+crater |  
+| bip_39_word_space_0 | ['sock', 'tattoo', 'cup', 'beyond', 'use', 'aerobic', 'timber', 'pottery', 'crater', 'dash', 'nature', 'among'] |  
+| bip_39_word_space_1 | sock |  
+| bip_39_word_space_10 | sock tattoo cup beyond use aerobic timber pottery crater dash |  
+| bip_39_word_space_11 | sock tattoo cup beyond use aerobic timber pottery crater dash nature |  
+| bip_39_word_space_12 | sock tattoo cup beyond use aerobic timber pottery crater dash nature among |  
+| bip_39_word_space_2 | sock tattoo |  
+| bip_39_word_space_3 | sock tattoo cup |  
+| bip_39_word_space_4 | sock tattoo cup beyond |  
+| bip_39_word_space_5 | sock tattoo cup beyond use |  
+| bip_39_word_space_6 | sock tattoo cup beyond use aerobic |  
+| bip_39_word_space_7 | sock tattoo cup beyond use aerobic timber |  
+| bip_39_word_space_8 | sock tattoo cup beyond use aerobic timber pottery |  
+| bip_39_word_space_9 | sock tattoo cup beyond use aerobic timber pottery crater |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: tell
+bip_39_word_new_br10: tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand
+bip_39_word_new_br11: tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand<br>pony
+bip_39_word_new_br12: tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street<br>stand<br>pony<br>ask
+bip_39_word_new_br2: tell<br>choice
+bip_39_word_new_br3: tell<br>choice<br>manage
+bip_39_word_new_br4: tell<br>choice<br>manage<br>jacket
+bip_39_word_new_br5: tell<br>choice<br>manage<br>jacket<br>donor
+bip_39_word_new_br6: tell<br>choice<br>manage<br>jacket<br>donor<br>infant
+bip_39_word_new_br7: tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice
+bip_39_word_new_br8: tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet
+bip_39_word_new_br9: tell<br>choice<br>manage<br>jacket<br>donor<br>infant<br>advice<br>bullet<br>street
+bip_39_word_new_line1: tell
+bip_39_word_new_line10: 'tell
+
+  choice
+
+  manage
+
+  jacket
+
+  donor
+
+  infant
+
+  advice
+
+  bullet
+
+  street
+
+  stand'
+bip_39_word_new_line11: 'tell
+
+  choice
+
+  manage
+
+  jacket
+
+  donor
+
+  infant
+
+  advice
+
+  bullet
+
+  street
+
+  stand
+
+  pony'
+bip_39_word_new_line12: 'tell
+
+  choice
+
+  manage
+
+  jacket
+
+  donor
+
+  infant
+
+  advice
+
+  bullet
+
+  street
+
+  stand
+
+  pony
+
+  ask'
+bip_39_word_new_line2: 'tell
+
+  choice'
+bip_39_word_new_line3: 'tell
+
+  choice
+
+  manage'
+bip_39_word_new_line4: 'tell
+
+  choice
+
+  manage
+
+  jacket'
+bip_39_word_new_line5: 'tell
+
+  choice
+
+  manage
+
+  jacket
+
+  donor'
+bip_39_word_new_line6: 'tell
+
+  choice
+
+  manage
+
+  jacket
+
+  donor
+
+  infant'
+bip_39_word_new_line7: 'tell
+
+  choice
+
+  manage
+
+  jacket
+
+  donor
+
+  infant
+
+  advice'
+bip_39_word_new_line8: 'tell
+
+  choice
+
+  manage
+
+  jacket
+
+  donor
+
+  infant
+
+  advice
+
+  bullet'
+bip_39_word_new_line9: 'tell
+
+  choice
+
+  manage
+
+  jacket
+
+  donor
+
+  infant
+
+  advice
+
+  bullet
+
+  street'
+bip_39_word_space_0:
+- tell
+- choice
+- manage
+- jacket
+- donor
+- infant
+- advice
+- bullet
+- street
+- stand
+- pony
+- ask
+bip_39_word_space_1: tell
+bip_39_word_space_10: tell choice manage jacket donor infant advice bullet street
+  stand
+bip_39_word_space_11: tell choice manage jacket donor infant advice bullet street
+  stand pony
+bip_39_word_space_12: tell choice manage jacket donor infant advice bullet street
+  stand pony ask
+bip_39_word_space_2: tell choice
+bip_39_word_space_3: tell choice manage
+bip_39_word_space_4: tell choice manage jacket
+bip_39_word_space_5: tell choice manage jacket donor
+bip_39_word_space_6: tell choice manage jacket donor infant
+bip_39_word_space_7: tell choice manage jacket donor infant advice
+bip_39_word_space_8: tell choice manage jacket donor infant advice bullet
+bip_39_word_space_9: tell choice manage jacket donor infant advice bullet street
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

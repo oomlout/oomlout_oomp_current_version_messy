@@ -1,3 +1,186 @@
+bip_39_word_new_br1: essence
+bip_39_word_new_br10: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe
+bip_39_word_new_br11: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe<br>guide
+bip_39_word_new_br12: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb<br>globe<br>guide<br>alone
+bip_39_word_new_br2: essence<br>client
+bip_39_word_new_br3: essence<br>client<br>ranch
+bip_39_word_new_br4: essence<br>client<br>ranch<br>sure
+bip_39_word_new_br5: essence<br>client<br>ranch<br>sure<br>region
+bip_39_word_new_br6: essence<br>client<br>ranch<br>sure<br>region<br>robot
+bip_39_word_new_br7: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent
+bip_39_word_new_br8: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever
+bip_39_word_new_br9: essence<br>client<br>ranch<br>sure<br>region<br>robot<br>agent<br>clever<br>thumb
+bip_39_word_new_line1: essence
+bip_39_word_new_line10: 'essence
+
+  client
+
+  ranch
+
+  sure
+
+  region
+
+  robot
+
+  agent
+
+  clever
+
+  thumb
+
+  globe'
+bip_39_word_new_line11: 'essence
+
+  client
+
+  ranch
+
+  sure
+
+  region
+
+  robot
+
+  agent
+
+  clever
+
+  thumb
+
+  globe
+
+  guide'
+bip_39_word_new_line12: 'essence
+
+  client
+
+  ranch
+
+  sure
+
+  region
+
+  robot
+
+  agent
+
+  clever
+
+  thumb
+
+  globe
+
+  guide
+
+  alone'
+bip_39_word_new_line2: 'essence
+
+  client'
+bip_39_word_new_line3: 'essence
+
+  client
+
+  ranch'
+bip_39_word_new_line4: 'essence
+
+  client
+
+  ranch
+
+  sure'
+bip_39_word_new_line5: 'essence
+
+  client
+
+  ranch
+
+  sure
+
+  region'
+bip_39_word_new_line6: 'essence
+
+  client
+
+  ranch
+
+  sure
+
+  region
+
+  robot'
+bip_39_word_new_line7: 'essence
+
+  client
+
+  ranch
+
+  sure
+
+  region
+
+  robot
+
+  agent'
+bip_39_word_new_line8: 'essence
+
+  client
+
+  ranch
+
+  sure
+
+  region
+
+  robot
+
+  agent
+
+  clever'
+bip_39_word_new_line9: 'essence
+
+  client
+
+  ranch
+
+  sure
+
+  region
+
+  robot
+
+  agent
+
+  clever
+
+  thumb'
+bip_39_word_space_0:
+- essence
+- client
+- ranch
+- sure
+- region
+- robot
+- agent
+- clever
+- thumb
+- globe
+- guide
+- alone
+bip_39_word_space_1: essence
+bip_39_word_space_10: essence client ranch sure region robot agent clever thumb globe
+bip_39_word_space_11: essence client ranch sure region robot agent clever thumb globe
+  guide
+bip_39_word_space_12: essence client ranch sure region robot agent clever thumb globe
+  guide alone
+bip_39_word_space_2: essence client
+bip_39_word_space_3: essence client ranch
+bip_39_word_space_4: essence client ranch sure
+bip_39_word_space_5: essence client ranch sure region
+bip_39_word_space_6: essence client ranch sure region robot
+bip_39_word_space_7: essence client ranch sure region robot agent
+bip_39_word_space_8: essence client ranch sure region robot agent clever
+bip_39_word_space_9: essence client ranch sure region robot agent clever thumb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

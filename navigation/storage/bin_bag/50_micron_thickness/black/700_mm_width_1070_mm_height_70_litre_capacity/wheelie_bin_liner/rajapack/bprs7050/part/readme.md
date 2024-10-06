@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: wheelie_bin_liner
   * manufacturer: rajapack
   * part_number: bprs7050
+  * bip 39 word 2: rent pill
+  * bip 39 word 3: rent pill begin
+  * bip 39 word: rent pill begin sunset there blast electric pink during open tip asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rent |  
+| bip_39_word_new_br10 | rent<br>pill<br>begin<br>sunset<br>there<br>blast<br>electric<br>pink<br>during<br>open |  
+| bip_39_word_new_br11 | rent<br>pill<br>begin<br>sunset<br>there<br>blast<br>electric<br>pink<br>during<br>open<br>tip |  
+| bip_39_word_new_br12 | rent<br>pill<br>begin<br>sunset<br>there<br>blast<br>electric<br>pink<br>during<br>open<br>tip<br>asthma |  
+| bip_39_word_new_br2 | rent<br>pill |  
+| bip_39_word_new_br3 | rent<br>pill<br>begin |  
+| bip_39_word_new_br4 | rent<br>pill<br>begin<br>sunset |  
+| bip_39_word_new_br5 | rent<br>pill<br>begin<br>sunset<br>there |  
+| bip_39_word_new_br6 | rent<br>pill<br>begin<br>sunset<br>there<br>blast |  
+| bip_39_word_new_br7 | rent<br>pill<br>begin<br>sunset<br>there<br>blast<br>electric |  
+| bip_39_word_new_br8 | rent<br>pill<br>begin<br>sunset<br>there<br>blast<br>electric<br>pink |  
+| bip_39_word_new_br9 | rent<br>pill<br>begin<br>sunset<br>there<br>blast<br>electric<br>pink<br>during |  
+| bip_39_word_new_line1 | rent |  
+| bip_39_word_new_line10 | rent
+pill
+begin
+sunset
+there
+blast
+electric
+pink
+during
+open |  
+| bip_39_word_new_line11 | rent
+pill
+begin
+sunset
+there
+blast
+electric
+pink
+during
+open
+tip |  
+| bip_39_word_new_line12 | rent
+pill
+begin
+sunset
+there
+blast
+electric
+pink
+during
+open
+tip
+asthma |  
+| bip_39_word_new_line2 | rent
+pill |  
+| bip_39_word_new_line3 | rent
+pill
+begin |  
+| bip_39_word_new_line4 | rent
+pill
+begin
+sunset |  
+| bip_39_word_new_line5 | rent
+pill
+begin
+sunset
+there |  
+| bip_39_word_new_line6 | rent
+pill
+begin
+sunset
+there
+blast |  
+| bip_39_word_new_line7 | rent
+pill
+begin
+sunset
+there
+blast
+electric |  
+| bip_39_word_new_line8 | rent
+pill
+begin
+sunset
+there
+blast
+electric
+pink |  
+| bip_39_word_new_line9 | rent
+pill
+begin
+sunset
+there
+blast
+electric
+pink
+during |  
+| bip_39_word_space_0 | ['rent', 'pill', 'begin', 'sunset', 'there', 'blast', 'electric', 'pink', 'during', 'open', 'tip', 'asthma'] |  
+| bip_39_word_space_1 | rent |  
+| bip_39_word_space_10 | rent pill begin sunset there blast electric pink during open |  
+| bip_39_word_space_11 | rent pill begin sunset there blast electric pink during open tip |  
+| bip_39_word_space_12 | rent pill begin sunset there blast electric pink during open tip asthma |  
+| bip_39_word_space_2 | rent pill |  
+| bip_39_word_space_3 | rent pill begin |  
+| bip_39_word_space_4 | rent pill begin sunset |  
+| bip_39_word_space_5 | rent pill begin sunset there |  
+| bip_39_word_space_6 | rent pill begin sunset there blast |  
+| bip_39_word_space_7 | rent pill begin sunset there blast electric |  
+| bip_39_word_space_8 | rent pill begin sunset there blast electric pink |  
+| bip_39_word_space_9 | rent pill begin sunset there blast electric pink during |  
 | classification | storage |  
 | classification_capital | Storage |  
 | classification_first_letter | s |  

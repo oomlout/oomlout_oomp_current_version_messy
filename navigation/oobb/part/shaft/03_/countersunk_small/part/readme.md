@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk_small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: album juice
+  * bip 39 word 3: album juice move
+  * bip 39 word: album juice move want miss tool sign group unaware polar beef apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | album |  
+| bip_39_word_new_br10 | album<br>juice<br>move<br>want<br>miss<br>tool<br>sign<br>group<br>unaware<br>polar |  
+| bip_39_word_new_br11 | album<br>juice<br>move<br>want<br>miss<br>tool<br>sign<br>group<br>unaware<br>polar<br>beef |  
+| bip_39_word_new_br12 | album<br>juice<br>move<br>want<br>miss<br>tool<br>sign<br>group<br>unaware<br>polar<br>beef<br>apart |  
+| bip_39_word_new_br2 | album<br>juice |  
+| bip_39_word_new_br3 | album<br>juice<br>move |  
+| bip_39_word_new_br4 | album<br>juice<br>move<br>want |  
+| bip_39_word_new_br5 | album<br>juice<br>move<br>want<br>miss |  
+| bip_39_word_new_br6 | album<br>juice<br>move<br>want<br>miss<br>tool |  
+| bip_39_word_new_br7 | album<br>juice<br>move<br>want<br>miss<br>tool<br>sign |  
+| bip_39_word_new_br8 | album<br>juice<br>move<br>want<br>miss<br>tool<br>sign<br>group |  
+| bip_39_word_new_br9 | album<br>juice<br>move<br>want<br>miss<br>tool<br>sign<br>group<br>unaware |  
+| bip_39_word_new_line1 | album |  
+| bip_39_word_new_line10 | album
+juice
+move
+want
+miss
+tool
+sign
+group
+unaware
+polar |  
+| bip_39_word_new_line11 | album
+juice
+move
+want
+miss
+tool
+sign
+group
+unaware
+polar
+beef |  
+| bip_39_word_new_line12 | album
+juice
+move
+want
+miss
+tool
+sign
+group
+unaware
+polar
+beef
+apart |  
+| bip_39_word_new_line2 | album
+juice |  
+| bip_39_word_new_line3 | album
+juice
+move |  
+| bip_39_word_new_line4 | album
+juice
+move
+want |  
+| bip_39_word_new_line5 | album
+juice
+move
+want
+miss |  
+| bip_39_word_new_line6 | album
+juice
+move
+want
+miss
+tool |  
+| bip_39_word_new_line7 | album
+juice
+move
+want
+miss
+tool
+sign |  
+| bip_39_word_new_line8 | album
+juice
+move
+want
+miss
+tool
+sign
+group |  
+| bip_39_word_new_line9 | album
+juice
+move
+want
+miss
+tool
+sign
+group
+unaware |  
+| bip_39_word_space_0 | ['album', 'juice', 'move', 'want', 'miss', 'tool', 'sign', 'group', 'unaware', 'polar', 'beef', 'apart'] |  
+| bip_39_word_space_1 | album |  
+| bip_39_word_space_10 | album juice move want miss tool sign group unaware polar |  
+| bip_39_word_space_11 | album juice move want miss tool sign group unaware polar beef |  
+| bip_39_word_space_12 | album juice move want miss tool sign group unaware polar beef apart |  
+| bip_39_word_space_2 | album juice |  
+| bip_39_word_space_3 | album juice move |  
+| bip_39_word_space_4 | album juice move want |  
+| bip_39_word_space_5 | album juice move want miss |  
+| bip_39_word_space_6 | album juice move want miss tool |  
+| bip_39_word_space_7 | album juice move want miss tool sign |  
+| bip_39_word_space_8 | album juice move want miss tool sign group |  
+| bip_39_word_space_9 | album juice move want miss tool sign group unaware |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

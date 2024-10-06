@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: z
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: marble bullet
+  * bip 39 word 3: marble bullet jealous
+  * bip 39 word: marble bullet jealous drill maze assist room kid remember machine apology alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | marble |  
+| bip_39_word_new_br10 | marble<br>bullet<br>jealous<br>drill<br>maze<br>assist<br>room<br>kid<br>remember<br>machine |  
+| bip_39_word_new_br11 | marble<br>bullet<br>jealous<br>drill<br>maze<br>assist<br>room<br>kid<br>remember<br>machine<br>apology |  
+| bip_39_word_new_br12 | marble<br>bullet<br>jealous<br>drill<br>maze<br>assist<br>room<br>kid<br>remember<br>machine<br>apology<br>alert |  
+| bip_39_word_new_br2 | marble<br>bullet |  
+| bip_39_word_new_br3 | marble<br>bullet<br>jealous |  
+| bip_39_word_new_br4 | marble<br>bullet<br>jealous<br>drill |  
+| bip_39_word_new_br5 | marble<br>bullet<br>jealous<br>drill<br>maze |  
+| bip_39_word_new_br6 | marble<br>bullet<br>jealous<br>drill<br>maze<br>assist |  
+| bip_39_word_new_br7 | marble<br>bullet<br>jealous<br>drill<br>maze<br>assist<br>room |  
+| bip_39_word_new_br8 | marble<br>bullet<br>jealous<br>drill<br>maze<br>assist<br>room<br>kid |  
+| bip_39_word_new_br9 | marble<br>bullet<br>jealous<br>drill<br>maze<br>assist<br>room<br>kid<br>remember |  
+| bip_39_word_new_line1 | marble |  
+| bip_39_word_new_line10 | marble
+bullet
+jealous
+drill
+maze
+assist
+room
+kid
+remember
+machine |  
+| bip_39_word_new_line11 | marble
+bullet
+jealous
+drill
+maze
+assist
+room
+kid
+remember
+machine
+apology |  
+| bip_39_word_new_line12 | marble
+bullet
+jealous
+drill
+maze
+assist
+room
+kid
+remember
+machine
+apology
+alert |  
+| bip_39_word_new_line2 | marble
+bullet |  
+| bip_39_word_new_line3 | marble
+bullet
+jealous |  
+| bip_39_word_new_line4 | marble
+bullet
+jealous
+drill |  
+| bip_39_word_new_line5 | marble
+bullet
+jealous
+drill
+maze |  
+| bip_39_word_new_line6 | marble
+bullet
+jealous
+drill
+maze
+assist |  
+| bip_39_word_new_line7 | marble
+bullet
+jealous
+drill
+maze
+assist
+room |  
+| bip_39_word_new_line8 | marble
+bullet
+jealous
+drill
+maze
+assist
+room
+kid |  
+| bip_39_word_new_line9 | marble
+bullet
+jealous
+drill
+maze
+assist
+room
+kid
+remember |  
+| bip_39_word_space_0 | ['marble', 'bullet', 'jealous', 'drill', 'maze', 'assist', 'room', 'kid', 'remember', 'machine', 'apology', 'alert'] |  
+| bip_39_word_space_1 | marble |  
+| bip_39_word_space_10 | marble bullet jealous drill maze assist room kid remember machine |  
+| bip_39_word_space_11 | marble bullet jealous drill maze assist room kid remember machine apology |  
+| bip_39_word_space_12 | marble bullet jealous drill maze assist room kid remember machine apology alert |  
+| bip_39_word_space_2 | marble bullet |  
+| bip_39_word_space_3 | marble bullet jealous |  
+| bip_39_word_space_4 | marble bullet jealous drill |  
+| bip_39_word_space_5 | marble bullet jealous drill maze |  
+| bip_39_word_space_6 | marble bullet jealous drill maze assist |  
+| bip_39_word_space_7 | marble bullet jealous drill maze assist room |  
+| bip_39_word_space_8 | marble bullet jealous drill maze assist room kid |  
+| bip_39_word_space_9 | marble bullet jealous drill maze assist room kid remember |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

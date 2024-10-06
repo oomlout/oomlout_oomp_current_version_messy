@@ -1,3 +1,186 @@
+bip_39_word_new_br1: observe
+bip_39_word_new_br10: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge
+bip_39_word_new_br11: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur
+bip_39_word_new_br12: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur<br>apology
+bip_39_word_new_br2: observe<br>unknown
+bip_39_word_new_br3: observe<br>unknown<br>liar
+bip_39_word_new_br4: observe<br>unknown<br>liar<br>wrestle
+bip_39_word_new_br5: observe<br>unknown<br>liar<br>wrestle<br>vote
+bip_39_word_new_br6: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick
+bip_39_word_new_br7: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind
+bip_39_word_new_br8: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion
+bip_39_word_new_br9: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn
+bip_39_word_new_line1: observe
+bip_39_word_new_line10: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion
+
+  corn
+
+  emerge'
+bip_39_word_new_line11: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion
+
+  corn
+
+  emerge
+
+  occur'
+bip_39_word_new_line12: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion
+
+  corn
+
+  emerge
+
+  occur
+
+  apology'
+bip_39_word_new_line2: 'observe
+
+  unknown'
+bip_39_word_new_line3: 'observe
+
+  unknown
+
+  liar'
+bip_39_word_new_line4: 'observe
+
+  unknown
+
+  liar
+
+  wrestle'
+bip_39_word_new_line5: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote'
+bip_39_word_new_line6: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick'
+bip_39_word_new_line7: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind'
+bip_39_word_new_line8: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion'
+bip_39_word_new_line9: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion
+
+  corn'
+bip_39_word_space_0:
+- observe
+- unknown
+- liar
+- wrestle
+- vote
+- sick
+- behind
+- erosion
+- corn
+- emerge
+- occur
+- apology
+bip_39_word_space_1: observe
+bip_39_word_space_10: observe unknown liar wrestle vote sick behind erosion corn emerge
+bip_39_word_space_11: observe unknown liar wrestle vote sick behind erosion corn emerge
+  occur
+bip_39_word_space_12: observe unknown liar wrestle vote sick behind erosion corn emerge
+  occur apology
+bip_39_word_space_2: observe unknown
+bip_39_word_space_3: observe unknown liar
+bip_39_word_space_4: observe unknown liar wrestle
+bip_39_word_space_5: observe unknown liar wrestle vote
+bip_39_word_space_6: observe unknown liar wrestle vote sick
+bip_39_word_space_7: observe unknown liar wrestle vote sick behind
+bip_39_word_space_8: observe unknown liar wrestle vote sick behind erosion
+bip_39_word_space_9: observe unknown liar wrestle vote sick behind erosion corn
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

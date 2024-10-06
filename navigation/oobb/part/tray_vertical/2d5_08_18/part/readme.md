@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toast race
+  * bip 39 word 3: toast race borrow
+  * bip 39 word: toast race borrow captain drip slow mirror stand approve execute novel about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toast |  
+| bip_39_word_new_br10 | toast<br>race<br>borrow<br>captain<br>drip<br>slow<br>mirror<br>stand<br>approve<br>execute |  
+| bip_39_word_new_br11 | toast<br>race<br>borrow<br>captain<br>drip<br>slow<br>mirror<br>stand<br>approve<br>execute<br>novel |  
+| bip_39_word_new_br12 | toast<br>race<br>borrow<br>captain<br>drip<br>slow<br>mirror<br>stand<br>approve<br>execute<br>novel<br>about |  
+| bip_39_word_new_br2 | toast<br>race |  
+| bip_39_word_new_br3 | toast<br>race<br>borrow |  
+| bip_39_word_new_br4 | toast<br>race<br>borrow<br>captain |  
+| bip_39_word_new_br5 | toast<br>race<br>borrow<br>captain<br>drip |  
+| bip_39_word_new_br6 | toast<br>race<br>borrow<br>captain<br>drip<br>slow |  
+| bip_39_word_new_br7 | toast<br>race<br>borrow<br>captain<br>drip<br>slow<br>mirror |  
+| bip_39_word_new_br8 | toast<br>race<br>borrow<br>captain<br>drip<br>slow<br>mirror<br>stand |  
+| bip_39_word_new_br9 | toast<br>race<br>borrow<br>captain<br>drip<br>slow<br>mirror<br>stand<br>approve |  
+| bip_39_word_new_line1 | toast |  
+| bip_39_word_new_line10 | toast
+race
+borrow
+captain
+drip
+slow
+mirror
+stand
+approve
+execute |  
+| bip_39_word_new_line11 | toast
+race
+borrow
+captain
+drip
+slow
+mirror
+stand
+approve
+execute
+novel |  
+| bip_39_word_new_line12 | toast
+race
+borrow
+captain
+drip
+slow
+mirror
+stand
+approve
+execute
+novel
+about |  
+| bip_39_word_new_line2 | toast
+race |  
+| bip_39_word_new_line3 | toast
+race
+borrow |  
+| bip_39_word_new_line4 | toast
+race
+borrow
+captain |  
+| bip_39_word_new_line5 | toast
+race
+borrow
+captain
+drip |  
+| bip_39_word_new_line6 | toast
+race
+borrow
+captain
+drip
+slow |  
+| bip_39_word_new_line7 | toast
+race
+borrow
+captain
+drip
+slow
+mirror |  
+| bip_39_word_new_line8 | toast
+race
+borrow
+captain
+drip
+slow
+mirror
+stand |  
+| bip_39_word_new_line9 | toast
+race
+borrow
+captain
+drip
+slow
+mirror
+stand
+approve |  
+| bip_39_word_space_0 | ['toast', 'race', 'borrow', 'captain', 'drip', 'slow', 'mirror', 'stand', 'approve', 'execute', 'novel', 'about'] |  
+| bip_39_word_space_1 | toast |  
+| bip_39_word_space_10 | toast race borrow captain drip slow mirror stand approve execute |  
+| bip_39_word_space_11 | toast race borrow captain drip slow mirror stand approve execute novel |  
+| bip_39_word_space_12 | toast race borrow captain drip slow mirror stand approve execute novel about |  
+| bip_39_word_space_2 | toast race |  
+| bip_39_word_space_3 | toast race borrow |  
+| bip_39_word_space_4 | toast race borrow captain |  
+| bip_39_word_space_5 | toast race borrow captain drip |  
+| bip_39_word_space_6 | toast race borrow captain drip slow |  
+| bip_39_word_space_7 | toast race borrow captain drip slow mirror |  
+| bip_39_word_space_8 | toast race borrow captain drip slow mirror stand |  
+| bip_39_word_space_9 | toast race borrow captain drip slow mirror stand approve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

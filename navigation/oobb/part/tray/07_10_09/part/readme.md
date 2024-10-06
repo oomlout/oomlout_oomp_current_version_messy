@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stay language
+  * bip 39 word 3: stay language message
+  * bip 39 word: stay language message grape fun trophy flush rather level umbrella lobster autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stay |  
+| bip_39_word_new_br10 | stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level<br>umbrella |  
+| bip_39_word_new_br11 | stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level<br>umbrella<br>lobster |  
+| bip_39_word_new_br12 | stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level<br>umbrella<br>lobster<br>autumn |  
+| bip_39_word_new_br2 | stay<br>language |  
+| bip_39_word_new_br3 | stay<br>language<br>message |  
+| bip_39_word_new_br4 | stay<br>language<br>message<br>grape |  
+| bip_39_word_new_br5 | stay<br>language<br>message<br>grape<br>fun |  
+| bip_39_word_new_br6 | stay<br>language<br>message<br>grape<br>fun<br>trophy |  
+| bip_39_word_new_br7 | stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush |  
+| bip_39_word_new_br8 | stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather |  
+| bip_39_word_new_br9 | stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level |  
+| bip_39_word_new_line1 | stay |  
+| bip_39_word_new_line10 | stay
+language
+message
+grape
+fun
+trophy
+flush
+rather
+level
+umbrella |  
+| bip_39_word_new_line11 | stay
+language
+message
+grape
+fun
+trophy
+flush
+rather
+level
+umbrella
+lobster |  
+| bip_39_word_new_line12 | stay
+language
+message
+grape
+fun
+trophy
+flush
+rather
+level
+umbrella
+lobster
+autumn |  
+| bip_39_word_new_line2 | stay
+language |  
+| bip_39_word_new_line3 | stay
+language
+message |  
+| bip_39_word_new_line4 | stay
+language
+message
+grape |  
+| bip_39_word_new_line5 | stay
+language
+message
+grape
+fun |  
+| bip_39_word_new_line6 | stay
+language
+message
+grape
+fun
+trophy |  
+| bip_39_word_new_line7 | stay
+language
+message
+grape
+fun
+trophy
+flush |  
+| bip_39_word_new_line8 | stay
+language
+message
+grape
+fun
+trophy
+flush
+rather |  
+| bip_39_word_new_line9 | stay
+language
+message
+grape
+fun
+trophy
+flush
+rather
+level |  
+| bip_39_word_space_0 | ['stay', 'language', 'message', 'grape', 'fun', 'trophy', 'flush', 'rather', 'level', 'umbrella', 'lobster', 'autumn'] |  
+| bip_39_word_space_1 | stay |  
+| bip_39_word_space_10 | stay language message grape fun trophy flush rather level umbrella |  
+| bip_39_word_space_11 | stay language message grape fun trophy flush rather level umbrella lobster |  
+| bip_39_word_space_12 | stay language message grape fun trophy flush rather level umbrella lobster autumn |  
+| bip_39_word_space_2 | stay language |  
+| bip_39_word_space_3 | stay language message |  
+| bip_39_word_space_4 | stay language message grape |  
+| bip_39_word_space_5 | stay language message grape fun |  
+| bip_39_word_space_6 | stay language message grape fun trophy |  
+| bip_39_word_space_7 | stay language message grape fun trophy flush |  
+| bip_39_word_space_8 | stay language message grape fun trophy flush rather |  
+| bip_39_word_space_9 | stay language message grape fun trophy flush rather level |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

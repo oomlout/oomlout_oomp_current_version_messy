@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: potato side
+  * bip 39 word 3: potato side project
+  * bip 39 word: potato side project library wine scene success lamp ten diary room act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | potato |  
+| bip_39_word_new_br10 | potato<br>side<br>project<br>library<br>wine<br>scene<br>success<br>lamp<br>ten<br>diary |  
+| bip_39_word_new_br11 | potato<br>side<br>project<br>library<br>wine<br>scene<br>success<br>lamp<br>ten<br>diary<br>room |  
+| bip_39_word_new_br12 | potato<br>side<br>project<br>library<br>wine<br>scene<br>success<br>lamp<br>ten<br>diary<br>room<br>act |  
+| bip_39_word_new_br2 | potato<br>side |  
+| bip_39_word_new_br3 | potato<br>side<br>project |  
+| bip_39_word_new_br4 | potato<br>side<br>project<br>library |  
+| bip_39_word_new_br5 | potato<br>side<br>project<br>library<br>wine |  
+| bip_39_word_new_br6 | potato<br>side<br>project<br>library<br>wine<br>scene |  
+| bip_39_word_new_br7 | potato<br>side<br>project<br>library<br>wine<br>scene<br>success |  
+| bip_39_word_new_br8 | potato<br>side<br>project<br>library<br>wine<br>scene<br>success<br>lamp |  
+| bip_39_word_new_br9 | potato<br>side<br>project<br>library<br>wine<br>scene<br>success<br>lamp<br>ten |  
+| bip_39_word_new_line1 | potato |  
+| bip_39_word_new_line10 | potato
+side
+project
+library
+wine
+scene
+success
+lamp
+ten
+diary |  
+| bip_39_word_new_line11 | potato
+side
+project
+library
+wine
+scene
+success
+lamp
+ten
+diary
+room |  
+| bip_39_word_new_line12 | potato
+side
+project
+library
+wine
+scene
+success
+lamp
+ten
+diary
+room
+act |  
+| bip_39_word_new_line2 | potato
+side |  
+| bip_39_word_new_line3 | potato
+side
+project |  
+| bip_39_word_new_line4 | potato
+side
+project
+library |  
+| bip_39_word_new_line5 | potato
+side
+project
+library
+wine |  
+| bip_39_word_new_line6 | potato
+side
+project
+library
+wine
+scene |  
+| bip_39_word_new_line7 | potato
+side
+project
+library
+wine
+scene
+success |  
+| bip_39_word_new_line8 | potato
+side
+project
+library
+wine
+scene
+success
+lamp |  
+| bip_39_word_new_line9 | potato
+side
+project
+library
+wine
+scene
+success
+lamp
+ten |  
+| bip_39_word_space_0 | ['potato', 'side', 'project', 'library', 'wine', 'scene', 'success', 'lamp', 'ten', 'diary', 'room', 'act'] |  
+| bip_39_word_space_1 | potato |  
+| bip_39_word_space_10 | potato side project library wine scene success lamp ten diary |  
+| bip_39_word_space_11 | potato side project library wine scene success lamp ten diary room |  
+| bip_39_word_space_12 | potato side project library wine scene success lamp ten diary room act |  
+| bip_39_word_space_2 | potato side |  
+| bip_39_word_space_3 | potato side project |  
+| bip_39_word_space_4 | potato side project library |  
+| bip_39_word_space_5 | potato side project library wine |  
+| bip_39_word_space_6 | potato side project library wine scene |  
+| bip_39_word_space_7 | potato side project library wine scene success |  
+| bip_39_word_space_8 | potato side project library wine scene success lamp |  
+| bip_39_word_space_9 | potato side project library wine scene success lamp ten |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

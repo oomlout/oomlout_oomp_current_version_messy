@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: negative goat
+  * bip 39 word 3: negative goat tongue
+  * bip 39 word: negative goat tongue bargain recipe enroll table basket sibling country cart action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | negative |  
+| bip_39_word_new_br10 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll<br>table<br>basket<br>sibling<br>country |  
+| bip_39_word_new_br11 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll<br>table<br>basket<br>sibling<br>country<br>cart |  
+| bip_39_word_new_br12 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll<br>table<br>basket<br>sibling<br>country<br>cart<br>action |  
+| bip_39_word_new_br2 | negative<br>goat |  
+| bip_39_word_new_br3 | negative<br>goat<br>tongue |  
+| bip_39_word_new_br4 | negative<br>goat<br>tongue<br>bargain |  
+| bip_39_word_new_br5 | negative<br>goat<br>tongue<br>bargain<br>recipe |  
+| bip_39_word_new_br6 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll |  
+| bip_39_word_new_br7 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll<br>table |  
+| bip_39_word_new_br8 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll<br>table<br>basket |  
+| bip_39_word_new_br9 | negative<br>goat<br>tongue<br>bargain<br>recipe<br>enroll<br>table<br>basket<br>sibling |  
+| bip_39_word_new_line1 | negative |  
+| bip_39_word_new_line10 | negative
+goat
+tongue
+bargain
+recipe
+enroll
+table
+basket
+sibling
+country |  
+| bip_39_word_new_line11 | negative
+goat
+tongue
+bargain
+recipe
+enroll
+table
+basket
+sibling
+country
+cart |  
+| bip_39_word_new_line12 | negative
+goat
+tongue
+bargain
+recipe
+enroll
+table
+basket
+sibling
+country
+cart
+action |  
+| bip_39_word_new_line2 | negative
+goat |  
+| bip_39_word_new_line3 | negative
+goat
+tongue |  
+| bip_39_word_new_line4 | negative
+goat
+tongue
+bargain |  
+| bip_39_word_new_line5 | negative
+goat
+tongue
+bargain
+recipe |  
+| bip_39_word_new_line6 | negative
+goat
+tongue
+bargain
+recipe
+enroll |  
+| bip_39_word_new_line7 | negative
+goat
+tongue
+bargain
+recipe
+enroll
+table |  
+| bip_39_word_new_line8 | negative
+goat
+tongue
+bargain
+recipe
+enroll
+table
+basket |  
+| bip_39_word_new_line9 | negative
+goat
+tongue
+bargain
+recipe
+enroll
+table
+basket
+sibling |  
+| bip_39_word_space_0 | ['negative', 'goat', 'tongue', 'bargain', 'recipe', 'enroll', 'table', 'basket', 'sibling', 'country', 'cart', 'action'] |  
+| bip_39_word_space_1 | negative |  
+| bip_39_word_space_10 | negative goat tongue bargain recipe enroll table basket sibling country |  
+| bip_39_word_space_11 | negative goat tongue bargain recipe enroll table basket sibling country cart |  
+| bip_39_word_space_12 | negative goat tongue bargain recipe enroll table basket sibling country cart action |  
+| bip_39_word_space_2 | negative goat |  
+| bip_39_word_space_3 | negative goat tongue |  
+| bip_39_word_space_4 | negative goat tongue bargain |  
+| bip_39_word_space_5 | negative goat tongue bargain recipe |  
+| bip_39_word_space_6 | negative goat tongue bargain recipe enroll |  
+| bip_39_word_space_7 | negative goat tongue bargain recipe enroll table |  
+| bip_39_word_space_8 | negative goat tongue bargain recipe enroll table basket |  
+| bip_39_word_space_9 | negative goat tongue bargain recipe enroll table basket sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

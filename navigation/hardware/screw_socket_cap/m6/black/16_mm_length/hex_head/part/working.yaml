@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lecture
+bip_39_word_new_br10: lecture<br>boring<br>lamp<br>rabbit<br>mirror<br>phrase<br>various<br>tunnel<br>scene<br>elephant
+bip_39_word_new_br11: lecture<br>boring<br>lamp<br>rabbit<br>mirror<br>phrase<br>various<br>tunnel<br>scene<br>elephant<br>sell
+bip_39_word_new_br12: lecture<br>boring<br>lamp<br>rabbit<br>mirror<br>phrase<br>various<br>tunnel<br>scene<br>elephant<br>sell<br>adult
+bip_39_word_new_br2: lecture<br>boring
+bip_39_word_new_br3: lecture<br>boring<br>lamp
+bip_39_word_new_br4: lecture<br>boring<br>lamp<br>rabbit
+bip_39_word_new_br5: lecture<br>boring<br>lamp<br>rabbit<br>mirror
+bip_39_word_new_br6: lecture<br>boring<br>lamp<br>rabbit<br>mirror<br>phrase
+bip_39_word_new_br7: lecture<br>boring<br>lamp<br>rabbit<br>mirror<br>phrase<br>various
+bip_39_word_new_br8: lecture<br>boring<br>lamp<br>rabbit<br>mirror<br>phrase<br>various<br>tunnel
+bip_39_word_new_br9: lecture<br>boring<br>lamp<br>rabbit<br>mirror<br>phrase<br>various<br>tunnel<br>scene
+bip_39_word_new_line1: lecture
+bip_39_word_new_line10: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit
+
+  mirror
+
+  phrase
+
+  various
+
+  tunnel
+
+  scene
+
+  elephant'
+bip_39_word_new_line11: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit
+
+  mirror
+
+  phrase
+
+  various
+
+  tunnel
+
+  scene
+
+  elephant
+
+  sell'
+bip_39_word_new_line12: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit
+
+  mirror
+
+  phrase
+
+  various
+
+  tunnel
+
+  scene
+
+  elephant
+
+  sell
+
+  adult'
+bip_39_word_new_line2: 'lecture
+
+  boring'
+bip_39_word_new_line3: 'lecture
+
+  boring
+
+  lamp'
+bip_39_word_new_line4: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit'
+bip_39_word_new_line5: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit
+
+  mirror'
+bip_39_word_new_line6: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit
+
+  mirror
+
+  phrase'
+bip_39_word_new_line7: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit
+
+  mirror
+
+  phrase
+
+  various'
+bip_39_word_new_line8: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit
+
+  mirror
+
+  phrase
+
+  various
+
+  tunnel'
+bip_39_word_new_line9: 'lecture
+
+  boring
+
+  lamp
+
+  rabbit
+
+  mirror
+
+  phrase
+
+  various
+
+  tunnel
+
+  scene'
+bip_39_word_space_0:
+- lecture
+- boring
+- lamp
+- rabbit
+- mirror
+- phrase
+- various
+- tunnel
+- scene
+- elephant
+- sell
+- adult
+bip_39_word_space_1: lecture
+bip_39_word_space_10: lecture boring lamp rabbit mirror phrase various tunnel scene
+  elephant
+bip_39_word_space_11: lecture boring lamp rabbit mirror phrase various tunnel scene
+  elephant sell
+bip_39_word_space_12: lecture boring lamp rabbit mirror phrase various tunnel scene
+  elephant sell adult
+bip_39_word_space_2: lecture boring
+bip_39_word_space_3: lecture boring lamp
+bip_39_word_space_4: lecture boring lamp rabbit
+bip_39_word_space_5: lecture boring lamp rabbit mirror
+bip_39_word_space_6: lecture boring lamp rabbit mirror phrase
+bip_39_word_space_7: lecture boring lamp rabbit mirror phrase various
+bip_39_word_space_8: lecture boring lamp rabbit mirror phrase various tunnel
+bip_39_word_space_9: lecture boring lamp rabbit mirror phrase various tunnel scene
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

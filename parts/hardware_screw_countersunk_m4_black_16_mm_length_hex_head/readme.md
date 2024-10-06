@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oppose atom
+  * bip 39 word 3: oppose atom notice
+  * bip 39 word: oppose atom notice museum sick bar chef toilet hamster divorce joke art
 
 ### other_codes
 * short_code: cs4b16h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oppose |  
+| bip_39_word_new_br10 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar<br>chef<br>toilet<br>hamster<br>divorce |  
+| bip_39_word_new_br11 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar<br>chef<br>toilet<br>hamster<br>divorce<br>joke |  
+| bip_39_word_new_br12 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar<br>chef<br>toilet<br>hamster<br>divorce<br>joke<br>art |  
+| bip_39_word_new_br2 | oppose<br>atom |  
+| bip_39_word_new_br3 | oppose<br>atom<br>notice |  
+| bip_39_word_new_br4 | oppose<br>atom<br>notice<br>museum |  
+| bip_39_word_new_br5 | oppose<br>atom<br>notice<br>museum<br>sick |  
+| bip_39_word_new_br6 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar |  
+| bip_39_word_new_br7 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar<br>chef |  
+| bip_39_word_new_br8 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar<br>chef<br>toilet |  
+| bip_39_word_new_br9 | oppose<br>atom<br>notice<br>museum<br>sick<br>bar<br>chef<br>toilet<br>hamster |  
+| bip_39_word_new_line1 | oppose |  
+| bip_39_word_new_line10 | oppose
+atom
+notice
+museum
+sick
+bar
+chef
+toilet
+hamster
+divorce |  
+| bip_39_word_new_line11 | oppose
+atom
+notice
+museum
+sick
+bar
+chef
+toilet
+hamster
+divorce
+joke |  
+| bip_39_word_new_line12 | oppose
+atom
+notice
+museum
+sick
+bar
+chef
+toilet
+hamster
+divorce
+joke
+art |  
+| bip_39_word_new_line2 | oppose
+atom |  
+| bip_39_word_new_line3 | oppose
+atom
+notice |  
+| bip_39_word_new_line4 | oppose
+atom
+notice
+museum |  
+| bip_39_word_new_line5 | oppose
+atom
+notice
+museum
+sick |  
+| bip_39_word_new_line6 | oppose
+atom
+notice
+museum
+sick
+bar |  
+| bip_39_word_new_line7 | oppose
+atom
+notice
+museum
+sick
+bar
+chef |  
+| bip_39_word_new_line8 | oppose
+atom
+notice
+museum
+sick
+bar
+chef
+toilet |  
+| bip_39_word_new_line9 | oppose
+atom
+notice
+museum
+sick
+bar
+chef
+toilet
+hamster |  
+| bip_39_word_space_0 | ['oppose', 'atom', 'notice', 'museum', 'sick', 'bar', 'chef', 'toilet', 'hamster', 'divorce', 'joke', 'art'] |  
+| bip_39_word_space_1 | oppose |  
+| bip_39_word_space_10 | oppose atom notice museum sick bar chef toilet hamster divorce |  
+| bip_39_word_space_11 | oppose atom notice museum sick bar chef toilet hamster divorce joke |  
+| bip_39_word_space_12 | oppose atom notice museum sick bar chef toilet hamster divorce joke art |  
+| bip_39_word_space_2 | oppose atom |  
+| bip_39_word_space_3 | oppose atom notice |  
+| bip_39_word_space_4 | oppose atom notice museum |  
+| bip_39_word_space_5 | oppose atom notice museum sick |  
+| bip_39_word_space_6 | oppose atom notice museum sick bar |  
+| bip_39_word_space_7 | oppose atom notice museum sick bar chef |  
+| bip_39_word_space_8 | oppose atom notice museum sick bar chef toilet |  
+| bip_39_word_space_9 | oppose atom notice museum sick bar chef toilet hamster |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

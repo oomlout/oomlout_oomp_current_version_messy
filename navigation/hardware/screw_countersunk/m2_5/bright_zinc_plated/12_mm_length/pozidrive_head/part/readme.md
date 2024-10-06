@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: improve sponsor
+  * bip 39 word 3: improve sponsor grow
+  * bip 39 word: improve sponsor grow aspect vocal educate flip cycle power write label across
 
 ### other_codes
 * short_code: cs2d5bz12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | improve |  
+| bip_39_word_new_br10 | improve<br>sponsor<br>grow<br>aspect<br>vocal<br>educate<br>flip<br>cycle<br>power<br>write |  
+| bip_39_word_new_br11 | improve<br>sponsor<br>grow<br>aspect<br>vocal<br>educate<br>flip<br>cycle<br>power<br>write<br>label |  
+| bip_39_word_new_br12 | improve<br>sponsor<br>grow<br>aspect<br>vocal<br>educate<br>flip<br>cycle<br>power<br>write<br>label<br>across |  
+| bip_39_word_new_br2 | improve<br>sponsor |  
+| bip_39_word_new_br3 | improve<br>sponsor<br>grow |  
+| bip_39_word_new_br4 | improve<br>sponsor<br>grow<br>aspect |  
+| bip_39_word_new_br5 | improve<br>sponsor<br>grow<br>aspect<br>vocal |  
+| bip_39_word_new_br6 | improve<br>sponsor<br>grow<br>aspect<br>vocal<br>educate |  
+| bip_39_word_new_br7 | improve<br>sponsor<br>grow<br>aspect<br>vocal<br>educate<br>flip |  
+| bip_39_word_new_br8 | improve<br>sponsor<br>grow<br>aspect<br>vocal<br>educate<br>flip<br>cycle |  
+| bip_39_word_new_br9 | improve<br>sponsor<br>grow<br>aspect<br>vocal<br>educate<br>flip<br>cycle<br>power |  
+| bip_39_word_new_line1 | improve |  
+| bip_39_word_new_line10 | improve
+sponsor
+grow
+aspect
+vocal
+educate
+flip
+cycle
+power
+write |  
+| bip_39_word_new_line11 | improve
+sponsor
+grow
+aspect
+vocal
+educate
+flip
+cycle
+power
+write
+label |  
+| bip_39_word_new_line12 | improve
+sponsor
+grow
+aspect
+vocal
+educate
+flip
+cycle
+power
+write
+label
+across |  
+| bip_39_word_new_line2 | improve
+sponsor |  
+| bip_39_word_new_line3 | improve
+sponsor
+grow |  
+| bip_39_word_new_line4 | improve
+sponsor
+grow
+aspect |  
+| bip_39_word_new_line5 | improve
+sponsor
+grow
+aspect
+vocal |  
+| bip_39_word_new_line6 | improve
+sponsor
+grow
+aspect
+vocal
+educate |  
+| bip_39_word_new_line7 | improve
+sponsor
+grow
+aspect
+vocal
+educate
+flip |  
+| bip_39_word_new_line8 | improve
+sponsor
+grow
+aspect
+vocal
+educate
+flip
+cycle |  
+| bip_39_word_new_line9 | improve
+sponsor
+grow
+aspect
+vocal
+educate
+flip
+cycle
+power |  
+| bip_39_word_space_0 | ['improve', 'sponsor', 'grow', 'aspect', 'vocal', 'educate', 'flip', 'cycle', 'power', 'write', 'label', 'across'] |  
+| bip_39_word_space_1 | improve |  
+| bip_39_word_space_10 | improve sponsor grow aspect vocal educate flip cycle power write |  
+| bip_39_word_space_11 | improve sponsor grow aspect vocal educate flip cycle power write label |  
+| bip_39_word_space_12 | improve sponsor grow aspect vocal educate flip cycle power write label across |  
+| bip_39_word_space_2 | improve sponsor |  
+| bip_39_word_space_3 | improve sponsor grow |  
+| bip_39_word_space_4 | improve sponsor grow aspect |  
+| bip_39_word_space_5 | improve sponsor grow aspect vocal |  
+| bip_39_word_space_6 | improve sponsor grow aspect vocal educate |  
+| bip_39_word_space_7 | improve sponsor grow aspect vocal educate flip |  
+| bip_39_word_space_8 | improve sponsor grow aspect vocal educate flip cycle |  
+| bip_39_word_space_9 | improve sponsor grow aspect vocal educate flip cycle power |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

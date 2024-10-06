@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: supreme essay
+  * bip 39 word 3: supreme essay track
+  * bip 39 word: supreme essay track grass embody shine body brass renew vehicle dream arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | supreme |  
+| bip_39_word_new_br10 | supreme<br>essay<br>track<br>grass<br>embody<br>shine<br>body<br>brass<br>renew<br>vehicle |  
+| bip_39_word_new_br11 | supreme<br>essay<br>track<br>grass<br>embody<br>shine<br>body<br>brass<br>renew<br>vehicle<br>dream |  
+| bip_39_word_new_br12 | supreme<br>essay<br>track<br>grass<br>embody<br>shine<br>body<br>brass<br>renew<br>vehicle<br>dream<br>arena |  
+| bip_39_word_new_br2 | supreme<br>essay |  
+| bip_39_word_new_br3 | supreme<br>essay<br>track |  
+| bip_39_word_new_br4 | supreme<br>essay<br>track<br>grass |  
+| bip_39_word_new_br5 | supreme<br>essay<br>track<br>grass<br>embody |  
+| bip_39_word_new_br6 | supreme<br>essay<br>track<br>grass<br>embody<br>shine |  
+| bip_39_word_new_br7 | supreme<br>essay<br>track<br>grass<br>embody<br>shine<br>body |  
+| bip_39_word_new_br8 | supreme<br>essay<br>track<br>grass<br>embody<br>shine<br>body<br>brass |  
+| bip_39_word_new_br9 | supreme<br>essay<br>track<br>grass<br>embody<br>shine<br>body<br>brass<br>renew |  
+| bip_39_word_new_line1 | supreme |  
+| bip_39_word_new_line10 | supreme
+essay
+track
+grass
+embody
+shine
+body
+brass
+renew
+vehicle |  
+| bip_39_word_new_line11 | supreme
+essay
+track
+grass
+embody
+shine
+body
+brass
+renew
+vehicle
+dream |  
+| bip_39_word_new_line12 | supreme
+essay
+track
+grass
+embody
+shine
+body
+brass
+renew
+vehicle
+dream
+arena |  
+| bip_39_word_new_line2 | supreme
+essay |  
+| bip_39_word_new_line3 | supreme
+essay
+track |  
+| bip_39_word_new_line4 | supreme
+essay
+track
+grass |  
+| bip_39_word_new_line5 | supreme
+essay
+track
+grass
+embody |  
+| bip_39_word_new_line6 | supreme
+essay
+track
+grass
+embody
+shine |  
+| bip_39_word_new_line7 | supreme
+essay
+track
+grass
+embody
+shine
+body |  
+| bip_39_word_new_line8 | supreme
+essay
+track
+grass
+embody
+shine
+body
+brass |  
+| bip_39_word_new_line9 | supreme
+essay
+track
+grass
+embody
+shine
+body
+brass
+renew |  
+| bip_39_word_space_0 | ['supreme', 'essay', 'track', 'grass', 'embody', 'shine', 'body', 'brass', 'renew', 'vehicle', 'dream', 'arena'] |  
+| bip_39_word_space_1 | supreme |  
+| bip_39_word_space_10 | supreme essay track grass embody shine body brass renew vehicle |  
+| bip_39_word_space_11 | supreme essay track grass embody shine body brass renew vehicle dream |  
+| bip_39_word_space_12 | supreme essay track grass embody shine body brass renew vehicle dream arena |  
+| bip_39_word_space_2 | supreme essay |  
+| bip_39_word_space_3 | supreme essay track |  
+| bip_39_word_space_4 | supreme essay track grass |  
+| bip_39_word_space_5 | supreme essay track grass embody |  
+| bip_39_word_space_6 | supreme essay track grass embody shine |  
+| bip_39_word_space_7 | supreme essay track grass embody shine body |  
+| bip_39_word_space_8 | supreme essay track grass embody shine body brass |  
+| bip_39_word_space_9 | supreme essay track grass embody shine body brass renew |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

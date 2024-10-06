@@ -1,3 +1,186 @@
+bip_39_word_new_br1: brand
+bip_39_word_new_br10: brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper
+bip_39_word_new_br11: brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper<br>gloom
+bip_39_word_new_br12: brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff<br>whisper<br>gloom<br>addict
+bip_39_word_new_br2: brand<br>empower
+bip_39_word_new_br3: brand<br>empower<br>whale
+bip_39_word_new_br4: brand<br>empower<br>whale<br>coast
+bip_39_word_new_br5: brand<br>empower<br>whale<br>coast<br>comic
+bip_39_word_new_br6: brand<br>empower<br>whale<br>coast<br>comic<br>claw
+bip_39_word_new_br7: brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski
+bip_39_word_new_br8: brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make
+bip_39_word_new_br9: brand<br>empower<br>whale<br>coast<br>comic<br>claw<br>ski<br>make<br>staff
+bip_39_word_new_line1: brand
+bip_39_word_new_line10: 'brand
+
+  empower
+
+  whale
+
+  coast
+
+  comic
+
+  claw
+
+  ski
+
+  make
+
+  staff
+
+  whisper'
+bip_39_word_new_line11: 'brand
+
+  empower
+
+  whale
+
+  coast
+
+  comic
+
+  claw
+
+  ski
+
+  make
+
+  staff
+
+  whisper
+
+  gloom'
+bip_39_word_new_line12: 'brand
+
+  empower
+
+  whale
+
+  coast
+
+  comic
+
+  claw
+
+  ski
+
+  make
+
+  staff
+
+  whisper
+
+  gloom
+
+  addict'
+bip_39_word_new_line2: 'brand
+
+  empower'
+bip_39_word_new_line3: 'brand
+
+  empower
+
+  whale'
+bip_39_word_new_line4: 'brand
+
+  empower
+
+  whale
+
+  coast'
+bip_39_word_new_line5: 'brand
+
+  empower
+
+  whale
+
+  coast
+
+  comic'
+bip_39_word_new_line6: 'brand
+
+  empower
+
+  whale
+
+  coast
+
+  comic
+
+  claw'
+bip_39_word_new_line7: 'brand
+
+  empower
+
+  whale
+
+  coast
+
+  comic
+
+  claw
+
+  ski'
+bip_39_word_new_line8: 'brand
+
+  empower
+
+  whale
+
+  coast
+
+  comic
+
+  claw
+
+  ski
+
+  make'
+bip_39_word_new_line9: 'brand
+
+  empower
+
+  whale
+
+  coast
+
+  comic
+
+  claw
+
+  ski
+
+  make
+
+  staff'
+bip_39_word_space_0:
+- brand
+- empower
+- whale
+- coast
+- comic
+- claw
+- ski
+- make
+- staff
+- whisper
+- gloom
+- addict
+bip_39_word_space_1: brand
+bip_39_word_space_10: brand empower whale coast comic claw ski make staff whisper
+bip_39_word_space_11: brand empower whale coast comic claw ski make staff whisper
+  gloom
+bip_39_word_space_12: brand empower whale coast comic claw ski make staff whisper
+  gloom addict
+bip_39_word_space_2: brand empower
+bip_39_word_space_3: brand empower whale
+bip_39_word_space_4: brand empower whale coast
+bip_39_word_space_5: brand empower whale coast comic
+bip_39_word_space_6: brand empower whale coast comic claw
+bip_39_word_space_7: brand empower whale coast comic claw ski
+bip_39_word_space_8: brand empower whale coast comic claw ski make
+bip_39_word_space_9: brand empower whale coast comic claw ski make staff
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

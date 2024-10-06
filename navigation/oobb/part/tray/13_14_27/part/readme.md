@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bacon wrong
+  * bip 39 word 3: bacon wrong remain
+  * bip 39 word: bacon wrong remain slogan man small order beach certain diamond rifle alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bacon |  
+| bip_39_word_new_br10 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small<br>order<br>beach<br>certain<br>diamond |  
+| bip_39_word_new_br11 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small<br>order<br>beach<br>certain<br>diamond<br>rifle |  
+| bip_39_word_new_br12 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small<br>order<br>beach<br>certain<br>diamond<br>rifle<br>alone |  
+| bip_39_word_new_br2 | bacon<br>wrong |  
+| bip_39_word_new_br3 | bacon<br>wrong<br>remain |  
+| bip_39_word_new_br4 | bacon<br>wrong<br>remain<br>slogan |  
+| bip_39_word_new_br5 | bacon<br>wrong<br>remain<br>slogan<br>man |  
+| bip_39_word_new_br6 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small |  
+| bip_39_word_new_br7 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small<br>order |  
+| bip_39_word_new_br8 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small<br>order<br>beach |  
+| bip_39_word_new_br9 | bacon<br>wrong<br>remain<br>slogan<br>man<br>small<br>order<br>beach<br>certain |  
+| bip_39_word_new_line1 | bacon |  
+| bip_39_word_new_line10 | bacon
+wrong
+remain
+slogan
+man
+small
+order
+beach
+certain
+diamond |  
+| bip_39_word_new_line11 | bacon
+wrong
+remain
+slogan
+man
+small
+order
+beach
+certain
+diamond
+rifle |  
+| bip_39_word_new_line12 | bacon
+wrong
+remain
+slogan
+man
+small
+order
+beach
+certain
+diamond
+rifle
+alone |  
+| bip_39_word_new_line2 | bacon
+wrong |  
+| bip_39_word_new_line3 | bacon
+wrong
+remain |  
+| bip_39_word_new_line4 | bacon
+wrong
+remain
+slogan |  
+| bip_39_word_new_line5 | bacon
+wrong
+remain
+slogan
+man |  
+| bip_39_word_new_line6 | bacon
+wrong
+remain
+slogan
+man
+small |  
+| bip_39_word_new_line7 | bacon
+wrong
+remain
+slogan
+man
+small
+order |  
+| bip_39_word_new_line8 | bacon
+wrong
+remain
+slogan
+man
+small
+order
+beach |  
+| bip_39_word_new_line9 | bacon
+wrong
+remain
+slogan
+man
+small
+order
+beach
+certain |  
+| bip_39_word_space_0 | ['bacon', 'wrong', 'remain', 'slogan', 'man', 'small', 'order', 'beach', 'certain', 'diamond', 'rifle', 'alone'] |  
+| bip_39_word_space_1 | bacon |  
+| bip_39_word_space_10 | bacon wrong remain slogan man small order beach certain diamond |  
+| bip_39_word_space_11 | bacon wrong remain slogan man small order beach certain diamond rifle |  
+| bip_39_word_space_12 | bacon wrong remain slogan man small order beach certain diamond rifle alone |  
+| bip_39_word_space_2 | bacon wrong |  
+| bip_39_word_space_3 | bacon wrong remain |  
+| bip_39_word_space_4 | bacon wrong remain slogan |  
+| bip_39_word_space_5 | bacon wrong remain slogan man |  
+| bip_39_word_space_6 | bacon wrong remain slogan man small |  
+| bip_39_word_space_7 | bacon wrong remain slogan man small order |  
+| bip_39_word_space_8 | bacon wrong remain slogan man small order beach |  
+| bip_39_word_space_9 | bacon wrong remain slogan man small order beach certain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

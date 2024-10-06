@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clump
+bip_39_word_new_br10: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy
+bip_39_word_new_br11: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy<br>desk
+bip_39_word_new_br12: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next<br>happy<br>desk<br>about
+bip_39_word_new_br2: clump<br>sight
+bip_39_word_new_br3: clump<br>sight<br>citizen
+bip_39_word_new_br4: clump<br>sight<br>citizen<br>exhibit
+bip_39_word_new_br5: clump<br>sight<br>citizen<br>exhibit<br>tower
+bip_39_word_new_br6: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process
+bip_39_word_new_br7: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent
+bip_39_word_new_br8: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they
+bip_39_word_new_br9: clump<br>sight<br>citizen<br>exhibit<br>tower<br>process<br>parent<br>they<br>next
+bip_39_word_new_line1: clump
+bip_39_word_new_line10: 'clump
+
+  sight
+
+  citizen
+
+  exhibit
+
+  tower
+
+  process
+
+  parent
+
+  they
+
+  next
+
+  happy'
+bip_39_word_new_line11: 'clump
+
+  sight
+
+  citizen
+
+  exhibit
+
+  tower
+
+  process
+
+  parent
+
+  they
+
+  next
+
+  happy
+
+  desk'
+bip_39_word_new_line12: 'clump
+
+  sight
+
+  citizen
+
+  exhibit
+
+  tower
+
+  process
+
+  parent
+
+  they
+
+  next
+
+  happy
+
+  desk
+
+  about'
+bip_39_word_new_line2: 'clump
+
+  sight'
+bip_39_word_new_line3: 'clump
+
+  sight
+
+  citizen'
+bip_39_word_new_line4: 'clump
+
+  sight
+
+  citizen
+
+  exhibit'
+bip_39_word_new_line5: 'clump
+
+  sight
+
+  citizen
+
+  exhibit
+
+  tower'
+bip_39_word_new_line6: 'clump
+
+  sight
+
+  citizen
+
+  exhibit
+
+  tower
+
+  process'
+bip_39_word_new_line7: 'clump
+
+  sight
+
+  citizen
+
+  exhibit
+
+  tower
+
+  process
+
+  parent'
+bip_39_word_new_line8: 'clump
+
+  sight
+
+  citizen
+
+  exhibit
+
+  tower
+
+  process
+
+  parent
+
+  they'
+bip_39_word_new_line9: 'clump
+
+  sight
+
+  citizen
+
+  exhibit
+
+  tower
+
+  process
+
+  parent
+
+  they
+
+  next'
+bip_39_word_space_0:
+- clump
+- sight
+- citizen
+- exhibit
+- tower
+- process
+- parent
+- they
+- next
+- happy
+- desk
+- about
+bip_39_word_space_1: clump
+bip_39_word_space_10: clump sight citizen exhibit tower process parent they next happy
+bip_39_word_space_11: clump sight citizen exhibit tower process parent they next happy
+  desk
+bip_39_word_space_12: clump sight citizen exhibit tower process parent they next happy
+  desk about
+bip_39_word_space_2: clump sight
+bip_39_word_space_3: clump sight citizen
+bip_39_word_space_4: clump sight citizen exhibit
+bip_39_word_space_5: clump sight citizen exhibit tower
+bip_39_word_space_6: clump sight citizen exhibit tower process
+bip_39_word_space_7: clump sight citizen exhibit tower process parent
+bip_39_word_space_8: clump sight citizen exhibit tower process parent they
+bip_39_word_space_9: clump sight citizen exhibit tower process parent they next
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

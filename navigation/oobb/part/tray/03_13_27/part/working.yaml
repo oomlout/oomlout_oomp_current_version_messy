@@ -1,3 +1,186 @@
+bip_39_word_new_br1: school
+bip_39_word_new_br10: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old<br>draft
+bip_39_word_new_br11: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old<br>draft<br>meadow
+bip_39_word_new_br12: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old<br>draft<br>meadow<br>animal
+bip_39_word_new_br2: school<br>dragon
+bip_39_word_new_br3: school<br>dragon<br>north
+bip_39_word_new_br4: school<br>dragon<br>north<br>tornado
+bip_39_word_new_br5: school<br>dragon<br>north<br>tornado<br>child
+bip_39_word_new_br6: school<br>dragon<br>north<br>tornado<br>child<br>whale
+bip_39_word_new_br7: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine
+bip_39_word_new_br8: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode
+bip_39_word_new_br9: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old
+bip_39_word_new_line1: school
+bip_39_word_new_line10: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode
+
+  old
+
+  draft'
+bip_39_word_new_line11: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode
+
+  old
+
+  draft
+
+  meadow'
+bip_39_word_new_line12: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode
+
+  old
+
+  draft
+
+  meadow
+
+  animal'
+bip_39_word_new_line2: 'school
+
+  dragon'
+bip_39_word_new_line3: 'school
+
+  dragon
+
+  north'
+bip_39_word_new_line4: 'school
+
+  dragon
+
+  north
+
+  tornado'
+bip_39_word_new_line5: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child'
+bip_39_word_new_line6: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale'
+bip_39_word_new_line7: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine'
+bip_39_word_new_line8: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode'
+bip_39_word_new_line9: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode
+
+  old'
+bip_39_word_space_0:
+- school
+- dragon
+- north
+- tornado
+- child
+- whale
+- marine
+- erode
+- old
+- draft
+- meadow
+- animal
+bip_39_word_space_1: school
+bip_39_word_space_10: school dragon north tornado child whale marine erode old draft
+bip_39_word_space_11: school dragon north tornado child whale marine erode old draft
+  meadow
+bip_39_word_space_12: school dragon north tornado child whale marine erode old draft
+  meadow animal
+bip_39_word_space_2: school dragon
+bip_39_word_space_3: school dragon north
+bip_39_word_space_4: school dragon north tornado
+bip_39_word_space_5: school dragon north tornado child
+bip_39_word_space_6: school dragon north tornado child whale
+bip_39_word_space_7: school dragon north tornado child whale marine
+bip_39_word_space_8: school dragon north tornado child whale marine erode
+bip_39_word_space_9: school dragon north tornado child whale marine erode old
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

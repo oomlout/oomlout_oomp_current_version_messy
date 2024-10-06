@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ghost
+bip_39_word_new_br10: ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second
+bip_39_word_new_br11: ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second<br>grief
+bip_39_word_new_br12: ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart<br>second<br>grief<br>assist
+bip_39_word_new_br2: ghost<br>decade
+bip_39_word_new_br3: ghost<br>decade<br>torch
+bip_39_word_new_br4: ghost<br>decade<br>torch<br>spring
+bip_39_word_new_br5: ghost<br>decade<br>torch<br>spring<br>toilet
+bip_39_word_new_br6: ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper
+bip_39_word_new_br7: ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside
+bip_39_word_new_br8: ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence
+bip_39_word_new_br9: ghost<br>decade<br>torch<br>spring<br>toilet<br>whisper<br>inside<br>sentence<br>apart
+bip_39_word_new_line1: ghost
+bip_39_word_new_line10: 'ghost
+
+  decade
+
+  torch
+
+  spring
+
+  toilet
+
+  whisper
+
+  inside
+
+  sentence
+
+  apart
+
+  second'
+bip_39_word_new_line11: 'ghost
+
+  decade
+
+  torch
+
+  spring
+
+  toilet
+
+  whisper
+
+  inside
+
+  sentence
+
+  apart
+
+  second
+
+  grief'
+bip_39_word_new_line12: 'ghost
+
+  decade
+
+  torch
+
+  spring
+
+  toilet
+
+  whisper
+
+  inside
+
+  sentence
+
+  apart
+
+  second
+
+  grief
+
+  assist'
+bip_39_word_new_line2: 'ghost
+
+  decade'
+bip_39_word_new_line3: 'ghost
+
+  decade
+
+  torch'
+bip_39_word_new_line4: 'ghost
+
+  decade
+
+  torch
+
+  spring'
+bip_39_word_new_line5: 'ghost
+
+  decade
+
+  torch
+
+  spring
+
+  toilet'
+bip_39_word_new_line6: 'ghost
+
+  decade
+
+  torch
+
+  spring
+
+  toilet
+
+  whisper'
+bip_39_word_new_line7: 'ghost
+
+  decade
+
+  torch
+
+  spring
+
+  toilet
+
+  whisper
+
+  inside'
+bip_39_word_new_line8: 'ghost
+
+  decade
+
+  torch
+
+  spring
+
+  toilet
+
+  whisper
+
+  inside
+
+  sentence'
+bip_39_word_new_line9: 'ghost
+
+  decade
+
+  torch
+
+  spring
+
+  toilet
+
+  whisper
+
+  inside
+
+  sentence
+
+  apart'
+bip_39_word_space_0:
+- ghost
+- decade
+- torch
+- spring
+- toilet
+- whisper
+- inside
+- sentence
+- apart
+- second
+- grief
+- assist
+bip_39_word_space_1: ghost
+bip_39_word_space_10: ghost decade torch spring toilet whisper inside sentence apart
+  second
+bip_39_word_space_11: ghost decade torch spring toilet whisper inside sentence apart
+  second grief
+bip_39_word_space_12: ghost decade torch spring toilet whisper inside sentence apart
+  second grief assist
+bip_39_word_space_2: ghost decade
+bip_39_word_space_3: ghost decade torch
+bip_39_word_space_4: ghost decade torch spring
+bip_39_word_space_5: ghost decade torch spring toilet
+bip_39_word_space_6: ghost decade torch spring toilet whisper
+bip_39_word_space_7: ghost decade torch spring toilet whisper inside
+bip_39_word_space_8: ghost decade torch spring toilet whisper inside sentence
+bip_39_word_space_9: ghost decade torch spring toilet whisper inside sentence apart
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

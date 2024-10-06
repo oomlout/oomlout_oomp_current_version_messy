@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: law floor
+  * bip 39 word 3: law floor cherry
+  * bip 39 word: law floor cherry seat reflect escape lemon soul observe embark romance adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | law |  
+| bip_39_word_new_br10 | law<br>floor<br>cherry<br>seat<br>reflect<br>escape<br>lemon<br>soul<br>observe<br>embark |  
+| bip_39_word_new_br11 | law<br>floor<br>cherry<br>seat<br>reflect<br>escape<br>lemon<br>soul<br>observe<br>embark<br>romance |  
+| bip_39_word_new_br12 | law<br>floor<br>cherry<br>seat<br>reflect<br>escape<br>lemon<br>soul<br>observe<br>embark<br>romance<br>adapt |  
+| bip_39_word_new_br2 | law<br>floor |  
+| bip_39_word_new_br3 | law<br>floor<br>cherry |  
+| bip_39_word_new_br4 | law<br>floor<br>cherry<br>seat |  
+| bip_39_word_new_br5 | law<br>floor<br>cherry<br>seat<br>reflect |  
+| bip_39_word_new_br6 | law<br>floor<br>cherry<br>seat<br>reflect<br>escape |  
+| bip_39_word_new_br7 | law<br>floor<br>cherry<br>seat<br>reflect<br>escape<br>lemon |  
+| bip_39_word_new_br8 | law<br>floor<br>cherry<br>seat<br>reflect<br>escape<br>lemon<br>soul |  
+| bip_39_word_new_br9 | law<br>floor<br>cherry<br>seat<br>reflect<br>escape<br>lemon<br>soul<br>observe |  
+| bip_39_word_new_line1 | law |  
+| bip_39_word_new_line10 | law
+floor
+cherry
+seat
+reflect
+escape
+lemon
+soul
+observe
+embark |  
+| bip_39_word_new_line11 | law
+floor
+cherry
+seat
+reflect
+escape
+lemon
+soul
+observe
+embark
+romance |  
+| bip_39_word_new_line12 | law
+floor
+cherry
+seat
+reflect
+escape
+lemon
+soul
+observe
+embark
+romance
+adapt |  
+| bip_39_word_new_line2 | law
+floor |  
+| bip_39_word_new_line3 | law
+floor
+cherry |  
+| bip_39_word_new_line4 | law
+floor
+cherry
+seat |  
+| bip_39_word_new_line5 | law
+floor
+cherry
+seat
+reflect |  
+| bip_39_word_new_line6 | law
+floor
+cherry
+seat
+reflect
+escape |  
+| bip_39_word_new_line7 | law
+floor
+cherry
+seat
+reflect
+escape
+lemon |  
+| bip_39_word_new_line8 | law
+floor
+cherry
+seat
+reflect
+escape
+lemon
+soul |  
+| bip_39_word_new_line9 | law
+floor
+cherry
+seat
+reflect
+escape
+lemon
+soul
+observe |  
+| bip_39_word_space_0 | ['law', 'floor', 'cherry', 'seat', 'reflect', 'escape', 'lemon', 'soul', 'observe', 'embark', 'romance', 'adapt'] |  
+| bip_39_word_space_1 | law |  
+| bip_39_word_space_10 | law floor cherry seat reflect escape lemon soul observe embark |  
+| bip_39_word_space_11 | law floor cherry seat reflect escape lemon soul observe embark romance |  
+| bip_39_word_space_12 | law floor cherry seat reflect escape lemon soul observe embark romance adapt |  
+| bip_39_word_space_2 | law floor |  
+| bip_39_word_space_3 | law floor cherry |  
+| bip_39_word_space_4 | law floor cherry seat |  
+| bip_39_word_space_5 | law floor cherry seat reflect |  
+| bip_39_word_space_6 | law floor cherry seat reflect escape |  
+| bip_39_word_space_7 | law floor cherry seat reflect escape lemon |  
+| bip_39_word_space_8 | law floor cherry seat reflect escape lemon soul |  
+| bip_39_word_space_9 | law floor cherry seat reflect escape lemon soul observe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

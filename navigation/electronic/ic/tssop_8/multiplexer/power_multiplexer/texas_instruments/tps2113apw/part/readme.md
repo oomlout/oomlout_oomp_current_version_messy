@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: texas_instruments
   * part_number: tps2113apw
+  * bip 39 word 2: one weasel
+  * bip 39 word 3: one weasel caution
+  * bip 39 word: one weasel caution remove explain ancient chicken winter usage genuine situate amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | one |  
+| bip_39_word_new_br10 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine |  
+| bip_39_word_new_br11 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate |  
+| bip_39_word_new_br12 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate<br>amazing |  
+| bip_39_word_new_br2 | one<br>weasel |  
+| bip_39_word_new_br3 | one<br>weasel<br>caution |  
+| bip_39_word_new_br4 | one<br>weasel<br>caution<br>remove |  
+| bip_39_word_new_br5 | one<br>weasel<br>caution<br>remove<br>explain |  
+| bip_39_word_new_br6 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient |  
+| bip_39_word_new_br7 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken |  
+| bip_39_word_new_br8 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter |  
+| bip_39_word_new_br9 | one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage |  
+| bip_39_word_new_line1 | one |  
+| bip_39_word_new_line10 | one
+weasel
+caution
+remove
+explain
+ancient
+chicken
+winter
+usage
+genuine |  
+| bip_39_word_new_line11 | one
+weasel
+caution
+remove
+explain
+ancient
+chicken
+winter
+usage
+genuine
+situate |  
+| bip_39_word_new_line12 | one
+weasel
+caution
+remove
+explain
+ancient
+chicken
+winter
+usage
+genuine
+situate
+amazing |  
+| bip_39_word_new_line2 | one
+weasel |  
+| bip_39_word_new_line3 | one
+weasel
+caution |  
+| bip_39_word_new_line4 | one
+weasel
+caution
+remove |  
+| bip_39_word_new_line5 | one
+weasel
+caution
+remove
+explain |  
+| bip_39_word_new_line6 | one
+weasel
+caution
+remove
+explain
+ancient |  
+| bip_39_word_new_line7 | one
+weasel
+caution
+remove
+explain
+ancient
+chicken |  
+| bip_39_word_new_line8 | one
+weasel
+caution
+remove
+explain
+ancient
+chicken
+winter |  
+| bip_39_word_new_line9 | one
+weasel
+caution
+remove
+explain
+ancient
+chicken
+winter
+usage |  
+| bip_39_word_space_0 | ['one', 'weasel', 'caution', 'remove', 'explain', 'ancient', 'chicken', 'winter', 'usage', 'genuine', 'situate', 'amazing'] |  
+| bip_39_word_space_1 | one |  
+| bip_39_word_space_10 | one weasel caution remove explain ancient chicken winter usage genuine |  
+| bip_39_word_space_11 | one weasel caution remove explain ancient chicken winter usage genuine situate |  
+| bip_39_word_space_12 | one weasel caution remove explain ancient chicken winter usage genuine situate amazing |  
+| bip_39_word_space_2 | one weasel |  
+| bip_39_word_space_3 | one weasel caution |  
+| bip_39_word_space_4 | one weasel caution remove |  
+| bip_39_word_space_5 | one weasel caution remove explain |  
+| bip_39_word_space_6 | one weasel caution remove explain ancient |  
+| bip_39_word_space_7 | one weasel caution remove explain ancient chicken |  
+| bip_39_word_space_8 | one weasel caution remove explain ancient chicken winter |  
+| bip_39_word_space_9 | one weasel caution remove explain ancient chicken winter usage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

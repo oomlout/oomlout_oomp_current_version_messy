@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vicious field
+  * bip 39 word 3: vicious field drink
+  * bip 39 word: vicious field drink hint achieve lawsuit fiscal solution wonder diesel repeat annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vicious |  
+| bip_39_word_new_br10 | vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit<br>fiscal<br>solution<br>wonder<br>diesel |  
+| bip_39_word_new_br11 | vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit<br>fiscal<br>solution<br>wonder<br>diesel<br>repeat |  
+| bip_39_word_new_br12 | vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit<br>fiscal<br>solution<br>wonder<br>diesel<br>repeat<br>annual |  
+| bip_39_word_new_br2 | vicious<br>field |  
+| bip_39_word_new_br3 | vicious<br>field<br>drink |  
+| bip_39_word_new_br4 | vicious<br>field<br>drink<br>hint |  
+| bip_39_word_new_br5 | vicious<br>field<br>drink<br>hint<br>achieve |  
+| bip_39_word_new_br6 | vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit |  
+| bip_39_word_new_br7 | vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit<br>fiscal |  
+| bip_39_word_new_br8 | vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit<br>fiscal<br>solution |  
+| bip_39_word_new_br9 | vicious<br>field<br>drink<br>hint<br>achieve<br>lawsuit<br>fiscal<br>solution<br>wonder |  
+| bip_39_word_new_line1 | vicious |  
+| bip_39_word_new_line10 | vicious
+field
+drink
+hint
+achieve
+lawsuit
+fiscal
+solution
+wonder
+diesel |  
+| bip_39_word_new_line11 | vicious
+field
+drink
+hint
+achieve
+lawsuit
+fiscal
+solution
+wonder
+diesel
+repeat |  
+| bip_39_word_new_line12 | vicious
+field
+drink
+hint
+achieve
+lawsuit
+fiscal
+solution
+wonder
+diesel
+repeat
+annual |  
+| bip_39_word_new_line2 | vicious
+field |  
+| bip_39_word_new_line3 | vicious
+field
+drink |  
+| bip_39_word_new_line4 | vicious
+field
+drink
+hint |  
+| bip_39_word_new_line5 | vicious
+field
+drink
+hint
+achieve |  
+| bip_39_word_new_line6 | vicious
+field
+drink
+hint
+achieve
+lawsuit |  
+| bip_39_word_new_line7 | vicious
+field
+drink
+hint
+achieve
+lawsuit
+fiscal |  
+| bip_39_word_new_line8 | vicious
+field
+drink
+hint
+achieve
+lawsuit
+fiscal
+solution |  
+| bip_39_word_new_line9 | vicious
+field
+drink
+hint
+achieve
+lawsuit
+fiscal
+solution
+wonder |  
+| bip_39_word_space_0 | ['vicious', 'field', 'drink', 'hint', 'achieve', 'lawsuit', 'fiscal', 'solution', 'wonder', 'diesel', 'repeat', 'annual'] |  
+| bip_39_word_space_1 | vicious |  
+| bip_39_word_space_10 | vicious field drink hint achieve lawsuit fiscal solution wonder diesel |  
+| bip_39_word_space_11 | vicious field drink hint achieve lawsuit fiscal solution wonder diesel repeat |  
+| bip_39_word_space_12 | vicious field drink hint achieve lawsuit fiscal solution wonder diesel repeat annual |  
+| bip_39_word_space_2 | vicious field |  
+| bip_39_word_space_3 | vicious field drink |  
+| bip_39_word_space_4 | vicious field drink hint |  
+| bip_39_word_space_5 | vicious field drink hint achieve |  
+| bip_39_word_space_6 | vicious field drink hint achieve lawsuit |  
+| bip_39_word_space_7 | vicious field drink hint achieve lawsuit fiscal |  
+| bip_39_word_space_8 | vicious field drink hint achieve lawsuit fiscal solution |  
+| bip_39_word_space_9 | vicious field drink hint achieve lawsuit fiscal solution wonder |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

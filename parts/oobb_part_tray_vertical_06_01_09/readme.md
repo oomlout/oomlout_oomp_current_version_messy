@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gaze rate
+  * bip 39 word 3: gaze rate cry
+  * bip 39 word: gaze rate cry apology culture symbol treat amateur buyer pulp clever another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gaze |  
+| bip_39_word_new_br10 | gaze<br>rate<br>cry<br>apology<br>culture<br>symbol<br>treat<br>amateur<br>buyer<br>pulp |  
+| bip_39_word_new_br11 | gaze<br>rate<br>cry<br>apology<br>culture<br>symbol<br>treat<br>amateur<br>buyer<br>pulp<br>clever |  
+| bip_39_word_new_br12 | gaze<br>rate<br>cry<br>apology<br>culture<br>symbol<br>treat<br>amateur<br>buyer<br>pulp<br>clever<br>another |  
+| bip_39_word_new_br2 | gaze<br>rate |  
+| bip_39_word_new_br3 | gaze<br>rate<br>cry |  
+| bip_39_word_new_br4 | gaze<br>rate<br>cry<br>apology |  
+| bip_39_word_new_br5 | gaze<br>rate<br>cry<br>apology<br>culture |  
+| bip_39_word_new_br6 | gaze<br>rate<br>cry<br>apology<br>culture<br>symbol |  
+| bip_39_word_new_br7 | gaze<br>rate<br>cry<br>apology<br>culture<br>symbol<br>treat |  
+| bip_39_word_new_br8 | gaze<br>rate<br>cry<br>apology<br>culture<br>symbol<br>treat<br>amateur |  
+| bip_39_word_new_br9 | gaze<br>rate<br>cry<br>apology<br>culture<br>symbol<br>treat<br>amateur<br>buyer |  
+| bip_39_word_new_line1 | gaze |  
+| bip_39_word_new_line10 | gaze
+rate
+cry
+apology
+culture
+symbol
+treat
+amateur
+buyer
+pulp |  
+| bip_39_word_new_line11 | gaze
+rate
+cry
+apology
+culture
+symbol
+treat
+amateur
+buyer
+pulp
+clever |  
+| bip_39_word_new_line12 | gaze
+rate
+cry
+apology
+culture
+symbol
+treat
+amateur
+buyer
+pulp
+clever
+another |  
+| bip_39_word_new_line2 | gaze
+rate |  
+| bip_39_word_new_line3 | gaze
+rate
+cry |  
+| bip_39_word_new_line4 | gaze
+rate
+cry
+apology |  
+| bip_39_word_new_line5 | gaze
+rate
+cry
+apology
+culture |  
+| bip_39_word_new_line6 | gaze
+rate
+cry
+apology
+culture
+symbol |  
+| bip_39_word_new_line7 | gaze
+rate
+cry
+apology
+culture
+symbol
+treat |  
+| bip_39_word_new_line8 | gaze
+rate
+cry
+apology
+culture
+symbol
+treat
+amateur |  
+| bip_39_word_new_line9 | gaze
+rate
+cry
+apology
+culture
+symbol
+treat
+amateur
+buyer |  
+| bip_39_word_space_0 | ['gaze', 'rate', 'cry', 'apology', 'culture', 'symbol', 'treat', 'amateur', 'buyer', 'pulp', 'clever', 'another'] |  
+| bip_39_word_space_1 | gaze |  
+| bip_39_word_space_10 | gaze rate cry apology culture symbol treat amateur buyer pulp |  
+| bip_39_word_space_11 | gaze rate cry apology culture symbol treat amateur buyer pulp clever |  
+| bip_39_word_space_12 | gaze rate cry apology culture symbol treat amateur buyer pulp clever another |  
+| bip_39_word_space_2 | gaze rate |  
+| bip_39_word_space_3 | gaze rate cry |  
+| bip_39_word_space_4 | gaze rate cry apology |  
+| bip_39_word_space_5 | gaze rate cry apology culture |  
+| bip_39_word_space_6 | gaze rate cry apology culture symbol |  
+| bip_39_word_space_7 | gaze rate cry apology culture symbol treat |  
+| bip_39_word_space_8 | gaze rate cry apology culture symbol treat amateur |  
+| bip_39_word_space_9 | gaze rate cry apology culture symbol treat amateur buyer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

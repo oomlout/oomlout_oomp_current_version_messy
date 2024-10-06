@@ -1,3 +1,185 @@
+bip_39_word_new_br1: nut
+bip_39_word_new_br10: nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad
+bip_39_word_new_br11: nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad<br>glue
+bip_39_word_new_br12: nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad<br>glue<br>affair
+bip_39_word_new_br2: nut<br>blind
+bip_39_word_new_br3: nut<br>blind<br>vacant
+bip_39_word_new_br4: nut<br>blind<br>vacant<br>evil
+bip_39_word_new_br5: nut<br>blind<br>vacant<br>evil<br>surround
+bip_39_word_new_br6: nut<br>blind<br>vacant<br>evil<br>surround<br>mango
+bip_39_word_new_br7: nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once
+bip_39_word_new_br8: nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor
+bip_39_word_new_br9: nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load
+bip_39_word_new_line1: nut
+bip_39_word_new_line10: 'nut
+
+  blind
+
+  vacant
+
+  evil
+
+  surround
+
+  mango
+
+  once
+
+  armor
+
+  load
+
+  sad'
+bip_39_word_new_line11: 'nut
+
+  blind
+
+  vacant
+
+  evil
+
+  surround
+
+  mango
+
+  once
+
+  armor
+
+  load
+
+  sad
+
+  glue'
+bip_39_word_new_line12: 'nut
+
+  blind
+
+  vacant
+
+  evil
+
+  surround
+
+  mango
+
+  once
+
+  armor
+
+  load
+
+  sad
+
+  glue
+
+  affair'
+bip_39_word_new_line2: 'nut
+
+  blind'
+bip_39_word_new_line3: 'nut
+
+  blind
+
+  vacant'
+bip_39_word_new_line4: 'nut
+
+  blind
+
+  vacant
+
+  evil'
+bip_39_word_new_line5: 'nut
+
+  blind
+
+  vacant
+
+  evil
+
+  surround'
+bip_39_word_new_line6: 'nut
+
+  blind
+
+  vacant
+
+  evil
+
+  surround
+
+  mango'
+bip_39_word_new_line7: 'nut
+
+  blind
+
+  vacant
+
+  evil
+
+  surround
+
+  mango
+
+  once'
+bip_39_word_new_line8: 'nut
+
+  blind
+
+  vacant
+
+  evil
+
+  surround
+
+  mango
+
+  once
+
+  armor'
+bip_39_word_new_line9: 'nut
+
+  blind
+
+  vacant
+
+  evil
+
+  surround
+
+  mango
+
+  once
+
+  armor
+
+  load'
+bip_39_word_space_0:
+- nut
+- blind
+- vacant
+- evil
+- surround
+- mango
+- once
+- armor
+- load
+- sad
+- glue
+- affair
+bip_39_word_space_1: nut
+bip_39_word_space_10: nut blind vacant evil surround mango once armor load sad
+bip_39_word_space_11: nut blind vacant evil surround mango once armor load sad glue
+bip_39_word_space_12: nut blind vacant evil surround mango once armor load sad glue
+  affair
+bip_39_word_space_2: nut blind
+bip_39_word_space_3: nut blind vacant
+bip_39_word_space_4: nut blind vacant evil
+bip_39_word_space_5: nut blind vacant evil surround
+bip_39_word_space_6: nut blind vacant evil surround mango
+bip_39_word_space_7: nut blind vacant evil surround mango once
+bip_39_word_space_8: nut blind vacant evil surround mango once armor
+bip_39_word_space_9: nut blind vacant evil surround mango once armor load
 classification: camera
 classification_capital: Camera
 classification_first_letter: c

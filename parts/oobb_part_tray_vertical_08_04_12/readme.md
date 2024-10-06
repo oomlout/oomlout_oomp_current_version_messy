@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: copy addict
+  * bip 39 word 3: copy addict grape
+  * bip 39 word: copy addict grape stamp vast pond stadium history erupt gasp gas annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | copy |  
+| bip_39_word_new_br10 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond<br>stadium<br>history<br>erupt<br>gasp |  
+| bip_39_word_new_br11 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond<br>stadium<br>history<br>erupt<br>gasp<br>gas |  
+| bip_39_word_new_br12 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond<br>stadium<br>history<br>erupt<br>gasp<br>gas<br>annual |  
+| bip_39_word_new_br2 | copy<br>addict |  
+| bip_39_word_new_br3 | copy<br>addict<br>grape |  
+| bip_39_word_new_br4 | copy<br>addict<br>grape<br>stamp |  
+| bip_39_word_new_br5 | copy<br>addict<br>grape<br>stamp<br>vast |  
+| bip_39_word_new_br6 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond |  
+| bip_39_word_new_br7 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond<br>stadium |  
+| bip_39_word_new_br8 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond<br>stadium<br>history |  
+| bip_39_word_new_br9 | copy<br>addict<br>grape<br>stamp<br>vast<br>pond<br>stadium<br>history<br>erupt |  
+| bip_39_word_new_line1 | copy |  
+| bip_39_word_new_line10 | copy
+addict
+grape
+stamp
+vast
+pond
+stadium
+history
+erupt
+gasp |  
+| bip_39_word_new_line11 | copy
+addict
+grape
+stamp
+vast
+pond
+stadium
+history
+erupt
+gasp
+gas |  
+| bip_39_word_new_line12 | copy
+addict
+grape
+stamp
+vast
+pond
+stadium
+history
+erupt
+gasp
+gas
+annual |  
+| bip_39_word_new_line2 | copy
+addict |  
+| bip_39_word_new_line3 | copy
+addict
+grape |  
+| bip_39_word_new_line4 | copy
+addict
+grape
+stamp |  
+| bip_39_word_new_line5 | copy
+addict
+grape
+stamp
+vast |  
+| bip_39_word_new_line6 | copy
+addict
+grape
+stamp
+vast
+pond |  
+| bip_39_word_new_line7 | copy
+addict
+grape
+stamp
+vast
+pond
+stadium |  
+| bip_39_word_new_line8 | copy
+addict
+grape
+stamp
+vast
+pond
+stadium
+history |  
+| bip_39_word_new_line9 | copy
+addict
+grape
+stamp
+vast
+pond
+stadium
+history
+erupt |  
+| bip_39_word_space_0 | ['copy', 'addict', 'grape', 'stamp', 'vast', 'pond', 'stadium', 'history', 'erupt', 'gasp', 'gas', 'annual'] |  
+| bip_39_word_space_1 | copy |  
+| bip_39_word_space_10 | copy addict grape stamp vast pond stadium history erupt gasp |  
+| bip_39_word_space_11 | copy addict grape stamp vast pond stadium history erupt gasp gas |  
+| bip_39_word_space_12 | copy addict grape stamp vast pond stadium history erupt gasp gas annual |  
+| bip_39_word_space_2 | copy addict |  
+| bip_39_word_space_3 | copy addict grape |  
+| bip_39_word_space_4 | copy addict grape stamp |  
+| bip_39_word_space_5 | copy addict grape stamp vast |  
+| bip_39_word_space_6 | copy addict grape stamp vast pond |  
+| bip_39_word_space_7 | copy addict grape stamp vast pond stadium |  
+| bip_39_word_space_8 | copy addict grape stamp vast pond stadium history |  
+| bip_39_word_space_9 | copy addict grape stamp vast pond stadium history erupt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

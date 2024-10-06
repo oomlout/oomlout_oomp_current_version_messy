@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inquiry tortoise
+  * bip 39 word 3: inquiry tortoise clinic
+  * bip 39 word: inquiry tortoise clinic plate gun fiction news erosion write benefit club alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inquiry |  
+| bip_39_word_new_br10 | inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction<br>news<br>erosion<br>write<br>benefit |  
+| bip_39_word_new_br11 | inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction<br>news<br>erosion<br>write<br>benefit<br>club |  
+| bip_39_word_new_br12 | inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction<br>news<br>erosion<br>write<br>benefit<br>club<br>alley |  
+| bip_39_word_new_br2 | inquiry<br>tortoise |  
+| bip_39_word_new_br3 | inquiry<br>tortoise<br>clinic |  
+| bip_39_word_new_br4 | inquiry<br>tortoise<br>clinic<br>plate |  
+| bip_39_word_new_br5 | inquiry<br>tortoise<br>clinic<br>plate<br>gun |  
+| bip_39_word_new_br6 | inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction |  
+| bip_39_word_new_br7 | inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction<br>news |  
+| bip_39_word_new_br8 | inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction<br>news<br>erosion |  
+| bip_39_word_new_br9 | inquiry<br>tortoise<br>clinic<br>plate<br>gun<br>fiction<br>news<br>erosion<br>write |  
+| bip_39_word_new_line1 | inquiry |  
+| bip_39_word_new_line10 | inquiry
+tortoise
+clinic
+plate
+gun
+fiction
+news
+erosion
+write
+benefit |  
+| bip_39_word_new_line11 | inquiry
+tortoise
+clinic
+plate
+gun
+fiction
+news
+erosion
+write
+benefit
+club |  
+| bip_39_word_new_line12 | inquiry
+tortoise
+clinic
+plate
+gun
+fiction
+news
+erosion
+write
+benefit
+club
+alley |  
+| bip_39_word_new_line2 | inquiry
+tortoise |  
+| bip_39_word_new_line3 | inquiry
+tortoise
+clinic |  
+| bip_39_word_new_line4 | inquiry
+tortoise
+clinic
+plate |  
+| bip_39_word_new_line5 | inquiry
+tortoise
+clinic
+plate
+gun |  
+| bip_39_word_new_line6 | inquiry
+tortoise
+clinic
+plate
+gun
+fiction |  
+| bip_39_word_new_line7 | inquiry
+tortoise
+clinic
+plate
+gun
+fiction
+news |  
+| bip_39_word_new_line8 | inquiry
+tortoise
+clinic
+plate
+gun
+fiction
+news
+erosion |  
+| bip_39_word_new_line9 | inquiry
+tortoise
+clinic
+plate
+gun
+fiction
+news
+erosion
+write |  
+| bip_39_word_space_0 | ['inquiry', 'tortoise', 'clinic', 'plate', 'gun', 'fiction', 'news', 'erosion', 'write', 'benefit', 'club', 'alley'] |  
+| bip_39_word_space_1 | inquiry |  
+| bip_39_word_space_10 | inquiry tortoise clinic plate gun fiction news erosion write benefit |  
+| bip_39_word_space_11 | inquiry tortoise clinic plate gun fiction news erosion write benefit club |  
+| bip_39_word_space_12 | inquiry tortoise clinic plate gun fiction news erosion write benefit club alley |  
+| bip_39_word_space_2 | inquiry tortoise |  
+| bip_39_word_space_3 | inquiry tortoise clinic |  
+| bip_39_word_space_4 | inquiry tortoise clinic plate |  
+| bip_39_word_space_5 | inquiry tortoise clinic plate gun |  
+| bip_39_word_space_6 | inquiry tortoise clinic plate gun fiction |  
+| bip_39_word_space_7 | inquiry tortoise clinic plate gun fiction news |  
+| bip_39_word_space_8 | inquiry tortoise clinic plate gun fiction news erosion |  
+| bip_39_word_space_9 | inquiry tortoise clinic plate gun fiction news erosion write |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

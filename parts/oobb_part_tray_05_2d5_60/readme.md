@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brain middle
+  * bip 39 word 3: brain middle nurse
+  * bip 39 word: brain middle nurse chalk wire prison spy right gravity immune doctor above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brain |  
+| bip_39_word_new_br10 | brain<br>middle<br>nurse<br>chalk<br>wire<br>prison<br>spy<br>right<br>gravity<br>immune |  
+| bip_39_word_new_br11 | brain<br>middle<br>nurse<br>chalk<br>wire<br>prison<br>spy<br>right<br>gravity<br>immune<br>doctor |  
+| bip_39_word_new_br12 | brain<br>middle<br>nurse<br>chalk<br>wire<br>prison<br>spy<br>right<br>gravity<br>immune<br>doctor<br>above |  
+| bip_39_word_new_br2 | brain<br>middle |  
+| bip_39_word_new_br3 | brain<br>middle<br>nurse |  
+| bip_39_word_new_br4 | brain<br>middle<br>nurse<br>chalk |  
+| bip_39_word_new_br5 | brain<br>middle<br>nurse<br>chalk<br>wire |  
+| bip_39_word_new_br6 | brain<br>middle<br>nurse<br>chalk<br>wire<br>prison |  
+| bip_39_word_new_br7 | brain<br>middle<br>nurse<br>chalk<br>wire<br>prison<br>spy |  
+| bip_39_word_new_br8 | brain<br>middle<br>nurse<br>chalk<br>wire<br>prison<br>spy<br>right |  
+| bip_39_word_new_br9 | brain<br>middle<br>nurse<br>chalk<br>wire<br>prison<br>spy<br>right<br>gravity |  
+| bip_39_word_new_line1 | brain |  
+| bip_39_word_new_line10 | brain
+middle
+nurse
+chalk
+wire
+prison
+spy
+right
+gravity
+immune |  
+| bip_39_word_new_line11 | brain
+middle
+nurse
+chalk
+wire
+prison
+spy
+right
+gravity
+immune
+doctor |  
+| bip_39_word_new_line12 | brain
+middle
+nurse
+chalk
+wire
+prison
+spy
+right
+gravity
+immune
+doctor
+above |  
+| bip_39_word_new_line2 | brain
+middle |  
+| bip_39_word_new_line3 | brain
+middle
+nurse |  
+| bip_39_word_new_line4 | brain
+middle
+nurse
+chalk |  
+| bip_39_word_new_line5 | brain
+middle
+nurse
+chalk
+wire |  
+| bip_39_word_new_line6 | brain
+middle
+nurse
+chalk
+wire
+prison |  
+| bip_39_word_new_line7 | brain
+middle
+nurse
+chalk
+wire
+prison
+spy |  
+| bip_39_word_new_line8 | brain
+middle
+nurse
+chalk
+wire
+prison
+spy
+right |  
+| bip_39_word_new_line9 | brain
+middle
+nurse
+chalk
+wire
+prison
+spy
+right
+gravity |  
+| bip_39_word_space_0 | ['brain', 'middle', 'nurse', 'chalk', 'wire', 'prison', 'spy', 'right', 'gravity', 'immune', 'doctor', 'above'] |  
+| bip_39_word_space_1 | brain |  
+| bip_39_word_space_10 | brain middle nurse chalk wire prison spy right gravity immune |  
+| bip_39_word_space_11 | brain middle nurse chalk wire prison spy right gravity immune doctor |  
+| bip_39_word_space_12 | brain middle nurse chalk wire prison spy right gravity immune doctor above |  
+| bip_39_word_space_2 | brain middle |  
+| bip_39_word_space_3 | brain middle nurse |  
+| bip_39_word_space_4 | brain middle nurse chalk |  
+| bip_39_word_space_5 | brain middle nurse chalk wire |  
+| bip_39_word_space_6 | brain middle nurse chalk wire prison |  
+| bip_39_word_space_7 | brain middle nurse chalk wire prison spy |  
+| bip_39_word_space_8 | brain middle nurse chalk wire prison spy right |  
+| bip_39_word_space_9 | brain middle nurse chalk wire prison spy right gravity |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

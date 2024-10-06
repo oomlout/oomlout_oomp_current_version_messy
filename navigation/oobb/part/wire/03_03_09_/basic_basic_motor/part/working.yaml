@@ -1,3 +1,185 @@
+bip_39_word_new_br1: mule
+bip_39_word_new_br10: mule<br>electric<br>rain<br>guess<br>brown<br>lend<br>license<br>fiber<br>jump<br>old
+bip_39_word_new_br11: mule<br>electric<br>rain<br>guess<br>brown<br>lend<br>license<br>fiber<br>jump<br>old<br>leader
+bip_39_word_new_br12: mule<br>electric<br>rain<br>guess<br>brown<br>lend<br>license<br>fiber<br>jump<br>old<br>leader<br>anchor
+bip_39_word_new_br2: mule<br>electric
+bip_39_word_new_br3: mule<br>electric<br>rain
+bip_39_word_new_br4: mule<br>electric<br>rain<br>guess
+bip_39_word_new_br5: mule<br>electric<br>rain<br>guess<br>brown
+bip_39_word_new_br6: mule<br>electric<br>rain<br>guess<br>brown<br>lend
+bip_39_word_new_br7: mule<br>electric<br>rain<br>guess<br>brown<br>lend<br>license
+bip_39_word_new_br8: mule<br>electric<br>rain<br>guess<br>brown<br>lend<br>license<br>fiber
+bip_39_word_new_br9: mule<br>electric<br>rain<br>guess<br>brown<br>lend<br>license<br>fiber<br>jump
+bip_39_word_new_line1: mule
+bip_39_word_new_line10: 'mule
+
+  electric
+
+  rain
+
+  guess
+
+  brown
+
+  lend
+
+  license
+
+  fiber
+
+  jump
+
+  old'
+bip_39_word_new_line11: 'mule
+
+  electric
+
+  rain
+
+  guess
+
+  brown
+
+  lend
+
+  license
+
+  fiber
+
+  jump
+
+  old
+
+  leader'
+bip_39_word_new_line12: 'mule
+
+  electric
+
+  rain
+
+  guess
+
+  brown
+
+  lend
+
+  license
+
+  fiber
+
+  jump
+
+  old
+
+  leader
+
+  anchor'
+bip_39_word_new_line2: 'mule
+
+  electric'
+bip_39_word_new_line3: 'mule
+
+  electric
+
+  rain'
+bip_39_word_new_line4: 'mule
+
+  electric
+
+  rain
+
+  guess'
+bip_39_word_new_line5: 'mule
+
+  electric
+
+  rain
+
+  guess
+
+  brown'
+bip_39_word_new_line6: 'mule
+
+  electric
+
+  rain
+
+  guess
+
+  brown
+
+  lend'
+bip_39_word_new_line7: 'mule
+
+  electric
+
+  rain
+
+  guess
+
+  brown
+
+  lend
+
+  license'
+bip_39_word_new_line8: 'mule
+
+  electric
+
+  rain
+
+  guess
+
+  brown
+
+  lend
+
+  license
+
+  fiber'
+bip_39_word_new_line9: 'mule
+
+  electric
+
+  rain
+
+  guess
+
+  brown
+
+  lend
+
+  license
+
+  fiber
+
+  jump'
+bip_39_word_space_0:
+- mule
+- electric
+- rain
+- guess
+- brown
+- lend
+- license
+- fiber
+- jump
+- old
+- leader
+- anchor
+bip_39_word_space_1: mule
+bip_39_word_space_10: mule electric rain guess brown lend license fiber jump old
+bip_39_word_space_11: mule electric rain guess brown lend license fiber jump old leader
+bip_39_word_space_12: mule electric rain guess brown lend license fiber jump old leader
+  anchor
+bip_39_word_space_2: mule electric
+bip_39_word_space_3: mule electric rain
+bip_39_word_space_4: mule electric rain guess
+bip_39_word_space_5: mule electric rain guess brown
+bip_39_word_space_6: mule electric rain guess brown lend
+bip_39_word_space_7: mule electric rain guess brown lend license
+bip_39_word_space_8: mule electric rain guess brown lend license fiber
+bip_39_word_space_9: mule electric rain guess brown lend license fiber jump
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

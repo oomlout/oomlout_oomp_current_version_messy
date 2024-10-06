@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lab
+bip_39_word_new_br10: lab<br>agent<br>energy<br>unknown<br>coyote<br>text<br>layer<br>suffer<br>angle<br>stick
+bip_39_word_new_br11: lab<br>agent<br>energy<br>unknown<br>coyote<br>text<br>layer<br>suffer<br>angle<br>stick<br>april
+bip_39_word_new_br12: lab<br>agent<br>energy<br>unknown<br>coyote<br>text<br>layer<br>suffer<br>angle<br>stick<br>april<br>among
+bip_39_word_new_br2: lab<br>agent
+bip_39_word_new_br3: lab<br>agent<br>energy
+bip_39_word_new_br4: lab<br>agent<br>energy<br>unknown
+bip_39_word_new_br5: lab<br>agent<br>energy<br>unknown<br>coyote
+bip_39_word_new_br6: lab<br>agent<br>energy<br>unknown<br>coyote<br>text
+bip_39_word_new_br7: lab<br>agent<br>energy<br>unknown<br>coyote<br>text<br>layer
+bip_39_word_new_br8: lab<br>agent<br>energy<br>unknown<br>coyote<br>text<br>layer<br>suffer
+bip_39_word_new_br9: lab<br>agent<br>energy<br>unknown<br>coyote<br>text<br>layer<br>suffer<br>angle
+bip_39_word_new_line1: lab
+bip_39_word_new_line10: 'lab
+
+  agent
+
+  energy
+
+  unknown
+
+  coyote
+
+  text
+
+  layer
+
+  suffer
+
+  angle
+
+  stick'
+bip_39_word_new_line11: 'lab
+
+  agent
+
+  energy
+
+  unknown
+
+  coyote
+
+  text
+
+  layer
+
+  suffer
+
+  angle
+
+  stick
+
+  april'
+bip_39_word_new_line12: 'lab
+
+  agent
+
+  energy
+
+  unknown
+
+  coyote
+
+  text
+
+  layer
+
+  suffer
+
+  angle
+
+  stick
+
+  april
+
+  among'
+bip_39_word_new_line2: 'lab
+
+  agent'
+bip_39_word_new_line3: 'lab
+
+  agent
+
+  energy'
+bip_39_word_new_line4: 'lab
+
+  agent
+
+  energy
+
+  unknown'
+bip_39_word_new_line5: 'lab
+
+  agent
+
+  energy
+
+  unknown
+
+  coyote'
+bip_39_word_new_line6: 'lab
+
+  agent
+
+  energy
+
+  unknown
+
+  coyote
+
+  text'
+bip_39_word_new_line7: 'lab
+
+  agent
+
+  energy
+
+  unknown
+
+  coyote
+
+  text
+
+  layer'
+bip_39_word_new_line8: 'lab
+
+  agent
+
+  energy
+
+  unknown
+
+  coyote
+
+  text
+
+  layer
+
+  suffer'
+bip_39_word_new_line9: 'lab
+
+  agent
+
+  energy
+
+  unknown
+
+  coyote
+
+  text
+
+  layer
+
+  suffer
+
+  angle'
+bip_39_word_space_0:
+- lab
+- agent
+- energy
+- unknown
+- coyote
+- text
+- layer
+- suffer
+- angle
+- stick
+- april
+- among
+bip_39_word_space_1: lab
+bip_39_word_space_10: lab agent energy unknown coyote text layer suffer angle stick
+bip_39_word_space_11: lab agent energy unknown coyote text layer suffer angle stick
+  april
+bip_39_word_space_12: lab agent energy unknown coyote text layer suffer angle stick
+  april among
+bip_39_word_space_2: lab agent
+bip_39_word_space_3: lab agent energy
+bip_39_word_space_4: lab agent energy unknown
+bip_39_word_space_5: lab agent energy unknown coyote
+bip_39_word_space_6: lab agent energy unknown coyote text
+bip_39_word_space_7: lab agent energy unknown coyote text layer
+bip_39_word_space_8: lab agent energy unknown coyote text layer suffer
+bip_39_word_space_9: lab agent energy unknown coyote text layer suffer angle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

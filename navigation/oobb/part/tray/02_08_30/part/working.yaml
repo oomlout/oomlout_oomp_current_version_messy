@@ -1,3 +1,187 @@
+bip_39_word_new_br1: decrease
+bip_39_word_new_br10: decrease<br>fitness<br>core<br>involve<br>secret<br>segment<br>receive<br>actual<br>language<br>thunder
+bip_39_word_new_br11: decrease<br>fitness<br>core<br>involve<br>secret<br>segment<br>receive<br>actual<br>language<br>thunder<br>include
+bip_39_word_new_br12: decrease<br>fitness<br>core<br>involve<br>secret<br>segment<br>receive<br>actual<br>language<br>thunder<br>include<br>army
+bip_39_word_new_br2: decrease<br>fitness
+bip_39_word_new_br3: decrease<br>fitness<br>core
+bip_39_word_new_br4: decrease<br>fitness<br>core<br>involve
+bip_39_word_new_br5: decrease<br>fitness<br>core<br>involve<br>secret
+bip_39_word_new_br6: decrease<br>fitness<br>core<br>involve<br>secret<br>segment
+bip_39_word_new_br7: decrease<br>fitness<br>core<br>involve<br>secret<br>segment<br>receive
+bip_39_word_new_br8: decrease<br>fitness<br>core<br>involve<br>secret<br>segment<br>receive<br>actual
+bip_39_word_new_br9: decrease<br>fitness<br>core<br>involve<br>secret<br>segment<br>receive<br>actual<br>language
+bip_39_word_new_line1: decrease
+bip_39_word_new_line10: 'decrease
+
+  fitness
+
+  core
+
+  involve
+
+  secret
+
+  segment
+
+  receive
+
+  actual
+
+  language
+
+  thunder'
+bip_39_word_new_line11: 'decrease
+
+  fitness
+
+  core
+
+  involve
+
+  secret
+
+  segment
+
+  receive
+
+  actual
+
+  language
+
+  thunder
+
+  include'
+bip_39_word_new_line12: 'decrease
+
+  fitness
+
+  core
+
+  involve
+
+  secret
+
+  segment
+
+  receive
+
+  actual
+
+  language
+
+  thunder
+
+  include
+
+  army'
+bip_39_word_new_line2: 'decrease
+
+  fitness'
+bip_39_word_new_line3: 'decrease
+
+  fitness
+
+  core'
+bip_39_word_new_line4: 'decrease
+
+  fitness
+
+  core
+
+  involve'
+bip_39_word_new_line5: 'decrease
+
+  fitness
+
+  core
+
+  involve
+
+  secret'
+bip_39_word_new_line6: 'decrease
+
+  fitness
+
+  core
+
+  involve
+
+  secret
+
+  segment'
+bip_39_word_new_line7: 'decrease
+
+  fitness
+
+  core
+
+  involve
+
+  secret
+
+  segment
+
+  receive'
+bip_39_word_new_line8: 'decrease
+
+  fitness
+
+  core
+
+  involve
+
+  secret
+
+  segment
+
+  receive
+
+  actual'
+bip_39_word_new_line9: 'decrease
+
+  fitness
+
+  core
+
+  involve
+
+  secret
+
+  segment
+
+  receive
+
+  actual
+
+  language'
+bip_39_word_space_0:
+- decrease
+- fitness
+- core
+- involve
+- secret
+- segment
+- receive
+- actual
+- language
+- thunder
+- include
+- army
+bip_39_word_space_1: decrease
+bip_39_word_space_10: decrease fitness core involve secret segment receive actual
+  language thunder
+bip_39_word_space_11: decrease fitness core involve secret segment receive actual
+  language thunder include
+bip_39_word_space_12: decrease fitness core involve secret segment receive actual
+  language thunder include army
+bip_39_word_space_2: decrease fitness
+bip_39_word_space_3: decrease fitness core
+bip_39_word_space_4: decrease fitness core involve
+bip_39_word_space_5: decrease fitness core involve secret
+bip_39_word_space_6: decrease fitness core involve secret segment
+bip_39_word_space_7: decrease fitness core involve secret segment receive
+bip_39_word_space_8: decrease fitness core involve secret segment receive actual
+bip_39_word_space_9: decrease fitness core involve secret segment receive actual language
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

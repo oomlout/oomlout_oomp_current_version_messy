@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dutch feel
+  * bip 39 word 3: dutch feel upgrade
+  * bip 39 word: dutch feel upgrade midnight pelican alcohol fit echo tell lion right arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dutch |  
+| bip_39_word_new_br10 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol<br>fit<br>echo<br>tell<br>lion |  
+| bip_39_word_new_br11 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol<br>fit<br>echo<br>tell<br>lion<br>right |  
+| bip_39_word_new_br12 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol<br>fit<br>echo<br>tell<br>lion<br>right<br>arm |  
+| bip_39_word_new_br2 | dutch<br>feel |  
+| bip_39_word_new_br3 | dutch<br>feel<br>upgrade |  
+| bip_39_word_new_br4 | dutch<br>feel<br>upgrade<br>midnight |  
+| bip_39_word_new_br5 | dutch<br>feel<br>upgrade<br>midnight<br>pelican |  
+| bip_39_word_new_br6 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol |  
+| bip_39_word_new_br7 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol<br>fit |  
+| bip_39_word_new_br8 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol<br>fit<br>echo |  
+| bip_39_word_new_br9 | dutch<br>feel<br>upgrade<br>midnight<br>pelican<br>alcohol<br>fit<br>echo<br>tell |  
+| bip_39_word_new_line1 | dutch |  
+| bip_39_word_new_line10 | dutch
+feel
+upgrade
+midnight
+pelican
+alcohol
+fit
+echo
+tell
+lion |  
+| bip_39_word_new_line11 | dutch
+feel
+upgrade
+midnight
+pelican
+alcohol
+fit
+echo
+tell
+lion
+right |  
+| bip_39_word_new_line12 | dutch
+feel
+upgrade
+midnight
+pelican
+alcohol
+fit
+echo
+tell
+lion
+right
+arm |  
+| bip_39_word_new_line2 | dutch
+feel |  
+| bip_39_word_new_line3 | dutch
+feel
+upgrade |  
+| bip_39_word_new_line4 | dutch
+feel
+upgrade
+midnight |  
+| bip_39_word_new_line5 | dutch
+feel
+upgrade
+midnight
+pelican |  
+| bip_39_word_new_line6 | dutch
+feel
+upgrade
+midnight
+pelican
+alcohol |  
+| bip_39_word_new_line7 | dutch
+feel
+upgrade
+midnight
+pelican
+alcohol
+fit |  
+| bip_39_word_new_line8 | dutch
+feel
+upgrade
+midnight
+pelican
+alcohol
+fit
+echo |  
+| bip_39_word_new_line9 | dutch
+feel
+upgrade
+midnight
+pelican
+alcohol
+fit
+echo
+tell |  
+| bip_39_word_space_0 | ['dutch', 'feel', 'upgrade', 'midnight', 'pelican', 'alcohol', 'fit', 'echo', 'tell', 'lion', 'right', 'arm'] |  
+| bip_39_word_space_1 | dutch |  
+| bip_39_word_space_10 | dutch feel upgrade midnight pelican alcohol fit echo tell lion |  
+| bip_39_word_space_11 | dutch feel upgrade midnight pelican alcohol fit echo tell lion right |  
+| bip_39_word_space_12 | dutch feel upgrade midnight pelican alcohol fit echo tell lion right arm |  
+| bip_39_word_space_2 | dutch feel |  
+| bip_39_word_space_3 | dutch feel upgrade |  
+| bip_39_word_space_4 | dutch feel upgrade midnight |  
+| bip_39_word_space_5 | dutch feel upgrade midnight pelican |  
+| bip_39_word_space_6 | dutch feel upgrade midnight pelican alcohol |  
+| bip_39_word_space_7 | dutch feel upgrade midnight pelican alcohol fit |  
+| bip_39_word_space_8 | dutch feel upgrade midnight pelican alcohol fit echo |  
+| bip_39_word_space_9 | dutch feel upgrade midnight pelican alcohol fit echo tell |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

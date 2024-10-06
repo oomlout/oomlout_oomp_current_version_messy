@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: off trust
+  * bip 39 word 3: off trust crew
+  * bip 39 word: off trust crew latin minor rhythm chapter sign filter loud display among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | off |  
+| bip_39_word_new_br10 | off<br>trust<br>crew<br>latin<br>minor<br>rhythm<br>chapter<br>sign<br>filter<br>loud |  
+| bip_39_word_new_br11 | off<br>trust<br>crew<br>latin<br>minor<br>rhythm<br>chapter<br>sign<br>filter<br>loud<br>display |  
+| bip_39_word_new_br12 | off<br>trust<br>crew<br>latin<br>minor<br>rhythm<br>chapter<br>sign<br>filter<br>loud<br>display<br>among |  
+| bip_39_word_new_br2 | off<br>trust |  
+| bip_39_word_new_br3 | off<br>trust<br>crew |  
+| bip_39_word_new_br4 | off<br>trust<br>crew<br>latin |  
+| bip_39_word_new_br5 | off<br>trust<br>crew<br>latin<br>minor |  
+| bip_39_word_new_br6 | off<br>trust<br>crew<br>latin<br>minor<br>rhythm |  
+| bip_39_word_new_br7 | off<br>trust<br>crew<br>latin<br>minor<br>rhythm<br>chapter |  
+| bip_39_word_new_br8 | off<br>trust<br>crew<br>latin<br>minor<br>rhythm<br>chapter<br>sign |  
+| bip_39_word_new_br9 | off<br>trust<br>crew<br>latin<br>minor<br>rhythm<br>chapter<br>sign<br>filter |  
+| bip_39_word_new_line1 | off |  
+| bip_39_word_new_line10 | off
+trust
+crew
+latin
+minor
+rhythm
+chapter
+sign
+filter
+loud |  
+| bip_39_word_new_line11 | off
+trust
+crew
+latin
+minor
+rhythm
+chapter
+sign
+filter
+loud
+display |  
+| bip_39_word_new_line12 | off
+trust
+crew
+latin
+minor
+rhythm
+chapter
+sign
+filter
+loud
+display
+among |  
+| bip_39_word_new_line2 | off
+trust |  
+| bip_39_word_new_line3 | off
+trust
+crew |  
+| bip_39_word_new_line4 | off
+trust
+crew
+latin |  
+| bip_39_word_new_line5 | off
+trust
+crew
+latin
+minor |  
+| bip_39_word_new_line6 | off
+trust
+crew
+latin
+minor
+rhythm |  
+| bip_39_word_new_line7 | off
+trust
+crew
+latin
+minor
+rhythm
+chapter |  
+| bip_39_word_new_line8 | off
+trust
+crew
+latin
+minor
+rhythm
+chapter
+sign |  
+| bip_39_word_new_line9 | off
+trust
+crew
+latin
+minor
+rhythm
+chapter
+sign
+filter |  
+| bip_39_word_space_0 | ['off', 'trust', 'crew', 'latin', 'minor', 'rhythm', 'chapter', 'sign', 'filter', 'loud', 'display', 'among'] |  
+| bip_39_word_space_1 | off |  
+| bip_39_word_space_10 | off trust crew latin minor rhythm chapter sign filter loud |  
+| bip_39_word_space_11 | off trust crew latin minor rhythm chapter sign filter loud display |  
+| bip_39_word_space_12 | off trust crew latin minor rhythm chapter sign filter loud display among |  
+| bip_39_word_space_2 | off trust |  
+| bip_39_word_space_3 | off trust crew |  
+| bip_39_word_space_4 | off trust crew latin |  
+| bip_39_word_space_5 | off trust crew latin minor |  
+| bip_39_word_space_6 | off trust crew latin minor rhythm |  
+| bip_39_word_space_7 | off trust crew latin minor rhythm chapter |  
+| bip_39_word_space_8 | off trust crew latin minor rhythm chapter sign |  
+| bip_39_word_space_9 | off trust crew latin minor rhythm chapter sign filter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

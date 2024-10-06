@@ -1,3 +1,187 @@
+bip_39_word_new_br1: spoon
+bip_39_word_new_br10: spoon<br>miracle<br>hamster<br>random<br>tonight<br>pole<br>child<br>buzz<br>holiday<br>avocado
+bip_39_word_new_br11: spoon<br>miracle<br>hamster<br>random<br>tonight<br>pole<br>child<br>buzz<br>holiday<br>avocado<br>choose
+bip_39_word_new_br12: spoon<br>miracle<br>hamster<br>random<br>tonight<br>pole<br>child<br>buzz<br>holiday<br>avocado<br>choose<br>attack
+bip_39_word_new_br2: spoon<br>miracle
+bip_39_word_new_br3: spoon<br>miracle<br>hamster
+bip_39_word_new_br4: spoon<br>miracle<br>hamster<br>random
+bip_39_word_new_br5: spoon<br>miracle<br>hamster<br>random<br>tonight
+bip_39_word_new_br6: spoon<br>miracle<br>hamster<br>random<br>tonight<br>pole
+bip_39_word_new_br7: spoon<br>miracle<br>hamster<br>random<br>tonight<br>pole<br>child
+bip_39_word_new_br8: spoon<br>miracle<br>hamster<br>random<br>tonight<br>pole<br>child<br>buzz
+bip_39_word_new_br9: spoon<br>miracle<br>hamster<br>random<br>tonight<br>pole<br>child<br>buzz<br>holiday
+bip_39_word_new_line1: spoon
+bip_39_word_new_line10: 'spoon
+
+  miracle
+
+  hamster
+
+  random
+
+  tonight
+
+  pole
+
+  child
+
+  buzz
+
+  holiday
+
+  avocado'
+bip_39_word_new_line11: 'spoon
+
+  miracle
+
+  hamster
+
+  random
+
+  tonight
+
+  pole
+
+  child
+
+  buzz
+
+  holiday
+
+  avocado
+
+  choose'
+bip_39_word_new_line12: 'spoon
+
+  miracle
+
+  hamster
+
+  random
+
+  tonight
+
+  pole
+
+  child
+
+  buzz
+
+  holiday
+
+  avocado
+
+  choose
+
+  attack'
+bip_39_word_new_line2: 'spoon
+
+  miracle'
+bip_39_word_new_line3: 'spoon
+
+  miracle
+
+  hamster'
+bip_39_word_new_line4: 'spoon
+
+  miracle
+
+  hamster
+
+  random'
+bip_39_word_new_line5: 'spoon
+
+  miracle
+
+  hamster
+
+  random
+
+  tonight'
+bip_39_word_new_line6: 'spoon
+
+  miracle
+
+  hamster
+
+  random
+
+  tonight
+
+  pole'
+bip_39_word_new_line7: 'spoon
+
+  miracle
+
+  hamster
+
+  random
+
+  tonight
+
+  pole
+
+  child'
+bip_39_word_new_line8: 'spoon
+
+  miracle
+
+  hamster
+
+  random
+
+  tonight
+
+  pole
+
+  child
+
+  buzz'
+bip_39_word_new_line9: 'spoon
+
+  miracle
+
+  hamster
+
+  random
+
+  tonight
+
+  pole
+
+  child
+
+  buzz
+
+  holiday'
+bip_39_word_space_0:
+- spoon
+- miracle
+- hamster
+- random
+- tonight
+- pole
+- child
+- buzz
+- holiday
+- avocado
+- choose
+- attack
+bip_39_word_space_1: spoon
+bip_39_word_space_10: spoon miracle hamster random tonight pole child buzz holiday
+  avocado
+bip_39_word_space_11: spoon miracle hamster random tonight pole child buzz holiday
+  avocado choose
+bip_39_word_space_12: spoon miracle hamster random tonight pole child buzz holiday
+  avocado choose attack
+bip_39_word_space_2: spoon miracle
+bip_39_word_space_3: spoon miracle hamster
+bip_39_word_space_4: spoon miracle hamster random
+bip_39_word_space_5: spoon miracle hamster random tonight
+bip_39_word_space_6: spoon miracle hamster random tonight pole
+bip_39_word_space_7: spoon miracle hamster random tonight pole child
+bip_39_word_space_8: spoon miracle hamster random tonight pole child buzz
+bip_39_word_space_9: spoon miracle hamster random tonight pole child buzz holiday
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

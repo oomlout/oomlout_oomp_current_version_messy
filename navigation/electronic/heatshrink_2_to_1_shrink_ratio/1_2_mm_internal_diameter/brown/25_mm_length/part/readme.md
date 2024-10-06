@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: say bachelor
+  * bip 39 word 3: say bachelor hair
+  * bip 39 word: say bachelor hair cup dust later foil fee market interest soup actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | say |  
+| bip_39_word_new_br10 | say<br>bachelor<br>hair<br>cup<br>dust<br>later<br>foil<br>fee<br>market<br>interest |  
+| bip_39_word_new_br11 | say<br>bachelor<br>hair<br>cup<br>dust<br>later<br>foil<br>fee<br>market<br>interest<br>soup |  
+| bip_39_word_new_br12 | say<br>bachelor<br>hair<br>cup<br>dust<br>later<br>foil<br>fee<br>market<br>interest<br>soup<br>actor |  
+| bip_39_word_new_br2 | say<br>bachelor |  
+| bip_39_word_new_br3 | say<br>bachelor<br>hair |  
+| bip_39_word_new_br4 | say<br>bachelor<br>hair<br>cup |  
+| bip_39_word_new_br5 | say<br>bachelor<br>hair<br>cup<br>dust |  
+| bip_39_word_new_br6 | say<br>bachelor<br>hair<br>cup<br>dust<br>later |  
+| bip_39_word_new_br7 | say<br>bachelor<br>hair<br>cup<br>dust<br>later<br>foil |  
+| bip_39_word_new_br8 | say<br>bachelor<br>hair<br>cup<br>dust<br>later<br>foil<br>fee |  
+| bip_39_word_new_br9 | say<br>bachelor<br>hair<br>cup<br>dust<br>later<br>foil<br>fee<br>market |  
+| bip_39_word_new_line1 | say |  
+| bip_39_word_new_line10 | say
+bachelor
+hair
+cup
+dust
+later
+foil
+fee
+market
+interest |  
+| bip_39_word_new_line11 | say
+bachelor
+hair
+cup
+dust
+later
+foil
+fee
+market
+interest
+soup |  
+| bip_39_word_new_line12 | say
+bachelor
+hair
+cup
+dust
+later
+foil
+fee
+market
+interest
+soup
+actor |  
+| bip_39_word_new_line2 | say
+bachelor |  
+| bip_39_word_new_line3 | say
+bachelor
+hair |  
+| bip_39_word_new_line4 | say
+bachelor
+hair
+cup |  
+| bip_39_word_new_line5 | say
+bachelor
+hair
+cup
+dust |  
+| bip_39_word_new_line6 | say
+bachelor
+hair
+cup
+dust
+later |  
+| bip_39_word_new_line7 | say
+bachelor
+hair
+cup
+dust
+later
+foil |  
+| bip_39_word_new_line8 | say
+bachelor
+hair
+cup
+dust
+later
+foil
+fee |  
+| bip_39_word_new_line9 | say
+bachelor
+hair
+cup
+dust
+later
+foil
+fee
+market |  
+| bip_39_word_space_0 | ['say', 'bachelor', 'hair', 'cup', 'dust', 'later', 'foil', 'fee', 'market', 'interest', 'soup', 'actor'] |  
+| bip_39_word_space_1 | say |  
+| bip_39_word_space_10 | say bachelor hair cup dust later foil fee market interest |  
+| bip_39_word_space_11 | say bachelor hair cup dust later foil fee market interest soup |  
+| bip_39_word_space_12 | say bachelor hair cup dust later foil fee market interest soup actor |  
+| bip_39_word_space_2 | say bachelor |  
+| bip_39_word_space_3 | say bachelor hair |  
+| bip_39_word_space_4 | say bachelor hair cup |  
+| bip_39_word_space_5 | say bachelor hair cup dust |  
+| bip_39_word_space_6 | say bachelor hair cup dust later |  
+| bip_39_word_space_7 | say bachelor hair cup dust later foil |  
+| bip_39_word_space_8 | say bachelor hair cup dust later foil fee |  
+| bip_39_word_space_9 | say bachelor hair cup dust later foil fee market |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

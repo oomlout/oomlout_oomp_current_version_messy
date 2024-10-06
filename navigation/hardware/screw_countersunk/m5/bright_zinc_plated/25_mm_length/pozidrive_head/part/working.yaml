@@ -1,3 +1,185 @@
+bip_39_word_new_br1: cup
+bip_39_word_new_br10: cup<br>omit<br>giant<br>glue<br>quit<br>tornado<br>tackle<br>coyote<br>cram<br>bone
+bip_39_word_new_br11: cup<br>omit<br>giant<br>glue<br>quit<br>tornado<br>tackle<br>coyote<br>cram<br>bone<br>spray
+bip_39_word_new_br12: cup<br>omit<br>giant<br>glue<br>quit<br>tornado<br>tackle<br>coyote<br>cram<br>bone<br>spray<br>addict
+bip_39_word_new_br2: cup<br>omit
+bip_39_word_new_br3: cup<br>omit<br>giant
+bip_39_word_new_br4: cup<br>omit<br>giant<br>glue
+bip_39_word_new_br5: cup<br>omit<br>giant<br>glue<br>quit
+bip_39_word_new_br6: cup<br>omit<br>giant<br>glue<br>quit<br>tornado
+bip_39_word_new_br7: cup<br>omit<br>giant<br>glue<br>quit<br>tornado<br>tackle
+bip_39_word_new_br8: cup<br>omit<br>giant<br>glue<br>quit<br>tornado<br>tackle<br>coyote
+bip_39_word_new_br9: cup<br>omit<br>giant<br>glue<br>quit<br>tornado<br>tackle<br>coyote<br>cram
+bip_39_word_new_line1: cup
+bip_39_word_new_line10: 'cup
+
+  omit
+
+  giant
+
+  glue
+
+  quit
+
+  tornado
+
+  tackle
+
+  coyote
+
+  cram
+
+  bone'
+bip_39_word_new_line11: 'cup
+
+  omit
+
+  giant
+
+  glue
+
+  quit
+
+  tornado
+
+  tackle
+
+  coyote
+
+  cram
+
+  bone
+
+  spray'
+bip_39_word_new_line12: 'cup
+
+  omit
+
+  giant
+
+  glue
+
+  quit
+
+  tornado
+
+  tackle
+
+  coyote
+
+  cram
+
+  bone
+
+  spray
+
+  addict'
+bip_39_word_new_line2: 'cup
+
+  omit'
+bip_39_word_new_line3: 'cup
+
+  omit
+
+  giant'
+bip_39_word_new_line4: 'cup
+
+  omit
+
+  giant
+
+  glue'
+bip_39_word_new_line5: 'cup
+
+  omit
+
+  giant
+
+  glue
+
+  quit'
+bip_39_word_new_line6: 'cup
+
+  omit
+
+  giant
+
+  glue
+
+  quit
+
+  tornado'
+bip_39_word_new_line7: 'cup
+
+  omit
+
+  giant
+
+  glue
+
+  quit
+
+  tornado
+
+  tackle'
+bip_39_word_new_line8: 'cup
+
+  omit
+
+  giant
+
+  glue
+
+  quit
+
+  tornado
+
+  tackle
+
+  coyote'
+bip_39_word_new_line9: 'cup
+
+  omit
+
+  giant
+
+  glue
+
+  quit
+
+  tornado
+
+  tackle
+
+  coyote
+
+  cram'
+bip_39_word_space_0:
+- cup
+- omit
+- giant
+- glue
+- quit
+- tornado
+- tackle
+- coyote
+- cram
+- bone
+- spray
+- addict
+bip_39_word_space_1: cup
+bip_39_word_space_10: cup omit giant glue quit tornado tackle coyote cram bone
+bip_39_word_space_11: cup omit giant glue quit tornado tackle coyote cram bone spray
+bip_39_word_space_12: cup omit giant glue quit tornado tackle coyote cram bone spray
+  addict
+bip_39_word_space_2: cup omit
+bip_39_word_space_3: cup omit giant
+bip_39_word_space_4: cup omit giant glue
+bip_39_word_space_5: cup omit giant glue quit
+bip_39_word_space_6: cup omit giant glue quit tornado
+bip_39_word_space_7: cup omit giant glue quit tornado tackle
+bip_39_word_space_8: cup omit giant glue quit tornado tackle coyote
+bip_39_word_space_9: cup omit giant glue quit tornado tackle coyote cram
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

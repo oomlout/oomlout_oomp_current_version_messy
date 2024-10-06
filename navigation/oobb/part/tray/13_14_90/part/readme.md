@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clump add
+  * bip 39 word 3: clump add risk
+  * bip 39 word: clump add risk level innocent sort dune allow organ pony sing anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clump |  
+| bip_39_word_new_br10 | clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ<br>pony |  
+| bip_39_word_new_br11 | clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ<br>pony<br>sing |  
+| bip_39_word_new_br12 | clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ<br>pony<br>sing<br>anchor |  
+| bip_39_word_new_br2 | clump<br>add |  
+| bip_39_word_new_br3 | clump<br>add<br>risk |  
+| bip_39_word_new_br4 | clump<br>add<br>risk<br>level |  
+| bip_39_word_new_br5 | clump<br>add<br>risk<br>level<br>innocent |  
+| bip_39_word_new_br6 | clump<br>add<br>risk<br>level<br>innocent<br>sort |  
+| bip_39_word_new_br7 | clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune |  
+| bip_39_word_new_br8 | clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow |  
+| bip_39_word_new_br9 | clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ |  
+| bip_39_word_new_line1 | clump |  
+| bip_39_word_new_line10 | clump
+add
+risk
+level
+innocent
+sort
+dune
+allow
+organ
+pony |  
+| bip_39_word_new_line11 | clump
+add
+risk
+level
+innocent
+sort
+dune
+allow
+organ
+pony
+sing |  
+| bip_39_word_new_line12 | clump
+add
+risk
+level
+innocent
+sort
+dune
+allow
+organ
+pony
+sing
+anchor |  
+| bip_39_word_new_line2 | clump
+add |  
+| bip_39_word_new_line3 | clump
+add
+risk |  
+| bip_39_word_new_line4 | clump
+add
+risk
+level |  
+| bip_39_word_new_line5 | clump
+add
+risk
+level
+innocent |  
+| bip_39_word_new_line6 | clump
+add
+risk
+level
+innocent
+sort |  
+| bip_39_word_new_line7 | clump
+add
+risk
+level
+innocent
+sort
+dune |  
+| bip_39_word_new_line8 | clump
+add
+risk
+level
+innocent
+sort
+dune
+allow |  
+| bip_39_word_new_line9 | clump
+add
+risk
+level
+innocent
+sort
+dune
+allow
+organ |  
+| bip_39_word_space_0 | ['clump', 'add', 'risk', 'level', 'innocent', 'sort', 'dune', 'allow', 'organ', 'pony', 'sing', 'anchor'] |  
+| bip_39_word_space_1 | clump |  
+| bip_39_word_space_10 | clump add risk level innocent sort dune allow organ pony |  
+| bip_39_word_space_11 | clump add risk level innocent sort dune allow organ pony sing |  
+| bip_39_word_space_12 | clump add risk level innocent sort dune allow organ pony sing anchor |  
+| bip_39_word_space_2 | clump add |  
+| bip_39_word_space_3 | clump add risk |  
+| bip_39_word_space_4 | clump add risk level |  
+| bip_39_word_space_5 | clump add risk level innocent |  
+| bip_39_word_space_6 | clump add risk level innocent sort |  
+| bip_39_word_space_7 | clump add risk level innocent sort dune |  
+| bip_39_word_space_8 | clump add risk level innocent sort dune allow |  
+| bip_39_word_space_9 | clump add risk level innocent sort dune allow organ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: phrase olympic
+  * bip 39 word 3: phrase olympic traffic
+  * bip 39 word: phrase olympic traffic afraid retreat dose destroy trash stove amazing leopard audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | phrase |  
+| bip_39_word_new_br10 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing |  
+| bip_39_word_new_br11 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing<br>leopard |  
+| bip_39_word_new_br12 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove<br>amazing<br>leopard<br>audit |  
+| bip_39_word_new_br2 | phrase<br>olympic |  
+| bip_39_word_new_br3 | phrase<br>olympic<br>traffic |  
+| bip_39_word_new_br4 | phrase<br>olympic<br>traffic<br>afraid |  
+| bip_39_word_new_br5 | phrase<br>olympic<br>traffic<br>afraid<br>retreat |  
+| bip_39_word_new_br6 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose |  
+| bip_39_word_new_br7 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy |  
+| bip_39_word_new_br8 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash |  
+| bip_39_word_new_br9 | phrase<br>olympic<br>traffic<br>afraid<br>retreat<br>dose<br>destroy<br>trash<br>stove |  
+| bip_39_word_new_line1 | phrase |  
+| bip_39_word_new_line10 | phrase
+olympic
+traffic
+afraid
+retreat
+dose
+destroy
+trash
+stove
+amazing |  
+| bip_39_word_new_line11 | phrase
+olympic
+traffic
+afraid
+retreat
+dose
+destroy
+trash
+stove
+amazing
+leopard |  
+| bip_39_word_new_line12 | phrase
+olympic
+traffic
+afraid
+retreat
+dose
+destroy
+trash
+stove
+amazing
+leopard
+audit |  
+| bip_39_word_new_line2 | phrase
+olympic |  
+| bip_39_word_new_line3 | phrase
+olympic
+traffic |  
+| bip_39_word_new_line4 | phrase
+olympic
+traffic
+afraid |  
+| bip_39_word_new_line5 | phrase
+olympic
+traffic
+afraid
+retreat |  
+| bip_39_word_new_line6 | phrase
+olympic
+traffic
+afraid
+retreat
+dose |  
+| bip_39_word_new_line7 | phrase
+olympic
+traffic
+afraid
+retreat
+dose
+destroy |  
+| bip_39_word_new_line8 | phrase
+olympic
+traffic
+afraid
+retreat
+dose
+destroy
+trash |  
+| bip_39_word_new_line9 | phrase
+olympic
+traffic
+afraid
+retreat
+dose
+destroy
+trash
+stove |  
+| bip_39_word_space_0 | ['phrase', 'olympic', 'traffic', 'afraid', 'retreat', 'dose', 'destroy', 'trash', 'stove', 'amazing', 'leopard', 'audit'] |  
+| bip_39_word_space_1 | phrase |  
+| bip_39_word_space_10 | phrase olympic traffic afraid retreat dose destroy trash stove amazing |  
+| bip_39_word_space_11 | phrase olympic traffic afraid retreat dose destroy trash stove amazing leopard |  
+| bip_39_word_space_12 | phrase olympic traffic afraid retreat dose destroy trash stove amazing leopard audit |  
+| bip_39_word_space_2 | phrase olympic |  
+| bip_39_word_space_3 | phrase olympic traffic |  
+| bip_39_word_space_4 | phrase olympic traffic afraid |  
+| bip_39_word_space_5 | phrase olympic traffic afraid retreat |  
+| bip_39_word_space_6 | phrase olympic traffic afraid retreat dose |  
+| bip_39_word_space_7 | phrase olympic traffic afraid retreat dose destroy |  
+| bip_39_word_space_8 | phrase olympic traffic afraid retreat dose destroy trash |  
+| bip_39_word_space_9 | phrase olympic traffic afraid retreat dose destroy trash stove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: egg
+bip_39_word_new_br10: egg<br>supreme<br>raccoon<br>script<br>delay<br>rely<br>voyage<br>degree<br>alcohol<br>nephew
+bip_39_word_new_br11: egg<br>supreme<br>raccoon<br>script<br>delay<br>rely<br>voyage<br>degree<br>alcohol<br>nephew<br>marble
+bip_39_word_new_br12: egg<br>supreme<br>raccoon<br>script<br>delay<br>rely<br>voyage<br>degree<br>alcohol<br>nephew<br>marble<br>acquire
+bip_39_word_new_br2: egg<br>supreme
+bip_39_word_new_br3: egg<br>supreme<br>raccoon
+bip_39_word_new_br4: egg<br>supreme<br>raccoon<br>script
+bip_39_word_new_br5: egg<br>supreme<br>raccoon<br>script<br>delay
+bip_39_word_new_br6: egg<br>supreme<br>raccoon<br>script<br>delay<br>rely
+bip_39_word_new_br7: egg<br>supreme<br>raccoon<br>script<br>delay<br>rely<br>voyage
+bip_39_word_new_br8: egg<br>supreme<br>raccoon<br>script<br>delay<br>rely<br>voyage<br>degree
+bip_39_word_new_br9: egg<br>supreme<br>raccoon<br>script<br>delay<br>rely<br>voyage<br>degree<br>alcohol
+bip_39_word_new_line1: egg
+bip_39_word_new_line10: 'egg
+
+  supreme
+
+  raccoon
+
+  script
+
+  delay
+
+  rely
+
+  voyage
+
+  degree
+
+  alcohol
+
+  nephew'
+bip_39_word_new_line11: 'egg
+
+  supreme
+
+  raccoon
+
+  script
+
+  delay
+
+  rely
+
+  voyage
+
+  degree
+
+  alcohol
+
+  nephew
+
+  marble'
+bip_39_word_new_line12: 'egg
+
+  supreme
+
+  raccoon
+
+  script
+
+  delay
+
+  rely
+
+  voyage
+
+  degree
+
+  alcohol
+
+  nephew
+
+  marble
+
+  acquire'
+bip_39_word_new_line2: 'egg
+
+  supreme'
+bip_39_word_new_line3: 'egg
+
+  supreme
+
+  raccoon'
+bip_39_word_new_line4: 'egg
+
+  supreme
+
+  raccoon
+
+  script'
+bip_39_word_new_line5: 'egg
+
+  supreme
+
+  raccoon
+
+  script
+
+  delay'
+bip_39_word_new_line6: 'egg
+
+  supreme
+
+  raccoon
+
+  script
+
+  delay
+
+  rely'
+bip_39_word_new_line7: 'egg
+
+  supreme
+
+  raccoon
+
+  script
+
+  delay
+
+  rely
+
+  voyage'
+bip_39_word_new_line8: 'egg
+
+  supreme
+
+  raccoon
+
+  script
+
+  delay
+
+  rely
+
+  voyage
+
+  degree'
+bip_39_word_new_line9: 'egg
+
+  supreme
+
+  raccoon
+
+  script
+
+  delay
+
+  rely
+
+  voyage
+
+  degree
+
+  alcohol'
+bip_39_word_space_0:
+- egg
+- supreme
+- raccoon
+- script
+- delay
+- rely
+- voyage
+- degree
+- alcohol
+- nephew
+- marble
+- acquire
+bip_39_word_space_1: egg
+bip_39_word_space_10: egg supreme raccoon script delay rely voyage degree alcohol
+  nephew
+bip_39_word_space_11: egg supreme raccoon script delay rely voyage degree alcohol
+  nephew marble
+bip_39_word_space_12: egg supreme raccoon script delay rely voyage degree alcohol
+  nephew marble acquire
+bip_39_word_space_2: egg supreme
+bip_39_word_space_3: egg supreme raccoon
+bip_39_word_space_4: egg supreme raccoon script
+bip_39_word_space_5: egg supreme raccoon script delay
+bip_39_word_space_6: egg supreme raccoon script delay rely
+bip_39_word_space_7: egg supreme raccoon script delay rely voyage
+bip_39_word_space_8: egg supreme raccoon script delay rely voyage degree
+bip_39_word_space_9: egg supreme raccoon script delay rely voyage degree alcohol
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

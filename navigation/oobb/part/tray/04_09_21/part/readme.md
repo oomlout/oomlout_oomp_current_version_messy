@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lunch whip
+  * bip 39 word 3: lunch whip market
+  * bip 39 word: lunch whip market unable poet auction black claim age mule raven asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lunch |  
+| bip_39_word_new_br10 | lunch<br>whip<br>market<br>unable<br>poet<br>auction<br>black<br>claim<br>age<br>mule |  
+| bip_39_word_new_br11 | lunch<br>whip<br>market<br>unable<br>poet<br>auction<br>black<br>claim<br>age<br>mule<br>raven |  
+| bip_39_word_new_br12 | lunch<br>whip<br>market<br>unable<br>poet<br>auction<br>black<br>claim<br>age<br>mule<br>raven<br>asset |  
+| bip_39_word_new_br2 | lunch<br>whip |  
+| bip_39_word_new_br3 | lunch<br>whip<br>market |  
+| bip_39_word_new_br4 | lunch<br>whip<br>market<br>unable |  
+| bip_39_word_new_br5 | lunch<br>whip<br>market<br>unable<br>poet |  
+| bip_39_word_new_br6 | lunch<br>whip<br>market<br>unable<br>poet<br>auction |  
+| bip_39_word_new_br7 | lunch<br>whip<br>market<br>unable<br>poet<br>auction<br>black |  
+| bip_39_word_new_br8 | lunch<br>whip<br>market<br>unable<br>poet<br>auction<br>black<br>claim |  
+| bip_39_word_new_br9 | lunch<br>whip<br>market<br>unable<br>poet<br>auction<br>black<br>claim<br>age |  
+| bip_39_word_new_line1 | lunch |  
+| bip_39_word_new_line10 | lunch
+whip
+market
+unable
+poet
+auction
+black
+claim
+age
+mule |  
+| bip_39_word_new_line11 | lunch
+whip
+market
+unable
+poet
+auction
+black
+claim
+age
+mule
+raven |  
+| bip_39_word_new_line12 | lunch
+whip
+market
+unable
+poet
+auction
+black
+claim
+age
+mule
+raven
+asset |  
+| bip_39_word_new_line2 | lunch
+whip |  
+| bip_39_word_new_line3 | lunch
+whip
+market |  
+| bip_39_word_new_line4 | lunch
+whip
+market
+unable |  
+| bip_39_word_new_line5 | lunch
+whip
+market
+unable
+poet |  
+| bip_39_word_new_line6 | lunch
+whip
+market
+unable
+poet
+auction |  
+| bip_39_word_new_line7 | lunch
+whip
+market
+unable
+poet
+auction
+black |  
+| bip_39_word_new_line8 | lunch
+whip
+market
+unable
+poet
+auction
+black
+claim |  
+| bip_39_word_new_line9 | lunch
+whip
+market
+unable
+poet
+auction
+black
+claim
+age |  
+| bip_39_word_space_0 | ['lunch', 'whip', 'market', 'unable', 'poet', 'auction', 'black', 'claim', 'age', 'mule', 'raven', 'asset'] |  
+| bip_39_word_space_1 | lunch |  
+| bip_39_word_space_10 | lunch whip market unable poet auction black claim age mule |  
+| bip_39_word_space_11 | lunch whip market unable poet auction black claim age mule raven |  
+| bip_39_word_space_12 | lunch whip market unable poet auction black claim age mule raven asset |  
+| bip_39_word_space_2 | lunch whip |  
+| bip_39_word_space_3 | lunch whip market |  
+| bip_39_word_space_4 | lunch whip market unable |  
+| bip_39_word_space_5 | lunch whip market unable poet |  
+| bip_39_word_space_6 | lunch whip market unable poet auction |  
+| bip_39_word_space_7 | lunch whip market unable poet auction black |  
+| bip_39_word_space_8 | lunch whip market unable poet auction black claim |  
+| bip_39_word_space_9 | lunch whip market unable poet auction black claim age |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

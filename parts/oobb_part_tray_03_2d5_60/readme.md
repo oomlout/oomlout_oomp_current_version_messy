@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: disagree ostrich
+  * bip 39 word 3: disagree ostrich salt
+  * bip 39 word: disagree ostrich salt luxury become voyage pond bonus bottom sweet ugly around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | disagree |  
+| bip_39_word_new_br10 | disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom<br>sweet |  
+| bip_39_word_new_br11 | disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom<br>sweet<br>ugly |  
+| bip_39_word_new_br12 | disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom<br>sweet<br>ugly<br>around |  
+| bip_39_word_new_br2 | disagree<br>ostrich |  
+| bip_39_word_new_br3 | disagree<br>ostrich<br>salt |  
+| bip_39_word_new_br4 | disagree<br>ostrich<br>salt<br>luxury |  
+| bip_39_word_new_br5 | disagree<br>ostrich<br>salt<br>luxury<br>become |  
+| bip_39_word_new_br6 | disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage |  
+| bip_39_word_new_br7 | disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond |  
+| bip_39_word_new_br8 | disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus |  
+| bip_39_word_new_br9 | disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom |  
+| bip_39_word_new_line1 | disagree |  
+| bip_39_word_new_line10 | disagree
+ostrich
+salt
+luxury
+become
+voyage
+pond
+bonus
+bottom
+sweet |  
+| bip_39_word_new_line11 | disagree
+ostrich
+salt
+luxury
+become
+voyage
+pond
+bonus
+bottom
+sweet
+ugly |  
+| bip_39_word_new_line12 | disagree
+ostrich
+salt
+luxury
+become
+voyage
+pond
+bonus
+bottom
+sweet
+ugly
+around |  
+| bip_39_word_new_line2 | disagree
+ostrich |  
+| bip_39_word_new_line3 | disagree
+ostrich
+salt |  
+| bip_39_word_new_line4 | disagree
+ostrich
+salt
+luxury |  
+| bip_39_word_new_line5 | disagree
+ostrich
+salt
+luxury
+become |  
+| bip_39_word_new_line6 | disagree
+ostrich
+salt
+luxury
+become
+voyage |  
+| bip_39_word_new_line7 | disagree
+ostrich
+salt
+luxury
+become
+voyage
+pond |  
+| bip_39_word_new_line8 | disagree
+ostrich
+salt
+luxury
+become
+voyage
+pond
+bonus |  
+| bip_39_word_new_line9 | disagree
+ostrich
+salt
+luxury
+become
+voyage
+pond
+bonus
+bottom |  
+| bip_39_word_space_0 | ['disagree', 'ostrich', 'salt', 'luxury', 'become', 'voyage', 'pond', 'bonus', 'bottom', 'sweet', 'ugly', 'around'] |  
+| bip_39_word_space_1 | disagree |  
+| bip_39_word_space_10 | disagree ostrich salt luxury become voyage pond bonus bottom sweet |  
+| bip_39_word_space_11 | disagree ostrich salt luxury become voyage pond bonus bottom sweet ugly |  
+| bip_39_word_space_12 | disagree ostrich salt luxury become voyage pond bonus bottom sweet ugly around |  
+| bip_39_word_space_2 | disagree ostrich |  
+| bip_39_word_space_3 | disagree ostrich salt |  
+| bip_39_word_space_4 | disagree ostrich salt luxury |  
+| bip_39_word_space_5 | disagree ostrich salt luxury become |  
+| bip_39_word_space_6 | disagree ostrich salt luxury become voyage |  
+| bip_39_word_space_7 | disagree ostrich salt luxury become voyage pond |  
+| bip_39_word_space_8 | disagree ostrich salt luxury become voyage pond bonus |  
+| bip_39_word_space_9 | disagree ostrich salt luxury become voyage pond bonus bottom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

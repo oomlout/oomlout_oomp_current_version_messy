@@ -1,3 +1,185 @@
+bip_39_word_new_br1: emotion
+bip_39_word_new_br10: emotion<br>glide<br>slam<br>talk<br>wrap<br>solid<br>pizza<br>useful<br>waste<br>pond
+bip_39_word_new_br11: emotion<br>glide<br>slam<br>talk<br>wrap<br>solid<br>pizza<br>useful<br>waste<br>pond<br>grape
+bip_39_word_new_br12: emotion<br>glide<br>slam<br>talk<br>wrap<br>solid<br>pizza<br>useful<br>waste<br>pond<br>grape<br>arrow
+bip_39_word_new_br2: emotion<br>glide
+bip_39_word_new_br3: emotion<br>glide<br>slam
+bip_39_word_new_br4: emotion<br>glide<br>slam<br>talk
+bip_39_word_new_br5: emotion<br>glide<br>slam<br>talk<br>wrap
+bip_39_word_new_br6: emotion<br>glide<br>slam<br>talk<br>wrap<br>solid
+bip_39_word_new_br7: emotion<br>glide<br>slam<br>talk<br>wrap<br>solid<br>pizza
+bip_39_word_new_br8: emotion<br>glide<br>slam<br>talk<br>wrap<br>solid<br>pizza<br>useful
+bip_39_word_new_br9: emotion<br>glide<br>slam<br>talk<br>wrap<br>solid<br>pizza<br>useful<br>waste
+bip_39_word_new_line1: emotion
+bip_39_word_new_line10: 'emotion
+
+  glide
+
+  slam
+
+  talk
+
+  wrap
+
+  solid
+
+  pizza
+
+  useful
+
+  waste
+
+  pond'
+bip_39_word_new_line11: 'emotion
+
+  glide
+
+  slam
+
+  talk
+
+  wrap
+
+  solid
+
+  pizza
+
+  useful
+
+  waste
+
+  pond
+
+  grape'
+bip_39_word_new_line12: 'emotion
+
+  glide
+
+  slam
+
+  talk
+
+  wrap
+
+  solid
+
+  pizza
+
+  useful
+
+  waste
+
+  pond
+
+  grape
+
+  arrow'
+bip_39_word_new_line2: 'emotion
+
+  glide'
+bip_39_word_new_line3: 'emotion
+
+  glide
+
+  slam'
+bip_39_word_new_line4: 'emotion
+
+  glide
+
+  slam
+
+  talk'
+bip_39_word_new_line5: 'emotion
+
+  glide
+
+  slam
+
+  talk
+
+  wrap'
+bip_39_word_new_line6: 'emotion
+
+  glide
+
+  slam
+
+  talk
+
+  wrap
+
+  solid'
+bip_39_word_new_line7: 'emotion
+
+  glide
+
+  slam
+
+  talk
+
+  wrap
+
+  solid
+
+  pizza'
+bip_39_word_new_line8: 'emotion
+
+  glide
+
+  slam
+
+  talk
+
+  wrap
+
+  solid
+
+  pizza
+
+  useful'
+bip_39_word_new_line9: 'emotion
+
+  glide
+
+  slam
+
+  talk
+
+  wrap
+
+  solid
+
+  pizza
+
+  useful
+
+  waste'
+bip_39_word_space_0:
+- emotion
+- glide
+- slam
+- talk
+- wrap
+- solid
+- pizza
+- useful
+- waste
+- pond
+- grape
+- arrow
+bip_39_word_space_1: emotion
+bip_39_word_space_10: emotion glide slam talk wrap solid pizza useful waste pond
+bip_39_word_space_11: emotion glide slam talk wrap solid pizza useful waste pond grape
+bip_39_word_space_12: emotion glide slam talk wrap solid pizza useful waste pond grape
+  arrow
+bip_39_word_space_2: emotion glide
+bip_39_word_space_3: emotion glide slam
+bip_39_word_space_4: emotion glide slam talk
+bip_39_word_space_5: emotion glide slam talk wrap
+bip_39_word_space_6: emotion glide slam talk wrap solid
+bip_39_word_space_7: emotion glide slam talk wrap solid pizza
+bip_39_word_space_8: emotion glide slam talk wrap solid pizza useful
+bip_39_word_space_9: emotion glide slam talk wrap solid pizza useful waste
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

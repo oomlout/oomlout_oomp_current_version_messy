@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inhale suggest
+  * bip 39 word 3: inhale suggest permit
+  * bip 39 word: inhale suggest permit poem predict deposit hair wine tobacco spy tackle always
 
 ### other_codes
 * short_code: cs2d5m10pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inhale |  
+| bip_39_word_new_br10 | inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit<br>hair<br>wine<br>tobacco<br>spy |  
+| bip_39_word_new_br11 | inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit<br>hair<br>wine<br>tobacco<br>spy<br>tackle |  
+| bip_39_word_new_br12 | inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit<br>hair<br>wine<br>tobacco<br>spy<br>tackle<br>always |  
+| bip_39_word_new_br2 | inhale<br>suggest |  
+| bip_39_word_new_br3 | inhale<br>suggest<br>permit |  
+| bip_39_word_new_br4 | inhale<br>suggest<br>permit<br>poem |  
+| bip_39_word_new_br5 | inhale<br>suggest<br>permit<br>poem<br>predict |  
+| bip_39_word_new_br6 | inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit |  
+| bip_39_word_new_br7 | inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit<br>hair |  
+| bip_39_word_new_br8 | inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit<br>hair<br>wine |  
+| bip_39_word_new_br9 | inhale<br>suggest<br>permit<br>poem<br>predict<br>deposit<br>hair<br>wine<br>tobacco |  
+| bip_39_word_new_line1 | inhale |  
+| bip_39_word_new_line10 | inhale
+suggest
+permit
+poem
+predict
+deposit
+hair
+wine
+tobacco
+spy |  
+| bip_39_word_new_line11 | inhale
+suggest
+permit
+poem
+predict
+deposit
+hair
+wine
+tobacco
+spy
+tackle |  
+| bip_39_word_new_line12 | inhale
+suggest
+permit
+poem
+predict
+deposit
+hair
+wine
+tobacco
+spy
+tackle
+always |  
+| bip_39_word_new_line2 | inhale
+suggest |  
+| bip_39_word_new_line3 | inhale
+suggest
+permit |  
+| bip_39_word_new_line4 | inhale
+suggest
+permit
+poem |  
+| bip_39_word_new_line5 | inhale
+suggest
+permit
+poem
+predict |  
+| bip_39_word_new_line6 | inhale
+suggest
+permit
+poem
+predict
+deposit |  
+| bip_39_word_new_line7 | inhale
+suggest
+permit
+poem
+predict
+deposit
+hair |  
+| bip_39_word_new_line8 | inhale
+suggest
+permit
+poem
+predict
+deposit
+hair
+wine |  
+| bip_39_word_new_line9 | inhale
+suggest
+permit
+poem
+predict
+deposit
+hair
+wine
+tobacco |  
+| bip_39_word_space_0 | ['inhale', 'suggest', 'permit', 'poem', 'predict', 'deposit', 'hair', 'wine', 'tobacco', 'spy', 'tackle', 'always'] |  
+| bip_39_word_space_1 | inhale |  
+| bip_39_word_space_10 | inhale suggest permit poem predict deposit hair wine tobacco spy |  
+| bip_39_word_space_11 | inhale suggest permit poem predict deposit hair wine tobacco spy tackle |  
+| bip_39_word_space_12 | inhale suggest permit poem predict deposit hair wine tobacco spy tackle always |  
+| bip_39_word_space_2 | inhale suggest |  
+| bip_39_word_space_3 | inhale suggest permit |  
+| bip_39_word_space_4 | inhale suggest permit poem |  
+| bip_39_word_space_5 | inhale suggest permit poem predict |  
+| bip_39_word_space_6 | inhale suggest permit poem predict deposit |  
+| bip_39_word_space_7 | inhale suggest permit poem predict deposit hair |  
+| bip_39_word_space_8 | inhale suggest permit poem predict deposit hair wine |  
+| bip_39_word_space_9 | inhale suggest permit poem predict deposit hair wine tobacco |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ecology sustain
+  * bip 39 word 3: ecology sustain main
+  * bip 39 word: ecology sustain main cheese snap base clay very pledge genre govern ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ecology |  
+| bip_39_word_new_br10 | ecology<br>sustain<br>main<br>cheese<br>snap<br>base<br>clay<br>very<br>pledge<br>genre |  
+| bip_39_word_new_br11 | ecology<br>sustain<br>main<br>cheese<br>snap<br>base<br>clay<br>very<br>pledge<br>genre<br>govern |  
+| bip_39_word_new_br12 | ecology<br>sustain<br>main<br>cheese<br>snap<br>base<br>clay<br>very<br>pledge<br>genre<br>govern<br>ability |  
+| bip_39_word_new_br2 | ecology<br>sustain |  
+| bip_39_word_new_br3 | ecology<br>sustain<br>main |  
+| bip_39_word_new_br4 | ecology<br>sustain<br>main<br>cheese |  
+| bip_39_word_new_br5 | ecology<br>sustain<br>main<br>cheese<br>snap |  
+| bip_39_word_new_br6 | ecology<br>sustain<br>main<br>cheese<br>snap<br>base |  
+| bip_39_word_new_br7 | ecology<br>sustain<br>main<br>cheese<br>snap<br>base<br>clay |  
+| bip_39_word_new_br8 | ecology<br>sustain<br>main<br>cheese<br>snap<br>base<br>clay<br>very |  
+| bip_39_word_new_br9 | ecology<br>sustain<br>main<br>cheese<br>snap<br>base<br>clay<br>very<br>pledge |  
+| bip_39_word_new_line1 | ecology |  
+| bip_39_word_new_line10 | ecology
+sustain
+main
+cheese
+snap
+base
+clay
+very
+pledge
+genre |  
+| bip_39_word_new_line11 | ecology
+sustain
+main
+cheese
+snap
+base
+clay
+very
+pledge
+genre
+govern |  
+| bip_39_word_new_line12 | ecology
+sustain
+main
+cheese
+snap
+base
+clay
+very
+pledge
+genre
+govern
+ability |  
+| bip_39_word_new_line2 | ecology
+sustain |  
+| bip_39_word_new_line3 | ecology
+sustain
+main |  
+| bip_39_word_new_line4 | ecology
+sustain
+main
+cheese |  
+| bip_39_word_new_line5 | ecology
+sustain
+main
+cheese
+snap |  
+| bip_39_word_new_line6 | ecology
+sustain
+main
+cheese
+snap
+base |  
+| bip_39_word_new_line7 | ecology
+sustain
+main
+cheese
+snap
+base
+clay |  
+| bip_39_word_new_line8 | ecology
+sustain
+main
+cheese
+snap
+base
+clay
+very |  
+| bip_39_word_new_line9 | ecology
+sustain
+main
+cheese
+snap
+base
+clay
+very
+pledge |  
+| bip_39_word_space_0 | ['ecology', 'sustain', 'main', 'cheese', 'snap', 'base', 'clay', 'very', 'pledge', 'genre', 'govern', 'ability'] |  
+| bip_39_word_space_1 | ecology |  
+| bip_39_word_space_10 | ecology sustain main cheese snap base clay very pledge genre |  
+| bip_39_word_space_11 | ecology sustain main cheese snap base clay very pledge genre govern |  
+| bip_39_word_space_12 | ecology sustain main cheese snap base clay very pledge genre govern ability |  
+| bip_39_word_space_2 | ecology sustain |  
+| bip_39_word_space_3 | ecology sustain main |  
+| bip_39_word_space_4 | ecology sustain main cheese |  
+| bip_39_word_space_5 | ecology sustain main cheese snap |  
+| bip_39_word_space_6 | ecology sustain main cheese snap base |  
+| bip_39_word_space_7 | ecology sustain main cheese snap base clay |  
+| bip_39_word_space_8 | ecology sustain main cheese snap base clay very |  
+| bip_39_word_space_9 | ecology sustain main cheese snap base clay very pledge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

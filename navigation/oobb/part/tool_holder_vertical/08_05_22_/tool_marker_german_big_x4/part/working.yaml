@@ -1,3 +1,185 @@
+bip_39_word_new_br1: season
+bip_39_word_new_br10: season<br>click<br>pool<br>pet<br>flush<br>ski<br>hurry<br>humble<br>erosion<br>novel
+bip_39_word_new_br11: season<br>click<br>pool<br>pet<br>flush<br>ski<br>hurry<br>humble<br>erosion<br>novel<br>album
+bip_39_word_new_br12: season<br>click<br>pool<br>pet<br>flush<br>ski<br>hurry<br>humble<br>erosion<br>novel<br>album<br>aisle
+bip_39_word_new_br2: season<br>click
+bip_39_word_new_br3: season<br>click<br>pool
+bip_39_word_new_br4: season<br>click<br>pool<br>pet
+bip_39_word_new_br5: season<br>click<br>pool<br>pet<br>flush
+bip_39_word_new_br6: season<br>click<br>pool<br>pet<br>flush<br>ski
+bip_39_word_new_br7: season<br>click<br>pool<br>pet<br>flush<br>ski<br>hurry
+bip_39_word_new_br8: season<br>click<br>pool<br>pet<br>flush<br>ski<br>hurry<br>humble
+bip_39_word_new_br9: season<br>click<br>pool<br>pet<br>flush<br>ski<br>hurry<br>humble<br>erosion
+bip_39_word_new_line1: season
+bip_39_word_new_line10: 'season
+
+  click
+
+  pool
+
+  pet
+
+  flush
+
+  ski
+
+  hurry
+
+  humble
+
+  erosion
+
+  novel'
+bip_39_word_new_line11: 'season
+
+  click
+
+  pool
+
+  pet
+
+  flush
+
+  ski
+
+  hurry
+
+  humble
+
+  erosion
+
+  novel
+
+  album'
+bip_39_word_new_line12: 'season
+
+  click
+
+  pool
+
+  pet
+
+  flush
+
+  ski
+
+  hurry
+
+  humble
+
+  erosion
+
+  novel
+
+  album
+
+  aisle'
+bip_39_word_new_line2: 'season
+
+  click'
+bip_39_word_new_line3: 'season
+
+  click
+
+  pool'
+bip_39_word_new_line4: 'season
+
+  click
+
+  pool
+
+  pet'
+bip_39_word_new_line5: 'season
+
+  click
+
+  pool
+
+  pet
+
+  flush'
+bip_39_word_new_line6: 'season
+
+  click
+
+  pool
+
+  pet
+
+  flush
+
+  ski'
+bip_39_word_new_line7: 'season
+
+  click
+
+  pool
+
+  pet
+
+  flush
+
+  ski
+
+  hurry'
+bip_39_word_new_line8: 'season
+
+  click
+
+  pool
+
+  pet
+
+  flush
+
+  ski
+
+  hurry
+
+  humble'
+bip_39_word_new_line9: 'season
+
+  click
+
+  pool
+
+  pet
+
+  flush
+
+  ski
+
+  hurry
+
+  humble
+
+  erosion'
+bip_39_word_space_0:
+- season
+- click
+- pool
+- pet
+- flush
+- ski
+- hurry
+- humble
+- erosion
+- novel
+- album
+- aisle
+bip_39_word_space_1: season
+bip_39_word_space_10: season click pool pet flush ski hurry humble erosion novel
+bip_39_word_space_11: season click pool pet flush ski hurry humble erosion novel album
+bip_39_word_space_12: season click pool pet flush ski hurry humble erosion novel album
+  aisle
+bip_39_word_space_2: season click
+bip_39_word_space_3: season click pool
+bip_39_word_space_4: season click pool pet
+bip_39_word_space_5: season click pool pet flush
+bip_39_word_space_6: season click pool pet flush ski
+bip_39_word_space_7: season click pool pet flush ski hurry
+bip_39_word_space_8: season click pool pet flush ski hurry humble
+bip_39_word_space_9: season click pool pet flush ski hurry humble erosion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flame jacket
+  * bip 39 word 3: flame jacket sniff
+  * bip 39 word: flame jacket sniff lucky point pave fence olive funny still abuse account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flame |  
+| bip_39_word_new_br10 | flame<br>jacket<br>sniff<br>lucky<br>point<br>pave<br>fence<br>olive<br>funny<br>still |  
+| bip_39_word_new_br11 | flame<br>jacket<br>sniff<br>lucky<br>point<br>pave<br>fence<br>olive<br>funny<br>still<br>abuse |  
+| bip_39_word_new_br12 | flame<br>jacket<br>sniff<br>lucky<br>point<br>pave<br>fence<br>olive<br>funny<br>still<br>abuse<br>account |  
+| bip_39_word_new_br2 | flame<br>jacket |  
+| bip_39_word_new_br3 | flame<br>jacket<br>sniff |  
+| bip_39_word_new_br4 | flame<br>jacket<br>sniff<br>lucky |  
+| bip_39_word_new_br5 | flame<br>jacket<br>sniff<br>lucky<br>point |  
+| bip_39_word_new_br6 | flame<br>jacket<br>sniff<br>lucky<br>point<br>pave |  
+| bip_39_word_new_br7 | flame<br>jacket<br>sniff<br>lucky<br>point<br>pave<br>fence |  
+| bip_39_word_new_br8 | flame<br>jacket<br>sniff<br>lucky<br>point<br>pave<br>fence<br>olive |  
+| bip_39_word_new_br9 | flame<br>jacket<br>sniff<br>lucky<br>point<br>pave<br>fence<br>olive<br>funny |  
+| bip_39_word_new_line1 | flame |  
+| bip_39_word_new_line10 | flame
+jacket
+sniff
+lucky
+point
+pave
+fence
+olive
+funny
+still |  
+| bip_39_word_new_line11 | flame
+jacket
+sniff
+lucky
+point
+pave
+fence
+olive
+funny
+still
+abuse |  
+| bip_39_word_new_line12 | flame
+jacket
+sniff
+lucky
+point
+pave
+fence
+olive
+funny
+still
+abuse
+account |  
+| bip_39_word_new_line2 | flame
+jacket |  
+| bip_39_word_new_line3 | flame
+jacket
+sniff |  
+| bip_39_word_new_line4 | flame
+jacket
+sniff
+lucky |  
+| bip_39_word_new_line5 | flame
+jacket
+sniff
+lucky
+point |  
+| bip_39_word_new_line6 | flame
+jacket
+sniff
+lucky
+point
+pave |  
+| bip_39_word_new_line7 | flame
+jacket
+sniff
+lucky
+point
+pave
+fence |  
+| bip_39_word_new_line8 | flame
+jacket
+sniff
+lucky
+point
+pave
+fence
+olive |  
+| bip_39_word_new_line9 | flame
+jacket
+sniff
+lucky
+point
+pave
+fence
+olive
+funny |  
+| bip_39_word_space_0 | ['flame', 'jacket', 'sniff', 'lucky', 'point', 'pave', 'fence', 'olive', 'funny', 'still', 'abuse', 'account'] |  
+| bip_39_word_space_1 | flame |  
+| bip_39_word_space_10 | flame jacket sniff lucky point pave fence olive funny still |  
+| bip_39_word_space_11 | flame jacket sniff lucky point pave fence olive funny still abuse |  
+| bip_39_word_space_12 | flame jacket sniff lucky point pave fence olive funny still abuse account |  
+| bip_39_word_space_2 | flame jacket |  
+| bip_39_word_space_3 | flame jacket sniff |  
+| bip_39_word_space_4 | flame jacket sniff lucky |  
+| bip_39_word_space_5 | flame jacket sniff lucky point |  
+| bip_39_word_space_6 | flame jacket sniff lucky point pave |  
+| bip_39_word_space_7 | flame jacket sniff lucky point pave fence |  
+| bip_39_word_space_8 | flame jacket sniff lucky point pave fence olive |  
+| bip_39_word_space_9 | flame jacket sniff lucky point pave fence olive funny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

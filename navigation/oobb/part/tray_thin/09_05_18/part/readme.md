@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: noise foster
+  * bip 39 word 3: noise foster achieve
+  * bip 39 word: noise foster achieve essence leaf render liquid economy uncover tray glide alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | noise |  
+| bip_39_word_new_br10 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render<br>liquid<br>economy<br>uncover<br>tray |  
+| bip_39_word_new_br11 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render<br>liquid<br>economy<br>uncover<br>tray<br>glide |  
+| bip_39_word_new_br12 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render<br>liquid<br>economy<br>uncover<br>tray<br>glide<br>alcohol |  
+| bip_39_word_new_br2 | noise<br>foster |  
+| bip_39_word_new_br3 | noise<br>foster<br>achieve |  
+| bip_39_word_new_br4 | noise<br>foster<br>achieve<br>essence |  
+| bip_39_word_new_br5 | noise<br>foster<br>achieve<br>essence<br>leaf |  
+| bip_39_word_new_br6 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render |  
+| bip_39_word_new_br7 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render<br>liquid |  
+| bip_39_word_new_br8 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render<br>liquid<br>economy |  
+| bip_39_word_new_br9 | noise<br>foster<br>achieve<br>essence<br>leaf<br>render<br>liquid<br>economy<br>uncover |  
+| bip_39_word_new_line1 | noise |  
+| bip_39_word_new_line10 | noise
+foster
+achieve
+essence
+leaf
+render
+liquid
+economy
+uncover
+tray |  
+| bip_39_word_new_line11 | noise
+foster
+achieve
+essence
+leaf
+render
+liquid
+economy
+uncover
+tray
+glide |  
+| bip_39_word_new_line12 | noise
+foster
+achieve
+essence
+leaf
+render
+liquid
+economy
+uncover
+tray
+glide
+alcohol |  
+| bip_39_word_new_line2 | noise
+foster |  
+| bip_39_word_new_line3 | noise
+foster
+achieve |  
+| bip_39_word_new_line4 | noise
+foster
+achieve
+essence |  
+| bip_39_word_new_line5 | noise
+foster
+achieve
+essence
+leaf |  
+| bip_39_word_new_line6 | noise
+foster
+achieve
+essence
+leaf
+render |  
+| bip_39_word_new_line7 | noise
+foster
+achieve
+essence
+leaf
+render
+liquid |  
+| bip_39_word_new_line8 | noise
+foster
+achieve
+essence
+leaf
+render
+liquid
+economy |  
+| bip_39_word_new_line9 | noise
+foster
+achieve
+essence
+leaf
+render
+liquid
+economy
+uncover |  
+| bip_39_word_space_0 | ['noise', 'foster', 'achieve', 'essence', 'leaf', 'render', 'liquid', 'economy', 'uncover', 'tray', 'glide', 'alcohol'] |  
+| bip_39_word_space_1 | noise |  
+| bip_39_word_space_10 | noise foster achieve essence leaf render liquid economy uncover tray |  
+| bip_39_word_space_11 | noise foster achieve essence leaf render liquid economy uncover tray glide |  
+| bip_39_word_space_12 | noise foster achieve essence leaf render liquid economy uncover tray glide alcohol |  
+| bip_39_word_space_2 | noise foster |  
+| bip_39_word_space_3 | noise foster achieve |  
+| bip_39_word_space_4 | noise foster achieve essence |  
+| bip_39_word_space_5 | noise foster achieve essence leaf |  
+| bip_39_word_space_6 | noise foster achieve essence leaf render |  
+| bip_39_word_space_7 | noise foster achieve essence leaf render liquid |  
+| bip_39_word_space_8 | noise foster achieve essence leaf render liquid economy |  
+| bip_39_word_space_9 | noise foster achieve essence leaf render liquid economy uncover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

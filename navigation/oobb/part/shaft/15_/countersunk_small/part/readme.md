@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk_small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: infant funny
+  * bip 39 word 3: infant funny ketchup
+  * bip 39 word: infant funny ketchup despair network slot this wet turn include slam acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | infant |  
+| bip_39_word_new_br10 | infant<br>funny<br>ketchup<br>despair<br>network<br>slot<br>this<br>wet<br>turn<br>include |  
+| bip_39_word_new_br11 | infant<br>funny<br>ketchup<br>despair<br>network<br>slot<br>this<br>wet<br>turn<br>include<br>slam |  
+| bip_39_word_new_br12 | infant<br>funny<br>ketchup<br>despair<br>network<br>slot<br>this<br>wet<br>turn<br>include<br>slam<br>acquire |  
+| bip_39_word_new_br2 | infant<br>funny |  
+| bip_39_word_new_br3 | infant<br>funny<br>ketchup |  
+| bip_39_word_new_br4 | infant<br>funny<br>ketchup<br>despair |  
+| bip_39_word_new_br5 | infant<br>funny<br>ketchup<br>despair<br>network |  
+| bip_39_word_new_br6 | infant<br>funny<br>ketchup<br>despair<br>network<br>slot |  
+| bip_39_word_new_br7 | infant<br>funny<br>ketchup<br>despair<br>network<br>slot<br>this |  
+| bip_39_word_new_br8 | infant<br>funny<br>ketchup<br>despair<br>network<br>slot<br>this<br>wet |  
+| bip_39_word_new_br9 | infant<br>funny<br>ketchup<br>despair<br>network<br>slot<br>this<br>wet<br>turn |  
+| bip_39_word_new_line1 | infant |  
+| bip_39_word_new_line10 | infant
+funny
+ketchup
+despair
+network
+slot
+this
+wet
+turn
+include |  
+| bip_39_word_new_line11 | infant
+funny
+ketchup
+despair
+network
+slot
+this
+wet
+turn
+include
+slam |  
+| bip_39_word_new_line12 | infant
+funny
+ketchup
+despair
+network
+slot
+this
+wet
+turn
+include
+slam
+acquire |  
+| bip_39_word_new_line2 | infant
+funny |  
+| bip_39_word_new_line3 | infant
+funny
+ketchup |  
+| bip_39_word_new_line4 | infant
+funny
+ketchup
+despair |  
+| bip_39_word_new_line5 | infant
+funny
+ketchup
+despair
+network |  
+| bip_39_word_new_line6 | infant
+funny
+ketchup
+despair
+network
+slot |  
+| bip_39_word_new_line7 | infant
+funny
+ketchup
+despair
+network
+slot
+this |  
+| bip_39_word_new_line8 | infant
+funny
+ketchup
+despair
+network
+slot
+this
+wet |  
+| bip_39_word_new_line9 | infant
+funny
+ketchup
+despair
+network
+slot
+this
+wet
+turn |  
+| bip_39_word_space_0 | ['infant', 'funny', 'ketchup', 'despair', 'network', 'slot', 'this', 'wet', 'turn', 'include', 'slam', 'acquire'] |  
+| bip_39_word_space_1 | infant |  
+| bip_39_word_space_10 | infant funny ketchup despair network slot this wet turn include |  
+| bip_39_word_space_11 | infant funny ketchup despair network slot this wet turn include slam |  
+| bip_39_word_space_12 | infant funny ketchup despair network slot this wet turn include slam acquire |  
+| bip_39_word_space_2 | infant funny |  
+| bip_39_word_space_3 | infant funny ketchup |  
+| bip_39_word_space_4 | infant funny ketchup despair |  
+| bip_39_word_space_5 | infant funny ketchup despair network |  
+| bip_39_word_space_6 | infant funny ketchup despair network slot |  
+| bip_39_word_space_7 | infant funny ketchup despair network slot this |  
+| bip_39_word_space_8 | infant funny ketchup despair network slot this wet |  
+| bip_39_word_space_9 | infant funny ketchup despair network slot this wet turn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

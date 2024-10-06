@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sausage action
+  * bip 39 word 3: sausage action trap
+  * bip 39 word: sausage action trap drop bottom tonight prepare involve copy midnight feed attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sausage |  
+| bip_39_word_new_br10 | sausage<br>action<br>trap<br>drop<br>bottom<br>tonight<br>prepare<br>involve<br>copy<br>midnight |  
+| bip_39_word_new_br11 | sausage<br>action<br>trap<br>drop<br>bottom<br>tonight<br>prepare<br>involve<br>copy<br>midnight<br>feed |  
+| bip_39_word_new_br12 | sausage<br>action<br>trap<br>drop<br>bottom<br>tonight<br>prepare<br>involve<br>copy<br>midnight<br>feed<br>attack |  
+| bip_39_word_new_br2 | sausage<br>action |  
+| bip_39_word_new_br3 | sausage<br>action<br>trap |  
+| bip_39_word_new_br4 | sausage<br>action<br>trap<br>drop |  
+| bip_39_word_new_br5 | sausage<br>action<br>trap<br>drop<br>bottom |  
+| bip_39_word_new_br6 | sausage<br>action<br>trap<br>drop<br>bottom<br>tonight |  
+| bip_39_word_new_br7 | sausage<br>action<br>trap<br>drop<br>bottom<br>tonight<br>prepare |  
+| bip_39_word_new_br8 | sausage<br>action<br>trap<br>drop<br>bottom<br>tonight<br>prepare<br>involve |  
+| bip_39_word_new_br9 | sausage<br>action<br>trap<br>drop<br>bottom<br>tonight<br>prepare<br>involve<br>copy |  
+| bip_39_word_new_line1 | sausage |  
+| bip_39_word_new_line10 | sausage
+action
+trap
+drop
+bottom
+tonight
+prepare
+involve
+copy
+midnight |  
+| bip_39_word_new_line11 | sausage
+action
+trap
+drop
+bottom
+tonight
+prepare
+involve
+copy
+midnight
+feed |  
+| bip_39_word_new_line12 | sausage
+action
+trap
+drop
+bottom
+tonight
+prepare
+involve
+copy
+midnight
+feed
+attack |  
+| bip_39_word_new_line2 | sausage
+action |  
+| bip_39_word_new_line3 | sausage
+action
+trap |  
+| bip_39_word_new_line4 | sausage
+action
+trap
+drop |  
+| bip_39_word_new_line5 | sausage
+action
+trap
+drop
+bottom |  
+| bip_39_word_new_line6 | sausage
+action
+trap
+drop
+bottom
+tonight |  
+| bip_39_word_new_line7 | sausage
+action
+trap
+drop
+bottom
+tonight
+prepare |  
+| bip_39_word_new_line8 | sausage
+action
+trap
+drop
+bottom
+tonight
+prepare
+involve |  
+| bip_39_word_new_line9 | sausage
+action
+trap
+drop
+bottom
+tonight
+prepare
+involve
+copy |  
+| bip_39_word_space_0 | ['sausage', 'action', 'trap', 'drop', 'bottom', 'tonight', 'prepare', 'involve', 'copy', 'midnight', 'feed', 'attack'] |  
+| bip_39_word_space_1 | sausage |  
+| bip_39_word_space_10 | sausage action trap drop bottom tonight prepare involve copy midnight |  
+| bip_39_word_space_11 | sausage action trap drop bottom tonight prepare involve copy midnight feed |  
+| bip_39_word_space_12 | sausage action trap drop bottom tonight prepare involve copy midnight feed attack |  
+| bip_39_word_space_2 | sausage action |  
+| bip_39_word_space_3 | sausage action trap |  
+| bip_39_word_space_4 | sausage action trap drop |  
+| bip_39_word_space_5 | sausage action trap drop bottom |  
+| bip_39_word_space_6 | sausage action trap drop bottom tonight |  
+| bip_39_word_space_7 | sausage action trap drop bottom tonight prepare |  
+| bip_39_word_space_8 | sausage action trap drop bottom tonight prepare involve |  
+| bip_39_word_space_9 | sausage action trap drop bottom tonight prepare involve copy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

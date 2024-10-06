@@ -1,3 +1,185 @@
+bip_39_word_new_br1: dose
+bip_39_word_new_br10: dose<br>filter<br>latin<br>stool<br>method<br>bus<br>cruise<br>top<br>basket<br>boat
+bip_39_word_new_br11: dose<br>filter<br>latin<br>stool<br>method<br>bus<br>cruise<br>top<br>basket<br>boat<br>truck
+bip_39_word_new_br12: dose<br>filter<br>latin<br>stool<br>method<br>bus<br>cruise<br>top<br>basket<br>boat<br>truck<br>acquire
+bip_39_word_new_br2: dose<br>filter
+bip_39_word_new_br3: dose<br>filter<br>latin
+bip_39_word_new_br4: dose<br>filter<br>latin<br>stool
+bip_39_word_new_br5: dose<br>filter<br>latin<br>stool<br>method
+bip_39_word_new_br6: dose<br>filter<br>latin<br>stool<br>method<br>bus
+bip_39_word_new_br7: dose<br>filter<br>latin<br>stool<br>method<br>bus<br>cruise
+bip_39_word_new_br8: dose<br>filter<br>latin<br>stool<br>method<br>bus<br>cruise<br>top
+bip_39_word_new_br9: dose<br>filter<br>latin<br>stool<br>method<br>bus<br>cruise<br>top<br>basket
+bip_39_word_new_line1: dose
+bip_39_word_new_line10: 'dose
+
+  filter
+
+  latin
+
+  stool
+
+  method
+
+  bus
+
+  cruise
+
+  top
+
+  basket
+
+  boat'
+bip_39_word_new_line11: 'dose
+
+  filter
+
+  latin
+
+  stool
+
+  method
+
+  bus
+
+  cruise
+
+  top
+
+  basket
+
+  boat
+
+  truck'
+bip_39_word_new_line12: 'dose
+
+  filter
+
+  latin
+
+  stool
+
+  method
+
+  bus
+
+  cruise
+
+  top
+
+  basket
+
+  boat
+
+  truck
+
+  acquire'
+bip_39_word_new_line2: 'dose
+
+  filter'
+bip_39_word_new_line3: 'dose
+
+  filter
+
+  latin'
+bip_39_word_new_line4: 'dose
+
+  filter
+
+  latin
+
+  stool'
+bip_39_word_new_line5: 'dose
+
+  filter
+
+  latin
+
+  stool
+
+  method'
+bip_39_word_new_line6: 'dose
+
+  filter
+
+  latin
+
+  stool
+
+  method
+
+  bus'
+bip_39_word_new_line7: 'dose
+
+  filter
+
+  latin
+
+  stool
+
+  method
+
+  bus
+
+  cruise'
+bip_39_word_new_line8: 'dose
+
+  filter
+
+  latin
+
+  stool
+
+  method
+
+  bus
+
+  cruise
+
+  top'
+bip_39_word_new_line9: 'dose
+
+  filter
+
+  latin
+
+  stool
+
+  method
+
+  bus
+
+  cruise
+
+  top
+
+  basket'
+bip_39_word_space_0:
+- dose
+- filter
+- latin
+- stool
+- method
+- bus
+- cruise
+- top
+- basket
+- boat
+- truck
+- acquire
+bip_39_word_space_1: dose
+bip_39_word_space_10: dose filter latin stool method bus cruise top basket boat
+bip_39_word_space_11: dose filter latin stool method bus cruise top basket boat truck
+bip_39_word_space_12: dose filter latin stool method bus cruise top basket boat truck
+  acquire
+bip_39_word_space_2: dose filter
+bip_39_word_space_3: dose filter latin
+bip_39_word_space_4: dose filter latin stool
+bip_39_word_space_5: dose filter latin stool method
+bip_39_word_space_6: dose filter latin stool method bus
+bip_39_word_space_7: dose filter latin stool method bus cruise
+bip_39_word_space_8: dose filter latin stool method bus cruise top
+bip_39_word_space_9: dose filter latin stool method bus cruise top basket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

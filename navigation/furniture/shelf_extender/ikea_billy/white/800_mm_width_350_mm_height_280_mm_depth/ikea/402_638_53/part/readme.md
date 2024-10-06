@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 800_mm_width_350_mm_height_280_mm_depth
   * manufacturer: ikea
   * part_number: 402_638_53
+  * bip 39 word 2: melt hobby
+  * bip 39 word 3: melt hobby barrel
+  * bip 39 word: melt hobby barrel jaguar hello body baby magic tent ready want answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | melt |  
+| bip_39_word_new_br10 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body<br>baby<br>magic<br>tent<br>ready |  
+| bip_39_word_new_br11 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body<br>baby<br>magic<br>tent<br>ready<br>want |  
+| bip_39_word_new_br12 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body<br>baby<br>magic<br>tent<br>ready<br>want<br>answer |  
+| bip_39_word_new_br2 | melt<br>hobby |  
+| bip_39_word_new_br3 | melt<br>hobby<br>barrel |  
+| bip_39_word_new_br4 | melt<br>hobby<br>barrel<br>jaguar |  
+| bip_39_word_new_br5 | melt<br>hobby<br>barrel<br>jaguar<br>hello |  
+| bip_39_word_new_br6 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body |  
+| bip_39_word_new_br7 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body<br>baby |  
+| bip_39_word_new_br8 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body<br>baby<br>magic |  
+| bip_39_word_new_br9 | melt<br>hobby<br>barrel<br>jaguar<br>hello<br>body<br>baby<br>magic<br>tent |  
+| bip_39_word_new_line1 | melt |  
+| bip_39_word_new_line10 | melt
+hobby
+barrel
+jaguar
+hello
+body
+baby
+magic
+tent
+ready |  
+| bip_39_word_new_line11 | melt
+hobby
+barrel
+jaguar
+hello
+body
+baby
+magic
+tent
+ready
+want |  
+| bip_39_word_new_line12 | melt
+hobby
+barrel
+jaguar
+hello
+body
+baby
+magic
+tent
+ready
+want
+answer |  
+| bip_39_word_new_line2 | melt
+hobby |  
+| bip_39_word_new_line3 | melt
+hobby
+barrel |  
+| bip_39_word_new_line4 | melt
+hobby
+barrel
+jaguar |  
+| bip_39_word_new_line5 | melt
+hobby
+barrel
+jaguar
+hello |  
+| bip_39_word_new_line6 | melt
+hobby
+barrel
+jaguar
+hello
+body |  
+| bip_39_word_new_line7 | melt
+hobby
+barrel
+jaguar
+hello
+body
+baby |  
+| bip_39_word_new_line8 | melt
+hobby
+barrel
+jaguar
+hello
+body
+baby
+magic |  
+| bip_39_word_new_line9 | melt
+hobby
+barrel
+jaguar
+hello
+body
+baby
+magic
+tent |  
+| bip_39_word_space_0 | ['melt', 'hobby', 'barrel', 'jaguar', 'hello', 'body', 'baby', 'magic', 'tent', 'ready', 'want', 'answer'] |  
+| bip_39_word_space_1 | melt |  
+| bip_39_word_space_10 | melt hobby barrel jaguar hello body baby magic tent ready |  
+| bip_39_word_space_11 | melt hobby barrel jaguar hello body baby magic tent ready want |  
+| bip_39_word_space_12 | melt hobby barrel jaguar hello body baby magic tent ready want answer |  
+| bip_39_word_space_2 | melt hobby |  
+| bip_39_word_space_3 | melt hobby barrel |  
+| bip_39_word_space_4 | melt hobby barrel jaguar |  
+| bip_39_word_space_5 | melt hobby barrel jaguar hello |  
+| bip_39_word_space_6 | melt hobby barrel jaguar hello body |  
+| bip_39_word_space_7 | melt hobby barrel jaguar hello body baby |  
+| bip_39_word_space_8 | melt hobby barrel jaguar hello body baby magic |  
+| bip_39_word_space_9 | melt hobby barrel jaguar hello body baby magic tent |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: attract evil
+  * bip 39 word 3: attract evil hover
+  * bip 39 word: attract evil hover couple solar elite mask poverty clown syrup coast addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | attract |  
+| bip_39_word_new_br10 | attract<br>evil<br>hover<br>couple<br>solar<br>elite<br>mask<br>poverty<br>clown<br>syrup |  
+| bip_39_word_new_br11 | attract<br>evil<br>hover<br>couple<br>solar<br>elite<br>mask<br>poverty<br>clown<br>syrup<br>coast |  
+| bip_39_word_new_br12 | attract<br>evil<br>hover<br>couple<br>solar<br>elite<br>mask<br>poverty<br>clown<br>syrup<br>coast<br>addict |  
+| bip_39_word_new_br2 | attract<br>evil |  
+| bip_39_word_new_br3 | attract<br>evil<br>hover |  
+| bip_39_word_new_br4 | attract<br>evil<br>hover<br>couple |  
+| bip_39_word_new_br5 | attract<br>evil<br>hover<br>couple<br>solar |  
+| bip_39_word_new_br6 | attract<br>evil<br>hover<br>couple<br>solar<br>elite |  
+| bip_39_word_new_br7 | attract<br>evil<br>hover<br>couple<br>solar<br>elite<br>mask |  
+| bip_39_word_new_br8 | attract<br>evil<br>hover<br>couple<br>solar<br>elite<br>mask<br>poverty |  
+| bip_39_word_new_br9 | attract<br>evil<br>hover<br>couple<br>solar<br>elite<br>mask<br>poverty<br>clown |  
+| bip_39_word_new_line1 | attract |  
+| bip_39_word_new_line10 | attract
+evil
+hover
+couple
+solar
+elite
+mask
+poverty
+clown
+syrup |  
+| bip_39_word_new_line11 | attract
+evil
+hover
+couple
+solar
+elite
+mask
+poverty
+clown
+syrup
+coast |  
+| bip_39_word_new_line12 | attract
+evil
+hover
+couple
+solar
+elite
+mask
+poverty
+clown
+syrup
+coast
+addict |  
+| bip_39_word_new_line2 | attract
+evil |  
+| bip_39_word_new_line3 | attract
+evil
+hover |  
+| bip_39_word_new_line4 | attract
+evil
+hover
+couple |  
+| bip_39_word_new_line5 | attract
+evil
+hover
+couple
+solar |  
+| bip_39_word_new_line6 | attract
+evil
+hover
+couple
+solar
+elite |  
+| bip_39_word_new_line7 | attract
+evil
+hover
+couple
+solar
+elite
+mask |  
+| bip_39_word_new_line8 | attract
+evil
+hover
+couple
+solar
+elite
+mask
+poverty |  
+| bip_39_word_new_line9 | attract
+evil
+hover
+couple
+solar
+elite
+mask
+poverty
+clown |  
+| bip_39_word_space_0 | ['attract', 'evil', 'hover', 'couple', 'solar', 'elite', 'mask', 'poverty', 'clown', 'syrup', 'coast', 'addict'] |  
+| bip_39_word_space_1 | attract |  
+| bip_39_word_space_10 | attract evil hover couple solar elite mask poverty clown syrup |  
+| bip_39_word_space_11 | attract evil hover couple solar elite mask poverty clown syrup coast |  
+| bip_39_word_space_12 | attract evil hover couple solar elite mask poverty clown syrup coast addict |  
+| bip_39_word_space_2 | attract evil |  
+| bip_39_word_space_3 | attract evil hover |  
+| bip_39_word_space_4 | attract evil hover couple |  
+| bip_39_word_space_5 | attract evil hover couple solar |  
+| bip_39_word_space_6 | attract evil hover couple solar elite |  
+| bip_39_word_space_7 | attract evil hover couple solar elite mask |  
+| bip_39_word_space_8 | attract evil hover couple solar elite mask poverty |  
+| bip_39_word_space_9 | attract evil hover couple solar elite mask poverty clown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

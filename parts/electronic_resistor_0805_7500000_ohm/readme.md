@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bamboo throw
+  * bip 39 word 3: bamboo throw brief
+  * bip 39 word: bamboo throw brief dizzy fat waste school chase write crack similar appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bamboo |  
+| bip_39_word_new_br10 | bamboo<br>throw<br>brief<br>dizzy<br>fat<br>waste<br>school<br>chase<br>write<br>crack |  
+| bip_39_word_new_br11 | bamboo<br>throw<br>brief<br>dizzy<br>fat<br>waste<br>school<br>chase<br>write<br>crack<br>similar |  
+| bip_39_word_new_br12 | bamboo<br>throw<br>brief<br>dizzy<br>fat<br>waste<br>school<br>chase<br>write<br>crack<br>similar<br>appear |  
+| bip_39_word_new_br2 | bamboo<br>throw |  
+| bip_39_word_new_br3 | bamboo<br>throw<br>brief |  
+| bip_39_word_new_br4 | bamboo<br>throw<br>brief<br>dizzy |  
+| bip_39_word_new_br5 | bamboo<br>throw<br>brief<br>dizzy<br>fat |  
+| bip_39_word_new_br6 | bamboo<br>throw<br>brief<br>dizzy<br>fat<br>waste |  
+| bip_39_word_new_br7 | bamboo<br>throw<br>brief<br>dizzy<br>fat<br>waste<br>school |  
+| bip_39_word_new_br8 | bamboo<br>throw<br>brief<br>dizzy<br>fat<br>waste<br>school<br>chase |  
+| bip_39_word_new_br9 | bamboo<br>throw<br>brief<br>dizzy<br>fat<br>waste<br>school<br>chase<br>write |  
+| bip_39_word_new_line1 | bamboo |  
+| bip_39_word_new_line10 | bamboo
+throw
+brief
+dizzy
+fat
+waste
+school
+chase
+write
+crack |  
+| bip_39_word_new_line11 | bamboo
+throw
+brief
+dizzy
+fat
+waste
+school
+chase
+write
+crack
+similar |  
+| bip_39_word_new_line12 | bamboo
+throw
+brief
+dizzy
+fat
+waste
+school
+chase
+write
+crack
+similar
+appear |  
+| bip_39_word_new_line2 | bamboo
+throw |  
+| bip_39_word_new_line3 | bamboo
+throw
+brief |  
+| bip_39_word_new_line4 | bamboo
+throw
+brief
+dizzy |  
+| bip_39_word_new_line5 | bamboo
+throw
+brief
+dizzy
+fat |  
+| bip_39_word_new_line6 | bamboo
+throw
+brief
+dizzy
+fat
+waste |  
+| bip_39_word_new_line7 | bamboo
+throw
+brief
+dizzy
+fat
+waste
+school |  
+| bip_39_word_new_line8 | bamboo
+throw
+brief
+dizzy
+fat
+waste
+school
+chase |  
+| bip_39_word_new_line9 | bamboo
+throw
+brief
+dizzy
+fat
+waste
+school
+chase
+write |  
+| bip_39_word_space_0 | ['bamboo', 'throw', 'brief', 'dizzy', 'fat', 'waste', 'school', 'chase', 'write', 'crack', 'similar', 'appear'] |  
+| bip_39_word_space_1 | bamboo |  
+| bip_39_word_space_10 | bamboo throw brief dizzy fat waste school chase write crack |  
+| bip_39_word_space_11 | bamboo throw brief dizzy fat waste school chase write crack similar |  
+| bip_39_word_space_12 | bamboo throw brief dizzy fat waste school chase write crack similar appear |  
+| bip_39_word_space_2 | bamboo throw |  
+| bip_39_word_space_3 | bamboo throw brief |  
+| bip_39_word_space_4 | bamboo throw brief dizzy |  
+| bip_39_word_space_5 | bamboo throw brief dizzy fat |  
+| bip_39_word_space_6 | bamboo throw brief dizzy fat waste |  
+| bip_39_word_space_7 | bamboo throw brief dizzy fat waste school |  
+| bip_39_word_space_8 | bamboo throw brief dizzy fat waste school chase |  
+| bip_39_word_space_9 | bamboo throw brief dizzy fat waste school chase write |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

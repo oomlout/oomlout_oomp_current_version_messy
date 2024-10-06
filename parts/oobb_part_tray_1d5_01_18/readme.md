@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rather scheme
+  * bip 39 word 3: rather scheme ancient
+  * bip 39 word: rather scheme ancient bicycle goddess secret muscle modify dutch talent climb assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rather |  
+| bip_39_word_new_br10 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret<br>muscle<br>modify<br>dutch<br>talent |  
+| bip_39_word_new_br11 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret<br>muscle<br>modify<br>dutch<br>talent<br>climb |  
+| bip_39_word_new_br12 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret<br>muscle<br>modify<br>dutch<br>talent<br>climb<br>assist |  
+| bip_39_word_new_br2 | rather<br>scheme |  
+| bip_39_word_new_br3 | rather<br>scheme<br>ancient |  
+| bip_39_word_new_br4 | rather<br>scheme<br>ancient<br>bicycle |  
+| bip_39_word_new_br5 | rather<br>scheme<br>ancient<br>bicycle<br>goddess |  
+| bip_39_word_new_br6 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret |  
+| bip_39_word_new_br7 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret<br>muscle |  
+| bip_39_word_new_br8 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret<br>muscle<br>modify |  
+| bip_39_word_new_br9 | rather<br>scheme<br>ancient<br>bicycle<br>goddess<br>secret<br>muscle<br>modify<br>dutch |  
+| bip_39_word_new_line1 | rather |  
+| bip_39_word_new_line10 | rather
+scheme
+ancient
+bicycle
+goddess
+secret
+muscle
+modify
+dutch
+talent |  
+| bip_39_word_new_line11 | rather
+scheme
+ancient
+bicycle
+goddess
+secret
+muscle
+modify
+dutch
+talent
+climb |  
+| bip_39_word_new_line12 | rather
+scheme
+ancient
+bicycle
+goddess
+secret
+muscle
+modify
+dutch
+talent
+climb
+assist |  
+| bip_39_word_new_line2 | rather
+scheme |  
+| bip_39_word_new_line3 | rather
+scheme
+ancient |  
+| bip_39_word_new_line4 | rather
+scheme
+ancient
+bicycle |  
+| bip_39_word_new_line5 | rather
+scheme
+ancient
+bicycle
+goddess |  
+| bip_39_word_new_line6 | rather
+scheme
+ancient
+bicycle
+goddess
+secret |  
+| bip_39_word_new_line7 | rather
+scheme
+ancient
+bicycle
+goddess
+secret
+muscle |  
+| bip_39_word_new_line8 | rather
+scheme
+ancient
+bicycle
+goddess
+secret
+muscle
+modify |  
+| bip_39_word_new_line9 | rather
+scheme
+ancient
+bicycle
+goddess
+secret
+muscle
+modify
+dutch |  
+| bip_39_word_space_0 | ['rather', 'scheme', 'ancient', 'bicycle', 'goddess', 'secret', 'muscle', 'modify', 'dutch', 'talent', 'climb', 'assist'] |  
+| bip_39_word_space_1 | rather |  
+| bip_39_word_space_10 | rather scheme ancient bicycle goddess secret muscle modify dutch talent |  
+| bip_39_word_space_11 | rather scheme ancient bicycle goddess secret muscle modify dutch talent climb |  
+| bip_39_word_space_12 | rather scheme ancient bicycle goddess secret muscle modify dutch talent climb assist |  
+| bip_39_word_space_2 | rather scheme |  
+| bip_39_word_space_3 | rather scheme ancient |  
+| bip_39_word_space_4 | rather scheme ancient bicycle |  
+| bip_39_word_space_5 | rather scheme ancient bicycle goddess |  
+| bip_39_word_space_6 | rather scheme ancient bicycle goddess secret |  
+| bip_39_word_space_7 | rather scheme ancient bicycle goddess secret muscle |  
+| bip_39_word_space_8 | rather scheme ancient bicycle goddess secret muscle modify |  
+| bip_39_word_space_9 | rather scheme ancient bicycle goddess secret muscle modify dutch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

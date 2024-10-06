@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: train segment
+  * bip 39 word 3: train segment wreck
+  * bip 39 word: train segment wreck surprise opera fox business episode rule term arrange about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | train |  
+| bip_39_word_new_br10 | train<br>segment<br>wreck<br>surprise<br>opera<br>fox<br>business<br>episode<br>rule<br>term |  
+| bip_39_word_new_br11 | train<br>segment<br>wreck<br>surprise<br>opera<br>fox<br>business<br>episode<br>rule<br>term<br>arrange |  
+| bip_39_word_new_br12 | train<br>segment<br>wreck<br>surprise<br>opera<br>fox<br>business<br>episode<br>rule<br>term<br>arrange<br>about |  
+| bip_39_word_new_br2 | train<br>segment |  
+| bip_39_word_new_br3 | train<br>segment<br>wreck |  
+| bip_39_word_new_br4 | train<br>segment<br>wreck<br>surprise |  
+| bip_39_word_new_br5 | train<br>segment<br>wreck<br>surprise<br>opera |  
+| bip_39_word_new_br6 | train<br>segment<br>wreck<br>surprise<br>opera<br>fox |  
+| bip_39_word_new_br7 | train<br>segment<br>wreck<br>surprise<br>opera<br>fox<br>business |  
+| bip_39_word_new_br8 | train<br>segment<br>wreck<br>surprise<br>opera<br>fox<br>business<br>episode |  
+| bip_39_word_new_br9 | train<br>segment<br>wreck<br>surprise<br>opera<br>fox<br>business<br>episode<br>rule |  
+| bip_39_word_new_line1 | train |  
+| bip_39_word_new_line10 | train
+segment
+wreck
+surprise
+opera
+fox
+business
+episode
+rule
+term |  
+| bip_39_word_new_line11 | train
+segment
+wreck
+surprise
+opera
+fox
+business
+episode
+rule
+term
+arrange |  
+| bip_39_word_new_line12 | train
+segment
+wreck
+surprise
+opera
+fox
+business
+episode
+rule
+term
+arrange
+about |  
+| bip_39_word_new_line2 | train
+segment |  
+| bip_39_word_new_line3 | train
+segment
+wreck |  
+| bip_39_word_new_line4 | train
+segment
+wreck
+surprise |  
+| bip_39_word_new_line5 | train
+segment
+wreck
+surprise
+opera |  
+| bip_39_word_new_line6 | train
+segment
+wreck
+surprise
+opera
+fox |  
+| bip_39_word_new_line7 | train
+segment
+wreck
+surprise
+opera
+fox
+business |  
+| bip_39_word_new_line8 | train
+segment
+wreck
+surprise
+opera
+fox
+business
+episode |  
+| bip_39_word_new_line9 | train
+segment
+wreck
+surprise
+opera
+fox
+business
+episode
+rule |  
+| bip_39_word_space_0 | ['train', 'segment', 'wreck', 'surprise', 'opera', 'fox', 'business', 'episode', 'rule', 'term', 'arrange', 'about'] |  
+| bip_39_word_space_1 | train |  
+| bip_39_word_space_10 | train segment wreck surprise opera fox business episode rule term |  
+| bip_39_word_space_11 | train segment wreck surprise opera fox business episode rule term arrange |  
+| bip_39_word_space_12 | train segment wreck surprise opera fox business episode rule term arrange about |  
+| bip_39_word_space_2 | train segment |  
+| bip_39_word_space_3 | train segment wreck |  
+| bip_39_word_space_4 | train segment wreck surprise |  
+| bip_39_word_space_5 | train segment wreck surprise opera |  
+| bip_39_word_space_6 | train segment wreck surprise opera fox |  
+| bip_39_word_space_7 | train segment wreck surprise opera fox business |  
+| bip_39_word_space_8 | train segment wreck surprise opera fox business episode |  
+| bip_39_word_space_9 | train segment wreck surprise opera fox business episode rule |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

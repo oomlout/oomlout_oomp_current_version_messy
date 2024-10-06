@@ -1,3 +1,186 @@
+bip_39_word_new_br1: comfort
+bip_39_word_new_br10: comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot
+bip_39_word_new_br11: comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot<br>aware
+bip_39_word_new_br12: comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model<br>spot<br>aware<br>author
+bip_39_word_new_br2: comfort<br>baby
+bip_39_word_new_br3: comfort<br>baby<br>bid
+bip_39_word_new_br4: comfort<br>baby<br>bid<br>zero
+bip_39_word_new_br5: comfort<br>baby<br>bid<br>zero<br>entire
+bip_39_word_new_br6: comfort<br>baby<br>bid<br>zero<br>entire<br>episode
+bip_39_word_new_br7: comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together
+bip_39_word_new_br8: comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title
+bip_39_word_new_br9: comfort<br>baby<br>bid<br>zero<br>entire<br>episode<br>together<br>title<br>model
+bip_39_word_new_line1: comfort
+bip_39_word_new_line10: 'comfort
+
+  baby
+
+  bid
+
+  zero
+
+  entire
+
+  episode
+
+  together
+
+  title
+
+  model
+
+  spot'
+bip_39_word_new_line11: 'comfort
+
+  baby
+
+  bid
+
+  zero
+
+  entire
+
+  episode
+
+  together
+
+  title
+
+  model
+
+  spot
+
+  aware'
+bip_39_word_new_line12: 'comfort
+
+  baby
+
+  bid
+
+  zero
+
+  entire
+
+  episode
+
+  together
+
+  title
+
+  model
+
+  spot
+
+  aware
+
+  author'
+bip_39_word_new_line2: 'comfort
+
+  baby'
+bip_39_word_new_line3: 'comfort
+
+  baby
+
+  bid'
+bip_39_word_new_line4: 'comfort
+
+  baby
+
+  bid
+
+  zero'
+bip_39_word_new_line5: 'comfort
+
+  baby
+
+  bid
+
+  zero
+
+  entire'
+bip_39_word_new_line6: 'comfort
+
+  baby
+
+  bid
+
+  zero
+
+  entire
+
+  episode'
+bip_39_word_new_line7: 'comfort
+
+  baby
+
+  bid
+
+  zero
+
+  entire
+
+  episode
+
+  together'
+bip_39_word_new_line8: 'comfort
+
+  baby
+
+  bid
+
+  zero
+
+  entire
+
+  episode
+
+  together
+
+  title'
+bip_39_word_new_line9: 'comfort
+
+  baby
+
+  bid
+
+  zero
+
+  entire
+
+  episode
+
+  together
+
+  title
+
+  model'
+bip_39_word_space_0:
+- comfort
+- baby
+- bid
+- zero
+- entire
+- episode
+- together
+- title
+- model
+- spot
+- aware
+- author
+bip_39_word_space_1: comfort
+bip_39_word_space_10: comfort baby bid zero entire episode together title model spot
+bip_39_word_space_11: comfort baby bid zero entire episode together title model spot
+  aware
+bip_39_word_space_12: comfort baby bid zero entire episode together title model spot
+  aware author
+bip_39_word_space_2: comfort baby
+bip_39_word_space_3: comfort baby bid
+bip_39_word_space_4: comfort baby bid zero
+bip_39_word_space_5: comfort baby bid zero entire
+bip_39_word_space_6: comfort baby bid zero entire episode
+bip_39_word_space_7: comfort baby bid zero entire episode together
+bip_39_word_space_8: comfort baby bid zero entire episode together title
+bip_39_word_space_9: comfort baby bid zero entire episode together title model
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

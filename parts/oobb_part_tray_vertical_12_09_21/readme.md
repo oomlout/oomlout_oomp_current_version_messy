@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: genre stadium
+  * bip 39 word 3: genre stadium dress
+  * bip 39 word: genre stadium dress open now bundle toy erase canvas unfair exercise assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | genre |  
+| bip_39_word_new_br10 | genre<br>stadium<br>dress<br>open<br>now<br>bundle<br>toy<br>erase<br>canvas<br>unfair |  
+| bip_39_word_new_br11 | genre<br>stadium<br>dress<br>open<br>now<br>bundle<br>toy<br>erase<br>canvas<br>unfair<br>exercise |  
+| bip_39_word_new_br12 | genre<br>stadium<br>dress<br>open<br>now<br>bundle<br>toy<br>erase<br>canvas<br>unfair<br>exercise<br>assault |  
+| bip_39_word_new_br2 | genre<br>stadium |  
+| bip_39_word_new_br3 | genre<br>stadium<br>dress |  
+| bip_39_word_new_br4 | genre<br>stadium<br>dress<br>open |  
+| bip_39_word_new_br5 | genre<br>stadium<br>dress<br>open<br>now |  
+| bip_39_word_new_br6 | genre<br>stadium<br>dress<br>open<br>now<br>bundle |  
+| bip_39_word_new_br7 | genre<br>stadium<br>dress<br>open<br>now<br>bundle<br>toy |  
+| bip_39_word_new_br8 | genre<br>stadium<br>dress<br>open<br>now<br>bundle<br>toy<br>erase |  
+| bip_39_word_new_br9 | genre<br>stadium<br>dress<br>open<br>now<br>bundle<br>toy<br>erase<br>canvas |  
+| bip_39_word_new_line1 | genre |  
+| bip_39_word_new_line10 | genre
+stadium
+dress
+open
+now
+bundle
+toy
+erase
+canvas
+unfair |  
+| bip_39_word_new_line11 | genre
+stadium
+dress
+open
+now
+bundle
+toy
+erase
+canvas
+unfair
+exercise |  
+| bip_39_word_new_line12 | genre
+stadium
+dress
+open
+now
+bundle
+toy
+erase
+canvas
+unfair
+exercise
+assault |  
+| bip_39_word_new_line2 | genre
+stadium |  
+| bip_39_word_new_line3 | genre
+stadium
+dress |  
+| bip_39_word_new_line4 | genre
+stadium
+dress
+open |  
+| bip_39_word_new_line5 | genre
+stadium
+dress
+open
+now |  
+| bip_39_word_new_line6 | genre
+stadium
+dress
+open
+now
+bundle |  
+| bip_39_word_new_line7 | genre
+stadium
+dress
+open
+now
+bundle
+toy |  
+| bip_39_word_new_line8 | genre
+stadium
+dress
+open
+now
+bundle
+toy
+erase |  
+| bip_39_word_new_line9 | genre
+stadium
+dress
+open
+now
+bundle
+toy
+erase
+canvas |  
+| bip_39_word_space_0 | ['genre', 'stadium', 'dress', 'open', 'now', 'bundle', 'toy', 'erase', 'canvas', 'unfair', 'exercise', 'assault'] |  
+| bip_39_word_space_1 | genre |  
+| bip_39_word_space_10 | genre stadium dress open now bundle toy erase canvas unfair |  
+| bip_39_word_space_11 | genre stadium dress open now bundle toy erase canvas unfair exercise |  
+| bip_39_word_space_12 | genre stadium dress open now bundle toy erase canvas unfair exercise assault |  
+| bip_39_word_space_2 | genre stadium |  
+| bip_39_word_space_3 | genre stadium dress |  
+| bip_39_word_space_4 | genre stadium dress open |  
+| bip_39_word_space_5 | genre stadium dress open now |  
+| bip_39_word_space_6 | genre stadium dress open now bundle |  
+| bip_39_word_space_7 | genre stadium dress open now bundle toy |  
+| bip_39_word_space_8 | genre stadium dress open now bundle toy erase |  
+| bip_39_word_space_9 | genre stadium dress open now bundle toy erase canvas |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

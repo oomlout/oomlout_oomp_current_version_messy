@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: basic_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: version hotel
+  * bip 39 word 3: version hotel random
+  * bip 39 word: version hotel random fix provide draft wild lizard twelve ceiling bag antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | version |  
+| bip_39_word_new_br10 | version<br>hotel<br>random<br>fix<br>provide<br>draft<br>wild<br>lizard<br>twelve<br>ceiling |  
+| bip_39_word_new_br11 | version<br>hotel<br>random<br>fix<br>provide<br>draft<br>wild<br>lizard<br>twelve<br>ceiling<br>bag |  
+| bip_39_word_new_br12 | version<br>hotel<br>random<br>fix<br>provide<br>draft<br>wild<br>lizard<br>twelve<br>ceiling<br>bag<br>antenna |  
+| bip_39_word_new_br2 | version<br>hotel |  
+| bip_39_word_new_br3 | version<br>hotel<br>random |  
+| bip_39_word_new_br4 | version<br>hotel<br>random<br>fix |  
+| bip_39_word_new_br5 | version<br>hotel<br>random<br>fix<br>provide |  
+| bip_39_word_new_br6 | version<br>hotel<br>random<br>fix<br>provide<br>draft |  
+| bip_39_word_new_br7 | version<br>hotel<br>random<br>fix<br>provide<br>draft<br>wild |  
+| bip_39_word_new_br8 | version<br>hotel<br>random<br>fix<br>provide<br>draft<br>wild<br>lizard |  
+| bip_39_word_new_br9 | version<br>hotel<br>random<br>fix<br>provide<br>draft<br>wild<br>lizard<br>twelve |  
+| bip_39_word_new_line1 | version |  
+| bip_39_word_new_line10 | version
+hotel
+random
+fix
+provide
+draft
+wild
+lizard
+twelve
+ceiling |  
+| bip_39_word_new_line11 | version
+hotel
+random
+fix
+provide
+draft
+wild
+lizard
+twelve
+ceiling
+bag |  
+| bip_39_word_new_line12 | version
+hotel
+random
+fix
+provide
+draft
+wild
+lizard
+twelve
+ceiling
+bag
+antenna |  
+| bip_39_word_new_line2 | version
+hotel |  
+| bip_39_word_new_line3 | version
+hotel
+random |  
+| bip_39_word_new_line4 | version
+hotel
+random
+fix |  
+| bip_39_word_new_line5 | version
+hotel
+random
+fix
+provide |  
+| bip_39_word_new_line6 | version
+hotel
+random
+fix
+provide
+draft |  
+| bip_39_word_new_line7 | version
+hotel
+random
+fix
+provide
+draft
+wild |  
+| bip_39_word_new_line8 | version
+hotel
+random
+fix
+provide
+draft
+wild
+lizard |  
+| bip_39_word_new_line9 | version
+hotel
+random
+fix
+provide
+draft
+wild
+lizard
+twelve |  
+| bip_39_word_space_0 | ['version', 'hotel', 'random', 'fix', 'provide', 'draft', 'wild', 'lizard', 'twelve', 'ceiling', 'bag', 'antenna'] |  
+| bip_39_word_space_1 | version |  
+| bip_39_word_space_10 | version hotel random fix provide draft wild lizard twelve ceiling |  
+| bip_39_word_space_11 | version hotel random fix provide draft wild lizard twelve ceiling bag |  
+| bip_39_word_space_12 | version hotel random fix provide draft wild lizard twelve ceiling bag antenna |  
+| bip_39_word_space_2 | version hotel |  
+| bip_39_word_space_3 | version hotel random |  
+| bip_39_word_space_4 | version hotel random fix |  
+| bip_39_word_space_5 | version hotel random fix provide |  
+| bip_39_word_space_6 | version hotel random fix provide draft |  
+| bip_39_word_space_7 | version hotel random fix provide draft wild |  
+| bip_39_word_space_8 | version hotel random fix provide draft wild lizard |  
+| bip_39_word_space_9 | version hotel random fix provide draft wild lizard twelve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brain under
+  * bip 39 word 3: brain under elephant
+  * bip 39 word: brain under elephant weasel juice disorder job kick brown salute cancel amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brain |  
+| bip_39_word_new_br10 | brain<br>under<br>elephant<br>weasel<br>juice<br>disorder<br>job<br>kick<br>brown<br>salute |  
+| bip_39_word_new_br11 | brain<br>under<br>elephant<br>weasel<br>juice<br>disorder<br>job<br>kick<br>brown<br>salute<br>cancel |  
+| bip_39_word_new_br12 | brain<br>under<br>elephant<br>weasel<br>juice<br>disorder<br>job<br>kick<br>brown<br>salute<br>cancel<br>amazing |  
+| bip_39_word_new_br2 | brain<br>under |  
+| bip_39_word_new_br3 | brain<br>under<br>elephant |  
+| bip_39_word_new_br4 | brain<br>under<br>elephant<br>weasel |  
+| bip_39_word_new_br5 | brain<br>under<br>elephant<br>weasel<br>juice |  
+| bip_39_word_new_br6 | brain<br>under<br>elephant<br>weasel<br>juice<br>disorder |  
+| bip_39_word_new_br7 | brain<br>under<br>elephant<br>weasel<br>juice<br>disorder<br>job |  
+| bip_39_word_new_br8 | brain<br>under<br>elephant<br>weasel<br>juice<br>disorder<br>job<br>kick |  
+| bip_39_word_new_br9 | brain<br>under<br>elephant<br>weasel<br>juice<br>disorder<br>job<br>kick<br>brown |  
+| bip_39_word_new_line1 | brain |  
+| bip_39_word_new_line10 | brain
+under
+elephant
+weasel
+juice
+disorder
+job
+kick
+brown
+salute |  
+| bip_39_word_new_line11 | brain
+under
+elephant
+weasel
+juice
+disorder
+job
+kick
+brown
+salute
+cancel |  
+| bip_39_word_new_line12 | brain
+under
+elephant
+weasel
+juice
+disorder
+job
+kick
+brown
+salute
+cancel
+amazing |  
+| bip_39_word_new_line2 | brain
+under |  
+| bip_39_word_new_line3 | brain
+under
+elephant |  
+| bip_39_word_new_line4 | brain
+under
+elephant
+weasel |  
+| bip_39_word_new_line5 | brain
+under
+elephant
+weasel
+juice |  
+| bip_39_word_new_line6 | brain
+under
+elephant
+weasel
+juice
+disorder |  
+| bip_39_word_new_line7 | brain
+under
+elephant
+weasel
+juice
+disorder
+job |  
+| bip_39_word_new_line8 | brain
+under
+elephant
+weasel
+juice
+disorder
+job
+kick |  
+| bip_39_word_new_line9 | brain
+under
+elephant
+weasel
+juice
+disorder
+job
+kick
+brown |  
+| bip_39_word_space_0 | ['brain', 'under', 'elephant', 'weasel', 'juice', 'disorder', 'job', 'kick', 'brown', 'salute', 'cancel', 'amazing'] |  
+| bip_39_word_space_1 | brain |  
+| bip_39_word_space_10 | brain under elephant weasel juice disorder job kick brown salute |  
+| bip_39_word_space_11 | brain under elephant weasel juice disorder job kick brown salute cancel |  
+| bip_39_word_space_12 | brain under elephant weasel juice disorder job kick brown salute cancel amazing |  
+| bip_39_word_space_2 | brain under |  
+| bip_39_word_space_3 | brain under elephant |  
+| bip_39_word_space_4 | brain under elephant weasel |  
+| bip_39_word_space_5 | brain under elephant weasel juice |  
+| bip_39_word_space_6 | brain under elephant weasel juice disorder |  
+| bip_39_word_space_7 | brain under elephant weasel juice disorder job |  
+| bip_39_word_space_8 | brain under elephant weasel juice disorder job kick |  
+| bip_39_word_space_9 | brain under elephant weasel juice disorder job kick brown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

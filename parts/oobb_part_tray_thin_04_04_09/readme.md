@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: violin nation
+  * bip 39 word 3: violin nation top
+  * bip 39 word: violin nation top divide essay walk math install foster adapt upset artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | violin |  
+| bip_39_word_new_br10 | violin<br>nation<br>top<br>divide<br>essay<br>walk<br>math<br>install<br>foster<br>adapt |  
+| bip_39_word_new_br11 | violin<br>nation<br>top<br>divide<br>essay<br>walk<br>math<br>install<br>foster<br>adapt<br>upset |  
+| bip_39_word_new_br12 | violin<br>nation<br>top<br>divide<br>essay<br>walk<br>math<br>install<br>foster<br>adapt<br>upset<br>artefact |  
+| bip_39_word_new_br2 | violin<br>nation |  
+| bip_39_word_new_br3 | violin<br>nation<br>top |  
+| bip_39_word_new_br4 | violin<br>nation<br>top<br>divide |  
+| bip_39_word_new_br5 | violin<br>nation<br>top<br>divide<br>essay |  
+| bip_39_word_new_br6 | violin<br>nation<br>top<br>divide<br>essay<br>walk |  
+| bip_39_word_new_br7 | violin<br>nation<br>top<br>divide<br>essay<br>walk<br>math |  
+| bip_39_word_new_br8 | violin<br>nation<br>top<br>divide<br>essay<br>walk<br>math<br>install |  
+| bip_39_word_new_br9 | violin<br>nation<br>top<br>divide<br>essay<br>walk<br>math<br>install<br>foster |  
+| bip_39_word_new_line1 | violin |  
+| bip_39_word_new_line10 | violin
+nation
+top
+divide
+essay
+walk
+math
+install
+foster
+adapt |  
+| bip_39_word_new_line11 | violin
+nation
+top
+divide
+essay
+walk
+math
+install
+foster
+adapt
+upset |  
+| bip_39_word_new_line12 | violin
+nation
+top
+divide
+essay
+walk
+math
+install
+foster
+adapt
+upset
+artefact |  
+| bip_39_word_new_line2 | violin
+nation |  
+| bip_39_word_new_line3 | violin
+nation
+top |  
+| bip_39_word_new_line4 | violin
+nation
+top
+divide |  
+| bip_39_word_new_line5 | violin
+nation
+top
+divide
+essay |  
+| bip_39_word_new_line6 | violin
+nation
+top
+divide
+essay
+walk |  
+| bip_39_word_new_line7 | violin
+nation
+top
+divide
+essay
+walk
+math |  
+| bip_39_word_new_line8 | violin
+nation
+top
+divide
+essay
+walk
+math
+install |  
+| bip_39_word_new_line9 | violin
+nation
+top
+divide
+essay
+walk
+math
+install
+foster |  
+| bip_39_word_space_0 | ['violin', 'nation', 'top', 'divide', 'essay', 'walk', 'math', 'install', 'foster', 'adapt', 'upset', 'artefact'] |  
+| bip_39_word_space_1 | violin |  
+| bip_39_word_space_10 | violin nation top divide essay walk math install foster adapt |  
+| bip_39_word_space_11 | violin nation top divide essay walk math install foster adapt upset |  
+| bip_39_word_space_12 | violin nation top divide essay walk math install foster adapt upset artefact |  
+| bip_39_word_space_2 | violin nation |  
+| bip_39_word_space_3 | violin nation top |  
+| bip_39_word_space_4 | violin nation top divide |  
+| bip_39_word_space_5 | violin nation top divide essay |  
+| bip_39_word_space_6 | violin nation top divide essay walk |  
+| bip_39_word_space_7 | violin nation top divide essay walk math |  
+| bip_39_word_space_8 | violin nation top divide essay walk math install |  
+| bip_39_word_space_9 | violin nation top divide essay walk math install foster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: police alarm
+  * bip 39 word 3: police alarm render
+  * bip 39 word: police alarm render general steak venue real ski game canal that above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | police |  
+| bip_39_word_new_br10 | police<br>alarm<br>render<br>general<br>steak<br>venue<br>real<br>ski<br>game<br>canal |  
+| bip_39_word_new_br11 | police<br>alarm<br>render<br>general<br>steak<br>venue<br>real<br>ski<br>game<br>canal<br>that |  
+| bip_39_word_new_br12 | police<br>alarm<br>render<br>general<br>steak<br>venue<br>real<br>ski<br>game<br>canal<br>that<br>above |  
+| bip_39_word_new_br2 | police<br>alarm |  
+| bip_39_word_new_br3 | police<br>alarm<br>render |  
+| bip_39_word_new_br4 | police<br>alarm<br>render<br>general |  
+| bip_39_word_new_br5 | police<br>alarm<br>render<br>general<br>steak |  
+| bip_39_word_new_br6 | police<br>alarm<br>render<br>general<br>steak<br>venue |  
+| bip_39_word_new_br7 | police<br>alarm<br>render<br>general<br>steak<br>venue<br>real |  
+| bip_39_word_new_br8 | police<br>alarm<br>render<br>general<br>steak<br>venue<br>real<br>ski |  
+| bip_39_word_new_br9 | police<br>alarm<br>render<br>general<br>steak<br>venue<br>real<br>ski<br>game |  
+| bip_39_word_new_line1 | police |  
+| bip_39_word_new_line10 | police
+alarm
+render
+general
+steak
+venue
+real
+ski
+game
+canal |  
+| bip_39_word_new_line11 | police
+alarm
+render
+general
+steak
+venue
+real
+ski
+game
+canal
+that |  
+| bip_39_word_new_line12 | police
+alarm
+render
+general
+steak
+venue
+real
+ski
+game
+canal
+that
+above |  
+| bip_39_word_new_line2 | police
+alarm |  
+| bip_39_word_new_line3 | police
+alarm
+render |  
+| bip_39_word_new_line4 | police
+alarm
+render
+general |  
+| bip_39_word_new_line5 | police
+alarm
+render
+general
+steak |  
+| bip_39_word_new_line6 | police
+alarm
+render
+general
+steak
+venue |  
+| bip_39_word_new_line7 | police
+alarm
+render
+general
+steak
+venue
+real |  
+| bip_39_word_new_line8 | police
+alarm
+render
+general
+steak
+venue
+real
+ski |  
+| bip_39_word_new_line9 | police
+alarm
+render
+general
+steak
+venue
+real
+ski
+game |  
+| bip_39_word_space_0 | ['police', 'alarm', 'render', 'general', 'steak', 'venue', 'real', 'ski', 'game', 'canal', 'that', 'above'] |  
+| bip_39_word_space_1 | police |  
+| bip_39_word_space_10 | police alarm render general steak venue real ski game canal |  
+| bip_39_word_space_11 | police alarm render general steak venue real ski game canal that |  
+| bip_39_word_space_12 | police alarm render general steak venue real ski game canal that above |  
+| bip_39_word_space_2 | police alarm |  
+| bip_39_word_space_3 | police alarm render |  
+| bip_39_word_space_4 | police alarm render general |  
+| bip_39_word_space_5 | police alarm render general steak |  
+| bip_39_word_space_6 | police alarm render general steak venue |  
+| bip_39_word_space_7 | police alarm render general steak venue real |  
+| bip_39_word_space_8 | police alarm render general steak venue real ski |  
+| bip_39_word_space_9 | police alarm render general steak venue real ski game |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: perfect reform
+  * bip 39 word 3: perfect reform deposit
+  * bip 39 word: perfect reform deposit front normal mountain shoulder recycle stamp lonely biology achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | perfect |  
+| bip_39_word_new_br10 | perfect<br>reform<br>deposit<br>front<br>normal<br>mountain<br>shoulder<br>recycle<br>stamp<br>lonely |  
+| bip_39_word_new_br11 | perfect<br>reform<br>deposit<br>front<br>normal<br>mountain<br>shoulder<br>recycle<br>stamp<br>lonely<br>biology |  
+| bip_39_word_new_br12 | perfect<br>reform<br>deposit<br>front<br>normal<br>mountain<br>shoulder<br>recycle<br>stamp<br>lonely<br>biology<br>achieve |  
+| bip_39_word_new_br2 | perfect<br>reform |  
+| bip_39_word_new_br3 | perfect<br>reform<br>deposit |  
+| bip_39_word_new_br4 | perfect<br>reform<br>deposit<br>front |  
+| bip_39_word_new_br5 | perfect<br>reform<br>deposit<br>front<br>normal |  
+| bip_39_word_new_br6 | perfect<br>reform<br>deposit<br>front<br>normal<br>mountain |  
+| bip_39_word_new_br7 | perfect<br>reform<br>deposit<br>front<br>normal<br>mountain<br>shoulder |  
+| bip_39_word_new_br8 | perfect<br>reform<br>deposit<br>front<br>normal<br>mountain<br>shoulder<br>recycle |  
+| bip_39_word_new_br9 | perfect<br>reform<br>deposit<br>front<br>normal<br>mountain<br>shoulder<br>recycle<br>stamp |  
+| bip_39_word_new_line1 | perfect |  
+| bip_39_word_new_line10 | perfect
+reform
+deposit
+front
+normal
+mountain
+shoulder
+recycle
+stamp
+lonely |  
+| bip_39_word_new_line11 | perfect
+reform
+deposit
+front
+normal
+mountain
+shoulder
+recycle
+stamp
+lonely
+biology |  
+| bip_39_word_new_line12 | perfect
+reform
+deposit
+front
+normal
+mountain
+shoulder
+recycle
+stamp
+lonely
+biology
+achieve |  
+| bip_39_word_new_line2 | perfect
+reform |  
+| bip_39_word_new_line3 | perfect
+reform
+deposit |  
+| bip_39_word_new_line4 | perfect
+reform
+deposit
+front |  
+| bip_39_word_new_line5 | perfect
+reform
+deposit
+front
+normal |  
+| bip_39_word_new_line6 | perfect
+reform
+deposit
+front
+normal
+mountain |  
+| bip_39_word_new_line7 | perfect
+reform
+deposit
+front
+normal
+mountain
+shoulder |  
+| bip_39_word_new_line8 | perfect
+reform
+deposit
+front
+normal
+mountain
+shoulder
+recycle |  
+| bip_39_word_new_line9 | perfect
+reform
+deposit
+front
+normal
+mountain
+shoulder
+recycle
+stamp |  
+| bip_39_word_space_0 | ['perfect', 'reform', 'deposit', 'front', 'normal', 'mountain', 'shoulder', 'recycle', 'stamp', 'lonely', 'biology', 'achieve'] |  
+| bip_39_word_space_1 | perfect |  
+| bip_39_word_space_10 | perfect reform deposit front normal mountain shoulder recycle stamp lonely |  
+| bip_39_word_space_11 | perfect reform deposit front normal mountain shoulder recycle stamp lonely biology |  
+| bip_39_word_space_12 | perfect reform deposit front normal mountain shoulder recycle stamp lonely biology achieve |  
+| bip_39_word_space_2 | perfect reform |  
+| bip_39_word_space_3 | perfect reform deposit |  
+| bip_39_word_space_4 | perfect reform deposit front |  
+| bip_39_word_space_5 | perfect reform deposit front normal |  
+| bip_39_word_space_6 | perfect reform deposit front normal mountain |  
+| bip_39_word_space_7 | perfect reform deposit front normal mountain shoulder |  
+| bip_39_word_space_8 | perfect reform deposit front normal mountain shoulder recycle |  
+| bip_39_word_space_9 | perfect reform deposit front normal mountain shoulder recycle stamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

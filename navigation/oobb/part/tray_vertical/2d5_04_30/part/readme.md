@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: elevator dinner
+  * bip 39 word 3: elevator dinner fan
+  * bip 39 word: elevator dinner fan day elder hold basic jeans muffin bean animal amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | elevator |  
+| bip_39_word_new_br10 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold<br>basic<br>jeans<br>muffin<br>bean |  
+| bip_39_word_new_br11 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold<br>basic<br>jeans<br>muffin<br>bean<br>animal |  
+| bip_39_word_new_br12 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold<br>basic<br>jeans<br>muffin<br>bean<br>animal<br>amateur |  
+| bip_39_word_new_br2 | elevator<br>dinner |  
+| bip_39_word_new_br3 | elevator<br>dinner<br>fan |  
+| bip_39_word_new_br4 | elevator<br>dinner<br>fan<br>day |  
+| bip_39_word_new_br5 | elevator<br>dinner<br>fan<br>day<br>elder |  
+| bip_39_word_new_br6 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold |  
+| bip_39_word_new_br7 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold<br>basic |  
+| bip_39_word_new_br8 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold<br>basic<br>jeans |  
+| bip_39_word_new_br9 | elevator<br>dinner<br>fan<br>day<br>elder<br>hold<br>basic<br>jeans<br>muffin |  
+| bip_39_word_new_line1 | elevator |  
+| bip_39_word_new_line10 | elevator
+dinner
+fan
+day
+elder
+hold
+basic
+jeans
+muffin
+bean |  
+| bip_39_word_new_line11 | elevator
+dinner
+fan
+day
+elder
+hold
+basic
+jeans
+muffin
+bean
+animal |  
+| bip_39_word_new_line12 | elevator
+dinner
+fan
+day
+elder
+hold
+basic
+jeans
+muffin
+bean
+animal
+amateur |  
+| bip_39_word_new_line2 | elevator
+dinner |  
+| bip_39_word_new_line3 | elevator
+dinner
+fan |  
+| bip_39_word_new_line4 | elevator
+dinner
+fan
+day |  
+| bip_39_word_new_line5 | elevator
+dinner
+fan
+day
+elder |  
+| bip_39_word_new_line6 | elevator
+dinner
+fan
+day
+elder
+hold |  
+| bip_39_word_new_line7 | elevator
+dinner
+fan
+day
+elder
+hold
+basic |  
+| bip_39_word_new_line8 | elevator
+dinner
+fan
+day
+elder
+hold
+basic
+jeans |  
+| bip_39_word_new_line9 | elevator
+dinner
+fan
+day
+elder
+hold
+basic
+jeans
+muffin |  
+| bip_39_word_space_0 | ['elevator', 'dinner', 'fan', 'day', 'elder', 'hold', 'basic', 'jeans', 'muffin', 'bean', 'animal', 'amateur'] |  
+| bip_39_word_space_1 | elevator |  
+| bip_39_word_space_10 | elevator dinner fan day elder hold basic jeans muffin bean |  
+| bip_39_word_space_11 | elevator dinner fan day elder hold basic jeans muffin bean animal |  
+| bip_39_word_space_12 | elevator dinner fan day elder hold basic jeans muffin bean animal amateur |  
+| bip_39_word_space_2 | elevator dinner |  
+| bip_39_word_space_3 | elevator dinner fan |  
+| bip_39_word_space_4 | elevator dinner fan day |  
+| bip_39_word_space_5 | elevator dinner fan day elder |  
+| bip_39_word_space_6 | elevator dinner fan day elder hold |  
+| bip_39_word_space_7 | elevator dinner fan day elder hold basic |  
+| bip_39_word_space_8 | elevator dinner fan day elder hold basic jeans |  
+| bip_39_word_space_9 | elevator dinner fan day elder hold basic jeans muffin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

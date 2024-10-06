@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swing drill
+  * bip 39 word 3: swing drill love
+  * bip 39 word: swing drill love anger ladder nation cloud hint glove reject desert alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swing |  
+| bip_39_word_new_br10 | swing<br>drill<br>love<br>anger<br>ladder<br>nation<br>cloud<br>hint<br>glove<br>reject |  
+| bip_39_word_new_br11 | swing<br>drill<br>love<br>anger<br>ladder<br>nation<br>cloud<br>hint<br>glove<br>reject<br>desert |  
+| bip_39_word_new_br12 | swing<br>drill<br>love<br>anger<br>ladder<br>nation<br>cloud<br>hint<br>glove<br>reject<br>desert<br>alarm |  
+| bip_39_word_new_br2 | swing<br>drill |  
+| bip_39_word_new_br3 | swing<br>drill<br>love |  
+| bip_39_word_new_br4 | swing<br>drill<br>love<br>anger |  
+| bip_39_word_new_br5 | swing<br>drill<br>love<br>anger<br>ladder |  
+| bip_39_word_new_br6 | swing<br>drill<br>love<br>anger<br>ladder<br>nation |  
+| bip_39_word_new_br7 | swing<br>drill<br>love<br>anger<br>ladder<br>nation<br>cloud |  
+| bip_39_word_new_br8 | swing<br>drill<br>love<br>anger<br>ladder<br>nation<br>cloud<br>hint |  
+| bip_39_word_new_br9 | swing<br>drill<br>love<br>anger<br>ladder<br>nation<br>cloud<br>hint<br>glove |  
+| bip_39_word_new_line1 | swing |  
+| bip_39_word_new_line10 | swing
+drill
+love
+anger
+ladder
+nation
+cloud
+hint
+glove
+reject |  
+| bip_39_word_new_line11 | swing
+drill
+love
+anger
+ladder
+nation
+cloud
+hint
+glove
+reject
+desert |  
+| bip_39_word_new_line12 | swing
+drill
+love
+anger
+ladder
+nation
+cloud
+hint
+glove
+reject
+desert
+alarm |  
+| bip_39_word_new_line2 | swing
+drill |  
+| bip_39_word_new_line3 | swing
+drill
+love |  
+| bip_39_word_new_line4 | swing
+drill
+love
+anger |  
+| bip_39_word_new_line5 | swing
+drill
+love
+anger
+ladder |  
+| bip_39_word_new_line6 | swing
+drill
+love
+anger
+ladder
+nation |  
+| bip_39_word_new_line7 | swing
+drill
+love
+anger
+ladder
+nation
+cloud |  
+| bip_39_word_new_line8 | swing
+drill
+love
+anger
+ladder
+nation
+cloud
+hint |  
+| bip_39_word_new_line9 | swing
+drill
+love
+anger
+ladder
+nation
+cloud
+hint
+glove |  
+| bip_39_word_space_0 | ['swing', 'drill', 'love', 'anger', 'ladder', 'nation', 'cloud', 'hint', 'glove', 'reject', 'desert', 'alarm'] |  
+| bip_39_word_space_1 | swing |  
+| bip_39_word_space_10 | swing drill love anger ladder nation cloud hint glove reject |  
+| bip_39_word_space_11 | swing drill love anger ladder nation cloud hint glove reject desert |  
+| bip_39_word_space_12 | swing drill love anger ladder nation cloud hint glove reject desert alarm |  
+| bip_39_word_space_2 | swing drill |  
+| bip_39_word_space_3 | swing drill love |  
+| bip_39_word_space_4 | swing drill love anger |  
+| bip_39_word_space_5 | swing drill love anger ladder |  
+| bip_39_word_space_6 | swing drill love anger ladder nation |  
+| bip_39_word_space_7 | swing drill love anger ladder nation cloud |  
+| bip_39_word_space_8 | swing drill love anger ladder nation cloud hint |  
+| bip_39_word_space_9 | swing drill love anger ladder nation cloud hint glove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

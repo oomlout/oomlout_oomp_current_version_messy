@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quote clump
+  * bip 39 word 3: quote clump guide
+  * bip 39 word: quote clump guide rain kangaroo gate pumpkin cycle sugar cart jewel absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quote |  
+| bip_39_word_new_br10 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate<br>pumpkin<br>cycle<br>sugar<br>cart |  
+| bip_39_word_new_br11 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate<br>pumpkin<br>cycle<br>sugar<br>cart<br>jewel |  
+| bip_39_word_new_br12 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate<br>pumpkin<br>cycle<br>sugar<br>cart<br>jewel<br>absent |  
+| bip_39_word_new_br2 | quote<br>clump |  
+| bip_39_word_new_br3 | quote<br>clump<br>guide |  
+| bip_39_word_new_br4 | quote<br>clump<br>guide<br>rain |  
+| bip_39_word_new_br5 | quote<br>clump<br>guide<br>rain<br>kangaroo |  
+| bip_39_word_new_br6 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate |  
+| bip_39_word_new_br7 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate<br>pumpkin |  
+| bip_39_word_new_br8 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate<br>pumpkin<br>cycle |  
+| bip_39_word_new_br9 | quote<br>clump<br>guide<br>rain<br>kangaroo<br>gate<br>pumpkin<br>cycle<br>sugar |  
+| bip_39_word_new_line1 | quote |  
+| bip_39_word_new_line10 | quote
+clump
+guide
+rain
+kangaroo
+gate
+pumpkin
+cycle
+sugar
+cart |  
+| bip_39_word_new_line11 | quote
+clump
+guide
+rain
+kangaroo
+gate
+pumpkin
+cycle
+sugar
+cart
+jewel |  
+| bip_39_word_new_line12 | quote
+clump
+guide
+rain
+kangaroo
+gate
+pumpkin
+cycle
+sugar
+cart
+jewel
+absent |  
+| bip_39_word_new_line2 | quote
+clump |  
+| bip_39_word_new_line3 | quote
+clump
+guide |  
+| bip_39_word_new_line4 | quote
+clump
+guide
+rain |  
+| bip_39_word_new_line5 | quote
+clump
+guide
+rain
+kangaroo |  
+| bip_39_word_new_line6 | quote
+clump
+guide
+rain
+kangaroo
+gate |  
+| bip_39_word_new_line7 | quote
+clump
+guide
+rain
+kangaroo
+gate
+pumpkin |  
+| bip_39_word_new_line8 | quote
+clump
+guide
+rain
+kangaroo
+gate
+pumpkin
+cycle |  
+| bip_39_word_new_line9 | quote
+clump
+guide
+rain
+kangaroo
+gate
+pumpkin
+cycle
+sugar |  
+| bip_39_word_space_0 | ['quote', 'clump', 'guide', 'rain', 'kangaroo', 'gate', 'pumpkin', 'cycle', 'sugar', 'cart', 'jewel', 'absent'] |  
+| bip_39_word_space_1 | quote |  
+| bip_39_word_space_10 | quote clump guide rain kangaroo gate pumpkin cycle sugar cart |  
+| bip_39_word_space_11 | quote clump guide rain kangaroo gate pumpkin cycle sugar cart jewel |  
+| bip_39_word_space_12 | quote clump guide rain kangaroo gate pumpkin cycle sugar cart jewel absent |  
+| bip_39_word_space_2 | quote clump |  
+| bip_39_word_space_3 | quote clump guide |  
+| bip_39_word_space_4 | quote clump guide rain |  
+| bip_39_word_space_5 | quote clump guide rain kangaroo |  
+| bip_39_word_space_6 | quote clump guide rain kangaroo gate |  
+| bip_39_word_space_7 | quote clump guide rain kangaroo gate pumpkin |  
+| bip_39_word_space_8 | quote clump guide rain kangaroo gate pumpkin cycle |  
+| bip_39_word_space_9 | quote clump guide rain kangaroo gate pumpkin cycle sugar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

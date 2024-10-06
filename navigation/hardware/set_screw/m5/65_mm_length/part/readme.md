@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: group cruise
+  * bip 39 word 3: group cruise broom
+  * bip 39 word: group cruise broom gown essence immense seminar example choose stock wage almost
 
 ### other_codes
 * short_code: ss5m65
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | group |  
+| bip_39_word_new_br10 | group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example<br>choose<br>stock |  
+| bip_39_word_new_br11 | group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example<br>choose<br>stock<br>wage |  
+| bip_39_word_new_br12 | group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example<br>choose<br>stock<br>wage<br>almost |  
+| bip_39_word_new_br2 | group<br>cruise |  
+| bip_39_word_new_br3 | group<br>cruise<br>broom |  
+| bip_39_word_new_br4 | group<br>cruise<br>broom<br>gown |  
+| bip_39_word_new_br5 | group<br>cruise<br>broom<br>gown<br>essence |  
+| bip_39_word_new_br6 | group<br>cruise<br>broom<br>gown<br>essence<br>immense |  
+| bip_39_word_new_br7 | group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar |  
+| bip_39_word_new_br8 | group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example |  
+| bip_39_word_new_br9 | group<br>cruise<br>broom<br>gown<br>essence<br>immense<br>seminar<br>example<br>choose |  
+| bip_39_word_new_line1 | group |  
+| bip_39_word_new_line10 | group
+cruise
+broom
+gown
+essence
+immense
+seminar
+example
+choose
+stock |  
+| bip_39_word_new_line11 | group
+cruise
+broom
+gown
+essence
+immense
+seminar
+example
+choose
+stock
+wage |  
+| bip_39_word_new_line12 | group
+cruise
+broom
+gown
+essence
+immense
+seminar
+example
+choose
+stock
+wage
+almost |  
+| bip_39_word_new_line2 | group
+cruise |  
+| bip_39_word_new_line3 | group
+cruise
+broom |  
+| bip_39_word_new_line4 | group
+cruise
+broom
+gown |  
+| bip_39_word_new_line5 | group
+cruise
+broom
+gown
+essence |  
+| bip_39_word_new_line6 | group
+cruise
+broom
+gown
+essence
+immense |  
+| bip_39_word_new_line7 | group
+cruise
+broom
+gown
+essence
+immense
+seminar |  
+| bip_39_word_new_line8 | group
+cruise
+broom
+gown
+essence
+immense
+seminar
+example |  
+| bip_39_word_new_line9 | group
+cruise
+broom
+gown
+essence
+immense
+seminar
+example
+choose |  
+| bip_39_word_space_0 | ['group', 'cruise', 'broom', 'gown', 'essence', 'immense', 'seminar', 'example', 'choose', 'stock', 'wage', 'almost'] |  
+| bip_39_word_space_1 | group |  
+| bip_39_word_space_10 | group cruise broom gown essence immense seminar example choose stock |  
+| bip_39_word_space_11 | group cruise broom gown essence immense seminar example choose stock wage |  
+| bip_39_word_space_12 | group cruise broom gown essence immense seminar example choose stock wage almost |  
+| bip_39_word_space_2 | group cruise |  
+| bip_39_word_space_3 | group cruise broom |  
+| bip_39_word_space_4 | group cruise broom gown |  
+| bip_39_word_space_5 | group cruise broom gown essence |  
+| bip_39_word_space_6 | group cruise broom gown essence immense |  
+| bip_39_word_space_7 | group cruise broom gown essence immense seminar |  
+| bip_39_word_space_8 | group cruise broom gown essence immense seminar example |  
+| bip_39_word_space_9 | group cruise broom gown essence immense seminar example choose |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

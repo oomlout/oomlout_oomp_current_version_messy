@@ -1,3 +1,187 @@
+bip_39_word_new_br1: license
+bip_39_word_new_br10: license<br>column<br>olive<br>alien<br>cliff<br>liberty<br>leave<br>mercy<br>carpet<br>catalog
+bip_39_word_new_br11: license<br>column<br>olive<br>alien<br>cliff<br>liberty<br>leave<br>mercy<br>carpet<br>catalog<br>country
+bip_39_word_new_br12: license<br>column<br>olive<br>alien<br>cliff<br>liberty<br>leave<br>mercy<br>carpet<br>catalog<br>country<br>album
+bip_39_word_new_br2: license<br>column
+bip_39_word_new_br3: license<br>column<br>olive
+bip_39_word_new_br4: license<br>column<br>olive<br>alien
+bip_39_word_new_br5: license<br>column<br>olive<br>alien<br>cliff
+bip_39_word_new_br6: license<br>column<br>olive<br>alien<br>cliff<br>liberty
+bip_39_word_new_br7: license<br>column<br>olive<br>alien<br>cliff<br>liberty<br>leave
+bip_39_word_new_br8: license<br>column<br>olive<br>alien<br>cliff<br>liberty<br>leave<br>mercy
+bip_39_word_new_br9: license<br>column<br>olive<br>alien<br>cliff<br>liberty<br>leave<br>mercy<br>carpet
+bip_39_word_new_line1: license
+bip_39_word_new_line10: 'license
+
+  column
+
+  olive
+
+  alien
+
+  cliff
+
+  liberty
+
+  leave
+
+  mercy
+
+  carpet
+
+  catalog'
+bip_39_word_new_line11: 'license
+
+  column
+
+  olive
+
+  alien
+
+  cliff
+
+  liberty
+
+  leave
+
+  mercy
+
+  carpet
+
+  catalog
+
+  country'
+bip_39_word_new_line12: 'license
+
+  column
+
+  olive
+
+  alien
+
+  cliff
+
+  liberty
+
+  leave
+
+  mercy
+
+  carpet
+
+  catalog
+
+  country
+
+  album'
+bip_39_word_new_line2: 'license
+
+  column'
+bip_39_word_new_line3: 'license
+
+  column
+
+  olive'
+bip_39_word_new_line4: 'license
+
+  column
+
+  olive
+
+  alien'
+bip_39_word_new_line5: 'license
+
+  column
+
+  olive
+
+  alien
+
+  cliff'
+bip_39_word_new_line6: 'license
+
+  column
+
+  olive
+
+  alien
+
+  cliff
+
+  liberty'
+bip_39_word_new_line7: 'license
+
+  column
+
+  olive
+
+  alien
+
+  cliff
+
+  liberty
+
+  leave'
+bip_39_word_new_line8: 'license
+
+  column
+
+  olive
+
+  alien
+
+  cliff
+
+  liberty
+
+  leave
+
+  mercy'
+bip_39_word_new_line9: 'license
+
+  column
+
+  olive
+
+  alien
+
+  cliff
+
+  liberty
+
+  leave
+
+  mercy
+
+  carpet'
+bip_39_word_space_0:
+- license
+- column
+- olive
+- alien
+- cliff
+- liberty
+- leave
+- mercy
+- carpet
+- catalog
+- country
+- album
+bip_39_word_space_1: license
+bip_39_word_space_10: license column olive alien cliff liberty leave mercy carpet
+  catalog
+bip_39_word_space_11: license column olive alien cliff liberty leave mercy carpet
+  catalog country
+bip_39_word_space_12: license column olive alien cliff liberty leave mercy carpet
+  catalog country album
+bip_39_word_space_2: license column
+bip_39_word_space_3: license column olive
+bip_39_word_space_4: license column olive alien
+bip_39_word_space_5: license column olive alien cliff
+bip_39_word_space_6: license column olive alien cliff liberty
+bip_39_word_space_7: license column olive alien cliff liberty leave
+bip_39_word_space_8: license column olive alien cliff liberty leave mercy
+bip_39_word_space_9: license column olive alien cliff liberty leave mercy carpet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

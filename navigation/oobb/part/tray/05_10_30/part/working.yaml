@@ -1,3 +1,185 @@
+bip_39_word_new_br1: clip
+bip_39_word_new_br10: clip<br>garden<br>ten<br>salad<br>game<br>survey<br>false<br>kid<br>pause<br>royal
+bip_39_word_new_br11: clip<br>garden<br>ten<br>salad<br>game<br>survey<br>false<br>kid<br>pause<br>royal<br>elephant
+bip_39_word_new_br12: clip<br>garden<br>ten<br>salad<br>game<br>survey<br>false<br>kid<br>pause<br>royal<br>elephant<br>author
+bip_39_word_new_br2: clip<br>garden
+bip_39_word_new_br3: clip<br>garden<br>ten
+bip_39_word_new_br4: clip<br>garden<br>ten<br>salad
+bip_39_word_new_br5: clip<br>garden<br>ten<br>salad<br>game
+bip_39_word_new_br6: clip<br>garden<br>ten<br>salad<br>game<br>survey
+bip_39_word_new_br7: clip<br>garden<br>ten<br>salad<br>game<br>survey<br>false
+bip_39_word_new_br8: clip<br>garden<br>ten<br>salad<br>game<br>survey<br>false<br>kid
+bip_39_word_new_br9: clip<br>garden<br>ten<br>salad<br>game<br>survey<br>false<br>kid<br>pause
+bip_39_word_new_line1: clip
+bip_39_word_new_line10: 'clip
+
+  garden
+
+  ten
+
+  salad
+
+  game
+
+  survey
+
+  false
+
+  kid
+
+  pause
+
+  royal'
+bip_39_word_new_line11: 'clip
+
+  garden
+
+  ten
+
+  salad
+
+  game
+
+  survey
+
+  false
+
+  kid
+
+  pause
+
+  royal
+
+  elephant'
+bip_39_word_new_line12: 'clip
+
+  garden
+
+  ten
+
+  salad
+
+  game
+
+  survey
+
+  false
+
+  kid
+
+  pause
+
+  royal
+
+  elephant
+
+  author'
+bip_39_word_new_line2: 'clip
+
+  garden'
+bip_39_word_new_line3: 'clip
+
+  garden
+
+  ten'
+bip_39_word_new_line4: 'clip
+
+  garden
+
+  ten
+
+  salad'
+bip_39_word_new_line5: 'clip
+
+  garden
+
+  ten
+
+  salad
+
+  game'
+bip_39_word_new_line6: 'clip
+
+  garden
+
+  ten
+
+  salad
+
+  game
+
+  survey'
+bip_39_word_new_line7: 'clip
+
+  garden
+
+  ten
+
+  salad
+
+  game
+
+  survey
+
+  false'
+bip_39_word_new_line8: 'clip
+
+  garden
+
+  ten
+
+  salad
+
+  game
+
+  survey
+
+  false
+
+  kid'
+bip_39_word_new_line9: 'clip
+
+  garden
+
+  ten
+
+  salad
+
+  game
+
+  survey
+
+  false
+
+  kid
+
+  pause'
+bip_39_word_space_0:
+- clip
+- garden
+- ten
+- salad
+- game
+- survey
+- 'false'
+- kid
+- pause
+- royal
+- elephant
+- author
+bip_39_word_space_1: clip
+bip_39_word_space_10: clip garden ten salad game survey false kid pause royal
+bip_39_word_space_11: clip garden ten salad game survey false kid pause royal elephant
+bip_39_word_space_12: clip garden ten salad game survey false kid pause royal elephant
+  author
+bip_39_word_space_2: clip garden
+bip_39_word_space_3: clip garden ten
+bip_39_word_space_4: clip garden ten salad
+bip_39_word_space_5: clip garden ten salad game
+bip_39_word_space_6: clip garden ten salad game survey
+bip_39_word_space_7: clip garden ten salad game survey false
+bip_39_word_space_8: clip garden ten salad game survey false kid
+bip_39_word_space_9: clip garden ten salad game survey false kid pause
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: visual follow
+  * bip 39 word 3: visual follow patrol
+  * bip 39 word: visual follow patrol spare top someone give grief access modify turkey among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | visual |  
+| bip_39_word_new_br10 | visual<br>follow<br>patrol<br>spare<br>top<br>someone<br>give<br>grief<br>access<br>modify |  
+| bip_39_word_new_br11 | visual<br>follow<br>patrol<br>spare<br>top<br>someone<br>give<br>grief<br>access<br>modify<br>turkey |  
+| bip_39_word_new_br12 | visual<br>follow<br>patrol<br>spare<br>top<br>someone<br>give<br>grief<br>access<br>modify<br>turkey<br>among |  
+| bip_39_word_new_br2 | visual<br>follow |  
+| bip_39_word_new_br3 | visual<br>follow<br>patrol |  
+| bip_39_word_new_br4 | visual<br>follow<br>patrol<br>spare |  
+| bip_39_word_new_br5 | visual<br>follow<br>patrol<br>spare<br>top |  
+| bip_39_word_new_br6 | visual<br>follow<br>patrol<br>spare<br>top<br>someone |  
+| bip_39_word_new_br7 | visual<br>follow<br>patrol<br>spare<br>top<br>someone<br>give |  
+| bip_39_word_new_br8 | visual<br>follow<br>patrol<br>spare<br>top<br>someone<br>give<br>grief |  
+| bip_39_word_new_br9 | visual<br>follow<br>patrol<br>spare<br>top<br>someone<br>give<br>grief<br>access |  
+| bip_39_word_new_line1 | visual |  
+| bip_39_word_new_line10 | visual
+follow
+patrol
+spare
+top
+someone
+give
+grief
+access
+modify |  
+| bip_39_word_new_line11 | visual
+follow
+patrol
+spare
+top
+someone
+give
+grief
+access
+modify
+turkey |  
+| bip_39_word_new_line12 | visual
+follow
+patrol
+spare
+top
+someone
+give
+grief
+access
+modify
+turkey
+among |  
+| bip_39_word_new_line2 | visual
+follow |  
+| bip_39_word_new_line3 | visual
+follow
+patrol |  
+| bip_39_word_new_line4 | visual
+follow
+patrol
+spare |  
+| bip_39_word_new_line5 | visual
+follow
+patrol
+spare
+top |  
+| bip_39_word_new_line6 | visual
+follow
+patrol
+spare
+top
+someone |  
+| bip_39_word_new_line7 | visual
+follow
+patrol
+spare
+top
+someone
+give |  
+| bip_39_word_new_line8 | visual
+follow
+patrol
+spare
+top
+someone
+give
+grief |  
+| bip_39_word_new_line9 | visual
+follow
+patrol
+spare
+top
+someone
+give
+grief
+access |  
+| bip_39_word_space_0 | ['visual', 'follow', 'patrol', 'spare', 'top', 'someone', 'give', 'grief', 'access', 'modify', 'turkey', 'among'] |  
+| bip_39_word_space_1 | visual |  
+| bip_39_word_space_10 | visual follow patrol spare top someone give grief access modify |  
+| bip_39_word_space_11 | visual follow patrol spare top someone give grief access modify turkey |  
+| bip_39_word_space_12 | visual follow patrol spare top someone give grief access modify turkey among |  
+| bip_39_word_space_2 | visual follow |  
+| bip_39_word_space_3 | visual follow patrol |  
+| bip_39_word_space_4 | visual follow patrol spare |  
+| bip_39_word_space_5 | visual follow patrol spare top |  
+| bip_39_word_space_6 | visual follow patrol spare top someone |  
+| bip_39_word_space_7 | visual follow patrol spare top someone give |  
+| bip_39_word_space_8 | visual follow patrol spare top someone give grief |  
+| bip_39_word_space_9 | visual follow patrol spare top someone give grief access |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

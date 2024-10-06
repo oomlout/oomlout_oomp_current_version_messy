@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drastic father
+  * bip 39 word 3: drastic father awful
+  * bip 39 word: drastic father awful pave pitch work ribbon state draft novel chimney access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drastic |  
+| bip_39_word_new_br10 | drastic<br>father<br>awful<br>pave<br>pitch<br>work<br>ribbon<br>state<br>draft<br>novel |  
+| bip_39_word_new_br11 | drastic<br>father<br>awful<br>pave<br>pitch<br>work<br>ribbon<br>state<br>draft<br>novel<br>chimney |  
+| bip_39_word_new_br12 | drastic<br>father<br>awful<br>pave<br>pitch<br>work<br>ribbon<br>state<br>draft<br>novel<br>chimney<br>access |  
+| bip_39_word_new_br2 | drastic<br>father |  
+| bip_39_word_new_br3 | drastic<br>father<br>awful |  
+| bip_39_word_new_br4 | drastic<br>father<br>awful<br>pave |  
+| bip_39_word_new_br5 | drastic<br>father<br>awful<br>pave<br>pitch |  
+| bip_39_word_new_br6 | drastic<br>father<br>awful<br>pave<br>pitch<br>work |  
+| bip_39_word_new_br7 | drastic<br>father<br>awful<br>pave<br>pitch<br>work<br>ribbon |  
+| bip_39_word_new_br8 | drastic<br>father<br>awful<br>pave<br>pitch<br>work<br>ribbon<br>state |  
+| bip_39_word_new_br9 | drastic<br>father<br>awful<br>pave<br>pitch<br>work<br>ribbon<br>state<br>draft |  
+| bip_39_word_new_line1 | drastic |  
+| bip_39_word_new_line10 | drastic
+father
+awful
+pave
+pitch
+work
+ribbon
+state
+draft
+novel |  
+| bip_39_word_new_line11 | drastic
+father
+awful
+pave
+pitch
+work
+ribbon
+state
+draft
+novel
+chimney |  
+| bip_39_word_new_line12 | drastic
+father
+awful
+pave
+pitch
+work
+ribbon
+state
+draft
+novel
+chimney
+access |  
+| bip_39_word_new_line2 | drastic
+father |  
+| bip_39_word_new_line3 | drastic
+father
+awful |  
+| bip_39_word_new_line4 | drastic
+father
+awful
+pave |  
+| bip_39_word_new_line5 | drastic
+father
+awful
+pave
+pitch |  
+| bip_39_word_new_line6 | drastic
+father
+awful
+pave
+pitch
+work |  
+| bip_39_word_new_line7 | drastic
+father
+awful
+pave
+pitch
+work
+ribbon |  
+| bip_39_word_new_line8 | drastic
+father
+awful
+pave
+pitch
+work
+ribbon
+state |  
+| bip_39_word_new_line9 | drastic
+father
+awful
+pave
+pitch
+work
+ribbon
+state
+draft |  
+| bip_39_word_space_0 | ['drastic', 'father', 'awful', 'pave', 'pitch', 'work', 'ribbon', 'state', 'draft', 'novel', 'chimney', 'access'] |  
+| bip_39_word_space_1 | drastic |  
+| bip_39_word_space_10 | drastic father awful pave pitch work ribbon state draft novel |  
+| bip_39_word_space_11 | drastic father awful pave pitch work ribbon state draft novel chimney |  
+| bip_39_word_space_12 | drastic father awful pave pitch work ribbon state draft novel chimney access |  
+| bip_39_word_space_2 | drastic father |  
+| bip_39_word_space_3 | drastic father awful |  
+| bip_39_word_space_4 | drastic father awful pave |  
+| bip_39_word_space_5 | drastic father awful pave pitch |  
+| bip_39_word_space_6 | drastic father awful pave pitch work |  
+| bip_39_word_space_7 | drastic father awful pave pitch work ribbon |  
+| bip_39_word_space_8 | drastic father awful pave pitch work ribbon state |  
+| bip_39_word_space_9 | drastic father awful pave pitch work ribbon state draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

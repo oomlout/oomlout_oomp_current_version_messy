@@ -1,3 +1,187 @@
+bip_39_word_new_br1: vessel
+bip_39_word_new_br10: vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap<br>soccer<br>inquiry<br>unique<br>hundred
+bip_39_word_new_br11: vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap<br>soccer<br>inquiry<br>unique<br>hundred<br>goddess
+bip_39_word_new_br12: vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap<br>soccer<br>inquiry<br>unique<br>hundred<br>goddess<br>answer
+bip_39_word_new_br2: vessel<br>junior
+bip_39_word_new_br3: vessel<br>junior<br>steak
+bip_39_word_new_br4: vessel<br>junior<br>steak<br>grocery
+bip_39_word_new_br5: vessel<br>junior<br>steak<br>grocery<br>toddler
+bip_39_word_new_br6: vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap
+bip_39_word_new_br7: vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap<br>soccer
+bip_39_word_new_br8: vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap<br>soccer<br>inquiry
+bip_39_word_new_br9: vessel<br>junior<br>steak<br>grocery<br>toddler<br>gap<br>soccer<br>inquiry<br>unique
+bip_39_word_new_line1: vessel
+bip_39_word_new_line10: 'vessel
+
+  junior
+
+  steak
+
+  grocery
+
+  toddler
+
+  gap
+
+  soccer
+
+  inquiry
+
+  unique
+
+  hundred'
+bip_39_word_new_line11: 'vessel
+
+  junior
+
+  steak
+
+  grocery
+
+  toddler
+
+  gap
+
+  soccer
+
+  inquiry
+
+  unique
+
+  hundred
+
+  goddess'
+bip_39_word_new_line12: 'vessel
+
+  junior
+
+  steak
+
+  grocery
+
+  toddler
+
+  gap
+
+  soccer
+
+  inquiry
+
+  unique
+
+  hundred
+
+  goddess
+
+  answer'
+bip_39_word_new_line2: 'vessel
+
+  junior'
+bip_39_word_new_line3: 'vessel
+
+  junior
+
+  steak'
+bip_39_word_new_line4: 'vessel
+
+  junior
+
+  steak
+
+  grocery'
+bip_39_word_new_line5: 'vessel
+
+  junior
+
+  steak
+
+  grocery
+
+  toddler'
+bip_39_word_new_line6: 'vessel
+
+  junior
+
+  steak
+
+  grocery
+
+  toddler
+
+  gap'
+bip_39_word_new_line7: 'vessel
+
+  junior
+
+  steak
+
+  grocery
+
+  toddler
+
+  gap
+
+  soccer'
+bip_39_word_new_line8: 'vessel
+
+  junior
+
+  steak
+
+  grocery
+
+  toddler
+
+  gap
+
+  soccer
+
+  inquiry'
+bip_39_word_new_line9: 'vessel
+
+  junior
+
+  steak
+
+  grocery
+
+  toddler
+
+  gap
+
+  soccer
+
+  inquiry
+
+  unique'
+bip_39_word_space_0:
+- vessel
+- junior
+- steak
+- grocery
+- toddler
+- gap
+- soccer
+- inquiry
+- unique
+- hundred
+- goddess
+- answer
+bip_39_word_space_1: vessel
+bip_39_word_space_10: vessel junior steak grocery toddler gap soccer inquiry unique
+  hundred
+bip_39_word_space_11: vessel junior steak grocery toddler gap soccer inquiry unique
+  hundred goddess
+bip_39_word_space_12: vessel junior steak grocery toddler gap soccer inquiry unique
+  hundred goddess answer
+bip_39_word_space_2: vessel junior
+bip_39_word_space_3: vessel junior steak
+bip_39_word_space_4: vessel junior steak grocery
+bip_39_word_space_5: vessel junior steak grocery toddler
+bip_39_word_space_6: vessel junior steak grocery toddler gap
+bip_39_word_space_7: vessel junior steak grocery toddler gap soccer
+bip_39_word_space_8: vessel junior steak grocery toddler gap soccer inquiry
+bip_39_word_space_9: vessel junior steak grocery toddler gap soccer inquiry unique
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

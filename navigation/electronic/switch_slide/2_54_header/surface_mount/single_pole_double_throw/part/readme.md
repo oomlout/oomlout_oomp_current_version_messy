@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monkey hollow
+  * bip 39 word 3: monkey hollow glare
+  * bip 39 word: monkey hollow glare level choose syrup hello three grief million crouch able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monkey |  
+| bip_39_word_new_br10 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief<br>million |  
+| bip_39_word_new_br11 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief<br>million<br>crouch |  
+| bip_39_word_new_br12 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief<br>million<br>crouch<br>able |  
+| bip_39_word_new_br2 | monkey<br>hollow |  
+| bip_39_word_new_br3 | monkey<br>hollow<br>glare |  
+| bip_39_word_new_br4 | monkey<br>hollow<br>glare<br>level |  
+| bip_39_word_new_br5 | monkey<br>hollow<br>glare<br>level<br>choose |  
+| bip_39_word_new_br6 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup |  
+| bip_39_word_new_br7 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello |  
+| bip_39_word_new_br8 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three |  
+| bip_39_word_new_br9 | monkey<br>hollow<br>glare<br>level<br>choose<br>syrup<br>hello<br>three<br>grief |  
+| bip_39_word_new_line1 | monkey |  
+| bip_39_word_new_line10 | monkey
+hollow
+glare
+level
+choose
+syrup
+hello
+three
+grief
+million |  
+| bip_39_word_new_line11 | monkey
+hollow
+glare
+level
+choose
+syrup
+hello
+three
+grief
+million
+crouch |  
+| bip_39_word_new_line12 | monkey
+hollow
+glare
+level
+choose
+syrup
+hello
+three
+grief
+million
+crouch
+able |  
+| bip_39_word_new_line2 | monkey
+hollow |  
+| bip_39_word_new_line3 | monkey
+hollow
+glare |  
+| bip_39_word_new_line4 | monkey
+hollow
+glare
+level |  
+| bip_39_word_new_line5 | monkey
+hollow
+glare
+level
+choose |  
+| bip_39_word_new_line6 | monkey
+hollow
+glare
+level
+choose
+syrup |  
+| bip_39_word_new_line7 | monkey
+hollow
+glare
+level
+choose
+syrup
+hello |  
+| bip_39_word_new_line8 | monkey
+hollow
+glare
+level
+choose
+syrup
+hello
+three |  
+| bip_39_word_new_line9 | monkey
+hollow
+glare
+level
+choose
+syrup
+hello
+three
+grief |  
+| bip_39_word_space_0 | ['monkey', 'hollow', 'glare', 'level', 'choose', 'syrup', 'hello', 'three', 'grief', 'million', 'crouch', 'able'] |  
+| bip_39_word_space_1 | monkey |  
+| bip_39_word_space_10 | monkey hollow glare level choose syrup hello three grief million |  
+| bip_39_word_space_11 | monkey hollow glare level choose syrup hello three grief million crouch |  
+| bip_39_word_space_12 | monkey hollow glare level choose syrup hello three grief million crouch able |  
+| bip_39_word_space_2 | monkey hollow |  
+| bip_39_word_space_3 | monkey hollow glare |  
+| bip_39_word_space_4 | monkey hollow glare level |  
+| bip_39_word_space_5 | monkey hollow glare level choose |  
+| bip_39_word_space_6 | monkey hollow glare level choose syrup |  
+| bip_39_word_space_7 | monkey hollow glare level choose syrup hello |  
+| bip_39_word_space_8 | monkey hollow glare level choose syrup hello three |  
+| bip_39_word_space_9 | monkey hollow glare level choose syrup hello three grief |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

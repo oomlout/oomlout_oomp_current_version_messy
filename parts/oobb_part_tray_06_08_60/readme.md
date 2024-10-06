@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dress glory
+  * bip 39 word 3: dress glory ask
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dress |  
+| bip_39_word_new_br10 | dress<br>glory<br>ask<br>equal<br>wealth<br>subject<br>refuse<br>dash<br>kiwi<br>luggage |  
+| bip_39_word_new_br11 | dress<br>glory<br>ask<br>equal<br>wealth<br>subject<br>refuse<br>dash<br>kiwi<br>luggage<br>reflect |  
+| bip_39_word_new_br2 | dress<br>glory |  
+| bip_39_word_new_br3 | dress<br>glory<br>ask |  
+| bip_39_word_new_br4 | dress<br>glory<br>ask<br>equal |  
+| bip_39_word_new_br5 | dress<br>glory<br>ask<br>equal<br>wealth |  
+| bip_39_word_new_br6 | dress<br>glory<br>ask<br>equal<br>wealth<br>subject |  
+| bip_39_word_new_br7 | dress<br>glory<br>ask<br>equal<br>wealth<br>subject<br>refuse |  
+| bip_39_word_new_br8 | dress<br>glory<br>ask<br>equal<br>wealth<br>subject<br>refuse<br>dash |  
+| bip_39_word_new_br9 | dress<br>glory<br>ask<br>equal<br>wealth<br>subject<br>refuse<br>dash<br>kiwi |  
+| bip_39_word_new_line1 | dress |  
+| bip_39_word_new_line10 | dress
+glory
+ask
+equal
+wealth
+subject
+refuse
+dash
+kiwi
+luggage |  
+| bip_39_word_new_line11 | dress
+glory
+ask
+equal
+wealth
+subject
+refuse
+dash
+kiwi
+luggage
+reflect |  
+| bip_39_word_new_line2 | dress
+glory |  
+| bip_39_word_new_line3 | dress
+glory
+ask |  
+| bip_39_word_new_line4 | dress
+glory
+ask
+equal |  
+| bip_39_word_new_line5 | dress
+glory
+ask
+equal
+wealth |  
+| bip_39_word_new_line6 | dress
+glory
+ask
+equal
+wealth
+subject |  
+| bip_39_word_new_line7 | dress
+glory
+ask
+equal
+wealth
+subject
+refuse |  
+| bip_39_word_new_line8 | dress
+glory
+ask
+equal
+wealth
+subject
+refuse
+dash |  
+| bip_39_word_new_line9 | dress
+glory
+ask
+equal
+wealth
+subject
+refuse
+dash
+kiwi |  
+| bip_39_word_space_0 | ['dress', 'glory', 'ask', 'equal', 'wealth', 'subject', 'refuse', 'dash', 'kiwi', 'luggage', 'reflect'] |  
+| bip_39_word_space_1 | dress |  
+| bip_39_word_space_10 | dress glory ask equal wealth subject refuse dash kiwi luggage |  
+| bip_39_word_space_11 | dress glory ask equal wealth subject refuse dash kiwi luggage reflect |  
+| bip_39_word_space_2 | dress glory |  
+| bip_39_word_space_3 | dress glory ask |  
+| bip_39_word_space_4 | dress glory ask equal |  
+| bip_39_word_space_5 | dress glory ask equal wealth |  
+| bip_39_word_space_6 | dress glory ask equal wealth subject |  
+| bip_39_word_space_7 | dress glory ask equal wealth subject refuse |  
+| bip_39_word_space_8 | dress glory ask equal wealth subject refuse dash |  
+| bip_39_word_space_9 | dress glory ask equal wealth subject refuse dash kiwi |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

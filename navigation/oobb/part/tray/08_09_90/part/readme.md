@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: digital toss
+  * bip 39 word 3: digital toss cement
+  * bip 39 word: digital toss cement mix calm enter love napkin cage charge adjust abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | digital |  
+| bip_39_word_new_br10 | digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage<br>charge |  
+| bip_39_word_new_br11 | digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage<br>charge<br>adjust |  
+| bip_39_word_new_br12 | digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage<br>charge<br>adjust<br>abstract |  
+| bip_39_word_new_br2 | digital<br>toss |  
+| bip_39_word_new_br3 | digital<br>toss<br>cement |  
+| bip_39_word_new_br4 | digital<br>toss<br>cement<br>mix |  
+| bip_39_word_new_br5 | digital<br>toss<br>cement<br>mix<br>calm |  
+| bip_39_word_new_br6 | digital<br>toss<br>cement<br>mix<br>calm<br>enter |  
+| bip_39_word_new_br7 | digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love |  
+| bip_39_word_new_br8 | digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin |  
+| bip_39_word_new_br9 | digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage |  
+| bip_39_word_new_line1 | digital |  
+| bip_39_word_new_line10 | digital
+toss
+cement
+mix
+calm
+enter
+love
+napkin
+cage
+charge |  
+| bip_39_word_new_line11 | digital
+toss
+cement
+mix
+calm
+enter
+love
+napkin
+cage
+charge
+adjust |  
+| bip_39_word_new_line12 | digital
+toss
+cement
+mix
+calm
+enter
+love
+napkin
+cage
+charge
+adjust
+abstract |  
+| bip_39_word_new_line2 | digital
+toss |  
+| bip_39_word_new_line3 | digital
+toss
+cement |  
+| bip_39_word_new_line4 | digital
+toss
+cement
+mix |  
+| bip_39_word_new_line5 | digital
+toss
+cement
+mix
+calm |  
+| bip_39_word_new_line6 | digital
+toss
+cement
+mix
+calm
+enter |  
+| bip_39_word_new_line7 | digital
+toss
+cement
+mix
+calm
+enter
+love |  
+| bip_39_word_new_line8 | digital
+toss
+cement
+mix
+calm
+enter
+love
+napkin |  
+| bip_39_word_new_line9 | digital
+toss
+cement
+mix
+calm
+enter
+love
+napkin
+cage |  
+| bip_39_word_space_0 | ['digital', 'toss', 'cement', 'mix', 'calm', 'enter', 'love', 'napkin', 'cage', 'charge', 'adjust', 'abstract'] |  
+| bip_39_word_space_1 | digital |  
+| bip_39_word_space_10 | digital toss cement mix calm enter love napkin cage charge |  
+| bip_39_word_space_11 | digital toss cement mix calm enter love napkin cage charge adjust |  
+| bip_39_word_space_12 | digital toss cement mix calm enter love napkin cage charge adjust abstract |  
+| bip_39_word_space_2 | digital toss |  
+| bip_39_word_space_3 | digital toss cement |  
+| bip_39_word_space_4 | digital toss cement mix |  
+| bip_39_word_space_5 | digital toss cement mix calm |  
+| bip_39_word_space_6 | digital toss cement mix calm enter |  
+| bip_39_word_space_7 | digital toss cement mix calm enter love |  
+| bip_39_word_space_8 | digital toss cement mix calm enter love napkin |  
+| bip_39_word_space_9 | digital toss cement mix calm enter love napkin cage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

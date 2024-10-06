@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hurry pumpkin
+  * bip 39 word 3: hurry pumpkin bus
+  * bip 39 word: hurry pumpkin bus enter wink town fossil trend verb assume teach advance
 
 ### other_codes
 * short_code: fh2b22p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hurry |  
+| bip_39_word_new_br10 | hurry<br>pumpkin<br>bus<br>enter<br>wink<br>town<br>fossil<br>trend<br>verb<br>assume |  
+| bip_39_word_new_br11 | hurry<br>pumpkin<br>bus<br>enter<br>wink<br>town<br>fossil<br>trend<br>verb<br>assume<br>teach |  
+| bip_39_word_new_br12 | hurry<br>pumpkin<br>bus<br>enter<br>wink<br>town<br>fossil<br>trend<br>verb<br>assume<br>teach<br>advance |  
+| bip_39_word_new_br2 | hurry<br>pumpkin |  
+| bip_39_word_new_br3 | hurry<br>pumpkin<br>bus |  
+| bip_39_word_new_br4 | hurry<br>pumpkin<br>bus<br>enter |  
+| bip_39_word_new_br5 | hurry<br>pumpkin<br>bus<br>enter<br>wink |  
+| bip_39_word_new_br6 | hurry<br>pumpkin<br>bus<br>enter<br>wink<br>town |  
+| bip_39_word_new_br7 | hurry<br>pumpkin<br>bus<br>enter<br>wink<br>town<br>fossil |  
+| bip_39_word_new_br8 | hurry<br>pumpkin<br>bus<br>enter<br>wink<br>town<br>fossil<br>trend |  
+| bip_39_word_new_br9 | hurry<br>pumpkin<br>bus<br>enter<br>wink<br>town<br>fossil<br>trend<br>verb |  
+| bip_39_word_new_line1 | hurry |  
+| bip_39_word_new_line10 | hurry
+pumpkin
+bus
+enter
+wink
+town
+fossil
+trend
+verb
+assume |  
+| bip_39_word_new_line11 | hurry
+pumpkin
+bus
+enter
+wink
+town
+fossil
+trend
+verb
+assume
+teach |  
+| bip_39_word_new_line12 | hurry
+pumpkin
+bus
+enter
+wink
+town
+fossil
+trend
+verb
+assume
+teach
+advance |  
+| bip_39_word_new_line2 | hurry
+pumpkin |  
+| bip_39_word_new_line3 | hurry
+pumpkin
+bus |  
+| bip_39_word_new_line4 | hurry
+pumpkin
+bus
+enter |  
+| bip_39_word_new_line5 | hurry
+pumpkin
+bus
+enter
+wink |  
+| bip_39_word_new_line6 | hurry
+pumpkin
+bus
+enter
+wink
+town |  
+| bip_39_word_new_line7 | hurry
+pumpkin
+bus
+enter
+wink
+town
+fossil |  
+| bip_39_word_new_line8 | hurry
+pumpkin
+bus
+enter
+wink
+town
+fossil
+trend |  
+| bip_39_word_new_line9 | hurry
+pumpkin
+bus
+enter
+wink
+town
+fossil
+trend
+verb |  
+| bip_39_word_space_0 | ['hurry', 'pumpkin', 'bus', 'enter', 'wink', 'town', 'fossil', 'trend', 'verb', 'assume', 'teach', 'advance'] |  
+| bip_39_word_space_1 | hurry |  
+| bip_39_word_space_10 | hurry pumpkin bus enter wink town fossil trend verb assume |  
+| bip_39_word_space_11 | hurry pumpkin bus enter wink town fossil trend verb assume teach |  
+| bip_39_word_space_12 | hurry pumpkin bus enter wink town fossil trend verb assume teach advance |  
+| bip_39_word_space_2 | hurry pumpkin |  
+| bip_39_word_space_3 | hurry pumpkin bus |  
+| bip_39_word_space_4 | hurry pumpkin bus enter |  
+| bip_39_word_space_5 | hurry pumpkin bus enter wink |  
+| bip_39_word_space_6 | hurry pumpkin bus enter wink town |  
+| bip_39_word_space_7 | hurry pumpkin bus enter wink town fossil |  
+| bip_39_word_space_8 | hurry pumpkin bus enter wink town fossil trend |  
+| bip_39_word_space_9 | hurry pumpkin bus enter wink town fossil trend verb |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

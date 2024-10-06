@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: field silent
+  * bip 39 word 3: field silent gold
+  * bip 39 word: field silent gold believe wreck odor guard unusual crew disagree laundry actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | field |  
+| bip_39_word_new_br10 | field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual<br>crew<br>disagree |  
+| bip_39_word_new_br11 | field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual<br>crew<br>disagree<br>laundry |  
+| bip_39_word_new_br12 | field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual<br>crew<br>disagree<br>laundry<br>actual |  
+| bip_39_word_new_br2 | field<br>silent |  
+| bip_39_word_new_br3 | field<br>silent<br>gold |  
+| bip_39_word_new_br4 | field<br>silent<br>gold<br>believe |  
+| bip_39_word_new_br5 | field<br>silent<br>gold<br>believe<br>wreck |  
+| bip_39_word_new_br6 | field<br>silent<br>gold<br>believe<br>wreck<br>odor |  
+| bip_39_word_new_br7 | field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard |  
+| bip_39_word_new_br8 | field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual |  
+| bip_39_word_new_br9 | field<br>silent<br>gold<br>believe<br>wreck<br>odor<br>guard<br>unusual<br>crew |  
+| bip_39_word_new_line1 | field |  
+| bip_39_word_new_line10 | field
+silent
+gold
+believe
+wreck
+odor
+guard
+unusual
+crew
+disagree |  
+| bip_39_word_new_line11 | field
+silent
+gold
+believe
+wreck
+odor
+guard
+unusual
+crew
+disagree
+laundry |  
+| bip_39_word_new_line12 | field
+silent
+gold
+believe
+wreck
+odor
+guard
+unusual
+crew
+disagree
+laundry
+actual |  
+| bip_39_word_new_line2 | field
+silent |  
+| bip_39_word_new_line3 | field
+silent
+gold |  
+| bip_39_word_new_line4 | field
+silent
+gold
+believe |  
+| bip_39_word_new_line5 | field
+silent
+gold
+believe
+wreck |  
+| bip_39_word_new_line6 | field
+silent
+gold
+believe
+wreck
+odor |  
+| bip_39_word_new_line7 | field
+silent
+gold
+believe
+wreck
+odor
+guard |  
+| bip_39_word_new_line8 | field
+silent
+gold
+believe
+wreck
+odor
+guard
+unusual |  
+| bip_39_word_new_line9 | field
+silent
+gold
+believe
+wreck
+odor
+guard
+unusual
+crew |  
+| bip_39_word_space_0 | ['field', 'silent', 'gold', 'believe', 'wreck', 'odor', 'guard', 'unusual', 'crew', 'disagree', 'laundry', 'actual'] |  
+| bip_39_word_space_1 | field |  
+| bip_39_word_space_10 | field silent gold believe wreck odor guard unusual crew disagree |  
+| bip_39_word_space_11 | field silent gold believe wreck odor guard unusual crew disagree laundry |  
+| bip_39_word_space_12 | field silent gold believe wreck odor guard unusual crew disagree laundry actual |  
+| bip_39_word_space_2 | field silent |  
+| bip_39_word_space_3 | field silent gold |  
+| bip_39_word_space_4 | field silent gold believe |  
+| bip_39_word_space_5 | field silent gold believe wreck |  
+| bip_39_word_space_6 | field silent gold believe wreck odor |  
+| bip_39_word_space_7 | field silent gold believe wreck odor guard |  
+| bip_39_word_space_8 | field silent gold believe wreck odor guard unusual |  
+| bip_39_word_space_9 | field silent gold believe wreck odor guard unusual crew |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

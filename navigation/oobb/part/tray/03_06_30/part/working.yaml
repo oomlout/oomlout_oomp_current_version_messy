@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vintage
+bip_39_word_new_br10: vintage<br>fury<br>wide<br>fossil<br>outer<br>deal<br>roast<br>brave<br>eye<br>faculty
+bip_39_word_new_br11: vintage<br>fury<br>wide<br>fossil<br>outer<br>deal<br>roast<br>brave<br>eye<br>faculty<br>already
+bip_39_word_new_br12: vintage<br>fury<br>wide<br>fossil<br>outer<br>deal<br>roast<br>brave<br>eye<br>faculty<br>already<br>anxiety
+bip_39_word_new_br2: vintage<br>fury
+bip_39_word_new_br3: vintage<br>fury<br>wide
+bip_39_word_new_br4: vintage<br>fury<br>wide<br>fossil
+bip_39_word_new_br5: vintage<br>fury<br>wide<br>fossil<br>outer
+bip_39_word_new_br6: vintage<br>fury<br>wide<br>fossil<br>outer<br>deal
+bip_39_word_new_br7: vintage<br>fury<br>wide<br>fossil<br>outer<br>deal<br>roast
+bip_39_word_new_br8: vintage<br>fury<br>wide<br>fossil<br>outer<br>deal<br>roast<br>brave
+bip_39_word_new_br9: vintage<br>fury<br>wide<br>fossil<br>outer<br>deal<br>roast<br>brave<br>eye
+bip_39_word_new_line1: vintage
+bip_39_word_new_line10: 'vintage
+
+  fury
+
+  wide
+
+  fossil
+
+  outer
+
+  deal
+
+  roast
+
+  brave
+
+  eye
+
+  faculty'
+bip_39_word_new_line11: 'vintage
+
+  fury
+
+  wide
+
+  fossil
+
+  outer
+
+  deal
+
+  roast
+
+  brave
+
+  eye
+
+  faculty
+
+  already'
+bip_39_word_new_line12: 'vintage
+
+  fury
+
+  wide
+
+  fossil
+
+  outer
+
+  deal
+
+  roast
+
+  brave
+
+  eye
+
+  faculty
+
+  already
+
+  anxiety'
+bip_39_word_new_line2: 'vintage
+
+  fury'
+bip_39_word_new_line3: 'vintage
+
+  fury
+
+  wide'
+bip_39_word_new_line4: 'vintage
+
+  fury
+
+  wide
+
+  fossil'
+bip_39_word_new_line5: 'vintage
+
+  fury
+
+  wide
+
+  fossil
+
+  outer'
+bip_39_word_new_line6: 'vintage
+
+  fury
+
+  wide
+
+  fossil
+
+  outer
+
+  deal'
+bip_39_word_new_line7: 'vintage
+
+  fury
+
+  wide
+
+  fossil
+
+  outer
+
+  deal
+
+  roast'
+bip_39_word_new_line8: 'vintage
+
+  fury
+
+  wide
+
+  fossil
+
+  outer
+
+  deal
+
+  roast
+
+  brave'
+bip_39_word_new_line9: 'vintage
+
+  fury
+
+  wide
+
+  fossil
+
+  outer
+
+  deal
+
+  roast
+
+  brave
+
+  eye'
+bip_39_word_space_0:
+- vintage
+- fury
+- wide
+- fossil
+- outer
+- deal
+- roast
+- brave
+- eye
+- faculty
+- already
+- anxiety
+bip_39_word_space_1: vintage
+bip_39_word_space_10: vintage fury wide fossil outer deal roast brave eye faculty
+bip_39_word_space_11: vintage fury wide fossil outer deal roast brave eye faculty
+  already
+bip_39_word_space_12: vintage fury wide fossil outer deal roast brave eye faculty
+  already anxiety
+bip_39_word_space_2: vintage fury
+bip_39_word_space_3: vintage fury wide
+bip_39_word_space_4: vintage fury wide fossil
+bip_39_word_space_5: vintage fury wide fossil outer
+bip_39_word_space_6: vintage fury wide fossil outer deal
+bip_39_word_space_7: vintage fury wide fossil outer deal roast
+bip_39_word_space_8: vintage fury wide fossil outer deal roast brave
+bip_39_word_space_9: vintage fury wide fossil outer deal roast brave eye
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

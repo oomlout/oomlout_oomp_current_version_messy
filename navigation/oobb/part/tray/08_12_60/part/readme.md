@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hobby prosper
+  * bip 39 word 3: hobby prosper sail
+  * bip 39 word: hobby prosper sail practice wire envelope radio output wife grocery spice access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hobby |  
+| bip_39_word_new_br10 | hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife<br>grocery |  
+| bip_39_word_new_br11 | hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife<br>grocery<br>spice |  
+| bip_39_word_new_br12 | hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife<br>grocery<br>spice<br>access |  
+| bip_39_word_new_br2 | hobby<br>prosper |  
+| bip_39_word_new_br3 | hobby<br>prosper<br>sail |  
+| bip_39_word_new_br4 | hobby<br>prosper<br>sail<br>practice |  
+| bip_39_word_new_br5 | hobby<br>prosper<br>sail<br>practice<br>wire |  
+| bip_39_word_new_br6 | hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope |  
+| bip_39_word_new_br7 | hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio |  
+| bip_39_word_new_br8 | hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output |  
+| bip_39_word_new_br9 | hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife |  
+| bip_39_word_new_line1 | hobby |  
+| bip_39_word_new_line10 | hobby
+prosper
+sail
+practice
+wire
+envelope
+radio
+output
+wife
+grocery |  
+| bip_39_word_new_line11 | hobby
+prosper
+sail
+practice
+wire
+envelope
+radio
+output
+wife
+grocery
+spice |  
+| bip_39_word_new_line12 | hobby
+prosper
+sail
+practice
+wire
+envelope
+radio
+output
+wife
+grocery
+spice
+access |  
+| bip_39_word_new_line2 | hobby
+prosper |  
+| bip_39_word_new_line3 | hobby
+prosper
+sail |  
+| bip_39_word_new_line4 | hobby
+prosper
+sail
+practice |  
+| bip_39_word_new_line5 | hobby
+prosper
+sail
+practice
+wire |  
+| bip_39_word_new_line6 | hobby
+prosper
+sail
+practice
+wire
+envelope |  
+| bip_39_word_new_line7 | hobby
+prosper
+sail
+practice
+wire
+envelope
+radio |  
+| bip_39_word_new_line8 | hobby
+prosper
+sail
+practice
+wire
+envelope
+radio
+output |  
+| bip_39_word_new_line9 | hobby
+prosper
+sail
+practice
+wire
+envelope
+radio
+output
+wife |  
+| bip_39_word_space_0 | ['hobby', 'prosper', 'sail', 'practice', 'wire', 'envelope', 'radio', 'output', 'wife', 'grocery', 'spice', 'access'] |  
+| bip_39_word_space_1 | hobby |  
+| bip_39_word_space_10 | hobby prosper sail practice wire envelope radio output wife grocery |  
+| bip_39_word_space_11 | hobby prosper sail practice wire envelope radio output wife grocery spice |  
+| bip_39_word_space_12 | hobby prosper sail practice wire envelope radio output wife grocery spice access |  
+| bip_39_word_space_2 | hobby prosper |  
+| bip_39_word_space_3 | hobby prosper sail |  
+| bip_39_word_space_4 | hobby prosper sail practice |  
+| bip_39_word_space_5 | hobby prosper sail practice wire |  
+| bip_39_word_space_6 | hobby prosper sail practice wire envelope |  
+| bip_39_word_space_7 | hobby prosper sail practice wire envelope radio |  
+| bip_39_word_space_8 | hobby prosper sail practice wire envelope radio output |  
+| bip_39_word_space_9 | hobby prosper sail practice wire envelope radio output wife |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

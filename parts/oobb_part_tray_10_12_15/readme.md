@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: floor boost
+  * bip 39 word 3: floor boost curve
+  * bip 39 word: floor boost curve smart lava poverty until garage mystery intact nut almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | floor |  
+| bip_39_word_new_br10 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty<br>until<br>garage<br>mystery<br>intact |  
+| bip_39_word_new_br11 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty<br>until<br>garage<br>mystery<br>intact<br>nut |  
+| bip_39_word_new_br12 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty<br>until<br>garage<br>mystery<br>intact<br>nut<br>almost |  
+| bip_39_word_new_br2 | floor<br>boost |  
+| bip_39_word_new_br3 | floor<br>boost<br>curve |  
+| bip_39_word_new_br4 | floor<br>boost<br>curve<br>smart |  
+| bip_39_word_new_br5 | floor<br>boost<br>curve<br>smart<br>lava |  
+| bip_39_word_new_br6 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty |  
+| bip_39_word_new_br7 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty<br>until |  
+| bip_39_word_new_br8 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty<br>until<br>garage |  
+| bip_39_word_new_br9 | floor<br>boost<br>curve<br>smart<br>lava<br>poverty<br>until<br>garage<br>mystery |  
+| bip_39_word_new_line1 | floor |  
+| bip_39_word_new_line10 | floor
+boost
+curve
+smart
+lava
+poverty
+until
+garage
+mystery
+intact |  
+| bip_39_word_new_line11 | floor
+boost
+curve
+smart
+lava
+poverty
+until
+garage
+mystery
+intact
+nut |  
+| bip_39_word_new_line12 | floor
+boost
+curve
+smart
+lava
+poverty
+until
+garage
+mystery
+intact
+nut
+almost |  
+| bip_39_word_new_line2 | floor
+boost |  
+| bip_39_word_new_line3 | floor
+boost
+curve |  
+| bip_39_word_new_line4 | floor
+boost
+curve
+smart |  
+| bip_39_word_new_line5 | floor
+boost
+curve
+smart
+lava |  
+| bip_39_word_new_line6 | floor
+boost
+curve
+smart
+lava
+poverty |  
+| bip_39_word_new_line7 | floor
+boost
+curve
+smart
+lava
+poverty
+until |  
+| bip_39_word_new_line8 | floor
+boost
+curve
+smart
+lava
+poverty
+until
+garage |  
+| bip_39_word_new_line9 | floor
+boost
+curve
+smart
+lava
+poverty
+until
+garage
+mystery |  
+| bip_39_word_space_0 | ['floor', 'boost', 'curve', 'smart', 'lava', 'poverty', 'until', 'garage', 'mystery', 'intact', 'nut', 'almost'] |  
+| bip_39_word_space_1 | floor |  
+| bip_39_word_space_10 | floor boost curve smart lava poverty until garage mystery intact |  
+| bip_39_word_space_11 | floor boost curve smart lava poverty until garage mystery intact nut |  
+| bip_39_word_space_12 | floor boost curve smart lava poverty until garage mystery intact nut almost |  
+| bip_39_word_space_2 | floor boost |  
+| bip_39_word_space_3 | floor boost curve |  
+| bip_39_word_space_4 | floor boost curve smart |  
+| bip_39_word_space_5 | floor boost curve smart lava |  
+| bip_39_word_space_6 | floor boost curve smart lava poverty |  
+| bip_39_word_space_7 | floor boost curve smart lava poverty until |  
+| bip_39_word_space_8 | floor boost curve smart lava poverty until garage |  
+| bip_39_word_space_9 | floor boost curve smart lava poverty until garage mystery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

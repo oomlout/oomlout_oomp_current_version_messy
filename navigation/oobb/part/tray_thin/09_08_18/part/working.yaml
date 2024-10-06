@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hammer
+bip_39_word_new_br10: hammer<br>throw<br>work<br>lion<br>focus<br>reform<br>indicate<br>cruel<br>fame<br>turkey
+bip_39_word_new_br11: hammer<br>throw<br>work<br>lion<br>focus<br>reform<br>indicate<br>cruel<br>fame<br>turkey<br>leopard
+bip_39_word_new_br12: hammer<br>throw<br>work<br>lion<br>focus<br>reform<br>indicate<br>cruel<br>fame<br>turkey<br>leopard<br>apology
+bip_39_word_new_br2: hammer<br>throw
+bip_39_word_new_br3: hammer<br>throw<br>work
+bip_39_word_new_br4: hammer<br>throw<br>work<br>lion
+bip_39_word_new_br5: hammer<br>throw<br>work<br>lion<br>focus
+bip_39_word_new_br6: hammer<br>throw<br>work<br>lion<br>focus<br>reform
+bip_39_word_new_br7: hammer<br>throw<br>work<br>lion<br>focus<br>reform<br>indicate
+bip_39_word_new_br8: hammer<br>throw<br>work<br>lion<br>focus<br>reform<br>indicate<br>cruel
+bip_39_word_new_br9: hammer<br>throw<br>work<br>lion<br>focus<br>reform<br>indicate<br>cruel<br>fame
+bip_39_word_new_line1: hammer
+bip_39_word_new_line10: 'hammer
+
+  throw
+
+  work
+
+  lion
+
+  focus
+
+  reform
+
+  indicate
+
+  cruel
+
+  fame
+
+  turkey'
+bip_39_word_new_line11: 'hammer
+
+  throw
+
+  work
+
+  lion
+
+  focus
+
+  reform
+
+  indicate
+
+  cruel
+
+  fame
+
+  turkey
+
+  leopard'
+bip_39_word_new_line12: 'hammer
+
+  throw
+
+  work
+
+  lion
+
+  focus
+
+  reform
+
+  indicate
+
+  cruel
+
+  fame
+
+  turkey
+
+  leopard
+
+  apology'
+bip_39_word_new_line2: 'hammer
+
+  throw'
+bip_39_word_new_line3: 'hammer
+
+  throw
+
+  work'
+bip_39_word_new_line4: 'hammer
+
+  throw
+
+  work
+
+  lion'
+bip_39_word_new_line5: 'hammer
+
+  throw
+
+  work
+
+  lion
+
+  focus'
+bip_39_word_new_line6: 'hammer
+
+  throw
+
+  work
+
+  lion
+
+  focus
+
+  reform'
+bip_39_word_new_line7: 'hammer
+
+  throw
+
+  work
+
+  lion
+
+  focus
+
+  reform
+
+  indicate'
+bip_39_word_new_line8: 'hammer
+
+  throw
+
+  work
+
+  lion
+
+  focus
+
+  reform
+
+  indicate
+
+  cruel'
+bip_39_word_new_line9: 'hammer
+
+  throw
+
+  work
+
+  lion
+
+  focus
+
+  reform
+
+  indicate
+
+  cruel
+
+  fame'
+bip_39_word_space_0:
+- hammer
+- throw
+- work
+- lion
+- focus
+- reform
+- indicate
+- cruel
+- fame
+- turkey
+- leopard
+- apology
+bip_39_word_space_1: hammer
+bip_39_word_space_10: hammer throw work lion focus reform indicate cruel fame turkey
+bip_39_word_space_11: hammer throw work lion focus reform indicate cruel fame turkey
+  leopard
+bip_39_word_space_12: hammer throw work lion focus reform indicate cruel fame turkey
+  leopard apology
+bip_39_word_space_2: hammer throw
+bip_39_word_space_3: hammer throw work
+bip_39_word_space_4: hammer throw work lion
+bip_39_word_space_5: hammer throw work lion focus
+bip_39_word_space_6: hammer throw work lion focus reform
+bip_39_word_space_7: hammer throw work lion focus reform indicate
+bip_39_word_space_8: hammer throw work lion focus reform indicate cruel
+bip_39_word_space_9: hammer throw work lion focus reform indicate cruel fame
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

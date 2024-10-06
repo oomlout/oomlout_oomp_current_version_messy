@@ -1,3 +1,187 @@
+bip_39_word_new_br1: diary
+bip_39_word_new_br10: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen<br>huge
+bip_39_word_new_br11: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen<br>huge<br>scare
+bip_39_word_new_br12: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen<br>huge<br>scare<br>ancient
+bip_39_word_new_br2: diary<br>runway
+bip_39_word_new_br3: diary<br>runway<br>heavy
+bip_39_word_new_br4: diary<br>runway<br>heavy<br>pudding
+bip_39_word_new_br5: diary<br>runway<br>heavy<br>pudding<br>north
+bip_39_word_new_br6: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese
+bip_39_word_new_br7: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero
+bip_39_word_new_br8: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse
+bip_39_word_new_br9: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen
+bip_39_word_new_line1: diary
+bip_39_word_new_line10: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse
+
+  reopen
+
+  huge'
+bip_39_word_new_line11: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse
+
+  reopen
+
+  huge
+
+  scare'
+bip_39_word_new_line12: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse
+
+  reopen
+
+  huge
+
+  scare
+
+  ancient'
+bip_39_word_new_line2: 'diary
+
+  runway'
+bip_39_word_new_line3: 'diary
+
+  runway
+
+  heavy'
+bip_39_word_new_line4: 'diary
+
+  runway
+
+  heavy
+
+  pudding'
+bip_39_word_new_line5: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north'
+bip_39_word_new_line6: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese'
+bip_39_word_new_line7: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero'
+bip_39_word_new_line8: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse'
+bip_39_word_new_line9: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse
+
+  reopen'
+bip_39_word_space_0:
+- diary
+- runway
+- heavy
+- pudding
+- north
+- cheese
+- hero
+- endorse
+- reopen
+- huge
+- scare
+- ancient
+bip_39_word_space_1: diary
+bip_39_word_space_10: diary runway heavy pudding north cheese hero endorse reopen
+  huge
+bip_39_word_space_11: diary runway heavy pudding north cheese hero endorse reopen
+  huge scare
+bip_39_word_space_12: diary runway heavy pudding north cheese hero endorse reopen
+  huge scare ancient
+bip_39_word_space_2: diary runway
+bip_39_word_space_3: diary runway heavy
+bip_39_word_space_4: diary runway heavy pudding
+bip_39_word_space_5: diary runway heavy pudding north
+bip_39_word_space_6: diary runway heavy pudding north cheese
+bip_39_word_space_7: diary runway heavy pudding north cheese hero
+bip_39_word_space_8: diary runway heavy pudding north cheese hero endorse
+bip_39_word_space_9: diary runway heavy pudding north cheese hero endorse reopen
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

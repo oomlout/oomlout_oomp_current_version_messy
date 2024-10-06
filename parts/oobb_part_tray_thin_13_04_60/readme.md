@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oxygen venue
+  * bip 39 word 3: oxygen venue flower
+  * bip 39 word: oxygen venue flower bridge age sentence kitten sail all spot path all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oxygen |  
+| bip_39_word_new_br10 | oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence<br>kitten<br>sail<br>all<br>spot |  
+| bip_39_word_new_br11 | oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence<br>kitten<br>sail<br>all<br>spot<br>path |  
+| bip_39_word_new_br12 | oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence<br>kitten<br>sail<br>all<br>spot<br>path<br>all |  
+| bip_39_word_new_br2 | oxygen<br>venue |  
+| bip_39_word_new_br3 | oxygen<br>venue<br>flower |  
+| bip_39_word_new_br4 | oxygen<br>venue<br>flower<br>bridge |  
+| bip_39_word_new_br5 | oxygen<br>venue<br>flower<br>bridge<br>age |  
+| bip_39_word_new_br6 | oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence |  
+| bip_39_word_new_br7 | oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence<br>kitten |  
+| bip_39_word_new_br8 | oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence<br>kitten<br>sail |  
+| bip_39_word_new_br9 | oxygen<br>venue<br>flower<br>bridge<br>age<br>sentence<br>kitten<br>sail<br>all |  
+| bip_39_word_new_line1 | oxygen |  
+| bip_39_word_new_line10 | oxygen
+venue
+flower
+bridge
+age
+sentence
+kitten
+sail
+all
+spot |  
+| bip_39_word_new_line11 | oxygen
+venue
+flower
+bridge
+age
+sentence
+kitten
+sail
+all
+spot
+path |  
+| bip_39_word_new_line12 | oxygen
+venue
+flower
+bridge
+age
+sentence
+kitten
+sail
+all
+spot
+path
+all |  
+| bip_39_word_new_line2 | oxygen
+venue |  
+| bip_39_word_new_line3 | oxygen
+venue
+flower |  
+| bip_39_word_new_line4 | oxygen
+venue
+flower
+bridge |  
+| bip_39_word_new_line5 | oxygen
+venue
+flower
+bridge
+age |  
+| bip_39_word_new_line6 | oxygen
+venue
+flower
+bridge
+age
+sentence |  
+| bip_39_word_new_line7 | oxygen
+venue
+flower
+bridge
+age
+sentence
+kitten |  
+| bip_39_word_new_line8 | oxygen
+venue
+flower
+bridge
+age
+sentence
+kitten
+sail |  
+| bip_39_word_new_line9 | oxygen
+venue
+flower
+bridge
+age
+sentence
+kitten
+sail
+all |  
+| bip_39_word_space_0 | ['oxygen', 'venue', 'flower', 'bridge', 'age', 'sentence', 'kitten', 'sail', 'all', 'spot', 'path', 'all'] |  
+| bip_39_word_space_1 | oxygen |  
+| bip_39_word_space_10 | oxygen venue flower bridge age sentence kitten sail all spot |  
+| bip_39_word_space_11 | oxygen venue flower bridge age sentence kitten sail all spot path |  
+| bip_39_word_space_12 | oxygen venue flower bridge age sentence kitten sail all spot path all |  
+| bip_39_word_space_2 | oxygen venue |  
+| bip_39_word_space_3 | oxygen venue flower |  
+| bip_39_word_space_4 | oxygen venue flower bridge |  
+| bip_39_word_space_5 | oxygen venue flower bridge age |  
+| bip_39_word_space_6 | oxygen venue flower bridge age sentence |  
+| bip_39_word_space_7 | oxygen venue flower bridge age sentence kitten |  
+| bip_39_word_space_8 | oxygen venue flower bridge age sentence kitten sail |  
+| bip_39_word_space_9 | oxygen venue flower bridge age sentence kitten sail all |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: zebra
+bip_39_word_new_br10: zebra<br>sure<br>silent<br>frame<br>juice<br>forum<br>hour<br>layer<br>abstract<br>hard
+bip_39_word_new_br11: zebra<br>sure<br>silent<br>frame<br>juice<br>forum<br>hour<br>layer<br>abstract<br>hard<br>story
+bip_39_word_new_br12: zebra<br>sure<br>silent<br>frame<br>juice<br>forum<br>hour<br>layer<br>abstract<br>hard<br>story<br>annual
+bip_39_word_new_br2: zebra<br>sure
+bip_39_word_new_br3: zebra<br>sure<br>silent
+bip_39_word_new_br4: zebra<br>sure<br>silent<br>frame
+bip_39_word_new_br5: zebra<br>sure<br>silent<br>frame<br>juice
+bip_39_word_new_br6: zebra<br>sure<br>silent<br>frame<br>juice<br>forum
+bip_39_word_new_br7: zebra<br>sure<br>silent<br>frame<br>juice<br>forum<br>hour
+bip_39_word_new_br8: zebra<br>sure<br>silent<br>frame<br>juice<br>forum<br>hour<br>layer
+bip_39_word_new_br9: zebra<br>sure<br>silent<br>frame<br>juice<br>forum<br>hour<br>layer<br>abstract
+bip_39_word_new_line1: zebra
+bip_39_word_new_line10: 'zebra
+
+  sure
+
+  silent
+
+  frame
+
+  juice
+
+  forum
+
+  hour
+
+  layer
+
+  abstract
+
+  hard'
+bip_39_word_new_line11: 'zebra
+
+  sure
+
+  silent
+
+  frame
+
+  juice
+
+  forum
+
+  hour
+
+  layer
+
+  abstract
+
+  hard
+
+  story'
+bip_39_word_new_line12: 'zebra
+
+  sure
+
+  silent
+
+  frame
+
+  juice
+
+  forum
+
+  hour
+
+  layer
+
+  abstract
+
+  hard
+
+  story
+
+  annual'
+bip_39_word_new_line2: 'zebra
+
+  sure'
+bip_39_word_new_line3: 'zebra
+
+  sure
+
+  silent'
+bip_39_word_new_line4: 'zebra
+
+  sure
+
+  silent
+
+  frame'
+bip_39_word_new_line5: 'zebra
+
+  sure
+
+  silent
+
+  frame
+
+  juice'
+bip_39_word_new_line6: 'zebra
+
+  sure
+
+  silent
+
+  frame
+
+  juice
+
+  forum'
+bip_39_word_new_line7: 'zebra
+
+  sure
+
+  silent
+
+  frame
+
+  juice
+
+  forum
+
+  hour'
+bip_39_word_new_line8: 'zebra
+
+  sure
+
+  silent
+
+  frame
+
+  juice
+
+  forum
+
+  hour
+
+  layer'
+bip_39_word_new_line9: 'zebra
+
+  sure
+
+  silent
+
+  frame
+
+  juice
+
+  forum
+
+  hour
+
+  layer
+
+  abstract'
+bip_39_word_space_0:
+- zebra
+- sure
+- silent
+- frame
+- juice
+- forum
+- hour
+- layer
+- abstract
+- hard
+- story
+- annual
+bip_39_word_space_1: zebra
+bip_39_word_space_10: zebra sure silent frame juice forum hour layer abstract hard
+bip_39_word_space_11: zebra sure silent frame juice forum hour layer abstract hard
+  story
+bip_39_word_space_12: zebra sure silent frame juice forum hour layer abstract hard
+  story annual
+bip_39_word_space_2: zebra sure
+bip_39_word_space_3: zebra sure silent
+bip_39_word_space_4: zebra sure silent frame
+bip_39_word_space_5: zebra sure silent frame juice
+bip_39_word_space_6: zebra sure silent frame juice forum
+bip_39_word_space_7: zebra sure silent frame juice forum hour
+bip_39_word_space_8: zebra sure silent frame juice forum hour layer
+bip_39_word_space_9: zebra sure silent frame juice forum hour layer abstract
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

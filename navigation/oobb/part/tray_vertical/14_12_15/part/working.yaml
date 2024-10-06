@@ -1,3 +1,187 @@
+bip_39_word_new_br1: buffalo
+bip_39_word_new_br10: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top
+bip_39_word_new_br11: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top<br>cheap
+bip_39_word_new_br12: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split<br>top<br>cheap<br>assault
+bip_39_word_new_br2: buffalo<br>vacuum
+bip_39_word_new_br3: buffalo<br>vacuum<br>leisure
+bip_39_word_new_br4: buffalo<br>vacuum<br>leisure<br>sea
+bip_39_word_new_br5: buffalo<br>vacuum<br>leisure<br>sea<br>diesel
+bip_39_word_new_br6: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street
+bip_39_word_new_br7: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck
+bip_39_word_new_br8: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange
+bip_39_word_new_br9: buffalo<br>vacuum<br>leisure<br>sea<br>diesel<br>street<br>truck<br>arrange<br>split
+bip_39_word_new_line1: buffalo
+bip_39_word_new_line10: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea
+
+  diesel
+
+  street
+
+  truck
+
+  arrange
+
+  split
+
+  top'
+bip_39_word_new_line11: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea
+
+  diesel
+
+  street
+
+  truck
+
+  arrange
+
+  split
+
+  top
+
+  cheap'
+bip_39_word_new_line12: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea
+
+  diesel
+
+  street
+
+  truck
+
+  arrange
+
+  split
+
+  top
+
+  cheap
+
+  assault'
+bip_39_word_new_line2: 'buffalo
+
+  vacuum'
+bip_39_word_new_line3: 'buffalo
+
+  vacuum
+
+  leisure'
+bip_39_word_new_line4: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea'
+bip_39_word_new_line5: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea
+
+  diesel'
+bip_39_word_new_line6: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea
+
+  diesel
+
+  street'
+bip_39_word_new_line7: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea
+
+  diesel
+
+  street
+
+  truck'
+bip_39_word_new_line8: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea
+
+  diesel
+
+  street
+
+  truck
+
+  arrange'
+bip_39_word_new_line9: 'buffalo
+
+  vacuum
+
+  leisure
+
+  sea
+
+  diesel
+
+  street
+
+  truck
+
+  arrange
+
+  split'
+bip_39_word_space_0:
+- buffalo
+- vacuum
+- leisure
+- sea
+- diesel
+- street
+- truck
+- arrange
+- split
+- top
+- cheap
+- assault
+bip_39_word_space_1: buffalo
+bip_39_word_space_10: buffalo vacuum leisure sea diesel street truck arrange split
+  top
+bip_39_word_space_11: buffalo vacuum leisure sea diesel street truck arrange split
+  top cheap
+bip_39_word_space_12: buffalo vacuum leisure sea diesel street truck arrange split
+  top cheap assault
+bip_39_word_space_2: buffalo vacuum
+bip_39_word_space_3: buffalo vacuum leisure
+bip_39_word_space_4: buffalo vacuum leisure sea
+bip_39_word_space_5: buffalo vacuum leisure sea diesel
+bip_39_word_space_6: buffalo vacuum leisure sea diesel street
+bip_39_word_space_7: buffalo vacuum leisure sea diesel street truck
+bip_39_word_space_8: buffalo vacuum leisure sea diesel street truck arrange
+bip_39_word_space_9: buffalo vacuum leisure sea diesel street truck arrange split
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

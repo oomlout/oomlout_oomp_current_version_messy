@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: motor sick
+  * bip 39 word 3: motor sick adult
+  * bip 39 word: motor sick adult casino thing quality year visa advance royal elbow asset
 
 ### other_codes
 * short_code: br6828
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | motor |  
+| bip_39_word_new_br10 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal |  
+| bip_39_word_new_br11 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal<br>elbow |  
+| bip_39_word_new_br12 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance<br>royal<br>elbow<br>asset |  
+| bip_39_word_new_br2 | motor<br>sick |  
+| bip_39_word_new_br3 | motor<br>sick<br>adult |  
+| bip_39_word_new_br4 | motor<br>sick<br>adult<br>casino |  
+| bip_39_word_new_br5 | motor<br>sick<br>adult<br>casino<br>thing |  
+| bip_39_word_new_br6 | motor<br>sick<br>adult<br>casino<br>thing<br>quality |  
+| bip_39_word_new_br7 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year |  
+| bip_39_word_new_br8 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa |  
+| bip_39_word_new_br9 | motor<br>sick<br>adult<br>casino<br>thing<br>quality<br>year<br>visa<br>advance |  
+| bip_39_word_new_line1 | motor |  
+| bip_39_word_new_line10 | motor
+sick
+adult
+casino
+thing
+quality
+year
+visa
+advance
+royal |  
+| bip_39_word_new_line11 | motor
+sick
+adult
+casino
+thing
+quality
+year
+visa
+advance
+royal
+elbow |  
+| bip_39_word_new_line12 | motor
+sick
+adult
+casino
+thing
+quality
+year
+visa
+advance
+royal
+elbow
+asset |  
+| bip_39_word_new_line2 | motor
+sick |  
+| bip_39_word_new_line3 | motor
+sick
+adult |  
+| bip_39_word_new_line4 | motor
+sick
+adult
+casino |  
+| bip_39_word_new_line5 | motor
+sick
+adult
+casino
+thing |  
+| bip_39_word_new_line6 | motor
+sick
+adult
+casino
+thing
+quality |  
+| bip_39_word_new_line7 | motor
+sick
+adult
+casino
+thing
+quality
+year |  
+| bip_39_word_new_line8 | motor
+sick
+adult
+casino
+thing
+quality
+year
+visa |  
+| bip_39_word_new_line9 | motor
+sick
+adult
+casino
+thing
+quality
+year
+visa
+advance |  
+| bip_39_word_space_0 | ['motor', 'sick', 'adult', 'casino', 'thing', 'quality', 'year', 'visa', 'advance', 'royal', 'elbow', 'asset'] |  
+| bip_39_word_space_1 | motor |  
+| bip_39_word_space_10 | motor sick adult casino thing quality year visa advance royal |  
+| bip_39_word_space_11 | motor sick adult casino thing quality year visa advance royal elbow |  
+| bip_39_word_space_12 | motor sick adult casino thing quality year visa advance royal elbow asset |  
+| bip_39_word_space_2 | motor sick |  
+| bip_39_word_space_3 | motor sick adult |  
+| bip_39_word_space_4 | motor sick adult casino |  
+| bip_39_word_space_5 | motor sick adult casino thing |  
+| bip_39_word_space_6 | motor sick adult casino thing quality |  
+| bip_39_word_space_7 | motor sick adult casino thing quality year |  
+| bip_39_word_space_8 | motor sick adult casino thing quality year visa |  
+| bip_39_word_space_9 | motor sick adult casino thing quality year visa advance |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

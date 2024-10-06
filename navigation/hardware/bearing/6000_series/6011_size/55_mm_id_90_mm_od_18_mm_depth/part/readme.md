@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mushroom spatial
+  * bip 39 word 3: mushroom spatial identify
+  * bip 39 word: mushroom spatial identify north system stove aerobic company pulp project siren autumn
 
 ### other_codes
 * short_code: br6011
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mushroom |  
+| bip_39_word_new_br10 | mushroom<br>spatial<br>identify<br>north<br>system<br>stove<br>aerobic<br>company<br>pulp<br>project |  
+| bip_39_word_new_br11 | mushroom<br>spatial<br>identify<br>north<br>system<br>stove<br>aerobic<br>company<br>pulp<br>project<br>siren |  
+| bip_39_word_new_br12 | mushroom<br>spatial<br>identify<br>north<br>system<br>stove<br>aerobic<br>company<br>pulp<br>project<br>siren<br>autumn |  
+| bip_39_word_new_br2 | mushroom<br>spatial |  
+| bip_39_word_new_br3 | mushroom<br>spatial<br>identify |  
+| bip_39_word_new_br4 | mushroom<br>spatial<br>identify<br>north |  
+| bip_39_word_new_br5 | mushroom<br>spatial<br>identify<br>north<br>system |  
+| bip_39_word_new_br6 | mushroom<br>spatial<br>identify<br>north<br>system<br>stove |  
+| bip_39_word_new_br7 | mushroom<br>spatial<br>identify<br>north<br>system<br>stove<br>aerobic |  
+| bip_39_word_new_br8 | mushroom<br>spatial<br>identify<br>north<br>system<br>stove<br>aerobic<br>company |  
+| bip_39_word_new_br9 | mushroom<br>spatial<br>identify<br>north<br>system<br>stove<br>aerobic<br>company<br>pulp |  
+| bip_39_word_new_line1 | mushroom |  
+| bip_39_word_new_line10 | mushroom
+spatial
+identify
+north
+system
+stove
+aerobic
+company
+pulp
+project |  
+| bip_39_word_new_line11 | mushroom
+spatial
+identify
+north
+system
+stove
+aerobic
+company
+pulp
+project
+siren |  
+| bip_39_word_new_line12 | mushroom
+spatial
+identify
+north
+system
+stove
+aerobic
+company
+pulp
+project
+siren
+autumn |  
+| bip_39_word_new_line2 | mushroom
+spatial |  
+| bip_39_word_new_line3 | mushroom
+spatial
+identify |  
+| bip_39_word_new_line4 | mushroom
+spatial
+identify
+north |  
+| bip_39_word_new_line5 | mushroom
+spatial
+identify
+north
+system |  
+| bip_39_word_new_line6 | mushroom
+spatial
+identify
+north
+system
+stove |  
+| bip_39_word_new_line7 | mushroom
+spatial
+identify
+north
+system
+stove
+aerobic |  
+| bip_39_word_new_line8 | mushroom
+spatial
+identify
+north
+system
+stove
+aerobic
+company |  
+| bip_39_word_new_line9 | mushroom
+spatial
+identify
+north
+system
+stove
+aerobic
+company
+pulp |  
+| bip_39_word_space_0 | ['mushroom', 'spatial', 'identify', 'north', 'system', 'stove', 'aerobic', 'company', 'pulp', 'project', 'siren', 'autumn'] |  
+| bip_39_word_space_1 | mushroom |  
+| bip_39_word_space_10 | mushroom spatial identify north system stove aerobic company pulp project |  
+| bip_39_word_space_11 | mushroom spatial identify north system stove aerobic company pulp project siren |  
+| bip_39_word_space_12 | mushroom spatial identify north system stove aerobic company pulp project siren autumn |  
+| bip_39_word_space_2 | mushroom spatial |  
+| bip_39_word_space_3 | mushroom spatial identify |  
+| bip_39_word_space_4 | mushroom spatial identify north |  
+| bip_39_word_space_5 | mushroom spatial identify north system |  
+| bip_39_word_space_6 | mushroom spatial identify north system stove |  
+| bip_39_word_space_7 | mushroom spatial identify north system stove aerobic |  
+| bip_39_word_space_8 | mushroom spatial identify north system stove aerobic company |  
+| bip_39_word_space_9 | mushroom spatial identify north system stove aerobic company pulp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sunny egg
+  * bip 39 word 3: sunny egg build
+  * bip 39 word: sunny egg build elephant miss virtual denial broken churn nothing lab athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sunny |  
+| bip_39_word_new_br10 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual<br>denial<br>broken<br>churn<br>nothing |  
+| bip_39_word_new_br11 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual<br>denial<br>broken<br>churn<br>nothing<br>lab |  
+| bip_39_word_new_br12 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual<br>denial<br>broken<br>churn<br>nothing<br>lab<br>athlete |  
+| bip_39_word_new_br2 | sunny<br>egg |  
+| bip_39_word_new_br3 | sunny<br>egg<br>build |  
+| bip_39_word_new_br4 | sunny<br>egg<br>build<br>elephant |  
+| bip_39_word_new_br5 | sunny<br>egg<br>build<br>elephant<br>miss |  
+| bip_39_word_new_br6 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual |  
+| bip_39_word_new_br7 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual<br>denial |  
+| bip_39_word_new_br8 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual<br>denial<br>broken |  
+| bip_39_word_new_br9 | sunny<br>egg<br>build<br>elephant<br>miss<br>virtual<br>denial<br>broken<br>churn |  
+| bip_39_word_new_line1 | sunny |  
+| bip_39_word_new_line10 | sunny
+egg
+build
+elephant
+miss
+virtual
+denial
+broken
+churn
+nothing |  
+| bip_39_word_new_line11 | sunny
+egg
+build
+elephant
+miss
+virtual
+denial
+broken
+churn
+nothing
+lab |  
+| bip_39_word_new_line12 | sunny
+egg
+build
+elephant
+miss
+virtual
+denial
+broken
+churn
+nothing
+lab
+athlete |  
+| bip_39_word_new_line2 | sunny
+egg |  
+| bip_39_word_new_line3 | sunny
+egg
+build |  
+| bip_39_word_new_line4 | sunny
+egg
+build
+elephant |  
+| bip_39_word_new_line5 | sunny
+egg
+build
+elephant
+miss |  
+| bip_39_word_new_line6 | sunny
+egg
+build
+elephant
+miss
+virtual |  
+| bip_39_word_new_line7 | sunny
+egg
+build
+elephant
+miss
+virtual
+denial |  
+| bip_39_word_new_line8 | sunny
+egg
+build
+elephant
+miss
+virtual
+denial
+broken |  
+| bip_39_word_new_line9 | sunny
+egg
+build
+elephant
+miss
+virtual
+denial
+broken
+churn |  
+| bip_39_word_space_0 | ['sunny', 'egg', 'build', 'elephant', 'miss', 'virtual', 'denial', 'broken', 'churn', 'nothing', 'lab', 'athlete'] |  
+| bip_39_word_space_1 | sunny |  
+| bip_39_word_space_10 | sunny egg build elephant miss virtual denial broken churn nothing |  
+| bip_39_word_space_11 | sunny egg build elephant miss virtual denial broken churn nothing lab |  
+| bip_39_word_space_12 | sunny egg build elephant miss virtual denial broken churn nothing lab athlete |  
+| bip_39_word_space_2 | sunny egg |  
+| bip_39_word_space_3 | sunny egg build |  
+| bip_39_word_space_4 | sunny egg build elephant |  
+| bip_39_word_space_5 | sunny egg build elephant miss |  
+| bip_39_word_space_6 | sunny egg build elephant miss virtual |  
+| bip_39_word_space_7 | sunny egg build elephant miss virtual denial |  
+| bip_39_word_space_8 | sunny egg build elephant miss virtual denial broken |  
+| bip_39_word_space_9 | sunny egg build elephant miss virtual denial broken churn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

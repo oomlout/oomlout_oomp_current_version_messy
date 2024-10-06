@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: collect general
+  * bip 39 word 3: collect general asset
+  * bip 39 word: collect general asset gauge below segment asset afraid brand indoor coin ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | collect |  
+| bip_39_word_new_br10 | collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand<br>indoor |  
+| bip_39_word_new_br11 | collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand<br>indoor<br>coin |  
+| bip_39_word_new_br12 | collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand<br>indoor<br>coin<br>ankle |  
+| bip_39_word_new_br2 | collect<br>general |  
+| bip_39_word_new_br3 | collect<br>general<br>asset |  
+| bip_39_word_new_br4 | collect<br>general<br>asset<br>gauge |  
+| bip_39_word_new_br5 | collect<br>general<br>asset<br>gauge<br>below |  
+| bip_39_word_new_br6 | collect<br>general<br>asset<br>gauge<br>below<br>segment |  
+| bip_39_word_new_br7 | collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset |  
+| bip_39_word_new_br8 | collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid |  
+| bip_39_word_new_br9 | collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand |  
+| bip_39_word_new_line1 | collect |  
+| bip_39_word_new_line10 | collect
+general
+asset
+gauge
+below
+segment
+asset
+afraid
+brand
+indoor |  
+| bip_39_word_new_line11 | collect
+general
+asset
+gauge
+below
+segment
+asset
+afraid
+brand
+indoor
+coin |  
+| bip_39_word_new_line12 | collect
+general
+asset
+gauge
+below
+segment
+asset
+afraid
+brand
+indoor
+coin
+ankle |  
+| bip_39_word_new_line2 | collect
+general |  
+| bip_39_word_new_line3 | collect
+general
+asset |  
+| bip_39_word_new_line4 | collect
+general
+asset
+gauge |  
+| bip_39_word_new_line5 | collect
+general
+asset
+gauge
+below |  
+| bip_39_word_new_line6 | collect
+general
+asset
+gauge
+below
+segment |  
+| bip_39_word_new_line7 | collect
+general
+asset
+gauge
+below
+segment
+asset |  
+| bip_39_word_new_line8 | collect
+general
+asset
+gauge
+below
+segment
+asset
+afraid |  
+| bip_39_word_new_line9 | collect
+general
+asset
+gauge
+below
+segment
+asset
+afraid
+brand |  
+| bip_39_word_space_0 | ['collect', 'general', 'asset', 'gauge', 'below', 'segment', 'asset', 'afraid', 'brand', 'indoor', 'coin', 'ankle'] |  
+| bip_39_word_space_1 | collect |  
+| bip_39_word_space_10 | collect general asset gauge below segment asset afraid brand indoor |  
+| bip_39_word_space_11 | collect general asset gauge below segment asset afraid brand indoor coin |  
+| bip_39_word_space_12 | collect general asset gauge below segment asset afraid brand indoor coin ankle |  
+| bip_39_word_space_2 | collect general |  
+| bip_39_word_space_3 | collect general asset |  
+| bip_39_word_space_4 | collect general asset gauge |  
+| bip_39_word_space_5 | collect general asset gauge below |  
+| bip_39_word_space_6 | collect general asset gauge below segment |  
+| bip_39_word_space_7 | collect general asset gauge below segment asset |  
+| bip_39_word_space_8 | collect general asset gauge below segment asset afraid |  
+| bip_39_word_space_9 | collect general asset gauge below segment asset afraid brand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

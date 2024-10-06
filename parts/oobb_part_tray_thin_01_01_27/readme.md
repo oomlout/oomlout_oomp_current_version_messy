@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glad pudding
+  * bip 39 word 3: glad pudding want
+  * bip 39 word: glad pudding want proud liberty thunder biology heavy plunge pepper neither airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glad |  
+| bip_39_word_new_br10 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder<br>biology<br>heavy<br>plunge<br>pepper |  
+| bip_39_word_new_br11 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder<br>biology<br>heavy<br>plunge<br>pepper<br>neither |  
+| bip_39_word_new_br12 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder<br>biology<br>heavy<br>plunge<br>pepper<br>neither<br>airport |  
+| bip_39_word_new_br2 | glad<br>pudding |  
+| bip_39_word_new_br3 | glad<br>pudding<br>want |  
+| bip_39_word_new_br4 | glad<br>pudding<br>want<br>proud |  
+| bip_39_word_new_br5 | glad<br>pudding<br>want<br>proud<br>liberty |  
+| bip_39_word_new_br6 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder |  
+| bip_39_word_new_br7 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder<br>biology |  
+| bip_39_word_new_br8 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder<br>biology<br>heavy |  
+| bip_39_word_new_br9 | glad<br>pudding<br>want<br>proud<br>liberty<br>thunder<br>biology<br>heavy<br>plunge |  
+| bip_39_word_new_line1 | glad |  
+| bip_39_word_new_line10 | glad
+pudding
+want
+proud
+liberty
+thunder
+biology
+heavy
+plunge
+pepper |  
+| bip_39_word_new_line11 | glad
+pudding
+want
+proud
+liberty
+thunder
+biology
+heavy
+plunge
+pepper
+neither |  
+| bip_39_word_new_line12 | glad
+pudding
+want
+proud
+liberty
+thunder
+biology
+heavy
+plunge
+pepper
+neither
+airport |  
+| bip_39_word_new_line2 | glad
+pudding |  
+| bip_39_word_new_line3 | glad
+pudding
+want |  
+| bip_39_word_new_line4 | glad
+pudding
+want
+proud |  
+| bip_39_word_new_line5 | glad
+pudding
+want
+proud
+liberty |  
+| bip_39_word_new_line6 | glad
+pudding
+want
+proud
+liberty
+thunder |  
+| bip_39_word_new_line7 | glad
+pudding
+want
+proud
+liberty
+thunder
+biology |  
+| bip_39_word_new_line8 | glad
+pudding
+want
+proud
+liberty
+thunder
+biology
+heavy |  
+| bip_39_word_new_line9 | glad
+pudding
+want
+proud
+liberty
+thunder
+biology
+heavy
+plunge |  
+| bip_39_word_space_0 | ['glad', 'pudding', 'want', 'proud', 'liberty', 'thunder', 'biology', 'heavy', 'plunge', 'pepper', 'neither', 'airport'] |  
+| bip_39_word_space_1 | glad |  
+| bip_39_word_space_10 | glad pudding want proud liberty thunder biology heavy plunge pepper |  
+| bip_39_word_space_11 | glad pudding want proud liberty thunder biology heavy plunge pepper neither |  
+| bip_39_word_space_12 | glad pudding want proud liberty thunder biology heavy plunge pepper neither airport |  
+| bip_39_word_space_2 | glad pudding |  
+| bip_39_word_space_3 | glad pudding want |  
+| bip_39_word_space_4 | glad pudding want proud |  
+| bip_39_word_space_5 | glad pudding want proud liberty |  
+| bip_39_word_space_6 | glad pudding want proud liberty thunder |  
+| bip_39_word_space_7 | glad pudding want proud liberty thunder biology |  
+| bip_39_word_space_8 | glad pudding want proud liberty thunder biology heavy |  
+| bip_39_word_space_9 | glad pudding want proud liberty thunder biology heavy plunge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

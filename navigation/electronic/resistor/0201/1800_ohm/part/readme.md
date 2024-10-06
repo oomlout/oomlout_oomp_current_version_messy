@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hard explain
+  * bip 39 word 3: hard explain void
+  * bip 39 word: hard explain void upset summer insect humble exchange exercise zebra vital arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hard |  
+| bip_39_word_new_br10 | hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange<br>exercise<br>zebra |  
+| bip_39_word_new_br11 | hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange<br>exercise<br>zebra<br>vital |  
+| bip_39_word_new_br12 | hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange<br>exercise<br>zebra<br>vital<br>arena |  
+| bip_39_word_new_br2 | hard<br>explain |  
+| bip_39_word_new_br3 | hard<br>explain<br>void |  
+| bip_39_word_new_br4 | hard<br>explain<br>void<br>upset |  
+| bip_39_word_new_br5 | hard<br>explain<br>void<br>upset<br>summer |  
+| bip_39_word_new_br6 | hard<br>explain<br>void<br>upset<br>summer<br>insect |  
+| bip_39_word_new_br7 | hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble |  
+| bip_39_word_new_br8 | hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange |  
+| bip_39_word_new_br9 | hard<br>explain<br>void<br>upset<br>summer<br>insect<br>humble<br>exchange<br>exercise |  
+| bip_39_word_new_line1 | hard |  
+| bip_39_word_new_line10 | hard
+explain
+void
+upset
+summer
+insect
+humble
+exchange
+exercise
+zebra |  
+| bip_39_word_new_line11 | hard
+explain
+void
+upset
+summer
+insect
+humble
+exchange
+exercise
+zebra
+vital |  
+| bip_39_word_new_line12 | hard
+explain
+void
+upset
+summer
+insect
+humble
+exchange
+exercise
+zebra
+vital
+arena |  
+| bip_39_word_new_line2 | hard
+explain |  
+| bip_39_word_new_line3 | hard
+explain
+void |  
+| bip_39_word_new_line4 | hard
+explain
+void
+upset |  
+| bip_39_word_new_line5 | hard
+explain
+void
+upset
+summer |  
+| bip_39_word_new_line6 | hard
+explain
+void
+upset
+summer
+insect |  
+| bip_39_word_new_line7 | hard
+explain
+void
+upset
+summer
+insect
+humble |  
+| bip_39_word_new_line8 | hard
+explain
+void
+upset
+summer
+insect
+humble
+exchange |  
+| bip_39_word_new_line9 | hard
+explain
+void
+upset
+summer
+insect
+humble
+exchange
+exercise |  
+| bip_39_word_space_0 | ['hard', 'explain', 'void', 'upset', 'summer', 'insect', 'humble', 'exchange', 'exercise', 'zebra', 'vital', 'arena'] |  
+| bip_39_word_space_1 | hard |  
+| bip_39_word_space_10 | hard explain void upset summer insect humble exchange exercise zebra |  
+| bip_39_word_space_11 | hard explain void upset summer insect humble exchange exercise zebra vital |  
+| bip_39_word_space_12 | hard explain void upset summer insect humble exchange exercise zebra vital arena |  
+| bip_39_word_space_2 | hard explain |  
+| bip_39_word_space_3 | hard explain void |  
+| bip_39_word_space_4 | hard explain void upset |  
+| bip_39_word_space_5 | hard explain void upset summer |  
+| bip_39_word_space_6 | hard explain void upset summer insect |  
+| bip_39_word_space_7 | hard explain void upset summer insect humble |  
+| bip_39_word_space_8 | hard explain void upset summer insect humble exchange |  
+| bip_39_word_space_9 | hard explain void upset summer insect humble exchange exercise |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

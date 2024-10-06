@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bracket romance
+  * bip 39 word 3: bracket romance alpha
+  * bip 39 word: bracket romance alpha simple water forget recipe glass blood law innocent absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bracket |  
+| bip_39_word_new_br10 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law |  
+| bip_39_word_new_br11 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law<br>innocent |  
+| bip_39_word_new_br12 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood<br>law<br>innocent<br>absurd |  
+| bip_39_word_new_br2 | bracket<br>romance |  
+| bip_39_word_new_br3 | bracket<br>romance<br>alpha |  
+| bip_39_word_new_br4 | bracket<br>romance<br>alpha<br>simple |  
+| bip_39_word_new_br5 | bracket<br>romance<br>alpha<br>simple<br>water |  
+| bip_39_word_new_br6 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget |  
+| bip_39_word_new_br7 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe |  
+| bip_39_word_new_br8 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass |  
+| bip_39_word_new_br9 | bracket<br>romance<br>alpha<br>simple<br>water<br>forget<br>recipe<br>glass<br>blood |  
+| bip_39_word_new_line1 | bracket |  
+| bip_39_word_new_line10 | bracket
+romance
+alpha
+simple
+water
+forget
+recipe
+glass
+blood
+law |  
+| bip_39_word_new_line11 | bracket
+romance
+alpha
+simple
+water
+forget
+recipe
+glass
+blood
+law
+innocent |  
+| bip_39_word_new_line12 | bracket
+romance
+alpha
+simple
+water
+forget
+recipe
+glass
+blood
+law
+innocent
+absurd |  
+| bip_39_word_new_line2 | bracket
+romance |  
+| bip_39_word_new_line3 | bracket
+romance
+alpha |  
+| bip_39_word_new_line4 | bracket
+romance
+alpha
+simple |  
+| bip_39_word_new_line5 | bracket
+romance
+alpha
+simple
+water |  
+| bip_39_word_new_line6 | bracket
+romance
+alpha
+simple
+water
+forget |  
+| bip_39_word_new_line7 | bracket
+romance
+alpha
+simple
+water
+forget
+recipe |  
+| bip_39_word_new_line8 | bracket
+romance
+alpha
+simple
+water
+forget
+recipe
+glass |  
+| bip_39_word_new_line9 | bracket
+romance
+alpha
+simple
+water
+forget
+recipe
+glass
+blood |  
+| bip_39_word_space_0 | ['bracket', 'romance', 'alpha', 'simple', 'water', 'forget', 'recipe', 'glass', 'blood', 'law', 'innocent', 'absurd'] |  
+| bip_39_word_space_1 | bracket |  
+| bip_39_word_space_10 | bracket romance alpha simple water forget recipe glass blood law |  
+| bip_39_word_space_11 | bracket romance alpha simple water forget recipe glass blood law innocent |  
+| bip_39_word_space_12 | bracket romance alpha simple water forget recipe glass blood law innocent absurd |  
+| bip_39_word_space_2 | bracket romance |  
+| bip_39_word_space_3 | bracket romance alpha |  
+| bip_39_word_space_4 | bracket romance alpha simple |  
+| bip_39_word_space_5 | bracket romance alpha simple water |  
+| bip_39_word_space_6 | bracket romance alpha simple water forget |  
+| bip_39_word_space_7 | bracket romance alpha simple water forget recipe |  
+| bip_39_word_space_8 | bracket romance alpha simple water forget recipe glass |  
+| bip_39_word_space_9 | bracket romance alpha simple water forget recipe glass blood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

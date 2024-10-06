@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: afraid child
+  * bip 39 word 3: afraid child giggle
+  * bip 39 word: afraid child giggle awesome safe demise refuse where glow chapter pioneer amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | afraid |  
+| bip_39_word_new_br10 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter |  
+| bip_39_word_new_br11 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter<br>pioneer |  
+| bip_39_word_new_br12 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow<br>chapter<br>pioneer<br>amateur |  
+| bip_39_word_new_br2 | afraid<br>child |  
+| bip_39_word_new_br3 | afraid<br>child<br>giggle |  
+| bip_39_word_new_br4 | afraid<br>child<br>giggle<br>awesome |  
+| bip_39_word_new_br5 | afraid<br>child<br>giggle<br>awesome<br>safe |  
+| bip_39_word_new_br6 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise |  
+| bip_39_word_new_br7 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse |  
+| bip_39_word_new_br8 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where |  
+| bip_39_word_new_br9 | afraid<br>child<br>giggle<br>awesome<br>safe<br>demise<br>refuse<br>where<br>glow |  
+| bip_39_word_new_line1 | afraid |  
+| bip_39_word_new_line10 | afraid
+child
+giggle
+awesome
+safe
+demise
+refuse
+where
+glow
+chapter |  
+| bip_39_word_new_line11 | afraid
+child
+giggle
+awesome
+safe
+demise
+refuse
+where
+glow
+chapter
+pioneer |  
+| bip_39_word_new_line12 | afraid
+child
+giggle
+awesome
+safe
+demise
+refuse
+where
+glow
+chapter
+pioneer
+amateur |  
+| bip_39_word_new_line2 | afraid
+child |  
+| bip_39_word_new_line3 | afraid
+child
+giggle |  
+| bip_39_word_new_line4 | afraid
+child
+giggle
+awesome |  
+| bip_39_word_new_line5 | afraid
+child
+giggle
+awesome
+safe |  
+| bip_39_word_new_line6 | afraid
+child
+giggle
+awesome
+safe
+demise |  
+| bip_39_word_new_line7 | afraid
+child
+giggle
+awesome
+safe
+demise
+refuse |  
+| bip_39_word_new_line8 | afraid
+child
+giggle
+awesome
+safe
+demise
+refuse
+where |  
+| bip_39_word_new_line9 | afraid
+child
+giggle
+awesome
+safe
+demise
+refuse
+where
+glow |  
+| bip_39_word_space_0 | ['afraid', 'child', 'giggle', 'awesome', 'safe', 'demise', 'refuse', 'where', 'glow', 'chapter', 'pioneer', 'amateur'] |  
+| bip_39_word_space_1 | afraid |  
+| bip_39_word_space_10 | afraid child giggle awesome safe demise refuse where glow chapter |  
+| bip_39_word_space_11 | afraid child giggle awesome safe demise refuse where glow chapter pioneer |  
+| bip_39_word_space_12 | afraid child giggle awesome safe demise refuse where glow chapter pioneer amateur |  
+| bip_39_word_space_2 | afraid child |  
+| bip_39_word_space_3 | afraid child giggle |  
+| bip_39_word_space_4 | afraid child giggle awesome |  
+| bip_39_word_space_5 | afraid child giggle awesome safe |  
+| bip_39_word_space_6 | afraid child giggle awesome safe demise |  
+| bip_39_word_space_7 | afraid child giggle awesome safe demise refuse |  
+| bip_39_word_space_8 | afraid child giggle awesome safe demise refuse where |  
+| bip_39_word_space_9 | afraid child giggle awesome safe demise refuse where glow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

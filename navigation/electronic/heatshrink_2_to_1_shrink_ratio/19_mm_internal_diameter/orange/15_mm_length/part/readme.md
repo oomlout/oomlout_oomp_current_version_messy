@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: local angle
+  * bip 39 word 3: local angle blossom
+  * bip 39 word: local angle blossom civil say author era fish rich issue tape assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | local |  
+| bip_39_word_new_br10 | local<br>angle<br>blossom<br>civil<br>say<br>author<br>era<br>fish<br>rich<br>issue |  
+| bip_39_word_new_br11 | local<br>angle<br>blossom<br>civil<br>say<br>author<br>era<br>fish<br>rich<br>issue<br>tape |  
+| bip_39_word_new_br12 | local<br>angle<br>blossom<br>civil<br>say<br>author<br>era<br>fish<br>rich<br>issue<br>tape<br>assist |  
+| bip_39_word_new_br2 | local<br>angle |  
+| bip_39_word_new_br3 | local<br>angle<br>blossom |  
+| bip_39_word_new_br4 | local<br>angle<br>blossom<br>civil |  
+| bip_39_word_new_br5 | local<br>angle<br>blossom<br>civil<br>say |  
+| bip_39_word_new_br6 | local<br>angle<br>blossom<br>civil<br>say<br>author |  
+| bip_39_word_new_br7 | local<br>angle<br>blossom<br>civil<br>say<br>author<br>era |  
+| bip_39_word_new_br8 | local<br>angle<br>blossom<br>civil<br>say<br>author<br>era<br>fish |  
+| bip_39_word_new_br9 | local<br>angle<br>blossom<br>civil<br>say<br>author<br>era<br>fish<br>rich |  
+| bip_39_word_new_line1 | local |  
+| bip_39_word_new_line10 | local
+angle
+blossom
+civil
+say
+author
+era
+fish
+rich
+issue |  
+| bip_39_word_new_line11 | local
+angle
+blossom
+civil
+say
+author
+era
+fish
+rich
+issue
+tape |  
+| bip_39_word_new_line12 | local
+angle
+blossom
+civil
+say
+author
+era
+fish
+rich
+issue
+tape
+assist |  
+| bip_39_word_new_line2 | local
+angle |  
+| bip_39_word_new_line3 | local
+angle
+blossom |  
+| bip_39_word_new_line4 | local
+angle
+blossom
+civil |  
+| bip_39_word_new_line5 | local
+angle
+blossom
+civil
+say |  
+| bip_39_word_new_line6 | local
+angle
+blossom
+civil
+say
+author |  
+| bip_39_word_new_line7 | local
+angle
+blossom
+civil
+say
+author
+era |  
+| bip_39_word_new_line8 | local
+angle
+blossom
+civil
+say
+author
+era
+fish |  
+| bip_39_word_new_line9 | local
+angle
+blossom
+civil
+say
+author
+era
+fish
+rich |  
+| bip_39_word_space_0 | ['local', 'angle', 'blossom', 'civil', 'say', 'author', 'era', 'fish', 'rich', 'issue', 'tape', 'assist'] |  
+| bip_39_word_space_1 | local |  
+| bip_39_word_space_10 | local angle blossom civil say author era fish rich issue |  
+| bip_39_word_space_11 | local angle blossom civil say author era fish rich issue tape |  
+| bip_39_word_space_12 | local angle blossom civil say author era fish rich issue tape assist |  
+| bip_39_word_space_2 | local angle |  
+| bip_39_word_space_3 | local angle blossom |  
+| bip_39_word_space_4 | local angle blossom civil |  
+| bip_39_word_space_5 | local angle blossom civil say |  
+| bip_39_word_space_6 | local angle blossom civil say author |  
+| bip_39_word_space_7 | local angle blossom civil say author era |  
+| bip_39_word_space_8 | local angle blossom civil say author era fish |  
+| bip_39_word_space_9 | local angle blossom civil say author era fish rich |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

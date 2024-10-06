@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reform hospital
+  * bip 39 word 3: reform hospital shell
+  * bip 39 word: reform hospital shell easy envelope half mad gym citizen curve document album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reform |  
+| bip_39_word_new_br10 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half<br>mad<br>gym<br>citizen<br>curve |  
+| bip_39_word_new_br11 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half<br>mad<br>gym<br>citizen<br>curve<br>document |  
+| bip_39_word_new_br12 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half<br>mad<br>gym<br>citizen<br>curve<br>document<br>album |  
+| bip_39_word_new_br2 | reform<br>hospital |  
+| bip_39_word_new_br3 | reform<br>hospital<br>shell |  
+| bip_39_word_new_br4 | reform<br>hospital<br>shell<br>easy |  
+| bip_39_word_new_br5 | reform<br>hospital<br>shell<br>easy<br>envelope |  
+| bip_39_word_new_br6 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half |  
+| bip_39_word_new_br7 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half<br>mad |  
+| bip_39_word_new_br8 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half<br>mad<br>gym |  
+| bip_39_word_new_br9 | reform<br>hospital<br>shell<br>easy<br>envelope<br>half<br>mad<br>gym<br>citizen |  
+| bip_39_word_new_line1 | reform |  
+| bip_39_word_new_line10 | reform
+hospital
+shell
+easy
+envelope
+half
+mad
+gym
+citizen
+curve |  
+| bip_39_word_new_line11 | reform
+hospital
+shell
+easy
+envelope
+half
+mad
+gym
+citizen
+curve
+document |  
+| bip_39_word_new_line12 | reform
+hospital
+shell
+easy
+envelope
+half
+mad
+gym
+citizen
+curve
+document
+album |  
+| bip_39_word_new_line2 | reform
+hospital |  
+| bip_39_word_new_line3 | reform
+hospital
+shell |  
+| bip_39_word_new_line4 | reform
+hospital
+shell
+easy |  
+| bip_39_word_new_line5 | reform
+hospital
+shell
+easy
+envelope |  
+| bip_39_word_new_line6 | reform
+hospital
+shell
+easy
+envelope
+half |  
+| bip_39_word_new_line7 | reform
+hospital
+shell
+easy
+envelope
+half
+mad |  
+| bip_39_word_new_line8 | reform
+hospital
+shell
+easy
+envelope
+half
+mad
+gym |  
+| bip_39_word_new_line9 | reform
+hospital
+shell
+easy
+envelope
+half
+mad
+gym
+citizen |  
+| bip_39_word_space_0 | ['reform', 'hospital', 'shell', 'easy', 'envelope', 'half', 'mad', 'gym', 'citizen', 'curve', 'document', 'album'] |  
+| bip_39_word_space_1 | reform |  
+| bip_39_word_space_10 | reform hospital shell easy envelope half mad gym citizen curve |  
+| bip_39_word_space_11 | reform hospital shell easy envelope half mad gym citizen curve document |  
+| bip_39_word_space_12 | reform hospital shell easy envelope half mad gym citizen curve document album |  
+| bip_39_word_space_2 | reform hospital |  
+| bip_39_word_space_3 | reform hospital shell |  
+| bip_39_word_space_4 | reform hospital shell easy |  
+| bip_39_word_space_5 | reform hospital shell easy envelope |  
+| bip_39_word_space_6 | reform hospital shell easy envelope half |  
+| bip_39_word_space_7 | reform hospital shell easy envelope half mad |  
+| bip_39_word_space_8 | reform hospital shell easy envelope half mad gym |  
+| bip_39_word_space_9 | reform hospital shell easy envelope half mad gym citizen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

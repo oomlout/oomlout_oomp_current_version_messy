@@ -1,3 +1,186 @@
+bip_39_word_new_br1: attack
+bip_39_word_new_br10: attack<br>narrow<br>disagree<br>love<br>opera<br>wife<br>stage<br>step<br>oval<br>rocket
+bip_39_word_new_br11: attack<br>narrow<br>disagree<br>love<br>opera<br>wife<br>stage<br>step<br>oval<br>rocket<br>arrow
+bip_39_word_new_br12: attack<br>narrow<br>disagree<br>love<br>opera<br>wife<br>stage<br>step<br>oval<br>rocket<br>arrow<br>artwork
+bip_39_word_new_br2: attack<br>narrow
+bip_39_word_new_br3: attack<br>narrow<br>disagree
+bip_39_word_new_br4: attack<br>narrow<br>disagree<br>love
+bip_39_word_new_br5: attack<br>narrow<br>disagree<br>love<br>opera
+bip_39_word_new_br6: attack<br>narrow<br>disagree<br>love<br>opera<br>wife
+bip_39_word_new_br7: attack<br>narrow<br>disagree<br>love<br>opera<br>wife<br>stage
+bip_39_word_new_br8: attack<br>narrow<br>disagree<br>love<br>opera<br>wife<br>stage<br>step
+bip_39_word_new_br9: attack<br>narrow<br>disagree<br>love<br>opera<br>wife<br>stage<br>step<br>oval
+bip_39_word_new_line1: attack
+bip_39_word_new_line10: 'attack
+
+  narrow
+
+  disagree
+
+  love
+
+  opera
+
+  wife
+
+  stage
+
+  step
+
+  oval
+
+  rocket'
+bip_39_word_new_line11: 'attack
+
+  narrow
+
+  disagree
+
+  love
+
+  opera
+
+  wife
+
+  stage
+
+  step
+
+  oval
+
+  rocket
+
+  arrow'
+bip_39_word_new_line12: 'attack
+
+  narrow
+
+  disagree
+
+  love
+
+  opera
+
+  wife
+
+  stage
+
+  step
+
+  oval
+
+  rocket
+
+  arrow
+
+  artwork'
+bip_39_word_new_line2: 'attack
+
+  narrow'
+bip_39_word_new_line3: 'attack
+
+  narrow
+
+  disagree'
+bip_39_word_new_line4: 'attack
+
+  narrow
+
+  disagree
+
+  love'
+bip_39_word_new_line5: 'attack
+
+  narrow
+
+  disagree
+
+  love
+
+  opera'
+bip_39_word_new_line6: 'attack
+
+  narrow
+
+  disagree
+
+  love
+
+  opera
+
+  wife'
+bip_39_word_new_line7: 'attack
+
+  narrow
+
+  disagree
+
+  love
+
+  opera
+
+  wife
+
+  stage'
+bip_39_word_new_line8: 'attack
+
+  narrow
+
+  disagree
+
+  love
+
+  opera
+
+  wife
+
+  stage
+
+  step'
+bip_39_word_new_line9: 'attack
+
+  narrow
+
+  disagree
+
+  love
+
+  opera
+
+  wife
+
+  stage
+
+  step
+
+  oval'
+bip_39_word_space_0:
+- attack
+- narrow
+- disagree
+- love
+- opera
+- wife
+- stage
+- step
+- oval
+- rocket
+- arrow
+- artwork
+bip_39_word_space_1: attack
+bip_39_word_space_10: attack narrow disagree love opera wife stage step oval rocket
+bip_39_word_space_11: attack narrow disagree love opera wife stage step oval rocket
+  arrow
+bip_39_word_space_12: attack narrow disagree love opera wife stage step oval rocket
+  arrow artwork
+bip_39_word_space_2: attack narrow
+bip_39_word_space_3: attack narrow disagree
+bip_39_word_space_4: attack narrow disagree love
+bip_39_word_space_5: attack narrow disagree love opera
+bip_39_word_space_6: attack narrow disagree love opera wife
+bip_39_word_space_7: attack narrow disagree love opera wife stage
+bip_39_word_space_8: attack narrow disagree love opera wife stage step
+bip_39_word_space_9: attack narrow disagree love opera wife stage step oval
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

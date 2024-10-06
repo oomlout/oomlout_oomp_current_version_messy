@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: v
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cram reduce
+  * bip 39 word 3: cram reduce penalty
+  * bip 39 word: cram reduce penalty tourist dance elevator bean panic toss risk exclude auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cram |  
+| bip_39_word_new_br10 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk |  
+| bip_39_word_new_br11 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk<br>exclude |  
+| bip_39_word_new_br12 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss<br>risk<br>exclude<br>auto |  
+| bip_39_word_new_br2 | cram<br>reduce |  
+| bip_39_word_new_br3 | cram<br>reduce<br>penalty |  
+| bip_39_word_new_br4 | cram<br>reduce<br>penalty<br>tourist |  
+| bip_39_word_new_br5 | cram<br>reduce<br>penalty<br>tourist<br>dance |  
+| bip_39_word_new_br6 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator |  
+| bip_39_word_new_br7 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean |  
+| bip_39_word_new_br8 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic |  
+| bip_39_word_new_br9 | cram<br>reduce<br>penalty<br>tourist<br>dance<br>elevator<br>bean<br>panic<br>toss |  
+| bip_39_word_new_line1 | cram |  
+| bip_39_word_new_line10 | cram
+reduce
+penalty
+tourist
+dance
+elevator
+bean
+panic
+toss
+risk |  
+| bip_39_word_new_line11 | cram
+reduce
+penalty
+tourist
+dance
+elevator
+bean
+panic
+toss
+risk
+exclude |  
+| bip_39_word_new_line12 | cram
+reduce
+penalty
+tourist
+dance
+elevator
+bean
+panic
+toss
+risk
+exclude
+auto |  
+| bip_39_word_new_line2 | cram
+reduce |  
+| bip_39_word_new_line3 | cram
+reduce
+penalty |  
+| bip_39_word_new_line4 | cram
+reduce
+penalty
+tourist |  
+| bip_39_word_new_line5 | cram
+reduce
+penalty
+tourist
+dance |  
+| bip_39_word_new_line6 | cram
+reduce
+penalty
+tourist
+dance
+elevator |  
+| bip_39_word_new_line7 | cram
+reduce
+penalty
+tourist
+dance
+elevator
+bean |  
+| bip_39_word_new_line8 | cram
+reduce
+penalty
+tourist
+dance
+elevator
+bean
+panic |  
+| bip_39_word_new_line9 | cram
+reduce
+penalty
+tourist
+dance
+elevator
+bean
+panic
+toss |  
+| bip_39_word_space_0 | ['cram', 'reduce', 'penalty', 'tourist', 'dance', 'elevator', 'bean', 'panic', 'toss', 'risk', 'exclude', 'auto'] |  
+| bip_39_word_space_1 | cram |  
+| bip_39_word_space_10 | cram reduce penalty tourist dance elevator bean panic toss risk |  
+| bip_39_word_space_11 | cram reduce penalty tourist dance elevator bean panic toss risk exclude |  
+| bip_39_word_space_12 | cram reduce penalty tourist dance elevator bean panic toss risk exclude auto |  
+| bip_39_word_space_2 | cram reduce |  
+| bip_39_word_space_3 | cram reduce penalty |  
+| bip_39_word_space_4 | cram reduce penalty tourist |  
+| bip_39_word_space_5 | cram reduce penalty tourist dance |  
+| bip_39_word_space_6 | cram reduce penalty tourist dance elevator |  
+| bip_39_word_space_7 | cram reduce penalty tourist dance elevator bean |  
+| bip_39_word_space_8 | cram reduce penalty tourist dance elevator bean panic |  
+| bip_39_word_space_9 | cram reduce penalty tourist dance elevator bean panic toss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

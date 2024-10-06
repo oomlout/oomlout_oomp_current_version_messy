@@ -1,3 +1,186 @@
+bip_39_word_new_br1: worth
+bip_39_word_new_br10: worth<br>outer<br>cost<br>half<br>umbrella<br>artist<br>trash<br>guitar<br>vicious<br>bracket
+bip_39_word_new_br11: worth<br>outer<br>cost<br>half<br>umbrella<br>artist<br>trash<br>guitar<br>vicious<br>bracket<br>screen
+bip_39_word_new_br12: worth<br>outer<br>cost<br>half<br>umbrella<br>artist<br>trash<br>guitar<br>vicious<br>bracket<br>screen<br>author
+bip_39_word_new_br2: worth<br>outer
+bip_39_word_new_br3: worth<br>outer<br>cost
+bip_39_word_new_br4: worth<br>outer<br>cost<br>half
+bip_39_word_new_br5: worth<br>outer<br>cost<br>half<br>umbrella
+bip_39_word_new_br6: worth<br>outer<br>cost<br>half<br>umbrella<br>artist
+bip_39_word_new_br7: worth<br>outer<br>cost<br>half<br>umbrella<br>artist<br>trash
+bip_39_word_new_br8: worth<br>outer<br>cost<br>half<br>umbrella<br>artist<br>trash<br>guitar
+bip_39_word_new_br9: worth<br>outer<br>cost<br>half<br>umbrella<br>artist<br>trash<br>guitar<br>vicious
+bip_39_word_new_line1: worth
+bip_39_word_new_line10: 'worth
+
+  outer
+
+  cost
+
+  half
+
+  umbrella
+
+  artist
+
+  trash
+
+  guitar
+
+  vicious
+
+  bracket'
+bip_39_word_new_line11: 'worth
+
+  outer
+
+  cost
+
+  half
+
+  umbrella
+
+  artist
+
+  trash
+
+  guitar
+
+  vicious
+
+  bracket
+
+  screen'
+bip_39_word_new_line12: 'worth
+
+  outer
+
+  cost
+
+  half
+
+  umbrella
+
+  artist
+
+  trash
+
+  guitar
+
+  vicious
+
+  bracket
+
+  screen
+
+  author'
+bip_39_word_new_line2: 'worth
+
+  outer'
+bip_39_word_new_line3: 'worth
+
+  outer
+
+  cost'
+bip_39_word_new_line4: 'worth
+
+  outer
+
+  cost
+
+  half'
+bip_39_word_new_line5: 'worth
+
+  outer
+
+  cost
+
+  half
+
+  umbrella'
+bip_39_word_new_line6: 'worth
+
+  outer
+
+  cost
+
+  half
+
+  umbrella
+
+  artist'
+bip_39_word_new_line7: 'worth
+
+  outer
+
+  cost
+
+  half
+
+  umbrella
+
+  artist
+
+  trash'
+bip_39_word_new_line8: 'worth
+
+  outer
+
+  cost
+
+  half
+
+  umbrella
+
+  artist
+
+  trash
+
+  guitar'
+bip_39_word_new_line9: 'worth
+
+  outer
+
+  cost
+
+  half
+
+  umbrella
+
+  artist
+
+  trash
+
+  guitar
+
+  vicious'
+bip_39_word_space_0:
+- worth
+- outer
+- cost
+- half
+- umbrella
+- artist
+- trash
+- guitar
+- vicious
+- bracket
+- screen
+- author
+bip_39_word_space_1: worth
+bip_39_word_space_10: worth outer cost half umbrella artist trash guitar vicious bracket
+bip_39_word_space_11: worth outer cost half umbrella artist trash guitar vicious bracket
+  screen
+bip_39_word_space_12: worth outer cost half umbrella artist trash guitar vicious bracket
+  screen author
+bip_39_word_space_2: worth outer
+bip_39_word_space_3: worth outer cost
+bip_39_word_space_4: worth outer cost half
+bip_39_word_space_5: worth outer cost half umbrella
+bip_39_word_space_6: worth outer cost half umbrella artist
+bip_39_word_space_7: worth outer cost half umbrella artist trash
+bip_39_word_space_8: worth outer cost half umbrella artist trash guitar
+bip_39_word_space_9: worth outer cost half umbrella artist trash guitar vicious
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

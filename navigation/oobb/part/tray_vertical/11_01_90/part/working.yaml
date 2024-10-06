@@ -1,3 +1,186 @@
+bip_39_word_new_br1: quantum
+bip_39_word_new_br10: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony
+bip_39_word_new_br11: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony<br>normal
+bip_39_word_new_br12: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need<br>balcony<br>normal<br>adapt
+bip_39_word_new_br2: quantum<br>spoon
+bip_39_word_new_br3: quantum<br>spoon<br>brother
+bip_39_word_new_br4: quantum<br>spoon<br>brother<br>fade
+bip_39_word_new_br5: quantum<br>spoon<br>brother<br>fade<br>pitch
+bip_39_word_new_br6: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer
+bip_39_word_new_br7: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt
+bip_39_word_new_br8: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow
+bip_39_word_new_br9: quantum<br>spoon<br>brother<br>fade<br>pitch<br>deer<br>belt<br>eyebrow<br>need
+bip_39_word_new_line1: quantum
+bip_39_word_new_line10: 'quantum
+
+  spoon
+
+  brother
+
+  fade
+
+  pitch
+
+  deer
+
+  belt
+
+  eyebrow
+
+  need
+
+  balcony'
+bip_39_word_new_line11: 'quantum
+
+  spoon
+
+  brother
+
+  fade
+
+  pitch
+
+  deer
+
+  belt
+
+  eyebrow
+
+  need
+
+  balcony
+
+  normal'
+bip_39_word_new_line12: 'quantum
+
+  spoon
+
+  brother
+
+  fade
+
+  pitch
+
+  deer
+
+  belt
+
+  eyebrow
+
+  need
+
+  balcony
+
+  normal
+
+  adapt'
+bip_39_word_new_line2: 'quantum
+
+  spoon'
+bip_39_word_new_line3: 'quantum
+
+  spoon
+
+  brother'
+bip_39_word_new_line4: 'quantum
+
+  spoon
+
+  brother
+
+  fade'
+bip_39_word_new_line5: 'quantum
+
+  spoon
+
+  brother
+
+  fade
+
+  pitch'
+bip_39_word_new_line6: 'quantum
+
+  spoon
+
+  brother
+
+  fade
+
+  pitch
+
+  deer'
+bip_39_word_new_line7: 'quantum
+
+  spoon
+
+  brother
+
+  fade
+
+  pitch
+
+  deer
+
+  belt'
+bip_39_word_new_line8: 'quantum
+
+  spoon
+
+  brother
+
+  fade
+
+  pitch
+
+  deer
+
+  belt
+
+  eyebrow'
+bip_39_word_new_line9: 'quantum
+
+  spoon
+
+  brother
+
+  fade
+
+  pitch
+
+  deer
+
+  belt
+
+  eyebrow
+
+  need'
+bip_39_word_space_0:
+- quantum
+- spoon
+- brother
+- fade
+- pitch
+- deer
+- belt
+- eyebrow
+- need
+- balcony
+- normal
+- adapt
+bip_39_word_space_1: quantum
+bip_39_word_space_10: quantum spoon brother fade pitch deer belt eyebrow need balcony
+bip_39_word_space_11: quantum spoon brother fade pitch deer belt eyebrow need balcony
+  normal
+bip_39_word_space_12: quantum spoon brother fade pitch deer belt eyebrow need balcony
+  normal adapt
+bip_39_word_space_2: quantum spoon
+bip_39_word_space_3: quantum spoon brother
+bip_39_word_space_4: quantum spoon brother fade
+bip_39_word_space_5: quantum spoon brother fade pitch
+bip_39_word_space_6: quantum spoon brother fade pitch deer
+bip_39_word_space_7: quantum spoon brother fade pitch deer belt
+bip_39_word_space_8: quantum spoon brother fade pitch deer belt eyebrow
+bip_39_word_space_9: quantum spoon brother fade pitch deer belt eyebrow need
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

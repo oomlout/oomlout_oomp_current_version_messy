@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: powder cup
+  * bip 39 word 3: powder cup enable
+  * bip 39 word: powder cup enable shield ordinary fox rule floor clerk virus ten among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | powder |  
+| bip_39_word_new_br10 | powder<br>cup<br>enable<br>shield<br>ordinary<br>fox<br>rule<br>floor<br>clerk<br>virus |  
+| bip_39_word_new_br11 | powder<br>cup<br>enable<br>shield<br>ordinary<br>fox<br>rule<br>floor<br>clerk<br>virus<br>ten |  
+| bip_39_word_new_br12 | powder<br>cup<br>enable<br>shield<br>ordinary<br>fox<br>rule<br>floor<br>clerk<br>virus<br>ten<br>among |  
+| bip_39_word_new_br2 | powder<br>cup |  
+| bip_39_word_new_br3 | powder<br>cup<br>enable |  
+| bip_39_word_new_br4 | powder<br>cup<br>enable<br>shield |  
+| bip_39_word_new_br5 | powder<br>cup<br>enable<br>shield<br>ordinary |  
+| bip_39_word_new_br6 | powder<br>cup<br>enable<br>shield<br>ordinary<br>fox |  
+| bip_39_word_new_br7 | powder<br>cup<br>enable<br>shield<br>ordinary<br>fox<br>rule |  
+| bip_39_word_new_br8 | powder<br>cup<br>enable<br>shield<br>ordinary<br>fox<br>rule<br>floor |  
+| bip_39_word_new_br9 | powder<br>cup<br>enable<br>shield<br>ordinary<br>fox<br>rule<br>floor<br>clerk |  
+| bip_39_word_new_line1 | powder |  
+| bip_39_word_new_line10 | powder
+cup
+enable
+shield
+ordinary
+fox
+rule
+floor
+clerk
+virus |  
+| bip_39_word_new_line11 | powder
+cup
+enable
+shield
+ordinary
+fox
+rule
+floor
+clerk
+virus
+ten |  
+| bip_39_word_new_line12 | powder
+cup
+enable
+shield
+ordinary
+fox
+rule
+floor
+clerk
+virus
+ten
+among |  
+| bip_39_word_new_line2 | powder
+cup |  
+| bip_39_word_new_line3 | powder
+cup
+enable |  
+| bip_39_word_new_line4 | powder
+cup
+enable
+shield |  
+| bip_39_word_new_line5 | powder
+cup
+enable
+shield
+ordinary |  
+| bip_39_word_new_line6 | powder
+cup
+enable
+shield
+ordinary
+fox |  
+| bip_39_word_new_line7 | powder
+cup
+enable
+shield
+ordinary
+fox
+rule |  
+| bip_39_word_new_line8 | powder
+cup
+enable
+shield
+ordinary
+fox
+rule
+floor |  
+| bip_39_word_new_line9 | powder
+cup
+enable
+shield
+ordinary
+fox
+rule
+floor
+clerk |  
+| bip_39_word_space_0 | ['powder', 'cup', 'enable', 'shield', 'ordinary', 'fox', 'rule', 'floor', 'clerk', 'virus', 'ten', 'among'] |  
+| bip_39_word_space_1 | powder |  
+| bip_39_word_space_10 | powder cup enable shield ordinary fox rule floor clerk virus |  
+| bip_39_word_space_11 | powder cup enable shield ordinary fox rule floor clerk virus ten |  
+| bip_39_word_space_12 | powder cup enable shield ordinary fox rule floor clerk virus ten among |  
+| bip_39_word_space_2 | powder cup |  
+| bip_39_word_space_3 | powder cup enable |  
+| bip_39_word_space_4 | powder cup enable shield |  
+| bip_39_word_space_5 | powder cup enable shield ordinary |  
+| bip_39_word_space_6 | powder cup enable shield ordinary fox |  
+| bip_39_word_space_7 | powder cup enable shield ordinary fox rule |  
+| bip_39_word_space_8 | powder cup enable shield ordinary fox rule floor |  
+| bip_39_word_space_9 | powder cup enable shield ordinary fox rule floor clerk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

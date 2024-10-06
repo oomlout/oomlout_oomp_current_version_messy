@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pottery ability
+  * bip 39 word 3: pottery ability someone
+  * bip 39 word: pottery ability someone sure cancel will media grab agent fortune glad aerobic
 
 ### other_codes
 * short_code: sc4b25h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pottery |  
+| bip_39_word_new_br10 | pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune |  
+| bip_39_word_new_br11 | pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune<br>glad |  
+| bip_39_word_new_br12 | pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune<br>glad<br>aerobic |  
+| bip_39_word_new_br2 | pottery<br>ability |  
+| bip_39_word_new_br3 | pottery<br>ability<br>someone |  
+| bip_39_word_new_br4 | pottery<br>ability<br>someone<br>sure |  
+| bip_39_word_new_br5 | pottery<br>ability<br>someone<br>sure<br>cancel |  
+| bip_39_word_new_br6 | pottery<br>ability<br>someone<br>sure<br>cancel<br>will |  
+| bip_39_word_new_br7 | pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media |  
+| bip_39_word_new_br8 | pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab |  
+| bip_39_word_new_br9 | pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent |  
+| bip_39_word_new_line1 | pottery |  
+| bip_39_word_new_line10 | pottery
+ability
+someone
+sure
+cancel
+will
+media
+grab
+agent
+fortune |  
+| bip_39_word_new_line11 | pottery
+ability
+someone
+sure
+cancel
+will
+media
+grab
+agent
+fortune
+glad |  
+| bip_39_word_new_line12 | pottery
+ability
+someone
+sure
+cancel
+will
+media
+grab
+agent
+fortune
+glad
+aerobic |  
+| bip_39_word_new_line2 | pottery
+ability |  
+| bip_39_word_new_line3 | pottery
+ability
+someone |  
+| bip_39_word_new_line4 | pottery
+ability
+someone
+sure |  
+| bip_39_word_new_line5 | pottery
+ability
+someone
+sure
+cancel |  
+| bip_39_word_new_line6 | pottery
+ability
+someone
+sure
+cancel
+will |  
+| bip_39_word_new_line7 | pottery
+ability
+someone
+sure
+cancel
+will
+media |  
+| bip_39_word_new_line8 | pottery
+ability
+someone
+sure
+cancel
+will
+media
+grab |  
+| bip_39_word_new_line9 | pottery
+ability
+someone
+sure
+cancel
+will
+media
+grab
+agent |  
+| bip_39_word_space_0 | ['pottery', 'ability', 'someone', 'sure', 'cancel', 'will', 'media', 'grab', 'agent', 'fortune', 'glad', 'aerobic'] |  
+| bip_39_word_space_1 | pottery |  
+| bip_39_word_space_10 | pottery ability someone sure cancel will media grab agent fortune |  
+| bip_39_word_space_11 | pottery ability someone sure cancel will media grab agent fortune glad |  
+| bip_39_word_space_12 | pottery ability someone sure cancel will media grab agent fortune glad aerobic |  
+| bip_39_word_space_2 | pottery ability |  
+| bip_39_word_space_3 | pottery ability someone |  
+| bip_39_word_space_4 | pottery ability someone sure |  
+| bip_39_word_space_5 | pottery ability someone sure cancel |  
+| bip_39_word_space_6 | pottery ability someone sure cancel will |  
+| bip_39_word_space_7 | pottery ability someone sure cancel will media |  
+| bip_39_word_space_8 | pottery ability someone sure cancel will media grab |  
+| bip_39_word_space_9 | pottery ability someone sure cancel will media grab agent |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: defense piece
+  * bip 39 word 3: defense piece sunny
+  * bip 39 word: defense piece sunny salon van custom foil update since donkey remind ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | defense |  
+| bip_39_word_new_br10 | defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since<br>donkey |  
+| bip_39_word_new_br11 | defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since<br>donkey<br>remind |  
+| bip_39_word_new_br12 | defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since<br>donkey<br>remind<br>ask |  
+| bip_39_word_new_br2 | defense<br>piece |  
+| bip_39_word_new_br3 | defense<br>piece<br>sunny |  
+| bip_39_word_new_br4 | defense<br>piece<br>sunny<br>salon |  
+| bip_39_word_new_br5 | defense<br>piece<br>sunny<br>salon<br>van |  
+| bip_39_word_new_br6 | defense<br>piece<br>sunny<br>salon<br>van<br>custom |  
+| bip_39_word_new_br7 | defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil |  
+| bip_39_word_new_br8 | defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update |  
+| bip_39_word_new_br9 | defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since |  
+| bip_39_word_new_line1 | defense |  
+| bip_39_word_new_line10 | defense
+piece
+sunny
+salon
+van
+custom
+foil
+update
+since
+donkey |  
+| bip_39_word_new_line11 | defense
+piece
+sunny
+salon
+van
+custom
+foil
+update
+since
+donkey
+remind |  
+| bip_39_word_new_line12 | defense
+piece
+sunny
+salon
+van
+custom
+foil
+update
+since
+donkey
+remind
+ask |  
+| bip_39_word_new_line2 | defense
+piece |  
+| bip_39_word_new_line3 | defense
+piece
+sunny |  
+| bip_39_word_new_line4 | defense
+piece
+sunny
+salon |  
+| bip_39_word_new_line5 | defense
+piece
+sunny
+salon
+van |  
+| bip_39_word_new_line6 | defense
+piece
+sunny
+salon
+van
+custom |  
+| bip_39_word_new_line7 | defense
+piece
+sunny
+salon
+van
+custom
+foil |  
+| bip_39_word_new_line8 | defense
+piece
+sunny
+salon
+van
+custom
+foil
+update |  
+| bip_39_word_new_line9 | defense
+piece
+sunny
+salon
+van
+custom
+foil
+update
+since |  
+| bip_39_word_space_0 | ['defense', 'piece', 'sunny', 'salon', 'van', 'custom', 'foil', 'update', 'since', 'donkey', 'remind', 'ask'] |  
+| bip_39_word_space_1 | defense |  
+| bip_39_word_space_10 | defense piece sunny salon van custom foil update since donkey |  
+| bip_39_word_space_11 | defense piece sunny salon van custom foil update since donkey remind |  
+| bip_39_word_space_12 | defense piece sunny salon van custom foil update since donkey remind ask |  
+| bip_39_word_space_2 | defense piece |  
+| bip_39_word_space_3 | defense piece sunny |  
+| bip_39_word_space_4 | defense piece sunny salon |  
+| bip_39_word_space_5 | defense piece sunny salon van |  
+| bip_39_word_space_6 | defense piece sunny salon van custom |  
+| bip_39_word_space_7 | defense piece sunny salon van custom foil |  
+| bip_39_word_space_8 | defense piece sunny salon van custom foil update |  
+| bip_39_word_space_9 | defense piece sunny salon van custom foil update since |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

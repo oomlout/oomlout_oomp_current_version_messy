@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: image any
+  * bip 39 word 3: image any apology
+  * bip 39 word: image any apology extend smooth mule old ice weird afford barely able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | image |  
+| bip_39_word_new_br10 | image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford |  
+| bip_39_word_new_br11 | image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford<br>barely |  
+| bip_39_word_new_br12 | image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird<br>afford<br>barely<br>able |  
+| bip_39_word_new_br2 | image<br>any |  
+| bip_39_word_new_br3 | image<br>any<br>apology |  
+| bip_39_word_new_br4 | image<br>any<br>apology<br>extend |  
+| bip_39_word_new_br5 | image<br>any<br>apology<br>extend<br>smooth |  
+| bip_39_word_new_br6 | image<br>any<br>apology<br>extend<br>smooth<br>mule |  
+| bip_39_word_new_br7 | image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old |  
+| bip_39_word_new_br8 | image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice |  
+| bip_39_word_new_br9 | image<br>any<br>apology<br>extend<br>smooth<br>mule<br>old<br>ice<br>weird |  
+| bip_39_word_new_line1 | image |  
+| bip_39_word_new_line10 | image
+any
+apology
+extend
+smooth
+mule
+old
+ice
+weird
+afford |  
+| bip_39_word_new_line11 | image
+any
+apology
+extend
+smooth
+mule
+old
+ice
+weird
+afford
+barely |  
+| bip_39_word_new_line12 | image
+any
+apology
+extend
+smooth
+mule
+old
+ice
+weird
+afford
+barely
+able |  
+| bip_39_word_new_line2 | image
+any |  
+| bip_39_word_new_line3 | image
+any
+apology |  
+| bip_39_word_new_line4 | image
+any
+apology
+extend |  
+| bip_39_word_new_line5 | image
+any
+apology
+extend
+smooth |  
+| bip_39_word_new_line6 | image
+any
+apology
+extend
+smooth
+mule |  
+| bip_39_word_new_line7 | image
+any
+apology
+extend
+smooth
+mule
+old |  
+| bip_39_word_new_line8 | image
+any
+apology
+extend
+smooth
+mule
+old
+ice |  
+| bip_39_word_new_line9 | image
+any
+apology
+extend
+smooth
+mule
+old
+ice
+weird |  
+| bip_39_word_space_0 | ['image', 'any', 'apology', 'extend', 'smooth', 'mule', 'old', 'ice', 'weird', 'afford', 'barely', 'able'] |  
+| bip_39_word_space_1 | image |  
+| bip_39_word_space_10 | image any apology extend smooth mule old ice weird afford |  
+| bip_39_word_space_11 | image any apology extend smooth mule old ice weird afford barely |  
+| bip_39_word_space_12 | image any apology extend smooth mule old ice weird afford barely able |  
+| bip_39_word_space_2 | image any |  
+| bip_39_word_space_3 | image any apology |  
+| bip_39_word_space_4 | image any apology extend |  
+| bip_39_word_space_5 | image any apology extend smooth |  
+| bip_39_word_space_6 | image any apology extend smooth mule |  
+| bip_39_word_space_7 | image any apology extend smooth mule old |  
+| bip_39_word_space_8 | image any apology extend smooth mule old ice |  
+| bip_39_word_space_9 | image any apology extend smooth mule old ice weird |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

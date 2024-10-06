@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: witness chalk
+  * bip 39 word 3: witness chalk remind
+  * bip 39 word: witness chalk remind uncover boil vault disagree insane siren grit gap attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | witness |  
+| bip_39_word_new_br10 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault<br>disagree<br>insane<br>siren<br>grit |  
+| bip_39_word_new_br11 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault<br>disagree<br>insane<br>siren<br>grit<br>gap |  
+| bip_39_word_new_br12 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault<br>disagree<br>insane<br>siren<br>grit<br>gap<br>attack |  
+| bip_39_word_new_br2 | witness<br>chalk |  
+| bip_39_word_new_br3 | witness<br>chalk<br>remind |  
+| bip_39_word_new_br4 | witness<br>chalk<br>remind<br>uncover |  
+| bip_39_word_new_br5 | witness<br>chalk<br>remind<br>uncover<br>boil |  
+| bip_39_word_new_br6 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault |  
+| bip_39_word_new_br7 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault<br>disagree |  
+| bip_39_word_new_br8 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault<br>disagree<br>insane |  
+| bip_39_word_new_br9 | witness<br>chalk<br>remind<br>uncover<br>boil<br>vault<br>disagree<br>insane<br>siren |  
+| bip_39_word_new_line1 | witness |  
+| bip_39_word_new_line10 | witness
+chalk
+remind
+uncover
+boil
+vault
+disagree
+insane
+siren
+grit |  
+| bip_39_word_new_line11 | witness
+chalk
+remind
+uncover
+boil
+vault
+disagree
+insane
+siren
+grit
+gap |  
+| bip_39_word_new_line12 | witness
+chalk
+remind
+uncover
+boil
+vault
+disagree
+insane
+siren
+grit
+gap
+attack |  
+| bip_39_word_new_line2 | witness
+chalk |  
+| bip_39_word_new_line3 | witness
+chalk
+remind |  
+| bip_39_word_new_line4 | witness
+chalk
+remind
+uncover |  
+| bip_39_word_new_line5 | witness
+chalk
+remind
+uncover
+boil |  
+| bip_39_word_new_line6 | witness
+chalk
+remind
+uncover
+boil
+vault |  
+| bip_39_word_new_line7 | witness
+chalk
+remind
+uncover
+boil
+vault
+disagree |  
+| bip_39_word_new_line8 | witness
+chalk
+remind
+uncover
+boil
+vault
+disagree
+insane |  
+| bip_39_word_new_line9 | witness
+chalk
+remind
+uncover
+boil
+vault
+disagree
+insane
+siren |  
+| bip_39_word_space_0 | ['witness', 'chalk', 'remind', 'uncover', 'boil', 'vault', 'disagree', 'insane', 'siren', 'grit', 'gap', 'attack'] |  
+| bip_39_word_space_1 | witness |  
+| bip_39_word_space_10 | witness chalk remind uncover boil vault disagree insane siren grit |  
+| bip_39_word_space_11 | witness chalk remind uncover boil vault disagree insane siren grit gap |  
+| bip_39_word_space_12 | witness chalk remind uncover boil vault disagree insane siren grit gap attack |  
+| bip_39_word_space_2 | witness chalk |  
+| bip_39_word_space_3 | witness chalk remind |  
+| bip_39_word_space_4 | witness chalk remind uncover |  
+| bip_39_word_space_5 | witness chalk remind uncover boil |  
+| bip_39_word_space_6 | witness chalk remind uncover boil vault |  
+| bip_39_word_space_7 | witness chalk remind uncover boil vault disagree |  
+| bip_39_word_space_8 | witness chalk remind uncover boil vault disagree insane |  
+| bip_39_word_space_9 | witness chalk remind uncover boil vault disagree insane siren |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

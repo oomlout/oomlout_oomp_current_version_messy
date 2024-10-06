@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spirit
+bip_39_word_new_br10: spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner
+bip_39_word_new_br11: spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner<br>nature
+bip_39_word_new_br12: spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve<br>winner<br>nature<br>add
+bip_39_word_new_br2: spirit<br>wood
+bip_39_word_new_br3: spirit<br>wood<br>practice
+bip_39_word_new_br4: spirit<br>wood<br>practice<br>shock
+bip_39_word_new_br5: spirit<br>wood<br>practice<br>shock<br>almost
+bip_39_word_new_br6: spirit<br>wood<br>practice<br>shock<br>almost<br>step
+bip_39_word_new_br7: spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush
+bip_39_word_new_br8: spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose
+bip_39_word_new_br9: spirit<br>wood<br>practice<br>shock<br>almost<br>step<br>blush<br>purpose<br>curve
+bip_39_word_new_line1: spirit
+bip_39_word_new_line10: 'spirit
+
+  wood
+
+  practice
+
+  shock
+
+  almost
+
+  step
+
+  blush
+
+  purpose
+
+  curve
+
+  winner'
+bip_39_word_new_line11: 'spirit
+
+  wood
+
+  practice
+
+  shock
+
+  almost
+
+  step
+
+  blush
+
+  purpose
+
+  curve
+
+  winner
+
+  nature'
+bip_39_word_new_line12: 'spirit
+
+  wood
+
+  practice
+
+  shock
+
+  almost
+
+  step
+
+  blush
+
+  purpose
+
+  curve
+
+  winner
+
+  nature
+
+  add'
+bip_39_word_new_line2: 'spirit
+
+  wood'
+bip_39_word_new_line3: 'spirit
+
+  wood
+
+  practice'
+bip_39_word_new_line4: 'spirit
+
+  wood
+
+  practice
+
+  shock'
+bip_39_word_new_line5: 'spirit
+
+  wood
+
+  practice
+
+  shock
+
+  almost'
+bip_39_word_new_line6: 'spirit
+
+  wood
+
+  practice
+
+  shock
+
+  almost
+
+  step'
+bip_39_word_new_line7: 'spirit
+
+  wood
+
+  practice
+
+  shock
+
+  almost
+
+  step
+
+  blush'
+bip_39_word_new_line8: 'spirit
+
+  wood
+
+  practice
+
+  shock
+
+  almost
+
+  step
+
+  blush
+
+  purpose'
+bip_39_word_new_line9: 'spirit
+
+  wood
+
+  practice
+
+  shock
+
+  almost
+
+  step
+
+  blush
+
+  purpose
+
+  curve'
+bip_39_word_space_0:
+- spirit
+- wood
+- practice
+- shock
+- almost
+- step
+- blush
+- purpose
+- curve
+- winner
+- nature
+- add
+bip_39_word_space_1: spirit
+bip_39_word_space_10: spirit wood practice shock almost step blush purpose curve winner
+bip_39_word_space_11: spirit wood practice shock almost step blush purpose curve winner
+  nature
+bip_39_word_space_12: spirit wood practice shock almost step blush purpose curve winner
+  nature add
+bip_39_word_space_2: spirit wood
+bip_39_word_space_3: spirit wood practice
+bip_39_word_space_4: spirit wood practice shock
+bip_39_word_space_5: spirit wood practice shock almost
+bip_39_word_space_6: spirit wood practice shock almost step
+bip_39_word_space_7: spirit wood practice shock almost step blush
+bip_39_word_space_8: spirit wood practice shock almost step blush purpose
+bip_39_word_space_9: spirit wood practice shock almost step blush purpose curve
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

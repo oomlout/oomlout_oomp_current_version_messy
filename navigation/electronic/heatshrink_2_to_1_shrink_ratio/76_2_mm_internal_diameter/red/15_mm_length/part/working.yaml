@@ -1,3 +1,186 @@
+bip_39_word_new_br1: black
+bip_39_word_new_br10: black<br>high<br>express<br>borrow<br>toddler<br>reward<br>public<br>good<br>chase<br>judge
+bip_39_word_new_br11: black<br>high<br>express<br>borrow<br>toddler<br>reward<br>public<br>good<br>chase<br>judge<br>cover
+bip_39_word_new_br12: black<br>high<br>express<br>borrow<br>toddler<br>reward<br>public<br>good<br>chase<br>judge<br>cover<br>assume
+bip_39_word_new_br2: black<br>high
+bip_39_word_new_br3: black<br>high<br>express
+bip_39_word_new_br4: black<br>high<br>express<br>borrow
+bip_39_word_new_br5: black<br>high<br>express<br>borrow<br>toddler
+bip_39_word_new_br6: black<br>high<br>express<br>borrow<br>toddler<br>reward
+bip_39_word_new_br7: black<br>high<br>express<br>borrow<br>toddler<br>reward<br>public
+bip_39_word_new_br8: black<br>high<br>express<br>borrow<br>toddler<br>reward<br>public<br>good
+bip_39_word_new_br9: black<br>high<br>express<br>borrow<br>toddler<br>reward<br>public<br>good<br>chase
+bip_39_word_new_line1: black
+bip_39_word_new_line10: 'black
+
+  high
+
+  express
+
+  borrow
+
+  toddler
+
+  reward
+
+  public
+
+  good
+
+  chase
+
+  judge'
+bip_39_word_new_line11: 'black
+
+  high
+
+  express
+
+  borrow
+
+  toddler
+
+  reward
+
+  public
+
+  good
+
+  chase
+
+  judge
+
+  cover'
+bip_39_word_new_line12: 'black
+
+  high
+
+  express
+
+  borrow
+
+  toddler
+
+  reward
+
+  public
+
+  good
+
+  chase
+
+  judge
+
+  cover
+
+  assume'
+bip_39_word_new_line2: 'black
+
+  high'
+bip_39_word_new_line3: 'black
+
+  high
+
+  express'
+bip_39_word_new_line4: 'black
+
+  high
+
+  express
+
+  borrow'
+bip_39_word_new_line5: 'black
+
+  high
+
+  express
+
+  borrow
+
+  toddler'
+bip_39_word_new_line6: 'black
+
+  high
+
+  express
+
+  borrow
+
+  toddler
+
+  reward'
+bip_39_word_new_line7: 'black
+
+  high
+
+  express
+
+  borrow
+
+  toddler
+
+  reward
+
+  public'
+bip_39_word_new_line8: 'black
+
+  high
+
+  express
+
+  borrow
+
+  toddler
+
+  reward
+
+  public
+
+  good'
+bip_39_word_new_line9: 'black
+
+  high
+
+  express
+
+  borrow
+
+  toddler
+
+  reward
+
+  public
+
+  good
+
+  chase'
+bip_39_word_space_0:
+- black
+- high
+- express
+- borrow
+- toddler
+- reward
+- public
+- good
+- chase
+- judge
+- cover
+- assume
+bip_39_word_space_1: black
+bip_39_word_space_10: black high express borrow toddler reward public good chase judge
+bip_39_word_space_11: black high express borrow toddler reward public good chase judge
+  cover
+bip_39_word_space_12: black high express borrow toddler reward public good chase judge
+  cover assume
+bip_39_word_space_2: black high
+bip_39_word_space_3: black high express
+bip_39_word_space_4: black high express borrow
+bip_39_word_space_5: black high express borrow toddler
+bip_39_word_space_6: black high express borrow toddler reward
+bip_39_word_space_7: black high express borrow toddler reward public
+bip_39_word_space_8: black high express borrow toddler reward public good
+bip_39_word_space_9: black high express borrow toddler reward public good chase
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

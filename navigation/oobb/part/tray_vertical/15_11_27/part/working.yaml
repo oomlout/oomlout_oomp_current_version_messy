@@ -1,3 +1,186 @@
+bip_39_word_new_br1: victory
+bip_39_word_new_br10: victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear
+bip_39_word_new_br11: victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear<br>list
+bip_39_word_new_br12: victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish<br>pear<br>list<br>alcohol
+bip_39_word_new_br2: victory<br>friend
+bip_39_word_new_br3: victory<br>friend<br>subject
+bip_39_word_new_br4: victory<br>friend<br>subject<br>agree
+bip_39_word_new_br5: victory<br>friend<br>subject<br>agree<br>satisfy
+bip_39_word_new_br6: victory<br>friend<br>subject<br>agree<br>satisfy<br>pool
+bip_39_word_new_br7: victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap
+bip_39_word_new_br8: victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely
+bip_39_word_new_br9: victory<br>friend<br>subject<br>agree<br>satisfy<br>pool<br>wrap<br>barely<br>dish
+bip_39_word_new_line1: victory
+bip_39_word_new_line10: 'victory
+
+  friend
+
+  subject
+
+  agree
+
+  satisfy
+
+  pool
+
+  wrap
+
+  barely
+
+  dish
+
+  pear'
+bip_39_word_new_line11: 'victory
+
+  friend
+
+  subject
+
+  agree
+
+  satisfy
+
+  pool
+
+  wrap
+
+  barely
+
+  dish
+
+  pear
+
+  list'
+bip_39_word_new_line12: 'victory
+
+  friend
+
+  subject
+
+  agree
+
+  satisfy
+
+  pool
+
+  wrap
+
+  barely
+
+  dish
+
+  pear
+
+  list
+
+  alcohol'
+bip_39_word_new_line2: 'victory
+
+  friend'
+bip_39_word_new_line3: 'victory
+
+  friend
+
+  subject'
+bip_39_word_new_line4: 'victory
+
+  friend
+
+  subject
+
+  agree'
+bip_39_word_new_line5: 'victory
+
+  friend
+
+  subject
+
+  agree
+
+  satisfy'
+bip_39_word_new_line6: 'victory
+
+  friend
+
+  subject
+
+  agree
+
+  satisfy
+
+  pool'
+bip_39_word_new_line7: 'victory
+
+  friend
+
+  subject
+
+  agree
+
+  satisfy
+
+  pool
+
+  wrap'
+bip_39_word_new_line8: 'victory
+
+  friend
+
+  subject
+
+  agree
+
+  satisfy
+
+  pool
+
+  wrap
+
+  barely'
+bip_39_word_new_line9: 'victory
+
+  friend
+
+  subject
+
+  agree
+
+  satisfy
+
+  pool
+
+  wrap
+
+  barely
+
+  dish'
+bip_39_word_space_0:
+- victory
+- friend
+- subject
+- agree
+- satisfy
+- pool
+- wrap
+- barely
+- dish
+- pear
+- list
+- alcohol
+bip_39_word_space_1: victory
+bip_39_word_space_10: victory friend subject agree satisfy pool wrap barely dish pear
+bip_39_word_space_11: victory friend subject agree satisfy pool wrap barely dish pear
+  list
+bip_39_word_space_12: victory friend subject agree satisfy pool wrap barely dish pear
+  list alcohol
+bip_39_word_space_2: victory friend
+bip_39_word_space_3: victory friend subject
+bip_39_word_space_4: victory friend subject agree
+bip_39_word_space_5: victory friend subject agree satisfy
+bip_39_word_space_6: victory friend subject agree satisfy pool
+bip_39_word_space_7: victory friend subject agree satisfy pool wrap
+bip_39_word_space_8: victory friend subject agree satisfy pool wrap barely
+bip_39_word_space_9: victory friend subject agree satisfy pool wrap barely dish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

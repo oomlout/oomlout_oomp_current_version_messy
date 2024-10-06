@@ -1,3 +1,186 @@
+bip_39_word_new_br1: company
+bip_39_word_new_br10: company<br>budget<br>acquire<br>lion<br>melt<br>snap<br>verify<br>size<br>blast<br>hard
+bip_39_word_new_br11: company<br>budget<br>acquire<br>lion<br>melt<br>snap<br>verify<br>size<br>blast<br>hard<br>various
+bip_39_word_new_br12: company<br>budget<br>acquire<br>lion<br>melt<br>snap<br>verify<br>size<br>blast<br>hard<br>various<br>auto
+bip_39_word_new_br2: company<br>budget
+bip_39_word_new_br3: company<br>budget<br>acquire
+bip_39_word_new_br4: company<br>budget<br>acquire<br>lion
+bip_39_word_new_br5: company<br>budget<br>acquire<br>lion<br>melt
+bip_39_word_new_br6: company<br>budget<br>acquire<br>lion<br>melt<br>snap
+bip_39_word_new_br7: company<br>budget<br>acquire<br>lion<br>melt<br>snap<br>verify
+bip_39_word_new_br8: company<br>budget<br>acquire<br>lion<br>melt<br>snap<br>verify<br>size
+bip_39_word_new_br9: company<br>budget<br>acquire<br>lion<br>melt<br>snap<br>verify<br>size<br>blast
+bip_39_word_new_line1: company
+bip_39_word_new_line10: 'company
+
+  budget
+
+  acquire
+
+  lion
+
+  melt
+
+  snap
+
+  verify
+
+  size
+
+  blast
+
+  hard'
+bip_39_word_new_line11: 'company
+
+  budget
+
+  acquire
+
+  lion
+
+  melt
+
+  snap
+
+  verify
+
+  size
+
+  blast
+
+  hard
+
+  various'
+bip_39_word_new_line12: 'company
+
+  budget
+
+  acquire
+
+  lion
+
+  melt
+
+  snap
+
+  verify
+
+  size
+
+  blast
+
+  hard
+
+  various
+
+  auto'
+bip_39_word_new_line2: 'company
+
+  budget'
+bip_39_word_new_line3: 'company
+
+  budget
+
+  acquire'
+bip_39_word_new_line4: 'company
+
+  budget
+
+  acquire
+
+  lion'
+bip_39_word_new_line5: 'company
+
+  budget
+
+  acquire
+
+  lion
+
+  melt'
+bip_39_word_new_line6: 'company
+
+  budget
+
+  acquire
+
+  lion
+
+  melt
+
+  snap'
+bip_39_word_new_line7: 'company
+
+  budget
+
+  acquire
+
+  lion
+
+  melt
+
+  snap
+
+  verify'
+bip_39_word_new_line8: 'company
+
+  budget
+
+  acquire
+
+  lion
+
+  melt
+
+  snap
+
+  verify
+
+  size'
+bip_39_word_new_line9: 'company
+
+  budget
+
+  acquire
+
+  lion
+
+  melt
+
+  snap
+
+  verify
+
+  size
+
+  blast'
+bip_39_word_space_0:
+- company
+- budget
+- acquire
+- lion
+- melt
+- snap
+- verify
+- size
+- blast
+- hard
+- various
+- auto
+bip_39_word_space_1: company
+bip_39_word_space_10: company budget acquire lion melt snap verify size blast hard
+bip_39_word_space_11: company budget acquire lion melt snap verify size blast hard
+  various
+bip_39_word_space_12: company budget acquire lion melt snap verify size blast hard
+  various auto
+bip_39_word_space_2: company budget
+bip_39_word_space_3: company budget acquire
+bip_39_word_space_4: company budget acquire lion
+bip_39_word_space_5: company budget acquire lion melt
+bip_39_word_space_6: company budget acquire lion melt snap
+bip_39_word_space_7: company budget acquire lion melt snap verify
+bip_39_word_space_8: company budget acquire lion melt snap verify size
+bip_39_word_space_9: company budget acquire lion melt snap verify size blast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

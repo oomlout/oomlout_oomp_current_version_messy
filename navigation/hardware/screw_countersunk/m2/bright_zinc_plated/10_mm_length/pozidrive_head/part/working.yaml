@@ -1,3 +1,186 @@
+bip_39_word_new_br1: program
+bip_39_word_new_br10: program<br>smart<br>indoor<br>move<br>umbrella<br>wrong<br>spy<br>verify<br>liquid<br>wink
+bip_39_word_new_br11: program<br>smart<br>indoor<br>move<br>umbrella<br>wrong<br>spy<br>verify<br>liquid<br>wink<br>blanket
+bip_39_word_new_br12: program<br>smart<br>indoor<br>move<br>umbrella<br>wrong<br>spy<br>verify<br>liquid<br>wink<br>blanket<br>audit
+bip_39_word_new_br2: program<br>smart
+bip_39_word_new_br3: program<br>smart<br>indoor
+bip_39_word_new_br4: program<br>smart<br>indoor<br>move
+bip_39_word_new_br5: program<br>smart<br>indoor<br>move<br>umbrella
+bip_39_word_new_br6: program<br>smart<br>indoor<br>move<br>umbrella<br>wrong
+bip_39_word_new_br7: program<br>smart<br>indoor<br>move<br>umbrella<br>wrong<br>spy
+bip_39_word_new_br8: program<br>smart<br>indoor<br>move<br>umbrella<br>wrong<br>spy<br>verify
+bip_39_word_new_br9: program<br>smart<br>indoor<br>move<br>umbrella<br>wrong<br>spy<br>verify<br>liquid
+bip_39_word_new_line1: program
+bip_39_word_new_line10: 'program
+
+  smart
+
+  indoor
+
+  move
+
+  umbrella
+
+  wrong
+
+  spy
+
+  verify
+
+  liquid
+
+  wink'
+bip_39_word_new_line11: 'program
+
+  smart
+
+  indoor
+
+  move
+
+  umbrella
+
+  wrong
+
+  spy
+
+  verify
+
+  liquid
+
+  wink
+
+  blanket'
+bip_39_word_new_line12: 'program
+
+  smart
+
+  indoor
+
+  move
+
+  umbrella
+
+  wrong
+
+  spy
+
+  verify
+
+  liquid
+
+  wink
+
+  blanket
+
+  audit'
+bip_39_word_new_line2: 'program
+
+  smart'
+bip_39_word_new_line3: 'program
+
+  smart
+
+  indoor'
+bip_39_word_new_line4: 'program
+
+  smart
+
+  indoor
+
+  move'
+bip_39_word_new_line5: 'program
+
+  smart
+
+  indoor
+
+  move
+
+  umbrella'
+bip_39_word_new_line6: 'program
+
+  smart
+
+  indoor
+
+  move
+
+  umbrella
+
+  wrong'
+bip_39_word_new_line7: 'program
+
+  smart
+
+  indoor
+
+  move
+
+  umbrella
+
+  wrong
+
+  spy'
+bip_39_word_new_line8: 'program
+
+  smart
+
+  indoor
+
+  move
+
+  umbrella
+
+  wrong
+
+  spy
+
+  verify'
+bip_39_word_new_line9: 'program
+
+  smart
+
+  indoor
+
+  move
+
+  umbrella
+
+  wrong
+
+  spy
+
+  verify
+
+  liquid'
+bip_39_word_space_0:
+- program
+- smart
+- indoor
+- move
+- umbrella
+- wrong
+- spy
+- verify
+- liquid
+- wink
+- blanket
+- audit
+bip_39_word_space_1: program
+bip_39_word_space_10: program smart indoor move umbrella wrong spy verify liquid wink
+bip_39_word_space_11: program smart indoor move umbrella wrong spy verify liquid wink
+  blanket
+bip_39_word_space_12: program smart indoor move umbrella wrong spy verify liquid wink
+  blanket audit
+bip_39_word_space_2: program smart
+bip_39_word_space_3: program smart indoor
+bip_39_word_space_4: program smart indoor move
+bip_39_word_space_5: program smart indoor move umbrella
+bip_39_word_space_6: program smart indoor move umbrella wrong
+bip_39_word_space_7: program smart indoor move umbrella wrong spy
+bip_39_word_space_8: program smart indoor move umbrella wrong spy verify
+bip_39_word_space_9: program smart indoor move umbrella wrong spy verify liquid
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

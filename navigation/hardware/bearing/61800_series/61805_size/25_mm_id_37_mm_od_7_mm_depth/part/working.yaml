@@ -1,3 +1,186 @@
+bip_39_word_new_br1: arctic
+bip_39_word_new_br10: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter<br>praise<br>you
+bip_39_word_new_br11: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter<br>praise<br>you<br>target
+bip_39_word_new_br12: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter<br>praise<br>you<br>target<br>anchor
+bip_39_word_new_br2: arctic<br>bone
+bip_39_word_new_br3: arctic<br>bone<br>south
+bip_39_word_new_br4: arctic<br>bone<br>south<br>slight
+bip_39_word_new_br5: arctic<br>bone<br>south<br>slight<br>cargo
+bip_39_word_new_br6: arctic<br>bone<br>south<br>slight<br>cargo<br>egg
+bip_39_word_new_br7: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow
+bip_39_word_new_br8: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter
+bip_39_word_new_br9: arctic<br>bone<br>south<br>slight<br>cargo<br>egg<br>shadow<br>butter<br>praise
+bip_39_word_new_line1: arctic
+bip_39_word_new_line10: 'arctic
+
+  bone
+
+  south
+
+  slight
+
+  cargo
+
+  egg
+
+  shadow
+
+  butter
+
+  praise
+
+  you'
+bip_39_word_new_line11: 'arctic
+
+  bone
+
+  south
+
+  slight
+
+  cargo
+
+  egg
+
+  shadow
+
+  butter
+
+  praise
+
+  you
+
+  target'
+bip_39_word_new_line12: 'arctic
+
+  bone
+
+  south
+
+  slight
+
+  cargo
+
+  egg
+
+  shadow
+
+  butter
+
+  praise
+
+  you
+
+  target
+
+  anchor'
+bip_39_word_new_line2: 'arctic
+
+  bone'
+bip_39_word_new_line3: 'arctic
+
+  bone
+
+  south'
+bip_39_word_new_line4: 'arctic
+
+  bone
+
+  south
+
+  slight'
+bip_39_word_new_line5: 'arctic
+
+  bone
+
+  south
+
+  slight
+
+  cargo'
+bip_39_word_new_line6: 'arctic
+
+  bone
+
+  south
+
+  slight
+
+  cargo
+
+  egg'
+bip_39_word_new_line7: 'arctic
+
+  bone
+
+  south
+
+  slight
+
+  cargo
+
+  egg
+
+  shadow'
+bip_39_word_new_line8: 'arctic
+
+  bone
+
+  south
+
+  slight
+
+  cargo
+
+  egg
+
+  shadow
+
+  butter'
+bip_39_word_new_line9: 'arctic
+
+  bone
+
+  south
+
+  slight
+
+  cargo
+
+  egg
+
+  shadow
+
+  butter
+
+  praise'
+bip_39_word_space_0:
+- arctic
+- bone
+- south
+- slight
+- cargo
+- egg
+- shadow
+- butter
+- praise
+- you
+- target
+- anchor
+bip_39_word_space_1: arctic
+bip_39_word_space_10: arctic bone south slight cargo egg shadow butter praise you
+bip_39_word_space_11: arctic bone south slight cargo egg shadow butter praise you
+  target
+bip_39_word_space_12: arctic bone south slight cargo egg shadow butter praise you
+  target anchor
+bip_39_word_space_2: arctic bone
+bip_39_word_space_3: arctic bone south
+bip_39_word_space_4: arctic bone south slight
+bip_39_word_space_5: arctic bone south slight cargo
+bip_39_word_space_6: arctic bone south slight cargo egg
+bip_39_word_space_7: arctic bone south slight cargo egg shadow
+bip_39_word_space_8: arctic bone south slight cargo egg shadow butter
+bip_39_word_space_9: arctic bone south slight cargo egg shadow butter praise
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

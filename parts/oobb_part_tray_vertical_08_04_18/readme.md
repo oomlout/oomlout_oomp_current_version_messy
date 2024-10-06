@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: then such
+  * bip 39 word 3: then such parent
+  * bip 39 word: then such parent guess title huge panel card miracle ozone broom august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | then |  
+| bip_39_word_new_br10 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone |  
+| bip_39_word_new_br11 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone<br>broom |  
+| bip_39_word_new_br12 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle<br>ozone<br>broom<br>august |  
+| bip_39_word_new_br2 | then<br>such |  
+| bip_39_word_new_br3 | then<br>such<br>parent |  
+| bip_39_word_new_br4 | then<br>such<br>parent<br>guess |  
+| bip_39_word_new_br5 | then<br>such<br>parent<br>guess<br>title |  
+| bip_39_word_new_br6 | then<br>such<br>parent<br>guess<br>title<br>huge |  
+| bip_39_word_new_br7 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel |  
+| bip_39_word_new_br8 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card |  
+| bip_39_word_new_br9 | then<br>such<br>parent<br>guess<br>title<br>huge<br>panel<br>card<br>miracle |  
+| bip_39_word_new_line1 | then |  
+| bip_39_word_new_line10 | then
+such
+parent
+guess
+title
+huge
+panel
+card
+miracle
+ozone |  
+| bip_39_word_new_line11 | then
+such
+parent
+guess
+title
+huge
+panel
+card
+miracle
+ozone
+broom |  
+| bip_39_word_new_line12 | then
+such
+parent
+guess
+title
+huge
+panel
+card
+miracle
+ozone
+broom
+august |  
+| bip_39_word_new_line2 | then
+such |  
+| bip_39_word_new_line3 | then
+such
+parent |  
+| bip_39_word_new_line4 | then
+such
+parent
+guess |  
+| bip_39_word_new_line5 | then
+such
+parent
+guess
+title |  
+| bip_39_word_new_line6 | then
+such
+parent
+guess
+title
+huge |  
+| bip_39_word_new_line7 | then
+such
+parent
+guess
+title
+huge
+panel |  
+| bip_39_word_new_line8 | then
+such
+parent
+guess
+title
+huge
+panel
+card |  
+| bip_39_word_new_line9 | then
+such
+parent
+guess
+title
+huge
+panel
+card
+miracle |  
+| bip_39_word_space_0 | ['then', 'such', 'parent', 'guess', 'title', 'huge', 'panel', 'card', 'miracle', 'ozone', 'broom', 'august'] |  
+| bip_39_word_space_1 | then |  
+| bip_39_word_space_10 | then such parent guess title huge panel card miracle ozone |  
+| bip_39_word_space_11 | then such parent guess title huge panel card miracle ozone broom |  
+| bip_39_word_space_12 | then such parent guess title huge panel card miracle ozone broom august |  
+| bip_39_word_space_2 | then such |  
+| bip_39_word_space_3 | then such parent |  
+| bip_39_word_space_4 | then such parent guess |  
+| bip_39_word_space_5 | then such parent guess title |  
+| bip_39_word_space_6 | then such parent guess title huge |  
+| bip_39_word_space_7 | then such parent guess title huge panel |  
+| bip_39_word_space_8 | then such parent guess title huge panel card |  
+| bip_39_word_space_9 | then such parent guess title huge panel card miracle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

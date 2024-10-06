@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: suffer dance
+  * bip 39 word 3: suffer dance defy
+  * bip 39 word: suffer dance defy worth defy media multiply police endless urge aspect annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | suffer |  
+| bip_39_word_new_br10 | suffer<br>dance<br>defy<br>worth<br>defy<br>media<br>multiply<br>police<br>endless<br>urge |  
+| bip_39_word_new_br11 | suffer<br>dance<br>defy<br>worth<br>defy<br>media<br>multiply<br>police<br>endless<br>urge<br>aspect |  
+| bip_39_word_new_br12 | suffer<br>dance<br>defy<br>worth<br>defy<br>media<br>multiply<br>police<br>endless<br>urge<br>aspect<br>annual |  
+| bip_39_word_new_br2 | suffer<br>dance |  
+| bip_39_word_new_br3 | suffer<br>dance<br>defy |  
+| bip_39_word_new_br4 | suffer<br>dance<br>defy<br>worth |  
+| bip_39_word_new_br5 | suffer<br>dance<br>defy<br>worth<br>defy |  
+| bip_39_word_new_br6 | suffer<br>dance<br>defy<br>worth<br>defy<br>media |  
+| bip_39_word_new_br7 | suffer<br>dance<br>defy<br>worth<br>defy<br>media<br>multiply |  
+| bip_39_word_new_br8 | suffer<br>dance<br>defy<br>worth<br>defy<br>media<br>multiply<br>police |  
+| bip_39_word_new_br9 | suffer<br>dance<br>defy<br>worth<br>defy<br>media<br>multiply<br>police<br>endless |  
+| bip_39_word_new_line1 | suffer |  
+| bip_39_word_new_line10 | suffer
+dance
+defy
+worth
+defy
+media
+multiply
+police
+endless
+urge |  
+| bip_39_word_new_line11 | suffer
+dance
+defy
+worth
+defy
+media
+multiply
+police
+endless
+urge
+aspect |  
+| bip_39_word_new_line12 | suffer
+dance
+defy
+worth
+defy
+media
+multiply
+police
+endless
+urge
+aspect
+annual |  
+| bip_39_word_new_line2 | suffer
+dance |  
+| bip_39_word_new_line3 | suffer
+dance
+defy |  
+| bip_39_word_new_line4 | suffer
+dance
+defy
+worth |  
+| bip_39_word_new_line5 | suffer
+dance
+defy
+worth
+defy |  
+| bip_39_word_new_line6 | suffer
+dance
+defy
+worth
+defy
+media |  
+| bip_39_word_new_line7 | suffer
+dance
+defy
+worth
+defy
+media
+multiply |  
+| bip_39_word_new_line8 | suffer
+dance
+defy
+worth
+defy
+media
+multiply
+police |  
+| bip_39_word_new_line9 | suffer
+dance
+defy
+worth
+defy
+media
+multiply
+police
+endless |  
+| bip_39_word_space_0 | ['suffer', 'dance', 'defy', 'worth', 'defy', 'media', 'multiply', 'police', 'endless', 'urge', 'aspect', 'annual'] |  
+| bip_39_word_space_1 | suffer |  
+| bip_39_word_space_10 | suffer dance defy worth defy media multiply police endless urge |  
+| bip_39_word_space_11 | suffer dance defy worth defy media multiply police endless urge aspect |  
+| bip_39_word_space_12 | suffer dance defy worth defy media multiply police endless urge aspect annual |  
+| bip_39_word_space_2 | suffer dance |  
+| bip_39_word_space_3 | suffer dance defy |  
+| bip_39_word_space_4 | suffer dance defy worth |  
+| bip_39_word_space_5 | suffer dance defy worth defy |  
+| bip_39_word_space_6 | suffer dance defy worth defy media |  
+| bip_39_word_space_7 | suffer dance defy worth defy media multiply |  
+| bip_39_word_space_8 | suffer dance defy worth defy media multiply police |  
+| bip_39_word_space_9 | suffer dance defy worth defy media multiply police endless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

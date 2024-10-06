@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sting
+bip_39_word_new_br10: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol
+bip_39_word_new_br11: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol<br>combine
+bip_39_word_new_br12: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol<br>combine<br>advice
+bip_39_word_new_br2: sting<br>flight
+bip_39_word_new_br3: sting<br>flight<br>quarter
+bip_39_word_new_br4: sting<br>flight<br>quarter<br>poverty
+bip_39_word_new_br5: sting<br>flight<br>quarter<br>poverty<br>grunt
+bip_39_word_new_br6: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick
+bip_39_word_new_br7: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim
+bip_39_word_new_br8: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject
+bip_39_word_new_br9: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin
+bip_39_word_new_line1: sting
+bip_39_word_new_line10: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject
+
+  coin
+
+  patrol'
+bip_39_word_new_line11: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject
+
+  coin
+
+  patrol
+
+  combine'
+bip_39_word_new_line12: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject
+
+  coin
+
+  patrol
+
+  combine
+
+  advice'
+bip_39_word_new_line2: 'sting
+
+  flight'
+bip_39_word_new_line3: 'sting
+
+  flight
+
+  quarter'
+bip_39_word_new_line4: 'sting
+
+  flight
+
+  quarter
+
+  poverty'
+bip_39_word_new_line5: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt'
+bip_39_word_new_line6: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick'
+bip_39_word_new_line7: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim'
+bip_39_word_new_line8: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject'
+bip_39_word_new_line9: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject
+
+  coin'
+bip_39_word_space_0:
+- sting
+- flight
+- quarter
+- poverty
+- grunt
+- stick
+- slim
+- inject
+- coin
+- patrol
+- combine
+- advice
+bip_39_word_space_1: sting
+bip_39_word_space_10: sting flight quarter poverty grunt stick slim inject coin patrol
+bip_39_word_space_11: sting flight quarter poverty grunt stick slim inject coin patrol
+  combine
+bip_39_word_space_12: sting flight quarter poverty grunt stick slim inject coin patrol
+  combine advice
+bip_39_word_space_2: sting flight
+bip_39_word_space_3: sting flight quarter
+bip_39_word_space_4: sting flight quarter poverty
+bip_39_word_space_5: sting flight quarter poverty grunt
+bip_39_word_space_6: sting flight quarter poverty grunt stick
+bip_39_word_space_7: sting flight quarter poverty grunt stick slim
+bip_39_word_space_8: sting flight quarter poverty grunt stick slim inject
+bip_39_word_space_9: sting flight quarter poverty grunt stick slim inject coin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

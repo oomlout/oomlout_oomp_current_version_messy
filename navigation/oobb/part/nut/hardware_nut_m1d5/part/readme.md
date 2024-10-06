@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lottery visit
+  * bip 39 word 3: lottery visit syrup
+  * bip 39 word: lottery visit syrup direct civil toss imitate aerobic pizza curious decorate alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lottery |  
+| bip_39_word_new_br10 | lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza<br>curious |  
+| bip_39_word_new_br11 | lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza<br>curious<br>decorate |  
+| bip_39_word_new_br12 | lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza<br>curious<br>decorate<br>alone |  
+| bip_39_word_new_br2 | lottery<br>visit |  
+| bip_39_word_new_br3 | lottery<br>visit<br>syrup |  
+| bip_39_word_new_br4 | lottery<br>visit<br>syrup<br>direct |  
+| bip_39_word_new_br5 | lottery<br>visit<br>syrup<br>direct<br>civil |  
+| bip_39_word_new_br6 | lottery<br>visit<br>syrup<br>direct<br>civil<br>toss |  
+| bip_39_word_new_br7 | lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate |  
+| bip_39_word_new_br8 | lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic |  
+| bip_39_word_new_br9 | lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza |  
+| bip_39_word_new_line1 | lottery |  
+| bip_39_word_new_line10 | lottery
+visit
+syrup
+direct
+civil
+toss
+imitate
+aerobic
+pizza
+curious |  
+| bip_39_word_new_line11 | lottery
+visit
+syrup
+direct
+civil
+toss
+imitate
+aerobic
+pizza
+curious
+decorate |  
+| bip_39_word_new_line12 | lottery
+visit
+syrup
+direct
+civil
+toss
+imitate
+aerobic
+pizza
+curious
+decorate
+alone |  
+| bip_39_word_new_line2 | lottery
+visit |  
+| bip_39_word_new_line3 | lottery
+visit
+syrup |  
+| bip_39_word_new_line4 | lottery
+visit
+syrup
+direct |  
+| bip_39_word_new_line5 | lottery
+visit
+syrup
+direct
+civil |  
+| bip_39_word_new_line6 | lottery
+visit
+syrup
+direct
+civil
+toss |  
+| bip_39_word_new_line7 | lottery
+visit
+syrup
+direct
+civil
+toss
+imitate |  
+| bip_39_word_new_line8 | lottery
+visit
+syrup
+direct
+civil
+toss
+imitate
+aerobic |  
+| bip_39_word_new_line9 | lottery
+visit
+syrup
+direct
+civil
+toss
+imitate
+aerobic
+pizza |  
+| bip_39_word_space_0 | ['lottery', 'visit', 'syrup', 'direct', 'civil', 'toss', 'imitate', 'aerobic', 'pizza', 'curious', 'decorate', 'alone'] |  
+| bip_39_word_space_1 | lottery |  
+| bip_39_word_space_10 | lottery visit syrup direct civil toss imitate aerobic pizza curious |  
+| bip_39_word_space_11 | lottery visit syrup direct civil toss imitate aerobic pizza curious decorate |  
+| bip_39_word_space_12 | lottery visit syrup direct civil toss imitate aerobic pizza curious decorate alone |  
+| bip_39_word_space_2 | lottery visit |  
+| bip_39_word_space_3 | lottery visit syrup |  
+| bip_39_word_space_4 | lottery visit syrup direct |  
+| bip_39_word_space_5 | lottery visit syrup direct civil |  
+| bip_39_word_space_6 | lottery visit syrup direct civil toss |  
+| bip_39_word_space_7 | lottery visit syrup direct civil toss imitate |  
+| bip_39_word_space_8 | lottery visit syrup direct civil toss imitate aerobic |  
+| bip_39_word_space_9 | lottery visit syrup direct civil toss imitate aerobic pizza |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

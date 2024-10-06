@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stadium merge
+  * bip 39 word 3: stadium merge library
+  * bip 39 word: stadium merge library neglect praise sunset butter glow balance attract scare acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stadium |  
+| bip_39_word_new_br10 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset<br>butter<br>glow<br>balance<br>attract |  
+| bip_39_word_new_br11 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset<br>butter<br>glow<br>balance<br>attract<br>scare |  
+| bip_39_word_new_br12 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset<br>butter<br>glow<br>balance<br>attract<br>scare<br>acquire |  
+| bip_39_word_new_br2 | stadium<br>merge |  
+| bip_39_word_new_br3 | stadium<br>merge<br>library |  
+| bip_39_word_new_br4 | stadium<br>merge<br>library<br>neglect |  
+| bip_39_word_new_br5 | stadium<br>merge<br>library<br>neglect<br>praise |  
+| bip_39_word_new_br6 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset |  
+| bip_39_word_new_br7 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset<br>butter |  
+| bip_39_word_new_br8 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset<br>butter<br>glow |  
+| bip_39_word_new_br9 | stadium<br>merge<br>library<br>neglect<br>praise<br>sunset<br>butter<br>glow<br>balance |  
+| bip_39_word_new_line1 | stadium |  
+| bip_39_word_new_line10 | stadium
+merge
+library
+neglect
+praise
+sunset
+butter
+glow
+balance
+attract |  
+| bip_39_word_new_line11 | stadium
+merge
+library
+neglect
+praise
+sunset
+butter
+glow
+balance
+attract
+scare |  
+| bip_39_word_new_line12 | stadium
+merge
+library
+neglect
+praise
+sunset
+butter
+glow
+balance
+attract
+scare
+acquire |  
+| bip_39_word_new_line2 | stadium
+merge |  
+| bip_39_word_new_line3 | stadium
+merge
+library |  
+| bip_39_word_new_line4 | stadium
+merge
+library
+neglect |  
+| bip_39_word_new_line5 | stadium
+merge
+library
+neglect
+praise |  
+| bip_39_word_new_line6 | stadium
+merge
+library
+neglect
+praise
+sunset |  
+| bip_39_word_new_line7 | stadium
+merge
+library
+neglect
+praise
+sunset
+butter |  
+| bip_39_word_new_line8 | stadium
+merge
+library
+neglect
+praise
+sunset
+butter
+glow |  
+| bip_39_word_new_line9 | stadium
+merge
+library
+neglect
+praise
+sunset
+butter
+glow
+balance |  
+| bip_39_word_space_0 | ['stadium', 'merge', 'library', 'neglect', 'praise', 'sunset', 'butter', 'glow', 'balance', 'attract', 'scare', 'acquire'] |  
+| bip_39_word_space_1 | stadium |  
+| bip_39_word_space_10 | stadium merge library neglect praise sunset butter glow balance attract |  
+| bip_39_word_space_11 | stadium merge library neglect praise sunset butter glow balance attract scare |  
+| bip_39_word_space_12 | stadium merge library neglect praise sunset butter glow balance attract scare acquire |  
+| bip_39_word_space_2 | stadium merge |  
+| bip_39_word_space_3 | stadium merge library |  
+| bip_39_word_space_4 | stadium merge library neglect |  
+| bip_39_word_space_5 | stadium merge library neglect praise |  
+| bip_39_word_space_6 | stadium merge library neglect praise sunset |  
+| bip_39_word_space_7 | stadium merge library neglect praise sunset butter |  
+| bip_39_word_space_8 | stadium merge library neglect praise sunset butter glow |  
+| bip_39_word_space_9 | stadium merge library neglect praise sunset butter glow balance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

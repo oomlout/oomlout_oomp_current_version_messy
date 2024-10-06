@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cigar cheap
+  * bip 39 word 3: cigar cheap forget
+  * bip 39 word: cigar cheap forget excess volcano cage sport kitten mix learn hip acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cigar |  
+| bip_39_word_new_br10 | cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage<br>sport<br>kitten<br>mix<br>learn |  
+| bip_39_word_new_br11 | cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage<br>sport<br>kitten<br>mix<br>learn<br>hip |  
+| bip_39_word_new_br12 | cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage<br>sport<br>kitten<br>mix<br>learn<br>hip<br>acid |  
+| bip_39_word_new_br2 | cigar<br>cheap |  
+| bip_39_word_new_br3 | cigar<br>cheap<br>forget |  
+| bip_39_word_new_br4 | cigar<br>cheap<br>forget<br>excess |  
+| bip_39_word_new_br5 | cigar<br>cheap<br>forget<br>excess<br>volcano |  
+| bip_39_word_new_br6 | cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage |  
+| bip_39_word_new_br7 | cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage<br>sport |  
+| bip_39_word_new_br8 | cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage<br>sport<br>kitten |  
+| bip_39_word_new_br9 | cigar<br>cheap<br>forget<br>excess<br>volcano<br>cage<br>sport<br>kitten<br>mix |  
+| bip_39_word_new_line1 | cigar |  
+| bip_39_word_new_line10 | cigar
+cheap
+forget
+excess
+volcano
+cage
+sport
+kitten
+mix
+learn |  
+| bip_39_word_new_line11 | cigar
+cheap
+forget
+excess
+volcano
+cage
+sport
+kitten
+mix
+learn
+hip |  
+| bip_39_word_new_line12 | cigar
+cheap
+forget
+excess
+volcano
+cage
+sport
+kitten
+mix
+learn
+hip
+acid |  
+| bip_39_word_new_line2 | cigar
+cheap |  
+| bip_39_word_new_line3 | cigar
+cheap
+forget |  
+| bip_39_word_new_line4 | cigar
+cheap
+forget
+excess |  
+| bip_39_word_new_line5 | cigar
+cheap
+forget
+excess
+volcano |  
+| bip_39_word_new_line6 | cigar
+cheap
+forget
+excess
+volcano
+cage |  
+| bip_39_word_new_line7 | cigar
+cheap
+forget
+excess
+volcano
+cage
+sport |  
+| bip_39_word_new_line8 | cigar
+cheap
+forget
+excess
+volcano
+cage
+sport
+kitten |  
+| bip_39_word_new_line9 | cigar
+cheap
+forget
+excess
+volcano
+cage
+sport
+kitten
+mix |  
+| bip_39_word_space_0 | ['cigar', 'cheap', 'forget', 'excess', 'volcano', 'cage', 'sport', 'kitten', 'mix', 'learn', 'hip', 'acid'] |  
+| bip_39_word_space_1 | cigar |  
+| bip_39_word_space_10 | cigar cheap forget excess volcano cage sport kitten mix learn |  
+| bip_39_word_space_11 | cigar cheap forget excess volcano cage sport kitten mix learn hip |  
+| bip_39_word_space_12 | cigar cheap forget excess volcano cage sport kitten mix learn hip acid |  
+| bip_39_word_space_2 | cigar cheap |  
+| bip_39_word_space_3 | cigar cheap forget |  
+| bip_39_word_space_4 | cigar cheap forget excess |  
+| bip_39_word_space_5 | cigar cheap forget excess volcano |  
+| bip_39_word_space_6 | cigar cheap forget excess volcano cage |  
+| bip_39_word_space_7 | cigar cheap forget excess volcano cage sport |  
+| bip_39_word_space_8 | cigar cheap forget excess volcano cage sport kitten |  
+| bip_39_word_space_9 | cigar cheap forget excess volcano cage sport kitten mix |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trophy hint
+  * bip 39 word 3: trophy hint banner
+  * bip 39 word: trophy hint banner foster blouse analyst sauce please item ice exotic adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trophy |  
+| bip_39_word_new_br10 | trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst<br>sauce<br>please<br>item<br>ice |  
+| bip_39_word_new_br11 | trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst<br>sauce<br>please<br>item<br>ice<br>exotic |  
+| bip_39_word_new_br12 | trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst<br>sauce<br>please<br>item<br>ice<br>exotic<br>adult |  
+| bip_39_word_new_br2 | trophy<br>hint |  
+| bip_39_word_new_br3 | trophy<br>hint<br>banner |  
+| bip_39_word_new_br4 | trophy<br>hint<br>banner<br>foster |  
+| bip_39_word_new_br5 | trophy<br>hint<br>banner<br>foster<br>blouse |  
+| bip_39_word_new_br6 | trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst |  
+| bip_39_word_new_br7 | trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst<br>sauce |  
+| bip_39_word_new_br8 | trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst<br>sauce<br>please |  
+| bip_39_word_new_br9 | trophy<br>hint<br>banner<br>foster<br>blouse<br>analyst<br>sauce<br>please<br>item |  
+| bip_39_word_new_line1 | trophy |  
+| bip_39_word_new_line10 | trophy
+hint
+banner
+foster
+blouse
+analyst
+sauce
+please
+item
+ice |  
+| bip_39_word_new_line11 | trophy
+hint
+banner
+foster
+blouse
+analyst
+sauce
+please
+item
+ice
+exotic |  
+| bip_39_word_new_line12 | trophy
+hint
+banner
+foster
+blouse
+analyst
+sauce
+please
+item
+ice
+exotic
+adult |  
+| bip_39_word_new_line2 | trophy
+hint |  
+| bip_39_word_new_line3 | trophy
+hint
+banner |  
+| bip_39_word_new_line4 | trophy
+hint
+banner
+foster |  
+| bip_39_word_new_line5 | trophy
+hint
+banner
+foster
+blouse |  
+| bip_39_word_new_line6 | trophy
+hint
+banner
+foster
+blouse
+analyst |  
+| bip_39_word_new_line7 | trophy
+hint
+banner
+foster
+blouse
+analyst
+sauce |  
+| bip_39_word_new_line8 | trophy
+hint
+banner
+foster
+blouse
+analyst
+sauce
+please |  
+| bip_39_word_new_line9 | trophy
+hint
+banner
+foster
+blouse
+analyst
+sauce
+please
+item |  
+| bip_39_word_space_0 | ['trophy', 'hint', 'banner', 'foster', 'blouse', 'analyst', 'sauce', 'please', 'item', 'ice', 'exotic', 'adult'] |  
+| bip_39_word_space_1 | trophy |  
+| bip_39_word_space_10 | trophy hint banner foster blouse analyst sauce please item ice |  
+| bip_39_word_space_11 | trophy hint banner foster blouse analyst sauce please item ice exotic |  
+| bip_39_word_space_12 | trophy hint banner foster blouse analyst sauce please item ice exotic adult |  
+| bip_39_word_space_2 | trophy hint |  
+| bip_39_word_space_3 | trophy hint banner |  
+| bip_39_word_space_4 | trophy hint banner foster |  
+| bip_39_word_space_5 | trophy hint banner foster blouse |  
+| bip_39_word_space_6 | trophy hint banner foster blouse analyst |  
+| bip_39_word_space_7 | trophy hint banner foster blouse analyst sauce |  
+| bip_39_word_space_8 | trophy hint banner foster blouse analyst sauce please |  
+| bip_39_word_space_9 | trophy hint banner foster blouse analyst sauce please item |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

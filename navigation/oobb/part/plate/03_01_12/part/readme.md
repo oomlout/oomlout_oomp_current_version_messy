@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: again horse
+  * bip 39 word 3: again horse casino
+  * bip 39 word: again horse casino sand cancel run eager focus found buyer perfect animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | again |  
+| bip_39_word_new_br10 | again<br>horse<br>casino<br>sand<br>cancel<br>run<br>eager<br>focus<br>found<br>buyer |  
+| bip_39_word_new_br11 | again<br>horse<br>casino<br>sand<br>cancel<br>run<br>eager<br>focus<br>found<br>buyer<br>perfect |  
+| bip_39_word_new_br12 | again<br>horse<br>casino<br>sand<br>cancel<br>run<br>eager<br>focus<br>found<br>buyer<br>perfect<br>animal |  
+| bip_39_word_new_br2 | again<br>horse |  
+| bip_39_word_new_br3 | again<br>horse<br>casino |  
+| bip_39_word_new_br4 | again<br>horse<br>casino<br>sand |  
+| bip_39_word_new_br5 | again<br>horse<br>casino<br>sand<br>cancel |  
+| bip_39_word_new_br6 | again<br>horse<br>casino<br>sand<br>cancel<br>run |  
+| bip_39_word_new_br7 | again<br>horse<br>casino<br>sand<br>cancel<br>run<br>eager |  
+| bip_39_word_new_br8 | again<br>horse<br>casino<br>sand<br>cancel<br>run<br>eager<br>focus |  
+| bip_39_word_new_br9 | again<br>horse<br>casino<br>sand<br>cancel<br>run<br>eager<br>focus<br>found |  
+| bip_39_word_new_line1 | again |  
+| bip_39_word_new_line10 | again
+horse
+casino
+sand
+cancel
+run
+eager
+focus
+found
+buyer |  
+| bip_39_word_new_line11 | again
+horse
+casino
+sand
+cancel
+run
+eager
+focus
+found
+buyer
+perfect |  
+| bip_39_word_new_line12 | again
+horse
+casino
+sand
+cancel
+run
+eager
+focus
+found
+buyer
+perfect
+animal |  
+| bip_39_word_new_line2 | again
+horse |  
+| bip_39_word_new_line3 | again
+horse
+casino |  
+| bip_39_word_new_line4 | again
+horse
+casino
+sand |  
+| bip_39_word_new_line5 | again
+horse
+casino
+sand
+cancel |  
+| bip_39_word_new_line6 | again
+horse
+casino
+sand
+cancel
+run |  
+| bip_39_word_new_line7 | again
+horse
+casino
+sand
+cancel
+run
+eager |  
+| bip_39_word_new_line8 | again
+horse
+casino
+sand
+cancel
+run
+eager
+focus |  
+| bip_39_word_new_line9 | again
+horse
+casino
+sand
+cancel
+run
+eager
+focus
+found |  
+| bip_39_word_space_0 | ['again', 'horse', 'casino', 'sand', 'cancel', 'run', 'eager', 'focus', 'found', 'buyer', 'perfect', 'animal'] |  
+| bip_39_word_space_1 | again |  
+| bip_39_word_space_10 | again horse casino sand cancel run eager focus found buyer |  
+| bip_39_word_space_11 | again horse casino sand cancel run eager focus found buyer perfect |  
+| bip_39_word_space_12 | again horse casino sand cancel run eager focus found buyer perfect animal |  
+| bip_39_word_space_2 | again horse |  
+| bip_39_word_space_3 | again horse casino |  
+| bip_39_word_space_4 | again horse casino sand |  
+| bip_39_word_space_5 | again horse casino sand cancel |  
+| bip_39_word_space_6 | again horse casino sand cancel run |  
+| bip_39_word_space_7 | again horse casino sand cancel run eager |  
+| bip_39_word_space_8 | again horse casino sand cancel run eager focus |  
+| bip_39_word_space_9 | again horse casino sand cancel run eager focus found |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

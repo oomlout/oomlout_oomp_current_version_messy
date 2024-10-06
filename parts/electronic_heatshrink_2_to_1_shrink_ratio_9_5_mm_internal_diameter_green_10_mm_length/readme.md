@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ostrich drastic
+  * bip 39 word 3: ostrich drastic menu
+  * bip 39 word: ostrich drastic menu creek list item limb winner poem problem finger absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ostrich |  
+| bip_39_word_new_br10 | ostrich<br>drastic<br>menu<br>creek<br>list<br>item<br>limb<br>winner<br>poem<br>problem |  
+| bip_39_word_new_br11 | ostrich<br>drastic<br>menu<br>creek<br>list<br>item<br>limb<br>winner<br>poem<br>problem<br>finger |  
+| bip_39_word_new_br12 | ostrich<br>drastic<br>menu<br>creek<br>list<br>item<br>limb<br>winner<br>poem<br>problem<br>finger<br>absent |  
+| bip_39_word_new_br2 | ostrich<br>drastic |  
+| bip_39_word_new_br3 | ostrich<br>drastic<br>menu |  
+| bip_39_word_new_br4 | ostrich<br>drastic<br>menu<br>creek |  
+| bip_39_word_new_br5 | ostrich<br>drastic<br>menu<br>creek<br>list |  
+| bip_39_word_new_br6 | ostrich<br>drastic<br>menu<br>creek<br>list<br>item |  
+| bip_39_word_new_br7 | ostrich<br>drastic<br>menu<br>creek<br>list<br>item<br>limb |  
+| bip_39_word_new_br8 | ostrich<br>drastic<br>menu<br>creek<br>list<br>item<br>limb<br>winner |  
+| bip_39_word_new_br9 | ostrich<br>drastic<br>menu<br>creek<br>list<br>item<br>limb<br>winner<br>poem |  
+| bip_39_word_new_line1 | ostrich |  
+| bip_39_word_new_line10 | ostrich
+drastic
+menu
+creek
+list
+item
+limb
+winner
+poem
+problem |  
+| bip_39_word_new_line11 | ostrich
+drastic
+menu
+creek
+list
+item
+limb
+winner
+poem
+problem
+finger |  
+| bip_39_word_new_line12 | ostrich
+drastic
+menu
+creek
+list
+item
+limb
+winner
+poem
+problem
+finger
+absent |  
+| bip_39_word_new_line2 | ostrich
+drastic |  
+| bip_39_word_new_line3 | ostrich
+drastic
+menu |  
+| bip_39_word_new_line4 | ostrich
+drastic
+menu
+creek |  
+| bip_39_word_new_line5 | ostrich
+drastic
+menu
+creek
+list |  
+| bip_39_word_new_line6 | ostrich
+drastic
+menu
+creek
+list
+item |  
+| bip_39_word_new_line7 | ostrich
+drastic
+menu
+creek
+list
+item
+limb |  
+| bip_39_word_new_line8 | ostrich
+drastic
+menu
+creek
+list
+item
+limb
+winner |  
+| bip_39_word_new_line9 | ostrich
+drastic
+menu
+creek
+list
+item
+limb
+winner
+poem |  
+| bip_39_word_space_0 | ['ostrich', 'drastic', 'menu', 'creek', 'list', 'item', 'limb', 'winner', 'poem', 'problem', 'finger', 'absent'] |  
+| bip_39_word_space_1 | ostrich |  
+| bip_39_word_space_10 | ostrich drastic menu creek list item limb winner poem problem |  
+| bip_39_word_space_11 | ostrich drastic menu creek list item limb winner poem problem finger |  
+| bip_39_word_space_12 | ostrich drastic menu creek list item limb winner poem problem finger absent |  
+| bip_39_word_space_2 | ostrich drastic |  
+| bip_39_word_space_3 | ostrich drastic menu |  
+| bip_39_word_space_4 | ostrich drastic menu creek |  
+| bip_39_word_space_5 | ostrich drastic menu creek list |  
+| bip_39_word_space_6 | ostrich drastic menu creek list item |  
+| bip_39_word_space_7 | ostrich drastic menu creek list item limb |  
+| bip_39_word_space_8 | ostrich drastic menu creek list item limb winner |  
+| bip_39_word_space_9 | ostrich drastic menu creek list item limb winner poem |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

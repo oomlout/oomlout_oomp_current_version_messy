@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vanish
+bip_39_word_new_br10: vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost
+bip_39_word_new_br11: vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost<br>bind
+bip_39_word_new_br12: vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk<br>boost<br>bind<br>alcohol
+bip_39_word_new_br2: vanish<br>diet
+bip_39_word_new_br3: vanish<br>diet<br>latin
+bip_39_word_new_br4: vanish<br>diet<br>latin<br>clay
+bip_39_word_new_br5: vanish<br>diet<br>latin<br>clay<br>salmon
+bip_39_word_new_br6: vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid
+bip_39_word_new_br7: vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy
+bip_39_word_new_br8: vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable
+bip_39_word_new_br9: vanish<br>diet<br>latin<br>clay<br>salmon<br>liquid<br>fancy<br>viable<br>brisk
+bip_39_word_new_line1: vanish
+bip_39_word_new_line10: 'vanish
+
+  diet
+
+  latin
+
+  clay
+
+  salmon
+
+  liquid
+
+  fancy
+
+  viable
+
+  brisk
+
+  boost'
+bip_39_word_new_line11: 'vanish
+
+  diet
+
+  latin
+
+  clay
+
+  salmon
+
+  liquid
+
+  fancy
+
+  viable
+
+  brisk
+
+  boost
+
+  bind'
+bip_39_word_new_line12: 'vanish
+
+  diet
+
+  latin
+
+  clay
+
+  salmon
+
+  liquid
+
+  fancy
+
+  viable
+
+  brisk
+
+  boost
+
+  bind
+
+  alcohol'
+bip_39_word_new_line2: 'vanish
+
+  diet'
+bip_39_word_new_line3: 'vanish
+
+  diet
+
+  latin'
+bip_39_word_new_line4: 'vanish
+
+  diet
+
+  latin
+
+  clay'
+bip_39_word_new_line5: 'vanish
+
+  diet
+
+  latin
+
+  clay
+
+  salmon'
+bip_39_word_new_line6: 'vanish
+
+  diet
+
+  latin
+
+  clay
+
+  salmon
+
+  liquid'
+bip_39_word_new_line7: 'vanish
+
+  diet
+
+  latin
+
+  clay
+
+  salmon
+
+  liquid
+
+  fancy'
+bip_39_word_new_line8: 'vanish
+
+  diet
+
+  latin
+
+  clay
+
+  salmon
+
+  liquid
+
+  fancy
+
+  viable'
+bip_39_word_new_line9: 'vanish
+
+  diet
+
+  latin
+
+  clay
+
+  salmon
+
+  liquid
+
+  fancy
+
+  viable
+
+  brisk'
+bip_39_word_space_0:
+- vanish
+- diet
+- latin
+- clay
+- salmon
+- liquid
+- fancy
+- viable
+- brisk
+- boost
+- bind
+- alcohol
+bip_39_word_space_1: vanish
+bip_39_word_space_10: vanish diet latin clay salmon liquid fancy viable brisk boost
+bip_39_word_space_11: vanish diet latin clay salmon liquid fancy viable brisk boost
+  bind
+bip_39_word_space_12: vanish diet latin clay salmon liquid fancy viable brisk boost
+  bind alcohol
+bip_39_word_space_2: vanish diet
+bip_39_word_space_3: vanish diet latin
+bip_39_word_space_4: vanish diet latin clay
+bip_39_word_space_5: vanish diet latin clay salmon
+bip_39_word_space_6: vanish diet latin clay salmon liquid
+bip_39_word_space_7: vanish diet latin clay salmon liquid fancy
+bip_39_word_space_8: vanish diet latin clay salmon liquid fancy viable
+bip_39_word_space_9: vanish diet latin clay salmon liquid fancy viable brisk
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

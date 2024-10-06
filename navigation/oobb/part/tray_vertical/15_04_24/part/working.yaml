@@ -1,3 +1,187 @@
+bip_39_word_new_br1: powder
+bip_39_word_new_br10: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide
+bip_39_word_new_br11: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide<br>unlock
+bip_39_word_new_br12: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february<br>wide<br>unlock<br>attack
+bip_39_word_new_br2: powder<br>mutual
+bip_39_word_new_br3: powder<br>mutual<br>spy
+bip_39_word_new_br4: powder<br>mutual<br>spy<br>extend
+bip_39_word_new_br5: powder<br>mutual<br>spy<br>extend<br>despair
+bip_39_word_new_br6: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform
+bip_39_word_new_br7: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip
+bip_39_word_new_br8: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict
+bip_39_word_new_br9: powder<br>mutual<br>spy<br>extend<br>despair<br>uniform<br>tip<br>inflict<br>february
+bip_39_word_new_line1: powder
+bip_39_word_new_line10: 'powder
+
+  mutual
+
+  spy
+
+  extend
+
+  despair
+
+  uniform
+
+  tip
+
+  inflict
+
+  february
+
+  wide'
+bip_39_word_new_line11: 'powder
+
+  mutual
+
+  spy
+
+  extend
+
+  despair
+
+  uniform
+
+  tip
+
+  inflict
+
+  february
+
+  wide
+
+  unlock'
+bip_39_word_new_line12: 'powder
+
+  mutual
+
+  spy
+
+  extend
+
+  despair
+
+  uniform
+
+  tip
+
+  inflict
+
+  february
+
+  wide
+
+  unlock
+
+  attack'
+bip_39_word_new_line2: 'powder
+
+  mutual'
+bip_39_word_new_line3: 'powder
+
+  mutual
+
+  spy'
+bip_39_word_new_line4: 'powder
+
+  mutual
+
+  spy
+
+  extend'
+bip_39_word_new_line5: 'powder
+
+  mutual
+
+  spy
+
+  extend
+
+  despair'
+bip_39_word_new_line6: 'powder
+
+  mutual
+
+  spy
+
+  extend
+
+  despair
+
+  uniform'
+bip_39_word_new_line7: 'powder
+
+  mutual
+
+  spy
+
+  extend
+
+  despair
+
+  uniform
+
+  tip'
+bip_39_word_new_line8: 'powder
+
+  mutual
+
+  spy
+
+  extend
+
+  despair
+
+  uniform
+
+  tip
+
+  inflict'
+bip_39_word_new_line9: 'powder
+
+  mutual
+
+  spy
+
+  extend
+
+  despair
+
+  uniform
+
+  tip
+
+  inflict
+
+  february'
+bip_39_word_space_0:
+- powder
+- mutual
+- spy
+- extend
+- despair
+- uniform
+- tip
+- inflict
+- february
+- wide
+- unlock
+- attack
+bip_39_word_space_1: powder
+bip_39_word_space_10: powder mutual spy extend despair uniform tip inflict february
+  wide
+bip_39_word_space_11: powder mutual spy extend despair uniform tip inflict february
+  wide unlock
+bip_39_word_space_12: powder mutual spy extend despair uniform tip inflict february
+  wide unlock attack
+bip_39_word_space_2: powder mutual
+bip_39_word_space_3: powder mutual spy
+bip_39_word_space_4: powder mutual spy extend
+bip_39_word_space_5: powder mutual spy extend despair
+bip_39_word_space_6: powder mutual spy extend despair uniform
+bip_39_word_space_7: powder mutual spy extend despair uniform tip
+bip_39_word_space_8: powder mutual spy extend despair uniform tip inflict
+bip_39_word_space_9: powder mutual spy extend despair uniform tip inflict february
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

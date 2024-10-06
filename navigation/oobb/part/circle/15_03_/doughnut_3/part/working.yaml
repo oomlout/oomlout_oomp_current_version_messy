@@ -1,3 +1,187 @@
+bip_39_word_new_br1: proof
+bip_39_word_new_br10: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van
+bip_39_word_new_br11: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van<br>vicious
+bip_39_word_new_br12: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy<br>van<br>vicious<br>arrow
+bip_39_word_new_br2: proof<br>cancel
+bip_39_word_new_br3: proof<br>cancel<br>material
+bip_39_word_new_br4: proof<br>cancel<br>material<br>mirror
+bip_39_word_new_br5: proof<br>cancel<br>material<br>mirror<br>sentence
+bip_39_word_new_br6: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene
+bip_39_word_new_br7: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge
+bip_39_word_new_br8: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay
+bip_39_word_new_br9: proof<br>cancel<br>material<br>mirror<br>sentence<br>scene<br>gauge<br>delay<br>shy
+bip_39_word_new_line1: proof
+bip_39_word_new_line10: 'proof
+
+  cancel
+
+  material
+
+  mirror
+
+  sentence
+
+  scene
+
+  gauge
+
+  delay
+
+  shy
+
+  van'
+bip_39_word_new_line11: 'proof
+
+  cancel
+
+  material
+
+  mirror
+
+  sentence
+
+  scene
+
+  gauge
+
+  delay
+
+  shy
+
+  van
+
+  vicious'
+bip_39_word_new_line12: 'proof
+
+  cancel
+
+  material
+
+  mirror
+
+  sentence
+
+  scene
+
+  gauge
+
+  delay
+
+  shy
+
+  van
+
+  vicious
+
+  arrow'
+bip_39_word_new_line2: 'proof
+
+  cancel'
+bip_39_word_new_line3: 'proof
+
+  cancel
+
+  material'
+bip_39_word_new_line4: 'proof
+
+  cancel
+
+  material
+
+  mirror'
+bip_39_word_new_line5: 'proof
+
+  cancel
+
+  material
+
+  mirror
+
+  sentence'
+bip_39_word_new_line6: 'proof
+
+  cancel
+
+  material
+
+  mirror
+
+  sentence
+
+  scene'
+bip_39_word_new_line7: 'proof
+
+  cancel
+
+  material
+
+  mirror
+
+  sentence
+
+  scene
+
+  gauge'
+bip_39_word_new_line8: 'proof
+
+  cancel
+
+  material
+
+  mirror
+
+  sentence
+
+  scene
+
+  gauge
+
+  delay'
+bip_39_word_new_line9: 'proof
+
+  cancel
+
+  material
+
+  mirror
+
+  sentence
+
+  scene
+
+  gauge
+
+  delay
+
+  shy'
+bip_39_word_space_0:
+- proof
+- cancel
+- material
+- mirror
+- sentence
+- scene
+- gauge
+- delay
+- shy
+- van
+- vicious
+- arrow
+bip_39_word_space_1: proof
+bip_39_word_space_10: proof cancel material mirror sentence scene gauge delay shy
+  van
+bip_39_word_space_11: proof cancel material mirror sentence scene gauge delay shy
+  van vicious
+bip_39_word_space_12: proof cancel material mirror sentence scene gauge delay shy
+  van vicious arrow
+bip_39_word_space_2: proof cancel
+bip_39_word_space_3: proof cancel material
+bip_39_word_space_4: proof cancel material mirror
+bip_39_word_space_5: proof cancel material mirror sentence
+bip_39_word_space_6: proof cancel material mirror sentence scene
+bip_39_word_space_7: proof cancel material mirror sentence scene gauge
+bip_39_word_space_8: proof cancel material mirror sentence scene gauge delay
+bip_39_word_space_9: proof cancel material mirror sentence scene gauge delay shy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

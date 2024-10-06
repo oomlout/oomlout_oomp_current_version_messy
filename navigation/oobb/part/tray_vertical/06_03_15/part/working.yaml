@@ -1,3 +1,185 @@
+bip_39_word_new_br1: relax
+bip_39_word_new_br10: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash<br>zero<br>record<br>galaxy<br>cram
+bip_39_word_new_br11: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash<br>zero<br>record<br>galaxy<br>cram<br>there
+bip_39_word_new_br12: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash<br>zero<br>record<br>galaxy<br>cram<br>there<br>actual
+bip_39_word_new_br2: relax<br>make
+bip_39_word_new_br3: relax<br>make<br>okay
+bip_39_word_new_br4: relax<br>make<br>okay<br>pioneer
+bip_39_word_new_br5: relax<br>make<br>okay<br>pioneer<br>sweet
+bip_39_word_new_br6: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash
+bip_39_word_new_br7: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash<br>zero
+bip_39_word_new_br8: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash<br>zero<br>record
+bip_39_word_new_br9: relax<br>make<br>okay<br>pioneer<br>sweet<br>dash<br>zero<br>record<br>galaxy
+bip_39_word_new_line1: relax
+bip_39_word_new_line10: 'relax
+
+  make
+
+  okay
+
+  pioneer
+
+  sweet
+
+  dash
+
+  zero
+
+  record
+
+  galaxy
+
+  cram'
+bip_39_word_new_line11: 'relax
+
+  make
+
+  okay
+
+  pioneer
+
+  sweet
+
+  dash
+
+  zero
+
+  record
+
+  galaxy
+
+  cram
+
+  there'
+bip_39_word_new_line12: 'relax
+
+  make
+
+  okay
+
+  pioneer
+
+  sweet
+
+  dash
+
+  zero
+
+  record
+
+  galaxy
+
+  cram
+
+  there
+
+  actual'
+bip_39_word_new_line2: 'relax
+
+  make'
+bip_39_word_new_line3: 'relax
+
+  make
+
+  okay'
+bip_39_word_new_line4: 'relax
+
+  make
+
+  okay
+
+  pioneer'
+bip_39_word_new_line5: 'relax
+
+  make
+
+  okay
+
+  pioneer
+
+  sweet'
+bip_39_word_new_line6: 'relax
+
+  make
+
+  okay
+
+  pioneer
+
+  sweet
+
+  dash'
+bip_39_word_new_line7: 'relax
+
+  make
+
+  okay
+
+  pioneer
+
+  sweet
+
+  dash
+
+  zero'
+bip_39_word_new_line8: 'relax
+
+  make
+
+  okay
+
+  pioneer
+
+  sweet
+
+  dash
+
+  zero
+
+  record'
+bip_39_word_new_line9: 'relax
+
+  make
+
+  okay
+
+  pioneer
+
+  sweet
+
+  dash
+
+  zero
+
+  record
+
+  galaxy'
+bip_39_word_space_0:
+- relax
+- make
+- okay
+- pioneer
+- sweet
+- dash
+- zero
+- record
+- galaxy
+- cram
+- there
+- actual
+bip_39_word_space_1: relax
+bip_39_word_space_10: relax make okay pioneer sweet dash zero record galaxy cram
+bip_39_word_space_11: relax make okay pioneer sweet dash zero record galaxy cram there
+bip_39_word_space_12: relax make okay pioneer sweet dash zero record galaxy cram there
+  actual
+bip_39_word_space_2: relax make
+bip_39_word_space_3: relax make okay
+bip_39_word_space_4: relax make okay pioneer
+bip_39_word_space_5: relax make okay pioneer sweet
+bip_39_word_space_6: relax make okay pioneer sweet dash
+bip_39_word_space_7: relax make okay pioneer sweet dash zero
+bip_39_word_space_8: relax make okay pioneer sweet dash zero record
+bip_39_word_space_9: relax make okay pioneer sweet dash zero record galaxy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

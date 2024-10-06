@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ptfe_tube_holder_sh_quarter_inch_pipe_thread
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ring affair
+  * bip 39 word 3: ring affair valid
+  * bip 39 word: ring affair valid slice tone coral thunder tackle witness give maximum absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ring |  
+| bip_39_word_new_br10 | ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle<br>witness<br>give |  
+| bip_39_word_new_br11 | ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle<br>witness<br>give<br>maximum |  
+| bip_39_word_new_br12 | ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle<br>witness<br>give<br>maximum<br>absurd |  
+| bip_39_word_new_br2 | ring<br>affair |  
+| bip_39_word_new_br3 | ring<br>affair<br>valid |  
+| bip_39_word_new_br4 | ring<br>affair<br>valid<br>slice |  
+| bip_39_word_new_br5 | ring<br>affair<br>valid<br>slice<br>tone |  
+| bip_39_word_new_br6 | ring<br>affair<br>valid<br>slice<br>tone<br>coral |  
+| bip_39_word_new_br7 | ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder |  
+| bip_39_word_new_br8 | ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle |  
+| bip_39_word_new_br9 | ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle<br>witness |  
+| bip_39_word_new_line1 | ring |  
+| bip_39_word_new_line10 | ring
+affair
+valid
+slice
+tone
+coral
+thunder
+tackle
+witness
+give |  
+| bip_39_word_new_line11 | ring
+affair
+valid
+slice
+tone
+coral
+thunder
+tackle
+witness
+give
+maximum |  
+| bip_39_word_new_line12 | ring
+affair
+valid
+slice
+tone
+coral
+thunder
+tackle
+witness
+give
+maximum
+absurd |  
+| bip_39_word_new_line2 | ring
+affair |  
+| bip_39_word_new_line3 | ring
+affair
+valid |  
+| bip_39_word_new_line4 | ring
+affair
+valid
+slice |  
+| bip_39_word_new_line5 | ring
+affair
+valid
+slice
+tone |  
+| bip_39_word_new_line6 | ring
+affair
+valid
+slice
+tone
+coral |  
+| bip_39_word_new_line7 | ring
+affair
+valid
+slice
+tone
+coral
+thunder |  
+| bip_39_word_new_line8 | ring
+affair
+valid
+slice
+tone
+coral
+thunder
+tackle |  
+| bip_39_word_new_line9 | ring
+affair
+valid
+slice
+tone
+coral
+thunder
+tackle
+witness |  
+| bip_39_word_space_0 | ['ring', 'affair', 'valid', 'slice', 'tone', 'coral', 'thunder', 'tackle', 'witness', 'give', 'maximum', 'absurd'] |  
+| bip_39_word_space_1 | ring |  
+| bip_39_word_space_10 | ring affair valid slice tone coral thunder tackle witness give |  
+| bip_39_word_space_11 | ring affair valid slice tone coral thunder tackle witness give maximum |  
+| bip_39_word_space_12 | ring affair valid slice tone coral thunder tackle witness give maximum absurd |  
+| bip_39_word_space_2 | ring affair |  
+| bip_39_word_space_3 | ring affair valid |  
+| bip_39_word_space_4 | ring affair valid slice |  
+| bip_39_word_space_5 | ring affair valid slice tone |  
+| bip_39_word_space_6 | ring affair valid slice tone coral |  
+| bip_39_word_space_7 | ring affair valid slice tone coral thunder |  
+| bip_39_word_space_8 | ring affair valid slice tone coral thunder tackle |  
+| bip_39_word_space_9 | ring affair valid slice tone coral thunder tackle witness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

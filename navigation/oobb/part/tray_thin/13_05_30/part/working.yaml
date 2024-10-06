@@ -1,3 +1,187 @@
+bip_39_word_new_br1: immense
+bip_39_word_new_br10: immense<br>volume<br>flee<br>express<br>convince<br>account<br>idle<br>powder<br>print<br>must
+bip_39_word_new_br11: immense<br>volume<br>flee<br>express<br>convince<br>account<br>idle<br>powder<br>print<br>must<br>lake
+bip_39_word_new_br12: immense<br>volume<br>flee<br>express<br>convince<br>account<br>idle<br>powder<br>print<br>must<br>lake<br>assault
+bip_39_word_new_br2: immense<br>volume
+bip_39_word_new_br3: immense<br>volume<br>flee
+bip_39_word_new_br4: immense<br>volume<br>flee<br>express
+bip_39_word_new_br5: immense<br>volume<br>flee<br>express<br>convince
+bip_39_word_new_br6: immense<br>volume<br>flee<br>express<br>convince<br>account
+bip_39_word_new_br7: immense<br>volume<br>flee<br>express<br>convince<br>account<br>idle
+bip_39_word_new_br8: immense<br>volume<br>flee<br>express<br>convince<br>account<br>idle<br>powder
+bip_39_word_new_br9: immense<br>volume<br>flee<br>express<br>convince<br>account<br>idle<br>powder<br>print
+bip_39_word_new_line1: immense
+bip_39_word_new_line10: 'immense
+
+  volume
+
+  flee
+
+  express
+
+  convince
+
+  account
+
+  idle
+
+  powder
+
+  print
+
+  must'
+bip_39_word_new_line11: 'immense
+
+  volume
+
+  flee
+
+  express
+
+  convince
+
+  account
+
+  idle
+
+  powder
+
+  print
+
+  must
+
+  lake'
+bip_39_word_new_line12: 'immense
+
+  volume
+
+  flee
+
+  express
+
+  convince
+
+  account
+
+  idle
+
+  powder
+
+  print
+
+  must
+
+  lake
+
+  assault'
+bip_39_word_new_line2: 'immense
+
+  volume'
+bip_39_word_new_line3: 'immense
+
+  volume
+
+  flee'
+bip_39_word_new_line4: 'immense
+
+  volume
+
+  flee
+
+  express'
+bip_39_word_new_line5: 'immense
+
+  volume
+
+  flee
+
+  express
+
+  convince'
+bip_39_word_new_line6: 'immense
+
+  volume
+
+  flee
+
+  express
+
+  convince
+
+  account'
+bip_39_word_new_line7: 'immense
+
+  volume
+
+  flee
+
+  express
+
+  convince
+
+  account
+
+  idle'
+bip_39_word_new_line8: 'immense
+
+  volume
+
+  flee
+
+  express
+
+  convince
+
+  account
+
+  idle
+
+  powder'
+bip_39_word_new_line9: 'immense
+
+  volume
+
+  flee
+
+  express
+
+  convince
+
+  account
+
+  idle
+
+  powder
+
+  print'
+bip_39_word_space_0:
+- immense
+- volume
+- flee
+- express
+- convince
+- account
+- idle
+- powder
+- print
+- must
+- lake
+- assault
+bip_39_word_space_1: immense
+bip_39_word_space_10: immense volume flee express convince account idle powder print
+  must
+bip_39_word_space_11: immense volume flee express convince account idle powder print
+  must lake
+bip_39_word_space_12: immense volume flee express convince account idle powder print
+  must lake assault
+bip_39_word_space_2: immense volume
+bip_39_word_space_3: immense volume flee
+bip_39_word_space_4: immense volume flee express
+bip_39_word_space_5: immense volume flee express convince
+bip_39_word_space_6: immense volume flee express convince account
+bip_39_word_space_7: immense volume flee express convince account idle
+bip_39_word_space_8: immense volume flee express convince account idle powder
+bip_39_word_space_9: immense volume flee express convince account idle powder print
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

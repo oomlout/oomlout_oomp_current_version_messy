@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gift arch
+  * bip 39 word 3: gift arch victory
+  * bip 39 word: gift arch victory tip trash judge ice craft burden people crowd alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gift |  
+| bip_39_word_new_br10 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people |  
+| bip_39_word_new_br11 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people<br>crowd |  
+| bip_39_word_new_br12 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden<br>people<br>crowd<br>alcohol |  
+| bip_39_word_new_br2 | gift<br>arch |  
+| bip_39_word_new_br3 | gift<br>arch<br>victory |  
+| bip_39_word_new_br4 | gift<br>arch<br>victory<br>tip |  
+| bip_39_word_new_br5 | gift<br>arch<br>victory<br>tip<br>trash |  
+| bip_39_word_new_br6 | gift<br>arch<br>victory<br>tip<br>trash<br>judge |  
+| bip_39_word_new_br7 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice |  
+| bip_39_word_new_br8 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft |  
+| bip_39_word_new_br9 | gift<br>arch<br>victory<br>tip<br>trash<br>judge<br>ice<br>craft<br>burden |  
+| bip_39_word_new_line1 | gift |  
+| bip_39_word_new_line10 | gift
+arch
+victory
+tip
+trash
+judge
+ice
+craft
+burden
+people |  
+| bip_39_word_new_line11 | gift
+arch
+victory
+tip
+trash
+judge
+ice
+craft
+burden
+people
+crowd |  
+| bip_39_word_new_line12 | gift
+arch
+victory
+tip
+trash
+judge
+ice
+craft
+burden
+people
+crowd
+alcohol |  
+| bip_39_word_new_line2 | gift
+arch |  
+| bip_39_word_new_line3 | gift
+arch
+victory |  
+| bip_39_word_new_line4 | gift
+arch
+victory
+tip |  
+| bip_39_word_new_line5 | gift
+arch
+victory
+tip
+trash |  
+| bip_39_word_new_line6 | gift
+arch
+victory
+tip
+trash
+judge |  
+| bip_39_word_new_line7 | gift
+arch
+victory
+tip
+trash
+judge
+ice |  
+| bip_39_word_new_line8 | gift
+arch
+victory
+tip
+trash
+judge
+ice
+craft |  
+| bip_39_word_new_line9 | gift
+arch
+victory
+tip
+trash
+judge
+ice
+craft
+burden |  
+| bip_39_word_space_0 | ['gift', 'arch', 'victory', 'tip', 'trash', 'judge', 'ice', 'craft', 'burden', 'people', 'crowd', 'alcohol'] |  
+| bip_39_word_space_1 | gift |  
+| bip_39_word_space_10 | gift arch victory tip trash judge ice craft burden people |  
+| bip_39_word_space_11 | gift arch victory tip trash judge ice craft burden people crowd |  
+| bip_39_word_space_12 | gift arch victory tip trash judge ice craft burden people crowd alcohol |  
+| bip_39_word_space_2 | gift arch |  
+| bip_39_word_space_3 | gift arch victory |  
+| bip_39_word_space_4 | gift arch victory tip |  
+| bip_39_word_space_5 | gift arch victory tip trash |  
+| bip_39_word_space_6 | gift arch victory tip trash judge |  
+| bip_39_word_space_7 | gift arch victory tip trash judge ice |  
+| bip_39_word_space_8 | gift arch victory tip trash judge ice craft |  
+| bip_39_word_space_9 | gift arch victory tip trash judge ice craft burden |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

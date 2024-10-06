@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: security rare
+  * bip 39 word 3: security rare expand
+  * bip 39 word: security rare expand poem attend coconut cotton job ill business spirit author
 
 ### other_codes
 * short_code: ms3m25pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | security |  
+| bip_39_word_new_br10 | security<br>rare<br>expand<br>poem<br>attend<br>coconut<br>cotton<br>job<br>ill<br>business |  
+| bip_39_word_new_br11 | security<br>rare<br>expand<br>poem<br>attend<br>coconut<br>cotton<br>job<br>ill<br>business<br>spirit |  
+| bip_39_word_new_br12 | security<br>rare<br>expand<br>poem<br>attend<br>coconut<br>cotton<br>job<br>ill<br>business<br>spirit<br>author |  
+| bip_39_word_new_br2 | security<br>rare |  
+| bip_39_word_new_br3 | security<br>rare<br>expand |  
+| bip_39_word_new_br4 | security<br>rare<br>expand<br>poem |  
+| bip_39_word_new_br5 | security<br>rare<br>expand<br>poem<br>attend |  
+| bip_39_word_new_br6 | security<br>rare<br>expand<br>poem<br>attend<br>coconut |  
+| bip_39_word_new_br7 | security<br>rare<br>expand<br>poem<br>attend<br>coconut<br>cotton |  
+| bip_39_word_new_br8 | security<br>rare<br>expand<br>poem<br>attend<br>coconut<br>cotton<br>job |  
+| bip_39_word_new_br9 | security<br>rare<br>expand<br>poem<br>attend<br>coconut<br>cotton<br>job<br>ill |  
+| bip_39_word_new_line1 | security |  
+| bip_39_word_new_line10 | security
+rare
+expand
+poem
+attend
+coconut
+cotton
+job
+ill
+business |  
+| bip_39_word_new_line11 | security
+rare
+expand
+poem
+attend
+coconut
+cotton
+job
+ill
+business
+spirit |  
+| bip_39_word_new_line12 | security
+rare
+expand
+poem
+attend
+coconut
+cotton
+job
+ill
+business
+spirit
+author |  
+| bip_39_word_new_line2 | security
+rare |  
+| bip_39_word_new_line3 | security
+rare
+expand |  
+| bip_39_word_new_line4 | security
+rare
+expand
+poem |  
+| bip_39_word_new_line5 | security
+rare
+expand
+poem
+attend |  
+| bip_39_word_new_line6 | security
+rare
+expand
+poem
+attend
+coconut |  
+| bip_39_word_new_line7 | security
+rare
+expand
+poem
+attend
+coconut
+cotton |  
+| bip_39_word_new_line8 | security
+rare
+expand
+poem
+attend
+coconut
+cotton
+job |  
+| bip_39_word_new_line9 | security
+rare
+expand
+poem
+attend
+coconut
+cotton
+job
+ill |  
+| bip_39_word_space_0 | ['security', 'rare', 'expand', 'poem', 'attend', 'coconut', 'cotton', 'job', 'ill', 'business', 'spirit', 'author'] |  
+| bip_39_word_space_1 | security |  
+| bip_39_word_space_10 | security rare expand poem attend coconut cotton job ill business |  
+| bip_39_word_space_11 | security rare expand poem attend coconut cotton job ill business spirit |  
+| bip_39_word_space_12 | security rare expand poem attend coconut cotton job ill business spirit author |  
+| bip_39_word_space_2 | security rare |  
+| bip_39_word_space_3 | security rare expand |  
+| bip_39_word_space_4 | security rare expand poem |  
+| bip_39_word_space_5 | security rare expand poem attend |  
+| bip_39_word_space_6 | security rare expand poem attend coconut |  
+| bip_39_word_space_7 | security rare expand poem attend coconut cotton |  
+| bip_39_word_space_8 | security rare expand poem attend coconut cotton job |  
+| bip_39_word_space_9 | security rare expand poem attend coconut cotton job ill |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

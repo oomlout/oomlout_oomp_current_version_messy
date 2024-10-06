@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wreck solution
+  * bip 39 word 3: wreck solution fury
+  * bip 39 word: wreck solution fury invite book improve oppose guess dynamic carpet wish afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wreck |  
+| bip_39_word_new_br10 | wreck<br>solution<br>fury<br>invite<br>book<br>improve<br>oppose<br>guess<br>dynamic<br>carpet |  
+| bip_39_word_new_br11 | wreck<br>solution<br>fury<br>invite<br>book<br>improve<br>oppose<br>guess<br>dynamic<br>carpet<br>wish |  
+| bip_39_word_new_br12 | wreck<br>solution<br>fury<br>invite<br>book<br>improve<br>oppose<br>guess<br>dynamic<br>carpet<br>wish<br>afford |  
+| bip_39_word_new_br2 | wreck<br>solution |  
+| bip_39_word_new_br3 | wreck<br>solution<br>fury |  
+| bip_39_word_new_br4 | wreck<br>solution<br>fury<br>invite |  
+| bip_39_word_new_br5 | wreck<br>solution<br>fury<br>invite<br>book |  
+| bip_39_word_new_br6 | wreck<br>solution<br>fury<br>invite<br>book<br>improve |  
+| bip_39_word_new_br7 | wreck<br>solution<br>fury<br>invite<br>book<br>improve<br>oppose |  
+| bip_39_word_new_br8 | wreck<br>solution<br>fury<br>invite<br>book<br>improve<br>oppose<br>guess |  
+| bip_39_word_new_br9 | wreck<br>solution<br>fury<br>invite<br>book<br>improve<br>oppose<br>guess<br>dynamic |  
+| bip_39_word_new_line1 | wreck |  
+| bip_39_word_new_line10 | wreck
+solution
+fury
+invite
+book
+improve
+oppose
+guess
+dynamic
+carpet |  
+| bip_39_word_new_line11 | wreck
+solution
+fury
+invite
+book
+improve
+oppose
+guess
+dynamic
+carpet
+wish |  
+| bip_39_word_new_line12 | wreck
+solution
+fury
+invite
+book
+improve
+oppose
+guess
+dynamic
+carpet
+wish
+afford |  
+| bip_39_word_new_line2 | wreck
+solution |  
+| bip_39_word_new_line3 | wreck
+solution
+fury |  
+| bip_39_word_new_line4 | wreck
+solution
+fury
+invite |  
+| bip_39_word_new_line5 | wreck
+solution
+fury
+invite
+book |  
+| bip_39_word_new_line6 | wreck
+solution
+fury
+invite
+book
+improve |  
+| bip_39_word_new_line7 | wreck
+solution
+fury
+invite
+book
+improve
+oppose |  
+| bip_39_word_new_line8 | wreck
+solution
+fury
+invite
+book
+improve
+oppose
+guess |  
+| bip_39_word_new_line9 | wreck
+solution
+fury
+invite
+book
+improve
+oppose
+guess
+dynamic |  
+| bip_39_word_space_0 | ['wreck', 'solution', 'fury', 'invite', 'book', 'improve', 'oppose', 'guess', 'dynamic', 'carpet', 'wish', 'afford'] |  
+| bip_39_word_space_1 | wreck |  
+| bip_39_word_space_10 | wreck solution fury invite book improve oppose guess dynamic carpet |  
+| bip_39_word_space_11 | wreck solution fury invite book improve oppose guess dynamic carpet wish |  
+| bip_39_word_space_12 | wreck solution fury invite book improve oppose guess dynamic carpet wish afford |  
+| bip_39_word_space_2 | wreck solution |  
+| bip_39_word_space_3 | wreck solution fury |  
+| bip_39_word_space_4 | wreck solution fury invite |  
+| bip_39_word_space_5 | wreck solution fury invite book |  
+| bip_39_word_space_6 | wreck solution fury invite book improve |  
+| bip_39_word_space_7 | wreck solution fury invite book improve oppose |  
+| bip_39_word_space_8 | wreck solution fury invite book improve oppose guess |  
+| bip_39_word_space_9 | wreck solution fury invite book improve oppose guess dynamic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

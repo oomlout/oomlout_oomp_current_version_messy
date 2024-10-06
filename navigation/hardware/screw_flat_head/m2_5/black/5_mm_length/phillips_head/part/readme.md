@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scout squeeze
+  * bip 39 word 3: scout squeeze damp
+  * bip 39 word: scout squeeze damp verify badge major actor cancel token venue connect access
 
 ### other_codes
 * short_code: fh2d5b5p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scout |  
+| bip_39_word_new_br10 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue |  
+| bip_39_word_new_br11 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue<br>connect |  
+| bip_39_word_new_br12 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token<br>venue<br>connect<br>access |  
+| bip_39_word_new_br2 | scout<br>squeeze |  
+| bip_39_word_new_br3 | scout<br>squeeze<br>damp |  
+| bip_39_word_new_br4 | scout<br>squeeze<br>damp<br>verify |  
+| bip_39_word_new_br5 | scout<br>squeeze<br>damp<br>verify<br>badge |  
+| bip_39_word_new_br6 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major |  
+| bip_39_word_new_br7 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor |  
+| bip_39_word_new_br8 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel |  
+| bip_39_word_new_br9 | scout<br>squeeze<br>damp<br>verify<br>badge<br>major<br>actor<br>cancel<br>token |  
+| bip_39_word_new_line1 | scout |  
+| bip_39_word_new_line10 | scout
+squeeze
+damp
+verify
+badge
+major
+actor
+cancel
+token
+venue |  
+| bip_39_word_new_line11 | scout
+squeeze
+damp
+verify
+badge
+major
+actor
+cancel
+token
+venue
+connect |  
+| bip_39_word_new_line12 | scout
+squeeze
+damp
+verify
+badge
+major
+actor
+cancel
+token
+venue
+connect
+access |  
+| bip_39_word_new_line2 | scout
+squeeze |  
+| bip_39_word_new_line3 | scout
+squeeze
+damp |  
+| bip_39_word_new_line4 | scout
+squeeze
+damp
+verify |  
+| bip_39_word_new_line5 | scout
+squeeze
+damp
+verify
+badge |  
+| bip_39_word_new_line6 | scout
+squeeze
+damp
+verify
+badge
+major |  
+| bip_39_word_new_line7 | scout
+squeeze
+damp
+verify
+badge
+major
+actor |  
+| bip_39_word_new_line8 | scout
+squeeze
+damp
+verify
+badge
+major
+actor
+cancel |  
+| bip_39_word_new_line9 | scout
+squeeze
+damp
+verify
+badge
+major
+actor
+cancel
+token |  
+| bip_39_word_space_0 | ['scout', 'squeeze', 'damp', 'verify', 'badge', 'major', 'actor', 'cancel', 'token', 'venue', 'connect', 'access'] |  
+| bip_39_word_space_1 | scout |  
+| bip_39_word_space_10 | scout squeeze damp verify badge major actor cancel token venue |  
+| bip_39_word_space_11 | scout squeeze damp verify badge major actor cancel token venue connect |  
+| bip_39_word_space_12 | scout squeeze damp verify badge major actor cancel token venue connect access |  
+| bip_39_word_space_2 | scout squeeze |  
+| bip_39_word_space_3 | scout squeeze damp |  
+| bip_39_word_space_4 | scout squeeze damp verify |  
+| bip_39_word_space_5 | scout squeeze damp verify badge |  
+| bip_39_word_space_6 | scout squeeze damp verify badge major |  
+| bip_39_word_space_7 | scout squeeze damp verify badge major actor |  
+| bip_39_word_space_8 | scout squeeze damp verify badge major actor cancel |  
+| bip_39_word_space_9 | scout squeeze damp verify badge major actor cancel token |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

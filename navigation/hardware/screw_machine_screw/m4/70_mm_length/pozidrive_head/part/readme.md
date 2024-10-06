@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: harsh imitate
+  * bip 39 word 3: harsh imitate volcano
+  * bip 39 word: harsh imitate volcano heavy dwarf vendor dilemma lens direct lawn cheap approve
 
 ### other_codes
 * short_code: ms4m70pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | harsh |  
+| bip_39_word_new_br10 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor<br>dilemma<br>lens<br>direct<br>lawn |  
+| bip_39_word_new_br11 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor<br>dilemma<br>lens<br>direct<br>lawn<br>cheap |  
+| bip_39_word_new_br12 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor<br>dilemma<br>lens<br>direct<br>lawn<br>cheap<br>approve |  
+| bip_39_word_new_br2 | harsh<br>imitate |  
+| bip_39_word_new_br3 | harsh<br>imitate<br>volcano |  
+| bip_39_word_new_br4 | harsh<br>imitate<br>volcano<br>heavy |  
+| bip_39_word_new_br5 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf |  
+| bip_39_word_new_br6 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor |  
+| bip_39_word_new_br7 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor<br>dilemma |  
+| bip_39_word_new_br8 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor<br>dilemma<br>lens |  
+| bip_39_word_new_br9 | harsh<br>imitate<br>volcano<br>heavy<br>dwarf<br>vendor<br>dilemma<br>lens<br>direct |  
+| bip_39_word_new_line1 | harsh |  
+| bip_39_word_new_line10 | harsh
+imitate
+volcano
+heavy
+dwarf
+vendor
+dilemma
+lens
+direct
+lawn |  
+| bip_39_word_new_line11 | harsh
+imitate
+volcano
+heavy
+dwarf
+vendor
+dilemma
+lens
+direct
+lawn
+cheap |  
+| bip_39_word_new_line12 | harsh
+imitate
+volcano
+heavy
+dwarf
+vendor
+dilemma
+lens
+direct
+lawn
+cheap
+approve |  
+| bip_39_word_new_line2 | harsh
+imitate |  
+| bip_39_word_new_line3 | harsh
+imitate
+volcano |  
+| bip_39_word_new_line4 | harsh
+imitate
+volcano
+heavy |  
+| bip_39_word_new_line5 | harsh
+imitate
+volcano
+heavy
+dwarf |  
+| bip_39_word_new_line6 | harsh
+imitate
+volcano
+heavy
+dwarf
+vendor |  
+| bip_39_word_new_line7 | harsh
+imitate
+volcano
+heavy
+dwarf
+vendor
+dilemma |  
+| bip_39_word_new_line8 | harsh
+imitate
+volcano
+heavy
+dwarf
+vendor
+dilemma
+lens |  
+| bip_39_word_new_line9 | harsh
+imitate
+volcano
+heavy
+dwarf
+vendor
+dilemma
+lens
+direct |  
+| bip_39_word_space_0 | ['harsh', 'imitate', 'volcano', 'heavy', 'dwarf', 'vendor', 'dilemma', 'lens', 'direct', 'lawn', 'cheap', 'approve'] |  
+| bip_39_word_space_1 | harsh |  
+| bip_39_word_space_10 | harsh imitate volcano heavy dwarf vendor dilemma lens direct lawn |  
+| bip_39_word_space_11 | harsh imitate volcano heavy dwarf vendor dilemma lens direct lawn cheap |  
+| bip_39_word_space_12 | harsh imitate volcano heavy dwarf vendor dilemma lens direct lawn cheap approve |  
+| bip_39_word_space_2 | harsh imitate |  
+| bip_39_word_space_3 | harsh imitate volcano |  
+| bip_39_word_space_4 | harsh imitate volcano heavy |  
+| bip_39_word_space_5 | harsh imitate volcano heavy dwarf |  
+| bip_39_word_space_6 | harsh imitate volcano heavy dwarf vendor |  
+| bip_39_word_space_7 | harsh imitate volcano heavy dwarf vendor dilemma |  
+| bip_39_word_space_8 | harsh imitate volcano heavy dwarf vendor dilemma lens |  
+| bip_39_word_space_9 | harsh imitate volcano heavy dwarf vendor dilemma lens direct |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: what stomach
+  * bip 39 word 3: what stomach protect
+  * bip 39 word: what stomach protect robot vague ask tenant figure scale gym vital autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | what |  
+| bip_39_word_new_br10 | what<br>stomach<br>protect<br>robot<br>vague<br>ask<br>tenant<br>figure<br>scale<br>gym |  
+| bip_39_word_new_br11 | what<br>stomach<br>protect<br>robot<br>vague<br>ask<br>tenant<br>figure<br>scale<br>gym<br>vital |  
+| bip_39_word_new_br12 | what<br>stomach<br>protect<br>robot<br>vague<br>ask<br>tenant<br>figure<br>scale<br>gym<br>vital<br>autumn |  
+| bip_39_word_new_br2 | what<br>stomach |  
+| bip_39_word_new_br3 | what<br>stomach<br>protect |  
+| bip_39_word_new_br4 | what<br>stomach<br>protect<br>robot |  
+| bip_39_word_new_br5 | what<br>stomach<br>protect<br>robot<br>vague |  
+| bip_39_word_new_br6 | what<br>stomach<br>protect<br>robot<br>vague<br>ask |  
+| bip_39_word_new_br7 | what<br>stomach<br>protect<br>robot<br>vague<br>ask<br>tenant |  
+| bip_39_word_new_br8 | what<br>stomach<br>protect<br>robot<br>vague<br>ask<br>tenant<br>figure |  
+| bip_39_word_new_br9 | what<br>stomach<br>protect<br>robot<br>vague<br>ask<br>tenant<br>figure<br>scale |  
+| bip_39_word_new_line1 | what |  
+| bip_39_word_new_line10 | what
+stomach
+protect
+robot
+vague
+ask
+tenant
+figure
+scale
+gym |  
+| bip_39_word_new_line11 | what
+stomach
+protect
+robot
+vague
+ask
+tenant
+figure
+scale
+gym
+vital |  
+| bip_39_word_new_line12 | what
+stomach
+protect
+robot
+vague
+ask
+tenant
+figure
+scale
+gym
+vital
+autumn |  
+| bip_39_word_new_line2 | what
+stomach |  
+| bip_39_word_new_line3 | what
+stomach
+protect |  
+| bip_39_word_new_line4 | what
+stomach
+protect
+robot |  
+| bip_39_word_new_line5 | what
+stomach
+protect
+robot
+vague |  
+| bip_39_word_new_line6 | what
+stomach
+protect
+robot
+vague
+ask |  
+| bip_39_word_new_line7 | what
+stomach
+protect
+robot
+vague
+ask
+tenant |  
+| bip_39_word_new_line8 | what
+stomach
+protect
+robot
+vague
+ask
+tenant
+figure |  
+| bip_39_word_new_line9 | what
+stomach
+protect
+robot
+vague
+ask
+tenant
+figure
+scale |  
+| bip_39_word_space_0 | ['what', 'stomach', 'protect', 'robot', 'vague', 'ask', 'tenant', 'figure', 'scale', 'gym', 'vital', 'autumn'] |  
+| bip_39_word_space_1 | what |  
+| bip_39_word_space_10 | what stomach protect robot vague ask tenant figure scale gym |  
+| bip_39_word_space_11 | what stomach protect robot vague ask tenant figure scale gym vital |  
+| bip_39_word_space_12 | what stomach protect robot vague ask tenant figure scale gym vital autumn |  
+| bip_39_word_space_2 | what stomach |  
+| bip_39_word_space_3 | what stomach protect |  
+| bip_39_word_space_4 | what stomach protect robot |  
+| bip_39_word_space_5 | what stomach protect robot vague |  
+| bip_39_word_space_6 | what stomach protect robot vague ask |  
+| bip_39_word_space_7 | what stomach protect robot vague ask tenant |  
+| bip_39_word_space_8 | what stomach protect robot vague ask tenant figure |  
+| bip_39_word_space_9 | what stomach protect robot vague ask tenant figure scale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

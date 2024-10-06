@@ -1,3 +1,187 @@
+bip_39_word_new_br1: artefact
+bip_39_word_new_br10: artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly
+bip_39_word_new_br11: artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly<br>apart
+bip_39_word_new_br12: artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft<br>ugly<br>apart<br>advance
+bip_39_word_new_br2: artefact<br>disease
+bip_39_word_new_br3: artefact<br>disease<br>question
+bip_39_word_new_br4: artefact<br>disease<br>question<br>cigar
+bip_39_word_new_br5: artefact<br>disease<br>question<br>cigar<br>hero
+bip_39_word_new_br6: artefact<br>disease<br>question<br>cigar<br>hero<br>project
+bip_39_word_new_br7: artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause
+bip_39_word_new_br8: artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain
+bip_39_word_new_br9: artefact<br>disease<br>question<br>cigar<br>hero<br>project<br>cause<br>grain<br>draft
+bip_39_word_new_line1: artefact
+bip_39_word_new_line10: 'artefact
+
+  disease
+
+  question
+
+  cigar
+
+  hero
+
+  project
+
+  cause
+
+  grain
+
+  draft
+
+  ugly'
+bip_39_word_new_line11: 'artefact
+
+  disease
+
+  question
+
+  cigar
+
+  hero
+
+  project
+
+  cause
+
+  grain
+
+  draft
+
+  ugly
+
+  apart'
+bip_39_word_new_line12: 'artefact
+
+  disease
+
+  question
+
+  cigar
+
+  hero
+
+  project
+
+  cause
+
+  grain
+
+  draft
+
+  ugly
+
+  apart
+
+  advance'
+bip_39_word_new_line2: 'artefact
+
+  disease'
+bip_39_word_new_line3: 'artefact
+
+  disease
+
+  question'
+bip_39_word_new_line4: 'artefact
+
+  disease
+
+  question
+
+  cigar'
+bip_39_word_new_line5: 'artefact
+
+  disease
+
+  question
+
+  cigar
+
+  hero'
+bip_39_word_new_line6: 'artefact
+
+  disease
+
+  question
+
+  cigar
+
+  hero
+
+  project'
+bip_39_word_new_line7: 'artefact
+
+  disease
+
+  question
+
+  cigar
+
+  hero
+
+  project
+
+  cause'
+bip_39_word_new_line8: 'artefact
+
+  disease
+
+  question
+
+  cigar
+
+  hero
+
+  project
+
+  cause
+
+  grain'
+bip_39_word_new_line9: 'artefact
+
+  disease
+
+  question
+
+  cigar
+
+  hero
+
+  project
+
+  cause
+
+  grain
+
+  draft'
+bip_39_word_space_0:
+- artefact
+- disease
+- question
+- cigar
+- hero
+- project
+- cause
+- grain
+- draft
+- ugly
+- apart
+- advance
+bip_39_word_space_1: artefact
+bip_39_word_space_10: artefact disease question cigar hero project cause grain draft
+  ugly
+bip_39_word_space_11: artefact disease question cigar hero project cause grain draft
+  ugly apart
+bip_39_word_space_12: artefact disease question cigar hero project cause grain draft
+  ugly apart advance
+bip_39_word_space_2: artefact disease
+bip_39_word_space_3: artefact disease question
+bip_39_word_space_4: artefact disease question cigar
+bip_39_word_space_5: artefact disease question cigar hero
+bip_39_word_space_6: artefact disease question cigar hero project
+bip_39_word_space_7: artefact disease question cigar hero project cause
+bip_39_word_space_8: artefact disease question cigar hero project cause grain
+bip_39_word_space_9: artefact disease question cigar hero project cause grain draft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

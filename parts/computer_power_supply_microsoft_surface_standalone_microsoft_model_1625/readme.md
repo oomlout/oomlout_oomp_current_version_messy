@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microsoft
   * part_number: model_1625
+  * bip 39 word 2: olive blast
+  * bip 39 word 3: olive blast reject
+  * bip 39 word: olive blast reject enlist vital govern cheese scan sunset awesome expire aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | olive |  
+| bip_39_word_new_br10 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern<br>cheese<br>scan<br>sunset<br>awesome |  
+| bip_39_word_new_br11 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern<br>cheese<br>scan<br>sunset<br>awesome<br>expire |  
+| bip_39_word_new_br12 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern<br>cheese<br>scan<br>sunset<br>awesome<br>expire<br>aunt |  
+| bip_39_word_new_br2 | olive<br>blast |  
+| bip_39_word_new_br3 | olive<br>blast<br>reject |  
+| bip_39_word_new_br4 | olive<br>blast<br>reject<br>enlist |  
+| bip_39_word_new_br5 | olive<br>blast<br>reject<br>enlist<br>vital |  
+| bip_39_word_new_br6 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern |  
+| bip_39_word_new_br7 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern<br>cheese |  
+| bip_39_word_new_br8 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern<br>cheese<br>scan |  
+| bip_39_word_new_br9 | olive<br>blast<br>reject<br>enlist<br>vital<br>govern<br>cheese<br>scan<br>sunset |  
+| bip_39_word_new_line1 | olive |  
+| bip_39_word_new_line10 | olive
+blast
+reject
+enlist
+vital
+govern
+cheese
+scan
+sunset
+awesome |  
+| bip_39_word_new_line11 | olive
+blast
+reject
+enlist
+vital
+govern
+cheese
+scan
+sunset
+awesome
+expire |  
+| bip_39_word_new_line12 | olive
+blast
+reject
+enlist
+vital
+govern
+cheese
+scan
+sunset
+awesome
+expire
+aunt |  
+| bip_39_word_new_line2 | olive
+blast |  
+| bip_39_word_new_line3 | olive
+blast
+reject |  
+| bip_39_word_new_line4 | olive
+blast
+reject
+enlist |  
+| bip_39_word_new_line5 | olive
+blast
+reject
+enlist
+vital |  
+| bip_39_word_new_line6 | olive
+blast
+reject
+enlist
+vital
+govern |  
+| bip_39_word_new_line7 | olive
+blast
+reject
+enlist
+vital
+govern
+cheese |  
+| bip_39_word_new_line8 | olive
+blast
+reject
+enlist
+vital
+govern
+cheese
+scan |  
+| bip_39_word_new_line9 | olive
+blast
+reject
+enlist
+vital
+govern
+cheese
+scan
+sunset |  
+| bip_39_word_space_0 | ['olive', 'blast', 'reject', 'enlist', 'vital', 'govern', 'cheese', 'scan', 'sunset', 'awesome', 'expire', 'aunt'] |  
+| bip_39_word_space_1 | olive |  
+| bip_39_word_space_10 | olive blast reject enlist vital govern cheese scan sunset awesome |  
+| bip_39_word_space_11 | olive blast reject enlist vital govern cheese scan sunset awesome expire |  
+| bip_39_word_space_12 | olive blast reject enlist vital govern cheese scan sunset awesome expire aunt |  
+| bip_39_word_space_2 | olive blast |  
+| bip_39_word_space_3 | olive blast reject |  
+| bip_39_word_space_4 | olive blast reject enlist |  
+| bip_39_word_space_5 | olive blast reject enlist vital |  
+| bip_39_word_space_6 | olive blast reject enlist vital govern |  
+| bip_39_word_space_7 | olive blast reject enlist vital govern cheese |  
+| bip_39_word_space_8 | olive blast reject enlist vital govern cheese scan |  
+| bip_39_word_space_9 | olive blast reject enlist vital govern cheese scan sunset |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

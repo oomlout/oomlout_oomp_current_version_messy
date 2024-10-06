@@ -1,3 +1,186 @@
+bip_39_word_new_br1: copper
+bip_39_word_new_br10: copper<br>crane<br>muffin<br>auto<br>question<br>say<br>marriage<br>over<br>tag<br>gasp
+bip_39_word_new_br11: copper<br>crane<br>muffin<br>auto<br>question<br>say<br>marriage<br>over<br>tag<br>gasp<br>labor
+bip_39_word_new_br12: copper<br>crane<br>muffin<br>auto<br>question<br>say<br>marriage<br>over<br>tag<br>gasp<br>labor<br>assault
+bip_39_word_new_br2: copper<br>crane
+bip_39_word_new_br3: copper<br>crane<br>muffin
+bip_39_word_new_br4: copper<br>crane<br>muffin<br>auto
+bip_39_word_new_br5: copper<br>crane<br>muffin<br>auto<br>question
+bip_39_word_new_br6: copper<br>crane<br>muffin<br>auto<br>question<br>say
+bip_39_word_new_br7: copper<br>crane<br>muffin<br>auto<br>question<br>say<br>marriage
+bip_39_word_new_br8: copper<br>crane<br>muffin<br>auto<br>question<br>say<br>marriage<br>over
+bip_39_word_new_br9: copper<br>crane<br>muffin<br>auto<br>question<br>say<br>marriage<br>over<br>tag
+bip_39_word_new_line1: copper
+bip_39_word_new_line10: 'copper
+
+  crane
+
+  muffin
+
+  auto
+
+  question
+
+  say
+
+  marriage
+
+  over
+
+  tag
+
+  gasp'
+bip_39_word_new_line11: 'copper
+
+  crane
+
+  muffin
+
+  auto
+
+  question
+
+  say
+
+  marriage
+
+  over
+
+  tag
+
+  gasp
+
+  labor'
+bip_39_word_new_line12: 'copper
+
+  crane
+
+  muffin
+
+  auto
+
+  question
+
+  say
+
+  marriage
+
+  over
+
+  tag
+
+  gasp
+
+  labor
+
+  assault'
+bip_39_word_new_line2: 'copper
+
+  crane'
+bip_39_word_new_line3: 'copper
+
+  crane
+
+  muffin'
+bip_39_word_new_line4: 'copper
+
+  crane
+
+  muffin
+
+  auto'
+bip_39_word_new_line5: 'copper
+
+  crane
+
+  muffin
+
+  auto
+
+  question'
+bip_39_word_new_line6: 'copper
+
+  crane
+
+  muffin
+
+  auto
+
+  question
+
+  say'
+bip_39_word_new_line7: 'copper
+
+  crane
+
+  muffin
+
+  auto
+
+  question
+
+  say
+
+  marriage'
+bip_39_word_new_line8: 'copper
+
+  crane
+
+  muffin
+
+  auto
+
+  question
+
+  say
+
+  marriage
+
+  over'
+bip_39_word_new_line9: 'copper
+
+  crane
+
+  muffin
+
+  auto
+
+  question
+
+  say
+
+  marriage
+
+  over
+
+  tag'
+bip_39_word_space_0:
+- copper
+- crane
+- muffin
+- auto
+- question
+- say
+- marriage
+- over
+- tag
+- gasp
+- labor
+- assault
+bip_39_word_space_1: copper
+bip_39_word_space_10: copper crane muffin auto question say marriage over tag gasp
+bip_39_word_space_11: copper crane muffin auto question say marriage over tag gasp
+  labor
+bip_39_word_space_12: copper crane muffin auto question say marriage over tag gasp
+  labor assault
+bip_39_word_space_2: copper crane
+bip_39_word_space_3: copper crane muffin
+bip_39_word_space_4: copper crane muffin auto
+bip_39_word_space_5: copper crane muffin auto question
+bip_39_word_space_6: copper crane muffin auto question say
+bip_39_word_space_7: copper crane muffin auto question say marriage
+bip_39_word_space_8: copper crane muffin auto question say marriage over
+bip_39_word_space_9: copper crane muffin auto question say marriage over tag
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

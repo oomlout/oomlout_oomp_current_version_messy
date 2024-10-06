@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: defense maximum
+  * bip 39 word 3: defense maximum point
+  * bip 39 word: defense maximum point pattern left identify uncle resource earn trade barrel avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | defense |  
+| bip_39_word_new_br10 | defense<br>maximum<br>point<br>pattern<br>left<br>identify<br>uncle<br>resource<br>earn<br>trade |  
+| bip_39_word_new_br11 | defense<br>maximum<br>point<br>pattern<br>left<br>identify<br>uncle<br>resource<br>earn<br>trade<br>barrel |  
+| bip_39_word_new_br12 | defense<br>maximum<br>point<br>pattern<br>left<br>identify<br>uncle<br>resource<br>earn<br>trade<br>barrel<br>avocado |  
+| bip_39_word_new_br2 | defense<br>maximum |  
+| bip_39_word_new_br3 | defense<br>maximum<br>point |  
+| bip_39_word_new_br4 | defense<br>maximum<br>point<br>pattern |  
+| bip_39_word_new_br5 | defense<br>maximum<br>point<br>pattern<br>left |  
+| bip_39_word_new_br6 | defense<br>maximum<br>point<br>pattern<br>left<br>identify |  
+| bip_39_word_new_br7 | defense<br>maximum<br>point<br>pattern<br>left<br>identify<br>uncle |  
+| bip_39_word_new_br8 | defense<br>maximum<br>point<br>pattern<br>left<br>identify<br>uncle<br>resource |  
+| bip_39_word_new_br9 | defense<br>maximum<br>point<br>pattern<br>left<br>identify<br>uncle<br>resource<br>earn |  
+| bip_39_word_new_line1 | defense |  
+| bip_39_word_new_line10 | defense
+maximum
+point
+pattern
+left
+identify
+uncle
+resource
+earn
+trade |  
+| bip_39_word_new_line11 | defense
+maximum
+point
+pattern
+left
+identify
+uncle
+resource
+earn
+trade
+barrel |  
+| bip_39_word_new_line12 | defense
+maximum
+point
+pattern
+left
+identify
+uncle
+resource
+earn
+trade
+barrel
+avocado |  
+| bip_39_word_new_line2 | defense
+maximum |  
+| bip_39_word_new_line3 | defense
+maximum
+point |  
+| bip_39_word_new_line4 | defense
+maximum
+point
+pattern |  
+| bip_39_word_new_line5 | defense
+maximum
+point
+pattern
+left |  
+| bip_39_word_new_line6 | defense
+maximum
+point
+pattern
+left
+identify |  
+| bip_39_word_new_line7 | defense
+maximum
+point
+pattern
+left
+identify
+uncle |  
+| bip_39_word_new_line8 | defense
+maximum
+point
+pattern
+left
+identify
+uncle
+resource |  
+| bip_39_word_new_line9 | defense
+maximum
+point
+pattern
+left
+identify
+uncle
+resource
+earn |  
+| bip_39_word_space_0 | ['defense', 'maximum', 'point', 'pattern', 'left', 'identify', 'uncle', 'resource', 'earn', 'trade', 'barrel', 'avocado'] |  
+| bip_39_word_space_1 | defense |  
+| bip_39_word_space_10 | defense maximum point pattern left identify uncle resource earn trade |  
+| bip_39_word_space_11 | defense maximum point pattern left identify uncle resource earn trade barrel |  
+| bip_39_word_space_12 | defense maximum point pattern left identify uncle resource earn trade barrel avocado |  
+| bip_39_word_space_2 | defense maximum |  
+| bip_39_word_space_3 | defense maximum point |  
+| bip_39_word_space_4 | defense maximum point pattern |  
+| bip_39_word_space_5 | defense maximum point pattern left |  
+| bip_39_word_space_6 | defense maximum point pattern left identify |  
+| bip_39_word_space_7 | defense maximum point pattern left identify uncle |  
+| bip_39_word_space_8 | defense maximum point pattern left identify uncle resource |  
+| bip_39_word_space_9 | defense maximum point pattern left identify uncle resource earn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

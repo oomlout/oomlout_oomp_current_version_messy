@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ship
+bip_39_word_new_br10: ship<br>nest<br>awesome<br>spirit<br>pitch<br>boring<br>travel<br>smart<br>elite<br>number
+bip_39_word_new_br11: ship<br>nest<br>awesome<br>spirit<br>pitch<br>boring<br>travel<br>smart<br>elite<br>number<br>clap
+bip_39_word_new_br12: ship<br>nest<br>awesome<br>spirit<br>pitch<br>boring<br>travel<br>smart<br>elite<br>number<br>clap<br>area
+bip_39_word_new_br2: ship<br>nest
+bip_39_word_new_br3: ship<br>nest<br>awesome
+bip_39_word_new_br4: ship<br>nest<br>awesome<br>spirit
+bip_39_word_new_br5: ship<br>nest<br>awesome<br>spirit<br>pitch
+bip_39_word_new_br6: ship<br>nest<br>awesome<br>spirit<br>pitch<br>boring
+bip_39_word_new_br7: ship<br>nest<br>awesome<br>spirit<br>pitch<br>boring<br>travel
+bip_39_word_new_br8: ship<br>nest<br>awesome<br>spirit<br>pitch<br>boring<br>travel<br>smart
+bip_39_word_new_br9: ship<br>nest<br>awesome<br>spirit<br>pitch<br>boring<br>travel<br>smart<br>elite
+bip_39_word_new_line1: ship
+bip_39_word_new_line10: 'ship
+
+  nest
+
+  awesome
+
+  spirit
+
+  pitch
+
+  boring
+
+  travel
+
+  smart
+
+  elite
+
+  number'
+bip_39_word_new_line11: 'ship
+
+  nest
+
+  awesome
+
+  spirit
+
+  pitch
+
+  boring
+
+  travel
+
+  smart
+
+  elite
+
+  number
+
+  clap'
+bip_39_word_new_line12: 'ship
+
+  nest
+
+  awesome
+
+  spirit
+
+  pitch
+
+  boring
+
+  travel
+
+  smart
+
+  elite
+
+  number
+
+  clap
+
+  area'
+bip_39_word_new_line2: 'ship
+
+  nest'
+bip_39_word_new_line3: 'ship
+
+  nest
+
+  awesome'
+bip_39_word_new_line4: 'ship
+
+  nest
+
+  awesome
+
+  spirit'
+bip_39_word_new_line5: 'ship
+
+  nest
+
+  awesome
+
+  spirit
+
+  pitch'
+bip_39_word_new_line6: 'ship
+
+  nest
+
+  awesome
+
+  spirit
+
+  pitch
+
+  boring'
+bip_39_word_new_line7: 'ship
+
+  nest
+
+  awesome
+
+  spirit
+
+  pitch
+
+  boring
+
+  travel'
+bip_39_word_new_line8: 'ship
+
+  nest
+
+  awesome
+
+  spirit
+
+  pitch
+
+  boring
+
+  travel
+
+  smart'
+bip_39_word_new_line9: 'ship
+
+  nest
+
+  awesome
+
+  spirit
+
+  pitch
+
+  boring
+
+  travel
+
+  smart
+
+  elite'
+bip_39_word_space_0:
+- ship
+- nest
+- awesome
+- spirit
+- pitch
+- boring
+- travel
+- smart
+- elite
+- number
+- clap
+- area
+bip_39_word_space_1: ship
+bip_39_word_space_10: ship nest awesome spirit pitch boring travel smart elite number
+bip_39_word_space_11: ship nest awesome spirit pitch boring travel smart elite number
+  clap
+bip_39_word_space_12: ship nest awesome spirit pitch boring travel smart elite number
+  clap area
+bip_39_word_space_2: ship nest
+bip_39_word_space_3: ship nest awesome
+bip_39_word_space_4: ship nest awesome spirit
+bip_39_word_space_5: ship nest awesome spirit pitch
+bip_39_word_space_6: ship nest awesome spirit pitch boring
+bip_39_word_space_7: ship nest awesome spirit pitch boring travel
+bip_39_word_space_8: ship nest awesome spirit pitch boring travel smart
+bip_39_word_space_9: ship nest awesome spirit pitch boring travel smart elite
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dress
+bip_39_word_new_br10: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama<br>health
+bip_39_word_new_br11: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama<br>health<br>gospel
+bip_39_word_new_br12: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama<br>health<br>gospel<br>again
+bip_39_word_new_br2: dress<br>lend
+bip_39_word_new_br3: dress<br>lend<br>dose
+bip_39_word_new_br4: dress<br>lend<br>dose<br>risk
+bip_39_word_new_br5: dress<br>lend<br>dose<br>risk<br>castle
+bip_39_word_new_br6: dress<br>lend<br>dose<br>risk<br>castle<br>luggage
+bip_39_word_new_br7: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss
+bip_39_word_new_br8: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special
+bip_39_word_new_br9: dress<br>lend<br>dose<br>risk<br>castle<br>luggage<br>miss<br>special<br>drama
+bip_39_word_new_line1: dress
+bip_39_word_new_line10: 'dress
+
+  lend
+
+  dose
+
+  risk
+
+  castle
+
+  luggage
+
+  miss
+
+  special
+
+  drama
+
+  health'
+bip_39_word_new_line11: 'dress
+
+  lend
+
+  dose
+
+  risk
+
+  castle
+
+  luggage
+
+  miss
+
+  special
+
+  drama
+
+  health
+
+  gospel'
+bip_39_word_new_line12: 'dress
+
+  lend
+
+  dose
+
+  risk
+
+  castle
+
+  luggage
+
+  miss
+
+  special
+
+  drama
+
+  health
+
+  gospel
+
+  again'
+bip_39_word_new_line2: 'dress
+
+  lend'
+bip_39_word_new_line3: 'dress
+
+  lend
+
+  dose'
+bip_39_word_new_line4: 'dress
+
+  lend
+
+  dose
+
+  risk'
+bip_39_word_new_line5: 'dress
+
+  lend
+
+  dose
+
+  risk
+
+  castle'
+bip_39_word_new_line6: 'dress
+
+  lend
+
+  dose
+
+  risk
+
+  castle
+
+  luggage'
+bip_39_word_new_line7: 'dress
+
+  lend
+
+  dose
+
+  risk
+
+  castle
+
+  luggage
+
+  miss'
+bip_39_word_new_line8: 'dress
+
+  lend
+
+  dose
+
+  risk
+
+  castle
+
+  luggage
+
+  miss
+
+  special'
+bip_39_word_new_line9: 'dress
+
+  lend
+
+  dose
+
+  risk
+
+  castle
+
+  luggage
+
+  miss
+
+  special
+
+  drama'
+bip_39_word_space_0:
+- dress
+- lend
+- dose
+- risk
+- castle
+- luggage
+- miss
+- special
+- drama
+- health
+- gospel
+- again
+bip_39_word_space_1: dress
+bip_39_word_space_10: dress lend dose risk castle luggage miss special drama health
+bip_39_word_space_11: dress lend dose risk castle luggage miss special drama health
+  gospel
+bip_39_word_space_12: dress lend dose risk castle luggage miss special drama health
+  gospel again
+bip_39_word_space_2: dress lend
+bip_39_word_space_3: dress lend dose
+bip_39_word_space_4: dress lend dose risk
+bip_39_word_space_5: dress lend dose risk castle
+bip_39_word_space_6: dress lend dose risk castle luggage
+bip_39_word_space_7: dress lend dose risk castle luggage miss
+bip_39_word_space_8: dress lend dose risk castle luggage miss special
+bip_39_word_space_9: dress lend dose risk castle luggage miss special drama
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

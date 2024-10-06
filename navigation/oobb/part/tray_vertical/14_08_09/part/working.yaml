@@ -1,3 +1,187 @@
+bip_39_word_new_br1: daughter
+bip_39_word_new_br10: daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable<br>essay<br>visit<br>north<br>wise
+bip_39_word_new_br11: daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable<br>essay<br>visit<br>north<br>wise<br>pupil
+bip_39_word_new_br12: daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable<br>essay<br>visit<br>north<br>wise<br>pupil<br>air
+bip_39_word_new_br2: daughter<br>cupboard
+bip_39_word_new_br3: daughter<br>cupboard<br>verify
+bip_39_word_new_br4: daughter<br>cupboard<br>verify<br>cradle
+bip_39_word_new_br5: daughter<br>cupboard<br>verify<br>cradle<br>topple
+bip_39_word_new_br6: daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable
+bip_39_word_new_br7: daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable<br>essay
+bip_39_word_new_br8: daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable<br>essay<br>visit
+bip_39_word_new_br9: daughter<br>cupboard<br>verify<br>cradle<br>topple<br>capable<br>essay<br>visit<br>north
+bip_39_word_new_line1: daughter
+bip_39_word_new_line10: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle
+
+  topple
+
+  capable
+
+  essay
+
+  visit
+
+  north
+
+  wise'
+bip_39_word_new_line11: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle
+
+  topple
+
+  capable
+
+  essay
+
+  visit
+
+  north
+
+  wise
+
+  pupil'
+bip_39_word_new_line12: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle
+
+  topple
+
+  capable
+
+  essay
+
+  visit
+
+  north
+
+  wise
+
+  pupil
+
+  air'
+bip_39_word_new_line2: 'daughter
+
+  cupboard'
+bip_39_word_new_line3: 'daughter
+
+  cupboard
+
+  verify'
+bip_39_word_new_line4: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle'
+bip_39_word_new_line5: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle
+
+  topple'
+bip_39_word_new_line6: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle
+
+  topple
+
+  capable'
+bip_39_word_new_line7: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle
+
+  topple
+
+  capable
+
+  essay'
+bip_39_word_new_line8: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle
+
+  topple
+
+  capable
+
+  essay
+
+  visit'
+bip_39_word_new_line9: 'daughter
+
+  cupboard
+
+  verify
+
+  cradle
+
+  topple
+
+  capable
+
+  essay
+
+  visit
+
+  north'
+bip_39_word_space_0:
+- daughter
+- cupboard
+- verify
+- cradle
+- topple
+- capable
+- essay
+- visit
+- north
+- wise
+- pupil
+- air
+bip_39_word_space_1: daughter
+bip_39_word_space_10: daughter cupboard verify cradle topple capable essay visit north
+  wise
+bip_39_word_space_11: daughter cupboard verify cradle topple capable essay visit north
+  wise pupil
+bip_39_word_space_12: daughter cupboard verify cradle topple capable essay visit north
+  wise pupil air
+bip_39_word_space_2: daughter cupboard
+bip_39_word_space_3: daughter cupboard verify
+bip_39_word_space_4: daughter cupboard verify cradle
+bip_39_word_space_5: daughter cupboard verify cradle topple
+bip_39_word_space_6: daughter cupboard verify cradle topple capable
+bip_39_word_space_7: daughter cupboard verify cradle topple capable essay
+bip_39_word_space_8: daughter cupboard verify cradle topple capable essay visit
+bip_39_word_space_9: daughter cupboard verify cradle topple capable essay visit north
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

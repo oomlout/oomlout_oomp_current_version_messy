@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: w
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: staff security
+  * bip 39 word 3: staff security sight
+  * bip 39 word: staff security sight jazz seek man park night rubber fiber wall anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | staff |  
+| bip_39_word_new_br10 | staff<br>security<br>sight<br>jazz<br>seek<br>man<br>park<br>night<br>rubber<br>fiber |  
+| bip_39_word_new_br11 | staff<br>security<br>sight<br>jazz<br>seek<br>man<br>park<br>night<br>rubber<br>fiber<br>wall |  
+| bip_39_word_new_br12 | staff<br>security<br>sight<br>jazz<br>seek<br>man<br>park<br>night<br>rubber<br>fiber<br>wall<br>anger |  
+| bip_39_word_new_br2 | staff<br>security |  
+| bip_39_word_new_br3 | staff<br>security<br>sight |  
+| bip_39_word_new_br4 | staff<br>security<br>sight<br>jazz |  
+| bip_39_word_new_br5 | staff<br>security<br>sight<br>jazz<br>seek |  
+| bip_39_word_new_br6 | staff<br>security<br>sight<br>jazz<br>seek<br>man |  
+| bip_39_word_new_br7 | staff<br>security<br>sight<br>jazz<br>seek<br>man<br>park |  
+| bip_39_word_new_br8 | staff<br>security<br>sight<br>jazz<br>seek<br>man<br>park<br>night |  
+| bip_39_word_new_br9 | staff<br>security<br>sight<br>jazz<br>seek<br>man<br>park<br>night<br>rubber |  
+| bip_39_word_new_line1 | staff |  
+| bip_39_word_new_line10 | staff
+security
+sight
+jazz
+seek
+man
+park
+night
+rubber
+fiber |  
+| bip_39_word_new_line11 | staff
+security
+sight
+jazz
+seek
+man
+park
+night
+rubber
+fiber
+wall |  
+| bip_39_word_new_line12 | staff
+security
+sight
+jazz
+seek
+man
+park
+night
+rubber
+fiber
+wall
+anger |  
+| bip_39_word_new_line2 | staff
+security |  
+| bip_39_word_new_line3 | staff
+security
+sight |  
+| bip_39_word_new_line4 | staff
+security
+sight
+jazz |  
+| bip_39_word_new_line5 | staff
+security
+sight
+jazz
+seek |  
+| bip_39_word_new_line6 | staff
+security
+sight
+jazz
+seek
+man |  
+| bip_39_word_new_line7 | staff
+security
+sight
+jazz
+seek
+man
+park |  
+| bip_39_word_new_line8 | staff
+security
+sight
+jazz
+seek
+man
+park
+night |  
+| bip_39_word_new_line9 | staff
+security
+sight
+jazz
+seek
+man
+park
+night
+rubber |  
+| bip_39_word_space_0 | ['staff', 'security', 'sight', 'jazz', 'seek', 'man', 'park', 'night', 'rubber', 'fiber', 'wall', 'anger'] |  
+| bip_39_word_space_1 | staff |  
+| bip_39_word_space_10 | staff security sight jazz seek man park night rubber fiber |  
+| bip_39_word_space_11 | staff security sight jazz seek man park night rubber fiber wall |  
+| bip_39_word_space_12 | staff security sight jazz seek man park night rubber fiber wall anger |  
+| bip_39_word_space_2 | staff security |  
+| bip_39_word_space_3 | staff security sight |  
+| bip_39_word_space_4 | staff security sight jazz |  
+| bip_39_word_space_5 | staff security sight jazz seek |  
+| bip_39_word_space_6 | staff security sight jazz seek man |  
+| bip_39_word_space_7 | staff security sight jazz seek man park |  
+| bip_39_word_space_8 | staff security sight jazz seek man park night |  
+| bip_39_word_space_9 | staff security sight jazz seek man park night rubber |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

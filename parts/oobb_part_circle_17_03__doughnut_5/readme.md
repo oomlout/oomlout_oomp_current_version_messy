@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: body razor
+  * bip 39 word 3: body razor load
+  * bip 39 word: body razor load eye voyage trap upset auto must moon cradle asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | body |  
+| bip_39_word_new_br10 | body<br>razor<br>load<br>eye<br>voyage<br>trap<br>upset<br>auto<br>must<br>moon |  
+| bip_39_word_new_br11 | body<br>razor<br>load<br>eye<br>voyage<br>trap<br>upset<br>auto<br>must<br>moon<br>cradle |  
+| bip_39_word_new_br12 | body<br>razor<br>load<br>eye<br>voyage<br>trap<br>upset<br>auto<br>must<br>moon<br>cradle<br>asset |  
+| bip_39_word_new_br2 | body<br>razor |  
+| bip_39_word_new_br3 | body<br>razor<br>load |  
+| bip_39_word_new_br4 | body<br>razor<br>load<br>eye |  
+| bip_39_word_new_br5 | body<br>razor<br>load<br>eye<br>voyage |  
+| bip_39_word_new_br6 | body<br>razor<br>load<br>eye<br>voyage<br>trap |  
+| bip_39_word_new_br7 | body<br>razor<br>load<br>eye<br>voyage<br>trap<br>upset |  
+| bip_39_word_new_br8 | body<br>razor<br>load<br>eye<br>voyage<br>trap<br>upset<br>auto |  
+| bip_39_word_new_br9 | body<br>razor<br>load<br>eye<br>voyage<br>trap<br>upset<br>auto<br>must |  
+| bip_39_word_new_line1 | body |  
+| bip_39_word_new_line10 | body
+razor
+load
+eye
+voyage
+trap
+upset
+auto
+must
+moon |  
+| bip_39_word_new_line11 | body
+razor
+load
+eye
+voyage
+trap
+upset
+auto
+must
+moon
+cradle |  
+| bip_39_word_new_line12 | body
+razor
+load
+eye
+voyage
+trap
+upset
+auto
+must
+moon
+cradle
+asset |  
+| bip_39_word_new_line2 | body
+razor |  
+| bip_39_word_new_line3 | body
+razor
+load |  
+| bip_39_word_new_line4 | body
+razor
+load
+eye |  
+| bip_39_word_new_line5 | body
+razor
+load
+eye
+voyage |  
+| bip_39_word_new_line6 | body
+razor
+load
+eye
+voyage
+trap |  
+| bip_39_word_new_line7 | body
+razor
+load
+eye
+voyage
+trap
+upset |  
+| bip_39_word_new_line8 | body
+razor
+load
+eye
+voyage
+trap
+upset
+auto |  
+| bip_39_word_new_line9 | body
+razor
+load
+eye
+voyage
+trap
+upset
+auto
+must |  
+| bip_39_word_space_0 | ['body', 'razor', 'load', 'eye', 'voyage', 'trap', 'upset', 'auto', 'must', 'moon', 'cradle', 'asset'] |  
+| bip_39_word_space_1 | body |  
+| bip_39_word_space_10 | body razor load eye voyage trap upset auto must moon |  
+| bip_39_word_space_11 | body razor load eye voyage trap upset auto must moon cradle |  
+| bip_39_word_space_12 | body razor load eye voyage trap upset auto must moon cradle asset |  
+| bip_39_word_space_2 | body razor |  
+| bip_39_word_space_3 | body razor load |  
+| bip_39_word_space_4 | body razor load eye |  
+| bip_39_word_space_5 | body razor load eye voyage |  
+| bip_39_word_space_6 | body razor load eye voyage trap |  
+| bip_39_word_space_7 | body razor load eye voyage trap upset |  
+| bip_39_word_space_8 | body razor load eye voyage trap upset auto |  
+| bip_39_word_space_9 | body razor load eye voyage trap upset auto must |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

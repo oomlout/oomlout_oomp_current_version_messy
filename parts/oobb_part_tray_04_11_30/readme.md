@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: peace episode
+  * bip 39 word 3: peace episode extra
+  * bip 39 word: peace episode extra lecture lava source margin choice tonight hint pony angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | peace |  
+| bip_39_word_new_br10 | peace<br>episode<br>extra<br>lecture<br>lava<br>source<br>margin<br>choice<br>tonight<br>hint |  
+| bip_39_word_new_br11 | peace<br>episode<br>extra<br>lecture<br>lava<br>source<br>margin<br>choice<br>tonight<br>hint<br>pony |  
+| bip_39_word_new_br12 | peace<br>episode<br>extra<br>lecture<br>lava<br>source<br>margin<br>choice<br>tonight<br>hint<br>pony<br>angle |  
+| bip_39_word_new_br2 | peace<br>episode |  
+| bip_39_word_new_br3 | peace<br>episode<br>extra |  
+| bip_39_word_new_br4 | peace<br>episode<br>extra<br>lecture |  
+| bip_39_word_new_br5 | peace<br>episode<br>extra<br>lecture<br>lava |  
+| bip_39_word_new_br6 | peace<br>episode<br>extra<br>lecture<br>lava<br>source |  
+| bip_39_word_new_br7 | peace<br>episode<br>extra<br>lecture<br>lava<br>source<br>margin |  
+| bip_39_word_new_br8 | peace<br>episode<br>extra<br>lecture<br>lava<br>source<br>margin<br>choice |  
+| bip_39_word_new_br9 | peace<br>episode<br>extra<br>lecture<br>lava<br>source<br>margin<br>choice<br>tonight |  
+| bip_39_word_new_line1 | peace |  
+| bip_39_word_new_line10 | peace
+episode
+extra
+lecture
+lava
+source
+margin
+choice
+tonight
+hint |  
+| bip_39_word_new_line11 | peace
+episode
+extra
+lecture
+lava
+source
+margin
+choice
+tonight
+hint
+pony |  
+| bip_39_word_new_line12 | peace
+episode
+extra
+lecture
+lava
+source
+margin
+choice
+tonight
+hint
+pony
+angle |  
+| bip_39_word_new_line2 | peace
+episode |  
+| bip_39_word_new_line3 | peace
+episode
+extra |  
+| bip_39_word_new_line4 | peace
+episode
+extra
+lecture |  
+| bip_39_word_new_line5 | peace
+episode
+extra
+lecture
+lava |  
+| bip_39_word_new_line6 | peace
+episode
+extra
+lecture
+lava
+source |  
+| bip_39_word_new_line7 | peace
+episode
+extra
+lecture
+lava
+source
+margin |  
+| bip_39_word_new_line8 | peace
+episode
+extra
+lecture
+lava
+source
+margin
+choice |  
+| bip_39_word_new_line9 | peace
+episode
+extra
+lecture
+lava
+source
+margin
+choice
+tonight |  
+| bip_39_word_space_0 | ['peace', 'episode', 'extra', 'lecture', 'lava', 'source', 'margin', 'choice', 'tonight', 'hint', 'pony', 'angle'] |  
+| bip_39_word_space_1 | peace |  
+| bip_39_word_space_10 | peace episode extra lecture lava source margin choice tonight hint |  
+| bip_39_word_space_11 | peace episode extra lecture lava source margin choice tonight hint pony |  
+| bip_39_word_space_12 | peace episode extra lecture lava source margin choice tonight hint pony angle |  
+| bip_39_word_space_2 | peace episode |  
+| bip_39_word_space_3 | peace episode extra |  
+| bip_39_word_space_4 | peace episode extra lecture |  
+| bip_39_word_space_5 | peace episode extra lecture lava |  
+| bip_39_word_space_6 | peace episode extra lecture lava source |  
+| bip_39_word_space_7 | peace episode extra lecture lava source margin |  
+| bip_39_word_space_8 | peace episode extra lecture lava source margin choice |  
+| bip_39_word_space_9 | peace episode extra lecture lava source margin choice tonight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

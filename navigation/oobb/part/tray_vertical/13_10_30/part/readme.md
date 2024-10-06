@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: buyer pencil
+  * bip 39 word 3: buyer pencil orange
+  * bip 39 word: buyer pencil orange usual pudding catch suffer general black symptom find ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | buyer |  
+| bip_39_word_new_br10 | buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch<br>suffer<br>general<br>black<br>symptom |  
+| bip_39_word_new_br11 | buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch<br>suffer<br>general<br>black<br>symptom<br>find |  
+| bip_39_word_new_br12 | buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch<br>suffer<br>general<br>black<br>symptom<br>find<br>ancient |  
+| bip_39_word_new_br2 | buyer<br>pencil |  
+| bip_39_word_new_br3 | buyer<br>pencil<br>orange |  
+| bip_39_word_new_br4 | buyer<br>pencil<br>orange<br>usual |  
+| bip_39_word_new_br5 | buyer<br>pencil<br>orange<br>usual<br>pudding |  
+| bip_39_word_new_br6 | buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch |  
+| bip_39_word_new_br7 | buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch<br>suffer |  
+| bip_39_word_new_br8 | buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch<br>suffer<br>general |  
+| bip_39_word_new_br9 | buyer<br>pencil<br>orange<br>usual<br>pudding<br>catch<br>suffer<br>general<br>black |  
+| bip_39_word_new_line1 | buyer |  
+| bip_39_word_new_line10 | buyer
+pencil
+orange
+usual
+pudding
+catch
+suffer
+general
+black
+symptom |  
+| bip_39_word_new_line11 | buyer
+pencil
+orange
+usual
+pudding
+catch
+suffer
+general
+black
+symptom
+find |  
+| bip_39_word_new_line12 | buyer
+pencil
+orange
+usual
+pudding
+catch
+suffer
+general
+black
+symptom
+find
+ancient |  
+| bip_39_word_new_line2 | buyer
+pencil |  
+| bip_39_word_new_line3 | buyer
+pencil
+orange |  
+| bip_39_word_new_line4 | buyer
+pencil
+orange
+usual |  
+| bip_39_word_new_line5 | buyer
+pencil
+orange
+usual
+pudding |  
+| bip_39_word_new_line6 | buyer
+pencil
+orange
+usual
+pudding
+catch |  
+| bip_39_word_new_line7 | buyer
+pencil
+orange
+usual
+pudding
+catch
+suffer |  
+| bip_39_word_new_line8 | buyer
+pencil
+orange
+usual
+pudding
+catch
+suffer
+general |  
+| bip_39_word_new_line9 | buyer
+pencil
+orange
+usual
+pudding
+catch
+suffer
+general
+black |  
+| bip_39_word_space_0 | ['buyer', 'pencil', 'orange', 'usual', 'pudding', 'catch', 'suffer', 'general', 'black', 'symptom', 'find', 'ancient'] |  
+| bip_39_word_space_1 | buyer |  
+| bip_39_word_space_10 | buyer pencil orange usual pudding catch suffer general black symptom |  
+| bip_39_word_space_11 | buyer pencil orange usual pudding catch suffer general black symptom find |  
+| bip_39_word_space_12 | buyer pencil orange usual pudding catch suffer general black symptom find ancient |  
+| bip_39_word_space_2 | buyer pencil |  
+| bip_39_word_space_3 | buyer pencil orange |  
+| bip_39_word_space_4 | buyer pencil orange usual |  
+| bip_39_word_space_5 | buyer pencil orange usual pudding |  
+| bip_39_word_space_6 | buyer pencil orange usual pudding catch |  
+| bip_39_word_space_7 | buyer pencil orange usual pudding catch suffer |  
+| bip_39_word_space_8 | buyer pencil orange usual pudding catch suffer general |  
+| bip_39_word_space_9 | buyer pencil orange usual pudding catch suffer general black |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

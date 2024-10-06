@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rookie typical
+  * bip 39 word 3: rookie typical zebra
+  * bip 39 word: rookie typical zebra lecture tenant give upper vocal grief swim language advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rookie |  
+| bip_39_word_new_br10 | rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give<br>upper<br>vocal<br>grief<br>swim |  
+| bip_39_word_new_br11 | rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give<br>upper<br>vocal<br>grief<br>swim<br>language |  
+| bip_39_word_new_br12 | rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give<br>upper<br>vocal<br>grief<br>swim<br>language<br>advice |  
+| bip_39_word_new_br2 | rookie<br>typical |  
+| bip_39_word_new_br3 | rookie<br>typical<br>zebra |  
+| bip_39_word_new_br4 | rookie<br>typical<br>zebra<br>lecture |  
+| bip_39_word_new_br5 | rookie<br>typical<br>zebra<br>lecture<br>tenant |  
+| bip_39_word_new_br6 | rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give |  
+| bip_39_word_new_br7 | rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give<br>upper |  
+| bip_39_word_new_br8 | rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give<br>upper<br>vocal |  
+| bip_39_word_new_br9 | rookie<br>typical<br>zebra<br>lecture<br>tenant<br>give<br>upper<br>vocal<br>grief |  
+| bip_39_word_new_line1 | rookie |  
+| bip_39_word_new_line10 | rookie
+typical
+zebra
+lecture
+tenant
+give
+upper
+vocal
+grief
+swim |  
+| bip_39_word_new_line11 | rookie
+typical
+zebra
+lecture
+tenant
+give
+upper
+vocal
+grief
+swim
+language |  
+| bip_39_word_new_line12 | rookie
+typical
+zebra
+lecture
+tenant
+give
+upper
+vocal
+grief
+swim
+language
+advice |  
+| bip_39_word_new_line2 | rookie
+typical |  
+| bip_39_word_new_line3 | rookie
+typical
+zebra |  
+| bip_39_word_new_line4 | rookie
+typical
+zebra
+lecture |  
+| bip_39_word_new_line5 | rookie
+typical
+zebra
+lecture
+tenant |  
+| bip_39_word_new_line6 | rookie
+typical
+zebra
+lecture
+tenant
+give |  
+| bip_39_word_new_line7 | rookie
+typical
+zebra
+lecture
+tenant
+give
+upper |  
+| bip_39_word_new_line8 | rookie
+typical
+zebra
+lecture
+tenant
+give
+upper
+vocal |  
+| bip_39_word_new_line9 | rookie
+typical
+zebra
+lecture
+tenant
+give
+upper
+vocal
+grief |  
+| bip_39_word_space_0 | ['rookie', 'typical', 'zebra', 'lecture', 'tenant', 'give', 'upper', 'vocal', 'grief', 'swim', 'language', 'advice'] |  
+| bip_39_word_space_1 | rookie |  
+| bip_39_word_space_10 | rookie typical zebra lecture tenant give upper vocal grief swim |  
+| bip_39_word_space_11 | rookie typical zebra lecture tenant give upper vocal grief swim language |  
+| bip_39_word_space_12 | rookie typical zebra lecture tenant give upper vocal grief swim language advice |  
+| bip_39_word_space_2 | rookie typical |  
+| bip_39_word_space_3 | rookie typical zebra |  
+| bip_39_word_space_4 | rookie typical zebra lecture |  
+| bip_39_word_space_5 | rookie typical zebra lecture tenant |  
+| bip_39_word_space_6 | rookie typical zebra lecture tenant give |  
+| bip_39_word_space_7 | rookie typical zebra lecture tenant give upper |  
+| bip_39_word_space_8 | rookie typical zebra lecture tenant give upper vocal |  
+| bip_39_word_space_9 | rookie typical zebra lecture tenant give upper vocal grief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

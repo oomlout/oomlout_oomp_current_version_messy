@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: aliexpress
   * part_number: jewelry_scale
+  * bip 39 word 2: what bean
+  * bip 39 word 3: what bean pear
+  * bip 39 word: what bean pear night similar argue give guide topic master toy amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | what |  
+| bip_39_word_new_br10 | what<br>bean<br>pear<br>night<br>similar<br>argue<br>give<br>guide<br>topic<br>master |  
+| bip_39_word_new_br11 | what<br>bean<br>pear<br>night<br>similar<br>argue<br>give<br>guide<br>topic<br>master<br>toy |  
+| bip_39_word_new_br12 | what<br>bean<br>pear<br>night<br>similar<br>argue<br>give<br>guide<br>topic<br>master<br>toy<br>amount |  
+| bip_39_word_new_br2 | what<br>bean |  
+| bip_39_word_new_br3 | what<br>bean<br>pear |  
+| bip_39_word_new_br4 | what<br>bean<br>pear<br>night |  
+| bip_39_word_new_br5 | what<br>bean<br>pear<br>night<br>similar |  
+| bip_39_word_new_br6 | what<br>bean<br>pear<br>night<br>similar<br>argue |  
+| bip_39_word_new_br7 | what<br>bean<br>pear<br>night<br>similar<br>argue<br>give |  
+| bip_39_word_new_br8 | what<br>bean<br>pear<br>night<br>similar<br>argue<br>give<br>guide |  
+| bip_39_word_new_br9 | what<br>bean<br>pear<br>night<br>similar<br>argue<br>give<br>guide<br>topic |  
+| bip_39_word_new_line1 | what |  
+| bip_39_word_new_line10 | what
+bean
+pear
+night
+similar
+argue
+give
+guide
+topic
+master |  
+| bip_39_word_new_line11 | what
+bean
+pear
+night
+similar
+argue
+give
+guide
+topic
+master
+toy |  
+| bip_39_word_new_line12 | what
+bean
+pear
+night
+similar
+argue
+give
+guide
+topic
+master
+toy
+amount |  
+| bip_39_word_new_line2 | what
+bean |  
+| bip_39_word_new_line3 | what
+bean
+pear |  
+| bip_39_word_new_line4 | what
+bean
+pear
+night |  
+| bip_39_word_new_line5 | what
+bean
+pear
+night
+similar |  
+| bip_39_word_new_line6 | what
+bean
+pear
+night
+similar
+argue |  
+| bip_39_word_new_line7 | what
+bean
+pear
+night
+similar
+argue
+give |  
+| bip_39_word_new_line8 | what
+bean
+pear
+night
+similar
+argue
+give
+guide |  
+| bip_39_word_new_line9 | what
+bean
+pear
+night
+similar
+argue
+give
+guide
+topic |  
+| bip_39_word_space_0 | ['what', 'bean', 'pear', 'night', 'similar', 'argue', 'give', 'guide', 'topic', 'master', 'toy', 'amount'] |  
+| bip_39_word_space_1 | what |  
+| bip_39_word_space_10 | what bean pear night similar argue give guide topic master |  
+| bip_39_word_space_11 | what bean pear night similar argue give guide topic master toy |  
+| bip_39_word_space_12 | what bean pear night similar argue give guide topic master toy amount |  
+| bip_39_word_space_2 | what bean |  
+| bip_39_word_space_3 | what bean pear |  
+| bip_39_word_space_4 | what bean pear night |  
+| bip_39_word_space_5 | what bean pear night similar |  
+| bip_39_word_space_6 | what bean pear night similar argue |  
+| bip_39_word_space_7 | what bean pear night similar argue give |  
+| bip_39_word_space_8 | what bean pear night similar argue give guide |  
+| bip_39_word_space_9 | what bean pear night similar argue give guide topic |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

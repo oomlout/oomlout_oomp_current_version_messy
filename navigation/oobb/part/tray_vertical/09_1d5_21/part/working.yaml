@@ -1,3 +1,186 @@
+bip_39_word_new_br1: element
+bip_39_word_new_br10: element<br>grape<br>hold<br>december<br>file<br>cigar<br>whip<br>midnight<br>candy<br>inform
+bip_39_word_new_br11: element<br>grape<br>hold<br>december<br>file<br>cigar<br>whip<br>midnight<br>candy<br>inform<br>pencil
+bip_39_word_new_br12: element<br>grape<br>hold<br>december<br>file<br>cigar<br>whip<br>midnight<br>candy<br>inform<br>pencil<br>age
+bip_39_word_new_br2: element<br>grape
+bip_39_word_new_br3: element<br>grape<br>hold
+bip_39_word_new_br4: element<br>grape<br>hold<br>december
+bip_39_word_new_br5: element<br>grape<br>hold<br>december<br>file
+bip_39_word_new_br6: element<br>grape<br>hold<br>december<br>file<br>cigar
+bip_39_word_new_br7: element<br>grape<br>hold<br>december<br>file<br>cigar<br>whip
+bip_39_word_new_br8: element<br>grape<br>hold<br>december<br>file<br>cigar<br>whip<br>midnight
+bip_39_word_new_br9: element<br>grape<br>hold<br>december<br>file<br>cigar<br>whip<br>midnight<br>candy
+bip_39_word_new_line1: element
+bip_39_word_new_line10: 'element
+
+  grape
+
+  hold
+
+  december
+
+  file
+
+  cigar
+
+  whip
+
+  midnight
+
+  candy
+
+  inform'
+bip_39_word_new_line11: 'element
+
+  grape
+
+  hold
+
+  december
+
+  file
+
+  cigar
+
+  whip
+
+  midnight
+
+  candy
+
+  inform
+
+  pencil'
+bip_39_word_new_line12: 'element
+
+  grape
+
+  hold
+
+  december
+
+  file
+
+  cigar
+
+  whip
+
+  midnight
+
+  candy
+
+  inform
+
+  pencil
+
+  age'
+bip_39_word_new_line2: 'element
+
+  grape'
+bip_39_word_new_line3: 'element
+
+  grape
+
+  hold'
+bip_39_word_new_line4: 'element
+
+  grape
+
+  hold
+
+  december'
+bip_39_word_new_line5: 'element
+
+  grape
+
+  hold
+
+  december
+
+  file'
+bip_39_word_new_line6: 'element
+
+  grape
+
+  hold
+
+  december
+
+  file
+
+  cigar'
+bip_39_word_new_line7: 'element
+
+  grape
+
+  hold
+
+  december
+
+  file
+
+  cigar
+
+  whip'
+bip_39_word_new_line8: 'element
+
+  grape
+
+  hold
+
+  december
+
+  file
+
+  cigar
+
+  whip
+
+  midnight'
+bip_39_word_new_line9: 'element
+
+  grape
+
+  hold
+
+  december
+
+  file
+
+  cigar
+
+  whip
+
+  midnight
+
+  candy'
+bip_39_word_space_0:
+- element
+- grape
+- hold
+- december
+- file
+- cigar
+- whip
+- midnight
+- candy
+- inform
+- pencil
+- age
+bip_39_word_space_1: element
+bip_39_word_space_10: element grape hold december file cigar whip midnight candy inform
+bip_39_word_space_11: element grape hold december file cigar whip midnight candy inform
+  pencil
+bip_39_word_space_12: element grape hold december file cigar whip midnight candy inform
+  pencil age
+bip_39_word_space_2: element grape
+bip_39_word_space_3: element grape hold
+bip_39_word_space_4: element grape hold december
+bip_39_word_space_5: element grape hold december file
+bip_39_word_space_6: element grape hold december file cigar
+bip_39_word_space_7: element grape hold december file cigar whip
+bip_39_word_space_8: element grape hold december file cigar whip midnight
+bip_39_word_space_9: element grape hold december file cigar whip midnight candy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

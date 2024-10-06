@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: school worth
+  * bip 39 word 3: school worth boss
+  * bip 39 word: school worth boss remove virus tomorrow border balance slight width spare arrive
 
 ### other_codes
 * short_code: n2mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | school |  
+| bip_39_word_new_br10 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow<br>border<br>balance<br>slight<br>width |  
+| bip_39_word_new_br11 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow<br>border<br>balance<br>slight<br>width<br>spare |  
+| bip_39_word_new_br12 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow<br>border<br>balance<br>slight<br>width<br>spare<br>arrive |  
+| bip_39_word_new_br2 | school<br>worth |  
+| bip_39_word_new_br3 | school<br>worth<br>boss |  
+| bip_39_word_new_br4 | school<br>worth<br>boss<br>remove |  
+| bip_39_word_new_br5 | school<br>worth<br>boss<br>remove<br>virus |  
+| bip_39_word_new_br6 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow |  
+| bip_39_word_new_br7 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow<br>border |  
+| bip_39_word_new_br8 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow<br>border<br>balance |  
+| bip_39_word_new_br9 | school<br>worth<br>boss<br>remove<br>virus<br>tomorrow<br>border<br>balance<br>slight |  
+| bip_39_word_new_line1 | school |  
+| bip_39_word_new_line10 | school
+worth
+boss
+remove
+virus
+tomorrow
+border
+balance
+slight
+width |  
+| bip_39_word_new_line11 | school
+worth
+boss
+remove
+virus
+tomorrow
+border
+balance
+slight
+width
+spare |  
+| bip_39_word_new_line12 | school
+worth
+boss
+remove
+virus
+tomorrow
+border
+balance
+slight
+width
+spare
+arrive |  
+| bip_39_word_new_line2 | school
+worth |  
+| bip_39_word_new_line3 | school
+worth
+boss |  
+| bip_39_word_new_line4 | school
+worth
+boss
+remove |  
+| bip_39_word_new_line5 | school
+worth
+boss
+remove
+virus |  
+| bip_39_word_new_line6 | school
+worth
+boss
+remove
+virus
+tomorrow |  
+| bip_39_word_new_line7 | school
+worth
+boss
+remove
+virus
+tomorrow
+border |  
+| bip_39_word_new_line8 | school
+worth
+boss
+remove
+virus
+tomorrow
+border
+balance |  
+| bip_39_word_new_line9 | school
+worth
+boss
+remove
+virus
+tomorrow
+border
+balance
+slight |  
+| bip_39_word_space_0 | ['school', 'worth', 'boss', 'remove', 'virus', 'tomorrow', 'border', 'balance', 'slight', 'width', 'spare', 'arrive'] |  
+| bip_39_word_space_1 | school |  
+| bip_39_word_space_10 | school worth boss remove virus tomorrow border balance slight width |  
+| bip_39_word_space_11 | school worth boss remove virus tomorrow border balance slight width spare |  
+| bip_39_word_space_12 | school worth boss remove virus tomorrow border balance slight width spare arrive |  
+| bip_39_word_space_2 | school worth |  
+| bip_39_word_space_3 | school worth boss |  
+| bip_39_word_space_4 | school worth boss remove |  
+| bip_39_word_space_5 | school worth boss remove virus |  
+| bip_39_word_space_6 | school worth boss remove virus tomorrow |  
+| bip_39_word_space_7 | school worth boss remove virus tomorrow border |  
+| bip_39_word_space_8 | school worth boss remove virus tomorrow border balance |  
+| bip_39_word_space_9 | school worth boss remove virus tomorrow border balance slight |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

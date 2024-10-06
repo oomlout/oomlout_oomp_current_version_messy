@@ -1,3 +1,186 @@
+bip_39_word_new_br1: stereo
+bip_39_word_new_br10: stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage
+bip_39_word_new_br11: stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage<br>opera
+bip_39_word_new_br12: stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical<br>wage<br>opera<br>another
+bip_39_word_new_br2: stereo<br>risk
+bip_39_word_new_br3: stereo<br>risk<br>spawn
+bip_39_word_new_br4: stereo<br>risk<br>spawn<br>lady
+bip_39_word_new_br5: stereo<br>risk<br>spawn<br>lady<br>rival
+bip_39_word_new_br6: stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate
+bip_39_word_new_br7: stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury
+bip_39_word_new_br8: stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt
+bip_39_word_new_br9: stereo<br>risk<br>spawn<br>lady<br>rival<br>isolate<br>luxury<br>hurt<br>typical
+bip_39_word_new_line1: stereo
+bip_39_word_new_line10: 'stereo
+
+  risk
+
+  spawn
+
+  lady
+
+  rival
+
+  isolate
+
+  luxury
+
+  hurt
+
+  typical
+
+  wage'
+bip_39_word_new_line11: 'stereo
+
+  risk
+
+  spawn
+
+  lady
+
+  rival
+
+  isolate
+
+  luxury
+
+  hurt
+
+  typical
+
+  wage
+
+  opera'
+bip_39_word_new_line12: 'stereo
+
+  risk
+
+  spawn
+
+  lady
+
+  rival
+
+  isolate
+
+  luxury
+
+  hurt
+
+  typical
+
+  wage
+
+  opera
+
+  another'
+bip_39_word_new_line2: 'stereo
+
+  risk'
+bip_39_word_new_line3: 'stereo
+
+  risk
+
+  spawn'
+bip_39_word_new_line4: 'stereo
+
+  risk
+
+  spawn
+
+  lady'
+bip_39_word_new_line5: 'stereo
+
+  risk
+
+  spawn
+
+  lady
+
+  rival'
+bip_39_word_new_line6: 'stereo
+
+  risk
+
+  spawn
+
+  lady
+
+  rival
+
+  isolate'
+bip_39_word_new_line7: 'stereo
+
+  risk
+
+  spawn
+
+  lady
+
+  rival
+
+  isolate
+
+  luxury'
+bip_39_word_new_line8: 'stereo
+
+  risk
+
+  spawn
+
+  lady
+
+  rival
+
+  isolate
+
+  luxury
+
+  hurt'
+bip_39_word_new_line9: 'stereo
+
+  risk
+
+  spawn
+
+  lady
+
+  rival
+
+  isolate
+
+  luxury
+
+  hurt
+
+  typical'
+bip_39_word_space_0:
+- stereo
+- risk
+- spawn
+- lady
+- rival
+- isolate
+- luxury
+- hurt
+- typical
+- wage
+- opera
+- another
+bip_39_word_space_1: stereo
+bip_39_word_space_10: stereo risk spawn lady rival isolate luxury hurt typical wage
+bip_39_word_space_11: stereo risk spawn lady rival isolate luxury hurt typical wage
+  opera
+bip_39_word_space_12: stereo risk spawn lady rival isolate luxury hurt typical wage
+  opera another
+bip_39_word_space_2: stereo risk
+bip_39_word_space_3: stereo risk spawn
+bip_39_word_space_4: stereo risk spawn lady
+bip_39_word_space_5: stereo risk spawn lady rival
+bip_39_word_space_6: stereo risk spawn lady rival isolate
+bip_39_word_space_7: stereo risk spawn lady rival isolate luxury
+bip_39_word_space_8: stereo risk spawn lady rival isolate luxury hurt
+bip_39_word_space_9: stereo risk spawn lady rival isolate luxury hurt typical
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

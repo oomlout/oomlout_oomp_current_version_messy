@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shaft paddle
+  * bip 39 word 3: shaft paddle step
+  * bip 39 word: shaft paddle step nest power answer luxury seven subject parade portion argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shaft |  
+| bip_39_word_new_br10 | shaft<br>paddle<br>step<br>nest<br>power<br>answer<br>luxury<br>seven<br>subject<br>parade |  
+| bip_39_word_new_br11 | shaft<br>paddle<br>step<br>nest<br>power<br>answer<br>luxury<br>seven<br>subject<br>parade<br>portion |  
+| bip_39_word_new_br12 | shaft<br>paddle<br>step<br>nest<br>power<br>answer<br>luxury<br>seven<br>subject<br>parade<br>portion<br>argue |  
+| bip_39_word_new_br2 | shaft<br>paddle |  
+| bip_39_word_new_br3 | shaft<br>paddle<br>step |  
+| bip_39_word_new_br4 | shaft<br>paddle<br>step<br>nest |  
+| bip_39_word_new_br5 | shaft<br>paddle<br>step<br>nest<br>power |  
+| bip_39_word_new_br6 | shaft<br>paddle<br>step<br>nest<br>power<br>answer |  
+| bip_39_word_new_br7 | shaft<br>paddle<br>step<br>nest<br>power<br>answer<br>luxury |  
+| bip_39_word_new_br8 | shaft<br>paddle<br>step<br>nest<br>power<br>answer<br>luxury<br>seven |  
+| bip_39_word_new_br9 | shaft<br>paddle<br>step<br>nest<br>power<br>answer<br>luxury<br>seven<br>subject |  
+| bip_39_word_new_line1 | shaft |  
+| bip_39_word_new_line10 | shaft
+paddle
+step
+nest
+power
+answer
+luxury
+seven
+subject
+parade |  
+| bip_39_word_new_line11 | shaft
+paddle
+step
+nest
+power
+answer
+luxury
+seven
+subject
+parade
+portion |  
+| bip_39_word_new_line12 | shaft
+paddle
+step
+nest
+power
+answer
+luxury
+seven
+subject
+parade
+portion
+argue |  
+| bip_39_word_new_line2 | shaft
+paddle |  
+| bip_39_word_new_line3 | shaft
+paddle
+step |  
+| bip_39_word_new_line4 | shaft
+paddle
+step
+nest |  
+| bip_39_word_new_line5 | shaft
+paddle
+step
+nest
+power |  
+| bip_39_word_new_line6 | shaft
+paddle
+step
+nest
+power
+answer |  
+| bip_39_word_new_line7 | shaft
+paddle
+step
+nest
+power
+answer
+luxury |  
+| bip_39_word_new_line8 | shaft
+paddle
+step
+nest
+power
+answer
+luxury
+seven |  
+| bip_39_word_new_line9 | shaft
+paddle
+step
+nest
+power
+answer
+luxury
+seven
+subject |  
+| bip_39_word_space_0 | ['shaft', 'paddle', 'step', 'nest', 'power', 'answer', 'luxury', 'seven', 'subject', 'parade', 'portion', 'argue'] |  
+| bip_39_word_space_1 | shaft |  
+| bip_39_word_space_10 | shaft paddle step nest power answer luxury seven subject parade |  
+| bip_39_word_space_11 | shaft paddle step nest power answer luxury seven subject parade portion |  
+| bip_39_word_space_12 | shaft paddle step nest power answer luxury seven subject parade portion argue |  
+| bip_39_word_space_2 | shaft paddle |  
+| bip_39_word_space_3 | shaft paddle step |  
+| bip_39_word_space_4 | shaft paddle step nest |  
+| bip_39_word_space_5 | shaft paddle step nest power |  
+| bip_39_word_space_6 | shaft paddle step nest power answer |  
+| bip_39_word_space_7 | shaft paddle step nest power answer luxury |  
+| bip_39_word_space_8 | shaft paddle step nest power answer luxury seven |  
+| bip_39_word_space_9 | shaft paddle step nest power answer luxury seven subject |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

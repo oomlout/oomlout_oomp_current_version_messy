@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: online vintage
+  * bip 39 word 3: online vintage fiction
+  * bip 39 word: online vintage fiction chest supreme leopard bridge prepare together essence injury assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | online |  
+| bip_39_word_new_br10 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard<br>bridge<br>prepare<br>together<br>essence |  
+| bip_39_word_new_br11 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard<br>bridge<br>prepare<br>together<br>essence<br>injury |  
+| bip_39_word_new_br12 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard<br>bridge<br>prepare<br>together<br>essence<br>injury<br>assume |  
+| bip_39_word_new_br2 | online<br>vintage |  
+| bip_39_word_new_br3 | online<br>vintage<br>fiction |  
+| bip_39_word_new_br4 | online<br>vintage<br>fiction<br>chest |  
+| bip_39_word_new_br5 | online<br>vintage<br>fiction<br>chest<br>supreme |  
+| bip_39_word_new_br6 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard |  
+| bip_39_word_new_br7 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard<br>bridge |  
+| bip_39_word_new_br8 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard<br>bridge<br>prepare |  
+| bip_39_word_new_br9 | online<br>vintage<br>fiction<br>chest<br>supreme<br>leopard<br>bridge<br>prepare<br>together |  
+| bip_39_word_new_line1 | online |  
+| bip_39_word_new_line10 | online
+vintage
+fiction
+chest
+supreme
+leopard
+bridge
+prepare
+together
+essence |  
+| bip_39_word_new_line11 | online
+vintage
+fiction
+chest
+supreme
+leopard
+bridge
+prepare
+together
+essence
+injury |  
+| bip_39_word_new_line12 | online
+vintage
+fiction
+chest
+supreme
+leopard
+bridge
+prepare
+together
+essence
+injury
+assume |  
+| bip_39_word_new_line2 | online
+vintage |  
+| bip_39_word_new_line3 | online
+vintage
+fiction |  
+| bip_39_word_new_line4 | online
+vintage
+fiction
+chest |  
+| bip_39_word_new_line5 | online
+vintage
+fiction
+chest
+supreme |  
+| bip_39_word_new_line6 | online
+vintage
+fiction
+chest
+supreme
+leopard |  
+| bip_39_word_new_line7 | online
+vintage
+fiction
+chest
+supreme
+leopard
+bridge |  
+| bip_39_word_new_line8 | online
+vintage
+fiction
+chest
+supreme
+leopard
+bridge
+prepare |  
+| bip_39_word_new_line9 | online
+vintage
+fiction
+chest
+supreme
+leopard
+bridge
+prepare
+together |  
+| bip_39_word_space_0 | ['online', 'vintage', 'fiction', 'chest', 'supreme', 'leopard', 'bridge', 'prepare', 'together', 'essence', 'injury', 'assume'] |  
+| bip_39_word_space_1 | online |  
+| bip_39_word_space_10 | online vintage fiction chest supreme leopard bridge prepare together essence |  
+| bip_39_word_space_11 | online vintage fiction chest supreme leopard bridge prepare together essence injury |  
+| bip_39_word_space_12 | online vintage fiction chest supreme leopard bridge prepare together essence injury assume |  
+| bip_39_word_space_2 | online vintage |  
+| bip_39_word_space_3 | online vintage fiction |  
+| bip_39_word_space_4 | online vintage fiction chest |  
+| bip_39_word_space_5 | online vintage fiction chest supreme |  
+| bip_39_word_space_6 | online vintage fiction chest supreme leopard |  
+| bip_39_word_space_7 | online vintage fiction chest supreme leopard bridge |  
+| bip_39_word_space_8 | online vintage fiction chest supreme leopard bridge prepare |  
+| bip_39_word_space_9 | online vintage fiction chest supreme leopard bridge prepare together |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

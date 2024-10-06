@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: funny mixed
+  * bip 39 word 3: funny mixed verb
+  * bip 39 word: funny mixed verb plunge subject hello document time danger timber token acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | funny |  
+| bip_39_word_new_br10 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello<br>document<br>time<br>danger<br>timber |  
+| bip_39_word_new_br11 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello<br>document<br>time<br>danger<br>timber<br>token |  
+| bip_39_word_new_br12 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello<br>document<br>time<br>danger<br>timber<br>token<br>acquire |  
+| bip_39_word_new_br2 | funny<br>mixed |  
+| bip_39_word_new_br3 | funny<br>mixed<br>verb |  
+| bip_39_word_new_br4 | funny<br>mixed<br>verb<br>plunge |  
+| bip_39_word_new_br5 | funny<br>mixed<br>verb<br>plunge<br>subject |  
+| bip_39_word_new_br6 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello |  
+| bip_39_word_new_br7 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello<br>document |  
+| bip_39_word_new_br8 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello<br>document<br>time |  
+| bip_39_word_new_br9 | funny<br>mixed<br>verb<br>plunge<br>subject<br>hello<br>document<br>time<br>danger |  
+| bip_39_word_new_line1 | funny |  
+| bip_39_word_new_line10 | funny
+mixed
+verb
+plunge
+subject
+hello
+document
+time
+danger
+timber |  
+| bip_39_word_new_line11 | funny
+mixed
+verb
+plunge
+subject
+hello
+document
+time
+danger
+timber
+token |  
+| bip_39_word_new_line12 | funny
+mixed
+verb
+plunge
+subject
+hello
+document
+time
+danger
+timber
+token
+acquire |  
+| bip_39_word_new_line2 | funny
+mixed |  
+| bip_39_word_new_line3 | funny
+mixed
+verb |  
+| bip_39_word_new_line4 | funny
+mixed
+verb
+plunge |  
+| bip_39_word_new_line5 | funny
+mixed
+verb
+plunge
+subject |  
+| bip_39_word_new_line6 | funny
+mixed
+verb
+plunge
+subject
+hello |  
+| bip_39_word_new_line7 | funny
+mixed
+verb
+plunge
+subject
+hello
+document |  
+| bip_39_word_new_line8 | funny
+mixed
+verb
+plunge
+subject
+hello
+document
+time |  
+| bip_39_word_new_line9 | funny
+mixed
+verb
+plunge
+subject
+hello
+document
+time
+danger |  
+| bip_39_word_space_0 | ['funny', 'mixed', 'verb', 'plunge', 'subject', 'hello', 'document', 'time', 'danger', 'timber', 'token', 'acquire'] |  
+| bip_39_word_space_1 | funny |  
+| bip_39_word_space_10 | funny mixed verb plunge subject hello document time danger timber |  
+| bip_39_word_space_11 | funny mixed verb plunge subject hello document time danger timber token |  
+| bip_39_word_space_12 | funny mixed verb plunge subject hello document time danger timber token acquire |  
+| bip_39_word_space_2 | funny mixed |  
+| bip_39_word_space_3 | funny mixed verb |  
+| bip_39_word_space_4 | funny mixed verb plunge |  
+| bip_39_word_space_5 | funny mixed verb plunge subject |  
+| bip_39_word_space_6 | funny mixed verb plunge subject hello |  
+| bip_39_word_space_7 | funny mixed verb plunge subject hello document |  
+| bip_39_word_space_8 | funny mixed verb plunge subject hello document time |  
+| bip_39_word_space_9 | funny mixed verb plunge subject hello document time danger |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

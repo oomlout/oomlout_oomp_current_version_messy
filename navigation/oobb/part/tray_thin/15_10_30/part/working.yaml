@@ -1,3 +1,186 @@
+bip_39_word_new_br1: police
+bip_39_word_new_br10: police<br>lens<br>any<br>initial<br>opera<br>two<br>spider<br>bacon<br>essence<br>hamster
+bip_39_word_new_br11: police<br>lens<br>any<br>initial<br>opera<br>two<br>spider<br>bacon<br>essence<br>hamster<br>wool
+bip_39_word_new_br12: police<br>lens<br>any<br>initial<br>opera<br>two<br>spider<br>bacon<br>essence<br>hamster<br>wool<br>again
+bip_39_word_new_br2: police<br>lens
+bip_39_word_new_br3: police<br>lens<br>any
+bip_39_word_new_br4: police<br>lens<br>any<br>initial
+bip_39_word_new_br5: police<br>lens<br>any<br>initial<br>opera
+bip_39_word_new_br6: police<br>lens<br>any<br>initial<br>opera<br>two
+bip_39_word_new_br7: police<br>lens<br>any<br>initial<br>opera<br>two<br>spider
+bip_39_word_new_br8: police<br>lens<br>any<br>initial<br>opera<br>two<br>spider<br>bacon
+bip_39_word_new_br9: police<br>lens<br>any<br>initial<br>opera<br>two<br>spider<br>bacon<br>essence
+bip_39_word_new_line1: police
+bip_39_word_new_line10: 'police
+
+  lens
+
+  any
+
+  initial
+
+  opera
+
+  two
+
+  spider
+
+  bacon
+
+  essence
+
+  hamster'
+bip_39_word_new_line11: 'police
+
+  lens
+
+  any
+
+  initial
+
+  opera
+
+  two
+
+  spider
+
+  bacon
+
+  essence
+
+  hamster
+
+  wool'
+bip_39_word_new_line12: 'police
+
+  lens
+
+  any
+
+  initial
+
+  opera
+
+  two
+
+  spider
+
+  bacon
+
+  essence
+
+  hamster
+
+  wool
+
+  again'
+bip_39_word_new_line2: 'police
+
+  lens'
+bip_39_word_new_line3: 'police
+
+  lens
+
+  any'
+bip_39_word_new_line4: 'police
+
+  lens
+
+  any
+
+  initial'
+bip_39_word_new_line5: 'police
+
+  lens
+
+  any
+
+  initial
+
+  opera'
+bip_39_word_new_line6: 'police
+
+  lens
+
+  any
+
+  initial
+
+  opera
+
+  two'
+bip_39_word_new_line7: 'police
+
+  lens
+
+  any
+
+  initial
+
+  opera
+
+  two
+
+  spider'
+bip_39_word_new_line8: 'police
+
+  lens
+
+  any
+
+  initial
+
+  opera
+
+  two
+
+  spider
+
+  bacon'
+bip_39_word_new_line9: 'police
+
+  lens
+
+  any
+
+  initial
+
+  opera
+
+  two
+
+  spider
+
+  bacon
+
+  essence'
+bip_39_word_space_0:
+- police
+- lens
+- any
+- initial
+- opera
+- two
+- spider
+- bacon
+- essence
+- hamster
+- wool
+- again
+bip_39_word_space_1: police
+bip_39_word_space_10: police lens any initial opera two spider bacon essence hamster
+bip_39_word_space_11: police lens any initial opera two spider bacon essence hamster
+  wool
+bip_39_word_space_12: police lens any initial opera two spider bacon essence hamster
+  wool again
+bip_39_word_space_2: police lens
+bip_39_word_space_3: police lens any
+bip_39_word_space_4: police lens any initial
+bip_39_word_space_5: police lens any initial opera
+bip_39_word_space_6: police lens any initial opera two
+bip_39_word_space_7: police lens any initial opera two spider
+bip_39_word_space_8: police lens any initial opera two spider bacon
+bip_39_word_space_9: police lens any initial opera two spider bacon essence
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

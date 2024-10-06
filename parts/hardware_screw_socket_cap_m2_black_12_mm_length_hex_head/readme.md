@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: initial blind
+  * bip 39 word 3: initial blind gallery
+  * bip 39 word: initial blind gallery van face flush fly same vague area case arm
 
 ### other_codes
 * short_code: sc2b12h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | initial |  
+| bip_39_word_new_br10 | initial<br>blind<br>gallery<br>van<br>face<br>flush<br>fly<br>same<br>vague<br>area |  
+| bip_39_word_new_br11 | initial<br>blind<br>gallery<br>van<br>face<br>flush<br>fly<br>same<br>vague<br>area<br>case |  
+| bip_39_word_new_br12 | initial<br>blind<br>gallery<br>van<br>face<br>flush<br>fly<br>same<br>vague<br>area<br>case<br>arm |  
+| bip_39_word_new_br2 | initial<br>blind |  
+| bip_39_word_new_br3 | initial<br>blind<br>gallery |  
+| bip_39_word_new_br4 | initial<br>blind<br>gallery<br>van |  
+| bip_39_word_new_br5 | initial<br>blind<br>gallery<br>van<br>face |  
+| bip_39_word_new_br6 | initial<br>blind<br>gallery<br>van<br>face<br>flush |  
+| bip_39_word_new_br7 | initial<br>blind<br>gallery<br>van<br>face<br>flush<br>fly |  
+| bip_39_word_new_br8 | initial<br>blind<br>gallery<br>van<br>face<br>flush<br>fly<br>same |  
+| bip_39_word_new_br9 | initial<br>blind<br>gallery<br>van<br>face<br>flush<br>fly<br>same<br>vague |  
+| bip_39_word_new_line1 | initial |  
+| bip_39_word_new_line10 | initial
+blind
+gallery
+van
+face
+flush
+fly
+same
+vague
+area |  
+| bip_39_word_new_line11 | initial
+blind
+gallery
+van
+face
+flush
+fly
+same
+vague
+area
+case |  
+| bip_39_word_new_line12 | initial
+blind
+gallery
+van
+face
+flush
+fly
+same
+vague
+area
+case
+arm |  
+| bip_39_word_new_line2 | initial
+blind |  
+| bip_39_word_new_line3 | initial
+blind
+gallery |  
+| bip_39_word_new_line4 | initial
+blind
+gallery
+van |  
+| bip_39_word_new_line5 | initial
+blind
+gallery
+van
+face |  
+| bip_39_word_new_line6 | initial
+blind
+gallery
+van
+face
+flush |  
+| bip_39_word_new_line7 | initial
+blind
+gallery
+van
+face
+flush
+fly |  
+| bip_39_word_new_line8 | initial
+blind
+gallery
+van
+face
+flush
+fly
+same |  
+| bip_39_word_new_line9 | initial
+blind
+gallery
+van
+face
+flush
+fly
+same
+vague |  
+| bip_39_word_space_0 | ['initial', 'blind', 'gallery', 'van', 'face', 'flush', 'fly', 'same', 'vague', 'area', 'case', 'arm'] |  
+| bip_39_word_space_1 | initial |  
+| bip_39_word_space_10 | initial blind gallery van face flush fly same vague area |  
+| bip_39_word_space_11 | initial blind gallery van face flush fly same vague area case |  
+| bip_39_word_space_12 | initial blind gallery van face flush fly same vague area case arm |  
+| bip_39_word_space_2 | initial blind |  
+| bip_39_word_space_3 | initial blind gallery |  
+| bip_39_word_space_4 | initial blind gallery van |  
+| bip_39_word_space_5 | initial blind gallery van face |  
+| bip_39_word_space_6 | initial blind gallery van face flush |  
+| bip_39_word_space_7 | initial blind gallery van face flush fly |  
+| bip_39_word_space_8 | initial blind gallery van face flush fly same |  
+| bip_39_word_space_9 | initial blind gallery van face flush fly same vague |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

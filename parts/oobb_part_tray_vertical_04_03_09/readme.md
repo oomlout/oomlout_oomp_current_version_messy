@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exhibit fiber
+  * bip 39 word 3: exhibit fiber future
+  * bip 39 word: exhibit fiber future suit decline divorce bring roof make salad settle amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exhibit |  
+| bip_39_word_new_br10 | exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce<br>bring<br>roof<br>make<br>salad |  
+| bip_39_word_new_br11 | exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce<br>bring<br>roof<br>make<br>salad<br>settle |  
+| bip_39_word_new_br12 | exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce<br>bring<br>roof<br>make<br>salad<br>settle<br>amount |  
+| bip_39_word_new_br2 | exhibit<br>fiber |  
+| bip_39_word_new_br3 | exhibit<br>fiber<br>future |  
+| bip_39_word_new_br4 | exhibit<br>fiber<br>future<br>suit |  
+| bip_39_word_new_br5 | exhibit<br>fiber<br>future<br>suit<br>decline |  
+| bip_39_word_new_br6 | exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce |  
+| bip_39_word_new_br7 | exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce<br>bring |  
+| bip_39_word_new_br8 | exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce<br>bring<br>roof |  
+| bip_39_word_new_br9 | exhibit<br>fiber<br>future<br>suit<br>decline<br>divorce<br>bring<br>roof<br>make |  
+| bip_39_word_new_line1 | exhibit |  
+| bip_39_word_new_line10 | exhibit
+fiber
+future
+suit
+decline
+divorce
+bring
+roof
+make
+salad |  
+| bip_39_word_new_line11 | exhibit
+fiber
+future
+suit
+decline
+divorce
+bring
+roof
+make
+salad
+settle |  
+| bip_39_word_new_line12 | exhibit
+fiber
+future
+suit
+decline
+divorce
+bring
+roof
+make
+salad
+settle
+amount |  
+| bip_39_word_new_line2 | exhibit
+fiber |  
+| bip_39_word_new_line3 | exhibit
+fiber
+future |  
+| bip_39_word_new_line4 | exhibit
+fiber
+future
+suit |  
+| bip_39_word_new_line5 | exhibit
+fiber
+future
+suit
+decline |  
+| bip_39_word_new_line6 | exhibit
+fiber
+future
+suit
+decline
+divorce |  
+| bip_39_word_new_line7 | exhibit
+fiber
+future
+suit
+decline
+divorce
+bring |  
+| bip_39_word_new_line8 | exhibit
+fiber
+future
+suit
+decline
+divorce
+bring
+roof |  
+| bip_39_word_new_line9 | exhibit
+fiber
+future
+suit
+decline
+divorce
+bring
+roof
+make |  
+| bip_39_word_space_0 | ['exhibit', 'fiber', 'future', 'suit', 'decline', 'divorce', 'bring', 'roof', 'make', 'salad', 'settle', 'amount'] |  
+| bip_39_word_space_1 | exhibit |  
+| bip_39_word_space_10 | exhibit fiber future suit decline divorce bring roof make salad |  
+| bip_39_word_space_11 | exhibit fiber future suit decline divorce bring roof make salad settle |  
+| bip_39_word_space_12 | exhibit fiber future suit decline divorce bring roof make salad settle amount |  
+| bip_39_word_space_2 | exhibit fiber |  
+| bip_39_word_space_3 | exhibit fiber future |  
+| bip_39_word_space_4 | exhibit fiber future suit |  
+| bip_39_word_space_5 | exhibit fiber future suit decline |  
+| bip_39_word_space_6 | exhibit fiber future suit decline divorce |  
+| bip_39_word_space_7 | exhibit fiber future suit decline divorce bring |  
+| bip_39_word_space_8 | exhibit fiber future suit decline divorce bring roof |  
+| bip_39_word_space_9 | exhibit fiber future suit decline divorce bring roof make |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

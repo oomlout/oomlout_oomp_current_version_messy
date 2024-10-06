@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: citizen better
+  * bip 39 word 3: citizen better hundred
+  * bip 39 word: citizen better hundred empty benefit this cruel duck early lesson false almost
 
 ### other_codes
 * short_code: cs5m20pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | citizen |  
+| bip_39_word_new_br10 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this<br>cruel<br>duck<br>early<br>lesson |  
+| bip_39_word_new_br11 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this<br>cruel<br>duck<br>early<br>lesson<br>false |  
+| bip_39_word_new_br12 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this<br>cruel<br>duck<br>early<br>lesson<br>false<br>almost |  
+| bip_39_word_new_br2 | citizen<br>better |  
+| bip_39_word_new_br3 | citizen<br>better<br>hundred |  
+| bip_39_word_new_br4 | citizen<br>better<br>hundred<br>empty |  
+| bip_39_word_new_br5 | citizen<br>better<br>hundred<br>empty<br>benefit |  
+| bip_39_word_new_br6 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this |  
+| bip_39_word_new_br7 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this<br>cruel |  
+| bip_39_word_new_br8 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this<br>cruel<br>duck |  
+| bip_39_word_new_br9 | citizen<br>better<br>hundred<br>empty<br>benefit<br>this<br>cruel<br>duck<br>early |  
+| bip_39_word_new_line1 | citizen |  
+| bip_39_word_new_line10 | citizen
+better
+hundred
+empty
+benefit
+this
+cruel
+duck
+early
+lesson |  
+| bip_39_word_new_line11 | citizen
+better
+hundred
+empty
+benefit
+this
+cruel
+duck
+early
+lesson
+false |  
+| bip_39_word_new_line12 | citizen
+better
+hundred
+empty
+benefit
+this
+cruel
+duck
+early
+lesson
+false
+almost |  
+| bip_39_word_new_line2 | citizen
+better |  
+| bip_39_word_new_line3 | citizen
+better
+hundred |  
+| bip_39_word_new_line4 | citizen
+better
+hundred
+empty |  
+| bip_39_word_new_line5 | citizen
+better
+hundred
+empty
+benefit |  
+| bip_39_word_new_line6 | citizen
+better
+hundred
+empty
+benefit
+this |  
+| bip_39_word_new_line7 | citizen
+better
+hundred
+empty
+benefit
+this
+cruel |  
+| bip_39_word_new_line8 | citizen
+better
+hundred
+empty
+benefit
+this
+cruel
+duck |  
+| bip_39_word_new_line9 | citizen
+better
+hundred
+empty
+benefit
+this
+cruel
+duck
+early |  
+| bip_39_word_space_0 | ['citizen', 'better', 'hundred', 'empty', 'benefit', 'this', 'cruel', 'duck', 'early', 'lesson', 'false', 'almost'] |  
+| bip_39_word_space_1 | citizen |  
+| bip_39_word_space_10 | citizen better hundred empty benefit this cruel duck early lesson |  
+| bip_39_word_space_11 | citizen better hundred empty benefit this cruel duck early lesson false |  
+| bip_39_word_space_12 | citizen better hundred empty benefit this cruel duck early lesson false almost |  
+| bip_39_word_space_2 | citizen better |  
+| bip_39_word_space_3 | citizen better hundred |  
+| bip_39_word_space_4 | citizen better hundred empty |  
+| bip_39_word_space_5 | citizen better hundred empty benefit |  
+| bip_39_word_space_6 | citizen better hundred empty benefit this |  
+| bip_39_word_space_7 | citizen better hundred empty benefit this cruel |  
+| bip_39_word_space_8 | citizen better hundred empty benefit this cruel duck |  
+| bip_39_word_space_9 | citizen better hundred empty benefit this cruel duck early |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

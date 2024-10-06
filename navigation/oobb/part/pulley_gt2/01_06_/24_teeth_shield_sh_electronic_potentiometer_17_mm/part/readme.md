@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dog such
+  * bip 39 word 3: dog such symbol
+  * bip 39 word: dog such symbol harbor observe easy teach smooth canoe alter patrol area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dog |  
+| bip_39_word_new_br10 | dog<br>such<br>symbol<br>harbor<br>observe<br>easy<br>teach<br>smooth<br>canoe<br>alter |  
+| bip_39_word_new_br11 | dog<br>such<br>symbol<br>harbor<br>observe<br>easy<br>teach<br>smooth<br>canoe<br>alter<br>patrol |  
+| bip_39_word_new_br12 | dog<br>such<br>symbol<br>harbor<br>observe<br>easy<br>teach<br>smooth<br>canoe<br>alter<br>patrol<br>area |  
+| bip_39_word_new_br2 | dog<br>such |  
+| bip_39_word_new_br3 | dog<br>such<br>symbol |  
+| bip_39_word_new_br4 | dog<br>such<br>symbol<br>harbor |  
+| bip_39_word_new_br5 | dog<br>such<br>symbol<br>harbor<br>observe |  
+| bip_39_word_new_br6 | dog<br>such<br>symbol<br>harbor<br>observe<br>easy |  
+| bip_39_word_new_br7 | dog<br>such<br>symbol<br>harbor<br>observe<br>easy<br>teach |  
+| bip_39_word_new_br8 | dog<br>such<br>symbol<br>harbor<br>observe<br>easy<br>teach<br>smooth |  
+| bip_39_word_new_br9 | dog<br>such<br>symbol<br>harbor<br>observe<br>easy<br>teach<br>smooth<br>canoe |  
+| bip_39_word_new_line1 | dog |  
+| bip_39_word_new_line10 | dog
+such
+symbol
+harbor
+observe
+easy
+teach
+smooth
+canoe
+alter |  
+| bip_39_word_new_line11 | dog
+such
+symbol
+harbor
+observe
+easy
+teach
+smooth
+canoe
+alter
+patrol |  
+| bip_39_word_new_line12 | dog
+such
+symbol
+harbor
+observe
+easy
+teach
+smooth
+canoe
+alter
+patrol
+area |  
+| bip_39_word_new_line2 | dog
+such |  
+| bip_39_word_new_line3 | dog
+such
+symbol |  
+| bip_39_word_new_line4 | dog
+such
+symbol
+harbor |  
+| bip_39_word_new_line5 | dog
+such
+symbol
+harbor
+observe |  
+| bip_39_word_new_line6 | dog
+such
+symbol
+harbor
+observe
+easy |  
+| bip_39_word_new_line7 | dog
+such
+symbol
+harbor
+observe
+easy
+teach |  
+| bip_39_word_new_line8 | dog
+such
+symbol
+harbor
+observe
+easy
+teach
+smooth |  
+| bip_39_word_new_line9 | dog
+such
+symbol
+harbor
+observe
+easy
+teach
+smooth
+canoe |  
+| bip_39_word_space_0 | ['dog', 'such', 'symbol', 'harbor', 'observe', 'easy', 'teach', 'smooth', 'canoe', 'alter', 'patrol', 'area'] |  
+| bip_39_word_space_1 | dog |  
+| bip_39_word_space_10 | dog such symbol harbor observe easy teach smooth canoe alter |  
+| bip_39_word_space_11 | dog such symbol harbor observe easy teach smooth canoe alter patrol |  
+| bip_39_word_space_12 | dog such symbol harbor observe easy teach smooth canoe alter patrol area |  
+| bip_39_word_space_2 | dog such |  
+| bip_39_word_space_3 | dog such symbol |  
+| bip_39_word_space_4 | dog such symbol harbor |  
+| bip_39_word_space_5 | dog such symbol harbor observe |  
+| bip_39_word_space_6 | dog such symbol harbor observe easy |  
+| bip_39_word_space_7 | dog such symbol harbor observe easy teach |  
+| bip_39_word_space_8 | dog such symbol harbor observe easy teach smooth |  
+| bip_39_word_space_9 | dog such symbol harbor observe easy teach smooth canoe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

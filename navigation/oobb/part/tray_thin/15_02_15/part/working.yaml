@@ -1,3 +1,187 @@
+bip_39_word_new_br1: spoon
+bip_39_word_new_br10: spoon<br>industry<br>street<br>ticket<br>middle<br>random<br>tell<br>volume<br>resist<br>liar
+bip_39_word_new_br11: spoon<br>industry<br>street<br>ticket<br>middle<br>random<br>tell<br>volume<br>resist<br>liar<br>leader
+bip_39_word_new_br12: spoon<br>industry<br>street<br>ticket<br>middle<br>random<br>tell<br>volume<br>resist<br>liar<br>leader<br>ability
+bip_39_word_new_br2: spoon<br>industry
+bip_39_word_new_br3: spoon<br>industry<br>street
+bip_39_word_new_br4: spoon<br>industry<br>street<br>ticket
+bip_39_word_new_br5: spoon<br>industry<br>street<br>ticket<br>middle
+bip_39_word_new_br6: spoon<br>industry<br>street<br>ticket<br>middle<br>random
+bip_39_word_new_br7: spoon<br>industry<br>street<br>ticket<br>middle<br>random<br>tell
+bip_39_word_new_br8: spoon<br>industry<br>street<br>ticket<br>middle<br>random<br>tell<br>volume
+bip_39_word_new_br9: spoon<br>industry<br>street<br>ticket<br>middle<br>random<br>tell<br>volume<br>resist
+bip_39_word_new_line1: spoon
+bip_39_word_new_line10: 'spoon
+
+  industry
+
+  street
+
+  ticket
+
+  middle
+
+  random
+
+  tell
+
+  volume
+
+  resist
+
+  liar'
+bip_39_word_new_line11: 'spoon
+
+  industry
+
+  street
+
+  ticket
+
+  middle
+
+  random
+
+  tell
+
+  volume
+
+  resist
+
+  liar
+
+  leader'
+bip_39_word_new_line12: 'spoon
+
+  industry
+
+  street
+
+  ticket
+
+  middle
+
+  random
+
+  tell
+
+  volume
+
+  resist
+
+  liar
+
+  leader
+
+  ability'
+bip_39_word_new_line2: 'spoon
+
+  industry'
+bip_39_word_new_line3: 'spoon
+
+  industry
+
+  street'
+bip_39_word_new_line4: 'spoon
+
+  industry
+
+  street
+
+  ticket'
+bip_39_word_new_line5: 'spoon
+
+  industry
+
+  street
+
+  ticket
+
+  middle'
+bip_39_word_new_line6: 'spoon
+
+  industry
+
+  street
+
+  ticket
+
+  middle
+
+  random'
+bip_39_word_new_line7: 'spoon
+
+  industry
+
+  street
+
+  ticket
+
+  middle
+
+  random
+
+  tell'
+bip_39_word_new_line8: 'spoon
+
+  industry
+
+  street
+
+  ticket
+
+  middle
+
+  random
+
+  tell
+
+  volume'
+bip_39_word_new_line9: 'spoon
+
+  industry
+
+  street
+
+  ticket
+
+  middle
+
+  random
+
+  tell
+
+  volume
+
+  resist'
+bip_39_word_space_0:
+- spoon
+- industry
+- street
+- ticket
+- middle
+- random
+- tell
+- volume
+- resist
+- liar
+- leader
+- ability
+bip_39_word_space_1: spoon
+bip_39_word_space_10: spoon industry street ticket middle random tell volume resist
+  liar
+bip_39_word_space_11: spoon industry street ticket middle random tell volume resist
+  liar leader
+bip_39_word_space_12: spoon industry street ticket middle random tell volume resist
+  liar leader ability
+bip_39_word_space_2: spoon industry
+bip_39_word_space_3: spoon industry street
+bip_39_word_space_4: spoon industry street ticket
+bip_39_word_space_5: spoon industry street ticket middle
+bip_39_word_space_6: spoon industry street ticket middle random
+bip_39_word_space_7: spoon industry street ticket middle random tell
+bip_39_word_space_8: spoon industry street ticket middle random tell volume
+bip_39_word_space_9: spoon industry street ticket middle random tell volume resist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

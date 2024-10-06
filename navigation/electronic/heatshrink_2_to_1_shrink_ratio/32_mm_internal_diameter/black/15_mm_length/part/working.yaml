@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gentle
+bip_39_word_new_br10: gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment<br>skirt<br>cargo<br>argue<br>beyond
+bip_39_word_new_br11: gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment<br>skirt<br>cargo<br>argue<br>beyond<br>twist
+bip_39_word_new_br12: gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment<br>skirt<br>cargo<br>argue<br>beyond<br>twist<br>another
+bip_39_word_new_br2: gentle<br>step
+bip_39_word_new_br3: gentle<br>step<br>glimpse
+bip_39_word_new_br4: gentle<br>step<br>glimpse<br>cage
+bip_39_word_new_br5: gentle<br>step<br>glimpse<br>cage<br>destroy
+bip_39_word_new_br6: gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment
+bip_39_word_new_br7: gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment<br>skirt
+bip_39_word_new_br8: gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment<br>skirt<br>cargo
+bip_39_word_new_br9: gentle<br>step<br>glimpse<br>cage<br>destroy<br>segment<br>skirt<br>cargo<br>argue
+bip_39_word_new_line1: gentle
+bip_39_word_new_line10: 'gentle
+
+  step
+
+  glimpse
+
+  cage
+
+  destroy
+
+  segment
+
+  skirt
+
+  cargo
+
+  argue
+
+  beyond'
+bip_39_word_new_line11: 'gentle
+
+  step
+
+  glimpse
+
+  cage
+
+  destroy
+
+  segment
+
+  skirt
+
+  cargo
+
+  argue
+
+  beyond
+
+  twist'
+bip_39_word_new_line12: 'gentle
+
+  step
+
+  glimpse
+
+  cage
+
+  destroy
+
+  segment
+
+  skirt
+
+  cargo
+
+  argue
+
+  beyond
+
+  twist
+
+  another'
+bip_39_word_new_line2: 'gentle
+
+  step'
+bip_39_word_new_line3: 'gentle
+
+  step
+
+  glimpse'
+bip_39_word_new_line4: 'gentle
+
+  step
+
+  glimpse
+
+  cage'
+bip_39_word_new_line5: 'gentle
+
+  step
+
+  glimpse
+
+  cage
+
+  destroy'
+bip_39_word_new_line6: 'gentle
+
+  step
+
+  glimpse
+
+  cage
+
+  destroy
+
+  segment'
+bip_39_word_new_line7: 'gentle
+
+  step
+
+  glimpse
+
+  cage
+
+  destroy
+
+  segment
+
+  skirt'
+bip_39_word_new_line8: 'gentle
+
+  step
+
+  glimpse
+
+  cage
+
+  destroy
+
+  segment
+
+  skirt
+
+  cargo'
+bip_39_word_new_line9: 'gentle
+
+  step
+
+  glimpse
+
+  cage
+
+  destroy
+
+  segment
+
+  skirt
+
+  cargo
+
+  argue'
+bip_39_word_space_0:
+- gentle
+- step
+- glimpse
+- cage
+- destroy
+- segment
+- skirt
+- cargo
+- argue
+- beyond
+- twist
+- another
+bip_39_word_space_1: gentle
+bip_39_word_space_10: gentle step glimpse cage destroy segment skirt cargo argue beyond
+bip_39_word_space_11: gentle step glimpse cage destroy segment skirt cargo argue beyond
+  twist
+bip_39_word_space_12: gentle step glimpse cage destroy segment skirt cargo argue beyond
+  twist another
+bip_39_word_space_2: gentle step
+bip_39_word_space_3: gentle step glimpse
+bip_39_word_space_4: gentle step glimpse cage
+bip_39_word_space_5: gentle step glimpse cage destroy
+bip_39_word_space_6: gentle step glimpse cage destroy segment
+bip_39_word_space_7: gentle step glimpse cage destroy segment skirt
+bip_39_word_space_8: gentle step glimpse cage destroy segment skirt cargo
+bip_39_word_space_9: gentle step glimpse cage destroy segment skirt cargo argue
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: humble clerk
+  * bip 39 word 3: humble clerk hockey
+  * bip 39 word: humble clerk hockey peace ahead public tattoo blanket sadness pumpkin exhibit assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | humble |  
+| bip_39_word_new_br10 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin |  
+| bip_39_word_new_br11 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin<br>exhibit |  
+| bip_39_word_new_br12 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin<br>exhibit<br>assume |  
+| bip_39_word_new_br2 | humble<br>clerk |  
+| bip_39_word_new_br3 | humble<br>clerk<br>hockey |  
+| bip_39_word_new_br4 | humble<br>clerk<br>hockey<br>peace |  
+| bip_39_word_new_br5 | humble<br>clerk<br>hockey<br>peace<br>ahead |  
+| bip_39_word_new_br6 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public |  
+| bip_39_word_new_br7 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo |  
+| bip_39_word_new_br8 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket |  
+| bip_39_word_new_br9 | humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness |  
+| bip_39_word_new_line1 | humble |  
+| bip_39_word_new_line10 | humble
+clerk
+hockey
+peace
+ahead
+public
+tattoo
+blanket
+sadness
+pumpkin |  
+| bip_39_word_new_line11 | humble
+clerk
+hockey
+peace
+ahead
+public
+tattoo
+blanket
+sadness
+pumpkin
+exhibit |  
+| bip_39_word_new_line12 | humble
+clerk
+hockey
+peace
+ahead
+public
+tattoo
+blanket
+sadness
+pumpkin
+exhibit
+assume |  
+| bip_39_word_new_line2 | humble
+clerk |  
+| bip_39_word_new_line3 | humble
+clerk
+hockey |  
+| bip_39_word_new_line4 | humble
+clerk
+hockey
+peace |  
+| bip_39_word_new_line5 | humble
+clerk
+hockey
+peace
+ahead |  
+| bip_39_word_new_line6 | humble
+clerk
+hockey
+peace
+ahead
+public |  
+| bip_39_word_new_line7 | humble
+clerk
+hockey
+peace
+ahead
+public
+tattoo |  
+| bip_39_word_new_line8 | humble
+clerk
+hockey
+peace
+ahead
+public
+tattoo
+blanket |  
+| bip_39_word_new_line9 | humble
+clerk
+hockey
+peace
+ahead
+public
+tattoo
+blanket
+sadness |  
+| bip_39_word_space_0 | ['humble', 'clerk', 'hockey', 'peace', 'ahead', 'public', 'tattoo', 'blanket', 'sadness', 'pumpkin', 'exhibit', 'assume'] |  
+| bip_39_word_space_1 | humble |  
+| bip_39_word_space_10 | humble clerk hockey peace ahead public tattoo blanket sadness pumpkin |  
+| bip_39_word_space_11 | humble clerk hockey peace ahead public tattoo blanket sadness pumpkin exhibit |  
+| bip_39_word_space_12 | humble clerk hockey peace ahead public tattoo blanket sadness pumpkin exhibit assume |  
+| bip_39_word_space_2 | humble clerk |  
+| bip_39_word_space_3 | humble clerk hockey |  
+| bip_39_word_space_4 | humble clerk hockey peace |  
+| bip_39_word_space_5 | humble clerk hockey peace ahead |  
+| bip_39_word_space_6 | humble clerk hockey peace ahead public |  
+| bip_39_word_space_7 | humble clerk hockey peace ahead public tattoo |  
+| bip_39_word_space_8 | humble clerk hockey peace ahead public tattoo blanket |  
+| bip_39_word_space_9 | humble clerk hockey peace ahead public tattoo blanket sadness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

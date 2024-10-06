@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: camp stool
+  * bip 39 word 3: camp stool beach
+  * bip 39 word: camp stool beach dizzy direct repeat lounge dove chair wrestle episode alone
 
 ### other_codes
 * short_code: sc5b10h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | camp |  
+| bip_39_word_new_br10 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat<br>lounge<br>dove<br>chair<br>wrestle |  
+| bip_39_word_new_br11 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat<br>lounge<br>dove<br>chair<br>wrestle<br>episode |  
+| bip_39_word_new_br12 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat<br>lounge<br>dove<br>chair<br>wrestle<br>episode<br>alone |  
+| bip_39_word_new_br2 | camp<br>stool |  
+| bip_39_word_new_br3 | camp<br>stool<br>beach |  
+| bip_39_word_new_br4 | camp<br>stool<br>beach<br>dizzy |  
+| bip_39_word_new_br5 | camp<br>stool<br>beach<br>dizzy<br>direct |  
+| bip_39_word_new_br6 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat |  
+| bip_39_word_new_br7 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat<br>lounge |  
+| bip_39_word_new_br8 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat<br>lounge<br>dove |  
+| bip_39_word_new_br9 | camp<br>stool<br>beach<br>dizzy<br>direct<br>repeat<br>lounge<br>dove<br>chair |  
+| bip_39_word_new_line1 | camp |  
+| bip_39_word_new_line10 | camp
+stool
+beach
+dizzy
+direct
+repeat
+lounge
+dove
+chair
+wrestle |  
+| bip_39_word_new_line11 | camp
+stool
+beach
+dizzy
+direct
+repeat
+lounge
+dove
+chair
+wrestle
+episode |  
+| bip_39_word_new_line12 | camp
+stool
+beach
+dizzy
+direct
+repeat
+lounge
+dove
+chair
+wrestle
+episode
+alone |  
+| bip_39_word_new_line2 | camp
+stool |  
+| bip_39_word_new_line3 | camp
+stool
+beach |  
+| bip_39_word_new_line4 | camp
+stool
+beach
+dizzy |  
+| bip_39_word_new_line5 | camp
+stool
+beach
+dizzy
+direct |  
+| bip_39_word_new_line6 | camp
+stool
+beach
+dizzy
+direct
+repeat |  
+| bip_39_word_new_line7 | camp
+stool
+beach
+dizzy
+direct
+repeat
+lounge |  
+| bip_39_word_new_line8 | camp
+stool
+beach
+dizzy
+direct
+repeat
+lounge
+dove |  
+| bip_39_word_new_line9 | camp
+stool
+beach
+dizzy
+direct
+repeat
+lounge
+dove
+chair |  
+| bip_39_word_space_0 | ['camp', 'stool', 'beach', 'dizzy', 'direct', 'repeat', 'lounge', 'dove', 'chair', 'wrestle', 'episode', 'alone'] |  
+| bip_39_word_space_1 | camp |  
+| bip_39_word_space_10 | camp stool beach dizzy direct repeat lounge dove chair wrestle |  
+| bip_39_word_space_11 | camp stool beach dizzy direct repeat lounge dove chair wrestle episode |  
+| bip_39_word_space_12 | camp stool beach dizzy direct repeat lounge dove chair wrestle episode alone |  
+| bip_39_word_space_2 | camp stool |  
+| bip_39_word_space_3 | camp stool beach |  
+| bip_39_word_space_4 | camp stool beach dizzy |  
+| bip_39_word_space_5 | camp stool beach dizzy direct |  
+| bip_39_word_space_6 | camp stool beach dizzy direct repeat |  
+| bip_39_word_space_7 | camp stool beach dizzy direct repeat lounge |  
+| bip_39_word_space_8 | camp stool beach dizzy direct repeat lounge dove |  
+| bip_39_word_space_9 | camp stool beach dizzy direct repeat lounge dove chair |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

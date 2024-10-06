@@ -1,3 +1,187 @@
+bip_39_word_new_br1: hamster
+bip_39_word_new_br10: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust
+bip_39_word_new_br11: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust<br>agree
+bip_39_word_new_br12: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody<br>exhaust<br>agree<br>almost
+bip_39_word_new_br2: hamster<br>either
+bip_39_word_new_br3: hamster<br>either<br>uncover
+bip_39_word_new_br4: hamster<br>either<br>uncover<br>shy
+bip_39_word_new_br5: hamster<br>either<br>uncover<br>shy<br>awkward
+bip_39_word_new_br6: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle
+bip_39_word_new_br7: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony
+bip_39_word_new_br8: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse
+bip_39_word_new_br9: hamster<br>either<br>uncover<br>shy<br>awkward<br>turtle<br>pony<br>refuse<br>embody
+bip_39_word_new_line1: hamster
+bip_39_word_new_line10: 'hamster
+
+  either
+
+  uncover
+
+  shy
+
+  awkward
+
+  turtle
+
+  pony
+
+  refuse
+
+  embody
+
+  exhaust'
+bip_39_word_new_line11: 'hamster
+
+  either
+
+  uncover
+
+  shy
+
+  awkward
+
+  turtle
+
+  pony
+
+  refuse
+
+  embody
+
+  exhaust
+
+  agree'
+bip_39_word_new_line12: 'hamster
+
+  either
+
+  uncover
+
+  shy
+
+  awkward
+
+  turtle
+
+  pony
+
+  refuse
+
+  embody
+
+  exhaust
+
+  agree
+
+  almost'
+bip_39_word_new_line2: 'hamster
+
+  either'
+bip_39_word_new_line3: 'hamster
+
+  either
+
+  uncover'
+bip_39_word_new_line4: 'hamster
+
+  either
+
+  uncover
+
+  shy'
+bip_39_word_new_line5: 'hamster
+
+  either
+
+  uncover
+
+  shy
+
+  awkward'
+bip_39_word_new_line6: 'hamster
+
+  either
+
+  uncover
+
+  shy
+
+  awkward
+
+  turtle'
+bip_39_word_new_line7: 'hamster
+
+  either
+
+  uncover
+
+  shy
+
+  awkward
+
+  turtle
+
+  pony'
+bip_39_word_new_line8: 'hamster
+
+  either
+
+  uncover
+
+  shy
+
+  awkward
+
+  turtle
+
+  pony
+
+  refuse'
+bip_39_word_new_line9: 'hamster
+
+  either
+
+  uncover
+
+  shy
+
+  awkward
+
+  turtle
+
+  pony
+
+  refuse
+
+  embody'
+bip_39_word_space_0:
+- hamster
+- either
+- uncover
+- shy
+- awkward
+- turtle
+- pony
+- refuse
+- embody
+- exhaust
+- agree
+- almost
+bip_39_word_space_1: hamster
+bip_39_word_space_10: hamster either uncover shy awkward turtle pony refuse embody
+  exhaust
+bip_39_word_space_11: hamster either uncover shy awkward turtle pony refuse embody
+  exhaust agree
+bip_39_word_space_12: hamster either uncover shy awkward turtle pony refuse embody
+  exhaust agree almost
+bip_39_word_space_2: hamster either
+bip_39_word_space_3: hamster either uncover
+bip_39_word_space_4: hamster either uncover shy
+bip_39_word_space_5: hamster either uncover shy awkward
+bip_39_word_space_6: hamster either uncover shy awkward turtle
+bip_39_word_space_7: hamster either uncover shy awkward turtle pony
+bip_39_word_space_8: hamster either uncover shy awkward turtle pony refuse
+bip_39_word_space_9: hamster either uncover shy awkward turtle pony refuse embody
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: antique shallow
+  * bip 39 word 3: antique shallow since
+  * bip 39 word: antique shallow since toy rebuild syrup talent winner label punch claw angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | antique |  
+| bip_39_word_new_br10 | antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup<br>talent<br>winner<br>label<br>punch |  
+| bip_39_word_new_br11 | antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup<br>talent<br>winner<br>label<br>punch<br>claw |  
+| bip_39_word_new_br12 | antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup<br>talent<br>winner<br>label<br>punch<br>claw<br>angle |  
+| bip_39_word_new_br2 | antique<br>shallow |  
+| bip_39_word_new_br3 | antique<br>shallow<br>since |  
+| bip_39_word_new_br4 | antique<br>shallow<br>since<br>toy |  
+| bip_39_word_new_br5 | antique<br>shallow<br>since<br>toy<br>rebuild |  
+| bip_39_word_new_br6 | antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup |  
+| bip_39_word_new_br7 | antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup<br>talent |  
+| bip_39_word_new_br8 | antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup<br>talent<br>winner |  
+| bip_39_word_new_br9 | antique<br>shallow<br>since<br>toy<br>rebuild<br>syrup<br>talent<br>winner<br>label |  
+| bip_39_word_new_line1 | antique |  
+| bip_39_word_new_line10 | antique
+shallow
+since
+toy
+rebuild
+syrup
+talent
+winner
+label
+punch |  
+| bip_39_word_new_line11 | antique
+shallow
+since
+toy
+rebuild
+syrup
+talent
+winner
+label
+punch
+claw |  
+| bip_39_word_new_line12 | antique
+shallow
+since
+toy
+rebuild
+syrup
+talent
+winner
+label
+punch
+claw
+angle |  
+| bip_39_word_new_line2 | antique
+shallow |  
+| bip_39_word_new_line3 | antique
+shallow
+since |  
+| bip_39_word_new_line4 | antique
+shallow
+since
+toy |  
+| bip_39_word_new_line5 | antique
+shallow
+since
+toy
+rebuild |  
+| bip_39_word_new_line6 | antique
+shallow
+since
+toy
+rebuild
+syrup |  
+| bip_39_word_new_line7 | antique
+shallow
+since
+toy
+rebuild
+syrup
+talent |  
+| bip_39_word_new_line8 | antique
+shallow
+since
+toy
+rebuild
+syrup
+talent
+winner |  
+| bip_39_word_new_line9 | antique
+shallow
+since
+toy
+rebuild
+syrup
+talent
+winner
+label |  
+| bip_39_word_space_0 | ['antique', 'shallow', 'since', 'toy', 'rebuild', 'syrup', 'talent', 'winner', 'label', 'punch', 'claw', 'angle'] |  
+| bip_39_word_space_1 | antique |  
+| bip_39_word_space_10 | antique shallow since toy rebuild syrup talent winner label punch |  
+| bip_39_word_space_11 | antique shallow since toy rebuild syrup talent winner label punch claw |  
+| bip_39_word_space_12 | antique shallow since toy rebuild syrup talent winner label punch claw angle |  
+| bip_39_word_space_2 | antique shallow |  
+| bip_39_word_space_3 | antique shallow since |  
+| bip_39_word_space_4 | antique shallow since toy |  
+| bip_39_word_space_5 | antique shallow since toy rebuild |  
+| bip_39_word_space_6 | antique shallow since toy rebuild syrup |  
+| bip_39_word_space_7 | antique shallow since toy rebuild syrup talent |  
+| bip_39_word_space_8 | antique shallow since toy rebuild syrup talent winner |  
+| bip_39_word_space_9 | antique shallow since toy rebuild syrup talent winner label |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

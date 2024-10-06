@@ -1,3 +1,186 @@
+bip_39_word_new_br1: idea
+bip_39_word_new_br10: idea<br>deer<br>nest<br>whale<br>cover<br>assume<br>position<br>hard<br>tomorrow<br>item
+bip_39_word_new_br11: idea<br>deer<br>nest<br>whale<br>cover<br>assume<br>position<br>hard<br>tomorrow<br>item<br>income
+bip_39_word_new_br12: idea<br>deer<br>nest<br>whale<br>cover<br>assume<br>position<br>hard<br>tomorrow<br>item<br>income<br>assume
+bip_39_word_new_br2: idea<br>deer
+bip_39_word_new_br3: idea<br>deer<br>nest
+bip_39_word_new_br4: idea<br>deer<br>nest<br>whale
+bip_39_word_new_br5: idea<br>deer<br>nest<br>whale<br>cover
+bip_39_word_new_br6: idea<br>deer<br>nest<br>whale<br>cover<br>assume
+bip_39_word_new_br7: idea<br>deer<br>nest<br>whale<br>cover<br>assume<br>position
+bip_39_word_new_br8: idea<br>deer<br>nest<br>whale<br>cover<br>assume<br>position<br>hard
+bip_39_word_new_br9: idea<br>deer<br>nest<br>whale<br>cover<br>assume<br>position<br>hard<br>tomorrow
+bip_39_word_new_line1: idea
+bip_39_word_new_line10: 'idea
+
+  deer
+
+  nest
+
+  whale
+
+  cover
+
+  assume
+
+  position
+
+  hard
+
+  tomorrow
+
+  item'
+bip_39_word_new_line11: 'idea
+
+  deer
+
+  nest
+
+  whale
+
+  cover
+
+  assume
+
+  position
+
+  hard
+
+  tomorrow
+
+  item
+
+  income'
+bip_39_word_new_line12: 'idea
+
+  deer
+
+  nest
+
+  whale
+
+  cover
+
+  assume
+
+  position
+
+  hard
+
+  tomorrow
+
+  item
+
+  income
+
+  assume'
+bip_39_word_new_line2: 'idea
+
+  deer'
+bip_39_word_new_line3: 'idea
+
+  deer
+
+  nest'
+bip_39_word_new_line4: 'idea
+
+  deer
+
+  nest
+
+  whale'
+bip_39_word_new_line5: 'idea
+
+  deer
+
+  nest
+
+  whale
+
+  cover'
+bip_39_word_new_line6: 'idea
+
+  deer
+
+  nest
+
+  whale
+
+  cover
+
+  assume'
+bip_39_word_new_line7: 'idea
+
+  deer
+
+  nest
+
+  whale
+
+  cover
+
+  assume
+
+  position'
+bip_39_word_new_line8: 'idea
+
+  deer
+
+  nest
+
+  whale
+
+  cover
+
+  assume
+
+  position
+
+  hard'
+bip_39_word_new_line9: 'idea
+
+  deer
+
+  nest
+
+  whale
+
+  cover
+
+  assume
+
+  position
+
+  hard
+
+  tomorrow'
+bip_39_word_space_0:
+- idea
+- deer
+- nest
+- whale
+- cover
+- assume
+- position
+- hard
+- tomorrow
+- item
+- income
+- assume
+bip_39_word_space_1: idea
+bip_39_word_space_10: idea deer nest whale cover assume position hard tomorrow item
+bip_39_word_space_11: idea deer nest whale cover assume position hard tomorrow item
+  income
+bip_39_word_space_12: idea deer nest whale cover assume position hard tomorrow item
+  income assume
+bip_39_word_space_2: idea deer
+bip_39_word_space_3: idea deer nest
+bip_39_word_space_4: idea deer nest whale
+bip_39_word_space_5: idea deer nest whale cover
+bip_39_word_space_6: idea deer nest whale cover assume
+bip_39_word_space_7: idea deer nest whale cover assume position
+bip_39_word_space_8: idea deer nest whale cover assume position hard
+bip_39_word_space_9: idea deer nest whale cover assume position hard tomorrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

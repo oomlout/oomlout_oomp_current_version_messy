@@ -1,3 +1,187 @@
+bip_39_word_new_br1: local
+bip_39_word_new_br10: local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language
+bip_39_word_new_br11: local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language<br>sail
+bip_39_word_new_br12: local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven<br>language<br>sail<br>adult
+bip_39_word_new_br2: local<br>diagram
+bip_39_word_new_br3: local<br>diagram<br>anger
+bip_39_word_new_br4: local<br>diagram<br>anger<br>nature
+bip_39_word_new_br5: local<br>diagram<br>anger<br>nature<br>journey
+bip_39_word_new_br6: local<br>diagram<br>anger<br>nature<br>journey<br>suffer
+bip_39_word_new_br7: local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result
+bip_39_word_new_br8: local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow
+bip_39_word_new_br9: local<br>diagram<br>anger<br>nature<br>journey<br>suffer<br>result<br>tomorrow<br>oven
+bip_39_word_new_line1: local
+bip_39_word_new_line10: 'local
+
+  diagram
+
+  anger
+
+  nature
+
+  journey
+
+  suffer
+
+  result
+
+  tomorrow
+
+  oven
+
+  language'
+bip_39_word_new_line11: 'local
+
+  diagram
+
+  anger
+
+  nature
+
+  journey
+
+  suffer
+
+  result
+
+  tomorrow
+
+  oven
+
+  language
+
+  sail'
+bip_39_word_new_line12: 'local
+
+  diagram
+
+  anger
+
+  nature
+
+  journey
+
+  suffer
+
+  result
+
+  tomorrow
+
+  oven
+
+  language
+
+  sail
+
+  adult'
+bip_39_word_new_line2: 'local
+
+  diagram'
+bip_39_word_new_line3: 'local
+
+  diagram
+
+  anger'
+bip_39_word_new_line4: 'local
+
+  diagram
+
+  anger
+
+  nature'
+bip_39_word_new_line5: 'local
+
+  diagram
+
+  anger
+
+  nature
+
+  journey'
+bip_39_word_new_line6: 'local
+
+  diagram
+
+  anger
+
+  nature
+
+  journey
+
+  suffer'
+bip_39_word_new_line7: 'local
+
+  diagram
+
+  anger
+
+  nature
+
+  journey
+
+  suffer
+
+  result'
+bip_39_word_new_line8: 'local
+
+  diagram
+
+  anger
+
+  nature
+
+  journey
+
+  suffer
+
+  result
+
+  tomorrow'
+bip_39_word_new_line9: 'local
+
+  diagram
+
+  anger
+
+  nature
+
+  journey
+
+  suffer
+
+  result
+
+  tomorrow
+
+  oven'
+bip_39_word_space_0:
+- local
+- diagram
+- anger
+- nature
+- journey
+- suffer
+- result
+- tomorrow
+- oven
+- language
+- sail
+- adult
+bip_39_word_space_1: local
+bip_39_word_space_10: local diagram anger nature journey suffer result tomorrow oven
+  language
+bip_39_word_space_11: local diagram anger nature journey suffer result tomorrow oven
+  language sail
+bip_39_word_space_12: local diagram anger nature journey suffer result tomorrow oven
+  language sail adult
+bip_39_word_space_2: local diagram
+bip_39_word_space_3: local diagram anger
+bip_39_word_space_4: local diagram anger nature
+bip_39_word_space_5: local diagram anger nature journey
+bip_39_word_space_6: local diagram anger nature journey suffer
+bip_39_word_space_7: local diagram anger nature journey suffer result
+bip_39_word_space_8: local diagram anger nature journey suffer result tomorrow
+bip_39_word_space_9: local diagram anger nature journey suffer result tomorrow oven
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

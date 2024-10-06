@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: impose umbrella
+  * bip 39 word 3: impose umbrella letter
+  * bip 39 word: impose umbrella letter secret toilet found own plunge silver health wide advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | impose |  
+| bip_39_word_new_br10 | impose<br>umbrella<br>letter<br>secret<br>toilet<br>found<br>own<br>plunge<br>silver<br>health |  
+| bip_39_word_new_br11 | impose<br>umbrella<br>letter<br>secret<br>toilet<br>found<br>own<br>plunge<br>silver<br>health<br>wide |  
+| bip_39_word_new_br12 | impose<br>umbrella<br>letter<br>secret<br>toilet<br>found<br>own<br>plunge<br>silver<br>health<br>wide<br>advice |  
+| bip_39_word_new_br2 | impose<br>umbrella |  
+| bip_39_word_new_br3 | impose<br>umbrella<br>letter |  
+| bip_39_word_new_br4 | impose<br>umbrella<br>letter<br>secret |  
+| bip_39_word_new_br5 | impose<br>umbrella<br>letter<br>secret<br>toilet |  
+| bip_39_word_new_br6 | impose<br>umbrella<br>letter<br>secret<br>toilet<br>found |  
+| bip_39_word_new_br7 | impose<br>umbrella<br>letter<br>secret<br>toilet<br>found<br>own |  
+| bip_39_word_new_br8 | impose<br>umbrella<br>letter<br>secret<br>toilet<br>found<br>own<br>plunge |  
+| bip_39_word_new_br9 | impose<br>umbrella<br>letter<br>secret<br>toilet<br>found<br>own<br>plunge<br>silver |  
+| bip_39_word_new_line1 | impose |  
+| bip_39_word_new_line10 | impose
+umbrella
+letter
+secret
+toilet
+found
+own
+plunge
+silver
+health |  
+| bip_39_word_new_line11 | impose
+umbrella
+letter
+secret
+toilet
+found
+own
+plunge
+silver
+health
+wide |  
+| bip_39_word_new_line12 | impose
+umbrella
+letter
+secret
+toilet
+found
+own
+plunge
+silver
+health
+wide
+advice |  
+| bip_39_word_new_line2 | impose
+umbrella |  
+| bip_39_word_new_line3 | impose
+umbrella
+letter |  
+| bip_39_word_new_line4 | impose
+umbrella
+letter
+secret |  
+| bip_39_word_new_line5 | impose
+umbrella
+letter
+secret
+toilet |  
+| bip_39_word_new_line6 | impose
+umbrella
+letter
+secret
+toilet
+found |  
+| bip_39_word_new_line7 | impose
+umbrella
+letter
+secret
+toilet
+found
+own |  
+| bip_39_word_new_line8 | impose
+umbrella
+letter
+secret
+toilet
+found
+own
+plunge |  
+| bip_39_word_new_line9 | impose
+umbrella
+letter
+secret
+toilet
+found
+own
+plunge
+silver |  
+| bip_39_word_space_0 | ['impose', 'umbrella', 'letter', 'secret', 'toilet', 'found', 'own', 'plunge', 'silver', 'health', 'wide', 'advice'] |  
+| bip_39_word_space_1 | impose |  
+| bip_39_word_space_10 | impose umbrella letter secret toilet found own plunge silver health |  
+| bip_39_word_space_11 | impose umbrella letter secret toilet found own plunge silver health wide |  
+| bip_39_word_space_12 | impose umbrella letter secret toilet found own plunge silver health wide advice |  
+| bip_39_word_space_2 | impose umbrella |  
+| bip_39_word_space_3 | impose umbrella letter |  
+| bip_39_word_space_4 | impose umbrella letter secret |  
+| bip_39_word_space_5 | impose umbrella letter secret toilet |  
+| bip_39_word_space_6 | impose umbrella letter secret toilet found |  
+| bip_39_word_space_7 | impose umbrella letter secret toilet found own |  
+| bip_39_word_space_8 | impose umbrella letter secret toilet found own plunge |  
+| bip_39_word_space_9 | impose umbrella letter secret toilet found own plunge silver |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

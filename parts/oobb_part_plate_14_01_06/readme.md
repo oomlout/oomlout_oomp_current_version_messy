@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: degree glare
+  * bip 39 word 3: degree glare decline
+  * bip 39 word: degree glare decline spider version pencil chronic okay speak labor acid autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | degree |  
+| bip_39_word_new_br10 | degree<br>glare<br>decline<br>spider<br>version<br>pencil<br>chronic<br>okay<br>speak<br>labor |  
+| bip_39_word_new_br11 | degree<br>glare<br>decline<br>spider<br>version<br>pencil<br>chronic<br>okay<br>speak<br>labor<br>acid |  
+| bip_39_word_new_br12 | degree<br>glare<br>decline<br>spider<br>version<br>pencil<br>chronic<br>okay<br>speak<br>labor<br>acid<br>autumn |  
+| bip_39_word_new_br2 | degree<br>glare |  
+| bip_39_word_new_br3 | degree<br>glare<br>decline |  
+| bip_39_word_new_br4 | degree<br>glare<br>decline<br>spider |  
+| bip_39_word_new_br5 | degree<br>glare<br>decline<br>spider<br>version |  
+| bip_39_word_new_br6 | degree<br>glare<br>decline<br>spider<br>version<br>pencil |  
+| bip_39_word_new_br7 | degree<br>glare<br>decline<br>spider<br>version<br>pencil<br>chronic |  
+| bip_39_word_new_br8 | degree<br>glare<br>decline<br>spider<br>version<br>pencil<br>chronic<br>okay |  
+| bip_39_word_new_br9 | degree<br>glare<br>decline<br>spider<br>version<br>pencil<br>chronic<br>okay<br>speak |  
+| bip_39_word_new_line1 | degree |  
+| bip_39_word_new_line10 | degree
+glare
+decline
+spider
+version
+pencil
+chronic
+okay
+speak
+labor |  
+| bip_39_word_new_line11 | degree
+glare
+decline
+spider
+version
+pencil
+chronic
+okay
+speak
+labor
+acid |  
+| bip_39_word_new_line12 | degree
+glare
+decline
+spider
+version
+pencil
+chronic
+okay
+speak
+labor
+acid
+autumn |  
+| bip_39_word_new_line2 | degree
+glare |  
+| bip_39_word_new_line3 | degree
+glare
+decline |  
+| bip_39_word_new_line4 | degree
+glare
+decline
+spider |  
+| bip_39_word_new_line5 | degree
+glare
+decline
+spider
+version |  
+| bip_39_word_new_line6 | degree
+glare
+decline
+spider
+version
+pencil |  
+| bip_39_word_new_line7 | degree
+glare
+decline
+spider
+version
+pencil
+chronic |  
+| bip_39_word_new_line8 | degree
+glare
+decline
+spider
+version
+pencil
+chronic
+okay |  
+| bip_39_word_new_line9 | degree
+glare
+decline
+spider
+version
+pencil
+chronic
+okay
+speak |  
+| bip_39_word_space_0 | ['degree', 'glare', 'decline', 'spider', 'version', 'pencil', 'chronic', 'okay', 'speak', 'labor', 'acid', 'autumn'] |  
+| bip_39_word_space_1 | degree |  
+| bip_39_word_space_10 | degree glare decline spider version pencil chronic okay speak labor |  
+| bip_39_word_space_11 | degree glare decline spider version pencil chronic okay speak labor acid |  
+| bip_39_word_space_12 | degree glare decline spider version pencil chronic okay speak labor acid autumn |  
+| bip_39_word_space_2 | degree glare |  
+| bip_39_word_space_3 | degree glare decline |  
+| bip_39_word_space_4 | degree glare decline spider |  
+| bip_39_word_space_5 | degree glare decline spider version |  
+| bip_39_word_space_6 | degree glare decline spider version pencil |  
+| bip_39_word_space_7 | degree glare decline spider version pencil chronic |  
+| bip_39_word_space_8 | degree glare decline spider version pencil chronic okay |  
+| bip_39_word_space_9 | degree glare decline spider version pencil chronic okay speak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

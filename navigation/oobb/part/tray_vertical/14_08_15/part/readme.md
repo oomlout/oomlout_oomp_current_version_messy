@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: guilt smile
+  * bip 39 word 3: guilt smile access
+  * bip 39 word: guilt smile access rural basic kick brief rebel bulb decide tip anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | guilt |  
+| bip_39_word_new_br10 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide |  
+| bip_39_word_new_br11 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide<br>tip |  
+| bip_39_word_new_br12 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb<br>decide<br>tip<br>anchor |  
+| bip_39_word_new_br2 | guilt<br>smile |  
+| bip_39_word_new_br3 | guilt<br>smile<br>access |  
+| bip_39_word_new_br4 | guilt<br>smile<br>access<br>rural |  
+| bip_39_word_new_br5 | guilt<br>smile<br>access<br>rural<br>basic |  
+| bip_39_word_new_br6 | guilt<br>smile<br>access<br>rural<br>basic<br>kick |  
+| bip_39_word_new_br7 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief |  
+| bip_39_word_new_br8 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel |  
+| bip_39_word_new_br9 | guilt<br>smile<br>access<br>rural<br>basic<br>kick<br>brief<br>rebel<br>bulb |  
+| bip_39_word_new_line1 | guilt |  
+| bip_39_word_new_line10 | guilt
+smile
+access
+rural
+basic
+kick
+brief
+rebel
+bulb
+decide |  
+| bip_39_word_new_line11 | guilt
+smile
+access
+rural
+basic
+kick
+brief
+rebel
+bulb
+decide
+tip |  
+| bip_39_word_new_line12 | guilt
+smile
+access
+rural
+basic
+kick
+brief
+rebel
+bulb
+decide
+tip
+anchor |  
+| bip_39_word_new_line2 | guilt
+smile |  
+| bip_39_word_new_line3 | guilt
+smile
+access |  
+| bip_39_word_new_line4 | guilt
+smile
+access
+rural |  
+| bip_39_word_new_line5 | guilt
+smile
+access
+rural
+basic |  
+| bip_39_word_new_line6 | guilt
+smile
+access
+rural
+basic
+kick |  
+| bip_39_word_new_line7 | guilt
+smile
+access
+rural
+basic
+kick
+brief |  
+| bip_39_word_new_line8 | guilt
+smile
+access
+rural
+basic
+kick
+brief
+rebel |  
+| bip_39_word_new_line9 | guilt
+smile
+access
+rural
+basic
+kick
+brief
+rebel
+bulb |  
+| bip_39_word_space_0 | ['guilt', 'smile', 'access', 'rural', 'basic', 'kick', 'brief', 'rebel', 'bulb', 'decide', 'tip', 'anchor'] |  
+| bip_39_word_space_1 | guilt |  
+| bip_39_word_space_10 | guilt smile access rural basic kick brief rebel bulb decide |  
+| bip_39_word_space_11 | guilt smile access rural basic kick brief rebel bulb decide tip |  
+| bip_39_word_space_12 | guilt smile access rural basic kick brief rebel bulb decide tip anchor |  
+| bip_39_word_space_2 | guilt smile |  
+| bip_39_word_space_3 | guilt smile access |  
+| bip_39_word_space_4 | guilt smile access rural |  
+| bip_39_word_space_5 | guilt smile access rural basic |  
+| bip_39_word_space_6 | guilt smile access rural basic kick |  
+| bip_39_word_space_7 | guilt smile access rural basic kick brief |  
+| bip_39_word_space_8 | guilt smile access rural basic kick brief rebel |  
+| bip_39_word_space_9 | guilt smile access rural basic kick brief rebel bulb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

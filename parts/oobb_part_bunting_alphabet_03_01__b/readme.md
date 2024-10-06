@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: b
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sadness include
+  * bip 39 word 3: sadness include drama
+  * bip 39 word: sadness include drama cheap immense suspect juice apology wood tail enable average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sadness |  
+| bip_39_word_new_br10 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood<br>tail |  
+| bip_39_word_new_br11 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood<br>tail<br>enable |  
+| bip_39_word_new_br12 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood<br>tail<br>enable<br>average |  
+| bip_39_word_new_br2 | sadness<br>include |  
+| bip_39_word_new_br3 | sadness<br>include<br>drama |  
+| bip_39_word_new_br4 | sadness<br>include<br>drama<br>cheap |  
+| bip_39_word_new_br5 | sadness<br>include<br>drama<br>cheap<br>immense |  
+| bip_39_word_new_br6 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect |  
+| bip_39_word_new_br7 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice |  
+| bip_39_word_new_br8 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology |  
+| bip_39_word_new_br9 | sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood |  
+| bip_39_word_new_line1 | sadness |  
+| bip_39_word_new_line10 | sadness
+include
+drama
+cheap
+immense
+suspect
+juice
+apology
+wood
+tail |  
+| bip_39_word_new_line11 | sadness
+include
+drama
+cheap
+immense
+suspect
+juice
+apology
+wood
+tail
+enable |  
+| bip_39_word_new_line12 | sadness
+include
+drama
+cheap
+immense
+suspect
+juice
+apology
+wood
+tail
+enable
+average |  
+| bip_39_word_new_line2 | sadness
+include |  
+| bip_39_word_new_line3 | sadness
+include
+drama |  
+| bip_39_word_new_line4 | sadness
+include
+drama
+cheap |  
+| bip_39_word_new_line5 | sadness
+include
+drama
+cheap
+immense |  
+| bip_39_word_new_line6 | sadness
+include
+drama
+cheap
+immense
+suspect |  
+| bip_39_word_new_line7 | sadness
+include
+drama
+cheap
+immense
+suspect
+juice |  
+| bip_39_word_new_line8 | sadness
+include
+drama
+cheap
+immense
+suspect
+juice
+apology |  
+| bip_39_word_new_line9 | sadness
+include
+drama
+cheap
+immense
+suspect
+juice
+apology
+wood |  
+| bip_39_word_space_0 | ['sadness', 'include', 'drama', 'cheap', 'immense', 'suspect', 'juice', 'apology', 'wood', 'tail', 'enable', 'average'] |  
+| bip_39_word_space_1 | sadness |  
+| bip_39_word_space_10 | sadness include drama cheap immense suspect juice apology wood tail |  
+| bip_39_word_space_11 | sadness include drama cheap immense suspect juice apology wood tail enable |  
+| bip_39_word_space_12 | sadness include drama cheap immense suspect juice apology wood tail enable average |  
+| bip_39_word_space_2 | sadness include |  
+| bip_39_word_space_3 | sadness include drama |  
+| bip_39_word_space_4 | sadness include drama cheap |  
+| bip_39_word_space_5 | sadness include drama cheap immense |  
+| bip_39_word_space_6 | sadness include drama cheap immense suspect |  
+| bip_39_word_space_7 | sadness include drama cheap immense suspect juice |  
+| bip_39_word_space_8 | sadness include drama cheap immense suspect juice apology |  
+| bip_39_word_space_9 | sadness include drama cheap immense suspect juice apology wood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

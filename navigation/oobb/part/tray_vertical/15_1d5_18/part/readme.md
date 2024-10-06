@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: uniform smoke
+  * bip 39 word 3: uniform smoke favorite
+  * bip 39 word: uniform smoke favorite garlic arctic distance country music hope swing robot address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | uniform |  
+| bip_39_word_new_br10 | uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance<br>country<br>music<br>hope<br>swing |  
+| bip_39_word_new_br11 | uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance<br>country<br>music<br>hope<br>swing<br>robot |  
+| bip_39_word_new_br12 | uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance<br>country<br>music<br>hope<br>swing<br>robot<br>address |  
+| bip_39_word_new_br2 | uniform<br>smoke |  
+| bip_39_word_new_br3 | uniform<br>smoke<br>favorite |  
+| bip_39_word_new_br4 | uniform<br>smoke<br>favorite<br>garlic |  
+| bip_39_word_new_br5 | uniform<br>smoke<br>favorite<br>garlic<br>arctic |  
+| bip_39_word_new_br6 | uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance |  
+| bip_39_word_new_br7 | uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance<br>country |  
+| bip_39_word_new_br8 | uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance<br>country<br>music |  
+| bip_39_word_new_br9 | uniform<br>smoke<br>favorite<br>garlic<br>arctic<br>distance<br>country<br>music<br>hope |  
+| bip_39_word_new_line1 | uniform |  
+| bip_39_word_new_line10 | uniform
+smoke
+favorite
+garlic
+arctic
+distance
+country
+music
+hope
+swing |  
+| bip_39_word_new_line11 | uniform
+smoke
+favorite
+garlic
+arctic
+distance
+country
+music
+hope
+swing
+robot |  
+| bip_39_word_new_line12 | uniform
+smoke
+favorite
+garlic
+arctic
+distance
+country
+music
+hope
+swing
+robot
+address |  
+| bip_39_word_new_line2 | uniform
+smoke |  
+| bip_39_word_new_line3 | uniform
+smoke
+favorite |  
+| bip_39_word_new_line4 | uniform
+smoke
+favorite
+garlic |  
+| bip_39_word_new_line5 | uniform
+smoke
+favorite
+garlic
+arctic |  
+| bip_39_word_new_line6 | uniform
+smoke
+favorite
+garlic
+arctic
+distance |  
+| bip_39_word_new_line7 | uniform
+smoke
+favorite
+garlic
+arctic
+distance
+country |  
+| bip_39_word_new_line8 | uniform
+smoke
+favorite
+garlic
+arctic
+distance
+country
+music |  
+| bip_39_word_new_line9 | uniform
+smoke
+favorite
+garlic
+arctic
+distance
+country
+music
+hope |  
+| bip_39_word_space_0 | ['uniform', 'smoke', 'favorite', 'garlic', 'arctic', 'distance', 'country', 'music', 'hope', 'swing', 'robot', 'address'] |  
+| bip_39_word_space_1 | uniform |  
+| bip_39_word_space_10 | uniform smoke favorite garlic arctic distance country music hope swing |  
+| bip_39_word_space_11 | uniform smoke favorite garlic arctic distance country music hope swing robot |  
+| bip_39_word_space_12 | uniform smoke favorite garlic arctic distance country music hope swing robot address |  
+| bip_39_word_space_2 | uniform smoke |  
+| bip_39_word_space_3 | uniform smoke favorite |  
+| bip_39_word_space_4 | uniform smoke favorite garlic |  
+| bip_39_word_space_5 | uniform smoke favorite garlic arctic |  
+| bip_39_word_space_6 | uniform smoke favorite garlic arctic distance |  
+| bip_39_word_space_7 | uniform smoke favorite garlic arctic distance country |  
+| bip_39_word_space_8 | uniform smoke favorite garlic arctic distance country music |  
+| bip_39_word_space_9 | uniform smoke favorite garlic arctic distance country music hope |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

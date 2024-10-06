@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: office turkey
+  * bip 39 word 3: office turkey phone
+  * bip 39 word: office turkey phone jewel lemon spare miracle scissors infant flag jacket anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | office |  
+| bip_39_word_new_br10 | office<br>turkey<br>phone<br>jewel<br>lemon<br>spare<br>miracle<br>scissors<br>infant<br>flag |  
+| bip_39_word_new_br11 | office<br>turkey<br>phone<br>jewel<br>lemon<br>spare<br>miracle<br>scissors<br>infant<br>flag<br>jacket |  
+| bip_39_word_new_br12 | office<br>turkey<br>phone<br>jewel<br>lemon<br>spare<br>miracle<br>scissors<br>infant<br>flag<br>jacket<br>anger |  
+| bip_39_word_new_br2 | office<br>turkey |  
+| bip_39_word_new_br3 | office<br>turkey<br>phone |  
+| bip_39_word_new_br4 | office<br>turkey<br>phone<br>jewel |  
+| bip_39_word_new_br5 | office<br>turkey<br>phone<br>jewel<br>lemon |  
+| bip_39_word_new_br6 | office<br>turkey<br>phone<br>jewel<br>lemon<br>spare |  
+| bip_39_word_new_br7 | office<br>turkey<br>phone<br>jewel<br>lemon<br>spare<br>miracle |  
+| bip_39_word_new_br8 | office<br>turkey<br>phone<br>jewel<br>lemon<br>spare<br>miracle<br>scissors |  
+| bip_39_word_new_br9 | office<br>turkey<br>phone<br>jewel<br>lemon<br>spare<br>miracle<br>scissors<br>infant |  
+| bip_39_word_new_line1 | office |  
+| bip_39_word_new_line10 | office
+turkey
+phone
+jewel
+lemon
+spare
+miracle
+scissors
+infant
+flag |  
+| bip_39_word_new_line11 | office
+turkey
+phone
+jewel
+lemon
+spare
+miracle
+scissors
+infant
+flag
+jacket |  
+| bip_39_word_new_line12 | office
+turkey
+phone
+jewel
+lemon
+spare
+miracle
+scissors
+infant
+flag
+jacket
+anger |  
+| bip_39_word_new_line2 | office
+turkey |  
+| bip_39_word_new_line3 | office
+turkey
+phone |  
+| bip_39_word_new_line4 | office
+turkey
+phone
+jewel |  
+| bip_39_word_new_line5 | office
+turkey
+phone
+jewel
+lemon |  
+| bip_39_word_new_line6 | office
+turkey
+phone
+jewel
+lemon
+spare |  
+| bip_39_word_new_line7 | office
+turkey
+phone
+jewel
+lemon
+spare
+miracle |  
+| bip_39_word_new_line8 | office
+turkey
+phone
+jewel
+lemon
+spare
+miracle
+scissors |  
+| bip_39_word_new_line9 | office
+turkey
+phone
+jewel
+lemon
+spare
+miracle
+scissors
+infant |  
+| bip_39_word_space_0 | ['office', 'turkey', 'phone', 'jewel', 'lemon', 'spare', 'miracle', 'scissors', 'infant', 'flag', 'jacket', 'anger'] |  
+| bip_39_word_space_1 | office |  
+| bip_39_word_space_10 | office turkey phone jewel lemon spare miracle scissors infant flag |  
+| bip_39_word_space_11 | office turkey phone jewel lemon spare miracle scissors infant flag jacket |  
+| bip_39_word_space_12 | office turkey phone jewel lemon spare miracle scissors infant flag jacket anger |  
+| bip_39_word_space_2 | office turkey |  
+| bip_39_word_space_3 | office turkey phone |  
+| bip_39_word_space_4 | office turkey phone jewel |  
+| bip_39_word_space_5 | office turkey phone jewel lemon |  
+| bip_39_word_space_6 | office turkey phone jewel lemon spare |  
+| bip_39_word_space_7 | office turkey phone jewel lemon spare miracle |  
+| bip_39_word_space_8 | office turkey phone jewel lemon spare miracle scissors |  
+| bip_39_word_space_9 | office turkey phone jewel lemon spare miracle scissors infant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

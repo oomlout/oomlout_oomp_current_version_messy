@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sound column
+  * bip 39 word 3: sound column oval
+  * bip 39 word: sound column oval catch gift park attitude young vintage clip sail amount
 
 ### other_codes
 * short_code: ss5m22
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sound |  
+| bip_39_word_new_br10 | sound<br>column<br>oval<br>catch<br>gift<br>park<br>attitude<br>young<br>vintage<br>clip |  
+| bip_39_word_new_br11 | sound<br>column<br>oval<br>catch<br>gift<br>park<br>attitude<br>young<br>vintage<br>clip<br>sail |  
+| bip_39_word_new_br12 | sound<br>column<br>oval<br>catch<br>gift<br>park<br>attitude<br>young<br>vintage<br>clip<br>sail<br>amount |  
+| bip_39_word_new_br2 | sound<br>column |  
+| bip_39_word_new_br3 | sound<br>column<br>oval |  
+| bip_39_word_new_br4 | sound<br>column<br>oval<br>catch |  
+| bip_39_word_new_br5 | sound<br>column<br>oval<br>catch<br>gift |  
+| bip_39_word_new_br6 | sound<br>column<br>oval<br>catch<br>gift<br>park |  
+| bip_39_word_new_br7 | sound<br>column<br>oval<br>catch<br>gift<br>park<br>attitude |  
+| bip_39_word_new_br8 | sound<br>column<br>oval<br>catch<br>gift<br>park<br>attitude<br>young |  
+| bip_39_word_new_br9 | sound<br>column<br>oval<br>catch<br>gift<br>park<br>attitude<br>young<br>vintage |  
+| bip_39_word_new_line1 | sound |  
+| bip_39_word_new_line10 | sound
+column
+oval
+catch
+gift
+park
+attitude
+young
+vintage
+clip |  
+| bip_39_word_new_line11 | sound
+column
+oval
+catch
+gift
+park
+attitude
+young
+vintage
+clip
+sail |  
+| bip_39_word_new_line12 | sound
+column
+oval
+catch
+gift
+park
+attitude
+young
+vintage
+clip
+sail
+amount |  
+| bip_39_word_new_line2 | sound
+column |  
+| bip_39_word_new_line3 | sound
+column
+oval |  
+| bip_39_word_new_line4 | sound
+column
+oval
+catch |  
+| bip_39_word_new_line5 | sound
+column
+oval
+catch
+gift |  
+| bip_39_word_new_line6 | sound
+column
+oval
+catch
+gift
+park |  
+| bip_39_word_new_line7 | sound
+column
+oval
+catch
+gift
+park
+attitude |  
+| bip_39_word_new_line8 | sound
+column
+oval
+catch
+gift
+park
+attitude
+young |  
+| bip_39_word_new_line9 | sound
+column
+oval
+catch
+gift
+park
+attitude
+young
+vintage |  
+| bip_39_word_space_0 | ['sound', 'column', 'oval', 'catch', 'gift', 'park', 'attitude', 'young', 'vintage', 'clip', 'sail', 'amount'] |  
+| bip_39_word_space_1 | sound |  
+| bip_39_word_space_10 | sound column oval catch gift park attitude young vintage clip |  
+| bip_39_word_space_11 | sound column oval catch gift park attitude young vintage clip sail |  
+| bip_39_word_space_12 | sound column oval catch gift park attitude young vintage clip sail amount |  
+| bip_39_word_space_2 | sound column |  
+| bip_39_word_space_3 | sound column oval |  
+| bip_39_word_space_4 | sound column oval catch |  
+| bip_39_word_space_5 | sound column oval catch gift |  
+| bip_39_word_space_6 | sound column oval catch gift park |  
+| bip_39_word_space_7 | sound column oval catch gift park attitude |  
+| bip_39_word_space_8 | sound column oval catch gift park attitude young |  
+| bip_39_word_space_9 | sound column oval catch gift park attitude young vintage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

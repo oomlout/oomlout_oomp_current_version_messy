@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: congress catch
+  * bip 39 word 3: congress catch gain
+  * bip 39 word: congress catch gain miss party panel blossom sketch treat music thing ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | congress |  
+| bip_39_word_new_br10 | congress<br>catch<br>gain<br>miss<br>party<br>panel<br>blossom<br>sketch<br>treat<br>music |  
+| bip_39_word_new_br11 | congress<br>catch<br>gain<br>miss<br>party<br>panel<br>blossom<br>sketch<br>treat<br>music<br>thing |  
+| bip_39_word_new_br12 | congress<br>catch<br>gain<br>miss<br>party<br>panel<br>blossom<br>sketch<br>treat<br>music<br>thing<br>ancient |  
+| bip_39_word_new_br2 | congress<br>catch |  
+| bip_39_word_new_br3 | congress<br>catch<br>gain |  
+| bip_39_word_new_br4 | congress<br>catch<br>gain<br>miss |  
+| bip_39_word_new_br5 | congress<br>catch<br>gain<br>miss<br>party |  
+| bip_39_word_new_br6 | congress<br>catch<br>gain<br>miss<br>party<br>panel |  
+| bip_39_word_new_br7 | congress<br>catch<br>gain<br>miss<br>party<br>panel<br>blossom |  
+| bip_39_word_new_br8 | congress<br>catch<br>gain<br>miss<br>party<br>panel<br>blossom<br>sketch |  
+| bip_39_word_new_br9 | congress<br>catch<br>gain<br>miss<br>party<br>panel<br>blossom<br>sketch<br>treat |  
+| bip_39_word_new_line1 | congress |  
+| bip_39_word_new_line10 | congress
+catch
+gain
+miss
+party
+panel
+blossom
+sketch
+treat
+music |  
+| bip_39_word_new_line11 | congress
+catch
+gain
+miss
+party
+panel
+blossom
+sketch
+treat
+music
+thing |  
+| bip_39_word_new_line12 | congress
+catch
+gain
+miss
+party
+panel
+blossom
+sketch
+treat
+music
+thing
+ancient |  
+| bip_39_word_new_line2 | congress
+catch |  
+| bip_39_word_new_line3 | congress
+catch
+gain |  
+| bip_39_word_new_line4 | congress
+catch
+gain
+miss |  
+| bip_39_word_new_line5 | congress
+catch
+gain
+miss
+party |  
+| bip_39_word_new_line6 | congress
+catch
+gain
+miss
+party
+panel |  
+| bip_39_word_new_line7 | congress
+catch
+gain
+miss
+party
+panel
+blossom |  
+| bip_39_word_new_line8 | congress
+catch
+gain
+miss
+party
+panel
+blossom
+sketch |  
+| bip_39_word_new_line9 | congress
+catch
+gain
+miss
+party
+panel
+blossom
+sketch
+treat |  
+| bip_39_word_space_0 | ['congress', 'catch', 'gain', 'miss', 'party', 'panel', 'blossom', 'sketch', 'treat', 'music', 'thing', 'ancient'] |  
+| bip_39_word_space_1 | congress |  
+| bip_39_word_space_10 | congress catch gain miss party panel blossom sketch treat music |  
+| bip_39_word_space_11 | congress catch gain miss party panel blossom sketch treat music thing |  
+| bip_39_word_space_12 | congress catch gain miss party panel blossom sketch treat music thing ancient |  
+| bip_39_word_space_2 | congress catch |  
+| bip_39_word_space_3 | congress catch gain |  
+| bip_39_word_space_4 | congress catch gain miss |  
+| bip_39_word_space_5 | congress catch gain miss party |  
+| bip_39_word_space_6 | congress catch gain miss party panel |  
+| bip_39_word_space_7 | congress catch gain miss party panel blossom |  
+| bip_39_word_space_8 | congress catch gain miss party panel blossom sketch |  
+| bip_39_word_space_9 | congress catch gain miss party panel blossom sketch treat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: daughter cave
+  * bip 39 word 3: daughter cave vendor
+  * bip 39 word: daughter cave vendor weekend lunar penalty adult fly gap simple room audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | daughter |  
+| bip_39_word_new_br10 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty<br>adult<br>fly<br>gap<br>simple |  
+| bip_39_word_new_br11 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty<br>adult<br>fly<br>gap<br>simple<br>room |  
+| bip_39_word_new_br12 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty<br>adult<br>fly<br>gap<br>simple<br>room<br>audit |  
+| bip_39_word_new_br2 | daughter<br>cave |  
+| bip_39_word_new_br3 | daughter<br>cave<br>vendor |  
+| bip_39_word_new_br4 | daughter<br>cave<br>vendor<br>weekend |  
+| bip_39_word_new_br5 | daughter<br>cave<br>vendor<br>weekend<br>lunar |  
+| bip_39_word_new_br6 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty |  
+| bip_39_word_new_br7 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty<br>adult |  
+| bip_39_word_new_br8 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty<br>adult<br>fly |  
+| bip_39_word_new_br9 | daughter<br>cave<br>vendor<br>weekend<br>lunar<br>penalty<br>adult<br>fly<br>gap |  
+| bip_39_word_new_line1 | daughter |  
+| bip_39_word_new_line10 | daughter
+cave
+vendor
+weekend
+lunar
+penalty
+adult
+fly
+gap
+simple |  
+| bip_39_word_new_line11 | daughter
+cave
+vendor
+weekend
+lunar
+penalty
+adult
+fly
+gap
+simple
+room |  
+| bip_39_word_new_line12 | daughter
+cave
+vendor
+weekend
+lunar
+penalty
+adult
+fly
+gap
+simple
+room
+audit |  
+| bip_39_word_new_line2 | daughter
+cave |  
+| bip_39_word_new_line3 | daughter
+cave
+vendor |  
+| bip_39_word_new_line4 | daughter
+cave
+vendor
+weekend |  
+| bip_39_word_new_line5 | daughter
+cave
+vendor
+weekend
+lunar |  
+| bip_39_word_new_line6 | daughter
+cave
+vendor
+weekend
+lunar
+penalty |  
+| bip_39_word_new_line7 | daughter
+cave
+vendor
+weekend
+lunar
+penalty
+adult |  
+| bip_39_word_new_line8 | daughter
+cave
+vendor
+weekend
+lunar
+penalty
+adult
+fly |  
+| bip_39_word_new_line9 | daughter
+cave
+vendor
+weekend
+lunar
+penalty
+adult
+fly
+gap |  
+| bip_39_word_space_0 | ['daughter', 'cave', 'vendor', 'weekend', 'lunar', 'penalty', 'adult', 'fly', 'gap', 'simple', 'room', 'audit'] |  
+| bip_39_word_space_1 | daughter |  
+| bip_39_word_space_10 | daughter cave vendor weekend lunar penalty adult fly gap simple |  
+| bip_39_word_space_11 | daughter cave vendor weekend lunar penalty adult fly gap simple room |  
+| bip_39_word_space_12 | daughter cave vendor weekend lunar penalty adult fly gap simple room audit |  
+| bip_39_word_space_2 | daughter cave |  
+| bip_39_word_space_3 | daughter cave vendor |  
+| bip_39_word_space_4 | daughter cave vendor weekend |  
+| bip_39_word_space_5 | daughter cave vendor weekend lunar |  
+| bip_39_word_space_6 | daughter cave vendor weekend lunar penalty |  
+| bip_39_word_space_7 | daughter cave vendor weekend lunar penalty adult |  
+| bip_39_word_space_8 | daughter cave vendor weekend lunar penalty adult fly |  
+| bip_39_word_space_9 | daughter cave vendor weekend lunar penalty adult fly gap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

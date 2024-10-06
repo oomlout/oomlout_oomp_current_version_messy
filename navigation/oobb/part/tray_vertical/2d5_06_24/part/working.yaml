@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rebuild
+bip_39_word_new_br10: rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler
+bip_39_word_new_br11: rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler<br>hawk
+bip_39_word_new_br12: rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor<br>toddler<br>hawk<br>art
+bip_39_word_new_br2: rebuild<br>doll
+bip_39_word_new_br3: rebuild<br>doll<br>vanish
+bip_39_word_new_br4: rebuild<br>doll<br>vanish<br>now
+bip_39_word_new_br5: rebuild<br>doll<br>vanish<br>now<br>buyer
+bip_39_word_new_br6: rebuild<br>doll<br>vanish<br>now<br>buyer<br>client
+bip_39_word_new_br7: rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck
+bip_39_word_new_br8: rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil
+bip_39_word_new_br9: rebuild<br>doll<br>vanish<br>now<br>buyer<br>client<br>pluck<br>unveil<br>floor
+bip_39_word_new_line1: rebuild
+bip_39_word_new_line10: 'rebuild
+
+  doll
+
+  vanish
+
+  now
+
+  buyer
+
+  client
+
+  pluck
+
+  unveil
+
+  floor
+
+  toddler'
+bip_39_word_new_line11: 'rebuild
+
+  doll
+
+  vanish
+
+  now
+
+  buyer
+
+  client
+
+  pluck
+
+  unveil
+
+  floor
+
+  toddler
+
+  hawk'
+bip_39_word_new_line12: 'rebuild
+
+  doll
+
+  vanish
+
+  now
+
+  buyer
+
+  client
+
+  pluck
+
+  unveil
+
+  floor
+
+  toddler
+
+  hawk
+
+  art'
+bip_39_word_new_line2: 'rebuild
+
+  doll'
+bip_39_word_new_line3: 'rebuild
+
+  doll
+
+  vanish'
+bip_39_word_new_line4: 'rebuild
+
+  doll
+
+  vanish
+
+  now'
+bip_39_word_new_line5: 'rebuild
+
+  doll
+
+  vanish
+
+  now
+
+  buyer'
+bip_39_word_new_line6: 'rebuild
+
+  doll
+
+  vanish
+
+  now
+
+  buyer
+
+  client'
+bip_39_word_new_line7: 'rebuild
+
+  doll
+
+  vanish
+
+  now
+
+  buyer
+
+  client
+
+  pluck'
+bip_39_word_new_line8: 'rebuild
+
+  doll
+
+  vanish
+
+  now
+
+  buyer
+
+  client
+
+  pluck
+
+  unveil'
+bip_39_word_new_line9: 'rebuild
+
+  doll
+
+  vanish
+
+  now
+
+  buyer
+
+  client
+
+  pluck
+
+  unveil
+
+  floor'
+bip_39_word_space_0:
+- rebuild
+- doll
+- vanish
+- now
+- buyer
+- client
+- pluck
+- unveil
+- floor
+- toddler
+- hawk
+- art
+bip_39_word_space_1: rebuild
+bip_39_word_space_10: rebuild doll vanish now buyer client pluck unveil floor toddler
+bip_39_word_space_11: rebuild doll vanish now buyer client pluck unveil floor toddler
+  hawk
+bip_39_word_space_12: rebuild doll vanish now buyer client pluck unveil floor toddler
+  hawk art
+bip_39_word_space_2: rebuild doll
+bip_39_word_space_3: rebuild doll vanish
+bip_39_word_space_4: rebuild doll vanish now
+bip_39_word_space_5: rebuild doll vanish now buyer
+bip_39_word_space_6: rebuild doll vanish now buyer client
+bip_39_word_space_7: rebuild doll vanish now buyer client pluck
+bip_39_word_space_8: rebuild doll vanish now buyer client pluck unveil
+bip_39_word_space_9: rebuild doll vanish now buyer client pluck unveil floor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

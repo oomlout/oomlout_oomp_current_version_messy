@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: try dress
+  * bip 39 word 3: try dress vintage
+  * bip 39 word: try dress vintage swarm maid dish source unhappy fold merit apple army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | try |  
+| bip_39_word_new_br10 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish<br>source<br>unhappy<br>fold<br>merit |  
+| bip_39_word_new_br11 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish<br>source<br>unhappy<br>fold<br>merit<br>apple |  
+| bip_39_word_new_br12 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish<br>source<br>unhappy<br>fold<br>merit<br>apple<br>army |  
+| bip_39_word_new_br2 | try<br>dress |  
+| bip_39_word_new_br3 | try<br>dress<br>vintage |  
+| bip_39_word_new_br4 | try<br>dress<br>vintage<br>swarm |  
+| bip_39_word_new_br5 | try<br>dress<br>vintage<br>swarm<br>maid |  
+| bip_39_word_new_br6 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish |  
+| bip_39_word_new_br7 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish<br>source |  
+| bip_39_word_new_br8 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish<br>source<br>unhappy |  
+| bip_39_word_new_br9 | try<br>dress<br>vintage<br>swarm<br>maid<br>dish<br>source<br>unhappy<br>fold |  
+| bip_39_word_new_line1 | try |  
+| bip_39_word_new_line10 | try
+dress
+vintage
+swarm
+maid
+dish
+source
+unhappy
+fold
+merit |  
+| bip_39_word_new_line11 | try
+dress
+vintage
+swarm
+maid
+dish
+source
+unhappy
+fold
+merit
+apple |  
+| bip_39_word_new_line12 | try
+dress
+vintage
+swarm
+maid
+dish
+source
+unhappy
+fold
+merit
+apple
+army |  
+| bip_39_word_new_line2 | try
+dress |  
+| bip_39_word_new_line3 | try
+dress
+vintage |  
+| bip_39_word_new_line4 | try
+dress
+vintage
+swarm |  
+| bip_39_word_new_line5 | try
+dress
+vintage
+swarm
+maid |  
+| bip_39_word_new_line6 | try
+dress
+vintage
+swarm
+maid
+dish |  
+| bip_39_word_new_line7 | try
+dress
+vintage
+swarm
+maid
+dish
+source |  
+| bip_39_word_new_line8 | try
+dress
+vintage
+swarm
+maid
+dish
+source
+unhappy |  
+| bip_39_word_new_line9 | try
+dress
+vintage
+swarm
+maid
+dish
+source
+unhappy
+fold |  
+| bip_39_word_space_0 | ['try', 'dress', 'vintage', 'swarm', 'maid', 'dish', 'source', 'unhappy', 'fold', 'merit', 'apple', 'army'] |  
+| bip_39_word_space_1 | try |  
+| bip_39_word_space_10 | try dress vintage swarm maid dish source unhappy fold merit |  
+| bip_39_word_space_11 | try dress vintage swarm maid dish source unhappy fold merit apple |  
+| bip_39_word_space_12 | try dress vintage swarm maid dish source unhappy fold merit apple army |  
+| bip_39_word_space_2 | try dress |  
+| bip_39_word_space_3 | try dress vintage |  
+| bip_39_word_space_4 | try dress vintage swarm |  
+| bip_39_word_space_5 | try dress vintage swarm maid |  
+| bip_39_word_space_6 | try dress vintage swarm maid dish |  
+| bip_39_word_space_7 | try dress vintage swarm maid dish source |  
+| bip_39_word_space_8 | try dress vintage swarm maid dish source unhappy |  
+| bip_39_word_space_9 | try dress vintage swarm maid dish source unhappy fold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

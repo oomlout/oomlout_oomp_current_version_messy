@@ -1,3 +1,188 @@
+bip_39_word_new_br1: ketchup
+bip_39_word_new_br10: ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon<br>joke<br>original<br>arrow<br>axis
+bip_39_word_new_br11: ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon<br>joke<br>original<br>arrow<br>axis<br>announce
+bip_39_word_new_br12: ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon<br>joke<br>original<br>arrow<br>axis<br>announce<br>arrive
+bip_39_word_new_br2: ketchup<br>second
+bip_39_word_new_br3: ketchup<br>second<br>universe
+bip_39_word_new_br4: ketchup<br>second<br>universe<br>useful
+bip_39_word_new_br5: ketchup<br>second<br>universe<br>useful<br>cruise
+bip_39_word_new_br6: ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon
+bip_39_word_new_br7: ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon<br>joke
+bip_39_word_new_br8: ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon<br>joke<br>original
+bip_39_word_new_br9: ketchup<br>second<br>universe<br>useful<br>cruise<br>cinnamon<br>joke<br>original<br>arrow
+bip_39_word_new_line1: ketchup
+bip_39_word_new_line10: 'ketchup
+
+  second
+
+  universe
+
+  useful
+
+  cruise
+
+  cinnamon
+
+  joke
+
+  original
+
+  arrow
+
+  axis'
+bip_39_word_new_line11: 'ketchup
+
+  second
+
+  universe
+
+  useful
+
+  cruise
+
+  cinnamon
+
+  joke
+
+  original
+
+  arrow
+
+  axis
+
+  announce'
+bip_39_word_new_line12: 'ketchup
+
+  second
+
+  universe
+
+  useful
+
+  cruise
+
+  cinnamon
+
+  joke
+
+  original
+
+  arrow
+
+  axis
+
+  announce
+
+  arrive'
+bip_39_word_new_line2: 'ketchup
+
+  second'
+bip_39_word_new_line3: 'ketchup
+
+  second
+
+  universe'
+bip_39_word_new_line4: 'ketchup
+
+  second
+
+  universe
+
+  useful'
+bip_39_word_new_line5: 'ketchup
+
+  second
+
+  universe
+
+  useful
+
+  cruise'
+bip_39_word_new_line6: 'ketchup
+
+  second
+
+  universe
+
+  useful
+
+  cruise
+
+  cinnamon'
+bip_39_word_new_line7: 'ketchup
+
+  second
+
+  universe
+
+  useful
+
+  cruise
+
+  cinnamon
+
+  joke'
+bip_39_word_new_line8: 'ketchup
+
+  second
+
+  universe
+
+  useful
+
+  cruise
+
+  cinnamon
+
+  joke
+
+  original'
+bip_39_word_new_line9: 'ketchup
+
+  second
+
+  universe
+
+  useful
+
+  cruise
+
+  cinnamon
+
+  joke
+
+  original
+
+  arrow'
+bip_39_word_space_0:
+- ketchup
+- second
+- universe
+- useful
+- cruise
+- cinnamon
+- joke
+- original
+- arrow
+- axis
+- announce
+- arrive
+bip_39_word_space_1: ketchup
+bip_39_word_space_10: ketchup second universe useful cruise cinnamon joke original
+  arrow axis
+bip_39_word_space_11: ketchup second universe useful cruise cinnamon joke original
+  arrow axis announce
+bip_39_word_space_12: ketchup second universe useful cruise cinnamon joke original
+  arrow axis announce arrive
+bip_39_word_space_2: ketchup second
+bip_39_word_space_3: ketchup second universe
+bip_39_word_space_4: ketchup second universe useful
+bip_39_word_space_5: ketchup second universe useful cruise
+bip_39_word_space_6: ketchup second universe useful cruise cinnamon
+bip_39_word_space_7: ketchup second universe useful cruise cinnamon joke
+bip_39_word_space_8: ketchup second universe useful cruise cinnamon joke original
+bip_39_word_space_9: ketchup second universe useful cruise cinnamon joke original
+  arrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: cave
+bip_39_word_new_br10: cave<br>worth<br>betray<br>hat<br>wink<br>faith<br>ocean<br>pigeon<br>surge<br>green
+bip_39_word_new_br11: cave<br>worth<br>betray<br>hat<br>wink<br>faith<br>ocean<br>pigeon<br>surge<br>green<br>opera
+bip_39_word_new_br12: cave<br>worth<br>betray<br>hat<br>wink<br>faith<br>ocean<br>pigeon<br>surge<br>green<br>opera<br>alter
+bip_39_word_new_br2: cave<br>worth
+bip_39_word_new_br3: cave<br>worth<br>betray
+bip_39_word_new_br4: cave<br>worth<br>betray<br>hat
+bip_39_word_new_br5: cave<br>worth<br>betray<br>hat<br>wink
+bip_39_word_new_br6: cave<br>worth<br>betray<br>hat<br>wink<br>faith
+bip_39_word_new_br7: cave<br>worth<br>betray<br>hat<br>wink<br>faith<br>ocean
+bip_39_word_new_br8: cave<br>worth<br>betray<br>hat<br>wink<br>faith<br>ocean<br>pigeon
+bip_39_word_new_br9: cave<br>worth<br>betray<br>hat<br>wink<br>faith<br>ocean<br>pigeon<br>surge
+bip_39_word_new_line1: cave
+bip_39_word_new_line10: 'cave
+
+  worth
+
+  betray
+
+  hat
+
+  wink
+
+  faith
+
+  ocean
+
+  pigeon
+
+  surge
+
+  green'
+bip_39_word_new_line11: 'cave
+
+  worth
+
+  betray
+
+  hat
+
+  wink
+
+  faith
+
+  ocean
+
+  pigeon
+
+  surge
+
+  green
+
+  opera'
+bip_39_word_new_line12: 'cave
+
+  worth
+
+  betray
+
+  hat
+
+  wink
+
+  faith
+
+  ocean
+
+  pigeon
+
+  surge
+
+  green
+
+  opera
+
+  alter'
+bip_39_word_new_line2: 'cave
+
+  worth'
+bip_39_word_new_line3: 'cave
+
+  worth
+
+  betray'
+bip_39_word_new_line4: 'cave
+
+  worth
+
+  betray
+
+  hat'
+bip_39_word_new_line5: 'cave
+
+  worth
+
+  betray
+
+  hat
+
+  wink'
+bip_39_word_new_line6: 'cave
+
+  worth
+
+  betray
+
+  hat
+
+  wink
+
+  faith'
+bip_39_word_new_line7: 'cave
+
+  worth
+
+  betray
+
+  hat
+
+  wink
+
+  faith
+
+  ocean'
+bip_39_word_new_line8: 'cave
+
+  worth
+
+  betray
+
+  hat
+
+  wink
+
+  faith
+
+  ocean
+
+  pigeon'
+bip_39_word_new_line9: 'cave
+
+  worth
+
+  betray
+
+  hat
+
+  wink
+
+  faith
+
+  ocean
+
+  pigeon
+
+  surge'
+bip_39_word_space_0:
+- cave
+- worth
+- betray
+- hat
+- wink
+- faith
+- ocean
+- pigeon
+- surge
+- green
+- opera
+- alter
+bip_39_word_space_1: cave
+bip_39_word_space_10: cave worth betray hat wink faith ocean pigeon surge green
+bip_39_word_space_11: cave worth betray hat wink faith ocean pigeon surge green opera
+bip_39_word_space_12: cave worth betray hat wink faith ocean pigeon surge green opera
+  alter
+bip_39_word_space_2: cave worth
+bip_39_word_space_3: cave worth betray
+bip_39_word_space_4: cave worth betray hat
+bip_39_word_space_5: cave worth betray hat wink
+bip_39_word_space_6: cave worth betray hat wink faith
+bip_39_word_space_7: cave worth betray hat wink faith ocean
+bip_39_word_space_8: cave worth betray hat wink faith ocean pigeon
+bip_39_word_space_9: cave worth betray hat wink faith ocean pigeon surge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

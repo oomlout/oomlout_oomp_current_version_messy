@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: antique zone
+  * bip 39 word 3: antique zone robust
+  * bip 39 word: antique zone robust excite stuff kind virtual broom april thunder detail adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | antique |  
+| bip_39_word_new_br10 | antique<br>zone<br>robust<br>excite<br>stuff<br>kind<br>virtual<br>broom<br>april<br>thunder |  
+| bip_39_word_new_br11 | antique<br>zone<br>robust<br>excite<br>stuff<br>kind<br>virtual<br>broom<br>april<br>thunder<br>detail |  
+| bip_39_word_new_br12 | antique<br>zone<br>robust<br>excite<br>stuff<br>kind<br>virtual<br>broom<br>april<br>thunder<br>detail<br>adapt |  
+| bip_39_word_new_br2 | antique<br>zone |  
+| bip_39_word_new_br3 | antique<br>zone<br>robust |  
+| bip_39_word_new_br4 | antique<br>zone<br>robust<br>excite |  
+| bip_39_word_new_br5 | antique<br>zone<br>robust<br>excite<br>stuff |  
+| bip_39_word_new_br6 | antique<br>zone<br>robust<br>excite<br>stuff<br>kind |  
+| bip_39_word_new_br7 | antique<br>zone<br>robust<br>excite<br>stuff<br>kind<br>virtual |  
+| bip_39_word_new_br8 | antique<br>zone<br>robust<br>excite<br>stuff<br>kind<br>virtual<br>broom |  
+| bip_39_word_new_br9 | antique<br>zone<br>robust<br>excite<br>stuff<br>kind<br>virtual<br>broom<br>april |  
+| bip_39_word_new_line1 | antique |  
+| bip_39_word_new_line10 | antique
+zone
+robust
+excite
+stuff
+kind
+virtual
+broom
+april
+thunder |  
+| bip_39_word_new_line11 | antique
+zone
+robust
+excite
+stuff
+kind
+virtual
+broom
+april
+thunder
+detail |  
+| bip_39_word_new_line12 | antique
+zone
+robust
+excite
+stuff
+kind
+virtual
+broom
+april
+thunder
+detail
+adapt |  
+| bip_39_word_new_line2 | antique
+zone |  
+| bip_39_word_new_line3 | antique
+zone
+robust |  
+| bip_39_word_new_line4 | antique
+zone
+robust
+excite |  
+| bip_39_word_new_line5 | antique
+zone
+robust
+excite
+stuff |  
+| bip_39_word_new_line6 | antique
+zone
+robust
+excite
+stuff
+kind |  
+| bip_39_word_new_line7 | antique
+zone
+robust
+excite
+stuff
+kind
+virtual |  
+| bip_39_word_new_line8 | antique
+zone
+robust
+excite
+stuff
+kind
+virtual
+broom |  
+| bip_39_word_new_line9 | antique
+zone
+robust
+excite
+stuff
+kind
+virtual
+broom
+april |  
+| bip_39_word_space_0 | ['antique', 'zone', 'robust', 'excite', 'stuff', 'kind', 'virtual', 'broom', 'april', 'thunder', 'detail', 'adapt'] |  
+| bip_39_word_space_1 | antique |  
+| bip_39_word_space_10 | antique zone robust excite stuff kind virtual broom april thunder |  
+| bip_39_word_space_11 | antique zone robust excite stuff kind virtual broom april thunder detail |  
+| bip_39_word_space_12 | antique zone robust excite stuff kind virtual broom april thunder detail adapt |  
+| bip_39_word_space_2 | antique zone |  
+| bip_39_word_space_3 | antique zone robust |  
+| bip_39_word_space_4 | antique zone robust excite |  
+| bip_39_word_space_5 | antique zone robust excite stuff |  
+| bip_39_word_space_6 | antique zone robust excite stuff kind |  
+| bip_39_word_space_7 | antique zone robust excite stuff kind virtual |  
+| bip_39_word_space_8 | antique zone robust excite stuff kind virtual broom |  
+| bip_39_word_space_9 | antique zone robust excite stuff kind virtual broom april |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

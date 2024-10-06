@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: various nest
+  * bip 39 word 3: various nest nurse
+  * bip 39 word: various nest nurse gather poet erosion plastic double ladder solve joke april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | various |  
+| bip_39_word_new_br10 | various<br>nest<br>nurse<br>gather<br>poet<br>erosion<br>plastic<br>double<br>ladder<br>solve |  
+| bip_39_word_new_br11 | various<br>nest<br>nurse<br>gather<br>poet<br>erosion<br>plastic<br>double<br>ladder<br>solve<br>joke |  
+| bip_39_word_new_br12 | various<br>nest<br>nurse<br>gather<br>poet<br>erosion<br>plastic<br>double<br>ladder<br>solve<br>joke<br>april |  
+| bip_39_word_new_br2 | various<br>nest |  
+| bip_39_word_new_br3 | various<br>nest<br>nurse |  
+| bip_39_word_new_br4 | various<br>nest<br>nurse<br>gather |  
+| bip_39_word_new_br5 | various<br>nest<br>nurse<br>gather<br>poet |  
+| bip_39_word_new_br6 | various<br>nest<br>nurse<br>gather<br>poet<br>erosion |  
+| bip_39_word_new_br7 | various<br>nest<br>nurse<br>gather<br>poet<br>erosion<br>plastic |  
+| bip_39_word_new_br8 | various<br>nest<br>nurse<br>gather<br>poet<br>erosion<br>plastic<br>double |  
+| bip_39_word_new_br9 | various<br>nest<br>nurse<br>gather<br>poet<br>erosion<br>plastic<br>double<br>ladder |  
+| bip_39_word_new_line1 | various |  
+| bip_39_word_new_line10 | various
+nest
+nurse
+gather
+poet
+erosion
+plastic
+double
+ladder
+solve |  
+| bip_39_word_new_line11 | various
+nest
+nurse
+gather
+poet
+erosion
+plastic
+double
+ladder
+solve
+joke |  
+| bip_39_word_new_line12 | various
+nest
+nurse
+gather
+poet
+erosion
+plastic
+double
+ladder
+solve
+joke
+april |  
+| bip_39_word_new_line2 | various
+nest |  
+| bip_39_word_new_line3 | various
+nest
+nurse |  
+| bip_39_word_new_line4 | various
+nest
+nurse
+gather |  
+| bip_39_word_new_line5 | various
+nest
+nurse
+gather
+poet |  
+| bip_39_word_new_line6 | various
+nest
+nurse
+gather
+poet
+erosion |  
+| bip_39_word_new_line7 | various
+nest
+nurse
+gather
+poet
+erosion
+plastic |  
+| bip_39_word_new_line8 | various
+nest
+nurse
+gather
+poet
+erosion
+plastic
+double |  
+| bip_39_word_new_line9 | various
+nest
+nurse
+gather
+poet
+erosion
+plastic
+double
+ladder |  
+| bip_39_word_space_0 | ['various', 'nest', 'nurse', 'gather', 'poet', 'erosion', 'plastic', 'double', 'ladder', 'solve', 'joke', 'april'] |  
+| bip_39_word_space_1 | various |  
+| bip_39_word_space_10 | various nest nurse gather poet erosion plastic double ladder solve |  
+| bip_39_word_space_11 | various nest nurse gather poet erosion plastic double ladder solve joke |  
+| bip_39_word_space_12 | various nest nurse gather poet erosion plastic double ladder solve joke april |  
+| bip_39_word_space_2 | various nest |  
+| bip_39_word_space_3 | various nest nurse |  
+| bip_39_word_space_4 | various nest nurse gather |  
+| bip_39_word_space_5 | various nest nurse gather poet |  
+| bip_39_word_space_6 | various nest nurse gather poet erosion |  
+| bip_39_word_space_7 | various nest nurse gather poet erosion plastic |  
+| bip_39_word_space_8 | various nest nurse gather poet erosion plastic double |  
+| bip_39_word_space_9 | various nest nurse gather poet erosion plastic double ladder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hair
+bip_39_word_new_br10: hair<br>decorate<br>color<br>happy<br>expire<br>list<br>ignore<br>obvious<br>dog<br>desert
+bip_39_word_new_br11: hair<br>decorate<br>color<br>happy<br>expire<br>list<br>ignore<br>obvious<br>dog<br>desert<br>test
+bip_39_word_new_br12: hair<br>decorate<br>color<br>happy<br>expire<br>list<br>ignore<br>obvious<br>dog<br>desert<br>test<br>adapt
+bip_39_word_new_br2: hair<br>decorate
+bip_39_word_new_br3: hair<br>decorate<br>color
+bip_39_word_new_br4: hair<br>decorate<br>color<br>happy
+bip_39_word_new_br5: hair<br>decorate<br>color<br>happy<br>expire
+bip_39_word_new_br6: hair<br>decorate<br>color<br>happy<br>expire<br>list
+bip_39_word_new_br7: hair<br>decorate<br>color<br>happy<br>expire<br>list<br>ignore
+bip_39_word_new_br8: hair<br>decorate<br>color<br>happy<br>expire<br>list<br>ignore<br>obvious
+bip_39_word_new_br9: hair<br>decorate<br>color<br>happy<br>expire<br>list<br>ignore<br>obvious<br>dog
+bip_39_word_new_line1: hair
+bip_39_word_new_line10: 'hair
+
+  decorate
+
+  color
+
+  happy
+
+  expire
+
+  list
+
+  ignore
+
+  obvious
+
+  dog
+
+  desert'
+bip_39_word_new_line11: 'hair
+
+  decorate
+
+  color
+
+  happy
+
+  expire
+
+  list
+
+  ignore
+
+  obvious
+
+  dog
+
+  desert
+
+  test'
+bip_39_word_new_line12: 'hair
+
+  decorate
+
+  color
+
+  happy
+
+  expire
+
+  list
+
+  ignore
+
+  obvious
+
+  dog
+
+  desert
+
+  test
+
+  adapt'
+bip_39_word_new_line2: 'hair
+
+  decorate'
+bip_39_word_new_line3: 'hair
+
+  decorate
+
+  color'
+bip_39_word_new_line4: 'hair
+
+  decorate
+
+  color
+
+  happy'
+bip_39_word_new_line5: 'hair
+
+  decorate
+
+  color
+
+  happy
+
+  expire'
+bip_39_word_new_line6: 'hair
+
+  decorate
+
+  color
+
+  happy
+
+  expire
+
+  list'
+bip_39_word_new_line7: 'hair
+
+  decorate
+
+  color
+
+  happy
+
+  expire
+
+  list
+
+  ignore'
+bip_39_word_new_line8: 'hair
+
+  decorate
+
+  color
+
+  happy
+
+  expire
+
+  list
+
+  ignore
+
+  obvious'
+bip_39_word_new_line9: 'hair
+
+  decorate
+
+  color
+
+  happy
+
+  expire
+
+  list
+
+  ignore
+
+  obvious
+
+  dog'
+bip_39_word_space_0:
+- hair
+- decorate
+- color
+- happy
+- expire
+- list
+- ignore
+- obvious
+- dog
+- desert
+- test
+- adapt
+bip_39_word_space_1: hair
+bip_39_word_space_10: hair decorate color happy expire list ignore obvious dog desert
+bip_39_word_space_11: hair decorate color happy expire list ignore obvious dog desert
+  test
+bip_39_word_space_12: hair decorate color happy expire list ignore obvious dog desert
+  test adapt
+bip_39_word_space_2: hair decorate
+bip_39_word_space_3: hair decorate color
+bip_39_word_space_4: hair decorate color happy
+bip_39_word_space_5: hair decorate color happy expire
+bip_39_word_space_6: hair decorate color happy expire list
+bip_39_word_space_7: hair decorate color happy expire list ignore
+bip_39_word_space_8: hair decorate color happy expire list ignore obvious
+bip_39_word_space_9: hair decorate color happy expire list ignore obvious dog
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

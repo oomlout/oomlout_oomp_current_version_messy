@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pact skirt
+  * bip 39 word 3: pact skirt shell
+  * bip 39 word: pact skirt shell kick nuclear stove maple harvest weather still promote apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pact |  
+| bip_39_word_new_br10 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove<br>maple<br>harvest<br>weather<br>still |  
+| bip_39_word_new_br11 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove<br>maple<br>harvest<br>weather<br>still<br>promote |  
+| bip_39_word_new_br12 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove<br>maple<br>harvest<br>weather<br>still<br>promote<br>apart |  
+| bip_39_word_new_br2 | pact<br>skirt |  
+| bip_39_word_new_br3 | pact<br>skirt<br>shell |  
+| bip_39_word_new_br4 | pact<br>skirt<br>shell<br>kick |  
+| bip_39_word_new_br5 | pact<br>skirt<br>shell<br>kick<br>nuclear |  
+| bip_39_word_new_br6 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove |  
+| bip_39_word_new_br7 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove<br>maple |  
+| bip_39_word_new_br8 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove<br>maple<br>harvest |  
+| bip_39_word_new_br9 | pact<br>skirt<br>shell<br>kick<br>nuclear<br>stove<br>maple<br>harvest<br>weather |  
+| bip_39_word_new_line1 | pact |  
+| bip_39_word_new_line10 | pact
+skirt
+shell
+kick
+nuclear
+stove
+maple
+harvest
+weather
+still |  
+| bip_39_word_new_line11 | pact
+skirt
+shell
+kick
+nuclear
+stove
+maple
+harvest
+weather
+still
+promote |  
+| bip_39_word_new_line12 | pact
+skirt
+shell
+kick
+nuclear
+stove
+maple
+harvest
+weather
+still
+promote
+apart |  
+| bip_39_word_new_line2 | pact
+skirt |  
+| bip_39_word_new_line3 | pact
+skirt
+shell |  
+| bip_39_word_new_line4 | pact
+skirt
+shell
+kick |  
+| bip_39_word_new_line5 | pact
+skirt
+shell
+kick
+nuclear |  
+| bip_39_word_new_line6 | pact
+skirt
+shell
+kick
+nuclear
+stove |  
+| bip_39_word_new_line7 | pact
+skirt
+shell
+kick
+nuclear
+stove
+maple |  
+| bip_39_word_new_line8 | pact
+skirt
+shell
+kick
+nuclear
+stove
+maple
+harvest |  
+| bip_39_word_new_line9 | pact
+skirt
+shell
+kick
+nuclear
+stove
+maple
+harvest
+weather |  
+| bip_39_word_space_0 | ['pact', 'skirt', 'shell', 'kick', 'nuclear', 'stove', 'maple', 'harvest', 'weather', 'still', 'promote', 'apart'] |  
+| bip_39_word_space_1 | pact |  
+| bip_39_word_space_10 | pact skirt shell kick nuclear stove maple harvest weather still |  
+| bip_39_word_space_11 | pact skirt shell kick nuclear stove maple harvest weather still promote |  
+| bip_39_word_space_12 | pact skirt shell kick nuclear stove maple harvest weather still promote apart |  
+| bip_39_word_space_2 | pact skirt |  
+| bip_39_word_space_3 | pact skirt shell |  
+| bip_39_word_space_4 | pact skirt shell kick |  
+| bip_39_word_space_5 | pact skirt shell kick nuclear |  
+| bip_39_word_space_6 | pact skirt shell kick nuclear stove |  
+| bip_39_word_space_7 | pact skirt shell kick nuclear stove maple |  
+| bip_39_word_space_8 | pact skirt shell kick nuclear stove maple harvest |  
+| bip_39_word_space_9 | pact skirt shell kick nuclear stove maple harvest weather |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

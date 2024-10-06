@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ecology
+bip_39_word_new_br10: ecology<br>hen<br>romance<br>limb<br>bright<br>oven<br>away<br>correct<br>cliff<br>word
+bip_39_word_new_br11: ecology<br>hen<br>romance<br>limb<br>bright<br>oven<br>away<br>correct<br>cliff<br>word<br>tissue
+bip_39_word_new_br12: ecology<br>hen<br>romance<br>limb<br>bright<br>oven<br>away<br>correct<br>cliff<br>word<br>tissue<br>again
+bip_39_word_new_br2: ecology<br>hen
+bip_39_word_new_br3: ecology<br>hen<br>romance
+bip_39_word_new_br4: ecology<br>hen<br>romance<br>limb
+bip_39_word_new_br5: ecology<br>hen<br>romance<br>limb<br>bright
+bip_39_word_new_br6: ecology<br>hen<br>romance<br>limb<br>bright<br>oven
+bip_39_word_new_br7: ecology<br>hen<br>romance<br>limb<br>bright<br>oven<br>away
+bip_39_word_new_br8: ecology<br>hen<br>romance<br>limb<br>bright<br>oven<br>away<br>correct
+bip_39_word_new_br9: ecology<br>hen<br>romance<br>limb<br>bright<br>oven<br>away<br>correct<br>cliff
+bip_39_word_new_line1: ecology
+bip_39_word_new_line10: 'ecology
+
+  hen
+
+  romance
+
+  limb
+
+  bright
+
+  oven
+
+  away
+
+  correct
+
+  cliff
+
+  word'
+bip_39_word_new_line11: 'ecology
+
+  hen
+
+  romance
+
+  limb
+
+  bright
+
+  oven
+
+  away
+
+  correct
+
+  cliff
+
+  word
+
+  tissue'
+bip_39_word_new_line12: 'ecology
+
+  hen
+
+  romance
+
+  limb
+
+  bright
+
+  oven
+
+  away
+
+  correct
+
+  cliff
+
+  word
+
+  tissue
+
+  again'
+bip_39_word_new_line2: 'ecology
+
+  hen'
+bip_39_word_new_line3: 'ecology
+
+  hen
+
+  romance'
+bip_39_word_new_line4: 'ecology
+
+  hen
+
+  romance
+
+  limb'
+bip_39_word_new_line5: 'ecology
+
+  hen
+
+  romance
+
+  limb
+
+  bright'
+bip_39_word_new_line6: 'ecology
+
+  hen
+
+  romance
+
+  limb
+
+  bright
+
+  oven'
+bip_39_word_new_line7: 'ecology
+
+  hen
+
+  romance
+
+  limb
+
+  bright
+
+  oven
+
+  away'
+bip_39_word_new_line8: 'ecology
+
+  hen
+
+  romance
+
+  limb
+
+  bright
+
+  oven
+
+  away
+
+  correct'
+bip_39_word_new_line9: 'ecology
+
+  hen
+
+  romance
+
+  limb
+
+  bright
+
+  oven
+
+  away
+
+  correct
+
+  cliff'
+bip_39_word_space_0:
+- ecology
+- hen
+- romance
+- limb
+- bright
+- oven
+- away
+- correct
+- cliff
+- word
+- tissue
+- again
+bip_39_word_space_1: ecology
+bip_39_word_space_10: ecology hen romance limb bright oven away correct cliff word
+bip_39_word_space_11: ecology hen romance limb bright oven away correct cliff word
+  tissue
+bip_39_word_space_12: ecology hen romance limb bright oven away correct cliff word
+  tissue again
+bip_39_word_space_2: ecology hen
+bip_39_word_space_3: ecology hen romance
+bip_39_word_space_4: ecology hen romance limb
+bip_39_word_space_5: ecology hen romance limb bright
+bip_39_word_space_6: ecology hen romance limb bright oven
+bip_39_word_space_7: ecology hen romance limb bright oven away
+bip_39_word_space_8: ecology hen romance limb bright oven away correct
+bip_39_word_space_9: ecology hen romance limb bright oven away correct cliff
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

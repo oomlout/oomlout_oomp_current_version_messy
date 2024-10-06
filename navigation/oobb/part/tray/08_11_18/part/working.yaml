@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gown
+bip_39_word_new_br10: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide
+bip_39_word_new_br11: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide<br>blame
+bip_39_word_new_br12: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit<br>provide<br>blame<br>act
+bip_39_word_new_br2: gown<br>pony
+bip_39_word_new_br3: gown<br>pony<br>exist
+bip_39_word_new_br4: gown<br>pony<br>exist<br>grace
+bip_39_word_new_br5: gown<br>pony<br>exist<br>grace<br>design
+bip_39_word_new_br6: gown<br>pony<br>exist<br>grace<br>design<br>nice
+bip_39_word_new_br7: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect
+bip_39_word_new_br8: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip
+bip_39_word_new_br9: gown<br>pony<br>exist<br>grace<br>design<br>nice<br>aspect<br>trip<br>benefit
+bip_39_word_new_line1: gown
+bip_39_word_new_line10: 'gown
+
+  pony
+
+  exist
+
+  grace
+
+  design
+
+  nice
+
+  aspect
+
+  trip
+
+  benefit
+
+  provide'
+bip_39_word_new_line11: 'gown
+
+  pony
+
+  exist
+
+  grace
+
+  design
+
+  nice
+
+  aspect
+
+  trip
+
+  benefit
+
+  provide
+
+  blame'
+bip_39_word_new_line12: 'gown
+
+  pony
+
+  exist
+
+  grace
+
+  design
+
+  nice
+
+  aspect
+
+  trip
+
+  benefit
+
+  provide
+
+  blame
+
+  act'
+bip_39_word_new_line2: 'gown
+
+  pony'
+bip_39_word_new_line3: 'gown
+
+  pony
+
+  exist'
+bip_39_word_new_line4: 'gown
+
+  pony
+
+  exist
+
+  grace'
+bip_39_word_new_line5: 'gown
+
+  pony
+
+  exist
+
+  grace
+
+  design'
+bip_39_word_new_line6: 'gown
+
+  pony
+
+  exist
+
+  grace
+
+  design
+
+  nice'
+bip_39_word_new_line7: 'gown
+
+  pony
+
+  exist
+
+  grace
+
+  design
+
+  nice
+
+  aspect'
+bip_39_word_new_line8: 'gown
+
+  pony
+
+  exist
+
+  grace
+
+  design
+
+  nice
+
+  aspect
+
+  trip'
+bip_39_word_new_line9: 'gown
+
+  pony
+
+  exist
+
+  grace
+
+  design
+
+  nice
+
+  aspect
+
+  trip
+
+  benefit'
+bip_39_word_space_0:
+- gown
+- pony
+- exist
+- grace
+- design
+- nice
+- aspect
+- trip
+- benefit
+- provide
+- blame
+- act
+bip_39_word_space_1: gown
+bip_39_word_space_10: gown pony exist grace design nice aspect trip benefit provide
+bip_39_word_space_11: gown pony exist grace design nice aspect trip benefit provide
+  blame
+bip_39_word_space_12: gown pony exist grace design nice aspect trip benefit provide
+  blame act
+bip_39_word_space_2: gown pony
+bip_39_word_space_3: gown pony exist
+bip_39_word_space_4: gown pony exist grace
+bip_39_word_space_5: gown pony exist grace design
+bip_39_word_space_6: gown pony exist grace design nice
+bip_39_word_space_7: gown pony exist grace design nice aspect
+bip_39_word_space_8: gown pony exist grace design nice aspect trip
+bip_39_word_space_9: gown pony exist grace design nice aspect trip benefit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

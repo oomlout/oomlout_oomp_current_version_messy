@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stone shallow
+  * bip 39 word 3: stone shallow build
+  * bip 39 word: stone shallow build true sweet bulb anchor pepper divorce bacon click asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stone |  
+| bip_39_word_new_br10 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce<br>bacon |  
+| bip_39_word_new_br11 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce<br>bacon<br>click |  
+| bip_39_word_new_br12 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce<br>bacon<br>click<br>asthma |  
+| bip_39_word_new_br2 | stone<br>shallow |  
+| bip_39_word_new_br3 | stone<br>shallow<br>build |  
+| bip_39_word_new_br4 | stone<br>shallow<br>build<br>true |  
+| bip_39_word_new_br5 | stone<br>shallow<br>build<br>true<br>sweet |  
+| bip_39_word_new_br6 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb |  
+| bip_39_word_new_br7 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor |  
+| bip_39_word_new_br8 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper |  
+| bip_39_word_new_br9 | stone<br>shallow<br>build<br>true<br>sweet<br>bulb<br>anchor<br>pepper<br>divorce |  
+| bip_39_word_new_line1 | stone |  
+| bip_39_word_new_line10 | stone
+shallow
+build
+true
+sweet
+bulb
+anchor
+pepper
+divorce
+bacon |  
+| bip_39_word_new_line11 | stone
+shallow
+build
+true
+sweet
+bulb
+anchor
+pepper
+divorce
+bacon
+click |  
+| bip_39_word_new_line12 | stone
+shallow
+build
+true
+sweet
+bulb
+anchor
+pepper
+divorce
+bacon
+click
+asthma |  
+| bip_39_word_new_line2 | stone
+shallow |  
+| bip_39_word_new_line3 | stone
+shallow
+build |  
+| bip_39_word_new_line4 | stone
+shallow
+build
+true |  
+| bip_39_word_new_line5 | stone
+shallow
+build
+true
+sweet |  
+| bip_39_word_new_line6 | stone
+shallow
+build
+true
+sweet
+bulb |  
+| bip_39_word_new_line7 | stone
+shallow
+build
+true
+sweet
+bulb
+anchor |  
+| bip_39_word_new_line8 | stone
+shallow
+build
+true
+sweet
+bulb
+anchor
+pepper |  
+| bip_39_word_new_line9 | stone
+shallow
+build
+true
+sweet
+bulb
+anchor
+pepper
+divorce |  
+| bip_39_word_space_0 | ['stone', 'shallow', 'build', 'true', 'sweet', 'bulb', 'anchor', 'pepper', 'divorce', 'bacon', 'click', 'asthma'] |  
+| bip_39_word_space_1 | stone |  
+| bip_39_word_space_10 | stone shallow build true sweet bulb anchor pepper divorce bacon |  
+| bip_39_word_space_11 | stone shallow build true sweet bulb anchor pepper divorce bacon click |  
+| bip_39_word_space_12 | stone shallow build true sweet bulb anchor pepper divorce bacon click asthma |  
+| bip_39_word_space_2 | stone shallow |  
+| bip_39_word_space_3 | stone shallow build |  
+| bip_39_word_space_4 | stone shallow build true |  
+| bip_39_word_space_5 | stone shallow build true sweet |  
+| bip_39_word_space_6 | stone shallow build true sweet bulb |  
+| bip_39_word_space_7 | stone shallow build true sweet bulb anchor |  
+| bip_39_word_space_8 | stone shallow build true sweet bulb anchor pepper |  
+| bip_39_word_space_9 | stone shallow build true sweet bulb anchor pepper divorce |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

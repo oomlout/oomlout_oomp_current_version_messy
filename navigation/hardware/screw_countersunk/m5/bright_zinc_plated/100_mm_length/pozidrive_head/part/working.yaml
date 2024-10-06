@@ -1,3 +1,187 @@
+bip_39_word_new_br1: affair
+bip_39_word_new_br10: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable
+bip_39_word_new_br11: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include
+bip_39_word_new_br12: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include<br>announce
+bip_39_word_new_br2: affair<br>arrive
+bip_39_word_new_br3: affair<br>arrive<br>never
+bip_39_word_new_br4: affair<br>arrive<br>never<br>advice
+bip_39_word_new_br5: affair<br>arrive<br>never<br>advice<br>detect
+bip_39_word_new_br6: affair<br>arrive<br>never<br>advice<br>detect<br>unknown
+bip_39_word_new_br7: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate
+bip_39_word_new_br8: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle
+bip_39_word_new_br9: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime
+bip_39_word_new_line1: affair
+bip_39_word_new_line10: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle
+
+  crime
+
+  capable'
+bip_39_word_new_line11: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle
+
+  crime
+
+  capable
+
+  include'
+bip_39_word_new_line12: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle
+
+  crime
+
+  capable
+
+  include
+
+  announce'
+bip_39_word_new_line2: 'affair
+
+  arrive'
+bip_39_word_new_line3: 'affair
+
+  arrive
+
+  never'
+bip_39_word_new_line4: 'affair
+
+  arrive
+
+  never
+
+  advice'
+bip_39_word_new_line5: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect'
+bip_39_word_new_line6: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown'
+bip_39_word_new_line7: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate'
+bip_39_word_new_line8: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle'
+bip_39_word_new_line9: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle
+
+  crime'
+bip_39_word_space_0:
+- affair
+- arrive
+- never
+- advice
+- detect
+- unknown
+- plate
+- battle
+- crime
+- capable
+- include
+- announce
+bip_39_word_space_1: affair
+bip_39_word_space_10: affair arrive never advice detect unknown plate battle crime
+  capable
+bip_39_word_space_11: affair arrive never advice detect unknown plate battle crime
+  capable include
+bip_39_word_space_12: affair arrive never advice detect unknown plate battle crime
+  capable include announce
+bip_39_word_space_2: affair arrive
+bip_39_word_space_3: affair arrive never
+bip_39_word_space_4: affair arrive never advice
+bip_39_word_space_5: affair arrive never advice detect
+bip_39_word_space_6: affair arrive never advice detect unknown
+bip_39_word_space_7: affair arrive never advice detect unknown plate
+bip_39_word_space_8: affair arrive never advice detect unknown plate battle
+bip_39_word_space_9: affair arrive never advice detect unknown plate battle crime
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: define
+bip_39_word_new_br10: define<br>lizard<br>boss<br>airport<br>pluck<br>invite<br>donkey<br>winner<br>hybrid<br>cluster
+bip_39_word_new_br11: define<br>lizard<br>boss<br>airport<br>pluck<br>invite<br>donkey<br>winner<br>hybrid<br>cluster<br>weird
+bip_39_word_new_br12: define<br>lizard<br>boss<br>airport<br>pluck<br>invite<br>donkey<br>winner<br>hybrid<br>cluster<br>weird<br>auction
+bip_39_word_new_br2: define<br>lizard
+bip_39_word_new_br3: define<br>lizard<br>boss
+bip_39_word_new_br4: define<br>lizard<br>boss<br>airport
+bip_39_word_new_br5: define<br>lizard<br>boss<br>airport<br>pluck
+bip_39_word_new_br6: define<br>lizard<br>boss<br>airport<br>pluck<br>invite
+bip_39_word_new_br7: define<br>lizard<br>boss<br>airport<br>pluck<br>invite<br>donkey
+bip_39_word_new_br8: define<br>lizard<br>boss<br>airport<br>pluck<br>invite<br>donkey<br>winner
+bip_39_word_new_br9: define<br>lizard<br>boss<br>airport<br>pluck<br>invite<br>donkey<br>winner<br>hybrid
+bip_39_word_new_line1: define
+bip_39_word_new_line10: 'define
+
+  lizard
+
+  boss
+
+  airport
+
+  pluck
+
+  invite
+
+  donkey
+
+  winner
+
+  hybrid
+
+  cluster'
+bip_39_word_new_line11: 'define
+
+  lizard
+
+  boss
+
+  airport
+
+  pluck
+
+  invite
+
+  donkey
+
+  winner
+
+  hybrid
+
+  cluster
+
+  weird'
+bip_39_word_new_line12: 'define
+
+  lizard
+
+  boss
+
+  airport
+
+  pluck
+
+  invite
+
+  donkey
+
+  winner
+
+  hybrid
+
+  cluster
+
+  weird
+
+  auction'
+bip_39_word_new_line2: 'define
+
+  lizard'
+bip_39_word_new_line3: 'define
+
+  lizard
+
+  boss'
+bip_39_word_new_line4: 'define
+
+  lizard
+
+  boss
+
+  airport'
+bip_39_word_new_line5: 'define
+
+  lizard
+
+  boss
+
+  airport
+
+  pluck'
+bip_39_word_new_line6: 'define
+
+  lizard
+
+  boss
+
+  airport
+
+  pluck
+
+  invite'
+bip_39_word_new_line7: 'define
+
+  lizard
+
+  boss
+
+  airport
+
+  pluck
+
+  invite
+
+  donkey'
+bip_39_word_new_line8: 'define
+
+  lizard
+
+  boss
+
+  airport
+
+  pluck
+
+  invite
+
+  donkey
+
+  winner'
+bip_39_word_new_line9: 'define
+
+  lizard
+
+  boss
+
+  airport
+
+  pluck
+
+  invite
+
+  donkey
+
+  winner
+
+  hybrid'
+bip_39_word_space_0:
+- define
+- lizard
+- boss
+- airport
+- pluck
+- invite
+- donkey
+- winner
+- hybrid
+- cluster
+- weird
+- auction
+bip_39_word_space_1: define
+bip_39_word_space_10: define lizard boss airport pluck invite donkey winner hybrid
+  cluster
+bip_39_word_space_11: define lizard boss airport pluck invite donkey winner hybrid
+  cluster weird
+bip_39_word_space_12: define lizard boss airport pluck invite donkey winner hybrid
+  cluster weird auction
+bip_39_word_space_2: define lizard
+bip_39_word_space_3: define lizard boss
+bip_39_word_space_4: define lizard boss airport
+bip_39_word_space_5: define lizard boss airport pluck
+bip_39_word_space_6: define lizard boss airport pluck invite
+bip_39_word_space_7: define lizard boss airport pluck invite donkey
+bip_39_word_space_8: define lizard boss airport pluck invite donkey winner
+bip_39_word_space_9: define lizard boss airport pluck invite donkey winner hybrid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

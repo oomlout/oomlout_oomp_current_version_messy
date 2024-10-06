@@ -1,3 +1,186 @@
+bip_39_word_new_br1: warm
+bip_39_word_new_br10: warm<br>horse<br>army<br>park<br>measure<br>begin<br>vital<br>gesture<br>left<br>tourist
+bip_39_word_new_br11: warm<br>horse<br>army<br>park<br>measure<br>begin<br>vital<br>gesture<br>left<br>tourist<br>job
+bip_39_word_new_br12: warm<br>horse<br>army<br>park<br>measure<br>begin<br>vital<br>gesture<br>left<br>tourist<br>job<br>amused
+bip_39_word_new_br2: warm<br>horse
+bip_39_word_new_br3: warm<br>horse<br>army
+bip_39_word_new_br4: warm<br>horse<br>army<br>park
+bip_39_word_new_br5: warm<br>horse<br>army<br>park<br>measure
+bip_39_word_new_br6: warm<br>horse<br>army<br>park<br>measure<br>begin
+bip_39_word_new_br7: warm<br>horse<br>army<br>park<br>measure<br>begin<br>vital
+bip_39_word_new_br8: warm<br>horse<br>army<br>park<br>measure<br>begin<br>vital<br>gesture
+bip_39_word_new_br9: warm<br>horse<br>army<br>park<br>measure<br>begin<br>vital<br>gesture<br>left
+bip_39_word_new_line1: warm
+bip_39_word_new_line10: 'warm
+
+  horse
+
+  army
+
+  park
+
+  measure
+
+  begin
+
+  vital
+
+  gesture
+
+  left
+
+  tourist'
+bip_39_word_new_line11: 'warm
+
+  horse
+
+  army
+
+  park
+
+  measure
+
+  begin
+
+  vital
+
+  gesture
+
+  left
+
+  tourist
+
+  job'
+bip_39_word_new_line12: 'warm
+
+  horse
+
+  army
+
+  park
+
+  measure
+
+  begin
+
+  vital
+
+  gesture
+
+  left
+
+  tourist
+
+  job
+
+  amused'
+bip_39_word_new_line2: 'warm
+
+  horse'
+bip_39_word_new_line3: 'warm
+
+  horse
+
+  army'
+bip_39_word_new_line4: 'warm
+
+  horse
+
+  army
+
+  park'
+bip_39_word_new_line5: 'warm
+
+  horse
+
+  army
+
+  park
+
+  measure'
+bip_39_word_new_line6: 'warm
+
+  horse
+
+  army
+
+  park
+
+  measure
+
+  begin'
+bip_39_word_new_line7: 'warm
+
+  horse
+
+  army
+
+  park
+
+  measure
+
+  begin
+
+  vital'
+bip_39_word_new_line8: 'warm
+
+  horse
+
+  army
+
+  park
+
+  measure
+
+  begin
+
+  vital
+
+  gesture'
+bip_39_word_new_line9: 'warm
+
+  horse
+
+  army
+
+  park
+
+  measure
+
+  begin
+
+  vital
+
+  gesture
+
+  left'
+bip_39_word_space_0:
+- warm
+- horse
+- army
+- park
+- measure
+- begin
+- vital
+- gesture
+- left
+- tourist
+- job
+- amused
+bip_39_word_space_1: warm
+bip_39_word_space_10: warm horse army park measure begin vital gesture left tourist
+bip_39_word_space_11: warm horse army park measure begin vital gesture left tourist
+  job
+bip_39_word_space_12: warm horse army park measure begin vital gesture left tourist
+  job amused
+bip_39_word_space_2: warm horse
+bip_39_word_space_3: warm horse army
+bip_39_word_space_4: warm horse army park
+bip_39_word_space_5: warm horse army park measure
+bip_39_word_space_6: warm horse army park measure begin
+bip_39_word_space_7: warm horse army park measure begin vital
+bip_39_word_space_8: warm horse army park measure begin vital gesture
+bip_39_word_space_9: warm horse army park measure begin vital gesture left
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

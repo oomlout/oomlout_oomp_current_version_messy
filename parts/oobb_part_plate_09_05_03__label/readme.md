@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: label
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kick gather
+  * bip 39 word 3: kick gather else
+  * bip 39 word: kick gather else alarm admit select primary nerve sun thing hope ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kick |  
+| bip_39_word_new_br10 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing |  
+| bip_39_word_new_br11 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing<br>hope |  
+| bip_39_word_new_br12 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun<br>thing<br>hope<br>ancient |  
+| bip_39_word_new_br2 | kick<br>gather |  
+| bip_39_word_new_br3 | kick<br>gather<br>else |  
+| bip_39_word_new_br4 | kick<br>gather<br>else<br>alarm |  
+| bip_39_word_new_br5 | kick<br>gather<br>else<br>alarm<br>admit |  
+| bip_39_word_new_br6 | kick<br>gather<br>else<br>alarm<br>admit<br>select |  
+| bip_39_word_new_br7 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary |  
+| bip_39_word_new_br8 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve |  
+| bip_39_word_new_br9 | kick<br>gather<br>else<br>alarm<br>admit<br>select<br>primary<br>nerve<br>sun |  
+| bip_39_word_new_line1 | kick |  
+| bip_39_word_new_line10 | kick
+gather
+else
+alarm
+admit
+select
+primary
+nerve
+sun
+thing |  
+| bip_39_word_new_line11 | kick
+gather
+else
+alarm
+admit
+select
+primary
+nerve
+sun
+thing
+hope |  
+| bip_39_word_new_line12 | kick
+gather
+else
+alarm
+admit
+select
+primary
+nerve
+sun
+thing
+hope
+ancient |  
+| bip_39_word_new_line2 | kick
+gather |  
+| bip_39_word_new_line3 | kick
+gather
+else |  
+| bip_39_word_new_line4 | kick
+gather
+else
+alarm |  
+| bip_39_word_new_line5 | kick
+gather
+else
+alarm
+admit |  
+| bip_39_word_new_line6 | kick
+gather
+else
+alarm
+admit
+select |  
+| bip_39_word_new_line7 | kick
+gather
+else
+alarm
+admit
+select
+primary |  
+| bip_39_word_new_line8 | kick
+gather
+else
+alarm
+admit
+select
+primary
+nerve |  
+| bip_39_word_new_line9 | kick
+gather
+else
+alarm
+admit
+select
+primary
+nerve
+sun |  
+| bip_39_word_space_0 | ['kick', 'gather', 'else', 'alarm', 'admit', 'select', 'primary', 'nerve', 'sun', 'thing', 'hope', 'ancient'] |  
+| bip_39_word_space_1 | kick |  
+| bip_39_word_space_10 | kick gather else alarm admit select primary nerve sun thing |  
+| bip_39_word_space_11 | kick gather else alarm admit select primary nerve sun thing hope |  
+| bip_39_word_space_12 | kick gather else alarm admit select primary nerve sun thing hope ancient |  
+| bip_39_word_space_2 | kick gather |  
+| bip_39_word_space_3 | kick gather else |  
+| bip_39_word_space_4 | kick gather else alarm |  
+| bip_39_word_space_5 | kick gather else alarm admit |  
+| bip_39_word_space_6 | kick gather else alarm admit select |  
+| bip_39_word_space_7 | kick gather else alarm admit select primary |  
+| bip_39_word_space_8 | kick gather else alarm admit select primary nerve |  
+| bip_39_word_space_9 | kick gather else alarm admit select primary nerve sun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

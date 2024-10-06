@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nothing
+bip_39_word_new_br10: nothing<br>purse<br>upper<br>bitter<br>tongue<br>friend<br>hobby<br>good<br>tomato<br>kangaroo
+bip_39_word_new_br11: nothing<br>purse<br>upper<br>bitter<br>tongue<br>friend<br>hobby<br>good<br>tomato<br>kangaroo<br>cactus
+bip_39_word_new_br12: nothing<br>purse<br>upper<br>bitter<br>tongue<br>friend<br>hobby<br>good<br>tomato<br>kangaroo<br>cactus<br>antenna
+bip_39_word_new_br2: nothing<br>purse
+bip_39_word_new_br3: nothing<br>purse<br>upper
+bip_39_word_new_br4: nothing<br>purse<br>upper<br>bitter
+bip_39_word_new_br5: nothing<br>purse<br>upper<br>bitter<br>tongue
+bip_39_word_new_br6: nothing<br>purse<br>upper<br>bitter<br>tongue<br>friend
+bip_39_word_new_br7: nothing<br>purse<br>upper<br>bitter<br>tongue<br>friend<br>hobby
+bip_39_word_new_br8: nothing<br>purse<br>upper<br>bitter<br>tongue<br>friend<br>hobby<br>good
+bip_39_word_new_br9: nothing<br>purse<br>upper<br>bitter<br>tongue<br>friend<br>hobby<br>good<br>tomato
+bip_39_word_new_line1: nothing
+bip_39_word_new_line10: 'nothing
+
+  purse
+
+  upper
+
+  bitter
+
+  tongue
+
+  friend
+
+  hobby
+
+  good
+
+  tomato
+
+  kangaroo'
+bip_39_word_new_line11: 'nothing
+
+  purse
+
+  upper
+
+  bitter
+
+  tongue
+
+  friend
+
+  hobby
+
+  good
+
+  tomato
+
+  kangaroo
+
+  cactus'
+bip_39_word_new_line12: 'nothing
+
+  purse
+
+  upper
+
+  bitter
+
+  tongue
+
+  friend
+
+  hobby
+
+  good
+
+  tomato
+
+  kangaroo
+
+  cactus
+
+  antenna'
+bip_39_word_new_line2: 'nothing
+
+  purse'
+bip_39_word_new_line3: 'nothing
+
+  purse
+
+  upper'
+bip_39_word_new_line4: 'nothing
+
+  purse
+
+  upper
+
+  bitter'
+bip_39_word_new_line5: 'nothing
+
+  purse
+
+  upper
+
+  bitter
+
+  tongue'
+bip_39_word_new_line6: 'nothing
+
+  purse
+
+  upper
+
+  bitter
+
+  tongue
+
+  friend'
+bip_39_word_new_line7: 'nothing
+
+  purse
+
+  upper
+
+  bitter
+
+  tongue
+
+  friend
+
+  hobby'
+bip_39_word_new_line8: 'nothing
+
+  purse
+
+  upper
+
+  bitter
+
+  tongue
+
+  friend
+
+  hobby
+
+  good'
+bip_39_word_new_line9: 'nothing
+
+  purse
+
+  upper
+
+  bitter
+
+  tongue
+
+  friend
+
+  hobby
+
+  good
+
+  tomato'
+bip_39_word_space_0:
+- nothing
+- purse
+- upper
+- bitter
+- tongue
+- friend
+- hobby
+- good
+- tomato
+- kangaroo
+- cactus
+- antenna
+bip_39_word_space_1: nothing
+bip_39_word_space_10: nothing purse upper bitter tongue friend hobby good tomato kangaroo
+bip_39_word_space_11: nothing purse upper bitter tongue friend hobby good tomato kangaroo
+  cactus
+bip_39_word_space_12: nothing purse upper bitter tongue friend hobby good tomato kangaroo
+  cactus antenna
+bip_39_word_space_2: nothing purse
+bip_39_word_space_3: nothing purse upper
+bip_39_word_space_4: nothing purse upper bitter
+bip_39_word_space_5: nothing purse upper bitter tongue
+bip_39_word_space_6: nothing purse upper bitter tongue friend
+bip_39_word_space_7: nothing purse upper bitter tongue friend hobby
+bip_39_word_space_8: nothing purse upper bitter tongue friend hobby good
+bip_39_word_space_9: nothing purse upper bitter tongue friend hobby good tomato
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

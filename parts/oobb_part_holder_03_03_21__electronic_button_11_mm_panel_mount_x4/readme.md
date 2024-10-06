@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: electronic_button_11_mm_panel_mount_x4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: recipe crime
+  * bip 39 word 3: recipe crime source
+  * bip 39 word: recipe crime source dirt picnic people couple great bid citizen analyst alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | recipe |  
+| bip_39_word_new_br10 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people<br>couple<br>great<br>bid<br>citizen |  
+| bip_39_word_new_br11 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people<br>couple<br>great<br>bid<br>citizen<br>analyst |  
+| bip_39_word_new_br12 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people<br>couple<br>great<br>bid<br>citizen<br>analyst<br>alien |  
+| bip_39_word_new_br2 | recipe<br>crime |  
+| bip_39_word_new_br3 | recipe<br>crime<br>source |  
+| bip_39_word_new_br4 | recipe<br>crime<br>source<br>dirt |  
+| bip_39_word_new_br5 | recipe<br>crime<br>source<br>dirt<br>picnic |  
+| bip_39_word_new_br6 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people |  
+| bip_39_word_new_br7 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people<br>couple |  
+| bip_39_word_new_br8 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people<br>couple<br>great |  
+| bip_39_word_new_br9 | recipe<br>crime<br>source<br>dirt<br>picnic<br>people<br>couple<br>great<br>bid |  
+| bip_39_word_new_line1 | recipe |  
+| bip_39_word_new_line10 | recipe
+crime
+source
+dirt
+picnic
+people
+couple
+great
+bid
+citizen |  
+| bip_39_word_new_line11 | recipe
+crime
+source
+dirt
+picnic
+people
+couple
+great
+bid
+citizen
+analyst |  
+| bip_39_word_new_line12 | recipe
+crime
+source
+dirt
+picnic
+people
+couple
+great
+bid
+citizen
+analyst
+alien |  
+| bip_39_word_new_line2 | recipe
+crime |  
+| bip_39_word_new_line3 | recipe
+crime
+source |  
+| bip_39_word_new_line4 | recipe
+crime
+source
+dirt |  
+| bip_39_word_new_line5 | recipe
+crime
+source
+dirt
+picnic |  
+| bip_39_word_new_line6 | recipe
+crime
+source
+dirt
+picnic
+people |  
+| bip_39_word_new_line7 | recipe
+crime
+source
+dirt
+picnic
+people
+couple |  
+| bip_39_word_new_line8 | recipe
+crime
+source
+dirt
+picnic
+people
+couple
+great |  
+| bip_39_word_new_line9 | recipe
+crime
+source
+dirt
+picnic
+people
+couple
+great
+bid |  
+| bip_39_word_space_0 | ['recipe', 'crime', 'source', 'dirt', 'picnic', 'people', 'couple', 'great', 'bid', 'citizen', 'analyst', 'alien'] |  
+| bip_39_word_space_1 | recipe |  
+| bip_39_word_space_10 | recipe crime source dirt picnic people couple great bid citizen |  
+| bip_39_word_space_11 | recipe crime source dirt picnic people couple great bid citizen analyst |  
+| bip_39_word_space_12 | recipe crime source dirt picnic people couple great bid citizen analyst alien |  
+| bip_39_word_space_2 | recipe crime |  
+| bip_39_word_space_3 | recipe crime source |  
+| bip_39_word_space_4 | recipe crime source dirt |  
+| bip_39_word_space_5 | recipe crime source dirt picnic |  
+| bip_39_word_space_6 | recipe crime source dirt picnic people |  
+| bip_39_word_space_7 | recipe crime source dirt picnic people couple |  
+| bip_39_word_space_8 | recipe crime source dirt picnic people couple great |  
+| bip_39_word_space_9 | recipe crime source dirt picnic people couple great bid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

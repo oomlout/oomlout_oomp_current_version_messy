@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: abandon trip
+  * bip 39 word 3: abandon trip caution
+  * bip 39 word: abandon trip caution skill fiber chimney board cross little oyster lounge aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | abandon |  
+| bip_39_word_new_br10 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little<br>oyster |  
+| bip_39_word_new_br11 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little<br>oyster<br>lounge |  
+| bip_39_word_new_br12 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little<br>oyster<br>lounge<br>aim |  
+| bip_39_word_new_br2 | abandon<br>trip |  
+| bip_39_word_new_br3 | abandon<br>trip<br>caution |  
+| bip_39_word_new_br4 | abandon<br>trip<br>caution<br>skill |  
+| bip_39_word_new_br5 | abandon<br>trip<br>caution<br>skill<br>fiber |  
+| bip_39_word_new_br6 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney |  
+| bip_39_word_new_br7 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board |  
+| bip_39_word_new_br8 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross |  
+| bip_39_word_new_br9 | abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little |  
+| bip_39_word_new_line1 | abandon |  
+| bip_39_word_new_line10 | abandon
+trip
+caution
+skill
+fiber
+chimney
+board
+cross
+little
+oyster |  
+| bip_39_word_new_line11 | abandon
+trip
+caution
+skill
+fiber
+chimney
+board
+cross
+little
+oyster
+lounge |  
+| bip_39_word_new_line12 | abandon
+trip
+caution
+skill
+fiber
+chimney
+board
+cross
+little
+oyster
+lounge
+aim |  
+| bip_39_word_new_line2 | abandon
+trip |  
+| bip_39_word_new_line3 | abandon
+trip
+caution |  
+| bip_39_word_new_line4 | abandon
+trip
+caution
+skill |  
+| bip_39_word_new_line5 | abandon
+trip
+caution
+skill
+fiber |  
+| bip_39_word_new_line6 | abandon
+trip
+caution
+skill
+fiber
+chimney |  
+| bip_39_word_new_line7 | abandon
+trip
+caution
+skill
+fiber
+chimney
+board |  
+| bip_39_word_new_line8 | abandon
+trip
+caution
+skill
+fiber
+chimney
+board
+cross |  
+| bip_39_word_new_line9 | abandon
+trip
+caution
+skill
+fiber
+chimney
+board
+cross
+little |  
+| bip_39_word_space_0 | ['abandon', 'trip', 'caution', 'skill', 'fiber', 'chimney', 'board', 'cross', 'little', 'oyster', 'lounge', 'aim'] |  
+| bip_39_word_space_1 | abandon |  
+| bip_39_word_space_10 | abandon trip caution skill fiber chimney board cross little oyster |  
+| bip_39_word_space_11 | abandon trip caution skill fiber chimney board cross little oyster lounge |  
+| bip_39_word_space_12 | abandon trip caution skill fiber chimney board cross little oyster lounge aim |  
+| bip_39_word_space_2 | abandon trip |  
+| bip_39_word_space_3 | abandon trip caution |  
+| bip_39_word_space_4 | abandon trip caution skill |  
+| bip_39_word_space_5 | abandon trip caution skill fiber |  
+| bip_39_word_space_6 | abandon trip caution skill fiber chimney |  
+| bip_39_word_space_7 | abandon trip caution skill fiber chimney board |  
+| bip_39_word_space_8 | abandon trip caution skill fiber chimney board cross |  
+| bip_39_word_space_9 | abandon trip caution skill fiber chimney board cross little |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

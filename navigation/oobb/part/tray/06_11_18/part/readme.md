@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: parade pool
+  * bip 39 word 3: parade pool alley
+  * bip 39 word: parade pool alley fossil disease assume relax absurd review venture squeeze amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | parade |  
+| bip_39_word_new_br10 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review<br>venture |  
+| bip_39_word_new_br11 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review<br>venture<br>squeeze |  
+| bip_39_word_new_br12 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review<br>venture<br>squeeze<br>amateur |  
+| bip_39_word_new_br2 | parade<br>pool |  
+| bip_39_word_new_br3 | parade<br>pool<br>alley |  
+| bip_39_word_new_br4 | parade<br>pool<br>alley<br>fossil |  
+| bip_39_word_new_br5 | parade<br>pool<br>alley<br>fossil<br>disease |  
+| bip_39_word_new_br6 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume |  
+| bip_39_word_new_br7 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax |  
+| bip_39_word_new_br8 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd |  
+| bip_39_word_new_br9 | parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review |  
+| bip_39_word_new_line1 | parade |  
+| bip_39_word_new_line10 | parade
+pool
+alley
+fossil
+disease
+assume
+relax
+absurd
+review
+venture |  
+| bip_39_word_new_line11 | parade
+pool
+alley
+fossil
+disease
+assume
+relax
+absurd
+review
+venture
+squeeze |  
+| bip_39_word_new_line12 | parade
+pool
+alley
+fossil
+disease
+assume
+relax
+absurd
+review
+venture
+squeeze
+amateur |  
+| bip_39_word_new_line2 | parade
+pool |  
+| bip_39_word_new_line3 | parade
+pool
+alley |  
+| bip_39_word_new_line4 | parade
+pool
+alley
+fossil |  
+| bip_39_word_new_line5 | parade
+pool
+alley
+fossil
+disease |  
+| bip_39_word_new_line6 | parade
+pool
+alley
+fossil
+disease
+assume |  
+| bip_39_word_new_line7 | parade
+pool
+alley
+fossil
+disease
+assume
+relax |  
+| bip_39_word_new_line8 | parade
+pool
+alley
+fossil
+disease
+assume
+relax
+absurd |  
+| bip_39_word_new_line9 | parade
+pool
+alley
+fossil
+disease
+assume
+relax
+absurd
+review |  
+| bip_39_word_space_0 | ['parade', 'pool', 'alley', 'fossil', 'disease', 'assume', 'relax', 'absurd', 'review', 'venture', 'squeeze', 'amateur'] |  
+| bip_39_word_space_1 | parade |  
+| bip_39_word_space_10 | parade pool alley fossil disease assume relax absurd review venture |  
+| bip_39_word_space_11 | parade pool alley fossil disease assume relax absurd review venture squeeze |  
+| bip_39_word_space_12 | parade pool alley fossil disease assume relax absurd review venture squeeze amateur |  
+| bip_39_word_space_2 | parade pool |  
+| bip_39_word_space_3 | parade pool alley |  
+| bip_39_word_space_4 | parade pool alley fossil |  
+| bip_39_word_space_5 | parade pool alley fossil disease |  
+| bip_39_word_space_6 | parade pool alley fossil disease assume |  
+| bip_39_word_space_7 | parade pool alley fossil disease assume relax |  
+| bip_39_word_space_8 | parade pool alley fossil disease assume relax absurd |  
+| bip_39_word_space_9 | parade pool alley fossil disease assume relax absurd review |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

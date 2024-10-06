@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: guilt table
+  * bip 39 word 3: guilt table urge
+  * bip 39 word: guilt table urge combine tag duty salon this tent era repeat all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | guilt |  
+| bip_39_word_new_br10 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era |  
+| bip_39_word_new_br11 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era<br>repeat |  
+| bip_39_word_new_br12 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent<br>era<br>repeat<br>all |  
+| bip_39_word_new_br2 | guilt<br>table |  
+| bip_39_word_new_br3 | guilt<br>table<br>urge |  
+| bip_39_word_new_br4 | guilt<br>table<br>urge<br>combine |  
+| bip_39_word_new_br5 | guilt<br>table<br>urge<br>combine<br>tag |  
+| bip_39_word_new_br6 | guilt<br>table<br>urge<br>combine<br>tag<br>duty |  
+| bip_39_word_new_br7 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon |  
+| bip_39_word_new_br8 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this |  
+| bip_39_word_new_br9 | guilt<br>table<br>urge<br>combine<br>tag<br>duty<br>salon<br>this<br>tent |  
+| bip_39_word_new_line1 | guilt |  
+| bip_39_word_new_line10 | guilt
+table
+urge
+combine
+tag
+duty
+salon
+this
+tent
+era |  
+| bip_39_word_new_line11 | guilt
+table
+urge
+combine
+tag
+duty
+salon
+this
+tent
+era
+repeat |  
+| bip_39_word_new_line12 | guilt
+table
+urge
+combine
+tag
+duty
+salon
+this
+tent
+era
+repeat
+all |  
+| bip_39_word_new_line2 | guilt
+table |  
+| bip_39_word_new_line3 | guilt
+table
+urge |  
+| bip_39_word_new_line4 | guilt
+table
+urge
+combine |  
+| bip_39_word_new_line5 | guilt
+table
+urge
+combine
+tag |  
+| bip_39_word_new_line6 | guilt
+table
+urge
+combine
+tag
+duty |  
+| bip_39_word_new_line7 | guilt
+table
+urge
+combine
+tag
+duty
+salon |  
+| bip_39_word_new_line8 | guilt
+table
+urge
+combine
+tag
+duty
+salon
+this |  
+| bip_39_word_new_line9 | guilt
+table
+urge
+combine
+tag
+duty
+salon
+this
+tent |  
+| bip_39_word_space_0 | ['guilt', 'table', 'urge', 'combine', 'tag', 'duty', 'salon', 'this', 'tent', 'era', 'repeat', 'all'] |  
+| bip_39_word_space_1 | guilt |  
+| bip_39_word_space_10 | guilt table urge combine tag duty salon this tent era |  
+| bip_39_word_space_11 | guilt table urge combine tag duty salon this tent era repeat |  
+| bip_39_word_space_12 | guilt table urge combine tag duty salon this tent era repeat all |  
+| bip_39_word_space_2 | guilt table |  
+| bip_39_word_space_3 | guilt table urge |  
+| bip_39_word_space_4 | guilt table urge combine |  
+| bip_39_word_space_5 | guilt table urge combine tag |  
+| bip_39_word_space_6 | guilt table urge combine tag duty |  
+| bip_39_word_space_7 | guilt table urge combine tag duty salon |  
+| bip_39_word_space_8 | guilt table urge combine tag duty salon this |  
+| bip_39_word_space_9 | guilt table urge combine tag duty salon this tent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rule uncover
+  * bip 39 word 3: rule uncover phrase
+  * bip 39 word: rule uncover phrase smart jacket bachelor evoke vocal clock reopen reform action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rule |  
+| bip_39_word_new_br10 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen |  
+| bip_39_word_new_br11 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen<br>reform |  
+| bip_39_word_new_br12 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen<br>reform<br>action |  
+| bip_39_word_new_br2 | rule<br>uncover |  
+| bip_39_word_new_br3 | rule<br>uncover<br>phrase |  
+| bip_39_word_new_br4 | rule<br>uncover<br>phrase<br>smart |  
+| bip_39_word_new_br5 | rule<br>uncover<br>phrase<br>smart<br>jacket |  
+| bip_39_word_new_br6 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor |  
+| bip_39_word_new_br7 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke |  
+| bip_39_word_new_br8 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal |  
+| bip_39_word_new_br9 | rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock |  
+| bip_39_word_new_line1 | rule |  
+| bip_39_word_new_line10 | rule
+uncover
+phrase
+smart
+jacket
+bachelor
+evoke
+vocal
+clock
+reopen |  
+| bip_39_word_new_line11 | rule
+uncover
+phrase
+smart
+jacket
+bachelor
+evoke
+vocal
+clock
+reopen
+reform |  
+| bip_39_word_new_line12 | rule
+uncover
+phrase
+smart
+jacket
+bachelor
+evoke
+vocal
+clock
+reopen
+reform
+action |  
+| bip_39_word_new_line2 | rule
+uncover |  
+| bip_39_word_new_line3 | rule
+uncover
+phrase |  
+| bip_39_word_new_line4 | rule
+uncover
+phrase
+smart |  
+| bip_39_word_new_line5 | rule
+uncover
+phrase
+smart
+jacket |  
+| bip_39_word_new_line6 | rule
+uncover
+phrase
+smart
+jacket
+bachelor |  
+| bip_39_word_new_line7 | rule
+uncover
+phrase
+smart
+jacket
+bachelor
+evoke |  
+| bip_39_word_new_line8 | rule
+uncover
+phrase
+smart
+jacket
+bachelor
+evoke
+vocal |  
+| bip_39_word_new_line9 | rule
+uncover
+phrase
+smart
+jacket
+bachelor
+evoke
+vocal
+clock |  
+| bip_39_word_space_0 | ['rule', 'uncover', 'phrase', 'smart', 'jacket', 'bachelor', 'evoke', 'vocal', 'clock', 'reopen', 'reform', 'action'] |  
+| bip_39_word_space_1 | rule |  
+| bip_39_word_space_10 | rule uncover phrase smart jacket bachelor evoke vocal clock reopen |  
+| bip_39_word_space_11 | rule uncover phrase smart jacket bachelor evoke vocal clock reopen reform |  
+| bip_39_word_space_12 | rule uncover phrase smart jacket bachelor evoke vocal clock reopen reform action |  
+| bip_39_word_space_2 | rule uncover |  
+| bip_39_word_space_3 | rule uncover phrase |  
+| bip_39_word_space_4 | rule uncover phrase smart |  
+| bip_39_word_space_5 | rule uncover phrase smart jacket |  
+| bip_39_word_space_6 | rule uncover phrase smart jacket bachelor |  
+| bip_39_word_space_7 | rule uncover phrase smart jacket bachelor evoke |  
+| bip_39_word_space_8 | rule uncover phrase smart jacket bachelor evoke vocal |  
+| bip_39_word_space_9 | rule uncover phrase smart jacket bachelor evoke vocal clock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: celery clog
+  * bip 39 word 3: celery clog avocado
+  * bip 39 word: celery clog avocado picture ritual amused chunk security case stage stairs attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | celery |  
+| bip_39_word_new_br10 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused<br>chunk<br>security<br>case<br>stage |  
+| bip_39_word_new_br11 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused<br>chunk<br>security<br>case<br>stage<br>stairs |  
+| bip_39_word_new_br12 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused<br>chunk<br>security<br>case<br>stage<br>stairs<br>attract |  
+| bip_39_word_new_br2 | celery<br>clog |  
+| bip_39_word_new_br3 | celery<br>clog<br>avocado |  
+| bip_39_word_new_br4 | celery<br>clog<br>avocado<br>picture |  
+| bip_39_word_new_br5 | celery<br>clog<br>avocado<br>picture<br>ritual |  
+| bip_39_word_new_br6 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused |  
+| bip_39_word_new_br7 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused<br>chunk |  
+| bip_39_word_new_br8 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused<br>chunk<br>security |  
+| bip_39_word_new_br9 | celery<br>clog<br>avocado<br>picture<br>ritual<br>amused<br>chunk<br>security<br>case |  
+| bip_39_word_new_line1 | celery |  
+| bip_39_word_new_line10 | celery
+clog
+avocado
+picture
+ritual
+amused
+chunk
+security
+case
+stage |  
+| bip_39_word_new_line11 | celery
+clog
+avocado
+picture
+ritual
+amused
+chunk
+security
+case
+stage
+stairs |  
+| bip_39_word_new_line12 | celery
+clog
+avocado
+picture
+ritual
+amused
+chunk
+security
+case
+stage
+stairs
+attract |  
+| bip_39_word_new_line2 | celery
+clog |  
+| bip_39_word_new_line3 | celery
+clog
+avocado |  
+| bip_39_word_new_line4 | celery
+clog
+avocado
+picture |  
+| bip_39_word_new_line5 | celery
+clog
+avocado
+picture
+ritual |  
+| bip_39_word_new_line6 | celery
+clog
+avocado
+picture
+ritual
+amused |  
+| bip_39_word_new_line7 | celery
+clog
+avocado
+picture
+ritual
+amused
+chunk |  
+| bip_39_word_new_line8 | celery
+clog
+avocado
+picture
+ritual
+amused
+chunk
+security |  
+| bip_39_word_new_line9 | celery
+clog
+avocado
+picture
+ritual
+amused
+chunk
+security
+case |  
+| bip_39_word_space_0 | ['celery', 'clog', 'avocado', 'picture', 'ritual', 'amused', 'chunk', 'security', 'case', 'stage', 'stairs', 'attract'] |  
+| bip_39_word_space_1 | celery |  
+| bip_39_word_space_10 | celery clog avocado picture ritual amused chunk security case stage |  
+| bip_39_word_space_11 | celery clog avocado picture ritual amused chunk security case stage stairs |  
+| bip_39_word_space_12 | celery clog avocado picture ritual amused chunk security case stage stairs attract |  
+| bip_39_word_space_2 | celery clog |  
+| bip_39_word_space_3 | celery clog avocado |  
+| bip_39_word_space_4 | celery clog avocado picture |  
+| bip_39_word_space_5 | celery clog avocado picture ritual |  
+| bip_39_word_space_6 | celery clog avocado picture ritual amused |  
+| bip_39_word_space_7 | celery clog avocado picture ritual amused chunk |  
+| bip_39_word_space_8 | celery clog avocado picture ritual amused chunk security |  
+| bip_39_word_space_9 | celery clog avocado picture ritual amused chunk security case |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

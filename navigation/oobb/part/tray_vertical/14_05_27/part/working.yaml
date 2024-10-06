@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pyramid
+bip_39_word_new_br10: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone
+bip_39_word_new_br11: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone<br>dance
+bip_39_word_new_br12: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face<br>alone<br>dance<br>abstract
+bip_39_word_new_br2: pyramid<br>urban
+bip_39_word_new_br3: pyramid<br>urban<br>evidence
+bip_39_word_new_br4: pyramid<br>urban<br>evidence<br>wrap
+bip_39_word_new_br5: pyramid<br>urban<br>evidence<br>wrap<br>source
+bip_39_word_new_br6: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust
+bip_39_word_new_br7: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken
+bip_39_word_new_br8: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much
+bip_39_word_new_br9: pyramid<br>urban<br>evidence<br>wrap<br>source<br>trust<br>broken<br>much<br>face
+bip_39_word_new_line1: pyramid
+bip_39_word_new_line10: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap
+
+  source
+
+  trust
+
+  broken
+
+  much
+
+  face
+
+  alone'
+bip_39_word_new_line11: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap
+
+  source
+
+  trust
+
+  broken
+
+  much
+
+  face
+
+  alone
+
+  dance'
+bip_39_word_new_line12: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap
+
+  source
+
+  trust
+
+  broken
+
+  much
+
+  face
+
+  alone
+
+  dance
+
+  abstract'
+bip_39_word_new_line2: 'pyramid
+
+  urban'
+bip_39_word_new_line3: 'pyramid
+
+  urban
+
+  evidence'
+bip_39_word_new_line4: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap'
+bip_39_word_new_line5: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap
+
+  source'
+bip_39_word_new_line6: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap
+
+  source
+
+  trust'
+bip_39_word_new_line7: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap
+
+  source
+
+  trust
+
+  broken'
+bip_39_word_new_line8: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap
+
+  source
+
+  trust
+
+  broken
+
+  much'
+bip_39_word_new_line9: 'pyramid
+
+  urban
+
+  evidence
+
+  wrap
+
+  source
+
+  trust
+
+  broken
+
+  much
+
+  face'
+bip_39_word_space_0:
+- pyramid
+- urban
+- evidence
+- wrap
+- source
+- trust
+- broken
+- much
+- face
+- alone
+- dance
+- abstract
+bip_39_word_space_1: pyramid
+bip_39_word_space_10: pyramid urban evidence wrap source trust broken much face alone
+bip_39_word_space_11: pyramid urban evidence wrap source trust broken much face alone
+  dance
+bip_39_word_space_12: pyramid urban evidence wrap source trust broken much face alone
+  dance abstract
+bip_39_word_space_2: pyramid urban
+bip_39_word_space_3: pyramid urban evidence
+bip_39_word_space_4: pyramid urban evidence wrap
+bip_39_word_space_5: pyramid urban evidence wrap source
+bip_39_word_space_6: pyramid urban evidence wrap source trust
+bip_39_word_space_7: pyramid urban evidence wrap source trust broken
+bip_39_word_space_8: pyramid urban evidence wrap source trust broken much
+bip_39_word_space_9: pyramid urban evidence wrap source trust broken much face
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

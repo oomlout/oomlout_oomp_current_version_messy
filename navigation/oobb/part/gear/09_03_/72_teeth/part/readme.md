@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: system february
+  * bip 39 word 3: system february ozone
+  * bip 39 word: system february ozone tooth cousin october volcano onion bag resist taxi above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | system |  
+| bip_39_word_new_br10 | system<br>february<br>ozone<br>tooth<br>cousin<br>october<br>volcano<br>onion<br>bag<br>resist |  
+| bip_39_word_new_br11 | system<br>february<br>ozone<br>tooth<br>cousin<br>october<br>volcano<br>onion<br>bag<br>resist<br>taxi |  
+| bip_39_word_new_br12 | system<br>february<br>ozone<br>tooth<br>cousin<br>october<br>volcano<br>onion<br>bag<br>resist<br>taxi<br>above |  
+| bip_39_word_new_br2 | system<br>february |  
+| bip_39_word_new_br3 | system<br>february<br>ozone |  
+| bip_39_word_new_br4 | system<br>february<br>ozone<br>tooth |  
+| bip_39_word_new_br5 | system<br>february<br>ozone<br>tooth<br>cousin |  
+| bip_39_word_new_br6 | system<br>february<br>ozone<br>tooth<br>cousin<br>october |  
+| bip_39_word_new_br7 | system<br>february<br>ozone<br>tooth<br>cousin<br>october<br>volcano |  
+| bip_39_word_new_br8 | system<br>february<br>ozone<br>tooth<br>cousin<br>october<br>volcano<br>onion |  
+| bip_39_word_new_br9 | system<br>february<br>ozone<br>tooth<br>cousin<br>october<br>volcano<br>onion<br>bag |  
+| bip_39_word_new_line1 | system |  
+| bip_39_word_new_line10 | system
+february
+ozone
+tooth
+cousin
+october
+volcano
+onion
+bag
+resist |  
+| bip_39_word_new_line11 | system
+february
+ozone
+tooth
+cousin
+october
+volcano
+onion
+bag
+resist
+taxi |  
+| bip_39_word_new_line12 | system
+february
+ozone
+tooth
+cousin
+october
+volcano
+onion
+bag
+resist
+taxi
+above |  
+| bip_39_word_new_line2 | system
+february |  
+| bip_39_word_new_line3 | system
+february
+ozone |  
+| bip_39_word_new_line4 | system
+february
+ozone
+tooth |  
+| bip_39_word_new_line5 | system
+february
+ozone
+tooth
+cousin |  
+| bip_39_word_new_line6 | system
+february
+ozone
+tooth
+cousin
+october |  
+| bip_39_word_new_line7 | system
+february
+ozone
+tooth
+cousin
+october
+volcano |  
+| bip_39_word_new_line8 | system
+february
+ozone
+tooth
+cousin
+october
+volcano
+onion |  
+| bip_39_word_new_line9 | system
+february
+ozone
+tooth
+cousin
+october
+volcano
+onion
+bag |  
+| bip_39_word_space_0 | ['system', 'february', 'ozone', 'tooth', 'cousin', 'october', 'volcano', 'onion', 'bag', 'resist', 'taxi', 'above'] |  
+| bip_39_word_space_1 | system |  
+| bip_39_word_space_10 | system february ozone tooth cousin october volcano onion bag resist |  
+| bip_39_word_space_11 | system february ozone tooth cousin october volcano onion bag resist taxi |  
+| bip_39_word_space_12 | system february ozone tooth cousin october volcano onion bag resist taxi above |  
+| bip_39_word_space_2 | system february |  
+| bip_39_word_space_3 | system february ozone |  
+| bip_39_word_space_4 | system february ozone tooth |  
+| bip_39_word_space_5 | system february ozone tooth cousin |  
+| bip_39_word_space_6 | system february ozone tooth cousin october |  
+| bip_39_word_space_7 | system february ozone tooth cousin october volcano |  
+| bip_39_word_space_8 | system february ozone tooth cousin october volcano onion |  
+| bip_39_word_space_9 | system february ozone tooth cousin october volcano onion bag |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

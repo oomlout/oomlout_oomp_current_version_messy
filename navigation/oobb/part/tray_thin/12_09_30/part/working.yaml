@@ -1,3 +1,186 @@
+bip_39_word_new_br1: give
+bip_39_word_new_br10: give<br>uncover<br>like<br>enact<br>trip<br>evidence<br>city<br>stamp<br>animal<br>cross
+bip_39_word_new_br11: give<br>uncover<br>like<br>enact<br>trip<br>evidence<br>city<br>stamp<br>animal<br>cross<br>letter
+bip_39_word_new_br12: give<br>uncover<br>like<br>enact<br>trip<br>evidence<br>city<br>stamp<br>animal<br>cross<br>letter<br>adapt
+bip_39_word_new_br2: give<br>uncover
+bip_39_word_new_br3: give<br>uncover<br>like
+bip_39_word_new_br4: give<br>uncover<br>like<br>enact
+bip_39_word_new_br5: give<br>uncover<br>like<br>enact<br>trip
+bip_39_word_new_br6: give<br>uncover<br>like<br>enact<br>trip<br>evidence
+bip_39_word_new_br7: give<br>uncover<br>like<br>enact<br>trip<br>evidence<br>city
+bip_39_word_new_br8: give<br>uncover<br>like<br>enact<br>trip<br>evidence<br>city<br>stamp
+bip_39_word_new_br9: give<br>uncover<br>like<br>enact<br>trip<br>evidence<br>city<br>stamp<br>animal
+bip_39_word_new_line1: give
+bip_39_word_new_line10: 'give
+
+  uncover
+
+  like
+
+  enact
+
+  trip
+
+  evidence
+
+  city
+
+  stamp
+
+  animal
+
+  cross'
+bip_39_word_new_line11: 'give
+
+  uncover
+
+  like
+
+  enact
+
+  trip
+
+  evidence
+
+  city
+
+  stamp
+
+  animal
+
+  cross
+
+  letter'
+bip_39_word_new_line12: 'give
+
+  uncover
+
+  like
+
+  enact
+
+  trip
+
+  evidence
+
+  city
+
+  stamp
+
+  animal
+
+  cross
+
+  letter
+
+  adapt'
+bip_39_word_new_line2: 'give
+
+  uncover'
+bip_39_word_new_line3: 'give
+
+  uncover
+
+  like'
+bip_39_word_new_line4: 'give
+
+  uncover
+
+  like
+
+  enact'
+bip_39_word_new_line5: 'give
+
+  uncover
+
+  like
+
+  enact
+
+  trip'
+bip_39_word_new_line6: 'give
+
+  uncover
+
+  like
+
+  enact
+
+  trip
+
+  evidence'
+bip_39_word_new_line7: 'give
+
+  uncover
+
+  like
+
+  enact
+
+  trip
+
+  evidence
+
+  city'
+bip_39_word_new_line8: 'give
+
+  uncover
+
+  like
+
+  enact
+
+  trip
+
+  evidence
+
+  city
+
+  stamp'
+bip_39_word_new_line9: 'give
+
+  uncover
+
+  like
+
+  enact
+
+  trip
+
+  evidence
+
+  city
+
+  stamp
+
+  animal'
+bip_39_word_space_0:
+- give
+- uncover
+- like
+- enact
+- trip
+- evidence
+- city
+- stamp
+- animal
+- cross
+- letter
+- adapt
+bip_39_word_space_1: give
+bip_39_word_space_10: give uncover like enact trip evidence city stamp animal cross
+bip_39_word_space_11: give uncover like enact trip evidence city stamp animal cross
+  letter
+bip_39_word_space_12: give uncover like enact trip evidence city stamp animal cross
+  letter adapt
+bip_39_word_space_2: give uncover
+bip_39_word_space_3: give uncover like
+bip_39_word_space_4: give uncover like enact
+bip_39_word_space_5: give uncover like enact trip
+bip_39_word_space_6: give uncover like enact trip evidence
+bip_39_word_space_7: give uncover like enact trip evidence city
+bip_39_word_space_8: give uncover like enact trip evidence city stamp
+bip_39_word_space_9: give uncover like enact trip evidence city stamp animal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

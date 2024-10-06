@@ -1,3 +1,187 @@
+bip_39_word_new_br1: laptop
+bip_39_word_new_br10: laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel
+bip_39_word_new_br11: laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel<br>tree
+bip_39_word_new_br12: laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract<br>cruel<br>tree<br>alarm
+bip_39_word_new_br2: laptop<br>minor
+bip_39_word_new_br3: laptop<br>minor<br>purse
+bip_39_word_new_br4: laptop<br>minor<br>purse<br>rabbit
+bip_39_word_new_br5: laptop<br>minor<br>purse<br>rabbit<br>sock
+bip_39_word_new_br6: laptop<br>minor<br>purse<br>rabbit<br>sock<br>point
+bip_39_word_new_br7: laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie
+bip_39_word_new_br8: laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice
+bip_39_word_new_br9: laptop<br>minor<br>purse<br>rabbit<br>sock<br>point<br>movie<br>practice<br>attract
+bip_39_word_new_line1: laptop
+bip_39_word_new_line10: 'laptop
+
+  minor
+
+  purse
+
+  rabbit
+
+  sock
+
+  point
+
+  movie
+
+  practice
+
+  attract
+
+  cruel'
+bip_39_word_new_line11: 'laptop
+
+  minor
+
+  purse
+
+  rabbit
+
+  sock
+
+  point
+
+  movie
+
+  practice
+
+  attract
+
+  cruel
+
+  tree'
+bip_39_word_new_line12: 'laptop
+
+  minor
+
+  purse
+
+  rabbit
+
+  sock
+
+  point
+
+  movie
+
+  practice
+
+  attract
+
+  cruel
+
+  tree
+
+  alarm'
+bip_39_word_new_line2: 'laptop
+
+  minor'
+bip_39_word_new_line3: 'laptop
+
+  minor
+
+  purse'
+bip_39_word_new_line4: 'laptop
+
+  minor
+
+  purse
+
+  rabbit'
+bip_39_word_new_line5: 'laptop
+
+  minor
+
+  purse
+
+  rabbit
+
+  sock'
+bip_39_word_new_line6: 'laptop
+
+  minor
+
+  purse
+
+  rabbit
+
+  sock
+
+  point'
+bip_39_word_new_line7: 'laptop
+
+  minor
+
+  purse
+
+  rabbit
+
+  sock
+
+  point
+
+  movie'
+bip_39_word_new_line8: 'laptop
+
+  minor
+
+  purse
+
+  rabbit
+
+  sock
+
+  point
+
+  movie
+
+  practice'
+bip_39_word_new_line9: 'laptop
+
+  minor
+
+  purse
+
+  rabbit
+
+  sock
+
+  point
+
+  movie
+
+  practice
+
+  attract'
+bip_39_word_space_0:
+- laptop
+- minor
+- purse
+- rabbit
+- sock
+- point
+- movie
+- practice
+- attract
+- cruel
+- tree
+- alarm
+bip_39_word_space_1: laptop
+bip_39_word_space_10: laptop minor purse rabbit sock point movie practice attract
+  cruel
+bip_39_word_space_11: laptop minor purse rabbit sock point movie practice attract
+  cruel tree
+bip_39_word_space_12: laptop minor purse rabbit sock point movie practice attract
+  cruel tree alarm
+bip_39_word_space_2: laptop minor
+bip_39_word_space_3: laptop minor purse
+bip_39_word_space_4: laptop minor purse rabbit
+bip_39_word_space_5: laptop minor purse rabbit sock
+bip_39_word_space_6: laptop minor purse rabbit sock point
+bip_39_word_space_7: laptop minor purse rabbit sock point movie
+bip_39_word_space_8: laptop minor purse rabbit sock point movie practice
+bip_39_word_space_9: laptop minor purse rabbit sock point movie practice attract
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

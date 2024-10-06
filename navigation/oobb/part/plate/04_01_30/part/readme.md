@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: banner polar
+  * bip 39 word 3: banner polar knee
+  * bip 39 word: banner polar knee flight maid rhythm dolphin pear antenna horn lobster ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | banner |  
+| bip_39_word_new_br10 | banner<br>polar<br>knee<br>flight<br>maid<br>rhythm<br>dolphin<br>pear<br>antenna<br>horn |  
+| bip_39_word_new_br11 | banner<br>polar<br>knee<br>flight<br>maid<br>rhythm<br>dolphin<br>pear<br>antenna<br>horn<br>lobster |  
+| bip_39_word_new_br12 | banner<br>polar<br>knee<br>flight<br>maid<br>rhythm<br>dolphin<br>pear<br>antenna<br>horn<br>lobster<br>ankle |  
+| bip_39_word_new_br2 | banner<br>polar |  
+| bip_39_word_new_br3 | banner<br>polar<br>knee |  
+| bip_39_word_new_br4 | banner<br>polar<br>knee<br>flight |  
+| bip_39_word_new_br5 | banner<br>polar<br>knee<br>flight<br>maid |  
+| bip_39_word_new_br6 | banner<br>polar<br>knee<br>flight<br>maid<br>rhythm |  
+| bip_39_word_new_br7 | banner<br>polar<br>knee<br>flight<br>maid<br>rhythm<br>dolphin |  
+| bip_39_word_new_br8 | banner<br>polar<br>knee<br>flight<br>maid<br>rhythm<br>dolphin<br>pear |  
+| bip_39_word_new_br9 | banner<br>polar<br>knee<br>flight<br>maid<br>rhythm<br>dolphin<br>pear<br>antenna |  
+| bip_39_word_new_line1 | banner |  
+| bip_39_word_new_line10 | banner
+polar
+knee
+flight
+maid
+rhythm
+dolphin
+pear
+antenna
+horn |  
+| bip_39_word_new_line11 | banner
+polar
+knee
+flight
+maid
+rhythm
+dolphin
+pear
+antenna
+horn
+lobster |  
+| bip_39_word_new_line12 | banner
+polar
+knee
+flight
+maid
+rhythm
+dolphin
+pear
+antenna
+horn
+lobster
+ankle |  
+| bip_39_word_new_line2 | banner
+polar |  
+| bip_39_word_new_line3 | banner
+polar
+knee |  
+| bip_39_word_new_line4 | banner
+polar
+knee
+flight |  
+| bip_39_word_new_line5 | banner
+polar
+knee
+flight
+maid |  
+| bip_39_word_new_line6 | banner
+polar
+knee
+flight
+maid
+rhythm |  
+| bip_39_word_new_line7 | banner
+polar
+knee
+flight
+maid
+rhythm
+dolphin |  
+| bip_39_word_new_line8 | banner
+polar
+knee
+flight
+maid
+rhythm
+dolphin
+pear |  
+| bip_39_word_new_line9 | banner
+polar
+knee
+flight
+maid
+rhythm
+dolphin
+pear
+antenna |  
+| bip_39_word_space_0 | ['banner', 'polar', 'knee', 'flight', 'maid', 'rhythm', 'dolphin', 'pear', 'antenna', 'horn', 'lobster', 'ankle'] |  
+| bip_39_word_space_1 | banner |  
+| bip_39_word_space_10 | banner polar knee flight maid rhythm dolphin pear antenna horn |  
+| bip_39_word_space_11 | banner polar knee flight maid rhythm dolphin pear antenna horn lobster |  
+| bip_39_word_space_12 | banner polar knee flight maid rhythm dolphin pear antenna horn lobster ankle |  
+| bip_39_word_space_2 | banner polar |  
+| bip_39_word_space_3 | banner polar knee |  
+| bip_39_word_space_4 | banner polar knee flight |  
+| bip_39_word_space_5 | banner polar knee flight maid |  
+| bip_39_word_space_6 | banner polar knee flight maid rhythm |  
+| bip_39_word_space_7 | banner polar knee flight maid rhythm dolphin |  
+| bip_39_word_space_8 | banner polar knee flight maid rhythm dolphin pear |  
+| bip_39_word_space_9 | banner polar knee flight maid rhythm dolphin pear antenna |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: age
+bip_39_word_new_br10: age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug
+bip_39_word_new_br11: age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug<br>predict
+bip_39_word_new_br12: age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce<br>rug<br>predict<br>athlete
+bip_39_word_new_br2: age<br>usage
+bip_39_word_new_br3: age<br>usage<br>super
+bip_39_word_new_br4: age<br>usage<br>super<br>voice
+bip_39_word_new_br5: age<br>usage<br>super<br>voice<br>verify
+bip_39_word_new_br6: age<br>usage<br>super<br>voice<br>verify<br>danger
+bip_39_word_new_br7: age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury
+bip_39_word_new_br8: age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit
+bip_39_word_new_br9: age<br>usage<br>super<br>voice<br>verify<br>danger<br>fury<br>merit<br>bounce
+bip_39_word_new_line1: age
+bip_39_word_new_line10: 'age
+
+  usage
+
+  super
+
+  voice
+
+  verify
+
+  danger
+
+  fury
+
+  merit
+
+  bounce
+
+  rug'
+bip_39_word_new_line11: 'age
+
+  usage
+
+  super
+
+  voice
+
+  verify
+
+  danger
+
+  fury
+
+  merit
+
+  bounce
+
+  rug
+
+  predict'
+bip_39_word_new_line12: 'age
+
+  usage
+
+  super
+
+  voice
+
+  verify
+
+  danger
+
+  fury
+
+  merit
+
+  bounce
+
+  rug
+
+  predict
+
+  athlete'
+bip_39_word_new_line2: 'age
+
+  usage'
+bip_39_word_new_line3: 'age
+
+  usage
+
+  super'
+bip_39_word_new_line4: 'age
+
+  usage
+
+  super
+
+  voice'
+bip_39_word_new_line5: 'age
+
+  usage
+
+  super
+
+  voice
+
+  verify'
+bip_39_word_new_line6: 'age
+
+  usage
+
+  super
+
+  voice
+
+  verify
+
+  danger'
+bip_39_word_new_line7: 'age
+
+  usage
+
+  super
+
+  voice
+
+  verify
+
+  danger
+
+  fury'
+bip_39_word_new_line8: 'age
+
+  usage
+
+  super
+
+  voice
+
+  verify
+
+  danger
+
+  fury
+
+  merit'
+bip_39_word_new_line9: 'age
+
+  usage
+
+  super
+
+  voice
+
+  verify
+
+  danger
+
+  fury
+
+  merit
+
+  bounce'
+bip_39_word_space_0:
+- age
+- usage
+- super
+- voice
+- verify
+- danger
+- fury
+- merit
+- bounce
+- rug
+- predict
+- athlete
+bip_39_word_space_1: age
+bip_39_word_space_10: age usage super voice verify danger fury merit bounce rug
+bip_39_word_space_11: age usage super voice verify danger fury merit bounce rug predict
+bip_39_word_space_12: age usage super voice verify danger fury merit bounce rug predict
+  athlete
+bip_39_word_space_2: age usage
+bip_39_word_space_3: age usage super
+bip_39_word_space_4: age usage super voice
+bip_39_word_space_5: age usage super voice verify
+bip_39_word_space_6: age usage super voice verify danger
+bip_39_word_space_7: age usage super voice verify danger fury
+bip_39_word_space_8: age usage super voice verify danger fury merit
+bip_39_word_space_9: age usage super voice verify danger fury merit bounce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

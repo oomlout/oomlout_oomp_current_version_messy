@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frog valley
+  * bip 39 word 3: frog valley aerobic
+  * bip 39 word: frog valley aerobic aspect narrow sadness fame crouch drip episode talent artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frog |  
+| bip_39_word_new_br10 | frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness<br>fame<br>crouch<br>drip<br>episode |  
+| bip_39_word_new_br11 | frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness<br>fame<br>crouch<br>drip<br>episode<br>talent |  
+| bip_39_word_new_br12 | frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness<br>fame<br>crouch<br>drip<br>episode<br>talent<br>artist |  
+| bip_39_word_new_br2 | frog<br>valley |  
+| bip_39_word_new_br3 | frog<br>valley<br>aerobic |  
+| bip_39_word_new_br4 | frog<br>valley<br>aerobic<br>aspect |  
+| bip_39_word_new_br5 | frog<br>valley<br>aerobic<br>aspect<br>narrow |  
+| bip_39_word_new_br6 | frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness |  
+| bip_39_word_new_br7 | frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness<br>fame |  
+| bip_39_word_new_br8 | frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness<br>fame<br>crouch |  
+| bip_39_word_new_br9 | frog<br>valley<br>aerobic<br>aspect<br>narrow<br>sadness<br>fame<br>crouch<br>drip |  
+| bip_39_word_new_line1 | frog |  
+| bip_39_word_new_line10 | frog
+valley
+aerobic
+aspect
+narrow
+sadness
+fame
+crouch
+drip
+episode |  
+| bip_39_word_new_line11 | frog
+valley
+aerobic
+aspect
+narrow
+sadness
+fame
+crouch
+drip
+episode
+talent |  
+| bip_39_word_new_line12 | frog
+valley
+aerobic
+aspect
+narrow
+sadness
+fame
+crouch
+drip
+episode
+talent
+artist |  
+| bip_39_word_new_line2 | frog
+valley |  
+| bip_39_word_new_line3 | frog
+valley
+aerobic |  
+| bip_39_word_new_line4 | frog
+valley
+aerobic
+aspect |  
+| bip_39_word_new_line5 | frog
+valley
+aerobic
+aspect
+narrow |  
+| bip_39_word_new_line6 | frog
+valley
+aerobic
+aspect
+narrow
+sadness |  
+| bip_39_word_new_line7 | frog
+valley
+aerobic
+aspect
+narrow
+sadness
+fame |  
+| bip_39_word_new_line8 | frog
+valley
+aerobic
+aspect
+narrow
+sadness
+fame
+crouch |  
+| bip_39_word_new_line9 | frog
+valley
+aerobic
+aspect
+narrow
+sadness
+fame
+crouch
+drip |  
+| bip_39_word_space_0 | ['frog', 'valley', 'aerobic', 'aspect', 'narrow', 'sadness', 'fame', 'crouch', 'drip', 'episode', 'talent', 'artist'] |  
+| bip_39_word_space_1 | frog |  
+| bip_39_word_space_10 | frog valley aerobic aspect narrow sadness fame crouch drip episode |  
+| bip_39_word_space_11 | frog valley aerobic aspect narrow sadness fame crouch drip episode talent |  
+| bip_39_word_space_12 | frog valley aerobic aspect narrow sadness fame crouch drip episode talent artist |  
+| bip_39_word_space_2 | frog valley |  
+| bip_39_word_space_3 | frog valley aerobic |  
+| bip_39_word_space_4 | frog valley aerobic aspect |  
+| bip_39_word_space_5 | frog valley aerobic aspect narrow |  
+| bip_39_word_space_6 | frog valley aerobic aspect narrow sadness |  
+| bip_39_word_space_7 | frog valley aerobic aspect narrow sadness fame |  
+| bip_39_word_space_8 | frog valley aerobic aspect narrow sadness fame crouch |  
+| bip_39_word_space_9 | frog valley aerobic aspect narrow sadness fame crouch drip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

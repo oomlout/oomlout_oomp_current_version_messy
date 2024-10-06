@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spawn among
+  * bip 39 word 3: spawn among asthma
+  * bip 39 word: spawn among asthma believe injury lava dad moment economy science client abstract
 
 ### other_codes
 * short_code: b8m130
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spawn |  
+| bip_39_word_new_br10 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science |  
+| bip_39_word_new_br11 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science<br>client |  
+| bip_39_word_new_br12 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy<br>science<br>client<br>abstract |  
+| bip_39_word_new_br2 | spawn<br>among |  
+| bip_39_word_new_br3 | spawn<br>among<br>asthma |  
+| bip_39_word_new_br4 | spawn<br>among<br>asthma<br>believe |  
+| bip_39_word_new_br5 | spawn<br>among<br>asthma<br>believe<br>injury |  
+| bip_39_word_new_br6 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava |  
+| bip_39_word_new_br7 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad |  
+| bip_39_word_new_br8 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment |  
+| bip_39_word_new_br9 | spawn<br>among<br>asthma<br>believe<br>injury<br>lava<br>dad<br>moment<br>economy |  
+| bip_39_word_new_line1 | spawn |  
+| bip_39_word_new_line10 | spawn
+among
+asthma
+believe
+injury
+lava
+dad
+moment
+economy
+science |  
+| bip_39_word_new_line11 | spawn
+among
+asthma
+believe
+injury
+lava
+dad
+moment
+economy
+science
+client |  
+| bip_39_word_new_line12 | spawn
+among
+asthma
+believe
+injury
+lava
+dad
+moment
+economy
+science
+client
+abstract |  
+| bip_39_word_new_line2 | spawn
+among |  
+| bip_39_word_new_line3 | spawn
+among
+asthma |  
+| bip_39_word_new_line4 | spawn
+among
+asthma
+believe |  
+| bip_39_word_new_line5 | spawn
+among
+asthma
+believe
+injury |  
+| bip_39_word_new_line6 | spawn
+among
+asthma
+believe
+injury
+lava |  
+| bip_39_word_new_line7 | spawn
+among
+asthma
+believe
+injury
+lava
+dad |  
+| bip_39_word_new_line8 | spawn
+among
+asthma
+believe
+injury
+lava
+dad
+moment |  
+| bip_39_word_new_line9 | spawn
+among
+asthma
+believe
+injury
+lava
+dad
+moment
+economy |  
+| bip_39_word_space_0 | ['spawn', 'among', 'asthma', 'believe', 'injury', 'lava', 'dad', 'moment', 'economy', 'science', 'client', 'abstract'] |  
+| bip_39_word_space_1 | spawn |  
+| bip_39_word_space_10 | spawn among asthma believe injury lava dad moment economy science |  
+| bip_39_word_space_11 | spawn among asthma believe injury lava dad moment economy science client |  
+| bip_39_word_space_12 | spawn among asthma believe injury lava dad moment economy science client abstract |  
+| bip_39_word_space_2 | spawn among |  
+| bip_39_word_space_3 | spawn among asthma |  
+| bip_39_word_space_4 | spawn among asthma believe |  
+| bip_39_word_space_5 | spawn among asthma believe injury |  
+| bip_39_word_space_6 | spawn among asthma believe injury lava |  
+| bip_39_word_space_7 | spawn among asthma believe injury lava dad |  
+| bip_39_word_space_8 | spawn among asthma believe injury lava dad moment |  
+| bip_39_word_space_9 | spawn among asthma believe injury lava dad moment economy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: news art
+  * bip 39 word 3: news art woman
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | news |  
+| bip_39_word_new_br10 | news<br>art<br>woman<br>struggle<br>index<br>view<br>source<br>wage<br>warrior<br>radio |  
+| bip_39_word_new_br11 | news<br>art<br>woman<br>struggle<br>index<br>view<br>source<br>wage<br>warrior<br>radio<br>elbow |  
+| bip_39_word_new_br2 | news<br>art |  
+| bip_39_word_new_br3 | news<br>art<br>woman |  
+| bip_39_word_new_br4 | news<br>art<br>woman<br>struggle |  
+| bip_39_word_new_br5 | news<br>art<br>woman<br>struggle<br>index |  
+| bip_39_word_new_br6 | news<br>art<br>woman<br>struggle<br>index<br>view |  
+| bip_39_word_new_br7 | news<br>art<br>woman<br>struggle<br>index<br>view<br>source |  
+| bip_39_word_new_br8 | news<br>art<br>woman<br>struggle<br>index<br>view<br>source<br>wage |  
+| bip_39_word_new_br9 | news<br>art<br>woman<br>struggle<br>index<br>view<br>source<br>wage<br>warrior |  
+| bip_39_word_new_line1 | news |  
+| bip_39_word_new_line10 | news
+art
+woman
+struggle
+index
+view
+source
+wage
+warrior
+radio |  
+| bip_39_word_new_line11 | news
+art
+woman
+struggle
+index
+view
+source
+wage
+warrior
+radio
+elbow |  
+| bip_39_word_new_line2 | news
+art |  
+| bip_39_word_new_line3 | news
+art
+woman |  
+| bip_39_word_new_line4 | news
+art
+woman
+struggle |  
+| bip_39_word_new_line5 | news
+art
+woman
+struggle
+index |  
+| bip_39_word_new_line6 | news
+art
+woman
+struggle
+index
+view |  
+| bip_39_word_new_line7 | news
+art
+woman
+struggle
+index
+view
+source |  
+| bip_39_word_new_line8 | news
+art
+woman
+struggle
+index
+view
+source
+wage |  
+| bip_39_word_new_line9 | news
+art
+woman
+struggle
+index
+view
+source
+wage
+warrior |  
+| bip_39_word_space_0 | ['news', 'art', 'woman', 'struggle', 'index', 'view', 'source', 'wage', 'warrior', 'radio', 'elbow'] |  
+| bip_39_word_space_1 | news |  
+| bip_39_word_space_10 | news art woman struggle index view source wage warrior radio |  
+| bip_39_word_space_11 | news art woman struggle index view source wage warrior radio elbow |  
+| bip_39_word_space_2 | news art |  
+| bip_39_word_space_3 | news art woman |  
+| bip_39_word_space_4 | news art woman struggle |  
+| bip_39_word_space_5 | news art woman struggle index |  
+| bip_39_word_space_6 | news art woman struggle index view |  
+| bip_39_word_space_7 | news art woman struggle index view source |  
+| bip_39_word_space_8 | news art woman struggle index view source wage |  
+| bip_39_word_space_9 | news art woman struggle index view source wage warrior |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

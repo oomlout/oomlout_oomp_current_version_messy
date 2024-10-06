@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hub drive
+  * bip 39 word 3: hub drive moral
+  * bip 39 word: hub drive moral drama reduce tennis nephew layer wage hero comic alien
 
 ### other_codes
 * short_code: brMR104
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hub |  
+| bip_39_word_new_br10 | hub<br>drive<br>moral<br>drama<br>reduce<br>tennis<br>nephew<br>layer<br>wage<br>hero |  
+| bip_39_word_new_br11 | hub<br>drive<br>moral<br>drama<br>reduce<br>tennis<br>nephew<br>layer<br>wage<br>hero<br>comic |  
+| bip_39_word_new_br12 | hub<br>drive<br>moral<br>drama<br>reduce<br>tennis<br>nephew<br>layer<br>wage<br>hero<br>comic<br>alien |  
+| bip_39_word_new_br2 | hub<br>drive |  
+| bip_39_word_new_br3 | hub<br>drive<br>moral |  
+| bip_39_word_new_br4 | hub<br>drive<br>moral<br>drama |  
+| bip_39_word_new_br5 | hub<br>drive<br>moral<br>drama<br>reduce |  
+| bip_39_word_new_br6 | hub<br>drive<br>moral<br>drama<br>reduce<br>tennis |  
+| bip_39_word_new_br7 | hub<br>drive<br>moral<br>drama<br>reduce<br>tennis<br>nephew |  
+| bip_39_word_new_br8 | hub<br>drive<br>moral<br>drama<br>reduce<br>tennis<br>nephew<br>layer |  
+| bip_39_word_new_br9 | hub<br>drive<br>moral<br>drama<br>reduce<br>tennis<br>nephew<br>layer<br>wage |  
+| bip_39_word_new_line1 | hub |  
+| bip_39_word_new_line10 | hub
+drive
+moral
+drama
+reduce
+tennis
+nephew
+layer
+wage
+hero |  
+| bip_39_word_new_line11 | hub
+drive
+moral
+drama
+reduce
+tennis
+nephew
+layer
+wage
+hero
+comic |  
+| bip_39_word_new_line12 | hub
+drive
+moral
+drama
+reduce
+tennis
+nephew
+layer
+wage
+hero
+comic
+alien |  
+| bip_39_word_new_line2 | hub
+drive |  
+| bip_39_word_new_line3 | hub
+drive
+moral |  
+| bip_39_word_new_line4 | hub
+drive
+moral
+drama |  
+| bip_39_word_new_line5 | hub
+drive
+moral
+drama
+reduce |  
+| bip_39_word_new_line6 | hub
+drive
+moral
+drama
+reduce
+tennis |  
+| bip_39_word_new_line7 | hub
+drive
+moral
+drama
+reduce
+tennis
+nephew |  
+| bip_39_word_new_line8 | hub
+drive
+moral
+drama
+reduce
+tennis
+nephew
+layer |  
+| bip_39_word_new_line9 | hub
+drive
+moral
+drama
+reduce
+tennis
+nephew
+layer
+wage |  
+| bip_39_word_space_0 | ['hub', 'drive', 'moral', 'drama', 'reduce', 'tennis', 'nephew', 'layer', 'wage', 'hero', 'comic', 'alien'] |  
+| bip_39_word_space_1 | hub |  
+| bip_39_word_space_10 | hub drive moral drama reduce tennis nephew layer wage hero |  
+| bip_39_word_space_11 | hub drive moral drama reduce tennis nephew layer wage hero comic |  
+| bip_39_word_space_12 | hub drive moral drama reduce tennis nephew layer wage hero comic alien |  
+| bip_39_word_space_2 | hub drive |  
+| bip_39_word_space_3 | hub drive moral |  
+| bip_39_word_space_4 | hub drive moral drama |  
+| bip_39_word_space_5 | hub drive moral drama reduce |  
+| bip_39_word_space_6 | hub drive moral drama reduce tennis |  
+| bip_39_word_space_7 | hub drive moral drama reduce tennis nephew |  
+| bip_39_word_space_8 | hub drive moral drama reduce tennis nephew layer |  
+| bip_39_word_space_9 | hub drive moral drama reduce tennis nephew layer wage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

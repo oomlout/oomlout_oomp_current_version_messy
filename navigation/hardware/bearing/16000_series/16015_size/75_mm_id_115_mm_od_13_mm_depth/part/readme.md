@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: first season
+  * bip 39 word 3: first season ancient
+  * bip 39 word: first season ancient muscle marriage zone one glance use grief organ arrange
 
 ### other_codes
 * short_code: br16015
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | first |  
+| bip_39_word_new_br10 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief |  
+| bip_39_word_new_br11 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief<br>organ |  
+| bip_39_word_new_br12 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use<br>grief<br>organ<br>arrange |  
+| bip_39_word_new_br2 | first<br>season |  
+| bip_39_word_new_br3 | first<br>season<br>ancient |  
+| bip_39_word_new_br4 | first<br>season<br>ancient<br>muscle |  
+| bip_39_word_new_br5 | first<br>season<br>ancient<br>muscle<br>marriage |  
+| bip_39_word_new_br6 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone |  
+| bip_39_word_new_br7 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one |  
+| bip_39_word_new_br8 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance |  
+| bip_39_word_new_br9 | first<br>season<br>ancient<br>muscle<br>marriage<br>zone<br>one<br>glance<br>use |  
+| bip_39_word_new_line1 | first |  
+| bip_39_word_new_line10 | first
+season
+ancient
+muscle
+marriage
+zone
+one
+glance
+use
+grief |  
+| bip_39_word_new_line11 | first
+season
+ancient
+muscle
+marriage
+zone
+one
+glance
+use
+grief
+organ |  
+| bip_39_word_new_line12 | first
+season
+ancient
+muscle
+marriage
+zone
+one
+glance
+use
+grief
+organ
+arrange |  
+| bip_39_word_new_line2 | first
+season |  
+| bip_39_word_new_line3 | first
+season
+ancient |  
+| bip_39_word_new_line4 | first
+season
+ancient
+muscle |  
+| bip_39_word_new_line5 | first
+season
+ancient
+muscle
+marriage |  
+| bip_39_word_new_line6 | first
+season
+ancient
+muscle
+marriage
+zone |  
+| bip_39_word_new_line7 | first
+season
+ancient
+muscle
+marriage
+zone
+one |  
+| bip_39_word_new_line8 | first
+season
+ancient
+muscle
+marriage
+zone
+one
+glance |  
+| bip_39_word_new_line9 | first
+season
+ancient
+muscle
+marriage
+zone
+one
+glance
+use |  
+| bip_39_word_space_0 | ['first', 'season', 'ancient', 'muscle', 'marriage', 'zone', 'one', 'glance', 'use', 'grief', 'organ', 'arrange'] |  
+| bip_39_word_space_1 | first |  
+| bip_39_word_space_10 | first season ancient muscle marriage zone one glance use grief |  
+| bip_39_word_space_11 | first season ancient muscle marriage zone one glance use grief organ |  
+| bip_39_word_space_12 | first season ancient muscle marriage zone one glance use grief organ arrange |  
+| bip_39_word_space_2 | first season |  
+| bip_39_word_space_3 | first season ancient |  
+| bip_39_word_space_4 | first season ancient muscle |  
+| bip_39_word_space_5 | first season ancient muscle marriage |  
+| bip_39_word_space_6 | first season ancient muscle marriage zone |  
+| bip_39_word_space_7 | first season ancient muscle marriage zone one |  
+| bip_39_word_space_8 | first season ancient muscle marriage zone one glance |  
+| bip_39_word_space_9 | first season ancient muscle marriage zone one glance use |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

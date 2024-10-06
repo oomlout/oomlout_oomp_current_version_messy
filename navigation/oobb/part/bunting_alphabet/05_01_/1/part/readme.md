@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dolphin staff
+  * bip 39 word 3: dolphin staff zone
+  * bip 39 word: dolphin staff zone mobile smooth embody now era change entry provide argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dolphin |  
+| bip_39_word_new_br10 | dolphin<br>staff<br>zone<br>mobile<br>smooth<br>embody<br>now<br>era<br>change<br>entry |  
+| bip_39_word_new_br11 | dolphin<br>staff<br>zone<br>mobile<br>smooth<br>embody<br>now<br>era<br>change<br>entry<br>provide |  
+| bip_39_word_new_br12 | dolphin<br>staff<br>zone<br>mobile<br>smooth<br>embody<br>now<br>era<br>change<br>entry<br>provide<br>argue |  
+| bip_39_word_new_br2 | dolphin<br>staff |  
+| bip_39_word_new_br3 | dolphin<br>staff<br>zone |  
+| bip_39_word_new_br4 | dolphin<br>staff<br>zone<br>mobile |  
+| bip_39_word_new_br5 | dolphin<br>staff<br>zone<br>mobile<br>smooth |  
+| bip_39_word_new_br6 | dolphin<br>staff<br>zone<br>mobile<br>smooth<br>embody |  
+| bip_39_word_new_br7 | dolphin<br>staff<br>zone<br>mobile<br>smooth<br>embody<br>now |  
+| bip_39_word_new_br8 | dolphin<br>staff<br>zone<br>mobile<br>smooth<br>embody<br>now<br>era |  
+| bip_39_word_new_br9 | dolphin<br>staff<br>zone<br>mobile<br>smooth<br>embody<br>now<br>era<br>change |  
+| bip_39_word_new_line1 | dolphin |  
+| bip_39_word_new_line10 | dolphin
+staff
+zone
+mobile
+smooth
+embody
+now
+era
+change
+entry |  
+| bip_39_word_new_line11 | dolphin
+staff
+zone
+mobile
+smooth
+embody
+now
+era
+change
+entry
+provide |  
+| bip_39_word_new_line12 | dolphin
+staff
+zone
+mobile
+smooth
+embody
+now
+era
+change
+entry
+provide
+argue |  
+| bip_39_word_new_line2 | dolphin
+staff |  
+| bip_39_word_new_line3 | dolphin
+staff
+zone |  
+| bip_39_word_new_line4 | dolphin
+staff
+zone
+mobile |  
+| bip_39_word_new_line5 | dolphin
+staff
+zone
+mobile
+smooth |  
+| bip_39_word_new_line6 | dolphin
+staff
+zone
+mobile
+smooth
+embody |  
+| bip_39_word_new_line7 | dolphin
+staff
+zone
+mobile
+smooth
+embody
+now |  
+| bip_39_word_new_line8 | dolphin
+staff
+zone
+mobile
+smooth
+embody
+now
+era |  
+| bip_39_word_new_line9 | dolphin
+staff
+zone
+mobile
+smooth
+embody
+now
+era
+change |  
+| bip_39_word_space_0 | ['dolphin', 'staff', 'zone', 'mobile', 'smooth', 'embody', 'now', 'era', 'change', 'entry', 'provide', 'argue'] |  
+| bip_39_word_space_1 | dolphin |  
+| bip_39_word_space_10 | dolphin staff zone mobile smooth embody now era change entry |  
+| bip_39_word_space_11 | dolphin staff zone mobile smooth embody now era change entry provide |  
+| bip_39_word_space_12 | dolphin staff zone mobile smooth embody now era change entry provide argue |  
+| bip_39_word_space_2 | dolphin staff |  
+| bip_39_word_space_3 | dolphin staff zone |  
+| bip_39_word_space_4 | dolphin staff zone mobile |  
+| bip_39_word_space_5 | dolphin staff zone mobile smooth |  
+| bip_39_word_space_6 | dolphin staff zone mobile smooth embody |  
+| bip_39_word_space_7 | dolphin staff zone mobile smooth embody now |  
+| bip_39_word_space_8 | dolphin staff zone mobile smooth embody now era |  
+| bip_39_word_space_9 | dolphin staff zone mobile smooth embody now era change |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

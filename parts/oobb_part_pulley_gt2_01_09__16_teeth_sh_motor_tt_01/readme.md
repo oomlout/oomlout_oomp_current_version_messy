@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: patient pencil
+  * bip 39 word 3: patient pencil awful
+  * bip 39 word: patient pencil awful rescue this ankle parent neither state embark liquid aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | patient |  
+| bip_39_word_new_br10 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark |  
+| bip_39_word_new_br11 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid |  
+| bip_39_word_new_br12 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid<br>aisle |  
+| bip_39_word_new_br2 | patient<br>pencil |  
+| bip_39_word_new_br3 | patient<br>pencil<br>awful |  
+| bip_39_word_new_br4 | patient<br>pencil<br>awful<br>rescue |  
+| bip_39_word_new_br5 | patient<br>pencil<br>awful<br>rescue<br>this |  
+| bip_39_word_new_br6 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle |  
+| bip_39_word_new_br7 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent |  
+| bip_39_word_new_br8 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither |  
+| bip_39_word_new_br9 | patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state |  
+| bip_39_word_new_line1 | patient |  
+| bip_39_word_new_line10 | patient
+pencil
+awful
+rescue
+this
+ankle
+parent
+neither
+state
+embark |  
+| bip_39_word_new_line11 | patient
+pencil
+awful
+rescue
+this
+ankle
+parent
+neither
+state
+embark
+liquid |  
+| bip_39_word_new_line12 | patient
+pencil
+awful
+rescue
+this
+ankle
+parent
+neither
+state
+embark
+liquid
+aisle |  
+| bip_39_word_new_line2 | patient
+pencil |  
+| bip_39_word_new_line3 | patient
+pencil
+awful |  
+| bip_39_word_new_line4 | patient
+pencil
+awful
+rescue |  
+| bip_39_word_new_line5 | patient
+pencil
+awful
+rescue
+this |  
+| bip_39_word_new_line6 | patient
+pencil
+awful
+rescue
+this
+ankle |  
+| bip_39_word_new_line7 | patient
+pencil
+awful
+rescue
+this
+ankle
+parent |  
+| bip_39_word_new_line8 | patient
+pencil
+awful
+rescue
+this
+ankle
+parent
+neither |  
+| bip_39_word_new_line9 | patient
+pencil
+awful
+rescue
+this
+ankle
+parent
+neither
+state |  
+| bip_39_word_space_0 | ['patient', 'pencil', 'awful', 'rescue', 'this', 'ankle', 'parent', 'neither', 'state', 'embark', 'liquid', 'aisle'] |  
+| bip_39_word_space_1 | patient |  
+| bip_39_word_space_10 | patient pencil awful rescue this ankle parent neither state embark |  
+| bip_39_word_space_11 | patient pencil awful rescue this ankle parent neither state embark liquid |  
+| bip_39_word_space_12 | patient pencil awful rescue this ankle parent neither state embark liquid aisle |  
+| bip_39_word_space_2 | patient pencil |  
+| bip_39_word_space_3 | patient pencil awful |  
+| bip_39_word_space_4 | patient pencil awful rescue |  
+| bip_39_word_space_5 | patient pencil awful rescue this |  
+| bip_39_word_space_6 | patient pencil awful rescue this ankle |  
+| bip_39_word_space_7 | patient pencil awful rescue this ankle parent |  
+| bip_39_word_space_8 | patient pencil awful rescue this ankle parent neither |  
+| bip_39_word_space_9 | patient pencil awful rescue this ankle parent neither state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

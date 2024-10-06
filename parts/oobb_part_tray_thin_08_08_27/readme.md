@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flee process
+  * bip 39 word 3: flee process source
+  * bip 39 word: flee process source sock recipe lizard father student ivory devote medal arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flee |  
+| bip_39_word_new_br10 | flee<br>process<br>source<br>sock<br>recipe<br>lizard<br>father<br>student<br>ivory<br>devote |  
+| bip_39_word_new_br11 | flee<br>process<br>source<br>sock<br>recipe<br>lizard<br>father<br>student<br>ivory<br>devote<br>medal |  
+| bip_39_word_new_br12 | flee<br>process<br>source<br>sock<br>recipe<br>lizard<br>father<br>student<br>ivory<br>devote<br>medal<br>arena |  
+| bip_39_word_new_br2 | flee<br>process |  
+| bip_39_word_new_br3 | flee<br>process<br>source |  
+| bip_39_word_new_br4 | flee<br>process<br>source<br>sock |  
+| bip_39_word_new_br5 | flee<br>process<br>source<br>sock<br>recipe |  
+| bip_39_word_new_br6 | flee<br>process<br>source<br>sock<br>recipe<br>lizard |  
+| bip_39_word_new_br7 | flee<br>process<br>source<br>sock<br>recipe<br>lizard<br>father |  
+| bip_39_word_new_br8 | flee<br>process<br>source<br>sock<br>recipe<br>lizard<br>father<br>student |  
+| bip_39_word_new_br9 | flee<br>process<br>source<br>sock<br>recipe<br>lizard<br>father<br>student<br>ivory |  
+| bip_39_word_new_line1 | flee |  
+| bip_39_word_new_line10 | flee
+process
+source
+sock
+recipe
+lizard
+father
+student
+ivory
+devote |  
+| bip_39_word_new_line11 | flee
+process
+source
+sock
+recipe
+lizard
+father
+student
+ivory
+devote
+medal |  
+| bip_39_word_new_line12 | flee
+process
+source
+sock
+recipe
+lizard
+father
+student
+ivory
+devote
+medal
+arena |  
+| bip_39_word_new_line2 | flee
+process |  
+| bip_39_word_new_line3 | flee
+process
+source |  
+| bip_39_word_new_line4 | flee
+process
+source
+sock |  
+| bip_39_word_new_line5 | flee
+process
+source
+sock
+recipe |  
+| bip_39_word_new_line6 | flee
+process
+source
+sock
+recipe
+lizard |  
+| bip_39_word_new_line7 | flee
+process
+source
+sock
+recipe
+lizard
+father |  
+| bip_39_word_new_line8 | flee
+process
+source
+sock
+recipe
+lizard
+father
+student |  
+| bip_39_word_new_line9 | flee
+process
+source
+sock
+recipe
+lizard
+father
+student
+ivory |  
+| bip_39_word_space_0 | ['flee', 'process', 'source', 'sock', 'recipe', 'lizard', 'father', 'student', 'ivory', 'devote', 'medal', 'arena'] |  
+| bip_39_word_space_1 | flee |  
+| bip_39_word_space_10 | flee process source sock recipe lizard father student ivory devote |  
+| bip_39_word_space_11 | flee process source sock recipe lizard father student ivory devote medal |  
+| bip_39_word_space_12 | flee process source sock recipe lizard father student ivory devote medal arena |  
+| bip_39_word_space_2 | flee process |  
+| bip_39_word_space_3 | flee process source |  
+| bip_39_word_space_4 | flee process source sock |  
+| bip_39_word_space_5 | flee process source sock recipe |  
+| bip_39_word_space_6 | flee process source sock recipe lizard |  
+| bip_39_word_space_7 | flee process source sock recipe lizard father |  
+| bip_39_word_space_8 | flee process source sock recipe lizard father student |  
+| bip_39_word_space_9 | flee process source sock recipe lizard father student ivory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

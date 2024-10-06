@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: desk arch
+  * bip 39 word 3: desk arch despair
+  * bip 39 word: desk arch despair involve sunny reflect execute sketch loan true balcony armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | desk |  
+| bip_39_word_new_br10 | desk<br>arch<br>despair<br>involve<br>sunny<br>reflect<br>execute<br>sketch<br>loan<br>true |  
+| bip_39_word_new_br11 | desk<br>arch<br>despair<br>involve<br>sunny<br>reflect<br>execute<br>sketch<br>loan<br>true<br>balcony |  
+| bip_39_word_new_br12 | desk<br>arch<br>despair<br>involve<br>sunny<br>reflect<br>execute<br>sketch<br>loan<br>true<br>balcony<br>armed |  
+| bip_39_word_new_br2 | desk<br>arch |  
+| bip_39_word_new_br3 | desk<br>arch<br>despair |  
+| bip_39_word_new_br4 | desk<br>arch<br>despair<br>involve |  
+| bip_39_word_new_br5 | desk<br>arch<br>despair<br>involve<br>sunny |  
+| bip_39_word_new_br6 | desk<br>arch<br>despair<br>involve<br>sunny<br>reflect |  
+| bip_39_word_new_br7 | desk<br>arch<br>despair<br>involve<br>sunny<br>reflect<br>execute |  
+| bip_39_word_new_br8 | desk<br>arch<br>despair<br>involve<br>sunny<br>reflect<br>execute<br>sketch |  
+| bip_39_word_new_br9 | desk<br>arch<br>despair<br>involve<br>sunny<br>reflect<br>execute<br>sketch<br>loan |  
+| bip_39_word_new_line1 | desk |  
+| bip_39_word_new_line10 | desk
+arch
+despair
+involve
+sunny
+reflect
+execute
+sketch
+loan
+true |  
+| bip_39_word_new_line11 | desk
+arch
+despair
+involve
+sunny
+reflect
+execute
+sketch
+loan
+true
+balcony |  
+| bip_39_word_new_line12 | desk
+arch
+despair
+involve
+sunny
+reflect
+execute
+sketch
+loan
+true
+balcony
+armed |  
+| bip_39_word_new_line2 | desk
+arch |  
+| bip_39_word_new_line3 | desk
+arch
+despair |  
+| bip_39_word_new_line4 | desk
+arch
+despair
+involve |  
+| bip_39_word_new_line5 | desk
+arch
+despair
+involve
+sunny |  
+| bip_39_word_new_line6 | desk
+arch
+despair
+involve
+sunny
+reflect |  
+| bip_39_word_new_line7 | desk
+arch
+despair
+involve
+sunny
+reflect
+execute |  
+| bip_39_word_new_line8 | desk
+arch
+despair
+involve
+sunny
+reflect
+execute
+sketch |  
+| bip_39_word_new_line9 | desk
+arch
+despair
+involve
+sunny
+reflect
+execute
+sketch
+loan |  
+| bip_39_word_space_0 | ['desk', 'arch', 'despair', 'involve', 'sunny', 'reflect', 'execute', 'sketch', 'loan', 'true', 'balcony', 'armed'] |  
+| bip_39_word_space_1 | desk |  
+| bip_39_word_space_10 | desk arch despair involve sunny reflect execute sketch loan true |  
+| bip_39_word_space_11 | desk arch despair involve sunny reflect execute sketch loan true balcony |  
+| bip_39_word_space_12 | desk arch despair involve sunny reflect execute sketch loan true balcony armed |  
+| bip_39_word_space_2 | desk arch |  
+| bip_39_word_space_3 | desk arch despair |  
+| bip_39_word_space_4 | desk arch despair involve |  
+| bip_39_word_space_5 | desk arch despair involve sunny |  
+| bip_39_word_space_6 | desk arch despair involve sunny reflect |  
+| bip_39_word_space_7 | desk arch despair involve sunny reflect execute |  
+| bip_39_word_space_8 | desk arch despair involve sunny reflect execute sketch |  
+| bip_39_word_space_9 | desk arch despair involve sunny reflect execute sketch loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

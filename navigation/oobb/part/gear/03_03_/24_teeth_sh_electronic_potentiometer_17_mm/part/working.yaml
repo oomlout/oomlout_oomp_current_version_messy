@@ -1,3 +1,186 @@
+bip_39_word_new_br1: picnic
+bip_39_word_new_br10: picnic<br>claim<br>party<br>glory<br>skull<br>diamond<br>cage<br>crop<br>field<br>mercy
+bip_39_word_new_br11: picnic<br>claim<br>party<br>glory<br>skull<br>diamond<br>cage<br>crop<br>field<br>mercy<br>help
+bip_39_word_new_br12: picnic<br>claim<br>party<br>glory<br>skull<br>diamond<br>cage<br>crop<br>field<br>mercy<br>help<br>address
+bip_39_word_new_br2: picnic<br>claim
+bip_39_word_new_br3: picnic<br>claim<br>party
+bip_39_word_new_br4: picnic<br>claim<br>party<br>glory
+bip_39_word_new_br5: picnic<br>claim<br>party<br>glory<br>skull
+bip_39_word_new_br6: picnic<br>claim<br>party<br>glory<br>skull<br>diamond
+bip_39_word_new_br7: picnic<br>claim<br>party<br>glory<br>skull<br>diamond<br>cage
+bip_39_word_new_br8: picnic<br>claim<br>party<br>glory<br>skull<br>diamond<br>cage<br>crop
+bip_39_word_new_br9: picnic<br>claim<br>party<br>glory<br>skull<br>diamond<br>cage<br>crop<br>field
+bip_39_word_new_line1: picnic
+bip_39_word_new_line10: 'picnic
+
+  claim
+
+  party
+
+  glory
+
+  skull
+
+  diamond
+
+  cage
+
+  crop
+
+  field
+
+  mercy'
+bip_39_word_new_line11: 'picnic
+
+  claim
+
+  party
+
+  glory
+
+  skull
+
+  diamond
+
+  cage
+
+  crop
+
+  field
+
+  mercy
+
+  help'
+bip_39_word_new_line12: 'picnic
+
+  claim
+
+  party
+
+  glory
+
+  skull
+
+  diamond
+
+  cage
+
+  crop
+
+  field
+
+  mercy
+
+  help
+
+  address'
+bip_39_word_new_line2: 'picnic
+
+  claim'
+bip_39_word_new_line3: 'picnic
+
+  claim
+
+  party'
+bip_39_word_new_line4: 'picnic
+
+  claim
+
+  party
+
+  glory'
+bip_39_word_new_line5: 'picnic
+
+  claim
+
+  party
+
+  glory
+
+  skull'
+bip_39_word_new_line6: 'picnic
+
+  claim
+
+  party
+
+  glory
+
+  skull
+
+  diamond'
+bip_39_word_new_line7: 'picnic
+
+  claim
+
+  party
+
+  glory
+
+  skull
+
+  diamond
+
+  cage'
+bip_39_word_new_line8: 'picnic
+
+  claim
+
+  party
+
+  glory
+
+  skull
+
+  diamond
+
+  cage
+
+  crop'
+bip_39_word_new_line9: 'picnic
+
+  claim
+
+  party
+
+  glory
+
+  skull
+
+  diamond
+
+  cage
+
+  crop
+
+  field'
+bip_39_word_space_0:
+- picnic
+- claim
+- party
+- glory
+- skull
+- diamond
+- cage
+- crop
+- field
+- mercy
+- help
+- address
+bip_39_word_space_1: picnic
+bip_39_word_space_10: picnic claim party glory skull diamond cage crop field mercy
+bip_39_word_space_11: picnic claim party glory skull diamond cage crop field mercy
+  help
+bip_39_word_space_12: picnic claim party glory skull diamond cage crop field mercy
+  help address
+bip_39_word_space_2: picnic claim
+bip_39_word_space_3: picnic claim party
+bip_39_word_space_4: picnic claim party glory
+bip_39_word_space_5: picnic claim party glory skull
+bip_39_word_space_6: picnic claim party glory skull diamond
+bip_39_word_space_7: picnic claim party glory skull diamond cage
+bip_39_word_space_8: picnic claim party glory skull diamond cage crop
+bip_39_word_space_9: picnic claim party glory skull diamond cage crop field
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

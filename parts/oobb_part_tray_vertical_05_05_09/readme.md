@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: screen mansion
+  * bip 39 word 3: screen mansion core
+  * bip 39 word: screen mansion core nice gadget rocket point once gorilla debate van around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | screen |  
+| bip_39_word_new_br10 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla<br>debate |  
+| bip_39_word_new_br11 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla<br>debate<br>van |  
+| bip_39_word_new_br12 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla<br>debate<br>van<br>around |  
+| bip_39_word_new_br2 | screen<br>mansion |  
+| bip_39_word_new_br3 | screen<br>mansion<br>core |  
+| bip_39_word_new_br4 | screen<br>mansion<br>core<br>nice |  
+| bip_39_word_new_br5 | screen<br>mansion<br>core<br>nice<br>gadget |  
+| bip_39_word_new_br6 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket |  
+| bip_39_word_new_br7 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point |  
+| bip_39_word_new_br8 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once |  
+| bip_39_word_new_br9 | screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla |  
+| bip_39_word_new_line1 | screen |  
+| bip_39_word_new_line10 | screen
+mansion
+core
+nice
+gadget
+rocket
+point
+once
+gorilla
+debate |  
+| bip_39_word_new_line11 | screen
+mansion
+core
+nice
+gadget
+rocket
+point
+once
+gorilla
+debate
+van |  
+| bip_39_word_new_line12 | screen
+mansion
+core
+nice
+gadget
+rocket
+point
+once
+gorilla
+debate
+van
+around |  
+| bip_39_word_new_line2 | screen
+mansion |  
+| bip_39_word_new_line3 | screen
+mansion
+core |  
+| bip_39_word_new_line4 | screen
+mansion
+core
+nice |  
+| bip_39_word_new_line5 | screen
+mansion
+core
+nice
+gadget |  
+| bip_39_word_new_line6 | screen
+mansion
+core
+nice
+gadget
+rocket |  
+| bip_39_word_new_line7 | screen
+mansion
+core
+nice
+gadget
+rocket
+point |  
+| bip_39_word_new_line8 | screen
+mansion
+core
+nice
+gadget
+rocket
+point
+once |  
+| bip_39_word_new_line9 | screen
+mansion
+core
+nice
+gadget
+rocket
+point
+once
+gorilla |  
+| bip_39_word_space_0 | ['screen', 'mansion', 'core', 'nice', 'gadget', 'rocket', 'point', 'once', 'gorilla', 'debate', 'van', 'around'] |  
+| bip_39_word_space_1 | screen |  
+| bip_39_word_space_10 | screen mansion core nice gadget rocket point once gorilla debate |  
+| bip_39_word_space_11 | screen mansion core nice gadget rocket point once gorilla debate van |  
+| bip_39_word_space_12 | screen mansion core nice gadget rocket point once gorilla debate van around |  
+| bip_39_word_space_2 | screen mansion |  
+| bip_39_word_space_3 | screen mansion core |  
+| bip_39_word_space_4 | screen mansion core nice |  
+| bip_39_word_space_5 | screen mansion core nice gadget |  
+| bip_39_word_space_6 | screen mansion core nice gadget rocket |  
+| bip_39_word_space_7 | screen mansion core nice gadget rocket point |  
+| bip_39_word_space_8 | screen mansion core nice gadget rocket point once |  
+| bip_39_word_space_9 | screen mansion core nice gadget rocket point once gorilla |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

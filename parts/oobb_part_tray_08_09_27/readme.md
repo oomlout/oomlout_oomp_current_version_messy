@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gift rookie
+  * bip 39 word 3: gift rookie horse
+  * bip 39 word: gift rookie horse duck plastic inner kitchen silver actual census monitor act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gift |  
+| bip_39_word_new_br10 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner<br>kitchen<br>silver<br>actual<br>census |  
+| bip_39_word_new_br11 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner<br>kitchen<br>silver<br>actual<br>census<br>monitor |  
+| bip_39_word_new_br12 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner<br>kitchen<br>silver<br>actual<br>census<br>monitor<br>act |  
+| bip_39_word_new_br2 | gift<br>rookie |  
+| bip_39_word_new_br3 | gift<br>rookie<br>horse |  
+| bip_39_word_new_br4 | gift<br>rookie<br>horse<br>duck |  
+| bip_39_word_new_br5 | gift<br>rookie<br>horse<br>duck<br>plastic |  
+| bip_39_word_new_br6 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner |  
+| bip_39_word_new_br7 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner<br>kitchen |  
+| bip_39_word_new_br8 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner<br>kitchen<br>silver |  
+| bip_39_word_new_br9 | gift<br>rookie<br>horse<br>duck<br>plastic<br>inner<br>kitchen<br>silver<br>actual |  
+| bip_39_word_new_line1 | gift |  
+| bip_39_word_new_line10 | gift
+rookie
+horse
+duck
+plastic
+inner
+kitchen
+silver
+actual
+census |  
+| bip_39_word_new_line11 | gift
+rookie
+horse
+duck
+plastic
+inner
+kitchen
+silver
+actual
+census
+monitor |  
+| bip_39_word_new_line12 | gift
+rookie
+horse
+duck
+plastic
+inner
+kitchen
+silver
+actual
+census
+monitor
+act |  
+| bip_39_word_new_line2 | gift
+rookie |  
+| bip_39_word_new_line3 | gift
+rookie
+horse |  
+| bip_39_word_new_line4 | gift
+rookie
+horse
+duck |  
+| bip_39_word_new_line5 | gift
+rookie
+horse
+duck
+plastic |  
+| bip_39_word_new_line6 | gift
+rookie
+horse
+duck
+plastic
+inner |  
+| bip_39_word_new_line7 | gift
+rookie
+horse
+duck
+plastic
+inner
+kitchen |  
+| bip_39_word_new_line8 | gift
+rookie
+horse
+duck
+plastic
+inner
+kitchen
+silver |  
+| bip_39_word_new_line9 | gift
+rookie
+horse
+duck
+plastic
+inner
+kitchen
+silver
+actual |  
+| bip_39_word_space_0 | ['gift', 'rookie', 'horse', 'duck', 'plastic', 'inner', 'kitchen', 'silver', 'actual', 'census', 'monitor', 'act'] |  
+| bip_39_word_space_1 | gift |  
+| bip_39_word_space_10 | gift rookie horse duck plastic inner kitchen silver actual census |  
+| bip_39_word_space_11 | gift rookie horse duck plastic inner kitchen silver actual census monitor |  
+| bip_39_word_space_12 | gift rookie horse duck plastic inner kitchen silver actual census monitor act |  
+| bip_39_word_space_2 | gift rookie |  
+| bip_39_word_space_3 | gift rookie horse |  
+| bip_39_word_space_4 | gift rookie horse duck |  
+| bip_39_word_space_5 | gift rookie horse duck plastic |  
+| bip_39_word_space_6 | gift rookie horse duck plastic inner |  
+| bip_39_word_space_7 | gift rookie horse duck plastic inner kitchen |  
+| bip_39_word_space_8 | gift rookie horse duck plastic inner kitchen silver |  
+| bip_39_word_space_9 | gift rookie horse duck plastic inner kitchen silver actual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

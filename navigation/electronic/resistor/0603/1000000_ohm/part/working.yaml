@@ -1,3 +1,186 @@
+bip_39_word_new_br1: obscure
+bip_39_word_new_br10: obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare
+bip_39_word_new_br11: obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare<br>whale
+bip_39_word_new_br12: obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard<br>scare<br>whale<br>also
+bip_39_word_new_br2: obscure<br>mix
+bip_39_word_new_br3: obscure<br>mix<br>audit
+bip_39_word_new_br4: obscure<br>mix<br>audit<br>found
+bip_39_word_new_br5: obscure<br>mix<br>audit<br>found<br>sphere
+bip_39_word_new_br6: obscure<br>mix<br>audit<br>found<br>sphere<br>elder
+bip_39_word_new_br7: obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose
+bip_39_word_new_br8: obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth
+bip_39_word_new_br9: obscure<br>mix<br>audit<br>found<br>sphere<br>elder<br>impose<br>depth<br>leopard
+bip_39_word_new_line1: obscure
+bip_39_word_new_line10: 'obscure
+
+  mix
+
+  audit
+
+  found
+
+  sphere
+
+  elder
+
+  impose
+
+  depth
+
+  leopard
+
+  scare'
+bip_39_word_new_line11: 'obscure
+
+  mix
+
+  audit
+
+  found
+
+  sphere
+
+  elder
+
+  impose
+
+  depth
+
+  leopard
+
+  scare
+
+  whale'
+bip_39_word_new_line12: 'obscure
+
+  mix
+
+  audit
+
+  found
+
+  sphere
+
+  elder
+
+  impose
+
+  depth
+
+  leopard
+
+  scare
+
+  whale
+
+  also'
+bip_39_word_new_line2: 'obscure
+
+  mix'
+bip_39_word_new_line3: 'obscure
+
+  mix
+
+  audit'
+bip_39_word_new_line4: 'obscure
+
+  mix
+
+  audit
+
+  found'
+bip_39_word_new_line5: 'obscure
+
+  mix
+
+  audit
+
+  found
+
+  sphere'
+bip_39_word_new_line6: 'obscure
+
+  mix
+
+  audit
+
+  found
+
+  sphere
+
+  elder'
+bip_39_word_new_line7: 'obscure
+
+  mix
+
+  audit
+
+  found
+
+  sphere
+
+  elder
+
+  impose'
+bip_39_word_new_line8: 'obscure
+
+  mix
+
+  audit
+
+  found
+
+  sphere
+
+  elder
+
+  impose
+
+  depth'
+bip_39_word_new_line9: 'obscure
+
+  mix
+
+  audit
+
+  found
+
+  sphere
+
+  elder
+
+  impose
+
+  depth
+
+  leopard'
+bip_39_word_space_0:
+- obscure
+- mix
+- audit
+- found
+- sphere
+- elder
+- impose
+- depth
+- leopard
+- scare
+- whale
+- also
+bip_39_word_space_1: obscure
+bip_39_word_space_10: obscure mix audit found sphere elder impose depth leopard scare
+bip_39_word_space_11: obscure mix audit found sphere elder impose depth leopard scare
+  whale
+bip_39_word_space_12: obscure mix audit found sphere elder impose depth leopard scare
+  whale also
+bip_39_word_space_2: obscure mix
+bip_39_word_space_3: obscure mix audit
+bip_39_word_space_4: obscure mix audit found
+bip_39_word_space_5: obscure mix audit found sphere
+bip_39_word_space_6: obscure mix audit found sphere elder
+bip_39_word_space_7: obscure mix audit found sphere elder impose
+bip_39_word_space_8: obscure mix audit found sphere elder impose depth
+bip_39_word_space_9: obscure mix audit found sphere elder impose depth leopard
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

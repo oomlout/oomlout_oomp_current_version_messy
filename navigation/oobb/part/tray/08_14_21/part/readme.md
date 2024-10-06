@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: patrol certain
+  * bip 39 word 3: patrol certain gesture
+  * bip 39 word: patrol certain gesture also define cinnamon express lobster slogan meat spring across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | patrol |  
+| bip_39_word_new_br10 | patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon<br>express<br>lobster<br>slogan<br>meat |  
+| bip_39_word_new_br11 | patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon<br>express<br>lobster<br>slogan<br>meat<br>spring |  
+| bip_39_word_new_br12 | patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon<br>express<br>lobster<br>slogan<br>meat<br>spring<br>across |  
+| bip_39_word_new_br2 | patrol<br>certain |  
+| bip_39_word_new_br3 | patrol<br>certain<br>gesture |  
+| bip_39_word_new_br4 | patrol<br>certain<br>gesture<br>also |  
+| bip_39_word_new_br5 | patrol<br>certain<br>gesture<br>also<br>define |  
+| bip_39_word_new_br6 | patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon |  
+| bip_39_word_new_br7 | patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon<br>express |  
+| bip_39_word_new_br8 | patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon<br>express<br>lobster |  
+| bip_39_word_new_br9 | patrol<br>certain<br>gesture<br>also<br>define<br>cinnamon<br>express<br>lobster<br>slogan |  
+| bip_39_word_new_line1 | patrol |  
+| bip_39_word_new_line10 | patrol
+certain
+gesture
+also
+define
+cinnamon
+express
+lobster
+slogan
+meat |  
+| bip_39_word_new_line11 | patrol
+certain
+gesture
+also
+define
+cinnamon
+express
+lobster
+slogan
+meat
+spring |  
+| bip_39_word_new_line12 | patrol
+certain
+gesture
+also
+define
+cinnamon
+express
+lobster
+slogan
+meat
+spring
+across |  
+| bip_39_word_new_line2 | patrol
+certain |  
+| bip_39_word_new_line3 | patrol
+certain
+gesture |  
+| bip_39_word_new_line4 | patrol
+certain
+gesture
+also |  
+| bip_39_word_new_line5 | patrol
+certain
+gesture
+also
+define |  
+| bip_39_word_new_line6 | patrol
+certain
+gesture
+also
+define
+cinnamon |  
+| bip_39_word_new_line7 | patrol
+certain
+gesture
+also
+define
+cinnamon
+express |  
+| bip_39_word_new_line8 | patrol
+certain
+gesture
+also
+define
+cinnamon
+express
+lobster |  
+| bip_39_word_new_line9 | patrol
+certain
+gesture
+also
+define
+cinnamon
+express
+lobster
+slogan |  
+| bip_39_word_space_0 | ['patrol', 'certain', 'gesture', 'also', 'define', 'cinnamon', 'express', 'lobster', 'slogan', 'meat', 'spring', 'across'] |  
+| bip_39_word_space_1 | patrol |  
+| bip_39_word_space_10 | patrol certain gesture also define cinnamon express lobster slogan meat |  
+| bip_39_word_space_11 | patrol certain gesture also define cinnamon express lobster slogan meat spring |  
+| bip_39_word_space_12 | patrol certain gesture also define cinnamon express lobster slogan meat spring across |  
+| bip_39_word_space_2 | patrol certain |  
+| bip_39_word_space_3 | patrol certain gesture |  
+| bip_39_word_space_4 | patrol certain gesture also |  
+| bip_39_word_space_5 | patrol certain gesture also define |  
+| bip_39_word_space_6 | patrol certain gesture also define cinnamon |  
+| bip_39_word_space_7 | patrol certain gesture also define cinnamon express |  
+| bip_39_word_space_8 | patrol certain gesture also define cinnamon express lobster |  
+| bip_39_word_space_9 | patrol certain gesture also define cinnamon express lobster slogan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

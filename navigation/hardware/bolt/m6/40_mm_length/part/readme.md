@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tortoise sorry
+  * bip 39 word 3: tortoise sorry young
+  * bip 39 word: tortoise sorry young anger butter layer desk into mule senior arrest athlete
 
 ### other_codes
 * short_code: b6m40
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tortoise |  
+| bip_39_word_new_br10 | tortoise<br>sorry<br>young<br>anger<br>butter<br>layer<br>desk<br>into<br>mule<br>senior |  
+| bip_39_word_new_br11 | tortoise<br>sorry<br>young<br>anger<br>butter<br>layer<br>desk<br>into<br>mule<br>senior<br>arrest |  
+| bip_39_word_new_br12 | tortoise<br>sorry<br>young<br>anger<br>butter<br>layer<br>desk<br>into<br>mule<br>senior<br>arrest<br>athlete |  
+| bip_39_word_new_br2 | tortoise<br>sorry |  
+| bip_39_word_new_br3 | tortoise<br>sorry<br>young |  
+| bip_39_word_new_br4 | tortoise<br>sorry<br>young<br>anger |  
+| bip_39_word_new_br5 | tortoise<br>sorry<br>young<br>anger<br>butter |  
+| bip_39_word_new_br6 | tortoise<br>sorry<br>young<br>anger<br>butter<br>layer |  
+| bip_39_word_new_br7 | tortoise<br>sorry<br>young<br>anger<br>butter<br>layer<br>desk |  
+| bip_39_word_new_br8 | tortoise<br>sorry<br>young<br>anger<br>butter<br>layer<br>desk<br>into |  
+| bip_39_word_new_br9 | tortoise<br>sorry<br>young<br>anger<br>butter<br>layer<br>desk<br>into<br>mule |  
+| bip_39_word_new_line1 | tortoise |  
+| bip_39_word_new_line10 | tortoise
+sorry
+young
+anger
+butter
+layer
+desk
+into
+mule
+senior |  
+| bip_39_word_new_line11 | tortoise
+sorry
+young
+anger
+butter
+layer
+desk
+into
+mule
+senior
+arrest |  
+| bip_39_word_new_line12 | tortoise
+sorry
+young
+anger
+butter
+layer
+desk
+into
+mule
+senior
+arrest
+athlete |  
+| bip_39_word_new_line2 | tortoise
+sorry |  
+| bip_39_word_new_line3 | tortoise
+sorry
+young |  
+| bip_39_word_new_line4 | tortoise
+sorry
+young
+anger |  
+| bip_39_word_new_line5 | tortoise
+sorry
+young
+anger
+butter |  
+| bip_39_word_new_line6 | tortoise
+sorry
+young
+anger
+butter
+layer |  
+| bip_39_word_new_line7 | tortoise
+sorry
+young
+anger
+butter
+layer
+desk |  
+| bip_39_word_new_line8 | tortoise
+sorry
+young
+anger
+butter
+layer
+desk
+into |  
+| bip_39_word_new_line9 | tortoise
+sorry
+young
+anger
+butter
+layer
+desk
+into
+mule |  
+| bip_39_word_space_0 | ['tortoise', 'sorry', 'young', 'anger', 'butter', 'layer', 'desk', 'into', 'mule', 'senior', 'arrest', 'athlete'] |  
+| bip_39_word_space_1 | tortoise |  
+| bip_39_word_space_10 | tortoise sorry young anger butter layer desk into mule senior |  
+| bip_39_word_space_11 | tortoise sorry young anger butter layer desk into mule senior arrest |  
+| bip_39_word_space_12 | tortoise sorry young anger butter layer desk into mule senior arrest athlete |  
+| bip_39_word_space_2 | tortoise sorry |  
+| bip_39_word_space_3 | tortoise sorry young |  
+| bip_39_word_space_4 | tortoise sorry young anger |  
+| bip_39_word_space_5 | tortoise sorry young anger butter |  
+| bip_39_word_space_6 | tortoise sorry young anger butter layer |  
+| bip_39_word_space_7 | tortoise sorry young anger butter layer desk |  
+| bip_39_word_space_8 | tortoise sorry young anger butter layer desk into |  
+| bip_39_word_space_9 | tortoise sorry young anger butter layer desk into mule |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: box puzzle
+  * bip 39 word 3: box puzzle clown
+  * bip 39 word: box puzzle clown daring fossil march stereo purpose face glove round actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | box |  
+| bip_39_word_new_br10 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march<br>stereo<br>purpose<br>face<br>glove |  
+| bip_39_word_new_br11 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march<br>stereo<br>purpose<br>face<br>glove<br>round |  
+| bip_39_word_new_br12 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march<br>stereo<br>purpose<br>face<br>glove<br>round<br>actor |  
+| bip_39_word_new_br2 | box<br>puzzle |  
+| bip_39_word_new_br3 | box<br>puzzle<br>clown |  
+| bip_39_word_new_br4 | box<br>puzzle<br>clown<br>daring |  
+| bip_39_word_new_br5 | box<br>puzzle<br>clown<br>daring<br>fossil |  
+| bip_39_word_new_br6 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march |  
+| bip_39_word_new_br7 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march<br>stereo |  
+| bip_39_word_new_br8 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march<br>stereo<br>purpose |  
+| bip_39_word_new_br9 | box<br>puzzle<br>clown<br>daring<br>fossil<br>march<br>stereo<br>purpose<br>face |  
+| bip_39_word_new_line1 | box |  
+| bip_39_word_new_line10 | box
+puzzle
+clown
+daring
+fossil
+march
+stereo
+purpose
+face
+glove |  
+| bip_39_word_new_line11 | box
+puzzle
+clown
+daring
+fossil
+march
+stereo
+purpose
+face
+glove
+round |  
+| bip_39_word_new_line12 | box
+puzzle
+clown
+daring
+fossil
+march
+stereo
+purpose
+face
+glove
+round
+actor |  
+| bip_39_word_new_line2 | box
+puzzle |  
+| bip_39_word_new_line3 | box
+puzzle
+clown |  
+| bip_39_word_new_line4 | box
+puzzle
+clown
+daring |  
+| bip_39_word_new_line5 | box
+puzzle
+clown
+daring
+fossil |  
+| bip_39_word_new_line6 | box
+puzzle
+clown
+daring
+fossil
+march |  
+| bip_39_word_new_line7 | box
+puzzle
+clown
+daring
+fossil
+march
+stereo |  
+| bip_39_word_new_line8 | box
+puzzle
+clown
+daring
+fossil
+march
+stereo
+purpose |  
+| bip_39_word_new_line9 | box
+puzzle
+clown
+daring
+fossil
+march
+stereo
+purpose
+face |  
+| bip_39_word_space_0 | ['box', 'puzzle', 'clown', 'daring', 'fossil', 'march', 'stereo', 'purpose', 'face', 'glove', 'round', 'actor'] |  
+| bip_39_word_space_1 | box |  
+| bip_39_word_space_10 | box puzzle clown daring fossil march stereo purpose face glove |  
+| bip_39_word_space_11 | box puzzle clown daring fossil march stereo purpose face glove round |  
+| bip_39_word_space_12 | box puzzle clown daring fossil march stereo purpose face glove round actor |  
+| bip_39_word_space_2 | box puzzle |  
+| bip_39_word_space_3 | box puzzle clown |  
+| bip_39_word_space_4 | box puzzle clown daring |  
+| bip_39_word_space_5 | box puzzle clown daring fossil |  
+| bip_39_word_space_6 | box puzzle clown daring fossil march |  
+| bip_39_word_space_7 | box puzzle clown daring fossil march stereo |  
+| bip_39_word_space_8 | box puzzle clown daring fossil march stereo purpose |  
+| bip_39_word_space_9 | box puzzle clown daring fossil march stereo purpose face |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amused enter
+  * bip 39 word 3: amused enter art
+  * bip 39 word: amused enter art can also husband gospel random obvious bubble follow about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amused |  
+| bip_39_word_new_br10 | amused<br>enter<br>art<br>can<br>also<br>husband<br>gospel<br>random<br>obvious<br>bubble |  
+| bip_39_word_new_br11 | amused<br>enter<br>art<br>can<br>also<br>husband<br>gospel<br>random<br>obvious<br>bubble<br>follow |  
+| bip_39_word_new_br12 | amused<br>enter<br>art<br>can<br>also<br>husband<br>gospel<br>random<br>obvious<br>bubble<br>follow<br>about |  
+| bip_39_word_new_br2 | amused<br>enter |  
+| bip_39_word_new_br3 | amused<br>enter<br>art |  
+| bip_39_word_new_br4 | amused<br>enter<br>art<br>can |  
+| bip_39_word_new_br5 | amused<br>enter<br>art<br>can<br>also |  
+| bip_39_word_new_br6 | amused<br>enter<br>art<br>can<br>also<br>husband |  
+| bip_39_word_new_br7 | amused<br>enter<br>art<br>can<br>also<br>husband<br>gospel |  
+| bip_39_word_new_br8 | amused<br>enter<br>art<br>can<br>also<br>husband<br>gospel<br>random |  
+| bip_39_word_new_br9 | amused<br>enter<br>art<br>can<br>also<br>husband<br>gospel<br>random<br>obvious |  
+| bip_39_word_new_line1 | amused |  
+| bip_39_word_new_line10 | amused
+enter
+art
+can
+also
+husband
+gospel
+random
+obvious
+bubble |  
+| bip_39_word_new_line11 | amused
+enter
+art
+can
+also
+husband
+gospel
+random
+obvious
+bubble
+follow |  
+| bip_39_word_new_line12 | amused
+enter
+art
+can
+also
+husband
+gospel
+random
+obvious
+bubble
+follow
+about |  
+| bip_39_word_new_line2 | amused
+enter |  
+| bip_39_word_new_line3 | amused
+enter
+art |  
+| bip_39_word_new_line4 | amused
+enter
+art
+can |  
+| bip_39_word_new_line5 | amused
+enter
+art
+can
+also |  
+| bip_39_word_new_line6 | amused
+enter
+art
+can
+also
+husband |  
+| bip_39_word_new_line7 | amused
+enter
+art
+can
+also
+husband
+gospel |  
+| bip_39_word_new_line8 | amused
+enter
+art
+can
+also
+husband
+gospel
+random |  
+| bip_39_word_new_line9 | amused
+enter
+art
+can
+also
+husband
+gospel
+random
+obvious |  
+| bip_39_word_space_0 | ['amused', 'enter', 'art', 'can', 'also', 'husband', 'gospel', 'random', 'obvious', 'bubble', 'follow', 'about'] |  
+| bip_39_word_space_1 | amused |  
+| bip_39_word_space_10 | amused enter art can also husband gospel random obvious bubble |  
+| bip_39_word_space_11 | amused enter art can also husband gospel random obvious bubble follow |  
+| bip_39_word_space_12 | amused enter art can also husband gospel random obvious bubble follow about |  
+| bip_39_word_space_2 | amused enter |  
+| bip_39_word_space_3 | amused enter art |  
+| bip_39_word_space_4 | amused enter art can |  
+| bip_39_word_space_5 | amused enter art can also |  
+| bip_39_word_space_6 | amused enter art can also husband |  
+| bip_39_word_space_7 | amused enter art can also husband gospel |  
+| bip_39_word_space_8 | amused enter art can also husband gospel random |  
+| bip_39_word_space_9 | amused enter art can also husband gospel random obvious |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

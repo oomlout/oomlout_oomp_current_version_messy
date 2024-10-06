@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: element now
+  * bip 39 word 3: element now jump
+  * bip 39 word: element now jump brass tattoo message box truth area unfold stable accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | element |  
+| bip_39_word_new_br10 | element<br>now<br>jump<br>brass<br>tattoo<br>message<br>box<br>truth<br>area<br>unfold |  
+| bip_39_word_new_br11 | element<br>now<br>jump<br>brass<br>tattoo<br>message<br>box<br>truth<br>area<br>unfold<br>stable |  
+| bip_39_word_new_br12 | element<br>now<br>jump<br>brass<br>tattoo<br>message<br>box<br>truth<br>area<br>unfold<br>stable<br>accident |  
+| bip_39_word_new_br2 | element<br>now |  
+| bip_39_word_new_br3 | element<br>now<br>jump |  
+| bip_39_word_new_br4 | element<br>now<br>jump<br>brass |  
+| bip_39_word_new_br5 | element<br>now<br>jump<br>brass<br>tattoo |  
+| bip_39_word_new_br6 | element<br>now<br>jump<br>brass<br>tattoo<br>message |  
+| bip_39_word_new_br7 | element<br>now<br>jump<br>brass<br>tattoo<br>message<br>box |  
+| bip_39_word_new_br8 | element<br>now<br>jump<br>brass<br>tattoo<br>message<br>box<br>truth |  
+| bip_39_word_new_br9 | element<br>now<br>jump<br>brass<br>tattoo<br>message<br>box<br>truth<br>area |  
+| bip_39_word_new_line1 | element |  
+| bip_39_word_new_line10 | element
+now
+jump
+brass
+tattoo
+message
+box
+truth
+area
+unfold |  
+| bip_39_word_new_line11 | element
+now
+jump
+brass
+tattoo
+message
+box
+truth
+area
+unfold
+stable |  
+| bip_39_word_new_line12 | element
+now
+jump
+brass
+tattoo
+message
+box
+truth
+area
+unfold
+stable
+accident |  
+| bip_39_word_new_line2 | element
+now |  
+| bip_39_word_new_line3 | element
+now
+jump |  
+| bip_39_word_new_line4 | element
+now
+jump
+brass |  
+| bip_39_word_new_line5 | element
+now
+jump
+brass
+tattoo |  
+| bip_39_word_new_line6 | element
+now
+jump
+brass
+tattoo
+message |  
+| bip_39_word_new_line7 | element
+now
+jump
+brass
+tattoo
+message
+box |  
+| bip_39_word_new_line8 | element
+now
+jump
+brass
+tattoo
+message
+box
+truth |  
+| bip_39_word_new_line9 | element
+now
+jump
+brass
+tattoo
+message
+box
+truth
+area |  
+| bip_39_word_space_0 | ['element', 'now', 'jump', 'brass', 'tattoo', 'message', 'box', 'truth', 'area', 'unfold', 'stable', 'accident'] |  
+| bip_39_word_space_1 | element |  
+| bip_39_word_space_10 | element now jump brass tattoo message box truth area unfold |  
+| bip_39_word_space_11 | element now jump brass tattoo message box truth area unfold stable |  
+| bip_39_word_space_12 | element now jump brass tattoo message box truth area unfold stable accident |  
+| bip_39_word_space_2 | element now |  
+| bip_39_word_space_3 | element now jump |  
+| bip_39_word_space_4 | element now jump brass |  
+| bip_39_word_space_5 | element now jump brass tattoo |  
+| bip_39_word_space_6 | element now jump brass tattoo message |  
+| bip_39_word_space_7 | element now jump brass tattoo message box |  
+| bip_39_word_space_8 | element now jump brass tattoo message box truth |  
+| bip_39_word_space_9 | element now jump brass tattoo message box truth area |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: paddle
+bip_39_word_new_br10: paddle<br>verb<br>educate<br>minor<br>kit<br>already<br>mom<br>health<br>shoulder<br>outdoor
+bip_39_word_new_br11: paddle<br>verb<br>educate<br>minor<br>kit<br>already<br>mom<br>health<br>shoulder<br>outdoor<br>deer
+bip_39_word_new_br12: paddle<br>verb<br>educate<br>minor<br>kit<br>already<br>mom<br>health<br>shoulder<br>outdoor<br>deer<br>achieve
+bip_39_word_new_br2: paddle<br>verb
+bip_39_word_new_br3: paddle<br>verb<br>educate
+bip_39_word_new_br4: paddle<br>verb<br>educate<br>minor
+bip_39_word_new_br5: paddle<br>verb<br>educate<br>minor<br>kit
+bip_39_word_new_br6: paddle<br>verb<br>educate<br>minor<br>kit<br>already
+bip_39_word_new_br7: paddle<br>verb<br>educate<br>minor<br>kit<br>already<br>mom
+bip_39_word_new_br8: paddle<br>verb<br>educate<br>minor<br>kit<br>already<br>mom<br>health
+bip_39_word_new_br9: paddle<br>verb<br>educate<br>minor<br>kit<br>already<br>mom<br>health<br>shoulder
+bip_39_word_new_line1: paddle
+bip_39_word_new_line10: 'paddle
+
+  verb
+
+  educate
+
+  minor
+
+  kit
+
+  already
+
+  mom
+
+  health
+
+  shoulder
+
+  outdoor'
+bip_39_word_new_line11: 'paddle
+
+  verb
+
+  educate
+
+  minor
+
+  kit
+
+  already
+
+  mom
+
+  health
+
+  shoulder
+
+  outdoor
+
+  deer'
+bip_39_word_new_line12: 'paddle
+
+  verb
+
+  educate
+
+  minor
+
+  kit
+
+  already
+
+  mom
+
+  health
+
+  shoulder
+
+  outdoor
+
+  deer
+
+  achieve'
+bip_39_word_new_line2: 'paddle
+
+  verb'
+bip_39_word_new_line3: 'paddle
+
+  verb
+
+  educate'
+bip_39_word_new_line4: 'paddle
+
+  verb
+
+  educate
+
+  minor'
+bip_39_word_new_line5: 'paddle
+
+  verb
+
+  educate
+
+  minor
+
+  kit'
+bip_39_word_new_line6: 'paddle
+
+  verb
+
+  educate
+
+  minor
+
+  kit
+
+  already'
+bip_39_word_new_line7: 'paddle
+
+  verb
+
+  educate
+
+  minor
+
+  kit
+
+  already
+
+  mom'
+bip_39_word_new_line8: 'paddle
+
+  verb
+
+  educate
+
+  minor
+
+  kit
+
+  already
+
+  mom
+
+  health'
+bip_39_word_new_line9: 'paddle
+
+  verb
+
+  educate
+
+  minor
+
+  kit
+
+  already
+
+  mom
+
+  health
+
+  shoulder'
+bip_39_word_space_0:
+- paddle
+- verb
+- educate
+- minor
+- kit
+- already
+- mom
+- health
+- shoulder
+- outdoor
+- deer
+- achieve
+bip_39_word_space_1: paddle
+bip_39_word_space_10: paddle verb educate minor kit already mom health shoulder outdoor
+bip_39_word_space_11: paddle verb educate minor kit already mom health shoulder outdoor
+  deer
+bip_39_word_space_12: paddle verb educate minor kit already mom health shoulder outdoor
+  deer achieve
+bip_39_word_space_2: paddle verb
+bip_39_word_space_3: paddle verb educate
+bip_39_word_space_4: paddle verb educate minor
+bip_39_word_space_5: paddle verb educate minor kit
+bip_39_word_space_6: paddle verb educate minor kit already
+bip_39_word_space_7: paddle verb educate minor kit already mom
+bip_39_word_space_8: paddle verb educate minor kit already mom health
+bip_39_word_space_9: paddle verb educate minor kit already mom health shoulder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

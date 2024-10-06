@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chat search
+  * bip 39 word 3: chat search delay
+  * bip 39 word: chat search delay sad town zero glance sunset response glory link acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chat |  
+| bip_39_word_new_br10 | chat<br>search<br>delay<br>sad<br>town<br>zero<br>glance<br>sunset<br>response<br>glory |  
+| bip_39_word_new_br11 | chat<br>search<br>delay<br>sad<br>town<br>zero<br>glance<br>sunset<br>response<br>glory<br>link |  
+| bip_39_word_new_br12 | chat<br>search<br>delay<br>sad<br>town<br>zero<br>glance<br>sunset<br>response<br>glory<br>link<br>acquire |  
+| bip_39_word_new_br2 | chat<br>search |  
+| bip_39_word_new_br3 | chat<br>search<br>delay |  
+| bip_39_word_new_br4 | chat<br>search<br>delay<br>sad |  
+| bip_39_word_new_br5 | chat<br>search<br>delay<br>sad<br>town |  
+| bip_39_word_new_br6 | chat<br>search<br>delay<br>sad<br>town<br>zero |  
+| bip_39_word_new_br7 | chat<br>search<br>delay<br>sad<br>town<br>zero<br>glance |  
+| bip_39_word_new_br8 | chat<br>search<br>delay<br>sad<br>town<br>zero<br>glance<br>sunset |  
+| bip_39_word_new_br9 | chat<br>search<br>delay<br>sad<br>town<br>zero<br>glance<br>sunset<br>response |  
+| bip_39_word_new_line1 | chat |  
+| bip_39_word_new_line10 | chat
+search
+delay
+sad
+town
+zero
+glance
+sunset
+response
+glory |  
+| bip_39_word_new_line11 | chat
+search
+delay
+sad
+town
+zero
+glance
+sunset
+response
+glory
+link |  
+| bip_39_word_new_line12 | chat
+search
+delay
+sad
+town
+zero
+glance
+sunset
+response
+glory
+link
+acquire |  
+| bip_39_word_new_line2 | chat
+search |  
+| bip_39_word_new_line3 | chat
+search
+delay |  
+| bip_39_word_new_line4 | chat
+search
+delay
+sad |  
+| bip_39_word_new_line5 | chat
+search
+delay
+sad
+town |  
+| bip_39_word_new_line6 | chat
+search
+delay
+sad
+town
+zero |  
+| bip_39_word_new_line7 | chat
+search
+delay
+sad
+town
+zero
+glance |  
+| bip_39_word_new_line8 | chat
+search
+delay
+sad
+town
+zero
+glance
+sunset |  
+| bip_39_word_new_line9 | chat
+search
+delay
+sad
+town
+zero
+glance
+sunset
+response |  
+| bip_39_word_space_0 | ['chat', 'search', 'delay', 'sad', 'town', 'zero', 'glance', 'sunset', 'response', 'glory', 'link', 'acquire'] |  
+| bip_39_word_space_1 | chat |  
+| bip_39_word_space_10 | chat search delay sad town zero glance sunset response glory |  
+| bip_39_word_space_11 | chat search delay sad town zero glance sunset response glory link |  
+| bip_39_word_space_12 | chat search delay sad town zero glance sunset response glory link acquire |  
+| bip_39_word_space_2 | chat search |  
+| bip_39_word_space_3 | chat search delay |  
+| bip_39_word_space_4 | chat search delay sad |  
+| bip_39_word_space_5 | chat search delay sad town |  
+| bip_39_word_space_6 | chat search delay sad town zero |  
+| bip_39_word_space_7 | chat search delay sad town zero glance |  
+| bip_39_word_space_8 | chat search delay sad town zero glance sunset |  
+| bip_39_word_space_9 | chat search delay sad town zero glance sunset response |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diet clutch
+  * bip 39 word 3: diet clutch enable
+  * bip 39 word: diet clutch enable patrol among film order ensure accident behave tenant ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diet |  
+| bip_39_word_new_br10 | diet<br>clutch<br>enable<br>patrol<br>among<br>film<br>order<br>ensure<br>accident<br>behave |  
+| bip_39_word_new_br11 | diet<br>clutch<br>enable<br>patrol<br>among<br>film<br>order<br>ensure<br>accident<br>behave<br>tenant |  
+| bip_39_word_new_br12 | diet<br>clutch<br>enable<br>patrol<br>among<br>film<br>order<br>ensure<br>accident<br>behave<br>tenant<br>ancient |  
+| bip_39_word_new_br2 | diet<br>clutch |  
+| bip_39_word_new_br3 | diet<br>clutch<br>enable |  
+| bip_39_word_new_br4 | diet<br>clutch<br>enable<br>patrol |  
+| bip_39_word_new_br5 | diet<br>clutch<br>enable<br>patrol<br>among |  
+| bip_39_word_new_br6 | diet<br>clutch<br>enable<br>patrol<br>among<br>film |  
+| bip_39_word_new_br7 | diet<br>clutch<br>enable<br>patrol<br>among<br>film<br>order |  
+| bip_39_word_new_br8 | diet<br>clutch<br>enable<br>patrol<br>among<br>film<br>order<br>ensure |  
+| bip_39_word_new_br9 | diet<br>clutch<br>enable<br>patrol<br>among<br>film<br>order<br>ensure<br>accident |  
+| bip_39_word_new_line1 | diet |  
+| bip_39_word_new_line10 | diet
+clutch
+enable
+patrol
+among
+film
+order
+ensure
+accident
+behave |  
+| bip_39_word_new_line11 | diet
+clutch
+enable
+patrol
+among
+film
+order
+ensure
+accident
+behave
+tenant |  
+| bip_39_word_new_line12 | diet
+clutch
+enable
+patrol
+among
+film
+order
+ensure
+accident
+behave
+tenant
+ancient |  
+| bip_39_word_new_line2 | diet
+clutch |  
+| bip_39_word_new_line3 | diet
+clutch
+enable |  
+| bip_39_word_new_line4 | diet
+clutch
+enable
+patrol |  
+| bip_39_word_new_line5 | diet
+clutch
+enable
+patrol
+among |  
+| bip_39_word_new_line6 | diet
+clutch
+enable
+patrol
+among
+film |  
+| bip_39_word_new_line7 | diet
+clutch
+enable
+patrol
+among
+film
+order |  
+| bip_39_word_new_line8 | diet
+clutch
+enable
+patrol
+among
+film
+order
+ensure |  
+| bip_39_word_new_line9 | diet
+clutch
+enable
+patrol
+among
+film
+order
+ensure
+accident |  
+| bip_39_word_space_0 | ['diet', 'clutch', 'enable', 'patrol', 'among', 'film', 'order', 'ensure', 'accident', 'behave', 'tenant', 'ancient'] |  
+| bip_39_word_space_1 | diet |  
+| bip_39_word_space_10 | diet clutch enable patrol among film order ensure accident behave |  
+| bip_39_word_space_11 | diet clutch enable patrol among film order ensure accident behave tenant |  
+| bip_39_word_space_12 | diet clutch enable patrol among film order ensure accident behave tenant ancient |  
+| bip_39_word_space_2 | diet clutch |  
+| bip_39_word_space_3 | diet clutch enable |  
+| bip_39_word_space_4 | diet clutch enable patrol |  
+| bip_39_word_space_5 | diet clutch enable patrol among |  
+| bip_39_word_space_6 | diet clutch enable patrol among film |  
+| bip_39_word_space_7 | diet clutch enable patrol among film order |  
+| bip_39_word_space_8 | diet clutch enable patrol among film order ensure |  
+| bip_39_word_space_9 | diet clutch enable patrol among film order ensure accident |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

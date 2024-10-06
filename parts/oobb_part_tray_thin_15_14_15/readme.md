@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: code border
+  * bip 39 word 3: code border arrest
+  * bip 39 word: code border arrest short barrel slim morning raise maple gospel hole arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | code |  
+| bip_39_word_new_br10 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel |  
+| bip_39_word_new_br11 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel<br>hole |  
+| bip_39_word_new_br12 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple<br>gospel<br>hole<br>arctic |  
+| bip_39_word_new_br2 | code<br>border |  
+| bip_39_word_new_br3 | code<br>border<br>arrest |  
+| bip_39_word_new_br4 | code<br>border<br>arrest<br>short |  
+| bip_39_word_new_br5 | code<br>border<br>arrest<br>short<br>barrel |  
+| bip_39_word_new_br6 | code<br>border<br>arrest<br>short<br>barrel<br>slim |  
+| bip_39_word_new_br7 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning |  
+| bip_39_word_new_br8 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise |  
+| bip_39_word_new_br9 | code<br>border<br>arrest<br>short<br>barrel<br>slim<br>morning<br>raise<br>maple |  
+| bip_39_word_new_line1 | code |  
+| bip_39_word_new_line10 | code
+border
+arrest
+short
+barrel
+slim
+morning
+raise
+maple
+gospel |  
+| bip_39_word_new_line11 | code
+border
+arrest
+short
+barrel
+slim
+morning
+raise
+maple
+gospel
+hole |  
+| bip_39_word_new_line12 | code
+border
+arrest
+short
+barrel
+slim
+morning
+raise
+maple
+gospel
+hole
+arctic |  
+| bip_39_word_new_line2 | code
+border |  
+| bip_39_word_new_line3 | code
+border
+arrest |  
+| bip_39_word_new_line4 | code
+border
+arrest
+short |  
+| bip_39_word_new_line5 | code
+border
+arrest
+short
+barrel |  
+| bip_39_word_new_line6 | code
+border
+arrest
+short
+barrel
+slim |  
+| bip_39_word_new_line7 | code
+border
+arrest
+short
+barrel
+slim
+morning |  
+| bip_39_word_new_line8 | code
+border
+arrest
+short
+barrel
+slim
+morning
+raise |  
+| bip_39_word_new_line9 | code
+border
+arrest
+short
+barrel
+slim
+morning
+raise
+maple |  
+| bip_39_word_space_0 | ['code', 'border', 'arrest', 'short', 'barrel', 'slim', 'morning', 'raise', 'maple', 'gospel', 'hole', 'arctic'] |  
+| bip_39_word_space_1 | code |  
+| bip_39_word_space_10 | code border arrest short barrel slim morning raise maple gospel |  
+| bip_39_word_space_11 | code border arrest short barrel slim morning raise maple gospel hole |  
+| bip_39_word_space_12 | code border arrest short barrel slim morning raise maple gospel hole arctic |  
+| bip_39_word_space_2 | code border |  
+| bip_39_word_space_3 | code border arrest |  
+| bip_39_word_space_4 | code border arrest short |  
+| bip_39_word_space_5 | code border arrest short barrel |  
+| bip_39_word_space_6 | code border arrest short barrel slim |  
+| bip_39_word_space_7 | code border arrest short barrel slim morning |  
+| bip_39_word_space_8 | code border arrest short barrel slim morning raise |  
+| bip_39_word_space_9 | code border arrest short barrel slim morning raise maple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

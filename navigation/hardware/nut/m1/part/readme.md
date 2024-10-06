@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: notice rabbit
+  * bip 39 word 3: notice rabbit fortune
+  * bip 39 word: notice rabbit fortune crumble later solid december feed pottery phone monster august
 
 ### other_codes
 * short_code: n1m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | notice |  
+| bip_39_word_new_br10 | notice<br>rabbit<br>fortune<br>crumble<br>later<br>solid<br>december<br>feed<br>pottery<br>phone |  
+| bip_39_word_new_br11 | notice<br>rabbit<br>fortune<br>crumble<br>later<br>solid<br>december<br>feed<br>pottery<br>phone<br>monster |  
+| bip_39_word_new_br12 | notice<br>rabbit<br>fortune<br>crumble<br>later<br>solid<br>december<br>feed<br>pottery<br>phone<br>monster<br>august |  
+| bip_39_word_new_br2 | notice<br>rabbit |  
+| bip_39_word_new_br3 | notice<br>rabbit<br>fortune |  
+| bip_39_word_new_br4 | notice<br>rabbit<br>fortune<br>crumble |  
+| bip_39_word_new_br5 | notice<br>rabbit<br>fortune<br>crumble<br>later |  
+| bip_39_word_new_br6 | notice<br>rabbit<br>fortune<br>crumble<br>later<br>solid |  
+| bip_39_word_new_br7 | notice<br>rabbit<br>fortune<br>crumble<br>later<br>solid<br>december |  
+| bip_39_word_new_br8 | notice<br>rabbit<br>fortune<br>crumble<br>later<br>solid<br>december<br>feed |  
+| bip_39_word_new_br9 | notice<br>rabbit<br>fortune<br>crumble<br>later<br>solid<br>december<br>feed<br>pottery |  
+| bip_39_word_new_line1 | notice |  
+| bip_39_word_new_line10 | notice
+rabbit
+fortune
+crumble
+later
+solid
+december
+feed
+pottery
+phone |  
+| bip_39_word_new_line11 | notice
+rabbit
+fortune
+crumble
+later
+solid
+december
+feed
+pottery
+phone
+monster |  
+| bip_39_word_new_line12 | notice
+rabbit
+fortune
+crumble
+later
+solid
+december
+feed
+pottery
+phone
+monster
+august |  
+| bip_39_word_new_line2 | notice
+rabbit |  
+| bip_39_word_new_line3 | notice
+rabbit
+fortune |  
+| bip_39_word_new_line4 | notice
+rabbit
+fortune
+crumble |  
+| bip_39_word_new_line5 | notice
+rabbit
+fortune
+crumble
+later |  
+| bip_39_word_new_line6 | notice
+rabbit
+fortune
+crumble
+later
+solid |  
+| bip_39_word_new_line7 | notice
+rabbit
+fortune
+crumble
+later
+solid
+december |  
+| bip_39_word_new_line8 | notice
+rabbit
+fortune
+crumble
+later
+solid
+december
+feed |  
+| bip_39_word_new_line9 | notice
+rabbit
+fortune
+crumble
+later
+solid
+december
+feed
+pottery |  
+| bip_39_word_space_0 | ['notice', 'rabbit', 'fortune', 'crumble', 'later', 'solid', 'december', 'feed', 'pottery', 'phone', 'monster', 'august'] |  
+| bip_39_word_space_1 | notice |  
+| bip_39_word_space_10 | notice rabbit fortune crumble later solid december feed pottery phone |  
+| bip_39_word_space_11 | notice rabbit fortune crumble later solid december feed pottery phone monster |  
+| bip_39_word_space_12 | notice rabbit fortune crumble later solid december feed pottery phone monster august |  
+| bip_39_word_space_2 | notice rabbit |  
+| bip_39_word_space_3 | notice rabbit fortune |  
+| bip_39_word_space_4 | notice rabbit fortune crumble |  
+| bip_39_word_space_5 | notice rabbit fortune crumble later |  
+| bip_39_word_space_6 | notice rabbit fortune crumble later solid |  
+| bip_39_word_space_7 | notice rabbit fortune crumble later solid december |  
+| bip_39_word_space_8 | notice rabbit fortune crumble later solid december feed |  
+| bip_39_word_space_9 | notice rabbit fortune crumble later solid december feed pottery |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

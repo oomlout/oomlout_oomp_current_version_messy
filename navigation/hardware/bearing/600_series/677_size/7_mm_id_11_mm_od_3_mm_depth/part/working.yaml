@@ -1,3 +1,187 @@
+bip_39_word_new_br1: bargain
+bip_39_word_new_br10: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense
+bip_39_word_new_br11: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense<br>normal
+bip_39_word_new_br12: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery<br>sense<br>normal<br>arm
+bip_39_word_new_br2: bargain<br>useless
+bip_39_word_new_br3: bargain<br>useless<br>awake
+bip_39_word_new_br4: bargain<br>useless<br>awake<br>vapor
+bip_39_word_new_br5: bargain<br>useless<br>awake<br>vapor<br>brain
+bip_39_word_new_br6: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch
+bip_39_word_new_br7: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect
+bip_39_word_new_br8: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean
+bip_39_word_new_br9: bargain<br>useless<br>awake<br>vapor<br>brain<br>patch<br>aspect<br>bean<br>gallery
+bip_39_word_new_line1: bargain
+bip_39_word_new_line10: 'bargain
+
+  useless
+
+  awake
+
+  vapor
+
+  brain
+
+  patch
+
+  aspect
+
+  bean
+
+  gallery
+
+  sense'
+bip_39_word_new_line11: 'bargain
+
+  useless
+
+  awake
+
+  vapor
+
+  brain
+
+  patch
+
+  aspect
+
+  bean
+
+  gallery
+
+  sense
+
+  normal'
+bip_39_word_new_line12: 'bargain
+
+  useless
+
+  awake
+
+  vapor
+
+  brain
+
+  patch
+
+  aspect
+
+  bean
+
+  gallery
+
+  sense
+
+  normal
+
+  arm'
+bip_39_word_new_line2: 'bargain
+
+  useless'
+bip_39_word_new_line3: 'bargain
+
+  useless
+
+  awake'
+bip_39_word_new_line4: 'bargain
+
+  useless
+
+  awake
+
+  vapor'
+bip_39_word_new_line5: 'bargain
+
+  useless
+
+  awake
+
+  vapor
+
+  brain'
+bip_39_word_new_line6: 'bargain
+
+  useless
+
+  awake
+
+  vapor
+
+  brain
+
+  patch'
+bip_39_word_new_line7: 'bargain
+
+  useless
+
+  awake
+
+  vapor
+
+  brain
+
+  patch
+
+  aspect'
+bip_39_word_new_line8: 'bargain
+
+  useless
+
+  awake
+
+  vapor
+
+  brain
+
+  patch
+
+  aspect
+
+  bean'
+bip_39_word_new_line9: 'bargain
+
+  useless
+
+  awake
+
+  vapor
+
+  brain
+
+  patch
+
+  aspect
+
+  bean
+
+  gallery'
+bip_39_word_space_0:
+- bargain
+- useless
+- awake
+- vapor
+- brain
+- patch
+- aspect
+- bean
+- gallery
+- sense
+- normal
+- arm
+bip_39_word_space_1: bargain
+bip_39_word_space_10: bargain useless awake vapor brain patch aspect bean gallery
+  sense
+bip_39_word_space_11: bargain useless awake vapor brain patch aspect bean gallery
+  sense normal
+bip_39_word_space_12: bargain useless awake vapor brain patch aspect bean gallery
+  sense normal arm
+bip_39_word_space_2: bargain useless
+bip_39_word_space_3: bargain useless awake
+bip_39_word_space_4: bargain useless awake vapor
+bip_39_word_space_5: bargain useless awake vapor brain
+bip_39_word_space_6: bargain useless awake vapor brain patch
+bip_39_word_space_7: bargain useless awake vapor brain patch aspect
+bip_39_word_space_8: bargain useless awake vapor brain patch aspect bean
+bip_39_word_space_9: bargain useless awake vapor brain patch aspect bean gallery
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

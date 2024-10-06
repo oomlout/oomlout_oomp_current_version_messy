@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: everlight_elec
   * part_number: als_pt19
+  * bip 39 word 2: board senior
+  * bip 39 word 3: board senior often
+  * bip 39 word: board senior often food drill dice ugly empty brown trumpet erupt appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | board |  
+| bip_39_word_new_br10 | board<br>senior<br>often<br>food<br>drill<br>dice<br>ugly<br>empty<br>brown<br>trumpet |  
+| bip_39_word_new_br11 | board<br>senior<br>often<br>food<br>drill<br>dice<br>ugly<br>empty<br>brown<br>trumpet<br>erupt |  
+| bip_39_word_new_br12 | board<br>senior<br>often<br>food<br>drill<br>dice<br>ugly<br>empty<br>brown<br>trumpet<br>erupt<br>appear |  
+| bip_39_word_new_br2 | board<br>senior |  
+| bip_39_word_new_br3 | board<br>senior<br>often |  
+| bip_39_word_new_br4 | board<br>senior<br>often<br>food |  
+| bip_39_word_new_br5 | board<br>senior<br>often<br>food<br>drill |  
+| bip_39_word_new_br6 | board<br>senior<br>often<br>food<br>drill<br>dice |  
+| bip_39_word_new_br7 | board<br>senior<br>often<br>food<br>drill<br>dice<br>ugly |  
+| bip_39_word_new_br8 | board<br>senior<br>often<br>food<br>drill<br>dice<br>ugly<br>empty |  
+| bip_39_word_new_br9 | board<br>senior<br>often<br>food<br>drill<br>dice<br>ugly<br>empty<br>brown |  
+| bip_39_word_new_line1 | board |  
+| bip_39_word_new_line10 | board
+senior
+often
+food
+drill
+dice
+ugly
+empty
+brown
+trumpet |  
+| bip_39_word_new_line11 | board
+senior
+often
+food
+drill
+dice
+ugly
+empty
+brown
+trumpet
+erupt |  
+| bip_39_word_new_line12 | board
+senior
+often
+food
+drill
+dice
+ugly
+empty
+brown
+trumpet
+erupt
+appear |  
+| bip_39_word_new_line2 | board
+senior |  
+| bip_39_word_new_line3 | board
+senior
+often |  
+| bip_39_word_new_line4 | board
+senior
+often
+food |  
+| bip_39_word_new_line5 | board
+senior
+often
+food
+drill |  
+| bip_39_word_new_line6 | board
+senior
+often
+food
+drill
+dice |  
+| bip_39_word_new_line7 | board
+senior
+often
+food
+drill
+dice
+ugly |  
+| bip_39_word_new_line8 | board
+senior
+often
+food
+drill
+dice
+ugly
+empty |  
+| bip_39_word_new_line9 | board
+senior
+often
+food
+drill
+dice
+ugly
+empty
+brown |  
+| bip_39_word_space_0 | ['board', 'senior', 'often', 'food', 'drill', 'dice', 'ugly', 'empty', 'brown', 'trumpet', 'erupt', 'appear'] |  
+| bip_39_word_space_1 | board |  
+| bip_39_word_space_10 | board senior often food drill dice ugly empty brown trumpet |  
+| bip_39_word_space_11 | board senior often food drill dice ugly empty brown trumpet erupt |  
+| bip_39_word_space_12 | board senior often food drill dice ugly empty brown trumpet erupt appear |  
+| bip_39_word_space_2 | board senior |  
+| bip_39_word_space_3 | board senior often |  
+| bip_39_word_space_4 | board senior often food |  
+| bip_39_word_space_5 | board senior often food drill |  
+| bip_39_word_space_6 | board senior often food drill dice |  
+| bip_39_word_space_7 | board senior often food drill dice ugly |  
+| bip_39_word_space_8 | board senior often food drill dice ugly empty |  
+| bip_39_word_space_9 | board senior often food drill dice ugly empty brown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

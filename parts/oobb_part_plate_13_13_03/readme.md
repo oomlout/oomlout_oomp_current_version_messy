@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: olive nuclear
+  * bip 39 word 3: olive nuclear riot
+  * bip 39 word: olive nuclear riot build crane canoe question abandon accuse fee pledge avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | olive |  
+| bip_39_word_new_br10 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe<br>question<br>abandon<br>accuse<br>fee |  
+| bip_39_word_new_br11 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe<br>question<br>abandon<br>accuse<br>fee<br>pledge |  
+| bip_39_word_new_br12 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe<br>question<br>abandon<br>accuse<br>fee<br>pledge<br>avocado |  
+| bip_39_word_new_br2 | olive<br>nuclear |  
+| bip_39_word_new_br3 | olive<br>nuclear<br>riot |  
+| bip_39_word_new_br4 | olive<br>nuclear<br>riot<br>build |  
+| bip_39_word_new_br5 | olive<br>nuclear<br>riot<br>build<br>crane |  
+| bip_39_word_new_br6 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe |  
+| bip_39_word_new_br7 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe<br>question |  
+| bip_39_word_new_br8 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe<br>question<br>abandon |  
+| bip_39_word_new_br9 | olive<br>nuclear<br>riot<br>build<br>crane<br>canoe<br>question<br>abandon<br>accuse |  
+| bip_39_word_new_line1 | olive |  
+| bip_39_word_new_line10 | olive
+nuclear
+riot
+build
+crane
+canoe
+question
+abandon
+accuse
+fee |  
+| bip_39_word_new_line11 | olive
+nuclear
+riot
+build
+crane
+canoe
+question
+abandon
+accuse
+fee
+pledge |  
+| bip_39_word_new_line12 | olive
+nuclear
+riot
+build
+crane
+canoe
+question
+abandon
+accuse
+fee
+pledge
+avocado |  
+| bip_39_word_new_line2 | olive
+nuclear |  
+| bip_39_word_new_line3 | olive
+nuclear
+riot |  
+| bip_39_word_new_line4 | olive
+nuclear
+riot
+build |  
+| bip_39_word_new_line5 | olive
+nuclear
+riot
+build
+crane |  
+| bip_39_word_new_line6 | olive
+nuclear
+riot
+build
+crane
+canoe |  
+| bip_39_word_new_line7 | olive
+nuclear
+riot
+build
+crane
+canoe
+question |  
+| bip_39_word_new_line8 | olive
+nuclear
+riot
+build
+crane
+canoe
+question
+abandon |  
+| bip_39_word_new_line9 | olive
+nuclear
+riot
+build
+crane
+canoe
+question
+abandon
+accuse |  
+| bip_39_word_space_0 | ['olive', 'nuclear', 'riot', 'build', 'crane', 'canoe', 'question', 'abandon', 'accuse', 'fee', 'pledge', 'avocado'] |  
+| bip_39_word_space_1 | olive |  
+| bip_39_word_space_10 | olive nuclear riot build crane canoe question abandon accuse fee |  
+| bip_39_word_space_11 | olive nuclear riot build crane canoe question abandon accuse fee pledge |  
+| bip_39_word_space_12 | olive nuclear riot build crane canoe question abandon accuse fee pledge avocado |  
+| bip_39_word_space_2 | olive nuclear |  
+| bip_39_word_space_3 | olive nuclear riot |  
+| bip_39_word_space_4 | olive nuclear riot build |  
+| bip_39_word_space_5 | olive nuclear riot build crane |  
+| bip_39_word_space_6 | olive nuclear riot build crane canoe |  
+| bip_39_word_space_7 | olive nuclear riot build crane canoe question |  
+| bip_39_word_space_8 | olive nuclear riot build crane canoe question abandon |  
+| bip_39_word_space_9 | olive nuclear riot build crane canoe question abandon accuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

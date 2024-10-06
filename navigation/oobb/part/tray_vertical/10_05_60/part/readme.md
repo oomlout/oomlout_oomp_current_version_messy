@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: timber wrestle
+  * bip 39 word 3: timber wrestle call
+  * bip 39 word: timber wrestle call quantum dove antenna oval swim drama gaze crane anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | timber |  
+| bip_39_word_new_br10 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna<br>oval<br>swim<br>drama<br>gaze |  
+| bip_39_word_new_br11 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna<br>oval<br>swim<br>drama<br>gaze<br>crane |  
+| bip_39_word_new_br12 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna<br>oval<br>swim<br>drama<br>gaze<br>crane<br>anchor |  
+| bip_39_word_new_br2 | timber<br>wrestle |  
+| bip_39_word_new_br3 | timber<br>wrestle<br>call |  
+| bip_39_word_new_br4 | timber<br>wrestle<br>call<br>quantum |  
+| bip_39_word_new_br5 | timber<br>wrestle<br>call<br>quantum<br>dove |  
+| bip_39_word_new_br6 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna |  
+| bip_39_word_new_br7 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna<br>oval |  
+| bip_39_word_new_br8 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna<br>oval<br>swim |  
+| bip_39_word_new_br9 | timber<br>wrestle<br>call<br>quantum<br>dove<br>antenna<br>oval<br>swim<br>drama |  
+| bip_39_word_new_line1 | timber |  
+| bip_39_word_new_line10 | timber
+wrestle
+call
+quantum
+dove
+antenna
+oval
+swim
+drama
+gaze |  
+| bip_39_word_new_line11 | timber
+wrestle
+call
+quantum
+dove
+antenna
+oval
+swim
+drama
+gaze
+crane |  
+| bip_39_word_new_line12 | timber
+wrestle
+call
+quantum
+dove
+antenna
+oval
+swim
+drama
+gaze
+crane
+anchor |  
+| bip_39_word_new_line2 | timber
+wrestle |  
+| bip_39_word_new_line3 | timber
+wrestle
+call |  
+| bip_39_word_new_line4 | timber
+wrestle
+call
+quantum |  
+| bip_39_word_new_line5 | timber
+wrestle
+call
+quantum
+dove |  
+| bip_39_word_new_line6 | timber
+wrestle
+call
+quantum
+dove
+antenna |  
+| bip_39_word_new_line7 | timber
+wrestle
+call
+quantum
+dove
+antenna
+oval |  
+| bip_39_word_new_line8 | timber
+wrestle
+call
+quantum
+dove
+antenna
+oval
+swim |  
+| bip_39_word_new_line9 | timber
+wrestle
+call
+quantum
+dove
+antenna
+oval
+swim
+drama |  
+| bip_39_word_space_0 | ['timber', 'wrestle', 'call', 'quantum', 'dove', 'antenna', 'oval', 'swim', 'drama', 'gaze', 'crane', 'anchor'] |  
+| bip_39_word_space_1 | timber |  
+| bip_39_word_space_10 | timber wrestle call quantum dove antenna oval swim drama gaze |  
+| bip_39_word_space_11 | timber wrestle call quantum dove antenna oval swim drama gaze crane |  
+| bip_39_word_space_12 | timber wrestle call quantum dove antenna oval swim drama gaze crane anchor |  
+| bip_39_word_space_2 | timber wrestle |  
+| bip_39_word_space_3 | timber wrestle call |  
+| bip_39_word_space_4 | timber wrestle call quantum |  
+| bip_39_word_space_5 | timber wrestle call quantum dove |  
+| bip_39_word_space_6 | timber wrestle call quantum dove antenna |  
+| bip_39_word_space_7 | timber wrestle call quantum dove antenna oval |  
+| bip_39_word_space_8 | timber wrestle call quantum dove antenna oval swim |  
+| bip_39_word_space_9 | timber wrestle call quantum dove antenna oval swim drama |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

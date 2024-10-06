@@ -1,3 +1,187 @@
+bip_39_word_new_br1: amount
+bip_39_word_new_br10: amount<br>alcohol<br>squeeze<br>boy<br>lecture<br>drastic<br>aware<br>tide<br>flower<br>dolphin
+bip_39_word_new_br11: amount<br>alcohol<br>squeeze<br>boy<br>lecture<br>drastic<br>aware<br>tide<br>flower<br>dolphin<br>tape
+bip_39_word_new_br12: amount<br>alcohol<br>squeeze<br>boy<br>lecture<br>drastic<br>aware<br>tide<br>flower<br>dolphin<br>tape<br>analyst
+bip_39_word_new_br2: amount<br>alcohol
+bip_39_word_new_br3: amount<br>alcohol<br>squeeze
+bip_39_word_new_br4: amount<br>alcohol<br>squeeze<br>boy
+bip_39_word_new_br5: amount<br>alcohol<br>squeeze<br>boy<br>lecture
+bip_39_word_new_br6: amount<br>alcohol<br>squeeze<br>boy<br>lecture<br>drastic
+bip_39_word_new_br7: amount<br>alcohol<br>squeeze<br>boy<br>lecture<br>drastic<br>aware
+bip_39_word_new_br8: amount<br>alcohol<br>squeeze<br>boy<br>lecture<br>drastic<br>aware<br>tide
+bip_39_word_new_br9: amount<br>alcohol<br>squeeze<br>boy<br>lecture<br>drastic<br>aware<br>tide<br>flower
+bip_39_word_new_line1: amount
+bip_39_word_new_line10: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy
+
+  lecture
+
+  drastic
+
+  aware
+
+  tide
+
+  flower
+
+  dolphin'
+bip_39_word_new_line11: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy
+
+  lecture
+
+  drastic
+
+  aware
+
+  tide
+
+  flower
+
+  dolphin
+
+  tape'
+bip_39_word_new_line12: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy
+
+  lecture
+
+  drastic
+
+  aware
+
+  tide
+
+  flower
+
+  dolphin
+
+  tape
+
+  analyst'
+bip_39_word_new_line2: 'amount
+
+  alcohol'
+bip_39_word_new_line3: 'amount
+
+  alcohol
+
+  squeeze'
+bip_39_word_new_line4: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy'
+bip_39_word_new_line5: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy
+
+  lecture'
+bip_39_word_new_line6: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy
+
+  lecture
+
+  drastic'
+bip_39_word_new_line7: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy
+
+  lecture
+
+  drastic
+
+  aware'
+bip_39_word_new_line8: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy
+
+  lecture
+
+  drastic
+
+  aware
+
+  tide'
+bip_39_word_new_line9: 'amount
+
+  alcohol
+
+  squeeze
+
+  boy
+
+  lecture
+
+  drastic
+
+  aware
+
+  tide
+
+  flower'
+bip_39_word_space_0:
+- amount
+- alcohol
+- squeeze
+- boy
+- lecture
+- drastic
+- aware
+- tide
+- flower
+- dolphin
+- tape
+- analyst
+bip_39_word_space_1: amount
+bip_39_word_space_10: amount alcohol squeeze boy lecture drastic aware tide flower
+  dolphin
+bip_39_word_space_11: amount alcohol squeeze boy lecture drastic aware tide flower
+  dolphin tape
+bip_39_word_space_12: amount alcohol squeeze boy lecture drastic aware tide flower
+  dolphin tape analyst
+bip_39_word_space_2: amount alcohol
+bip_39_word_space_3: amount alcohol squeeze
+bip_39_word_space_4: amount alcohol squeeze boy
+bip_39_word_space_5: amount alcohol squeeze boy lecture
+bip_39_word_space_6: amount alcohol squeeze boy lecture drastic
+bip_39_word_space_7: amount alcohol squeeze boy lecture drastic aware
+bip_39_word_space_8: amount alcohol squeeze boy lecture drastic aware tide
+bip_39_word_space_9: amount alcohol squeeze boy lecture drastic aware tide flower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

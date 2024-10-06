@@ -1,3 +1,186 @@
+bip_39_word_new_br1: eagle
+bip_39_word_new_br10: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch<br>sniff
+bip_39_word_new_br11: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch<br>sniff<br>cotton
+bip_39_word_new_br12: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch<br>sniff<br>cotton<br>amount
+bip_39_word_new_br2: eagle<br>around
+bip_39_word_new_br3: eagle<br>around<br>kiss
+bip_39_word_new_br4: eagle<br>around<br>kiss<br>reject
+bip_39_word_new_br5: eagle<br>around<br>kiss<br>reject<br>tank
+bip_39_word_new_br6: eagle<br>around<br>kiss<br>reject<br>tank<br>topple
+bip_39_word_new_br7: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic
+bip_39_word_new_br8: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry
+bip_39_word_new_br9: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch
+bip_39_word_new_line1: eagle
+bip_39_word_new_line10: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry
+
+  inch
+
+  sniff'
+bip_39_word_new_line11: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry
+
+  inch
+
+  sniff
+
+  cotton'
+bip_39_word_new_line12: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry
+
+  inch
+
+  sniff
+
+  cotton
+
+  amount'
+bip_39_word_new_line2: 'eagle
+
+  around'
+bip_39_word_new_line3: 'eagle
+
+  around
+
+  kiss'
+bip_39_word_new_line4: 'eagle
+
+  around
+
+  kiss
+
+  reject'
+bip_39_word_new_line5: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank'
+bip_39_word_new_line6: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple'
+bip_39_word_new_line7: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic'
+bip_39_word_new_line8: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry'
+bip_39_word_new_line9: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry
+
+  inch'
+bip_39_word_space_0:
+- eagle
+- around
+- kiss
+- reject
+- tank
+- topple
+- arctic
+- laundry
+- inch
+- sniff
+- cotton
+- amount
+bip_39_word_space_1: eagle
+bip_39_word_space_10: eagle around kiss reject tank topple arctic laundry inch sniff
+bip_39_word_space_11: eagle around kiss reject tank topple arctic laundry inch sniff
+  cotton
+bip_39_word_space_12: eagle around kiss reject tank topple arctic laundry inch sniff
+  cotton amount
+bip_39_word_space_2: eagle around
+bip_39_word_space_3: eagle around kiss
+bip_39_word_space_4: eagle around kiss reject
+bip_39_word_space_5: eagle around kiss reject tank
+bip_39_word_space_6: eagle around kiss reject tank topple
+bip_39_word_space_7: eagle around kiss reject tank topple arctic
+bip_39_word_space_8: eagle around kiss reject tank topple arctic laundry
+bip_39_word_space_9: eagle around kiss reject tank topple arctic laundry inch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

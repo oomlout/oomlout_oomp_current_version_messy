@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cruel
+bip_39_word_new_br10: cruel<br>mad<br>improve<br>shed<br>clever<br>height<br>bar<br>decade<br>stable<br>time
+bip_39_word_new_br11: cruel<br>mad<br>improve<br>shed<br>clever<br>height<br>bar<br>decade<br>stable<br>time<br>wood
+bip_39_word_new_br12: cruel<br>mad<br>improve<br>shed<br>clever<br>height<br>bar<br>decade<br>stable<br>time<br>wood<br>attend
+bip_39_word_new_br2: cruel<br>mad
+bip_39_word_new_br3: cruel<br>mad<br>improve
+bip_39_word_new_br4: cruel<br>mad<br>improve<br>shed
+bip_39_word_new_br5: cruel<br>mad<br>improve<br>shed<br>clever
+bip_39_word_new_br6: cruel<br>mad<br>improve<br>shed<br>clever<br>height
+bip_39_word_new_br7: cruel<br>mad<br>improve<br>shed<br>clever<br>height<br>bar
+bip_39_word_new_br8: cruel<br>mad<br>improve<br>shed<br>clever<br>height<br>bar<br>decade
+bip_39_word_new_br9: cruel<br>mad<br>improve<br>shed<br>clever<br>height<br>bar<br>decade<br>stable
+bip_39_word_new_line1: cruel
+bip_39_word_new_line10: 'cruel
+
+  mad
+
+  improve
+
+  shed
+
+  clever
+
+  height
+
+  bar
+
+  decade
+
+  stable
+
+  time'
+bip_39_word_new_line11: 'cruel
+
+  mad
+
+  improve
+
+  shed
+
+  clever
+
+  height
+
+  bar
+
+  decade
+
+  stable
+
+  time
+
+  wood'
+bip_39_word_new_line12: 'cruel
+
+  mad
+
+  improve
+
+  shed
+
+  clever
+
+  height
+
+  bar
+
+  decade
+
+  stable
+
+  time
+
+  wood
+
+  attend'
+bip_39_word_new_line2: 'cruel
+
+  mad'
+bip_39_word_new_line3: 'cruel
+
+  mad
+
+  improve'
+bip_39_word_new_line4: 'cruel
+
+  mad
+
+  improve
+
+  shed'
+bip_39_word_new_line5: 'cruel
+
+  mad
+
+  improve
+
+  shed
+
+  clever'
+bip_39_word_new_line6: 'cruel
+
+  mad
+
+  improve
+
+  shed
+
+  clever
+
+  height'
+bip_39_word_new_line7: 'cruel
+
+  mad
+
+  improve
+
+  shed
+
+  clever
+
+  height
+
+  bar'
+bip_39_word_new_line8: 'cruel
+
+  mad
+
+  improve
+
+  shed
+
+  clever
+
+  height
+
+  bar
+
+  decade'
+bip_39_word_new_line9: 'cruel
+
+  mad
+
+  improve
+
+  shed
+
+  clever
+
+  height
+
+  bar
+
+  decade
+
+  stable'
+bip_39_word_space_0:
+- cruel
+- mad
+- improve
+- shed
+- clever
+- height
+- bar
+- decade
+- stable
+- time
+- wood
+- attend
+bip_39_word_space_1: cruel
+bip_39_word_space_10: cruel mad improve shed clever height bar decade stable time
+bip_39_word_space_11: cruel mad improve shed clever height bar decade stable time
+  wood
+bip_39_word_space_12: cruel mad improve shed clever height bar decade stable time
+  wood attend
+bip_39_word_space_2: cruel mad
+bip_39_word_space_3: cruel mad improve
+bip_39_word_space_4: cruel mad improve shed
+bip_39_word_space_5: cruel mad improve shed clever
+bip_39_word_space_6: cruel mad improve shed clever height
+bip_39_word_space_7: cruel mad improve shed clever height bar
+bip_39_word_space_8: cruel mad improve shed clever height bar decade
+bip_39_word_space_9: cruel mad improve shed clever height bar decade stable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

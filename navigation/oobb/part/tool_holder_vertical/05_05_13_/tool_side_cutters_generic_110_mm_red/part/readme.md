@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_side_cutters_generic_110_mm_red
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: concert brisk
+  * bip 39 word 3: concert brisk abandon
+  * bip 39 word: concert brisk abandon valley indicate tunnel broccoli decline fossil slogan potato alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | concert |  
+| bip_39_word_new_br10 | concert<br>brisk<br>abandon<br>valley<br>indicate<br>tunnel<br>broccoli<br>decline<br>fossil<br>slogan |  
+| bip_39_word_new_br11 | concert<br>brisk<br>abandon<br>valley<br>indicate<br>tunnel<br>broccoli<br>decline<br>fossil<br>slogan<br>potato |  
+| bip_39_word_new_br12 | concert<br>brisk<br>abandon<br>valley<br>indicate<br>tunnel<br>broccoli<br>decline<br>fossil<br>slogan<br>potato<br>alcohol |  
+| bip_39_word_new_br2 | concert<br>brisk |  
+| bip_39_word_new_br3 | concert<br>brisk<br>abandon |  
+| bip_39_word_new_br4 | concert<br>brisk<br>abandon<br>valley |  
+| bip_39_word_new_br5 | concert<br>brisk<br>abandon<br>valley<br>indicate |  
+| bip_39_word_new_br6 | concert<br>brisk<br>abandon<br>valley<br>indicate<br>tunnel |  
+| bip_39_word_new_br7 | concert<br>brisk<br>abandon<br>valley<br>indicate<br>tunnel<br>broccoli |  
+| bip_39_word_new_br8 | concert<br>brisk<br>abandon<br>valley<br>indicate<br>tunnel<br>broccoli<br>decline |  
+| bip_39_word_new_br9 | concert<br>brisk<br>abandon<br>valley<br>indicate<br>tunnel<br>broccoli<br>decline<br>fossil |  
+| bip_39_word_new_line1 | concert |  
+| bip_39_word_new_line10 | concert
+brisk
+abandon
+valley
+indicate
+tunnel
+broccoli
+decline
+fossil
+slogan |  
+| bip_39_word_new_line11 | concert
+brisk
+abandon
+valley
+indicate
+tunnel
+broccoli
+decline
+fossil
+slogan
+potato |  
+| bip_39_word_new_line12 | concert
+brisk
+abandon
+valley
+indicate
+tunnel
+broccoli
+decline
+fossil
+slogan
+potato
+alcohol |  
+| bip_39_word_new_line2 | concert
+brisk |  
+| bip_39_word_new_line3 | concert
+brisk
+abandon |  
+| bip_39_word_new_line4 | concert
+brisk
+abandon
+valley |  
+| bip_39_word_new_line5 | concert
+brisk
+abandon
+valley
+indicate |  
+| bip_39_word_new_line6 | concert
+brisk
+abandon
+valley
+indicate
+tunnel |  
+| bip_39_word_new_line7 | concert
+brisk
+abandon
+valley
+indicate
+tunnel
+broccoli |  
+| bip_39_word_new_line8 | concert
+brisk
+abandon
+valley
+indicate
+tunnel
+broccoli
+decline |  
+| bip_39_word_new_line9 | concert
+brisk
+abandon
+valley
+indicate
+tunnel
+broccoli
+decline
+fossil |  
+| bip_39_word_space_0 | ['concert', 'brisk', 'abandon', 'valley', 'indicate', 'tunnel', 'broccoli', 'decline', 'fossil', 'slogan', 'potato', 'alcohol'] |  
+| bip_39_word_space_1 | concert |  
+| bip_39_word_space_10 | concert brisk abandon valley indicate tunnel broccoli decline fossil slogan |  
+| bip_39_word_space_11 | concert brisk abandon valley indicate tunnel broccoli decline fossil slogan potato |  
+| bip_39_word_space_12 | concert brisk abandon valley indicate tunnel broccoli decline fossil slogan potato alcohol |  
+| bip_39_word_space_2 | concert brisk |  
+| bip_39_word_space_3 | concert brisk abandon |  
+| bip_39_word_space_4 | concert brisk abandon valley |  
+| bip_39_word_space_5 | concert brisk abandon valley indicate |  
+| bip_39_word_space_6 | concert brisk abandon valley indicate tunnel |  
+| bip_39_word_space_7 | concert brisk abandon valley indicate tunnel broccoli |  
+| bip_39_word_space_8 | concert brisk abandon valley indicate tunnel broccoli decline |  
+| bip_39_word_space_9 | concert brisk abandon valley indicate tunnel broccoli decline fossil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

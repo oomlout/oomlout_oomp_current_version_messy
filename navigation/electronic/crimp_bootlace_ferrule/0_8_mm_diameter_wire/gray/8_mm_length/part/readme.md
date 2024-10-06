@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clock found
+  * bip 39 word 3: clock found glass
+  * bip 39 word: clock found glass never since split weasel auto vibrant good hidden across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clock |  
+| bip_39_word_new_br10 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good |  
+| bip_39_word_new_br11 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden |  
+| bip_39_word_new_br12 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant<br>good<br>hidden<br>across |  
+| bip_39_word_new_br2 | clock<br>found |  
+| bip_39_word_new_br3 | clock<br>found<br>glass |  
+| bip_39_word_new_br4 | clock<br>found<br>glass<br>never |  
+| bip_39_word_new_br5 | clock<br>found<br>glass<br>never<br>since |  
+| bip_39_word_new_br6 | clock<br>found<br>glass<br>never<br>since<br>split |  
+| bip_39_word_new_br7 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel |  
+| bip_39_word_new_br8 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto |  
+| bip_39_word_new_br9 | clock<br>found<br>glass<br>never<br>since<br>split<br>weasel<br>auto<br>vibrant |  
+| bip_39_word_new_line1 | clock |  
+| bip_39_word_new_line10 | clock
+found
+glass
+never
+since
+split
+weasel
+auto
+vibrant
+good |  
+| bip_39_word_new_line11 | clock
+found
+glass
+never
+since
+split
+weasel
+auto
+vibrant
+good
+hidden |  
+| bip_39_word_new_line12 | clock
+found
+glass
+never
+since
+split
+weasel
+auto
+vibrant
+good
+hidden
+across |  
+| bip_39_word_new_line2 | clock
+found |  
+| bip_39_word_new_line3 | clock
+found
+glass |  
+| bip_39_word_new_line4 | clock
+found
+glass
+never |  
+| bip_39_word_new_line5 | clock
+found
+glass
+never
+since |  
+| bip_39_word_new_line6 | clock
+found
+glass
+never
+since
+split |  
+| bip_39_word_new_line7 | clock
+found
+glass
+never
+since
+split
+weasel |  
+| bip_39_word_new_line8 | clock
+found
+glass
+never
+since
+split
+weasel
+auto |  
+| bip_39_word_new_line9 | clock
+found
+glass
+never
+since
+split
+weasel
+auto
+vibrant |  
+| bip_39_word_space_0 | ['clock', 'found', 'glass', 'never', 'since', 'split', 'weasel', 'auto', 'vibrant', 'good', 'hidden', 'across'] |  
+| bip_39_word_space_1 | clock |  
+| bip_39_word_space_10 | clock found glass never since split weasel auto vibrant good |  
+| bip_39_word_space_11 | clock found glass never since split weasel auto vibrant good hidden |  
+| bip_39_word_space_12 | clock found glass never since split weasel auto vibrant good hidden across |  
+| bip_39_word_space_2 | clock found |  
+| bip_39_word_space_3 | clock found glass |  
+| bip_39_word_space_4 | clock found glass never |  
+| bip_39_word_space_5 | clock found glass never since |  
+| bip_39_word_space_6 | clock found glass never since split |  
+| bip_39_word_space_7 | clock found glass never since split weasel |  
+| bip_39_word_space_8 | clock found glass never since split weasel auto |  
+| bip_39_word_space_9 | clock found glass never since split weasel auto vibrant |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

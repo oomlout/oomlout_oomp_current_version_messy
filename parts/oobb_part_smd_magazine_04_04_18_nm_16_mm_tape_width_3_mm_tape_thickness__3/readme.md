@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mask glass
+  * bip 39 word 3: mask glass goose
+  * bip 39 word: mask glass goose adjust fire collect virus satoshi scare tackle ozone afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mask |  
+| bip_39_word_new_br10 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect<br>virus<br>satoshi<br>scare<br>tackle |  
+| bip_39_word_new_br11 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect<br>virus<br>satoshi<br>scare<br>tackle<br>ozone |  
+| bip_39_word_new_br12 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect<br>virus<br>satoshi<br>scare<br>tackle<br>ozone<br>afford |  
+| bip_39_word_new_br2 | mask<br>glass |  
+| bip_39_word_new_br3 | mask<br>glass<br>goose |  
+| bip_39_word_new_br4 | mask<br>glass<br>goose<br>adjust |  
+| bip_39_word_new_br5 | mask<br>glass<br>goose<br>adjust<br>fire |  
+| bip_39_word_new_br6 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect |  
+| bip_39_word_new_br7 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect<br>virus |  
+| bip_39_word_new_br8 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect<br>virus<br>satoshi |  
+| bip_39_word_new_br9 | mask<br>glass<br>goose<br>adjust<br>fire<br>collect<br>virus<br>satoshi<br>scare |  
+| bip_39_word_new_line1 | mask |  
+| bip_39_word_new_line10 | mask
+glass
+goose
+adjust
+fire
+collect
+virus
+satoshi
+scare
+tackle |  
+| bip_39_word_new_line11 | mask
+glass
+goose
+adjust
+fire
+collect
+virus
+satoshi
+scare
+tackle
+ozone |  
+| bip_39_word_new_line12 | mask
+glass
+goose
+adjust
+fire
+collect
+virus
+satoshi
+scare
+tackle
+ozone
+afford |  
+| bip_39_word_new_line2 | mask
+glass |  
+| bip_39_word_new_line3 | mask
+glass
+goose |  
+| bip_39_word_new_line4 | mask
+glass
+goose
+adjust |  
+| bip_39_word_new_line5 | mask
+glass
+goose
+adjust
+fire |  
+| bip_39_word_new_line6 | mask
+glass
+goose
+adjust
+fire
+collect |  
+| bip_39_word_new_line7 | mask
+glass
+goose
+adjust
+fire
+collect
+virus |  
+| bip_39_word_new_line8 | mask
+glass
+goose
+adjust
+fire
+collect
+virus
+satoshi |  
+| bip_39_word_new_line9 | mask
+glass
+goose
+adjust
+fire
+collect
+virus
+satoshi
+scare |  
+| bip_39_word_space_0 | ['mask', 'glass', 'goose', 'adjust', 'fire', 'collect', 'virus', 'satoshi', 'scare', 'tackle', 'ozone', 'afford'] |  
+| bip_39_word_space_1 | mask |  
+| bip_39_word_space_10 | mask glass goose adjust fire collect virus satoshi scare tackle |  
+| bip_39_word_space_11 | mask glass goose adjust fire collect virus satoshi scare tackle ozone |  
+| bip_39_word_space_12 | mask glass goose adjust fire collect virus satoshi scare tackle ozone afford |  
+| bip_39_word_space_2 | mask glass |  
+| bip_39_word_space_3 | mask glass goose |  
+| bip_39_word_space_4 | mask glass goose adjust |  
+| bip_39_word_space_5 | mask glass goose adjust fire |  
+| bip_39_word_space_6 | mask glass goose adjust fire collect |  
+| bip_39_word_space_7 | mask glass goose adjust fire collect virus |  
+| bip_39_word_space_8 | mask glass goose adjust fire collect virus satoshi |  
+| bip_39_word_space_9 | mask glass goose adjust fire collect virus satoshi scare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

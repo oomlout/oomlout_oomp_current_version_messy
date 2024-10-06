@@ -1,3 +1,187 @@
+bip_39_word_new_br1: foot
+bip_39_word_new_br10: foot<br>unusual<br>crystal<br>range<br>vanish<br>punch<br>pottery<br>obey<br>carbon<br>future
+bip_39_word_new_br11: foot<br>unusual<br>crystal<br>range<br>vanish<br>punch<br>pottery<br>obey<br>carbon<br>future<br>ginger
+bip_39_word_new_br12: foot<br>unusual<br>crystal<br>range<br>vanish<br>punch<br>pottery<br>obey<br>carbon<br>future<br>ginger<br>accident
+bip_39_word_new_br2: foot<br>unusual
+bip_39_word_new_br3: foot<br>unusual<br>crystal
+bip_39_word_new_br4: foot<br>unusual<br>crystal<br>range
+bip_39_word_new_br5: foot<br>unusual<br>crystal<br>range<br>vanish
+bip_39_word_new_br6: foot<br>unusual<br>crystal<br>range<br>vanish<br>punch
+bip_39_word_new_br7: foot<br>unusual<br>crystal<br>range<br>vanish<br>punch<br>pottery
+bip_39_word_new_br8: foot<br>unusual<br>crystal<br>range<br>vanish<br>punch<br>pottery<br>obey
+bip_39_word_new_br9: foot<br>unusual<br>crystal<br>range<br>vanish<br>punch<br>pottery<br>obey<br>carbon
+bip_39_word_new_line1: foot
+bip_39_word_new_line10: 'foot
+
+  unusual
+
+  crystal
+
+  range
+
+  vanish
+
+  punch
+
+  pottery
+
+  obey
+
+  carbon
+
+  future'
+bip_39_word_new_line11: 'foot
+
+  unusual
+
+  crystal
+
+  range
+
+  vanish
+
+  punch
+
+  pottery
+
+  obey
+
+  carbon
+
+  future
+
+  ginger'
+bip_39_word_new_line12: 'foot
+
+  unusual
+
+  crystal
+
+  range
+
+  vanish
+
+  punch
+
+  pottery
+
+  obey
+
+  carbon
+
+  future
+
+  ginger
+
+  accident'
+bip_39_word_new_line2: 'foot
+
+  unusual'
+bip_39_word_new_line3: 'foot
+
+  unusual
+
+  crystal'
+bip_39_word_new_line4: 'foot
+
+  unusual
+
+  crystal
+
+  range'
+bip_39_word_new_line5: 'foot
+
+  unusual
+
+  crystal
+
+  range
+
+  vanish'
+bip_39_word_new_line6: 'foot
+
+  unusual
+
+  crystal
+
+  range
+
+  vanish
+
+  punch'
+bip_39_word_new_line7: 'foot
+
+  unusual
+
+  crystal
+
+  range
+
+  vanish
+
+  punch
+
+  pottery'
+bip_39_word_new_line8: 'foot
+
+  unusual
+
+  crystal
+
+  range
+
+  vanish
+
+  punch
+
+  pottery
+
+  obey'
+bip_39_word_new_line9: 'foot
+
+  unusual
+
+  crystal
+
+  range
+
+  vanish
+
+  punch
+
+  pottery
+
+  obey
+
+  carbon'
+bip_39_word_space_0:
+- foot
+- unusual
+- crystal
+- range
+- vanish
+- punch
+- pottery
+- obey
+- carbon
+- future
+- ginger
+- accident
+bip_39_word_space_1: foot
+bip_39_word_space_10: foot unusual crystal range vanish punch pottery obey carbon
+  future
+bip_39_word_space_11: foot unusual crystal range vanish punch pottery obey carbon
+  future ginger
+bip_39_word_space_12: foot unusual crystal range vanish punch pottery obey carbon
+  future ginger accident
+bip_39_word_space_2: foot unusual
+bip_39_word_space_3: foot unusual crystal
+bip_39_word_space_4: foot unusual crystal range
+bip_39_word_space_5: foot unusual crystal range vanish
+bip_39_word_space_6: foot unusual crystal range vanish punch
+bip_39_word_space_7: foot unusual crystal range vanish punch pottery
+bip_39_word_space_8: foot unusual crystal range vanish punch pottery obey
+bip_39_word_space_9: foot unusual crystal range vanish punch pottery obey carbon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

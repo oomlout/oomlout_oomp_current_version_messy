@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: air setup
+  * bip 39 word 3: air setup apart
+  * bip 39 word: air setup apart culture problem dad empty filter canoe spray explain appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | air |  
+| bip_39_word_new_br10 | air<br>setup<br>apart<br>culture<br>problem<br>dad<br>empty<br>filter<br>canoe<br>spray |  
+| bip_39_word_new_br11 | air<br>setup<br>apart<br>culture<br>problem<br>dad<br>empty<br>filter<br>canoe<br>spray<br>explain |  
+| bip_39_word_new_br12 | air<br>setup<br>apart<br>culture<br>problem<br>dad<br>empty<br>filter<br>canoe<br>spray<br>explain<br>appear |  
+| bip_39_word_new_br2 | air<br>setup |  
+| bip_39_word_new_br3 | air<br>setup<br>apart |  
+| bip_39_word_new_br4 | air<br>setup<br>apart<br>culture |  
+| bip_39_word_new_br5 | air<br>setup<br>apart<br>culture<br>problem |  
+| bip_39_word_new_br6 | air<br>setup<br>apart<br>culture<br>problem<br>dad |  
+| bip_39_word_new_br7 | air<br>setup<br>apart<br>culture<br>problem<br>dad<br>empty |  
+| bip_39_word_new_br8 | air<br>setup<br>apart<br>culture<br>problem<br>dad<br>empty<br>filter |  
+| bip_39_word_new_br9 | air<br>setup<br>apart<br>culture<br>problem<br>dad<br>empty<br>filter<br>canoe |  
+| bip_39_word_new_line1 | air |  
+| bip_39_word_new_line10 | air
+setup
+apart
+culture
+problem
+dad
+empty
+filter
+canoe
+spray |  
+| bip_39_word_new_line11 | air
+setup
+apart
+culture
+problem
+dad
+empty
+filter
+canoe
+spray
+explain |  
+| bip_39_word_new_line12 | air
+setup
+apart
+culture
+problem
+dad
+empty
+filter
+canoe
+spray
+explain
+appear |  
+| bip_39_word_new_line2 | air
+setup |  
+| bip_39_word_new_line3 | air
+setup
+apart |  
+| bip_39_word_new_line4 | air
+setup
+apart
+culture |  
+| bip_39_word_new_line5 | air
+setup
+apart
+culture
+problem |  
+| bip_39_word_new_line6 | air
+setup
+apart
+culture
+problem
+dad |  
+| bip_39_word_new_line7 | air
+setup
+apart
+culture
+problem
+dad
+empty |  
+| bip_39_word_new_line8 | air
+setup
+apart
+culture
+problem
+dad
+empty
+filter |  
+| bip_39_word_new_line9 | air
+setup
+apart
+culture
+problem
+dad
+empty
+filter
+canoe |  
+| bip_39_word_space_0 | ['air', 'setup', 'apart', 'culture', 'problem', 'dad', 'empty', 'filter', 'canoe', 'spray', 'explain', 'appear'] |  
+| bip_39_word_space_1 | air |  
+| bip_39_word_space_10 | air setup apart culture problem dad empty filter canoe spray |  
+| bip_39_word_space_11 | air setup apart culture problem dad empty filter canoe spray explain |  
+| bip_39_word_space_12 | air setup apart culture problem dad empty filter canoe spray explain appear |  
+| bip_39_word_space_2 | air setup |  
+| bip_39_word_space_3 | air setup apart |  
+| bip_39_word_space_4 | air setup apart culture |  
+| bip_39_word_space_5 | air setup apart culture problem |  
+| bip_39_word_space_6 | air setup apart culture problem dad |  
+| bip_39_word_space_7 | air setup apart culture problem dad empty |  
+| bip_39_word_space_8 | air setup apart culture problem dad empty filter |  
+| bip_39_word_space_9 | air setup apart culture problem dad empty filter canoe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

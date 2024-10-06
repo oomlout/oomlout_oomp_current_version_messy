@@ -1,3 +1,186 @@
+bip_39_word_new_br1: slight
+bip_39_word_new_br10: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial<br>shield
+bip_39_word_new_br11: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial<br>shield<br>pupil
+bip_39_word_new_br12: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial<br>shield<br>pupil<br>arm
+bip_39_word_new_br2: slight<br>reopen
+bip_39_word_new_br3: slight<br>reopen<br>purse
+bip_39_word_new_br4: slight<br>reopen<br>purse<br>half
+bip_39_word_new_br5: slight<br>reopen<br>purse<br>half<br>fossil
+bip_39_word_new_br6: slight<br>reopen<br>purse<br>half<br>fossil<br>humble
+bip_39_word_new_br7: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic
+bip_39_word_new_br8: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock
+bip_39_word_new_br9: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial
+bip_39_word_new_line1: slight
+bip_39_word_new_line10: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock
+
+  trial
+
+  shield'
+bip_39_word_new_line11: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock
+
+  trial
+
+  shield
+
+  pupil'
+bip_39_word_new_line12: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock
+
+  trial
+
+  shield
+
+  pupil
+
+  arm'
+bip_39_word_new_line2: 'slight
+
+  reopen'
+bip_39_word_new_line3: 'slight
+
+  reopen
+
+  purse'
+bip_39_word_new_line4: 'slight
+
+  reopen
+
+  purse
+
+  half'
+bip_39_word_new_line5: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil'
+bip_39_word_new_line6: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble'
+bip_39_word_new_line7: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic'
+bip_39_word_new_line8: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock'
+bip_39_word_new_line9: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock
+
+  trial'
+bip_39_word_space_0:
+- slight
+- reopen
+- purse
+- half
+- fossil
+- humble
+- mechanic
+- sock
+- trial
+- shield
+- pupil
+- arm
+bip_39_word_space_1: slight
+bip_39_word_space_10: slight reopen purse half fossil humble mechanic sock trial shield
+bip_39_word_space_11: slight reopen purse half fossil humble mechanic sock trial shield
+  pupil
+bip_39_word_space_12: slight reopen purse half fossil humble mechanic sock trial shield
+  pupil arm
+bip_39_word_space_2: slight reopen
+bip_39_word_space_3: slight reopen purse
+bip_39_word_space_4: slight reopen purse half
+bip_39_word_space_5: slight reopen purse half fossil
+bip_39_word_space_6: slight reopen purse half fossil humble
+bip_39_word_space_7: slight reopen purse half fossil humble mechanic
+bip_39_word_space_8: slight reopen purse half fossil humble mechanic sock
+bip_39_word_space_9: slight reopen purse half fossil humble mechanic sock trial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

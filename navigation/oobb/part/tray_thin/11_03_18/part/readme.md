@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fame cycle
+  * bip 39 word 3: fame cycle renew
+  * bip 39 word: fame cycle renew give border tray resource beef enact movie bacon arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fame |  
+| bip_39_word_new_br10 | fame<br>cycle<br>renew<br>give<br>border<br>tray<br>resource<br>beef<br>enact<br>movie |  
+| bip_39_word_new_br11 | fame<br>cycle<br>renew<br>give<br>border<br>tray<br>resource<br>beef<br>enact<br>movie<br>bacon |  
+| bip_39_word_new_br12 | fame<br>cycle<br>renew<br>give<br>border<br>tray<br>resource<br>beef<br>enact<br>movie<br>bacon<br>arrive |  
+| bip_39_word_new_br2 | fame<br>cycle |  
+| bip_39_word_new_br3 | fame<br>cycle<br>renew |  
+| bip_39_word_new_br4 | fame<br>cycle<br>renew<br>give |  
+| bip_39_word_new_br5 | fame<br>cycle<br>renew<br>give<br>border |  
+| bip_39_word_new_br6 | fame<br>cycle<br>renew<br>give<br>border<br>tray |  
+| bip_39_word_new_br7 | fame<br>cycle<br>renew<br>give<br>border<br>tray<br>resource |  
+| bip_39_word_new_br8 | fame<br>cycle<br>renew<br>give<br>border<br>tray<br>resource<br>beef |  
+| bip_39_word_new_br9 | fame<br>cycle<br>renew<br>give<br>border<br>tray<br>resource<br>beef<br>enact |  
+| bip_39_word_new_line1 | fame |  
+| bip_39_word_new_line10 | fame
+cycle
+renew
+give
+border
+tray
+resource
+beef
+enact
+movie |  
+| bip_39_word_new_line11 | fame
+cycle
+renew
+give
+border
+tray
+resource
+beef
+enact
+movie
+bacon |  
+| bip_39_word_new_line12 | fame
+cycle
+renew
+give
+border
+tray
+resource
+beef
+enact
+movie
+bacon
+arrive |  
+| bip_39_word_new_line2 | fame
+cycle |  
+| bip_39_word_new_line3 | fame
+cycle
+renew |  
+| bip_39_word_new_line4 | fame
+cycle
+renew
+give |  
+| bip_39_word_new_line5 | fame
+cycle
+renew
+give
+border |  
+| bip_39_word_new_line6 | fame
+cycle
+renew
+give
+border
+tray |  
+| bip_39_word_new_line7 | fame
+cycle
+renew
+give
+border
+tray
+resource |  
+| bip_39_word_new_line8 | fame
+cycle
+renew
+give
+border
+tray
+resource
+beef |  
+| bip_39_word_new_line9 | fame
+cycle
+renew
+give
+border
+tray
+resource
+beef
+enact |  
+| bip_39_word_space_0 | ['fame', 'cycle', 'renew', 'give', 'border', 'tray', 'resource', 'beef', 'enact', 'movie', 'bacon', 'arrive'] |  
+| bip_39_word_space_1 | fame |  
+| bip_39_word_space_10 | fame cycle renew give border tray resource beef enact movie |  
+| bip_39_word_space_11 | fame cycle renew give border tray resource beef enact movie bacon |  
+| bip_39_word_space_12 | fame cycle renew give border tray resource beef enact movie bacon arrive |  
+| bip_39_word_space_2 | fame cycle |  
+| bip_39_word_space_3 | fame cycle renew |  
+| bip_39_word_space_4 | fame cycle renew give |  
+| bip_39_word_space_5 | fame cycle renew give border |  
+| bip_39_word_space_6 | fame cycle renew give border tray |  
+| bip_39_word_space_7 | fame cycle renew give border tray resource |  
+| bip_39_word_space_8 | fame cycle renew give border tray resource beef |  
+| bip_39_word_space_9 | fame cycle renew give border tray resource beef enact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

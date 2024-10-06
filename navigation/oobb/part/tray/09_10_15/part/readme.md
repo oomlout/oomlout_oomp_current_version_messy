@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: assault disease
+  * bip 39 word 3: assault disease dilemma
+  * bip 39 word: assault disease dilemma mix catch capable slide alien brown quick reunion alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | assault |  
+| bip_39_word_new_br10 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable<br>slide<br>alien<br>brown<br>quick |  
+| bip_39_word_new_br11 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable<br>slide<br>alien<br>brown<br>quick<br>reunion |  
+| bip_39_word_new_br12 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable<br>slide<br>alien<br>brown<br>quick<br>reunion<br>alcohol |  
+| bip_39_word_new_br2 | assault<br>disease |  
+| bip_39_word_new_br3 | assault<br>disease<br>dilemma |  
+| bip_39_word_new_br4 | assault<br>disease<br>dilemma<br>mix |  
+| bip_39_word_new_br5 | assault<br>disease<br>dilemma<br>mix<br>catch |  
+| bip_39_word_new_br6 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable |  
+| bip_39_word_new_br7 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable<br>slide |  
+| bip_39_word_new_br8 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable<br>slide<br>alien |  
+| bip_39_word_new_br9 | assault<br>disease<br>dilemma<br>mix<br>catch<br>capable<br>slide<br>alien<br>brown |  
+| bip_39_word_new_line1 | assault |  
+| bip_39_word_new_line10 | assault
+disease
+dilemma
+mix
+catch
+capable
+slide
+alien
+brown
+quick |  
+| bip_39_word_new_line11 | assault
+disease
+dilemma
+mix
+catch
+capable
+slide
+alien
+brown
+quick
+reunion |  
+| bip_39_word_new_line12 | assault
+disease
+dilemma
+mix
+catch
+capable
+slide
+alien
+brown
+quick
+reunion
+alcohol |  
+| bip_39_word_new_line2 | assault
+disease |  
+| bip_39_word_new_line3 | assault
+disease
+dilemma |  
+| bip_39_word_new_line4 | assault
+disease
+dilemma
+mix |  
+| bip_39_word_new_line5 | assault
+disease
+dilemma
+mix
+catch |  
+| bip_39_word_new_line6 | assault
+disease
+dilemma
+mix
+catch
+capable |  
+| bip_39_word_new_line7 | assault
+disease
+dilemma
+mix
+catch
+capable
+slide |  
+| bip_39_word_new_line8 | assault
+disease
+dilemma
+mix
+catch
+capable
+slide
+alien |  
+| bip_39_word_new_line9 | assault
+disease
+dilemma
+mix
+catch
+capable
+slide
+alien
+brown |  
+| bip_39_word_space_0 | ['assault', 'disease', 'dilemma', 'mix', 'catch', 'capable', 'slide', 'alien', 'brown', 'quick', 'reunion', 'alcohol'] |  
+| bip_39_word_space_1 | assault |  
+| bip_39_word_space_10 | assault disease dilemma mix catch capable slide alien brown quick |  
+| bip_39_word_space_11 | assault disease dilemma mix catch capable slide alien brown quick reunion |  
+| bip_39_word_space_12 | assault disease dilemma mix catch capable slide alien brown quick reunion alcohol |  
+| bip_39_word_space_2 | assault disease |  
+| bip_39_word_space_3 | assault disease dilemma |  
+| bip_39_word_space_4 | assault disease dilemma mix |  
+| bip_39_word_space_5 | assault disease dilemma mix catch |  
+| bip_39_word_space_6 | assault disease dilemma mix catch capable |  
+| bip_39_word_space_7 | assault disease dilemma mix catch capable slide |  
+| bip_39_word_space_8 | assault disease dilemma mix catch capable slide alien |  
+| bip_39_word_space_9 | assault disease dilemma mix catch capable slide alien brown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

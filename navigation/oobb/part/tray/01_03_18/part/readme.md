@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chaos chalk
+  * bip 39 word 3: chaos chalk tiny
+  * bip 39 word: chaos chalk tiny object turtle cycle idea blouse vault symptom business alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chaos |  
+| bip_39_word_new_br10 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle<br>idea<br>blouse<br>vault<br>symptom |  
+| bip_39_word_new_br11 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle<br>idea<br>blouse<br>vault<br>symptom<br>business |  
+| bip_39_word_new_br12 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle<br>idea<br>blouse<br>vault<br>symptom<br>business<br>alter |  
+| bip_39_word_new_br2 | chaos<br>chalk |  
+| bip_39_word_new_br3 | chaos<br>chalk<br>tiny |  
+| bip_39_word_new_br4 | chaos<br>chalk<br>tiny<br>object |  
+| bip_39_word_new_br5 | chaos<br>chalk<br>tiny<br>object<br>turtle |  
+| bip_39_word_new_br6 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle |  
+| bip_39_word_new_br7 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle<br>idea |  
+| bip_39_word_new_br8 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle<br>idea<br>blouse |  
+| bip_39_word_new_br9 | chaos<br>chalk<br>tiny<br>object<br>turtle<br>cycle<br>idea<br>blouse<br>vault |  
+| bip_39_word_new_line1 | chaos |  
+| bip_39_word_new_line10 | chaos
+chalk
+tiny
+object
+turtle
+cycle
+idea
+blouse
+vault
+symptom |  
+| bip_39_word_new_line11 | chaos
+chalk
+tiny
+object
+turtle
+cycle
+idea
+blouse
+vault
+symptom
+business |  
+| bip_39_word_new_line12 | chaos
+chalk
+tiny
+object
+turtle
+cycle
+idea
+blouse
+vault
+symptom
+business
+alter |  
+| bip_39_word_new_line2 | chaos
+chalk |  
+| bip_39_word_new_line3 | chaos
+chalk
+tiny |  
+| bip_39_word_new_line4 | chaos
+chalk
+tiny
+object |  
+| bip_39_word_new_line5 | chaos
+chalk
+tiny
+object
+turtle |  
+| bip_39_word_new_line6 | chaos
+chalk
+tiny
+object
+turtle
+cycle |  
+| bip_39_word_new_line7 | chaos
+chalk
+tiny
+object
+turtle
+cycle
+idea |  
+| bip_39_word_new_line8 | chaos
+chalk
+tiny
+object
+turtle
+cycle
+idea
+blouse |  
+| bip_39_word_new_line9 | chaos
+chalk
+tiny
+object
+turtle
+cycle
+idea
+blouse
+vault |  
+| bip_39_word_space_0 | ['chaos', 'chalk', 'tiny', 'object', 'turtle', 'cycle', 'idea', 'blouse', 'vault', 'symptom', 'business', 'alter'] |  
+| bip_39_word_space_1 | chaos |  
+| bip_39_word_space_10 | chaos chalk tiny object turtle cycle idea blouse vault symptom |  
+| bip_39_word_space_11 | chaos chalk tiny object turtle cycle idea blouse vault symptom business |  
+| bip_39_word_space_12 | chaos chalk tiny object turtle cycle idea blouse vault symptom business alter |  
+| bip_39_word_space_2 | chaos chalk |  
+| bip_39_word_space_3 | chaos chalk tiny |  
+| bip_39_word_space_4 | chaos chalk tiny object |  
+| bip_39_word_space_5 | chaos chalk tiny object turtle |  
+| bip_39_word_space_6 | chaos chalk tiny object turtle cycle |  
+| bip_39_word_space_7 | chaos chalk tiny object turtle cycle idea |  
+| bip_39_word_space_8 | chaos chalk tiny object turtle cycle idea blouse |  
+| bip_39_word_space_9 | chaos chalk tiny object turtle cycle idea blouse vault |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

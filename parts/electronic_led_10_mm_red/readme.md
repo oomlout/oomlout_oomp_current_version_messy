@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coast diet
+  * bip 39 word 3: coast diet ready
+  * bip 39 word: coast diet ready side comic direct crime acquire ridge spare warfare august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coast |  
+| bip_39_word_new_br10 | coast<br>diet<br>ready<br>side<br>comic<br>direct<br>crime<br>acquire<br>ridge<br>spare |  
+| bip_39_word_new_br11 | coast<br>diet<br>ready<br>side<br>comic<br>direct<br>crime<br>acquire<br>ridge<br>spare<br>warfare |  
+| bip_39_word_new_br12 | coast<br>diet<br>ready<br>side<br>comic<br>direct<br>crime<br>acquire<br>ridge<br>spare<br>warfare<br>august |  
+| bip_39_word_new_br2 | coast<br>diet |  
+| bip_39_word_new_br3 | coast<br>diet<br>ready |  
+| bip_39_word_new_br4 | coast<br>diet<br>ready<br>side |  
+| bip_39_word_new_br5 | coast<br>diet<br>ready<br>side<br>comic |  
+| bip_39_word_new_br6 | coast<br>diet<br>ready<br>side<br>comic<br>direct |  
+| bip_39_word_new_br7 | coast<br>diet<br>ready<br>side<br>comic<br>direct<br>crime |  
+| bip_39_word_new_br8 | coast<br>diet<br>ready<br>side<br>comic<br>direct<br>crime<br>acquire |  
+| bip_39_word_new_br9 | coast<br>diet<br>ready<br>side<br>comic<br>direct<br>crime<br>acquire<br>ridge |  
+| bip_39_word_new_line1 | coast |  
+| bip_39_word_new_line10 | coast
+diet
+ready
+side
+comic
+direct
+crime
+acquire
+ridge
+spare |  
+| bip_39_word_new_line11 | coast
+diet
+ready
+side
+comic
+direct
+crime
+acquire
+ridge
+spare
+warfare |  
+| bip_39_word_new_line12 | coast
+diet
+ready
+side
+comic
+direct
+crime
+acquire
+ridge
+spare
+warfare
+august |  
+| bip_39_word_new_line2 | coast
+diet |  
+| bip_39_word_new_line3 | coast
+diet
+ready |  
+| bip_39_word_new_line4 | coast
+diet
+ready
+side |  
+| bip_39_word_new_line5 | coast
+diet
+ready
+side
+comic |  
+| bip_39_word_new_line6 | coast
+diet
+ready
+side
+comic
+direct |  
+| bip_39_word_new_line7 | coast
+diet
+ready
+side
+comic
+direct
+crime |  
+| bip_39_word_new_line8 | coast
+diet
+ready
+side
+comic
+direct
+crime
+acquire |  
+| bip_39_word_new_line9 | coast
+diet
+ready
+side
+comic
+direct
+crime
+acquire
+ridge |  
+| bip_39_word_space_0 | ['coast', 'diet', 'ready', 'side', 'comic', 'direct', 'crime', 'acquire', 'ridge', 'spare', 'warfare', 'august'] |  
+| bip_39_word_space_1 | coast |  
+| bip_39_word_space_10 | coast diet ready side comic direct crime acquire ridge spare |  
+| bip_39_word_space_11 | coast diet ready side comic direct crime acquire ridge spare warfare |  
+| bip_39_word_space_12 | coast diet ready side comic direct crime acquire ridge spare warfare august |  
+| bip_39_word_space_2 | coast diet |  
+| bip_39_word_space_3 | coast diet ready |  
+| bip_39_word_space_4 | coast diet ready side |  
+| bip_39_word_space_5 | coast diet ready side comic |  
+| bip_39_word_space_6 | coast diet ready side comic direct |  
+| bip_39_word_space_7 | coast diet ready side comic direct crime |  
+| bip_39_word_space_8 | coast diet ready side comic direct crime acquire |  
+| bip_39_word_space_9 | coast diet ready side comic direct crime acquire ridge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

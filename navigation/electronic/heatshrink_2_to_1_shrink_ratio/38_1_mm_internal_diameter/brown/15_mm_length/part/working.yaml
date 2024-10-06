@@ -1,3 +1,186 @@
+bip_39_word_new_br1: boss
+bip_39_word_new_br10: boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory
+bip_39_word_new_br11: boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory<br>chimney
+bip_39_word_new_br12: boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village<br>memory<br>chimney<br>above
+bip_39_word_new_br2: boss<br>all
+bip_39_word_new_br3: boss<br>all<br>illegal
+bip_39_word_new_br4: boss<br>all<br>illegal<br>gasp
+bip_39_word_new_br5: boss<br>all<br>illegal<br>gasp<br>mobile
+bip_39_word_new_br6: boss<br>all<br>illegal<br>gasp<br>mobile<br>oil
+bip_39_word_new_br7: boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch
+bip_39_word_new_br8: boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit
+bip_39_word_new_br9: boss<br>all<br>illegal<br>gasp<br>mobile<br>oil<br>crunch<br>admit<br>village
+bip_39_word_new_line1: boss
+bip_39_word_new_line10: 'boss
+
+  all
+
+  illegal
+
+  gasp
+
+  mobile
+
+  oil
+
+  crunch
+
+  admit
+
+  village
+
+  memory'
+bip_39_word_new_line11: 'boss
+
+  all
+
+  illegal
+
+  gasp
+
+  mobile
+
+  oil
+
+  crunch
+
+  admit
+
+  village
+
+  memory
+
+  chimney'
+bip_39_word_new_line12: 'boss
+
+  all
+
+  illegal
+
+  gasp
+
+  mobile
+
+  oil
+
+  crunch
+
+  admit
+
+  village
+
+  memory
+
+  chimney
+
+  above'
+bip_39_word_new_line2: 'boss
+
+  all'
+bip_39_word_new_line3: 'boss
+
+  all
+
+  illegal'
+bip_39_word_new_line4: 'boss
+
+  all
+
+  illegal
+
+  gasp'
+bip_39_word_new_line5: 'boss
+
+  all
+
+  illegal
+
+  gasp
+
+  mobile'
+bip_39_word_new_line6: 'boss
+
+  all
+
+  illegal
+
+  gasp
+
+  mobile
+
+  oil'
+bip_39_word_new_line7: 'boss
+
+  all
+
+  illegal
+
+  gasp
+
+  mobile
+
+  oil
+
+  crunch'
+bip_39_word_new_line8: 'boss
+
+  all
+
+  illegal
+
+  gasp
+
+  mobile
+
+  oil
+
+  crunch
+
+  admit'
+bip_39_word_new_line9: 'boss
+
+  all
+
+  illegal
+
+  gasp
+
+  mobile
+
+  oil
+
+  crunch
+
+  admit
+
+  village'
+bip_39_word_space_0:
+- boss
+- all
+- illegal
+- gasp
+- mobile
+- oil
+- crunch
+- admit
+- village
+- memory
+- chimney
+- above
+bip_39_word_space_1: boss
+bip_39_word_space_10: boss all illegal gasp mobile oil crunch admit village memory
+bip_39_word_space_11: boss all illegal gasp mobile oil crunch admit village memory
+  chimney
+bip_39_word_space_12: boss all illegal gasp mobile oil crunch admit village memory
+  chimney above
+bip_39_word_space_2: boss all
+bip_39_word_space_3: boss all illegal
+bip_39_word_space_4: boss all illegal gasp
+bip_39_word_space_5: boss all illegal gasp mobile
+bip_39_word_space_6: boss all illegal gasp mobile oil
+bip_39_word_space_7: boss all illegal gasp mobile oil crunch
+bip_39_word_space_8: boss all illegal gasp mobile oil crunch admit
+bip_39_word_space_9: boss all illegal gasp mobile oil crunch admit village
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

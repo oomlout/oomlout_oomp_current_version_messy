@@ -1,3 +1,186 @@
+bip_39_word_new_br1: glove
+bip_39_word_new_br10: glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo<br>lift<br>size<br>song<br>churn
+bip_39_word_new_br11: glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo<br>lift<br>size<br>song<br>churn<br>welcome
+bip_39_word_new_br12: glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo<br>lift<br>size<br>song<br>churn<br>welcome<br>affair
+bip_39_word_new_br2: glove<br>broom
+bip_39_word_new_br3: glove<br>broom<br>entry
+bip_39_word_new_br4: glove<br>broom<br>entry<br>advice
+bip_39_word_new_br5: glove<br>broom<br>entry<br>advice<br>snack
+bip_39_word_new_br6: glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo
+bip_39_word_new_br7: glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo<br>lift
+bip_39_word_new_br8: glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo<br>lift<br>size
+bip_39_word_new_br9: glove<br>broom<br>entry<br>advice<br>snack<br>kangaroo<br>lift<br>size<br>song
+bip_39_word_new_line1: glove
+bip_39_word_new_line10: 'glove
+
+  broom
+
+  entry
+
+  advice
+
+  snack
+
+  kangaroo
+
+  lift
+
+  size
+
+  song
+
+  churn'
+bip_39_word_new_line11: 'glove
+
+  broom
+
+  entry
+
+  advice
+
+  snack
+
+  kangaroo
+
+  lift
+
+  size
+
+  song
+
+  churn
+
+  welcome'
+bip_39_word_new_line12: 'glove
+
+  broom
+
+  entry
+
+  advice
+
+  snack
+
+  kangaroo
+
+  lift
+
+  size
+
+  song
+
+  churn
+
+  welcome
+
+  affair'
+bip_39_word_new_line2: 'glove
+
+  broom'
+bip_39_word_new_line3: 'glove
+
+  broom
+
+  entry'
+bip_39_word_new_line4: 'glove
+
+  broom
+
+  entry
+
+  advice'
+bip_39_word_new_line5: 'glove
+
+  broom
+
+  entry
+
+  advice
+
+  snack'
+bip_39_word_new_line6: 'glove
+
+  broom
+
+  entry
+
+  advice
+
+  snack
+
+  kangaroo'
+bip_39_word_new_line7: 'glove
+
+  broom
+
+  entry
+
+  advice
+
+  snack
+
+  kangaroo
+
+  lift'
+bip_39_word_new_line8: 'glove
+
+  broom
+
+  entry
+
+  advice
+
+  snack
+
+  kangaroo
+
+  lift
+
+  size'
+bip_39_word_new_line9: 'glove
+
+  broom
+
+  entry
+
+  advice
+
+  snack
+
+  kangaroo
+
+  lift
+
+  size
+
+  song'
+bip_39_word_space_0:
+- glove
+- broom
+- entry
+- advice
+- snack
+- kangaroo
+- lift
+- size
+- song
+- churn
+- welcome
+- affair
+bip_39_word_space_1: glove
+bip_39_word_space_10: glove broom entry advice snack kangaroo lift size song churn
+bip_39_word_space_11: glove broom entry advice snack kangaroo lift size song churn
+  welcome
+bip_39_word_space_12: glove broom entry advice snack kangaroo lift size song churn
+  welcome affair
+bip_39_word_space_2: glove broom
+bip_39_word_space_3: glove broom entry
+bip_39_word_space_4: glove broom entry advice
+bip_39_word_space_5: glove broom entry advice snack
+bip_39_word_space_6: glove broom entry advice snack kangaroo
+bip_39_word_space_7: glove broom entry advice snack kangaroo lift
+bip_39_word_space_8: glove broom entry advice snack kangaroo lift size
+bip_39_word_space_9: glove broom entry advice snack kangaroo lift size song
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

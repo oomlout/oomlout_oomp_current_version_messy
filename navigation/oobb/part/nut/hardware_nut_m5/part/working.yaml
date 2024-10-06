@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pelican
+bip_39_word_new_br10: pelican<br>novel<br>away<br>rail<br>round<br>believe<br>used<br>toddler<br>icon<br>code
+bip_39_word_new_br11: pelican<br>novel<br>away<br>rail<br>round<br>believe<br>used<br>toddler<br>icon<br>code<br>split
+bip_39_word_new_br12: pelican<br>novel<br>away<br>rail<br>round<br>believe<br>used<br>toddler<br>icon<br>code<br>split<br>adult
+bip_39_word_new_br2: pelican<br>novel
+bip_39_word_new_br3: pelican<br>novel<br>away
+bip_39_word_new_br4: pelican<br>novel<br>away<br>rail
+bip_39_word_new_br5: pelican<br>novel<br>away<br>rail<br>round
+bip_39_word_new_br6: pelican<br>novel<br>away<br>rail<br>round<br>believe
+bip_39_word_new_br7: pelican<br>novel<br>away<br>rail<br>round<br>believe<br>used
+bip_39_word_new_br8: pelican<br>novel<br>away<br>rail<br>round<br>believe<br>used<br>toddler
+bip_39_word_new_br9: pelican<br>novel<br>away<br>rail<br>round<br>believe<br>used<br>toddler<br>icon
+bip_39_word_new_line1: pelican
+bip_39_word_new_line10: 'pelican
+
+  novel
+
+  away
+
+  rail
+
+  round
+
+  believe
+
+  used
+
+  toddler
+
+  icon
+
+  code'
+bip_39_word_new_line11: 'pelican
+
+  novel
+
+  away
+
+  rail
+
+  round
+
+  believe
+
+  used
+
+  toddler
+
+  icon
+
+  code
+
+  split'
+bip_39_word_new_line12: 'pelican
+
+  novel
+
+  away
+
+  rail
+
+  round
+
+  believe
+
+  used
+
+  toddler
+
+  icon
+
+  code
+
+  split
+
+  adult'
+bip_39_word_new_line2: 'pelican
+
+  novel'
+bip_39_word_new_line3: 'pelican
+
+  novel
+
+  away'
+bip_39_word_new_line4: 'pelican
+
+  novel
+
+  away
+
+  rail'
+bip_39_word_new_line5: 'pelican
+
+  novel
+
+  away
+
+  rail
+
+  round'
+bip_39_word_new_line6: 'pelican
+
+  novel
+
+  away
+
+  rail
+
+  round
+
+  believe'
+bip_39_word_new_line7: 'pelican
+
+  novel
+
+  away
+
+  rail
+
+  round
+
+  believe
+
+  used'
+bip_39_word_new_line8: 'pelican
+
+  novel
+
+  away
+
+  rail
+
+  round
+
+  believe
+
+  used
+
+  toddler'
+bip_39_word_new_line9: 'pelican
+
+  novel
+
+  away
+
+  rail
+
+  round
+
+  believe
+
+  used
+
+  toddler
+
+  icon'
+bip_39_word_space_0:
+- pelican
+- novel
+- away
+- rail
+- round
+- believe
+- used
+- toddler
+- icon
+- code
+- split
+- adult
+bip_39_word_space_1: pelican
+bip_39_word_space_10: pelican novel away rail round believe used toddler icon code
+bip_39_word_space_11: pelican novel away rail round believe used toddler icon code
+  split
+bip_39_word_space_12: pelican novel away rail round believe used toddler icon code
+  split adult
+bip_39_word_space_2: pelican novel
+bip_39_word_space_3: pelican novel away
+bip_39_word_space_4: pelican novel away rail
+bip_39_word_space_5: pelican novel away rail round
+bip_39_word_space_6: pelican novel away rail round believe
+bip_39_word_space_7: pelican novel away rail round believe used
+bip_39_word_space_8: pelican novel away rail round believe used toddler
+bip_39_word_space_9: pelican novel away rail round believe used toddler icon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

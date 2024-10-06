@@ -1,3 +1,186 @@
+bip_39_word_new_br1: purchase
+bip_39_word_new_br10: purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold
+bip_39_word_new_br11: purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold<br>monitor
+bip_39_word_new_br12: purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand<br>uphold<br>monitor<br>acquire
+bip_39_word_new_br2: purchase<br>before
+bip_39_word_new_br3: purchase<br>before<br>image
+bip_39_word_new_br4: purchase<br>before<br>image<br>logic
+bip_39_word_new_br5: purchase<br>before<br>image<br>logic<br>rookie
+bip_39_word_new_br6: purchase<br>before<br>image<br>logic<br>rookie<br>alone
+bip_39_word_new_br7: purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page
+bip_39_word_new_br8: purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public
+bip_39_word_new_br9: purchase<br>before<br>image<br>logic<br>rookie<br>alone<br>page<br>public<br>sand
+bip_39_word_new_line1: purchase
+bip_39_word_new_line10: 'purchase
+
+  before
+
+  image
+
+  logic
+
+  rookie
+
+  alone
+
+  page
+
+  public
+
+  sand
+
+  uphold'
+bip_39_word_new_line11: 'purchase
+
+  before
+
+  image
+
+  logic
+
+  rookie
+
+  alone
+
+  page
+
+  public
+
+  sand
+
+  uphold
+
+  monitor'
+bip_39_word_new_line12: 'purchase
+
+  before
+
+  image
+
+  logic
+
+  rookie
+
+  alone
+
+  page
+
+  public
+
+  sand
+
+  uphold
+
+  monitor
+
+  acquire'
+bip_39_word_new_line2: 'purchase
+
+  before'
+bip_39_word_new_line3: 'purchase
+
+  before
+
+  image'
+bip_39_word_new_line4: 'purchase
+
+  before
+
+  image
+
+  logic'
+bip_39_word_new_line5: 'purchase
+
+  before
+
+  image
+
+  logic
+
+  rookie'
+bip_39_word_new_line6: 'purchase
+
+  before
+
+  image
+
+  logic
+
+  rookie
+
+  alone'
+bip_39_word_new_line7: 'purchase
+
+  before
+
+  image
+
+  logic
+
+  rookie
+
+  alone
+
+  page'
+bip_39_word_new_line8: 'purchase
+
+  before
+
+  image
+
+  logic
+
+  rookie
+
+  alone
+
+  page
+
+  public'
+bip_39_word_new_line9: 'purchase
+
+  before
+
+  image
+
+  logic
+
+  rookie
+
+  alone
+
+  page
+
+  public
+
+  sand'
+bip_39_word_space_0:
+- purchase
+- before
+- image
+- logic
+- rookie
+- alone
+- page
+- public
+- sand
+- uphold
+- monitor
+- acquire
+bip_39_word_space_1: purchase
+bip_39_word_space_10: purchase before image logic rookie alone page public sand uphold
+bip_39_word_space_11: purchase before image logic rookie alone page public sand uphold
+  monitor
+bip_39_word_space_12: purchase before image logic rookie alone page public sand uphold
+  monitor acquire
+bip_39_word_space_2: purchase before
+bip_39_word_space_3: purchase before image
+bip_39_word_space_4: purchase before image logic
+bip_39_word_space_5: purchase before image logic rookie
+bip_39_word_space_6: purchase before image logic rookie alone
+bip_39_word_space_7: purchase before image logic rookie alone page
+bip_39_word_space_8: purchase before image logic rookie alone page public
+bip_39_word_space_9: purchase before image logic rookie alone page public sand
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

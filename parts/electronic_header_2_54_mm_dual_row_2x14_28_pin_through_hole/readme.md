@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: heart skirt
+  * bip 39 word 3: heart skirt verb
+  * bip 39 word: heart skirt verb grocery lucky bullet town finger gossip sell you allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | heart |  
+| bip_39_word_new_br10 | heart<br>skirt<br>verb<br>grocery<br>lucky<br>bullet<br>town<br>finger<br>gossip<br>sell |  
+| bip_39_word_new_br11 | heart<br>skirt<br>verb<br>grocery<br>lucky<br>bullet<br>town<br>finger<br>gossip<br>sell<br>you |  
+| bip_39_word_new_br12 | heart<br>skirt<br>verb<br>grocery<br>lucky<br>bullet<br>town<br>finger<br>gossip<br>sell<br>you<br>allow |  
+| bip_39_word_new_br2 | heart<br>skirt |  
+| bip_39_word_new_br3 | heart<br>skirt<br>verb |  
+| bip_39_word_new_br4 | heart<br>skirt<br>verb<br>grocery |  
+| bip_39_word_new_br5 | heart<br>skirt<br>verb<br>grocery<br>lucky |  
+| bip_39_word_new_br6 | heart<br>skirt<br>verb<br>grocery<br>lucky<br>bullet |  
+| bip_39_word_new_br7 | heart<br>skirt<br>verb<br>grocery<br>lucky<br>bullet<br>town |  
+| bip_39_word_new_br8 | heart<br>skirt<br>verb<br>grocery<br>lucky<br>bullet<br>town<br>finger |  
+| bip_39_word_new_br9 | heart<br>skirt<br>verb<br>grocery<br>lucky<br>bullet<br>town<br>finger<br>gossip |  
+| bip_39_word_new_line1 | heart |  
+| bip_39_word_new_line10 | heart
+skirt
+verb
+grocery
+lucky
+bullet
+town
+finger
+gossip
+sell |  
+| bip_39_word_new_line11 | heart
+skirt
+verb
+grocery
+lucky
+bullet
+town
+finger
+gossip
+sell
+you |  
+| bip_39_word_new_line12 | heart
+skirt
+verb
+grocery
+lucky
+bullet
+town
+finger
+gossip
+sell
+you
+allow |  
+| bip_39_word_new_line2 | heart
+skirt |  
+| bip_39_word_new_line3 | heart
+skirt
+verb |  
+| bip_39_word_new_line4 | heart
+skirt
+verb
+grocery |  
+| bip_39_word_new_line5 | heart
+skirt
+verb
+grocery
+lucky |  
+| bip_39_word_new_line6 | heart
+skirt
+verb
+grocery
+lucky
+bullet |  
+| bip_39_word_new_line7 | heart
+skirt
+verb
+grocery
+lucky
+bullet
+town |  
+| bip_39_word_new_line8 | heart
+skirt
+verb
+grocery
+lucky
+bullet
+town
+finger |  
+| bip_39_word_new_line9 | heart
+skirt
+verb
+grocery
+lucky
+bullet
+town
+finger
+gossip |  
+| bip_39_word_space_0 | ['heart', 'skirt', 'verb', 'grocery', 'lucky', 'bullet', 'town', 'finger', 'gossip', 'sell', 'you', 'allow'] |  
+| bip_39_word_space_1 | heart |  
+| bip_39_word_space_10 | heart skirt verb grocery lucky bullet town finger gossip sell |  
+| bip_39_word_space_11 | heart skirt verb grocery lucky bullet town finger gossip sell you |  
+| bip_39_word_space_12 | heart skirt verb grocery lucky bullet town finger gossip sell you allow |  
+| bip_39_word_space_2 | heart skirt |  
+| bip_39_word_space_3 | heart skirt verb |  
+| bip_39_word_space_4 | heart skirt verb grocery |  
+| bip_39_word_space_5 | heart skirt verb grocery lucky |  
+| bip_39_word_space_6 | heart skirt verb grocery lucky bullet |  
+| bip_39_word_space_7 | heart skirt verb grocery lucky bullet town |  
+| bip_39_word_space_8 | heart skirt verb grocery lucky bullet town finger |  
+| bip_39_word_space_9 | heart skirt verb grocery lucky bullet town finger gossip |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

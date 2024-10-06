@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: apple cave
+  * bip 39 word 3: apple cave cry
+  * bip 39 word: apple cave cry again forum rose seek eight dirt detect nerve anchor
 
 ### other_codes
 * short_code: br6815
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | apple |  
+| bip_39_word_new_br10 | apple<br>cave<br>cry<br>again<br>forum<br>rose<br>seek<br>eight<br>dirt<br>detect |  
+| bip_39_word_new_br11 | apple<br>cave<br>cry<br>again<br>forum<br>rose<br>seek<br>eight<br>dirt<br>detect<br>nerve |  
+| bip_39_word_new_br12 | apple<br>cave<br>cry<br>again<br>forum<br>rose<br>seek<br>eight<br>dirt<br>detect<br>nerve<br>anchor |  
+| bip_39_word_new_br2 | apple<br>cave |  
+| bip_39_word_new_br3 | apple<br>cave<br>cry |  
+| bip_39_word_new_br4 | apple<br>cave<br>cry<br>again |  
+| bip_39_word_new_br5 | apple<br>cave<br>cry<br>again<br>forum |  
+| bip_39_word_new_br6 | apple<br>cave<br>cry<br>again<br>forum<br>rose |  
+| bip_39_word_new_br7 | apple<br>cave<br>cry<br>again<br>forum<br>rose<br>seek |  
+| bip_39_word_new_br8 | apple<br>cave<br>cry<br>again<br>forum<br>rose<br>seek<br>eight |  
+| bip_39_word_new_br9 | apple<br>cave<br>cry<br>again<br>forum<br>rose<br>seek<br>eight<br>dirt |  
+| bip_39_word_new_line1 | apple |  
+| bip_39_word_new_line10 | apple
+cave
+cry
+again
+forum
+rose
+seek
+eight
+dirt
+detect |  
+| bip_39_word_new_line11 | apple
+cave
+cry
+again
+forum
+rose
+seek
+eight
+dirt
+detect
+nerve |  
+| bip_39_word_new_line12 | apple
+cave
+cry
+again
+forum
+rose
+seek
+eight
+dirt
+detect
+nerve
+anchor |  
+| bip_39_word_new_line2 | apple
+cave |  
+| bip_39_word_new_line3 | apple
+cave
+cry |  
+| bip_39_word_new_line4 | apple
+cave
+cry
+again |  
+| bip_39_word_new_line5 | apple
+cave
+cry
+again
+forum |  
+| bip_39_word_new_line6 | apple
+cave
+cry
+again
+forum
+rose |  
+| bip_39_word_new_line7 | apple
+cave
+cry
+again
+forum
+rose
+seek |  
+| bip_39_word_new_line8 | apple
+cave
+cry
+again
+forum
+rose
+seek
+eight |  
+| bip_39_word_new_line9 | apple
+cave
+cry
+again
+forum
+rose
+seek
+eight
+dirt |  
+| bip_39_word_space_0 | ['apple', 'cave', 'cry', 'again', 'forum', 'rose', 'seek', 'eight', 'dirt', 'detect', 'nerve', 'anchor'] |  
+| bip_39_word_space_1 | apple |  
+| bip_39_word_space_10 | apple cave cry again forum rose seek eight dirt detect |  
+| bip_39_word_space_11 | apple cave cry again forum rose seek eight dirt detect nerve |  
+| bip_39_word_space_12 | apple cave cry again forum rose seek eight dirt detect nerve anchor |  
+| bip_39_word_space_2 | apple cave |  
+| bip_39_word_space_3 | apple cave cry |  
+| bip_39_word_space_4 | apple cave cry again |  
+| bip_39_word_space_5 | apple cave cry again forum |  
+| bip_39_word_space_6 | apple cave cry again forum rose |  
+| bip_39_word_space_7 | apple cave cry again forum rose seek |  
+| bip_39_word_space_8 | apple cave cry again forum rose seek eight |  
+| bip_39_word_space_9 | apple cave cry again forum rose seek eight dirt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

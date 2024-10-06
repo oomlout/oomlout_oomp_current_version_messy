@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jealous noise
+  * bip 39 word 3: jealous noise motor
+  * bip 39 word: jealous noise motor creek chase struggle wave region cotton soccer solar affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jealous |  
+| bip_39_word_new_br10 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle<br>wave<br>region<br>cotton<br>soccer |  
+| bip_39_word_new_br11 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle<br>wave<br>region<br>cotton<br>soccer<br>solar |  
+| bip_39_word_new_br12 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle<br>wave<br>region<br>cotton<br>soccer<br>solar<br>affair |  
+| bip_39_word_new_br2 | jealous<br>noise |  
+| bip_39_word_new_br3 | jealous<br>noise<br>motor |  
+| bip_39_word_new_br4 | jealous<br>noise<br>motor<br>creek |  
+| bip_39_word_new_br5 | jealous<br>noise<br>motor<br>creek<br>chase |  
+| bip_39_word_new_br6 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle |  
+| bip_39_word_new_br7 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle<br>wave |  
+| bip_39_word_new_br8 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle<br>wave<br>region |  
+| bip_39_word_new_br9 | jealous<br>noise<br>motor<br>creek<br>chase<br>struggle<br>wave<br>region<br>cotton |  
+| bip_39_word_new_line1 | jealous |  
+| bip_39_word_new_line10 | jealous
+noise
+motor
+creek
+chase
+struggle
+wave
+region
+cotton
+soccer |  
+| bip_39_word_new_line11 | jealous
+noise
+motor
+creek
+chase
+struggle
+wave
+region
+cotton
+soccer
+solar |  
+| bip_39_word_new_line12 | jealous
+noise
+motor
+creek
+chase
+struggle
+wave
+region
+cotton
+soccer
+solar
+affair |  
+| bip_39_word_new_line2 | jealous
+noise |  
+| bip_39_word_new_line3 | jealous
+noise
+motor |  
+| bip_39_word_new_line4 | jealous
+noise
+motor
+creek |  
+| bip_39_word_new_line5 | jealous
+noise
+motor
+creek
+chase |  
+| bip_39_word_new_line6 | jealous
+noise
+motor
+creek
+chase
+struggle |  
+| bip_39_word_new_line7 | jealous
+noise
+motor
+creek
+chase
+struggle
+wave |  
+| bip_39_word_new_line8 | jealous
+noise
+motor
+creek
+chase
+struggle
+wave
+region |  
+| bip_39_word_new_line9 | jealous
+noise
+motor
+creek
+chase
+struggle
+wave
+region
+cotton |  
+| bip_39_word_space_0 | ['jealous', 'noise', 'motor', 'creek', 'chase', 'struggle', 'wave', 'region', 'cotton', 'soccer', 'solar', 'affair'] |  
+| bip_39_word_space_1 | jealous |  
+| bip_39_word_space_10 | jealous noise motor creek chase struggle wave region cotton soccer |  
+| bip_39_word_space_11 | jealous noise motor creek chase struggle wave region cotton soccer solar |  
+| bip_39_word_space_12 | jealous noise motor creek chase struggle wave region cotton soccer solar affair |  
+| bip_39_word_space_2 | jealous noise |  
+| bip_39_word_space_3 | jealous noise motor |  
+| bip_39_word_space_4 | jealous noise motor creek |  
+| bip_39_word_space_5 | jealous noise motor creek chase |  
+| bip_39_word_space_6 | jealous noise motor creek chase struggle |  
+| bip_39_word_space_7 | jealous noise motor creek chase struggle wave |  
+| bip_39_word_space_8 | jealous noise motor creek chase struggle wave region |  
+| bip_39_word_space_9 | jealous noise motor creek chase struggle wave region cotton |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

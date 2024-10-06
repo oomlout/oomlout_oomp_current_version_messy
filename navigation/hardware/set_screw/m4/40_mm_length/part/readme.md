@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lumber ride
+  * bip 39 word 3: lumber ride whale
+  * bip 39 word: lumber ride whale phrase permit grain know point image daughter wool agent
 
 ### other_codes
 * short_code: ss4m40
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lumber |  
+| bip_39_word_new_br10 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain<br>know<br>point<br>image<br>daughter |  
+| bip_39_word_new_br11 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain<br>know<br>point<br>image<br>daughter<br>wool |  
+| bip_39_word_new_br12 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain<br>know<br>point<br>image<br>daughter<br>wool<br>agent |  
+| bip_39_word_new_br2 | lumber<br>ride |  
+| bip_39_word_new_br3 | lumber<br>ride<br>whale |  
+| bip_39_word_new_br4 | lumber<br>ride<br>whale<br>phrase |  
+| bip_39_word_new_br5 | lumber<br>ride<br>whale<br>phrase<br>permit |  
+| bip_39_word_new_br6 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain |  
+| bip_39_word_new_br7 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain<br>know |  
+| bip_39_word_new_br8 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain<br>know<br>point |  
+| bip_39_word_new_br9 | lumber<br>ride<br>whale<br>phrase<br>permit<br>grain<br>know<br>point<br>image |  
+| bip_39_word_new_line1 | lumber |  
+| bip_39_word_new_line10 | lumber
+ride
+whale
+phrase
+permit
+grain
+know
+point
+image
+daughter |  
+| bip_39_word_new_line11 | lumber
+ride
+whale
+phrase
+permit
+grain
+know
+point
+image
+daughter
+wool |  
+| bip_39_word_new_line12 | lumber
+ride
+whale
+phrase
+permit
+grain
+know
+point
+image
+daughter
+wool
+agent |  
+| bip_39_word_new_line2 | lumber
+ride |  
+| bip_39_word_new_line3 | lumber
+ride
+whale |  
+| bip_39_word_new_line4 | lumber
+ride
+whale
+phrase |  
+| bip_39_word_new_line5 | lumber
+ride
+whale
+phrase
+permit |  
+| bip_39_word_new_line6 | lumber
+ride
+whale
+phrase
+permit
+grain |  
+| bip_39_word_new_line7 | lumber
+ride
+whale
+phrase
+permit
+grain
+know |  
+| bip_39_word_new_line8 | lumber
+ride
+whale
+phrase
+permit
+grain
+know
+point |  
+| bip_39_word_new_line9 | lumber
+ride
+whale
+phrase
+permit
+grain
+know
+point
+image |  
+| bip_39_word_space_0 | ['lumber', 'ride', 'whale', 'phrase', 'permit', 'grain', 'know', 'point', 'image', 'daughter', 'wool', 'agent'] |  
+| bip_39_word_space_1 | lumber |  
+| bip_39_word_space_10 | lumber ride whale phrase permit grain know point image daughter |  
+| bip_39_word_space_11 | lumber ride whale phrase permit grain know point image daughter wool |  
+| bip_39_word_space_12 | lumber ride whale phrase permit grain know point image daughter wool agent |  
+| bip_39_word_space_2 | lumber ride |  
+| bip_39_word_space_3 | lumber ride whale |  
+| bip_39_word_space_4 | lumber ride whale phrase |  
+| bip_39_word_space_5 | lumber ride whale phrase permit |  
+| bip_39_word_space_6 | lumber ride whale phrase permit grain |  
+| bip_39_word_space_7 | lumber ride whale phrase permit grain know |  
+| bip_39_word_space_8 | lumber ride whale phrase permit grain know point |  
+| bip_39_word_space_9 | lumber ride whale phrase permit grain know point image |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

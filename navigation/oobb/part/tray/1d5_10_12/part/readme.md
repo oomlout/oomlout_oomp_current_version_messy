@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: daring patient
+  * bip 39 word 3: daring patient demand
+  * bip 39 word: daring patient demand next smart anxiety crisp tragic rail pudding chapter assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | daring |  
+| bip_39_word_new_br10 | daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding |  
+| bip_39_word_new_br11 | daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding<br>chapter |  
+| bip_39_word_new_br12 | daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail<br>pudding<br>chapter<br>assist |  
+| bip_39_word_new_br2 | daring<br>patient |  
+| bip_39_word_new_br3 | daring<br>patient<br>demand |  
+| bip_39_word_new_br4 | daring<br>patient<br>demand<br>next |  
+| bip_39_word_new_br5 | daring<br>patient<br>demand<br>next<br>smart |  
+| bip_39_word_new_br6 | daring<br>patient<br>demand<br>next<br>smart<br>anxiety |  
+| bip_39_word_new_br7 | daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp |  
+| bip_39_word_new_br8 | daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic |  
+| bip_39_word_new_br9 | daring<br>patient<br>demand<br>next<br>smart<br>anxiety<br>crisp<br>tragic<br>rail |  
+| bip_39_word_new_line1 | daring |  
+| bip_39_word_new_line10 | daring
+patient
+demand
+next
+smart
+anxiety
+crisp
+tragic
+rail
+pudding |  
+| bip_39_word_new_line11 | daring
+patient
+demand
+next
+smart
+anxiety
+crisp
+tragic
+rail
+pudding
+chapter |  
+| bip_39_word_new_line12 | daring
+patient
+demand
+next
+smart
+anxiety
+crisp
+tragic
+rail
+pudding
+chapter
+assist |  
+| bip_39_word_new_line2 | daring
+patient |  
+| bip_39_word_new_line3 | daring
+patient
+demand |  
+| bip_39_word_new_line4 | daring
+patient
+demand
+next |  
+| bip_39_word_new_line5 | daring
+patient
+demand
+next
+smart |  
+| bip_39_word_new_line6 | daring
+patient
+demand
+next
+smart
+anxiety |  
+| bip_39_word_new_line7 | daring
+patient
+demand
+next
+smart
+anxiety
+crisp |  
+| bip_39_word_new_line8 | daring
+patient
+demand
+next
+smart
+anxiety
+crisp
+tragic |  
+| bip_39_word_new_line9 | daring
+patient
+demand
+next
+smart
+anxiety
+crisp
+tragic
+rail |  
+| bip_39_word_space_0 | ['daring', 'patient', 'demand', 'next', 'smart', 'anxiety', 'crisp', 'tragic', 'rail', 'pudding', 'chapter', 'assist'] |  
+| bip_39_word_space_1 | daring |  
+| bip_39_word_space_10 | daring patient demand next smart anxiety crisp tragic rail pudding |  
+| bip_39_word_space_11 | daring patient demand next smart anxiety crisp tragic rail pudding chapter |  
+| bip_39_word_space_12 | daring patient demand next smart anxiety crisp tragic rail pudding chapter assist |  
+| bip_39_word_space_2 | daring patient |  
+| bip_39_word_space_3 | daring patient demand |  
+| bip_39_word_space_4 | daring patient demand next |  
+| bip_39_word_space_5 | daring patient demand next smart |  
+| bip_39_word_space_6 | daring patient demand next smart anxiety |  
+| bip_39_word_space_7 | daring patient demand next smart anxiety crisp |  
+| bip_39_word_space_8 | daring patient demand next smart anxiety crisp tragic |  
+| bip_39_word_space_9 | daring patient demand next smart anxiety crisp tragic rail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

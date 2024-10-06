@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: taxi awful
+  * bip 39 word 3: taxi awful price
+  * bip 39 word: taxi awful price reunion clump dawn siren govern animal aware quit adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | taxi |  
+| bip_39_word_new_br10 | taxi<br>awful<br>price<br>reunion<br>clump<br>dawn<br>siren<br>govern<br>animal<br>aware |  
+| bip_39_word_new_br11 | taxi<br>awful<br>price<br>reunion<br>clump<br>dawn<br>siren<br>govern<br>animal<br>aware<br>quit |  
+| bip_39_word_new_br12 | taxi<br>awful<br>price<br>reunion<br>clump<br>dawn<br>siren<br>govern<br>animal<br>aware<br>quit<br>adult |  
+| bip_39_word_new_br2 | taxi<br>awful |  
+| bip_39_word_new_br3 | taxi<br>awful<br>price |  
+| bip_39_word_new_br4 | taxi<br>awful<br>price<br>reunion |  
+| bip_39_word_new_br5 | taxi<br>awful<br>price<br>reunion<br>clump |  
+| bip_39_word_new_br6 | taxi<br>awful<br>price<br>reunion<br>clump<br>dawn |  
+| bip_39_word_new_br7 | taxi<br>awful<br>price<br>reunion<br>clump<br>dawn<br>siren |  
+| bip_39_word_new_br8 | taxi<br>awful<br>price<br>reunion<br>clump<br>dawn<br>siren<br>govern |  
+| bip_39_word_new_br9 | taxi<br>awful<br>price<br>reunion<br>clump<br>dawn<br>siren<br>govern<br>animal |  
+| bip_39_word_new_line1 | taxi |  
+| bip_39_word_new_line10 | taxi
+awful
+price
+reunion
+clump
+dawn
+siren
+govern
+animal
+aware |  
+| bip_39_word_new_line11 | taxi
+awful
+price
+reunion
+clump
+dawn
+siren
+govern
+animal
+aware
+quit |  
+| bip_39_word_new_line12 | taxi
+awful
+price
+reunion
+clump
+dawn
+siren
+govern
+animal
+aware
+quit
+adult |  
+| bip_39_word_new_line2 | taxi
+awful |  
+| bip_39_word_new_line3 | taxi
+awful
+price |  
+| bip_39_word_new_line4 | taxi
+awful
+price
+reunion |  
+| bip_39_word_new_line5 | taxi
+awful
+price
+reunion
+clump |  
+| bip_39_word_new_line6 | taxi
+awful
+price
+reunion
+clump
+dawn |  
+| bip_39_word_new_line7 | taxi
+awful
+price
+reunion
+clump
+dawn
+siren |  
+| bip_39_word_new_line8 | taxi
+awful
+price
+reunion
+clump
+dawn
+siren
+govern |  
+| bip_39_word_new_line9 | taxi
+awful
+price
+reunion
+clump
+dawn
+siren
+govern
+animal |  
+| bip_39_word_space_0 | ['taxi', 'awful', 'price', 'reunion', 'clump', 'dawn', 'siren', 'govern', 'animal', 'aware', 'quit', 'adult'] |  
+| bip_39_word_space_1 | taxi |  
+| bip_39_word_space_10 | taxi awful price reunion clump dawn siren govern animal aware |  
+| bip_39_word_space_11 | taxi awful price reunion clump dawn siren govern animal aware quit |  
+| bip_39_word_space_12 | taxi awful price reunion clump dawn siren govern animal aware quit adult |  
+| bip_39_word_space_2 | taxi awful |  
+| bip_39_word_space_3 | taxi awful price |  
+| bip_39_word_space_4 | taxi awful price reunion |  
+| bip_39_word_space_5 | taxi awful price reunion clump |  
+| bip_39_word_space_6 | taxi awful price reunion clump dawn |  
+| bip_39_word_space_7 | taxi awful price reunion clump dawn siren |  
+| bip_39_word_space_8 | taxi awful price reunion clump dawn siren govern |  
+| bip_39_word_space_9 | taxi awful price reunion clump dawn siren govern animal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gadget extra
+  * bip 39 word 3: gadget extra fall
+  * bip 39 word: gadget extra fall cruel decrease ask dirt wet design bird use angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gadget |  
+| bip_39_word_new_br10 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird |  
+| bip_39_word_new_br11 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird<br>use |  
+| bip_39_word_new_br12 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design<br>bird<br>use<br>angle |  
+| bip_39_word_new_br2 | gadget<br>extra |  
+| bip_39_word_new_br3 | gadget<br>extra<br>fall |  
+| bip_39_word_new_br4 | gadget<br>extra<br>fall<br>cruel |  
+| bip_39_word_new_br5 | gadget<br>extra<br>fall<br>cruel<br>decrease |  
+| bip_39_word_new_br6 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask |  
+| bip_39_word_new_br7 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt |  
+| bip_39_word_new_br8 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet |  
+| bip_39_word_new_br9 | gadget<br>extra<br>fall<br>cruel<br>decrease<br>ask<br>dirt<br>wet<br>design |  
+| bip_39_word_new_line1 | gadget |  
+| bip_39_word_new_line10 | gadget
+extra
+fall
+cruel
+decrease
+ask
+dirt
+wet
+design
+bird |  
+| bip_39_word_new_line11 | gadget
+extra
+fall
+cruel
+decrease
+ask
+dirt
+wet
+design
+bird
+use |  
+| bip_39_word_new_line12 | gadget
+extra
+fall
+cruel
+decrease
+ask
+dirt
+wet
+design
+bird
+use
+angle |  
+| bip_39_word_new_line2 | gadget
+extra |  
+| bip_39_word_new_line3 | gadget
+extra
+fall |  
+| bip_39_word_new_line4 | gadget
+extra
+fall
+cruel |  
+| bip_39_word_new_line5 | gadget
+extra
+fall
+cruel
+decrease |  
+| bip_39_word_new_line6 | gadget
+extra
+fall
+cruel
+decrease
+ask |  
+| bip_39_word_new_line7 | gadget
+extra
+fall
+cruel
+decrease
+ask
+dirt |  
+| bip_39_word_new_line8 | gadget
+extra
+fall
+cruel
+decrease
+ask
+dirt
+wet |  
+| bip_39_word_new_line9 | gadget
+extra
+fall
+cruel
+decrease
+ask
+dirt
+wet
+design |  
+| bip_39_word_space_0 | ['gadget', 'extra', 'fall', 'cruel', 'decrease', 'ask', 'dirt', 'wet', 'design', 'bird', 'use', 'angle'] |  
+| bip_39_word_space_1 | gadget |  
+| bip_39_word_space_10 | gadget extra fall cruel decrease ask dirt wet design bird |  
+| bip_39_word_space_11 | gadget extra fall cruel decrease ask dirt wet design bird use |  
+| bip_39_word_space_12 | gadget extra fall cruel decrease ask dirt wet design bird use angle |  
+| bip_39_word_space_2 | gadget extra |  
+| bip_39_word_space_3 | gadget extra fall |  
+| bip_39_word_space_4 | gadget extra fall cruel |  
+| bip_39_word_space_5 | gadget extra fall cruel decrease |  
+| bip_39_word_space_6 | gadget extra fall cruel decrease ask |  
+| bip_39_word_space_7 | gadget extra fall cruel decrease ask dirt |  
+| bip_39_word_space_8 | gadget extra fall cruel decrease ask dirt wet |  
+| bip_39_word_space_9 | gadget extra fall cruel decrease ask dirt wet design |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

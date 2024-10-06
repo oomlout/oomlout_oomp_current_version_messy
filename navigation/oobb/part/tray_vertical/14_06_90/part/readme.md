@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fatal change
+  * bip 39 word 3: fatal change ugly
+  * bip 39 word: fatal change ugly cricket differ major flight slogan help mom language also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fatal |  
+| bip_39_word_new_br10 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom |  
+| bip_39_word_new_br11 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom<br>language |  
+| bip_39_word_new_br12 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help<br>mom<br>language<br>also |  
+| bip_39_word_new_br2 | fatal<br>change |  
+| bip_39_word_new_br3 | fatal<br>change<br>ugly |  
+| bip_39_word_new_br4 | fatal<br>change<br>ugly<br>cricket |  
+| bip_39_word_new_br5 | fatal<br>change<br>ugly<br>cricket<br>differ |  
+| bip_39_word_new_br6 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major |  
+| bip_39_word_new_br7 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight |  
+| bip_39_word_new_br8 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan |  
+| bip_39_word_new_br9 | fatal<br>change<br>ugly<br>cricket<br>differ<br>major<br>flight<br>slogan<br>help |  
+| bip_39_word_new_line1 | fatal |  
+| bip_39_word_new_line10 | fatal
+change
+ugly
+cricket
+differ
+major
+flight
+slogan
+help
+mom |  
+| bip_39_word_new_line11 | fatal
+change
+ugly
+cricket
+differ
+major
+flight
+slogan
+help
+mom
+language |  
+| bip_39_word_new_line12 | fatal
+change
+ugly
+cricket
+differ
+major
+flight
+slogan
+help
+mom
+language
+also |  
+| bip_39_word_new_line2 | fatal
+change |  
+| bip_39_word_new_line3 | fatal
+change
+ugly |  
+| bip_39_word_new_line4 | fatal
+change
+ugly
+cricket |  
+| bip_39_word_new_line5 | fatal
+change
+ugly
+cricket
+differ |  
+| bip_39_word_new_line6 | fatal
+change
+ugly
+cricket
+differ
+major |  
+| bip_39_word_new_line7 | fatal
+change
+ugly
+cricket
+differ
+major
+flight |  
+| bip_39_word_new_line8 | fatal
+change
+ugly
+cricket
+differ
+major
+flight
+slogan |  
+| bip_39_word_new_line9 | fatal
+change
+ugly
+cricket
+differ
+major
+flight
+slogan
+help |  
+| bip_39_word_space_0 | ['fatal', 'change', 'ugly', 'cricket', 'differ', 'major', 'flight', 'slogan', 'help', 'mom', 'language', 'also'] |  
+| bip_39_word_space_1 | fatal |  
+| bip_39_word_space_10 | fatal change ugly cricket differ major flight slogan help mom |  
+| bip_39_word_space_11 | fatal change ugly cricket differ major flight slogan help mom language |  
+| bip_39_word_space_12 | fatal change ugly cricket differ major flight slogan help mom language also |  
+| bip_39_word_space_2 | fatal change |  
+| bip_39_word_space_3 | fatal change ugly |  
+| bip_39_word_space_4 | fatal change ugly cricket |  
+| bip_39_word_space_5 | fatal change ugly cricket differ |  
+| bip_39_word_space_6 | fatal change ugly cricket differ major |  
+| bip_39_word_space_7 | fatal change ugly cricket differ major flight |  
+| bip_39_word_space_8 | fatal change ugly cricket differ major flight slogan |  
+| bip_39_word_space_9 | fatal change ugly cricket differ major flight slogan help |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

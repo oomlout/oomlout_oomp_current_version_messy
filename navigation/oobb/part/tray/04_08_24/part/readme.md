@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tissue rubber
+  * bip 39 word 3: tissue rubber romance
+  * bip 39 word: tissue rubber romance absent street wrist liquid engine response conduct truly anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tissue |  
+| bip_39_word_new_br10 | tissue<br>rubber<br>romance<br>absent<br>street<br>wrist<br>liquid<br>engine<br>response<br>conduct |  
+| bip_39_word_new_br11 | tissue<br>rubber<br>romance<br>absent<br>street<br>wrist<br>liquid<br>engine<br>response<br>conduct<br>truly |  
+| bip_39_word_new_br12 | tissue<br>rubber<br>romance<br>absent<br>street<br>wrist<br>liquid<br>engine<br>response<br>conduct<br>truly<br>anger |  
+| bip_39_word_new_br2 | tissue<br>rubber |  
+| bip_39_word_new_br3 | tissue<br>rubber<br>romance |  
+| bip_39_word_new_br4 | tissue<br>rubber<br>romance<br>absent |  
+| bip_39_word_new_br5 | tissue<br>rubber<br>romance<br>absent<br>street |  
+| bip_39_word_new_br6 | tissue<br>rubber<br>romance<br>absent<br>street<br>wrist |  
+| bip_39_word_new_br7 | tissue<br>rubber<br>romance<br>absent<br>street<br>wrist<br>liquid |  
+| bip_39_word_new_br8 | tissue<br>rubber<br>romance<br>absent<br>street<br>wrist<br>liquid<br>engine |  
+| bip_39_word_new_br9 | tissue<br>rubber<br>romance<br>absent<br>street<br>wrist<br>liquid<br>engine<br>response |  
+| bip_39_word_new_line1 | tissue |  
+| bip_39_word_new_line10 | tissue
+rubber
+romance
+absent
+street
+wrist
+liquid
+engine
+response
+conduct |  
+| bip_39_word_new_line11 | tissue
+rubber
+romance
+absent
+street
+wrist
+liquid
+engine
+response
+conduct
+truly |  
+| bip_39_word_new_line12 | tissue
+rubber
+romance
+absent
+street
+wrist
+liquid
+engine
+response
+conduct
+truly
+anger |  
+| bip_39_word_new_line2 | tissue
+rubber |  
+| bip_39_word_new_line3 | tissue
+rubber
+romance |  
+| bip_39_word_new_line4 | tissue
+rubber
+romance
+absent |  
+| bip_39_word_new_line5 | tissue
+rubber
+romance
+absent
+street |  
+| bip_39_word_new_line6 | tissue
+rubber
+romance
+absent
+street
+wrist |  
+| bip_39_word_new_line7 | tissue
+rubber
+romance
+absent
+street
+wrist
+liquid |  
+| bip_39_word_new_line8 | tissue
+rubber
+romance
+absent
+street
+wrist
+liquid
+engine |  
+| bip_39_word_new_line9 | tissue
+rubber
+romance
+absent
+street
+wrist
+liquid
+engine
+response |  
+| bip_39_word_space_0 | ['tissue', 'rubber', 'romance', 'absent', 'street', 'wrist', 'liquid', 'engine', 'response', 'conduct', 'truly', 'anger'] |  
+| bip_39_word_space_1 | tissue |  
+| bip_39_word_space_10 | tissue rubber romance absent street wrist liquid engine response conduct |  
+| bip_39_word_space_11 | tissue rubber romance absent street wrist liquid engine response conduct truly |  
+| bip_39_word_space_12 | tissue rubber romance absent street wrist liquid engine response conduct truly anger |  
+| bip_39_word_space_2 | tissue rubber |  
+| bip_39_word_space_3 | tissue rubber romance |  
+| bip_39_word_space_4 | tissue rubber romance absent |  
+| bip_39_word_space_5 | tissue rubber romance absent street |  
+| bip_39_word_space_6 | tissue rubber romance absent street wrist |  
+| bip_39_word_space_7 | tissue rubber romance absent street wrist liquid |  
+| bip_39_word_space_8 | tissue rubber romance absent street wrist liquid engine |  
+| bip_39_word_space_9 | tissue rubber romance absent street wrist liquid engine response |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lecture breeze
+  * bip 39 word 3: lecture breeze river
+  * bip 39 word: lecture breeze river normal dawn frozen pumpkin weekend loud knee south adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lecture |  
+| bip_39_word_new_br10 | lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen<br>pumpkin<br>weekend<br>loud<br>knee |  
+| bip_39_word_new_br11 | lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen<br>pumpkin<br>weekend<br>loud<br>knee<br>south |  
+| bip_39_word_new_br12 | lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen<br>pumpkin<br>weekend<br>loud<br>knee<br>south<br>adult |  
+| bip_39_word_new_br2 | lecture<br>breeze |  
+| bip_39_word_new_br3 | lecture<br>breeze<br>river |  
+| bip_39_word_new_br4 | lecture<br>breeze<br>river<br>normal |  
+| bip_39_word_new_br5 | lecture<br>breeze<br>river<br>normal<br>dawn |  
+| bip_39_word_new_br6 | lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen |  
+| bip_39_word_new_br7 | lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen<br>pumpkin |  
+| bip_39_word_new_br8 | lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen<br>pumpkin<br>weekend |  
+| bip_39_word_new_br9 | lecture<br>breeze<br>river<br>normal<br>dawn<br>frozen<br>pumpkin<br>weekend<br>loud |  
+| bip_39_word_new_line1 | lecture |  
+| bip_39_word_new_line10 | lecture
+breeze
+river
+normal
+dawn
+frozen
+pumpkin
+weekend
+loud
+knee |  
+| bip_39_word_new_line11 | lecture
+breeze
+river
+normal
+dawn
+frozen
+pumpkin
+weekend
+loud
+knee
+south |  
+| bip_39_word_new_line12 | lecture
+breeze
+river
+normal
+dawn
+frozen
+pumpkin
+weekend
+loud
+knee
+south
+adult |  
+| bip_39_word_new_line2 | lecture
+breeze |  
+| bip_39_word_new_line3 | lecture
+breeze
+river |  
+| bip_39_word_new_line4 | lecture
+breeze
+river
+normal |  
+| bip_39_word_new_line5 | lecture
+breeze
+river
+normal
+dawn |  
+| bip_39_word_new_line6 | lecture
+breeze
+river
+normal
+dawn
+frozen |  
+| bip_39_word_new_line7 | lecture
+breeze
+river
+normal
+dawn
+frozen
+pumpkin |  
+| bip_39_word_new_line8 | lecture
+breeze
+river
+normal
+dawn
+frozen
+pumpkin
+weekend |  
+| bip_39_word_new_line9 | lecture
+breeze
+river
+normal
+dawn
+frozen
+pumpkin
+weekend
+loud |  
+| bip_39_word_space_0 | ['lecture', 'breeze', 'river', 'normal', 'dawn', 'frozen', 'pumpkin', 'weekend', 'loud', 'knee', 'south', 'adult'] |  
+| bip_39_word_space_1 | lecture |  
+| bip_39_word_space_10 | lecture breeze river normal dawn frozen pumpkin weekend loud knee |  
+| bip_39_word_space_11 | lecture breeze river normal dawn frozen pumpkin weekend loud knee south |  
+| bip_39_word_space_12 | lecture breeze river normal dawn frozen pumpkin weekend loud knee south adult |  
+| bip_39_word_space_2 | lecture breeze |  
+| bip_39_word_space_3 | lecture breeze river |  
+| bip_39_word_space_4 | lecture breeze river normal |  
+| bip_39_word_space_5 | lecture breeze river normal dawn |  
+| bip_39_word_space_6 | lecture breeze river normal dawn frozen |  
+| bip_39_word_space_7 | lecture breeze river normal dawn frozen pumpkin |  
+| bip_39_word_space_8 | lecture breeze river normal dawn frozen pumpkin weekend |  
+| bip_39_word_space_9 | lecture breeze river normal dawn frozen pumpkin weekend loud |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

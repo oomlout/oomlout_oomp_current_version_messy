@@ -1,3 +1,185 @@
+bip_39_word_new_br1: toss
+bip_39_word_new_br10: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion<br>aware<br>item<br>flag<br>seek
+bip_39_word_new_br11: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion<br>aware<br>item<br>flag<br>seek<br>little
+bip_39_word_new_br12: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion<br>aware<br>item<br>flag<br>seek<br>little<br>advance
+bip_39_word_new_br2: toss<br>rigid
+bip_39_word_new_br3: toss<br>rigid<br>fly
+bip_39_word_new_br4: toss<br>rigid<br>fly<br>solution
+bip_39_word_new_br5: toss<br>rigid<br>fly<br>solution<br>acid
+bip_39_word_new_br6: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion
+bip_39_word_new_br7: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion<br>aware
+bip_39_word_new_br8: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion<br>aware<br>item
+bip_39_word_new_br9: toss<br>rigid<br>fly<br>solution<br>acid<br>emotion<br>aware<br>item<br>flag
+bip_39_word_new_line1: toss
+bip_39_word_new_line10: 'toss
+
+  rigid
+
+  fly
+
+  solution
+
+  acid
+
+  emotion
+
+  aware
+
+  item
+
+  flag
+
+  seek'
+bip_39_word_new_line11: 'toss
+
+  rigid
+
+  fly
+
+  solution
+
+  acid
+
+  emotion
+
+  aware
+
+  item
+
+  flag
+
+  seek
+
+  little'
+bip_39_word_new_line12: 'toss
+
+  rigid
+
+  fly
+
+  solution
+
+  acid
+
+  emotion
+
+  aware
+
+  item
+
+  flag
+
+  seek
+
+  little
+
+  advance'
+bip_39_word_new_line2: 'toss
+
+  rigid'
+bip_39_word_new_line3: 'toss
+
+  rigid
+
+  fly'
+bip_39_word_new_line4: 'toss
+
+  rigid
+
+  fly
+
+  solution'
+bip_39_word_new_line5: 'toss
+
+  rigid
+
+  fly
+
+  solution
+
+  acid'
+bip_39_word_new_line6: 'toss
+
+  rigid
+
+  fly
+
+  solution
+
+  acid
+
+  emotion'
+bip_39_word_new_line7: 'toss
+
+  rigid
+
+  fly
+
+  solution
+
+  acid
+
+  emotion
+
+  aware'
+bip_39_word_new_line8: 'toss
+
+  rigid
+
+  fly
+
+  solution
+
+  acid
+
+  emotion
+
+  aware
+
+  item'
+bip_39_word_new_line9: 'toss
+
+  rigid
+
+  fly
+
+  solution
+
+  acid
+
+  emotion
+
+  aware
+
+  item
+
+  flag'
+bip_39_word_space_0:
+- toss
+- rigid
+- fly
+- solution
+- acid
+- emotion
+- aware
+- item
+- flag
+- seek
+- little
+- advance
+bip_39_word_space_1: toss
+bip_39_word_space_10: toss rigid fly solution acid emotion aware item flag seek
+bip_39_word_space_11: toss rigid fly solution acid emotion aware item flag seek little
+bip_39_word_space_12: toss rigid fly solution acid emotion aware item flag seek little
+  advance
+bip_39_word_space_2: toss rigid
+bip_39_word_space_3: toss rigid fly
+bip_39_word_space_4: toss rigid fly solution
+bip_39_word_space_5: toss rigid fly solution acid
+bip_39_word_space_6: toss rigid fly solution acid emotion
+bip_39_word_space_7: toss rigid fly solution acid emotion aware
+bip_39_word_space_8: toss rigid fly solution acid emotion aware item
+bip_39_word_space_9: toss rigid fly solution acid emotion aware item flag
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

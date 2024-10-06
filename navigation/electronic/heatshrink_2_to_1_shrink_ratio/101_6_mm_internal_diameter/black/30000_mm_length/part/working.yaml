@@ -1,3 +1,186 @@
+bip_39_word_new_br1: move
+bip_39_word_new_br10: move<br>solution<br>step<br>swamp<br>erode<br>leg<br>teach<br>bench<br>ocean<br>supreme
+bip_39_word_new_br11: move<br>solution<br>step<br>swamp<br>erode<br>leg<br>teach<br>bench<br>ocean<br>supreme<br>quit
+bip_39_word_new_br12: move<br>solution<br>step<br>swamp<br>erode<br>leg<br>teach<br>bench<br>ocean<br>supreme<br>quit<br>auction
+bip_39_word_new_br2: move<br>solution
+bip_39_word_new_br3: move<br>solution<br>step
+bip_39_word_new_br4: move<br>solution<br>step<br>swamp
+bip_39_word_new_br5: move<br>solution<br>step<br>swamp<br>erode
+bip_39_word_new_br6: move<br>solution<br>step<br>swamp<br>erode<br>leg
+bip_39_word_new_br7: move<br>solution<br>step<br>swamp<br>erode<br>leg<br>teach
+bip_39_word_new_br8: move<br>solution<br>step<br>swamp<br>erode<br>leg<br>teach<br>bench
+bip_39_word_new_br9: move<br>solution<br>step<br>swamp<br>erode<br>leg<br>teach<br>bench<br>ocean
+bip_39_word_new_line1: move
+bip_39_word_new_line10: 'move
+
+  solution
+
+  step
+
+  swamp
+
+  erode
+
+  leg
+
+  teach
+
+  bench
+
+  ocean
+
+  supreme'
+bip_39_word_new_line11: 'move
+
+  solution
+
+  step
+
+  swamp
+
+  erode
+
+  leg
+
+  teach
+
+  bench
+
+  ocean
+
+  supreme
+
+  quit'
+bip_39_word_new_line12: 'move
+
+  solution
+
+  step
+
+  swamp
+
+  erode
+
+  leg
+
+  teach
+
+  bench
+
+  ocean
+
+  supreme
+
+  quit
+
+  auction'
+bip_39_word_new_line2: 'move
+
+  solution'
+bip_39_word_new_line3: 'move
+
+  solution
+
+  step'
+bip_39_word_new_line4: 'move
+
+  solution
+
+  step
+
+  swamp'
+bip_39_word_new_line5: 'move
+
+  solution
+
+  step
+
+  swamp
+
+  erode'
+bip_39_word_new_line6: 'move
+
+  solution
+
+  step
+
+  swamp
+
+  erode
+
+  leg'
+bip_39_word_new_line7: 'move
+
+  solution
+
+  step
+
+  swamp
+
+  erode
+
+  leg
+
+  teach'
+bip_39_word_new_line8: 'move
+
+  solution
+
+  step
+
+  swamp
+
+  erode
+
+  leg
+
+  teach
+
+  bench'
+bip_39_word_new_line9: 'move
+
+  solution
+
+  step
+
+  swamp
+
+  erode
+
+  leg
+
+  teach
+
+  bench
+
+  ocean'
+bip_39_word_space_0:
+- move
+- solution
+- step
+- swamp
+- erode
+- leg
+- teach
+- bench
+- ocean
+- supreme
+- quit
+- auction
+bip_39_word_space_1: move
+bip_39_word_space_10: move solution step swamp erode leg teach bench ocean supreme
+bip_39_word_space_11: move solution step swamp erode leg teach bench ocean supreme
+  quit
+bip_39_word_space_12: move solution step swamp erode leg teach bench ocean supreme
+  quit auction
+bip_39_word_space_2: move solution
+bip_39_word_space_3: move solution step
+bip_39_word_space_4: move solution step swamp
+bip_39_word_space_5: move solution step swamp erode
+bip_39_word_space_6: move solution step swamp erode leg
+bip_39_word_space_7: move solution step swamp erode leg teach
+bip_39_word_space_8: move solution step swamp erode leg teach bench
+bip_39_word_space_9: move solution step swamp erode leg teach bench ocean
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

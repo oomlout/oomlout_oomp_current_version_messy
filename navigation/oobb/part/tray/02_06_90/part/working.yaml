@@ -1,3 +1,187 @@
+bip_39_word_new_br1: borrow
+bip_39_word_new_br10: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit<br>math<br>north
+bip_39_word_new_br11: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit<br>math<br>north<br>search
+bip_39_word_new_br12: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit<br>math<br>north<br>search<br>art
+bip_39_word_new_br2: borrow<br>enlist
+bip_39_word_new_br3: borrow<br>enlist<br>illegal
+bip_39_word_new_br4: borrow<br>enlist<br>illegal<br>swing
+bip_39_word_new_br5: borrow<br>enlist<br>illegal<br>swing<br>excite
+bip_39_word_new_br6: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella
+bip_39_word_new_br7: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise
+bip_39_word_new_br8: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit
+bip_39_word_new_br9: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit<br>math
+bip_39_word_new_line1: borrow
+bip_39_word_new_line10: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit
+
+  math
+
+  north'
+bip_39_word_new_line11: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit
+
+  math
+
+  north
+
+  search'
+bip_39_word_new_line12: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit
+
+  math
+
+  north
+
+  search
+
+  art'
+bip_39_word_new_line2: 'borrow
+
+  enlist'
+bip_39_word_new_line3: 'borrow
+
+  enlist
+
+  illegal'
+bip_39_word_new_line4: 'borrow
+
+  enlist
+
+  illegal
+
+  swing'
+bip_39_word_new_line5: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite'
+bip_39_word_new_line6: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella'
+bip_39_word_new_line7: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise'
+bip_39_word_new_line8: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit'
+bip_39_word_new_line9: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit
+
+  math'
+bip_39_word_space_0:
+- borrow
+- enlist
+- illegal
+- swing
+- excite
+- umbrella
+- praise
+- spirit
+- math
+- north
+- search
+- art
+bip_39_word_space_1: borrow
+bip_39_word_space_10: borrow enlist illegal swing excite umbrella praise spirit math
+  north
+bip_39_word_space_11: borrow enlist illegal swing excite umbrella praise spirit math
+  north search
+bip_39_word_space_12: borrow enlist illegal swing excite umbrella praise spirit math
+  north search art
+bip_39_word_space_2: borrow enlist
+bip_39_word_space_3: borrow enlist illegal
+bip_39_word_space_4: borrow enlist illegal swing
+bip_39_word_space_5: borrow enlist illegal swing excite
+bip_39_word_space_6: borrow enlist illegal swing excite umbrella
+bip_39_word_space_7: borrow enlist illegal swing excite umbrella praise
+bip_39_word_space_8: borrow enlist illegal swing excite umbrella praise spirit
+bip_39_word_space_9: borrow enlist illegal swing excite umbrella praise spirit math
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

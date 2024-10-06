@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: receive bunker
+  * bip 39 word 3: receive bunker moon
+  * bip 39 word: receive bunker moon gentle throw false tuition century recipe salt cool album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | receive |  
+| bip_39_word_new_br10 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt |  
+| bip_39_word_new_br11 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool |  
+| bip_39_word_new_br12 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool<br>album |  
+| bip_39_word_new_br2 | receive<br>bunker |  
+| bip_39_word_new_br3 | receive<br>bunker<br>moon |  
+| bip_39_word_new_br4 | receive<br>bunker<br>moon<br>gentle |  
+| bip_39_word_new_br5 | receive<br>bunker<br>moon<br>gentle<br>throw |  
+| bip_39_word_new_br6 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false |  
+| bip_39_word_new_br7 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition |  
+| bip_39_word_new_br8 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century |  
+| bip_39_word_new_br9 | receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe |  
+| bip_39_word_new_line1 | receive |  
+| bip_39_word_new_line10 | receive
+bunker
+moon
+gentle
+throw
+false
+tuition
+century
+recipe
+salt |  
+| bip_39_word_new_line11 | receive
+bunker
+moon
+gentle
+throw
+false
+tuition
+century
+recipe
+salt
+cool |  
+| bip_39_word_new_line12 | receive
+bunker
+moon
+gentle
+throw
+false
+tuition
+century
+recipe
+salt
+cool
+album |  
+| bip_39_word_new_line2 | receive
+bunker |  
+| bip_39_word_new_line3 | receive
+bunker
+moon |  
+| bip_39_word_new_line4 | receive
+bunker
+moon
+gentle |  
+| bip_39_word_new_line5 | receive
+bunker
+moon
+gentle
+throw |  
+| bip_39_word_new_line6 | receive
+bunker
+moon
+gentle
+throw
+false |  
+| bip_39_word_new_line7 | receive
+bunker
+moon
+gentle
+throw
+false
+tuition |  
+| bip_39_word_new_line8 | receive
+bunker
+moon
+gentle
+throw
+false
+tuition
+century |  
+| bip_39_word_new_line9 | receive
+bunker
+moon
+gentle
+throw
+false
+tuition
+century
+recipe |  
+| bip_39_word_space_0 | ['receive', 'bunker', 'moon', 'gentle', 'throw', 'false', 'tuition', 'century', 'recipe', 'salt', 'cool', 'album'] |  
+| bip_39_word_space_1 | receive |  
+| bip_39_word_space_10 | receive bunker moon gentle throw false tuition century recipe salt |  
+| bip_39_word_space_11 | receive bunker moon gentle throw false tuition century recipe salt cool |  
+| bip_39_word_space_12 | receive bunker moon gentle throw false tuition century recipe salt cool album |  
+| bip_39_word_space_2 | receive bunker |  
+| bip_39_word_space_3 | receive bunker moon |  
+| bip_39_word_space_4 | receive bunker moon gentle |  
+| bip_39_word_space_5 | receive bunker moon gentle throw |  
+| bip_39_word_space_6 | receive bunker moon gentle throw false |  
+| bip_39_word_space_7 | receive bunker moon gentle throw false tuition |  
+| bip_39_word_space_8 | receive bunker moon gentle throw false tuition century |  
+| bip_39_word_space_9 | receive bunker moon gentle throw false tuition century recipe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

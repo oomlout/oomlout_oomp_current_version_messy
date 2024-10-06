@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: video oval
+  * bip 39 word 3: video oval breeze
+  * bip 39 word: video oval breeze distance pledge network custom road crowd pitch gym able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | video |  
+| bip_39_word_new_br10 | video<br>oval<br>breeze<br>distance<br>pledge<br>network<br>custom<br>road<br>crowd<br>pitch |  
+| bip_39_word_new_br11 | video<br>oval<br>breeze<br>distance<br>pledge<br>network<br>custom<br>road<br>crowd<br>pitch<br>gym |  
+| bip_39_word_new_br12 | video<br>oval<br>breeze<br>distance<br>pledge<br>network<br>custom<br>road<br>crowd<br>pitch<br>gym<br>able |  
+| bip_39_word_new_br2 | video<br>oval |  
+| bip_39_word_new_br3 | video<br>oval<br>breeze |  
+| bip_39_word_new_br4 | video<br>oval<br>breeze<br>distance |  
+| bip_39_word_new_br5 | video<br>oval<br>breeze<br>distance<br>pledge |  
+| bip_39_word_new_br6 | video<br>oval<br>breeze<br>distance<br>pledge<br>network |  
+| bip_39_word_new_br7 | video<br>oval<br>breeze<br>distance<br>pledge<br>network<br>custom |  
+| bip_39_word_new_br8 | video<br>oval<br>breeze<br>distance<br>pledge<br>network<br>custom<br>road |  
+| bip_39_word_new_br9 | video<br>oval<br>breeze<br>distance<br>pledge<br>network<br>custom<br>road<br>crowd |  
+| bip_39_word_new_line1 | video |  
+| bip_39_word_new_line10 | video
+oval
+breeze
+distance
+pledge
+network
+custom
+road
+crowd
+pitch |  
+| bip_39_word_new_line11 | video
+oval
+breeze
+distance
+pledge
+network
+custom
+road
+crowd
+pitch
+gym |  
+| bip_39_word_new_line12 | video
+oval
+breeze
+distance
+pledge
+network
+custom
+road
+crowd
+pitch
+gym
+able |  
+| bip_39_word_new_line2 | video
+oval |  
+| bip_39_word_new_line3 | video
+oval
+breeze |  
+| bip_39_word_new_line4 | video
+oval
+breeze
+distance |  
+| bip_39_word_new_line5 | video
+oval
+breeze
+distance
+pledge |  
+| bip_39_word_new_line6 | video
+oval
+breeze
+distance
+pledge
+network |  
+| bip_39_word_new_line7 | video
+oval
+breeze
+distance
+pledge
+network
+custom |  
+| bip_39_word_new_line8 | video
+oval
+breeze
+distance
+pledge
+network
+custom
+road |  
+| bip_39_word_new_line9 | video
+oval
+breeze
+distance
+pledge
+network
+custom
+road
+crowd |  
+| bip_39_word_space_0 | ['video', 'oval', 'breeze', 'distance', 'pledge', 'network', 'custom', 'road', 'crowd', 'pitch', 'gym', 'able'] |  
+| bip_39_word_space_1 | video |  
+| bip_39_word_space_10 | video oval breeze distance pledge network custom road crowd pitch |  
+| bip_39_word_space_11 | video oval breeze distance pledge network custom road crowd pitch gym |  
+| bip_39_word_space_12 | video oval breeze distance pledge network custom road crowd pitch gym able |  
+| bip_39_word_space_2 | video oval |  
+| bip_39_word_space_3 | video oval breeze |  
+| bip_39_word_space_4 | video oval breeze distance |  
+| bip_39_word_space_5 | video oval breeze distance pledge |  
+| bip_39_word_space_6 | video oval breeze distance pledge network |  
+| bip_39_word_space_7 | video oval breeze distance pledge network custom |  
+| bip_39_word_space_8 | video oval breeze distance pledge network custom road |  
+| bip_39_word_space_9 | video oval breeze distance pledge network custom road crowd |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

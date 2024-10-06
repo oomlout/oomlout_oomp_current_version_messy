@@ -1,3 +1,186 @@
+bip_39_word_new_br1: country
+bip_39_word_new_br10: country<br>title<br>stay<br>undo<br>index<br>decline<br>twin<br>range<br>away<br>chronic
+bip_39_word_new_br11: country<br>title<br>stay<br>undo<br>index<br>decline<br>twin<br>range<br>away<br>chronic<br>enemy
+bip_39_word_new_br12: country<br>title<br>stay<br>undo<br>index<br>decline<br>twin<br>range<br>away<br>chronic<br>enemy<br>account
+bip_39_word_new_br2: country<br>title
+bip_39_word_new_br3: country<br>title<br>stay
+bip_39_word_new_br4: country<br>title<br>stay<br>undo
+bip_39_word_new_br5: country<br>title<br>stay<br>undo<br>index
+bip_39_word_new_br6: country<br>title<br>stay<br>undo<br>index<br>decline
+bip_39_word_new_br7: country<br>title<br>stay<br>undo<br>index<br>decline<br>twin
+bip_39_word_new_br8: country<br>title<br>stay<br>undo<br>index<br>decline<br>twin<br>range
+bip_39_word_new_br9: country<br>title<br>stay<br>undo<br>index<br>decline<br>twin<br>range<br>away
+bip_39_word_new_line1: country
+bip_39_word_new_line10: 'country
+
+  title
+
+  stay
+
+  undo
+
+  index
+
+  decline
+
+  twin
+
+  range
+
+  away
+
+  chronic'
+bip_39_word_new_line11: 'country
+
+  title
+
+  stay
+
+  undo
+
+  index
+
+  decline
+
+  twin
+
+  range
+
+  away
+
+  chronic
+
+  enemy'
+bip_39_word_new_line12: 'country
+
+  title
+
+  stay
+
+  undo
+
+  index
+
+  decline
+
+  twin
+
+  range
+
+  away
+
+  chronic
+
+  enemy
+
+  account'
+bip_39_word_new_line2: 'country
+
+  title'
+bip_39_word_new_line3: 'country
+
+  title
+
+  stay'
+bip_39_word_new_line4: 'country
+
+  title
+
+  stay
+
+  undo'
+bip_39_word_new_line5: 'country
+
+  title
+
+  stay
+
+  undo
+
+  index'
+bip_39_word_new_line6: 'country
+
+  title
+
+  stay
+
+  undo
+
+  index
+
+  decline'
+bip_39_word_new_line7: 'country
+
+  title
+
+  stay
+
+  undo
+
+  index
+
+  decline
+
+  twin'
+bip_39_word_new_line8: 'country
+
+  title
+
+  stay
+
+  undo
+
+  index
+
+  decline
+
+  twin
+
+  range'
+bip_39_word_new_line9: 'country
+
+  title
+
+  stay
+
+  undo
+
+  index
+
+  decline
+
+  twin
+
+  range
+
+  away'
+bip_39_word_space_0:
+- country
+- title
+- stay
+- undo
+- index
+- decline
+- twin
+- range
+- away
+- chronic
+- enemy
+- account
+bip_39_word_space_1: country
+bip_39_word_space_10: country title stay undo index decline twin range away chronic
+bip_39_word_space_11: country title stay undo index decline twin range away chronic
+  enemy
+bip_39_word_space_12: country title stay undo index decline twin range away chronic
+  enemy account
+bip_39_word_space_2: country title
+bip_39_word_space_3: country title stay
+bip_39_word_space_4: country title stay undo
+bip_39_word_space_5: country title stay undo index
+bip_39_word_space_6: country title stay undo index decline
+bip_39_word_space_7: country title stay undo index decline twin
+bip_39_word_space_8: country title stay undo index decline twin range
+bip_39_word_space_9: country title stay undo index decline twin range away
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

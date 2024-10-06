@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_screwdriver_driver_bit_x4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rely napkin
+  * bip 39 word 3: rely napkin today
+  * bip 39 word: rely napkin today lounge afraid custom include barely hammer museum zero adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rely |  
+| bip_39_word_new_br10 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer<br>museum |  
+| bip_39_word_new_br11 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer<br>museum<br>zero |  
+| bip_39_word_new_br12 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer<br>museum<br>zero<br>adult |  
+| bip_39_word_new_br2 | rely<br>napkin |  
+| bip_39_word_new_br3 | rely<br>napkin<br>today |  
+| bip_39_word_new_br4 | rely<br>napkin<br>today<br>lounge |  
+| bip_39_word_new_br5 | rely<br>napkin<br>today<br>lounge<br>afraid |  
+| bip_39_word_new_br6 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom |  
+| bip_39_word_new_br7 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include |  
+| bip_39_word_new_br8 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely |  
+| bip_39_word_new_br9 | rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer |  
+| bip_39_word_new_line1 | rely |  
+| bip_39_word_new_line10 | rely
+napkin
+today
+lounge
+afraid
+custom
+include
+barely
+hammer
+museum |  
+| bip_39_word_new_line11 | rely
+napkin
+today
+lounge
+afraid
+custom
+include
+barely
+hammer
+museum
+zero |  
+| bip_39_word_new_line12 | rely
+napkin
+today
+lounge
+afraid
+custom
+include
+barely
+hammer
+museum
+zero
+adult |  
+| bip_39_word_new_line2 | rely
+napkin |  
+| bip_39_word_new_line3 | rely
+napkin
+today |  
+| bip_39_word_new_line4 | rely
+napkin
+today
+lounge |  
+| bip_39_word_new_line5 | rely
+napkin
+today
+lounge
+afraid |  
+| bip_39_word_new_line6 | rely
+napkin
+today
+lounge
+afraid
+custom |  
+| bip_39_word_new_line7 | rely
+napkin
+today
+lounge
+afraid
+custom
+include |  
+| bip_39_word_new_line8 | rely
+napkin
+today
+lounge
+afraid
+custom
+include
+barely |  
+| bip_39_word_new_line9 | rely
+napkin
+today
+lounge
+afraid
+custom
+include
+barely
+hammer |  
+| bip_39_word_space_0 | ['rely', 'napkin', 'today', 'lounge', 'afraid', 'custom', 'include', 'barely', 'hammer', 'museum', 'zero', 'adult'] |  
+| bip_39_word_space_1 | rely |  
+| bip_39_word_space_10 | rely napkin today lounge afraid custom include barely hammer museum |  
+| bip_39_word_space_11 | rely napkin today lounge afraid custom include barely hammer museum zero |  
+| bip_39_word_space_12 | rely napkin today lounge afraid custom include barely hammer museum zero adult |  
+| bip_39_word_space_2 | rely napkin |  
+| bip_39_word_space_3 | rely napkin today |  
+| bip_39_word_space_4 | rely napkin today lounge |  
+| bip_39_word_space_5 | rely napkin today lounge afraid |  
+| bip_39_word_space_6 | rely napkin today lounge afraid custom |  
+| bip_39_word_space_7 | rely napkin today lounge afraid custom include |  
+| bip_39_word_space_8 | rely napkin today lounge afraid custom include barely |  
+| bip_39_word_space_9 | rely napkin today lounge afraid custom include barely hammer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

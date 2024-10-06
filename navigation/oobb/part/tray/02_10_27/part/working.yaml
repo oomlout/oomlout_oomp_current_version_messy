@@ -1,3 +1,187 @@
+bip_39_word_new_br1: employ
+bip_39_word_new_br10: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all
+bip_39_word_new_br11: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all<br>hover
+bip_39_word_new_br12: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo<br>all<br>hover<br>alien
+bip_39_word_new_br2: employ<br>ignore
+bip_39_word_new_br3: employ<br>ignore<br>number
+bip_39_word_new_br4: employ<br>ignore<br>number<br>eternal
+bip_39_word_new_br5: employ<br>ignore<br>number<br>eternal<br>diet
+bip_39_word_new_br6: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce
+bip_39_word_new_br7: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel
+bip_39_word_new_br8: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor
+bip_39_word_new_br9: employ<br>ignore<br>number<br>eternal<br>diet<br>reduce<br>novel<br>flavor<br>stereo
+bip_39_word_new_line1: employ
+bip_39_word_new_line10: 'employ
+
+  ignore
+
+  number
+
+  eternal
+
+  diet
+
+  reduce
+
+  novel
+
+  flavor
+
+  stereo
+
+  all'
+bip_39_word_new_line11: 'employ
+
+  ignore
+
+  number
+
+  eternal
+
+  diet
+
+  reduce
+
+  novel
+
+  flavor
+
+  stereo
+
+  all
+
+  hover'
+bip_39_word_new_line12: 'employ
+
+  ignore
+
+  number
+
+  eternal
+
+  diet
+
+  reduce
+
+  novel
+
+  flavor
+
+  stereo
+
+  all
+
+  hover
+
+  alien'
+bip_39_word_new_line2: 'employ
+
+  ignore'
+bip_39_word_new_line3: 'employ
+
+  ignore
+
+  number'
+bip_39_word_new_line4: 'employ
+
+  ignore
+
+  number
+
+  eternal'
+bip_39_word_new_line5: 'employ
+
+  ignore
+
+  number
+
+  eternal
+
+  diet'
+bip_39_word_new_line6: 'employ
+
+  ignore
+
+  number
+
+  eternal
+
+  diet
+
+  reduce'
+bip_39_word_new_line7: 'employ
+
+  ignore
+
+  number
+
+  eternal
+
+  diet
+
+  reduce
+
+  novel'
+bip_39_word_new_line8: 'employ
+
+  ignore
+
+  number
+
+  eternal
+
+  diet
+
+  reduce
+
+  novel
+
+  flavor'
+bip_39_word_new_line9: 'employ
+
+  ignore
+
+  number
+
+  eternal
+
+  diet
+
+  reduce
+
+  novel
+
+  flavor
+
+  stereo'
+bip_39_word_space_0:
+- employ
+- ignore
+- number
+- eternal
+- diet
+- reduce
+- novel
+- flavor
+- stereo
+- all
+- hover
+- alien
+bip_39_word_space_1: employ
+bip_39_word_space_10: employ ignore number eternal diet reduce novel flavor stereo
+  all
+bip_39_word_space_11: employ ignore number eternal diet reduce novel flavor stereo
+  all hover
+bip_39_word_space_12: employ ignore number eternal diet reduce novel flavor stereo
+  all hover alien
+bip_39_word_space_2: employ ignore
+bip_39_word_space_3: employ ignore number
+bip_39_word_space_4: employ ignore number eternal
+bip_39_word_space_5: employ ignore number eternal diet
+bip_39_word_space_6: employ ignore number eternal diet reduce
+bip_39_word_space_7: employ ignore number eternal diet reduce novel
+bip_39_word_space_8: employ ignore number eternal diet reduce novel flavor
+bip_39_word_space_9: employ ignore number eternal diet reduce novel flavor stereo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

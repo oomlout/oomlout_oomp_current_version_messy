@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hurt rifle
+  * bip 39 word 3: hurt rifle bid
+  * bip 39 word: hurt rifle bid blind long pulp slight blue town renew sword achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hurt |  
+| bip_39_word_new_br10 | hurt<br>rifle<br>bid<br>blind<br>long<br>pulp<br>slight<br>blue<br>town<br>renew |  
+| bip_39_word_new_br11 | hurt<br>rifle<br>bid<br>blind<br>long<br>pulp<br>slight<br>blue<br>town<br>renew<br>sword |  
+| bip_39_word_new_br12 | hurt<br>rifle<br>bid<br>blind<br>long<br>pulp<br>slight<br>blue<br>town<br>renew<br>sword<br>achieve |  
+| bip_39_word_new_br2 | hurt<br>rifle |  
+| bip_39_word_new_br3 | hurt<br>rifle<br>bid |  
+| bip_39_word_new_br4 | hurt<br>rifle<br>bid<br>blind |  
+| bip_39_word_new_br5 | hurt<br>rifle<br>bid<br>blind<br>long |  
+| bip_39_word_new_br6 | hurt<br>rifle<br>bid<br>blind<br>long<br>pulp |  
+| bip_39_word_new_br7 | hurt<br>rifle<br>bid<br>blind<br>long<br>pulp<br>slight |  
+| bip_39_word_new_br8 | hurt<br>rifle<br>bid<br>blind<br>long<br>pulp<br>slight<br>blue |  
+| bip_39_word_new_br9 | hurt<br>rifle<br>bid<br>blind<br>long<br>pulp<br>slight<br>blue<br>town |  
+| bip_39_word_new_line1 | hurt |  
+| bip_39_word_new_line10 | hurt
+rifle
+bid
+blind
+long
+pulp
+slight
+blue
+town
+renew |  
+| bip_39_word_new_line11 | hurt
+rifle
+bid
+blind
+long
+pulp
+slight
+blue
+town
+renew
+sword |  
+| bip_39_word_new_line12 | hurt
+rifle
+bid
+blind
+long
+pulp
+slight
+blue
+town
+renew
+sword
+achieve |  
+| bip_39_word_new_line2 | hurt
+rifle |  
+| bip_39_word_new_line3 | hurt
+rifle
+bid |  
+| bip_39_word_new_line4 | hurt
+rifle
+bid
+blind |  
+| bip_39_word_new_line5 | hurt
+rifle
+bid
+blind
+long |  
+| bip_39_word_new_line6 | hurt
+rifle
+bid
+blind
+long
+pulp |  
+| bip_39_word_new_line7 | hurt
+rifle
+bid
+blind
+long
+pulp
+slight |  
+| bip_39_word_new_line8 | hurt
+rifle
+bid
+blind
+long
+pulp
+slight
+blue |  
+| bip_39_word_new_line9 | hurt
+rifle
+bid
+blind
+long
+pulp
+slight
+blue
+town |  
+| bip_39_word_space_0 | ['hurt', 'rifle', 'bid', 'blind', 'long', 'pulp', 'slight', 'blue', 'town', 'renew', 'sword', 'achieve'] |  
+| bip_39_word_space_1 | hurt |  
+| bip_39_word_space_10 | hurt rifle bid blind long pulp slight blue town renew |  
+| bip_39_word_space_11 | hurt rifle bid blind long pulp slight blue town renew sword |  
+| bip_39_word_space_12 | hurt rifle bid blind long pulp slight blue town renew sword achieve |  
+| bip_39_word_space_2 | hurt rifle |  
+| bip_39_word_space_3 | hurt rifle bid |  
+| bip_39_word_space_4 | hurt rifle bid blind |  
+| bip_39_word_space_5 | hurt rifle bid blind long |  
+| bip_39_word_space_6 | hurt rifle bid blind long pulp |  
+| bip_39_word_space_7 | hurt rifle bid blind long pulp slight |  
+| bip_39_word_space_8 | hurt rifle bid blind long pulp slight blue |  
+| bip_39_word_space_9 | hurt rifle bid blind long pulp slight blue town |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

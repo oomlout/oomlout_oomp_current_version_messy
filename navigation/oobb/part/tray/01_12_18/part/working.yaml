@@ -1,3 +1,186 @@
+bip_39_word_new_br1: service
+bip_39_word_new_br10: service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit
+bip_39_word_new_br11: service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit<br>snap
+bip_39_word_new_br12: service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock<br>visit<br>snap<br>assist
+bip_39_word_new_br2: service<br>session
+bip_39_word_new_br3: service<br>session<br>cry
+bip_39_word_new_br4: service<br>session<br>cry<br>lunch
+bip_39_word_new_br5: service<br>session<br>cry<br>lunch<br>conduct
+bip_39_word_new_br6: service<br>session<br>cry<br>lunch<br>conduct<br>glow
+bip_39_word_new_br7: service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble
+bip_39_word_new_br8: service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard
+bip_39_word_new_br9: service<br>session<br>cry<br>lunch<br>conduct<br>glow<br>humble<br>lizard<br>knock
+bip_39_word_new_line1: service
+bip_39_word_new_line10: 'service
+
+  session
+
+  cry
+
+  lunch
+
+  conduct
+
+  glow
+
+  humble
+
+  lizard
+
+  knock
+
+  visit'
+bip_39_word_new_line11: 'service
+
+  session
+
+  cry
+
+  lunch
+
+  conduct
+
+  glow
+
+  humble
+
+  lizard
+
+  knock
+
+  visit
+
+  snap'
+bip_39_word_new_line12: 'service
+
+  session
+
+  cry
+
+  lunch
+
+  conduct
+
+  glow
+
+  humble
+
+  lizard
+
+  knock
+
+  visit
+
+  snap
+
+  assist'
+bip_39_word_new_line2: 'service
+
+  session'
+bip_39_word_new_line3: 'service
+
+  session
+
+  cry'
+bip_39_word_new_line4: 'service
+
+  session
+
+  cry
+
+  lunch'
+bip_39_word_new_line5: 'service
+
+  session
+
+  cry
+
+  lunch
+
+  conduct'
+bip_39_word_new_line6: 'service
+
+  session
+
+  cry
+
+  lunch
+
+  conduct
+
+  glow'
+bip_39_word_new_line7: 'service
+
+  session
+
+  cry
+
+  lunch
+
+  conduct
+
+  glow
+
+  humble'
+bip_39_word_new_line8: 'service
+
+  session
+
+  cry
+
+  lunch
+
+  conduct
+
+  glow
+
+  humble
+
+  lizard'
+bip_39_word_new_line9: 'service
+
+  session
+
+  cry
+
+  lunch
+
+  conduct
+
+  glow
+
+  humble
+
+  lizard
+
+  knock'
+bip_39_word_space_0:
+- service
+- session
+- cry
+- lunch
+- conduct
+- glow
+- humble
+- lizard
+- knock
+- visit
+- snap
+- assist
+bip_39_word_space_1: service
+bip_39_word_space_10: service session cry lunch conduct glow humble lizard knock visit
+bip_39_word_space_11: service session cry lunch conduct glow humble lizard knock visit
+  snap
+bip_39_word_space_12: service session cry lunch conduct glow humble lizard knock visit
+  snap assist
+bip_39_word_space_2: service session
+bip_39_word_space_3: service session cry
+bip_39_word_space_4: service session cry lunch
+bip_39_word_space_5: service session cry lunch conduct
+bip_39_word_space_6: service session cry lunch conduct glow
+bip_39_word_space_7: service session cry lunch conduct glow humble
+bip_39_word_space_8: service session cry lunch conduct glow humble lizard
+bip_39_word_space_9: service session cry lunch conduct glow humble lizard knock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

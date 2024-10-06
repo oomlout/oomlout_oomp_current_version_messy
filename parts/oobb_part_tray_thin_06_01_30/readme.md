@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: choose point
+  * bip 39 word 3: choose point expect
+  * bip 39 word: choose point expect table unlock suspect fiscal sense furnace country pair armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | choose |  
+| bip_39_word_new_br10 | choose<br>point<br>expect<br>table<br>unlock<br>suspect<br>fiscal<br>sense<br>furnace<br>country |  
+| bip_39_word_new_br11 | choose<br>point<br>expect<br>table<br>unlock<br>suspect<br>fiscal<br>sense<br>furnace<br>country<br>pair |  
+| bip_39_word_new_br12 | choose<br>point<br>expect<br>table<br>unlock<br>suspect<br>fiscal<br>sense<br>furnace<br>country<br>pair<br>armed |  
+| bip_39_word_new_br2 | choose<br>point |  
+| bip_39_word_new_br3 | choose<br>point<br>expect |  
+| bip_39_word_new_br4 | choose<br>point<br>expect<br>table |  
+| bip_39_word_new_br5 | choose<br>point<br>expect<br>table<br>unlock |  
+| bip_39_word_new_br6 | choose<br>point<br>expect<br>table<br>unlock<br>suspect |  
+| bip_39_word_new_br7 | choose<br>point<br>expect<br>table<br>unlock<br>suspect<br>fiscal |  
+| bip_39_word_new_br8 | choose<br>point<br>expect<br>table<br>unlock<br>suspect<br>fiscal<br>sense |  
+| bip_39_word_new_br9 | choose<br>point<br>expect<br>table<br>unlock<br>suspect<br>fiscal<br>sense<br>furnace |  
+| bip_39_word_new_line1 | choose |  
+| bip_39_word_new_line10 | choose
+point
+expect
+table
+unlock
+suspect
+fiscal
+sense
+furnace
+country |  
+| bip_39_word_new_line11 | choose
+point
+expect
+table
+unlock
+suspect
+fiscal
+sense
+furnace
+country
+pair |  
+| bip_39_word_new_line12 | choose
+point
+expect
+table
+unlock
+suspect
+fiscal
+sense
+furnace
+country
+pair
+armed |  
+| bip_39_word_new_line2 | choose
+point |  
+| bip_39_word_new_line3 | choose
+point
+expect |  
+| bip_39_word_new_line4 | choose
+point
+expect
+table |  
+| bip_39_word_new_line5 | choose
+point
+expect
+table
+unlock |  
+| bip_39_word_new_line6 | choose
+point
+expect
+table
+unlock
+suspect |  
+| bip_39_word_new_line7 | choose
+point
+expect
+table
+unlock
+suspect
+fiscal |  
+| bip_39_word_new_line8 | choose
+point
+expect
+table
+unlock
+suspect
+fiscal
+sense |  
+| bip_39_word_new_line9 | choose
+point
+expect
+table
+unlock
+suspect
+fiscal
+sense
+furnace |  
+| bip_39_word_space_0 | ['choose', 'point', 'expect', 'table', 'unlock', 'suspect', 'fiscal', 'sense', 'furnace', 'country', 'pair', 'armed'] |  
+| bip_39_word_space_1 | choose |  
+| bip_39_word_space_10 | choose point expect table unlock suspect fiscal sense furnace country |  
+| bip_39_word_space_11 | choose point expect table unlock suspect fiscal sense furnace country pair |  
+| bip_39_word_space_12 | choose point expect table unlock suspect fiscal sense furnace country pair armed |  
+| bip_39_word_space_2 | choose point |  
+| bip_39_word_space_3 | choose point expect |  
+| bip_39_word_space_4 | choose point expect table |  
+| bip_39_word_space_5 | choose point expect table unlock |  
+| bip_39_word_space_6 | choose point expect table unlock suspect |  
+| bip_39_word_space_7 | choose point expect table unlock suspect fiscal |  
+| bip_39_word_space_8 | choose point expect table unlock suspect fiscal sense |  
+| bip_39_word_space_9 | choose point expect table unlock suspect fiscal sense furnace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

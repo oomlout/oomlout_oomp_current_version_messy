@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lunch zoo
+  * bip 39 word 3: lunch zoo stairs
+  * bip 39 word: lunch zoo stairs biology unfold old picnic cost until second agree avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lunch |  
+| bip_39_word_new_br10 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old<br>picnic<br>cost<br>until<br>second |  
+| bip_39_word_new_br11 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old<br>picnic<br>cost<br>until<br>second<br>agree |  
+| bip_39_word_new_br12 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old<br>picnic<br>cost<br>until<br>second<br>agree<br>avocado |  
+| bip_39_word_new_br2 | lunch<br>zoo |  
+| bip_39_word_new_br3 | lunch<br>zoo<br>stairs |  
+| bip_39_word_new_br4 | lunch<br>zoo<br>stairs<br>biology |  
+| bip_39_word_new_br5 | lunch<br>zoo<br>stairs<br>biology<br>unfold |  
+| bip_39_word_new_br6 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old |  
+| bip_39_word_new_br7 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old<br>picnic |  
+| bip_39_word_new_br8 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old<br>picnic<br>cost |  
+| bip_39_word_new_br9 | lunch<br>zoo<br>stairs<br>biology<br>unfold<br>old<br>picnic<br>cost<br>until |  
+| bip_39_word_new_line1 | lunch |  
+| bip_39_word_new_line10 | lunch
+zoo
+stairs
+biology
+unfold
+old
+picnic
+cost
+until
+second |  
+| bip_39_word_new_line11 | lunch
+zoo
+stairs
+biology
+unfold
+old
+picnic
+cost
+until
+second
+agree |  
+| bip_39_word_new_line12 | lunch
+zoo
+stairs
+biology
+unfold
+old
+picnic
+cost
+until
+second
+agree
+avocado |  
+| bip_39_word_new_line2 | lunch
+zoo |  
+| bip_39_word_new_line3 | lunch
+zoo
+stairs |  
+| bip_39_word_new_line4 | lunch
+zoo
+stairs
+biology |  
+| bip_39_word_new_line5 | lunch
+zoo
+stairs
+biology
+unfold |  
+| bip_39_word_new_line6 | lunch
+zoo
+stairs
+biology
+unfold
+old |  
+| bip_39_word_new_line7 | lunch
+zoo
+stairs
+biology
+unfold
+old
+picnic |  
+| bip_39_word_new_line8 | lunch
+zoo
+stairs
+biology
+unfold
+old
+picnic
+cost |  
+| bip_39_word_new_line9 | lunch
+zoo
+stairs
+biology
+unfold
+old
+picnic
+cost
+until |  
+| bip_39_word_space_0 | ['lunch', 'zoo', 'stairs', 'biology', 'unfold', 'old', 'picnic', 'cost', 'until', 'second', 'agree', 'avocado'] |  
+| bip_39_word_space_1 | lunch |  
+| bip_39_word_space_10 | lunch zoo stairs biology unfold old picnic cost until second |  
+| bip_39_word_space_11 | lunch zoo stairs biology unfold old picnic cost until second agree |  
+| bip_39_word_space_12 | lunch zoo stairs biology unfold old picnic cost until second agree avocado |  
+| bip_39_word_space_2 | lunch zoo |  
+| bip_39_word_space_3 | lunch zoo stairs |  
+| bip_39_word_space_4 | lunch zoo stairs biology |  
+| bip_39_word_space_5 | lunch zoo stairs biology unfold |  
+| bip_39_word_space_6 | lunch zoo stairs biology unfold old |  
+| bip_39_word_space_7 | lunch zoo stairs biology unfold old picnic |  
+| bip_39_word_space_8 | lunch zoo stairs biology unfold old picnic cost |  
+| bip_39_word_space_9 | lunch zoo stairs biology unfold old picnic cost until |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

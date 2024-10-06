@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: elephant original
+  * bip 39 word 3: elephant original cloud
+  * bip 39 word: elephant original cloud dignity february surround horn copy now orbit carry audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | elephant |  
+| bip_39_word_new_br10 | elephant<br>original<br>cloud<br>dignity<br>february<br>surround<br>horn<br>copy<br>now<br>orbit |  
+| bip_39_word_new_br11 | elephant<br>original<br>cloud<br>dignity<br>february<br>surround<br>horn<br>copy<br>now<br>orbit<br>carry |  
+| bip_39_word_new_br12 | elephant<br>original<br>cloud<br>dignity<br>february<br>surround<br>horn<br>copy<br>now<br>orbit<br>carry<br>audit |  
+| bip_39_word_new_br2 | elephant<br>original |  
+| bip_39_word_new_br3 | elephant<br>original<br>cloud |  
+| bip_39_word_new_br4 | elephant<br>original<br>cloud<br>dignity |  
+| bip_39_word_new_br5 | elephant<br>original<br>cloud<br>dignity<br>february |  
+| bip_39_word_new_br6 | elephant<br>original<br>cloud<br>dignity<br>february<br>surround |  
+| bip_39_word_new_br7 | elephant<br>original<br>cloud<br>dignity<br>february<br>surround<br>horn |  
+| bip_39_word_new_br8 | elephant<br>original<br>cloud<br>dignity<br>february<br>surround<br>horn<br>copy |  
+| bip_39_word_new_br9 | elephant<br>original<br>cloud<br>dignity<br>february<br>surround<br>horn<br>copy<br>now |  
+| bip_39_word_new_line1 | elephant |  
+| bip_39_word_new_line10 | elephant
+original
+cloud
+dignity
+february
+surround
+horn
+copy
+now
+orbit |  
+| bip_39_word_new_line11 | elephant
+original
+cloud
+dignity
+february
+surround
+horn
+copy
+now
+orbit
+carry |  
+| bip_39_word_new_line12 | elephant
+original
+cloud
+dignity
+february
+surround
+horn
+copy
+now
+orbit
+carry
+audit |  
+| bip_39_word_new_line2 | elephant
+original |  
+| bip_39_word_new_line3 | elephant
+original
+cloud |  
+| bip_39_word_new_line4 | elephant
+original
+cloud
+dignity |  
+| bip_39_word_new_line5 | elephant
+original
+cloud
+dignity
+february |  
+| bip_39_word_new_line6 | elephant
+original
+cloud
+dignity
+february
+surround |  
+| bip_39_word_new_line7 | elephant
+original
+cloud
+dignity
+february
+surround
+horn |  
+| bip_39_word_new_line8 | elephant
+original
+cloud
+dignity
+february
+surround
+horn
+copy |  
+| bip_39_word_new_line9 | elephant
+original
+cloud
+dignity
+february
+surround
+horn
+copy
+now |  
+| bip_39_word_space_0 | ['elephant', 'original', 'cloud', 'dignity', 'february', 'surround', 'horn', 'copy', 'now', 'orbit', 'carry', 'audit'] |  
+| bip_39_word_space_1 | elephant |  
+| bip_39_word_space_10 | elephant original cloud dignity february surround horn copy now orbit |  
+| bip_39_word_space_11 | elephant original cloud dignity february surround horn copy now orbit carry |  
+| bip_39_word_space_12 | elephant original cloud dignity february surround horn copy now orbit carry audit |  
+| bip_39_word_space_2 | elephant original |  
+| bip_39_word_space_3 | elephant original cloud |  
+| bip_39_word_space_4 | elephant original cloud dignity |  
+| bip_39_word_space_5 | elephant original cloud dignity february |  
+| bip_39_word_space_6 | elephant original cloud dignity february surround |  
+| bip_39_word_space_7 | elephant original cloud dignity february surround horn |  
+| bip_39_word_space_8 | elephant original cloud dignity february surround horn copy |  
+| bip_39_word_space_9 | elephant original cloud dignity february surround horn copy now |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

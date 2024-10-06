@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chaos
+bip_39_word_new_br10: chaos<br>can<br>gesture<br>jeans<br>episode<br>force<br>cover<br>physical<br>oven<br>history
+bip_39_word_new_br11: chaos<br>can<br>gesture<br>jeans<br>episode<br>force<br>cover<br>physical<br>oven<br>history<br>census
+bip_39_word_new_br12: chaos<br>can<br>gesture<br>jeans<br>episode<br>force<br>cover<br>physical<br>oven<br>history<br>census<br>age
+bip_39_word_new_br2: chaos<br>can
+bip_39_word_new_br3: chaos<br>can<br>gesture
+bip_39_word_new_br4: chaos<br>can<br>gesture<br>jeans
+bip_39_word_new_br5: chaos<br>can<br>gesture<br>jeans<br>episode
+bip_39_word_new_br6: chaos<br>can<br>gesture<br>jeans<br>episode<br>force
+bip_39_word_new_br7: chaos<br>can<br>gesture<br>jeans<br>episode<br>force<br>cover
+bip_39_word_new_br8: chaos<br>can<br>gesture<br>jeans<br>episode<br>force<br>cover<br>physical
+bip_39_word_new_br9: chaos<br>can<br>gesture<br>jeans<br>episode<br>force<br>cover<br>physical<br>oven
+bip_39_word_new_line1: chaos
+bip_39_word_new_line10: 'chaos
+
+  can
+
+  gesture
+
+  jeans
+
+  episode
+
+  force
+
+  cover
+
+  physical
+
+  oven
+
+  history'
+bip_39_word_new_line11: 'chaos
+
+  can
+
+  gesture
+
+  jeans
+
+  episode
+
+  force
+
+  cover
+
+  physical
+
+  oven
+
+  history
+
+  census'
+bip_39_word_new_line12: 'chaos
+
+  can
+
+  gesture
+
+  jeans
+
+  episode
+
+  force
+
+  cover
+
+  physical
+
+  oven
+
+  history
+
+  census
+
+  age'
+bip_39_word_new_line2: 'chaos
+
+  can'
+bip_39_word_new_line3: 'chaos
+
+  can
+
+  gesture'
+bip_39_word_new_line4: 'chaos
+
+  can
+
+  gesture
+
+  jeans'
+bip_39_word_new_line5: 'chaos
+
+  can
+
+  gesture
+
+  jeans
+
+  episode'
+bip_39_word_new_line6: 'chaos
+
+  can
+
+  gesture
+
+  jeans
+
+  episode
+
+  force'
+bip_39_word_new_line7: 'chaos
+
+  can
+
+  gesture
+
+  jeans
+
+  episode
+
+  force
+
+  cover'
+bip_39_word_new_line8: 'chaos
+
+  can
+
+  gesture
+
+  jeans
+
+  episode
+
+  force
+
+  cover
+
+  physical'
+bip_39_word_new_line9: 'chaos
+
+  can
+
+  gesture
+
+  jeans
+
+  episode
+
+  force
+
+  cover
+
+  physical
+
+  oven'
+bip_39_word_space_0:
+- chaos
+- can
+- gesture
+- jeans
+- episode
+- force
+- cover
+- physical
+- oven
+- history
+- census
+- age
+bip_39_word_space_1: chaos
+bip_39_word_space_10: chaos can gesture jeans episode force cover physical oven history
+bip_39_word_space_11: chaos can gesture jeans episode force cover physical oven history
+  census
+bip_39_word_space_12: chaos can gesture jeans episode force cover physical oven history
+  census age
+bip_39_word_space_2: chaos can
+bip_39_word_space_3: chaos can gesture
+bip_39_word_space_4: chaos can gesture jeans
+bip_39_word_space_5: chaos can gesture jeans episode
+bip_39_word_space_6: chaos can gesture jeans episode force
+bip_39_word_space_7: chaos can gesture jeans episode force cover
+bip_39_word_space_8: chaos can gesture jeans episode force cover physical
+bip_39_word_space_9: chaos can gesture jeans episode force cover physical oven
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

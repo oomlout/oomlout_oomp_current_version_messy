@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decide hold
+  * bip 39 word 3: decide hold quiz
+  * bip 39 word: decide hold quiz emotion vendor erode amateur lava jazz illness nest ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decide |  
+| bip_39_word_new_br10 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode<br>amateur<br>lava<br>jazz<br>illness |  
+| bip_39_word_new_br11 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode<br>amateur<br>lava<br>jazz<br>illness<br>nest |  
+| bip_39_word_new_br12 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode<br>amateur<br>lava<br>jazz<br>illness<br>nest<br>ability |  
+| bip_39_word_new_br2 | decide<br>hold |  
+| bip_39_word_new_br3 | decide<br>hold<br>quiz |  
+| bip_39_word_new_br4 | decide<br>hold<br>quiz<br>emotion |  
+| bip_39_word_new_br5 | decide<br>hold<br>quiz<br>emotion<br>vendor |  
+| bip_39_word_new_br6 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode |  
+| bip_39_word_new_br7 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode<br>amateur |  
+| bip_39_word_new_br8 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode<br>amateur<br>lava |  
+| bip_39_word_new_br9 | decide<br>hold<br>quiz<br>emotion<br>vendor<br>erode<br>amateur<br>lava<br>jazz |  
+| bip_39_word_new_line1 | decide |  
+| bip_39_word_new_line10 | decide
+hold
+quiz
+emotion
+vendor
+erode
+amateur
+lava
+jazz
+illness |  
+| bip_39_word_new_line11 | decide
+hold
+quiz
+emotion
+vendor
+erode
+amateur
+lava
+jazz
+illness
+nest |  
+| bip_39_word_new_line12 | decide
+hold
+quiz
+emotion
+vendor
+erode
+amateur
+lava
+jazz
+illness
+nest
+ability |  
+| bip_39_word_new_line2 | decide
+hold |  
+| bip_39_word_new_line3 | decide
+hold
+quiz |  
+| bip_39_word_new_line4 | decide
+hold
+quiz
+emotion |  
+| bip_39_word_new_line5 | decide
+hold
+quiz
+emotion
+vendor |  
+| bip_39_word_new_line6 | decide
+hold
+quiz
+emotion
+vendor
+erode |  
+| bip_39_word_new_line7 | decide
+hold
+quiz
+emotion
+vendor
+erode
+amateur |  
+| bip_39_word_new_line8 | decide
+hold
+quiz
+emotion
+vendor
+erode
+amateur
+lava |  
+| bip_39_word_new_line9 | decide
+hold
+quiz
+emotion
+vendor
+erode
+amateur
+lava
+jazz |  
+| bip_39_word_space_0 | ['decide', 'hold', 'quiz', 'emotion', 'vendor', 'erode', 'amateur', 'lava', 'jazz', 'illness', 'nest', 'ability'] |  
+| bip_39_word_space_1 | decide |  
+| bip_39_word_space_10 | decide hold quiz emotion vendor erode amateur lava jazz illness |  
+| bip_39_word_space_11 | decide hold quiz emotion vendor erode amateur lava jazz illness nest |  
+| bip_39_word_space_12 | decide hold quiz emotion vendor erode amateur lava jazz illness nest ability |  
+| bip_39_word_space_2 | decide hold |  
+| bip_39_word_space_3 | decide hold quiz |  
+| bip_39_word_space_4 | decide hold quiz emotion |  
+| bip_39_word_space_5 | decide hold quiz emotion vendor |  
+| bip_39_word_space_6 | decide hold quiz emotion vendor erode |  
+| bip_39_word_space_7 | decide hold quiz emotion vendor erode amateur |  
+| bip_39_word_space_8 | decide hold quiz emotion vendor erode amateur lava |  
+| bip_39_word_space_9 | decide hold quiz emotion vendor erode amateur lava jazz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slam nothing
+  * bip 39 word 3: slam nothing tube
+  * bip 39 word: slam nothing tube expect notable rack resemble banana crunch century fury adapt
 
 ### other_codes
 * short_code: br6201
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slam |  
+| bip_39_word_new_br10 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch<br>century |  
+| bip_39_word_new_br11 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch<br>century<br>fury |  
+| bip_39_word_new_br12 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch<br>century<br>fury<br>adapt |  
+| bip_39_word_new_br2 | slam<br>nothing |  
+| bip_39_word_new_br3 | slam<br>nothing<br>tube |  
+| bip_39_word_new_br4 | slam<br>nothing<br>tube<br>expect |  
+| bip_39_word_new_br5 | slam<br>nothing<br>tube<br>expect<br>notable |  
+| bip_39_word_new_br6 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack |  
+| bip_39_word_new_br7 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble |  
+| bip_39_word_new_br8 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana |  
+| bip_39_word_new_br9 | slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch |  
+| bip_39_word_new_line1 | slam |  
+| bip_39_word_new_line10 | slam
+nothing
+tube
+expect
+notable
+rack
+resemble
+banana
+crunch
+century |  
+| bip_39_word_new_line11 | slam
+nothing
+tube
+expect
+notable
+rack
+resemble
+banana
+crunch
+century
+fury |  
+| bip_39_word_new_line12 | slam
+nothing
+tube
+expect
+notable
+rack
+resemble
+banana
+crunch
+century
+fury
+adapt |  
+| bip_39_word_new_line2 | slam
+nothing |  
+| bip_39_word_new_line3 | slam
+nothing
+tube |  
+| bip_39_word_new_line4 | slam
+nothing
+tube
+expect |  
+| bip_39_word_new_line5 | slam
+nothing
+tube
+expect
+notable |  
+| bip_39_word_new_line6 | slam
+nothing
+tube
+expect
+notable
+rack |  
+| bip_39_word_new_line7 | slam
+nothing
+tube
+expect
+notable
+rack
+resemble |  
+| bip_39_word_new_line8 | slam
+nothing
+tube
+expect
+notable
+rack
+resemble
+banana |  
+| bip_39_word_new_line9 | slam
+nothing
+tube
+expect
+notable
+rack
+resemble
+banana
+crunch |  
+| bip_39_word_space_0 | ['slam', 'nothing', 'tube', 'expect', 'notable', 'rack', 'resemble', 'banana', 'crunch', 'century', 'fury', 'adapt'] |  
+| bip_39_word_space_1 | slam |  
+| bip_39_word_space_10 | slam nothing tube expect notable rack resemble banana crunch century |  
+| bip_39_word_space_11 | slam nothing tube expect notable rack resemble banana crunch century fury |  
+| bip_39_word_space_12 | slam nothing tube expect notable rack resemble banana crunch century fury adapt |  
+| bip_39_word_space_2 | slam nothing |  
+| bip_39_word_space_3 | slam nothing tube |  
+| bip_39_word_space_4 | slam nothing tube expect |  
+| bip_39_word_space_5 | slam nothing tube expect notable |  
+| bip_39_word_space_6 | slam nothing tube expect notable rack |  
+| bip_39_word_space_7 | slam nothing tube expect notable rack resemble |  
+| bip_39_word_space_8 | slam nothing tube expect notable rack resemble banana |  
+| bip_39_word_space_9 | slam nothing tube expect notable rack resemble banana crunch |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

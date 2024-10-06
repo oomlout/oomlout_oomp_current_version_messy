@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cloth tunnel
+  * bip 39 word 3: cloth tunnel lion
+  * bip 39 word: cloth tunnel lion plastic pen champion laundry dune subway degree kid among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cloth |  
+| bip_39_word_new_br10 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree |  
+| bip_39_word_new_br11 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree<br>kid |  
+| bip_39_word_new_br12 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway<br>degree<br>kid<br>among |  
+| bip_39_word_new_br2 | cloth<br>tunnel |  
+| bip_39_word_new_br3 | cloth<br>tunnel<br>lion |  
+| bip_39_word_new_br4 | cloth<br>tunnel<br>lion<br>plastic |  
+| bip_39_word_new_br5 | cloth<br>tunnel<br>lion<br>plastic<br>pen |  
+| bip_39_word_new_br6 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion |  
+| bip_39_word_new_br7 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry |  
+| bip_39_word_new_br8 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune |  
+| bip_39_word_new_br9 | cloth<br>tunnel<br>lion<br>plastic<br>pen<br>champion<br>laundry<br>dune<br>subway |  
+| bip_39_word_new_line1 | cloth |  
+| bip_39_word_new_line10 | cloth
+tunnel
+lion
+plastic
+pen
+champion
+laundry
+dune
+subway
+degree |  
+| bip_39_word_new_line11 | cloth
+tunnel
+lion
+plastic
+pen
+champion
+laundry
+dune
+subway
+degree
+kid |  
+| bip_39_word_new_line12 | cloth
+tunnel
+lion
+plastic
+pen
+champion
+laundry
+dune
+subway
+degree
+kid
+among |  
+| bip_39_word_new_line2 | cloth
+tunnel |  
+| bip_39_word_new_line3 | cloth
+tunnel
+lion |  
+| bip_39_word_new_line4 | cloth
+tunnel
+lion
+plastic |  
+| bip_39_word_new_line5 | cloth
+tunnel
+lion
+plastic
+pen |  
+| bip_39_word_new_line6 | cloth
+tunnel
+lion
+plastic
+pen
+champion |  
+| bip_39_word_new_line7 | cloth
+tunnel
+lion
+plastic
+pen
+champion
+laundry |  
+| bip_39_word_new_line8 | cloth
+tunnel
+lion
+plastic
+pen
+champion
+laundry
+dune |  
+| bip_39_word_new_line9 | cloth
+tunnel
+lion
+plastic
+pen
+champion
+laundry
+dune
+subway |  
+| bip_39_word_space_0 | ['cloth', 'tunnel', 'lion', 'plastic', 'pen', 'champion', 'laundry', 'dune', 'subway', 'degree', 'kid', 'among'] |  
+| bip_39_word_space_1 | cloth |  
+| bip_39_word_space_10 | cloth tunnel lion plastic pen champion laundry dune subway degree |  
+| bip_39_word_space_11 | cloth tunnel lion plastic pen champion laundry dune subway degree kid |  
+| bip_39_word_space_12 | cloth tunnel lion plastic pen champion laundry dune subway degree kid among |  
+| bip_39_word_space_2 | cloth tunnel |  
+| bip_39_word_space_3 | cloth tunnel lion |  
+| bip_39_word_space_4 | cloth tunnel lion plastic |  
+| bip_39_word_space_5 | cloth tunnel lion plastic pen |  
+| bip_39_word_space_6 | cloth tunnel lion plastic pen champion |  
+| bip_39_word_space_7 | cloth tunnel lion plastic pen champion laundry |  
+| bip_39_word_space_8 | cloth tunnel lion plastic pen champion laundry dune |  
+| bip_39_word_space_9 | cloth tunnel lion plastic pen champion laundry dune subway |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: town
+bip_39_word_new_br10: town<br>attitude<br>head<br>genre<br>horse<br>artefact<br>like<br>oven<br>fancy<br>behind
+bip_39_word_new_br11: town<br>attitude<br>head<br>genre<br>horse<br>artefact<br>like<br>oven<br>fancy<br>behind<br>icon
+bip_39_word_new_br12: town<br>attitude<br>head<br>genre<br>horse<br>artefact<br>like<br>oven<br>fancy<br>behind<br>icon<br>artist
+bip_39_word_new_br2: town<br>attitude
+bip_39_word_new_br3: town<br>attitude<br>head
+bip_39_word_new_br4: town<br>attitude<br>head<br>genre
+bip_39_word_new_br5: town<br>attitude<br>head<br>genre<br>horse
+bip_39_word_new_br6: town<br>attitude<br>head<br>genre<br>horse<br>artefact
+bip_39_word_new_br7: town<br>attitude<br>head<br>genre<br>horse<br>artefact<br>like
+bip_39_word_new_br8: town<br>attitude<br>head<br>genre<br>horse<br>artefact<br>like<br>oven
+bip_39_word_new_br9: town<br>attitude<br>head<br>genre<br>horse<br>artefact<br>like<br>oven<br>fancy
+bip_39_word_new_line1: town
+bip_39_word_new_line10: 'town
+
+  attitude
+
+  head
+
+  genre
+
+  horse
+
+  artefact
+
+  like
+
+  oven
+
+  fancy
+
+  behind'
+bip_39_word_new_line11: 'town
+
+  attitude
+
+  head
+
+  genre
+
+  horse
+
+  artefact
+
+  like
+
+  oven
+
+  fancy
+
+  behind
+
+  icon'
+bip_39_word_new_line12: 'town
+
+  attitude
+
+  head
+
+  genre
+
+  horse
+
+  artefact
+
+  like
+
+  oven
+
+  fancy
+
+  behind
+
+  icon
+
+  artist'
+bip_39_word_new_line2: 'town
+
+  attitude'
+bip_39_word_new_line3: 'town
+
+  attitude
+
+  head'
+bip_39_word_new_line4: 'town
+
+  attitude
+
+  head
+
+  genre'
+bip_39_word_new_line5: 'town
+
+  attitude
+
+  head
+
+  genre
+
+  horse'
+bip_39_word_new_line6: 'town
+
+  attitude
+
+  head
+
+  genre
+
+  horse
+
+  artefact'
+bip_39_word_new_line7: 'town
+
+  attitude
+
+  head
+
+  genre
+
+  horse
+
+  artefact
+
+  like'
+bip_39_word_new_line8: 'town
+
+  attitude
+
+  head
+
+  genre
+
+  horse
+
+  artefact
+
+  like
+
+  oven'
+bip_39_word_new_line9: 'town
+
+  attitude
+
+  head
+
+  genre
+
+  horse
+
+  artefact
+
+  like
+
+  oven
+
+  fancy'
+bip_39_word_space_0:
+- town
+- attitude
+- head
+- genre
+- horse
+- artefact
+- like
+- oven
+- fancy
+- behind
+- icon
+- artist
+bip_39_word_space_1: town
+bip_39_word_space_10: town attitude head genre horse artefact like oven fancy behind
+bip_39_word_space_11: town attitude head genre horse artefact like oven fancy behind
+  icon
+bip_39_word_space_12: town attitude head genre horse artefact like oven fancy behind
+  icon artist
+bip_39_word_space_2: town attitude
+bip_39_word_space_3: town attitude head
+bip_39_word_space_4: town attitude head genre
+bip_39_word_space_5: town attitude head genre horse
+bip_39_word_space_6: town attitude head genre horse artefact
+bip_39_word_space_7: town attitude head genre horse artefact like
+bip_39_word_space_8: town attitude head genre horse artefact like oven
+bip_39_word_space_9: town attitude head genre horse artefact like oven fancy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

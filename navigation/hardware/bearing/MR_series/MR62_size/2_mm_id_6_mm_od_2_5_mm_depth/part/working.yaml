@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cup
+bip_39_word_new_br10: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone<br>east
+bip_39_word_new_br11: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone<br>east<br>picture
+bip_39_word_new_br12: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone<br>east<br>picture<br>across
+bip_39_word_new_br2: cup<br>elbow
+bip_39_word_new_br3: cup<br>elbow<br>neglect
+bip_39_word_new_br4: cup<br>elbow<br>neglect<br>tower
+bip_39_word_new_br5: cup<br>elbow<br>neglect<br>tower<br>rail
+bip_39_word_new_br6: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble
+bip_39_word_new_br7: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone
+bip_39_word_new_br8: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general
+bip_39_word_new_br9: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone
+bip_39_word_new_line1: cup
+bip_39_word_new_line10: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general
+
+  zone
+
+  east'
+bip_39_word_new_line11: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general
+
+  zone
+
+  east
+
+  picture'
+bip_39_word_new_line12: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general
+
+  zone
+
+  east
+
+  picture
+
+  across'
+bip_39_word_new_line2: 'cup
+
+  elbow'
+bip_39_word_new_line3: 'cup
+
+  elbow
+
+  neglect'
+bip_39_word_new_line4: 'cup
+
+  elbow
+
+  neglect
+
+  tower'
+bip_39_word_new_line5: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail'
+bip_39_word_new_line6: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble'
+bip_39_word_new_line7: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone'
+bip_39_word_new_line8: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general'
+bip_39_word_new_line9: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general
+
+  zone'
+bip_39_word_space_0:
+- cup
+- elbow
+- neglect
+- tower
+- rail
+- crumble
+- someone
+- general
+- zone
+- east
+- picture
+- across
+bip_39_word_space_1: cup
+bip_39_word_space_10: cup elbow neglect tower rail crumble someone general zone east
+bip_39_word_space_11: cup elbow neglect tower rail crumble someone general zone east
+  picture
+bip_39_word_space_12: cup elbow neglect tower rail crumble someone general zone east
+  picture across
+bip_39_word_space_2: cup elbow
+bip_39_word_space_3: cup elbow neglect
+bip_39_word_space_4: cup elbow neglect tower
+bip_39_word_space_5: cup elbow neglect tower rail
+bip_39_word_space_6: cup elbow neglect tower rail crumble
+bip_39_word_space_7: cup elbow neglect tower rail crumble someone
+bip_39_word_space_8: cup elbow neglect tower rail crumble someone general
+bip_39_word_space_9: cup elbow neglect tower rail crumble someone general zone
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: figure
+bip_39_word_new_br10: figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce
+bip_39_word_new_br11: figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce<br>joke
+bip_39_word_new_br12: figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune<br>reduce<br>joke<br>album
+bip_39_word_new_br2: figure<br>bitter
+bip_39_word_new_br3: figure<br>bitter<br>crime
+bip_39_word_new_br4: figure<br>bitter<br>crime<br>found
+bip_39_word_new_br5: figure<br>bitter<br>crime<br>found<br>length
+bip_39_word_new_br6: figure<br>bitter<br>crime<br>found<br>length<br>vendor
+bip_39_word_new_br7: figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost
+bip_39_word_new_br8: figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft
+bip_39_word_new_br9: figure<br>bitter<br>crime<br>found<br>length<br>vendor<br>boost<br>soft<br>dune
+bip_39_word_new_line1: figure
+bip_39_word_new_line10: 'figure
+
+  bitter
+
+  crime
+
+  found
+
+  length
+
+  vendor
+
+  boost
+
+  soft
+
+  dune
+
+  reduce'
+bip_39_word_new_line11: 'figure
+
+  bitter
+
+  crime
+
+  found
+
+  length
+
+  vendor
+
+  boost
+
+  soft
+
+  dune
+
+  reduce
+
+  joke'
+bip_39_word_new_line12: 'figure
+
+  bitter
+
+  crime
+
+  found
+
+  length
+
+  vendor
+
+  boost
+
+  soft
+
+  dune
+
+  reduce
+
+  joke
+
+  album'
+bip_39_word_new_line2: 'figure
+
+  bitter'
+bip_39_word_new_line3: 'figure
+
+  bitter
+
+  crime'
+bip_39_word_new_line4: 'figure
+
+  bitter
+
+  crime
+
+  found'
+bip_39_word_new_line5: 'figure
+
+  bitter
+
+  crime
+
+  found
+
+  length'
+bip_39_word_new_line6: 'figure
+
+  bitter
+
+  crime
+
+  found
+
+  length
+
+  vendor'
+bip_39_word_new_line7: 'figure
+
+  bitter
+
+  crime
+
+  found
+
+  length
+
+  vendor
+
+  boost'
+bip_39_word_new_line8: 'figure
+
+  bitter
+
+  crime
+
+  found
+
+  length
+
+  vendor
+
+  boost
+
+  soft'
+bip_39_word_new_line9: 'figure
+
+  bitter
+
+  crime
+
+  found
+
+  length
+
+  vendor
+
+  boost
+
+  soft
+
+  dune'
+bip_39_word_space_0:
+- figure
+- bitter
+- crime
+- found
+- length
+- vendor
+- boost
+- soft
+- dune
+- reduce
+- joke
+- album
+bip_39_word_space_1: figure
+bip_39_word_space_10: figure bitter crime found length vendor boost soft dune reduce
+bip_39_word_space_11: figure bitter crime found length vendor boost soft dune reduce
+  joke
+bip_39_word_space_12: figure bitter crime found length vendor boost soft dune reduce
+  joke album
+bip_39_word_space_2: figure bitter
+bip_39_word_space_3: figure bitter crime
+bip_39_word_space_4: figure bitter crime found
+bip_39_word_space_5: figure bitter crime found length
+bip_39_word_space_6: figure bitter crime found length vendor
+bip_39_word_space_7: figure bitter crime found length vendor boost
+bip_39_word_space_8: figure bitter crime found length vendor boost soft
+bip_39_word_space_9: figure bitter crime found length vendor boost soft dune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

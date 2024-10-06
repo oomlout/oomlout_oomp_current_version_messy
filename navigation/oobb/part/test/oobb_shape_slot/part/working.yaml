@@ -1,3 +1,185 @@
+bip_39_word_new_br1: cheap
+bip_39_word_new_br10: cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness
+bip_39_word_new_br11: cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness<br>west
+bip_39_word_new_br12: cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story<br>witness<br>west<br>act
+bip_39_word_new_br2: cheap<br>style
+bip_39_word_new_br3: cheap<br>style<br>loud
+bip_39_word_new_br4: cheap<br>style<br>loud<br>genius
+bip_39_word_new_br5: cheap<br>style<br>loud<br>genius<br>sick
+bip_39_word_new_br6: cheap<br>style<br>loud<br>genius<br>sick<br>steak
+bip_39_word_new_br7: cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud
+bip_39_word_new_br8: cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car
+bip_39_word_new_br9: cheap<br>style<br>loud<br>genius<br>sick<br>steak<br>proud<br>car<br>story
+bip_39_word_new_line1: cheap
+bip_39_word_new_line10: 'cheap
+
+  style
+
+  loud
+
+  genius
+
+  sick
+
+  steak
+
+  proud
+
+  car
+
+  story
+
+  witness'
+bip_39_word_new_line11: 'cheap
+
+  style
+
+  loud
+
+  genius
+
+  sick
+
+  steak
+
+  proud
+
+  car
+
+  story
+
+  witness
+
+  west'
+bip_39_word_new_line12: 'cheap
+
+  style
+
+  loud
+
+  genius
+
+  sick
+
+  steak
+
+  proud
+
+  car
+
+  story
+
+  witness
+
+  west
+
+  act'
+bip_39_word_new_line2: 'cheap
+
+  style'
+bip_39_word_new_line3: 'cheap
+
+  style
+
+  loud'
+bip_39_word_new_line4: 'cheap
+
+  style
+
+  loud
+
+  genius'
+bip_39_word_new_line5: 'cheap
+
+  style
+
+  loud
+
+  genius
+
+  sick'
+bip_39_word_new_line6: 'cheap
+
+  style
+
+  loud
+
+  genius
+
+  sick
+
+  steak'
+bip_39_word_new_line7: 'cheap
+
+  style
+
+  loud
+
+  genius
+
+  sick
+
+  steak
+
+  proud'
+bip_39_word_new_line8: 'cheap
+
+  style
+
+  loud
+
+  genius
+
+  sick
+
+  steak
+
+  proud
+
+  car'
+bip_39_word_new_line9: 'cheap
+
+  style
+
+  loud
+
+  genius
+
+  sick
+
+  steak
+
+  proud
+
+  car
+
+  story'
+bip_39_word_space_0:
+- cheap
+- style
+- loud
+- genius
+- sick
+- steak
+- proud
+- car
+- story
+- witness
+- west
+- act
+bip_39_word_space_1: cheap
+bip_39_word_space_10: cheap style loud genius sick steak proud car story witness
+bip_39_word_space_11: cheap style loud genius sick steak proud car story witness west
+bip_39_word_space_12: cheap style loud genius sick steak proud car story witness west
+  act
+bip_39_word_space_2: cheap style
+bip_39_word_space_3: cheap style loud
+bip_39_word_space_4: cheap style loud genius
+bip_39_word_space_5: cheap style loud genius sick
+bip_39_word_space_6: cheap style loud genius sick steak
+bip_39_word_space_7: cheap style loud genius sick steak proud
+bip_39_word_space_8: cheap style loud genius sick steak proud car
+bip_39_word_space_9: cheap style loud genius sick steak proud car story
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

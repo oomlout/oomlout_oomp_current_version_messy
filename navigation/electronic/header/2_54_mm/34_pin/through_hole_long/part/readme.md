@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: voyage offer
+  * bip 39 word 3: voyage offer wave
+  * bip 39 word: voyage offer wave noise opinion edge alien height trade divorce destroy adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | voyage |  
+| bip_39_word_new_br10 | voyage<br>offer<br>wave<br>noise<br>opinion<br>edge<br>alien<br>height<br>trade<br>divorce |  
+| bip_39_word_new_br11 | voyage<br>offer<br>wave<br>noise<br>opinion<br>edge<br>alien<br>height<br>trade<br>divorce<br>destroy |  
+| bip_39_word_new_br12 | voyage<br>offer<br>wave<br>noise<br>opinion<br>edge<br>alien<br>height<br>trade<br>divorce<br>destroy<br>adult |  
+| bip_39_word_new_br2 | voyage<br>offer |  
+| bip_39_word_new_br3 | voyage<br>offer<br>wave |  
+| bip_39_word_new_br4 | voyage<br>offer<br>wave<br>noise |  
+| bip_39_word_new_br5 | voyage<br>offer<br>wave<br>noise<br>opinion |  
+| bip_39_word_new_br6 | voyage<br>offer<br>wave<br>noise<br>opinion<br>edge |  
+| bip_39_word_new_br7 | voyage<br>offer<br>wave<br>noise<br>opinion<br>edge<br>alien |  
+| bip_39_word_new_br8 | voyage<br>offer<br>wave<br>noise<br>opinion<br>edge<br>alien<br>height |  
+| bip_39_word_new_br9 | voyage<br>offer<br>wave<br>noise<br>opinion<br>edge<br>alien<br>height<br>trade |  
+| bip_39_word_new_line1 | voyage |  
+| bip_39_word_new_line10 | voyage
+offer
+wave
+noise
+opinion
+edge
+alien
+height
+trade
+divorce |  
+| bip_39_word_new_line11 | voyage
+offer
+wave
+noise
+opinion
+edge
+alien
+height
+trade
+divorce
+destroy |  
+| bip_39_word_new_line12 | voyage
+offer
+wave
+noise
+opinion
+edge
+alien
+height
+trade
+divorce
+destroy
+adult |  
+| bip_39_word_new_line2 | voyage
+offer |  
+| bip_39_word_new_line3 | voyage
+offer
+wave |  
+| bip_39_word_new_line4 | voyage
+offer
+wave
+noise |  
+| bip_39_word_new_line5 | voyage
+offer
+wave
+noise
+opinion |  
+| bip_39_word_new_line6 | voyage
+offer
+wave
+noise
+opinion
+edge |  
+| bip_39_word_new_line7 | voyage
+offer
+wave
+noise
+opinion
+edge
+alien |  
+| bip_39_word_new_line8 | voyage
+offer
+wave
+noise
+opinion
+edge
+alien
+height |  
+| bip_39_word_new_line9 | voyage
+offer
+wave
+noise
+opinion
+edge
+alien
+height
+trade |  
+| bip_39_word_space_0 | ['voyage', 'offer', 'wave', 'noise', 'opinion', 'edge', 'alien', 'height', 'trade', 'divorce', 'destroy', 'adult'] |  
+| bip_39_word_space_1 | voyage |  
+| bip_39_word_space_10 | voyage offer wave noise opinion edge alien height trade divorce |  
+| bip_39_word_space_11 | voyage offer wave noise opinion edge alien height trade divorce destroy |  
+| bip_39_word_space_12 | voyage offer wave noise opinion edge alien height trade divorce destroy adult |  
+| bip_39_word_space_2 | voyage offer |  
+| bip_39_word_space_3 | voyage offer wave |  
+| bip_39_word_space_4 | voyage offer wave noise |  
+| bip_39_word_space_5 | voyage offer wave noise opinion |  
+| bip_39_word_space_6 | voyage offer wave noise opinion edge |  
+| bip_39_word_space_7 | voyage offer wave noise opinion edge alien |  
+| bip_39_word_space_8 | voyage offer wave noise opinion edge alien height |  
+| bip_39_word_space_9 | voyage offer wave noise opinion edge alien height trade |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

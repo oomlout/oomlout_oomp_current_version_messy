@@ -1,3 +1,187 @@
+bip_39_word_new_br1: sustain
+bip_39_word_new_br10: sustain<br>setup<br>artist<br>essence<br>rose<br>plunge<br>card<br>shaft<br>hedgehog<br>mention
+bip_39_word_new_br11: sustain<br>setup<br>artist<br>essence<br>rose<br>plunge<br>card<br>shaft<br>hedgehog<br>mention<br>lesson
+bip_39_word_new_br12: sustain<br>setup<br>artist<br>essence<br>rose<br>plunge<br>card<br>shaft<br>hedgehog<br>mention<br>lesson<br>aisle
+bip_39_word_new_br2: sustain<br>setup
+bip_39_word_new_br3: sustain<br>setup<br>artist
+bip_39_word_new_br4: sustain<br>setup<br>artist<br>essence
+bip_39_word_new_br5: sustain<br>setup<br>artist<br>essence<br>rose
+bip_39_word_new_br6: sustain<br>setup<br>artist<br>essence<br>rose<br>plunge
+bip_39_word_new_br7: sustain<br>setup<br>artist<br>essence<br>rose<br>plunge<br>card
+bip_39_word_new_br8: sustain<br>setup<br>artist<br>essence<br>rose<br>plunge<br>card<br>shaft
+bip_39_word_new_br9: sustain<br>setup<br>artist<br>essence<br>rose<br>plunge<br>card<br>shaft<br>hedgehog
+bip_39_word_new_line1: sustain
+bip_39_word_new_line10: 'sustain
+
+  setup
+
+  artist
+
+  essence
+
+  rose
+
+  plunge
+
+  card
+
+  shaft
+
+  hedgehog
+
+  mention'
+bip_39_word_new_line11: 'sustain
+
+  setup
+
+  artist
+
+  essence
+
+  rose
+
+  plunge
+
+  card
+
+  shaft
+
+  hedgehog
+
+  mention
+
+  lesson'
+bip_39_word_new_line12: 'sustain
+
+  setup
+
+  artist
+
+  essence
+
+  rose
+
+  plunge
+
+  card
+
+  shaft
+
+  hedgehog
+
+  mention
+
+  lesson
+
+  aisle'
+bip_39_word_new_line2: 'sustain
+
+  setup'
+bip_39_word_new_line3: 'sustain
+
+  setup
+
+  artist'
+bip_39_word_new_line4: 'sustain
+
+  setup
+
+  artist
+
+  essence'
+bip_39_word_new_line5: 'sustain
+
+  setup
+
+  artist
+
+  essence
+
+  rose'
+bip_39_word_new_line6: 'sustain
+
+  setup
+
+  artist
+
+  essence
+
+  rose
+
+  plunge'
+bip_39_word_new_line7: 'sustain
+
+  setup
+
+  artist
+
+  essence
+
+  rose
+
+  plunge
+
+  card'
+bip_39_word_new_line8: 'sustain
+
+  setup
+
+  artist
+
+  essence
+
+  rose
+
+  plunge
+
+  card
+
+  shaft'
+bip_39_word_new_line9: 'sustain
+
+  setup
+
+  artist
+
+  essence
+
+  rose
+
+  plunge
+
+  card
+
+  shaft
+
+  hedgehog'
+bip_39_word_space_0:
+- sustain
+- setup
+- artist
+- essence
+- rose
+- plunge
+- card
+- shaft
+- hedgehog
+- mention
+- lesson
+- aisle
+bip_39_word_space_1: sustain
+bip_39_word_space_10: sustain setup artist essence rose plunge card shaft hedgehog
+  mention
+bip_39_word_space_11: sustain setup artist essence rose plunge card shaft hedgehog
+  mention lesson
+bip_39_word_space_12: sustain setup artist essence rose plunge card shaft hedgehog
+  mention lesson aisle
+bip_39_word_space_2: sustain setup
+bip_39_word_space_3: sustain setup artist
+bip_39_word_space_4: sustain setup artist essence
+bip_39_word_space_5: sustain setup artist essence rose
+bip_39_word_space_6: sustain setup artist essence rose plunge
+bip_39_word_space_7: sustain setup artist essence rose plunge card
+bip_39_word_space_8: sustain setup artist essence rose plunge card shaft
+bip_39_word_space_9: sustain setup artist essence rose plunge card shaft hedgehog
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

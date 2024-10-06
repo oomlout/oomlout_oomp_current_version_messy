@@ -1,3 +1,187 @@
+bip_39_word_new_br1: throw
+bip_39_word_new_br10: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either<br>toy
+bip_39_word_new_br11: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either<br>toy<br>point
+bip_39_word_new_br12: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either<br>toy<br>point<br>arrow
+bip_39_word_new_br2: throw<br>around
+bip_39_word_new_br3: throw<br>around<br>today
+bip_39_word_new_br4: throw<br>around<br>today<br>theory
+bip_39_word_new_br5: throw<br>around<br>today<br>theory<br>unaware
+bip_39_word_new_br6: throw<br>around<br>today<br>theory<br>unaware<br>travel
+bip_39_word_new_br7: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital
+bip_39_word_new_br8: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt
+bip_39_word_new_br9: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either
+bip_39_word_new_line1: throw
+bip_39_word_new_line10: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt
+
+  either
+
+  toy'
+bip_39_word_new_line11: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt
+
+  either
+
+  toy
+
+  point'
+bip_39_word_new_line12: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt
+
+  either
+
+  toy
+
+  point
+
+  arrow'
+bip_39_word_new_line2: 'throw
+
+  around'
+bip_39_word_new_line3: 'throw
+
+  around
+
+  today'
+bip_39_word_new_line4: 'throw
+
+  around
+
+  today
+
+  theory'
+bip_39_word_new_line5: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware'
+bip_39_word_new_line6: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel'
+bip_39_word_new_line7: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital'
+bip_39_word_new_line8: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt'
+bip_39_word_new_line9: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt
+
+  either'
+bip_39_word_space_0:
+- throw
+- around
+- today
+- theory
+- unaware
+- travel
+- capital
+- erupt
+- either
+- toy
+- point
+- arrow
+bip_39_word_space_1: throw
+bip_39_word_space_10: throw around today theory unaware travel capital erupt either
+  toy
+bip_39_word_space_11: throw around today theory unaware travel capital erupt either
+  toy point
+bip_39_word_space_12: throw around today theory unaware travel capital erupt either
+  toy point arrow
+bip_39_word_space_2: throw around
+bip_39_word_space_3: throw around today
+bip_39_word_space_4: throw around today theory
+bip_39_word_space_5: throw around today theory unaware
+bip_39_word_space_6: throw around today theory unaware travel
+bip_39_word_space_7: throw around today theory unaware travel capital
+bip_39_word_space_8: throw around today theory unaware travel capital erupt
+bip_39_word_space_9: throw around today theory unaware travel capital erupt either
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

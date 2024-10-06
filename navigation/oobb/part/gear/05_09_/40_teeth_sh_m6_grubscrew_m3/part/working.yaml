@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sibling
+bip_39_word_new_br10: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east<br>science
+bip_39_word_new_br11: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east<br>science<br>veteran
+bip_39_word_new_br12: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east<br>science<br>veteran<br>ask
+bip_39_word_new_br2: sibling<br>choice
+bip_39_word_new_br3: sibling<br>choice<br>junior
+bip_39_word_new_br4: sibling<br>choice<br>junior<br>carbon
+bip_39_word_new_br5: sibling<br>choice<br>junior<br>carbon<br>client
+bip_39_word_new_br6: sibling<br>choice<br>junior<br>carbon<br>client<br>scan
+bip_39_word_new_br7: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava
+bip_39_word_new_br8: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap
+bip_39_word_new_br9: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east
+bip_39_word_new_line1: sibling
+bip_39_word_new_line10: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap
+
+  east
+
+  science'
+bip_39_word_new_line11: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap
+
+  east
+
+  science
+
+  veteran'
+bip_39_word_new_line12: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap
+
+  east
+
+  science
+
+  veteran
+
+  ask'
+bip_39_word_new_line2: 'sibling
+
+  choice'
+bip_39_word_new_line3: 'sibling
+
+  choice
+
+  junior'
+bip_39_word_new_line4: 'sibling
+
+  choice
+
+  junior
+
+  carbon'
+bip_39_word_new_line5: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client'
+bip_39_word_new_line6: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan'
+bip_39_word_new_line7: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava'
+bip_39_word_new_line8: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap'
+bip_39_word_new_line9: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap
+
+  east'
+bip_39_word_space_0:
+- sibling
+- choice
+- junior
+- carbon
+- client
+- scan
+- lava
+- soap
+- east
+- science
+- veteran
+- ask
+bip_39_word_space_1: sibling
+bip_39_word_space_10: sibling choice junior carbon client scan lava soap east science
+bip_39_word_space_11: sibling choice junior carbon client scan lava soap east science
+  veteran
+bip_39_word_space_12: sibling choice junior carbon client scan lava soap east science
+  veteran ask
+bip_39_word_space_2: sibling choice
+bip_39_word_space_3: sibling choice junior
+bip_39_word_space_4: sibling choice junior carbon
+bip_39_word_space_5: sibling choice junior carbon client
+bip_39_word_space_6: sibling choice junior carbon client scan
+bip_39_word_space_7: sibling choice junior carbon client scan lava
+bip_39_word_space_8: sibling choice junior carbon client scan lava soap
+bip_39_word_space_9: sibling choice junior carbon client scan lava soap east
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

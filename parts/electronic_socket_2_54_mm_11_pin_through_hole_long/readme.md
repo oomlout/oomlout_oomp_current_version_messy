@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sugar violin
+  * bip 39 word 3: sugar violin stove
+  * bip 39 word: sugar violin stove flame album test canyon fashion employ collect claw acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sugar |  
+| bip_39_word_new_br10 | sugar<br>violin<br>stove<br>flame<br>album<br>test<br>canyon<br>fashion<br>employ<br>collect |  
+| bip_39_word_new_br11 | sugar<br>violin<br>stove<br>flame<br>album<br>test<br>canyon<br>fashion<br>employ<br>collect<br>claw |  
+| bip_39_word_new_br12 | sugar<br>violin<br>stove<br>flame<br>album<br>test<br>canyon<br>fashion<br>employ<br>collect<br>claw<br>acquire |  
+| bip_39_word_new_br2 | sugar<br>violin |  
+| bip_39_word_new_br3 | sugar<br>violin<br>stove |  
+| bip_39_word_new_br4 | sugar<br>violin<br>stove<br>flame |  
+| bip_39_word_new_br5 | sugar<br>violin<br>stove<br>flame<br>album |  
+| bip_39_word_new_br6 | sugar<br>violin<br>stove<br>flame<br>album<br>test |  
+| bip_39_word_new_br7 | sugar<br>violin<br>stove<br>flame<br>album<br>test<br>canyon |  
+| bip_39_word_new_br8 | sugar<br>violin<br>stove<br>flame<br>album<br>test<br>canyon<br>fashion |  
+| bip_39_word_new_br9 | sugar<br>violin<br>stove<br>flame<br>album<br>test<br>canyon<br>fashion<br>employ |  
+| bip_39_word_new_line1 | sugar |  
+| bip_39_word_new_line10 | sugar
+violin
+stove
+flame
+album
+test
+canyon
+fashion
+employ
+collect |  
+| bip_39_word_new_line11 | sugar
+violin
+stove
+flame
+album
+test
+canyon
+fashion
+employ
+collect
+claw |  
+| bip_39_word_new_line12 | sugar
+violin
+stove
+flame
+album
+test
+canyon
+fashion
+employ
+collect
+claw
+acquire |  
+| bip_39_word_new_line2 | sugar
+violin |  
+| bip_39_word_new_line3 | sugar
+violin
+stove |  
+| bip_39_word_new_line4 | sugar
+violin
+stove
+flame |  
+| bip_39_word_new_line5 | sugar
+violin
+stove
+flame
+album |  
+| bip_39_word_new_line6 | sugar
+violin
+stove
+flame
+album
+test |  
+| bip_39_word_new_line7 | sugar
+violin
+stove
+flame
+album
+test
+canyon |  
+| bip_39_word_new_line8 | sugar
+violin
+stove
+flame
+album
+test
+canyon
+fashion |  
+| bip_39_word_new_line9 | sugar
+violin
+stove
+flame
+album
+test
+canyon
+fashion
+employ |  
+| bip_39_word_space_0 | ['sugar', 'violin', 'stove', 'flame', 'album', 'test', 'canyon', 'fashion', 'employ', 'collect', 'claw', 'acquire'] |  
+| bip_39_word_space_1 | sugar |  
+| bip_39_word_space_10 | sugar violin stove flame album test canyon fashion employ collect |  
+| bip_39_word_space_11 | sugar violin stove flame album test canyon fashion employ collect claw |  
+| bip_39_word_space_12 | sugar violin stove flame album test canyon fashion employ collect claw acquire |  
+| bip_39_word_space_2 | sugar violin |  
+| bip_39_word_space_3 | sugar violin stove |  
+| bip_39_word_space_4 | sugar violin stove flame |  
+| bip_39_word_space_5 | sugar violin stove flame album |  
+| bip_39_word_space_6 | sugar violin stove flame album test |  
+| bip_39_word_space_7 | sugar violin stove flame album test canyon |  
+| bip_39_word_space_8 | sugar violin stove flame album test canyon fashion |  
+| bip_39_word_space_9 | sugar violin stove flame album test canyon fashion employ |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

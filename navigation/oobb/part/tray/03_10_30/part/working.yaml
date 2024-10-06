@@ -1,3 +1,186 @@
+bip_39_word_new_br1: awkward
+bip_39_word_new_br10: awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital<br>clown<br>april<br>tooth<br>poverty
+bip_39_word_new_br11: awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital<br>clown<br>april<br>tooth<br>poverty<br>scene
+bip_39_word_new_br12: awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital<br>clown<br>april<br>tooth<br>poverty<br>scene<br>absurd
+bip_39_word_new_br2: awkward<br>naive
+bip_39_word_new_br3: awkward<br>naive<br>behave
+bip_39_word_new_br4: awkward<br>naive<br>behave<br>wall
+bip_39_word_new_br5: awkward<br>naive<br>behave<br>wall<br>fiscal
+bip_39_word_new_br6: awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital
+bip_39_word_new_br7: awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital<br>clown
+bip_39_word_new_br8: awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital<br>clown<br>april
+bip_39_word_new_br9: awkward<br>naive<br>behave<br>wall<br>fiscal<br>vital<br>clown<br>april<br>tooth
+bip_39_word_new_line1: awkward
+bip_39_word_new_line10: 'awkward
+
+  naive
+
+  behave
+
+  wall
+
+  fiscal
+
+  vital
+
+  clown
+
+  april
+
+  tooth
+
+  poverty'
+bip_39_word_new_line11: 'awkward
+
+  naive
+
+  behave
+
+  wall
+
+  fiscal
+
+  vital
+
+  clown
+
+  april
+
+  tooth
+
+  poverty
+
+  scene'
+bip_39_word_new_line12: 'awkward
+
+  naive
+
+  behave
+
+  wall
+
+  fiscal
+
+  vital
+
+  clown
+
+  april
+
+  tooth
+
+  poverty
+
+  scene
+
+  absurd'
+bip_39_word_new_line2: 'awkward
+
+  naive'
+bip_39_word_new_line3: 'awkward
+
+  naive
+
+  behave'
+bip_39_word_new_line4: 'awkward
+
+  naive
+
+  behave
+
+  wall'
+bip_39_word_new_line5: 'awkward
+
+  naive
+
+  behave
+
+  wall
+
+  fiscal'
+bip_39_word_new_line6: 'awkward
+
+  naive
+
+  behave
+
+  wall
+
+  fiscal
+
+  vital'
+bip_39_word_new_line7: 'awkward
+
+  naive
+
+  behave
+
+  wall
+
+  fiscal
+
+  vital
+
+  clown'
+bip_39_word_new_line8: 'awkward
+
+  naive
+
+  behave
+
+  wall
+
+  fiscal
+
+  vital
+
+  clown
+
+  april'
+bip_39_word_new_line9: 'awkward
+
+  naive
+
+  behave
+
+  wall
+
+  fiscal
+
+  vital
+
+  clown
+
+  april
+
+  tooth'
+bip_39_word_space_0:
+- awkward
+- naive
+- behave
+- wall
+- fiscal
+- vital
+- clown
+- april
+- tooth
+- poverty
+- scene
+- absurd
+bip_39_word_space_1: awkward
+bip_39_word_space_10: awkward naive behave wall fiscal vital clown april tooth poverty
+bip_39_word_space_11: awkward naive behave wall fiscal vital clown april tooth poverty
+  scene
+bip_39_word_space_12: awkward naive behave wall fiscal vital clown april tooth poverty
+  scene absurd
+bip_39_word_space_2: awkward naive
+bip_39_word_space_3: awkward naive behave
+bip_39_word_space_4: awkward naive behave wall
+bip_39_word_space_5: awkward naive behave wall fiscal
+bip_39_word_space_6: awkward naive behave wall fiscal vital
+bip_39_word_space_7: awkward naive behave wall fiscal vital clown
+bip_39_word_space_8: awkward naive behave wall fiscal vital clown april
+bip_39_word_space_9: awkward naive behave wall fiscal vital clown april tooth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nature
+bip_39_word_new_br10: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow<br>pact<br>dress<br>trade<br>sustain
+bip_39_word_new_br11: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow<br>pact<br>dress<br>trade<br>sustain<br>weekend
+bip_39_word_new_br12: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow<br>pact<br>dress<br>trade<br>sustain<br>weekend<br>ancient
+bip_39_word_new_br2: nature<br>curious
+bip_39_word_new_br3: nature<br>curious<br>cycle
+bip_39_word_new_br4: nature<br>curious<br>cycle<br>kitchen
+bip_39_word_new_br5: nature<br>curious<br>cycle<br>kitchen<br>foster
+bip_39_word_new_br6: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow
+bip_39_word_new_br7: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow<br>pact
+bip_39_word_new_br8: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow<br>pact<br>dress
+bip_39_word_new_br9: nature<br>curious<br>cycle<br>kitchen<br>foster<br>elbow<br>pact<br>dress<br>trade
+bip_39_word_new_line1: nature
+bip_39_word_new_line10: 'nature
+
+  curious
+
+  cycle
+
+  kitchen
+
+  foster
+
+  elbow
+
+  pact
+
+  dress
+
+  trade
+
+  sustain'
+bip_39_word_new_line11: 'nature
+
+  curious
+
+  cycle
+
+  kitchen
+
+  foster
+
+  elbow
+
+  pact
+
+  dress
+
+  trade
+
+  sustain
+
+  weekend'
+bip_39_word_new_line12: 'nature
+
+  curious
+
+  cycle
+
+  kitchen
+
+  foster
+
+  elbow
+
+  pact
+
+  dress
+
+  trade
+
+  sustain
+
+  weekend
+
+  ancient'
+bip_39_word_new_line2: 'nature
+
+  curious'
+bip_39_word_new_line3: 'nature
+
+  curious
+
+  cycle'
+bip_39_word_new_line4: 'nature
+
+  curious
+
+  cycle
+
+  kitchen'
+bip_39_word_new_line5: 'nature
+
+  curious
+
+  cycle
+
+  kitchen
+
+  foster'
+bip_39_word_new_line6: 'nature
+
+  curious
+
+  cycle
+
+  kitchen
+
+  foster
+
+  elbow'
+bip_39_word_new_line7: 'nature
+
+  curious
+
+  cycle
+
+  kitchen
+
+  foster
+
+  elbow
+
+  pact'
+bip_39_word_new_line8: 'nature
+
+  curious
+
+  cycle
+
+  kitchen
+
+  foster
+
+  elbow
+
+  pact
+
+  dress'
+bip_39_word_new_line9: 'nature
+
+  curious
+
+  cycle
+
+  kitchen
+
+  foster
+
+  elbow
+
+  pact
+
+  dress
+
+  trade'
+bip_39_word_space_0:
+- nature
+- curious
+- cycle
+- kitchen
+- foster
+- elbow
+- pact
+- dress
+- trade
+- sustain
+- weekend
+- ancient
+bip_39_word_space_1: nature
+bip_39_word_space_10: nature curious cycle kitchen foster elbow pact dress trade sustain
+bip_39_word_space_11: nature curious cycle kitchen foster elbow pact dress trade sustain
+  weekend
+bip_39_word_space_12: nature curious cycle kitchen foster elbow pact dress trade sustain
+  weekend ancient
+bip_39_word_space_2: nature curious
+bip_39_word_space_3: nature curious cycle
+bip_39_word_space_4: nature curious cycle kitchen
+bip_39_word_space_5: nature curious cycle kitchen foster
+bip_39_word_space_6: nature curious cycle kitchen foster elbow
+bip_39_word_space_7: nature curious cycle kitchen foster elbow pact
+bip_39_word_space_8: nature curious cycle kitchen foster elbow pact dress
+bip_39_word_space_9: nature curious cycle kitchen foster elbow pact dress trade
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

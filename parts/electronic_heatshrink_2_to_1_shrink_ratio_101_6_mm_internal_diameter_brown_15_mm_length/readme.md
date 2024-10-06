@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: announce moment
+  * bip 39 word 3: announce moment usual
+  * bip 39 word: announce moment usual avoid convince slight oyster alone gossip jump say athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | announce |  
+| bip_39_word_new_br10 | announce<br>moment<br>usual<br>avoid<br>convince<br>slight<br>oyster<br>alone<br>gossip<br>jump |  
+| bip_39_word_new_br11 | announce<br>moment<br>usual<br>avoid<br>convince<br>slight<br>oyster<br>alone<br>gossip<br>jump<br>say |  
+| bip_39_word_new_br12 | announce<br>moment<br>usual<br>avoid<br>convince<br>slight<br>oyster<br>alone<br>gossip<br>jump<br>say<br>athlete |  
+| bip_39_word_new_br2 | announce<br>moment |  
+| bip_39_word_new_br3 | announce<br>moment<br>usual |  
+| bip_39_word_new_br4 | announce<br>moment<br>usual<br>avoid |  
+| bip_39_word_new_br5 | announce<br>moment<br>usual<br>avoid<br>convince |  
+| bip_39_word_new_br6 | announce<br>moment<br>usual<br>avoid<br>convince<br>slight |  
+| bip_39_word_new_br7 | announce<br>moment<br>usual<br>avoid<br>convince<br>slight<br>oyster |  
+| bip_39_word_new_br8 | announce<br>moment<br>usual<br>avoid<br>convince<br>slight<br>oyster<br>alone |  
+| bip_39_word_new_br9 | announce<br>moment<br>usual<br>avoid<br>convince<br>slight<br>oyster<br>alone<br>gossip |  
+| bip_39_word_new_line1 | announce |  
+| bip_39_word_new_line10 | announce
+moment
+usual
+avoid
+convince
+slight
+oyster
+alone
+gossip
+jump |  
+| bip_39_word_new_line11 | announce
+moment
+usual
+avoid
+convince
+slight
+oyster
+alone
+gossip
+jump
+say |  
+| bip_39_word_new_line12 | announce
+moment
+usual
+avoid
+convince
+slight
+oyster
+alone
+gossip
+jump
+say
+athlete |  
+| bip_39_word_new_line2 | announce
+moment |  
+| bip_39_word_new_line3 | announce
+moment
+usual |  
+| bip_39_word_new_line4 | announce
+moment
+usual
+avoid |  
+| bip_39_word_new_line5 | announce
+moment
+usual
+avoid
+convince |  
+| bip_39_word_new_line6 | announce
+moment
+usual
+avoid
+convince
+slight |  
+| bip_39_word_new_line7 | announce
+moment
+usual
+avoid
+convince
+slight
+oyster |  
+| bip_39_word_new_line8 | announce
+moment
+usual
+avoid
+convince
+slight
+oyster
+alone |  
+| bip_39_word_new_line9 | announce
+moment
+usual
+avoid
+convince
+slight
+oyster
+alone
+gossip |  
+| bip_39_word_space_0 | ['announce', 'moment', 'usual', 'avoid', 'convince', 'slight', 'oyster', 'alone', 'gossip', 'jump', 'say', 'athlete'] |  
+| bip_39_word_space_1 | announce |  
+| bip_39_word_space_10 | announce moment usual avoid convince slight oyster alone gossip jump |  
+| bip_39_word_space_11 | announce moment usual avoid convince slight oyster alone gossip jump say |  
+| bip_39_word_space_12 | announce moment usual avoid convince slight oyster alone gossip jump say athlete |  
+| bip_39_word_space_2 | announce moment |  
+| bip_39_word_space_3 | announce moment usual |  
+| bip_39_word_space_4 | announce moment usual avoid |  
+| bip_39_word_space_5 | announce moment usual avoid convince |  
+| bip_39_word_space_6 | announce moment usual avoid convince slight |  
+| bip_39_word_space_7 | announce moment usual avoid convince slight oyster |  
+| bip_39_word_space_8 | announce moment usual avoid convince slight oyster alone |  
+| bip_39_word_space_9 | announce moment usual avoid convince slight oyster alone gossip |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

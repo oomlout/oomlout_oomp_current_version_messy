@@ -1,3 +1,187 @@
+bip_39_word_new_br1: crouch
+bip_39_word_new_br10: crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur
+bip_39_word_new_br11: crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur<br>fiber
+bip_39_word_new_br12: crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal<br>blur<br>fiber<br>argue
+bip_39_word_new_br2: crouch<br>grass
+bip_39_word_new_br3: crouch<br>grass<br>life
+bip_39_word_new_br4: crouch<br>grass<br>life<br>interest
+bip_39_word_new_br5: crouch<br>grass<br>life<br>interest<br>beauty
+bip_39_word_new_br6: crouch<br>grass<br>life<br>interest<br>beauty<br>response
+bip_39_word_new_br7: crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper
+bip_39_word_new_br8: crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster
+bip_39_word_new_br9: crouch<br>grass<br>life<br>interest<br>beauty<br>response<br>prosper<br>hamster<br>equal
+bip_39_word_new_line1: crouch
+bip_39_word_new_line10: 'crouch
+
+  grass
+
+  life
+
+  interest
+
+  beauty
+
+  response
+
+  prosper
+
+  hamster
+
+  equal
+
+  blur'
+bip_39_word_new_line11: 'crouch
+
+  grass
+
+  life
+
+  interest
+
+  beauty
+
+  response
+
+  prosper
+
+  hamster
+
+  equal
+
+  blur
+
+  fiber'
+bip_39_word_new_line12: 'crouch
+
+  grass
+
+  life
+
+  interest
+
+  beauty
+
+  response
+
+  prosper
+
+  hamster
+
+  equal
+
+  blur
+
+  fiber
+
+  argue'
+bip_39_word_new_line2: 'crouch
+
+  grass'
+bip_39_word_new_line3: 'crouch
+
+  grass
+
+  life'
+bip_39_word_new_line4: 'crouch
+
+  grass
+
+  life
+
+  interest'
+bip_39_word_new_line5: 'crouch
+
+  grass
+
+  life
+
+  interest
+
+  beauty'
+bip_39_word_new_line6: 'crouch
+
+  grass
+
+  life
+
+  interest
+
+  beauty
+
+  response'
+bip_39_word_new_line7: 'crouch
+
+  grass
+
+  life
+
+  interest
+
+  beauty
+
+  response
+
+  prosper'
+bip_39_word_new_line8: 'crouch
+
+  grass
+
+  life
+
+  interest
+
+  beauty
+
+  response
+
+  prosper
+
+  hamster'
+bip_39_word_new_line9: 'crouch
+
+  grass
+
+  life
+
+  interest
+
+  beauty
+
+  response
+
+  prosper
+
+  hamster
+
+  equal'
+bip_39_word_space_0:
+- crouch
+- grass
+- life
+- interest
+- beauty
+- response
+- prosper
+- hamster
+- equal
+- blur
+- fiber
+- argue
+bip_39_word_space_1: crouch
+bip_39_word_space_10: crouch grass life interest beauty response prosper hamster equal
+  blur
+bip_39_word_space_11: crouch grass life interest beauty response prosper hamster equal
+  blur fiber
+bip_39_word_space_12: crouch grass life interest beauty response prosper hamster equal
+  blur fiber argue
+bip_39_word_space_2: crouch grass
+bip_39_word_space_3: crouch grass life
+bip_39_word_space_4: crouch grass life interest
+bip_39_word_space_5: crouch grass life interest beauty
+bip_39_word_space_6: crouch grass life interest beauty response
+bip_39_word_space_7: crouch grass life interest beauty response prosper
+bip_39_word_space_8: crouch grass life interest beauty response prosper hamster
+bip_39_word_space_9: crouch grass life interest beauty response prosper hamster equal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

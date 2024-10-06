@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 0
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sample athlete
+  * bip 39 word 3: sample athlete acoustic
+  * bip 39 word: sample athlete acoustic smart audit paper search boss enhance lamp dismiss armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sample |  
+| bip_39_word_new_br10 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper<br>search<br>boss<br>enhance<br>lamp |  
+| bip_39_word_new_br11 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper<br>search<br>boss<br>enhance<br>lamp<br>dismiss |  
+| bip_39_word_new_br12 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper<br>search<br>boss<br>enhance<br>lamp<br>dismiss<br>armed |  
+| bip_39_word_new_br2 | sample<br>athlete |  
+| bip_39_word_new_br3 | sample<br>athlete<br>acoustic |  
+| bip_39_word_new_br4 | sample<br>athlete<br>acoustic<br>smart |  
+| bip_39_word_new_br5 | sample<br>athlete<br>acoustic<br>smart<br>audit |  
+| bip_39_word_new_br6 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper |  
+| bip_39_word_new_br7 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper<br>search |  
+| bip_39_word_new_br8 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper<br>search<br>boss |  
+| bip_39_word_new_br9 | sample<br>athlete<br>acoustic<br>smart<br>audit<br>paper<br>search<br>boss<br>enhance |  
+| bip_39_word_new_line1 | sample |  
+| bip_39_word_new_line10 | sample
+athlete
+acoustic
+smart
+audit
+paper
+search
+boss
+enhance
+lamp |  
+| bip_39_word_new_line11 | sample
+athlete
+acoustic
+smart
+audit
+paper
+search
+boss
+enhance
+lamp
+dismiss |  
+| bip_39_word_new_line12 | sample
+athlete
+acoustic
+smart
+audit
+paper
+search
+boss
+enhance
+lamp
+dismiss
+armed |  
+| bip_39_word_new_line2 | sample
+athlete |  
+| bip_39_word_new_line3 | sample
+athlete
+acoustic |  
+| bip_39_word_new_line4 | sample
+athlete
+acoustic
+smart |  
+| bip_39_word_new_line5 | sample
+athlete
+acoustic
+smart
+audit |  
+| bip_39_word_new_line6 | sample
+athlete
+acoustic
+smart
+audit
+paper |  
+| bip_39_word_new_line7 | sample
+athlete
+acoustic
+smart
+audit
+paper
+search |  
+| bip_39_word_new_line8 | sample
+athlete
+acoustic
+smart
+audit
+paper
+search
+boss |  
+| bip_39_word_new_line9 | sample
+athlete
+acoustic
+smart
+audit
+paper
+search
+boss
+enhance |  
+| bip_39_word_space_0 | ['sample', 'athlete', 'acoustic', 'smart', 'audit', 'paper', 'search', 'boss', 'enhance', 'lamp', 'dismiss', 'armed'] |  
+| bip_39_word_space_1 | sample |  
+| bip_39_word_space_10 | sample athlete acoustic smart audit paper search boss enhance lamp |  
+| bip_39_word_space_11 | sample athlete acoustic smart audit paper search boss enhance lamp dismiss |  
+| bip_39_word_space_12 | sample athlete acoustic smart audit paper search boss enhance lamp dismiss armed |  
+| bip_39_word_space_2 | sample athlete |  
+| bip_39_word_space_3 | sample athlete acoustic |  
+| bip_39_word_space_4 | sample athlete acoustic smart |  
+| bip_39_word_space_5 | sample athlete acoustic smart audit |  
+| bip_39_word_space_6 | sample athlete acoustic smart audit paper |  
+| bip_39_word_space_7 | sample athlete acoustic smart audit paper search |  
+| bip_39_word_space_8 | sample athlete acoustic smart audit paper search boss |  
+| bip_39_word_space_9 | sample athlete acoustic smart audit paper search boss enhance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unveil obvious
+  * bip 39 word 3: unveil obvious sketch
+  * bip 39 word: unveil obvious sketch motor silk behind add same absent hobby bundle amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unveil |  
+| bip_39_word_new_br10 | unveil<br>obvious<br>sketch<br>motor<br>silk<br>behind<br>add<br>same<br>absent<br>hobby |  
+| bip_39_word_new_br11 | unveil<br>obvious<br>sketch<br>motor<br>silk<br>behind<br>add<br>same<br>absent<br>hobby<br>bundle |  
+| bip_39_word_new_br12 | unveil<br>obvious<br>sketch<br>motor<br>silk<br>behind<br>add<br>same<br>absent<br>hobby<br>bundle<br>amused |  
+| bip_39_word_new_br2 | unveil<br>obvious |  
+| bip_39_word_new_br3 | unveil<br>obvious<br>sketch |  
+| bip_39_word_new_br4 | unveil<br>obvious<br>sketch<br>motor |  
+| bip_39_word_new_br5 | unveil<br>obvious<br>sketch<br>motor<br>silk |  
+| bip_39_word_new_br6 | unveil<br>obvious<br>sketch<br>motor<br>silk<br>behind |  
+| bip_39_word_new_br7 | unveil<br>obvious<br>sketch<br>motor<br>silk<br>behind<br>add |  
+| bip_39_word_new_br8 | unveil<br>obvious<br>sketch<br>motor<br>silk<br>behind<br>add<br>same |  
+| bip_39_word_new_br9 | unveil<br>obvious<br>sketch<br>motor<br>silk<br>behind<br>add<br>same<br>absent |  
+| bip_39_word_new_line1 | unveil |  
+| bip_39_word_new_line10 | unveil
+obvious
+sketch
+motor
+silk
+behind
+add
+same
+absent
+hobby |  
+| bip_39_word_new_line11 | unveil
+obvious
+sketch
+motor
+silk
+behind
+add
+same
+absent
+hobby
+bundle |  
+| bip_39_word_new_line12 | unveil
+obvious
+sketch
+motor
+silk
+behind
+add
+same
+absent
+hobby
+bundle
+amused |  
+| bip_39_word_new_line2 | unveil
+obvious |  
+| bip_39_word_new_line3 | unveil
+obvious
+sketch |  
+| bip_39_word_new_line4 | unveil
+obvious
+sketch
+motor |  
+| bip_39_word_new_line5 | unveil
+obvious
+sketch
+motor
+silk |  
+| bip_39_word_new_line6 | unveil
+obvious
+sketch
+motor
+silk
+behind |  
+| bip_39_word_new_line7 | unveil
+obvious
+sketch
+motor
+silk
+behind
+add |  
+| bip_39_word_new_line8 | unveil
+obvious
+sketch
+motor
+silk
+behind
+add
+same |  
+| bip_39_word_new_line9 | unveil
+obvious
+sketch
+motor
+silk
+behind
+add
+same
+absent |  
+| bip_39_word_space_0 | ['unveil', 'obvious', 'sketch', 'motor', 'silk', 'behind', 'add', 'same', 'absent', 'hobby', 'bundle', 'amused'] |  
+| bip_39_word_space_1 | unveil |  
+| bip_39_word_space_10 | unveil obvious sketch motor silk behind add same absent hobby |  
+| bip_39_word_space_11 | unveil obvious sketch motor silk behind add same absent hobby bundle |  
+| bip_39_word_space_12 | unveil obvious sketch motor silk behind add same absent hobby bundle amused |  
+| bip_39_word_space_2 | unveil obvious |  
+| bip_39_word_space_3 | unveil obvious sketch |  
+| bip_39_word_space_4 | unveil obvious sketch motor |  
+| bip_39_word_space_5 | unveil obvious sketch motor silk |  
+| bip_39_word_space_6 | unveil obvious sketch motor silk behind |  
+| bip_39_word_space_7 | unveil obvious sketch motor silk behind add |  
+| bip_39_word_space_8 | unveil obvious sketch motor silk behind add same |  
+| bip_39_word_space_9 | unveil obvious sketch motor silk behind add same absent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

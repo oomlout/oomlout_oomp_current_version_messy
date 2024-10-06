@@ -1,3 +1,186 @@
+bip_39_word_new_br1: build
+bip_39_word_new_br10: build<br>catch<br>diet<br>promote<br>brief<br>will<br>keen<br>age<br>olympic<br>sausage
+bip_39_word_new_br11: build<br>catch<br>diet<br>promote<br>brief<br>will<br>keen<br>age<br>olympic<br>sausage<br>segment
+bip_39_word_new_br12: build<br>catch<br>diet<br>promote<br>brief<br>will<br>keen<br>age<br>olympic<br>sausage<br>segment<br>arena
+bip_39_word_new_br2: build<br>catch
+bip_39_word_new_br3: build<br>catch<br>diet
+bip_39_word_new_br4: build<br>catch<br>diet<br>promote
+bip_39_word_new_br5: build<br>catch<br>diet<br>promote<br>brief
+bip_39_word_new_br6: build<br>catch<br>diet<br>promote<br>brief<br>will
+bip_39_word_new_br7: build<br>catch<br>diet<br>promote<br>brief<br>will<br>keen
+bip_39_word_new_br8: build<br>catch<br>diet<br>promote<br>brief<br>will<br>keen<br>age
+bip_39_word_new_br9: build<br>catch<br>diet<br>promote<br>brief<br>will<br>keen<br>age<br>olympic
+bip_39_word_new_line1: build
+bip_39_word_new_line10: 'build
+
+  catch
+
+  diet
+
+  promote
+
+  brief
+
+  will
+
+  keen
+
+  age
+
+  olympic
+
+  sausage'
+bip_39_word_new_line11: 'build
+
+  catch
+
+  diet
+
+  promote
+
+  brief
+
+  will
+
+  keen
+
+  age
+
+  olympic
+
+  sausage
+
+  segment'
+bip_39_word_new_line12: 'build
+
+  catch
+
+  diet
+
+  promote
+
+  brief
+
+  will
+
+  keen
+
+  age
+
+  olympic
+
+  sausage
+
+  segment
+
+  arena'
+bip_39_word_new_line2: 'build
+
+  catch'
+bip_39_word_new_line3: 'build
+
+  catch
+
+  diet'
+bip_39_word_new_line4: 'build
+
+  catch
+
+  diet
+
+  promote'
+bip_39_word_new_line5: 'build
+
+  catch
+
+  diet
+
+  promote
+
+  brief'
+bip_39_word_new_line6: 'build
+
+  catch
+
+  diet
+
+  promote
+
+  brief
+
+  will'
+bip_39_word_new_line7: 'build
+
+  catch
+
+  diet
+
+  promote
+
+  brief
+
+  will
+
+  keen'
+bip_39_word_new_line8: 'build
+
+  catch
+
+  diet
+
+  promote
+
+  brief
+
+  will
+
+  keen
+
+  age'
+bip_39_word_new_line9: 'build
+
+  catch
+
+  diet
+
+  promote
+
+  brief
+
+  will
+
+  keen
+
+  age
+
+  olympic'
+bip_39_word_space_0:
+- build
+- catch
+- diet
+- promote
+- brief
+- will
+- keen
+- age
+- olympic
+- sausage
+- segment
+- arena
+bip_39_word_space_1: build
+bip_39_word_space_10: build catch diet promote brief will keen age olympic sausage
+bip_39_word_space_11: build catch diet promote brief will keen age olympic sausage
+  segment
+bip_39_word_space_12: build catch diet promote brief will keen age olympic sausage
+  segment arena
+bip_39_word_space_2: build catch
+bip_39_word_space_3: build catch diet
+bip_39_word_space_4: build catch diet promote
+bip_39_word_space_5: build catch diet promote brief
+bip_39_word_space_6: build catch diet promote brief will
+bip_39_word_space_7: build catch diet promote brief will keen
+bip_39_word_space_8: build catch diet promote brief will keen age
+bip_39_word_space_9: build catch diet promote brief will keen age olympic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

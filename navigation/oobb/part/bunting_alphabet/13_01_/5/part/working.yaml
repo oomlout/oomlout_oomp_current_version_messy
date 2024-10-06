@@ -1,3 +1,185 @@
+bip_39_word_new_br1: melody
+bip_39_word_new_br10: melody<br>fall<br>use<br>spring<br>betray<br>rival<br>above<br>web<br>live<br>gap
+bip_39_word_new_br11: melody<br>fall<br>use<br>spring<br>betray<br>rival<br>above<br>web<br>live<br>gap<br>depend
+bip_39_word_new_br12: melody<br>fall<br>use<br>spring<br>betray<br>rival<br>above<br>web<br>live<br>gap<br>depend<br>area
+bip_39_word_new_br2: melody<br>fall
+bip_39_word_new_br3: melody<br>fall<br>use
+bip_39_word_new_br4: melody<br>fall<br>use<br>spring
+bip_39_word_new_br5: melody<br>fall<br>use<br>spring<br>betray
+bip_39_word_new_br6: melody<br>fall<br>use<br>spring<br>betray<br>rival
+bip_39_word_new_br7: melody<br>fall<br>use<br>spring<br>betray<br>rival<br>above
+bip_39_word_new_br8: melody<br>fall<br>use<br>spring<br>betray<br>rival<br>above<br>web
+bip_39_word_new_br9: melody<br>fall<br>use<br>spring<br>betray<br>rival<br>above<br>web<br>live
+bip_39_word_new_line1: melody
+bip_39_word_new_line10: 'melody
+
+  fall
+
+  use
+
+  spring
+
+  betray
+
+  rival
+
+  above
+
+  web
+
+  live
+
+  gap'
+bip_39_word_new_line11: 'melody
+
+  fall
+
+  use
+
+  spring
+
+  betray
+
+  rival
+
+  above
+
+  web
+
+  live
+
+  gap
+
+  depend'
+bip_39_word_new_line12: 'melody
+
+  fall
+
+  use
+
+  spring
+
+  betray
+
+  rival
+
+  above
+
+  web
+
+  live
+
+  gap
+
+  depend
+
+  area'
+bip_39_word_new_line2: 'melody
+
+  fall'
+bip_39_word_new_line3: 'melody
+
+  fall
+
+  use'
+bip_39_word_new_line4: 'melody
+
+  fall
+
+  use
+
+  spring'
+bip_39_word_new_line5: 'melody
+
+  fall
+
+  use
+
+  spring
+
+  betray'
+bip_39_word_new_line6: 'melody
+
+  fall
+
+  use
+
+  spring
+
+  betray
+
+  rival'
+bip_39_word_new_line7: 'melody
+
+  fall
+
+  use
+
+  spring
+
+  betray
+
+  rival
+
+  above'
+bip_39_word_new_line8: 'melody
+
+  fall
+
+  use
+
+  spring
+
+  betray
+
+  rival
+
+  above
+
+  web'
+bip_39_word_new_line9: 'melody
+
+  fall
+
+  use
+
+  spring
+
+  betray
+
+  rival
+
+  above
+
+  web
+
+  live'
+bip_39_word_space_0:
+- melody
+- fall
+- use
+- spring
+- betray
+- rival
+- above
+- web
+- live
+- gap
+- depend
+- area
+bip_39_word_space_1: melody
+bip_39_word_space_10: melody fall use spring betray rival above web live gap
+bip_39_word_space_11: melody fall use spring betray rival above web live gap depend
+bip_39_word_space_12: melody fall use spring betray rival above web live gap depend
+  area
+bip_39_word_space_2: melody fall
+bip_39_word_space_3: melody fall use
+bip_39_word_space_4: melody fall use spring
+bip_39_word_space_5: melody fall use spring betray
+bip_39_word_space_6: melody fall use spring betray rival
+bip_39_word_space_7: melody fall use spring betray rival above
+bip_39_word_space_8: melody fall use spring betray rival above web
+bip_39_word_space_9: melody fall use spring betray rival above web live
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

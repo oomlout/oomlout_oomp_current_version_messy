@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mouse pipe
+  * bip 39 word 3: mouse pipe blur
+  * bip 39 word: mouse pipe blur genuine minute long acquire benefit lamp weekend reject afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mouse |  
+| bip_39_word_new_br10 | mouse<br>pipe<br>blur<br>genuine<br>minute<br>long<br>acquire<br>benefit<br>lamp<br>weekend |  
+| bip_39_word_new_br11 | mouse<br>pipe<br>blur<br>genuine<br>minute<br>long<br>acquire<br>benefit<br>lamp<br>weekend<br>reject |  
+| bip_39_word_new_br12 | mouse<br>pipe<br>blur<br>genuine<br>minute<br>long<br>acquire<br>benefit<br>lamp<br>weekend<br>reject<br>afraid |  
+| bip_39_word_new_br2 | mouse<br>pipe |  
+| bip_39_word_new_br3 | mouse<br>pipe<br>blur |  
+| bip_39_word_new_br4 | mouse<br>pipe<br>blur<br>genuine |  
+| bip_39_word_new_br5 | mouse<br>pipe<br>blur<br>genuine<br>minute |  
+| bip_39_word_new_br6 | mouse<br>pipe<br>blur<br>genuine<br>minute<br>long |  
+| bip_39_word_new_br7 | mouse<br>pipe<br>blur<br>genuine<br>minute<br>long<br>acquire |  
+| bip_39_word_new_br8 | mouse<br>pipe<br>blur<br>genuine<br>minute<br>long<br>acquire<br>benefit |  
+| bip_39_word_new_br9 | mouse<br>pipe<br>blur<br>genuine<br>minute<br>long<br>acquire<br>benefit<br>lamp |  
+| bip_39_word_new_line1 | mouse |  
+| bip_39_word_new_line10 | mouse
+pipe
+blur
+genuine
+minute
+long
+acquire
+benefit
+lamp
+weekend |  
+| bip_39_word_new_line11 | mouse
+pipe
+blur
+genuine
+minute
+long
+acquire
+benefit
+lamp
+weekend
+reject |  
+| bip_39_word_new_line12 | mouse
+pipe
+blur
+genuine
+minute
+long
+acquire
+benefit
+lamp
+weekend
+reject
+afraid |  
+| bip_39_word_new_line2 | mouse
+pipe |  
+| bip_39_word_new_line3 | mouse
+pipe
+blur |  
+| bip_39_word_new_line4 | mouse
+pipe
+blur
+genuine |  
+| bip_39_word_new_line5 | mouse
+pipe
+blur
+genuine
+minute |  
+| bip_39_word_new_line6 | mouse
+pipe
+blur
+genuine
+minute
+long |  
+| bip_39_word_new_line7 | mouse
+pipe
+blur
+genuine
+minute
+long
+acquire |  
+| bip_39_word_new_line8 | mouse
+pipe
+blur
+genuine
+minute
+long
+acquire
+benefit |  
+| bip_39_word_new_line9 | mouse
+pipe
+blur
+genuine
+minute
+long
+acquire
+benefit
+lamp |  
+| bip_39_word_space_0 | ['mouse', 'pipe', 'blur', 'genuine', 'minute', 'long', 'acquire', 'benefit', 'lamp', 'weekend', 'reject', 'afraid'] |  
+| bip_39_word_space_1 | mouse |  
+| bip_39_word_space_10 | mouse pipe blur genuine minute long acquire benefit lamp weekend |  
+| bip_39_word_space_11 | mouse pipe blur genuine minute long acquire benefit lamp weekend reject |  
+| bip_39_word_space_12 | mouse pipe blur genuine minute long acquire benefit lamp weekend reject afraid |  
+| bip_39_word_space_2 | mouse pipe |  
+| bip_39_word_space_3 | mouse pipe blur |  
+| bip_39_word_space_4 | mouse pipe blur genuine |  
+| bip_39_word_space_5 | mouse pipe blur genuine minute |  
+| bip_39_word_space_6 | mouse pipe blur genuine minute long |  
+| bip_39_word_space_7 | mouse pipe blur genuine minute long acquire |  
+| bip_39_word_space_8 | mouse pipe blur genuine minute long acquire benefit |  
+| bip_39_word_space_9 | mouse pipe blur genuine minute long acquire benefit lamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

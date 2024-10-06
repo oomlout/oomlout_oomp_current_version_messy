@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: umbrella runway
+  * bip 39 word 3: umbrella runway impose
+  * bip 39 word: umbrella runway impose feature spice copper decline unaware noodle human rare alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | umbrella |  
+| bip_39_word_new_br10 | umbrella<br>runway<br>impose<br>feature<br>spice<br>copper<br>decline<br>unaware<br>noodle<br>human |  
+| bip_39_word_new_br11 | umbrella<br>runway<br>impose<br>feature<br>spice<br>copper<br>decline<br>unaware<br>noodle<br>human<br>rare |  
+| bip_39_word_new_br12 | umbrella<br>runway<br>impose<br>feature<br>spice<br>copper<br>decline<br>unaware<br>noodle<br>human<br>rare<br>alien |  
+| bip_39_word_new_br2 | umbrella<br>runway |  
+| bip_39_word_new_br3 | umbrella<br>runway<br>impose |  
+| bip_39_word_new_br4 | umbrella<br>runway<br>impose<br>feature |  
+| bip_39_word_new_br5 | umbrella<br>runway<br>impose<br>feature<br>spice |  
+| bip_39_word_new_br6 | umbrella<br>runway<br>impose<br>feature<br>spice<br>copper |  
+| bip_39_word_new_br7 | umbrella<br>runway<br>impose<br>feature<br>spice<br>copper<br>decline |  
+| bip_39_word_new_br8 | umbrella<br>runway<br>impose<br>feature<br>spice<br>copper<br>decline<br>unaware |  
+| bip_39_word_new_br9 | umbrella<br>runway<br>impose<br>feature<br>spice<br>copper<br>decline<br>unaware<br>noodle |  
+| bip_39_word_new_line1 | umbrella |  
+| bip_39_word_new_line10 | umbrella
+runway
+impose
+feature
+spice
+copper
+decline
+unaware
+noodle
+human |  
+| bip_39_word_new_line11 | umbrella
+runway
+impose
+feature
+spice
+copper
+decline
+unaware
+noodle
+human
+rare |  
+| bip_39_word_new_line12 | umbrella
+runway
+impose
+feature
+spice
+copper
+decline
+unaware
+noodle
+human
+rare
+alien |  
+| bip_39_word_new_line2 | umbrella
+runway |  
+| bip_39_word_new_line3 | umbrella
+runway
+impose |  
+| bip_39_word_new_line4 | umbrella
+runway
+impose
+feature |  
+| bip_39_word_new_line5 | umbrella
+runway
+impose
+feature
+spice |  
+| bip_39_word_new_line6 | umbrella
+runway
+impose
+feature
+spice
+copper |  
+| bip_39_word_new_line7 | umbrella
+runway
+impose
+feature
+spice
+copper
+decline |  
+| bip_39_word_new_line8 | umbrella
+runway
+impose
+feature
+spice
+copper
+decline
+unaware |  
+| bip_39_word_new_line9 | umbrella
+runway
+impose
+feature
+spice
+copper
+decline
+unaware
+noodle |  
+| bip_39_word_space_0 | ['umbrella', 'runway', 'impose', 'feature', 'spice', 'copper', 'decline', 'unaware', 'noodle', 'human', 'rare', 'alien'] |  
+| bip_39_word_space_1 | umbrella |  
+| bip_39_word_space_10 | umbrella runway impose feature spice copper decline unaware noodle human |  
+| bip_39_word_space_11 | umbrella runway impose feature spice copper decline unaware noodle human rare |  
+| bip_39_word_space_12 | umbrella runway impose feature spice copper decline unaware noodle human rare alien |  
+| bip_39_word_space_2 | umbrella runway |  
+| bip_39_word_space_3 | umbrella runway impose |  
+| bip_39_word_space_4 | umbrella runway impose feature |  
+| bip_39_word_space_5 | umbrella runway impose feature spice |  
+| bip_39_word_space_6 | umbrella runway impose feature spice copper |  
+| bip_39_word_space_7 | umbrella runway impose feature spice copper decline |  
+| bip_39_word_space_8 | umbrella runway impose feature spice copper decline unaware |  
+| bip_39_word_space_9 | umbrella runway impose feature spice copper decline unaware noodle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

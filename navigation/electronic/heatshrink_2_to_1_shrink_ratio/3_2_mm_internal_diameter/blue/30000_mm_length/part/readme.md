@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: typical quit
+  * bip 39 word 3: typical quit comfort
+  * bip 39 word: typical quit comfort shiver oak misery clarify burger ankle snack badge almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | typical |  
+| bip_39_word_new_br10 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack |  
+| bip_39_word_new_br11 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack<br>badge |  
+| bip_39_word_new_br12 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle<br>snack<br>badge<br>almost |  
+| bip_39_word_new_br2 | typical<br>quit |  
+| bip_39_word_new_br3 | typical<br>quit<br>comfort |  
+| bip_39_word_new_br4 | typical<br>quit<br>comfort<br>shiver |  
+| bip_39_word_new_br5 | typical<br>quit<br>comfort<br>shiver<br>oak |  
+| bip_39_word_new_br6 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery |  
+| bip_39_word_new_br7 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify |  
+| bip_39_word_new_br8 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger |  
+| bip_39_word_new_br9 | typical<br>quit<br>comfort<br>shiver<br>oak<br>misery<br>clarify<br>burger<br>ankle |  
+| bip_39_word_new_line1 | typical |  
+| bip_39_word_new_line10 | typical
+quit
+comfort
+shiver
+oak
+misery
+clarify
+burger
+ankle
+snack |  
+| bip_39_word_new_line11 | typical
+quit
+comfort
+shiver
+oak
+misery
+clarify
+burger
+ankle
+snack
+badge |  
+| bip_39_word_new_line12 | typical
+quit
+comfort
+shiver
+oak
+misery
+clarify
+burger
+ankle
+snack
+badge
+almost |  
+| bip_39_word_new_line2 | typical
+quit |  
+| bip_39_word_new_line3 | typical
+quit
+comfort |  
+| bip_39_word_new_line4 | typical
+quit
+comfort
+shiver |  
+| bip_39_word_new_line5 | typical
+quit
+comfort
+shiver
+oak |  
+| bip_39_word_new_line6 | typical
+quit
+comfort
+shiver
+oak
+misery |  
+| bip_39_word_new_line7 | typical
+quit
+comfort
+shiver
+oak
+misery
+clarify |  
+| bip_39_word_new_line8 | typical
+quit
+comfort
+shiver
+oak
+misery
+clarify
+burger |  
+| bip_39_word_new_line9 | typical
+quit
+comfort
+shiver
+oak
+misery
+clarify
+burger
+ankle |  
+| bip_39_word_space_0 | ['typical', 'quit', 'comfort', 'shiver', 'oak', 'misery', 'clarify', 'burger', 'ankle', 'snack', 'badge', 'almost'] |  
+| bip_39_word_space_1 | typical |  
+| bip_39_word_space_10 | typical quit comfort shiver oak misery clarify burger ankle snack |  
+| bip_39_word_space_11 | typical quit comfort shiver oak misery clarify burger ankle snack badge |  
+| bip_39_word_space_12 | typical quit comfort shiver oak misery clarify burger ankle snack badge almost |  
+| bip_39_word_space_2 | typical quit |  
+| bip_39_word_space_3 | typical quit comfort |  
+| bip_39_word_space_4 | typical quit comfort shiver |  
+| bip_39_word_space_5 | typical quit comfort shiver oak |  
+| bip_39_word_space_6 | typical quit comfort shiver oak misery |  
+| bip_39_word_space_7 | typical quit comfort shiver oak misery clarify |  
+| bip_39_word_space_8 | typical quit comfort shiver oak misery clarify burger |  
+| bip_39_word_space_9 | typical quit comfort shiver oak misery clarify burger ankle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

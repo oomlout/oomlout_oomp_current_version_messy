@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unknown draft
+  * bip 39 word 3: unknown draft mean
+  * bip 39 word: unknown draft mean method drum siren bronze chest lady wasp female affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unknown |  
+| bip_39_word_new_br10 | unknown<br>draft<br>mean<br>method<br>drum<br>siren<br>bronze<br>chest<br>lady<br>wasp |  
+| bip_39_word_new_br11 | unknown<br>draft<br>mean<br>method<br>drum<br>siren<br>bronze<br>chest<br>lady<br>wasp<br>female |  
+| bip_39_word_new_br12 | unknown<br>draft<br>mean<br>method<br>drum<br>siren<br>bronze<br>chest<br>lady<br>wasp<br>female<br>affair |  
+| bip_39_word_new_br2 | unknown<br>draft |  
+| bip_39_word_new_br3 | unknown<br>draft<br>mean |  
+| bip_39_word_new_br4 | unknown<br>draft<br>mean<br>method |  
+| bip_39_word_new_br5 | unknown<br>draft<br>mean<br>method<br>drum |  
+| bip_39_word_new_br6 | unknown<br>draft<br>mean<br>method<br>drum<br>siren |  
+| bip_39_word_new_br7 | unknown<br>draft<br>mean<br>method<br>drum<br>siren<br>bronze |  
+| bip_39_word_new_br8 | unknown<br>draft<br>mean<br>method<br>drum<br>siren<br>bronze<br>chest |  
+| bip_39_word_new_br9 | unknown<br>draft<br>mean<br>method<br>drum<br>siren<br>bronze<br>chest<br>lady |  
+| bip_39_word_new_line1 | unknown |  
+| bip_39_word_new_line10 | unknown
+draft
+mean
+method
+drum
+siren
+bronze
+chest
+lady
+wasp |  
+| bip_39_word_new_line11 | unknown
+draft
+mean
+method
+drum
+siren
+bronze
+chest
+lady
+wasp
+female |  
+| bip_39_word_new_line12 | unknown
+draft
+mean
+method
+drum
+siren
+bronze
+chest
+lady
+wasp
+female
+affair |  
+| bip_39_word_new_line2 | unknown
+draft |  
+| bip_39_word_new_line3 | unknown
+draft
+mean |  
+| bip_39_word_new_line4 | unknown
+draft
+mean
+method |  
+| bip_39_word_new_line5 | unknown
+draft
+mean
+method
+drum |  
+| bip_39_word_new_line6 | unknown
+draft
+mean
+method
+drum
+siren |  
+| bip_39_word_new_line7 | unknown
+draft
+mean
+method
+drum
+siren
+bronze |  
+| bip_39_word_new_line8 | unknown
+draft
+mean
+method
+drum
+siren
+bronze
+chest |  
+| bip_39_word_new_line9 | unknown
+draft
+mean
+method
+drum
+siren
+bronze
+chest
+lady |  
+| bip_39_word_space_0 | ['unknown', 'draft', 'mean', 'method', 'drum', 'siren', 'bronze', 'chest', 'lady', 'wasp', 'female', 'affair'] |  
+| bip_39_word_space_1 | unknown |  
+| bip_39_word_space_10 | unknown draft mean method drum siren bronze chest lady wasp |  
+| bip_39_word_space_11 | unknown draft mean method drum siren bronze chest lady wasp female |  
+| bip_39_word_space_12 | unknown draft mean method drum siren bronze chest lady wasp female affair |  
+| bip_39_word_space_2 | unknown draft |  
+| bip_39_word_space_3 | unknown draft mean |  
+| bip_39_word_space_4 | unknown draft mean method |  
+| bip_39_word_space_5 | unknown draft mean method drum |  
+| bip_39_word_space_6 | unknown draft mean method drum siren |  
+| bip_39_word_space_7 | unknown draft mean method drum siren bronze |  
+| bip_39_word_space_8 | unknown draft mean method drum siren bronze chest |  
+| bip_39_word_space_9 | unknown draft mean method drum siren bronze chest lady |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: again safe
+  * bip 39 word 3: again safe flock
+  * bip 39 word: again safe flock bamboo ahead tornado olive sleep service force tilt attend
 
 ### other_codes
 * short_code: so3br12ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | again |  
+| bip_39_word_new_br10 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado<br>olive<br>sleep<br>service<br>force |  
+| bip_39_word_new_br11 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado<br>olive<br>sleep<br>service<br>force<br>tilt |  
+| bip_39_word_new_br12 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado<br>olive<br>sleep<br>service<br>force<br>tilt<br>attend |  
+| bip_39_word_new_br2 | again<br>safe |  
+| bip_39_word_new_br3 | again<br>safe<br>flock |  
+| bip_39_word_new_br4 | again<br>safe<br>flock<br>bamboo |  
+| bip_39_word_new_br5 | again<br>safe<br>flock<br>bamboo<br>ahead |  
+| bip_39_word_new_br6 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado |  
+| bip_39_word_new_br7 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado<br>olive |  
+| bip_39_word_new_br8 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado<br>olive<br>sleep |  
+| bip_39_word_new_br9 | again<br>safe<br>flock<br>bamboo<br>ahead<br>tornado<br>olive<br>sleep<br>service |  
+| bip_39_word_new_line1 | again |  
+| bip_39_word_new_line10 | again
+safe
+flock
+bamboo
+ahead
+tornado
+olive
+sleep
+service
+force |  
+| bip_39_word_new_line11 | again
+safe
+flock
+bamboo
+ahead
+tornado
+olive
+sleep
+service
+force
+tilt |  
+| bip_39_word_new_line12 | again
+safe
+flock
+bamboo
+ahead
+tornado
+olive
+sleep
+service
+force
+tilt
+attend |  
+| bip_39_word_new_line2 | again
+safe |  
+| bip_39_word_new_line3 | again
+safe
+flock |  
+| bip_39_word_new_line4 | again
+safe
+flock
+bamboo |  
+| bip_39_word_new_line5 | again
+safe
+flock
+bamboo
+ahead |  
+| bip_39_word_new_line6 | again
+safe
+flock
+bamboo
+ahead
+tornado |  
+| bip_39_word_new_line7 | again
+safe
+flock
+bamboo
+ahead
+tornado
+olive |  
+| bip_39_word_new_line8 | again
+safe
+flock
+bamboo
+ahead
+tornado
+olive
+sleep |  
+| bip_39_word_new_line9 | again
+safe
+flock
+bamboo
+ahead
+tornado
+olive
+sleep
+service |  
+| bip_39_word_space_0 | ['again', 'safe', 'flock', 'bamboo', 'ahead', 'tornado', 'olive', 'sleep', 'service', 'force', 'tilt', 'attend'] |  
+| bip_39_word_space_1 | again |  
+| bip_39_word_space_10 | again safe flock bamboo ahead tornado olive sleep service force |  
+| bip_39_word_space_11 | again safe flock bamboo ahead tornado olive sleep service force tilt |  
+| bip_39_word_space_12 | again safe flock bamboo ahead tornado olive sleep service force tilt attend |  
+| bip_39_word_space_2 | again safe |  
+| bip_39_word_space_3 | again safe flock |  
+| bip_39_word_space_4 | again safe flock bamboo |  
+| bip_39_word_space_5 | again safe flock bamboo ahead |  
+| bip_39_word_space_6 | again safe flock bamboo ahead tornado |  
+| bip_39_word_space_7 | again safe flock bamboo ahead tornado olive |  
+| bip_39_word_space_8 | again safe flock bamboo ahead tornado olive sleep |  
+| bip_39_word_space_9 | again safe flock bamboo ahead tornado olive sleep service |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

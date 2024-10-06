@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: task blur
+  * bip 39 word 3: task blur juice
+  * bip 39 word: task blur juice amateur author claw develop spend problem cube inmate allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | task |  
+| bip_39_word_new_br10 | task<br>blur<br>juice<br>amateur<br>author<br>claw<br>develop<br>spend<br>problem<br>cube |  
+| bip_39_word_new_br11 | task<br>blur<br>juice<br>amateur<br>author<br>claw<br>develop<br>spend<br>problem<br>cube<br>inmate |  
+| bip_39_word_new_br12 | task<br>blur<br>juice<br>amateur<br>author<br>claw<br>develop<br>spend<br>problem<br>cube<br>inmate<br>allow |  
+| bip_39_word_new_br2 | task<br>blur |  
+| bip_39_word_new_br3 | task<br>blur<br>juice |  
+| bip_39_word_new_br4 | task<br>blur<br>juice<br>amateur |  
+| bip_39_word_new_br5 | task<br>blur<br>juice<br>amateur<br>author |  
+| bip_39_word_new_br6 | task<br>blur<br>juice<br>amateur<br>author<br>claw |  
+| bip_39_word_new_br7 | task<br>blur<br>juice<br>amateur<br>author<br>claw<br>develop |  
+| bip_39_word_new_br8 | task<br>blur<br>juice<br>amateur<br>author<br>claw<br>develop<br>spend |  
+| bip_39_word_new_br9 | task<br>blur<br>juice<br>amateur<br>author<br>claw<br>develop<br>spend<br>problem |  
+| bip_39_word_new_line1 | task |  
+| bip_39_word_new_line10 | task
+blur
+juice
+amateur
+author
+claw
+develop
+spend
+problem
+cube |  
+| bip_39_word_new_line11 | task
+blur
+juice
+amateur
+author
+claw
+develop
+spend
+problem
+cube
+inmate |  
+| bip_39_word_new_line12 | task
+blur
+juice
+amateur
+author
+claw
+develop
+spend
+problem
+cube
+inmate
+allow |  
+| bip_39_word_new_line2 | task
+blur |  
+| bip_39_word_new_line3 | task
+blur
+juice |  
+| bip_39_word_new_line4 | task
+blur
+juice
+amateur |  
+| bip_39_word_new_line5 | task
+blur
+juice
+amateur
+author |  
+| bip_39_word_new_line6 | task
+blur
+juice
+amateur
+author
+claw |  
+| bip_39_word_new_line7 | task
+blur
+juice
+amateur
+author
+claw
+develop |  
+| bip_39_word_new_line8 | task
+blur
+juice
+amateur
+author
+claw
+develop
+spend |  
+| bip_39_word_new_line9 | task
+blur
+juice
+amateur
+author
+claw
+develop
+spend
+problem |  
+| bip_39_word_space_0 | ['task', 'blur', 'juice', 'amateur', 'author', 'claw', 'develop', 'spend', 'problem', 'cube', 'inmate', 'allow'] |  
+| bip_39_word_space_1 | task |  
+| bip_39_word_space_10 | task blur juice amateur author claw develop spend problem cube |  
+| bip_39_word_space_11 | task blur juice amateur author claw develop spend problem cube inmate |  
+| bip_39_word_space_12 | task blur juice amateur author claw develop spend problem cube inmate allow |  
+| bip_39_word_space_2 | task blur |  
+| bip_39_word_space_3 | task blur juice |  
+| bip_39_word_space_4 | task blur juice amateur |  
+| bip_39_word_space_5 | task blur juice amateur author |  
+| bip_39_word_space_6 | task blur juice amateur author claw |  
+| bip_39_word_space_7 | task blur juice amateur author claw develop |  
+| bip_39_word_space_8 | task blur juice amateur author claw develop spend |  
+| bip_39_word_space_9 | task blur juice amateur author claw develop spend problem |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clip faculty
+  * bip 39 word 3: clip faculty enforce
+  * bip 39 word: clip faculty enforce between swear vacant tenant crisp damp water wedding admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clip |  
+| bip_39_word_new_br10 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant<br>tenant<br>crisp<br>damp<br>water |  
+| bip_39_word_new_br11 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant<br>tenant<br>crisp<br>damp<br>water<br>wedding |  
+| bip_39_word_new_br12 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant<br>tenant<br>crisp<br>damp<br>water<br>wedding<br>admit |  
+| bip_39_word_new_br2 | clip<br>faculty |  
+| bip_39_word_new_br3 | clip<br>faculty<br>enforce |  
+| bip_39_word_new_br4 | clip<br>faculty<br>enforce<br>between |  
+| bip_39_word_new_br5 | clip<br>faculty<br>enforce<br>between<br>swear |  
+| bip_39_word_new_br6 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant |  
+| bip_39_word_new_br7 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant<br>tenant |  
+| bip_39_word_new_br8 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant<br>tenant<br>crisp |  
+| bip_39_word_new_br9 | clip<br>faculty<br>enforce<br>between<br>swear<br>vacant<br>tenant<br>crisp<br>damp |  
+| bip_39_word_new_line1 | clip |  
+| bip_39_word_new_line10 | clip
+faculty
+enforce
+between
+swear
+vacant
+tenant
+crisp
+damp
+water |  
+| bip_39_word_new_line11 | clip
+faculty
+enforce
+between
+swear
+vacant
+tenant
+crisp
+damp
+water
+wedding |  
+| bip_39_word_new_line12 | clip
+faculty
+enforce
+between
+swear
+vacant
+tenant
+crisp
+damp
+water
+wedding
+admit |  
+| bip_39_word_new_line2 | clip
+faculty |  
+| bip_39_word_new_line3 | clip
+faculty
+enforce |  
+| bip_39_word_new_line4 | clip
+faculty
+enforce
+between |  
+| bip_39_word_new_line5 | clip
+faculty
+enforce
+between
+swear |  
+| bip_39_word_new_line6 | clip
+faculty
+enforce
+between
+swear
+vacant |  
+| bip_39_word_new_line7 | clip
+faculty
+enforce
+between
+swear
+vacant
+tenant |  
+| bip_39_word_new_line8 | clip
+faculty
+enforce
+between
+swear
+vacant
+tenant
+crisp |  
+| bip_39_word_new_line9 | clip
+faculty
+enforce
+between
+swear
+vacant
+tenant
+crisp
+damp |  
+| bip_39_word_space_0 | ['clip', 'faculty', 'enforce', 'between', 'swear', 'vacant', 'tenant', 'crisp', 'damp', 'water', 'wedding', 'admit'] |  
+| bip_39_word_space_1 | clip |  
+| bip_39_word_space_10 | clip faculty enforce between swear vacant tenant crisp damp water |  
+| bip_39_word_space_11 | clip faculty enforce between swear vacant tenant crisp damp water wedding |  
+| bip_39_word_space_12 | clip faculty enforce between swear vacant tenant crisp damp water wedding admit |  
+| bip_39_word_space_2 | clip faculty |  
+| bip_39_word_space_3 | clip faculty enforce |  
+| bip_39_word_space_4 | clip faculty enforce between |  
+| bip_39_word_space_5 | clip faculty enforce between swear |  
+| bip_39_word_space_6 | clip faculty enforce between swear vacant |  
+| bip_39_word_space_7 | clip faculty enforce between swear vacant tenant |  
+| bip_39_word_space_8 | clip faculty enforce between swear vacant tenant crisp |  
+| bip_39_word_space_9 | clip faculty enforce between swear vacant tenant crisp damp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

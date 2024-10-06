@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fruit horror
+  * bip 39 word 3: fruit horror federal
+  * bip 39 word: fruit horror federal warm faint when wrong beef mirror shop cry acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fruit |  
+| bip_39_word_new_br10 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop |  
+| bip_39_word_new_br11 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop<br>cry |  
+| bip_39_word_new_br12 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror<br>shop<br>cry<br>acid |  
+| bip_39_word_new_br2 | fruit<br>horror |  
+| bip_39_word_new_br3 | fruit<br>horror<br>federal |  
+| bip_39_word_new_br4 | fruit<br>horror<br>federal<br>warm |  
+| bip_39_word_new_br5 | fruit<br>horror<br>federal<br>warm<br>faint |  
+| bip_39_word_new_br6 | fruit<br>horror<br>federal<br>warm<br>faint<br>when |  
+| bip_39_word_new_br7 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong |  
+| bip_39_word_new_br8 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef |  
+| bip_39_word_new_br9 | fruit<br>horror<br>federal<br>warm<br>faint<br>when<br>wrong<br>beef<br>mirror |  
+| bip_39_word_new_line1 | fruit |  
+| bip_39_word_new_line10 | fruit
+horror
+federal
+warm
+faint
+when
+wrong
+beef
+mirror
+shop |  
+| bip_39_word_new_line11 | fruit
+horror
+federal
+warm
+faint
+when
+wrong
+beef
+mirror
+shop
+cry |  
+| bip_39_word_new_line12 | fruit
+horror
+federal
+warm
+faint
+when
+wrong
+beef
+mirror
+shop
+cry
+acid |  
+| bip_39_word_new_line2 | fruit
+horror |  
+| bip_39_word_new_line3 | fruit
+horror
+federal |  
+| bip_39_word_new_line4 | fruit
+horror
+federal
+warm |  
+| bip_39_word_new_line5 | fruit
+horror
+federal
+warm
+faint |  
+| bip_39_word_new_line6 | fruit
+horror
+federal
+warm
+faint
+when |  
+| bip_39_word_new_line7 | fruit
+horror
+federal
+warm
+faint
+when
+wrong |  
+| bip_39_word_new_line8 | fruit
+horror
+federal
+warm
+faint
+when
+wrong
+beef |  
+| bip_39_word_new_line9 | fruit
+horror
+federal
+warm
+faint
+when
+wrong
+beef
+mirror |  
+| bip_39_word_space_0 | ['fruit', 'horror', 'federal', 'warm', 'faint', 'when', 'wrong', 'beef', 'mirror', 'shop', 'cry', 'acid'] |  
+| bip_39_word_space_1 | fruit |  
+| bip_39_word_space_10 | fruit horror federal warm faint when wrong beef mirror shop |  
+| bip_39_word_space_11 | fruit horror federal warm faint when wrong beef mirror shop cry |  
+| bip_39_word_space_12 | fruit horror federal warm faint when wrong beef mirror shop cry acid |  
+| bip_39_word_space_2 | fruit horror |  
+| bip_39_word_space_3 | fruit horror federal |  
+| bip_39_word_space_4 | fruit horror federal warm |  
+| bip_39_word_space_5 | fruit horror federal warm faint |  
+| bip_39_word_space_6 | fruit horror federal warm faint when |  
+| bip_39_word_space_7 | fruit horror federal warm faint when wrong |  
+| bip_39_word_space_8 | fruit horror federal warm faint when wrong beef |  
+| bip_39_word_space_9 | fruit horror federal warm faint when wrong beef mirror |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: account differ
+  * bip 39 word 3: account differ love
+  * bip 39 word: account differ love nose legal valid cream cloth oven cupboard oyster auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | account |  
+| bip_39_word_new_br10 | account<br>differ<br>love<br>nose<br>legal<br>valid<br>cream<br>cloth<br>oven<br>cupboard |  
+| bip_39_word_new_br11 | account<br>differ<br>love<br>nose<br>legal<br>valid<br>cream<br>cloth<br>oven<br>cupboard<br>oyster |  
+| bip_39_word_new_br12 | account<br>differ<br>love<br>nose<br>legal<br>valid<br>cream<br>cloth<br>oven<br>cupboard<br>oyster<br>auto |  
+| bip_39_word_new_br2 | account<br>differ |  
+| bip_39_word_new_br3 | account<br>differ<br>love |  
+| bip_39_word_new_br4 | account<br>differ<br>love<br>nose |  
+| bip_39_word_new_br5 | account<br>differ<br>love<br>nose<br>legal |  
+| bip_39_word_new_br6 | account<br>differ<br>love<br>nose<br>legal<br>valid |  
+| bip_39_word_new_br7 | account<br>differ<br>love<br>nose<br>legal<br>valid<br>cream |  
+| bip_39_word_new_br8 | account<br>differ<br>love<br>nose<br>legal<br>valid<br>cream<br>cloth |  
+| bip_39_word_new_br9 | account<br>differ<br>love<br>nose<br>legal<br>valid<br>cream<br>cloth<br>oven |  
+| bip_39_word_new_line1 | account |  
+| bip_39_word_new_line10 | account
+differ
+love
+nose
+legal
+valid
+cream
+cloth
+oven
+cupboard |  
+| bip_39_word_new_line11 | account
+differ
+love
+nose
+legal
+valid
+cream
+cloth
+oven
+cupboard
+oyster |  
+| bip_39_word_new_line12 | account
+differ
+love
+nose
+legal
+valid
+cream
+cloth
+oven
+cupboard
+oyster
+auto |  
+| bip_39_word_new_line2 | account
+differ |  
+| bip_39_word_new_line3 | account
+differ
+love |  
+| bip_39_word_new_line4 | account
+differ
+love
+nose |  
+| bip_39_word_new_line5 | account
+differ
+love
+nose
+legal |  
+| bip_39_word_new_line6 | account
+differ
+love
+nose
+legal
+valid |  
+| bip_39_word_new_line7 | account
+differ
+love
+nose
+legal
+valid
+cream |  
+| bip_39_word_new_line8 | account
+differ
+love
+nose
+legal
+valid
+cream
+cloth |  
+| bip_39_word_new_line9 | account
+differ
+love
+nose
+legal
+valid
+cream
+cloth
+oven |  
+| bip_39_word_space_0 | ['account', 'differ', 'love', 'nose', 'legal', 'valid', 'cream', 'cloth', 'oven', 'cupboard', 'oyster', 'auto'] |  
+| bip_39_word_space_1 | account |  
+| bip_39_word_space_10 | account differ love nose legal valid cream cloth oven cupboard |  
+| bip_39_word_space_11 | account differ love nose legal valid cream cloth oven cupboard oyster |  
+| bip_39_word_space_12 | account differ love nose legal valid cream cloth oven cupboard oyster auto |  
+| bip_39_word_space_2 | account differ |  
+| bip_39_word_space_3 | account differ love |  
+| bip_39_word_space_4 | account differ love nose |  
+| bip_39_word_space_5 | account differ love nose legal |  
+| bip_39_word_space_6 | account differ love nose legal valid |  
+| bip_39_word_space_7 | account differ love nose legal valid cream |  
+| bip_39_word_space_8 | account differ love nose legal valid cream cloth |  
+| bip_39_word_space_9 | account differ love nose legal valid cream cloth oven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

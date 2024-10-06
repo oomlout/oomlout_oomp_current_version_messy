@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: output sweet
+  * bip 39 word 3: output sweet finish
+  * bip 39 word: output sweet finish become satisfy notice found train argue bright bachelor apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | output |  
+| bip_39_word_new_br10 | output<br>sweet<br>finish<br>become<br>satisfy<br>notice<br>found<br>train<br>argue<br>bright |  
+| bip_39_word_new_br11 | output<br>sweet<br>finish<br>become<br>satisfy<br>notice<br>found<br>train<br>argue<br>bright<br>bachelor |  
+| bip_39_word_new_br12 | output<br>sweet<br>finish<br>become<br>satisfy<br>notice<br>found<br>train<br>argue<br>bright<br>bachelor<br>apple |  
+| bip_39_word_new_br2 | output<br>sweet |  
+| bip_39_word_new_br3 | output<br>sweet<br>finish |  
+| bip_39_word_new_br4 | output<br>sweet<br>finish<br>become |  
+| bip_39_word_new_br5 | output<br>sweet<br>finish<br>become<br>satisfy |  
+| bip_39_word_new_br6 | output<br>sweet<br>finish<br>become<br>satisfy<br>notice |  
+| bip_39_word_new_br7 | output<br>sweet<br>finish<br>become<br>satisfy<br>notice<br>found |  
+| bip_39_word_new_br8 | output<br>sweet<br>finish<br>become<br>satisfy<br>notice<br>found<br>train |  
+| bip_39_word_new_br9 | output<br>sweet<br>finish<br>become<br>satisfy<br>notice<br>found<br>train<br>argue |  
+| bip_39_word_new_line1 | output |  
+| bip_39_word_new_line10 | output
+sweet
+finish
+become
+satisfy
+notice
+found
+train
+argue
+bright |  
+| bip_39_word_new_line11 | output
+sweet
+finish
+become
+satisfy
+notice
+found
+train
+argue
+bright
+bachelor |  
+| bip_39_word_new_line12 | output
+sweet
+finish
+become
+satisfy
+notice
+found
+train
+argue
+bright
+bachelor
+apple |  
+| bip_39_word_new_line2 | output
+sweet |  
+| bip_39_word_new_line3 | output
+sweet
+finish |  
+| bip_39_word_new_line4 | output
+sweet
+finish
+become |  
+| bip_39_word_new_line5 | output
+sweet
+finish
+become
+satisfy |  
+| bip_39_word_new_line6 | output
+sweet
+finish
+become
+satisfy
+notice |  
+| bip_39_word_new_line7 | output
+sweet
+finish
+become
+satisfy
+notice
+found |  
+| bip_39_word_new_line8 | output
+sweet
+finish
+become
+satisfy
+notice
+found
+train |  
+| bip_39_word_new_line9 | output
+sweet
+finish
+become
+satisfy
+notice
+found
+train
+argue |  
+| bip_39_word_space_0 | ['output', 'sweet', 'finish', 'become', 'satisfy', 'notice', 'found', 'train', 'argue', 'bright', 'bachelor', 'apple'] |  
+| bip_39_word_space_1 | output |  
+| bip_39_word_space_10 | output sweet finish become satisfy notice found train argue bright |  
+| bip_39_word_space_11 | output sweet finish become satisfy notice found train argue bright bachelor |  
+| bip_39_word_space_12 | output sweet finish become satisfy notice found train argue bright bachelor apple |  
+| bip_39_word_space_2 | output sweet |  
+| bip_39_word_space_3 | output sweet finish |  
+| bip_39_word_space_4 | output sweet finish become |  
+| bip_39_word_space_5 | output sweet finish become satisfy |  
+| bip_39_word_space_6 | output sweet finish become satisfy notice |  
+| bip_39_word_space_7 | output sweet finish become satisfy notice found |  
+| bip_39_word_space_8 | output sweet finish become satisfy notice found train |  
+| bip_39_word_space_9 | output sweet finish become satisfy notice found train argue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: shoot
+bip_39_word_new_br10: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel
+bip_39_word_new_br11: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel<br>grit
+bip_39_word_new_br12: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better<br>cancel<br>grit<br>affair
+bip_39_word_new_br2: shoot<br>shuffle
+bip_39_word_new_br3: shoot<br>shuffle<br>effort
+bip_39_word_new_br4: shoot<br>shuffle<br>effort<br>allow
+bip_39_word_new_br5: shoot<br>shuffle<br>effort<br>allow<br>until
+bip_39_word_new_br6: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza
+bip_39_word_new_br7: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness
+bip_39_word_new_br8: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim
+bip_39_word_new_br9: shoot<br>shuffle<br>effort<br>allow<br>until<br>pizza<br>illness<br>swim<br>better
+bip_39_word_new_line1: shoot
+bip_39_word_new_line10: 'shoot
+
+  shuffle
+
+  effort
+
+  allow
+
+  until
+
+  pizza
+
+  illness
+
+  swim
+
+  better
+
+  cancel'
+bip_39_word_new_line11: 'shoot
+
+  shuffle
+
+  effort
+
+  allow
+
+  until
+
+  pizza
+
+  illness
+
+  swim
+
+  better
+
+  cancel
+
+  grit'
+bip_39_word_new_line12: 'shoot
+
+  shuffle
+
+  effort
+
+  allow
+
+  until
+
+  pizza
+
+  illness
+
+  swim
+
+  better
+
+  cancel
+
+  grit
+
+  affair'
+bip_39_word_new_line2: 'shoot
+
+  shuffle'
+bip_39_word_new_line3: 'shoot
+
+  shuffle
+
+  effort'
+bip_39_word_new_line4: 'shoot
+
+  shuffle
+
+  effort
+
+  allow'
+bip_39_word_new_line5: 'shoot
+
+  shuffle
+
+  effort
+
+  allow
+
+  until'
+bip_39_word_new_line6: 'shoot
+
+  shuffle
+
+  effort
+
+  allow
+
+  until
+
+  pizza'
+bip_39_word_new_line7: 'shoot
+
+  shuffle
+
+  effort
+
+  allow
+
+  until
+
+  pizza
+
+  illness'
+bip_39_word_new_line8: 'shoot
+
+  shuffle
+
+  effort
+
+  allow
+
+  until
+
+  pizza
+
+  illness
+
+  swim'
+bip_39_word_new_line9: 'shoot
+
+  shuffle
+
+  effort
+
+  allow
+
+  until
+
+  pizza
+
+  illness
+
+  swim
+
+  better'
+bip_39_word_space_0:
+- shoot
+- shuffle
+- effort
+- allow
+- until
+- pizza
+- illness
+- swim
+- better
+- cancel
+- grit
+- affair
+bip_39_word_space_1: shoot
+bip_39_word_space_10: shoot shuffle effort allow until pizza illness swim better cancel
+bip_39_word_space_11: shoot shuffle effort allow until pizza illness swim better cancel
+  grit
+bip_39_word_space_12: shoot shuffle effort allow until pizza illness swim better cancel
+  grit affair
+bip_39_word_space_2: shoot shuffle
+bip_39_word_space_3: shoot shuffle effort
+bip_39_word_space_4: shoot shuffle effort allow
+bip_39_word_space_5: shoot shuffle effort allow until
+bip_39_word_space_6: shoot shuffle effort allow until pizza
+bip_39_word_space_7: shoot shuffle effort allow until pizza illness
+bip_39_word_space_8: shoot shuffle effort allow until pizza illness swim
+bip_39_word_space_9: shoot shuffle effort allow until pizza illness swim better
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

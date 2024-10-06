@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: theory lamp
+  * bip 39 word 3: theory lamp fuel
+  * bip 39 word: theory lamp fuel grunt version humor hope supply verb account stem adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | theory |  
+| bip_39_word_new_br10 | theory<br>lamp<br>fuel<br>grunt<br>version<br>humor<br>hope<br>supply<br>verb<br>account |  
+| bip_39_word_new_br11 | theory<br>lamp<br>fuel<br>grunt<br>version<br>humor<br>hope<br>supply<br>verb<br>account<br>stem |  
+| bip_39_word_new_br12 | theory<br>lamp<br>fuel<br>grunt<br>version<br>humor<br>hope<br>supply<br>verb<br>account<br>stem<br>adjust |  
+| bip_39_word_new_br2 | theory<br>lamp |  
+| bip_39_word_new_br3 | theory<br>lamp<br>fuel |  
+| bip_39_word_new_br4 | theory<br>lamp<br>fuel<br>grunt |  
+| bip_39_word_new_br5 | theory<br>lamp<br>fuel<br>grunt<br>version |  
+| bip_39_word_new_br6 | theory<br>lamp<br>fuel<br>grunt<br>version<br>humor |  
+| bip_39_word_new_br7 | theory<br>lamp<br>fuel<br>grunt<br>version<br>humor<br>hope |  
+| bip_39_word_new_br8 | theory<br>lamp<br>fuel<br>grunt<br>version<br>humor<br>hope<br>supply |  
+| bip_39_word_new_br9 | theory<br>lamp<br>fuel<br>grunt<br>version<br>humor<br>hope<br>supply<br>verb |  
+| bip_39_word_new_line1 | theory |  
+| bip_39_word_new_line10 | theory
+lamp
+fuel
+grunt
+version
+humor
+hope
+supply
+verb
+account |  
+| bip_39_word_new_line11 | theory
+lamp
+fuel
+grunt
+version
+humor
+hope
+supply
+verb
+account
+stem |  
+| bip_39_word_new_line12 | theory
+lamp
+fuel
+grunt
+version
+humor
+hope
+supply
+verb
+account
+stem
+adjust |  
+| bip_39_word_new_line2 | theory
+lamp |  
+| bip_39_word_new_line3 | theory
+lamp
+fuel |  
+| bip_39_word_new_line4 | theory
+lamp
+fuel
+grunt |  
+| bip_39_word_new_line5 | theory
+lamp
+fuel
+grunt
+version |  
+| bip_39_word_new_line6 | theory
+lamp
+fuel
+grunt
+version
+humor |  
+| bip_39_word_new_line7 | theory
+lamp
+fuel
+grunt
+version
+humor
+hope |  
+| bip_39_word_new_line8 | theory
+lamp
+fuel
+grunt
+version
+humor
+hope
+supply |  
+| bip_39_word_new_line9 | theory
+lamp
+fuel
+grunt
+version
+humor
+hope
+supply
+verb |  
+| bip_39_word_space_0 | ['theory', 'lamp', 'fuel', 'grunt', 'version', 'humor', 'hope', 'supply', 'verb', 'account', 'stem', 'adjust'] |  
+| bip_39_word_space_1 | theory |  
+| bip_39_word_space_10 | theory lamp fuel grunt version humor hope supply verb account |  
+| bip_39_word_space_11 | theory lamp fuel grunt version humor hope supply verb account stem |  
+| bip_39_word_space_12 | theory lamp fuel grunt version humor hope supply verb account stem adjust |  
+| bip_39_word_space_2 | theory lamp |  
+| bip_39_word_space_3 | theory lamp fuel |  
+| bip_39_word_space_4 | theory lamp fuel grunt |  
+| bip_39_word_space_5 | theory lamp fuel grunt version |  
+| bip_39_word_space_6 | theory lamp fuel grunt version humor |  
+| bip_39_word_space_7 | theory lamp fuel grunt version humor hope |  
+| bip_39_word_space_8 | theory lamp fuel grunt version humor hope supply |  
+| bip_39_word_space_9 | theory lamp fuel grunt version humor hope supply verb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

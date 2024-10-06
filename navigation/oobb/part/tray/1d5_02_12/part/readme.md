@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: verify camp
+  * bip 39 word 3: verify camp logic
+  * bip 39 word: verify camp logic letter ski series day innocent evidence club dose attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | verify |  
+| bip_39_word_new_br10 | verify<br>camp<br>logic<br>letter<br>ski<br>series<br>day<br>innocent<br>evidence<br>club |  
+| bip_39_word_new_br11 | verify<br>camp<br>logic<br>letter<br>ski<br>series<br>day<br>innocent<br>evidence<br>club<br>dose |  
+| bip_39_word_new_br12 | verify<br>camp<br>logic<br>letter<br>ski<br>series<br>day<br>innocent<br>evidence<br>club<br>dose<br>attitude |  
+| bip_39_word_new_br2 | verify<br>camp |  
+| bip_39_word_new_br3 | verify<br>camp<br>logic |  
+| bip_39_word_new_br4 | verify<br>camp<br>logic<br>letter |  
+| bip_39_word_new_br5 | verify<br>camp<br>logic<br>letter<br>ski |  
+| bip_39_word_new_br6 | verify<br>camp<br>logic<br>letter<br>ski<br>series |  
+| bip_39_word_new_br7 | verify<br>camp<br>logic<br>letter<br>ski<br>series<br>day |  
+| bip_39_word_new_br8 | verify<br>camp<br>logic<br>letter<br>ski<br>series<br>day<br>innocent |  
+| bip_39_word_new_br9 | verify<br>camp<br>logic<br>letter<br>ski<br>series<br>day<br>innocent<br>evidence |  
+| bip_39_word_new_line1 | verify |  
+| bip_39_word_new_line10 | verify
+camp
+logic
+letter
+ski
+series
+day
+innocent
+evidence
+club |  
+| bip_39_word_new_line11 | verify
+camp
+logic
+letter
+ski
+series
+day
+innocent
+evidence
+club
+dose |  
+| bip_39_word_new_line12 | verify
+camp
+logic
+letter
+ski
+series
+day
+innocent
+evidence
+club
+dose
+attitude |  
+| bip_39_word_new_line2 | verify
+camp |  
+| bip_39_word_new_line3 | verify
+camp
+logic |  
+| bip_39_word_new_line4 | verify
+camp
+logic
+letter |  
+| bip_39_word_new_line5 | verify
+camp
+logic
+letter
+ski |  
+| bip_39_word_new_line6 | verify
+camp
+logic
+letter
+ski
+series |  
+| bip_39_word_new_line7 | verify
+camp
+logic
+letter
+ski
+series
+day |  
+| bip_39_word_new_line8 | verify
+camp
+logic
+letter
+ski
+series
+day
+innocent |  
+| bip_39_word_new_line9 | verify
+camp
+logic
+letter
+ski
+series
+day
+innocent
+evidence |  
+| bip_39_word_space_0 | ['verify', 'camp', 'logic', 'letter', 'ski', 'series', 'day', 'innocent', 'evidence', 'club', 'dose', 'attitude'] |  
+| bip_39_word_space_1 | verify |  
+| bip_39_word_space_10 | verify camp logic letter ski series day innocent evidence club |  
+| bip_39_word_space_11 | verify camp logic letter ski series day innocent evidence club dose |  
+| bip_39_word_space_12 | verify camp logic letter ski series day innocent evidence club dose attitude |  
+| bip_39_word_space_2 | verify camp |  
+| bip_39_word_space_3 | verify camp logic |  
+| bip_39_word_space_4 | verify camp logic letter |  
+| bip_39_word_space_5 | verify camp logic letter ski |  
+| bip_39_word_space_6 | verify camp logic letter ski series |  
+| bip_39_word_space_7 | verify camp logic letter ski series day |  
+| bip_39_word_space_8 | verify camp logic letter ski series day innocent |  
+| bip_39_word_space_9 | verify camp logic letter ski series day innocent evidence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

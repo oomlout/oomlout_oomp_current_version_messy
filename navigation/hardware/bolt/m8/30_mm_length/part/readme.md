@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aspect task
+  * bip 39 word 3: aspect task write
+  * bip 39 word: aspect task write cube replace bag grid cube scheme squirrel ridge add
 
 ### other_codes
 * short_code: b8m30
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aspect |  
+| bip_39_word_new_br10 | aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube<br>scheme<br>squirrel |  
+| bip_39_word_new_br11 | aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube<br>scheme<br>squirrel<br>ridge |  
+| bip_39_word_new_br12 | aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube<br>scheme<br>squirrel<br>ridge<br>add |  
+| bip_39_word_new_br2 | aspect<br>task |  
+| bip_39_word_new_br3 | aspect<br>task<br>write |  
+| bip_39_word_new_br4 | aspect<br>task<br>write<br>cube |  
+| bip_39_word_new_br5 | aspect<br>task<br>write<br>cube<br>replace |  
+| bip_39_word_new_br6 | aspect<br>task<br>write<br>cube<br>replace<br>bag |  
+| bip_39_word_new_br7 | aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid |  
+| bip_39_word_new_br8 | aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube |  
+| bip_39_word_new_br9 | aspect<br>task<br>write<br>cube<br>replace<br>bag<br>grid<br>cube<br>scheme |  
+| bip_39_word_new_line1 | aspect |  
+| bip_39_word_new_line10 | aspect
+task
+write
+cube
+replace
+bag
+grid
+cube
+scheme
+squirrel |  
+| bip_39_word_new_line11 | aspect
+task
+write
+cube
+replace
+bag
+grid
+cube
+scheme
+squirrel
+ridge |  
+| bip_39_word_new_line12 | aspect
+task
+write
+cube
+replace
+bag
+grid
+cube
+scheme
+squirrel
+ridge
+add |  
+| bip_39_word_new_line2 | aspect
+task |  
+| bip_39_word_new_line3 | aspect
+task
+write |  
+| bip_39_word_new_line4 | aspect
+task
+write
+cube |  
+| bip_39_word_new_line5 | aspect
+task
+write
+cube
+replace |  
+| bip_39_word_new_line6 | aspect
+task
+write
+cube
+replace
+bag |  
+| bip_39_word_new_line7 | aspect
+task
+write
+cube
+replace
+bag
+grid |  
+| bip_39_word_new_line8 | aspect
+task
+write
+cube
+replace
+bag
+grid
+cube |  
+| bip_39_word_new_line9 | aspect
+task
+write
+cube
+replace
+bag
+grid
+cube
+scheme |  
+| bip_39_word_space_0 | ['aspect', 'task', 'write', 'cube', 'replace', 'bag', 'grid', 'cube', 'scheme', 'squirrel', 'ridge', 'add'] |  
+| bip_39_word_space_1 | aspect |  
+| bip_39_word_space_10 | aspect task write cube replace bag grid cube scheme squirrel |  
+| bip_39_word_space_11 | aspect task write cube replace bag grid cube scheme squirrel ridge |  
+| bip_39_word_space_12 | aspect task write cube replace bag grid cube scheme squirrel ridge add |  
+| bip_39_word_space_2 | aspect task |  
+| bip_39_word_space_3 | aspect task write |  
+| bip_39_word_space_4 | aspect task write cube |  
+| bip_39_word_space_5 | aspect task write cube replace |  
+| bip_39_word_space_6 | aspect task write cube replace bag |  
+| bip_39_word_space_7 | aspect task write cube replace bag grid |  
+| bip_39_word_space_8 | aspect task write cube replace bag grid cube |  
+| bip_39_word_space_9 | aspect task write cube replace bag grid cube scheme |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

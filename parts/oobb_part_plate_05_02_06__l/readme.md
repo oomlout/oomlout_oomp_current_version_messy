@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: l
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hour afford
+  * bip 39 word 3: hour afford enemy
+  * bip 39 word: hour afford enemy offer strike carpet vicious boss truck chest slot actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hour |  
+| bip_39_word_new_br10 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet<br>vicious<br>boss<br>truck<br>chest |  
+| bip_39_word_new_br11 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet<br>vicious<br>boss<br>truck<br>chest<br>slot |  
+| bip_39_word_new_br12 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet<br>vicious<br>boss<br>truck<br>chest<br>slot<br>actor |  
+| bip_39_word_new_br2 | hour<br>afford |  
+| bip_39_word_new_br3 | hour<br>afford<br>enemy |  
+| bip_39_word_new_br4 | hour<br>afford<br>enemy<br>offer |  
+| bip_39_word_new_br5 | hour<br>afford<br>enemy<br>offer<br>strike |  
+| bip_39_word_new_br6 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet |  
+| bip_39_word_new_br7 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet<br>vicious |  
+| bip_39_word_new_br8 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet<br>vicious<br>boss |  
+| bip_39_word_new_br9 | hour<br>afford<br>enemy<br>offer<br>strike<br>carpet<br>vicious<br>boss<br>truck |  
+| bip_39_word_new_line1 | hour |  
+| bip_39_word_new_line10 | hour
+afford
+enemy
+offer
+strike
+carpet
+vicious
+boss
+truck
+chest |  
+| bip_39_word_new_line11 | hour
+afford
+enemy
+offer
+strike
+carpet
+vicious
+boss
+truck
+chest
+slot |  
+| bip_39_word_new_line12 | hour
+afford
+enemy
+offer
+strike
+carpet
+vicious
+boss
+truck
+chest
+slot
+actor |  
+| bip_39_word_new_line2 | hour
+afford |  
+| bip_39_word_new_line3 | hour
+afford
+enemy |  
+| bip_39_word_new_line4 | hour
+afford
+enemy
+offer |  
+| bip_39_word_new_line5 | hour
+afford
+enemy
+offer
+strike |  
+| bip_39_word_new_line6 | hour
+afford
+enemy
+offer
+strike
+carpet |  
+| bip_39_word_new_line7 | hour
+afford
+enemy
+offer
+strike
+carpet
+vicious |  
+| bip_39_word_new_line8 | hour
+afford
+enemy
+offer
+strike
+carpet
+vicious
+boss |  
+| bip_39_word_new_line9 | hour
+afford
+enemy
+offer
+strike
+carpet
+vicious
+boss
+truck |  
+| bip_39_word_space_0 | ['hour', 'afford', 'enemy', 'offer', 'strike', 'carpet', 'vicious', 'boss', 'truck', 'chest', 'slot', 'actor'] |  
+| bip_39_word_space_1 | hour |  
+| bip_39_word_space_10 | hour afford enemy offer strike carpet vicious boss truck chest |  
+| bip_39_word_space_11 | hour afford enemy offer strike carpet vicious boss truck chest slot |  
+| bip_39_word_space_12 | hour afford enemy offer strike carpet vicious boss truck chest slot actor |  
+| bip_39_word_space_2 | hour afford |  
+| bip_39_word_space_3 | hour afford enemy |  
+| bip_39_word_space_4 | hour afford enemy offer |  
+| bip_39_word_space_5 | hour afford enemy offer strike |  
+| bip_39_word_space_6 | hour afford enemy offer strike carpet |  
+| bip_39_word_space_7 | hour afford enemy offer strike carpet vicious |  
+| bip_39_word_space_8 | hour afford enemy offer strike carpet vicious boss |  
+| bip_39_word_space_9 | hour afford enemy offer strike carpet vicious boss truck |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

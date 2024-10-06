@@ -1,3 +1,185 @@
+bip_39_word_new_br1: solid
+bip_39_word_new_br10: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next
+bip_39_word_new_br11: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag
+bip_39_word_new_br12: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag<br>aim
+bip_39_word_new_br2: solid<br>unit
+bip_39_word_new_br3: solid<br>unit<br>cliff
+bip_39_word_new_br4: solid<br>unit<br>cliff<br>doll
+bip_39_word_new_br5: solid<br>unit<br>cliff<br>doll<br>exile
+bip_39_word_new_br6: solid<br>unit<br>cliff<br>doll<br>exile<br>human
+bip_39_word_new_br7: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind
+bip_39_word_new_br8: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture
+bip_39_word_new_br9: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive
+bip_39_word_new_line1: solid
+bip_39_word_new_line10: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture
+
+  drive
+
+  next'
+bip_39_word_new_line11: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture
+
+  drive
+
+  next
+
+  flag'
+bip_39_word_new_line12: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture
+
+  drive
+
+  next
+
+  flag
+
+  aim'
+bip_39_word_new_line2: 'solid
+
+  unit'
+bip_39_word_new_line3: 'solid
+
+  unit
+
+  cliff'
+bip_39_word_new_line4: 'solid
+
+  unit
+
+  cliff
+
+  doll'
+bip_39_word_new_line5: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile'
+bip_39_word_new_line6: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human'
+bip_39_word_new_line7: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind'
+bip_39_word_new_line8: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture'
+bip_39_word_new_line9: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture
+
+  drive'
+bip_39_word_space_0:
+- solid
+- unit
+- cliff
+- doll
+- exile
+- human
+- mind
+- picture
+- drive
+- next
+- flag
+- aim
+bip_39_word_space_1: solid
+bip_39_word_space_10: solid unit cliff doll exile human mind picture drive next
+bip_39_word_space_11: solid unit cliff doll exile human mind picture drive next flag
+bip_39_word_space_12: solid unit cliff doll exile human mind picture drive next flag
+  aim
+bip_39_word_space_2: solid unit
+bip_39_word_space_3: solid unit cliff
+bip_39_word_space_4: solid unit cliff doll
+bip_39_word_space_5: solid unit cliff doll exile
+bip_39_word_space_6: solid unit cliff doll exile human
+bip_39_word_space_7: solid unit cliff doll exile human mind
+bip_39_word_space_8: solid unit cliff doll exile human mind picture
+bip_39_word_space_9: solid unit cliff doll exile human mind picture drive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

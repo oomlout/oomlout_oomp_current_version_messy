@@ -1,3 +1,187 @@
+bip_39_word_new_br1: excuse
+bip_39_word_new_br10: excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over<br>donkey<br>deposit<br>tortoise<br>choose
+bip_39_word_new_br11: excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over<br>donkey<br>deposit<br>tortoise<br>choose<br>wealth
+bip_39_word_new_br12: excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over<br>donkey<br>deposit<br>tortoise<br>choose<br>wealth<br>ankle
+bip_39_word_new_br2: excuse<br>wrestle
+bip_39_word_new_br3: excuse<br>wrestle<br>glory
+bip_39_word_new_br4: excuse<br>wrestle<br>glory<br>ordinary
+bip_39_word_new_br5: excuse<br>wrestle<br>glory<br>ordinary<br>weird
+bip_39_word_new_br6: excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over
+bip_39_word_new_br7: excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over<br>donkey
+bip_39_word_new_br8: excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over<br>donkey<br>deposit
+bip_39_word_new_br9: excuse<br>wrestle<br>glory<br>ordinary<br>weird<br>over<br>donkey<br>deposit<br>tortoise
+bip_39_word_new_line1: excuse
+bip_39_word_new_line10: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary
+
+  weird
+
+  over
+
+  donkey
+
+  deposit
+
+  tortoise
+
+  choose'
+bip_39_word_new_line11: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary
+
+  weird
+
+  over
+
+  donkey
+
+  deposit
+
+  tortoise
+
+  choose
+
+  wealth'
+bip_39_word_new_line12: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary
+
+  weird
+
+  over
+
+  donkey
+
+  deposit
+
+  tortoise
+
+  choose
+
+  wealth
+
+  ankle'
+bip_39_word_new_line2: 'excuse
+
+  wrestle'
+bip_39_word_new_line3: 'excuse
+
+  wrestle
+
+  glory'
+bip_39_word_new_line4: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary'
+bip_39_word_new_line5: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary
+
+  weird'
+bip_39_word_new_line6: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary
+
+  weird
+
+  over'
+bip_39_word_new_line7: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary
+
+  weird
+
+  over
+
+  donkey'
+bip_39_word_new_line8: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary
+
+  weird
+
+  over
+
+  donkey
+
+  deposit'
+bip_39_word_new_line9: 'excuse
+
+  wrestle
+
+  glory
+
+  ordinary
+
+  weird
+
+  over
+
+  donkey
+
+  deposit
+
+  tortoise'
+bip_39_word_space_0:
+- excuse
+- wrestle
+- glory
+- ordinary
+- weird
+- over
+- donkey
+- deposit
+- tortoise
+- choose
+- wealth
+- ankle
+bip_39_word_space_1: excuse
+bip_39_word_space_10: excuse wrestle glory ordinary weird over donkey deposit tortoise
+  choose
+bip_39_word_space_11: excuse wrestle glory ordinary weird over donkey deposit tortoise
+  choose wealth
+bip_39_word_space_12: excuse wrestle glory ordinary weird over donkey deposit tortoise
+  choose wealth ankle
+bip_39_word_space_2: excuse wrestle
+bip_39_word_space_3: excuse wrestle glory
+bip_39_word_space_4: excuse wrestle glory ordinary
+bip_39_word_space_5: excuse wrestle glory ordinary weird
+bip_39_word_space_6: excuse wrestle glory ordinary weird over
+bip_39_word_space_7: excuse wrestle glory ordinary weird over donkey
+bip_39_word_space_8: excuse wrestle glory ordinary weird over donkey deposit
+bip_39_word_space_9: excuse wrestle glory ordinary weird over donkey deposit tortoise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

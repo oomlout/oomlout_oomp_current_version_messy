@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hen lake
+  * bip 39 word 3: hen lake mean
+  * bip 39 word: hen lake mean unusual second kit broken column armor little admit alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hen |  
+| bip_39_word_new_br10 | hen<br>lake<br>mean<br>unusual<br>second<br>kit<br>broken<br>column<br>armor<br>little |  
+| bip_39_word_new_br11 | hen<br>lake<br>mean<br>unusual<br>second<br>kit<br>broken<br>column<br>armor<br>little<br>admit |  
+| bip_39_word_new_br12 | hen<br>lake<br>mean<br>unusual<br>second<br>kit<br>broken<br>column<br>armor<br>little<br>admit<br>alcohol |  
+| bip_39_word_new_br2 | hen<br>lake |  
+| bip_39_word_new_br3 | hen<br>lake<br>mean |  
+| bip_39_word_new_br4 | hen<br>lake<br>mean<br>unusual |  
+| bip_39_word_new_br5 | hen<br>lake<br>mean<br>unusual<br>second |  
+| bip_39_word_new_br6 | hen<br>lake<br>mean<br>unusual<br>second<br>kit |  
+| bip_39_word_new_br7 | hen<br>lake<br>mean<br>unusual<br>second<br>kit<br>broken |  
+| bip_39_word_new_br8 | hen<br>lake<br>mean<br>unusual<br>second<br>kit<br>broken<br>column |  
+| bip_39_word_new_br9 | hen<br>lake<br>mean<br>unusual<br>second<br>kit<br>broken<br>column<br>armor |  
+| bip_39_word_new_line1 | hen |  
+| bip_39_word_new_line10 | hen
+lake
+mean
+unusual
+second
+kit
+broken
+column
+armor
+little |  
+| bip_39_word_new_line11 | hen
+lake
+mean
+unusual
+second
+kit
+broken
+column
+armor
+little
+admit |  
+| bip_39_word_new_line12 | hen
+lake
+mean
+unusual
+second
+kit
+broken
+column
+armor
+little
+admit
+alcohol |  
+| bip_39_word_new_line2 | hen
+lake |  
+| bip_39_word_new_line3 | hen
+lake
+mean |  
+| bip_39_word_new_line4 | hen
+lake
+mean
+unusual |  
+| bip_39_word_new_line5 | hen
+lake
+mean
+unusual
+second |  
+| bip_39_word_new_line6 | hen
+lake
+mean
+unusual
+second
+kit |  
+| bip_39_word_new_line7 | hen
+lake
+mean
+unusual
+second
+kit
+broken |  
+| bip_39_word_new_line8 | hen
+lake
+mean
+unusual
+second
+kit
+broken
+column |  
+| bip_39_word_new_line9 | hen
+lake
+mean
+unusual
+second
+kit
+broken
+column
+armor |  
+| bip_39_word_space_0 | ['hen', 'lake', 'mean', 'unusual', 'second', 'kit', 'broken', 'column', 'armor', 'little', 'admit', 'alcohol'] |  
+| bip_39_word_space_1 | hen |  
+| bip_39_word_space_10 | hen lake mean unusual second kit broken column armor little |  
+| bip_39_word_space_11 | hen lake mean unusual second kit broken column armor little admit |  
+| bip_39_word_space_12 | hen lake mean unusual second kit broken column armor little admit alcohol |  
+| bip_39_word_space_2 | hen lake |  
+| bip_39_word_space_3 | hen lake mean |  
+| bip_39_word_space_4 | hen lake mean unusual |  
+| bip_39_word_space_5 | hen lake mean unusual second |  
+| bip_39_word_space_6 | hen lake mean unusual second kit |  
+| bip_39_word_space_7 | hen lake mean unusual second kit broken |  
+| bip_39_word_space_8 | hen lake mean unusual second kit broken column |  
+| bip_39_word_space_9 | hen lake mean unusual second kit broken column armor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

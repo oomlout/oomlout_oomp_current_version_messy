@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aunt toddler
+  * bip 39 word 3: aunt toddler artwork
+  * bip 39 word: aunt toddler artwork limit morning normal length orange loan kick yard afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aunt |  
+| bip_39_word_new_br10 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan<br>kick |  
+| bip_39_word_new_br11 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan<br>kick<br>yard |  
+| bip_39_word_new_br12 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan<br>kick<br>yard<br>afford |  
+| bip_39_word_new_br2 | aunt<br>toddler |  
+| bip_39_word_new_br3 | aunt<br>toddler<br>artwork |  
+| bip_39_word_new_br4 | aunt<br>toddler<br>artwork<br>limit |  
+| bip_39_word_new_br5 | aunt<br>toddler<br>artwork<br>limit<br>morning |  
+| bip_39_word_new_br6 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal |  
+| bip_39_word_new_br7 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length |  
+| bip_39_word_new_br8 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange |  
+| bip_39_word_new_br9 | aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan |  
+| bip_39_word_new_line1 | aunt |  
+| bip_39_word_new_line10 | aunt
+toddler
+artwork
+limit
+morning
+normal
+length
+orange
+loan
+kick |  
+| bip_39_word_new_line11 | aunt
+toddler
+artwork
+limit
+morning
+normal
+length
+orange
+loan
+kick
+yard |  
+| bip_39_word_new_line12 | aunt
+toddler
+artwork
+limit
+morning
+normal
+length
+orange
+loan
+kick
+yard
+afford |  
+| bip_39_word_new_line2 | aunt
+toddler |  
+| bip_39_word_new_line3 | aunt
+toddler
+artwork |  
+| bip_39_word_new_line4 | aunt
+toddler
+artwork
+limit |  
+| bip_39_word_new_line5 | aunt
+toddler
+artwork
+limit
+morning |  
+| bip_39_word_new_line6 | aunt
+toddler
+artwork
+limit
+morning
+normal |  
+| bip_39_word_new_line7 | aunt
+toddler
+artwork
+limit
+morning
+normal
+length |  
+| bip_39_word_new_line8 | aunt
+toddler
+artwork
+limit
+morning
+normal
+length
+orange |  
+| bip_39_word_new_line9 | aunt
+toddler
+artwork
+limit
+morning
+normal
+length
+orange
+loan |  
+| bip_39_word_space_0 | ['aunt', 'toddler', 'artwork', 'limit', 'morning', 'normal', 'length', 'orange', 'loan', 'kick', 'yard', 'afford'] |  
+| bip_39_word_space_1 | aunt |  
+| bip_39_word_space_10 | aunt toddler artwork limit morning normal length orange loan kick |  
+| bip_39_word_space_11 | aunt toddler artwork limit morning normal length orange loan kick yard |  
+| bip_39_word_space_12 | aunt toddler artwork limit morning normal length orange loan kick yard afford |  
+| bip_39_word_space_2 | aunt toddler |  
+| bip_39_word_space_3 | aunt toddler artwork |  
+| bip_39_word_space_4 | aunt toddler artwork limit |  
+| bip_39_word_space_5 | aunt toddler artwork limit morning |  
+| bip_39_word_space_6 | aunt toddler artwork limit morning normal |  
+| bip_39_word_space_7 | aunt toddler artwork limit morning normal length |  
+| bip_39_word_space_8 | aunt toddler artwork limit morning normal length orange |  
+| bip_39_word_space_9 | aunt toddler artwork limit morning normal length orange loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: negative
+bip_39_word_new_br10: negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery
+bip_39_word_new_br11: negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery<br>direct
+bip_39_word_new_br12: negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet<br>gallery<br>direct<br>amateur
+bip_39_word_new_br2: negative<br>artefact
+bip_39_word_new_br3: negative<br>artefact<br>history
+bip_39_word_new_br4: negative<br>artefact<br>history<br>ramp
+bip_39_word_new_br5: negative<br>artefact<br>history<br>ramp<br>evoke
+bip_39_word_new_br6: negative<br>artefact<br>history<br>ramp<br>evoke<br>manual
+bip_39_word_new_br7: negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system
+bip_39_word_new_br8: negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife
+bip_39_word_new_br9: negative<br>artefact<br>history<br>ramp<br>evoke<br>manual<br>system<br>knife<br>poet
+bip_39_word_new_line1: negative
+bip_39_word_new_line10: 'negative
+
+  artefact
+
+  history
+
+  ramp
+
+  evoke
+
+  manual
+
+  system
+
+  knife
+
+  poet
+
+  gallery'
+bip_39_word_new_line11: 'negative
+
+  artefact
+
+  history
+
+  ramp
+
+  evoke
+
+  manual
+
+  system
+
+  knife
+
+  poet
+
+  gallery
+
+  direct'
+bip_39_word_new_line12: 'negative
+
+  artefact
+
+  history
+
+  ramp
+
+  evoke
+
+  manual
+
+  system
+
+  knife
+
+  poet
+
+  gallery
+
+  direct
+
+  amateur'
+bip_39_word_new_line2: 'negative
+
+  artefact'
+bip_39_word_new_line3: 'negative
+
+  artefact
+
+  history'
+bip_39_word_new_line4: 'negative
+
+  artefact
+
+  history
+
+  ramp'
+bip_39_word_new_line5: 'negative
+
+  artefact
+
+  history
+
+  ramp
+
+  evoke'
+bip_39_word_new_line6: 'negative
+
+  artefact
+
+  history
+
+  ramp
+
+  evoke
+
+  manual'
+bip_39_word_new_line7: 'negative
+
+  artefact
+
+  history
+
+  ramp
+
+  evoke
+
+  manual
+
+  system'
+bip_39_word_new_line8: 'negative
+
+  artefact
+
+  history
+
+  ramp
+
+  evoke
+
+  manual
+
+  system
+
+  knife'
+bip_39_word_new_line9: 'negative
+
+  artefact
+
+  history
+
+  ramp
+
+  evoke
+
+  manual
+
+  system
+
+  knife
+
+  poet'
+bip_39_word_space_0:
+- negative
+- artefact
+- history
+- ramp
+- evoke
+- manual
+- system
+- knife
+- poet
+- gallery
+- direct
+- amateur
+bip_39_word_space_1: negative
+bip_39_word_space_10: negative artefact history ramp evoke manual system knife poet
+  gallery
+bip_39_word_space_11: negative artefact history ramp evoke manual system knife poet
+  gallery direct
+bip_39_word_space_12: negative artefact history ramp evoke manual system knife poet
+  gallery direct amateur
+bip_39_word_space_2: negative artefact
+bip_39_word_space_3: negative artefact history
+bip_39_word_space_4: negative artefact history ramp
+bip_39_word_space_5: negative artefact history ramp evoke
+bip_39_word_space_6: negative artefact history ramp evoke manual
+bip_39_word_space_7: negative artefact history ramp evoke manual system
+bip_39_word_space_8: negative artefact history ramp evoke manual system knife
+bip_39_word_space_9: negative artefact history ramp evoke manual system knife poet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jungle outer
+  * bip 39 word 3: jungle outer fiscal
+  * bip 39 word: jungle outer fiscal luxury cancel version weapon update tunnel twenty dentist adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jungle |  
+| bip_39_word_new_br10 | jungle<br>outer<br>fiscal<br>luxury<br>cancel<br>version<br>weapon<br>update<br>tunnel<br>twenty |  
+| bip_39_word_new_br11 | jungle<br>outer<br>fiscal<br>luxury<br>cancel<br>version<br>weapon<br>update<br>tunnel<br>twenty<br>dentist |  
+| bip_39_word_new_br12 | jungle<br>outer<br>fiscal<br>luxury<br>cancel<br>version<br>weapon<br>update<br>tunnel<br>twenty<br>dentist<br>adapt |  
+| bip_39_word_new_br2 | jungle<br>outer |  
+| bip_39_word_new_br3 | jungle<br>outer<br>fiscal |  
+| bip_39_word_new_br4 | jungle<br>outer<br>fiscal<br>luxury |  
+| bip_39_word_new_br5 | jungle<br>outer<br>fiscal<br>luxury<br>cancel |  
+| bip_39_word_new_br6 | jungle<br>outer<br>fiscal<br>luxury<br>cancel<br>version |  
+| bip_39_word_new_br7 | jungle<br>outer<br>fiscal<br>luxury<br>cancel<br>version<br>weapon |  
+| bip_39_word_new_br8 | jungle<br>outer<br>fiscal<br>luxury<br>cancel<br>version<br>weapon<br>update |  
+| bip_39_word_new_br9 | jungle<br>outer<br>fiscal<br>luxury<br>cancel<br>version<br>weapon<br>update<br>tunnel |  
+| bip_39_word_new_line1 | jungle |  
+| bip_39_word_new_line10 | jungle
+outer
+fiscal
+luxury
+cancel
+version
+weapon
+update
+tunnel
+twenty |  
+| bip_39_word_new_line11 | jungle
+outer
+fiscal
+luxury
+cancel
+version
+weapon
+update
+tunnel
+twenty
+dentist |  
+| bip_39_word_new_line12 | jungle
+outer
+fiscal
+luxury
+cancel
+version
+weapon
+update
+tunnel
+twenty
+dentist
+adapt |  
+| bip_39_word_new_line2 | jungle
+outer |  
+| bip_39_word_new_line3 | jungle
+outer
+fiscal |  
+| bip_39_word_new_line4 | jungle
+outer
+fiscal
+luxury |  
+| bip_39_word_new_line5 | jungle
+outer
+fiscal
+luxury
+cancel |  
+| bip_39_word_new_line6 | jungle
+outer
+fiscal
+luxury
+cancel
+version |  
+| bip_39_word_new_line7 | jungle
+outer
+fiscal
+luxury
+cancel
+version
+weapon |  
+| bip_39_word_new_line8 | jungle
+outer
+fiscal
+luxury
+cancel
+version
+weapon
+update |  
+| bip_39_word_new_line9 | jungle
+outer
+fiscal
+luxury
+cancel
+version
+weapon
+update
+tunnel |  
+| bip_39_word_space_0 | ['jungle', 'outer', 'fiscal', 'luxury', 'cancel', 'version', 'weapon', 'update', 'tunnel', 'twenty', 'dentist', 'adapt'] |  
+| bip_39_word_space_1 | jungle |  
+| bip_39_word_space_10 | jungle outer fiscal luxury cancel version weapon update tunnel twenty |  
+| bip_39_word_space_11 | jungle outer fiscal luxury cancel version weapon update tunnel twenty dentist |  
+| bip_39_word_space_12 | jungle outer fiscal luxury cancel version weapon update tunnel twenty dentist adapt |  
+| bip_39_word_space_2 | jungle outer |  
+| bip_39_word_space_3 | jungle outer fiscal |  
+| bip_39_word_space_4 | jungle outer fiscal luxury |  
+| bip_39_word_space_5 | jungle outer fiscal luxury cancel |  
+| bip_39_word_space_6 | jungle outer fiscal luxury cancel version |  
+| bip_39_word_space_7 | jungle outer fiscal luxury cancel version weapon |  
+| bip_39_word_space_8 | jungle outer fiscal luxury cancel version weapon update |  
+| bip_39_word_space_9 | jungle outer fiscal luxury cancel version weapon update tunnel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

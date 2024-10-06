@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kind book
+  * bip 39 word 3: kind book awake
+  * bip 39 word: kind book awake kiss congress bullet connect monkey leisure letter shrug acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kind |  
+| bip_39_word_new_br10 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet<br>connect<br>monkey<br>leisure<br>letter |  
+| bip_39_word_new_br11 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet<br>connect<br>monkey<br>leisure<br>letter<br>shrug |  
+| bip_39_word_new_br12 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet<br>connect<br>monkey<br>leisure<br>letter<br>shrug<br>acquire |  
+| bip_39_word_new_br2 | kind<br>book |  
+| bip_39_word_new_br3 | kind<br>book<br>awake |  
+| bip_39_word_new_br4 | kind<br>book<br>awake<br>kiss |  
+| bip_39_word_new_br5 | kind<br>book<br>awake<br>kiss<br>congress |  
+| bip_39_word_new_br6 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet |  
+| bip_39_word_new_br7 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet<br>connect |  
+| bip_39_word_new_br8 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet<br>connect<br>monkey |  
+| bip_39_word_new_br9 | kind<br>book<br>awake<br>kiss<br>congress<br>bullet<br>connect<br>monkey<br>leisure |  
+| bip_39_word_new_line1 | kind |  
+| bip_39_word_new_line10 | kind
+book
+awake
+kiss
+congress
+bullet
+connect
+monkey
+leisure
+letter |  
+| bip_39_word_new_line11 | kind
+book
+awake
+kiss
+congress
+bullet
+connect
+monkey
+leisure
+letter
+shrug |  
+| bip_39_word_new_line12 | kind
+book
+awake
+kiss
+congress
+bullet
+connect
+monkey
+leisure
+letter
+shrug
+acquire |  
+| bip_39_word_new_line2 | kind
+book |  
+| bip_39_word_new_line3 | kind
+book
+awake |  
+| bip_39_word_new_line4 | kind
+book
+awake
+kiss |  
+| bip_39_word_new_line5 | kind
+book
+awake
+kiss
+congress |  
+| bip_39_word_new_line6 | kind
+book
+awake
+kiss
+congress
+bullet |  
+| bip_39_word_new_line7 | kind
+book
+awake
+kiss
+congress
+bullet
+connect |  
+| bip_39_word_new_line8 | kind
+book
+awake
+kiss
+congress
+bullet
+connect
+monkey |  
+| bip_39_word_new_line9 | kind
+book
+awake
+kiss
+congress
+bullet
+connect
+monkey
+leisure |  
+| bip_39_word_space_0 | ['kind', 'book', 'awake', 'kiss', 'congress', 'bullet', 'connect', 'monkey', 'leisure', 'letter', 'shrug', 'acquire'] |  
+| bip_39_word_space_1 | kind |  
+| bip_39_word_space_10 | kind book awake kiss congress bullet connect monkey leisure letter |  
+| bip_39_word_space_11 | kind book awake kiss congress bullet connect monkey leisure letter shrug |  
+| bip_39_word_space_12 | kind book awake kiss congress bullet connect monkey leisure letter shrug acquire |  
+| bip_39_word_space_2 | kind book |  
+| bip_39_word_space_3 | kind book awake |  
+| bip_39_word_space_4 | kind book awake kiss |  
+| bip_39_word_space_5 | kind book awake kiss congress |  
+| bip_39_word_space_6 | kind book awake kiss congress bullet |  
+| bip_39_word_space_7 | kind book awake kiss congress bullet connect |  
+| bip_39_word_space_8 | kind book awake kiss congress bullet connect monkey |  
+| bip_39_word_space_9 | kind book awake kiss congress bullet connect monkey leisure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

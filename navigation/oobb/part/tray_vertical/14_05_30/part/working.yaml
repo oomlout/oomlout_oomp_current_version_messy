@@ -1,3 +1,185 @@
+bip_39_word_new_br1: bean
+bip_39_word_new_br10: bean<br>sort<br>rice<br>own<br>bean<br>still<br>asset<br>hybrid<br>disorder<br>know
+bip_39_word_new_br11: bean<br>sort<br>rice<br>own<br>bean<br>still<br>asset<br>hybrid<br>disorder<br>know<br>dad
+bip_39_word_new_br12: bean<br>sort<br>rice<br>own<br>bean<br>still<br>asset<br>hybrid<br>disorder<br>know<br>dad<br>achieve
+bip_39_word_new_br2: bean<br>sort
+bip_39_word_new_br3: bean<br>sort<br>rice
+bip_39_word_new_br4: bean<br>sort<br>rice<br>own
+bip_39_word_new_br5: bean<br>sort<br>rice<br>own<br>bean
+bip_39_word_new_br6: bean<br>sort<br>rice<br>own<br>bean<br>still
+bip_39_word_new_br7: bean<br>sort<br>rice<br>own<br>bean<br>still<br>asset
+bip_39_word_new_br8: bean<br>sort<br>rice<br>own<br>bean<br>still<br>asset<br>hybrid
+bip_39_word_new_br9: bean<br>sort<br>rice<br>own<br>bean<br>still<br>asset<br>hybrid<br>disorder
+bip_39_word_new_line1: bean
+bip_39_word_new_line10: 'bean
+
+  sort
+
+  rice
+
+  own
+
+  bean
+
+  still
+
+  asset
+
+  hybrid
+
+  disorder
+
+  know'
+bip_39_word_new_line11: 'bean
+
+  sort
+
+  rice
+
+  own
+
+  bean
+
+  still
+
+  asset
+
+  hybrid
+
+  disorder
+
+  know
+
+  dad'
+bip_39_word_new_line12: 'bean
+
+  sort
+
+  rice
+
+  own
+
+  bean
+
+  still
+
+  asset
+
+  hybrid
+
+  disorder
+
+  know
+
+  dad
+
+  achieve'
+bip_39_word_new_line2: 'bean
+
+  sort'
+bip_39_word_new_line3: 'bean
+
+  sort
+
+  rice'
+bip_39_word_new_line4: 'bean
+
+  sort
+
+  rice
+
+  own'
+bip_39_word_new_line5: 'bean
+
+  sort
+
+  rice
+
+  own
+
+  bean'
+bip_39_word_new_line6: 'bean
+
+  sort
+
+  rice
+
+  own
+
+  bean
+
+  still'
+bip_39_word_new_line7: 'bean
+
+  sort
+
+  rice
+
+  own
+
+  bean
+
+  still
+
+  asset'
+bip_39_word_new_line8: 'bean
+
+  sort
+
+  rice
+
+  own
+
+  bean
+
+  still
+
+  asset
+
+  hybrid'
+bip_39_word_new_line9: 'bean
+
+  sort
+
+  rice
+
+  own
+
+  bean
+
+  still
+
+  asset
+
+  hybrid
+
+  disorder'
+bip_39_word_space_0:
+- bean
+- sort
+- rice
+- own
+- bean
+- still
+- asset
+- hybrid
+- disorder
+- know
+- dad
+- achieve
+bip_39_word_space_1: bean
+bip_39_word_space_10: bean sort rice own bean still asset hybrid disorder know
+bip_39_word_space_11: bean sort rice own bean still asset hybrid disorder know dad
+bip_39_word_space_12: bean sort rice own bean still asset hybrid disorder know dad
+  achieve
+bip_39_word_space_2: bean sort
+bip_39_word_space_3: bean sort rice
+bip_39_word_space_4: bean sort rice own
+bip_39_word_space_5: bean sort rice own bean
+bip_39_word_space_6: bean sort rice own bean still
+bip_39_word_space_7: bean sort rice own bean still asset
+bip_39_word_space_8: bean sort rice own bean still asset hybrid
+bip_39_word_space_9: bean sort rice own bean still asset hybrid disorder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

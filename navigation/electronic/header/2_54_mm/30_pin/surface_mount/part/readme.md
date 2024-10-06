@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lounge fuel
+  * bip 39 word 3: lounge fuel cliff
+  * bip 39 word: lounge fuel cliff jar brand brown youth earn drastic dance dad autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lounge |  
+| bip_39_word_new_br10 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown<br>youth<br>earn<br>drastic<br>dance |  
+| bip_39_word_new_br11 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown<br>youth<br>earn<br>drastic<br>dance<br>dad |  
+| bip_39_word_new_br12 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown<br>youth<br>earn<br>drastic<br>dance<br>dad<br>autumn |  
+| bip_39_word_new_br2 | lounge<br>fuel |  
+| bip_39_word_new_br3 | lounge<br>fuel<br>cliff |  
+| bip_39_word_new_br4 | lounge<br>fuel<br>cliff<br>jar |  
+| bip_39_word_new_br5 | lounge<br>fuel<br>cliff<br>jar<br>brand |  
+| bip_39_word_new_br6 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown |  
+| bip_39_word_new_br7 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown<br>youth |  
+| bip_39_word_new_br8 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown<br>youth<br>earn |  
+| bip_39_word_new_br9 | lounge<br>fuel<br>cliff<br>jar<br>brand<br>brown<br>youth<br>earn<br>drastic |  
+| bip_39_word_new_line1 | lounge |  
+| bip_39_word_new_line10 | lounge
+fuel
+cliff
+jar
+brand
+brown
+youth
+earn
+drastic
+dance |  
+| bip_39_word_new_line11 | lounge
+fuel
+cliff
+jar
+brand
+brown
+youth
+earn
+drastic
+dance
+dad |  
+| bip_39_word_new_line12 | lounge
+fuel
+cliff
+jar
+brand
+brown
+youth
+earn
+drastic
+dance
+dad
+autumn |  
+| bip_39_word_new_line2 | lounge
+fuel |  
+| bip_39_word_new_line3 | lounge
+fuel
+cliff |  
+| bip_39_word_new_line4 | lounge
+fuel
+cliff
+jar |  
+| bip_39_word_new_line5 | lounge
+fuel
+cliff
+jar
+brand |  
+| bip_39_word_new_line6 | lounge
+fuel
+cliff
+jar
+brand
+brown |  
+| bip_39_word_new_line7 | lounge
+fuel
+cliff
+jar
+brand
+brown
+youth |  
+| bip_39_word_new_line8 | lounge
+fuel
+cliff
+jar
+brand
+brown
+youth
+earn |  
+| bip_39_word_new_line9 | lounge
+fuel
+cliff
+jar
+brand
+brown
+youth
+earn
+drastic |  
+| bip_39_word_space_0 | ['lounge', 'fuel', 'cliff', 'jar', 'brand', 'brown', 'youth', 'earn', 'drastic', 'dance', 'dad', 'autumn'] |  
+| bip_39_word_space_1 | lounge |  
+| bip_39_word_space_10 | lounge fuel cliff jar brand brown youth earn drastic dance |  
+| bip_39_word_space_11 | lounge fuel cliff jar brand brown youth earn drastic dance dad |  
+| bip_39_word_space_12 | lounge fuel cliff jar brand brown youth earn drastic dance dad autumn |  
+| bip_39_word_space_2 | lounge fuel |  
+| bip_39_word_space_3 | lounge fuel cliff |  
+| bip_39_word_space_4 | lounge fuel cliff jar |  
+| bip_39_word_space_5 | lounge fuel cliff jar brand |  
+| bip_39_word_space_6 | lounge fuel cliff jar brand brown |  
+| bip_39_word_space_7 | lounge fuel cliff jar brand brown youth |  
+| bip_39_word_space_8 | lounge fuel cliff jar brand brown youth earn |  
+| bip_39_word_space_9 | lounge fuel cliff jar brand brown youth earn drastic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

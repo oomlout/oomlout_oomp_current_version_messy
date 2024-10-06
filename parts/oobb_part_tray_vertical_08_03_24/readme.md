@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: endorse budget
+  * bip 39 word 3: endorse budget rifle
+  * bip 39 word: endorse budget rifle lunar balcony fiction sauce foil world auto horse august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | endorse |  
+| bip_39_word_new_br10 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction<br>sauce<br>foil<br>world<br>auto |  
+| bip_39_word_new_br11 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction<br>sauce<br>foil<br>world<br>auto<br>horse |  
+| bip_39_word_new_br12 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction<br>sauce<br>foil<br>world<br>auto<br>horse<br>august |  
+| bip_39_word_new_br2 | endorse<br>budget |  
+| bip_39_word_new_br3 | endorse<br>budget<br>rifle |  
+| bip_39_word_new_br4 | endorse<br>budget<br>rifle<br>lunar |  
+| bip_39_word_new_br5 | endorse<br>budget<br>rifle<br>lunar<br>balcony |  
+| bip_39_word_new_br6 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction |  
+| bip_39_word_new_br7 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction<br>sauce |  
+| bip_39_word_new_br8 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction<br>sauce<br>foil |  
+| bip_39_word_new_br9 | endorse<br>budget<br>rifle<br>lunar<br>balcony<br>fiction<br>sauce<br>foil<br>world |  
+| bip_39_word_new_line1 | endorse |  
+| bip_39_word_new_line10 | endorse
+budget
+rifle
+lunar
+balcony
+fiction
+sauce
+foil
+world
+auto |  
+| bip_39_word_new_line11 | endorse
+budget
+rifle
+lunar
+balcony
+fiction
+sauce
+foil
+world
+auto
+horse |  
+| bip_39_word_new_line12 | endorse
+budget
+rifle
+lunar
+balcony
+fiction
+sauce
+foil
+world
+auto
+horse
+august |  
+| bip_39_word_new_line2 | endorse
+budget |  
+| bip_39_word_new_line3 | endorse
+budget
+rifle |  
+| bip_39_word_new_line4 | endorse
+budget
+rifle
+lunar |  
+| bip_39_word_new_line5 | endorse
+budget
+rifle
+lunar
+balcony |  
+| bip_39_word_new_line6 | endorse
+budget
+rifle
+lunar
+balcony
+fiction |  
+| bip_39_word_new_line7 | endorse
+budget
+rifle
+lunar
+balcony
+fiction
+sauce |  
+| bip_39_word_new_line8 | endorse
+budget
+rifle
+lunar
+balcony
+fiction
+sauce
+foil |  
+| bip_39_word_new_line9 | endorse
+budget
+rifle
+lunar
+balcony
+fiction
+sauce
+foil
+world |  
+| bip_39_word_space_0 | ['endorse', 'budget', 'rifle', 'lunar', 'balcony', 'fiction', 'sauce', 'foil', 'world', 'auto', 'horse', 'august'] |  
+| bip_39_word_space_1 | endorse |  
+| bip_39_word_space_10 | endorse budget rifle lunar balcony fiction sauce foil world auto |  
+| bip_39_word_space_11 | endorse budget rifle lunar balcony fiction sauce foil world auto horse |  
+| bip_39_word_space_12 | endorse budget rifle lunar balcony fiction sauce foil world auto horse august |  
+| bip_39_word_space_2 | endorse budget |  
+| bip_39_word_space_3 | endorse budget rifle |  
+| bip_39_word_space_4 | endorse budget rifle lunar |  
+| bip_39_word_space_5 | endorse budget rifle lunar balcony |  
+| bip_39_word_space_6 | endorse budget rifle lunar balcony fiction |  
+| bip_39_word_space_7 | endorse budget rifle lunar balcony fiction sauce |  
+| bip_39_word_space_8 | endorse budget rifle lunar balcony fiction sauce foil |  
+| bip_39_word_space_9 | endorse budget rifle lunar balcony fiction sauce foil world |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

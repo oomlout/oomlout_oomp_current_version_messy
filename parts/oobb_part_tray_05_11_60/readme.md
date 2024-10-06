@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: depart they
+  * bip 39 word 3: depart they insane
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | depart |  
+| bip_39_word_new_br10 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo<br>repair |  
+| bip_39_word_new_br11 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo<br>repair<br>concert |  
+| bip_39_word_new_br2 | depart<br>they |  
+| bip_39_word_new_br3 | depart<br>they<br>insane |  
+| bip_39_word_new_br4 | depart<br>they<br>insane<br>holiday |  
+| bip_39_word_new_br5 | depart<br>they<br>insane<br>holiday<br>trim |  
+| bip_39_word_new_br6 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost |  
+| bip_39_word_new_br7 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide |  
+| bip_39_word_new_br8 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word |  
+| bip_39_word_new_br9 | depart<br>they<br>insane<br>holiday<br>trim<br>ghost<br>wide<br>word<br>kangaroo |  
+| bip_39_word_new_line1 | depart |  
+| bip_39_word_new_line10 | depart
+they
+insane
+holiday
+trim
+ghost
+wide
+word
+kangaroo
+repair |  
+| bip_39_word_new_line11 | depart
+they
+insane
+holiday
+trim
+ghost
+wide
+word
+kangaroo
+repair
+concert |  
+| bip_39_word_new_line2 | depart
+they |  
+| bip_39_word_new_line3 | depart
+they
+insane |  
+| bip_39_word_new_line4 | depart
+they
+insane
+holiday |  
+| bip_39_word_new_line5 | depart
+they
+insane
+holiday
+trim |  
+| bip_39_word_new_line6 | depart
+they
+insane
+holiday
+trim
+ghost |  
+| bip_39_word_new_line7 | depart
+they
+insane
+holiday
+trim
+ghost
+wide |  
+| bip_39_word_new_line8 | depart
+they
+insane
+holiday
+trim
+ghost
+wide
+word |  
+| bip_39_word_new_line9 | depart
+they
+insane
+holiday
+trim
+ghost
+wide
+word
+kangaroo |  
+| bip_39_word_space_0 | ['depart', 'they', 'insane', 'holiday', 'trim', 'ghost', 'wide', 'word', 'kangaroo', 'repair', 'concert'] |  
+| bip_39_word_space_1 | depart |  
+| bip_39_word_space_10 | depart they insane holiday trim ghost wide word kangaroo repair |  
+| bip_39_word_space_11 | depart they insane holiday trim ghost wide word kangaroo repair concert |  
+| bip_39_word_space_2 | depart they |  
+| bip_39_word_space_3 | depart they insane |  
+| bip_39_word_space_4 | depart they insane holiday |  
+| bip_39_word_space_5 | depart they insane holiday trim |  
+| bip_39_word_space_6 | depart they insane holiday trim ghost |  
+| bip_39_word_space_7 | depart they insane holiday trim ghost wide |  
+| bip_39_word_space_8 | depart they insane holiday trim ghost wide word |  
+| bip_39_word_space_9 | depart they insane holiday trim ghost wide word kangaroo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

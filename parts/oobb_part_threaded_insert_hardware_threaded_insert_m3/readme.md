@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: churn rich
+  * bip 39 word 3: churn rich man
+  * bip 39 word: churn rich man rule aunt omit wreck column wrong fault tool alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | churn |  
+| bip_39_word_new_br10 | churn<br>rich<br>man<br>rule<br>aunt<br>omit<br>wreck<br>column<br>wrong<br>fault |  
+| bip_39_word_new_br11 | churn<br>rich<br>man<br>rule<br>aunt<br>omit<br>wreck<br>column<br>wrong<br>fault<br>tool |  
+| bip_39_word_new_br12 | churn<br>rich<br>man<br>rule<br>aunt<br>omit<br>wreck<br>column<br>wrong<br>fault<br>tool<br>alarm |  
+| bip_39_word_new_br2 | churn<br>rich |  
+| bip_39_word_new_br3 | churn<br>rich<br>man |  
+| bip_39_word_new_br4 | churn<br>rich<br>man<br>rule |  
+| bip_39_word_new_br5 | churn<br>rich<br>man<br>rule<br>aunt |  
+| bip_39_word_new_br6 | churn<br>rich<br>man<br>rule<br>aunt<br>omit |  
+| bip_39_word_new_br7 | churn<br>rich<br>man<br>rule<br>aunt<br>omit<br>wreck |  
+| bip_39_word_new_br8 | churn<br>rich<br>man<br>rule<br>aunt<br>omit<br>wreck<br>column |  
+| bip_39_word_new_br9 | churn<br>rich<br>man<br>rule<br>aunt<br>omit<br>wreck<br>column<br>wrong |  
+| bip_39_word_new_line1 | churn |  
+| bip_39_word_new_line10 | churn
+rich
+man
+rule
+aunt
+omit
+wreck
+column
+wrong
+fault |  
+| bip_39_word_new_line11 | churn
+rich
+man
+rule
+aunt
+omit
+wreck
+column
+wrong
+fault
+tool |  
+| bip_39_word_new_line12 | churn
+rich
+man
+rule
+aunt
+omit
+wreck
+column
+wrong
+fault
+tool
+alarm |  
+| bip_39_word_new_line2 | churn
+rich |  
+| bip_39_word_new_line3 | churn
+rich
+man |  
+| bip_39_word_new_line4 | churn
+rich
+man
+rule |  
+| bip_39_word_new_line5 | churn
+rich
+man
+rule
+aunt |  
+| bip_39_word_new_line6 | churn
+rich
+man
+rule
+aunt
+omit |  
+| bip_39_word_new_line7 | churn
+rich
+man
+rule
+aunt
+omit
+wreck |  
+| bip_39_word_new_line8 | churn
+rich
+man
+rule
+aunt
+omit
+wreck
+column |  
+| bip_39_word_new_line9 | churn
+rich
+man
+rule
+aunt
+omit
+wreck
+column
+wrong |  
+| bip_39_word_space_0 | ['churn', 'rich', 'man', 'rule', 'aunt', 'omit', 'wreck', 'column', 'wrong', 'fault', 'tool', 'alarm'] |  
+| bip_39_word_space_1 | churn |  
+| bip_39_word_space_10 | churn rich man rule aunt omit wreck column wrong fault |  
+| bip_39_word_space_11 | churn rich man rule aunt omit wreck column wrong fault tool |  
+| bip_39_word_space_12 | churn rich man rule aunt omit wreck column wrong fault tool alarm |  
+| bip_39_word_space_2 | churn rich |  
+| bip_39_word_space_3 | churn rich man |  
+| bip_39_word_space_4 | churn rich man rule |  
+| bip_39_word_space_5 | churn rich man rule aunt |  
+| bip_39_word_space_6 | churn rich man rule aunt omit |  
+| bip_39_word_space_7 | churn rich man rule aunt omit wreck |  
+| bip_39_word_space_8 | churn rich man rule aunt omit wreck column |  
+| bip_39_word_space_9 | churn rich man rule aunt omit wreck column wrong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

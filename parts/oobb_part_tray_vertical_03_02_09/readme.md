@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feel blast
+  * bip 39 word 3: feel blast win
+  * bip 39 word: feel blast win outer leisure deliver armed cabin guide material transfer analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feel |  
+| bip_39_word_new_br10 | feel<br>blast<br>win<br>outer<br>leisure<br>deliver<br>armed<br>cabin<br>guide<br>material |  
+| bip_39_word_new_br11 | feel<br>blast<br>win<br>outer<br>leisure<br>deliver<br>armed<br>cabin<br>guide<br>material<br>transfer |  
+| bip_39_word_new_br12 | feel<br>blast<br>win<br>outer<br>leisure<br>deliver<br>armed<br>cabin<br>guide<br>material<br>transfer<br>analyst |  
+| bip_39_word_new_br2 | feel<br>blast |  
+| bip_39_word_new_br3 | feel<br>blast<br>win |  
+| bip_39_word_new_br4 | feel<br>blast<br>win<br>outer |  
+| bip_39_word_new_br5 | feel<br>blast<br>win<br>outer<br>leisure |  
+| bip_39_word_new_br6 | feel<br>blast<br>win<br>outer<br>leisure<br>deliver |  
+| bip_39_word_new_br7 | feel<br>blast<br>win<br>outer<br>leisure<br>deliver<br>armed |  
+| bip_39_word_new_br8 | feel<br>blast<br>win<br>outer<br>leisure<br>deliver<br>armed<br>cabin |  
+| bip_39_word_new_br9 | feel<br>blast<br>win<br>outer<br>leisure<br>deliver<br>armed<br>cabin<br>guide |  
+| bip_39_word_new_line1 | feel |  
+| bip_39_word_new_line10 | feel
+blast
+win
+outer
+leisure
+deliver
+armed
+cabin
+guide
+material |  
+| bip_39_word_new_line11 | feel
+blast
+win
+outer
+leisure
+deliver
+armed
+cabin
+guide
+material
+transfer |  
+| bip_39_word_new_line12 | feel
+blast
+win
+outer
+leisure
+deliver
+armed
+cabin
+guide
+material
+transfer
+analyst |  
+| bip_39_word_new_line2 | feel
+blast |  
+| bip_39_word_new_line3 | feel
+blast
+win |  
+| bip_39_word_new_line4 | feel
+blast
+win
+outer |  
+| bip_39_word_new_line5 | feel
+blast
+win
+outer
+leisure |  
+| bip_39_word_new_line6 | feel
+blast
+win
+outer
+leisure
+deliver |  
+| bip_39_word_new_line7 | feel
+blast
+win
+outer
+leisure
+deliver
+armed |  
+| bip_39_word_new_line8 | feel
+blast
+win
+outer
+leisure
+deliver
+armed
+cabin |  
+| bip_39_word_new_line9 | feel
+blast
+win
+outer
+leisure
+deliver
+armed
+cabin
+guide |  
+| bip_39_word_space_0 | ['feel', 'blast', 'win', 'outer', 'leisure', 'deliver', 'armed', 'cabin', 'guide', 'material', 'transfer', 'analyst'] |  
+| bip_39_word_space_1 | feel |  
+| bip_39_word_space_10 | feel blast win outer leisure deliver armed cabin guide material |  
+| bip_39_word_space_11 | feel blast win outer leisure deliver armed cabin guide material transfer |  
+| bip_39_word_space_12 | feel blast win outer leisure deliver armed cabin guide material transfer analyst |  
+| bip_39_word_space_2 | feel blast |  
+| bip_39_word_space_3 | feel blast win |  
+| bip_39_word_space_4 | feel blast win outer |  
+| bip_39_word_space_5 | feel blast win outer leisure |  
+| bip_39_word_space_6 | feel blast win outer leisure deliver |  
+| bip_39_word_space_7 | feel blast win outer leisure deliver armed |  
+| bip_39_word_space_8 | feel blast win outer leisure deliver armed cabin |  
+| bip_39_word_space_9 | feel blast win outer leisure deliver armed cabin guide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

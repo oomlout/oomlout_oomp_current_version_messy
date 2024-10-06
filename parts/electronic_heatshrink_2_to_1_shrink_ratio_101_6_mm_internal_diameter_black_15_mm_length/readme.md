@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: veteran zebra
+  * bip 39 word 3: veteran zebra easy
+  * bip 39 word: veteran zebra easy master okay royal genre jazz iron decline happy avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | veteran |  
+| bip_39_word_new_br10 | veteran<br>zebra<br>easy<br>master<br>okay<br>royal<br>genre<br>jazz<br>iron<br>decline |  
+| bip_39_word_new_br11 | veteran<br>zebra<br>easy<br>master<br>okay<br>royal<br>genre<br>jazz<br>iron<br>decline<br>happy |  
+| bip_39_word_new_br12 | veteran<br>zebra<br>easy<br>master<br>okay<br>royal<br>genre<br>jazz<br>iron<br>decline<br>happy<br>avocado |  
+| bip_39_word_new_br2 | veteran<br>zebra |  
+| bip_39_word_new_br3 | veteran<br>zebra<br>easy |  
+| bip_39_word_new_br4 | veteran<br>zebra<br>easy<br>master |  
+| bip_39_word_new_br5 | veteran<br>zebra<br>easy<br>master<br>okay |  
+| bip_39_word_new_br6 | veteran<br>zebra<br>easy<br>master<br>okay<br>royal |  
+| bip_39_word_new_br7 | veteran<br>zebra<br>easy<br>master<br>okay<br>royal<br>genre |  
+| bip_39_word_new_br8 | veteran<br>zebra<br>easy<br>master<br>okay<br>royal<br>genre<br>jazz |  
+| bip_39_word_new_br9 | veteran<br>zebra<br>easy<br>master<br>okay<br>royal<br>genre<br>jazz<br>iron |  
+| bip_39_word_new_line1 | veteran |  
+| bip_39_word_new_line10 | veteran
+zebra
+easy
+master
+okay
+royal
+genre
+jazz
+iron
+decline |  
+| bip_39_word_new_line11 | veteran
+zebra
+easy
+master
+okay
+royal
+genre
+jazz
+iron
+decline
+happy |  
+| bip_39_word_new_line12 | veteran
+zebra
+easy
+master
+okay
+royal
+genre
+jazz
+iron
+decline
+happy
+avocado |  
+| bip_39_word_new_line2 | veteran
+zebra |  
+| bip_39_word_new_line3 | veteran
+zebra
+easy |  
+| bip_39_word_new_line4 | veteran
+zebra
+easy
+master |  
+| bip_39_word_new_line5 | veteran
+zebra
+easy
+master
+okay |  
+| bip_39_word_new_line6 | veteran
+zebra
+easy
+master
+okay
+royal |  
+| bip_39_word_new_line7 | veteran
+zebra
+easy
+master
+okay
+royal
+genre |  
+| bip_39_word_new_line8 | veteran
+zebra
+easy
+master
+okay
+royal
+genre
+jazz |  
+| bip_39_word_new_line9 | veteran
+zebra
+easy
+master
+okay
+royal
+genre
+jazz
+iron |  
+| bip_39_word_space_0 | ['veteran', 'zebra', 'easy', 'master', 'okay', 'royal', 'genre', 'jazz', 'iron', 'decline', 'happy', 'avocado'] |  
+| bip_39_word_space_1 | veteran |  
+| bip_39_word_space_10 | veteran zebra easy master okay royal genre jazz iron decline |  
+| bip_39_word_space_11 | veteran zebra easy master okay royal genre jazz iron decline happy |  
+| bip_39_word_space_12 | veteran zebra easy master okay royal genre jazz iron decline happy avocado |  
+| bip_39_word_space_2 | veteran zebra |  
+| bip_39_word_space_3 | veteran zebra easy |  
+| bip_39_word_space_4 | veteran zebra easy master |  
+| bip_39_word_space_5 | veteran zebra easy master okay |  
+| bip_39_word_space_6 | veteran zebra easy master okay royal |  
+| bip_39_word_space_7 | veteran zebra easy master okay royal genre |  
+| bip_39_word_space_8 | veteran zebra easy master okay royal genre jazz |  
+| bip_39_word_space_9 | veteran zebra easy master okay royal genre jazz iron |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

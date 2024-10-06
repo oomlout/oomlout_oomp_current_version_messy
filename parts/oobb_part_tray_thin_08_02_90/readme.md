@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: achieve sudden
+  * bip 39 word 3: achieve sudden above
+  * bip 39 word: achieve sudden above sound network bike cradle inquiry forward fine wool alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | achieve |  
+| bip_39_word_new_br10 | achieve<br>sudden<br>above<br>sound<br>network<br>bike<br>cradle<br>inquiry<br>forward<br>fine |  
+| bip_39_word_new_br11 | achieve<br>sudden<br>above<br>sound<br>network<br>bike<br>cradle<br>inquiry<br>forward<br>fine<br>wool |  
+| bip_39_word_new_br12 | achieve<br>sudden<br>above<br>sound<br>network<br>bike<br>cradle<br>inquiry<br>forward<br>fine<br>wool<br>alone |  
+| bip_39_word_new_br2 | achieve<br>sudden |  
+| bip_39_word_new_br3 | achieve<br>sudden<br>above |  
+| bip_39_word_new_br4 | achieve<br>sudden<br>above<br>sound |  
+| bip_39_word_new_br5 | achieve<br>sudden<br>above<br>sound<br>network |  
+| bip_39_word_new_br6 | achieve<br>sudden<br>above<br>sound<br>network<br>bike |  
+| bip_39_word_new_br7 | achieve<br>sudden<br>above<br>sound<br>network<br>bike<br>cradle |  
+| bip_39_word_new_br8 | achieve<br>sudden<br>above<br>sound<br>network<br>bike<br>cradle<br>inquiry |  
+| bip_39_word_new_br9 | achieve<br>sudden<br>above<br>sound<br>network<br>bike<br>cradle<br>inquiry<br>forward |  
+| bip_39_word_new_line1 | achieve |  
+| bip_39_word_new_line10 | achieve
+sudden
+above
+sound
+network
+bike
+cradle
+inquiry
+forward
+fine |  
+| bip_39_word_new_line11 | achieve
+sudden
+above
+sound
+network
+bike
+cradle
+inquiry
+forward
+fine
+wool |  
+| bip_39_word_new_line12 | achieve
+sudden
+above
+sound
+network
+bike
+cradle
+inquiry
+forward
+fine
+wool
+alone |  
+| bip_39_word_new_line2 | achieve
+sudden |  
+| bip_39_word_new_line3 | achieve
+sudden
+above |  
+| bip_39_word_new_line4 | achieve
+sudden
+above
+sound |  
+| bip_39_word_new_line5 | achieve
+sudden
+above
+sound
+network |  
+| bip_39_word_new_line6 | achieve
+sudden
+above
+sound
+network
+bike |  
+| bip_39_word_new_line7 | achieve
+sudden
+above
+sound
+network
+bike
+cradle |  
+| bip_39_word_new_line8 | achieve
+sudden
+above
+sound
+network
+bike
+cradle
+inquiry |  
+| bip_39_word_new_line9 | achieve
+sudden
+above
+sound
+network
+bike
+cradle
+inquiry
+forward |  
+| bip_39_word_space_0 | ['achieve', 'sudden', 'above', 'sound', 'network', 'bike', 'cradle', 'inquiry', 'forward', 'fine', 'wool', 'alone'] |  
+| bip_39_word_space_1 | achieve |  
+| bip_39_word_space_10 | achieve sudden above sound network bike cradle inquiry forward fine |  
+| bip_39_word_space_11 | achieve sudden above sound network bike cradle inquiry forward fine wool |  
+| bip_39_word_space_12 | achieve sudden above sound network bike cradle inquiry forward fine wool alone |  
+| bip_39_word_space_2 | achieve sudden |  
+| bip_39_word_space_3 | achieve sudden above |  
+| bip_39_word_space_4 | achieve sudden above sound |  
+| bip_39_word_space_5 | achieve sudden above sound network |  
+| bip_39_word_space_6 | achieve sudden above sound network bike |  
+| bip_39_word_space_7 | achieve sudden above sound network bike cradle |  
+| bip_39_word_space_8 | achieve sudden above sound network bike cradle inquiry |  
+| bip_39_word_space_9 | achieve sudden above sound network bike cradle inquiry forward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

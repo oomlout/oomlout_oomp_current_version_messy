@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: resource weather
+  * bip 39 word 3: resource weather physical
+  * bip 39 word: resource weather physical flame lava daughter grief fame hero cash age april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resource |  
+| bip_39_word_new_br10 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash |  
+| bip_39_word_new_br11 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash<br>age |  
+| bip_39_word_new_br12 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero<br>cash<br>age<br>april |  
+| bip_39_word_new_br2 | resource<br>weather |  
+| bip_39_word_new_br3 | resource<br>weather<br>physical |  
+| bip_39_word_new_br4 | resource<br>weather<br>physical<br>flame |  
+| bip_39_word_new_br5 | resource<br>weather<br>physical<br>flame<br>lava |  
+| bip_39_word_new_br6 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter |  
+| bip_39_word_new_br7 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief |  
+| bip_39_word_new_br8 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame |  
+| bip_39_word_new_br9 | resource<br>weather<br>physical<br>flame<br>lava<br>daughter<br>grief<br>fame<br>hero |  
+| bip_39_word_new_line1 | resource |  
+| bip_39_word_new_line10 | resource
+weather
+physical
+flame
+lava
+daughter
+grief
+fame
+hero
+cash |  
+| bip_39_word_new_line11 | resource
+weather
+physical
+flame
+lava
+daughter
+grief
+fame
+hero
+cash
+age |  
+| bip_39_word_new_line12 | resource
+weather
+physical
+flame
+lava
+daughter
+grief
+fame
+hero
+cash
+age
+april |  
+| bip_39_word_new_line2 | resource
+weather |  
+| bip_39_word_new_line3 | resource
+weather
+physical |  
+| bip_39_word_new_line4 | resource
+weather
+physical
+flame |  
+| bip_39_word_new_line5 | resource
+weather
+physical
+flame
+lava |  
+| bip_39_word_new_line6 | resource
+weather
+physical
+flame
+lava
+daughter |  
+| bip_39_word_new_line7 | resource
+weather
+physical
+flame
+lava
+daughter
+grief |  
+| bip_39_word_new_line8 | resource
+weather
+physical
+flame
+lava
+daughter
+grief
+fame |  
+| bip_39_word_new_line9 | resource
+weather
+physical
+flame
+lava
+daughter
+grief
+fame
+hero |  
+| bip_39_word_space_0 | ['resource', 'weather', 'physical', 'flame', 'lava', 'daughter', 'grief', 'fame', 'hero', 'cash', 'age', 'april'] |  
+| bip_39_word_space_1 | resource |  
+| bip_39_word_space_10 | resource weather physical flame lava daughter grief fame hero cash |  
+| bip_39_word_space_11 | resource weather physical flame lava daughter grief fame hero cash age |  
+| bip_39_word_space_12 | resource weather physical flame lava daughter grief fame hero cash age april |  
+| bip_39_word_space_2 | resource weather |  
+| bip_39_word_space_3 | resource weather physical |  
+| bip_39_word_space_4 | resource weather physical flame |  
+| bip_39_word_space_5 | resource weather physical flame lava |  
+| bip_39_word_space_6 | resource weather physical flame lava daughter |  
+| bip_39_word_space_7 | resource weather physical flame lava daughter grief |  
+| bip_39_word_space_8 | resource weather physical flame lava daughter grief fame |  
+| bip_39_word_space_9 | resource weather physical flame lava daughter grief fame hero |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

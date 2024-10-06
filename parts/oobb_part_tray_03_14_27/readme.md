@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: they again
+  * bip 39 word 3: they again man
+  * bip 39 word: they again man broom song supply misery distance december desert staff acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | they |  
+| bip_39_word_new_br10 | they<br>again<br>man<br>broom<br>song<br>supply<br>misery<br>distance<br>december<br>desert |  
+| bip_39_word_new_br11 | they<br>again<br>man<br>broom<br>song<br>supply<br>misery<br>distance<br>december<br>desert<br>staff |  
+| bip_39_word_new_br12 | they<br>again<br>man<br>broom<br>song<br>supply<br>misery<br>distance<br>december<br>desert<br>staff<br>acoustic |  
+| bip_39_word_new_br2 | they<br>again |  
+| bip_39_word_new_br3 | they<br>again<br>man |  
+| bip_39_word_new_br4 | they<br>again<br>man<br>broom |  
+| bip_39_word_new_br5 | they<br>again<br>man<br>broom<br>song |  
+| bip_39_word_new_br6 | they<br>again<br>man<br>broom<br>song<br>supply |  
+| bip_39_word_new_br7 | they<br>again<br>man<br>broom<br>song<br>supply<br>misery |  
+| bip_39_word_new_br8 | they<br>again<br>man<br>broom<br>song<br>supply<br>misery<br>distance |  
+| bip_39_word_new_br9 | they<br>again<br>man<br>broom<br>song<br>supply<br>misery<br>distance<br>december |  
+| bip_39_word_new_line1 | they |  
+| bip_39_word_new_line10 | they
+again
+man
+broom
+song
+supply
+misery
+distance
+december
+desert |  
+| bip_39_word_new_line11 | they
+again
+man
+broom
+song
+supply
+misery
+distance
+december
+desert
+staff |  
+| bip_39_word_new_line12 | they
+again
+man
+broom
+song
+supply
+misery
+distance
+december
+desert
+staff
+acoustic |  
+| bip_39_word_new_line2 | they
+again |  
+| bip_39_word_new_line3 | they
+again
+man |  
+| bip_39_word_new_line4 | they
+again
+man
+broom |  
+| bip_39_word_new_line5 | they
+again
+man
+broom
+song |  
+| bip_39_word_new_line6 | they
+again
+man
+broom
+song
+supply |  
+| bip_39_word_new_line7 | they
+again
+man
+broom
+song
+supply
+misery |  
+| bip_39_word_new_line8 | they
+again
+man
+broom
+song
+supply
+misery
+distance |  
+| bip_39_word_new_line9 | they
+again
+man
+broom
+song
+supply
+misery
+distance
+december |  
+| bip_39_word_space_0 | ['they', 'again', 'man', 'broom', 'song', 'supply', 'misery', 'distance', 'december', 'desert', 'staff', 'acoustic'] |  
+| bip_39_word_space_1 | they |  
+| bip_39_word_space_10 | they again man broom song supply misery distance december desert |  
+| bip_39_word_space_11 | they again man broom song supply misery distance december desert staff |  
+| bip_39_word_space_12 | they again man broom song supply misery distance december desert staff acoustic |  
+| bip_39_word_space_2 | they again |  
+| bip_39_word_space_3 | they again man |  
+| bip_39_word_space_4 | they again man broom |  
+| bip_39_word_space_5 | they again man broom song |  
+| bip_39_word_space_6 | they again man broom song supply |  
+| bip_39_word_space_7 | they again man broom song supply misery |  
+| bip_39_word_space_8 | they again man broom song supply misery distance |  
+| bip_39_word_space_9 | they again man broom song supply misery distance december |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

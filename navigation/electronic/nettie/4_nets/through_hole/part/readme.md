@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: open enact
+  * bip 39 word 3: open enact grab
+  * bip 39 word: open enact grab swallow glance photo evoke six mountain quick citizen approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | open |  
+| bip_39_word_new_br10 | open<br>enact<br>grab<br>swallow<br>glance<br>photo<br>evoke<br>six<br>mountain<br>quick |  
+| bip_39_word_new_br11 | open<br>enact<br>grab<br>swallow<br>glance<br>photo<br>evoke<br>six<br>mountain<br>quick<br>citizen |  
+| bip_39_word_new_br12 | open<br>enact<br>grab<br>swallow<br>glance<br>photo<br>evoke<br>six<br>mountain<br>quick<br>citizen<br>approve |  
+| bip_39_word_new_br2 | open<br>enact |  
+| bip_39_word_new_br3 | open<br>enact<br>grab |  
+| bip_39_word_new_br4 | open<br>enact<br>grab<br>swallow |  
+| bip_39_word_new_br5 | open<br>enact<br>grab<br>swallow<br>glance |  
+| bip_39_word_new_br6 | open<br>enact<br>grab<br>swallow<br>glance<br>photo |  
+| bip_39_word_new_br7 | open<br>enact<br>grab<br>swallow<br>glance<br>photo<br>evoke |  
+| bip_39_word_new_br8 | open<br>enact<br>grab<br>swallow<br>glance<br>photo<br>evoke<br>six |  
+| bip_39_word_new_br9 | open<br>enact<br>grab<br>swallow<br>glance<br>photo<br>evoke<br>six<br>mountain |  
+| bip_39_word_new_line1 | open |  
+| bip_39_word_new_line10 | open
+enact
+grab
+swallow
+glance
+photo
+evoke
+six
+mountain
+quick |  
+| bip_39_word_new_line11 | open
+enact
+grab
+swallow
+glance
+photo
+evoke
+six
+mountain
+quick
+citizen |  
+| bip_39_word_new_line12 | open
+enact
+grab
+swallow
+glance
+photo
+evoke
+six
+mountain
+quick
+citizen
+approve |  
+| bip_39_word_new_line2 | open
+enact |  
+| bip_39_word_new_line3 | open
+enact
+grab |  
+| bip_39_word_new_line4 | open
+enact
+grab
+swallow |  
+| bip_39_word_new_line5 | open
+enact
+grab
+swallow
+glance |  
+| bip_39_word_new_line6 | open
+enact
+grab
+swallow
+glance
+photo |  
+| bip_39_word_new_line7 | open
+enact
+grab
+swallow
+glance
+photo
+evoke |  
+| bip_39_word_new_line8 | open
+enact
+grab
+swallow
+glance
+photo
+evoke
+six |  
+| bip_39_word_new_line9 | open
+enact
+grab
+swallow
+glance
+photo
+evoke
+six
+mountain |  
+| bip_39_word_space_0 | ['open', 'enact', 'grab', 'swallow', 'glance', 'photo', 'evoke', 'six', 'mountain', 'quick', 'citizen', 'approve'] |  
+| bip_39_word_space_1 | open |  
+| bip_39_word_space_10 | open enact grab swallow glance photo evoke six mountain quick |  
+| bip_39_word_space_11 | open enact grab swallow glance photo evoke six mountain quick citizen |  
+| bip_39_word_space_12 | open enact grab swallow glance photo evoke six mountain quick citizen approve |  
+| bip_39_word_space_2 | open enact |  
+| bip_39_word_space_3 | open enact grab |  
+| bip_39_word_space_4 | open enact grab swallow |  
+| bip_39_word_space_5 | open enact grab swallow glance |  
+| bip_39_word_space_6 | open enact grab swallow glance photo |  
+| bip_39_word_space_7 | open enact grab swallow glance photo evoke |  
+| bip_39_word_space_8 | open enact grab swallow glance photo evoke six |  
+| bip_39_word_space_9 | open enact grab swallow glance photo evoke six mountain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

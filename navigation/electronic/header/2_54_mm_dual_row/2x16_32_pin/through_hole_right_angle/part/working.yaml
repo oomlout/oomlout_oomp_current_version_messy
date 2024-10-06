@@ -1,3 +1,186 @@
+bip_39_word_new_br1: member
+bip_39_word_new_br10: member<br>frog<br>frog<br>about<br>busy<br>siege<br>oxygen<br>broccoli<br>mercy<br>inside
+bip_39_word_new_br11: member<br>frog<br>frog<br>about<br>busy<br>siege<br>oxygen<br>broccoli<br>mercy<br>inside<br>stadium
+bip_39_word_new_br12: member<br>frog<br>frog<br>about<br>busy<br>siege<br>oxygen<br>broccoli<br>mercy<br>inside<br>stadium<br>amount
+bip_39_word_new_br2: member<br>frog
+bip_39_word_new_br3: member<br>frog<br>frog
+bip_39_word_new_br4: member<br>frog<br>frog<br>about
+bip_39_word_new_br5: member<br>frog<br>frog<br>about<br>busy
+bip_39_word_new_br6: member<br>frog<br>frog<br>about<br>busy<br>siege
+bip_39_word_new_br7: member<br>frog<br>frog<br>about<br>busy<br>siege<br>oxygen
+bip_39_word_new_br8: member<br>frog<br>frog<br>about<br>busy<br>siege<br>oxygen<br>broccoli
+bip_39_word_new_br9: member<br>frog<br>frog<br>about<br>busy<br>siege<br>oxygen<br>broccoli<br>mercy
+bip_39_word_new_line1: member
+bip_39_word_new_line10: 'member
+
+  frog
+
+  frog
+
+  about
+
+  busy
+
+  siege
+
+  oxygen
+
+  broccoli
+
+  mercy
+
+  inside'
+bip_39_word_new_line11: 'member
+
+  frog
+
+  frog
+
+  about
+
+  busy
+
+  siege
+
+  oxygen
+
+  broccoli
+
+  mercy
+
+  inside
+
+  stadium'
+bip_39_word_new_line12: 'member
+
+  frog
+
+  frog
+
+  about
+
+  busy
+
+  siege
+
+  oxygen
+
+  broccoli
+
+  mercy
+
+  inside
+
+  stadium
+
+  amount'
+bip_39_word_new_line2: 'member
+
+  frog'
+bip_39_word_new_line3: 'member
+
+  frog
+
+  frog'
+bip_39_word_new_line4: 'member
+
+  frog
+
+  frog
+
+  about'
+bip_39_word_new_line5: 'member
+
+  frog
+
+  frog
+
+  about
+
+  busy'
+bip_39_word_new_line6: 'member
+
+  frog
+
+  frog
+
+  about
+
+  busy
+
+  siege'
+bip_39_word_new_line7: 'member
+
+  frog
+
+  frog
+
+  about
+
+  busy
+
+  siege
+
+  oxygen'
+bip_39_word_new_line8: 'member
+
+  frog
+
+  frog
+
+  about
+
+  busy
+
+  siege
+
+  oxygen
+
+  broccoli'
+bip_39_word_new_line9: 'member
+
+  frog
+
+  frog
+
+  about
+
+  busy
+
+  siege
+
+  oxygen
+
+  broccoli
+
+  mercy'
+bip_39_word_space_0:
+- member
+- frog
+- frog
+- about
+- busy
+- siege
+- oxygen
+- broccoli
+- mercy
+- inside
+- stadium
+- amount
+bip_39_word_space_1: member
+bip_39_word_space_10: member frog frog about busy siege oxygen broccoli mercy inside
+bip_39_word_space_11: member frog frog about busy siege oxygen broccoli mercy inside
+  stadium
+bip_39_word_space_12: member frog frog about busy siege oxygen broccoli mercy inside
+  stadium amount
+bip_39_word_space_2: member frog
+bip_39_word_space_3: member frog frog
+bip_39_word_space_4: member frog frog about
+bip_39_word_space_5: member frog frog about busy
+bip_39_word_space_6: member frog frog about busy siege
+bip_39_word_space_7: member frog frog about busy siege oxygen
+bip_39_word_space_8: member frog frog about busy siege oxygen broccoli
+bip_39_word_space_9: member frog frog about busy siege oxygen broccoli mercy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

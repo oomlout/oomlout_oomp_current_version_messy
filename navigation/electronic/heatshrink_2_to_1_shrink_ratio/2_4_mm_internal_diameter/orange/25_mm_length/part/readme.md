@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broom sail
+  * bip 39 word 3: broom sail say
+  * bip 39 word: broom sail say bitter carpet sheriff elder fabric capable crazy ensure arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broom |  
+| bip_39_word_new_br10 | broom<br>sail<br>say<br>bitter<br>carpet<br>sheriff<br>elder<br>fabric<br>capable<br>crazy |  
+| bip_39_word_new_br11 | broom<br>sail<br>say<br>bitter<br>carpet<br>sheriff<br>elder<br>fabric<br>capable<br>crazy<br>ensure |  
+| bip_39_word_new_br12 | broom<br>sail<br>say<br>bitter<br>carpet<br>sheriff<br>elder<br>fabric<br>capable<br>crazy<br>ensure<br>arena |  
+| bip_39_word_new_br2 | broom<br>sail |  
+| bip_39_word_new_br3 | broom<br>sail<br>say |  
+| bip_39_word_new_br4 | broom<br>sail<br>say<br>bitter |  
+| bip_39_word_new_br5 | broom<br>sail<br>say<br>bitter<br>carpet |  
+| bip_39_word_new_br6 | broom<br>sail<br>say<br>bitter<br>carpet<br>sheriff |  
+| bip_39_word_new_br7 | broom<br>sail<br>say<br>bitter<br>carpet<br>sheriff<br>elder |  
+| bip_39_word_new_br8 | broom<br>sail<br>say<br>bitter<br>carpet<br>sheriff<br>elder<br>fabric |  
+| bip_39_word_new_br9 | broom<br>sail<br>say<br>bitter<br>carpet<br>sheriff<br>elder<br>fabric<br>capable |  
+| bip_39_word_new_line1 | broom |  
+| bip_39_word_new_line10 | broom
+sail
+say
+bitter
+carpet
+sheriff
+elder
+fabric
+capable
+crazy |  
+| bip_39_word_new_line11 | broom
+sail
+say
+bitter
+carpet
+sheriff
+elder
+fabric
+capable
+crazy
+ensure |  
+| bip_39_word_new_line12 | broom
+sail
+say
+bitter
+carpet
+sheriff
+elder
+fabric
+capable
+crazy
+ensure
+arena |  
+| bip_39_word_new_line2 | broom
+sail |  
+| bip_39_word_new_line3 | broom
+sail
+say |  
+| bip_39_word_new_line4 | broom
+sail
+say
+bitter |  
+| bip_39_word_new_line5 | broom
+sail
+say
+bitter
+carpet |  
+| bip_39_word_new_line6 | broom
+sail
+say
+bitter
+carpet
+sheriff |  
+| bip_39_word_new_line7 | broom
+sail
+say
+bitter
+carpet
+sheriff
+elder |  
+| bip_39_word_new_line8 | broom
+sail
+say
+bitter
+carpet
+sheriff
+elder
+fabric |  
+| bip_39_word_new_line9 | broom
+sail
+say
+bitter
+carpet
+sheriff
+elder
+fabric
+capable |  
+| bip_39_word_space_0 | ['broom', 'sail', 'say', 'bitter', 'carpet', 'sheriff', 'elder', 'fabric', 'capable', 'crazy', 'ensure', 'arena'] |  
+| bip_39_word_space_1 | broom |  
+| bip_39_word_space_10 | broom sail say bitter carpet sheriff elder fabric capable crazy |  
+| bip_39_word_space_11 | broom sail say bitter carpet sheriff elder fabric capable crazy ensure |  
+| bip_39_word_space_12 | broom sail say bitter carpet sheriff elder fabric capable crazy ensure arena |  
+| bip_39_word_space_2 | broom sail |  
+| bip_39_word_space_3 | broom sail say |  
+| bip_39_word_space_4 | broom sail say bitter |  
+| bip_39_word_space_5 | broom sail say bitter carpet |  
+| bip_39_word_space_6 | broom sail say bitter carpet sheriff |  
+| bip_39_word_space_7 | broom sail say bitter carpet sheriff elder |  
+| bip_39_word_space_8 | broom sail say bitter carpet sheriff elder fabric |  
+| bip_39_word_space_9 | broom sail say bitter carpet sheriff elder fabric capable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

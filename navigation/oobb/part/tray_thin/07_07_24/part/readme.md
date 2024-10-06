@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excite already
+  * bip 39 word 3: excite already armor
+  * bip 39 word: excite already armor ill liquid symbol solution exit jelly grass try analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excite |  
+| bip_39_word_new_br10 | excite<br>already<br>armor<br>ill<br>liquid<br>symbol<br>solution<br>exit<br>jelly<br>grass |  
+| bip_39_word_new_br11 | excite<br>already<br>armor<br>ill<br>liquid<br>symbol<br>solution<br>exit<br>jelly<br>grass<br>try |  
+| bip_39_word_new_br12 | excite<br>already<br>armor<br>ill<br>liquid<br>symbol<br>solution<br>exit<br>jelly<br>grass<br>try<br>analyst |  
+| bip_39_word_new_br2 | excite<br>already |  
+| bip_39_word_new_br3 | excite<br>already<br>armor |  
+| bip_39_word_new_br4 | excite<br>already<br>armor<br>ill |  
+| bip_39_word_new_br5 | excite<br>already<br>armor<br>ill<br>liquid |  
+| bip_39_word_new_br6 | excite<br>already<br>armor<br>ill<br>liquid<br>symbol |  
+| bip_39_word_new_br7 | excite<br>already<br>armor<br>ill<br>liquid<br>symbol<br>solution |  
+| bip_39_word_new_br8 | excite<br>already<br>armor<br>ill<br>liquid<br>symbol<br>solution<br>exit |  
+| bip_39_word_new_br9 | excite<br>already<br>armor<br>ill<br>liquid<br>symbol<br>solution<br>exit<br>jelly |  
+| bip_39_word_new_line1 | excite |  
+| bip_39_word_new_line10 | excite
+already
+armor
+ill
+liquid
+symbol
+solution
+exit
+jelly
+grass |  
+| bip_39_word_new_line11 | excite
+already
+armor
+ill
+liquid
+symbol
+solution
+exit
+jelly
+grass
+try |  
+| bip_39_word_new_line12 | excite
+already
+armor
+ill
+liquid
+symbol
+solution
+exit
+jelly
+grass
+try
+analyst |  
+| bip_39_word_new_line2 | excite
+already |  
+| bip_39_word_new_line3 | excite
+already
+armor |  
+| bip_39_word_new_line4 | excite
+already
+armor
+ill |  
+| bip_39_word_new_line5 | excite
+already
+armor
+ill
+liquid |  
+| bip_39_word_new_line6 | excite
+already
+armor
+ill
+liquid
+symbol |  
+| bip_39_word_new_line7 | excite
+already
+armor
+ill
+liquid
+symbol
+solution |  
+| bip_39_word_new_line8 | excite
+already
+armor
+ill
+liquid
+symbol
+solution
+exit |  
+| bip_39_word_new_line9 | excite
+already
+armor
+ill
+liquid
+symbol
+solution
+exit
+jelly |  
+| bip_39_word_space_0 | ['excite', 'already', 'armor', 'ill', 'liquid', 'symbol', 'solution', 'exit', 'jelly', 'grass', 'try', 'analyst'] |  
+| bip_39_word_space_1 | excite |  
+| bip_39_word_space_10 | excite already armor ill liquid symbol solution exit jelly grass |  
+| bip_39_word_space_11 | excite already armor ill liquid symbol solution exit jelly grass try |  
+| bip_39_word_space_12 | excite already armor ill liquid symbol solution exit jelly grass try analyst |  
+| bip_39_word_space_2 | excite already |  
+| bip_39_word_space_3 | excite already armor |  
+| bip_39_word_space_4 | excite already armor ill |  
+| bip_39_word_space_5 | excite already armor ill liquid |  
+| bip_39_word_space_6 | excite already armor ill liquid symbol |  
+| bip_39_word_space_7 | excite already armor ill liquid symbol solution |  
+| bip_39_word_space_8 | excite already armor ill liquid symbol solution exit |  
+| bip_39_word_space_9 | excite already armor ill liquid symbol solution exit jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

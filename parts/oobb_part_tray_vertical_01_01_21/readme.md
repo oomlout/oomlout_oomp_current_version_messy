@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: good shiver
+  * bip 39 word 3: good shiver circle
+  * bip 39 word: good shiver circle salt jungle hungry three worry vehicle daughter cement almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | good |  
+| bip_39_word_new_br10 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry<br>three<br>worry<br>vehicle<br>daughter |  
+| bip_39_word_new_br11 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry<br>three<br>worry<br>vehicle<br>daughter<br>cement |  
+| bip_39_word_new_br12 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry<br>three<br>worry<br>vehicle<br>daughter<br>cement<br>almost |  
+| bip_39_word_new_br2 | good<br>shiver |  
+| bip_39_word_new_br3 | good<br>shiver<br>circle |  
+| bip_39_word_new_br4 | good<br>shiver<br>circle<br>salt |  
+| bip_39_word_new_br5 | good<br>shiver<br>circle<br>salt<br>jungle |  
+| bip_39_word_new_br6 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry |  
+| bip_39_word_new_br7 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry<br>three |  
+| bip_39_word_new_br8 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry<br>three<br>worry |  
+| bip_39_word_new_br9 | good<br>shiver<br>circle<br>salt<br>jungle<br>hungry<br>three<br>worry<br>vehicle |  
+| bip_39_word_new_line1 | good |  
+| bip_39_word_new_line10 | good
+shiver
+circle
+salt
+jungle
+hungry
+three
+worry
+vehicle
+daughter |  
+| bip_39_word_new_line11 | good
+shiver
+circle
+salt
+jungle
+hungry
+three
+worry
+vehicle
+daughter
+cement |  
+| bip_39_word_new_line12 | good
+shiver
+circle
+salt
+jungle
+hungry
+three
+worry
+vehicle
+daughter
+cement
+almost |  
+| bip_39_word_new_line2 | good
+shiver |  
+| bip_39_word_new_line3 | good
+shiver
+circle |  
+| bip_39_word_new_line4 | good
+shiver
+circle
+salt |  
+| bip_39_word_new_line5 | good
+shiver
+circle
+salt
+jungle |  
+| bip_39_word_new_line6 | good
+shiver
+circle
+salt
+jungle
+hungry |  
+| bip_39_word_new_line7 | good
+shiver
+circle
+salt
+jungle
+hungry
+three |  
+| bip_39_word_new_line8 | good
+shiver
+circle
+salt
+jungle
+hungry
+three
+worry |  
+| bip_39_word_new_line9 | good
+shiver
+circle
+salt
+jungle
+hungry
+three
+worry
+vehicle |  
+| bip_39_word_space_0 | ['good', 'shiver', 'circle', 'salt', 'jungle', 'hungry', 'three', 'worry', 'vehicle', 'daughter', 'cement', 'almost'] |  
+| bip_39_word_space_1 | good |  
+| bip_39_word_space_10 | good shiver circle salt jungle hungry three worry vehicle daughter |  
+| bip_39_word_space_11 | good shiver circle salt jungle hungry three worry vehicle daughter cement |  
+| bip_39_word_space_12 | good shiver circle salt jungle hungry three worry vehicle daughter cement almost |  
+| bip_39_word_space_2 | good shiver |  
+| bip_39_word_space_3 | good shiver circle |  
+| bip_39_word_space_4 | good shiver circle salt |  
+| bip_39_word_space_5 | good shiver circle salt jungle |  
+| bip_39_word_space_6 | good shiver circle salt jungle hungry |  
+| bip_39_word_space_7 | good shiver circle salt jungle hungry three |  
+| bip_39_word_space_8 | good shiver circle salt jungle hungry three worry |  
+| bip_39_word_space_9 | good shiver circle salt jungle hungry three worry vehicle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

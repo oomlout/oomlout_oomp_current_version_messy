@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vicious loan
+  * bip 39 word 3: vicious loan harsh
+  * bip 39 word: vicious loan harsh embark track spatial differ wear rain market way angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vicious |  
+| bip_39_word_new_br10 | vicious<br>loan<br>harsh<br>embark<br>track<br>spatial<br>differ<br>wear<br>rain<br>market |  
+| bip_39_word_new_br11 | vicious<br>loan<br>harsh<br>embark<br>track<br>spatial<br>differ<br>wear<br>rain<br>market<br>way |  
+| bip_39_word_new_br12 | vicious<br>loan<br>harsh<br>embark<br>track<br>spatial<br>differ<br>wear<br>rain<br>market<br>way<br>angle |  
+| bip_39_word_new_br2 | vicious<br>loan |  
+| bip_39_word_new_br3 | vicious<br>loan<br>harsh |  
+| bip_39_word_new_br4 | vicious<br>loan<br>harsh<br>embark |  
+| bip_39_word_new_br5 | vicious<br>loan<br>harsh<br>embark<br>track |  
+| bip_39_word_new_br6 | vicious<br>loan<br>harsh<br>embark<br>track<br>spatial |  
+| bip_39_word_new_br7 | vicious<br>loan<br>harsh<br>embark<br>track<br>spatial<br>differ |  
+| bip_39_word_new_br8 | vicious<br>loan<br>harsh<br>embark<br>track<br>spatial<br>differ<br>wear |  
+| bip_39_word_new_br9 | vicious<br>loan<br>harsh<br>embark<br>track<br>spatial<br>differ<br>wear<br>rain |  
+| bip_39_word_new_line1 | vicious |  
+| bip_39_word_new_line10 | vicious
+loan
+harsh
+embark
+track
+spatial
+differ
+wear
+rain
+market |  
+| bip_39_word_new_line11 | vicious
+loan
+harsh
+embark
+track
+spatial
+differ
+wear
+rain
+market
+way |  
+| bip_39_word_new_line12 | vicious
+loan
+harsh
+embark
+track
+spatial
+differ
+wear
+rain
+market
+way
+angle |  
+| bip_39_word_new_line2 | vicious
+loan |  
+| bip_39_word_new_line3 | vicious
+loan
+harsh |  
+| bip_39_word_new_line4 | vicious
+loan
+harsh
+embark |  
+| bip_39_word_new_line5 | vicious
+loan
+harsh
+embark
+track |  
+| bip_39_word_new_line6 | vicious
+loan
+harsh
+embark
+track
+spatial |  
+| bip_39_word_new_line7 | vicious
+loan
+harsh
+embark
+track
+spatial
+differ |  
+| bip_39_word_new_line8 | vicious
+loan
+harsh
+embark
+track
+spatial
+differ
+wear |  
+| bip_39_word_new_line9 | vicious
+loan
+harsh
+embark
+track
+spatial
+differ
+wear
+rain |  
+| bip_39_word_space_0 | ['vicious', 'loan', 'harsh', 'embark', 'track', 'spatial', 'differ', 'wear', 'rain', 'market', 'way', 'angle'] |  
+| bip_39_word_space_1 | vicious |  
+| bip_39_word_space_10 | vicious loan harsh embark track spatial differ wear rain market |  
+| bip_39_word_space_11 | vicious loan harsh embark track spatial differ wear rain market way |  
+| bip_39_word_space_12 | vicious loan harsh embark track spatial differ wear rain market way angle |  
+| bip_39_word_space_2 | vicious loan |  
+| bip_39_word_space_3 | vicious loan harsh |  
+| bip_39_word_space_4 | vicious loan harsh embark |  
+| bip_39_word_space_5 | vicious loan harsh embark track |  
+| bip_39_word_space_6 | vicious loan harsh embark track spatial |  
+| bip_39_word_space_7 | vicious loan harsh embark track spatial differ |  
+| bip_39_word_space_8 | vicious loan harsh embark track spatial differ wear |  
+| bip_39_word_space_9 | vicious loan harsh embark track spatial differ wear rain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

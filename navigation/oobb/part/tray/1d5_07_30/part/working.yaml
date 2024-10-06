@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wreck
+bip_39_word_new_br10: wreck<br>mom<br>north<br>debate<br>decorate<br>exist<br>spin<br>improve<br>style<br>vapor
+bip_39_word_new_br11: wreck<br>mom<br>north<br>debate<br>decorate<br>exist<br>spin<br>improve<br>style<br>vapor<br>dynamic
+bip_39_word_new_br12: wreck<br>mom<br>north<br>debate<br>decorate<br>exist<br>spin<br>improve<br>style<br>vapor<br>dynamic<br>around
+bip_39_word_new_br2: wreck<br>mom
+bip_39_word_new_br3: wreck<br>mom<br>north
+bip_39_word_new_br4: wreck<br>mom<br>north<br>debate
+bip_39_word_new_br5: wreck<br>mom<br>north<br>debate<br>decorate
+bip_39_word_new_br6: wreck<br>mom<br>north<br>debate<br>decorate<br>exist
+bip_39_word_new_br7: wreck<br>mom<br>north<br>debate<br>decorate<br>exist<br>spin
+bip_39_word_new_br8: wreck<br>mom<br>north<br>debate<br>decorate<br>exist<br>spin<br>improve
+bip_39_word_new_br9: wreck<br>mom<br>north<br>debate<br>decorate<br>exist<br>spin<br>improve<br>style
+bip_39_word_new_line1: wreck
+bip_39_word_new_line10: 'wreck
+
+  mom
+
+  north
+
+  debate
+
+  decorate
+
+  exist
+
+  spin
+
+  improve
+
+  style
+
+  vapor'
+bip_39_word_new_line11: 'wreck
+
+  mom
+
+  north
+
+  debate
+
+  decorate
+
+  exist
+
+  spin
+
+  improve
+
+  style
+
+  vapor
+
+  dynamic'
+bip_39_word_new_line12: 'wreck
+
+  mom
+
+  north
+
+  debate
+
+  decorate
+
+  exist
+
+  spin
+
+  improve
+
+  style
+
+  vapor
+
+  dynamic
+
+  around'
+bip_39_word_new_line2: 'wreck
+
+  mom'
+bip_39_word_new_line3: 'wreck
+
+  mom
+
+  north'
+bip_39_word_new_line4: 'wreck
+
+  mom
+
+  north
+
+  debate'
+bip_39_word_new_line5: 'wreck
+
+  mom
+
+  north
+
+  debate
+
+  decorate'
+bip_39_word_new_line6: 'wreck
+
+  mom
+
+  north
+
+  debate
+
+  decorate
+
+  exist'
+bip_39_word_new_line7: 'wreck
+
+  mom
+
+  north
+
+  debate
+
+  decorate
+
+  exist
+
+  spin'
+bip_39_word_new_line8: 'wreck
+
+  mom
+
+  north
+
+  debate
+
+  decorate
+
+  exist
+
+  spin
+
+  improve'
+bip_39_word_new_line9: 'wreck
+
+  mom
+
+  north
+
+  debate
+
+  decorate
+
+  exist
+
+  spin
+
+  improve
+
+  style'
+bip_39_word_space_0:
+- wreck
+- mom
+- north
+- debate
+- decorate
+- exist
+- spin
+- improve
+- style
+- vapor
+- dynamic
+- around
+bip_39_word_space_1: wreck
+bip_39_word_space_10: wreck mom north debate decorate exist spin improve style vapor
+bip_39_word_space_11: wreck mom north debate decorate exist spin improve style vapor
+  dynamic
+bip_39_word_space_12: wreck mom north debate decorate exist spin improve style vapor
+  dynamic around
+bip_39_word_space_2: wreck mom
+bip_39_word_space_3: wreck mom north
+bip_39_word_space_4: wreck mom north debate
+bip_39_word_space_5: wreck mom north debate decorate
+bip_39_word_space_6: wreck mom north debate decorate exist
+bip_39_word_space_7: wreck mom north debate decorate exist spin
+bip_39_word_space_8: wreck mom north debate decorate exist spin improve
+bip_39_word_space_9: wreck mom north debate decorate exist spin improve style
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

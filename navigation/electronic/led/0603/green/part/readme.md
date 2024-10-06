@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bridge betray
+  * bip 39 word 3: bridge betray gloom
+  * bip 39 word: bridge betray gloom sketch weekend twin tribe become ordinary miracle inject area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bridge |  
+| bip_39_word_new_br10 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle |  
+| bip_39_word_new_br11 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle<br>inject |  
+| bip_39_word_new_br12 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary<br>miracle<br>inject<br>area |  
+| bip_39_word_new_br2 | bridge<br>betray |  
+| bip_39_word_new_br3 | bridge<br>betray<br>gloom |  
+| bip_39_word_new_br4 | bridge<br>betray<br>gloom<br>sketch |  
+| bip_39_word_new_br5 | bridge<br>betray<br>gloom<br>sketch<br>weekend |  
+| bip_39_word_new_br6 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin |  
+| bip_39_word_new_br7 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe |  
+| bip_39_word_new_br8 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become |  
+| bip_39_word_new_br9 | bridge<br>betray<br>gloom<br>sketch<br>weekend<br>twin<br>tribe<br>become<br>ordinary |  
+| bip_39_word_new_line1 | bridge |  
+| bip_39_word_new_line10 | bridge
+betray
+gloom
+sketch
+weekend
+twin
+tribe
+become
+ordinary
+miracle |  
+| bip_39_word_new_line11 | bridge
+betray
+gloom
+sketch
+weekend
+twin
+tribe
+become
+ordinary
+miracle
+inject |  
+| bip_39_word_new_line12 | bridge
+betray
+gloom
+sketch
+weekend
+twin
+tribe
+become
+ordinary
+miracle
+inject
+area |  
+| bip_39_word_new_line2 | bridge
+betray |  
+| bip_39_word_new_line3 | bridge
+betray
+gloom |  
+| bip_39_word_new_line4 | bridge
+betray
+gloom
+sketch |  
+| bip_39_word_new_line5 | bridge
+betray
+gloom
+sketch
+weekend |  
+| bip_39_word_new_line6 | bridge
+betray
+gloom
+sketch
+weekend
+twin |  
+| bip_39_word_new_line7 | bridge
+betray
+gloom
+sketch
+weekend
+twin
+tribe |  
+| bip_39_word_new_line8 | bridge
+betray
+gloom
+sketch
+weekend
+twin
+tribe
+become |  
+| bip_39_word_new_line9 | bridge
+betray
+gloom
+sketch
+weekend
+twin
+tribe
+become
+ordinary |  
+| bip_39_word_space_0 | ['bridge', 'betray', 'gloom', 'sketch', 'weekend', 'twin', 'tribe', 'become', 'ordinary', 'miracle', 'inject', 'area'] |  
+| bip_39_word_space_1 | bridge |  
+| bip_39_word_space_10 | bridge betray gloom sketch weekend twin tribe become ordinary miracle |  
+| bip_39_word_space_11 | bridge betray gloom sketch weekend twin tribe become ordinary miracle inject |  
+| bip_39_word_space_12 | bridge betray gloom sketch weekend twin tribe become ordinary miracle inject area |  
+| bip_39_word_space_2 | bridge betray |  
+| bip_39_word_space_3 | bridge betray gloom |  
+| bip_39_word_space_4 | bridge betray gloom sketch |  
+| bip_39_word_space_5 | bridge betray gloom sketch weekend |  
+| bip_39_word_space_6 | bridge betray gloom sketch weekend twin |  
+| bip_39_word_space_7 | bridge betray gloom sketch weekend twin tribe |  
+| bip_39_word_space_8 | bridge betray gloom sketch weekend twin tribe become |  
+| bip_39_word_space_9 | bridge betray gloom sketch weekend twin tribe become ordinary |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

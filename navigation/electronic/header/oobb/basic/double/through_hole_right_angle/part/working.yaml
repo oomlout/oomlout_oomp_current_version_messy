@@ -1,3 +1,186 @@
+bip_39_word_new_br1: near
+bip_39_word_new_br10: near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting
+bip_39_word_new_br11: near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting<br>banana
+bip_39_word_new_br12: near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east<br>sting<br>banana<br>avocado
+bip_39_word_new_br2: near<br>shrug
+bip_39_word_new_br3: near<br>shrug<br>immense
+bip_39_word_new_br4: near<br>shrug<br>immense<br>mistake
+bip_39_word_new_br5: near<br>shrug<br>immense<br>mistake<br>select
+bip_39_word_new_br6: near<br>shrug<br>immense<br>mistake<br>select<br>clock
+bip_39_word_new_br7: near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic
+bip_39_word_new_br8: near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme
+bip_39_word_new_br9: near<br>shrug<br>immense<br>mistake<br>select<br>clock<br>basic<br>supreme<br>east
+bip_39_word_new_line1: near
+bip_39_word_new_line10: 'near
+
+  shrug
+
+  immense
+
+  mistake
+
+  select
+
+  clock
+
+  basic
+
+  supreme
+
+  east
+
+  sting'
+bip_39_word_new_line11: 'near
+
+  shrug
+
+  immense
+
+  mistake
+
+  select
+
+  clock
+
+  basic
+
+  supreme
+
+  east
+
+  sting
+
+  banana'
+bip_39_word_new_line12: 'near
+
+  shrug
+
+  immense
+
+  mistake
+
+  select
+
+  clock
+
+  basic
+
+  supreme
+
+  east
+
+  sting
+
+  banana
+
+  avocado'
+bip_39_word_new_line2: 'near
+
+  shrug'
+bip_39_word_new_line3: 'near
+
+  shrug
+
+  immense'
+bip_39_word_new_line4: 'near
+
+  shrug
+
+  immense
+
+  mistake'
+bip_39_word_new_line5: 'near
+
+  shrug
+
+  immense
+
+  mistake
+
+  select'
+bip_39_word_new_line6: 'near
+
+  shrug
+
+  immense
+
+  mistake
+
+  select
+
+  clock'
+bip_39_word_new_line7: 'near
+
+  shrug
+
+  immense
+
+  mistake
+
+  select
+
+  clock
+
+  basic'
+bip_39_word_new_line8: 'near
+
+  shrug
+
+  immense
+
+  mistake
+
+  select
+
+  clock
+
+  basic
+
+  supreme'
+bip_39_word_new_line9: 'near
+
+  shrug
+
+  immense
+
+  mistake
+
+  select
+
+  clock
+
+  basic
+
+  supreme
+
+  east'
+bip_39_word_space_0:
+- near
+- shrug
+- immense
+- mistake
+- select
+- clock
+- basic
+- supreme
+- east
+- sting
+- banana
+- avocado
+bip_39_word_space_1: near
+bip_39_word_space_10: near shrug immense mistake select clock basic supreme east sting
+bip_39_word_space_11: near shrug immense mistake select clock basic supreme east sting
+  banana
+bip_39_word_space_12: near shrug immense mistake select clock basic supreme east sting
+  banana avocado
+bip_39_word_space_2: near shrug
+bip_39_word_space_3: near shrug immense
+bip_39_word_space_4: near shrug immense mistake
+bip_39_word_space_5: near shrug immense mistake select
+bip_39_word_space_6: near shrug immense mistake select clock
+bip_39_word_space_7: near shrug immense mistake select clock basic
+bip_39_word_space_8: near shrug immense mistake select clock basic supreme
+bip_39_word_space_9: near shrug immense mistake select clock basic supreme east
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

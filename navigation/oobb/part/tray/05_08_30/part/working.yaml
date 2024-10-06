@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clay
+bip_39_word_new_br10: clay<br>east<br>toddler<br>page<br>burden<br>rebuild<br>beef<br>race<br>shoe<br>barely
+bip_39_word_new_br11: clay<br>east<br>toddler<br>page<br>burden<br>rebuild<br>beef<br>race<br>shoe<br>barely<br>major
+bip_39_word_new_br12: clay<br>east<br>toddler<br>page<br>burden<br>rebuild<br>beef<br>race<br>shoe<br>barely<br>major<br>attitude
+bip_39_word_new_br2: clay<br>east
+bip_39_word_new_br3: clay<br>east<br>toddler
+bip_39_word_new_br4: clay<br>east<br>toddler<br>page
+bip_39_word_new_br5: clay<br>east<br>toddler<br>page<br>burden
+bip_39_word_new_br6: clay<br>east<br>toddler<br>page<br>burden<br>rebuild
+bip_39_word_new_br7: clay<br>east<br>toddler<br>page<br>burden<br>rebuild<br>beef
+bip_39_word_new_br8: clay<br>east<br>toddler<br>page<br>burden<br>rebuild<br>beef<br>race
+bip_39_word_new_br9: clay<br>east<br>toddler<br>page<br>burden<br>rebuild<br>beef<br>race<br>shoe
+bip_39_word_new_line1: clay
+bip_39_word_new_line10: 'clay
+
+  east
+
+  toddler
+
+  page
+
+  burden
+
+  rebuild
+
+  beef
+
+  race
+
+  shoe
+
+  barely'
+bip_39_word_new_line11: 'clay
+
+  east
+
+  toddler
+
+  page
+
+  burden
+
+  rebuild
+
+  beef
+
+  race
+
+  shoe
+
+  barely
+
+  major'
+bip_39_word_new_line12: 'clay
+
+  east
+
+  toddler
+
+  page
+
+  burden
+
+  rebuild
+
+  beef
+
+  race
+
+  shoe
+
+  barely
+
+  major
+
+  attitude'
+bip_39_word_new_line2: 'clay
+
+  east'
+bip_39_word_new_line3: 'clay
+
+  east
+
+  toddler'
+bip_39_word_new_line4: 'clay
+
+  east
+
+  toddler
+
+  page'
+bip_39_word_new_line5: 'clay
+
+  east
+
+  toddler
+
+  page
+
+  burden'
+bip_39_word_new_line6: 'clay
+
+  east
+
+  toddler
+
+  page
+
+  burden
+
+  rebuild'
+bip_39_word_new_line7: 'clay
+
+  east
+
+  toddler
+
+  page
+
+  burden
+
+  rebuild
+
+  beef'
+bip_39_word_new_line8: 'clay
+
+  east
+
+  toddler
+
+  page
+
+  burden
+
+  rebuild
+
+  beef
+
+  race'
+bip_39_word_new_line9: 'clay
+
+  east
+
+  toddler
+
+  page
+
+  burden
+
+  rebuild
+
+  beef
+
+  race
+
+  shoe'
+bip_39_word_space_0:
+- clay
+- east
+- toddler
+- page
+- burden
+- rebuild
+- beef
+- race
+- shoe
+- barely
+- major
+- attitude
+bip_39_word_space_1: clay
+bip_39_word_space_10: clay east toddler page burden rebuild beef race shoe barely
+bip_39_word_space_11: clay east toddler page burden rebuild beef race shoe barely
+  major
+bip_39_word_space_12: clay east toddler page burden rebuild beef race shoe barely
+  major attitude
+bip_39_word_space_2: clay east
+bip_39_word_space_3: clay east toddler
+bip_39_word_space_4: clay east toddler page
+bip_39_word_space_5: clay east toddler page burden
+bip_39_word_space_6: clay east toddler page burden rebuild
+bip_39_word_space_7: clay east toddler page burden rebuild beef
+bip_39_word_space_8: clay east toddler page burden rebuild beef race
+bip_39_word_space_9: clay east toddler page burden rebuild beef race shoe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

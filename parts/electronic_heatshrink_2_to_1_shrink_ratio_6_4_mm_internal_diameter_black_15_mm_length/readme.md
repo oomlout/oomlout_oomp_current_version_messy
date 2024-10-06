@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tourist question
+  * bip 39 word 3: tourist question club
+  * bip 39 word: tourist question club virtual soldier hire toilet orchard morning absorb polar artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tourist |  
+| bip_39_word_new_br10 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire<br>toilet<br>orchard<br>morning<br>absorb |  
+| bip_39_word_new_br11 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire<br>toilet<br>orchard<br>morning<br>absorb<br>polar |  
+| bip_39_word_new_br12 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire<br>toilet<br>orchard<br>morning<br>absorb<br>polar<br>artwork |  
+| bip_39_word_new_br2 | tourist<br>question |  
+| bip_39_word_new_br3 | tourist<br>question<br>club |  
+| bip_39_word_new_br4 | tourist<br>question<br>club<br>virtual |  
+| bip_39_word_new_br5 | tourist<br>question<br>club<br>virtual<br>soldier |  
+| bip_39_word_new_br6 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire |  
+| bip_39_word_new_br7 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire<br>toilet |  
+| bip_39_word_new_br8 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire<br>toilet<br>orchard |  
+| bip_39_word_new_br9 | tourist<br>question<br>club<br>virtual<br>soldier<br>hire<br>toilet<br>orchard<br>morning |  
+| bip_39_word_new_line1 | tourist |  
+| bip_39_word_new_line10 | tourist
+question
+club
+virtual
+soldier
+hire
+toilet
+orchard
+morning
+absorb |  
+| bip_39_word_new_line11 | tourist
+question
+club
+virtual
+soldier
+hire
+toilet
+orchard
+morning
+absorb
+polar |  
+| bip_39_word_new_line12 | tourist
+question
+club
+virtual
+soldier
+hire
+toilet
+orchard
+morning
+absorb
+polar
+artwork |  
+| bip_39_word_new_line2 | tourist
+question |  
+| bip_39_word_new_line3 | tourist
+question
+club |  
+| bip_39_word_new_line4 | tourist
+question
+club
+virtual |  
+| bip_39_word_new_line5 | tourist
+question
+club
+virtual
+soldier |  
+| bip_39_word_new_line6 | tourist
+question
+club
+virtual
+soldier
+hire |  
+| bip_39_word_new_line7 | tourist
+question
+club
+virtual
+soldier
+hire
+toilet |  
+| bip_39_word_new_line8 | tourist
+question
+club
+virtual
+soldier
+hire
+toilet
+orchard |  
+| bip_39_word_new_line9 | tourist
+question
+club
+virtual
+soldier
+hire
+toilet
+orchard
+morning |  
+| bip_39_word_space_0 | ['tourist', 'question', 'club', 'virtual', 'soldier', 'hire', 'toilet', 'orchard', 'morning', 'absorb', 'polar', 'artwork'] |  
+| bip_39_word_space_1 | tourist |  
+| bip_39_word_space_10 | tourist question club virtual soldier hire toilet orchard morning absorb |  
+| bip_39_word_space_11 | tourist question club virtual soldier hire toilet orchard morning absorb polar |  
+| bip_39_word_space_12 | tourist question club virtual soldier hire toilet orchard morning absorb polar artwork |  
+| bip_39_word_space_2 | tourist question |  
+| bip_39_word_space_3 | tourist question club |  
+| bip_39_word_space_4 | tourist question club virtual |  
+| bip_39_word_space_5 | tourist question club virtual soldier |  
+| bip_39_word_space_6 | tourist question club virtual soldier hire |  
+| bip_39_word_space_7 | tourist question club virtual soldier hire toilet |  
+| bip_39_word_space_8 | tourist question club virtual soldier hire toilet orchard |  
+| bip_39_word_space_9 | tourist question club virtual soldier hire toilet orchard morning |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

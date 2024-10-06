@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: i
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dance winner
+  * bip 39 word 3: dance winner program
+  * bip 39 word: dance winner program novel candy sea easy flag sunny ramp piece alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dance |  
+| bip_39_word_new_br10 | dance<br>winner<br>program<br>novel<br>candy<br>sea<br>easy<br>flag<br>sunny<br>ramp |  
+| bip_39_word_new_br11 | dance<br>winner<br>program<br>novel<br>candy<br>sea<br>easy<br>flag<br>sunny<br>ramp<br>piece |  
+| bip_39_word_new_br12 | dance<br>winner<br>program<br>novel<br>candy<br>sea<br>easy<br>flag<br>sunny<br>ramp<br>piece<br>alley |  
+| bip_39_word_new_br2 | dance<br>winner |  
+| bip_39_word_new_br3 | dance<br>winner<br>program |  
+| bip_39_word_new_br4 | dance<br>winner<br>program<br>novel |  
+| bip_39_word_new_br5 | dance<br>winner<br>program<br>novel<br>candy |  
+| bip_39_word_new_br6 | dance<br>winner<br>program<br>novel<br>candy<br>sea |  
+| bip_39_word_new_br7 | dance<br>winner<br>program<br>novel<br>candy<br>sea<br>easy |  
+| bip_39_word_new_br8 | dance<br>winner<br>program<br>novel<br>candy<br>sea<br>easy<br>flag |  
+| bip_39_word_new_br9 | dance<br>winner<br>program<br>novel<br>candy<br>sea<br>easy<br>flag<br>sunny |  
+| bip_39_word_new_line1 | dance |  
+| bip_39_word_new_line10 | dance
+winner
+program
+novel
+candy
+sea
+easy
+flag
+sunny
+ramp |  
+| bip_39_word_new_line11 | dance
+winner
+program
+novel
+candy
+sea
+easy
+flag
+sunny
+ramp
+piece |  
+| bip_39_word_new_line12 | dance
+winner
+program
+novel
+candy
+sea
+easy
+flag
+sunny
+ramp
+piece
+alley |  
+| bip_39_word_new_line2 | dance
+winner |  
+| bip_39_word_new_line3 | dance
+winner
+program |  
+| bip_39_word_new_line4 | dance
+winner
+program
+novel |  
+| bip_39_word_new_line5 | dance
+winner
+program
+novel
+candy |  
+| bip_39_word_new_line6 | dance
+winner
+program
+novel
+candy
+sea |  
+| bip_39_word_new_line7 | dance
+winner
+program
+novel
+candy
+sea
+easy |  
+| bip_39_word_new_line8 | dance
+winner
+program
+novel
+candy
+sea
+easy
+flag |  
+| bip_39_word_new_line9 | dance
+winner
+program
+novel
+candy
+sea
+easy
+flag
+sunny |  
+| bip_39_word_space_0 | ['dance', 'winner', 'program', 'novel', 'candy', 'sea', 'easy', 'flag', 'sunny', 'ramp', 'piece', 'alley'] |  
+| bip_39_word_space_1 | dance |  
+| bip_39_word_space_10 | dance winner program novel candy sea easy flag sunny ramp |  
+| bip_39_word_space_11 | dance winner program novel candy sea easy flag sunny ramp piece |  
+| bip_39_word_space_12 | dance winner program novel candy sea easy flag sunny ramp piece alley |  
+| bip_39_word_space_2 | dance winner |  
+| bip_39_word_space_3 | dance winner program |  
+| bip_39_word_space_4 | dance winner program novel |  
+| bip_39_word_space_5 | dance winner program novel candy |  
+| bip_39_word_space_6 | dance winner program novel candy sea |  
+| bip_39_word_space_7 | dance winner program novel candy sea easy |  
+| bip_39_word_space_8 | dance winner program novel candy sea easy flag |  
+| bip_39_word_space_9 | dance winner program novel candy sea easy flag sunny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

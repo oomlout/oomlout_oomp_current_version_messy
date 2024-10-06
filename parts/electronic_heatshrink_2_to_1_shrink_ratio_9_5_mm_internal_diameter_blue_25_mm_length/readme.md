@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: already identify
+  * bip 39 word 3: already identify collect
+  * bip 39 word: already identify collect design caution logic drift flee carbon leave grunt around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | already |  
+| bip_39_word_new_br10 | already<br>identify<br>collect<br>design<br>caution<br>logic<br>drift<br>flee<br>carbon<br>leave |  
+| bip_39_word_new_br11 | already<br>identify<br>collect<br>design<br>caution<br>logic<br>drift<br>flee<br>carbon<br>leave<br>grunt |  
+| bip_39_word_new_br12 | already<br>identify<br>collect<br>design<br>caution<br>logic<br>drift<br>flee<br>carbon<br>leave<br>grunt<br>around |  
+| bip_39_word_new_br2 | already<br>identify |  
+| bip_39_word_new_br3 | already<br>identify<br>collect |  
+| bip_39_word_new_br4 | already<br>identify<br>collect<br>design |  
+| bip_39_word_new_br5 | already<br>identify<br>collect<br>design<br>caution |  
+| bip_39_word_new_br6 | already<br>identify<br>collect<br>design<br>caution<br>logic |  
+| bip_39_word_new_br7 | already<br>identify<br>collect<br>design<br>caution<br>logic<br>drift |  
+| bip_39_word_new_br8 | already<br>identify<br>collect<br>design<br>caution<br>logic<br>drift<br>flee |  
+| bip_39_word_new_br9 | already<br>identify<br>collect<br>design<br>caution<br>logic<br>drift<br>flee<br>carbon |  
+| bip_39_word_new_line1 | already |  
+| bip_39_word_new_line10 | already
+identify
+collect
+design
+caution
+logic
+drift
+flee
+carbon
+leave |  
+| bip_39_word_new_line11 | already
+identify
+collect
+design
+caution
+logic
+drift
+flee
+carbon
+leave
+grunt |  
+| bip_39_word_new_line12 | already
+identify
+collect
+design
+caution
+logic
+drift
+flee
+carbon
+leave
+grunt
+around |  
+| bip_39_word_new_line2 | already
+identify |  
+| bip_39_word_new_line3 | already
+identify
+collect |  
+| bip_39_word_new_line4 | already
+identify
+collect
+design |  
+| bip_39_word_new_line5 | already
+identify
+collect
+design
+caution |  
+| bip_39_word_new_line6 | already
+identify
+collect
+design
+caution
+logic |  
+| bip_39_word_new_line7 | already
+identify
+collect
+design
+caution
+logic
+drift |  
+| bip_39_word_new_line8 | already
+identify
+collect
+design
+caution
+logic
+drift
+flee |  
+| bip_39_word_new_line9 | already
+identify
+collect
+design
+caution
+logic
+drift
+flee
+carbon |  
+| bip_39_word_space_0 | ['already', 'identify', 'collect', 'design', 'caution', 'logic', 'drift', 'flee', 'carbon', 'leave', 'grunt', 'around'] |  
+| bip_39_word_space_1 | already |  
+| bip_39_word_space_10 | already identify collect design caution logic drift flee carbon leave |  
+| bip_39_word_space_11 | already identify collect design caution logic drift flee carbon leave grunt |  
+| bip_39_word_space_12 | already identify collect design caution logic drift flee carbon leave grunt around |  
+| bip_39_word_space_2 | already identify |  
+| bip_39_word_space_3 | already identify collect |  
+| bip_39_word_space_4 | already identify collect design |  
+| bip_39_word_space_5 | already identify collect design caution |  
+| bip_39_word_space_6 | already identify collect design caution logic |  
+| bip_39_word_space_7 | already identify collect design caution logic drift |  
+| bip_39_word_space_8 | already identify collect design caution logic drift flee |  
+| bip_39_word_space_9 | already identify collect design caution logic drift flee carbon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

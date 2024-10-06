@@ -1,3 +1,186 @@
+bip_39_word_new_br1: piece
+bip_39_word_new_br10: piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade
+bip_39_word_new_br11: piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade<br>gift
+bip_39_word_new_br12: piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify<br>trade<br>gift<br>agree
+bip_39_word_new_br2: piece<br>write
+bip_39_word_new_br3: piece<br>write<br>aspect
+bip_39_word_new_br4: piece<br>write<br>aspect<br>soon
+bip_39_word_new_br5: piece<br>write<br>aspect<br>soon<br>allow
+bip_39_word_new_br6: piece<br>write<br>aspect<br>soon<br>allow<br>unfair
+bip_39_word_new_br7: piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude
+bip_39_word_new_br8: piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf
+bip_39_word_new_br9: piece<br>write<br>aspect<br>soon<br>allow<br>unfair<br>rude<br>dwarf<br>identify
+bip_39_word_new_line1: piece
+bip_39_word_new_line10: 'piece
+
+  write
+
+  aspect
+
+  soon
+
+  allow
+
+  unfair
+
+  rude
+
+  dwarf
+
+  identify
+
+  trade'
+bip_39_word_new_line11: 'piece
+
+  write
+
+  aspect
+
+  soon
+
+  allow
+
+  unfair
+
+  rude
+
+  dwarf
+
+  identify
+
+  trade
+
+  gift'
+bip_39_word_new_line12: 'piece
+
+  write
+
+  aspect
+
+  soon
+
+  allow
+
+  unfair
+
+  rude
+
+  dwarf
+
+  identify
+
+  trade
+
+  gift
+
+  agree'
+bip_39_word_new_line2: 'piece
+
+  write'
+bip_39_word_new_line3: 'piece
+
+  write
+
+  aspect'
+bip_39_word_new_line4: 'piece
+
+  write
+
+  aspect
+
+  soon'
+bip_39_word_new_line5: 'piece
+
+  write
+
+  aspect
+
+  soon
+
+  allow'
+bip_39_word_new_line6: 'piece
+
+  write
+
+  aspect
+
+  soon
+
+  allow
+
+  unfair'
+bip_39_word_new_line7: 'piece
+
+  write
+
+  aspect
+
+  soon
+
+  allow
+
+  unfair
+
+  rude'
+bip_39_word_new_line8: 'piece
+
+  write
+
+  aspect
+
+  soon
+
+  allow
+
+  unfair
+
+  rude
+
+  dwarf'
+bip_39_word_new_line9: 'piece
+
+  write
+
+  aspect
+
+  soon
+
+  allow
+
+  unfair
+
+  rude
+
+  dwarf
+
+  identify'
+bip_39_word_space_0:
+- piece
+- write
+- aspect
+- soon
+- allow
+- unfair
+- rude
+- dwarf
+- identify
+- trade
+- gift
+- agree
+bip_39_word_space_1: piece
+bip_39_word_space_10: piece write aspect soon allow unfair rude dwarf identify trade
+bip_39_word_space_11: piece write aspect soon allow unfair rude dwarf identify trade
+  gift
+bip_39_word_space_12: piece write aspect soon allow unfair rude dwarf identify trade
+  gift agree
+bip_39_word_space_2: piece write
+bip_39_word_space_3: piece write aspect
+bip_39_word_space_4: piece write aspect soon
+bip_39_word_space_5: piece write aspect soon allow
+bip_39_word_space_6: piece write aspect soon allow unfair
+bip_39_word_space_7: piece write aspect soon allow unfair rude
+bip_39_word_space_8: piece write aspect soon allow unfair rude dwarf
+bip_39_word_space_9: piece write aspect soon allow unfair rude dwarf identify
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: dice
+bip_39_word_new_br10: dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough
+bip_39_word_new_br11: dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough<br>hotel
+bip_39_word_new_br12: dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island<br>rough<br>hotel<br>antenna
+bip_39_word_new_br2: dice<br>orange
+bip_39_word_new_br3: dice<br>orange<br>measure
+bip_39_word_new_br4: dice<br>orange<br>measure<br>toddler
+bip_39_word_new_br5: dice<br>orange<br>measure<br>toddler<br>boat
+bip_39_word_new_br6: dice<br>orange<br>measure<br>toddler<br>boat<br>scissors
+bip_39_word_new_br7: dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid
+bip_39_word_new_br8: dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind
+bip_39_word_new_br9: dice<br>orange<br>measure<br>toddler<br>boat<br>scissors<br>valid<br>behind<br>island
+bip_39_word_new_line1: dice
+bip_39_word_new_line10: 'dice
+
+  orange
+
+  measure
+
+  toddler
+
+  boat
+
+  scissors
+
+  valid
+
+  behind
+
+  island
+
+  rough'
+bip_39_word_new_line11: 'dice
+
+  orange
+
+  measure
+
+  toddler
+
+  boat
+
+  scissors
+
+  valid
+
+  behind
+
+  island
+
+  rough
+
+  hotel'
+bip_39_word_new_line12: 'dice
+
+  orange
+
+  measure
+
+  toddler
+
+  boat
+
+  scissors
+
+  valid
+
+  behind
+
+  island
+
+  rough
+
+  hotel
+
+  antenna'
+bip_39_word_new_line2: 'dice
+
+  orange'
+bip_39_word_new_line3: 'dice
+
+  orange
+
+  measure'
+bip_39_word_new_line4: 'dice
+
+  orange
+
+  measure
+
+  toddler'
+bip_39_word_new_line5: 'dice
+
+  orange
+
+  measure
+
+  toddler
+
+  boat'
+bip_39_word_new_line6: 'dice
+
+  orange
+
+  measure
+
+  toddler
+
+  boat
+
+  scissors'
+bip_39_word_new_line7: 'dice
+
+  orange
+
+  measure
+
+  toddler
+
+  boat
+
+  scissors
+
+  valid'
+bip_39_word_new_line8: 'dice
+
+  orange
+
+  measure
+
+  toddler
+
+  boat
+
+  scissors
+
+  valid
+
+  behind'
+bip_39_word_new_line9: 'dice
+
+  orange
+
+  measure
+
+  toddler
+
+  boat
+
+  scissors
+
+  valid
+
+  behind
+
+  island'
+bip_39_word_space_0:
+- dice
+- orange
+- measure
+- toddler
+- boat
+- scissors
+- valid
+- behind
+- island
+- rough
+- hotel
+- antenna
+bip_39_word_space_1: dice
+bip_39_word_space_10: dice orange measure toddler boat scissors valid behind island
+  rough
+bip_39_word_space_11: dice orange measure toddler boat scissors valid behind island
+  rough hotel
+bip_39_word_space_12: dice orange measure toddler boat scissors valid behind island
+  rough hotel antenna
+bip_39_word_space_2: dice orange
+bip_39_word_space_3: dice orange measure
+bip_39_word_space_4: dice orange measure toddler
+bip_39_word_space_5: dice orange measure toddler boat
+bip_39_word_space_6: dice orange measure toddler boat scissors
+bip_39_word_space_7: dice orange measure toddler boat scissors valid
+bip_39_word_space_8: dice orange measure toddler boat scissors valid behind
+bip_39_word_space_9: dice orange measure toddler boat scissors valid behind island
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: visual width
+  * bip 39 word 3: visual width sudden
+  * bip 39 word: visual width sudden again theme pause beauty pumpkin sorry flower intact abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | visual |  
+| bip_39_word_new_br10 | visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower |  
+| bip_39_word_new_br11 | visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower<br>intact |  
+| bip_39_word_new_br12 | visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry<br>flower<br>intact<br>abuse |  
+| bip_39_word_new_br2 | visual<br>width |  
+| bip_39_word_new_br3 | visual<br>width<br>sudden |  
+| bip_39_word_new_br4 | visual<br>width<br>sudden<br>again |  
+| bip_39_word_new_br5 | visual<br>width<br>sudden<br>again<br>theme |  
+| bip_39_word_new_br6 | visual<br>width<br>sudden<br>again<br>theme<br>pause |  
+| bip_39_word_new_br7 | visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty |  
+| bip_39_word_new_br8 | visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin |  
+| bip_39_word_new_br9 | visual<br>width<br>sudden<br>again<br>theme<br>pause<br>beauty<br>pumpkin<br>sorry |  
+| bip_39_word_new_line1 | visual |  
+| bip_39_word_new_line10 | visual
+width
+sudden
+again
+theme
+pause
+beauty
+pumpkin
+sorry
+flower |  
+| bip_39_word_new_line11 | visual
+width
+sudden
+again
+theme
+pause
+beauty
+pumpkin
+sorry
+flower
+intact |  
+| bip_39_word_new_line12 | visual
+width
+sudden
+again
+theme
+pause
+beauty
+pumpkin
+sorry
+flower
+intact
+abuse |  
+| bip_39_word_new_line2 | visual
+width |  
+| bip_39_word_new_line3 | visual
+width
+sudden |  
+| bip_39_word_new_line4 | visual
+width
+sudden
+again |  
+| bip_39_word_new_line5 | visual
+width
+sudden
+again
+theme |  
+| bip_39_word_new_line6 | visual
+width
+sudden
+again
+theme
+pause |  
+| bip_39_word_new_line7 | visual
+width
+sudden
+again
+theme
+pause
+beauty |  
+| bip_39_word_new_line8 | visual
+width
+sudden
+again
+theme
+pause
+beauty
+pumpkin |  
+| bip_39_word_new_line9 | visual
+width
+sudden
+again
+theme
+pause
+beauty
+pumpkin
+sorry |  
+| bip_39_word_space_0 | ['visual', 'width', 'sudden', 'again', 'theme', 'pause', 'beauty', 'pumpkin', 'sorry', 'flower', 'intact', 'abuse'] |  
+| bip_39_word_space_1 | visual |  
+| bip_39_word_space_10 | visual width sudden again theme pause beauty pumpkin sorry flower |  
+| bip_39_word_space_11 | visual width sudden again theme pause beauty pumpkin sorry flower intact |  
+| bip_39_word_space_12 | visual width sudden again theme pause beauty pumpkin sorry flower intact abuse |  
+| bip_39_word_space_2 | visual width |  
+| bip_39_word_space_3 | visual width sudden |  
+| bip_39_word_space_4 | visual width sudden again |  
+| bip_39_word_space_5 | visual width sudden again theme |  
+| bip_39_word_space_6 | visual width sudden again theme pause |  
+| bip_39_word_space_7 | visual width sudden again theme pause beauty |  
+| bip_39_word_space_8 | visual width sudden again theme pause beauty pumpkin |  
+| bip_39_word_space_9 | visual width sudden again theme pause beauty pumpkin sorry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

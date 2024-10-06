@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decline extra
+  * bip 39 word 3: decline extra curtain
+  * bip 39 word: decline extra curtain panda feel blast dash stem shrug holiday want art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decline |  
+| bip_39_word_new_br10 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday |  
+| bip_39_word_new_br11 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday<br>want |  
+| bip_39_word_new_br12 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug<br>holiday<br>want<br>art |  
+| bip_39_word_new_br2 | decline<br>extra |  
+| bip_39_word_new_br3 | decline<br>extra<br>curtain |  
+| bip_39_word_new_br4 | decline<br>extra<br>curtain<br>panda |  
+| bip_39_word_new_br5 | decline<br>extra<br>curtain<br>panda<br>feel |  
+| bip_39_word_new_br6 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast |  
+| bip_39_word_new_br7 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash |  
+| bip_39_word_new_br8 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem |  
+| bip_39_word_new_br9 | decline<br>extra<br>curtain<br>panda<br>feel<br>blast<br>dash<br>stem<br>shrug |  
+| bip_39_word_new_line1 | decline |  
+| bip_39_word_new_line10 | decline
+extra
+curtain
+panda
+feel
+blast
+dash
+stem
+shrug
+holiday |  
+| bip_39_word_new_line11 | decline
+extra
+curtain
+panda
+feel
+blast
+dash
+stem
+shrug
+holiday
+want |  
+| bip_39_word_new_line12 | decline
+extra
+curtain
+panda
+feel
+blast
+dash
+stem
+shrug
+holiday
+want
+art |  
+| bip_39_word_new_line2 | decline
+extra |  
+| bip_39_word_new_line3 | decline
+extra
+curtain |  
+| bip_39_word_new_line4 | decline
+extra
+curtain
+panda |  
+| bip_39_word_new_line5 | decline
+extra
+curtain
+panda
+feel |  
+| bip_39_word_new_line6 | decline
+extra
+curtain
+panda
+feel
+blast |  
+| bip_39_word_new_line7 | decline
+extra
+curtain
+panda
+feel
+blast
+dash |  
+| bip_39_word_new_line8 | decline
+extra
+curtain
+panda
+feel
+blast
+dash
+stem |  
+| bip_39_word_new_line9 | decline
+extra
+curtain
+panda
+feel
+blast
+dash
+stem
+shrug |  
+| bip_39_word_space_0 | ['decline', 'extra', 'curtain', 'panda', 'feel', 'blast', 'dash', 'stem', 'shrug', 'holiday', 'want', 'art'] |  
+| bip_39_word_space_1 | decline |  
+| bip_39_word_space_10 | decline extra curtain panda feel blast dash stem shrug holiday |  
+| bip_39_word_space_11 | decline extra curtain panda feel blast dash stem shrug holiday want |  
+| bip_39_word_space_12 | decline extra curtain panda feel blast dash stem shrug holiday want art |  
+| bip_39_word_space_2 | decline extra |  
+| bip_39_word_space_3 | decline extra curtain |  
+| bip_39_word_space_4 | decline extra curtain panda |  
+| bip_39_word_space_5 | decline extra curtain panda feel |  
+| bip_39_word_space_6 | decline extra curtain panda feel blast |  
+| bip_39_word_space_7 | decline extra curtain panda feel blast dash |  
+| bip_39_word_space_8 | decline extra curtain panda feel blast dash stem |  
+| bip_39_word_space_9 | decline extra curtain panda feel blast dash stem shrug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

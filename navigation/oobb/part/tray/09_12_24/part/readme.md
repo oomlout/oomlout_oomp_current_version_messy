@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glass wash
+  * bip 39 word 3: glass wash quarter
+  * bip 39 word: glass wash quarter wagon basic fee vicious eagle october hungry rail artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glass |  
+| bip_39_word_new_br10 | glass<br>wash<br>quarter<br>wagon<br>basic<br>fee<br>vicious<br>eagle<br>october<br>hungry |  
+| bip_39_word_new_br11 | glass<br>wash<br>quarter<br>wagon<br>basic<br>fee<br>vicious<br>eagle<br>october<br>hungry<br>rail |  
+| bip_39_word_new_br12 | glass<br>wash<br>quarter<br>wagon<br>basic<br>fee<br>vicious<br>eagle<br>october<br>hungry<br>rail<br>artist |  
+| bip_39_word_new_br2 | glass<br>wash |  
+| bip_39_word_new_br3 | glass<br>wash<br>quarter |  
+| bip_39_word_new_br4 | glass<br>wash<br>quarter<br>wagon |  
+| bip_39_word_new_br5 | glass<br>wash<br>quarter<br>wagon<br>basic |  
+| bip_39_word_new_br6 | glass<br>wash<br>quarter<br>wagon<br>basic<br>fee |  
+| bip_39_word_new_br7 | glass<br>wash<br>quarter<br>wagon<br>basic<br>fee<br>vicious |  
+| bip_39_word_new_br8 | glass<br>wash<br>quarter<br>wagon<br>basic<br>fee<br>vicious<br>eagle |  
+| bip_39_word_new_br9 | glass<br>wash<br>quarter<br>wagon<br>basic<br>fee<br>vicious<br>eagle<br>october |  
+| bip_39_word_new_line1 | glass |  
+| bip_39_word_new_line10 | glass
+wash
+quarter
+wagon
+basic
+fee
+vicious
+eagle
+october
+hungry |  
+| bip_39_word_new_line11 | glass
+wash
+quarter
+wagon
+basic
+fee
+vicious
+eagle
+october
+hungry
+rail |  
+| bip_39_word_new_line12 | glass
+wash
+quarter
+wagon
+basic
+fee
+vicious
+eagle
+october
+hungry
+rail
+artist |  
+| bip_39_word_new_line2 | glass
+wash |  
+| bip_39_word_new_line3 | glass
+wash
+quarter |  
+| bip_39_word_new_line4 | glass
+wash
+quarter
+wagon |  
+| bip_39_word_new_line5 | glass
+wash
+quarter
+wagon
+basic |  
+| bip_39_word_new_line6 | glass
+wash
+quarter
+wagon
+basic
+fee |  
+| bip_39_word_new_line7 | glass
+wash
+quarter
+wagon
+basic
+fee
+vicious |  
+| bip_39_word_new_line8 | glass
+wash
+quarter
+wagon
+basic
+fee
+vicious
+eagle |  
+| bip_39_word_new_line9 | glass
+wash
+quarter
+wagon
+basic
+fee
+vicious
+eagle
+october |  
+| bip_39_word_space_0 | ['glass', 'wash', 'quarter', 'wagon', 'basic', 'fee', 'vicious', 'eagle', 'october', 'hungry', 'rail', 'artist'] |  
+| bip_39_word_space_1 | glass |  
+| bip_39_word_space_10 | glass wash quarter wagon basic fee vicious eagle october hungry |  
+| bip_39_word_space_11 | glass wash quarter wagon basic fee vicious eagle october hungry rail |  
+| bip_39_word_space_12 | glass wash quarter wagon basic fee vicious eagle october hungry rail artist |  
+| bip_39_word_space_2 | glass wash |  
+| bip_39_word_space_3 | glass wash quarter |  
+| bip_39_word_space_4 | glass wash quarter wagon |  
+| bip_39_word_space_5 | glass wash quarter wagon basic |  
+| bip_39_word_space_6 | glass wash quarter wagon basic fee |  
+| bip_39_word_space_7 | glass wash quarter wagon basic fee vicious |  
+| bip_39_word_space_8 | glass wash quarter wagon basic fee vicious eagle |  
+| bip_39_word_space_9 | glass wash quarter wagon basic fee vicious eagle october |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: palace provide
+  * bip 39 word 3: palace provide expand
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | palace |  
+| bip_39_word_new_br10 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode<br>vocal |  
+| bip_39_word_new_br11 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode<br>vocal<br>orchard |  
+| bip_39_word_new_br2 | palace<br>provide |  
+| bip_39_word_new_br3 | palace<br>provide<br>expand |  
+| bip_39_word_new_br4 | palace<br>provide<br>expand<br>beauty |  
+| bip_39_word_new_br5 | palace<br>provide<br>expand<br>beauty<br>erode |  
+| bip_39_word_new_br6 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch |  
+| bip_39_word_new_br7 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer |  
+| bip_39_word_new_br8 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic |  
+| bip_39_word_new_br9 | palace<br>provide<br>expand<br>beauty<br>erode<br>catch<br>soccer<br>tragic<br>erode |  
+| bip_39_word_new_line1 | palace |  
+| bip_39_word_new_line10 | palace
+provide
+expand
+beauty
+erode
+catch
+soccer
+tragic
+erode
+vocal |  
+| bip_39_word_new_line11 | palace
+provide
+expand
+beauty
+erode
+catch
+soccer
+tragic
+erode
+vocal
+orchard |  
+| bip_39_word_new_line2 | palace
+provide |  
+| bip_39_word_new_line3 | palace
+provide
+expand |  
+| bip_39_word_new_line4 | palace
+provide
+expand
+beauty |  
+| bip_39_word_new_line5 | palace
+provide
+expand
+beauty
+erode |  
+| bip_39_word_new_line6 | palace
+provide
+expand
+beauty
+erode
+catch |  
+| bip_39_word_new_line7 | palace
+provide
+expand
+beauty
+erode
+catch
+soccer |  
+| bip_39_word_new_line8 | palace
+provide
+expand
+beauty
+erode
+catch
+soccer
+tragic |  
+| bip_39_word_new_line9 | palace
+provide
+expand
+beauty
+erode
+catch
+soccer
+tragic
+erode |  
+| bip_39_word_space_0 | ['palace', 'provide', 'expand', 'beauty', 'erode', 'catch', 'soccer', 'tragic', 'erode', 'vocal', 'orchard'] |  
+| bip_39_word_space_1 | palace |  
+| bip_39_word_space_10 | palace provide expand beauty erode catch soccer tragic erode vocal |  
+| bip_39_word_space_11 | palace provide expand beauty erode catch soccer tragic erode vocal orchard |  
+| bip_39_word_space_2 | palace provide |  
+| bip_39_word_space_3 | palace provide expand |  
+| bip_39_word_space_4 | palace provide expand beauty |  
+| bip_39_word_space_5 | palace provide expand beauty erode |  
+| bip_39_word_space_6 | palace provide expand beauty erode catch |  
+| bip_39_word_space_7 | palace provide expand beauty erode catch soccer |  
+| bip_39_word_space_8 | palace provide expand beauty erode catch soccer tragic |  
+| bip_39_word_space_9 | palace provide expand beauty erode catch soccer tragic erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

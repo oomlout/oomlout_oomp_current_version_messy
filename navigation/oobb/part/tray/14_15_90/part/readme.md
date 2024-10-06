@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scout urban
+  * bip 39 word 3: scout urban crime
+  * bip 39 word: scout urban crime churn father jar potato spirit tent wild silk admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scout |  
+| bip_39_word_new_br10 | scout<br>urban<br>crime<br>churn<br>father<br>jar<br>potato<br>spirit<br>tent<br>wild |  
+| bip_39_word_new_br11 | scout<br>urban<br>crime<br>churn<br>father<br>jar<br>potato<br>spirit<br>tent<br>wild<br>silk |  
+| bip_39_word_new_br12 | scout<br>urban<br>crime<br>churn<br>father<br>jar<br>potato<br>spirit<br>tent<br>wild<br>silk<br>admit |  
+| bip_39_word_new_br2 | scout<br>urban |  
+| bip_39_word_new_br3 | scout<br>urban<br>crime |  
+| bip_39_word_new_br4 | scout<br>urban<br>crime<br>churn |  
+| bip_39_word_new_br5 | scout<br>urban<br>crime<br>churn<br>father |  
+| bip_39_word_new_br6 | scout<br>urban<br>crime<br>churn<br>father<br>jar |  
+| bip_39_word_new_br7 | scout<br>urban<br>crime<br>churn<br>father<br>jar<br>potato |  
+| bip_39_word_new_br8 | scout<br>urban<br>crime<br>churn<br>father<br>jar<br>potato<br>spirit |  
+| bip_39_word_new_br9 | scout<br>urban<br>crime<br>churn<br>father<br>jar<br>potato<br>spirit<br>tent |  
+| bip_39_word_new_line1 | scout |  
+| bip_39_word_new_line10 | scout
+urban
+crime
+churn
+father
+jar
+potato
+spirit
+tent
+wild |  
+| bip_39_word_new_line11 | scout
+urban
+crime
+churn
+father
+jar
+potato
+spirit
+tent
+wild
+silk |  
+| bip_39_word_new_line12 | scout
+urban
+crime
+churn
+father
+jar
+potato
+spirit
+tent
+wild
+silk
+admit |  
+| bip_39_word_new_line2 | scout
+urban |  
+| bip_39_word_new_line3 | scout
+urban
+crime |  
+| bip_39_word_new_line4 | scout
+urban
+crime
+churn |  
+| bip_39_word_new_line5 | scout
+urban
+crime
+churn
+father |  
+| bip_39_word_new_line6 | scout
+urban
+crime
+churn
+father
+jar |  
+| bip_39_word_new_line7 | scout
+urban
+crime
+churn
+father
+jar
+potato |  
+| bip_39_word_new_line8 | scout
+urban
+crime
+churn
+father
+jar
+potato
+spirit |  
+| bip_39_word_new_line9 | scout
+urban
+crime
+churn
+father
+jar
+potato
+spirit
+tent |  
+| bip_39_word_space_0 | ['scout', 'urban', 'crime', 'churn', 'father', 'jar', 'potato', 'spirit', 'tent', 'wild', 'silk', 'admit'] |  
+| bip_39_word_space_1 | scout |  
+| bip_39_word_space_10 | scout urban crime churn father jar potato spirit tent wild |  
+| bip_39_word_space_11 | scout urban crime churn father jar potato spirit tent wild silk |  
+| bip_39_word_space_12 | scout urban crime churn father jar potato spirit tent wild silk admit |  
+| bip_39_word_space_2 | scout urban |  
+| bip_39_word_space_3 | scout urban crime |  
+| bip_39_word_space_4 | scout urban crime churn |  
+| bip_39_word_space_5 | scout urban crime churn father |  
+| bip_39_word_space_6 | scout urban crime churn father jar |  
+| bip_39_word_space_7 | scout urban crime churn father jar potato |  
+| bip_39_word_space_8 | scout urban crime churn father jar potato spirit |  
+| bip_39_word_space_9 | scout urban crime churn father jar potato spirit tent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

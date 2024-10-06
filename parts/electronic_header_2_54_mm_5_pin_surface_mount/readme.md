@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: february dismiss
+  * bip 39 word 3: february dismiss where
+  * bip 39 word: february dismiss where electric brain combine hold praise brown cave two angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | february |  
+| bip_39_word_new_br10 | february<br>dismiss<br>where<br>electric<br>brain<br>combine<br>hold<br>praise<br>brown<br>cave |  
+| bip_39_word_new_br11 | february<br>dismiss<br>where<br>electric<br>brain<br>combine<br>hold<br>praise<br>brown<br>cave<br>two |  
+| bip_39_word_new_br12 | february<br>dismiss<br>where<br>electric<br>brain<br>combine<br>hold<br>praise<br>brown<br>cave<br>two<br>angle |  
+| bip_39_word_new_br2 | february<br>dismiss |  
+| bip_39_word_new_br3 | february<br>dismiss<br>where |  
+| bip_39_word_new_br4 | february<br>dismiss<br>where<br>electric |  
+| bip_39_word_new_br5 | february<br>dismiss<br>where<br>electric<br>brain |  
+| bip_39_word_new_br6 | february<br>dismiss<br>where<br>electric<br>brain<br>combine |  
+| bip_39_word_new_br7 | february<br>dismiss<br>where<br>electric<br>brain<br>combine<br>hold |  
+| bip_39_word_new_br8 | february<br>dismiss<br>where<br>electric<br>brain<br>combine<br>hold<br>praise |  
+| bip_39_word_new_br9 | february<br>dismiss<br>where<br>electric<br>brain<br>combine<br>hold<br>praise<br>brown |  
+| bip_39_word_new_line1 | february |  
+| bip_39_word_new_line10 | february
+dismiss
+where
+electric
+brain
+combine
+hold
+praise
+brown
+cave |  
+| bip_39_word_new_line11 | february
+dismiss
+where
+electric
+brain
+combine
+hold
+praise
+brown
+cave
+two |  
+| bip_39_word_new_line12 | february
+dismiss
+where
+electric
+brain
+combine
+hold
+praise
+brown
+cave
+two
+angle |  
+| bip_39_word_new_line2 | february
+dismiss |  
+| bip_39_word_new_line3 | february
+dismiss
+where |  
+| bip_39_word_new_line4 | february
+dismiss
+where
+electric |  
+| bip_39_word_new_line5 | february
+dismiss
+where
+electric
+brain |  
+| bip_39_word_new_line6 | february
+dismiss
+where
+electric
+brain
+combine |  
+| bip_39_word_new_line7 | february
+dismiss
+where
+electric
+brain
+combine
+hold |  
+| bip_39_word_new_line8 | february
+dismiss
+where
+electric
+brain
+combine
+hold
+praise |  
+| bip_39_word_new_line9 | february
+dismiss
+where
+electric
+brain
+combine
+hold
+praise
+brown |  
+| bip_39_word_space_0 | ['february', 'dismiss', 'where', 'electric', 'brain', 'combine', 'hold', 'praise', 'brown', 'cave', 'two', 'angle'] |  
+| bip_39_word_space_1 | february |  
+| bip_39_word_space_10 | february dismiss where electric brain combine hold praise brown cave |  
+| bip_39_word_space_11 | february dismiss where electric brain combine hold praise brown cave two |  
+| bip_39_word_space_12 | february dismiss where electric brain combine hold praise brown cave two angle |  
+| bip_39_word_space_2 | february dismiss |  
+| bip_39_word_space_3 | february dismiss where |  
+| bip_39_word_space_4 | february dismiss where electric |  
+| bip_39_word_space_5 | february dismiss where electric brain |  
+| bip_39_word_space_6 | february dismiss where electric brain combine |  
+| bip_39_word_space_7 | february dismiss where electric brain combine hold |  
+| bip_39_word_space_8 | february dismiss where electric brain combine hold praise |  
+| bip_39_word_space_9 | february dismiss where electric brain combine hold praise brown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

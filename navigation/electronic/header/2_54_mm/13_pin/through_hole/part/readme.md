@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vintage exile
+  * bip 39 word 3: vintage exile shock
+  * bip 39 word: vintage exile shock sleep episode cruel produce impact genius enough hobby afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vintage |  
+| bip_39_word_new_br10 | vintage<br>exile<br>shock<br>sleep<br>episode<br>cruel<br>produce<br>impact<br>genius<br>enough |  
+| bip_39_word_new_br11 | vintage<br>exile<br>shock<br>sleep<br>episode<br>cruel<br>produce<br>impact<br>genius<br>enough<br>hobby |  
+| bip_39_word_new_br12 | vintage<br>exile<br>shock<br>sleep<br>episode<br>cruel<br>produce<br>impact<br>genius<br>enough<br>hobby<br>afford |  
+| bip_39_word_new_br2 | vintage<br>exile |  
+| bip_39_word_new_br3 | vintage<br>exile<br>shock |  
+| bip_39_word_new_br4 | vintage<br>exile<br>shock<br>sleep |  
+| bip_39_word_new_br5 | vintage<br>exile<br>shock<br>sleep<br>episode |  
+| bip_39_word_new_br6 | vintage<br>exile<br>shock<br>sleep<br>episode<br>cruel |  
+| bip_39_word_new_br7 | vintage<br>exile<br>shock<br>sleep<br>episode<br>cruel<br>produce |  
+| bip_39_word_new_br8 | vintage<br>exile<br>shock<br>sleep<br>episode<br>cruel<br>produce<br>impact |  
+| bip_39_word_new_br9 | vintage<br>exile<br>shock<br>sleep<br>episode<br>cruel<br>produce<br>impact<br>genius |  
+| bip_39_word_new_line1 | vintage |  
+| bip_39_word_new_line10 | vintage
+exile
+shock
+sleep
+episode
+cruel
+produce
+impact
+genius
+enough |  
+| bip_39_word_new_line11 | vintage
+exile
+shock
+sleep
+episode
+cruel
+produce
+impact
+genius
+enough
+hobby |  
+| bip_39_word_new_line12 | vintage
+exile
+shock
+sleep
+episode
+cruel
+produce
+impact
+genius
+enough
+hobby
+afford |  
+| bip_39_word_new_line2 | vintage
+exile |  
+| bip_39_word_new_line3 | vintage
+exile
+shock |  
+| bip_39_word_new_line4 | vintage
+exile
+shock
+sleep |  
+| bip_39_word_new_line5 | vintage
+exile
+shock
+sleep
+episode |  
+| bip_39_word_new_line6 | vintage
+exile
+shock
+sleep
+episode
+cruel |  
+| bip_39_word_new_line7 | vintage
+exile
+shock
+sleep
+episode
+cruel
+produce |  
+| bip_39_word_new_line8 | vintage
+exile
+shock
+sleep
+episode
+cruel
+produce
+impact |  
+| bip_39_word_new_line9 | vintage
+exile
+shock
+sleep
+episode
+cruel
+produce
+impact
+genius |  
+| bip_39_word_space_0 | ['vintage', 'exile', 'shock', 'sleep', 'episode', 'cruel', 'produce', 'impact', 'genius', 'enough', 'hobby', 'afford'] |  
+| bip_39_word_space_1 | vintage |  
+| bip_39_word_space_10 | vintage exile shock sleep episode cruel produce impact genius enough |  
+| bip_39_word_space_11 | vintage exile shock sleep episode cruel produce impact genius enough hobby |  
+| bip_39_word_space_12 | vintage exile shock sleep episode cruel produce impact genius enough hobby afford |  
+| bip_39_word_space_2 | vintage exile |  
+| bip_39_word_space_3 | vintage exile shock |  
+| bip_39_word_space_4 | vintage exile shock sleep |  
+| bip_39_word_space_5 | vintage exile shock sleep episode |  
+| bip_39_word_space_6 | vintage exile shock sleep episode cruel |  
+| bip_39_word_space_7 | vintage exile shock sleep episode cruel produce |  
+| bip_39_word_space_8 | vintage exile shock sleep episode cruel produce impact |  
+| bip_39_word_space_9 | vintage exile shock sleep episode cruel produce impact genius |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

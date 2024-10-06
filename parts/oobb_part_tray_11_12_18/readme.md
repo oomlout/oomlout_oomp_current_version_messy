@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dutch ripple
+  * bip 39 word 3: dutch ripple security
+  * bip 39 word: dutch ripple security gas floor orbit west twenty host ocean fine ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dutch |  
+| bip_39_word_new_br10 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean |  
+| bip_39_word_new_br11 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean<br>fine |  
+| bip_39_word_new_br12 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host<br>ocean<br>fine<br>ability |  
+| bip_39_word_new_br2 | dutch<br>ripple |  
+| bip_39_word_new_br3 | dutch<br>ripple<br>security |  
+| bip_39_word_new_br4 | dutch<br>ripple<br>security<br>gas |  
+| bip_39_word_new_br5 | dutch<br>ripple<br>security<br>gas<br>floor |  
+| bip_39_word_new_br6 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit |  
+| bip_39_word_new_br7 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west |  
+| bip_39_word_new_br8 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty |  
+| bip_39_word_new_br9 | dutch<br>ripple<br>security<br>gas<br>floor<br>orbit<br>west<br>twenty<br>host |  
+| bip_39_word_new_line1 | dutch |  
+| bip_39_word_new_line10 | dutch
+ripple
+security
+gas
+floor
+orbit
+west
+twenty
+host
+ocean |  
+| bip_39_word_new_line11 | dutch
+ripple
+security
+gas
+floor
+orbit
+west
+twenty
+host
+ocean
+fine |  
+| bip_39_word_new_line12 | dutch
+ripple
+security
+gas
+floor
+orbit
+west
+twenty
+host
+ocean
+fine
+ability |  
+| bip_39_word_new_line2 | dutch
+ripple |  
+| bip_39_word_new_line3 | dutch
+ripple
+security |  
+| bip_39_word_new_line4 | dutch
+ripple
+security
+gas |  
+| bip_39_word_new_line5 | dutch
+ripple
+security
+gas
+floor |  
+| bip_39_word_new_line6 | dutch
+ripple
+security
+gas
+floor
+orbit |  
+| bip_39_word_new_line7 | dutch
+ripple
+security
+gas
+floor
+orbit
+west |  
+| bip_39_word_new_line8 | dutch
+ripple
+security
+gas
+floor
+orbit
+west
+twenty |  
+| bip_39_word_new_line9 | dutch
+ripple
+security
+gas
+floor
+orbit
+west
+twenty
+host |  
+| bip_39_word_space_0 | ['dutch', 'ripple', 'security', 'gas', 'floor', 'orbit', 'west', 'twenty', 'host', 'ocean', 'fine', 'ability'] |  
+| bip_39_word_space_1 | dutch |  
+| bip_39_word_space_10 | dutch ripple security gas floor orbit west twenty host ocean |  
+| bip_39_word_space_11 | dutch ripple security gas floor orbit west twenty host ocean fine |  
+| bip_39_word_space_12 | dutch ripple security gas floor orbit west twenty host ocean fine ability |  
+| bip_39_word_space_2 | dutch ripple |  
+| bip_39_word_space_3 | dutch ripple security |  
+| bip_39_word_space_4 | dutch ripple security gas |  
+| bip_39_word_space_5 | dutch ripple security gas floor |  
+| bip_39_word_space_6 | dutch ripple security gas floor orbit |  
+| bip_39_word_space_7 | dutch ripple security gas floor orbit west |  
+| bip_39_word_space_8 | dutch ripple security gas floor orbit west twenty |  
+| bip_39_word_space_9 | dutch ripple security gas floor orbit west twenty host |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

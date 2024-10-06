@@ -1,3 +1,185 @@
+bip_39_word_new_br1: chief
+bip_39_word_new_br10: chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert<br>arrow<br>save<br>task<br>six
+bip_39_word_new_br11: chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert<br>arrow<br>save<br>task<br>six<br>other
+bip_39_word_new_br12: chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert<br>arrow<br>save<br>task<br>six<br>other<br>announce
+bip_39_word_new_br2: chief<br>galaxy
+bip_39_word_new_br3: chief<br>galaxy<br>rebel
+bip_39_word_new_br4: chief<br>galaxy<br>rebel<br>fragile
+bip_39_word_new_br5: chief<br>galaxy<br>rebel<br>fragile<br>civil
+bip_39_word_new_br6: chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert
+bip_39_word_new_br7: chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert<br>arrow
+bip_39_word_new_br8: chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert<br>arrow<br>save
+bip_39_word_new_br9: chief<br>galaxy<br>rebel<br>fragile<br>civil<br>alert<br>arrow<br>save<br>task
+bip_39_word_new_line1: chief
+bip_39_word_new_line10: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile
+
+  civil
+
+  alert
+
+  arrow
+
+  save
+
+  task
+
+  six'
+bip_39_word_new_line11: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile
+
+  civil
+
+  alert
+
+  arrow
+
+  save
+
+  task
+
+  six
+
+  other'
+bip_39_word_new_line12: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile
+
+  civil
+
+  alert
+
+  arrow
+
+  save
+
+  task
+
+  six
+
+  other
+
+  announce'
+bip_39_word_new_line2: 'chief
+
+  galaxy'
+bip_39_word_new_line3: 'chief
+
+  galaxy
+
+  rebel'
+bip_39_word_new_line4: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile'
+bip_39_word_new_line5: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile
+
+  civil'
+bip_39_word_new_line6: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile
+
+  civil
+
+  alert'
+bip_39_word_new_line7: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile
+
+  civil
+
+  alert
+
+  arrow'
+bip_39_word_new_line8: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile
+
+  civil
+
+  alert
+
+  arrow
+
+  save'
+bip_39_word_new_line9: 'chief
+
+  galaxy
+
+  rebel
+
+  fragile
+
+  civil
+
+  alert
+
+  arrow
+
+  save
+
+  task'
+bip_39_word_space_0:
+- chief
+- galaxy
+- rebel
+- fragile
+- civil
+- alert
+- arrow
+- save
+- task
+- six
+- other
+- announce
+bip_39_word_space_1: chief
+bip_39_word_space_10: chief galaxy rebel fragile civil alert arrow save task six
+bip_39_word_space_11: chief galaxy rebel fragile civil alert arrow save task six other
+bip_39_word_space_12: chief galaxy rebel fragile civil alert arrow save task six other
+  announce
+bip_39_word_space_2: chief galaxy
+bip_39_word_space_3: chief galaxy rebel
+bip_39_word_space_4: chief galaxy rebel fragile
+bip_39_word_space_5: chief galaxy rebel fragile civil
+bip_39_word_space_6: chief galaxy rebel fragile civil alert
+bip_39_word_space_7: chief galaxy rebel fragile civil alert arrow
+bip_39_word_space_8: chief galaxy rebel fragile civil alert arrow save
+bip_39_word_space_9: chief galaxy rebel fragile civil alert arrow save task
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

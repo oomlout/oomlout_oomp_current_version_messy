@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: legend coffee
+  * bip 39 word 3: legend coffee boil
+  * bip 39 word: legend coffee boil vague win radio meadow tumble problem embark guilt athlete
 
 ### other_codes
 * short_code: so3br6sn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | legend |  
+| bip_39_word_new_br10 | legend<br>coffee<br>boil<br>vague<br>win<br>radio<br>meadow<br>tumble<br>problem<br>embark |  
+| bip_39_word_new_br11 | legend<br>coffee<br>boil<br>vague<br>win<br>radio<br>meadow<br>tumble<br>problem<br>embark<br>guilt |  
+| bip_39_word_new_br12 | legend<br>coffee<br>boil<br>vague<br>win<br>radio<br>meadow<br>tumble<br>problem<br>embark<br>guilt<br>athlete |  
+| bip_39_word_new_br2 | legend<br>coffee |  
+| bip_39_word_new_br3 | legend<br>coffee<br>boil |  
+| bip_39_word_new_br4 | legend<br>coffee<br>boil<br>vague |  
+| bip_39_word_new_br5 | legend<br>coffee<br>boil<br>vague<br>win |  
+| bip_39_word_new_br6 | legend<br>coffee<br>boil<br>vague<br>win<br>radio |  
+| bip_39_word_new_br7 | legend<br>coffee<br>boil<br>vague<br>win<br>radio<br>meadow |  
+| bip_39_word_new_br8 | legend<br>coffee<br>boil<br>vague<br>win<br>radio<br>meadow<br>tumble |  
+| bip_39_word_new_br9 | legend<br>coffee<br>boil<br>vague<br>win<br>radio<br>meadow<br>tumble<br>problem |  
+| bip_39_word_new_line1 | legend |  
+| bip_39_word_new_line10 | legend
+coffee
+boil
+vague
+win
+radio
+meadow
+tumble
+problem
+embark |  
+| bip_39_word_new_line11 | legend
+coffee
+boil
+vague
+win
+radio
+meadow
+tumble
+problem
+embark
+guilt |  
+| bip_39_word_new_line12 | legend
+coffee
+boil
+vague
+win
+radio
+meadow
+tumble
+problem
+embark
+guilt
+athlete |  
+| bip_39_word_new_line2 | legend
+coffee |  
+| bip_39_word_new_line3 | legend
+coffee
+boil |  
+| bip_39_word_new_line4 | legend
+coffee
+boil
+vague |  
+| bip_39_word_new_line5 | legend
+coffee
+boil
+vague
+win |  
+| bip_39_word_new_line6 | legend
+coffee
+boil
+vague
+win
+radio |  
+| bip_39_word_new_line7 | legend
+coffee
+boil
+vague
+win
+radio
+meadow |  
+| bip_39_word_new_line8 | legend
+coffee
+boil
+vague
+win
+radio
+meadow
+tumble |  
+| bip_39_word_new_line9 | legend
+coffee
+boil
+vague
+win
+radio
+meadow
+tumble
+problem |  
+| bip_39_word_space_0 | ['legend', 'coffee', 'boil', 'vague', 'win', 'radio', 'meadow', 'tumble', 'problem', 'embark', 'guilt', 'athlete'] |  
+| bip_39_word_space_1 | legend |  
+| bip_39_word_space_10 | legend coffee boil vague win radio meadow tumble problem embark |  
+| bip_39_word_space_11 | legend coffee boil vague win radio meadow tumble problem embark guilt |  
+| bip_39_word_space_12 | legend coffee boil vague win radio meadow tumble problem embark guilt athlete |  
+| bip_39_word_space_2 | legend coffee |  
+| bip_39_word_space_3 | legend coffee boil |  
+| bip_39_word_space_4 | legend coffee boil vague |  
+| bip_39_word_space_5 | legend coffee boil vague win |  
+| bip_39_word_space_6 | legend coffee boil vague win radio |  
+| bip_39_word_space_7 | legend coffee boil vague win radio meadow |  
+| bip_39_word_space_8 | legend coffee boil vague win radio meadow tumble |  
+| bip_39_word_space_9 | legend coffee boil vague win radio meadow tumble problem |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

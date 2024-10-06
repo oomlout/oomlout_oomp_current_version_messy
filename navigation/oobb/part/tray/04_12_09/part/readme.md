@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: either verb
+  * bip 39 word 3: either verb estate
+  * bip 39 word: either verb estate burden laptop doctor safe stone release blossom receive among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | either |  
+| bip_39_word_new_br10 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release<br>blossom |  
+| bip_39_word_new_br11 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release<br>blossom<br>receive |  
+| bip_39_word_new_br12 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release<br>blossom<br>receive<br>among |  
+| bip_39_word_new_br2 | either<br>verb |  
+| bip_39_word_new_br3 | either<br>verb<br>estate |  
+| bip_39_word_new_br4 | either<br>verb<br>estate<br>burden |  
+| bip_39_word_new_br5 | either<br>verb<br>estate<br>burden<br>laptop |  
+| bip_39_word_new_br6 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor |  
+| bip_39_word_new_br7 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe |  
+| bip_39_word_new_br8 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone |  
+| bip_39_word_new_br9 | either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release |  
+| bip_39_word_new_line1 | either |  
+| bip_39_word_new_line10 | either
+verb
+estate
+burden
+laptop
+doctor
+safe
+stone
+release
+blossom |  
+| bip_39_word_new_line11 | either
+verb
+estate
+burden
+laptop
+doctor
+safe
+stone
+release
+blossom
+receive |  
+| bip_39_word_new_line12 | either
+verb
+estate
+burden
+laptop
+doctor
+safe
+stone
+release
+blossom
+receive
+among |  
+| bip_39_word_new_line2 | either
+verb |  
+| bip_39_word_new_line3 | either
+verb
+estate |  
+| bip_39_word_new_line4 | either
+verb
+estate
+burden |  
+| bip_39_word_new_line5 | either
+verb
+estate
+burden
+laptop |  
+| bip_39_word_new_line6 | either
+verb
+estate
+burden
+laptop
+doctor |  
+| bip_39_word_new_line7 | either
+verb
+estate
+burden
+laptop
+doctor
+safe |  
+| bip_39_word_new_line8 | either
+verb
+estate
+burden
+laptop
+doctor
+safe
+stone |  
+| bip_39_word_new_line9 | either
+verb
+estate
+burden
+laptop
+doctor
+safe
+stone
+release |  
+| bip_39_word_space_0 | ['either', 'verb', 'estate', 'burden', 'laptop', 'doctor', 'safe', 'stone', 'release', 'blossom', 'receive', 'among'] |  
+| bip_39_word_space_1 | either |  
+| bip_39_word_space_10 | either verb estate burden laptop doctor safe stone release blossom |  
+| bip_39_word_space_11 | either verb estate burden laptop doctor safe stone release blossom receive |  
+| bip_39_word_space_12 | either verb estate burden laptop doctor safe stone release blossom receive among |  
+| bip_39_word_space_2 | either verb |  
+| bip_39_word_space_3 | either verb estate |  
+| bip_39_word_space_4 | either verb estate burden |  
+| bip_39_word_space_5 | either verb estate burden laptop |  
+| bip_39_word_space_6 | either verb estate burden laptop doctor |  
+| bip_39_word_space_7 | either verb estate burden laptop doctor safe |  
+| bip_39_word_space_8 | either verb estate burden laptop doctor safe stone |  
+| bip_39_word_space_9 | either verb estate burden laptop doctor safe stone release |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: donate fortune
+  * bip 39 word 3: donate fortune sorry
+  * bip 39 word: donate fortune sorry history scrap loan regret helmet tuition female there access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | donate |  
+| bip_39_word_new_br10 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan<br>regret<br>helmet<br>tuition<br>female |  
+| bip_39_word_new_br11 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan<br>regret<br>helmet<br>tuition<br>female<br>there |  
+| bip_39_word_new_br12 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan<br>regret<br>helmet<br>tuition<br>female<br>there<br>access |  
+| bip_39_word_new_br2 | donate<br>fortune |  
+| bip_39_word_new_br3 | donate<br>fortune<br>sorry |  
+| bip_39_word_new_br4 | donate<br>fortune<br>sorry<br>history |  
+| bip_39_word_new_br5 | donate<br>fortune<br>sorry<br>history<br>scrap |  
+| bip_39_word_new_br6 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan |  
+| bip_39_word_new_br7 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan<br>regret |  
+| bip_39_word_new_br8 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan<br>regret<br>helmet |  
+| bip_39_word_new_br9 | donate<br>fortune<br>sorry<br>history<br>scrap<br>loan<br>regret<br>helmet<br>tuition |  
+| bip_39_word_new_line1 | donate |  
+| bip_39_word_new_line10 | donate
+fortune
+sorry
+history
+scrap
+loan
+regret
+helmet
+tuition
+female |  
+| bip_39_word_new_line11 | donate
+fortune
+sorry
+history
+scrap
+loan
+regret
+helmet
+tuition
+female
+there |  
+| bip_39_word_new_line12 | donate
+fortune
+sorry
+history
+scrap
+loan
+regret
+helmet
+tuition
+female
+there
+access |  
+| bip_39_word_new_line2 | donate
+fortune |  
+| bip_39_word_new_line3 | donate
+fortune
+sorry |  
+| bip_39_word_new_line4 | donate
+fortune
+sorry
+history |  
+| bip_39_word_new_line5 | donate
+fortune
+sorry
+history
+scrap |  
+| bip_39_word_new_line6 | donate
+fortune
+sorry
+history
+scrap
+loan |  
+| bip_39_word_new_line7 | donate
+fortune
+sorry
+history
+scrap
+loan
+regret |  
+| bip_39_word_new_line8 | donate
+fortune
+sorry
+history
+scrap
+loan
+regret
+helmet |  
+| bip_39_word_new_line9 | donate
+fortune
+sorry
+history
+scrap
+loan
+regret
+helmet
+tuition |  
+| bip_39_word_space_0 | ['donate', 'fortune', 'sorry', 'history', 'scrap', 'loan', 'regret', 'helmet', 'tuition', 'female', 'there', 'access'] |  
+| bip_39_word_space_1 | donate |  
+| bip_39_word_space_10 | donate fortune sorry history scrap loan regret helmet tuition female |  
+| bip_39_word_space_11 | donate fortune sorry history scrap loan regret helmet tuition female there |  
+| bip_39_word_space_12 | donate fortune sorry history scrap loan regret helmet tuition female there access |  
+| bip_39_word_space_2 | donate fortune |  
+| bip_39_word_space_3 | donate fortune sorry |  
+| bip_39_word_space_4 | donate fortune sorry history |  
+| bip_39_word_space_5 | donate fortune sorry history scrap |  
+| bip_39_word_space_6 | donate fortune sorry history scrap loan |  
+| bip_39_word_space_7 | donate fortune sorry history scrap loan regret |  
+| bip_39_word_space_8 | donate fortune sorry history scrap loan regret helmet |  
+| bip_39_word_space_9 | donate fortune sorry history scrap loan regret helmet tuition |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

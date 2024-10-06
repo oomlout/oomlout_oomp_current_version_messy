@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faint agree
+  * bip 39 word 3: faint agree body
+  * bip 39 word: faint agree body subject dog round barrel rice you sweet throw accuse
 
 ### other_codes
 * short_code: n6nw
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faint |  
+| bip_39_word_new_br10 | faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you<br>sweet |  
+| bip_39_word_new_br11 | faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you<br>sweet<br>throw |  
+| bip_39_word_new_br12 | faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you<br>sweet<br>throw<br>accuse |  
+| bip_39_word_new_br2 | faint<br>agree |  
+| bip_39_word_new_br3 | faint<br>agree<br>body |  
+| bip_39_word_new_br4 | faint<br>agree<br>body<br>subject |  
+| bip_39_word_new_br5 | faint<br>agree<br>body<br>subject<br>dog |  
+| bip_39_word_new_br6 | faint<br>agree<br>body<br>subject<br>dog<br>round |  
+| bip_39_word_new_br7 | faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel |  
+| bip_39_word_new_br8 | faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice |  
+| bip_39_word_new_br9 | faint<br>agree<br>body<br>subject<br>dog<br>round<br>barrel<br>rice<br>you |  
+| bip_39_word_new_line1 | faint |  
+| bip_39_word_new_line10 | faint
+agree
+body
+subject
+dog
+round
+barrel
+rice
+you
+sweet |  
+| bip_39_word_new_line11 | faint
+agree
+body
+subject
+dog
+round
+barrel
+rice
+you
+sweet
+throw |  
+| bip_39_word_new_line12 | faint
+agree
+body
+subject
+dog
+round
+barrel
+rice
+you
+sweet
+throw
+accuse |  
+| bip_39_word_new_line2 | faint
+agree |  
+| bip_39_word_new_line3 | faint
+agree
+body |  
+| bip_39_word_new_line4 | faint
+agree
+body
+subject |  
+| bip_39_word_new_line5 | faint
+agree
+body
+subject
+dog |  
+| bip_39_word_new_line6 | faint
+agree
+body
+subject
+dog
+round |  
+| bip_39_word_new_line7 | faint
+agree
+body
+subject
+dog
+round
+barrel |  
+| bip_39_word_new_line8 | faint
+agree
+body
+subject
+dog
+round
+barrel
+rice |  
+| bip_39_word_new_line9 | faint
+agree
+body
+subject
+dog
+round
+barrel
+rice
+you |  
+| bip_39_word_space_0 | ['faint', 'agree', 'body', 'subject', 'dog', 'round', 'barrel', 'rice', 'you', 'sweet', 'throw', 'accuse'] |  
+| bip_39_word_space_1 | faint |  
+| bip_39_word_space_10 | faint agree body subject dog round barrel rice you sweet |  
+| bip_39_word_space_11 | faint agree body subject dog round barrel rice you sweet throw |  
+| bip_39_word_space_12 | faint agree body subject dog round barrel rice you sweet throw accuse |  
+| bip_39_word_space_2 | faint agree |  
+| bip_39_word_space_3 | faint agree body |  
+| bip_39_word_space_4 | faint agree body subject |  
+| bip_39_word_space_5 | faint agree body subject dog |  
+| bip_39_word_space_6 | faint agree body subject dog round |  
+| bip_39_word_space_7 | faint agree body subject dog round barrel |  
+| bip_39_word_space_8 | faint agree body subject dog round barrel rice |  
+| bip_39_word_space_9 | faint agree body subject dog round barrel rice you |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

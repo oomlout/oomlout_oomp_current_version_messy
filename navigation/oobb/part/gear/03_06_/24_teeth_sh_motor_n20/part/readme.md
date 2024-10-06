@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cabin long
+  * bip 39 word 3: cabin long vicious
+  * bip 39 word: cabin long vicious reward mixed ship forum scheme february salmon vote apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cabin |  
+| bip_39_word_new_br10 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february<br>salmon |  
+| bip_39_word_new_br11 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february<br>salmon<br>vote |  
+| bip_39_word_new_br12 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february<br>salmon<br>vote<br>apart |  
+| bip_39_word_new_br2 | cabin<br>long |  
+| bip_39_word_new_br3 | cabin<br>long<br>vicious |  
+| bip_39_word_new_br4 | cabin<br>long<br>vicious<br>reward |  
+| bip_39_word_new_br5 | cabin<br>long<br>vicious<br>reward<br>mixed |  
+| bip_39_word_new_br6 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship |  
+| bip_39_word_new_br7 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum |  
+| bip_39_word_new_br8 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme |  
+| bip_39_word_new_br9 | cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february |  
+| bip_39_word_new_line1 | cabin |  
+| bip_39_word_new_line10 | cabin
+long
+vicious
+reward
+mixed
+ship
+forum
+scheme
+february
+salmon |  
+| bip_39_word_new_line11 | cabin
+long
+vicious
+reward
+mixed
+ship
+forum
+scheme
+february
+salmon
+vote |  
+| bip_39_word_new_line12 | cabin
+long
+vicious
+reward
+mixed
+ship
+forum
+scheme
+february
+salmon
+vote
+apart |  
+| bip_39_word_new_line2 | cabin
+long |  
+| bip_39_word_new_line3 | cabin
+long
+vicious |  
+| bip_39_word_new_line4 | cabin
+long
+vicious
+reward |  
+| bip_39_word_new_line5 | cabin
+long
+vicious
+reward
+mixed |  
+| bip_39_word_new_line6 | cabin
+long
+vicious
+reward
+mixed
+ship |  
+| bip_39_word_new_line7 | cabin
+long
+vicious
+reward
+mixed
+ship
+forum |  
+| bip_39_word_new_line8 | cabin
+long
+vicious
+reward
+mixed
+ship
+forum
+scheme |  
+| bip_39_word_new_line9 | cabin
+long
+vicious
+reward
+mixed
+ship
+forum
+scheme
+february |  
+| bip_39_word_space_0 | ['cabin', 'long', 'vicious', 'reward', 'mixed', 'ship', 'forum', 'scheme', 'february', 'salmon', 'vote', 'apart'] |  
+| bip_39_word_space_1 | cabin |  
+| bip_39_word_space_10 | cabin long vicious reward mixed ship forum scheme february salmon |  
+| bip_39_word_space_11 | cabin long vicious reward mixed ship forum scheme february salmon vote |  
+| bip_39_word_space_12 | cabin long vicious reward mixed ship forum scheme february salmon vote apart |  
+| bip_39_word_space_2 | cabin long |  
+| bip_39_word_space_3 | cabin long vicious |  
+| bip_39_word_space_4 | cabin long vicious reward |  
+| bip_39_word_space_5 | cabin long vicious reward mixed |  
+| bip_39_word_space_6 | cabin long vicious reward mixed ship |  
+| bip_39_word_space_7 | cabin long vicious reward mixed ship forum |  
+| bip_39_word_space_8 | cabin long vicious reward mixed ship forum scheme |  
+| bip_39_word_space_9 | cabin long vicious reward mixed ship forum scheme february |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

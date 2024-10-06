@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dial cactus
+  * bip 39 word 3: dial cactus bench
+  * bip 39 word: dial cactus bench tail roof thrive artist abandon pact time behind air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dial |  
+| bip_39_word_new_br10 | dial<br>cactus<br>bench<br>tail<br>roof<br>thrive<br>artist<br>abandon<br>pact<br>time |  
+| bip_39_word_new_br11 | dial<br>cactus<br>bench<br>tail<br>roof<br>thrive<br>artist<br>abandon<br>pact<br>time<br>behind |  
+| bip_39_word_new_br12 | dial<br>cactus<br>bench<br>tail<br>roof<br>thrive<br>artist<br>abandon<br>pact<br>time<br>behind<br>air |  
+| bip_39_word_new_br2 | dial<br>cactus |  
+| bip_39_word_new_br3 | dial<br>cactus<br>bench |  
+| bip_39_word_new_br4 | dial<br>cactus<br>bench<br>tail |  
+| bip_39_word_new_br5 | dial<br>cactus<br>bench<br>tail<br>roof |  
+| bip_39_word_new_br6 | dial<br>cactus<br>bench<br>tail<br>roof<br>thrive |  
+| bip_39_word_new_br7 | dial<br>cactus<br>bench<br>tail<br>roof<br>thrive<br>artist |  
+| bip_39_word_new_br8 | dial<br>cactus<br>bench<br>tail<br>roof<br>thrive<br>artist<br>abandon |  
+| bip_39_word_new_br9 | dial<br>cactus<br>bench<br>tail<br>roof<br>thrive<br>artist<br>abandon<br>pact |  
+| bip_39_word_new_line1 | dial |  
+| bip_39_word_new_line10 | dial
+cactus
+bench
+tail
+roof
+thrive
+artist
+abandon
+pact
+time |  
+| bip_39_word_new_line11 | dial
+cactus
+bench
+tail
+roof
+thrive
+artist
+abandon
+pact
+time
+behind |  
+| bip_39_word_new_line12 | dial
+cactus
+bench
+tail
+roof
+thrive
+artist
+abandon
+pact
+time
+behind
+air |  
+| bip_39_word_new_line2 | dial
+cactus |  
+| bip_39_word_new_line3 | dial
+cactus
+bench |  
+| bip_39_word_new_line4 | dial
+cactus
+bench
+tail |  
+| bip_39_word_new_line5 | dial
+cactus
+bench
+tail
+roof |  
+| bip_39_word_new_line6 | dial
+cactus
+bench
+tail
+roof
+thrive |  
+| bip_39_word_new_line7 | dial
+cactus
+bench
+tail
+roof
+thrive
+artist |  
+| bip_39_word_new_line8 | dial
+cactus
+bench
+tail
+roof
+thrive
+artist
+abandon |  
+| bip_39_word_new_line9 | dial
+cactus
+bench
+tail
+roof
+thrive
+artist
+abandon
+pact |  
+| bip_39_word_space_0 | ['dial', 'cactus', 'bench', 'tail', 'roof', 'thrive', 'artist', 'abandon', 'pact', 'time', 'behind', 'air'] |  
+| bip_39_word_space_1 | dial |  
+| bip_39_word_space_10 | dial cactus bench tail roof thrive artist abandon pact time |  
+| bip_39_word_space_11 | dial cactus bench tail roof thrive artist abandon pact time behind |  
+| bip_39_word_space_12 | dial cactus bench tail roof thrive artist abandon pact time behind air |  
+| bip_39_word_space_2 | dial cactus |  
+| bip_39_word_space_3 | dial cactus bench |  
+| bip_39_word_space_4 | dial cactus bench tail |  
+| bip_39_word_space_5 | dial cactus bench tail roof |  
+| bip_39_word_space_6 | dial cactus bench tail roof thrive |  
+| bip_39_word_space_7 | dial cactus bench tail roof thrive artist |  
+| bip_39_word_space_8 | dial cactus bench tail roof thrive artist abandon |  
+| bip_39_word_space_9 | dial cactus bench tail roof thrive artist abandon pact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

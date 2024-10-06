@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 12d0_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swallow pet
+  * bip 39 word 3: swallow pet include
+  * bip 39 word: swallow pet include crop hollow era limb cup fiscal best model appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swallow |  
+| bip_39_word_new_br10 | swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal<br>best |  
+| bip_39_word_new_br11 | swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal<br>best<br>model |  
+| bip_39_word_new_br12 | swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal<br>best<br>model<br>appear |  
+| bip_39_word_new_br2 | swallow<br>pet |  
+| bip_39_word_new_br3 | swallow<br>pet<br>include |  
+| bip_39_word_new_br4 | swallow<br>pet<br>include<br>crop |  
+| bip_39_word_new_br5 | swallow<br>pet<br>include<br>crop<br>hollow |  
+| bip_39_word_new_br6 | swallow<br>pet<br>include<br>crop<br>hollow<br>era |  
+| bip_39_word_new_br7 | swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb |  
+| bip_39_word_new_br8 | swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup |  
+| bip_39_word_new_br9 | swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal |  
+| bip_39_word_new_line1 | swallow |  
+| bip_39_word_new_line10 | swallow
+pet
+include
+crop
+hollow
+era
+limb
+cup
+fiscal
+best |  
+| bip_39_word_new_line11 | swallow
+pet
+include
+crop
+hollow
+era
+limb
+cup
+fiscal
+best
+model |  
+| bip_39_word_new_line12 | swallow
+pet
+include
+crop
+hollow
+era
+limb
+cup
+fiscal
+best
+model
+appear |  
+| bip_39_word_new_line2 | swallow
+pet |  
+| bip_39_word_new_line3 | swallow
+pet
+include |  
+| bip_39_word_new_line4 | swallow
+pet
+include
+crop |  
+| bip_39_word_new_line5 | swallow
+pet
+include
+crop
+hollow |  
+| bip_39_word_new_line6 | swallow
+pet
+include
+crop
+hollow
+era |  
+| bip_39_word_new_line7 | swallow
+pet
+include
+crop
+hollow
+era
+limb |  
+| bip_39_word_new_line8 | swallow
+pet
+include
+crop
+hollow
+era
+limb
+cup |  
+| bip_39_word_new_line9 | swallow
+pet
+include
+crop
+hollow
+era
+limb
+cup
+fiscal |  
+| bip_39_word_space_0 | ['swallow', 'pet', 'include', 'crop', 'hollow', 'era', 'limb', 'cup', 'fiscal', 'best', 'model', 'appear'] |  
+| bip_39_word_space_1 | swallow |  
+| bip_39_word_space_10 | swallow pet include crop hollow era limb cup fiscal best |  
+| bip_39_word_space_11 | swallow pet include crop hollow era limb cup fiscal best model |  
+| bip_39_word_space_12 | swallow pet include crop hollow era limb cup fiscal best model appear |  
+| bip_39_word_space_2 | swallow pet |  
+| bip_39_word_space_3 | swallow pet include |  
+| bip_39_word_space_4 | swallow pet include crop |  
+| bip_39_word_space_5 | swallow pet include crop hollow |  
+| bip_39_word_space_6 | swallow pet include crop hollow era |  
+| bip_39_word_space_7 | swallow pet include crop hollow era limb |  
+| bip_39_word_space_8 | swallow pet include crop hollow era limb cup |  
+| bip_39_word_space_9 | swallow pet include crop hollow era limb cup fiscal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

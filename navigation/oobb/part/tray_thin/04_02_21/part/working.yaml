@@ -1,3 +1,186 @@
+bip_39_word_new_br1: forest
+bip_39_word_new_br10: forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle<br>arrow<br>vital<br>poem<br>image
+bip_39_word_new_br11: forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle<br>arrow<br>vital<br>poem<br>image<br>abandon
+bip_39_word_new_br12: forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle<br>arrow<br>vital<br>poem<br>image<br>abandon<br>argue
+bip_39_word_new_br2: forest<br>dentist
+bip_39_word_new_br3: forest<br>dentist<br>apart
+bip_39_word_new_br4: forest<br>dentist<br>apart<br>punch
+bip_39_word_new_br5: forest<br>dentist<br>apart<br>punch<br>entry
+bip_39_word_new_br6: forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle
+bip_39_word_new_br7: forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle<br>arrow
+bip_39_word_new_br8: forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle<br>arrow<br>vital
+bip_39_word_new_br9: forest<br>dentist<br>apart<br>punch<br>entry<br>puzzle<br>arrow<br>vital<br>poem
+bip_39_word_new_line1: forest
+bip_39_word_new_line10: 'forest
+
+  dentist
+
+  apart
+
+  punch
+
+  entry
+
+  puzzle
+
+  arrow
+
+  vital
+
+  poem
+
+  image'
+bip_39_word_new_line11: 'forest
+
+  dentist
+
+  apart
+
+  punch
+
+  entry
+
+  puzzle
+
+  arrow
+
+  vital
+
+  poem
+
+  image
+
+  abandon'
+bip_39_word_new_line12: 'forest
+
+  dentist
+
+  apart
+
+  punch
+
+  entry
+
+  puzzle
+
+  arrow
+
+  vital
+
+  poem
+
+  image
+
+  abandon
+
+  argue'
+bip_39_word_new_line2: 'forest
+
+  dentist'
+bip_39_word_new_line3: 'forest
+
+  dentist
+
+  apart'
+bip_39_word_new_line4: 'forest
+
+  dentist
+
+  apart
+
+  punch'
+bip_39_word_new_line5: 'forest
+
+  dentist
+
+  apart
+
+  punch
+
+  entry'
+bip_39_word_new_line6: 'forest
+
+  dentist
+
+  apart
+
+  punch
+
+  entry
+
+  puzzle'
+bip_39_word_new_line7: 'forest
+
+  dentist
+
+  apart
+
+  punch
+
+  entry
+
+  puzzle
+
+  arrow'
+bip_39_word_new_line8: 'forest
+
+  dentist
+
+  apart
+
+  punch
+
+  entry
+
+  puzzle
+
+  arrow
+
+  vital'
+bip_39_word_new_line9: 'forest
+
+  dentist
+
+  apart
+
+  punch
+
+  entry
+
+  puzzle
+
+  arrow
+
+  vital
+
+  poem'
+bip_39_word_space_0:
+- forest
+- dentist
+- apart
+- punch
+- entry
+- puzzle
+- arrow
+- vital
+- poem
+- image
+- abandon
+- argue
+bip_39_word_space_1: forest
+bip_39_word_space_10: forest dentist apart punch entry puzzle arrow vital poem image
+bip_39_word_space_11: forest dentist apart punch entry puzzle arrow vital poem image
+  abandon
+bip_39_word_space_12: forest dentist apart punch entry puzzle arrow vital poem image
+  abandon argue
+bip_39_word_space_2: forest dentist
+bip_39_word_space_3: forest dentist apart
+bip_39_word_space_4: forest dentist apart punch
+bip_39_word_space_5: forest dentist apart punch entry
+bip_39_word_space_6: forest dentist apart punch entry puzzle
+bip_39_word_space_7: forest dentist apart punch entry puzzle arrow
+bip_39_word_space_8: forest dentist apart punch entry puzzle arrow vital
+bip_39_word_space_9: forest dentist apart punch entry puzzle arrow vital poem
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

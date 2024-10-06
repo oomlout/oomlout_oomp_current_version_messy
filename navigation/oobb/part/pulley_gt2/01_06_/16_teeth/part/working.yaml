@@ -1,3 +1,186 @@
+bip_39_word_new_br1: page
+bip_39_word_new_br10: page<br>angry<br>lumber<br>clay<br>arena<br>cactus<br>banana<br>vehicle<br>curtain<br>capable
+bip_39_word_new_br11: page<br>angry<br>lumber<br>clay<br>arena<br>cactus<br>banana<br>vehicle<br>curtain<br>capable<br>tray
+bip_39_word_new_br12: page<br>angry<br>lumber<br>clay<br>arena<br>cactus<br>banana<br>vehicle<br>curtain<br>capable<br>tray<br>album
+bip_39_word_new_br2: page<br>angry
+bip_39_word_new_br3: page<br>angry<br>lumber
+bip_39_word_new_br4: page<br>angry<br>lumber<br>clay
+bip_39_word_new_br5: page<br>angry<br>lumber<br>clay<br>arena
+bip_39_word_new_br6: page<br>angry<br>lumber<br>clay<br>arena<br>cactus
+bip_39_word_new_br7: page<br>angry<br>lumber<br>clay<br>arena<br>cactus<br>banana
+bip_39_word_new_br8: page<br>angry<br>lumber<br>clay<br>arena<br>cactus<br>banana<br>vehicle
+bip_39_word_new_br9: page<br>angry<br>lumber<br>clay<br>arena<br>cactus<br>banana<br>vehicle<br>curtain
+bip_39_word_new_line1: page
+bip_39_word_new_line10: 'page
+
+  angry
+
+  lumber
+
+  clay
+
+  arena
+
+  cactus
+
+  banana
+
+  vehicle
+
+  curtain
+
+  capable'
+bip_39_word_new_line11: 'page
+
+  angry
+
+  lumber
+
+  clay
+
+  arena
+
+  cactus
+
+  banana
+
+  vehicle
+
+  curtain
+
+  capable
+
+  tray'
+bip_39_word_new_line12: 'page
+
+  angry
+
+  lumber
+
+  clay
+
+  arena
+
+  cactus
+
+  banana
+
+  vehicle
+
+  curtain
+
+  capable
+
+  tray
+
+  album'
+bip_39_word_new_line2: 'page
+
+  angry'
+bip_39_word_new_line3: 'page
+
+  angry
+
+  lumber'
+bip_39_word_new_line4: 'page
+
+  angry
+
+  lumber
+
+  clay'
+bip_39_word_new_line5: 'page
+
+  angry
+
+  lumber
+
+  clay
+
+  arena'
+bip_39_word_new_line6: 'page
+
+  angry
+
+  lumber
+
+  clay
+
+  arena
+
+  cactus'
+bip_39_word_new_line7: 'page
+
+  angry
+
+  lumber
+
+  clay
+
+  arena
+
+  cactus
+
+  banana'
+bip_39_word_new_line8: 'page
+
+  angry
+
+  lumber
+
+  clay
+
+  arena
+
+  cactus
+
+  banana
+
+  vehicle'
+bip_39_word_new_line9: 'page
+
+  angry
+
+  lumber
+
+  clay
+
+  arena
+
+  cactus
+
+  banana
+
+  vehicle
+
+  curtain'
+bip_39_word_space_0:
+- page
+- angry
+- lumber
+- clay
+- arena
+- cactus
+- banana
+- vehicle
+- curtain
+- capable
+- tray
+- album
+bip_39_word_space_1: page
+bip_39_word_space_10: page angry lumber clay arena cactus banana vehicle curtain capable
+bip_39_word_space_11: page angry lumber clay arena cactus banana vehicle curtain capable
+  tray
+bip_39_word_space_12: page angry lumber clay arena cactus banana vehicle curtain capable
+  tray album
+bip_39_word_space_2: page angry
+bip_39_word_space_3: page angry lumber
+bip_39_word_space_4: page angry lumber clay
+bip_39_word_space_5: page angry lumber clay arena
+bip_39_word_space_6: page angry lumber clay arena cactus
+bip_39_word_space_7: page angry lumber clay arena cactus banana
+bip_39_word_space_8: page angry lumber clay arena cactus banana vehicle
+bip_39_word_space_9: page angry lumber clay arena cactus banana vehicle curtain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

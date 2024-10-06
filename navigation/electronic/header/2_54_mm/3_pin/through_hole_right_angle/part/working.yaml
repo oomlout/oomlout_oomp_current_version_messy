@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hour
+bip_39_word_new_br10: hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget
+bip_39_word_new_br11: hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget<br>cattle
+bip_39_word_new_br12: hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon<br>forget<br>cattle<br>acquire
+bip_39_word_new_br2: hour<br>brass
+bip_39_word_new_br3: hour<br>brass<br>pool
+bip_39_word_new_br4: hour<br>brass<br>pool<br>rebuild
+bip_39_word_new_br5: hour<br>brass<br>pool<br>rebuild<br>bullet
+bip_39_word_new_br6: hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose
+bip_39_word_new_br7: hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant
+bip_39_word_new_br8: hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit
+bip_39_word_new_br9: hour<br>brass<br>pool<br>rebuild<br>bullet<br>choose<br>peasant<br>kit<br>moon
+bip_39_word_new_line1: hour
+bip_39_word_new_line10: 'hour
+
+  brass
+
+  pool
+
+  rebuild
+
+  bullet
+
+  choose
+
+  peasant
+
+  kit
+
+  moon
+
+  forget'
+bip_39_word_new_line11: 'hour
+
+  brass
+
+  pool
+
+  rebuild
+
+  bullet
+
+  choose
+
+  peasant
+
+  kit
+
+  moon
+
+  forget
+
+  cattle'
+bip_39_word_new_line12: 'hour
+
+  brass
+
+  pool
+
+  rebuild
+
+  bullet
+
+  choose
+
+  peasant
+
+  kit
+
+  moon
+
+  forget
+
+  cattle
+
+  acquire'
+bip_39_word_new_line2: 'hour
+
+  brass'
+bip_39_word_new_line3: 'hour
+
+  brass
+
+  pool'
+bip_39_word_new_line4: 'hour
+
+  brass
+
+  pool
+
+  rebuild'
+bip_39_word_new_line5: 'hour
+
+  brass
+
+  pool
+
+  rebuild
+
+  bullet'
+bip_39_word_new_line6: 'hour
+
+  brass
+
+  pool
+
+  rebuild
+
+  bullet
+
+  choose'
+bip_39_word_new_line7: 'hour
+
+  brass
+
+  pool
+
+  rebuild
+
+  bullet
+
+  choose
+
+  peasant'
+bip_39_word_new_line8: 'hour
+
+  brass
+
+  pool
+
+  rebuild
+
+  bullet
+
+  choose
+
+  peasant
+
+  kit'
+bip_39_word_new_line9: 'hour
+
+  brass
+
+  pool
+
+  rebuild
+
+  bullet
+
+  choose
+
+  peasant
+
+  kit
+
+  moon'
+bip_39_word_space_0:
+- hour
+- brass
+- pool
+- rebuild
+- bullet
+- choose
+- peasant
+- kit
+- moon
+- forget
+- cattle
+- acquire
+bip_39_word_space_1: hour
+bip_39_word_space_10: hour brass pool rebuild bullet choose peasant kit moon forget
+bip_39_word_space_11: hour brass pool rebuild bullet choose peasant kit moon forget
+  cattle
+bip_39_word_space_12: hour brass pool rebuild bullet choose peasant kit moon forget
+  cattle acquire
+bip_39_word_space_2: hour brass
+bip_39_word_space_3: hour brass pool
+bip_39_word_space_4: hour brass pool rebuild
+bip_39_word_space_5: hour brass pool rebuild bullet
+bip_39_word_space_6: hour brass pool rebuild bullet choose
+bip_39_word_space_7: hour brass pool rebuild bullet choose peasant
+bip_39_word_space_8: hour brass pool rebuild bullet choose peasant kit
+bip_39_word_space_9: hour brass pool rebuild bullet choose peasant kit moon
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: able venue
+  * bip 39 word 3: able venue victory
+  * bip 39 word: able venue victory second deny asthma elevator renew trick someone hat alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | able |  
+| bip_39_word_new_br10 | able<br>venue<br>victory<br>second<br>deny<br>asthma<br>elevator<br>renew<br>trick<br>someone |  
+| bip_39_word_new_br11 | able<br>venue<br>victory<br>second<br>deny<br>asthma<br>elevator<br>renew<br>trick<br>someone<br>hat |  
+| bip_39_word_new_br12 | able<br>venue<br>victory<br>second<br>deny<br>asthma<br>elevator<br>renew<br>trick<br>someone<br>hat<br>alcohol |  
+| bip_39_word_new_br2 | able<br>venue |  
+| bip_39_word_new_br3 | able<br>venue<br>victory |  
+| bip_39_word_new_br4 | able<br>venue<br>victory<br>second |  
+| bip_39_word_new_br5 | able<br>venue<br>victory<br>second<br>deny |  
+| bip_39_word_new_br6 | able<br>venue<br>victory<br>second<br>deny<br>asthma |  
+| bip_39_word_new_br7 | able<br>venue<br>victory<br>second<br>deny<br>asthma<br>elevator |  
+| bip_39_word_new_br8 | able<br>venue<br>victory<br>second<br>deny<br>asthma<br>elevator<br>renew |  
+| bip_39_word_new_br9 | able<br>venue<br>victory<br>second<br>deny<br>asthma<br>elevator<br>renew<br>trick |  
+| bip_39_word_new_line1 | able |  
+| bip_39_word_new_line10 | able
+venue
+victory
+second
+deny
+asthma
+elevator
+renew
+trick
+someone |  
+| bip_39_word_new_line11 | able
+venue
+victory
+second
+deny
+asthma
+elevator
+renew
+trick
+someone
+hat |  
+| bip_39_word_new_line12 | able
+venue
+victory
+second
+deny
+asthma
+elevator
+renew
+trick
+someone
+hat
+alcohol |  
+| bip_39_word_new_line2 | able
+venue |  
+| bip_39_word_new_line3 | able
+venue
+victory |  
+| bip_39_word_new_line4 | able
+venue
+victory
+second |  
+| bip_39_word_new_line5 | able
+venue
+victory
+second
+deny |  
+| bip_39_word_new_line6 | able
+venue
+victory
+second
+deny
+asthma |  
+| bip_39_word_new_line7 | able
+venue
+victory
+second
+deny
+asthma
+elevator |  
+| bip_39_word_new_line8 | able
+venue
+victory
+second
+deny
+asthma
+elevator
+renew |  
+| bip_39_word_new_line9 | able
+venue
+victory
+second
+deny
+asthma
+elevator
+renew
+trick |  
+| bip_39_word_space_0 | ['able', 'venue', 'victory', 'second', 'deny', 'asthma', 'elevator', 'renew', 'trick', 'someone', 'hat', 'alcohol'] |  
+| bip_39_word_space_1 | able |  
+| bip_39_word_space_10 | able venue victory second deny asthma elevator renew trick someone |  
+| bip_39_word_space_11 | able venue victory second deny asthma elevator renew trick someone hat |  
+| bip_39_word_space_12 | able venue victory second deny asthma elevator renew trick someone hat alcohol |  
+| bip_39_word_space_2 | able venue |  
+| bip_39_word_space_3 | able venue victory |  
+| bip_39_word_space_4 | able venue victory second |  
+| bip_39_word_space_5 | able venue victory second deny |  
+| bip_39_word_space_6 | able venue victory second deny asthma |  
+| bip_39_word_space_7 | able venue victory second deny asthma elevator |  
+| bip_39_word_space_8 | able venue victory second deny asthma elevator renew |  
+| bip_39_word_space_9 | able venue victory second deny asthma elevator renew trick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

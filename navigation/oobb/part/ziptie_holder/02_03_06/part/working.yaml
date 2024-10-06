@@ -1,3 +1,186 @@
+bip_39_word_new_br1: width
+bip_39_word_new_br10: width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode
+bip_39_word_new_br11: width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode<br>one
+bip_39_word_new_br12: width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride<br>erode<br>one<br>action
+bip_39_word_new_br2: width<br>cruel
+bip_39_word_new_br3: width<br>cruel<br>lyrics
+bip_39_word_new_br4: width<br>cruel<br>lyrics<br>speed
+bip_39_word_new_br5: width<br>cruel<br>lyrics<br>speed<br>check
+bip_39_word_new_br6: width<br>cruel<br>lyrics<br>speed<br>check<br>fine
+bip_39_word_new_br7: width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task
+bip_39_word_new_br8: width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install
+bip_39_word_new_br9: width<br>cruel<br>lyrics<br>speed<br>check<br>fine<br>task<br>install<br>ride
+bip_39_word_new_line1: width
+bip_39_word_new_line10: 'width
+
+  cruel
+
+  lyrics
+
+  speed
+
+  check
+
+  fine
+
+  task
+
+  install
+
+  ride
+
+  erode'
+bip_39_word_new_line11: 'width
+
+  cruel
+
+  lyrics
+
+  speed
+
+  check
+
+  fine
+
+  task
+
+  install
+
+  ride
+
+  erode
+
+  one'
+bip_39_word_new_line12: 'width
+
+  cruel
+
+  lyrics
+
+  speed
+
+  check
+
+  fine
+
+  task
+
+  install
+
+  ride
+
+  erode
+
+  one
+
+  action'
+bip_39_word_new_line2: 'width
+
+  cruel'
+bip_39_word_new_line3: 'width
+
+  cruel
+
+  lyrics'
+bip_39_word_new_line4: 'width
+
+  cruel
+
+  lyrics
+
+  speed'
+bip_39_word_new_line5: 'width
+
+  cruel
+
+  lyrics
+
+  speed
+
+  check'
+bip_39_word_new_line6: 'width
+
+  cruel
+
+  lyrics
+
+  speed
+
+  check
+
+  fine'
+bip_39_word_new_line7: 'width
+
+  cruel
+
+  lyrics
+
+  speed
+
+  check
+
+  fine
+
+  task'
+bip_39_word_new_line8: 'width
+
+  cruel
+
+  lyrics
+
+  speed
+
+  check
+
+  fine
+
+  task
+
+  install'
+bip_39_word_new_line9: 'width
+
+  cruel
+
+  lyrics
+
+  speed
+
+  check
+
+  fine
+
+  task
+
+  install
+
+  ride'
+bip_39_word_space_0:
+- width
+- cruel
+- lyrics
+- speed
+- check
+- fine
+- task
+- install
+- ride
+- erode
+- one
+- action
+bip_39_word_space_1: width
+bip_39_word_space_10: width cruel lyrics speed check fine task install ride erode
+bip_39_word_space_11: width cruel lyrics speed check fine task install ride erode
+  one
+bip_39_word_space_12: width cruel lyrics speed check fine task install ride erode
+  one action
+bip_39_word_space_2: width cruel
+bip_39_word_space_3: width cruel lyrics
+bip_39_word_space_4: width cruel lyrics speed
+bip_39_word_space_5: width cruel lyrics speed check
+bip_39_word_space_6: width cruel lyrics speed check fine
+bip_39_word_space_7: width cruel lyrics speed check fine task
+bip_39_word_space_8: width cruel lyrics speed check fine task install
+bip_39_word_space_9: width cruel lyrics speed check fine task install ride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

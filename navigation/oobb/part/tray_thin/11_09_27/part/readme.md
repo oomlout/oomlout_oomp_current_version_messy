@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cactus media
+  * bip 39 word 3: cactus media federal
+  * bip 39 word: cactus media federal mind weasel swim firm spring fly want silk addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cactus |  
+| bip_39_word_new_br10 | cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring<br>fly<br>want |  
+| bip_39_word_new_br11 | cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring<br>fly<br>want<br>silk |  
+| bip_39_word_new_br12 | cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring<br>fly<br>want<br>silk<br>addict |  
+| bip_39_word_new_br2 | cactus<br>media |  
+| bip_39_word_new_br3 | cactus<br>media<br>federal |  
+| bip_39_word_new_br4 | cactus<br>media<br>federal<br>mind |  
+| bip_39_word_new_br5 | cactus<br>media<br>federal<br>mind<br>weasel |  
+| bip_39_word_new_br6 | cactus<br>media<br>federal<br>mind<br>weasel<br>swim |  
+| bip_39_word_new_br7 | cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm |  
+| bip_39_word_new_br8 | cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring |  
+| bip_39_word_new_br9 | cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring<br>fly |  
+| bip_39_word_new_line1 | cactus |  
+| bip_39_word_new_line10 | cactus
+media
+federal
+mind
+weasel
+swim
+firm
+spring
+fly
+want |  
+| bip_39_word_new_line11 | cactus
+media
+federal
+mind
+weasel
+swim
+firm
+spring
+fly
+want
+silk |  
+| bip_39_word_new_line12 | cactus
+media
+federal
+mind
+weasel
+swim
+firm
+spring
+fly
+want
+silk
+addict |  
+| bip_39_word_new_line2 | cactus
+media |  
+| bip_39_word_new_line3 | cactus
+media
+federal |  
+| bip_39_word_new_line4 | cactus
+media
+federal
+mind |  
+| bip_39_word_new_line5 | cactus
+media
+federal
+mind
+weasel |  
+| bip_39_word_new_line6 | cactus
+media
+federal
+mind
+weasel
+swim |  
+| bip_39_word_new_line7 | cactus
+media
+federal
+mind
+weasel
+swim
+firm |  
+| bip_39_word_new_line8 | cactus
+media
+federal
+mind
+weasel
+swim
+firm
+spring |  
+| bip_39_word_new_line9 | cactus
+media
+federal
+mind
+weasel
+swim
+firm
+spring
+fly |  
+| bip_39_word_space_0 | ['cactus', 'media', 'federal', 'mind', 'weasel', 'swim', 'firm', 'spring', 'fly', 'want', 'silk', 'addict'] |  
+| bip_39_word_space_1 | cactus |  
+| bip_39_word_space_10 | cactus media federal mind weasel swim firm spring fly want |  
+| bip_39_word_space_11 | cactus media federal mind weasel swim firm spring fly want silk |  
+| bip_39_word_space_12 | cactus media federal mind weasel swim firm spring fly want silk addict |  
+| bip_39_word_space_2 | cactus media |  
+| bip_39_word_space_3 | cactus media federal |  
+| bip_39_word_space_4 | cactus media federal mind |  
+| bip_39_word_space_5 | cactus media federal mind weasel |  
+| bip_39_word_space_6 | cactus media federal mind weasel swim |  
+| bip_39_word_space_7 | cactus media federal mind weasel swim firm |  
+| bip_39_word_space_8 | cactus media federal mind weasel swim firm spring |  
+| bip_39_word_space_9 | cactus media federal mind weasel swim firm spring fly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sea
+bip_39_word_new_br10: sea<br>weather<br>club<br>vintage<br>main<br>cream<br>fix<br>have<br>prepare<br>genuine
+bip_39_word_new_br11: sea<br>weather<br>club<br>vintage<br>main<br>cream<br>fix<br>have<br>prepare<br>genuine<br>spend
+bip_39_word_new_br12: sea<br>weather<br>club<br>vintage<br>main<br>cream<br>fix<br>have<br>prepare<br>genuine<br>spend<br>also
+bip_39_word_new_br2: sea<br>weather
+bip_39_word_new_br3: sea<br>weather<br>club
+bip_39_word_new_br4: sea<br>weather<br>club<br>vintage
+bip_39_word_new_br5: sea<br>weather<br>club<br>vintage<br>main
+bip_39_word_new_br6: sea<br>weather<br>club<br>vintage<br>main<br>cream
+bip_39_word_new_br7: sea<br>weather<br>club<br>vintage<br>main<br>cream<br>fix
+bip_39_word_new_br8: sea<br>weather<br>club<br>vintage<br>main<br>cream<br>fix<br>have
+bip_39_word_new_br9: sea<br>weather<br>club<br>vintage<br>main<br>cream<br>fix<br>have<br>prepare
+bip_39_word_new_line1: sea
+bip_39_word_new_line10: 'sea
+
+  weather
+
+  club
+
+  vintage
+
+  main
+
+  cream
+
+  fix
+
+  have
+
+  prepare
+
+  genuine'
+bip_39_word_new_line11: 'sea
+
+  weather
+
+  club
+
+  vintage
+
+  main
+
+  cream
+
+  fix
+
+  have
+
+  prepare
+
+  genuine
+
+  spend'
+bip_39_word_new_line12: 'sea
+
+  weather
+
+  club
+
+  vintage
+
+  main
+
+  cream
+
+  fix
+
+  have
+
+  prepare
+
+  genuine
+
+  spend
+
+  also'
+bip_39_word_new_line2: 'sea
+
+  weather'
+bip_39_word_new_line3: 'sea
+
+  weather
+
+  club'
+bip_39_word_new_line4: 'sea
+
+  weather
+
+  club
+
+  vintage'
+bip_39_word_new_line5: 'sea
+
+  weather
+
+  club
+
+  vintage
+
+  main'
+bip_39_word_new_line6: 'sea
+
+  weather
+
+  club
+
+  vintage
+
+  main
+
+  cream'
+bip_39_word_new_line7: 'sea
+
+  weather
+
+  club
+
+  vintage
+
+  main
+
+  cream
+
+  fix'
+bip_39_word_new_line8: 'sea
+
+  weather
+
+  club
+
+  vintage
+
+  main
+
+  cream
+
+  fix
+
+  have'
+bip_39_word_new_line9: 'sea
+
+  weather
+
+  club
+
+  vintage
+
+  main
+
+  cream
+
+  fix
+
+  have
+
+  prepare'
+bip_39_word_space_0:
+- sea
+- weather
+- club
+- vintage
+- main
+- cream
+- fix
+- have
+- prepare
+- genuine
+- spend
+- also
+bip_39_word_space_1: sea
+bip_39_word_space_10: sea weather club vintage main cream fix have prepare genuine
+bip_39_word_space_11: sea weather club vintage main cream fix have prepare genuine
+  spend
+bip_39_word_space_12: sea weather club vintage main cream fix have prepare genuine
+  spend also
+bip_39_word_space_2: sea weather
+bip_39_word_space_3: sea weather club
+bip_39_word_space_4: sea weather club vintage
+bip_39_word_space_5: sea weather club vintage main
+bip_39_word_space_6: sea weather club vintage main cream
+bip_39_word_space_7: sea weather club vintage main cream fix
+bip_39_word_space_8: sea weather club vintage main cream fix have
+bip_39_word_space_9: sea weather club vintage main cream fix have prepare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

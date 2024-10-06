@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: human retire
+  * bip 39 word 3: human retire develop
+  * bip 39 word: human retire develop legend lock drop pet boil fortune civil course alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | human |  
+| bip_39_word_new_br10 | human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune<br>civil |  
+| bip_39_word_new_br11 | human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune<br>civil<br>course |  
+| bip_39_word_new_br12 | human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune<br>civil<br>course<br>alcohol |  
+| bip_39_word_new_br2 | human<br>retire |  
+| bip_39_word_new_br3 | human<br>retire<br>develop |  
+| bip_39_word_new_br4 | human<br>retire<br>develop<br>legend |  
+| bip_39_word_new_br5 | human<br>retire<br>develop<br>legend<br>lock |  
+| bip_39_word_new_br6 | human<br>retire<br>develop<br>legend<br>lock<br>drop |  
+| bip_39_word_new_br7 | human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet |  
+| bip_39_word_new_br8 | human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil |  
+| bip_39_word_new_br9 | human<br>retire<br>develop<br>legend<br>lock<br>drop<br>pet<br>boil<br>fortune |  
+| bip_39_word_new_line1 | human |  
+| bip_39_word_new_line10 | human
+retire
+develop
+legend
+lock
+drop
+pet
+boil
+fortune
+civil |  
+| bip_39_word_new_line11 | human
+retire
+develop
+legend
+lock
+drop
+pet
+boil
+fortune
+civil
+course |  
+| bip_39_word_new_line12 | human
+retire
+develop
+legend
+lock
+drop
+pet
+boil
+fortune
+civil
+course
+alcohol |  
+| bip_39_word_new_line2 | human
+retire |  
+| bip_39_word_new_line3 | human
+retire
+develop |  
+| bip_39_word_new_line4 | human
+retire
+develop
+legend |  
+| bip_39_word_new_line5 | human
+retire
+develop
+legend
+lock |  
+| bip_39_word_new_line6 | human
+retire
+develop
+legend
+lock
+drop |  
+| bip_39_word_new_line7 | human
+retire
+develop
+legend
+lock
+drop
+pet |  
+| bip_39_word_new_line8 | human
+retire
+develop
+legend
+lock
+drop
+pet
+boil |  
+| bip_39_word_new_line9 | human
+retire
+develop
+legend
+lock
+drop
+pet
+boil
+fortune |  
+| bip_39_word_space_0 | ['human', 'retire', 'develop', 'legend', 'lock', 'drop', 'pet', 'boil', 'fortune', 'civil', 'course', 'alcohol'] |  
+| bip_39_word_space_1 | human |  
+| bip_39_word_space_10 | human retire develop legend lock drop pet boil fortune civil |  
+| bip_39_word_space_11 | human retire develop legend lock drop pet boil fortune civil course |  
+| bip_39_word_space_12 | human retire develop legend lock drop pet boil fortune civil course alcohol |  
+| bip_39_word_space_2 | human retire |  
+| bip_39_word_space_3 | human retire develop |  
+| bip_39_word_space_4 | human retire develop legend |  
+| bip_39_word_space_5 | human retire develop legend lock |  
+| bip_39_word_space_6 | human retire develop legend lock drop |  
+| bip_39_word_space_7 | human retire develop legend lock drop pet |  
+| bip_39_word_space_8 | human retire develop legend lock drop pet boil |  
+| bip_39_word_space_9 | human retire develop legend lock drop pet boil fortune |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: that
+bip_39_word_new_br10: that<br>mosquito<br>congress<br>lucky<br>spawn<br>escape<br>length<br>chicken<br>divorce<br>relax
+bip_39_word_new_br11: that<br>mosquito<br>congress<br>lucky<br>spawn<br>escape<br>length<br>chicken<br>divorce<br>relax<br>agent
+bip_39_word_new_br12: that<br>mosquito<br>congress<br>lucky<br>spawn<br>escape<br>length<br>chicken<br>divorce<br>relax<br>agent<br>action
+bip_39_word_new_br2: that<br>mosquito
+bip_39_word_new_br3: that<br>mosquito<br>congress
+bip_39_word_new_br4: that<br>mosquito<br>congress<br>lucky
+bip_39_word_new_br5: that<br>mosquito<br>congress<br>lucky<br>spawn
+bip_39_word_new_br6: that<br>mosquito<br>congress<br>lucky<br>spawn<br>escape
+bip_39_word_new_br7: that<br>mosquito<br>congress<br>lucky<br>spawn<br>escape<br>length
+bip_39_word_new_br8: that<br>mosquito<br>congress<br>lucky<br>spawn<br>escape<br>length<br>chicken
+bip_39_word_new_br9: that<br>mosquito<br>congress<br>lucky<br>spawn<br>escape<br>length<br>chicken<br>divorce
+bip_39_word_new_line1: that
+bip_39_word_new_line10: 'that
+
+  mosquito
+
+  congress
+
+  lucky
+
+  spawn
+
+  escape
+
+  length
+
+  chicken
+
+  divorce
+
+  relax'
+bip_39_word_new_line11: 'that
+
+  mosquito
+
+  congress
+
+  lucky
+
+  spawn
+
+  escape
+
+  length
+
+  chicken
+
+  divorce
+
+  relax
+
+  agent'
+bip_39_word_new_line12: 'that
+
+  mosquito
+
+  congress
+
+  lucky
+
+  spawn
+
+  escape
+
+  length
+
+  chicken
+
+  divorce
+
+  relax
+
+  agent
+
+  action'
+bip_39_word_new_line2: 'that
+
+  mosquito'
+bip_39_word_new_line3: 'that
+
+  mosquito
+
+  congress'
+bip_39_word_new_line4: 'that
+
+  mosquito
+
+  congress
+
+  lucky'
+bip_39_word_new_line5: 'that
+
+  mosquito
+
+  congress
+
+  lucky
+
+  spawn'
+bip_39_word_new_line6: 'that
+
+  mosquito
+
+  congress
+
+  lucky
+
+  spawn
+
+  escape'
+bip_39_word_new_line7: 'that
+
+  mosquito
+
+  congress
+
+  lucky
+
+  spawn
+
+  escape
+
+  length'
+bip_39_word_new_line8: 'that
+
+  mosquito
+
+  congress
+
+  lucky
+
+  spawn
+
+  escape
+
+  length
+
+  chicken'
+bip_39_word_new_line9: 'that
+
+  mosquito
+
+  congress
+
+  lucky
+
+  spawn
+
+  escape
+
+  length
+
+  chicken
+
+  divorce'
+bip_39_word_space_0:
+- that
+- mosquito
+- congress
+- lucky
+- spawn
+- escape
+- length
+- chicken
+- divorce
+- relax
+- agent
+- action
+bip_39_word_space_1: that
+bip_39_word_space_10: that mosquito congress lucky spawn escape length chicken divorce
+  relax
+bip_39_word_space_11: that mosquito congress lucky spawn escape length chicken divorce
+  relax agent
+bip_39_word_space_12: that mosquito congress lucky spawn escape length chicken divorce
+  relax agent action
+bip_39_word_space_2: that mosquito
+bip_39_word_space_3: that mosquito congress
+bip_39_word_space_4: that mosquito congress lucky
+bip_39_word_space_5: that mosquito congress lucky spawn
+bip_39_word_space_6: that mosquito congress lucky spawn escape
+bip_39_word_space_7: that mosquito congress lucky spawn escape length
+bip_39_word_space_8: that mosquito congress lucky spawn escape length chicken
+bip_39_word_space_9: that mosquito congress lucky spawn escape length chicken divorce
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

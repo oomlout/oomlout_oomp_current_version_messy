@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hour network
+  * bip 39 word 3: hour network corn
+  * bip 39 word: hour network corn until across magic clip used account fun chuckle achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hour |  
+| bip_39_word_new_br10 | hour<br>network<br>corn<br>until<br>across<br>magic<br>clip<br>used<br>account<br>fun |  
+| bip_39_word_new_br11 | hour<br>network<br>corn<br>until<br>across<br>magic<br>clip<br>used<br>account<br>fun<br>chuckle |  
+| bip_39_word_new_br12 | hour<br>network<br>corn<br>until<br>across<br>magic<br>clip<br>used<br>account<br>fun<br>chuckle<br>achieve |  
+| bip_39_word_new_br2 | hour<br>network |  
+| bip_39_word_new_br3 | hour<br>network<br>corn |  
+| bip_39_word_new_br4 | hour<br>network<br>corn<br>until |  
+| bip_39_word_new_br5 | hour<br>network<br>corn<br>until<br>across |  
+| bip_39_word_new_br6 | hour<br>network<br>corn<br>until<br>across<br>magic |  
+| bip_39_word_new_br7 | hour<br>network<br>corn<br>until<br>across<br>magic<br>clip |  
+| bip_39_word_new_br8 | hour<br>network<br>corn<br>until<br>across<br>magic<br>clip<br>used |  
+| bip_39_word_new_br9 | hour<br>network<br>corn<br>until<br>across<br>magic<br>clip<br>used<br>account |  
+| bip_39_word_new_line1 | hour |  
+| bip_39_word_new_line10 | hour
+network
+corn
+until
+across
+magic
+clip
+used
+account
+fun |  
+| bip_39_word_new_line11 | hour
+network
+corn
+until
+across
+magic
+clip
+used
+account
+fun
+chuckle |  
+| bip_39_word_new_line12 | hour
+network
+corn
+until
+across
+magic
+clip
+used
+account
+fun
+chuckle
+achieve |  
+| bip_39_word_new_line2 | hour
+network |  
+| bip_39_word_new_line3 | hour
+network
+corn |  
+| bip_39_word_new_line4 | hour
+network
+corn
+until |  
+| bip_39_word_new_line5 | hour
+network
+corn
+until
+across |  
+| bip_39_word_new_line6 | hour
+network
+corn
+until
+across
+magic |  
+| bip_39_word_new_line7 | hour
+network
+corn
+until
+across
+magic
+clip |  
+| bip_39_word_new_line8 | hour
+network
+corn
+until
+across
+magic
+clip
+used |  
+| bip_39_word_new_line9 | hour
+network
+corn
+until
+across
+magic
+clip
+used
+account |  
+| bip_39_word_space_0 | ['hour', 'network', 'corn', 'until', 'across', 'magic', 'clip', 'used', 'account', 'fun', 'chuckle', 'achieve'] |  
+| bip_39_word_space_1 | hour |  
+| bip_39_word_space_10 | hour network corn until across magic clip used account fun |  
+| bip_39_word_space_11 | hour network corn until across magic clip used account fun chuckle |  
+| bip_39_word_space_12 | hour network corn until across magic clip used account fun chuckle achieve |  
+| bip_39_word_space_2 | hour network |  
+| bip_39_word_space_3 | hour network corn |  
+| bip_39_word_space_4 | hour network corn until |  
+| bip_39_word_space_5 | hour network corn until across |  
+| bip_39_word_space_6 | hour network corn until across magic |  
+| bip_39_word_space_7 | hour network corn until across magic clip |  
+| bip_39_word_space_8 | hour network corn until across magic clip used |  
+| bip_39_word_space_9 | hour network corn until across magic clip used account |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

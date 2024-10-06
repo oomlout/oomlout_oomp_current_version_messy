@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: puppy random
+  * bip 39 word 3: puppy random expect
+  * bip 39 word: puppy random expect hollow soul garlic stem dice harvest include wrong absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | puppy |  
+| bip_39_word_new_br10 | puppy<br>random<br>expect<br>hollow<br>soul<br>garlic<br>stem<br>dice<br>harvest<br>include |  
+| bip_39_word_new_br11 | puppy<br>random<br>expect<br>hollow<br>soul<br>garlic<br>stem<br>dice<br>harvest<br>include<br>wrong |  
+| bip_39_word_new_br12 | puppy<br>random<br>expect<br>hollow<br>soul<br>garlic<br>stem<br>dice<br>harvest<br>include<br>wrong<br>absurd |  
+| bip_39_word_new_br2 | puppy<br>random |  
+| bip_39_word_new_br3 | puppy<br>random<br>expect |  
+| bip_39_word_new_br4 | puppy<br>random<br>expect<br>hollow |  
+| bip_39_word_new_br5 | puppy<br>random<br>expect<br>hollow<br>soul |  
+| bip_39_word_new_br6 | puppy<br>random<br>expect<br>hollow<br>soul<br>garlic |  
+| bip_39_word_new_br7 | puppy<br>random<br>expect<br>hollow<br>soul<br>garlic<br>stem |  
+| bip_39_word_new_br8 | puppy<br>random<br>expect<br>hollow<br>soul<br>garlic<br>stem<br>dice |  
+| bip_39_word_new_br9 | puppy<br>random<br>expect<br>hollow<br>soul<br>garlic<br>stem<br>dice<br>harvest |  
+| bip_39_word_new_line1 | puppy |  
+| bip_39_word_new_line10 | puppy
+random
+expect
+hollow
+soul
+garlic
+stem
+dice
+harvest
+include |  
+| bip_39_word_new_line11 | puppy
+random
+expect
+hollow
+soul
+garlic
+stem
+dice
+harvest
+include
+wrong |  
+| bip_39_word_new_line12 | puppy
+random
+expect
+hollow
+soul
+garlic
+stem
+dice
+harvest
+include
+wrong
+absurd |  
+| bip_39_word_new_line2 | puppy
+random |  
+| bip_39_word_new_line3 | puppy
+random
+expect |  
+| bip_39_word_new_line4 | puppy
+random
+expect
+hollow |  
+| bip_39_word_new_line5 | puppy
+random
+expect
+hollow
+soul |  
+| bip_39_word_new_line6 | puppy
+random
+expect
+hollow
+soul
+garlic |  
+| bip_39_word_new_line7 | puppy
+random
+expect
+hollow
+soul
+garlic
+stem |  
+| bip_39_word_new_line8 | puppy
+random
+expect
+hollow
+soul
+garlic
+stem
+dice |  
+| bip_39_word_new_line9 | puppy
+random
+expect
+hollow
+soul
+garlic
+stem
+dice
+harvest |  
+| bip_39_word_space_0 | ['puppy', 'random', 'expect', 'hollow', 'soul', 'garlic', 'stem', 'dice', 'harvest', 'include', 'wrong', 'absurd'] |  
+| bip_39_word_space_1 | puppy |  
+| bip_39_word_space_10 | puppy random expect hollow soul garlic stem dice harvest include |  
+| bip_39_word_space_11 | puppy random expect hollow soul garlic stem dice harvest include wrong |  
+| bip_39_word_space_12 | puppy random expect hollow soul garlic stem dice harvest include wrong absurd |  
+| bip_39_word_space_2 | puppy random |  
+| bip_39_word_space_3 | puppy random expect |  
+| bip_39_word_space_4 | puppy random expect hollow |  
+| bip_39_word_space_5 | puppy random expect hollow soul |  
+| bip_39_word_space_6 | puppy random expect hollow soul garlic |  
+| bip_39_word_space_7 | puppy random expect hollow soul garlic stem |  
+| bip_39_word_space_8 | puppy random expect hollow soul garlic stem dice |  
+| bip_39_word_space_9 | puppy random expect hollow soul garlic stem dice harvest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

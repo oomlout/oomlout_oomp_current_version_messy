@@ -1,3 +1,186 @@
+bip_39_word_new_br1: subway
+bip_39_word_new_br10: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick
+bip_39_word_new_br11: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account
+bip_39_word_new_br12: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account<br>angry
+bip_39_word_new_br2: subway<br>spray
+bip_39_word_new_br3: subway<br>spray<br>narrow
+bip_39_word_new_br4: subway<br>spray<br>narrow<br>mansion
+bip_39_word_new_br5: subway<br>spray<br>narrow<br>mansion<br>feel
+bip_39_word_new_br6: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch
+bip_39_word_new_br7: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven
+bip_39_word_new_br8: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude
+bip_39_word_new_br9: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace
+bip_39_word_new_line1: subway
+bip_39_word_new_line10: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude
+
+  palace
+
+  stick'
+bip_39_word_new_line11: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude
+
+  palace
+
+  stick
+
+  account'
+bip_39_word_new_line12: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude
+
+  palace
+
+  stick
+
+  account
+
+  angry'
+bip_39_word_new_line2: 'subway
+
+  spray'
+bip_39_word_new_line3: 'subway
+
+  spray
+
+  narrow'
+bip_39_word_new_line4: 'subway
+
+  spray
+
+  narrow
+
+  mansion'
+bip_39_word_new_line5: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel'
+bip_39_word_new_line6: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch'
+bip_39_word_new_line7: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven'
+bip_39_word_new_line8: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude'
+bip_39_word_new_line9: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude
+
+  palace'
+bip_39_word_space_0:
+- subway
+- spray
+- narrow
+- mansion
+- feel
+- pitch
+- raven
+- rude
+- palace
+- stick
+- account
+- angry
+bip_39_word_space_1: subway
+bip_39_word_space_10: subway spray narrow mansion feel pitch raven rude palace stick
+bip_39_word_space_11: subway spray narrow mansion feel pitch raven rude palace stick
+  account
+bip_39_word_space_12: subway spray narrow mansion feel pitch raven rude palace stick
+  account angry
+bip_39_word_space_2: subway spray
+bip_39_word_space_3: subway spray narrow
+bip_39_word_space_4: subway spray narrow mansion
+bip_39_word_space_5: subway spray narrow mansion feel
+bip_39_word_space_6: subway spray narrow mansion feel pitch
+bip_39_word_space_7: subway spray narrow mansion feel pitch raven
+bip_39_word_space_8: subway spray narrow mansion feel pitch raven rude
+bip_39_word_space_9: subway spray narrow mansion feel pitch raven rude palace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mule north
+  * bip 39 word 3: mule north flavor
+  * bip 39 word: mule north flavor wise abandon fire anger grit useless arrow must adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mule |  
+| bip_39_word_new_br10 | mule<br>north<br>flavor<br>wise<br>abandon<br>fire<br>anger<br>grit<br>useless<br>arrow |  
+| bip_39_word_new_br11 | mule<br>north<br>flavor<br>wise<br>abandon<br>fire<br>anger<br>grit<br>useless<br>arrow<br>must |  
+| bip_39_word_new_br12 | mule<br>north<br>flavor<br>wise<br>abandon<br>fire<br>anger<br>grit<br>useless<br>arrow<br>must<br>adapt |  
+| bip_39_word_new_br2 | mule<br>north |  
+| bip_39_word_new_br3 | mule<br>north<br>flavor |  
+| bip_39_word_new_br4 | mule<br>north<br>flavor<br>wise |  
+| bip_39_word_new_br5 | mule<br>north<br>flavor<br>wise<br>abandon |  
+| bip_39_word_new_br6 | mule<br>north<br>flavor<br>wise<br>abandon<br>fire |  
+| bip_39_word_new_br7 | mule<br>north<br>flavor<br>wise<br>abandon<br>fire<br>anger |  
+| bip_39_word_new_br8 | mule<br>north<br>flavor<br>wise<br>abandon<br>fire<br>anger<br>grit |  
+| bip_39_word_new_br9 | mule<br>north<br>flavor<br>wise<br>abandon<br>fire<br>anger<br>grit<br>useless |  
+| bip_39_word_new_line1 | mule |  
+| bip_39_word_new_line10 | mule
+north
+flavor
+wise
+abandon
+fire
+anger
+grit
+useless
+arrow |  
+| bip_39_word_new_line11 | mule
+north
+flavor
+wise
+abandon
+fire
+anger
+grit
+useless
+arrow
+must |  
+| bip_39_word_new_line12 | mule
+north
+flavor
+wise
+abandon
+fire
+anger
+grit
+useless
+arrow
+must
+adapt |  
+| bip_39_word_new_line2 | mule
+north |  
+| bip_39_word_new_line3 | mule
+north
+flavor |  
+| bip_39_word_new_line4 | mule
+north
+flavor
+wise |  
+| bip_39_word_new_line5 | mule
+north
+flavor
+wise
+abandon |  
+| bip_39_word_new_line6 | mule
+north
+flavor
+wise
+abandon
+fire |  
+| bip_39_word_new_line7 | mule
+north
+flavor
+wise
+abandon
+fire
+anger |  
+| bip_39_word_new_line8 | mule
+north
+flavor
+wise
+abandon
+fire
+anger
+grit |  
+| bip_39_word_new_line9 | mule
+north
+flavor
+wise
+abandon
+fire
+anger
+grit
+useless |  
+| bip_39_word_space_0 | ['mule', 'north', 'flavor', 'wise', 'abandon', 'fire', 'anger', 'grit', 'useless', 'arrow', 'must', 'adapt'] |  
+| bip_39_word_space_1 | mule |  
+| bip_39_word_space_10 | mule north flavor wise abandon fire anger grit useless arrow |  
+| bip_39_word_space_11 | mule north flavor wise abandon fire anger grit useless arrow must |  
+| bip_39_word_space_12 | mule north flavor wise abandon fire anger grit useless arrow must adapt |  
+| bip_39_word_space_2 | mule north |  
+| bip_39_word_space_3 | mule north flavor |  
+| bip_39_word_space_4 | mule north flavor wise |  
+| bip_39_word_space_5 | mule north flavor wise abandon |  
+| bip_39_word_space_6 | mule north flavor wise abandon fire |  
+| bip_39_word_space_7 | mule north flavor wise abandon fire anger |  
+| bip_39_word_space_8 | mule north flavor wise abandon fire anger grit |  
+| bip_39_word_space_9 | mule north flavor wise abandon fire anger grit useless |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

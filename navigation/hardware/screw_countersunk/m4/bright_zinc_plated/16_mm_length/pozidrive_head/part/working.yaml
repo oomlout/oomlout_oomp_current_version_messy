@@ -1,3 +1,187 @@
+bip_39_word_new_br1: brief
+bip_39_word_new_br10: brief<br>orphan<br>boring<br>explain<br>off<br>indicate<br>small<br>betray<br>issue<br>engine
+bip_39_word_new_br11: brief<br>orphan<br>boring<br>explain<br>off<br>indicate<br>small<br>betray<br>issue<br>engine<br>happy
+bip_39_word_new_br12: brief<br>orphan<br>boring<br>explain<br>off<br>indicate<br>small<br>betray<br>issue<br>engine<br>happy<br>across
+bip_39_word_new_br2: brief<br>orphan
+bip_39_word_new_br3: brief<br>orphan<br>boring
+bip_39_word_new_br4: brief<br>orphan<br>boring<br>explain
+bip_39_word_new_br5: brief<br>orphan<br>boring<br>explain<br>off
+bip_39_word_new_br6: brief<br>orphan<br>boring<br>explain<br>off<br>indicate
+bip_39_word_new_br7: brief<br>orphan<br>boring<br>explain<br>off<br>indicate<br>small
+bip_39_word_new_br8: brief<br>orphan<br>boring<br>explain<br>off<br>indicate<br>small<br>betray
+bip_39_word_new_br9: brief<br>orphan<br>boring<br>explain<br>off<br>indicate<br>small<br>betray<br>issue
+bip_39_word_new_line1: brief
+bip_39_word_new_line10: 'brief
+
+  orphan
+
+  boring
+
+  explain
+
+  off
+
+  indicate
+
+  small
+
+  betray
+
+  issue
+
+  engine'
+bip_39_word_new_line11: 'brief
+
+  orphan
+
+  boring
+
+  explain
+
+  off
+
+  indicate
+
+  small
+
+  betray
+
+  issue
+
+  engine
+
+  happy'
+bip_39_word_new_line12: 'brief
+
+  orphan
+
+  boring
+
+  explain
+
+  off
+
+  indicate
+
+  small
+
+  betray
+
+  issue
+
+  engine
+
+  happy
+
+  across'
+bip_39_word_new_line2: 'brief
+
+  orphan'
+bip_39_word_new_line3: 'brief
+
+  orphan
+
+  boring'
+bip_39_word_new_line4: 'brief
+
+  orphan
+
+  boring
+
+  explain'
+bip_39_word_new_line5: 'brief
+
+  orphan
+
+  boring
+
+  explain
+
+  off'
+bip_39_word_new_line6: 'brief
+
+  orphan
+
+  boring
+
+  explain
+
+  off
+
+  indicate'
+bip_39_word_new_line7: 'brief
+
+  orphan
+
+  boring
+
+  explain
+
+  off
+
+  indicate
+
+  small'
+bip_39_word_new_line8: 'brief
+
+  orphan
+
+  boring
+
+  explain
+
+  off
+
+  indicate
+
+  small
+
+  betray'
+bip_39_word_new_line9: 'brief
+
+  orphan
+
+  boring
+
+  explain
+
+  off
+
+  indicate
+
+  small
+
+  betray
+
+  issue'
+bip_39_word_space_0:
+- brief
+- orphan
+- boring
+- explain
+- 'off'
+- indicate
+- small
+- betray
+- issue
+- engine
+- happy
+- across
+bip_39_word_space_1: brief
+bip_39_word_space_10: brief orphan boring explain off indicate small betray issue
+  engine
+bip_39_word_space_11: brief orphan boring explain off indicate small betray issue
+  engine happy
+bip_39_word_space_12: brief orphan boring explain off indicate small betray issue
+  engine happy across
+bip_39_word_space_2: brief orphan
+bip_39_word_space_3: brief orphan boring
+bip_39_word_space_4: brief orphan boring explain
+bip_39_word_space_5: brief orphan boring explain off
+bip_39_word_space_6: brief orphan boring explain off indicate
+bip_39_word_space_7: brief orphan boring explain off indicate small
+bip_39_word_space_8: brief orphan boring explain off indicate small betray
+bip_39_word_space_9: brief orphan boring explain off indicate small betray issue
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

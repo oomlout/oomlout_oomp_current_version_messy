@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: liar wave
+  * bip 39 word 3: liar wave steel
+  * bip 39 word: liar wave steel bacon myth lyrics behind copper enhance intact fiscal anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | liar |  
+| bip_39_word_new_br10 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact |  
+| bip_39_word_new_br11 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact<br>fiscal |  
+| bip_39_word_new_br12 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance<br>intact<br>fiscal<br>anxiety |  
+| bip_39_word_new_br2 | liar<br>wave |  
+| bip_39_word_new_br3 | liar<br>wave<br>steel |  
+| bip_39_word_new_br4 | liar<br>wave<br>steel<br>bacon |  
+| bip_39_word_new_br5 | liar<br>wave<br>steel<br>bacon<br>myth |  
+| bip_39_word_new_br6 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics |  
+| bip_39_word_new_br7 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind |  
+| bip_39_word_new_br8 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper |  
+| bip_39_word_new_br9 | liar<br>wave<br>steel<br>bacon<br>myth<br>lyrics<br>behind<br>copper<br>enhance |  
+| bip_39_word_new_line1 | liar |  
+| bip_39_word_new_line10 | liar
+wave
+steel
+bacon
+myth
+lyrics
+behind
+copper
+enhance
+intact |  
+| bip_39_word_new_line11 | liar
+wave
+steel
+bacon
+myth
+lyrics
+behind
+copper
+enhance
+intact
+fiscal |  
+| bip_39_word_new_line12 | liar
+wave
+steel
+bacon
+myth
+lyrics
+behind
+copper
+enhance
+intact
+fiscal
+anxiety |  
+| bip_39_word_new_line2 | liar
+wave |  
+| bip_39_word_new_line3 | liar
+wave
+steel |  
+| bip_39_word_new_line4 | liar
+wave
+steel
+bacon |  
+| bip_39_word_new_line5 | liar
+wave
+steel
+bacon
+myth |  
+| bip_39_word_new_line6 | liar
+wave
+steel
+bacon
+myth
+lyrics |  
+| bip_39_word_new_line7 | liar
+wave
+steel
+bacon
+myth
+lyrics
+behind |  
+| bip_39_word_new_line8 | liar
+wave
+steel
+bacon
+myth
+lyrics
+behind
+copper |  
+| bip_39_word_new_line9 | liar
+wave
+steel
+bacon
+myth
+lyrics
+behind
+copper
+enhance |  
+| bip_39_word_space_0 | ['liar', 'wave', 'steel', 'bacon', 'myth', 'lyrics', 'behind', 'copper', 'enhance', 'intact', 'fiscal', 'anxiety'] |  
+| bip_39_word_space_1 | liar |  
+| bip_39_word_space_10 | liar wave steel bacon myth lyrics behind copper enhance intact |  
+| bip_39_word_space_11 | liar wave steel bacon myth lyrics behind copper enhance intact fiscal |  
+| bip_39_word_space_12 | liar wave steel bacon myth lyrics behind copper enhance intact fiscal anxiety |  
+| bip_39_word_space_2 | liar wave |  
+| bip_39_word_space_3 | liar wave steel |  
+| bip_39_word_space_4 | liar wave steel bacon |  
+| bip_39_word_space_5 | liar wave steel bacon myth |  
+| bip_39_word_space_6 | liar wave steel bacon myth lyrics |  
+| bip_39_word_space_7 | liar wave steel bacon myth lyrics behind |  
+| bip_39_word_space_8 | liar wave steel bacon myth lyrics behind copper |  
+| bip_39_word_space_9 | liar wave steel bacon myth lyrics behind copper enhance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

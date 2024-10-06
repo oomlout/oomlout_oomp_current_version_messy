@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gentle verify
+  * bip 39 word 3: gentle verify engage
+  * bip 39 word: gentle verify engage glimpse age jelly brave inhale talent indicate execute audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gentle |  
+| bip_39_word_new_br10 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly<br>brave<br>inhale<br>talent<br>indicate |  
+| bip_39_word_new_br11 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly<br>brave<br>inhale<br>talent<br>indicate<br>execute |  
+| bip_39_word_new_br12 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly<br>brave<br>inhale<br>talent<br>indicate<br>execute<br>audit |  
+| bip_39_word_new_br2 | gentle<br>verify |  
+| bip_39_word_new_br3 | gentle<br>verify<br>engage |  
+| bip_39_word_new_br4 | gentle<br>verify<br>engage<br>glimpse |  
+| bip_39_word_new_br5 | gentle<br>verify<br>engage<br>glimpse<br>age |  
+| bip_39_word_new_br6 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly |  
+| bip_39_word_new_br7 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly<br>brave |  
+| bip_39_word_new_br8 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly<br>brave<br>inhale |  
+| bip_39_word_new_br9 | gentle<br>verify<br>engage<br>glimpse<br>age<br>jelly<br>brave<br>inhale<br>talent |  
+| bip_39_word_new_line1 | gentle |  
+| bip_39_word_new_line10 | gentle
+verify
+engage
+glimpse
+age
+jelly
+brave
+inhale
+talent
+indicate |  
+| bip_39_word_new_line11 | gentle
+verify
+engage
+glimpse
+age
+jelly
+brave
+inhale
+talent
+indicate
+execute |  
+| bip_39_word_new_line12 | gentle
+verify
+engage
+glimpse
+age
+jelly
+brave
+inhale
+talent
+indicate
+execute
+audit |  
+| bip_39_word_new_line2 | gentle
+verify |  
+| bip_39_word_new_line3 | gentle
+verify
+engage |  
+| bip_39_word_new_line4 | gentle
+verify
+engage
+glimpse |  
+| bip_39_word_new_line5 | gentle
+verify
+engage
+glimpse
+age |  
+| bip_39_word_new_line6 | gentle
+verify
+engage
+glimpse
+age
+jelly |  
+| bip_39_word_new_line7 | gentle
+verify
+engage
+glimpse
+age
+jelly
+brave |  
+| bip_39_word_new_line8 | gentle
+verify
+engage
+glimpse
+age
+jelly
+brave
+inhale |  
+| bip_39_word_new_line9 | gentle
+verify
+engage
+glimpse
+age
+jelly
+brave
+inhale
+talent |  
+| bip_39_word_space_0 | ['gentle', 'verify', 'engage', 'glimpse', 'age', 'jelly', 'brave', 'inhale', 'talent', 'indicate', 'execute', 'audit'] |  
+| bip_39_word_space_1 | gentle |  
+| bip_39_word_space_10 | gentle verify engage glimpse age jelly brave inhale talent indicate |  
+| bip_39_word_space_11 | gentle verify engage glimpse age jelly brave inhale talent indicate execute |  
+| bip_39_word_space_12 | gentle verify engage glimpse age jelly brave inhale talent indicate execute audit |  
+| bip_39_word_space_2 | gentle verify |  
+| bip_39_word_space_3 | gentle verify engage |  
+| bip_39_word_space_4 | gentle verify engage glimpse |  
+| bip_39_word_space_5 | gentle verify engage glimpse age |  
+| bip_39_word_space_6 | gentle verify engage glimpse age jelly |  
+| bip_39_word_space_7 | gentle verify engage glimpse age jelly brave |  
+| bip_39_word_space_8 | gentle verify engage glimpse age jelly brave inhale |  
+| bip_39_word_space_9 | gentle verify engage glimpse age jelly brave inhale talent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

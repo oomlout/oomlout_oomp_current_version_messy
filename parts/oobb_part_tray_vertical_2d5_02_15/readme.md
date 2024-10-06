@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ten rule
+  * bip 39 word 3: ten rule alarm
+  * bip 39 word: ten rule alarm whip outside talent clock mixture various husband cube accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ten |  
+| bip_39_word_new_br10 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband |  
+| bip_39_word_new_br11 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband<br>cube |  
+| bip_39_word_new_br12 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various<br>husband<br>cube<br>accuse |  
+| bip_39_word_new_br2 | ten<br>rule |  
+| bip_39_word_new_br3 | ten<br>rule<br>alarm |  
+| bip_39_word_new_br4 | ten<br>rule<br>alarm<br>whip |  
+| bip_39_word_new_br5 | ten<br>rule<br>alarm<br>whip<br>outside |  
+| bip_39_word_new_br6 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent |  
+| bip_39_word_new_br7 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock |  
+| bip_39_word_new_br8 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture |  
+| bip_39_word_new_br9 | ten<br>rule<br>alarm<br>whip<br>outside<br>talent<br>clock<br>mixture<br>various |  
+| bip_39_word_new_line1 | ten |  
+| bip_39_word_new_line10 | ten
+rule
+alarm
+whip
+outside
+talent
+clock
+mixture
+various
+husband |  
+| bip_39_word_new_line11 | ten
+rule
+alarm
+whip
+outside
+talent
+clock
+mixture
+various
+husband
+cube |  
+| bip_39_word_new_line12 | ten
+rule
+alarm
+whip
+outside
+talent
+clock
+mixture
+various
+husband
+cube
+accuse |  
+| bip_39_word_new_line2 | ten
+rule |  
+| bip_39_word_new_line3 | ten
+rule
+alarm |  
+| bip_39_word_new_line4 | ten
+rule
+alarm
+whip |  
+| bip_39_word_new_line5 | ten
+rule
+alarm
+whip
+outside |  
+| bip_39_word_new_line6 | ten
+rule
+alarm
+whip
+outside
+talent |  
+| bip_39_word_new_line7 | ten
+rule
+alarm
+whip
+outside
+talent
+clock |  
+| bip_39_word_new_line8 | ten
+rule
+alarm
+whip
+outside
+talent
+clock
+mixture |  
+| bip_39_word_new_line9 | ten
+rule
+alarm
+whip
+outside
+talent
+clock
+mixture
+various |  
+| bip_39_word_space_0 | ['ten', 'rule', 'alarm', 'whip', 'outside', 'talent', 'clock', 'mixture', 'various', 'husband', 'cube', 'accuse'] |  
+| bip_39_word_space_1 | ten |  
+| bip_39_word_space_10 | ten rule alarm whip outside talent clock mixture various husband |  
+| bip_39_word_space_11 | ten rule alarm whip outside talent clock mixture various husband cube |  
+| bip_39_word_space_12 | ten rule alarm whip outside talent clock mixture various husband cube accuse |  
+| bip_39_word_space_2 | ten rule |  
+| bip_39_word_space_3 | ten rule alarm |  
+| bip_39_word_space_4 | ten rule alarm whip |  
+| bip_39_word_space_5 | ten rule alarm whip outside |  
+| bip_39_word_space_6 | ten rule alarm whip outside talent |  
+| bip_39_word_space_7 | ten rule alarm whip outside talent clock |  
+| bip_39_word_space_8 | ten rule alarm whip outside talent clock mixture |  
+| bip_39_word_space_9 | ten rule alarm whip outside talent clock mixture various |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

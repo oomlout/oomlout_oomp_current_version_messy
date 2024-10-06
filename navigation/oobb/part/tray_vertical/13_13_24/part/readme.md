@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: time uniform
+  * bip 39 word 3: time uniform loud
+  * bip 39 word: time uniform loud extra roof wolf like layer assist wing frequent accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | time |  
+| bip_39_word_new_br10 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf<br>like<br>layer<br>assist<br>wing |  
+| bip_39_word_new_br11 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf<br>like<br>layer<br>assist<br>wing<br>frequent |  
+| bip_39_word_new_br12 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf<br>like<br>layer<br>assist<br>wing<br>frequent<br>accident |  
+| bip_39_word_new_br2 | time<br>uniform |  
+| bip_39_word_new_br3 | time<br>uniform<br>loud |  
+| bip_39_word_new_br4 | time<br>uniform<br>loud<br>extra |  
+| bip_39_word_new_br5 | time<br>uniform<br>loud<br>extra<br>roof |  
+| bip_39_word_new_br6 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf |  
+| bip_39_word_new_br7 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf<br>like |  
+| bip_39_word_new_br8 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf<br>like<br>layer |  
+| bip_39_word_new_br9 | time<br>uniform<br>loud<br>extra<br>roof<br>wolf<br>like<br>layer<br>assist |  
+| bip_39_word_new_line1 | time |  
+| bip_39_word_new_line10 | time
+uniform
+loud
+extra
+roof
+wolf
+like
+layer
+assist
+wing |  
+| bip_39_word_new_line11 | time
+uniform
+loud
+extra
+roof
+wolf
+like
+layer
+assist
+wing
+frequent |  
+| bip_39_word_new_line12 | time
+uniform
+loud
+extra
+roof
+wolf
+like
+layer
+assist
+wing
+frequent
+accident |  
+| bip_39_word_new_line2 | time
+uniform |  
+| bip_39_word_new_line3 | time
+uniform
+loud |  
+| bip_39_word_new_line4 | time
+uniform
+loud
+extra |  
+| bip_39_word_new_line5 | time
+uniform
+loud
+extra
+roof |  
+| bip_39_word_new_line6 | time
+uniform
+loud
+extra
+roof
+wolf |  
+| bip_39_word_new_line7 | time
+uniform
+loud
+extra
+roof
+wolf
+like |  
+| bip_39_word_new_line8 | time
+uniform
+loud
+extra
+roof
+wolf
+like
+layer |  
+| bip_39_word_new_line9 | time
+uniform
+loud
+extra
+roof
+wolf
+like
+layer
+assist |  
+| bip_39_word_space_0 | ['time', 'uniform', 'loud', 'extra', 'roof', 'wolf', 'like', 'layer', 'assist', 'wing', 'frequent', 'accident'] |  
+| bip_39_word_space_1 | time |  
+| bip_39_word_space_10 | time uniform loud extra roof wolf like layer assist wing |  
+| bip_39_word_space_11 | time uniform loud extra roof wolf like layer assist wing frequent |  
+| bip_39_word_space_12 | time uniform loud extra roof wolf like layer assist wing frequent accident |  
+| bip_39_word_space_2 | time uniform |  
+| bip_39_word_space_3 | time uniform loud |  
+| bip_39_word_space_4 | time uniform loud extra |  
+| bip_39_word_space_5 | time uniform loud extra roof |  
+| bip_39_word_space_6 | time uniform loud extra roof wolf |  
+| bip_39_word_space_7 | time uniform loud extra roof wolf like |  
+| bip_39_word_space_8 | time uniform loud extra roof wolf like layer |  
+| bip_39_word_space_9 | time uniform loud extra roof wolf like layer assist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: change rocket
+  * bip 39 word 3: change rocket decide
+  * bip 39 word: change rocket decide enact sleep school engine faculty office blanket addict area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | change |  
+| bip_39_word_new_br10 | change<br>rocket<br>decide<br>enact<br>sleep<br>school<br>engine<br>faculty<br>office<br>blanket |  
+| bip_39_word_new_br11 | change<br>rocket<br>decide<br>enact<br>sleep<br>school<br>engine<br>faculty<br>office<br>blanket<br>addict |  
+| bip_39_word_new_br12 | change<br>rocket<br>decide<br>enact<br>sleep<br>school<br>engine<br>faculty<br>office<br>blanket<br>addict<br>area |  
+| bip_39_word_new_br2 | change<br>rocket |  
+| bip_39_word_new_br3 | change<br>rocket<br>decide |  
+| bip_39_word_new_br4 | change<br>rocket<br>decide<br>enact |  
+| bip_39_word_new_br5 | change<br>rocket<br>decide<br>enact<br>sleep |  
+| bip_39_word_new_br6 | change<br>rocket<br>decide<br>enact<br>sleep<br>school |  
+| bip_39_word_new_br7 | change<br>rocket<br>decide<br>enact<br>sleep<br>school<br>engine |  
+| bip_39_word_new_br8 | change<br>rocket<br>decide<br>enact<br>sleep<br>school<br>engine<br>faculty |  
+| bip_39_word_new_br9 | change<br>rocket<br>decide<br>enact<br>sleep<br>school<br>engine<br>faculty<br>office |  
+| bip_39_word_new_line1 | change |  
+| bip_39_word_new_line10 | change
+rocket
+decide
+enact
+sleep
+school
+engine
+faculty
+office
+blanket |  
+| bip_39_word_new_line11 | change
+rocket
+decide
+enact
+sleep
+school
+engine
+faculty
+office
+blanket
+addict |  
+| bip_39_word_new_line12 | change
+rocket
+decide
+enact
+sleep
+school
+engine
+faculty
+office
+blanket
+addict
+area |  
+| bip_39_word_new_line2 | change
+rocket |  
+| bip_39_word_new_line3 | change
+rocket
+decide |  
+| bip_39_word_new_line4 | change
+rocket
+decide
+enact |  
+| bip_39_word_new_line5 | change
+rocket
+decide
+enact
+sleep |  
+| bip_39_word_new_line6 | change
+rocket
+decide
+enact
+sleep
+school |  
+| bip_39_word_new_line7 | change
+rocket
+decide
+enact
+sleep
+school
+engine |  
+| bip_39_word_new_line8 | change
+rocket
+decide
+enact
+sleep
+school
+engine
+faculty |  
+| bip_39_word_new_line9 | change
+rocket
+decide
+enact
+sleep
+school
+engine
+faculty
+office |  
+| bip_39_word_space_0 | ['change', 'rocket', 'decide', 'enact', 'sleep', 'school', 'engine', 'faculty', 'office', 'blanket', 'addict', 'area'] |  
+| bip_39_word_space_1 | change |  
+| bip_39_word_space_10 | change rocket decide enact sleep school engine faculty office blanket |  
+| bip_39_word_space_11 | change rocket decide enact sleep school engine faculty office blanket addict |  
+| bip_39_word_space_12 | change rocket decide enact sleep school engine faculty office blanket addict area |  
+| bip_39_word_space_2 | change rocket |  
+| bip_39_word_space_3 | change rocket decide |  
+| bip_39_word_space_4 | change rocket decide enact |  
+| bip_39_word_space_5 | change rocket decide enact sleep |  
+| bip_39_word_space_6 | change rocket decide enact sleep school |  
+| bip_39_word_space_7 | change rocket decide enact sleep school engine |  
+| bip_39_word_space_8 | change rocket decide enact sleep school engine faculty |  
+| bip_39_word_space_9 | change rocket decide enact sleep school engine faculty office |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

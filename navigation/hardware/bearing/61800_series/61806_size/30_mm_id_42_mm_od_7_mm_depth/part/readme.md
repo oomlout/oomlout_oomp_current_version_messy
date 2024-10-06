@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wink gospel
+  * bip 39 word 3: wink gospel pulp
+  * bip 39 word: wink gospel pulp cross road burst invest buzz man solution story animal
 
 ### other_codes
 * short_code: br61806
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wink |  
+| bip_39_word_new_br10 | wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man<br>solution |  
+| bip_39_word_new_br11 | wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man<br>solution<br>story |  
+| bip_39_word_new_br12 | wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man<br>solution<br>story<br>animal |  
+| bip_39_word_new_br2 | wink<br>gospel |  
+| bip_39_word_new_br3 | wink<br>gospel<br>pulp |  
+| bip_39_word_new_br4 | wink<br>gospel<br>pulp<br>cross |  
+| bip_39_word_new_br5 | wink<br>gospel<br>pulp<br>cross<br>road |  
+| bip_39_word_new_br6 | wink<br>gospel<br>pulp<br>cross<br>road<br>burst |  
+| bip_39_word_new_br7 | wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest |  
+| bip_39_word_new_br8 | wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz |  
+| bip_39_word_new_br9 | wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man |  
+| bip_39_word_new_line1 | wink |  
+| bip_39_word_new_line10 | wink
+gospel
+pulp
+cross
+road
+burst
+invest
+buzz
+man
+solution |  
+| bip_39_word_new_line11 | wink
+gospel
+pulp
+cross
+road
+burst
+invest
+buzz
+man
+solution
+story |  
+| bip_39_word_new_line12 | wink
+gospel
+pulp
+cross
+road
+burst
+invest
+buzz
+man
+solution
+story
+animal |  
+| bip_39_word_new_line2 | wink
+gospel |  
+| bip_39_word_new_line3 | wink
+gospel
+pulp |  
+| bip_39_word_new_line4 | wink
+gospel
+pulp
+cross |  
+| bip_39_word_new_line5 | wink
+gospel
+pulp
+cross
+road |  
+| bip_39_word_new_line6 | wink
+gospel
+pulp
+cross
+road
+burst |  
+| bip_39_word_new_line7 | wink
+gospel
+pulp
+cross
+road
+burst
+invest |  
+| bip_39_word_new_line8 | wink
+gospel
+pulp
+cross
+road
+burst
+invest
+buzz |  
+| bip_39_word_new_line9 | wink
+gospel
+pulp
+cross
+road
+burst
+invest
+buzz
+man |  
+| bip_39_word_space_0 | ['wink', 'gospel', 'pulp', 'cross', 'road', 'burst', 'invest', 'buzz', 'man', 'solution', 'story', 'animal'] |  
+| bip_39_word_space_1 | wink |  
+| bip_39_word_space_10 | wink gospel pulp cross road burst invest buzz man solution |  
+| bip_39_word_space_11 | wink gospel pulp cross road burst invest buzz man solution story |  
+| bip_39_word_space_12 | wink gospel pulp cross road burst invest buzz man solution story animal |  
+| bip_39_word_space_2 | wink gospel |  
+| bip_39_word_space_3 | wink gospel pulp |  
+| bip_39_word_space_4 | wink gospel pulp cross |  
+| bip_39_word_space_5 | wink gospel pulp cross road |  
+| bip_39_word_space_6 | wink gospel pulp cross road burst |  
+| bip_39_word_space_7 | wink gospel pulp cross road burst invest |  
+| bip_39_word_space_8 | wink gospel pulp cross road burst invest buzz |  
+| bip_39_word_space_9 | wink gospel pulp cross road burst invest buzz man |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

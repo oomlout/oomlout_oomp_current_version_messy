@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dignity mountain
+  * bip 39 word 3: dignity mountain mosquito
+  * bip 39 word: dignity mountain mosquito detail sauce damage wine head small palm window achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dignity |  
+| bip_39_word_new_br10 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage<br>wine<br>head<br>small<br>palm |  
+| bip_39_word_new_br11 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage<br>wine<br>head<br>small<br>palm<br>window |  
+| bip_39_word_new_br12 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage<br>wine<br>head<br>small<br>palm<br>window<br>achieve |  
+| bip_39_word_new_br2 | dignity<br>mountain |  
+| bip_39_word_new_br3 | dignity<br>mountain<br>mosquito |  
+| bip_39_word_new_br4 | dignity<br>mountain<br>mosquito<br>detail |  
+| bip_39_word_new_br5 | dignity<br>mountain<br>mosquito<br>detail<br>sauce |  
+| bip_39_word_new_br6 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage |  
+| bip_39_word_new_br7 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage<br>wine |  
+| bip_39_word_new_br8 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage<br>wine<br>head |  
+| bip_39_word_new_br9 | dignity<br>mountain<br>mosquito<br>detail<br>sauce<br>damage<br>wine<br>head<br>small |  
+| bip_39_word_new_line1 | dignity |  
+| bip_39_word_new_line10 | dignity
+mountain
+mosquito
+detail
+sauce
+damage
+wine
+head
+small
+palm |  
+| bip_39_word_new_line11 | dignity
+mountain
+mosquito
+detail
+sauce
+damage
+wine
+head
+small
+palm
+window |  
+| bip_39_word_new_line12 | dignity
+mountain
+mosquito
+detail
+sauce
+damage
+wine
+head
+small
+palm
+window
+achieve |  
+| bip_39_word_new_line2 | dignity
+mountain |  
+| bip_39_word_new_line3 | dignity
+mountain
+mosquito |  
+| bip_39_word_new_line4 | dignity
+mountain
+mosquito
+detail |  
+| bip_39_word_new_line5 | dignity
+mountain
+mosquito
+detail
+sauce |  
+| bip_39_word_new_line6 | dignity
+mountain
+mosquito
+detail
+sauce
+damage |  
+| bip_39_word_new_line7 | dignity
+mountain
+mosquito
+detail
+sauce
+damage
+wine |  
+| bip_39_word_new_line8 | dignity
+mountain
+mosquito
+detail
+sauce
+damage
+wine
+head |  
+| bip_39_word_new_line9 | dignity
+mountain
+mosquito
+detail
+sauce
+damage
+wine
+head
+small |  
+| bip_39_word_space_0 | ['dignity', 'mountain', 'mosquito', 'detail', 'sauce', 'damage', 'wine', 'head', 'small', 'palm', 'window', 'achieve'] |  
+| bip_39_word_space_1 | dignity |  
+| bip_39_word_space_10 | dignity mountain mosquito detail sauce damage wine head small palm |  
+| bip_39_word_space_11 | dignity mountain mosquito detail sauce damage wine head small palm window |  
+| bip_39_word_space_12 | dignity mountain mosquito detail sauce damage wine head small palm window achieve |  
+| bip_39_word_space_2 | dignity mountain |  
+| bip_39_word_space_3 | dignity mountain mosquito |  
+| bip_39_word_space_4 | dignity mountain mosquito detail |  
+| bip_39_word_space_5 | dignity mountain mosquito detail sauce |  
+| bip_39_word_space_6 | dignity mountain mosquito detail sauce damage |  
+| bip_39_word_space_7 | dignity mountain mosquito detail sauce damage wine |  
+| bip_39_word_space_8 | dignity mountain mosquito detail sauce damage wine head |  
+| bip_39_word_space_9 | dignity mountain mosquito detail sauce damage wine head small |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

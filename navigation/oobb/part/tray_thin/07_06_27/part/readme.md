@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grid pattern
+  * bip 39 word 3: grid pattern rail
+  * bip 39 word: grid pattern rail olympic choose gentle inmate online problem ocean gloom antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grid |  
+| bip_39_word_new_br10 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean |  
+| bip_39_word_new_br11 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean<br>gloom |  
+| bip_39_word_new_br12 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem<br>ocean<br>gloom<br>antenna |  
+| bip_39_word_new_br2 | grid<br>pattern |  
+| bip_39_word_new_br3 | grid<br>pattern<br>rail |  
+| bip_39_word_new_br4 | grid<br>pattern<br>rail<br>olympic |  
+| bip_39_word_new_br5 | grid<br>pattern<br>rail<br>olympic<br>choose |  
+| bip_39_word_new_br6 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle |  
+| bip_39_word_new_br7 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate |  
+| bip_39_word_new_br8 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online |  
+| bip_39_word_new_br9 | grid<br>pattern<br>rail<br>olympic<br>choose<br>gentle<br>inmate<br>online<br>problem |  
+| bip_39_word_new_line1 | grid |  
+| bip_39_word_new_line10 | grid
+pattern
+rail
+olympic
+choose
+gentle
+inmate
+online
+problem
+ocean |  
+| bip_39_word_new_line11 | grid
+pattern
+rail
+olympic
+choose
+gentle
+inmate
+online
+problem
+ocean
+gloom |  
+| bip_39_word_new_line12 | grid
+pattern
+rail
+olympic
+choose
+gentle
+inmate
+online
+problem
+ocean
+gloom
+antenna |  
+| bip_39_word_new_line2 | grid
+pattern |  
+| bip_39_word_new_line3 | grid
+pattern
+rail |  
+| bip_39_word_new_line4 | grid
+pattern
+rail
+olympic |  
+| bip_39_word_new_line5 | grid
+pattern
+rail
+olympic
+choose |  
+| bip_39_word_new_line6 | grid
+pattern
+rail
+olympic
+choose
+gentle |  
+| bip_39_word_new_line7 | grid
+pattern
+rail
+olympic
+choose
+gentle
+inmate |  
+| bip_39_word_new_line8 | grid
+pattern
+rail
+olympic
+choose
+gentle
+inmate
+online |  
+| bip_39_word_new_line9 | grid
+pattern
+rail
+olympic
+choose
+gentle
+inmate
+online
+problem |  
+| bip_39_word_space_0 | ['grid', 'pattern', 'rail', 'olympic', 'choose', 'gentle', 'inmate', 'online', 'problem', 'ocean', 'gloom', 'antenna'] |  
+| bip_39_word_space_1 | grid |  
+| bip_39_word_space_10 | grid pattern rail olympic choose gentle inmate online problem ocean |  
+| bip_39_word_space_11 | grid pattern rail olympic choose gentle inmate online problem ocean gloom |  
+| bip_39_word_space_12 | grid pattern rail olympic choose gentle inmate online problem ocean gloom antenna |  
+| bip_39_word_space_2 | grid pattern |  
+| bip_39_word_space_3 | grid pattern rail |  
+| bip_39_word_space_4 | grid pattern rail olympic |  
+| bip_39_word_space_5 | grid pattern rail olympic choose |  
+| bip_39_word_space_6 | grid pattern rail olympic choose gentle |  
+| bip_39_word_space_7 | grid pattern rail olympic choose gentle inmate |  
+| bip_39_word_space_8 | grid pattern rail olympic choose gentle inmate online |  
+| bip_39_word_space_9 | grid pattern rail olympic choose gentle inmate online problem |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

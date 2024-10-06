@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remind stone
+  * bip 39 word 3: remind stone simple
+  * bip 39 word: remind stone simple theory marriage hole episode jealous fence rule vote alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remind |  
+| bip_39_word_new_br10 | remind<br>stone<br>simple<br>theory<br>marriage<br>hole<br>episode<br>jealous<br>fence<br>rule |  
+| bip_39_word_new_br11 | remind<br>stone<br>simple<br>theory<br>marriage<br>hole<br>episode<br>jealous<br>fence<br>rule<br>vote |  
+| bip_39_word_new_br12 | remind<br>stone<br>simple<br>theory<br>marriage<br>hole<br>episode<br>jealous<br>fence<br>rule<br>vote<br>alley |  
+| bip_39_word_new_br2 | remind<br>stone |  
+| bip_39_word_new_br3 | remind<br>stone<br>simple |  
+| bip_39_word_new_br4 | remind<br>stone<br>simple<br>theory |  
+| bip_39_word_new_br5 | remind<br>stone<br>simple<br>theory<br>marriage |  
+| bip_39_word_new_br6 | remind<br>stone<br>simple<br>theory<br>marriage<br>hole |  
+| bip_39_word_new_br7 | remind<br>stone<br>simple<br>theory<br>marriage<br>hole<br>episode |  
+| bip_39_word_new_br8 | remind<br>stone<br>simple<br>theory<br>marriage<br>hole<br>episode<br>jealous |  
+| bip_39_word_new_br9 | remind<br>stone<br>simple<br>theory<br>marriage<br>hole<br>episode<br>jealous<br>fence |  
+| bip_39_word_new_line1 | remind |  
+| bip_39_word_new_line10 | remind
+stone
+simple
+theory
+marriage
+hole
+episode
+jealous
+fence
+rule |  
+| bip_39_word_new_line11 | remind
+stone
+simple
+theory
+marriage
+hole
+episode
+jealous
+fence
+rule
+vote |  
+| bip_39_word_new_line12 | remind
+stone
+simple
+theory
+marriage
+hole
+episode
+jealous
+fence
+rule
+vote
+alley |  
+| bip_39_word_new_line2 | remind
+stone |  
+| bip_39_word_new_line3 | remind
+stone
+simple |  
+| bip_39_word_new_line4 | remind
+stone
+simple
+theory |  
+| bip_39_word_new_line5 | remind
+stone
+simple
+theory
+marriage |  
+| bip_39_word_new_line6 | remind
+stone
+simple
+theory
+marriage
+hole |  
+| bip_39_word_new_line7 | remind
+stone
+simple
+theory
+marriage
+hole
+episode |  
+| bip_39_word_new_line8 | remind
+stone
+simple
+theory
+marriage
+hole
+episode
+jealous |  
+| bip_39_word_new_line9 | remind
+stone
+simple
+theory
+marriage
+hole
+episode
+jealous
+fence |  
+| bip_39_word_space_0 | ['remind', 'stone', 'simple', 'theory', 'marriage', 'hole', 'episode', 'jealous', 'fence', 'rule', 'vote', 'alley'] |  
+| bip_39_word_space_1 | remind |  
+| bip_39_word_space_10 | remind stone simple theory marriage hole episode jealous fence rule |  
+| bip_39_word_space_11 | remind stone simple theory marriage hole episode jealous fence rule vote |  
+| bip_39_word_space_12 | remind stone simple theory marriage hole episode jealous fence rule vote alley |  
+| bip_39_word_space_2 | remind stone |  
+| bip_39_word_space_3 | remind stone simple |  
+| bip_39_word_space_4 | remind stone simple theory |  
+| bip_39_word_space_5 | remind stone simple theory marriage |  
+| bip_39_word_space_6 | remind stone simple theory marriage hole |  
+| bip_39_word_space_7 | remind stone simple theory marriage hole episode |  
+| bip_39_word_space_8 | remind stone simple theory marriage hole episode jealous |  
+| bip_39_word_space_9 | remind stone simple theory marriage hole episode jealous fence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

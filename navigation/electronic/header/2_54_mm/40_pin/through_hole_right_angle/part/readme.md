@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foil police
+  * bip 39 word 3: foil police minute
+  * bip 39 word: foil police minute one useful cement live build fiscal girl random alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foil |  
+| bip_39_word_new_br10 | foil<br>police<br>minute<br>one<br>useful<br>cement<br>live<br>build<br>fiscal<br>girl |  
+| bip_39_word_new_br11 | foil<br>police<br>minute<br>one<br>useful<br>cement<br>live<br>build<br>fiscal<br>girl<br>random |  
+| bip_39_word_new_br12 | foil<br>police<br>minute<br>one<br>useful<br>cement<br>live<br>build<br>fiscal<br>girl<br>random<br>alarm |  
+| bip_39_word_new_br2 | foil<br>police |  
+| bip_39_word_new_br3 | foil<br>police<br>minute |  
+| bip_39_word_new_br4 | foil<br>police<br>minute<br>one |  
+| bip_39_word_new_br5 | foil<br>police<br>minute<br>one<br>useful |  
+| bip_39_word_new_br6 | foil<br>police<br>minute<br>one<br>useful<br>cement |  
+| bip_39_word_new_br7 | foil<br>police<br>minute<br>one<br>useful<br>cement<br>live |  
+| bip_39_word_new_br8 | foil<br>police<br>minute<br>one<br>useful<br>cement<br>live<br>build |  
+| bip_39_word_new_br9 | foil<br>police<br>minute<br>one<br>useful<br>cement<br>live<br>build<br>fiscal |  
+| bip_39_word_new_line1 | foil |  
+| bip_39_word_new_line10 | foil
+police
+minute
+one
+useful
+cement
+live
+build
+fiscal
+girl |  
+| bip_39_word_new_line11 | foil
+police
+minute
+one
+useful
+cement
+live
+build
+fiscal
+girl
+random |  
+| bip_39_word_new_line12 | foil
+police
+minute
+one
+useful
+cement
+live
+build
+fiscal
+girl
+random
+alarm |  
+| bip_39_word_new_line2 | foil
+police |  
+| bip_39_word_new_line3 | foil
+police
+minute |  
+| bip_39_word_new_line4 | foil
+police
+minute
+one |  
+| bip_39_word_new_line5 | foil
+police
+minute
+one
+useful |  
+| bip_39_word_new_line6 | foil
+police
+minute
+one
+useful
+cement |  
+| bip_39_word_new_line7 | foil
+police
+minute
+one
+useful
+cement
+live |  
+| bip_39_word_new_line8 | foil
+police
+minute
+one
+useful
+cement
+live
+build |  
+| bip_39_word_new_line9 | foil
+police
+minute
+one
+useful
+cement
+live
+build
+fiscal |  
+| bip_39_word_space_0 | ['foil', 'police', 'minute', 'one', 'useful', 'cement', 'live', 'build', 'fiscal', 'girl', 'random', 'alarm'] |  
+| bip_39_word_space_1 | foil |  
+| bip_39_word_space_10 | foil police minute one useful cement live build fiscal girl |  
+| bip_39_word_space_11 | foil police minute one useful cement live build fiscal girl random |  
+| bip_39_word_space_12 | foil police minute one useful cement live build fiscal girl random alarm |  
+| bip_39_word_space_2 | foil police |  
+| bip_39_word_space_3 | foil police minute |  
+| bip_39_word_space_4 | foil police minute one |  
+| bip_39_word_space_5 | foil police minute one useful |  
+| bip_39_word_space_6 | foil police minute one useful cement |  
+| bip_39_word_space_7 | foil police minute one useful cement live |  
+| bip_39_word_space_8 | foil police minute one useful cement live build |  
+| bip_39_word_space_9 | foil police minute one useful cement live build fiscal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

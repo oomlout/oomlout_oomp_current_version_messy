@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bonus
+bip_39_word_new_br10: bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent<br>genuine<br>issue<br>doll<br>erase
+bip_39_word_new_br11: bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent<br>genuine<br>issue<br>doll<br>erase<br>crash
+bip_39_word_new_br12: bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent<br>genuine<br>issue<br>doll<br>erase<br>crash<br>aunt
+bip_39_word_new_br2: bonus<br>ripple
+bip_39_word_new_br3: bonus<br>ripple<br>napkin
+bip_39_word_new_br4: bonus<br>ripple<br>napkin<br>crunch
+bip_39_word_new_br5: bonus<br>ripple<br>napkin<br>crunch<br>rose
+bip_39_word_new_br6: bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent
+bip_39_word_new_br7: bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent<br>genuine
+bip_39_word_new_br8: bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent<br>genuine<br>issue
+bip_39_word_new_br9: bonus<br>ripple<br>napkin<br>crunch<br>rose<br>silent<br>genuine<br>issue<br>doll
+bip_39_word_new_line1: bonus
+bip_39_word_new_line10: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch
+
+  rose
+
+  silent
+
+  genuine
+
+  issue
+
+  doll
+
+  erase'
+bip_39_word_new_line11: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch
+
+  rose
+
+  silent
+
+  genuine
+
+  issue
+
+  doll
+
+  erase
+
+  crash'
+bip_39_word_new_line12: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch
+
+  rose
+
+  silent
+
+  genuine
+
+  issue
+
+  doll
+
+  erase
+
+  crash
+
+  aunt'
+bip_39_word_new_line2: 'bonus
+
+  ripple'
+bip_39_word_new_line3: 'bonus
+
+  ripple
+
+  napkin'
+bip_39_word_new_line4: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch'
+bip_39_word_new_line5: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch
+
+  rose'
+bip_39_word_new_line6: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch
+
+  rose
+
+  silent'
+bip_39_word_new_line7: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch
+
+  rose
+
+  silent
+
+  genuine'
+bip_39_word_new_line8: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch
+
+  rose
+
+  silent
+
+  genuine
+
+  issue'
+bip_39_word_new_line9: 'bonus
+
+  ripple
+
+  napkin
+
+  crunch
+
+  rose
+
+  silent
+
+  genuine
+
+  issue
+
+  doll'
+bip_39_word_space_0:
+- bonus
+- ripple
+- napkin
+- crunch
+- rose
+- silent
+- genuine
+- issue
+- doll
+- erase
+- crash
+- aunt
+bip_39_word_space_1: bonus
+bip_39_word_space_10: bonus ripple napkin crunch rose silent genuine issue doll erase
+bip_39_word_space_11: bonus ripple napkin crunch rose silent genuine issue doll erase
+  crash
+bip_39_word_space_12: bonus ripple napkin crunch rose silent genuine issue doll erase
+  crash aunt
+bip_39_word_space_2: bonus ripple
+bip_39_word_space_3: bonus ripple napkin
+bip_39_word_space_4: bonus ripple napkin crunch
+bip_39_word_space_5: bonus ripple napkin crunch rose
+bip_39_word_space_6: bonus ripple napkin crunch rose silent
+bip_39_word_space_7: bonus ripple napkin crunch rose silent genuine
+bip_39_word_space_8: bonus ripple napkin crunch rose silent genuine issue
+bip_39_word_space_9: bonus ripple napkin crunch rose silent genuine issue doll
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

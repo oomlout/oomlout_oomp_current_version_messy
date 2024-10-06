@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vacant
+bip_39_word_new_br10: vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder
+bip_39_word_new_br11: vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder<br>again
+bip_39_word_new_br12: vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found<br>thunder<br>again<br>apology
+bip_39_word_new_br2: vacant<br>wave
+bip_39_word_new_br3: vacant<br>wave<br>clump
+bip_39_word_new_br4: vacant<br>wave<br>clump<br>affair
+bip_39_word_new_br5: vacant<br>wave<br>clump<br>affair<br>gesture
+bip_39_word_new_br6: vacant<br>wave<br>clump<br>affair<br>gesture<br>defy
+bip_39_word_new_br7: vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock
+bip_39_word_new_br8: vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual
+bip_39_word_new_br9: vacant<br>wave<br>clump<br>affair<br>gesture<br>defy<br>shock<br>manual<br>found
+bip_39_word_new_line1: vacant
+bip_39_word_new_line10: 'vacant
+
+  wave
+
+  clump
+
+  affair
+
+  gesture
+
+  defy
+
+  shock
+
+  manual
+
+  found
+
+  thunder'
+bip_39_word_new_line11: 'vacant
+
+  wave
+
+  clump
+
+  affair
+
+  gesture
+
+  defy
+
+  shock
+
+  manual
+
+  found
+
+  thunder
+
+  again'
+bip_39_word_new_line12: 'vacant
+
+  wave
+
+  clump
+
+  affair
+
+  gesture
+
+  defy
+
+  shock
+
+  manual
+
+  found
+
+  thunder
+
+  again
+
+  apology'
+bip_39_word_new_line2: 'vacant
+
+  wave'
+bip_39_word_new_line3: 'vacant
+
+  wave
+
+  clump'
+bip_39_word_new_line4: 'vacant
+
+  wave
+
+  clump
+
+  affair'
+bip_39_word_new_line5: 'vacant
+
+  wave
+
+  clump
+
+  affair
+
+  gesture'
+bip_39_word_new_line6: 'vacant
+
+  wave
+
+  clump
+
+  affair
+
+  gesture
+
+  defy'
+bip_39_word_new_line7: 'vacant
+
+  wave
+
+  clump
+
+  affair
+
+  gesture
+
+  defy
+
+  shock'
+bip_39_word_new_line8: 'vacant
+
+  wave
+
+  clump
+
+  affair
+
+  gesture
+
+  defy
+
+  shock
+
+  manual'
+bip_39_word_new_line9: 'vacant
+
+  wave
+
+  clump
+
+  affair
+
+  gesture
+
+  defy
+
+  shock
+
+  manual
+
+  found'
+bip_39_word_space_0:
+- vacant
+- wave
+- clump
+- affair
+- gesture
+- defy
+- shock
+- manual
+- found
+- thunder
+- again
+- apology
+bip_39_word_space_1: vacant
+bip_39_word_space_10: vacant wave clump affair gesture defy shock manual found thunder
+bip_39_word_space_11: vacant wave clump affair gesture defy shock manual found thunder
+  again
+bip_39_word_space_12: vacant wave clump affair gesture defy shock manual found thunder
+  again apology
+bip_39_word_space_2: vacant wave
+bip_39_word_space_3: vacant wave clump
+bip_39_word_space_4: vacant wave clump affair
+bip_39_word_space_5: vacant wave clump affair gesture
+bip_39_word_space_6: vacant wave clump affair gesture defy
+bip_39_word_space_7: vacant wave clump affair gesture defy shock
+bip_39_word_space_8: vacant wave clump affair gesture defy shock manual
+bip_39_word_space_9: vacant wave clump affair gesture defy shock manual found
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

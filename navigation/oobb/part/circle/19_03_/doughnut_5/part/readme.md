@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: door embark
+  * bip 39 word 3: door embark prosper
+  * bip 39 word: door embark prosper doll autumn pitch half achieve there toward rent arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | door |  
+| bip_39_word_new_br10 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch<br>half<br>achieve<br>there<br>toward |  
+| bip_39_word_new_br11 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch<br>half<br>achieve<br>there<br>toward<br>rent |  
+| bip_39_word_new_br12 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch<br>half<br>achieve<br>there<br>toward<br>rent<br>arrest |  
+| bip_39_word_new_br2 | door<br>embark |  
+| bip_39_word_new_br3 | door<br>embark<br>prosper |  
+| bip_39_word_new_br4 | door<br>embark<br>prosper<br>doll |  
+| bip_39_word_new_br5 | door<br>embark<br>prosper<br>doll<br>autumn |  
+| bip_39_word_new_br6 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch |  
+| bip_39_word_new_br7 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch<br>half |  
+| bip_39_word_new_br8 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch<br>half<br>achieve |  
+| bip_39_word_new_br9 | door<br>embark<br>prosper<br>doll<br>autumn<br>pitch<br>half<br>achieve<br>there |  
+| bip_39_word_new_line1 | door |  
+| bip_39_word_new_line10 | door
+embark
+prosper
+doll
+autumn
+pitch
+half
+achieve
+there
+toward |  
+| bip_39_word_new_line11 | door
+embark
+prosper
+doll
+autumn
+pitch
+half
+achieve
+there
+toward
+rent |  
+| bip_39_word_new_line12 | door
+embark
+prosper
+doll
+autumn
+pitch
+half
+achieve
+there
+toward
+rent
+arrest |  
+| bip_39_word_new_line2 | door
+embark |  
+| bip_39_word_new_line3 | door
+embark
+prosper |  
+| bip_39_word_new_line4 | door
+embark
+prosper
+doll |  
+| bip_39_word_new_line5 | door
+embark
+prosper
+doll
+autumn |  
+| bip_39_word_new_line6 | door
+embark
+prosper
+doll
+autumn
+pitch |  
+| bip_39_word_new_line7 | door
+embark
+prosper
+doll
+autumn
+pitch
+half |  
+| bip_39_word_new_line8 | door
+embark
+prosper
+doll
+autumn
+pitch
+half
+achieve |  
+| bip_39_word_new_line9 | door
+embark
+prosper
+doll
+autumn
+pitch
+half
+achieve
+there |  
+| bip_39_word_space_0 | ['door', 'embark', 'prosper', 'doll', 'autumn', 'pitch', 'half', 'achieve', 'there', 'toward', 'rent', 'arrest'] |  
+| bip_39_word_space_1 | door |  
+| bip_39_word_space_10 | door embark prosper doll autumn pitch half achieve there toward |  
+| bip_39_word_space_11 | door embark prosper doll autumn pitch half achieve there toward rent |  
+| bip_39_word_space_12 | door embark prosper doll autumn pitch half achieve there toward rent arrest |  
+| bip_39_word_space_2 | door embark |  
+| bip_39_word_space_3 | door embark prosper |  
+| bip_39_word_space_4 | door embark prosper doll |  
+| bip_39_word_space_5 | door embark prosper doll autumn |  
+| bip_39_word_space_6 | door embark prosper doll autumn pitch |  
+| bip_39_word_space_7 | door embark prosper doll autumn pitch half |  
+| bip_39_word_space_8 | door embark prosper doll autumn pitch half achieve |  
+| bip_39_word_space_9 | door embark prosper doll autumn pitch half achieve there |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

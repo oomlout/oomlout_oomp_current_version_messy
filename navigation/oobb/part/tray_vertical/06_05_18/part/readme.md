@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: yellow gesture
+  * bip 39 word 3: yellow gesture science
+  * bip 39 word: yellow gesture science lumber jelly theory series sand indoor devote six adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | yellow |  
+| bip_39_word_new_br10 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory<br>series<br>sand<br>indoor<br>devote |  
+| bip_39_word_new_br11 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory<br>series<br>sand<br>indoor<br>devote<br>six |  
+| bip_39_word_new_br12 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory<br>series<br>sand<br>indoor<br>devote<br>six<br>adapt |  
+| bip_39_word_new_br2 | yellow<br>gesture |  
+| bip_39_word_new_br3 | yellow<br>gesture<br>science |  
+| bip_39_word_new_br4 | yellow<br>gesture<br>science<br>lumber |  
+| bip_39_word_new_br5 | yellow<br>gesture<br>science<br>lumber<br>jelly |  
+| bip_39_word_new_br6 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory |  
+| bip_39_word_new_br7 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory<br>series |  
+| bip_39_word_new_br8 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory<br>series<br>sand |  
+| bip_39_word_new_br9 | yellow<br>gesture<br>science<br>lumber<br>jelly<br>theory<br>series<br>sand<br>indoor |  
+| bip_39_word_new_line1 | yellow |  
+| bip_39_word_new_line10 | yellow
+gesture
+science
+lumber
+jelly
+theory
+series
+sand
+indoor
+devote |  
+| bip_39_word_new_line11 | yellow
+gesture
+science
+lumber
+jelly
+theory
+series
+sand
+indoor
+devote
+six |  
+| bip_39_word_new_line12 | yellow
+gesture
+science
+lumber
+jelly
+theory
+series
+sand
+indoor
+devote
+six
+adapt |  
+| bip_39_word_new_line2 | yellow
+gesture |  
+| bip_39_word_new_line3 | yellow
+gesture
+science |  
+| bip_39_word_new_line4 | yellow
+gesture
+science
+lumber |  
+| bip_39_word_new_line5 | yellow
+gesture
+science
+lumber
+jelly |  
+| bip_39_word_new_line6 | yellow
+gesture
+science
+lumber
+jelly
+theory |  
+| bip_39_word_new_line7 | yellow
+gesture
+science
+lumber
+jelly
+theory
+series |  
+| bip_39_word_new_line8 | yellow
+gesture
+science
+lumber
+jelly
+theory
+series
+sand |  
+| bip_39_word_new_line9 | yellow
+gesture
+science
+lumber
+jelly
+theory
+series
+sand
+indoor |  
+| bip_39_word_space_0 | ['yellow', 'gesture', 'science', 'lumber', 'jelly', 'theory', 'series', 'sand', 'indoor', 'devote', 'six', 'adapt'] |  
+| bip_39_word_space_1 | yellow |  
+| bip_39_word_space_10 | yellow gesture science lumber jelly theory series sand indoor devote |  
+| bip_39_word_space_11 | yellow gesture science lumber jelly theory series sand indoor devote six |  
+| bip_39_word_space_12 | yellow gesture science lumber jelly theory series sand indoor devote six adapt |  
+| bip_39_word_space_2 | yellow gesture |  
+| bip_39_word_space_3 | yellow gesture science |  
+| bip_39_word_space_4 | yellow gesture science lumber |  
+| bip_39_word_space_5 | yellow gesture science lumber jelly |  
+| bip_39_word_space_6 | yellow gesture science lumber jelly theory |  
+| bip_39_word_space_7 | yellow gesture science lumber jelly theory series |  
+| bip_39_word_space_8 | yellow gesture science lumber jelly theory series sand |  
+| bip_39_word_space_9 | yellow gesture science lumber jelly theory series sand indoor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

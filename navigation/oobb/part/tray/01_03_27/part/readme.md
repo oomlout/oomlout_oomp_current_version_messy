@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cluster luggage
+  * bip 39 word 3: cluster luggage dirt
+  * bip 39 word: cluster luggage dirt fee upon alcohol verb drill surround hospital agent album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cluster |  
+| bip_39_word_new_br10 | cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol<br>verb<br>drill<br>surround<br>hospital |  
+| bip_39_word_new_br11 | cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol<br>verb<br>drill<br>surround<br>hospital<br>agent |  
+| bip_39_word_new_br12 | cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol<br>verb<br>drill<br>surround<br>hospital<br>agent<br>album |  
+| bip_39_word_new_br2 | cluster<br>luggage |  
+| bip_39_word_new_br3 | cluster<br>luggage<br>dirt |  
+| bip_39_word_new_br4 | cluster<br>luggage<br>dirt<br>fee |  
+| bip_39_word_new_br5 | cluster<br>luggage<br>dirt<br>fee<br>upon |  
+| bip_39_word_new_br6 | cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol |  
+| bip_39_word_new_br7 | cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol<br>verb |  
+| bip_39_word_new_br8 | cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol<br>verb<br>drill |  
+| bip_39_word_new_br9 | cluster<br>luggage<br>dirt<br>fee<br>upon<br>alcohol<br>verb<br>drill<br>surround |  
+| bip_39_word_new_line1 | cluster |  
+| bip_39_word_new_line10 | cluster
+luggage
+dirt
+fee
+upon
+alcohol
+verb
+drill
+surround
+hospital |  
+| bip_39_word_new_line11 | cluster
+luggage
+dirt
+fee
+upon
+alcohol
+verb
+drill
+surround
+hospital
+agent |  
+| bip_39_word_new_line12 | cluster
+luggage
+dirt
+fee
+upon
+alcohol
+verb
+drill
+surround
+hospital
+agent
+album |  
+| bip_39_word_new_line2 | cluster
+luggage |  
+| bip_39_word_new_line3 | cluster
+luggage
+dirt |  
+| bip_39_word_new_line4 | cluster
+luggage
+dirt
+fee |  
+| bip_39_word_new_line5 | cluster
+luggage
+dirt
+fee
+upon |  
+| bip_39_word_new_line6 | cluster
+luggage
+dirt
+fee
+upon
+alcohol |  
+| bip_39_word_new_line7 | cluster
+luggage
+dirt
+fee
+upon
+alcohol
+verb |  
+| bip_39_word_new_line8 | cluster
+luggage
+dirt
+fee
+upon
+alcohol
+verb
+drill |  
+| bip_39_word_new_line9 | cluster
+luggage
+dirt
+fee
+upon
+alcohol
+verb
+drill
+surround |  
+| bip_39_word_space_0 | ['cluster', 'luggage', 'dirt', 'fee', 'upon', 'alcohol', 'verb', 'drill', 'surround', 'hospital', 'agent', 'album'] |  
+| bip_39_word_space_1 | cluster |  
+| bip_39_word_space_10 | cluster luggage dirt fee upon alcohol verb drill surround hospital |  
+| bip_39_word_space_11 | cluster luggage dirt fee upon alcohol verb drill surround hospital agent |  
+| bip_39_word_space_12 | cluster luggage dirt fee upon alcohol verb drill surround hospital agent album |  
+| bip_39_word_space_2 | cluster luggage |  
+| bip_39_word_space_3 | cluster luggage dirt |  
+| bip_39_word_space_4 | cluster luggage dirt fee |  
+| bip_39_word_space_5 | cluster luggage dirt fee upon |  
+| bip_39_word_space_6 | cluster luggage dirt fee upon alcohol |  
+| bip_39_word_space_7 | cluster luggage dirt fee upon alcohol verb |  
+| bip_39_word_space_8 | cluster luggage dirt fee upon alcohol verb drill |  
+| bip_39_word_space_9 | cluster luggage dirt fee upon alcohol verb drill surround |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

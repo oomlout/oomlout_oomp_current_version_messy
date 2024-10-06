@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rifle uncle
+  * bip 39 word 3: rifle uncle promote
+  * bip 39 word: rifle uncle promote family good menu blue retreat blame explain skate ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rifle |  
+| bip_39_word_new_br10 | rifle<br>uncle<br>promote<br>family<br>good<br>menu<br>blue<br>retreat<br>blame<br>explain |  
+| bip_39_word_new_br11 | rifle<br>uncle<br>promote<br>family<br>good<br>menu<br>blue<br>retreat<br>blame<br>explain<br>skate |  
+| bip_39_word_new_br12 | rifle<br>uncle<br>promote<br>family<br>good<br>menu<br>blue<br>retreat<br>blame<br>explain<br>skate<br>ahead |  
+| bip_39_word_new_br2 | rifle<br>uncle |  
+| bip_39_word_new_br3 | rifle<br>uncle<br>promote |  
+| bip_39_word_new_br4 | rifle<br>uncle<br>promote<br>family |  
+| bip_39_word_new_br5 | rifle<br>uncle<br>promote<br>family<br>good |  
+| bip_39_word_new_br6 | rifle<br>uncle<br>promote<br>family<br>good<br>menu |  
+| bip_39_word_new_br7 | rifle<br>uncle<br>promote<br>family<br>good<br>menu<br>blue |  
+| bip_39_word_new_br8 | rifle<br>uncle<br>promote<br>family<br>good<br>menu<br>blue<br>retreat |  
+| bip_39_word_new_br9 | rifle<br>uncle<br>promote<br>family<br>good<br>menu<br>blue<br>retreat<br>blame |  
+| bip_39_word_new_line1 | rifle |  
+| bip_39_word_new_line10 | rifle
+uncle
+promote
+family
+good
+menu
+blue
+retreat
+blame
+explain |  
+| bip_39_word_new_line11 | rifle
+uncle
+promote
+family
+good
+menu
+blue
+retreat
+blame
+explain
+skate |  
+| bip_39_word_new_line12 | rifle
+uncle
+promote
+family
+good
+menu
+blue
+retreat
+blame
+explain
+skate
+ahead |  
+| bip_39_word_new_line2 | rifle
+uncle |  
+| bip_39_word_new_line3 | rifle
+uncle
+promote |  
+| bip_39_word_new_line4 | rifle
+uncle
+promote
+family |  
+| bip_39_word_new_line5 | rifle
+uncle
+promote
+family
+good |  
+| bip_39_word_new_line6 | rifle
+uncle
+promote
+family
+good
+menu |  
+| bip_39_word_new_line7 | rifle
+uncle
+promote
+family
+good
+menu
+blue |  
+| bip_39_word_new_line8 | rifle
+uncle
+promote
+family
+good
+menu
+blue
+retreat |  
+| bip_39_word_new_line9 | rifle
+uncle
+promote
+family
+good
+menu
+blue
+retreat
+blame |  
+| bip_39_word_space_0 | ['rifle', 'uncle', 'promote', 'family', 'good', 'menu', 'blue', 'retreat', 'blame', 'explain', 'skate', 'ahead'] |  
+| bip_39_word_space_1 | rifle |  
+| bip_39_word_space_10 | rifle uncle promote family good menu blue retreat blame explain |  
+| bip_39_word_space_11 | rifle uncle promote family good menu blue retreat blame explain skate |  
+| bip_39_word_space_12 | rifle uncle promote family good menu blue retreat blame explain skate ahead |  
+| bip_39_word_space_2 | rifle uncle |  
+| bip_39_word_space_3 | rifle uncle promote |  
+| bip_39_word_space_4 | rifle uncle promote family |  
+| bip_39_word_space_5 | rifle uncle promote family good |  
+| bip_39_word_space_6 | rifle uncle promote family good menu |  
+| bip_39_word_space_7 | rifle uncle promote family good menu blue |  
+| bip_39_word_space_8 | rifle uncle promote family good menu blue retreat |  
+| bip_39_word_space_9 | rifle uncle promote family good menu blue retreat blame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

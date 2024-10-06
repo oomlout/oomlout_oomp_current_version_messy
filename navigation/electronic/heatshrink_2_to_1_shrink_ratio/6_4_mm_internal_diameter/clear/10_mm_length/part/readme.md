@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nature bachelor
+  * bip 39 word 3: nature bachelor question
+  * bip 39 word: nature bachelor question inform jelly midnight supreme able swear clap heavy adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nature |  
+| bip_39_word_new_br10 | nature<br>bachelor<br>question<br>inform<br>jelly<br>midnight<br>supreme<br>able<br>swear<br>clap |  
+| bip_39_word_new_br11 | nature<br>bachelor<br>question<br>inform<br>jelly<br>midnight<br>supreme<br>able<br>swear<br>clap<br>heavy |  
+| bip_39_word_new_br12 | nature<br>bachelor<br>question<br>inform<br>jelly<br>midnight<br>supreme<br>able<br>swear<br>clap<br>heavy<br>adapt |  
+| bip_39_word_new_br2 | nature<br>bachelor |  
+| bip_39_word_new_br3 | nature<br>bachelor<br>question |  
+| bip_39_word_new_br4 | nature<br>bachelor<br>question<br>inform |  
+| bip_39_word_new_br5 | nature<br>bachelor<br>question<br>inform<br>jelly |  
+| bip_39_word_new_br6 | nature<br>bachelor<br>question<br>inform<br>jelly<br>midnight |  
+| bip_39_word_new_br7 | nature<br>bachelor<br>question<br>inform<br>jelly<br>midnight<br>supreme |  
+| bip_39_word_new_br8 | nature<br>bachelor<br>question<br>inform<br>jelly<br>midnight<br>supreme<br>able |  
+| bip_39_word_new_br9 | nature<br>bachelor<br>question<br>inform<br>jelly<br>midnight<br>supreme<br>able<br>swear |  
+| bip_39_word_new_line1 | nature |  
+| bip_39_word_new_line10 | nature
+bachelor
+question
+inform
+jelly
+midnight
+supreme
+able
+swear
+clap |  
+| bip_39_word_new_line11 | nature
+bachelor
+question
+inform
+jelly
+midnight
+supreme
+able
+swear
+clap
+heavy |  
+| bip_39_word_new_line12 | nature
+bachelor
+question
+inform
+jelly
+midnight
+supreme
+able
+swear
+clap
+heavy
+adapt |  
+| bip_39_word_new_line2 | nature
+bachelor |  
+| bip_39_word_new_line3 | nature
+bachelor
+question |  
+| bip_39_word_new_line4 | nature
+bachelor
+question
+inform |  
+| bip_39_word_new_line5 | nature
+bachelor
+question
+inform
+jelly |  
+| bip_39_word_new_line6 | nature
+bachelor
+question
+inform
+jelly
+midnight |  
+| bip_39_word_new_line7 | nature
+bachelor
+question
+inform
+jelly
+midnight
+supreme |  
+| bip_39_word_new_line8 | nature
+bachelor
+question
+inform
+jelly
+midnight
+supreme
+able |  
+| bip_39_word_new_line9 | nature
+bachelor
+question
+inform
+jelly
+midnight
+supreme
+able
+swear |  
+| bip_39_word_space_0 | ['nature', 'bachelor', 'question', 'inform', 'jelly', 'midnight', 'supreme', 'able', 'swear', 'clap', 'heavy', 'adapt'] |  
+| bip_39_word_space_1 | nature |  
+| bip_39_word_space_10 | nature bachelor question inform jelly midnight supreme able swear clap |  
+| bip_39_word_space_11 | nature bachelor question inform jelly midnight supreme able swear clap heavy |  
+| bip_39_word_space_12 | nature bachelor question inform jelly midnight supreme able swear clap heavy adapt |  
+| bip_39_word_space_2 | nature bachelor |  
+| bip_39_word_space_3 | nature bachelor question |  
+| bip_39_word_space_4 | nature bachelor question inform |  
+| bip_39_word_space_5 | nature bachelor question inform jelly |  
+| bip_39_word_space_6 | nature bachelor question inform jelly midnight |  
+| bip_39_word_space_7 | nature bachelor question inform jelly midnight supreme |  
+| bip_39_word_space_8 | nature bachelor question inform jelly midnight supreme able |  
+| bip_39_word_space_9 | nature bachelor question inform jelly midnight supreme able swear |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

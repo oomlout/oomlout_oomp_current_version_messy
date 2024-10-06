@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remain behave
+  * bip 39 word 3: remain behave tackle
+  * bip 39 word: remain behave tackle august worth genuine expire practice target always expect always
 
 ### other_codes
 * short_code: fh2b16p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remain |  
+| bip_39_word_new_br10 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine<br>expire<br>practice<br>target<br>always |  
+| bip_39_word_new_br11 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine<br>expire<br>practice<br>target<br>always<br>expect |  
+| bip_39_word_new_br12 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine<br>expire<br>practice<br>target<br>always<br>expect<br>always |  
+| bip_39_word_new_br2 | remain<br>behave |  
+| bip_39_word_new_br3 | remain<br>behave<br>tackle |  
+| bip_39_word_new_br4 | remain<br>behave<br>tackle<br>august |  
+| bip_39_word_new_br5 | remain<br>behave<br>tackle<br>august<br>worth |  
+| bip_39_word_new_br6 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine |  
+| bip_39_word_new_br7 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine<br>expire |  
+| bip_39_word_new_br8 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine<br>expire<br>practice |  
+| bip_39_word_new_br9 | remain<br>behave<br>tackle<br>august<br>worth<br>genuine<br>expire<br>practice<br>target |  
+| bip_39_word_new_line1 | remain |  
+| bip_39_word_new_line10 | remain
+behave
+tackle
+august
+worth
+genuine
+expire
+practice
+target
+always |  
+| bip_39_word_new_line11 | remain
+behave
+tackle
+august
+worth
+genuine
+expire
+practice
+target
+always
+expect |  
+| bip_39_word_new_line12 | remain
+behave
+tackle
+august
+worth
+genuine
+expire
+practice
+target
+always
+expect
+always |  
+| bip_39_word_new_line2 | remain
+behave |  
+| bip_39_word_new_line3 | remain
+behave
+tackle |  
+| bip_39_word_new_line4 | remain
+behave
+tackle
+august |  
+| bip_39_word_new_line5 | remain
+behave
+tackle
+august
+worth |  
+| bip_39_word_new_line6 | remain
+behave
+tackle
+august
+worth
+genuine |  
+| bip_39_word_new_line7 | remain
+behave
+tackle
+august
+worth
+genuine
+expire |  
+| bip_39_word_new_line8 | remain
+behave
+tackle
+august
+worth
+genuine
+expire
+practice |  
+| bip_39_word_new_line9 | remain
+behave
+tackle
+august
+worth
+genuine
+expire
+practice
+target |  
+| bip_39_word_space_0 | ['remain', 'behave', 'tackle', 'august', 'worth', 'genuine', 'expire', 'practice', 'target', 'always', 'expect', 'always'] |  
+| bip_39_word_space_1 | remain |  
+| bip_39_word_space_10 | remain behave tackle august worth genuine expire practice target always |  
+| bip_39_word_space_11 | remain behave tackle august worth genuine expire practice target always expect |  
+| bip_39_word_space_12 | remain behave tackle august worth genuine expire practice target always expect always |  
+| bip_39_word_space_2 | remain behave |  
+| bip_39_word_space_3 | remain behave tackle |  
+| bip_39_word_space_4 | remain behave tackle august |  
+| bip_39_word_space_5 | remain behave tackle august worth |  
+| bip_39_word_space_6 | remain behave tackle august worth genuine |  
+| bip_39_word_space_7 | remain behave tackle august worth genuine expire |  
+| bip_39_word_space_8 | remain behave tackle august worth genuine expire practice |  
+| bip_39_word_space_9 | remain behave tackle august worth genuine expire practice target |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

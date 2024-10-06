@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: owner armor
+  * bip 39 word 3: owner armor doctor
+  * bip 39 word: owner armor doctor drink kick payment bacon move bronze head spoon arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | owner |  
+| bip_39_word_new_br10 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment<br>bacon<br>move<br>bronze<br>head |  
+| bip_39_word_new_br11 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment<br>bacon<br>move<br>bronze<br>head<br>spoon |  
+| bip_39_word_new_br12 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment<br>bacon<br>move<br>bronze<br>head<br>spoon<br>arm |  
+| bip_39_word_new_br2 | owner<br>armor |  
+| bip_39_word_new_br3 | owner<br>armor<br>doctor |  
+| bip_39_word_new_br4 | owner<br>armor<br>doctor<br>drink |  
+| bip_39_word_new_br5 | owner<br>armor<br>doctor<br>drink<br>kick |  
+| bip_39_word_new_br6 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment |  
+| bip_39_word_new_br7 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment<br>bacon |  
+| bip_39_word_new_br8 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment<br>bacon<br>move |  
+| bip_39_word_new_br9 | owner<br>armor<br>doctor<br>drink<br>kick<br>payment<br>bacon<br>move<br>bronze |  
+| bip_39_word_new_line1 | owner |  
+| bip_39_word_new_line10 | owner
+armor
+doctor
+drink
+kick
+payment
+bacon
+move
+bronze
+head |  
+| bip_39_word_new_line11 | owner
+armor
+doctor
+drink
+kick
+payment
+bacon
+move
+bronze
+head
+spoon |  
+| bip_39_word_new_line12 | owner
+armor
+doctor
+drink
+kick
+payment
+bacon
+move
+bronze
+head
+spoon
+arm |  
+| bip_39_word_new_line2 | owner
+armor |  
+| bip_39_word_new_line3 | owner
+armor
+doctor |  
+| bip_39_word_new_line4 | owner
+armor
+doctor
+drink |  
+| bip_39_word_new_line5 | owner
+armor
+doctor
+drink
+kick |  
+| bip_39_word_new_line6 | owner
+armor
+doctor
+drink
+kick
+payment |  
+| bip_39_word_new_line7 | owner
+armor
+doctor
+drink
+kick
+payment
+bacon |  
+| bip_39_word_new_line8 | owner
+armor
+doctor
+drink
+kick
+payment
+bacon
+move |  
+| bip_39_word_new_line9 | owner
+armor
+doctor
+drink
+kick
+payment
+bacon
+move
+bronze |  
+| bip_39_word_space_0 | ['owner', 'armor', 'doctor', 'drink', 'kick', 'payment', 'bacon', 'move', 'bronze', 'head', 'spoon', 'arm'] |  
+| bip_39_word_space_1 | owner |  
+| bip_39_word_space_10 | owner armor doctor drink kick payment bacon move bronze head |  
+| bip_39_word_space_11 | owner armor doctor drink kick payment bacon move bronze head spoon |  
+| bip_39_word_space_12 | owner armor doctor drink kick payment bacon move bronze head spoon arm |  
+| bip_39_word_space_2 | owner armor |  
+| bip_39_word_space_3 | owner armor doctor |  
+| bip_39_word_space_4 | owner armor doctor drink |  
+| bip_39_word_space_5 | owner armor doctor drink kick |  
+| bip_39_word_space_6 | owner armor doctor drink kick payment |  
+| bip_39_word_space_7 | owner armor doctor drink kick payment bacon |  
+| bip_39_word_space_8 | owner armor doctor drink kick payment bacon move |  
+| bip_39_word_space_9 | owner armor doctor drink kick payment bacon move bronze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

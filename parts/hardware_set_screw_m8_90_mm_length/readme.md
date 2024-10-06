@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wire bean
+  * bip 39 word 3: wire bean action
+  * bip 39 word: wire bean action donate short upset fame youth girl female flame acid
 
 ### other_codes
 * short_code: ss8m90
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wire |  
+| bip_39_word_new_br10 | wire<br>bean<br>action<br>donate<br>short<br>upset<br>fame<br>youth<br>girl<br>female |  
+| bip_39_word_new_br11 | wire<br>bean<br>action<br>donate<br>short<br>upset<br>fame<br>youth<br>girl<br>female<br>flame |  
+| bip_39_word_new_br12 | wire<br>bean<br>action<br>donate<br>short<br>upset<br>fame<br>youth<br>girl<br>female<br>flame<br>acid |  
+| bip_39_word_new_br2 | wire<br>bean |  
+| bip_39_word_new_br3 | wire<br>bean<br>action |  
+| bip_39_word_new_br4 | wire<br>bean<br>action<br>donate |  
+| bip_39_word_new_br5 | wire<br>bean<br>action<br>donate<br>short |  
+| bip_39_word_new_br6 | wire<br>bean<br>action<br>donate<br>short<br>upset |  
+| bip_39_word_new_br7 | wire<br>bean<br>action<br>donate<br>short<br>upset<br>fame |  
+| bip_39_word_new_br8 | wire<br>bean<br>action<br>donate<br>short<br>upset<br>fame<br>youth |  
+| bip_39_word_new_br9 | wire<br>bean<br>action<br>donate<br>short<br>upset<br>fame<br>youth<br>girl |  
+| bip_39_word_new_line1 | wire |  
+| bip_39_word_new_line10 | wire
+bean
+action
+donate
+short
+upset
+fame
+youth
+girl
+female |  
+| bip_39_word_new_line11 | wire
+bean
+action
+donate
+short
+upset
+fame
+youth
+girl
+female
+flame |  
+| bip_39_word_new_line12 | wire
+bean
+action
+donate
+short
+upset
+fame
+youth
+girl
+female
+flame
+acid |  
+| bip_39_word_new_line2 | wire
+bean |  
+| bip_39_word_new_line3 | wire
+bean
+action |  
+| bip_39_word_new_line4 | wire
+bean
+action
+donate |  
+| bip_39_word_new_line5 | wire
+bean
+action
+donate
+short |  
+| bip_39_word_new_line6 | wire
+bean
+action
+donate
+short
+upset |  
+| bip_39_word_new_line7 | wire
+bean
+action
+donate
+short
+upset
+fame |  
+| bip_39_word_new_line8 | wire
+bean
+action
+donate
+short
+upset
+fame
+youth |  
+| bip_39_word_new_line9 | wire
+bean
+action
+donate
+short
+upset
+fame
+youth
+girl |  
+| bip_39_word_space_0 | ['wire', 'bean', 'action', 'donate', 'short', 'upset', 'fame', 'youth', 'girl', 'female', 'flame', 'acid'] |  
+| bip_39_word_space_1 | wire |  
+| bip_39_word_space_10 | wire bean action donate short upset fame youth girl female |  
+| bip_39_word_space_11 | wire bean action donate short upset fame youth girl female flame |  
+| bip_39_word_space_12 | wire bean action donate short upset fame youth girl female flame acid |  
+| bip_39_word_space_2 | wire bean |  
+| bip_39_word_space_3 | wire bean action |  
+| bip_39_word_space_4 | wire bean action donate |  
+| bip_39_word_space_5 | wire bean action donate short |  
+| bip_39_word_space_6 | wire bean action donate short upset |  
+| bip_39_word_space_7 | wire bean action donate short upset fame |  
+| bip_39_word_space_8 | wire bean action donate short upset fame youth |  
+| bip_39_word_space_9 | wire bean action donate short upset fame youth girl |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

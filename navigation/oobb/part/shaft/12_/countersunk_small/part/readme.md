@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk_small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: orbit effort
+  * bip 39 word 3: orbit effort pet
+  * bip 39 word: orbit effort pet green dust film remember brain muscle iron degree assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | orbit |  
+| bip_39_word_new_br10 | orbit<br>effort<br>pet<br>green<br>dust<br>film<br>remember<br>brain<br>muscle<br>iron |  
+| bip_39_word_new_br11 | orbit<br>effort<br>pet<br>green<br>dust<br>film<br>remember<br>brain<br>muscle<br>iron<br>degree |  
+| bip_39_word_new_br12 | orbit<br>effort<br>pet<br>green<br>dust<br>film<br>remember<br>brain<br>muscle<br>iron<br>degree<br>assault |  
+| bip_39_word_new_br2 | orbit<br>effort |  
+| bip_39_word_new_br3 | orbit<br>effort<br>pet |  
+| bip_39_word_new_br4 | orbit<br>effort<br>pet<br>green |  
+| bip_39_word_new_br5 | orbit<br>effort<br>pet<br>green<br>dust |  
+| bip_39_word_new_br6 | orbit<br>effort<br>pet<br>green<br>dust<br>film |  
+| bip_39_word_new_br7 | orbit<br>effort<br>pet<br>green<br>dust<br>film<br>remember |  
+| bip_39_word_new_br8 | orbit<br>effort<br>pet<br>green<br>dust<br>film<br>remember<br>brain |  
+| bip_39_word_new_br9 | orbit<br>effort<br>pet<br>green<br>dust<br>film<br>remember<br>brain<br>muscle |  
+| bip_39_word_new_line1 | orbit |  
+| bip_39_word_new_line10 | orbit
+effort
+pet
+green
+dust
+film
+remember
+brain
+muscle
+iron |  
+| bip_39_word_new_line11 | orbit
+effort
+pet
+green
+dust
+film
+remember
+brain
+muscle
+iron
+degree |  
+| bip_39_word_new_line12 | orbit
+effort
+pet
+green
+dust
+film
+remember
+brain
+muscle
+iron
+degree
+assault |  
+| bip_39_word_new_line2 | orbit
+effort |  
+| bip_39_word_new_line3 | orbit
+effort
+pet |  
+| bip_39_word_new_line4 | orbit
+effort
+pet
+green |  
+| bip_39_word_new_line5 | orbit
+effort
+pet
+green
+dust |  
+| bip_39_word_new_line6 | orbit
+effort
+pet
+green
+dust
+film |  
+| bip_39_word_new_line7 | orbit
+effort
+pet
+green
+dust
+film
+remember |  
+| bip_39_word_new_line8 | orbit
+effort
+pet
+green
+dust
+film
+remember
+brain |  
+| bip_39_word_new_line9 | orbit
+effort
+pet
+green
+dust
+film
+remember
+brain
+muscle |  
+| bip_39_word_space_0 | ['orbit', 'effort', 'pet', 'green', 'dust', 'film', 'remember', 'brain', 'muscle', 'iron', 'degree', 'assault'] |  
+| bip_39_word_space_1 | orbit |  
+| bip_39_word_space_10 | orbit effort pet green dust film remember brain muscle iron |  
+| bip_39_word_space_11 | orbit effort pet green dust film remember brain muscle iron degree |  
+| bip_39_word_space_12 | orbit effort pet green dust film remember brain muscle iron degree assault |  
+| bip_39_word_space_2 | orbit effort |  
+| bip_39_word_space_3 | orbit effort pet |  
+| bip_39_word_space_4 | orbit effort pet green |  
+| bip_39_word_space_5 | orbit effort pet green dust |  
+| bip_39_word_space_6 | orbit effort pet green dust film |  
+| bip_39_word_space_7 | orbit effort pet green dust film remember |  
+| bip_39_word_space_8 | orbit effort pet green dust film remember brain |  
+| bip_39_word_space_9 | orbit effort pet green dust film remember brain muscle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

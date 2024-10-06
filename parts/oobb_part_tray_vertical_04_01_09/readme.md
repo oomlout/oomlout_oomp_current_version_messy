@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deputy impact
+  * bip 39 word 3: deputy impact super
+  * bip 39 word: deputy impact super science vibrant mushroom decorate awful pistol banana stage amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deputy |  
+| bip_39_word_new_br10 | deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful<br>pistol<br>banana |  
+| bip_39_word_new_br11 | deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful<br>pistol<br>banana<br>stage |  
+| bip_39_word_new_br12 | deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful<br>pistol<br>banana<br>stage<br>amount |  
+| bip_39_word_new_br2 | deputy<br>impact |  
+| bip_39_word_new_br3 | deputy<br>impact<br>super |  
+| bip_39_word_new_br4 | deputy<br>impact<br>super<br>science |  
+| bip_39_word_new_br5 | deputy<br>impact<br>super<br>science<br>vibrant |  
+| bip_39_word_new_br6 | deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom |  
+| bip_39_word_new_br7 | deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate |  
+| bip_39_word_new_br8 | deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful |  
+| bip_39_word_new_br9 | deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful<br>pistol |  
+| bip_39_word_new_line1 | deputy |  
+| bip_39_word_new_line10 | deputy
+impact
+super
+science
+vibrant
+mushroom
+decorate
+awful
+pistol
+banana |  
+| bip_39_word_new_line11 | deputy
+impact
+super
+science
+vibrant
+mushroom
+decorate
+awful
+pistol
+banana
+stage |  
+| bip_39_word_new_line12 | deputy
+impact
+super
+science
+vibrant
+mushroom
+decorate
+awful
+pistol
+banana
+stage
+amount |  
+| bip_39_word_new_line2 | deputy
+impact |  
+| bip_39_word_new_line3 | deputy
+impact
+super |  
+| bip_39_word_new_line4 | deputy
+impact
+super
+science |  
+| bip_39_word_new_line5 | deputy
+impact
+super
+science
+vibrant |  
+| bip_39_word_new_line6 | deputy
+impact
+super
+science
+vibrant
+mushroom |  
+| bip_39_word_new_line7 | deputy
+impact
+super
+science
+vibrant
+mushroom
+decorate |  
+| bip_39_word_new_line8 | deputy
+impact
+super
+science
+vibrant
+mushroom
+decorate
+awful |  
+| bip_39_word_new_line9 | deputy
+impact
+super
+science
+vibrant
+mushroom
+decorate
+awful
+pistol |  
+| bip_39_word_space_0 | ['deputy', 'impact', 'super', 'science', 'vibrant', 'mushroom', 'decorate', 'awful', 'pistol', 'banana', 'stage', 'amount'] |  
+| bip_39_word_space_1 | deputy |  
+| bip_39_word_space_10 | deputy impact super science vibrant mushroom decorate awful pistol banana |  
+| bip_39_word_space_11 | deputy impact super science vibrant mushroom decorate awful pistol banana stage |  
+| bip_39_word_space_12 | deputy impact super science vibrant mushroom decorate awful pistol banana stage amount |  
+| bip_39_word_space_2 | deputy impact |  
+| bip_39_word_space_3 | deputy impact super |  
+| bip_39_word_space_4 | deputy impact super science |  
+| bip_39_word_space_5 | deputy impact super science vibrant |  
+| bip_39_word_space_6 | deputy impact super science vibrant mushroom |  
+| bip_39_word_space_7 | deputy impact super science vibrant mushroom decorate |  
+| bip_39_word_space_8 | deputy impact super science vibrant mushroom decorate awful |  
+| bip_39_word_space_9 | deputy impact super science vibrant mushroom decorate awful pistol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

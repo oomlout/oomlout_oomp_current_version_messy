@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mountain
+bip_39_word_new_br10: mountain<br>panda<br>hint<br>fury<br>material<br>tongue<br>actress<br>tuition<br>assume<br>admit
+bip_39_word_new_br11: mountain<br>panda<br>hint<br>fury<br>material<br>tongue<br>actress<br>tuition<br>assume<br>admit<br>photo
+bip_39_word_new_br12: mountain<br>panda<br>hint<br>fury<br>material<br>tongue<br>actress<br>tuition<br>assume<br>admit<br>photo<br>again
+bip_39_word_new_br2: mountain<br>panda
+bip_39_word_new_br3: mountain<br>panda<br>hint
+bip_39_word_new_br4: mountain<br>panda<br>hint<br>fury
+bip_39_word_new_br5: mountain<br>panda<br>hint<br>fury<br>material
+bip_39_word_new_br6: mountain<br>panda<br>hint<br>fury<br>material<br>tongue
+bip_39_word_new_br7: mountain<br>panda<br>hint<br>fury<br>material<br>tongue<br>actress
+bip_39_word_new_br8: mountain<br>panda<br>hint<br>fury<br>material<br>tongue<br>actress<br>tuition
+bip_39_word_new_br9: mountain<br>panda<br>hint<br>fury<br>material<br>tongue<br>actress<br>tuition<br>assume
+bip_39_word_new_line1: mountain
+bip_39_word_new_line10: 'mountain
+
+  panda
+
+  hint
+
+  fury
+
+  material
+
+  tongue
+
+  actress
+
+  tuition
+
+  assume
+
+  admit'
+bip_39_word_new_line11: 'mountain
+
+  panda
+
+  hint
+
+  fury
+
+  material
+
+  tongue
+
+  actress
+
+  tuition
+
+  assume
+
+  admit
+
+  photo'
+bip_39_word_new_line12: 'mountain
+
+  panda
+
+  hint
+
+  fury
+
+  material
+
+  tongue
+
+  actress
+
+  tuition
+
+  assume
+
+  admit
+
+  photo
+
+  again'
+bip_39_word_new_line2: 'mountain
+
+  panda'
+bip_39_word_new_line3: 'mountain
+
+  panda
+
+  hint'
+bip_39_word_new_line4: 'mountain
+
+  panda
+
+  hint
+
+  fury'
+bip_39_word_new_line5: 'mountain
+
+  panda
+
+  hint
+
+  fury
+
+  material'
+bip_39_word_new_line6: 'mountain
+
+  panda
+
+  hint
+
+  fury
+
+  material
+
+  tongue'
+bip_39_word_new_line7: 'mountain
+
+  panda
+
+  hint
+
+  fury
+
+  material
+
+  tongue
+
+  actress'
+bip_39_word_new_line8: 'mountain
+
+  panda
+
+  hint
+
+  fury
+
+  material
+
+  tongue
+
+  actress
+
+  tuition'
+bip_39_word_new_line9: 'mountain
+
+  panda
+
+  hint
+
+  fury
+
+  material
+
+  tongue
+
+  actress
+
+  tuition
+
+  assume'
+bip_39_word_space_0:
+- mountain
+- panda
+- hint
+- fury
+- material
+- tongue
+- actress
+- tuition
+- assume
+- admit
+- photo
+- again
+bip_39_word_space_1: mountain
+bip_39_word_space_10: mountain panda hint fury material tongue actress tuition assume
+  admit
+bip_39_word_space_11: mountain panda hint fury material tongue actress tuition assume
+  admit photo
+bip_39_word_space_12: mountain panda hint fury material tongue actress tuition assume
+  admit photo again
+bip_39_word_space_2: mountain panda
+bip_39_word_space_3: mountain panda hint
+bip_39_word_space_4: mountain panda hint fury
+bip_39_word_space_5: mountain panda hint fury material
+bip_39_word_space_6: mountain panda hint fury material tongue
+bip_39_word_space_7: mountain panda hint fury material tongue actress
+bip_39_word_space_8: mountain panda hint fury material tongue actress tuition
+bip_39_word_space_9: mountain panda hint fury material tongue actress tuition assume
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

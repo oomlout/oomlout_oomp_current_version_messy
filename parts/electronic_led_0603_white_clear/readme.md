@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ridge hover
+  * bip 39 word 3: ridge hover draft
+  * bip 39 word: ridge hover draft giggle step pear float unit brother wild clap army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ridge |  
+| bip_39_word_new_br10 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear<br>float<br>unit<br>brother<br>wild |  
+| bip_39_word_new_br11 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear<br>float<br>unit<br>brother<br>wild<br>clap |  
+| bip_39_word_new_br12 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear<br>float<br>unit<br>brother<br>wild<br>clap<br>army |  
+| bip_39_word_new_br2 | ridge<br>hover |  
+| bip_39_word_new_br3 | ridge<br>hover<br>draft |  
+| bip_39_word_new_br4 | ridge<br>hover<br>draft<br>giggle |  
+| bip_39_word_new_br5 | ridge<br>hover<br>draft<br>giggle<br>step |  
+| bip_39_word_new_br6 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear |  
+| bip_39_word_new_br7 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear<br>float |  
+| bip_39_word_new_br8 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear<br>float<br>unit |  
+| bip_39_word_new_br9 | ridge<br>hover<br>draft<br>giggle<br>step<br>pear<br>float<br>unit<br>brother |  
+| bip_39_word_new_line1 | ridge |  
+| bip_39_word_new_line10 | ridge
+hover
+draft
+giggle
+step
+pear
+float
+unit
+brother
+wild |  
+| bip_39_word_new_line11 | ridge
+hover
+draft
+giggle
+step
+pear
+float
+unit
+brother
+wild
+clap |  
+| bip_39_word_new_line12 | ridge
+hover
+draft
+giggle
+step
+pear
+float
+unit
+brother
+wild
+clap
+army |  
+| bip_39_word_new_line2 | ridge
+hover |  
+| bip_39_word_new_line3 | ridge
+hover
+draft |  
+| bip_39_word_new_line4 | ridge
+hover
+draft
+giggle |  
+| bip_39_word_new_line5 | ridge
+hover
+draft
+giggle
+step |  
+| bip_39_word_new_line6 | ridge
+hover
+draft
+giggle
+step
+pear |  
+| bip_39_word_new_line7 | ridge
+hover
+draft
+giggle
+step
+pear
+float |  
+| bip_39_word_new_line8 | ridge
+hover
+draft
+giggle
+step
+pear
+float
+unit |  
+| bip_39_word_new_line9 | ridge
+hover
+draft
+giggle
+step
+pear
+float
+unit
+brother |  
+| bip_39_word_space_0 | ['ridge', 'hover', 'draft', 'giggle', 'step', 'pear', 'float', 'unit', 'brother', 'wild', 'clap', 'army'] |  
+| bip_39_word_space_1 | ridge |  
+| bip_39_word_space_10 | ridge hover draft giggle step pear float unit brother wild |  
+| bip_39_word_space_11 | ridge hover draft giggle step pear float unit brother wild clap |  
+| bip_39_word_space_12 | ridge hover draft giggle step pear float unit brother wild clap army |  
+| bip_39_word_space_2 | ridge hover |  
+| bip_39_word_space_3 | ridge hover draft |  
+| bip_39_word_space_4 | ridge hover draft giggle |  
+| bip_39_word_space_5 | ridge hover draft giggle step |  
+| bip_39_word_space_6 | ridge hover draft giggle step pear |  
+| bip_39_word_space_7 | ridge hover draft giggle step pear float |  
+| bip_39_word_space_8 | ridge hover draft giggle step pear float unit |  
+| bip_39_word_space_9 | ridge hover draft giggle step pear float unit brother |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slow tattoo
+  * bip 39 word 3: slow tattoo fringe
+  * bip 39 word: slow tattoo fringe seminar pipe width symptom wrap confirm range boss assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slow |  
+| bip_39_word_new_br10 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width<br>symptom<br>wrap<br>confirm<br>range |  
+| bip_39_word_new_br11 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width<br>symptom<br>wrap<br>confirm<br>range<br>boss |  
+| bip_39_word_new_br12 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width<br>symptom<br>wrap<br>confirm<br>range<br>boss<br>assault |  
+| bip_39_word_new_br2 | slow<br>tattoo |  
+| bip_39_word_new_br3 | slow<br>tattoo<br>fringe |  
+| bip_39_word_new_br4 | slow<br>tattoo<br>fringe<br>seminar |  
+| bip_39_word_new_br5 | slow<br>tattoo<br>fringe<br>seminar<br>pipe |  
+| bip_39_word_new_br6 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width |  
+| bip_39_word_new_br7 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width<br>symptom |  
+| bip_39_word_new_br8 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width<br>symptom<br>wrap |  
+| bip_39_word_new_br9 | slow<br>tattoo<br>fringe<br>seminar<br>pipe<br>width<br>symptom<br>wrap<br>confirm |  
+| bip_39_word_new_line1 | slow |  
+| bip_39_word_new_line10 | slow
+tattoo
+fringe
+seminar
+pipe
+width
+symptom
+wrap
+confirm
+range |  
+| bip_39_word_new_line11 | slow
+tattoo
+fringe
+seminar
+pipe
+width
+symptom
+wrap
+confirm
+range
+boss |  
+| bip_39_word_new_line12 | slow
+tattoo
+fringe
+seminar
+pipe
+width
+symptom
+wrap
+confirm
+range
+boss
+assault |  
+| bip_39_word_new_line2 | slow
+tattoo |  
+| bip_39_word_new_line3 | slow
+tattoo
+fringe |  
+| bip_39_word_new_line4 | slow
+tattoo
+fringe
+seminar |  
+| bip_39_word_new_line5 | slow
+tattoo
+fringe
+seminar
+pipe |  
+| bip_39_word_new_line6 | slow
+tattoo
+fringe
+seminar
+pipe
+width |  
+| bip_39_word_new_line7 | slow
+tattoo
+fringe
+seminar
+pipe
+width
+symptom |  
+| bip_39_word_new_line8 | slow
+tattoo
+fringe
+seminar
+pipe
+width
+symptom
+wrap |  
+| bip_39_word_new_line9 | slow
+tattoo
+fringe
+seminar
+pipe
+width
+symptom
+wrap
+confirm |  
+| bip_39_word_space_0 | ['slow', 'tattoo', 'fringe', 'seminar', 'pipe', 'width', 'symptom', 'wrap', 'confirm', 'range', 'boss', 'assault'] |  
+| bip_39_word_space_1 | slow |  
+| bip_39_word_space_10 | slow tattoo fringe seminar pipe width symptom wrap confirm range |  
+| bip_39_word_space_11 | slow tattoo fringe seminar pipe width symptom wrap confirm range boss |  
+| bip_39_word_space_12 | slow tattoo fringe seminar pipe width symptom wrap confirm range boss assault |  
+| bip_39_word_space_2 | slow tattoo |  
+| bip_39_word_space_3 | slow tattoo fringe |  
+| bip_39_word_space_4 | slow tattoo fringe seminar |  
+| bip_39_word_space_5 | slow tattoo fringe seminar pipe |  
+| bip_39_word_space_6 | slow tattoo fringe seminar pipe width |  
+| bip_39_word_space_7 | slow tattoo fringe seminar pipe width symptom |  
+| bip_39_word_space_8 | slow tattoo fringe seminar pipe width symptom wrap |  
+| bip_39_word_space_9 | slow tattoo fringe seminar pipe width symptom wrap confirm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

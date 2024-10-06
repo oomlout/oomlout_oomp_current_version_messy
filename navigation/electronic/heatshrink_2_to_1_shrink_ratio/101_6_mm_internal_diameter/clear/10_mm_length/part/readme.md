@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: way excess
+  * bip 39 word 3: way excess trade
+  * bip 39 word: way excess trade surface cheese friend meadow north audit lamp skate assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | way |  
+| bip_39_word_new_br10 | way<br>excess<br>trade<br>surface<br>cheese<br>friend<br>meadow<br>north<br>audit<br>lamp |  
+| bip_39_word_new_br11 | way<br>excess<br>trade<br>surface<br>cheese<br>friend<br>meadow<br>north<br>audit<br>lamp<br>skate |  
+| bip_39_word_new_br12 | way<br>excess<br>trade<br>surface<br>cheese<br>friend<br>meadow<br>north<br>audit<br>lamp<br>skate<br>assume |  
+| bip_39_word_new_br2 | way<br>excess |  
+| bip_39_word_new_br3 | way<br>excess<br>trade |  
+| bip_39_word_new_br4 | way<br>excess<br>trade<br>surface |  
+| bip_39_word_new_br5 | way<br>excess<br>trade<br>surface<br>cheese |  
+| bip_39_word_new_br6 | way<br>excess<br>trade<br>surface<br>cheese<br>friend |  
+| bip_39_word_new_br7 | way<br>excess<br>trade<br>surface<br>cheese<br>friend<br>meadow |  
+| bip_39_word_new_br8 | way<br>excess<br>trade<br>surface<br>cheese<br>friend<br>meadow<br>north |  
+| bip_39_word_new_br9 | way<br>excess<br>trade<br>surface<br>cheese<br>friend<br>meadow<br>north<br>audit |  
+| bip_39_word_new_line1 | way |  
+| bip_39_word_new_line10 | way
+excess
+trade
+surface
+cheese
+friend
+meadow
+north
+audit
+lamp |  
+| bip_39_word_new_line11 | way
+excess
+trade
+surface
+cheese
+friend
+meadow
+north
+audit
+lamp
+skate |  
+| bip_39_word_new_line12 | way
+excess
+trade
+surface
+cheese
+friend
+meadow
+north
+audit
+lamp
+skate
+assume |  
+| bip_39_word_new_line2 | way
+excess |  
+| bip_39_word_new_line3 | way
+excess
+trade |  
+| bip_39_word_new_line4 | way
+excess
+trade
+surface |  
+| bip_39_word_new_line5 | way
+excess
+trade
+surface
+cheese |  
+| bip_39_word_new_line6 | way
+excess
+trade
+surface
+cheese
+friend |  
+| bip_39_word_new_line7 | way
+excess
+trade
+surface
+cheese
+friend
+meadow |  
+| bip_39_word_new_line8 | way
+excess
+trade
+surface
+cheese
+friend
+meadow
+north |  
+| bip_39_word_new_line9 | way
+excess
+trade
+surface
+cheese
+friend
+meadow
+north
+audit |  
+| bip_39_word_space_0 | ['way', 'excess', 'trade', 'surface', 'cheese', 'friend', 'meadow', 'north', 'audit', 'lamp', 'skate', 'assume'] |  
+| bip_39_word_space_1 | way |  
+| bip_39_word_space_10 | way excess trade surface cheese friend meadow north audit lamp |  
+| bip_39_word_space_11 | way excess trade surface cheese friend meadow north audit lamp skate |  
+| bip_39_word_space_12 | way excess trade surface cheese friend meadow north audit lamp skate assume |  
+| bip_39_word_space_2 | way excess |  
+| bip_39_word_space_3 | way excess trade |  
+| bip_39_word_space_4 | way excess trade surface |  
+| bip_39_word_space_5 | way excess trade surface cheese |  
+| bip_39_word_space_6 | way excess trade surface cheese friend |  
+| bip_39_word_space_7 | way excess trade surface cheese friend meadow |  
+| bip_39_word_space_8 | way excess trade surface cheese friend meadow north |  
+| bip_39_word_space_9 | way excess trade surface cheese friend meadow north audit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

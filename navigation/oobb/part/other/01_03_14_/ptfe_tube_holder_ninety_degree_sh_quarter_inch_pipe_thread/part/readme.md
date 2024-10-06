@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vivid unaware
+  * bip 39 word 3: vivid unaware good
+  * bip 39 word: vivid unaware good put rather evolve puzzle pole tube gentle stamp autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vivid |  
+| bip_39_word_new_br10 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube<br>gentle |  
+| bip_39_word_new_br11 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube<br>gentle<br>stamp |  
+| bip_39_word_new_br12 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube<br>gentle<br>stamp<br>autumn |  
+| bip_39_word_new_br2 | vivid<br>unaware |  
+| bip_39_word_new_br3 | vivid<br>unaware<br>good |  
+| bip_39_word_new_br4 | vivid<br>unaware<br>good<br>put |  
+| bip_39_word_new_br5 | vivid<br>unaware<br>good<br>put<br>rather |  
+| bip_39_word_new_br6 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve |  
+| bip_39_word_new_br7 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle |  
+| bip_39_word_new_br8 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole |  
+| bip_39_word_new_br9 | vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube |  
+| bip_39_word_new_line1 | vivid |  
+| bip_39_word_new_line10 | vivid
+unaware
+good
+put
+rather
+evolve
+puzzle
+pole
+tube
+gentle |  
+| bip_39_word_new_line11 | vivid
+unaware
+good
+put
+rather
+evolve
+puzzle
+pole
+tube
+gentle
+stamp |  
+| bip_39_word_new_line12 | vivid
+unaware
+good
+put
+rather
+evolve
+puzzle
+pole
+tube
+gentle
+stamp
+autumn |  
+| bip_39_word_new_line2 | vivid
+unaware |  
+| bip_39_word_new_line3 | vivid
+unaware
+good |  
+| bip_39_word_new_line4 | vivid
+unaware
+good
+put |  
+| bip_39_word_new_line5 | vivid
+unaware
+good
+put
+rather |  
+| bip_39_word_new_line6 | vivid
+unaware
+good
+put
+rather
+evolve |  
+| bip_39_word_new_line7 | vivid
+unaware
+good
+put
+rather
+evolve
+puzzle |  
+| bip_39_word_new_line8 | vivid
+unaware
+good
+put
+rather
+evolve
+puzzle
+pole |  
+| bip_39_word_new_line9 | vivid
+unaware
+good
+put
+rather
+evolve
+puzzle
+pole
+tube |  
+| bip_39_word_space_0 | ['vivid', 'unaware', 'good', 'put', 'rather', 'evolve', 'puzzle', 'pole', 'tube', 'gentle', 'stamp', 'autumn'] |  
+| bip_39_word_space_1 | vivid |  
+| bip_39_word_space_10 | vivid unaware good put rather evolve puzzle pole tube gentle |  
+| bip_39_word_space_11 | vivid unaware good put rather evolve puzzle pole tube gentle stamp |  
+| bip_39_word_space_12 | vivid unaware good put rather evolve puzzle pole tube gentle stamp autumn |  
+| bip_39_word_space_2 | vivid unaware |  
+| bip_39_word_space_3 | vivid unaware good |  
+| bip_39_word_space_4 | vivid unaware good put |  
+| bip_39_word_space_5 | vivid unaware good put rather |  
+| bip_39_word_space_6 | vivid unaware good put rather evolve |  
+| bip_39_word_space_7 | vivid unaware good put rather evolve puzzle |  
+| bip_39_word_space_8 | vivid unaware good put rather evolve puzzle pole |  
+| bip_39_word_space_9 | vivid unaware good put rather evolve puzzle pole tube |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

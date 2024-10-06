@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: worry indoor
+  * bip 39 word 3: worry indoor hope
+  * bip 39 word: worry indoor hope ask casual illness govern genre sibling word place arrange
 
 ### other_codes
 * short_code: sc5b80h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | worry |  
+| bip_39_word_new_br10 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness<br>govern<br>genre<br>sibling<br>word |  
+| bip_39_word_new_br11 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness<br>govern<br>genre<br>sibling<br>word<br>place |  
+| bip_39_word_new_br12 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness<br>govern<br>genre<br>sibling<br>word<br>place<br>arrange |  
+| bip_39_word_new_br2 | worry<br>indoor |  
+| bip_39_word_new_br3 | worry<br>indoor<br>hope |  
+| bip_39_word_new_br4 | worry<br>indoor<br>hope<br>ask |  
+| bip_39_word_new_br5 | worry<br>indoor<br>hope<br>ask<br>casual |  
+| bip_39_word_new_br6 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness |  
+| bip_39_word_new_br7 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness<br>govern |  
+| bip_39_word_new_br8 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness<br>govern<br>genre |  
+| bip_39_word_new_br9 | worry<br>indoor<br>hope<br>ask<br>casual<br>illness<br>govern<br>genre<br>sibling |  
+| bip_39_word_new_line1 | worry |  
+| bip_39_word_new_line10 | worry
+indoor
+hope
+ask
+casual
+illness
+govern
+genre
+sibling
+word |  
+| bip_39_word_new_line11 | worry
+indoor
+hope
+ask
+casual
+illness
+govern
+genre
+sibling
+word
+place |  
+| bip_39_word_new_line12 | worry
+indoor
+hope
+ask
+casual
+illness
+govern
+genre
+sibling
+word
+place
+arrange |  
+| bip_39_word_new_line2 | worry
+indoor |  
+| bip_39_word_new_line3 | worry
+indoor
+hope |  
+| bip_39_word_new_line4 | worry
+indoor
+hope
+ask |  
+| bip_39_word_new_line5 | worry
+indoor
+hope
+ask
+casual |  
+| bip_39_word_new_line6 | worry
+indoor
+hope
+ask
+casual
+illness |  
+| bip_39_word_new_line7 | worry
+indoor
+hope
+ask
+casual
+illness
+govern |  
+| bip_39_word_new_line8 | worry
+indoor
+hope
+ask
+casual
+illness
+govern
+genre |  
+| bip_39_word_new_line9 | worry
+indoor
+hope
+ask
+casual
+illness
+govern
+genre
+sibling |  
+| bip_39_word_space_0 | ['worry', 'indoor', 'hope', 'ask', 'casual', 'illness', 'govern', 'genre', 'sibling', 'word', 'place', 'arrange'] |  
+| bip_39_word_space_1 | worry |  
+| bip_39_word_space_10 | worry indoor hope ask casual illness govern genre sibling word |  
+| bip_39_word_space_11 | worry indoor hope ask casual illness govern genre sibling word place |  
+| bip_39_word_space_12 | worry indoor hope ask casual illness govern genre sibling word place arrange |  
+| bip_39_word_space_2 | worry indoor |  
+| bip_39_word_space_3 | worry indoor hope |  
+| bip_39_word_space_4 | worry indoor hope ask |  
+| bip_39_word_space_5 | worry indoor hope ask casual |  
+| bip_39_word_space_6 | worry indoor hope ask casual illness |  
+| bip_39_word_space_7 | worry indoor hope ask casual illness govern |  
+| bip_39_word_space_8 | worry indoor hope ask casual illness govern genre |  
+| bip_39_word_space_9 | worry indoor hope ask casual illness govern genre sibling |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

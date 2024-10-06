@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: code stairs
+  * bip 39 word 3: code stairs fluid
+  * bip 39 word: code stairs fluid champion youth garment wisdom grab lunch wild since alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | code |  
+| bip_39_word_new_br10 | code<br>stairs<br>fluid<br>champion<br>youth<br>garment<br>wisdom<br>grab<br>lunch<br>wild |  
+| bip_39_word_new_br11 | code<br>stairs<br>fluid<br>champion<br>youth<br>garment<br>wisdom<br>grab<br>lunch<br>wild<br>since |  
+| bip_39_word_new_br12 | code<br>stairs<br>fluid<br>champion<br>youth<br>garment<br>wisdom<br>grab<br>lunch<br>wild<br>since<br>alert |  
+| bip_39_word_new_br2 | code<br>stairs |  
+| bip_39_word_new_br3 | code<br>stairs<br>fluid |  
+| bip_39_word_new_br4 | code<br>stairs<br>fluid<br>champion |  
+| bip_39_word_new_br5 | code<br>stairs<br>fluid<br>champion<br>youth |  
+| bip_39_word_new_br6 | code<br>stairs<br>fluid<br>champion<br>youth<br>garment |  
+| bip_39_word_new_br7 | code<br>stairs<br>fluid<br>champion<br>youth<br>garment<br>wisdom |  
+| bip_39_word_new_br8 | code<br>stairs<br>fluid<br>champion<br>youth<br>garment<br>wisdom<br>grab |  
+| bip_39_word_new_br9 | code<br>stairs<br>fluid<br>champion<br>youth<br>garment<br>wisdom<br>grab<br>lunch |  
+| bip_39_word_new_line1 | code |  
+| bip_39_word_new_line10 | code
+stairs
+fluid
+champion
+youth
+garment
+wisdom
+grab
+lunch
+wild |  
+| bip_39_word_new_line11 | code
+stairs
+fluid
+champion
+youth
+garment
+wisdom
+grab
+lunch
+wild
+since |  
+| bip_39_word_new_line12 | code
+stairs
+fluid
+champion
+youth
+garment
+wisdom
+grab
+lunch
+wild
+since
+alert |  
+| bip_39_word_new_line2 | code
+stairs |  
+| bip_39_word_new_line3 | code
+stairs
+fluid |  
+| bip_39_word_new_line4 | code
+stairs
+fluid
+champion |  
+| bip_39_word_new_line5 | code
+stairs
+fluid
+champion
+youth |  
+| bip_39_word_new_line6 | code
+stairs
+fluid
+champion
+youth
+garment |  
+| bip_39_word_new_line7 | code
+stairs
+fluid
+champion
+youth
+garment
+wisdom |  
+| bip_39_word_new_line8 | code
+stairs
+fluid
+champion
+youth
+garment
+wisdom
+grab |  
+| bip_39_word_new_line9 | code
+stairs
+fluid
+champion
+youth
+garment
+wisdom
+grab
+lunch |  
+| bip_39_word_space_0 | ['code', 'stairs', 'fluid', 'champion', 'youth', 'garment', 'wisdom', 'grab', 'lunch', 'wild', 'since', 'alert'] |  
+| bip_39_word_space_1 | code |  
+| bip_39_word_space_10 | code stairs fluid champion youth garment wisdom grab lunch wild |  
+| bip_39_word_space_11 | code stairs fluid champion youth garment wisdom grab lunch wild since |  
+| bip_39_word_space_12 | code stairs fluid champion youth garment wisdom grab lunch wild since alert |  
+| bip_39_word_space_2 | code stairs |  
+| bip_39_word_space_3 | code stairs fluid |  
+| bip_39_word_space_4 | code stairs fluid champion |  
+| bip_39_word_space_5 | code stairs fluid champion youth |  
+| bip_39_word_space_6 | code stairs fluid champion youth garment |  
+| bip_39_word_space_7 | code stairs fluid champion youth garment wisdom |  
+| bip_39_word_space_8 | code stairs fluid champion youth garment wisdom grab |  
+| bip_39_word_space_9 | code stairs fluid champion youth garment wisdom grab lunch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tomorrow antenna
+  * bip 39 word 3: tomorrow antenna sustain
+  * bip 39 word: tomorrow antenna sustain hungry life gauge salt amused embrace broken protect asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tomorrow |  
+| bip_39_word_new_br10 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge<br>salt<br>amused<br>embrace<br>broken |  
+| bip_39_word_new_br11 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge<br>salt<br>amused<br>embrace<br>broken<br>protect |  
+| bip_39_word_new_br12 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge<br>salt<br>amused<br>embrace<br>broken<br>protect<br>asthma |  
+| bip_39_word_new_br2 | tomorrow<br>antenna |  
+| bip_39_word_new_br3 | tomorrow<br>antenna<br>sustain |  
+| bip_39_word_new_br4 | tomorrow<br>antenna<br>sustain<br>hungry |  
+| bip_39_word_new_br5 | tomorrow<br>antenna<br>sustain<br>hungry<br>life |  
+| bip_39_word_new_br6 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge |  
+| bip_39_word_new_br7 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge<br>salt |  
+| bip_39_word_new_br8 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge<br>salt<br>amused |  
+| bip_39_word_new_br9 | tomorrow<br>antenna<br>sustain<br>hungry<br>life<br>gauge<br>salt<br>amused<br>embrace |  
+| bip_39_word_new_line1 | tomorrow |  
+| bip_39_word_new_line10 | tomorrow
+antenna
+sustain
+hungry
+life
+gauge
+salt
+amused
+embrace
+broken |  
+| bip_39_word_new_line11 | tomorrow
+antenna
+sustain
+hungry
+life
+gauge
+salt
+amused
+embrace
+broken
+protect |  
+| bip_39_word_new_line12 | tomorrow
+antenna
+sustain
+hungry
+life
+gauge
+salt
+amused
+embrace
+broken
+protect
+asthma |  
+| bip_39_word_new_line2 | tomorrow
+antenna |  
+| bip_39_word_new_line3 | tomorrow
+antenna
+sustain |  
+| bip_39_word_new_line4 | tomorrow
+antenna
+sustain
+hungry |  
+| bip_39_word_new_line5 | tomorrow
+antenna
+sustain
+hungry
+life |  
+| bip_39_word_new_line6 | tomorrow
+antenna
+sustain
+hungry
+life
+gauge |  
+| bip_39_word_new_line7 | tomorrow
+antenna
+sustain
+hungry
+life
+gauge
+salt |  
+| bip_39_word_new_line8 | tomorrow
+antenna
+sustain
+hungry
+life
+gauge
+salt
+amused |  
+| bip_39_word_new_line9 | tomorrow
+antenna
+sustain
+hungry
+life
+gauge
+salt
+amused
+embrace |  
+| bip_39_word_space_0 | ['tomorrow', 'antenna', 'sustain', 'hungry', 'life', 'gauge', 'salt', 'amused', 'embrace', 'broken', 'protect', 'asthma'] |  
+| bip_39_word_space_1 | tomorrow |  
+| bip_39_word_space_10 | tomorrow antenna sustain hungry life gauge salt amused embrace broken |  
+| bip_39_word_space_11 | tomorrow antenna sustain hungry life gauge salt amused embrace broken protect |  
+| bip_39_word_space_12 | tomorrow antenna sustain hungry life gauge salt amused embrace broken protect asthma |  
+| bip_39_word_space_2 | tomorrow antenna |  
+| bip_39_word_space_3 | tomorrow antenna sustain |  
+| bip_39_word_space_4 | tomorrow antenna sustain hungry |  
+| bip_39_word_space_5 | tomorrow antenna sustain hungry life |  
+| bip_39_word_space_6 | tomorrow antenna sustain hungry life gauge |  
+| bip_39_word_space_7 | tomorrow antenna sustain hungry life gauge salt |  
+| bip_39_word_space_8 | tomorrow antenna sustain hungry life gauge salt amused |  
+| bip_39_word_space_9 | tomorrow antenna sustain hungry life gauge salt amused embrace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

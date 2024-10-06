@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: great art
+  * bip 39 word 3: great art since
+  * bip 39 word: great art since brass grape crystal cram first sense beef patient air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | great |  
+| bip_39_word_new_br10 | great<br>art<br>since<br>brass<br>grape<br>crystal<br>cram<br>first<br>sense<br>beef |  
+| bip_39_word_new_br11 | great<br>art<br>since<br>brass<br>grape<br>crystal<br>cram<br>first<br>sense<br>beef<br>patient |  
+| bip_39_word_new_br12 | great<br>art<br>since<br>brass<br>grape<br>crystal<br>cram<br>first<br>sense<br>beef<br>patient<br>air |  
+| bip_39_word_new_br2 | great<br>art |  
+| bip_39_word_new_br3 | great<br>art<br>since |  
+| bip_39_word_new_br4 | great<br>art<br>since<br>brass |  
+| bip_39_word_new_br5 | great<br>art<br>since<br>brass<br>grape |  
+| bip_39_word_new_br6 | great<br>art<br>since<br>brass<br>grape<br>crystal |  
+| bip_39_word_new_br7 | great<br>art<br>since<br>brass<br>grape<br>crystal<br>cram |  
+| bip_39_word_new_br8 | great<br>art<br>since<br>brass<br>grape<br>crystal<br>cram<br>first |  
+| bip_39_word_new_br9 | great<br>art<br>since<br>brass<br>grape<br>crystal<br>cram<br>first<br>sense |  
+| bip_39_word_new_line1 | great |  
+| bip_39_word_new_line10 | great
+art
+since
+brass
+grape
+crystal
+cram
+first
+sense
+beef |  
+| bip_39_word_new_line11 | great
+art
+since
+brass
+grape
+crystal
+cram
+first
+sense
+beef
+patient |  
+| bip_39_word_new_line12 | great
+art
+since
+brass
+grape
+crystal
+cram
+first
+sense
+beef
+patient
+air |  
+| bip_39_word_new_line2 | great
+art |  
+| bip_39_word_new_line3 | great
+art
+since |  
+| bip_39_word_new_line4 | great
+art
+since
+brass |  
+| bip_39_word_new_line5 | great
+art
+since
+brass
+grape |  
+| bip_39_word_new_line6 | great
+art
+since
+brass
+grape
+crystal |  
+| bip_39_word_new_line7 | great
+art
+since
+brass
+grape
+crystal
+cram |  
+| bip_39_word_new_line8 | great
+art
+since
+brass
+grape
+crystal
+cram
+first |  
+| bip_39_word_new_line9 | great
+art
+since
+brass
+grape
+crystal
+cram
+first
+sense |  
+| bip_39_word_space_0 | ['great', 'art', 'since', 'brass', 'grape', 'crystal', 'cram', 'first', 'sense', 'beef', 'patient', 'air'] |  
+| bip_39_word_space_1 | great |  
+| bip_39_word_space_10 | great art since brass grape crystal cram first sense beef |  
+| bip_39_word_space_11 | great art since brass grape crystal cram first sense beef patient |  
+| bip_39_word_space_12 | great art since brass grape crystal cram first sense beef patient air |  
+| bip_39_word_space_2 | great art |  
+| bip_39_word_space_3 | great art since |  
+| bip_39_word_space_4 | great art since brass |  
+| bip_39_word_space_5 | great art since brass grape |  
+| bip_39_word_space_6 | great art since brass grape crystal |  
+| bip_39_word_space_7 | great art since brass grape crystal cram |  
+| bip_39_word_space_8 | great art since brass grape crystal cram first |  
+| bip_39_word_space_9 | great art since brass grape crystal cram first sense |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

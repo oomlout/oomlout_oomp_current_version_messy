@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sadness
+bip_39_word_new_br10: sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust<br>guilt<br>onion<br>miss<br>rhythm
+bip_39_word_new_br11: sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust<br>guilt<br>onion<br>miss<br>rhythm<br>picture
+bip_39_word_new_br12: sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust<br>guilt<br>onion<br>miss<br>rhythm<br>picture<br>analyst
+bip_39_word_new_br2: sadness<br>cabbage
+bip_39_word_new_br3: sadness<br>cabbage<br>cup
+bip_39_word_new_br4: sadness<br>cabbage<br>cup<br>inform
+bip_39_word_new_br5: sadness<br>cabbage<br>cup<br>inform<br>frequent
+bip_39_word_new_br6: sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust
+bip_39_word_new_br7: sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust<br>guilt
+bip_39_word_new_br8: sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust<br>guilt<br>onion
+bip_39_word_new_br9: sadness<br>cabbage<br>cup<br>inform<br>frequent<br>trust<br>guilt<br>onion<br>miss
+bip_39_word_new_line1: sadness
+bip_39_word_new_line10: 'sadness
+
+  cabbage
+
+  cup
+
+  inform
+
+  frequent
+
+  trust
+
+  guilt
+
+  onion
+
+  miss
+
+  rhythm'
+bip_39_word_new_line11: 'sadness
+
+  cabbage
+
+  cup
+
+  inform
+
+  frequent
+
+  trust
+
+  guilt
+
+  onion
+
+  miss
+
+  rhythm
+
+  picture'
+bip_39_word_new_line12: 'sadness
+
+  cabbage
+
+  cup
+
+  inform
+
+  frequent
+
+  trust
+
+  guilt
+
+  onion
+
+  miss
+
+  rhythm
+
+  picture
+
+  analyst'
+bip_39_word_new_line2: 'sadness
+
+  cabbage'
+bip_39_word_new_line3: 'sadness
+
+  cabbage
+
+  cup'
+bip_39_word_new_line4: 'sadness
+
+  cabbage
+
+  cup
+
+  inform'
+bip_39_word_new_line5: 'sadness
+
+  cabbage
+
+  cup
+
+  inform
+
+  frequent'
+bip_39_word_new_line6: 'sadness
+
+  cabbage
+
+  cup
+
+  inform
+
+  frequent
+
+  trust'
+bip_39_word_new_line7: 'sadness
+
+  cabbage
+
+  cup
+
+  inform
+
+  frequent
+
+  trust
+
+  guilt'
+bip_39_word_new_line8: 'sadness
+
+  cabbage
+
+  cup
+
+  inform
+
+  frequent
+
+  trust
+
+  guilt
+
+  onion'
+bip_39_word_new_line9: 'sadness
+
+  cabbage
+
+  cup
+
+  inform
+
+  frequent
+
+  trust
+
+  guilt
+
+  onion
+
+  miss'
+bip_39_word_space_0:
+- sadness
+- cabbage
+- cup
+- inform
+- frequent
+- trust
+- guilt
+- onion
+- miss
+- rhythm
+- picture
+- analyst
+bip_39_word_space_1: sadness
+bip_39_word_space_10: sadness cabbage cup inform frequent trust guilt onion miss rhythm
+bip_39_word_space_11: sadness cabbage cup inform frequent trust guilt onion miss rhythm
+  picture
+bip_39_word_space_12: sadness cabbage cup inform frequent trust guilt onion miss rhythm
+  picture analyst
+bip_39_word_space_2: sadness cabbage
+bip_39_word_space_3: sadness cabbage cup
+bip_39_word_space_4: sadness cabbage cup inform
+bip_39_word_space_5: sadness cabbage cup inform frequent
+bip_39_word_space_6: sadness cabbage cup inform frequent trust
+bip_39_word_space_7: sadness cabbage cup inform frequent trust guilt
+bip_39_word_space_8: sadness cabbage cup inform frequent trust guilt onion
+bip_39_word_space_9: sadness cabbage cup inform frequent trust guilt onion miss
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remove exclude
+  * bip 39 word 3: remove exclude mixed
+  * bip 39 word: remove exclude mixed avocado infant scorpion news twin shoe quick banana august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remove |  
+| bip_39_word_new_br10 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion<br>news<br>twin<br>shoe<br>quick |  
+| bip_39_word_new_br11 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion<br>news<br>twin<br>shoe<br>quick<br>banana |  
+| bip_39_word_new_br12 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion<br>news<br>twin<br>shoe<br>quick<br>banana<br>august |  
+| bip_39_word_new_br2 | remove<br>exclude |  
+| bip_39_word_new_br3 | remove<br>exclude<br>mixed |  
+| bip_39_word_new_br4 | remove<br>exclude<br>mixed<br>avocado |  
+| bip_39_word_new_br5 | remove<br>exclude<br>mixed<br>avocado<br>infant |  
+| bip_39_word_new_br6 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion |  
+| bip_39_word_new_br7 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion<br>news |  
+| bip_39_word_new_br8 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion<br>news<br>twin |  
+| bip_39_word_new_br9 | remove<br>exclude<br>mixed<br>avocado<br>infant<br>scorpion<br>news<br>twin<br>shoe |  
+| bip_39_word_new_line1 | remove |  
+| bip_39_word_new_line10 | remove
+exclude
+mixed
+avocado
+infant
+scorpion
+news
+twin
+shoe
+quick |  
+| bip_39_word_new_line11 | remove
+exclude
+mixed
+avocado
+infant
+scorpion
+news
+twin
+shoe
+quick
+banana |  
+| bip_39_word_new_line12 | remove
+exclude
+mixed
+avocado
+infant
+scorpion
+news
+twin
+shoe
+quick
+banana
+august |  
+| bip_39_word_new_line2 | remove
+exclude |  
+| bip_39_word_new_line3 | remove
+exclude
+mixed |  
+| bip_39_word_new_line4 | remove
+exclude
+mixed
+avocado |  
+| bip_39_word_new_line5 | remove
+exclude
+mixed
+avocado
+infant |  
+| bip_39_word_new_line6 | remove
+exclude
+mixed
+avocado
+infant
+scorpion |  
+| bip_39_word_new_line7 | remove
+exclude
+mixed
+avocado
+infant
+scorpion
+news |  
+| bip_39_word_new_line8 | remove
+exclude
+mixed
+avocado
+infant
+scorpion
+news
+twin |  
+| bip_39_word_new_line9 | remove
+exclude
+mixed
+avocado
+infant
+scorpion
+news
+twin
+shoe |  
+| bip_39_word_space_0 | ['remove', 'exclude', 'mixed', 'avocado', 'infant', 'scorpion', 'news', 'twin', 'shoe', 'quick', 'banana', 'august'] |  
+| bip_39_word_space_1 | remove |  
+| bip_39_word_space_10 | remove exclude mixed avocado infant scorpion news twin shoe quick |  
+| bip_39_word_space_11 | remove exclude mixed avocado infant scorpion news twin shoe quick banana |  
+| bip_39_word_space_12 | remove exclude mixed avocado infant scorpion news twin shoe quick banana august |  
+| bip_39_word_space_2 | remove exclude |  
+| bip_39_word_space_3 | remove exclude mixed |  
+| bip_39_word_space_4 | remove exclude mixed avocado |  
+| bip_39_word_space_5 | remove exclude mixed avocado infant |  
+| bip_39_word_space_6 | remove exclude mixed avocado infant scorpion |  
+| bip_39_word_space_7 | remove exclude mixed avocado infant scorpion news |  
+| bip_39_word_space_8 | remove exclude mixed avocado infant scorpion news twin |  
+| bip_39_word_space_9 | remove exclude mixed avocado infant scorpion news twin shoe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

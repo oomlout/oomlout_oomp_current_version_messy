@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: current split
+  * bip 39 word 3: current split nation
+  * bip 39 word: current split nation hurry divide message eye smile skirt voyage treat anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | current |  
+| bip_39_word_new_br10 | current<br>split<br>nation<br>hurry<br>divide<br>message<br>eye<br>smile<br>skirt<br>voyage |  
+| bip_39_word_new_br11 | current<br>split<br>nation<br>hurry<br>divide<br>message<br>eye<br>smile<br>skirt<br>voyage<br>treat |  
+| bip_39_word_new_br12 | current<br>split<br>nation<br>hurry<br>divide<br>message<br>eye<br>smile<br>skirt<br>voyage<br>treat<br>anger |  
+| bip_39_word_new_br2 | current<br>split |  
+| bip_39_word_new_br3 | current<br>split<br>nation |  
+| bip_39_word_new_br4 | current<br>split<br>nation<br>hurry |  
+| bip_39_word_new_br5 | current<br>split<br>nation<br>hurry<br>divide |  
+| bip_39_word_new_br6 | current<br>split<br>nation<br>hurry<br>divide<br>message |  
+| bip_39_word_new_br7 | current<br>split<br>nation<br>hurry<br>divide<br>message<br>eye |  
+| bip_39_word_new_br8 | current<br>split<br>nation<br>hurry<br>divide<br>message<br>eye<br>smile |  
+| bip_39_word_new_br9 | current<br>split<br>nation<br>hurry<br>divide<br>message<br>eye<br>smile<br>skirt |  
+| bip_39_word_new_line1 | current |  
+| bip_39_word_new_line10 | current
+split
+nation
+hurry
+divide
+message
+eye
+smile
+skirt
+voyage |  
+| bip_39_word_new_line11 | current
+split
+nation
+hurry
+divide
+message
+eye
+smile
+skirt
+voyage
+treat |  
+| bip_39_word_new_line12 | current
+split
+nation
+hurry
+divide
+message
+eye
+smile
+skirt
+voyage
+treat
+anger |  
+| bip_39_word_new_line2 | current
+split |  
+| bip_39_word_new_line3 | current
+split
+nation |  
+| bip_39_word_new_line4 | current
+split
+nation
+hurry |  
+| bip_39_word_new_line5 | current
+split
+nation
+hurry
+divide |  
+| bip_39_word_new_line6 | current
+split
+nation
+hurry
+divide
+message |  
+| bip_39_word_new_line7 | current
+split
+nation
+hurry
+divide
+message
+eye |  
+| bip_39_word_new_line8 | current
+split
+nation
+hurry
+divide
+message
+eye
+smile |  
+| bip_39_word_new_line9 | current
+split
+nation
+hurry
+divide
+message
+eye
+smile
+skirt |  
+| bip_39_word_space_0 | ['current', 'split', 'nation', 'hurry', 'divide', 'message', 'eye', 'smile', 'skirt', 'voyage', 'treat', 'anger'] |  
+| bip_39_word_space_1 | current |  
+| bip_39_word_space_10 | current split nation hurry divide message eye smile skirt voyage |  
+| bip_39_word_space_11 | current split nation hurry divide message eye smile skirt voyage treat |  
+| bip_39_word_space_12 | current split nation hurry divide message eye smile skirt voyage treat anger |  
+| bip_39_word_space_2 | current split |  
+| bip_39_word_space_3 | current split nation |  
+| bip_39_word_space_4 | current split nation hurry |  
+| bip_39_word_space_5 | current split nation hurry divide |  
+| bip_39_word_space_6 | current split nation hurry divide message |  
+| bip_39_word_space_7 | current split nation hurry divide message eye |  
+| bip_39_word_space_8 | current split nation hurry divide message eye smile |  
+| bip_39_word_space_9 | current split nation hurry divide message eye smile skirt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

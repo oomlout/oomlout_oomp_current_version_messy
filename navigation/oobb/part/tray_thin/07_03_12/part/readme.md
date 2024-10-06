@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: usage accident
+  * bip 39 word 3: usage accident harbor
+  * bip 39 word: usage accident harbor document discover coil enable orbit aspect game slot apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | usage |  
+| bip_39_word_new_br10 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game |  
+| bip_39_word_new_br11 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game<br>slot |  
+| bip_39_word_new_br12 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect<br>game<br>slot<br>apology |  
+| bip_39_word_new_br2 | usage<br>accident |  
+| bip_39_word_new_br3 | usage<br>accident<br>harbor |  
+| bip_39_word_new_br4 | usage<br>accident<br>harbor<br>document |  
+| bip_39_word_new_br5 | usage<br>accident<br>harbor<br>document<br>discover |  
+| bip_39_word_new_br6 | usage<br>accident<br>harbor<br>document<br>discover<br>coil |  
+| bip_39_word_new_br7 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable |  
+| bip_39_word_new_br8 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit |  
+| bip_39_word_new_br9 | usage<br>accident<br>harbor<br>document<br>discover<br>coil<br>enable<br>orbit<br>aspect |  
+| bip_39_word_new_line1 | usage |  
+| bip_39_word_new_line10 | usage
+accident
+harbor
+document
+discover
+coil
+enable
+orbit
+aspect
+game |  
+| bip_39_word_new_line11 | usage
+accident
+harbor
+document
+discover
+coil
+enable
+orbit
+aspect
+game
+slot |  
+| bip_39_word_new_line12 | usage
+accident
+harbor
+document
+discover
+coil
+enable
+orbit
+aspect
+game
+slot
+apology |  
+| bip_39_word_new_line2 | usage
+accident |  
+| bip_39_word_new_line3 | usage
+accident
+harbor |  
+| bip_39_word_new_line4 | usage
+accident
+harbor
+document |  
+| bip_39_word_new_line5 | usage
+accident
+harbor
+document
+discover |  
+| bip_39_word_new_line6 | usage
+accident
+harbor
+document
+discover
+coil |  
+| bip_39_word_new_line7 | usage
+accident
+harbor
+document
+discover
+coil
+enable |  
+| bip_39_word_new_line8 | usage
+accident
+harbor
+document
+discover
+coil
+enable
+orbit |  
+| bip_39_word_new_line9 | usage
+accident
+harbor
+document
+discover
+coil
+enable
+orbit
+aspect |  
+| bip_39_word_space_0 | ['usage', 'accident', 'harbor', 'document', 'discover', 'coil', 'enable', 'orbit', 'aspect', 'game', 'slot', 'apology'] |  
+| bip_39_word_space_1 | usage |  
+| bip_39_word_space_10 | usage accident harbor document discover coil enable orbit aspect game |  
+| bip_39_word_space_11 | usage accident harbor document discover coil enable orbit aspect game slot |  
+| bip_39_word_space_12 | usage accident harbor document discover coil enable orbit aspect game slot apology |  
+| bip_39_word_space_2 | usage accident |  
+| bip_39_word_space_3 | usage accident harbor |  
+| bip_39_word_space_4 | usage accident harbor document |  
+| bip_39_word_space_5 | usage accident harbor document discover |  
+| bip_39_word_space_6 | usage accident harbor document discover coil |  
+| bip_39_word_space_7 | usage accident harbor document discover coil enable |  
+| bip_39_word_space_8 | usage accident harbor document discover coil enable orbit |  
+| bip_39_word_space_9 | usage accident harbor document discover coil enable orbit aspect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: normal
+bip_39_word_new_br10: normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice
+bip_39_word_new_br11: normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice<br>upon
+bip_39_word_new_br12: normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue<br>voice<br>upon<br>alien
+bip_39_word_new_br2: normal<br>adult
+bip_39_word_new_br3: normal<br>adult<br>gate
+bip_39_word_new_br4: normal<br>adult<br>gate<br>already
+bip_39_word_new_br5: normal<br>adult<br>gate<br>already<br>message
+bip_39_word_new_br6: normal<br>adult<br>gate<br>already<br>message<br>inherit
+bip_39_word_new_br7: normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top
+bip_39_word_new_br8: normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office
+bip_39_word_new_br9: normal<br>adult<br>gate<br>already<br>message<br>inherit<br>top<br>office<br>fatigue
+bip_39_word_new_line1: normal
+bip_39_word_new_line10: 'normal
+
+  adult
+
+  gate
+
+  already
+
+  message
+
+  inherit
+
+  top
+
+  office
+
+  fatigue
+
+  voice'
+bip_39_word_new_line11: 'normal
+
+  adult
+
+  gate
+
+  already
+
+  message
+
+  inherit
+
+  top
+
+  office
+
+  fatigue
+
+  voice
+
+  upon'
+bip_39_word_new_line12: 'normal
+
+  adult
+
+  gate
+
+  already
+
+  message
+
+  inherit
+
+  top
+
+  office
+
+  fatigue
+
+  voice
+
+  upon
+
+  alien'
+bip_39_word_new_line2: 'normal
+
+  adult'
+bip_39_word_new_line3: 'normal
+
+  adult
+
+  gate'
+bip_39_word_new_line4: 'normal
+
+  adult
+
+  gate
+
+  already'
+bip_39_word_new_line5: 'normal
+
+  adult
+
+  gate
+
+  already
+
+  message'
+bip_39_word_new_line6: 'normal
+
+  adult
+
+  gate
+
+  already
+
+  message
+
+  inherit'
+bip_39_word_new_line7: 'normal
+
+  adult
+
+  gate
+
+  already
+
+  message
+
+  inherit
+
+  top'
+bip_39_word_new_line8: 'normal
+
+  adult
+
+  gate
+
+  already
+
+  message
+
+  inherit
+
+  top
+
+  office'
+bip_39_word_new_line9: 'normal
+
+  adult
+
+  gate
+
+  already
+
+  message
+
+  inherit
+
+  top
+
+  office
+
+  fatigue'
+bip_39_word_space_0:
+- normal
+- adult
+- gate
+- already
+- message
+- inherit
+- top
+- office
+- fatigue
+- voice
+- upon
+- alien
+bip_39_word_space_1: normal
+bip_39_word_space_10: normal adult gate already message inherit top office fatigue
+  voice
+bip_39_word_space_11: normal adult gate already message inherit top office fatigue
+  voice upon
+bip_39_word_space_12: normal adult gate already message inherit top office fatigue
+  voice upon alien
+bip_39_word_space_2: normal adult
+bip_39_word_space_3: normal adult gate
+bip_39_word_space_4: normal adult gate already
+bip_39_word_space_5: normal adult gate already message
+bip_39_word_space_6: normal adult gate already message inherit
+bip_39_word_space_7: normal adult gate already message inherit top
+bip_39_word_space_8: normal adult gate already message inherit top office
+bip_39_word_space_9: normal adult gate already message inherit top office fatigue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

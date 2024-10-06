@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: erupt daughter
+  * bip 39 word 3: erupt daughter upper
+  * bip 39 word: erupt daughter upper slot peasant pioneer tone boat silk era champion affair
 
 ### other_codes
 * short_code: brMR84
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | erupt |  
+| bip_39_word_new_br10 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer<br>tone<br>boat<br>silk<br>era |  
+| bip_39_word_new_br11 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer<br>tone<br>boat<br>silk<br>era<br>champion |  
+| bip_39_word_new_br12 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer<br>tone<br>boat<br>silk<br>era<br>champion<br>affair |  
+| bip_39_word_new_br2 | erupt<br>daughter |  
+| bip_39_word_new_br3 | erupt<br>daughter<br>upper |  
+| bip_39_word_new_br4 | erupt<br>daughter<br>upper<br>slot |  
+| bip_39_word_new_br5 | erupt<br>daughter<br>upper<br>slot<br>peasant |  
+| bip_39_word_new_br6 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer |  
+| bip_39_word_new_br7 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer<br>tone |  
+| bip_39_word_new_br8 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer<br>tone<br>boat |  
+| bip_39_word_new_br9 | erupt<br>daughter<br>upper<br>slot<br>peasant<br>pioneer<br>tone<br>boat<br>silk |  
+| bip_39_word_new_line1 | erupt |  
+| bip_39_word_new_line10 | erupt
+daughter
+upper
+slot
+peasant
+pioneer
+tone
+boat
+silk
+era |  
+| bip_39_word_new_line11 | erupt
+daughter
+upper
+slot
+peasant
+pioneer
+tone
+boat
+silk
+era
+champion |  
+| bip_39_word_new_line12 | erupt
+daughter
+upper
+slot
+peasant
+pioneer
+tone
+boat
+silk
+era
+champion
+affair |  
+| bip_39_word_new_line2 | erupt
+daughter |  
+| bip_39_word_new_line3 | erupt
+daughter
+upper |  
+| bip_39_word_new_line4 | erupt
+daughter
+upper
+slot |  
+| bip_39_word_new_line5 | erupt
+daughter
+upper
+slot
+peasant |  
+| bip_39_word_new_line6 | erupt
+daughter
+upper
+slot
+peasant
+pioneer |  
+| bip_39_word_new_line7 | erupt
+daughter
+upper
+slot
+peasant
+pioneer
+tone |  
+| bip_39_word_new_line8 | erupt
+daughter
+upper
+slot
+peasant
+pioneer
+tone
+boat |  
+| bip_39_word_new_line9 | erupt
+daughter
+upper
+slot
+peasant
+pioneer
+tone
+boat
+silk |  
+| bip_39_word_space_0 | ['erupt', 'daughter', 'upper', 'slot', 'peasant', 'pioneer', 'tone', 'boat', 'silk', 'era', 'champion', 'affair'] |  
+| bip_39_word_space_1 | erupt |  
+| bip_39_word_space_10 | erupt daughter upper slot peasant pioneer tone boat silk era |  
+| bip_39_word_space_11 | erupt daughter upper slot peasant pioneer tone boat silk era champion |  
+| bip_39_word_space_12 | erupt daughter upper slot peasant pioneer tone boat silk era champion affair |  
+| bip_39_word_space_2 | erupt daughter |  
+| bip_39_word_space_3 | erupt daughter upper |  
+| bip_39_word_space_4 | erupt daughter upper slot |  
+| bip_39_word_space_5 | erupt daughter upper slot peasant |  
+| bip_39_word_space_6 | erupt daughter upper slot peasant pioneer |  
+| bip_39_word_space_7 | erupt daughter upper slot peasant pioneer tone |  
+| bip_39_word_space_8 | erupt daughter upper slot peasant pioneer tone boat |  
+| bip_39_word_space_9 | erupt daughter upper slot peasant pioneer tone boat silk |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

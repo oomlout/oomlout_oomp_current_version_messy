@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: valve fiscal
+  * bip 39 word 3: valve fiscal object
+  * bip 39 word: valve fiscal object monitor fringe now trend grid drum save person armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | valve |  
+| bip_39_word_new_br10 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now<br>trend<br>grid<br>drum<br>save |  
+| bip_39_word_new_br11 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now<br>trend<br>grid<br>drum<br>save<br>person |  
+| bip_39_word_new_br12 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now<br>trend<br>grid<br>drum<br>save<br>person<br>armor |  
+| bip_39_word_new_br2 | valve<br>fiscal |  
+| bip_39_word_new_br3 | valve<br>fiscal<br>object |  
+| bip_39_word_new_br4 | valve<br>fiscal<br>object<br>monitor |  
+| bip_39_word_new_br5 | valve<br>fiscal<br>object<br>monitor<br>fringe |  
+| bip_39_word_new_br6 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now |  
+| bip_39_word_new_br7 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now<br>trend |  
+| bip_39_word_new_br8 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now<br>trend<br>grid |  
+| bip_39_word_new_br9 | valve<br>fiscal<br>object<br>monitor<br>fringe<br>now<br>trend<br>grid<br>drum |  
+| bip_39_word_new_line1 | valve |  
+| bip_39_word_new_line10 | valve
+fiscal
+object
+monitor
+fringe
+now
+trend
+grid
+drum
+save |  
+| bip_39_word_new_line11 | valve
+fiscal
+object
+monitor
+fringe
+now
+trend
+grid
+drum
+save
+person |  
+| bip_39_word_new_line12 | valve
+fiscal
+object
+monitor
+fringe
+now
+trend
+grid
+drum
+save
+person
+armor |  
+| bip_39_word_new_line2 | valve
+fiscal |  
+| bip_39_word_new_line3 | valve
+fiscal
+object |  
+| bip_39_word_new_line4 | valve
+fiscal
+object
+monitor |  
+| bip_39_word_new_line5 | valve
+fiscal
+object
+monitor
+fringe |  
+| bip_39_word_new_line6 | valve
+fiscal
+object
+monitor
+fringe
+now |  
+| bip_39_word_new_line7 | valve
+fiscal
+object
+monitor
+fringe
+now
+trend |  
+| bip_39_word_new_line8 | valve
+fiscal
+object
+monitor
+fringe
+now
+trend
+grid |  
+| bip_39_word_new_line9 | valve
+fiscal
+object
+monitor
+fringe
+now
+trend
+grid
+drum |  
+| bip_39_word_space_0 | ['valve', 'fiscal', 'object', 'monitor', 'fringe', 'now', 'trend', 'grid', 'drum', 'save', 'person', 'armor'] |  
+| bip_39_word_space_1 | valve |  
+| bip_39_word_space_10 | valve fiscal object monitor fringe now trend grid drum save |  
+| bip_39_word_space_11 | valve fiscal object monitor fringe now trend grid drum save person |  
+| bip_39_word_space_12 | valve fiscal object monitor fringe now trend grid drum save person armor |  
+| bip_39_word_space_2 | valve fiscal |  
+| bip_39_word_space_3 | valve fiscal object |  
+| bip_39_word_space_4 | valve fiscal object monitor |  
+| bip_39_word_space_5 | valve fiscal object monitor fringe |  
+| bip_39_word_space_6 | valve fiscal object monitor fringe now |  
+| bip_39_word_space_7 | valve fiscal object monitor fringe now trend |  
+| bip_39_word_space_8 | valve fiscal object monitor fringe now trend grid |  
+| bip_39_word_space_9 | valve fiscal object monitor fringe now trend grid drum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

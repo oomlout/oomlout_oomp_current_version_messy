@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: abuse wait
+  * bip 39 word 3: abuse wait bachelor
+  * bip 39 word: abuse wait bachelor olympic powder certain language wink stamp oval wash auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | abuse |  
+| bip_39_word_new_br10 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain<br>language<br>wink<br>stamp<br>oval |  
+| bip_39_word_new_br11 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain<br>language<br>wink<br>stamp<br>oval<br>wash |  
+| bip_39_word_new_br12 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain<br>language<br>wink<br>stamp<br>oval<br>wash<br>auto |  
+| bip_39_word_new_br2 | abuse<br>wait |  
+| bip_39_word_new_br3 | abuse<br>wait<br>bachelor |  
+| bip_39_word_new_br4 | abuse<br>wait<br>bachelor<br>olympic |  
+| bip_39_word_new_br5 | abuse<br>wait<br>bachelor<br>olympic<br>powder |  
+| bip_39_word_new_br6 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain |  
+| bip_39_word_new_br7 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain<br>language |  
+| bip_39_word_new_br8 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain<br>language<br>wink |  
+| bip_39_word_new_br9 | abuse<br>wait<br>bachelor<br>olympic<br>powder<br>certain<br>language<br>wink<br>stamp |  
+| bip_39_word_new_line1 | abuse |  
+| bip_39_word_new_line10 | abuse
+wait
+bachelor
+olympic
+powder
+certain
+language
+wink
+stamp
+oval |  
+| bip_39_word_new_line11 | abuse
+wait
+bachelor
+olympic
+powder
+certain
+language
+wink
+stamp
+oval
+wash |  
+| bip_39_word_new_line12 | abuse
+wait
+bachelor
+olympic
+powder
+certain
+language
+wink
+stamp
+oval
+wash
+auto |  
+| bip_39_word_new_line2 | abuse
+wait |  
+| bip_39_word_new_line3 | abuse
+wait
+bachelor |  
+| bip_39_word_new_line4 | abuse
+wait
+bachelor
+olympic |  
+| bip_39_word_new_line5 | abuse
+wait
+bachelor
+olympic
+powder |  
+| bip_39_word_new_line6 | abuse
+wait
+bachelor
+olympic
+powder
+certain |  
+| bip_39_word_new_line7 | abuse
+wait
+bachelor
+olympic
+powder
+certain
+language |  
+| bip_39_word_new_line8 | abuse
+wait
+bachelor
+olympic
+powder
+certain
+language
+wink |  
+| bip_39_word_new_line9 | abuse
+wait
+bachelor
+olympic
+powder
+certain
+language
+wink
+stamp |  
+| bip_39_word_space_0 | ['abuse', 'wait', 'bachelor', 'olympic', 'powder', 'certain', 'language', 'wink', 'stamp', 'oval', 'wash', 'auto'] |  
+| bip_39_word_space_1 | abuse |  
+| bip_39_word_space_10 | abuse wait bachelor olympic powder certain language wink stamp oval |  
+| bip_39_word_space_11 | abuse wait bachelor olympic powder certain language wink stamp oval wash |  
+| bip_39_word_space_12 | abuse wait bachelor olympic powder certain language wink stamp oval wash auto |  
+| bip_39_word_space_2 | abuse wait |  
+| bip_39_word_space_3 | abuse wait bachelor |  
+| bip_39_word_space_4 | abuse wait bachelor olympic |  
+| bip_39_word_space_5 | abuse wait bachelor olympic powder |  
+| bip_39_word_space_6 | abuse wait bachelor olympic powder certain |  
+| bip_39_word_space_7 | abuse wait bachelor olympic powder certain language |  
+| bip_39_word_space_8 | abuse wait bachelor olympic powder certain language wink |  
+| bip_39_word_space_9 | abuse wait bachelor olympic powder certain language wink stamp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

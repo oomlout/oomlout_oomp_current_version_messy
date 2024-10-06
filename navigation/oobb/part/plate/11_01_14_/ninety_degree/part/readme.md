@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: surprise doll
+  * bip 39 word 3: surprise doll idea
+  * bip 39 word: surprise doll idea canal impulse entry mean wash topic fish soda angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | surprise |  
+| bip_39_word_new_br10 | surprise<br>doll<br>idea<br>canal<br>impulse<br>entry<br>mean<br>wash<br>topic<br>fish |  
+| bip_39_word_new_br11 | surprise<br>doll<br>idea<br>canal<br>impulse<br>entry<br>mean<br>wash<br>topic<br>fish<br>soda |  
+| bip_39_word_new_br12 | surprise<br>doll<br>idea<br>canal<br>impulse<br>entry<br>mean<br>wash<br>topic<br>fish<br>soda<br>angle |  
+| bip_39_word_new_br2 | surprise<br>doll |  
+| bip_39_word_new_br3 | surprise<br>doll<br>idea |  
+| bip_39_word_new_br4 | surprise<br>doll<br>idea<br>canal |  
+| bip_39_word_new_br5 | surprise<br>doll<br>idea<br>canal<br>impulse |  
+| bip_39_word_new_br6 | surprise<br>doll<br>idea<br>canal<br>impulse<br>entry |  
+| bip_39_word_new_br7 | surprise<br>doll<br>idea<br>canal<br>impulse<br>entry<br>mean |  
+| bip_39_word_new_br8 | surprise<br>doll<br>idea<br>canal<br>impulse<br>entry<br>mean<br>wash |  
+| bip_39_word_new_br9 | surprise<br>doll<br>idea<br>canal<br>impulse<br>entry<br>mean<br>wash<br>topic |  
+| bip_39_word_new_line1 | surprise |  
+| bip_39_word_new_line10 | surprise
+doll
+idea
+canal
+impulse
+entry
+mean
+wash
+topic
+fish |  
+| bip_39_word_new_line11 | surprise
+doll
+idea
+canal
+impulse
+entry
+mean
+wash
+topic
+fish
+soda |  
+| bip_39_word_new_line12 | surprise
+doll
+idea
+canal
+impulse
+entry
+mean
+wash
+topic
+fish
+soda
+angle |  
+| bip_39_word_new_line2 | surprise
+doll |  
+| bip_39_word_new_line3 | surprise
+doll
+idea |  
+| bip_39_word_new_line4 | surprise
+doll
+idea
+canal |  
+| bip_39_word_new_line5 | surprise
+doll
+idea
+canal
+impulse |  
+| bip_39_word_new_line6 | surprise
+doll
+idea
+canal
+impulse
+entry |  
+| bip_39_word_new_line7 | surprise
+doll
+idea
+canal
+impulse
+entry
+mean |  
+| bip_39_word_new_line8 | surprise
+doll
+idea
+canal
+impulse
+entry
+mean
+wash |  
+| bip_39_word_new_line9 | surprise
+doll
+idea
+canal
+impulse
+entry
+mean
+wash
+topic |  
+| bip_39_word_space_0 | ['surprise', 'doll', 'idea', 'canal', 'impulse', 'entry', 'mean', 'wash', 'topic', 'fish', 'soda', 'angle'] |  
+| bip_39_word_space_1 | surprise |  
+| bip_39_word_space_10 | surprise doll idea canal impulse entry mean wash topic fish |  
+| bip_39_word_space_11 | surprise doll idea canal impulse entry mean wash topic fish soda |  
+| bip_39_word_space_12 | surprise doll idea canal impulse entry mean wash topic fish soda angle |  
+| bip_39_word_space_2 | surprise doll |  
+| bip_39_word_space_3 | surprise doll idea |  
+| bip_39_word_space_4 | surprise doll idea canal |  
+| bip_39_word_space_5 | surprise doll idea canal impulse |  
+| bip_39_word_space_6 | surprise doll idea canal impulse entry |  
+| bip_39_word_space_7 | surprise doll idea canal impulse entry mean |  
+| bip_39_word_space_8 | surprise doll idea canal impulse entry mean wash |  
+| bip_39_word_space_9 | surprise doll idea canal impulse entry mean wash topic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

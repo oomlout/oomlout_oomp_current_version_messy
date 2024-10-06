@@ -1,3 +1,187 @@
+bip_39_word_new_br1: trophy
+bip_39_word_new_br10: trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill
+bip_39_word_new_br11: trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill<br>spot
+bip_39_word_new_br12: trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene<br>drill<br>spot<br>assault
+bip_39_word_new_br2: trophy<br>margin
+bip_39_word_new_br3: trophy<br>margin<br>estate
+bip_39_word_new_br4: trophy<br>margin<br>estate<br>attend
+bip_39_word_new_br5: trophy<br>margin<br>estate<br>attend<br>invest
+bip_39_word_new_br6: trophy<br>margin<br>estate<br>attend<br>invest<br>infant
+bip_39_word_new_br7: trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate
+bip_39_word_new_br8: trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon
+bip_39_word_new_br9: trophy<br>margin<br>estate<br>attend<br>invest<br>infant<br>inmate<br>salmon<br>scene
+bip_39_word_new_line1: trophy
+bip_39_word_new_line10: 'trophy
+
+  margin
+
+  estate
+
+  attend
+
+  invest
+
+  infant
+
+  inmate
+
+  salmon
+
+  scene
+
+  drill'
+bip_39_word_new_line11: 'trophy
+
+  margin
+
+  estate
+
+  attend
+
+  invest
+
+  infant
+
+  inmate
+
+  salmon
+
+  scene
+
+  drill
+
+  spot'
+bip_39_word_new_line12: 'trophy
+
+  margin
+
+  estate
+
+  attend
+
+  invest
+
+  infant
+
+  inmate
+
+  salmon
+
+  scene
+
+  drill
+
+  spot
+
+  assault'
+bip_39_word_new_line2: 'trophy
+
+  margin'
+bip_39_word_new_line3: 'trophy
+
+  margin
+
+  estate'
+bip_39_word_new_line4: 'trophy
+
+  margin
+
+  estate
+
+  attend'
+bip_39_word_new_line5: 'trophy
+
+  margin
+
+  estate
+
+  attend
+
+  invest'
+bip_39_word_new_line6: 'trophy
+
+  margin
+
+  estate
+
+  attend
+
+  invest
+
+  infant'
+bip_39_word_new_line7: 'trophy
+
+  margin
+
+  estate
+
+  attend
+
+  invest
+
+  infant
+
+  inmate'
+bip_39_word_new_line8: 'trophy
+
+  margin
+
+  estate
+
+  attend
+
+  invest
+
+  infant
+
+  inmate
+
+  salmon'
+bip_39_word_new_line9: 'trophy
+
+  margin
+
+  estate
+
+  attend
+
+  invest
+
+  infant
+
+  inmate
+
+  salmon
+
+  scene'
+bip_39_word_space_0:
+- trophy
+- margin
+- estate
+- attend
+- invest
+- infant
+- inmate
+- salmon
+- scene
+- drill
+- spot
+- assault
+bip_39_word_space_1: trophy
+bip_39_word_space_10: trophy margin estate attend invest infant inmate salmon scene
+  drill
+bip_39_word_space_11: trophy margin estate attend invest infant inmate salmon scene
+  drill spot
+bip_39_word_space_12: trophy margin estate attend invest infant inmate salmon scene
+  drill spot assault
+bip_39_word_space_2: trophy margin
+bip_39_word_space_3: trophy margin estate
+bip_39_word_space_4: trophy margin estate attend
+bip_39_word_space_5: trophy margin estate attend invest
+bip_39_word_space_6: trophy margin estate attend invest infant
+bip_39_word_space_7: trophy margin estate attend invest infant inmate
+bip_39_word_space_8: trophy margin estate attend invest infant inmate salmon
+bip_39_word_space_9: trophy margin estate attend invest infant inmate salmon scene
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

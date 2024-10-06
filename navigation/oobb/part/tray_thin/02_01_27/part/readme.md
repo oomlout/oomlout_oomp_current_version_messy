@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: world senior
+  * bip 39 word 3: world senior lion
+  * bip 39 word: world senior lion must sister mesh learn loop nurse idle board ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | world |  
+| bip_39_word_new_br10 | world<br>senior<br>lion<br>must<br>sister<br>mesh<br>learn<br>loop<br>nurse<br>idle |  
+| bip_39_word_new_br11 | world<br>senior<br>lion<br>must<br>sister<br>mesh<br>learn<br>loop<br>nurse<br>idle<br>board |  
+| bip_39_word_new_br12 | world<br>senior<br>lion<br>must<br>sister<br>mesh<br>learn<br>loop<br>nurse<br>idle<br>board<br>ask |  
+| bip_39_word_new_br2 | world<br>senior |  
+| bip_39_word_new_br3 | world<br>senior<br>lion |  
+| bip_39_word_new_br4 | world<br>senior<br>lion<br>must |  
+| bip_39_word_new_br5 | world<br>senior<br>lion<br>must<br>sister |  
+| bip_39_word_new_br6 | world<br>senior<br>lion<br>must<br>sister<br>mesh |  
+| bip_39_word_new_br7 | world<br>senior<br>lion<br>must<br>sister<br>mesh<br>learn |  
+| bip_39_word_new_br8 | world<br>senior<br>lion<br>must<br>sister<br>mesh<br>learn<br>loop |  
+| bip_39_word_new_br9 | world<br>senior<br>lion<br>must<br>sister<br>mesh<br>learn<br>loop<br>nurse |  
+| bip_39_word_new_line1 | world |  
+| bip_39_word_new_line10 | world
+senior
+lion
+must
+sister
+mesh
+learn
+loop
+nurse
+idle |  
+| bip_39_word_new_line11 | world
+senior
+lion
+must
+sister
+mesh
+learn
+loop
+nurse
+idle
+board |  
+| bip_39_word_new_line12 | world
+senior
+lion
+must
+sister
+mesh
+learn
+loop
+nurse
+idle
+board
+ask |  
+| bip_39_word_new_line2 | world
+senior |  
+| bip_39_word_new_line3 | world
+senior
+lion |  
+| bip_39_word_new_line4 | world
+senior
+lion
+must |  
+| bip_39_word_new_line5 | world
+senior
+lion
+must
+sister |  
+| bip_39_word_new_line6 | world
+senior
+lion
+must
+sister
+mesh |  
+| bip_39_word_new_line7 | world
+senior
+lion
+must
+sister
+mesh
+learn |  
+| bip_39_word_new_line8 | world
+senior
+lion
+must
+sister
+mesh
+learn
+loop |  
+| bip_39_word_new_line9 | world
+senior
+lion
+must
+sister
+mesh
+learn
+loop
+nurse |  
+| bip_39_word_space_0 | ['world', 'senior', 'lion', 'must', 'sister', 'mesh', 'learn', 'loop', 'nurse', 'idle', 'board', 'ask'] |  
+| bip_39_word_space_1 | world |  
+| bip_39_word_space_10 | world senior lion must sister mesh learn loop nurse idle |  
+| bip_39_word_space_11 | world senior lion must sister mesh learn loop nurse idle board |  
+| bip_39_word_space_12 | world senior lion must sister mesh learn loop nurse idle board ask |  
+| bip_39_word_space_2 | world senior |  
+| bip_39_word_space_3 | world senior lion |  
+| bip_39_word_space_4 | world senior lion must |  
+| bip_39_word_space_5 | world senior lion must sister |  
+| bip_39_word_space_6 | world senior lion must sister mesh |  
+| bip_39_word_space_7 | world senior lion must sister mesh learn |  
+| bip_39_word_space_8 | world senior lion must sister mesh learn loop |  
+| bip_39_word_space_9 | world senior lion must sister mesh learn loop nurse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

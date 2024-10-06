@@ -1,3 +1,186 @@
+bip_39_word_new_br1: artwork
+bip_39_word_new_br10: artwork<br>order<br>output<br>fault<br>faith<br>radio<br>belt<br>say<br>clump<br>concert
+bip_39_word_new_br11: artwork<br>order<br>output<br>fault<br>faith<br>radio<br>belt<br>say<br>clump<br>concert<br>stereo
+bip_39_word_new_br12: artwork<br>order<br>output<br>fault<br>faith<br>radio<br>belt<br>say<br>clump<br>concert<br>stereo<br>affair
+bip_39_word_new_br2: artwork<br>order
+bip_39_word_new_br3: artwork<br>order<br>output
+bip_39_word_new_br4: artwork<br>order<br>output<br>fault
+bip_39_word_new_br5: artwork<br>order<br>output<br>fault<br>faith
+bip_39_word_new_br6: artwork<br>order<br>output<br>fault<br>faith<br>radio
+bip_39_word_new_br7: artwork<br>order<br>output<br>fault<br>faith<br>radio<br>belt
+bip_39_word_new_br8: artwork<br>order<br>output<br>fault<br>faith<br>radio<br>belt<br>say
+bip_39_word_new_br9: artwork<br>order<br>output<br>fault<br>faith<br>radio<br>belt<br>say<br>clump
+bip_39_word_new_line1: artwork
+bip_39_word_new_line10: 'artwork
+
+  order
+
+  output
+
+  fault
+
+  faith
+
+  radio
+
+  belt
+
+  say
+
+  clump
+
+  concert'
+bip_39_word_new_line11: 'artwork
+
+  order
+
+  output
+
+  fault
+
+  faith
+
+  radio
+
+  belt
+
+  say
+
+  clump
+
+  concert
+
+  stereo'
+bip_39_word_new_line12: 'artwork
+
+  order
+
+  output
+
+  fault
+
+  faith
+
+  radio
+
+  belt
+
+  say
+
+  clump
+
+  concert
+
+  stereo
+
+  affair'
+bip_39_word_new_line2: 'artwork
+
+  order'
+bip_39_word_new_line3: 'artwork
+
+  order
+
+  output'
+bip_39_word_new_line4: 'artwork
+
+  order
+
+  output
+
+  fault'
+bip_39_word_new_line5: 'artwork
+
+  order
+
+  output
+
+  fault
+
+  faith'
+bip_39_word_new_line6: 'artwork
+
+  order
+
+  output
+
+  fault
+
+  faith
+
+  radio'
+bip_39_word_new_line7: 'artwork
+
+  order
+
+  output
+
+  fault
+
+  faith
+
+  radio
+
+  belt'
+bip_39_word_new_line8: 'artwork
+
+  order
+
+  output
+
+  fault
+
+  faith
+
+  radio
+
+  belt
+
+  say'
+bip_39_word_new_line9: 'artwork
+
+  order
+
+  output
+
+  fault
+
+  faith
+
+  radio
+
+  belt
+
+  say
+
+  clump'
+bip_39_word_space_0:
+- artwork
+- order
+- output
+- fault
+- faith
+- radio
+- belt
+- say
+- clump
+- concert
+- stereo
+- affair
+bip_39_word_space_1: artwork
+bip_39_word_space_10: artwork order output fault faith radio belt say clump concert
+bip_39_word_space_11: artwork order output fault faith radio belt say clump concert
+  stereo
+bip_39_word_space_12: artwork order output fault faith radio belt say clump concert
+  stereo affair
+bip_39_word_space_2: artwork order
+bip_39_word_space_3: artwork order output
+bip_39_word_space_4: artwork order output fault
+bip_39_word_space_5: artwork order output fault faith
+bip_39_word_space_6: artwork order output fault faith radio
+bip_39_word_space_7: artwork order output fault faith radio belt
+bip_39_word_space_8: artwork order output fault faith radio belt say
+bip_39_word_space_9: artwork order output fault faith radio belt say clump
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

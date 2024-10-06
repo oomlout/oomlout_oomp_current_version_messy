@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rookie grass
+  * bip 39 word 3: rookie grass want
+  * bip 39 word: rookie grass want wild flavor volcano tent nature spray sniff erupt alien
 
 ### other_codes
 * short_code: n2mfl
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rookie |  
+| bip_39_word_new_br10 | rookie<br>grass<br>want<br>wild<br>flavor<br>volcano<br>tent<br>nature<br>spray<br>sniff |  
+| bip_39_word_new_br11 | rookie<br>grass<br>want<br>wild<br>flavor<br>volcano<br>tent<br>nature<br>spray<br>sniff<br>erupt |  
+| bip_39_word_new_br12 | rookie<br>grass<br>want<br>wild<br>flavor<br>volcano<br>tent<br>nature<br>spray<br>sniff<br>erupt<br>alien |  
+| bip_39_word_new_br2 | rookie<br>grass |  
+| bip_39_word_new_br3 | rookie<br>grass<br>want |  
+| bip_39_word_new_br4 | rookie<br>grass<br>want<br>wild |  
+| bip_39_word_new_br5 | rookie<br>grass<br>want<br>wild<br>flavor |  
+| bip_39_word_new_br6 | rookie<br>grass<br>want<br>wild<br>flavor<br>volcano |  
+| bip_39_word_new_br7 | rookie<br>grass<br>want<br>wild<br>flavor<br>volcano<br>tent |  
+| bip_39_word_new_br8 | rookie<br>grass<br>want<br>wild<br>flavor<br>volcano<br>tent<br>nature |  
+| bip_39_word_new_br9 | rookie<br>grass<br>want<br>wild<br>flavor<br>volcano<br>tent<br>nature<br>spray |  
+| bip_39_word_new_line1 | rookie |  
+| bip_39_word_new_line10 | rookie
+grass
+want
+wild
+flavor
+volcano
+tent
+nature
+spray
+sniff |  
+| bip_39_word_new_line11 | rookie
+grass
+want
+wild
+flavor
+volcano
+tent
+nature
+spray
+sniff
+erupt |  
+| bip_39_word_new_line12 | rookie
+grass
+want
+wild
+flavor
+volcano
+tent
+nature
+spray
+sniff
+erupt
+alien |  
+| bip_39_word_new_line2 | rookie
+grass |  
+| bip_39_word_new_line3 | rookie
+grass
+want |  
+| bip_39_word_new_line4 | rookie
+grass
+want
+wild |  
+| bip_39_word_new_line5 | rookie
+grass
+want
+wild
+flavor |  
+| bip_39_word_new_line6 | rookie
+grass
+want
+wild
+flavor
+volcano |  
+| bip_39_word_new_line7 | rookie
+grass
+want
+wild
+flavor
+volcano
+tent |  
+| bip_39_word_new_line8 | rookie
+grass
+want
+wild
+flavor
+volcano
+tent
+nature |  
+| bip_39_word_new_line9 | rookie
+grass
+want
+wild
+flavor
+volcano
+tent
+nature
+spray |  
+| bip_39_word_space_0 | ['rookie', 'grass', 'want', 'wild', 'flavor', 'volcano', 'tent', 'nature', 'spray', 'sniff', 'erupt', 'alien'] |  
+| bip_39_word_space_1 | rookie |  
+| bip_39_word_space_10 | rookie grass want wild flavor volcano tent nature spray sniff |  
+| bip_39_word_space_11 | rookie grass want wild flavor volcano tent nature spray sniff erupt |  
+| bip_39_word_space_12 | rookie grass want wild flavor volcano tent nature spray sniff erupt alien |  
+| bip_39_word_space_2 | rookie grass |  
+| bip_39_word_space_3 | rookie grass want |  
+| bip_39_word_space_4 | rookie grass want wild |  
+| bip_39_word_space_5 | rookie grass want wild flavor |  
+| bip_39_word_space_6 | rookie grass want wild flavor volcano |  
+| bip_39_word_space_7 | rookie grass want wild flavor volcano tent |  
+| bip_39_word_space_8 | rookie grass want wild flavor volcano tent nature |  
+| bip_39_word_space_9 | rookie grass want wild flavor volcano tent nature spray |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

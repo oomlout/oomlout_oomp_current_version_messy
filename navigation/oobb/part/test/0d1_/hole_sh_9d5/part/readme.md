@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hole_sh_9d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grit cloud
+  * bip 39 word 3: grit cloud rule
+  * bip 39 word: grit cloud rule life ahead turn brave sword lava submit rack action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grit |  
+| bip_39_word_new_br10 | grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava<br>submit |  
+| bip_39_word_new_br11 | grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava<br>submit<br>rack |  
+| bip_39_word_new_br12 | grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava<br>submit<br>rack<br>action |  
+| bip_39_word_new_br2 | grit<br>cloud |  
+| bip_39_word_new_br3 | grit<br>cloud<br>rule |  
+| bip_39_word_new_br4 | grit<br>cloud<br>rule<br>life |  
+| bip_39_word_new_br5 | grit<br>cloud<br>rule<br>life<br>ahead |  
+| bip_39_word_new_br6 | grit<br>cloud<br>rule<br>life<br>ahead<br>turn |  
+| bip_39_word_new_br7 | grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave |  
+| bip_39_word_new_br8 | grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword |  
+| bip_39_word_new_br9 | grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava |  
+| bip_39_word_new_line1 | grit |  
+| bip_39_word_new_line10 | grit
+cloud
+rule
+life
+ahead
+turn
+brave
+sword
+lava
+submit |  
+| bip_39_word_new_line11 | grit
+cloud
+rule
+life
+ahead
+turn
+brave
+sword
+lava
+submit
+rack |  
+| bip_39_word_new_line12 | grit
+cloud
+rule
+life
+ahead
+turn
+brave
+sword
+lava
+submit
+rack
+action |  
+| bip_39_word_new_line2 | grit
+cloud |  
+| bip_39_word_new_line3 | grit
+cloud
+rule |  
+| bip_39_word_new_line4 | grit
+cloud
+rule
+life |  
+| bip_39_word_new_line5 | grit
+cloud
+rule
+life
+ahead |  
+| bip_39_word_new_line6 | grit
+cloud
+rule
+life
+ahead
+turn |  
+| bip_39_word_new_line7 | grit
+cloud
+rule
+life
+ahead
+turn
+brave |  
+| bip_39_word_new_line8 | grit
+cloud
+rule
+life
+ahead
+turn
+brave
+sword |  
+| bip_39_word_new_line9 | grit
+cloud
+rule
+life
+ahead
+turn
+brave
+sword
+lava |  
+| bip_39_word_space_0 | ['grit', 'cloud', 'rule', 'life', 'ahead', 'turn', 'brave', 'sword', 'lava', 'submit', 'rack', 'action'] |  
+| bip_39_word_space_1 | grit |  
+| bip_39_word_space_10 | grit cloud rule life ahead turn brave sword lava submit |  
+| bip_39_word_space_11 | grit cloud rule life ahead turn brave sword lava submit rack |  
+| bip_39_word_space_12 | grit cloud rule life ahead turn brave sword lava submit rack action |  
+| bip_39_word_space_2 | grit cloud |  
+| bip_39_word_space_3 | grit cloud rule |  
+| bip_39_word_space_4 | grit cloud rule life |  
+| bip_39_word_space_5 | grit cloud rule life ahead |  
+| bip_39_word_space_6 | grit cloud rule life ahead turn |  
+| bip_39_word_space_7 | grit cloud rule life ahead turn brave |  
+| bip_39_word_space_8 | grit cloud rule life ahead turn brave sword |  
+| bip_39_word_space_9 | grit cloud rule life ahead turn brave sword lava |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

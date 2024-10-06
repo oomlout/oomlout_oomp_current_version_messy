@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nose oval
+  * bip 39 word 3: nose oval warm
+  * bip 39 word: nose oval warm coral gallery pause lesson joy switch leader risk add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nose |  
+| bip_39_word_new_br10 | nose<br>oval<br>warm<br>coral<br>gallery<br>pause<br>lesson<br>joy<br>switch<br>leader |  
+| bip_39_word_new_br11 | nose<br>oval<br>warm<br>coral<br>gallery<br>pause<br>lesson<br>joy<br>switch<br>leader<br>risk |  
+| bip_39_word_new_br12 | nose<br>oval<br>warm<br>coral<br>gallery<br>pause<br>lesson<br>joy<br>switch<br>leader<br>risk<br>add |  
+| bip_39_word_new_br2 | nose<br>oval |  
+| bip_39_word_new_br3 | nose<br>oval<br>warm |  
+| bip_39_word_new_br4 | nose<br>oval<br>warm<br>coral |  
+| bip_39_word_new_br5 | nose<br>oval<br>warm<br>coral<br>gallery |  
+| bip_39_word_new_br6 | nose<br>oval<br>warm<br>coral<br>gallery<br>pause |  
+| bip_39_word_new_br7 | nose<br>oval<br>warm<br>coral<br>gallery<br>pause<br>lesson |  
+| bip_39_word_new_br8 | nose<br>oval<br>warm<br>coral<br>gallery<br>pause<br>lesson<br>joy |  
+| bip_39_word_new_br9 | nose<br>oval<br>warm<br>coral<br>gallery<br>pause<br>lesson<br>joy<br>switch |  
+| bip_39_word_new_line1 | nose |  
+| bip_39_word_new_line10 | nose
+oval
+warm
+coral
+gallery
+pause
+lesson
+joy
+switch
+leader |  
+| bip_39_word_new_line11 | nose
+oval
+warm
+coral
+gallery
+pause
+lesson
+joy
+switch
+leader
+risk |  
+| bip_39_word_new_line12 | nose
+oval
+warm
+coral
+gallery
+pause
+lesson
+joy
+switch
+leader
+risk
+add |  
+| bip_39_word_new_line2 | nose
+oval |  
+| bip_39_word_new_line3 | nose
+oval
+warm |  
+| bip_39_word_new_line4 | nose
+oval
+warm
+coral |  
+| bip_39_word_new_line5 | nose
+oval
+warm
+coral
+gallery |  
+| bip_39_word_new_line6 | nose
+oval
+warm
+coral
+gallery
+pause |  
+| bip_39_word_new_line7 | nose
+oval
+warm
+coral
+gallery
+pause
+lesson |  
+| bip_39_word_new_line8 | nose
+oval
+warm
+coral
+gallery
+pause
+lesson
+joy |  
+| bip_39_word_new_line9 | nose
+oval
+warm
+coral
+gallery
+pause
+lesson
+joy
+switch |  
+| bip_39_word_space_0 | ['nose', 'oval', 'warm', 'coral', 'gallery', 'pause', 'lesson', 'joy', 'switch', 'leader', 'risk', 'add'] |  
+| bip_39_word_space_1 | nose |  
+| bip_39_word_space_10 | nose oval warm coral gallery pause lesson joy switch leader |  
+| bip_39_word_space_11 | nose oval warm coral gallery pause lesson joy switch leader risk |  
+| bip_39_word_space_12 | nose oval warm coral gallery pause lesson joy switch leader risk add |  
+| bip_39_word_space_2 | nose oval |  
+| bip_39_word_space_3 | nose oval warm |  
+| bip_39_word_space_4 | nose oval warm coral |  
+| bip_39_word_space_5 | nose oval warm coral gallery |  
+| bip_39_word_space_6 | nose oval warm coral gallery pause |  
+| bip_39_word_space_7 | nose oval warm coral gallery pause lesson |  
+| bip_39_word_space_8 | nose oval warm coral gallery pause lesson joy |  
+| bip_39_word_space_9 | nose oval warm coral gallery pause lesson joy switch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

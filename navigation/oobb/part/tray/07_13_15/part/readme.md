@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nut display
+  * bip 39 word 3: nut display science
+  * bip 39 word: nut display science paddle loud fruit mandate urge explain timber wire also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nut |  
+| bip_39_word_new_br10 | nut<br>display<br>science<br>paddle<br>loud<br>fruit<br>mandate<br>urge<br>explain<br>timber |  
+| bip_39_word_new_br11 | nut<br>display<br>science<br>paddle<br>loud<br>fruit<br>mandate<br>urge<br>explain<br>timber<br>wire |  
+| bip_39_word_new_br12 | nut<br>display<br>science<br>paddle<br>loud<br>fruit<br>mandate<br>urge<br>explain<br>timber<br>wire<br>also |  
+| bip_39_word_new_br2 | nut<br>display |  
+| bip_39_word_new_br3 | nut<br>display<br>science |  
+| bip_39_word_new_br4 | nut<br>display<br>science<br>paddle |  
+| bip_39_word_new_br5 | nut<br>display<br>science<br>paddle<br>loud |  
+| bip_39_word_new_br6 | nut<br>display<br>science<br>paddle<br>loud<br>fruit |  
+| bip_39_word_new_br7 | nut<br>display<br>science<br>paddle<br>loud<br>fruit<br>mandate |  
+| bip_39_word_new_br8 | nut<br>display<br>science<br>paddle<br>loud<br>fruit<br>mandate<br>urge |  
+| bip_39_word_new_br9 | nut<br>display<br>science<br>paddle<br>loud<br>fruit<br>mandate<br>urge<br>explain |  
+| bip_39_word_new_line1 | nut |  
+| bip_39_word_new_line10 | nut
+display
+science
+paddle
+loud
+fruit
+mandate
+urge
+explain
+timber |  
+| bip_39_word_new_line11 | nut
+display
+science
+paddle
+loud
+fruit
+mandate
+urge
+explain
+timber
+wire |  
+| bip_39_word_new_line12 | nut
+display
+science
+paddle
+loud
+fruit
+mandate
+urge
+explain
+timber
+wire
+also |  
+| bip_39_word_new_line2 | nut
+display |  
+| bip_39_word_new_line3 | nut
+display
+science |  
+| bip_39_word_new_line4 | nut
+display
+science
+paddle |  
+| bip_39_word_new_line5 | nut
+display
+science
+paddle
+loud |  
+| bip_39_word_new_line6 | nut
+display
+science
+paddle
+loud
+fruit |  
+| bip_39_word_new_line7 | nut
+display
+science
+paddle
+loud
+fruit
+mandate |  
+| bip_39_word_new_line8 | nut
+display
+science
+paddle
+loud
+fruit
+mandate
+urge |  
+| bip_39_word_new_line9 | nut
+display
+science
+paddle
+loud
+fruit
+mandate
+urge
+explain |  
+| bip_39_word_space_0 | ['nut', 'display', 'science', 'paddle', 'loud', 'fruit', 'mandate', 'urge', 'explain', 'timber', 'wire', 'also'] |  
+| bip_39_word_space_1 | nut |  
+| bip_39_word_space_10 | nut display science paddle loud fruit mandate urge explain timber |  
+| bip_39_word_space_11 | nut display science paddle loud fruit mandate urge explain timber wire |  
+| bip_39_word_space_12 | nut display science paddle loud fruit mandate urge explain timber wire also |  
+| bip_39_word_space_2 | nut display |  
+| bip_39_word_space_3 | nut display science |  
+| bip_39_word_space_4 | nut display science paddle |  
+| bip_39_word_space_5 | nut display science paddle loud |  
+| bip_39_word_space_6 | nut display science paddle loud fruit |  
+| bip_39_word_space_7 | nut display science paddle loud fruit mandate |  
+| bip_39_word_space_8 | nut display science paddle loud fruit mandate urge |  
+| bip_39_word_space_9 | nut display science paddle loud fruit mandate urge explain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skin dirt
+  * bip 39 word 3: skin dirt system
+  * bip 39 word: skin dirt system exit recipe mimic trial powder tenant cactus state audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skin |  
+| bip_39_word_new_br10 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic<br>trial<br>powder<br>tenant<br>cactus |  
+| bip_39_word_new_br11 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic<br>trial<br>powder<br>tenant<br>cactus<br>state |  
+| bip_39_word_new_br12 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic<br>trial<br>powder<br>tenant<br>cactus<br>state<br>audit |  
+| bip_39_word_new_br2 | skin<br>dirt |  
+| bip_39_word_new_br3 | skin<br>dirt<br>system |  
+| bip_39_word_new_br4 | skin<br>dirt<br>system<br>exit |  
+| bip_39_word_new_br5 | skin<br>dirt<br>system<br>exit<br>recipe |  
+| bip_39_word_new_br6 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic |  
+| bip_39_word_new_br7 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic<br>trial |  
+| bip_39_word_new_br8 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic<br>trial<br>powder |  
+| bip_39_word_new_br9 | skin<br>dirt<br>system<br>exit<br>recipe<br>mimic<br>trial<br>powder<br>tenant |  
+| bip_39_word_new_line1 | skin |  
+| bip_39_word_new_line10 | skin
+dirt
+system
+exit
+recipe
+mimic
+trial
+powder
+tenant
+cactus |  
+| bip_39_word_new_line11 | skin
+dirt
+system
+exit
+recipe
+mimic
+trial
+powder
+tenant
+cactus
+state |  
+| bip_39_word_new_line12 | skin
+dirt
+system
+exit
+recipe
+mimic
+trial
+powder
+tenant
+cactus
+state
+audit |  
+| bip_39_word_new_line2 | skin
+dirt |  
+| bip_39_word_new_line3 | skin
+dirt
+system |  
+| bip_39_word_new_line4 | skin
+dirt
+system
+exit |  
+| bip_39_word_new_line5 | skin
+dirt
+system
+exit
+recipe |  
+| bip_39_word_new_line6 | skin
+dirt
+system
+exit
+recipe
+mimic |  
+| bip_39_word_new_line7 | skin
+dirt
+system
+exit
+recipe
+mimic
+trial |  
+| bip_39_word_new_line8 | skin
+dirt
+system
+exit
+recipe
+mimic
+trial
+powder |  
+| bip_39_word_new_line9 | skin
+dirt
+system
+exit
+recipe
+mimic
+trial
+powder
+tenant |  
+| bip_39_word_space_0 | ['skin', 'dirt', 'system', 'exit', 'recipe', 'mimic', 'trial', 'powder', 'tenant', 'cactus', 'state', 'audit'] |  
+| bip_39_word_space_1 | skin |  
+| bip_39_word_space_10 | skin dirt system exit recipe mimic trial powder tenant cactus |  
+| bip_39_word_space_11 | skin dirt system exit recipe mimic trial powder tenant cactus state |  
+| bip_39_word_space_12 | skin dirt system exit recipe mimic trial powder tenant cactus state audit |  
+| bip_39_word_space_2 | skin dirt |  
+| bip_39_word_space_3 | skin dirt system |  
+| bip_39_word_space_4 | skin dirt system exit |  
+| bip_39_word_space_5 | skin dirt system exit recipe |  
+| bip_39_word_space_6 | skin dirt system exit recipe mimic |  
+| bip_39_word_space_7 | skin dirt system exit recipe mimic trial |  
+| bip_39_word_space_8 | skin dirt system exit recipe mimic trial powder |  
+| bip_39_word_space_9 | skin dirt system exit recipe mimic trial powder tenant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

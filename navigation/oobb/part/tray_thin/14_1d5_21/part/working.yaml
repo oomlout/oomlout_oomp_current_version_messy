@@ -1,3 +1,186 @@
+bip_39_word_new_br1: proof
+bip_39_word_new_br10: proof<br>there<br>absorb<br>topic<br>release<br>skin<br>decrease<br>wool<br>flower<br>timber
+bip_39_word_new_br11: proof<br>there<br>absorb<br>topic<br>release<br>skin<br>decrease<br>wool<br>flower<br>timber<br>final
+bip_39_word_new_br12: proof<br>there<br>absorb<br>topic<br>release<br>skin<br>decrease<br>wool<br>flower<br>timber<br>final<br>achieve
+bip_39_word_new_br2: proof<br>there
+bip_39_word_new_br3: proof<br>there<br>absorb
+bip_39_word_new_br4: proof<br>there<br>absorb<br>topic
+bip_39_word_new_br5: proof<br>there<br>absorb<br>topic<br>release
+bip_39_word_new_br6: proof<br>there<br>absorb<br>topic<br>release<br>skin
+bip_39_word_new_br7: proof<br>there<br>absorb<br>topic<br>release<br>skin<br>decrease
+bip_39_word_new_br8: proof<br>there<br>absorb<br>topic<br>release<br>skin<br>decrease<br>wool
+bip_39_word_new_br9: proof<br>there<br>absorb<br>topic<br>release<br>skin<br>decrease<br>wool<br>flower
+bip_39_word_new_line1: proof
+bip_39_word_new_line10: 'proof
+
+  there
+
+  absorb
+
+  topic
+
+  release
+
+  skin
+
+  decrease
+
+  wool
+
+  flower
+
+  timber'
+bip_39_word_new_line11: 'proof
+
+  there
+
+  absorb
+
+  topic
+
+  release
+
+  skin
+
+  decrease
+
+  wool
+
+  flower
+
+  timber
+
+  final'
+bip_39_word_new_line12: 'proof
+
+  there
+
+  absorb
+
+  topic
+
+  release
+
+  skin
+
+  decrease
+
+  wool
+
+  flower
+
+  timber
+
+  final
+
+  achieve'
+bip_39_word_new_line2: 'proof
+
+  there'
+bip_39_word_new_line3: 'proof
+
+  there
+
+  absorb'
+bip_39_word_new_line4: 'proof
+
+  there
+
+  absorb
+
+  topic'
+bip_39_word_new_line5: 'proof
+
+  there
+
+  absorb
+
+  topic
+
+  release'
+bip_39_word_new_line6: 'proof
+
+  there
+
+  absorb
+
+  topic
+
+  release
+
+  skin'
+bip_39_word_new_line7: 'proof
+
+  there
+
+  absorb
+
+  topic
+
+  release
+
+  skin
+
+  decrease'
+bip_39_word_new_line8: 'proof
+
+  there
+
+  absorb
+
+  topic
+
+  release
+
+  skin
+
+  decrease
+
+  wool'
+bip_39_word_new_line9: 'proof
+
+  there
+
+  absorb
+
+  topic
+
+  release
+
+  skin
+
+  decrease
+
+  wool
+
+  flower'
+bip_39_word_space_0:
+- proof
+- there
+- absorb
+- topic
+- release
+- skin
+- decrease
+- wool
+- flower
+- timber
+- final
+- achieve
+bip_39_word_space_1: proof
+bip_39_word_space_10: proof there absorb topic release skin decrease wool flower timber
+bip_39_word_space_11: proof there absorb topic release skin decrease wool flower timber
+  final
+bip_39_word_space_12: proof there absorb topic release skin decrease wool flower timber
+  final achieve
+bip_39_word_space_2: proof there
+bip_39_word_space_3: proof there absorb
+bip_39_word_space_4: proof there absorb topic
+bip_39_word_space_5: proof there absorb topic release
+bip_39_word_space_6: proof there absorb topic release skin
+bip_39_word_space_7: proof there absorb topic release skin decrease
+bip_39_word_space_8: proof there absorb topic release skin decrease wool
+bip_39_word_space_9: proof there absorb topic release skin decrease wool flower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

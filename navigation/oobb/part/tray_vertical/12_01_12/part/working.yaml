@@ -1,3 +1,186 @@
+bip_39_word_new_br1: switch
+bip_39_word_new_br10: switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal
+bip_39_word_new_br11: switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal<br>exotic
+bip_39_word_new_br12: switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas<br>medal<br>exotic<br>arctic
+bip_39_word_new_br2: switch<br>often
+bip_39_word_new_br3: switch<br>often<br>science
+bip_39_word_new_br4: switch<br>often<br>science<br>pattern
+bip_39_word_new_br5: switch<br>often<br>science<br>pattern<br>dove
+bip_39_word_new_br6: switch<br>often<br>science<br>pattern<br>dove<br>jelly
+bip_39_word_new_br7: switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot
+bip_39_word_new_br8: switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little
+bip_39_word_new_br9: switch<br>often<br>science<br>pattern<br>dove<br>jelly<br>spot<br>little<br>gas
+bip_39_word_new_line1: switch
+bip_39_word_new_line10: 'switch
+
+  often
+
+  science
+
+  pattern
+
+  dove
+
+  jelly
+
+  spot
+
+  little
+
+  gas
+
+  medal'
+bip_39_word_new_line11: 'switch
+
+  often
+
+  science
+
+  pattern
+
+  dove
+
+  jelly
+
+  spot
+
+  little
+
+  gas
+
+  medal
+
+  exotic'
+bip_39_word_new_line12: 'switch
+
+  often
+
+  science
+
+  pattern
+
+  dove
+
+  jelly
+
+  spot
+
+  little
+
+  gas
+
+  medal
+
+  exotic
+
+  arctic'
+bip_39_word_new_line2: 'switch
+
+  often'
+bip_39_word_new_line3: 'switch
+
+  often
+
+  science'
+bip_39_word_new_line4: 'switch
+
+  often
+
+  science
+
+  pattern'
+bip_39_word_new_line5: 'switch
+
+  often
+
+  science
+
+  pattern
+
+  dove'
+bip_39_word_new_line6: 'switch
+
+  often
+
+  science
+
+  pattern
+
+  dove
+
+  jelly'
+bip_39_word_new_line7: 'switch
+
+  often
+
+  science
+
+  pattern
+
+  dove
+
+  jelly
+
+  spot'
+bip_39_word_new_line8: 'switch
+
+  often
+
+  science
+
+  pattern
+
+  dove
+
+  jelly
+
+  spot
+
+  little'
+bip_39_word_new_line9: 'switch
+
+  often
+
+  science
+
+  pattern
+
+  dove
+
+  jelly
+
+  spot
+
+  little
+
+  gas'
+bip_39_word_space_0:
+- switch
+- often
+- science
+- pattern
+- dove
+- jelly
+- spot
+- little
+- gas
+- medal
+- exotic
+- arctic
+bip_39_word_space_1: switch
+bip_39_word_space_10: switch often science pattern dove jelly spot little gas medal
+bip_39_word_space_11: switch often science pattern dove jelly spot little gas medal
+  exotic
+bip_39_word_space_12: switch often science pattern dove jelly spot little gas medal
+  exotic arctic
+bip_39_word_space_2: switch often
+bip_39_word_space_3: switch often science
+bip_39_word_space_4: switch often science pattern
+bip_39_word_space_5: switch often science pattern dove
+bip_39_word_space_6: switch often science pattern dove jelly
+bip_39_word_space_7: switch often science pattern dove jelly spot
+bip_39_word_space_8: switch often science pattern dove jelly spot little
+bip_39_word_space_9: switch often science pattern dove jelly spot little gas
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

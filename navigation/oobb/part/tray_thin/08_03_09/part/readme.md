@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boat faculty
+  * bip 39 word 3: boat faculty shine
+  * bip 39 word: boat faculty shine flight brick hint bind grocery cause wing dove approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boat |  
+| bip_39_word_new_br10 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause<br>wing |  
+| bip_39_word_new_br11 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause<br>wing<br>dove |  
+| bip_39_word_new_br12 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause<br>wing<br>dove<br>approve |  
+| bip_39_word_new_br2 | boat<br>faculty |  
+| bip_39_word_new_br3 | boat<br>faculty<br>shine |  
+| bip_39_word_new_br4 | boat<br>faculty<br>shine<br>flight |  
+| bip_39_word_new_br5 | boat<br>faculty<br>shine<br>flight<br>brick |  
+| bip_39_word_new_br6 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint |  
+| bip_39_word_new_br7 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind |  
+| bip_39_word_new_br8 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery |  
+| bip_39_word_new_br9 | boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause |  
+| bip_39_word_new_line1 | boat |  
+| bip_39_word_new_line10 | boat
+faculty
+shine
+flight
+brick
+hint
+bind
+grocery
+cause
+wing |  
+| bip_39_word_new_line11 | boat
+faculty
+shine
+flight
+brick
+hint
+bind
+grocery
+cause
+wing
+dove |  
+| bip_39_word_new_line12 | boat
+faculty
+shine
+flight
+brick
+hint
+bind
+grocery
+cause
+wing
+dove
+approve |  
+| bip_39_word_new_line2 | boat
+faculty |  
+| bip_39_word_new_line3 | boat
+faculty
+shine |  
+| bip_39_word_new_line4 | boat
+faculty
+shine
+flight |  
+| bip_39_word_new_line5 | boat
+faculty
+shine
+flight
+brick |  
+| bip_39_word_new_line6 | boat
+faculty
+shine
+flight
+brick
+hint |  
+| bip_39_word_new_line7 | boat
+faculty
+shine
+flight
+brick
+hint
+bind |  
+| bip_39_word_new_line8 | boat
+faculty
+shine
+flight
+brick
+hint
+bind
+grocery |  
+| bip_39_word_new_line9 | boat
+faculty
+shine
+flight
+brick
+hint
+bind
+grocery
+cause |  
+| bip_39_word_space_0 | ['boat', 'faculty', 'shine', 'flight', 'brick', 'hint', 'bind', 'grocery', 'cause', 'wing', 'dove', 'approve'] |  
+| bip_39_word_space_1 | boat |  
+| bip_39_word_space_10 | boat faculty shine flight brick hint bind grocery cause wing |  
+| bip_39_word_space_11 | boat faculty shine flight brick hint bind grocery cause wing dove |  
+| bip_39_word_space_12 | boat faculty shine flight brick hint bind grocery cause wing dove approve |  
+| bip_39_word_space_2 | boat faculty |  
+| bip_39_word_space_3 | boat faculty shine |  
+| bip_39_word_space_4 | boat faculty shine flight |  
+| bip_39_word_space_5 | boat faculty shine flight brick |  
+| bip_39_word_space_6 | boat faculty shine flight brick hint |  
+| bip_39_word_space_7 | boat faculty shine flight brick hint bind |  
+| bip_39_word_space_8 | boat faculty shine flight brick hint bind grocery |  
+| bip_39_word_space_9 | boat faculty shine flight brick hint bind grocery cause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

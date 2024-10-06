@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lecture adjust
+  * bip 39 word 3: lecture adjust rule
+  * bip 39 word: lecture adjust rule dress uphold sand relief immense shaft render ill aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lecture |  
+| bip_39_word_new_br10 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand<br>relief<br>immense<br>shaft<br>render |  
+| bip_39_word_new_br11 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand<br>relief<br>immense<br>shaft<br>render<br>ill |  
+| bip_39_word_new_br12 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand<br>relief<br>immense<br>shaft<br>render<br>ill<br>aspect |  
+| bip_39_word_new_br2 | lecture<br>adjust |  
+| bip_39_word_new_br3 | lecture<br>adjust<br>rule |  
+| bip_39_word_new_br4 | lecture<br>adjust<br>rule<br>dress |  
+| bip_39_word_new_br5 | lecture<br>adjust<br>rule<br>dress<br>uphold |  
+| bip_39_word_new_br6 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand |  
+| bip_39_word_new_br7 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand<br>relief |  
+| bip_39_word_new_br8 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand<br>relief<br>immense |  
+| bip_39_word_new_br9 | lecture<br>adjust<br>rule<br>dress<br>uphold<br>sand<br>relief<br>immense<br>shaft |  
+| bip_39_word_new_line1 | lecture |  
+| bip_39_word_new_line10 | lecture
+adjust
+rule
+dress
+uphold
+sand
+relief
+immense
+shaft
+render |  
+| bip_39_word_new_line11 | lecture
+adjust
+rule
+dress
+uphold
+sand
+relief
+immense
+shaft
+render
+ill |  
+| bip_39_word_new_line12 | lecture
+adjust
+rule
+dress
+uphold
+sand
+relief
+immense
+shaft
+render
+ill
+aspect |  
+| bip_39_word_new_line2 | lecture
+adjust |  
+| bip_39_word_new_line3 | lecture
+adjust
+rule |  
+| bip_39_word_new_line4 | lecture
+adjust
+rule
+dress |  
+| bip_39_word_new_line5 | lecture
+adjust
+rule
+dress
+uphold |  
+| bip_39_word_new_line6 | lecture
+adjust
+rule
+dress
+uphold
+sand |  
+| bip_39_word_new_line7 | lecture
+adjust
+rule
+dress
+uphold
+sand
+relief |  
+| bip_39_word_new_line8 | lecture
+adjust
+rule
+dress
+uphold
+sand
+relief
+immense |  
+| bip_39_word_new_line9 | lecture
+adjust
+rule
+dress
+uphold
+sand
+relief
+immense
+shaft |  
+| bip_39_word_space_0 | ['lecture', 'adjust', 'rule', 'dress', 'uphold', 'sand', 'relief', 'immense', 'shaft', 'render', 'ill', 'aspect'] |  
+| bip_39_word_space_1 | lecture |  
+| bip_39_word_space_10 | lecture adjust rule dress uphold sand relief immense shaft render |  
+| bip_39_word_space_11 | lecture adjust rule dress uphold sand relief immense shaft render ill |  
+| bip_39_word_space_12 | lecture adjust rule dress uphold sand relief immense shaft render ill aspect |  
+| bip_39_word_space_2 | lecture adjust |  
+| bip_39_word_space_3 | lecture adjust rule |  
+| bip_39_word_space_4 | lecture adjust rule dress |  
+| bip_39_word_space_5 | lecture adjust rule dress uphold |  
+| bip_39_word_space_6 | lecture adjust rule dress uphold sand |  
+| bip_39_word_space_7 | lecture adjust rule dress uphold sand relief |  
+| bip_39_word_space_8 | lecture adjust rule dress uphold sand relief immense |  
+| bip_39_word_space_9 | lecture adjust rule dress uphold sand relief immense shaft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

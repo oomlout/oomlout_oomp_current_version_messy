@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: where spare
+  * bip 39 word 3: where spare taxi
+  * bip 39 word: where spare taxi hint melody good child elite utility still later athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | where |  
+| bip_39_word_new_br10 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still |  
+| bip_39_word_new_br11 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still<br>later |  
+| bip_39_word_new_br12 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility<br>still<br>later<br>athlete |  
+| bip_39_word_new_br2 | where<br>spare |  
+| bip_39_word_new_br3 | where<br>spare<br>taxi |  
+| bip_39_word_new_br4 | where<br>spare<br>taxi<br>hint |  
+| bip_39_word_new_br5 | where<br>spare<br>taxi<br>hint<br>melody |  
+| bip_39_word_new_br6 | where<br>spare<br>taxi<br>hint<br>melody<br>good |  
+| bip_39_word_new_br7 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child |  
+| bip_39_word_new_br8 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite |  
+| bip_39_word_new_br9 | where<br>spare<br>taxi<br>hint<br>melody<br>good<br>child<br>elite<br>utility |  
+| bip_39_word_new_line1 | where |  
+| bip_39_word_new_line10 | where
+spare
+taxi
+hint
+melody
+good
+child
+elite
+utility
+still |  
+| bip_39_word_new_line11 | where
+spare
+taxi
+hint
+melody
+good
+child
+elite
+utility
+still
+later |  
+| bip_39_word_new_line12 | where
+spare
+taxi
+hint
+melody
+good
+child
+elite
+utility
+still
+later
+athlete |  
+| bip_39_word_new_line2 | where
+spare |  
+| bip_39_word_new_line3 | where
+spare
+taxi |  
+| bip_39_word_new_line4 | where
+spare
+taxi
+hint |  
+| bip_39_word_new_line5 | where
+spare
+taxi
+hint
+melody |  
+| bip_39_word_new_line6 | where
+spare
+taxi
+hint
+melody
+good |  
+| bip_39_word_new_line7 | where
+spare
+taxi
+hint
+melody
+good
+child |  
+| bip_39_word_new_line8 | where
+spare
+taxi
+hint
+melody
+good
+child
+elite |  
+| bip_39_word_new_line9 | where
+spare
+taxi
+hint
+melody
+good
+child
+elite
+utility |  
+| bip_39_word_space_0 | ['where', 'spare', 'taxi', 'hint', 'melody', 'good', 'child', 'elite', 'utility', 'still', 'later', 'athlete'] |  
+| bip_39_word_space_1 | where |  
+| bip_39_word_space_10 | where spare taxi hint melody good child elite utility still |  
+| bip_39_word_space_11 | where spare taxi hint melody good child elite utility still later |  
+| bip_39_word_space_12 | where spare taxi hint melody good child elite utility still later athlete |  
+| bip_39_word_space_2 | where spare |  
+| bip_39_word_space_3 | where spare taxi |  
+| bip_39_word_space_4 | where spare taxi hint |  
+| bip_39_word_space_5 | where spare taxi hint melody |  
+| bip_39_word_space_6 | where spare taxi hint melody good |  
+| bip_39_word_space_7 | where spare taxi hint melody good child |  
+| bip_39_word_space_8 | where spare taxi hint melody good child elite |  
+| bip_39_word_space_9 | where spare taxi hint melody good child elite utility |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

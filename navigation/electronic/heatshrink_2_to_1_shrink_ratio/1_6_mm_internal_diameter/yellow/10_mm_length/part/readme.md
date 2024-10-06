@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: proof thrive
+  * bip 39 word 3: proof thrive until
+  * bip 39 word: proof thrive until river coffee emotion prize useless cave stove vivid acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | proof |  
+| bip_39_word_new_br10 | proof<br>thrive<br>until<br>river<br>coffee<br>emotion<br>prize<br>useless<br>cave<br>stove |  
+| bip_39_word_new_br11 | proof<br>thrive<br>until<br>river<br>coffee<br>emotion<br>prize<br>useless<br>cave<br>stove<br>vivid |  
+| bip_39_word_new_br12 | proof<br>thrive<br>until<br>river<br>coffee<br>emotion<br>prize<br>useless<br>cave<br>stove<br>vivid<br>acquire |  
+| bip_39_word_new_br2 | proof<br>thrive |  
+| bip_39_word_new_br3 | proof<br>thrive<br>until |  
+| bip_39_word_new_br4 | proof<br>thrive<br>until<br>river |  
+| bip_39_word_new_br5 | proof<br>thrive<br>until<br>river<br>coffee |  
+| bip_39_word_new_br6 | proof<br>thrive<br>until<br>river<br>coffee<br>emotion |  
+| bip_39_word_new_br7 | proof<br>thrive<br>until<br>river<br>coffee<br>emotion<br>prize |  
+| bip_39_word_new_br8 | proof<br>thrive<br>until<br>river<br>coffee<br>emotion<br>prize<br>useless |  
+| bip_39_word_new_br9 | proof<br>thrive<br>until<br>river<br>coffee<br>emotion<br>prize<br>useless<br>cave |  
+| bip_39_word_new_line1 | proof |  
+| bip_39_word_new_line10 | proof
+thrive
+until
+river
+coffee
+emotion
+prize
+useless
+cave
+stove |  
+| bip_39_word_new_line11 | proof
+thrive
+until
+river
+coffee
+emotion
+prize
+useless
+cave
+stove
+vivid |  
+| bip_39_word_new_line12 | proof
+thrive
+until
+river
+coffee
+emotion
+prize
+useless
+cave
+stove
+vivid
+acquire |  
+| bip_39_word_new_line2 | proof
+thrive |  
+| bip_39_word_new_line3 | proof
+thrive
+until |  
+| bip_39_word_new_line4 | proof
+thrive
+until
+river |  
+| bip_39_word_new_line5 | proof
+thrive
+until
+river
+coffee |  
+| bip_39_word_new_line6 | proof
+thrive
+until
+river
+coffee
+emotion |  
+| bip_39_word_new_line7 | proof
+thrive
+until
+river
+coffee
+emotion
+prize |  
+| bip_39_word_new_line8 | proof
+thrive
+until
+river
+coffee
+emotion
+prize
+useless |  
+| bip_39_word_new_line9 | proof
+thrive
+until
+river
+coffee
+emotion
+prize
+useless
+cave |  
+| bip_39_word_space_0 | ['proof', 'thrive', 'until', 'river', 'coffee', 'emotion', 'prize', 'useless', 'cave', 'stove', 'vivid', 'acquire'] |  
+| bip_39_word_space_1 | proof |  
+| bip_39_word_space_10 | proof thrive until river coffee emotion prize useless cave stove |  
+| bip_39_word_space_11 | proof thrive until river coffee emotion prize useless cave stove vivid |  
+| bip_39_word_space_12 | proof thrive until river coffee emotion prize useless cave stove vivid acquire |  
+| bip_39_word_space_2 | proof thrive |  
+| bip_39_word_space_3 | proof thrive until |  
+| bip_39_word_space_4 | proof thrive until river |  
+| bip_39_word_space_5 | proof thrive until river coffee |  
+| bip_39_word_space_6 | proof thrive until river coffee emotion |  
+| bip_39_word_space_7 | proof thrive until river coffee emotion prize |  
+| bip_39_word_space_8 | proof thrive until river coffee emotion prize useless |  
+| bip_39_word_space_9 | proof thrive until river coffee emotion prize useless cave |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

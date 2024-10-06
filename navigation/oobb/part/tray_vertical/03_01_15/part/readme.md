@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: burden junk
+  * bip 39 word 3: burden junk sword
+  * bip 39 word: burden junk sword cabin arrow romance provide fitness border stick picnic aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | burden |  
+| bip_39_word_new_br10 | burden<br>junk<br>sword<br>cabin<br>arrow<br>romance<br>provide<br>fitness<br>border<br>stick |  
+| bip_39_word_new_br11 | burden<br>junk<br>sword<br>cabin<br>arrow<br>romance<br>provide<br>fitness<br>border<br>stick<br>picnic |  
+| bip_39_word_new_br12 | burden<br>junk<br>sword<br>cabin<br>arrow<br>romance<br>provide<br>fitness<br>border<br>stick<br>picnic<br>aunt |  
+| bip_39_word_new_br2 | burden<br>junk |  
+| bip_39_word_new_br3 | burden<br>junk<br>sword |  
+| bip_39_word_new_br4 | burden<br>junk<br>sword<br>cabin |  
+| bip_39_word_new_br5 | burden<br>junk<br>sword<br>cabin<br>arrow |  
+| bip_39_word_new_br6 | burden<br>junk<br>sword<br>cabin<br>arrow<br>romance |  
+| bip_39_word_new_br7 | burden<br>junk<br>sword<br>cabin<br>arrow<br>romance<br>provide |  
+| bip_39_word_new_br8 | burden<br>junk<br>sword<br>cabin<br>arrow<br>romance<br>provide<br>fitness |  
+| bip_39_word_new_br9 | burden<br>junk<br>sword<br>cabin<br>arrow<br>romance<br>provide<br>fitness<br>border |  
+| bip_39_word_new_line1 | burden |  
+| bip_39_word_new_line10 | burden
+junk
+sword
+cabin
+arrow
+romance
+provide
+fitness
+border
+stick |  
+| bip_39_word_new_line11 | burden
+junk
+sword
+cabin
+arrow
+romance
+provide
+fitness
+border
+stick
+picnic |  
+| bip_39_word_new_line12 | burden
+junk
+sword
+cabin
+arrow
+romance
+provide
+fitness
+border
+stick
+picnic
+aunt |  
+| bip_39_word_new_line2 | burden
+junk |  
+| bip_39_word_new_line3 | burden
+junk
+sword |  
+| bip_39_word_new_line4 | burden
+junk
+sword
+cabin |  
+| bip_39_word_new_line5 | burden
+junk
+sword
+cabin
+arrow |  
+| bip_39_word_new_line6 | burden
+junk
+sword
+cabin
+arrow
+romance |  
+| bip_39_word_new_line7 | burden
+junk
+sword
+cabin
+arrow
+romance
+provide |  
+| bip_39_word_new_line8 | burden
+junk
+sword
+cabin
+arrow
+romance
+provide
+fitness |  
+| bip_39_word_new_line9 | burden
+junk
+sword
+cabin
+arrow
+romance
+provide
+fitness
+border |  
+| bip_39_word_space_0 | ['burden', 'junk', 'sword', 'cabin', 'arrow', 'romance', 'provide', 'fitness', 'border', 'stick', 'picnic', 'aunt'] |  
+| bip_39_word_space_1 | burden |  
+| bip_39_word_space_10 | burden junk sword cabin arrow romance provide fitness border stick |  
+| bip_39_word_space_11 | burden junk sword cabin arrow romance provide fitness border stick picnic |  
+| bip_39_word_space_12 | burden junk sword cabin arrow romance provide fitness border stick picnic aunt |  
+| bip_39_word_space_2 | burden junk |  
+| bip_39_word_space_3 | burden junk sword |  
+| bip_39_word_space_4 | burden junk sword cabin |  
+| bip_39_word_space_5 | burden junk sword cabin arrow |  
+| bip_39_word_space_6 | burden junk sword cabin arrow romance |  
+| bip_39_word_space_7 | burden junk sword cabin arrow romance provide |  
+| bip_39_word_space_8 | burden junk sword cabin arrow romance provide fitness |  
+| bip_39_word_space_9 | burden junk sword cabin arrow romance provide fitness border |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

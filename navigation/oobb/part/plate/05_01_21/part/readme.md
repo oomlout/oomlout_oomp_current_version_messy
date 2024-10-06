@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aisle rug
+  * bip 39 word 3: aisle rug typical
+  * bip 39 word: aisle rug typical govern replace stadium evidence result direct water cement attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aisle |  
+| bip_39_word_new_br10 | aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct<br>water |  
+| bip_39_word_new_br11 | aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct<br>water<br>cement |  
+| bip_39_word_new_br12 | aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct<br>water<br>cement<br>attend |  
+| bip_39_word_new_br2 | aisle<br>rug |  
+| bip_39_word_new_br3 | aisle<br>rug<br>typical |  
+| bip_39_word_new_br4 | aisle<br>rug<br>typical<br>govern |  
+| bip_39_word_new_br5 | aisle<br>rug<br>typical<br>govern<br>replace |  
+| bip_39_word_new_br6 | aisle<br>rug<br>typical<br>govern<br>replace<br>stadium |  
+| bip_39_word_new_br7 | aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence |  
+| bip_39_word_new_br8 | aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result |  
+| bip_39_word_new_br9 | aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct |  
+| bip_39_word_new_line1 | aisle |  
+| bip_39_word_new_line10 | aisle
+rug
+typical
+govern
+replace
+stadium
+evidence
+result
+direct
+water |  
+| bip_39_word_new_line11 | aisle
+rug
+typical
+govern
+replace
+stadium
+evidence
+result
+direct
+water
+cement |  
+| bip_39_word_new_line12 | aisle
+rug
+typical
+govern
+replace
+stadium
+evidence
+result
+direct
+water
+cement
+attend |  
+| bip_39_word_new_line2 | aisle
+rug |  
+| bip_39_word_new_line3 | aisle
+rug
+typical |  
+| bip_39_word_new_line4 | aisle
+rug
+typical
+govern |  
+| bip_39_word_new_line5 | aisle
+rug
+typical
+govern
+replace |  
+| bip_39_word_new_line6 | aisle
+rug
+typical
+govern
+replace
+stadium |  
+| bip_39_word_new_line7 | aisle
+rug
+typical
+govern
+replace
+stadium
+evidence |  
+| bip_39_word_new_line8 | aisle
+rug
+typical
+govern
+replace
+stadium
+evidence
+result |  
+| bip_39_word_new_line9 | aisle
+rug
+typical
+govern
+replace
+stadium
+evidence
+result
+direct |  
+| bip_39_word_space_0 | ['aisle', 'rug', 'typical', 'govern', 'replace', 'stadium', 'evidence', 'result', 'direct', 'water', 'cement', 'attend'] |  
+| bip_39_word_space_1 | aisle |  
+| bip_39_word_space_10 | aisle rug typical govern replace stadium evidence result direct water |  
+| bip_39_word_space_11 | aisle rug typical govern replace stadium evidence result direct water cement |  
+| bip_39_word_space_12 | aisle rug typical govern replace stadium evidence result direct water cement attend |  
+| bip_39_word_space_2 | aisle rug |  
+| bip_39_word_space_3 | aisle rug typical |  
+| bip_39_word_space_4 | aisle rug typical govern |  
+| bip_39_word_space_5 | aisle rug typical govern replace |  
+| bip_39_word_space_6 | aisle rug typical govern replace stadium |  
+| bip_39_word_space_7 | aisle rug typical govern replace stadium evidence |  
+| bip_39_word_space_8 | aisle rug typical govern replace stadium evidence result |  
+| bip_39_word_space_9 | aisle rug typical govern replace stadium evidence result direct |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

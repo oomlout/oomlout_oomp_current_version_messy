@@ -1,3 +1,186 @@
+bip_39_word_new_br1: warfare
+bip_39_word_new_br10: warfare<br>spirit<br>proud<br>host<br>chaos<br>hour<br>unaware<br>slot<br>world<br>furnace
+bip_39_word_new_br11: warfare<br>spirit<br>proud<br>host<br>chaos<br>hour<br>unaware<br>slot<br>world<br>furnace<br>gesture
+bip_39_word_new_br12: warfare<br>spirit<br>proud<br>host<br>chaos<br>hour<br>unaware<br>slot<br>world<br>furnace<br>gesture<br>aunt
+bip_39_word_new_br2: warfare<br>spirit
+bip_39_word_new_br3: warfare<br>spirit<br>proud
+bip_39_word_new_br4: warfare<br>spirit<br>proud<br>host
+bip_39_word_new_br5: warfare<br>spirit<br>proud<br>host<br>chaos
+bip_39_word_new_br6: warfare<br>spirit<br>proud<br>host<br>chaos<br>hour
+bip_39_word_new_br7: warfare<br>spirit<br>proud<br>host<br>chaos<br>hour<br>unaware
+bip_39_word_new_br8: warfare<br>spirit<br>proud<br>host<br>chaos<br>hour<br>unaware<br>slot
+bip_39_word_new_br9: warfare<br>spirit<br>proud<br>host<br>chaos<br>hour<br>unaware<br>slot<br>world
+bip_39_word_new_line1: warfare
+bip_39_word_new_line10: 'warfare
+
+  spirit
+
+  proud
+
+  host
+
+  chaos
+
+  hour
+
+  unaware
+
+  slot
+
+  world
+
+  furnace'
+bip_39_word_new_line11: 'warfare
+
+  spirit
+
+  proud
+
+  host
+
+  chaos
+
+  hour
+
+  unaware
+
+  slot
+
+  world
+
+  furnace
+
+  gesture'
+bip_39_word_new_line12: 'warfare
+
+  spirit
+
+  proud
+
+  host
+
+  chaos
+
+  hour
+
+  unaware
+
+  slot
+
+  world
+
+  furnace
+
+  gesture
+
+  aunt'
+bip_39_word_new_line2: 'warfare
+
+  spirit'
+bip_39_word_new_line3: 'warfare
+
+  spirit
+
+  proud'
+bip_39_word_new_line4: 'warfare
+
+  spirit
+
+  proud
+
+  host'
+bip_39_word_new_line5: 'warfare
+
+  spirit
+
+  proud
+
+  host
+
+  chaos'
+bip_39_word_new_line6: 'warfare
+
+  spirit
+
+  proud
+
+  host
+
+  chaos
+
+  hour'
+bip_39_word_new_line7: 'warfare
+
+  spirit
+
+  proud
+
+  host
+
+  chaos
+
+  hour
+
+  unaware'
+bip_39_word_new_line8: 'warfare
+
+  spirit
+
+  proud
+
+  host
+
+  chaos
+
+  hour
+
+  unaware
+
+  slot'
+bip_39_word_new_line9: 'warfare
+
+  spirit
+
+  proud
+
+  host
+
+  chaos
+
+  hour
+
+  unaware
+
+  slot
+
+  world'
+bip_39_word_space_0:
+- warfare
+- spirit
+- proud
+- host
+- chaos
+- hour
+- unaware
+- slot
+- world
+- furnace
+- gesture
+- aunt
+bip_39_word_space_1: warfare
+bip_39_word_space_10: warfare spirit proud host chaos hour unaware slot world furnace
+bip_39_word_space_11: warfare spirit proud host chaos hour unaware slot world furnace
+  gesture
+bip_39_word_space_12: warfare spirit proud host chaos hour unaware slot world furnace
+  gesture aunt
+bip_39_word_space_2: warfare spirit
+bip_39_word_space_3: warfare spirit proud
+bip_39_word_space_4: warfare spirit proud host
+bip_39_word_space_5: warfare spirit proud host chaos
+bip_39_word_space_6: warfare spirit proud host chaos hour
+bip_39_word_space_7: warfare spirit proud host chaos hour unaware
+bip_39_word_space_8: warfare spirit proud host chaos hour unaware slot
+bip_39_word_space_9: warfare spirit proud host chaos hour unaware slot world
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: olympic truth
+  * bip 39 word 3: olympic truth bracket
+  * bip 39 word: olympic truth bracket rally dilemma near worth foot orphan invite off arch
 
 ### other_codes
 * short_code: br6017
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | olympic |  
+| bip_39_word_new_br10 | olympic<br>truth<br>bracket<br>rally<br>dilemma<br>near<br>worth<br>foot<br>orphan<br>invite |  
+| bip_39_word_new_br11 | olympic<br>truth<br>bracket<br>rally<br>dilemma<br>near<br>worth<br>foot<br>orphan<br>invite<br>off |  
+| bip_39_word_new_br12 | olympic<br>truth<br>bracket<br>rally<br>dilemma<br>near<br>worth<br>foot<br>orphan<br>invite<br>off<br>arch |  
+| bip_39_word_new_br2 | olympic<br>truth |  
+| bip_39_word_new_br3 | olympic<br>truth<br>bracket |  
+| bip_39_word_new_br4 | olympic<br>truth<br>bracket<br>rally |  
+| bip_39_word_new_br5 | olympic<br>truth<br>bracket<br>rally<br>dilemma |  
+| bip_39_word_new_br6 | olympic<br>truth<br>bracket<br>rally<br>dilemma<br>near |  
+| bip_39_word_new_br7 | olympic<br>truth<br>bracket<br>rally<br>dilemma<br>near<br>worth |  
+| bip_39_word_new_br8 | olympic<br>truth<br>bracket<br>rally<br>dilemma<br>near<br>worth<br>foot |  
+| bip_39_word_new_br9 | olympic<br>truth<br>bracket<br>rally<br>dilemma<br>near<br>worth<br>foot<br>orphan |  
+| bip_39_word_new_line1 | olympic |  
+| bip_39_word_new_line10 | olympic
+truth
+bracket
+rally
+dilemma
+near
+worth
+foot
+orphan
+invite |  
+| bip_39_word_new_line11 | olympic
+truth
+bracket
+rally
+dilemma
+near
+worth
+foot
+orphan
+invite
+off |  
+| bip_39_word_new_line12 | olympic
+truth
+bracket
+rally
+dilemma
+near
+worth
+foot
+orphan
+invite
+off
+arch |  
+| bip_39_word_new_line2 | olympic
+truth |  
+| bip_39_word_new_line3 | olympic
+truth
+bracket |  
+| bip_39_word_new_line4 | olympic
+truth
+bracket
+rally |  
+| bip_39_word_new_line5 | olympic
+truth
+bracket
+rally
+dilemma |  
+| bip_39_word_new_line6 | olympic
+truth
+bracket
+rally
+dilemma
+near |  
+| bip_39_word_new_line7 | olympic
+truth
+bracket
+rally
+dilemma
+near
+worth |  
+| bip_39_word_new_line8 | olympic
+truth
+bracket
+rally
+dilemma
+near
+worth
+foot |  
+| bip_39_word_new_line9 | olympic
+truth
+bracket
+rally
+dilemma
+near
+worth
+foot
+orphan |  
+| bip_39_word_space_0 | ['olympic', 'truth', 'bracket', 'rally', 'dilemma', 'near', 'worth', 'foot', 'orphan', 'invite', 'off', 'arch'] |  
+| bip_39_word_space_1 | olympic |  
+| bip_39_word_space_10 | olympic truth bracket rally dilemma near worth foot orphan invite |  
+| bip_39_word_space_11 | olympic truth bracket rally dilemma near worth foot orphan invite off |  
+| bip_39_word_space_12 | olympic truth bracket rally dilemma near worth foot orphan invite off arch |  
+| bip_39_word_space_2 | olympic truth |  
+| bip_39_word_space_3 | olympic truth bracket |  
+| bip_39_word_space_4 | olympic truth bracket rally |  
+| bip_39_word_space_5 | olympic truth bracket rally dilemma |  
+| bip_39_word_space_6 | olympic truth bracket rally dilemma near |  
+| bip_39_word_space_7 | olympic truth bracket rally dilemma near worth |  
+| bip_39_word_space_8 | olympic truth bracket rally dilemma near worth foot |  
+| bip_39_word_space_9 | olympic truth bracket rally dilemma near worth foot orphan |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

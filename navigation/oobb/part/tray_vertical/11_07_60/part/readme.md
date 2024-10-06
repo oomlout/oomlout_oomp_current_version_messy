@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: express veteran
+  * bip 39 word 3: express veteran cactus
+  * bip 39 word: express veteran cactus sorry foam impulse detect riot few wink rebuild act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | express |  
+| bip_39_word_new_br10 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse<br>detect<br>riot<br>few<br>wink |  
+| bip_39_word_new_br11 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse<br>detect<br>riot<br>few<br>wink<br>rebuild |  
+| bip_39_word_new_br12 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse<br>detect<br>riot<br>few<br>wink<br>rebuild<br>act |  
+| bip_39_word_new_br2 | express<br>veteran |  
+| bip_39_word_new_br3 | express<br>veteran<br>cactus |  
+| bip_39_word_new_br4 | express<br>veteran<br>cactus<br>sorry |  
+| bip_39_word_new_br5 | express<br>veteran<br>cactus<br>sorry<br>foam |  
+| bip_39_word_new_br6 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse |  
+| bip_39_word_new_br7 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse<br>detect |  
+| bip_39_word_new_br8 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse<br>detect<br>riot |  
+| bip_39_word_new_br9 | express<br>veteran<br>cactus<br>sorry<br>foam<br>impulse<br>detect<br>riot<br>few |  
+| bip_39_word_new_line1 | express |  
+| bip_39_word_new_line10 | express
+veteran
+cactus
+sorry
+foam
+impulse
+detect
+riot
+few
+wink |  
+| bip_39_word_new_line11 | express
+veteran
+cactus
+sorry
+foam
+impulse
+detect
+riot
+few
+wink
+rebuild |  
+| bip_39_word_new_line12 | express
+veteran
+cactus
+sorry
+foam
+impulse
+detect
+riot
+few
+wink
+rebuild
+act |  
+| bip_39_word_new_line2 | express
+veteran |  
+| bip_39_word_new_line3 | express
+veteran
+cactus |  
+| bip_39_word_new_line4 | express
+veteran
+cactus
+sorry |  
+| bip_39_word_new_line5 | express
+veteran
+cactus
+sorry
+foam |  
+| bip_39_word_new_line6 | express
+veteran
+cactus
+sorry
+foam
+impulse |  
+| bip_39_word_new_line7 | express
+veteran
+cactus
+sorry
+foam
+impulse
+detect |  
+| bip_39_word_new_line8 | express
+veteran
+cactus
+sorry
+foam
+impulse
+detect
+riot |  
+| bip_39_word_new_line9 | express
+veteran
+cactus
+sorry
+foam
+impulse
+detect
+riot
+few |  
+| bip_39_word_space_0 | ['express', 'veteran', 'cactus', 'sorry', 'foam', 'impulse', 'detect', 'riot', 'few', 'wink', 'rebuild', 'act'] |  
+| bip_39_word_space_1 | express |  
+| bip_39_word_space_10 | express veteran cactus sorry foam impulse detect riot few wink |  
+| bip_39_word_space_11 | express veteran cactus sorry foam impulse detect riot few wink rebuild |  
+| bip_39_word_space_12 | express veteran cactus sorry foam impulse detect riot few wink rebuild act |  
+| bip_39_word_space_2 | express veteran |  
+| bip_39_word_space_3 | express veteran cactus |  
+| bip_39_word_space_4 | express veteran cactus sorry |  
+| bip_39_word_space_5 | express veteran cactus sorry foam |  
+| bip_39_word_space_6 | express veteran cactus sorry foam impulse |  
+| bip_39_word_space_7 | express veteran cactus sorry foam impulse detect |  
+| bip_39_word_space_8 | express veteran cactus sorry foam impulse detect riot |  
+| bip_39_word_space_9 | express veteran cactus sorry foam impulse detect riot few |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

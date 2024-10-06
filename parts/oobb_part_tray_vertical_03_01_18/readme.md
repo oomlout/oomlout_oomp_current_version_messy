@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: range caught
+  * bip 39 word 3: range caught law
+  * bip 39 word: range caught law subway feed bench boat nice pluck lock task attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | range |  
+| bip_39_word_new_br10 | range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck<br>lock |  
+| bip_39_word_new_br11 | range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck<br>lock<br>task |  
+| bip_39_word_new_br12 | range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck<br>lock<br>task<br>attend |  
+| bip_39_word_new_br2 | range<br>caught |  
+| bip_39_word_new_br3 | range<br>caught<br>law |  
+| bip_39_word_new_br4 | range<br>caught<br>law<br>subway |  
+| bip_39_word_new_br5 | range<br>caught<br>law<br>subway<br>feed |  
+| bip_39_word_new_br6 | range<br>caught<br>law<br>subway<br>feed<br>bench |  
+| bip_39_word_new_br7 | range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat |  
+| bip_39_word_new_br8 | range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice |  
+| bip_39_word_new_br9 | range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck |  
+| bip_39_word_new_line1 | range |  
+| bip_39_word_new_line10 | range
+caught
+law
+subway
+feed
+bench
+boat
+nice
+pluck
+lock |  
+| bip_39_word_new_line11 | range
+caught
+law
+subway
+feed
+bench
+boat
+nice
+pluck
+lock
+task |  
+| bip_39_word_new_line12 | range
+caught
+law
+subway
+feed
+bench
+boat
+nice
+pluck
+lock
+task
+attend |  
+| bip_39_word_new_line2 | range
+caught |  
+| bip_39_word_new_line3 | range
+caught
+law |  
+| bip_39_word_new_line4 | range
+caught
+law
+subway |  
+| bip_39_word_new_line5 | range
+caught
+law
+subway
+feed |  
+| bip_39_word_new_line6 | range
+caught
+law
+subway
+feed
+bench |  
+| bip_39_word_new_line7 | range
+caught
+law
+subway
+feed
+bench
+boat |  
+| bip_39_word_new_line8 | range
+caught
+law
+subway
+feed
+bench
+boat
+nice |  
+| bip_39_word_new_line9 | range
+caught
+law
+subway
+feed
+bench
+boat
+nice
+pluck |  
+| bip_39_word_space_0 | ['range', 'caught', 'law', 'subway', 'feed', 'bench', 'boat', 'nice', 'pluck', 'lock', 'task', 'attend'] |  
+| bip_39_word_space_1 | range |  
+| bip_39_word_space_10 | range caught law subway feed bench boat nice pluck lock |  
+| bip_39_word_space_11 | range caught law subway feed bench boat nice pluck lock task |  
+| bip_39_word_space_12 | range caught law subway feed bench boat nice pluck lock task attend |  
+| bip_39_word_space_2 | range caught |  
+| bip_39_word_space_3 | range caught law |  
+| bip_39_word_space_4 | range caught law subway |  
+| bip_39_word_space_5 | range caught law subway feed |  
+| bip_39_word_space_6 | range caught law subway feed bench |  
+| bip_39_word_space_7 | range caught law subway feed bench boat |  
+| bip_39_word_space_8 | range caught law subway feed bench boat nice |  
+| bip_39_word_space_9 | range caught law subway feed bench boat nice pluck |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

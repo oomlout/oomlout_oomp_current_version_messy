@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: issue apple
+  * bip 39 word 3: issue apple divorce
+  * bip 39 word: issue apple divorce boil hint pledge struggle leave hub october reason approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | issue |  
+| bip_39_word_new_br10 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge<br>struggle<br>leave<br>hub<br>october |  
+| bip_39_word_new_br11 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge<br>struggle<br>leave<br>hub<br>october<br>reason |  
+| bip_39_word_new_br12 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge<br>struggle<br>leave<br>hub<br>october<br>reason<br>approve |  
+| bip_39_word_new_br2 | issue<br>apple |  
+| bip_39_word_new_br3 | issue<br>apple<br>divorce |  
+| bip_39_word_new_br4 | issue<br>apple<br>divorce<br>boil |  
+| bip_39_word_new_br5 | issue<br>apple<br>divorce<br>boil<br>hint |  
+| bip_39_word_new_br6 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge |  
+| bip_39_word_new_br7 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge<br>struggle |  
+| bip_39_word_new_br8 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge<br>struggle<br>leave |  
+| bip_39_word_new_br9 | issue<br>apple<br>divorce<br>boil<br>hint<br>pledge<br>struggle<br>leave<br>hub |  
+| bip_39_word_new_line1 | issue |  
+| bip_39_word_new_line10 | issue
+apple
+divorce
+boil
+hint
+pledge
+struggle
+leave
+hub
+october |  
+| bip_39_word_new_line11 | issue
+apple
+divorce
+boil
+hint
+pledge
+struggle
+leave
+hub
+october
+reason |  
+| bip_39_word_new_line12 | issue
+apple
+divorce
+boil
+hint
+pledge
+struggle
+leave
+hub
+october
+reason
+approve |  
+| bip_39_word_new_line2 | issue
+apple |  
+| bip_39_word_new_line3 | issue
+apple
+divorce |  
+| bip_39_word_new_line4 | issue
+apple
+divorce
+boil |  
+| bip_39_word_new_line5 | issue
+apple
+divorce
+boil
+hint |  
+| bip_39_word_new_line6 | issue
+apple
+divorce
+boil
+hint
+pledge |  
+| bip_39_word_new_line7 | issue
+apple
+divorce
+boil
+hint
+pledge
+struggle |  
+| bip_39_word_new_line8 | issue
+apple
+divorce
+boil
+hint
+pledge
+struggle
+leave |  
+| bip_39_word_new_line9 | issue
+apple
+divorce
+boil
+hint
+pledge
+struggle
+leave
+hub |  
+| bip_39_word_space_0 | ['issue', 'apple', 'divorce', 'boil', 'hint', 'pledge', 'struggle', 'leave', 'hub', 'october', 'reason', 'approve'] |  
+| bip_39_word_space_1 | issue |  
+| bip_39_word_space_10 | issue apple divorce boil hint pledge struggle leave hub october |  
+| bip_39_word_space_11 | issue apple divorce boil hint pledge struggle leave hub october reason |  
+| bip_39_word_space_12 | issue apple divorce boil hint pledge struggle leave hub october reason approve |  
+| bip_39_word_space_2 | issue apple |  
+| bip_39_word_space_3 | issue apple divorce |  
+| bip_39_word_space_4 | issue apple divorce boil |  
+| bip_39_word_space_5 | issue apple divorce boil hint |  
+| bip_39_word_space_6 | issue apple divorce boil hint pledge |  
+| bip_39_word_space_7 | issue apple divorce boil hint pledge struggle |  
+| bip_39_word_space_8 | issue apple divorce boil hint pledge struggle leave |  
+| bip_39_word_space_9 | issue apple divorce boil hint pledge struggle leave hub |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

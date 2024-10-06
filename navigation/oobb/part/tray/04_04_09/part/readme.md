@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: claw oxygen
+  * bip 39 word 3: claw oxygen diesel
+  * bip 39 word: claw oxygen diesel vacant pave drip draft document eye any rural angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | claw |  
+| bip_39_word_new_br10 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip<br>draft<br>document<br>eye<br>any |  
+| bip_39_word_new_br11 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip<br>draft<br>document<br>eye<br>any<br>rural |  
+| bip_39_word_new_br12 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip<br>draft<br>document<br>eye<br>any<br>rural<br>angle |  
+| bip_39_word_new_br2 | claw<br>oxygen |  
+| bip_39_word_new_br3 | claw<br>oxygen<br>diesel |  
+| bip_39_word_new_br4 | claw<br>oxygen<br>diesel<br>vacant |  
+| bip_39_word_new_br5 | claw<br>oxygen<br>diesel<br>vacant<br>pave |  
+| bip_39_word_new_br6 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip |  
+| bip_39_word_new_br7 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip<br>draft |  
+| bip_39_word_new_br8 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip<br>draft<br>document |  
+| bip_39_word_new_br9 | claw<br>oxygen<br>diesel<br>vacant<br>pave<br>drip<br>draft<br>document<br>eye |  
+| bip_39_word_new_line1 | claw |  
+| bip_39_word_new_line10 | claw
+oxygen
+diesel
+vacant
+pave
+drip
+draft
+document
+eye
+any |  
+| bip_39_word_new_line11 | claw
+oxygen
+diesel
+vacant
+pave
+drip
+draft
+document
+eye
+any
+rural |  
+| bip_39_word_new_line12 | claw
+oxygen
+diesel
+vacant
+pave
+drip
+draft
+document
+eye
+any
+rural
+angle |  
+| bip_39_word_new_line2 | claw
+oxygen |  
+| bip_39_word_new_line3 | claw
+oxygen
+diesel |  
+| bip_39_word_new_line4 | claw
+oxygen
+diesel
+vacant |  
+| bip_39_word_new_line5 | claw
+oxygen
+diesel
+vacant
+pave |  
+| bip_39_word_new_line6 | claw
+oxygen
+diesel
+vacant
+pave
+drip |  
+| bip_39_word_new_line7 | claw
+oxygen
+diesel
+vacant
+pave
+drip
+draft |  
+| bip_39_word_new_line8 | claw
+oxygen
+diesel
+vacant
+pave
+drip
+draft
+document |  
+| bip_39_word_new_line9 | claw
+oxygen
+diesel
+vacant
+pave
+drip
+draft
+document
+eye |  
+| bip_39_word_space_0 | ['claw', 'oxygen', 'diesel', 'vacant', 'pave', 'drip', 'draft', 'document', 'eye', 'any', 'rural', 'angle'] |  
+| bip_39_word_space_1 | claw |  
+| bip_39_word_space_10 | claw oxygen diesel vacant pave drip draft document eye any |  
+| bip_39_word_space_11 | claw oxygen diesel vacant pave drip draft document eye any rural |  
+| bip_39_word_space_12 | claw oxygen diesel vacant pave drip draft document eye any rural angle |  
+| bip_39_word_space_2 | claw oxygen |  
+| bip_39_word_space_3 | claw oxygen diesel |  
+| bip_39_word_space_4 | claw oxygen diesel vacant |  
+| bip_39_word_space_5 | claw oxygen diesel vacant pave |  
+| bip_39_word_space_6 | claw oxygen diesel vacant pave drip |  
+| bip_39_word_space_7 | claw oxygen diesel vacant pave drip draft |  
+| bip_39_word_space_8 | claw oxygen diesel vacant pave drip draft document |  
+| bip_39_word_space_9 | claw oxygen diesel vacant pave drip draft document eye |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

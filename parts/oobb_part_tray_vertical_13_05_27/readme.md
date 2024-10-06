@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: occur betray
+  * bip 39 word 3: occur betray deposit
+  * bip 39 word: occur betray deposit sense void tattoo rare pink ribbon situate hawk amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | occur |  
+| bip_39_word_new_br10 | occur<br>betray<br>deposit<br>sense<br>void<br>tattoo<br>rare<br>pink<br>ribbon<br>situate |  
+| bip_39_word_new_br11 | occur<br>betray<br>deposit<br>sense<br>void<br>tattoo<br>rare<br>pink<br>ribbon<br>situate<br>hawk |  
+| bip_39_word_new_br12 | occur<br>betray<br>deposit<br>sense<br>void<br>tattoo<br>rare<br>pink<br>ribbon<br>situate<br>hawk<br>amused |  
+| bip_39_word_new_br2 | occur<br>betray |  
+| bip_39_word_new_br3 | occur<br>betray<br>deposit |  
+| bip_39_word_new_br4 | occur<br>betray<br>deposit<br>sense |  
+| bip_39_word_new_br5 | occur<br>betray<br>deposit<br>sense<br>void |  
+| bip_39_word_new_br6 | occur<br>betray<br>deposit<br>sense<br>void<br>tattoo |  
+| bip_39_word_new_br7 | occur<br>betray<br>deposit<br>sense<br>void<br>tattoo<br>rare |  
+| bip_39_word_new_br8 | occur<br>betray<br>deposit<br>sense<br>void<br>tattoo<br>rare<br>pink |  
+| bip_39_word_new_br9 | occur<br>betray<br>deposit<br>sense<br>void<br>tattoo<br>rare<br>pink<br>ribbon |  
+| bip_39_word_new_line1 | occur |  
+| bip_39_word_new_line10 | occur
+betray
+deposit
+sense
+void
+tattoo
+rare
+pink
+ribbon
+situate |  
+| bip_39_word_new_line11 | occur
+betray
+deposit
+sense
+void
+tattoo
+rare
+pink
+ribbon
+situate
+hawk |  
+| bip_39_word_new_line12 | occur
+betray
+deposit
+sense
+void
+tattoo
+rare
+pink
+ribbon
+situate
+hawk
+amused |  
+| bip_39_word_new_line2 | occur
+betray |  
+| bip_39_word_new_line3 | occur
+betray
+deposit |  
+| bip_39_word_new_line4 | occur
+betray
+deposit
+sense |  
+| bip_39_word_new_line5 | occur
+betray
+deposit
+sense
+void |  
+| bip_39_word_new_line6 | occur
+betray
+deposit
+sense
+void
+tattoo |  
+| bip_39_word_new_line7 | occur
+betray
+deposit
+sense
+void
+tattoo
+rare |  
+| bip_39_word_new_line8 | occur
+betray
+deposit
+sense
+void
+tattoo
+rare
+pink |  
+| bip_39_word_new_line9 | occur
+betray
+deposit
+sense
+void
+tattoo
+rare
+pink
+ribbon |  
+| bip_39_word_space_0 | ['occur', 'betray', 'deposit', 'sense', 'void', 'tattoo', 'rare', 'pink', 'ribbon', 'situate', 'hawk', 'amused'] |  
+| bip_39_word_space_1 | occur |  
+| bip_39_word_space_10 | occur betray deposit sense void tattoo rare pink ribbon situate |  
+| bip_39_word_space_11 | occur betray deposit sense void tattoo rare pink ribbon situate hawk |  
+| bip_39_word_space_12 | occur betray deposit sense void tattoo rare pink ribbon situate hawk amused |  
+| bip_39_word_space_2 | occur betray |  
+| bip_39_word_space_3 | occur betray deposit |  
+| bip_39_word_space_4 | occur betray deposit sense |  
+| bip_39_word_space_5 | occur betray deposit sense void |  
+| bip_39_word_space_6 | occur betray deposit sense void tattoo |  
+| bip_39_word_space_7 | occur betray deposit sense void tattoo rare |  
+| bip_39_word_space_8 | occur betray deposit sense void tattoo rare pink |  
+| bip_39_word_space_9 | occur betray deposit sense void tattoo rare pink ribbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

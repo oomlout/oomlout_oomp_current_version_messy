@@ -1,3 +1,187 @@
+bip_39_word_new_br1: delay
+bip_39_word_new_br10: delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold
+bip_39_word_new_br11: delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold<br>pumpkin
+bip_39_word_new_br12: delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly<br>fold<br>pumpkin<br>again
+bip_39_word_new_br2: delay<br>hurdle
+bip_39_word_new_br3: delay<br>hurdle<br>tortoise
+bip_39_word_new_br4: delay<br>hurdle<br>tortoise<br>hint
+bip_39_word_new_br5: delay<br>hurdle<br>tortoise<br>hint<br>mystery
+bip_39_word_new_br6: delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority
+bip_39_word_new_br7: delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog
+bip_39_word_new_br8: delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist
+bip_39_word_new_br9: delay<br>hurdle<br>tortoise<br>hint<br>mystery<br>priority<br>clog<br>assist<br>ugly
+bip_39_word_new_line1: delay
+bip_39_word_new_line10: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint
+
+  mystery
+
+  priority
+
+  clog
+
+  assist
+
+  ugly
+
+  fold'
+bip_39_word_new_line11: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint
+
+  mystery
+
+  priority
+
+  clog
+
+  assist
+
+  ugly
+
+  fold
+
+  pumpkin'
+bip_39_word_new_line12: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint
+
+  mystery
+
+  priority
+
+  clog
+
+  assist
+
+  ugly
+
+  fold
+
+  pumpkin
+
+  again'
+bip_39_word_new_line2: 'delay
+
+  hurdle'
+bip_39_word_new_line3: 'delay
+
+  hurdle
+
+  tortoise'
+bip_39_word_new_line4: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint'
+bip_39_word_new_line5: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint
+
+  mystery'
+bip_39_word_new_line6: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint
+
+  mystery
+
+  priority'
+bip_39_word_new_line7: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint
+
+  mystery
+
+  priority
+
+  clog'
+bip_39_word_new_line8: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint
+
+  mystery
+
+  priority
+
+  clog
+
+  assist'
+bip_39_word_new_line9: 'delay
+
+  hurdle
+
+  tortoise
+
+  hint
+
+  mystery
+
+  priority
+
+  clog
+
+  assist
+
+  ugly'
+bip_39_word_space_0:
+- delay
+- hurdle
+- tortoise
+- hint
+- mystery
+- priority
+- clog
+- assist
+- ugly
+- fold
+- pumpkin
+- again
+bip_39_word_space_1: delay
+bip_39_word_space_10: delay hurdle tortoise hint mystery priority clog assist ugly
+  fold
+bip_39_word_space_11: delay hurdle tortoise hint mystery priority clog assist ugly
+  fold pumpkin
+bip_39_word_space_12: delay hurdle tortoise hint mystery priority clog assist ugly
+  fold pumpkin again
+bip_39_word_space_2: delay hurdle
+bip_39_word_space_3: delay hurdle tortoise
+bip_39_word_space_4: delay hurdle tortoise hint
+bip_39_word_space_5: delay hurdle tortoise hint mystery
+bip_39_word_space_6: delay hurdle tortoise hint mystery priority
+bip_39_word_space_7: delay hurdle tortoise hint mystery priority clog
+bip_39_word_space_8: delay hurdle tortoise hint mystery priority clog assist
+bip_39_word_space_9: delay hurdle tortoise hint mystery priority clog assist ugly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

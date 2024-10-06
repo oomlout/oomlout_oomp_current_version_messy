@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: piano super
+  * bip 39 word 3: piano super twice
+  * bip 39 word: piano super twice ecology hobby arch scout sketch siege delay horn attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | piano |  
+| bip_39_word_new_br10 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch<br>scout<br>sketch<br>siege<br>delay |  
+| bip_39_word_new_br11 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch<br>scout<br>sketch<br>siege<br>delay<br>horn |  
+| bip_39_word_new_br12 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch<br>scout<br>sketch<br>siege<br>delay<br>horn<br>attract |  
+| bip_39_word_new_br2 | piano<br>super |  
+| bip_39_word_new_br3 | piano<br>super<br>twice |  
+| bip_39_word_new_br4 | piano<br>super<br>twice<br>ecology |  
+| bip_39_word_new_br5 | piano<br>super<br>twice<br>ecology<br>hobby |  
+| bip_39_word_new_br6 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch |  
+| bip_39_word_new_br7 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch<br>scout |  
+| bip_39_word_new_br8 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch<br>scout<br>sketch |  
+| bip_39_word_new_br9 | piano<br>super<br>twice<br>ecology<br>hobby<br>arch<br>scout<br>sketch<br>siege |  
+| bip_39_word_new_line1 | piano |  
+| bip_39_word_new_line10 | piano
+super
+twice
+ecology
+hobby
+arch
+scout
+sketch
+siege
+delay |  
+| bip_39_word_new_line11 | piano
+super
+twice
+ecology
+hobby
+arch
+scout
+sketch
+siege
+delay
+horn |  
+| bip_39_word_new_line12 | piano
+super
+twice
+ecology
+hobby
+arch
+scout
+sketch
+siege
+delay
+horn
+attract |  
+| bip_39_word_new_line2 | piano
+super |  
+| bip_39_word_new_line3 | piano
+super
+twice |  
+| bip_39_word_new_line4 | piano
+super
+twice
+ecology |  
+| bip_39_word_new_line5 | piano
+super
+twice
+ecology
+hobby |  
+| bip_39_word_new_line6 | piano
+super
+twice
+ecology
+hobby
+arch |  
+| bip_39_word_new_line7 | piano
+super
+twice
+ecology
+hobby
+arch
+scout |  
+| bip_39_word_new_line8 | piano
+super
+twice
+ecology
+hobby
+arch
+scout
+sketch |  
+| bip_39_word_new_line9 | piano
+super
+twice
+ecology
+hobby
+arch
+scout
+sketch
+siege |  
+| bip_39_word_space_0 | ['piano', 'super', 'twice', 'ecology', 'hobby', 'arch', 'scout', 'sketch', 'siege', 'delay', 'horn', 'attract'] |  
+| bip_39_word_space_1 | piano |  
+| bip_39_word_space_10 | piano super twice ecology hobby arch scout sketch siege delay |  
+| bip_39_word_space_11 | piano super twice ecology hobby arch scout sketch siege delay horn |  
+| bip_39_word_space_12 | piano super twice ecology hobby arch scout sketch siege delay horn attract |  
+| bip_39_word_space_2 | piano super |  
+| bip_39_word_space_3 | piano super twice |  
+| bip_39_word_space_4 | piano super twice ecology |  
+| bip_39_word_space_5 | piano super twice ecology hobby |  
+| bip_39_word_space_6 | piano super twice ecology hobby arch |  
+| bip_39_word_space_7 | piano super twice ecology hobby arch scout |  
+| bip_39_word_space_8 | piano super twice ecology hobby arch scout sketch |  
+| bip_39_word_space_9 | piano super twice ecology hobby arch scout sketch siege |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

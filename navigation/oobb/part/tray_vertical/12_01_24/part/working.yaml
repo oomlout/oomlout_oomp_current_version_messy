@@ -1,3 +1,186 @@
+bip_39_word_new_br1: talent
+bip_39_word_new_br10: talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture
+bip_39_word_new_br11: talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture<br>mango
+bip_39_word_new_br12: talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still<br>gesture<br>mango<br>assume
+bip_39_word_new_br2: talent<br>play
+bip_39_word_new_br3: talent<br>play<br>naive
+bip_39_word_new_br4: talent<br>play<br>naive<br>panda
+bip_39_word_new_br5: talent<br>play<br>naive<br>panda<br>puzzle
+bip_39_word_new_br6: talent<br>play<br>naive<br>panda<br>puzzle<br>logic
+bip_39_word_new_br7: talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon
+bip_39_word_new_br8: talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy
+bip_39_word_new_br9: talent<br>play<br>naive<br>panda<br>puzzle<br>logic<br>salmon<br>economy<br>still
+bip_39_word_new_line1: talent
+bip_39_word_new_line10: 'talent
+
+  play
+
+  naive
+
+  panda
+
+  puzzle
+
+  logic
+
+  salmon
+
+  economy
+
+  still
+
+  gesture'
+bip_39_word_new_line11: 'talent
+
+  play
+
+  naive
+
+  panda
+
+  puzzle
+
+  logic
+
+  salmon
+
+  economy
+
+  still
+
+  gesture
+
+  mango'
+bip_39_word_new_line12: 'talent
+
+  play
+
+  naive
+
+  panda
+
+  puzzle
+
+  logic
+
+  salmon
+
+  economy
+
+  still
+
+  gesture
+
+  mango
+
+  assume'
+bip_39_word_new_line2: 'talent
+
+  play'
+bip_39_word_new_line3: 'talent
+
+  play
+
+  naive'
+bip_39_word_new_line4: 'talent
+
+  play
+
+  naive
+
+  panda'
+bip_39_word_new_line5: 'talent
+
+  play
+
+  naive
+
+  panda
+
+  puzzle'
+bip_39_word_new_line6: 'talent
+
+  play
+
+  naive
+
+  panda
+
+  puzzle
+
+  logic'
+bip_39_word_new_line7: 'talent
+
+  play
+
+  naive
+
+  panda
+
+  puzzle
+
+  logic
+
+  salmon'
+bip_39_word_new_line8: 'talent
+
+  play
+
+  naive
+
+  panda
+
+  puzzle
+
+  logic
+
+  salmon
+
+  economy'
+bip_39_word_new_line9: 'talent
+
+  play
+
+  naive
+
+  panda
+
+  puzzle
+
+  logic
+
+  salmon
+
+  economy
+
+  still'
+bip_39_word_space_0:
+- talent
+- play
+- naive
+- panda
+- puzzle
+- logic
+- salmon
+- economy
+- still
+- gesture
+- mango
+- assume
+bip_39_word_space_1: talent
+bip_39_word_space_10: talent play naive panda puzzle logic salmon economy still gesture
+bip_39_word_space_11: talent play naive panda puzzle logic salmon economy still gesture
+  mango
+bip_39_word_space_12: talent play naive panda puzzle logic salmon economy still gesture
+  mango assume
+bip_39_word_space_2: talent play
+bip_39_word_space_3: talent play naive
+bip_39_word_space_4: talent play naive panda
+bip_39_word_space_5: talent play naive panda puzzle
+bip_39_word_space_6: talent play naive panda puzzle logic
+bip_39_word_space_7: talent play naive panda puzzle logic salmon
+bip_39_word_space_8: talent play naive panda puzzle logic salmon economy
+bip_39_word_space_9: talent play naive panda puzzle logic salmon economy still
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

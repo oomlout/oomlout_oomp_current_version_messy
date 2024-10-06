@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grief ordinary
+  * bip 39 word 3: grief ordinary resist
+  * bip 39 word: grief ordinary resist corn eagle craft injury mad fly immune earn argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grief |  
+| bip_39_word_new_br10 | grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly<br>immune |  
+| bip_39_word_new_br11 | grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly<br>immune<br>earn |  
+| bip_39_word_new_br12 | grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly<br>immune<br>earn<br>argue |  
+| bip_39_word_new_br2 | grief<br>ordinary |  
+| bip_39_word_new_br3 | grief<br>ordinary<br>resist |  
+| bip_39_word_new_br4 | grief<br>ordinary<br>resist<br>corn |  
+| bip_39_word_new_br5 | grief<br>ordinary<br>resist<br>corn<br>eagle |  
+| bip_39_word_new_br6 | grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft |  
+| bip_39_word_new_br7 | grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury |  
+| bip_39_word_new_br8 | grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad |  
+| bip_39_word_new_br9 | grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly |  
+| bip_39_word_new_line1 | grief |  
+| bip_39_word_new_line10 | grief
+ordinary
+resist
+corn
+eagle
+craft
+injury
+mad
+fly
+immune |  
+| bip_39_word_new_line11 | grief
+ordinary
+resist
+corn
+eagle
+craft
+injury
+mad
+fly
+immune
+earn |  
+| bip_39_word_new_line12 | grief
+ordinary
+resist
+corn
+eagle
+craft
+injury
+mad
+fly
+immune
+earn
+argue |  
+| bip_39_word_new_line2 | grief
+ordinary |  
+| bip_39_word_new_line3 | grief
+ordinary
+resist |  
+| bip_39_word_new_line4 | grief
+ordinary
+resist
+corn |  
+| bip_39_word_new_line5 | grief
+ordinary
+resist
+corn
+eagle |  
+| bip_39_word_new_line6 | grief
+ordinary
+resist
+corn
+eagle
+craft |  
+| bip_39_word_new_line7 | grief
+ordinary
+resist
+corn
+eagle
+craft
+injury |  
+| bip_39_word_new_line8 | grief
+ordinary
+resist
+corn
+eagle
+craft
+injury
+mad |  
+| bip_39_word_new_line9 | grief
+ordinary
+resist
+corn
+eagle
+craft
+injury
+mad
+fly |  
+| bip_39_word_space_0 | ['grief', 'ordinary', 'resist', 'corn', 'eagle', 'craft', 'injury', 'mad', 'fly', 'immune', 'earn', 'argue'] |  
+| bip_39_word_space_1 | grief |  
+| bip_39_word_space_10 | grief ordinary resist corn eagle craft injury mad fly immune |  
+| bip_39_word_space_11 | grief ordinary resist corn eagle craft injury mad fly immune earn |  
+| bip_39_word_space_12 | grief ordinary resist corn eagle craft injury mad fly immune earn argue |  
+| bip_39_word_space_2 | grief ordinary |  
+| bip_39_word_space_3 | grief ordinary resist |  
+| bip_39_word_space_4 | grief ordinary resist corn |  
+| bip_39_word_space_5 | grief ordinary resist corn eagle |  
+| bip_39_word_space_6 | grief ordinary resist corn eagle craft |  
+| bip_39_word_space_7 | grief ordinary resist corn eagle craft injury |  
+| bip_39_word_space_8 | grief ordinary resist corn eagle craft injury mad |  
+| bip_39_word_space_9 | grief ordinary resist corn eagle craft injury mad fly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

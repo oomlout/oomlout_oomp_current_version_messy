@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: punch brain
+  * bip 39 word 3: punch brain capable
+  * bip 39 word: punch brain capable tag put quit health unusual element unique dwarf alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | punch |  
+| bip_39_word_new_br10 | punch<br>brain<br>capable<br>tag<br>put<br>quit<br>health<br>unusual<br>element<br>unique |  
+| bip_39_word_new_br11 | punch<br>brain<br>capable<br>tag<br>put<br>quit<br>health<br>unusual<br>element<br>unique<br>dwarf |  
+| bip_39_word_new_br12 | punch<br>brain<br>capable<br>tag<br>put<br>quit<br>health<br>unusual<br>element<br>unique<br>dwarf<br>alone |  
+| bip_39_word_new_br2 | punch<br>brain |  
+| bip_39_word_new_br3 | punch<br>brain<br>capable |  
+| bip_39_word_new_br4 | punch<br>brain<br>capable<br>tag |  
+| bip_39_word_new_br5 | punch<br>brain<br>capable<br>tag<br>put |  
+| bip_39_word_new_br6 | punch<br>brain<br>capable<br>tag<br>put<br>quit |  
+| bip_39_word_new_br7 | punch<br>brain<br>capable<br>tag<br>put<br>quit<br>health |  
+| bip_39_word_new_br8 | punch<br>brain<br>capable<br>tag<br>put<br>quit<br>health<br>unusual |  
+| bip_39_word_new_br9 | punch<br>brain<br>capable<br>tag<br>put<br>quit<br>health<br>unusual<br>element |  
+| bip_39_word_new_line1 | punch |  
+| bip_39_word_new_line10 | punch
+brain
+capable
+tag
+put
+quit
+health
+unusual
+element
+unique |  
+| bip_39_word_new_line11 | punch
+brain
+capable
+tag
+put
+quit
+health
+unusual
+element
+unique
+dwarf |  
+| bip_39_word_new_line12 | punch
+brain
+capable
+tag
+put
+quit
+health
+unusual
+element
+unique
+dwarf
+alone |  
+| bip_39_word_new_line2 | punch
+brain |  
+| bip_39_word_new_line3 | punch
+brain
+capable |  
+| bip_39_word_new_line4 | punch
+brain
+capable
+tag |  
+| bip_39_word_new_line5 | punch
+brain
+capable
+tag
+put |  
+| bip_39_word_new_line6 | punch
+brain
+capable
+tag
+put
+quit |  
+| bip_39_word_new_line7 | punch
+brain
+capable
+tag
+put
+quit
+health |  
+| bip_39_word_new_line8 | punch
+brain
+capable
+tag
+put
+quit
+health
+unusual |  
+| bip_39_word_new_line9 | punch
+brain
+capable
+tag
+put
+quit
+health
+unusual
+element |  
+| bip_39_word_space_0 | ['punch', 'brain', 'capable', 'tag', 'put', 'quit', 'health', 'unusual', 'element', 'unique', 'dwarf', 'alone'] |  
+| bip_39_word_space_1 | punch |  
+| bip_39_word_space_10 | punch brain capable tag put quit health unusual element unique |  
+| bip_39_word_space_11 | punch brain capable tag put quit health unusual element unique dwarf |  
+| bip_39_word_space_12 | punch brain capable tag put quit health unusual element unique dwarf alone |  
+| bip_39_word_space_2 | punch brain |  
+| bip_39_word_space_3 | punch brain capable |  
+| bip_39_word_space_4 | punch brain capable tag |  
+| bip_39_word_space_5 | punch brain capable tag put |  
+| bip_39_word_space_6 | punch brain capable tag put quit |  
+| bip_39_word_space_7 | punch brain capable tag put quit health |  
+| bip_39_word_space_8 | punch brain capable tag put quit health unusual |  
+| bip_39_word_space_9 | punch brain capable tag put quit health unusual element |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

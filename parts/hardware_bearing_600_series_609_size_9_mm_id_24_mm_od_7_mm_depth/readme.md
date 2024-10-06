@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chunk unable
+  * bip 39 word 3: chunk unable vital
+  * bip 39 word: chunk unable vital physical ready clip bachelor spare earn friend silk address
 
 ### other_codes
 * short_code: br609
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chunk |  
+| bip_39_word_new_br10 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip<br>bachelor<br>spare<br>earn<br>friend |  
+| bip_39_word_new_br11 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip<br>bachelor<br>spare<br>earn<br>friend<br>silk |  
+| bip_39_word_new_br12 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip<br>bachelor<br>spare<br>earn<br>friend<br>silk<br>address |  
+| bip_39_word_new_br2 | chunk<br>unable |  
+| bip_39_word_new_br3 | chunk<br>unable<br>vital |  
+| bip_39_word_new_br4 | chunk<br>unable<br>vital<br>physical |  
+| bip_39_word_new_br5 | chunk<br>unable<br>vital<br>physical<br>ready |  
+| bip_39_word_new_br6 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip |  
+| bip_39_word_new_br7 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip<br>bachelor |  
+| bip_39_word_new_br8 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip<br>bachelor<br>spare |  
+| bip_39_word_new_br9 | chunk<br>unable<br>vital<br>physical<br>ready<br>clip<br>bachelor<br>spare<br>earn |  
+| bip_39_word_new_line1 | chunk |  
+| bip_39_word_new_line10 | chunk
+unable
+vital
+physical
+ready
+clip
+bachelor
+spare
+earn
+friend |  
+| bip_39_word_new_line11 | chunk
+unable
+vital
+physical
+ready
+clip
+bachelor
+spare
+earn
+friend
+silk |  
+| bip_39_word_new_line12 | chunk
+unable
+vital
+physical
+ready
+clip
+bachelor
+spare
+earn
+friend
+silk
+address |  
+| bip_39_word_new_line2 | chunk
+unable |  
+| bip_39_word_new_line3 | chunk
+unable
+vital |  
+| bip_39_word_new_line4 | chunk
+unable
+vital
+physical |  
+| bip_39_word_new_line5 | chunk
+unable
+vital
+physical
+ready |  
+| bip_39_word_new_line6 | chunk
+unable
+vital
+physical
+ready
+clip |  
+| bip_39_word_new_line7 | chunk
+unable
+vital
+physical
+ready
+clip
+bachelor |  
+| bip_39_word_new_line8 | chunk
+unable
+vital
+physical
+ready
+clip
+bachelor
+spare |  
+| bip_39_word_new_line9 | chunk
+unable
+vital
+physical
+ready
+clip
+bachelor
+spare
+earn |  
+| bip_39_word_space_0 | ['chunk', 'unable', 'vital', 'physical', 'ready', 'clip', 'bachelor', 'spare', 'earn', 'friend', 'silk', 'address'] |  
+| bip_39_word_space_1 | chunk |  
+| bip_39_word_space_10 | chunk unable vital physical ready clip bachelor spare earn friend |  
+| bip_39_word_space_11 | chunk unable vital physical ready clip bachelor spare earn friend silk |  
+| bip_39_word_space_12 | chunk unable vital physical ready clip bachelor spare earn friend silk address |  
+| bip_39_word_space_2 | chunk unable |  
+| bip_39_word_space_3 | chunk unable vital |  
+| bip_39_word_space_4 | chunk unable vital physical |  
+| bip_39_word_space_5 | chunk unable vital physical ready |  
+| bip_39_word_space_6 | chunk unable vital physical ready clip |  
+| bip_39_word_space_7 | chunk unable vital physical ready clip bachelor |  
+| bip_39_word_space_8 | chunk unable vital physical ready clip bachelor spare |  
+| bip_39_word_space_9 | chunk unable vital physical ready clip bachelor spare earn |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

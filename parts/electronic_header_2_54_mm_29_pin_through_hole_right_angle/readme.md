@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mind rain
+  * bip 39 word 3: mind rain voice
+  * bip 39 word: mind rain voice stage base answer call crane moon illness hurt again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mind |  
+| bip_39_word_new_br10 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness |  
+| bip_39_word_new_br11 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness<br>hurt |  
+| bip_39_word_new_br12 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon<br>illness<br>hurt<br>again |  
+| bip_39_word_new_br2 | mind<br>rain |  
+| bip_39_word_new_br3 | mind<br>rain<br>voice |  
+| bip_39_word_new_br4 | mind<br>rain<br>voice<br>stage |  
+| bip_39_word_new_br5 | mind<br>rain<br>voice<br>stage<br>base |  
+| bip_39_word_new_br6 | mind<br>rain<br>voice<br>stage<br>base<br>answer |  
+| bip_39_word_new_br7 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call |  
+| bip_39_word_new_br8 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane |  
+| bip_39_word_new_br9 | mind<br>rain<br>voice<br>stage<br>base<br>answer<br>call<br>crane<br>moon |  
+| bip_39_word_new_line1 | mind |  
+| bip_39_word_new_line10 | mind
+rain
+voice
+stage
+base
+answer
+call
+crane
+moon
+illness |  
+| bip_39_word_new_line11 | mind
+rain
+voice
+stage
+base
+answer
+call
+crane
+moon
+illness
+hurt |  
+| bip_39_word_new_line12 | mind
+rain
+voice
+stage
+base
+answer
+call
+crane
+moon
+illness
+hurt
+again |  
+| bip_39_word_new_line2 | mind
+rain |  
+| bip_39_word_new_line3 | mind
+rain
+voice |  
+| bip_39_word_new_line4 | mind
+rain
+voice
+stage |  
+| bip_39_word_new_line5 | mind
+rain
+voice
+stage
+base |  
+| bip_39_word_new_line6 | mind
+rain
+voice
+stage
+base
+answer |  
+| bip_39_word_new_line7 | mind
+rain
+voice
+stage
+base
+answer
+call |  
+| bip_39_word_new_line8 | mind
+rain
+voice
+stage
+base
+answer
+call
+crane |  
+| bip_39_word_new_line9 | mind
+rain
+voice
+stage
+base
+answer
+call
+crane
+moon |  
+| bip_39_word_space_0 | ['mind', 'rain', 'voice', 'stage', 'base', 'answer', 'call', 'crane', 'moon', 'illness', 'hurt', 'again'] |  
+| bip_39_word_space_1 | mind |  
+| bip_39_word_space_10 | mind rain voice stage base answer call crane moon illness |  
+| bip_39_word_space_11 | mind rain voice stage base answer call crane moon illness hurt |  
+| bip_39_word_space_12 | mind rain voice stage base answer call crane moon illness hurt again |  
+| bip_39_word_space_2 | mind rain |  
+| bip_39_word_space_3 | mind rain voice |  
+| bip_39_word_space_4 | mind rain voice stage |  
+| bip_39_word_space_5 | mind rain voice stage base |  
+| bip_39_word_space_6 | mind rain voice stage base answer |  
+| bip_39_word_space_7 | mind rain voice stage base answer call |  
+| bip_39_word_space_8 | mind rain voice stage base answer call crane |  
+| bip_39_word_space_9 | mind rain voice stage base answer call crane moon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: license
+bip_39_word_new_br10: license<br>swear<br>field<br>explain<br>fork<br>genius<br>soup<br>dismiss<br>own<br>wrap
+bip_39_word_new_br11: license<br>swear<br>field<br>explain<br>fork<br>genius<br>soup<br>dismiss<br>own<br>wrap<br>film
+bip_39_word_new_br12: license<br>swear<br>field<br>explain<br>fork<br>genius<br>soup<br>dismiss<br>own<br>wrap<br>film<br>ask
+bip_39_word_new_br2: license<br>swear
+bip_39_word_new_br3: license<br>swear<br>field
+bip_39_word_new_br4: license<br>swear<br>field<br>explain
+bip_39_word_new_br5: license<br>swear<br>field<br>explain<br>fork
+bip_39_word_new_br6: license<br>swear<br>field<br>explain<br>fork<br>genius
+bip_39_word_new_br7: license<br>swear<br>field<br>explain<br>fork<br>genius<br>soup
+bip_39_word_new_br8: license<br>swear<br>field<br>explain<br>fork<br>genius<br>soup<br>dismiss
+bip_39_word_new_br9: license<br>swear<br>field<br>explain<br>fork<br>genius<br>soup<br>dismiss<br>own
+bip_39_word_new_line1: license
+bip_39_word_new_line10: 'license
+
+  swear
+
+  field
+
+  explain
+
+  fork
+
+  genius
+
+  soup
+
+  dismiss
+
+  own
+
+  wrap'
+bip_39_word_new_line11: 'license
+
+  swear
+
+  field
+
+  explain
+
+  fork
+
+  genius
+
+  soup
+
+  dismiss
+
+  own
+
+  wrap
+
+  film'
+bip_39_word_new_line12: 'license
+
+  swear
+
+  field
+
+  explain
+
+  fork
+
+  genius
+
+  soup
+
+  dismiss
+
+  own
+
+  wrap
+
+  film
+
+  ask'
+bip_39_word_new_line2: 'license
+
+  swear'
+bip_39_word_new_line3: 'license
+
+  swear
+
+  field'
+bip_39_word_new_line4: 'license
+
+  swear
+
+  field
+
+  explain'
+bip_39_word_new_line5: 'license
+
+  swear
+
+  field
+
+  explain
+
+  fork'
+bip_39_word_new_line6: 'license
+
+  swear
+
+  field
+
+  explain
+
+  fork
+
+  genius'
+bip_39_word_new_line7: 'license
+
+  swear
+
+  field
+
+  explain
+
+  fork
+
+  genius
+
+  soup'
+bip_39_word_new_line8: 'license
+
+  swear
+
+  field
+
+  explain
+
+  fork
+
+  genius
+
+  soup
+
+  dismiss'
+bip_39_word_new_line9: 'license
+
+  swear
+
+  field
+
+  explain
+
+  fork
+
+  genius
+
+  soup
+
+  dismiss
+
+  own'
+bip_39_word_space_0:
+- license
+- swear
+- field
+- explain
+- fork
+- genius
+- soup
+- dismiss
+- own
+- wrap
+- film
+- ask
+bip_39_word_space_1: license
+bip_39_word_space_10: license swear field explain fork genius soup dismiss own wrap
+bip_39_word_space_11: license swear field explain fork genius soup dismiss own wrap
+  film
+bip_39_word_space_12: license swear field explain fork genius soup dismiss own wrap
+  film ask
+bip_39_word_space_2: license swear
+bip_39_word_space_3: license swear field
+bip_39_word_space_4: license swear field explain
+bip_39_word_space_5: license swear field explain fork
+bip_39_word_space_6: license swear field explain fork genius
+bip_39_word_space_7: license swear field explain fork genius soup
+bip_39_word_space_8: license swear field explain fork genius soup dismiss
+bip_39_word_space_9: license swear field explain fork genius soup dismiss own
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

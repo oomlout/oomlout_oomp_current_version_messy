@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mass
+bip_39_word_new_br10: mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble
+bip_39_word_new_br11: mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble<br>machine
+bip_39_word_new_br12: mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink<br>crumble<br>machine<br>above
+bip_39_word_new_br2: mass<br>circle
+bip_39_word_new_br3: mass<br>circle<br>wing
+bip_39_word_new_br4: mass<br>circle<br>wing<br>opinion
+bip_39_word_new_br5: mass<br>circle<br>wing<br>opinion<br>glory
+bip_39_word_new_br6: mass<br>circle<br>wing<br>opinion<br>glory<br>exact
+bip_39_word_new_br7: mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast
+bip_39_word_new_br8: mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee
+bip_39_word_new_br9: mass<br>circle<br>wing<br>opinion<br>glory<br>exact<br>roast<br>coffee<br>wink
+bip_39_word_new_line1: mass
+bip_39_word_new_line10: 'mass
+
+  circle
+
+  wing
+
+  opinion
+
+  glory
+
+  exact
+
+  roast
+
+  coffee
+
+  wink
+
+  crumble'
+bip_39_word_new_line11: 'mass
+
+  circle
+
+  wing
+
+  opinion
+
+  glory
+
+  exact
+
+  roast
+
+  coffee
+
+  wink
+
+  crumble
+
+  machine'
+bip_39_word_new_line12: 'mass
+
+  circle
+
+  wing
+
+  opinion
+
+  glory
+
+  exact
+
+  roast
+
+  coffee
+
+  wink
+
+  crumble
+
+  machine
+
+  above'
+bip_39_word_new_line2: 'mass
+
+  circle'
+bip_39_word_new_line3: 'mass
+
+  circle
+
+  wing'
+bip_39_word_new_line4: 'mass
+
+  circle
+
+  wing
+
+  opinion'
+bip_39_word_new_line5: 'mass
+
+  circle
+
+  wing
+
+  opinion
+
+  glory'
+bip_39_word_new_line6: 'mass
+
+  circle
+
+  wing
+
+  opinion
+
+  glory
+
+  exact'
+bip_39_word_new_line7: 'mass
+
+  circle
+
+  wing
+
+  opinion
+
+  glory
+
+  exact
+
+  roast'
+bip_39_word_new_line8: 'mass
+
+  circle
+
+  wing
+
+  opinion
+
+  glory
+
+  exact
+
+  roast
+
+  coffee'
+bip_39_word_new_line9: 'mass
+
+  circle
+
+  wing
+
+  opinion
+
+  glory
+
+  exact
+
+  roast
+
+  coffee
+
+  wink'
+bip_39_word_space_0:
+- mass
+- circle
+- wing
+- opinion
+- glory
+- exact
+- roast
+- coffee
+- wink
+- crumble
+- machine
+- above
+bip_39_word_space_1: mass
+bip_39_word_space_10: mass circle wing opinion glory exact roast coffee wink crumble
+bip_39_word_space_11: mass circle wing opinion glory exact roast coffee wink crumble
+  machine
+bip_39_word_space_12: mass circle wing opinion glory exact roast coffee wink crumble
+  machine above
+bip_39_word_space_2: mass circle
+bip_39_word_space_3: mass circle wing
+bip_39_word_space_4: mass circle wing opinion
+bip_39_word_space_5: mass circle wing opinion glory
+bip_39_word_space_6: mass circle wing opinion glory exact
+bip_39_word_space_7: mass circle wing opinion glory exact roast
+bip_39_word_space_8: mass circle wing opinion glory exact roast coffee
+bip_39_word_space_9: mass circle wing opinion glory exact roast coffee wink
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

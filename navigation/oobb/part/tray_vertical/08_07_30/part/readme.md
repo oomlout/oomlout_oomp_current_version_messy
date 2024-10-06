@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pelican model
+  * bip 39 word 3: pelican model sock
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pelican |  
+| bip_39_word_new_br10 | pelican<br>model<br>sock<br>circle<br>rely<br>thought<br>desert<br>alert<br>word<br>toward |  
+| bip_39_word_new_br11 | pelican<br>model<br>sock<br>circle<br>rely<br>thought<br>desert<br>alert<br>word<br>toward<br>rug |  
+| bip_39_word_new_br2 | pelican<br>model |  
+| bip_39_word_new_br3 | pelican<br>model<br>sock |  
+| bip_39_word_new_br4 | pelican<br>model<br>sock<br>circle |  
+| bip_39_word_new_br5 | pelican<br>model<br>sock<br>circle<br>rely |  
+| bip_39_word_new_br6 | pelican<br>model<br>sock<br>circle<br>rely<br>thought |  
+| bip_39_word_new_br7 | pelican<br>model<br>sock<br>circle<br>rely<br>thought<br>desert |  
+| bip_39_word_new_br8 | pelican<br>model<br>sock<br>circle<br>rely<br>thought<br>desert<br>alert |  
+| bip_39_word_new_br9 | pelican<br>model<br>sock<br>circle<br>rely<br>thought<br>desert<br>alert<br>word |  
+| bip_39_word_new_line1 | pelican |  
+| bip_39_word_new_line10 | pelican
+model
+sock
+circle
+rely
+thought
+desert
+alert
+word
+toward |  
+| bip_39_word_new_line11 | pelican
+model
+sock
+circle
+rely
+thought
+desert
+alert
+word
+toward
+rug |  
+| bip_39_word_new_line2 | pelican
+model |  
+| bip_39_word_new_line3 | pelican
+model
+sock |  
+| bip_39_word_new_line4 | pelican
+model
+sock
+circle |  
+| bip_39_word_new_line5 | pelican
+model
+sock
+circle
+rely |  
+| bip_39_word_new_line6 | pelican
+model
+sock
+circle
+rely
+thought |  
+| bip_39_word_new_line7 | pelican
+model
+sock
+circle
+rely
+thought
+desert |  
+| bip_39_word_new_line8 | pelican
+model
+sock
+circle
+rely
+thought
+desert
+alert |  
+| bip_39_word_new_line9 | pelican
+model
+sock
+circle
+rely
+thought
+desert
+alert
+word |  
+| bip_39_word_space_0 | ['pelican', 'model', 'sock', 'circle', 'rely', 'thought', 'desert', 'alert', 'word', 'toward', 'rug'] |  
+| bip_39_word_space_1 | pelican |  
+| bip_39_word_space_10 | pelican model sock circle rely thought desert alert word toward |  
+| bip_39_word_space_11 | pelican model sock circle rely thought desert alert word toward rug |  
+| bip_39_word_space_2 | pelican model |  
+| bip_39_word_space_3 | pelican model sock |  
+| bip_39_word_space_4 | pelican model sock circle |  
+| bip_39_word_space_5 | pelican model sock circle rely |  
+| bip_39_word_space_6 | pelican model sock circle rely thought |  
+| bip_39_word_space_7 | pelican model sock circle rely thought desert |  
+| bip_39_word_space_8 | pelican model sock circle rely thought desert alert |  
+| bip_39_word_space_9 | pelican model sock circle rely thought desert alert word |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

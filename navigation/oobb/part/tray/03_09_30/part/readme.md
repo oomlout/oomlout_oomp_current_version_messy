@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: verify piece
+  * bip 39 word 3: verify piece business
+  * bip 39 word: verify piece business better blouse night rib bread enforce name index arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | verify |  
+| bip_39_word_new_br10 | verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce<br>name |  
+| bip_39_word_new_br11 | verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce<br>name<br>index |  
+| bip_39_word_new_br12 | verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce<br>name<br>index<br>arrange |  
+| bip_39_word_new_br2 | verify<br>piece |  
+| bip_39_word_new_br3 | verify<br>piece<br>business |  
+| bip_39_word_new_br4 | verify<br>piece<br>business<br>better |  
+| bip_39_word_new_br5 | verify<br>piece<br>business<br>better<br>blouse |  
+| bip_39_word_new_br6 | verify<br>piece<br>business<br>better<br>blouse<br>night |  
+| bip_39_word_new_br7 | verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib |  
+| bip_39_word_new_br8 | verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread |  
+| bip_39_word_new_br9 | verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce |  
+| bip_39_word_new_line1 | verify |  
+| bip_39_word_new_line10 | verify
+piece
+business
+better
+blouse
+night
+rib
+bread
+enforce
+name |  
+| bip_39_word_new_line11 | verify
+piece
+business
+better
+blouse
+night
+rib
+bread
+enforce
+name
+index |  
+| bip_39_word_new_line12 | verify
+piece
+business
+better
+blouse
+night
+rib
+bread
+enforce
+name
+index
+arrange |  
+| bip_39_word_new_line2 | verify
+piece |  
+| bip_39_word_new_line3 | verify
+piece
+business |  
+| bip_39_word_new_line4 | verify
+piece
+business
+better |  
+| bip_39_word_new_line5 | verify
+piece
+business
+better
+blouse |  
+| bip_39_word_new_line6 | verify
+piece
+business
+better
+blouse
+night |  
+| bip_39_word_new_line7 | verify
+piece
+business
+better
+blouse
+night
+rib |  
+| bip_39_word_new_line8 | verify
+piece
+business
+better
+blouse
+night
+rib
+bread |  
+| bip_39_word_new_line9 | verify
+piece
+business
+better
+blouse
+night
+rib
+bread
+enforce |  
+| bip_39_word_space_0 | ['verify', 'piece', 'business', 'better', 'blouse', 'night', 'rib', 'bread', 'enforce', 'name', 'index', 'arrange'] |  
+| bip_39_word_space_1 | verify |  
+| bip_39_word_space_10 | verify piece business better blouse night rib bread enforce name |  
+| bip_39_word_space_11 | verify piece business better blouse night rib bread enforce name index |  
+| bip_39_word_space_12 | verify piece business better blouse night rib bread enforce name index arrange |  
+| bip_39_word_space_2 | verify piece |  
+| bip_39_word_space_3 | verify piece business |  
+| bip_39_word_space_4 | verify piece business better |  
+| bip_39_word_space_5 | verify piece business better blouse |  
+| bip_39_word_space_6 | verify piece business better blouse night |  
+| bip_39_word_space_7 | verify piece business better blouse night rib |  
+| bip_39_word_space_8 | verify piece business better blouse night rib bread |  
+| bip_39_word_space_9 | verify piece business better blouse night rib bread enforce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

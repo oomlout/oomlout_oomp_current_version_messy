@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wagon
+bip_39_word_new_br10: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe<br>fat<br>citizen<br>twin<br>ecology
+bip_39_word_new_br11: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe<br>fat<br>citizen<br>twin<br>ecology<br>milk
+bip_39_word_new_br12: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe<br>fat<br>citizen<br>twin<br>ecology<br>milk<br>acid
+bip_39_word_new_br2: wagon<br>mad
+bip_39_word_new_br3: wagon<br>mad<br>depth
+bip_39_word_new_br4: wagon<br>mad<br>depth<br>project
+bip_39_word_new_br5: wagon<br>mad<br>depth<br>project<br>hockey
+bip_39_word_new_br6: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe
+bip_39_word_new_br7: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe<br>fat
+bip_39_word_new_br8: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe<br>fat<br>citizen
+bip_39_word_new_br9: wagon<br>mad<br>depth<br>project<br>hockey<br>recipe<br>fat<br>citizen<br>twin
+bip_39_word_new_line1: wagon
+bip_39_word_new_line10: 'wagon
+
+  mad
+
+  depth
+
+  project
+
+  hockey
+
+  recipe
+
+  fat
+
+  citizen
+
+  twin
+
+  ecology'
+bip_39_word_new_line11: 'wagon
+
+  mad
+
+  depth
+
+  project
+
+  hockey
+
+  recipe
+
+  fat
+
+  citizen
+
+  twin
+
+  ecology
+
+  milk'
+bip_39_word_new_line12: 'wagon
+
+  mad
+
+  depth
+
+  project
+
+  hockey
+
+  recipe
+
+  fat
+
+  citizen
+
+  twin
+
+  ecology
+
+  milk
+
+  acid'
+bip_39_word_new_line2: 'wagon
+
+  mad'
+bip_39_word_new_line3: 'wagon
+
+  mad
+
+  depth'
+bip_39_word_new_line4: 'wagon
+
+  mad
+
+  depth
+
+  project'
+bip_39_word_new_line5: 'wagon
+
+  mad
+
+  depth
+
+  project
+
+  hockey'
+bip_39_word_new_line6: 'wagon
+
+  mad
+
+  depth
+
+  project
+
+  hockey
+
+  recipe'
+bip_39_word_new_line7: 'wagon
+
+  mad
+
+  depth
+
+  project
+
+  hockey
+
+  recipe
+
+  fat'
+bip_39_word_new_line8: 'wagon
+
+  mad
+
+  depth
+
+  project
+
+  hockey
+
+  recipe
+
+  fat
+
+  citizen'
+bip_39_word_new_line9: 'wagon
+
+  mad
+
+  depth
+
+  project
+
+  hockey
+
+  recipe
+
+  fat
+
+  citizen
+
+  twin'
+bip_39_word_space_0:
+- wagon
+- mad
+- depth
+- project
+- hockey
+- recipe
+- fat
+- citizen
+- twin
+- ecology
+- milk
+- acid
+bip_39_word_space_1: wagon
+bip_39_word_space_10: wagon mad depth project hockey recipe fat citizen twin ecology
+bip_39_word_space_11: wagon mad depth project hockey recipe fat citizen twin ecology
+  milk
+bip_39_word_space_12: wagon mad depth project hockey recipe fat citizen twin ecology
+  milk acid
+bip_39_word_space_2: wagon mad
+bip_39_word_space_3: wagon mad depth
+bip_39_word_space_4: wagon mad depth project
+bip_39_word_space_5: wagon mad depth project hockey
+bip_39_word_space_6: wagon mad depth project hockey recipe
+bip_39_word_space_7: wagon mad depth project hockey recipe fat
+bip_39_word_space_8: wagon mad depth project hockey recipe fat citizen
+bip_39_word_space_9: wagon mad depth project hockey recipe fat citizen twin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

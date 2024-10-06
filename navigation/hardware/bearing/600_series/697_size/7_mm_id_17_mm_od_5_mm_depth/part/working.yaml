@@ -1,3 +1,187 @@
+bip_39_word_new_br1: reform
+bip_39_word_new_br10: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote<br>chalk
+bip_39_word_new_br11: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote<br>chalk<br>exotic
+bip_39_word_new_br12: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote<br>chalk<br>exotic<br>asset
+bip_39_word_new_br2: reform<br>garlic
+bip_39_word_new_br3: reform<br>garlic<br>parent
+bip_39_word_new_br4: reform<br>garlic<br>parent<br>lift
+bip_39_word_new_br5: reform<br>garlic<br>parent<br>lift<br>solve
+bip_39_word_new_br6: reform<br>garlic<br>parent<br>lift<br>solve<br>motor
+bip_39_word_new_br7: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler
+bip_39_word_new_br8: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick
+bip_39_word_new_br9: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote
+bip_39_word_new_line1: reform
+bip_39_word_new_line10: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick
+
+  promote
+
+  chalk'
+bip_39_word_new_line11: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick
+
+  promote
+
+  chalk
+
+  exotic'
+bip_39_word_new_line12: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick
+
+  promote
+
+  chalk
+
+  exotic
+
+  asset'
+bip_39_word_new_line2: 'reform
+
+  garlic'
+bip_39_word_new_line3: 'reform
+
+  garlic
+
+  parent'
+bip_39_word_new_line4: 'reform
+
+  garlic
+
+  parent
+
+  lift'
+bip_39_word_new_line5: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve'
+bip_39_word_new_line6: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor'
+bip_39_word_new_line7: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler'
+bip_39_word_new_line8: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick'
+bip_39_word_new_line9: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick
+
+  promote'
+bip_39_word_space_0:
+- reform
+- garlic
+- parent
+- lift
+- solve
+- motor
+- toddler
+- quick
+- promote
+- chalk
+- exotic
+- asset
+bip_39_word_space_1: reform
+bip_39_word_space_10: reform garlic parent lift solve motor toddler quick promote
+  chalk
+bip_39_word_space_11: reform garlic parent lift solve motor toddler quick promote
+  chalk exotic
+bip_39_word_space_12: reform garlic parent lift solve motor toddler quick promote
+  chalk exotic asset
+bip_39_word_space_2: reform garlic
+bip_39_word_space_3: reform garlic parent
+bip_39_word_space_4: reform garlic parent lift
+bip_39_word_space_5: reform garlic parent lift solve
+bip_39_word_space_6: reform garlic parent lift solve motor
+bip_39_word_space_7: reform garlic parent lift solve motor toddler
+bip_39_word_space_8: reform garlic parent lift solve motor toddler quick
+bip_39_word_space_9: reform garlic parent lift solve motor toddler quick promote
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

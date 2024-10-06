@@ -1,3 +1,187 @@
+bip_39_word_new_br1: biology
+bip_39_word_new_br10: biology<br>another<br>work<br>salute<br>educate<br>panel<br>message<br>depart<br>silver<br>nation
+bip_39_word_new_br11: biology<br>another<br>work<br>salute<br>educate<br>panel<br>message<br>depart<br>silver<br>nation<br>young
+bip_39_word_new_br12: biology<br>another<br>work<br>salute<br>educate<br>panel<br>message<br>depart<br>silver<br>nation<br>young<br>adjust
+bip_39_word_new_br2: biology<br>another
+bip_39_word_new_br3: biology<br>another<br>work
+bip_39_word_new_br4: biology<br>another<br>work<br>salute
+bip_39_word_new_br5: biology<br>another<br>work<br>salute<br>educate
+bip_39_word_new_br6: biology<br>another<br>work<br>salute<br>educate<br>panel
+bip_39_word_new_br7: biology<br>another<br>work<br>salute<br>educate<br>panel<br>message
+bip_39_word_new_br8: biology<br>another<br>work<br>salute<br>educate<br>panel<br>message<br>depart
+bip_39_word_new_br9: biology<br>another<br>work<br>salute<br>educate<br>panel<br>message<br>depart<br>silver
+bip_39_word_new_line1: biology
+bip_39_word_new_line10: 'biology
+
+  another
+
+  work
+
+  salute
+
+  educate
+
+  panel
+
+  message
+
+  depart
+
+  silver
+
+  nation'
+bip_39_word_new_line11: 'biology
+
+  another
+
+  work
+
+  salute
+
+  educate
+
+  panel
+
+  message
+
+  depart
+
+  silver
+
+  nation
+
+  young'
+bip_39_word_new_line12: 'biology
+
+  another
+
+  work
+
+  salute
+
+  educate
+
+  panel
+
+  message
+
+  depart
+
+  silver
+
+  nation
+
+  young
+
+  adjust'
+bip_39_word_new_line2: 'biology
+
+  another'
+bip_39_word_new_line3: 'biology
+
+  another
+
+  work'
+bip_39_word_new_line4: 'biology
+
+  another
+
+  work
+
+  salute'
+bip_39_word_new_line5: 'biology
+
+  another
+
+  work
+
+  salute
+
+  educate'
+bip_39_word_new_line6: 'biology
+
+  another
+
+  work
+
+  salute
+
+  educate
+
+  panel'
+bip_39_word_new_line7: 'biology
+
+  another
+
+  work
+
+  salute
+
+  educate
+
+  panel
+
+  message'
+bip_39_word_new_line8: 'biology
+
+  another
+
+  work
+
+  salute
+
+  educate
+
+  panel
+
+  message
+
+  depart'
+bip_39_word_new_line9: 'biology
+
+  another
+
+  work
+
+  salute
+
+  educate
+
+  panel
+
+  message
+
+  depart
+
+  silver'
+bip_39_word_space_0:
+- biology
+- another
+- work
+- salute
+- educate
+- panel
+- message
+- depart
+- silver
+- nation
+- young
+- adjust
+bip_39_word_space_1: biology
+bip_39_word_space_10: biology another work salute educate panel message depart silver
+  nation
+bip_39_word_space_11: biology another work salute educate panel message depart silver
+  nation young
+bip_39_word_space_12: biology another work salute educate panel message depart silver
+  nation young adjust
+bip_39_word_space_2: biology another
+bip_39_word_space_3: biology another work
+bip_39_word_space_4: biology another work salute
+bip_39_word_space_5: biology another work salute educate
+bip_39_word_space_6: biology another work salute educate panel
+bip_39_word_space_7: biology another work salute educate panel message
+bip_39_word_space_8: biology another work salute educate panel message depart
+bip_39_word_space_9: biology another work salute educate panel message depart silver
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

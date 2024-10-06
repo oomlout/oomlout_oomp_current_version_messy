@@ -1,3 +1,186 @@
+bip_39_word_new_br1: day
+bip_39_word_new_br10: day<br>opinion<br>road<br>ahead<br>anger<br>remain<br>guess<br>often<br>easily<br>solve
+bip_39_word_new_br11: day<br>opinion<br>road<br>ahead<br>anger<br>remain<br>guess<br>often<br>easily<br>solve<br>someone
+bip_39_word_new_br12: day<br>opinion<br>road<br>ahead<br>anger<br>remain<br>guess<br>often<br>easily<br>solve<br>someone<br>all
+bip_39_word_new_br2: day<br>opinion
+bip_39_word_new_br3: day<br>opinion<br>road
+bip_39_word_new_br4: day<br>opinion<br>road<br>ahead
+bip_39_word_new_br5: day<br>opinion<br>road<br>ahead<br>anger
+bip_39_word_new_br6: day<br>opinion<br>road<br>ahead<br>anger<br>remain
+bip_39_word_new_br7: day<br>opinion<br>road<br>ahead<br>anger<br>remain<br>guess
+bip_39_word_new_br8: day<br>opinion<br>road<br>ahead<br>anger<br>remain<br>guess<br>often
+bip_39_word_new_br9: day<br>opinion<br>road<br>ahead<br>anger<br>remain<br>guess<br>often<br>easily
+bip_39_word_new_line1: day
+bip_39_word_new_line10: 'day
+
+  opinion
+
+  road
+
+  ahead
+
+  anger
+
+  remain
+
+  guess
+
+  often
+
+  easily
+
+  solve'
+bip_39_word_new_line11: 'day
+
+  opinion
+
+  road
+
+  ahead
+
+  anger
+
+  remain
+
+  guess
+
+  often
+
+  easily
+
+  solve
+
+  someone'
+bip_39_word_new_line12: 'day
+
+  opinion
+
+  road
+
+  ahead
+
+  anger
+
+  remain
+
+  guess
+
+  often
+
+  easily
+
+  solve
+
+  someone
+
+  all'
+bip_39_word_new_line2: 'day
+
+  opinion'
+bip_39_word_new_line3: 'day
+
+  opinion
+
+  road'
+bip_39_word_new_line4: 'day
+
+  opinion
+
+  road
+
+  ahead'
+bip_39_word_new_line5: 'day
+
+  opinion
+
+  road
+
+  ahead
+
+  anger'
+bip_39_word_new_line6: 'day
+
+  opinion
+
+  road
+
+  ahead
+
+  anger
+
+  remain'
+bip_39_word_new_line7: 'day
+
+  opinion
+
+  road
+
+  ahead
+
+  anger
+
+  remain
+
+  guess'
+bip_39_word_new_line8: 'day
+
+  opinion
+
+  road
+
+  ahead
+
+  anger
+
+  remain
+
+  guess
+
+  often'
+bip_39_word_new_line9: 'day
+
+  opinion
+
+  road
+
+  ahead
+
+  anger
+
+  remain
+
+  guess
+
+  often
+
+  easily'
+bip_39_word_space_0:
+- day
+- opinion
+- road
+- ahead
+- anger
+- remain
+- guess
+- often
+- easily
+- solve
+- someone
+- all
+bip_39_word_space_1: day
+bip_39_word_space_10: day opinion road ahead anger remain guess often easily solve
+bip_39_word_space_11: day opinion road ahead anger remain guess often easily solve
+  someone
+bip_39_word_space_12: day opinion road ahead anger remain guess often easily solve
+  someone all
+bip_39_word_space_2: day opinion
+bip_39_word_space_3: day opinion road
+bip_39_word_space_4: day opinion road ahead
+bip_39_word_space_5: day opinion road ahead anger
+bip_39_word_space_6: day opinion road ahead anger remain
+bip_39_word_space_7: day opinion road ahead anger remain guess
+bip_39_word_space_8: day opinion road ahead anger remain guess often
+bip_39_word_space_9: day opinion road ahead anger remain guess often easily
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

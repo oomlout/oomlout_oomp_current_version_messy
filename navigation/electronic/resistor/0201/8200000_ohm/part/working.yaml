@@ -1,3 +1,186 @@
+bip_39_word_new_br1: notice
+bip_39_word_new_br10: notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan
+bip_39_word_new_br11: notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan<br>glass
+bip_39_word_new_br12: notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead<br>slogan<br>glass<br>asset
+bip_39_word_new_br2: notice<br>blue
+bip_39_word_new_br3: notice<br>blue<br>parrot
+bip_39_word_new_br4: notice<br>blue<br>parrot<br>father
+bip_39_word_new_br5: notice<br>blue<br>parrot<br>father<br>horn
+bip_39_word_new_br6: notice<br>blue<br>parrot<br>father<br>horn<br>urban
+bip_39_word_new_br7: notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass
+bip_39_word_new_br8: notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today
+bip_39_word_new_br9: notice<br>blue<br>parrot<br>father<br>horn<br>urban<br>brass<br>today<br>ahead
+bip_39_word_new_line1: notice
+bip_39_word_new_line10: 'notice
+
+  blue
+
+  parrot
+
+  father
+
+  horn
+
+  urban
+
+  brass
+
+  today
+
+  ahead
+
+  slogan'
+bip_39_word_new_line11: 'notice
+
+  blue
+
+  parrot
+
+  father
+
+  horn
+
+  urban
+
+  brass
+
+  today
+
+  ahead
+
+  slogan
+
+  glass'
+bip_39_word_new_line12: 'notice
+
+  blue
+
+  parrot
+
+  father
+
+  horn
+
+  urban
+
+  brass
+
+  today
+
+  ahead
+
+  slogan
+
+  glass
+
+  asset'
+bip_39_word_new_line2: 'notice
+
+  blue'
+bip_39_word_new_line3: 'notice
+
+  blue
+
+  parrot'
+bip_39_word_new_line4: 'notice
+
+  blue
+
+  parrot
+
+  father'
+bip_39_word_new_line5: 'notice
+
+  blue
+
+  parrot
+
+  father
+
+  horn'
+bip_39_word_new_line6: 'notice
+
+  blue
+
+  parrot
+
+  father
+
+  horn
+
+  urban'
+bip_39_word_new_line7: 'notice
+
+  blue
+
+  parrot
+
+  father
+
+  horn
+
+  urban
+
+  brass'
+bip_39_word_new_line8: 'notice
+
+  blue
+
+  parrot
+
+  father
+
+  horn
+
+  urban
+
+  brass
+
+  today'
+bip_39_word_new_line9: 'notice
+
+  blue
+
+  parrot
+
+  father
+
+  horn
+
+  urban
+
+  brass
+
+  today
+
+  ahead'
+bip_39_word_space_0:
+- notice
+- blue
+- parrot
+- father
+- horn
+- urban
+- brass
+- today
+- ahead
+- slogan
+- glass
+- asset
+bip_39_word_space_1: notice
+bip_39_word_space_10: notice blue parrot father horn urban brass today ahead slogan
+bip_39_word_space_11: notice blue parrot father horn urban brass today ahead slogan
+  glass
+bip_39_word_space_12: notice blue parrot father horn urban brass today ahead slogan
+  glass asset
+bip_39_word_space_2: notice blue
+bip_39_word_space_3: notice blue parrot
+bip_39_word_space_4: notice blue parrot father
+bip_39_word_space_5: notice blue parrot father horn
+bip_39_word_space_6: notice blue parrot father horn urban
+bip_39_word_space_7: notice blue parrot father horn urban brass
+bip_39_word_space_8: notice blue parrot father horn urban brass today
+bip_39_word_space_9: notice blue parrot father horn urban brass today ahead
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

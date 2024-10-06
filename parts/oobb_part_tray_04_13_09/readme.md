@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: control barrel
+  * bip 39 word 3: control barrel harsh
+  * bip 39 word: control barrel harsh connect juice lyrics remain best mechanic grow unique artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | control |  
+| bip_39_word_new_br10 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic<br>grow |  
+| bip_39_word_new_br11 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic<br>grow<br>unique |  
+| bip_39_word_new_br12 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic<br>grow<br>unique<br>artist |  
+| bip_39_word_new_br2 | control<br>barrel |  
+| bip_39_word_new_br3 | control<br>barrel<br>harsh |  
+| bip_39_word_new_br4 | control<br>barrel<br>harsh<br>connect |  
+| bip_39_word_new_br5 | control<br>barrel<br>harsh<br>connect<br>juice |  
+| bip_39_word_new_br6 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics |  
+| bip_39_word_new_br7 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain |  
+| bip_39_word_new_br8 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best |  
+| bip_39_word_new_br9 | control<br>barrel<br>harsh<br>connect<br>juice<br>lyrics<br>remain<br>best<br>mechanic |  
+| bip_39_word_new_line1 | control |  
+| bip_39_word_new_line10 | control
+barrel
+harsh
+connect
+juice
+lyrics
+remain
+best
+mechanic
+grow |  
+| bip_39_word_new_line11 | control
+barrel
+harsh
+connect
+juice
+lyrics
+remain
+best
+mechanic
+grow
+unique |  
+| bip_39_word_new_line12 | control
+barrel
+harsh
+connect
+juice
+lyrics
+remain
+best
+mechanic
+grow
+unique
+artist |  
+| bip_39_word_new_line2 | control
+barrel |  
+| bip_39_word_new_line3 | control
+barrel
+harsh |  
+| bip_39_word_new_line4 | control
+barrel
+harsh
+connect |  
+| bip_39_word_new_line5 | control
+barrel
+harsh
+connect
+juice |  
+| bip_39_word_new_line6 | control
+barrel
+harsh
+connect
+juice
+lyrics |  
+| bip_39_word_new_line7 | control
+barrel
+harsh
+connect
+juice
+lyrics
+remain |  
+| bip_39_word_new_line8 | control
+barrel
+harsh
+connect
+juice
+lyrics
+remain
+best |  
+| bip_39_word_new_line9 | control
+barrel
+harsh
+connect
+juice
+lyrics
+remain
+best
+mechanic |  
+| bip_39_word_space_0 | ['control', 'barrel', 'harsh', 'connect', 'juice', 'lyrics', 'remain', 'best', 'mechanic', 'grow', 'unique', 'artist'] |  
+| bip_39_word_space_1 | control |  
+| bip_39_word_space_10 | control barrel harsh connect juice lyrics remain best mechanic grow |  
+| bip_39_word_space_11 | control barrel harsh connect juice lyrics remain best mechanic grow unique |  
+| bip_39_word_space_12 | control barrel harsh connect juice lyrics remain best mechanic grow unique artist |  
+| bip_39_word_space_2 | control barrel |  
+| bip_39_word_space_3 | control barrel harsh |  
+| bip_39_word_space_4 | control barrel harsh connect |  
+| bip_39_word_space_5 | control barrel harsh connect juice |  
+| bip_39_word_space_6 | control barrel harsh connect juice lyrics |  
+| bip_39_word_space_7 | control barrel harsh connect juice lyrics remain |  
+| bip_39_word_space_8 | control barrel harsh connect juice lyrics remain best |  
+| bip_39_word_space_9 | control barrel harsh connect juice lyrics remain best mechanic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

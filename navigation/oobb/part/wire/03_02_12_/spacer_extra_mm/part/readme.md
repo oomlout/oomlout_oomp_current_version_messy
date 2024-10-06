@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bless vibrant
+  * bip 39 word 3: bless vibrant ocean
+  * bip 39 word: bless vibrant ocean tone frown endless trophy old old galaxy credit ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bless |  
+| bip_39_word_new_br10 | bless<br>vibrant<br>ocean<br>tone<br>frown<br>endless<br>trophy<br>old<br>old<br>galaxy |  
+| bip_39_word_new_br11 | bless<br>vibrant<br>ocean<br>tone<br>frown<br>endless<br>trophy<br>old<br>old<br>galaxy<br>credit |  
+| bip_39_word_new_br12 | bless<br>vibrant<br>ocean<br>tone<br>frown<br>endless<br>trophy<br>old<br>old<br>galaxy<br>credit<br>ancient |  
+| bip_39_word_new_br2 | bless<br>vibrant |  
+| bip_39_word_new_br3 | bless<br>vibrant<br>ocean |  
+| bip_39_word_new_br4 | bless<br>vibrant<br>ocean<br>tone |  
+| bip_39_word_new_br5 | bless<br>vibrant<br>ocean<br>tone<br>frown |  
+| bip_39_word_new_br6 | bless<br>vibrant<br>ocean<br>tone<br>frown<br>endless |  
+| bip_39_word_new_br7 | bless<br>vibrant<br>ocean<br>tone<br>frown<br>endless<br>trophy |  
+| bip_39_word_new_br8 | bless<br>vibrant<br>ocean<br>tone<br>frown<br>endless<br>trophy<br>old |  
+| bip_39_word_new_br9 | bless<br>vibrant<br>ocean<br>tone<br>frown<br>endless<br>trophy<br>old<br>old |  
+| bip_39_word_new_line1 | bless |  
+| bip_39_word_new_line10 | bless
+vibrant
+ocean
+tone
+frown
+endless
+trophy
+old
+old
+galaxy |  
+| bip_39_word_new_line11 | bless
+vibrant
+ocean
+tone
+frown
+endless
+trophy
+old
+old
+galaxy
+credit |  
+| bip_39_word_new_line12 | bless
+vibrant
+ocean
+tone
+frown
+endless
+trophy
+old
+old
+galaxy
+credit
+ancient |  
+| bip_39_word_new_line2 | bless
+vibrant |  
+| bip_39_word_new_line3 | bless
+vibrant
+ocean |  
+| bip_39_word_new_line4 | bless
+vibrant
+ocean
+tone |  
+| bip_39_word_new_line5 | bless
+vibrant
+ocean
+tone
+frown |  
+| bip_39_word_new_line6 | bless
+vibrant
+ocean
+tone
+frown
+endless |  
+| bip_39_word_new_line7 | bless
+vibrant
+ocean
+tone
+frown
+endless
+trophy |  
+| bip_39_word_new_line8 | bless
+vibrant
+ocean
+tone
+frown
+endless
+trophy
+old |  
+| bip_39_word_new_line9 | bless
+vibrant
+ocean
+tone
+frown
+endless
+trophy
+old
+old |  
+| bip_39_word_space_0 | ['bless', 'vibrant', 'ocean', 'tone', 'frown', 'endless', 'trophy', 'old', 'old', 'galaxy', 'credit', 'ancient'] |  
+| bip_39_word_space_1 | bless |  
+| bip_39_word_space_10 | bless vibrant ocean tone frown endless trophy old old galaxy |  
+| bip_39_word_space_11 | bless vibrant ocean tone frown endless trophy old old galaxy credit |  
+| bip_39_word_space_12 | bless vibrant ocean tone frown endless trophy old old galaxy credit ancient |  
+| bip_39_word_space_2 | bless vibrant |  
+| bip_39_word_space_3 | bless vibrant ocean |  
+| bip_39_word_space_4 | bless vibrant ocean tone |  
+| bip_39_word_space_5 | bless vibrant ocean tone frown |  
+| bip_39_word_space_6 | bless vibrant ocean tone frown endless |  
+| bip_39_word_space_7 | bless vibrant ocean tone frown endless trophy |  
+| bip_39_word_space_8 | bless vibrant ocean tone frown endless trophy old |  
+| bip_39_word_space_9 | bless vibrant ocean tone frown endless trophy old old |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

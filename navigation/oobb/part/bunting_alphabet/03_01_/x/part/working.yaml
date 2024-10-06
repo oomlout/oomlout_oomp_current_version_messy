@@ -1,3 +1,187 @@
+bip_39_word_new_br1: model
+bip_39_word_new_br10: model<br>rival<br>custom<br>mechanic<br>despair<br>cloud<br>orphan<br>amount<br>melt<br>day
+bip_39_word_new_br11: model<br>rival<br>custom<br>mechanic<br>despair<br>cloud<br>orphan<br>amount<br>melt<br>day<br>endless
+bip_39_word_new_br12: model<br>rival<br>custom<br>mechanic<br>despair<br>cloud<br>orphan<br>amount<br>melt<br>day<br>endless<br>above
+bip_39_word_new_br2: model<br>rival
+bip_39_word_new_br3: model<br>rival<br>custom
+bip_39_word_new_br4: model<br>rival<br>custom<br>mechanic
+bip_39_word_new_br5: model<br>rival<br>custom<br>mechanic<br>despair
+bip_39_word_new_br6: model<br>rival<br>custom<br>mechanic<br>despair<br>cloud
+bip_39_word_new_br7: model<br>rival<br>custom<br>mechanic<br>despair<br>cloud<br>orphan
+bip_39_word_new_br8: model<br>rival<br>custom<br>mechanic<br>despair<br>cloud<br>orphan<br>amount
+bip_39_word_new_br9: model<br>rival<br>custom<br>mechanic<br>despair<br>cloud<br>orphan<br>amount<br>melt
+bip_39_word_new_line1: model
+bip_39_word_new_line10: 'model
+
+  rival
+
+  custom
+
+  mechanic
+
+  despair
+
+  cloud
+
+  orphan
+
+  amount
+
+  melt
+
+  day'
+bip_39_word_new_line11: 'model
+
+  rival
+
+  custom
+
+  mechanic
+
+  despair
+
+  cloud
+
+  orphan
+
+  amount
+
+  melt
+
+  day
+
+  endless'
+bip_39_word_new_line12: 'model
+
+  rival
+
+  custom
+
+  mechanic
+
+  despair
+
+  cloud
+
+  orphan
+
+  amount
+
+  melt
+
+  day
+
+  endless
+
+  above'
+bip_39_word_new_line2: 'model
+
+  rival'
+bip_39_word_new_line3: 'model
+
+  rival
+
+  custom'
+bip_39_word_new_line4: 'model
+
+  rival
+
+  custom
+
+  mechanic'
+bip_39_word_new_line5: 'model
+
+  rival
+
+  custom
+
+  mechanic
+
+  despair'
+bip_39_word_new_line6: 'model
+
+  rival
+
+  custom
+
+  mechanic
+
+  despair
+
+  cloud'
+bip_39_word_new_line7: 'model
+
+  rival
+
+  custom
+
+  mechanic
+
+  despair
+
+  cloud
+
+  orphan'
+bip_39_word_new_line8: 'model
+
+  rival
+
+  custom
+
+  mechanic
+
+  despair
+
+  cloud
+
+  orphan
+
+  amount'
+bip_39_word_new_line9: 'model
+
+  rival
+
+  custom
+
+  mechanic
+
+  despair
+
+  cloud
+
+  orphan
+
+  amount
+
+  melt'
+bip_39_word_space_0:
+- model
+- rival
+- custom
+- mechanic
+- despair
+- cloud
+- orphan
+- amount
+- melt
+- day
+- endless
+- above
+bip_39_word_space_1: model
+bip_39_word_space_10: model rival custom mechanic despair cloud orphan amount melt
+  day
+bip_39_word_space_11: model rival custom mechanic despair cloud orphan amount melt
+  day endless
+bip_39_word_space_12: model rival custom mechanic despair cloud orphan amount melt
+  day endless above
+bip_39_word_space_2: model rival
+bip_39_word_space_3: model rival custom
+bip_39_word_space_4: model rival custom mechanic
+bip_39_word_space_5: model rival custom mechanic despair
+bip_39_word_space_6: model rival custom mechanic despair cloud
+bip_39_word_space_7: model rival custom mechanic despair cloud orphan
+bip_39_word_space_8: model rival custom mechanic despair cloud orphan amount
+bip_39_word_space_9: model rival custom mechanic despair cloud orphan amount melt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

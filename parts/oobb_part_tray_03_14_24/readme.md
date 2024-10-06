@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: that two
+  * bip 39 word 3: that two evoke
+  * bip 39 word: that two evoke tornado animal mule bag saddle carbon include toast angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | that |  
+| bip_39_word_new_br10 | that<br>two<br>evoke<br>tornado<br>animal<br>mule<br>bag<br>saddle<br>carbon<br>include |  
+| bip_39_word_new_br11 | that<br>two<br>evoke<br>tornado<br>animal<br>mule<br>bag<br>saddle<br>carbon<br>include<br>toast |  
+| bip_39_word_new_br12 | that<br>two<br>evoke<br>tornado<br>animal<br>mule<br>bag<br>saddle<br>carbon<br>include<br>toast<br>angry |  
+| bip_39_word_new_br2 | that<br>two |  
+| bip_39_word_new_br3 | that<br>two<br>evoke |  
+| bip_39_word_new_br4 | that<br>two<br>evoke<br>tornado |  
+| bip_39_word_new_br5 | that<br>two<br>evoke<br>tornado<br>animal |  
+| bip_39_word_new_br6 | that<br>two<br>evoke<br>tornado<br>animal<br>mule |  
+| bip_39_word_new_br7 | that<br>two<br>evoke<br>tornado<br>animal<br>mule<br>bag |  
+| bip_39_word_new_br8 | that<br>two<br>evoke<br>tornado<br>animal<br>mule<br>bag<br>saddle |  
+| bip_39_word_new_br9 | that<br>two<br>evoke<br>tornado<br>animal<br>mule<br>bag<br>saddle<br>carbon |  
+| bip_39_word_new_line1 | that |  
+| bip_39_word_new_line10 | that
+two
+evoke
+tornado
+animal
+mule
+bag
+saddle
+carbon
+include |  
+| bip_39_word_new_line11 | that
+two
+evoke
+tornado
+animal
+mule
+bag
+saddle
+carbon
+include
+toast |  
+| bip_39_word_new_line12 | that
+two
+evoke
+tornado
+animal
+mule
+bag
+saddle
+carbon
+include
+toast
+angry |  
+| bip_39_word_new_line2 | that
+two |  
+| bip_39_word_new_line3 | that
+two
+evoke |  
+| bip_39_word_new_line4 | that
+two
+evoke
+tornado |  
+| bip_39_word_new_line5 | that
+two
+evoke
+tornado
+animal |  
+| bip_39_word_new_line6 | that
+two
+evoke
+tornado
+animal
+mule |  
+| bip_39_word_new_line7 | that
+two
+evoke
+tornado
+animal
+mule
+bag |  
+| bip_39_word_new_line8 | that
+two
+evoke
+tornado
+animal
+mule
+bag
+saddle |  
+| bip_39_word_new_line9 | that
+two
+evoke
+tornado
+animal
+mule
+bag
+saddle
+carbon |  
+| bip_39_word_space_0 | ['that', 'two', 'evoke', 'tornado', 'animal', 'mule', 'bag', 'saddle', 'carbon', 'include', 'toast', 'angry'] |  
+| bip_39_word_space_1 | that |  
+| bip_39_word_space_10 | that two evoke tornado animal mule bag saddle carbon include |  
+| bip_39_word_space_11 | that two evoke tornado animal mule bag saddle carbon include toast |  
+| bip_39_word_space_12 | that two evoke tornado animal mule bag saddle carbon include toast angry |  
+| bip_39_word_space_2 | that two |  
+| bip_39_word_space_3 | that two evoke |  
+| bip_39_word_space_4 | that two evoke tornado |  
+| bip_39_word_space_5 | that two evoke tornado animal |  
+| bip_39_word_space_6 | that two evoke tornado animal mule |  
+| bip_39_word_space_7 | that two evoke tornado animal mule bag |  
+| bip_39_word_space_8 | that two evoke tornado animal mule bag saddle |  
+| bip_39_word_space_9 | that two evoke tornado animal mule bag saddle carbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

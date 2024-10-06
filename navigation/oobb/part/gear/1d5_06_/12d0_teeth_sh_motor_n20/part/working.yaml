@@ -1,3 +1,187 @@
+bip_39_word_new_br1: height
+bip_39_word_new_br10: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral<br>crucial
+bip_39_word_new_br11: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral<br>crucial<br>hungry
+bip_39_word_new_br12: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral<br>crucial<br>hungry<br>april
+bip_39_word_new_br2: height<br>disorder
+bip_39_word_new_br3: height<br>disorder<br>multiply
+bip_39_word_new_br4: height<br>disorder<br>multiply<br>stairs
+bip_39_word_new_br5: height<br>disorder<br>multiply<br>stairs<br>raven
+bip_39_word_new_br6: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog
+bip_39_word_new_br7: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode
+bip_39_word_new_br8: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous
+bip_39_word_new_br9: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral
+bip_39_word_new_line1: height
+bip_39_word_new_line10: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous
+
+  coral
+
+  crucial'
+bip_39_word_new_line11: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous
+
+  coral
+
+  crucial
+
+  hungry'
+bip_39_word_new_line12: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous
+
+  coral
+
+  crucial
+
+  hungry
+
+  april'
+bip_39_word_new_line2: 'height
+
+  disorder'
+bip_39_word_new_line3: 'height
+
+  disorder
+
+  multiply'
+bip_39_word_new_line4: 'height
+
+  disorder
+
+  multiply
+
+  stairs'
+bip_39_word_new_line5: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven'
+bip_39_word_new_line6: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog'
+bip_39_word_new_line7: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode'
+bip_39_word_new_line8: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous'
+bip_39_word_new_line9: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous
+
+  coral'
+bip_39_word_space_0:
+- height
+- disorder
+- multiply
+- stairs
+- raven
+- clog
+- episode
+- famous
+- coral
+- crucial
+- hungry
+- april
+bip_39_word_space_1: height
+bip_39_word_space_10: height disorder multiply stairs raven clog episode famous coral
+  crucial
+bip_39_word_space_11: height disorder multiply stairs raven clog episode famous coral
+  crucial hungry
+bip_39_word_space_12: height disorder multiply stairs raven clog episode famous coral
+  crucial hungry april
+bip_39_word_space_2: height disorder
+bip_39_word_space_3: height disorder multiply
+bip_39_word_space_4: height disorder multiply stairs
+bip_39_word_space_5: height disorder multiply stairs raven
+bip_39_word_space_6: height disorder multiply stairs raven clog
+bip_39_word_space_7: height disorder multiply stairs raven clog episode
+bip_39_word_space_8: height disorder multiply stairs raven clog episode famous
+bip_39_word_space_9: height disorder multiply stairs raven clog episode famous coral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

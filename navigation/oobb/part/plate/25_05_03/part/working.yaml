@@ -1,3 +1,186 @@
+bip_39_word_new_br1: offer
+bip_39_word_new_br10: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child<br>crater
+bip_39_word_new_br11: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child<br>crater<br>april
+bip_39_word_new_br12: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child<br>crater<br>april<br>age
+bip_39_word_new_br2: offer<br>shrimp
+bip_39_word_new_br3: offer<br>shrimp<br>gloom
+bip_39_word_new_br4: offer<br>shrimp<br>gloom<br>move
+bip_39_word_new_br5: offer<br>shrimp<br>gloom<br>move<br>together
+bip_39_word_new_br6: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet
+bip_39_word_new_br7: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip
+bip_39_word_new_br8: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village
+bip_39_word_new_br9: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child
+bip_39_word_new_line1: offer
+bip_39_word_new_line10: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village
+
+  child
+
+  crater'
+bip_39_word_new_line11: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village
+
+  child
+
+  crater
+
+  april'
+bip_39_word_new_line12: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village
+
+  child
+
+  crater
+
+  april
+
+  age'
+bip_39_word_new_line2: 'offer
+
+  shrimp'
+bip_39_word_new_line3: 'offer
+
+  shrimp
+
+  gloom'
+bip_39_word_new_line4: 'offer
+
+  shrimp
+
+  gloom
+
+  move'
+bip_39_word_new_line5: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together'
+bip_39_word_new_line6: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet'
+bip_39_word_new_line7: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip'
+bip_39_word_new_line8: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village'
+bip_39_word_new_line9: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village
+
+  child'
+bip_39_word_space_0:
+- offer
+- shrimp
+- gloom
+- move
+- together
+- sweet
+- drip
+- village
+- child
+- crater
+- april
+- age
+bip_39_word_space_1: offer
+bip_39_word_space_10: offer shrimp gloom move together sweet drip village child crater
+bip_39_word_space_11: offer shrimp gloom move together sweet drip village child crater
+  april
+bip_39_word_space_12: offer shrimp gloom move together sweet drip village child crater
+  april age
+bip_39_word_space_2: offer shrimp
+bip_39_word_space_3: offer shrimp gloom
+bip_39_word_space_4: offer shrimp gloom move
+bip_39_word_space_5: offer shrimp gloom move together
+bip_39_word_space_6: offer shrimp gloom move together sweet
+bip_39_word_space_7: offer shrimp gloom move together sweet drip
+bip_39_word_space_8: offer shrimp gloom move together sweet drip village
+bip_39_word_space_9: offer shrimp gloom move together sweet drip village child
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

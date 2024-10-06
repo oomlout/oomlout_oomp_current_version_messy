@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: emerge able
+  * bip 39 word 3: emerge able pony
+  * bip 39 word: emerge able pony reform coffee neck hope isolate volcano help fault armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | emerge |  
+| bip_39_word_new_br10 | emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate<br>volcano<br>help |  
+| bip_39_word_new_br11 | emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate<br>volcano<br>help<br>fault |  
+| bip_39_word_new_br12 | emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate<br>volcano<br>help<br>fault<br>armed |  
+| bip_39_word_new_br2 | emerge<br>able |  
+| bip_39_word_new_br3 | emerge<br>able<br>pony |  
+| bip_39_word_new_br4 | emerge<br>able<br>pony<br>reform |  
+| bip_39_word_new_br5 | emerge<br>able<br>pony<br>reform<br>coffee |  
+| bip_39_word_new_br6 | emerge<br>able<br>pony<br>reform<br>coffee<br>neck |  
+| bip_39_word_new_br7 | emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope |  
+| bip_39_word_new_br8 | emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate |  
+| bip_39_word_new_br9 | emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate<br>volcano |  
+| bip_39_word_new_line1 | emerge |  
+| bip_39_word_new_line10 | emerge
+able
+pony
+reform
+coffee
+neck
+hope
+isolate
+volcano
+help |  
+| bip_39_word_new_line11 | emerge
+able
+pony
+reform
+coffee
+neck
+hope
+isolate
+volcano
+help
+fault |  
+| bip_39_word_new_line12 | emerge
+able
+pony
+reform
+coffee
+neck
+hope
+isolate
+volcano
+help
+fault
+armed |  
+| bip_39_word_new_line2 | emerge
+able |  
+| bip_39_word_new_line3 | emerge
+able
+pony |  
+| bip_39_word_new_line4 | emerge
+able
+pony
+reform |  
+| bip_39_word_new_line5 | emerge
+able
+pony
+reform
+coffee |  
+| bip_39_word_new_line6 | emerge
+able
+pony
+reform
+coffee
+neck |  
+| bip_39_word_new_line7 | emerge
+able
+pony
+reform
+coffee
+neck
+hope |  
+| bip_39_word_new_line8 | emerge
+able
+pony
+reform
+coffee
+neck
+hope
+isolate |  
+| bip_39_word_new_line9 | emerge
+able
+pony
+reform
+coffee
+neck
+hope
+isolate
+volcano |  
+| bip_39_word_space_0 | ['emerge', 'able', 'pony', 'reform', 'coffee', 'neck', 'hope', 'isolate', 'volcano', 'help', 'fault', 'armed'] |  
+| bip_39_word_space_1 | emerge |  
+| bip_39_word_space_10 | emerge able pony reform coffee neck hope isolate volcano help |  
+| bip_39_word_space_11 | emerge able pony reform coffee neck hope isolate volcano help fault |  
+| bip_39_word_space_12 | emerge able pony reform coffee neck hope isolate volcano help fault armed |  
+| bip_39_word_space_2 | emerge able |  
+| bip_39_word_space_3 | emerge able pony |  
+| bip_39_word_space_4 | emerge able pony reform |  
+| bip_39_word_space_5 | emerge able pony reform coffee |  
+| bip_39_word_space_6 | emerge able pony reform coffee neck |  
+| bip_39_word_space_7 | emerge able pony reform coffee neck hope |  
+| bip_39_word_space_8 | emerge able pony reform coffee neck hope isolate |  
+| bip_39_word_space_9 | emerge able pony reform coffee neck hope isolate volcano |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

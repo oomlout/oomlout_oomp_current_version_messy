@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raise swift
+  * bip 39 word 3: raise swift milk
+  * bip 39 word: raise swift milk fetch spatial minor demise grab dune history ball army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raise |  
+| bip_39_word_new_br10 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history |  
+| bip_39_word_new_br11 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball |  
+| bip_39_word_new_br12 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball<br>army |  
+| bip_39_word_new_br2 | raise<br>swift |  
+| bip_39_word_new_br3 | raise<br>swift<br>milk |  
+| bip_39_word_new_br4 | raise<br>swift<br>milk<br>fetch |  
+| bip_39_word_new_br5 | raise<br>swift<br>milk<br>fetch<br>spatial |  
+| bip_39_word_new_br6 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor |  
+| bip_39_word_new_br7 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise |  
+| bip_39_word_new_br8 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab |  
+| bip_39_word_new_br9 | raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune |  
+| bip_39_word_new_line1 | raise |  
+| bip_39_word_new_line10 | raise
+swift
+milk
+fetch
+spatial
+minor
+demise
+grab
+dune
+history |  
+| bip_39_word_new_line11 | raise
+swift
+milk
+fetch
+spatial
+minor
+demise
+grab
+dune
+history
+ball |  
+| bip_39_word_new_line12 | raise
+swift
+milk
+fetch
+spatial
+minor
+demise
+grab
+dune
+history
+ball
+army |  
+| bip_39_word_new_line2 | raise
+swift |  
+| bip_39_word_new_line3 | raise
+swift
+milk |  
+| bip_39_word_new_line4 | raise
+swift
+milk
+fetch |  
+| bip_39_word_new_line5 | raise
+swift
+milk
+fetch
+spatial |  
+| bip_39_word_new_line6 | raise
+swift
+milk
+fetch
+spatial
+minor |  
+| bip_39_word_new_line7 | raise
+swift
+milk
+fetch
+spatial
+minor
+demise |  
+| bip_39_word_new_line8 | raise
+swift
+milk
+fetch
+spatial
+minor
+demise
+grab |  
+| bip_39_word_new_line9 | raise
+swift
+milk
+fetch
+spatial
+minor
+demise
+grab
+dune |  
+| bip_39_word_space_0 | ['raise', 'swift', 'milk', 'fetch', 'spatial', 'minor', 'demise', 'grab', 'dune', 'history', 'ball', 'army'] |  
+| bip_39_word_space_1 | raise |  
+| bip_39_word_space_10 | raise swift milk fetch spatial minor demise grab dune history |  
+| bip_39_word_space_11 | raise swift milk fetch spatial minor demise grab dune history ball |  
+| bip_39_word_space_12 | raise swift milk fetch spatial minor demise grab dune history ball army |  
+| bip_39_word_space_2 | raise swift |  
+| bip_39_word_space_3 | raise swift milk |  
+| bip_39_word_space_4 | raise swift milk fetch |  
+| bip_39_word_space_5 | raise swift milk fetch spatial |  
+| bip_39_word_space_6 | raise swift milk fetch spatial minor |  
+| bip_39_word_space_7 | raise swift milk fetch spatial minor demise |  
+| bip_39_word_space_8 | raise swift milk fetch spatial minor demise grab |  
+| bip_39_word_space_9 | raise swift milk fetch spatial minor demise grab dune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

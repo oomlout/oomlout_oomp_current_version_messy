@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cattle please
+  * bip 39 word 3: cattle please differ
+  * bip 39 word: cattle please differ exotic tube night check top benefit educate item access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cattle |  
+| bip_39_word_new_br10 | cattle<br>please<br>differ<br>exotic<br>tube<br>night<br>check<br>top<br>benefit<br>educate |  
+| bip_39_word_new_br11 | cattle<br>please<br>differ<br>exotic<br>tube<br>night<br>check<br>top<br>benefit<br>educate<br>item |  
+| bip_39_word_new_br12 | cattle<br>please<br>differ<br>exotic<br>tube<br>night<br>check<br>top<br>benefit<br>educate<br>item<br>access |  
+| bip_39_word_new_br2 | cattle<br>please |  
+| bip_39_word_new_br3 | cattle<br>please<br>differ |  
+| bip_39_word_new_br4 | cattle<br>please<br>differ<br>exotic |  
+| bip_39_word_new_br5 | cattle<br>please<br>differ<br>exotic<br>tube |  
+| bip_39_word_new_br6 | cattle<br>please<br>differ<br>exotic<br>tube<br>night |  
+| bip_39_word_new_br7 | cattle<br>please<br>differ<br>exotic<br>tube<br>night<br>check |  
+| bip_39_word_new_br8 | cattle<br>please<br>differ<br>exotic<br>tube<br>night<br>check<br>top |  
+| bip_39_word_new_br9 | cattle<br>please<br>differ<br>exotic<br>tube<br>night<br>check<br>top<br>benefit |  
+| bip_39_word_new_line1 | cattle |  
+| bip_39_word_new_line10 | cattle
+please
+differ
+exotic
+tube
+night
+check
+top
+benefit
+educate |  
+| bip_39_word_new_line11 | cattle
+please
+differ
+exotic
+tube
+night
+check
+top
+benefit
+educate
+item |  
+| bip_39_word_new_line12 | cattle
+please
+differ
+exotic
+tube
+night
+check
+top
+benefit
+educate
+item
+access |  
+| bip_39_word_new_line2 | cattle
+please |  
+| bip_39_word_new_line3 | cattle
+please
+differ |  
+| bip_39_word_new_line4 | cattle
+please
+differ
+exotic |  
+| bip_39_word_new_line5 | cattle
+please
+differ
+exotic
+tube |  
+| bip_39_word_new_line6 | cattle
+please
+differ
+exotic
+tube
+night |  
+| bip_39_word_new_line7 | cattle
+please
+differ
+exotic
+tube
+night
+check |  
+| bip_39_word_new_line8 | cattle
+please
+differ
+exotic
+tube
+night
+check
+top |  
+| bip_39_word_new_line9 | cattle
+please
+differ
+exotic
+tube
+night
+check
+top
+benefit |  
+| bip_39_word_space_0 | ['cattle', 'please', 'differ', 'exotic', 'tube', 'night', 'check', 'top', 'benefit', 'educate', 'item', 'access'] |  
+| bip_39_word_space_1 | cattle |  
+| bip_39_word_space_10 | cattle please differ exotic tube night check top benefit educate |  
+| bip_39_word_space_11 | cattle please differ exotic tube night check top benefit educate item |  
+| bip_39_word_space_12 | cattle please differ exotic tube night check top benefit educate item access |  
+| bip_39_word_space_2 | cattle please |  
+| bip_39_word_space_3 | cattle please differ |  
+| bip_39_word_space_4 | cattle please differ exotic |  
+| bip_39_word_space_5 | cattle please differ exotic tube |  
+| bip_39_word_space_6 | cattle please differ exotic tube night |  
+| bip_39_word_space_7 | cattle please differ exotic tube night check |  
+| bip_39_word_space_8 | cattle please differ exotic tube night check top |  
+| bip_39_word_space_9 | cattle please differ exotic tube night check top benefit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

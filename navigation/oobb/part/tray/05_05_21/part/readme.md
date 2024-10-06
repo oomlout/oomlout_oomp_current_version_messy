@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: canyon crash
+  * bip 39 word 3: canyon crash super
+  * bip 39 word: canyon crash super dad abandon huge pistol monster bone grow stove answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | canyon |  
+| bip_39_word_new_br10 | canyon<br>crash<br>super<br>dad<br>abandon<br>huge<br>pistol<br>monster<br>bone<br>grow |  
+| bip_39_word_new_br11 | canyon<br>crash<br>super<br>dad<br>abandon<br>huge<br>pistol<br>monster<br>bone<br>grow<br>stove |  
+| bip_39_word_new_br12 | canyon<br>crash<br>super<br>dad<br>abandon<br>huge<br>pistol<br>monster<br>bone<br>grow<br>stove<br>answer |  
+| bip_39_word_new_br2 | canyon<br>crash |  
+| bip_39_word_new_br3 | canyon<br>crash<br>super |  
+| bip_39_word_new_br4 | canyon<br>crash<br>super<br>dad |  
+| bip_39_word_new_br5 | canyon<br>crash<br>super<br>dad<br>abandon |  
+| bip_39_word_new_br6 | canyon<br>crash<br>super<br>dad<br>abandon<br>huge |  
+| bip_39_word_new_br7 | canyon<br>crash<br>super<br>dad<br>abandon<br>huge<br>pistol |  
+| bip_39_word_new_br8 | canyon<br>crash<br>super<br>dad<br>abandon<br>huge<br>pistol<br>monster |  
+| bip_39_word_new_br9 | canyon<br>crash<br>super<br>dad<br>abandon<br>huge<br>pistol<br>monster<br>bone |  
+| bip_39_word_new_line1 | canyon |  
+| bip_39_word_new_line10 | canyon
+crash
+super
+dad
+abandon
+huge
+pistol
+monster
+bone
+grow |  
+| bip_39_word_new_line11 | canyon
+crash
+super
+dad
+abandon
+huge
+pistol
+monster
+bone
+grow
+stove |  
+| bip_39_word_new_line12 | canyon
+crash
+super
+dad
+abandon
+huge
+pistol
+monster
+bone
+grow
+stove
+answer |  
+| bip_39_word_new_line2 | canyon
+crash |  
+| bip_39_word_new_line3 | canyon
+crash
+super |  
+| bip_39_word_new_line4 | canyon
+crash
+super
+dad |  
+| bip_39_word_new_line5 | canyon
+crash
+super
+dad
+abandon |  
+| bip_39_word_new_line6 | canyon
+crash
+super
+dad
+abandon
+huge |  
+| bip_39_word_new_line7 | canyon
+crash
+super
+dad
+abandon
+huge
+pistol |  
+| bip_39_word_new_line8 | canyon
+crash
+super
+dad
+abandon
+huge
+pistol
+monster |  
+| bip_39_word_new_line9 | canyon
+crash
+super
+dad
+abandon
+huge
+pistol
+monster
+bone |  
+| bip_39_word_space_0 | ['canyon', 'crash', 'super', 'dad', 'abandon', 'huge', 'pistol', 'monster', 'bone', 'grow', 'stove', 'answer'] |  
+| bip_39_word_space_1 | canyon |  
+| bip_39_word_space_10 | canyon crash super dad abandon huge pistol monster bone grow |  
+| bip_39_word_space_11 | canyon crash super dad abandon huge pistol monster bone grow stove |  
+| bip_39_word_space_12 | canyon crash super dad abandon huge pistol monster bone grow stove answer |  
+| bip_39_word_space_2 | canyon crash |  
+| bip_39_word_space_3 | canyon crash super |  
+| bip_39_word_space_4 | canyon crash super dad |  
+| bip_39_word_space_5 | canyon crash super dad abandon |  
+| bip_39_word_space_6 | canyon crash super dad abandon huge |  
+| bip_39_word_space_7 | canyon crash super dad abandon huge pistol |  
+| bip_39_word_space_8 | canyon crash super dad abandon huge pistol monster |  
+| bip_39_word_space_9 | canyon crash super dad abandon huge pistol monster bone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

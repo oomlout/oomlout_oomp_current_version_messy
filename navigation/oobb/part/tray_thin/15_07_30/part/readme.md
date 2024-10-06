@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vacant select
+  * bip 39 word 3: vacant select destroy
+  * bip 39 word: vacant select destroy diet myth boil lecture wish forget person direct almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vacant |  
+| bip_39_word_new_br10 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil<br>lecture<br>wish<br>forget<br>person |  
+| bip_39_word_new_br11 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil<br>lecture<br>wish<br>forget<br>person<br>direct |  
+| bip_39_word_new_br12 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil<br>lecture<br>wish<br>forget<br>person<br>direct<br>almost |  
+| bip_39_word_new_br2 | vacant<br>select |  
+| bip_39_word_new_br3 | vacant<br>select<br>destroy |  
+| bip_39_word_new_br4 | vacant<br>select<br>destroy<br>diet |  
+| bip_39_word_new_br5 | vacant<br>select<br>destroy<br>diet<br>myth |  
+| bip_39_word_new_br6 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil |  
+| bip_39_word_new_br7 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil<br>lecture |  
+| bip_39_word_new_br8 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil<br>lecture<br>wish |  
+| bip_39_word_new_br9 | vacant<br>select<br>destroy<br>diet<br>myth<br>boil<br>lecture<br>wish<br>forget |  
+| bip_39_word_new_line1 | vacant |  
+| bip_39_word_new_line10 | vacant
+select
+destroy
+diet
+myth
+boil
+lecture
+wish
+forget
+person |  
+| bip_39_word_new_line11 | vacant
+select
+destroy
+diet
+myth
+boil
+lecture
+wish
+forget
+person
+direct |  
+| bip_39_word_new_line12 | vacant
+select
+destroy
+diet
+myth
+boil
+lecture
+wish
+forget
+person
+direct
+almost |  
+| bip_39_word_new_line2 | vacant
+select |  
+| bip_39_word_new_line3 | vacant
+select
+destroy |  
+| bip_39_word_new_line4 | vacant
+select
+destroy
+diet |  
+| bip_39_word_new_line5 | vacant
+select
+destroy
+diet
+myth |  
+| bip_39_word_new_line6 | vacant
+select
+destroy
+diet
+myth
+boil |  
+| bip_39_word_new_line7 | vacant
+select
+destroy
+diet
+myth
+boil
+lecture |  
+| bip_39_word_new_line8 | vacant
+select
+destroy
+diet
+myth
+boil
+lecture
+wish |  
+| bip_39_word_new_line9 | vacant
+select
+destroy
+diet
+myth
+boil
+lecture
+wish
+forget |  
+| bip_39_word_space_0 | ['vacant', 'select', 'destroy', 'diet', 'myth', 'boil', 'lecture', 'wish', 'forget', 'person', 'direct', 'almost'] |  
+| bip_39_word_space_1 | vacant |  
+| bip_39_word_space_10 | vacant select destroy diet myth boil lecture wish forget person |  
+| bip_39_word_space_11 | vacant select destroy diet myth boil lecture wish forget person direct |  
+| bip_39_word_space_12 | vacant select destroy diet myth boil lecture wish forget person direct almost |  
+| bip_39_word_space_2 | vacant select |  
+| bip_39_word_space_3 | vacant select destroy |  
+| bip_39_word_space_4 | vacant select destroy diet |  
+| bip_39_word_space_5 | vacant select destroy diet myth |  
+| bip_39_word_space_6 | vacant select destroy diet myth boil |  
+| bip_39_word_space_7 | vacant select destroy diet myth boil lecture |  
+| bip_39_word_space_8 | vacant select destroy diet myth boil lecture wish |  
+| bip_39_word_space_9 | vacant select destroy diet myth boil lecture wish forget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

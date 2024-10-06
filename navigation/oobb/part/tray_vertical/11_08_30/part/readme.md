@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: filter they
+  * bip 39 word 3: filter they paddle
+  * bip 39 word: filter they paddle amazing security hawk return undo aim ceiling trial arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | filter |  
+| bip_39_word_new_br10 | filter<br>they<br>paddle<br>amazing<br>security<br>hawk<br>return<br>undo<br>aim<br>ceiling |  
+| bip_39_word_new_br11 | filter<br>they<br>paddle<br>amazing<br>security<br>hawk<br>return<br>undo<br>aim<br>ceiling<br>trial |  
+| bip_39_word_new_br12 | filter<br>they<br>paddle<br>amazing<br>security<br>hawk<br>return<br>undo<br>aim<br>ceiling<br>trial<br>arrow |  
+| bip_39_word_new_br2 | filter<br>they |  
+| bip_39_word_new_br3 | filter<br>they<br>paddle |  
+| bip_39_word_new_br4 | filter<br>they<br>paddle<br>amazing |  
+| bip_39_word_new_br5 | filter<br>they<br>paddle<br>amazing<br>security |  
+| bip_39_word_new_br6 | filter<br>they<br>paddle<br>amazing<br>security<br>hawk |  
+| bip_39_word_new_br7 | filter<br>they<br>paddle<br>amazing<br>security<br>hawk<br>return |  
+| bip_39_word_new_br8 | filter<br>they<br>paddle<br>amazing<br>security<br>hawk<br>return<br>undo |  
+| bip_39_word_new_br9 | filter<br>they<br>paddle<br>amazing<br>security<br>hawk<br>return<br>undo<br>aim |  
+| bip_39_word_new_line1 | filter |  
+| bip_39_word_new_line10 | filter
+they
+paddle
+amazing
+security
+hawk
+return
+undo
+aim
+ceiling |  
+| bip_39_word_new_line11 | filter
+they
+paddle
+amazing
+security
+hawk
+return
+undo
+aim
+ceiling
+trial |  
+| bip_39_word_new_line12 | filter
+they
+paddle
+amazing
+security
+hawk
+return
+undo
+aim
+ceiling
+trial
+arrow |  
+| bip_39_word_new_line2 | filter
+they |  
+| bip_39_word_new_line3 | filter
+they
+paddle |  
+| bip_39_word_new_line4 | filter
+they
+paddle
+amazing |  
+| bip_39_word_new_line5 | filter
+they
+paddle
+amazing
+security |  
+| bip_39_word_new_line6 | filter
+they
+paddle
+amazing
+security
+hawk |  
+| bip_39_word_new_line7 | filter
+they
+paddle
+amazing
+security
+hawk
+return |  
+| bip_39_word_new_line8 | filter
+they
+paddle
+amazing
+security
+hawk
+return
+undo |  
+| bip_39_word_new_line9 | filter
+they
+paddle
+amazing
+security
+hawk
+return
+undo
+aim |  
+| bip_39_word_space_0 | ['filter', 'they', 'paddle', 'amazing', 'security', 'hawk', 'return', 'undo', 'aim', 'ceiling', 'trial', 'arrow'] |  
+| bip_39_word_space_1 | filter |  
+| bip_39_word_space_10 | filter they paddle amazing security hawk return undo aim ceiling |  
+| bip_39_word_space_11 | filter they paddle amazing security hawk return undo aim ceiling trial |  
+| bip_39_word_space_12 | filter they paddle amazing security hawk return undo aim ceiling trial arrow |  
+| bip_39_word_space_2 | filter they |  
+| bip_39_word_space_3 | filter they paddle |  
+| bip_39_word_space_4 | filter they paddle amazing |  
+| bip_39_word_space_5 | filter they paddle amazing security |  
+| bip_39_word_space_6 | filter they paddle amazing security hawk |  
+| bip_39_word_space_7 | filter they paddle amazing security hawk return |  
+| bip_39_word_space_8 | filter they paddle amazing security hawk return undo |  
+| bip_39_word_space_9 | filter they paddle amazing security hawk return undo aim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

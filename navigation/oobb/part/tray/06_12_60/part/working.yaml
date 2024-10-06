@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pause
+bip_39_word_new_br10: pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact
+bip_39_word_new_br11: pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact<br>ticket
+bip_39_word_new_br12: pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job<br>pact<br>ticket<br>anchor
+bip_39_word_new_br2: pause<br>burger
+bip_39_word_new_br3: pause<br>burger<br>credit
+bip_39_word_new_br4: pause<br>burger<br>credit<br>lawn
+bip_39_word_new_br5: pause<br>burger<br>credit<br>lawn<br>menu
+bip_39_word_new_br6: pause<br>burger<br>credit<br>lawn<br>menu<br>inside
+bip_39_word_new_br7: pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold
+bip_39_word_new_br8: pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant
+bip_39_word_new_br9: pause<br>burger<br>credit<br>lawn<br>menu<br>inside<br>uphold<br>elephant<br>job
+bip_39_word_new_line1: pause
+bip_39_word_new_line10: 'pause
+
+  burger
+
+  credit
+
+  lawn
+
+  menu
+
+  inside
+
+  uphold
+
+  elephant
+
+  job
+
+  pact'
+bip_39_word_new_line11: 'pause
+
+  burger
+
+  credit
+
+  lawn
+
+  menu
+
+  inside
+
+  uphold
+
+  elephant
+
+  job
+
+  pact
+
+  ticket'
+bip_39_word_new_line12: 'pause
+
+  burger
+
+  credit
+
+  lawn
+
+  menu
+
+  inside
+
+  uphold
+
+  elephant
+
+  job
+
+  pact
+
+  ticket
+
+  anchor'
+bip_39_word_new_line2: 'pause
+
+  burger'
+bip_39_word_new_line3: 'pause
+
+  burger
+
+  credit'
+bip_39_word_new_line4: 'pause
+
+  burger
+
+  credit
+
+  lawn'
+bip_39_word_new_line5: 'pause
+
+  burger
+
+  credit
+
+  lawn
+
+  menu'
+bip_39_word_new_line6: 'pause
+
+  burger
+
+  credit
+
+  lawn
+
+  menu
+
+  inside'
+bip_39_word_new_line7: 'pause
+
+  burger
+
+  credit
+
+  lawn
+
+  menu
+
+  inside
+
+  uphold'
+bip_39_word_new_line8: 'pause
+
+  burger
+
+  credit
+
+  lawn
+
+  menu
+
+  inside
+
+  uphold
+
+  elephant'
+bip_39_word_new_line9: 'pause
+
+  burger
+
+  credit
+
+  lawn
+
+  menu
+
+  inside
+
+  uphold
+
+  elephant
+
+  job'
+bip_39_word_space_0:
+- pause
+- burger
+- credit
+- lawn
+- menu
+- inside
+- uphold
+- elephant
+- job
+- pact
+- ticket
+- anchor
+bip_39_word_space_1: pause
+bip_39_word_space_10: pause burger credit lawn menu inside uphold elephant job pact
+bip_39_word_space_11: pause burger credit lawn menu inside uphold elephant job pact
+  ticket
+bip_39_word_space_12: pause burger credit lawn menu inside uphold elephant job pact
+  ticket anchor
+bip_39_word_space_2: pause burger
+bip_39_word_space_3: pause burger credit
+bip_39_word_space_4: pause burger credit lawn
+bip_39_word_space_5: pause burger credit lawn menu
+bip_39_word_space_6: pause burger credit lawn menu inside
+bip_39_word_space_7: pause burger credit lawn menu inside uphold
+bip_39_word_space_8: pause burger credit lawn menu inside uphold elephant
+bip_39_word_space_9: pause burger credit lawn menu inside uphold elephant job
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

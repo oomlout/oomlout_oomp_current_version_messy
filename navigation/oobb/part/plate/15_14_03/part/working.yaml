@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hen
+bip_39_word_new_br10: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable<br>frame
+bip_39_word_new_br11: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable<br>frame<br>enforce
+bip_39_word_new_br12: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable<br>frame<br>enforce<br>aerobic
+bip_39_word_new_br2: hen<br>dinosaur
+bip_39_word_new_br3: hen<br>dinosaur<br>corn
+bip_39_word_new_br4: hen<br>dinosaur<br>corn<br>enjoy
+bip_39_word_new_br5: hen<br>dinosaur<br>corn<br>enjoy<br>stage
+bip_39_word_new_br6: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine
+bip_39_word_new_br7: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe
+bip_39_word_new_br8: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer
+bip_39_word_new_br9: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable
+bip_39_word_new_line1: hen
+bip_39_word_new_line10: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer
+
+  enable
+
+  frame'
+bip_39_word_new_line11: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer
+
+  enable
+
+  frame
+
+  enforce'
+bip_39_word_new_line12: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer
+
+  enable
+
+  frame
+
+  enforce
+
+  aerobic'
+bip_39_word_new_line2: 'hen
+
+  dinosaur'
+bip_39_word_new_line3: 'hen
+
+  dinosaur
+
+  corn'
+bip_39_word_new_line4: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy'
+bip_39_word_new_line5: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage'
+bip_39_word_new_line6: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine'
+bip_39_word_new_line7: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe'
+bip_39_word_new_line8: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer'
+bip_39_word_new_line9: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer
+
+  enable'
+bip_39_word_space_0:
+- hen
+- dinosaur
+- corn
+- enjoy
+- stage
+- fine
+- canoe
+- soccer
+- enable
+- frame
+- enforce
+- aerobic
+bip_39_word_space_1: hen
+bip_39_word_space_10: hen dinosaur corn enjoy stage fine canoe soccer enable frame
+bip_39_word_space_11: hen dinosaur corn enjoy stage fine canoe soccer enable frame
+  enforce
+bip_39_word_space_12: hen dinosaur corn enjoy stage fine canoe soccer enable frame
+  enforce aerobic
+bip_39_word_space_2: hen dinosaur
+bip_39_word_space_3: hen dinosaur corn
+bip_39_word_space_4: hen dinosaur corn enjoy
+bip_39_word_space_5: hen dinosaur corn enjoy stage
+bip_39_word_space_6: hen dinosaur corn enjoy stage fine
+bip_39_word_space_7: hen dinosaur corn enjoy stage fine canoe
+bip_39_word_space_8: hen dinosaur corn enjoy stage fine canoe soccer
+bip_39_word_space_9: hen dinosaur corn enjoy stage fine canoe soccer enable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

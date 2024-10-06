@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: then betray
+  * bip 39 word 3: then betray dune
+  * bip 39 word: then betray dune hire disorder inflict element pulp fat shield gasp army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | then |  
+| bip_39_word_new_br10 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield |  
+| bip_39_word_new_br11 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield<br>gasp |  
+| bip_39_word_new_br12 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat<br>shield<br>gasp<br>army |  
+| bip_39_word_new_br2 | then<br>betray |  
+| bip_39_word_new_br3 | then<br>betray<br>dune |  
+| bip_39_word_new_br4 | then<br>betray<br>dune<br>hire |  
+| bip_39_word_new_br5 | then<br>betray<br>dune<br>hire<br>disorder |  
+| bip_39_word_new_br6 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict |  
+| bip_39_word_new_br7 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element |  
+| bip_39_word_new_br8 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp |  
+| bip_39_word_new_br9 | then<br>betray<br>dune<br>hire<br>disorder<br>inflict<br>element<br>pulp<br>fat |  
+| bip_39_word_new_line1 | then |  
+| bip_39_word_new_line10 | then
+betray
+dune
+hire
+disorder
+inflict
+element
+pulp
+fat
+shield |  
+| bip_39_word_new_line11 | then
+betray
+dune
+hire
+disorder
+inflict
+element
+pulp
+fat
+shield
+gasp |  
+| bip_39_word_new_line12 | then
+betray
+dune
+hire
+disorder
+inflict
+element
+pulp
+fat
+shield
+gasp
+army |  
+| bip_39_word_new_line2 | then
+betray |  
+| bip_39_word_new_line3 | then
+betray
+dune |  
+| bip_39_word_new_line4 | then
+betray
+dune
+hire |  
+| bip_39_word_new_line5 | then
+betray
+dune
+hire
+disorder |  
+| bip_39_word_new_line6 | then
+betray
+dune
+hire
+disorder
+inflict |  
+| bip_39_word_new_line7 | then
+betray
+dune
+hire
+disorder
+inflict
+element |  
+| bip_39_word_new_line8 | then
+betray
+dune
+hire
+disorder
+inflict
+element
+pulp |  
+| bip_39_word_new_line9 | then
+betray
+dune
+hire
+disorder
+inflict
+element
+pulp
+fat |  
+| bip_39_word_space_0 | ['then', 'betray', 'dune', 'hire', 'disorder', 'inflict', 'element', 'pulp', 'fat', 'shield', 'gasp', 'army'] |  
+| bip_39_word_space_1 | then |  
+| bip_39_word_space_10 | then betray dune hire disorder inflict element pulp fat shield |  
+| bip_39_word_space_11 | then betray dune hire disorder inflict element pulp fat shield gasp |  
+| bip_39_word_space_12 | then betray dune hire disorder inflict element pulp fat shield gasp army |  
+| bip_39_word_space_2 | then betray |  
+| bip_39_word_space_3 | then betray dune |  
+| bip_39_word_space_4 | then betray dune hire |  
+| bip_39_word_space_5 | then betray dune hire disorder |  
+| bip_39_word_space_6 | then betray dune hire disorder inflict |  
+| bip_39_word_space_7 | then betray dune hire disorder inflict element |  
+| bip_39_word_space_8 | then betray dune hire disorder inflict element pulp |  
+| bip_39_word_space_9 | then betray dune hire disorder inflict element pulp fat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wild insane
+  * bip 39 word 3: wild insane grocery
+  * bip 39 word: wild insane grocery lesson sword hurt habit glory blade family north amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wild |  
+| bip_39_word_new_br10 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt<br>habit<br>glory<br>blade<br>family |  
+| bip_39_word_new_br11 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt<br>habit<br>glory<br>blade<br>family<br>north |  
+| bip_39_word_new_br12 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt<br>habit<br>glory<br>blade<br>family<br>north<br>amateur |  
+| bip_39_word_new_br2 | wild<br>insane |  
+| bip_39_word_new_br3 | wild<br>insane<br>grocery |  
+| bip_39_word_new_br4 | wild<br>insane<br>grocery<br>lesson |  
+| bip_39_word_new_br5 | wild<br>insane<br>grocery<br>lesson<br>sword |  
+| bip_39_word_new_br6 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt |  
+| bip_39_word_new_br7 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt<br>habit |  
+| bip_39_word_new_br8 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt<br>habit<br>glory |  
+| bip_39_word_new_br9 | wild<br>insane<br>grocery<br>lesson<br>sword<br>hurt<br>habit<br>glory<br>blade |  
+| bip_39_word_new_line1 | wild |  
+| bip_39_word_new_line10 | wild
+insane
+grocery
+lesson
+sword
+hurt
+habit
+glory
+blade
+family |  
+| bip_39_word_new_line11 | wild
+insane
+grocery
+lesson
+sword
+hurt
+habit
+glory
+blade
+family
+north |  
+| bip_39_word_new_line12 | wild
+insane
+grocery
+lesson
+sword
+hurt
+habit
+glory
+blade
+family
+north
+amateur |  
+| bip_39_word_new_line2 | wild
+insane |  
+| bip_39_word_new_line3 | wild
+insane
+grocery |  
+| bip_39_word_new_line4 | wild
+insane
+grocery
+lesson |  
+| bip_39_word_new_line5 | wild
+insane
+grocery
+lesson
+sword |  
+| bip_39_word_new_line6 | wild
+insane
+grocery
+lesson
+sword
+hurt |  
+| bip_39_word_new_line7 | wild
+insane
+grocery
+lesson
+sword
+hurt
+habit |  
+| bip_39_word_new_line8 | wild
+insane
+grocery
+lesson
+sword
+hurt
+habit
+glory |  
+| bip_39_word_new_line9 | wild
+insane
+grocery
+lesson
+sword
+hurt
+habit
+glory
+blade |  
+| bip_39_word_space_0 | ['wild', 'insane', 'grocery', 'lesson', 'sword', 'hurt', 'habit', 'glory', 'blade', 'family', 'north', 'amateur'] |  
+| bip_39_word_space_1 | wild |  
+| bip_39_word_space_10 | wild insane grocery lesson sword hurt habit glory blade family |  
+| bip_39_word_space_11 | wild insane grocery lesson sword hurt habit glory blade family north |  
+| bip_39_word_space_12 | wild insane grocery lesson sword hurt habit glory blade family north amateur |  
+| bip_39_word_space_2 | wild insane |  
+| bip_39_word_space_3 | wild insane grocery |  
+| bip_39_word_space_4 | wild insane grocery lesson |  
+| bip_39_word_space_5 | wild insane grocery lesson sword |  
+| bip_39_word_space_6 | wild insane grocery lesson sword hurt |  
+| bip_39_word_space_7 | wild insane grocery lesson sword hurt habit |  
+| bip_39_word_space_8 | wild insane grocery lesson sword hurt habit glory |  
+| bip_39_word_space_9 | wild insane grocery lesson sword hurt habit glory blade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: loop six
+  * bip 39 word 3: loop six tumble
+  * bip 39 word: loop six tumble electric suspect neglect fiction exclude blossom knock vacuum angry
 
 ### other_codes
 * short_code: fh2b4p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | loop |  
+| bip_39_word_new_br10 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect<br>fiction<br>exclude<br>blossom<br>knock |  
+| bip_39_word_new_br11 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect<br>fiction<br>exclude<br>blossom<br>knock<br>vacuum |  
+| bip_39_word_new_br12 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect<br>fiction<br>exclude<br>blossom<br>knock<br>vacuum<br>angry |  
+| bip_39_word_new_br2 | loop<br>six |  
+| bip_39_word_new_br3 | loop<br>six<br>tumble |  
+| bip_39_word_new_br4 | loop<br>six<br>tumble<br>electric |  
+| bip_39_word_new_br5 | loop<br>six<br>tumble<br>electric<br>suspect |  
+| bip_39_word_new_br6 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect |  
+| bip_39_word_new_br7 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect<br>fiction |  
+| bip_39_word_new_br8 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect<br>fiction<br>exclude |  
+| bip_39_word_new_br9 | loop<br>six<br>tumble<br>electric<br>suspect<br>neglect<br>fiction<br>exclude<br>blossom |  
+| bip_39_word_new_line1 | loop |  
+| bip_39_word_new_line10 | loop
+six
+tumble
+electric
+suspect
+neglect
+fiction
+exclude
+blossom
+knock |  
+| bip_39_word_new_line11 | loop
+six
+tumble
+electric
+suspect
+neglect
+fiction
+exclude
+blossom
+knock
+vacuum |  
+| bip_39_word_new_line12 | loop
+six
+tumble
+electric
+suspect
+neglect
+fiction
+exclude
+blossom
+knock
+vacuum
+angry |  
+| bip_39_word_new_line2 | loop
+six |  
+| bip_39_word_new_line3 | loop
+six
+tumble |  
+| bip_39_word_new_line4 | loop
+six
+tumble
+electric |  
+| bip_39_word_new_line5 | loop
+six
+tumble
+electric
+suspect |  
+| bip_39_word_new_line6 | loop
+six
+tumble
+electric
+suspect
+neglect |  
+| bip_39_word_new_line7 | loop
+six
+tumble
+electric
+suspect
+neglect
+fiction |  
+| bip_39_word_new_line8 | loop
+six
+tumble
+electric
+suspect
+neglect
+fiction
+exclude |  
+| bip_39_word_new_line9 | loop
+six
+tumble
+electric
+suspect
+neglect
+fiction
+exclude
+blossom |  
+| bip_39_word_space_0 | ['loop', 'six', 'tumble', 'electric', 'suspect', 'neglect', 'fiction', 'exclude', 'blossom', 'knock', 'vacuum', 'angry'] |  
+| bip_39_word_space_1 | loop |  
+| bip_39_word_space_10 | loop six tumble electric suspect neglect fiction exclude blossom knock |  
+| bip_39_word_space_11 | loop six tumble electric suspect neglect fiction exclude blossom knock vacuum |  
+| bip_39_word_space_12 | loop six tumble electric suspect neglect fiction exclude blossom knock vacuum angry |  
+| bip_39_word_space_2 | loop six |  
+| bip_39_word_space_3 | loop six tumble |  
+| bip_39_word_space_4 | loop six tumble electric |  
+| bip_39_word_space_5 | loop six tumble electric suspect |  
+| bip_39_word_space_6 | loop six tumble electric suspect neglect |  
+| bip_39_word_space_7 | loop six tumble electric suspect neglect fiction |  
+| bip_39_word_space_8 | loop six tumble electric suspect neglect fiction exclude |  
+| bip_39_word_space_9 | loop six tumble electric suspect neglect fiction exclude blossom |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

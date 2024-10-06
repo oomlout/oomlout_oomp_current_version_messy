@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foster enable
+  * bip 39 word 3: foster enable argue
+  * bip 39 word: foster enable argue bonus kidney sight resemble monkey kingdom barrel police anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foster |  
+| bip_39_word_new_br10 | foster<br>enable<br>argue<br>bonus<br>kidney<br>sight<br>resemble<br>monkey<br>kingdom<br>barrel |  
+| bip_39_word_new_br11 | foster<br>enable<br>argue<br>bonus<br>kidney<br>sight<br>resemble<br>monkey<br>kingdom<br>barrel<br>police |  
+| bip_39_word_new_br12 | foster<br>enable<br>argue<br>bonus<br>kidney<br>sight<br>resemble<br>monkey<br>kingdom<br>barrel<br>police<br>anchor |  
+| bip_39_word_new_br2 | foster<br>enable |  
+| bip_39_word_new_br3 | foster<br>enable<br>argue |  
+| bip_39_word_new_br4 | foster<br>enable<br>argue<br>bonus |  
+| bip_39_word_new_br5 | foster<br>enable<br>argue<br>bonus<br>kidney |  
+| bip_39_word_new_br6 | foster<br>enable<br>argue<br>bonus<br>kidney<br>sight |  
+| bip_39_word_new_br7 | foster<br>enable<br>argue<br>bonus<br>kidney<br>sight<br>resemble |  
+| bip_39_word_new_br8 | foster<br>enable<br>argue<br>bonus<br>kidney<br>sight<br>resemble<br>monkey |  
+| bip_39_word_new_br9 | foster<br>enable<br>argue<br>bonus<br>kidney<br>sight<br>resemble<br>monkey<br>kingdom |  
+| bip_39_word_new_line1 | foster |  
+| bip_39_word_new_line10 | foster
+enable
+argue
+bonus
+kidney
+sight
+resemble
+monkey
+kingdom
+barrel |  
+| bip_39_word_new_line11 | foster
+enable
+argue
+bonus
+kidney
+sight
+resemble
+monkey
+kingdom
+barrel
+police |  
+| bip_39_word_new_line12 | foster
+enable
+argue
+bonus
+kidney
+sight
+resemble
+monkey
+kingdom
+barrel
+police
+anchor |  
+| bip_39_word_new_line2 | foster
+enable |  
+| bip_39_word_new_line3 | foster
+enable
+argue |  
+| bip_39_word_new_line4 | foster
+enable
+argue
+bonus |  
+| bip_39_word_new_line5 | foster
+enable
+argue
+bonus
+kidney |  
+| bip_39_word_new_line6 | foster
+enable
+argue
+bonus
+kidney
+sight |  
+| bip_39_word_new_line7 | foster
+enable
+argue
+bonus
+kidney
+sight
+resemble |  
+| bip_39_word_new_line8 | foster
+enable
+argue
+bonus
+kidney
+sight
+resemble
+monkey |  
+| bip_39_word_new_line9 | foster
+enable
+argue
+bonus
+kidney
+sight
+resemble
+monkey
+kingdom |  
+| bip_39_word_space_0 | ['foster', 'enable', 'argue', 'bonus', 'kidney', 'sight', 'resemble', 'monkey', 'kingdom', 'barrel', 'police', 'anchor'] |  
+| bip_39_word_space_1 | foster |  
+| bip_39_word_space_10 | foster enable argue bonus kidney sight resemble monkey kingdom barrel |  
+| bip_39_word_space_11 | foster enable argue bonus kidney sight resemble monkey kingdom barrel police |  
+| bip_39_word_space_12 | foster enable argue bonus kidney sight resemble monkey kingdom barrel police anchor |  
+| bip_39_word_space_2 | foster enable |  
+| bip_39_word_space_3 | foster enable argue |  
+| bip_39_word_space_4 | foster enable argue bonus |  
+| bip_39_word_space_5 | foster enable argue bonus kidney |  
+| bip_39_word_space_6 | foster enable argue bonus kidney sight |  
+| bip_39_word_space_7 | foster enable argue bonus kidney sight resemble |  
+| bip_39_word_space_8 | foster enable argue bonus kidney sight resemble monkey |  
+| bip_39_word_space_9 | foster enable argue bonus kidney sight resemble monkey kingdom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

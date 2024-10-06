@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: j
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: naive ordinary
+  * bip 39 word 3: naive ordinary monkey
+  * bip 39 word: naive ordinary monkey upgrade shoe tornado raise load sheriff jaguar once average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | naive |  
+| bip_39_word_new_br10 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado<br>raise<br>load<br>sheriff<br>jaguar |  
+| bip_39_word_new_br11 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado<br>raise<br>load<br>sheriff<br>jaguar<br>once |  
+| bip_39_word_new_br12 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado<br>raise<br>load<br>sheriff<br>jaguar<br>once<br>average |  
+| bip_39_word_new_br2 | naive<br>ordinary |  
+| bip_39_word_new_br3 | naive<br>ordinary<br>monkey |  
+| bip_39_word_new_br4 | naive<br>ordinary<br>monkey<br>upgrade |  
+| bip_39_word_new_br5 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe |  
+| bip_39_word_new_br6 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado |  
+| bip_39_word_new_br7 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado<br>raise |  
+| bip_39_word_new_br8 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado<br>raise<br>load |  
+| bip_39_word_new_br9 | naive<br>ordinary<br>monkey<br>upgrade<br>shoe<br>tornado<br>raise<br>load<br>sheriff |  
+| bip_39_word_new_line1 | naive |  
+| bip_39_word_new_line10 | naive
+ordinary
+monkey
+upgrade
+shoe
+tornado
+raise
+load
+sheriff
+jaguar |  
+| bip_39_word_new_line11 | naive
+ordinary
+monkey
+upgrade
+shoe
+tornado
+raise
+load
+sheriff
+jaguar
+once |  
+| bip_39_word_new_line12 | naive
+ordinary
+monkey
+upgrade
+shoe
+tornado
+raise
+load
+sheriff
+jaguar
+once
+average |  
+| bip_39_word_new_line2 | naive
+ordinary |  
+| bip_39_word_new_line3 | naive
+ordinary
+monkey |  
+| bip_39_word_new_line4 | naive
+ordinary
+monkey
+upgrade |  
+| bip_39_word_new_line5 | naive
+ordinary
+monkey
+upgrade
+shoe |  
+| bip_39_word_new_line6 | naive
+ordinary
+monkey
+upgrade
+shoe
+tornado |  
+| bip_39_word_new_line7 | naive
+ordinary
+monkey
+upgrade
+shoe
+tornado
+raise |  
+| bip_39_word_new_line8 | naive
+ordinary
+monkey
+upgrade
+shoe
+tornado
+raise
+load |  
+| bip_39_word_new_line9 | naive
+ordinary
+monkey
+upgrade
+shoe
+tornado
+raise
+load
+sheriff |  
+| bip_39_word_space_0 | ['naive', 'ordinary', 'monkey', 'upgrade', 'shoe', 'tornado', 'raise', 'load', 'sheriff', 'jaguar', 'once', 'average'] |  
+| bip_39_word_space_1 | naive |  
+| bip_39_word_space_10 | naive ordinary monkey upgrade shoe tornado raise load sheriff jaguar |  
+| bip_39_word_space_11 | naive ordinary monkey upgrade shoe tornado raise load sheriff jaguar once |  
+| bip_39_word_space_12 | naive ordinary monkey upgrade shoe tornado raise load sheriff jaguar once average |  
+| bip_39_word_space_2 | naive ordinary |  
+| bip_39_word_space_3 | naive ordinary monkey |  
+| bip_39_word_space_4 | naive ordinary monkey upgrade |  
+| bip_39_word_space_5 | naive ordinary monkey upgrade shoe |  
+| bip_39_word_space_6 | naive ordinary monkey upgrade shoe tornado |  
+| bip_39_word_space_7 | naive ordinary monkey upgrade shoe tornado raise |  
+| bip_39_word_space_8 | naive ordinary monkey upgrade shoe tornado raise load |  
+| bip_39_word_space_9 | naive ordinary monkey upgrade shoe tornado raise load sheriff |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

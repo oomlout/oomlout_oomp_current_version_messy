@@ -1,3 +1,186 @@
+bip_39_word_new_br1: head
+bip_39_word_new_br10: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper<br>turtle
+bip_39_word_new_br11: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper<br>turtle<br>kiss
+bip_39_word_new_br12: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper<br>turtle<br>kiss<br>aspect
+bip_39_word_new_br2: head<br>rich
+bip_39_word_new_br3: head<br>rich<br>luxury
+bip_39_word_new_br4: head<br>rich<br>luxury<br>vicious
+bip_39_word_new_br5: head<br>rich<br>luxury<br>vicious<br>panel
+bip_39_word_new_br6: head<br>rich<br>luxury<br>vicious<br>panel<br>route
+bip_39_word_new_br7: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens
+bip_39_word_new_br8: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire
+bip_39_word_new_br9: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper
+bip_39_word_new_line1: head
+bip_39_word_new_line10: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire
+
+  upper
+
+  turtle'
+bip_39_word_new_line11: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire
+
+  upper
+
+  turtle
+
+  kiss'
+bip_39_word_new_line12: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire
+
+  upper
+
+  turtle
+
+  kiss
+
+  aspect'
+bip_39_word_new_line2: 'head
+
+  rich'
+bip_39_word_new_line3: 'head
+
+  rich
+
+  luxury'
+bip_39_word_new_line4: 'head
+
+  rich
+
+  luxury
+
+  vicious'
+bip_39_word_new_line5: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel'
+bip_39_word_new_line6: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route'
+bip_39_word_new_line7: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens'
+bip_39_word_new_line8: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire'
+bip_39_word_new_line9: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire
+
+  upper'
+bip_39_word_space_0:
+- head
+- rich
+- luxury
+- vicious
+- panel
+- route
+- lens
+- retire
+- upper
+- turtle
+- kiss
+- aspect
+bip_39_word_space_1: head
+bip_39_word_space_10: head rich luxury vicious panel route lens retire upper turtle
+bip_39_word_space_11: head rich luxury vicious panel route lens retire upper turtle
+  kiss
+bip_39_word_space_12: head rich luxury vicious panel route lens retire upper turtle
+  kiss aspect
+bip_39_word_space_2: head rich
+bip_39_word_space_3: head rich luxury
+bip_39_word_space_4: head rich luxury vicious
+bip_39_word_space_5: head rich luxury vicious panel
+bip_39_word_space_6: head rich luxury vicious panel route
+bip_39_word_space_7: head rich luxury vicious panel route lens
+bip_39_word_space_8: head rich luxury vicious panel route lens retire
+bip_39_word_space_9: head rich luxury vicious panel route lens retire upper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

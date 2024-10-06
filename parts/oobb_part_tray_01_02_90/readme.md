@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tell liquid
+  * bip 39 word 3: tell liquid page
+  * bip 39 word: tell liquid page muffin benefit catalog enter abstract useful razor company adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tell |  
+| bip_39_word_new_br10 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog<br>enter<br>abstract<br>useful<br>razor |  
+| bip_39_word_new_br11 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog<br>enter<br>abstract<br>useful<br>razor<br>company |  
+| bip_39_word_new_br12 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog<br>enter<br>abstract<br>useful<br>razor<br>company<br>adapt |  
+| bip_39_word_new_br2 | tell<br>liquid |  
+| bip_39_word_new_br3 | tell<br>liquid<br>page |  
+| bip_39_word_new_br4 | tell<br>liquid<br>page<br>muffin |  
+| bip_39_word_new_br5 | tell<br>liquid<br>page<br>muffin<br>benefit |  
+| bip_39_word_new_br6 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog |  
+| bip_39_word_new_br7 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog<br>enter |  
+| bip_39_word_new_br8 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog<br>enter<br>abstract |  
+| bip_39_word_new_br9 | tell<br>liquid<br>page<br>muffin<br>benefit<br>catalog<br>enter<br>abstract<br>useful |  
+| bip_39_word_new_line1 | tell |  
+| bip_39_word_new_line10 | tell
+liquid
+page
+muffin
+benefit
+catalog
+enter
+abstract
+useful
+razor |  
+| bip_39_word_new_line11 | tell
+liquid
+page
+muffin
+benefit
+catalog
+enter
+abstract
+useful
+razor
+company |  
+| bip_39_word_new_line12 | tell
+liquid
+page
+muffin
+benefit
+catalog
+enter
+abstract
+useful
+razor
+company
+adapt |  
+| bip_39_word_new_line2 | tell
+liquid |  
+| bip_39_word_new_line3 | tell
+liquid
+page |  
+| bip_39_word_new_line4 | tell
+liquid
+page
+muffin |  
+| bip_39_word_new_line5 | tell
+liquid
+page
+muffin
+benefit |  
+| bip_39_word_new_line6 | tell
+liquid
+page
+muffin
+benefit
+catalog |  
+| bip_39_word_new_line7 | tell
+liquid
+page
+muffin
+benefit
+catalog
+enter |  
+| bip_39_word_new_line8 | tell
+liquid
+page
+muffin
+benefit
+catalog
+enter
+abstract |  
+| bip_39_word_new_line9 | tell
+liquid
+page
+muffin
+benefit
+catalog
+enter
+abstract
+useful |  
+| bip_39_word_space_0 | ['tell', 'liquid', 'page', 'muffin', 'benefit', 'catalog', 'enter', 'abstract', 'useful', 'razor', 'company', 'adapt'] |  
+| bip_39_word_space_1 | tell |  
+| bip_39_word_space_10 | tell liquid page muffin benefit catalog enter abstract useful razor |  
+| bip_39_word_space_11 | tell liquid page muffin benefit catalog enter abstract useful razor company |  
+| bip_39_word_space_12 | tell liquid page muffin benefit catalog enter abstract useful razor company adapt |  
+| bip_39_word_space_2 | tell liquid |  
+| bip_39_word_space_3 | tell liquid page |  
+| bip_39_word_space_4 | tell liquid page muffin |  
+| bip_39_word_space_5 | tell liquid page muffin benefit |  
+| bip_39_word_space_6 | tell liquid page muffin benefit catalog |  
+| bip_39_word_space_7 | tell liquid page muffin benefit catalog enter |  
+| bip_39_word_space_8 | tell liquid page muffin benefit catalog enter abstract |  
+| bip_39_word_space_9 | tell liquid page muffin benefit catalog enter abstract useful |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

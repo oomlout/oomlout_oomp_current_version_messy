@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cram net
+  * bip 39 word 3: cram net dress
+  * bip 39 word: cram net dress april humble bracket special bicycle round engage add around
 
 ### other_codes
 * short_code: st1d7b12p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cram |  
+| bip_39_word_new_br10 | cram<br>net<br>dress<br>april<br>humble<br>bracket<br>special<br>bicycle<br>round<br>engage |  
+| bip_39_word_new_br11 | cram<br>net<br>dress<br>april<br>humble<br>bracket<br>special<br>bicycle<br>round<br>engage<br>add |  
+| bip_39_word_new_br12 | cram<br>net<br>dress<br>april<br>humble<br>bracket<br>special<br>bicycle<br>round<br>engage<br>add<br>around |  
+| bip_39_word_new_br2 | cram<br>net |  
+| bip_39_word_new_br3 | cram<br>net<br>dress |  
+| bip_39_word_new_br4 | cram<br>net<br>dress<br>april |  
+| bip_39_word_new_br5 | cram<br>net<br>dress<br>april<br>humble |  
+| bip_39_word_new_br6 | cram<br>net<br>dress<br>april<br>humble<br>bracket |  
+| bip_39_word_new_br7 | cram<br>net<br>dress<br>april<br>humble<br>bracket<br>special |  
+| bip_39_word_new_br8 | cram<br>net<br>dress<br>april<br>humble<br>bracket<br>special<br>bicycle |  
+| bip_39_word_new_br9 | cram<br>net<br>dress<br>april<br>humble<br>bracket<br>special<br>bicycle<br>round |  
+| bip_39_word_new_line1 | cram |  
+| bip_39_word_new_line10 | cram
+net
+dress
+april
+humble
+bracket
+special
+bicycle
+round
+engage |  
+| bip_39_word_new_line11 | cram
+net
+dress
+april
+humble
+bracket
+special
+bicycle
+round
+engage
+add |  
+| bip_39_word_new_line12 | cram
+net
+dress
+april
+humble
+bracket
+special
+bicycle
+round
+engage
+add
+around |  
+| bip_39_word_new_line2 | cram
+net |  
+| bip_39_word_new_line3 | cram
+net
+dress |  
+| bip_39_word_new_line4 | cram
+net
+dress
+april |  
+| bip_39_word_new_line5 | cram
+net
+dress
+april
+humble |  
+| bip_39_word_new_line6 | cram
+net
+dress
+april
+humble
+bracket |  
+| bip_39_word_new_line7 | cram
+net
+dress
+april
+humble
+bracket
+special |  
+| bip_39_word_new_line8 | cram
+net
+dress
+april
+humble
+bracket
+special
+bicycle |  
+| bip_39_word_new_line9 | cram
+net
+dress
+april
+humble
+bracket
+special
+bicycle
+round |  
+| bip_39_word_space_0 | ['cram', 'net', 'dress', 'april', 'humble', 'bracket', 'special', 'bicycle', 'round', 'engage', 'add', 'around'] |  
+| bip_39_word_space_1 | cram |  
+| bip_39_word_space_10 | cram net dress april humble bracket special bicycle round engage |  
+| bip_39_word_space_11 | cram net dress april humble bracket special bicycle round engage add |  
+| bip_39_word_space_12 | cram net dress april humble bracket special bicycle round engage add around |  
+| bip_39_word_space_2 | cram net |  
+| bip_39_word_space_3 | cram net dress |  
+| bip_39_word_space_4 | cram net dress april |  
+| bip_39_word_space_5 | cram net dress april humble |  
+| bip_39_word_space_6 | cram net dress april humble bracket |  
+| bip_39_word_space_7 | cram net dress april humble bracket special |  
+| bip_39_word_space_8 | cram net dress april humble bracket special bicycle |  
+| bip_39_word_space_9 | cram net dress april humble bracket special bicycle round |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

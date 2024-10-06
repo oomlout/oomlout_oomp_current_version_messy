@@ -1,3 +1,187 @@
+bip_39_word_new_br1: margin
+bip_39_word_new_br10: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion<br>piece<br>illness<br>list<br>chief
+bip_39_word_new_br11: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion<br>piece<br>illness<br>list<br>chief<br>tank
+bip_39_word_new_br12: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion<br>piece<br>illness<br>list<br>chief<br>tank<br>arctic
+bip_39_word_new_br2: margin<br>brother
+bip_39_word_new_br3: margin<br>brother<br>cup
+bip_39_word_new_br4: margin<br>brother<br>cup<br>prison
+bip_39_word_new_br5: margin<br>brother<br>cup<br>prison<br>shadow
+bip_39_word_new_br6: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion
+bip_39_word_new_br7: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion<br>piece
+bip_39_word_new_br8: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion<br>piece<br>illness
+bip_39_word_new_br9: margin<br>brother<br>cup<br>prison<br>shadow<br>reunion<br>piece<br>illness<br>list
+bip_39_word_new_line1: margin
+bip_39_word_new_line10: 'margin
+
+  brother
+
+  cup
+
+  prison
+
+  shadow
+
+  reunion
+
+  piece
+
+  illness
+
+  list
+
+  chief'
+bip_39_word_new_line11: 'margin
+
+  brother
+
+  cup
+
+  prison
+
+  shadow
+
+  reunion
+
+  piece
+
+  illness
+
+  list
+
+  chief
+
+  tank'
+bip_39_word_new_line12: 'margin
+
+  brother
+
+  cup
+
+  prison
+
+  shadow
+
+  reunion
+
+  piece
+
+  illness
+
+  list
+
+  chief
+
+  tank
+
+  arctic'
+bip_39_word_new_line2: 'margin
+
+  brother'
+bip_39_word_new_line3: 'margin
+
+  brother
+
+  cup'
+bip_39_word_new_line4: 'margin
+
+  brother
+
+  cup
+
+  prison'
+bip_39_word_new_line5: 'margin
+
+  brother
+
+  cup
+
+  prison
+
+  shadow'
+bip_39_word_new_line6: 'margin
+
+  brother
+
+  cup
+
+  prison
+
+  shadow
+
+  reunion'
+bip_39_word_new_line7: 'margin
+
+  brother
+
+  cup
+
+  prison
+
+  shadow
+
+  reunion
+
+  piece'
+bip_39_word_new_line8: 'margin
+
+  brother
+
+  cup
+
+  prison
+
+  shadow
+
+  reunion
+
+  piece
+
+  illness'
+bip_39_word_new_line9: 'margin
+
+  brother
+
+  cup
+
+  prison
+
+  shadow
+
+  reunion
+
+  piece
+
+  illness
+
+  list'
+bip_39_word_space_0:
+- margin
+- brother
+- cup
+- prison
+- shadow
+- reunion
+- piece
+- illness
+- list
+- chief
+- tank
+- arctic
+bip_39_word_space_1: margin
+bip_39_word_space_10: margin brother cup prison shadow reunion piece illness list
+  chief
+bip_39_word_space_11: margin brother cup prison shadow reunion piece illness list
+  chief tank
+bip_39_word_space_12: margin brother cup prison shadow reunion piece illness list
+  chief tank arctic
+bip_39_word_space_2: margin brother
+bip_39_word_space_3: margin brother cup
+bip_39_word_space_4: margin brother cup prison
+bip_39_word_space_5: margin brother cup prison shadow
+bip_39_word_space_6: margin brother cup prison shadow reunion
+bip_39_word_space_7: margin brother cup prison shadow reunion piece
+bip_39_word_space_8: margin brother cup prison shadow reunion piece illness
+bip_39_word_space_9: margin brother cup prison shadow reunion piece illness list
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

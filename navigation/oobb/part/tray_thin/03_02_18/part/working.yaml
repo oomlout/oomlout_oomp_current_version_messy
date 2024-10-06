@@ -1,3 +1,186 @@
+bip_39_word_new_br1: safe
+bip_39_word_new_br10: safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun<br>street<br>verify<br>lounge<br>stumble
+bip_39_word_new_br11: safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun<br>street<br>verify<br>lounge<br>stumble<br>pond
+bip_39_word_new_br12: safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun<br>street<br>verify<br>lounge<br>stumble<br>pond<br>aerobic
+bip_39_word_new_br2: safe<br>dinner
+bip_39_word_new_br3: safe<br>dinner<br>cool
+bip_39_word_new_br4: safe<br>dinner<br>cool<br>shuffle
+bip_39_word_new_br5: safe<br>dinner<br>cool<br>shuffle<br>viable
+bip_39_word_new_br6: safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun
+bip_39_word_new_br7: safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun<br>street
+bip_39_word_new_br8: safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun<br>street<br>verify
+bip_39_word_new_br9: safe<br>dinner<br>cool<br>shuffle<br>viable<br>sun<br>street<br>verify<br>lounge
+bip_39_word_new_line1: safe
+bip_39_word_new_line10: 'safe
+
+  dinner
+
+  cool
+
+  shuffle
+
+  viable
+
+  sun
+
+  street
+
+  verify
+
+  lounge
+
+  stumble'
+bip_39_word_new_line11: 'safe
+
+  dinner
+
+  cool
+
+  shuffle
+
+  viable
+
+  sun
+
+  street
+
+  verify
+
+  lounge
+
+  stumble
+
+  pond'
+bip_39_word_new_line12: 'safe
+
+  dinner
+
+  cool
+
+  shuffle
+
+  viable
+
+  sun
+
+  street
+
+  verify
+
+  lounge
+
+  stumble
+
+  pond
+
+  aerobic'
+bip_39_word_new_line2: 'safe
+
+  dinner'
+bip_39_word_new_line3: 'safe
+
+  dinner
+
+  cool'
+bip_39_word_new_line4: 'safe
+
+  dinner
+
+  cool
+
+  shuffle'
+bip_39_word_new_line5: 'safe
+
+  dinner
+
+  cool
+
+  shuffle
+
+  viable'
+bip_39_word_new_line6: 'safe
+
+  dinner
+
+  cool
+
+  shuffle
+
+  viable
+
+  sun'
+bip_39_word_new_line7: 'safe
+
+  dinner
+
+  cool
+
+  shuffle
+
+  viable
+
+  sun
+
+  street'
+bip_39_word_new_line8: 'safe
+
+  dinner
+
+  cool
+
+  shuffle
+
+  viable
+
+  sun
+
+  street
+
+  verify'
+bip_39_word_new_line9: 'safe
+
+  dinner
+
+  cool
+
+  shuffle
+
+  viable
+
+  sun
+
+  street
+
+  verify
+
+  lounge'
+bip_39_word_space_0:
+- safe
+- dinner
+- cool
+- shuffle
+- viable
+- sun
+- street
+- verify
+- lounge
+- stumble
+- pond
+- aerobic
+bip_39_word_space_1: safe
+bip_39_word_space_10: safe dinner cool shuffle viable sun street verify lounge stumble
+bip_39_word_space_11: safe dinner cool shuffle viable sun street verify lounge stumble
+  pond
+bip_39_word_space_12: safe dinner cool shuffle viable sun street verify lounge stumble
+  pond aerobic
+bip_39_word_space_2: safe dinner
+bip_39_word_space_3: safe dinner cool
+bip_39_word_space_4: safe dinner cool shuffle
+bip_39_word_space_5: safe dinner cool shuffle viable
+bip_39_word_space_6: safe dinner cool shuffle viable sun
+bip_39_word_space_7: safe dinner cool shuffle viable sun street
+bip_39_word_space_8: safe dinner cool shuffle viable sun street verify
+bip_39_word_space_9: safe dinner cool shuffle viable sun street verify lounge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: unit
+bip_39_word_new_br10: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough<br>junk
+bip_39_word_new_br11: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough<br>junk<br>material
+bip_39_word_new_br12: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough<br>junk<br>material<br>asset
+bip_39_word_new_br2: unit<br>strategy
+bip_39_word_new_br3: unit<br>strategy<br>pulp
+bip_39_word_new_br4: unit<br>strategy<br>pulp<br>height
+bip_39_word_new_br5: unit<br>strategy<br>pulp<br>height<br>lens
+bip_39_word_new_br6: unit<br>strategy<br>pulp<br>height<br>lens<br>spider
+bip_39_word_new_br7: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option
+bip_39_word_new_br8: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock
+bip_39_word_new_br9: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough
+bip_39_word_new_line1: unit
+bip_39_word_new_line10: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock
+
+  enough
+
+  junk'
+bip_39_word_new_line11: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock
+
+  enough
+
+  junk
+
+  material'
+bip_39_word_new_line12: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock
+
+  enough
+
+  junk
+
+  material
+
+  asset'
+bip_39_word_new_line2: 'unit
+
+  strategy'
+bip_39_word_new_line3: 'unit
+
+  strategy
+
+  pulp'
+bip_39_word_new_line4: 'unit
+
+  strategy
+
+  pulp
+
+  height'
+bip_39_word_new_line5: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens'
+bip_39_word_new_line6: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider'
+bip_39_word_new_line7: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option'
+bip_39_word_new_line8: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock'
+bip_39_word_new_line9: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock
+
+  enough'
+bip_39_word_space_0:
+- unit
+- strategy
+- pulp
+- height
+- lens
+- spider
+- option
+- shock
+- enough
+- junk
+- material
+- asset
+bip_39_word_space_1: unit
+bip_39_word_space_10: unit strategy pulp height lens spider option shock enough junk
+bip_39_word_space_11: unit strategy pulp height lens spider option shock enough junk
+  material
+bip_39_word_space_12: unit strategy pulp height lens spider option shock enough junk
+  material asset
+bip_39_word_space_2: unit strategy
+bip_39_word_space_3: unit strategy pulp
+bip_39_word_space_4: unit strategy pulp height
+bip_39_word_space_5: unit strategy pulp height lens
+bip_39_word_space_6: unit strategy pulp height lens spider
+bip_39_word_space_7: unit strategy pulp height lens spider option
+bip_39_word_space_8: unit strategy pulp height lens spider option shock
+bip_39_word_space_9: unit strategy pulp height lens spider option shock enough
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: resource lucky
+  * bip 39 word 3: resource lucky vapor
+  * bip 39 word: resource lucky vapor extend hill toddler dry lobster cactus direct movie afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resource |  
+| bip_39_word_new_br10 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus<br>direct |  
+| bip_39_word_new_br11 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus<br>direct<br>movie |  
+| bip_39_word_new_br12 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus<br>direct<br>movie<br>afraid |  
+| bip_39_word_new_br2 | resource<br>lucky |  
+| bip_39_word_new_br3 | resource<br>lucky<br>vapor |  
+| bip_39_word_new_br4 | resource<br>lucky<br>vapor<br>extend |  
+| bip_39_word_new_br5 | resource<br>lucky<br>vapor<br>extend<br>hill |  
+| bip_39_word_new_br6 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler |  
+| bip_39_word_new_br7 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry |  
+| bip_39_word_new_br8 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster |  
+| bip_39_word_new_br9 | resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus |  
+| bip_39_word_new_line1 | resource |  
+| bip_39_word_new_line10 | resource
+lucky
+vapor
+extend
+hill
+toddler
+dry
+lobster
+cactus
+direct |  
+| bip_39_word_new_line11 | resource
+lucky
+vapor
+extend
+hill
+toddler
+dry
+lobster
+cactus
+direct
+movie |  
+| bip_39_word_new_line12 | resource
+lucky
+vapor
+extend
+hill
+toddler
+dry
+lobster
+cactus
+direct
+movie
+afraid |  
+| bip_39_word_new_line2 | resource
+lucky |  
+| bip_39_word_new_line3 | resource
+lucky
+vapor |  
+| bip_39_word_new_line4 | resource
+lucky
+vapor
+extend |  
+| bip_39_word_new_line5 | resource
+lucky
+vapor
+extend
+hill |  
+| bip_39_word_new_line6 | resource
+lucky
+vapor
+extend
+hill
+toddler |  
+| bip_39_word_new_line7 | resource
+lucky
+vapor
+extend
+hill
+toddler
+dry |  
+| bip_39_word_new_line8 | resource
+lucky
+vapor
+extend
+hill
+toddler
+dry
+lobster |  
+| bip_39_word_new_line9 | resource
+lucky
+vapor
+extend
+hill
+toddler
+dry
+lobster
+cactus |  
+| bip_39_word_space_0 | ['resource', 'lucky', 'vapor', 'extend', 'hill', 'toddler', 'dry', 'lobster', 'cactus', 'direct', 'movie', 'afraid'] |  
+| bip_39_word_space_1 | resource |  
+| bip_39_word_space_10 | resource lucky vapor extend hill toddler dry lobster cactus direct |  
+| bip_39_word_space_11 | resource lucky vapor extend hill toddler dry lobster cactus direct movie |  
+| bip_39_word_space_12 | resource lucky vapor extend hill toddler dry lobster cactus direct movie afraid |  
+| bip_39_word_space_2 | resource lucky |  
+| bip_39_word_space_3 | resource lucky vapor |  
+| bip_39_word_space_4 | resource lucky vapor extend |  
+| bip_39_word_space_5 | resource lucky vapor extend hill |  
+| bip_39_word_space_6 | resource lucky vapor extend hill toddler |  
+| bip_39_word_space_7 | resource lucky vapor extend hill toddler dry |  
+| bip_39_word_space_8 | resource lucky vapor extend hill toddler dry lobster |  
+| bip_39_word_space_9 | resource lucky vapor extend hill toddler dry lobster cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

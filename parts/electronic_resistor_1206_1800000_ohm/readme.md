@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feature pizza
+  * bip 39 word 3: feature pizza rate
+  * bip 39 word: feature pizza rate popular recall ribbon swamp adult learn sort nuclear atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feature |  
+| bip_39_word_new_br10 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon<br>swamp<br>adult<br>learn<br>sort |  
+| bip_39_word_new_br11 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon<br>swamp<br>adult<br>learn<br>sort<br>nuclear |  
+| bip_39_word_new_br12 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon<br>swamp<br>adult<br>learn<br>sort<br>nuclear<br>atom |  
+| bip_39_word_new_br2 | feature<br>pizza |  
+| bip_39_word_new_br3 | feature<br>pizza<br>rate |  
+| bip_39_word_new_br4 | feature<br>pizza<br>rate<br>popular |  
+| bip_39_word_new_br5 | feature<br>pizza<br>rate<br>popular<br>recall |  
+| bip_39_word_new_br6 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon |  
+| bip_39_word_new_br7 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon<br>swamp |  
+| bip_39_word_new_br8 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon<br>swamp<br>adult |  
+| bip_39_word_new_br9 | feature<br>pizza<br>rate<br>popular<br>recall<br>ribbon<br>swamp<br>adult<br>learn |  
+| bip_39_word_new_line1 | feature |  
+| bip_39_word_new_line10 | feature
+pizza
+rate
+popular
+recall
+ribbon
+swamp
+adult
+learn
+sort |  
+| bip_39_word_new_line11 | feature
+pizza
+rate
+popular
+recall
+ribbon
+swamp
+adult
+learn
+sort
+nuclear |  
+| bip_39_word_new_line12 | feature
+pizza
+rate
+popular
+recall
+ribbon
+swamp
+adult
+learn
+sort
+nuclear
+atom |  
+| bip_39_word_new_line2 | feature
+pizza |  
+| bip_39_word_new_line3 | feature
+pizza
+rate |  
+| bip_39_word_new_line4 | feature
+pizza
+rate
+popular |  
+| bip_39_word_new_line5 | feature
+pizza
+rate
+popular
+recall |  
+| bip_39_word_new_line6 | feature
+pizza
+rate
+popular
+recall
+ribbon |  
+| bip_39_word_new_line7 | feature
+pizza
+rate
+popular
+recall
+ribbon
+swamp |  
+| bip_39_word_new_line8 | feature
+pizza
+rate
+popular
+recall
+ribbon
+swamp
+adult |  
+| bip_39_word_new_line9 | feature
+pizza
+rate
+popular
+recall
+ribbon
+swamp
+adult
+learn |  
+| bip_39_word_space_0 | ['feature', 'pizza', 'rate', 'popular', 'recall', 'ribbon', 'swamp', 'adult', 'learn', 'sort', 'nuclear', 'atom'] |  
+| bip_39_word_space_1 | feature |  
+| bip_39_word_space_10 | feature pizza rate popular recall ribbon swamp adult learn sort |  
+| bip_39_word_space_11 | feature pizza rate popular recall ribbon swamp adult learn sort nuclear |  
+| bip_39_word_space_12 | feature pizza rate popular recall ribbon swamp adult learn sort nuclear atom |  
+| bip_39_word_space_2 | feature pizza |  
+| bip_39_word_space_3 | feature pizza rate |  
+| bip_39_word_space_4 | feature pizza rate popular |  
+| bip_39_word_space_5 | feature pizza rate popular recall |  
+| bip_39_word_space_6 | feature pizza rate popular recall ribbon |  
+| bip_39_word_space_7 | feature pizza rate popular recall ribbon swamp |  
+| bip_39_word_space_8 | feature pizza rate popular recall ribbon swamp adult |  
+| bip_39_word_space_9 | feature pizza rate popular recall ribbon swamp adult learn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -20,6 +20,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: majestic
   * part_number: 05390_pv44
+  * bip 39 word 2: merit sponsor
+  * bip 39 word 3: merit sponsor nephew
+  * bip 39 word: merit sponsor nephew vendor bench gas color young monitor turkey salon attitude
 
 ### other_codes
 * short_code: tcc120hl
@@ -31,6 +34,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | merit |  
+| bip_39_word_new_br10 | merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas<br>color<br>young<br>monitor<br>turkey |  
+| bip_39_word_new_br11 | merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas<br>color<br>young<br>monitor<br>turkey<br>salon |  
+| bip_39_word_new_br12 | merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas<br>color<br>young<br>monitor<br>turkey<br>salon<br>attitude |  
+| bip_39_word_new_br2 | merit<br>sponsor |  
+| bip_39_word_new_br3 | merit<br>sponsor<br>nephew |  
+| bip_39_word_new_br4 | merit<br>sponsor<br>nephew<br>vendor |  
+| bip_39_word_new_br5 | merit<br>sponsor<br>nephew<br>vendor<br>bench |  
+| bip_39_word_new_br6 | merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas |  
+| bip_39_word_new_br7 | merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas<br>color |  
+| bip_39_word_new_br8 | merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas<br>color<br>young |  
+| bip_39_word_new_br9 | merit<br>sponsor<br>nephew<br>vendor<br>bench<br>gas<br>color<br>young<br>monitor |  
+| bip_39_word_new_line1 | merit |  
+| bip_39_word_new_line10 | merit
+sponsor
+nephew
+vendor
+bench
+gas
+color
+young
+monitor
+turkey |  
+| bip_39_word_new_line11 | merit
+sponsor
+nephew
+vendor
+bench
+gas
+color
+young
+monitor
+turkey
+salon |  
+| bip_39_word_new_line12 | merit
+sponsor
+nephew
+vendor
+bench
+gas
+color
+young
+monitor
+turkey
+salon
+attitude |  
+| bip_39_word_new_line2 | merit
+sponsor |  
+| bip_39_word_new_line3 | merit
+sponsor
+nephew |  
+| bip_39_word_new_line4 | merit
+sponsor
+nephew
+vendor |  
+| bip_39_word_new_line5 | merit
+sponsor
+nephew
+vendor
+bench |  
+| bip_39_word_new_line6 | merit
+sponsor
+nephew
+vendor
+bench
+gas |  
+| bip_39_word_new_line7 | merit
+sponsor
+nephew
+vendor
+bench
+gas
+color |  
+| bip_39_word_new_line8 | merit
+sponsor
+nephew
+vendor
+bench
+gas
+color
+young |  
+| bip_39_word_new_line9 | merit
+sponsor
+nephew
+vendor
+bench
+gas
+color
+young
+monitor |  
+| bip_39_word_space_0 | ['merit', 'sponsor', 'nephew', 'vendor', 'bench', 'gas', 'color', 'young', 'monitor', 'turkey', 'salon', 'attitude'] |  
+| bip_39_word_space_1 | merit |  
+| bip_39_word_space_10 | merit sponsor nephew vendor bench gas color young monitor turkey |  
+| bip_39_word_space_11 | merit sponsor nephew vendor bench gas color young monitor turkey salon |  
+| bip_39_word_space_12 | merit sponsor nephew vendor bench gas color young monitor turkey salon attitude |  
+| bip_39_word_space_2 | merit sponsor |  
+| bip_39_word_space_3 | merit sponsor nephew |  
+| bip_39_word_space_4 | merit sponsor nephew vendor |  
+| bip_39_word_space_5 | merit sponsor nephew vendor bench |  
+| bip_39_word_space_6 | merit sponsor nephew vendor bench gas |  
+| bip_39_word_space_7 | merit sponsor nephew vendor bench gas color |  
+| bip_39_word_space_8 | merit sponsor nephew vendor bench gas color young |  
+| bip_39_word_space_9 | merit sponsor nephew vendor bench gas color young monitor |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

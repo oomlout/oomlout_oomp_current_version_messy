@@ -1,3 +1,159 @@
+bip_39_word_new_br1: mountain
+bip_39_word_new_br10: mountain<br>avoid<br>slim<br>absent<br>picnic<br>rough<br>try<br>rough<br>jelly<br>business
+bip_39_word_new_br11: mountain<br>avoid<br>slim<br>absent<br>picnic<br>rough<br>try<br>rough<br>jelly<br>business<br>afraid
+bip_39_word_new_br2: mountain<br>avoid
+bip_39_word_new_br3: mountain<br>avoid<br>slim
+bip_39_word_new_br4: mountain<br>avoid<br>slim<br>absent
+bip_39_word_new_br5: mountain<br>avoid<br>slim<br>absent<br>picnic
+bip_39_word_new_br6: mountain<br>avoid<br>slim<br>absent<br>picnic<br>rough
+bip_39_word_new_br7: mountain<br>avoid<br>slim<br>absent<br>picnic<br>rough<br>try
+bip_39_word_new_br8: mountain<br>avoid<br>slim<br>absent<br>picnic<br>rough<br>try<br>rough
+bip_39_word_new_br9: mountain<br>avoid<br>slim<br>absent<br>picnic<br>rough<br>try<br>rough<br>jelly
+bip_39_word_new_line1: mountain
+bip_39_word_new_line10: 'mountain
+
+  avoid
+
+  slim
+
+  absent
+
+  picnic
+
+  rough
+
+  try
+
+  rough
+
+  jelly
+
+  business'
+bip_39_word_new_line11: 'mountain
+
+  avoid
+
+  slim
+
+  absent
+
+  picnic
+
+  rough
+
+  try
+
+  rough
+
+  jelly
+
+  business
+
+  afraid'
+bip_39_word_new_line2: 'mountain
+
+  avoid'
+bip_39_word_new_line3: 'mountain
+
+  avoid
+
+  slim'
+bip_39_word_new_line4: 'mountain
+
+  avoid
+
+  slim
+
+  absent'
+bip_39_word_new_line5: 'mountain
+
+  avoid
+
+  slim
+
+  absent
+
+  picnic'
+bip_39_word_new_line6: 'mountain
+
+  avoid
+
+  slim
+
+  absent
+
+  picnic
+
+  rough'
+bip_39_word_new_line7: 'mountain
+
+  avoid
+
+  slim
+
+  absent
+
+  picnic
+
+  rough
+
+  try'
+bip_39_word_new_line8: 'mountain
+
+  avoid
+
+  slim
+
+  absent
+
+  picnic
+
+  rough
+
+  try
+
+  rough'
+bip_39_word_new_line9: 'mountain
+
+  avoid
+
+  slim
+
+  absent
+
+  picnic
+
+  rough
+
+  try
+
+  rough
+
+  jelly'
+bip_39_word_space_0:
+- mountain
+- avoid
+- slim
+- absent
+- picnic
+- rough
+- try
+- rough
+- jelly
+- business
+- afraid
+bip_39_word_space_1: mountain
+bip_39_word_space_10: mountain avoid slim absent picnic rough try rough jelly business
+bip_39_word_space_11: mountain avoid slim absent picnic rough try rough jelly business
+  afraid
+bip_39_word_space_2: mountain avoid
+bip_39_word_space_3: mountain avoid slim
+bip_39_word_space_4: mountain avoid slim absent
+bip_39_word_space_5: mountain avoid slim absent picnic
+bip_39_word_space_6: mountain avoid slim absent picnic rough
+bip_39_word_space_7: mountain avoid slim absent picnic rough try
+bip_39_word_space_8: mountain avoid slim absent picnic rough try rough
+bip_39_word_space_9: mountain avoid slim absent picnic rough try rough jelly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

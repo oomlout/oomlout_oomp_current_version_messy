@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brass relief
+  * bip 39 word 3: brass relief cannon
+  * bip 39 word: brass relief cannon farm gather wedding basic grocery sick energy tumble artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brass |  
+| bip_39_word_new_br10 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy |  
+| bip_39_word_new_br11 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy<br>tumble |  
+| bip_39_word_new_br12 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick<br>energy<br>tumble<br>artefact |  
+| bip_39_word_new_br2 | brass<br>relief |  
+| bip_39_word_new_br3 | brass<br>relief<br>cannon |  
+| bip_39_word_new_br4 | brass<br>relief<br>cannon<br>farm |  
+| bip_39_word_new_br5 | brass<br>relief<br>cannon<br>farm<br>gather |  
+| bip_39_word_new_br6 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding |  
+| bip_39_word_new_br7 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic |  
+| bip_39_word_new_br8 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery |  
+| bip_39_word_new_br9 | brass<br>relief<br>cannon<br>farm<br>gather<br>wedding<br>basic<br>grocery<br>sick |  
+| bip_39_word_new_line1 | brass |  
+| bip_39_word_new_line10 | brass
+relief
+cannon
+farm
+gather
+wedding
+basic
+grocery
+sick
+energy |  
+| bip_39_word_new_line11 | brass
+relief
+cannon
+farm
+gather
+wedding
+basic
+grocery
+sick
+energy
+tumble |  
+| bip_39_word_new_line12 | brass
+relief
+cannon
+farm
+gather
+wedding
+basic
+grocery
+sick
+energy
+tumble
+artefact |  
+| bip_39_word_new_line2 | brass
+relief |  
+| bip_39_word_new_line3 | brass
+relief
+cannon |  
+| bip_39_word_new_line4 | brass
+relief
+cannon
+farm |  
+| bip_39_word_new_line5 | brass
+relief
+cannon
+farm
+gather |  
+| bip_39_word_new_line6 | brass
+relief
+cannon
+farm
+gather
+wedding |  
+| bip_39_word_new_line7 | brass
+relief
+cannon
+farm
+gather
+wedding
+basic |  
+| bip_39_word_new_line8 | brass
+relief
+cannon
+farm
+gather
+wedding
+basic
+grocery |  
+| bip_39_word_new_line9 | brass
+relief
+cannon
+farm
+gather
+wedding
+basic
+grocery
+sick |  
+| bip_39_word_space_0 | ['brass', 'relief', 'cannon', 'farm', 'gather', 'wedding', 'basic', 'grocery', 'sick', 'energy', 'tumble', 'artefact'] |  
+| bip_39_word_space_1 | brass |  
+| bip_39_word_space_10 | brass relief cannon farm gather wedding basic grocery sick energy |  
+| bip_39_word_space_11 | brass relief cannon farm gather wedding basic grocery sick energy tumble |  
+| bip_39_word_space_12 | brass relief cannon farm gather wedding basic grocery sick energy tumble artefact |  
+| bip_39_word_space_2 | brass relief |  
+| bip_39_word_space_3 | brass relief cannon |  
+| bip_39_word_space_4 | brass relief cannon farm |  
+| bip_39_word_space_5 | brass relief cannon farm gather |  
+| bip_39_word_space_6 | brass relief cannon farm gather wedding |  
+| bip_39_word_space_7 | brass relief cannon farm gather wedding basic |  
+| bip_39_word_space_8 | brass relief cannon farm gather wedding basic grocery |  
+| bip_39_word_space_9 | brass relief cannon farm gather wedding basic grocery sick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

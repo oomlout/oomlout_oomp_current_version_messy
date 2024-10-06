@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scheme vehicle
+  * bip 39 word 3: scheme vehicle drastic
+  * bip 39 word: scheme vehicle drastic scissors assume coast trust cactus tool denial faith air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scheme |  
+| bip_39_word_new_br10 | scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus<br>tool<br>denial |  
+| bip_39_word_new_br11 | scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus<br>tool<br>denial<br>faith |  
+| bip_39_word_new_br12 | scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus<br>tool<br>denial<br>faith<br>air |  
+| bip_39_word_new_br2 | scheme<br>vehicle |  
+| bip_39_word_new_br3 | scheme<br>vehicle<br>drastic |  
+| bip_39_word_new_br4 | scheme<br>vehicle<br>drastic<br>scissors |  
+| bip_39_word_new_br5 | scheme<br>vehicle<br>drastic<br>scissors<br>assume |  
+| bip_39_word_new_br6 | scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast |  
+| bip_39_word_new_br7 | scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust |  
+| bip_39_word_new_br8 | scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus |  
+| bip_39_word_new_br9 | scheme<br>vehicle<br>drastic<br>scissors<br>assume<br>coast<br>trust<br>cactus<br>tool |  
+| bip_39_word_new_line1 | scheme |  
+| bip_39_word_new_line10 | scheme
+vehicle
+drastic
+scissors
+assume
+coast
+trust
+cactus
+tool
+denial |  
+| bip_39_word_new_line11 | scheme
+vehicle
+drastic
+scissors
+assume
+coast
+trust
+cactus
+tool
+denial
+faith |  
+| bip_39_word_new_line12 | scheme
+vehicle
+drastic
+scissors
+assume
+coast
+trust
+cactus
+tool
+denial
+faith
+air |  
+| bip_39_word_new_line2 | scheme
+vehicle |  
+| bip_39_word_new_line3 | scheme
+vehicle
+drastic |  
+| bip_39_word_new_line4 | scheme
+vehicle
+drastic
+scissors |  
+| bip_39_word_new_line5 | scheme
+vehicle
+drastic
+scissors
+assume |  
+| bip_39_word_new_line6 | scheme
+vehicle
+drastic
+scissors
+assume
+coast |  
+| bip_39_word_new_line7 | scheme
+vehicle
+drastic
+scissors
+assume
+coast
+trust |  
+| bip_39_word_new_line8 | scheme
+vehicle
+drastic
+scissors
+assume
+coast
+trust
+cactus |  
+| bip_39_word_new_line9 | scheme
+vehicle
+drastic
+scissors
+assume
+coast
+trust
+cactus
+tool |  
+| bip_39_word_space_0 | ['scheme', 'vehicle', 'drastic', 'scissors', 'assume', 'coast', 'trust', 'cactus', 'tool', 'denial', 'faith', 'air'] |  
+| bip_39_word_space_1 | scheme |  
+| bip_39_word_space_10 | scheme vehicle drastic scissors assume coast trust cactus tool denial |  
+| bip_39_word_space_11 | scheme vehicle drastic scissors assume coast trust cactus tool denial faith |  
+| bip_39_word_space_12 | scheme vehicle drastic scissors assume coast trust cactus tool denial faith air |  
+| bip_39_word_space_2 | scheme vehicle |  
+| bip_39_word_space_3 | scheme vehicle drastic |  
+| bip_39_word_space_4 | scheme vehicle drastic scissors |  
+| bip_39_word_space_5 | scheme vehicle drastic scissors assume |  
+| bip_39_word_space_6 | scheme vehicle drastic scissors assume coast |  
+| bip_39_word_space_7 | scheme vehicle drastic scissors assume coast trust |  
+| bip_39_word_space_8 | scheme vehicle drastic scissors assume coast trust cactus |  
+| bip_39_word_space_9 | scheme vehicle drastic scissors assume coast trust cactus tool |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

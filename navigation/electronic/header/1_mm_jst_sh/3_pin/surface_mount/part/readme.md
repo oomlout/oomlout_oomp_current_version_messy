@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sign turkey
+  * bip 39 word 3: sign turkey clerk
+  * bip 39 word: sign turkey clerk captain hour slide slab want tilt wealth picture agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sign |  
+| bip_39_word_new_br10 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide<br>slab<br>want<br>tilt<br>wealth |  
+| bip_39_word_new_br11 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide<br>slab<br>want<br>tilt<br>wealth<br>picture |  
+| bip_39_word_new_br12 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide<br>slab<br>want<br>tilt<br>wealth<br>picture<br>agent |  
+| bip_39_word_new_br2 | sign<br>turkey |  
+| bip_39_word_new_br3 | sign<br>turkey<br>clerk |  
+| bip_39_word_new_br4 | sign<br>turkey<br>clerk<br>captain |  
+| bip_39_word_new_br5 | sign<br>turkey<br>clerk<br>captain<br>hour |  
+| bip_39_word_new_br6 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide |  
+| bip_39_word_new_br7 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide<br>slab |  
+| bip_39_word_new_br8 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide<br>slab<br>want |  
+| bip_39_word_new_br9 | sign<br>turkey<br>clerk<br>captain<br>hour<br>slide<br>slab<br>want<br>tilt |  
+| bip_39_word_new_line1 | sign |  
+| bip_39_word_new_line10 | sign
+turkey
+clerk
+captain
+hour
+slide
+slab
+want
+tilt
+wealth |  
+| bip_39_word_new_line11 | sign
+turkey
+clerk
+captain
+hour
+slide
+slab
+want
+tilt
+wealth
+picture |  
+| bip_39_word_new_line12 | sign
+turkey
+clerk
+captain
+hour
+slide
+slab
+want
+tilt
+wealth
+picture
+agent |  
+| bip_39_word_new_line2 | sign
+turkey |  
+| bip_39_word_new_line3 | sign
+turkey
+clerk |  
+| bip_39_word_new_line4 | sign
+turkey
+clerk
+captain |  
+| bip_39_word_new_line5 | sign
+turkey
+clerk
+captain
+hour |  
+| bip_39_word_new_line6 | sign
+turkey
+clerk
+captain
+hour
+slide |  
+| bip_39_word_new_line7 | sign
+turkey
+clerk
+captain
+hour
+slide
+slab |  
+| bip_39_word_new_line8 | sign
+turkey
+clerk
+captain
+hour
+slide
+slab
+want |  
+| bip_39_word_new_line9 | sign
+turkey
+clerk
+captain
+hour
+slide
+slab
+want
+tilt |  
+| bip_39_word_space_0 | ['sign', 'turkey', 'clerk', 'captain', 'hour', 'slide', 'slab', 'want', 'tilt', 'wealth', 'picture', 'agent'] |  
+| bip_39_word_space_1 | sign |  
+| bip_39_word_space_10 | sign turkey clerk captain hour slide slab want tilt wealth |  
+| bip_39_word_space_11 | sign turkey clerk captain hour slide slab want tilt wealth picture |  
+| bip_39_word_space_12 | sign turkey clerk captain hour slide slab want tilt wealth picture agent |  
+| bip_39_word_space_2 | sign turkey |  
+| bip_39_word_space_3 | sign turkey clerk |  
+| bip_39_word_space_4 | sign turkey clerk captain |  
+| bip_39_word_space_5 | sign turkey clerk captain hour |  
+| bip_39_word_space_6 | sign turkey clerk captain hour slide |  
+| bip_39_word_space_7 | sign turkey clerk captain hour slide slab |  
+| bip_39_word_space_8 | sign turkey clerk captain hour slide slab want |  
+| bip_39_word_space_9 | sign turkey clerk captain hour slide slab want tilt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

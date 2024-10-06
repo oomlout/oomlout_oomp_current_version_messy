@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: culture opinion
+  * bip 39 word 3: culture opinion recall
+  * bip 39 word: culture opinion recall comic guide board cream soon finger rich palm attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | culture |  
+| bip_39_word_new_br10 | culture<br>opinion<br>recall<br>comic<br>guide<br>board<br>cream<br>soon<br>finger<br>rich |  
+| bip_39_word_new_br11 | culture<br>opinion<br>recall<br>comic<br>guide<br>board<br>cream<br>soon<br>finger<br>rich<br>palm |  
+| bip_39_word_new_br12 | culture<br>opinion<br>recall<br>comic<br>guide<br>board<br>cream<br>soon<br>finger<br>rich<br>palm<br>attract |  
+| bip_39_word_new_br2 | culture<br>opinion |  
+| bip_39_word_new_br3 | culture<br>opinion<br>recall |  
+| bip_39_word_new_br4 | culture<br>opinion<br>recall<br>comic |  
+| bip_39_word_new_br5 | culture<br>opinion<br>recall<br>comic<br>guide |  
+| bip_39_word_new_br6 | culture<br>opinion<br>recall<br>comic<br>guide<br>board |  
+| bip_39_word_new_br7 | culture<br>opinion<br>recall<br>comic<br>guide<br>board<br>cream |  
+| bip_39_word_new_br8 | culture<br>opinion<br>recall<br>comic<br>guide<br>board<br>cream<br>soon |  
+| bip_39_word_new_br9 | culture<br>opinion<br>recall<br>comic<br>guide<br>board<br>cream<br>soon<br>finger |  
+| bip_39_word_new_line1 | culture |  
+| bip_39_word_new_line10 | culture
+opinion
+recall
+comic
+guide
+board
+cream
+soon
+finger
+rich |  
+| bip_39_word_new_line11 | culture
+opinion
+recall
+comic
+guide
+board
+cream
+soon
+finger
+rich
+palm |  
+| bip_39_word_new_line12 | culture
+opinion
+recall
+comic
+guide
+board
+cream
+soon
+finger
+rich
+palm
+attract |  
+| bip_39_word_new_line2 | culture
+opinion |  
+| bip_39_word_new_line3 | culture
+opinion
+recall |  
+| bip_39_word_new_line4 | culture
+opinion
+recall
+comic |  
+| bip_39_word_new_line5 | culture
+opinion
+recall
+comic
+guide |  
+| bip_39_word_new_line6 | culture
+opinion
+recall
+comic
+guide
+board |  
+| bip_39_word_new_line7 | culture
+opinion
+recall
+comic
+guide
+board
+cream |  
+| bip_39_word_new_line8 | culture
+opinion
+recall
+comic
+guide
+board
+cream
+soon |  
+| bip_39_word_new_line9 | culture
+opinion
+recall
+comic
+guide
+board
+cream
+soon
+finger |  
+| bip_39_word_space_0 | ['culture', 'opinion', 'recall', 'comic', 'guide', 'board', 'cream', 'soon', 'finger', 'rich', 'palm', 'attract'] |  
+| bip_39_word_space_1 | culture |  
+| bip_39_word_space_10 | culture opinion recall comic guide board cream soon finger rich |  
+| bip_39_word_space_11 | culture opinion recall comic guide board cream soon finger rich palm |  
+| bip_39_word_space_12 | culture opinion recall comic guide board cream soon finger rich palm attract |  
+| bip_39_word_space_2 | culture opinion |  
+| bip_39_word_space_3 | culture opinion recall |  
+| bip_39_word_space_4 | culture opinion recall comic |  
+| bip_39_word_space_5 | culture opinion recall comic guide |  
+| bip_39_word_space_6 | culture opinion recall comic guide board |  
+| bip_39_word_space_7 | culture opinion recall comic guide board cream |  
+| bip_39_word_space_8 | culture opinion recall comic guide board cream soon |  
+| bip_39_word_space_9 | culture opinion recall comic guide board cream soon finger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

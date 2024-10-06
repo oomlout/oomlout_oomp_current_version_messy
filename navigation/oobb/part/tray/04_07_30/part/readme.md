@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crime comfort
+  * bip 39 word 3: crime comfort doctor
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crime |  
+| bip_39_word_new_br10 | crime<br>comfort<br>doctor<br>machine<br>riot<br>range<br>odor<br>waste<br>soul<br>surround |  
+| bip_39_word_new_br11 | crime<br>comfort<br>doctor<br>machine<br>riot<br>range<br>odor<br>waste<br>soul<br>surround<br>waste |  
+| bip_39_word_new_br2 | crime<br>comfort |  
+| bip_39_word_new_br3 | crime<br>comfort<br>doctor |  
+| bip_39_word_new_br4 | crime<br>comfort<br>doctor<br>machine |  
+| bip_39_word_new_br5 | crime<br>comfort<br>doctor<br>machine<br>riot |  
+| bip_39_word_new_br6 | crime<br>comfort<br>doctor<br>machine<br>riot<br>range |  
+| bip_39_word_new_br7 | crime<br>comfort<br>doctor<br>machine<br>riot<br>range<br>odor |  
+| bip_39_word_new_br8 | crime<br>comfort<br>doctor<br>machine<br>riot<br>range<br>odor<br>waste |  
+| bip_39_word_new_br9 | crime<br>comfort<br>doctor<br>machine<br>riot<br>range<br>odor<br>waste<br>soul |  
+| bip_39_word_new_line1 | crime |  
+| bip_39_word_new_line10 | crime
+comfort
+doctor
+machine
+riot
+range
+odor
+waste
+soul
+surround |  
+| bip_39_word_new_line11 | crime
+comfort
+doctor
+machine
+riot
+range
+odor
+waste
+soul
+surround
+waste |  
+| bip_39_word_new_line2 | crime
+comfort |  
+| bip_39_word_new_line3 | crime
+comfort
+doctor |  
+| bip_39_word_new_line4 | crime
+comfort
+doctor
+machine |  
+| bip_39_word_new_line5 | crime
+comfort
+doctor
+machine
+riot |  
+| bip_39_word_new_line6 | crime
+comfort
+doctor
+machine
+riot
+range |  
+| bip_39_word_new_line7 | crime
+comfort
+doctor
+machine
+riot
+range
+odor |  
+| bip_39_word_new_line8 | crime
+comfort
+doctor
+machine
+riot
+range
+odor
+waste |  
+| bip_39_word_new_line9 | crime
+comfort
+doctor
+machine
+riot
+range
+odor
+waste
+soul |  
+| bip_39_word_space_0 | ['crime', 'comfort', 'doctor', 'machine', 'riot', 'range', 'odor', 'waste', 'soul', 'surround', 'waste'] |  
+| bip_39_word_space_1 | crime |  
+| bip_39_word_space_10 | crime comfort doctor machine riot range odor waste soul surround |  
+| bip_39_word_space_11 | crime comfort doctor machine riot range odor waste soul surround waste |  
+| bip_39_word_space_2 | crime comfort |  
+| bip_39_word_space_3 | crime comfort doctor |  
+| bip_39_word_space_4 | crime comfort doctor machine |  
+| bip_39_word_space_5 | crime comfort doctor machine riot |  
+| bip_39_word_space_6 | crime comfort doctor machine riot range |  
+| bip_39_word_space_7 | crime comfort doctor machine riot range odor |  
+| bip_39_word_space_8 | crime comfort doctor machine riot range odor waste |  
+| bip_39_word_space_9 | crime comfort doctor machine riot range odor waste soul |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

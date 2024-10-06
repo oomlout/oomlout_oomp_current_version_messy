@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ill rescue
+  * bip 39 word 3: ill rescue ride
+  * bip 39 word: ill rescue ride food domain burden uncle glove cup glad latin another
 
 ### other_codes
 * short_code: brF694
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ill |  
+| bip_39_word_new_br10 | ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad |  
+| bip_39_word_new_br11 | ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad<br>latin |  
+| bip_39_word_new_br12 | ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup<br>glad<br>latin<br>another |  
+| bip_39_word_new_br2 | ill<br>rescue |  
+| bip_39_word_new_br3 | ill<br>rescue<br>ride |  
+| bip_39_word_new_br4 | ill<br>rescue<br>ride<br>food |  
+| bip_39_word_new_br5 | ill<br>rescue<br>ride<br>food<br>domain |  
+| bip_39_word_new_br6 | ill<br>rescue<br>ride<br>food<br>domain<br>burden |  
+| bip_39_word_new_br7 | ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle |  
+| bip_39_word_new_br8 | ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove |  
+| bip_39_word_new_br9 | ill<br>rescue<br>ride<br>food<br>domain<br>burden<br>uncle<br>glove<br>cup |  
+| bip_39_word_new_line1 | ill |  
+| bip_39_word_new_line10 | ill
+rescue
+ride
+food
+domain
+burden
+uncle
+glove
+cup
+glad |  
+| bip_39_word_new_line11 | ill
+rescue
+ride
+food
+domain
+burden
+uncle
+glove
+cup
+glad
+latin |  
+| bip_39_word_new_line12 | ill
+rescue
+ride
+food
+domain
+burden
+uncle
+glove
+cup
+glad
+latin
+another |  
+| bip_39_word_new_line2 | ill
+rescue |  
+| bip_39_word_new_line3 | ill
+rescue
+ride |  
+| bip_39_word_new_line4 | ill
+rescue
+ride
+food |  
+| bip_39_word_new_line5 | ill
+rescue
+ride
+food
+domain |  
+| bip_39_word_new_line6 | ill
+rescue
+ride
+food
+domain
+burden |  
+| bip_39_word_new_line7 | ill
+rescue
+ride
+food
+domain
+burden
+uncle |  
+| bip_39_word_new_line8 | ill
+rescue
+ride
+food
+domain
+burden
+uncle
+glove |  
+| bip_39_word_new_line9 | ill
+rescue
+ride
+food
+domain
+burden
+uncle
+glove
+cup |  
+| bip_39_word_space_0 | ['ill', 'rescue', 'ride', 'food', 'domain', 'burden', 'uncle', 'glove', 'cup', 'glad', 'latin', 'another'] |  
+| bip_39_word_space_1 | ill |  
+| bip_39_word_space_10 | ill rescue ride food domain burden uncle glove cup glad |  
+| bip_39_word_space_11 | ill rescue ride food domain burden uncle glove cup glad latin |  
+| bip_39_word_space_12 | ill rescue ride food domain burden uncle glove cup glad latin another |  
+| bip_39_word_space_2 | ill rescue |  
+| bip_39_word_space_3 | ill rescue ride |  
+| bip_39_word_space_4 | ill rescue ride food |  
+| bip_39_word_space_5 | ill rescue ride food domain |  
+| bip_39_word_space_6 | ill rescue ride food domain burden |  
+| bip_39_word_space_7 | ill rescue ride food domain burden uncle |  
+| bip_39_word_space_8 | ill rescue ride food domain burden uncle glove |  
+| bip_39_word_space_9 | ill rescue ride food domain burden uncle glove cup |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

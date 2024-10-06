@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: useless piano
+  * bip 39 word 3: useless piano organ
+  * bip 39 word: useless piano organ still jewel visit fluid announce arrest craft razor above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | useless |  
+| bip_39_word_new_br10 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft |  
+| bip_39_word_new_br11 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft<br>razor |  
+| bip_39_word_new_br12 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest<br>craft<br>razor<br>above |  
+| bip_39_word_new_br2 | useless<br>piano |  
+| bip_39_word_new_br3 | useless<br>piano<br>organ |  
+| bip_39_word_new_br4 | useless<br>piano<br>organ<br>still |  
+| bip_39_word_new_br5 | useless<br>piano<br>organ<br>still<br>jewel |  
+| bip_39_word_new_br6 | useless<br>piano<br>organ<br>still<br>jewel<br>visit |  
+| bip_39_word_new_br7 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid |  
+| bip_39_word_new_br8 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce |  
+| bip_39_word_new_br9 | useless<br>piano<br>organ<br>still<br>jewel<br>visit<br>fluid<br>announce<br>arrest |  
+| bip_39_word_new_line1 | useless |  
+| bip_39_word_new_line10 | useless
+piano
+organ
+still
+jewel
+visit
+fluid
+announce
+arrest
+craft |  
+| bip_39_word_new_line11 | useless
+piano
+organ
+still
+jewel
+visit
+fluid
+announce
+arrest
+craft
+razor |  
+| bip_39_word_new_line12 | useless
+piano
+organ
+still
+jewel
+visit
+fluid
+announce
+arrest
+craft
+razor
+above |  
+| bip_39_word_new_line2 | useless
+piano |  
+| bip_39_word_new_line3 | useless
+piano
+organ |  
+| bip_39_word_new_line4 | useless
+piano
+organ
+still |  
+| bip_39_word_new_line5 | useless
+piano
+organ
+still
+jewel |  
+| bip_39_word_new_line6 | useless
+piano
+organ
+still
+jewel
+visit |  
+| bip_39_word_new_line7 | useless
+piano
+organ
+still
+jewel
+visit
+fluid |  
+| bip_39_word_new_line8 | useless
+piano
+organ
+still
+jewel
+visit
+fluid
+announce |  
+| bip_39_word_new_line9 | useless
+piano
+organ
+still
+jewel
+visit
+fluid
+announce
+arrest |  
+| bip_39_word_space_0 | ['useless', 'piano', 'organ', 'still', 'jewel', 'visit', 'fluid', 'announce', 'arrest', 'craft', 'razor', 'above'] |  
+| bip_39_word_space_1 | useless |  
+| bip_39_word_space_10 | useless piano organ still jewel visit fluid announce arrest craft |  
+| bip_39_word_space_11 | useless piano organ still jewel visit fluid announce arrest craft razor |  
+| bip_39_word_space_12 | useless piano organ still jewel visit fluid announce arrest craft razor above |  
+| bip_39_word_space_2 | useless piano |  
+| bip_39_word_space_3 | useless piano organ |  
+| bip_39_word_space_4 | useless piano organ still |  
+| bip_39_word_space_5 | useless piano organ still jewel |  
+| bip_39_word_space_6 | useless piano organ still jewel visit |  
+| bip_39_word_space_7 | useless piano organ still jewel visit fluid |  
+| bip_39_word_space_8 | useless piano organ still jewel visit fluid announce |  
+| bip_39_word_space_9 | useless piano organ still jewel visit fluid announce arrest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

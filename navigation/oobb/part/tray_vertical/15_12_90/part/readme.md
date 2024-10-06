@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: width predict
+  * bip 39 word 3: width predict sound
+  * bip 39 word: width predict sound quote debris pink rent round fitness chase oyster approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | width |  
+| bip_39_word_new_br10 | width<br>predict<br>sound<br>quote<br>debris<br>pink<br>rent<br>round<br>fitness<br>chase |  
+| bip_39_word_new_br11 | width<br>predict<br>sound<br>quote<br>debris<br>pink<br>rent<br>round<br>fitness<br>chase<br>oyster |  
+| bip_39_word_new_br12 | width<br>predict<br>sound<br>quote<br>debris<br>pink<br>rent<br>round<br>fitness<br>chase<br>oyster<br>approve |  
+| bip_39_word_new_br2 | width<br>predict |  
+| bip_39_word_new_br3 | width<br>predict<br>sound |  
+| bip_39_word_new_br4 | width<br>predict<br>sound<br>quote |  
+| bip_39_word_new_br5 | width<br>predict<br>sound<br>quote<br>debris |  
+| bip_39_word_new_br6 | width<br>predict<br>sound<br>quote<br>debris<br>pink |  
+| bip_39_word_new_br7 | width<br>predict<br>sound<br>quote<br>debris<br>pink<br>rent |  
+| bip_39_word_new_br8 | width<br>predict<br>sound<br>quote<br>debris<br>pink<br>rent<br>round |  
+| bip_39_word_new_br9 | width<br>predict<br>sound<br>quote<br>debris<br>pink<br>rent<br>round<br>fitness |  
+| bip_39_word_new_line1 | width |  
+| bip_39_word_new_line10 | width
+predict
+sound
+quote
+debris
+pink
+rent
+round
+fitness
+chase |  
+| bip_39_word_new_line11 | width
+predict
+sound
+quote
+debris
+pink
+rent
+round
+fitness
+chase
+oyster |  
+| bip_39_word_new_line12 | width
+predict
+sound
+quote
+debris
+pink
+rent
+round
+fitness
+chase
+oyster
+approve |  
+| bip_39_word_new_line2 | width
+predict |  
+| bip_39_word_new_line3 | width
+predict
+sound |  
+| bip_39_word_new_line4 | width
+predict
+sound
+quote |  
+| bip_39_word_new_line5 | width
+predict
+sound
+quote
+debris |  
+| bip_39_word_new_line6 | width
+predict
+sound
+quote
+debris
+pink |  
+| bip_39_word_new_line7 | width
+predict
+sound
+quote
+debris
+pink
+rent |  
+| bip_39_word_new_line8 | width
+predict
+sound
+quote
+debris
+pink
+rent
+round |  
+| bip_39_word_new_line9 | width
+predict
+sound
+quote
+debris
+pink
+rent
+round
+fitness |  
+| bip_39_word_space_0 | ['width', 'predict', 'sound', 'quote', 'debris', 'pink', 'rent', 'round', 'fitness', 'chase', 'oyster', 'approve'] |  
+| bip_39_word_space_1 | width |  
+| bip_39_word_space_10 | width predict sound quote debris pink rent round fitness chase |  
+| bip_39_word_space_11 | width predict sound quote debris pink rent round fitness chase oyster |  
+| bip_39_word_space_12 | width predict sound quote debris pink rent round fitness chase oyster approve |  
+| bip_39_word_space_2 | width predict |  
+| bip_39_word_space_3 | width predict sound |  
+| bip_39_word_space_4 | width predict sound quote |  
+| bip_39_word_space_5 | width predict sound quote debris |  
+| bip_39_word_space_6 | width predict sound quote debris pink |  
+| bip_39_word_space_7 | width predict sound quote debris pink rent |  
+| bip_39_word_space_8 | width predict sound quote debris pink rent round |  
+| bip_39_word_space_9 | width predict sound quote debris pink rent round fitness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

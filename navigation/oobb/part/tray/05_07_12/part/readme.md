@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rebuild dove
+  * bip 39 word 3: rebuild dove more
+  * bip 39 word: rebuild dove more dove enrich addict minimum asset swear fatal perfect any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rebuild |  
+| bip_39_word_new_br10 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict<br>minimum<br>asset<br>swear<br>fatal |  
+| bip_39_word_new_br11 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict<br>minimum<br>asset<br>swear<br>fatal<br>perfect |  
+| bip_39_word_new_br12 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict<br>minimum<br>asset<br>swear<br>fatal<br>perfect<br>any |  
+| bip_39_word_new_br2 | rebuild<br>dove |  
+| bip_39_word_new_br3 | rebuild<br>dove<br>more |  
+| bip_39_word_new_br4 | rebuild<br>dove<br>more<br>dove |  
+| bip_39_word_new_br5 | rebuild<br>dove<br>more<br>dove<br>enrich |  
+| bip_39_word_new_br6 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict |  
+| bip_39_word_new_br7 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict<br>minimum |  
+| bip_39_word_new_br8 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict<br>minimum<br>asset |  
+| bip_39_word_new_br9 | rebuild<br>dove<br>more<br>dove<br>enrich<br>addict<br>minimum<br>asset<br>swear |  
+| bip_39_word_new_line1 | rebuild |  
+| bip_39_word_new_line10 | rebuild
+dove
+more
+dove
+enrich
+addict
+minimum
+asset
+swear
+fatal |  
+| bip_39_word_new_line11 | rebuild
+dove
+more
+dove
+enrich
+addict
+minimum
+asset
+swear
+fatal
+perfect |  
+| bip_39_word_new_line12 | rebuild
+dove
+more
+dove
+enrich
+addict
+minimum
+asset
+swear
+fatal
+perfect
+any |  
+| bip_39_word_new_line2 | rebuild
+dove |  
+| bip_39_word_new_line3 | rebuild
+dove
+more |  
+| bip_39_word_new_line4 | rebuild
+dove
+more
+dove |  
+| bip_39_word_new_line5 | rebuild
+dove
+more
+dove
+enrich |  
+| bip_39_word_new_line6 | rebuild
+dove
+more
+dove
+enrich
+addict |  
+| bip_39_word_new_line7 | rebuild
+dove
+more
+dove
+enrich
+addict
+minimum |  
+| bip_39_word_new_line8 | rebuild
+dove
+more
+dove
+enrich
+addict
+minimum
+asset |  
+| bip_39_word_new_line9 | rebuild
+dove
+more
+dove
+enrich
+addict
+minimum
+asset
+swear |  
+| bip_39_word_space_0 | ['rebuild', 'dove', 'more', 'dove', 'enrich', 'addict', 'minimum', 'asset', 'swear', 'fatal', 'perfect', 'any'] |  
+| bip_39_word_space_1 | rebuild |  
+| bip_39_word_space_10 | rebuild dove more dove enrich addict minimum asset swear fatal |  
+| bip_39_word_space_11 | rebuild dove more dove enrich addict minimum asset swear fatal perfect |  
+| bip_39_word_space_12 | rebuild dove more dove enrich addict minimum asset swear fatal perfect any |  
+| bip_39_word_space_2 | rebuild dove |  
+| bip_39_word_space_3 | rebuild dove more |  
+| bip_39_word_space_4 | rebuild dove more dove |  
+| bip_39_word_space_5 | rebuild dove more dove enrich |  
+| bip_39_word_space_6 | rebuild dove more dove enrich addict |  
+| bip_39_word_space_7 | rebuild dove more dove enrich addict minimum |  
+| bip_39_word_space_8 | rebuild dove more dove enrich addict minimum asset |  
+| bip_39_word_space_9 | rebuild dove more dove enrich addict minimum asset swear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

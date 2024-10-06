@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lamp diesel
+  * bip 39 word 3: lamp diesel rose
+  * bip 39 word: lamp diesel rose sibling strong robust satisfy oppose spin champion law antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lamp |  
+| bip_39_word_new_br10 | lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose<br>spin<br>champion |  
+| bip_39_word_new_br11 | lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose<br>spin<br>champion<br>law |  
+| bip_39_word_new_br12 | lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose<br>spin<br>champion<br>law<br>antique |  
+| bip_39_word_new_br2 | lamp<br>diesel |  
+| bip_39_word_new_br3 | lamp<br>diesel<br>rose |  
+| bip_39_word_new_br4 | lamp<br>diesel<br>rose<br>sibling |  
+| bip_39_word_new_br5 | lamp<br>diesel<br>rose<br>sibling<br>strong |  
+| bip_39_word_new_br6 | lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust |  
+| bip_39_word_new_br7 | lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy |  
+| bip_39_word_new_br8 | lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose |  
+| bip_39_word_new_br9 | lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose<br>spin |  
+| bip_39_word_new_line1 | lamp |  
+| bip_39_word_new_line10 | lamp
+diesel
+rose
+sibling
+strong
+robust
+satisfy
+oppose
+spin
+champion |  
+| bip_39_word_new_line11 | lamp
+diesel
+rose
+sibling
+strong
+robust
+satisfy
+oppose
+spin
+champion
+law |  
+| bip_39_word_new_line12 | lamp
+diesel
+rose
+sibling
+strong
+robust
+satisfy
+oppose
+spin
+champion
+law
+antique |  
+| bip_39_word_new_line2 | lamp
+diesel |  
+| bip_39_word_new_line3 | lamp
+diesel
+rose |  
+| bip_39_word_new_line4 | lamp
+diesel
+rose
+sibling |  
+| bip_39_word_new_line5 | lamp
+diesel
+rose
+sibling
+strong |  
+| bip_39_word_new_line6 | lamp
+diesel
+rose
+sibling
+strong
+robust |  
+| bip_39_word_new_line7 | lamp
+diesel
+rose
+sibling
+strong
+robust
+satisfy |  
+| bip_39_word_new_line8 | lamp
+diesel
+rose
+sibling
+strong
+robust
+satisfy
+oppose |  
+| bip_39_word_new_line9 | lamp
+diesel
+rose
+sibling
+strong
+robust
+satisfy
+oppose
+spin |  
+| bip_39_word_space_0 | ['lamp', 'diesel', 'rose', 'sibling', 'strong', 'robust', 'satisfy', 'oppose', 'spin', 'champion', 'law', 'antique'] |  
+| bip_39_word_space_1 | lamp |  
+| bip_39_word_space_10 | lamp diesel rose sibling strong robust satisfy oppose spin champion |  
+| bip_39_word_space_11 | lamp diesel rose sibling strong robust satisfy oppose spin champion law |  
+| bip_39_word_space_12 | lamp diesel rose sibling strong robust satisfy oppose spin champion law antique |  
+| bip_39_word_space_2 | lamp diesel |  
+| bip_39_word_space_3 | lamp diesel rose |  
+| bip_39_word_space_4 | lamp diesel rose sibling |  
+| bip_39_word_space_5 | lamp diesel rose sibling strong |  
+| bip_39_word_space_6 | lamp diesel rose sibling strong robust |  
+| bip_39_word_space_7 | lamp diesel rose sibling strong robust satisfy |  
+| bip_39_word_space_8 | lamp diesel rose sibling strong robust satisfy oppose |  
+| bip_39_word_space_9 | lamp diesel rose sibling strong robust satisfy oppose spin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

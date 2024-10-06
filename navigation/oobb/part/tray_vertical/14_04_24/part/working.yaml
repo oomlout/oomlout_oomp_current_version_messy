@@ -1,3 +1,185 @@
+bip_39_word_new_br1: monitor
+bip_39_word_new_br10: monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss
+bip_39_word_new_br11: monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss<br>silk
+bip_39_word_new_br12: monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay<br>kiss<br>silk<br>among
+bip_39_word_new_br2: monitor<br>cargo
+bip_39_word_new_br3: monitor<br>cargo<br>play
+bip_39_word_new_br4: monitor<br>cargo<br>play<br>essay
+bip_39_word_new_br5: monitor<br>cargo<br>play<br>essay<br>zoo
+bip_39_word_new_br6: monitor<br>cargo<br>play<br>essay<br>zoo<br>fat
+bip_39_word_new_br7: monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region
+bip_39_word_new_br8: monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave
+bip_39_word_new_br9: monitor<br>cargo<br>play<br>essay<br>zoo<br>fat<br>region<br>wave<br>delay
+bip_39_word_new_line1: monitor
+bip_39_word_new_line10: 'monitor
+
+  cargo
+
+  play
+
+  essay
+
+  zoo
+
+  fat
+
+  region
+
+  wave
+
+  delay
+
+  kiss'
+bip_39_word_new_line11: 'monitor
+
+  cargo
+
+  play
+
+  essay
+
+  zoo
+
+  fat
+
+  region
+
+  wave
+
+  delay
+
+  kiss
+
+  silk'
+bip_39_word_new_line12: 'monitor
+
+  cargo
+
+  play
+
+  essay
+
+  zoo
+
+  fat
+
+  region
+
+  wave
+
+  delay
+
+  kiss
+
+  silk
+
+  among'
+bip_39_word_new_line2: 'monitor
+
+  cargo'
+bip_39_word_new_line3: 'monitor
+
+  cargo
+
+  play'
+bip_39_word_new_line4: 'monitor
+
+  cargo
+
+  play
+
+  essay'
+bip_39_word_new_line5: 'monitor
+
+  cargo
+
+  play
+
+  essay
+
+  zoo'
+bip_39_word_new_line6: 'monitor
+
+  cargo
+
+  play
+
+  essay
+
+  zoo
+
+  fat'
+bip_39_word_new_line7: 'monitor
+
+  cargo
+
+  play
+
+  essay
+
+  zoo
+
+  fat
+
+  region'
+bip_39_word_new_line8: 'monitor
+
+  cargo
+
+  play
+
+  essay
+
+  zoo
+
+  fat
+
+  region
+
+  wave'
+bip_39_word_new_line9: 'monitor
+
+  cargo
+
+  play
+
+  essay
+
+  zoo
+
+  fat
+
+  region
+
+  wave
+
+  delay'
+bip_39_word_space_0:
+- monitor
+- cargo
+- play
+- essay
+- zoo
+- fat
+- region
+- wave
+- delay
+- kiss
+- silk
+- among
+bip_39_word_space_1: monitor
+bip_39_word_space_10: monitor cargo play essay zoo fat region wave delay kiss
+bip_39_word_space_11: monitor cargo play essay zoo fat region wave delay kiss silk
+bip_39_word_space_12: monitor cargo play essay zoo fat region wave delay kiss silk
+  among
+bip_39_word_space_2: monitor cargo
+bip_39_word_space_3: monitor cargo play
+bip_39_word_space_4: monitor cargo play essay
+bip_39_word_space_5: monitor cargo play essay zoo
+bip_39_word_space_6: monitor cargo play essay zoo fat
+bip_39_word_space_7: monitor cargo play essay zoo fat region
+bip_39_word_space_8: monitor cargo play essay zoo fat region wave
+bip_39_word_space_9: monitor cargo play essay zoo fat region wave delay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

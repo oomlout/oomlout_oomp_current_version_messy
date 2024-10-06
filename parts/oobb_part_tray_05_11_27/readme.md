@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boy wink
+  * bip 39 word 3: boy wink spirit
+  * bip 39 word: boy wink spirit humor glance neither mother blast upper chase polar alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boy |  
+| bip_39_word_new_br10 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase |  
+| bip_39_word_new_br11 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase<br>polar |  
+| bip_39_word_new_br12 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper<br>chase<br>polar<br>alone |  
+| bip_39_word_new_br2 | boy<br>wink |  
+| bip_39_word_new_br3 | boy<br>wink<br>spirit |  
+| bip_39_word_new_br4 | boy<br>wink<br>spirit<br>humor |  
+| bip_39_word_new_br5 | boy<br>wink<br>spirit<br>humor<br>glance |  
+| bip_39_word_new_br6 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither |  
+| bip_39_word_new_br7 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother |  
+| bip_39_word_new_br8 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast |  
+| bip_39_word_new_br9 | boy<br>wink<br>spirit<br>humor<br>glance<br>neither<br>mother<br>blast<br>upper |  
+| bip_39_word_new_line1 | boy |  
+| bip_39_word_new_line10 | boy
+wink
+spirit
+humor
+glance
+neither
+mother
+blast
+upper
+chase |  
+| bip_39_word_new_line11 | boy
+wink
+spirit
+humor
+glance
+neither
+mother
+blast
+upper
+chase
+polar |  
+| bip_39_word_new_line12 | boy
+wink
+spirit
+humor
+glance
+neither
+mother
+blast
+upper
+chase
+polar
+alone |  
+| bip_39_word_new_line2 | boy
+wink |  
+| bip_39_word_new_line3 | boy
+wink
+spirit |  
+| bip_39_word_new_line4 | boy
+wink
+spirit
+humor |  
+| bip_39_word_new_line5 | boy
+wink
+spirit
+humor
+glance |  
+| bip_39_word_new_line6 | boy
+wink
+spirit
+humor
+glance
+neither |  
+| bip_39_word_new_line7 | boy
+wink
+spirit
+humor
+glance
+neither
+mother |  
+| bip_39_word_new_line8 | boy
+wink
+spirit
+humor
+glance
+neither
+mother
+blast |  
+| bip_39_word_new_line9 | boy
+wink
+spirit
+humor
+glance
+neither
+mother
+blast
+upper |  
+| bip_39_word_space_0 | ['boy', 'wink', 'spirit', 'humor', 'glance', 'neither', 'mother', 'blast', 'upper', 'chase', 'polar', 'alone'] |  
+| bip_39_word_space_1 | boy |  
+| bip_39_word_space_10 | boy wink spirit humor glance neither mother blast upper chase |  
+| bip_39_word_space_11 | boy wink spirit humor glance neither mother blast upper chase polar |  
+| bip_39_word_space_12 | boy wink spirit humor glance neither mother blast upper chase polar alone |  
+| bip_39_word_space_2 | boy wink |  
+| bip_39_word_space_3 | boy wink spirit |  
+| bip_39_word_space_4 | boy wink spirit humor |  
+| bip_39_word_space_5 | boy wink spirit humor glance |  
+| bip_39_word_space_6 | boy wink spirit humor glance neither |  
+| bip_39_word_space_7 | boy wink spirit humor glance neither mother |  
+| bip_39_word_space_8 | boy wink spirit humor glance neither mother blast |  
+| bip_39_word_space_9 | boy wink spirit humor glance neither mother blast upper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

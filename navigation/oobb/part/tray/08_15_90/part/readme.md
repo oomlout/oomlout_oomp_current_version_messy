@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: first hello
+  * bip 39 word 3: first hello asset
+  * bip 39 word: first hello asset border alley stick hollow stool chronic turkey notice accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | first |  
+| bip_39_word_new_br10 | first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic<br>turkey |  
+| bip_39_word_new_br11 | first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic<br>turkey<br>notice |  
+| bip_39_word_new_br12 | first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic<br>turkey<br>notice<br>accident |  
+| bip_39_word_new_br2 | first<br>hello |  
+| bip_39_word_new_br3 | first<br>hello<br>asset |  
+| bip_39_word_new_br4 | first<br>hello<br>asset<br>border |  
+| bip_39_word_new_br5 | first<br>hello<br>asset<br>border<br>alley |  
+| bip_39_word_new_br6 | first<br>hello<br>asset<br>border<br>alley<br>stick |  
+| bip_39_word_new_br7 | first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow |  
+| bip_39_word_new_br8 | first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool |  
+| bip_39_word_new_br9 | first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic |  
+| bip_39_word_new_line1 | first |  
+| bip_39_word_new_line10 | first
+hello
+asset
+border
+alley
+stick
+hollow
+stool
+chronic
+turkey |  
+| bip_39_word_new_line11 | first
+hello
+asset
+border
+alley
+stick
+hollow
+stool
+chronic
+turkey
+notice |  
+| bip_39_word_new_line12 | first
+hello
+asset
+border
+alley
+stick
+hollow
+stool
+chronic
+turkey
+notice
+accident |  
+| bip_39_word_new_line2 | first
+hello |  
+| bip_39_word_new_line3 | first
+hello
+asset |  
+| bip_39_word_new_line4 | first
+hello
+asset
+border |  
+| bip_39_word_new_line5 | first
+hello
+asset
+border
+alley |  
+| bip_39_word_new_line6 | first
+hello
+asset
+border
+alley
+stick |  
+| bip_39_word_new_line7 | first
+hello
+asset
+border
+alley
+stick
+hollow |  
+| bip_39_word_new_line8 | first
+hello
+asset
+border
+alley
+stick
+hollow
+stool |  
+| bip_39_word_new_line9 | first
+hello
+asset
+border
+alley
+stick
+hollow
+stool
+chronic |  
+| bip_39_word_space_0 | ['first', 'hello', 'asset', 'border', 'alley', 'stick', 'hollow', 'stool', 'chronic', 'turkey', 'notice', 'accident'] |  
+| bip_39_word_space_1 | first |  
+| bip_39_word_space_10 | first hello asset border alley stick hollow stool chronic turkey |  
+| bip_39_word_space_11 | first hello asset border alley stick hollow stool chronic turkey notice |  
+| bip_39_word_space_12 | first hello asset border alley stick hollow stool chronic turkey notice accident |  
+| bip_39_word_space_2 | first hello |  
+| bip_39_word_space_3 | first hello asset |  
+| bip_39_word_space_4 | first hello asset border |  
+| bip_39_word_space_5 | first hello asset border alley |  
+| bip_39_word_space_6 | first hello asset border alley stick |  
+| bip_39_word_space_7 | first hello asset border alley stick hollow |  
+| bip_39_word_space_8 | first hello asset border alley stick hollow stool |  
+| bip_39_word_space_9 | first hello asset border alley stick hollow stool chronic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

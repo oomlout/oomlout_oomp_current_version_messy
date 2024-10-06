@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: direct dog
+  * bip 39 word 3: direct dog decline
+  * bip 39 word: direct dog decline risk license heavy reduce visit beyond clump click afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | direct |  
+| bip_39_word_new_br10 | direct<br>dog<br>decline<br>risk<br>license<br>heavy<br>reduce<br>visit<br>beyond<br>clump |  
+| bip_39_word_new_br11 | direct<br>dog<br>decline<br>risk<br>license<br>heavy<br>reduce<br>visit<br>beyond<br>clump<br>click |  
+| bip_39_word_new_br12 | direct<br>dog<br>decline<br>risk<br>license<br>heavy<br>reduce<br>visit<br>beyond<br>clump<br>click<br>afford |  
+| bip_39_word_new_br2 | direct<br>dog |  
+| bip_39_word_new_br3 | direct<br>dog<br>decline |  
+| bip_39_word_new_br4 | direct<br>dog<br>decline<br>risk |  
+| bip_39_word_new_br5 | direct<br>dog<br>decline<br>risk<br>license |  
+| bip_39_word_new_br6 | direct<br>dog<br>decline<br>risk<br>license<br>heavy |  
+| bip_39_word_new_br7 | direct<br>dog<br>decline<br>risk<br>license<br>heavy<br>reduce |  
+| bip_39_word_new_br8 | direct<br>dog<br>decline<br>risk<br>license<br>heavy<br>reduce<br>visit |  
+| bip_39_word_new_br9 | direct<br>dog<br>decline<br>risk<br>license<br>heavy<br>reduce<br>visit<br>beyond |  
+| bip_39_word_new_line1 | direct |  
+| bip_39_word_new_line10 | direct
+dog
+decline
+risk
+license
+heavy
+reduce
+visit
+beyond
+clump |  
+| bip_39_word_new_line11 | direct
+dog
+decline
+risk
+license
+heavy
+reduce
+visit
+beyond
+clump
+click |  
+| bip_39_word_new_line12 | direct
+dog
+decline
+risk
+license
+heavy
+reduce
+visit
+beyond
+clump
+click
+afford |  
+| bip_39_word_new_line2 | direct
+dog |  
+| bip_39_word_new_line3 | direct
+dog
+decline |  
+| bip_39_word_new_line4 | direct
+dog
+decline
+risk |  
+| bip_39_word_new_line5 | direct
+dog
+decline
+risk
+license |  
+| bip_39_word_new_line6 | direct
+dog
+decline
+risk
+license
+heavy |  
+| bip_39_word_new_line7 | direct
+dog
+decline
+risk
+license
+heavy
+reduce |  
+| bip_39_word_new_line8 | direct
+dog
+decline
+risk
+license
+heavy
+reduce
+visit |  
+| bip_39_word_new_line9 | direct
+dog
+decline
+risk
+license
+heavy
+reduce
+visit
+beyond |  
+| bip_39_word_space_0 | ['direct', 'dog', 'decline', 'risk', 'license', 'heavy', 'reduce', 'visit', 'beyond', 'clump', 'click', 'afford'] |  
+| bip_39_word_space_1 | direct |  
+| bip_39_word_space_10 | direct dog decline risk license heavy reduce visit beyond clump |  
+| bip_39_word_space_11 | direct dog decline risk license heavy reduce visit beyond clump click |  
+| bip_39_word_space_12 | direct dog decline risk license heavy reduce visit beyond clump click afford |  
+| bip_39_word_space_2 | direct dog |  
+| bip_39_word_space_3 | direct dog decline |  
+| bip_39_word_space_4 | direct dog decline risk |  
+| bip_39_word_space_5 | direct dog decline risk license |  
+| bip_39_word_space_6 | direct dog decline risk license heavy |  
+| bip_39_word_space_7 | direct dog decline risk license heavy reduce |  
+| bip_39_word_space_8 | direct dog decline risk license heavy reduce visit |  
+| bip_39_word_space_9 | direct dog decline risk license heavy reduce visit beyond |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

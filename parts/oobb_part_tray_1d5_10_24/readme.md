@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nephew chronic
+  * bip 39 word 3: nephew chronic pelican
+  * bip 39 word: nephew chronic pelican fitness exist arch exotic grace salute hole welcome assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nephew |  
+| bip_39_word_new_br10 | nephew<br>chronic<br>pelican<br>fitness<br>exist<br>arch<br>exotic<br>grace<br>salute<br>hole |  
+| bip_39_word_new_br11 | nephew<br>chronic<br>pelican<br>fitness<br>exist<br>arch<br>exotic<br>grace<br>salute<br>hole<br>welcome |  
+| bip_39_word_new_br12 | nephew<br>chronic<br>pelican<br>fitness<br>exist<br>arch<br>exotic<br>grace<br>salute<br>hole<br>welcome<br>assault |  
+| bip_39_word_new_br2 | nephew<br>chronic |  
+| bip_39_word_new_br3 | nephew<br>chronic<br>pelican |  
+| bip_39_word_new_br4 | nephew<br>chronic<br>pelican<br>fitness |  
+| bip_39_word_new_br5 | nephew<br>chronic<br>pelican<br>fitness<br>exist |  
+| bip_39_word_new_br6 | nephew<br>chronic<br>pelican<br>fitness<br>exist<br>arch |  
+| bip_39_word_new_br7 | nephew<br>chronic<br>pelican<br>fitness<br>exist<br>arch<br>exotic |  
+| bip_39_word_new_br8 | nephew<br>chronic<br>pelican<br>fitness<br>exist<br>arch<br>exotic<br>grace |  
+| bip_39_word_new_br9 | nephew<br>chronic<br>pelican<br>fitness<br>exist<br>arch<br>exotic<br>grace<br>salute |  
+| bip_39_word_new_line1 | nephew |  
+| bip_39_word_new_line10 | nephew
+chronic
+pelican
+fitness
+exist
+arch
+exotic
+grace
+salute
+hole |  
+| bip_39_word_new_line11 | nephew
+chronic
+pelican
+fitness
+exist
+arch
+exotic
+grace
+salute
+hole
+welcome |  
+| bip_39_word_new_line12 | nephew
+chronic
+pelican
+fitness
+exist
+arch
+exotic
+grace
+salute
+hole
+welcome
+assault |  
+| bip_39_word_new_line2 | nephew
+chronic |  
+| bip_39_word_new_line3 | nephew
+chronic
+pelican |  
+| bip_39_word_new_line4 | nephew
+chronic
+pelican
+fitness |  
+| bip_39_word_new_line5 | nephew
+chronic
+pelican
+fitness
+exist |  
+| bip_39_word_new_line6 | nephew
+chronic
+pelican
+fitness
+exist
+arch |  
+| bip_39_word_new_line7 | nephew
+chronic
+pelican
+fitness
+exist
+arch
+exotic |  
+| bip_39_word_new_line8 | nephew
+chronic
+pelican
+fitness
+exist
+arch
+exotic
+grace |  
+| bip_39_word_new_line9 | nephew
+chronic
+pelican
+fitness
+exist
+arch
+exotic
+grace
+salute |  
+| bip_39_word_space_0 | ['nephew', 'chronic', 'pelican', 'fitness', 'exist', 'arch', 'exotic', 'grace', 'salute', 'hole', 'welcome', 'assault'] |  
+| bip_39_word_space_1 | nephew |  
+| bip_39_word_space_10 | nephew chronic pelican fitness exist arch exotic grace salute hole |  
+| bip_39_word_space_11 | nephew chronic pelican fitness exist arch exotic grace salute hole welcome |  
+| bip_39_word_space_12 | nephew chronic pelican fitness exist arch exotic grace salute hole welcome assault |  
+| bip_39_word_space_2 | nephew chronic |  
+| bip_39_word_space_3 | nephew chronic pelican |  
+| bip_39_word_space_4 | nephew chronic pelican fitness |  
+| bip_39_word_space_5 | nephew chronic pelican fitness exist |  
+| bip_39_word_space_6 | nephew chronic pelican fitness exist arch |  
+| bip_39_word_space_7 | nephew chronic pelican fitness exist arch exotic |  
+| bip_39_word_space_8 | nephew chronic pelican fitness exist arch exotic grace |  
+| bip_39_word_space_9 | nephew chronic pelican fitness exist arch exotic grace salute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

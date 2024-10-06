@@ -1,3 +1,186 @@
+bip_39_word_new_br1: reward
+bip_39_word_new_br10: reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat
+bip_39_word_new_br11: reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat<br>bounce
+bip_39_word_new_br12: reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword<br>repeat<br>bounce<br>ask
+bip_39_word_new_br2: reward<br>false
+bip_39_word_new_br3: reward<br>false<br>zoo
+bip_39_word_new_br4: reward<br>false<br>zoo<br>update
+bip_39_word_new_br5: reward<br>false<br>zoo<br>update<br>ribbon
+bip_39_word_new_br6: reward<br>false<br>zoo<br>update<br>ribbon<br>relief
+bip_39_word_new_br7: reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut
+bip_39_word_new_br8: reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone
+bip_39_word_new_br9: reward<br>false<br>zoo<br>update<br>ribbon<br>relief<br>nut<br>stone<br>sword
+bip_39_word_new_line1: reward
+bip_39_word_new_line10: 'reward
+
+  false
+
+  zoo
+
+  update
+
+  ribbon
+
+  relief
+
+  nut
+
+  stone
+
+  sword
+
+  repeat'
+bip_39_word_new_line11: 'reward
+
+  false
+
+  zoo
+
+  update
+
+  ribbon
+
+  relief
+
+  nut
+
+  stone
+
+  sword
+
+  repeat
+
+  bounce'
+bip_39_word_new_line12: 'reward
+
+  false
+
+  zoo
+
+  update
+
+  ribbon
+
+  relief
+
+  nut
+
+  stone
+
+  sword
+
+  repeat
+
+  bounce
+
+  ask'
+bip_39_word_new_line2: 'reward
+
+  false'
+bip_39_word_new_line3: 'reward
+
+  false
+
+  zoo'
+bip_39_word_new_line4: 'reward
+
+  false
+
+  zoo
+
+  update'
+bip_39_word_new_line5: 'reward
+
+  false
+
+  zoo
+
+  update
+
+  ribbon'
+bip_39_word_new_line6: 'reward
+
+  false
+
+  zoo
+
+  update
+
+  ribbon
+
+  relief'
+bip_39_word_new_line7: 'reward
+
+  false
+
+  zoo
+
+  update
+
+  ribbon
+
+  relief
+
+  nut'
+bip_39_word_new_line8: 'reward
+
+  false
+
+  zoo
+
+  update
+
+  ribbon
+
+  relief
+
+  nut
+
+  stone'
+bip_39_word_new_line9: 'reward
+
+  false
+
+  zoo
+
+  update
+
+  ribbon
+
+  relief
+
+  nut
+
+  stone
+
+  sword'
+bip_39_word_space_0:
+- reward
+- 'false'
+- zoo
+- update
+- ribbon
+- relief
+- nut
+- stone
+- sword
+- repeat
+- bounce
+- ask
+bip_39_word_space_1: reward
+bip_39_word_space_10: reward false zoo update ribbon relief nut stone sword repeat
+bip_39_word_space_11: reward false zoo update ribbon relief nut stone sword repeat
+  bounce
+bip_39_word_space_12: reward false zoo update ribbon relief nut stone sword repeat
+  bounce ask
+bip_39_word_space_2: reward false
+bip_39_word_space_3: reward false zoo
+bip_39_word_space_4: reward false zoo update
+bip_39_word_space_5: reward false zoo update ribbon
+bip_39_word_space_6: reward false zoo update ribbon relief
+bip_39_word_space_7: reward false zoo update ribbon relief nut
+bip_39_word_space_8: reward false zoo update ribbon relief nut stone
+bip_39_word_space_9: reward false zoo update ribbon relief nut stone sword
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_screwdriver_h
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drastic gift
+  * bip 39 word 3: drastic gift endorse
+  * bip 39 word: drastic gift endorse search suffer angle runway replace ribbon labor require aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drastic |  
+| bip_39_word_new_br10 | drastic<br>gift<br>endorse<br>search<br>suffer<br>angle<br>runway<br>replace<br>ribbon<br>labor |  
+| bip_39_word_new_br11 | drastic<br>gift<br>endorse<br>search<br>suffer<br>angle<br>runway<br>replace<br>ribbon<br>labor<br>require |  
+| bip_39_word_new_br12 | drastic<br>gift<br>endorse<br>search<br>suffer<br>angle<br>runway<br>replace<br>ribbon<br>labor<br>require<br>aspect |  
+| bip_39_word_new_br2 | drastic<br>gift |  
+| bip_39_word_new_br3 | drastic<br>gift<br>endorse |  
+| bip_39_word_new_br4 | drastic<br>gift<br>endorse<br>search |  
+| bip_39_word_new_br5 | drastic<br>gift<br>endorse<br>search<br>suffer |  
+| bip_39_word_new_br6 | drastic<br>gift<br>endorse<br>search<br>suffer<br>angle |  
+| bip_39_word_new_br7 | drastic<br>gift<br>endorse<br>search<br>suffer<br>angle<br>runway |  
+| bip_39_word_new_br8 | drastic<br>gift<br>endorse<br>search<br>suffer<br>angle<br>runway<br>replace |  
+| bip_39_word_new_br9 | drastic<br>gift<br>endorse<br>search<br>suffer<br>angle<br>runway<br>replace<br>ribbon |  
+| bip_39_word_new_line1 | drastic |  
+| bip_39_word_new_line10 | drastic
+gift
+endorse
+search
+suffer
+angle
+runway
+replace
+ribbon
+labor |  
+| bip_39_word_new_line11 | drastic
+gift
+endorse
+search
+suffer
+angle
+runway
+replace
+ribbon
+labor
+require |  
+| bip_39_word_new_line12 | drastic
+gift
+endorse
+search
+suffer
+angle
+runway
+replace
+ribbon
+labor
+require
+aspect |  
+| bip_39_word_new_line2 | drastic
+gift |  
+| bip_39_word_new_line3 | drastic
+gift
+endorse |  
+| bip_39_word_new_line4 | drastic
+gift
+endorse
+search |  
+| bip_39_word_new_line5 | drastic
+gift
+endorse
+search
+suffer |  
+| bip_39_word_new_line6 | drastic
+gift
+endorse
+search
+suffer
+angle |  
+| bip_39_word_new_line7 | drastic
+gift
+endorse
+search
+suffer
+angle
+runway |  
+| bip_39_word_new_line8 | drastic
+gift
+endorse
+search
+suffer
+angle
+runway
+replace |  
+| bip_39_word_new_line9 | drastic
+gift
+endorse
+search
+suffer
+angle
+runway
+replace
+ribbon |  
+| bip_39_word_space_0 | ['drastic', 'gift', 'endorse', 'search', 'suffer', 'angle', 'runway', 'replace', 'ribbon', 'labor', 'require', 'aspect'] |  
+| bip_39_word_space_1 | drastic |  
+| bip_39_word_space_10 | drastic gift endorse search suffer angle runway replace ribbon labor |  
+| bip_39_word_space_11 | drastic gift endorse search suffer angle runway replace ribbon labor require |  
+| bip_39_word_space_12 | drastic gift endorse search suffer angle runway replace ribbon labor require aspect |  
+| bip_39_word_space_2 | drastic gift |  
+| bip_39_word_space_3 | drastic gift endorse |  
+| bip_39_word_space_4 | drastic gift endorse search |  
+| bip_39_word_space_5 | drastic gift endorse search suffer |  
+| bip_39_word_space_6 | drastic gift endorse search suffer angle |  
+| bip_39_word_space_7 | drastic gift endorse search suffer angle runway |  
+| bip_39_word_space_8 | drastic gift endorse search suffer angle runway replace |  
+| bip_39_word_space_9 | drastic gift endorse search suffer angle runway replace ribbon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

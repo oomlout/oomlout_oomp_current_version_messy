@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: emotion pole
+  * bip 39 word 3: emotion pole deliver
+  * bip 39 word: emotion pole deliver can artist arctic trip grab strike brain rifle auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | emotion |  
+| bip_39_word_new_br10 | emotion<br>pole<br>deliver<br>can<br>artist<br>arctic<br>trip<br>grab<br>strike<br>brain |  
+| bip_39_word_new_br11 | emotion<br>pole<br>deliver<br>can<br>artist<br>arctic<br>trip<br>grab<br>strike<br>brain<br>rifle |  
+| bip_39_word_new_br12 | emotion<br>pole<br>deliver<br>can<br>artist<br>arctic<br>trip<br>grab<br>strike<br>brain<br>rifle<br>auto |  
+| bip_39_word_new_br2 | emotion<br>pole |  
+| bip_39_word_new_br3 | emotion<br>pole<br>deliver |  
+| bip_39_word_new_br4 | emotion<br>pole<br>deliver<br>can |  
+| bip_39_word_new_br5 | emotion<br>pole<br>deliver<br>can<br>artist |  
+| bip_39_word_new_br6 | emotion<br>pole<br>deliver<br>can<br>artist<br>arctic |  
+| bip_39_word_new_br7 | emotion<br>pole<br>deliver<br>can<br>artist<br>arctic<br>trip |  
+| bip_39_word_new_br8 | emotion<br>pole<br>deliver<br>can<br>artist<br>arctic<br>trip<br>grab |  
+| bip_39_word_new_br9 | emotion<br>pole<br>deliver<br>can<br>artist<br>arctic<br>trip<br>grab<br>strike |  
+| bip_39_word_new_line1 | emotion |  
+| bip_39_word_new_line10 | emotion
+pole
+deliver
+can
+artist
+arctic
+trip
+grab
+strike
+brain |  
+| bip_39_word_new_line11 | emotion
+pole
+deliver
+can
+artist
+arctic
+trip
+grab
+strike
+brain
+rifle |  
+| bip_39_word_new_line12 | emotion
+pole
+deliver
+can
+artist
+arctic
+trip
+grab
+strike
+brain
+rifle
+auto |  
+| bip_39_word_new_line2 | emotion
+pole |  
+| bip_39_word_new_line3 | emotion
+pole
+deliver |  
+| bip_39_word_new_line4 | emotion
+pole
+deliver
+can |  
+| bip_39_word_new_line5 | emotion
+pole
+deliver
+can
+artist |  
+| bip_39_word_new_line6 | emotion
+pole
+deliver
+can
+artist
+arctic |  
+| bip_39_word_new_line7 | emotion
+pole
+deliver
+can
+artist
+arctic
+trip |  
+| bip_39_word_new_line8 | emotion
+pole
+deliver
+can
+artist
+arctic
+trip
+grab |  
+| bip_39_word_new_line9 | emotion
+pole
+deliver
+can
+artist
+arctic
+trip
+grab
+strike |  
+| bip_39_word_space_0 | ['emotion', 'pole', 'deliver', 'can', 'artist', 'arctic', 'trip', 'grab', 'strike', 'brain', 'rifle', 'auto'] |  
+| bip_39_word_space_1 | emotion |  
+| bip_39_word_space_10 | emotion pole deliver can artist arctic trip grab strike brain |  
+| bip_39_word_space_11 | emotion pole deliver can artist arctic trip grab strike brain rifle |  
+| bip_39_word_space_12 | emotion pole deliver can artist arctic trip grab strike brain rifle auto |  
+| bip_39_word_space_2 | emotion pole |  
+| bip_39_word_space_3 | emotion pole deliver |  
+| bip_39_word_space_4 | emotion pole deliver can |  
+| bip_39_word_space_5 | emotion pole deliver can artist |  
+| bip_39_word_space_6 | emotion pole deliver can artist arctic |  
+| bip_39_word_space_7 | emotion pole deliver can artist arctic trip |  
+| bip_39_word_space_8 | emotion pole deliver can artist arctic trip grab |  
+| bip_39_word_space_9 | emotion pole deliver can artist arctic trip grab strike |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

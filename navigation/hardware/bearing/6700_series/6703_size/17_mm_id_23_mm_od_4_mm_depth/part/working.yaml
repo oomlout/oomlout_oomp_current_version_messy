@@ -1,3 +1,187 @@
+bip_39_word_new_br1: anchor
+bip_39_word_new_br10: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary<br>appear<br>say<br>vintage<br>vault
+bip_39_word_new_br11: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary<br>appear<br>say<br>vintage<br>vault<br>hill
+bip_39_word_new_br12: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary<br>appear<br>say<br>vintage<br>vault<br>hill<br>any
+bip_39_word_new_br2: anchor<br>pony
+bip_39_word_new_br3: anchor<br>pony<br>chunk
+bip_39_word_new_br4: anchor<br>pony<br>chunk<br>wrist
+bip_39_word_new_br5: anchor<br>pony<br>chunk<br>wrist<br>similar
+bip_39_word_new_br6: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary
+bip_39_word_new_br7: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary<br>appear
+bip_39_word_new_br8: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary<br>appear<br>say
+bip_39_word_new_br9: anchor<br>pony<br>chunk<br>wrist<br>similar<br>ordinary<br>appear<br>say<br>vintage
+bip_39_word_new_line1: anchor
+bip_39_word_new_line10: 'anchor
+
+  pony
+
+  chunk
+
+  wrist
+
+  similar
+
+  ordinary
+
+  appear
+
+  say
+
+  vintage
+
+  vault'
+bip_39_word_new_line11: 'anchor
+
+  pony
+
+  chunk
+
+  wrist
+
+  similar
+
+  ordinary
+
+  appear
+
+  say
+
+  vintage
+
+  vault
+
+  hill'
+bip_39_word_new_line12: 'anchor
+
+  pony
+
+  chunk
+
+  wrist
+
+  similar
+
+  ordinary
+
+  appear
+
+  say
+
+  vintage
+
+  vault
+
+  hill
+
+  any'
+bip_39_word_new_line2: 'anchor
+
+  pony'
+bip_39_word_new_line3: 'anchor
+
+  pony
+
+  chunk'
+bip_39_word_new_line4: 'anchor
+
+  pony
+
+  chunk
+
+  wrist'
+bip_39_word_new_line5: 'anchor
+
+  pony
+
+  chunk
+
+  wrist
+
+  similar'
+bip_39_word_new_line6: 'anchor
+
+  pony
+
+  chunk
+
+  wrist
+
+  similar
+
+  ordinary'
+bip_39_word_new_line7: 'anchor
+
+  pony
+
+  chunk
+
+  wrist
+
+  similar
+
+  ordinary
+
+  appear'
+bip_39_word_new_line8: 'anchor
+
+  pony
+
+  chunk
+
+  wrist
+
+  similar
+
+  ordinary
+
+  appear
+
+  say'
+bip_39_word_new_line9: 'anchor
+
+  pony
+
+  chunk
+
+  wrist
+
+  similar
+
+  ordinary
+
+  appear
+
+  say
+
+  vintage'
+bip_39_word_space_0:
+- anchor
+- pony
+- chunk
+- wrist
+- similar
+- ordinary
+- appear
+- say
+- vintage
+- vault
+- hill
+- any
+bip_39_word_space_1: anchor
+bip_39_word_space_10: anchor pony chunk wrist similar ordinary appear say vintage
+  vault
+bip_39_word_space_11: anchor pony chunk wrist similar ordinary appear say vintage
+  vault hill
+bip_39_word_space_12: anchor pony chunk wrist similar ordinary appear say vintage
+  vault hill any
+bip_39_word_space_2: anchor pony
+bip_39_word_space_3: anchor pony chunk
+bip_39_word_space_4: anchor pony chunk wrist
+bip_39_word_space_5: anchor pony chunk wrist similar
+bip_39_word_space_6: anchor pony chunk wrist similar ordinary
+bip_39_word_space_7: anchor pony chunk wrist similar ordinary appear
+bip_39_word_space_8: anchor pony chunk wrist similar ordinary appear say
+bip_39_word_space_9: anchor pony chunk wrist similar ordinary appear say vintage
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: net detect
+  * bip 39 word 3: net detect vacant
+  * bip 39 word: net detect vacant dilemma grid gas spirit wave crisp merry father again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | net |  
+| bip_39_word_new_br10 | net<br>detect<br>vacant<br>dilemma<br>grid<br>gas<br>spirit<br>wave<br>crisp<br>merry |  
+| bip_39_word_new_br11 | net<br>detect<br>vacant<br>dilemma<br>grid<br>gas<br>spirit<br>wave<br>crisp<br>merry<br>father |  
+| bip_39_word_new_br12 | net<br>detect<br>vacant<br>dilemma<br>grid<br>gas<br>spirit<br>wave<br>crisp<br>merry<br>father<br>again |  
+| bip_39_word_new_br2 | net<br>detect |  
+| bip_39_word_new_br3 | net<br>detect<br>vacant |  
+| bip_39_word_new_br4 | net<br>detect<br>vacant<br>dilemma |  
+| bip_39_word_new_br5 | net<br>detect<br>vacant<br>dilemma<br>grid |  
+| bip_39_word_new_br6 | net<br>detect<br>vacant<br>dilemma<br>grid<br>gas |  
+| bip_39_word_new_br7 | net<br>detect<br>vacant<br>dilemma<br>grid<br>gas<br>spirit |  
+| bip_39_word_new_br8 | net<br>detect<br>vacant<br>dilemma<br>grid<br>gas<br>spirit<br>wave |  
+| bip_39_word_new_br9 | net<br>detect<br>vacant<br>dilemma<br>grid<br>gas<br>spirit<br>wave<br>crisp |  
+| bip_39_word_new_line1 | net |  
+| bip_39_word_new_line10 | net
+detect
+vacant
+dilemma
+grid
+gas
+spirit
+wave
+crisp
+merry |  
+| bip_39_word_new_line11 | net
+detect
+vacant
+dilemma
+grid
+gas
+spirit
+wave
+crisp
+merry
+father |  
+| bip_39_word_new_line12 | net
+detect
+vacant
+dilemma
+grid
+gas
+spirit
+wave
+crisp
+merry
+father
+again |  
+| bip_39_word_new_line2 | net
+detect |  
+| bip_39_word_new_line3 | net
+detect
+vacant |  
+| bip_39_word_new_line4 | net
+detect
+vacant
+dilemma |  
+| bip_39_word_new_line5 | net
+detect
+vacant
+dilemma
+grid |  
+| bip_39_word_new_line6 | net
+detect
+vacant
+dilemma
+grid
+gas |  
+| bip_39_word_new_line7 | net
+detect
+vacant
+dilemma
+grid
+gas
+spirit |  
+| bip_39_word_new_line8 | net
+detect
+vacant
+dilemma
+grid
+gas
+spirit
+wave |  
+| bip_39_word_new_line9 | net
+detect
+vacant
+dilemma
+grid
+gas
+spirit
+wave
+crisp |  
+| bip_39_word_space_0 | ['net', 'detect', 'vacant', 'dilemma', 'grid', 'gas', 'spirit', 'wave', 'crisp', 'merry', 'father', 'again'] |  
+| bip_39_word_space_1 | net |  
+| bip_39_word_space_10 | net detect vacant dilemma grid gas spirit wave crisp merry |  
+| bip_39_word_space_11 | net detect vacant dilemma grid gas spirit wave crisp merry father |  
+| bip_39_word_space_12 | net detect vacant dilemma grid gas spirit wave crisp merry father again |  
+| bip_39_word_space_2 | net detect |  
+| bip_39_word_space_3 | net detect vacant |  
+| bip_39_word_space_4 | net detect vacant dilemma |  
+| bip_39_word_space_5 | net detect vacant dilemma grid |  
+| bip_39_word_space_6 | net detect vacant dilemma grid gas |  
+| bip_39_word_space_7 | net detect vacant dilemma grid gas spirit |  
+| bip_39_word_space_8 | net detect vacant dilemma grid gas spirit wave |  
+| bip_39_word_space_9 | net detect vacant dilemma grid gas spirit wave crisp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

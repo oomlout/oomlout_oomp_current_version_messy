@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alley panic
+  * bip 39 word 3: alley panic tornado
+  * bip 39 word: alley panic tornado eagle ticket alpha acid immune keen antenna stick action
 
 ### other_codes
 * short_code: br675
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alley |  
+| bip_39_word_new_br10 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha<br>acid<br>immune<br>keen<br>antenna |  
+| bip_39_word_new_br11 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha<br>acid<br>immune<br>keen<br>antenna<br>stick |  
+| bip_39_word_new_br12 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha<br>acid<br>immune<br>keen<br>antenna<br>stick<br>action |  
+| bip_39_word_new_br2 | alley<br>panic |  
+| bip_39_word_new_br3 | alley<br>panic<br>tornado |  
+| bip_39_word_new_br4 | alley<br>panic<br>tornado<br>eagle |  
+| bip_39_word_new_br5 | alley<br>panic<br>tornado<br>eagle<br>ticket |  
+| bip_39_word_new_br6 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha |  
+| bip_39_word_new_br7 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha<br>acid |  
+| bip_39_word_new_br8 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha<br>acid<br>immune |  
+| bip_39_word_new_br9 | alley<br>panic<br>tornado<br>eagle<br>ticket<br>alpha<br>acid<br>immune<br>keen |  
+| bip_39_word_new_line1 | alley |  
+| bip_39_word_new_line10 | alley
+panic
+tornado
+eagle
+ticket
+alpha
+acid
+immune
+keen
+antenna |  
+| bip_39_word_new_line11 | alley
+panic
+tornado
+eagle
+ticket
+alpha
+acid
+immune
+keen
+antenna
+stick |  
+| bip_39_word_new_line12 | alley
+panic
+tornado
+eagle
+ticket
+alpha
+acid
+immune
+keen
+antenna
+stick
+action |  
+| bip_39_word_new_line2 | alley
+panic |  
+| bip_39_word_new_line3 | alley
+panic
+tornado |  
+| bip_39_word_new_line4 | alley
+panic
+tornado
+eagle |  
+| bip_39_word_new_line5 | alley
+panic
+tornado
+eagle
+ticket |  
+| bip_39_word_new_line6 | alley
+panic
+tornado
+eagle
+ticket
+alpha |  
+| bip_39_word_new_line7 | alley
+panic
+tornado
+eagle
+ticket
+alpha
+acid |  
+| bip_39_word_new_line8 | alley
+panic
+tornado
+eagle
+ticket
+alpha
+acid
+immune |  
+| bip_39_word_new_line9 | alley
+panic
+tornado
+eagle
+ticket
+alpha
+acid
+immune
+keen |  
+| bip_39_word_space_0 | ['alley', 'panic', 'tornado', 'eagle', 'ticket', 'alpha', 'acid', 'immune', 'keen', 'antenna', 'stick', 'action'] |  
+| bip_39_word_space_1 | alley |  
+| bip_39_word_space_10 | alley panic tornado eagle ticket alpha acid immune keen antenna |  
+| bip_39_word_space_11 | alley panic tornado eagle ticket alpha acid immune keen antenna stick |  
+| bip_39_word_space_12 | alley panic tornado eagle ticket alpha acid immune keen antenna stick action |  
+| bip_39_word_space_2 | alley panic |  
+| bip_39_word_space_3 | alley panic tornado |  
+| bip_39_word_space_4 | alley panic tornado eagle |  
+| bip_39_word_space_5 | alley panic tornado eagle ticket |  
+| bip_39_word_space_6 | alley panic tornado eagle ticket alpha |  
+| bip_39_word_space_7 | alley panic tornado eagle ticket alpha acid |  
+| bip_39_word_space_8 | alley panic tornado eagle ticket alpha acid immune |  
+| bip_39_word_space_9 | alley panic tornado eagle ticket alpha acid immune keen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

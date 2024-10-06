@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nominee leaf
+  * bip 39 word 3: nominee leaf foot
+  * bip 39 word: nominee leaf foot offer plastic hawk sorry ahead own banner gadget age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nominee |  
+| bip_39_word_new_br10 | nominee<br>leaf<br>foot<br>offer<br>plastic<br>hawk<br>sorry<br>ahead<br>own<br>banner |  
+| bip_39_word_new_br11 | nominee<br>leaf<br>foot<br>offer<br>plastic<br>hawk<br>sorry<br>ahead<br>own<br>banner<br>gadget |  
+| bip_39_word_new_br12 | nominee<br>leaf<br>foot<br>offer<br>plastic<br>hawk<br>sorry<br>ahead<br>own<br>banner<br>gadget<br>age |  
+| bip_39_word_new_br2 | nominee<br>leaf |  
+| bip_39_word_new_br3 | nominee<br>leaf<br>foot |  
+| bip_39_word_new_br4 | nominee<br>leaf<br>foot<br>offer |  
+| bip_39_word_new_br5 | nominee<br>leaf<br>foot<br>offer<br>plastic |  
+| bip_39_word_new_br6 | nominee<br>leaf<br>foot<br>offer<br>plastic<br>hawk |  
+| bip_39_word_new_br7 | nominee<br>leaf<br>foot<br>offer<br>plastic<br>hawk<br>sorry |  
+| bip_39_word_new_br8 | nominee<br>leaf<br>foot<br>offer<br>plastic<br>hawk<br>sorry<br>ahead |  
+| bip_39_word_new_br9 | nominee<br>leaf<br>foot<br>offer<br>plastic<br>hawk<br>sorry<br>ahead<br>own |  
+| bip_39_word_new_line1 | nominee |  
+| bip_39_word_new_line10 | nominee
+leaf
+foot
+offer
+plastic
+hawk
+sorry
+ahead
+own
+banner |  
+| bip_39_word_new_line11 | nominee
+leaf
+foot
+offer
+plastic
+hawk
+sorry
+ahead
+own
+banner
+gadget |  
+| bip_39_word_new_line12 | nominee
+leaf
+foot
+offer
+plastic
+hawk
+sorry
+ahead
+own
+banner
+gadget
+age |  
+| bip_39_word_new_line2 | nominee
+leaf |  
+| bip_39_word_new_line3 | nominee
+leaf
+foot |  
+| bip_39_word_new_line4 | nominee
+leaf
+foot
+offer |  
+| bip_39_word_new_line5 | nominee
+leaf
+foot
+offer
+plastic |  
+| bip_39_word_new_line6 | nominee
+leaf
+foot
+offer
+plastic
+hawk |  
+| bip_39_word_new_line7 | nominee
+leaf
+foot
+offer
+plastic
+hawk
+sorry |  
+| bip_39_word_new_line8 | nominee
+leaf
+foot
+offer
+plastic
+hawk
+sorry
+ahead |  
+| bip_39_word_new_line9 | nominee
+leaf
+foot
+offer
+plastic
+hawk
+sorry
+ahead
+own |  
+| bip_39_word_space_0 | ['nominee', 'leaf', 'foot', 'offer', 'plastic', 'hawk', 'sorry', 'ahead', 'own', 'banner', 'gadget', 'age'] |  
+| bip_39_word_space_1 | nominee |  
+| bip_39_word_space_10 | nominee leaf foot offer plastic hawk sorry ahead own banner |  
+| bip_39_word_space_11 | nominee leaf foot offer plastic hawk sorry ahead own banner gadget |  
+| bip_39_word_space_12 | nominee leaf foot offer plastic hawk sorry ahead own banner gadget age |  
+| bip_39_word_space_2 | nominee leaf |  
+| bip_39_word_space_3 | nominee leaf foot |  
+| bip_39_word_space_4 | nominee leaf foot offer |  
+| bip_39_word_space_5 | nominee leaf foot offer plastic |  
+| bip_39_word_space_6 | nominee leaf foot offer plastic hawk |  
+| bip_39_word_space_7 | nominee leaf foot offer plastic hawk sorry |  
+| bip_39_word_space_8 | nominee leaf foot offer plastic hawk sorry ahead |  
+| bip_39_word_space_9 | nominee leaf foot offer plastic hawk sorry ahead own |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

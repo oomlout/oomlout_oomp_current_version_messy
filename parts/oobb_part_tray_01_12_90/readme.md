@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tide play
+  * bip 39 word 3: tide play soda
+  * bip 39 word: tide play soda interest lamp armed promote team lottery alter odor ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tide |  
+| bip_39_word_new_br10 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter |  
+| bip_39_word_new_br11 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter<br>odor |  
+| bip_39_word_new_br12 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery<br>alter<br>odor<br>ability |  
+| bip_39_word_new_br2 | tide<br>play |  
+| bip_39_word_new_br3 | tide<br>play<br>soda |  
+| bip_39_word_new_br4 | tide<br>play<br>soda<br>interest |  
+| bip_39_word_new_br5 | tide<br>play<br>soda<br>interest<br>lamp |  
+| bip_39_word_new_br6 | tide<br>play<br>soda<br>interest<br>lamp<br>armed |  
+| bip_39_word_new_br7 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote |  
+| bip_39_word_new_br8 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team |  
+| bip_39_word_new_br9 | tide<br>play<br>soda<br>interest<br>lamp<br>armed<br>promote<br>team<br>lottery |  
+| bip_39_word_new_line1 | tide |  
+| bip_39_word_new_line10 | tide
+play
+soda
+interest
+lamp
+armed
+promote
+team
+lottery
+alter |  
+| bip_39_word_new_line11 | tide
+play
+soda
+interest
+lamp
+armed
+promote
+team
+lottery
+alter
+odor |  
+| bip_39_word_new_line12 | tide
+play
+soda
+interest
+lamp
+armed
+promote
+team
+lottery
+alter
+odor
+ability |  
+| bip_39_word_new_line2 | tide
+play |  
+| bip_39_word_new_line3 | tide
+play
+soda |  
+| bip_39_word_new_line4 | tide
+play
+soda
+interest |  
+| bip_39_word_new_line5 | tide
+play
+soda
+interest
+lamp |  
+| bip_39_word_new_line6 | tide
+play
+soda
+interest
+lamp
+armed |  
+| bip_39_word_new_line7 | tide
+play
+soda
+interest
+lamp
+armed
+promote |  
+| bip_39_word_new_line8 | tide
+play
+soda
+interest
+lamp
+armed
+promote
+team |  
+| bip_39_word_new_line9 | tide
+play
+soda
+interest
+lamp
+armed
+promote
+team
+lottery |  
+| bip_39_word_space_0 | ['tide', 'play', 'soda', 'interest', 'lamp', 'armed', 'promote', 'team', 'lottery', 'alter', 'odor', 'ability'] |  
+| bip_39_word_space_1 | tide |  
+| bip_39_word_space_10 | tide play soda interest lamp armed promote team lottery alter |  
+| bip_39_word_space_11 | tide play soda interest lamp armed promote team lottery alter odor |  
+| bip_39_word_space_12 | tide play soda interest lamp armed promote team lottery alter odor ability |  
+| bip_39_word_space_2 | tide play |  
+| bip_39_word_space_3 | tide play soda |  
+| bip_39_word_space_4 | tide play soda interest |  
+| bip_39_word_space_5 | tide play soda interest lamp |  
+| bip_39_word_space_6 | tide play soda interest lamp armed |  
+| bip_39_word_space_7 | tide play soda interest lamp armed promote |  
+| bip_39_word_space_8 | tide play soda interest lamp armed promote team |  
+| bip_39_word_space_9 | tide play soda interest lamp armed promote team lottery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

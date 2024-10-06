@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: electronic_battery_box_aa_battery_4_cell
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: item mother
+  * bip 39 word 3: item mother leisure
+  * bip 39 word: item mother leisure oak account suspect ensure shine parent warfare march aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | item |  
+| bip_39_word_new_br10 | item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare |  
+| bip_39_word_new_br11 | item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare<br>march |  
+| bip_39_word_new_br12 | item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent<br>warfare<br>march<br>aerobic |  
+| bip_39_word_new_br2 | item<br>mother |  
+| bip_39_word_new_br3 | item<br>mother<br>leisure |  
+| bip_39_word_new_br4 | item<br>mother<br>leisure<br>oak |  
+| bip_39_word_new_br5 | item<br>mother<br>leisure<br>oak<br>account |  
+| bip_39_word_new_br6 | item<br>mother<br>leisure<br>oak<br>account<br>suspect |  
+| bip_39_word_new_br7 | item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure |  
+| bip_39_word_new_br8 | item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine |  
+| bip_39_word_new_br9 | item<br>mother<br>leisure<br>oak<br>account<br>suspect<br>ensure<br>shine<br>parent |  
+| bip_39_word_new_line1 | item |  
+| bip_39_word_new_line10 | item
+mother
+leisure
+oak
+account
+suspect
+ensure
+shine
+parent
+warfare |  
+| bip_39_word_new_line11 | item
+mother
+leisure
+oak
+account
+suspect
+ensure
+shine
+parent
+warfare
+march |  
+| bip_39_word_new_line12 | item
+mother
+leisure
+oak
+account
+suspect
+ensure
+shine
+parent
+warfare
+march
+aerobic |  
+| bip_39_word_new_line2 | item
+mother |  
+| bip_39_word_new_line3 | item
+mother
+leisure |  
+| bip_39_word_new_line4 | item
+mother
+leisure
+oak |  
+| bip_39_word_new_line5 | item
+mother
+leisure
+oak
+account |  
+| bip_39_word_new_line6 | item
+mother
+leisure
+oak
+account
+suspect |  
+| bip_39_word_new_line7 | item
+mother
+leisure
+oak
+account
+suspect
+ensure |  
+| bip_39_word_new_line8 | item
+mother
+leisure
+oak
+account
+suspect
+ensure
+shine |  
+| bip_39_word_new_line9 | item
+mother
+leisure
+oak
+account
+suspect
+ensure
+shine
+parent |  
+| bip_39_word_space_0 | ['item', 'mother', 'leisure', 'oak', 'account', 'suspect', 'ensure', 'shine', 'parent', 'warfare', 'march', 'aerobic'] |  
+| bip_39_word_space_1 | item |  
+| bip_39_word_space_10 | item mother leisure oak account suspect ensure shine parent warfare |  
+| bip_39_word_space_11 | item mother leisure oak account suspect ensure shine parent warfare march |  
+| bip_39_word_space_12 | item mother leisure oak account suspect ensure shine parent warfare march aerobic |  
+| bip_39_word_space_2 | item mother |  
+| bip_39_word_space_3 | item mother leisure |  
+| bip_39_word_space_4 | item mother leisure oak |  
+| bip_39_word_space_5 | item mother leisure oak account |  
+| bip_39_word_space_6 | item mother leisure oak account suspect |  
+| bip_39_word_space_7 | item mother leisure oak account suspect ensure |  
+| bip_39_word_space_8 | item mother leisure oak account suspect ensure shine |  
+| bip_39_word_space_9 | item mother leisure oak account suspect ensure shine parent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

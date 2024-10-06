@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cement cousin
+  * bip 39 word 3: cement cousin thumb
+  * bip 39 word: cement cousin thumb food identify leopard spring release goddess exchange mandate auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cement |  
+| bip_39_word_new_br10 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard<br>spring<br>release<br>goddess<br>exchange |  
+| bip_39_word_new_br11 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard<br>spring<br>release<br>goddess<br>exchange<br>mandate |  
+| bip_39_word_new_br12 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard<br>spring<br>release<br>goddess<br>exchange<br>mandate<br>auction |  
+| bip_39_word_new_br2 | cement<br>cousin |  
+| bip_39_word_new_br3 | cement<br>cousin<br>thumb |  
+| bip_39_word_new_br4 | cement<br>cousin<br>thumb<br>food |  
+| bip_39_word_new_br5 | cement<br>cousin<br>thumb<br>food<br>identify |  
+| bip_39_word_new_br6 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard |  
+| bip_39_word_new_br7 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard<br>spring |  
+| bip_39_word_new_br8 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard<br>spring<br>release |  
+| bip_39_word_new_br9 | cement<br>cousin<br>thumb<br>food<br>identify<br>leopard<br>spring<br>release<br>goddess |  
+| bip_39_word_new_line1 | cement |  
+| bip_39_word_new_line10 | cement
+cousin
+thumb
+food
+identify
+leopard
+spring
+release
+goddess
+exchange |  
+| bip_39_word_new_line11 | cement
+cousin
+thumb
+food
+identify
+leopard
+spring
+release
+goddess
+exchange
+mandate |  
+| bip_39_word_new_line12 | cement
+cousin
+thumb
+food
+identify
+leopard
+spring
+release
+goddess
+exchange
+mandate
+auction |  
+| bip_39_word_new_line2 | cement
+cousin |  
+| bip_39_word_new_line3 | cement
+cousin
+thumb |  
+| bip_39_word_new_line4 | cement
+cousin
+thumb
+food |  
+| bip_39_word_new_line5 | cement
+cousin
+thumb
+food
+identify |  
+| bip_39_word_new_line6 | cement
+cousin
+thumb
+food
+identify
+leopard |  
+| bip_39_word_new_line7 | cement
+cousin
+thumb
+food
+identify
+leopard
+spring |  
+| bip_39_word_new_line8 | cement
+cousin
+thumb
+food
+identify
+leopard
+spring
+release |  
+| bip_39_word_new_line9 | cement
+cousin
+thumb
+food
+identify
+leopard
+spring
+release
+goddess |  
+| bip_39_word_space_0 | ['cement', 'cousin', 'thumb', 'food', 'identify', 'leopard', 'spring', 'release', 'goddess', 'exchange', 'mandate', 'auction'] |  
+| bip_39_word_space_1 | cement |  
+| bip_39_word_space_10 | cement cousin thumb food identify leopard spring release goddess exchange |  
+| bip_39_word_space_11 | cement cousin thumb food identify leopard spring release goddess exchange mandate |  
+| bip_39_word_space_12 | cement cousin thumb food identify leopard spring release goddess exchange mandate auction |  
+| bip_39_word_space_2 | cement cousin |  
+| bip_39_word_space_3 | cement cousin thumb |  
+| bip_39_word_space_4 | cement cousin thumb food |  
+| bip_39_word_space_5 | cement cousin thumb food identify |  
+| bip_39_word_space_6 | cement cousin thumb food identify leopard |  
+| bip_39_word_space_7 | cement cousin thumb food identify leopard spring |  
+| bip_39_word_space_8 | cement cousin thumb food identify leopard spring release |  
+| bip_39_word_space_9 | cement cousin thumb food identify leopard spring release goddess |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

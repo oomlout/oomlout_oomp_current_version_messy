@@ -1,3 +1,187 @@
+bip_39_word_new_br1: clinic
+bip_39_word_new_br10: clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem<br>arch<br>gravity<br>inform<br>stage
+bip_39_word_new_br11: clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem<br>arch<br>gravity<br>inform<br>stage<br>install
+bip_39_word_new_br12: clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem<br>arch<br>gravity<br>inform<br>stage<br>install<br>arm
+bip_39_word_new_br2: clinic<br>aerobic
+bip_39_word_new_br3: clinic<br>aerobic<br>quick
+bip_39_word_new_br4: clinic<br>aerobic<br>quick<br>arena
+bip_39_word_new_br5: clinic<br>aerobic<br>quick<br>arena<br>bicycle
+bip_39_word_new_br6: clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem
+bip_39_word_new_br7: clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem<br>arch
+bip_39_word_new_br8: clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem<br>arch<br>gravity
+bip_39_word_new_br9: clinic<br>aerobic<br>quick<br>arena<br>bicycle<br>problem<br>arch<br>gravity<br>inform
+bip_39_word_new_line1: clinic
+bip_39_word_new_line10: 'clinic
+
+  aerobic
+
+  quick
+
+  arena
+
+  bicycle
+
+  problem
+
+  arch
+
+  gravity
+
+  inform
+
+  stage'
+bip_39_word_new_line11: 'clinic
+
+  aerobic
+
+  quick
+
+  arena
+
+  bicycle
+
+  problem
+
+  arch
+
+  gravity
+
+  inform
+
+  stage
+
+  install'
+bip_39_word_new_line12: 'clinic
+
+  aerobic
+
+  quick
+
+  arena
+
+  bicycle
+
+  problem
+
+  arch
+
+  gravity
+
+  inform
+
+  stage
+
+  install
+
+  arm'
+bip_39_word_new_line2: 'clinic
+
+  aerobic'
+bip_39_word_new_line3: 'clinic
+
+  aerobic
+
+  quick'
+bip_39_word_new_line4: 'clinic
+
+  aerobic
+
+  quick
+
+  arena'
+bip_39_word_new_line5: 'clinic
+
+  aerobic
+
+  quick
+
+  arena
+
+  bicycle'
+bip_39_word_new_line6: 'clinic
+
+  aerobic
+
+  quick
+
+  arena
+
+  bicycle
+
+  problem'
+bip_39_word_new_line7: 'clinic
+
+  aerobic
+
+  quick
+
+  arena
+
+  bicycle
+
+  problem
+
+  arch'
+bip_39_word_new_line8: 'clinic
+
+  aerobic
+
+  quick
+
+  arena
+
+  bicycle
+
+  problem
+
+  arch
+
+  gravity'
+bip_39_word_new_line9: 'clinic
+
+  aerobic
+
+  quick
+
+  arena
+
+  bicycle
+
+  problem
+
+  arch
+
+  gravity
+
+  inform'
+bip_39_word_space_0:
+- clinic
+- aerobic
+- quick
+- arena
+- bicycle
+- problem
+- arch
+- gravity
+- inform
+- stage
+- install
+- arm
+bip_39_word_space_1: clinic
+bip_39_word_space_10: clinic aerobic quick arena bicycle problem arch gravity inform
+  stage
+bip_39_word_space_11: clinic aerobic quick arena bicycle problem arch gravity inform
+  stage install
+bip_39_word_space_12: clinic aerobic quick arena bicycle problem arch gravity inform
+  stage install arm
+bip_39_word_space_2: clinic aerobic
+bip_39_word_space_3: clinic aerobic quick
+bip_39_word_space_4: clinic aerobic quick arena
+bip_39_word_space_5: clinic aerobic quick arena bicycle
+bip_39_word_space_6: clinic aerobic quick arena bicycle problem
+bip_39_word_space_7: clinic aerobic quick arena bicycle problem arch
+bip_39_word_space_8: clinic aerobic quick arena bicycle problem arch gravity
+bip_39_word_space_9: clinic aerobic quick arena bicycle problem arch gravity inform
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

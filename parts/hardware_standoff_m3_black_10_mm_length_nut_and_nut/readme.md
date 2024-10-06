@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pizza fabric
+  * bip 39 word 3: pizza fabric lesson
+  * bip 39 word: pizza fabric lesson topic artefact family radar cricket crater spoil perfect album
 
 ### other_codes
 * short_code: so3b10nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pizza |  
+| bip_39_word_new_br10 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family<br>radar<br>cricket<br>crater<br>spoil |  
+| bip_39_word_new_br11 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family<br>radar<br>cricket<br>crater<br>spoil<br>perfect |  
+| bip_39_word_new_br12 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family<br>radar<br>cricket<br>crater<br>spoil<br>perfect<br>album |  
+| bip_39_word_new_br2 | pizza<br>fabric |  
+| bip_39_word_new_br3 | pizza<br>fabric<br>lesson |  
+| bip_39_word_new_br4 | pizza<br>fabric<br>lesson<br>topic |  
+| bip_39_word_new_br5 | pizza<br>fabric<br>lesson<br>topic<br>artefact |  
+| bip_39_word_new_br6 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family |  
+| bip_39_word_new_br7 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family<br>radar |  
+| bip_39_word_new_br8 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family<br>radar<br>cricket |  
+| bip_39_word_new_br9 | pizza<br>fabric<br>lesson<br>topic<br>artefact<br>family<br>radar<br>cricket<br>crater |  
+| bip_39_word_new_line1 | pizza |  
+| bip_39_word_new_line10 | pizza
+fabric
+lesson
+topic
+artefact
+family
+radar
+cricket
+crater
+spoil |  
+| bip_39_word_new_line11 | pizza
+fabric
+lesson
+topic
+artefact
+family
+radar
+cricket
+crater
+spoil
+perfect |  
+| bip_39_word_new_line12 | pizza
+fabric
+lesson
+topic
+artefact
+family
+radar
+cricket
+crater
+spoil
+perfect
+album |  
+| bip_39_word_new_line2 | pizza
+fabric |  
+| bip_39_word_new_line3 | pizza
+fabric
+lesson |  
+| bip_39_word_new_line4 | pizza
+fabric
+lesson
+topic |  
+| bip_39_word_new_line5 | pizza
+fabric
+lesson
+topic
+artefact |  
+| bip_39_word_new_line6 | pizza
+fabric
+lesson
+topic
+artefact
+family |  
+| bip_39_word_new_line7 | pizza
+fabric
+lesson
+topic
+artefact
+family
+radar |  
+| bip_39_word_new_line8 | pizza
+fabric
+lesson
+topic
+artefact
+family
+radar
+cricket |  
+| bip_39_word_new_line9 | pizza
+fabric
+lesson
+topic
+artefact
+family
+radar
+cricket
+crater |  
+| bip_39_word_space_0 | ['pizza', 'fabric', 'lesson', 'topic', 'artefact', 'family', 'radar', 'cricket', 'crater', 'spoil', 'perfect', 'album'] |  
+| bip_39_word_space_1 | pizza |  
+| bip_39_word_space_10 | pizza fabric lesson topic artefact family radar cricket crater spoil |  
+| bip_39_word_space_11 | pizza fabric lesson topic artefact family radar cricket crater spoil perfect |  
+| bip_39_word_space_12 | pizza fabric lesson topic artefact family radar cricket crater spoil perfect album |  
+| bip_39_word_space_2 | pizza fabric |  
+| bip_39_word_space_3 | pizza fabric lesson |  
+| bip_39_word_space_4 | pizza fabric lesson topic |  
+| bip_39_word_space_5 | pizza fabric lesson topic artefact |  
+| bip_39_word_space_6 | pizza fabric lesson topic artefact family |  
+| bip_39_word_space_7 | pizza fabric lesson topic artefact family radar |  
+| bip_39_word_space_8 | pizza fabric lesson topic artefact family radar cricket |  
+| bip_39_word_space_9 | pizza fabric lesson topic artefact family radar cricket crater |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

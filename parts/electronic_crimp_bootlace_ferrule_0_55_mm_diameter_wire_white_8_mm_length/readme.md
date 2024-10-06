@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clean once
+  * bip 39 word 3: clean once social
+  * bip 39 word: clean once social worry wisdom elbow engage clown spend polar have again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clean |  
+| bip_39_word_new_br10 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar |  
+| bip_39_word_new_br11 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar<br>have |  
+| bip_39_word_new_br12 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend<br>polar<br>have<br>again |  
+| bip_39_word_new_br2 | clean<br>once |  
+| bip_39_word_new_br3 | clean<br>once<br>social |  
+| bip_39_word_new_br4 | clean<br>once<br>social<br>worry |  
+| bip_39_word_new_br5 | clean<br>once<br>social<br>worry<br>wisdom |  
+| bip_39_word_new_br6 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow |  
+| bip_39_word_new_br7 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage |  
+| bip_39_word_new_br8 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown |  
+| bip_39_word_new_br9 | clean<br>once<br>social<br>worry<br>wisdom<br>elbow<br>engage<br>clown<br>spend |  
+| bip_39_word_new_line1 | clean |  
+| bip_39_word_new_line10 | clean
+once
+social
+worry
+wisdom
+elbow
+engage
+clown
+spend
+polar |  
+| bip_39_word_new_line11 | clean
+once
+social
+worry
+wisdom
+elbow
+engage
+clown
+spend
+polar
+have |  
+| bip_39_word_new_line12 | clean
+once
+social
+worry
+wisdom
+elbow
+engage
+clown
+spend
+polar
+have
+again |  
+| bip_39_word_new_line2 | clean
+once |  
+| bip_39_word_new_line3 | clean
+once
+social |  
+| bip_39_word_new_line4 | clean
+once
+social
+worry |  
+| bip_39_word_new_line5 | clean
+once
+social
+worry
+wisdom |  
+| bip_39_word_new_line6 | clean
+once
+social
+worry
+wisdom
+elbow |  
+| bip_39_word_new_line7 | clean
+once
+social
+worry
+wisdom
+elbow
+engage |  
+| bip_39_word_new_line8 | clean
+once
+social
+worry
+wisdom
+elbow
+engage
+clown |  
+| bip_39_word_new_line9 | clean
+once
+social
+worry
+wisdom
+elbow
+engage
+clown
+spend |  
+| bip_39_word_space_0 | ['clean', 'once', 'social', 'worry', 'wisdom', 'elbow', 'engage', 'clown', 'spend', 'polar', 'have', 'again'] |  
+| bip_39_word_space_1 | clean |  
+| bip_39_word_space_10 | clean once social worry wisdom elbow engage clown spend polar |  
+| bip_39_word_space_11 | clean once social worry wisdom elbow engage clown spend polar have |  
+| bip_39_word_space_12 | clean once social worry wisdom elbow engage clown spend polar have again |  
+| bip_39_word_space_2 | clean once |  
+| bip_39_word_space_3 | clean once social |  
+| bip_39_word_space_4 | clean once social worry |  
+| bip_39_word_space_5 | clean once social worry wisdom |  
+| bip_39_word_space_6 | clean once social worry wisdom elbow |  
+| bip_39_word_space_7 | clean once social worry wisdom elbow engage |  
+| bip_39_word_space_8 | clean once social worry wisdom elbow engage clown |  
+| bip_39_word_space_9 | clean once social worry wisdom elbow engage clown spend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

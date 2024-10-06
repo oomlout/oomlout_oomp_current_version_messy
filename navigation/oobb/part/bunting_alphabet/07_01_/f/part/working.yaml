@@ -1,3 +1,186 @@
+bip_39_word_new_br1: erosion
+bip_39_word_new_br10: erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce
+bip_39_word_new_br11: erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce<br>voyage
+bip_39_word_new_br12: erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later<br>reduce<br>voyage<br>alpha
+bip_39_word_new_br2: erosion<br>naive
+bip_39_word_new_br3: erosion<br>naive<br>crush
+bip_39_word_new_br4: erosion<br>naive<br>crush<br>health
+bip_39_word_new_br5: erosion<br>naive<br>crush<br>health<br>since
+bip_39_word_new_br6: erosion<br>naive<br>crush<br>health<br>since<br>earth
+bip_39_word_new_br7: erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest
+bip_39_word_new_br8: erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list
+bip_39_word_new_br9: erosion<br>naive<br>crush<br>health<br>since<br>earth<br>interest<br>list<br>later
+bip_39_word_new_line1: erosion
+bip_39_word_new_line10: 'erosion
+
+  naive
+
+  crush
+
+  health
+
+  since
+
+  earth
+
+  interest
+
+  list
+
+  later
+
+  reduce'
+bip_39_word_new_line11: 'erosion
+
+  naive
+
+  crush
+
+  health
+
+  since
+
+  earth
+
+  interest
+
+  list
+
+  later
+
+  reduce
+
+  voyage'
+bip_39_word_new_line12: 'erosion
+
+  naive
+
+  crush
+
+  health
+
+  since
+
+  earth
+
+  interest
+
+  list
+
+  later
+
+  reduce
+
+  voyage
+
+  alpha'
+bip_39_word_new_line2: 'erosion
+
+  naive'
+bip_39_word_new_line3: 'erosion
+
+  naive
+
+  crush'
+bip_39_word_new_line4: 'erosion
+
+  naive
+
+  crush
+
+  health'
+bip_39_word_new_line5: 'erosion
+
+  naive
+
+  crush
+
+  health
+
+  since'
+bip_39_word_new_line6: 'erosion
+
+  naive
+
+  crush
+
+  health
+
+  since
+
+  earth'
+bip_39_word_new_line7: 'erosion
+
+  naive
+
+  crush
+
+  health
+
+  since
+
+  earth
+
+  interest'
+bip_39_word_new_line8: 'erosion
+
+  naive
+
+  crush
+
+  health
+
+  since
+
+  earth
+
+  interest
+
+  list'
+bip_39_word_new_line9: 'erosion
+
+  naive
+
+  crush
+
+  health
+
+  since
+
+  earth
+
+  interest
+
+  list
+
+  later'
+bip_39_word_space_0:
+- erosion
+- naive
+- crush
+- health
+- since
+- earth
+- interest
+- list
+- later
+- reduce
+- voyage
+- alpha
+bip_39_word_space_1: erosion
+bip_39_word_space_10: erosion naive crush health since earth interest list later reduce
+bip_39_word_space_11: erosion naive crush health since earth interest list later reduce
+  voyage
+bip_39_word_space_12: erosion naive crush health since earth interest list later reduce
+  voyage alpha
+bip_39_word_space_2: erosion naive
+bip_39_word_space_3: erosion naive crush
+bip_39_word_space_4: erosion naive crush health
+bip_39_word_space_5: erosion naive crush health since
+bip_39_word_space_6: erosion naive crush health since earth
+bip_39_word_space_7: erosion naive crush health since earth interest
+bip_39_word_space_8: erosion naive crush health since earth interest list
+bip_39_word_space_9: erosion naive crush health since earth interest list later
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

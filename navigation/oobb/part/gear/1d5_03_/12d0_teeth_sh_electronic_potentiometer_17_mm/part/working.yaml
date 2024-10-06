@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nature
+bip_39_word_new_br10: nature<br>solution<br>cousin<br>recycle<br>art<br>share<br>fee<br>suit<br>drift<br>album
+bip_39_word_new_br11: nature<br>solution<br>cousin<br>recycle<br>art<br>share<br>fee<br>suit<br>drift<br>album<br>funny
+bip_39_word_new_br12: nature<br>solution<br>cousin<br>recycle<br>art<br>share<br>fee<br>suit<br>drift<br>album<br>funny<br>allow
+bip_39_word_new_br2: nature<br>solution
+bip_39_word_new_br3: nature<br>solution<br>cousin
+bip_39_word_new_br4: nature<br>solution<br>cousin<br>recycle
+bip_39_word_new_br5: nature<br>solution<br>cousin<br>recycle<br>art
+bip_39_word_new_br6: nature<br>solution<br>cousin<br>recycle<br>art<br>share
+bip_39_word_new_br7: nature<br>solution<br>cousin<br>recycle<br>art<br>share<br>fee
+bip_39_word_new_br8: nature<br>solution<br>cousin<br>recycle<br>art<br>share<br>fee<br>suit
+bip_39_word_new_br9: nature<br>solution<br>cousin<br>recycle<br>art<br>share<br>fee<br>suit<br>drift
+bip_39_word_new_line1: nature
+bip_39_word_new_line10: 'nature
+
+  solution
+
+  cousin
+
+  recycle
+
+  art
+
+  share
+
+  fee
+
+  suit
+
+  drift
+
+  album'
+bip_39_word_new_line11: 'nature
+
+  solution
+
+  cousin
+
+  recycle
+
+  art
+
+  share
+
+  fee
+
+  suit
+
+  drift
+
+  album
+
+  funny'
+bip_39_word_new_line12: 'nature
+
+  solution
+
+  cousin
+
+  recycle
+
+  art
+
+  share
+
+  fee
+
+  suit
+
+  drift
+
+  album
+
+  funny
+
+  allow'
+bip_39_word_new_line2: 'nature
+
+  solution'
+bip_39_word_new_line3: 'nature
+
+  solution
+
+  cousin'
+bip_39_word_new_line4: 'nature
+
+  solution
+
+  cousin
+
+  recycle'
+bip_39_word_new_line5: 'nature
+
+  solution
+
+  cousin
+
+  recycle
+
+  art'
+bip_39_word_new_line6: 'nature
+
+  solution
+
+  cousin
+
+  recycle
+
+  art
+
+  share'
+bip_39_word_new_line7: 'nature
+
+  solution
+
+  cousin
+
+  recycle
+
+  art
+
+  share
+
+  fee'
+bip_39_word_new_line8: 'nature
+
+  solution
+
+  cousin
+
+  recycle
+
+  art
+
+  share
+
+  fee
+
+  suit'
+bip_39_word_new_line9: 'nature
+
+  solution
+
+  cousin
+
+  recycle
+
+  art
+
+  share
+
+  fee
+
+  suit
+
+  drift'
+bip_39_word_space_0:
+- nature
+- solution
+- cousin
+- recycle
+- art
+- share
+- fee
+- suit
+- drift
+- album
+- funny
+- allow
+bip_39_word_space_1: nature
+bip_39_word_space_10: nature solution cousin recycle art share fee suit drift album
+bip_39_word_space_11: nature solution cousin recycle art share fee suit drift album
+  funny
+bip_39_word_space_12: nature solution cousin recycle art share fee suit drift album
+  funny allow
+bip_39_word_space_2: nature solution
+bip_39_word_space_3: nature solution cousin
+bip_39_word_space_4: nature solution cousin recycle
+bip_39_word_space_5: nature solution cousin recycle art
+bip_39_word_space_6: nature solution cousin recycle art share
+bip_39_word_space_7: nature solution cousin recycle art share fee
+bip_39_word_space_8: nature solution cousin recycle art share fee suit
+bip_39_word_space_9: nature solution cousin recycle art share fee suit drift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

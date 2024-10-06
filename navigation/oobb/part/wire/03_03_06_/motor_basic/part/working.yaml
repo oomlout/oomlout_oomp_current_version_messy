@@ -1,3 +1,186 @@
+bip_39_word_new_br1: patch
+bip_39_word_new_br10: patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean
+bip_39_word_new_br11: patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean<br>purity
+bip_39_word_new_br12: patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree<br>mean<br>purity<br>assault
+bip_39_word_new_br2: patch<br>price
+bip_39_word_new_br3: patch<br>price<br>aware
+bip_39_word_new_br4: patch<br>price<br>aware<br>game
+bip_39_word_new_br5: patch<br>price<br>aware<br>game<br>aware
+bip_39_word_new_br6: patch<br>price<br>aware<br>game<br>aware<br>puppy
+bip_39_word_new_br7: patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious
+bip_39_word_new_br8: patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden
+bip_39_word_new_br9: patch<br>price<br>aware<br>game<br>aware<br>puppy<br>obvious<br>garden<br>disagree
+bip_39_word_new_line1: patch
+bip_39_word_new_line10: 'patch
+
+  price
+
+  aware
+
+  game
+
+  aware
+
+  puppy
+
+  obvious
+
+  garden
+
+  disagree
+
+  mean'
+bip_39_word_new_line11: 'patch
+
+  price
+
+  aware
+
+  game
+
+  aware
+
+  puppy
+
+  obvious
+
+  garden
+
+  disagree
+
+  mean
+
+  purity'
+bip_39_word_new_line12: 'patch
+
+  price
+
+  aware
+
+  game
+
+  aware
+
+  puppy
+
+  obvious
+
+  garden
+
+  disagree
+
+  mean
+
+  purity
+
+  assault'
+bip_39_word_new_line2: 'patch
+
+  price'
+bip_39_word_new_line3: 'patch
+
+  price
+
+  aware'
+bip_39_word_new_line4: 'patch
+
+  price
+
+  aware
+
+  game'
+bip_39_word_new_line5: 'patch
+
+  price
+
+  aware
+
+  game
+
+  aware'
+bip_39_word_new_line6: 'patch
+
+  price
+
+  aware
+
+  game
+
+  aware
+
+  puppy'
+bip_39_word_new_line7: 'patch
+
+  price
+
+  aware
+
+  game
+
+  aware
+
+  puppy
+
+  obvious'
+bip_39_word_new_line8: 'patch
+
+  price
+
+  aware
+
+  game
+
+  aware
+
+  puppy
+
+  obvious
+
+  garden'
+bip_39_word_new_line9: 'patch
+
+  price
+
+  aware
+
+  game
+
+  aware
+
+  puppy
+
+  obvious
+
+  garden
+
+  disagree'
+bip_39_word_space_0:
+- patch
+- price
+- aware
+- game
+- aware
+- puppy
+- obvious
+- garden
+- disagree
+- mean
+- purity
+- assault
+bip_39_word_space_1: patch
+bip_39_word_space_10: patch price aware game aware puppy obvious garden disagree mean
+bip_39_word_space_11: patch price aware game aware puppy obvious garden disagree mean
+  purity
+bip_39_word_space_12: patch price aware game aware puppy obvious garden disagree mean
+  purity assault
+bip_39_word_space_2: patch price
+bip_39_word_space_3: patch price aware
+bip_39_word_space_4: patch price aware game
+bip_39_word_space_5: patch price aware game aware
+bip_39_word_space_6: patch price aware game aware puppy
+bip_39_word_space_7: patch price aware game aware puppy obvious
+bip_39_word_space_8: patch price aware game aware puppy obvious garden
+bip_39_word_space_9: patch price aware game aware puppy obvious garden disagree
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

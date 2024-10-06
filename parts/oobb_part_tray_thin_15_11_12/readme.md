@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: purchase gaze
+  * bip 39 word 3: purchase gaze viable
+  * bip 39 word: purchase gaze viable common very coconut april basket news tooth debate april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | purchase |  
+| bip_39_word_new_br10 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut<br>april<br>basket<br>news<br>tooth |  
+| bip_39_word_new_br11 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut<br>april<br>basket<br>news<br>tooth<br>debate |  
+| bip_39_word_new_br12 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut<br>april<br>basket<br>news<br>tooth<br>debate<br>april |  
+| bip_39_word_new_br2 | purchase<br>gaze |  
+| bip_39_word_new_br3 | purchase<br>gaze<br>viable |  
+| bip_39_word_new_br4 | purchase<br>gaze<br>viable<br>common |  
+| bip_39_word_new_br5 | purchase<br>gaze<br>viable<br>common<br>very |  
+| bip_39_word_new_br6 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut |  
+| bip_39_word_new_br7 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut<br>april |  
+| bip_39_word_new_br8 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut<br>april<br>basket |  
+| bip_39_word_new_br9 | purchase<br>gaze<br>viable<br>common<br>very<br>coconut<br>april<br>basket<br>news |  
+| bip_39_word_new_line1 | purchase |  
+| bip_39_word_new_line10 | purchase
+gaze
+viable
+common
+very
+coconut
+april
+basket
+news
+tooth |  
+| bip_39_word_new_line11 | purchase
+gaze
+viable
+common
+very
+coconut
+april
+basket
+news
+tooth
+debate |  
+| bip_39_word_new_line12 | purchase
+gaze
+viable
+common
+very
+coconut
+april
+basket
+news
+tooth
+debate
+april |  
+| bip_39_word_new_line2 | purchase
+gaze |  
+| bip_39_word_new_line3 | purchase
+gaze
+viable |  
+| bip_39_word_new_line4 | purchase
+gaze
+viable
+common |  
+| bip_39_word_new_line5 | purchase
+gaze
+viable
+common
+very |  
+| bip_39_word_new_line6 | purchase
+gaze
+viable
+common
+very
+coconut |  
+| bip_39_word_new_line7 | purchase
+gaze
+viable
+common
+very
+coconut
+april |  
+| bip_39_word_new_line8 | purchase
+gaze
+viable
+common
+very
+coconut
+april
+basket |  
+| bip_39_word_new_line9 | purchase
+gaze
+viable
+common
+very
+coconut
+april
+basket
+news |  
+| bip_39_word_space_0 | ['purchase', 'gaze', 'viable', 'common', 'very', 'coconut', 'april', 'basket', 'news', 'tooth', 'debate', 'april'] |  
+| bip_39_word_space_1 | purchase |  
+| bip_39_word_space_10 | purchase gaze viable common very coconut april basket news tooth |  
+| bip_39_word_space_11 | purchase gaze viable common very coconut april basket news tooth debate |  
+| bip_39_word_space_12 | purchase gaze viable common very coconut april basket news tooth debate april |  
+| bip_39_word_space_2 | purchase gaze |  
+| bip_39_word_space_3 | purchase gaze viable |  
+| bip_39_word_space_4 | purchase gaze viable common |  
+| bip_39_word_space_5 | purchase gaze viable common very |  
+| bip_39_word_space_6 | purchase gaze viable common very coconut |  
+| bip_39_word_space_7 | purchase gaze viable common very coconut april |  
+| bip_39_word_space_8 | purchase gaze viable common very coconut april basket |  
+| bip_39_word_space_9 | purchase gaze viable common very coconut april basket news |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

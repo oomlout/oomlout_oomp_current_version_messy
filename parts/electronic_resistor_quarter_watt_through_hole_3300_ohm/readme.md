@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: answer load
+  * bip 39 word 3: answer load verify
+  * bip 39 word: answer load verify immune giant voyage popular smoke bike mushroom replace arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | answer |  
+| bip_39_word_new_br10 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom |  
+| bip_39_word_new_br11 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom<br>replace |  
+| bip_39_word_new_br12 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike<br>mushroom<br>replace<br>arm |  
+| bip_39_word_new_br2 | answer<br>load |  
+| bip_39_word_new_br3 | answer<br>load<br>verify |  
+| bip_39_word_new_br4 | answer<br>load<br>verify<br>immune |  
+| bip_39_word_new_br5 | answer<br>load<br>verify<br>immune<br>giant |  
+| bip_39_word_new_br6 | answer<br>load<br>verify<br>immune<br>giant<br>voyage |  
+| bip_39_word_new_br7 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular |  
+| bip_39_word_new_br8 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke |  
+| bip_39_word_new_br9 | answer<br>load<br>verify<br>immune<br>giant<br>voyage<br>popular<br>smoke<br>bike |  
+| bip_39_word_new_line1 | answer |  
+| bip_39_word_new_line10 | answer
+load
+verify
+immune
+giant
+voyage
+popular
+smoke
+bike
+mushroom |  
+| bip_39_word_new_line11 | answer
+load
+verify
+immune
+giant
+voyage
+popular
+smoke
+bike
+mushroom
+replace |  
+| bip_39_word_new_line12 | answer
+load
+verify
+immune
+giant
+voyage
+popular
+smoke
+bike
+mushroom
+replace
+arm |  
+| bip_39_word_new_line2 | answer
+load |  
+| bip_39_word_new_line3 | answer
+load
+verify |  
+| bip_39_word_new_line4 | answer
+load
+verify
+immune |  
+| bip_39_word_new_line5 | answer
+load
+verify
+immune
+giant |  
+| bip_39_word_new_line6 | answer
+load
+verify
+immune
+giant
+voyage |  
+| bip_39_word_new_line7 | answer
+load
+verify
+immune
+giant
+voyage
+popular |  
+| bip_39_word_new_line8 | answer
+load
+verify
+immune
+giant
+voyage
+popular
+smoke |  
+| bip_39_word_new_line9 | answer
+load
+verify
+immune
+giant
+voyage
+popular
+smoke
+bike |  
+| bip_39_word_space_0 | ['answer', 'load', 'verify', 'immune', 'giant', 'voyage', 'popular', 'smoke', 'bike', 'mushroom', 'replace', 'arm'] |  
+| bip_39_word_space_1 | answer |  
+| bip_39_word_space_10 | answer load verify immune giant voyage popular smoke bike mushroom |  
+| bip_39_word_space_11 | answer load verify immune giant voyage popular smoke bike mushroom replace |  
+| bip_39_word_space_12 | answer load verify immune giant voyage popular smoke bike mushroom replace arm |  
+| bip_39_word_space_2 | answer load |  
+| bip_39_word_space_3 | answer load verify |  
+| bip_39_word_space_4 | answer load verify immune |  
+| bip_39_word_space_5 | answer load verify immune giant |  
+| bip_39_word_space_6 | answer load verify immune giant voyage |  
+| bip_39_word_space_7 | answer load verify immune giant voyage popular |  
+| bip_39_word_space_8 | answer load verify immune giant voyage popular smoke |  
+| bip_39_word_space_9 | answer load verify immune giant voyage popular smoke bike |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

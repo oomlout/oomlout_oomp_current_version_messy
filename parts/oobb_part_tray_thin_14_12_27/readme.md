@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: myth proud
+  * bip 39 word 3: myth proud output
+  * bip 39 word: myth proud output rude hunt attitude budget elevator erode matter lemon any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | myth |  
+| bip_39_word_new_br10 | myth<br>proud<br>output<br>rude<br>hunt<br>attitude<br>budget<br>elevator<br>erode<br>matter |  
+| bip_39_word_new_br11 | myth<br>proud<br>output<br>rude<br>hunt<br>attitude<br>budget<br>elevator<br>erode<br>matter<br>lemon |  
+| bip_39_word_new_br12 | myth<br>proud<br>output<br>rude<br>hunt<br>attitude<br>budget<br>elevator<br>erode<br>matter<br>lemon<br>any |  
+| bip_39_word_new_br2 | myth<br>proud |  
+| bip_39_word_new_br3 | myth<br>proud<br>output |  
+| bip_39_word_new_br4 | myth<br>proud<br>output<br>rude |  
+| bip_39_word_new_br5 | myth<br>proud<br>output<br>rude<br>hunt |  
+| bip_39_word_new_br6 | myth<br>proud<br>output<br>rude<br>hunt<br>attitude |  
+| bip_39_word_new_br7 | myth<br>proud<br>output<br>rude<br>hunt<br>attitude<br>budget |  
+| bip_39_word_new_br8 | myth<br>proud<br>output<br>rude<br>hunt<br>attitude<br>budget<br>elevator |  
+| bip_39_word_new_br9 | myth<br>proud<br>output<br>rude<br>hunt<br>attitude<br>budget<br>elevator<br>erode |  
+| bip_39_word_new_line1 | myth |  
+| bip_39_word_new_line10 | myth
+proud
+output
+rude
+hunt
+attitude
+budget
+elevator
+erode
+matter |  
+| bip_39_word_new_line11 | myth
+proud
+output
+rude
+hunt
+attitude
+budget
+elevator
+erode
+matter
+lemon |  
+| bip_39_word_new_line12 | myth
+proud
+output
+rude
+hunt
+attitude
+budget
+elevator
+erode
+matter
+lemon
+any |  
+| bip_39_word_new_line2 | myth
+proud |  
+| bip_39_word_new_line3 | myth
+proud
+output |  
+| bip_39_word_new_line4 | myth
+proud
+output
+rude |  
+| bip_39_word_new_line5 | myth
+proud
+output
+rude
+hunt |  
+| bip_39_word_new_line6 | myth
+proud
+output
+rude
+hunt
+attitude |  
+| bip_39_word_new_line7 | myth
+proud
+output
+rude
+hunt
+attitude
+budget |  
+| bip_39_word_new_line8 | myth
+proud
+output
+rude
+hunt
+attitude
+budget
+elevator |  
+| bip_39_word_new_line9 | myth
+proud
+output
+rude
+hunt
+attitude
+budget
+elevator
+erode |  
+| bip_39_word_space_0 | ['myth', 'proud', 'output', 'rude', 'hunt', 'attitude', 'budget', 'elevator', 'erode', 'matter', 'lemon', 'any'] |  
+| bip_39_word_space_1 | myth |  
+| bip_39_word_space_10 | myth proud output rude hunt attitude budget elevator erode matter |  
+| bip_39_word_space_11 | myth proud output rude hunt attitude budget elevator erode matter lemon |  
+| bip_39_word_space_12 | myth proud output rude hunt attitude budget elevator erode matter lemon any |  
+| bip_39_word_space_2 | myth proud |  
+| bip_39_word_space_3 | myth proud output |  
+| bip_39_word_space_4 | myth proud output rude |  
+| bip_39_word_space_5 | myth proud output rude hunt |  
+| bip_39_word_space_6 | myth proud output rude hunt attitude |  
+| bip_39_word_space_7 | myth proud output rude hunt attitude budget |  
+| bip_39_word_space_8 | myth proud output rude hunt attitude budget elevator |  
+| bip_39_word_space_9 | myth proud output rude hunt attitude budget elevator erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

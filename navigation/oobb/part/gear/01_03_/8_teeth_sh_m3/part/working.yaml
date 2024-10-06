@@ -1,3 +1,186 @@
+bip_39_word_new_br1: whisper
+bip_39_word_new_br10: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind<br>butter<br>series<br>rug<br>accuse
+bip_39_word_new_br11: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind<br>butter<br>series<br>rug<br>accuse<br>garden
+bip_39_word_new_br12: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind<br>butter<br>series<br>rug<br>accuse<br>garden<br>adult
+bip_39_word_new_br2: whisper<br>oppose
+bip_39_word_new_br3: whisper<br>oppose<br>jacket
+bip_39_word_new_br4: whisper<br>oppose<br>jacket<br>eagle
+bip_39_word_new_br5: whisper<br>oppose<br>jacket<br>eagle<br>test
+bip_39_word_new_br6: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind
+bip_39_word_new_br7: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind<br>butter
+bip_39_word_new_br8: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind<br>butter<br>series
+bip_39_word_new_br9: whisper<br>oppose<br>jacket<br>eagle<br>test<br>remind<br>butter<br>series<br>rug
+bip_39_word_new_line1: whisper
+bip_39_word_new_line10: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle
+
+  test
+
+  remind
+
+  butter
+
+  series
+
+  rug
+
+  accuse'
+bip_39_word_new_line11: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle
+
+  test
+
+  remind
+
+  butter
+
+  series
+
+  rug
+
+  accuse
+
+  garden'
+bip_39_word_new_line12: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle
+
+  test
+
+  remind
+
+  butter
+
+  series
+
+  rug
+
+  accuse
+
+  garden
+
+  adult'
+bip_39_word_new_line2: 'whisper
+
+  oppose'
+bip_39_word_new_line3: 'whisper
+
+  oppose
+
+  jacket'
+bip_39_word_new_line4: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle'
+bip_39_word_new_line5: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle
+
+  test'
+bip_39_word_new_line6: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle
+
+  test
+
+  remind'
+bip_39_word_new_line7: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle
+
+  test
+
+  remind
+
+  butter'
+bip_39_word_new_line8: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle
+
+  test
+
+  remind
+
+  butter
+
+  series'
+bip_39_word_new_line9: 'whisper
+
+  oppose
+
+  jacket
+
+  eagle
+
+  test
+
+  remind
+
+  butter
+
+  series
+
+  rug'
+bip_39_word_space_0:
+- whisper
+- oppose
+- jacket
+- eagle
+- test
+- remind
+- butter
+- series
+- rug
+- accuse
+- garden
+- adult
+bip_39_word_space_1: whisper
+bip_39_word_space_10: whisper oppose jacket eagle test remind butter series rug accuse
+bip_39_word_space_11: whisper oppose jacket eagle test remind butter series rug accuse
+  garden
+bip_39_word_space_12: whisper oppose jacket eagle test remind butter series rug accuse
+  garden adult
+bip_39_word_space_2: whisper oppose
+bip_39_word_space_3: whisper oppose jacket
+bip_39_word_space_4: whisper oppose jacket eagle
+bip_39_word_space_5: whisper oppose jacket eagle test
+bip_39_word_space_6: whisper oppose jacket eagle test remind
+bip_39_word_space_7: whisper oppose jacket eagle test remind butter
+bip_39_word_space_8: whisper oppose jacket eagle test remind butter series
+bip_39_word_space_9: whisper oppose jacket eagle test remind butter series rug
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

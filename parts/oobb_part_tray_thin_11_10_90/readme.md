@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: define apple
+  * bip 39 word 3: define apple shoot
+  * bip 39 word: define apple shoot wood write drama negative ancient pause learn skin armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | define |  
+| bip_39_word_new_br10 | define<br>apple<br>shoot<br>wood<br>write<br>drama<br>negative<br>ancient<br>pause<br>learn |  
+| bip_39_word_new_br11 | define<br>apple<br>shoot<br>wood<br>write<br>drama<br>negative<br>ancient<br>pause<br>learn<br>skin |  
+| bip_39_word_new_br12 | define<br>apple<br>shoot<br>wood<br>write<br>drama<br>negative<br>ancient<br>pause<br>learn<br>skin<br>armor |  
+| bip_39_word_new_br2 | define<br>apple |  
+| bip_39_word_new_br3 | define<br>apple<br>shoot |  
+| bip_39_word_new_br4 | define<br>apple<br>shoot<br>wood |  
+| bip_39_word_new_br5 | define<br>apple<br>shoot<br>wood<br>write |  
+| bip_39_word_new_br6 | define<br>apple<br>shoot<br>wood<br>write<br>drama |  
+| bip_39_word_new_br7 | define<br>apple<br>shoot<br>wood<br>write<br>drama<br>negative |  
+| bip_39_word_new_br8 | define<br>apple<br>shoot<br>wood<br>write<br>drama<br>negative<br>ancient |  
+| bip_39_word_new_br9 | define<br>apple<br>shoot<br>wood<br>write<br>drama<br>negative<br>ancient<br>pause |  
+| bip_39_word_new_line1 | define |  
+| bip_39_word_new_line10 | define
+apple
+shoot
+wood
+write
+drama
+negative
+ancient
+pause
+learn |  
+| bip_39_word_new_line11 | define
+apple
+shoot
+wood
+write
+drama
+negative
+ancient
+pause
+learn
+skin |  
+| bip_39_word_new_line12 | define
+apple
+shoot
+wood
+write
+drama
+negative
+ancient
+pause
+learn
+skin
+armor |  
+| bip_39_word_new_line2 | define
+apple |  
+| bip_39_word_new_line3 | define
+apple
+shoot |  
+| bip_39_word_new_line4 | define
+apple
+shoot
+wood |  
+| bip_39_word_new_line5 | define
+apple
+shoot
+wood
+write |  
+| bip_39_word_new_line6 | define
+apple
+shoot
+wood
+write
+drama |  
+| bip_39_word_new_line7 | define
+apple
+shoot
+wood
+write
+drama
+negative |  
+| bip_39_word_new_line8 | define
+apple
+shoot
+wood
+write
+drama
+negative
+ancient |  
+| bip_39_word_new_line9 | define
+apple
+shoot
+wood
+write
+drama
+negative
+ancient
+pause |  
+| bip_39_word_space_0 | ['define', 'apple', 'shoot', 'wood', 'write', 'drama', 'negative', 'ancient', 'pause', 'learn', 'skin', 'armor'] |  
+| bip_39_word_space_1 | define |  
+| bip_39_word_space_10 | define apple shoot wood write drama negative ancient pause learn |  
+| bip_39_word_space_11 | define apple shoot wood write drama negative ancient pause learn skin |  
+| bip_39_word_space_12 | define apple shoot wood write drama negative ancient pause learn skin armor |  
+| bip_39_word_space_2 | define apple |  
+| bip_39_word_space_3 | define apple shoot |  
+| bip_39_word_space_4 | define apple shoot wood |  
+| bip_39_word_space_5 | define apple shoot wood write |  
+| bip_39_word_space_6 | define apple shoot wood write drama |  
+| bip_39_word_space_7 | define apple shoot wood write drama negative |  
+| bip_39_word_space_8 | define apple shoot wood write drama negative ancient |  
+| bip_39_word_space_9 | define apple shoot wood write drama negative ancient pause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

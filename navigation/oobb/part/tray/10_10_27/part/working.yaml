@@ -1,3 +1,186 @@
+bip_39_word_new_br1: west
+bip_39_word_new_br10: west<br>rally<br>copy<br>oval<br>involve<br>knife<br>labor<br>lottery<br>actor<br>sniff
+bip_39_word_new_br11: west<br>rally<br>copy<br>oval<br>involve<br>knife<br>labor<br>lottery<br>actor<br>sniff<br>dolphin
+bip_39_word_new_br12: west<br>rally<br>copy<br>oval<br>involve<br>knife<br>labor<br>lottery<br>actor<br>sniff<br>dolphin<br>approve
+bip_39_word_new_br2: west<br>rally
+bip_39_word_new_br3: west<br>rally<br>copy
+bip_39_word_new_br4: west<br>rally<br>copy<br>oval
+bip_39_word_new_br5: west<br>rally<br>copy<br>oval<br>involve
+bip_39_word_new_br6: west<br>rally<br>copy<br>oval<br>involve<br>knife
+bip_39_word_new_br7: west<br>rally<br>copy<br>oval<br>involve<br>knife<br>labor
+bip_39_word_new_br8: west<br>rally<br>copy<br>oval<br>involve<br>knife<br>labor<br>lottery
+bip_39_word_new_br9: west<br>rally<br>copy<br>oval<br>involve<br>knife<br>labor<br>lottery<br>actor
+bip_39_word_new_line1: west
+bip_39_word_new_line10: 'west
+
+  rally
+
+  copy
+
+  oval
+
+  involve
+
+  knife
+
+  labor
+
+  lottery
+
+  actor
+
+  sniff'
+bip_39_word_new_line11: 'west
+
+  rally
+
+  copy
+
+  oval
+
+  involve
+
+  knife
+
+  labor
+
+  lottery
+
+  actor
+
+  sniff
+
+  dolphin'
+bip_39_word_new_line12: 'west
+
+  rally
+
+  copy
+
+  oval
+
+  involve
+
+  knife
+
+  labor
+
+  lottery
+
+  actor
+
+  sniff
+
+  dolphin
+
+  approve'
+bip_39_word_new_line2: 'west
+
+  rally'
+bip_39_word_new_line3: 'west
+
+  rally
+
+  copy'
+bip_39_word_new_line4: 'west
+
+  rally
+
+  copy
+
+  oval'
+bip_39_word_new_line5: 'west
+
+  rally
+
+  copy
+
+  oval
+
+  involve'
+bip_39_word_new_line6: 'west
+
+  rally
+
+  copy
+
+  oval
+
+  involve
+
+  knife'
+bip_39_word_new_line7: 'west
+
+  rally
+
+  copy
+
+  oval
+
+  involve
+
+  knife
+
+  labor'
+bip_39_word_new_line8: 'west
+
+  rally
+
+  copy
+
+  oval
+
+  involve
+
+  knife
+
+  labor
+
+  lottery'
+bip_39_word_new_line9: 'west
+
+  rally
+
+  copy
+
+  oval
+
+  involve
+
+  knife
+
+  labor
+
+  lottery
+
+  actor'
+bip_39_word_space_0:
+- west
+- rally
+- copy
+- oval
+- involve
+- knife
+- labor
+- lottery
+- actor
+- sniff
+- dolphin
+- approve
+bip_39_word_space_1: west
+bip_39_word_space_10: west rally copy oval involve knife labor lottery actor sniff
+bip_39_word_space_11: west rally copy oval involve knife labor lottery actor sniff
+  dolphin
+bip_39_word_space_12: west rally copy oval involve knife labor lottery actor sniff
+  dolphin approve
+bip_39_word_space_2: west rally
+bip_39_word_space_3: west rally copy
+bip_39_word_space_4: west rally copy oval
+bip_39_word_space_5: west rally copy oval involve
+bip_39_word_space_6: west rally copy oval involve knife
+bip_39_word_space_7: west rally copy oval involve knife labor
+bip_39_word_space_8: west rally copy oval involve knife labor lottery
+bip_39_word_space_9: west rally copy oval involve knife labor lottery actor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

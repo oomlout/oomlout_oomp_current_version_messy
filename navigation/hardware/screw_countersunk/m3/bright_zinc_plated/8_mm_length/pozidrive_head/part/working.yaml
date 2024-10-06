@@ -1,3 +1,187 @@
+bip_39_word_new_br1: blast
+bip_39_word_new_br10: blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility
+bip_39_word_new_br11: blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility<br>million
+bip_39_word_new_br12: blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw<br>utility<br>million<br>acoustic
+bip_39_word_new_br2: blast<br>garment
+bip_39_word_new_br3: blast<br>garment<br>present
+bip_39_word_new_br4: blast<br>garment<br>present<br>because
+bip_39_word_new_br5: blast<br>garment<br>present<br>because<br>mention
+bip_39_word_new_br6: blast<br>garment<br>present<br>because<br>mention<br>link
+bip_39_word_new_br7: blast<br>garment<br>present<br>because<br>mention<br>link<br>valid
+bip_39_word_new_br8: blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic
+bip_39_word_new_br9: blast<br>garment<br>present<br>because<br>mention<br>link<br>valid<br>chronic<br>throw
+bip_39_word_new_line1: blast
+bip_39_word_new_line10: 'blast
+
+  garment
+
+  present
+
+  because
+
+  mention
+
+  link
+
+  valid
+
+  chronic
+
+  throw
+
+  utility'
+bip_39_word_new_line11: 'blast
+
+  garment
+
+  present
+
+  because
+
+  mention
+
+  link
+
+  valid
+
+  chronic
+
+  throw
+
+  utility
+
+  million'
+bip_39_word_new_line12: 'blast
+
+  garment
+
+  present
+
+  because
+
+  mention
+
+  link
+
+  valid
+
+  chronic
+
+  throw
+
+  utility
+
+  million
+
+  acoustic'
+bip_39_word_new_line2: 'blast
+
+  garment'
+bip_39_word_new_line3: 'blast
+
+  garment
+
+  present'
+bip_39_word_new_line4: 'blast
+
+  garment
+
+  present
+
+  because'
+bip_39_word_new_line5: 'blast
+
+  garment
+
+  present
+
+  because
+
+  mention'
+bip_39_word_new_line6: 'blast
+
+  garment
+
+  present
+
+  because
+
+  mention
+
+  link'
+bip_39_word_new_line7: 'blast
+
+  garment
+
+  present
+
+  because
+
+  mention
+
+  link
+
+  valid'
+bip_39_word_new_line8: 'blast
+
+  garment
+
+  present
+
+  because
+
+  mention
+
+  link
+
+  valid
+
+  chronic'
+bip_39_word_new_line9: 'blast
+
+  garment
+
+  present
+
+  because
+
+  mention
+
+  link
+
+  valid
+
+  chronic
+
+  throw'
+bip_39_word_space_0:
+- blast
+- garment
+- present
+- because
+- mention
+- link
+- valid
+- chronic
+- throw
+- utility
+- million
+- acoustic
+bip_39_word_space_1: blast
+bip_39_word_space_10: blast garment present because mention link valid chronic throw
+  utility
+bip_39_word_space_11: blast garment present because mention link valid chronic throw
+  utility million
+bip_39_word_space_12: blast garment present because mention link valid chronic throw
+  utility million acoustic
+bip_39_word_space_2: blast garment
+bip_39_word_space_3: blast garment present
+bip_39_word_space_4: blast garment present because
+bip_39_word_space_5: blast garment present because mention
+bip_39_word_space_6: blast garment present because mention link
+bip_39_word_space_7: blast garment present because mention link valid
+bip_39_word_space_8: blast garment present because mention link valid chronic
+bip_39_word_space_9: blast garment present because mention link valid chronic throw
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: return february
+  * bip 39 word 3: return february velvet
+  * bip 39 word: return february velvet autumn note bacon vibrant junior honey tooth predict auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | return |  
+| bip_39_word_new_br10 | return<br>february<br>velvet<br>autumn<br>note<br>bacon<br>vibrant<br>junior<br>honey<br>tooth |  
+| bip_39_word_new_br11 | return<br>february<br>velvet<br>autumn<br>note<br>bacon<br>vibrant<br>junior<br>honey<br>tooth<br>predict |  
+| bip_39_word_new_br12 | return<br>february<br>velvet<br>autumn<br>note<br>bacon<br>vibrant<br>junior<br>honey<br>tooth<br>predict<br>auto |  
+| bip_39_word_new_br2 | return<br>february |  
+| bip_39_word_new_br3 | return<br>february<br>velvet |  
+| bip_39_word_new_br4 | return<br>february<br>velvet<br>autumn |  
+| bip_39_word_new_br5 | return<br>february<br>velvet<br>autumn<br>note |  
+| bip_39_word_new_br6 | return<br>february<br>velvet<br>autumn<br>note<br>bacon |  
+| bip_39_word_new_br7 | return<br>february<br>velvet<br>autumn<br>note<br>bacon<br>vibrant |  
+| bip_39_word_new_br8 | return<br>february<br>velvet<br>autumn<br>note<br>bacon<br>vibrant<br>junior |  
+| bip_39_word_new_br9 | return<br>february<br>velvet<br>autumn<br>note<br>bacon<br>vibrant<br>junior<br>honey |  
+| bip_39_word_new_line1 | return |  
+| bip_39_word_new_line10 | return
+february
+velvet
+autumn
+note
+bacon
+vibrant
+junior
+honey
+tooth |  
+| bip_39_word_new_line11 | return
+february
+velvet
+autumn
+note
+bacon
+vibrant
+junior
+honey
+tooth
+predict |  
+| bip_39_word_new_line12 | return
+february
+velvet
+autumn
+note
+bacon
+vibrant
+junior
+honey
+tooth
+predict
+auto |  
+| bip_39_word_new_line2 | return
+february |  
+| bip_39_word_new_line3 | return
+february
+velvet |  
+| bip_39_word_new_line4 | return
+february
+velvet
+autumn |  
+| bip_39_word_new_line5 | return
+february
+velvet
+autumn
+note |  
+| bip_39_word_new_line6 | return
+february
+velvet
+autumn
+note
+bacon |  
+| bip_39_word_new_line7 | return
+february
+velvet
+autumn
+note
+bacon
+vibrant |  
+| bip_39_word_new_line8 | return
+february
+velvet
+autumn
+note
+bacon
+vibrant
+junior |  
+| bip_39_word_new_line9 | return
+february
+velvet
+autumn
+note
+bacon
+vibrant
+junior
+honey |  
+| bip_39_word_space_0 | ['return', 'february', 'velvet', 'autumn', 'note', 'bacon', 'vibrant', 'junior', 'honey', 'tooth', 'predict', 'auto'] |  
+| bip_39_word_space_1 | return |  
+| bip_39_word_space_10 | return february velvet autumn note bacon vibrant junior honey tooth |  
+| bip_39_word_space_11 | return february velvet autumn note bacon vibrant junior honey tooth predict |  
+| bip_39_word_space_12 | return february velvet autumn note bacon vibrant junior honey tooth predict auto |  
+| bip_39_word_space_2 | return february |  
+| bip_39_word_space_3 | return february velvet |  
+| bip_39_word_space_4 | return february velvet autumn |  
+| bip_39_word_space_5 | return february velvet autumn note |  
+| bip_39_word_space_6 | return february velvet autumn note bacon |  
+| bip_39_word_space_7 | return february velvet autumn note bacon vibrant |  
+| bip_39_word_space_8 | return february velvet autumn note bacon vibrant junior |  
+| bip_39_word_space_9 | return february velvet autumn note bacon vibrant junior honey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

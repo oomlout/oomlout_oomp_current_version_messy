@@ -1,3 +1,185 @@
+bip_39_word_new_br1: draw
+bip_39_word_new_br10: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide<br>soap<br>ten
+bip_39_word_new_br11: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide<br>soap<br>ten<br>tide
+bip_39_word_new_br12: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide<br>soap<br>ten<br>tide<br>announce
+bip_39_word_new_br2: draw<br>nation
+bip_39_word_new_br3: draw<br>nation<br>another
+bip_39_word_new_br4: draw<br>nation<br>another<br>any
+bip_39_word_new_br5: draw<br>nation<br>another<br>any<br>tomorrow
+bip_39_word_new_br6: draw<br>nation<br>another<br>any<br>tomorrow<br>neck
+bip_39_word_new_br7: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must
+bip_39_word_new_br8: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide
+bip_39_word_new_br9: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide<br>soap
+bip_39_word_new_line1: draw
+bip_39_word_new_line10: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide
+
+  soap
+
+  ten'
+bip_39_word_new_line11: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide
+
+  soap
+
+  ten
+
+  tide'
+bip_39_word_new_line12: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide
+
+  soap
+
+  ten
+
+  tide
+
+  announce'
+bip_39_word_new_line2: 'draw
+
+  nation'
+bip_39_word_new_line3: 'draw
+
+  nation
+
+  another'
+bip_39_word_new_line4: 'draw
+
+  nation
+
+  another
+
+  any'
+bip_39_word_new_line5: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow'
+bip_39_word_new_line6: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck'
+bip_39_word_new_line7: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must'
+bip_39_word_new_line8: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide'
+bip_39_word_new_line9: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide
+
+  soap'
+bip_39_word_space_0:
+- draw
+- nation
+- another
+- any
+- tomorrow
+- neck
+- must
+- glide
+- soap
+- ten
+- tide
+- announce
+bip_39_word_space_1: draw
+bip_39_word_space_10: draw nation another any tomorrow neck must glide soap ten
+bip_39_word_space_11: draw nation another any tomorrow neck must glide soap ten tide
+bip_39_word_space_12: draw nation another any tomorrow neck must glide soap ten tide
+  announce
+bip_39_word_space_2: draw nation
+bip_39_word_space_3: draw nation another
+bip_39_word_space_4: draw nation another any
+bip_39_word_space_5: draw nation another any tomorrow
+bip_39_word_space_6: draw nation another any tomorrow neck
+bip_39_word_space_7: draw nation another any tomorrow neck must
+bip_39_word_space_8: draw nation another any tomorrow neck must glide
+bip_39_word_space_9: draw nation another any tomorrow neck must glide soap
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

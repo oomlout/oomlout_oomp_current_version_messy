@@ -1,3 +1,187 @@
+bip_39_word_new_br1: riot
+bip_39_word_new_br10: riot<br>tree<br>strong<br>negative<br>butter<br>belt<br>pattern<br>lobster<br>color<br>finish
+bip_39_word_new_br11: riot<br>tree<br>strong<br>negative<br>butter<br>belt<br>pattern<br>lobster<br>color<br>finish<br>fire
+bip_39_word_new_br12: riot<br>tree<br>strong<br>negative<br>butter<br>belt<br>pattern<br>lobster<br>color<br>finish<br>fire<br>annual
+bip_39_word_new_br2: riot<br>tree
+bip_39_word_new_br3: riot<br>tree<br>strong
+bip_39_word_new_br4: riot<br>tree<br>strong<br>negative
+bip_39_word_new_br5: riot<br>tree<br>strong<br>negative<br>butter
+bip_39_word_new_br6: riot<br>tree<br>strong<br>negative<br>butter<br>belt
+bip_39_word_new_br7: riot<br>tree<br>strong<br>negative<br>butter<br>belt<br>pattern
+bip_39_word_new_br8: riot<br>tree<br>strong<br>negative<br>butter<br>belt<br>pattern<br>lobster
+bip_39_word_new_br9: riot<br>tree<br>strong<br>negative<br>butter<br>belt<br>pattern<br>lobster<br>color
+bip_39_word_new_line1: riot
+bip_39_word_new_line10: 'riot
+
+  tree
+
+  strong
+
+  negative
+
+  butter
+
+  belt
+
+  pattern
+
+  lobster
+
+  color
+
+  finish'
+bip_39_word_new_line11: 'riot
+
+  tree
+
+  strong
+
+  negative
+
+  butter
+
+  belt
+
+  pattern
+
+  lobster
+
+  color
+
+  finish
+
+  fire'
+bip_39_word_new_line12: 'riot
+
+  tree
+
+  strong
+
+  negative
+
+  butter
+
+  belt
+
+  pattern
+
+  lobster
+
+  color
+
+  finish
+
+  fire
+
+  annual'
+bip_39_word_new_line2: 'riot
+
+  tree'
+bip_39_word_new_line3: 'riot
+
+  tree
+
+  strong'
+bip_39_word_new_line4: 'riot
+
+  tree
+
+  strong
+
+  negative'
+bip_39_word_new_line5: 'riot
+
+  tree
+
+  strong
+
+  negative
+
+  butter'
+bip_39_word_new_line6: 'riot
+
+  tree
+
+  strong
+
+  negative
+
+  butter
+
+  belt'
+bip_39_word_new_line7: 'riot
+
+  tree
+
+  strong
+
+  negative
+
+  butter
+
+  belt
+
+  pattern'
+bip_39_word_new_line8: 'riot
+
+  tree
+
+  strong
+
+  negative
+
+  butter
+
+  belt
+
+  pattern
+
+  lobster'
+bip_39_word_new_line9: 'riot
+
+  tree
+
+  strong
+
+  negative
+
+  butter
+
+  belt
+
+  pattern
+
+  lobster
+
+  color'
+bip_39_word_space_0:
+- riot
+- tree
+- strong
+- negative
+- butter
+- belt
+- pattern
+- lobster
+- color
+- finish
+- fire
+- annual
+bip_39_word_space_1: riot
+bip_39_word_space_10: riot tree strong negative butter belt pattern lobster color
+  finish
+bip_39_word_space_11: riot tree strong negative butter belt pattern lobster color
+  finish fire
+bip_39_word_space_12: riot tree strong negative butter belt pattern lobster color
+  finish fire annual
+bip_39_word_space_2: riot tree
+bip_39_word_space_3: riot tree strong
+bip_39_word_space_4: riot tree strong negative
+bip_39_word_space_5: riot tree strong negative butter
+bip_39_word_space_6: riot tree strong negative butter belt
+bip_39_word_space_7: riot tree strong negative butter belt pattern
+bip_39_word_space_8: riot tree strong negative butter belt pattern lobster
+bip_39_word_space_9: riot tree strong negative butter belt pattern lobster color
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

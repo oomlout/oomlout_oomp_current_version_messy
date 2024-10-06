@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: page hard
+  * bip 39 word 3: page hard mountain
+  * bip 39 word: page hard mountain traffic scene window plunge repair shop table captain assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | page |  
+| bip_39_word_new_br10 | page<br>hard<br>mountain<br>traffic<br>scene<br>window<br>plunge<br>repair<br>shop<br>table |  
+| bip_39_word_new_br11 | page<br>hard<br>mountain<br>traffic<br>scene<br>window<br>plunge<br>repair<br>shop<br>table<br>captain |  
+| bip_39_word_new_br12 | page<br>hard<br>mountain<br>traffic<br>scene<br>window<br>plunge<br>repair<br>shop<br>table<br>captain<br>assist |  
+| bip_39_word_new_br2 | page<br>hard |  
+| bip_39_word_new_br3 | page<br>hard<br>mountain |  
+| bip_39_word_new_br4 | page<br>hard<br>mountain<br>traffic |  
+| bip_39_word_new_br5 | page<br>hard<br>mountain<br>traffic<br>scene |  
+| bip_39_word_new_br6 | page<br>hard<br>mountain<br>traffic<br>scene<br>window |  
+| bip_39_word_new_br7 | page<br>hard<br>mountain<br>traffic<br>scene<br>window<br>plunge |  
+| bip_39_word_new_br8 | page<br>hard<br>mountain<br>traffic<br>scene<br>window<br>plunge<br>repair |  
+| bip_39_word_new_br9 | page<br>hard<br>mountain<br>traffic<br>scene<br>window<br>plunge<br>repair<br>shop |  
+| bip_39_word_new_line1 | page |  
+| bip_39_word_new_line10 | page
+hard
+mountain
+traffic
+scene
+window
+plunge
+repair
+shop
+table |  
+| bip_39_word_new_line11 | page
+hard
+mountain
+traffic
+scene
+window
+plunge
+repair
+shop
+table
+captain |  
+| bip_39_word_new_line12 | page
+hard
+mountain
+traffic
+scene
+window
+plunge
+repair
+shop
+table
+captain
+assist |  
+| bip_39_word_new_line2 | page
+hard |  
+| bip_39_word_new_line3 | page
+hard
+mountain |  
+| bip_39_word_new_line4 | page
+hard
+mountain
+traffic |  
+| bip_39_word_new_line5 | page
+hard
+mountain
+traffic
+scene |  
+| bip_39_word_new_line6 | page
+hard
+mountain
+traffic
+scene
+window |  
+| bip_39_word_new_line7 | page
+hard
+mountain
+traffic
+scene
+window
+plunge |  
+| bip_39_word_new_line8 | page
+hard
+mountain
+traffic
+scene
+window
+plunge
+repair |  
+| bip_39_word_new_line9 | page
+hard
+mountain
+traffic
+scene
+window
+plunge
+repair
+shop |  
+| bip_39_word_space_0 | ['page', 'hard', 'mountain', 'traffic', 'scene', 'window', 'plunge', 'repair', 'shop', 'table', 'captain', 'assist'] |  
+| bip_39_word_space_1 | page |  
+| bip_39_word_space_10 | page hard mountain traffic scene window plunge repair shop table |  
+| bip_39_word_space_11 | page hard mountain traffic scene window plunge repair shop table captain |  
+| bip_39_word_space_12 | page hard mountain traffic scene window plunge repair shop table captain assist |  
+| bip_39_word_space_2 | page hard |  
+| bip_39_word_space_3 | page hard mountain |  
+| bip_39_word_space_4 | page hard mountain traffic |  
+| bip_39_word_space_5 | page hard mountain traffic scene |  
+| bip_39_word_space_6 | page hard mountain traffic scene window |  
+| bip_39_word_space_7 | page hard mountain traffic scene window plunge |  
+| bip_39_word_space_8 | page hard mountain traffic scene window plunge repair |  
+| bip_39_word_space_9 | page hard mountain traffic scene window plunge repair shop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

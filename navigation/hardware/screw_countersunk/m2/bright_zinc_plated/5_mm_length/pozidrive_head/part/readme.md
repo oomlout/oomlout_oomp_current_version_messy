@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: atom happy
+  * bip 39 word 3: atom happy laptop
+  * bip 39 word: atom happy laptop consider crisp venue hat buddy regular owner lock add
 
 ### other_codes
 * short_code: cs2bz5pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | atom |  
+| bip_39_word_new_br10 | atom<br>happy<br>laptop<br>consider<br>crisp<br>venue<br>hat<br>buddy<br>regular<br>owner |  
+| bip_39_word_new_br11 | atom<br>happy<br>laptop<br>consider<br>crisp<br>venue<br>hat<br>buddy<br>regular<br>owner<br>lock |  
+| bip_39_word_new_br12 | atom<br>happy<br>laptop<br>consider<br>crisp<br>venue<br>hat<br>buddy<br>regular<br>owner<br>lock<br>add |  
+| bip_39_word_new_br2 | atom<br>happy |  
+| bip_39_word_new_br3 | atom<br>happy<br>laptop |  
+| bip_39_word_new_br4 | atom<br>happy<br>laptop<br>consider |  
+| bip_39_word_new_br5 | atom<br>happy<br>laptop<br>consider<br>crisp |  
+| bip_39_word_new_br6 | atom<br>happy<br>laptop<br>consider<br>crisp<br>venue |  
+| bip_39_word_new_br7 | atom<br>happy<br>laptop<br>consider<br>crisp<br>venue<br>hat |  
+| bip_39_word_new_br8 | atom<br>happy<br>laptop<br>consider<br>crisp<br>venue<br>hat<br>buddy |  
+| bip_39_word_new_br9 | atom<br>happy<br>laptop<br>consider<br>crisp<br>venue<br>hat<br>buddy<br>regular |  
+| bip_39_word_new_line1 | atom |  
+| bip_39_word_new_line10 | atom
+happy
+laptop
+consider
+crisp
+venue
+hat
+buddy
+regular
+owner |  
+| bip_39_word_new_line11 | atom
+happy
+laptop
+consider
+crisp
+venue
+hat
+buddy
+regular
+owner
+lock |  
+| bip_39_word_new_line12 | atom
+happy
+laptop
+consider
+crisp
+venue
+hat
+buddy
+regular
+owner
+lock
+add |  
+| bip_39_word_new_line2 | atom
+happy |  
+| bip_39_word_new_line3 | atom
+happy
+laptop |  
+| bip_39_word_new_line4 | atom
+happy
+laptop
+consider |  
+| bip_39_word_new_line5 | atom
+happy
+laptop
+consider
+crisp |  
+| bip_39_word_new_line6 | atom
+happy
+laptop
+consider
+crisp
+venue |  
+| bip_39_word_new_line7 | atom
+happy
+laptop
+consider
+crisp
+venue
+hat |  
+| bip_39_word_new_line8 | atom
+happy
+laptop
+consider
+crisp
+venue
+hat
+buddy |  
+| bip_39_word_new_line9 | atom
+happy
+laptop
+consider
+crisp
+venue
+hat
+buddy
+regular |  
+| bip_39_word_space_0 | ['atom', 'happy', 'laptop', 'consider', 'crisp', 'venue', 'hat', 'buddy', 'regular', 'owner', 'lock', 'add'] |  
+| bip_39_word_space_1 | atom |  
+| bip_39_word_space_10 | atom happy laptop consider crisp venue hat buddy regular owner |  
+| bip_39_word_space_11 | atom happy laptop consider crisp venue hat buddy regular owner lock |  
+| bip_39_word_space_12 | atom happy laptop consider crisp venue hat buddy regular owner lock add |  
+| bip_39_word_space_2 | atom happy |  
+| bip_39_word_space_3 | atom happy laptop |  
+| bip_39_word_space_4 | atom happy laptop consider |  
+| bip_39_word_space_5 | atom happy laptop consider crisp |  
+| bip_39_word_space_6 | atom happy laptop consider crisp venue |  
+| bip_39_word_space_7 | atom happy laptop consider crisp venue hat |  
+| bip_39_word_space_8 | atom happy laptop consider crisp venue hat buddy |  
+| bip_39_word_space_9 | atom happy laptop consider crisp venue hat buddy regular |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

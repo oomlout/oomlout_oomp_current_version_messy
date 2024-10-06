@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boat found
+  * bip 39 word 3: boat found modify
+  * bip 39 word: boat found modify skull abandon drastic honey unusual bundle drip firm alcohol
 
 ### other_codes
 * short_code: n5m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boat |  
+| bip_39_word_new_br10 | boat<br>found<br>modify<br>skull<br>abandon<br>drastic<br>honey<br>unusual<br>bundle<br>drip |  
+| bip_39_word_new_br11 | boat<br>found<br>modify<br>skull<br>abandon<br>drastic<br>honey<br>unusual<br>bundle<br>drip<br>firm |  
+| bip_39_word_new_br12 | boat<br>found<br>modify<br>skull<br>abandon<br>drastic<br>honey<br>unusual<br>bundle<br>drip<br>firm<br>alcohol |  
+| bip_39_word_new_br2 | boat<br>found |  
+| bip_39_word_new_br3 | boat<br>found<br>modify |  
+| bip_39_word_new_br4 | boat<br>found<br>modify<br>skull |  
+| bip_39_word_new_br5 | boat<br>found<br>modify<br>skull<br>abandon |  
+| bip_39_word_new_br6 | boat<br>found<br>modify<br>skull<br>abandon<br>drastic |  
+| bip_39_word_new_br7 | boat<br>found<br>modify<br>skull<br>abandon<br>drastic<br>honey |  
+| bip_39_word_new_br8 | boat<br>found<br>modify<br>skull<br>abandon<br>drastic<br>honey<br>unusual |  
+| bip_39_word_new_br9 | boat<br>found<br>modify<br>skull<br>abandon<br>drastic<br>honey<br>unusual<br>bundle |  
+| bip_39_word_new_line1 | boat |  
+| bip_39_word_new_line10 | boat
+found
+modify
+skull
+abandon
+drastic
+honey
+unusual
+bundle
+drip |  
+| bip_39_word_new_line11 | boat
+found
+modify
+skull
+abandon
+drastic
+honey
+unusual
+bundle
+drip
+firm |  
+| bip_39_word_new_line12 | boat
+found
+modify
+skull
+abandon
+drastic
+honey
+unusual
+bundle
+drip
+firm
+alcohol |  
+| bip_39_word_new_line2 | boat
+found |  
+| bip_39_word_new_line3 | boat
+found
+modify |  
+| bip_39_word_new_line4 | boat
+found
+modify
+skull |  
+| bip_39_word_new_line5 | boat
+found
+modify
+skull
+abandon |  
+| bip_39_word_new_line6 | boat
+found
+modify
+skull
+abandon
+drastic |  
+| bip_39_word_new_line7 | boat
+found
+modify
+skull
+abandon
+drastic
+honey |  
+| bip_39_word_new_line8 | boat
+found
+modify
+skull
+abandon
+drastic
+honey
+unusual |  
+| bip_39_word_new_line9 | boat
+found
+modify
+skull
+abandon
+drastic
+honey
+unusual
+bundle |  
+| bip_39_word_space_0 | ['boat', 'found', 'modify', 'skull', 'abandon', 'drastic', 'honey', 'unusual', 'bundle', 'drip', 'firm', 'alcohol'] |  
+| bip_39_word_space_1 | boat |  
+| bip_39_word_space_10 | boat found modify skull abandon drastic honey unusual bundle drip |  
+| bip_39_word_space_11 | boat found modify skull abandon drastic honey unusual bundle drip firm |  
+| bip_39_word_space_12 | boat found modify skull abandon drastic honey unusual bundle drip firm alcohol |  
+| bip_39_word_space_2 | boat found |  
+| bip_39_word_space_3 | boat found modify |  
+| bip_39_word_space_4 | boat found modify skull |  
+| bip_39_word_space_5 | boat found modify skull abandon |  
+| bip_39_word_space_6 | boat found modify skull abandon drastic |  
+| bip_39_word_space_7 | boat found modify skull abandon drastic honey |  
+| bip_39_word_space_8 | boat found modify skull abandon drastic honey unusual |  
+| bip_39_word_space_9 | boat found modify skull abandon drastic honey unusual bundle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

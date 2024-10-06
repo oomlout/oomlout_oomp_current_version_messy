@@ -1,3 +1,187 @@
+bip_39_word_new_br1: welcome
+bip_39_word_new_br10: welcome<br>december<br>journey<br>uncover<br>year<br>dumb<br>document<br>connect<br>bulb<br>scrub
+bip_39_word_new_br11: welcome<br>december<br>journey<br>uncover<br>year<br>dumb<br>document<br>connect<br>bulb<br>scrub<br>model
+bip_39_word_new_br12: welcome<br>december<br>journey<br>uncover<br>year<br>dumb<br>document<br>connect<br>bulb<br>scrub<br>model<br>airport
+bip_39_word_new_br2: welcome<br>december
+bip_39_word_new_br3: welcome<br>december<br>journey
+bip_39_word_new_br4: welcome<br>december<br>journey<br>uncover
+bip_39_word_new_br5: welcome<br>december<br>journey<br>uncover<br>year
+bip_39_word_new_br6: welcome<br>december<br>journey<br>uncover<br>year<br>dumb
+bip_39_word_new_br7: welcome<br>december<br>journey<br>uncover<br>year<br>dumb<br>document
+bip_39_word_new_br8: welcome<br>december<br>journey<br>uncover<br>year<br>dumb<br>document<br>connect
+bip_39_word_new_br9: welcome<br>december<br>journey<br>uncover<br>year<br>dumb<br>document<br>connect<br>bulb
+bip_39_word_new_line1: welcome
+bip_39_word_new_line10: 'welcome
+
+  december
+
+  journey
+
+  uncover
+
+  year
+
+  dumb
+
+  document
+
+  connect
+
+  bulb
+
+  scrub'
+bip_39_word_new_line11: 'welcome
+
+  december
+
+  journey
+
+  uncover
+
+  year
+
+  dumb
+
+  document
+
+  connect
+
+  bulb
+
+  scrub
+
+  model'
+bip_39_word_new_line12: 'welcome
+
+  december
+
+  journey
+
+  uncover
+
+  year
+
+  dumb
+
+  document
+
+  connect
+
+  bulb
+
+  scrub
+
+  model
+
+  airport'
+bip_39_word_new_line2: 'welcome
+
+  december'
+bip_39_word_new_line3: 'welcome
+
+  december
+
+  journey'
+bip_39_word_new_line4: 'welcome
+
+  december
+
+  journey
+
+  uncover'
+bip_39_word_new_line5: 'welcome
+
+  december
+
+  journey
+
+  uncover
+
+  year'
+bip_39_word_new_line6: 'welcome
+
+  december
+
+  journey
+
+  uncover
+
+  year
+
+  dumb'
+bip_39_word_new_line7: 'welcome
+
+  december
+
+  journey
+
+  uncover
+
+  year
+
+  dumb
+
+  document'
+bip_39_word_new_line8: 'welcome
+
+  december
+
+  journey
+
+  uncover
+
+  year
+
+  dumb
+
+  document
+
+  connect'
+bip_39_word_new_line9: 'welcome
+
+  december
+
+  journey
+
+  uncover
+
+  year
+
+  dumb
+
+  document
+
+  connect
+
+  bulb'
+bip_39_word_space_0:
+- welcome
+- december
+- journey
+- uncover
+- year
+- dumb
+- document
+- connect
+- bulb
+- scrub
+- model
+- airport
+bip_39_word_space_1: welcome
+bip_39_word_space_10: welcome december journey uncover year dumb document connect
+  bulb scrub
+bip_39_word_space_11: welcome december journey uncover year dumb document connect
+  bulb scrub model
+bip_39_word_space_12: welcome december journey uncover year dumb document connect
+  bulb scrub model airport
+bip_39_word_space_2: welcome december
+bip_39_word_space_3: welcome december journey
+bip_39_word_space_4: welcome december journey uncover
+bip_39_word_space_5: welcome december journey uncover year
+bip_39_word_space_6: welcome december journey uncover year dumb
+bip_39_word_space_7: welcome december journey uncover year dumb document
+bip_39_word_space_8: welcome december journey uncover year dumb document connect
+bip_39_word_space_9: welcome december journey uncover year dumb document connect bulb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

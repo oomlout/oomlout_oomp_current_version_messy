@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brass desert
+  * bip 39 word 3: brass desert employ
+  * bip 39 word: brass desert employ foster good helmet robot into ribbon damage magnet air
 
 ### other_codes
 * short_code: br16009
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brass |  
+| bip_39_word_new_br10 | brass<br>desert<br>employ<br>foster<br>good<br>helmet<br>robot<br>into<br>ribbon<br>damage |  
+| bip_39_word_new_br11 | brass<br>desert<br>employ<br>foster<br>good<br>helmet<br>robot<br>into<br>ribbon<br>damage<br>magnet |  
+| bip_39_word_new_br12 | brass<br>desert<br>employ<br>foster<br>good<br>helmet<br>robot<br>into<br>ribbon<br>damage<br>magnet<br>air |  
+| bip_39_word_new_br2 | brass<br>desert |  
+| bip_39_word_new_br3 | brass<br>desert<br>employ |  
+| bip_39_word_new_br4 | brass<br>desert<br>employ<br>foster |  
+| bip_39_word_new_br5 | brass<br>desert<br>employ<br>foster<br>good |  
+| bip_39_word_new_br6 | brass<br>desert<br>employ<br>foster<br>good<br>helmet |  
+| bip_39_word_new_br7 | brass<br>desert<br>employ<br>foster<br>good<br>helmet<br>robot |  
+| bip_39_word_new_br8 | brass<br>desert<br>employ<br>foster<br>good<br>helmet<br>robot<br>into |  
+| bip_39_word_new_br9 | brass<br>desert<br>employ<br>foster<br>good<br>helmet<br>robot<br>into<br>ribbon |  
+| bip_39_word_new_line1 | brass |  
+| bip_39_word_new_line10 | brass
+desert
+employ
+foster
+good
+helmet
+robot
+into
+ribbon
+damage |  
+| bip_39_word_new_line11 | brass
+desert
+employ
+foster
+good
+helmet
+robot
+into
+ribbon
+damage
+magnet |  
+| bip_39_word_new_line12 | brass
+desert
+employ
+foster
+good
+helmet
+robot
+into
+ribbon
+damage
+magnet
+air |  
+| bip_39_word_new_line2 | brass
+desert |  
+| bip_39_word_new_line3 | brass
+desert
+employ |  
+| bip_39_word_new_line4 | brass
+desert
+employ
+foster |  
+| bip_39_word_new_line5 | brass
+desert
+employ
+foster
+good |  
+| bip_39_word_new_line6 | brass
+desert
+employ
+foster
+good
+helmet |  
+| bip_39_word_new_line7 | brass
+desert
+employ
+foster
+good
+helmet
+robot |  
+| bip_39_word_new_line8 | brass
+desert
+employ
+foster
+good
+helmet
+robot
+into |  
+| bip_39_word_new_line9 | brass
+desert
+employ
+foster
+good
+helmet
+robot
+into
+ribbon |  
+| bip_39_word_space_0 | ['brass', 'desert', 'employ', 'foster', 'good', 'helmet', 'robot', 'into', 'ribbon', 'damage', 'magnet', 'air'] |  
+| bip_39_word_space_1 | brass |  
+| bip_39_word_space_10 | brass desert employ foster good helmet robot into ribbon damage |  
+| bip_39_word_space_11 | brass desert employ foster good helmet robot into ribbon damage magnet |  
+| bip_39_word_space_12 | brass desert employ foster good helmet robot into ribbon damage magnet air |  
+| bip_39_word_space_2 | brass desert |  
+| bip_39_word_space_3 | brass desert employ |  
+| bip_39_word_space_4 | brass desert employ foster |  
+| bip_39_word_space_5 | brass desert employ foster good |  
+| bip_39_word_space_6 | brass desert employ foster good helmet |  
+| bip_39_word_space_7 | brass desert employ foster good helmet robot |  
+| bip_39_word_space_8 | brass desert employ foster good helmet robot into |  
+| bip_39_word_space_9 | brass desert employ foster good helmet robot into ribbon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

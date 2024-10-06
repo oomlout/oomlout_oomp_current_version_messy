@@ -1,3 +1,186 @@
+bip_39_word_new_br1: subject
+bip_39_word_new_br10: subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit
+bip_39_word_new_br11: subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit<br>search
+bip_39_word_new_br12: subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp<br>submit<br>search<br>amount
+bip_39_word_new_br2: subject<br>biology
+bip_39_word_new_br3: subject<br>biology<br>urban
+bip_39_word_new_br4: subject<br>biology<br>urban<br>huge
+bip_39_word_new_br5: subject<br>biology<br>urban<br>huge<br>sweet
+bip_39_word_new_br6: subject<br>biology<br>urban<br>huge<br>sweet<br>sausage
+bip_39_word_new_br7: subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census
+bip_39_word_new_br8: subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby
+bip_39_word_new_br9: subject<br>biology<br>urban<br>huge<br>sweet<br>sausage<br>census<br>hobby<br>gasp
+bip_39_word_new_line1: subject
+bip_39_word_new_line10: 'subject
+
+  biology
+
+  urban
+
+  huge
+
+  sweet
+
+  sausage
+
+  census
+
+  hobby
+
+  gasp
+
+  submit'
+bip_39_word_new_line11: 'subject
+
+  biology
+
+  urban
+
+  huge
+
+  sweet
+
+  sausage
+
+  census
+
+  hobby
+
+  gasp
+
+  submit
+
+  search'
+bip_39_word_new_line12: 'subject
+
+  biology
+
+  urban
+
+  huge
+
+  sweet
+
+  sausage
+
+  census
+
+  hobby
+
+  gasp
+
+  submit
+
+  search
+
+  amount'
+bip_39_word_new_line2: 'subject
+
+  biology'
+bip_39_word_new_line3: 'subject
+
+  biology
+
+  urban'
+bip_39_word_new_line4: 'subject
+
+  biology
+
+  urban
+
+  huge'
+bip_39_word_new_line5: 'subject
+
+  biology
+
+  urban
+
+  huge
+
+  sweet'
+bip_39_word_new_line6: 'subject
+
+  biology
+
+  urban
+
+  huge
+
+  sweet
+
+  sausage'
+bip_39_word_new_line7: 'subject
+
+  biology
+
+  urban
+
+  huge
+
+  sweet
+
+  sausage
+
+  census'
+bip_39_word_new_line8: 'subject
+
+  biology
+
+  urban
+
+  huge
+
+  sweet
+
+  sausage
+
+  census
+
+  hobby'
+bip_39_word_new_line9: 'subject
+
+  biology
+
+  urban
+
+  huge
+
+  sweet
+
+  sausage
+
+  census
+
+  hobby
+
+  gasp'
+bip_39_word_space_0:
+- subject
+- biology
+- urban
+- huge
+- sweet
+- sausage
+- census
+- hobby
+- gasp
+- submit
+- search
+- amount
+bip_39_word_space_1: subject
+bip_39_word_space_10: subject biology urban huge sweet sausage census hobby gasp submit
+bip_39_word_space_11: subject biology urban huge sweet sausage census hobby gasp submit
+  search
+bip_39_word_space_12: subject biology urban huge sweet sausage census hobby gasp submit
+  search amount
+bip_39_word_space_2: subject biology
+bip_39_word_space_3: subject biology urban
+bip_39_word_space_4: subject biology urban huge
+bip_39_word_space_5: subject biology urban huge sweet
+bip_39_word_space_6: subject biology urban huge sweet sausage
+bip_39_word_space_7: subject biology urban huge sweet sausage census
+bip_39_word_space_8: subject biology urban huge sweet sausage census hobby
+bip_39_word_space_9: subject biology urban huge sweet sausage census hobby gasp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

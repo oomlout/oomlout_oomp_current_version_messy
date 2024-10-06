@@ -1,3 +1,185 @@
+bip_39_word_new_br1: tone
+bip_39_word_new_br10: tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life
+bip_39_word_new_br11: tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life<br>lucky
+bip_39_word_new_br12: tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran<br>life<br>lucky<br>advice
+bip_39_word_new_br2: tone<br>raven
+bip_39_word_new_br3: tone<br>raven<br>wash
+bip_39_word_new_br4: tone<br>raven<br>wash<br>man
+bip_39_word_new_br5: tone<br>raven<br>wash<br>man<br>desert
+bip_39_word_new_br6: tone<br>raven<br>wash<br>man<br>desert<br>tray
+bip_39_word_new_br7: tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket
+bip_39_word_new_br8: tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend
+bip_39_word_new_br9: tone<br>raven<br>wash<br>man<br>desert<br>tray<br>bracket<br>spend<br>veteran
+bip_39_word_new_line1: tone
+bip_39_word_new_line10: 'tone
+
+  raven
+
+  wash
+
+  man
+
+  desert
+
+  tray
+
+  bracket
+
+  spend
+
+  veteran
+
+  life'
+bip_39_word_new_line11: 'tone
+
+  raven
+
+  wash
+
+  man
+
+  desert
+
+  tray
+
+  bracket
+
+  spend
+
+  veteran
+
+  life
+
+  lucky'
+bip_39_word_new_line12: 'tone
+
+  raven
+
+  wash
+
+  man
+
+  desert
+
+  tray
+
+  bracket
+
+  spend
+
+  veteran
+
+  life
+
+  lucky
+
+  advice'
+bip_39_word_new_line2: 'tone
+
+  raven'
+bip_39_word_new_line3: 'tone
+
+  raven
+
+  wash'
+bip_39_word_new_line4: 'tone
+
+  raven
+
+  wash
+
+  man'
+bip_39_word_new_line5: 'tone
+
+  raven
+
+  wash
+
+  man
+
+  desert'
+bip_39_word_new_line6: 'tone
+
+  raven
+
+  wash
+
+  man
+
+  desert
+
+  tray'
+bip_39_word_new_line7: 'tone
+
+  raven
+
+  wash
+
+  man
+
+  desert
+
+  tray
+
+  bracket'
+bip_39_word_new_line8: 'tone
+
+  raven
+
+  wash
+
+  man
+
+  desert
+
+  tray
+
+  bracket
+
+  spend'
+bip_39_word_new_line9: 'tone
+
+  raven
+
+  wash
+
+  man
+
+  desert
+
+  tray
+
+  bracket
+
+  spend
+
+  veteran'
+bip_39_word_space_0:
+- tone
+- raven
+- wash
+- man
+- desert
+- tray
+- bracket
+- spend
+- veteran
+- life
+- lucky
+- advice
+bip_39_word_space_1: tone
+bip_39_word_space_10: tone raven wash man desert tray bracket spend veteran life
+bip_39_word_space_11: tone raven wash man desert tray bracket spend veteran life lucky
+bip_39_word_space_12: tone raven wash man desert tray bracket spend veteran life lucky
+  advice
+bip_39_word_space_2: tone raven
+bip_39_word_space_3: tone raven wash
+bip_39_word_space_4: tone raven wash man
+bip_39_word_space_5: tone raven wash man desert
+bip_39_word_space_6: tone raven wash man desert tray
+bip_39_word_space_7: tone raven wash man desert tray bracket
+bip_39_word_space_8: tone raven wash man desert tray bracket spend
+bip_39_word_space_9: tone raven wash man desert tray bracket spend veteran
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

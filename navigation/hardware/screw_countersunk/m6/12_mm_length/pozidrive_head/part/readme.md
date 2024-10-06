@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: logic humor
+  * bip 39 word 3: logic humor suspect
+  * bip 39 word: logic humor suspect canoe alley gallery proud afford turtle cement scene afraid
 
 ### other_codes
 * short_code: cs6m12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | logic |  
+| bip_39_word_new_br10 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery<br>proud<br>afford<br>turtle<br>cement |  
+| bip_39_word_new_br11 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery<br>proud<br>afford<br>turtle<br>cement<br>scene |  
+| bip_39_word_new_br12 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery<br>proud<br>afford<br>turtle<br>cement<br>scene<br>afraid |  
+| bip_39_word_new_br2 | logic<br>humor |  
+| bip_39_word_new_br3 | logic<br>humor<br>suspect |  
+| bip_39_word_new_br4 | logic<br>humor<br>suspect<br>canoe |  
+| bip_39_word_new_br5 | logic<br>humor<br>suspect<br>canoe<br>alley |  
+| bip_39_word_new_br6 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery |  
+| bip_39_word_new_br7 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery<br>proud |  
+| bip_39_word_new_br8 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery<br>proud<br>afford |  
+| bip_39_word_new_br9 | logic<br>humor<br>suspect<br>canoe<br>alley<br>gallery<br>proud<br>afford<br>turtle |  
+| bip_39_word_new_line1 | logic |  
+| bip_39_word_new_line10 | logic
+humor
+suspect
+canoe
+alley
+gallery
+proud
+afford
+turtle
+cement |  
+| bip_39_word_new_line11 | logic
+humor
+suspect
+canoe
+alley
+gallery
+proud
+afford
+turtle
+cement
+scene |  
+| bip_39_word_new_line12 | logic
+humor
+suspect
+canoe
+alley
+gallery
+proud
+afford
+turtle
+cement
+scene
+afraid |  
+| bip_39_word_new_line2 | logic
+humor |  
+| bip_39_word_new_line3 | logic
+humor
+suspect |  
+| bip_39_word_new_line4 | logic
+humor
+suspect
+canoe |  
+| bip_39_word_new_line5 | logic
+humor
+suspect
+canoe
+alley |  
+| bip_39_word_new_line6 | logic
+humor
+suspect
+canoe
+alley
+gallery |  
+| bip_39_word_new_line7 | logic
+humor
+suspect
+canoe
+alley
+gallery
+proud |  
+| bip_39_word_new_line8 | logic
+humor
+suspect
+canoe
+alley
+gallery
+proud
+afford |  
+| bip_39_word_new_line9 | logic
+humor
+suspect
+canoe
+alley
+gallery
+proud
+afford
+turtle |  
+| bip_39_word_space_0 | ['logic', 'humor', 'suspect', 'canoe', 'alley', 'gallery', 'proud', 'afford', 'turtle', 'cement', 'scene', 'afraid'] |  
+| bip_39_word_space_1 | logic |  
+| bip_39_word_space_10 | logic humor suspect canoe alley gallery proud afford turtle cement |  
+| bip_39_word_space_11 | logic humor suspect canoe alley gallery proud afford turtle cement scene |  
+| bip_39_word_space_12 | logic humor suspect canoe alley gallery proud afford turtle cement scene afraid |  
+| bip_39_word_space_2 | logic humor |  
+| bip_39_word_space_3 | logic humor suspect |  
+| bip_39_word_space_4 | logic humor suspect canoe |  
+| bip_39_word_space_5 | logic humor suspect canoe alley |  
+| bip_39_word_space_6 | logic humor suspect canoe alley gallery |  
+| bip_39_word_space_7 | logic humor suspect canoe alley gallery proud |  
+| bip_39_word_space_8 | logic humor suspect canoe alley gallery proud afford |  
+| bip_39_word_space_9 | logic humor suspect canoe alley gallery proud afford turtle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

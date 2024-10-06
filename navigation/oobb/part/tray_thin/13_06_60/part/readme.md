@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: isolate vapor
+  * bip 39 word 3: isolate vapor alert
+  * bip 39 word: isolate vapor alert around adapt approve bonus detect junior brief dizzy auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | isolate |  
+| bip_39_word_new_br10 | isolate<br>vapor<br>alert<br>around<br>adapt<br>approve<br>bonus<br>detect<br>junior<br>brief |  
+| bip_39_word_new_br11 | isolate<br>vapor<br>alert<br>around<br>adapt<br>approve<br>bonus<br>detect<br>junior<br>brief<br>dizzy |  
+| bip_39_word_new_br12 | isolate<br>vapor<br>alert<br>around<br>adapt<br>approve<br>bonus<br>detect<br>junior<br>brief<br>dizzy<br>auto |  
+| bip_39_word_new_br2 | isolate<br>vapor |  
+| bip_39_word_new_br3 | isolate<br>vapor<br>alert |  
+| bip_39_word_new_br4 | isolate<br>vapor<br>alert<br>around |  
+| bip_39_word_new_br5 | isolate<br>vapor<br>alert<br>around<br>adapt |  
+| bip_39_word_new_br6 | isolate<br>vapor<br>alert<br>around<br>adapt<br>approve |  
+| bip_39_word_new_br7 | isolate<br>vapor<br>alert<br>around<br>adapt<br>approve<br>bonus |  
+| bip_39_word_new_br8 | isolate<br>vapor<br>alert<br>around<br>adapt<br>approve<br>bonus<br>detect |  
+| bip_39_word_new_br9 | isolate<br>vapor<br>alert<br>around<br>adapt<br>approve<br>bonus<br>detect<br>junior |  
+| bip_39_word_new_line1 | isolate |  
+| bip_39_word_new_line10 | isolate
+vapor
+alert
+around
+adapt
+approve
+bonus
+detect
+junior
+brief |  
+| bip_39_word_new_line11 | isolate
+vapor
+alert
+around
+adapt
+approve
+bonus
+detect
+junior
+brief
+dizzy |  
+| bip_39_word_new_line12 | isolate
+vapor
+alert
+around
+adapt
+approve
+bonus
+detect
+junior
+brief
+dizzy
+auto |  
+| bip_39_word_new_line2 | isolate
+vapor |  
+| bip_39_word_new_line3 | isolate
+vapor
+alert |  
+| bip_39_word_new_line4 | isolate
+vapor
+alert
+around |  
+| bip_39_word_new_line5 | isolate
+vapor
+alert
+around
+adapt |  
+| bip_39_word_new_line6 | isolate
+vapor
+alert
+around
+adapt
+approve |  
+| bip_39_word_new_line7 | isolate
+vapor
+alert
+around
+adapt
+approve
+bonus |  
+| bip_39_word_new_line8 | isolate
+vapor
+alert
+around
+adapt
+approve
+bonus
+detect |  
+| bip_39_word_new_line9 | isolate
+vapor
+alert
+around
+adapt
+approve
+bonus
+detect
+junior |  
+| bip_39_word_space_0 | ['isolate', 'vapor', 'alert', 'around', 'adapt', 'approve', 'bonus', 'detect', 'junior', 'brief', 'dizzy', 'auto'] |  
+| bip_39_word_space_1 | isolate |  
+| bip_39_word_space_10 | isolate vapor alert around adapt approve bonus detect junior brief |  
+| bip_39_word_space_11 | isolate vapor alert around adapt approve bonus detect junior brief dizzy |  
+| bip_39_word_space_12 | isolate vapor alert around adapt approve bonus detect junior brief dizzy auto |  
+| bip_39_word_space_2 | isolate vapor |  
+| bip_39_word_space_3 | isolate vapor alert |  
+| bip_39_word_space_4 | isolate vapor alert around |  
+| bip_39_word_space_5 | isolate vapor alert around adapt |  
+| bip_39_word_space_6 | isolate vapor alert around adapt approve |  
+| bip_39_word_space_7 | isolate vapor alert around adapt approve bonus |  
+| bip_39_word_space_8 | isolate vapor alert around adapt approve bonus detect |  
+| bip_39_word_space_9 | isolate vapor alert around adapt approve bonus detect junior |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

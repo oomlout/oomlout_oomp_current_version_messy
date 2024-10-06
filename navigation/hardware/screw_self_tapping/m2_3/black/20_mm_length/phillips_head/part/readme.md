@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: strike cotton
+  * bip 39 word 3: strike cotton dry
+  * bip 39 word: strike cotton dry anchor mistake chimney draft unique logic damp inner aunt
 
 ### other_codes
 * short_code: st2d3b20p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | strike |  
+| bip_39_word_new_br10 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp |  
+| bip_39_word_new_br11 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp<br>inner |  
+| bip_39_word_new_br12 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic<br>damp<br>inner<br>aunt |  
+| bip_39_word_new_br2 | strike<br>cotton |  
+| bip_39_word_new_br3 | strike<br>cotton<br>dry |  
+| bip_39_word_new_br4 | strike<br>cotton<br>dry<br>anchor |  
+| bip_39_word_new_br5 | strike<br>cotton<br>dry<br>anchor<br>mistake |  
+| bip_39_word_new_br6 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney |  
+| bip_39_word_new_br7 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft |  
+| bip_39_word_new_br8 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique |  
+| bip_39_word_new_br9 | strike<br>cotton<br>dry<br>anchor<br>mistake<br>chimney<br>draft<br>unique<br>logic |  
+| bip_39_word_new_line1 | strike |  
+| bip_39_word_new_line10 | strike
+cotton
+dry
+anchor
+mistake
+chimney
+draft
+unique
+logic
+damp |  
+| bip_39_word_new_line11 | strike
+cotton
+dry
+anchor
+mistake
+chimney
+draft
+unique
+logic
+damp
+inner |  
+| bip_39_word_new_line12 | strike
+cotton
+dry
+anchor
+mistake
+chimney
+draft
+unique
+logic
+damp
+inner
+aunt |  
+| bip_39_word_new_line2 | strike
+cotton |  
+| bip_39_word_new_line3 | strike
+cotton
+dry |  
+| bip_39_word_new_line4 | strike
+cotton
+dry
+anchor |  
+| bip_39_word_new_line5 | strike
+cotton
+dry
+anchor
+mistake |  
+| bip_39_word_new_line6 | strike
+cotton
+dry
+anchor
+mistake
+chimney |  
+| bip_39_word_new_line7 | strike
+cotton
+dry
+anchor
+mistake
+chimney
+draft |  
+| bip_39_word_new_line8 | strike
+cotton
+dry
+anchor
+mistake
+chimney
+draft
+unique |  
+| bip_39_word_new_line9 | strike
+cotton
+dry
+anchor
+mistake
+chimney
+draft
+unique
+logic |  
+| bip_39_word_space_0 | ['strike', 'cotton', 'dry', 'anchor', 'mistake', 'chimney', 'draft', 'unique', 'logic', 'damp', 'inner', 'aunt'] |  
+| bip_39_word_space_1 | strike |  
+| bip_39_word_space_10 | strike cotton dry anchor mistake chimney draft unique logic damp |  
+| bip_39_word_space_11 | strike cotton dry anchor mistake chimney draft unique logic damp inner |  
+| bip_39_word_space_12 | strike cotton dry anchor mistake chimney draft unique logic damp inner aunt |  
+| bip_39_word_space_2 | strike cotton |  
+| bip_39_word_space_3 | strike cotton dry |  
+| bip_39_word_space_4 | strike cotton dry anchor |  
+| bip_39_word_space_5 | strike cotton dry anchor mistake |  
+| bip_39_word_space_6 | strike cotton dry anchor mistake chimney |  
+| bip_39_word_space_7 | strike cotton dry anchor mistake chimney draft |  
+| bip_39_word_space_8 | strike cotton dry anchor mistake chimney draft unique |  
+| bip_39_word_space_9 | strike cotton dry anchor mistake chimney draft unique logic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

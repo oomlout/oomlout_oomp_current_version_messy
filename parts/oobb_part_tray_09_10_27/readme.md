@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wage miss
+  * bip 39 word 3: wage miss awkward
+  * bip 39 word: wage miss awkward primary captain stereo right uncle person drift message always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wage |  
+| bip_39_word_new_br10 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person<br>drift |  
+| bip_39_word_new_br11 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person<br>drift<br>message |  
+| bip_39_word_new_br12 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person<br>drift<br>message<br>always |  
+| bip_39_word_new_br2 | wage<br>miss |  
+| bip_39_word_new_br3 | wage<br>miss<br>awkward |  
+| bip_39_word_new_br4 | wage<br>miss<br>awkward<br>primary |  
+| bip_39_word_new_br5 | wage<br>miss<br>awkward<br>primary<br>captain |  
+| bip_39_word_new_br6 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo |  
+| bip_39_word_new_br7 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right |  
+| bip_39_word_new_br8 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle |  
+| bip_39_word_new_br9 | wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person |  
+| bip_39_word_new_line1 | wage |  
+| bip_39_word_new_line10 | wage
+miss
+awkward
+primary
+captain
+stereo
+right
+uncle
+person
+drift |  
+| bip_39_word_new_line11 | wage
+miss
+awkward
+primary
+captain
+stereo
+right
+uncle
+person
+drift
+message |  
+| bip_39_word_new_line12 | wage
+miss
+awkward
+primary
+captain
+stereo
+right
+uncle
+person
+drift
+message
+always |  
+| bip_39_word_new_line2 | wage
+miss |  
+| bip_39_word_new_line3 | wage
+miss
+awkward |  
+| bip_39_word_new_line4 | wage
+miss
+awkward
+primary |  
+| bip_39_word_new_line5 | wage
+miss
+awkward
+primary
+captain |  
+| bip_39_word_new_line6 | wage
+miss
+awkward
+primary
+captain
+stereo |  
+| bip_39_word_new_line7 | wage
+miss
+awkward
+primary
+captain
+stereo
+right |  
+| bip_39_word_new_line8 | wage
+miss
+awkward
+primary
+captain
+stereo
+right
+uncle |  
+| bip_39_word_new_line9 | wage
+miss
+awkward
+primary
+captain
+stereo
+right
+uncle
+person |  
+| bip_39_word_space_0 | ['wage', 'miss', 'awkward', 'primary', 'captain', 'stereo', 'right', 'uncle', 'person', 'drift', 'message', 'always'] |  
+| bip_39_word_space_1 | wage |  
+| bip_39_word_space_10 | wage miss awkward primary captain stereo right uncle person drift |  
+| bip_39_word_space_11 | wage miss awkward primary captain stereo right uncle person drift message |  
+| bip_39_word_space_12 | wage miss awkward primary captain stereo right uncle person drift message always |  
+| bip_39_word_space_2 | wage miss |  
+| bip_39_word_space_3 | wage miss awkward |  
+| bip_39_word_space_4 | wage miss awkward primary |  
+| bip_39_word_space_5 | wage miss awkward primary captain |  
+| bip_39_word_space_6 | wage miss awkward primary captain stereo |  
+| bip_39_word_space_7 | wage miss awkward primary captain stereo right |  
+| bip_39_word_space_8 | wage miss awkward primary captain stereo right uncle |  
+| bip_39_word_space_9 | wage miss awkward primary captain stereo right uncle person |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

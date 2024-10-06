@@ -1,3 +1,187 @@
+bip_39_word_new_br1: until
+bip_39_word_new_br10: until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology
+bip_39_word_new_br11: until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology<br>update
+bip_39_word_new_br12: until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super<br>ecology<br>update<br>actress
+bip_39_word_new_br2: until<br>social
+bip_39_word_new_br3: until<br>social<br>damp
+bip_39_word_new_br4: until<br>social<br>damp<br>business
+bip_39_word_new_br5: until<br>social<br>damp<br>business<br>general
+bip_39_word_new_br6: until<br>social<br>damp<br>business<br>general<br>timber
+bip_39_word_new_br7: until<br>social<br>damp<br>business<br>general<br>timber<br>twist
+bip_39_word_new_br8: until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap
+bip_39_word_new_br9: until<br>social<br>damp<br>business<br>general<br>timber<br>twist<br>cheap<br>super
+bip_39_word_new_line1: until
+bip_39_word_new_line10: 'until
+
+  social
+
+  damp
+
+  business
+
+  general
+
+  timber
+
+  twist
+
+  cheap
+
+  super
+
+  ecology'
+bip_39_word_new_line11: 'until
+
+  social
+
+  damp
+
+  business
+
+  general
+
+  timber
+
+  twist
+
+  cheap
+
+  super
+
+  ecology
+
+  update'
+bip_39_word_new_line12: 'until
+
+  social
+
+  damp
+
+  business
+
+  general
+
+  timber
+
+  twist
+
+  cheap
+
+  super
+
+  ecology
+
+  update
+
+  actress'
+bip_39_word_new_line2: 'until
+
+  social'
+bip_39_word_new_line3: 'until
+
+  social
+
+  damp'
+bip_39_word_new_line4: 'until
+
+  social
+
+  damp
+
+  business'
+bip_39_word_new_line5: 'until
+
+  social
+
+  damp
+
+  business
+
+  general'
+bip_39_word_new_line6: 'until
+
+  social
+
+  damp
+
+  business
+
+  general
+
+  timber'
+bip_39_word_new_line7: 'until
+
+  social
+
+  damp
+
+  business
+
+  general
+
+  timber
+
+  twist'
+bip_39_word_new_line8: 'until
+
+  social
+
+  damp
+
+  business
+
+  general
+
+  timber
+
+  twist
+
+  cheap'
+bip_39_word_new_line9: 'until
+
+  social
+
+  damp
+
+  business
+
+  general
+
+  timber
+
+  twist
+
+  cheap
+
+  super'
+bip_39_word_space_0:
+- until
+- social
+- damp
+- business
+- general
+- timber
+- twist
+- cheap
+- super
+- ecology
+- update
+- actress
+bip_39_word_space_1: until
+bip_39_word_space_10: until social damp business general timber twist cheap super
+  ecology
+bip_39_word_space_11: until social damp business general timber twist cheap super
+  ecology update
+bip_39_word_space_12: until social damp business general timber twist cheap super
+  ecology update actress
+bip_39_word_space_2: until social
+bip_39_word_space_3: until social damp
+bip_39_word_space_4: until social damp business
+bip_39_word_space_5: until social damp business general
+bip_39_word_space_6: until social damp business general timber
+bip_39_word_space_7: until social damp business general timber twist
+bip_39_word_space_8: until social damp business general timber twist cheap
+bip_39_word_space_9: until social damp business general timber twist cheap super
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

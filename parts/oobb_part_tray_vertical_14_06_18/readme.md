@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prison surround
+  * bip 39 word 3: prison surround try
+  * bip 39 word: prison surround try fever truth champion female length walnut dose bright addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prison |  
+| bip_39_word_new_br10 | prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose |  
+| bip_39_word_new_br11 | prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose<br>bright |  
+| bip_39_word_new_br12 | prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut<br>dose<br>bright<br>addict |  
+| bip_39_word_new_br2 | prison<br>surround |  
+| bip_39_word_new_br3 | prison<br>surround<br>try |  
+| bip_39_word_new_br4 | prison<br>surround<br>try<br>fever |  
+| bip_39_word_new_br5 | prison<br>surround<br>try<br>fever<br>truth |  
+| bip_39_word_new_br6 | prison<br>surround<br>try<br>fever<br>truth<br>champion |  
+| bip_39_word_new_br7 | prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female |  
+| bip_39_word_new_br8 | prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length |  
+| bip_39_word_new_br9 | prison<br>surround<br>try<br>fever<br>truth<br>champion<br>female<br>length<br>walnut |  
+| bip_39_word_new_line1 | prison |  
+| bip_39_word_new_line10 | prison
+surround
+try
+fever
+truth
+champion
+female
+length
+walnut
+dose |  
+| bip_39_word_new_line11 | prison
+surround
+try
+fever
+truth
+champion
+female
+length
+walnut
+dose
+bright |  
+| bip_39_word_new_line12 | prison
+surround
+try
+fever
+truth
+champion
+female
+length
+walnut
+dose
+bright
+addict |  
+| bip_39_word_new_line2 | prison
+surround |  
+| bip_39_word_new_line3 | prison
+surround
+try |  
+| bip_39_word_new_line4 | prison
+surround
+try
+fever |  
+| bip_39_word_new_line5 | prison
+surround
+try
+fever
+truth |  
+| bip_39_word_new_line6 | prison
+surround
+try
+fever
+truth
+champion |  
+| bip_39_word_new_line7 | prison
+surround
+try
+fever
+truth
+champion
+female |  
+| bip_39_word_new_line8 | prison
+surround
+try
+fever
+truth
+champion
+female
+length |  
+| bip_39_word_new_line9 | prison
+surround
+try
+fever
+truth
+champion
+female
+length
+walnut |  
+| bip_39_word_space_0 | ['prison', 'surround', 'try', 'fever', 'truth', 'champion', 'female', 'length', 'walnut', 'dose', 'bright', 'addict'] |  
+| bip_39_word_space_1 | prison |  
+| bip_39_word_space_10 | prison surround try fever truth champion female length walnut dose |  
+| bip_39_word_space_11 | prison surround try fever truth champion female length walnut dose bright |  
+| bip_39_word_space_12 | prison surround try fever truth champion female length walnut dose bright addict |  
+| bip_39_word_space_2 | prison surround |  
+| bip_39_word_space_3 | prison surround try |  
+| bip_39_word_space_4 | prison surround try fever |  
+| bip_39_word_space_5 | prison surround try fever truth |  
+| bip_39_word_space_6 | prison surround try fever truth champion |  
+| bip_39_word_space_7 | prison surround try fever truth champion female |  
+| bip_39_word_space_8 | prison surround try fever truth champion female length |  
+| bip_39_word_space_9 | prison surround try fever truth champion female length walnut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

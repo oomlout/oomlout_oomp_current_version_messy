@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fish property
+  * bip 39 word 3: fish property teach
+  * bip 39 word: fish property teach stand fall expose mandate arrow fog remind divorce assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fish |  
+| bip_39_word_new_br10 | fish<br>property<br>teach<br>stand<br>fall<br>expose<br>mandate<br>arrow<br>fog<br>remind |  
+| bip_39_word_new_br11 | fish<br>property<br>teach<br>stand<br>fall<br>expose<br>mandate<br>arrow<br>fog<br>remind<br>divorce |  
+| bip_39_word_new_br12 | fish<br>property<br>teach<br>stand<br>fall<br>expose<br>mandate<br>arrow<br>fog<br>remind<br>divorce<br>assault |  
+| bip_39_word_new_br2 | fish<br>property |  
+| bip_39_word_new_br3 | fish<br>property<br>teach |  
+| bip_39_word_new_br4 | fish<br>property<br>teach<br>stand |  
+| bip_39_word_new_br5 | fish<br>property<br>teach<br>stand<br>fall |  
+| bip_39_word_new_br6 | fish<br>property<br>teach<br>stand<br>fall<br>expose |  
+| bip_39_word_new_br7 | fish<br>property<br>teach<br>stand<br>fall<br>expose<br>mandate |  
+| bip_39_word_new_br8 | fish<br>property<br>teach<br>stand<br>fall<br>expose<br>mandate<br>arrow |  
+| bip_39_word_new_br9 | fish<br>property<br>teach<br>stand<br>fall<br>expose<br>mandate<br>arrow<br>fog |  
+| bip_39_word_new_line1 | fish |  
+| bip_39_word_new_line10 | fish
+property
+teach
+stand
+fall
+expose
+mandate
+arrow
+fog
+remind |  
+| bip_39_word_new_line11 | fish
+property
+teach
+stand
+fall
+expose
+mandate
+arrow
+fog
+remind
+divorce |  
+| bip_39_word_new_line12 | fish
+property
+teach
+stand
+fall
+expose
+mandate
+arrow
+fog
+remind
+divorce
+assault |  
+| bip_39_word_new_line2 | fish
+property |  
+| bip_39_word_new_line3 | fish
+property
+teach |  
+| bip_39_word_new_line4 | fish
+property
+teach
+stand |  
+| bip_39_word_new_line5 | fish
+property
+teach
+stand
+fall |  
+| bip_39_word_new_line6 | fish
+property
+teach
+stand
+fall
+expose |  
+| bip_39_word_new_line7 | fish
+property
+teach
+stand
+fall
+expose
+mandate |  
+| bip_39_word_new_line8 | fish
+property
+teach
+stand
+fall
+expose
+mandate
+arrow |  
+| bip_39_word_new_line9 | fish
+property
+teach
+stand
+fall
+expose
+mandate
+arrow
+fog |  
+| bip_39_word_space_0 | ['fish', 'property', 'teach', 'stand', 'fall', 'expose', 'mandate', 'arrow', 'fog', 'remind', 'divorce', 'assault'] |  
+| bip_39_word_space_1 | fish |  
+| bip_39_word_space_10 | fish property teach stand fall expose mandate arrow fog remind |  
+| bip_39_word_space_11 | fish property teach stand fall expose mandate arrow fog remind divorce |  
+| bip_39_word_space_12 | fish property teach stand fall expose mandate arrow fog remind divorce assault |  
+| bip_39_word_space_2 | fish property |  
+| bip_39_word_space_3 | fish property teach |  
+| bip_39_word_space_4 | fish property teach stand |  
+| bip_39_word_space_5 | fish property teach stand fall |  
+| bip_39_word_space_6 | fish property teach stand fall expose |  
+| bip_39_word_space_7 | fish property teach stand fall expose mandate |  
+| bip_39_word_space_8 | fish property teach stand fall expose mandate arrow |  
+| bip_39_word_space_9 | fish property teach stand fall expose mandate arrow fog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

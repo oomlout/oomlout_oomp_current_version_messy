@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fitness buyer
+  * bip 39 word 3: fitness buyer brown
+  * bip 39 word: fitness buyer brown oppose ride tube service foil aware comfort dirt another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fitness |  
+| bip_39_word_new_br10 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube<br>service<br>foil<br>aware<br>comfort |  
+| bip_39_word_new_br11 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube<br>service<br>foil<br>aware<br>comfort<br>dirt |  
+| bip_39_word_new_br12 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube<br>service<br>foil<br>aware<br>comfort<br>dirt<br>another |  
+| bip_39_word_new_br2 | fitness<br>buyer |  
+| bip_39_word_new_br3 | fitness<br>buyer<br>brown |  
+| bip_39_word_new_br4 | fitness<br>buyer<br>brown<br>oppose |  
+| bip_39_word_new_br5 | fitness<br>buyer<br>brown<br>oppose<br>ride |  
+| bip_39_word_new_br6 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube |  
+| bip_39_word_new_br7 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube<br>service |  
+| bip_39_word_new_br8 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube<br>service<br>foil |  
+| bip_39_word_new_br9 | fitness<br>buyer<br>brown<br>oppose<br>ride<br>tube<br>service<br>foil<br>aware |  
+| bip_39_word_new_line1 | fitness |  
+| bip_39_word_new_line10 | fitness
+buyer
+brown
+oppose
+ride
+tube
+service
+foil
+aware
+comfort |  
+| bip_39_word_new_line11 | fitness
+buyer
+brown
+oppose
+ride
+tube
+service
+foil
+aware
+comfort
+dirt |  
+| bip_39_word_new_line12 | fitness
+buyer
+brown
+oppose
+ride
+tube
+service
+foil
+aware
+comfort
+dirt
+another |  
+| bip_39_word_new_line2 | fitness
+buyer |  
+| bip_39_word_new_line3 | fitness
+buyer
+brown |  
+| bip_39_word_new_line4 | fitness
+buyer
+brown
+oppose |  
+| bip_39_word_new_line5 | fitness
+buyer
+brown
+oppose
+ride |  
+| bip_39_word_new_line6 | fitness
+buyer
+brown
+oppose
+ride
+tube |  
+| bip_39_word_new_line7 | fitness
+buyer
+brown
+oppose
+ride
+tube
+service |  
+| bip_39_word_new_line8 | fitness
+buyer
+brown
+oppose
+ride
+tube
+service
+foil |  
+| bip_39_word_new_line9 | fitness
+buyer
+brown
+oppose
+ride
+tube
+service
+foil
+aware |  
+| bip_39_word_space_0 | ['fitness', 'buyer', 'brown', 'oppose', 'ride', 'tube', 'service', 'foil', 'aware', 'comfort', 'dirt', 'another'] |  
+| bip_39_word_space_1 | fitness |  
+| bip_39_word_space_10 | fitness buyer brown oppose ride tube service foil aware comfort |  
+| bip_39_word_space_11 | fitness buyer brown oppose ride tube service foil aware comfort dirt |  
+| bip_39_word_space_12 | fitness buyer brown oppose ride tube service foil aware comfort dirt another |  
+| bip_39_word_space_2 | fitness buyer |  
+| bip_39_word_space_3 | fitness buyer brown |  
+| bip_39_word_space_4 | fitness buyer brown oppose |  
+| bip_39_word_space_5 | fitness buyer brown oppose ride |  
+| bip_39_word_space_6 | fitness buyer brown oppose ride tube |  
+| bip_39_word_space_7 | fitness buyer brown oppose ride tube service |  
+| bip_39_word_space_8 | fitness buyer brown oppose ride tube service foil |  
+| bip_39_word_space_9 | fitness buyer brown oppose ride tube service foil aware |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

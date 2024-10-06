@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cigar connect
+  * bip 39 word 3: cigar connect genuine
+  * bip 39 word: cigar connect genuine thumb lift capital delay pottery wash faint fat about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cigar |  
+| bip_39_word_new_br10 | cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital<br>delay<br>pottery<br>wash<br>faint |  
+| bip_39_word_new_br11 | cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital<br>delay<br>pottery<br>wash<br>faint<br>fat |  
+| bip_39_word_new_br12 | cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital<br>delay<br>pottery<br>wash<br>faint<br>fat<br>about |  
+| bip_39_word_new_br2 | cigar<br>connect |  
+| bip_39_word_new_br3 | cigar<br>connect<br>genuine |  
+| bip_39_word_new_br4 | cigar<br>connect<br>genuine<br>thumb |  
+| bip_39_word_new_br5 | cigar<br>connect<br>genuine<br>thumb<br>lift |  
+| bip_39_word_new_br6 | cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital |  
+| bip_39_word_new_br7 | cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital<br>delay |  
+| bip_39_word_new_br8 | cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital<br>delay<br>pottery |  
+| bip_39_word_new_br9 | cigar<br>connect<br>genuine<br>thumb<br>lift<br>capital<br>delay<br>pottery<br>wash |  
+| bip_39_word_new_line1 | cigar |  
+| bip_39_word_new_line10 | cigar
+connect
+genuine
+thumb
+lift
+capital
+delay
+pottery
+wash
+faint |  
+| bip_39_word_new_line11 | cigar
+connect
+genuine
+thumb
+lift
+capital
+delay
+pottery
+wash
+faint
+fat |  
+| bip_39_word_new_line12 | cigar
+connect
+genuine
+thumb
+lift
+capital
+delay
+pottery
+wash
+faint
+fat
+about |  
+| bip_39_word_new_line2 | cigar
+connect |  
+| bip_39_word_new_line3 | cigar
+connect
+genuine |  
+| bip_39_word_new_line4 | cigar
+connect
+genuine
+thumb |  
+| bip_39_word_new_line5 | cigar
+connect
+genuine
+thumb
+lift |  
+| bip_39_word_new_line6 | cigar
+connect
+genuine
+thumb
+lift
+capital |  
+| bip_39_word_new_line7 | cigar
+connect
+genuine
+thumb
+lift
+capital
+delay |  
+| bip_39_word_new_line8 | cigar
+connect
+genuine
+thumb
+lift
+capital
+delay
+pottery |  
+| bip_39_word_new_line9 | cigar
+connect
+genuine
+thumb
+lift
+capital
+delay
+pottery
+wash |  
+| bip_39_word_space_0 | ['cigar', 'connect', 'genuine', 'thumb', 'lift', 'capital', 'delay', 'pottery', 'wash', 'faint', 'fat', 'about'] |  
+| bip_39_word_space_1 | cigar |  
+| bip_39_word_space_10 | cigar connect genuine thumb lift capital delay pottery wash faint |  
+| bip_39_word_space_11 | cigar connect genuine thumb lift capital delay pottery wash faint fat |  
+| bip_39_word_space_12 | cigar connect genuine thumb lift capital delay pottery wash faint fat about |  
+| bip_39_word_space_2 | cigar connect |  
+| bip_39_word_space_3 | cigar connect genuine |  
+| bip_39_word_space_4 | cigar connect genuine thumb |  
+| bip_39_word_space_5 | cigar connect genuine thumb lift |  
+| bip_39_word_space_6 | cigar connect genuine thumb lift capital |  
+| bip_39_word_space_7 | cigar connect genuine thumb lift capital delay |  
+| bip_39_word_space_8 | cigar connect genuine thumb lift capital delay pottery |  
+| bip_39_word_space_9 | cigar connect genuine thumb lift capital delay pottery wash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

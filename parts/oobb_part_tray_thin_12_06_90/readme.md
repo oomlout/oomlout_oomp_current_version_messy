@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: couple busy
+  * bip 39 word 3: couple busy visa
+  * bip 39 word: couple busy visa meat prepare emerge peanut expose smooth accident trim also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | couple |  
+| bip_39_word_new_br10 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge<br>peanut<br>expose<br>smooth<br>accident |  
+| bip_39_word_new_br11 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge<br>peanut<br>expose<br>smooth<br>accident<br>trim |  
+| bip_39_word_new_br12 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge<br>peanut<br>expose<br>smooth<br>accident<br>trim<br>also |  
+| bip_39_word_new_br2 | couple<br>busy |  
+| bip_39_word_new_br3 | couple<br>busy<br>visa |  
+| bip_39_word_new_br4 | couple<br>busy<br>visa<br>meat |  
+| bip_39_word_new_br5 | couple<br>busy<br>visa<br>meat<br>prepare |  
+| bip_39_word_new_br6 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge |  
+| bip_39_word_new_br7 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge<br>peanut |  
+| bip_39_word_new_br8 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge<br>peanut<br>expose |  
+| bip_39_word_new_br9 | couple<br>busy<br>visa<br>meat<br>prepare<br>emerge<br>peanut<br>expose<br>smooth |  
+| bip_39_word_new_line1 | couple |  
+| bip_39_word_new_line10 | couple
+busy
+visa
+meat
+prepare
+emerge
+peanut
+expose
+smooth
+accident |  
+| bip_39_word_new_line11 | couple
+busy
+visa
+meat
+prepare
+emerge
+peanut
+expose
+smooth
+accident
+trim |  
+| bip_39_word_new_line12 | couple
+busy
+visa
+meat
+prepare
+emerge
+peanut
+expose
+smooth
+accident
+trim
+also |  
+| bip_39_word_new_line2 | couple
+busy |  
+| bip_39_word_new_line3 | couple
+busy
+visa |  
+| bip_39_word_new_line4 | couple
+busy
+visa
+meat |  
+| bip_39_word_new_line5 | couple
+busy
+visa
+meat
+prepare |  
+| bip_39_word_new_line6 | couple
+busy
+visa
+meat
+prepare
+emerge |  
+| bip_39_word_new_line7 | couple
+busy
+visa
+meat
+prepare
+emerge
+peanut |  
+| bip_39_word_new_line8 | couple
+busy
+visa
+meat
+prepare
+emerge
+peanut
+expose |  
+| bip_39_word_new_line9 | couple
+busy
+visa
+meat
+prepare
+emerge
+peanut
+expose
+smooth |  
+| bip_39_word_space_0 | ['couple', 'busy', 'visa', 'meat', 'prepare', 'emerge', 'peanut', 'expose', 'smooth', 'accident', 'trim', 'also'] |  
+| bip_39_word_space_1 | couple |  
+| bip_39_word_space_10 | couple busy visa meat prepare emerge peanut expose smooth accident |  
+| bip_39_word_space_11 | couple busy visa meat prepare emerge peanut expose smooth accident trim |  
+| bip_39_word_space_12 | couple busy visa meat prepare emerge peanut expose smooth accident trim also |  
+| bip_39_word_space_2 | couple busy |  
+| bip_39_word_space_3 | couple busy visa |  
+| bip_39_word_space_4 | couple busy visa meat |  
+| bip_39_word_space_5 | couple busy visa meat prepare |  
+| bip_39_word_space_6 | couple busy visa meat prepare emerge |  
+| bip_39_word_space_7 | couple busy visa meat prepare emerge peanut |  
+| bip_39_word_space_8 | couple busy visa meat prepare emerge peanut expose |  
+| bip_39_word_space_9 | couple busy visa meat prepare emerge peanut expose smooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

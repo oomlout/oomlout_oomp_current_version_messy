@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dawn foam
+  * bip 39 word 3: dawn foam action
+  * bip 39 word: dawn foam action only tennis like give violin outside curve blast achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dawn |  
+| bip_39_word_new_br10 | dawn<br>foam<br>action<br>only<br>tennis<br>like<br>give<br>violin<br>outside<br>curve |  
+| bip_39_word_new_br11 | dawn<br>foam<br>action<br>only<br>tennis<br>like<br>give<br>violin<br>outside<br>curve<br>blast |  
+| bip_39_word_new_br12 | dawn<br>foam<br>action<br>only<br>tennis<br>like<br>give<br>violin<br>outside<br>curve<br>blast<br>achieve |  
+| bip_39_word_new_br2 | dawn<br>foam |  
+| bip_39_word_new_br3 | dawn<br>foam<br>action |  
+| bip_39_word_new_br4 | dawn<br>foam<br>action<br>only |  
+| bip_39_word_new_br5 | dawn<br>foam<br>action<br>only<br>tennis |  
+| bip_39_word_new_br6 | dawn<br>foam<br>action<br>only<br>tennis<br>like |  
+| bip_39_word_new_br7 | dawn<br>foam<br>action<br>only<br>tennis<br>like<br>give |  
+| bip_39_word_new_br8 | dawn<br>foam<br>action<br>only<br>tennis<br>like<br>give<br>violin |  
+| bip_39_word_new_br9 | dawn<br>foam<br>action<br>only<br>tennis<br>like<br>give<br>violin<br>outside |  
+| bip_39_word_new_line1 | dawn |  
+| bip_39_word_new_line10 | dawn
+foam
+action
+only
+tennis
+like
+give
+violin
+outside
+curve |  
+| bip_39_word_new_line11 | dawn
+foam
+action
+only
+tennis
+like
+give
+violin
+outside
+curve
+blast |  
+| bip_39_word_new_line12 | dawn
+foam
+action
+only
+tennis
+like
+give
+violin
+outside
+curve
+blast
+achieve |  
+| bip_39_word_new_line2 | dawn
+foam |  
+| bip_39_word_new_line3 | dawn
+foam
+action |  
+| bip_39_word_new_line4 | dawn
+foam
+action
+only |  
+| bip_39_word_new_line5 | dawn
+foam
+action
+only
+tennis |  
+| bip_39_word_new_line6 | dawn
+foam
+action
+only
+tennis
+like |  
+| bip_39_word_new_line7 | dawn
+foam
+action
+only
+tennis
+like
+give |  
+| bip_39_word_new_line8 | dawn
+foam
+action
+only
+tennis
+like
+give
+violin |  
+| bip_39_word_new_line9 | dawn
+foam
+action
+only
+tennis
+like
+give
+violin
+outside |  
+| bip_39_word_space_0 | ['dawn', 'foam', 'action', 'only', 'tennis', 'like', 'give', 'violin', 'outside', 'curve', 'blast', 'achieve'] |  
+| bip_39_word_space_1 | dawn |  
+| bip_39_word_space_10 | dawn foam action only tennis like give violin outside curve |  
+| bip_39_word_space_11 | dawn foam action only tennis like give violin outside curve blast |  
+| bip_39_word_space_12 | dawn foam action only tennis like give violin outside curve blast achieve |  
+| bip_39_word_space_2 | dawn foam |  
+| bip_39_word_space_3 | dawn foam action |  
+| bip_39_word_space_4 | dawn foam action only |  
+| bip_39_word_space_5 | dawn foam action only tennis |  
+| bip_39_word_space_6 | dawn foam action only tennis like |  
+| bip_39_word_space_7 | dawn foam action only tennis like give |  
+| bip_39_word_space_8 | dawn foam action only tennis like give violin |  
+| bip_39_word_space_9 | dawn foam action only tennis like give violin outside |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

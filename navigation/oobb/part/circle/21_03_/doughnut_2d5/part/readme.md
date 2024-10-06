@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_2d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: depend luxury
+  * bip 39 word 3: depend luxury opinion
+  * bip 39 word: depend luxury opinion joy mix butter parrot december physical unable junior asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | depend |  
+| bip_39_word_new_br10 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter<br>parrot<br>december<br>physical<br>unable |  
+| bip_39_word_new_br11 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter<br>parrot<br>december<br>physical<br>unable<br>junior |  
+| bip_39_word_new_br12 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter<br>parrot<br>december<br>physical<br>unable<br>junior<br>asthma |  
+| bip_39_word_new_br2 | depend<br>luxury |  
+| bip_39_word_new_br3 | depend<br>luxury<br>opinion |  
+| bip_39_word_new_br4 | depend<br>luxury<br>opinion<br>joy |  
+| bip_39_word_new_br5 | depend<br>luxury<br>opinion<br>joy<br>mix |  
+| bip_39_word_new_br6 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter |  
+| bip_39_word_new_br7 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter<br>parrot |  
+| bip_39_word_new_br8 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter<br>parrot<br>december |  
+| bip_39_word_new_br9 | depend<br>luxury<br>opinion<br>joy<br>mix<br>butter<br>parrot<br>december<br>physical |  
+| bip_39_word_new_line1 | depend |  
+| bip_39_word_new_line10 | depend
+luxury
+opinion
+joy
+mix
+butter
+parrot
+december
+physical
+unable |  
+| bip_39_word_new_line11 | depend
+luxury
+opinion
+joy
+mix
+butter
+parrot
+december
+physical
+unable
+junior |  
+| bip_39_word_new_line12 | depend
+luxury
+opinion
+joy
+mix
+butter
+parrot
+december
+physical
+unable
+junior
+asthma |  
+| bip_39_word_new_line2 | depend
+luxury |  
+| bip_39_word_new_line3 | depend
+luxury
+opinion |  
+| bip_39_word_new_line4 | depend
+luxury
+opinion
+joy |  
+| bip_39_word_new_line5 | depend
+luxury
+opinion
+joy
+mix |  
+| bip_39_word_new_line6 | depend
+luxury
+opinion
+joy
+mix
+butter |  
+| bip_39_word_new_line7 | depend
+luxury
+opinion
+joy
+mix
+butter
+parrot |  
+| bip_39_word_new_line8 | depend
+luxury
+opinion
+joy
+mix
+butter
+parrot
+december |  
+| bip_39_word_new_line9 | depend
+luxury
+opinion
+joy
+mix
+butter
+parrot
+december
+physical |  
+| bip_39_word_space_0 | ['depend', 'luxury', 'opinion', 'joy', 'mix', 'butter', 'parrot', 'december', 'physical', 'unable', 'junior', 'asthma'] |  
+| bip_39_word_space_1 | depend |  
+| bip_39_word_space_10 | depend luxury opinion joy mix butter parrot december physical unable |  
+| bip_39_word_space_11 | depend luxury opinion joy mix butter parrot december physical unable junior |  
+| bip_39_word_space_12 | depend luxury opinion joy mix butter parrot december physical unable junior asthma |  
+| bip_39_word_space_2 | depend luxury |  
+| bip_39_word_space_3 | depend luxury opinion |  
+| bip_39_word_space_4 | depend luxury opinion joy |  
+| bip_39_word_space_5 | depend luxury opinion joy mix |  
+| bip_39_word_space_6 | depend luxury opinion joy mix butter |  
+| bip_39_word_space_7 | depend luxury opinion joy mix butter parrot |  
+| bip_39_word_space_8 | depend luxury opinion joy mix butter parrot december |  
+| bip_39_word_space_9 | depend luxury opinion joy mix butter parrot december physical |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

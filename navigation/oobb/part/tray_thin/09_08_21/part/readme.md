@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: confirm glide
+  * bip 39 word 3: confirm glide pause
+  * bip 39 word: confirm glide pause coconut car snap hover home amateur edit device afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | confirm |  
+| bip_39_word_new_br10 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit |  
+| bip_39_word_new_br11 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit<br>device |  
+| bip_39_word_new_br12 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur<br>edit<br>device<br>afford |  
+| bip_39_word_new_br2 | confirm<br>glide |  
+| bip_39_word_new_br3 | confirm<br>glide<br>pause |  
+| bip_39_word_new_br4 | confirm<br>glide<br>pause<br>coconut |  
+| bip_39_word_new_br5 | confirm<br>glide<br>pause<br>coconut<br>car |  
+| bip_39_word_new_br6 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap |  
+| bip_39_word_new_br7 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover |  
+| bip_39_word_new_br8 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home |  
+| bip_39_word_new_br9 | confirm<br>glide<br>pause<br>coconut<br>car<br>snap<br>hover<br>home<br>amateur |  
+| bip_39_word_new_line1 | confirm |  
+| bip_39_word_new_line10 | confirm
+glide
+pause
+coconut
+car
+snap
+hover
+home
+amateur
+edit |  
+| bip_39_word_new_line11 | confirm
+glide
+pause
+coconut
+car
+snap
+hover
+home
+amateur
+edit
+device |  
+| bip_39_word_new_line12 | confirm
+glide
+pause
+coconut
+car
+snap
+hover
+home
+amateur
+edit
+device
+afford |  
+| bip_39_word_new_line2 | confirm
+glide |  
+| bip_39_word_new_line3 | confirm
+glide
+pause |  
+| bip_39_word_new_line4 | confirm
+glide
+pause
+coconut |  
+| bip_39_word_new_line5 | confirm
+glide
+pause
+coconut
+car |  
+| bip_39_word_new_line6 | confirm
+glide
+pause
+coconut
+car
+snap |  
+| bip_39_word_new_line7 | confirm
+glide
+pause
+coconut
+car
+snap
+hover |  
+| bip_39_word_new_line8 | confirm
+glide
+pause
+coconut
+car
+snap
+hover
+home |  
+| bip_39_word_new_line9 | confirm
+glide
+pause
+coconut
+car
+snap
+hover
+home
+amateur |  
+| bip_39_word_space_0 | ['confirm', 'glide', 'pause', 'coconut', 'car', 'snap', 'hover', 'home', 'amateur', 'edit', 'device', 'afford'] |  
+| bip_39_word_space_1 | confirm |  
+| bip_39_word_space_10 | confirm glide pause coconut car snap hover home amateur edit |  
+| bip_39_word_space_11 | confirm glide pause coconut car snap hover home amateur edit device |  
+| bip_39_word_space_12 | confirm glide pause coconut car snap hover home amateur edit device afford |  
+| bip_39_word_space_2 | confirm glide |  
+| bip_39_word_space_3 | confirm glide pause |  
+| bip_39_word_space_4 | confirm glide pause coconut |  
+| bip_39_word_space_5 | confirm glide pause coconut car |  
+| bip_39_word_space_6 | confirm glide pause coconut car snap |  
+| bip_39_word_space_7 | confirm glide pause coconut car snap hover |  
+| bip_39_word_space_8 | confirm glide pause coconut car snap hover home |  
+| bip_39_word_space_9 | confirm glide pause coconut car snap hover home amateur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

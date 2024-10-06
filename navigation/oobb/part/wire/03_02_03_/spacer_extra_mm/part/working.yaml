@@ -1,3 +1,187 @@
+bip_39_word_new_br1: youth
+bip_39_word_new_br10: youth<br>demise<br>void<br>champion<br>model<br>upset<br>increase<br>surround<br>rival<br>share
+bip_39_word_new_br11: youth<br>demise<br>void<br>champion<br>model<br>upset<br>increase<br>surround<br>rival<br>share<br>pelican
+bip_39_word_new_br12: youth<br>demise<br>void<br>champion<br>model<br>upset<br>increase<br>surround<br>rival<br>share<br>pelican<br>attitude
+bip_39_word_new_br2: youth<br>demise
+bip_39_word_new_br3: youth<br>demise<br>void
+bip_39_word_new_br4: youth<br>demise<br>void<br>champion
+bip_39_word_new_br5: youth<br>demise<br>void<br>champion<br>model
+bip_39_word_new_br6: youth<br>demise<br>void<br>champion<br>model<br>upset
+bip_39_word_new_br7: youth<br>demise<br>void<br>champion<br>model<br>upset<br>increase
+bip_39_word_new_br8: youth<br>demise<br>void<br>champion<br>model<br>upset<br>increase<br>surround
+bip_39_word_new_br9: youth<br>demise<br>void<br>champion<br>model<br>upset<br>increase<br>surround<br>rival
+bip_39_word_new_line1: youth
+bip_39_word_new_line10: 'youth
+
+  demise
+
+  void
+
+  champion
+
+  model
+
+  upset
+
+  increase
+
+  surround
+
+  rival
+
+  share'
+bip_39_word_new_line11: 'youth
+
+  demise
+
+  void
+
+  champion
+
+  model
+
+  upset
+
+  increase
+
+  surround
+
+  rival
+
+  share
+
+  pelican'
+bip_39_word_new_line12: 'youth
+
+  demise
+
+  void
+
+  champion
+
+  model
+
+  upset
+
+  increase
+
+  surround
+
+  rival
+
+  share
+
+  pelican
+
+  attitude'
+bip_39_word_new_line2: 'youth
+
+  demise'
+bip_39_word_new_line3: 'youth
+
+  demise
+
+  void'
+bip_39_word_new_line4: 'youth
+
+  demise
+
+  void
+
+  champion'
+bip_39_word_new_line5: 'youth
+
+  demise
+
+  void
+
+  champion
+
+  model'
+bip_39_word_new_line6: 'youth
+
+  demise
+
+  void
+
+  champion
+
+  model
+
+  upset'
+bip_39_word_new_line7: 'youth
+
+  demise
+
+  void
+
+  champion
+
+  model
+
+  upset
+
+  increase'
+bip_39_word_new_line8: 'youth
+
+  demise
+
+  void
+
+  champion
+
+  model
+
+  upset
+
+  increase
+
+  surround'
+bip_39_word_new_line9: 'youth
+
+  demise
+
+  void
+
+  champion
+
+  model
+
+  upset
+
+  increase
+
+  surround
+
+  rival'
+bip_39_word_space_0:
+- youth
+- demise
+- void
+- champion
+- model
+- upset
+- increase
+- surround
+- rival
+- share
+- pelican
+- attitude
+bip_39_word_space_1: youth
+bip_39_word_space_10: youth demise void champion model upset increase surround rival
+  share
+bip_39_word_space_11: youth demise void champion model upset increase surround rival
+  share pelican
+bip_39_word_space_12: youth demise void champion model upset increase surround rival
+  share pelican attitude
+bip_39_word_space_2: youth demise
+bip_39_word_space_3: youth demise void
+bip_39_word_space_4: youth demise void champion
+bip_39_word_space_5: youth demise void champion model
+bip_39_word_space_6: youth demise void champion model upset
+bip_39_word_space_7: youth demise void champion model upset increase
+bip_39_word_space_8: youth demise void champion model upset increase surround
+bip_39_word_space_9: youth demise void champion model upset increase surround rival
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

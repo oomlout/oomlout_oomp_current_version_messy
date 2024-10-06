@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rescue
+bip_39_word_new_br10: rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse
+bip_39_word_new_br11: rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse<br>token
+bip_39_word_new_br12: rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur<br>accuse<br>token<br>acid
+bip_39_word_new_br2: rescue<br>nut
+bip_39_word_new_br3: rescue<br>nut<br>pride
+bip_39_word_new_br4: rescue<br>nut<br>pride<br>neutral
+bip_39_word_new_br5: rescue<br>nut<br>pride<br>neutral<br>match
+bip_39_word_new_br6: rescue<br>nut<br>pride<br>neutral<br>match<br>draw
+bip_39_word_new_br7: rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt
+bip_39_word_new_br8: rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access
+bip_39_word_new_br9: rescue<br>nut<br>pride<br>neutral<br>match<br>draw<br>guilt<br>access<br>occur
+bip_39_word_new_line1: rescue
+bip_39_word_new_line10: 'rescue
+
+  nut
+
+  pride
+
+  neutral
+
+  match
+
+  draw
+
+  guilt
+
+  access
+
+  occur
+
+  accuse'
+bip_39_word_new_line11: 'rescue
+
+  nut
+
+  pride
+
+  neutral
+
+  match
+
+  draw
+
+  guilt
+
+  access
+
+  occur
+
+  accuse
+
+  token'
+bip_39_word_new_line12: 'rescue
+
+  nut
+
+  pride
+
+  neutral
+
+  match
+
+  draw
+
+  guilt
+
+  access
+
+  occur
+
+  accuse
+
+  token
+
+  acid'
+bip_39_word_new_line2: 'rescue
+
+  nut'
+bip_39_word_new_line3: 'rescue
+
+  nut
+
+  pride'
+bip_39_word_new_line4: 'rescue
+
+  nut
+
+  pride
+
+  neutral'
+bip_39_word_new_line5: 'rescue
+
+  nut
+
+  pride
+
+  neutral
+
+  match'
+bip_39_word_new_line6: 'rescue
+
+  nut
+
+  pride
+
+  neutral
+
+  match
+
+  draw'
+bip_39_word_new_line7: 'rescue
+
+  nut
+
+  pride
+
+  neutral
+
+  match
+
+  draw
+
+  guilt'
+bip_39_word_new_line8: 'rescue
+
+  nut
+
+  pride
+
+  neutral
+
+  match
+
+  draw
+
+  guilt
+
+  access'
+bip_39_word_new_line9: 'rescue
+
+  nut
+
+  pride
+
+  neutral
+
+  match
+
+  draw
+
+  guilt
+
+  access
+
+  occur'
+bip_39_word_space_0:
+- rescue
+- nut
+- pride
+- neutral
+- match
+- draw
+- guilt
+- access
+- occur
+- accuse
+- token
+- acid
+bip_39_word_space_1: rescue
+bip_39_word_space_10: rescue nut pride neutral match draw guilt access occur accuse
+bip_39_word_space_11: rescue nut pride neutral match draw guilt access occur accuse
+  token
+bip_39_word_space_12: rescue nut pride neutral match draw guilt access occur accuse
+  token acid
+bip_39_word_space_2: rescue nut
+bip_39_word_space_3: rescue nut pride
+bip_39_word_space_4: rescue nut pride neutral
+bip_39_word_space_5: rescue nut pride neutral match
+bip_39_word_space_6: rescue nut pride neutral match draw
+bip_39_word_space_7: rescue nut pride neutral match draw guilt
+bip_39_word_space_8: rescue nut pride neutral match draw guilt access
+bip_39_word_space_9: rescue nut pride neutral match draw guilt access occur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: supreme frown
+  * bip 39 word 3: supreme frown barrel
+  * bip 39 word: supreme frown barrel magnet page cost group glad surge enrich impact amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | supreme |  
+| bip_39_word_new_br10 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich |  
+| bip_39_word_new_br11 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich<br>impact |  
+| bip_39_word_new_br12 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge<br>enrich<br>impact<br>amused |  
+| bip_39_word_new_br2 | supreme<br>frown |  
+| bip_39_word_new_br3 | supreme<br>frown<br>barrel |  
+| bip_39_word_new_br4 | supreme<br>frown<br>barrel<br>magnet |  
+| bip_39_word_new_br5 | supreme<br>frown<br>barrel<br>magnet<br>page |  
+| bip_39_word_new_br6 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost |  
+| bip_39_word_new_br7 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group |  
+| bip_39_word_new_br8 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad |  
+| bip_39_word_new_br9 | supreme<br>frown<br>barrel<br>magnet<br>page<br>cost<br>group<br>glad<br>surge |  
+| bip_39_word_new_line1 | supreme |  
+| bip_39_word_new_line10 | supreme
+frown
+barrel
+magnet
+page
+cost
+group
+glad
+surge
+enrich |  
+| bip_39_word_new_line11 | supreme
+frown
+barrel
+magnet
+page
+cost
+group
+glad
+surge
+enrich
+impact |  
+| bip_39_word_new_line12 | supreme
+frown
+barrel
+magnet
+page
+cost
+group
+glad
+surge
+enrich
+impact
+amused |  
+| bip_39_word_new_line2 | supreme
+frown |  
+| bip_39_word_new_line3 | supreme
+frown
+barrel |  
+| bip_39_word_new_line4 | supreme
+frown
+barrel
+magnet |  
+| bip_39_word_new_line5 | supreme
+frown
+barrel
+magnet
+page |  
+| bip_39_word_new_line6 | supreme
+frown
+barrel
+magnet
+page
+cost |  
+| bip_39_word_new_line7 | supreme
+frown
+barrel
+magnet
+page
+cost
+group |  
+| bip_39_word_new_line8 | supreme
+frown
+barrel
+magnet
+page
+cost
+group
+glad |  
+| bip_39_word_new_line9 | supreme
+frown
+barrel
+magnet
+page
+cost
+group
+glad
+surge |  
+| bip_39_word_space_0 | ['supreme', 'frown', 'barrel', 'magnet', 'page', 'cost', 'group', 'glad', 'surge', 'enrich', 'impact', 'amused'] |  
+| bip_39_word_space_1 | supreme |  
+| bip_39_word_space_10 | supreme frown barrel magnet page cost group glad surge enrich |  
+| bip_39_word_space_11 | supreme frown barrel magnet page cost group glad surge enrich impact |  
+| bip_39_word_space_12 | supreme frown barrel magnet page cost group glad surge enrich impact amused |  
+| bip_39_word_space_2 | supreme frown |  
+| bip_39_word_space_3 | supreme frown barrel |  
+| bip_39_word_space_4 | supreme frown barrel magnet |  
+| bip_39_word_space_5 | supreme frown barrel magnet page |  
+| bip_39_word_space_6 | supreme frown barrel magnet page cost |  
+| bip_39_word_space_7 | supreme frown barrel magnet page cost group |  
+| bip_39_word_space_8 | supreme frown barrel magnet page cost group glad |  
+| bip_39_word_space_9 | supreme frown barrel magnet page cost group glad surge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: expire
+bip_39_word_new_br10: expire<br>panther<br>laugh<br>option<br>mother<br>arena<br>farm<br>pony<br>diesel<br>surround
+bip_39_word_new_br11: expire<br>panther<br>laugh<br>option<br>mother<br>arena<br>farm<br>pony<br>diesel<br>surround<br>oven
+bip_39_word_new_br12: expire<br>panther<br>laugh<br>option<br>mother<br>arena<br>farm<br>pony<br>diesel<br>surround<br>oven<br>also
+bip_39_word_new_br2: expire<br>panther
+bip_39_word_new_br3: expire<br>panther<br>laugh
+bip_39_word_new_br4: expire<br>panther<br>laugh<br>option
+bip_39_word_new_br5: expire<br>panther<br>laugh<br>option<br>mother
+bip_39_word_new_br6: expire<br>panther<br>laugh<br>option<br>mother<br>arena
+bip_39_word_new_br7: expire<br>panther<br>laugh<br>option<br>mother<br>arena<br>farm
+bip_39_word_new_br8: expire<br>panther<br>laugh<br>option<br>mother<br>arena<br>farm<br>pony
+bip_39_word_new_br9: expire<br>panther<br>laugh<br>option<br>mother<br>arena<br>farm<br>pony<br>diesel
+bip_39_word_new_line1: expire
+bip_39_word_new_line10: 'expire
+
+  panther
+
+  laugh
+
+  option
+
+  mother
+
+  arena
+
+  farm
+
+  pony
+
+  diesel
+
+  surround'
+bip_39_word_new_line11: 'expire
+
+  panther
+
+  laugh
+
+  option
+
+  mother
+
+  arena
+
+  farm
+
+  pony
+
+  diesel
+
+  surround
+
+  oven'
+bip_39_word_new_line12: 'expire
+
+  panther
+
+  laugh
+
+  option
+
+  mother
+
+  arena
+
+  farm
+
+  pony
+
+  diesel
+
+  surround
+
+  oven
+
+  also'
+bip_39_word_new_line2: 'expire
+
+  panther'
+bip_39_word_new_line3: 'expire
+
+  panther
+
+  laugh'
+bip_39_word_new_line4: 'expire
+
+  panther
+
+  laugh
+
+  option'
+bip_39_word_new_line5: 'expire
+
+  panther
+
+  laugh
+
+  option
+
+  mother'
+bip_39_word_new_line6: 'expire
+
+  panther
+
+  laugh
+
+  option
+
+  mother
+
+  arena'
+bip_39_word_new_line7: 'expire
+
+  panther
+
+  laugh
+
+  option
+
+  mother
+
+  arena
+
+  farm'
+bip_39_word_new_line8: 'expire
+
+  panther
+
+  laugh
+
+  option
+
+  mother
+
+  arena
+
+  farm
+
+  pony'
+bip_39_word_new_line9: 'expire
+
+  panther
+
+  laugh
+
+  option
+
+  mother
+
+  arena
+
+  farm
+
+  pony
+
+  diesel'
+bip_39_word_space_0:
+- expire
+- panther
+- laugh
+- option
+- mother
+- arena
+- farm
+- pony
+- diesel
+- surround
+- oven
+- also
+bip_39_word_space_1: expire
+bip_39_word_space_10: expire panther laugh option mother arena farm pony diesel surround
+bip_39_word_space_11: expire panther laugh option mother arena farm pony diesel surround
+  oven
+bip_39_word_space_12: expire panther laugh option mother arena farm pony diesel surround
+  oven also
+bip_39_word_space_2: expire panther
+bip_39_word_space_3: expire panther laugh
+bip_39_word_space_4: expire panther laugh option
+bip_39_word_space_5: expire panther laugh option mother
+bip_39_word_space_6: expire panther laugh option mother arena
+bip_39_word_space_7: expire panther laugh option mother arena farm
+bip_39_word_space_8: expire panther laugh option mother arena farm pony
+bip_39_word_space_9: expire panther laugh option mother arena farm pony diesel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

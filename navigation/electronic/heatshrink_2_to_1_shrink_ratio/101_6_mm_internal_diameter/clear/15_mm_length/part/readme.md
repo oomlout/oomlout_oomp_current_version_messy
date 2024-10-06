@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trigger screen
+  * bip 39 word 3: trigger screen sudden
+  * bip 39 word: trigger screen sudden load half dose vague just protect dash velvet august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trigger |  
+| bip_39_word_new_br10 | trigger<br>screen<br>sudden<br>load<br>half<br>dose<br>vague<br>just<br>protect<br>dash |  
+| bip_39_word_new_br11 | trigger<br>screen<br>sudden<br>load<br>half<br>dose<br>vague<br>just<br>protect<br>dash<br>velvet |  
+| bip_39_word_new_br12 | trigger<br>screen<br>sudden<br>load<br>half<br>dose<br>vague<br>just<br>protect<br>dash<br>velvet<br>august |  
+| bip_39_word_new_br2 | trigger<br>screen |  
+| bip_39_word_new_br3 | trigger<br>screen<br>sudden |  
+| bip_39_word_new_br4 | trigger<br>screen<br>sudden<br>load |  
+| bip_39_word_new_br5 | trigger<br>screen<br>sudden<br>load<br>half |  
+| bip_39_word_new_br6 | trigger<br>screen<br>sudden<br>load<br>half<br>dose |  
+| bip_39_word_new_br7 | trigger<br>screen<br>sudden<br>load<br>half<br>dose<br>vague |  
+| bip_39_word_new_br8 | trigger<br>screen<br>sudden<br>load<br>half<br>dose<br>vague<br>just |  
+| bip_39_word_new_br9 | trigger<br>screen<br>sudden<br>load<br>half<br>dose<br>vague<br>just<br>protect |  
+| bip_39_word_new_line1 | trigger |  
+| bip_39_word_new_line10 | trigger
+screen
+sudden
+load
+half
+dose
+vague
+just
+protect
+dash |  
+| bip_39_word_new_line11 | trigger
+screen
+sudden
+load
+half
+dose
+vague
+just
+protect
+dash
+velvet |  
+| bip_39_word_new_line12 | trigger
+screen
+sudden
+load
+half
+dose
+vague
+just
+protect
+dash
+velvet
+august |  
+| bip_39_word_new_line2 | trigger
+screen |  
+| bip_39_word_new_line3 | trigger
+screen
+sudden |  
+| bip_39_word_new_line4 | trigger
+screen
+sudden
+load |  
+| bip_39_word_new_line5 | trigger
+screen
+sudden
+load
+half |  
+| bip_39_word_new_line6 | trigger
+screen
+sudden
+load
+half
+dose |  
+| bip_39_word_new_line7 | trigger
+screen
+sudden
+load
+half
+dose
+vague |  
+| bip_39_word_new_line8 | trigger
+screen
+sudden
+load
+half
+dose
+vague
+just |  
+| bip_39_word_new_line9 | trigger
+screen
+sudden
+load
+half
+dose
+vague
+just
+protect |  
+| bip_39_word_space_0 | ['trigger', 'screen', 'sudden', 'load', 'half', 'dose', 'vague', 'just', 'protect', 'dash', 'velvet', 'august'] |  
+| bip_39_word_space_1 | trigger |  
+| bip_39_word_space_10 | trigger screen sudden load half dose vague just protect dash |  
+| bip_39_word_space_11 | trigger screen sudden load half dose vague just protect dash velvet |  
+| bip_39_word_space_12 | trigger screen sudden load half dose vague just protect dash velvet august |  
+| bip_39_word_space_2 | trigger screen |  
+| bip_39_word_space_3 | trigger screen sudden |  
+| bip_39_word_space_4 | trigger screen sudden load |  
+| bip_39_word_space_5 | trigger screen sudden load half |  
+| bip_39_word_space_6 | trigger screen sudden load half dose |  
+| bip_39_word_space_7 | trigger screen sudden load half dose vague |  
+| bip_39_word_space_8 | trigger screen sudden load half dose vague just |  
+| bip_39_word_space_9 | trigger screen sudden load half dose vague just protect |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

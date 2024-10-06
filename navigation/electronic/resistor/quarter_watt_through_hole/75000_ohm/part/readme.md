@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: still citizen
+  * bip 39 word 3: still citizen squirrel
+  * bip 39 word: still citizen squirrel all total soda mass tide exact certain gown affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | still |  
+| bip_39_word_new_br10 | still<br>citizen<br>squirrel<br>all<br>total<br>soda<br>mass<br>tide<br>exact<br>certain |  
+| bip_39_word_new_br11 | still<br>citizen<br>squirrel<br>all<br>total<br>soda<br>mass<br>tide<br>exact<br>certain<br>gown |  
+| bip_39_word_new_br12 | still<br>citizen<br>squirrel<br>all<br>total<br>soda<br>mass<br>tide<br>exact<br>certain<br>gown<br>affair |  
+| bip_39_word_new_br2 | still<br>citizen |  
+| bip_39_word_new_br3 | still<br>citizen<br>squirrel |  
+| bip_39_word_new_br4 | still<br>citizen<br>squirrel<br>all |  
+| bip_39_word_new_br5 | still<br>citizen<br>squirrel<br>all<br>total |  
+| bip_39_word_new_br6 | still<br>citizen<br>squirrel<br>all<br>total<br>soda |  
+| bip_39_word_new_br7 | still<br>citizen<br>squirrel<br>all<br>total<br>soda<br>mass |  
+| bip_39_word_new_br8 | still<br>citizen<br>squirrel<br>all<br>total<br>soda<br>mass<br>tide |  
+| bip_39_word_new_br9 | still<br>citizen<br>squirrel<br>all<br>total<br>soda<br>mass<br>tide<br>exact |  
+| bip_39_word_new_line1 | still |  
+| bip_39_word_new_line10 | still
+citizen
+squirrel
+all
+total
+soda
+mass
+tide
+exact
+certain |  
+| bip_39_word_new_line11 | still
+citizen
+squirrel
+all
+total
+soda
+mass
+tide
+exact
+certain
+gown |  
+| bip_39_word_new_line12 | still
+citizen
+squirrel
+all
+total
+soda
+mass
+tide
+exact
+certain
+gown
+affair |  
+| bip_39_word_new_line2 | still
+citizen |  
+| bip_39_word_new_line3 | still
+citizen
+squirrel |  
+| bip_39_word_new_line4 | still
+citizen
+squirrel
+all |  
+| bip_39_word_new_line5 | still
+citizen
+squirrel
+all
+total |  
+| bip_39_word_new_line6 | still
+citizen
+squirrel
+all
+total
+soda |  
+| bip_39_word_new_line7 | still
+citizen
+squirrel
+all
+total
+soda
+mass |  
+| bip_39_word_new_line8 | still
+citizen
+squirrel
+all
+total
+soda
+mass
+tide |  
+| bip_39_word_new_line9 | still
+citizen
+squirrel
+all
+total
+soda
+mass
+tide
+exact |  
+| bip_39_word_space_0 | ['still', 'citizen', 'squirrel', 'all', 'total', 'soda', 'mass', 'tide', 'exact', 'certain', 'gown', 'affair'] |  
+| bip_39_word_space_1 | still |  
+| bip_39_word_space_10 | still citizen squirrel all total soda mass tide exact certain |  
+| bip_39_word_space_11 | still citizen squirrel all total soda mass tide exact certain gown |  
+| bip_39_word_space_12 | still citizen squirrel all total soda mass tide exact certain gown affair |  
+| bip_39_word_space_2 | still citizen |  
+| bip_39_word_space_3 | still citizen squirrel |  
+| bip_39_word_space_4 | still citizen squirrel all |  
+| bip_39_word_space_5 | still citizen squirrel all total |  
+| bip_39_word_space_6 | still citizen squirrel all total soda |  
+| bip_39_word_space_7 | still citizen squirrel all total soda mass |  
+| bip_39_word_space_8 | still citizen squirrel all total soda mass tide |  
+| bip_39_word_space_9 | still citizen squirrel all total soda mass tide exact |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mosquito
+bip_39_word_new_br10: mosquito<br>old<br>minor<br>butter<br>inherit<br>super<br>host<br>decrease<br>stay<br>prefer
+bip_39_word_new_br11: mosquito<br>old<br>minor<br>butter<br>inherit<br>super<br>host<br>decrease<br>stay<br>prefer<br>immune
+bip_39_word_new_br12: mosquito<br>old<br>minor<br>butter<br>inherit<br>super<br>host<br>decrease<br>stay<br>prefer<br>immune<br>assist
+bip_39_word_new_br2: mosquito<br>old
+bip_39_word_new_br3: mosquito<br>old<br>minor
+bip_39_word_new_br4: mosquito<br>old<br>minor<br>butter
+bip_39_word_new_br5: mosquito<br>old<br>minor<br>butter<br>inherit
+bip_39_word_new_br6: mosquito<br>old<br>minor<br>butter<br>inherit<br>super
+bip_39_word_new_br7: mosquito<br>old<br>minor<br>butter<br>inherit<br>super<br>host
+bip_39_word_new_br8: mosquito<br>old<br>minor<br>butter<br>inherit<br>super<br>host<br>decrease
+bip_39_word_new_br9: mosquito<br>old<br>minor<br>butter<br>inherit<br>super<br>host<br>decrease<br>stay
+bip_39_word_new_line1: mosquito
+bip_39_word_new_line10: 'mosquito
+
+  old
+
+  minor
+
+  butter
+
+  inherit
+
+  super
+
+  host
+
+  decrease
+
+  stay
+
+  prefer'
+bip_39_word_new_line11: 'mosquito
+
+  old
+
+  minor
+
+  butter
+
+  inherit
+
+  super
+
+  host
+
+  decrease
+
+  stay
+
+  prefer
+
+  immune'
+bip_39_word_new_line12: 'mosquito
+
+  old
+
+  minor
+
+  butter
+
+  inherit
+
+  super
+
+  host
+
+  decrease
+
+  stay
+
+  prefer
+
+  immune
+
+  assist'
+bip_39_word_new_line2: 'mosquito
+
+  old'
+bip_39_word_new_line3: 'mosquito
+
+  old
+
+  minor'
+bip_39_word_new_line4: 'mosquito
+
+  old
+
+  minor
+
+  butter'
+bip_39_word_new_line5: 'mosquito
+
+  old
+
+  minor
+
+  butter
+
+  inherit'
+bip_39_word_new_line6: 'mosquito
+
+  old
+
+  minor
+
+  butter
+
+  inherit
+
+  super'
+bip_39_word_new_line7: 'mosquito
+
+  old
+
+  minor
+
+  butter
+
+  inherit
+
+  super
+
+  host'
+bip_39_word_new_line8: 'mosquito
+
+  old
+
+  minor
+
+  butter
+
+  inherit
+
+  super
+
+  host
+
+  decrease'
+bip_39_word_new_line9: 'mosquito
+
+  old
+
+  minor
+
+  butter
+
+  inherit
+
+  super
+
+  host
+
+  decrease
+
+  stay'
+bip_39_word_space_0:
+- mosquito
+- old
+- minor
+- butter
+- inherit
+- super
+- host
+- decrease
+- stay
+- prefer
+- immune
+- assist
+bip_39_word_space_1: mosquito
+bip_39_word_space_10: mosquito old minor butter inherit super host decrease stay prefer
+bip_39_word_space_11: mosquito old minor butter inherit super host decrease stay prefer
+  immune
+bip_39_word_space_12: mosquito old minor butter inherit super host decrease stay prefer
+  immune assist
+bip_39_word_space_2: mosquito old
+bip_39_word_space_3: mosquito old minor
+bip_39_word_space_4: mosquito old minor butter
+bip_39_word_space_5: mosquito old minor butter inherit
+bip_39_word_space_6: mosquito old minor butter inherit super
+bip_39_word_space_7: mosquito old minor butter inherit super host
+bip_39_word_space_8: mosquito old minor butter inherit super host decrease
+bip_39_word_space_9: mosquito old minor butter inherit super host decrease stay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

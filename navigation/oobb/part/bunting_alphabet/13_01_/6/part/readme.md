@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bottom stamp
+  * bip 39 word 3: bottom stamp cushion
+  * bip 39 word: bottom stamp cushion upset need knife squeeze castle roast bargain dash assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bottom |  
+| bip_39_word_new_br10 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast<br>bargain |  
+| bip_39_word_new_br11 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast<br>bargain<br>dash |  
+| bip_39_word_new_br12 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast<br>bargain<br>dash<br>assume |  
+| bip_39_word_new_br2 | bottom<br>stamp |  
+| bip_39_word_new_br3 | bottom<br>stamp<br>cushion |  
+| bip_39_word_new_br4 | bottom<br>stamp<br>cushion<br>upset |  
+| bip_39_word_new_br5 | bottom<br>stamp<br>cushion<br>upset<br>need |  
+| bip_39_word_new_br6 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife |  
+| bip_39_word_new_br7 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze |  
+| bip_39_word_new_br8 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle |  
+| bip_39_word_new_br9 | bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast |  
+| bip_39_word_new_line1 | bottom |  
+| bip_39_word_new_line10 | bottom
+stamp
+cushion
+upset
+need
+knife
+squeeze
+castle
+roast
+bargain |  
+| bip_39_word_new_line11 | bottom
+stamp
+cushion
+upset
+need
+knife
+squeeze
+castle
+roast
+bargain
+dash |  
+| bip_39_word_new_line12 | bottom
+stamp
+cushion
+upset
+need
+knife
+squeeze
+castle
+roast
+bargain
+dash
+assume |  
+| bip_39_word_new_line2 | bottom
+stamp |  
+| bip_39_word_new_line3 | bottom
+stamp
+cushion |  
+| bip_39_word_new_line4 | bottom
+stamp
+cushion
+upset |  
+| bip_39_word_new_line5 | bottom
+stamp
+cushion
+upset
+need |  
+| bip_39_word_new_line6 | bottom
+stamp
+cushion
+upset
+need
+knife |  
+| bip_39_word_new_line7 | bottom
+stamp
+cushion
+upset
+need
+knife
+squeeze |  
+| bip_39_word_new_line8 | bottom
+stamp
+cushion
+upset
+need
+knife
+squeeze
+castle |  
+| bip_39_word_new_line9 | bottom
+stamp
+cushion
+upset
+need
+knife
+squeeze
+castle
+roast |  
+| bip_39_word_space_0 | ['bottom', 'stamp', 'cushion', 'upset', 'need', 'knife', 'squeeze', 'castle', 'roast', 'bargain', 'dash', 'assume'] |  
+| bip_39_word_space_1 | bottom |  
+| bip_39_word_space_10 | bottom stamp cushion upset need knife squeeze castle roast bargain |  
+| bip_39_word_space_11 | bottom stamp cushion upset need knife squeeze castle roast bargain dash |  
+| bip_39_word_space_12 | bottom stamp cushion upset need knife squeeze castle roast bargain dash assume |  
+| bip_39_word_space_2 | bottom stamp |  
+| bip_39_word_space_3 | bottom stamp cushion |  
+| bip_39_word_space_4 | bottom stamp cushion upset |  
+| bip_39_word_space_5 | bottom stamp cushion upset need |  
+| bip_39_word_space_6 | bottom stamp cushion upset need knife |  
+| bip_39_word_space_7 | bottom stamp cushion upset need knife squeeze |  
+| bip_39_word_space_8 | bottom stamp cushion upset need knife squeeze castle |  
+| bip_39_word_space_9 | bottom stamp cushion upset need knife squeeze castle roast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

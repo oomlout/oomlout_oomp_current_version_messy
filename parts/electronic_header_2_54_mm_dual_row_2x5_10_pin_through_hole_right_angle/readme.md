@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: access elbow
+  * bip 39 word 3: access elbow funny
+  * bip 39 word: access elbow funny panel velvet session problem mirror glow clarify report again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | access |  
+| bip_39_word_new_br10 | access<br>elbow<br>funny<br>panel<br>velvet<br>session<br>problem<br>mirror<br>glow<br>clarify |  
+| bip_39_word_new_br11 | access<br>elbow<br>funny<br>panel<br>velvet<br>session<br>problem<br>mirror<br>glow<br>clarify<br>report |  
+| bip_39_word_new_br12 | access<br>elbow<br>funny<br>panel<br>velvet<br>session<br>problem<br>mirror<br>glow<br>clarify<br>report<br>again |  
+| bip_39_word_new_br2 | access<br>elbow |  
+| bip_39_word_new_br3 | access<br>elbow<br>funny |  
+| bip_39_word_new_br4 | access<br>elbow<br>funny<br>panel |  
+| bip_39_word_new_br5 | access<br>elbow<br>funny<br>panel<br>velvet |  
+| bip_39_word_new_br6 | access<br>elbow<br>funny<br>panel<br>velvet<br>session |  
+| bip_39_word_new_br7 | access<br>elbow<br>funny<br>panel<br>velvet<br>session<br>problem |  
+| bip_39_word_new_br8 | access<br>elbow<br>funny<br>panel<br>velvet<br>session<br>problem<br>mirror |  
+| bip_39_word_new_br9 | access<br>elbow<br>funny<br>panel<br>velvet<br>session<br>problem<br>mirror<br>glow |  
+| bip_39_word_new_line1 | access |  
+| bip_39_word_new_line10 | access
+elbow
+funny
+panel
+velvet
+session
+problem
+mirror
+glow
+clarify |  
+| bip_39_word_new_line11 | access
+elbow
+funny
+panel
+velvet
+session
+problem
+mirror
+glow
+clarify
+report |  
+| bip_39_word_new_line12 | access
+elbow
+funny
+panel
+velvet
+session
+problem
+mirror
+glow
+clarify
+report
+again |  
+| bip_39_word_new_line2 | access
+elbow |  
+| bip_39_word_new_line3 | access
+elbow
+funny |  
+| bip_39_word_new_line4 | access
+elbow
+funny
+panel |  
+| bip_39_word_new_line5 | access
+elbow
+funny
+panel
+velvet |  
+| bip_39_word_new_line6 | access
+elbow
+funny
+panel
+velvet
+session |  
+| bip_39_word_new_line7 | access
+elbow
+funny
+panel
+velvet
+session
+problem |  
+| bip_39_word_new_line8 | access
+elbow
+funny
+panel
+velvet
+session
+problem
+mirror |  
+| bip_39_word_new_line9 | access
+elbow
+funny
+panel
+velvet
+session
+problem
+mirror
+glow |  
+| bip_39_word_space_0 | ['access', 'elbow', 'funny', 'panel', 'velvet', 'session', 'problem', 'mirror', 'glow', 'clarify', 'report', 'again'] |  
+| bip_39_word_space_1 | access |  
+| bip_39_word_space_10 | access elbow funny panel velvet session problem mirror glow clarify |  
+| bip_39_word_space_11 | access elbow funny panel velvet session problem mirror glow clarify report |  
+| bip_39_word_space_12 | access elbow funny panel velvet session problem mirror glow clarify report again |  
+| bip_39_word_space_2 | access elbow |  
+| bip_39_word_space_3 | access elbow funny |  
+| bip_39_word_space_4 | access elbow funny panel |  
+| bip_39_word_space_5 | access elbow funny panel velvet |  
+| bip_39_word_space_6 | access elbow funny panel velvet session |  
+| bip_39_word_space_7 | access elbow funny panel velvet session problem |  
+| bip_39_word_space_8 | access elbow funny panel velvet session problem mirror |  
+| bip_39_word_space_9 | access elbow funny panel velvet session problem mirror glow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

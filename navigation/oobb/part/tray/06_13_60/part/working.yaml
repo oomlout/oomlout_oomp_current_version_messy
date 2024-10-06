@@ -1,3 +1,186 @@
+bip_39_word_new_br1: health
+bip_39_word_new_br10: health<br>accident<br>grain<br>treat<br>advance<br>soup<br>badge<br>hunt<br>agent<br>enroll
+bip_39_word_new_br11: health<br>accident<br>grain<br>treat<br>advance<br>soup<br>badge<br>hunt<br>agent<br>enroll<br>doll
+bip_39_word_new_br12: health<br>accident<br>grain<br>treat<br>advance<br>soup<br>badge<br>hunt<br>agent<br>enroll<br>doll<br>among
+bip_39_word_new_br2: health<br>accident
+bip_39_word_new_br3: health<br>accident<br>grain
+bip_39_word_new_br4: health<br>accident<br>grain<br>treat
+bip_39_word_new_br5: health<br>accident<br>grain<br>treat<br>advance
+bip_39_word_new_br6: health<br>accident<br>grain<br>treat<br>advance<br>soup
+bip_39_word_new_br7: health<br>accident<br>grain<br>treat<br>advance<br>soup<br>badge
+bip_39_word_new_br8: health<br>accident<br>grain<br>treat<br>advance<br>soup<br>badge<br>hunt
+bip_39_word_new_br9: health<br>accident<br>grain<br>treat<br>advance<br>soup<br>badge<br>hunt<br>agent
+bip_39_word_new_line1: health
+bip_39_word_new_line10: 'health
+
+  accident
+
+  grain
+
+  treat
+
+  advance
+
+  soup
+
+  badge
+
+  hunt
+
+  agent
+
+  enroll'
+bip_39_word_new_line11: 'health
+
+  accident
+
+  grain
+
+  treat
+
+  advance
+
+  soup
+
+  badge
+
+  hunt
+
+  agent
+
+  enroll
+
+  doll'
+bip_39_word_new_line12: 'health
+
+  accident
+
+  grain
+
+  treat
+
+  advance
+
+  soup
+
+  badge
+
+  hunt
+
+  agent
+
+  enroll
+
+  doll
+
+  among'
+bip_39_word_new_line2: 'health
+
+  accident'
+bip_39_word_new_line3: 'health
+
+  accident
+
+  grain'
+bip_39_word_new_line4: 'health
+
+  accident
+
+  grain
+
+  treat'
+bip_39_word_new_line5: 'health
+
+  accident
+
+  grain
+
+  treat
+
+  advance'
+bip_39_word_new_line6: 'health
+
+  accident
+
+  grain
+
+  treat
+
+  advance
+
+  soup'
+bip_39_word_new_line7: 'health
+
+  accident
+
+  grain
+
+  treat
+
+  advance
+
+  soup
+
+  badge'
+bip_39_word_new_line8: 'health
+
+  accident
+
+  grain
+
+  treat
+
+  advance
+
+  soup
+
+  badge
+
+  hunt'
+bip_39_word_new_line9: 'health
+
+  accident
+
+  grain
+
+  treat
+
+  advance
+
+  soup
+
+  badge
+
+  hunt
+
+  agent'
+bip_39_word_space_0:
+- health
+- accident
+- grain
+- treat
+- advance
+- soup
+- badge
+- hunt
+- agent
+- enroll
+- doll
+- among
+bip_39_word_space_1: health
+bip_39_word_space_10: health accident grain treat advance soup badge hunt agent enroll
+bip_39_word_space_11: health accident grain treat advance soup badge hunt agent enroll
+  doll
+bip_39_word_space_12: health accident grain treat advance soup badge hunt agent enroll
+  doll among
+bip_39_word_space_2: health accident
+bip_39_word_space_3: health accident grain
+bip_39_word_space_4: health accident grain treat
+bip_39_word_space_5: health accident grain treat advance
+bip_39_word_space_6: health accident grain treat advance soup
+bip_39_word_space_7: health accident grain treat advance soup badge
+bip_39_word_space_8: health accident grain treat advance soup badge hunt
+bip_39_word_space_9: health accident grain treat advance soup badge hunt agent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

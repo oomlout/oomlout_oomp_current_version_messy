@@ -1,3 +1,185 @@
+bip_39_word_new_br1: drama
+bip_39_word_new_br10: drama<br>island<br>hip<br>velvet<br>empty<br>brush<br>tube<br>mask<br>system<br>toe
+bip_39_word_new_br11: drama<br>island<br>hip<br>velvet<br>empty<br>brush<br>tube<br>mask<br>system<br>toe<br>useless
+bip_39_word_new_br12: drama<br>island<br>hip<br>velvet<br>empty<br>brush<br>tube<br>mask<br>system<br>toe<br>useless<br>aisle
+bip_39_word_new_br2: drama<br>island
+bip_39_word_new_br3: drama<br>island<br>hip
+bip_39_word_new_br4: drama<br>island<br>hip<br>velvet
+bip_39_word_new_br5: drama<br>island<br>hip<br>velvet<br>empty
+bip_39_word_new_br6: drama<br>island<br>hip<br>velvet<br>empty<br>brush
+bip_39_word_new_br7: drama<br>island<br>hip<br>velvet<br>empty<br>brush<br>tube
+bip_39_word_new_br8: drama<br>island<br>hip<br>velvet<br>empty<br>brush<br>tube<br>mask
+bip_39_word_new_br9: drama<br>island<br>hip<br>velvet<br>empty<br>brush<br>tube<br>mask<br>system
+bip_39_word_new_line1: drama
+bip_39_word_new_line10: 'drama
+
+  island
+
+  hip
+
+  velvet
+
+  empty
+
+  brush
+
+  tube
+
+  mask
+
+  system
+
+  toe'
+bip_39_word_new_line11: 'drama
+
+  island
+
+  hip
+
+  velvet
+
+  empty
+
+  brush
+
+  tube
+
+  mask
+
+  system
+
+  toe
+
+  useless'
+bip_39_word_new_line12: 'drama
+
+  island
+
+  hip
+
+  velvet
+
+  empty
+
+  brush
+
+  tube
+
+  mask
+
+  system
+
+  toe
+
+  useless
+
+  aisle'
+bip_39_word_new_line2: 'drama
+
+  island'
+bip_39_word_new_line3: 'drama
+
+  island
+
+  hip'
+bip_39_word_new_line4: 'drama
+
+  island
+
+  hip
+
+  velvet'
+bip_39_word_new_line5: 'drama
+
+  island
+
+  hip
+
+  velvet
+
+  empty'
+bip_39_word_new_line6: 'drama
+
+  island
+
+  hip
+
+  velvet
+
+  empty
+
+  brush'
+bip_39_word_new_line7: 'drama
+
+  island
+
+  hip
+
+  velvet
+
+  empty
+
+  brush
+
+  tube'
+bip_39_word_new_line8: 'drama
+
+  island
+
+  hip
+
+  velvet
+
+  empty
+
+  brush
+
+  tube
+
+  mask'
+bip_39_word_new_line9: 'drama
+
+  island
+
+  hip
+
+  velvet
+
+  empty
+
+  brush
+
+  tube
+
+  mask
+
+  system'
+bip_39_word_space_0:
+- drama
+- island
+- hip
+- velvet
+- empty
+- brush
+- tube
+- mask
+- system
+- toe
+- useless
+- aisle
+bip_39_word_space_1: drama
+bip_39_word_space_10: drama island hip velvet empty brush tube mask system toe
+bip_39_word_space_11: drama island hip velvet empty brush tube mask system toe useless
+bip_39_word_space_12: drama island hip velvet empty brush tube mask system toe useless
+  aisle
+bip_39_word_space_2: drama island
+bip_39_word_space_3: drama island hip
+bip_39_word_space_4: drama island hip velvet
+bip_39_word_space_5: drama island hip velvet empty
+bip_39_word_space_6: drama island hip velvet empty brush
+bip_39_word_space_7: drama island hip velvet empty brush tube
+bip_39_word_space_8: drama island hip velvet empty brush tube mask
+bip_39_word_space_9: drama island hip velvet empty brush tube mask system
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: banana
+bip_39_word_new_br10: banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee
+bip_39_word_new_br11: banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee<br>struggle
+bip_39_word_new_br12: banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison<br>fee<br>struggle<br>arrow
+bip_39_word_new_br2: banana<br>junk
+bip_39_word_new_br3: banana<br>junk<br>solution
+bip_39_word_new_br4: banana<br>junk<br>solution<br>juice
+bip_39_word_new_br5: banana<br>junk<br>solution<br>juice<br>liquid
+bip_39_word_new_br6: banana<br>junk<br>solution<br>juice<br>liquid<br>educate
+bip_39_word_new_br7: banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town
+bip_39_word_new_br8: banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout
+bip_39_word_new_br9: banana<br>junk<br>solution<br>juice<br>liquid<br>educate<br>town<br>scout<br>prison
+bip_39_word_new_line1: banana
+bip_39_word_new_line10: 'banana
+
+  junk
+
+  solution
+
+  juice
+
+  liquid
+
+  educate
+
+  town
+
+  scout
+
+  prison
+
+  fee'
+bip_39_word_new_line11: 'banana
+
+  junk
+
+  solution
+
+  juice
+
+  liquid
+
+  educate
+
+  town
+
+  scout
+
+  prison
+
+  fee
+
+  struggle'
+bip_39_word_new_line12: 'banana
+
+  junk
+
+  solution
+
+  juice
+
+  liquid
+
+  educate
+
+  town
+
+  scout
+
+  prison
+
+  fee
+
+  struggle
+
+  arrow'
+bip_39_word_new_line2: 'banana
+
+  junk'
+bip_39_word_new_line3: 'banana
+
+  junk
+
+  solution'
+bip_39_word_new_line4: 'banana
+
+  junk
+
+  solution
+
+  juice'
+bip_39_word_new_line5: 'banana
+
+  junk
+
+  solution
+
+  juice
+
+  liquid'
+bip_39_word_new_line6: 'banana
+
+  junk
+
+  solution
+
+  juice
+
+  liquid
+
+  educate'
+bip_39_word_new_line7: 'banana
+
+  junk
+
+  solution
+
+  juice
+
+  liquid
+
+  educate
+
+  town'
+bip_39_word_new_line8: 'banana
+
+  junk
+
+  solution
+
+  juice
+
+  liquid
+
+  educate
+
+  town
+
+  scout'
+bip_39_word_new_line9: 'banana
+
+  junk
+
+  solution
+
+  juice
+
+  liquid
+
+  educate
+
+  town
+
+  scout
+
+  prison'
+bip_39_word_space_0:
+- banana
+- junk
+- solution
+- juice
+- liquid
+- educate
+- town
+- scout
+- prison
+- fee
+- struggle
+- arrow
+bip_39_word_space_1: banana
+bip_39_word_space_10: banana junk solution juice liquid educate town scout prison
+  fee
+bip_39_word_space_11: banana junk solution juice liquid educate town scout prison
+  fee struggle
+bip_39_word_space_12: banana junk solution juice liquid educate town scout prison
+  fee struggle arrow
+bip_39_word_space_2: banana junk
+bip_39_word_space_3: banana junk solution
+bip_39_word_space_4: banana junk solution juice
+bip_39_word_space_5: banana junk solution juice liquid
+bip_39_word_space_6: banana junk solution juice liquid educate
+bip_39_word_space_7: banana junk solution juice liquid educate town
+bip_39_word_space_8: banana junk solution juice liquid educate town scout
+bip_39_word_space_9: banana junk solution juice liquid educate town scout prison
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lava cricket
+  * bip 39 word 3: lava cricket fruit
+  * bip 39 word: lava cricket fruit elder suggest thought worry clean foot green smile assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lava |  
+| bip_39_word_new_br10 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought<br>worry<br>clean<br>foot<br>green |  
+| bip_39_word_new_br11 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought<br>worry<br>clean<br>foot<br>green<br>smile |  
+| bip_39_word_new_br12 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought<br>worry<br>clean<br>foot<br>green<br>smile<br>assume |  
+| bip_39_word_new_br2 | lava<br>cricket |  
+| bip_39_word_new_br3 | lava<br>cricket<br>fruit |  
+| bip_39_word_new_br4 | lava<br>cricket<br>fruit<br>elder |  
+| bip_39_word_new_br5 | lava<br>cricket<br>fruit<br>elder<br>suggest |  
+| bip_39_word_new_br6 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought |  
+| bip_39_word_new_br7 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought<br>worry |  
+| bip_39_word_new_br8 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought<br>worry<br>clean |  
+| bip_39_word_new_br9 | lava<br>cricket<br>fruit<br>elder<br>suggest<br>thought<br>worry<br>clean<br>foot |  
+| bip_39_word_new_line1 | lava |  
+| bip_39_word_new_line10 | lava
+cricket
+fruit
+elder
+suggest
+thought
+worry
+clean
+foot
+green |  
+| bip_39_word_new_line11 | lava
+cricket
+fruit
+elder
+suggest
+thought
+worry
+clean
+foot
+green
+smile |  
+| bip_39_word_new_line12 | lava
+cricket
+fruit
+elder
+suggest
+thought
+worry
+clean
+foot
+green
+smile
+assume |  
+| bip_39_word_new_line2 | lava
+cricket |  
+| bip_39_word_new_line3 | lava
+cricket
+fruit |  
+| bip_39_word_new_line4 | lava
+cricket
+fruit
+elder |  
+| bip_39_word_new_line5 | lava
+cricket
+fruit
+elder
+suggest |  
+| bip_39_word_new_line6 | lava
+cricket
+fruit
+elder
+suggest
+thought |  
+| bip_39_word_new_line7 | lava
+cricket
+fruit
+elder
+suggest
+thought
+worry |  
+| bip_39_word_new_line8 | lava
+cricket
+fruit
+elder
+suggest
+thought
+worry
+clean |  
+| bip_39_word_new_line9 | lava
+cricket
+fruit
+elder
+suggest
+thought
+worry
+clean
+foot |  
+| bip_39_word_space_0 | ['lava', 'cricket', 'fruit', 'elder', 'suggest', 'thought', 'worry', 'clean', 'foot', 'green', 'smile', 'assume'] |  
+| bip_39_word_space_1 | lava |  
+| bip_39_word_space_10 | lava cricket fruit elder suggest thought worry clean foot green |  
+| bip_39_word_space_11 | lava cricket fruit elder suggest thought worry clean foot green smile |  
+| bip_39_word_space_12 | lava cricket fruit elder suggest thought worry clean foot green smile assume |  
+| bip_39_word_space_2 | lava cricket |  
+| bip_39_word_space_3 | lava cricket fruit |  
+| bip_39_word_space_4 | lava cricket fruit elder |  
+| bip_39_word_space_5 | lava cricket fruit elder suggest |  
+| bip_39_word_space_6 | lava cricket fruit elder suggest thought |  
+| bip_39_word_space_7 | lava cricket fruit elder suggest thought worry |  
+| bip_39_word_space_8 | lava cricket fruit elder suggest thought worry clean |  
+| bip_39_word_space_9 | lava cricket fruit elder suggest thought worry clean foot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: often wheel
+  * bip 39 word 3: often wheel ranch
+  * bip 39 word: often wheel ranch menu exact lecture undo correct please meat answer area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | often |  
+| bip_39_word_new_br10 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture<br>undo<br>correct<br>please<br>meat |  
+| bip_39_word_new_br11 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture<br>undo<br>correct<br>please<br>meat<br>answer |  
+| bip_39_word_new_br12 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture<br>undo<br>correct<br>please<br>meat<br>answer<br>area |  
+| bip_39_word_new_br2 | often<br>wheel |  
+| bip_39_word_new_br3 | often<br>wheel<br>ranch |  
+| bip_39_word_new_br4 | often<br>wheel<br>ranch<br>menu |  
+| bip_39_word_new_br5 | often<br>wheel<br>ranch<br>menu<br>exact |  
+| bip_39_word_new_br6 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture |  
+| bip_39_word_new_br7 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture<br>undo |  
+| bip_39_word_new_br8 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture<br>undo<br>correct |  
+| bip_39_word_new_br9 | often<br>wheel<br>ranch<br>menu<br>exact<br>lecture<br>undo<br>correct<br>please |  
+| bip_39_word_new_line1 | often |  
+| bip_39_word_new_line10 | often
+wheel
+ranch
+menu
+exact
+lecture
+undo
+correct
+please
+meat |  
+| bip_39_word_new_line11 | often
+wheel
+ranch
+menu
+exact
+lecture
+undo
+correct
+please
+meat
+answer |  
+| bip_39_word_new_line12 | often
+wheel
+ranch
+menu
+exact
+lecture
+undo
+correct
+please
+meat
+answer
+area |  
+| bip_39_word_new_line2 | often
+wheel |  
+| bip_39_word_new_line3 | often
+wheel
+ranch |  
+| bip_39_word_new_line4 | often
+wheel
+ranch
+menu |  
+| bip_39_word_new_line5 | often
+wheel
+ranch
+menu
+exact |  
+| bip_39_word_new_line6 | often
+wheel
+ranch
+menu
+exact
+lecture |  
+| bip_39_word_new_line7 | often
+wheel
+ranch
+menu
+exact
+lecture
+undo |  
+| bip_39_word_new_line8 | often
+wheel
+ranch
+menu
+exact
+lecture
+undo
+correct |  
+| bip_39_word_new_line9 | often
+wheel
+ranch
+menu
+exact
+lecture
+undo
+correct
+please |  
+| bip_39_word_space_0 | ['often', 'wheel', 'ranch', 'menu', 'exact', 'lecture', 'undo', 'correct', 'please', 'meat', 'answer', 'area'] |  
+| bip_39_word_space_1 | often |  
+| bip_39_word_space_10 | often wheel ranch menu exact lecture undo correct please meat |  
+| bip_39_word_space_11 | often wheel ranch menu exact lecture undo correct please meat answer |  
+| bip_39_word_space_12 | often wheel ranch menu exact lecture undo correct please meat answer area |  
+| bip_39_word_space_2 | often wheel |  
+| bip_39_word_space_3 | often wheel ranch |  
+| bip_39_word_space_4 | often wheel ranch menu |  
+| bip_39_word_space_5 | often wheel ranch menu exact |  
+| bip_39_word_space_6 | often wheel ranch menu exact lecture |  
+| bip_39_word_space_7 | often wheel ranch menu exact lecture undo |  
+| bip_39_word_space_8 | often wheel ranch menu exact lecture undo correct |  
+| bip_39_word_space_9 | often wheel ranch menu exact lecture undo correct please |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

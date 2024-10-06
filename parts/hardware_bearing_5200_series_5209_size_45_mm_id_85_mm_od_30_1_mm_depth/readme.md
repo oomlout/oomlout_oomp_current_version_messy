@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reform cool
+  * bip 39 word 3: reform cool ball
+  * bip 39 word: reform cool ball dose obscure current candy exit dial artist mystery alter
 
 ### other_codes
 * short_code: br5209
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reform |  
+| bip_39_word_new_br10 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist |  
+| bip_39_word_new_br11 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist<br>mystery |  
+| bip_39_word_new_br12 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial<br>artist<br>mystery<br>alter |  
+| bip_39_word_new_br2 | reform<br>cool |  
+| bip_39_word_new_br3 | reform<br>cool<br>ball |  
+| bip_39_word_new_br4 | reform<br>cool<br>ball<br>dose |  
+| bip_39_word_new_br5 | reform<br>cool<br>ball<br>dose<br>obscure |  
+| bip_39_word_new_br6 | reform<br>cool<br>ball<br>dose<br>obscure<br>current |  
+| bip_39_word_new_br7 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy |  
+| bip_39_word_new_br8 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit |  
+| bip_39_word_new_br9 | reform<br>cool<br>ball<br>dose<br>obscure<br>current<br>candy<br>exit<br>dial |  
+| bip_39_word_new_line1 | reform |  
+| bip_39_word_new_line10 | reform
+cool
+ball
+dose
+obscure
+current
+candy
+exit
+dial
+artist |  
+| bip_39_word_new_line11 | reform
+cool
+ball
+dose
+obscure
+current
+candy
+exit
+dial
+artist
+mystery |  
+| bip_39_word_new_line12 | reform
+cool
+ball
+dose
+obscure
+current
+candy
+exit
+dial
+artist
+mystery
+alter |  
+| bip_39_word_new_line2 | reform
+cool |  
+| bip_39_word_new_line3 | reform
+cool
+ball |  
+| bip_39_word_new_line4 | reform
+cool
+ball
+dose |  
+| bip_39_word_new_line5 | reform
+cool
+ball
+dose
+obscure |  
+| bip_39_word_new_line6 | reform
+cool
+ball
+dose
+obscure
+current |  
+| bip_39_word_new_line7 | reform
+cool
+ball
+dose
+obscure
+current
+candy |  
+| bip_39_word_new_line8 | reform
+cool
+ball
+dose
+obscure
+current
+candy
+exit |  
+| bip_39_word_new_line9 | reform
+cool
+ball
+dose
+obscure
+current
+candy
+exit
+dial |  
+| bip_39_word_space_0 | ['reform', 'cool', 'ball', 'dose', 'obscure', 'current', 'candy', 'exit', 'dial', 'artist', 'mystery', 'alter'] |  
+| bip_39_word_space_1 | reform |  
+| bip_39_word_space_10 | reform cool ball dose obscure current candy exit dial artist |  
+| bip_39_word_space_11 | reform cool ball dose obscure current candy exit dial artist mystery |  
+| bip_39_word_space_12 | reform cool ball dose obscure current candy exit dial artist mystery alter |  
+| bip_39_word_space_2 | reform cool |  
+| bip_39_word_space_3 | reform cool ball |  
+| bip_39_word_space_4 | reform cool ball dose |  
+| bip_39_word_space_5 | reform cool ball dose obscure |  
+| bip_39_word_space_6 | reform cool ball dose obscure current |  
+| bip_39_word_space_7 | reform cool ball dose obscure current candy |  
+| bip_39_word_space_8 | reform cool ball dose obscure current candy exit |  
+| bip_39_word_space_9 | reform cool ball dose obscure current candy exit dial |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

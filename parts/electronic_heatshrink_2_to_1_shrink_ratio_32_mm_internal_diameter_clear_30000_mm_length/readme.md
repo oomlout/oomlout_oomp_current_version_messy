@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dilemma common
+  * bip 39 word 3: dilemma common accuse
+  * bip 39 word: dilemma common accuse green infant extra general electric crane exist noble athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dilemma |  
+| bip_39_word_new_br10 | dilemma<br>common<br>accuse<br>green<br>infant<br>extra<br>general<br>electric<br>crane<br>exist |  
+| bip_39_word_new_br11 | dilemma<br>common<br>accuse<br>green<br>infant<br>extra<br>general<br>electric<br>crane<br>exist<br>noble |  
+| bip_39_word_new_br12 | dilemma<br>common<br>accuse<br>green<br>infant<br>extra<br>general<br>electric<br>crane<br>exist<br>noble<br>athlete |  
+| bip_39_word_new_br2 | dilemma<br>common |  
+| bip_39_word_new_br3 | dilemma<br>common<br>accuse |  
+| bip_39_word_new_br4 | dilemma<br>common<br>accuse<br>green |  
+| bip_39_word_new_br5 | dilemma<br>common<br>accuse<br>green<br>infant |  
+| bip_39_word_new_br6 | dilemma<br>common<br>accuse<br>green<br>infant<br>extra |  
+| bip_39_word_new_br7 | dilemma<br>common<br>accuse<br>green<br>infant<br>extra<br>general |  
+| bip_39_word_new_br8 | dilemma<br>common<br>accuse<br>green<br>infant<br>extra<br>general<br>electric |  
+| bip_39_word_new_br9 | dilemma<br>common<br>accuse<br>green<br>infant<br>extra<br>general<br>electric<br>crane |  
+| bip_39_word_new_line1 | dilemma |  
+| bip_39_word_new_line10 | dilemma
+common
+accuse
+green
+infant
+extra
+general
+electric
+crane
+exist |  
+| bip_39_word_new_line11 | dilemma
+common
+accuse
+green
+infant
+extra
+general
+electric
+crane
+exist
+noble |  
+| bip_39_word_new_line12 | dilemma
+common
+accuse
+green
+infant
+extra
+general
+electric
+crane
+exist
+noble
+athlete |  
+| bip_39_word_new_line2 | dilemma
+common |  
+| bip_39_word_new_line3 | dilemma
+common
+accuse |  
+| bip_39_word_new_line4 | dilemma
+common
+accuse
+green |  
+| bip_39_word_new_line5 | dilemma
+common
+accuse
+green
+infant |  
+| bip_39_word_new_line6 | dilemma
+common
+accuse
+green
+infant
+extra |  
+| bip_39_word_new_line7 | dilemma
+common
+accuse
+green
+infant
+extra
+general |  
+| bip_39_word_new_line8 | dilemma
+common
+accuse
+green
+infant
+extra
+general
+electric |  
+| bip_39_word_new_line9 | dilemma
+common
+accuse
+green
+infant
+extra
+general
+electric
+crane |  
+| bip_39_word_space_0 | ['dilemma', 'common', 'accuse', 'green', 'infant', 'extra', 'general', 'electric', 'crane', 'exist', 'noble', 'athlete'] |  
+| bip_39_word_space_1 | dilemma |  
+| bip_39_word_space_10 | dilemma common accuse green infant extra general electric crane exist |  
+| bip_39_word_space_11 | dilemma common accuse green infant extra general electric crane exist noble |  
+| bip_39_word_space_12 | dilemma common accuse green infant extra general electric crane exist noble athlete |  
+| bip_39_word_space_2 | dilemma common |  
+| bip_39_word_space_3 | dilemma common accuse |  
+| bip_39_word_space_4 | dilemma common accuse green |  
+| bip_39_word_space_5 | dilemma common accuse green infant |  
+| bip_39_word_space_6 | dilemma common accuse green infant extra |  
+| bip_39_word_space_7 | dilemma common accuse green infant extra general |  
+| bip_39_word_space_8 | dilemma common accuse green infant extra general electric |  
+| bip_39_word_space_9 | dilemma common accuse green infant extra general electric crane |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

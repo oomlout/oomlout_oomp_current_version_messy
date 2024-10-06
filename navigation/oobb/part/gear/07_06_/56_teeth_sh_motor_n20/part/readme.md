@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 56_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stamp marble
+  * bip 39 word 3: stamp marble energy
+  * bip 39 word: stamp marble energy village agent tilt same grab mutual tag daughter armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stamp |  
+| bip_39_word_new_br10 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag |  
+| bip_39_word_new_br11 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag<br>daughter |  
+| bip_39_word_new_br12 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag<br>daughter<br>armed |  
+| bip_39_word_new_br2 | stamp<br>marble |  
+| bip_39_word_new_br3 | stamp<br>marble<br>energy |  
+| bip_39_word_new_br4 | stamp<br>marble<br>energy<br>village |  
+| bip_39_word_new_br5 | stamp<br>marble<br>energy<br>village<br>agent |  
+| bip_39_word_new_br6 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt |  
+| bip_39_word_new_br7 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same |  
+| bip_39_word_new_br8 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab |  
+| bip_39_word_new_br9 | stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual |  
+| bip_39_word_new_line1 | stamp |  
+| bip_39_word_new_line10 | stamp
+marble
+energy
+village
+agent
+tilt
+same
+grab
+mutual
+tag |  
+| bip_39_word_new_line11 | stamp
+marble
+energy
+village
+agent
+tilt
+same
+grab
+mutual
+tag
+daughter |  
+| bip_39_word_new_line12 | stamp
+marble
+energy
+village
+agent
+tilt
+same
+grab
+mutual
+tag
+daughter
+armed |  
+| bip_39_word_new_line2 | stamp
+marble |  
+| bip_39_word_new_line3 | stamp
+marble
+energy |  
+| bip_39_word_new_line4 | stamp
+marble
+energy
+village |  
+| bip_39_word_new_line5 | stamp
+marble
+energy
+village
+agent |  
+| bip_39_word_new_line6 | stamp
+marble
+energy
+village
+agent
+tilt |  
+| bip_39_word_new_line7 | stamp
+marble
+energy
+village
+agent
+tilt
+same |  
+| bip_39_word_new_line8 | stamp
+marble
+energy
+village
+agent
+tilt
+same
+grab |  
+| bip_39_word_new_line9 | stamp
+marble
+energy
+village
+agent
+tilt
+same
+grab
+mutual |  
+| bip_39_word_space_0 | ['stamp', 'marble', 'energy', 'village', 'agent', 'tilt', 'same', 'grab', 'mutual', 'tag', 'daughter', 'armed'] |  
+| bip_39_word_space_1 | stamp |  
+| bip_39_word_space_10 | stamp marble energy village agent tilt same grab mutual tag |  
+| bip_39_word_space_11 | stamp marble energy village agent tilt same grab mutual tag daughter |  
+| bip_39_word_space_12 | stamp marble energy village agent tilt same grab mutual tag daughter armed |  
+| bip_39_word_space_2 | stamp marble |  
+| bip_39_word_space_3 | stamp marble energy |  
+| bip_39_word_space_4 | stamp marble energy village |  
+| bip_39_word_space_5 | stamp marble energy village agent |  
+| bip_39_word_space_6 | stamp marble energy village agent tilt |  
+| bip_39_word_space_7 | stamp marble energy village agent tilt same |  
+| bip_39_word_space_8 | stamp marble energy village agent tilt same grab |  
+| bip_39_word_space_9 | stamp marble energy village agent tilt same grab mutual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

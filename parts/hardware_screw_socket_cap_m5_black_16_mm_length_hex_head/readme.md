@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: huge soccer
+  * bip 39 word 3: huge soccer mimic
+  * bip 39 word: huge soccer mimic slight side polar accuse echo phone jar crucial attitude
 
 ### other_codes
 * short_code: sc5b16h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | huge |  
+| bip_39_word_new_br10 | huge<br>soccer<br>mimic<br>slight<br>side<br>polar<br>accuse<br>echo<br>phone<br>jar |  
+| bip_39_word_new_br11 | huge<br>soccer<br>mimic<br>slight<br>side<br>polar<br>accuse<br>echo<br>phone<br>jar<br>crucial |  
+| bip_39_word_new_br12 | huge<br>soccer<br>mimic<br>slight<br>side<br>polar<br>accuse<br>echo<br>phone<br>jar<br>crucial<br>attitude |  
+| bip_39_word_new_br2 | huge<br>soccer |  
+| bip_39_word_new_br3 | huge<br>soccer<br>mimic |  
+| bip_39_word_new_br4 | huge<br>soccer<br>mimic<br>slight |  
+| bip_39_word_new_br5 | huge<br>soccer<br>mimic<br>slight<br>side |  
+| bip_39_word_new_br6 | huge<br>soccer<br>mimic<br>slight<br>side<br>polar |  
+| bip_39_word_new_br7 | huge<br>soccer<br>mimic<br>slight<br>side<br>polar<br>accuse |  
+| bip_39_word_new_br8 | huge<br>soccer<br>mimic<br>slight<br>side<br>polar<br>accuse<br>echo |  
+| bip_39_word_new_br9 | huge<br>soccer<br>mimic<br>slight<br>side<br>polar<br>accuse<br>echo<br>phone |  
+| bip_39_word_new_line1 | huge |  
+| bip_39_word_new_line10 | huge
+soccer
+mimic
+slight
+side
+polar
+accuse
+echo
+phone
+jar |  
+| bip_39_word_new_line11 | huge
+soccer
+mimic
+slight
+side
+polar
+accuse
+echo
+phone
+jar
+crucial |  
+| bip_39_word_new_line12 | huge
+soccer
+mimic
+slight
+side
+polar
+accuse
+echo
+phone
+jar
+crucial
+attitude |  
+| bip_39_word_new_line2 | huge
+soccer |  
+| bip_39_word_new_line3 | huge
+soccer
+mimic |  
+| bip_39_word_new_line4 | huge
+soccer
+mimic
+slight |  
+| bip_39_word_new_line5 | huge
+soccer
+mimic
+slight
+side |  
+| bip_39_word_new_line6 | huge
+soccer
+mimic
+slight
+side
+polar |  
+| bip_39_word_new_line7 | huge
+soccer
+mimic
+slight
+side
+polar
+accuse |  
+| bip_39_word_new_line8 | huge
+soccer
+mimic
+slight
+side
+polar
+accuse
+echo |  
+| bip_39_word_new_line9 | huge
+soccer
+mimic
+slight
+side
+polar
+accuse
+echo
+phone |  
+| bip_39_word_space_0 | ['huge', 'soccer', 'mimic', 'slight', 'side', 'polar', 'accuse', 'echo', 'phone', 'jar', 'crucial', 'attitude'] |  
+| bip_39_word_space_1 | huge |  
+| bip_39_word_space_10 | huge soccer mimic slight side polar accuse echo phone jar |  
+| bip_39_word_space_11 | huge soccer mimic slight side polar accuse echo phone jar crucial |  
+| bip_39_word_space_12 | huge soccer mimic slight side polar accuse echo phone jar crucial attitude |  
+| bip_39_word_space_2 | huge soccer |  
+| bip_39_word_space_3 | huge soccer mimic |  
+| bip_39_word_space_4 | huge soccer mimic slight |  
+| bip_39_word_space_5 | huge soccer mimic slight side |  
+| bip_39_word_space_6 | huge soccer mimic slight side polar |  
+| bip_39_word_space_7 | huge soccer mimic slight side polar accuse |  
+| bip_39_word_space_8 | huge soccer mimic slight side polar accuse echo |  
+| bip_39_word_space_9 | huge soccer mimic slight side polar accuse echo phone |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

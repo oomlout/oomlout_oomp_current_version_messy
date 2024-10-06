@@ -1,3 +1,186 @@
+bip_39_word_new_br1: miracle
+bip_39_word_new_br10: miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich
+bip_39_word_new_br11: miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich<br>stove
+bip_39_word_new_br12: miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round<br>rich<br>stove<br>able
+bip_39_word_new_br2: miracle<br>auto
+bip_39_word_new_br3: miracle<br>auto<br>clip
+bip_39_word_new_br4: miracle<br>auto<br>clip<br>body
+bip_39_word_new_br5: miracle<br>auto<br>clip<br>body<br>action
+bip_39_word_new_br6: miracle<br>auto<br>clip<br>body<br>action<br>hand
+bip_39_word_new_br7: miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom
+bip_39_word_new_br8: miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise
+bip_39_word_new_br9: miracle<br>auto<br>clip<br>body<br>action<br>hand<br>bottom<br>surprise<br>round
+bip_39_word_new_line1: miracle
+bip_39_word_new_line10: 'miracle
+
+  auto
+
+  clip
+
+  body
+
+  action
+
+  hand
+
+  bottom
+
+  surprise
+
+  round
+
+  rich'
+bip_39_word_new_line11: 'miracle
+
+  auto
+
+  clip
+
+  body
+
+  action
+
+  hand
+
+  bottom
+
+  surprise
+
+  round
+
+  rich
+
+  stove'
+bip_39_word_new_line12: 'miracle
+
+  auto
+
+  clip
+
+  body
+
+  action
+
+  hand
+
+  bottom
+
+  surprise
+
+  round
+
+  rich
+
+  stove
+
+  able'
+bip_39_word_new_line2: 'miracle
+
+  auto'
+bip_39_word_new_line3: 'miracle
+
+  auto
+
+  clip'
+bip_39_word_new_line4: 'miracle
+
+  auto
+
+  clip
+
+  body'
+bip_39_word_new_line5: 'miracle
+
+  auto
+
+  clip
+
+  body
+
+  action'
+bip_39_word_new_line6: 'miracle
+
+  auto
+
+  clip
+
+  body
+
+  action
+
+  hand'
+bip_39_word_new_line7: 'miracle
+
+  auto
+
+  clip
+
+  body
+
+  action
+
+  hand
+
+  bottom'
+bip_39_word_new_line8: 'miracle
+
+  auto
+
+  clip
+
+  body
+
+  action
+
+  hand
+
+  bottom
+
+  surprise'
+bip_39_word_new_line9: 'miracle
+
+  auto
+
+  clip
+
+  body
+
+  action
+
+  hand
+
+  bottom
+
+  surprise
+
+  round'
+bip_39_word_space_0:
+- miracle
+- auto
+- clip
+- body
+- action
+- hand
+- bottom
+- surprise
+- round
+- rich
+- stove
+- able
+bip_39_word_space_1: miracle
+bip_39_word_space_10: miracle auto clip body action hand bottom surprise round rich
+bip_39_word_space_11: miracle auto clip body action hand bottom surprise round rich
+  stove
+bip_39_word_space_12: miracle auto clip body action hand bottom surprise round rich
+  stove able
+bip_39_word_space_2: miracle auto
+bip_39_word_space_3: miracle auto clip
+bip_39_word_space_4: miracle auto clip body
+bip_39_word_space_5: miracle auto clip body action
+bip_39_word_space_6: miracle auto clip body action hand
+bip_39_word_space_7: miracle auto clip body action hand bottom
+bip_39_word_space_8: miracle auto clip body action hand bottom surprise
+bip_39_word_space_9: miracle auto clip body action hand bottom surprise round
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

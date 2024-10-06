@@ -1,3 +1,186 @@
+bip_39_word_new_br1: powder
+bip_39_word_new_br10: powder<br>protect<br>size<br>purity<br>story<br>announce<br>mercy<br>warm<br>elbow<br>same
+bip_39_word_new_br11: powder<br>protect<br>size<br>purity<br>story<br>announce<br>mercy<br>warm<br>elbow<br>same<br>stage
+bip_39_word_new_br12: powder<br>protect<br>size<br>purity<br>story<br>announce<br>mercy<br>warm<br>elbow<br>same<br>stage<br>advice
+bip_39_word_new_br2: powder<br>protect
+bip_39_word_new_br3: powder<br>protect<br>size
+bip_39_word_new_br4: powder<br>protect<br>size<br>purity
+bip_39_word_new_br5: powder<br>protect<br>size<br>purity<br>story
+bip_39_word_new_br6: powder<br>protect<br>size<br>purity<br>story<br>announce
+bip_39_word_new_br7: powder<br>protect<br>size<br>purity<br>story<br>announce<br>mercy
+bip_39_word_new_br8: powder<br>protect<br>size<br>purity<br>story<br>announce<br>mercy<br>warm
+bip_39_word_new_br9: powder<br>protect<br>size<br>purity<br>story<br>announce<br>mercy<br>warm<br>elbow
+bip_39_word_new_line1: powder
+bip_39_word_new_line10: 'powder
+
+  protect
+
+  size
+
+  purity
+
+  story
+
+  announce
+
+  mercy
+
+  warm
+
+  elbow
+
+  same'
+bip_39_word_new_line11: 'powder
+
+  protect
+
+  size
+
+  purity
+
+  story
+
+  announce
+
+  mercy
+
+  warm
+
+  elbow
+
+  same
+
+  stage'
+bip_39_word_new_line12: 'powder
+
+  protect
+
+  size
+
+  purity
+
+  story
+
+  announce
+
+  mercy
+
+  warm
+
+  elbow
+
+  same
+
+  stage
+
+  advice'
+bip_39_word_new_line2: 'powder
+
+  protect'
+bip_39_word_new_line3: 'powder
+
+  protect
+
+  size'
+bip_39_word_new_line4: 'powder
+
+  protect
+
+  size
+
+  purity'
+bip_39_word_new_line5: 'powder
+
+  protect
+
+  size
+
+  purity
+
+  story'
+bip_39_word_new_line6: 'powder
+
+  protect
+
+  size
+
+  purity
+
+  story
+
+  announce'
+bip_39_word_new_line7: 'powder
+
+  protect
+
+  size
+
+  purity
+
+  story
+
+  announce
+
+  mercy'
+bip_39_word_new_line8: 'powder
+
+  protect
+
+  size
+
+  purity
+
+  story
+
+  announce
+
+  mercy
+
+  warm'
+bip_39_word_new_line9: 'powder
+
+  protect
+
+  size
+
+  purity
+
+  story
+
+  announce
+
+  mercy
+
+  warm
+
+  elbow'
+bip_39_word_space_0:
+- powder
+- protect
+- size
+- purity
+- story
+- announce
+- mercy
+- warm
+- elbow
+- same
+- stage
+- advice
+bip_39_word_space_1: powder
+bip_39_word_space_10: powder protect size purity story announce mercy warm elbow same
+bip_39_word_space_11: powder protect size purity story announce mercy warm elbow same
+  stage
+bip_39_word_space_12: powder protect size purity story announce mercy warm elbow same
+  stage advice
+bip_39_word_space_2: powder protect
+bip_39_word_space_3: powder protect size
+bip_39_word_space_4: powder protect size purity
+bip_39_word_space_5: powder protect size purity story
+bip_39_word_space_6: powder protect size purity story announce
+bip_39_word_space_7: powder protect size purity story announce mercy
+bip_39_word_space_8: powder protect size purity story announce mercy warm
+bip_39_word_space_9: powder protect size purity story announce mercy warm elbow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

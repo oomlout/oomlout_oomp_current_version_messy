@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enroll
+bip_39_word_new_br10: enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend<br>nut<br>book<br>choose<br>shine
+bip_39_word_new_br11: enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend<br>nut<br>book<br>choose<br>shine<br>beauty
+bip_39_word_new_br12: enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend<br>nut<br>book<br>choose<br>shine<br>beauty<br>agree
+bip_39_word_new_br2: enroll<br>fluid
+bip_39_word_new_br3: enroll<br>fluid<br>start
+bip_39_word_new_br4: enroll<br>fluid<br>start<br>rhythm
+bip_39_word_new_br5: enroll<br>fluid<br>start<br>rhythm<br>bottom
+bip_39_word_new_br6: enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend
+bip_39_word_new_br7: enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend<br>nut
+bip_39_word_new_br8: enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend<br>nut<br>book
+bip_39_word_new_br9: enroll<br>fluid<br>start<br>rhythm<br>bottom<br>weekend<br>nut<br>book<br>choose
+bip_39_word_new_line1: enroll
+bip_39_word_new_line10: 'enroll
+
+  fluid
+
+  start
+
+  rhythm
+
+  bottom
+
+  weekend
+
+  nut
+
+  book
+
+  choose
+
+  shine'
+bip_39_word_new_line11: 'enroll
+
+  fluid
+
+  start
+
+  rhythm
+
+  bottom
+
+  weekend
+
+  nut
+
+  book
+
+  choose
+
+  shine
+
+  beauty'
+bip_39_word_new_line12: 'enroll
+
+  fluid
+
+  start
+
+  rhythm
+
+  bottom
+
+  weekend
+
+  nut
+
+  book
+
+  choose
+
+  shine
+
+  beauty
+
+  agree'
+bip_39_word_new_line2: 'enroll
+
+  fluid'
+bip_39_word_new_line3: 'enroll
+
+  fluid
+
+  start'
+bip_39_word_new_line4: 'enroll
+
+  fluid
+
+  start
+
+  rhythm'
+bip_39_word_new_line5: 'enroll
+
+  fluid
+
+  start
+
+  rhythm
+
+  bottom'
+bip_39_word_new_line6: 'enroll
+
+  fluid
+
+  start
+
+  rhythm
+
+  bottom
+
+  weekend'
+bip_39_word_new_line7: 'enroll
+
+  fluid
+
+  start
+
+  rhythm
+
+  bottom
+
+  weekend
+
+  nut'
+bip_39_word_new_line8: 'enroll
+
+  fluid
+
+  start
+
+  rhythm
+
+  bottom
+
+  weekend
+
+  nut
+
+  book'
+bip_39_word_new_line9: 'enroll
+
+  fluid
+
+  start
+
+  rhythm
+
+  bottom
+
+  weekend
+
+  nut
+
+  book
+
+  choose'
+bip_39_word_space_0:
+- enroll
+- fluid
+- start
+- rhythm
+- bottom
+- weekend
+- nut
+- book
+- choose
+- shine
+- beauty
+- agree
+bip_39_word_space_1: enroll
+bip_39_word_space_10: enroll fluid start rhythm bottom weekend nut book choose shine
+bip_39_word_space_11: enroll fluid start rhythm bottom weekend nut book choose shine
+  beauty
+bip_39_word_space_12: enroll fluid start rhythm bottom weekend nut book choose shine
+  beauty agree
+bip_39_word_space_2: enroll fluid
+bip_39_word_space_3: enroll fluid start
+bip_39_word_space_4: enroll fluid start rhythm
+bip_39_word_space_5: enroll fluid start rhythm bottom
+bip_39_word_space_6: enroll fluid start rhythm bottom weekend
+bip_39_word_space_7: enroll fluid start rhythm bottom weekend nut
+bip_39_word_space_8: enroll fluid start rhythm bottom weekend nut book
+bip_39_word_space_9: enroll fluid start rhythm bottom weekend nut book choose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

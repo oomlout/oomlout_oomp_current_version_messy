@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chef sphere
+  * bip 39 word 3: chef sphere pupil
+  * bip 39 word: chef sphere pupil mandate math pluck flat craft blade glide uncle apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chef |  
+| bip_39_word_new_br10 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide |  
+| bip_39_word_new_br11 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide<br>uncle |  
+| bip_39_word_new_br12 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade<br>glide<br>uncle<br>apart |  
+| bip_39_word_new_br2 | chef<br>sphere |  
+| bip_39_word_new_br3 | chef<br>sphere<br>pupil |  
+| bip_39_word_new_br4 | chef<br>sphere<br>pupil<br>mandate |  
+| bip_39_word_new_br5 | chef<br>sphere<br>pupil<br>mandate<br>math |  
+| bip_39_word_new_br6 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck |  
+| bip_39_word_new_br7 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat |  
+| bip_39_word_new_br8 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft |  
+| bip_39_word_new_br9 | chef<br>sphere<br>pupil<br>mandate<br>math<br>pluck<br>flat<br>craft<br>blade |  
+| bip_39_word_new_line1 | chef |  
+| bip_39_word_new_line10 | chef
+sphere
+pupil
+mandate
+math
+pluck
+flat
+craft
+blade
+glide |  
+| bip_39_word_new_line11 | chef
+sphere
+pupil
+mandate
+math
+pluck
+flat
+craft
+blade
+glide
+uncle |  
+| bip_39_word_new_line12 | chef
+sphere
+pupil
+mandate
+math
+pluck
+flat
+craft
+blade
+glide
+uncle
+apart |  
+| bip_39_word_new_line2 | chef
+sphere |  
+| bip_39_word_new_line3 | chef
+sphere
+pupil |  
+| bip_39_word_new_line4 | chef
+sphere
+pupil
+mandate |  
+| bip_39_word_new_line5 | chef
+sphere
+pupil
+mandate
+math |  
+| bip_39_word_new_line6 | chef
+sphere
+pupil
+mandate
+math
+pluck |  
+| bip_39_word_new_line7 | chef
+sphere
+pupil
+mandate
+math
+pluck
+flat |  
+| bip_39_word_new_line8 | chef
+sphere
+pupil
+mandate
+math
+pluck
+flat
+craft |  
+| bip_39_word_new_line9 | chef
+sphere
+pupil
+mandate
+math
+pluck
+flat
+craft
+blade |  
+| bip_39_word_space_0 | ['chef', 'sphere', 'pupil', 'mandate', 'math', 'pluck', 'flat', 'craft', 'blade', 'glide', 'uncle', 'apart'] |  
+| bip_39_word_space_1 | chef |  
+| bip_39_word_space_10 | chef sphere pupil mandate math pluck flat craft blade glide |  
+| bip_39_word_space_11 | chef sphere pupil mandate math pluck flat craft blade glide uncle |  
+| bip_39_word_space_12 | chef sphere pupil mandate math pluck flat craft blade glide uncle apart |  
+| bip_39_word_space_2 | chef sphere |  
+| bip_39_word_space_3 | chef sphere pupil |  
+| bip_39_word_space_4 | chef sphere pupil mandate |  
+| bip_39_word_space_5 | chef sphere pupil mandate math |  
+| bip_39_word_space_6 | chef sphere pupil mandate math pluck |  
+| bip_39_word_space_7 | chef sphere pupil mandate math pluck flat |  
+| bip_39_word_space_8 | chef sphere pupil mandate math pluck flat craft |  
+| bip_39_word_space_9 | chef sphere pupil mandate math pluck flat craft blade |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

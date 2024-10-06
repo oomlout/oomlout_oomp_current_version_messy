@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tissue
+bip_39_word_new_br10: tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt<br>quick<br>nut<br>street<br>wreck
+bip_39_word_new_br11: tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt<br>quick<br>nut<br>street<br>wreck<br>father
+bip_39_word_new_br12: tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt<br>quick<br>nut<br>street<br>wreck<br>father<br>approve
+bip_39_word_new_br2: tissue<br>erosion
+bip_39_word_new_br3: tissue<br>erosion<br>rescue
+bip_39_word_new_br4: tissue<br>erosion<br>rescue<br>quarter
+bip_39_word_new_br5: tissue<br>erosion<br>rescue<br>quarter<br>immune
+bip_39_word_new_br6: tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt
+bip_39_word_new_br7: tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt<br>quick
+bip_39_word_new_br8: tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt<br>quick<br>nut
+bip_39_word_new_br9: tissue<br>erosion<br>rescue<br>quarter<br>immune<br>salt<br>quick<br>nut<br>street
+bip_39_word_new_line1: tissue
+bip_39_word_new_line10: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter
+
+  immune
+
+  salt
+
+  quick
+
+  nut
+
+  street
+
+  wreck'
+bip_39_word_new_line11: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter
+
+  immune
+
+  salt
+
+  quick
+
+  nut
+
+  street
+
+  wreck
+
+  father'
+bip_39_word_new_line12: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter
+
+  immune
+
+  salt
+
+  quick
+
+  nut
+
+  street
+
+  wreck
+
+  father
+
+  approve'
+bip_39_word_new_line2: 'tissue
+
+  erosion'
+bip_39_word_new_line3: 'tissue
+
+  erosion
+
+  rescue'
+bip_39_word_new_line4: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter'
+bip_39_word_new_line5: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter
+
+  immune'
+bip_39_word_new_line6: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter
+
+  immune
+
+  salt'
+bip_39_word_new_line7: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter
+
+  immune
+
+  salt
+
+  quick'
+bip_39_word_new_line8: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter
+
+  immune
+
+  salt
+
+  quick
+
+  nut'
+bip_39_word_new_line9: 'tissue
+
+  erosion
+
+  rescue
+
+  quarter
+
+  immune
+
+  salt
+
+  quick
+
+  nut
+
+  street'
+bip_39_word_space_0:
+- tissue
+- erosion
+- rescue
+- quarter
+- immune
+- salt
+- quick
+- nut
+- street
+- wreck
+- father
+- approve
+bip_39_word_space_1: tissue
+bip_39_word_space_10: tissue erosion rescue quarter immune salt quick nut street wreck
+bip_39_word_space_11: tissue erosion rescue quarter immune salt quick nut street wreck
+  father
+bip_39_word_space_12: tissue erosion rescue quarter immune salt quick nut street wreck
+  father approve
+bip_39_word_space_2: tissue erosion
+bip_39_word_space_3: tissue erosion rescue
+bip_39_word_space_4: tissue erosion rescue quarter
+bip_39_word_space_5: tissue erosion rescue quarter immune
+bip_39_word_space_6: tissue erosion rescue quarter immune salt
+bip_39_word_space_7: tissue erosion rescue quarter immune salt quick
+bip_39_word_space_8: tissue erosion rescue quarter immune salt quick nut
+bip_39_word_space_9: tissue erosion rescue quarter immune salt quick nut street
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

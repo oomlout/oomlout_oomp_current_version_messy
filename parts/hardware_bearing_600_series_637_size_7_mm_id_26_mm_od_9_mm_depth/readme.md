@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pond carpet
+  * bip 39 word 3: pond carpet marriage
+  * bip 39 word: pond carpet marriage rotate point awkward budget season roof chalk echo arrange
 
 ### other_codes
 * short_code: br637
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pond |  
+| bip_39_word_new_br10 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward<br>budget<br>season<br>roof<br>chalk |  
+| bip_39_word_new_br11 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward<br>budget<br>season<br>roof<br>chalk<br>echo |  
+| bip_39_word_new_br12 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward<br>budget<br>season<br>roof<br>chalk<br>echo<br>arrange |  
+| bip_39_word_new_br2 | pond<br>carpet |  
+| bip_39_word_new_br3 | pond<br>carpet<br>marriage |  
+| bip_39_word_new_br4 | pond<br>carpet<br>marriage<br>rotate |  
+| bip_39_word_new_br5 | pond<br>carpet<br>marriage<br>rotate<br>point |  
+| bip_39_word_new_br6 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward |  
+| bip_39_word_new_br7 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward<br>budget |  
+| bip_39_word_new_br8 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward<br>budget<br>season |  
+| bip_39_word_new_br9 | pond<br>carpet<br>marriage<br>rotate<br>point<br>awkward<br>budget<br>season<br>roof |  
+| bip_39_word_new_line1 | pond |  
+| bip_39_word_new_line10 | pond
+carpet
+marriage
+rotate
+point
+awkward
+budget
+season
+roof
+chalk |  
+| bip_39_word_new_line11 | pond
+carpet
+marriage
+rotate
+point
+awkward
+budget
+season
+roof
+chalk
+echo |  
+| bip_39_word_new_line12 | pond
+carpet
+marriage
+rotate
+point
+awkward
+budget
+season
+roof
+chalk
+echo
+arrange |  
+| bip_39_word_new_line2 | pond
+carpet |  
+| bip_39_word_new_line3 | pond
+carpet
+marriage |  
+| bip_39_word_new_line4 | pond
+carpet
+marriage
+rotate |  
+| bip_39_word_new_line5 | pond
+carpet
+marriage
+rotate
+point |  
+| bip_39_word_new_line6 | pond
+carpet
+marriage
+rotate
+point
+awkward |  
+| bip_39_word_new_line7 | pond
+carpet
+marriage
+rotate
+point
+awkward
+budget |  
+| bip_39_word_new_line8 | pond
+carpet
+marriage
+rotate
+point
+awkward
+budget
+season |  
+| bip_39_word_new_line9 | pond
+carpet
+marriage
+rotate
+point
+awkward
+budget
+season
+roof |  
+| bip_39_word_space_0 | ['pond', 'carpet', 'marriage', 'rotate', 'point', 'awkward', 'budget', 'season', 'roof', 'chalk', 'echo', 'arrange'] |  
+| bip_39_word_space_1 | pond |  
+| bip_39_word_space_10 | pond carpet marriage rotate point awkward budget season roof chalk |  
+| bip_39_word_space_11 | pond carpet marriage rotate point awkward budget season roof chalk echo |  
+| bip_39_word_space_12 | pond carpet marriage rotate point awkward budget season roof chalk echo arrange |  
+| bip_39_word_space_2 | pond carpet |  
+| bip_39_word_space_3 | pond carpet marriage |  
+| bip_39_word_space_4 | pond carpet marriage rotate |  
+| bip_39_word_space_5 | pond carpet marriage rotate point |  
+| bip_39_word_space_6 | pond carpet marriage rotate point awkward |  
+| bip_39_word_space_7 | pond carpet marriage rotate point awkward budget |  
+| bip_39_word_space_8 | pond carpet marriage rotate point awkward budget season |  
+| bip_39_word_space_9 | pond carpet marriage rotate point awkward budget season roof |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

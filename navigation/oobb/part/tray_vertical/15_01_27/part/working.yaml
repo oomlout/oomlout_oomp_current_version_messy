@@ -1,3 +1,186 @@
+bip_39_word_new_br1: traffic
+bip_39_word_new_br10: traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny
+bip_39_word_new_br11: traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny<br>search
+bip_39_word_new_br12: traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow<br>tiny<br>search<br>again
+bip_39_word_new_br2: traffic<br>net
+bip_39_word_new_br3: traffic<br>net<br>never
+bip_39_word_new_br4: traffic<br>net<br>never<br>announce
+bip_39_word_new_br5: traffic<br>net<br>never<br>announce<br>gravity
+bip_39_word_new_br6: traffic<br>net<br>never<br>announce<br>gravity<br>glad
+bip_39_word_new_br7: traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock
+bip_39_word_new_br8: traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy
+bip_39_word_new_br9: traffic<br>net<br>never<br>announce<br>gravity<br>glad<br>knock<br>fancy<br>elbow
+bip_39_word_new_line1: traffic
+bip_39_word_new_line10: 'traffic
+
+  net
+
+  never
+
+  announce
+
+  gravity
+
+  glad
+
+  knock
+
+  fancy
+
+  elbow
+
+  tiny'
+bip_39_word_new_line11: 'traffic
+
+  net
+
+  never
+
+  announce
+
+  gravity
+
+  glad
+
+  knock
+
+  fancy
+
+  elbow
+
+  tiny
+
+  search'
+bip_39_word_new_line12: 'traffic
+
+  net
+
+  never
+
+  announce
+
+  gravity
+
+  glad
+
+  knock
+
+  fancy
+
+  elbow
+
+  tiny
+
+  search
+
+  again'
+bip_39_word_new_line2: 'traffic
+
+  net'
+bip_39_word_new_line3: 'traffic
+
+  net
+
+  never'
+bip_39_word_new_line4: 'traffic
+
+  net
+
+  never
+
+  announce'
+bip_39_word_new_line5: 'traffic
+
+  net
+
+  never
+
+  announce
+
+  gravity'
+bip_39_word_new_line6: 'traffic
+
+  net
+
+  never
+
+  announce
+
+  gravity
+
+  glad'
+bip_39_word_new_line7: 'traffic
+
+  net
+
+  never
+
+  announce
+
+  gravity
+
+  glad
+
+  knock'
+bip_39_word_new_line8: 'traffic
+
+  net
+
+  never
+
+  announce
+
+  gravity
+
+  glad
+
+  knock
+
+  fancy'
+bip_39_word_new_line9: 'traffic
+
+  net
+
+  never
+
+  announce
+
+  gravity
+
+  glad
+
+  knock
+
+  fancy
+
+  elbow'
+bip_39_word_space_0:
+- traffic
+- net
+- never
+- announce
+- gravity
+- glad
+- knock
+- fancy
+- elbow
+- tiny
+- search
+- again
+bip_39_word_space_1: traffic
+bip_39_word_space_10: traffic net never announce gravity glad knock fancy elbow tiny
+bip_39_word_space_11: traffic net never announce gravity glad knock fancy elbow tiny
+  search
+bip_39_word_space_12: traffic net never announce gravity glad knock fancy elbow tiny
+  search again
+bip_39_word_space_2: traffic net
+bip_39_word_space_3: traffic net never
+bip_39_word_space_4: traffic net never announce
+bip_39_word_space_5: traffic net never announce gravity
+bip_39_word_space_6: traffic net never announce gravity glad
+bip_39_word_space_7: traffic net never announce gravity glad knock
+bip_39_word_space_8: traffic net never announce gravity glad knock fancy
+bip_39_word_space_9: traffic net never announce gravity glad knock fancy elbow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

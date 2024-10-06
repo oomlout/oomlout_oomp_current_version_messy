@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clinic galaxy
+  * bip 39 word 3: clinic galaxy pelican
+  * bip 39 word: clinic galaxy pelican behind law party awesome collect club wine rally asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clinic |  
+| bip_39_word_new_br10 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party<br>awesome<br>collect<br>club<br>wine |  
+| bip_39_word_new_br11 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party<br>awesome<br>collect<br>club<br>wine<br>rally |  
+| bip_39_word_new_br12 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party<br>awesome<br>collect<br>club<br>wine<br>rally<br>asset |  
+| bip_39_word_new_br2 | clinic<br>galaxy |  
+| bip_39_word_new_br3 | clinic<br>galaxy<br>pelican |  
+| bip_39_word_new_br4 | clinic<br>galaxy<br>pelican<br>behind |  
+| bip_39_word_new_br5 | clinic<br>galaxy<br>pelican<br>behind<br>law |  
+| bip_39_word_new_br6 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party |  
+| bip_39_word_new_br7 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party<br>awesome |  
+| bip_39_word_new_br8 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party<br>awesome<br>collect |  
+| bip_39_word_new_br9 | clinic<br>galaxy<br>pelican<br>behind<br>law<br>party<br>awesome<br>collect<br>club |  
+| bip_39_word_new_line1 | clinic |  
+| bip_39_word_new_line10 | clinic
+galaxy
+pelican
+behind
+law
+party
+awesome
+collect
+club
+wine |  
+| bip_39_word_new_line11 | clinic
+galaxy
+pelican
+behind
+law
+party
+awesome
+collect
+club
+wine
+rally |  
+| bip_39_word_new_line12 | clinic
+galaxy
+pelican
+behind
+law
+party
+awesome
+collect
+club
+wine
+rally
+asset |  
+| bip_39_word_new_line2 | clinic
+galaxy |  
+| bip_39_word_new_line3 | clinic
+galaxy
+pelican |  
+| bip_39_word_new_line4 | clinic
+galaxy
+pelican
+behind |  
+| bip_39_word_new_line5 | clinic
+galaxy
+pelican
+behind
+law |  
+| bip_39_word_new_line6 | clinic
+galaxy
+pelican
+behind
+law
+party |  
+| bip_39_word_new_line7 | clinic
+galaxy
+pelican
+behind
+law
+party
+awesome |  
+| bip_39_word_new_line8 | clinic
+galaxy
+pelican
+behind
+law
+party
+awesome
+collect |  
+| bip_39_word_new_line9 | clinic
+galaxy
+pelican
+behind
+law
+party
+awesome
+collect
+club |  
+| bip_39_word_space_0 | ['clinic', 'galaxy', 'pelican', 'behind', 'law', 'party', 'awesome', 'collect', 'club', 'wine', 'rally', 'asset'] |  
+| bip_39_word_space_1 | clinic |  
+| bip_39_word_space_10 | clinic galaxy pelican behind law party awesome collect club wine |  
+| bip_39_word_space_11 | clinic galaxy pelican behind law party awesome collect club wine rally |  
+| bip_39_word_space_12 | clinic galaxy pelican behind law party awesome collect club wine rally asset |  
+| bip_39_word_space_2 | clinic galaxy |  
+| bip_39_word_space_3 | clinic galaxy pelican |  
+| bip_39_word_space_4 | clinic galaxy pelican behind |  
+| bip_39_word_space_5 | clinic galaxy pelican behind law |  
+| bip_39_word_space_6 | clinic galaxy pelican behind law party |  
+| bip_39_word_space_7 | clinic galaxy pelican behind law party awesome |  
+| bip_39_word_space_8 | clinic galaxy pelican behind law party awesome collect |  
+| bip_39_word_space_9 | clinic galaxy pelican behind law party awesome collect club |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

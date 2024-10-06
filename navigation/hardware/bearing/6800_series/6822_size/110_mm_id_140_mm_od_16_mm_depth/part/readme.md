@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: globe arch
+  * bip 39 word 3: globe arch coil
+  * bip 39 word: globe arch coil seed bone mixed park kidney chalk frame sand anchor
 
 ### other_codes
 * short_code: br6822
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | globe |  
+| bip_39_word_new_br10 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed<br>park<br>kidney<br>chalk<br>frame |  
+| bip_39_word_new_br11 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed<br>park<br>kidney<br>chalk<br>frame<br>sand |  
+| bip_39_word_new_br12 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed<br>park<br>kidney<br>chalk<br>frame<br>sand<br>anchor |  
+| bip_39_word_new_br2 | globe<br>arch |  
+| bip_39_word_new_br3 | globe<br>arch<br>coil |  
+| bip_39_word_new_br4 | globe<br>arch<br>coil<br>seed |  
+| bip_39_word_new_br5 | globe<br>arch<br>coil<br>seed<br>bone |  
+| bip_39_word_new_br6 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed |  
+| bip_39_word_new_br7 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed<br>park |  
+| bip_39_word_new_br8 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed<br>park<br>kidney |  
+| bip_39_word_new_br9 | globe<br>arch<br>coil<br>seed<br>bone<br>mixed<br>park<br>kidney<br>chalk |  
+| bip_39_word_new_line1 | globe |  
+| bip_39_word_new_line10 | globe
+arch
+coil
+seed
+bone
+mixed
+park
+kidney
+chalk
+frame |  
+| bip_39_word_new_line11 | globe
+arch
+coil
+seed
+bone
+mixed
+park
+kidney
+chalk
+frame
+sand |  
+| bip_39_word_new_line12 | globe
+arch
+coil
+seed
+bone
+mixed
+park
+kidney
+chalk
+frame
+sand
+anchor |  
+| bip_39_word_new_line2 | globe
+arch |  
+| bip_39_word_new_line3 | globe
+arch
+coil |  
+| bip_39_word_new_line4 | globe
+arch
+coil
+seed |  
+| bip_39_word_new_line5 | globe
+arch
+coil
+seed
+bone |  
+| bip_39_word_new_line6 | globe
+arch
+coil
+seed
+bone
+mixed |  
+| bip_39_word_new_line7 | globe
+arch
+coil
+seed
+bone
+mixed
+park |  
+| bip_39_word_new_line8 | globe
+arch
+coil
+seed
+bone
+mixed
+park
+kidney |  
+| bip_39_word_new_line9 | globe
+arch
+coil
+seed
+bone
+mixed
+park
+kidney
+chalk |  
+| bip_39_word_space_0 | ['globe', 'arch', 'coil', 'seed', 'bone', 'mixed', 'park', 'kidney', 'chalk', 'frame', 'sand', 'anchor'] |  
+| bip_39_word_space_1 | globe |  
+| bip_39_word_space_10 | globe arch coil seed bone mixed park kidney chalk frame |  
+| bip_39_word_space_11 | globe arch coil seed bone mixed park kidney chalk frame sand |  
+| bip_39_word_space_12 | globe arch coil seed bone mixed park kidney chalk frame sand anchor |  
+| bip_39_word_space_2 | globe arch |  
+| bip_39_word_space_3 | globe arch coil |  
+| bip_39_word_space_4 | globe arch coil seed |  
+| bip_39_word_space_5 | globe arch coil seed bone |  
+| bip_39_word_space_6 | globe arch coil seed bone mixed |  
+| bip_39_word_space_7 | globe arch coil seed bone mixed park |  
+| bip_39_word_space_8 | globe arch coil seed bone mixed park kidney |  
+| bip_39_word_space_9 | globe arch coil seed bone mixed park kidney chalk |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

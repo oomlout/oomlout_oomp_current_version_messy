@@ -1,3 +1,186 @@
+bip_39_word_new_br1: report
+bip_39_word_new_br10: report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor
+bip_39_word_new_br11: report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor<br>electric
+bip_39_word_new_br12: report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke<br>indoor<br>electric<br>arch
+bip_39_word_new_br2: report<br>leader
+bip_39_word_new_br3: report<br>leader<br>explain
+bip_39_word_new_br4: report<br>leader<br>explain<br>sail
+bip_39_word_new_br5: report<br>leader<br>explain<br>sail<br>top
+bip_39_word_new_br6: report<br>leader<br>explain<br>sail<br>top<br>enforce
+bip_39_word_new_br7: report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill
+bip_39_word_new_br8: report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit
+bip_39_word_new_br9: report<br>leader<br>explain<br>sail<br>top<br>enforce<br>skill<br>suit<br>smoke
+bip_39_word_new_line1: report
+bip_39_word_new_line10: 'report
+
+  leader
+
+  explain
+
+  sail
+
+  top
+
+  enforce
+
+  skill
+
+  suit
+
+  smoke
+
+  indoor'
+bip_39_word_new_line11: 'report
+
+  leader
+
+  explain
+
+  sail
+
+  top
+
+  enforce
+
+  skill
+
+  suit
+
+  smoke
+
+  indoor
+
+  electric'
+bip_39_word_new_line12: 'report
+
+  leader
+
+  explain
+
+  sail
+
+  top
+
+  enforce
+
+  skill
+
+  suit
+
+  smoke
+
+  indoor
+
+  electric
+
+  arch'
+bip_39_word_new_line2: 'report
+
+  leader'
+bip_39_word_new_line3: 'report
+
+  leader
+
+  explain'
+bip_39_word_new_line4: 'report
+
+  leader
+
+  explain
+
+  sail'
+bip_39_word_new_line5: 'report
+
+  leader
+
+  explain
+
+  sail
+
+  top'
+bip_39_word_new_line6: 'report
+
+  leader
+
+  explain
+
+  sail
+
+  top
+
+  enforce'
+bip_39_word_new_line7: 'report
+
+  leader
+
+  explain
+
+  sail
+
+  top
+
+  enforce
+
+  skill'
+bip_39_word_new_line8: 'report
+
+  leader
+
+  explain
+
+  sail
+
+  top
+
+  enforce
+
+  skill
+
+  suit'
+bip_39_word_new_line9: 'report
+
+  leader
+
+  explain
+
+  sail
+
+  top
+
+  enforce
+
+  skill
+
+  suit
+
+  smoke'
+bip_39_word_space_0:
+- report
+- leader
+- explain
+- sail
+- top
+- enforce
+- skill
+- suit
+- smoke
+- indoor
+- electric
+- arch
+bip_39_word_space_1: report
+bip_39_word_space_10: report leader explain sail top enforce skill suit smoke indoor
+bip_39_word_space_11: report leader explain sail top enforce skill suit smoke indoor
+  electric
+bip_39_word_space_12: report leader explain sail top enforce skill suit smoke indoor
+  electric arch
+bip_39_word_space_2: report leader
+bip_39_word_space_3: report leader explain
+bip_39_word_space_4: report leader explain sail
+bip_39_word_space_5: report leader explain sail top
+bip_39_word_space_6: report leader explain sail top enforce
+bip_39_word_space_7: report leader explain sail top enforce skill
+bip_39_word_space_8: report leader explain sail top enforce skill suit
+bip_39_word_space_9: report leader explain sail top enforce skill suit smoke
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

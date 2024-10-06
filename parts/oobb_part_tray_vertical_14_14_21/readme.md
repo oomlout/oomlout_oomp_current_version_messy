@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pact fox
+  * bip 39 word 3: pact fox perfect
+  * bip 39 word: pact fox perfect poem soup caught choice oak enforce salt empty athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pact |  
+| bip_39_word_new_br10 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught<br>choice<br>oak<br>enforce<br>salt |  
+| bip_39_word_new_br11 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught<br>choice<br>oak<br>enforce<br>salt<br>empty |  
+| bip_39_word_new_br12 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught<br>choice<br>oak<br>enforce<br>salt<br>empty<br>athlete |  
+| bip_39_word_new_br2 | pact<br>fox |  
+| bip_39_word_new_br3 | pact<br>fox<br>perfect |  
+| bip_39_word_new_br4 | pact<br>fox<br>perfect<br>poem |  
+| bip_39_word_new_br5 | pact<br>fox<br>perfect<br>poem<br>soup |  
+| bip_39_word_new_br6 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught |  
+| bip_39_word_new_br7 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught<br>choice |  
+| bip_39_word_new_br8 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught<br>choice<br>oak |  
+| bip_39_word_new_br9 | pact<br>fox<br>perfect<br>poem<br>soup<br>caught<br>choice<br>oak<br>enforce |  
+| bip_39_word_new_line1 | pact |  
+| bip_39_word_new_line10 | pact
+fox
+perfect
+poem
+soup
+caught
+choice
+oak
+enforce
+salt |  
+| bip_39_word_new_line11 | pact
+fox
+perfect
+poem
+soup
+caught
+choice
+oak
+enforce
+salt
+empty |  
+| bip_39_word_new_line12 | pact
+fox
+perfect
+poem
+soup
+caught
+choice
+oak
+enforce
+salt
+empty
+athlete |  
+| bip_39_word_new_line2 | pact
+fox |  
+| bip_39_word_new_line3 | pact
+fox
+perfect |  
+| bip_39_word_new_line4 | pact
+fox
+perfect
+poem |  
+| bip_39_word_new_line5 | pact
+fox
+perfect
+poem
+soup |  
+| bip_39_word_new_line6 | pact
+fox
+perfect
+poem
+soup
+caught |  
+| bip_39_word_new_line7 | pact
+fox
+perfect
+poem
+soup
+caught
+choice |  
+| bip_39_word_new_line8 | pact
+fox
+perfect
+poem
+soup
+caught
+choice
+oak |  
+| bip_39_word_new_line9 | pact
+fox
+perfect
+poem
+soup
+caught
+choice
+oak
+enforce |  
+| bip_39_word_space_0 | ['pact', 'fox', 'perfect', 'poem', 'soup', 'caught', 'choice', 'oak', 'enforce', 'salt', 'empty', 'athlete'] |  
+| bip_39_word_space_1 | pact |  
+| bip_39_word_space_10 | pact fox perfect poem soup caught choice oak enforce salt |  
+| bip_39_word_space_11 | pact fox perfect poem soup caught choice oak enforce salt empty |  
+| bip_39_word_space_12 | pact fox perfect poem soup caught choice oak enforce salt empty athlete |  
+| bip_39_word_space_2 | pact fox |  
+| bip_39_word_space_3 | pact fox perfect |  
+| bip_39_word_space_4 | pact fox perfect poem |  
+| bip_39_word_space_5 | pact fox perfect poem soup |  
+| bip_39_word_space_6 | pact fox perfect poem soup caught |  
+| bip_39_word_space_7 | pact fox perfect poem soup caught choice |  
+| bip_39_word_space_8 | pact fox perfect poem soup caught choice oak |  
+| bip_39_word_space_9 | pact fox perfect poem soup caught choice oak enforce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

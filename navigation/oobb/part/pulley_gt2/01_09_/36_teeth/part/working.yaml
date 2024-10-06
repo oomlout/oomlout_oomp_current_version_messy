@@ -1,3 +1,186 @@
+bip_39_word_new_br1: script
+bip_39_word_new_br10: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch
+bip_39_word_new_br11: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder
+bip_39_word_new_br12: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder<br>announce
+bip_39_word_new_br2: script<br>catch
+bip_39_word_new_br3: script<br>catch<br>lake
+bip_39_word_new_br4: script<br>catch<br>lake<br>merge
+bip_39_word_new_br5: script<br>catch<br>lake<br>merge<br>finish
+bip_39_word_new_br6: script<br>catch<br>lake<br>merge<br>finish<br>armed
+bip_39_word_new_br7: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe
+bip_39_word_new_br8: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit
+bip_39_word_new_br9: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what
+bip_39_word_new_line1: script
+bip_39_word_new_line10: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit
+
+  what
+
+  sketch'
+bip_39_word_new_line11: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit
+
+  what
+
+  sketch
+
+  powder'
+bip_39_word_new_line12: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit
+
+  what
+
+  sketch
+
+  powder
+
+  announce'
+bip_39_word_new_line2: 'script
+
+  catch'
+bip_39_word_new_line3: 'script
+
+  catch
+
+  lake'
+bip_39_word_new_line4: 'script
+
+  catch
+
+  lake
+
+  merge'
+bip_39_word_new_line5: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish'
+bip_39_word_new_line6: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed'
+bip_39_word_new_line7: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe'
+bip_39_word_new_line8: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit'
+bip_39_word_new_line9: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit
+
+  what'
+bip_39_word_space_0:
+- script
+- catch
+- lake
+- merge
+- finish
+- armed
+- pipe
+- merit
+- what
+- sketch
+- powder
+- announce
+bip_39_word_space_1: script
+bip_39_word_space_10: script catch lake merge finish armed pipe merit what sketch
+bip_39_word_space_11: script catch lake merge finish armed pipe merit what sketch
+  powder
+bip_39_word_space_12: script catch lake merge finish armed pipe merit what sketch
+  powder announce
+bip_39_word_space_2: script catch
+bip_39_word_space_3: script catch lake
+bip_39_word_space_4: script catch lake merge
+bip_39_word_space_5: script catch lake merge finish
+bip_39_word_space_6: script catch lake merge finish armed
+bip_39_word_space_7: script catch lake merge finish armed pipe
+bip_39_word_space_8: script catch lake merge finish armed pipe merit
+bip_39_word_space_9: script catch lake merge finish armed pipe merit what
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

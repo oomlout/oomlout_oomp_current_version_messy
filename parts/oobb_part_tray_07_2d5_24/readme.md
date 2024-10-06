@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: old soldier
+  * bip 39 word 3: old soldier either
+  * bip 39 word: old soldier either knock know daring empower slogan vessel walnut clever art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | old |  
+| bip_39_word_new_br10 | old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel<br>walnut |  
+| bip_39_word_new_br11 | old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel<br>walnut<br>clever |  
+| bip_39_word_new_br12 | old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel<br>walnut<br>clever<br>art |  
+| bip_39_word_new_br2 | old<br>soldier |  
+| bip_39_word_new_br3 | old<br>soldier<br>either |  
+| bip_39_word_new_br4 | old<br>soldier<br>either<br>knock |  
+| bip_39_word_new_br5 | old<br>soldier<br>either<br>knock<br>know |  
+| bip_39_word_new_br6 | old<br>soldier<br>either<br>knock<br>know<br>daring |  
+| bip_39_word_new_br7 | old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower |  
+| bip_39_word_new_br8 | old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan |  
+| bip_39_word_new_br9 | old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel |  
+| bip_39_word_new_line1 | old |  
+| bip_39_word_new_line10 | old
+soldier
+either
+knock
+know
+daring
+empower
+slogan
+vessel
+walnut |  
+| bip_39_word_new_line11 | old
+soldier
+either
+knock
+know
+daring
+empower
+slogan
+vessel
+walnut
+clever |  
+| bip_39_word_new_line12 | old
+soldier
+either
+knock
+know
+daring
+empower
+slogan
+vessel
+walnut
+clever
+art |  
+| bip_39_word_new_line2 | old
+soldier |  
+| bip_39_word_new_line3 | old
+soldier
+either |  
+| bip_39_word_new_line4 | old
+soldier
+either
+knock |  
+| bip_39_word_new_line5 | old
+soldier
+either
+knock
+know |  
+| bip_39_word_new_line6 | old
+soldier
+either
+knock
+know
+daring |  
+| bip_39_word_new_line7 | old
+soldier
+either
+knock
+know
+daring
+empower |  
+| bip_39_word_new_line8 | old
+soldier
+either
+knock
+know
+daring
+empower
+slogan |  
+| bip_39_word_new_line9 | old
+soldier
+either
+knock
+know
+daring
+empower
+slogan
+vessel |  
+| bip_39_word_space_0 | ['old', 'soldier', 'either', 'knock', 'know', 'daring', 'empower', 'slogan', 'vessel', 'walnut', 'clever', 'art'] |  
+| bip_39_word_space_1 | old |  
+| bip_39_word_space_10 | old soldier either knock know daring empower slogan vessel walnut |  
+| bip_39_word_space_11 | old soldier either knock know daring empower slogan vessel walnut clever |  
+| bip_39_word_space_12 | old soldier either knock know daring empower slogan vessel walnut clever art |  
+| bip_39_word_space_2 | old soldier |  
+| bip_39_word_space_3 | old soldier either |  
+| bip_39_word_space_4 | old soldier either knock |  
+| bip_39_word_space_5 | old soldier either knock know |  
+| bip_39_word_space_6 | old soldier either knock know daring |  
+| bip_39_word_space_7 | old soldier either knock know daring empower |  
+| bip_39_word_space_8 | old soldier either knock know daring empower slogan |  
+| bip_39_word_space_9 | old soldier either knock know daring empower slogan vessel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

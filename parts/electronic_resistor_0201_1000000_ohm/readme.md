@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: purpose feed
+  * bip 39 word 3: purpose feed easily
+  * bip 39 word: purpose feed easily arrive pulse narrow debate poem episode narrow level armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | purpose |  
+| bip_39_word_new_br10 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow<br>debate<br>poem<br>episode<br>narrow |  
+| bip_39_word_new_br11 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow<br>debate<br>poem<br>episode<br>narrow<br>level |  
+| bip_39_word_new_br12 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow<br>debate<br>poem<br>episode<br>narrow<br>level<br>armed |  
+| bip_39_word_new_br2 | purpose<br>feed |  
+| bip_39_word_new_br3 | purpose<br>feed<br>easily |  
+| bip_39_word_new_br4 | purpose<br>feed<br>easily<br>arrive |  
+| bip_39_word_new_br5 | purpose<br>feed<br>easily<br>arrive<br>pulse |  
+| bip_39_word_new_br6 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow |  
+| bip_39_word_new_br7 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow<br>debate |  
+| bip_39_word_new_br8 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow<br>debate<br>poem |  
+| bip_39_word_new_br9 | purpose<br>feed<br>easily<br>arrive<br>pulse<br>narrow<br>debate<br>poem<br>episode |  
+| bip_39_word_new_line1 | purpose |  
+| bip_39_word_new_line10 | purpose
+feed
+easily
+arrive
+pulse
+narrow
+debate
+poem
+episode
+narrow |  
+| bip_39_word_new_line11 | purpose
+feed
+easily
+arrive
+pulse
+narrow
+debate
+poem
+episode
+narrow
+level |  
+| bip_39_word_new_line12 | purpose
+feed
+easily
+arrive
+pulse
+narrow
+debate
+poem
+episode
+narrow
+level
+armed |  
+| bip_39_word_new_line2 | purpose
+feed |  
+| bip_39_word_new_line3 | purpose
+feed
+easily |  
+| bip_39_word_new_line4 | purpose
+feed
+easily
+arrive |  
+| bip_39_word_new_line5 | purpose
+feed
+easily
+arrive
+pulse |  
+| bip_39_word_new_line6 | purpose
+feed
+easily
+arrive
+pulse
+narrow |  
+| bip_39_word_new_line7 | purpose
+feed
+easily
+arrive
+pulse
+narrow
+debate |  
+| bip_39_word_new_line8 | purpose
+feed
+easily
+arrive
+pulse
+narrow
+debate
+poem |  
+| bip_39_word_new_line9 | purpose
+feed
+easily
+arrive
+pulse
+narrow
+debate
+poem
+episode |  
+| bip_39_word_space_0 | ['purpose', 'feed', 'easily', 'arrive', 'pulse', 'narrow', 'debate', 'poem', 'episode', 'narrow', 'level', 'armed'] |  
+| bip_39_word_space_1 | purpose |  
+| bip_39_word_space_10 | purpose feed easily arrive pulse narrow debate poem episode narrow |  
+| bip_39_word_space_11 | purpose feed easily arrive pulse narrow debate poem episode narrow level |  
+| bip_39_word_space_12 | purpose feed easily arrive pulse narrow debate poem episode narrow level armed |  
+| bip_39_word_space_2 | purpose feed |  
+| bip_39_word_space_3 | purpose feed easily |  
+| bip_39_word_space_4 | purpose feed easily arrive |  
+| bip_39_word_space_5 | purpose feed easily arrive pulse |  
+| bip_39_word_space_6 | purpose feed easily arrive pulse narrow |  
+| bip_39_word_space_7 | purpose feed easily arrive pulse narrow debate |  
+| bip_39_word_space_8 | purpose feed easily arrive pulse narrow debate poem |  
+| bip_39_word_space_9 | purpose feed easily arrive pulse narrow debate poem episode |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

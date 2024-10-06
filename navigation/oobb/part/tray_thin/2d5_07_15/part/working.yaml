@@ -1,3 +1,186 @@
+bip_39_word_new_br1: useless
+bip_39_word_new_br10: useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow
+bip_39_word_new_br11: useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow<br>helmet
+bip_39_word_new_br12: useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant<br>shallow<br>helmet<br>admit
+bip_39_word_new_br2: useless<br>come
+bip_39_word_new_br3: useless<br>come<br>tooth
+bip_39_word_new_br4: useless<br>come<br>tooth<br>radio
+bip_39_word_new_br5: useless<br>come<br>tooth<br>radio<br>ghost
+bip_39_word_new_br6: useless<br>come<br>tooth<br>radio<br>ghost<br>path
+bip_39_word_new_br7: useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent
+bip_39_word_new_br8: useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level
+bip_39_word_new_br9: useless<br>come<br>tooth<br>radio<br>ghost<br>path<br>absent<br>level<br>infant
+bip_39_word_new_line1: useless
+bip_39_word_new_line10: 'useless
+
+  come
+
+  tooth
+
+  radio
+
+  ghost
+
+  path
+
+  absent
+
+  level
+
+  infant
+
+  shallow'
+bip_39_word_new_line11: 'useless
+
+  come
+
+  tooth
+
+  radio
+
+  ghost
+
+  path
+
+  absent
+
+  level
+
+  infant
+
+  shallow
+
+  helmet'
+bip_39_word_new_line12: 'useless
+
+  come
+
+  tooth
+
+  radio
+
+  ghost
+
+  path
+
+  absent
+
+  level
+
+  infant
+
+  shallow
+
+  helmet
+
+  admit'
+bip_39_word_new_line2: 'useless
+
+  come'
+bip_39_word_new_line3: 'useless
+
+  come
+
+  tooth'
+bip_39_word_new_line4: 'useless
+
+  come
+
+  tooth
+
+  radio'
+bip_39_word_new_line5: 'useless
+
+  come
+
+  tooth
+
+  radio
+
+  ghost'
+bip_39_word_new_line6: 'useless
+
+  come
+
+  tooth
+
+  radio
+
+  ghost
+
+  path'
+bip_39_word_new_line7: 'useless
+
+  come
+
+  tooth
+
+  radio
+
+  ghost
+
+  path
+
+  absent'
+bip_39_word_new_line8: 'useless
+
+  come
+
+  tooth
+
+  radio
+
+  ghost
+
+  path
+
+  absent
+
+  level'
+bip_39_word_new_line9: 'useless
+
+  come
+
+  tooth
+
+  radio
+
+  ghost
+
+  path
+
+  absent
+
+  level
+
+  infant'
+bip_39_word_space_0:
+- useless
+- come
+- tooth
+- radio
+- ghost
+- path
+- absent
+- level
+- infant
+- shallow
+- helmet
+- admit
+bip_39_word_space_1: useless
+bip_39_word_space_10: useless come tooth radio ghost path absent level infant shallow
+bip_39_word_space_11: useless come tooth radio ghost path absent level infant shallow
+  helmet
+bip_39_word_space_12: useless come tooth radio ghost path absent level infant shallow
+  helmet admit
+bip_39_word_space_2: useless come
+bip_39_word_space_3: useless come tooth
+bip_39_word_space_4: useless come tooth radio
+bip_39_word_space_5: useless come tooth radio ghost
+bip_39_word_space_6: useless come tooth radio ghost path
+bip_39_word_space_7: useless come tooth radio ghost path absent
+bip_39_word_space_8: useless come tooth radio ghost path absent level
+bip_39_word_space_9: useless come tooth radio ghost path absent level infant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

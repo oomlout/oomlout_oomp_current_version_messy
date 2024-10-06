@@ -1,3 +1,187 @@
+bip_39_word_new_br1: possible
+bip_39_word_new_br10: possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz
+bip_39_word_new_br11: possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz<br>bag
+bip_39_word_new_br12: possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs<br>quiz<br>bag<br>alone
+bip_39_word_new_br2: possible<br>industry
+bip_39_word_new_br3: possible<br>industry<br>crush
+bip_39_word_new_br4: possible<br>industry<br>crush<br>invite
+bip_39_word_new_br5: possible<br>industry<br>crush<br>invite<br>off
+bip_39_word_new_br6: possible<br>industry<br>crush<br>invite<br>off<br>bulb
+bip_39_word_new_br7: possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither
+bip_39_word_new_br8: possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband
+bip_39_word_new_br9: possible<br>industry<br>crush<br>invite<br>off<br>bulb<br>neither<br>husband<br>stairs
+bip_39_word_new_line1: possible
+bip_39_word_new_line10: 'possible
+
+  industry
+
+  crush
+
+  invite
+
+  off
+
+  bulb
+
+  neither
+
+  husband
+
+  stairs
+
+  quiz'
+bip_39_word_new_line11: 'possible
+
+  industry
+
+  crush
+
+  invite
+
+  off
+
+  bulb
+
+  neither
+
+  husband
+
+  stairs
+
+  quiz
+
+  bag'
+bip_39_word_new_line12: 'possible
+
+  industry
+
+  crush
+
+  invite
+
+  off
+
+  bulb
+
+  neither
+
+  husband
+
+  stairs
+
+  quiz
+
+  bag
+
+  alone'
+bip_39_word_new_line2: 'possible
+
+  industry'
+bip_39_word_new_line3: 'possible
+
+  industry
+
+  crush'
+bip_39_word_new_line4: 'possible
+
+  industry
+
+  crush
+
+  invite'
+bip_39_word_new_line5: 'possible
+
+  industry
+
+  crush
+
+  invite
+
+  off'
+bip_39_word_new_line6: 'possible
+
+  industry
+
+  crush
+
+  invite
+
+  off
+
+  bulb'
+bip_39_word_new_line7: 'possible
+
+  industry
+
+  crush
+
+  invite
+
+  off
+
+  bulb
+
+  neither'
+bip_39_word_new_line8: 'possible
+
+  industry
+
+  crush
+
+  invite
+
+  off
+
+  bulb
+
+  neither
+
+  husband'
+bip_39_word_new_line9: 'possible
+
+  industry
+
+  crush
+
+  invite
+
+  off
+
+  bulb
+
+  neither
+
+  husband
+
+  stairs'
+bip_39_word_space_0:
+- possible
+- industry
+- crush
+- invite
+- 'off'
+- bulb
+- neither
+- husband
+- stairs
+- quiz
+- bag
+- alone
+bip_39_word_space_1: possible
+bip_39_word_space_10: possible industry crush invite off bulb neither husband stairs
+  quiz
+bip_39_word_space_11: possible industry crush invite off bulb neither husband stairs
+  quiz bag
+bip_39_word_space_12: possible industry crush invite off bulb neither husband stairs
+  quiz bag alone
+bip_39_word_space_2: possible industry
+bip_39_word_space_3: possible industry crush
+bip_39_word_space_4: possible industry crush invite
+bip_39_word_space_5: possible industry crush invite off
+bip_39_word_space_6: possible industry crush invite off bulb
+bip_39_word_space_7: possible industry crush invite off bulb neither
+bip_39_word_space_8: possible industry crush invite off bulb neither husband
+bip_39_word_space_9: possible industry crush invite off bulb neither husband stairs
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

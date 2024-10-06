@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: country shine
+  * bip 39 word 3: country shine violin
+  * bip 39 word: country shine violin food clinic spider brain force gentle miracle catch alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | country |  
+| bip_39_word_new_br10 | country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle<br>miracle |  
+| bip_39_word_new_br11 | country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle<br>miracle<br>catch |  
+| bip_39_word_new_br12 | country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle<br>miracle<br>catch<br>alarm |  
+| bip_39_word_new_br2 | country<br>shine |  
+| bip_39_word_new_br3 | country<br>shine<br>violin |  
+| bip_39_word_new_br4 | country<br>shine<br>violin<br>food |  
+| bip_39_word_new_br5 | country<br>shine<br>violin<br>food<br>clinic |  
+| bip_39_word_new_br6 | country<br>shine<br>violin<br>food<br>clinic<br>spider |  
+| bip_39_word_new_br7 | country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain |  
+| bip_39_word_new_br8 | country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force |  
+| bip_39_word_new_br9 | country<br>shine<br>violin<br>food<br>clinic<br>spider<br>brain<br>force<br>gentle |  
+| bip_39_word_new_line1 | country |  
+| bip_39_word_new_line10 | country
+shine
+violin
+food
+clinic
+spider
+brain
+force
+gentle
+miracle |  
+| bip_39_word_new_line11 | country
+shine
+violin
+food
+clinic
+spider
+brain
+force
+gentle
+miracle
+catch |  
+| bip_39_word_new_line12 | country
+shine
+violin
+food
+clinic
+spider
+brain
+force
+gentle
+miracle
+catch
+alarm |  
+| bip_39_word_new_line2 | country
+shine |  
+| bip_39_word_new_line3 | country
+shine
+violin |  
+| bip_39_word_new_line4 | country
+shine
+violin
+food |  
+| bip_39_word_new_line5 | country
+shine
+violin
+food
+clinic |  
+| bip_39_word_new_line6 | country
+shine
+violin
+food
+clinic
+spider |  
+| bip_39_word_new_line7 | country
+shine
+violin
+food
+clinic
+spider
+brain |  
+| bip_39_word_new_line8 | country
+shine
+violin
+food
+clinic
+spider
+brain
+force |  
+| bip_39_word_new_line9 | country
+shine
+violin
+food
+clinic
+spider
+brain
+force
+gentle |  
+| bip_39_word_space_0 | ['country', 'shine', 'violin', 'food', 'clinic', 'spider', 'brain', 'force', 'gentle', 'miracle', 'catch', 'alarm'] |  
+| bip_39_word_space_1 | country |  
+| bip_39_word_space_10 | country shine violin food clinic spider brain force gentle miracle |  
+| bip_39_word_space_11 | country shine violin food clinic spider brain force gentle miracle catch |  
+| bip_39_word_space_12 | country shine violin food clinic spider brain force gentle miracle catch alarm |  
+| bip_39_word_space_2 | country shine |  
+| bip_39_word_space_3 | country shine violin |  
+| bip_39_word_space_4 | country shine violin food |  
+| bip_39_word_space_5 | country shine violin food clinic |  
+| bip_39_word_space_6 | country shine violin food clinic spider |  
+| bip_39_word_space_7 | country shine violin food clinic spider brain |  
+| bip_39_word_space_8 | country shine violin food clinic spider brain force |  
+| bip_39_word_space_9 | country shine violin food clinic spider brain force gentle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

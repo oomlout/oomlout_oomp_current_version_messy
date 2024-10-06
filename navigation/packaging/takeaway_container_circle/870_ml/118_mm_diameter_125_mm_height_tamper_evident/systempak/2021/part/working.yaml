@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cream
+bip_39_word_new_br10: cream<br>focus<br>valley<br>pitch<br>thank<br>spring<br>poverty<br>grunt<br>cat<br>sausage
+bip_39_word_new_br11: cream<br>focus<br>valley<br>pitch<br>thank<br>spring<br>poverty<br>grunt<br>cat<br>sausage<br>tape
+bip_39_word_new_br12: cream<br>focus<br>valley<br>pitch<br>thank<br>spring<br>poverty<br>grunt<br>cat<br>sausage<br>tape<br>afraid
+bip_39_word_new_br2: cream<br>focus
+bip_39_word_new_br3: cream<br>focus<br>valley
+bip_39_word_new_br4: cream<br>focus<br>valley<br>pitch
+bip_39_word_new_br5: cream<br>focus<br>valley<br>pitch<br>thank
+bip_39_word_new_br6: cream<br>focus<br>valley<br>pitch<br>thank<br>spring
+bip_39_word_new_br7: cream<br>focus<br>valley<br>pitch<br>thank<br>spring<br>poverty
+bip_39_word_new_br8: cream<br>focus<br>valley<br>pitch<br>thank<br>spring<br>poverty<br>grunt
+bip_39_word_new_br9: cream<br>focus<br>valley<br>pitch<br>thank<br>spring<br>poverty<br>grunt<br>cat
+bip_39_word_new_line1: cream
+bip_39_word_new_line10: 'cream
+
+  focus
+
+  valley
+
+  pitch
+
+  thank
+
+  spring
+
+  poverty
+
+  grunt
+
+  cat
+
+  sausage'
+bip_39_word_new_line11: 'cream
+
+  focus
+
+  valley
+
+  pitch
+
+  thank
+
+  spring
+
+  poverty
+
+  grunt
+
+  cat
+
+  sausage
+
+  tape'
+bip_39_word_new_line12: 'cream
+
+  focus
+
+  valley
+
+  pitch
+
+  thank
+
+  spring
+
+  poverty
+
+  grunt
+
+  cat
+
+  sausage
+
+  tape
+
+  afraid'
+bip_39_word_new_line2: 'cream
+
+  focus'
+bip_39_word_new_line3: 'cream
+
+  focus
+
+  valley'
+bip_39_word_new_line4: 'cream
+
+  focus
+
+  valley
+
+  pitch'
+bip_39_word_new_line5: 'cream
+
+  focus
+
+  valley
+
+  pitch
+
+  thank'
+bip_39_word_new_line6: 'cream
+
+  focus
+
+  valley
+
+  pitch
+
+  thank
+
+  spring'
+bip_39_word_new_line7: 'cream
+
+  focus
+
+  valley
+
+  pitch
+
+  thank
+
+  spring
+
+  poverty'
+bip_39_word_new_line8: 'cream
+
+  focus
+
+  valley
+
+  pitch
+
+  thank
+
+  spring
+
+  poverty
+
+  grunt'
+bip_39_word_new_line9: 'cream
+
+  focus
+
+  valley
+
+  pitch
+
+  thank
+
+  spring
+
+  poverty
+
+  grunt
+
+  cat'
+bip_39_word_space_0:
+- cream
+- focus
+- valley
+- pitch
+- thank
+- spring
+- poverty
+- grunt
+- cat
+- sausage
+- tape
+- afraid
+bip_39_word_space_1: cream
+bip_39_word_space_10: cream focus valley pitch thank spring poverty grunt cat sausage
+bip_39_word_space_11: cream focus valley pitch thank spring poverty grunt cat sausage
+  tape
+bip_39_word_space_12: cream focus valley pitch thank spring poverty grunt cat sausage
+  tape afraid
+bip_39_word_space_2: cream focus
+bip_39_word_space_3: cream focus valley
+bip_39_word_space_4: cream focus valley pitch
+bip_39_word_space_5: cream focus valley pitch thank
+bip_39_word_space_6: cream focus valley pitch thank spring
+bip_39_word_space_7: cream focus valley pitch thank spring poverty
+bip_39_word_space_8: cream focus valley pitch thank spring poverty grunt
+bip_39_word_space_9: cream focus valley pitch thank spring poverty grunt cat
 box_quantity: '230'
 classification: packaging
 classification_capital: Packaging

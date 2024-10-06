@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lottery tumble
+  * bip 39 word 3: lottery tumble cross
+  * bip 39 word: lottery tumble cross yard matrix universe able release subway later stone account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lottery |  
+| bip_39_word_new_br10 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe<br>able<br>release<br>subway<br>later |  
+| bip_39_word_new_br11 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe<br>able<br>release<br>subway<br>later<br>stone |  
+| bip_39_word_new_br12 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe<br>able<br>release<br>subway<br>later<br>stone<br>account |  
+| bip_39_word_new_br2 | lottery<br>tumble |  
+| bip_39_word_new_br3 | lottery<br>tumble<br>cross |  
+| bip_39_word_new_br4 | lottery<br>tumble<br>cross<br>yard |  
+| bip_39_word_new_br5 | lottery<br>tumble<br>cross<br>yard<br>matrix |  
+| bip_39_word_new_br6 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe |  
+| bip_39_word_new_br7 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe<br>able |  
+| bip_39_word_new_br8 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe<br>able<br>release |  
+| bip_39_word_new_br9 | lottery<br>tumble<br>cross<br>yard<br>matrix<br>universe<br>able<br>release<br>subway |  
+| bip_39_word_new_line1 | lottery |  
+| bip_39_word_new_line10 | lottery
+tumble
+cross
+yard
+matrix
+universe
+able
+release
+subway
+later |  
+| bip_39_word_new_line11 | lottery
+tumble
+cross
+yard
+matrix
+universe
+able
+release
+subway
+later
+stone |  
+| bip_39_word_new_line12 | lottery
+tumble
+cross
+yard
+matrix
+universe
+able
+release
+subway
+later
+stone
+account |  
+| bip_39_word_new_line2 | lottery
+tumble |  
+| bip_39_word_new_line3 | lottery
+tumble
+cross |  
+| bip_39_word_new_line4 | lottery
+tumble
+cross
+yard |  
+| bip_39_word_new_line5 | lottery
+tumble
+cross
+yard
+matrix |  
+| bip_39_word_new_line6 | lottery
+tumble
+cross
+yard
+matrix
+universe |  
+| bip_39_word_new_line7 | lottery
+tumble
+cross
+yard
+matrix
+universe
+able |  
+| bip_39_word_new_line8 | lottery
+tumble
+cross
+yard
+matrix
+universe
+able
+release |  
+| bip_39_word_new_line9 | lottery
+tumble
+cross
+yard
+matrix
+universe
+able
+release
+subway |  
+| bip_39_word_space_0 | ['lottery', 'tumble', 'cross', 'yard', 'matrix', 'universe', 'able', 'release', 'subway', 'later', 'stone', 'account'] |  
+| bip_39_word_space_1 | lottery |  
+| bip_39_word_space_10 | lottery tumble cross yard matrix universe able release subway later |  
+| bip_39_word_space_11 | lottery tumble cross yard matrix universe able release subway later stone |  
+| bip_39_word_space_12 | lottery tumble cross yard matrix universe able release subway later stone account |  
+| bip_39_word_space_2 | lottery tumble |  
+| bip_39_word_space_3 | lottery tumble cross |  
+| bip_39_word_space_4 | lottery tumble cross yard |  
+| bip_39_word_space_5 | lottery tumble cross yard matrix |  
+| bip_39_word_space_6 | lottery tumble cross yard matrix universe |  
+| bip_39_word_space_7 | lottery tumble cross yard matrix universe able |  
+| bip_39_word_space_8 | lottery tumble cross yard matrix universe able release |  
+| bip_39_word_space_9 | lottery tumble cross yard matrix universe able release subway |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

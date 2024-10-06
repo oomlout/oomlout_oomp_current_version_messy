@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: random arena
+  * bip 39 word 3: random arena horror
+  * bip 39 word: random arena horror child focus dream bonus tonight mask edge other absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | random |  
+| bip_39_word_new_br10 | random<br>arena<br>horror<br>child<br>focus<br>dream<br>bonus<br>tonight<br>mask<br>edge |  
+| bip_39_word_new_br11 | random<br>arena<br>horror<br>child<br>focus<br>dream<br>bonus<br>tonight<br>mask<br>edge<br>other |  
+| bip_39_word_new_br12 | random<br>arena<br>horror<br>child<br>focus<br>dream<br>bonus<br>tonight<br>mask<br>edge<br>other<br>absurd |  
+| bip_39_word_new_br2 | random<br>arena |  
+| bip_39_word_new_br3 | random<br>arena<br>horror |  
+| bip_39_word_new_br4 | random<br>arena<br>horror<br>child |  
+| bip_39_word_new_br5 | random<br>arena<br>horror<br>child<br>focus |  
+| bip_39_word_new_br6 | random<br>arena<br>horror<br>child<br>focus<br>dream |  
+| bip_39_word_new_br7 | random<br>arena<br>horror<br>child<br>focus<br>dream<br>bonus |  
+| bip_39_word_new_br8 | random<br>arena<br>horror<br>child<br>focus<br>dream<br>bonus<br>tonight |  
+| bip_39_word_new_br9 | random<br>arena<br>horror<br>child<br>focus<br>dream<br>bonus<br>tonight<br>mask |  
+| bip_39_word_new_line1 | random |  
+| bip_39_word_new_line10 | random
+arena
+horror
+child
+focus
+dream
+bonus
+tonight
+mask
+edge |  
+| bip_39_word_new_line11 | random
+arena
+horror
+child
+focus
+dream
+bonus
+tonight
+mask
+edge
+other |  
+| bip_39_word_new_line12 | random
+arena
+horror
+child
+focus
+dream
+bonus
+tonight
+mask
+edge
+other
+absurd |  
+| bip_39_word_new_line2 | random
+arena |  
+| bip_39_word_new_line3 | random
+arena
+horror |  
+| bip_39_word_new_line4 | random
+arena
+horror
+child |  
+| bip_39_word_new_line5 | random
+arena
+horror
+child
+focus |  
+| bip_39_word_new_line6 | random
+arena
+horror
+child
+focus
+dream |  
+| bip_39_word_new_line7 | random
+arena
+horror
+child
+focus
+dream
+bonus |  
+| bip_39_word_new_line8 | random
+arena
+horror
+child
+focus
+dream
+bonus
+tonight |  
+| bip_39_word_new_line9 | random
+arena
+horror
+child
+focus
+dream
+bonus
+tonight
+mask |  
+| bip_39_word_space_0 | ['random', 'arena', 'horror', 'child', 'focus', 'dream', 'bonus', 'tonight', 'mask', 'edge', 'other', 'absurd'] |  
+| bip_39_word_space_1 | random |  
+| bip_39_word_space_10 | random arena horror child focus dream bonus tonight mask edge |  
+| bip_39_word_space_11 | random arena horror child focus dream bonus tonight mask edge other |  
+| bip_39_word_space_12 | random arena horror child focus dream bonus tonight mask edge other absurd |  
+| bip_39_word_space_2 | random arena |  
+| bip_39_word_space_3 | random arena horror |  
+| bip_39_word_space_4 | random arena horror child |  
+| bip_39_word_space_5 | random arena horror child focus |  
+| bip_39_word_space_6 | random arena horror child focus dream |  
+| bip_39_word_space_7 | random arena horror child focus dream bonus |  
+| bip_39_word_space_8 | random arena horror child focus dream bonus tonight |  
+| bip_39_word_space_9 | random arena horror child focus dream bonus tonight mask |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

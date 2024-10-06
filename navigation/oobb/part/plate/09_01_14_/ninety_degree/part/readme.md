@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dog vote
+  * bip 39 word 3: dog vote opera
+  * bip 39 word: dog vote opera pool charge cruel upset then acid purchase enemy ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dog |  
+| bip_39_word_new_br10 | dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid<br>purchase |  
+| bip_39_word_new_br11 | dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid<br>purchase<br>enemy |  
+| bip_39_word_new_br12 | dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid<br>purchase<br>enemy<br>ahead |  
+| bip_39_word_new_br2 | dog<br>vote |  
+| bip_39_word_new_br3 | dog<br>vote<br>opera |  
+| bip_39_word_new_br4 | dog<br>vote<br>opera<br>pool |  
+| bip_39_word_new_br5 | dog<br>vote<br>opera<br>pool<br>charge |  
+| bip_39_word_new_br6 | dog<br>vote<br>opera<br>pool<br>charge<br>cruel |  
+| bip_39_word_new_br7 | dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset |  
+| bip_39_word_new_br8 | dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then |  
+| bip_39_word_new_br9 | dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid |  
+| bip_39_word_new_line1 | dog |  
+| bip_39_word_new_line10 | dog
+vote
+opera
+pool
+charge
+cruel
+upset
+then
+acid
+purchase |  
+| bip_39_word_new_line11 | dog
+vote
+opera
+pool
+charge
+cruel
+upset
+then
+acid
+purchase
+enemy |  
+| bip_39_word_new_line12 | dog
+vote
+opera
+pool
+charge
+cruel
+upset
+then
+acid
+purchase
+enemy
+ahead |  
+| bip_39_word_new_line2 | dog
+vote |  
+| bip_39_word_new_line3 | dog
+vote
+opera |  
+| bip_39_word_new_line4 | dog
+vote
+opera
+pool |  
+| bip_39_word_new_line5 | dog
+vote
+opera
+pool
+charge |  
+| bip_39_word_new_line6 | dog
+vote
+opera
+pool
+charge
+cruel |  
+| bip_39_word_new_line7 | dog
+vote
+opera
+pool
+charge
+cruel
+upset |  
+| bip_39_word_new_line8 | dog
+vote
+opera
+pool
+charge
+cruel
+upset
+then |  
+| bip_39_word_new_line9 | dog
+vote
+opera
+pool
+charge
+cruel
+upset
+then
+acid |  
+| bip_39_word_space_0 | ['dog', 'vote', 'opera', 'pool', 'charge', 'cruel', 'upset', 'then', 'acid', 'purchase', 'enemy', 'ahead'] |  
+| bip_39_word_space_1 | dog |  
+| bip_39_word_space_10 | dog vote opera pool charge cruel upset then acid purchase |  
+| bip_39_word_space_11 | dog vote opera pool charge cruel upset then acid purchase enemy |  
+| bip_39_word_space_12 | dog vote opera pool charge cruel upset then acid purchase enemy ahead |  
+| bip_39_word_space_2 | dog vote |  
+| bip_39_word_space_3 | dog vote opera |  
+| bip_39_word_space_4 | dog vote opera pool |  
+| bip_39_word_space_5 | dog vote opera pool charge |  
+| bip_39_word_space_6 | dog vote opera pool charge cruel |  
+| bip_39_word_space_7 | dog vote opera pool charge cruel upset |  
+| bip_39_word_space_8 | dog vote opera pool charge cruel upset then |  
+| bip_39_word_space_9 | dog vote opera pool charge cruel upset then acid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slender smart
+  * bip 39 word 3: slender smart reflect
+  * bip 39 word: 
 
 ### other_codes
 * short_code: ms4m40pz
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slender |  
+| bip_39_word_new_br10 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean<br>flee |  
+| bip_39_word_new_br11 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean<br>flee<br>runway |  
+| bip_39_word_new_br2 | slender<br>smart |  
+| bip_39_word_new_br3 | slender<br>smart<br>reflect |  
+| bip_39_word_new_br4 | slender<br>smart<br>reflect<br>lizard |  
+| bip_39_word_new_br5 | slender<br>smart<br>reflect<br>lizard<br>bless |  
+| bip_39_word_new_br6 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort |  
+| bip_39_word_new_br7 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall |  
+| bip_39_word_new_br8 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict |  
+| bip_39_word_new_br9 | slender<br>smart<br>reflect<br>lizard<br>bless<br>effort<br>fall<br>addict<br>mean |  
+| bip_39_word_new_line1 | slender |  
+| bip_39_word_new_line10 | slender
+smart
+reflect
+lizard
+bless
+effort
+fall
+addict
+mean
+flee |  
+| bip_39_word_new_line11 | slender
+smart
+reflect
+lizard
+bless
+effort
+fall
+addict
+mean
+flee
+runway |  
+| bip_39_word_new_line2 | slender
+smart |  
+| bip_39_word_new_line3 | slender
+smart
+reflect |  
+| bip_39_word_new_line4 | slender
+smart
+reflect
+lizard |  
+| bip_39_word_new_line5 | slender
+smart
+reflect
+lizard
+bless |  
+| bip_39_word_new_line6 | slender
+smart
+reflect
+lizard
+bless
+effort |  
+| bip_39_word_new_line7 | slender
+smart
+reflect
+lizard
+bless
+effort
+fall |  
+| bip_39_word_new_line8 | slender
+smart
+reflect
+lizard
+bless
+effort
+fall
+addict |  
+| bip_39_word_new_line9 | slender
+smart
+reflect
+lizard
+bless
+effort
+fall
+addict
+mean |  
+| bip_39_word_space_0 | ['slender', 'smart', 'reflect', 'lizard', 'bless', 'effort', 'fall', 'addict', 'mean', 'flee', 'runway'] |  
+| bip_39_word_space_1 | slender |  
+| bip_39_word_space_10 | slender smart reflect lizard bless effort fall addict mean flee |  
+| bip_39_word_space_11 | slender smart reflect lizard bless effort fall addict mean flee runway |  
+| bip_39_word_space_2 | slender smart |  
+| bip_39_word_space_3 | slender smart reflect |  
+| bip_39_word_space_4 | slender smart reflect lizard |  
+| bip_39_word_space_5 | slender smart reflect lizard bless |  
+| bip_39_word_space_6 | slender smart reflect lizard bless effort |  
+| bip_39_word_space_7 | slender smart reflect lizard bless effort fall |  
+| bip_39_word_space_8 | slender smart reflect lizard bless effort fall addict |  
+| bip_39_word_space_9 | slender smart reflect lizard bless effort fall addict mean |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

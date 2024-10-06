@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sister sing
+  * bip 39 word 3: sister sing boat
+  * bip 39 word: sister sing boat assume property stable tattoo mesh motion whisper under attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sister |  
+| bip_39_word_new_br10 | sister<br>sing<br>boat<br>assume<br>property<br>stable<br>tattoo<br>mesh<br>motion<br>whisper |  
+| bip_39_word_new_br11 | sister<br>sing<br>boat<br>assume<br>property<br>stable<br>tattoo<br>mesh<br>motion<br>whisper<br>under |  
+| bip_39_word_new_br12 | sister<br>sing<br>boat<br>assume<br>property<br>stable<br>tattoo<br>mesh<br>motion<br>whisper<br>under<br>attitude |  
+| bip_39_word_new_br2 | sister<br>sing |  
+| bip_39_word_new_br3 | sister<br>sing<br>boat |  
+| bip_39_word_new_br4 | sister<br>sing<br>boat<br>assume |  
+| bip_39_word_new_br5 | sister<br>sing<br>boat<br>assume<br>property |  
+| bip_39_word_new_br6 | sister<br>sing<br>boat<br>assume<br>property<br>stable |  
+| bip_39_word_new_br7 | sister<br>sing<br>boat<br>assume<br>property<br>stable<br>tattoo |  
+| bip_39_word_new_br8 | sister<br>sing<br>boat<br>assume<br>property<br>stable<br>tattoo<br>mesh |  
+| bip_39_word_new_br9 | sister<br>sing<br>boat<br>assume<br>property<br>stable<br>tattoo<br>mesh<br>motion |  
+| bip_39_word_new_line1 | sister |  
+| bip_39_word_new_line10 | sister
+sing
+boat
+assume
+property
+stable
+tattoo
+mesh
+motion
+whisper |  
+| bip_39_word_new_line11 | sister
+sing
+boat
+assume
+property
+stable
+tattoo
+mesh
+motion
+whisper
+under |  
+| bip_39_word_new_line12 | sister
+sing
+boat
+assume
+property
+stable
+tattoo
+mesh
+motion
+whisper
+under
+attitude |  
+| bip_39_word_new_line2 | sister
+sing |  
+| bip_39_word_new_line3 | sister
+sing
+boat |  
+| bip_39_word_new_line4 | sister
+sing
+boat
+assume |  
+| bip_39_word_new_line5 | sister
+sing
+boat
+assume
+property |  
+| bip_39_word_new_line6 | sister
+sing
+boat
+assume
+property
+stable |  
+| bip_39_word_new_line7 | sister
+sing
+boat
+assume
+property
+stable
+tattoo |  
+| bip_39_word_new_line8 | sister
+sing
+boat
+assume
+property
+stable
+tattoo
+mesh |  
+| bip_39_word_new_line9 | sister
+sing
+boat
+assume
+property
+stable
+tattoo
+mesh
+motion |  
+| bip_39_word_space_0 | ['sister', 'sing', 'boat', 'assume', 'property', 'stable', 'tattoo', 'mesh', 'motion', 'whisper', 'under', 'attitude'] |  
+| bip_39_word_space_1 | sister |  
+| bip_39_word_space_10 | sister sing boat assume property stable tattoo mesh motion whisper |  
+| bip_39_word_space_11 | sister sing boat assume property stable tattoo mesh motion whisper under |  
+| bip_39_word_space_12 | sister sing boat assume property stable tattoo mesh motion whisper under attitude |  
+| bip_39_word_space_2 | sister sing |  
+| bip_39_word_space_3 | sister sing boat |  
+| bip_39_word_space_4 | sister sing boat assume |  
+| bip_39_word_space_5 | sister sing boat assume property |  
+| bip_39_word_space_6 | sister sing boat assume property stable |  
+| bip_39_word_space_7 | sister sing boat assume property stable tattoo |  
+| bip_39_word_space_8 | sister sing boat assume property stable tattoo mesh |  
+| bip_39_word_space_9 | sister sing boat assume property stable tattoo mesh motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

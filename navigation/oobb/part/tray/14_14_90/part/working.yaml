@@ -1,3 +1,187 @@
+bip_39_word_new_br1: tumble
+bip_39_word_new_br10: tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid<br>under<br>inform<br>lizard<br>differ
+bip_39_word_new_br11: tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid<br>under<br>inform<br>lizard<br>differ<br>flee
+bip_39_word_new_br12: tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid<br>under<br>inform<br>lizard<br>differ<br>flee<br>attitude
+bip_39_word_new_br2: tumble<br>hungry
+bip_39_word_new_br3: tumble<br>hungry<br>boil
+bip_39_word_new_br4: tumble<br>hungry<br>boil<br>stomach
+bip_39_word_new_br5: tumble<br>hungry<br>boil<br>stomach<br>glance
+bip_39_word_new_br6: tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid
+bip_39_word_new_br7: tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid<br>under
+bip_39_word_new_br8: tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid<br>under<br>inform
+bip_39_word_new_br9: tumble<br>hungry<br>boil<br>stomach<br>glance<br>fluid<br>under<br>inform<br>lizard
+bip_39_word_new_line1: tumble
+bip_39_word_new_line10: 'tumble
+
+  hungry
+
+  boil
+
+  stomach
+
+  glance
+
+  fluid
+
+  under
+
+  inform
+
+  lizard
+
+  differ'
+bip_39_word_new_line11: 'tumble
+
+  hungry
+
+  boil
+
+  stomach
+
+  glance
+
+  fluid
+
+  under
+
+  inform
+
+  lizard
+
+  differ
+
+  flee'
+bip_39_word_new_line12: 'tumble
+
+  hungry
+
+  boil
+
+  stomach
+
+  glance
+
+  fluid
+
+  under
+
+  inform
+
+  lizard
+
+  differ
+
+  flee
+
+  attitude'
+bip_39_word_new_line2: 'tumble
+
+  hungry'
+bip_39_word_new_line3: 'tumble
+
+  hungry
+
+  boil'
+bip_39_word_new_line4: 'tumble
+
+  hungry
+
+  boil
+
+  stomach'
+bip_39_word_new_line5: 'tumble
+
+  hungry
+
+  boil
+
+  stomach
+
+  glance'
+bip_39_word_new_line6: 'tumble
+
+  hungry
+
+  boil
+
+  stomach
+
+  glance
+
+  fluid'
+bip_39_word_new_line7: 'tumble
+
+  hungry
+
+  boil
+
+  stomach
+
+  glance
+
+  fluid
+
+  under'
+bip_39_word_new_line8: 'tumble
+
+  hungry
+
+  boil
+
+  stomach
+
+  glance
+
+  fluid
+
+  under
+
+  inform'
+bip_39_word_new_line9: 'tumble
+
+  hungry
+
+  boil
+
+  stomach
+
+  glance
+
+  fluid
+
+  under
+
+  inform
+
+  lizard'
+bip_39_word_space_0:
+- tumble
+- hungry
+- boil
+- stomach
+- glance
+- fluid
+- under
+- inform
+- lizard
+- differ
+- flee
+- attitude
+bip_39_word_space_1: tumble
+bip_39_word_space_10: tumble hungry boil stomach glance fluid under inform lizard
+  differ
+bip_39_word_space_11: tumble hungry boil stomach glance fluid under inform lizard
+  differ flee
+bip_39_word_space_12: tumble hungry boil stomach glance fluid under inform lizard
+  differ flee attitude
+bip_39_word_space_2: tumble hungry
+bip_39_word_space_3: tumble hungry boil
+bip_39_word_space_4: tumble hungry boil stomach
+bip_39_word_space_5: tumble hungry boil stomach glance
+bip_39_word_space_6: tumble hungry boil stomach glance fluid
+bip_39_word_space_7: tumble hungry boil stomach glance fluid under
+bip_39_word_space_8: tumble hungry boil stomach glance fluid under inform
+bip_39_word_space_9: tumble hungry boil stomach glance fluid under inform lizard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

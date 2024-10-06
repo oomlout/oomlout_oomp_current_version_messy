@@ -1,3 +1,186 @@
+bip_39_word_new_br1: another
+bip_39_word_new_br10: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion
+bip_39_word_new_br11: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion<br>release
+bip_39_word_new_br12: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf<br>fashion<br>release<br>artwork
+bip_39_word_new_br2: another<br>combine
+bip_39_word_new_br3: another<br>combine<br>marble
+bip_39_word_new_br4: another<br>combine<br>marble<br>obtain
+bip_39_word_new_br5: another<br>combine<br>marble<br>obtain<br>marble
+bip_39_word_new_br6: another<br>combine<br>marble<br>obtain<br>marble<br>drink
+bip_39_word_new_br7: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry
+bip_39_word_new_br8: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order
+bip_39_word_new_br9: another<br>combine<br>marble<br>obtain<br>marble<br>drink<br>cry<br>order<br>dwarf
+bip_39_word_new_line1: another
+bip_39_word_new_line10: 'another
+
+  combine
+
+  marble
+
+  obtain
+
+  marble
+
+  drink
+
+  cry
+
+  order
+
+  dwarf
+
+  fashion'
+bip_39_word_new_line11: 'another
+
+  combine
+
+  marble
+
+  obtain
+
+  marble
+
+  drink
+
+  cry
+
+  order
+
+  dwarf
+
+  fashion
+
+  release'
+bip_39_word_new_line12: 'another
+
+  combine
+
+  marble
+
+  obtain
+
+  marble
+
+  drink
+
+  cry
+
+  order
+
+  dwarf
+
+  fashion
+
+  release
+
+  artwork'
+bip_39_word_new_line2: 'another
+
+  combine'
+bip_39_word_new_line3: 'another
+
+  combine
+
+  marble'
+bip_39_word_new_line4: 'another
+
+  combine
+
+  marble
+
+  obtain'
+bip_39_word_new_line5: 'another
+
+  combine
+
+  marble
+
+  obtain
+
+  marble'
+bip_39_word_new_line6: 'another
+
+  combine
+
+  marble
+
+  obtain
+
+  marble
+
+  drink'
+bip_39_word_new_line7: 'another
+
+  combine
+
+  marble
+
+  obtain
+
+  marble
+
+  drink
+
+  cry'
+bip_39_word_new_line8: 'another
+
+  combine
+
+  marble
+
+  obtain
+
+  marble
+
+  drink
+
+  cry
+
+  order'
+bip_39_word_new_line9: 'another
+
+  combine
+
+  marble
+
+  obtain
+
+  marble
+
+  drink
+
+  cry
+
+  order
+
+  dwarf'
+bip_39_word_space_0:
+- another
+- combine
+- marble
+- obtain
+- marble
+- drink
+- cry
+- order
+- dwarf
+- fashion
+- release
+- artwork
+bip_39_word_space_1: another
+bip_39_word_space_10: another combine marble obtain marble drink cry order dwarf fashion
+bip_39_word_space_11: another combine marble obtain marble drink cry order dwarf fashion
+  release
+bip_39_word_space_12: another combine marble obtain marble drink cry order dwarf fashion
+  release artwork
+bip_39_word_space_2: another combine
+bip_39_word_space_3: another combine marble
+bip_39_word_space_4: another combine marble obtain
+bip_39_word_space_5: another combine marble obtain marble
+bip_39_word_space_6: another combine marble obtain marble drink
+bip_39_word_space_7: another combine marble obtain marble drink cry
+bip_39_word_space_8: another combine marble obtain marble drink cry order
+bip_39_word_space_9: another combine marble obtain marble drink cry order dwarf
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

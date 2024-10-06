@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dream
+bip_39_word_new_br10: dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature
+bip_39_word_new_br11: dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature<br>damp
+bip_39_word_new_br12: dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem<br>nature<br>damp<br>attract
+bip_39_word_new_br2: dream<br>craft
+bip_39_word_new_br3: dream<br>craft<br>coyote
+bip_39_word_new_br4: dream<br>craft<br>coyote<br>taste
+bip_39_word_new_br5: dream<br>craft<br>coyote<br>taste<br>clinic
+bip_39_word_new_br6: dream<br>craft<br>coyote<br>taste<br>clinic<br>theory
+bip_39_word_new_br7: dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history
+bip_39_word_new_br8: dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon
+bip_39_word_new_br9: dream<br>craft<br>coyote<br>taste<br>clinic<br>theory<br>history<br>upon<br>stem
+bip_39_word_new_line1: dream
+bip_39_word_new_line10: 'dream
+
+  craft
+
+  coyote
+
+  taste
+
+  clinic
+
+  theory
+
+  history
+
+  upon
+
+  stem
+
+  nature'
+bip_39_word_new_line11: 'dream
+
+  craft
+
+  coyote
+
+  taste
+
+  clinic
+
+  theory
+
+  history
+
+  upon
+
+  stem
+
+  nature
+
+  damp'
+bip_39_word_new_line12: 'dream
+
+  craft
+
+  coyote
+
+  taste
+
+  clinic
+
+  theory
+
+  history
+
+  upon
+
+  stem
+
+  nature
+
+  damp
+
+  attract'
+bip_39_word_new_line2: 'dream
+
+  craft'
+bip_39_word_new_line3: 'dream
+
+  craft
+
+  coyote'
+bip_39_word_new_line4: 'dream
+
+  craft
+
+  coyote
+
+  taste'
+bip_39_word_new_line5: 'dream
+
+  craft
+
+  coyote
+
+  taste
+
+  clinic'
+bip_39_word_new_line6: 'dream
+
+  craft
+
+  coyote
+
+  taste
+
+  clinic
+
+  theory'
+bip_39_word_new_line7: 'dream
+
+  craft
+
+  coyote
+
+  taste
+
+  clinic
+
+  theory
+
+  history'
+bip_39_word_new_line8: 'dream
+
+  craft
+
+  coyote
+
+  taste
+
+  clinic
+
+  theory
+
+  history
+
+  upon'
+bip_39_word_new_line9: 'dream
+
+  craft
+
+  coyote
+
+  taste
+
+  clinic
+
+  theory
+
+  history
+
+  upon
+
+  stem'
+bip_39_word_space_0:
+- dream
+- craft
+- coyote
+- taste
+- clinic
+- theory
+- history
+- upon
+- stem
+- nature
+- damp
+- attract
+bip_39_word_space_1: dream
+bip_39_word_space_10: dream craft coyote taste clinic theory history upon stem nature
+bip_39_word_space_11: dream craft coyote taste clinic theory history upon stem nature
+  damp
+bip_39_word_space_12: dream craft coyote taste clinic theory history upon stem nature
+  damp attract
+bip_39_word_space_2: dream craft
+bip_39_word_space_3: dream craft coyote
+bip_39_word_space_4: dream craft coyote taste
+bip_39_word_space_5: dream craft coyote taste clinic
+bip_39_word_space_6: dream craft coyote taste clinic theory
+bip_39_word_space_7: dream craft coyote taste clinic theory history
+bip_39_word_space_8: dream craft coyote taste clinic theory history upon
+bip_39_word_space_9: dream craft coyote taste clinic theory history upon stem
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

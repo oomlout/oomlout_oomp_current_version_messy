@@ -1,3 +1,186 @@
+bip_39_word_new_br1: swap
+bip_39_word_new_br10: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid<br>genius<br>cannon<br>still<br>poem
+bip_39_word_new_br11: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid<br>genius<br>cannon<br>still<br>poem<br>master
+bip_39_word_new_br12: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid<br>genius<br>cannon<br>still<br>poem<br>master<br>analyst
+bip_39_word_new_br2: swap<br>cancel
+bip_39_word_new_br3: swap<br>cancel<br>answer
+bip_39_word_new_br4: swap<br>cancel<br>answer<br>unfold
+bip_39_word_new_br5: swap<br>cancel<br>answer<br>unfold<br>raise
+bip_39_word_new_br6: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid
+bip_39_word_new_br7: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid<br>genius
+bip_39_word_new_br8: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid<br>genius<br>cannon
+bip_39_word_new_br9: swap<br>cancel<br>answer<br>unfold<br>raise<br>rapid<br>genius<br>cannon<br>still
+bip_39_word_new_line1: swap
+bip_39_word_new_line10: 'swap
+
+  cancel
+
+  answer
+
+  unfold
+
+  raise
+
+  rapid
+
+  genius
+
+  cannon
+
+  still
+
+  poem'
+bip_39_word_new_line11: 'swap
+
+  cancel
+
+  answer
+
+  unfold
+
+  raise
+
+  rapid
+
+  genius
+
+  cannon
+
+  still
+
+  poem
+
+  master'
+bip_39_word_new_line12: 'swap
+
+  cancel
+
+  answer
+
+  unfold
+
+  raise
+
+  rapid
+
+  genius
+
+  cannon
+
+  still
+
+  poem
+
+  master
+
+  analyst'
+bip_39_word_new_line2: 'swap
+
+  cancel'
+bip_39_word_new_line3: 'swap
+
+  cancel
+
+  answer'
+bip_39_word_new_line4: 'swap
+
+  cancel
+
+  answer
+
+  unfold'
+bip_39_word_new_line5: 'swap
+
+  cancel
+
+  answer
+
+  unfold
+
+  raise'
+bip_39_word_new_line6: 'swap
+
+  cancel
+
+  answer
+
+  unfold
+
+  raise
+
+  rapid'
+bip_39_word_new_line7: 'swap
+
+  cancel
+
+  answer
+
+  unfold
+
+  raise
+
+  rapid
+
+  genius'
+bip_39_word_new_line8: 'swap
+
+  cancel
+
+  answer
+
+  unfold
+
+  raise
+
+  rapid
+
+  genius
+
+  cannon'
+bip_39_word_new_line9: 'swap
+
+  cancel
+
+  answer
+
+  unfold
+
+  raise
+
+  rapid
+
+  genius
+
+  cannon
+
+  still'
+bip_39_word_space_0:
+- swap
+- cancel
+- answer
+- unfold
+- raise
+- rapid
+- genius
+- cannon
+- still
+- poem
+- master
+- analyst
+bip_39_word_space_1: swap
+bip_39_word_space_10: swap cancel answer unfold raise rapid genius cannon still poem
+bip_39_word_space_11: swap cancel answer unfold raise rapid genius cannon still poem
+  master
+bip_39_word_space_12: swap cancel answer unfold raise rapid genius cannon still poem
+  master analyst
+bip_39_word_space_2: swap cancel
+bip_39_word_space_3: swap cancel answer
+bip_39_word_space_4: swap cancel answer unfold
+bip_39_word_space_5: swap cancel answer unfold raise
+bip_39_word_space_6: swap cancel answer unfold raise rapid
+bip_39_word_space_7: swap cancel answer unfold raise rapid genius
+bip_39_word_space_8: swap cancel answer unfold raise rapid genius cannon
+bip_39_word_space_9: swap cancel answer unfold raise rapid genius cannon still
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

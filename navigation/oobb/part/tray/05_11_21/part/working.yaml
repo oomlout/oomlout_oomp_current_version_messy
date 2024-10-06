@@ -1,3 +1,185 @@
+bip_39_word_new_br1: put
+bip_39_word_new_br10: put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip
+bip_39_word_new_br11: put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip<br>alter
+bip_39_word_new_br12: put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy<br>hip<br>alter<br>arch
+bip_39_word_new_br2: put<br>item
+bip_39_word_new_br3: put<br>item<br>away
+bip_39_word_new_br4: put<br>item<br>away<br>depart
+bip_39_word_new_br5: put<br>item<br>away<br>depart<br>install
+bip_39_word_new_br6: put<br>item<br>away<br>depart<br>install<br>cable
+bip_39_word_new_br7: put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol
+bip_39_word_new_br8: put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind
+bip_39_word_new_br9: put<br>item<br>away<br>depart<br>install<br>cable<br>alcohol<br>blind<br>lazy
+bip_39_word_new_line1: put
+bip_39_word_new_line10: 'put
+
+  item
+
+  away
+
+  depart
+
+  install
+
+  cable
+
+  alcohol
+
+  blind
+
+  lazy
+
+  hip'
+bip_39_word_new_line11: 'put
+
+  item
+
+  away
+
+  depart
+
+  install
+
+  cable
+
+  alcohol
+
+  blind
+
+  lazy
+
+  hip
+
+  alter'
+bip_39_word_new_line12: 'put
+
+  item
+
+  away
+
+  depart
+
+  install
+
+  cable
+
+  alcohol
+
+  blind
+
+  lazy
+
+  hip
+
+  alter
+
+  arch'
+bip_39_word_new_line2: 'put
+
+  item'
+bip_39_word_new_line3: 'put
+
+  item
+
+  away'
+bip_39_word_new_line4: 'put
+
+  item
+
+  away
+
+  depart'
+bip_39_word_new_line5: 'put
+
+  item
+
+  away
+
+  depart
+
+  install'
+bip_39_word_new_line6: 'put
+
+  item
+
+  away
+
+  depart
+
+  install
+
+  cable'
+bip_39_word_new_line7: 'put
+
+  item
+
+  away
+
+  depart
+
+  install
+
+  cable
+
+  alcohol'
+bip_39_word_new_line8: 'put
+
+  item
+
+  away
+
+  depart
+
+  install
+
+  cable
+
+  alcohol
+
+  blind'
+bip_39_word_new_line9: 'put
+
+  item
+
+  away
+
+  depart
+
+  install
+
+  cable
+
+  alcohol
+
+  blind
+
+  lazy'
+bip_39_word_space_0:
+- put
+- item
+- away
+- depart
+- install
+- cable
+- alcohol
+- blind
+- lazy
+- hip
+- alter
+- arch
+bip_39_word_space_1: put
+bip_39_word_space_10: put item away depart install cable alcohol blind lazy hip
+bip_39_word_space_11: put item away depart install cable alcohol blind lazy hip alter
+bip_39_word_space_12: put item away depart install cable alcohol blind lazy hip alter
+  arch
+bip_39_word_space_2: put item
+bip_39_word_space_3: put item away
+bip_39_word_space_4: put item away depart
+bip_39_word_space_5: put item away depart install
+bip_39_word_space_6: put item away depart install cable
+bip_39_word_space_7: put item away depart install cable alcohol
+bip_39_word_space_8: put item away depart install cable alcohol blind
+bip_39_word_space_9: put item away depart install cable alcohol blind lazy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

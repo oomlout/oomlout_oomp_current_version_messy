@@ -1,3 +1,186 @@
+bip_39_word_new_br1: grief
+bip_39_word_new_br10: grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue
+bip_39_word_new_br11: grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue<br>hidden
+bip_39_word_new_br12: grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close<br>fatigue<br>hidden<br>anxiety
+bip_39_word_new_br2: grief<br>cloud
+bip_39_word_new_br3: grief<br>cloud<br>waste
+bip_39_word_new_br4: grief<br>cloud<br>waste<br>learn
+bip_39_word_new_br5: grief<br>cloud<br>waste<br>learn<br>wide
+bip_39_word_new_br6: grief<br>cloud<br>waste<br>learn<br>wide<br>ankle
+bip_39_word_new_br7: grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife
+bip_39_word_new_br8: grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game
+bip_39_word_new_br9: grief<br>cloud<br>waste<br>learn<br>wide<br>ankle<br>knife<br>game<br>close
+bip_39_word_new_line1: grief
+bip_39_word_new_line10: 'grief
+
+  cloud
+
+  waste
+
+  learn
+
+  wide
+
+  ankle
+
+  knife
+
+  game
+
+  close
+
+  fatigue'
+bip_39_word_new_line11: 'grief
+
+  cloud
+
+  waste
+
+  learn
+
+  wide
+
+  ankle
+
+  knife
+
+  game
+
+  close
+
+  fatigue
+
+  hidden'
+bip_39_word_new_line12: 'grief
+
+  cloud
+
+  waste
+
+  learn
+
+  wide
+
+  ankle
+
+  knife
+
+  game
+
+  close
+
+  fatigue
+
+  hidden
+
+  anxiety'
+bip_39_word_new_line2: 'grief
+
+  cloud'
+bip_39_word_new_line3: 'grief
+
+  cloud
+
+  waste'
+bip_39_word_new_line4: 'grief
+
+  cloud
+
+  waste
+
+  learn'
+bip_39_word_new_line5: 'grief
+
+  cloud
+
+  waste
+
+  learn
+
+  wide'
+bip_39_word_new_line6: 'grief
+
+  cloud
+
+  waste
+
+  learn
+
+  wide
+
+  ankle'
+bip_39_word_new_line7: 'grief
+
+  cloud
+
+  waste
+
+  learn
+
+  wide
+
+  ankle
+
+  knife'
+bip_39_word_new_line8: 'grief
+
+  cloud
+
+  waste
+
+  learn
+
+  wide
+
+  ankle
+
+  knife
+
+  game'
+bip_39_word_new_line9: 'grief
+
+  cloud
+
+  waste
+
+  learn
+
+  wide
+
+  ankle
+
+  knife
+
+  game
+
+  close'
+bip_39_word_space_0:
+- grief
+- cloud
+- waste
+- learn
+- wide
+- ankle
+- knife
+- game
+- close
+- fatigue
+- hidden
+- anxiety
+bip_39_word_space_1: grief
+bip_39_word_space_10: grief cloud waste learn wide ankle knife game close fatigue
+bip_39_word_space_11: grief cloud waste learn wide ankle knife game close fatigue
+  hidden
+bip_39_word_space_12: grief cloud waste learn wide ankle knife game close fatigue
+  hidden anxiety
+bip_39_word_space_2: grief cloud
+bip_39_word_space_3: grief cloud waste
+bip_39_word_space_4: grief cloud waste learn
+bip_39_word_space_5: grief cloud waste learn wide
+bip_39_word_space_6: grief cloud waste learn wide ankle
+bip_39_word_space_7: grief cloud waste learn wide ankle knife
+bip_39_word_space_8: grief cloud waste learn wide ankle knife game
+bip_39_word_space_9: grief cloud waste learn wide ankle knife game close
 classification: paper
 classification_capital: Paper
 classification_first_letter: p

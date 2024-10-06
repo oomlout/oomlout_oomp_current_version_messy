@@ -1,3 +1,186 @@
+bip_39_word_new_br1: soccer
+bip_39_word_new_br10: soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison
+bip_39_word_new_br11: soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison<br>want
+bip_39_word_new_br12: soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken<br>prison<br>want<br>arrest
+bip_39_word_new_br2: soccer<br>tobacco
+bip_39_word_new_br3: soccer<br>tobacco<br>monkey
+bip_39_word_new_br4: soccer<br>tobacco<br>monkey<br>mango
+bip_39_word_new_br5: soccer<br>tobacco<br>monkey<br>mango<br>delay
+bip_39_word_new_br6: soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide
+bip_39_word_new_br7: soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose
+bip_39_word_new_br8: soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond
+bip_39_word_new_br9: soccer<br>tobacco<br>monkey<br>mango<br>delay<br>tide<br>nose<br>pond<br>chicken
+bip_39_word_new_line1: soccer
+bip_39_word_new_line10: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango
+
+  delay
+
+  tide
+
+  nose
+
+  pond
+
+  chicken
+
+  prison'
+bip_39_word_new_line11: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango
+
+  delay
+
+  tide
+
+  nose
+
+  pond
+
+  chicken
+
+  prison
+
+  want'
+bip_39_word_new_line12: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango
+
+  delay
+
+  tide
+
+  nose
+
+  pond
+
+  chicken
+
+  prison
+
+  want
+
+  arrest'
+bip_39_word_new_line2: 'soccer
+
+  tobacco'
+bip_39_word_new_line3: 'soccer
+
+  tobacco
+
+  monkey'
+bip_39_word_new_line4: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango'
+bip_39_word_new_line5: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango
+
+  delay'
+bip_39_word_new_line6: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango
+
+  delay
+
+  tide'
+bip_39_word_new_line7: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango
+
+  delay
+
+  tide
+
+  nose'
+bip_39_word_new_line8: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango
+
+  delay
+
+  tide
+
+  nose
+
+  pond'
+bip_39_word_new_line9: 'soccer
+
+  tobacco
+
+  monkey
+
+  mango
+
+  delay
+
+  tide
+
+  nose
+
+  pond
+
+  chicken'
+bip_39_word_space_0:
+- soccer
+- tobacco
+- monkey
+- mango
+- delay
+- tide
+- nose
+- pond
+- chicken
+- prison
+- want
+- arrest
+bip_39_word_space_1: soccer
+bip_39_word_space_10: soccer tobacco monkey mango delay tide nose pond chicken prison
+bip_39_word_space_11: soccer tobacco monkey mango delay tide nose pond chicken prison
+  want
+bip_39_word_space_12: soccer tobacco monkey mango delay tide nose pond chicken prison
+  want arrest
+bip_39_word_space_2: soccer tobacco
+bip_39_word_space_3: soccer tobacco monkey
+bip_39_word_space_4: soccer tobacco monkey mango
+bip_39_word_space_5: soccer tobacco monkey mango delay
+bip_39_word_space_6: soccer tobacco monkey mango delay tide
+bip_39_word_space_7: soccer tobacco monkey mango delay tide nose
+bip_39_word_space_8: soccer tobacco monkey mango delay tide nose pond
+bip_39_word_space_9: soccer tobacco monkey mango delay tide nose pond chicken
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

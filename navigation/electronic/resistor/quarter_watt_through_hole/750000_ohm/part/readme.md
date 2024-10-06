@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deputy tilt
+  * bip 39 word 3: deputy tilt situate
+  * bip 39 word: deputy tilt situate lonely inmate lab hawk rhythm depart turn claim aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deputy |  
+| bip_39_word_new_br10 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab<br>hawk<br>rhythm<br>depart<br>turn |  
+| bip_39_word_new_br11 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab<br>hawk<br>rhythm<br>depart<br>turn<br>claim |  
+| bip_39_word_new_br12 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab<br>hawk<br>rhythm<br>depart<br>turn<br>claim<br>aerobic |  
+| bip_39_word_new_br2 | deputy<br>tilt |  
+| bip_39_word_new_br3 | deputy<br>tilt<br>situate |  
+| bip_39_word_new_br4 | deputy<br>tilt<br>situate<br>lonely |  
+| bip_39_word_new_br5 | deputy<br>tilt<br>situate<br>lonely<br>inmate |  
+| bip_39_word_new_br6 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab |  
+| bip_39_word_new_br7 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab<br>hawk |  
+| bip_39_word_new_br8 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab<br>hawk<br>rhythm |  
+| bip_39_word_new_br9 | deputy<br>tilt<br>situate<br>lonely<br>inmate<br>lab<br>hawk<br>rhythm<br>depart |  
+| bip_39_word_new_line1 | deputy |  
+| bip_39_word_new_line10 | deputy
+tilt
+situate
+lonely
+inmate
+lab
+hawk
+rhythm
+depart
+turn |  
+| bip_39_word_new_line11 | deputy
+tilt
+situate
+lonely
+inmate
+lab
+hawk
+rhythm
+depart
+turn
+claim |  
+| bip_39_word_new_line12 | deputy
+tilt
+situate
+lonely
+inmate
+lab
+hawk
+rhythm
+depart
+turn
+claim
+aerobic |  
+| bip_39_word_new_line2 | deputy
+tilt |  
+| bip_39_word_new_line3 | deputy
+tilt
+situate |  
+| bip_39_word_new_line4 | deputy
+tilt
+situate
+lonely |  
+| bip_39_word_new_line5 | deputy
+tilt
+situate
+lonely
+inmate |  
+| bip_39_word_new_line6 | deputy
+tilt
+situate
+lonely
+inmate
+lab |  
+| bip_39_word_new_line7 | deputy
+tilt
+situate
+lonely
+inmate
+lab
+hawk |  
+| bip_39_word_new_line8 | deputy
+tilt
+situate
+lonely
+inmate
+lab
+hawk
+rhythm |  
+| bip_39_word_new_line9 | deputy
+tilt
+situate
+lonely
+inmate
+lab
+hawk
+rhythm
+depart |  
+| bip_39_word_space_0 | ['deputy', 'tilt', 'situate', 'lonely', 'inmate', 'lab', 'hawk', 'rhythm', 'depart', 'turn', 'claim', 'aerobic'] |  
+| bip_39_word_space_1 | deputy |  
+| bip_39_word_space_10 | deputy tilt situate lonely inmate lab hawk rhythm depart turn |  
+| bip_39_word_space_11 | deputy tilt situate lonely inmate lab hawk rhythm depart turn claim |  
+| bip_39_word_space_12 | deputy tilt situate lonely inmate lab hawk rhythm depart turn claim aerobic |  
+| bip_39_word_space_2 | deputy tilt |  
+| bip_39_word_space_3 | deputy tilt situate |  
+| bip_39_word_space_4 | deputy tilt situate lonely |  
+| bip_39_word_space_5 | deputy tilt situate lonely inmate |  
+| bip_39_word_space_6 | deputy tilt situate lonely inmate lab |  
+| bip_39_word_space_7 | deputy tilt situate lonely inmate lab hawk |  
+| bip_39_word_space_8 | deputy tilt situate lonely inmate lab hawk rhythm |  
+| bip_39_word_space_9 | deputy tilt situate lonely inmate lab hawk rhythm depart |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

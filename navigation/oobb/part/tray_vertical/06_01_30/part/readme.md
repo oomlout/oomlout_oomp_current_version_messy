@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: acoustic garden
+  * bip 39 word 3: acoustic garden violin
+  * bip 39 word: acoustic garden violin test sleep upgrade wall slush govern chest throw angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | acoustic |  
+| bip_39_word_new_br10 | acoustic<br>garden<br>violin<br>test<br>sleep<br>upgrade<br>wall<br>slush<br>govern<br>chest |  
+| bip_39_word_new_br11 | acoustic<br>garden<br>violin<br>test<br>sleep<br>upgrade<br>wall<br>slush<br>govern<br>chest<br>throw |  
+| bip_39_word_new_br12 | acoustic<br>garden<br>violin<br>test<br>sleep<br>upgrade<br>wall<br>slush<br>govern<br>chest<br>throw<br>angry |  
+| bip_39_word_new_br2 | acoustic<br>garden |  
+| bip_39_word_new_br3 | acoustic<br>garden<br>violin |  
+| bip_39_word_new_br4 | acoustic<br>garden<br>violin<br>test |  
+| bip_39_word_new_br5 | acoustic<br>garden<br>violin<br>test<br>sleep |  
+| bip_39_word_new_br6 | acoustic<br>garden<br>violin<br>test<br>sleep<br>upgrade |  
+| bip_39_word_new_br7 | acoustic<br>garden<br>violin<br>test<br>sleep<br>upgrade<br>wall |  
+| bip_39_word_new_br8 | acoustic<br>garden<br>violin<br>test<br>sleep<br>upgrade<br>wall<br>slush |  
+| bip_39_word_new_br9 | acoustic<br>garden<br>violin<br>test<br>sleep<br>upgrade<br>wall<br>slush<br>govern |  
+| bip_39_word_new_line1 | acoustic |  
+| bip_39_word_new_line10 | acoustic
+garden
+violin
+test
+sleep
+upgrade
+wall
+slush
+govern
+chest |  
+| bip_39_word_new_line11 | acoustic
+garden
+violin
+test
+sleep
+upgrade
+wall
+slush
+govern
+chest
+throw |  
+| bip_39_word_new_line12 | acoustic
+garden
+violin
+test
+sleep
+upgrade
+wall
+slush
+govern
+chest
+throw
+angry |  
+| bip_39_word_new_line2 | acoustic
+garden |  
+| bip_39_word_new_line3 | acoustic
+garden
+violin |  
+| bip_39_word_new_line4 | acoustic
+garden
+violin
+test |  
+| bip_39_word_new_line5 | acoustic
+garden
+violin
+test
+sleep |  
+| bip_39_word_new_line6 | acoustic
+garden
+violin
+test
+sleep
+upgrade |  
+| bip_39_word_new_line7 | acoustic
+garden
+violin
+test
+sleep
+upgrade
+wall |  
+| bip_39_word_new_line8 | acoustic
+garden
+violin
+test
+sleep
+upgrade
+wall
+slush |  
+| bip_39_word_new_line9 | acoustic
+garden
+violin
+test
+sleep
+upgrade
+wall
+slush
+govern |  
+| bip_39_word_space_0 | ['acoustic', 'garden', 'violin', 'test', 'sleep', 'upgrade', 'wall', 'slush', 'govern', 'chest', 'throw', 'angry'] |  
+| bip_39_word_space_1 | acoustic |  
+| bip_39_word_space_10 | acoustic garden violin test sleep upgrade wall slush govern chest |  
+| bip_39_word_space_11 | acoustic garden violin test sleep upgrade wall slush govern chest throw |  
+| bip_39_word_space_12 | acoustic garden violin test sleep upgrade wall slush govern chest throw angry |  
+| bip_39_word_space_2 | acoustic garden |  
+| bip_39_word_space_3 | acoustic garden violin |  
+| bip_39_word_space_4 | acoustic garden violin test |  
+| bip_39_word_space_5 | acoustic garden violin test sleep |  
+| bip_39_word_space_6 | acoustic garden violin test sleep upgrade |  
+| bip_39_word_space_7 | acoustic garden violin test sleep upgrade wall |  
+| bip_39_word_space_8 | acoustic garden violin test sleep upgrade wall slush |  
+| bip_39_word_space_9 | acoustic garden violin test sleep upgrade wall slush govern |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: student
+bip_39_word_new_br10: student<br>market<br>inherit<br>ship<br>bounce<br>aware<br>place<br>fox<br>coffee<br>rebuild
+bip_39_word_new_br11: student<br>market<br>inherit<br>ship<br>bounce<br>aware<br>place<br>fox<br>coffee<br>rebuild<br>anchor
+bip_39_word_new_br12: student<br>market<br>inherit<br>ship<br>bounce<br>aware<br>place<br>fox<br>coffee<br>rebuild<br>anchor<br>amount
+bip_39_word_new_br2: student<br>market
+bip_39_word_new_br3: student<br>market<br>inherit
+bip_39_word_new_br4: student<br>market<br>inherit<br>ship
+bip_39_word_new_br5: student<br>market<br>inherit<br>ship<br>bounce
+bip_39_word_new_br6: student<br>market<br>inherit<br>ship<br>bounce<br>aware
+bip_39_word_new_br7: student<br>market<br>inherit<br>ship<br>bounce<br>aware<br>place
+bip_39_word_new_br8: student<br>market<br>inherit<br>ship<br>bounce<br>aware<br>place<br>fox
+bip_39_word_new_br9: student<br>market<br>inherit<br>ship<br>bounce<br>aware<br>place<br>fox<br>coffee
+bip_39_word_new_line1: student
+bip_39_word_new_line10: 'student
+
+  market
+
+  inherit
+
+  ship
+
+  bounce
+
+  aware
+
+  place
+
+  fox
+
+  coffee
+
+  rebuild'
+bip_39_word_new_line11: 'student
+
+  market
+
+  inherit
+
+  ship
+
+  bounce
+
+  aware
+
+  place
+
+  fox
+
+  coffee
+
+  rebuild
+
+  anchor'
+bip_39_word_new_line12: 'student
+
+  market
+
+  inherit
+
+  ship
+
+  bounce
+
+  aware
+
+  place
+
+  fox
+
+  coffee
+
+  rebuild
+
+  anchor
+
+  amount'
+bip_39_word_new_line2: 'student
+
+  market'
+bip_39_word_new_line3: 'student
+
+  market
+
+  inherit'
+bip_39_word_new_line4: 'student
+
+  market
+
+  inherit
+
+  ship'
+bip_39_word_new_line5: 'student
+
+  market
+
+  inherit
+
+  ship
+
+  bounce'
+bip_39_word_new_line6: 'student
+
+  market
+
+  inherit
+
+  ship
+
+  bounce
+
+  aware'
+bip_39_word_new_line7: 'student
+
+  market
+
+  inherit
+
+  ship
+
+  bounce
+
+  aware
+
+  place'
+bip_39_word_new_line8: 'student
+
+  market
+
+  inherit
+
+  ship
+
+  bounce
+
+  aware
+
+  place
+
+  fox'
+bip_39_word_new_line9: 'student
+
+  market
+
+  inherit
+
+  ship
+
+  bounce
+
+  aware
+
+  place
+
+  fox
+
+  coffee'
+bip_39_word_space_0:
+- student
+- market
+- inherit
+- ship
+- bounce
+- aware
+- place
+- fox
+- coffee
+- rebuild
+- anchor
+- amount
+bip_39_word_space_1: student
+bip_39_word_space_10: student market inherit ship bounce aware place fox coffee rebuild
+bip_39_word_space_11: student market inherit ship bounce aware place fox coffee rebuild
+  anchor
+bip_39_word_space_12: student market inherit ship bounce aware place fox coffee rebuild
+  anchor amount
+bip_39_word_space_2: student market
+bip_39_word_space_3: student market inherit
+bip_39_word_space_4: student market inherit ship
+bip_39_word_space_5: student market inherit ship bounce
+bip_39_word_space_6: student market inherit ship bounce aware
+bip_39_word_space_7: student market inherit ship bounce aware place
+bip_39_word_space_8: student market inherit ship bounce aware place fox
+bip_39_word_space_9: student market inherit ship bounce aware place fox coffee
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: claim
+bip_39_word_new_br10: claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone
+bip_39_word_new_br11: claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone<br>business
+bip_39_word_new_br12: claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon<br>zone<br>business<br>argue
+bip_39_word_new_br2: claim<br>motor
+bip_39_word_new_br3: claim<br>motor<br>bike
+bip_39_word_new_br4: claim<br>motor<br>bike<br>anger
+bip_39_word_new_br5: claim<br>motor<br>bike<br>anger<br>much
+bip_39_word_new_br6: claim<br>motor<br>bike<br>anger<br>much<br>fiber
+bip_39_word_new_br7: claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery
+bip_39_word_new_br8: claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn
+bip_39_word_new_br9: claim<br>motor<br>bike<br>anger<br>much<br>fiber<br>grocery<br>turn<br>carbon
+bip_39_word_new_line1: claim
+bip_39_word_new_line10: 'claim
+
+  motor
+
+  bike
+
+  anger
+
+  much
+
+  fiber
+
+  grocery
+
+  turn
+
+  carbon
+
+  zone'
+bip_39_word_new_line11: 'claim
+
+  motor
+
+  bike
+
+  anger
+
+  much
+
+  fiber
+
+  grocery
+
+  turn
+
+  carbon
+
+  zone
+
+  business'
+bip_39_word_new_line12: 'claim
+
+  motor
+
+  bike
+
+  anger
+
+  much
+
+  fiber
+
+  grocery
+
+  turn
+
+  carbon
+
+  zone
+
+  business
+
+  argue'
+bip_39_word_new_line2: 'claim
+
+  motor'
+bip_39_word_new_line3: 'claim
+
+  motor
+
+  bike'
+bip_39_word_new_line4: 'claim
+
+  motor
+
+  bike
+
+  anger'
+bip_39_word_new_line5: 'claim
+
+  motor
+
+  bike
+
+  anger
+
+  much'
+bip_39_word_new_line6: 'claim
+
+  motor
+
+  bike
+
+  anger
+
+  much
+
+  fiber'
+bip_39_word_new_line7: 'claim
+
+  motor
+
+  bike
+
+  anger
+
+  much
+
+  fiber
+
+  grocery'
+bip_39_word_new_line8: 'claim
+
+  motor
+
+  bike
+
+  anger
+
+  much
+
+  fiber
+
+  grocery
+
+  turn'
+bip_39_word_new_line9: 'claim
+
+  motor
+
+  bike
+
+  anger
+
+  much
+
+  fiber
+
+  grocery
+
+  turn
+
+  carbon'
+bip_39_word_space_0:
+- claim
+- motor
+- bike
+- anger
+- much
+- fiber
+- grocery
+- turn
+- carbon
+- zone
+- business
+- argue
+bip_39_word_space_1: claim
+bip_39_word_space_10: claim motor bike anger much fiber grocery turn carbon zone
+bip_39_word_space_11: claim motor bike anger much fiber grocery turn carbon zone business
+bip_39_word_space_12: claim motor bike anger much fiber grocery turn carbon zone business
+  argue
+bip_39_word_space_2: claim motor
+bip_39_word_space_3: claim motor bike
+bip_39_word_space_4: claim motor bike anger
+bip_39_word_space_5: claim motor bike anger much
+bip_39_word_space_6: claim motor bike anger much fiber
+bip_39_word_space_7: claim motor bike anger much fiber grocery
+bip_39_word_space_8: claim motor bike anger much fiber grocery turn
+bip_39_word_space_9: claim motor bike anger much fiber grocery turn carbon
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

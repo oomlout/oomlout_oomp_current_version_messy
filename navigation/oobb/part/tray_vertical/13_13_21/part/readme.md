@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monkey drill
+  * bip 39 word 3: monkey drill sketch
+  * bip 39 word: monkey drill sketch surprise junior brother middle mixture lonely edge seat advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monkey |  
+| bip_39_word_new_br10 | monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother<br>middle<br>mixture<br>lonely<br>edge |  
+| bip_39_word_new_br11 | monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother<br>middle<br>mixture<br>lonely<br>edge<br>seat |  
+| bip_39_word_new_br12 | monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother<br>middle<br>mixture<br>lonely<br>edge<br>seat<br>advice |  
+| bip_39_word_new_br2 | monkey<br>drill |  
+| bip_39_word_new_br3 | monkey<br>drill<br>sketch |  
+| bip_39_word_new_br4 | monkey<br>drill<br>sketch<br>surprise |  
+| bip_39_word_new_br5 | monkey<br>drill<br>sketch<br>surprise<br>junior |  
+| bip_39_word_new_br6 | monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother |  
+| bip_39_word_new_br7 | monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother<br>middle |  
+| bip_39_word_new_br8 | monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother<br>middle<br>mixture |  
+| bip_39_word_new_br9 | monkey<br>drill<br>sketch<br>surprise<br>junior<br>brother<br>middle<br>mixture<br>lonely |  
+| bip_39_word_new_line1 | monkey |  
+| bip_39_word_new_line10 | monkey
+drill
+sketch
+surprise
+junior
+brother
+middle
+mixture
+lonely
+edge |  
+| bip_39_word_new_line11 | monkey
+drill
+sketch
+surprise
+junior
+brother
+middle
+mixture
+lonely
+edge
+seat |  
+| bip_39_word_new_line12 | monkey
+drill
+sketch
+surprise
+junior
+brother
+middle
+mixture
+lonely
+edge
+seat
+advice |  
+| bip_39_word_new_line2 | monkey
+drill |  
+| bip_39_word_new_line3 | monkey
+drill
+sketch |  
+| bip_39_word_new_line4 | monkey
+drill
+sketch
+surprise |  
+| bip_39_word_new_line5 | monkey
+drill
+sketch
+surprise
+junior |  
+| bip_39_word_new_line6 | monkey
+drill
+sketch
+surprise
+junior
+brother |  
+| bip_39_word_new_line7 | monkey
+drill
+sketch
+surprise
+junior
+brother
+middle |  
+| bip_39_word_new_line8 | monkey
+drill
+sketch
+surprise
+junior
+brother
+middle
+mixture |  
+| bip_39_word_new_line9 | monkey
+drill
+sketch
+surprise
+junior
+brother
+middle
+mixture
+lonely |  
+| bip_39_word_space_0 | ['monkey', 'drill', 'sketch', 'surprise', 'junior', 'brother', 'middle', 'mixture', 'lonely', 'edge', 'seat', 'advice'] |  
+| bip_39_word_space_1 | monkey |  
+| bip_39_word_space_10 | monkey drill sketch surprise junior brother middle mixture lonely edge |  
+| bip_39_word_space_11 | monkey drill sketch surprise junior brother middle mixture lonely edge seat |  
+| bip_39_word_space_12 | monkey drill sketch surprise junior brother middle mixture lonely edge seat advice |  
+| bip_39_word_space_2 | monkey drill |  
+| bip_39_word_space_3 | monkey drill sketch |  
+| bip_39_word_space_4 | monkey drill sketch surprise |  
+| bip_39_word_space_5 | monkey drill sketch surprise junior |  
+| bip_39_word_space_6 | monkey drill sketch surprise junior brother |  
+| bip_39_word_space_7 | monkey drill sketch surprise junior brother middle |  
+| bip_39_word_space_8 | monkey drill sketch surprise junior brother middle mixture |  
+| bip_39_word_space_9 | monkey drill sketch surprise junior brother middle mixture lonely |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

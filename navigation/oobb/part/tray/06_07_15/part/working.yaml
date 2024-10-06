@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tonight
+bip_39_word_new_br10: tonight<br>gauge<br>behave<br>tumble<br>inform<br>run<br>fruit<br>used<br>copy<br>meadow
+bip_39_word_new_br11: tonight<br>gauge<br>behave<br>tumble<br>inform<br>run<br>fruit<br>used<br>copy<br>meadow<br>analyst
+bip_39_word_new_br12: tonight<br>gauge<br>behave<br>tumble<br>inform<br>run<br>fruit<br>used<br>copy<br>meadow<br>analyst<br>agent
+bip_39_word_new_br2: tonight<br>gauge
+bip_39_word_new_br3: tonight<br>gauge<br>behave
+bip_39_word_new_br4: tonight<br>gauge<br>behave<br>tumble
+bip_39_word_new_br5: tonight<br>gauge<br>behave<br>tumble<br>inform
+bip_39_word_new_br6: tonight<br>gauge<br>behave<br>tumble<br>inform<br>run
+bip_39_word_new_br7: tonight<br>gauge<br>behave<br>tumble<br>inform<br>run<br>fruit
+bip_39_word_new_br8: tonight<br>gauge<br>behave<br>tumble<br>inform<br>run<br>fruit<br>used
+bip_39_word_new_br9: tonight<br>gauge<br>behave<br>tumble<br>inform<br>run<br>fruit<br>used<br>copy
+bip_39_word_new_line1: tonight
+bip_39_word_new_line10: 'tonight
+
+  gauge
+
+  behave
+
+  tumble
+
+  inform
+
+  run
+
+  fruit
+
+  used
+
+  copy
+
+  meadow'
+bip_39_word_new_line11: 'tonight
+
+  gauge
+
+  behave
+
+  tumble
+
+  inform
+
+  run
+
+  fruit
+
+  used
+
+  copy
+
+  meadow
+
+  analyst'
+bip_39_word_new_line12: 'tonight
+
+  gauge
+
+  behave
+
+  tumble
+
+  inform
+
+  run
+
+  fruit
+
+  used
+
+  copy
+
+  meadow
+
+  analyst
+
+  agent'
+bip_39_word_new_line2: 'tonight
+
+  gauge'
+bip_39_word_new_line3: 'tonight
+
+  gauge
+
+  behave'
+bip_39_word_new_line4: 'tonight
+
+  gauge
+
+  behave
+
+  tumble'
+bip_39_word_new_line5: 'tonight
+
+  gauge
+
+  behave
+
+  tumble
+
+  inform'
+bip_39_word_new_line6: 'tonight
+
+  gauge
+
+  behave
+
+  tumble
+
+  inform
+
+  run'
+bip_39_word_new_line7: 'tonight
+
+  gauge
+
+  behave
+
+  tumble
+
+  inform
+
+  run
+
+  fruit'
+bip_39_word_new_line8: 'tonight
+
+  gauge
+
+  behave
+
+  tumble
+
+  inform
+
+  run
+
+  fruit
+
+  used'
+bip_39_word_new_line9: 'tonight
+
+  gauge
+
+  behave
+
+  tumble
+
+  inform
+
+  run
+
+  fruit
+
+  used
+
+  copy'
+bip_39_word_space_0:
+- tonight
+- gauge
+- behave
+- tumble
+- inform
+- run
+- fruit
+- used
+- copy
+- meadow
+- analyst
+- agent
+bip_39_word_space_1: tonight
+bip_39_word_space_10: tonight gauge behave tumble inform run fruit used copy meadow
+bip_39_word_space_11: tonight gauge behave tumble inform run fruit used copy meadow
+  analyst
+bip_39_word_space_12: tonight gauge behave tumble inform run fruit used copy meadow
+  analyst agent
+bip_39_word_space_2: tonight gauge
+bip_39_word_space_3: tonight gauge behave
+bip_39_word_space_4: tonight gauge behave tumble
+bip_39_word_space_5: tonight gauge behave tumble inform
+bip_39_word_space_6: tonight gauge behave tumble inform run
+bip_39_word_space_7: tonight gauge behave tumble inform run fruit
+bip_39_word_space_8: tonight gauge behave tumble inform run fruit used
+bip_39_word_space_9: tonight gauge behave tumble inform run fruit used copy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

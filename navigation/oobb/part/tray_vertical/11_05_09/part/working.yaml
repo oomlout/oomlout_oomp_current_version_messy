@@ -1,3 +1,187 @@
+bip_39_word_new_br1: price
+bip_39_word_new_br10: price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy
+bip_39_word_new_br11: price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy<br>crack
+bip_39_word_new_br12: price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper<br>enjoy<br>crack<br>annual
+bip_39_word_new_br2: price<br>purity
+bip_39_word_new_br3: price<br>purity<br>wrestle
+bip_39_word_new_br4: price<br>purity<br>wrestle<br>supreme
+bip_39_word_new_br5: price<br>purity<br>wrestle<br>supreme<br>myth
+bip_39_word_new_br6: price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp
+bip_39_word_new_br7: price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar
+bip_39_word_new_br8: price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog
+bip_39_word_new_br9: price<br>purity<br>wrestle<br>supreme<br>myth<br>ramp<br>guitar<br>hedgehog<br>upper
+bip_39_word_new_line1: price
+bip_39_word_new_line10: 'price
+
+  purity
+
+  wrestle
+
+  supreme
+
+  myth
+
+  ramp
+
+  guitar
+
+  hedgehog
+
+  upper
+
+  enjoy'
+bip_39_word_new_line11: 'price
+
+  purity
+
+  wrestle
+
+  supreme
+
+  myth
+
+  ramp
+
+  guitar
+
+  hedgehog
+
+  upper
+
+  enjoy
+
+  crack'
+bip_39_word_new_line12: 'price
+
+  purity
+
+  wrestle
+
+  supreme
+
+  myth
+
+  ramp
+
+  guitar
+
+  hedgehog
+
+  upper
+
+  enjoy
+
+  crack
+
+  annual'
+bip_39_word_new_line2: 'price
+
+  purity'
+bip_39_word_new_line3: 'price
+
+  purity
+
+  wrestle'
+bip_39_word_new_line4: 'price
+
+  purity
+
+  wrestle
+
+  supreme'
+bip_39_word_new_line5: 'price
+
+  purity
+
+  wrestle
+
+  supreme
+
+  myth'
+bip_39_word_new_line6: 'price
+
+  purity
+
+  wrestle
+
+  supreme
+
+  myth
+
+  ramp'
+bip_39_word_new_line7: 'price
+
+  purity
+
+  wrestle
+
+  supreme
+
+  myth
+
+  ramp
+
+  guitar'
+bip_39_word_new_line8: 'price
+
+  purity
+
+  wrestle
+
+  supreme
+
+  myth
+
+  ramp
+
+  guitar
+
+  hedgehog'
+bip_39_word_new_line9: 'price
+
+  purity
+
+  wrestle
+
+  supreme
+
+  myth
+
+  ramp
+
+  guitar
+
+  hedgehog
+
+  upper'
+bip_39_word_space_0:
+- price
+- purity
+- wrestle
+- supreme
+- myth
+- ramp
+- guitar
+- hedgehog
+- upper
+- enjoy
+- crack
+- annual
+bip_39_word_space_1: price
+bip_39_word_space_10: price purity wrestle supreme myth ramp guitar hedgehog upper
+  enjoy
+bip_39_word_space_11: price purity wrestle supreme myth ramp guitar hedgehog upper
+  enjoy crack
+bip_39_word_space_12: price purity wrestle supreme myth ramp guitar hedgehog upper
+  enjoy crack annual
+bip_39_word_space_2: price purity
+bip_39_word_space_3: price purity wrestle
+bip_39_word_space_4: price purity wrestle supreme
+bip_39_word_space_5: price purity wrestle supreme myth
+bip_39_word_space_6: price purity wrestle supreme myth ramp
+bip_39_word_space_7: price purity wrestle supreme myth ramp guitar
+bip_39_word_space_8: price purity wrestle supreme myth ramp guitar hedgehog
+bip_39_word_space_9: price purity wrestle supreme myth ramp guitar hedgehog upper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

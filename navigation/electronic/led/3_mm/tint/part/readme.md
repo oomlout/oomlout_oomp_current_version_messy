@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: obscure million
+  * bip 39 word 3: obscure million tongue
+  * bip 39 word: obscure million tongue that wife cave champion suggest dutch rural job ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | obscure |  
+| bip_39_word_new_br10 | obscure<br>million<br>tongue<br>that<br>wife<br>cave<br>champion<br>suggest<br>dutch<br>rural |  
+| bip_39_word_new_br11 | obscure<br>million<br>tongue<br>that<br>wife<br>cave<br>champion<br>suggest<br>dutch<br>rural<br>job |  
+| bip_39_word_new_br12 | obscure<br>million<br>tongue<br>that<br>wife<br>cave<br>champion<br>suggest<br>dutch<br>rural<br>job<br>ankle |  
+| bip_39_word_new_br2 | obscure<br>million |  
+| bip_39_word_new_br3 | obscure<br>million<br>tongue |  
+| bip_39_word_new_br4 | obscure<br>million<br>tongue<br>that |  
+| bip_39_word_new_br5 | obscure<br>million<br>tongue<br>that<br>wife |  
+| bip_39_word_new_br6 | obscure<br>million<br>tongue<br>that<br>wife<br>cave |  
+| bip_39_word_new_br7 | obscure<br>million<br>tongue<br>that<br>wife<br>cave<br>champion |  
+| bip_39_word_new_br8 | obscure<br>million<br>tongue<br>that<br>wife<br>cave<br>champion<br>suggest |  
+| bip_39_word_new_br9 | obscure<br>million<br>tongue<br>that<br>wife<br>cave<br>champion<br>suggest<br>dutch |  
+| bip_39_word_new_line1 | obscure |  
+| bip_39_word_new_line10 | obscure
+million
+tongue
+that
+wife
+cave
+champion
+suggest
+dutch
+rural |  
+| bip_39_word_new_line11 | obscure
+million
+tongue
+that
+wife
+cave
+champion
+suggest
+dutch
+rural
+job |  
+| bip_39_word_new_line12 | obscure
+million
+tongue
+that
+wife
+cave
+champion
+suggest
+dutch
+rural
+job
+ankle |  
+| bip_39_word_new_line2 | obscure
+million |  
+| bip_39_word_new_line3 | obscure
+million
+tongue |  
+| bip_39_word_new_line4 | obscure
+million
+tongue
+that |  
+| bip_39_word_new_line5 | obscure
+million
+tongue
+that
+wife |  
+| bip_39_word_new_line6 | obscure
+million
+tongue
+that
+wife
+cave |  
+| bip_39_word_new_line7 | obscure
+million
+tongue
+that
+wife
+cave
+champion |  
+| bip_39_word_new_line8 | obscure
+million
+tongue
+that
+wife
+cave
+champion
+suggest |  
+| bip_39_word_new_line9 | obscure
+million
+tongue
+that
+wife
+cave
+champion
+suggest
+dutch |  
+| bip_39_word_space_0 | ['obscure', 'million', 'tongue', 'that', 'wife', 'cave', 'champion', 'suggest', 'dutch', 'rural', 'job', 'ankle'] |  
+| bip_39_word_space_1 | obscure |  
+| bip_39_word_space_10 | obscure million tongue that wife cave champion suggest dutch rural |  
+| bip_39_word_space_11 | obscure million tongue that wife cave champion suggest dutch rural job |  
+| bip_39_word_space_12 | obscure million tongue that wife cave champion suggest dutch rural job ankle |  
+| bip_39_word_space_2 | obscure million |  
+| bip_39_word_space_3 | obscure million tongue |  
+| bip_39_word_space_4 | obscure million tongue that |  
+| bip_39_word_space_5 | obscure million tongue that wife |  
+| bip_39_word_space_6 | obscure million tongue that wife cave |  
+| bip_39_word_space_7 | obscure million tongue that wife cave champion |  
+| bip_39_word_space_8 | obscure million tongue that wife cave champion suggest |  
+| bip_39_word_space_9 | obscure million tongue that wife cave champion suggest dutch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gas nut
+  * bip 39 word 3: gas nut divorce
+  * bip 39 word: gas nut divorce survey language warm student private easy pig fuel asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gas |  
+| bip_39_word_new_br10 | gas<br>nut<br>divorce<br>survey<br>language<br>warm<br>student<br>private<br>easy<br>pig |  
+| bip_39_word_new_br11 | gas<br>nut<br>divorce<br>survey<br>language<br>warm<br>student<br>private<br>easy<br>pig<br>fuel |  
+| bip_39_word_new_br12 | gas<br>nut<br>divorce<br>survey<br>language<br>warm<br>student<br>private<br>easy<br>pig<br>fuel<br>asset |  
+| bip_39_word_new_br2 | gas<br>nut |  
+| bip_39_word_new_br3 | gas<br>nut<br>divorce |  
+| bip_39_word_new_br4 | gas<br>nut<br>divorce<br>survey |  
+| bip_39_word_new_br5 | gas<br>nut<br>divorce<br>survey<br>language |  
+| bip_39_word_new_br6 | gas<br>nut<br>divorce<br>survey<br>language<br>warm |  
+| bip_39_word_new_br7 | gas<br>nut<br>divorce<br>survey<br>language<br>warm<br>student |  
+| bip_39_word_new_br8 | gas<br>nut<br>divorce<br>survey<br>language<br>warm<br>student<br>private |  
+| bip_39_word_new_br9 | gas<br>nut<br>divorce<br>survey<br>language<br>warm<br>student<br>private<br>easy |  
+| bip_39_word_new_line1 | gas |  
+| bip_39_word_new_line10 | gas
+nut
+divorce
+survey
+language
+warm
+student
+private
+easy
+pig |  
+| bip_39_word_new_line11 | gas
+nut
+divorce
+survey
+language
+warm
+student
+private
+easy
+pig
+fuel |  
+| bip_39_word_new_line12 | gas
+nut
+divorce
+survey
+language
+warm
+student
+private
+easy
+pig
+fuel
+asset |  
+| bip_39_word_new_line2 | gas
+nut |  
+| bip_39_word_new_line3 | gas
+nut
+divorce |  
+| bip_39_word_new_line4 | gas
+nut
+divorce
+survey |  
+| bip_39_word_new_line5 | gas
+nut
+divorce
+survey
+language |  
+| bip_39_word_new_line6 | gas
+nut
+divorce
+survey
+language
+warm |  
+| bip_39_word_new_line7 | gas
+nut
+divorce
+survey
+language
+warm
+student |  
+| bip_39_word_new_line8 | gas
+nut
+divorce
+survey
+language
+warm
+student
+private |  
+| bip_39_word_new_line9 | gas
+nut
+divorce
+survey
+language
+warm
+student
+private
+easy |  
+| bip_39_word_space_0 | ['gas', 'nut', 'divorce', 'survey', 'language', 'warm', 'student', 'private', 'easy', 'pig', 'fuel', 'asset'] |  
+| bip_39_word_space_1 | gas |  
+| bip_39_word_space_10 | gas nut divorce survey language warm student private easy pig |  
+| bip_39_word_space_11 | gas nut divorce survey language warm student private easy pig fuel |  
+| bip_39_word_space_12 | gas nut divorce survey language warm student private easy pig fuel asset |  
+| bip_39_word_space_2 | gas nut |  
+| bip_39_word_space_3 | gas nut divorce |  
+| bip_39_word_space_4 | gas nut divorce survey |  
+| bip_39_word_space_5 | gas nut divorce survey language |  
+| bip_39_word_space_6 | gas nut divorce survey language warm |  
+| bip_39_word_space_7 | gas nut divorce survey language warm student |  
+| bip_39_word_space_8 | gas nut divorce survey language warm student private |  
+| bip_39_word_space_9 | gas nut divorce survey language warm student private easy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

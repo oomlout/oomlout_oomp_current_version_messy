@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sugar awkward
+  * bip 39 word 3: sugar awkward dentist
+  * bip 39 word: sugar awkward dentist actual brain dolphin entry sample fork burst remain adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sugar |  
+| bip_39_word_new_br10 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst |  
+| bip_39_word_new_br11 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst<br>remain |  
+| bip_39_word_new_br12 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork<br>burst<br>remain<br>adult |  
+| bip_39_word_new_br2 | sugar<br>awkward |  
+| bip_39_word_new_br3 | sugar<br>awkward<br>dentist |  
+| bip_39_word_new_br4 | sugar<br>awkward<br>dentist<br>actual |  
+| bip_39_word_new_br5 | sugar<br>awkward<br>dentist<br>actual<br>brain |  
+| bip_39_word_new_br6 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin |  
+| bip_39_word_new_br7 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry |  
+| bip_39_word_new_br8 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample |  
+| bip_39_word_new_br9 | sugar<br>awkward<br>dentist<br>actual<br>brain<br>dolphin<br>entry<br>sample<br>fork |  
+| bip_39_word_new_line1 | sugar |  
+| bip_39_word_new_line10 | sugar
+awkward
+dentist
+actual
+brain
+dolphin
+entry
+sample
+fork
+burst |  
+| bip_39_word_new_line11 | sugar
+awkward
+dentist
+actual
+brain
+dolphin
+entry
+sample
+fork
+burst
+remain |  
+| bip_39_word_new_line12 | sugar
+awkward
+dentist
+actual
+brain
+dolphin
+entry
+sample
+fork
+burst
+remain
+adult |  
+| bip_39_word_new_line2 | sugar
+awkward |  
+| bip_39_word_new_line3 | sugar
+awkward
+dentist |  
+| bip_39_word_new_line4 | sugar
+awkward
+dentist
+actual |  
+| bip_39_word_new_line5 | sugar
+awkward
+dentist
+actual
+brain |  
+| bip_39_word_new_line6 | sugar
+awkward
+dentist
+actual
+brain
+dolphin |  
+| bip_39_word_new_line7 | sugar
+awkward
+dentist
+actual
+brain
+dolphin
+entry |  
+| bip_39_word_new_line8 | sugar
+awkward
+dentist
+actual
+brain
+dolphin
+entry
+sample |  
+| bip_39_word_new_line9 | sugar
+awkward
+dentist
+actual
+brain
+dolphin
+entry
+sample
+fork |  
+| bip_39_word_space_0 | ['sugar', 'awkward', 'dentist', 'actual', 'brain', 'dolphin', 'entry', 'sample', 'fork', 'burst', 'remain', 'adult'] |  
+| bip_39_word_space_1 | sugar |  
+| bip_39_word_space_10 | sugar awkward dentist actual brain dolphin entry sample fork burst |  
+| bip_39_word_space_11 | sugar awkward dentist actual brain dolphin entry sample fork burst remain |  
+| bip_39_word_space_12 | sugar awkward dentist actual brain dolphin entry sample fork burst remain adult |  
+| bip_39_word_space_2 | sugar awkward |  
+| bip_39_word_space_3 | sugar awkward dentist |  
+| bip_39_word_space_4 | sugar awkward dentist actual |  
+| bip_39_word_space_5 | sugar awkward dentist actual brain |  
+| bip_39_word_space_6 | sugar awkward dentist actual brain dolphin |  
+| bip_39_word_space_7 | sugar awkward dentist actual brain dolphin entry |  
+| bip_39_word_space_8 | sugar awkward dentist actual brain dolphin entry sample |  
+| bip_39_word_space_9 | sugar awkward dentist actual brain dolphin entry sample fork |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

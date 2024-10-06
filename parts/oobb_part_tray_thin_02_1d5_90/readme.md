@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hybrid pulp
+  * bip 39 word 3: hybrid pulp guitar
+  * bip 39 word: hybrid pulp guitar master confirm kit deposit estate add festival thunder army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hybrid |  
+| bip_39_word_new_br10 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit<br>deposit<br>estate<br>add<br>festival |  
+| bip_39_word_new_br11 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit<br>deposit<br>estate<br>add<br>festival<br>thunder |  
+| bip_39_word_new_br12 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit<br>deposit<br>estate<br>add<br>festival<br>thunder<br>army |  
+| bip_39_word_new_br2 | hybrid<br>pulp |  
+| bip_39_word_new_br3 | hybrid<br>pulp<br>guitar |  
+| bip_39_word_new_br4 | hybrid<br>pulp<br>guitar<br>master |  
+| bip_39_word_new_br5 | hybrid<br>pulp<br>guitar<br>master<br>confirm |  
+| bip_39_word_new_br6 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit |  
+| bip_39_word_new_br7 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit<br>deposit |  
+| bip_39_word_new_br8 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit<br>deposit<br>estate |  
+| bip_39_word_new_br9 | hybrid<br>pulp<br>guitar<br>master<br>confirm<br>kit<br>deposit<br>estate<br>add |  
+| bip_39_word_new_line1 | hybrid |  
+| bip_39_word_new_line10 | hybrid
+pulp
+guitar
+master
+confirm
+kit
+deposit
+estate
+add
+festival |  
+| bip_39_word_new_line11 | hybrid
+pulp
+guitar
+master
+confirm
+kit
+deposit
+estate
+add
+festival
+thunder |  
+| bip_39_word_new_line12 | hybrid
+pulp
+guitar
+master
+confirm
+kit
+deposit
+estate
+add
+festival
+thunder
+army |  
+| bip_39_word_new_line2 | hybrid
+pulp |  
+| bip_39_word_new_line3 | hybrid
+pulp
+guitar |  
+| bip_39_word_new_line4 | hybrid
+pulp
+guitar
+master |  
+| bip_39_word_new_line5 | hybrid
+pulp
+guitar
+master
+confirm |  
+| bip_39_word_new_line6 | hybrid
+pulp
+guitar
+master
+confirm
+kit |  
+| bip_39_word_new_line7 | hybrid
+pulp
+guitar
+master
+confirm
+kit
+deposit |  
+| bip_39_word_new_line8 | hybrid
+pulp
+guitar
+master
+confirm
+kit
+deposit
+estate |  
+| bip_39_word_new_line9 | hybrid
+pulp
+guitar
+master
+confirm
+kit
+deposit
+estate
+add |  
+| bip_39_word_space_0 | ['hybrid', 'pulp', 'guitar', 'master', 'confirm', 'kit', 'deposit', 'estate', 'add', 'festival', 'thunder', 'army'] |  
+| bip_39_word_space_1 | hybrid |  
+| bip_39_word_space_10 | hybrid pulp guitar master confirm kit deposit estate add festival |  
+| bip_39_word_space_11 | hybrid pulp guitar master confirm kit deposit estate add festival thunder |  
+| bip_39_word_space_12 | hybrid pulp guitar master confirm kit deposit estate add festival thunder army |  
+| bip_39_word_space_2 | hybrid pulp |  
+| bip_39_word_space_3 | hybrid pulp guitar |  
+| bip_39_word_space_4 | hybrid pulp guitar master |  
+| bip_39_word_space_5 | hybrid pulp guitar master confirm |  
+| bip_39_word_space_6 | hybrid pulp guitar master confirm kit |  
+| bip_39_word_space_7 | hybrid pulp guitar master confirm kit deposit |  
+| bip_39_word_space_8 | hybrid pulp guitar master confirm kit deposit estate |  
+| bip_39_word_space_9 | hybrid pulp guitar master confirm kit deposit estate add |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

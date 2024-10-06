@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vehicle atom
+  * bip 39 word 3: vehicle atom silent
+  * bip 39 word: vehicle atom silent forward never shrimp desk hurdle close south tide animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vehicle |  
+| bip_39_word_new_br10 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp<br>desk<br>hurdle<br>close<br>south |  
+| bip_39_word_new_br11 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp<br>desk<br>hurdle<br>close<br>south<br>tide |  
+| bip_39_word_new_br12 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp<br>desk<br>hurdle<br>close<br>south<br>tide<br>animal |  
+| bip_39_word_new_br2 | vehicle<br>atom |  
+| bip_39_word_new_br3 | vehicle<br>atom<br>silent |  
+| bip_39_word_new_br4 | vehicle<br>atom<br>silent<br>forward |  
+| bip_39_word_new_br5 | vehicle<br>atom<br>silent<br>forward<br>never |  
+| bip_39_word_new_br6 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp |  
+| bip_39_word_new_br7 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp<br>desk |  
+| bip_39_word_new_br8 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp<br>desk<br>hurdle |  
+| bip_39_word_new_br9 | vehicle<br>atom<br>silent<br>forward<br>never<br>shrimp<br>desk<br>hurdle<br>close |  
+| bip_39_word_new_line1 | vehicle |  
+| bip_39_word_new_line10 | vehicle
+atom
+silent
+forward
+never
+shrimp
+desk
+hurdle
+close
+south |  
+| bip_39_word_new_line11 | vehicle
+atom
+silent
+forward
+never
+shrimp
+desk
+hurdle
+close
+south
+tide |  
+| bip_39_word_new_line12 | vehicle
+atom
+silent
+forward
+never
+shrimp
+desk
+hurdle
+close
+south
+tide
+animal |  
+| bip_39_word_new_line2 | vehicle
+atom |  
+| bip_39_word_new_line3 | vehicle
+atom
+silent |  
+| bip_39_word_new_line4 | vehicle
+atom
+silent
+forward |  
+| bip_39_word_new_line5 | vehicle
+atom
+silent
+forward
+never |  
+| bip_39_word_new_line6 | vehicle
+atom
+silent
+forward
+never
+shrimp |  
+| bip_39_word_new_line7 | vehicle
+atom
+silent
+forward
+never
+shrimp
+desk |  
+| bip_39_word_new_line8 | vehicle
+atom
+silent
+forward
+never
+shrimp
+desk
+hurdle |  
+| bip_39_word_new_line9 | vehicle
+atom
+silent
+forward
+never
+shrimp
+desk
+hurdle
+close |  
+| bip_39_word_space_0 | ['vehicle', 'atom', 'silent', 'forward', 'never', 'shrimp', 'desk', 'hurdle', 'close', 'south', 'tide', 'animal'] |  
+| bip_39_word_space_1 | vehicle |  
+| bip_39_word_space_10 | vehicle atom silent forward never shrimp desk hurdle close south |  
+| bip_39_word_space_11 | vehicle atom silent forward never shrimp desk hurdle close south tide |  
+| bip_39_word_space_12 | vehicle atom silent forward never shrimp desk hurdle close south tide animal |  
+| bip_39_word_space_2 | vehicle atom |  
+| bip_39_word_space_3 | vehicle atom silent |  
+| bip_39_word_space_4 | vehicle atom silent forward |  
+| bip_39_word_space_5 | vehicle atom silent forward never |  
+| bip_39_word_space_6 | vehicle atom silent forward never shrimp |  
+| bip_39_word_space_7 | vehicle atom silent forward never shrimp desk |  
+| bip_39_word_space_8 | vehicle atom silent forward never shrimp desk hurdle |  
+| bip_39_word_space_9 | vehicle atom silent forward never shrimp desk hurdle close |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

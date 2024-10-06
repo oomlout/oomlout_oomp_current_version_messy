@@ -1,3 +1,187 @@
+bip_39_word_new_br1: seed
+bip_39_word_new_br10: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork
+bip_39_word_new_br11: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork<br>result
+bip_39_word_new_br12: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse<br>artwork<br>result<br>attend
+bip_39_word_new_br2: seed<br>slender
+bip_39_word_new_br3: seed<br>slender<br>ticket
+bip_39_word_new_br4: seed<br>slender<br>ticket<br>alcohol
+bip_39_word_new_br5: seed<br>slender<br>ticket<br>alcohol<br>day
+bip_39_word_new_br6: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney
+bip_39_word_new_br7: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend
+bip_39_word_new_br8: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform
+bip_39_word_new_br9: seed<br>slender<br>ticket<br>alcohol<br>day<br>kidney<br>spend<br>inform<br>glimpse
+bip_39_word_new_line1: seed
+bip_39_word_new_line10: 'seed
+
+  slender
+
+  ticket
+
+  alcohol
+
+  day
+
+  kidney
+
+  spend
+
+  inform
+
+  glimpse
+
+  artwork'
+bip_39_word_new_line11: 'seed
+
+  slender
+
+  ticket
+
+  alcohol
+
+  day
+
+  kidney
+
+  spend
+
+  inform
+
+  glimpse
+
+  artwork
+
+  result'
+bip_39_word_new_line12: 'seed
+
+  slender
+
+  ticket
+
+  alcohol
+
+  day
+
+  kidney
+
+  spend
+
+  inform
+
+  glimpse
+
+  artwork
+
+  result
+
+  attend'
+bip_39_word_new_line2: 'seed
+
+  slender'
+bip_39_word_new_line3: 'seed
+
+  slender
+
+  ticket'
+bip_39_word_new_line4: 'seed
+
+  slender
+
+  ticket
+
+  alcohol'
+bip_39_word_new_line5: 'seed
+
+  slender
+
+  ticket
+
+  alcohol
+
+  day'
+bip_39_word_new_line6: 'seed
+
+  slender
+
+  ticket
+
+  alcohol
+
+  day
+
+  kidney'
+bip_39_word_new_line7: 'seed
+
+  slender
+
+  ticket
+
+  alcohol
+
+  day
+
+  kidney
+
+  spend'
+bip_39_word_new_line8: 'seed
+
+  slender
+
+  ticket
+
+  alcohol
+
+  day
+
+  kidney
+
+  spend
+
+  inform'
+bip_39_word_new_line9: 'seed
+
+  slender
+
+  ticket
+
+  alcohol
+
+  day
+
+  kidney
+
+  spend
+
+  inform
+
+  glimpse'
+bip_39_word_space_0:
+- seed
+- slender
+- ticket
+- alcohol
+- day
+- kidney
+- spend
+- inform
+- glimpse
+- artwork
+- result
+- attend
+bip_39_word_space_1: seed
+bip_39_word_space_10: seed slender ticket alcohol day kidney spend inform glimpse
+  artwork
+bip_39_word_space_11: seed slender ticket alcohol day kidney spend inform glimpse
+  artwork result
+bip_39_word_space_12: seed slender ticket alcohol day kidney spend inform glimpse
+  artwork result attend
+bip_39_word_space_2: seed slender
+bip_39_word_space_3: seed slender ticket
+bip_39_word_space_4: seed slender ticket alcohol
+bip_39_word_space_5: seed slender ticket alcohol day
+bip_39_word_space_6: seed slender ticket alcohol day kidney
+bip_39_word_space_7: seed slender ticket alcohol day kidney spend
+bip_39_word_space_8: seed slender ticket alcohol day kidney spend inform
+bip_39_word_space_9: seed slender ticket alcohol day kidney spend inform glimpse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

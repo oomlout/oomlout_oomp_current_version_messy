@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deliver hollow
+  * bip 39 word 3: deliver hollow trip
+  * bip 39 word: deliver hollow trip omit cup allow absent slight island depart trade armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deliver |  
+| bip_39_word_new_br10 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow<br>absent<br>slight<br>island<br>depart |  
+| bip_39_word_new_br11 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow<br>absent<br>slight<br>island<br>depart<br>trade |  
+| bip_39_word_new_br12 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow<br>absent<br>slight<br>island<br>depart<br>trade<br>armed |  
+| bip_39_word_new_br2 | deliver<br>hollow |  
+| bip_39_word_new_br3 | deliver<br>hollow<br>trip |  
+| bip_39_word_new_br4 | deliver<br>hollow<br>trip<br>omit |  
+| bip_39_word_new_br5 | deliver<br>hollow<br>trip<br>omit<br>cup |  
+| bip_39_word_new_br6 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow |  
+| bip_39_word_new_br7 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow<br>absent |  
+| bip_39_word_new_br8 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow<br>absent<br>slight |  
+| bip_39_word_new_br9 | deliver<br>hollow<br>trip<br>omit<br>cup<br>allow<br>absent<br>slight<br>island |  
+| bip_39_word_new_line1 | deliver |  
+| bip_39_word_new_line10 | deliver
+hollow
+trip
+omit
+cup
+allow
+absent
+slight
+island
+depart |  
+| bip_39_word_new_line11 | deliver
+hollow
+trip
+omit
+cup
+allow
+absent
+slight
+island
+depart
+trade |  
+| bip_39_word_new_line12 | deliver
+hollow
+trip
+omit
+cup
+allow
+absent
+slight
+island
+depart
+trade
+armed |  
+| bip_39_word_new_line2 | deliver
+hollow |  
+| bip_39_word_new_line3 | deliver
+hollow
+trip |  
+| bip_39_word_new_line4 | deliver
+hollow
+trip
+omit |  
+| bip_39_word_new_line5 | deliver
+hollow
+trip
+omit
+cup |  
+| bip_39_word_new_line6 | deliver
+hollow
+trip
+omit
+cup
+allow |  
+| bip_39_word_new_line7 | deliver
+hollow
+trip
+omit
+cup
+allow
+absent |  
+| bip_39_word_new_line8 | deliver
+hollow
+trip
+omit
+cup
+allow
+absent
+slight |  
+| bip_39_word_new_line9 | deliver
+hollow
+trip
+omit
+cup
+allow
+absent
+slight
+island |  
+| bip_39_word_space_0 | ['deliver', 'hollow', 'trip', 'omit', 'cup', 'allow', 'absent', 'slight', 'island', 'depart', 'trade', 'armed'] |  
+| bip_39_word_space_1 | deliver |  
+| bip_39_word_space_10 | deliver hollow trip omit cup allow absent slight island depart |  
+| bip_39_word_space_11 | deliver hollow trip omit cup allow absent slight island depart trade |  
+| bip_39_word_space_12 | deliver hollow trip omit cup allow absent slight island depart trade armed |  
+| bip_39_word_space_2 | deliver hollow |  
+| bip_39_word_space_3 | deliver hollow trip |  
+| bip_39_word_space_4 | deliver hollow trip omit |  
+| bip_39_word_space_5 | deliver hollow trip omit cup |  
+| bip_39_word_space_6 | deliver hollow trip omit cup allow |  
+| bip_39_word_space_7 | deliver hollow trip omit cup allow absent |  
+| bip_39_word_space_8 | deliver hollow trip omit cup allow absent slight |  
+| bip_39_word_space_9 | deliver hollow trip omit cup allow absent slight island |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

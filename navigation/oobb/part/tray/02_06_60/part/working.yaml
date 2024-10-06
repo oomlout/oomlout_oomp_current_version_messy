@@ -1,3 +1,187 @@
+bip_39_word_new_br1: suffer
+bip_39_word_new_br10: suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy<br>welcome<br>anxiety<br>excite<br>cool
+bip_39_word_new_br11: suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy<br>welcome<br>anxiety<br>excite<br>cool<br>hazard
+bip_39_word_new_br12: suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy<br>welcome<br>anxiety<br>excite<br>cool<br>hazard<br>apology
+bip_39_word_new_br2: suffer<br>eight
+bip_39_word_new_br3: suffer<br>eight<br>elegant
+bip_39_word_new_br4: suffer<br>eight<br>elegant<br>name
+bip_39_word_new_br5: suffer<br>eight<br>elegant<br>name<br>rescue
+bip_39_word_new_br6: suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy
+bip_39_word_new_br7: suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy<br>welcome
+bip_39_word_new_br8: suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy<br>welcome<br>anxiety
+bip_39_word_new_br9: suffer<br>eight<br>elegant<br>name<br>rescue<br>deputy<br>welcome<br>anxiety<br>excite
+bip_39_word_new_line1: suffer
+bip_39_word_new_line10: 'suffer
+
+  eight
+
+  elegant
+
+  name
+
+  rescue
+
+  deputy
+
+  welcome
+
+  anxiety
+
+  excite
+
+  cool'
+bip_39_word_new_line11: 'suffer
+
+  eight
+
+  elegant
+
+  name
+
+  rescue
+
+  deputy
+
+  welcome
+
+  anxiety
+
+  excite
+
+  cool
+
+  hazard'
+bip_39_word_new_line12: 'suffer
+
+  eight
+
+  elegant
+
+  name
+
+  rescue
+
+  deputy
+
+  welcome
+
+  anxiety
+
+  excite
+
+  cool
+
+  hazard
+
+  apology'
+bip_39_word_new_line2: 'suffer
+
+  eight'
+bip_39_word_new_line3: 'suffer
+
+  eight
+
+  elegant'
+bip_39_word_new_line4: 'suffer
+
+  eight
+
+  elegant
+
+  name'
+bip_39_word_new_line5: 'suffer
+
+  eight
+
+  elegant
+
+  name
+
+  rescue'
+bip_39_word_new_line6: 'suffer
+
+  eight
+
+  elegant
+
+  name
+
+  rescue
+
+  deputy'
+bip_39_word_new_line7: 'suffer
+
+  eight
+
+  elegant
+
+  name
+
+  rescue
+
+  deputy
+
+  welcome'
+bip_39_word_new_line8: 'suffer
+
+  eight
+
+  elegant
+
+  name
+
+  rescue
+
+  deputy
+
+  welcome
+
+  anxiety'
+bip_39_word_new_line9: 'suffer
+
+  eight
+
+  elegant
+
+  name
+
+  rescue
+
+  deputy
+
+  welcome
+
+  anxiety
+
+  excite'
+bip_39_word_space_0:
+- suffer
+- eight
+- elegant
+- name
+- rescue
+- deputy
+- welcome
+- anxiety
+- excite
+- cool
+- hazard
+- apology
+bip_39_word_space_1: suffer
+bip_39_word_space_10: suffer eight elegant name rescue deputy welcome anxiety excite
+  cool
+bip_39_word_space_11: suffer eight elegant name rescue deputy welcome anxiety excite
+  cool hazard
+bip_39_word_space_12: suffer eight elegant name rescue deputy welcome anxiety excite
+  cool hazard apology
+bip_39_word_space_2: suffer eight
+bip_39_word_space_3: suffer eight elegant
+bip_39_word_space_4: suffer eight elegant name
+bip_39_word_space_5: suffer eight elegant name rescue
+bip_39_word_space_6: suffer eight elegant name rescue deputy
+bip_39_word_space_7: suffer eight elegant name rescue deputy welcome
+bip_39_word_space_8: suffer eight elegant name rescue deputy welcome anxiety
+bip_39_word_space_9: suffer eight elegant name rescue deputy welcome anxiety excite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

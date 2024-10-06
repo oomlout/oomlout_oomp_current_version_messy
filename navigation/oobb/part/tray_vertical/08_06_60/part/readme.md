@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: penalty viable
+  * bip 39 word 3: penalty viable jewel
+  * bip 39 word: penalty viable jewel myself ladder hole excuse accuse close fringe angle autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | penalty |  
+| bip_39_word_new_br10 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe |  
+| bip_39_word_new_br11 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe<br>angle |  
+| bip_39_word_new_br12 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close<br>fringe<br>angle<br>autumn |  
+| bip_39_word_new_br2 | penalty<br>viable |  
+| bip_39_word_new_br3 | penalty<br>viable<br>jewel |  
+| bip_39_word_new_br4 | penalty<br>viable<br>jewel<br>myself |  
+| bip_39_word_new_br5 | penalty<br>viable<br>jewel<br>myself<br>ladder |  
+| bip_39_word_new_br6 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole |  
+| bip_39_word_new_br7 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse |  
+| bip_39_word_new_br8 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse |  
+| bip_39_word_new_br9 | penalty<br>viable<br>jewel<br>myself<br>ladder<br>hole<br>excuse<br>accuse<br>close |  
+| bip_39_word_new_line1 | penalty |  
+| bip_39_word_new_line10 | penalty
+viable
+jewel
+myself
+ladder
+hole
+excuse
+accuse
+close
+fringe |  
+| bip_39_word_new_line11 | penalty
+viable
+jewel
+myself
+ladder
+hole
+excuse
+accuse
+close
+fringe
+angle |  
+| bip_39_word_new_line12 | penalty
+viable
+jewel
+myself
+ladder
+hole
+excuse
+accuse
+close
+fringe
+angle
+autumn |  
+| bip_39_word_new_line2 | penalty
+viable |  
+| bip_39_word_new_line3 | penalty
+viable
+jewel |  
+| bip_39_word_new_line4 | penalty
+viable
+jewel
+myself |  
+| bip_39_word_new_line5 | penalty
+viable
+jewel
+myself
+ladder |  
+| bip_39_word_new_line6 | penalty
+viable
+jewel
+myself
+ladder
+hole |  
+| bip_39_word_new_line7 | penalty
+viable
+jewel
+myself
+ladder
+hole
+excuse |  
+| bip_39_word_new_line8 | penalty
+viable
+jewel
+myself
+ladder
+hole
+excuse
+accuse |  
+| bip_39_word_new_line9 | penalty
+viable
+jewel
+myself
+ladder
+hole
+excuse
+accuse
+close |  
+| bip_39_word_space_0 | ['penalty', 'viable', 'jewel', 'myself', 'ladder', 'hole', 'excuse', 'accuse', 'close', 'fringe', 'angle', 'autumn'] |  
+| bip_39_word_space_1 | penalty |  
+| bip_39_word_space_10 | penalty viable jewel myself ladder hole excuse accuse close fringe |  
+| bip_39_word_space_11 | penalty viable jewel myself ladder hole excuse accuse close fringe angle |  
+| bip_39_word_space_12 | penalty viable jewel myself ladder hole excuse accuse close fringe angle autumn |  
+| bip_39_word_space_2 | penalty viable |  
+| bip_39_word_space_3 | penalty viable jewel |  
+| bip_39_word_space_4 | penalty viable jewel myself |  
+| bip_39_word_space_5 | penalty viable jewel myself ladder |  
+| bip_39_word_space_6 | penalty viable jewel myself ladder hole |  
+| bip_39_word_space_7 | penalty viable jewel myself ladder hole excuse |  
+| bip_39_word_space_8 | penalty viable jewel myself ladder hole excuse accuse |  
+| bip_39_word_space_9 | penalty viable jewel myself ladder hole excuse accuse close |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

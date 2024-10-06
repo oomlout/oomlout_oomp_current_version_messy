@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reason ranch
+  * bip 39 word 3: reason ranch real
+  * bip 39 word: reason ranch real coyote universe relax common apology begin permit page acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reason |  
+| bip_39_word_new_br10 | reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology<br>begin<br>permit |  
+| bip_39_word_new_br11 | reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology<br>begin<br>permit<br>page |  
+| bip_39_word_new_br12 | reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology<br>begin<br>permit<br>page<br>acquire |  
+| bip_39_word_new_br2 | reason<br>ranch |  
+| bip_39_word_new_br3 | reason<br>ranch<br>real |  
+| bip_39_word_new_br4 | reason<br>ranch<br>real<br>coyote |  
+| bip_39_word_new_br5 | reason<br>ranch<br>real<br>coyote<br>universe |  
+| bip_39_word_new_br6 | reason<br>ranch<br>real<br>coyote<br>universe<br>relax |  
+| bip_39_word_new_br7 | reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common |  
+| bip_39_word_new_br8 | reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology |  
+| bip_39_word_new_br9 | reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology<br>begin |  
+| bip_39_word_new_line1 | reason |  
+| bip_39_word_new_line10 | reason
+ranch
+real
+coyote
+universe
+relax
+common
+apology
+begin
+permit |  
+| bip_39_word_new_line11 | reason
+ranch
+real
+coyote
+universe
+relax
+common
+apology
+begin
+permit
+page |  
+| bip_39_word_new_line12 | reason
+ranch
+real
+coyote
+universe
+relax
+common
+apology
+begin
+permit
+page
+acquire |  
+| bip_39_word_new_line2 | reason
+ranch |  
+| bip_39_word_new_line3 | reason
+ranch
+real |  
+| bip_39_word_new_line4 | reason
+ranch
+real
+coyote |  
+| bip_39_word_new_line5 | reason
+ranch
+real
+coyote
+universe |  
+| bip_39_word_new_line6 | reason
+ranch
+real
+coyote
+universe
+relax |  
+| bip_39_word_new_line7 | reason
+ranch
+real
+coyote
+universe
+relax
+common |  
+| bip_39_word_new_line8 | reason
+ranch
+real
+coyote
+universe
+relax
+common
+apology |  
+| bip_39_word_new_line9 | reason
+ranch
+real
+coyote
+universe
+relax
+common
+apology
+begin |  
+| bip_39_word_space_0 | ['reason', 'ranch', 'real', 'coyote', 'universe', 'relax', 'common', 'apology', 'begin', 'permit', 'page', 'acquire'] |  
+| bip_39_word_space_1 | reason |  
+| bip_39_word_space_10 | reason ranch real coyote universe relax common apology begin permit |  
+| bip_39_word_space_11 | reason ranch real coyote universe relax common apology begin permit page |  
+| bip_39_word_space_12 | reason ranch real coyote universe relax common apology begin permit page acquire |  
+| bip_39_word_space_2 | reason ranch |  
+| bip_39_word_space_3 | reason ranch real |  
+| bip_39_word_space_4 | reason ranch real coyote |  
+| bip_39_word_space_5 | reason ranch real coyote universe |  
+| bip_39_word_space_6 | reason ranch real coyote universe relax |  
+| bip_39_word_space_7 | reason ranch real coyote universe relax common |  
+| bip_39_word_space_8 | reason ranch real coyote universe relax common apology |  
+| bip_39_word_space_9 | reason ranch real coyote universe relax common apology begin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

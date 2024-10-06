@@ -1,3 +1,186 @@
+bip_39_word_new_br1: able
+bip_39_word_new_br10: able<br>lizard<br>dragon<br>glue<br>moral<br>giggle<br>mansion<br>army<br>slide<br>this
+bip_39_word_new_br11: able<br>lizard<br>dragon<br>glue<br>moral<br>giggle<br>mansion<br>army<br>slide<br>this<br>carbon
+bip_39_word_new_br12: able<br>lizard<br>dragon<br>glue<br>moral<br>giggle<br>mansion<br>army<br>slide<br>this<br>carbon<br>account
+bip_39_word_new_br2: able<br>lizard
+bip_39_word_new_br3: able<br>lizard<br>dragon
+bip_39_word_new_br4: able<br>lizard<br>dragon<br>glue
+bip_39_word_new_br5: able<br>lizard<br>dragon<br>glue<br>moral
+bip_39_word_new_br6: able<br>lizard<br>dragon<br>glue<br>moral<br>giggle
+bip_39_word_new_br7: able<br>lizard<br>dragon<br>glue<br>moral<br>giggle<br>mansion
+bip_39_word_new_br8: able<br>lizard<br>dragon<br>glue<br>moral<br>giggle<br>mansion<br>army
+bip_39_word_new_br9: able<br>lizard<br>dragon<br>glue<br>moral<br>giggle<br>mansion<br>army<br>slide
+bip_39_word_new_line1: able
+bip_39_word_new_line10: 'able
+
+  lizard
+
+  dragon
+
+  glue
+
+  moral
+
+  giggle
+
+  mansion
+
+  army
+
+  slide
+
+  this'
+bip_39_word_new_line11: 'able
+
+  lizard
+
+  dragon
+
+  glue
+
+  moral
+
+  giggle
+
+  mansion
+
+  army
+
+  slide
+
+  this
+
+  carbon'
+bip_39_word_new_line12: 'able
+
+  lizard
+
+  dragon
+
+  glue
+
+  moral
+
+  giggle
+
+  mansion
+
+  army
+
+  slide
+
+  this
+
+  carbon
+
+  account'
+bip_39_word_new_line2: 'able
+
+  lizard'
+bip_39_word_new_line3: 'able
+
+  lizard
+
+  dragon'
+bip_39_word_new_line4: 'able
+
+  lizard
+
+  dragon
+
+  glue'
+bip_39_word_new_line5: 'able
+
+  lizard
+
+  dragon
+
+  glue
+
+  moral'
+bip_39_word_new_line6: 'able
+
+  lizard
+
+  dragon
+
+  glue
+
+  moral
+
+  giggle'
+bip_39_word_new_line7: 'able
+
+  lizard
+
+  dragon
+
+  glue
+
+  moral
+
+  giggle
+
+  mansion'
+bip_39_word_new_line8: 'able
+
+  lizard
+
+  dragon
+
+  glue
+
+  moral
+
+  giggle
+
+  mansion
+
+  army'
+bip_39_word_new_line9: 'able
+
+  lizard
+
+  dragon
+
+  glue
+
+  moral
+
+  giggle
+
+  mansion
+
+  army
+
+  slide'
+bip_39_word_space_0:
+- able
+- lizard
+- dragon
+- glue
+- moral
+- giggle
+- mansion
+- army
+- slide
+- this
+- carbon
+- account
+bip_39_word_space_1: able
+bip_39_word_space_10: able lizard dragon glue moral giggle mansion army slide this
+bip_39_word_space_11: able lizard dragon glue moral giggle mansion army slide this
+  carbon
+bip_39_word_space_12: able lizard dragon glue moral giggle mansion army slide this
+  carbon account
+bip_39_word_space_2: able lizard
+bip_39_word_space_3: able lizard dragon
+bip_39_word_space_4: able lizard dragon glue
+bip_39_word_space_5: able lizard dragon glue moral
+bip_39_word_space_6: able lizard dragon glue moral giggle
+bip_39_word_space_7: able lizard dragon glue moral giggle mansion
+bip_39_word_space_8: able lizard dragon glue moral giggle mansion army
+bip_39_word_space_9: able lizard dragon glue moral giggle mansion army slide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: theme cream
+  * bip 39 word 3: theme cream all
+  * bip 39 word: theme cream all obscure magic genre crucial crunch dust yellow connect advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | theme |  
+| bip_39_word_new_br10 | theme<br>cream<br>all<br>obscure<br>magic<br>genre<br>crucial<br>crunch<br>dust<br>yellow |  
+| bip_39_word_new_br11 | theme<br>cream<br>all<br>obscure<br>magic<br>genre<br>crucial<br>crunch<br>dust<br>yellow<br>connect |  
+| bip_39_word_new_br12 | theme<br>cream<br>all<br>obscure<br>magic<br>genre<br>crucial<br>crunch<br>dust<br>yellow<br>connect<br>advance |  
+| bip_39_word_new_br2 | theme<br>cream |  
+| bip_39_word_new_br3 | theme<br>cream<br>all |  
+| bip_39_word_new_br4 | theme<br>cream<br>all<br>obscure |  
+| bip_39_word_new_br5 | theme<br>cream<br>all<br>obscure<br>magic |  
+| bip_39_word_new_br6 | theme<br>cream<br>all<br>obscure<br>magic<br>genre |  
+| bip_39_word_new_br7 | theme<br>cream<br>all<br>obscure<br>magic<br>genre<br>crucial |  
+| bip_39_word_new_br8 | theme<br>cream<br>all<br>obscure<br>magic<br>genre<br>crucial<br>crunch |  
+| bip_39_word_new_br9 | theme<br>cream<br>all<br>obscure<br>magic<br>genre<br>crucial<br>crunch<br>dust |  
+| bip_39_word_new_line1 | theme |  
+| bip_39_word_new_line10 | theme
+cream
+all
+obscure
+magic
+genre
+crucial
+crunch
+dust
+yellow |  
+| bip_39_word_new_line11 | theme
+cream
+all
+obscure
+magic
+genre
+crucial
+crunch
+dust
+yellow
+connect |  
+| bip_39_word_new_line12 | theme
+cream
+all
+obscure
+magic
+genre
+crucial
+crunch
+dust
+yellow
+connect
+advance |  
+| bip_39_word_new_line2 | theme
+cream |  
+| bip_39_word_new_line3 | theme
+cream
+all |  
+| bip_39_word_new_line4 | theme
+cream
+all
+obscure |  
+| bip_39_word_new_line5 | theme
+cream
+all
+obscure
+magic |  
+| bip_39_word_new_line6 | theme
+cream
+all
+obscure
+magic
+genre |  
+| bip_39_word_new_line7 | theme
+cream
+all
+obscure
+magic
+genre
+crucial |  
+| bip_39_word_new_line8 | theme
+cream
+all
+obscure
+magic
+genre
+crucial
+crunch |  
+| bip_39_word_new_line9 | theme
+cream
+all
+obscure
+magic
+genre
+crucial
+crunch
+dust |  
+| bip_39_word_space_0 | ['theme', 'cream', 'all', 'obscure', 'magic', 'genre', 'crucial', 'crunch', 'dust', 'yellow', 'connect', 'advance'] |  
+| bip_39_word_space_1 | theme |  
+| bip_39_word_space_10 | theme cream all obscure magic genre crucial crunch dust yellow |  
+| bip_39_word_space_11 | theme cream all obscure magic genre crucial crunch dust yellow connect |  
+| bip_39_word_space_12 | theme cream all obscure magic genre crucial crunch dust yellow connect advance |  
+| bip_39_word_space_2 | theme cream |  
+| bip_39_word_space_3 | theme cream all |  
+| bip_39_word_space_4 | theme cream all obscure |  
+| bip_39_word_space_5 | theme cream all obscure magic |  
+| bip_39_word_space_6 | theme cream all obscure magic genre |  
+| bip_39_word_space_7 | theme cream all obscure magic genre crucial |  
+| bip_39_word_space_8 | theme cream all obscure magic genre crucial crunch |  
+| bip_39_word_space_9 | theme cream all obscure magic genre crucial crunch dust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

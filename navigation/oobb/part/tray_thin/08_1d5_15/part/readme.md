@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: donkey crucial
+  * bip 39 word 3: donkey crucial limit
+  * bip 39 word: donkey crucial limit demand upon citizen deal alien van thumb page also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | donkey |  
+| bip_39_word_new_br10 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van<br>thumb |  
+| bip_39_word_new_br11 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van<br>thumb<br>page |  
+| bip_39_word_new_br12 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van<br>thumb<br>page<br>also |  
+| bip_39_word_new_br2 | donkey<br>crucial |  
+| bip_39_word_new_br3 | donkey<br>crucial<br>limit |  
+| bip_39_word_new_br4 | donkey<br>crucial<br>limit<br>demand |  
+| bip_39_word_new_br5 | donkey<br>crucial<br>limit<br>demand<br>upon |  
+| bip_39_word_new_br6 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen |  
+| bip_39_word_new_br7 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal |  
+| bip_39_word_new_br8 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien |  
+| bip_39_word_new_br9 | donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van |  
+| bip_39_word_new_line1 | donkey |  
+| bip_39_word_new_line10 | donkey
+crucial
+limit
+demand
+upon
+citizen
+deal
+alien
+van
+thumb |  
+| bip_39_word_new_line11 | donkey
+crucial
+limit
+demand
+upon
+citizen
+deal
+alien
+van
+thumb
+page |  
+| bip_39_word_new_line12 | donkey
+crucial
+limit
+demand
+upon
+citizen
+deal
+alien
+van
+thumb
+page
+also |  
+| bip_39_word_new_line2 | donkey
+crucial |  
+| bip_39_word_new_line3 | donkey
+crucial
+limit |  
+| bip_39_word_new_line4 | donkey
+crucial
+limit
+demand |  
+| bip_39_word_new_line5 | donkey
+crucial
+limit
+demand
+upon |  
+| bip_39_word_new_line6 | donkey
+crucial
+limit
+demand
+upon
+citizen |  
+| bip_39_word_new_line7 | donkey
+crucial
+limit
+demand
+upon
+citizen
+deal |  
+| bip_39_word_new_line8 | donkey
+crucial
+limit
+demand
+upon
+citizen
+deal
+alien |  
+| bip_39_word_new_line9 | donkey
+crucial
+limit
+demand
+upon
+citizen
+deal
+alien
+van |  
+| bip_39_word_space_0 | ['donkey', 'crucial', 'limit', 'demand', 'upon', 'citizen', 'deal', 'alien', 'van', 'thumb', 'page', 'also'] |  
+| bip_39_word_space_1 | donkey |  
+| bip_39_word_space_10 | donkey crucial limit demand upon citizen deal alien van thumb |  
+| bip_39_word_space_11 | donkey crucial limit demand upon citizen deal alien van thumb page |  
+| bip_39_word_space_12 | donkey crucial limit demand upon citizen deal alien van thumb page also |  
+| bip_39_word_space_2 | donkey crucial |  
+| bip_39_word_space_3 | donkey crucial limit |  
+| bip_39_word_space_4 | donkey crucial limit demand |  
+| bip_39_word_space_5 | donkey crucial limit demand upon |  
+| bip_39_word_space_6 | donkey crucial limit demand upon citizen |  
+| bip_39_word_space_7 | donkey crucial limit demand upon citizen deal |  
+| bip_39_word_space_8 | donkey crucial limit demand upon citizen deal alien |  
+| bip_39_word_space_9 | donkey crucial limit demand upon citizen deal alien van |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

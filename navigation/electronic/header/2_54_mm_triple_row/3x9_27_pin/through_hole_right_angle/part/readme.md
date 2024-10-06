@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: attitude dune
+  * bip 39 word 3: attitude dune very
+  * bip 39 word: attitude dune very office legal adjust require ticket staff unknown wheat all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | attitude |  
+| bip_39_word_new_br10 | attitude<br>dune<br>very<br>office<br>legal<br>adjust<br>require<br>ticket<br>staff<br>unknown |  
+| bip_39_word_new_br11 | attitude<br>dune<br>very<br>office<br>legal<br>adjust<br>require<br>ticket<br>staff<br>unknown<br>wheat |  
+| bip_39_word_new_br12 | attitude<br>dune<br>very<br>office<br>legal<br>adjust<br>require<br>ticket<br>staff<br>unknown<br>wheat<br>all |  
+| bip_39_word_new_br2 | attitude<br>dune |  
+| bip_39_word_new_br3 | attitude<br>dune<br>very |  
+| bip_39_word_new_br4 | attitude<br>dune<br>very<br>office |  
+| bip_39_word_new_br5 | attitude<br>dune<br>very<br>office<br>legal |  
+| bip_39_word_new_br6 | attitude<br>dune<br>very<br>office<br>legal<br>adjust |  
+| bip_39_word_new_br7 | attitude<br>dune<br>very<br>office<br>legal<br>adjust<br>require |  
+| bip_39_word_new_br8 | attitude<br>dune<br>very<br>office<br>legal<br>adjust<br>require<br>ticket |  
+| bip_39_word_new_br9 | attitude<br>dune<br>very<br>office<br>legal<br>adjust<br>require<br>ticket<br>staff |  
+| bip_39_word_new_line1 | attitude |  
+| bip_39_word_new_line10 | attitude
+dune
+very
+office
+legal
+adjust
+require
+ticket
+staff
+unknown |  
+| bip_39_word_new_line11 | attitude
+dune
+very
+office
+legal
+adjust
+require
+ticket
+staff
+unknown
+wheat |  
+| bip_39_word_new_line12 | attitude
+dune
+very
+office
+legal
+adjust
+require
+ticket
+staff
+unknown
+wheat
+all |  
+| bip_39_word_new_line2 | attitude
+dune |  
+| bip_39_word_new_line3 | attitude
+dune
+very |  
+| bip_39_word_new_line4 | attitude
+dune
+very
+office |  
+| bip_39_word_new_line5 | attitude
+dune
+very
+office
+legal |  
+| bip_39_word_new_line6 | attitude
+dune
+very
+office
+legal
+adjust |  
+| bip_39_word_new_line7 | attitude
+dune
+very
+office
+legal
+adjust
+require |  
+| bip_39_word_new_line8 | attitude
+dune
+very
+office
+legal
+adjust
+require
+ticket |  
+| bip_39_word_new_line9 | attitude
+dune
+very
+office
+legal
+adjust
+require
+ticket
+staff |  
+| bip_39_word_space_0 | ['attitude', 'dune', 'very', 'office', 'legal', 'adjust', 'require', 'ticket', 'staff', 'unknown', 'wheat', 'all'] |  
+| bip_39_word_space_1 | attitude |  
+| bip_39_word_space_10 | attitude dune very office legal adjust require ticket staff unknown |  
+| bip_39_word_space_11 | attitude dune very office legal adjust require ticket staff unknown wheat |  
+| bip_39_word_space_12 | attitude dune very office legal adjust require ticket staff unknown wheat all |  
+| bip_39_word_space_2 | attitude dune |  
+| bip_39_word_space_3 | attitude dune very |  
+| bip_39_word_space_4 | attitude dune very office |  
+| bip_39_word_space_5 | attitude dune very office legal |  
+| bip_39_word_space_6 | attitude dune very office legal adjust |  
+| bip_39_word_space_7 | attitude dune very office legal adjust require |  
+| bip_39_word_space_8 | attitude dune very office legal adjust require ticket |  
+| bip_39_word_space_9 | attitude dune very office legal adjust require ticket staff |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wreck blue
+  * bip 39 word 3: wreck blue laptop
+  * bip 39 word: wreck blue laptop flame destroy pelican feature dance glare inch chef animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wreck |  
+| bip_39_word_new_br10 | wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican<br>feature<br>dance<br>glare<br>inch |  
+| bip_39_word_new_br11 | wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican<br>feature<br>dance<br>glare<br>inch<br>chef |  
+| bip_39_word_new_br12 | wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican<br>feature<br>dance<br>glare<br>inch<br>chef<br>animal |  
+| bip_39_word_new_br2 | wreck<br>blue |  
+| bip_39_word_new_br3 | wreck<br>blue<br>laptop |  
+| bip_39_word_new_br4 | wreck<br>blue<br>laptop<br>flame |  
+| bip_39_word_new_br5 | wreck<br>blue<br>laptop<br>flame<br>destroy |  
+| bip_39_word_new_br6 | wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican |  
+| bip_39_word_new_br7 | wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican<br>feature |  
+| bip_39_word_new_br8 | wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican<br>feature<br>dance |  
+| bip_39_word_new_br9 | wreck<br>blue<br>laptop<br>flame<br>destroy<br>pelican<br>feature<br>dance<br>glare |  
+| bip_39_word_new_line1 | wreck |  
+| bip_39_word_new_line10 | wreck
+blue
+laptop
+flame
+destroy
+pelican
+feature
+dance
+glare
+inch |  
+| bip_39_word_new_line11 | wreck
+blue
+laptop
+flame
+destroy
+pelican
+feature
+dance
+glare
+inch
+chef |  
+| bip_39_word_new_line12 | wreck
+blue
+laptop
+flame
+destroy
+pelican
+feature
+dance
+glare
+inch
+chef
+animal |  
+| bip_39_word_new_line2 | wreck
+blue |  
+| bip_39_word_new_line3 | wreck
+blue
+laptop |  
+| bip_39_word_new_line4 | wreck
+blue
+laptop
+flame |  
+| bip_39_word_new_line5 | wreck
+blue
+laptop
+flame
+destroy |  
+| bip_39_word_new_line6 | wreck
+blue
+laptop
+flame
+destroy
+pelican |  
+| bip_39_word_new_line7 | wreck
+blue
+laptop
+flame
+destroy
+pelican
+feature |  
+| bip_39_word_new_line8 | wreck
+blue
+laptop
+flame
+destroy
+pelican
+feature
+dance |  
+| bip_39_word_new_line9 | wreck
+blue
+laptop
+flame
+destroy
+pelican
+feature
+dance
+glare |  
+| bip_39_word_space_0 | ['wreck', 'blue', 'laptop', 'flame', 'destroy', 'pelican', 'feature', 'dance', 'glare', 'inch', 'chef', 'animal'] |  
+| bip_39_word_space_1 | wreck |  
+| bip_39_word_space_10 | wreck blue laptop flame destroy pelican feature dance glare inch |  
+| bip_39_word_space_11 | wreck blue laptop flame destroy pelican feature dance glare inch chef |  
+| bip_39_word_space_12 | wreck blue laptop flame destroy pelican feature dance glare inch chef animal |  
+| bip_39_word_space_2 | wreck blue |  
+| bip_39_word_space_3 | wreck blue laptop |  
+| bip_39_word_space_4 | wreck blue laptop flame |  
+| bip_39_word_space_5 | wreck blue laptop flame destroy |  
+| bip_39_word_space_6 | wreck blue laptop flame destroy pelican |  
+| bip_39_word_space_7 | wreck blue laptop flame destroy pelican feature |  
+| bip_39_word_space_8 | wreck blue laptop flame destroy pelican feature dance |  
+| bip_39_word_space_9 | wreck blue laptop flame destroy pelican feature dance glare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

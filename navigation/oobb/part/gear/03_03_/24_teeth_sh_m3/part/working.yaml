@@ -1,3 +1,186 @@
+bip_39_word_new_br1: curious
+bip_39_word_new_br10: curious<br>coach<br>retire<br>never<br>hungry<br>ice<br>peace<br>travel<br>friend<br>finish
+bip_39_word_new_br11: curious<br>coach<br>retire<br>never<br>hungry<br>ice<br>peace<br>travel<br>friend<br>finish<br>lazy
+bip_39_word_new_br12: curious<br>coach<br>retire<br>never<br>hungry<br>ice<br>peace<br>travel<br>friend<br>finish<br>lazy<br>aisle
+bip_39_word_new_br2: curious<br>coach
+bip_39_word_new_br3: curious<br>coach<br>retire
+bip_39_word_new_br4: curious<br>coach<br>retire<br>never
+bip_39_word_new_br5: curious<br>coach<br>retire<br>never<br>hungry
+bip_39_word_new_br6: curious<br>coach<br>retire<br>never<br>hungry<br>ice
+bip_39_word_new_br7: curious<br>coach<br>retire<br>never<br>hungry<br>ice<br>peace
+bip_39_word_new_br8: curious<br>coach<br>retire<br>never<br>hungry<br>ice<br>peace<br>travel
+bip_39_word_new_br9: curious<br>coach<br>retire<br>never<br>hungry<br>ice<br>peace<br>travel<br>friend
+bip_39_word_new_line1: curious
+bip_39_word_new_line10: 'curious
+
+  coach
+
+  retire
+
+  never
+
+  hungry
+
+  ice
+
+  peace
+
+  travel
+
+  friend
+
+  finish'
+bip_39_word_new_line11: 'curious
+
+  coach
+
+  retire
+
+  never
+
+  hungry
+
+  ice
+
+  peace
+
+  travel
+
+  friend
+
+  finish
+
+  lazy'
+bip_39_word_new_line12: 'curious
+
+  coach
+
+  retire
+
+  never
+
+  hungry
+
+  ice
+
+  peace
+
+  travel
+
+  friend
+
+  finish
+
+  lazy
+
+  aisle'
+bip_39_word_new_line2: 'curious
+
+  coach'
+bip_39_word_new_line3: 'curious
+
+  coach
+
+  retire'
+bip_39_word_new_line4: 'curious
+
+  coach
+
+  retire
+
+  never'
+bip_39_word_new_line5: 'curious
+
+  coach
+
+  retire
+
+  never
+
+  hungry'
+bip_39_word_new_line6: 'curious
+
+  coach
+
+  retire
+
+  never
+
+  hungry
+
+  ice'
+bip_39_word_new_line7: 'curious
+
+  coach
+
+  retire
+
+  never
+
+  hungry
+
+  ice
+
+  peace'
+bip_39_word_new_line8: 'curious
+
+  coach
+
+  retire
+
+  never
+
+  hungry
+
+  ice
+
+  peace
+
+  travel'
+bip_39_word_new_line9: 'curious
+
+  coach
+
+  retire
+
+  never
+
+  hungry
+
+  ice
+
+  peace
+
+  travel
+
+  friend'
+bip_39_word_space_0:
+- curious
+- coach
+- retire
+- never
+- hungry
+- ice
+- peace
+- travel
+- friend
+- finish
+- lazy
+- aisle
+bip_39_word_space_1: curious
+bip_39_word_space_10: curious coach retire never hungry ice peace travel friend finish
+bip_39_word_space_11: curious coach retire never hungry ice peace travel friend finish
+  lazy
+bip_39_word_space_12: curious coach retire never hungry ice peace travel friend finish
+  lazy aisle
+bip_39_word_space_2: curious coach
+bip_39_word_space_3: curious coach retire
+bip_39_word_space_4: curious coach retire never
+bip_39_word_space_5: curious coach retire never hungry
+bip_39_word_space_6: curious coach retire never hungry ice
+bip_39_word_space_7: curious coach retire never hungry ice peace
+bip_39_word_space_8: curious coach retire never hungry ice peace travel
+bip_39_word_space_9: curious coach retire never hungry ice peace travel friend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

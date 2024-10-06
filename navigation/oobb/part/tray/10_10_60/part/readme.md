@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pipe sausage
+  * bip 39 word 3: pipe sausage quit
+  * bip 39 word: pipe sausage quit badge cup guide make fix absorb combine surge animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pipe |  
+| bip_39_word_new_br10 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide<br>make<br>fix<br>absorb<br>combine |  
+| bip_39_word_new_br11 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide<br>make<br>fix<br>absorb<br>combine<br>surge |  
+| bip_39_word_new_br12 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide<br>make<br>fix<br>absorb<br>combine<br>surge<br>animal |  
+| bip_39_word_new_br2 | pipe<br>sausage |  
+| bip_39_word_new_br3 | pipe<br>sausage<br>quit |  
+| bip_39_word_new_br4 | pipe<br>sausage<br>quit<br>badge |  
+| bip_39_word_new_br5 | pipe<br>sausage<br>quit<br>badge<br>cup |  
+| bip_39_word_new_br6 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide |  
+| bip_39_word_new_br7 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide<br>make |  
+| bip_39_word_new_br8 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide<br>make<br>fix |  
+| bip_39_word_new_br9 | pipe<br>sausage<br>quit<br>badge<br>cup<br>guide<br>make<br>fix<br>absorb |  
+| bip_39_word_new_line1 | pipe |  
+| bip_39_word_new_line10 | pipe
+sausage
+quit
+badge
+cup
+guide
+make
+fix
+absorb
+combine |  
+| bip_39_word_new_line11 | pipe
+sausage
+quit
+badge
+cup
+guide
+make
+fix
+absorb
+combine
+surge |  
+| bip_39_word_new_line12 | pipe
+sausage
+quit
+badge
+cup
+guide
+make
+fix
+absorb
+combine
+surge
+animal |  
+| bip_39_word_new_line2 | pipe
+sausage |  
+| bip_39_word_new_line3 | pipe
+sausage
+quit |  
+| bip_39_word_new_line4 | pipe
+sausage
+quit
+badge |  
+| bip_39_word_new_line5 | pipe
+sausage
+quit
+badge
+cup |  
+| bip_39_word_new_line6 | pipe
+sausage
+quit
+badge
+cup
+guide |  
+| bip_39_word_new_line7 | pipe
+sausage
+quit
+badge
+cup
+guide
+make |  
+| bip_39_word_new_line8 | pipe
+sausage
+quit
+badge
+cup
+guide
+make
+fix |  
+| bip_39_word_new_line9 | pipe
+sausage
+quit
+badge
+cup
+guide
+make
+fix
+absorb |  
+| bip_39_word_space_0 | ['pipe', 'sausage', 'quit', 'badge', 'cup', 'guide', 'make', 'fix', 'absorb', 'combine', 'surge', 'animal'] |  
+| bip_39_word_space_1 | pipe |  
+| bip_39_word_space_10 | pipe sausage quit badge cup guide make fix absorb combine |  
+| bip_39_word_space_11 | pipe sausage quit badge cup guide make fix absorb combine surge |  
+| bip_39_word_space_12 | pipe sausage quit badge cup guide make fix absorb combine surge animal |  
+| bip_39_word_space_2 | pipe sausage |  
+| bip_39_word_space_3 | pipe sausage quit |  
+| bip_39_word_space_4 | pipe sausage quit badge |  
+| bip_39_word_space_5 | pipe sausage quit badge cup |  
+| bip_39_word_space_6 | pipe sausage quit badge cup guide |  
+| bip_39_word_space_7 | pipe sausage quit badge cup guide make |  
+| bip_39_word_space_8 | pipe sausage quit badge cup guide make fix |  
+| bip_39_word_space_9 | pipe sausage quit badge cup guide make fix absorb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alley curious
+  * bip 39 word 3: alley curious arch
+  * bip 39 word: alley curious arch topic other forget afraid script dumb diary blouse amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alley |  
+| bip_39_word_new_br10 | alley<br>curious<br>arch<br>topic<br>other<br>forget<br>afraid<br>script<br>dumb<br>diary |  
+| bip_39_word_new_br11 | alley<br>curious<br>arch<br>topic<br>other<br>forget<br>afraid<br>script<br>dumb<br>diary<br>blouse |  
+| bip_39_word_new_br12 | alley<br>curious<br>arch<br>topic<br>other<br>forget<br>afraid<br>script<br>dumb<br>diary<br>blouse<br>amount |  
+| bip_39_word_new_br2 | alley<br>curious |  
+| bip_39_word_new_br3 | alley<br>curious<br>arch |  
+| bip_39_word_new_br4 | alley<br>curious<br>arch<br>topic |  
+| bip_39_word_new_br5 | alley<br>curious<br>arch<br>topic<br>other |  
+| bip_39_word_new_br6 | alley<br>curious<br>arch<br>topic<br>other<br>forget |  
+| bip_39_word_new_br7 | alley<br>curious<br>arch<br>topic<br>other<br>forget<br>afraid |  
+| bip_39_word_new_br8 | alley<br>curious<br>arch<br>topic<br>other<br>forget<br>afraid<br>script |  
+| bip_39_word_new_br9 | alley<br>curious<br>arch<br>topic<br>other<br>forget<br>afraid<br>script<br>dumb |  
+| bip_39_word_new_line1 | alley |  
+| bip_39_word_new_line10 | alley
+curious
+arch
+topic
+other
+forget
+afraid
+script
+dumb
+diary |  
+| bip_39_word_new_line11 | alley
+curious
+arch
+topic
+other
+forget
+afraid
+script
+dumb
+diary
+blouse |  
+| bip_39_word_new_line12 | alley
+curious
+arch
+topic
+other
+forget
+afraid
+script
+dumb
+diary
+blouse
+amount |  
+| bip_39_word_new_line2 | alley
+curious |  
+| bip_39_word_new_line3 | alley
+curious
+arch |  
+| bip_39_word_new_line4 | alley
+curious
+arch
+topic |  
+| bip_39_word_new_line5 | alley
+curious
+arch
+topic
+other |  
+| bip_39_word_new_line6 | alley
+curious
+arch
+topic
+other
+forget |  
+| bip_39_word_new_line7 | alley
+curious
+arch
+topic
+other
+forget
+afraid |  
+| bip_39_word_new_line8 | alley
+curious
+arch
+topic
+other
+forget
+afraid
+script |  
+| bip_39_word_new_line9 | alley
+curious
+arch
+topic
+other
+forget
+afraid
+script
+dumb |  
+| bip_39_word_space_0 | ['alley', 'curious', 'arch', 'topic', 'other', 'forget', 'afraid', 'script', 'dumb', 'diary', 'blouse', 'amount'] |  
+| bip_39_word_space_1 | alley |  
+| bip_39_word_space_10 | alley curious arch topic other forget afraid script dumb diary |  
+| bip_39_word_space_11 | alley curious arch topic other forget afraid script dumb diary blouse |  
+| bip_39_word_space_12 | alley curious arch topic other forget afraid script dumb diary blouse amount |  
+| bip_39_word_space_2 | alley curious |  
+| bip_39_word_space_3 | alley curious arch |  
+| bip_39_word_space_4 | alley curious arch topic |  
+| bip_39_word_space_5 | alley curious arch topic other |  
+| bip_39_word_space_6 | alley curious arch topic other forget |  
+| bip_39_word_space_7 | alley curious arch topic other forget afraid |  
+| bip_39_word_space_8 | alley curious arch topic other forget afraid script |  
+| bip_39_word_space_9 | alley curious arch topic other forget afraid script dumb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

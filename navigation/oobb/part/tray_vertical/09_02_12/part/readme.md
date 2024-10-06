@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bounce suffer
+  * bip 39 word 3: bounce suffer cover
+  * bip 39 word: bounce suffer cover pretty quote access dismiss pool luggage eight invest admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bounce |  
+| bip_39_word_new_br10 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access<br>dismiss<br>pool<br>luggage<br>eight |  
+| bip_39_word_new_br11 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access<br>dismiss<br>pool<br>luggage<br>eight<br>invest |  
+| bip_39_word_new_br12 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access<br>dismiss<br>pool<br>luggage<br>eight<br>invest<br>admit |  
+| bip_39_word_new_br2 | bounce<br>suffer |  
+| bip_39_word_new_br3 | bounce<br>suffer<br>cover |  
+| bip_39_word_new_br4 | bounce<br>suffer<br>cover<br>pretty |  
+| bip_39_word_new_br5 | bounce<br>suffer<br>cover<br>pretty<br>quote |  
+| bip_39_word_new_br6 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access |  
+| bip_39_word_new_br7 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access<br>dismiss |  
+| bip_39_word_new_br8 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access<br>dismiss<br>pool |  
+| bip_39_word_new_br9 | bounce<br>suffer<br>cover<br>pretty<br>quote<br>access<br>dismiss<br>pool<br>luggage |  
+| bip_39_word_new_line1 | bounce |  
+| bip_39_word_new_line10 | bounce
+suffer
+cover
+pretty
+quote
+access
+dismiss
+pool
+luggage
+eight |  
+| bip_39_word_new_line11 | bounce
+suffer
+cover
+pretty
+quote
+access
+dismiss
+pool
+luggage
+eight
+invest |  
+| bip_39_word_new_line12 | bounce
+suffer
+cover
+pretty
+quote
+access
+dismiss
+pool
+luggage
+eight
+invest
+admit |  
+| bip_39_word_new_line2 | bounce
+suffer |  
+| bip_39_word_new_line3 | bounce
+suffer
+cover |  
+| bip_39_word_new_line4 | bounce
+suffer
+cover
+pretty |  
+| bip_39_word_new_line5 | bounce
+suffer
+cover
+pretty
+quote |  
+| bip_39_word_new_line6 | bounce
+suffer
+cover
+pretty
+quote
+access |  
+| bip_39_word_new_line7 | bounce
+suffer
+cover
+pretty
+quote
+access
+dismiss |  
+| bip_39_word_new_line8 | bounce
+suffer
+cover
+pretty
+quote
+access
+dismiss
+pool |  
+| bip_39_word_new_line9 | bounce
+suffer
+cover
+pretty
+quote
+access
+dismiss
+pool
+luggage |  
+| bip_39_word_space_0 | ['bounce', 'suffer', 'cover', 'pretty', 'quote', 'access', 'dismiss', 'pool', 'luggage', 'eight', 'invest', 'admit'] |  
+| bip_39_word_space_1 | bounce |  
+| bip_39_word_space_10 | bounce suffer cover pretty quote access dismiss pool luggage eight |  
+| bip_39_word_space_11 | bounce suffer cover pretty quote access dismiss pool luggage eight invest |  
+| bip_39_word_space_12 | bounce suffer cover pretty quote access dismiss pool luggage eight invest admit |  
+| bip_39_word_space_2 | bounce suffer |  
+| bip_39_word_space_3 | bounce suffer cover |  
+| bip_39_word_space_4 | bounce suffer cover pretty |  
+| bip_39_word_space_5 | bounce suffer cover pretty quote |  
+| bip_39_word_space_6 | bounce suffer cover pretty quote access |  
+| bip_39_word_space_7 | bounce suffer cover pretty quote access dismiss |  
+| bip_39_word_space_8 | bounce suffer cover pretty quote access dismiss pool |  
+| bip_39_word_space_9 | bounce suffer cover pretty quote access dismiss pool luggage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

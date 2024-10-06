@@ -1,3 +1,187 @@
+bip_39_word_new_br1: settle
+bip_39_word_new_br10: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify<br>august
+bip_39_word_new_br11: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify<br>august<br>sauce
+bip_39_word_new_br12: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify<br>august<br>sauce<br>appear
+bip_39_word_new_br2: settle<br>spawn
+bip_39_word_new_br3: settle<br>spawn<br>safe
+bip_39_word_new_br4: settle<br>spawn<br>safe<br>satoshi
+bip_39_word_new_br5: settle<br>spawn<br>safe<br>satoshi<br>wrong
+bip_39_word_new_br6: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle
+bip_39_word_new_br7: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture
+bip_39_word_new_br8: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction
+bip_39_word_new_br9: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify
+bip_39_word_new_line1: settle
+bip_39_word_new_line10: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction
+
+  identify
+
+  august'
+bip_39_word_new_line11: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction
+
+  identify
+
+  august
+
+  sauce'
+bip_39_word_new_line12: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction
+
+  identify
+
+  august
+
+  sauce
+
+  appear'
+bip_39_word_new_line2: 'settle
+
+  spawn'
+bip_39_word_new_line3: 'settle
+
+  spawn
+
+  safe'
+bip_39_word_new_line4: 'settle
+
+  spawn
+
+  safe
+
+  satoshi'
+bip_39_word_new_line5: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong'
+bip_39_word_new_line6: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle'
+bip_39_word_new_line7: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture'
+bip_39_word_new_line8: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction'
+bip_39_word_new_line9: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction
+
+  identify'
+bip_39_word_space_0:
+- settle
+- spawn
+- safe
+- satoshi
+- wrong
+- angle
+- venture
+- fiction
+- identify
+- august
+- sauce
+- appear
+bip_39_word_space_1: settle
+bip_39_word_space_10: settle spawn safe satoshi wrong angle venture fiction identify
+  august
+bip_39_word_space_11: settle spawn safe satoshi wrong angle venture fiction identify
+  august sauce
+bip_39_word_space_12: settle spawn safe satoshi wrong angle venture fiction identify
+  august sauce appear
+bip_39_word_space_2: settle spawn
+bip_39_word_space_3: settle spawn safe
+bip_39_word_space_4: settle spawn safe satoshi
+bip_39_word_space_5: settle spawn safe satoshi wrong
+bip_39_word_space_6: settle spawn safe satoshi wrong angle
+bip_39_word_space_7: settle spawn safe satoshi wrong angle venture
+bip_39_word_space_8: settle spawn safe satoshi wrong angle venture fiction
+bip_39_word_space_9: settle spawn safe satoshi wrong angle venture fiction identify
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

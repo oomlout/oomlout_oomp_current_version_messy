@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: snow injury
+  * bip 39 word 3: snow injury immune
+  * bip 39 word: snow injury immune wool weekend question fold merit sadness slender mule also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | snow |  
+| bip_39_word_new_br10 | snow<br>injury<br>immune<br>wool<br>weekend<br>question<br>fold<br>merit<br>sadness<br>slender |  
+| bip_39_word_new_br11 | snow<br>injury<br>immune<br>wool<br>weekend<br>question<br>fold<br>merit<br>sadness<br>slender<br>mule |  
+| bip_39_word_new_br12 | snow<br>injury<br>immune<br>wool<br>weekend<br>question<br>fold<br>merit<br>sadness<br>slender<br>mule<br>also |  
+| bip_39_word_new_br2 | snow<br>injury |  
+| bip_39_word_new_br3 | snow<br>injury<br>immune |  
+| bip_39_word_new_br4 | snow<br>injury<br>immune<br>wool |  
+| bip_39_word_new_br5 | snow<br>injury<br>immune<br>wool<br>weekend |  
+| bip_39_word_new_br6 | snow<br>injury<br>immune<br>wool<br>weekend<br>question |  
+| bip_39_word_new_br7 | snow<br>injury<br>immune<br>wool<br>weekend<br>question<br>fold |  
+| bip_39_word_new_br8 | snow<br>injury<br>immune<br>wool<br>weekend<br>question<br>fold<br>merit |  
+| bip_39_word_new_br9 | snow<br>injury<br>immune<br>wool<br>weekend<br>question<br>fold<br>merit<br>sadness |  
+| bip_39_word_new_line1 | snow |  
+| bip_39_word_new_line10 | snow
+injury
+immune
+wool
+weekend
+question
+fold
+merit
+sadness
+slender |  
+| bip_39_word_new_line11 | snow
+injury
+immune
+wool
+weekend
+question
+fold
+merit
+sadness
+slender
+mule |  
+| bip_39_word_new_line12 | snow
+injury
+immune
+wool
+weekend
+question
+fold
+merit
+sadness
+slender
+mule
+also |  
+| bip_39_word_new_line2 | snow
+injury |  
+| bip_39_word_new_line3 | snow
+injury
+immune |  
+| bip_39_word_new_line4 | snow
+injury
+immune
+wool |  
+| bip_39_word_new_line5 | snow
+injury
+immune
+wool
+weekend |  
+| bip_39_word_new_line6 | snow
+injury
+immune
+wool
+weekend
+question |  
+| bip_39_word_new_line7 | snow
+injury
+immune
+wool
+weekend
+question
+fold |  
+| bip_39_word_new_line8 | snow
+injury
+immune
+wool
+weekend
+question
+fold
+merit |  
+| bip_39_word_new_line9 | snow
+injury
+immune
+wool
+weekend
+question
+fold
+merit
+sadness |  
+| bip_39_word_space_0 | ['snow', 'injury', 'immune', 'wool', 'weekend', 'question', 'fold', 'merit', 'sadness', 'slender', 'mule', 'also'] |  
+| bip_39_word_space_1 | snow |  
+| bip_39_word_space_10 | snow injury immune wool weekend question fold merit sadness slender |  
+| bip_39_word_space_11 | snow injury immune wool weekend question fold merit sadness slender mule |  
+| bip_39_word_space_12 | snow injury immune wool weekend question fold merit sadness slender mule also |  
+| bip_39_word_space_2 | snow injury |  
+| bip_39_word_space_3 | snow injury immune |  
+| bip_39_word_space_4 | snow injury immune wool |  
+| bip_39_word_space_5 | snow injury immune wool weekend |  
+| bip_39_word_space_6 | snow injury immune wool weekend question |  
+| bip_39_word_space_7 | snow injury immune wool weekend question fold |  
+| bip_39_word_space_8 | snow injury immune wool weekend question fold merit |  
+| bip_39_word_space_9 | snow injury immune wool weekend question fold merit sadness |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

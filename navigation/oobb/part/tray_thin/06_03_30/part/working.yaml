@@ -1,3 +1,186 @@
+bip_39_word_new_br1: genuine
+bip_39_word_new_br10: genuine<br>position<br>enable<br>tuna<br>proud<br>loop<br>note<br>toward<br>mother<br>fetch
+bip_39_word_new_br11: genuine<br>position<br>enable<br>tuna<br>proud<br>loop<br>note<br>toward<br>mother<br>fetch<br>autumn
+bip_39_word_new_br12: genuine<br>position<br>enable<br>tuna<br>proud<br>loop<br>note<br>toward<br>mother<br>fetch<br>autumn<br>attack
+bip_39_word_new_br2: genuine<br>position
+bip_39_word_new_br3: genuine<br>position<br>enable
+bip_39_word_new_br4: genuine<br>position<br>enable<br>tuna
+bip_39_word_new_br5: genuine<br>position<br>enable<br>tuna<br>proud
+bip_39_word_new_br6: genuine<br>position<br>enable<br>tuna<br>proud<br>loop
+bip_39_word_new_br7: genuine<br>position<br>enable<br>tuna<br>proud<br>loop<br>note
+bip_39_word_new_br8: genuine<br>position<br>enable<br>tuna<br>proud<br>loop<br>note<br>toward
+bip_39_word_new_br9: genuine<br>position<br>enable<br>tuna<br>proud<br>loop<br>note<br>toward<br>mother
+bip_39_word_new_line1: genuine
+bip_39_word_new_line10: 'genuine
+
+  position
+
+  enable
+
+  tuna
+
+  proud
+
+  loop
+
+  note
+
+  toward
+
+  mother
+
+  fetch'
+bip_39_word_new_line11: 'genuine
+
+  position
+
+  enable
+
+  tuna
+
+  proud
+
+  loop
+
+  note
+
+  toward
+
+  mother
+
+  fetch
+
+  autumn'
+bip_39_word_new_line12: 'genuine
+
+  position
+
+  enable
+
+  tuna
+
+  proud
+
+  loop
+
+  note
+
+  toward
+
+  mother
+
+  fetch
+
+  autumn
+
+  attack'
+bip_39_word_new_line2: 'genuine
+
+  position'
+bip_39_word_new_line3: 'genuine
+
+  position
+
+  enable'
+bip_39_word_new_line4: 'genuine
+
+  position
+
+  enable
+
+  tuna'
+bip_39_word_new_line5: 'genuine
+
+  position
+
+  enable
+
+  tuna
+
+  proud'
+bip_39_word_new_line6: 'genuine
+
+  position
+
+  enable
+
+  tuna
+
+  proud
+
+  loop'
+bip_39_word_new_line7: 'genuine
+
+  position
+
+  enable
+
+  tuna
+
+  proud
+
+  loop
+
+  note'
+bip_39_word_new_line8: 'genuine
+
+  position
+
+  enable
+
+  tuna
+
+  proud
+
+  loop
+
+  note
+
+  toward'
+bip_39_word_new_line9: 'genuine
+
+  position
+
+  enable
+
+  tuna
+
+  proud
+
+  loop
+
+  note
+
+  toward
+
+  mother'
+bip_39_word_space_0:
+- genuine
+- position
+- enable
+- tuna
+- proud
+- loop
+- note
+- toward
+- mother
+- fetch
+- autumn
+- attack
+bip_39_word_space_1: genuine
+bip_39_word_space_10: genuine position enable tuna proud loop note toward mother fetch
+bip_39_word_space_11: genuine position enable tuna proud loop note toward mother fetch
+  autumn
+bip_39_word_space_12: genuine position enable tuna proud loop note toward mother fetch
+  autumn attack
+bip_39_word_space_2: genuine position
+bip_39_word_space_3: genuine position enable
+bip_39_word_space_4: genuine position enable tuna
+bip_39_word_space_5: genuine position enable tuna proud
+bip_39_word_space_6: genuine position enable tuna proud loop
+bip_39_word_space_7: genuine position enable tuna proud loop note
+bip_39_word_space_8: genuine position enable tuna proud loop note toward
+bip_39_word_space_9: genuine position enable tuna proud loop note toward mother
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

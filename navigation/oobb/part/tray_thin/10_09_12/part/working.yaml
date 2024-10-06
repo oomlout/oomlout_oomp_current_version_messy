@@ -1,3 +1,186 @@
+bip_39_word_new_br1: slim
+bip_39_word_new_br10: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy<br>exchange
+bip_39_word_new_br11: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy<br>exchange<br>priority
+bip_39_word_new_br12: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy<br>exchange<br>priority<br>attract
+bip_39_word_new_br2: slim<br>just
+bip_39_word_new_br3: slim<br>just<br>evil
+bip_39_word_new_br4: slim<br>just<br>evil<br>sketch
+bip_39_word_new_br5: slim<br>just<br>evil<br>sketch<br>title
+bip_39_word_new_br6: slim<br>just<br>evil<br>sketch<br>title<br>junior
+bip_39_word_new_br7: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit
+bip_39_word_new_br8: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text
+bip_39_word_new_br9: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy
+bip_39_word_new_line1: slim
+bip_39_word_new_line10: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text
+
+  candy
+
+  exchange'
+bip_39_word_new_line11: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text
+
+  candy
+
+  exchange
+
+  priority'
+bip_39_word_new_line12: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text
+
+  candy
+
+  exchange
+
+  priority
+
+  attract'
+bip_39_word_new_line2: 'slim
+
+  just'
+bip_39_word_new_line3: 'slim
+
+  just
+
+  evil'
+bip_39_word_new_line4: 'slim
+
+  just
+
+  evil
+
+  sketch'
+bip_39_word_new_line5: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title'
+bip_39_word_new_line6: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior'
+bip_39_word_new_line7: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit'
+bip_39_word_new_line8: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text'
+bip_39_word_new_line9: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text
+
+  candy'
+bip_39_word_space_0:
+- slim
+- just
+- evil
+- sketch
+- title
+- junior
+- rabbit
+- text
+- candy
+- exchange
+- priority
+- attract
+bip_39_word_space_1: slim
+bip_39_word_space_10: slim just evil sketch title junior rabbit text candy exchange
+bip_39_word_space_11: slim just evil sketch title junior rabbit text candy exchange
+  priority
+bip_39_word_space_12: slim just evil sketch title junior rabbit text candy exchange
+  priority attract
+bip_39_word_space_2: slim just
+bip_39_word_space_3: slim just evil
+bip_39_word_space_4: slim just evil sketch
+bip_39_word_space_5: slim just evil sketch title
+bip_39_word_space_6: slim just evil sketch title junior
+bip_39_word_space_7: slim just evil sketch title junior rabbit
+bip_39_word_space_8: slim just evil sketch title junior rabbit text
+bip_39_word_space_9: slim just evil sketch title junior rabbit text candy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

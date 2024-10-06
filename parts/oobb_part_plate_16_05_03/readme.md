@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: annual path
+  * bip 39 word 3: annual path index
+  * bip 39 word: annual path index onion trigger dumb siren venture process coil visit achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | annual |  
+| bip_39_word_new_br10 | annual<br>path<br>index<br>onion<br>trigger<br>dumb<br>siren<br>venture<br>process<br>coil |  
+| bip_39_word_new_br11 | annual<br>path<br>index<br>onion<br>trigger<br>dumb<br>siren<br>venture<br>process<br>coil<br>visit |  
+| bip_39_word_new_br12 | annual<br>path<br>index<br>onion<br>trigger<br>dumb<br>siren<br>venture<br>process<br>coil<br>visit<br>achieve |  
+| bip_39_word_new_br2 | annual<br>path |  
+| bip_39_word_new_br3 | annual<br>path<br>index |  
+| bip_39_word_new_br4 | annual<br>path<br>index<br>onion |  
+| bip_39_word_new_br5 | annual<br>path<br>index<br>onion<br>trigger |  
+| bip_39_word_new_br6 | annual<br>path<br>index<br>onion<br>trigger<br>dumb |  
+| bip_39_word_new_br7 | annual<br>path<br>index<br>onion<br>trigger<br>dumb<br>siren |  
+| bip_39_word_new_br8 | annual<br>path<br>index<br>onion<br>trigger<br>dumb<br>siren<br>venture |  
+| bip_39_word_new_br9 | annual<br>path<br>index<br>onion<br>trigger<br>dumb<br>siren<br>venture<br>process |  
+| bip_39_word_new_line1 | annual |  
+| bip_39_word_new_line10 | annual
+path
+index
+onion
+trigger
+dumb
+siren
+venture
+process
+coil |  
+| bip_39_word_new_line11 | annual
+path
+index
+onion
+trigger
+dumb
+siren
+venture
+process
+coil
+visit |  
+| bip_39_word_new_line12 | annual
+path
+index
+onion
+trigger
+dumb
+siren
+venture
+process
+coil
+visit
+achieve |  
+| bip_39_word_new_line2 | annual
+path |  
+| bip_39_word_new_line3 | annual
+path
+index |  
+| bip_39_word_new_line4 | annual
+path
+index
+onion |  
+| bip_39_word_new_line5 | annual
+path
+index
+onion
+trigger |  
+| bip_39_word_new_line6 | annual
+path
+index
+onion
+trigger
+dumb |  
+| bip_39_word_new_line7 | annual
+path
+index
+onion
+trigger
+dumb
+siren |  
+| bip_39_word_new_line8 | annual
+path
+index
+onion
+trigger
+dumb
+siren
+venture |  
+| bip_39_word_new_line9 | annual
+path
+index
+onion
+trigger
+dumb
+siren
+venture
+process |  
+| bip_39_word_space_0 | ['annual', 'path', 'index', 'onion', 'trigger', 'dumb', 'siren', 'venture', 'process', 'coil', 'visit', 'achieve'] |  
+| bip_39_word_space_1 | annual |  
+| bip_39_word_space_10 | annual path index onion trigger dumb siren venture process coil |  
+| bip_39_word_space_11 | annual path index onion trigger dumb siren venture process coil visit |  
+| bip_39_word_space_12 | annual path index onion trigger dumb siren venture process coil visit achieve |  
+| bip_39_word_space_2 | annual path |  
+| bip_39_word_space_3 | annual path index |  
+| bip_39_word_space_4 | annual path index onion |  
+| bip_39_word_space_5 | annual path index onion trigger |  
+| bip_39_word_space_6 | annual path index onion trigger dumb |  
+| bip_39_word_space_7 | annual path index onion trigger dumb siren |  
+| bip_39_word_space_8 | annual path index onion trigger dumb siren venture |  
+| bip_39_word_space_9 | annual path index onion trigger dumb siren venture process |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: link virus
+  * bip 39 word 3: link virus shed
+  * bip 39 word: link virus shed win ridge pet minimum almost divorce can field analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | link |  
+| bip_39_word_new_br10 | link<br>virus<br>shed<br>win<br>ridge<br>pet<br>minimum<br>almost<br>divorce<br>can |  
+| bip_39_word_new_br11 | link<br>virus<br>shed<br>win<br>ridge<br>pet<br>minimum<br>almost<br>divorce<br>can<br>field |  
+| bip_39_word_new_br12 | link<br>virus<br>shed<br>win<br>ridge<br>pet<br>minimum<br>almost<br>divorce<br>can<br>field<br>analyst |  
+| bip_39_word_new_br2 | link<br>virus |  
+| bip_39_word_new_br3 | link<br>virus<br>shed |  
+| bip_39_word_new_br4 | link<br>virus<br>shed<br>win |  
+| bip_39_word_new_br5 | link<br>virus<br>shed<br>win<br>ridge |  
+| bip_39_word_new_br6 | link<br>virus<br>shed<br>win<br>ridge<br>pet |  
+| bip_39_word_new_br7 | link<br>virus<br>shed<br>win<br>ridge<br>pet<br>minimum |  
+| bip_39_word_new_br8 | link<br>virus<br>shed<br>win<br>ridge<br>pet<br>minimum<br>almost |  
+| bip_39_word_new_br9 | link<br>virus<br>shed<br>win<br>ridge<br>pet<br>minimum<br>almost<br>divorce |  
+| bip_39_word_new_line1 | link |  
+| bip_39_word_new_line10 | link
+virus
+shed
+win
+ridge
+pet
+minimum
+almost
+divorce
+can |  
+| bip_39_word_new_line11 | link
+virus
+shed
+win
+ridge
+pet
+minimum
+almost
+divorce
+can
+field |  
+| bip_39_word_new_line12 | link
+virus
+shed
+win
+ridge
+pet
+minimum
+almost
+divorce
+can
+field
+analyst |  
+| bip_39_word_new_line2 | link
+virus |  
+| bip_39_word_new_line3 | link
+virus
+shed |  
+| bip_39_word_new_line4 | link
+virus
+shed
+win |  
+| bip_39_word_new_line5 | link
+virus
+shed
+win
+ridge |  
+| bip_39_word_new_line6 | link
+virus
+shed
+win
+ridge
+pet |  
+| bip_39_word_new_line7 | link
+virus
+shed
+win
+ridge
+pet
+minimum |  
+| bip_39_word_new_line8 | link
+virus
+shed
+win
+ridge
+pet
+minimum
+almost |  
+| bip_39_word_new_line9 | link
+virus
+shed
+win
+ridge
+pet
+minimum
+almost
+divorce |  
+| bip_39_word_space_0 | ['link', 'virus', 'shed', 'win', 'ridge', 'pet', 'minimum', 'almost', 'divorce', 'can', 'field', 'analyst'] |  
+| bip_39_word_space_1 | link |  
+| bip_39_word_space_10 | link virus shed win ridge pet minimum almost divorce can |  
+| bip_39_word_space_11 | link virus shed win ridge pet minimum almost divorce can field |  
+| bip_39_word_space_12 | link virus shed win ridge pet minimum almost divorce can field analyst |  
+| bip_39_word_space_2 | link virus |  
+| bip_39_word_space_3 | link virus shed |  
+| bip_39_word_space_4 | link virus shed win |  
+| bip_39_word_space_5 | link virus shed win ridge |  
+| bip_39_word_space_6 | link virus shed win ridge pet |  
+| bip_39_word_space_7 | link virus shed win ridge pet minimum |  
+| bip_39_word_space_8 | link virus shed win ridge pet minimum almost |  
+| bip_39_word_space_9 | link virus shed win ridge pet minimum almost divorce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

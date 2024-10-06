@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fashion neck
+  * bip 39 word 3: fashion neck cabin
+  * bip 39 word: fashion neck cabin step slow icon outside bonus quantum army retire antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fashion |  
+| bip_39_word_new_br10 | fashion<br>neck<br>cabin<br>step<br>slow<br>icon<br>outside<br>bonus<br>quantum<br>army |  
+| bip_39_word_new_br11 | fashion<br>neck<br>cabin<br>step<br>slow<br>icon<br>outside<br>bonus<br>quantum<br>army<br>retire |  
+| bip_39_word_new_br12 | fashion<br>neck<br>cabin<br>step<br>slow<br>icon<br>outside<br>bonus<br>quantum<br>army<br>retire<br>antique |  
+| bip_39_word_new_br2 | fashion<br>neck |  
+| bip_39_word_new_br3 | fashion<br>neck<br>cabin |  
+| bip_39_word_new_br4 | fashion<br>neck<br>cabin<br>step |  
+| bip_39_word_new_br5 | fashion<br>neck<br>cabin<br>step<br>slow |  
+| bip_39_word_new_br6 | fashion<br>neck<br>cabin<br>step<br>slow<br>icon |  
+| bip_39_word_new_br7 | fashion<br>neck<br>cabin<br>step<br>slow<br>icon<br>outside |  
+| bip_39_word_new_br8 | fashion<br>neck<br>cabin<br>step<br>slow<br>icon<br>outside<br>bonus |  
+| bip_39_word_new_br9 | fashion<br>neck<br>cabin<br>step<br>slow<br>icon<br>outside<br>bonus<br>quantum |  
+| bip_39_word_new_line1 | fashion |  
+| bip_39_word_new_line10 | fashion
+neck
+cabin
+step
+slow
+icon
+outside
+bonus
+quantum
+army |  
+| bip_39_word_new_line11 | fashion
+neck
+cabin
+step
+slow
+icon
+outside
+bonus
+quantum
+army
+retire |  
+| bip_39_word_new_line12 | fashion
+neck
+cabin
+step
+slow
+icon
+outside
+bonus
+quantum
+army
+retire
+antique |  
+| bip_39_word_new_line2 | fashion
+neck |  
+| bip_39_word_new_line3 | fashion
+neck
+cabin |  
+| bip_39_word_new_line4 | fashion
+neck
+cabin
+step |  
+| bip_39_word_new_line5 | fashion
+neck
+cabin
+step
+slow |  
+| bip_39_word_new_line6 | fashion
+neck
+cabin
+step
+slow
+icon |  
+| bip_39_word_new_line7 | fashion
+neck
+cabin
+step
+slow
+icon
+outside |  
+| bip_39_word_new_line8 | fashion
+neck
+cabin
+step
+slow
+icon
+outside
+bonus |  
+| bip_39_word_new_line9 | fashion
+neck
+cabin
+step
+slow
+icon
+outside
+bonus
+quantum |  
+| bip_39_word_space_0 | ['fashion', 'neck', 'cabin', 'step', 'slow', 'icon', 'outside', 'bonus', 'quantum', 'army', 'retire', 'antique'] |  
+| bip_39_word_space_1 | fashion |  
+| bip_39_word_space_10 | fashion neck cabin step slow icon outside bonus quantum army |  
+| bip_39_word_space_11 | fashion neck cabin step slow icon outside bonus quantum army retire |  
+| bip_39_word_space_12 | fashion neck cabin step slow icon outside bonus quantum army retire antique |  
+| bip_39_word_space_2 | fashion neck |  
+| bip_39_word_space_3 | fashion neck cabin |  
+| bip_39_word_space_4 | fashion neck cabin step |  
+| bip_39_word_space_5 | fashion neck cabin step slow |  
+| bip_39_word_space_6 | fashion neck cabin step slow icon |  
+| bip_39_word_space_7 | fashion neck cabin step slow icon outside |  
+| bip_39_word_space_8 | fashion neck cabin step slow icon outside bonus |  
+| bip_39_word_space_9 | fashion neck cabin step slow icon outside bonus quantum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: neck length
+  * bip 39 word 3: neck length roast
+  * bip 39 word: neck length roast strategy fashion curve accuse length injury give expire advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | neck |  
+| bip_39_word_new_br10 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve<br>accuse<br>length<br>injury<br>give |  
+| bip_39_word_new_br11 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve<br>accuse<br>length<br>injury<br>give<br>expire |  
+| bip_39_word_new_br12 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve<br>accuse<br>length<br>injury<br>give<br>expire<br>advice |  
+| bip_39_word_new_br2 | neck<br>length |  
+| bip_39_word_new_br3 | neck<br>length<br>roast |  
+| bip_39_word_new_br4 | neck<br>length<br>roast<br>strategy |  
+| bip_39_word_new_br5 | neck<br>length<br>roast<br>strategy<br>fashion |  
+| bip_39_word_new_br6 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve |  
+| bip_39_word_new_br7 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve<br>accuse |  
+| bip_39_word_new_br8 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve<br>accuse<br>length |  
+| bip_39_word_new_br9 | neck<br>length<br>roast<br>strategy<br>fashion<br>curve<br>accuse<br>length<br>injury |  
+| bip_39_word_new_line1 | neck |  
+| bip_39_word_new_line10 | neck
+length
+roast
+strategy
+fashion
+curve
+accuse
+length
+injury
+give |  
+| bip_39_word_new_line11 | neck
+length
+roast
+strategy
+fashion
+curve
+accuse
+length
+injury
+give
+expire |  
+| bip_39_word_new_line12 | neck
+length
+roast
+strategy
+fashion
+curve
+accuse
+length
+injury
+give
+expire
+advice |  
+| bip_39_word_new_line2 | neck
+length |  
+| bip_39_word_new_line3 | neck
+length
+roast |  
+| bip_39_word_new_line4 | neck
+length
+roast
+strategy |  
+| bip_39_word_new_line5 | neck
+length
+roast
+strategy
+fashion |  
+| bip_39_word_new_line6 | neck
+length
+roast
+strategy
+fashion
+curve |  
+| bip_39_word_new_line7 | neck
+length
+roast
+strategy
+fashion
+curve
+accuse |  
+| bip_39_word_new_line8 | neck
+length
+roast
+strategy
+fashion
+curve
+accuse
+length |  
+| bip_39_word_new_line9 | neck
+length
+roast
+strategy
+fashion
+curve
+accuse
+length
+injury |  
+| bip_39_word_space_0 | ['neck', 'length', 'roast', 'strategy', 'fashion', 'curve', 'accuse', 'length', 'injury', 'give', 'expire', 'advice'] |  
+| bip_39_word_space_1 | neck |  
+| bip_39_word_space_10 | neck length roast strategy fashion curve accuse length injury give |  
+| bip_39_word_space_11 | neck length roast strategy fashion curve accuse length injury give expire |  
+| bip_39_word_space_12 | neck length roast strategy fashion curve accuse length injury give expire advice |  
+| bip_39_word_space_2 | neck length |  
+| bip_39_word_space_3 | neck length roast |  
+| bip_39_word_space_4 | neck length roast strategy |  
+| bip_39_word_space_5 | neck length roast strategy fashion |  
+| bip_39_word_space_6 | neck length roast strategy fashion curve |  
+| bip_39_word_space_7 | neck length roast strategy fashion curve accuse |  
+| bip_39_word_space_8 | neck length roast strategy fashion curve accuse length |  
+| bip_39_word_space_9 | neck length roast strategy fashion curve accuse length injury |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

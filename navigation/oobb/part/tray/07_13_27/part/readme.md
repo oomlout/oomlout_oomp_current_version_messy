@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jacket risk
+  * bip 39 word 3: jacket risk upon
+  * bip 39 word: jacket risk upon reopen turkey fatal yellow bench symbol away hover attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jacket |  
+| bip_39_word_new_br10 | jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal<br>yellow<br>bench<br>symbol<br>away |  
+| bip_39_word_new_br11 | jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal<br>yellow<br>bench<br>symbol<br>away<br>hover |  
+| bip_39_word_new_br12 | jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal<br>yellow<br>bench<br>symbol<br>away<br>hover<br>attitude |  
+| bip_39_word_new_br2 | jacket<br>risk |  
+| bip_39_word_new_br3 | jacket<br>risk<br>upon |  
+| bip_39_word_new_br4 | jacket<br>risk<br>upon<br>reopen |  
+| bip_39_word_new_br5 | jacket<br>risk<br>upon<br>reopen<br>turkey |  
+| bip_39_word_new_br6 | jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal |  
+| bip_39_word_new_br7 | jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal<br>yellow |  
+| bip_39_word_new_br8 | jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal<br>yellow<br>bench |  
+| bip_39_word_new_br9 | jacket<br>risk<br>upon<br>reopen<br>turkey<br>fatal<br>yellow<br>bench<br>symbol |  
+| bip_39_word_new_line1 | jacket |  
+| bip_39_word_new_line10 | jacket
+risk
+upon
+reopen
+turkey
+fatal
+yellow
+bench
+symbol
+away |  
+| bip_39_word_new_line11 | jacket
+risk
+upon
+reopen
+turkey
+fatal
+yellow
+bench
+symbol
+away
+hover |  
+| bip_39_word_new_line12 | jacket
+risk
+upon
+reopen
+turkey
+fatal
+yellow
+bench
+symbol
+away
+hover
+attitude |  
+| bip_39_word_new_line2 | jacket
+risk |  
+| bip_39_word_new_line3 | jacket
+risk
+upon |  
+| bip_39_word_new_line4 | jacket
+risk
+upon
+reopen |  
+| bip_39_word_new_line5 | jacket
+risk
+upon
+reopen
+turkey |  
+| bip_39_word_new_line6 | jacket
+risk
+upon
+reopen
+turkey
+fatal |  
+| bip_39_word_new_line7 | jacket
+risk
+upon
+reopen
+turkey
+fatal
+yellow |  
+| bip_39_word_new_line8 | jacket
+risk
+upon
+reopen
+turkey
+fatal
+yellow
+bench |  
+| bip_39_word_new_line9 | jacket
+risk
+upon
+reopen
+turkey
+fatal
+yellow
+bench
+symbol |  
+| bip_39_word_space_0 | ['jacket', 'risk', 'upon', 'reopen', 'turkey', 'fatal', 'yellow', 'bench', 'symbol', 'away', 'hover', 'attitude'] |  
+| bip_39_word_space_1 | jacket |  
+| bip_39_word_space_10 | jacket risk upon reopen turkey fatal yellow bench symbol away |  
+| bip_39_word_space_11 | jacket risk upon reopen turkey fatal yellow bench symbol away hover |  
+| bip_39_word_space_12 | jacket risk upon reopen turkey fatal yellow bench symbol away hover attitude |  
+| bip_39_word_space_2 | jacket risk |  
+| bip_39_word_space_3 | jacket risk upon |  
+| bip_39_word_space_4 | jacket risk upon reopen |  
+| bip_39_word_space_5 | jacket risk upon reopen turkey |  
+| bip_39_word_space_6 | jacket risk upon reopen turkey fatal |  
+| bip_39_word_space_7 | jacket risk upon reopen turkey fatal yellow |  
+| bip_39_word_space_8 | jacket risk upon reopen turkey fatal yellow bench |  
+| bip_39_word_space_9 | jacket risk upon reopen turkey fatal yellow bench symbol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

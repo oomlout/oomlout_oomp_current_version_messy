@@ -1,3 +1,186 @@
+bip_39_word_new_br1: humor
+bip_39_word_new_br10: humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit
+bip_39_word_new_br11: humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit<br>kit
+bip_39_word_new_br12: humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble<br>limit<br>kit<br>anger
+bip_39_word_new_br2: humor<br>basket
+bip_39_word_new_br3: humor<br>basket<br>survey
+bip_39_word_new_br4: humor<br>basket<br>survey<br>craft
+bip_39_word_new_br5: humor<br>basket<br>survey<br>craft<br>copy
+bip_39_word_new_br6: humor<br>basket<br>survey<br>craft<br>copy<br>lucky
+bip_39_word_new_br7: humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth
+bip_39_word_new_br8: humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake
+bip_39_word_new_br9: humor<br>basket<br>survey<br>craft<br>copy<br>lucky<br>truth<br>lake<br>humble
+bip_39_word_new_line1: humor
+bip_39_word_new_line10: 'humor
+
+  basket
+
+  survey
+
+  craft
+
+  copy
+
+  lucky
+
+  truth
+
+  lake
+
+  humble
+
+  limit'
+bip_39_word_new_line11: 'humor
+
+  basket
+
+  survey
+
+  craft
+
+  copy
+
+  lucky
+
+  truth
+
+  lake
+
+  humble
+
+  limit
+
+  kit'
+bip_39_word_new_line12: 'humor
+
+  basket
+
+  survey
+
+  craft
+
+  copy
+
+  lucky
+
+  truth
+
+  lake
+
+  humble
+
+  limit
+
+  kit
+
+  anger'
+bip_39_word_new_line2: 'humor
+
+  basket'
+bip_39_word_new_line3: 'humor
+
+  basket
+
+  survey'
+bip_39_word_new_line4: 'humor
+
+  basket
+
+  survey
+
+  craft'
+bip_39_word_new_line5: 'humor
+
+  basket
+
+  survey
+
+  craft
+
+  copy'
+bip_39_word_new_line6: 'humor
+
+  basket
+
+  survey
+
+  craft
+
+  copy
+
+  lucky'
+bip_39_word_new_line7: 'humor
+
+  basket
+
+  survey
+
+  craft
+
+  copy
+
+  lucky
+
+  truth'
+bip_39_word_new_line8: 'humor
+
+  basket
+
+  survey
+
+  craft
+
+  copy
+
+  lucky
+
+  truth
+
+  lake'
+bip_39_word_new_line9: 'humor
+
+  basket
+
+  survey
+
+  craft
+
+  copy
+
+  lucky
+
+  truth
+
+  lake
+
+  humble'
+bip_39_word_space_0:
+- humor
+- basket
+- survey
+- craft
+- copy
+- lucky
+- truth
+- lake
+- humble
+- limit
+- kit
+- anger
+bip_39_word_space_1: humor
+bip_39_word_space_10: humor basket survey craft copy lucky truth lake humble limit
+bip_39_word_space_11: humor basket survey craft copy lucky truth lake humble limit
+  kit
+bip_39_word_space_12: humor basket survey craft copy lucky truth lake humble limit
+  kit anger
+bip_39_word_space_2: humor basket
+bip_39_word_space_3: humor basket survey
+bip_39_word_space_4: humor basket survey craft
+bip_39_word_space_5: humor basket survey craft copy
+bip_39_word_space_6: humor basket survey craft copy lucky
+bip_39_word_space_7: humor basket survey craft copy lucky truth
+bip_39_word_space_8: humor basket survey craft copy lucky truth lake
+bip_39_word_space_9: humor basket survey craft copy lucky truth lake humble
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

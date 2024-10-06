@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: task garden
+  * bip 39 word 3: task garden hurt
+  * bip 39 word: task garden hurt syrup any dolphin marble math cup outdoor okay arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | task |  
+| bip_39_word_new_br10 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup<br>outdoor |  
+| bip_39_word_new_br11 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup<br>outdoor<br>okay |  
+| bip_39_word_new_br12 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup<br>outdoor<br>okay<br>arrow |  
+| bip_39_word_new_br2 | task<br>garden |  
+| bip_39_word_new_br3 | task<br>garden<br>hurt |  
+| bip_39_word_new_br4 | task<br>garden<br>hurt<br>syrup |  
+| bip_39_word_new_br5 | task<br>garden<br>hurt<br>syrup<br>any |  
+| bip_39_word_new_br6 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin |  
+| bip_39_word_new_br7 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble |  
+| bip_39_word_new_br8 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math |  
+| bip_39_word_new_br9 | task<br>garden<br>hurt<br>syrup<br>any<br>dolphin<br>marble<br>math<br>cup |  
+| bip_39_word_new_line1 | task |  
+| bip_39_word_new_line10 | task
+garden
+hurt
+syrup
+any
+dolphin
+marble
+math
+cup
+outdoor |  
+| bip_39_word_new_line11 | task
+garden
+hurt
+syrup
+any
+dolphin
+marble
+math
+cup
+outdoor
+okay |  
+| bip_39_word_new_line12 | task
+garden
+hurt
+syrup
+any
+dolphin
+marble
+math
+cup
+outdoor
+okay
+arrow |  
+| bip_39_word_new_line2 | task
+garden |  
+| bip_39_word_new_line3 | task
+garden
+hurt |  
+| bip_39_word_new_line4 | task
+garden
+hurt
+syrup |  
+| bip_39_word_new_line5 | task
+garden
+hurt
+syrup
+any |  
+| bip_39_word_new_line6 | task
+garden
+hurt
+syrup
+any
+dolphin |  
+| bip_39_word_new_line7 | task
+garden
+hurt
+syrup
+any
+dolphin
+marble |  
+| bip_39_word_new_line8 | task
+garden
+hurt
+syrup
+any
+dolphin
+marble
+math |  
+| bip_39_word_new_line9 | task
+garden
+hurt
+syrup
+any
+dolphin
+marble
+math
+cup |  
+| bip_39_word_space_0 | ['task', 'garden', 'hurt', 'syrup', 'any', 'dolphin', 'marble', 'math', 'cup', 'outdoor', 'okay', 'arrow'] |  
+| bip_39_word_space_1 | task |  
+| bip_39_word_space_10 | task garden hurt syrup any dolphin marble math cup outdoor |  
+| bip_39_word_space_11 | task garden hurt syrup any dolphin marble math cup outdoor okay |  
+| bip_39_word_space_12 | task garden hurt syrup any dolphin marble math cup outdoor okay arrow |  
+| bip_39_word_space_2 | task garden |  
+| bip_39_word_space_3 | task garden hurt |  
+| bip_39_word_space_4 | task garden hurt syrup |  
+| bip_39_word_space_5 | task garden hurt syrup any |  
+| bip_39_word_space_6 | task garden hurt syrup any dolphin |  
+| bip_39_word_space_7 | task garden hurt syrup any dolphin marble |  
+| bip_39_word_space_8 | task garden hurt syrup any dolphin marble math |  
+| bip_39_word_space_9 | task garden hurt syrup any dolphin marble math cup |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

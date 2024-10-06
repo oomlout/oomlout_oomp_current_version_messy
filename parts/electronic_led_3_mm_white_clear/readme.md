@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oven hunt
+  * bip 39 word 3: oven hunt hello
+  * bip 39 word: oven hunt hello follow stem buddy question crawl clean stay quantum amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oven |  
+| bip_39_word_new_br10 | oven<br>hunt<br>hello<br>follow<br>stem<br>buddy<br>question<br>crawl<br>clean<br>stay |  
+| bip_39_word_new_br11 | oven<br>hunt<br>hello<br>follow<br>stem<br>buddy<br>question<br>crawl<br>clean<br>stay<br>quantum |  
+| bip_39_word_new_br12 | oven<br>hunt<br>hello<br>follow<br>stem<br>buddy<br>question<br>crawl<br>clean<br>stay<br>quantum<br>amateur |  
+| bip_39_word_new_br2 | oven<br>hunt |  
+| bip_39_word_new_br3 | oven<br>hunt<br>hello |  
+| bip_39_word_new_br4 | oven<br>hunt<br>hello<br>follow |  
+| bip_39_word_new_br5 | oven<br>hunt<br>hello<br>follow<br>stem |  
+| bip_39_word_new_br6 | oven<br>hunt<br>hello<br>follow<br>stem<br>buddy |  
+| bip_39_word_new_br7 | oven<br>hunt<br>hello<br>follow<br>stem<br>buddy<br>question |  
+| bip_39_word_new_br8 | oven<br>hunt<br>hello<br>follow<br>stem<br>buddy<br>question<br>crawl |  
+| bip_39_word_new_br9 | oven<br>hunt<br>hello<br>follow<br>stem<br>buddy<br>question<br>crawl<br>clean |  
+| bip_39_word_new_line1 | oven |  
+| bip_39_word_new_line10 | oven
+hunt
+hello
+follow
+stem
+buddy
+question
+crawl
+clean
+stay |  
+| bip_39_word_new_line11 | oven
+hunt
+hello
+follow
+stem
+buddy
+question
+crawl
+clean
+stay
+quantum |  
+| bip_39_word_new_line12 | oven
+hunt
+hello
+follow
+stem
+buddy
+question
+crawl
+clean
+stay
+quantum
+amateur |  
+| bip_39_word_new_line2 | oven
+hunt |  
+| bip_39_word_new_line3 | oven
+hunt
+hello |  
+| bip_39_word_new_line4 | oven
+hunt
+hello
+follow |  
+| bip_39_word_new_line5 | oven
+hunt
+hello
+follow
+stem |  
+| bip_39_word_new_line6 | oven
+hunt
+hello
+follow
+stem
+buddy |  
+| bip_39_word_new_line7 | oven
+hunt
+hello
+follow
+stem
+buddy
+question |  
+| bip_39_word_new_line8 | oven
+hunt
+hello
+follow
+stem
+buddy
+question
+crawl |  
+| bip_39_word_new_line9 | oven
+hunt
+hello
+follow
+stem
+buddy
+question
+crawl
+clean |  
+| bip_39_word_space_0 | ['oven', 'hunt', 'hello', 'follow', 'stem', 'buddy', 'question', 'crawl', 'clean', 'stay', 'quantum', 'amateur'] |  
+| bip_39_word_space_1 | oven |  
+| bip_39_word_space_10 | oven hunt hello follow stem buddy question crawl clean stay |  
+| bip_39_word_space_11 | oven hunt hello follow stem buddy question crawl clean stay quantum |  
+| bip_39_word_space_12 | oven hunt hello follow stem buddy question crawl clean stay quantum amateur |  
+| bip_39_word_space_2 | oven hunt |  
+| bip_39_word_space_3 | oven hunt hello |  
+| bip_39_word_space_4 | oven hunt hello follow |  
+| bip_39_word_space_5 | oven hunt hello follow stem |  
+| bip_39_word_space_6 | oven hunt hello follow stem buddy |  
+| bip_39_word_space_7 | oven hunt hello follow stem buddy question |  
+| bip_39_word_space_8 | oven hunt hello follow stem buddy question crawl |  
+| bip_39_word_space_9 | oven hunt hello follow stem buddy question crawl clean |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

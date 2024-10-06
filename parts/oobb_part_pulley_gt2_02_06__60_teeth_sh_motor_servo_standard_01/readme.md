@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rather faculty
+  * bip 39 word 3: rather faculty during
+  * bip 39 word: rather faculty during siren thunder clock donate grass slogan photo blood around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rather |  
+| bip_39_word_new_br10 | rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo |  
+| bip_39_word_new_br11 | rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo<br>blood |  
+| bip_39_word_new_br12 | rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan<br>photo<br>blood<br>around |  
+| bip_39_word_new_br2 | rather<br>faculty |  
+| bip_39_word_new_br3 | rather<br>faculty<br>during |  
+| bip_39_word_new_br4 | rather<br>faculty<br>during<br>siren |  
+| bip_39_word_new_br5 | rather<br>faculty<br>during<br>siren<br>thunder |  
+| bip_39_word_new_br6 | rather<br>faculty<br>during<br>siren<br>thunder<br>clock |  
+| bip_39_word_new_br7 | rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate |  
+| bip_39_word_new_br8 | rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass |  
+| bip_39_word_new_br9 | rather<br>faculty<br>during<br>siren<br>thunder<br>clock<br>donate<br>grass<br>slogan |  
+| bip_39_word_new_line1 | rather |  
+| bip_39_word_new_line10 | rather
+faculty
+during
+siren
+thunder
+clock
+donate
+grass
+slogan
+photo |  
+| bip_39_word_new_line11 | rather
+faculty
+during
+siren
+thunder
+clock
+donate
+grass
+slogan
+photo
+blood |  
+| bip_39_word_new_line12 | rather
+faculty
+during
+siren
+thunder
+clock
+donate
+grass
+slogan
+photo
+blood
+around |  
+| bip_39_word_new_line2 | rather
+faculty |  
+| bip_39_word_new_line3 | rather
+faculty
+during |  
+| bip_39_word_new_line4 | rather
+faculty
+during
+siren |  
+| bip_39_word_new_line5 | rather
+faculty
+during
+siren
+thunder |  
+| bip_39_word_new_line6 | rather
+faculty
+during
+siren
+thunder
+clock |  
+| bip_39_word_new_line7 | rather
+faculty
+during
+siren
+thunder
+clock
+donate |  
+| bip_39_word_new_line8 | rather
+faculty
+during
+siren
+thunder
+clock
+donate
+grass |  
+| bip_39_word_new_line9 | rather
+faculty
+during
+siren
+thunder
+clock
+donate
+grass
+slogan |  
+| bip_39_word_space_0 | ['rather', 'faculty', 'during', 'siren', 'thunder', 'clock', 'donate', 'grass', 'slogan', 'photo', 'blood', 'around'] |  
+| bip_39_word_space_1 | rather |  
+| bip_39_word_space_10 | rather faculty during siren thunder clock donate grass slogan photo |  
+| bip_39_word_space_11 | rather faculty during siren thunder clock donate grass slogan photo blood |  
+| bip_39_word_space_12 | rather faculty during siren thunder clock donate grass slogan photo blood around |  
+| bip_39_word_space_2 | rather faculty |  
+| bip_39_word_space_3 | rather faculty during |  
+| bip_39_word_space_4 | rather faculty during siren |  
+| bip_39_word_space_5 | rather faculty during siren thunder |  
+| bip_39_word_space_6 | rather faculty during siren thunder clock |  
+| bip_39_word_space_7 | rather faculty during siren thunder clock donate |  
+| bip_39_word_space_8 | rather faculty during siren thunder clock donate grass |  
+| bip_39_word_space_9 | rather faculty during siren thunder clock donate grass slogan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

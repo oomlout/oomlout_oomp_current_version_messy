@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pool found
+  * bip 39 word 3: pool found flavor
+  * bip 39 word: pool found flavor creek cotton lady imitate alpha famous topple lottery arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pool |  
+| bip_39_word_new_br10 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady<br>imitate<br>alpha<br>famous<br>topple |  
+| bip_39_word_new_br11 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady<br>imitate<br>alpha<br>famous<br>topple<br>lottery |  
+| bip_39_word_new_br12 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady<br>imitate<br>alpha<br>famous<br>topple<br>lottery<br>arrow |  
+| bip_39_word_new_br2 | pool<br>found |  
+| bip_39_word_new_br3 | pool<br>found<br>flavor |  
+| bip_39_word_new_br4 | pool<br>found<br>flavor<br>creek |  
+| bip_39_word_new_br5 | pool<br>found<br>flavor<br>creek<br>cotton |  
+| bip_39_word_new_br6 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady |  
+| bip_39_word_new_br7 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady<br>imitate |  
+| bip_39_word_new_br8 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady<br>imitate<br>alpha |  
+| bip_39_word_new_br9 | pool<br>found<br>flavor<br>creek<br>cotton<br>lady<br>imitate<br>alpha<br>famous |  
+| bip_39_word_new_line1 | pool |  
+| bip_39_word_new_line10 | pool
+found
+flavor
+creek
+cotton
+lady
+imitate
+alpha
+famous
+topple |  
+| bip_39_word_new_line11 | pool
+found
+flavor
+creek
+cotton
+lady
+imitate
+alpha
+famous
+topple
+lottery |  
+| bip_39_word_new_line12 | pool
+found
+flavor
+creek
+cotton
+lady
+imitate
+alpha
+famous
+topple
+lottery
+arrow |  
+| bip_39_word_new_line2 | pool
+found |  
+| bip_39_word_new_line3 | pool
+found
+flavor |  
+| bip_39_word_new_line4 | pool
+found
+flavor
+creek |  
+| bip_39_word_new_line5 | pool
+found
+flavor
+creek
+cotton |  
+| bip_39_word_new_line6 | pool
+found
+flavor
+creek
+cotton
+lady |  
+| bip_39_word_new_line7 | pool
+found
+flavor
+creek
+cotton
+lady
+imitate |  
+| bip_39_word_new_line8 | pool
+found
+flavor
+creek
+cotton
+lady
+imitate
+alpha |  
+| bip_39_word_new_line9 | pool
+found
+flavor
+creek
+cotton
+lady
+imitate
+alpha
+famous |  
+| bip_39_word_space_0 | ['pool', 'found', 'flavor', 'creek', 'cotton', 'lady', 'imitate', 'alpha', 'famous', 'topple', 'lottery', 'arrow'] |  
+| bip_39_word_space_1 | pool |  
+| bip_39_word_space_10 | pool found flavor creek cotton lady imitate alpha famous topple |  
+| bip_39_word_space_11 | pool found flavor creek cotton lady imitate alpha famous topple lottery |  
+| bip_39_word_space_12 | pool found flavor creek cotton lady imitate alpha famous topple lottery arrow |  
+| bip_39_word_space_2 | pool found |  
+| bip_39_word_space_3 | pool found flavor |  
+| bip_39_word_space_4 | pool found flavor creek |  
+| bip_39_word_space_5 | pool found flavor creek cotton |  
+| bip_39_word_space_6 | pool found flavor creek cotton lady |  
+| bip_39_word_space_7 | pool found flavor creek cotton lady imitate |  
+| bip_39_word_space_8 | pool found flavor creek cotton lady imitate alpha |  
+| bip_39_word_space_9 | pool found flavor creek cotton lady imitate alpha famous |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

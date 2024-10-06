@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: result length
+  * bip 39 word 3: result length leisure
+  * bip 39 word: result length leisure custom zero party report muffin opinion bridge similar art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | result |  
+| bip_39_word_new_br10 | result<br>length<br>leisure<br>custom<br>zero<br>party<br>report<br>muffin<br>opinion<br>bridge |  
+| bip_39_word_new_br11 | result<br>length<br>leisure<br>custom<br>zero<br>party<br>report<br>muffin<br>opinion<br>bridge<br>similar |  
+| bip_39_word_new_br12 | result<br>length<br>leisure<br>custom<br>zero<br>party<br>report<br>muffin<br>opinion<br>bridge<br>similar<br>art |  
+| bip_39_word_new_br2 | result<br>length |  
+| bip_39_word_new_br3 | result<br>length<br>leisure |  
+| bip_39_word_new_br4 | result<br>length<br>leisure<br>custom |  
+| bip_39_word_new_br5 | result<br>length<br>leisure<br>custom<br>zero |  
+| bip_39_word_new_br6 | result<br>length<br>leisure<br>custom<br>zero<br>party |  
+| bip_39_word_new_br7 | result<br>length<br>leisure<br>custom<br>zero<br>party<br>report |  
+| bip_39_word_new_br8 | result<br>length<br>leisure<br>custom<br>zero<br>party<br>report<br>muffin |  
+| bip_39_word_new_br9 | result<br>length<br>leisure<br>custom<br>zero<br>party<br>report<br>muffin<br>opinion |  
+| bip_39_word_new_line1 | result |  
+| bip_39_word_new_line10 | result
+length
+leisure
+custom
+zero
+party
+report
+muffin
+opinion
+bridge |  
+| bip_39_word_new_line11 | result
+length
+leisure
+custom
+zero
+party
+report
+muffin
+opinion
+bridge
+similar |  
+| bip_39_word_new_line12 | result
+length
+leisure
+custom
+zero
+party
+report
+muffin
+opinion
+bridge
+similar
+art |  
+| bip_39_word_new_line2 | result
+length |  
+| bip_39_word_new_line3 | result
+length
+leisure |  
+| bip_39_word_new_line4 | result
+length
+leisure
+custom |  
+| bip_39_word_new_line5 | result
+length
+leisure
+custom
+zero |  
+| bip_39_word_new_line6 | result
+length
+leisure
+custom
+zero
+party |  
+| bip_39_word_new_line7 | result
+length
+leisure
+custom
+zero
+party
+report |  
+| bip_39_word_new_line8 | result
+length
+leisure
+custom
+zero
+party
+report
+muffin |  
+| bip_39_word_new_line9 | result
+length
+leisure
+custom
+zero
+party
+report
+muffin
+opinion |  
+| bip_39_word_space_0 | ['result', 'length', 'leisure', 'custom', 'zero', 'party', 'report', 'muffin', 'opinion', 'bridge', 'similar', 'art'] |  
+| bip_39_word_space_1 | result |  
+| bip_39_word_space_10 | result length leisure custom zero party report muffin opinion bridge |  
+| bip_39_word_space_11 | result length leisure custom zero party report muffin opinion bridge similar |  
+| bip_39_word_space_12 | result length leisure custom zero party report muffin opinion bridge similar art |  
+| bip_39_word_space_2 | result length |  
+| bip_39_word_space_3 | result length leisure |  
+| bip_39_word_space_4 | result length leisure custom |  
+| bip_39_word_space_5 | result length leisure custom zero |  
+| bip_39_word_space_6 | result length leisure custom zero party |  
+| bip_39_word_space_7 | result length leisure custom zero party report |  
+| bip_39_word_space_8 | result length leisure custom zero party report muffin |  
+| bip_39_word_space_9 | result length leisure custom zero party report muffin opinion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

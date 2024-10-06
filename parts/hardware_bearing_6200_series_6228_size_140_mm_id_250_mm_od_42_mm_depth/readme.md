@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gadget oppose
+  * bip 39 word 3: gadget oppose boy
+  * bip 39 word: gadget oppose boy daring poverty camp flag paper lecture raven gloom actual
 
 ### other_codes
 * short_code: br6228
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gadget |  
+| bip_39_word_new_br10 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven |  
+| bip_39_word_new_br11 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven<br>gloom |  
+| bip_39_word_new_br12 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture<br>raven<br>gloom<br>actual |  
+| bip_39_word_new_br2 | gadget<br>oppose |  
+| bip_39_word_new_br3 | gadget<br>oppose<br>boy |  
+| bip_39_word_new_br4 | gadget<br>oppose<br>boy<br>daring |  
+| bip_39_word_new_br5 | gadget<br>oppose<br>boy<br>daring<br>poverty |  
+| bip_39_word_new_br6 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp |  
+| bip_39_word_new_br7 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag |  
+| bip_39_word_new_br8 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper |  
+| bip_39_word_new_br9 | gadget<br>oppose<br>boy<br>daring<br>poverty<br>camp<br>flag<br>paper<br>lecture |  
+| bip_39_word_new_line1 | gadget |  
+| bip_39_word_new_line10 | gadget
+oppose
+boy
+daring
+poverty
+camp
+flag
+paper
+lecture
+raven |  
+| bip_39_word_new_line11 | gadget
+oppose
+boy
+daring
+poverty
+camp
+flag
+paper
+lecture
+raven
+gloom |  
+| bip_39_word_new_line12 | gadget
+oppose
+boy
+daring
+poverty
+camp
+flag
+paper
+lecture
+raven
+gloom
+actual |  
+| bip_39_word_new_line2 | gadget
+oppose |  
+| bip_39_word_new_line3 | gadget
+oppose
+boy |  
+| bip_39_word_new_line4 | gadget
+oppose
+boy
+daring |  
+| bip_39_word_new_line5 | gadget
+oppose
+boy
+daring
+poverty |  
+| bip_39_word_new_line6 | gadget
+oppose
+boy
+daring
+poverty
+camp |  
+| bip_39_word_new_line7 | gadget
+oppose
+boy
+daring
+poverty
+camp
+flag |  
+| bip_39_word_new_line8 | gadget
+oppose
+boy
+daring
+poverty
+camp
+flag
+paper |  
+| bip_39_word_new_line9 | gadget
+oppose
+boy
+daring
+poverty
+camp
+flag
+paper
+lecture |  
+| bip_39_word_space_0 | ['gadget', 'oppose', 'boy', 'daring', 'poverty', 'camp', 'flag', 'paper', 'lecture', 'raven', 'gloom', 'actual'] |  
+| bip_39_word_space_1 | gadget |  
+| bip_39_word_space_10 | gadget oppose boy daring poverty camp flag paper lecture raven |  
+| bip_39_word_space_11 | gadget oppose boy daring poverty camp flag paper lecture raven gloom |  
+| bip_39_word_space_12 | gadget oppose boy daring poverty camp flag paper lecture raven gloom actual |  
+| bip_39_word_space_2 | gadget oppose |  
+| bip_39_word_space_3 | gadget oppose boy |  
+| bip_39_word_space_4 | gadget oppose boy daring |  
+| bip_39_word_space_5 | gadget oppose boy daring poverty |  
+| bip_39_word_space_6 | gadget oppose boy daring poverty camp |  
+| bip_39_word_space_7 | gadget oppose boy daring poverty camp flag |  
+| bip_39_word_space_8 | gadget oppose boy daring poverty camp flag paper |  
+| bip_39_word_space_9 | gadget oppose boy daring poverty camp flag paper lecture |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

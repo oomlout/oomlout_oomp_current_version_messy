@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fresh frame
+  * bip 39 word 3: fresh frame choice
+  * bip 39 word: fresh frame choice father artefact enable final give quiz minor inject ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fresh |  
+| bip_39_word_new_br10 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor |  
+| bip_39_word_new_br11 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor<br>inject |  
+| bip_39_word_new_br12 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz<br>minor<br>inject<br>ankle |  
+| bip_39_word_new_br2 | fresh<br>frame |  
+| bip_39_word_new_br3 | fresh<br>frame<br>choice |  
+| bip_39_word_new_br4 | fresh<br>frame<br>choice<br>father |  
+| bip_39_word_new_br5 | fresh<br>frame<br>choice<br>father<br>artefact |  
+| bip_39_word_new_br6 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable |  
+| bip_39_word_new_br7 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final |  
+| bip_39_word_new_br8 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give |  
+| bip_39_word_new_br9 | fresh<br>frame<br>choice<br>father<br>artefact<br>enable<br>final<br>give<br>quiz |  
+| bip_39_word_new_line1 | fresh |  
+| bip_39_word_new_line10 | fresh
+frame
+choice
+father
+artefact
+enable
+final
+give
+quiz
+minor |  
+| bip_39_word_new_line11 | fresh
+frame
+choice
+father
+artefact
+enable
+final
+give
+quiz
+minor
+inject |  
+| bip_39_word_new_line12 | fresh
+frame
+choice
+father
+artefact
+enable
+final
+give
+quiz
+minor
+inject
+ankle |  
+| bip_39_word_new_line2 | fresh
+frame |  
+| bip_39_word_new_line3 | fresh
+frame
+choice |  
+| bip_39_word_new_line4 | fresh
+frame
+choice
+father |  
+| bip_39_word_new_line5 | fresh
+frame
+choice
+father
+artefact |  
+| bip_39_word_new_line6 | fresh
+frame
+choice
+father
+artefact
+enable |  
+| bip_39_word_new_line7 | fresh
+frame
+choice
+father
+artefact
+enable
+final |  
+| bip_39_word_new_line8 | fresh
+frame
+choice
+father
+artefact
+enable
+final
+give |  
+| bip_39_word_new_line9 | fresh
+frame
+choice
+father
+artefact
+enable
+final
+give
+quiz |  
+| bip_39_word_space_0 | ['fresh', 'frame', 'choice', 'father', 'artefact', 'enable', 'final', 'give', 'quiz', 'minor', 'inject', 'ankle'] |  
+| bip_39_word_space_1 | fresh |  
+| bip_39_word_space_10 | fresh frame choice father artefact enable final give quiz minor |  
+| bip_39_word_space_11 | fresh frame choice father artefact enable final give quiz minor inject |  
+| bip_39_word_space_12 | fresh frame choice father artefact enable final give quiz minor inject ankle |  
+| bip_39_word_space_2 | fresh frame |  
+| bip_39_word_space_3 | fresh frame choice |  
+| bip_39_word_space_4 | fresh frame choice father |  
+| bip_39_word_space_5 | fresh frame choice father artefact |  
+| bip_39_word_space_6 | fresh frame choice father artefact enable |  
+| bip_39_word_space_7 | fresh frame choice father artefact enable final |  
+| bip_39_word_space_8 | fresh frame choice father artefact enable final give |  
+| bip_39_word_space_9 | fresh frame choice father artefact enable final give quiz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

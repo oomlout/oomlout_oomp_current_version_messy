@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: asthma vendor
+  * bip 39 word 3: asthma vendor oil
+  * bip 39 word: asthma vendor oil inhale bind horn rail useless proof derive toe about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | asthma |  
+| bip_39_word_new_br10 | asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn<br>rail<br>useless<br>proof<br>derive |  
+| bip_39_word_new_br11 | asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn<br>rail<br>useless<br>proof<br>derive<br>toe |  
+| bip_39_word_new_br12 | asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn<br>rail<br>useless<br>proof<br>derive<br>toe<br>about |  
+| bip_39_word_new_br2 | asthma<br>vendor |  
+| bip_39_word_new_br3 | asthma<br>vendor<br>oil |  
+| bip_39_word_new_br4 | asthma<br>vendor<br>oil<br>inhale |  
+| bip_39_word_new_br5 | asthma<br>vendor<br>oil<br>inhale<br>bind |  
+| bip_39_word_new_br6 | asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn |  
+| bip_39_word_new_br7 | asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn<br>rail |  
+| bip_39_word_new_br8 | asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn<br>rail<br>useless |  
+| bip_39_word_new_br9 | asthma<br>vendor<br>oil<br>inhale<br>bind<br>horn<br>rail<br>useless<br>proof |  
+| bip_39_word_new_line1 | asthma |  
+| bip_39_word_new_line10 | asthma
+vendor
+oil
+inhale
+bind
+horn
+rail
+useless
+proof
+derive |  
+| bip_39_word_new_line11 | asthma
+vendor
+oil
+inhale
+bind
+horn
+rail
+useless
+proof
+derive
+toe |  
+| bip_39_word_new_line12 | asthma
+vendor
+oil
+inhale
+bind
+horn
+rail
+useless
+proof
+derive
+toe
+about |  
+| bip_39_word_new_line2 | asthma
+vendor |  
+| bip_39_word_new_line3 | asthma
+vendor
+oil |  
+| bip_39_word_new_line4 | asthma
+vendor
+oil
+inhale |  
+| bip_39_word_new_line5 | asthma
+vendor
+oil
+inhale
+bind |  
+| bip_39_word_new_line6 | asthma
+vendor
+oil
+inhale
+bind
+horn |  
+| bip_39_word_new_line7 | asthma
+vendor
+oil
+inhale
+bind
+horn
+rail |  
+| bip_39_word_new_line8 | asthma
+vendor
+oil
+inhale
+bind
+horn
+rail
+useless |  
+| bip_39_word_new_line9 | asthma
+vendor
+oil
+inhale
+bind
+horn
+rail
+useless
+proof |  
+| bip_39_word_space_0 | ['asthma', 'vendor', 'oil', 'inhale', 'bind', 'horn', 'rail', 'useless', 'proof', 'derive', 'toe', 'about'] |  
+| bip_39_word_space_1 | asthma |  
+| bip_39_word_space_10 | asthma vendor oil inhale bind horn rail useless proof derive |  
+| bip_39_word_space_11 | asthma vendor oil inhale bind horn rail useless proof derive toe |  
+| bip_39_word_space_12 | asthma vendor oil inhale bind horn rail useless proof derive toe about |  
+| bip_39_word_space_2 | asthma vendor |  
+| bip_39_word_space_3 | asthma vendor oil |  
+| bip_39_word_space_4 | asthma vendor oil inhale |  
+| bip_39_word_space_5 | asthma vendor oil inhale bind |  
+| bip_39_word_space_6 | asthma vendor oil inhale bind horn |  
+| bip_39_word_space_7 | asthma vendor oil inhale bind horn rail |  
+| bip_39_word_space_8 | asthma vendor oil inhale bind horn rail useless |  
+| bip_39_word_space_9 | asthma vendor oil inhale bind horn rail useless proof |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mask time
+  * bip 39 word 3: mask time supreme
+  * bip 39 word: mask time supreme dress vanish hungry thunder gallery similar game night accident
 
 ### other_codes
 * short_code: sp3x7nw6
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mask |  
+| bip_39_word_new_br10 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder<br>gallery<br>similar<br>game |  
+| bip_39_word_new_br11 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder<br>gallery<br>similar<br>game<br>night |  
+| bip_39_word_new_br12 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder<br>gallery<br>similar<br>game<br>night<br>accident |  
+| bip_39_word_new_br2 | mask<br>time |  
+| bip_39_word_new_br3 | mask<br>time<br>supreme |  
+| bip_39_word_new_br4 | mask<br>time<br>supreme<br>dress |  
+| bip_39_word_new_br5 | mask<br>time<br>supreme<br>dress<br>vanish |  
+| bip_39_word_new_br6 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry |  
+| bip_39_word_new_br7 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder |  
+| bip_39_word_new_br8 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder<br>gallery |  
+| bip_39_word_new_br9 | mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder<br>gallery<br>similar |  
+| bip_39_word_new_line1 | mask |  
+| bip_39_word_new_line10 | mask
+time
+supreme
+dress
+vanish
+hungry
+thunder
+gallery
+similar
+game |  
+| bip_39_word_new_line11 | mask
+time
+supreme
+dress
+vanish
+hungry
+thunder
+gallery
+similar
+game
+night |  
+| bip_39_word_new_line12 | mask
+time
+supreme
+dress
+vanish
+hungry
+thunder
+gallery
+similar
+game
+night
+accident |  
+| bip_39_word_new_line2 | mask
+time |  
+| bip_39_word_new_line3 | mask
+time
+supreme |  
+| bip_39_word_new_line4 | mask
+time
+supreme
+dress |  
+| bip_39_word_new_line5 | mask
+time
+supreme
+dress
+vanish |  
+| bip_39_word_new_line6 | mask
+time
+supreme
+dress
+vanish
+hungry |  
+| bip_39_word_new_line7 | mask
+time
+supreme
+dress
+vanish
+hungry
+thunder |  
+| bip_39_word_new_line8 | mask
+time
+supreme
+dress
+vanish
+hungry
+thunder
+gallery |  
+| bip_39_word_new_line9 | mask
+time
+supreme
+dress
+vanish
+hungry
+thunder
+gallery
+similar |  
+| bip_39_word_space_0 | ['mask', 'time', 'supreme', 'dress', 'vanish', 'hungry', 'thunder', 'gallery', 'similar', 'game', 'night', 'accident'] |  
+| bip_39_word_space_1 | mask |  
+| bip_39_word_space_10 | mask time supreme dress vanish hungry thunder gallery similar game |  
+| bip_39_word_space_11 | mask time supreme dress vanish hungry thunder gallery similar game night |  
+| bip_39_word_space_12 | mask time supreme dress vanish hungry thunder gallery similar game night accident |  
+| bip_39_word_space_2 | mask time |  
+| bip_39_word_space_3 | mask time supreme |  
+| bip_39_word_space_4 | mask time supreme dress |  
+| bip_39_word_space_5 | mask time supreme dress vanish |  
+| bip_39_word_space_6 | mask time supreme dress vanish hungry |  
+| bip_39_word_space_7 | mask time supreme dress vanish hungry thunder |  
+| bip_39_word_space_8 | mask time supreme dress vanish hungry thunder gallery |  
+| bip_39_word_space_9 | mask time supreme dress vanish hungry thunder gallery similar |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

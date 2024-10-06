@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jacket biology
+  * bip 39 word 3: jacket biology monitor
+  * bip 39 word: jacket biology monitor pear knee arm tomorrow truck theme bronze foot allow
 
 ### other_codes
 * short_code: brF687
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jacket |  
+| bip_39_word_new_br10 | jacket<br>biology<br>monitor<br>pear<br>knee<br>arm<br>tomorrow<br>truck<br>theme<br>bronze |  
+| bip_39_word_new_br11 | jacket<br>biology<br>monitor<br>pear<br>knee<br>arm<br>tomorrow<br>truck<br>theme<br>bronze<br>foot |  
+| bip_39_word_new_br12 | jacket<br>biology<br>monitor<br>pear<br>knee<br>arm<br>tomorrow<br>truck<br>theme<br>bronze<br>foot<br>allow |  
+| bip_39_word_new_br2 | jacket<br>biology |  
+| bip_39_word_new_br3 | jacket<br>biology<br>monitor |  
+| bip_39_word_new_br4 | jacket<br>biology<br>monitor<br>pear |  
+| bip_39_word_new_br5 | jacket<br>biology<br>monitor<br>pear<br>knee |  
+| bip_39_word_new_br6 | jacket<br>biology<br>monitor<br>pear<br>knee<br>arm |  
+| bip_39_word_new_br7 | jacket<br>biology<br>monitor<br>pear<br>knee<br>arm<br>tomorrow |  
+| bip_39_word_new_br8 | jacket<br>biology<br>monitor<br>pear<br>knee<br>arm<br>tomorrow<br>truck |  
+| bip_39_word_new_br9 | jacket<br>biology<br>monitor<br>pear<br>knee<br>arm<br>tomorrow<br>truck<br>theme |  
+| bip_39_word_new_line1 | jacket |  
+| bip_39_word_new_line10 | jacket
+biology
+monitor
+pear
+knee
+arm
+tomorrow
+truck
+theme
+bronze |  
+| bip_39_word_new_line11 | jacket
+biology
+monitor
+pear
+knee
+arm
+tomorrow
+truck
+theme
+bronze
+foot |  
+| bip_39_word_new_line12 | jacket
+biology
+monitor
+pear
+knee
+arm
+tomorrow
+truck
+theme
+bronze
+foot
+allow |  
+| bip_39_word_new_line2 | jacket
+biology |  
+| bip_39_word_new_line3 | jacket
+biology
+monitor |  
+| bip_39_word_new_line4 | jacket
+biology
+monitor
+pear |  
+| bip_39_word_new_line5 | jacket
+biology
+monitor
+pear
+knee |  
+| bip_39_word_new_line6 | jacket
+biology
+monitor
+pear
+knee
+arm |  
+| bip_39_word_new_line7 | jacket
+biology
+monitor
+pear
+knee
+arm
+tomorrow |  
+| bip_39_word_new_line8 | jacket
+biology
+monitor
+pear
+knee
+arm
+tomorrow
+truck |  
+| bip_39_word_new_line9 | jacket
+biology
+monitor
+pear
+knee
+arm
+tomorrow
+truck
+theme |  
+| bip_39_word_space_0 | ['jacket', 'biology', 'monitor', 'pear', 'knee', 'arm', 'tomorrow', 'truck', 'theme', 'bronze', 'foot', 'allow'] |  
+| bip_39_word_space_1 | jacket |  
+| bip_39_word_space_10 | jacket biology monitor pear knee arm tomorrow truck theme bronze |  
+| bip_39_word_space_11 | jacket biology monitor pear knee arm tomorrow truck theme bronze foot |  
+| bip_39_word_space_12 | jacket biology monitor pear knee arm tomorrow truck theme bronze foot allow |  
+| bip_39_word_space_2 | jacket biology |  
+| bip_39_word_space_3 | jacket biology monitor |  
+| bip_39_word_space_4 | jacket biology monitor pear |  
+| bip_39_word_space_5 | jacket biology monitor pear knee |  
+| bip_39_word_space_6 | jacket biology monitor pear knee arm |  
+| bip_39_word_space_7 | jacket biology monitor pear knee arm tomorrow |  
+| bip_39_word_space_8 | jacket biology monitor pear knee arm tomorrow truck |  
+| bip_39_word_space_9 | jacket biology monitor pear knee arm tomorrow truck theme |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

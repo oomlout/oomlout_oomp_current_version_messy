@@ -1,3 +1,187 @@
+bip_39_word_new_br1: secret
+bip_39_word_new_br10: secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater
+bip_39_word_new_br11: secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater<br>pill
+bip_39_word_new_br12: secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery<br>crater<br>pill<br>antenna
+bip_39_word_new_br2: secret<br>address
+bip_39_word_new_br3: secret<br>address<br>over
+bip_39_word_new_br4: secret<br>address<br>over<br>wolf
+bip_39_word_new_br5: secret<br>address<br>over<br>wolf<br>recall
+bip_39_word_new_br6: secret<br>address<br>over<br>wolf<br>recall<br>female
+bip_39_word_new_br7: secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest
+bip_39_word_new_br8: secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack
+bip_39_word_new_br9: secret<br>address<br>over<br>wolf<br>recall<br>female<br>suggest<br>attack<br>gallery
+bip_39_word_new_line1: secret
+bip_39_word_new_line10: 'secret
+
+  address
+
+  over
+
+  wolf
+
+  recall
+
+  female
+
+  suggest
+
+  attack
+
+  gallery
+
+  crater'
+bip_39_word_new_line11: 'secret
+
+  address
+
+  over
+
+  wolf
+
+  recall
+
+  female
+
+  suggest
+
+  attack
+
+  gallery
+
+  crater
+
+  pill'
+bip_39_word_new_line12: 'secret
+
+  address
+
+  over
+
+  wolf
+
+  recall
+
+  female
+
+  suggest
+
+  attack
+
+  gallery
+
+  crater
+
+  pill
+
+  antenna'
+bip_39_word_new_line2: 'secret
+
+  address'
+bip_39_word_new_line3: 'secret
+
+  address
+
+  over'
+bip_39_word_new_line4: 'secret
+
+  address
+
+  over
+
+  wolf'
+bip_39_word_new_line5: 'secret
+
+  address
+
+  over
+
+  wolf
+
+  recall'
+bip_39_word_new_line6: 'secret
+
+  address
+
+  over
+
+  wolf
+
+  recall
+
+  female'
+bip_39_word_new_line7: 'secret
+
+  address
+
+  over
+
+  wolf
+
+  recall
+
+  female
+
+  suggest'
+bip_39_word_new_line8: 'secret
+
+  address
+
+  over
+
+  wolf
+
+  recall
+
+  female
+
+  suggest
+
+  attack'
+bip_39_word_new_line9: 'secret
+
+  address
+
+  over
+
+  wolf
+
+  recall
+
+  female
+
+  suggest
+
+  attack
+
+  gallery'
+bip_39_word_space_0:
+- secret
+- address
+- over
+- wolf
+- recall
+- female
+- suggest
+- attack
+- gallery
+- crater
+- pill
+- antenna
+bip_39_word_space_1: secret
+bip_39_word_space_10: secret address over wolf recall female suggest attack gallery
+  crater
+bip_39_word_space_11: secret address over wolf recall female suggest attack gallery
+  crater pill
+bip_39_word_space_12: secret address over wolf recall female suggest attack gallery
+  crater pill antenna
+bip_39_word_space_2: secret address
+bip_39_word_space_3: secret address over
+bip_39_word_space_4: secret address over wolf
+bip_39_word_space_5: secret address over wolf recall
+bip_39_word_space_6: secret address over wolf recall female
+bip_39_word_space_7: secret address over wolf recall female suggest
+bip_39_word_space_8: secret address over wolf recall female suggest attack
+bip_39_word_space_9: secret address over wolf recall female suggest attack gallery
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

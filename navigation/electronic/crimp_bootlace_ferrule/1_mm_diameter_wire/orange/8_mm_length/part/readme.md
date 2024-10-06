@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jelly build
+  * bip 39 word 3: jelly build huge
+  * bip 39 word: jelly build huge child ozone sick melt lens city embark tourist ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jelly |  
+| bip_39_word_new_br10 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark |  
+| bip_39_word_new_br11 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark<br>tourist |  
+| bip_39_word_new_br12 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city<br>embark<br>tourist<br>ability |  
+| bip_39_word_new_br2 | jelly<br>build |  
+| bip_39_word_new_br3 | jelly<br>build<br>huge |  
+| bip_39_word_new_br4 | jelly<br>build<br>huge<br>child |  
+| bip_39_word_new_br5 | jelly<br>build<br>huge<br>child<br>ozone |  
+| bip_39_word_new_br6 | jelly<br>build<br>huge<br>child<br>ozone<br>sick |  
+| bip_39_word_new_br7 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt |  
+| bip_39_word_new_br8 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens |  
+| bip_39_word_new_br9 | jelly<br>build<br>huge<br>child<br>ozone<br>sick<br>melt<br>lens<br>city |  
+| bip_39_word_new_line1 | jelly |  
+| bip_39_word_new_line10 | jelly
+build
+huge
+child
+ozone
+sick
+melt
+lens
+city
+embark |  
+| bip_39_word_new_line11 | jelly
+build
+huge
+child
+ozone
+sick
+melt
+lens
+city
+embark
+tourist |  
+| bip_39_word_new_line12 | jelly
+build
+huge
+child
+ozone
+sick
+melt
+lens
+city
+embark
+tourist
+ability |  
+| bip_39_word_new_line2 | jelly
+build |  
+| bip_39_word_new_line3 | jelly
+build
+huge |  
+| bip_39_word_new_line4 | jelly
+build
+huge
+child |  
+| bip_39_word_new_line5 | jelly
+build
+huge
+child
+ozone |  
+| bip_39_word_new_line6 | jelly
+build
+huge
+child
+ozone
+sick |  
+| bip_39_word_new_line7 | jelly
+build
+huge
+child
+ozone
+sick
+melt |  
+| bip_39_word_new_line8 | jelly
+build
+huge
+child
+ozone
+sick
+melt
+lens |  
+| bip_39_word_new_line9 | jelly
+build
+huge
+child
+ozone
+sick
+melt
+lens
+city |  
+| bip_39_word_space_0 | ['jelly', 'build', 'huge', 'child', 'ozone', 'sick', 'melt', 'lens', 'city', 'embark', 'tourist', 'ability'] |  
+| bip_39_word_space_1 | jelly |  
+| bip_39_word_space_10 | jelly build huge child ozone sick melt lens city embark |  
+| bip_39_word_space_11 | jelly build huge child ozone sick melt lens city embark tourist |  
+| bip_39_word_space_12 | jelly build huge child ozone sick melt lens city embark tourist ability |  
+| bip_39_word_space_2 | jelly build |  
+| bip_39_word_space_3 | jelly build huge |  
+| bip_39_word_space_4 | jelly build huge child |  
+| bip_39_word_space_5 | jelly build huge child ozone |  
+| bip_39_word_space_6 | jelly build huge child ozone sick |  
+| bip_39_word_space_7 | jelly build huge child ozone sick melt |  
+| bip_39_word_space_8 | jelly build huge child ozone sick melt lens |  
+| bip_39_word_space_9 | jelly build huge child ozone sick melt lens city |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

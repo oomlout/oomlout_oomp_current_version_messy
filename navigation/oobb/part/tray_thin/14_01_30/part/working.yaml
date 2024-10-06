@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ordinary
+bip_39_word_new_br10: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup
+bip_39_word_new_br11: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup<br>tissue
+bip_39_word_new_br12: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy<br>setup<br>tissue<br>attack
+bip_39_word_new_br2: ordinary<br>input
+bip_39_word_new_br3: ordinary<br>input<br>toy
+bip_39_word_new_br4: ordinary<br>input<br>toy<br>marriage
+bip_39_word_new_br5: ordinary<br>input<br>toy<br>marriage<br>similar
+bip_39_word_new_br6: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify
+bip_39_word_new_br7: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder
+bip_39_word_new_br8: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb
+bip_39_word_new_br9: ordinary<br>input<br>toy<br>marriage<br>similar<br>verify<br>ladder<br>bomb<br>energy
+bip_39_word_new_line1: ordinary
+bip_39_word_new_line10: 'ordinary
+
+  input
+
+  toy
+
+  marriage
+
+  similar
+
+  verify
+
+  ladder
+
+  bomb
+
+  energy
+
+  setup'
+bip_39_word_new_line11: 'ordinary
+
+  input
+
+  toy
+
+  marriage
+
+  similar
+
+  verify
+
+  ladder
+
+  bomb
+
+  energy
+
+  setup
+
+  tissue'
+bip_39_word_new_line12: 'ordinary
+
+  input
+
+  toy
+
+  marriage
+
+  similar
+
+  verify
+
+  ladder
+
+  bomb
+
+  energy
+
+  setup
+
+  tissue
+
+  attack'
+bip_39_word_new_line2: 'ordinary
+
+  input'
+bip_39_word_new_line3: 'ordinary
+
+  input
+
+  toy'
+bip_39_word_new_line4: 'ordinary
+
+  input
+
+  toy
+
+  marriage'
+bip_39_word_new_line5: 'ordinary
+
+  input
+
+  toy
+
+  marriage
+
+  similar'
+bip_39_word_new_line6: 'ordinary
+
+  input
+
+  toy
+
+  marriage
+
+  similar
+
+  verify'
+bip_39_word_new_line7: 'ordinary
+
+  input
+
+  toy
+
+  marriage
+
+  similar
+
+  verify
+
+  ladder'
+bip_39_word_new_line8: 'ordinary
+
+  input
+
+  toy
+
+  marriage
+
+  similar
+
+  verify
+
+  ladder
+
+  bomb'
+bip_39_word_new_line9: 'ordinary
+
+  input
+
+  toy
+
+  marriage
+
+  similar
+
+  verify
+
+  ladder
+
+  bomb
+
+  energy'
+bip_39_word_space_0:
+- ordinary
+- input
+- toy
+- marriage
+- similar
+- verify
+- ladder
+- bomb
+- energy
+- setup
+- tissue
+- attack
+bip_39_word_space_1: ordinary
+bip_39_word_space_10: ordinary input toy marriage similar verify ladder bomb energy
+  setup
+bip_39_word_space_11: ordinary input toy marriage similar verify ladder bomb energy
+  setup tissue
+bip_39_word_space_12: ordinary input toy marriage similar verify ladder bomb energy
+  setup tissue attack
+bip_39_word_space_2: ordinary input
+bip_39_word_space_3: ordinary input toy
+bip_39_word_space_4: ordinary input toy marriage
+bip_39_word_space_5: ordinary input toy marriage similar
+bip_39_word_space_6: ordinary input toy marriage similar verify
+bip_39_word_space_7: ordinary input toy marriage similar verify ladder
+bip_39_word_space_8: ordinary input toy marriage similar verify ladder bomb
+bip_39_word_space_9: ordinary input toy marriage similar verify ladder bomb energy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

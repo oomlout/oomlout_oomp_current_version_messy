@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cattle iron
+  * bip 39 word 3: cattle iron people
+  * bip 39 word: cattle iron people party memory tomato disease museum tone tattoo benefit add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cattle |  
+| bip_39_word_new_br10 | cattle<br>iron<br>people<br>party<br>memory<br>tomato<br>disease<br>museum<br>tone<br>tattoo |  
+| bip_39_word_new_br11 | cattle<br>iron<br>people<br>party<br>memory<br>tomato<br>disease<br>museum<br>tone<br>tattoo<br>benefit |  
+| bip_39_word_new_br12 | cattle<br>iron<br>people<br>party<br>memory<br>tomato<br>disease<br>museum<br>tone<br>tattoo<br>benefit<br>add |  
+| bip_39_word_new_br2 | cattle<br>iron |  
+| bip_39_word_new_br3 | cattle<br>iron<br>people |  
+| bip_39_word_new_br4 | cattle<br>iron<br>people<br>party |  
+| bip_39_word_new_br5 | cattle<br>iron<br>people<br>party<br>memory |  
+| bip_39_word_new_br6 | cattle<br>iron<br>people<br>party<br>memory<br>tomato |  
+| bip_39_word_new_br7 | cattle<br>iron<br>people<br>party<br>memory<br>tomato<br>disease |  
+| bip_39_word_new_br8 | cattle<br>iron<br>people<br>party<br>memory<br>tomato<br>disease<br>museum |  
+| bip_39_word_new_br9 | cattle<br>iron<br>people<br>party<br>memory<br>tomato<br>disease<br>museum<br>tone |  
+| bip_39_word_new_line1 | cattle |  
+| bip_39_word_new_line10 | cattle
+iron
+people
+party
+memory
+tomato
+disease
+museum
+tone
+tattoo |  
+| bip_39_word_new_line11 | cattle
+iron
+people
+party
+memory
+tomato
+disease
+museum
+tone
+tattoo
+benefit |  
+| bip_39_word_new_line12 | cattle
+iron
+people
+party
+memory
+tomato
+disease
+museum
+tone
+tattoo
+benefit
+add |  
+| bip_39_word_new_line2 | cattle
+iron |  
+| bip_39_word_new_line3 | cattle
+iron
+people |  
+| bip_39_word_new_line4 | cattle
+iron
+people
+party |  
+| bip_39_word_new_line5 | cattle
+iron
+people
+party
+memory |  
+| bip_39_word_new_line6 | cattle
+iron
+people
+party
+memory
+tomato |  
+| bip_39_word_new_line7 | cattle
+iron
+people
+party
+memory
+tomato
+disease |  
+| bip_39_word_new_line8 | cattle
+iron
+people
+party
+memory
+tomato
+disease
+museum |  
+| bip_39_word_new_line9 | cattle
+iron
+people
+party
+memory
+tomato
+disease
+museum
+tone |  
+| bip_39_word_space_0 | ['cattle', 'iron', 'people', 'party', 'memory', 'tomato', 'disease', 'museum', 'tone', 'tattoo', 'benefit', 'add'] |  
+| bip_39_word_space_1 | cattle |  
+| bip_39_word_space_10 | cattle iron people party memory tomato disease museum tone tattoo |  
+| bip_39_word_space_11 | cattle iron people party memory tomato disease museum tone tattoo benefit |  
+| bip_39_word_space_12 | cattle iron people party memory tomato disease museum tone tattoo benefit add |  
+| bip_39_word_space_2 | cattle iron |  
+| bip_39_word_space_3 | cattle iron people |  
+| bip_39_word_space_4 | cattle iron people party |  
+| bip_39_word_space_5 | cattle iron people party memory |  
+| bip_39_word_space_6 | cattle iron people party memory tomato |  
+| bip_39_word_space_7 | cattle iron people party memory tomato disease |  
+| bip_39_word_space_8 | cattle iron people party memory tomato disease museum |  
+| bip_39_word_space_9 | cattle iron people party memory tomato disease museum tone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

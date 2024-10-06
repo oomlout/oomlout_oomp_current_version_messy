@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: card main
+  * bip 39 word 3: card main rent
+  * bip 39 word: card main rent outdoor gadget fault various poem industry salmon dial around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | card |  
+| bip_39_word_new_br10 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon |  
+| bip_39_word_new_br11 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon<br>dial |  
+| bip_39_word_new_br12 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon<br>dial<br>around |  
+| bip_39_word_new_br2 | card<br>main |  
+| bip_39_word_new_br3 | card<br>main<br>rent |  
+| bip_39_word_new_br4 | card<br>main<br>rent<br>outdoor |  
+| bip_39_word_new_br5 | card<br>main<br>rent<br>outdoor<br>gadget |  
+| bip_39_word_new_br6 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault |  
+| bip_39_word_new_br7 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various |  
+| bip_39_word_new_br8 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem |  
+| bip_39_word_new_br9 | card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry |  
+| bip_39_word_new_line1 | card |  
+| bip_39_word_new_line10 | card
+main
+rent
+outdoor
+gadget
+fault
+various
+poem
+industry
+salmon |  
+| bip_39_word_new_line11 | card
+main
+rent
+outdoor
+gadget
+fault
+various
+poem
+industry
+salmon
+dial |  
+| bip_39_word_new_line12 | card
+main
+rent
+outdoor
+gadget
+fault
+various
+poem
+industry
+salmon
+dial
+around |  
+| bip_39_word_new_line2 | card
+main |  
+| bip_39_word_new_line3 | card
+main
+rent |  
+| bip_39_word_new_line4 | card
+main
+rent
+outdoor |  
+| bip_39_word_new_line5 | card
+main
+rent
+outdoor
+gadget |  
+| bip_39_word_new_line6 | card
+main
+rent
+outdoor
+gadget
+fault |  
+| bip_39_word_new_line7 | card
+main
+rent
+outdoor
+gadget
+fault
+various |  
+| bip_39_word_new_line8 | card
+main
+rent
+outdoor
+gadget
+fault
+various
+poem |  
+| bip_39_word_new_line9 | card
+main
+rent
+outdoor
+gadget
+fault
+various
+poem
+industry |  
+| bip_39_word_space_0 | ['card', 'main', 'rent', 'outdoor', 'gadget', 'fault', 'various', 'poem', 'industry', 'salmon', 'dial', 'around'] |  
+| bip_39_word_space_1 | card |  
+| bip_39_word_space_10 | card main rent outdoor gadget fault various poem industry salmon |  
+| bip_39_word_space_11 | card main rent outdoor gadget fault various poem industry salmon dial |  
+| bip_39_word_space_12 | card main rent outdoor gadget fault various poem industry salmon dial around |  
+| bip_39_word_space_2 | card main |  
+| bip_39_word_space_3 | card main rent |  
+| bip_39_word_space_4 | card main rent outdoor |  
+| bip_39_word_space_5 | card main rent outdoor gadget |  
+| bip_39_word_space_6 | card main rent outdoor gadget fault |  
+| bip_39_word_space_7 | card main rent outdoor gadget fault various |  
+| bip_39_word_space_8 | card main rent outdoor gadget fault various poem |  
+| bip_39_word_space_9 | card main rent outdoor gadget fault various poem industry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: few
+bip_39_word_new_br10: few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley
+bip_39_word_new_br11: few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley<br>glance
+bip_39_word_new_br12: few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory<br>valley<br>glance<br>already
+bip_39_word_new_br2: few<br>seminar
+bip_39_word_new_br3: few<br>seminar<br>pioneer
+bip_39_word_new_br4: few<br>seminar<br>pioneer<br>curtain
+bip_39_word_new_br5: few<br>seminar<br>pioneer<br>curtain<br>print
+bip_39_word_new_br6: few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla
+bip_39_word_new_br7: few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge
+bip_39_word_new_br8: few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed
+bip_39_word_new_br9: few<br>seminar<br>pioneer<br>curtain<br>print<br>gorilla<br>plunge<br>feed<br>ivory
+bip_39_word_new_line1: few
+bip_39_word_new_line10: 'few
+
+  seminar
+
+  pioneer
+
+  curtain
+
+  print
+
+  gorilla
+
+  plunge
+
+  feed
+
+  ivory
+
+  valley'
+bip_39_word_new_line11: 'few
+
+  seminar
+
+  pioneer
+
+  curtain
+
+  print
+
+  gorilla
+
+  plunge
+
+  feed
+
+  ivory
+
+  valley
+
+  glance'
+bip_39_word_new_line12: 'few
+
+  seminar
+
+  pioneer
+
+  curtain
+
+  print
+
+  gorilla
+
+  plunge
+
+  feed
+
+  ivory
+
+  valley
+
+  glance
+
+  already'
+bip_39_word_new_line2: 'few
+
+  seminar'
+bip_39_word_new_line3: 'few
+
+  seminar
+
+  pioneer'
+bip_39_word_new_line4: 'few
+
+  seminar
+
+  pioneer
+
+  curtain'
+bip_39_word_new_line5: 'few
+
+  seminar
+
+  pioneer
+
+  curtain
+
+  print'
+bip_39_word_new_line6: 'few
+
+  seminar
+
+  pioneer
+
+  curtain
+
+  print
+
+  gorilla'
+bip_39_word_new_line7: 'few
+
+  seminar
+
+  pioneer
+
+  curtain
+
+  print
+
+  gorilla
+
+  plunge'
+bip_39_word_new_line8: 'few
+
+  seminar
+
+  pioneer
+
+  curtain
+
+  print
+
+  gorilla
+
+  plunge
+
+  feed'
+bip_39_word_new_line9: 'few
+
+  seminar
+
+  pioneer
+
+  curtain
+
+  print
+
+  gorilla
+
+  plunge
+
+  feed
+
+  ivory'
+bip_39_word_space_0:
+- few
+- seminar
+- pioneer
+- curtain
+- print
+- gorilla
+- plunge
+- feed
+- ivory
+- valley
+- glance
+- already
+bip_39_word_space_1: few
+bip_39_word_space_10: few seminar pioneer curtain print gorilla plunge feed ivory
+  valley
+bip_39_word_space_11: few seminar pioneer curtain print gorilla plunge feed ivory
+  valley glance
+bip_39_word_space_12: few seminar pioneer curtain print gorilla plunge feed ivory
+  valley glance already
+bip_39_word_space_2: few seminar
+bip_39_word_space_3: few seminar pioneer
+bip_39_word_space_4: few seminar pioneer curtain
+bip_39_word_space_5: few seminar pioneer curtain print
+bip_39_word_space_6: few seminar pioneer curtain print gorilla
+bip_39_word_space_7: few seminar pioneer curtain print gorilla plunge
+bip_39_word_space_8: few seminar pioneer curtain print gorilla plunge feed
+bip_39_word_space_9: few seminar pioneer curtain print gorilla plunge feed ivory
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

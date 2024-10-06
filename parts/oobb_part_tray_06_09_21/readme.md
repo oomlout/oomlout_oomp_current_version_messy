@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: snake unique
+  * bip 39 word 3: snake unique orchard
+  * bip 39 word: snake unique orchard aspect expire honey ketchup timber path electric cabin allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | snake |  
+| bip_39_word_new_br10 | snake<br>unique<br>orchard<br>aspect<br>expire<br>honey<br>ketchup<br>timber<br>path<br>electric |  
+| bip_39_word_new_br11 | snake<br>unique<br>orchard<br>aspect<br>expire<br>honey<br>ketchup<br>timber<br>path<br>electric<br>cabin |  
+| bip_39_word_new_br12 | snake<br>unique<br>orchard<br>aspect<br>expire<br>honey<br>ketchup<br>timber<br>path<br>electric<br>cabin<br>allow |  
+| bip_39_word_new_br2 | snake<br>unique |  
+| bip_39_word_new_br3 | snake<br>unique<br>orchard |  
+| bip_39_word_new_br4 | snake<br>unique<br>orchard<br>aspect |  
+| bip_39_word_new_br5 | snake<br>unique<br>orchard<br>aspect<br>expire |  
+| bip_39_word_new_br6 | snake<br>unique<br>orchard<br>aspect<br>expire<br>honey |  
+| bip_39_word_new_br7 | snake<br>unique<br>orchard<br>aspect<br>expire<br>honey<br>ketchup |  
+| bip_39_word_new_br8 | snake<br>unique<br>orchard<br>aspect<br>expire<br>honey<br>ketchup<br>timber |  
+| bip_39_word_new_br9 | snake<br>unique<br>orchard<br>aspect<br>expire<br>honey<br>ketchup<br>timber<br>path |  
+| bip_39_word_new_line1 | snake |  
+| bip_39_word_new_line10 | snake
+unique
+orchard
+aspect
+expire
+honey
+ketchup
+timber
+path
+electric |  
+| bip_39_word_new_line11 | snake
+unique
+orchard
+aspect
+expire
+honey
+ketchup
+timber
+path
+electric
+cabin |  
+| bip_39_word_new_line12 | snake
+unique
+orchard
+aspect
+expire
+honey
+ketchup
+timber
+path
+electric
+cabin
+allow |  
+| bip_39_word_new_line2 | snake
+unique |  
+| bip_39_word_new_line3 | snake
+unique
+orchard |  
+| bip_39_word_new_line4 | snake
+unique
+orchard
+aspect |  
+| bip_39_word_new_line5 | snake
+unique
+orchard
+aspect
+expire |  
+| bip_39_word_new_line6 | snake
+unique
+orchard
+aspect
+expire
+honey |  
+| bip_39_word_new_line7 | snake
+unique
+orchard
+aspect
+expire
+honey
+ketchup |  
+| bip_39_word_new_line8 | snake
+unique
+orchard
+aspect
+expire
+honey
+ketchup
+timber |  
+| bip_39_word_new_line9 | snake
+unique
+orchard
+aspect
+expire
+honey
+ketchup
+timber
+path |  
+| bip_39_word_space_0 | ['snake', 'unique', 'orchard', 'aspect', 'expire', 'honey', 'ketchup', 'timber', 'path', 'electric', 'cabin', 'allow'] |  
+| bip_39_word_space_1 | snake |  
+| bip_39_word_space_10 | snake unique orchard aspect expire honey ketchup timber path electric |  
+| bip_39_word_space_11 | snake unique orchard aspect expire honey ketchup timber path electric cabin |  
+| bip_39_word_space_12 | snake unique orchard aspect expire honey ketchup timber path electric cabin allow |  
+| bip_39_word_space_2 | snake unique |  
+| bip_39_word_space_3 | snake unique orchard |  
+| bip_39_word_space_4 | snake unique orchard aspect |  
+| bip_39_word_space_5 | snake unique orchard aspect expire |  
+| bip_39_word_space_6 | snake unique orchard aspect expire honey |  
+| bip_39_word_space_7 | snake unique orchard aspect expire honey ketchup |  
+| bip_39_word_space_8 | snake unique orchard aspect expire honey ketchup timber |  
+| bip_39_word_space_9 | snake unique orchard aspect expire honey ketchup timber path |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

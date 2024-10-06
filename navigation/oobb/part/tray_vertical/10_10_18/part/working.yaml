@@ -1,3 +1,187 @@
+bip_39_word_new_br1: afraid
+bip_39_word_new_br10: afraid<br>during<br>trophy<br>gown<br>monster<br>arctic<br>viable<br>canoe<br>sleep<br>opinion
+bip_39_word_new_br11: afraid<br>during<br>trophy<br>gown<br>monster<br>arctic<br>viable<br>canoe<br>sleep<br>opinion<br>raven
+bip_39_word_new_br12: afraid<br>during<br>trophy<br>gown<br>monster<br>arctic<br>viable<br>canoe<br>sleep<br>opinion<br>raven<br>admit
+bip_39_word_new_br2: afraid<br>during
+bip_39_word_new_br3: afraid<br>during<br>trophy
+bip_39_word_new_br4: afraid<br>during<br>trophy<br>gown
+bip_39_word_new_br5: afraid<br>during<br>trophy<br>gown<br>monster
+bip_39_word_new_br6: afraid<br>during<br>trophy<br>gown<br>monster<br>arctic
+bip_39_word_new_br7: afraid<br>during<br>trophy<br>gown<br>monster<br>arctic<br>viable
+bip_39_word_new_br8: afraid<br>during<br>trophy<br>gown<br>monster<br>arctic<br>viable<br>canoe
+bip_39_word_new_br9: afraid<br>during<br>trophy<br>gown<br>monster<br>arctic<br>viable<br>canoe<br>sleep
+bip_39_word_new_line1: afraid
+bip_39_word_new_line10: 'afraid
+
+  during
+
+  trophy
+
+  gown
+
+  monster
+
+  arctic
+
+  viable
+
+  canoe
+
+  sleep
+
+  opinion'
+bip_39_word_new_line11: 'afraid
+
+  during
+
+  trophy
+
+  gown
+
+  monster
+
+  arctic
+
+  viable
+
+  canoe
+
+  sleep
+
+  opinion
+
+  raven'
+bip_39_word_new_line12: 'afraid
+
+  during
+
+  trophy
+
+  gown
+
+  monster
+
+  arctic
+
+  viable
+
+  canoe
+
+  sleep
+
+  opinion
+
+  raven
+
+  admit'
+bip_39_word_new_line2: 'afraid
+
+  during'
+bip_39_word_new_line3: 'afraid
+
+  during
+
+  trophy'
+bip_39_word_new_line4: 'afraid
+
+  during
+
+  trophy
+
+  gown'
+bip_39_word_new_line5: 'afraid
+
+  during
+
+  trophy
+
+  gown
+
+  monster'
+bip_39_word_new_line6: 'afraid
+
+  during
+
+  trophy
+
+  gown
+
+  monster
+
+  arctic'
+bip_39_word_new_line7: 'afraid
+
+  during
+
+  trophy
+
+  gown
+
+  monster
+
+  arctic
+
+  viable'
+bip_39_word_new_line8: 'afraid
+
+  during
+
+  trophy
+
+  gown
+
+  monster
+
+  arctic
+
+  viable
+
+  canoe'
+bip_39_word_new_line9: 'afraid
+
+  during
+
+  trophy
+
+  gown
+
+  monster
+
+  arctic
+
+  viable
+
+  canoe
+
+  sleep'
+bip_39_word_space_0:
+- afraid
+- during
+- trophy
+- gown
+- monster
+- arctic
+- viable
+- canoe
+- sleep
+- opinion
+- raven
+- admit
+bip_39_word_space_1: afraid
+bip_39_word_space_10: afraid during trophy gown monster arctic viable canoe sleep
+  opinion
+bip_39_word_space_11: afraid during trophy gown monster arctic viable canoe sleep
+  opinion raven
+bip_39_word_space_12: afraid during trophy gown monster arctic viable canoe sleep
+  opinion raven admit
+bip_39_word_space_2: afraid during
+bip_39_word_space_3: afraid during trophy
+bip_39_word_space_4: afraid during trophy gown
+bip_39_word_space_5: afraid during trophy gown monster
+bip_39_word_space_6: afraid during trophy gown monster arctic
+bip_39_word_space_7: afraid during trophy gown monster arctic viable
+bip_39_word_space_8: afraid during trophy gown monster arctic viable canoe
+bip_39_word_space_9: afraid during trophy gown monster arctic viable canoe sleep
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

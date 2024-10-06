@@ -1,3 +1,186 @@
+bip_39_word_new_br1: online
+bip_39_word_new_br10: online<br>deer<br>chalk<br>employ<br>curve<br>horror<br>survey<br>amused<br>enjoy<br>chronic
+bip_39_word_new_br11: online<br>deer<br>chalk<br>employ<br>curve<br>horror<br>survey<br>amused<br>enjoy<br>chronic<br>pull
+bip_39_word_new_br12: online<br>deer<br>chalk<br>employ<br>curve<br>horror<br>survey<br>amused<br>enjoy<br>chronic<br>pull<br>action
+bip_39_word_new_br2: online<br>deer
+bip_39_word_new_br3: online<br>deer<br>chalk
+bip_39_word_new_br4: online<br>deer<br>chalk<br>employ
+bip_39_word_new_br5: online<br>deer<br>chalk<br>employ<br>curve
+bip_39_word_new_br6: online<br>deer<br>chalk<br>employ<br>curve<br>horror
+bip_39_word_new_br7: online<br>deer<br>chalk<br>employ<br>curve<br>horror<br>survey
+bip_39_word_new_br8: online<br>deer<br>chalk<br>employ<br>curve<br>horror<br>survey<br>amused
+bip_39_word_new_br9: online<br>deer<br>chalk<br>employ<br>curve<br>horror<br>survey<br>amused<br>enjoy
+bip_39_word_new_line1: online
+bip_39_word_new_line10: 'online
+
+  deer
+
+  chalk
+
+  employ
+
+  curve
+
+  horror
+
+  survey
+
+  amused
+
+  enjoy
+
+  chronic'
+bip_39_word_new_line11: 'online
+
+  deer
+
+  chalk
+
+  employ
+
+  curve
+
+  horror
+
+  survey
+
+  amused
+
+  enjoy
+
+  chronic
+
+  pull'
+bip_39_word_new_line12: 'online
+
+  deer
+
+  chalk
+
+  employ
+
+  curve
+
+  horror
+
+  survey
+
+  amused
+
+  enjoy
+
+  chronic
+
+  pull
+
+  action'
+bip_39_word_new_line2: 'online
+
+  deer'
+bip_39_word_new_line3: 'online
+
+  deer
+
+  chalk'
+bip_39_word_new_line4: 'online
+
+  deer
+
+  chalk
+
+  employ'
+bip_39_word_new_line5: 'online
+
+  deer
+
+  chalk
+
+  employ
+
+  curve'
+bip_39_word_new_line6: 'online
+
+  deer
+
+  chalk
+
+  employ
+
+  curve
+
+  horror'
+bip_39_word_new_line7: 'online
+
+  deer
+
+  chalk
+
+  employ
+
+  curve
+
+  horror
+
+  survey'
+bip_39_word_new_line8: 'online
+
+  deer
+
+  chalk
+
+  employ
+
+  curve
+
+  horror
+
+  survey
+
+  amused'
+bip_39_word_new_line9: 'online
+
+  deer
+
+  chalk
+
+  employ
+
+  curve
+
+  horror
+
+  survey
+
+  amused
+
+  enjoy'
+bip_39_word_space_0:
+- online
+- deer
+- chalk
+- employ
+- curve
+- horror
+- survey
+- amused
+- enjoy
+- chronic
+- pull
+- action
+bip_39_word_space_1: online
+bip_39_word_space_10: online deer chalk employ curve horror survey amused enjoy chronic
+bip_39_word_space_11: online deer chalk employ curve horror survey amused enjoy chronic
+  pull
+bip_39_word_space_12: online deer chalk employ curve horror survey amused enjoy chronic
+  pull action
+bip_39_word_space_2: online deer
+bip_39_word_space_3: online deer chalk
+bip_39_word_space_4: online deer chalk employ
+bip_39_word_space_5: online deer chalk employ curve
+bip_39_word_space_6: online deer chalk employ curve horror
+bip_39_word_space_7: online deer chalk employ curve horror survey
+bip_39_word_space_8: online deer chalk employ curve horror survey amused
+bip_39_word_space_9: online deer chalk employ curve horror survey amused enjoy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

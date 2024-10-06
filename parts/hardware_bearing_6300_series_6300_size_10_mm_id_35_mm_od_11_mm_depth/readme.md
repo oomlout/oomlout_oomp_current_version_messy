@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: night box
+  * bip 39 word 3: night box minor
+  * bip 39 word: night box minor segment pony limb light indoor horse machine advice accuse
 
 ### other_codes
 * short_code: br6300
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | night |  
+| bip_39_word_new_br10 | night<br>box<br>minor<br>segment<br>pony<br>limb<br>light<br>indoor<br>horse<br>machine |  
+| bip_39_word_new_br11 | night<br>box<br>minor<br>segment<br>pony<br>limb<br>light<br>indoor<br>horse<br>machine<br>advice |  
+| bip_39_word_new_br12 | night<br>box<br>minor<br>segment<br>pony<br>limb<br>light<br>indoor<br>horse<br>machine<br>advice<br>accuse |  
+| bip_39_word_new_br2 | night<br>box |  
+| bip_39_word_new_br3 | night<br>box<br>minor |  
+| bip_39_word_new_br4 | night<br>box<br>minor<br>segment |  
+| bip_39_word_new_br5 | night<br>box<br>minor<br>segment<br>pony |  
+| bip_39_word_new_br6 | night<br>box<br>minor<br>segment<br>pony<br>limb |  
+| bip_39_word_new_br7 | night<br>box<br>minor<br>segment<br>pony<br>limb<br>light |  
+| bip_39_word_new_br8 | night<br>box<br>minor<br>segment<br>pony<br>limb<br>light<br>indoor |  
+| bip_39_word_new_br9 | night<br>box<br>minor<br>segment<br>pony<br>limb<br>light<br>indoor<br>horse |  
+| bip_39_word_new_line1 | night |  
+| bip_39_word_new_line10 | night
+box
+minor
+segment
+pony
+limb
+light
+indoor
+horse
+machine |  
+| bip_39_word_new_line11 | night
+box
+minor
+segment
+pony
+limb
+light
+indoor
+horse
+machine
+advice |  
+| bip_39_word_new_line12 | night
+box
+minor
+segment
+pony
+limb
+light
+indoor
+horse
+machine
+advice
+accuse |  
+| bip_39_word_new_line2 | night
+box |  
+| bip_39_word_new_line3 | night
+box
+minor |  
+| bip_39_word_new_line4 | night
+box
+minor
+segment |  
+| bip_39_word_new_line5 | night
+box
+minor
+segment
+pony |  
+| bip_39_word_new_line6 | night
+box
+minor
+segment
+pony
+limb |  
+| bip_39_word_new_line7 | night
+box
+minor
+segment
+pony
+limb
+light |  
+| bip_39_word_new_line8 | night
+box
+minor
+segment
+pony
+limb
+light
+indoor |  
+| bip_39_word_new_line9 | night
+box
+minor
+segment
+pony
+limb
+light
+indoor
+horse |  
+| bip_39_word_space_0 | ['night', 'box', 'minor', 'segment', 'pony', 'limb', 'light', 'indoor', 'horse', 'machine', 'advice', 'accuse'] |  
+| bip_39_word_space_1 | night |  
+| bip_39_word_space_10 | night box minor segment pony limb light indoor horse machine |  
+| bip_39_word_space_11 | night box minor segment pony limb light indoor horse machine advice |  
+| bip_39_word_space_12 | night box minor segment pony limb light indoor horse machine advice accuse |  
+| bip_39_word_space_2 | night box |  
+| bip_39_word_space_3 | night box minor |  
+| bip_39_word_space_4 | night box minor segment |  
+| bip_39_word_space_5 | night box minor segment pony |  
+| bip_39_word_space_6 | night box minor segment pony limb |  
+| bip_39_word_space_7 | night box minor segment pony limb light |  
+| bip_39_word_space_8 | night box minor segment pony limb light indoor |  
+| bip_39_word_space_9 | night box minor segment pony limb light indoor horse |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

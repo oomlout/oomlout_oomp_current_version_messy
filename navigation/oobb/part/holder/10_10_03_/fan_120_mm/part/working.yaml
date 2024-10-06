@@ -1,3 +1,186 @@
+bip_39_word_new_br1: afraid
+bip_39_word_new_br10: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology
+bip_39_word_new_br11: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology<br>cotton
+bip_39_word_new_br12: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll<br>apology<br>cotton<br>apart
+bip_39_word_new_br2: afraid<br>cherry
+bip_39_word_new_br3: afraid<br>cherry<br>harbor
+bip_39_word_new_br4: afraid<br>cherry<br>harbor<br>snow
+bip_39_word_new_br5: afraid<br>cherry<br>harbor<br>snow<br>sketch
+bip_39_word_new_br6: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava
+bip_39_word_new_br7: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today
+bip_39_word_new_br8: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur
+bip_39_word_new_br9: afraid<br>cherry<br>harbor<br>snow<br>sketch<br>lava<br>today<br>blur<br>enroll
+bip_39_word_new_line1: afraid
+bip_39_word_new_line10: 'afraid
+
+  cherry
+
+  harbor
+
+  snow
+
+  sketch
+
+  lava
+
+  today
+
+  blur
+
+  enroll
+
+  apology'
+bip_39_word_new_line11: 'afraid
+
+  cherry
+
+  harbor
+
+  snow
+
+  sketch
+
+  lava
+
+  today
+
+  blur
+
+  enroll
+
+  apology
+
+  cotton'
+bip_39_word_new_line12: 'afraid
+
+  cherry
+
+  harbor
+
+  snow
+
+  sketch
+
+  lava
+
+  today
+
+  blur
+
+  enroll
+
+  apology
+
+  cotton
+
+  apart'
+bip_39_word_new_line2: 'afraid
+
+  cherry'
+bip_39_word_new_line3: 'afraid
+
+  cherry
+
+  harbor'
+bip_39_word_new_line4: 'afraid
+
+  cherry
+
+  harbor
+
+  snow'
+bip_39_word_new_line5: 'afraid
+
+  cherry
+
+  harbor
+
+  snow
+
+  sketch'
+bip_39_word_new_line6: 'afraid
+
+  cherry
+
+  harbor
+
+  snow
+
+  sketch
+
+  lava'
+bip_39_word_new_line7: 'afraid
+
+  cherry
+
+  harbor
+
+  snow
+
+  sketch
+
+  lava
+
+  today'
+bip_39_word_new_line8: 'afraid
+
+  cherry
+
+  harbor
+
+  snow
+
+  sketch
+
+  lava
+
+  today
+
+  blur'
+bip_39_word_new_line9: 'afraid
+
+  cherry
+
+  harbor
+
+  snow
+
+  sketch
+
+  lava
+
+  today
+
+  blur
+
+  enroll'
+bip_39_word_space_0:
+- afraid
+- cherry
+- harbor
+- snow
+- sketch
+- lava
+- today
+- blur
+- enroll
+- apology
+- cotton
+- apart
+bip_39_word_space_1: afraid
+bip_39_word_space_10: afraid cherry harbor snow sketch lava today blur enroll apology
+bip_39_word_space_11: afraid cherry harbor snow sketch lava today blur enroll apology
+  cotton
+bip_39_word_space_12: afraid cherry harbor snow sketch lava today blur enroll apology
+  cotton apart
+bip_39_word_space_2: afraid cherry
+bip_39_word_space_3: afraid cherry harbor
+bip_39_word_space_4: afraid cherry harbor snow
+bip_39_word_space_5: afraid cherry harbor snow sketch
+bip_39_word_space_6: afraid cherry harbor snow sketch lava
+bip_39_word_space_7: afraid cherry harbor snow sketch lava today
+bip_39_word_space_8: afraid cherry harbor snow sketch lava today blur
+bip_39_word_space_9: afraid cherry harbor snow sketch lava today blur enroll
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

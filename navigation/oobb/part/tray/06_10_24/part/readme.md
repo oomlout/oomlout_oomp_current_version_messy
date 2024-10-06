@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: obvious polar
+  * bip 39 word 3: obvious polar domain
+  * bip 39 word: obvious polar domain crisp powder street tunnel uncle brush weather author also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | obvious |  
+| bip_39_word_new_br10 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street<br>tunnel<br>uncle<br>brush<br>weather |  
+| bip_39_word_new_br11 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street<br>tunnel<br>uncle<br>brush<br>weather<br>author |  
+| bip_39_word_new_br12 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street<br>tunnel<br>uncle<br>brush<br>weather<br>author<br>also |  
+| bip_39_word_new_br2 | obvious<br>polar |  
+| bip_39_word_new_br3 | obvious<br>polar<br>domain |  
+| bip_39_word_new_br4 | obvious<br>polar<br>domain<br>crisp |  
+| bip_39_word_new_br5 | obvious<br>polar<br>domain<br>crisp<br>powder |  
+| bip_39_word_new_br6 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street |  
+| bip_39_word_new_br7 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street<br>tunnel |  
+| bip_39_word_new_br8 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street<br>tunnel<br>uncle |  
+| bip_39_word_new_br9 | obvious<br>polar<br>domain<br>crisp<br>powder<br>street<br>tunnel<br>uncle<br>brush |  
+| bip_39_word_new_line1 | obvious |  
+| bip_39_word_new_line10 | obvious
+polar
+domain
+crisp
+powder
+street
+tunnel
+uncle
+brush
+weather |  
+| bip_39_word_new_line11 | obvious
+polar
+domain
+crisp
+powder
+street
+tunnel
+uncle
+brush
+weather
+author |  
+| bip_39_word_new_line12 | obvious
+polar
+domain
+crisp
+powder
+street
+tunnel
+uncle
+brush
+weather
+author
+also |  
+| bip_39_word_new_line2 | obvious
+polar |  
+| bip_39_word_new_line3 | obvious
+polar
+domain |  
+| bip_39_word_new_line4 | obvious
+polar
+domain
+crisp |  
+| bip_39_word_new_line5 | obvious
+polar
+domain
+crisp
+powder |  
+| bip_39_word_new_line6 | obvious
+polar
+domain
+crisp
+powder
+street |  
+| bip_39_word_new_line7 | obvious
+polar
+domain
+crisp
+powder
+street
+tunnel |  
+| bip_39_word_new_line8 | obvious
+polar
+domain
+crisp
+powder
+street
+tunnel
+uncle |  
+| bip_39_word_new_line9 | obvious
+polar
+domain
+crisp
+powder
+street
+tunnel
+uncle
+brush |  
+| bip_39_word_space_0 | ['obvious', 'polar', 'domain', 'crisp', 'powder', 'street', 'tunnel', 'uncle', 'brush', 'weather', 'author', 'also'] |  
+| bip_39_word_space_1 | obvious |  
+| bip_39_word_space_10 | obvious polar domain crisp powder street tunnel uncle brush weather |  
+| bip_39_word_space_11 | obvious polar domain crisp powder street tunnel uncle brush weather author |  
+| bip_39_word_space_12 | obvious polar domain crisp powder street tunnel uncle brush weather author also |  
+| bip_39_word_space_2 | obvious polar |  
+| bip_39_word_space_3 | obvious polar domain |  
+| bip_39_word_space_4 | obvious polar domain crisp |  
+| bip_39_word_space_5 | obvious polar domain crisp powder |  
+| bip_39_word_space_6 | obvious polar domain crisp powder street |  
+| bip_39_word_space_7 | obvious polar domain crisp powder street tunnel |  
+| bip_39_word_space_8 | obvious polar domain crisp powder street tunnel uncle |  
+| bip_39_word_space_9 | obvious polar domain crisp powder street tunnel uncle brush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

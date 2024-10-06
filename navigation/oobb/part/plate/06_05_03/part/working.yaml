@@ -1,3 +1,186 @@
+bip_39_word_new_br1: coral
+bip_39_word_new_br10: coral<br>drift<br>orphan<br>nominee<br>below<br>candy<br>decrease<br>seat<br>kick<br>tube
+bip_39_word_new_br11: coral<br>drift<br>orphan<br>nominee<br>below<br>candy<br>decrease<br>seat<br>kick<br>tube<br>hover
+bip_39_word_new_br12: coral<br>drift<br>orphan<br>nominee<br>below<br>candy<br>decrease<br>seat<br>kick<br>tube<br>hover<br>antenna
+bip_39_word_new_br2: coral<br>drift
+bip_39_word_new_br3: coral<br>drift<br>orphan
+bip_39_word_new_br4: coral<br>drift<br>orphan<br>nominee
+bip_39_word_new_br5: coral<br>drift<br>orphan<br>nominee<br>below
+bip_39_word_new_br6: coral<br>drift<br>orphan<br>nominee<br>below<br>candy
+bip_39_word_new_br7: coral<br>drift<br>orphan<br>nominee<br>below<br>candy<br>decrease
+bip_39_word_new_br8: coral<br>drift<br>orphan<br>nominee<br>below<br>candy<br>decrease<br>seat
+bip_39_word_new_br9: coral<br>drift<br>orphan<br>nominee<br>below<br>candy<br>decrease<br>seat<br>kick
+bip_39_word_new_line1: coral
+bip_39_word_new_line10: 'coral
+
+  drift
+
+  orphan
+
+  nominee
+
+  below
+
+  candy
+
+  decrease
+
+  seat
+
+  kick
+
+  tube'
+bip_39_word_new_line11: 'coral
+
+  drift
+
+  orphan
+
+  nominee
+
+  below
+
+  candy
+
+  decrease
+
+  seat
+
+  kick
+
+  tube
+
+  hover'
+bip_39_word_new_line12: 'coral
+
+  drift
+
+  orphan
+
+  nominee
+
+  below
+
+  candy
+
+  decrease
+
+  seat
+
+  kick
+
+  tube
+
+  hover
+
+  antenna'
+bip_39_word_new_line2: 'coral
+
+  drift'
+bip_39_word_new_line3: 'coral
+
+  drift
+
+  orphan'
+bip_39_word_new_line4: 'coral
+
+  drift
+
+  orphan
+
+  nominee'
+bip_39_word_new_line5: 'coral
+
+  drift
+
+  orphan
+
+  nominee
+
+  below'
+bip_39_word_new_line6: 'coral
+
+  drift
+
+  orphan
+
+  nominee
+
+  below
+
+  candy'
+bip_39_word_new_line7: 'coral
+
+  drift
+
+  orphan
+
+  nominee
+
+  below
+
+  candy
+
+  decrease'
+bip_39_word_new_line8: 'coral
+
+  drift
+
+  orphan
+
+  nominee
+
+  below
+
+  candy
+
+  decrease
+
+  seat'
+bip_39_word_new_line9: 'coral
+
+  drift
+
+  orphan
+
+  nominee
+
+  below
+
+  candy
+
+  decrease
+
+  seat
+
+  kick'
+bip_39_word_space_0:
+- coral
+- drift
+- orphan
+- nominee
+- below
+- candy
+- decrease
+- seat
+- kick
+- tube
+- hover
+- antenna
+bip_39_word_space_1: coral
+bip_39_word_space_10: coral drift orphan nominee below candy decrease seat kick tube
+bip_39_word_space_11: coral drift orphan nominee below candy decrease seat kick tube
+  hover
+bip_39_word_space_12: coral drift orphan nominee below candy decrease seat kick tube
+  hover antenna
+bip_39_word_space_2: coral drift
+bip_39_word_space_3: coral drift orphan
+bip_39_word_space_4: coral drift orphan nominee
+bip_39_word_space_5: coral drift orphan nominee below
+bip_39_word_space_6: coral drift orphan nominee below candy
+bip_39_word_space_7: coral drift orphan nominee below candy decrease
+bip_39_word_space_8: coral drift orphan nominee below candy decrease seat
+bip_39_word_space_9: coral drift orphan nominee below candy decrease seat kick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

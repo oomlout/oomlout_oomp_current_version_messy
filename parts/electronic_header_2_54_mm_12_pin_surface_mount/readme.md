@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tragic gauge
+  * bip 39 word 3: tragic gauge coil
+  * bip 39 word: tragic gauge coil title year web screen waste skirt tobacco surface autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tragic |  
+| bip_39_word_new_br10 | tragic<br>gauge<br>coil<br>title<br>year<br>web<br>screen<br>waste<br>skirt<br>tobacco |  
+| bip_39_word_new_br11 | tragic<br>gauge<br>coil<br>title<br>year<br>web<br>screen<br>waste<br>skirt<br>tobacco<br>surface |  
+| bip_39_word_new_br12 | tragic<br>gauge<br>coil<br>title<br>year<br>web<br>screen<br>waste<br>skirt<br>tobacco<br>surface<br>autumn |  
+| bip_39_word_new_br2 | tragic<br>gauge |  
+| bip_39_word_new_br3 | tragic<br>gauge<br>coil |  
+| bip_39_word_new_br4 | tragic<br>gauge<br>coil<br>title |  
+| bip_39_word_new_br5 | tragic<br>gauge<br>coil<br>title<br>year |  
+| bip_39_word_new_br6 | tragic<br>gauge<br>coil<br>title<br>year<br>web |  
+| bip_39_word_new_br7 | tragic<br>gauge<br>coil<br>title<br>year<br>web<br>screen |  
+| bip_39_word_new_br8 | tragic<br>gauge<br>coil<br>title<br>year<br>web<br>screen<br>waste |  
+| bip_39_word_new_br9 | tragic<br>gauge<br>coil<br>title<br>year<br>web<br>screen<br>waste<br>skirt |  
+| bip_39_word_new_line1 | tragic |  
+| bip_39_word_new_line10 | tragic
+gauge
+coil
+title
+year
+web
+screen
+waste
+skirt
+tobacco |  
+| bip_39_word_new_line11 | tragic
+gauge
+coil
+title
+year
+web
+screen
+waste
+skirt
+tobacco
+surface |  
+| bip_39_word_new_line12 | tragic
+gauge
+coil
+title
+year
+web
+screen
+waste
+skirt
+tobacco
+surface
+autumn |  
+| bip_39_word_new_line2 | tragic
+gauge |  
+| bip_39_word_new_line3 | tragic
+gauge
+coil |  
+| bip_39_word_new_line4 | tragic
+gauge
+coil
+title |  
+| bip_39_word_new_line5 | tragic
+gauge
+coil
+title
+year |  
+| bip_39_word_new_line6 | tragic
+gauge
+coil
+title
+year
+web |  
+| bip_39_word_new_line7 | tragic
+gauge
+coil
+title
+year
+web
+screen |  
+| bip_39_word_new_line8 | tragic
+gauge
+coil
+title
+year
+web
+screen
+waste |  
+| bip_39_word_new_line9 | tragic
+gauge
+coil
+title
+year
+web
+screen
+waste
+skirt |  
+| bip_39_word_space_0 | ['tragic', 'gauge', 'coil', 'title', 'year', 'web', 'screen', 'waste', 'skirt', 'tobacco', 'surface', 'autumn'] |  
+| bip_39_word_space_1 | tragic |  
+| bip_39_word_space_10 | tragic gauge coil title year web screen waste skirt tobacco |  
+| bip_39_word_space_11 | tragic gauge coil title year web screen waste skirt tobacco surface |  
+| bip_39_word_space_12 | tragic gauge coil title year web screen waste skirt tobacco surface autumn |  
+| bip_39_word_space_2 | tragic gauge |  
+| bip_39_word_space_3 | tragic gauge coil |  
+| bip_39_word_space_4 | tragic gauge coil title |  
+| bip_39_word_space_5 | tragic gauge coil title year |  
+| bip_39_word_space_6 | tragic gauge coil title year web |  
+| bip_39_word_space_7 | tragic gauge coil title year web screen |  
+| bip_39_word_space_8 | tragic gauge coil title year web screen waste |  
+| bip_39_word_space_9 | tragic gauge coil title year web screen waste skirt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

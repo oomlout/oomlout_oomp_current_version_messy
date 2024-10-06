@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: patient animal
+  * bip 39 word 3: patient animal mail
+  * bip 39 word: patient animal mail balcony various poverty soap unable minimum kingdom blade art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | patient |  
+| bip_39_word_new_br10 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom |  
+| bip_39_word_new_br11 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom<br>blade |  
+| bip_39_word_new_br12 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum<br>kingdom<br>blade<br>art |  
+| bip_39_word_new_br2 | patient<br>animal |  
+| bip_39_word_new_br3 | patient<br>animal<br>mail |  
+| bip_39_word_new_br4 | patient<br>animal<br>mail<br>balcony |  
+| bip_39_word_new_br5 | patient<br>animal<br>mail<br>balcony<br>various |  
+| bip_39_word_new_br6 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty |  
+| bip_39_word_new_br7 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap |  
+| bip_39_word_new_br8 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable |  
+| bip_39_word_new_br9 | patient<br>animal<br>mail<br>balcony<br>various<br>poverty<br>soap<br>unable<br>minimum |  
+| bip_39_word_new_line1 | patient |  
+| bip_39_word_new_line10 | patient
+animal
+mail
+balcony
+various
+poverty
+soap
+unable
+minimum
+kingdom |  
+| bip_39_word_new_line11 | patient
+animal
+mail
+balcony
+various
+poverty
+soap
+unable
+minimum
+kingdom
+blade |  
+| bip_39_word_new_line12 | patient
+animal
+mail
+balcony
+various
+poverty
+soap
+unable
+minimum
+kingdom
+blade
+art |  
+| bip_39_word_new_line2 | patient
+animal |  
+| bip_39_word_new_line3 | patient
+animal
+mail |  
+| bip_39_word_new_line4 | patient
+animal
+mail
+balcony |  
+| bip_39_word_new_line5 | patient
+animal
+mail
+balcony
+various |  
+| bip_39_word_new_line6 | patient
+animal
+mail
+balcony
+various
+poverty |  
+| bip_39_word_new_line7 | patient
+animal
+mail
+balcony
+various
+poverty
+soap |  
+| bip_39_word_new_line8 | patient
+animal
+mail
+balcony
+various
+poverty
+soap
+unable |  
+| bip_39_word_new_line9 | patient
+animal
+mail
+balcony
+various
+poverty
+soap
+unable
+minimum |  
+| bip_39_word_space_0 | ['patient', 'animal', 'mail', 'balcony', 'various', 'poverty', 'soap', 'unable', 'minimum', 'kingdom', 'blade', 'art'] |  
+| bip_39_word_space_1 | patient |  
+| bip_39_word_space_10 | patient animal mail balcony various poverty soap unable minimum kingdom |  
+| bip_39_word_space_11 | patient animal mail balcony various poverty soap unable minimum kingdom blade |  
+| bip_39_word_space_12 | patient animal mail balcony various poverty soap unable minimum kingdom blade art |  
+| bip_39_word_space_2 | patient animal |  
+| bip_39_word_space_3 | patient animal mail |  
+| bip_39_word_space_4 | patient animal mail balcony |  
+| bip_39_word_space_5 | patient animal mail balcony various |  
+| bip_39_word_space_6 | patient animal mail balcony various poverty |  
+| bip_39_word_space_7 | patient animal mail balcony various poverty soap |  
+| bip_39_word_space_8 | patient animal mail balcony various poverty soap unable |  
+| bip_39_word_space_9 | patient animal mail balcony various poverty soap unable minimum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

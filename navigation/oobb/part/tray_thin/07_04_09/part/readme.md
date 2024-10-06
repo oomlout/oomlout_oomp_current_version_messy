@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: find clever
+  * bip 39 word 3: find clever trouble
+  * bip 39 word: find clever trouble tube market mesh spell front text trumpet hurry above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | find |  
+| bip_39_word_new_br10 | find<br>clever<br>trouble<br>tube<br>market<br>mesh<br>spell<br>front<br>text<br>trumpet |  
+| bip_39_word_new_br11 | find<br>clever<br>trouble<br>tube<br>market<br>mesh<br>spell<br>front<br>text<br>trumpet<br>hurry |  
+| bip_39_word_new_br12 | find<br>clever<br>trouble<br>tube<br>market<br>mesh<br>spell<br>front<br>text<br>trumpet<br>hurry<br>above |  
+| bip_39_word_new_br2 | find<br>clever |  
+| bip_39_word_new_br3 | find<br>clever<br>trouble |  
+| bip_39_word_new_br4 | find<br>clever<br>trouble<br>tube |  
+| bip_39_word_new_br5 | find<br>clever<br>trouble<br>tube<br>market |  
+| bip_39_word_new_br6 | find<br>clever<br>trouble<br>tube<br>market<br>mesh |  
+| bip_39_word_new_br7 | find<br>clever<br>trouble<br>tube<br>market<br>mesh<br>spell |  
+| bip_39_word_new_br8 | find<br>clever<br>trouble<br>tube<br>market<br>mesh<br>spell<br>front |  
+| bip_39_word_new_br9 | find<br>clever<br>trouble<br>tube<br>market<br>mesh<br>spell<br>front<br>text |  
+| bip_39_word_new_line1 | find |  
+| bip_39_word_new_line10 | find
+clever
+trouble
+tube
+market
+mesh
+spell
+front
+text
+trumpet |  
+| bip_39_word_new_line11 | find
+clever
+trouble
+tube
+market
+mesh
+spell
+front
+text
+trumpet
+hurry |  
+| bip_39_word_new_line12 | find
+clever
+trouble
+tube
+market
+mesh
+spell
+front
+text
+trumpet
+hurry
+above |  
+| bip_39_word_new_line2 | find
+clever |  
+| bip_39_word_new_line3 | find
+clever
+trouble |  
+| bip_39_word_new_line4 | find
+clever
+trouble
+tube |  
+| bip_39_word_new_line5 | find
+clever
+trouble
+tube
+market |  
+| bip_39_word_new_line6 | find
+clever
+trouble
+tube
+market
+mesh |  
+| bip_39_word_new_line7 | find
+clever
+trouble
+tube
+market
+mesh
+spell |  
+| bip_39_word_new_line8 | find
+clever
+trouble
+tube
+market
+mesh
+spell
+front |  
+| bip_39_word_new_line9 | find
+clever
+trouble
+tube
+market
+mesh
+spell
+front
+text |  
+| bip_39_word_space_0 | ['find', 'clever', 'trouble', 'tube', 'market', 'mesh', 'spell', 'front', 'text', 'trumpet', 'hurry', 'above'] |  
+| bip_39_word_space_1 | find |  
+| bip_39_word_space_10 | find clever trouble tube market mesh spell front text trumpet |  
+| bip_39_word_space_11 | find clever trouble tube market mesh spell front text trumpet hurry |  
+| bip_39_word_space_12 | find clever trouble tube market mesh spell front text trumpet hurry above |  
+| bip_39_word_space_2 | find clever |  
+| bip_39_word_space_3 | find clever trouble |  
+| bip_39_word_space_4 | find clever trouble tube |  
+| bip_39_word_space_5 | find clever trouble tube market |  
+| bip_39_word_space_6 | find clever trouble tube market mesh |  
+| bip_39_word_space_7 | find clever trouble tube market mesh spell |  
+| bip_39_word_space_8 | find clever trouble tube market mesh spell front |  
+| bip_39_word_space_9 | find clever trouble tube market mesh spell front text |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

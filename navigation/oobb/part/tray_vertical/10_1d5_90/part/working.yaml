@@ -1,3 +1,186 @@
+bip_39_word_new_br1: priority
+bip_39_word_new_br10: priority<br>album<br>sail<br>agree<br>below<br>sunset<br>vague<br>era<br>visual<br>eyebrow
+bip_39_word_new_br11: priority<br>album<br>sail<br>agree<br>below<br>sunset<br>vague<br>era<br>visual<br>eyebrow<br>stove
+bip_39_word_new_br12: priority<br>album<br>sail<br>agree<br>below<br>sunset<br>vague<br>era<br>visual<br>eyebrow<br>stove<br>artefact
+bip_39_word_new_br2: priority<br>album
+bip_39_word_new_br3: priority<br>album<br>sail
+bip_39_word_new_br4: priority<br>album<br>sail<br>agree
+bip_39_word_new_br5: priority<br>album<br>sail<br>agree<br>below
+bip_39_word_new_br6: priority<br>album<br>sail<br>agree<br>below<br>sunset
+bip_39_word_new_br7: priority<br>album<br>sail<br>agree<br>below<br>sunset<br>vague
+bip_39_word_new_br8: priority<br>album<br>sail<br>agree<br>below<br>sunset<br>vague<br>era
+bip_39_word_new_br9: priority<br>album<br>sail<br>agree<br>below<br>sunset<br>vague<br>era<br>visual
+bip_39_word_new_line1: priority
+bip_39_word_new_line10: 'priority
+
+  album
+
+  sail
+
+  agree
+
+  below
+
+  sunset
+
+  vague
+
+  era
+
+  visual
+
+  eyebrow'
+bip_39_word_new_line11: 'priority
+
+  album
+
+  sail
+
+  agree
+
+  below
+
+  sunset
+
+  vague
+
+  era
+
+  visual
+
+  eyebrow
+
+  stove'
+bip_39_word_new_line12: 'priority
+
+  album
+
+  sail
+
+  agree
+
+  below
+
+  sunset
+
+  vague
+
+  era
+
+  visual
+
+  eyebrow
+
+  stove
+
+  artefact'
+bip_39_word_new_line2: 'priority
+
+  album'
+bip_39_word_new_line3: 'priority
+
+  album
+
+  sail'
+bip_39_word_new_line4: 'priority
+
+  album
+
+  sail
+
+  agree'
+bip_39_word_new_line5: 'priority
+
+  album
+
+  sail
+
+  agree
+
+  below'
+bip_39_word_new_line6: 'priority
+
+  album
+
+  sail
+
+  agree
+
+  below
+
+  sunset'
+bip_39_word_new_line7: 'priority
+
+  album
+
+  sail
+
+  agree
+
+  below
+
+  sunset
+
+  vague'
+bip_39_word_new_line8: 'priority
+
+  album
+
+  sail
+
+  agree
+
+  below
+
+  sunset
+
+  vague
+
+  era'
+bip_39_word_new_line9: 'priority
+
+  album
+
+  sail
+
+  agree
+
+  below
+
+  sunset
+
+  vague
+
+  era
+
+  visual'
+bip_39_word_space_0:
+- priority
+- album
+- sail
+- agree
+- below
+- sunset
+- vague
+- era
+- visual
+- eyebrow
+- stove
+- artefact
+bip_39_word_space_1: priority
+bip_39_word_space_10: priority album sail agree below sunset vague era visual eyebrow
+bip_39_word_space_11: priority album sail agree below sunset vague era visual eyebrow
+  stove
+bip_39_word_space_12: priority album sail agree below sunset vague era visual eyebrow
+  stove artefact
+bip_39_word_space_2: priority album
+bip_39_word_space_3: priority album sail
+bip_39_word_space_4: priority album sail agree
+bip_39_word_space_5: priority album sail agree below
+bip_39_word_space_6: priority album sail agree below sunset
+bip_39_word_space_7: priority album sail agree below sunset vague
+bip_39_word_space_8: priority album sail agree below sunset vague era
+bip_39_word_space_9: priority album sail agree below sunset vague era visual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

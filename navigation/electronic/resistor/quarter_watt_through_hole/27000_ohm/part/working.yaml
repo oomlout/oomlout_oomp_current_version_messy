@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pact
+bip_39_word_new_br10: pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor
+bip_39_word_new_br11: pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor<br>come
+bip_39_word_new_br12: pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private<br>flavor<br>come<br>atom
+bip_39_word_new_br2: pact<br>noble
+bip_39_word_new_br3: pact<br>noble<br>possible
+bip_39_word_new_br4: pact<br>noble<br>possible<br>maximum
+bip_39_word_new_br5: pact<br>noble<br>possible<br>maximum<br>there
+bip_39_word_new_br6: pact<br>noble<br>possible<br>maximum<br>there<br>elder
+bip_39_word_new_br7: pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius
+bip_39_word_new_br8: pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover
+bip_39_word_new_br9: pact<br>noble<br>possible<br>maximum<br>there<br>elder<br>genius<br>uncover<br>private
+bip_39_word_new_line1: pact
+bip_39_word_new_line10: 'pact
+
+  noble
+
+  possible
+
+  maximum
+
+  there
+
+  elder
+
+  genius
+
+  uncover
+
+  private
+
+  flavor'
+bip_39_word_new_line11: 'pact
+
+  noble
+
+  possible
+
+  maximum
+
+  there
+
+  elder
+
+  genius
+
+  uncover
+
+  private
+
+  flavor
+
+  come'
+bip_39_word_new_line12: 'pact
+
+  noble
+
+  possible
+
+  maximum
+
+  there
+
+  elder
+
+  genius
+
+  uncover
+
+  private
+
+  flavor
+
+  come
+
+  atom'
+bip_39_word_new_line2: 'pact
+
+  noble'
+bip_39_word_new_line3: 'pact
+
+  noble
+
+  possible'
+bip_39_word_new_line4: 'pact
+
+  noble
+
+  possible
+
+  maximum'
+bip_39_word_new_line5: 'pact
+
+  noble
+
+  possible
+
+  maximum
+
+  there'
+bip_39_word_new_line6: 'pact
+
+  noble
+
+  possible
+
+  maximum
+
+  there
+
+  elder'
+bip_39_word_new_line7: 'pact
+
+  noble
+
+  possible
+
+  maximum
+
+  there
+
+  elder
+
+  genius'
+bip_39_word_new_line8: 'pact
+
+  noble
+
+  possible
+
+  maximum
+
+  there
+
+  elder
+
+  genius
+
+  uncover'
+bip_39_word_new_line9: 'pact
+
+  noble
+
+  possible
+
+  maximum
+
+  there
+
+  elder
+
+  genius
+
+  uncover
+
+  private'
+bip_39_word_space_0:
+- pact
+- noble
+- possible
+- maximum
+- there
+- elder
+- genius
+- uncover
+- private
+- flavor
+- come
+- atom
+bip_39_word_space_1: pact
+bip_39_word_space_10: pact noble possible maximum there elder genius uncover private
+  flavor
+bip_39_word_space_11: pact noble possible maximum there elder genius uncover private
+  flavor come
+bip_39_word_space_12: pact noble possible maximum there elder genius uncover private
+  flavor come atom
+bip_39_word_space_2: pact noble
+bip_39_word_space_3: pact noble possible
+bip_39_word_space_4: pact noble possible maximum
+bip_39_word_space_5: pact noble possible maximum there
+bip_39_word_space_6: pact noble possible maximum there elder
+bip_39_word_space_7: pact noble possible maximum there elder genius
+bip_39_word_space_8: pact noble possible maximum there elder genius uncover
+bip_39_word_space_9: pact noble possible maximum there elder genius uncover private
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

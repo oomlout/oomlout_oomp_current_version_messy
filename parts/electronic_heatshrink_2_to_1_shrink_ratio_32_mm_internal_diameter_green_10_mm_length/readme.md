@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bird silent
+  * bip 39 word 3: bird silent next
+  * bip 39 word: bird silent next author exchange sibling habit brief require reveal wave arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bird |  
+| bip_39_word_new_br10 | bird<br>silent<br>next<br>author<br>exchange<br>sibling<br>habit<br>brief<br>require<br>reveal |  
+| bip_39_word_new_br11 | bird<br>silent<br>next<br>author<br>exchange<br>sibling<br>habit<br>brief<br>require<br>reveal<br>wave |  
+| bip_39_word_new_br12 | bird<br>silent<br>next<br>author<br>exchange<br>sibling<br>habit<br>brief<br>require<br>reveal<br>wave<br>arrest |  
+| bip_39_word_new_br2 | bird<br>silent |  
+| bip_39_word_new_br3 | bird<br>silent<br>next |  
+| bip_39_word_new_br4 | bird<br>silent<br>next<br>author |  
+| bip_39_word_new_br5 | bird<br>silent<br>next<br>author<br>exchange |  
+| bip_39_word_new_br6 | bird<br>silent<br>next<br>author<br>exchange<br>sibling |  
+| bip_39_word_new_br7 | bird<br>silent<br>next<br>author<br>exchange<br>sibling<br>habit |  
+| bip_39_word_new_br8 | bird<br>silent<br>next<br>author<br>exchange<br>sibling<br>habit<br>brief |  
+| bip_39_word_new_br9 | bird<br>silent<br>next<br>author<br>exchange<br>sibling<br>habit<br>brief<br>require |  
+| bip_39_word_new_line1 | bird |  
+| bip_39_word_new_line10 | bird
+silent
+next
+author
+exchange
+sibling
+habit
+brief
+require
+reveal |  
+| bip_39_word_new_line11 | bird
+silent
+next
+author
+exchange
+sibling
+habit
+brief
+require
+reveal
+wave |  
+| bip_39_word_new_line12 | bird
+silent
+next
+author
+exchange
+sibling
+habit
+brief
+require
+reveal
+wave
+arrest |  
+| bip_39_word_new_line2 | bird
+silent |  
+| bip_39_word_new_line3 | bird
+silent
+next |  
+| bip_39_word_new_line4 | bird
+silent
+next
+author |  
+| bip_39_word_new_line5 | bird
+silent
+next
+author
+exchange |  
+| bip_39_word_new_line6 | bird
+silent
+next
+author
+exchange
+sibling |  
+| bip_39_word_new_line7 | bird
+silent
+next
+author
+exchange
+sibling
+habit |  
+| bip_39_word_new_line8 | bird
+silent
+next
+author
+exchange
+sibling
+habit
+brief |  
+| bip_39_word_new_line9 | bird
+silent
+next
+author
+exchange
+sibling
+habit
+brief
+require |  
+| bip_39_word_space_0 | ['bird', 'silent', 'next', 'author', 'exchange', 'sibling', 'habit', 'brief', 'require', 'reveal', 'wave', 'arrest'] |  
+| bip_39_word_space_1 | bird |  
+| bip_39_word_space_10 | bird silent next author exchange sibling habit brief require reveal |  
+| bip_39_word_space_11 | bird silent next author exchange sibling habit brief require reveal wave |  
+| bip_39_word_space_12 | bird silent next author exchange sibling habit brief require reveal wave arrest |  
+| bip_39_word_space_2 | bird silent |  
+| bip_39_word_space_3 | bird silent next |  
+| bip_39_word_space_4 | bird silent next author |  
+| bip_39_word_space_5 | bird silent next author exchange |  
+| bip_39_word_space_6 | bird silent next author exchange sibling |  
+| bip_39_word_space_7 | bird silent next author exchange sibling habit |  
+| bip_39_word_space_8 | bird silent next author exchange sibling habit brief |  
+| bip_39_word_space_9 | bird silent next author exchange sibling habit brief require |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sure cause
+  * bip 39 word 3: sure cause tiny
+  * bip 39 word: sure cause tiny false glass permit occur candy boss soft around animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sure |  
+| bip_39_word_new_br10 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft |  
+| bip_39_word_new_br11 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft<br>around |  
+| bip_39_word_new_br12 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss<br>soft<br>around<br>animal |  
+| bip_39_word_new_br2 | sure<br>cause |  
+| bip_39_word_new_br3 | sure<br>cause<br>tiny |  
+| bip_39_word_new_br4 | sure<br>cause<br>tiny<br>false |  
+| bip_39_word_new_br5 | sure<br>cause<br>tiny<br>false<br>glass |  
+| bip_39_word_new_br6 | sure<br>cause<br>tiny<br>false<br>glass<br>permit |  
+| bip_39_word_new_br7 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur |  
+| bip_39_word_new_br8 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy |  
+| bip_39_word_new_br9 | sure<br>cause<br>tiny<br>false<br>glass<br>permit<br>occur<br>candy<br>boss |  
+| bip_39_word_new_line1 | sure |  
+| bip_39_word_new_line10 | sure
+cause
+tiny
+false
+glass
+permit
+occur
+candy
+boss
+soft |  
+| bip_39_word_new_line11 | sure
+cause
+tiny
+false
+glass
+permit
+occur
+candy
+boss
+soft
+around |  
+| bip_39_word_new_line12 | sure
+cause
+tiny
+false
+glass
+permit
+occur
+candy
+boss
+soft
+around
+animal |  
+| bip_39_word_new_line2 | sure
+cause |  
+| bip_39_word_new_line3 | sure
+cause
+tiny |  
+| bip_39_word_new_line4 | sure
+cause
+tiny
+false |  
+| bip_39_word_new_line5 | sure
+cause
+tiny
+false
+glass |  
+| bip_39_word_new_line6 | sure
+cause
+tiny
+false
+glass
+permit |  
+| bip_39_word_new_line7 | sure
+cause
+tiny
+false
+glass
+permit
+occur |  
+| bip_39_word_new_line8 | sure
+cause
+tiny
+false
+glass
+permit
+occur
+candy |  
+| bip_39_word_new_line9 | sure
+cause
+tiny
+false
+glass
+permit
+occur
+candy
+boss |  
+| bip_39_word_space_0 | ['sure', 'cause', 'tiny', 'false', 'glass', 'permit', 'occur', 'candy', 'boss', 'soft', 'around', 'animal'] |  
+| bip_39_word_space_1 | sure |  
+| bip_39_word_space_10 | sure cause tiny false glass permit occur candy boss soft |  
+| bip_39_word_space_11 | sure cause tiny false glass permit occur candy boss soft around |  
+| bip_39_word_space_12 | sure cause tiny false glass permit occur candy boss soft around animal |  
+| bip_39_word_space_2 | sure cause |  
+| bip_39_word_space_3 | sure cause tiny |  
+| bip_39_word_space_4 | sure cause tiny false |  
+| bip_39_word_space_5 | sure cause tiny false glass |  
+| bip_39_word_space_6 | sure cause tiny false glass permit |  
+| bip_39_word_space_7 | sure cause tiny false glass permit occur |  
+| bip_39_word_space_8 | sure cause tiny false glass permit occur candy |  
+| bip_39_word_space_9 | sure cause tiny false glass permit occur candy boss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

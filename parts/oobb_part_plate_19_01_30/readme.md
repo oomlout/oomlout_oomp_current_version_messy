@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ribbon fringe
+  * bip 39 word 3: ribbon fringe pink
+  * bip 39 word: ribbon fringe pink violin tell story wedding knife meadow giggle away aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ribbon |  
+| bip_39_word_new_br10 | ribbon<br>fringe<br>pink<br>violin<br>tell<br>story<br>wedding<br>knife<br>meadow<br>giggle |  
+| bip_39_word_new_br11 | ribbon<br>fringe<br>pink<br>violin<br>tell<br>story<br>wedding<br>knife<br>meadow<br>giggle<br>away |  
+| bip_39_word_new_br12 | ribbon<br>fringe<br>pink<br>violin<br>tell<br>story<br>wedding<br>knife<br>meadow<br>giggle<br>away<br>aspect |  
+| bip_39_word_new_br2 | ribbon<br>fringe |  
+| bip_39_word_new_br3 | ribbon<br>fringe<br>pink |  
+| bip_39_word_new_br4 | ribbon<br>fringe<br>pink<br>violin |  
+| bip_39_word_new_br5 | ribbon<br>fringe<br>pink<br>violin<br>tell |  
+| bip_39_word_new_br6 | ribbon<br>fringe<br>pink<br>violin<br>tell<br>story |  
+| bip_39_word_new_br7 | ribbon<br>fringe<br>pink<br>violin<br>tell<br>story<br>wedding |  
+| bip_39_word_new_br8 | ribbon<br>fringe<br>pink<br>violin<br>tell<br>story<br>wedding<br>knife |  
+| bip_39_word_new_br9 | ribbon<br>fringe<br>pink<br>violin<br>tell<br>story<br>wedding<br>knife<br>meadow |  
+| bip_39_word_new_line1 | ribbon |  
+| bip_39_word_new_line10 | ribbon
+fringe
+pink
+violin
+tell
+story
+wedding
+knife
+meadow
+giggle |  
+| bip_39_word_new_line11 | ribbon
+fringe
+pink
+violin
+tell
+story
+wedding
+knife
+meadow
+giggle
+away |  
+| bip_39_word_new_line12 | ribbon
+fringe
+pink
+violin
+tell
+story
+wedding
+knife
+meadow
+giggle
+away
+aspect |  
+| bip_39_word_new_line2 | ribbon
+fringe |  
+| bip_39_word_new_line3 | ribbon
+fringe
+pink |  
+| bip_39_word_new_line4 | ribbon
+fringe
+pink
+violin |  
+| bip_39_word_new_line5 | ribbon
+fringe
+pink
+violin
+tell |  
+| bip_39_word_new_line6 | ribbon
+fringe
+pink
+violin
+tell
+story |  
+| bip_39_word_new_line7 | ribbon
+fringe
+pink
+violin
+tell
+story
+wedding |  
+| bip_39_word_new_line8 | ribbon
+fringe
+pink
+violin
+tell
+story
+wedding
+knife |  
+| bip_39_word_new_line9 | ribbon
+fringe
+pink
+violin
+tell
+story
+wedding
+knife
+meadow |  
+| bip_39_word_space_0 | ['ribbon', 'fringe', 'pink', 'violin', 'tell', 'story', 'wedding', 'knife', 'meadow', 'giggle', 'away', 'aspect'] |  
+| bip_39_word_space_1 | ribbon |  
+| bip_39_word_space_10 | ribbon fringe pink violin tell story wedding knife meadow giggle |  
+| bip_39_word_space_11 | ribbon fringe pink violin tell story wedding knife meadow giggle away |  
+| bip_39_word_space_12 | ribbon fringe pink violin tell story wedding knife meadow giggle away aspect |  
+| bip_39_word_space_2 | ribbon fringe |  
+| bip_39_word_space_3 | ribbon fringe pink |  
+| bip_39_word_space_4 | ribbon fringe pink violin |  
+| bip_39_word_space_5 | ribbon fringe pink violin tell |  
+| bip_39_word_space_6 | ribbon fringe pink violin tell story |  
+| bip_39_word_space_7 | ribbon fringe pink violin tell story wedding |  
+| bip_39_word_space_8 | ribbon fringe pink violin tell story wedding knife |  
+| bip_39_word_space_9 | ribbon fringe pink violin tell story wedding knife meadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

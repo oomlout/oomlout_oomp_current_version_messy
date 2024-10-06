@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rack grab
+  * bip 39 word 3: rack grab pepper
+  * bip 39 word: rack grab pepper enough wrong silk wrist credit wheel diagram tail author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rack |  
+| bip_39_word_new_br10 | rack<br>grab<br>pepper<br>enough<br>wrong<br>silk<br>wrist<br>credit<br>wheel<br>diagram |  
+| bip_39_word_new_br11 | rack<br>grab<br>pepper<br>enough<br>wrong<br>silk<br>wrist<br>credit<br>wheel<br>diagram<br>tail |  
+| bip_39_word_new_br12 | rack<br>grab<br>pepper<br>enough<br>wrong<br>silk<br>wrist<br>credit<br>wheel<br>diagram<br>tail<br>author |  
+| bip_39_word_new_br2 | rack<br>grab |  
+| bip_39_word_new_br3 | rack<br>grab<br>pepper |  
+| bip_39_word_new_br4 | rack<br>grab<br>pepper<br>enough |  
+| bip_39_word_new_br5 | rack<br>grab<br>pepper<br>enough<br>wrong |  
+| bip_39_word_new_br6 | rack<br>grab<br>pepper<br>enough<br>wrong<br>silk |  
+| bip_39_word_new_br7 | rack<br>grab<br>pepper<br>enough<br>wrong<br>silk<br>wrist |  
+| bip_39_word_new_br8 | rack<br>grab<br>pepper<br>enough<br>wrong<br>silk<br>wrist<br>credit |  
+| bip_39_word_new_br9 | rack<br>grab<br>pepper<br>enough<br>wrong<br>silk<br>wrist<br>credit<br>wheel |  
+| bip_39_word_new_line1 | rack |  
+| bip_39_word_new_line10 | rack
+grab
+pepper
+enough
+wrong
+silk
+wrist
+credit
+wheel
+diagram |  
+| bip_39_word_new_line11 | rack
+grab
+pepper
+enough
+wrong
+silk
+wrist
+credit
+wheel
+diagram
+tail |  
+| bip_39_word_new_line12 | rack
+grab
+pepper
+enough
+wrong
+silk
+wrist
+credit
+wheel
+diagram
+tail
+author |  
+| bip_39_word_new_line2 | rack
+grab |  
+| bip_39_word_new_line3 | rack
+grab
+pepper |  
+| bip_39_word_new_line4 | rack
+grab
+pepper
+enough |  
+| bip_39_word_new_line5 | rack
+grab
+pepper
+enough
+wrong |  
+| bip_39_word_new_line6 | rack
+grab
+pepper
+enough
+wrong
+silk |  
+| bip_39_word_new_line7 | rack
+grab
+pepper
+enough
+wrong
+silk
+wrist |  
+| bip_39_word_new_line8 | rack
+grab
+pepper
+enough
+wrong
+silk
+wrist
+credit |  
+| bip_39_word_new_line9 | rack
+grab
+pepper
+enough
+wrong
+silk
+wrist
+credit
+wheel |  
+| bip_39_word_space_0 | ['rack', 'grab', 'pepper', 'enough', 'wrong', 'silk', 'wrist', 'credit', 'wheel', 'diagram', 'tail', 'author'] |  
+| bip_39_word_space_1 | rack |  
+| bip_39_word_space_10 | rack grab pepper enough wrong silk wrist credit wheel diagram |  
+| bip_39_word_space_11 | rack grab pepper enough wrong silk wrist credit wheel diagram tail |  
+| bip_39_word_space_12 | rack grab pepper enough wrong silk wrist credit wheel diagram tail author |  
+| bip_39_word_space_2 | rack grab |  
+| bip_39_word_space_3 | rack grab pepper |  
+| bip_39_word_space_4 | rack grab pepper enough |  
+| bip_39_word_space_5 | rack grab pepper enough wrong |  
+| bip_39_word_space_6 | rack grab pepper enough wrong silk |  
+| bip_39_word_space_7 | rack grab pepper enough wrong silk wrist |  
+| bip_39_word_space_8 | rack grab pepper enough wrong silk wrist credit |  
+| bip_39_word_space_9 | rack grab pepper enough wrong silk wrist credit wheel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

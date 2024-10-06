@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fit
+bip_39_word_new_br10: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch
+bip_39_word_new_br11: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch<br>wool
+bip_39_word_new_br12: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt<br>catch<br>wool<br>auction
+bip_39_word_new_br2: fit<br>truck
+bip_39_word_new_br3: fit<br>truck<br>toast
+bip_39_word_new_br4: fit<br>truck<br>toast<br>cloth
+bip_39_word_new_br5: fit<br>truck<br>toast<br>cloth<br>coach
+bip_39_word_new_br6: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile
+bip_39_word_new_br7: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely
+bip_39_word_new_br8: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk
+bip_39_word_new_br9: fit<br>truck<br>toast<br>cloth<br>coach<br>fragile<br>rely<br>milk<br>hurt
+bip_39_word_new_line1: fit
+bip_39_word_new_line10: 'fit
+
+  truck
+
+  toast
+
+  cloth
+
+  coach
+
+  fragile
+
+  rely
+
+  milk
+
+  hurt
+
+  catch'
+bip_39_word_new_line11: 'fit
+
+  truck
+
+  toast
+
+  cloth
+
+  coach
+
+  fragile
+
+  rely
+
+  milk
+
+  hurt
+
+  catch
+
+  wool'
+bip_39_word_new_line12: 'fit
+
+  truck
+
+  toast
+
+  cloth
+
+  coach
+
+  fragile
+
+  rely
+
+  milk
+
+  hurt
+
+  catch
+
+  wool
+
+  auction'
+bip_39_word_new_line2: 'fit
+
+  truck'
+bip_39_word_new_line3: 'fit
+
+  truck
+
+  toast'
+bip_39_word_new_line4: 'fit
+
+  truck
+
+  toast
+
+  cloth'
+bip_39_word_new_line5: 'fit
+
+  truck
+
+  toast
+
+  cloth
+
+  coach'
+bip_39_word_new_line6: 'fit
+
+  truck
+
+  toast
+
+  cloth
+
+  coach
+
+  fragile'
+bip_39_word_new_line7: 'fit
+
+  truck
+
+  toast
+
+  cloth
+
+  coach
+
+  fragile
+
+  rely'
+bip_39_word_new_line8: 'fit
+
+  truck
+
+  toast
+
+  cloth
+
+  coach
+
+  fragile
+
+  rely
+
+  milk'
+bip_39_word_new_line9: 'fit
+
+  truck
+
+  toast
+
+  cloth
+
+  coach
+
+  fragile
+
+  rely
+
+  milk
+
+  hurt'
+bip_39_word_space_0:
+- fit
+- truck
+- toast
+- cloth
+- coach
+- fragile
+- rely
+- milk
+- hurt
+- catch
+- wool
+- auction
+bip_39_word_space_1: fit
+bip_39_word_space_10: fit truck toast cloth coach fragile rely milk hurt catch
+bip_39_word_space_11: fit truck toast cloth coach fragile rely milk hurt catch wool
+bip_39_word_space_12: fit truck toast cloth coach fragile rely milk hurt catch wool
+  auction
+bip_39_word_space_2: fit truck
+bip_39_word_space_3: fit truck toast
+bip_39_word_space_4: fit truck toast cloth
+bip_39_word_space_5: fit truck toast cloth coach
+bip_39_word_space_6: fit truck toast cloth coach fragile
+bip_39_word_space_7: fit truck toast cloth coach fragile rely
+bip_39_word_space_8: fit truck toast cloth coach fragile rely milk
+bip_39_word_space_9: fit truck toast cloth coach fragile rely milk hurt
 classification: computer
 classification_capital: Computer
 classification_first_letter: c

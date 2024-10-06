@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fragile tourist
+  * bip 39 word 3: fragile tourist mercy
+  * bip 39 word: fragile tourist mercy unique thank bright ramp chaos hollow decide pilot action
 
 ### other_codes
 * short_code: br6209
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fragile |  
+| bip_39_word_new_br10 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright<br>ramp<br>chaos<br>hollow<br>decide |  
+| bip_39_word_new_br11 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright<br>ramp<br>chaos<br>hollow<br>decide<br>pilot |  
+| bip_39_word_new_br12 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright<br>ramp<br>chaos<br>hollow<br>decide<br>pilot<br>action |  
+| bip_39_word_new_br2 | fragile<br>tourist |  
+| bip_39_word_new_br3 | fragile<br>tourist<br>mercy |  
+| bip_39_word_new_br4 | fragile<br>tourist<br>mercy<br>unique |  
+| bip_39_word_new_br5 | fragile<br>tourist<br>mercy<br>unique<br>thank |  
+| bip_39_word_new_br6 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright |  
+| bip_39_word_new_br7 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright<br>ramp |  
+| bip_39_word_new_br8 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright<br>ramp<br>chaos |  
+| bip_39_word_new_br9 | fragile<br>tourist<br>mercy<br>unique<br>thank<br>bright<br>ramp<br>chaos<br>hollow |  
+| bip_39_word_new_line1 | fragile |  
+| bip_39_word_new_line10 | fragile
+tourist
+mercy
+unique
+thank
+bright
+ramp
+chaos
+hollow
+decide |  
+| bip_39_word_new_line11 | fragile
+tourist
+mercy
+unique
+thank
+bright
+ramp
+chaos
+hollow
+decide
+pilot |  
+| bip_39_word_new_line12 | fragile
+tourist
+mercy
+unique
+thank
+bright
+ramp
+chaos
+hollow
+decide
+pilot
+action |  
+| bip_39_word_new_line2 | fragile
+tourist |  
+| bip_39_word_new_line3 | fragile
+tourist
+mercy |  
+| bip_39_word_new_line4 | fragile
+tourist
+mercy
+unique |  
+| bip_39_word_new_line5 | fragile
+tourist
+mercy
+unique
+thank |  
+| bip_39_word_new_line6 | fragile
+tourist
+mercy
+unique
+thank
+bright |  
+| bip_39_word_new_line7 | fragile
+tourist
+mercy
+unique
+thank
+bright
+ramp |  
+| bip_39_word_new_line8 | fragile
+tourist
+mercy
+unique
+thank
+bright
+ramp
+chaos |  
+| bip_39_word_new_line9 | fragile
+tourist
+mercy
+unique
+thank
+bright
+ramp
+chaos
+hollow |  
+| bip_39_word_space_0 | ['fragile', 'tourist', 'mercy', 'unique', 'thank', 'bright', 'ramp', 'chaos', 'hollow', 'decide', 'pilot', 'action'] |  
+| bip_39_word_space_1 | fragile |  
+| bip_39_word_space_10 | fragile tourist mercy unique thank bright ramp chaos hollow decide |  
+| bip_39_word_space_11 | fragile tourist mercy unique thank bright ramp chaos hollow decide pilot |  
+| bip_39_word_space_12 | fragile tourist mercy unique thank bright ramp chaos hollow decide pilot action |  
+| bip_39_word_space_2 | fragile tourist |  
+| bip_39_word_space_3 | fragile tourist mercy |  
+| bip_39_word_space_4 | fragile tourist mercy unique |  
+| bip_39_word_space_5 | fragile tourist mercy unique thank |  
+| bip_39_word_space_6 | fragile tourist mercy unique thank bright |  
+| bip_39_word_space_7 | fragile tourist mercy unique thank bright ramp |  
+| bip_39_word_space_8 | fragile tourist mercy unique thank bright ramp chaos |  
+| bip_39_word_space_9 | fragile tourist mercy unique thank bright ramp chaos hollow |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

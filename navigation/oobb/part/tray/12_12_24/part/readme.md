@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: great kiwi
+  * bip 39 word 3: great kiwi erase
+  * bip 39 word: great kiwi erase blossom major brass spin civil excuse online hole ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | great |  
+| bip_39_word_new_br10 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online |  
+| bip_39_word_new_br11 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online<br>hole |  
+| bip_39_word_new_br12 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse<br>online<br>hole<br>ahead |  
+| bip_39_word_new_br2 | great<br>kiwi |  
+| bip_39_word_new_br3 | great<br>kiwi<br>erase |  
+| bip_39_word_new_br4 | great<br>kiwi<br>erase<br>blossom |  
+| bip_39_word_new_br5 | great<br>kiwi<br>erase<br>blossom<br>major |  
+| bip_39_word_new_br6 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass |  
+| bip_39_word_new_br7 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin |  
+| bip_39_word_new_br8 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil |  
+| bip_39_word_new_br9 | great<br>kiwi<br>erase<br>blossom<br>major<br>brass<br>spin<br>civil<br>excuse |  
+| bip_39_word_new_line1 | great |  
+| bip_39_word_new_line10 | great
+kiwi
+erase
+blossom
+major
+brass
+spin
+civil
+excuse
+online |  
+| bip_39_word_new_line11 | great
+kiwi
+erase
+blossom
+major
+brass
+spin
+civil
+excuse
+online
+hole |  
+| bip_39_word_new_line12 | great
+kiwi
+erase
+blossom
+major
+brass
+spin
+civil
+excuse
+online
+hole
+ahead |  
+| bip_39_word_new_line2 | great
+kiwi |  
+| bip_39_word_new_line3 | great
+kiwi
+erase |  
+| bip_39_word_new_line4 | great
+kiwi
+erase
+blossom |  
+| bip_39_word_new_line5 | great
+kiwi
+erase
+blossom
+major |  
+| bip_39_word_new_line6 | great
+kiwi
+erase
+blossom
+major
+brass |  
+| bip_39_word_new_line7 | great
+kiwi
+erase
+blossom
+major
+brass
+spin |  
+| bip_39_word_new_line8 | great
+kiwi
+erase
+blossom
+major
+brass
+spin
+civil |  
+| bip_39_word_new_line9 | great
+kiwi
+erase
+blossom
+major
+brass
+spin
+civil
+excuse |  
+| bip_39_word_space_0 | ['great', 'kiwi', 'erase', 'blossom', 'major', 'brass', 'spin', 'civil', 'excuse', 'online', 'hole', 'ahead'] |  
+| bip_39_word_space_1 | great |  
+| bip_39_word_space_10 | great kiwi erase blossom major brass spin civil excuse online |  
+| bip_39_word_space_11 | great kiwi erase blossom major brass spin civil excuse online hole |  
+| bip_39_word_space_12 | great kiwi erase blossom major brass spin civil excuse online hole ahead |  
+| bip_39_word_space_2 | great kiwi |  
+| bip_39_word_space_3 | great kiwi erase |  
+| bip_39_word_space_4 | great kiwi erase blossom |  
+| bip_39_word_space_5 | great kiwi erase blossom major |  
+| bip_39_word_space_6 | great kiwi erase blossom major brass |  
+| bip_39_word_space_7 | great kiwi erase blossom major brass spin |  
+| bip_39_word_space_8 | great kiwi erase blossom major brass spin civil |  
+| bip_39_word_space_9 | great kiwi erase blossom major brass spin civil excuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

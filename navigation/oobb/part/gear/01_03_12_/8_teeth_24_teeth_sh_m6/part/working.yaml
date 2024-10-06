@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spread
+bip_39_word_new_br10: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century
+bip_39_word_new_br11: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil
+bip_39_word_new_br12: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil<br>alien
+bip_39_word_new_br2: spread<br>rug
+bip_39_word_new_br3: spread<br>rug<br>devote
+bip_39_word_new_br4: spread<br>rug<br>devote<br>orange
+bip_39_word_new_br5: spread<br>rug<br>devote<br>orange<br>screen
+bip_39_word_new_br6: spread<br>rug<br>devote<br>orange<br>screen<br>else
+bip_39_word_new_br7: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan
+bip_39_word_new_br8: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce
+bip_39_word_new_br9: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain
+bip_39_word_new_line1: spread
+bip_39_word_new_line10: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce
+
+  rain
+
+  century'
+bip_39_word_new_line11: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce
+
+  rain
+
+  century
+
+  fossil'
+bip_39_word_new_line12: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce
+
+  rain
+
+  century
+
+  fossil
+
+  alien'
+bip_39_word_new_line2: 'spread
+
+  rug'
+bip_39_word_new_line3: 'spread
+
+  rug
+
+  devote'
+bip_39_word_new_line4: 'spread
+
+  rug
+
+  devote
+
+  orange'
+bip_39_word_new_line5: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen'
+bip_39_word_new_line6: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else'
+bip_39_word_new_line7: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan'
+bip_39_word_new_line8: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce'
+bip_39_word_new_line9: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce
+
+  rain'
+bip_39_word_space_0:
+- spread
+- rug
+- devote
+- orange
+- screen
+- else
+- orphan
+- sauce
+- rain
+- century
+- fossil
+- alien
+bip_39_word_space_1: spread
+bip_39_word_space_10: spread rug devote orange screen else orphan sauce rain century
+bip_39_word_space_11: spread rug devote orange screen else orphan sauce rain century
+  fossil
+bip_39_word_space_12: spread rug devote orange screen else orphan sauce rain century
+  fossil alien
+bip_39_word_space_2: spread rug
+bip_39_word_space_3: spread rug devote
+bip_39_word_space_4: spread rug devote orange
+bip_39_word_space_5: spread rug devote orange screen
+bip_39_word_space_6: spread rug devote orange screen else
+bip_39_word_space_7: spread rug devote orange screen else orphan
+bip_39_word_space_8: spread rug devote orange screen else orphan sauce
+bip_39_word_space_9: spread rug devote orange screen else orphan sauce rain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remember beauty
+  * bip 39 word 3: remember beauty assault
+  * bip 39 word: remember beauty assault still enter license discover real service amateur object aunt
 
 ### other_codes
 * short_code: b5m65
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remember |  
+| bip_39_word_new_br10 | remember<br>beauty<br>assault<br>still<br>enter<br>license<br>discover<br>real<br>service<br>amateur |  
+| bip_39_word_new_br11 | remember<br>beauty<br>assault<br>still<br>enter<br>license<br>discover<br>real<br>service<br>amateur<br>object |  
+| bip_39_word_new_br12 | remember<br>beauty<br>assault<br>still<br>enter<br>license<br>discover<br>real<br>service<br>amateur<br>object<br>aunt |  
+| bip_39_word_new_br2 | remember<br>beauty |  
+| bip_39_word_new_br3 | remember<br>beauty<br>assault |  
+| bip_39_word_new_br4 | remember<br>beauty<br>assault<br>still |  
+| bip_39_word_new_br5 | remember<br>beauty<br>assault<br>still<br>enter |  
+| bip_39_word_new_br6 | remember<br>beauty<br>assault<br>still<br>enter<br>license |  
+| bip_39_word_new_br7 | remember<br>beauty<br>assault<br>still<br>enter<br>license<br>discover |  
+| bip_39_word_new_br8 | remember<br>beauty<br>assault<br>still<br>enter<br>license<br>discover<br>real |  
+| bip_39_word_new_br9 | remember<br>beauty<br>assault<br>still<br>enter<br>license<br>discover<br>real<br>service |  
+| bip_39_word_new_line1 | remember |  
+| bip_39_word_new_line10 | remember
+beauty
+assault
+still
+enter
+license
+discover
+real
+service
+amateur |  
+| bip_39_word_new_line11 | remember
+beauty
+assault
+still
+enter
+license
+discover
+real
+service
+amateur
+object |  
+| bip_39_word_new_line12 | remember
+beauty
+assault
+still
+enter
+license
+discover
+real
+service
+amateur
+object
+aunt |  
+| bip_39_word_new_line2 | remember
+beauty |  
+| bip_39_word_new_line3 | remember
+beauty
+assault |  
+| bip_39_word_new_line4 | remember
+beauty
+assault
+still |  
+| bip_39_word_new_line5 | remember
+beauty
+assault
+still
+enter |  
+| bip_39_word_new_line6 | remember
+beauty
+assault
+still
+enter
+license |  
+| bip_39_word_new_line7 | remember
+beauty
+assault
+still
+enter
+license
+discover |  
+| bip_39_word_new_line8 | remember
+beauty
+assault
+still
+enter
+license
+discover
+real |  
+| bip_39_word_new_line9 | remember
+beauty
+assault
+still
+enter
+license
+discover
+real
+service |  
+| bip_39_word_space_0 | ['remember', 'beauty', 'assault', 'still', 'enter', 'license', 'discover', 'real', 'service', 'amateur', 'object', 'aunt'] |  
+| bip_39_word_space_1 | remember |  
+| bip_39_word_space_10 | remember beauty assault still enter license discover real service amateur |  
+| bip_39_word_space_11 | remember beauty assault still enter license discover real service amateur object |  
+| bip_39_word_space_12 | remember beauty assault still enter license discover real service amateur object aunt |  
+| bip_39_word_space_2 | remember beauty |  
+| bip_39_word_space_3 | remember beauty assault |  
+| bip_39_word_space_4 | remember beauty assault still |  
+| bip_39_word_space_5 | remember beauty assault still enter |  
+| bip_39_word_space_6 | remember beauty assault still enter license |  
+| bip_39_word_space_7 | remember beauty assault still enter license discover |  
+| bip_39_word_space_8 | remember beauty assault still enter license discover real |  
+| bip_39_word_space_9 | remember beauty assault still enter license discover real service |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

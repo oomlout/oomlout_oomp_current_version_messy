@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: opera nose
+  * bip 39 word 3: opera nose collect
+  * bip 39 word: opera nose collect target message ceiling lesson bomb tribe thumb tomorrow alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | opera |  
+| bip_39_word_new_br10 | opera<br>nose<br>collect<br>target<br>message<br>ceiling<br>lesson<br>bomb<br>tribe<br>thumb |  
+| bip_39_word_new_br11 | opera<br>nose<br>collect<br>target<br>message<br>ceiling<br>lesson<br>bomb<br>tribe<br>thumb<br>tomorrow |  
+| bip_39_word_new_br12 | opera<br>nose<br>collect<br>target<br>message<br>ceiling<br>lesson<br>bomb<br>tribe<br>thumb<br>tomorrow<br>alarm |  
+| bip_39_word_new_br2 | opera<br>nose |  
+| bip_39_word_new_br3 | opera<br>nose<br>collect |  
+| bip_39_word_new_br4 | opera<br>nose<br>collect<br>target |  
+| bip_39_word_new_br5 | opera<br>nose<br>collect<br>target<br>message |  
+| bip_39_word_new_br6 | opera<br>nose<br>collect<br>target<br>message<br>ceiling |  
+| bip_39_word_new_br7 | opera<br>nose<br>collect<br>target<br>message<br>ceiling<br>lesson |  
+| bip_39_word_new_br8 | opera<br>nose<br>collect<br>target<br>message<br>ceiling<br>lesson<br>bomb |  
+| bip_39_word_new_br9 | opera<br>nose<br>collect<br>target<br>message<br>ceiling<br>lesson<br>bomb<br>tribe |  
+| bip_39_word_new_line1 | opera |  
+| bip_39_word_new_line10 | opera
+nose
+collect
+target
+message
+ceiling
+lesson
+bomb
+tribe
+thumb |  
+| bip_39_word_new_line11 | opera
+nose
+collect
+target
+message
+ceiling
+lesson
+bomb
+tribe
+thumb
+tomorrow |  
+| bip_39_word_new_line12 | opera
+nose
+collect
+target
+message
+ceiling
+lesson
+bomb
+tribe
+thumb
+tomorrow
+alarm |  
+| bip_39_word_new_line2 | opera
+nose |  
+| bip_39_word_new_line3 | opera
+nose
+collect |  
+| bip_39_word_new_line4 | opera
+nose
+collect
+target |  
+| bip_39_word_new_line5 | opera
+nose
+collect
+target
+message |  
+| bip_39_word_new_line6 | opera
+nose
+collect
+target
+message
+ceiling |  
+| bip_39_word_new_line7 | opera
+nose
+collect
+target
+message
+ceiling
+lesson |  
+| bip_39_word_new_line8 | opera
+nose
+collect
+target
+message
+ceiling
+lesson
+bomb |  
+| bip_39_word_new_line9 | opera
+nose
+collect
+target
+message
+ceiling
+lesson
+bomb
+tribe |  
+| bip_39_word_space_0 | ['opera', 'nose', 'collect', 'target', 'message', 'ceiling', 'lesson', 'bomb', 'tribe', 'thumb', 'tomorrow', 'alarm'] |  
+| bip_39_word_space_1 | opera |  
+| bip_39_word_space_10 | opera nose collect target message ceiling lesson bomb tribe thumb |  
+| bip_39_word_space_11 | opera nose collect target message ceiling lesson bomb tribe thumb tomorrow |  
+| bip_39_word_space_12 | opera nose collect target message ceiling lesson bomb tribe thumb tomorrow alarm |  
+| bip_39_word_space_2 | opera nose |  
+| bip_39_word_space_3 | opera nose collect |  
+| bip_39_word_space_4 | opera nose collect target |  
+| bip_39_word_space_5 | opera nose collect target message |  
+| bip_39_word_space_6 | opera nose collect target message ceiling |  
+| bip_39_word_space_7 | opera nose collect target message ceiling lesson |  
+| bip_39_word_space_8 | opera nose collect target message ceiling lesson bomb |  
+| bip_39_word_space_9 | opera nose collect target message ceiling lesson bomb tribe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

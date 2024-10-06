@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: motion brick
+  * bip 39 word 3: motion brick island
+  * bip 39 word: motion brick island spray quantum people comic collect pizza decline asset asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | motion |  
+| bip_39_word_new_br10 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline |  
+| bip_39_word_new_br11 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline<br>asset |  
+| bip_39_word_new_br12 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza<br>decline<br>asset<br>asset |  
+| bip_39_word_new_br2 | motion<br>brick |  
+| bip_39_word_new_br3 | motion<br>brick<br>island |  
+| bip_39_word_new_br4 | motion<br>brick<br>island<br>spray |  
+| bip_39_word_new_br5 | motion<br>brick<br>island<br>spray<br>quantum |  
+| bip_39_word_new_br6 | motion<br>brick<br>island<br>spray<br>quantum<br>people |  
+| bip_39_word_new_br7 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic |  
+| bip_39_word_new_br8 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect |  
+| bip_39_word_new_br9 | motion<br>brick<br>island<br>spray<br>quantum<br>people<br>comic<br>collect<br>pizza |  
+| bip_39_word_new_line1 | motion |  
+| bip_39_word_new_line10 | motion
+brick
+island
+spray
+quantum
+people
+comic
+collect
+pizza
+decline |  
+| bip_39_word_new_line11 | motion
+brick
+island
+spray
+quantum
+people
+comic
+collect
+pizza
+decline
+asset |  
+| bip_39_word_new_line12 | motion
+brick
+island
+spray
+quantum
+people
+comic
+collect
+pizza
+decline
+asset
+asset |  
+| bip_39_word_new_line2 | motion
+brick |  
+| bip_39_word_new_line3 | motion
+brick
+island |  
+| bip_39_word_new_line4 | motion
+brick
+island
+spray |  
+| bip_39_word_new_line5 | motion
+brick
+island
+spray
+quantum |  
+| bip_39_word_new_line6 | motion
+brick
+island
+spray
+quantum
+people |  
+| bip_39_word_new_line7 | motion
+brick
+island
+spray
+quantum
+people
+comic |  
+| bip_39_word_new_line8 | motion
+brick
+island
+spray
+quantum
+people
+comic
+collect |  
+| bip_39_word_new_line9 | motion
+brick
+island
+spray
+quantum
+people
+comic
+collect
+pizza |  
+| bip_39_word_space_0 | ['motion', 'brick', 'island', 'spray', 'quantum', 'people', 'comic', 'collect', 'pizza', 'decline', 'asset', 'asset'] |  
+| bip_39_word_space_1 | motion |  
+| bip_39_word_space_10 | motion brick island spray quantum people comic collect pizza decline |  
+| bip_39_word_space_11 | motion brick island spray quantum people comic collect pizza decline asset |  
+| bip_39_word_space_12 | motion brick island spray quantum people comic collect pizza decline asset asset |  
+| bip_39_word_space_2 | motion brick |  
+| bip_39_word_space_3 | motion brick island |  
+| bip_39_word_space_4 | motion brick island spray |  
+| bip_39_word_space_5 | motion brick island spray quantum |  
+| bip_39_word_space_6 | motion brick island spray quantum people |  
+| bip_39_word_space_7 | motion brick island spray quantum people comic |  
+| bip_39_word_space_8 | motion brick island spray quantum people comic collect |  
+| bip_39_word_space_9 | motion brick island spray quantum people comic collect pizza |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

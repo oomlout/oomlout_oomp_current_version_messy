@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faint detail
+  * bip 39 word 3: faint detail silver
+  * bip 39 word: faint detail silver post visit cactus pledge prevent tonight endorse area alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faint |  
+| bip_39_word_new_br10 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse |  
+| bip_39_word_new_br11 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse<br>area |  
+| bip_39_word_new_br12 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight<br>endorse<br>area<br>alert |  
+| bip_39_word_new_br2 | faint<br>detail |  
+| bip_39_word_new_br3 | faint<br>detail<br>silver |  
+| bip_39_word_new_br4 | faint<br>detail<br>silver<br>post |  
+| bip_39_word_new_br5 | faint<br>detail<br>silver<br>post<br>visit |  
+| bip_39_word_new_br6 | faint<br>detail<br>silver<br>post<br>visit<br>cactus |  
+| bip_39_word_new_br7 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge |  
+| bip_39_word_new_br8 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent |  
+| bip_39_word_new_br9 | faint<br>detail<br>silver<br>post<br>visit<br>cactus<br>pledge<br>prevent<br>tonight |  
+| bip_39_word_new_line1 | faint |  
+| bip_39_word_new_line10 | faint
+detail
+silver
+post
+visit
+cactus
+pledge
+prevent
+tonight
+endorse |  
+| bip_39_word_new_line11 | faint
+detail
+silver
+post
+visit
+cactus
+pledge
+prevent
+tonight
+endorse
+area |  
+| bip_39_word_new_line12 | faint
+detail
+silver
+post
+visit
+cactus
+pledge
+prevent
+tonight
+endorse
+area
+alert |  
+| bip_39_word_new_line2 | faint
+detail |  
+| bip_39_word_new_line3 | faint
+detail
+silver |  
+| bip_39_word_new_line4 | faint
+detail
+silver
+post |  
+| bip_39_word_new_line5 | faint
+detail
+silver
+post
+visit |  
+| bip_39_word_new_line6 | faint
+detail
+silver
+post
+visit
+cactus |  
+| bip_39_word_new_line7 | faint
+detail
+silver
+post
+visit
+cactus
+pledge |  
+| bip_39_word_new_line8 | faint
+detail
+silver
+post
+visit
+cactus
+pledge
+prevent |  
+| bip_39_word_new_line9 | faint
+detail
+silver
+post
+visit
+cactus
+pledge
+prevent
+tonight |  
+| bip_39_word_space_0 | ['faint', 'detail', 'silver', 'post', 'visit', 'cactus', 'pledge', 'prevent', 'tonight', 'endorse', 'area', 'alert'] |  
+| bip_39_word_space_1 | faint |  
+| bip_39_word_space_10 | faint detail silver post visit cactus pledge prevent tonight endorse |  
+| bip_39_word_space_11 | faint detail silver post visit cactus pledge prevent tonight endorse area |  
+| bip_39_word_space_12 | faint detail silver post visit cactus pledge prevent tonight endorse area alert |  
+| bip_39_word_space_2 | faint detail |  
+| bip_39_word_space_3 | faint detail silver |  
+| bip_39_word_space_4 | faint detail silver post |  
+| bip_39_word_space_5 | faint detail silver post visit |  
+| bip_39_word_space_6 | faint detail silver post visit cactus |  
+| bip_39_word_space_7 | faint detail silver post visit cactus pledge |  
+| bip_39_word_space_8 | faint detail silver post visit cactus pledge prevent |  
+| bip_39_word_space_9 | faint detail silver post visit cactus pledge prevent tonight |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

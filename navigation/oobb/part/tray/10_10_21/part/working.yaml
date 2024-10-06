@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vital
+bip_39_word_new_br10: vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden
+bip_39_word_new_br11: vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden<br>cheese
+bip_39_word_new_br12: vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness<br>burden<br>cheese<br>alter
+bip_39_word_new_br2: vital<br>pass
+bip_39_word_new_br3: vital<br>pass<br>thank
+bip_39_word_new_br4: vital<br>pass<br>thank<br>faint
+bip_39_word_new_br5: vital<br>pass<br>thank<br>faint<br>retire
+bip_39_word_new_br6: vital<br>pass<br>thank<br>faint<br>retire<br>vessel
+bip_39_word_new_br7: vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic
+bip_39_word_new_br8: vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch
+bip_39_word_new_br9: vital<br>pass<br>thank<br>faint<br>retire<br>vessel<br>drastic<br>catch<br>witness
+bip_39_word_new_line1: vital
+bip_39_word_new_line10: 'vital
+
+  pass
+
+  thank
+
+  faint
+
+  retire
+
+  vessel
+
+  drastic
+
+  catch
+
+  witness
+
+  burden'
+bip_39_word_new_line11: 'vital
+
+  pass
+
+  thank
+
+  faint
+
+  retire
+
+  vessel
+
+  drastic
+
+  catch
+
+  witness
+
+  burden
+
+  cheese'
+bip_39_word_new_line12: 'vital
+
+  pass
+
+  thank
+
+  faint
+
+  retire
+
+  vessel
+
+  drastic
+
+  catch
+
+  witness
+
+  burden
+
+  cheese
+
+  alter'
+bip_39_word_new_line2: 'vital
+
+  pass'
+bip_39_word_new_line3: 'vital
+
+  pass
+
+  thank'
+bip_39_word_new_line4: 'vital
+
+  pass
+
+  thank
+
+  faint'
+bip_39_word_new_line5: 'vital
+
+  pass
+
+  thank
+
+  faint
+
+  retire'
+bip_39_word_new_line6: 'vital
+
+  pass
+
+  thank
+
+  faint
+
+  retire
+
+  vessel'
+bip_39_word_new_line7: 'vital
+
+  pass
+
+  thank
+
+  faint
+
+  retire
+
+  vessel
+
+  drastic'
+bip_39_word_new_line8: 'vital
+
+  pass
+
+  thank
+
+  faint
+
+  retire
+
+  vessel
+
+  drastic
+
+  catch'
+bip_39_word_new_line9: 'vital
+
+  pass
+
+  thank
+
+  faint
+
+  retire
+
+  vessel
+
+  drastic
+
+  catch
+
+  witness'
+bip_39_word_space_0:
+- vital
+- pass
+- thank
+- faint
+- retire
+- vessel
+- drastic
+- catch
+- witness
+- burden
+- cheese
+- alter
+bip_39_word_space_1: vital
+bip_39_word_space_10: vital pass thank faint retire vessel drastic catch witness burden
+bip_39_word_space_11: vital pass thank faint retire vessel drastic catch witness burden
+  cheese
+bip_39_word_space_12: vital pass thank faint retire vessel drastic catch witness burden
+  cheese alter
+bip_39_word_space_2: vital pass
+bip_39_word_space_3: vital pass thank
+bip_39_word_space_4: vital pass thank faint
+bip_39_word_space_5: vital pass thank faint retire
+bip_39_word_space_6: vital pass thank faint retire vessel
+bip_39_word_space_7: vital pass thank faint retire vessel drastic
+bip_39_word_space_8: vital pass thank faint retire vessel drastic catch
+bip_39_word_space_9: vital pass thank faint retire vessel drastic catch witness
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

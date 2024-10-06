@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_marker_ikea_mala
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mountain bomb
+  * bip 39 word 3: mountain bomb twenty
+  * bip 39 word: mountain bomb twenty visa winner discover scale drastic happy cheese inhale action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mountain |  
+| bip_39_word_new_br10 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese |  
+| bip_39_word_new_br11 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese<br>inhale |  
+| bip_39_word_new_br12 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy<br>cheese<br>inhale<br>action |  
+| bip_39_word_new_br2 | mountain<br>bomb |  
+| bip_39_word_new_br3 | mountain<br>bomb<br>twenty |  
+| bip_39_word_new_br4 | mountain<br>bomb<br>twenty<br>visa |  
+| bip_39_word_new_br5 | mountain<br>bomb<br>twenty<br>visa<br>winner |  
+| bip_39_word_new_br6 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover |  
+| bip_39_word_new_br7 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale |  
+| bip_39_word_new_br8 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic |  
+| bip_39_word_new_br9 | mountain<br>bomb<br>twenty<br>visa<br>winner<br>discover<br>scale<br>drastic<br>happy |  
+| bip_39_word_new_line1 | mountain |  
+| bip_39_word_new_line10 | mountain
+bomb
+twenty
+visa
+winner
+discover
+scale
+drastic
+happy
+cheese |  
+| bip_39_word_new_line11 | mountain
+bomb
+twenty
+visa
+winner
+discover
+scale
+drastic
+happy
+cheese
+inhale |  
+| bip_39_word_new_line12 | mountain
+bomb
+twenty
+visa
+winner
+discover
+scale
+drastic
+happy
+cheese
+inhale
+action |  
+| bip_39_word_new_line2 | mountain
+bomb |  
+| bip_39_word_new_line3 | mountain
+bomb
+twenty |  
+| bip_39_word_new_line4 | mountain
+bomb
+twenty
+visa |  
+| bip_39_word_new_line5 | mountain
+bomb
+twenty
+visa
+winner |  
+| bip_39_word_new_line6 | mountain
+bomb
+twenty
+visa
+winner
+discover |  
+| bip_39_word_new_line7 | mountain
+bomb
+twenty
+visa
+winner
+discover
+scale |  
+| bip_39_word_new_line8 | mountain
+bomb
+twenty
+visa
+winner
+discover
+scale
+drastic |  
+| bip_39_word_new_line9 | mountain
+bomb
+twenty
+visa
+winner
+discover
+scale
+drastic
+happy |  
+| bip_39_word_space_0 | ['mountain', 'bomb', 'twenty', 'visa', 'winner', 'discover', 'scale', 'drastic', 'happy', 'cheese', 'inhale', 'action'] |  
+| bip_39_word_space_1 | mountain |  
+| bip_39_word_space_10 | mountain bomb twenty visa winner discover scale drastic happy cheese |  
+| bip_39_word_space_11 | mountain bomb twenty visa winner discover scale drastic happy cheese inhale |  
+| bip_39_word_space_12 | mountain bomb twenty visa winner discover scale drastic happy cheese inhale action |  
+| bip_39_word_space_2 | mountain bomb |  
+| bip_39_word_space_3 | mountain bomb twenty |  
+| bip_39_word_space_4 | mountain bomb twenty visa |  
+| bip_39_word_space_5 | mountain bomb twenty visa winner |  
+| bip_39_word_space_6 | mountain bomb twenty visa winner discover |  
+| bip_39_word_space_7 | mountain bomb twenty visa winner discover scale |  
+| bip_39_word_space_8 | mountain bomb twenty visa winner discover scale drastic |  
+| bip_39_word_space_9 | mountain bomb twenty visa winner discover scale drastic happy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

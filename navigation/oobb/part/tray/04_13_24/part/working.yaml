@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mutual
+bip_39_word_new_br10: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft<br>basic
+bip_39_word_new_br11: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft<br>basic<br>feed
+bip_39_word_new_br12: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft<br>basic<br>feed<br>atom
+bip_39_word_new_br2: mutual<br>beef
+bip_39_word_new_br3: mutual<br>beef<br>early
+bip_39_word_new_br4: mutual<br>beef<br>early<br>fee
+bip_39_word_new_br5: mutual<br>beef<br>early<br>fee<br>escape
+bip_39_word_new_br6: mutual<br>beef<br>early<br>fee<br>escape<br>scrap
+bip_39_word_new_br7: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate
+bip_39_word_new_br8: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle
+bip_39_word_new_br9: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft
+bip_39_word_new_line1: mutual
+bip_39_word_new_line10: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle
+
+  draft
+
+  basic'
+bip_39_word_new_line11: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle
+
+  draft
+
+  basic
+
+  feed'
+bip_39_word_new_line12: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle
+
+  draft
+
+  basic
+
+  feed
+
+  atom'
+bip_39_word_new_line2: 'mutual
+
+  beef'
+bip_39_word_new_line3: 'mutual
+
+  beef
+
+  early'
+bip_39_word_new_line4: 'mutual
+
+  beef
+
+  early
+
+  fee'
+bip_39_word_new_line5: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape'
+bip_39_word_new_line6: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap'
+bip_39_word_new_line7: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate'
+bip_39_word_new_line8: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle'
+bip_39_word_new_line9: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle
+
+  draft'
+bip_39_word_space_0:
+- mutual
+- beef
+- early
+- fee
+- escape
+- scrap
+- plate
+- noodle
+- draft
+- basic
+- feed
+- atom
+bip_39_word_space_1: mutual
+bip_39_word_space_10: mutual beef early fee escape scrap plate noodle draft basic
+bip_39_word_space_11: mutual beef early fee escape scrap plate noodle draft basic
+  feed
+bip_39_word_space_12: mutual beef early fee escape scrap plate noodle draft basic
+  feed atom
+bip_39_word_space_2: mutual beef
+bip_39_word_space_3: mutual beef early
+bip_39_word_space_4: mutual beef early fee
+bip_39_word_space_5: mutual beef early fee escape
+bip_39_word_space_6: mutual beef early fee escape scrap
+bip_39_word_space_7: mutual beef early fee escape scrap plate
+bip_39_word_space_8: mutual beef early fee escape scrap plate noodle
+bip_39_word_space_9: mutual beef early fee escape scrap plate noodle draft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

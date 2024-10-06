@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gather execute
+  * bip 39 word 3: gather execute evil
+  * bip 39 word: gather execute evil caught ancient artefact mix liberty car steel health affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gather |  
+| bip_39_word_new_br10 | gather<br>execute<br>evil<br>caught<br>ancient<br>artefact<br>mix<br>liberty<br>car<br>steel |  
+| bip_39_word_new_br11 | gather<br>execute<br>evil<br>caught<br>ancient<br>artefact<br>mix<br>liberty<br>car<br>steel<br>health |  
+| bip_39_word_new_br12 | gather<br>execute<br>evil<br>caught<br>ancient<br>artefact<br>mix<br>liberty<br>car<br>steel<br>health<br>affair |  
+| bip_39_word_new_br2 | gather<br>execute |  
+| bip_39_word_new_br3 | gather<br>execute<br>evil |  
+| bip_39_word_new_br4 | gather<br>execute<br>evil<br>caught |  
+| bip_39_word_new_br5 | gather<br>execute<br>evil<br>caught<br>ancient |  
+| bip_39_word_new_br6 | gather<br>execute<br>evil<br>caught<br>ancient<br>artefact |  
+| bip_39_word_new_br7 | gather<br>execute<br>evil<br>caught<br>ancient<br>artefact<br>mix |  
+| bip_39_word_new_br8 | gather<br>execute<br>evil<br>caught<br>ancient<br>artefact<br>mix<br>liberty |  
+| bip_39_word_new_br9 | gather<br>execute<br>evil<br>caught<br>ancient<br>artefact<br>mix<br>liberty<br>car |  
+| bip_39_word_new_line1 | gather |  
+| bip_39_word_new_line10 | gather
+execute
+evil
+caught
+ancient
+artefact
+mix
+liberty
+car
+steel |  
+| bip_39_word_new_line11 | gather
+execute
+evil
+caught
+ancient
+artefact
+mix
+liberty
+car
+steel
+health |  
+| bip_39_word_new_line12 | gather
+execute
+evil
+caught
+ancient
+artefact
+mix
+liberty
+car
+steel
+health
+affair |  
+| bip_39_word_new_line2 | gather
+execute |  
+| bip_39_word_new_line3 | gather
+execute
+evil |  
+| bip_39_word_new_line4 | gather
+execute
+evil
+caught |  
+| bip_39_word_new_line5 | gather
+execute
+evil
+caught
+ancient |  
+| bip_39_word_new_line6 | gather
+execute
+evil
+caught
+ancient
+artefact |  
+| bip_39_word_new_line7 | gather
+execute
+evil
+caught
+ancient
+artefact
+mix |  
+| bip_39_word_new_line8 | gather
+execute
+evil
+caught
+ancient
+artefact
+mix
+liberty |  
+| bip_39_word_new_line9 | gather
+execute
+evil
+caught
+ancient
+artefact
+mix
+liberty
+car |  
+| bip_39_word_space_0 | ['gather', 'execute', 'evil', 'caught', 'ancient', 'artefact', 'mix', 'liberty', 'car', 'steel', 'health', 'affair'] |  
+| bip_39_word_space_1 | gather |  
+| bip_39_word_space_10 | gather execute evil caught ancient artefact mix liberty car steel |  
+| bip_39_word_space_11 | gather execute evil caught ancient artefact mix liberty car steel health |  
+| bip_39_word_space_12 | gather execute evil caught ancient artefact mix liberty car steel health affair |  
+| bip_39_word_space_2 | gather execute |  
+| bip_39_word_space_3 | gather execute evil |  
+| bip_39_word_space_4 | gather execute evil caught |  
+| bip_39_word_space_5 | gather execute evil caught ancient |  
+| bip_39_word_space_6 | gather execute evil caught ancient artefact |  
+| bip_39_word_space_7 | gather execute evil caught ancient artefact mix |  
+| bip_39_word_space_8 | gather execute evil caught ancient artefact mix liberty |  
+| bip_39_word_space_9 | gather execute evil caught ancient artefact mix liberty car |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

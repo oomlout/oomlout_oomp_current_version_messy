@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chimney
+bip_39_word_new_br10: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt<br>luxury
+bip_39_word_new_br11: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt<br>luxury<br>purse
+bip_39_word_new_br12: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt<br>luxury<br>purse<br>absent
+bip_39_word_new_br2: chimney<br>label
+bip_39_word_new_br3: chimney<br>label<br>special
+bip_39_word_new_br4: chimney<br>label<br>special<br>art
+bip_39_word_new_br5: chimney<br>label<br>special<br>art<br>position
+bip_39_word_new_br6: chimney<br>label<br>special<br>art<br>position<br>daring
+bip_39_word_new_br7: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony
+bip_39_word_new_br8: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo
+bip_39_word_new_br9: chimney<br>label<br>special<br>art<br>position<br>daring<br>pony<br>echo<br>hurt
+bip_39_word_new_line1: chimney
+bip_39_word_new_line10: 'chimney
+
+  label
+
+  special
+
+  art
+
+  position
+
+  daring
+
+  pony
+
+  echo
+
+  hurt
+
+  luxury'
+bip_39_word_new_line11: 'chimney
+
+  label
+
+  special
+
+  art
+
+  position
+
+  daring
+
+  pony
+
+  echo
+
+  hurt
+
+  luxury
+
+  purse'
+bip_39_word_new_line12: 'chimney
+
+  label
+
+  special
+
+  art
+
+  position
+
+  daring
+
+  pony
+
+  echo
+
+  hurt
+
+  luxury
+
+  purse
+
+  absent'
+bip_39_word_new_line2: 'chimney
+
+  label'
+bip_39_word_new_line3: 'chimney
+
+  label
+
+  special'
+bip_39_word_new_line4: 'chimney
+
+  label
+
+  special
+
+  art'
+bip_39_word_new_line5: 'chimney
+
+  label
+
+  special
+
+  art
+
+  position'
+bip_39_word_new_line6: 'chimney
+
+  label
+
+  special
+
+  art
+
+  position
+
+  daring'
+bip_39_word_new_line7: 'chimney
+
+  label
+
+  special
+
+  art
+
+  position
+
+  daring
+
+  pony'
+bip_39_word_new_line8: 'chimney
+
+  label
+
+  special
+
+  art
+
+  position
+
+  daring
+
+  pony
+
+  echo'
+bip_39_word_new_line9: 'chimney
+
+  label
+
+  special
+
+  art
+
+  position
+
+  daring
+
+  pony
+
+  echo
+
+  hurt'
+bip_39_word_space_0:
+- chimney
+- label
+- special
+- art
+- position
+- daring
+- pony
+- echo
+- hurt
+- luxury
+- purse
+- absent
+bip_39_word_space_1: chimney
+bip_39_word_space_10: chimney label special art position daring pony echo hurt luxury
+bip_39_word_space_11: chimney label special art position daring pony echo hurt luxury
+  purse
+bip_39_word_space_12: chimney label special art position daring pony echo hurt luxury
+  purse absent
+bip_39_word_space_2: chimney label
+bip_39_word_space_3: chimney label special
+bip_39_word_space_4: chimney label special art
+bip_39_word_space_5: chimney label special art position
+bip_39_word_space_6: chimney label special art position daring
+bip_39_word_space_7: chimney label special art position daring pony
+bip_39_word_space_8: chimney label special art position daring pony echo
+bip_39_word_space_9: chimney label special art position daring pony echo hurt
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

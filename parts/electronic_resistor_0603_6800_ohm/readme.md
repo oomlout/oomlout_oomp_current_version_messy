@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: guitar sugar
+  * bip 39 word 3: guitar sugar lady
+  * bip 39 word: guitar sugar lady token cluster negative correct slender evidence thing border artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | guitar |  
+| bip_39_word_new_br10 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative<br>correct<br>slender<br>evidence<br>thing |  
+| bip_39_word_new_br11 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative<br>correct<br>slender<br>evidence<br>thing<br>border |  
+| bip_39_word_new_br12 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative<br>correct<br>slender<br>evidence<br>thing<br>border<br>artist |  
+| bip_39_word_new_br2 | guitar<br>sugar |  
+| bip_39_word_new_br3 | guitar<br>sugar<br>lady |  
+| bip_39_word_new_br4 | guitar<br>sugar<br>lady<br>token |  
+| bip_39_word_new_br5 | guitar<br>sugar<br>lady<br>token<br>cluster |  
+| bip_39_word_new_br6 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative |  
+| bip_39_word_new_br7 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative<br>correct |  
+| bip_39_word_new_br8 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative<br>correct<br>slender |  
+| bip_39_word_new_br9 | guitar<br>sugar<br>lady<br>token<br>cluster<br>negative<br>correct<br>slender<br>evidence |  
+| bip_39_word_new_line1 | guitar |  
+| bip_39_word_new_line10 | guitar
+sugar
+lady
+token
+cluster
+negative
+correct
+slender
+evidence
+thing |  
+| bip_39_word_new_line11 | guitar
+sugar
+lady
+token
+cluster
+negative
+correct
+slender
+evidence
+thing
+border |  
+| bip_39_word_new_line12 | guitar
+sugar
+lady
+token
+cluster
+negative
+correct
+slender
+evidence
+thing
+border
+artist |  
+| bip_39_word_new_line2 | guitar
+sugar |  
+| bip_39_word_new_line3 | guitar
+sugar
+lady |  
+| bip_39_word_new_line4 | guitar
+sugar
+lady
+token |  
+| bip_39_word_new_line5 | guitar
+sugar
+lady
+token
+cluster |  
+| bip_39_word_new_line6 | guitar
+sugar
+lady
+token
+cluster
+negative |  
+| bip_39_word_new_line7 | guitar
+sugar
+lady
+token
+cluster
+negative
+correct |  
+| bip_39_word_new_line8 | guitar
+sugar
+lady
+token
+cluster
+negative
+correct
+slender |  
+| bip_39_word_new_line9 | guitar
+sugar
+lady
+token
+cluster
+negative
+correct
+slender
+evidence |  
+| bip_39_word_space_0 | ['guitar', 'sugar', 'lady', 'token', 'cluster', 'negative', 'correct', 'slender', 'evidence', 'thing', 'border', 'artist'] |  
+| bip_39_word_space_1 | guitar |  
+| bip_39_word_space_10 | guitar sugar lady token cluster negative correct slender evidence thing |  
+| bip_39_word_space_11 | guitar sugar lady token cluster negative correct slender evidence thing border |  
+| bip_39_word_space_12 | guitar sugar lady token cluster negative correct slender evidence thing border artist |  
+| bip_39_word_space_2 | guitar sugar |  
+| bip_39_word_space_3 | guitar sugar lady |  
+| bip_39_word_space_4 | guitar sugar lady token |  
+| bip_39_word_space_5 | guitar sugar lady token cluster |  
+| bip_39_word_space_6 | guitar sugar lady token cluster negative |  
+| bip_39_word_space_7 | guitar sugar lady token cluster negative correct |  
+| bip_39_word_space_8 | guitar sugar lady token cluster negative correct slender |  
+| bip_39_word_space_9 | guitar sugar lady token cluster negative correct slender evidence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

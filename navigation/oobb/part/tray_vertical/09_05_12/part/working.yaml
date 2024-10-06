@@ -1,3 +1,186 @@
+bip_39_word_new_br1: green
+bip_39_word_new_br10: green<br>can<br>coach<br>wheel<br>culture<br>push<br>wise<br>book<br>company<br>scatter
+bip_39_word_new_br11: green<br>can<br>coach<br>wheel<br>culture<br>push<br>wise<br>book<br>company<br>scatter<br>crawl
+bip_39_word_new_br12: green<br>can<br>coach<br>wheel<br>culture<br>push<br>wise<br>book<br>company<br>scatter<br>crawl<br>atom
+bip_39_word_new_br2: green<br>can
+bip_39_word_new_br3: green<br>can<br>coach
+bip_39_word_new_br4: green<br>can<br>coach<br>wheel
+bip_39_word_new_br5: green<br>can<br>coach<br>wheel<br>culture
+bip_39_word_new_br6: green<br>can<br>coach<br>wheel<br>culture<br>push
+bip_39_word_new_br7: green<br>can<br>coach<br>wheel<br>culture<br>push<br>wise
+bip_39_word_new_br8: green<br>can<br>coach<br>wheel<br>culture<br>push<br>wise<br>book
+bip_39_word_new_br9: green<br>can<br>coach<br>wheel<br>culture<br>push<br>wise<br>book<br>company
+bip_39_word_new_line1: green
+bip_39_word_new_line10: 'green
+
+  can
+
+  coach
+
+  wheel
+
+  culture
+
+  push
+
+  wise
+
+  book
+
+  company
+
+  scatter'
+bip_39_word_new_line11: 'green
+
+  can
+
+  coach
+
+  wheel
+
+  culture
+
+  push
+
+  wise
+
+  book
+
+  company
+
+  scatter
+
+  crawl'
+bip_39_word_new_line12: 'green
+
+  can
+
+  coach
+
+  wheel
+
+  culture
+
+  push
+
+  wise
+
+  book
+
+  company
+
+  scatter
+
+  crawl
+
+  atom'
+bip_39_word_new_line2: 'green
+
+  can'
+bip_39_word_new_line3: 'green
+
+  can
+
+  coach'
+bip_39_word_new_line4: 'green
+
+  can
+
+  coach
+
+  wheel'
+bip_39_word_new_line5: 'green
+
+  can
+
+  coach
+
+  wheel
+
+  culture'
+bip_39_word_new_line6: 'green
+
+  can
+
+  coach
+
+  wheel
+
+  culture
+
+  push'
+bip_39_word_new_line7: 'green
+
+  can
+
+  coach
+
+  wheel
+
+  culture
+
+  push
+
+  wise'
+bip_39_word_new_line8: 'green
+
+  can
+
+  coach
+
+  wheel
+
+  culture
+
+  push
+
+  wise
+
+  book'
+bip_39_word_new_line9: 'green
+
+  can
+
+  coach
+
+  wheel
+
+  culture
+
+  push
+
+  wise
+
+  book
+
+  company'
+bip_39_word_space_0:
+- green
+- can
+- coach
+- wheel
+- culture
+- push
+- wise
+- book
+- company
+- scatter
+- crawl
+- atom
+bip_39_word_space_1: green
+bip_39_word_space_10: green can coach wheel culture push wise book company scatter
+bip_39_word_space_11: green can coach wheel culture push wise book company scatter
+  crawl
+bip_39_word_space_12: green can coach wheel culture push wise book company scatter
+  crawl atom
+bip_39_word_space_2: green can
+bip_39_word_space_3: green can coach
+bip_39_word_space_4: green can coach wheel
+bip_39_word_space_5: green can coach wheel culture
+bip_39_word_space_6: green can coach wheel culture push
+bip_39_word_space_7: green can coach wheel culture push wise
+bip_39_word_space_8: green can coach wheel culture push wise book
+bip_39_word_space_9: green can coach wheel culture push wise book company
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

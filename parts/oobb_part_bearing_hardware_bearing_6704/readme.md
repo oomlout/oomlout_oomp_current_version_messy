@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: output whisper
+  * bip 39 word 3: output whisper devote
+  * bip 39 word: output whisper devote method lab photo benefit essay enrich amazing finish another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | output |  
+| bip_39_word_new_br10 | output<br>whisper<br>devote<br>method<br>lab<br>photo<br>benefit<br>essay<br>enrich<br>amazing |  
+| bip_39_word_new_br11 | output<br>whisper<br>devote<br>method<br>lab<br>photo<br>benefit<br>essay<br>enrich<br>amazing<br>finish |  
+| bip_39_word_new_br12 | output<br>whisper<br>devote<br>method<br>lab<br>photo<br>benefit<br>essay<br>enrich<br>amazing<br>finish<br>another |  
+| bip_39_word_new_br2 | output<br>whisper |  
+| bip_39_word_new_br3 | output<br>whisper<br>devote |  
+| bip_39_word_new_br4 | output<br>whisper<br>devote<br>method |  
+| bip_39_word_new_br5 | output<br>whisper<br>devote<br>method<br>lab |  
+| bip_39_word_new_br6 | output<br>whisper<br>devote<br>method<br>lab<br>photo |  
+| bip_39_word_new_br7 | output<br>whisper<br>devote<br>method<br>lab<br>photo<br>benefit |  
+| bip_39_word_new_br8 | output<br>whisper<br>devote<br>method<br>lab<br>photo<br>benefit<br>essay |  
+| bip_39_word_new_br9 | output<br>whisper<br>devote<br>method<br>lab<br>photo<br>benefit<br>essay<br>enrich |  
+| bip_39_word_new_line1 | output |  
+| bip_39_word_new_line10 | output
+whisper
+devote
+method
+lab
+photo
+benefit
+essay
+enrich
+amazing |  
+| bip_39_word_new_line11 | output
+whisper
+devote
+method
+lab
+photo
+benefit
+essay
+enrich
+amazing
+finish |  
+| bip_39_word_new_line12 | output
+whisper
+devote
+method
+lab
+photo
+benefit
+essay
+enrich
+amazing
+finish
+another |  
+| bip_39_word_new_line2 | output
+whisper |  
+| bip_39_word_new_line3 | output
+whisper
+devote |  
+| bip_39_word_new_line4 | output
+whisper
+devote
+method |  
+| bip_39_word_new_line5 | output
+whisper
+devote
+method
+lab |  
+| bip_39_word_new_line6 | output
+whisper
+devote
+method
+lab
+photo |  
+| bip_39_word_new_line7 | output
+whisper
+devote
+method
+lab
+photo
+benefit |  
+| bip_39_word_new_line8 | output
+whisper
+devote
+method
+lab
+photo
+benefit
+essay |  
+| bip_39_word_new_line9 | output
+whisper
+devote
+method
+lab
+photo
+benefit
+essay
+enrich |  
+| bip_39_word_space_0 | ['output', 'whisper', 'devote', 'method', 'lab', 'photo', 'benefit', 'essay', 'enrich', 'amazing', 'finish', 'another'] |  
+| bip_39_word_space_1 | output |  
+| bip_39_word_space_10 | output whisper devote method lab photo benefit essay enrich amazing |  
+| bip_39_word_space_11 | output whisper devote method lab photo benefit essay enrich amazing finish |  
+| bip_39_word_space_12 | output whisper devote method lab photo benefit essay enrich amazing finish another |  
+| bip_39_word_space_2 | output whisper |  
+| bip_39_word_space_3 | output whisper devote |  
+| bip_39_word_space_4 | output whisper devote method |  
+| bip_39_word_space_5 | output whisper devote method lab |  
+| bip_39_word_space_6 | output whisper devote method lab photo |  
+| bip_39_word_space_7 | output whisper devote method lab photo benefit |  
+| bip_39_word_space_8 | output whisper devote method lab photo benefit essay |  
+| bip_39_word_space_9 | output whisper devote method lab photo benefit essay enrich |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

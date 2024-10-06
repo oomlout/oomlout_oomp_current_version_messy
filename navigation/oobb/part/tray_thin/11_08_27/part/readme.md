@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crouch clean
+  * bip 39 word 3: crouch clean shallow
+  * bip 39 word: crouch clean shallow piece olympic empower another tower price salmon safe amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crouch |  
+| bip_39_word_new_br10 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon |  
+| bip_39_word_new_br11 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon<br>safe |  
+| bip_39_word_new_br12 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price<br>salmon<br>safe<br>amused |  
+| bip_39_word_new_br2 | crouch<br>clean |  
+| bip_39_word_new_br3 | crouch<br>clean<br>shallow |  
+| bip_39_word_new_br4 | crouch<br>clean<br>shallow<br>piece |  
+| bip_39_word_new_br5 | crouch<br>clean<br>shallow<br>piece<br>olympic |  
+| bip_39_word_new_br6 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower |  
+| bip_39_word_new_br7 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another |  
+| bip_39_word_new_br8 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower |  
+| bip_39_word_new_br9 | crouch<br>clean<br>shallow<br>piece<br>olympic<br>empower<br>another<br>tower<br>price |  
+| bip_39_word_new_line1 | crouch |  
+| bip_39_word_new_line10 | crouch
+clean
+shallow
+piece
+olympic
+empower
+another
+tower
+price
+salmon |  
+| bip_39_word_new_line11 | crouch
+clean
+shallow
+piece
+olympic
+empower
+another
+tower
+price
+salmon
+safe |  
+| bip_39_word_new_line12 | crouch
+clean
+shallow
+piece
+olympic
+empower
+another
+tower
+price
+salmon
+safe
+amused |  
+| bip_39_word_new_line2 | crouch
+clean |  
+| bip_39_word_new_line3 | crouch
+clean
+shallow |  
+| bip_39_word_new_line4 | crouch
+clean
+shallow
+piece |  
+| bip_39_word_new_line5 | crouch
+clean
+shallow
+piece
+olympic |  
+| bip_39_word_new_line6 | crouch
+clean
+shallow
+piece
+olympic
+empower |  
+| bip_39_word_new_line7 | crouch
+clean
+shallow
+piece
+olympic
+empower
+another |  
+| bip_39_word_new_line8 | crouch
+clean
+shallow
+piece
+olympic
+empower
+another
+tower |  
+| bip_39_word_new_line9 | crouch
+clean
+shallow
+piece
+olympic
+empower
+another
+tower
+price |  
+| bip_39_word_space_0 | ['crouch', 'clean', 'shallow', 'piece', 'olympic', 'empower', 'another', 'tower', 'price', 'salmon', 'safe', 'amused'] |  
+| bip_39_word_space_1 | crouch |  
+| bip_39_word_space_10 | crouch clean shallow piece olympic empower another tower price salmon |  
+| bip_39_word_space_11 | crouch clean shallow piece olympic empower another tower price salmon safe |  
+| bip_39_word_space_12 | crouch clean shallow piece olympic empower another tower price salmon safe amused |  
+| bip_39_word_space_2 | crouch clean |  
+| bip_39_word_space_3 | crouch clean shallow |  
+| bip_39_word_space_4 | crouch clean shallow piece |  
+| bip_39_word_space_5 | crouch clean shallow piece olympic |  
+| bip_39_word_space_6 | crouch clean shallow piece olympic empower |  
+| bip_39_word_space_7 | crouch clean shallow piece olympic empower another |  
+| bip_39_word_space_8 | crouch clean shallow piece olympic empower another tower |  
+| bip_39_word_space_9 | crouch clean shallow piece olympic empower another tower price |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

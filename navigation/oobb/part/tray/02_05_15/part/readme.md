@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: birth country
+  * bip 39 word 3: birth country expire
+  * bip 39 word: birth country expire few science trick gloom dry web ugly festival ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | birth |  
+| bip_39_word_new_br10 | birth<br>country<br>expire<br>few<br>science<br>trick<br>gloom<br>dry<br>web<br>ugly |  
+| bip_39_word_new_br11 | birth<br>country<br>expire<br>few<br>science<br>trick<br>gloom<br>dry<br>web<br>ugly<br>festival |  
+| bip_39_word_new_br12 | birth<br>country<br>expire<br>few<br>science<br>trick<br>gloom<br>dry<br>web<br>ugly<br>festival<br>ability |  
+| bip_39_word_new_br2 | birth<br>country |  
+| bip_39_word_new_br3 | birth<br>country<br>expire |  
+| bip_39_word_new_br4 | birth<br>country<br>expire<br>few |  
+| bip_39_word_new_br5 | birth<br>country<br>expire<br>few<br>science |  
+| bip_39_word_new_br6 | birth<br>country<br>expire<br>few<br>science<br>trick |  
+| bip_39_word_new_br7 | birth<br>country<br>expire<br>few<br>science<br>trick<br>gloom |  
+| bip_39_word_new_br8 | birth<br>country<br>expire<br>few<br>science<br>trick<br>gloom<br>dry |  
+| bip_39_word_new_br9 | birth<br>country<br>expire<br>few<br>science<br>trick<br>gloom<br>dry<br>web |  
+| bip_39_word_new_line1 | birth |  
+| bip_39_word_new_line10 | birth
+country
+expire
+few
+science
+trick
+gloom
+dry
+web
+ugly |  
+| bip_39_word_new_line11 | birth
+country
+expire
+few
+science
+trick
+gloom
+dry
+web
+ugly
+festival |  
+| bip_39_word_new_line12 | birth
+country
+expire
+few
+science
+trick
+gloom
+dry
+web
+ugly
+festival
+ability |  
+| bip_39_word_new_line2 | birth
+country |  
+| bip_39_word_new_line3 | birth
+country
+expire |  
+| bip_39_word_new_line4 | birth
+country
+expire
+few |  
+| bip_39_word_new_line5 | birth
+country
+expire
+few
+science |  
+| bip_39_word_new_line6 | birth
+country
+expire
+few
+science
+trick |  
+| bip_39_word_new_line7 | birth
+country
+expire
+few
+science
+trick
+gloom |  
+| bip_39_word_new_line8 | birth
+country
+expire
+few
+science
+trick
+gloom
+dry |  
+| bip_39_word_new_line9 | birth
+country
+expire
+few
+science
+trick
+gloom
+dry
+web |  
+| bip_39_word_space_0 | ['birth', 'country', 'expire', 'few', 'science', 'trick', 'gloom', 'dry', 'web', 'ugly', 'festival', 'ability'] |  
+| bip_39_word_space_1 | birth |  
+| bip_39_word_space_10 | birth country expire few science trick gloom dry web ugly |  
+| bip_39_word_space_11 | birth country expire few science trick gloom dry web ugly festival |  
+| bip_39_word_space_12 | birth country expire few science trick gloom dry web ugly festival ability |  
+| bip_39_word_space_2 | birth country |  
+| bip_39_word_space_3 | birth country expire |  
+| bip_39_word_space_4 | birth country expire few |  
+| bip_39_word_space_5 | birth country expire few science |  
+| bip_39_word_space_6 | birth country expire few science trick |  
+| bip_39_word_space_7 | birth country expire few science trick gloom |  
+| bip_39_word_space_8 | birth country expire few science trick gloom dry |  
+| bip_39_word_space_9 | birth country expire few science trick gloom dry web |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

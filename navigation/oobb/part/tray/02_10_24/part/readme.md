@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: night motor
+  * bip 39 word 3: night motor fuel
+  * bip 39 word: night motor fuel parade kid ramp elder picnic slide hill rare accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | night |  
+| bip_39_word_new_br10 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide<br>hill |  
+| bip_39_word_new_br11 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide<br>hill<br>rare |  
+| bip_39_word_new_br12 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide<br>hill<br>rare<br>accident |  
+| bip_39_word_new_br2 | night<br>motor |  
+| bip_39_word_new_br3 | night<br>motor<br>fuel |  
+| bip_39_word_new_br4 | night<br>motor<br>fuel<br>parade |  
+| bip_39_word_new_br5 | night<br>motor<br>fuel<br>parade<br>kid |  
+| bip_39_word_new_br6 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp |  
+| bip_39_word_new_br7 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder |  
+| bip_39_word_new_br8 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic |  
+| bip_39_word_new_br9 | night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide |  
+| bip_39_word_new_line1 | night |  
+| bip_39_word_new_line10 | night
+motor
+fuel
+parade
+kid
+ramp
+elder
+picnic
+slide
+hill |  
+| bip_39_word_new_line11 | night
+motor
+fuel
+parade
+kid
+ramp
+elder
+picnic
+slide
+hill
+rare |  
+| bip_39_word_new_line12 | night
+motor
+fuel
+parade
+kid
+ramp
+elder
+picnic
+slide
+hill
+rare
+accident |  
+| bip_39_word_new_line2 | night
+motor |  
+| bip_39_word_new_line3 | night
+motor
+fuel |  
+| bip_39_word_new_line4 | night
+motor
+fuel
+parade |  
+| bip_39_word_new_line5 | night
+motor
+fuel
+parade
+kid |  
+| bip_39_word_new_line6 | night
+motor
+fuel
+parade
+kid
+ramp |  
+| bip_39_word_new_line7 | night
+motor
+fuel
+parade
+kid
+ramp
+elder |  
+| bip_39_word_new_line8 | night
+motor
+fuel
+parade
+kid
+ramp
+elder
+picnic |  
+| bip_39_word_new_line9 | night
+motor
+fuel
+parade
+kid
+ramp
+elder
+picnic
+slide |  
+| bip_39_word_space_0 | ['night', 'motor', 'fuel', 'parade', 'kid', 'ramp', 'elder', 'picnic', 'slide', 'hill', 'rare', 'accident'] |  
+| bip_39_word_space_1 | night |  
+| bip_39_word_space_10 | night motor fuel parade kid ramp elder picnic slide hill |  
+| bip_39_word_space_11 | night motor fuel parade kid ramp elder picnic slide hill rare |  
+| bip_39_word_space_12 | night motor fuel parade kid ramp elder picnic slide hill rare accident |  
+| bip_39_word_space_2 | night motor |  
+| bip_39_word_space_3 | night motor fuel |  
+| bip_39_word_space_4 | night motor fuel parade |  
+| bip_39_word_space_5 | night motor fuel parade kid |  
+| bip_39_word_space_6 | night motor fuel parade kid ramp |  
+| bip_39_word_space_7 | night motor fuel parade kid ramp elder |  
+| bip_39_word_space_8 | night motor fuel parade kid ramp elder picnic |  
+| bip_39_word_space_9 | night motor fuel parade kid ramp elder picnic slide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grain digital
+  * bip 39 word 3: grain digital disorder
+  * bip 39 word: grain digital disorder expand hamster make hand dream sibling oxygen rubber arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grain |  
+| bip_39_word_new_br10 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make<br>hand<br>dream<br>sibling<br>oxygen |  
+| bip_39_word_new_br11 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make<br>hand<br>dream<br>sibling<br>oxygen<br>rubber |  
+| bip_39_word_new_br12 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make<br>hand<br>dream<br>sibling<br>oxygen<br>rubber<br>arch |  
+| bip_39_word_new_br2 | grain<br>digital |  
+| bip_39_word_new_br3 | grain<br>digital<br>disorder |  
+| bip_39_word_new_br4 | grain<br>digital<br>disorder<br>expand |  
+| bip_39_word_new_br5 | grain<br>digital<br>disorder<br>expand<br>hamster |  
+| bip_39_word_new_br6 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make |  
+| bip_39_word_new_br7 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make<br>hand |  
+| bip_39_word_new_br8 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make<br>hand<br>dream |  
+| bip_39_word_new_br9 | grain<br>digital<br>disorder<br>expand<br>hamster<br>make<br>hand<br>dream<br>sibling |  
+| bip_39_word_new_line1 | grain |  
+| bip_39_word_new_line10 | grain
+digital
+disorder
+expand
+hamster
+make
+hand
+dream
+sibling
+oxygen |  
+| bip_39_word_new_line11 | grain
+digital
+disorder
+expand
+hamster
+make
+hand
+dream
+sibling
+oxygen
+rubber |  
+| bip_39_word_new_line12 | grain
+digital
+disorder
+expand
+hamster
+make
+hand
+dream
+sibling
+oxygen
+rubber
+arch |  
+| bip_39_word_new_line2 | grain
+digital |  
+| bip_39_word_new_line3 | grain
+digital
+disorder |  
+| bip_39_word_new_line4 | grain
+digital
+disorder
+expand |  
+| bip_39_word_new_line5 | grain
+digital
+disorder
+expand
+hamster |  
+| bip_39_word_new_line6 | grain
+digital
+disorder
+expand
+hamster
+make |  
+| bip_39_word_new_line7 | grain
+digital
+disorder
+expand
+hamster
+make
+hand |  
+| bip_39_word_new_line8 | grain
+digital
+disorder
+expand
+hamster
+make
+hand
+dream |  
+| bip_39_word_new_line9 | grain
+digital
+disorder
+expand
+hamster
+make
+hand
+dream
+sibling |  
+| bip_39_word_space_0 | ['grain', 'digital', 'disorder', 'expand', 'hamster', 'make', 'hand', 'dream', 'sibling', 'oxygen', 'rubber', 'arch'] |  
+| bip_39_word_space_1 | grain |  
+| bip_39_word_space_10 | grain digital disorder expand hamster make hand dream sibling oxygen |  
+| bip_39_word_space_11 | grain digital disorder expand hamster make hand dream sibling oxygen rubber |  
+| bip_39_word_space_12 | grain digital disorder expand hamster make hand dream sibling oxygen rubber arch |  
+| bip_39_word_space_2 | grain digital |  
+| bip_39_word_space_3 | grain digital disorder |  
+| bip_39_word_space_4 | grain digital disorder expand |  
+| bip_39_word_space_5 | grain digital disorder expand hamster |  
+| bip_39_word_space_6 | grain digital disorder expand hamster make |  
+| bip_39_word_space_7 | grain digital disorder expand hamster make hand |  
+| bip_39_word_space_8 | grain digital disorder expand hamster make hand dream |  
+| bip_39_word_space_9 | grain digital disorder expand hamster make hand dream sibling |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

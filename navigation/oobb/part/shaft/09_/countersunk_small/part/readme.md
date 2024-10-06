@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk_small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: effort claim
+  * bip 39 word 3: effort claim salon
+  * bip 39 word: effort claim salon biology region ramp cupboard borrow paddle pact make autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | effort |  
+| bip_39_word_new_br10 | effort<br>claim<br>salon<br>biology<br>region<br>ramp<br>cupboard<br>borrow<br>paddle<br>pact |  
+| bip_39_word_new_br11 | effort<br>claim<br>salon<br>biology<br>region<br>ramp<br>cupboard<br>borrow<br>paddle<br>pact<br>make |  
+| bip_39_word_new_br12 | effort<br>claim<br>salon<br>biology<br>region<br>ramp<br>cupboard<br>borrow<br>paddle<br>pact<br>make<br>autumn |  
+| bip_39_word_new_br2 | effort<br>claim |  
+| bip_39_word_new_br3 | effort<br>claim<br>salon |  
+| bip_39_word_new_br4 | effort<br>claim<br>salon<br>biology |  
+| bip_39_word_new_br5 | effort<br>claim<br>salon<br>biology<br>region |  
+| bip_39_word_new_br6 | effort<br>claim<br>salon<br>biology<br>region<br>ramp |  
+| bip_39_word_new_br7 | effort<br>claim<br>salon<br>biology<br>region<br>ramp<br>cupboard |  
+| bip_39_word_new_br8 | effort<br>claim<br>salon<br>biology<br>region<br>ramp<br>cupboard<br>borrow |  
+| bip_39_word_new_br9 | effort<br>claim<br>salon<br>biology<br>region<br>ramp<br>cupboard<br>borrow<br>paddle |  
+| bip_39_word_new_line1 | effort |  
+| bip_39_word_new_line10 | effort
+claim
+salon
+biology
+region
+ramp
+cupboard
+borrow
+paddle
+pact |  
+| bip_39_word_new_line11 | effort
+claim
+salon
+biology
+region
+ramp
+cupboard
+borrow
+paddle
+pact
+make |  
+| bip_39_word_new_line12 | effort
+claim
+salon
+biology
+region
+ramp
+cupboard
+borrow
+paddle
+pact
+make
+autumn |  
+| bip_39_word_new_line2 | effort
+claim |  
+| bip_39_word_new_line3 | effort
+claim
+salon |  
+| bip_39_word_new_line4 | effort
+claim
+salon
+biology |  
+| bip_39_word_new_line5 | effort
+claim
+salon
+biology
+region |  
+| bip_39_word_new_line6 | effort
+claim
+salon
+biology
+region
+ramp |  
+| bip_39_word_new_line7 | effort
+claim
+salon
+biology
+region
+ramp
+cupboard |  
+| bip_39_word_new_line8 | effort
+claim
+salon
+biology
+region
+ramp
+cupboard
+borrow |  
+| bip_39_word_new_line9 | effort
+claim
+salon
+biology
+region
+ramp
+cupboard
+borrow
+paddle |  
+| bip_39_word_space_0 | ['effort', 'claim', 'salon', 'biology', 'region', 'ramp', 'cupboard', 'borrow', 'paddle', 'pact', 'make', 'autumn'] |  
+| bip_39_word_space_1 | effort |  
+| bip_39_word_space_10 | effort claim salon biology region ramp cupboard borrow paddle pact |  
+| bip_39_word_space_11 | effort claim salon biology region ramp cupboard borrow paddle pact make |  
+| bip_39_word_space_12 | effort claim salon biology region ramp cupboard borrow paddle pact make autumn |  
+| bip_39_word_space_2 | effort claim |  
+| bip_39_word_space_3 | effort claim salon |  
+| bip_39_word_space_4 | effort claim salon biology |  
+| bip_39_word_space_5 | effort claim salon biology region |  
+| bip_39_word_space_6 | effort claim salon biology region ramp |  
+| bip_39_word_space_7 | effort claim salon biology region ramp cupboard |  
+| bip_39_word_space_8 | effort claim salon biology region ramp cupboard borrow |  
+| bip_39_word_space_9 | effort claim salon biology region ramp cupboard borrow paddle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

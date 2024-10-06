@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: poet parent
+  * bip 39 word 3: poet parent clerk
+  * bip 39 word: poet parent clerk promote response sense pass decide cousin owner wagon absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | poet |  
+| bip_39_word_new_br10 | poet<br>parent<br>clerk<br>promote<br>response<br>sense<br>pass<br>decide<br>cousin<br>owner |  
+| bip_39_word_new_br11 | poet<br>parent<br>clerk<br>promote<br>response<br>sense<br>pass<br>decide<br>cousin<br>owner<br>wagon |  
+| bip_39_word_new_br12 | poet<br>parent<br>clerk<br>promote<br>response<br>sense<br>pass<br>decide<br>cousin<br>owner<br>wagon<br>absurd |  
+| bip_39_word_new_br2 | poet<br>parent |  
+| bip_39_word_new_br3 | poet<br>parent<br>clerk |  
+| bip_39_word_new_br4 | poet<br>parent<br>clerk<br>promote |  
+| bip_39_word_new_br5 | poet<br>parent<br>clerk<br>promote<br>response |  
+| bip_39_word_new_br6 | poet<br>parent<br>clerk<br>promote<br>response<br>sense |  
+| bip_39_word_new_br7 | poet<br>parent<br>clerk<br>promote<br>response<br>sense<br>pass |  
+| bip_39_word_new_br8 | poet<br>parent<br>clerk<br>promote<br>response<br>sense<br>pass<br>decide |  
+| bip_39_word_new_br9 | poet<br>parent<br>clerk<br>promote<br>response<br>sense<br>pass<br>decide<br>cousin |  
+| bip_39_word_new_line1 | poet |  
+| bip_39_word_new_line10 | poet
+parent
+clerk
+promote
+response
+sense
+pass
+decide
+cousin
+owner |  
+| bip_39_word_new_line11 | poet
+parent
+clerk
+promote
+response
+sense
+pass
+decide
+cousin
+owner
+wagon |  
+| bip_39_word_new_line12 | poet
+parent
+clerk
+promote
+response
+sense
+pass
+decide
+cousin
+owner
+wagon
+absurd |  
+| bip_39_word_new_line2 | poet
+parent |  
+| bip_39_word_new_line3 | poet
+parent
+clerk |  
+| bip_39_word_new_line4 | poet
+parent
+clerk
+promote |  
+| bip_39_word_new_line5 | poet
+parent
+clerk
+promote
+response |  
+| bip_39_word_new_line6 | poet
+parent
+clerk
+promote
+response
+sense |  
+| bip_39_word_new_line7 | poet
+parent
+clerk
+promote
+response
+sense
+pass |  
+| bip_39_word_new_line8 | poet
+parent
+clerk
+promote
+response
+sense
+pass
+decide |  
+| bip_39_word_new_line9 | poet
+parent
+clerk
+promote
+response
+sense
+pass
+decide
+cousin |  
+| bip_39_word_space_0 | ['poet', 'parent', 'clerk', 'promote', 'response', 'sense', 'pass', 'decide', 'cousin', 'owner', 'wagon', 'absurd'] |  
+| bip_39_word_space_1 | poet |  
+| bip_39_word_space_10 | poet parent clerk promote response sense pass decide cousin owner |  
+| bip_39_word_space_11 | poet parent clerk promote response sense pass decide cousin owner wagon |  
+| bip_39_word_space_12 | poet parent clerk promote response sense pass decide cousin owner wagon absurd |  
+| bip_39_word_space_2 | poet parent |  
+| bip_39_word_space_3 | poet parent clerk |  
+| bip_39_word_space_4 | poet parent clerk promote |  
+| bip_39_word_space_5 | poet parent clerk promote response |  
+| bip_39_word_space_6 | poet parent clerk promote response sense |  
+| bip_39_word_space_7 | poet parent clerk promote response sense pass |  
+| bip_39_word_space_8 | poet parent clerk promote response sense pass decide |  
+| bip_39_word_space_9 | poet parent clerk promote response sense pass decide cousin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

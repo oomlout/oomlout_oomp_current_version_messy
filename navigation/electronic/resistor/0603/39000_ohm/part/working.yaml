@@ -1,3 +1,186 @@
+bip_39_word_new_br1: topple
+bip_39_word_new_br10: topple<br>shop<br>unknown<br>spare<br>hire<br>appear<br>limb<br>credit<br>clerk<br>upset
+bip_39_word_new_br11: topple<br>shop<br>unknown<br>spare<br>hire<br>appear<br>limb<br>credit<br>clerk<br>upset<br>album
+bip_39_word_new_br12: topple<br>shop<br>unknown<br>spare<br>hire<br>appear<br>limb<br>credit<br>clerk<br>upset<br>album<br>arrest
+bip_39_word_new_br2: topple<br>shop
+bip_39_word_new_br3: topple<br>shop<br>unknown
+bip_39_word_new_br4: topple<br>shop<br>unknown<br>spare
+bip_39_word_new_br5: topple<br>shop<br>unknown<br>spare<br>hire
+bip_39_word_new_br6: topple<br>shop<br>unknown<br>spare<br>hire<br>appear
+bip_39_word_new_br7: topple<br>shop<br>unknown<br>spare<br>hire<br>appear<br>limb
+bip_39_word_new_br8: topple<br>shop<br>unknown<br>spare<br>hire<br>appear<br>limb<br>credit
+bip_39_word_new_br9: topple<br>shop<br>unknown<br>spare<br>hire<br>appear<br>limb<br>credit<br>clerk
+bip_39_word_new_line1: topple
+bip_39_word_new_line10: 'topple
+
+  shop
+
+  unknown
+
+  spare
+
+  hire
+
+  appear
+
+  limb
+
+  credit
+
+  clerk
+
+  upset'
+bip_39_word_new_line11: 'topple
+
+  shop
+
+  unknown
+
+  spare
+
+  hire
+
+  appear
+
+  limb
+
+  credit
+
+  clerk
+
+  upset
+
+  album'
+bip_39_word_new_line12: 'topple
+
+  shop
+
+  unknown
+
+  spare
+
+  hire
+
+  appear
+
+  limb
+
+  credit
+
+  clerk
+
+  upset
+
+  album
+
+  arrest'
+bip_39_word_new_line2: 'topple
+
+  shop'
+bip_39_word_new_line3: 'topple
+
+  shop
+
+  unknown'
+bip_39_word_new_line4: 'topple
+
+  shop
+
+  unknown
+
+  spare'
+bip_39_word_new_line5: 'topple
+
+  shop
+
+  unknown
+
+  spare
+
+  hire'
+bip_39_word_new_line6: 'topple
+
+  shop
+
+  unknown
+
+  spare
+
+  hire
+
+  appear'
+bip_39_word_new_line7: 'topple
+
+  shop
+
+  unknown
+
+  spare
+
+  hire
+
+  appear
+
+  limb'
+bip_39_word_new_line8: 'topple
+
+  shop
+
+  unknown
+
+  spare
+
+  hire
+
+  appear
+
+  limb
+
+  credit'
+bip_39_word_new_line9: 'topple
+
+  shop
+
+  unknown
+
+  spare
+
+  hire
+
+  appear
+
+  limb
+
+  credit
+
+  clerk'
+bip_39_word_space_0:
+- topple
+- shop
+- unknown
+- spare
+- hire
+- appear
+- limb
+- credit
+- clerk
+- upset
+- album
+- arrest
+bip_39_word_space_1: topple
+bip_39_word_space_10: topple shop unknown spare hire appear limb credit clerk upset
+bip_39_word_space_11: topple shop unknown spare hire appear limb credit clerk upset
+  album
+bip_39_word_space_12: topple shop unknown spare hire appear limb credit clerk upset
+  album arrest
+bip_39_word_space_2: topple shop
+bip_39_word_space_3: topple shop unknown
+bip_39_word_space_4: topple shop unknown spare
+bip_39_word_space_5: topple shop unknown spare hire
+bip_39_word_space_6: topple shop unknown spare hire appear
+bip_39_word_space_7: topple shop unknown spare hire appear limb
+bip_39_word_space_8: topple shop unknown spare hire appear limb credit
+bip_39_word_space_9: topple shop unknown spare hire appear limb credit clerk
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

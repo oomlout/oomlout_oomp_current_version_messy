@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mobile
+bip_39_word_new_br10: mobile<br>security<br>void<br>record<br>harsh<br>brother<br>sweet<br>opinion<br>sugar<br>few
+bip_39_word_new_br11: mobile<br>security<br>void<br>record<br>harsh<br>brother<br>sweet<br>opinion<br>sugar<br>few<br>solar
+bip_39_word_new_br12: mobile<br>security<br>void<br>record<br>harsh<br>brother<br>sweet<br>opinion<br>sugar<br>few<br>solar<br>add
+bip_39_word_new_br2: mobile<br>security
+bip_39_word_new_br3: mobile<br>security<br>void
+bip_39_word_new_br4: mobile<br>security<br>void<br>record
+bip_39_word_new_br5: mobile<br>security<br>void<br>record<br>harsh
+bip_39_word_new_br6: mobile<br>security<br>void<br>record<br>harsh<br>brother
+bip_39_word_new_br7: mobile<br>security<br>void<br>record<br>harsh<br>brother<br>sweet
+bip_39_word_new_br8: mobile<br>security<br>void<br>record<br>harsh<br>brother<br>sweet<br>opinion
+bip_39_word_new_br9: mobile<br>security<br>void<br>record<br>harsh<br>brother<br>sweet<br>opinion<br>sugar
+bip_39_word_new_line1: mobile
+bip_39_word_new_line10: 'mobile
+
+  security
+
+  void
+
+  record
+
+  harsh
+
+  brother
+
+  sweet
+
+  opinion
+
+  sugar
+
+  few'
+bip_39_word_new_line11: 'mobile
+
+  security
+
+  void
+
+  record
+
+  harsh
+
+  brother
+
+  sweet
+
+  opinion
+
+  sugar
+
+  few
+
+  solar'
+bip_39_word_new_line12: 'mobile
+
+  security
+
+  void
+
+  record
+
+  harsh
+
+  brother
+
+  sweet
+
+  opinion
+
+  sugar
+
+  few
+
+  solar
+
+  add'
+bip_39_word_new_line2: 'mobile
+
+  security'
+bip_39_word_new_line3: 'mobile
+
+  security
+
+  void'
+bip_39_word_new_line4: 'mobile
+
+  security
+
+  void
+
+  record'
+bip_39_word_new_line5: 'mobile
+
+  security
+
+  void
+
+  record
+
+  harsh'
+bip_39_word_new_line6: 'mobile
+
+  security
+
+  void
+
+  record
+
+  harsh
+
+  brother'
+bip_39_word_new_line7: 'mobile
+
+  security
+
+  void
+
+  record
+
+  harsh
+
+  brother
+
+  sweet'
+bip_39_word_new_line8: 'mobile
+
+  security
+
+  void
+
+  record
+
+  harsh
+
+  brother
+
+  sweet
+
+  opinion'
+bip_39_word_new_line9: 'mobile
+
+  security
+
+  void
+
+  record
+
+  harsh
+
+  brother
+
+  sweet
+
+  opinion
+
+  sugar'
+bip_39_word_space_0:
+- mobile
+- security
+- void
+- record
+- harsh
+- brother
+- sweet
+- opinion
+- sugar
+- few
+- solar
+- add
+bip_39_word_space_1: mobile
+bip_39_word_space_10: mobile security void record harsh brother sweet opinion sugar
+  few
+bip_39_word_space_11: mobile security void record harsh brother sweet opinion sugar
+  few solar
+bip_39_word_space_12: mobile security void record harsh brother sweet opinion sugar
+  few solar add
+bip_39_word_space_2: mobile security
+bip_39_word_space_3: mobile security void
+bip_39_word_space_4: mobile security void record
+bip_39_word_space_5: mobile security void record harsh
+bip_39_word_space_6: mobile security void record harsh brother
+bip_39_word_space_7: mobile security void record harsh brother sweet
+bip_39_word_space_8: mobile security void record harsh brother sweet opinion
+bip_39_word_space_9: mobile security void record harsh brother sweet opinion sugar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

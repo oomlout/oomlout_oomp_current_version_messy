@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tube involve
+  * bip 39 word 3: tube involve arctic
+  * bip 39 word: tube involve arctic give blanket garment unusual tip arrest scrub tornado anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tube |  
+| bip_39_word_new_br10 | tube<br>involve<br>arctic<br>give<br>blanket<br>garment<br>unusual<br>tip<br>arrest<br>scrub |  
+| bip_39_word_new_br11 | tube<br>involve<br>arctic<br>give<br>blanket<br>garment<br>unusual<br>tip<br>arrest<br>scrub<br>tornado |  
+| bip_39_word_new_br12 | tube<br>involve<br>arctic<br>give<br>blanket<br>garment<br>unusual<br>tip<br>arrest<br>scrub<br>tornado<br>anxiety |  
+| bip_39_word_new_br2 | tube<br>involve |  
+| bip_39_word_new_br3 | tube<br>involve<br>arctic |  
+| bip_39_word_new_br4 | tube<br>involve<br>arctic<br>give |  
+| bip_39_word_new_br5 | tube<br>involve<br>arctic<br>give<br>blanket |  
+| bip_39_word_new_br6 | tube<br>involve<br>arctic<br>give<br>blanket<br>garment |  
+| bip_39_word_new_br7 | tube<br>involve<br>arctic<br>give<br>blanket<br>garment<br>unusual |  
+| bip_39_word_new_br8 | tube<br>involve<br>arctic<br>give<br>blanket<br>garment<br>unusual<br>tip |  
+| bip_39_word_new_br9 | tube<br>involve<br>arctic<br>give<br>blanket<br>garment<br>unusual<br>tip<br>arrest |  
+| bip_39_word_new_line1 | tube |  
+| bip_39_word_new_line10 | tube
+involve
+arctic
+give
+blanket
+garment
+unusual
+tip
+arrest
+scrub |  
+| bip_39_word_new_line11 | tube
+involve
+arctic
+give
+blanket
+garment
+unusual
+tip
+arrest
+scrub
+tornado |  
+| bip_39_word_new_line12 | tube
+involve
+arctic
+give
+blanket
+garment
+unusual
+tip
+arrest
+scrub
+tornado
+anxiety |  
+| bip_39_word_new_line2 | tube
+involve |  
+| bip_39_word_new_line3 | tube
+involve
+arctic |  
+| bip_39_word_new_line4 | tube
+involve
+arctic
+give |  
+| bip_39_word_new_line5 | tube
+involve
+arctic
+give
+blanket |  
+| bip_39_word_new_line6 | tube
+involve
+arctic
+give
+blanket
+garment |  
+| bip_39_word_new_line7 | tube
+involve
+arctic
+give
+blanket
+garment
+unusual |  
+| bip_39_word_new_line8 | tube
+involve
+arctic
+give
+blanket
+garment
+unusual
+tip |  
+| bip_39_word_new_line9 | tube
+involve
+arctic
+give
+blanket
+garment
+unusual
+tip
+arrest |  
+| bip_39_word_space_0 | ['tube', 'involve', 'arctic', 'give', 'blanket', 'garment', 'unusual', 'tip', 'arrest', 'scrub', 'tornado', 'anxiety'] |  
+| bip_39_word_space_1 | tube |  
+| bip_39_word_space_10 | tube involve arctic give blanket garment unusual tip arrest scrub |  
+| bip_39_word_space_11 | tube involve arctic give blanket garment unusual tip arrest scrub tornado |  
+| bip_39_word_space_12 | tube involve arctic give blanket garment unusual tip arrest scrub tornado anxiety |  
+| bip_39_word_space_2 | tube involve |  
+| bip_39_word_space_3 | tube involve arctic |  
+| bip_39_word_space_4 | tube involve arctic give |  
+| bip_39_word_space_5 | tube involve arctic give blanket |  
+| bip_39_word_space_6 | tube involve arctic give blanket garment |  
+| bip_39_word_space_7 | tube involve arctic give blanket garment unusual |  
+| bip_39_word_space_8 | tube involve arctic give blanket garment unusual tip |  
+| bip_39_word_space_9 | tube involve arctic give blanket garment unusual tip arrest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

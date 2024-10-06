@@ -1,3 +1,185 @@
+bip_39_word_new_br1: ignore
+bip_39_word_new_br10: ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing
+bip_39_word_new_br11: ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing<br>skull
+bip_39_word_new_br12: ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run<br>swing<br>skull<br>addict
+bip_39_word_new_br2: ignore<br>truly
+bip_39_word_new_br3: ignore<br>truly<br>wide
+bip_39_word_new_br4: ignore<br>truly<br>wide<br>panda
+bip_39_word_new_br5: ignore<br>truly<br>wide<br>panda<br>obvious
+bip_39_word_new_br6: ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe
+bip_39_word_new_br7: ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime
+bip_39_word_new_br8: ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade
+bip_39_word_new_br9: ignore<br>truly<br>wide<br>panda<br>obvious<br>pipe<br>crime<br>trade<br>run
+bip_39_word_new_line1: ignore
+bip_39_word_new_line10: 'ignore
+
+  truly
+
+  wide
+
+  panda
+
+  obvious
+
+  pipe
+
+  crime
+
+  trade
+
+  run
+
+  swing'
+bip_39_word_new_line11: 'ignore
+
+  truly
+
+  wide
+
+  panda
+
+  obvious
+
+  pipe
+
+  crime
+
+  trade
+
+  run
+
+  swing
+
+  skull'
+bip_39_word_new_line12: 'ignore
+
+  truly
+
+  wide
+
+  panda
+
+  obvious
+
+  pipe
+
+  crime
+
+  trade
+
+  run
+
+  swing
+
+  skull
+
+  addict'
+bip_39_word_new_line2: 'ignore
+
+  truly'
+bip_39_word_new_line3: 'ignore
+
+  truly
+
+  wide'
+bip_39_word_new_line4: 'ignore
+
+  truly
+
+  wide
+
+  panda'
+bip_39_word_new_line5: 'ignore
+
+  truly
+
+  wide
+
+  panda
+
+  obvious'
+bip_39_word_new_line6: 'ignore
+
+  truly
+
+  wide
+
+  panda
+
+  obvious
+
+  pipe'
+bip_39_word_new_line7: 'ignore
+
+  truly
+
+  wide
+
+  panda
+
+  obvious
+
+  pipe
+
+  crime'
+bip_39_word_new_line8: 'ignore
+
+  truly
+
+  wide
+
+  panda
+
+  obvious
+
+  pipe
+
+  crime
+
+  trade'
+bip_39_word_new_line9: 'ignore
+
+  truly
+
+  wide
+
+  panda
+
+  obvious
+
+  pipe
+
+  crime
+
+  trade
+
+  run'
+bip_39_word_space_0:
+- ignore
+- truly
+- wide
+- panda
+- obvious
+- pipe
+- crime
+- trade
+- run
+- swing
+- skull
+- addict
+bip_39_word_space_1: ignore
+bip_39_word_space_10: ignore truly wide panda obvious pipe crime trade run swing
+bip_39_word_space_11: ignore truly wide panda obvious pipe crime trade run swing skull
+bip_39_word_space_12: ignore truly wide panda obvious pipe crime trade run swing skull
+  addict
+bip_39_word_space_2: ignore truly
+bip_39_word_space_3: ignore truly wide
+bip_39_word_space_4: ignore truly wide panda
+bip_39_word_space_5: ignore truly wide panda obvious
+bip_39_word_space_6: ignore truly wide panda obvious pipe
+bip_39_word_space_7: ignore truly wide panda obvious pipe crime
+bip_39_word_space_8: ignore truly wide panda obvious pipe crime trade
+bip_39_word_space_9: ignore truly wide panda obvious pipe crime trade run
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

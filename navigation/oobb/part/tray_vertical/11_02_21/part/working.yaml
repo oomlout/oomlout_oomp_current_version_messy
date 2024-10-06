@@ -1,3 +1,185 @@
+bip_39_word_new_br1: series
+bip_39_word_new_br10: series<br>globe<br>bean<br>warm<br>stay<br>gadget<br>eye<br>math<br>mountain<br>host
+bip_39_word_new_br11: series<br>globe<br>bean<br>warm<br>stay<br>gadget<br>eye<br>math<br>mountain<br>host<br>slab
+bip_39_word_new_br12: series<br>globe<br>bean<br>warm<br>stay<br>gadget<br>eye<br>math<br>mountain<br>host<br>slab<br>access
+bip_39_word_new_br2: series<br>globe
+bip_39_word_new_br3: series<br>globe<br>bean
+bip_39_word_new_br4: series<br>globe<br>bean<br>warm
+bip_39_word_new_br5: series<br>globe<br>bean<br>warm<br>stay
+bip_39_word_new_br6: series<br>globe<br>bean<br>warm<br>stay<br>gadget
+bip_39_word_new_br7: series<br>globe<br>bean<br>warm<br>stay<br>gadget<br>eye
+bip_39_word_new_br8: series<br>globe<br>bean<br>warm<br>stay<br>gadget<br>eye<br>math
+bip_39_word_new_br9: series<br>globe<br>bean<br>warm<br>stay<br>gadget<br>eye<br>math<br>mountain
+bip_39_word_new_line1: series
+bip_39_word_new_line10: 'series
+
+  globe
+
+  bean
+
+  warm
+
+  stay
+
+  gadget
+
+  eye
+
+  math
+
+  mountain
+
+  host'
+bip_39_word_new_line11: 'series
+
+  globe
+
+  bean
+
+  warm
+
+  stay
+
+  gadget
+
+  eye
+
+  math
+
+  mountain
+
+  host
+
+  slab'
+bip_39_word_new_line12: 'series
+
+  globe
+
+  bean
+
+  warm
+
+  stay
+
+  gadget
+
+  eye
+
+  math
+
+  mountain
+
+  host
+
+  slab
+
+  access'
+bip_39_word_new_line2: 'series
+
+  globe'
+bip_39_word_new_line3: 'series
+
+  globe
+
+  bean'
+bip_39_word_new_line4: 'series
+
+  globe
+
+  bean
+
+  warm'
+bip_39_word_new_line5: 'series
+
+  globe
+
+  bean
+
+  warm
+
+  stay'
+bip_39_word_new_line6: 'series
+
+  globe
+
+  bean
+
+  warm
+
+  stay
+
+  gadget'
+bip_39_word_new_line7: 'series
+
+  globe
+
+  bean
+
+  warm
+
+  stay
+
+  gadget
+
+  eye'
+bip_39_word_new_line8: 'series
+
+  globe
+
+  bean
+
+  warm
+
+  stay
+
+  gadget
+
+  eye
+
+  math'
+bip_39_word_new_line9: 'series
+
+  globe
+
+  bean
+
+  warm
+
+  stay
+
+  gadget
+
+  eye
+
+  math
+
+  mountain'
+bip_39_word_space_0:
+- series
+- globe
+- bean
+- warm
+- stay
+- gadget
+- eye
+- math
+- mountain
+- host
+- slab
+- access
+bip_39_word_space_1: series
+bip_39_word_space_10: series globe bean warm stay gadget eye math mountain host
+bip_39_word_space_11: series globe bean warm stay gadget eye math mountain host slab
+bip_39_word_space_12: series globe bean warm stay gadget eye math mountain host slab
+  access
+bip_39_word_space_2: series globe
+bip_39_word_space_3: series globe bean
+bip_39_word_space_4: series globe bean warm
+bip_39_word_space_5: series globe bean warm stay
+bip_39_word_space_6: series globe bean warm stay gadget
+bip_39_word_space_7: series globe bean warm stay gadget eye
+bip_39_word_space_8: series globe bean warm stay gadget eye math
+bip_39_word_space_9: series globe bean warm stay gadget eye math mountain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wisdom leader
+  * bip 39 word 3: wisdom leader clutch
+  * bip 39 word: wisdom leader clutch wedding power spare artist tone tragic road once any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wisdom |  
+| bip_39_word_new_br10 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare<br>artist<br>tone<br>tragic<br>road |  
+| bip_39_word_new_br11 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare<br>artist<br>tone<br>tragic<br>road<br>once |  
+| bip_39_word_new_br12 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare<br>artist<br>tone<br>tragic<br>road<br>once<br>any |  
+| bip_39_word_new_br2 | wisdom<br>leader |  
+| bip_39_word_new_br3 | wisdom<br>leader<br>clutch |  
+| bip_39_word_new_br4 | wisdom<br>leader<br>clutch<br>wedding |  
+| bip_39_word_new_br5 | wisdom<br>leader<br>clutch<br>wedding<br>power |  
+| bip_39_word_new_br6 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare |  
+| bip_39_word_new_br7 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare<br>artist |  
+| bip_39_word_new_br8 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare<br>artist<br>tone |  
+| bip_39_word_new_br9 | wisdom<br>leader<br>clutch<br>wedding<br>power<br>spare<br>artist<br>tone<br>tragic |  
+| bip_39_word_new_line1 | wisdom |  
+| bip_39_word_new_line10 | wisdom
+leader
+clutch
+wedding
+power
+spare
+artist
+tone
+tragic
+road |  
+| bip_39_word_new_line11 | wisdom
+leader
+clutch
+wedding
+power
+spare
+artist
+tone
+tragic
+road
+once |  
+| bip_39_word_new_line12 | wisdom
+leader
+clutch
+wedding
+power
+spare
+artist
+tone
+tragic
+road
+once
+any |  
+| bip_39_word_new_line2 | wisdom
+leader |  
+| bip_39_word_new_line3 | wisdom
+leader
+clutch |  
+| bip_39_word_new_line4 | wisdom
+leader
+clutch
+wedding |  
+| bip_39_word_new_line5 | wisdom
+leader
+clutch
+wedding
+power |  
+| bip_39_word_new_line6 | wisdom
+leader
+clutch
+wedding
+power
+spare |  
+| bip_39_word_new_line7 | wisdom
+leader
+clutch
+wedding
+power
+spare
+artist |  
+| bip_39_word_new_line8 | wisdom
+leader
+clutch
+wedding
+power
+spare
+artist
+tone |  
+| bip_39_word_new_line9 | wisdom
+leader
+clutch
+wedding
+power
+spare
+artist
+tone
+tragic |  
+| bip_39_word_space_0 | ['wisdom', 'leader', 'clutch', 'wedding', 'power', 'spare', 'artist', 'tone', 'tragic', 'road', 'once', 'any'] |  
+| bip_39_word_space_1 | wisdom |  
+| bip_39_word_space_10 | wisdom leader clutch wedding power spare artist tone tragic road |  
+| bip_39_word_space_11 | wisdom leader clutch wedding power spare artist tone tragic road once |  
+| bip_39_word_space_12 | wisdom leader clutch wedding power spare artist tone tragic road once any |  
+| bip_39_word_space_2 | wisdom leader |  
+| bip_39_word_space_3 | wisdom leader clutch |  
+| bip_39_word_space_4 | wisdom leader clutch wedding |  
+| bip_39_word_space_5 | wisdom leader clutch wedding power |  
+| bip_39_word_space_6 | wisdom leader clutch wedding power spare |  
+| bip_39_word_space_7 | wisdom leader clutch wedding power spare artist |  
+| bip_39_word_space_8 | wisdom leader clutch wedding power spare artist tone |  
+| bip_39_word_space_9 | wisdom leader clutch wedding power spare artist tone tragic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

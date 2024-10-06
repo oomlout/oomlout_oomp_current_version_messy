@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swarm chapter
+  * bip 39 word 3: swarm chapter swallow
+  * bip 39 word: swarm chapter swallow goddess kiwi plate jungle peace magnet wink frequent afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swarm |  
+| bip_39_word_new_br10 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate<br>jungle<br>peace<br>magnet<br>wink |  
+| bip_39_word_new_br11 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate<br>jungle<br>peace<br>magnet<br>wink<br>frequent |  
+| bip_39_word_new_br12 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate<br>jungle<br>peace<br>magnet<br>wink<br>frequent<br>afford |  
+| bip_39_word_new_br2 | swarm<br>chapter |  
+| bip_39_word_new_br3 | swarm<br>chapter<br>swallow |  
+| bip_39_word_new_br4 | swarm<br>chapter<br>swallow<br>goddess |  
+| bip_39_word_new_br5 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi |  
+| bip_39_word_new_br6 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate |  
+| bip_39_word_new_br7 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate<br>jungle |  
+| bip_39_word_new_br8 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate<br>jungle<br>peace |  
+| bip_39_word_new_br9 | swarm<br>chapter<br>swallow<br>goddess<br>kiwi<br>plate<br>jungle<br>peace<br>magnet |  
+| bip_39_word_new_line1 | swarm |  
+| bip_39_word_new_line10 | swarm
+chapter
+swallow
+goddess
+kiwi
+plate
+jungle
+peace
+magnet
+wink |  
+| bip_39_word_new_line11 | swarm
+chapter
+swallow
+goddess
+kiwi
+plate
+jungle
+peace
+magnet
+wink
+frequent |  
+| bip_39_word_new_line12 | swarm
+chapter
+swallow
+goddess
+kiwi
+plate
+jungle
+peace
+magnet
+wink
+frequent
+afford |  
+| bip_39_word_new_line2 | swarm
+chapter |  
+| bip_39_word_new_line3 | swarm
+chapter
+swallow |  
+| bip_39_word_new_line4 | swarm
+chapter
+swallow
+goddess |  
+| bip_39_word_new_line5 | swarm
+chapter
+swallow
+goddess
+kiwi |  
+| bip_39_word_new_line6 | swarm
+chapter
+swallow
+goddess
+kiwi
+plate |  
+| bip_39_word_new_line7 | swarm
+chapter
+swallow
+goddess
+kiwi
+plate
+jungle |  
+| bip_39_word_new_line8 | swarm
+chapter
+swallow
+goddess
+kiwi
+plate
+jungle
+peace |  
+| bip_39_word_new_line9 | swarm
+chapter
+swallow
+goddess
+kiwi
+plate
+jungle
+peace
+magnet |  
+| bip_39_word_space_0 | ['swarm', 'chapter', 'swallow', 'goddess', 'kiwi', 'plate', 'jungle', 'peace', 'magnet', 'wink', 'frequent', 'afford'] |  
+| bip_39_word_space_1 | swarm |  
+| bip_39_word_space_10 | swarm chapter swallow goddess kiwi plate jungle peace magnet wink |  
+| bip_39_word_space_11 | swarm chapter swallow goddess kiwi plate jungle peace magnet wink frequent |  
+| bip_39_word_space_12 | swarm chapter swallow goddess kiwi plate jungle peace magnet wink frequent afford |  
+| bip_39_word_space_2 | swarm chapter |  
+| bip_39_word_space_3 | swarm chapter swallow |  
+| bip_39_word_space_4 | swarm chapter swallow goddess |  
+| bip_39_word_space_5 | swarm chapter swallow goddess kiwi |  
+| bip_39_word_space_6 | swarm chapter swallow goddess kiwi plate |  
+| bip_39_word_space_7 | swarm chapter swallow goddess kiwi plate jungle |  
+| bip_39_word_space_8 | swarm chapter swallow goddess kiwi plate jungle peace |  
+| bip_39_word_space_9 | swarm chapter swallow goddess kiwi plate jungle peace magnet |  
 | classification | wood |  
 | classification_capital | Wood |  
 | classification_first_letter | w |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: win case
+  * bip 39 word 3: win case script
+  * bip 39 word: win case script day large margin absurd cloth dinner symptom tattoo answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | win |  
+| bip_39_word_new_br10 | win<br>case<br>script<br>day<br>large<br>margin<br>absurd<br>cloth<br>dinner<br>symptom |  
+| bip_39_word_new_br11 | win<br>case<br>script<br>day<br>large<br>margin<br>absurd<br>cloth<br>dinner<br>symptom<br>tattoo |  
+| bip_39_word_new_br12 | win<br>case<br>script<br>day<br>large<br>margin<br>absurd<br>cloth<br>dinner<br>symptom<br>tattoo<br>answer |  
+| bip_39_word_new_br2 | win<br>case |  
+| bip_39_word_new_br3 | win<br>case<br>script |  
+| bip_39_word_new_br4 | win<br>case<br>script<br>day |  
+| bip_39_word_new_br5 | win<br>case<br>script<br>day<br>large |  
+| bip_39_word_new_br6 | win<br>case<br>script<br>day<br>large<br>margin |  
+| bip_39_word_new_br7 | win<br>case<br>script<br>day<br>large<br>margin<br>absurd |  
+| bip_39_word_new_br8 | win<br>case<br>script<br>day<br>large<br>margin<br>absurd<br>cloth |  
+| bip_39_word_new_br9 | win<br>case<br>script<br>day<br>large<br>margin<br>absurd<br>cloth<br>dinner |  
+| bip_39_word_new_line1 | win |  
+| bip_39_word_new_line10 | win
+case
+script
+day
+large
+margin
+absurd
+cloth
+dinner
+symptom |  
+| bip_39_word_new_line11 | win
+case
+script
+day
+large
+margin
+absurd
+cloth
+dinner
+symptom
+tattoo |  
+| bip_39_word_new_line12 | win
+case
+script
+day
+large
+margin
+absurd
+cloth
+dinner
+symptom
+tattoo
+answer |  
+| bip_39_word_new_line2 | win
+case |  
+| bip_39_word_new_line3 | win
+case
+script |  
+| bip_39_word_new_line4 | win
+case
+script
+day |  
+| bip_39_word_new_line5 | win
+case
+script
+day
+large |  
+| bip_39_word_new_line6 | win
+case
+script
+day
+large
+margin |  
+| bip_39_word_new_line7 | win
+case
+script
+day
+large
+margin
+absurd |  
+| bip_39_word_new_line8 | win
+case
+script
+day
+large
+margin
+absurd
+cloth |  
+| bip_39_word_new_line9 | win
+case
+script
+day
+large
+margin
+absurd
+cloth
+dinner |  
+| bip_39_word_space_0 | ['win', 'case', 'script', 'day', 'large', 'margin', 'absurd', 'cloth', 'dinner', 'symptom', 'tattoo', 'answer'] |  
+| bip_39_word_space_1 | win |  
+| bip_39_word_space_10 | win case script day large margin absurd cloth dinner symptom |  
+| bip_39_word_space_11 | win case script day large margin absurd cloth dinner symptom tattoo |  
+| bip_39_word_space_12 | win case script day large margin absurd cloth dinner symptom tattoo answer |  
+| bip_39_word_space_2 | win case |  
+| bip_39_word_space_3 | win case script |  
+| bip_39_word_space_4 | win case script day |  
+| bip_39_word_space_5 | win case script day large |  
+| bip_39_word_space_6 | win case script day large margin |  
+| bip_39_word_space_7 | win case script day large margin absurd |  
+| bip_39_word_space_8 | win case script day large margin absurd cloth |  
+| bip_39_word_space_9 | win case script day large margin absurd cloth dinner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

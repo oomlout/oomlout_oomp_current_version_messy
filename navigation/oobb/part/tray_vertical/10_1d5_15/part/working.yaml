@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pluck
+bip_39_word_new_br10: pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse<br>gym<br>arrest<br>shove<br>correct
+bip_39_word_new_br11: pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse<br>gym<br>arrest<br>shove<br>correct<br>choice
+bip_39_word_new_br12: pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse<br>gym<br>arrest<br>shove<br>correct<br>choice<br>antenna
+bip_39_word_new_br2: pluck<br>nuclear
+bip_39_word_new_br3: pluck<br>nuclear<br>stereo
+bip_39_word_new_br4: pluck<br>nuclear<br>stereo<br>moral
+bip_39_word_new_br5: pluck<br>nuclear<br>stereo<br>moral<br>announce
+bip_39_word_new_br6: pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse
+bip_39_word_new_br7: pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse<br>gym
+bip_39_word_new_br8: pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse<br>gym<br>arrest
+bip_39_word_new_br9: pluck<br>nuclear<br>stereo<br>moral<br>announce<br>abuse<br>gym<br>arrest<br>shove
+bip_39_word_new_line1: pluck
+bip_39_word_new_line10: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral
+
+  announce
+
+  abuse
+
+  gym
+
+  arrest
+
+  shove
+
+  correct'
+bip_39_word_new_line11: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral
+
+  announce
+
+  abuse
+
+  gym
+
+  arrest
+
+  shove
+
+  correct
+
+  choice'
+bip_39_word_new_line12: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral
+
+  announce
+
+  abuse
+
+  gym
+
+  arrest
+
+  shove
+
+  correct
+
+  choice
+
+  antenna'
+bip_39_word_new_line2: 'pluck
+
+  nuclear'
+bip_39_word_new_line3: 'pluck
+
+  nuclear
+
+  stereo'
+bip_39_word_new_line4: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral'
+bip_39_word_new_line5: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral
+
+  announce'
+bip_39_word_new_line6: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral
+
+  announce
+
+  abuse'
+bip_39_word_new_line7: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral
+
+  announce
+
+  abuse
+
+  gym'
+bip_39_word_new_line8: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral
+
+  announce
+
+  abuse
+
+  gym
+
+  arrest'
+bip_39_word_new_line9: 'pluck
+
+  nuclear
+
+  stereo
+
+  moral
+
+  announce
+
+  abuse
+
+  gym
+
+  arrest
+
+  shove'
+bip_39_word_space_0:
+- pluck
+- nuclear
+- stereo
+- moral
+- announce
+- abuse
+- gym
+- arrest
+- shove
+- correct
+- choice
+- antenna
+bip_39_word_space_1: pluck
+bip_39_word_space_10: pluck nuclear stereo moral announce abuse gym arrest shove correct
+bip_39_word_space_11: pluck nuclear stereo moral announce abuse gym arrest shove correct
+  choice
+bip_39_word_space_12: pluck nuclear stereo moral announce abuse gym arrest shove correct
+  choice antenna
+bip_39_word_space_2: pluck nuclear
+bip_39_word_space_3: pluck nuclear stereo
+bip_39_word_space_4: pluck nuclear stereo moral
+bip_39_word_space_5: pluck nuclear stereo moral announce
+bip_39_word_space_6: pluck nuclear stereo moral announce abuse
+bip_39_word_space_7: pluck nuclear stereo moral announce abuse gym
+bip_39_word_space_8: pluck nuclear stereo moral announce abuse gym arrest
+bip_39_word_space_9: pluck nuclear stereo moral announce abuse gym arrest shove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

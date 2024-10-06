@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exercise mansion
+  * bip 39 word 3: exercise mansion wheel
+  * bip 39 word: exercise mansion wheel inner road sniff health deposit boat divorce ripple angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exercise |  
+| bip_39_word_new_br10 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff<br>health<br>deposit<br>boat<br>divorce |  
+| bip_39_word_new_br11 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff<br>health<br>deposit<br>boat<br>divorce<br>ripple |  
+| bip_39_word_new_br12 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff<br>health<br>deposit<br>boat<br>divorce<br>ripple<br>angry |  
+| bip_39_word_new_br2 | exercise<br>mansion |  
+| bip_39_word_new_br3 | exercise<br>mansion<br>wheel |  
+| bip_39_word_new_br4 | exercise<br>mansion<br>wheel<br>inner |  
+| bip_39_word_new_br5 | exercise<br>mansion<br>wheel<br>inner<br>road |  
+| bip_39_word_new_br6 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff |  
+| bip_39_word_new_br7 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff<br>health |  
+| bip_39_word_new_br8 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff<br>health<br>deposit |  
+| bip_39_word_new_br9 | exercise<br>mansion<br>wheel<br>inner<br>road<br>sniff<br>health<br>deposit<br>boat |  
+| bip_39_word_new_line1 | exercise |  
+| bip_39_word_new_line10 | exercise
+mansion
+wheel
+inner
+road
+sniff
+health
+deposit
+boat
+divorce |  
+| bip_39_word_new_line11 | exercise
+mansion
+wheel
+inner
+road
+sniff
+health
+deposit
+boat
+divorce
+ripple |  
+| bip_39_word_new_line12 | exercise
+mansion
+wheel
+inner
+road
+sniff
+health
+deposit
+boat
+divorce
+ripple
+angry |  
+| bip_39_word_new_line2 | exercise
+mansion |  
+| bip_39_word_new_line3 | exercise
+mansion
+wheel |  
+| bip_39_word_new_line4 | exercise
+mansion
+wheel
+inner |  
+| bip_39_word_new_line5 | exercise
+mansion
+wheel
+inner
+road |  
+| bip_39_word_new_line6 | exercise
+mansion
+wheel
+inner
+road
+sniff |  
+| bip_39_word_new_line7 | exercise
+mansion
+wheel
+inner
+road
+sniff
+health |  
+| bip_39_word_new_line8 | exercise
+mansion
+wheel
+inner
+road
+sniff
+health
+deposit |  
+| bip_39_word_new_line9 | exercise
+mansion
+wheel
+inner
+road
+sniff
+health
+deposit
+boat |  
+| bip_39_word_space_0 | ['exercise', 'mansion', 'wheel', 'inner', 'road', 'sniff', 'health', 'deposit', 'boat', 'divorce', 'ripple', 'angry'] |  
+| bip_39_word_space_1 | exercise |  
+| bip_39_word_space_10 | exercise mansion wheel inner road sniff health deposit boat divorce |  
+| bip_39_word_space_11 | exercise mansion wheel inner road sniff health deposit boat divorce ripple |  
+| bip_39_word_space_12 | exercise mansion wheel inner road sniff health deposit boat divorce ripple angry |  
+| bip_39_word_space_2 | exercise mansion |  
+| bip_39_word_space_3 | exercise mansion wheel |  
+| bip_39_word_space_4 | exercise mansion wheel inner |  
+| bip_39_word_space_5 | exercise mansion wheel inner road |  
+| bip_39_word_space_6 | exercise mansion wheel inner road sniff |  
+| bip_39_word_space_7 | exercise mansion wheel inner road sniff health |  
+| bip_39_word_space_8 | exercise mansion wheel inner road sniff health deposit |  
+| bip_39_word_space_9 | exercise mansion wheel inner road sniff health deposit boat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

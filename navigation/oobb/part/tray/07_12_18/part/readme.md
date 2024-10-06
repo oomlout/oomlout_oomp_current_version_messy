@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: artefact sunset
+  * bip 39 word 3: artefact sunset pipe
+  * bip 39 word: artefact sunset pipe dawn hover arch inflict index vocal stumble youth acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | artefact |  
+| bip_39_word_new_br10 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal<br>stumble |  
+| bip_39_word_new_br11 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal<br>stumble<br>youth |  
+| bip_39_word_new_br12 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal<br>stumble<br>youth<br>acoustic |  
+| bip_39_word_new_br2 | artefact<br>sunset |  
+| bip_39_word_new_br3 | artefact<br>sunset<br>pipe |  
+| bip_39_word_new_br4 | artefact<br>sunset<br>pipe<br>dawn |  
+| bip_39_word_new_br5 | artefact<br>sunset<br>pipe<br>dawn<br>hover |  
+| bip_39_word_new_br6 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch |  
+| bip_39_word_new_br7 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict |  
+| bip_39_word_new_br8 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index |  
+| bip_39_word_new_br9 | artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal |  
+| bip_39_word_new_line1 | artefact |  
+| bip_39_word_new_line10 | artefact
+sunset
+pipe
+dawn
+hover
+arch
+inflict
+index
+vocal
+stumble |  
+| bip_39_word_new_line11 | artefact
+sunset
+pipe
+dawn
+hover
+arch
+inflict
+index
+vocal
+stumble
+youth |  
+| bip_39_word_new_line12 | artefact
+sunset
+pipe
+dawn
+hover
+arch
+inflict
+index
+vocal
+stumble
+youth
+acoustic |  
+| bip_39_word_new_line2 | artefact
+sunset |  
+| bip_39_word_new_line3 | artefact
+sunset
+pipe |  
+| bip_39_word_new_line4 | artefact
+sunset
+pipe
+dawn |  
+| bip_39_word_new_line5 | artefact
+sunset
+pipe
+dawn
+hover |  
+| bip_39_word_new_line6 | artefact
+sunset
+pipe
+dawn
+hover
+arch |  
+| bip_39_word_new_line7 | artefact
+sunset
+pipe
+dawn
+hover
+arch
+inflict |  
+| bip_39_word_new_line8 | artefact
+sunset
+pipe
+dawn
+hover
+arch
+inflict
+index |  
+| bip_39_word_new_line9 | artefact
+sunset
+pipe
+dawn
+hover
+arch
+inflict
+index
+vocal |  
+| bip_39_word_space_0 | ['artefact', 'sunset', 'pipe', 'dawn', 'hover', 'arch', 'inflict', 'index', 'vocal', 'stumble', 'youth', 'acoustic'] |  
+| bip_39_word_space_1 | artefact |  
+| bip_39_word_space_10 | artefact sunset pipe dawn hover arch inflict index vocal stumble |  
+| bip_39_word_space_11 | artefact sunset pipe dawn hover arch inflict index vocal stumble youth |  
+| bip_39_word_space_12 | artefact sunset pipe dawn hover arch inflict index vocal stumble youth acoustic |  
+| bip_39_word_space_2 | artefact sunset |  
+| bip_39_word_space_3 | artefact sunset pipe |  
+| bip_39_word_space_4 | artefact sunset pipe dawn |  
+| bip_39_word_space_5 | artefact sunset pipe dawn hover |  
+| bip_39_word_space_6 | artefact sunset pipe dawn hover arch |  
+| bip_39_word_space_7 | artefact sunset pipe dawn hover arch inflict |  
+| bip_39_word_space_8 | artefact sunset pipe dawn hover arch inflict index |  
+| bip_39_word_space_9 | artefact sunset pipe dawn hover arch inflict index vocal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

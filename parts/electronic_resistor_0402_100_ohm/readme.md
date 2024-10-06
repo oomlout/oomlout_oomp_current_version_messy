@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exchange ordinary
+  * bip 39 word 3: exchange ordinary picnic
+  * bip 39 word: exchange ordinary picnic secret border latin credit eager method pulp memory agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exchange |  
+| bip_39_word_new_br10 | exchange<br>ordinary<br>picnic<br>secret<br>border<br>latin<br>credit<br>eager<br>method<br>pulp |  
+| bip_39_word_new_br11 | exchange<br>ordinary<br>picnic<br>secret<br>border<br>latin<br>credit<br>eager<br>method<br>pulp<br>memory |  
+| bip_39_word_new_br12 | exchange<br>ordinary<br>picnic<br>secret<br>border<br>latin<br>credit<br>eager<br>method<br>pulp<br>memory<br>agree |  
+| bip_39_word_new_br2 | exchange<br>ordinary |  
+| bip_39_word_new_br3 | exchange<br>ordinary<br>picnic |  
+| bip_39_word_new_br4 | exchange<br>ordinary<br>picnic<br>secret |  
+| bip_39_word_new_br5 | exchange<br>ordinary<br>picnic<br>secret<br>border |  
+| bip_39_word_new_br6 | exchange<br>ordinary<br>picnic<br>secret<br>border<br>latin |  
+| bip_39_word_new_br7 | exchange<br>ordinary<br>picnic<br>secret<br>border<br>latin<br>credit |  
+| bip_39_word_new_br8 | exchange<br>ordinary<br>picnic<br>secret<br>border<br>latin<br>credit<br>eager |  
+| bip_39_word_new_br9 | exchange<br>ordinary<br>picnic<br>secret<br>border<br>latin<br>credit<br>eager<br>method |  
+| bip_39_word_new_line1 | exchange |  
+| bip_39_word_new_line10 | exchange
+ordinary
+picnic
+secret
+border
+latin
+credit
+eager
+method
+pulp |  
+| bip_39_word_new_line11 | exchange
+ordinary
+picnic
+secret
+border
+latin
+credit
+eager
+method
+pulp
+memory |  
+| bip_39_word_new_line12 | exchange
+ordinary
+picnic
+secret
+border
+latin
+credit
+eager
+method
+pulp
+memory
+agree |  
+| bip_39_word_new_line2 | exchange
+ordinary |  
+| bip_39_word_new_line3 | exchange
+ordinary
+picnic |  
+| bip_39_word_new_line4 | exchange
+ordinary
+picnic
+secret |  
+| bip_39_word_new_line5 | exchange
+ordinary
+picnic
+secret
+border |  
+| bip_39_word_new_line6 | exchange
+ordinary
+picnic
+secret
+border
+latin |  
+| bip_39_word_new_line7 | exchange
+ordinary
+picnic
+secret
+border
+latin
+credit |  
+| bip_39_word_new_line8 | exchange
+ordinary
+picnic
+secret
+border
+latin
+credit
+eager |  
+| bip_39_word_new_line9 | exchange
+ordinary
+picnic
+secret
+border
+latin
+credit
+eager
+method |  
+| bip_39_word_space_0 | ['exchange', 'ordinary', 'picnic', 'secret', 'border', 'latin', 'credit', 'eager', 'method', 'pulp', 'memory', 'agree'] |  
+| bip_39_word_space_1 | exchange |  
+| bip_39_word_space_10 | exchange ordinary picnic secret border latin credit eager method pulp |  
+| bip_39_word_space_11 | exchange ordinary picnic secret border latin credit eager method pulp memory |  
+| bip_39_word_space_12 | exchange ordinary picnic secret border latin credit eager method pulp memory agree |  
+| bip_39_word_space_2 | exchange ordinary |  
+| bip_39_word_space_3 | exchange ordinary picnic |  
+| bip_39_word_space_4 | exchange ordinary picnic secret |  
+| bip_39_word_space_5 | exchange ordinary picnic secret border |  
+| bip_39_word_space_6 | exchange ordinary picnic secret border latin |  
+| bip_39_word_space_7 | exchange ordinary picnic secret border latin credit |  
+| bip_39_word_space_8 | exchange ordinary picnic secret border latin credit eager |  
+| bip_39_word_space_9 | exchange ordinary picnic secret border latin credit eager method |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

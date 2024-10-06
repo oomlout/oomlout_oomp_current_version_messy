@@ -1,3 +1,186 @@
+bip_39_word_new_br1: jacket
+bip_39_word_new_br10: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow<br>assist<br>ask<br>enter<br>that
+bip_39_word_new_br11: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow<br>assist<br>ask<br>enter<br>that<br>tribe
+bip_39_word_new_br12: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow<br>assist<br>ask<br>enter<br>that<br>tribe<br>aerobic
+bip_39_word_new_br2: jacket<br>reform
+bip_39_word_new_br3: jacket<br>reform<br>depart
+bip_39_word_new_br4: jacket<br>reform<br>depart<br>ginger
+bip_39_word_new_br5: jacket<br>reform<br>depart<br>ginger<br>paddle
+bip_39_word_new_br6: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow
+bip_39_word_new_br7: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow<br>assist
+bip_39_word_new_br8: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow<br>assist<br>ask
+bip_39_word_new_br9: jacket<br>reform<br>depart<br>ginger<br>paddle<br>slow<br>assist<br>ask<br>enter
+bip_39_word_new_line1: jacket
+bip_39_word_new_line10: 'jacket
+
+  reform
+
+  depart
+
+  ginger
+
+  paddle
+
+  slow
+
+  assist
+
+  ask
+
+  enter
+
+  that'
+bip_39_word_new_line11: 'jacket
+
+  reform
+
+  depart
+
+  ginger
+
+  paddle
+
+  slow
+
+  assist
+
+  ask
+
+  enter
+
+  that
+
+  tribe'
+bip_39_word_new_line12: 'jacket
+
+  reform
+
+  depart
+
+  ginger
+
+  paddle
+
+  slow
+
+  assist
+
+  ask
+
+  enter
+
+  that
+
+  tribe
+
+  aerobic'
+bip_39_word_new_line2: 'jacket
+
+  reform'
+bip_39_word_new_line3: 'jacket
+
+  reform
+
+  depart'
+bip_39_word_new_line4: 'jacket
+
+  reform
+
+  depart
+
+  ginger'
+bip_39_word_new_line5: 'jacket
+
+  reform
+
+  depart
+
+  ginger
+
+  paddle'
+bip_39_word_new_line6: 'jacket
+
+  reform
+
+  depart
+
+  ginger
+
+  paddle
+
+  slow'
+bip_39_word_new_line7: 'jacket
+
+  reform
+
+  depart
+
+  ginger
+
+  paddle
+
+  slow
+
+  assist'
+bip_39_word_new_line8: 'jacket
+
+  reform
+
+  depart
+
+  ginger
+
+  paddle
+
+  slow
+
+  assist
+
+  ask'
+bip_39_word_new_line9: 'jacket
+
+  reform
+
+  depart
+
+  ginger
+
+  paddle
+
+  slow
+
+  assist
+
+  ask
+
+  enter'
+bip_39_word_space_0:
+- jacket
+- reform
+- depart
+- ginger
+- paddle
+- slow
+- assist
+- ask
+- enter
+- that
+- tribe
+- aerobic
+bip_39_word_space_1: jacket
+bip_39_word_space_10: jacket reform depart ginger paddle slow assist ask enter that
+bip_39_word_space_11: jacket reform depart ginger paddle slow assist ask enter that
+  tribe
+bip_39_word_space_12: jacket reform depart ginger paddle slow assist ask enter that
+  tribe aerobic
+bip_39_word_space_2: jacket reform
+bip_39_word_space_3: jacket reform depart
+bip_39_word_space_4: jacket reform depart ginger
+bip_39_word_space_5: jacket reform depart ginger paddle
+bip_39_word_space_6: jacket reform depart ginger paddle slow
+bip_39_word_space_7: jacket reform depart ginger paddle slow assist
+bip_39_word_space_8: jacket reform depart ginger paddle slow assist ask
+bip_39_word_space_9: jacket reform depart ginger paddle slow assist ask enter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

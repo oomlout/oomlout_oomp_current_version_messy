@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: floor winner
+  * bip 39 word 3: floor winner hamster
+  * bip 39 word: floor winner hamster latin fatigue bring vintage brick spend duty coffee aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | floor |  
+| bip_39_word_new_br10 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring<br>vintage<br>brick<br>spend<br>duty |  
+| bip_39_word_new_br11 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring<br>vintage<br>brick<br>spend<br>duty<br>coffee |  
+| bip_39_word_new_br12 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring<br>vintage<br>brick<br>spend<br>duty<br>coffee<br>aerobic |  
+| bip_39_word_new_br2 | floor<br>winner |  
+| bip_39_word_new_br3 | floor<br>winner<br>hamster |  
+| bip_39_word_new_br4 | floor<br>winner<br>hamster<br>latin |  
+| bip_39_word_new_br5 | floor<br>winner<br>hamster<br>latin<br>fatigue |  
+| bip_39_word_new_br6 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring |  
+| bip_39_word_new_br7 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring<br>vintage |  
+| bip_39_word_new_br8 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring<br>vintage<br>brick |  
+| bip_39_word_new_br9 | floor<br>winner<br>hamster<br>latin<br>fatigue<br>bring<br>vintage<br>brick<br>spend |  
+| bip_39_word_new_line1 | floor |  
+| bip_39_word_new_line10 | floor
+winner
+hamster
+latin
+fatigue
+bring
+vintage
+brick
+spend
+duty |  
+| bip_39_word_new_line11 | floor
+winner
+hamster
+latin
+fatigue
+bring
+vintage
+brick
+spend
+duty
+coffee |  
+| bip_39_word_new_line12 | floor
+winner
+hamster
+latin
+fatigue
+bring
+vintage
+brick
+spend
+duty
+coffee
+aerobic |  
+| bip_39_word_new_line2 | floor
+winner |  
+| bip_39_word_new_line3 | floor
+winner
+hamster |  
+| bip_39_word_new_line4 | floor
+winner
+hamster
+latin |  
+| bip_39_word_new_line5 | floor
+winner
+hamster
+latin
+fatigue |  
+| bip_39_word_new_line6 | floor
+winner
+hamster
+latin
+fatigue
+bring |  
+| bip_39_word_new_line7 | floor
+winner
+hamster
+latin
+fatigue
+bring
+vintage |  
+| bip_39_word_new_line8 | floor
+winner
+hamster
+latin
+fatigue
+bring
+vintage
+brick |  
+| bip_39_word_new_line9 | floor
+winner
+hamster
+latin
+fatigue
+bring
+vintage
+brick
+spend |  
+| bip_39_word_space_0 | ['floor', 'winner', 'hamster', 'latin', 'fatigue', 'bring', 'vintage', 'brick', 'spend', 'duty', 'coffee', 'aerobic'] |  
+| bip_39_word_space_1 | floor |  
+| bip_39_word_space_10 | floor winner hamster latin fatigue bring vintage brick spend duty |  
+| bip_39_word_space_11 | floor winner hamster latin fatigue bring vintage brick spend duty coffee |  
+| bip_39_word_space_12 | floor winner hamster latin fatigue bring vintage brick spend duty coffee aerobic |  
+| bip_39_word_space_2 | floor winner |  
+| bip_39_word_space_3 | floor winner hamster |  
+| bip_39_word_space_4 | floor winner hamster latin |  
+| bip_39_word_space_5 | floor winner hamster latin fatigue |  
+| bip_39_word_space_6 | floor winner hamster latin fatigue bring |  
+| bip_39_word_space_7 | floor winner hamster latin fatigue bring vintage |  
+| bip_39_word_space_8 | floor winner hamster latin fatigue bring vintage brick |  
+| bip_39_word_space_9 | floor winner hamster latin fatigue bring vintage brick spend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

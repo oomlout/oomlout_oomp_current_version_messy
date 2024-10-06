@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: orange mosquito
+  * bip 39 word 3: orange mosquito panic
+  * bip 39 word: orange mosquito panic vast puzzle mechanic reveal corn humble heavy snow amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | orange |  
+| bip_39_word_new_br10 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic<br>reveal<br>corn<br>humble<br>heavy |  
+| bip_39_word_new_br11 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic<br>reveal<br>corn<br>humble<br>heavy<br>snow |  
+| bip_39_word_new_br12 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic<br>reveal<br>corn<br>humble<br>heavy<br>snow<br>amused |  
+| bip_39_word_new_br2 | orange<br>mosquito |  
+| bip_39_word_new_br3 | orange<br>mosquito<br>panic |  
+| bip_39_word_new_br4 | orange<br>mosquito<br>panic<br>vast |  
+| bip_39_word_new_br5 | orange<br>mosquito<br>panic<br>vast<br>puzzle |  
+| bip_39_word_new_br6 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic |  
+| bip_39_word_new_br7 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic<br>reveal |  
+| bip_39_word_new_br8 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic<br>reveal<br>corn |  
+| bip_39_word_new_br9 | orange<br>mosquito<br>panic<br>vast<br>puzzle<br>mechanic<br>reveal<br>corn<br>humble |  
+| bip_39_word_new_line1 | orange |  
+| bip_39_word_new_line10 | orange
+mosquito
+panic
+vast
+puzzle
+mechanic
+reveal
+corn
+humble
+heavy |  
+| bip_39_word_new_line11 | orange
+mosquito
+panic
+vast
+puzzle
+mechanic
+reveal
+corn
+humble
+heavy
+snow |  
+| bip_39_word_new_line12 | orange
+mosquito
+panic
+vast
+puzzle
+mechanic
+reveal
+corn
+humble
+heavy
+snow
+amused |  
+| bip_39_word_new_line2 | orange
+mosquito |  
+| bip_39_word_new_line3 | orange
+mosquito
+panic |  
+| bip_39_word_new_line4 | orange
+mosquito
+panic
+vast |  
+| bip_39_word_new_line5 | orange
+mosquito
+panic
+vast
+puzzle |  
+| bip_39_word_new_line6 | orange
+mosquito
+panic
+vast
+puzzle
+mechanic |  
+| bip_39_word_new_line7 | orange
+mosquito
+panic
+vast
+puzzle
+mechanic
+reveal |  
+| bip_39_word_new_line8 | orange
+mosquito
+panic
+vast
+puzzle
+mechanic
+reveal
+corn |  
+| bip_39_word_new_line9 | orange
+mosquito
+panic
+vast
+puzzle
+mechanic
+reveal
+corn
+humble |  
+| bip_39_word_space_0 | ['orange', 'mosquito', 'panic', 'vast', 'puzzle', 'mechanic', 'reveal', 'corn', 'humble', 'heavy', 'snow', 'amused'] |  
+| bip_39_word_space_1 | orange |  
+| bip_39_word_space_10 | orange mosquito panic vast puzzle mechanic reveal corn humble heavy |  
+| bip_39_word_space_11 | orange mosquito panic vast puzzle mechanic reveal corn humble heavy snow |  
+| bip_39_word_space_12 | orange mosquito panic vast puzzle mechanic reveal corn humble heavy snow amused |  
+| bip_39_word_space_2 | orange mosquito |  
+| bip_39_word_space_3 | orange mosquito panic |  
+| bip_39_word_space_4 | orange mosquito panic vast |  
+| bip_39_word_space_5 | orange mosquito panic vast puzzle |  
+| bip_39_word_space_6 | orange mosquito panic vast puzzle mechanic |  
+| bip_39_word_space_7 | orange mosquito panic vast puzzle mechanic reveal |  
+| bip_39_word_space_8 | orange mosquito panic vast puzzle mechanic reveal corn |  
+| bip_39_word_space_9 | orange mosquito panic vast puzzle mechanic reveal corn humble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

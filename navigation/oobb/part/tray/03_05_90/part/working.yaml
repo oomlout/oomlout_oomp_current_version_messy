@@ -1,3 +1,186 @@
+bip_39_word_new_br1: room
+bip_39_word_new_br10: room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic<br>room<br>smart<br>blue<br>cousin
+bip_39_word_new_br11: room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic<br>room<br>smart<br>blue<br>cousin<br>receive
+bip_39_word_new_br12: room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic<br>room<br>smart<br>blue<br>cousin<br>receive<br>arena
+bip_39_word_new_br2: room<br>awesome
+bip_39_word_new_br3: room<br>awesome<br>faith
+bip_39_word_new_br4: room<br>awesome<br>faith<br>purity
+bip_39_word_new_br5: room<br>awesome<br>faith<br>purity<br>cotton
+bip_39_word_new_br6: room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic
+bip_39_word_new_br7: room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic<br>room
+bip_39_word_new_br8: room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic<br>room<br>smart
+bip_39_word_new_br9: room<br>awesome<br>faith<br>purity<br>cotton<br>aerobic<br>room<br>smart<br>blue
+bip_39_word_new_line1: room
+bip_39_word_new_line10: 'room
+
+  awesome
+
+  faith
+
+  purity
+
+  cotton
+
+  aerobic
+
+  room
+
+  smart
+
+  blue
+
+  cousin'
+bip_39_word_new_line11: 'room
+
+  awesome
+
+  faith
+
+  purity
+
+  cotton
+
+  aerobic
+
+  room
+
+  smart
+
+  blue
+
+  cousin
+
+  receive'
+bip_39_word_new_line12: 'room
+
+  awesome
+
+  faith
+
+  purity
+
+  cotton
+
+  aerobic
+
+  room
+
+  smart
+
+  blue
+
+  cousin
+
+  receive
+
+  arena'
+bip_39_word_new_line2: 'room
+
+  awesome'
+bip_39_word_new_line3: 'room
+
+  awesome
+
+  faith'
+bip_39_word_new_line4: 'room
+
+  awesome
+
+  faith
+
+  purity'
+bip_39_word_new_line5: 'room
+
+  awesome
+
+  faith
+
+  purity
+
+  cotton'
+bip_39_word_new_line6: 'room
+
+  awesome
+
+  faith
+
+  purity
+
+  cotton
+
+  aerobic'
+bip_39_word_new_line7: 'room
+
+  awesome
+
+  faith
+
+  purity
+
+  cotton
+
+  aerobic
+
+  room'
+bip_39_word_new_line8: 'room
+
+  awesome
+
+  faith
+
+  purity
+
+  cotton
+
+  aerobic
+
+  room
+
+  smart'
+bip_39_word_new_line9: 'room
+
+  awesome
+
+  faith
+
+  purity
+
+  cotton
+
+  aerobic
+
+  room
+
+  smart
+
+  blue'
+bip_39_word_space_0:
+- room
+- awesome
+- faith
+- purity
+- cotton
+- aerobic
+- room
+- smart
+- blue
+- cousin
+- receive
+- arena
+bip_39_word_space_1: room
+bip_39_word_space_10: room awesome faith purity cotton aerobic room smart blue cousin
+bip_39_word_space_11: room awesome faith purity cotton aerobic room smart blue cousin
+  receive
+bip_39_word_space_12: room awesome faith purity cotton aerobic room smart blue cousin
+  receive arena
+bip_39_word_space_2: room awesome
+bip_39_word_space_3: room awesome faith
+bip_39_word_space_4: room awesome faith purity
+bip_39_word_space_5: room awesome faith purity cotton
+bip_39_word_space_6: room awesome faith purity cotton aerobic
+bip_39_word_space_7: room awesome faith purity cotton aerobic room
+bip_39_word_space_8: room awesome faith purity cotton aerobic room smart
+bip_39_word_space_9: room awesome faith purity cotton aerobic room smart blue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

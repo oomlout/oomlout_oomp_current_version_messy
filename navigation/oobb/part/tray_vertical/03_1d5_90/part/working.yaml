@@ -1,3 +1,187 @@
+bip_39_word_new_br1: topic
+bip_39_word_new_br10: topic<br>design<br>donate<br>stumble<br>smooth<br>retreat<br>trust<br>bunker<br>family<br>dress
+bip_39_word_new_br11: topic<br>design<br>donate<br>stumble<br>smooth<br>retreat<br>trust<br>bunker<br>family<br>dress<br>aerobic
+bip_39_word_new_br12: topic<br>design<br>donate<br>stumble<br>smooth<br>retreat<br>trust<br>bunker<br>family<br>dress<br>aerobic<br>assault
+bip_39_word_new_br2: topic<br>design
+bip_39_word_new_br3: topic<br>design<br>donate
+bip_39_word_new_br4: topic<br>design<br>donate<br>stumble
+bip_39_word_new_br5: topic<br>design<br>donate<br>stumble<br>smooth
+bip_39_word_new_br6: topic<br>design<br>donate<br>stumble<br>smooth<br>retreat
+bip_39_word_new_br7: topic<br>design<br>donate<br>stumble<br>smooth<br>retreat<br>trust
+bip_39_word_new_br8: topic<br>design<br>donate<br>stumble<br>smooth<br>retreat<br>trust<br>bunker
+bip_39_word_new_br9: topic<br>design<br>donate<br>stumble<br>smooth<br>retreat<br>trust<br>bunker<br>family
+bip_39_word_new_line1: topic
+bip_39_word_new_line10: 'topic
+
+  design
+
+  donate
+
+  stumble
+
+  smooth
+
+  retreat
+
+  trust
+
+  bunker
+
+  family
+
+  dress'
+bip_39_word_new_line11: 'topic
+
+  design
+
+  donate
+
+  stumble
+
+  smooth
+
+  retreat
+
+  trust
+
+  bunker
+
+  family
+
+  dress
+
+  aerobic'
+bip_39_word_new_line12: 'topic
+
+  design
+
+  donate
+
+  stumble
+
+  smooth
+
+  retreat
+
+  trust
+
+  bunker
+
+  family
+
+  dress
+
+  aerobic
+
+  assault'
+bip_39_word_new_line2: 'topic
+
+  design'
+bip_39_word_new_line3: 'topic
+
+  design
+
+  donate'
+bip_39_word_new_line4: 'topic
+
+  design
+
+  donate
+
+  stumble'
+bip_39_word_new_line5: 'topic
+
+  design
+
+  donate
+
+  stumble
+
+  smooth'
+bip_39_word_new_line6: 'topic
+
+  design
+
+  donate
+
+  stumble
+
+  smooth
+
+  retreat'
+bip_39_word_new_line7: 'topic
+
+  design
+
+  donate
+
+  stumble
+
+  smooth
+
+  retreat
+
+  trust'
+bip_39_word_new_line8: 'topic
+
+  design
+
+  donate
+
+  stumble
+
+  smooth
+
+  retreat
+
+  trust
+
+  bunker'
+bip_39_word_new_line9: 'topic
+
+  design
+
+  donate
+
+  stumble
+
+  smooth
+
+  retreat
+
+  trust
+
+  bunker
+
+  family'
+bip_39_word_space_0:
+- topic
+- design
+- donate
+- stumble
+- smooth
+- retreat
+- trust
+- bunker
+- family
+- dress
+- aerobic
+- assault
+bip_39_word_space_1: topic
+bip_39_word_space_10: topic design donate stumble smooth retreat trust bunker family
+  dress
+bip_39_word_space_11: topic design donate stumble smooth retreat trust bunker family
+  dress aerobic
+bip_39_word_space_12: topic design donate stumble smooth retreat trust bunker family
+  dress aerobic assault
+bip_39_word_space_2: topic design
+bip_39_word_space_3: topic design donate
+bip_39_word_space_4: topic design donate stumble
+bip_39_word_space_5: topic design donate stumble smooth
+bip_39_word_space_6: topic design donate stumble smooth retreat
+bip_39_word_space_7: topic design donate stumble smooth retreat trust
+bip_39_word_space_8: topic design donate stumble smooth retreat trust bunker
+bip_39_word_space_9: topic design donate stumble smooth retreat trust bunker family
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

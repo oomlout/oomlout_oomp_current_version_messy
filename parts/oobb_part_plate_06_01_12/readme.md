@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: citizen inherit
+  * bip 39 word 3: citizen inherit range
+  * bip 39 word: citizen inherit range uniform deliver dizzy sure mixture brand alcohol subject amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | citizen |  
+| bip_39_word_new_br10 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol |  
+| bip_39_word_new_br11 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol<br>subject |  
+| bip_39_word_new_br12 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand<br>alcohol<br>subject<br>amount |  
+| bip_39_word_new_br2 | citizen<br>inherit |  
+| bip_39_word_new_br3 | citizen<br>inherit<br>range |  
+| bip_39_word_new_br4 | citizen<br>inherit<br>range<br>uniform |  
+| bip_39_word_new_br5 | citizen<br>inherit<br>range<br>uniform<br>deliver |  
+| bip_39_word_new_br6 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy |  
+| bip_39_word_new_br7 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure |  
+| bip_39_word_new_br8 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture |  
+| bip_39_word_new_br9 | citizen<br>inherit<br>range<br>uniform<br>deliver<br>dizzy<br>sure<br>mixture<br>brand |  
+| bip_39_word_new_line1 | citizen |  
+| bip_39_word_new_line10 | citizen
+inherit
+range
+uniform
+deliver
+dizzy
+sure
+mixture
+brand
+alcohol |  
+| bip_39_word_new_line11 | citizen
+inherit
+range
+uniform
+deliver
+dizzy
+sure
+mixture
+brand
+alcohol
+subject |  
+| bip_39_word_new_line12 | citizen
+inherit
+range
+uniform
+deliver
+dizzy
+sure
+mixture
+brand
+alcohol
+subject
+amount |  
+| bip_39_word_new_line2 | citizen
+inherit |  
+| bip_39_word_new_line3 | citizen
+inherit
+range |  
+| bip_39_word_new_line4 | citizen
+inherit
+range
+uniform |  
+| bip_39_word_new_line5 | citizen
+inherit
+range
+uniform
+deliver |  
+| bip_39_word_new_line6 | citizen
+inherit
+range
+uniform
+deliver
+dizzy |  
+| bip_39_word_new_line7 | citizen
+inherit
+range
+uniform
+deliver
+dizzy
+sure |  
+| bip_39_word_new_line8 | citizen
+inherit
+range
+uniform
+deliver
+dizzy
+sure
+mixture |  
+| bip_39_word_new_line9 | citizen
+inherit
+range
+uniform
+deliver
+dizzy
+sure
+mixture
+brand |  
+| bip_39_word_space_0 | ['citizen', 'inherit', 'range', 'uniform', 'deliver', 'dizzy', 'sure', 'mixture', 'brand', 'alcohol', 'subject', 'amount'] |  
+| bip_39_word_space_1 | citizen |  
+| bip_39_word_space_10 | citizen inherit range uniform deliver dizzy sure mixture brand alcohol |  
+| bip_39_word_space_11 | citizen inherit range uniform deliver dizzy sure mixture brand alcohol subject |  
+| bip_39_word_space_12 | citizen inherit range uniform deliver dizzy sure mixture brand alcohol subject amount |  
+| bip_39_word_space_2 | citizen inherit |  
+| bip_39_word_space_3 | citizen inherit range |  
+| bip_39_word_space_4 | citizen inherit range uniform |  
+| bip_39_word_space_5 | citizen inherit range uniform deliver |  
+| bip_39_word_space_6 | citizen inherit range uniform deliver dizzy |  
+| bip_39_word_space_7 | citizen inherit range uniform deliver dizzy sure |  
+| bip_39_word_space_8 | citizen inherit range uniform deliver dizzy sure mixture |  
+| bip_39_word_space_9 | citizen inherit range uniform deliver dizzy sure mixture brand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

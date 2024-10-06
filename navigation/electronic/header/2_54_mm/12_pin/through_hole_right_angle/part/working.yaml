@@ -1,3 +1,187 @@
+bip_39_word_new_br1: moral
+bip_39_word_new_br10: moral<br>cushion<br>betray<br>please<br>injury<br>affair<br>picnic<br>jeans<br>museum<br>impact
+bip_39_word_new_br11: moral<br>cushion<br>betray<br>please<br>injury<br>affair<br>picnic<br>jeans<br>museum<br>impact<br>kitten
+bip_39_word_new_br12: moral<br>cushion<br>betray<br>please<br>injury<br>affair<br>picnic<br>jeans<br>museum<br>impact<br>kitten<br>amateur
+bip_39_word_new_br2: moral<br>cushion
+bip_39_word_new_br3: moral<br>cushion<br>betray
+bip_39_word_new_br4: moral<br>cushion<br>betray<br>please
+bip_39_word_new_br5: moral<br>cushion<br>betray<br>please<br>injury
+bip_39_word_new_br6: moral<br>cushion<br>betray<br>please<br>injury<br>affair
+bip_39_word_new_br7: moral<br>cushion<br>betray<br>please<br>injury<br>affair<br>picnic
+bip_39_word_new_br8: moral<br>cushion<br>betray<br>please<br>injury<br>affair<br>picnic<br>jeans
+bip_39_word_new_br9: moral<br>cushion<br>betray<br>please<br>injury<br>affair<br>picnic<br>jeans<br>museum
+bip_39_word_new_line1: moral
+bip_39_word_new_line10: 'moral
+
+  cushion
+
+  betray
+
+  please
+
+  injury
+
+  affair
+
+  picnic
+
+  jeans
+
+  museum
+
+  impact'
+bip_39_word_new_line11: 'moral
+
+  cushion
+
+  betray
+
+  please
+
+  injury
+
+  affair
+
+  picnic
+
+  jeans
+
+  museum
+
+  impact
+
+  kitten'
+bip_39_word_new_line12: 'moral
+
+  cushion
+
+  betray
+
+  please
+
+  injury
+
+  affair
+
+  picnic
+
+  jeans
+
+  museum
+
+  impact
+
+  kitten
+
+  amateur'
+bip_39_word_new_line2: 'moral
+
+  cushion'
+bip_39_word_new_line3: 'moral
+
+  cushion
+
+  betray'
+bip_39_word_new_line4: 'moral
+
+  cushion
+
+  betray
+
+  please'
+bip_39_word_new_line5: 'moral
+
+  cushion
+
+  betray
+
+  please
+
+  injury'
+bip_39_word_new_line6: 'moral
+
+  cushion
+
+  betray
+
+  please
+
+  injury
+
+  affair'
+bip_39_word_new_line7: 'moral
+
+  cushion
+
+  betray
+
+  please
+
+  injury
+
+  affair
+
+  picnic'
+bip_39_word_new_line8: 'moral
+
+  cushion
+
+  betray
+
+  please
+
+  injury
+
+  affair
+
+  picnic
+
+  jeans'
+bip_39_word_new_line9: 'moral
+
+  cushion
+
+  betray
+
+  please
+
+  injury
+
+  affair
+
+  picnic
+
+  jeans
+
+  museum'
+bip_39_word_space_0:
+- moral
+- cushion
+- betray
+- please
+- injury
+- affair
+- picnic
+- jeans
+- museum
+- impact
+- kitten
+- amateur
+bip_39_word_space_1: moral
+bip_39_word_space_10: moral cushion betray please injury affair picnic jeans museum
+  impact
+bip_39_word_space_11: moral cushion betray please injury affair picnic jeans museum
+  impact kitten
+bip_39_word_space_12: moral cushion betray please injury affair picnic jeans museum
+  impact kitten amateur
+bip_39_word_space_2: moral cushion
+bip_39_word_space_3: moral cushion betray
+bip_39_word_space_4: moral cushion betray please
+bip_39_word_space_5: moral cushion betray please injury
+bip_39_word_space_6: moral cushion betray please injury affair
+bip_39_word_space_7: moral cushion betray please injury affair picnic
+bip_39_word_space_8: moral cushion betray please injury affair picnic jeans
+bip_39_word_space_9: moral cushion betray please injury affair picnic jeans museum
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

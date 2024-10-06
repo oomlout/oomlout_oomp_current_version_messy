@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: law indicate
+  * bip 39 word 3: law indicate prosper
+  * bip 39 word: law indicate prosper rebel carry dice hero sausage captain alien adapt amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | law |  
+| bip_39_word_new_br10 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice<br>hero<br>sausage<br>captain<br>alien |  
+| bip_39_word_new_br11 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice<br>hero<br>sausage<br>captain<br>alien<br>adapt |  
+| bip_39_word_new_br12 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice<br>hero<br>sausage<br>captain<br>alien<br>adapt<br>amused |  
+| bip_39_word_new_br2 | law<br>indicate |  
+| bip_39_word_new_br3 | law<br>indicate<br>prosper |  
+| bip_39_word_new_br4 | law<br>indicate<br>prosper<br>rebel |  
+| bip_39_word_new_br5 | law<br>indicate<br>prosper<br>rebel<br>carry |  
+| bip_39_word_new_br6 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice |  
+| bip_39_word_new_br7 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice<br>hero |  
+| bip_39_word_new_br8 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice<br>hero<br>sausage |  
+| bip_39_word_new_br9 | law<br>indicate<br>prosper<br>rebel<br>carry<br>dice<br>hero<br>sausage<br>captain |  
+| bip_39_word_new_line1 | law |  
+| bip_39_word_new_line10 | law
+indicate
+prosper
+rebel
+carry
+dice
+hero
+sausage
+captain
+alien |  
+| bip_39_word_new_line11 | law
+indicate
+prosper
+rebel
+carry
+dice
+hero
+sausage
+captain
+alien
+adapt |  
+| bip_39_word_new_line12 | law
+indicate
+prosper
+rebel
+carry
+dice
+hero
+sausage
+captain
+alien
+adapt
+amused |  
+| bip_39_word_new_line2 | law
+indicate |  
+| bip_39_word_new_line3 | law
+indicate
+prosper |  
+| bip_39_word_new_line4 | law
+indicate
+prosper
+rebel |  
+| bip_39_word_new_line5 | law
+indicate
+prosper
+rebel
+carry |  
+| bip_39_word_new_line6 | law
+indicate
+prosper
+rebel
+carry
+dice |  
+| bip_39_word_new_line7 | law
+indicate
+prosper
+rebel
+carry
+dice
+hero |  
+| bip_39_word_new_line8 | law
+indicate
+prosper
+rebel
+carry
+dice
+hero
+sausage |  
+| bip_39_word_new_line9 | law
+indicate
+prosper
+rebel
+carry
+dice
+hero
+sausage
+captain |  
+| bip_39_word_space_0 | ['law', 'indicate', 'prosper', 'rebel', 'carry', 'dice', 'hero', 'sausage', 'captain', 'alien', 'adapt', 'amused'] |  
+| bip_39_word_space_1 | law |  
+| bip_39_word_space_10 | law indicate prosper rebel carry dice hero sausage captain alien |  
+| bip_39_word_space_11 | law indicate prosper rebel carry dice hero sausage captain alien adapt |  
+| bip_39_word_space_12 | law indicate prosper rebel carry dice hero sausage captain alien adapt amused |  
+| bip_39_word_space_2 | law indicate |  
+| bip_39_word_space_3 | law indicate prosper |  
+| bip_39_word_space_4 | law indicate prosper rebel |  
+| bip_39_word_space_5 | law indicate prosper rebel carry |  
+| bip_39_word_space_6 | law indicate prosper rebel carry dice |  
+| bip_39_word_space_7 | law indicate prosper rebel carry dice hero |  
+| bip_39_word_space_8 | law indicate prosper rebel carry dice hero sausage |  
+| bip_39_word_space_9 | law indicate prosper rebel carry dice hero sausage captain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

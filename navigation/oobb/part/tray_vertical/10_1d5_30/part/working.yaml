@@ -1,3 +1,186 @@
+bip_39_word_new_br1: angry
+bip_39_word_new_br10: angry<br>injury<br>worth<br>moral<br>hockey<br>bacon<br>mercy<br>earth<br>coral<br>cereal
+bip_39_word_new_br11: angry<br>injury<br>worth<br>moral<br>hockey<br>bacon<br>mercy<br>earth<br>coral<br>cereal<br>night
+bip_39_word_new_br12: angry<br>injury<br>worth<br>moral<br>hockey<br>bacon<br>mercy<br>earth<br>coral<br>cereal<br>night<br>acquire
+bip_39_word_new_br2: angry<br>injury
+bip_39_word_new_br3: angry<br>injury<br>worth
+bip_39_word_new_br4: angry<br>injury<br>worth<br>moral
+bip_39_word_new_br5: angry<br>injury<br>worth<br>moral<br>hockey
+bip_39_word_new_br6: angry<br>injury<br>worth<br>moral<br>hockey<br>bacon
+bip_39_word_new_br7: angry<br>injury<br>worth<br>moral<br>hockey<br>bacon<br>mercy
+bip_39_word_new_br8: angry<br>injury<br>worth<br>moral<br>hockey<br>bacon<br>mercy<br>earth
+bip_39_word_new_br9: angry<br>injury<br>worth<br>moral<br>hockey<br>bacon<br>mercy<br>earth<br>coral
+bip_39_word_new_line1: angry
+bip_39_word_new_line10: 'angry
+
+  injury
+
+  worth
+
+  moral
+
+  hockey
+
+  bacon
+
+  mercy
+
+  earth
+
+  coral
+
+  cereal'
+bip_39_word_new_line11: 'angry
+
+  injury
+
+  worth
+
+  moral
+
+  hockey
+
+  bacon
+
+  mercy
+
+  earth
+
+  coral
+
+  cereal
+
+  night'
+bip_39_word_new_line12: 'angry
+
+  injury
+
+  worth
+
+  moral
+
+  hockey
+
+  bacon
+
+  mercy
+
+  earth
+
+  coral
+
+  cereal
+
+  night
+
+  acquire'
+bip_39_word_new_line2: 'angry
+
+  injury'
+bip_39_word_new_line3: 'angry
+
+  injury
+
+  worth'
+bip_39_word_new_line4: 'angry
+
+  injury
+
+  worth
+
+  moral'
+bip_39_word_new_line5: 'angry
+
+  injury
+
+  worth
+
+  moral
+
+  hockey'
+bip_39_word_new_line6: 'angry
+
+  injury
+
+  worth
+
+  moral
+
+  hockey
+
+  bacon'
+bip_39_word_new_line7: 'angry
+
+  injury
+
+  worth
+
+  moral
+
+  hockey
+
+  bacon
+
+  mercy'
+bip_39_word_new_line8: 'angry
+
+  injury
+
+  worth
+
+  moral
+
+  hockey
+
+  bacon
+
+  mercy
+
+  earth'
+bip_39_word_new_line9: 'angry
+
+  injury
+
+  worth
+
+  moral
+
+  hockey
+
+  bacon
+
+  mercy
+
+  earth
+
+  coral'
+bip_39_word_space_0:
+- angry
+- injury
+- worth
+- moral
+- hockey
+- bacon
+- mercy
+- earth
+- coral
+- cereal
+- night
+- acquire
+bip_39_word_space_1: angry
+bip_39_word_space_10: angry injury worth moral hockey bacon mercy earth coral cereal
+bip_39_word_space_11: angry injury worth moral hockey bacon mercy earth coral cereal
+  night
+bip_39_word_space_12: angry injury worth moral hockey bacon mercy earth coral cereal
+  night acquire
+bip_39_word_space_2: angry injury
+bip_39_word_space_3: angry injury worth
+bip_39_word_space_4: angry injury worth moral
+bip_39_word_space_5: angry injury worth moral hockey
+bip_39_word_space_6: angry injury worth moral hockey bacon
+bip_39_word_space_7: angry injury worth moral hockey bacon mercy
+bip_39_word_space_8: angry injury worth moral hockey bacon mercy earth
+bip_39_word_space_9: angry injury worth moral hockey bacon mercy earth coral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: maze similar
+  * bip 39 word 3: maze similar you
+  * bip 39 word: maze similar you wolf until pen kiwi salt soda oil bag august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | maze |  
+| bip_39_word_new_br10 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil |  
+| bip_39_word_new_br11 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil<br>bag |  
+| bip_39_word_new_br12 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda<br>oil<br>bag<br>august |  
+| bip_39_word_new_br2 | maze<br>similar |  
+| bip_39_word_new_br3 | maze<br>similar<br>you |  
+| bip_39_word_new_br4 | maze<br>similar<br>you<br>wolf |  
+| bip_39_word_new_br5 | maze<br>similar<br>you<br>wolf<br>until |  
+| bip_39_word_new_br6 | maze<br>similar<br>you<br>wolf<br>until<br>pen |  
+| bip_39_word_new_br7 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi |  
+| bip_39_word_new_br8 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt |  
+| bip_39_word_new_br9 | maze<br>similar<br>you<br>wolf<br>until<br>pen<br>kiwi<br>salt<br>soda |  
+| bip_39_word_new_line1 | maze |  
+| bip_39_word_new_line10 | maze
+similar
+you
+wolf
+until
+pen
+kiwi
+salt
+soda
+oil |  
+| bip_39_word_new_line11 | maze
+similar
+you
+wolf
+until
+pen
+kiwi
+salt
+soda
+oil
+bag |  
+| bip_39_word_new_line12 | maze
+similar
+you
+wolf
+until
+pen
+kiwi
+salt
+soda
+oil
+bag
+august |  
+| bip_39_word_new_line2 | maze
+similar |  
+| bip_39_word_new_line3 | maze
+similar
+you |  
+| bip_39_word_new_line4 | maze
+similar
+you
+wolf |  
+| bip_39_word_new_line5 | maze
+similar
+you
+wolf
+until |  
+| bip_39_word_new_line6 | maze
+similar
+you
+wolf
+until
+pen |  
+| bip_39_word_new_line7 | maze
+similar
+you
+wolf
+until
+pen
+kiwi |  
+| bip_39_word_new_line8 | maze
+similar
+you
+wolf
+until
+pen
+kiwi
+salt |  
+| bip_39_word_new_line9 | maze
+similar
+you
+wolf
+until
+pen
+kiwi
+salt
+soda |  
+| bip_39_word_space_0 | ['maze', 'similar', 'you', 'wolf', 'until', 'pen', 'kiwi', 'salt', 'soda', 'oil', 'bag', 'august'] |  
+| bip_39_word_space_1 | maze |  
+| bip_39_word_space_10 | maze similar you wolf until pen kiwi salt soda oil |  
+| bip_39_word_space_11 | maze similar you wolf until pen kiwi salt soda oil bag |  
+| bip_39_word_space_12 | maze similar you wolf until pen kiwi salt soda oil bag august |  
+| bip_39_word_space_2 | maze similar |  
+| bip_39_word_space_3 | maze similar you |  
+| bip_39_word_space_4 | maze similar you wolf |  
+| bip_39_word_space_5 | maze similar you wolf until |  
+| bip_39_word_space_6 | maze similar you wolf until pen |  
+| bip_39_word_space_7 | maze similar you wolf until pen kiwi |  
+| bip_39_word_space_8 | maze similar you wolf until pen kiwi salt |  
+| bip_39_word_space_9 | maze similar you wolf until pen kiwi salt soda |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: result
+bip_39_word_new_br10: result<br>lamp<br>fuel<br>page<br>grow<br>mirror<br>destroy<br>ginger<br>level<br>suffer
+bip_39_word_new_br11: result<br>lamp<br>fuel<br>page<br>grow<br>mirror<br>destroy<br>ginger<br>level<br>suffer<br>glass
+bip_39_word_new_br12: result<br>lamp<br>fuel<br>page<br>grow<br>mirror<br>destroy<br>ginger<br>level<br>suffer<br>glass<br>all
+bip_39_word_new_br2: result<br>lamp
+bip_39_word_new_br3: result<br>lamp<br>fuel
+bip_39_word_new_br4: result<br>lamp<br>fuel<br>page
+bip_39_word_new_br5: result<br>lamp<br>fuel<br>page<br>grow
+bip_39_word_new_br6: result<br>lamp<br>fuel<br>page<br>grow<br>mirror
+bip_39_word_new_br7: result<br>lamp<br>fuel<br>page<br>grow<br>mirror<br>destroy
+bip_39_word_new_br8: result<br>lamp<br>fuel<br>page<br>grow<br>mirror<br>destroy<br>ginger
+bip_39_word_new_br9: result<br>lamp<br>fuel<br>page<br>grow<br>mirror<br>destroy<br>ginger<br>level
+bip_39_word_new_line1: result
+bip_39_word_new_line10: 'result
+
+  lamp
+
+  fuel
+
+  page
+
+  grow
+
+  mirror
+
+  destroy
+
+  ginger
+
+  level
+
+  suffer'
+bip_39_word_new_line11: 'result
+
+  lamp
+
+  fuel
+
+  page
+
+  grow
+
+  mirror
+
+  destroy
+
+  ginger
+
+  level
+
+  suffer
+
+  glass'
+bip_39_word_new_line12: 'result
+
+  lamp
+
+  fuel
+
+  page
+
+  grow
+
+  mirror
+
+  destroy
+
+  ginger
+
+  level
+
+  suffer
+
+  glass
+
+  all'
+bip_39_word_new_line2: 'result
+
+  lamp'
+bip_39_word_new_line3: 'result
+
+  lamp
+
+  fuel'
+bip_39_word_new_line4: 'result
+
+  lamp
+
+  fuel
+
+  page'
+bip_39_word_new_line5: 'result
+
+  lamp
+
+  fuel
+
+  page
+
+  grow'
+bip_39_word_new_line6: 'result
+
+  lamp
+
+  fuel
+
+  page
+
+  grow
+
+  mirror'
+bip_39_word_new_line7: 'result
+
+  lamp
+
+  fuel
+
+  page
+
+  grow
+
+  mirror
+
+  destroy'
+bip_39_word_new_line8: 'result
+
+  lamp
+
+  fuel
+
+  page
+
+  grow
+
+  mirror
+
+  destroy
+
+  ginger'
+bip_39_word_new_line9: 'result
+
+  lamp
+
+  fuel
+
+  page
+
+  grow
+
+  mirror
+
+  destroy
+
+  ginger
+
+  level'
+bip_39_word_space_0:
+- result
+- lamp
+- fuel
+- page
+- grow
+- mirror
+- destroy
+- ginger
+- level
+- suffer
+- glass
+- all
+bip_39_word_space_1: result
+bip_39_word_space_10: result lamp fuel page grow mirror destroy ginger level suffer
+bip_39_word_space_11: result lamp fuel page grow mirror destroy ginger level suffer
+  glass
+bip_39_word_space_12: result lamp fuel page grow mirror destroy ginger level suffer
+  glass all
+bip_39_word_space_2: result lamp
+bip_39_word_space_3: result lamp fuel
+bip_39_word_space_4: result lamp fuel page
+bip_39_word_space_5: result lamp fuel page grow
+bip_39_word_space_6: result lamp fuel page grow mirror
+bip_39_word_space_7: result lamp fuel page grow mirror destroy
+bip_39_word_space_8: result lamp fuel page grow mirror destroy ginger
+bip_39_word_space_9: result lamp fuel page grow mirror destroy ginger level
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

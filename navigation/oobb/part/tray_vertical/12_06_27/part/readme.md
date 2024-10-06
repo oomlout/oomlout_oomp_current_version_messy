@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: weird resemble
+  * bip 39 word 3: weird resemble final
+  * bip 39 word: weird resemble final settle unfair seed disagree wife axis grid autumn aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | weird |  
+| bip_39_word_new_br10 | weird<br>resemble<br>final<br>settle<br>unfair<br>seed<br>disagree<br>wife<br>axis<br>grid |  
+| bip_39_word_new_br11 | weird<br>resemble<br>final<br>settle<br>unfair<br>seed<br>disagree<br>wife<br>axis<br>grid<br>autumn |  
+| bip_39_word_new_br12 | weird<br>resemble<br>final<br>settle<br>unfair<br>seed<br>disagree<br>wife<br>axis<br>grid<br>autumn<br>aerobic |  
+| bip_39_word_new_br2 | weird<br>resemble |  
+| bip_39_word_new_br3 | weird<br>resemble<br>final |  
+| bip_39_word_new_br4 | weird<br>resemble<br>final<br>settle |  
+| bip_39_word_new_br5 | weird<br>resemble<br>final<br>settle<br>unfair |  
+| bip_39_word_new_br6 | weird<br>resemble<br>final<br>settle<br>unfair<br>seed |  
+| bip_39_word_new_br7 | weird<br>resemble<br>final<br>settle<br>unfair<br>seed<br>disagree |  
+| bip_39_word_new_br8 | weird<br>resemble<br>final<br>settle<br>unfair<br>seed<br>disagree<br>wife |  
+| bip_39_word_new_br9 | weird<br>resemble<br>final<br>settle<br>unfair<br>seed<br>disagree<br>wife<br>axis |  
+| bip_39_word_new_line1 | weird |  
+| bip_39_word_new_line10 | weird
+resemble
+final
+settle
+unfair
+seed
+disagree
+wife
+axis
+grid |  
+| bip_39_word_new_line11 | weird
+resemble
+final
+settle
+unfair
+seed
+disagree
+wife
+axis
+grid
+autumn |  
+| bip_39_word_new_line12 | weird
+resemble
+final
+settle
+unfair
+seed
+disagree
+wife
+axis
+grid
+autumn
+aerobic |  
+| bip_39_word_new_line2 | weird
+resemble |  
+| bip_39_word_new_line3 | weird
+resemble
+final |  
+| bip_39_word_new_line4 | weird
+resemble
+final
+settle |  
+| bip_39_word_new_line5 | weird
+resemble
+final
+settle
+unfair |  
+| bip_39_word_new_line6 | weird
+resemble
+final
+settle
+unfair
+seed |  
+| bip_39_word_new_line7 | weird
+resemble
+final
+settle
+unfair
+seed
+disagree |  
+| bip_39_word_new_line8 | weird
+resemble
+final
+settle
+unfair
+seed
+disagree
+wife |  
+| bip_39_word_new_line9 | weird
+resemble
+final
+settle
+unfair
+seed
+disagree
+wife
+axis |  
+| bip_39_word_space_0 | ['weird', 'resemble', 'final', 'settle', 'unfair', 'seed', 'disagree', 'wife', 'axis', 'grid', 'autumn', 'aerobic'] |  
+| bip_39_word_space_1 | weird |  
+| bip_39_word_space_10 | weird resemble final settle unfair seed disagree wife axis grid |  
+| bip_39_word_space_11 | weird resemble final settle unfair seed disagree wife axis grid autumn |  
+| bip_39_word_space_12 | weird resemble final settle unfair seed disagree wife axis grid autumn aerobic |  
+| bip_39_word_space_2 | weird resemble |  
+| bip_39_word_space_3 | weird resemble final |  
+| bip_39_word_space_4 | weird resemble final settle |  
+| bip_39_word_space_5 | weird resemble final settle unfair |  
+| bip_39_word_space_6 | weird resemble final settle unfair seed |  
+| bip_39_word_space_7 | weird resemble final settle unfair seed disagree |  
+| bip_39_word_space_8 | weird resemble final settle unfair seed disagree wife |  
+| bip_39_word_space_9 | weird resemble final settle unfair seed disagree wife axis |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

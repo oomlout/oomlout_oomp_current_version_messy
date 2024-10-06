@@ -1,3 +1,187 @@
+bip_39_word_new_br1: stumble
+bip_39_word_new_br10: stumble<br>family<br>pulp<br>apology<br>ordinary<br>trouble<br>giggle<br>illness<br>alter<br>front
+bip_39_word_new_br11: stumble<br>family<br>pulp<br>apology<br>ordinary<br>trouble<br>giggle<br>illness<br>alter<br>front<br>valid
+bip_39_word_new_br12: stumble<br>family<br>pulp<br>apology<br>ordinary<br>trouble<br>giggle<br>illness<br>alter<br>front<br>valid<br>angle
+bip_39_word_new_br2: stumble<br>family
+bip_39_word_new_br3: stumble<br>family<br>pulp
+bip_39_word_new_br4: stumble<br>family<br>pulp<br>apology
+bip_39_word_new_br5: stumble<br>family<br>pulp<br>apology<br>ordinary
+bip_39_word_new_br6: stumble<br>family<br>pulp<br>apology<br>ordinary<br>trouble
+bip_39_word_new_br7: stumble<br>family<br>pulp<br>apology<br>ordinary<br>trouble<br>giggle
+bip_39_word_new_br8: stumble<br>family<br>pulp<br>apology<br>ordinary<br>trouble<br>giggle<br>illness
+bip_39_word_new_br9: stumble<br>family<br>pulp<br>apology<br>ordinary<br>trouble<br>giggle<br>illness<br>alter
+bip_39_word_new_line1: stumble
+bip_39_word_new_line10: 'stumble
+
+  family
+
+  pulp
+
+  apology
+
+  ordinary
+
+  trouble
+
+  giggle
+
+  illness
+
+  alter
+
+  front'
+bip_39_word_new_line11: 'stumble
+
+  family
+
+  pulp
+
+  apology
+
+  ordinary
+
+  trouble
+
+  giggle
+
+  illness
+
+  alter
+
+  front
+
+  valid'
+bip_39_word_new_line12: 'stumble
+
+  family
+
+  pulp
+
+  apology
+
+  ordinary
+
+  trouble
+
+  giggle
+
+  illness
+
+  alter
+
+  front
+
+  valid
+
+  angle'
+bip_39_word_new_line2: 'stumble
+
+  family'
+bip_39_word_new_line3: 'stumble
+
+  family
+
+  pulp'
+bip_39_word_new_line4: 'stumble
+
+  family
+
+  pulp
+
+  apology'
+bip_39_word_new_line5: 'stumble
+
+  family
+
+  pulp
+
+  apology
+
+  ordinary'
+bip_39_word_new_line6: 'stumble
+
+  family
+
+  pulp
+
+  apology
+
+  ordinary
+
+  trouble'
+bip_39_word_new_line7: 'stumble
+
+  family
+
+  pulp
+
+  apology
+
+  ordinary
+
+  trouble
+
+  giggle'
+bip_39_word_new_line8: 'stumble
+
+  family
+
+  pulp
+
+  apology
+
+  ordinary
+
+  trouble
+
+  giggle
+
+  illness'
+bip_39_word_new_line9: 'stumble
+
+  family
+
+  pulp
+
+  apology
+
+  ordinary
+
+  trouble
+
+  giggle
+
+  illness
+
+  alter'
+bip_39_word_space_0:
+- stumble
+- family
+- pulp
+- apology
+- ordinary
+- trouble
+- giggle
+- illness
+- alter
+- front
+- valid
+- angle
+bip_39_word_space_1: stumble
+bip_39_word_space_10: stumble family pulp apology ordinary trouble giggle illness
+  alter front
+bip_39_word_space_11: stumble family pulp apology ordinary trouble giggle illness
+  alter front valid
+bip_39_word_space_12: stumble family pulp apology ordinary trouble giggle illness
+  alter front valid angle
+bip_39_word_space_2: stumble family
+bip_39_word_space_3: stumble family pulp
+bip_39_word_space_4: stumble family pulp apology
+bip_39_word_space_5: stumble family pulp apology ordinary
+bip_39_word_space_6: stumble family pulp apology ordinary trouble
+bip_39_word_space_7: stumble family pulp apology ordinary trouble giggle
+bip_39_word_space_8: stumble family pulp apology ordinary trouble giggle illness
+bip_39_word_space_9: stumble family pulp apology ordinary trouble giggle illness alter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

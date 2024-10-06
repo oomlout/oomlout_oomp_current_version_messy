@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fragile clutch
+  * bip 39 word 3: fragile clutch ski
+  * bip 39 word: fragile clutch ski cabbage dial spare scare input list feel evidence arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fragile |  
+| bip_39_word_new_br10 | fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare<br>scare<br>input<br>list<br>feel |  
+| bip_39_word_new_br11 | fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare<br>scare<br>input<br>list<br>feel<br>evidence |  
+| bip_39_word_new_br12 | fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare<br>scare<br>input<br>list<br>feel<br>evidence<br>arrange |  
+| bip_39_word_new_br2 | fragile<br>clutch |  
+| bip_39_word_new_br3 | fragile<br>clutch<br>ski |  
+| bip_39_word_new_br4 | fragile<br>clutch<br>ski<br>cabbage |  
+| bip_39_word_new_br5 | fragile<br>clutch<br>ski<br>cabbage<br>dial |  
+| bip_39_word_new_br6 | fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare |  
+| bip_39_word_new_br7 | fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare<br>scare |  
+| bip_39_word_new_br8 | fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare<br>scare<br>input |  
+| bip_39_word_new_br9 | fragile<br>clutch<br>ski<br>cabbage<br>dial<br>spare<br>scare<br>input<br>list |  
+| bip_39_word_new_line1 | fragile |  
+| bip_39_word_new_line10 | fragile
+clutch
+ski
+cabbage
+dial
+spare
+scare
+input
+list
+feel |  
+| bip_39_word_new_line11 | fragile
+clutch
+ski
+cabbage
+dial
+spare
+scare
+input
+list
+feel
+evidence |  
+| bip_39_word_new_line12 | fragile
+clutch
+ski
+cabbage
+dial
+spare
+scare
+input
+list
+feel
+evidence
+arrange |  
+| bip_39_word_new_line2 | fragile
+clutch |  
+| bip_39_word_new_line3 | fragile
+clutch
+ski |  
+| bip_39_word_new_line4 | fragile
+clutch
+ski
+cabbage |  
+| bip_39_word_new_line5 | fragile
+clutch
+ski
+cabbage
+dial |  
+| bip_39_word_new_line6 | fragile
+clutch
+ski
+cabbage
+dial
+spare |  
+| bip_39_word_new_line7 | fragile
+clutch
+ski
+cabbage
+dial
+spare
+scare |  
+| bip_39_word_new_line8 | fragile
+clutch
+ski
+cabbage
+dial
+spare
+scare
+input |  
+| bip_39_word_new_line9 | fragile
+clutch
+ski
+cabbage
+dial
+spare
+scare
+input
+list |  
+| bip_39_word_space_0 | ['fragile', 'clutch', 'ski', 'cabbage', 'dial', 'spare', 'scare', 'input', 'list', 'feel', 'evidence', 'arrange'] |  
+| bip_39_word_space_1 | fragile |  
+| bip_39_word_space_10 | fragile clutch ski cabbage dial spare scare input list feel |  
+| bip_39_word_space_11 | fragile clutch ski cabbage dial spare scare input list feel evidence |  
+| bip_39_word_space_12 | fragile clutch ski cabbage dial spare scare input list feel evidence arrange |  
+| bip_39_word_space_2 | fragile clutch |  
+| bip_39_word_space_3 | fragile clutch ski |  
+| bip_39_word_space_4 | fragile clutch ski cabbage |  
+| bip_39_word_space_5 | fragile clutch ski cabbage dial |  
+| bip_39_word_space_6 | fragile clutch ski cabbage dial spare |  
+| bip_39_word_space_7 | fragile clutch ski cabbage dial spare scare |  
+| bip_39_word_space_8 | fragile clutch ski cabbage dial spare scare input |  
+| bip_39_word_space_9 | fragile clutch ski cabbage dial spare scare input list |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shadow when
+  * bip 39 word 3: shadow when robust
+  * bip 39 word: shadow when robust flush release genuine seven chronic fruit tomato iron afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shadow |  
+| bip_39_word_new_br10 | shadow<br>when<br>robust<br>flush<br>release<br>genuine<br>seven<br>chronic<br>fruit<br>tomato |  
+| bip_39_word_new_br11 | shadow<br>when<br>robust<br>flush<br>release<br>genuine<br>seven<br>chronic<br>fruit<br>tomato<br>iron |  
+| bip_39_word_new_br12 | shadow<br>when<br>robust<br>flush<br>release<br>genuine<br>seven<br>chronic<br>fruit<br>tomato<br>iron<br>afford |  
+| bip_39_word_new_br2 | shadow<br>when |  
+| bip_39_word_new_br3 | shadow<br>when<br>robust |  
+| bip_39_word_new_br4 | shadow<br>when<br>robust<br>flush |  
+| bip_39_word_new_br5 | shadow<br>when<br>robust<br>flush<br>release |  
+| bip_39_word_new_br6 | shadow<br>when<br>robust<br>flush<br>release<br>genuine |  
+| bip_39_word_new_br7 | shadow<br>when<br>robust<br>flush<br>release<br>genuine<br>seven |  
+| bip_39_word_new_br8 | shadow<br>when<br>robust<br>flush<br>release<br>genuine<br>seven<br>chronic |  
+| bip_39_word_new_br9 | shadow<br>when<br>robust<br>flush<br>release<br>genuine<br>seven<br>chronic<br>fruit |  
+| bip_39_word_new_line1 | shadow |  
+| bip_39_word_new_line10 | shadow
+when
+robust
+flush
+release
+genuine
+seven
+chronic
+fruit
+tomato |  
+| bip_39_word_new_line11 | shadow
+when
+robust
+flush
+release
+genuine
+seven
+chronic
+fruit
+tomato
+iron |  
+| bip_39_word_new_line12 | shadow
+when
+robust
+flush
+release
+genuine
+seven
+chronic
+fruit
+tomato
+iron
+afford |  
+| bip_39_word_new_line2 | shadow
+when |  
+| bip_39_word_new_line3 | shadow
+when
+robust |  
+| bip_39_word_new_line4 | shadow
+when
+robust
+flush |  
+| bip_39_word_new_line5 | shadow
+when
+robust
+flush
+release |  
+| bip_39_word_new_line6 | shadow
+when
+robust
+flush
+release
+genuine |  
+| bip_39_word_new_line7 | shadow
+when
+robust
+flush
+release
+genuine
+seven |  
+| bip_39_word_new_line8 | shadow
+when
+robust
+flush
+release
+genuine
+seven
+chronic |  
+| bip_39_word_new_line9 | shadow
+when
+robust
+flush
+release
+genuine
+seven
+chronic
+fruit |  
+| bip_39_word_space_0 | ['shadow', 'when', 'robust', 'flush', 'release', 'genuine', 'seven', 'chronic', 'fruit', 'tomato', 'iron', 'afford'] |  
+| bip_39_word_space_1 | shadow |  
+| bip_39_word_space_10 | shadow when robust flush release genuine seven chronic fruit tomato |  
+| bip_39_word_space_11 | shadow when robust flush release genuine seven chronic fruit tomato iron |  
+| bip_39_word_space_12 | shadow when robust flush release genuine seven chronic fruit tomato iron afford |  
+| bip_39_word_space_2 | shadow when |  
+| bip_39_word_space_3 | shadow when robust |  
+| bip_39_word_space_4 | shadow when robust flush |  
+| bip_39_word_space_5 | shadow when robust flush release |  
+| bip_39_word_space_6 | shadow when robust flush release genuine |  
+| bip_39_word_space_7 | shadow when robust flush release genuine seven |  
+| bip_39_word_space_8 | shadow when robust flush release genuine seven chronic |  
+| bip_39_word_space_9 | shadow when robust flush release genuine seven chronic fruit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: neck slogan
+  * bip 39 word 3: neck slogan trip
+  * bip 39 word: neck slogan trip setup grain pill agent surround neglect rural apart asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | neck |  
+| bip_39_word_new_br10 | neck<br>slogan<br>trip<br>setup<br>grain<br>pill<br>agent<br>surround<br>neglect<br>rural |  
+| bip_39_word_new_br11 | neck<br>slogan<br>trip<br>setup<br>grain<br>pill<br>agent<br>surround<br>neglect<br>rural<br>apart |  
+| bip_39_word_new_br12 | neck<br>slogan<br>trip<br>setup<br>grain<br>pill<br>agent<br>surround<br>neglect<br>rural<br>apart<br>asset |  
+| bip_39_word_new_br2 | neck<br>slogan |  
+| bip_39_word_new_br3 | neck<br>slogan<br>trip |  
+| bip_39_word_new_br4 | neck<br>slogan<br>trip<br>setup |  
+| bip_39_word_new_br5 | neck<br>slogan<br>trip<br>setup<br>grain |  
+| bip_39_word_new_br6 | neck<br>slogan<br>trip<br>setup<br>grain<br>pill |  
+| bip_39_word_new_br7 | neck<br>slogan<br>trip<br>setup<br>grain<br>pill<br>agent |  
+| bip_39_word_new_br8 | neck<br>slogan<br>trip<br>setup<br>grain<br>pill<br>agent<br>surround |  
+| bip_39_word_new_br9 | neck<br>slogan<br>trip<br>setup<br>grain<br>pill<br>agent<br>surround<br>neglect |  
+| bip_39_word_new_line1 | neck |  
+| bip_39_word_new_line10 | neck
+slogan
+trip
+setup
+grain
+pill
+agent
+surround
+neglect
+rural |  
+| bip_39_word_new_line11 | neck
+slogan
+trip
+setup
+grain
+pill
+agent
+surround
+neglect
+rural
+apart |  
+| bip_39_word_new_line12 | neck
+slogan
+trip
+setup
+grain
+pill
+agent
+surround
+neglect
+rural
+apart
+asset |  
+| bip_39_word_new_line2 | neck
+slogan |  
+| bip_39_word_new_line3 | neck
+slogan
+trip |  
+| bip_39_word_new_line4 | neck
+slogan
+trip
+setup |  
+| bip_39_word_new_line5 | neck
+slogan
+trip
+setup
+grain |  
+| bip_39_word_new_line6 | neck
+slogan
+trip
+setup
+grain
+pill |  
+| bip_39_word_new_line7 | neck
+slogan
+trip
+setup
+grain
+pill
+agent |  
+| bip_39_word_new_line8 | neck
+slogan
+trip
+setup
+grain
+pill
+agent
+surround |  
+| bip_39_word_new_line9 | neck
+slogan
+trip
+setup
+grain
+pill
+agent
+surround
+neglect |  
+| bip_39_word_space_0 | ['neck', 'slogan', 'trip', 'setup', 'grain', 'pill', 'agent', 'surround', 'neglect', 'rural', 'apart', 'asset'] |  
+| bip_39_word_space_1 | neck |  
+| bip_39_word_space_10 | neck slogan trip setup grain pill agent surround neglect rural |  
+| bip_39_word_space_11 | neck slogan trip setup grain pill agent surround neglect rural apart |  
+| bip_39_word_space_12 | neck slogan trip setup grain pill agent surround neglect rural apart asset |  
+| bip_39_word_space_2 | neck slogan |  
+| bip_39_word_space_3 | neck slogan trip |  
+| bip_39_word_space_4 | neck slogan trip setup |  
+| bip_39_word_space_5 | neck slogan trip setup grain |  
+| bip_39_word_space_6 | neck slogan trip setup grain pill |  
+| bip_39_word_space_7 | neck slogan trip setup grain pill agent |  
+| bip_39_word_space_8 | neck slogan trip setup grain pill agent surround |  
+| bip_39_word_space_9 | neck slogan trip setup grain pill agent surround neglect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

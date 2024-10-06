@@ -1,3 +1,185 @@
+bip_39_word_new_br1: impulse
+bip_39_word_new_br10: impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly<br>sail<br>milk<br>upgrade<br>toy
+bip_39_word_new_br11: impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly<br>sail<br>milk<br>upgrade<br>toy<br>impulse
+bip_39_word_new_br12: impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly<br>sail<br>milk<br>upgrade<br>toy<br>impulse<br>act
+bip_39_word_new_br2: impulse<br>nation
+bip_39_word_new_br3: impulse<br>nation<br>near
+bip_39_word_new_br4: impulse<br>nation<br>near<br>wagon
+bip_39_word_new_br5: impulse<br>nation<br>near<br>wagon<br>mercy
+bip_39_word_new_br6: impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly
+bip_39_word_new_br7: impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly<br>sail
+bip_39_word_new_br8: impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly<br>sail<br>milk
+bip_39_word_new_br9: impulse<br>nation<br>near<br>wagon<br>mercy<br>ugly<br>sail<br>milk<br>upgrade
+bip_39_word_new_line1: impulse
+bip_39_word_new_line10: 'impulse
+
+  nation
+
+  near
+
+  wagon
+
+  mercy
+
+  ugly
+
+  sail
+
+  milk
+
+  upgrade
+
+  toy'
+bip_39_word_new_line11: 'impulse
+
+  nation
+
+  near
+
+  wagon
+
+  mercy
+
+  ugly
+
+  sail
+
+  milk
+
+  upgrade
+
+  toy
+
+  impulse'
+bip_39_word_new_line12: 'impulse
+
+  nation
+
+  near
+
+  wagon
+
+  mercy
+
+  ugly
+
+  sail
+
+  milk
+
+  upgrade
+
+  toy
+
+  impulse
+
+  act'
+bip_39_word_new_line2: 'impulse
+
+  nation'
+bip_39_word_new_line3: 'impulse
+
+  nation
+
+  near'
+bip_39_word_new_line4: 'impulse
+
+  nation
+
+  near
+
+  wagon'
+bip_39_word_new_line5: 'impulse
+
+  nation
+
+  near
+
+  wagon
+
+  mercy'
+bip_39_word_new_line6: 'impulse
+
+  nation
+
+  near
+
+  wagon
+
+  mercy
+
+  ugly'
+bip_39_word_new_line7: 'impulse
+
+  nation
+
+  near
+
+  wagon
+
+  mercy
+
+  ugly
+
+  sail'
+bip_39_word_new_line8: 'impulse
+
+  nation
+
+  near
+
+  wagon
+
+  mercy
+
+  ugly
+
+  sail
+
+  milk'
+bip_39_word_new_line9: 'impulse
+
+  nation
+
+  near
+
+  wagon
+
+  mercy
+
+  ugly
+
+  sail
+
+  milk
+
+  upgrade'
+bip_39_word_space_0:
+- impulse
+- nation
+- near
+- wagon
+- mercy
+- ugly
+- sail
+- milk
+- upgrade
+- toy
+- impulse
+- act
+bip_39_word_space_1: impulse
+bip_39_word_space_10: impulse nation near wagon mercy ugly sail milk upgrade toy
+bip_39_word_space_11: impulse nation near wagon mercy ugly sail milk upgrade toy impulse
+bip_39_word_space_12: impulse nation near wagon mercy ugly sail milk upgrade toy impulse
+  act
+bip_39_word_space_2: impulse nation
+bip_39_word_space_3: impulse nation near
+bip_39_word_space_4: impulse nation near wagon
+bip_39_word_space_5: impulse nation near wagon mercy
+bip_39_word_space_6: impulse nation near wagon mercy ugly
+bip_39_word_space_7: impulse nation near wagon mercy ugly sail
+bip_39_word_space_8: impulse nation near wagon mercy ugly sail milk
+bip_39_word_space_9: impulse nation near wagon mercy ugly sail milk upgrade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

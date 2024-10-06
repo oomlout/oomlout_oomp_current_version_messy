@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: advance youth
+  * bip 39 word 3: advance youth easy
+  * bip 39 word: advance youth easy purchase club glare such dilemma moment illegal slim adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | advance |  
+| bip_39_word_new_br10 | advance<br>youth<br>easy<br>purchase<br>club<br>glare<br>such<br>dilemma<br>moment<br>illegal |  
+| bip_39_word_new_br11 | advance<br>youth<br>easy<br>purchase<br>club<br>glare<br>such<br>dilemma<br>moment<br>illegal<br>slim |  
+| bip_39_word_new_br12 | advance<br>youth<br>easy<br>purchase<br>club<br>glare<br>such<br>dilemma<br>moment<br>illegal<br>slim<br>adjust |  
+| bip_39_word_new_br2 | advance<br>youth |  
+| bip_39_word_new_br3 | advance<br>youth<br>easy |  
+| bip_39_word_new_br4 | advance<br>youth<br>easy<br>purchase |  
+| bip_39_word_new_br5 | advance<br>youth<br>easy<br>purchase<br>club |  
+| bip_39_word_new_br6 | advance<br>youth<br>easy<br>purchase<br>club<br>glare |  
+| bip_39_word_new_br7 | advance<br>youth<br>easy<br>purchase<br>club<br>glare<br>such |  
+| bip_39_word_new_br8 | advance<br>youth<br>easy<br>purchase<br>club<br>glare<br>such<br>dilemma |  
+| bip_39_word_new_br9 | advance<br>youth<br>easy<br>purchase<br>club<br>glare<br>such<br>dilemma<br>moment |  
+| bip_39_word_new_line1 | advance |  
+| bip_39_word_new_line10 | advance
+youth
+easy
+purchase
+club
+glare
+such
+dilemma
+moment
+illegal |  
+| bip_39_word_new_line11 | advance
+youth
+easy
+purchase
+club
+glare
+such
+dilemma
+moment
+illegal
+slim |  
+| bip_39_word_new_line12 | advance
+youth
+easy
+purchase
+club
+glare
+such
+dilemma
+moment
+illegal
+slim
+adjust |  
+| bip_39_word_new_line2 | advance
+youth |  
+| bip_39_word_new_line3 | advance
+youth
+easy |  
+| bip_39_word_new_line4 | advance
+youth
+easy
+purchase |  
+| bip_39_word_new_line5 | advance
+youth
+easy
+purchase
+club |  
+| bip_39_word_new_line6 | advance
+youth
+easy
+purchase
+club
+glare |  
+| bip_39_word_new_line7 | advance
+youth
+easy
+purchase
+club
+glare
+such |  
+| bip_39_word_new_line8 | advance
+youth
+easy
+purchase
+club
+glare
+such
+dilemma |  
+| bip_39_word_new_line9 | advance
+youth
+easy
+purchase
+club
+glare
+such
+dilemma
+moment |  
+| bip_39_word_space_0 | ['advance', 'youth', 'easy', 'purchase', 'club', 'glare', 'such', 'dilemma', 'moment', 'illegal', 'slim', 'adjust'] |  
+| bip_39_word_space_1 | advance |  
+| bip_39_word_space_10 | advance youth easy purchase club glare such dilemma moment illegal |  
+| bip_39_word_space_11 | advance youth easy purchase club glare such dilemma moment illegal slim |  
+| bip_39_word_space_12 | advance youth easy purchase club glare such dilemma moment illegal slim adjust |  
+| bip_39_word_space_2 | advance youth |  
+| bip_39_word_space_3 | advance youth easy |  
+| bip_39_word_space_4 | advance youth easy purchase |  
+| bip_39_word_space_5 | advance youth easy purchase club |  
+| bip_39_word_space_6 | advance youth easy purchase club glare |  
+| bip_39_word_space_7 | advance youth easy purchase club glare such |  
+| bip_39_word_space_8 | advance youth easy purchase club glare such dilemma |  
+| bip_39_word_space_9 | advance youth easy purchase club glare such dilemma moment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

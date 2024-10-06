@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: bosch
   * part_number: bme280
+  * bip 39 word 2: usual ladder
+  * bip 39 word 3: usual ladder wreck
+  * bip 39 word: usual ladder wreck coconut whisper grow tide loop else fly danger adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | usual |  
+| bip_39_word_new_br10 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly |  
+| bip_39_word_new_br11 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly<br>danger |  
+| bip_39_word_new_br12 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else<br>fly<br>danger<br>adult |  
+| bip_39_word_new_br2 | usual<br>ladder |  
+| bip_39_word_new_br3 | usual<br>ladder<br>wreck |  
+| bip_39_word_new_br4 | usual<br>ladder<br>wreck<br>coconut |  
+| bip_39_word_new_br5 | usual<br>ladder<br>wreck<br>coconut<br>whisper |  
+| bip_39_word_new_br6 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow |  
+| bip_39_word_new_br7 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide |  
+| bip_39_word_new_br8 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop |  
+| bip_39_word_new_br9 | usual<br>ladder<br>wreck<br>coconut<br>whisper<br>grow<br>tide<br>loop<br>else |  
+| bip_39_word_new_line1 | usual |  
+| bip_39_word_new_line10 | usual
+ladder
+wreck
+coconut
+whisper
+grow
+tide
+loop
+else
+fly |  
+| bip_39_word_new_line11 | usual
+ladder
+wreck
+coconut
+whisper
+grow
+tide
+loop
+else
+fly
+danger |  
+| bip_39_word_new_line12 | usual
+ladder
+wreck
+coconut
+whisper
+grow
+tide
+loop
+else
+fly
+danger
+adult |  
+| bip_39_word_new_line2 | usual
+ladder |  
+| bip_39_word_new_line3 | usual
+ladder
+wreck |  
+| bip_39_word_new_line4 | usual
+ladder
+wreck
+coconut |  
+| bip_39_word_new_line5 | usual
+ladder
+wreck
+coconut
+whisper |  
+| bip_39_word_new_line6 | usual
+ladder
+wreck
+coconut
+whisper
+grow |  
+| bip_39_word_new_line7 | usual
+ladder
+wreck
+coconut
+whisper
+grow
+tide |  
+| bip_39_word_new_line8 | usual
+ladder
+wreck
+coconut
+whisper
+grow
+tide
+loop |  
+| bip_39_word_new_line9 | usual
+ladder
+wreck
+coconut
+whisper
+grow
+tide
+loop
+else |  
+| bip_39_word_space_0 | ['usual', 'ladder', 'wreck', 'coconut', 'whisper', 'grow', 'tide', 'loop', 'else', 'fly', 'danger', 'adult'] |  
+| bip_39_word_space_1 | usual |  
+| bip_39_word_space_10 | usual ladder wreck coconut whisper grow tide loop else fly |  
+| bip_39_word_space_11 | usual ladder wreck coconut whisper grow tide loop else fly danger |  
+| bip_39_word_space_12 | usual ladder wreck coconut whisper grow tide loop else fly danger adult |  
+| bip_39_word_space_2 | usual ladder |  
+| bip_39_word_space_3 | usual ladder wreck |  
+| bip_39_word_space_4 | usual ladder wreck coconut |  
+| bip_39_word_space_5 | usual ladder wreck coconut whisper |  
+| bip_39_word_space_6 | usual ladder wreck coconut whisper grow |  
+| bip_39_word_space_7 | usual ladder wreck coconut whisper grow tide |  
+| bip_39_word_space_8 | usual ladder wreck coconut whisper grow tide loop |  
+| bip_39_word_space_9 | usual ladder wreck coconut whisper grow tide loop else |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

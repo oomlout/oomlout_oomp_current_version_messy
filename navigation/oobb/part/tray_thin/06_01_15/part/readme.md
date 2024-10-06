@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: client sword
+  * bip 39 word 3: client sword visit
+  * bip 39 word: client sword visit describe kick plunge iron win tide visit rigid animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | client |  
+| bip_39_word_new_br10 | client<br>sword<br>visit<br>describe<br>kick<br>plunge<br>iron<br>win<br>tide<br>visit |  
+| bip_39_word_new_br11 | client<br>sword<br>visit<br>describe<br>kick<br>plunge<br>iron<br>win<br>tide<br>visit<br>rigid |  
+| bip_39_word_new_br12 | client<br>sword<br>visit<br>describe<br>kick<br>plunge<br>iron<br>win<br>tide<br>visit<br>rigid<br>animal |  
+| bip_39_word_new_br2 | client<br>sword |  
+| bip_39_word_new_br3 | client<br>sword<br>visit |  
+| bip_39_word_new_br4 | client<br>sword<br>visit<br>describe |  
+| bip_39_word_new_br5 | client<br>sword<br>visit<br>describe<br>kick |  
+| bip_39_word_new_br6 | client<br>sword<br>visit<br>describe<br>kick<br>plunge |  
+| bip_39_word_new_br7 | client<br>sword<br>visit<br>describe<br>kick<br>plunge<br>iron |  
+| bip_39_word_new_br8 | client<br>sword<br>visit<br>describe<br>kick<br>plunge<br>iron<br>win |  
+| bip_39_word_new_br9 | client<br>sword<br>visit<br>describe<br>kick<br>plunge<br>iron<br>win<br>tide |  
+| bip_39_word_new_line1 | client |  
+| bip_39_word_new_line10 | client
+sword
+visit
+describe
+kick
+plunge
+iron
+win
+tide
+visit |  
+| bip_39_word_new_line11 | client
+sword
+visit
+describe
+kick
+plunge
+iron
+win
+tide
+visit
+rigid |  
+| bip_39_word_new_line12 | client
+sword
+visit
+describe
+kick
+plunge
+iron
+win
+tide
+visit
+rigid
+animal |  
+| bip_39_word_new_line2 | client
+sword |  
+| bip_39_word_new_line3 | client
+sword
+visit |  
+| bip_39_word_new_line4 | client
+sword
+visit
+describe |  
+| bip_39_word_new_line5 | client
+sword
+visit
+describe
+kick |  
+| bip_39_word_new_line6 | client
+sword
+visit
+describe
+kick
+plunge |  
+| bip_39_word_new_line7 | client
+sword
+visit
+describe
+kick
+plunge
+iron |  
+| bip_39_word_new_line8 | client
+sword
+visit
+describe
+kick
+plunge
+iron
+win |  
+| bip_39_word_new_line9 | client
+sword
+visit
+describe
+kick
+plunge
+iron
+win
+tide |  
+| bip_39_word_space_0 | ['client', 'sword', 'visit', 'describe', 'kick', 'plunge', 'iron', 'win', 'tide', 'visit', 'rigid', 'animal'] |  
+| bip_39_word_space_1 | client |  
+| bip_39_word_space_10 | client sword visit describe kick plunge iron win tide visit |  
+| bip_39_word_space_11 | client sword visit describe kick plunge iron win tide visit rigid |  
+| bip_39_word_space_12 | client sword visit describe kick plunge iron win tide visit rigid animal |  
+| bip_39_word_space_2 | client sword |  
+| bip_39_word_space_3 | client sword visit |  
+| bip_39_word_space_4 | client sword visit describe |  
+| bip_39_word_space_5 | client sword visit describe kick |  
+| bip_39_word_space_6 | client sword visit describe kick plunge |  
+| bip_39_word_space_7 | client sword visit describe kick plunge iron |  
+| bip_39_word_space_8 | client sword visit describe kick plunge iron win |  
+| bip_39_word_space_9 | client sword visit describe kick plunge iron win tide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

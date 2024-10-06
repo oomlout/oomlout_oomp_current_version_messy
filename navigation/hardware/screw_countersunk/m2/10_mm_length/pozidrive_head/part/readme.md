@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: adapt tower
+  * bip 39 word 3: adapt tower lazy
+  * bip 39 word: adapt tower lazy rebel effort useless parrot heart upon pipe denial amused
 
 ### other_codes
 * short_code: cs2m10pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | adapt |  
+| bip_39_word_new_br10 | adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless<br>parrot<br>heart<br>upon<br>pipe |  
+| bip_39_word_new_br11 | adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless<br>parrot<br>heart<br>upon<br>pipe<br>denial |  
+| bip_39_word_new_br12 | adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless<br>parrot<br>heart<br>upon<br>pipe<br>denial<br>amused |  
+| bip_39_word_new_br2 | adapt<br>tower |  
+| bip_39_word_new_br3 | adapt<br>tower<br>lazy |  
+| bip_39_word_new_br4 | adapt<br>tower<br>lazy<br>rebel |  
+| bip_39_word_new_br5 | adapt<br>tower<br>lazy<br>rebel<br>effort |  
+| bip_39_word_new_br6 | adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless |  
+| bip_39_word_new_br7 | adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless<br>parrot |  
+| bip_39_word_new_br8 | adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless<br>parrot<br>heart |  
+| bip_39_word_new_br9 | adapt<br>tower<br>lazy<br>rebel<br>effort<br>useless<br>parrot<br>heart<br>upon |  
+| bip_39_word_new_line1 | adapt |  
+| bip_39_word_new_line10 | adapt
+tower
+lazy
+rebel
+effort
+useless
+parrot
+heart
+upon
+pipe |  
+| bip_39_word_new_line11 | adapt
+tower
+lazy
+rebel
+effort
+useless
+parrot
+heart
+upon
+pipe
+denial |  
+| bip_39_word_new_line12 | adapt
+tower
+lazy
+rebel
+effort
+useless
+parrot
+heart
+upon
+pipe
+denial
+amused |  
+| bip_39_word_new_line2 | adapt
+tower |  
+| bip_39_word_new_line3 | adapt
+tower
+lazy |  
+| bip_39_word_new_line4 | adapt
+tower
+lazy
+rebel |  
+| bip_39_word_new_line5 | adapt
+tower
+lazy
+rebel
+effort |  
+| bip_39_word_new_line6 | adapt
+tower
+lazy
+rebel
+effort
+useless |  
+| bip_39_word_new_line7 | adapt
+tower
+lazy
+rebel
+effort
+useless
+parrot |  
+| bip_39_word_new_line8 | adapt
+tower
+lazy
+rebel
+effort
+useless
+parrot
+heart |  
+| bip_39_word_new_line9 | adapt
+tower
+lazy
+rebel
+effort
+useless
+parrot
+heart
+upon |  
+| bip_39_word_space_0 | ['adapt', 'tower', 'lazy', 'rebel', 'effort', 'useless', 'parrot', 'heart', 'upon', 'pipe', 'denial', 'amused'] |  
+| bip_39_word_space_1 | adapt |  
+| bip_39_word_space_10 | adapt tower lazy rebel effort useless parrot heart upon pipe |  
+| bip_39_word_space_11 | adapt tower lazy rebel effort useless parrot heart upon pipe denial |  
+| bip_39_word_space_12 | adapt tower lazy rebel effort useless parrot heart upon pipe denial amused |  
+| bip_39_word_space_2 | adapt tower |  
+| bip_39_word_space_3 | adapt tower lazy |  
+| bip_39_word_space_4 | adapt tower lazy rebel |  
+| bip_39_word_space_5 | adapt tower lazy rebel effort |  
+| bip_39_word_space_6 | adapt tower lazy rebel effort useless |  
+| bip_39_word_space_7 | adapt tower lazy rebel effort useless parrot |  
+| bip_39_word_space_8 | adapt tower lazy rebel effort useless parrot heart |  
+| bip_39_word_space_9 | adapt tower lazy rebel effort useless parrot heart upon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

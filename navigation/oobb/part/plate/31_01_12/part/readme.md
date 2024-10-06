@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soon crowd
+  * bip 39 word 3: soon crowd hurt
+  * bip 39 word: soon crowd hurt silk alarm exhibit crumble guide flame crouch mountain audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soon |  
+| bip_39_word_new_br10 | soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit<br>crumble<br>guide<br>flame<br>crouch |  
+| bip_39_word_new_br11 | soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit<br>crumble<br>guide<br>flame<br>crouch<br>mountain |  
+| bip_39_word_new_br12 | soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit<br>crumble<br>guide<br>flame<br>crouch<br>mountain<br>audit |  
+| bip_39_word_new_br2 | soon<br>crowd |  
+| bip_39_word_new_br3 | soon<br>crowd<br>hurt |  
+| bip_39_word_new_br4 | soon<br>crowd<br>hurt<br>silk |  
+| bip_39_word_new_br5 | soon<br>crowd<br>hurt<br>silk<br>alarm |  
+| bip_39_word_new_br6 | soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit |  
+| bip_39_word_new_br7 | soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit<br>crumble |  
+| bip_39_word_new_br8 | soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit<br>crumble<br>guide |  
+| bip_39_word_new_br9 | soon<br>crowd<br>hurt<br>silk<br>alarm<br>exhibit<br>crumble<br>guide<br>flame |  
+| bip_39_word_new_line1 | soon |  
+| bip_39_word_new_line10 | soon
+crowd
+hurt
+silk
+alarm
+exhibit
+crumble
+guide
+flame
+crouch |  
+| bip_39_word_new_line11 | soon
+crowd
+hurt
+silk
+alarm
+exhibit
+crumble
+guide
+flame
+crouch
+mountain |  
+| bip_39_word_new_line12 | soon
+crowd
+hurt
+silk
+alarm
+exhibit
+crumble
+guide
+flame
+crouch
+mountain
+audit |  
+| bip_39_word_new_line2 | soon
+crowd |  
+| bip_39_word_new_line3 | soon
+crowd
+hurt |  
+| bip_39_word_new_line4 | soon
+crowd
+hurt
+silk |  
+| bip_39_word_new_line5 | soon
+crowd
+hurt
+silk
+alarm |  
+| bip_39_word_new_line6 | soon
+crowd
+hurt
+silk
+alarm
+exhibit |  
+| bip_39_word_new_line7 | soon
+crowd
+hurt
+silk
+alarm
+exhibit
+crumble |  
+| bip_39_word_new_line8 | soon
+crowd
+hurt
+silk
+alarm
+exhibit
+crumble
+guide |  
+| bip_39_word_new_line9 | soon
+crowd
+hurt
+silk
+alarm
+exhibit
+crumble
+guide
+flame |  
+| bip_39_word_space_0 | ['soon', 'crowd', 'hurt', 'silk', 'alarm', 'exhibit', 'crumble', 'guide', 'flame', 'crouch', 'mountain', 'audit'] |  
+| bip_39_word_space_1 | soon |  
+| bip_39_word_space_10 | soon crowd hurt silk alarm exhibit crumble guide flame crouch |  
+| bip_39_word_space_11 | soon crowd hurt silk alarm exhibit crumble guide flame crouch mountain |  
+| bip_39_word_space_12 | soon crowd hurt silk alarm exhibit crumble guide flame crouch mountain audit |  
+| bip_39_word_space_2 | soon crowd |  
+| bip_39_word_space_3 | soon crowd hurt |  
+| bip_39_word_space_4 | soon crowd hurt silk |  
+| bip_39_word_space_5 | soon crowd hurt silk alarm |  
+| bip_39_word_space_6 | soon crowd hurt silk alarm exhibit |  
+| bip_39_word_space_7 | soon crowd hurt silk alarm exhibit crumble |  
+| bip_39_word_space_8 | soon crowd hurt silk alarm exhibit crumble guide |  
+| bip_39_word_space_9 | soon crowd hurt silk alarm exhibit crumble guide flame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

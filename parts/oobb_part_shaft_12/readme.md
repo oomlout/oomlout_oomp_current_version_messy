@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: genuine aim
+  * bip 39 word 3: genuine aim deposit
+  * bip 39 word: genuine aim deposit loan mountain raw dust keen coast text luxury apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | genuine |  
+| bip_39_word_new_br10 | genuine<br>aim<br>deposit<br>loan<br>mountain<br>raw<br>dust<br>keen<br>coast<br>text |  
+| bip_39_word_new_br11 | genuine<br>aim<br>deposit<br>loan<br>mountain<br>raw<br>dust<br>keen<br>coast<br>text<br>luxury |  
+| bip_39_word_new_br12 | genuine<br>aim<br>deposit<br>loan<br>mountain<br>raw<br>dust<br>keen<br>coast<br>text<br>luxury<br>apple |  
+| bip_39_word_new_br2 | genuine<br>aim |  
+| bip_39_word_new_br3 | genuine<br>aim<br>deposit |  
+| bip_39_word_new_br4 | genuine<br>aim<br>deposit<br>loan |  
+| bip_39_word_new_br5 | genuine<br>aim<br>deposit<br>loan<br>mountain |  
+| bip_39_word_new_br6 | genuine<br>aim<br>deposit<br>loan<br>mountain<br>raw |  
+| bip_39_word_new_br7 | genuine<br>aim<br>deposit<br>loan<br>mountain<br>raw<br>dust |  
+| bip_39_word_new_br8 | genuine<br>aim<br>deposit<br>loan<br>mountain<br>raw<br>dust<br>keen |  
+| bip_39_word_new_br9 | genuine<br>aim<br>deposit<br>loan<br>mountain<br>raw<br>dust<br>keen<br>coast |  
+| bip_39_word_new_line1 | genuine |  
+| bip_39_word_new_line10 | genuine
+aim
+deposit
+loan
+mountain
+raw
+dust
+keen
+coast
+text |  
+| bip_39_word_new_line11 | genuine
+aim
+deposit
+loan
+mountain
+raw
+dust
+keen
+coast
+text
+luxury |  
+| bip_39_word_new_line12 | genuine
+aim
+deposit
+loan
+mountain
+raw
+dust
+keen
+coast
+text
+luxury
+apple |  
+| bip_39_word_new_line2 | genuine
+aim |  
+| bip_39_word_new_line3 | genuine
+aim
+deposit |  
+| bip_39_word_new_line4 | genuine
+aim
+deposit
+loan |  
+| bip_39_word_new_line5 | genuine
+aim
+deposit
+loan
+mountain |  
+| bip_39_word_new_line6 | genuine
+aim
+deposit
+loan
+mountain
+raw |  
+| bip_39_word_new_line7 | genuine
+aim
+deposit
+loan
+mountain
+raw
+dust |  
+| bip_39_word_new_line8 | genuine
+aim
+deposit
+loan
+mountain
+raw
+dust
+keen |  
+| bip_39_word_new_line9 | genuine
+aim
+deposit
+loan
+mountain
+raw
+dust
+keen
+coast |  
+| bip_39_word_space_0 | ['genuine', 'aim', 'deposit', 'loan', 'mountain', 'raw', 'dust', 'keen', 'coast', 'text', 'luxury', 'apple'] |  
+| bip_39_word_space_1 | genuine |  
+| bip_39_word_space_10 | genuine aim deposit loan mountain raw dust keen coast text |  
+| bip_39_word_space_11 | genuine aim deposit loan mountain raw dust keen coast text luxury |  
+| bip_39_word_space_12 | genuine aim deposit loan mountain raw dust keen coast text luxury apple |  
+| bip_39_word_space_2 | genuine aim |  
+| bip_39_word_space_3 | genuine aim deposit |  
+| bip_39_word_space_4 | genuine aim deposit loan |  
+| bip_39_word_space_5 | genuine aim deposit loan mountain |  
+| bip_39_word_space_6 | genuine aim deposit loan mountain raw |  
+| bip_39_word_space_7 | genuine aim deposit loan mountain raw dust |  
+| bip_39_word_space_8 | genuine aim deposit loan mountain raw dust keen |  
+| bip_39_word_space_9 | genuine aim deposit loan mountain raw dust keen coast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

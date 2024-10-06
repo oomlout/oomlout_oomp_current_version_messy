@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: use impose
+  * bip 39 word 3: use impose lucky
+  * bip 39 word: use impose lucky live ceiling bomb sadness truck mosquito motor list actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | use |  
+| bip_39_word_new_br10 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb<br>sadness<br>truck<br>mosquito<br>motor |  
+| bip_39_word_new_br11 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb<br>sadness<br>truck<br>mosquito<br>motor<br>list |  
+| bip_39_word_new_br12 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb<br>sadness<br>truck<br>mosquito<br>motor<br>list<br>actual |  
+| bip_39_word_new_br2 | use<br>impose |  
+| bip_39_word_new_br3 | use<br>impose<br>lucky |  
+| bip_39_word_new_br4 | use<br>impose<br>lucky<br>live |  
+| bip_39_word_new_br5 | use<br>impose<br>lucky<br>live<br>ceiling |  
+| bip_39_word_new_br6 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb |  
+| bip_39_word_new_br7 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb<br>sadness |  
+| bip_39_word_new_br8 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb<br>sadness<br>truck |  
+| bip_39_word_new_br9 | use<br>impose<br>lucky<br>live<br>ceiling<br>bomb<br>sadness<br>truck<br>mosquito |  
+| bip_39_word_new_line1 | use |  
+| bip_39_word_new_line10 | use
+impose
+lucky
+live
+ceiling
+bomb
+sadness
+truck
+mosquito
+motor |  
+| bip_39_word_new_line11 | use
+impose
+lucky
+live
+ceiling
+bomb
+sadness
+truck
+mosquito
+motor
+list |  
+| bip_39_word_new_line12 | use
+impose
+lucky
+live
+ceiling
+bomb
+sadness
+truck
+mosquito
+motor
+list
+actual |  
+| bip_39_word_new_line2 | use
+impose |  
+| bip_39_word_new_line3 | use
+impose
+lucky |  
+| bip_39_word_new_line4 | use
+impose
+lucky
+live |  
+| bip_39_word_new_line5 | use
+impose
+lucky
+live
+ceiling |  
+| bip_39_word_new_line6 | use
+impose
+lucky
+live
+ceiling
+bomb |  
+| bip_39_word_new_line7 | use
+impose
+lucky
+live
+ceiling
+bomb
+sadness |  
+| bip_39_word_new_line8 | use
+impose
+lucky
+live
+ceiling
+bomb
+sadness
+truck |  
+| bip_39_word_new_line9 | use
+impose
+lucky
+live
+ceiling
+bomb
+sadness
+truck
+mosquito |  
+| bip_39_word_space_0 | ['use', 'impose', 'lucky', 'live', 'ceiling', 'bomb', 'sadness', 'truck', 'mosquito', 'motor', 'list', 'actual'] |  
+| bip_39_word_space_1 | use |  
+| bip_39_word_space_10 | use impose lucky live ceiling bomb sadness truck mosquito motor |  
+| bip_39_word_space_11 | use impose lucky live ceiling bomb sadness truck mosquito motor list |  
+| bip_39_word_space_12 | use impose lucky live ceiling bomb sadness truck mosquito motor list actual |  
+| bip_39_word_space_2 | use impose |  
+| bip_39_word_space_3 | use impose lucky |  
+| bip_39_word_space_4 | use impose lucky live |  
+| bip_39_word_space_5 | use impose lucky live ceiling |  
+| bip_39_word_space_6 | use impose lucky live ceiling bomb |  
+| bip_39_word_space_7 | use impose lucky live ceiling bomb sadness |  
+| bip_39_word_space_8 | use impose lucky live ceiling bomb sadness truck |  
+| bip_39_word_space_9 | use impose lucky live ceiling bomb sadness truck mosquito |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

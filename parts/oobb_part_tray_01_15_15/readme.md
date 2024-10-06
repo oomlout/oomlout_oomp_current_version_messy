@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: betray produce
+  * bip 39 word 3: betray produce squirrel
+  * bip 39 word: betray produce squirrel sail bronze will emerge quiz under addict poem answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | betray |  
+| bip_39_word_new_br10 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will<br>emerge<br>quiz<br>under<br>addict |  
+| bip_39_word_new_br11 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will<br>emerge<br>quiz<br>under<br>addict<br>poem |  
+| bip_39_word_new_br12 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will<br>emerge<br>quiz<br>under<br>addict<br>poem<br>answer |  
+| bip_39_word_new_br2 | betray<br>produce |  
+| bip_39_word_new_br3 | betray<br>produce<br>squirrel |  
+| bip_39_word_new_br4 | betray<br>produce<br>squirrel<br>sail |  
+| bip_39_word_new_br5 | betray<br>produce<br>squirrel<br>sail<br>bronze |  
+| bip_39_word_new_br6 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will |  
+| bip_39_word_new_br7 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will<br>emerge |  
+| bip_39_word_new_br8 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will<br>emerge<br>quiz |  
+| bip_39_word_new_br9 | betray<br>produce<br>squirrel<br>sail<br>bronze<br>will<br>emerge<br>quiz<br>under |  
+| bip_39_word_new_line1 | betray |  
+| bip_39_word_new_line10 | betray
+produce
+squirrel
+sail
+bronze
+will
+emerge
+quiz
+under
+addict |  
+| bip_39_word_new_line11 | betray
+produce
+squirrel
+sail
+bronze
+will
+emerge
+quiz
+under
+addict
+poem |  
+| bip_39_word_new_line12 | betray
+produce
+squirrel
+sail
+bronze
+will
+emerge
+quiz
+under
+addict
+poem
+answer |  
+| bip_39_word_new_line2 | betray
+produce |  
+| bip_39_word_new_line3 | betray
+produce
+squirrel |  
+| bip_39_word_new_line4 | betray
+produce
+squirrel
+sail |  
+| bip_39_word_new_line5 | betray
+produce
+squirrel
+sail
+bronze |  
+| bip_39_word_new_line6 | betray
+produce
+squirrel
+sail
+bronze
+will |  
+| bip_39_word_new_line7 | betray
+produce
+squirrel
+sail
+bronze
+will
+emerge |  
+| bip_39_word_new_line8 | betray
+produce
+squirrel
+sail
+bronze
+will
+emerge
+quiz |  
+| bip_39_word_new_line9 | betray
+produce
+squirrel
+sail
+bronze
+will
+emerge
+quiz
+under |  
+| bip_39_word_space_0 | ['betray', 'produce', 'squirrel', 'sail', 'bronze', 'will', 'emerge', 'quiz', 'under', 'addict', 'poem', 'answer'] |  
+| bip_39_word_space_1 | betray |  
+| bip_39_word_space_10 | betray produce squirrel sail bronze will emerge quiz under addict |  
+| bip_39_word_space_11 | betray produce squirrel sail bronze will emerge quiz under addict poem |  
+| bip_39_word_space_12 | betray produce squirrel sail bronze will emerge quiz under addict poem answer |  
+| bip_39_word_space_2 | betray produce |  
+| bip_39_word_space_3 | betray produce squirrel |  
+| bip_39_word_space_4 | betray produce squirrel sail |  
+| bip_39_word_space_5 | betray produce squirrel sail bronze |  
+| bip_39_word_space_6 | betray produce squirrel sail bronze will |  
+| bip_39_word_space_7 | betray produce squirrel sail bronze will emerge |  
+| bip_39_word_space_8 | betray produce squirrel sail bronze will emerge quiz |  
+| bip_39_word_space_9 | betray produce squirrel sail bronze will emerge quiz under |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

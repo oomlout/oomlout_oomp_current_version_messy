@@ -1,3 +1,185 @@
+bip_39_word_new_br1: brisk
+bip_39_word_new_br10: brisk<br>already<br>silk<br>entire<br>melt<br>meadow<br>pen<br>fox<br>limb<br>huge
+bip_39_word_new_br11: brisk<br>already<br>silk<br>entire<br>melt<br>meadow<br>pen<br>fox<br>limb<br>huge<br>during
+bip_39_word_new_br12: brisk<br>already<br>silk<br>entire<br>melt<br>meadow<br>pen<br>fox<br>limb<br>huge<br>during<br>alcohol
+bip_39_word_new_br2: brisk<br>already
+bip_39_word_new_br3: brisk<br>already<br>silk
+bip_39_word_new_br4: brisk<br>already<br>silk<br>entire
+bip_39_word_new_br5: brisk<br>already<br>silk<br>entire<br>melt
+bip_39_word_new_br6: brisk<br>already<br>silk<br>entire<br>melt<br>meadow
+bip_39_word_new_br7: brisk<br>already<br>silk<br>entire<br>melt<br>meadow<br>pen
+bip_39_word_new_br8: brisk<br>already<br>silk<br>entire<br>melt<br>meadow<br>pen<br>fox
+bip_39_word_new_br9: brisk<br>already<br>silk<br>entire<br>melt<br>meadow<br>pen<br>fox<br>limb
+bip_39_word_new_line1: brisk
+bip_39_word_new_line10: 'brisk
+
+  already
+
+  silk
+
+  entire
+
+  melt
+
+  meadow
+
+  pen
+
+  fox
+
+  limb
+
+  huge'
+bip_39_word_new_line11: 'brisk
+
+  already
+
+  silk
+
+  entire
+
+  melt
+
+  meadow
+
+  pen
+
+  fox
+
+  limb
+
+  huge
+
+  during'
+bip_39_word_new_line12: 'brisk
+
+  already
+
+  silk
+
+  entire
+
+  melt
+
+  meadow
+
+  pen
+
+  fox
+
+  limb
+
+  huge
+
+  during
+
+  alcohol'
+bip_39_word_new_line2: 'brisk
+
+  already'
+bip_39_word_new_line3: 'brisk
+
+  already
+
+  silk'
+bip_39_word_new_line4: 'brisk
+
+  already
+
+  silk
+
+  entire'
+bip_39_word_new_line5: 'brisk
+
+  already
+
+  silk
+
+  entire
+
+  melt'
+bip_39_word_new_line6: 'brisk
+
+  already
+
+  silk
+
+  entire
+
+  melt
+
+  meadow'
+bip_39_word_new_line7: 'brisk
+
+  already
+
+  silk
+
+  entire
+
+  melt
+
+  meadow
+
+  pen'
+bip_39_word_new_line8: 'brisk
+
+  already
+
+  silk
+
+  entire
+
+  melt
+
+  meadow
+
+  pen
+
+  fox'
+bip_39_word_new_line9: 'brisk
+
+  already
+
+  silk
+
+  entire
+
+  melt
+
+  meadow
+
+  pen
+
+  fox
+
+  limb'
+bip_39_word_space_0:
+- brisk
+- already
+- silk
+- entire
+- melt
+- meadow
+- pen
+- fox
+- limb
+- huge
+- during
+- alcohol
+bip_39_word_space_1: brisk
+bip_39_word_space_10: brisk already silk entire melt meadow pen fox limb huge
+bip_39_word_space_11: brisk already silk entire melt meadow pen fox limb huge during
+bip_39_word_space_12: brisk already silk entire melt meadow pen fox limb huge during
+  alcohol
+bip_39_word_space_2: brisk already
+bip_39_word_space_3: brisk already silk
+bip_39_word_space_4: brisk already silk entire
+bip_39_word_space_5: brisk already silk entire melt
+bip_39_word_space_6: brisk already silk entire melt meadow
+bip_39_word_space_7: brisk already silk entire melt meadow pen
+bip_39_word_space_8: brisk already silk entire melt meadow pen fox
+bip_39_word_space_9: brisk already silk entire melt meadow pen fox limb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

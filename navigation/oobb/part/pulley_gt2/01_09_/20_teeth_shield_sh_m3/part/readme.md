@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tobacco photo
+  * bip 39 word 3: tobacco photo zero
+  * bip 39 word: tobacco photo zero matrix visit pet deer maid employ lock tenant act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tobacco |  
+| bip_39_word_new_br10 | tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock |  
+| bip_39_word_new_br11 | tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock<br>tenant |  
+| bip_39_word_new_br12 | tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ<br>lock<br>tenant<br>act |  
+| bip_39_word_new_br2 | tobacco<br>photo |  
+| bip_39_word_new_br3 | tobacco<br>photo<br>zero |  
+| bip_39_word_new_br4 | tobacco<br>photo<br>zero<br>matrix |  
+| bip_39_word_new_br5 | tobacco<br>photo<br>zero<br>matrix<br>visit |  
+| bip_39_word_new_br6 | tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet |  
+| bip_39_word_new_br7 | tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer |  
+| bip_39_word_new_br8 | tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid |  
+| bip_39_word_new_br9 | tobacco<br>photo<br>zero<br>matrix<br>visit<br>pet<br>deer<br>maid<br>employ |  
+| bip_39_word_new_line1 | tobacco |  
+| bip_39_word_new_line10 | tobacco
+photo
+zero
+matrix
+visit
+pet
+deer
+maid
+employ
+lock |  
+| bip_39_word_new_line11 | tobacco
+photo
+zero
+matrix
+visit
+pet
+deer
+maid
+employ
+lock
+tenant |  
+| bip_39_word_new_line12 | tobacco
+photo
+zero
+matrix
+visit
+pet
+deer
+maid
+employ
+lock
+tenant
+act |  
+| bip_39_word_new_line2 | tobacco
+photo |  
+| bip_39_word_new_line3 | tobacco
+photo
+zero |  
+| bip_39_word_new_line4 | tobacco
+photo
+zero
+matrix |  
+| bip_39_word_new_line5 | tobacco
+photo
+zero
+matrix
+visit |  
+| bip_39_word_new_line6 | tobacco
+photo
+zero
+matrix
+visit
+pet |  
+| bip_39_word_new_line7 | tobacco
+photo
+zero
+matrix
+visit
+pet
+deer |  
+| bip_39_word_new_line8 | tobacco
+photo
+zero
+matrix
+visit
+pet
+deer
+maid |  
+| bip_39_word_new_line9 | tobacco
+photo
+zero
+matrix
+visit
+pet
+deer
+maid
+employ |  
+| bip_39_word_space_0 | ['tobacco', 'photo', 'zero', 'matrix', 'visit', 'pet', 'deer', 'maid', 'employ', 'lock', 'tenant', 'act'] |  
+| bip_39_word_space_1 | tobacco |  
+| bip_39_word_space_10 | tobacco photo zero matrix visit pet deer maid employ lock |  
+| bip_39_word_space_11 | tobacco photo zero matrix visit pet deer maid employ lock tenant |  
+| bip_39_word_space_12 | tobacco photo zero matrix visit pet deer maid employ lock tenant act |  
+| bip_39_word_space_2 | tobacco photo |  
+| bip_39_word_space_3 | tobacco photo zero |  
+| bip_39_word_space_4 | tobacco photo zero matrix |  
+| bip_39_word_space_5 | tobacco photo zero matrix visit |  
+| bip_39_word_space_6 | tobacco photo zero matrix visit pet |  
+| bip_39_word_space_7 | tobacco photo zero matrix visit pet deer |  
+| bip_39_word_space_8 | tobacco photo zero matrix visit pet deer maid |  
+| bip_39_word_space_9 | tobacco photo zero matrix visit pet deer maid employ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

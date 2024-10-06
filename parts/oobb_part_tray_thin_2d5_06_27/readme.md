@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: photo kitchen
+  * bip 39 word 3: photo kitchen play
+  * bip 39 word: photo kitchen play trigger muscle fever boss dirt swing cousin humble airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | photo |  
+| bip_39_word_new_br10 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever<br>boss<br>dirt<br>swing<br>cousin |  
+| bip_39_word_new_br11 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever<br>boss<br>dirt<br>swing<br>cousin<br>humble |  
+| bip_39_word_new_br12 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever<br>boss<br>dirt<br>swing<br>cousin<br>humble<br>airport |  
+| bip_39_word_new_br2 | photo<br>kitchen |  
+| bip_39_word_new_br3 | photo<br>kitchen<br>play |  
+| bip_39_word_new_br4 | photo<br>kitchen<br>play<br>trigger |  
+| bip_39_word_new_br5 | photo<br>kitchen<br>play<br>trigger<br>muscle |  
+| bip_39_word_new_br6 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever |  
+| bip_39_word_new_br7 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever<br>boss |  
+| bip_39_word_new_br8 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever<br>boss<br>dirt |  
+| bip_39_word_new_br9 | photo<br>kitchen<br>play<br>trigger<br>muscle<br>fever<br>boss<br>dirt<br>swing |  
+| bip_39_word_new_line1 | photo |  
+| bip_39_word_new_line10 | photo
+kitchen
+play
+trigger
+muscle
+fever
+boss
+dirt
+swing
+cousin |  
+| bip_39_word_new_line11 | photo
+kitchen
+play
+trigger
+muscle
+fever
+boss
+dirt
+swing
+cousin
+humble |  
+| bip_39_word_new_line12 | photo
+kitchen
+play
+trigger
+muscle
+fever
+boss
+dirt
+swing
+cousin
+humble
+airport |  
+| bip_39_word_new_line2 | photo
+kitchen |  
+| bip_39_word_new_line3 | photo
+kitchen
+play |  
+| bip_39_word_new_line4 | photo
+kitchen
+play
+trigger |  
+| bip_39_word_new_line5 | photo
+kitchen
+play
+trigger
+muscle |  
+| bip_39_word_new_line6 | photo
+kitchen
+play
+trigger
+muscle
+fever |  
+| bip_39_word_new_line7 | photo
+kitchen
+play
+trigger
+muscle
+fever
+boss |  
+| bip_39_word_new_line8 | photo
+kitchen
+play
+trigger
+muscle
+fever
+boss
+dirt |  
+| bip_39_word_new_line9 | photo
+kitchen
+play
+trigger
+muscle
+fever
+boss
+dirt
+swing |  
+| bip_39_word_space_0 | ['photo', 'kitchen', 'play', 'trigger', 'muscle', 'fever', 'boss', 'dirt', 'swing', 'cousin', 'humble', 'airport'] |  
+| bip_39_word_space_1 | photo |  
+| bip_39_word_space_10 | photo kitchen play trigger muscle fever boss dirt swing cousin |  
+| bip_39_word_space_11 | photo kitchen play trigger muscle fever boss dirt swing cousin humble |  
+| bip_39_word_space_12 | photo kitchen play trigger muscle fever boss dirt swing cousin humble airport |  
+| bip_39_word_space_2 | photo kitchen |  
+| bip_39_word_space_3 | photo kitchen play |  
+| bip_39_word_space_4 | photo kitchen play trigger |  
+| bip_39_word_space_5 | photo kitchen play trigger muscle |  
+| bip_39_word_space_6 | photo kitchen play trigger muscle fever |  
+| bip_39_word_space_7 | photo kitchen play trigger muscle fever boss |  
+| bip_39_word_space_8 | photo kitchen play trigger muscle fever boss dirt |  
+| bip_39_word_space_9 | photo kitchen play trigger muscle fever boss dirt swing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

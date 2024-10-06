@@ -1,3 +1,186 @@
+bip_39_word_new_br1: join
+bip_39_word_new_br10: join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable
+bip_39_word_new_br11: join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable<br>innocent
+bip_39_word_new_br12: join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean<br>enable<br>innocent<br>almost
+bip_39_word_new_br2: join<br>chimney
+bip_39_word_new_br3: join<br>chimney<br>pair
+bip_39_word_new_br4: join<br>chimney<br>pair<br>scatter
+bip_39_word_new_br5: join<br>chimney<br>pair<br>scatter<br>else
+bip_39_word_new_br6: join<br>chimney<br>pair<br>scatter<br>else<br>symbol
+bip_39_word_new_br7: join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly
+bip_39_word_new_br8: join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category
+bip_39_word_new_br9: join<br>chimney<br>pair<br>scatter<br>else<br>symbol<br>truly<br>category<br>clean
+bip_39_word_new_line1: join
+bip_39_word_new_line10: 'join
+
+  chimney
+
+  pair
+
+  scatter
+
+  else
+
+  symbol
+
+  truly
+
+  category
+
+  clean
+
+  enable'
+bip_39_word_new_line11: 'join
+
+  chimney
+
+  pair
+
+  scatter
+
+  else
+
+  symbol
+
+  truly
+
+  category
+
+  clean
+
+  enable
+
+  innocent'
+bip_39_word_new_line12: 'join
+
+  chimney
+
+  pair
+
+  scatter
+
+  else
+
+  symbol
+
+  truly
+
+  category
+
+  clean
+
+  enable
+
+  innocent
+
+  almost'
+bip_39_word_new_line2: 'join
+
+  chimney'
+bip_39_word_new_line3: 'join
+
+  chimney
+
+  pair'
+bip_39_word_new_line4: 'join
+
+  chimney
+
+  pair
+
+  scatter'
+bip_39_word_new_line5: 'join
+
+  chimney
+
+  pair
+
+  scatter
+
+  else'
+bip_39_word_new_line6: 'join
+
+  chimney
+
+  pair
+
+  scatter
+
+  else
+
+  symbol'
+bip_39_word_new_line7: 'join
+
+  chimney
+
+  pair
+
+  scatter
+
+  else
+
+  symbol
+
+  truly'
+bip_39_word_new_line8: 'join
+
+  chimney
+
+  pair
+
+  scatter
+
+  else
+
+  symbol
+
+  truly
+
+  category'
+bip_39_word_new_line9: 'join
+
+  chimney
+
+  pair
+
+  scatter
+
+  else
+
+  symbol
+
+  truly
+
+  category
+
+  clean'
+bip_39_word_space_0:
+- join
+- chimney
+- pair
+- scatter
+- else
+- symbol
+- truly
+- category
+- clean
+- enable
+- innocent
+- almost
+bip_39_word_space_1: join
+bip_39_word_space_10: join chimney pair scatter else symbol truly category clean enable
+bip_39_word_space_11: join chimney pair scatter else symbol truly category clean enable
+  innocent
+bip_39_word_space_12: join chimney pair scatter else symbol truly category clean enable
+  innocent almost
+bip_39_word_space_2: join chimney
+bip_39_word_space_3: join chimney pair
+bip_39_word_space_4: join chimney pair scatter
+bip_39_word_space_5: join chimney pair scatter else
+bip_39_word_space_6: join chimney pair scatter else symbol
+bip_39_word_space_7: join chimney pair scatter else symbol truly
+bip_39_word_space_8: join chimney pair scatter else symbol truly category
+bip_39_word_space_9: join chimney pair scatter else symbol truly category clean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

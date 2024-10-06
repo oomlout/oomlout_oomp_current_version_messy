@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: wanhao
   * part_number: dupicator_i3_plus
+  * bip 39 word 2: logic earth
+  * bip 39 word 3: logic earth butter
+  * bip 39 word: logic earth butter alpha proof swear relax club marriage outdoor escape announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | logic |  
+| bip_39_word_new_br10 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor |  
+| bip_39_word_new_br11 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape |  
+| bip_39_word_new_br12 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape<br>announce |  
+| bip_39_word_new_br2 | logic<br>earth |  
+| bip_39_word_new_br3 | logic<br>earth<br>butter |  
+| bip_39_word_new_br4 | logic<br>earth<br>butter<br>alpha |  
+| bip_39_word_new_br5 | logic<br>earth<br>butter<br>alpha<br>proof |  
+| bip_39_word_new_br6 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear |  
+| bip_39_word_new_br7 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax |  
+| bip_39_word_new_br8 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club |  
+| bip_39_word_new_br9 | logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage |  
+| bip_39_word_new_line1 | logic |  
+| bip_39_word_new_line10 | logic
+earth
+butter
+alpha
+proof
+swear
+relax
+club
+marriage
+outdoor |  
+| bip_39_word_new_line11 | logic
+earth
+butter
+alpha
+proof
+swear
+relax
+club
+marriage
+outdoor
+escape |  
+| bip_39_word_new_line12 | logic
+earth
+butter
+alpha
+proof
+swear
+relax
+club
+marriage
+outdoor
+escape
+announce |  
+| bip_39_word_new_line2 | logic
+earth |  
+| bip_39_word_new_line3 | logic
+earth
+butter |  
+| bip_39_word_new_line4 | logic
+earth
+butter
+alpha |  
+| bip_39_word_new_line5 | logic
+earth
+butter
+alpha
+proof |  
+| bip_39_word_new_line6 | logic
+earth
+butter
+alpha
+proof
+swear |  
+| bip_39_word_new_line7 | logic
+earth
+butter
+alpha
+proof
+swear
+relax |  
+| bip_39_word_new_line8 | logic
+earth
+butter
+alpha
+proof
+swear
+relax
+club |  
+| bip_39_word_new_line9 | logic
+earth
+butter
+alpha
+proof
+swear
+relax
+club
+marriage |  
+| bip_39_word_space_0 | ['logic', 'earth', 'butter', 'alpha', 'proof', 'swear', 'relax', 'club', 'marriage', 'outdoor', 'escape', 'announce'] |  
+| bip_39_word_space_1 | logic |  
+| bip_39_word_space_10 | logic earth butter alpha proof swear relax club marriage outdoor |  
+| bip_39_word_space_11 | logic earth butter alpha proof swear relax club marriage outdoor escape |  
+| bip_39_word_space_12 | logic earth butter alpha proof swear relax club marriage outdoor escape announce |  
+| bip_39_word_space_2 | logic earth |  
+| bip_39_word_space_3 | logic earth butter |  
+| bip_39_word_space_4 | logic earth butter alpha |  
+| bip_39_word_space_5 | logic earth butter alpha proof |  
+| bip_39_word_space_6 | logic earth butter alpha proof swear |  
+| bip_39_word_space_7 | logic earth butter alpha proof swear relax |  
+| bip_39_word_space_8 | logic earth butter alpha proof swear relax club |  
+| bip_39_word_space_9 | logic earth butter alpha proof swear relax club marriage |  
 | classification | three_d_printer |  
 | classification_capital | Three D Printer |  
 | classification_first_letter | t |  

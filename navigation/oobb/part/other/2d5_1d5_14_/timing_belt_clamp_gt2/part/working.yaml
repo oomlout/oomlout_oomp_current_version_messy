@@ -1,3 +1,187 @@
+bip_39_word_new_br1: tuna
+bip_39_word_new_br10: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden<br>situate<br>fantasy<br>member<br>myth
+bip_39_word_new_br11: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden<br>situate<br>fantasy<br>member<br>myth<br>verb
+bip_39_word_new_br12: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden<br>situate<br>fantasy<br>member<br>myth<br>verb<br>arrive
+bip_39_word_new_br2: tuna<br>vocal
+bip_39_word_new_br3: tuna<br>vocal<br>shallow
+bip_39_word_new_br4: tuna<br>vocal<br>shallow<br>faculty
+bip_39_word_new_br5: tuna<br>vocal<br>shallow<br>faculty<br>sense
+bip_39_word_new_br6: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden
+bip_39_word_new_br7: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden<br>situate
+bip_39_word_new_br8: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden<br>situate<br>fantasy
+bip_39_word_new_br9: tuna<br>vocal<br>shallow<br>faculty<br>sense<br>burden<br>situate<br>fantasy<br>member
+bip_39_word_new_line1: tuna
+bip_39_word_new_line10: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty
+
+  sense
+
+  burden
+
+  situate
+
+  fantasy
+
+  member
+
+  myth'
+bip_39_word_new_line11: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty
+
+  sense
+
+  burden
+
+  situate
+
+  fantasy
+
+  member
+
+  myth
+
+  verb'
+bip_39_word_new_line12: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty
+
+  sense
+
+  burden
+
+  situate
+
+  fantasy
+
+  member
+
+  myth
+
+  verb
+
+  arrive'
+bip_39_word_new_line2: 'tuna
+
+  vocal'
+bip_39_word_new_line3: 'tuna
+
+  vocal
+
+  shallow'
+bip_39_word_new_line4: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty'
+bip_39_word_new_line5: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty
+
+  sense'
+bip_39_word_new_line6: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty
+
+  sense
+
+  burden'
+bip_39_word_new_line7: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty
+
+  sense
+
+  burden
+
+  situate'
+bip_39_word_new_line8: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty
+
+  sense
+
+  burden
+
+  situate
+
+  fantasy'
+bip_39_word_new_line9: 'tuna
+
+  vocal
+
+  shallow
+
+  faculty
+
+  sense
+
+  burden
+
+  situate
+
+  fantasy
+
+  member'
+bip_39_word_space_0:
+- tuna
+- vocal
+- shallow
+- faculty
+- sense
+- burden
+- situate
+- fantasy
+- member
+- myth
+- verb
+- arrive
+bip_39_word_space_1: tuna
+bip_39_word_space_10: tuna vocal shallow faculty sense burden situate fantasy member
+  myth
+bip_39_word_space_11: tuna vocal shallow faculty sense burden situate fantasy member
+  myth verb
+bip_39_word_space_12: tuna vocal shallow faculty sense burden situate fantasy member
+  myth verb arrive
+bip_39_word_space_2: tuna vocal
+bip_39_word_space_3: tuna vocal shallow
+bip_39_word_space_4: tuna vocal shallow faculty
+bip_39_word_space_5: tuna vocal shallow faculty sense
+bip_39_word_space_6: tuna vocal shallow faculty sense burden
+bip_39_word_space_7: tuna vocal shallow faculty sense burden situate
+bip_39_word_space_8: tuna vocal shallow faculty sense burden situate fantasy
+bip_39_word_space_9: tuna vocal shallow faculty sense burden situate fantasy member
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

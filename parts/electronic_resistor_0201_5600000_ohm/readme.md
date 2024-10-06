@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: phrase vast
+  * bip 39 word 3: phrase vast husband
+  * bip 39 word: phrase vast husband play worth clap spend pilot gather spawn asthma assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | phrase |  
+| bip_39_word_new_br10 | phrase<br>vast<br>husband<br>play<br>worth<br>clap<br>spend<br>pilot<br>gather<br>spawn |  
+| bip_39_word_new_br11 | phrase<br>vast<br>husband<br>play<br>worth<br>clap<br>spend<br>pilot<br>gather<br>spawn<br>asthma |  
+| bip_39_word_new_br12 | phrase<br>vast<br>husband<br>play<br>worth<br>clap<br>spend<br>pilot<br>gather<br>spawn<br>asthma<br>assist |  
+| bip_39_word_new_br2 | phrase<br>vast |  
+| bip_39_word_new_br3 | phrase<br>vast<br>husband |  
+| bip_39_word_new_br4 | phrase<br>vast<br>husband<br>play |  
+| bip_39_word_new_br5 | phrase<br>vast<br>husband<br>play<br>worth |  
+| bip_39_word_new_br6 | phrase<br>vast<br>husband<br>play<br>worth<br>clap |  
+| bip_39_word_new_br7 | phrase<br>vast<br>husband<br>play<br>worth<br>clap<br>spend |  
+| bip_39_word_new_br8 | phrase<br>vast<br>husband<br>play<br>worth<br>clap<br>spend<br>pilot |  
+| bip_39_word_new_br9 | phrase<br>vast<br>husband<br>play<br>worth<br>clap<br>spend<br>pilot<br>gather |  
+| bip_39_word_new_line1 | phrase |  
+| bip_39_word_new_line10 | phrase
+vast
+husband
+play
+worth
+clap
+spend
+pilot
+gather
+spawn |  
+| bip_39_word_new_line11 | phrase
+vast
+husband
+play
+worth
+clap
+spend
+pilot
+gather
+spawn
+asthma |  
+| bip_39_word_new_line12 | phrase
+vast
+husband
+play
+worth
+clap
+spend
+pilot
+gather
+spawn
+asthma
+assist |  
+| bip_39_word_new_line2 | phrase
+vast |  
+| bip_39_word_new_line3 | phrase
+vast
+husband |  
+| bip_39_word_new_line4 | phrase
+vast
+husband
+play |  
+| bip_39_word_new_line5 | phrase
+vast
+husband
+play
+worth |  
+| bip_39_word_new_line6 | phrase
+vast
+husband
+play
+worth
+clap |  
+| bip_39_word_new_line7 | phrase
+vast
+husband
+play
+worth
+clap
+spend |  
+| bip_39_word_new_line8 | phrase
+vast
+husband
+play
+worth
+clap
+spend
+pilot |  
+| bip_39_word_new_line9 | phrase
+vast
+husband
+play
+worth
+clap
+spend
+pilot
+gather |  
+| bip_39_word_space_0 | ['phrase', 'vast', 'husband', 'play', 'worth', 'clap', 'spend', 'pilot', 'gather', 'spawn', 'asthma', 'assist'] |  
+| bip_39_word_space_1 | phrase |  
+| bip_39_word_space_10 | phrase vast husband play worth clap spend pilot gather spawn |  
+| bip_39_word_space_11 | phrase vast husband play worth clap spend pilot gather spawn asthma |  
+| bip_39_word_space_12 | phrase vast husband play worth clap spend pilot gather spawn asthma assist |  
+| bip_39_word_space_2 | phrase vast |  
+| bip_39_word_space_3 | phrase vast husband |  
+| bip_39_word_space_4 | phrase vast husband play |  
+| bip_39_word_space_5 | phrase vast husband play worth |  
+| bip_39_word_space_6 | phrase vast husband play worth clap |  
+| bip_39_word_space_7 | phrase vast husband play worth clap spend |  
+| bip_39_word_space_8 | phrase vast husband play worth clap spend pilot |  
+| bip_39_word_space_9 | phrase vast husband play worth clap spend pilot gather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

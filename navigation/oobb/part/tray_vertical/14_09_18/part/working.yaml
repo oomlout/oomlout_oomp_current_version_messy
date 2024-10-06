@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fruit
+bip_39_word_new_br10: fruit<br>test<br>similar<br>impulse<br>route<br>bulb<br>tired<br>garlic<br>vote<br>among
+bip_39_word_new_br11: fruit<br>test<br>similar<br>impulse<br>route<br>bulb<br>tired<br>garlic<br>vote<br>among<br>cement
+bip_39_word_new_br12: fruit<br>test<br>similar<br>impulse<br>route<br>bulb<br>tired<br>garlic<br>vote<br>among<br>cement<br>absorb
+bip_39_word_new_br2: fruit<br>test
+bip_39_word_new_br3: fruit<br>test<br>similar
+bip_39_word_new_br4: fruit<br>test<br>similar<br>impulse
+bip_39_word_new_br5: fruit<br>test<br>similar<br>impulse<br>route
+bip_39_word_new_br6: fruit<br>test<br>similar<br>impulse<br>route<br>bulb
+bip_39_word_new_br7: fruit<br>test<br>similar<br>impulse<br>route<br>bulb<br>tired
+bip_39_word_new_br8: fruit<br>test<br>similar<br>impulse<br>route<br>bulb<br>tired<br>garlic
+bip_39_word_new_br9: fruit<br>test<br>similar<br>impulse<br>route<br>bulb<br>tired<br>garlic<br>vote
+bip_39_word_new_line1: fruit
+bip_39_word_new_line10: 'fruit
+
+  test
+
+  similar
+
+  impulse
+
+  route
+
+  bulb
+
+  tired
+
+  garlic
+
+  vote
+
+  among'
+bip_39_word_new_line11: 'fruit
+
+  test
+
+  similar
+
+  impulse
+
+  route
+
+  bulb
+
+  tired
+
+  garlic
+
+  vote
+
+  among
+
+  cement'
+bip_39_word_new_line12: 'fruit
+
+  test
+
+  similar
+
+  impulse
+
+  route
+
+  bulb
+
+  tired
+
+  garlic
+
+  vote
+
+  among
+
+  cement
+
+  absorb'
+bip_39_word_new_line2: 'fruit
+
+  test'
+bip_39_word_new_line3: 'fruit
+
+  test
+
+  similar'
+bip_39_word_new_line4: 'fruit
+
+  test
+
+  similar
+
+  impulse'
+bip_39_word_new_line5: 'fruit
+
+  test
+
+  similar
+
+  impulse
+
+  route'
+bip_39_word_new_line6: 'fruit
+
+  test
+
+  similar
+
+  impulse
+
+  route
+
+  bulb'
+bip_39_word_new_line7: 'fruit
+
+  test
+
+  similar
+
+  impulse
+
+  route
+
+  bulb
+
+  tired'
+bip_39_word_new_line8: 'fruit
+
+  test
+
+  similar
+
+  impulse
+
+  route
+
+  bulb
+
+  tired
+
+  garlic'
+bip_39_word_new_line9: 'fruit
+
+  test
+
+  similar
+
+  impulse
+
+  route
+
+  bulb
+
+  tired
+
+  garlic
+
+  vote'
+bip_39_word_space_0:
+- fruit
+- test
+- similar
+- impulse
+- route
+- bulb
+- tired
+- garlic
+- vote
+- among
+- cement
+- absorb
+bip_39_word_space_1: fruit
+bip_39_word_space_10: fruit test similar impulse route bulb tired garlic vote among
+bip_39_word_space_11: fruit test similar impulse route bulb tired garlic vote among
+  cement
+bip_39_word_space_12: fruit test similar impulse route bulb tired garlic vote among
+  cement absorb
+bip_39_word_space_2: fruit test
+bip_39_word_space_3: fruit test similar
+bip_39_word_space_4: fruit test similar impulse
+bip_39_word_space_5: fruit test similar impulse route
+bip_39_word_space_6: fruit test similar impulse route bulb
+bip_39_word_space_7: fruit test similar impulse route bulb tired
+bip_39_word_space_8: fruit test similar impulse route bulb tired garlic
+bip_39_word_space_9: fruit test similar impulse route bulb tired garlic vote
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

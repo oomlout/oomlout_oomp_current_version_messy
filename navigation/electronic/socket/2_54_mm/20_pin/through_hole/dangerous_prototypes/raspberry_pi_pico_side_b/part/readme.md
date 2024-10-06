@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: dangerous_prototypes
   * part_number: raspberry_pi_pico_side_b
+  * bip 39 word 2: gospel repeat
+  * bip 39 word 3: gospel repeat alter
+  * bip 39 word: gospel repeat alter stuff captain normal domain foster dizzy recycle quick alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gospel |  
+| bip_39_word_new_br10 | gospel<br>repeat<br>alter<br>stuff<br>captain<br>normal<br>domain<br>foster<br>dizzy<br>recycle |  
+| bip_39_word_new_br11 | gospel<br>repeat<br>alter<br>stuff<br>captain<br>normal<br>domain<br>foster<br>dizzy<br>recycle<br>quick |  
+| bip_39_word_new_br12 | gospel<br>repeat<br>alter<br>stuff<br>captain<br>normal<br>domain<br>foster<br>dizzy<br>recycle<br>quick<br>alarm |  
+| bip_39_word_new_br2 | gospel<br>repeat |  
+| bip_39_word_new_br3 | gospel<br>repeat<br>alter |  
+| bip_39_word_new_br4 | gospel<br>repeat<br>alter<br>stuff |  
+| bip_39_word_new_br5 | gospel<br>repeat<br>alter<br>stuff<br>captain |  
+| bip_39_word_new_br6 | gospel<br>repeat<br>alter<br>stuff<br>captain<br>normal |  
+| bip_39_word_new_br7 | gospel<br>repeat<br>alter<br>stuff<br>captain<br>normal<br>domain |  
+| bip_39_word_new_br8 | gospel<br>repeat<br>alter<br>stuff<br>captain<br>normal<br>domain<br>foster |  
+| bip_39_word_new_br9 | gospel<br>repeat<br>alter<br>stuff<br>captain<br>normal<br>domain<br>foster<br>dizzy |  
+| bip_39_word_new_line1 | gospel |  
+| bip_39_word_new_line10 | gospel
+repeat
+alter
+stuff
+captain
+normal
+domain
+foster
+dizzy
+recycle |  
+| bip_39_word_new_line11 | gospel
+repeat
+alter
+stuff
+captain
+normal
+domain
+foster
+dizzy
+recycle
+quick |  
+| bip_39_word_new_line12 | gospel
+repeat
+alter
+stuff
+captain
+normal
+domain
+foster
+dizzy
+recycle
+quick
+alarm |  
+| bip_39_word_new_line2 | gospel
+repeat |  
+| bip_39_word_new_line3 | gospel
+repeat
+alter |  
+| bip_39_word_new_line4 | gospel
+repeat
+alter
+stuff |  
+| bip_39_word_new_line5 | gospel
+repeat
+alter
+stuff
+captain |  
+| bip_39_word_new_line6 | gospel
+repeat
+alter
+stuff
+captain
+normal |  
+| bip_39_word_new_line7 | gospel
+repeat
+alter
+stuff
+captain
+normal
+domain |  
+| bip_39_word_new_line8 | gospel
+repeat
+alter
+stuff
+captain
+normal
+domain
+foster |  
+| bip_39_word_new_line9 | gospel
+repeat
+alter
+stuff
+captain
+normal
+domain
+foster
+dizzy |  
+| bip_39_word_space_0 | ['gospel', 'repeat', 'alter', 'stuff', 'captain', 'normal', 'domain', 'foster', 'dizzy', 'recycle', 'quick', 'alarm'] |  
+| bip_39_word_space_1 | gospel |  
+| bip_39_word_space_10 | gospel repeat alter stuff captain normal domain foster dizzy recycle |  
+| bip_39_word_space_11 | gospel repeat alter stuff captain normal domain foster dizzy recycle quick |  
+| bip_39_word_space_12 | gospel repeat alter stuff captain normal domain foster dizzy recycle quick alarm |  
+| bip_39_word_space_2 | gospel repeat |  
+| bip_39_word_space_3 | gospel repeat alter |  
+| bip_39_word_space_4 | gospel repeat alter stuff |  
+| bip_39_word_space_5 | gospel repeat alter stuff captain |  
+| bip_39_word_space_6 | gospel repeat alter stuff captain normal |  
+| bip_39_word_space_7 | gospel repeat alter stuff captain normal domain |  
+| bip_39_word_space_8 | gospel repeat alter stuff captain normal domain foster |  
+| bip_39_word_space_9 | gospel repeat alter stuff captain normal domain foster dizzy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

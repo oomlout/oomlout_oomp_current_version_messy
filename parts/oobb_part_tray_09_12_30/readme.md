@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tree amazing
+  * bip 39 word 3: tree amazing drink
+  * bip 39 word: tree amazing drink lunar another clog bitter vibrant mask super afford abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tree |  
+| bip_39_word_new_br10 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog<br>bitter<br>vibrant<br>mask<br>super |  
+| bip_39_word_new_br11 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog<br>bitter<br>vibrant<br>mask<br>super<br>afford |  
+| bip_39_word_new_br12 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog<br>bitter<br>vibrant<br>mask<br>super<br>afford<br>abstract |  
+| bip_39_word_new_br2 | tree<br>amazing |  
+| bip_39_word_new_br3 | tree<br>amazing<br>drink |  
+| bip_39_word_new_br4 | tree<br>amazing<br>drink<br>lunar |  
+| bip_39_word_new_br5 | tree<br>amazing<br>drink<br>lunar<br>another |  
+| bip_39_word_new_br6 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog |  
+| bip_39_word_new_br7 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog<br>bitter |  
+| bip_39_word_new_br8 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog<br>bitter<br>vibrant |  
+| bip_39_word_new_br9 | tree<br>amazing<br>drink<br>lunar<br>another<br>clog<br>bitter<br>vibrant<br>mask |  
+| bip_39_word_new_line1 | tree |  
+| bip_39_word_new_line10 | tree
+amazing
+drink
+lunar
+another
+clog
+bitter
+vibrant
+mask
+super |  
+| bip_39_word_new_line11 | tree
+amazing
+drink
+lunar
+another
+clog
+bitter
+vibrant
+mask
+super
+afford |  
+| bip_39_word_new_line12 | tree
+amazing
+drink
+lunar
+another
+clog
+bitter
+vibrant
+mask
+super
+afford
+abstract |  
+| bip_39_word_new_line2 | tree
+amazing |  
+| bip_39_word_new_line3 | tree
+amazing
+drink |  
+| bip_39_word_new_line4 | tree
+amazing
+drink
+lunar |  
+| bip_39_word_new_line5 | tree
+amazing
+drink
+lunar
+another |  
+| bip_39_word_new_line6 | tree
+amazing
+drink
+lunar
+another
+clog |  
+| bip_39_word_new_line7 | tree
+amazing
+drink
+lunar
+another
+clog
+bitter |  
+| bip_39_word_new_line8 | tree
+amazing
+drink
+lunar
+another
+clog
+bitter
+vibrant |  
+| bip_39_word_new_line9 | tree
+amazing
+drink
+lunar
+another
+clog
+bitter
+vibrant
+mask |  
+| bip_39_word_space_0 | ['tree', 'amazing', 'drink', 'lunar', 'another', 'clog', 'bitter', 'vibrant', 'mask', 'super', 'afford', 'abstract'] |  
+| bip_39_word_space_1 | tree |  
+| bip_39_word_space_10 | tree amazing drink lunar another clog bitter vibrant mask super |  
+| bip_39_word_space_11 | tree amazing drink lunar another clog bitter vibrant mask super afford |  
+| bip_39_word_space_12 | tree amazing drink lunar another clog bitter vibrant mask super afford abstract |  
+| bip_39_word_space_2 | tree amazing |  
+| bip_39_word_space_3 | tree amazing drink |  
+| bip_39_word_space_4 | tree amazing drink lunar |  
+| bip_39_word_space_5 | tree amazing drink lunar another |  
+| bip_39_word_space_6 | tree amazing drink lunar another clog |  
+| bip_39_word_space_7 | tree amazing drink lunar another clog bitter |  
+| bip_39_word_space_8 | tree amazing drink lunar another clog bitter vibrant |  
+| bip_39_word_space_9 | tree amazing drink lunar another clog bitter vibrant mask |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

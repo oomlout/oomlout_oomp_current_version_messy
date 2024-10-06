@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stereo sort
+  * bip 39 word 3: stereo sort solar
+  * bip 39 word: stereo sort solar link gentle symbol memory busy deal poverty sudden across
 
 ### other_codes
 * short_code: cs5bz50pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stereo |  
+| bip_39_word_new_br10 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal<br>poverty |  
+| bip_39_word_new_br11 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal<br>poverty<br>sudden |  
+| bip_39_word_new_br12 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal<br>poverty<br>sudden<br>across |  
+| bip_39_word_new_br2 | stereo<br>sort |  
+| bip_39_word_new_br3 | stereo<br>sort<br>solar |  
+| bip_39_word_new_br4 | stereo<br>sort<br>solar<br>link |  
+| bip_39_word_new_br5 | stereo<br>sort<br>solar<br>link<br>gentle |  
+| bip_39_word_new_br6 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol |  
+| bip_39_word_new_br7 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory |  
+| bip_39_word_new_br8 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy |  
+| bip_39_word_new_br9 | stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal |  
+| bip_39_word_new_line1 | stereo |  
+| bip_39_word_new_line10 | stereo
+sort
+solar
+link
+gentle
+symbol
+memory
+busy
+deal
+poverty |  
+| bip_39_word_new_line11 | stereo
+sort
+solar
+link
+gentle
+symbol
+memory
+busy
+deal
+poverty
+sudden |  
+| bip_39_word_new_line12 | stereo
+sort
+solar
+link
+gentle
+symbol
+memory
+busy
+deal
+poverty
+sudden
+across |  
+| bip_39_word_new_line2 | stereo
+sort |  
+| bip_39_word_new_line3 | stereo
+sort
+solar |  
+| bip_39_word_new_line4 | stereo
+sort
+solar
+link |  
+| bip_39_word_new_line5 | stereo
+sort
+solar
+link
+gentle |  
+| bip_39_word_new_line6 | stereo
+sort
+solar
+link
+gentle
+symbol |  
+| bip_39_word_new_line7 | stereo
+sort
+solar
+link
+gentle
+symbol
+memory |  
+| bip_39_word_new_line8 | stereo
+sort
+solar
+link
+gentle
+symbol
+memory
+busy |  
+| bip_39_word_new_line9 | stereo
+sort
+solar
+link
+gentle
+symbol
+memory
+busy
+deal |  
+| bip_39_word_space_0 | ['stereo', 'sort', 'solar', 'link', 'gentle', 'symbol', 'memory', 'busy', 'deal', 'poverty', 'sudden', 'across'] |  
+| bip_39_word_space_1 | stereo |  
+| bip_39_word_space_10 | stereo sort solar link gentle symbol memory busy deal poverty |  
+| bip_39_word_space_11 | stereo sort solar link gentle symbol memory busy deal poverty sudden |  
+| bip_39_word_space_12 | stereo sort solar link gentle symbol memory busy deal poverty sudden across |  
+| bip_39_word_space_2 | stereo sort |  
+| bip_39_word_space_3 | stereo sort solar |  
+| bip_39_word_space_4 | stereo sort solar link |  
+| bip_39_word_space_5 | stereo sort solar link gentle |  
+| bip_39_word_space_6 | stereo sort solar link gentle symbol |  
+| bip_39_word_space_7 | stereo sort solar link gentle symbol memory |  
+| bip_39_word_space_8 | stereo sort solar link gentle symbol memory busy |  
+| bip_39_word_space_9 | stereo sort solar link gentle symbol memory busy deal |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

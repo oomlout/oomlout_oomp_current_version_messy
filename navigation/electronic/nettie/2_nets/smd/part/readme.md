@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wood lady
+  * bip 39 word 3: wood lady essay
+  * bip 39 word: wood lady essay canal income loyal cargo jungle toss inner keen agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wood |  
+| bip_39_word_new_br10 | wood<br>lady<br>essay<br>canal<br>income<br>loyal<br>cargo<br>jungle<br>toss<br>inner |  
+| bip_39_word_new_br11 | wood<br>lady<br>essay<br>canal<br>income<br>loyal<br>cargo<br>jungle<br>toss<br>inner<br>keen |  
+| bip_39_word_new_br12 | wood<br>lady<br>essay<br>canal<br>income<br>loyal<br>cargo<br>jungle<br>toss<br>inner<br>keen<br>agent |  
+| bip_39_word_new_br2 | wood<br>lady |  
+| bip_39_word_new_br3 | wood<br>lady<br>essay |  
+| bip_39_word_new_br4 | wood<br>lady<br>essay<br>canal |  
+| bip_39_word_new_br5 | wood<br>lady<br>essay<br>canal<br>income |  
+| bip_39_word_new_br6 | wood<br>lady<br>essay<br>canal<br>income<br>loyal |  
+| bip_39_word_new_br7 | wood<br>lady<br>essay<br>canal<br>income<br>loyal<br>cargo |  
+| bip_39_word_new_br8 | wood<br>lady<br>essay<br>canal<br>income<br>loyal<br>cargo<br>jungle |  
+| bip_39_word_new_br9 | wood<br>lady<br>essay<br>canal<br>income<br>loyal<br>cargo<br>jungle<br>toss |  
+| bip_39_word_new_line1 | wood |  
+| bip_39_word_new_line10 | wood
+lady
+essay
+canal
+income
+loyal
+cargo
+jungle
+toss
+inner |  
+| bip_39_word_new_line11 | wood
+lady
+essay
+canal
+income
+loyal
+cargo
+jungle
+toss
+inner
+keen |  
+| bip_39_word_new_line12 | wood
+lady
+essay
+canal
+income
+loyal
+cargo
+jungle
+toss
+inner
+keen
+agent |  
+| bip_39_word_new_line2 | wood
+lady |  
+| bip_39_word_new_line3 | wood
+lady
+essay |  
+| bip_39_word_new_line4 | wood
+lady
+essay
+canal |  
+| bip_39_word_new_line5 | wood
+lady
+essay
+canal
+income |  
+| bip_39_word_new_line6 | wood
+lady
+essay
+canal
+income
+loyal |  
+| bip_39_word_new_line7 | wood
+lady
+essay
+canal
+income
+loyal
+cargo |  
+| bip_39_word_new_line8 | wood
+lady
+essay
+canal
+income
+loyal
+cargo
+jungle |  
+| bip_39_word_new_line9 | wood
+lady
+essay
+canal
+income
+loyal
+cargo
+jungle
+toss |  
+| bip_39_word_space_0 | ['wood', 'lady', 'essay', 'canal', 'income', 'loyal', 'cargo', 'jungle', 'toss', 'inner', 'keen', 'agent'] |  
+| bip_39_word_space_1 | wood |  
+| bip_39_word_space_10 | wood lady essay canal income loyal cargo jungle toss inner |  
+| bip_39_word_space_11 | wood lady essay canal income loyal cargo jungle toss inner keen |  
+| bip_39_word_space_12 | wood lady essay canal income loyal cargo jungle toss inner keen agent |  
+| bip_39_word_space_2 | wood lady |  
+| bip_39_word_space_3 | wood lady essay |  
+| bip_39_word_space_4 | wood lady essay canal |  
+| bip_39_word_space_5 | wood lady essay canal income |  
+| bip_39_word_space_6 | wood lady essay canal income loyal |  
+| bip_39_word_space_7 | wood lady essay canal income loyal cargo |  
+| bip_39_word_space_8 | wood lady essay canal income loyal cargo jungle |  
+| bip_39_word_space_9 | wood lady essay canal income loyal cargo jungle toss |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brown gorilla
+  * bip 39 word 3: brown gorilla estate
+  * bip 39 word: brown gorilla estate rhythm tattoo quit capital afraid depend blind wild alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brown |  
+| bip_39_word_new_br10 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend<br>blind |  
+| bip_39_word_new_br11 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend<br>blind<br>wild |  
+| bip_39_word_new_br12 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend<br>blind<br>wild<br>alter |  
+| bip_39_word_new_br2 | brown<br>gorilla |  
+| bip_39_word_new_br3 | brown<br>gorilla<br>estate |  
+| bip_39_word_new_br4 | brown<br>gorilla<br>estate<br>rhythm |  
+| bip_39_word_new_br5 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo |  
+| bip_39_word_new_br6 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit |  
+| bip_39_word_new_br7 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital |  
+| bip_39_word_new_br8 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid |  
+| bip_39_word_new_br9 | brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend |  
+| bip_39_word_new_line1 | brown |  
+| bip_39_word_new_line10 | brown
+gorilla
+estate
+rhythm
+tattoo
+quit
+capital
+afraid
+depend
+blind |  
+| bip_39_word_new_line11 | brown
+gorilla
+estate
+rhythm
+tattoo
+quit
+capital
+afraid
+depend
+blind
+wild |  
+| bip_39_word_new_line12 | brown
+gorilla
+estate
+rhythm
+tattoo
+quit
+capital
+afraid
+depend
+blind
+wild
+alter |  
+| bip_39_word_new_line2 | brown
+gorilla |  
+| bip_39_word_new_line3 | brown
+gorilla
+estate |  
+| bip_39_word_new_line4 | brown
+gorilla
+estate
+rhythm |  
+| bip_39_word_new_line5 | brown
+gorilla
+estate
+rhythm
+tattoo |  
+| bip_39_word_new_line6 | brown
+gorilla
+estate
+rhythm
+tattoo
+quit |  
+| bip_39_word_new_line7 | brown
+gorilla
+estate
+rhythm
+tattoo
+quit
+capital |  
+| bip_39_word_new_line8 | brown
+gorilla
+estate
+rhythm
+tattoo
+quit
+capital
+afraid |  
+| bip_39_word_new_line9 | brown
+gorilla
+estate
+rhythm
+tattoo
+quit
+capital
+afraid
+depend |  
+| bip_39_word_space_0 | ['brown', 'gorilla', 'estate', 'rhythm', 'tattoo', 'quit', 'capital', 'afraid', 'depend', 'blind', 'wild', 'alter'] |  
+| bip_39_word_space_1 | brown |  
+| bip_39_word_space_10 | brown gorilla estate rhythm tattoo quit capital afraid depend blind |  
+| bip_39_word_space_11 | brown gorilla estate rhythm tattoo quit capital afraid depend blind wild |  
+| bip_39_word_space_12 | brown gorilla estate rhythm tattoo quit capital afraid depend blind wild alter |  
+| bip_39_word_space_2 | brown gorilla |  
+| bip_39_word_space_3 | brown gorilla estate |  
+| bip_39_word_space_4 | brown gorilla estate rhythm |  
+| bip_39_word_space_5 | brown gorilla estate rhythm tattoo |  
+| bip_39_word_space_6 | brown gorilla estate rhythm tattoo quit |  
+| bip_39_word_space_7 | brown gorilla estate rhythm tattoo quit capital |  
+| bip_39_word_space_8 | brown gorilla estate rhythm tattoo quit capital afraid |  
+| bip_39_word_space_9 | brown gorilla estate rhythm tattoo quit capital afraid depend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

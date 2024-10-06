@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rhythm convince
+  * bip 39 word 3: rhythm convince element
+  * bip 39 word: rhythm convince element thumb run box art column uncover already verify analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rhythm |  
+| bip_39_word_new_br10 | rhythm<br>convince<br>element<br>thumb<br>run<br>box<br>art<br>column<br>uncover<br>already |  
+| bip_39_word_new_br11 | rhythm<br>convince<br>element<br>thumb<br>run<br>box<br>art<br>column<br>uncover<br>already<br>verify |  
+| bip_39_word_new_br12 | rhythm<br>convince<br>element<br>thumb<br>run<br>box<br>art<br>column<br>uncover<br>already<br>verify<br>analyst |  
+| bip_39_word_new_br2 | rhythm<br>convince |  
+| bip_39_word_new_br3 | rhythm<br>convince<br>element |  
+| bip_39_word_new_br4 | rhythm<br>convince<br>element<br>thumb |  
+| bip_39_word_new_br5 | rhythm<br>convince<br>element<br>thumb<br>run |  
+| bip_39_word_new_br6 | rhythm<br>convince<br>element<br>thumb<br>run<br>box |  
+| bip_39_word_new_br7 | rhythm<br>convince<br>element<br>thumb<br>run<br>box<br>art |  
+| bip_39_word_new_br8 | rhythm<br>convince<br>element<br>thumb<br>run<br>box<br>art<br>column |  
+| bip_39_word_new_br9 | rhythm<br>convince<br>element<br>thumb<br>run<br>box<br>art<br>column<br>uncover |  
+| bip_39_word_new_line1 | rhythm |  
+| bip_39_word_new_line10 | rhythm
+convince
+element
+thumb
+run
+box
+art
+column
+uncover
+already |  
+| bip_39_word_new_line11 | rhythm
+convince
+element
+thumb
+run
+box
+art
+column
+uncover
+already
+verify |  
+| bip_39_word_new_line12 | rhythm
+convince
+element
+thumb
+run
+box
+art
+column
+uncover
+already
+verify
+analyst |  
+| bip_39_word_new_line2 | rhythm
+convince |  
+| bip_39_word_new_line3 | rhythm
+convince
+element |  
+| bip_39_word_new_line4 | rhythm
+convince
+element
+thumb |  
+| bip_39_word_new_line5 | rhythm
+convince
+element
+thumb
+run |  
+| bip_39_word_new_line6 | rhythm
+convince
+element
+thumb
+run
+box |  
+| bip_39_word_new_line7 | rhythm
+convince
+element
+thumb
+run
+box
+art |  
+| bip_39_word_new_line8 | rhythm
+convince
+element
+thumb
+run
+box
+art
+column |  
+| bip_39_word_new_line9 | rhythm
+convince
+element
+thumb
+run
+box
+art
+column
+uncover |  
+| bip_39_word_space_0 | ['rhythm', 'convince', 'element', 'thumb', 'run', 'box', 'art', 'column', 'uncover', 'already', 'verify', 'analyst'] |  
+| bip_39_word_space_1 | rhythm |  
+| bip_39_word_space_10 | rhythm convince element thumb run box art column uncover already |  
+| bip_39_word_space_11 | rhythm convince element thumb run box art column uncover already verify |  
+| bip_39_word_space_12 | rhythm convince element thumb run box art column uncover already verify analyst |  
+| bip_39_word_space_2 | rhythm convince |  
+| bip_39_word_space_3 | rhythm convince element |  
+| bip_39_word_space_4 | rhythm convince element thumb |  
+| bip_39_word_space_5 | rhythm convince element thumb run |  
+| bip_39_word_space_6 | rhythm convince element thumb run box |  
+| bip_39_word_space_7 | rhythm convince element thumb run box art |  
+| bip_39_word_space_8 | rhythm convince element thumb run box art column |  
+| bip_39_word_space_9 | rhythm convince element thumb run box art column uncover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

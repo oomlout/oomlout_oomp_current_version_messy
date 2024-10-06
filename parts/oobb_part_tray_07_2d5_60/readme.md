@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: either sleep
+  * bip 39 word 3: either sleep mountain
+  * bip 39 word: either sleep mountain train sentence approve burst husband brain sustain harbor aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | either |  
+| bip_39_word_new_br10 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain |  
+| bip_39_word_new_br11 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor |  
+| bip_39_word_new_br12 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor<br>aim |  
+| bip_39_word_new_br2 | either<br>sleep |  
+| bip_39_word_new_br3 | either<br>sleep<br>mountain |  
+| bip_39_word_new_br4 | either<br>sleep<br>mountain<br>train |  
+| bip_39_word_new_br5 | either<br>sleep<br>mountain<br>train<br>sentence |  
+| bip_39_word_new_br6 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve |  
+| bip_39_word_new_br7 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst |  
+| bip_39_word_new_br8 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband |  
+| bip_39_word_new_br9 | either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain |  
+| bip_39_word_new_line1 | either |  
+| bip_39_word_new_line10 | either
+sleep
+mountain
+train
+sentence
+approve
+burst
+husband
+brain
+sustain |  
+| bip_39_word_new_line11 | either
+sleep
+mountain
+train
+sentence
+approve
+burst
+husband
+brain
+sustain
+harbor |  
+| bip_39_word_new_line12 | either
+sleep
+mountain
+train
+sentence
+approve
+burst
+husband
+brain
+sustain
+harbor
+aim |  
+| bip_39_word_new_line2 | either
+sleep |  
+| bip_39_word_new_line3 | either
+sleep
+mountain |  
+| bip_39_word_new_line4 | either
+sleep
+mountain
+train |  
+| bip_39_word_new_line5 | either
+sleep
+mountain
+train
+sentence |  
+| bip_39_word_new_line6 | either
+sleep
+mountain
+train
+sentence
+approve |  
+| bip_39_word_new_line7 | either
+sleep
+mountain
+train
+sentence
+approve
+burst |  
+| bip_39_word_new_line8 | either
+sleep
+mountain
+train
+sentence
+approve
+burst
+husband |  
+| bip_39_word_new_line9 | either
+sleep
+mountain
+train
+sentence
+approve
+burst
+husband
+brain |  
+| bip_39_word_space_0 | ['either', 'sleep', 'mountain', 'train', 'sentence', 'approve', 'burst', 'husband', 'brain', 'sustain', 'harbor', 'aim'] |  
+| bip_39_word_space_1 | either |  
+| bip_39_word_space_10 | either sleep mountain train sentence approve burst husband brain sustain |  
+| bip_39_word_space_11 | either sleep mountain train sentence approve burst husband brain sustain harbor |  
+| bip_39_word_space_12 | either sleep mountain train sentence approve burst husband brain sustain harbor aim |  
+| bip_39_word_space_2 | either sleep |  
+| bip_39_word_space_3 | either sleep mountain |  
+| bip_39_word_space_4 | either sleep mountain train |  
+| bip_39_word_space_5 | either sleep mountain train sentence |  
+| bip_39_word_space_6 | either sleep mountain train sentence approve |  
+| bip_39_word_space_7 | either sleep mountain train sentence approve burst |  
+| bip_39_word_space_8 | either sleep mountain train sentence approve burst husband |  
+| bip_39_word_space_9 | either sleep mountain train sentence approve burst husband brain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

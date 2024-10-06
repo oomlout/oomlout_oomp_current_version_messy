@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pretty blast
+  * bip 39 word 3: pretty blast recycle
+  * bip 39 word: pretty blast recycle city divorce radio grace industry tray only issue affair
 
 ### other_codes
 * short_code: b5m70
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pretty |  
+| bip_39_word_new_br10 | pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only |  
+| bip_39_word_new_br11 | pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only<br>issue |  
+| bip_39_word_new_br12 | pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray<br>only<br>issue<br>affair |  
+| bip_39_word_new_br2 | pretty<br>blast |  
+| bip_39_word_new_br3 | pretty<br>blast<br>recycle |  
+| bip_39_word_new_br4 | pretty<br>blast<br>recycle<br>city |  
+| bip_39_word_new_br5 | pretty<br>blast<br>recycle<br>city<br>divorce |  
+| bip_39_word_new_br6 | pretty<br>blast<br>recycle<br>city<br>divorce<br>radio |  
+| bip_39_word_new_br7 | pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace |  
+| bip_39_word_new_br8 | pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry |  
+| bip_39_word_new_br9 | pretty<br>blast<br>recycle<br>city<br>divorce<br>radio<br>grace<br>industry<br>tray |  
+| bip_39_word_new_line1 | pretty |  
+| bip_39_word_new_line10 | pretty
+blast
+recycle
+city
+divorce
+radio
+grace
+industry
+tray
+only |  
+| bip_39_word_new_line11 | pretty
+blast
+recycle
+city
+divorce
+radio
+grace
+industry
+tray
+only
+issue |  
+| bip_39_word_new_line12 | pretty
+blast
+recycle
+city
+divorce
+radio
+grace
+industry
+tray
+only
+issue
+affair |  
+| bip_39_word_new_line2 | pretty
+blast |  
+| bip_39_word_new_line3 | pretty
+blast
+recycle |  
+| bip_39_word_new_line4 | pretty
+blast
+recycle
+city |  
+| bip_39_word_new_line5 | pretty
+blast
+recycle
+city
+divorce |  
+| bip_39_word_new_line6 | pretty
+blast
+recycle
+city
+divorce
+radio |  
+| bip_39_word_new_line7 | pretty
+blast
+recycle
+city
+divorce
+radio
+grace |  
+| bip_39_word_new_line8 | pretty
+blast
+recycle
+city
+divorce
+radio
+grace
+industry |  
+| bip_39_word_new_line9 | pretty
+blast
+recycle
+city
+divorce
+radio
+grace
+industry
+tray |  
+| bip_39_word_space_0 | ['pretty', 'blast', 'recycle', 'city', 'divorce', 'radio', 'grace', 'industry', 'tray', 'only', 'issue', 'affair'] |  
+| bip_39_word_space_1 | pretty |  
+| bip_39_word_space_10 | pretty blast recycle city divorce radio grace industry tray only |  
+| bip_39_word_space_11 | pretty blast recycle city divorce radio grace industry tray only issue |  
+| bip_39_word_space_12 | pretty blast recycle city divorce radio grace industry tray only issue affair |  
+| bip_39_word_space_2 | pretty blast |  
+| bip_39_word_space_3 | pretty blast recycle |  
+| bip_39_word_space_4 | pretty blast recycle city |  
+| bip_39_word_space_5 | pretty blast recycle city divorce |  
+| bip_39_word_space_6 | pretty blast recycle city divorce radio |  
+| bip_39_word_space_7 | pretty blast recycle city divorce radio grace |  
+| bip_39_word_space_8 | pretty blast recycle city divorce radio grace industry |  
+| bip_39_word_space_9 | pretty blast recycle city divorce radio grace industry tray |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

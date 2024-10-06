@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spatial chaos
+  * bip 39 word 3: spatial chaos wish
+  * bip 39 word: spatial chaos wish solution argue debate pumpkin bone act pen force assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spatial |  
+| bip_39_word_new_br10 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen |  
+| bip_39_word_new_br11 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force |  
+| bip_39_word_new_br12 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act<br>pen<br>force<br>assume |  
+| bip_39_word_new_br2 | spatial<br>chaos |  
+| bip_39_word_new_br3 | spatial<br>chaos<br>wish |  
+| bip_39_word_new_br4 | spatial<br>chaos<br>wish<br>solution |  
+| bip_39_word_new_br5 | spatial<br>chaos<br>wish<br>solution<br>argue |  
+| bip_39_word_new_br6 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate |  
+| bip_39_word_new_br7 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin |  
+| bip_39_word_new_br8 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone |  
+| bip_39_word_new_br9 | spatial<br>chaos<br>wish<br>solution<br>argue<br>debate<br>pumpkin<br>bone<br>act |  
+| bip_39_word_new_line1 | spatial |  
+| bip_39_word_new_line10 | spatial
+chaos
+wish
+solution
+argue
+debate
+pumpkin
+bone
+act
+pen |  
+| bip_39_word_new_line11 | spatial
+chaos
+wish
+solution
+argue
+debate
+pumpkin
+bone
+act
+pen
+force |  
+| bip_39_word_new_line12 | spatial
+chaos
+wish
+solution
+argue
+debate
+pumpkin
+bone
+act
+pen
+force
+assume |  
+| bip_39_word_new_line2 | spatial
+chaos |  
+| bip_39_word_new_line3 | spatial
+chaos
+wish |  
+| bip_39_word_new_line4 | spatial
+chaos
+wish
+solution |  
+| bip_39_word_new_line5 | spatial
+chaos
+wish
+solution
+argue |  
+| bip_39_word_new_line6 | spatial
+chaos
+wish
+solution
+argue
+debate |  
+| bip_39_word_new_line7 | spatial
+chaos
+wish
+solution
+argue
+debate
+pumpkin |  
+| bip_39_word_new_line8 | spatial
+chaos
+wish
+solution
+argue
+debate
+pumpkin
+bone |  
+| bip_39_word_new_line9 | spatial
+chaos
+wish
+solution
+argue
+debate
+pumpkin
+bone
+act |  
+| bip_39_word_space_0 | ['spatial', 'chaos', 'wish', 'solution', 'argue', 'debate', 'pumpkin', 'bone', 'act', 'pen', 'force', 'assume'] |  
+| bip_39_word_space_1 | spatial |  
+| bip_39_word_space_10 | spatial chaos wish solution argue debate pumpkin bone act pen |  
+| bip_39_word_space_11 | spatial chaos wish solution argue debate pumpkin bone act pen force |  
+| bip_39_word_space_12 | spatial chaos wish solution argue debate pumpkin bone act pen force assume |  
+| bip_39_word_space_2 | spatial chaos |  
+| bip_39_word_space_3 | spatial chaos wish |  
+| bip_39_word_space_4 | spatial chaos wish solution |  
+| bip_39_word_space_5 | spatial chaos wish solution argue |  
+| bip_39_word_space_6 | spatial chaos wish solution argue debate |  
+| bip_39_word_space_7 | spatial chaos wish solution argue debate pumpkin |  
+| bip_39_word_space_8 | spatial chaos wish solution argue debate pumpkin bone |  
+| bip_39_word_space_9 | spatial chaos wish solution argue debate pumpkin bone act |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

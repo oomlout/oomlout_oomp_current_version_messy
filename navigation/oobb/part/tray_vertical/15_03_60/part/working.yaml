@@ -1,3 +1,186 @@
+bip_39_word_new_br1: drip
+bip_39_word_new_br10: drip<br>surface<br>borrow<br>caution<br>you<br>know<br>spirit<br>between<br>okay<br>approve
+bip_39_word_new_br11: drip<br>surface<br>borrow<br>caution<br>you<br>know<br>spirit<br>between<br>okay<br>approve<br>silver
+bip_39_word_new_br12: drip<br>surface<br>borrow<br>caution<br>you<br>know<br>spirit<br>between<br>okay<br>approve<br>silver<br>arctic
+bip_39_word_new_br2: drip<br>surface
+bip_39_word_new_br3: drip<br>surface<br>borrow
+bip_39_word_new_br4: drip<br>surface<br>borrow<br>caution
+bip_39_word_new_br5: drip<br>surface<br>borrow<br>caution<br>you
+bip_39_word_new_br6: drip<br>surface<br>borrow<br>caution<br>you<br>know
+bip_39_word_new_br7: drip<br>surface<br>borrow<br>caution<br>you<br>know<br>spirit
+bip_39_word_new_br8: drip<br>surface<br>borrow<br>caution<br>you<br>know<br>spirit<br>between
+bip_39_word_new_br9: drip<br>surface<br>borrow<br>caution<br>you<br>know<br>spirit<br>between<br>okay
+bip_39_word_new_line1: drip
+bip_39_word_new_line10: 'drip
+
+  surface
+
+  borrow
+
+  caution
+
+  you
+
+  know
+
+  spirit
+
+  between
+
+  okay
+
+  approve'
+bip_39_word_new_line11: 'drip
+
+  surface
+
+  borrow
+
+  caution
+
+  you
+
+  know
+
+  spirit
+
+  between
+
+  okay
+
+  approve
+
+  silver'
+bip_39_word_new_line12: 'drip
+
+  surface
+
+  borrow
+
+  caution
+
+  you
+
+  know
+
+  spirit
+
+  between
+
+  okay
+
+  approve
+
+  silver
+
+  arctic'
+bip_39_word_new_line2: 'drip
+
+  surface'
+bip_39_word_new_line3: 'drip
+
+  surface
+
+  borrow'
+bip_39_word_new_line4: 'drip
+
+  surface
+
+  borrow
+
+  caution'
+bip_39_word_new_line5: 'drip
+
+  surface
+
+  borrow
+
+  caution
+
+  you'
+bip_39_word_new_line6: 'drip
+
+  surface
+
+  borrow
+
+  caution
+
+  you
+
+  know'
+bip_39_word_new_line7: 'drip
+
+  surface
+
+  borrow
+
+  caution
+
+  you
+
+  know
+
+  spirit'
+bip_39_word_new_line8: 'drip
+
+  surface
+
+  borrow
+
+  caution
+
+  you
+
+  know
+
+  spirit
+
+  between'
+bip_39_word_new_line9: 'drip
+
+  surface
+
+  borrow
+
+  caution
+
+  you
+
+  know
+
+  spirit
+
+  between
+
+  okay'
+bip_39_word_space_0:
+- drip
+- surface
+- borrow
+- caution
+- you
+- know
+- spirit
+- between
+- okay
+- approve
+- silver
+- arctic
+bip_39_word_space_1: drip
+bip_39_word_space_10: drip surface borrow caution you know spirit between okay approve
+bip_39_word_space_11: drip surface borrow caution you know spirit between okay approve
+  silver
+bip_39_word_space_12: drip surface borrow caution you know spirit between okay approve
+  silver arctic
+bip_39_word_space_2: drip surface
+bip_39_word_space_3: drip surface borrow
+bip_39_word_space_4: drip surface borrow caution
+bip_39_word_space_5: drip surface borrow caution you
+bip_39_word_space_6: drip surface borrow caution you know
+bip_39_word_space_7: drip surface borrow caution you know spirit
+bip_39_word_space_8: drip surface borrow caution you know spirit between
+bip_39_word_space_9: drip surface borrow caution you know spirit between okay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

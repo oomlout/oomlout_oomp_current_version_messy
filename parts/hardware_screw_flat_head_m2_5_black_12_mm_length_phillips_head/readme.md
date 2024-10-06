@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: powder story
+  * bip 39 word 3: powder story taxi
+  * bip 39 word: powder story taxi biology vendor coffee crush hover life rule easily armor
 
 ### other_codes
 * short_code: fh2d5b12p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | powder |  
+| bip_39_word_new_br10 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life<br>rule |  
+| bip_39_word_new_br11 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life<br>rule<br>easily |  
+| bip_39_word_new_br12 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life<br>rule<br>easily<br>armor |  
+| bip_39_word_new_br2 | powder<br>story |  
+| bip_39_word_new_br3 | powder<br>story<br>taxi |  
+| bip_39_word_new_br4 | powder<br>story<br>taxi<br>biology |  
+| bip_39_word_new_br5 | powder<br>story<br>taxi<br>biology<br>vendor |  
+| bip_39_word_new_br6 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee |  
+| bip_39_word_new_br7 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush |  
+| bip_39_word_new_br8 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover |  
+| bip_39_word_new_br9 | powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life |  
+| bip_39_word_new_line1 | powder |  
+| bip_39_word_new_line10 | powder
+story
+taxi
+biology
+vendor
+coffee
+crush
+hover
+life
+rule |  
+| bip_39_word_new_line11 | powder
+story
+taxi
+biology
+vendor
+coffee
+crush
+hover
+life
+rule
+easily |  
+| bip_39_word_new_line12 | powder
+story
+taxi
+biology
+vendor
+coffee
+crush
+hover
+life
+rule
+easily
+armor |  
+| bip_39_word_new_line2 | powder
+story |  
+| bip_39_word_new_line3 | powder
+story
+taxi |  
+| bip_39_word_new_line4 | powder
+story
+taxi
+biology |  
+| bip_39_word_new_line5 | powder
+story
+taxi
+biology
+vendor |  
+| bip_39_word_new_line6 | powder
+story
+taxi
+biology
+vendor
+coffee |  
+| bip_39_word_new_line7 | powder
+story
+taxi
+biology
+vendor
+coffee
+crush |  
+| bip_39_word_new_line8 | powder
+story
+taxi
+biology
+vendor
+coffee
+crush
+hover |  
+| bip_39_word_new_line9 | powder
+story
+taxi
+biology
+vendor
+coffee
+crush
+hover
+life |  
+| bip_39_word_space_0 | ['powder', 'story', 'taxi', 'biology', 'vendor', 'coffee', 'crush', 'hover', 'life', 'rule', 'easily', 'armor'] |  
+| bip_39_word_space_1 | powder |  
+| bip_39_word_space_10 | powder story taxi biology vendor coffee crush hover life rule |  
+| bip_39_word_space_11 | powder story taxi biology vendor coffee crush hover life rule easily |  
+| bip_39_word_space_12 | powder story taxi biology vendor coffee crush hover life rule easily armor |  
+| bip_39_word_space_2 | powder story |  
+| bip_39_word_space_3 | powder story taxi |  
+| bip_39_word_space_4 | powder story taxi biology |  
+| bip_39_word_space_5 | powder story taxi biology vendor |  
+| bip_39_word_space_6 | powder story taxi biology vendor coffee |  
+| bip_39_word_space_7 | powder story taxi biology vendor coffee crush |  
+| bip_39_word_space_8 | powder story taxi biology vendor coffee crush hover |  
+| bip_39_word_space_9 | powder story taxi biology vendor coffee crush hover life |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

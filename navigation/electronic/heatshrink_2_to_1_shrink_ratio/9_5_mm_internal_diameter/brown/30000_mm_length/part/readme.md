@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fury elephant
+  * bip 39 word 3: fury elephant struggle
+  * bip 39 word: fury elephant struggle dizzy differ crime demand rely number cherry lamp almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fury |  
+| bip_39_word_new_br10 | fury<br>elephant<br>struggle<br>dizzy<br>differ<br>crime<br>demand<br>rely<br>number<br>cherry |  
+| bip_39_word_new_br11 | fury<br>elephant<br>struggle<br>dizzy<br>differ<br>crime<br>demand<br>rely<br>number<br>cherry<br>lamp |  
+| bip_39_word_new_br12 | fury<br>elephant<br>struggle<br>dizzy<br>differ<br>crime<br>demand<br>rely<br>number<br>cherry<br>lamp<br>almost |  
+| bip_39_word_new_br2 | fury<br>elephant |  
+| bip_39_word_new_br3 | fury<br>elephant<br>struggle |  
+| bip_39_word_new_br4 | fury<br>elephant<br>struggle<br>dizzy |  
+| bip_39_word_new_br5 | fury<br>elephant<br>struggle<br>dizzy<br>differ |  
+| bip_39_word_new_br6 | fury<br>elephant<br>struggle<br>dizzy<br>differ<br>crime |  
+| bip_39_word_new_br7 | fury<br>elephant<br>struggle<br>dizzy<br>differ<br>crime<br>demand |  
+| bip_39_word_new_br8 | fury<br>elephant<br>struggle<br>dizzy<br>differ<br>crime<br>demand<br>rely |  
+| bip_39_word_new_br9 | fury<br>elephant<br>struggle<br>dizzy<br>differ<br>crime<br>demand<br>rely<br>number |  
+| bip_39_word_new_line1 | fury |  
+| bip_39_word_new_line10 | fury
+elephant
+struggle
+dizzy
+differ
+crime
+demand
+rely
+number
+cherry |  
+| bip_39_word_new_line11 | fury
+elephant
+struggle
+dizzy
+differ
+crime
+demand
+rely
+number
+cherry
+lamp |  
+| bip_39_word_new_line12 | fury
+elephant
+struggle
+dizzy
+differ
+crime
+demand
+rely
+number
+cherry
+lamp
+almost |  
+| bip_39_word_new_line2 | fury
+elephant |  
+| bip_39_word_new_line3 | fury
+elephant
+struggle |  
+| bip_39_word_new_line4 | fury
+elephant
+struggle
+dizzy |  
+| bip_39_word_new_line5 | fury
+elephant
+struggle
+dizzy
+differ |  
+| bip_39_word_new_line6 | fury
+elephant
+struggle
+dizzy
+differ
+crime |  
+| bip_39_word_new_line7 | fury
+elephant
+struggle
+dizzy
+differ
+crime
+demand |  
+| bip_39_word_new_line8 | fury
+elephant
+struggle
+dizzy
+differ
+crime
+demand
+rely |  
+| bip_39_word_new_line9 | fury
+elephant
+struggle
+dizzy
+differ
+crime
+demand
+rely
+number |  
+| bip_39_word_space_0 | ['fury', 'elephant', 'struggle', 'dizzy', 'differ', 'crime', 'demand', 'rely', 'number', 'cherry', 'lamp', 'almost'] |  
+| bip_39_word_space_1 | fury |  
+| bip_39_word_space_10 | fury elephant struggle dizzy differ crime demand rely number cherry |  
+| bip_39_word_space_11 | fury elephant struggle dizzy differ crime demand rely number cherry lamp |  
+| bip_39_word_space_12 | fury elephant struggle dizzy differ crime demand rely number cherry lamp almost |  
+| bip_39_word_space_2 | fury elephant |  
+| bip_39_word_space_3 | fury elephant struggle |  
+| bip_39_word_space_4 | fury elephant struggle dizzy |  
+| bip_39_word_space_5 | fury elephant struggle dizzy differ |  
+| bip_39_word_space_6 | fury elephant struggle dizzy differ crime |  
+| bip_39_word_space_7 | fury elephant struggle dizzy differ crime demand |  
+| bip_39_word_space_8 | fury elephant struggle dizzy differ crime demand rely |  
+| bip_39_word_space_9 | fury elephant struggle dizzy differ crime demand rely number |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

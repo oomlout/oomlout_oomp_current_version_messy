@@ -1,3 +1,186 @@
+bip_39_word_new_br1: piece
+bip_39_word_new_br10: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard<br>flee<br>electric<br>fiscal<br>soup
+bip_39_word_new_br11: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard<br>flee<br>electric<br>fiscal<br>soup<br>six
+bip_39_word_new_br12: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard<br>flee<br>electric<br>fiscal<br>soup<br>six<br>agent
+bip_39_word_new_br2: piece<br>kitten
+bip_39_word_new_br3: piece<br>kitten<br>prefer
+bip_39_word_new_br4: piece<br>kitten<br>prefer<br>silent
+bip_39_word_new_br5: piece<br>kitten<br>prefer<br>silent<br>rally
+bip_39_word_new_br6: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard
+bip_39_word_new_br7: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard<br>flee
+bip_39_word_new_br8: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard<br>flee<br>electric
+bip_39_word_new_br9: piece<br>kitten<br>prefer<br>silent<br>rally<br>hard<br>flee<br>electric<br>fiscal
+bip_39_word_new_line1: piece
+bip_39_word_new_line10: 'piece
+
+  kitten
+
+  prefer
+
+  silent
+
+  rally
+
+  hard
+
+  flee
+
+  electric
+
+  fiscal
+
+  soup'
+bip_39_word_new_line11: 'piece
+
+  kitten
+
+  prefer
+
+  silent
+
+  rally
+
+  hard
+
+  flee
+
+  electric
+
+  fiscal
+
+  soup
+
+  six'
+bip_39_word_new_line12: 'piece
+
+  kitten
+
+  prefer
+
+  silent
+
+  rally
+
+  hard
+
+  flee
+
+  electric
+
+  fiscal
+
+  soup
+
+  six
+
+  agent'
+bip_39_word_new_line2: 'piece
+
+  kitten'
+bip_39_word_new_line3: 'piece
+
+  kitten
+
+  prefer'
+bip_39_word_new_line4: 'piece
+
+  kitten
+
+  prefer
+
+  silent'
+bip_39_word_new_line5: 'piece
+
+  kitten
+
+  prefer
+
+  silent
+
+  rally'
+bip_39_word_new_line6: 'piece
+
+  kitten
+
+  prefer
+
+  silent
+
+  rally
+
+  hard'
+bip_39_word_new_line7: 'piece
+
+  kitten
+
+  prefer
+
+  silent
+
+  rally
+
+  hard
+
+  flee'
+bip_39_word_new_line8: 'piece
+
+  kitten
+
+  prefer
+
+  silent
+
+  rally
+
+  hard
+
+  flee
+
+  electric'
+bip_39_word_new_line9: 'piece
+
+  kitten
+
+  prefer
+
+  silent
+
+  rally
+
+  hard
+
+  flee
+
+  electric
+
+  fiscal'
+bip_39_word_space_0:
+- piece
+- kitten
+- prefer
+- silent
+- rally
+- hard
+- flee
+- electric
+- fiscal
+- soup
+- six
+- agent
+bip_39_word_space_1: piece
+bip_39_word_space_10: piece kitten prefer silent rally hard flee electric fiscal soup
+bip_39_word_space_11: piece kitten prefer silent rally hard flee electric fiscal soup
+  six
+bip_39_word_space_12: piece kitten prefer silent rally hard flee electric fiscal soup
+  six agent
+bip_39_word_space_2: piece kitten
+bip_39_word_space_3: piece kitten prefer
+bip_39_word_space_4: piece kitten prefer silent
+bip_39_word_space_5: piece kitten prefer silent rally
+bip_39_word_space_6: piece kitten prefer silent rally hard
+bip_39_word_space_7: piece kitten prefer silent rally hard flee
+bip_39_word_space_8: piece kitten prefer silent rally hard flee electric
+bip_39_word_space_9: piece kitten prefer silent rally hard flee electric fiscal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

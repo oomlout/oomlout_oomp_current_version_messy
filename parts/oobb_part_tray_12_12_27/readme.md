@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: extra young
+  * bip 39 word 3: extra young buyer
+  * bip 39 word: extra young buyer army donor spot spring birth ticket catalog pattern age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | extra |  
+| bip_39_word_new_br10 | extra<br>young<br>buyer<br>army<br>donor<br>spot<br>spring<br>birth<br>ticket<br>catalog |  
+| bip_39_word_new_br11 | extra<br>young<br>buyer<br>army<br>donor<br>spot<br>spring<br>birth<br>ticket<br>catalog<br>pattern |  
+| bip_39_word_new_br12 | extra<br>young<br>buyer<br>army<br>donor<br>spot<br>spring<br>birth<br>ticket<br>catalog<br>pattern<br>age |  
+| bip_39_word_new_br2 | extra<br>young |  
+| bip_39_word_new_br3 | extra<br>young<br>buyer |  
+| bip_39_word_new_br4 | extra<br>young<br>buyer<br>army |  
+| bip_39_word_new_br5 | extra<br>young<br>buyer<br>army<br>donor |  
+| bip_39_word_new_br6 | extra<br>young<br>buyer<br>army<br>donor<br>spot |  
+| bip_39_word_new_br7 | extra<br>young<br>buyer<br>army<br>donor<br>spot<br>spring |  
+| bip_39_word_new_br8 | extra<br>young<br>buyer<br>army<br>donor<br>spot<br>spring<br>birth |  
+| bip_39_word_new_br9 | extra<br>young<br>buyer<br>army<br>donor<br>spot<br>spring<br>birth<br>ticket |  
+| bip_39_word_new_line1 | extra |  
+| bip_39_word_new_line10 | extra
+young
+buyer
+army
+donor
+spot
+spring
+birth
+ticket
+catalog |  
+| bip_39_word_new_line11 | extra
+young
+buyer
+army
+donor
+spot
+spring
+birth
+ticket
+catalog
+pattern |  
+| bip_39_word_new_line12 | extra
+young
+buyer
+army
+donor
+spot
+spring
+birth
+ticket
+catalog
+pattern
+age |  
+| bip_39_word_new_line2 | extra
+young |  
+| bip_39_word_new_line3 | extra
+young
+buyer |  
+| bip_39_word_new_line4 | extra
+young
+buyer
+army |  
+| bip_39_word_new_line5 | extra
+young
+buyer
+army
+donor |  
+| bip_39_word_new_line6 | extra
+young
+buyer
+army
+donor
+spot |  
+| bip_39_word_new_line7 | extra
+young
+buyer
+army
+donor
+spot
+spring |  
+| bip_39_word_new_line8 | extra
+young
+buyer
+army
+donor
+spot
+spring
+birth |  
+| bip_39_word_new_line9 | extra
+young
+buyer
+army
+donor
+spot
+spring
+birth
+ticket |  
+| bip_39_word_space_0 | ['extra', 'young', 'buyer', 'army', 'donor', 'spot', 'spring', 'birth', 'ticket', 'catalog', 'pattern', 'age'] |  
+| bip_39_word_space_1 | extra |  
+| bip_39_word_space_10 | extra young buyer army donor spot spring birth ticket catalog |  
+| bip_39_word_space_11 | extra young buyer army donor spot spring birth ticket catalog pattern |  
+| bip_39_word_space_12 | extra young buyer army donor spot spring birth ticket catalog pattern age |  
+| bip_39_word_space_2 | extra young |  
+| bip_39_word_space_3 | extra young buyer |  
+| bip_39_word_space_4 | extra young buyer army |  
+| bip_39_word_space_5 | extra young buyer army donor |  
+| bip_39_word_space_6 | extra young buyer army donor spot |  
+| bip_39_word_space_7 | extra young buyer army donor spot spring |  
+| bip_39_word_space_8 | extra young buyer army donor spot spring birth |  
+| bip_39_word_space_9 | extra young buyer army donor spot spring birth ticket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

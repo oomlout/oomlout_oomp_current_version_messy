@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lunar loan
+  * bip 39 word 3: lunar loan typical
+  * bip 39 word: lunar loan typical fuel nest carbon uniform law badge box long achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lunar |  
+| bip_39_word_new_br10 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon<br>uniform<br>law<br>badge<br>box |  
+| bip_39_word_new_br11 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon<br>uniform<br>law<br>badge<br>box<br>long |  
+| bip_39_word_new_br12 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon<br>uniform<br>law<br>badge<br>box<br>long<br>achieve |  
+| bip_39_word_new_br2 | lunar<br>loan |  
+| bip_39_word_new_br3 | lunar<br>loan<br>typical |  
+| bip_39_word_new_br4 | lunar<br>loan<br>typical<br>fuel |  
+| bip_39_word_new_br5 | lunar<br>loan<br>typical<br>fuel<br>nest |  
+| bip_39_word_new_br6 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon |  
+| bip_39_word_new_br7 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon<br>uniform |  
+| bip_39_word_new_br8 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon<br>uniform<br>law |  
+| bip_39_word_new_br9 | lunar<br>loan<br>typical<br>fuel<br>nest<br>carbon<br>uniform<br>law<br>badge |  
+| bip_39_word_new_line1 | lunar |  
+| bip_39_word_new_line10 | lunar
+loan
+typical
+fuel
+nest
+carbon
+uniform
+law
+badge
+box |  
+| bip_39_word_new_line11 | lunar
+loan
+typical
+fuel
+nest
+carbon
+uniform
+law
+badge
+box
+long |  
+| bip_39_word_new_line12 | lunar
+loan
+typical
+fuel
+nest
+carbon
+uniform
+law
+badge
+box
+long
+achieve |  
+| bip_39_word_new_line2 | lunar
+loan |  
+| bip_39_word_new_line3 | lunar
+loan
+typical |  
+| bip_39_word_new_line4 | lunar
+loan
+typical
+fuel |  
+| bip_39_word_new_line5 | lunar
+loan
+typical
+fuel
+nest |  
+| bip_39_word_new_line6 | lunar
+loan
+typical
+fuel
+nest
+carbon |  
+| bip_39_word_new_line7 | lunar
+loan
+typical
+fuel
+nest
+carbon
+uniform |  
+| bip_39_word_new_line8 | lunar
+loan
+typical
+fuel
+nest
+carbon
+uniform
+law |  
+| bip_39_word_new_line9 | lunar
+loan
+typical
+fuel
+nest
+carbon
+uniform
+law
+badge |  
+| bip_39_word_space_0 | ['lunar', 'loan', 'typical', 'fuel', 'nest', 'carbon', 'uniform', 'law', 'badge', 'box', 'long', 'achieve'] |  
+| bip_39_word_space_1 | lunar |  
+| bip_39_word_space_10 | lunar loan typical fuel nest carbon uniform law badge box |  
+| bip_39_word_space_11 | lunar loan typical fuel nest carbon uniform law badge box long |  
+| bip_39_word_space_12 | lunar loan typical fuel nest carbon uniform law badge box long achieve |  
+| bip_39_word_space_2 | lunar loan |  
+| bip_39_word_space_3 | lunar loan typical |  
+| bip_39_word_space_4 | lunar loan typical fuel |  
+| bip_39_word_space_5 | lunar loan typical fuel nest |  
+| bip_39_word_space_6 | lunar loan typical fuel nest carbon |  
+| bip_39_word_space_7 | lunar loan typical fuel nest carbon uniform |  
+| bip_39_word_space_8 | lunar loan typical fuel nest carbon uniform law |  
+| bip_39_word_space_9 | lunar loan typical fuel nest carbon uniform law badge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

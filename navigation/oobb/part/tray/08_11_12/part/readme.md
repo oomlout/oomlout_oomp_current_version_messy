@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shadow around
+  * bip 39 word 3: shadow around quote
+  * bip 39 word: shadow around quote lottery wasp force adjust insect open jar sight apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shadow |  
+| bip_39_word_new_br10 | shadow<br>around<br>quote<br>lottery<br>wasp<br>force<br>adjust<br>insect<br>open<br>jar |  
+| bip_39_word_new_br11 | shadow<br>around<br>quote<br>lottery<br>wasp<br>force<br>adjust<br>insect<br>open<br>jar<br>sight |  
+| bip_39_word_new_br12 | shadow<br>around<br>quote<br>lottery<br>wasp<br>force<br>adjust<br>insect<br>open<br>jar<br>sight<br>apology |  
+| bip_39_word_new_br2 | shadow<br>around |  
+| bip_39_word_new_br3 | shadow<br>around<br>quote |  
+| bip_39_word_new_br4 | shadow<br>around<br>quote<br>lottery |  
+| bip_39_word_new_br5 | shadow<br>around<br>quote<br>lottery<br>wasp |  
+| bip_39_word_new_br6 | shadow<br>around<br>quote<br>lottery<br>wasp<br>force |  
+| bip_39_word_new_br7 | shadow<br>around<br>quote<br>lottery<br>wasp<br>force<br>adjust |  
+| bip_39_word_new_br8 | shadow<br>around<br>quote<br>lottery<br>wasp<br>force<br>adjust<br>insect |  
+| bip_39_word_new_br9 | shadow<br>around<br>quote<br>lottery<br>wasp<br>force<br>adjust<br>insect<br>open |  
+| bip_39_word_new_line1 | shadow |  
+| bip_39_word_new_line10 | shadow
+around
+quote
+lottery
+wasp
+force
+adjust
+insect
+open
+jar |  
+| bip_39_word_new_line11 | shadow
+around
+quote
+lottery
+wasp
+force
+adjust
+insect
+open
+jar
+sight |  
+| bip_39_word_new_line12 | shadow
+around
+quote
+lottery
+wasp
+force
+adjust
+insect
+open
+jar
+sight
+apology |  
+| bip_39_word_new_line2 | shadow
+around |  
+| bip_39_word_new_line3 | shadow
+around
+quote |  
+| bip_39_word_new_line4 | shadow
+around
+quote
+lottery |  
+| bip_39_word_new_line5 | shadow
+around
+quote
+lottery
+wasp |  
+| bip_39_word_new_line6 | shadow
+around
+quote
+lottery
+wasp
+force |  
+| bip_39_word_new_line7 | shadow
+around
+quote
+lottery
+wasp
+force
+adjust |  
+| bip_39_word_new_line8 | shadow
+around
+quote
+lottery
+wasp
+force
+adjust
+insect |  
+| bip_39_word_new_line9 | shadow
+around
+quote
+lottery
+wasp
+force
+adjust
+insect
+open |  
+| bip_39_word_space_0 | ['shadow', 'around', 'quote', 'lottery', 'wasp', 'force', 'adjust', 'insect', 'open', 'jar', 'sight', 'apology'] |  
+| bip_39_word_space_1 | shadow |  
+| bip_39_word_space_10 | shadow around quote lottery wasp force adjust insect open jar |  
+| bip_39_word_space_11 | shadow around quote lottery wasp force adjust insect open jar sight |  
+| bip_39_word_space_12 | shadow around quote lottery wasp force adjust insect open jar sight apology |  
+| bip_39_word_space_2 | shadow around |  
+| bip_39_word_space_3 | shadow around quote |  
+| bip_39_word_space_4 | shadow around quote lottery |  
+| bip_39_word_space_5 | shadow around quote lottery wasp |  
+| bip_39_word_space_6 | shadow around quote lottery wasp force |  
+| bip_39_word_space_7 | shadow around quote lottery wasp force adjust |  
+| bip_39_word_space_8 | shadow around quote lottery wasp force adjust insect |  
+| bip_39_word_space_9 | shadow around quote lottery wasp force adjust insect open |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

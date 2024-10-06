@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: discover dilemma
+  * bip 39 word 3: discover dilemma luggage
+  * bip 39 word: discover dilemma luggage episode lucky ticket produce ugly autumn dismiss wrap agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | discover |  
+| bip_39_word_new_br10 | discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly<br>autumn<br>dismiss |  
+| bip_39_word_new_br11 | discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly<br>autumn<br>dismiss<br>wrap |  
+| bip_39_word_new_br12 | discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly<br>autumn<br>dismiss<br>wrap<br>agent |  
+| bip_39_word_new_br2 | discover<br>dilemma |  
+| bip_39_word_new_br3 | discover<br>dilemma<br>luggage |  
+| bip_39_word_new_br4 | discover<br>dilemma<br>luggage<br>episode |  
+| bip_39_word_new_br5 | discover<br>dilemma<br>luggage<br>episode<br>lucky |  
+| bip_39_word_new_br6 | discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket |  
+| bip_39_word_new_br7 | discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce |  
+| bip_39_word_new_br8 | discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly |  
+| bip_39_word_new_br9 | discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly<br>autumn |  
+| bip_39_word_new_line1 | discover |  
+| bip_39_word_new_line10 | discover
+dilemma
+luggage
+episode
+lucky
+ticket
+produce
+ugly
+autumn
+dismiss |  
+| bip_39_word_new_line11 | discover
+dilemma
+luggage
+episode
+lucky
+ticket
+produce
+ugly
+autumn
+dismiss
+wrap |  
+| bip_39_word_new_line12 | discover
+dilemma
+luggage
+episode
+lucky
+ticket
+produce
+ugly
+autumn
+dismiss
+wrap
+agent |  
+| bip_39_word_new_line2 | discover
+dilemma |  
+| bip_39_word_new_line3 | discover
+dilemma
+luggage |  
+| bip_39_word_new_line4 | discover
+dilemma
+luggage
+episode |  
+| bip_39_word_new_line5 | discover
+dilemma
+luggage
+episode
+lucky |  
+| bip_39_word_new_line6 | discover
+dilemma
+luggage
+episode
+lucky
+ticket |  
+| bip_39_word_new_line7 | discover
+dilemma
+luggage
+episode
+lucky
+ticket
+produce |  
+| bip_39_word_new_line8 | discover
+dilemma
+luggage
+episode
+lucky
+ticket
+produce
+ugly |  
+| bip_39_word_new_line9 | discover
+dilemma
+luggage
+episode
+lucky
+ticket
+produce
+ugly
+autumn |  
+| bip_39_word_space_0 | ['discover', 'dilemma', 'luggage', 'episode', 'lucky', 'ticket', 'produce', 'ugly', 'autumn', 'dismiss', 'wrap', 'agent'] |  
+| bip_39_word_space_1 | discover |  
+| bip_39_word_space_10 | discover dilemma luggage episode lucky ticket produce ugly autumn dismiss |  
+| bip_39_word_space_11 | discover dilemma luggage episode lucky ticket produce ugly autumn dismiss wrap |  
+| bip_39_word_space_12 | discover dilemma luggage episode lucky ticket produce ugly autumn dismiss wrap agent |  
+| bip_39_word_space_2 | discover dilemma |  
+| bip_39_word_space_3 | discover dilemma luggage |  
+| bip_39_word_space_4 | discover dilemma luggage episode |  
+| bip_39_word_space_5 | discover dilemma luggage episode lucky |  
+| bip_39_word_space_6 | discover dilemma luggage episode lucky ticket |  
+| bip_39_word_space_7 | discover dilemma luggage episode lucky ticket produce |  
+| bip_39_word_space_8 | discover dilemma luggage episode lucky ticket produce ugly |  
+| bip_39_word_space_9 | discover dilemma luggage episode lucky ticket produce ugly autumn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

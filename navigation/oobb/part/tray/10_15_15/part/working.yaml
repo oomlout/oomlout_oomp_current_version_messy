@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clerk
+bip_39_word_new_br10: clerk<br>corn<br>sorry<br>define<br>proof<br>release<br>mix<br>result<br>retreat<br>put
+bip_39_word_new_br11: clerk<br>corn<br>sorry<br>define<br>proof<br>release<br>mix<br>result<br>retreat<br>put<br>armor
+bip_39_word_new_br12: clerk<br>corn<br>sorry<br>define<br>proof<br>release<br>mix<br>result<br>retreat<br>put<br>armor<br>across
+bip_39_word_new_br2: clerk<br>corn
+bip_39_word_new_br3: clerk<br>corn<br>sorry
+bip_39_word_new_br4: clerk<br>corn<br>sorry<br>define
+bip_39_word_new_br5: clerk<br>corn<br>sorry<br>define<br>proof
+bip_39_word_new_br6: clerk<br>corn<br>sorry<br>define<br>proof<br>release
+bip_39_word_new_br7: clerk<br>corn<br>sorry<br>define<br>proof<br>release<br>mix
+bip_39_word_new_br8: clerk<br>corn<br>sorry<br>define<br>proof<br>release<br>mix<br>result
+bip_39_word_new_br9: clerk<br>corn<br>sorry<br>define<br>proof<br>release<br>mix<br>result<br>retreat
+bip_39_word_new_line1: clerk
+bip_39_word_new_line10: 'clerk
+
+  corn
+
+  sorry
+
+  define
+
+  proof
+
+  release
+
+  mix
+
+  result
+
+  retreat
+
+  put'
+bip_39_word_new_line11: 'clerk
+
+  corn
+
+  sorry
+
+  define
+
+  proof
+
+  release
+
+  mix
+
+  result
+
+  retreat
+
+  put
+
+  armor'
+bip_39_word_new_line12: 'clerk
+
+  corn
+
+  sorry
+
+  define
+
+  proof
+
+  release
+
+  mix
+
+  result
+
+  retreat
+
+  put
+
+  armor
+
+  across'
+bip_39_word_new_line2: 'clerk
+
+  corn'
+bip_39_word_new_line3: 'clerk
+
+  corn
+
+  sorry'
+bip_39_word_new_line4: 'clerk
+
+  corn
+
+  sorry
+
+  define'
+bip_39_word_new_line5: 'clerk
+
+  corn
+
+  sorry
+
+  define
+
+  proof'
+bip_39_word_new_line6: 'clerk
+
+  corn
+
+  sorry
+
+  define
+
+  proof
+
+  release'
+bip_39_word_new_line7: 'clerk
+
+  corn
+
+  sorry
+
+  define
+
+  proof
+
+  release
+
+  mix'
+bip_39_word_new_line8: 'clerk
+
+  corn
+
+  sorry
+
+  define
+
+  proof
+
+  release
+
+  mix
+
+  result'
+bip_39_word_new_line9: 'clerk
+
+  corn
+
+  sorry
+
+  define
+
+  proof
+
+  release
+
+  mix
+
+  result
+
+  retreat'
+bip_39_word_space_0:
+- clerk
+- corn
+- sorry
+- define
+- proof
+- release
+- mix
+- result
+- retreat
+- put
+- armor
+- across
+bip_39_word_space_1: clerk
+bip_39_word_space_10: clerk corn sorry define proof release mix result retreat put
+bip_39_word_space_11: clerk corn sorry define proof release mix result retreat put
+  armor
+bip_39_word_space_12: clerk corn sorry define proof release mix result retreat put
+  armor across
+bip_39_word_space_2: clerk corn
+bip_39_word_space_3: clerk corn sorry
+bip_39_word_space_4: clerk corn sorry define
+bip_39_word_space_5: clerk corn sorry define proof
+bip_39_word_space_6: clerk corn sorry define proof release
+bip_39_word_space_7: clerk corn sorry define proof release mix
+bip_39_word_space_8: clerk corn sorry define proof release mix result
+bip_39_word_space_9: clerk corn sorry define proof release mix result retreat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

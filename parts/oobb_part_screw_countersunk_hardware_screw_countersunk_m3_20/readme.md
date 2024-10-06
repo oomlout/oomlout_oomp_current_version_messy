@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clean army
+  * bip 39 word 3: clean army frozen
+  * bip 39 word: clean army frozen used slim lock ethics focus wrap want oval asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clean |  
+| bip_39_word_new_br10 | clean<br>army<br>frozen<br>used<br>slim<br>lock<br>ethics<br>focus<br>wrap<br>want |  
+| bip_39_word_new_br11 | clean<br>army<br>frozen<br>used<br>slim<br>lock<br>ethics<br>focus<br>wrap<br>want<br>oval |  
+| bip_39_word_new_br12 | clean<br>army<br>frozen<br>used<br>slim<br>lock<br>ethics<br>focus<br>wrap<br>want<br>oval<br>asset |  
+| bip_39_word_new_br2 | clean<br>army |  
+| bip_39_word_new_br3 | clean<br>army<br>frozen |  
+| bip_39_word_new_br4 | clean<br>army<br>frozen<br>used |  
+| bip_39_word_new_br5 | clean<br>army<br>frozen<br>used<br>slim |  
+| bip_39_word_new_br6 | clean<br>army<br>frozen<br>used<br>slim<br>lock |  
+| bip_39_word_new_br7 | clean<br>army<br>frozen<br>used<br>slim<br>lock<br>ethics |  
+| bip_39_word_new_br8 | clean<br>army<br>frozen<br>used<br>slim<br>lock<br>ethics<br>focus |  
+| bip_39_word_new_br9 | clean<br>army<br>frozen<br>used<br>slim<br>lock<br>ethics<br>focus<br>wrap |  
+| bip_39_word_new_line1 | clean |  
+| bip_39_word_new_line10 | clean
+army
+frozen
+used
+slim
+lock
+ethics
+focus
+wrap
+want |  
+| bip_39_word_new_line11 | clean
+army
+frozen
+used
+slim
+lock
+ethics
+focus
+wrap
+want
+oval |  
+| bip_39_word_new_line12 | clean
+army
+frozen
+used
+slim
+lock
+ethics
+focus
+wrap
+want
+oval
+asset |  
+| bip_39_word_new_line2 | clean
+army |  
+| bip_39_word_new_line3 | clean
+army
+frozen |  
+| bip_39_word_new_line4 | clean
+army
+frozen
+used |  
+| bip_39_word_new_line5 | clean
+army
+frozen
+used
+slim |  
+| bip_39_word_new_line6 | clean
+army
+frozen
+used
+slim
+lock |  
+| bip_39_word_new_line7 | clean
+army
+frozen
+used
+slim
+lock
+ethics |  
+| bip_39_word_new_line8 | clean
+army
+frozen
+used
+slim
+lock
+ethics
+focus |  
+| bip_39_word_new_line9 | clean
+army
+frozen
+used
+slim
+lock
+ethics
+focus
+wrap |  
+| bip_39_word_space_0 | ['clean', 'army', 'frozen', 'used', 'slim', 'lock', 'ethics', 'focus', 'wrap', 'want', 'oval', 'asset'] |  
+| bip_39_word_space_1 | clean |  
+| bip_39_word_space_10 | clean army frozen used slim lock ethics focus wrap want |  
+| bip_39_word_space_11 | clean army frozen used slim lock ethics focus wrap want oval |  
+| bip_39_word_space_12 | clean army frozen used slim lock ethics focus wrap want oval asset |  
+| bip_39_word_space_2 | clean army |  
+| bip_39_word_space_3 | clean army frozen |  
+| bip_39_word_space_4 | clean army frozen used |  
+| bip_39_word_space_5 | clean army frozen used slim |  
+| bip_39_word_space_6 | clean army frozen used slim lock |  
+| bip_39_word_space_7 | clean army frozen used slim lock ethics |  
+| bip_39_word_space_8 | clean army frozen used slim lock ethics focus |  
+| bip_39_word_space_9 | clean army frozen used slim lock ethics focus wrap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

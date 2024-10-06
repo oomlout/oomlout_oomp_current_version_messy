@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: client draft
+  * bip 39 word 3: client draft arch
+  * bip 39 word: client draft arch exhibit giraffe echo olympic hazard country maid luggage aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | client |  
+| bip_39_word_new_br10 | client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo<br>olympic<br>hazard<br>country<br>maid |  
+| bip_39_word_new_br11 | client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo<br>olympic<br>hazard<br>country<br>maid<br>luggage |  
+| bip_39_word_new_br12 | client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo<br>olympic<br>hazard<br>country<br>maid<br>luggage<br>aerobic |  
+| bip_39_word_new_br2 | client<br>draft |  
+| bip_39_word_new_br3 | client<br>draft<br>arch |  
+| bip_39_word_new_br4 | client<br>draft<br>arch<br>exhibit |  
+| bip_39_word_new_br5 | client<br>draft<br>arch<br>exhibit<br>giraffe |  
+| bip_39_word_new_br6 | client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo |  
+| bip_39_word_new_br7 | client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo<br>olympic |  
+| bip_39_word_new_br8 | client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo<br>olympic<br>hazard |  
+| bip_39_word_new_br9 | client<br>draft<br>arch<br>exhibit<br>giraffe<br>echo<br>olympic<br>hazard<br>country |  
+| bip_39_word_new_line1 | client |  
+| bip_39_word_new_line10 | client
+draft
+arch
+exhibit
+giraffe
+echo
+olympic
+hazard
+country
+maid |  
+| bip_39_word_new_line11 | client
+draft
+arch
+exhibit
+giraffe
+echo
+olympic
+hazard
+country
+maid
+luggage |  
+| bip_39_word_new_line12 | client
+draft
+arch
+exhibit
+giraffe
+echo
+olympic
+hazard
+country
+maid
+luggage
+aerobic |  
+| bip_39_word_new_line2 | client
+draft |  
+| bip_39_word_new_line3 | client
+draft
+arch |  
+| bip_39_word_new_line4 | client
+draft
+arch
+exhibit |  
+| bip_39_word_new_line5 | client
+draft
+arch
+exhibit
+giraffe |  
+| bip_39_word_new_line6 | client
+draft
+arch
+exhibit
+giraffe
+echo |  
+| bip_39_word_new_line7 | client
+draft
+arch
+exhibit
+giraffe
+echo
+olympic |  
+| bip_39_word_new_line8 | client
+draft
+arch
+exhibit
+giraffe
+echo
+olympic
+hazard |  
+| bip_39_word_new_line9 | client
+draft
+arch
+exhibit
+giraffe
+echo
+olympic
+hazard
+country |  
+| bip_39_word_space_0 | ['client', 'draft', 'arch', 'exhibit', 'giraffe', 'echo', 'olympic', 'hazard', 'country', 'maid', 'luggage', 'aerobic'] |  
+| bip_39_word_space_1 | client |  
+| bip_39_word_space_10 | client draft arch exhibit giraffe echo olympic hazard country maid |  
+| bip_39_word_space_11 | client draft arch exhibit giraffe echo olympic hazard country maid luggage |  
+| bip_39_word_space_12 | client draft arch exhibit giraffe echo olympic hazard country maid luggage aerobic |  
+| bip_39_word_space_2 | client draft |  
+| bip_39_word_space_3 | client draft arch |  
+| bip_39_word_space_4 | client draft arch exhibit |  
+| bip_39_word_space_5 | client draft arch exhibit giraffe |  
+| bip_39_word_space_6 | client draft arch exhibit giraffe echo |  
+| bip_39_word_space_7 | client draft arch exhibit giraffe echo olympic |  
+| bip_39_word_space_8 | client draft arch exhibit giraffe echo olympic hazard |  
+| bip_39_word_space_9 | client draft arch exhibit giraffe echo olympic hazard country |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

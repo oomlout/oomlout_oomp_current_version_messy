@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: yellow easily
+  * bip 39 word 3: yellow easily kangaroo
+  * bip 39 word: yellow easily kangaroo arm verify orbit chuckle short raise fever person army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | yellow |  
+| bip_39_word_new_br10 | yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit<br>chuckle<br>short<br>raise<br>fever |  
+| bip_39_word_new_br11 | yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit<br>chuckle<br>short<br>raise<br>fever<br>person |  
+| bip_39_word_new_br12 | yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit<br>chuckle<br>short<br>raise<br>fever<br>person<br>army |  
+| bip_39_word_new_br2 | yellow<br>easily |  
+| bip_39_word_new_br3 | yellow<br>easily<br>kangaroo |  
+| bip_39_word_new_br4 | yellow<br>easily<br>kangaroo<br>arm |  
+| bip_39_word_new_br5 | yellow<br>easily<br>kangaroo<br>arm<br>verify |  
+| bip_39_word_new_br6 | yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit |  
+| bip_39_word_new_br7 | yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit<br>chuckle |  
+| bip_39_word_new_br8 | yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit<br>chuckle<br>short |  
+| bip_39_word_new_br9 | yellow<br>easily<br>kangaroo<br>arm<br>verify<br>orbit<br>chuckle<br>short<br>raise |  
+| bip_39_word_new_line1 | yellow |  
+| bip_39_word_new_line10 | yellow
+easily
+kangaroo
+arm
+verify
+orbit
+chuckle
+short
+raise
+fever |  
+| bip_39_word_new_line11 | yellow
+easily
+kangaroo
+arm
+verify
+orbit
+chuckle
+short
+raise
+fever
+person |  
+| bip_39_word_new_line12 | yellow
+easily
+kangaroo
+arm
+verify
+orbit
+chuckle
+short
+raise
+fever
+person
+army |  
+| bip_39_word_new_line2 | yellow
+easily |  
+| bip_39_word_new_line3 | yellow
+easily
+kangaroo |  
+| bip_39_word_new_line4 | yellow
+easily
+kangaroo
+arm |  
+| bip_39_word_new_line5 | yellow
+easily
+kangaroo
+arm
+verify |  
+| bip_39_word_new_line6 | yellow
+easily
+kangaroo
+arm
+verify
+orbit |  
+| bip_39_word_new_line7 | yellow
+easily
+kangaroo
+arm
+verify
+orbit
+chuckle |  
+| bip_39_word_new_line8 | yellow
+easily
+kangaroo
+arm
+verify
+orbit
+chuckle
+short |  
+| bip_39_word_new_line9 | yellow
+easily
+kangaroo
+arm
+verify
+orbit
+chuckle
+short
+raise |  
+| bip_39_word_space_0 | ['yellow', 'easily', 'kangaroo', 'arm', 'verify', 'orbit', 'chuckle', 'short', 'raise', 'fever', 'person', 'army'] |  
+| bip_39_word_space_1 | yellow |  
+| bip_39_word_space_10 | yellow easily kangaroo arm verify orbit chuckle short raise fever |  
+| bip_39_word_space_11 | yellow easily kangaroo arm verify orbit chuckle short raise fever person |  
+| bip_39_word_space_12 | yellow easily kangaroo arm verify orbit chuckle short raise fever person army |  
+| bip_39_word_space_2 | yellow easily |  
+| bip_39_word_space_3 | yellow easily kangaroo |  
+| bip_39_word_space_4 | yellow easily kangaroo arm |  
+| bip_39_word_space_5 | yellow easily kangaroo arm verify |  
+| bip_39_word_space_6 | yellow easily kangaroo arm verify orbit |  
+| bip_39_word_space_7 | yellow easily kangaroo arm verify orbit chuckle |  
+| bip_39_word_space_8 | yellow easily kangaroo arm verify orbit chuckle short |  
+| bip_39_word_space_9 | yellow easily kangaroo arm verify orbit chuckle short raise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

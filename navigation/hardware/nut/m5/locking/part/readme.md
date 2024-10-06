@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enact universe
+  * bip 39 word 3: enact universe often
+  * bip 39 word: enact universe often salad few silent hand almost system dream group alien
 
 ### other_codes
 * short_code: n5mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enact |  
+| bip_39_word_new_br10 | enact<br>universe<br>often<br>salad<br>few<br>silent<br>hand<br>almost<br>system<br>dream |  
+| bip_39_word_new_br11 | enact<br>universe<br>often<br>salad<br>few<br>silent<br>hand<br>almost<br>system<br>dream<br>group |  
+| bip_39_word_new_br12 | enact<br>universe<br>often<br>salad<br>few<br>silent<br>hand<br>almost<br>system<br>dream<br>group<br>alien |  
+| bip_39_word_new_br2 | enact<br>universe |  
+| bip_39_word_new_br3 | enact<br>universe<br>often |  
+| bip_39_word_new_br4 | enact<br>universe<br>often<br>salad |  
+| bip_39_word_new_br5 | enact<br>universe<br>often<br>salad<br>few |  
+| bip_39_word_new_br6 | enact<br>universe<br>often<br>salad<br>few<br>silent |  
+| bip_39_word_new_br7 | enact<br>universe<br>often<br>salad<br>few<br>silent<br>hand |  
+| bip_39_word_new_br8 | enact<br>universe<br>often<br>salad<br>few<br>silent<br>hand<br>almost |  
+| bip_39_word_new_br9 | enact<br>universe<br>often<br>salad<br>few<br>silent<br>hand<br>almost<br>system |  
+| bip_39_word_new_line1 | enact |  
+| bip_39_word_new_line10 | enact
+universe
+often
+salad
+few
+silent
+hand
+almost
+system
+dream |  
+| bip_39_word_new_line11 | enact
+universe
+often
+salad
+few
+silent
+hand
+almost
+system
+dream
+group |  
+| bip_39_word_new_line12 | enact
+universe
+often
+salad
+few
+silent
+hand
+almost
+system
+dream
+group
+alien |  
+| bip_39_word_new_line2 | enact
+universe |  
+| bip_39_word_new_line3 | enact
+universe
+often |  
+| bip_39_word_new_line4 | enact
+universe
+often
+salad |  
+| bip_39_word_new_line5 | enact
+universe
+often
+salad
+few |  
+| bip_39_word_new_line6 | enact
+universe
+often
+salad
+few
+silent |  
+| bip_39_word_new_line7 | enact
+universe
+often
+salad
+few
+silent
+hand |  
+| bip_39_word_new_line8 | enact
+universe
+often
+salad
+few
+silent
+hand
+almost |  
+| bip_39_word_new_line9 | enact
+universe
+often
+salad
+few
+silent
+hand
+almost
+system |  
+| bip_39_word_space_0 | ['enact', 'universe', 'often', 'salad', 'few', 'silent', 'hand', 'almost', 'system', 'dream', 'group', 'alien'] |  
+| bip_39_word_space_1 | enact |  
+| bip_39_word_space_10 | enact universe often salad few silent hand almost system dream |  
+| bip_39_word_space_11 | enact universe often salad few silent hand almost system dream group |  
+| bip_39_word_space_12 | enact universe often salad few silent hand almost system dream group alien |  
+| bip_39_word_space_2 | enact universe |  
+| bip_39_word_space_3 | enact universe often |  
+| bip_39_word_space_4 | enact universe often salad |  
+| bip_39_word_space_5 | enact universe often salad few |  
+| bip_39_word_space_6 | enact universe often salad few silent |  
+| bip_39_word_space_7 | enact universe often salad few silent hand |  
+| bip_39_word_space_8 | enact universe often salad few silent hand almost |  
+| bip_39_word_space_9 | enact universe often salad few silent hand almost system |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

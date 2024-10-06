@@ -1,3 +1,186 @@
+bip_39_word_new_br1: piano
+bip_39_word_new_br10: piano<br>top<br>success<br>punch<br>country<br>midnight<br>legal<br>earn<br>trust<br>undo
+bip_39_word_new_br11: piano<br>top<br>success<br>punch<br>country<br>midnight<br>legal<br>earn<br>trust<br>undo<br>exclude
+bip_39_word_new_br12: piano<br>top<br>success<br>punch<br>country<br>midnight<br>legal<br>earn<br>trust<br>undo<br>exclude<br>already
+bip_39_word_new_br2: piano<br>top
+bip_39_word_new_br3: piano<br>top<br>success
+bip_39_word_new_br4: piano<br>top<br>success<br>punch
+bip_39_word_new_br5: piano<br>top<br>success<br>punch<br>country
+bip_39_word_new_br6: piano<br>top<br>success<br>punch<br>country<br>midnight
+bip_39_word_new_br7: piano<br>top<br>success<br>punch<br>country<br>midnight<br>legal
+bip_39_word_new_br8: piano<br>top<br>success<br>punch<br>country<br>midnight<br>legal<br>earn
+bip_39_word_new_br9: piano<br>top<br>success<br>punch<br>country<br>midnight<br>legal<br>earn<br>trust
+bip_39_word_new_line1: piano
+bip_39_word_new_line10: 'piano
+
+  top
+
+  success
+
+  punch
+
+  country
+
+  midnight
+
+  legal
+
+  earn
+
+  trust
+
+  undo'
+bip_39_word_new_line11: 'piano
+
+  top
+
+  success
+
+  punch
+
+  country
+
+  midnight
+
+  legal
+
+  earn
+
+  trust
+
+  undo
+
+  exclude'
+bip_39_word_new_line12: 'piano
+
+  top
+
+  success
+
+  punch
+
+  country
+
+  midnight
+
+  legal
+
+  earn
+
+  trust
+
+  undo
+
+  exclude
+
+  already'
+bip_39_word_new_line2: 'piano
+
+  top'
+bip_39_word_new_line3: 'piano
+
+  top
+
+  success'
+bip_39_word_new_line4: 'piano
+
+  top
+
+  success
+
+  punch'
+bip_39_word_new_line5: 'piano
+
+  top
+
+  success
+
+  punch
+
+  country'
+bip_39_word_new_line6: 'piano
+
+  top
+
+  success
+
+  punch
+
+  country
+
+  midnight'
+bip_39_word_new_line7: 'piano
+
+  top
+
+  success
+
+  punch
+
+  country
+
+  midnight
+
+  legal'
+bip_39_word_new_line8: 'piano
+
+  top
+
+  success
+
+  punch
+
+  country
+
+  midnight
+
+  legal
+
+  earn'
+bip_39_word_new_line9: 'piano
+
+  top
+
+  success
+
+  punch
+
+  country
+
+  midnight
+
+  legal
+
+  earn
+
+  trust'
+bip_39_word_space_0:
+- piano
+- top
+- success
+- punch
+- country
+- midnight
+- legal
+- earn
+- trust
+- undo
+- exclude
+- already
+bip_39_word_space_1: piano
+bip_39_word_space_10: piano top success punch country midnight legal earn trust undo
+bip_39_word_space_11: piano top success punch country midnight legal earn trust undo
+  exclude
+bip_39_word_space_12: piano top success punch country midnight legal earn trust undo
+  exclude already
+bip_39_word_space_2: piano top
+bip_39_word_space_3: piano top success
+bip_39_word_space_4: piano top success punch
+bip_39_word_space_5: piano top success punch country
+bip_39_word_space_6: piano top success punch country midnight
+bip_39_word_space_7: piano top success punch country midnight legal
+bip_39_word_space_8: piano top success punch country midnight legal earn
+bip_39_word_space_9: piano top success punch country midnight legal earn trust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

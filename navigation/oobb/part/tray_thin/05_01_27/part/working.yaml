@@ -1,3 +1,160 @@
+bip_39_word_new_br1: behind
+bip_39_word_new_br10: behind<br>tell<br>acoustic<br>taxi<br>panel<br>february<br>erosion<br>tenant<br>ranch<br>siege
+bip_39_word_new_br11: behind<br>tell<br>acoustic<br>taxi<br>panel<br>february<br>erosion<br>tenant<br>ranch<br>siege<br>caution
+bip_39_word_new_br2: behind<br>tell
+bip_39_word_new_br3: behind<br>tell<br>acoustic
+bip_39_word_new_br4: behind<br>tell<br>acoustic<br>taxi
+bip_39_word_new_br5: behind<br>tell<br>acoustic<br>taxi<br>panel
+bip_39_word_new_br6: behind<br>tell<br>acoustic<br>taxi<br>panel<br>february
+bip_39_word_new_br7: behind<br>tell<br>acoustic<br>taxi<br>panel<br>february<br>erosion
+bip_39_word_new_br8: behind<br>tell<br>acoustic<br>taxi<br>panel<br>february<br>erosion<br>tenant
+bip_39_word_new_br9: behind<br>tell<br>acoustic<br>taxi<br>panel<br>february<br>erosion<br>tenant<br>ranch
+bip_39_word_new_line1: behind
+bip_39_word_new_line10: 'behind
+
+  tell
+
+  acoustic
+
+  taxi
+
+  panel
+
+  february
+
+  erosion
+
+  tenant
+
+  ranch
+
+  siege'
+bip_39_word_new_line11: 'behind
+
+  tell
+
+  acoustic
+
+  taxi
+
+  panel
+
+  february
+
+  erosion
+
+  tenant
+
+  ranch
+
+  siege
+
+  caution'
+bip_39_word_new_line2: 'behind
+
+  tell'
+bip_39_word_new_line3: 'behind
+
+  tell
+
+  acoustic'
+bip_39_word_new_line4: 'behind
+
+  tell
+
+  acoustic
+
+  taxi'
+bip_39_word_new_line5: 'behind
+
+  tell
+
+  acoustic
+
+  taxi
+
+  panel'
+bip_39_word_new_line6: 'behind
+
+  tell
+
+  acoustic
+
+  taxi
+
+  panel
+
+  february'
+bip_39_word_new_line7: 'behind
+
+  tell
+
+  acoustic
+
+  taxi
+
+  panel
+
+  february
+
+  erosion'
+bip_39_word_new_line8: 'behind
+
+  tell
+
+  acoustic
+
+  taxi
+
+  panel
+
+  february
+
+  erosion
+
+  tenant'
+bip_39_word_new_line9: 'behind
+
+  tell
+
+  acoustic
+
+  taxi
+
+  panel
+
+  february
+
+  erosion
+
+  tenant
+
+  ranch'
+bip_39_word_space_0:
+- behind
+- tell
+- acoustic
+- taxi
+- panel
+- february
+- erosion
+- tenant
+- ranch
+- siege
+- caution
+bip_39_word_space_1: behind
+bip_39_word_space_10: behind tell acoustic taxi panel february erosion tenant ranch
+  siege
+bip_39_word_space_11: behind tell acoustic taxi panel february erosion tenant ranch
+  siege caution
+bip_39_word_space_2: behind tell
+bip_39_word_space_3: behind tell acoustic
+bip_39_word_space_4: behind tell acoustic taxi
+bip_39_word_space_5: behind tell acoustic taxi panel
+bip_39_word_space_6: behind tell acoustic taxi panel february
+bip_39_word_space_7: behind tell acoustic taxi panel february erosion
+bip_39_word_space_8: behind tell acoustic taxi panel february erosion tenant
+bip_39_word_space_9: behind tell acoustic taxi panel february erosion tenant ranch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

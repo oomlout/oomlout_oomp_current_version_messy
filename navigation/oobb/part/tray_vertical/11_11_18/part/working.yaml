@@ -1,3 +1,186 @@
+bip_39_word_new_br1: divert
+bip_39_word_new_br10: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite
+bip_39_word_new_br11: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite<br>recipe
+bip_39_word_new_br12: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior<br>elite<br>recipe<br>ability
+bip_39_word_new_br2: divert<br>carbon
+bip_39_word_new_br3: divert<br>carbon<br>bird
+bip_39_word_new_br4: divert<br>carbon<br>bird<br>mad
+bip_39_word_new_br5: divert<br>carbon<br>bird<br>mad<br>paddle
+bip_39_word_new_br6: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall
+bip_39_word_new_br7: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo
+bip_39_word_new_br8: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust
+bip_39_word_new_br9: divert<br>carbon<br>bird<br>mad<br>paddle<br>fall<br>buffalo<br>robust<br>senior
+bip_39_word_new_line1: divert
+bip_39_word_new_line10: 'divert
+
+  carbon
+
+  bird
+
+  mad
+
+  paddle
+
+  fall
+
+  buffalo
+
+  robust
+
+  senior
+
+  elite'
+bip_39_word_new_line11: 'divert
+
+  carbon
+
+  bird
+
+  mad
+
+  paddle
+
+  fall
+
+  buffalo
+
+  robust
+
+  senior
+
+  elite
+
+  recipe'
+bip_39_word_new_line12: 'divert
+
+  carbon
+
+  bird
+
+  mad
+
+  paddle
+
+  fall
+
+  buffalo
+
+  robust
+
+  senior
+
+  elite
+
+  recipe
+
+  ability'
+bip_39_word_new_line2: 'divert
+
+  carbon'
+bip_39_word_new_line3: 'divert
+
+  carbon
+
+  bird'
+bip_39_word_new_line4: 'divert
+
+  carbon
+
+  bird
+
+  mad'
+bip_39_word_new_line5: 'divert
+
+  carbon
+
+  bird
+
+  mad
+
+  paddle'
+bip_39_word_new_line6: 'divert
+
+  carbon
+
+  bird
+
+  mad
+
+  paddle
+
+  fall'
+bip_39_word_new_line7: 'divert
+
+  carbon
+
+  bird
+
+  mad
+
+  paddle
+
+  fall
+
+  buffalo'
+bip_39_word_new_line8: 'divert
+
+  carbon
+
+  bird
+
+  mad
+
+  paddle
+
+  fall
+
+  buffalo
+
+  robust'
+bip_39_word_new_line9: 'divert
+
+  carbon
+
+  bird
+
+  mad
+
+  paddle
+
+  fall
+
+  buffalo
+
+  robust
+
+  senior'
+bip_39_word_space_0:
+- divert
+- carbon
+- bird
+- mad
+- paddle
+- fall
+- buffalo
+- robust
+- senior
+- elite
+- recipe
+- ability
+bip_39_word_space_1: divert
+bip_39_word_space_10: divert carbon bird mad paddle fall buffalo robust senior elite
+bip_39_word_space_11: divert carbon bird mad paddle fall buffalo robust senior elite
+  recipe
+bip_39_word_space_12: divert carbon bird mad paddle fall buffalo robust senior elite
+  recipe ability
+bip_39_word_space_2: divert carbon
+bip_39_word_space_3: divert carbon bird
+bip_39_word_space_4: divert carbon bird mad
+bip_39_word_space_5: divert carbon bird mad paddle
+bip_39_word_space_6: divert carbon bird mad paddle fall
+bip_39_word_space_7: divert carbon bird mad paddle fall buffalo
+bip_39_word_space_8: divert carbon bird mad paddle fall buffalo robust
+bip_39_word_space_9: divert carbon bird mad paddle fall buffalo robust senior
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

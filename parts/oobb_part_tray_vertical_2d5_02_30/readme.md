@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tomato bacon
+  * bip 39 word 3: tomato bacon impulse
+  * bip 39 word: tomato bacon impulse exhaust middle stereo stool digital hand finish client april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tomato |  
+| bip_39_word_new_br10 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo<br>stool<br>digital<br>hand<br>finish |  
+| bip_39_word_new_br11 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo<br>stool<br>digital<br>hand<br>finish<br>client |  
+| bip_39_word_new_br12 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo<br>stool<br>digital<br>hand<br>finish<br>client<br>april |  
+| bip_39_word_new_br2 | tomato<br>bacon |  
+| bip_39_word_new_br3 | tomato<br>bacon<br>impulse |  
+| bip_39_word_new_br4 | tomato<br>bacon<br>impulse<br>exhaust |  
+| bip_39_word_new_br5 | tomato<br>bacon<br>impulse<br>exhaust<br>middle |  
+| bip_39_word_new_br6 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo |  
+| bip_39_word_new_br7 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo<br>stool |  
+| bip_39_word_new_br8 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo<br>stool<br>digital |  
+| bip_39_word_new_br9 | tomato<br>bacon<br>impulse<br>exhaust<br>middle<br>stereo<br>stool<br>digital<br>hand |  
+| bip_39_word_new_line1 | tomato |  
+| bip_39_word_new_line10 | tomato
+bacon
+impulse
+exhaust
+middle
+stereo
+stool
+digital
+hand
+finish |  
+| bip_39_word_new_line11 | tomato
+bacon
+impulse
+exhaust
+middle
+stereo
+stool
+digital
+hand
+finish
+client |  
+| bip_39_word_new_line12 | tomato
+bacon
+impulse
+exhaust
+middle
+stereo
+stool
+digital
+hand
+finish
+client
+april |  
+| bip_39_word_new_line2 | tomato
+bacon |  
+| bip_39_word_new_line3 | tomato
+bacon
+impulse |  
+| bip_39_word_new_line4 | tomato
+bacon
+impulse
+exhaust |  
+| bip_39_word_new_line5 | tomato
+bacon
+impulse
+exhaust
+middle |  
+| bip_39_word_new_line6 | tomato
+bacon
+impulse
+exhaust
+middle
+stereo |  
+| bip_39_word_new_line7 | tomato
+bacon
+impulse
+exhaust
+middle
+stereo
+stool |  
+| bip_39_word_new_line8 | tomato
+bacon
+impulse
+exhaust
+middle
+stereo
+stool
+digital |  
+| bip_39_word_new_line9 | tomato
+bacon
+impulse
+exhaust
+middle
+stereo
+stool
+digital
+hand |  
+| bip_39_word_space_0 | ['tomato', 'bacon', 'impulse', 'exhaust', 'middle', 'stereo', 'stool', 'digital', 'hand', 'finish', 'client', 'april'] |  
+| bip_39_word_space_1 | tomato |  
+| bip_39_word_space_10 | tomato bacon impulse exhaust middle stereo stool digital hand finish |  
+| bip_39_word_space_11 | tomato bacon impulse exhaust middle stereo stool digital hand finish client |  
+| bip_39_word_space_12 | tomato bacon impulse exhaust middle stereo stool digital hand finish client april |  
+| bip_39_word_space_2 | tomato bacon |  
+| bip_39_word_space_3 | tomato bacon impulse |  
+| bip_39_word_space_4 | tomato bacon impulse exhaust |  
+| bip_39_word_space_5 | tomato bacon impulse exhaust middle |  
+| bip_39_word_space_6 | tomato bacon impulse exhaust middle stereo |  
+| bip_39_word_space_7 | tomato bacon impulse exhaust middle stereo stool |  
+| bip_39_word_space_8 | tomato bacon impulse exhaust middle stereo stool digital |  
+| bip_39_word_space_9 | tomato bacon impulse exhaust middle stereo stool digital hand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

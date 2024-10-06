@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: section robot
+  * bip 39 word 3: section robot staff
+  * bip 39 word: section robot staff dinner depart salon unlock betray liberty lucky absent audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | section |  
+| bip_39_word_new_br10 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky |  
+| bip_39_word_new_br11 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky<br>absent |  
+| bip_39_word_new_br12 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty<br>lucky<br>absent<br>audit |  
+| bip_39_word_new_br2 | section<br>robot |  
+| bip_39_word_new_br3 | section<br>robot<br>staff |  
+| bip_39_word_new_br4 | section<br>robot<br>staff<br>dinner |  
+| bip_39_word_new_br5 | section<br>robot<br>staff<br>dinner<br>depart |  
+| bip_39_word_new_br6 | section<br>robot<br>staff<br>dinner<br>depart<br>salon |  
+| bip_39_word_new_br7 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock |  
+| bip_39_word_new_br8 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray |  
+| bip_39_word_new_br9 | section<br>robot<br>staff<br>dinner<br>depart<br>salon<br>unlock<br>betray<br>liberty |  
+| bip_39_word_new_line1 | section |  
+| bip_39_word_new_line10 | section
+robot
+staff
+dinner
+depart
+salon
+unlock
+betray
+liberty
+lucky |  
+| bip_39_word_new_line11 | section
+robot
+staff
+dinner
+depart
+salon
+unlock
+betray
+liberty
+lucky
+absent |  
+| bip_39_word_new_line12 | section
+robot
+staff
+dinner
+depart
+salon
+unlock
+betray
+liberty
+lucky
+absent
+audit |  
+| bip_39_word_new_line2 | section
+robot |  
+| bip_39_word_new_line3 | section
+robot
+staff |  
+| bip_39_word_new_line4 | section
+robot
+staff
+dinner |  
+| bip_39_word_new_line5 | section
+robot
+staff
+dinner
+depart |  
+| bip_39_word_new_line6 | section
+robot
+staff
+dinner
+depart
+salon |  
+| bip_39_word_new_line7 | section
+robot
+staff
+dinner
+depart
+salon
+unlock |  
+| bip_39_word_new_line8 | section
+robot
+staff
+dinner
+depart
+salon
+unlock
+betray |  
+| bip_39_word_new_line9 | section
+robot
+staff
+dinner
+depart
+salon
+unlock
+betray
+liberty |  
+| bip_39_word_space_0 | ['section', 'robot', 'staff', 'dinner', 'depart', 'salon', 'unlock', 'betray', 'liberty', 'lucky', 'absent', 'audit'] |  
+| bip_39_word_space_1 | section |  
+| bip_39_word_space_10 | section robot staff dinner depart salon unlock betray liberty lucky |  
+| bip_39_word_space_11 | section robot staff dinner depart salon unlock betray liberty lucky absent |  
+| bip_39_word_space_12 | section robot staff dinner depart salon unlock betray liberty lucky absent audit |  
+| bip_39_word_space_2 | section robot |  
+| bip_39_word_space_3 | section robot staff |  
+| bip_39_word_space_4 | section robot staff dinner |  
+| bip_39_word_space_5 | section robot staff dinner depart |  
+| bip_39_word_space_6 | section robot staff dinner depart salon |  
+| bip_39_word_space_7 | section robot staff dinner depart salon unlock |  
+| bip_39_word_space_8 | section robot staff dinner depart salon unlock betray |  
+| bip_39_word_space_9 | section robot staff dinner depart salon unlock betray liberty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sugar track
+  * bip 39 word 3: sugar track light
+  * bip 39 word: sugar track light omit lazy sword will stamp pyramid hat grape amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sugar |  
+| bip_39_word_new_br10 | sugar<br>track<br>light<br>omit<br>lazy<br>sword<br>will<br>stamp<br>pyramid<br>hat |  
+| bip_39_word_new_br11 | sugar<br>track<br>light<br>omit<br>lazy<br>sword<br>will<br>stamp<br>pyramid<br>hat<br>grape |  
+| bip_39_word_new_br12 | sugar<br>track<br>light<br>omit<br>lazy<br>sword<br>will<br>stamp<br>pyramid<br>hat<br>grape<br>amazing |  
+| bip_39_word_new_br2 | sugar<br>track |  
+| bip_39_word_new_br3 | sugar<br>track<br>light |  
+| bip_39_word_new_br4 | sugar<br>track<br>light<br>omit |  
+| bip_39_word_new_br5 | sugar<br>track<br>light<br>omit<br>lazy |  
+| bip_39_word_new_br6 | sugar<br>track<br>light<br>omit<br>lazy<br>sword |  
+| bip_39_word_new_br7 | sugar<br>track<br>light<br>omit<br>lazy<br>sword<br>will |  
+| bip_39_word_new_br8 | sugar<br>track<br>light<br>omit<br>lazy<br>sword<br>will<br>stamp |  
+| bip_39_word_new_br9 | sugar<br>track<br>light<br>omit<br>lazy<br>sword<br>will<br>stamp<br>pyramid |  
+| bip_39_word_new_line1 | sugar |  
+| bip_39_word_new_line10 | sugar
+track
+light
+omit
+lazy
+sword
+will
+stamp
+pyramid
+hat |  
+| bip_39_word_new_line11 | sugar
+track
+light
+omit
+lazy
+sword
+will
+stamp
+pyramid
+hat
+grape |  
+| bip_39_word_new_line12 | sugar
+track
+light
+omit
+lazy
+sword
+will
+stamp
+pyramid
+hat
+grape
+amazing |  
+| bip_39_word_new_line2 | sugar
+track |  
+| bip_39_word_new_line3 | sugar
+track
+light |  
+| bip_39_word_new_line4 | sugar
+track
+light
+omit |  
+| bip_39_word_new_line5 | sugar
+track
+light
+omit
+lazy |  
+| bip_39_word_new_line6 | sugar
+track
+light
+omit
+lazy
+sword |  
+| bip_39_word_new_line7 | sugar
+track
+light
+omit
+lazy
+sword
+will |  
+| bip_39_word_new_line8 | sugar
+track
+light
+omit
+lazy
+sword
+will
+stamp |  
+| bip_39_word_new_line9 | sugar
+track
+light
+omit
+lazy
+sword
+will
+stamp
+pyramid |  
+| bip_39_word_space_0 | ['sugar', 'track', 'light', 'omit', 'lazy', 'sword', 'will', 'stamp', 'pyramid', 'hat', 'grape', 'amazing'] |  
+| bip_39_word_space_1 | sugar |  
+| bip_39_word_space_10 | sugar track light omit lazy sword will stamp pyramid hat |  
+| bip_39_word_space_11 | sugar track light omit lazy sword will stamp pyramid hat grape |  
+| bip_39_word_space_12 | sugar track light omit lazy sword will stamp pyramid hat grape amazing |  
+| bip_39_word_space_2 | sugar track |  
+| bip_39_word_space_3 | sugar track light |  
+| bip_39_word_space_4 | sugar track light omit |  
+| bip_39_word_space_5 | sugar track light omit lazy |  
+| bip_39_word_space_6 | sugar track light omit lazy sword |  
+| bip_39_word_space_7 | sugar track light omit lazy sword will |  
+| bip_39_word_space_8 | sugar track light omit lazy sword will stamp |  
+| bip_39_word_space_9 | sugar track light omit lazy sword will stamp pyramid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

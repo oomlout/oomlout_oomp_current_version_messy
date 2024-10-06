@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: elder kingdom
+  * bip 39 word 3: elder kingdom boat
+  * bip 39 word: elder kingdom boat property matrix during two foil core elbow manual alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | elder |  
+| bip_39_word_new_br10 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during<br>two<br>foil<br>core<br>elbow |  
+| bip_39_word_new_br11 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during<br>two<br>foil<br>core<br>elbow<br>manual |  
+| bip_39_word_new_br12 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during<br>two<br>foil<br>core<br>elbow<br>manual<br>alone |  
+| bip_39_word_new_br2 | elder<br>kingdom |  
+| bip_39_word_new_br3 | elder<br>kingdom<br>boat |  
+| bip_39_word_new_br4 | elder<br>kingdom<br>boat<br>property |  
+| bip_39_word_new_br5 | elder<br>kingdom<br>boat<br>property<br>matrix |  
+| bip_39_word_new_br6 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during |  
+| bip_39_word_new_br7 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during<br>two |  
+| bip_39_word_new_br8 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during<br>two<br>foil |  
+| bip_39_word_new_br9 | elder<br>kingdom<br>boat<br>property<br>matrix<br>during<br>two<br>foil<br>core |  
+| bip_39_word_new_line1 | elder |  
+| bip_39_word_new_line10 | elder
+kingdom
+boat
+property
+matrix
+during
+two
+foil
+core
+elbow |  
+| bip_39_word_new_line11 | elder
+kingdom
+boat
+property
+matrix
+during
+two
+foil
+core
+elbow
+manual |  
+| bip_39_word_new_line12 | elder
+kingdom
+boat
+property
+matrix
+during
+two
+foil
+core
+elbow
+manual
+alone |  
+| bip_39_word_new_line2 | elder
+kingdom |  
+| bip_39_word_new_line3 | elder
+kingdom
+boat |  
+| bip_39_word_new_line4 | elder
+kingdom
+boat
+property |  
+| bip_39_word_new_line5 | elder
+kingdom
+boat
+property
+matrix |  
+| bip_39_word_new_line6 | elder
+kingdom
+boat
+property
+matrix
+during |  
+| bip_39_word_new_line7 | elder
+kingdom
+boat
+property
+matrix
+during
+two |  
+| bip_39_word_new_line8 | elder
+kingdom
+boat
+property
+matrix
+during
+two
+foil |  
+| bip_39_word_new_line9 | elder
+kingdom
+boat
+property
+matrix
+during
+two
+foil
+core |  
+| bip_39_word_space_0 | ['elder', 'kingdom', 'boat', 'property', 'matrix', 'during', 'two', 'foil', 'core', 'elbow', 'manual', 'alone'] |  
+| bip_39_word_space_1 | elder |  
+| bip_39_word_space_10 | elder kingdom boat property matrix during two foil core elbow |  
+| bip_39_word_space_11 | elder kingdom boat property matrix during two foil core elbow manual |  
+| bip_39_word_space_12 | elder kingdom boat property matrix during two foil core elbow manual alone |  
+| bip_39_word_space_2 | elder kingdom |  
+| bip_39_word_space_3 | elder kingdom boat |  
+| bip_39_word_space_4 | elder kingdom boat property |  
+| bip_39_word_space_5 | elder kingdom boat property matrix |  
+| bip_39_word_space_6 | elder kingdom boat property matrix during |  
+| bip_39_word_space_7 | elder kingdom boat property matrix during two |  
+| bip_39_word_space_8 | elder kingdom boat property matrix during two foil |  
+| bip_39_word_space_9 | elder kingdom boat property matrix during two foil core |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

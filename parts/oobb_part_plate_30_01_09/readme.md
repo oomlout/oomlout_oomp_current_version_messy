@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crawl machine
+  * bip 39 word 3: crawl machine pattern
+  * bip 39 word: crawl machine pattern fiscal blast machine police garage fun forget coin artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crawl |  
+| bip_39_word_new_br10 | crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine<br>police<br>garage<br>fun<br>forget |  
+| bip_39_word_new_br11 | crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine<br>police<br>garage<br>fun<br>forget<br>coin |  
+| bip_39_word_new_br12 | crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine<br>police<br>garage<br>fun<br>forget<br>coin<br>artwork |  
+| bip_39_word_new_br2 | crawl<br>machine |  
+| bip_39_word_new_br3 | crawl<br>machine<br>pattern |  
+| bip_39_word_new_br4 | crawl<br>machine<br>pattern<br>fiscal |  
+| bip_39_word_new_br5 | crawl<br>machine<br>pattern<br>fiscal<br>blast |  
+| bip_39_word_new_br6 | crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine |  
+| bip_39_word_new_br7 | crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine<br>police |  
+| bip_39_word_new_br8 | crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine<br>police<br>garage |  
+| bip_39_word_new_br9 | crawl<br>machine<br>pattern<br>fiscal<br>blast<br>machine<br>police<br>garage<br>fun |  
+| bip_39_word_new_line1 | crawl |  
+| bip_39_word_new_line10 | crawl
+machine
+pattern
+fiscal
+blast
+machine
+police
+garage
+fun
+forget |  
+| bip_39_word_new_line11 | crawl
+machine
+pattern
+fiscal
+blast
+machine
+police
+garage
+fun
+forget
+coin |  
+| bip_39_word_new_line12 | crawl
+machine
+pattern
+fiscal
+blast
+machine
+police
+garage
+fun
+forget
+coin
+artwork |  
+| bip_39_word_new_line2 | crawl
+machine |  
+| bip_39_word_new_line3 | crawl
+machine
+pattern |  
+| bip_39_word_new_line4 | crawl
+machine
+pattern
+fiscal |  
+| bip_39_word_new_line5 | crawl
+machine
+pattern
+fiscal
+blast |  
+| bip_39_word_new_line6 | crawl
+machine
+pattern
+fiscal
+blast
+machine |  
+| bip_39_word_new_line7 | crawl
+machine
+pattern
+fiscal
+blast
+machine
+police |  
+| bip_39_word_new_line8 | crawl
+machine
+pattern
+fiscal
+blast
+machine
+police
+garage |  
+| bip_39_word_new_line9 | crawl
+machine
+pattern
+fiscal
+blast
+machine
+police
+garage
+fun |  
+| bip_39_word_space_0 | ['crawl', 'machine', 'pattern', 'fiscal', 'blast', 'machine', 'police', 'garage', 'fun', 'forget', 'coin', 'artwork'] |  
+| bip_39_word_space_1 | crawl |  
+| bip_39_word_space_10 | crawl machine pattern fiscal blast machine police garage fun forget |  
+| bip_39_word_space_11 | crawl machine pattern fiscal blast machine police garage fun forget coin |  
+| bip_39_word_space_12 | crawl machine pattern fiscal blast machine police garage fun forget coin artwork |  
+| bip_39_word_space_2 | crawl machine |  
+| bip_39_word_space_3 | crawl machine pattern |  
+| bip_39_word_space_4 | crawl machine pattern fiscal |  
+| bip_39_word_space_5 | crawl machine pattern fiscal blast |  
+| bip_39_word_space_6 | crawl machine pattern fiscal blast machine |  
+| bip_39_word_space_7 | crawl machine pattern fiscal blast machine police |  
+| bip_39_word_space_8 | crawl machine pattern fiscal blast machine police garage |  
+| bip_39_word_space_9 | crawl machine pattern fiscal blast machine police garage fun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

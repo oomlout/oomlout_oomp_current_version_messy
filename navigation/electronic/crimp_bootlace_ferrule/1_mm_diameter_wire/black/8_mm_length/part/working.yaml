@@ -1,3 +1,186 @@
+bip_39_word_new_br1: initial
+bip_39_word_new_br10: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy
+bip_39_word_new_br11: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy<br>debate
+bip_39_word_new_br12: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy<br>debate<br>arrow
+bip_39_word_new_br2: initial<br>receive
+bip_39_word_new_br3: initial<br>receive<br>term
+bip_39_word_new_br4: initial<br>receive<br>term<br>rail
+bip_39_word_new_br5: initial<br>receive<br>term<br>rail<br>civil
+bip_39_word_new_br6: initial<br>receive<br>term<br>rail<br>civil<br>broken
+bip_39_word_new_br7: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare
+bip_39_word_new_br8: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper
+bip_39_word_new_br9: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift
+bip_39_word_new_line1: initial
+bip_39_word_new_line10: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper
+
+  lift
+
+  spy'
+bip_39_word_new_line11: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper
+
+  lift
+
+  spy
+
+  debate'
+bip_39_word_new_line12: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper
+
+  lift
+
+  spy
+
+  debate
+
+  arrow'
+bip_39_word_new_line2: 'initial
+
+  receive'
+bip_39_word_new_line3: 'initial
+
+  receive
+
+  term'
+bip_39_word_new_line4: 'initial
+
+  receive
+
+  term
+
+  rail'
+bip_39_word_new_line5: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil'
+bip_39_word_new_line6: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken'
+bip_39_word_new_line7: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare'
+bip_39_word_new_line8: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper'
+bip_39_word_new_line9: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper
+
+  lift'
+bip_39_word_space_0:
+- initial
+- receive
+- term
+- rail
+- civil
+- broken
+- prepare
+- pepper
+- lift
+- spy
+- debate
+- arrow
+bip_39_word_space_1: initial
+bip_39_word_space_10: initial receive term rail civil broken prepare pepper lift spy
+bip_39_word_space_11: initial receive term rail civil broken prepare pepper lift spy
+  debate
+bip_39_word_space_12: initial receive term rail civil broken prepare pepper lift spy
+  debate arrow
+bip_39_word_space_2: initial receive
+bip_39_word_space_3: initial receive term
+bip_39_word_space_4: initial receive term rail
+bip_39_word_space_5: initial receive term rail civil
+bip_39_word_space_6: initial receive term rail civil broken
+bip_39_word_space_7: initial receive term rail civil broken prepare
+bip_39_word_space_8: initial receive term rail civil broken prepare pepper
+bip_39_word_space_9: initial receive term rail civil broken prepare pepper lift
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

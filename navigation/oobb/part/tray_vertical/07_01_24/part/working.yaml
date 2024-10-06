@@ -1,3 +1,186 @@
+bip_39_word_new_br1: track
+bip_39_word_new_br10: track<br>believe<br>also<br>science<br>ranch<br>govern<br>uncover<br>happy<br>find<br>biology
+bip_39_word_new_br11: track<br>believe<br>also<br>science<br>ranch<br>govern<br>uncover<br>happy<br>find<br>biology<br>conduct
+bip_39_word_new_br12: track<br>believe<br>also<br>science<br>ranch<br>govern<br>uncover<br>happy<br>find<br>biology<br>conduct<br>add
+bip_39_word_new_br2: track<br>believe
+bip_39_word_new_br3: track<br>believe<br>also
+bip_39_word_new_br4: track<br>believe<br>also<br>science
+bip_39_word_new_br5: track<br>believe<br>also<br>science<br>ranch
+bip_39_word_new_br6: track<br>believe<br>also<br>science<br>ranch<br>govern
+bip_39_word_new_br7: track<br>believe<br>also<br>science<br>ranch<br>govern<br>uncover
+bip_39_word_new_br8: track<br>believe<br>also<br>science<br>ranch<br>govern<br>uncover<br>happy
+bip_39_word_new_br9: track<br>believe<br>also<br>science<br>ranch<br>govern<br>uncover<br>happy<br>find
+bip_39_word_new_line1: track
+bip_39_word_new_line10: 'track
+
+  believe
+
+  also
+
+  science
+
+  ranch
+
+  govern
+
+  uncover
+
+  happy
+
+  find
+
+  biology'
+bip_39_word_new_line11: 'track
+
+  believe
+
+  also
+
+  science
+
+  ranch
+
+  govern
+
+  uncover
+
+  happy
+
+  find
+
+  biology
+
+  conduct'
+bip_39_word_new_line12: 'track
+
+  believe
+
+  also
+
+  science
+
+  ranch
+
+  govern
+
+  uncover
+
+  happy
+
+  find
+
+  biology
+
+  conduct
+
+  add'
+bip_39_word_new_line2: 'track
+
+  believe'
+bip_39_word_new_line3: 'track
+
+  believe
+
+  also'
+bip_39_word_new_line4: 'track
+
+  believe
+
+  also
+
+  science'
+bip_39_word_new_line5: 'track
+
+  believe
+
+  also
+
+  science
+
+  ranch'
+bip_39_word_new_line6: 'track
+
+  believe
+
+  also
+
+  science
+
+  ranch
+
+  govern'
+bip_39_word_new_line7: 'track
+
+  believe
+
+  also
+
+  science
+
+  ranch
+
+  govern
+
+  uncover'
+bip_39_word_new_line8: 'track
+
+  believe
+
+  also
+
+  science
+
+  ranch
+
+  govern
+
+  uncover
+
+  happy'
+bip_39_word_new_line9: 'track
+
+  believe
+
+  also
+
+  science
+
+  ranch
+
+  govern
+
+  uncover
+
+  happy
+
+  find'
+bip_39_word_space_0:
+- track
+- believe
+- also
+- science
+- ranch
+- govern
+- uncover
+- happy
+- find
+- biology
+- conduct
+- add
+bip_39_word_space_1: track
+bip_39_word_space_10: track believe also science ranch govern uncover happy find biology
+bip_39_word_space_11: track believe also science ranch govern uncover happy find biology
+  conduct
+bip_39_word_space_12: track believe also science ranch govern uncover happy find biology
+  conduct add
+bip_39_word_space_2: track believe
+bip_39_word_space_3: track believe also
+bip_39_word_space_4: track believe also science
+bip_39_word_space_5: track believe also science ranch
+bip_39_word_space_6: track believe also science ranch govern
+bip_39_word_space_7: track believe also science ranch govern uncover
+bip_39_word_space_8: track believe also science ranch govern uncover happy
+bip_39_word_space_9: track believe also science ranch govern uncover happy find
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

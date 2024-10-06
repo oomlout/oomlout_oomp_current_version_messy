@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microchip
   * part_number: atmega328p_mmh
+  * bip 39 word 2: pact actor
+  * bip 39 word 3: pact actor twenty
+  * bip 39 word: pact actor twenty miracle sheriff bless silent energy advice train audit alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pact |  
+| bip_39_word_new_br10 | pact<br>actor<br>twenty<br>miracle<br>sheriff<br>bless<br>silent<br>energy<br>advice<br>train |  
+| bip_39_word_new_br11 | pact<br>actor<br>twenty<br>miracle<br>sheriff<br>bless<br>silent<br>energy<br>advice<br>train<br>audit |  
+| bip_39_word_new_br12 | pact<br>actor<br>twenty<br>miracle<br>sheriff<br>bless<br>silent<br>energy<br>advice<br>train<br>audit<br>alarm |  
+| bip_39_word_new_br2 | pact<br>actor |  
+| bip_39_word_new_br3 | pact<br>actor<br>twenty |  
+| bip_39_word_new_br4 | pact<br>actor<br>twenty<br>miracle |  
+| bip_39_word_new_br5 | pact<br>actor<br>twenty<br>miracle<br>sheriff |  
+| bip_39_word_new_br6 | pact<br>actor<br>twenty<br>miracle<br>sheriff<br>bless |  
+| bip_39_word_new_br7 | pact<br>actor<br>twenty<br>miracle<br>sheriff<br>bless<br>silent |  
+| bip_39_word_new_br8 | pact<br>actor<br>twenty<br>miracle<br>sheriff<br>bless<br>silent<br>energy |  
+| bip_39_word_new_br9 | pact<br>actor<br>twenty<br>miracle<br>sheriff<br>bless<br>silent<br>energy<br>advice |  
+| bip_39_word_new_line1 | pact |  
+| bip_39_word_new_line10 | pact
+actor
+twenty
+miracle
+sheriff
+bless
+silent
+energy
+advice
+train |  
+| bip_39_word_new_line11 | pact
+actor
+twenty
+miracle
+sheriff
+bless
+silent
+energy
+advice
+train
+audit |  
+| bip_39_word_new_line12 | pact
+actor
+twenty
+miracle
+sheriff
+bless
+silent
+energy
+advice
+train
+audit
+alarm |  
+| bip_39_word_new_line2 | pact
+actor |  
+| bip_39_word_new_line3 | pact
+actor
+twenty |  
+| bip_39_word_new_line4 | pact
+actor
+twenty
+miracle |  
+| bip_39_word_new_line5 | pact
+actor
+twenty
+miracle
+sheriff |  
+| bip_39_word_new_line6 | pact
+actor
+twenty
+miracle
+sheriff
+bless |  
+| bip_39_word_new_line7 | pact
+actor
+twenty
+miracle
+sheriff
+bless
+silent |  
+| bip_39_word_new_line8 | pact
+actor
+twenty
+miracle
+sheriff
+bless
+silent
+energy |  
+| bip_39_word_new_line9 | pact
+actor
+twenty
+miracle
+sheriff
+bless
+silent
+energy
+advice |  
+| bip_39_word_space_0 | ['pact', 'actor', 'twenty', 'miracle', 'sheriff', 'bless', 'silent', 'energy', 'advice', 'train', 'audit', 'alarm'] |  
+| bip_39_word_space_1 | pact |  
+| bip_39_word_space_10 | pact actor twenty miracle sheriff bless silent energy advice train |  
+| bip_39_word_space_11 | pact actor twenty miracle sheriff bless silent energy advice train audit |  
+| bip_39_word_space_12 | pact actor twenty miracle sheriff bless silent energy advice train audit alarm |  
+| bip_39_word_space_2 | pact actor |  
+| bip_39_word_space_3 | pact actor twenty |  
+| bip_39_word_space_4 | pact actor twenty miracle |  
+| bip_39_word_space_5 | pact actor twenty miracle sheriff |  
+| bip_39_word_space_6 | pact actor twenty miracle sheriff bless |  
+| bip_39_word_space_7 | pact actor twenty miracle sheriff bless silent |  
+| bip_39_word_space_8 | pact actor twenty miracle sheriff bless silent energy |  
+| bip_39_word_space_9 | pact actor twenty miracle sheriff bless silent energy advice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

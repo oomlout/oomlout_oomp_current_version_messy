@@ -1,3 +1,185 @@
+bip_39_word_new_br1: pony
+bip_39_word_new_br10: pony<br>upon<br>real<br>ring<br>unit<br>black<br>venue<br>awesome<br>lobster<br>adult
+bip_39_word_new_br11: pony<br>upon<br>real<br>ring<br>unit<br>black<br>venue<br>awesome<br>lobster<br>adult<br>unable
+bip_39_word_new_br12: pony<br>upon<br>real<br>ring<br>unit<br>black<br>venue<br>awesome<br>lobster<br>adult<br>unable<br>apple
+bip_39_word_new_br2: pony<br>upon
+bip_39_word_new_br3: pony<br>upon<br>real
+bip_39_word_new_br4: pony<br>upon<br>real<br>ring
+bip_39_word_new_br5: pony<br>upon<br>real<br>ring<br>unit
+bip_39_word_new_br6: pony<br>upon<br>real<br>ring<br>unit<br>black
+bip_39_word_new_br7: pony<br>upon<br>real<br>ring<br>unit<br>black<br>venue
+bip_39_word_new_br8: pony<br>upon<br>real<br>ring<br>unit<br>black<br>venue<br>awesome
+bip_39_word_new_br9: pony<br>upon<br>real<br>ring<br>unit<br>black<br>venue<br>awesome<br>lobster
+bip_39_word_new_line1: pony
+bip_39_word_new_line10: 'pony
+
+  upon
+
+  real
+
+  ring
+
+  unit
+
+  black
+
+  venue
+
+  awesome
+
+  lobster
+
+  adult'
+bip_39_word_new_line11: 'pony
+
+  upon
+
+  real
+
+  ring
+
+  unit
+
+  black
+
+  venue
+
+  awesome
+
+  lobster
+
+  adult
+
+  unable'
+bip_39_word_new_line12: 'pony
+
+  upon
+
+  real
+
+  ring
+
+  unit
+
+  black
+
+  venue
+
+  awesome
+
+  lobster
+
+  adult
+
+  unable
+
+  apple'
+bip_39_word_new_line2: 'pony
+
+  upon'
+bip_39_word_new_line3: 'pony
+
+  upon
+
+  real'
+bip_39_word_new_line4: 'pony
+
+  upon
+
+  real
+
+  ring'
+bip_39_word_new_line5: 'pony
+
+  upon
+
+  real
+
+  ring
+
+  unit'
+bip_39_word_new_line6: 'pony
+
+  upon
+
+  real
+
+  ring
+
+  unit
+
+  black'
+bip_39_word_new_line7: 'pony
+
+  upon
+
+  real
+
+  ring
+
+  unit
+
+  black
+
+  venue'
+bip_39_word_new_line8: 'pony
+
+  upon
+
+  real
+
+  ring
+
+  unit
+
+  black
+
+  venue
+
+  awesome'
+bip_39_word_new_line9: 'pony
+
+  upon
+
+  real
+
+  ring
+
+  unit
+
+  black
+
+  venue
+
+  awesome
+
+  lobster'
+bip_39_word_space_0:
+- pony
+- upon
+- real
+- ring
+- unit
+- black
+- venue
+- awesome
+- lobster
+- adult
+- unable
+- apple
+bip_39_word_space_1: pony
+bip_39_word_space_10: pony upon real ring unit black venue awesome lobster adult
+bip_39_word_space_11: pony upon real ring unit black venue awesome lobster adult unable
+bip_39_word_space_12: pony upon real ring unit black venue awesome lobster adult unable
+  apple
+bip_39_word_space_2: pony upon
+bip_39_word_space_3: pony upon real
+bip_39_word_space_4: pony upon real ring
+bip_39_word_space_5: pony upon real ring unit
+bip_39_word_space_6: pony upon real ring unit black
+bip_39_word_space_7: pony upon real ring unit black venue
+bip_39_word_space_8: pony upon real ring unit black venue awesome
+bip_39_word_space_9: pony upon real ring unit black venue awesome lobster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sad fancy
+  * bip 39 word 3: sad fancy antenna
+  * bip 39 word: sad fancy antenna margin craft mechanic faculty certain mother field label approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sad |  
+| bip_39_word_new_br10 | sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic<br>faculty<br>certain<br>mother<br>field |  
+| bip_39_word_new_br11 | sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic<br>faculty<br>certain<br>mother<br>field<br>label |  
+| bip_39_word_new_br12 | sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic<br>faculty<br>certain<br>mother<br>field<br>label<br>approve |  
+| bip_39_word_new_br2 | sad<br>fancy |  
+| bip_39_word_new_br3 | sad<br>fancy<br>antenna |  
+| bip_39_word_new_br4 | sad<br>fancy<br>antenna<br>margin |  
+| bip_39_word_new_br5 | sad<br>fancy<br>antenna<br>margin<br>craft |  
+| bip_39_word_new_br6 | sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic |  
+| bip_39_word_new_br7 | sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic<br>faculty |  
+| bip_39_word_new_br8 | sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic<br>faculty<br>certain |  
+| bip_39_word_new_br9 | sad<br>fancy<br>antenna<br>margin<br>craft<br>mechanic<br>faculty<br>certain<br>mother |  
+| bip_39_word_new_line1 | sad |  
+| bip_39_word_new_line10 | sad
+fancy
+antenna
+margin
+craft
+mechanic
+faculty
+certain
+mother
+field |  
+| bip_39_word_new_line11 | sad
+fancy
+antenna
+margin
+craft
+mechanic
+faculty
+certain
+mother
+field
+label |  
+| bip_39_word_new_line12 | sad
+fancy
+antenna
+margin
+craft
+mechanic
+faculty
+certain
+mother
+field
+label
+approve |  
+| bip_39_word_new_line2 | sad
+fancy |  
+| bip_39_word_new_line3 | sad
+fancy
+antenna |  
+| bip_39_word_new_line4 | sad
+fancy
+antenna
+margin |  
+| bip_39_word_new_line5 | sad
+fancy
+antenna
+margin
+craft |  
+| bip_39_word_new_line6 | sad
+fancy
+antenna
+margin
+craft
+mechanic |  
+| bip_39_word_new_line7 | sad
+fancy
+antenna
+margin
+craft
+mechanic
+faculty |  
+| bip_39_word_new_line8 | sad
+fancy
+antenna
+margin
+craft
+mechanic
+faculty
+certain |  
+| bip_39_word_new_line9 | sad
+fancy
+antenna
+margin
+craft
+mechanic
+faculty
+certain
+mother |  
+| bip_39_word_space_0 | ['sad', 'fancy', 'antenna', 'margin', 'craft', 'mechanic', 'faculty', 'certain', 'mother', 'field', 'label', 'approve'] |  
+| bip_39_word_space_1 | sad |  
+| bip_39_word_space_10 | sad fancy antenna margin craft mechanic faculty certain mother field |  
+| bip_39_word_space_11 | sad fancy antenna margin craft mechanic faculty certain mother field label |  
+| bip_39_word_space_12 | sad fancy antenna margin craft mechanic faculty certain mother field label approve |  
+| bip_39_word_space_2 | sad fancy |  
+| bip_39_word_space_3 | sad fancy antenna |  
+| bip_39_word_space_4 | sad fancy antenna margin |  
+| bip_39_word_space_5 | sad fancy antenna margin craft |  
+| bip_39_word_space_6 | sad fancy antenna margin craft mechanic |  
+| bip_39_word_space_7 | sad fancy antenna margin craft mechanic faculty |  
+| bip_39_word_space_8 | sad fancy antenna margin craft mechanic faculty certain |  
+| bip_39_word_space_9 | sad fancy antenna margin craft mechanic faculty certain mother |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

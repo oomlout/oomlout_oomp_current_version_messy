@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frozen major
+  * bip 39 word 3: frozen major limb
+  * bip 39 word: frozen major limb hawk about top toast lock million rocket thumb allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frozen |  
+| bip_39_word_new_br10 | frozen<br>major<br>limb<br>hawk<br>about<br>top<br>toast<br>lock<br>million<br>rocket |  
+| bip_39_word_new_br11 | frozen<br>major<br>limb<br>hawk<br>about<br>top<br>toast<br>lock<br>million<br>rocket<br>thumb |  
+| bip_39_word_new_br12 | frozen<br>major<br>limb<br>hawk<br>about<br>top<br>toast<br>lock<br>million<br>rocket<br>thumb<br>allow |  
+| bip_39_word_new_br2 | frozen<br>major |  
+| bip_39_word_new_br3 | frozen<br>major<br>limb |  
+| bip_39_word_new_br4 | frozen<br>major<br>limb<br>hawk |  
+| bip_39_word_new_br5 | frozen<br>major<br>limb<br>hawk<br>about |  
+| bip_39_word_new_br6 | frozen<br>major<br>limb<br>hawk<br>about<br>top |  
+| bip_39_word_new_br7 | frozen<br>major<br>limb<br>hawk<br>about<br>top<br>toast |  
+| bip_39_word_new_br8 | frozen<br>major<br>limb<br>hawk<br>about<br>top<br>toast<br>lock |  
+| bip_39_word_new_br9 | frozen<br>major<br>limb<br>hawk<br>about<br>top<br>toast<br>lock<br>million |  
+| bip_39_word_new_line1 | frozen |  
+| bip_39_word_new_line10 | frozen
+major
+limb
+hawk
+about
+top
+toast
+lock
+million
+rocket |  
+| bip_39_word_new_line11 | frozen
+major
+limb
+hawk
+about
+top
+toast
+lock
+million
+rocket
+thumb |  
+| bip_39_word_new_line12 | frozen
+major
+limb
+hawk
+about
+top
+toast
+lock
+million
+rocket
+thumb
+allow |  
+| bip_39_word_new_line2 | frozen
+major |  
+| bip_39_word_new_line3 | frozen
+major
+limb |  
+| bip_39_word_new_line4 | frozen
+major
+limb
+hawk |  
+| bip_39_word_new_line5 | frozen
+major
+limb
+hawk
+about |  
+| bip_39_word_new_line6 | frozen
+major
+limb
+hawk
+about
+top |  
+| bip_39_word_new_line7 | frozen
+major
+limb
+hawk
+about
+top
+toast |  
+| bip_39_word_new_line8 | frozen
+major
+limb
+hawk
+about
+top
+toast
+lock |  
+| bip_39_word_new_line9 | frozen
+major
+limb
+hawk
+about
+top
+toast
+lock
+million |  
+| bip_39_word_space_0 | ['frozen', 'major', 'limb', 'hawk', 'about', 'top', 'toast', 'lock', 'million', 'rocket', 'thumb', 'allow'] |  
+| bip_39_word_space_1 | frozen |  
+| bip_39_word_space_10 | frozen major limb hawk about top toast lock million rocket |  
+| bip_39_word_space_11 | frozen major limb hawk about top toast lock million rocket thumb |  
+| bip_39_word_space_12 | frozen major limb hawk about top toast lock million rocket thumb allow |  
+| bip_39_word_space_2 | frozen major |  
+| bip_39_word_space_3 | frozen major limb |  
+| bip_39_word_space_4 | frozen major limb hawk |  
+| bip_39_word_space_5 | frozen major limb hawk about |  
+| bip_39_word_space_6 | frozen major limb hawk about top |  
+| bip_39_word_space_7 | frozen major limb hawk about top toast |  
+| bip_39_word_space_8 | frozen major limb hawk about top toast lock |  
+| bip_39_word_space_9 | frozen major limb hawk about top toast lock million |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

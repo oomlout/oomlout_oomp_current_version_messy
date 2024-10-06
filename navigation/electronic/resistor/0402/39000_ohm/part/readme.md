@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: submit banana
+  * bip 39 word 3: submit banana stairs
+  * bip 39 word: submit banana stairs bundle orbit suit fox apart myth empower arrow another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | submit |  
+| bip_39_word_new_br10 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit<br>fox<br>apart<br>myth<br>empower |  
+| bip_39_word_new_br11 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit<br>fox<br>apart<br>myth<br>empower<br>arrow |  
+| bip_39_word_new_br12 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit<br>fox<br>apart<br>myth<br>empower<br>arrow<br>another |  
+| bip_39_word_new_br2 | submit<br>banana |  
+| bip_39_word_new_br3 | submit<br>banana<br>stairs |  
+| bip_39_word_new_br4 | submit<br>banana<br>stairs<br>bundle |  
+| bip_39_word_new_br5 | submit<br>banana<br>stairs<br>bundle<br>orbit |  
+| bip_39_word_new_br6 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit |  
+| bip_39_word_new_br7 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit<br>fox |  
+| bip_39_word_new_br8 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit<br>fox<br>apart |  
+| bip_39_word_new_br9 | submit<br>banana<br>stairs<br>bundle<br>orbit<br>suit<br>fox<br>apart<br>myth |  
+| bip_39_word_new_line1 | submit |  
+| bip_39_word_new_line10 | submit
+banana
+stairs
+bundle
+orbit
+suit
+fox
+apart
+myth
+empower |  
+| bip_39_word_new_line11 | submit
+banana
+stairs
+bundle
+orbit
+suit
+fox
+apart
+myth
+empower
+arrow |  
+| bip_39_word_new_line12 | submit
+banana
+stairs
+bundle
+orbit
+suit
+fox
+apart
+myth
+empower
+arrow
+another |  
+| bip_39_word_new_line2 | submit
+banana |  
+| bip_39_word_new_line3 | submit
+banana
+stairs |  
+| bip_39_word_new_line4 | submit
+banana
+stairs
+bundle |  
+| bip_39_word_new_line5 | submit
+banana
+stairs
+bundle
+orbit |  
+| bip_39_word_new_line6 | submit
+banana
+stairs
+bundle
+orbit
+suit |  
+| bip_39_word_new_line7 | submit
+banana
+stairs
+bundle
+orbit
+suit
+fox |  
+| bip_39_word_new_line8 | submit
+banana
+stairs
+bundle
+orbit
+suit
+fox
+apart |  
+| bip_39_word_new_line9 | submit
+banana
+stairs
+bundle
+orbit
+suit
+fox
+apart
+myth |  
+| bip_39_word_space_0 | ['submit', 'banana', 'stairs', 'bundle', 'orbit', 'suit', 'fox', 'apart', 'myth', 'empower', 'arrow', 'another'] |  
+| bip_39_word_space_1 | submit |  
+| bip_39_word_space_10 | submit banana stairs bundle orbit suit fox apart myth empower |  
+| bip_39_word_space_11 | submit banana stairs bundle orbit suit fox apart myth empower arrow |  
+| bip_39_word_space_12 | submit banana stairs bundle orbit suit fox apart myth empower arrow another |  
+| bip_39_word_space_2 | submit banana |  
+| bip_39_word_space_3 | submit banana stairs |  
+| bip_39_word_space_4 | submit banana stairs bundle |  
+| bip_39_word_space_5 | submit banana stairs bundle orbit |  
+| bip_39_word_space_6 | submit banana stairs bundle orbit suit |  
+| bip_39_word_space_7 | submit banana stairs bundle orbit suit fox |  
+| bip_39_word_space_8 | submit banana stairs bundle orbit suit fox apart |  
+| bip_39_word_space_9 | submit banana stairs bundle orbit suit fox apart myth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: habit ripple
+  * bip 39 word 3: habit ripple ripple
+  * bip 39 word: habit ripple ripple athlete pony basket consider wedding sport economy creek admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | habit |  
+| bip_39_word_new_br10 | habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket<br>consider<br>wedding<br>sport<br>economy |  
+| bip_39_word_new_br11 | habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket<br>consider<br>wedding<br>sport<br>economy<br>creek |  
+| bip_39_word_new_br12 | habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket<br>consider<br>wedding<br>sport<br>economy<br>creek<br>admit |  
+| bip_39_word_new_br2 | habit<br>ripple |  
+| bip_39_word_new_br3 | habit<br>ripple<br>ripple |  
+| bip_39_word_new_br4 | habit<br>ripple<br>ripple<br>athlete |  
+| bip_39_word_new_br5 | habit<br>ripple<br>ripple<br>athlete<br>pony |  
+| bip_39_word_new_br6 | habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket |  
+| bip_39_word_new_br7 | habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket<br>consider |  
+| bip_39_word_new_br8 | habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket<br>consider<br>wedding |  
+| bip_39_word_new_br9 | habit<br>ripple<br>ripple<br>athlete<br>pony<br>basket<br>consider<br>wedding<br>sport |  
+| bip_39_word_new_line1 | habit |  
+| bip_39_word_new_line10 | habit
+ripple
+ripple
+athlete
+pony
+basket
+consider
+wedding
+sport
+economy |  
+| bip_39_word_new_line11 | habit
+ripple
+ripple
+athlete
+pony
+basket
+consider
+wedding
+sport
+economy
+creek |  
+| bip_39_word_new_line12 | habit
+ripple
+ripple
+athlete
+pony
+basket
+consider
+wedding
+sport
+economy
+creek
+admit |  
+| bip_39_word_new_line2 | habit
+ripple |  
+| bip_39_word_new_line3 | habit
+ripple
+ripple |  
+| bip_39_word_new_line4 | habit
+ripple
+ripple
+athlete |  
+| bip_39_word_new_line5 | habit
+ripple
+ripple
+athlete
+pony |  
+| bip_39_word_new_line6 | habit
+ripple
+ripple
+athlete
+pony
+basket |  
+| bip_39_word_new_line7 | habit
+ripple
+ripple
+athlete
+pony
+basket
+consider |  
+| bip_39_word_new_line8 | habit
+ripple
+ripple
+athlete
+pony
+basket
+consider
+wedding |  
+| bip_39_word_new_line9 | habit
+ripple
+ripple
+athlete
+pony
+basket
+consider
+wedding
+sport |  
+| bip_39_word_space_0 | ['habit', 'ripple', 'ripple', 'athlete', 'pony', 'basket', 'consider', 'wedding', 'sport', 'economy', 'creek', 'admit'] |  
+| bip_39_word_space_1 | habit |  
+| bip_39_word_space_10 | habit ripple ripple athlete pony basket consider wedding sport economy |  
+| bip_39_word_space_11 | habit ripple ripple athlete pony basket consider wedding sport economy creek |  
+| bip_39_word_space_12 | habit ripple ripple athlete pony basket consider wedding sport economy creek admit |  
+| bip_39_word_space_2 | habit ripple |  
+| bip_39_word_space_3 | habit ripple ripple |  
+| bip_39_word_space_4 | habit ripple ripple athlete |  
+| bip_39_word_space_5 | habit ripple ripple athlete pony |  
+| bip_39_word_space_6 | habit ripple ripple athlete pony basket |  
+| bip_39_word_space_7 | habit ripple ripple athlete pony basket consider |  
+| bip_39_word_space_8 | habit ripple ripple athlete pony basket consider wedding |  
+| bip_39_word_space_9 | habit ripple ripple athlete pony basket consider wedding sport |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

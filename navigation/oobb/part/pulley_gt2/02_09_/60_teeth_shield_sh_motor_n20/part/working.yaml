@@ -1,3 +1,185 @@
+bip_39_word_new_br1: soup
+bip_39_word_new_br10: soup<br>olive<br>cement<br>hill<br>toss<br>talk<br>infant<br>river<br>mesh<br>fatigue
+bip_39_word_new_br11: soup<br>olive<br>cement<br>hill<br>toss<br>talk<br>infant<br>river<br>mesh<br>fatigue<br>find
+bip_39_word_new_br12: soup<br>olive<br>cement<br>hill<br>toss<br>talk<br>infant<br>river<br>mesh<br>fatigue<br>find<br>arena
+bip_39_word_new_br2: soup<br>olive
+bip_39_word_new_br3: soup<br>olive<br>cement
+bip_39_word_new_br4: soup<br>olive<br>cement<br>hill
+bip_39_word_new_br5: soup<br>olive<br>cement<br>hill<br>toss
+bip_39_word_new_br6: soup<br>olive<br>cement<br>hill<br>toss<br>talk
+bip_39_word_new_br7: soup<br>olive<br>cement<br>hill<br>toss<br>talk<br>infant
+bip_39_word_new_br8: soup<br>olive<br>cement<br>hill<br>toss<br>talk<br>infant<br>river
+bip_39_word_new_br9: soup<br>olive<br>cement<br>hill<br>toss<br>talk<br>infant<br>river<br>mesh
+bip_39_word_new_line1: soup
+bip_39_word_new_line10: 'soup
+
+  olive
+
+  cement
+
+  hill
+
+  toss
+
+  talk
+
+  infant
+
+  river
+
+  mesh
+
+  fatigue'
+bip_39_word_new_line11: 'soup
+
+  olive
+
+  cement
+
+  hill
+
+  toss
+
+  talk
+
+  infant
+
+  river
+
+  mesh
+
+  fatigue
+
+  find'
+bip_39_word_new_line12: 'soup
+
+  olive
+
+  cement
+
+  hill
+
+  toss
+
+  talk
+
+  infant
+
+  river
+
+  mesh
+
+  fatigue
+
+  find
+
+  arena'
+bip_39_word_new_line2: 'soup
+
+  olive'
+bip_39_word_new_line3: 'soup
+
+  olive
+
+  cement'
+bip_39_word_new_line4: 'soup
+
+  olive
+
+  cement
+
+  hill'
+bip_39_word_new_line5: 'soup
+
+  olive
+
+  cement
+
+  hill
+
+  toss'
+bip_39_word_new_line6: 'soup
+
+  olive
+
+  cement
+
+  hill
+
+  toss
+
+  talk'
+bip_39_word_new_line7: 'soup
+
+  olive
+
+  cement
+
+  hill
+
+  toss
+
+  talk
+
+  infant'
+bip_39_word_new_line8: 'soup
+
+  olive
+
+  cement
+
+  hill
+
+  toss
+
+  talk
+
+  infant
+
+  river'
+bip_39_word_new_line9: 'soup
+
+  olive
+
+  cement
+
+  hill
+
+  toss
+
+  talk
+
+  infant
+
+  river
+
+  mesh'
+bip_39_word_space_0:
+- soup
+- olive
+- cement
+- hill
+- toss
+- talk
+- infant
+- river
+- mesh
+- fatigue
+- find
+- arena
+bip_39_word_space_1: soup
+bip_39_word_space_10: soup olive cement hill toss talk infant river mesh fatigue
+bip_39_word_space_11: soup olive cement hill toss talk infant river mesh fatigue find
+bip_39_word_space_12: soup olive cement hill toss talk infant river mesh fatigue find
+  arena
+bip_39_word_space_2: soup olive
+bip_39_word_space_3: soup olive cement
+bip_39_word_space_4: soup olive cement hill
+bip_39_word_space_5: soup olive cement hill toss
+bip_39_word_space_6: soup olive cement hill toss talk
+bip_39_word_space_7: soup olive cement hill toss talk infant
+bip_39_word_space_8: soup olive cement hill toss talk infant river
+bip_39_word_space_9: soup olive cement hill toss talk infant river mesh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: latin
+bip_39_word_new_br10: latin<br>eager<br>yellow<br>recall<br>juice<br>page<br>fuel<br>phone<br>weird<br>liberty
+bip_39_word_new_br11: latin<br>eager<br>yellow<br>recall<br>juice<br>page<br>fuel<br>phone<br>weird<br>liberty<br>sleep
+bip_39_word_new_br12: latin<br>eager<br>yellow<br>recall<br>juice<br>page<br>fuel<br>phone<br>weird<br>liberty<br>sleep<br>atom
+bip_39_word_new_br2: latin<br>eager
+bip_39_word_new_br3: latin<br>eager<br>yellow
+bip_39_word_new_br4: latin<br>eager<br>yellow<br>recall
+bip_39_word_new_br5: latin<br>eager<br>yellow<br>recall<br>juice
+bip_39_word_new_br6: latin<br>eager<br>yellow<br>recall<br>juice<br>page
+bip_39_word_new_br7: latin<br>eager<br>yellow<br>recall<br>juice<br>page<br>fuel
+bip_39_word_new_br8: latin<br>eager<br>yellow<br>recall<br>juice<br>page<br>fuel<br>phone
+bip_39_word_new_br9: latin<br>eager<br>yellow<br>recall<br>juice<br>page<br>fuel<br>phone<br>weird
+bip_39_word_new_line1: latin
+bip_39_word_new_line10: 'latin
+
+  eager
+
+  yellow
+
+  recall
+
+  juice
+
+  page
+
+  fuel
+
+  phone
+
+  weird
+
+  liberty'
+bip_39_word_new_line11: 'latin
+
+  eager
+
+  yellow
+
+  recall
+
+  juice
+
+  page
+
+  fuel
+
+  phone
+
+  weird
+
+  liberty
+
+  sleep'
+bip_39_word_new_line12: 'latin
+
+  eager
+
+  yellow
+
+  recall
+
+  juice
+
+  page
+
+  fuel
+
+  phone
+
+  weird
+
+  liberty
+
+  sleep
+
+  atom'
+bip_39_word_new_line2: 'latin
+
+  eager'
+bip_39_word_new_line3: 'latin
+
+  eager
+
+  yellow'
+bip_39_word_new_line4: 'latin
+
+  eager
+
+  yellow
+
+  recall'
+bip_39_word_new_line5: 'latin
+
+  eager
+
+  yellow
+
+  recall
+
+  juice'
+bip_39_word_new_line6: 'latin
+
+  eager
+
+  yellow
+
+  recall
+
+  juice
+
+  page'
+bip_39_word_new_line7: 'latin
+
+  eager
+
+  yellow
+
+  recall
+
+  juice
+
+  page
+
+  fuel'
+bip_39_word_new_line8: 'latin
+
+  eager
+
+  yellow
+
+  recall
+
+  juice
+
+  page
+
+  fuel
+
+  phone'
+bip_39_word_new_line9: 'latin
+
+  eager
+
+  yellow
+
+  recall
+
+  juice
+
+  page
+
+  fuel
+
+  phone
+
+  weird'
+bip_39_word_space_0:
+- latin
+- eager
+- yellow
+- recall
+- juice
+- page
+- fuel
+- phone
+- weird
+- liberty
+- sleep
+- atom
+bip_39_word_space_1: latin
+bip_39_word_space_10: latin eager yellow recall juice page fuel phone weird liberty
+bip_39_word_space_11: latin eager yellow recall juice page fuel phone weird liberty
+  sleep
+bip_39_word_space_12: latin eager yellow recall juice page fuel phone weird liberty
+  sleep atom
+bip_39_word_space_2: latin eager
+bip_39_word_space_3: latin eager yellow
+bip_39_word_space_4: latin eager yellow recall
+bip_39_word_space_5: latin eager yellow recall juice
+bip_39_word_space_6: latin eager yellow recall juice page
+bip_39_word_space_7: latin eager yellow recall juice page fuel
+bip_39_word_space_8: latin eager yellow recall juice page fuel phone
+bip_39_word_space_9: latin eager yellow recall juice page fuel phone weird
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cloud
+bip_39_word_new_br10: cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth
+bip_39_word_new_br11: cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth<br>pause
+bip_39_word_new_br12: cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change<br>earth<br>pause<br>aim
+bip_39_word_new_br2: cloud<br>basic
+bip_39_word_new_br3: cloud<br>basic<br>taste
+bip_39_word_new_br4: cloud<br>basic<br>taste<br>ignore
+bip_39_word_new_br5: cloud<br>basic<br>taste<br>ignore<br>imitate
+bip_39_word_new_br6: cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital
+bip_39_word_new_br7: cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid
+bip_39_word_new_br8: cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print
+bip_39_word_new_br9: cloud<br>basic<br>taste<br>ignore<br>imitate<br>vital<br>bid<br>print<br>change
+bip_39_word_new_line1: cloud
+bip_39_word_new_line10: 'cloud
+
+  basic
+
+  taste
+
+  ignore
+
+  imitate
+
+  vital
+
+  bid
+
+  print
+
+  change
+
+  earth'
+bip_39_word_new_line11: 'cloud
+
+  basic
+
+  taste
+
+  ignore
+
+  imitate
+
+  vital
+
+  bid
+
+  print
+
+  change
+
+  earth
+
+  pause'
+bip_39_word_new_line12: 'cloud
+
+  basic
+
+  taste
+
+  ignore
+
+  imitate
+
+  vital
+
+  bid
+
+  print
+
+  change
+
+  earth
+
+  pause
+
+  aim'
+bip_39_word_new_line2: 'cloud
+
+  basic'
+bip_39_word_new_line3: 'cloud
+
+  basic
+
+  taste'
+bip_39_word_new_line4: 'cloud
+
+  basic
+
+  taste
+
+  ignore'
+bip_39_word_new_line5: 'cloud
+
+  basic
+
+  taste
+
+  ignore
+
+  imitate'
+bip_39_word_new_line6: 'cloud
+
+  basic
+
+  taste
+
+  ignore
+
+  imitate
+
+  vital'
+bip_39_word_new_line7: 'cloud
+
+  basic
+
+  taste
+
+  ignore
+
+  imitate
+
+  vital
+
+  bid'
+bip_39_word_new_line8: 'cloud
+
+  basic
+
+  taste
+
+  ignore
+
+  imitate
+
+  vital
+
+  bid
+
+  print'
+bip_39_word_new_line9: 'cloud
+
+  basic
+
+  taste
+
+  ignore
+
+  imitate
+
+  vital
+
+  bid
+
+  print
+
+  change'
+bip_39_word_space_0:
+- cloud
+- basic
+- taste
+- ignore
+- imitate
+- vital
+- bid
+- print
+- change
+- earth
+- pause
+- aim
+bip_39_word_space_1: cloud
+bip_39_word_space_10: cloud basic taste ignore imitate vital bid print change earth
+bip_39_word_space_11: cloud basic taste ignore imitate vital bid print change earth
+  pause
+bip_39_word_space_12: cloud basic taste ignore imitate vital bid print change earth
+  pause aim
+bip_39_word_space_2: cloud basic
+bip_39_word_space_3: cloud basic taste
+bip_39_word_space_4: cloud basic taste ignore
+bip_39_word_space_5: cloud basic taste ignore imitate
+bip_39_word_space_6: cloud basic taste ignore imitate vital
+bip_39_word_space_7: cloud basic taste ignore imitate vital bid
+bip_39_word_space_8: cloud basic taste ignore imitate vital bid print
+bip_39_word_space_9: cloud basic taste ignore imitate vital bid print change
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

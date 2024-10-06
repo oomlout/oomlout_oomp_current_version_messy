@@ -1,3 +1,187 @@
+bip_39_word_new_br1: flight
+bip_39_word_new_br10: flight<br>abuse<br>basic<br>raven<br>basket<br>subject<br>pudding<br>system<br>cover<br>bullet
+bip_39_word_new_br11: flight<br>abuse<br>basic<br>raven<br>basket<br>subject<br>pudding<br>system<br>cover<br>bullet<br>draft
+bip_39_word_new_br12: flight<br>abuse<br>basic<br>raven<br>basket<br>subject<br>pudding<br>system<br>cover<br>bullet<br>draft<br>auction
+bip_39_word_new_br2: flight<br>abuse
+bip_39_word_new_br3: flight<br>abuse<br>basic
+bip_39_word_new_br4: flight<br>abuse<br>basic<br>raven
+bip_39_word_new_br5: flight<br>abuse<br>basic<br>raven<br>basket
+bip_39_word_new_br6: flight<br>abuse<br>basic<br>raven<br>basket<br>subject
+bip_39_word_new_br7: flight<br>abuse<br>basic<br>raven<br>basket<br>subject<br>pudding
+bip_39_word_new_br8: flight<br>abuse<br>basic<br>raven<br>basket<br>subject<br>pudding<br>system
+bip_39_word_new_br9: flight<br>abuse<br>basic<br>raven<br>basket<br>subject<br>pudding<br>system<br>cover
+bip_39_word_new_line1: flight
+bip_39_word_new_line10: 'flight
+
+  abuse
+
+  basic
+
+  raven
+
+  basket
+
+  subject
+
+  pudding
+
+  system
+
+  cover
+
+  bullet'
+bip_39_word_new_line11: 'flight
+
+  abuse
+
+  basic
+
+  raven
+
+  basket
+
+  subject
+
+  pudding
+
+  system
+
+  cover
+
+  bullet
+
+  draft'
+bip_39_word_new_line12: 'flight
+
+  abuse
+
+  basic
+
+  raven
+
+  basket
+
+  subject
+
+  pudding
+
+  system
+
+  cover
+
+  bullet
+
+  draft
+
+  auction'
+bip_39_word_new_line2: 'flight
+
+  abuse'
+bip_39_word_new_line3: 'flight
+
+  abuse
+
+  basic'
+bip_39_word_new_line4: 'flight
+
+  abuse
+
+  basic
+
+  raven'
+bip_39_word_new_line5: 'flight
+
+  abuse
+
+  basic
+
+  raven
+
+  basket'
+bip_39_word_new_line6: 'flight
+
+  abuse
+
+  basic
+
+  raven
+
+  basket
+
+  subject'
+bip_39_word_new_line7: 'flight
+
+  abuse
+
+  basic
+
+  raven
+
+  basket
+
+  subject
+
+  pudding'
+bip_39_word_new_line8: 'flight
+
+  abuse
+
+  basic
+
+  raven
+
+  basket
+
+  subject
+
+  pudding
+
+  system'
+bip_39_word_new_line9: 'flight
+
+  abuse
+
+  basic
+
+  raven
+
+  basket
+
+  subject
+
+  pudding
+
+  system
+
+  cover'
+bip_39_word_space_0:
+- flight
+- abuse
+- basic
+- raven
+- basket
+- subject
+- pudding
+- system
+- cover
+- bullet
+- draft
+- auction
+bip_39_word_space_1: flight
+bip_39_word_space_10: flight abuse basic raven basket subject pudding system cover
+  bullet
+bip_39_word_space_11: flight abuse basic raven basket subject pudding system cover
+  bullet draft
+bip_39_word_space_12: flight abuse basic raven basket subject pudding system cover
+  bullet draft auction
+bip_39_word_space_2: flight abuse
+bip_39_word_space_3: flight abuse basic
+bip_39_word_space_4: flight abuse basic raven
+bip_39_word_space_5: flight abuse basic raven basket
+bip_39_word_space_6: flight abuse basic raven basket subject
+bip_39_word_space_7: flight abuse basic raven basket subject pudding
+bip_39_word_space_8: flight abuse basic raven basket subject pudding system
+bip_39_word_space_9: flight abuse basic raven basket subject pudding system cover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

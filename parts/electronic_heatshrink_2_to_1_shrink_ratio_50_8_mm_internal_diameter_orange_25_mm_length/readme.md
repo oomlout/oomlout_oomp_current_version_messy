@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cloud spatial
+  * bip 39 word 3: cloud spatial caution
+  * bip 39 word: cloud spatial caution endless warm learn vehicle phrase hybrid adult diagram arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cloud |  
+| bip_39_word_new_br10 | cloud<br>spatial<br>caution<br>endless<br>warm<br>learn<br>vehicle<br>phrase<br>hybrid<br>adult |  
+| bip_39_word_new_br11 | cloud<br>spatial<br>caution<br>endless<br>warm<br>learn<br>vehicle<br>phrase<br>hybrid<br>adult<br>diagram |  
+| bip_39_word_new_br12 | cloud<br>spatial<br>caution<br>endless<br>warm<br>learn<br>vehicle<br>phrase<br>hybrid<br>adult<br>diagram<br>arena |  
+| bip_39_word_new_br2 | cloud<br>spatial |  
+| bip_39_word_new_br3 | cloud<br>spatial<br>caution |  
+| bip_39_word_new_br4 | cloud<br>spatial<br>caution<br>endless |  
+| bip_39_word_new_br5 | cloud<br>spatial<br>caution<br>endless<br>warm |  
+| bip_39_word_new_br6 | cloud<br>spatial<br>caution<br>endless<br>warm<br>learn |  
+| bip_39_word_new_br7 | cloud<br>spatial<br>caution<br>endless<br>warm<br>learn<br>vehicle |  
+| bip_39_word_new_br8 | cloud<br>spatial<br>caution<br>endless<br>warm<br>learn<br>vehicle<br>phrase |  
+| bip_39_word_new_br9 | cloud<br>spatial<br>caution<br>endless<br>warm<br>learn<br>vehicle<br>phrase<br>hybrid |  
+| bip_39_word_new_line1 | cloud |  
+| bip_39_word_new_line10 | cloud
+spatial
+caution
+endless
+warm
+learn
+vehicle
+phrase
+hybrid
+adult |  
+| bip_39_word_new_line11 | cloud
+spatial
+caution
+endless
+warm
+learn
+vehicle
+phrase
+hybrid
+adult
+diagram |  
+| bip_39_word_new_line12 | cloud
+spatial
+caution
+endless
+warm
+learn
+vehicle
+phrase
+hybrid
+adult
+diagram
+arena |  
+| bip_39_word_new_line2 | cloud
+spatial |  
+| bip_39_word_new_line3 | cloud
+spatial
+caution |  
+| bip_39_word_new_line4 | cloud
+spatial
+caution
+endless |  
+| bip_39_word_new_line5 | cloud
+spatial
+caution
+endless
+warm |  
+| bip_39_word_new_line6 | cloud
+spatial
+caution
+endless
+warm
+learn |  
+| bip_39_word_new_line7 | cloud
+spatial
+caution
+endless
+warm
+learn
+vehicle |  
+| bip_39_word_new_line8 | cloud
+spatial
+caution
+endless
+warm
+learn
+vehicle
+phrase |  
+| bip_39_word_new_line9 | cloud
+spatial
+caution
+endless
+warm
+learn
+vehicle
+phrase
+hybrid |  
+| bip_39_word_space_0 | ['cloud', 'spatial', 'caution', 'endless', 'warm', 'learn', 'vehicle', 'phrase', 'hybrid', 'adult', 'diagram', 'arena'] |  
+| bip_39_word_space_1 | cloud |  
+| bip_39_word_space_10 | cloud spatial caution endless warm learn vehicle phrase hybrid adult |  
+| bip_39_word_space_11 | cloud spatial caution endless warm learn vehicle phrase hybrid adult diagram |  
+| bip_39_word_space_12 | cloud spatial caution endless warm learn vehicle phrase hybrid adult diagram arena |  
+| bip_39_word_space_2 | cloud spatial |  
+| bip_39_word_space_3 | cloud spatial caution |  
+| bip_39_word_space_4 | cloud spatial caution endless |  
+| bip_39_word_space_5 | cloud spatial caution endless warm |  
+| bip_39_word_space_6 | cloud spatial caution endless warm learn |  
+| bip_39_word_space_7 | cloud spatial caution endless warm learn vehicle |  
+| bip_39_word_space_8 | cloud spatial caution endless warm learn vehicle phrase |  
+| bip_39_word_space_9 | cloud spatial caution endless warm learn vehicle phrase hybrid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

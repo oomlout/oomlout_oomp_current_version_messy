@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: live swamp
+  * bip 39 word 3: live swamp boost
+  * bip 39 word: live swamp boost intact curious identify relax feature island elite ridge aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | live |  
+| bip_39_word_new_br10 | live<br>swamp<br>boost<br>intact<br>curious<br>identify<br>relax<br>feature<br>island<br>elite |  
+| bip_39_word_new_br11 | live<br>swamp<br>boost<br>intact<br>curious<br>identify<br>relax<br>feature<br>island<br>elite<br>ridge |  
+| bip_39_word_new_br12 | live<br>swamp<br>boost<br>intact<br>curious<br>identify<br>relax<br>feature<br>island<br>elite<br>ridge<br>aim |  
+| bip_39_word_new_br2 | live<br>swamp |  
+| bip_39_word_new_br3 | live<br>swamp<br>boost |  
+| bip_39_word_new_br4 | live<br>swamp<br>boost<br>intact |  
+| bip_39_word_new_br5 | live<br>swamp<br>boost<br>intact<br>curious |  
+| bip_39_word_new_br6 | live<br>swamp<br>boost<br>intact<br>curious<br>identify |  
+| bip_39_word_new_br7 | live<br>swamp<br>boost<br>intact<br>curious<br>identify<br>relax |  
+| bip_39_word_new_br8 | live<br>swamp<br>boost<br>intact<br>curious<br>identify<br>relax<br>feature |  
+| bip_39_word_new_br9 | live<br>swamp<br>boost<br>intact<br>curious<br>identify<br>relax<br>feature<br>island |  
+| bip_39_word_new_line1 | live |  
+| bip_39_word_new_line10 | live
+swamp
+boost
+intact
+curious
+identify
+relax
+feature
+island
+elite |  
+| bip_39_word_new_line11 | live
+swamp
+boost
+intact
+curious
+identify
+relax
+feature
+island
+elite
+ridge |  
+| bip_39_word_new_line12 | live
+swamp
+boost
+intact
+curious
+identify
+relax
+feature
+island
+elite
+ridge
+aim |  
+| bip_39_word_new_line2 | live
+swamp |  
+| bip_39_word_new_line3 | live
+swamp
+boost |  
+| bip_39_word_new_line4 | live
+swamp
+boost
+intact |  
+| bip_39_word_new_line5 | live
+swamp
+boost
+intact
+curious |  
+| bip_39_word_new_line6 | live
+swamp
+boost
+intact
+curious
+identify |  
+| bip_39_word_new_line7 | live
+swamp
+boost
+intact
+curious
+identify
+relax |  
+| bip_39_word_new_line8 | live
+swamp
+boost
+intact
+curious
+identify
+relax
+feature |  
+| bip_39_word_new_line9 | live
+swamp
+boost
+intact
+curious
+identify
+relax
+feature
+island |  
+| bip_39_word_space_0 | ['live', 'swamp', 'boost', 'intact', 'curious', 'identify', 'relax', 'feature', 'island', 'elite', 'ridge', 'aim'] |  
+| bip_39_word_space_1 | live |  
+| bip_39_word_space_10 | live swamp boost intact curious identify relax feature island elite |  
+| bip_39_word_space_11 | live swamp boost intact curious identify relax feature island elite ridge |  
+| bip_39_word_space_12 | live swamp boost intact curious identify relax feature island elite ridge aim |  
+| bip_39_word_space_2 | live swamp |  
+| bip_39_word_space_3 | live swamp boost |  
+| bip_39_word_space_4 | live swamp boost intact |  
+| bip_39_word_space_5 | live swamp boost intact curious |  
+| bip_39_word_space_6 | live swamp boost intact curious identify |  
+| bip_39_word_space_7 | live swamp boost intact curious identify relax |  
+| bip_39_word_space_8 | live swamp boost intact curious identify relax feature |  
+| bip_39_word_space_9 | live swamp boost intact curious identify relax feature island |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: legend
+bip_39_word_new_br10: legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda
+bip_39_word_new_br11: legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda<br>shrug
+bip_39_word_new_br12: legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step<br>panda<br>shrug<br>age
+bip_39_word_new_br2: legend<br>million
+bip_39_word_new_br3: legend<br>million<br>brain
+bip_39_word_new_br4: legend<br>million<br>brain<br>liquid
+bip_39_word_new_br5: legend<br>million<br>brain<br>liquid<br>general
+bip_39_word_new_br6: legend<br>million<br>brain<br>liquid<br>general<br>slogan
+bip_39_word_new_br7: legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over
+bip_39_word_new_br8: legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass
+bip_39_word_new_br9: legend<br>million<br>brain<br>liquid<br>general<br>slogan<br>over<br>pass<br>step
+bip_39_word_new_line1: legend
+bip_39_word_new_line10: 'legend
+
+  million
+
+  brain
+
+  liquid
+
+  general
+
+  slogan
+
+  over
+
+  pass
+
+  step
+
+  panda'
+bip_39_word_new_line11: 'legend
+
+  million
+
+  brain
+
+  liquid
+
+  general
+
+  slogan
+
+  over
+
+  pass
+
+  step
+
+  panda
+
+  shrug'
+bip_39_word_new_line12: 'legend
+
+  million
+
+  brain
+
+  liquid
+
+  general
+
+  slogan
+
+  over
+
+  pass
+
+  step
+
+  panda
+
+  shrug
+
+  age'
+bip_39_word_new_line2: 'legend
+
+  million'
+bip_39_word_new_line3: 'legend
+
+  million
+
+  brain'
+bip_39_word_new_line4: 'legend
+
+  million
+
+  brain
+
+  liquid'
+bip_39_word_new_line5: 'legend
+
+  million
+
+  brain
+
+  liquid
+
+  general'
+bip_39_word_new_line6: 'legend
+
+  million
+
+  brain
+
+  liquid
+
+  general
+
+  slogan'
+bip_39_word_new_line7: 'legend
+
+  million
+
+  brain
+
+  liquid
+
+  general
+
+  slogan
+
+  over'
+bip_39_word_new_line8: 'legend
+
+  million
+
+  brain
+
+  liquid
+
+  general
+
+  slogan
+
+  over
+
+  pass'
+bip_39_word_new_line9: 'legend
+
+  million
+
+  brain
+
+  liquid
+
+  general
+
+  slogan
+
+  over
+
+  pass
+
+  step'
+bip_39_word_space_0:
+- legend
+- million
+- brain
+- liquid
+- general
+- slogan
+- over
+- pass
+- step
+- panda
+- shrug
+- age
+bip_39_word_space_1: legend
+bip_39_word_space_10: legend million brain liquid general slogan over pass step panda
+bip_39_word_space_11: legend million brain liquid general slogan over pass step panda
+  shrug
+bip_39_word_space_12: legend million brain liquid general slogan over pass step panda
+  shrug age
+bip_39_word_space_2: legend million
+bip_39_word_space_3: legend million brain
+bip_39_word_space_4: legend million brain liquid
+bip_39_word_space_5: legend million brain liquid general
+bip_39_word_space_6: legend million brain liquid general slogan
+bip_39_word_space_7: legend million brain liquid general slogan over
+bip_39_word_space_8: legend million brain liquid general slogan over pass
+bip_39_word_space_9: legend million brain liquid general slogan over pass step
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

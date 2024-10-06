@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 8
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: surface tongue
+  * bip 39 word 3: surface tongue essay
+  * bip 39 word: surface tongue essay pottery apart shine pistol cushion range object solid accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | surface |  
+| bip_39_word_new_br10 | surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range<br>object |  
+| bip_39_word_new_br11 | surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range<br>object<br>solid |  
+| bip_39_word_new_br12 | surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range<br>object<br>solid<br>accident |  
+| bip_39_word_new_br2 | surface<br>tongue |  
+| bip_39_word_new_br3 | surface<br>tongue<br>essay |  
+| bip_39_word_new_br4 | surface<br>tongue<br>essay<br>pottery |  
+| bip_39_word_new_br5 | surface<br>tongue<br>essay<br>pottery<br>apart |  
+| bip_39_word_new_br6 | surface<br>tongue<br>essay<br>pottery<br>apart<br>shine |  
+| bip_39_word_new_br7 | surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol |  
+| bip_39_word_new_br8 | surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion |  
+| bip_39_word_new_br9 | surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range |  
+| bip_39_word_new_line1 | surface |  
+| bip_39_word_new_line10 | surface
+tongue
+essay
+pottery
+apart
+shine
+pistol
+cushion
+range
+object |  
+| bip_39_word_new_line11 | surface
+tongue
+essay
+pottery
+apart
+shine
+pistol
+cushion
+range
+object
+solid |  
+| bip_39_word_new_line12 | surface
+tongue
+essay
+pottery
+apart
+shine
+pistol
+cushion
+range
+object
+solid
+accident |  
+| bip_39_word_new_line2 | surface
+tongue |  
+| bip_39_word_new_line3 | surface
+tongue
+essay |  
+| bip_39_word_new_line4 | surface
+tongue
+essay
+pottery |  
+| bip_39_word_new_line5 | surface
+tongue
+essay
+pottery
+apart |  
+| bip_39_word_new_line6 | surface
+tongue
+essay
+pottery
+apart
+shine |  
+| bip_39_word_new_line7 | surface
+tongue
+essay
+pottery
+apart
+shine
+pistol |  
+| bip_39_word_new_line8 | surface
+tongue
+essay
+pottery
+apart
+shine
+pistol
+cushion |  
+| bip_39_word_new_line9 | surface
+tongue
+essay
+pottery
+apart
+shine
+pistol
+cushion
+range |  
+| bip_39_word_space_0 | ['surface', 'tongue', 'essay', 'pottery', 'apart', 'shine', 'pistol', 'cushion', 'range', 'object', 'solid', 'accident'] |  
+| bip_39_word_space_1 | surface |  
+| bip_39_word_space_10 | surface tongue essay pottery apart shine pistol cushion range object |  
+| bip_39_word_space_11 | surface tongue essay pottery apart shine pistol cushion range object solid |  
+| bip_39_word_space_12 | surface tongue essay pottery apart shine pistol cushion range object solid accident |  
+| bip_39_word_space_2 | surface tongue |  
+| bip_39_word_space_3 | surface tongue essay |  
+| bip_39_word_space_4 | surface tongue essay pottery |  
+| bip_39_word_space_5 | surface tongue essay pottery apart |  
+| bip_39_word_space_6 | surface tongue essay pottery apart shine |  
+| bip_39_word_space_7 | surface tongue essay pottery apart shine pistol |  
+| bip_39_word_space_8 | surface tongue essay pottery apart shine pistol cushion |  
+| bip_39_word_space_9 | surface tongue essay pottery apart shine pistol cushion range |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

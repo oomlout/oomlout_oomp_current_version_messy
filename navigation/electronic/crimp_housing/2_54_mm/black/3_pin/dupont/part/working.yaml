@@ -1,3 +1,186 @@
+bip_39_word_new_br1: segment
+bip_39_word_new_br10: segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown
+bip_39_word_new_br11: segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown<br>cancel
+bip_39_word_new_br12: segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit<br>unknown<br>cancel<br>aspect
+bip_39_word_new_br2: segment<br>erupt
+bip_39_word_new_br3: segment<br>erupt<br>woman
+bip_39_word_new_br4: segment<br>erupt<br>woman<br>twin
+bip_39_word_new_br5: segment<br>erupt<br>woman<br>twin<br>hello
+bip_39_word_new_br6: segment<br>erupt<br>woman<br>twin<br>hello<br>song
+bip_39_word_new_br7: segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three
+bip_39_word_new_br8: segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost
+bip_39_word_new_br9: segment<br>erupt<br>woman<br>twin<br>hello<br>song<br>three<br>cost<br>audit
+bip_39_word_new_line1: segment
+bip_39_word_new_line10: 'segment
+
+  erupt
+
+  woman
+
+  twin
+
+  hello
+
+  song
+
+  three
+
+  cost
+
+  audit
+
+  unknown'
+bip_39_word_new_line11: 'segment
+
+  erupt
+
+  woman
+
+  twin
+
+  hello
+
+  song
+
+  three
+
+  cost
+
+  audit
+
+  unknown
+
+  cancel'
+bip_39_word_new_line12: 'segment
+
+  erupt
+
+  woman
+
+  twin
+
+  hello
+
+  song
+
+  three
+
+  cost
+
+  audit
+
+  unknown
+
+  cancel
+
+  aspect'
+bip_39_word_new_line2: 'segment
+
+  erupt'
+bip_39_word_new_line3: 'segment
+
+  erupt
+
+  woman'
+bip_39_word_new_line4: 'segment
+
+  erupt
+
+  woman
+
+  twin'
+bip_39_word_new_line5: 'segment
+
+  erupt
+
+  woman
+
+  twin
+
+  hello'
+bip_39_word_new_line6: 'segment
+
+  erupt
+
+  woman
+
+  twin
+
+  hello
+
+  song'
+bip_39_word_new_line7: 'segment
+
+  erupt
+
+  woman
+
+  twin
+
+  hello
+
+  song
+
+  three'
+bip_39_word_new_line8: 'segment
+
+  erupt
+
+  woman
+
+  twin
+
+  hello
+
+  song
+
+  three
+
+  cost'
+bip_39_word_new_line9: 'segment
+
+  erupt
+
+  woman
+
+  twin
+
+  hello
+
+  song
+
+  three
+
+  cost
+
+  audit'
+bip_39_word_space_0:
+- segment
+- erupt
+- woman
+- twin
+- hello
+- song
+- three
+- cost
+- audit
+- unknown
+- cancel
+- aspect
+bip_39_word_space_1: segment
+bip_39_word_space_10: segment erupt woman twin hello song three cost audit unknown
+bip_39_word_space_11: segment erupt woman twin hello song three cost audit unknown
+  cancel
+bip_39_word_space_12: segment erupt woman twin hello song three cost audit unknown
+  cancel aspect
+bip_39_word_space_2: segment erupt
+bip_39_word_space_3: segment erupt woman
+bip_39_word_space_4: segment erupt woman twin
+bip_39_word_space_5: segment erupt woman twin hello
+bip_39_word_space_6: segment erupt woman twin hello song
+bip_39_word_space_7: segment erupt woman twin hello song three
+bip_39_word_space_8: segment erupt woman twin hello song three cost
+bip_39_word_space_9: segment erupt woman twin hello song three cost audit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

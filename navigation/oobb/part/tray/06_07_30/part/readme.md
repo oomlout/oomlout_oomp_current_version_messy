@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: build tree
+  * bip 39 word 3: build tree rare
+  * bip 39 word: build tree rare era sound mechanic resist knee salon play angry aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | build |  
+| bip_39_word_new_br10 | build<br>tree<br>rare<br>era<br>sound<br>mechanic<br>resist<br>knee<br>salon<br>play |  
+| bip_39_word_new_br11 | build<br>tree<br>rare<br>era<br>sound<br>mechanic<br>resist<br>knee<br>salon<br>play<br>angry |  
+| bip_39_word_new_br12 | build<br>tree<br>rare<br>era<br>sound<br>mechanic<br>resist<br>knee<br>salon<br>play<br>angry<br>aspect |  
+| bip_39_word_new_br2 | build<br>tree |  
+| bip_39_word_new_br3 | build<br>tree<br>rare |  
+| bip_39_word_new_br4 | build<br>tree<br>rare<br>era |  
+| bip_39_word_new_br5 | build<br>tree<br>rare<br>era<br>sound |  
+| bip_39_word_new_br6 | build<br>tree<br>rare<br>era<br>sound<br>mechanic |  
+| bip_39_word_new_br7 | build<br>tree<br>rare<br>era<br>sound<br>mechanic<br>resist |  
+| bip_39_word_new_br8 | build<br>tree<br>rare<br>era<br>sound<br>mechanic<br>resist<br>knee |  
+| bip_39_word_new_br9 | build<br>tree<br>rare<br>era<br>sound<br>mechanic<br>resist<br>knee<br>salon |  
+| bip_39_word_new_line1 | build |  
+| bip_39_word_new_line10 | build
+tree
+rare
+era
+sound
+mechanic
+resist
+knee
+salon
+play |  
+| bip_39_word_new_line11 | build
+tree
+rare
+era
+sound
+mechanic
+resist
+knee
+salon
+play
+angry |  
+| bip_39_word_new_line12 | build
+tree
+rare
+era
+sound
+mechanic
+resist
+knee
+salon
+play
+angry
+aspect |  
+| bip_39_word_new_line2 | build
+tree |  
+| bip_39_word_new_line3 | build
+tree
+rare |  
+| bip_39_word_new_line4 | build
+tree
+rare
+era |  
+| bip_39_word_new_line5 | build
+tree
+rare
+era
+sound |  
+| bip_39_word_new_line6 | build
+tree
+rare
+era
+sound
+mechanic |  
+| bip_39_word_new_line7 | build
+tree
+rare
+era
+sound
+mechanic
+resist |  
+| bip_39_word_new_line8 | build
+tree
+rare
+era
+sound
+mechanic
+resist
+knee |  
+| bip_39_word_new_line9 | build
+tree
+rare
+era
+sound
+mechanic
+resist
+knee
+salon |  
+| bip_39_word_space_0 | ['build', 'tree', 'rare', 'era', 'sound', 'mechanic', 'resist', 'knee', 'salon', 'play', 'angry', 'aspect'] |  
+| bip_39_word_space_1 | build |  
+| bip_39_word_space_10 | build tree rare era sound mechanic resist knee salon play |  
+| bip_39_word_space_11 | build tree rare era sound mechanic resist knee salon play angry |  
+| bip_39_word_space_12 | build tree rare era sound mechanic resist knee salon play angry aspect |  
+| bip_39_word_space_2 | build tree |  
+| bip_39_word_space_3 | build tree rare |  
+| bip_39_word_space_4 | build tree rare era |  
+| bip_39_word_space_5 | build tree rare era sound |  
+| bip_39_word_space_6 | build tree rare era sound mechanic |  
+| bip_39_word_space_7 | build tree rare era sound mechanic resist |  
+| bip_39_word_space_8 | build tree rare era sound mechanic resist knee |  
+| bip_39_word_space_9 | build tree rare era sound mechanic resist knee salon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

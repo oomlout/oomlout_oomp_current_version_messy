@@ -1,3 +1,187 @@
+bip_39_word_new_br1: attitude
+bip_39_word_new_br10: attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick
+bip_39_word_new_br11: attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick<br>february
+bip_39_word_new_br12: attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety<br>brick<br>february<br>antenna
+bip_39_word_new_br2: attitude<br>admit
+bip_39_word_new_br3: attitude<br>admit<br>opera
+bip_39_word_new_br4: attitude<br>admit<br>opera<br>design
+bip_39_word_new_br5: attitude<br>admit<br>opera<br>design<br>middle
+bip_39_word_new_br6: attitude<br>admit<br>opera<br>design<br>middle<br>pass
+bip_39_word_new_br7: attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree
+bip_39_word_new_br8: attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk
+bip_39_word_new_br9: attitude<br>admit<br>opera<br>design<br>middle<br>pass<br>degree<br>junk<br>anxiety
+bip_39_word_new_line1: attitude
+bip_39_word_new_line10: 'attitude
+
+  admit
+
+  opera
+
+  design
+
+  middle
+
+  pass
+
+  degree
+
+  junk
+
+  anxiety
+
+  brick'
+bip_39_word_new_line11: 'attitude
+
+  admit
+
+  opera
+
+  design
+
+  middle
+
+  pass
+
+  degree
+
+  junk
+
+  anxiety
+
+  brick
+
+  february'
+bip_39_word_new_line12: 'attitude
+
+  admit
+
+  opera
+
+  design
+
+  middle
+
+  pass
+
+  degree
+
+  junk
+
+  anxiety
+
+  brick
+
+  february
+
+  antenna'
+bip_39_word_new_line2: 'attitude
+
+  admit'
+bip_39_word_new_line3: 'attitude
+
+  admit
+
+  opera'
+bip_39_word_new_line4: 'attitude
+
+  admit
+
+  opera
+
+  design'
+bip_39_word_new_line5: 'attitude
+
+  admit
+
+  opera
+
+  design
+
+  middle'
+bip_39_word_new_line6: 'attitude
+
+  admit
+
+  opera
+
+  design
+
+  middle
+
+  pass'
+bip_39_word_new_line7: 'attitude
+
+  admit
+
+  opera
+
+  design
+
+  middle
+
+  pass
+
+  degree'
+bip_39_word_new_line8: 'attitude
+
+  admit
+
+  opera
+
+  design
+
+  middle
+
+  pass
+
+  degree
+
+  junk'
+bip_39_word_new_line9: 'attitude
+
+  admit
+
+  opera
+
+  design
+
+  middle
+
+  pass
+
+  degree
+
+  junk
+
+  anxiety'
+bip_39_word_space_0:
+- attitude
+- admit
+- opera
+- design
+- middle
+- pass
+- degree
+- junk
+- anxiety
+- brick
+- february
+- antenna
+bip_39_word_space_1: attitude
+bip_39_word_space_10: attitude admit opera design middle pass degree junk anxiety
+  brick
+bip_39_word_space_11: attitude admit opera design middle pass degree junk anxiety
+  brick february
+bip_39_word_space_12: attitude admit opera design middle pass degree junk anxiety
+  brick february antenna
+bip_39_word_space_2: attitude admit
+bip_39_word_space_3: attitude admit opera
+bip_39_word_space_4: attitude admit opera design
+bip_39_word_space_5: attitude admit opera design middle
+bip_39_word_space_6: attitude admit opera design middle pass
+bip_39_word_space_7: attitude admit opera design middle pass degree
+bip_39_word_space_8: attitude admit opera design middle pass degree junk
+bip_39_word_space_9: attitude admit opera design middle pass degree junk anxiety
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

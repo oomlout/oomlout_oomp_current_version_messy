@@ -1,3 +1,185 @@
+bip_39_word_new_br1: song
+bip_39_word_new_br10: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook<br>beach
+bip_39_word_new_br11: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook<br>beach<br>dizzy
+bip_39_word_new_br12: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook<br>beach<br>dizzy<br>another
+bip_39_word_new_br2: song<br>pizza
+bip_39_word_new_br3: song<br>pizza<br>gentle
+bip_39_word_new_br4: song<br>pizza<br>gentle<br>blur
+bip_39_word_new_br5: song<br>pizza<br>gentle<br>blur<br>title
+bip_39_word_new_br6: song<br>pizza<br>gentle<br>blur<br>title<br>awake
+bip_39_word_new_br7: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter
+bip_39_word_new_br8: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad
+bip_39_word_new_br9: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook
+bip_39_word_new_line1: song
+bip_39_word_new_line10: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad
+
+  cook
+
+  beach'
+bip_39_word_new_line11: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad
+
+  cook
+
+  beach
+
+  dizzy'
+bip_39_word_new_line12: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad
+
+  cook
+
+  beach
+
+  dizzy
+
+  another'
+bip_39_word_new_line2: 'song
+
+  pizza'
+bip_39_word_new_line3: 'song
+
+  pizza
+
+  gentle'
+bip_39_word_new_line4: 'song
+
+  pizza
+
+  gentle
+
+  blur'
+bip_39_word_new_line5: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title'
+bip_39_word_new_line6: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake'
+bip_39_word_new_line7: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter'
+bip_39_word_new_line8: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad'
+bip_39_word_new_line9: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad
+
+  cook'
+bip_39_word_space_0:
+- song
+- pizza
+- gentle
+- blur
+- title
+- awake
+- quarter
+- mad
+- cook
+- beach
+- dizzy
+- another
+bip_39_word_space_1: song
+bip_39_word_space_10: song pizza gentle blur title awake quarter mad cook beach
+bip_39_word_space_11: song pizza gentle blur title awake quarter mad cook beach dizzy
+bip_39_word_space_12: song pizza gentle blur title awake quarter mad cook beach dizzy
+  another
+bip_39_word_space_2: song pizza
+bip_39_word_space_3: song pizza gentle
+bip_39_word_space_4: song pizza gentle blur
+bip_39_word_space_5: song pizza gentle blur title
+bip_39_word_space_6: song pizza gentle blur title awake
+bip_39_word_space_7: song pizza gentle blur title awake quarter
+bip_39_word_space_8: song pizza gentle blur title awake quarter mad
+bip_39_word_space_9: song pizza gentle blur title awake quarter mad cook
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

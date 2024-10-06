@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: luxury topple
+  * bip 39 word 3: luxury topple uncle
+  * bip 39 word: luxury topple uncle such bottom guide involve tip retreat witness intact act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | luxury |  
+| bip_39_word_new_br10 | luxury<br>topple<br>uncle<br>such<br>bottom<br>guide<br>involve<br>tip<br>retreat<br>witness |  
+| bip_39_word_new_br11 | luxury<br>topple<br>uncle<br>such<br>bottom<br>guide<br>involve<br>tip<br>retreat<br>witness<br>intact |  
+| bip_39_word_new_br12 | luxury<br>topple<br>uncle<br>such<br>bottom<br>guide<br>involve<br>tip<br>retreat<br>witness<br>intact<br>act |  
+| bip_39_word_new_br2 | luxury<br>topple |  
+| bip_39_word_new_br3 | luxury<br>topple<br>uncle |  
+| bip_39_word_new_br4 | luxury<br>topple<br>uncle<br>such |  
+| bip_39_word_new_br5 | luxury<br>topple<br>uncle<br>such<br>bottom |  
+| bip_39_word_new_br6 | luxury<br>topple<br>uncle<br>such<br>bottom<br>guide |  
+| bip_39_word_new_br7 | luxury<br>topple<br>uncle<br>such<br>bottom<br>guide<br>involve |  
+| bip_39_word_new_br8 | luxury<br>topple<br>uncle<br>such<br>bottom<br>guide<br>involve<br>tip |  
+| bip_39_word_new_br9 | luxury<br>topple<br>uncle<br>such<br>bottom<br>guide<br>involve<br>tip<br>retreat |  
+| bip_39_word_new_line1 | luxury |  
+| bip_39_word_new_line10 | luxury
+topple
+uncle
+such
+bottom
+guide
+involve
+tip
+retreat
+witness |  
+| bip_39_word_new_line11 | luxury
+topple
+uncle
+such
+bottom
+guide
+involve
+tip
+retreat
+witness
+intact |  
+| bip_39_word_new_line12 | luxury
+topple
+uncle
+such
+bottom
+guide
+involve
+tip
+retreat
+witness
+intact
+act |  
+| bip_39_word_new_line2 | luxury
+topple |  
+| bip_39_word_new_line3 | luxury
+topple
+uncle |  
+| bip_39_word_new_line4 | luxury
+topple
+uncle
+such |  
+| bip_39_word_new_line5 | luxury
+topple
+uncle
+such
+bottom |  
+| bip_39_word_new_line6 | luxury
+topple
+uncle
+such
+bottom
+guide |  
+| bip_39_word_new_line7 | luxury
+topple
+uncle
+such
+bottom
+guide
+involve |  
+| bip_39_word_new_line8 | luxury
+topple
+uncle
+such
+bottom
+guide
+involve
+tip |  
+| bip_39_word_new_line9 | luxury
+topple
+uncle
+such
+bottom
+guide
+involve
+tip
+retreat |  
+| bip_39_word_space_0 | ['luxury', 'topple', 'uncle', 'such', 'bottom', 'guide', 'involve', 'tip', 'retreat', 'witness', 'intact', 'act'] |  
+| bip_39_word_space_1 | luxury |  
+| bip_39_word_space_10 | luxury topple uncle such bottom guide involve tip retreat witness |  
+| bip_39_word_space_11 | luxury topple uncle such bottom guide involve tip retreat witness intact |  
+| bip_39_word_space_12 | luxury topple uncle such bottom guide involve tip retreat witness intact act |  
+| bip_39_word_space_2 | luxury topple |  
+| bip_39_word_space_3 | luxury topple uncle |  
+| bip_39_word_space_4 | luxury topple uncle such |  
+| bip_39_word_space_5 | luxury topple uncle such bottom |  
+| bip_39_word_space_6 | luxury topple uncle such bottom guide |  
+| bip_39_word_space_7 | luxury topple uncle such bottom guide involve |  
+| bip_39_word_space_8 | luxury topple uncle such bottom guide involve tip |  
+| bip_39_word_space_9 | luxury topple uncle such bottom guide involve tip retreat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

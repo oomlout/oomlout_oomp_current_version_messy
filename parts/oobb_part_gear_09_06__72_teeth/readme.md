@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: margin exhibit
+  * bip 39 word 3: margin exhibit city
+  * bip 39 word: margin exhibit city material economy used female turn shadow income switch advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | margin |  
+| bip_39_word_new_br10 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income |  
+| bip_39_word_new_br11 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch |  
+| bip_39_word_new_br12 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch<br>advance |  
+| bip_39_word_new_br2 | margin<br>exhibit |  
+| bip_39_word_new_br3 | margin<br>exhibit<br>city |  
+| bip_39_word_new_br4 | margin<br>exhibit<br>city<br>material |  
+| bip_39_word_new_br5 | margin<br>exhibit<br>city<br>material<br>economy |  
+| bip_39_word_new_br6 | margin<br>exhibit<br>city<br>material<br>economy<br>used |  
+| bip_39_word_new_br7 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female |  
+| bip_39_word_new_br8 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn |  
+| bip_39_word_new_br9 | margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow |  
+| bip_39_word_new_line1 | margin |  
+| bip_39_word_new_line10 | margin
+exhibit
+city
+material
+economy
+used
+female
+turn
+shadow
+income |  
+| bip_39_word_new_line11 | margin
+exhibit
+city
+material
+economy
+used
+female
+turn
+shadow
+income
+switch |  
+| bip_39_word_new_line12 | margin
+exhibit
+city
+material
+economy
+used
+female
+turn
+shadow
+income
+switch
+advance |  
+| bip_39_word_new_line2 | margin
+exhibit |  
+| bip_39_word_new_line3 | margin
+exhibit
+city |  
+| bip_39_word_new_line4 | margin
+exhibit
+city
+material |  
+| bip_39_word_new_line5 | margin
+exhibit
+city
+material
+economy |  
+| bip_39_word_new_line6 | margin
+exhibit
+city
+material
+economy
+used |  
+| bip_39_word_new_line7 | margin
+exhibit
+city
+material
+economy
+used
+female |  
+| bip_39_word_new_line8 | margin
+exhibit
+city
+material
+economy
+used
+female
+turn |  
+| bip_39_word_new_line9 | margin
+exhibit
+city
+material
+economy
+used
+female
+turn
+shadow |  
+| bip_39_word_space_0 | ['margin', 'exhibit', 'city', 'material', 'economy', 'used', 'female', 'turn', 'shadow', 'income', 'switch', 'advance'] |  
+| bip_39_word_space_1 | margin |  
+| bip_39_word_space_10 | margin exhibit city material economy used female turn shadow income |  
+| bip_39_word_space_11 | margin exhibit city material economy used female turn shadow income switch |  
+| bip_39_word_space_12 | margin exhibit city material economy used female turn shadow income switch advance |  
+| bip_39_word_space_2 | margin exhibit |  
+| bip_39_word_space_3 | margin exhibit city |  
+| bip_39_word_space_4 | margin exhibit city material |  
+| bip_39_word_space_5 | margin exhibit city material economy |  
+| bip_39_word_space_6 | margin exhibit city material economy used |  
+| bip_39_word_space_7 | margin exhibit city material economy used female |  
+| bip_39_word_space_8 | margin exhibit city material economy used female turn |  
+| bip_39_word_space_9 | margin exhibit city material economy used female turn shadow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

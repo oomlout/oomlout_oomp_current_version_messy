@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swamp this
+  * bip 39 word 3: swamp this finger
+  * bip 39 word: swamp this finger eight online angle sight wool type tonight symbol ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swamp |  
+| bip_39_word_new_br10 | swamp<br>this<br>finger<br>eight<br>online<br>angle<br>sight<br>wool<br>type<br>tonight |  
+| bip_39_word_new_br11 | swamp<br>this<br>finger<br>eight<br>online<br>angle<br>sight<br>wool<br>type<br>tonight<br>symbol |  
+| bip_39_word_new_br12 | swamp<br>this<br>finger<br>eight<br>online<br>angle<br>sight<br>wool<br>type<br>tonight<br>symbol<br>ability |  
+| bip_39_word_new_br2 | swamp<br>this |  
+| bip_39_word_new_br3 | swamp<br>this<br>finger |  
+| bip_39_word_new_br4 | swamp<br>this<br>finger<br>eight |  
+| bip_39_word_new_br5 | swamp<br>this<br>finger<br>eight<br>online |  
+| bip_39_word_new_br6 | swamp<br>this<br>finger<br>eight<br>online<br>angle |  
+| bip_39_word_new_br7 | swamp<br>this<br>finger<br>eight<br>online<br>angle<br>sight |  
+| bip_39_word_new_br8 | swamp<br>this<br>finger<br>eight<br>online<br>angle<br>sight<br>wool |  
+| bip_39_word_new_br9 | swamp<br>this<br>finger<br>eight<br>online<br>angle<br>sight<br>wool<br>type |  
+| bip_39_word_new_line1 | swamp |  
+| bip_39_word_new_line10 | swamp
+this
+finger
+eight
+online
+angle
+sight
+wool
+type
+tonight |  
+| bip_39_word_new_line11 | swamp
+this
+finger
+eight
+online
+angle
+sight
+wool
+type
+tonight
+symbol |  
+| bip_39_word_new_line12 | swamp
+this
+finger
+eight
+online
+angle
+sight
+wool
+type
+tonight
+symbol
+ability |  
+| bip_39_word_new_line2 | swamp
+this |  
+| bip_39_word_new_line3 | swamp
+this
+finger |  
+| bip_39_word_new_line4 | swamp
+this
+finger
+eight |  
+| bip_39_word_new_line5 | swamp
+this
+finger
+eight
+online |  
+| bip_39_word_new_line6 | swamp
+this
+finger
+eight
+online
+angle |  
+| bip_39_word_new_line7 | swamp
+this
+finger
+eight
+online
+angle
+sight |  
+| bip_39_word_new_line8 | swamp
+this
+finger
+eight
+online
+angle
+sight
+wool |  
+| bip_39_word_new_line9 | swamp
+this
+finger
+eight
+online
+angle
+sight
+wool
+type |  
+| bip_39_word_space_0 | ['swamp', 'this', 'finger', 'eight', 'online', 'angle', 'sight', 'wool', 'type', 'tonight', 'symbol', 'ability'] |  
+| bip_39_word_space_1 | swamp |  
+| bip_39_word_space_10 | swamp this finger eight online angle sight wool type tonight |  
+| bip_39_word_space_11 | swamp this finger eight online angle sight wool type tonight symbol |  
+| bip_39_word_space_12 | swamp this finger eight online angle sight wool type tonight symbol ability |  
+| bip_39_word_space_2 | swamp this |  
+| bip_39_word_space_3 | swamp this finger |  
+| bip_39_word_space_4 | swamp this finger eight |  
+| bip_39_word_space_5 | swamp this finger eight online |  
+| bip_39_word_space_6 | swamp this finger eight online angle |  
+| bip_39_word_space_7 | swamp this finger eight online angle sight |  
+| bip_39_word_space_8 | swamp this finger eight online angle sight wool |  
+| bip_39_word_space_9 | swamp this finger eight online angle sight wool type |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: omit useless
+  * bip 39 word 3: omit useless spell
+  * bip 39 word: omit useless spell rookie holiday poem cost cloth cave thumb vanish album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | omit |  
+| bip_39_word_new_br10 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem<br>cost<br>cloth<br>cave<br>thumb |  
+| bip_39_word_new_br11 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem<br>cost<br>cloth<br>cave<br>thumb<br>vanish |  
+| bip_39_word_new_br12 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem<br>cost<br>cloth<br>cave<br>thumb<br>vanish<br>album |  
+| bip_39_word_new_br2 | omit<br>useless |  
+| bip_39_word_new_br3 | omit<br>useless<br>spell |  
+| bip_39_word_new_br4 | omit<br>useless<br>spell<br>rookie |  
+| bip_39_word_new_br5 | omit<br>useless<br>spell<br>rookie<br>holiday |  
+| bip_39_word_new_br6 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem |  
+| bip_39_word_new_br7 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem<br>cost |  
+| bip_39_word_new_br8 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem<br>cost<br>cloth |  
+| bip_39_word_new_br9 | omit<br>useless<br>spell<br>rookie<br>holiday<br>poem<br>cost<br>cloth<br>cave |  
+| bip_39_word_new_line1 | omit |  
+| bip_39_word_new_line10 | omit
+useless
+spell
+rookie
+holiday
+poem
+cost
+cloth
+cave
+thumb |  
+| bip_39_word_new_line11 | omit
+useless
+spell
+rookie
+holiday
+poem
+cost
+cloth
+cave
+thumb
+vanish |  
+| bip_39_word_new_line12 | omit
+useless
+spell
+rookie
+holiday
+poem
+cost
+cloth
+cave
+thumb
+vanish
+album |  
+| bip_39_word_new_line2 | omit
+useless |  
+| bip_39_word_new_line3 | omit
+useless
+spell |  
+| bip_39_word_new_line4 | omit
+useless
+spell
+rookie |  
+| bip_39_word_new_line5 | omit
+useless
+spell
+rookie
+holiday |  
+| bip_39_word_new_line6 | omit
+useless
+spell
+rookie
+holiday
+poem |  
+| bip_39_word_new_line7 | omit
+useless
+spell
+rookie
+holiday
+poem
+cost |  
+| bip_39_word_new_line8 | omit
+useless
+spell
+rookie
+holiday
+poem
+cost
+cloth |  
+| bip_39_word_new_line9 | omit
+useless
+spell
+rookie
+holiday
+poem
+cost
+cloth
+cave |  
+| bip_39_word_space_0 | ['omit', 'useless', 'spell', 'rookie', 'holiday', 'poem', 'cost', 'cloth', 'cave', 'thumb', 'vanish', 'album'] |  
+| bip_39_word_space_1 | omit |  
+| bip_39_word_space_10 | omit useless spell rookie holiday poem cost cloth cave thumb |  
+| bip_39_word_space_11 | omit useless spell rookie holiday poem cost cloth cave thumb vanish |  
+| bip_39_word_space_12 | omit useless spell rookie holiday poem cost cloth cave thumb vanish album |  
+| bip_39_word_space_2 | omit useless |  
+| bip_39_word_space_3 | omit useless spell |  
+| bip_39_word_space_4 | omit useless spell rookie |  
+| bip_39_word_space_5 | omit useless spell rookie holiday |  
+| bip_39_word_space_6 | omit useless spell rookie holiday poem |  
+| bip_39_word_space_7 | omit useless spell rookie holiday poem cost |  
+| bip_39_word_space_8 | omit useless spell rookie holiday poem cost cloth |  
+| bip_39_word_space_9 | omit useless spell rookie holiday poem cost cloth cave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

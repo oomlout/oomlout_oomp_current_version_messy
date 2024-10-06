@@ -1,3 +1,185 @@
+bip_39_word_new_br1: point
+bip_39_word_new_br10: point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base
+bip_39_word_new_br11: point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base<br>fragile
+bip_39_word_new_br12: point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony<br>base<br>fragile<br>access
+bip_39_word_new_br2: point<br>volcano
+bip_39_word_new_br3: point<br>volcano<br>child
+bip_39_word_new_br4: point<br>volcano<br>child<br>arm
+bip_39_word_new_br5: point<br>volcano<br>child<br>arm<br>fun
+bip_39_word_new_br6: point<br>volcano<br>child<br>arm<br>fun<br>alone
+bip_39_word_new_br7: point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth
+bip_39_word_new_br8: point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon
+bip_39_word_new_br9: point<br>volcano<br>child<br>arm<br>fun<br>alone<br>smooth<br>lemon<br>pony
+bip_39_word_new_line1: point
+bip_39_word_new_line10: 'point
+
+  volcano
+
+  child
+
+  arm
+
+  fun
+
+  alone
+
+  smooth
+
+  lemon
+
+  pony
+
+  base'
+bip_39_word_new_line11: 'point
+
+  volcano
+
+  child
+
+  arm
+
+  fun
+
+  alone
+
+  smooth
+
+  lemon
+
+  pony
+
+  base
+
+  fragile'
+bip_39_word_new_line12: 'point
+
+  volcano
+
+  child
+
+  arm
+
+  fun
+
+  alone
+
+  smooth
+
+  lemon
+
+  pony
+
+  base
+
+  fragile
+
+  access'
+bip_39_word_new_line2: 'point
+
+  volcano'
+bip_39_word_new_line3: 'point
+
+  volcano
+
+  child'
+bip_39_word_new_line4: 'point
+
+  volcano
+
+  child
+
+  arm'
+bip_39_word_new_line5: 'point
+
+  volcano
+
+  child
+
+  arm
+
+  fun'
+bip_39_word_new_line6: 'point
+
+  volcano
+
+  child
+
+  arm
+
+  fun
+
+  alone'
+bip_39_word_new_line7: 'point
+
+  volcano
+
+  child
+
+  arm
+
+  fun
+
+  alone
+
+  smooth'
+bip_39_word_new_line8: 'point
+
+  volcano
+
+  child
+
+  arm
+
+  fun
+
+  alone
+
+  smooth
+
+  lemon'
+bip_39_word_new_line9: 'point
+
+  volcano
+
+  child
+
+  arm
+
+  fun
+
+  alone
+
+  smooth
+
+  lemon
+
+  pony'
+bip_39_word_space_0:
+- point
+- volcano
+- child
+- arm
+- fun
+- alone
+- smooth
+- lemon
+- pony
+- base
+- fragile
+- access
+bip_39_word_space_1: point
+bip_39_word_space_10: point volcano child arm fun alone smooth lemon pony base
+bip_39_word_space_11: point volcano child arm fun alone smooth lemon pony base fragile
+bip_39_word_space_12: point volcano child arm fun alone smooth lemon pony base fragile
+  access
+bip_39_word_space_2: point volcano
+bip_39_word_space_3: point volcano child
+bip_39_word_space_4: point volcano child arm
+bip_39_word_space_5: point volcano child arm fun
+bip_39_word_space_6: point volcano child arm fun alone
+bip_39_word_space_7: point volcano child arm fun alone smooth
+bip_39_word_space_8: point volcano child arm fun alone smooth lemon
+bip_39_word_space_9: point volcano child arm fun alone smooth lemon pony
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

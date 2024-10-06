@@ -1,3 +1,187 @@
+bip_39_word_new_br1: quality
+bip_39_word_new_br10: quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth
+bip_39_word_new_br11: quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth<br>slide
+bip_39_word_new_br12: quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain<br>myth<br>slide<br>approve
+bip_39_word_new_br2: quality<br>repeat
+bip_39_word_new_br3: quality<br>repeat<br>inform
+bip_39_word_new_br4: quality<br>repeat<br>inform<br>result
+bip_39_word_new_br5: quality<br>repeat<br>inform<br>result<br>dismiss
+bip_39_word_new_br6: quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet
+bip_39_word_new_br7: quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control
+bip_39_word_new_br8: quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste
+bip_39_word_new_br9: quality<br>repeat<br>inform<br>result<br>dismiss<br>carpet<br>control<br>waste<br>obtain
+bip_39_word_new_line1: quality
+bip_39_word_new_line10: 'quality
+
+  repeat
+
+  inform
+
+  result
+
+  dismiss
+
+  carpet
+
+  control
+
+  waste
+
+  obtain
+
+  myth'
+bip_39_word_new_line11: 'quality
+
+  repeat
+
+  inform
+
+  result
+
+  dismiss
+
+  carpet
+
+  control
+
+  waste
+
+  obtain
+
+  myth
+
+  slide'
+bip_39_word_new_line12: 'quality
+
+  repeat
+
+  inform
+
+  result
+
+  dismiss
+
+  carpet
+
+  control
+
+  waste
+
+  obtain
+
+  myth
+
+  slide
+
+  approve'
+bip_39_word_new_line2: 'quality
+
+  repeat'
+bip_39_word_new_line3: 'quality
+
+  repeat
+
+  inform'
+bip_39_word_new_line4: 'quality
+
+  repeat
+
+  inform
+
+  result'
+bip_39_word_new_line5: 'quality
+
+  repeat
+
+  inform
+
+  result
+
+  dismiss'
+bip_39_word_new_line6: 'quality
+
+  repeat
+
+  inform
+
+  result
+
+  dismiss
+
+  carpet'
+bip_39_word_new_line7: 'quality
+
+  repeat
+
+  inform
+
+  result
+
+  dismiss
+
+  carpet
+
+  control'
+bip_39_word_new_line8: 'quality
+
+  repeat
+
+  inform
+
+  result
+
+  dismiss
+
+  carpet
+
+  control
+
+  waste'
+bip_39_word_new_line9: 'quality
+
+  repeat
+
+  inform
+
+  result
+
+  dismiss
+
+  carpet
+
+  control
+
+  waste
+
+  obtain'
+bip_39_word_space_0:
+- quality
+- repeat
+- inform
+- result
+- dismiss
+- carpet
+- control
+- waste
+- obtain
+- myth
+- slide
+- approve
+bip_39_word_space_1: quality
+bip_39_word_space_10: quality repeat inform result dismiss carpet control waste obtain
+  myth
+bip_39_word_space_11: quality repeat inform result dismiss carpet control waste obtain
+  myth slide
+bip_39_word_space_12: quality repeat inform result dismiss carpet control waste obtain
+  myth slide approve
+bip_39_word_space_2: quality repeat
+bip_39_word_space_3: quality repeat inform
+bip_39_word_space_4: quality repeat inform result
+bip_39_word_space_5: quality repeat inform result dismiss
+bip_39_word_space_6: quality repeat inform result dismiss carpet
+bip_39_word_space_7: quality repeat inform result dismiss carpet control
+bip_39_word_space_8: quality repeat inform result dismiss carpet control waste
+bip_39_word_space_9: quality repeat inform result dismiss carpet control waste obtain
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

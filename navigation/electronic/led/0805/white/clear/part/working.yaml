@@ -1,3 +1,186 @@
+bip_39_word_new_br1: penalty
+bip_39_word_new_br10: penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck
+bip_39_word_new_br11: penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck<br>glove
+bip_39_word_new_br12: penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea<br>truck<br>glove<br>account
+bip_39_word_new_br2: penalty<br>fluid
+bip_39_word_new_br3: penalty<br>fluid<br>cinnamon
+bip_39_word_new_br4: penalty<br>fluid<br>cinnamon<br>worth
+bip_39_word_new_br5: penalty<br>fluid<br>cinnamon<br>worth<br>float
+bip_39_word_new_br6: penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite
+bip_39_word_new_br7: penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf
+bip_39_word_new_br8: penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway
+bip_39_word_new_br9: penalty<br>fluid<br>cinnamon<br>worth<br>float<br>elite<br>wolf<br>runway<br>sea
+bip_39_word_new_line1: penalty
+bip_39_word_new_line10: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth
+
+  float
+
+  elite
+
+  wolf
+
+  runway
+
+  sea
+
+  truck'
+bip_39_word_new_line11: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth
+
+  float
+
+  elite
+
+  wolf
+
+  runway
+
+  sea
+
+  truck
+
+  glove'
+bip_39_word_new_line12: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth
+
+  float
+
+  elite
+
+  wolf
+
+  runway
+
+  sea
+
+  truck
+
+  glove
+
+  account'
+bip_39_word_new_line2: 'penalty
+
+  fluid'
+bip_39_word_new_line3: 'penalty
+
+  fluid
+
+  cinnamon'
+bip_39_word_new_line4: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth'
+bip_39_word_new_line5: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth
+
+  float'
+bip_39_word_new_line6: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth
+
+  float
+
+  elite'
+bip_39_word_new_line7: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth
+
+  float
+
+  elite
+
+  wolf'
+bip_39_word_new_line8: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth
+
+  float
+
+  elite
+
+  wolf
+
+  runway'
+bip_39_word_new_line9: 'penalty
+
+  fluid
+
+  cinnamon
+
+  worth
+
+  float
+
+  elite
+
+  wolf
+
+  runway
+
+  sea'
+bip_39_word_space_0:
+- penalty
+- fluid
+- cinnamon
+- worth
+- float
+- elite
+- wolf
+- runway
+- sea
+- truck
+- glove
+- account
+bip_39_word_space_1: penalty
+bip_39_word_space_10: penalty fluid cinnamon worth float elite wolf runway sea truck
+bip_39_word_space_11: penalty fluid cinnamon worth float elite wolf runway sea truck
+  glove
+bip_39_word_space_12: penalty fluid cinnamon worth float elite wolf runway sea truck
+  glove account
+bip_39_word_space_2: penalty fluid
+bip_39_word_space_3: penalty fluid cinnamon
+bip_39_word_space_4: penalty fluid cinnamon worth
+bip_39_word_space_5: penalty fluid cinnamon worth float
+bip_39_word_space_6: penalty fluid cinnamon worth float elite
+bip_39_word_space_7: penalty fluid cinnamon worth float elite wolf
+bip_39_word_space_8: penalty fluid cinnamon worth float elite wolf runway
+bip_39_word_space_9: penalty fluid cinnamon worth float elite wolf runway sea
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

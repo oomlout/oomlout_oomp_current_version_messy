@@ -1,3 +1,186 @@
+bip_39_word_new_br1: seat
+bip_39_word_new_br10: seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt
+bip_39_word_new_br11: seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt<br>south
+bip_39_word_new_br12: seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred<br>aunt<br>south<br>art
+bip_39_word_new_br2: seat<br>doll
+bip_39_word_new_br3: seat<br>doll<br>smart
+bip_39_word_new_br4: seat<br>doll<br>smart<br>dream
+bip_39_word_new_br5: seat<br>doll<br>smart<br>dream<br>venture
+bip_39_word_new_br6: seat<br>doll<br>smart<br>dream<br>venture<br>snap
+bip_39_word_new_br7: seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself
+bip_39_word_new_br8: seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit
+bip_39_word_new_br9: seat<br>doll<br>smart<br>dream<br>venture<br>snap<br>myself<br>lawsuit<br>hundred
+bip_39_word_new_line1: seat
+bip_39_word_new_line10: 'seat
+
+  doll
+
+  smart
+
+  dream
+
+  venture
+
+  snap
+
+  myself
+
+  lawsuit
+
+  hundred
+
+  aunt'
+bip_39_word_new_line11: 'seat
+
+  doll
+
+  smart
+
+  dream
+
+  venture
+
+  snap
+
+  myself
+
+  lawsuit
+
+  hundred
+
+  aunt
+
+  south'
+bip_39_word_new_line12: 'seat
+
+  doll
+
+  smart
+
+  dream
+
+  venture
+
+  snap
+
+  myself
+
+  lawsuit
+
+  hundred
+
+  aunt
+
+  south
+
+  art'
+bip_39_word_new_line2: 'seat
+
+  doll'
+bip_39_word_new_line3: 'seat
+
+  doll
+
+  smart'
+bip_39_word_new_line4: 'seat
+
+  doll
+
+  smart
+
+  dream'
+bip_39_word_new_line5: 'seat
+
+  doll
+
+  smart
+
+  dream
+
+  venture'
+bip_39_word_new_line6: 'seat
+
+  doll
+
+  smart
+
+  dream
+
+  venture
+
+  snap'
+bip_39_word_new_line7: 'seat
+
+  doll
+
+  smart
+
+  dream
+
+  venture
+
+  snap
+
+  myself'
+bip_39_word_new_line8: 'seat
+
+  doll
+
+  smart
+
+  dream
+
+  venture
+
+  snap
+
+  myself
+
+  lawsuit'
+bip_39_word_new_line9: 'seat
+
+  doll
+
+  smart
+
+  dream
+
+  venture
+
+  snap
+
+  myself
+
+  lawsuit
+
+  hundred'
+bip_39_word_space_0:
+- seat
+- doll
+- smart
+- dream
+- venture
+- snap
+- myself
+- lawsuit
+- hundred
+- aunt
+- south
+- art
+bip_39_word_space_1: seat
+bip_39_word_space_10: seat doll smart dream venture snap myself lawsuit hundred aunt
+bip_39_word_space_11: seat doll smart dream venture snap myself lawsuit hundred aunt
+  south
+bip_39_word_space_12: seat doll smart dream venture snap myself lawsuit hundred aunt
+  south art
+bip_39_word_space_2: seat doll
+bip_39_word_space_3: seat doll smart
+bip_39_word_space_4: seat doll smart dream
+bip_39_word_space_5: seat doll smart dream venture
+bip_39_word_space_6: seat doll smart dream venture snap
+bip_39_word_space_7: seat doll smart dream venture snap myself
+bip_39_word_space_8: seat doll smart dream venture snap myself lawsuit
+bip_39_word_space_9: seat doll smart dream venture snap myself lawsuit hundred
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tribe melody
+  * bip 39 word 3: tribe melody abstract
+  * bip 39 word: tribe melody abstract violin edit enact twice heart poverty hint still above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tribe |  
+| bip_39_word_new_br10 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact<br>twice<br>heart<br>poverty<br>hint |  
+| bip_39_word_new_br11 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact<br>twice<br>heart<br>poverty<br>hint<br>still |  
+| bip_39_word_new_br12 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact<br>twice<br>heart<br>poverty<br>hint<br>still<br>above |  
+| bip_39_word_new_br2 | tribe<br>melody |  
+| bip_39_word_new_br3 | tribe<br>melody<br>abstract |  
+| bip_39_word_new_br4 | tribe<br>melody<br>abstract<br>violin |  
+| bip_39_word_new_br5 | tribe<br>melody<br>abstract<br>violin<br>edit |  
+| bip_39_word_new_br6 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact |  
+| bip_39_word_new_br7 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact<br>twice |  
+| bip_39_word_new_br8 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact<br>twice<br>heart |  
+| bip_39_word_new_br9 | tribe<br>melody<br>abstract<br>violin<br>edit<br>enact<br>twice<br>heart<br>poverty |  
+| bip_39_word_new_line1 | tribe |  
+| bip_39_word_new_line10 | tribe
+melody
+abstract
+violin
+edit
+enact
+twice
+heart
+poverty
+hint |  
+| bip_39_word_new_line11 | tribe
+melody
+abstract
+violin
+edit
+enact
+twice
+heart
+poverty
+hint
+still |  
+| bip_39_word_new_line12 | tribe
+melody
+abstract
+violin
+edit
+enact
+twice
+heart
+poverty
+hint
+still
+above |  
+| bip_39_word_new_line2 | tribe
+melody |  
+| bip_39_word_new_line3 | tribe
+melody
+abstract |  
+| bip_39_word_new_line4 | tribe
+melody
+abstract
+violin |  
+| bip_39_word_new_line5 | tribe
+melody
+abstract
+violin
+edit |  
+| bip_39_word_new_line6 | tribe
+melody
+abstract
+violin
+edit
+enact |  
+| bip_39_word_new_line7 | tribe
+melody
+abstract
+violin
+edit
+enact
+twice |  
+| bip_39_word_new_line8 | tribe
+melody
+abstract
+violin
+edit
+enact
+twice
+heart |  
+| bip_39_word_new_line9 | tribe
+melody
+abstract
+violin
+edit
+enact
+twice
+heart
+poverty |  
+| bip_39_word_space_0 | ['tribe', 'melody', 'abstract', 'violin', 'edit', 'enact', 'twice', 'heart', 'poverty', 'hint', 'still', 'above'] |  
+| bip_39_word_space_1 | tribe |  
+| bip_39_word_space_10 | tribe melody abstract violin edit enact twice heart poverty hint |  
+| bip_39_word_space_11 | tribe melody abstract violin edit enact twice heart poverty hint still |  
+| bip_39_word_space_12 | tribe melody abstract violin edit enact twice heart poverty hint still above |  
+| bip_39_word_space_2 | tribe melody |  
+| bip_39_word_space_3 | tribe melody abstract |  
+| bip_39_word_space_4 | tribe melody abstract violin |  
+| bip_39_word_space_5 | tribe melody abstract violin edit |  
+| bip_39_word_space_6 | tribe melody abstract violin edit enact |  
+| bip_39_word_space_7 | tribe melody abstract violin edit enact twice |  
+| bip_39_word_space_8 | tribe melody abstract violin edit enact twice heart |  
+| bip_39_word_space_9 | tribe melody abstract violin edit enact twice heart poverty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

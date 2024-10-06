@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wolf elephant
+  * bip 39 word 3: wolf elephant pipe
+  * bip 39 word: wolf elephant pipe smart purpose super quick setup enforce catalog leaf actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wolf |  
+| bip_39_word_new_br10 | wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super<br>quick<br>setup<br>enforce<br>catalog |  
+| bip_39_word_new_br11 | wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super<br>quick<br>setup<br>enforce<br>catalog<br>leaf |  
+| bip_39_word_new_br12 | wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super<br>quick<br>setup<br>enforce<br>catalog<br>leaf<br>actor |  
+| bip_39_word_new_br2 | wolf<br>elephant |  
+| bip_39_word_new_br3 | wolf<br>elephant<br>pipe |  
+| bip_39_word_new_br4 | wolf<br>elephant<br>pipe<br>smart |  
+| bip_39_word_new_br5 | wolf<br>elephant<br>pipe<br>smart<br>purpose |  
+| bip_39_word_new_br6 | wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super |  
+| bip_39_word_new_br7 | wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super<br>quick |  
+| bip_39_word_new_br8 | wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super<br>quick<br>setup |  
+| bip_39_word_new_br9 | wolf<br>elephant<br>pipe<br>smart<br>purpose<br>super<br>quick<br>setup<br>enforce |  
+| bip_39_word_new_line1 | wolf |  
+| bip_39_word_new_line10 | wolf
+elephant
+pipe
+smart
+purpose
+super
+quick
+setup
+enforce
+catalog |  
+| bip_39_word_new_line11 | wolf
+elephant
+pipe
+smart
+purpose
+super
+quick
+setup
+enforce
+catalog
+leaf |  
+| bip_39_word_new_line12 | wolf
+elephant
+pipe
+smart
+purpose
+super
+quick
+setup
+enforce
+catalog
+leaf
+actor |  
+| bip_39_word_new_line2 | wolf
+elephant |  
+| bip_39_word_new_line3 | wolf
+elephant
+pipe |  
+| bip_39_word_new_line4 | wolf
+elephant
+pipe
+smart |  
+| bip_39_word_new_line5 | wolf
+elephant
+pipe
+smart
+purpose |  
+| bip_39_word_new_line6 | wolf
+elephant
+pipe
+smart
+purpose
+super |  
+| bip_39_word_new_line7 | wolf
+elephant
+pipe
+smart
+purpose
+super
+quick |  
+| bip_39_word_new_line8 | wolf
+elephant
+pipe
+smart
+purpose
+super
+quick
+setup |  
+| bip_39_word_new_line9 | wolf
+elephant
+pipe
+smart
+purpose
+super
+quick
+setup
+enforce |  
+| bip_39_word_space_0 | ['wolf', 'elephant', 'pipe', 'smart', 'purpose', 'super', 'quick', 'setup', 'enforce', 'catalog', 'leaf', 'actor'] |  
+| bip_39_word_space_1 | wolf |  
+| bip_39_word_space_10 | wolf elephant pipe smart purpose super quick setup enforce catalog |  
+| bip_39_word_space_11 | wolf elephant pipe smart purpose super quick setup enforce catalog leaf |  
+| bip_39_word_space_12 | wolf elephant pipe smart purpose super quick setup enforce catalog leaf actor |  
+| bip_39_word_space_2 | wolf elephant |  
+| bip_39_word_space_3 | wolf elephant pipe |  
+| bip_39_word_space_4 | wolf elephant pipe smart |  
+| bip_39_word_space_5 | wolf elephant pipe smart purpose |  
+| bip_39_word_space_6 | wolf elephant pipe smart purpose super |  
+| bip_39_word_space_7 | wolf elephant pipe smart purpose super quick |  
+| bip_39_word_space_8 | wolf elephant pipe smart purpose super quick setup |  
+| bip_39_word_space_9 | wolf elephant pipe smart purpose super quick setup enforce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

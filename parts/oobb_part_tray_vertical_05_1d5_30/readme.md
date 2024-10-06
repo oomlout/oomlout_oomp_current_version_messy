@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rule dance
+  * bip 39 word 3: rule dance december
+  * bip 39 word: rule dance december inhale suit spot energy job fence country melt arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rule |  
+| bip_39_word_new_br10 | rule<br>dance<br>december<br>inhale<br>suit<br>spot<br>energy<br>job<br>fence<br>country |  
+| bip_39_word_new_br11 | rule<br>dance<br>december<br>inhale<br>suit<br>spot<br>energy<br>job<br>fence<br>country<br>melt |  
+| bip_39_word_new_br12 | rule<br>dance<br>december<br>inhale<br>suit<br>spot<br>energy<br>job<br>fence<br>country<br>melt<br>arrive |  
+| bip_39_word_new_br2 | rule<br>dance |  
+| bip_39_word_new_br3 | rule<br>dance<br>december |  
+| bip_39_word_new_br4 | rule<br>dance<br>december<br>inhale |  
+| bip_39_word_new_br5 | rule<br>dance<br>december<br>inhale<br>suit |  
+| bip_39_word_new_br6 | rule<br>dance<br>december<br>inhale<br>suit<br>spot |  
+| bip_39_word_new_br7 | rule<br>dance<br>december<br>inhale<br>suit<br>spot<br>energy |  
+| bip_39_word_new_br8 | rule<br>dance<br>december<br>inhale<br>suit<br>spot<br>energy<br>job |  
+| bip_39_word_new_br9 | rule<br>dance<br>december<br>inhale<br>suit<br>spot<br>energy<br>job<br>fence |  
+| bip_39_word_new_line1 | rule |  
+| bip_39_word_new_line10 | rule
+dance
+december
+inhale
+suit
+spot
+energy
+job
+fence
+country |  
+| bip_39_word_new_line11 | rule
+dance
+december
+inhale
+suit
+spot
+energy
+job
+fence
+country
+melt |  
+| bip_39_word_new_line12 | rule
+dance
+december
+inhale
+suit
+spot
+energy
+job
+fence
+country
+melt
+arrive |  
+| bip_39_word_new_line2 | rule
+dance |  
+| bip_39_word_new_line3 | rule
+dance
+december |  
+| bip_39_word_new_line4 | rule
+dance
+december
+inhale |  
+| bip_39_word_new_line5 | rule
+dance
+december
+inhale
+suit |  
+| bip_39_word_new_line6 | rule
+dance
+december
+inhale
+suit
+spot |  
+| bip_39_word_new_line7 | rule
+dance
+december
+inhale
+suit
+spot
+energy |  
+| bip_39_word_new_line8 | rule
+dance
+december
+inhale
+suit
+spot
+energy
+job |  
+| bip_39_word_new_line9 | rule
+dance
+december
+inhale
+suit
+spot
+energy
+job
+fence |  
+| bip_39_word_space_0 | ['rule', 'dance', 'december', 'inhale', 'suit', 'spot', 'energy', 'job', 'fence', 'country', 'melt', 'arrive'] |  
+| bip_39_word_space_1 | rule |  
+| bip_39_word_space_10 | rule dance december inhale suit spot energy job fence country |  
+| bip_39_word_space_11 | rule dance december inhale suit spot energy job fence country melt |  
+| bip_39_word_space_12 | rule dance december inhale suit spot energy job fence country melt arrive |  
+| bip_39_word_space_2 | rule dance |  
+| bip_39_word_space_3 | rule dance december |  
+| bip_39_word_space_4 | rule dance december inhale |  
+| bip_39_word_space_5 | rule dance december inhale suit |  
+| bip_39_word_space_6 | rule dance december inhale suit spot |  
+| bip_39_word_space_7 | rule dance december inhale suit spot energy |  
+| bip_39_word_space_8 | rule dance december inhale suit spot energy job |  
+| bip_39_word_space_9 | rule dance december inhale suit spot energy job fence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

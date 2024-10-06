@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: act valve
+  * bip 39 word 3: act valve vanish
+  * bip 39 word: act valve vanish pledge oak fan address daughter devote sunset lemon art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | act |  
+| bip_39_word_new_br10 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan<br>address<br>daughter<br>devote<br>sunset |  
+| bip_39_word_new_br11 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan<br>address<br>daughter<br>devote<br>sunset<br>lemon |  
+| bip_39_word_new_br12 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan<br>address<br>daughter<br>devote<br>sunset<br>lemon<br>art |  
+| bip_39_word_new_br2 | act<br>valve |  
+| bip_39_word_new_br3 | act<br>valve<br>vanish |  
+| bip_39_word_new_br4 | act<br>valve<br>vanish<br>pledge |  
+| bip_39_word_new_br5 | act<br>valve<br>vanish<br>pledge<br>oak |  
+| bip_39_word_new_br6 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan |  
+| bip_39_word_new_br7 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan<br>address |  
+| bip_39_word_new_br8 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan<br>address<br>daughter |  
+| bip_39_word_new_br9 | act<br>valve<br>vanish<br>pledge<br>oak<br>fan<br>address<br>daughter<br>devote |  
+| bip_39_word_new_line1 | act |  
+| bip_39_word_new_line10 | act
+valve
+vanish
+pledge
+oak
+fan
+address
+daughter
+devote
+sunset |  
+| bip_39_word_new_line11 | act
+valve
+vanish
+pledge
+oak
+fan
+address
+daughter
+devote
+sunset
+lemon |  
+| bip_39_word_new_line12 | act
+valve
+vanish
+pledge
+oak
+fan
+address
+daughter
+devote
+sunset
+lemon
+art |  
+| bip_39_word_new_line2 | act
+valve |  
+| bip_39_word_new_line3 | act
+valve
+vanish |  
+| bip_39_word_new_line4 | act
+valve
+vanish
+pledge |  
+| bip_39_word_new_line5 | act
+valve
+vanish
+pledge
+oak |  
+| bip_39_word_new_line6 | act
+valve
+vanish
+pledge
+oak
+fan |  
+| bip_39_word_new_line7 | act
+valve
+vanish
+pledge
+oak
+fan
+address |  
+| bip_39_word_new_line8 | act
+valve
+vanish
+pledge
+oak
+fan
+address
+daughter |  
+| bip_39_word_new_line9 | act
+valve
+vanish
+pledge
+oak
+fan
+address
+daughter
+devote |  
+| bip_39_word_space_0 | ['act', 'valve', 'vanish', 'pledge', 'oak', 'fan', 'address', 'daughter', 'devote', 'sunset', 'lemon', 'art'] |  
+| bip_39_word_space_1 | act |  
+| bip_39_word_space_10 | act valve vanish pledge oak fan address daughter devote sunset |  
+| bip_39_word_space_11 | act valve vanish pledge oak fan address daughter devote sunset lemon |  
+| bip_39_word_space_12 | act valve vanish pledge oak fan address daughter devote sunset lemon art |  
+| bip_39_word_space_2 | act valve |  
+| bip_39_word_space_3 | act valve vanish |  
+| bip_39_word_space_4 | act valve vanish pledge |  
+| bip_39_word_space_5 | act valve vanish pledge oak |  
+| bip_39_word_space_6 | act valve vanish pledge oak fan |  
+| bip_39_word_space_7 | act valve vanish pledge oak fan address |  
+| bip_39_word_space_8 | act valve vanish pledge oak fan address daughter |  
+| bip_39_word_space_9 | act valve vanish pledge oak fan address daughter devote |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

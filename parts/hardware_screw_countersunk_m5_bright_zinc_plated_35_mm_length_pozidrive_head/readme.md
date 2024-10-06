@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: put teach
+  * bip 39 word 3: put teach hockey
+  * bip 39 word: put teach hockey drip fancy normal surface hello reject trust avocado attitude
 
 ### other_codes
 * short_code: cs5bz35pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | put |  
+| bip_39_word_new_br10 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust |  
+| bip_39_word_new_br11 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust<br>avocado |  
+| bip_39_word_new_br12 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject<br>trust<br>avocado<br>attitude |  
+| bip_39_word_new_br2 | put<br>teach |  
+| bip_39_word_new_br3 | put<br>teach<br>hockey |  
+| bip_39_word_new_br4 | put<br>teach<br>hockey<br>drip |  
+| bip_39_word_new_br5 | put<br>teach<br>hockey<br>drip<br>fancy |  
+| bip_39_word_new_br6 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal |  
+| bip_39_word_new_br7 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface |  
+| bip_39_word_new_br8 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello |  
+| bip_39_word_new_br9 | put<br>teach<br>hockey<br>drip<br>fancy<br>normal<br>surface<br>hello<br>reject |  
+| bip_39_word_new_line1 | put |  
+| bip_39_word_new_line10 | put
+teach
+hockey
+drip
+fancy
+normal
+surface
+hello
+reject
+trust |  
+| bip_39_word_new_line11 | put
+teach
+hockey
+drip
+fancy
+normal
+surface
+hello
+reject
+trust
+avocado |  
+| bip_39_word_new_line12 | put
+teach
+hockey
+drip
+fancy
+normal
+surface
+hello
+reject
+trust
+avocado
+attitude |  
+| bip_39_word_new_line2 | put
+teach |  
+| bip_39_word_new_line3 | put
+teach
+hockey |  
+| bip_39_word_new_line4 | put
+teach
+hockey
+drip |  
+| bip_39_word_new_line5 | put
+teach
+hockey
+drip
+fancy |  
+| bip_39_word_new_line6 | put
+teach
+hockey
+drip
+fancy
+normal |  
+| bip_39_word_new_line7 | put
+teach
+hockey
+drip
+fancy
+normal
+surface |  
+| bip_39_word_new_line8 | put
+teach
+hockey
+drip
+fancy
+normal
+surface
+hello |  
+| bip_39_word_new_line9 | put
+teach
+hockey
+drip
+fancy
+normal
+surface
+hello
+reject |  
+| bip_39_word_space_0 | ['put', 'teach', 'hockey', 'drip', 'fancy', 'normal', 'surface', 'hello', 'reject', 'trust', 'avocado', 'attitude'] |  
+| bip_39_word_space_1 | put |  
+| bip_39_word_space_10 | put teach hockey drip fancy normal surface hello reject trust |  
+| bip_39_word_space_11 | put teach hockey drip fancy normal surface hello reject trust avocado |  
+| bip_39_word_space_12 | put teach hockey drip fancy normal surface hello reject trust avocado attitude |  
+| bip_39_word_space_2 | put teach |  
+| bip_39_word_space_3 | put teach hockey |  
+| bip_39_word_space_4 | put teach hockey drip |  
+| bip_39_word_space_5 | put teach hockey drip fancy |  
+| bip_39_word_space_6 | put teach hockey drip fancy normal |  
+| bip_39_word_space_7 | put teach hockey drip fancy normal surface |  
+| bip_39_word_space_8 | put teach hockey drip fancy normal surface hello |  
+| bip_39_word_space_9 | put teach hockey drip fancy normal surface hello reject |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

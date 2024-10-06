@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gauge lamp
+  * bip 39 word 3: gauge lamp cup
+  * bip 39 word: gauge lamp cup input flush tattoo kind skull degree roof auction almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gauge |  
+| bip_39_word_new_br10 | gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo<br>kind<br>skull<br>degree<br>roof |  
+| bip_39_word_new_br11 | gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo<br>kind<br>skull<br>degree<br>roof<br>auction |  
+| bip_39_word_new_br12 | gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo<br>kind<br>skull<br>degree<br>roof<br>auction<br>almost |  
+| bip_39_word_new_br2 | gauge<br>lamp |  
+| bip_39_word_new_br3 | gauge<br>lamp<br>cup |  
+| bip_39_word_new_br4 | gauge<br>lamp<br>cup<br>input |  
+| bip_39_word_new_br5 | gauge<br>lamp<br>cup<br>input<br>flush |  
+| bip_39_word_new_br6 | gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo |  
+| bip_39_word_new_br7 | gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo<br>kind |  
+| bip_39_word_new_br8 | gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo<br>kind<br>skull |  
+| bip_39_word_new_br9 | gauge<br>lamp<br>cup<br>input<br>flush<br>tattoo<br>kind<br>skull<br>degree |  
+| bip_39_word_new_line1 | gauge |  
+| bip_39_word_new_line10 | gauge
+lamp
+cup
+input
+flush
+tattoo
+kind
+skull
+degree
+roof |  
+| bip_39_word_new_line11 | gauge
+lamp
+cup
+input
+flush
+tattoo
+kind
+skull
+degree
+roof
+auction |  
+| bip_39_word_new_line12 | gauge
+lamp
+cup
+input
+flush
+tattoo
+kind
+skull
+degree
+roof
+auction
+almost |  
+| bip_39_word_new_line2 | gauge
+lamp |  
+| bip_39_word_new_line3 | gauge
+lamp
+cup |  
+| bip_39_word_new_line4 | gauge
+lamp
+cup
+input |  
+| bip_39_word_new_line5 | gauge
+lamp
+cup
+input
+flush |  
+| bip_39_word_new_line6 | gauge
+lamp
+cup
+input
+flush
+tattoo |  
+| bip_39_word_new_line7 | gauge
+lamp
+cup
+input
+flush
+tattoo
+kind |  
+| bip_39_word_new_line8 | gauge
+lamp
+cup
+input
+flush
+tattoo
+kind
+skull |  
+| bip_39_word_new_line9 | gauge
+lamp
+cup
+input
+flush
+tattoo
+kind
+skull
+degree |  
+| bip_39_word_space_0 | ['gauge', 'lamp', 'cup', 'input', 'flush', 'tattoo', 'kind', 'skull', 'degree', 'roof', 'auction', 'almost'] |  
+| bip_39_word_space_1 | gauge |  
+| bip_39_word_space_10 | gauge lamp cup input flush tattoo kind skull degree roof |  
+| bip_39_word_space_11 | gauge lamp cup input flush tattoo kind skull degree roof auction |  
+| bip_39_word_space_12 | gauge lamp cup input flush tattoo kind skull degree roof auction almost |  
+| bip_39_word_space_2 | gauge lamp |  
+| bip_39_word_space_3 | gauge lamp cup |  
+| bip_39_word_space_4 | gauge lamp cup input |  
+| bip_39_word_space_5 | gauge lamp cup input flush |  
+| bip_39_word_space_6 | gauge lamp cup input flush tattoo |  
+| bip_39_word_space_7 | gauge lamp cup input flush tattoo kind |  
+| bip_39_word_space_8 | gauge lamp cup input flush tattoo kind skull |  
+| bip_39_word_space_9 | gauge lamp cup input flush tattoo kind skull degree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

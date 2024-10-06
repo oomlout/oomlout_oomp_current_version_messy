@@ -1,3 +1,186 @@
+bip_39_word_new_br1: resemble
+bip_39_word_new_br10: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred
+bip_39_word_new_br11: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst
+bip_39_word_new_br12: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst<br>animal
+bip_39_word_new_br2: resemble<br>fog
+bip_39_word_new_br3: resemble<br>fog<br>rather
+bip_39_word_new_br4: resemble<br>fog<br>rather<br>cry
+bip_39_word_new_br5: resemble<br>fog<br>rather<br>cry<br>clarify
+bip_39_word_new_br6: resemble<br>fog<br>rather<br>cry<br>clarify<br>van
+bip_39_word_new_br7: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan
+bip_39_word_new_br8: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail
+bip_39_word_new_br9: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old
+bip_39_word_new_line1: resemble
+bip_39_word_new_line10: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail
+
+  old
+
+  hundred'
+bip_39_word_new_line11: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail
+
+  old
+
+  hundred
+
+  analyst'
+bip_39_word_new_line12: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail
+
+  old
+
+  hundred
+
+  analyst
+
+  animal'
+bip_39_word_new_line2: 'resemble
+
+  fog'
+bip_39_word_new_line3: 'resemble
+
+  fog
+
+  rather'
+bip_39_word_new_line4: 'resemble
+
+  fog
+
+  rather
+
+  cry'
+bip_39_word_new_line5: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify'
+bip_39_word_new_line6: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van'
+bip_39_word_new_line7: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan'
+bip_39_word_new_line8: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail'
+bip_39_word_new_line9: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail
+
+  old'
+bip_39_word_space_0:
+- resemble
+- fog
+- rather
+- cry
+- clarify
+- van
+- orphan
+- rail
+- old
+- hundred
+- analyst
+- animal
+bip_39_word_space_1: resemble
+bip_39_word_space_10: resemble fog rather cry clarify van orphan rail old hundred
+bip_39_word_space_11: resemble fog rather cry clarify van orphan rail old hundred
+  analyst
+bip_39_word_space_12: resemble fog rather cry clarify van orphan rail old hundred
+  analyst animal
+bip_39_word_space_2: resemble fog
+bip_39_word_space_3: resemble fog rather
+bip_39_word_space_4: resemble fog rather cry
+bip_39_word_space_5: resemble fog rather cry clarify
+bip_39_word_space_6: resemble fog rather cry clarify van
+bip_39_word_space_7: resemble fog rather cry clarify van orphan
+bip_39_word_space_8: resemble fog rather cry clarify van orphan rail
+bip_39_word_space_9: resemble fog rather cry clarify van orphan rail old
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

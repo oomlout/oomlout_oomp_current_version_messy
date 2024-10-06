@@ -1,3 +1,185 @@
+bip_39_word_new_br1: bind
+bip_39_word_new_br10: bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk
+bip_39_word_new_br11: bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk<br>thrive
+bip_39_word_new_br12: bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell<br>silk<br>thrive<br>appear
+bip_39_word_new_br2: bind<br>atom
+bip_39_word_new_br3: bind<br>atom<br>culture
+bip_39_word_new_br4: bind<br>atom<br>culture<br>walk
+bip_39_word_new_br5: bind<br>atom<br>culture<br>walk<br>skin
+bip_39_word_new_br6: bind<br>atom<br>culture<br>walk<br>skin<br>sister
+bip_39_word_new_br7: bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze
+bip_39_word_new_br8: bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add
+bip_39_word_new_br9: bind<br>atom<br>culture<br>walk<br>skin<br>sister<br>maze<br>add<br>sell
+bip_39_word_new_line1: bind
+bip_39_word_new_line10: 'bind
+
+  atom
+
+  culture
+
+  walk
+
+  skin
+
+  sister
+
+  maze
+
+  add
+
+  sell
+
+  silk'
+bip_39_word_new_line11: 'bind
+
+  atom
+
+  culture
+
+  walk
+
+  skin
+
+  sister
+
+  maze
+
+  add
+
+  sell
+
+  silk
+
+  thrive'
+bip_39_word_new_line12: 'bind
+
+  atom
+
+  culture
+
+  walk
+
+  skin
+
+  sister
+
+  maze
+
+  add
+
+  sell
+
+  silk
+
+  thrive
+
+  appear'
+bip_39_word_new_line2: 'bind
+
+  atom'
+bip_39_word_new_line3: 'bind
+
+  atom
+
+  culture'
+bip_39_word_new_line4: 'bind
+
+  atom
+
+  culture
+
+  walk'
+bip_39_word_new_line5: 'bind
+
+  atom
+
+  culture
+
+  walk
+
+  skin'
+bip_39_word_new_line6: 'bind
+
+  atom
+
+  culture
+
+  walk
+
+  skin
+
+  sister'
+bip_39_word_new_line7: 'bind
+
+  atom
+
+  culture
+
+  walk
+
+  skin
+
+  sister
+
+  maze'
+bip_39_word_new_line8: 'bind
+
+  atom
+
+  culture
+
+  walk
+
+  skin
+
+  sister
+
+  maze
+
+  add'
+bip_39_word_new_line9: 'bind
+
+  atom
+
+  culture
+
+  walk
+
+  skin
+
+  sister
+
+  maze
+
+  add
+
+  sell'
+bip_39_word_space_0:
+- bind
+- atom
+- culture
+- walk
+- skin
+- sister
+- maze
+- add
+- sell
+- silk
+- thrive
+- appear
+bip_39_word_space_1: bind
+bip_39_word_space_10: bind atom culture walk skin sister maze add sell silk
+bip_39_word_space_11: bind atom culture walk skin sister maze add sell silk thrive
+bip_39_word_space_12: bind atom culture walk skin sister maze add sell silk thrive
+  appear
+bip_39_word_space_2: bind atom
+bip_39_word_space_3: bind atom culture
+bip_39_word_space_4: bind atom culture walk
+bip_39_word_space_5: bind atom culture walk skin
+bip_39_word_space_6: bind atom culture walk skin sister
+bip_39_word_space_7: bind atom culture walk skin sister maze
+bip_39_word_space_8: bind atom culture walk skin sister maze add
+bip_39_word_space_9: bind atom culture walk skin sister maze add sell
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

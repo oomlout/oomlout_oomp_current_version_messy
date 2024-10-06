@@ -1,3 +1,187 @@
+bip_39_word_new_br1: reduce
+bip_39_word_new_br10: reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple<br>melody<br>figure<br>endorse<br>script
+bip_39_word_new_br11: reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple<br>melody<br>figure<br>endorse<br>script<br>invite
+bip_39_word_new_br12: reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple<br>melody<br>figure<br>endorse<br>script<br>invite<br>around
+bip_39_word_new_br2: reduce<br>ladder
+bip_39_word_new_br3: reduce<br>ladder<br>illness
+bip_39_word_new_br4: reduce<br>ladder<br>illness<br>utility
+bip_39_word_new_br5: reduce<br>ladder<br>illness<br>utility<br>ticket
+bip_39_word_new_br6: reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple
+bip_39_word_new_br7: reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple<br>melody
+bip_39_word_new_br8: reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple<br>melody<br>figure
+bip_39_word_new_br9: reduce<br>ladder<br>illness<br>utility<br>ticket<br>ripple<br>melody<br>figure<br>endorse
+bip_39_word_new_line1: reduce
+bip_39_word_new_line10: 'reduce
+
+  ladder
+
+  illness
+
+  utility
+
+  ticket
+
+  ripple
+
+  melody
+
+  figure
+
+  endorse
+
+  script'
+bip_39_word_new_line11: 'reduce
+
+  ladder
+
+  illness
+
+  utility
+
+  ticket
+
+  ripple
+
+  melody
+
+  figure
+
+  endorse
+
+  script
+
+  invite'
+bip_39_word_new_line12: 'reduce
+
+  ladder
+
+  illness
+
+  utility
+
+  ticket
+
+  ripple
+
+  melody
+
+  figure
+
+  endorse
+
+  script
+
+  invite
+
+  around'
+bip_39_word_new_line2: 'reduce
+
+  ladder'
+bip_39_word_new_line3: 'reduce
+
+  ladder
+
+  illness'
+bip_39_word_new_line4: 'reduce
+
+  ladder
+
+  illness
+
+  utility'
+bip_39_word_new_line5: 'reduce
+
+  ladder
+
+  illness
+
+  utility
+
+  ticket'
+bip_39_word_new_line6: 'reduce
+
+  ladder
+
+  illness
+
+  utility
+
+  ticket
+
+  ripple'
+bip_39_word_new_line7: 'reduce
+
+  ladder
+
+  illness
+
+  utility
+
+  ticket
+
+  ripple
+
+  melody'
+bip_39_word_new_line8: 'reduce
+
+  ladder
+
+  illness
+
+  utility
+
+  ticket
+
+  ripple
+
+  melody
+
+  figure'
+bip_39_word_new_line9: 'reduce
+
+  ladder
+
+  illness
+
+  utility
+
+  ticket
+
+  ripple
+
+  melody
+
+  figure
+
+  endorse'
+bip_39_word_space_0:
+- reduce
+- ladder
+- illness
+- utility
+- ticket
+- ripple
+- melody
+- figure
+- endorse
+- script
+- invite
+- around
+bip_39_word_space_1: reduce
+bip_39_word_space_10: reduce ladder illness utility ticket ripple melody figure endorse
+  script
+bip_39_word_space_11: reduce ladder illness utility ticket ripple melody figure endorse
+  script invite
+bip_39_word_space_12: reduce ladder illness utility ticket ripple melody figure endorse
+  script invite around
+bip_39_word_space_2: reduce ladder
+bip_39_word_space_3: reduce ladder illness
+bip_39_word_space_4: reduce ladder illness utility
+bip_39_word_space_5: reduce ladder illness utility ticket
+bip_39_word_space_6: reduce ladder illness utility ticket ripple
+bip_39_word_space_7: reduce ladder illness utility ticket ripple melody
+bip_39_word_space_8: reduce ladder illness utility ticket ripple melody figure
+bip_39_word_space_9: reduce ladder illness utility ticket ripple melody figure endorse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

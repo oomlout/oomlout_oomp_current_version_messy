@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faith age
+  * bip 39 word 3: faith age valid
+  * bip 39 word: faith age valid ritual foot lift seat system paper strategy ethics actress
 
 ### other_codes
 * short_code: ss8m16
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faith |  
+| bip_39_word_new_br10 | faith<br>age<br>valid<br>ritual<br>foot<br>lift<br>seat<br>system<br>paper<br>strategy |  
+| bip_39_word_new_br11 | faith<br>age<br>valid<br>ritual<br>foot<br>lift<br>seat<br>system<br>paper<br>strategy<br>ethics |  
+| bip_39_word_new_br12 | faith<br>age<br>valid<br>ritual<br>foot<br>lift<br>seat<br>system<br>paper<br>strategy<br>ethics<br>actress |  
+| bip_39_word_new_br2 | faith<br>age |  
+| bip_39_word_new_br3 | faith<br>age<br>valid |  
+| bip_39_word_new_br4 | faith<br>age<br>valid<br>ritual |  
+| bip_39_word_new_br5 | faith<br>age<br>valid<br>ritual<br>foot |  
+| bip_39_word_new_br6 | faith<br>age<br>valid<br>ritual<br>foot<br>lift |  
+| bip_39_word_new_br7 | faith<br>age<br>valid<br>ritual<br>foot<br>lift<br>seat |  
+| bip_39_word_new_br8 | faith<br>age<br>valid<br>ritual<br>foot<br>lift<br>seat<br>system |  
+| bip_39_word_new_br9 | faith<br>age<br>valid<br>ritual<br>foot<br>lift<br>seat<br>system<br>paper |  
+| bip_39_word_new_line1 | faith |  
+| bip_39_word_new_line10 | faith
+age
+valid
+ritual
+foot
+lift
+seat
+system
+paper
+strategy |  
+| bip_39_word_new_line11 | faith
+age
+valid
+ritual
+foot
+lift
+seat
+system
+paper
+strategy
+ethics |  
+| bip_39_word_new_line12 | faith
+age
+valid
+ritual
+foot
+lift
+seat
+system
+paper
+strategy
+ethics
+actress |  
+| bip_39_word_new_line2 | faith
+age |  
+| bip_39_word_new_line3 | faith
+age
+valid |  
+| bip_39_word_new_line4 | faith
+age
+valid
+ritual |  
+| bip_39_word_new_line5 | faith
+age
+valid
+ritual
+foot |  
+| bip_39_word_new_line6 | faith
+age
+valid
+ritual
+foot
+lift |  
+| bip_39_word_new_line7 | faith
+age
+valid
+ritual
+foot
+lift
+seat |  
+| bip_39_word_new_line8 | faith
+age
+valid
+ritual
+foot
+lift
+seat
+system |  
+| bip_39_word_new_line9 | faith
+age
+valid
+ritual
+foot
+lift
+seat
+system
+paper |  
+| bip_39_word_space_0 | ['faith', 'age', 'valid', 'ritual', 'foot', 'lift', 'seat', 'system', 'paper', 'strategy', 'ethics', 'actress'] |  
+| bip_39_word_space_1 | faith |  
+| bip_39_word_space_10 | faith age valid ritual foot lift seat system paper strategy |  
+| bip_39_word_space_11 | faith age valid ritual foot lift seat system paper strategy ethics |  
+| bip_39_word_space_12 | faith age valid ritual foot lift seat system paper strategy ethics actress |  
+| bip_39_word_space_2 | faith age |  
+| bip_39_word_space_3 | faith age valid |  
+| bip_39_word_space_4 | faith age valid ritual |  
+| bip_39_word_space_5 | faith age valid ritual foot |  
+| bip_39_word_space_6 | faith age valid ritual foot lift |  
+| bip_39_word_space_7 | faith age valid ritual foot lift seat |  
+| bip_39_word_space_8 | faith age valid ritual foot lift seat system |  
+| bip_39_word_space_9 | faith age valid ritual foot lift seat system paper |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

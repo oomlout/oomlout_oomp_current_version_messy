@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: layer cram
+  * bip 39 word 3: layer cram remember
+  * bip 39 word: layer cram remember connect agent enough love dial business crop smoke april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | layer |  
+| bip_39_word_new_br10 | layer<br>cram<br>remember<br>connect<br>agent<br>enough<br>love<br>dial<br>business<br>crop |  
+| bip_39_word_new_br11 | layer<br>cram<br>remember<br>connect<br>agent<br>enough<br>love<br>dial<br>business<br>crop<br>smoke |  
+| bip_39_word_new_br12 | layer<br>cram<br>remember<br>connect<br>agent<br>enough<br>love<br>dial<br>business<br>crop<br>smoke<br>april |  
+| bip_39_word_new_br2 | layer<br>cram |  
+| bip_39_word_new_br3 | layer<br>cram<br>remember |  
+| bip_39_word_new_br4 | layer<br>cram<br>remember<br>connect |  
+| bip_39_word_new_br5 | layer<br>cram<br>remember<br>connect<br>agent |  
+| bip_39_word_new_br6 | layer<br>cram<br>remember<br>connect<br>agent<br>enough |  
+| bip_39_word_new_br7 | layer<br>cram<br>remember<br>connect<br>agent<br>enough<br>love |  
+| bip_39_word_new_br8 | layer<br>cram<br>remember<br>connect<br>agent<br>enough<br>love<br>dial |  
+| bip_39_word_new_br9 | layer<br>cram<br>remember<br>connect<br>agent<br>enough<br>love<br>dial<br>business |  
+| bip_39_word_new_line1 | layer |  
+| bip_39_word_new_line10 | layer
+cram
+remember
+connect
+agent
+enough
+love
+dial
+business
+crop |  
+| bip_39_word_new_line11 | layer
+cram
+remember
+connect
+agent
+enough
+love
+dial
+business
+crop
+smoke |  
+| bip_39_word_new_line12 | layer
+cram
+remember
+connect
+agent
+enough
+love
+dial
+business
+crop
+smoke
+april |  
+| bip_39_word_new_line2 | layer
+cram |  
+| bip_39_word_new_line3 | layer
+cram
+remember |  
+| bip_39_word_new_line4 | layer
+cram
+remember
+connect |  
+| bip_39_word_new_line5 | layer
+cram
+remember
+connect
+agent |  
+| bip_39_word_new_line6 | layer
+cram
+remember
+connect
+agent
+enough |  
+| bip_39_word_new_line7 | layer
+cram
+remember
+connect
+agent
+enough
+love |  
+| bip_39_word_new_line8 | layer
+cram
+remember
+connect
+agent
+enough
+love
+dial |  
+| bip_39_word_new_line9 | layer
+cram
+remember
+connect
+agent
+enough
+love
+dial
+business |  
+| bip_39_word_space_0 | ['layer', 'cram', 'remember', 'connect', 'agent', 'enough', 'love', 'dial', 'business', 'crop', 'smoke', 'april'] |  
+| bip_39_word_space_1 | layer |  
+| bip_39_word_space_10 | layer cram remember connect agent enough love dial business crop |  
+| bip_39_word_space_11 | layer cram remember connect agent enough love dial business crop smoke |  
+| bip_39_word_space_12 | layer cram remember connect agent enough love dial business crop smoke april |  
+| bip_39_word_space_2 | layer cram |  
+| bip_39_word_space_3 | layer cram remember |  
+| bip_39_word_space_4 | layer cram remember connect |  
+| bip_39_word_space_5 | layer cram remember connect agent |  
+| bip_39_word_space_6 | layer cram remember connect agent enough |  
+| bip_39_word_space_7 | layer cram remember connect agent enough love |  
+| bip_39_word_space_8 | layer cram remember connect agent enough love dial |  
+| bip_39_word_space_9 | layer cram remember connect agent enough love dial business |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

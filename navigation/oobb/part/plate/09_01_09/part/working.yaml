@@ -1,3 +1,186 @@
+bip_39_word_new_br1: slender
+bip_39_word_new_br10: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion<br>sniff<br>crisp
+bip_39_word_new_br11: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion<br>sniff<br>crisp<br>bunker
+bip_39_word_new_br12: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion<br>sniff<br>crisp<br>bunker<br>atom
+bip_39_word_new_br2: slender<br>wheat
+bip_39_word_new_br3: slender<br>wheat<br>abuse
+bip_39_word_new_br4: slender<br>wheat<br>abuse<br>head
+bip_39_word_new_br5: slender<br>wheat<br>abuse<br>head<br>size
+bip_39_word_new_br6: slender<br>wheat<br>abuse<br>head<br>size<br>sleep
+bip_39_word_new_br7: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp
+bip_39_word_new_br8: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion
+bip_39_word_new_br9: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion<br>sniff
+bip_39_word_new_line1: slender
+bip_39_word_new_line10: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion
+
+  sniff
+
+  crisp'
+bip_39_word_new_line11: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion
+
+  sniff
+
+  crisp
+
+  bunker'
+bip_39_word_new_line12: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion
+
+  sniff
+
+  crisp
+
+  bunker
+
+  atom'
+bip_39_word_new_line2: 'slender
+
+  wheat'
+bip_39_word_new_line3: 'slender
+
+  wheat
+
+  abuse'
+bip_39_word_new_line4: 'slender
+
+  wheat
+
+  abuse
+
+  head'
+bip_39_word_new_line5: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size'
+bip_39_word_new_line6: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep'
+bip_39_word_new_line7: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp'
+bip_39_word_new_line8: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion'
+bip_39_word_new_line9: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion
+
+  sniff'
+bip_39_word_space_0:
+- slender
+- wheat
+- abuse
+- head
+- size
+- sleep
+- camp
+- erosion
+- sniff
+- crisp
+- bunker
+- atom
+bip_39_word_space_1: slender
+bip_39_word_space_10: slender wheat abuse head size sleep camp erosion sniff crisp
+bip_39_word_space_11: slender wheat abuse head size sleep camp erosion sniff crisp
+  bunker
+bip_39_word_space_12: slender wheat abuse head size sleep camp erosion sniff crisp
+  bunker atom
+bip_39_word_space_2: slender wheat
+bip_39_word_space_3: slender wheat abuse
+bip_39_word_space_4: slender wheat abuse head
+bip_39_word_space_5: slender wheat abuse head size
+bip_39_word_space_6: slender wheat abuse head size sleep
+bip_39_word_space_7: slender wheat abuse head size sleep camp
+bip_39_word_space_8: slender wheat abuse head size sleep camp erosion
+bip_39_word_space_9: slender wheat abuse head size sleep camp erosion sniff
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: spray
+bip_39_word_new_br10: spray<br>size<br>glove<br>admit<br>task<br>hybrid<br>swing<br>still<br>tilt<br>still
+bip_39_word_new_br11: spray<br>size<br>glove<br>admit<br>task<br>hybrid<br>swing<br>still<br>tilt<br>still<br>trim
+bip_39_word_new_br12: spray<br>size<br>glove<br>admit<br>task<br>hybrid<br>swing<br>still<br>tilt<br>still<br>trim<br>abuse
+bip_39_word_new_br2: spray<br>size
+bip_39_word_new_br3: spray<br>size<br>glove
+bip_39_word_new_br4: spray<br>size<br>glove<br>admit
+bip_39_word_new_br5: spray<br>size<br>glove<br>admit<br>task
+bip_39_word_new_br6: spray<br>size<br>glove<br>admit<br>task<br>hybrid
+bip_39_word_new_br7: spray<br>size<br>glove<br>admit<br>task<br>hybrid<br>swing
+bip_39_word_new_br8: spray<br>size<br>glove<br>admit<br>task<br>hybrid<br>swing<br>still
+bip_39_word_new_br9: spray<br>size<br>glove<br>admit<br>task<br>hybrid<br>swing<br>still<br>tilt
+bip_39_word_new_line1: spray
+bip_39_word_new_line10: 'spray
+
+  size
+
+  glove
+
+  admit
+
+  task
+
+  hybrid
+
+  swing
+
+  still
+
+  tilt
+
+  still'
+bip_39_word_new_line11: 'spray
+
+  size
+
+  glove
+
+  admit
+
+  task
+
+  hybrid
+
+  swing
+
+  still
+
+  tilt
+
+  still
+
+  trim'
+bip_39_word_new_line12: 'spray
+
+  size
+
+  glove
+
+  admit
+
+  task
+
+  hybrid
+
+  swing
+
+  still
+
+  tilt
+
+  still
+
+  trim
+
+  abuse'
+bip_39_word_new_line2: 'spray
+
+  size'
+bip_39_word_new_line3: 'spray
+
+  size
+
+  glove'
+bip_39_word_new_line4: 'spray
+
+  size
+
+  glove
+
+  admit'
+bip_39_word_new_line5: 'spray
+
+  size
+
+  glove
+
+  admit
+
+  task'
+bip_39_word_new_line6: 'spray
+
+  size
+
+  glove
+
+  admit
+
+  task
+
+  hybrid'
+bip_39_word_new_line7: 'spray
+
+  size
+
+  glove
+
+  admit
+
+  task
+
+  hybrid
+
+  swing'
+bip_39_word_new_line8: 'spray
+
+  size
+
+  glove
+
+  admit
+
+  task
+
+  hybrid
+
+  swing
+
+  still'
+bip_39_word_new_line9: 'spray
+
+  size
+
+  glove
+
+  admit
+
+  task
+
+  hybrid
+
+  swing
+
+  still
+
+  tilt'
+bip_39_word_space_0:
+- spray
+- size
+- glove
+- admit
+- task
+- hybrid
+- swing
+- still
+- tilt
+- still
+- trim
+- abuse
+bip_39_word_space_1: spray
+bip_39_word_space_10: spray size glove admit task hybrid swing still tilt still
+bip_39_word_space_11: spray size glove admit task hybrid swing still tilt still trim
+bip_39_word_space_12: spray size glove admit task hybrid swing still tilt still trim
+  abuse
+bip_39_word_space_2: spray size
+bip_39_word_space_3: spray size glove
+bip_39_word_space_4: spray size glove admit
+bip_39_word_space_5: spray size glove admit task
+bip_39_word_space_6: spray size glove admit task hybrid
+bip_39_word_space_7: spray size glove admit task hybrid swing
+bip_39_word_space_8: spray size glove admit task hybrid swing still
+bip_39_word_space_9: spray size glove admit task hybrid swing still tilt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

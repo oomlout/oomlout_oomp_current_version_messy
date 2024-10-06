@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swift bus
+  * bip 39 word 3: swift bus car
+  * bip 39 word: swift bus car grape name awesome salmon analyst wise afford coil author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swift |  
+| bip_39_word_new_br10 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford |  
+| bip_39_word_new_br11 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford<br>coil |  
+| bip_39_word_new_br12 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford<br>coil<br>author |  
+| bip_39_word_new_br2 | swift<br>bus |  
+| bip_39_word_new_br3 | swift<br>bus<br>car |  
+| bip_39_word_new_br4 | swift<br>bus<br>car<br>grape |  
+| bip_39_word_new_br5 | swift<br>bus<br>car<br>grape<br>name |  
+| bip_39_word_new_br6 | swift<br>bus<br>car<br>grape<br>name<br>awesome |  
+| bip_39_word_new_br7 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon |  
+| bip_39_word_new_br8 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst |  
+| bip_39_word_new_br9 | swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise |  
+| bip_39_word_new_line1 | swift |  
+| bip_39_word_new_line10 | swift
+bus
+car
+grape
+name
+awesome
+salmon
+analyst
+wise
+afford |  
+| bip_39_word_new_line11 | swift
+bus
+car
+grape
+name
+awesome
+salmon
+analyst
+wise
+afford
+coil |  
+| bip_39_word_new_line12 | swift
+bus
+car
+grape
+name
+awesome
+salmon
+analyst
+wise
+afford
+coil
+author |  
+| bip_39_word_new_line2 | swift
+bus |  
+| bip_39_word_new_line3 | swift
+bus
+car |  
+| bip_39_word_new_line4 | swift
+bus
+car
+grape |  
+| bip_39_word_new_line5 | swift
+bus
+car
+grape
+name |  
+| bip_39_word_new_line6 | swift
+bus
+car
+grape
+name
+awesome |  
+| bip_39_word_new_line7 | swift
+bus
+car
+grape
+name
+awesome
+salmon |  
+| bip_39_word_new_line8 | swift
+bus
+car
+grape
+name
+awesome
+salmon
+analyst |  
+| bip_39_word_new_line9 | swift
+bus
+car
+grape
+name
+awesome
+salmon
+analyst
+wise |  
+| bip_39_word_space_0 | ['swift', 'bus', 'car', 'grape', 'name', 'awesome', 'salmon', 'analyst', 'wise', 'afford', 'coil', 'author'] |  
+| bip_39_word_space_1 | swift |  
+| bip_39_word_space_10 | swift bus car grape name awesome salmon analyst wise afford |  
+| bip_39_word_space_11 | swift bus car grape name awesome salmon analyst wise afford coil |  
+| bip_39_word_space_12 | swift bus car grape name awesome salmon analyst wise afford coil author |  
+| bip_39_word_space_2 | swift bus |  
+| bip_39_word_space_3 | swift bus car |  
+| bip_39_word_space_4 | swift bus car grape |  
+| bip_39_word_space_5 | swift bus car grape name |  
+| bip_39_word_space_6 | swift bus car grape name awesome |  
+| bip_39_word_space_7 | swift bus car grape name awesome salmon |  
+| bip_39_word_space_8 | swift bus car grape name awesome salmon analyst |  
+| bip_39_word_space_9 | swift bus car grape name awesome salmon analyst wise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

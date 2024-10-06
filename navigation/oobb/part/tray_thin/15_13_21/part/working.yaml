@@ -1,3 +1,185 @@
+bip_39_word_new_br1: one
+bip_39_word_new_br10: one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select
+bip_39_word_new_br11: one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select<br>lock
+bip_39_word_new_br12: one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art<br>select<br>lock<br>actress
+bip_39_word_new_br2: one<br>anchor
+bip_39_word_new_br3: one<br>anchor<br>shield
+bip_39_word_new_br4: one<br>anchor<br>shield<br>staff
+bip_39_word_new_br5: one<br>anchor<br>shield<br>staff<br>man
+bip_39_word_new_br6: one<br>anchor<br>shield<br>staff<br>man<br>giggle
+bip_39_word_new_br7: one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt
+bip_39_word_new_br8: one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human
+bip_39_word_new_br9: one<br>anchor<br>shield<br>staff<br>man<br>giggle<br>guilt<br>human<br>art
+bip_39_word_new_line1: one
+bip_39_word_new_line10: 'one
+
+  anchor
+
+  shield
+
+  staff
+
+  man
+
+  giggle
+
+  guilt
+
+  human
+
+  art
+
+  select'
+bip_39_word_new_line11: 'one
+
+  anchor
+
+  shield
+
+  staff
+
+  man
+
+  giggle
+
+  guilt
+
+  human
+
+  art
+
+  select
+
+  lock'
+bip_39_word_new_line12: 'one
+
+  anchor
+
+  shield
+
+  staff
+
+  man
+
+  giggle
+
+  guilt
+
+  human
+
+  art
+
+  select
+
+  lock
+
+  actress'
+bip_39_word_new_line2: 'one
+
+  anchor'
+bip_39_word_new_line3: 'one
+
+  anchor
+
+  shield'
+bip_39_word_new_line4: 'one
+
+  anchor
+
+  shield
+
+  staff'
+bip_39_word_new_line5: 'one
+
+  anchor
+
+  shield
+
+  staff
+
+  man'
+bip_39_word_new_line6: 'one
+
+  anchor
+
+  shield
+
+  staff
+
+  man
+
+  giggle'
+bip_39_word_new_line7: 'one
+
+  anchor
+
+  shield
+
+  staff
+
+  man
+
+  giggle
+
+  guilt'
+bip_39_word_new_line8: 'one
+
+  anchor
+
+  shield
+
+  staff
+
+  man
+
+  giggle
+
+  guilt
+
+  human'
+bip_39_word_new_line9: 'one
+
+  anchor
+
+  shield
+
+  staff
+
+  man
+
+  giggle
+
+  guilt
+
+  human
+
+  art'
+bip_39_word_space_0:
+- one
+- anchor
+- shield
+- staff
+- man
+- giggle
+- guilt
+- human
+- art
+- select
+- lock
+- actress
+bip_39_word_space_1: one
+bip_39_word_space_10: one anchor shield staff man giggle guilt human art select
+bip_39_word_space_11: one anchor shield staff man giggle guilt human art select lock
+bip_39_word_space_12: one anchor shield staff man giggle guilt human art select lock
+  actress
+bip_39_word_space_2: one anchor
+bip_39_word_space_3: one anchor shield
+bip_39_word_space_4: one anchor shield staff
+bip_39_word_space_5: one anchor shield staff man
+bip_39_word_space_6: one anchor shield staff man giggle
+bip_39_word_space_7: one anchor shield staff man giggle guilt
+bip_39_word_space_8: one anchor shield staff man giggle guilt human
+bip_39_word_space_9: one anchor shield staff man giggle guilt human art
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

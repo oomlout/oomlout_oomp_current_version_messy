@@ -1,3 +1,187 @@
+bip_39_word_new_br1: parade
+bip_39_word_new_br10: parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior
+bip_39_word_new_br11: parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior<br>tunnel
+bip_39_word_new_br12: parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude<br>warrior<br>tunnel<br>affair
+bip_39_word_new_br2: parade<br>depend
+bip_39_word_new_br3: parade<br>depend<br>science
+bip_39_word_new_br4: parade<br>depend<br>science<br>service
+bip_39_word_new_br5: parade<br>depend<br>science<br>service<br>stand
+bip_39_word_new_br6: parade<br>depend<br>science<br>service<br>stand<br>spider
+bip_39_word_new_br7: parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap
+bip_39_word_new_br8: parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome
+bip_39_word_new_br9: parade<br>depend<br>science<br>service<br>stand<br>spider<br>gap<br>welcome<br>attitude
+bip_39_word_new_line1: parade
+bip_39_word_new_line10: 'parade
+
+  depend
+
+  science
+
+  service
+
+  stand
+
+  spider
+
+  gap
+
+  welcome
+
+  attitude
+
+  warrior'
+bip_39_word_new_line11: 'parade
+
+  depend
+
+  science
+
+  service
+
+  stand
+
+  spider
+
+  gap
+
+  welcome
+
+  attitude
+
+  warrior
+
+  tunnel'
+bip_39_word_new_line12: 'parade
+
+  depend
+
+  science
+
+  service
+
+  stand
+
+  spider
+
+  gap
+
+  welcome
+
+  attitude
+
+  warrior
+
+  tunnel
+
+  affair'
+bip_39_word_new_line2: 'parade
+
+  depend'
+bip_39_word_new_line3: 'parade
+
+  depend
+
+  science'
+bip_39_word_new_line4: 'parade
+
+  depend
+
+  science
+
+  service'
+bip_39_word_new_line5: 'parade
+
+  depend
+
+  science
+
+  service
+
+  stand'
+bip_39_word_new_line6: 'parade
+
+  depend
+
+  science
+
+  service
+
+  stand
+
+  spider'
+bip_39_word_new_line7: 'parade
+
+  depend
+
+  science
+
+  service
+
+  stand
+
+  spider
+
+  gap'
+bip_39_word_new_line8: 'parade
+
+  depend
+
+  science
+
+  service
+
+  stand
+
+  spider
+
+  gap
+
+  welcome'
+bip_39_word_new_line9: 'parade
+
+  depend
+
+  science
+
+  service
+
+  stand
+
+  spider
+
+  gap
+
+  welcome
+
+  attitude'
+bip_39_word_space_0:
+- parade
+- depend
+- science
+- service
+- stand
+- spider
+- gap
+- welcome
+- attitude
+- warrior
+- tunnel
+- affair
+bip_39_word_space_1: parade
+bip_39_word_space_10: parade depend science service stand spider gap welcome attitude
+  warrior
+bip_39_word_space_11: parade depend science service stand spider gap welcome attitude
+  warrior tunnel
+bip_39_word_space_12: parade depend science service stand spider gap welcome attitude
+  warrior tunnel affair
+bip_39_word_space_2: parade depend
+bip_39_word_space_3: parade depend science
+bip_39_word_space_4: parade depend science service
+bip_39_word_space_5: parade depend science service stand
+bip_39_word_space_6: parade depend science service stand spider
+bip_39_word_space_7: parade depend science service stand spider gap
+bip_39_word_space_8: parade depend science service stand spider gap welcome
+bip_39_word_space_9: parade depend science service stand spider gap welcome attitude
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

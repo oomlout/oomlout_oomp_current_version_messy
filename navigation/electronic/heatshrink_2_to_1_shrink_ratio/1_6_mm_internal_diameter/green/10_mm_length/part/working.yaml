@@ -1,3 +1,186 @@
+bip_39_word_new_br1: before
+bip_39_word_new_br10: before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid
+bip_39_word_new_br11: before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid<br>vicious
+bip_39_word_new_br12: before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior<br>pyramid<br>vicious<br>advance
+bip_39_word_new_br2: before<br>mom
+bip_39_word_new_br3: before<br>mom<br>neutral
+bip_39_word_new_br4: before<br>mom<br>neutral<br>snake
+bip_39_word_new_br5: before<br>mom<br>neutral<br>snake<br>long
+bip_39_word_new_br6: before<br>mom<br>neutral<br>snake<br>long<br>garage
+bip_39_word_new_br7: before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor
+bip_39_word_new_br8: before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix
+bip_39_word_new_br9: before<br>mom<br>neutral<br>snake<br>long<br>garage<br>vendor<br>fix<br>warrior
+bip_39_word_new_line1: before
+bip_39_word_new_line10: 'before
+
+  mom
+
+  neutral
+
+  snake
+
+  long
+
+  garage
+
+  vendor
+
+  fix
+
+  warrior
+
+  pyramid'
+bip_39_word_new_line11: 'before
+
+  mom
+
+  neutral
+
+  snake
+
+  long
+
+  garage
+
+  vendor
+
+  fix
+
+  warrior
+
+  pyramid
+
+  vicious'
+bip_39_word_new_line12: 'before
+
+  mom
+
+  neutral
+
+  snake
+
+  long
+
+  garage
+
+  vendor
+
+  fix
+
+  warrior
+
+  pyramid
+
+  vicious
+
+  advance'
+bip_39_word_new_line2: 'before
+
+  mom'
+bip_39_word_new_line3: 'before
+
+  mom
+
+  neutral'
+bip_39_word_new_line4: 'before
+
+  mom
+
+  neutral
+
+  snake'
+bip_39_word_new_line5: 'before
+
+  mom
+
+  neutral
+
+  snake
+
+  long'
+bip_39_word_new_line6: 'before
+
+  mom
+
+  neutral
+
+  snake
+
+  long
+
+  garage'
+bip_39_word_new_line7: 'before
+
+  mom
+
+  neutral
+
+  snake
+
+  long
+
+  garage
+
+  vendor'
+bip_39_word_new_line8: 'before
+
+  mom
+
+  neutral
+
+  snake
+
+  long
+
+  garage
+
+  vendor
+
+  fix'
+bip_39_word_new_line9: 'before
+
+  mom
+
+  neutral
+
+  snake
+
+  long
+
+  garage
+
+  vendor
+
+  fix
+
+  warrior'
+bip_39_word_space_0:
+- before
+- mom
+- neutral
+- snake
+- long
+- garage
+- vendor
+- fix
+- warrior
+- pyramid
+- vicious
+- advance
+bip_39_word_space_1: before
+bip_39_word_space_10: before mom neutral snake long garage vendor fix warrior pyramid
+bip_39_word_space_11: before mom neutral snake long garage vendor fix warrior pyramid
+  vicious
+bip_39_word_space_12: before mom neutral snake long garage vendor fix warrior pyramid
+  vicious advance
+bip_39_word_space_2: before mom
+bip_39_word_space_3: before mom neutral
+bip_39_word_space_4: before mom neutral snake
+bip_39_word_space_5: before mom neutral snake long
+bip_39_word_space_6: before mom neutral snake long garage
+bip_39_word_space_7: before mom neutral snake long garage vendor
+bip_39_word_space_8: before mom neutral snake long garage vendor fix
+bip_39_word_space_9: before mom neutral snake long garage vendor fix warrior
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

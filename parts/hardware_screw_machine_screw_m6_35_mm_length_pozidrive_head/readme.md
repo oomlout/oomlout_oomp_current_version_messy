@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: casino spider
+  * bip 39 word 3: casino spider cable
+  * bip 39 word: casino spider cable side raven sting mean arrive bargain tomorrow library amazing
 
 ### other_codes
 * short_code: ms6m35pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | casino |  
+| bip_39_word_new_br10 | casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain<br>tomorrow |  
+| bip_39_word_new_br11 | casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain<br>tomorrow<br>library |  
+| bip_39_word_new_br12 | casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain<br>tomorrow<br>library<br>amazing |  
+| bip_39_word_new_br2 | casino<br>spider |  
+| bip_39_word_new_br3 | casino<br>spider<br>cable |  
+| bip_39_word_new_br4 | casino<br>spider<br>cable<br>side |  
+| bip_39_word_new_br5 | casino<br>spider<br>cable<br>side<br>raven |  
+| bip_39_word_new_br6 | casino<br>spider<br>cable<br>side<br>raven<br>sting |  
+| bip_39_word_new_br7 | casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean |  
+| bip_39_word_new_br8 | casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive |  
+| bip_39_word_new_br9 | casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain |  
+| bip_39_word_new_line1 | casino |  
+| bip_39_word_new_line10 | casino
+spider
+cable
+side
+raven
+sting
+mean
+arrive
+bargain
+tomorrow |  
+| bip_39_word_new_line11 | casino
+spider
+cable
+side
+raven
+sting
+mean
+arrive
+bargain
+tomorrow
+library |  
+| bip_39_word_new_line12 | casino
+spider
+cable
+side
+raven
+sting
+mean
+arrive
+bargain
+tomorrow
+library
+amazing |  
+| bip_39_word_new_line2 | casino
+spider |  
+| bip_39_word_new_line3 | casino
+spider
+cable |  
+| bip_39_word_new_line4 | casino
+spider
+cable
+side |  
+| bip_39_word_new_line5 | casino
+spider
+cable
+side
+raven |  
+| bip_39_word_new_line6 | casino
+spider
+cable
+side
+raven
+sting |  
+| bip_39_word_new_line7 | casino
+spider
+cable
+side
+raven
+sting
+mean |  
+| bip_39_word_new_line8 | casino
+spider
+cable
+side
+raven
+sting
+mean
+arrive |  
+| bip_39_word_new_line9 | casino
+spider
+cable
+side
+raven
+sting
+mean
+arrive
+bargain |  
+| bip_39_word_space_0 | ['casino', 'spider', 'cable', 'side', 'raven', 'sting', 'mean', 'arrive', 'bargain', 'tomorrow', 'library', 'amazing'] |  
+| bip_39_word_space_1 | casino |  
+| bip_39_word_space_10 | casino spider cable side raven sting mean arrive bargain tomorrow |  
+| bip_39_word_space_11 | casino spider cable side raven sting mean arrive bargain tomorrow library |  
+| bip_39_word_space_12 | casino spider cable side raven sting mean arrive bargain tomorrow library amazing |  
+| bip_39_word_space_2 | casino spider |  
+| bip_39_word_space_3 | casino spider cable |  
+| bip_39_word_space_4 | casino spider cable side |  
+| bip_39_word_space_5 | casino spider cable side raven |  
+| bip_39_word_space_6 | casino spider cable side raven sting |  
+| bip_39_word_space_7 | casino spider cable side raven sting mean |  
+| bip_39_word_space_8 | casino spider cable side raven sting mean arrive |  
+| bip_39_word_space_9 | casino spider cable side raven sting mean arrive bargain |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

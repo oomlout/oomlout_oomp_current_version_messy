@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tilt grocery
+  * bip 39 word 3: tilt grocery clarify
+  * bip 39 word: tilt grocery clarify library symptom mom illness fortune brush silent buyer arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tilt |  
+| bip_39_word_new_br10 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom<br>illness<br>fortune<br>brush<br>silent |  
+| bip_39_word_new_br11 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom<br>illness<br>fortune<br>brush<br>silent<br>buyer |  
+| bip_39_word_new_br12 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom<br>illness<br>fortune<br>brush<br>silent<br>buyer<br>arrange |  
+| bip_39_word_new_br2 | tilt<br>grocery |  
+| bip_39_word_new_br3 | tilt<br>grocery<br>clarify |  
+| bip_39_word_new_br4 | tilt<br>grocery<br>clarify<br>library |  
+| bip_39_word_new_br5 | tilt<br>grocery<br>clarify<br>library<br>symptom |  
+| bip_39_word_new_br6 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom |  
+| bip_39_word_new_br7 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom<br>illness |  
+| bip_39_word_new_br8 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom<br>illness<br>fortune |  
+| bip_39_word_new_br9 | tilt<br>grocery<br>clarify<br>library<br>symptom<br>mom<br>illness<br>fortune<br>brush |  
+| bip_39_word_new_line1 | tilt |  
+| bip_39_word_new_line10 | tilt
+grocery
+clarify
+library
+symptom
+mom
+illness
+fortune
+brush
+silent |  
+| bip_39_word_new_line11 | tilt
+grocery
+clarify
+library
+symptom
+mom
+illness
+fortune
+brush
+silent
+buyer |  
+| bip_39_word_new_line12 | tilt
+grocery
+clarify
+library
+symptom
+mom
+illness
+fortune
+brush
+silent
+buyer
+arrange |  
+| bip_39_word_new_line2 | tilt
+grocery |  
+| bip_39_word_new_line3 | tilt
+grocery
+clarify |  
+| bip_39_word_new_line4 | tilt
+grocery
+clarify
+library |  
+| bip_39_word_new_line5 | tilt
+grocery
+clarify
+library
+symptom |  
+| bip_39_word_new_line6 | tilt
+grocery
+clarify
+library
+symptom
+mom |  
+| bip_39_word_new_line7 | tilt
+grocery
+clarify
+library
+symptom
+mom
+illness |  
+| bip_39_word_new_line8 | tilt
+grocery
+clarify
+library
+symptom
+mom
+illness
+fortune |  
+| bip_39_word_new_line9 | tilt
+grocery
+clarify
+library
+symptom
+mom
+illness
+fortune
+brush |  
+| bip_39_word_space_0 | ['tilt', 'grocery', 'clarify', 'library', 'symptom', 'mom', 'illness', 'fortune', 'brush', 'silent', 'buyer', 'arrange'] |  
+| bip_39_word_space_1 | tilt |  
+| bip_39_word_space_10 | tilt grocery clarify library symptom mom illness fortune brush silent |  
+| bip_39_word_space_11 | tilt grocery clarify library symptom mom illness fortune brush silent buyer |  
+| bip_39_word_space_12 | tilt grocery clarify library symptom mom illness fortune brush silent buyer arrange |  
+| bip_39_word_space_2 | tilt grocery |  
+| bip_39_word_space_3 | tilt grocery clarify |  
+| bip_39_word_space_4 | tilt grocery clarify library |  
+| bip_39_word_space_5 | tilt grocery clarify library symptom |  
+| bip_39_word_space_6 | tilt grocery clarify library symptom mom |  
+| bip_39_word_space_7 | tilt grocery clarify library symptom mom illness |  
+| bip_39_word_space_8 | tilt grocery clarify library symptom mom illness fortune |  
+| bip_39_word_space_9 | tilt grocery clarify library symptom mom illness fortune brush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

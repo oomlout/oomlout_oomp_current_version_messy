@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blade quantum
+  * bip 39 word 3: blade quantum stock
+  * bip 39 word: blade quantum stock great myself paddle exchange author amount pigeon oblige aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blade |  
+| bip_39_word_new_br10 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle<br>exchange<br>author<br>amount<br>pigeon |  
+| bip_39_word_new_br11 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle<br>exchange<br>author<br>amount<br>pigeon<br>oblige |  
+| bip_39_word_new_br12 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle<br>exchange<br>author<br>amount<br>pigeon<br>oblige<br>aerobic |  
+| bip_39_word_new_br2 | blade<br>quantum |  
+| bip_39_word_new_br3 | blade<br>quantum<br>stock |  
+| bip_39_word_new_br4 | blade<br>quantum<br>stock<br>great |  
+| bip_39_word_new_br5 | blade<br>quantum<br>stock<br>great<br>myself |  
+| bip_39_word_new_br6 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle |  
+| bip_39_word_new_br7 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle<br>exchange |  
+| bip_39_word_new_br8 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle<br>exchange<br>author |  
+| bip_39_word_new_br9 | blade<br>quantum<br>stock<br>great<br>myself<br>paddle<br>exchange<br>author<br>amount |  
+| bip_39_word_new_line1 | blade |  
+| bip_39_word_new_line10 | blade
+quantum
+stock
+great
+myself
+paddle
+exchange
+author
+amount
+pigeon |  
+| bip_39_word_new_line11 | blade
+quantum
+stock
+great
+myself
+paddle
+exchange
+author
+amount
+pigeon
+oblige |  
+| bip_39_word_new_line12 | blade
+quantum
+stock
+great
+myself
+paddle
+exchange
+author
+amount
+pigeon
+oblige
+aerobic |  
+| bip_39_word_new_line2 | blade
+quantum |  
+| bip_39_word_new_line3 | blade
+quantum
+stock |  
+| bip_39_word_new_line4 | blade
+quantum
+stock
+great |  
+| bip_39_word_new_line5 | blade
+quantum
+stock
+great
+myself |  
+| bip_39_word_new_line6 | blade
+quantum
+stock
+great
+myself
+paddle |  
+| bip_39_word_new_line7 | blade
+quantum
+stock
+great
+myself
+paddle
+exchange |  
+| bip_39_word_new_line8 | blade
+quantum
+stock
+great
+myself
+paddle
+exchange
+author |  
+| bip_39_word_new_line9 | blade
+quantum
+stock
+great
+myself
+paddle
+exchange
+author
+amount |  
+| bip_39_word_space_0 | ['blade', 'quantum', 'stock', 'great', 'myself', 'paddle', 'exchange', 'author', 'amount', 'pigeon', 'oblige', 'aerobic'] |  
+| bip_39_word_space_1 | blade |  
+| bip_39_word_space_10 | blade quantum stock great myself paddle exchange author amount pigeon |  
+| bip_39_word_space_11 | blade quantum stock great myself paddle exchange author amount pigeon oblige |  
+| bip_39_word_space_12 | blade quantum stock great myself paddle exchange author amount pigeon oblige aerobic |  
+| bip_39_word_space_2 | blade quantum |  
+| bip_39_word_space_3 | blade quantum stock |  
+| bip_39_word_space_4 | blade quantum stock great |  
+| bip_39_word_space_5 | blade quantum stock great myself |  
+| bip_39_word_space_6 | blade quantum stock great myself paddle |  
+| bip_39_word_space_7 | blade quantum stock great myself paddle exchange |  
+| bip_39_word_space_8 | blade quantum stock great myself paddle exchange author |  
+| bip_39_word_space_9 | blade quantum stock great myself paddle exchange author amount |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

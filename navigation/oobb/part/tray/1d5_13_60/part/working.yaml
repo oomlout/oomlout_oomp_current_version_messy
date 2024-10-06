@@ -1,3 +1,186 @@
+bip_39_word_new_br1: decade
+bip_39_word_new_br10: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard<br>fiction<br>about<br>unaware<br>tortoise
+bip_39_word_new_br11: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard<br>fiction<br>about<br>unaware<br>tortoise<br>shop
+bip_39_word_new_br12: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard<br>fiction<br>about<br>unaware<br>tortoise<br>shop<br>allow
+bip_39_word_new_br2: decade<br>beauty
+bip_39_word_new_br3: decade<br>beauty<br>turtle
+bip_39_word_new_br4: decade<br>beauty<br>turtle<br>flame
+bip_39_word_new_br5: decade<br>beauty<br>turtle<br>flame<br>farm
+bip_39_word_new_br6: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard
+bip_39_word_new_br7: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard<br>fiction
+bip_39_word_new_br8: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard<br>fiction<br>about
+bip_39_word_new_br9: decade<br>beauty<br>turtle<br>flame<br>farm<br>hard<br>fiction<br>about<br>unaware
+bip_39_word_new_line1: decade
+bip_39_word_new_line10: 'decade
+
+  beauty
+
+  turtle
+
+  flame
+
+  farm
+
+  hard
+
+  fiction
+
+  about
+
+  unaware
+
+  tortoise'
+bip_39_word_new_line11: 'decade
+
+  beauty
+
+  turtle
+
+  flame
+
+  farm
+
+  hard
+
+  fiction
+
+  about
+
+  unaware
+
+  tortoise
+
+  shop'
+bip_39_word_new_line12: 'decade
+
+  beauty
+
+  turtle
+
+  flame
+
+  farm
+
+  hard
+
+  fiction
+
+  about
+
+  unaware
+
+  tortoise
+
+  shop
+
+  allow'
+bip_39_word_new_line2: 'decade
+
+  beauty'
+bip_39_word_new_line3: 'decade
+
+  beauty
+
+  turtle'
+bip_39_word_new_line4: 'decade
+
+  beauty
+
+  turtle
+
+  flame'
+bip_39_word_new_line5: 'decade
+
+  beauty
+
+  turtle
+
+  flame
+
+  farm'
+bip_39_word_new_line6: 'decade
+
+  beauty
+
+  turtle
+
+  flame
+
+  farm
+
+  hard'
+bip_39_word_new_line7: 'decade
+
+  beauty
+
+  turtle
+
+  flame
+
+  farm
+
+  hard
+
+  fiction'
+bip_39_word_new_line8: 'decade
+
+  beauty
+
+  turtle
+
+  flame
+
+  farm
+
+  hard
+
+  fiction
+
+  about'
+bip_39_word_new_line9: 'decade
+
+  beauty
+
+  turtle
+
+  flame
+
+  farm
+
+  hard
+
+  fiction
+
+  about
+
+  unaware'
+bip_39_word_space_0:
+- decade
+- beauty
+- turtle
+- flame
+- farm
+- hard
+- fiction
+- about
+- unaware
+- tortoise
+- shop
+- allow
+bip_39_word_space_1: decade
+bip_39_word_space_10: decade beauty turtle flame farm hard fiction about unaware tortoise
+bip_39_word_space_11: decade beauty turtle flame farm hard fiction about unaware tortoise
+  shop
+bip_39_word_space_12: decade beauty turtle flame farm hard fiction about unaware tortoise
+  shop allow
+bip_39_word_space_2: decade beauty
+bip_39_word_space_3: decade beauty turtle
+bip_39_word_space_4: decade beauty turtle flame
+bip_39_word_space_5: decade beauty turtle flame farm
+bip_39_word_space_6: decade beauty turtle flame farm hard
+bip_39_word_space_7: decade beauty turtle flame farm hard fiction
+bip_39_word_space_8: decade beauty turtle flame farm hard fiction about
+bip_39_word_space_9: decade beauty turtle flame farm hard fiction about unaware
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

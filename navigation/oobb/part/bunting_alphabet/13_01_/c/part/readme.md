@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: c
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scatter expire
+  * bip 39 word 3: scatter expire false
+  * bip 39 word: scatter expire false maid notice fiber access vote sketch good nation avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scatter |  
+| bip_39_word_new_br10 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber<br>access<br>vote<br>sketch<br>good |  
+| bip_39_word_new_br11 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber<br>access<br>vote<br>sketch<br>good<br>nation |  
+| bip_39_word_new_br12 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber<br>access<br>vote<br>sketch<br>good<br>nation<br>avocado |  
+| bip_39_word_new_br2 | scatter<br>expire |  
+| bip_39_word_new_br3 | scatter<br>expire<br>false |  
+| bip_39_word_new_br4 | scatter<br>expire<br>false<br>maid |  
+| bip_39_word_new_br5 | scatter<br>expire<br>false<br>maid<br>notice |  
+| bip_39_word_new_br6 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber |  
+| bip_39_word_new_br7 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber<br>access |  
+| bip_39_word_new_br8 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber<br>access<br>vote |  
+| bip_39_word_new_br9 | scatter<br>expire<br>false<br>maid<br>notice<br>fiber<br>access<br>vote<br>sketch |  
+| bip_39_word_new_line1 | scatter |  
+| bip_39_word_new_line10 | scatter
+expire
+false
+maid
+notice
+fiber
+access
+vote
+sketch
+good |  
+| bip_39_word_new_line11 | scatter
+expire
+false
+maid
+notice
+fiber
+access
+vote
+sketch
+good
+nation |  
+| bip_39_word_new_line12 | scatter
+expire
+false
+maid
+notice
+fiber
+access
+vote
+sketch
+good
+nation
+avocado |  
+| bip_39_word_new_line2 | scatter
+expire |  
+| bip_39_word_new_line3 | scatter
+expire
+false |  
+| bip_39_word_new_line4 | scatter
+expire
+false
+maid |  
+| bip_39_word_new_line5 | scatter
+expire
+false
+maid
+notice |  
+| bip_39_word_new_line6 | scatter
+expire
+false
+maid
+notice
+fiber |  
+| bip_39_word_new_line7 | scatter
+expire
+false
+maid
+notice
+fiber
+access |  
+| bip_39_word_new_line8 | scatter
+expire
+false
+maid
+notice
+fiber
+access
+vote |  
+| bip_39_word_new_line9 | scatter
+expire
+false
+maid
+notice
+fiber
+access
+vote
+sketch |  
+| bip_39_word_space_0 | ['scatter', 'expire', 'false', 'maid', 'notice', 'fiber', 'access', 'vote', 'sketch', 'good', 'nation', 'avocado'] |  
+| bip_39_word_space_1 | scatter |  
+| bip_39_word_space_10 | scatter expire false maid notice fiber access vote sketch good |  
+| bip_39_word_space_11 | scatter expire false maid notice fiber access vote sketch good nation |  
+| bip_39_word_space_12 | scatter expire false maid notice fiber access vote sketch good nation avocado |  
+| bip_39_word_space_2 | scatter expire |  
+| bip_39_word_space_3 | scatter expire false |  
+| bip_39_word_space_4 | scatter expire false maid |  
+| bip_39_word_space_5 | scatter expire false maid notice |  
+| bip_39_word_space_6 | scatter expire false maid notice fiber |  
+| bip_39_word_space_7 | scatter expire false maid notice fiber access |  
+| bip_39_word_space_8 | scatter expire false maid notice fiber access vote |  
+| bip_39_word_space_9 | scatter expire false maid notice fiber access vote sketch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

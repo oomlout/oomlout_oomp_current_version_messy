@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scout motion
+  * bip 39 word 3: scout motion hint
+  * bip 39 word: scout motion hint violin noble apart together define cancel normal notice athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scout |  
+| bip_39_word_new_br10 | scout<br>motion<br>hint<br>violin<br>noble<br>apart<br>together<br>define<br>cancel<br>normal |  
+| bip_39_word_new_br11 | scout<br>motion<br>hint<br>violin<br>noble<br>apart<br>together<br>define<br>cancel<br>normal<br>notice |  
+| bip_39_word_new_br12 | scout<br>motion<br>hint<br>violin<br>noble<br>apart<br>together<br>define<br>cancel<br>normal<br>notice<br>athlete |  
+| bip_39_word_new_br2 | scout<br>motion |  
+| bip_39_word_new_br3 | scout<br>motion<br>hint |  
+| bip_39_word_new_br4 | scout<br>motion<br>hint<br>violin |  
+| bip_39_word_new_br5 | scout<br>motion<br>hint<br>violin<br>noble |  
+| bip_39_word_new_br6 | scout<br>motion<br>hint<br>violin<br>noble<br>apart |  
+| bip_39_word_new_br7 | scout<br>motion<br>hint<br>violin<br>noble<br>apart<br>together |  
+| bip_39_word_new_br8 | scout<br>motion<br>hint<br>violin<br>noble<br>apart<br>together<br>define |  
+| bip_39_word_new_br9 | scout<br>motion<br>hint<br>violin<br>noble<br>apart<br>together<br>define<br>cancel |  
+| bip_39_word_new_line1 | scout |  
+| bip_39_word_new_line10 | scout
+motion
+hint
+violin
+noble
+apart
+together
+define
+cancel
+normal |  
+| bip_39_word_new_line11 | scout
+motion
+hint
+violin
+noble
+apart
+together
+define
+cancel
+normal
+notice |  
+| bip_39_word_new_line12 | scout
+motion
+hint
+violin
+noble
+apart
+together
+define
+cancel
+normal
+notice
+athlete |  
+| bip_39_word_new_line2 | scout
+motion |  
+| bip_39_word_new_line3 | scout
+motion
+hint |  
+| bip_39_word_new_line4 | scout
+motion
+hint
+violin |  
+| bip_39_word_new_line5 | scout
+motion
+hint
+violin
+noble |  
+| bip_39_word_new_line6 | scout
+motion
+hint
+violin
+noble
+apart |  
+| bip_39_word_new_line7 | scout
+motion
+hint
+violin
+noble
+apart
+together |  
+| bip_39_word_new_line8 | scout
+motion
+hint
+violin
+noble
+apart
+together
+define |  
+| bip_39_word_new_line9 | scout
+motion
+hint
+violin
+noble
+apart
+together
+define
+cancel |  
+| bip_39_word_space_0 | ['scout', 'motion', 'hint', 'violin', 'noble', 'apart', 'together', 'define', 'cancel', 'normal', 'notice', 'athlete'] |  
+| bip_39_word_space_1 | scout |  
+| bip_39_word_space_10 | scout motion hint violin noble apart together define cancel normal |  
+| bip_39_word_space_11 | scout motion hint violin noble apart together define cancel normal notice |  
+| bip_39_word_space_12 | scout motion hint violin noble apart together define cancel normal notice athlete |  
+| bip_39_word_space_2 | scout motion |  
+| bip_39_word_space_3 | scout motion hint |  
+| bip_39_word_space_4 | scout motion hint violin |  
+| bip_39_word_space_5 | scout motion hint violin noble |  
+| bip_39_word_space_6 | scout motion hint violin noble apart |  
+| bip_39_word_space_7 | scout motion hint violin noble apart together |  
+| bip_39_word_space_8 | scout motion hint violin noble apart together define |  
+| bip_39_word_space_9 | scout motion hint violin noble apart together define cancel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

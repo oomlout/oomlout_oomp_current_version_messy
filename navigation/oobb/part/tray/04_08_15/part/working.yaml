@@ -1,3 +1,186 @@
+bip_39_word_new_br1: world
+bip_39_word_new_br10: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic
+bip_39_word_new_br11: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic<br>sunny
+bip_39_word_new_br12: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle<br>magic<br>sunny<br>absurd
+bip_39_word_new_br2: world<br>lunar
+bip_39_word_new_br3: world<br>lunar<br>alcohol
+bip_39_word_new_br4: world<br>lunar<br>alcohol<br>diagram
+bip_39_word_new_br5: world<br>lunar<br>alcohol<br>diagram<br>fork
+bip_39_word_new_br6: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart
+bip_39_word_new_br7: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil
+bip_39_word_new_br8: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among
+bip_39_word_new_br9: world<br>lunar<br>alcohol<br>diagram<br>fork<br>cart<br>unveil<br>among<br>gentle
+bip_39_word_new_line1: world
+bip_39_word_new_line10: 'world
+
+  lunar
+
+  alcohol
+
+  diagram
+
+  fork
+
+  cart
+
+  unveil
+
+  among
+
+  gentle
+
+  magic'
+bip_39_word_new_line11: 'world
+
+  lunar
+
+  alcohol
+
+  diagram
+
+  fork
+
+  cart
+
+  unveil
+
+  among
+
+  gentle
+
+  magic
+
+  sunny'
+bip_39_word_new_line12: 'world
+
+  lunar
+
+  alcohol
+
+  diagram
+
+  fork
+
+  cart
+
+  unveil
+
+  among
+
+  gentle
+
+  magic
+
+  sunny
+
+  absurd'
+bip_39_word_new_line2: 'world
+
+  lunar'
+bip_39_word_new_line3: 'world
+
+  lunar
+
+  alcohol'
+bip_39_word_new_line4: 'world
+
+  lunar
+
+  alcohol
+
+  diagram'
+bip_39_word_new_line5: 'world
+
+  lunar
+
+  alcohol
+
+  diagram
+
+  fork'
+bip_39_word_new_line6: 'world
+
+  lunar
+
+  alcohol
+
+  diagram
+
+  fork
+
+  cart'
+bip_39_word_new_line7: 'world
+
+  lunar
+
+  alcohol
+
+  diagram
+
+  fork
+
+  cart
+
+  unveil'
+bip_39_word_new_line8: 'world
+
+  lunar
+
+  alcohol
+
+  diagram
+
+  fork
+
+  cart
+
+  unveil
+
+  among'
+bip_39_word_new_line9: 'world
+
+  lunar
+
+  alcohol
+
+  diagram
+
+  fork
+
+  cart
+
+  unveil
+
+  among
+
+  gentle'
+bip_39_word_space_0:
+- world
+- lunar
+- alcohol
+- diagram
+- fork
+- cart
+- unveil
+- among
+- gentle
+- magic
+- sunny
+- absurd
+bip_39_word_space_1: world
+bip_39_word_space_10: world lunar alcohol diagram fork cart unveil among gentle magic
+bip_39_word_space_11: world lunar alcohol diagram fork cart unveil among gentle magic
+  sunny
+bip_39_word_space_12: world lunar alcohol diagram fork cart unveil among gentle magic
+  sunny absurd
+bip_39_word_space_2: world lunar
+bip_39_word_space_3: world lunar alcohol
+bip_39_word_space_4: world lunar alcohol diagram
+bip_39_word_space_5: world lunar alcohol diagram fork
+bip_39_word_space_6: world lunar alcohol diagram fork cart
+bip_39_word_space_7: world lunar alcohol diagram fork cart unveil
+bip_39_word_space_8: world lunar alcohol diagram fork cart unveil among
+bip_39_word_space_9: world lunar alcohol diagram fork cart unveil among gentle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

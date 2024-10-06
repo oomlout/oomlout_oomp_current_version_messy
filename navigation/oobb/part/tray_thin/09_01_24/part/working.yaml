@@ -1,3 +1,187 @@
+bip_39_word_new_br1: erosion
+bip_39_word_new_br10: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor
+bip_39_word_new_br11: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor<br>good
+bip_39_word_new_br12: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire<br>humor<br>good<br>arctic
+bip_39_word_new_br2: erosion<br>loud
+bip_39_word_new_br3: erosion<br>loud<br>again
+bip_39_word_new_br4: erosion<br>loud<br>again<br>dolphin
+bip_39_word_new_br5: erosion<br>loud<br>again<br>dolphin<br>rail
+bip_39_word_new_br6: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact
+bip_39_word_new_br7: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous
+bip_39_word_new_br8: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit
+bip_39_word_new_br9: erosion<br>loud<br>again<br>dolphin<br>rail<br>artefact<br>jealous<br>permit<br>hire
+bip_39_word_new_line1: erosion
+bip_39_word_new_line10: 'erosion
+
+  loud
+
+  again
+
+  dolphin
+
+  rail
+
+  artefact
+
+  jealous
+
+  permit
+
+  hire
+
+  humor'
+bip_39_word_new_line11: 'erosion
+
+  loud
+
+  again
+
+  dolphin
+
+  rail
+
+  artefact
+
+  jealous
+
+  permit
+
+  hire
+
+  humor
+
+  good'
+bip_39_word_new_line12: 'erosion
+
+  loud
+
+  again
+
+  dolphin
+
+  rail
+
+  artefact
+
+  jealous
+
+  permit
+
+  hire
+
+  humor
+
+  good
+
+  arctic'
+bip_39_word_new_line2: 'erosion
+
+  loud'
+bip_39_word_new_line3: 'erosion
+
+  loud
+
+  again'
+bip_39_word_new_line4: 'erosion
+
+  loud
+
+  again
+
+  dolphin'
+bip_39_word_new_line5: 'erosion
+
+  loud
+
+  again
+
+  dolphin
+
+  rail'
+bip_39_word_new_line6: 'erosion
+
+  loud
+
+  again
+
+  dolphin
+
+  rail
+
+  artefact'
+bip_39_word_new_line7: 'erosion
+
+  loud
+
+  again
+
+  dolphin
+
+  rail
+
+  artefact
+
+  jealous'
+bip_39_word_new_line8: 'erosion
+
+  loud
+
+  again
+
+  dolphin
+
+  rail
+
+  artefact
+
+  jealous
+
+  permit'
+bip_39_word_new_line9: 'erosion
+
+  loud
+
+  again
+
+  dolphin
+
+  rail
+
+  artefact
+
+  jealous
+
+  permit
+
+  hire'
+bip_39_word_space_0:
+- erosion
+- loud
+- again
+- dolphin
+- rail
+- artefact
+- jealous
+- permit
+- hire
+- humor
+- good
+- arctic
+bip_39_word_space_1: erosion
+bip_39_word_space_10: erosion loud again dolphin rail artefact jealous permit hire
+  humor
+bip_39_word_space_11: erosion loud again dolphin rail artefact jealous permit hire
+  humor good
+bip_39_word_space_12: erosion loud again dolphin rail artefact jealous permit hire
+  humor good arctic
+bip_39_word_space_2: erosion loud
+bip_39_word_space_3: erosion loud again
+bip_39_word_space_4: erosion loud again dolphin
+bip_39_word_space_5: erosion loud again dolphin rail
+bip_39_word_space_6: erosion loud again dolphin rail artefact
+bip_39_word_space_7: erosion loud again dolphin rail artefact jealous
+bip_39_word_space_8: erosion loud again dolphin rail artefact jealous permit
+bip_39_word_space_9: erosion loud again dolphin rail artefact jealous permit hire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: resist
+bip_39_word_new_br10: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth
+bip_39_word_new_br11: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth<br>cage
+bip_39_word_new_br12: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth<br>cage<br>assault
+bip_39_word_new_br2: resist<br>frown
+bip_39_word_new_br3: resist<br>frown<br>hold
+bip_39_word_new_br4: resist<br>frown<br>hold<br>hat
+bip_39_word_new_br5: resist<br>frown<br>hold<br>hat<br>misery
+bip_39_word_new_br6: resist<br>frown<br>hold<br>hat<br>misery<br>diary
+bip_39_word_new_br7: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe
+bip_39_word_new_br8: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival
+bip_39_word_new_br9: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive
+bip_39_word_new_line1: resist
+bip_39_word_new_line10: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival
+
+  thrive
+
+  worth'
+bip_39_word_new_line11: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival
+
+  thrive
+
+  worth
+
+  cage'
+bip_39_word_new_line12: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival
+
+  thrive
+
+  worth
+
+  cage
+
+  assault'
+bip_39_word_new_line2: 'resist
+
+  frown'
+bip_39_word_new_line3: 'resist
+
+  frown
+
+  hold'
+bip_39_word_new_line4: 'resist
+
+  frown
+
+  hold
+
+  hat'
+bip_39_word_new_line5: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery'
+bip_39_word_new_line6: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary'
+bip_39_word_new_line7: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe'
+bip_39_word_new_line8: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival'
+bip_39_word_new_line9: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival
+
+  thrive'
+bip_39_word_space_0:
+- resist
+- frown
+- hold
+- hat
+- misery
+- diary
+- recipe
+- festival
+- thrive
+- worth
+- cage
+- assault
+bip_39_word_space_1: resist
+bip_39_word_space_10: resist frown hold hat misery diary recipe festival thrive worth
+bip_39_word_space_11: resist frown hold hat misery diary recipe festival thrive worth
+  cage
+bip_39_word_space_12: resist frown hold hat misery diary recipe festival thrive worth
+  cage assault
+bip_39_word_space_2: resist frown
+bip_39_word_space_3: resist frown hold
+bip_39_word_space_4: resist frown hold hat
+bip_39_word_space_5: resist frown hold hat misery
+bip_39_word_space_6: resist frown hold hat misery diary
+bip_39_word_space_7: resist frown hold hat misery diary recipe
+bip_39_word_space_8: resist frown hold hat misery diary recipe festival
+bip_39_word_space_9: resist frown hold hat misery diary recipe festival thrive
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

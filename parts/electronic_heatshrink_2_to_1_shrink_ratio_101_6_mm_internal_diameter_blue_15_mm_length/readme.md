@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: butter current
+  * bip 39 word 3: butter current unlock
+  * bip 39 word: butter current unlock garbage only wisdom cricket panther onion trap bottom acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | butter |  
+| bip_39_word_new_br10 | butter<br>current<br>unlock<br>garbage<br>only<br>wisdom<br>cricket<br>panther<br>onion<br>trap |  
+| bip_39_word_new_br11 | butter<br>current<br>unlock<br>garbage<br>only<br>wisdom<br>cricket<br>panther<br>onion<br>trap<br>bottom |  
+| bip_39_word_new_br12 | butter<br>current<br>unlock<br>garbage<br>only<br>wisdom<br>cricket<br>panther<br>onion<br>trap<br>bottom<br>acoustic |  
+| bip_39_word_new_br2 | butter<br>current |  
+| bip_39_word_new_br3 | butter<br>current<br>unlock |  
+| bip_39_word_new_br4 | butter<br>current<br>unlock<br>garbage |  
+| bip_39_word_new_br5 | butter<br>current<br>unlock<br>garbage<br>only |  
+| bip_39_word_new_br6 | butter<br>current<br>unlock<br>garbage<br>only<br>wisdom |  
+| bip_39_word_new_br7 | butter<br>current<br>unlock<br>garbage<br>only<br>wisdom<br>cricket |  
+| bip_39_word_new_br8 | butter<br>current<br>unlock<br>garbage<br>only<br>wisdom<br>cricket<br>panther |  
+| bip_39_word_new_br9 | butter<br>current<br>unlock<br>garbage<br>only<br>wisdom<br>cricket<br>panther<br>onion |  
+| bip_39_word_new_line1 | butter |  
+| bip_39_word_new_line10 | butter
+current
+unlock
+garbage
+only
+wisdom
+cricket
+panther
+onion
+trap |  
+| bip_39_word_new_line11 | butter
+current
+unlock
+garbage
+only
+wisdom
+cricket
+panther
+onion
+trap
+bottom |  
+| bip_39_word_new_line12 | butter
+current
+unlock
+garbage
+only
+wisdom
+cricket
+panther
+onion
+trap
+bottom
+acoustic |  
+| bip_39_word_new_line2 | butter
+current |  
+| bip_39_word_new_line3 | butter
+current
+unlock |  
+| bip_39_word_new_line4 | butter
+current
+unlock
+garbage |  
+| bip_39_word_new_line5 | butter
+current
+unlock
+garbage
+only |  
+| bip_39_word_new_line6 | butter
+current
+unlock
+garbage
+only
+wisdom |  
+| bip_39_word_new_line7 | butter
+current
+unlock
+garbage
+only
+wisdom
+cricket |  
+| bip_39_word_new_line8 | butter
+current
+unlock
+garbage
+only
+wisdom
+cricket
+panther |  
+| bip_39_word_new_line9 | butter
+current
+unlock
+garbage
+only
+wisdom
+cricket
+panther
+onion |  
+| bip_39_word_space_0 | ['butter', 'current', 'unlock', 'garbage', 'only', 'wisdom', 'cricket', 'panther', 'onion', 'trap', 'bottom', 'acoustic'] |  
+| bip_39_word_space_1 | butter |  
+| bip_39_word_space_10 | butter current unlock garbage only wisdom cricket panther onion trap |  
+| bip_39_word_space_11 | butter current unlock garbage only wisdom cricket panther onion trap bottom |  
+| bip_39_word_space_12 | butter current unlock garbage only wisdom cricket panther onion trap bottom acoustic |  
+| bip_39_word_space_2 | butter current |  
+| bip_39_word_space_3 | butter current unlock |  
+| bip_39_word_space_4 | butter current unlock garbage |  
+| bip_39_word_space_5 | butter current unlock garbage only |  
+| bip_39_word_space_6 | butter current unlock garbage only wisdom |  
+| bip_39_word_space_7 | butter current unlock garbage only wisdom cricket |  
+| bip_39_word_space_8 | butter current unlock garbage only wisdom cricket panther |  
+| bip_39_word_space_9 | butter current unlock garbage only wisdom cricket panther onion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

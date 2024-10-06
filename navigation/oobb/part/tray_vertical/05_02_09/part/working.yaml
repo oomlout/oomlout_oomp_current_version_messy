@@ -1,3 +1,186 @@
+bip_39_word_new_br1: loyal
+bip_39_word_new_br10: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber
+bip_39_word_new_br11: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber<br>sheriff
+bip_39_word_new_br12: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room<br>fiber<br>sheriff<br>armor
+bip_39_word_new_br2: loyal<br>rebuild
+bip_39_word_new_br3: loyal<br>rebuild<br>shoulder
+bip_39_word_new_br4: loyal<br>rebuild<br>shoulder<br>convince
+bip_39_word_new_br5: loyal<br>rebuild<br>shoulder<br>convince<br>judge
+bip_39_word_new_br6: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit
+bip_39_word_new_br7: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp
+bip_39_word_new_br8: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos
+bip_39_word_new_br9: loyal<br>rebuild<br>shoulder<br>convince<br>judge<br>edit<br>gasp<br>chaos<br>room
+bip_39_word_new_line1: loyal
+bip_39_word_new_line10: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince
+
+  judge
+
+  edit
+
+  gasp
+
+  chaos
+
+  room
+
+  fiber'
+bip_39_word_new_line11: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince
+
+  judge
+
+  edit
+
+  gasp
+
+  chaos
+
+  room
+
+  fiber
+
+  sheriff'
+bip_39_word_new_line12: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince
+
+  judge
+
+  edit
+
+  gasp
+
+  chaos
+
+  room
+
+  fiber
+
+  sheriff
+
+  armor'
+bip_39_word_new_line2: 'loyal
+
+  rebuild'
+bip_39_word_new_line3: 'loyal
+
+  rebuild
+
+  shoulder'
+bip_39_word_new_line4: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince'
+bip_39_word_new_line5: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince
+
+  judge'
+bip_39_word_new_line6: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince
+
+  judge
+
+  edit'
+bip_39_word_new_line7: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince
+
+  judge
+
+  edit
+
+  gasp'
+bip_39_word_new_line8: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince
+
+  judge
+
+  edit
+
+  gasp
+
+  chaos'
+bip_39_word_new_line9: 'loyal
+
+  rebuild
+
+  shoulder
+
+  convince
+
+  judge
+
+  edit
+
+  gasp
+
+  chaos
+
+  room'
+bip_39_word_space_0:
+- loyal
+- rebuild
+- shoulder
+- convince
+- judge
+- edit
+- gasp
+- chaos
+- room
+- fiber
+- sheriff
+- armor
+bip_39_word_space_1: loyal
+bip_39_word_space_10: loyal rebuild shoulder convince judge edit gasp chaos room fiber
+bip_39_word_space_11: loyal rebuild shoulder convince judge edit gasp chaos room fiber
+  sheriff
+bip_39_word_space_12: loyal rebuild shoulder convince judge edit gasp chaos room fiber
+  sheriff armor
+bip_39_word_space_2: loyal rebuild
+bip_39_word_space_3: loyal rebuild shoulder
+bip_39_word_space_4: loyal rebuild shoulder convince
+bip_39_word_space_5: loyal rebuild shoulder convince judge
+bip_39_word_space_6: loyal rebuild shoulder convince judge edit
+bip_39_word_space_7: loyal rebuild shoulder convince judge edit gasp
+bip_39_word_space_8: loyal rebuild shoulder convince judge edit gasp chaos
+bip_39_word_space_9: loyal rebuild shoulder convince judge edit gasp chaos room
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

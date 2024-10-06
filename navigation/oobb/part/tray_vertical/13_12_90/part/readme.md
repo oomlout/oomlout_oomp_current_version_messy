@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wife aisle
+  * bip 39 word 3: wife aisle permit
+  * bip 39 word: wife aisle permit march quantum sure vessel joy pet illness purchase also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wife |  
+| bip_39_word_new_br10 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure<br>vessel<br>joy<br>pet<br>illness |  
+| bip_39_word_new_br11 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure<br>vessel<br>joy<br>pet<br>illness<br>purchase |  
+| bip_39_word_new_br12 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure<br>vessel<br>joy<br>pet<br>illness<br>purchase<br>also |  
+| bip_39_word_new_br2 | wife<br>aisle |  
+| bip_39_word_new_br3 | wife<br>aisle<br>permit |  
+| bip_39_word_new_br4 | wife<br>aisle<br>permit<br>march |  
+| bip_39_word_new_br5 | wife<br>aisle<br>permit<br>march<br>quantum |  
+| bip_39_word_new_br6 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure |  
+| bip_39_word_new_br7 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure<br>vessel |  
+| bip_39_word_new_br8 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure<br>vessel<br>joy |  
+| bip_39_word_new_br9 | wife<br>aisle<br>permit<br>march<br>quantum<br>sure<br>vessel<br>joy<br>pet |  
+| bip_39_word_new_line1 | wife |  
+| bip_39_word_new_line10 | wife
+aisle
+permit
+march
+quantum
+sure
+vessel
+joy
+pet
+illness |  
+| bip_39_word_new_line11 | wife
+aisle
+permit
+march
+quantum
+sure
+vessel
+joy
+pet
+illness
+purchase |  
+| bip_39_word_new_line12 | wife
+aisle
+permit
+march
+quantum
+sure
+vessel
+joy
+pet
+illness
+purchase
+also |  
+| bip_39_word_new_line2 | wife
+aisle |  
+| bip_39_word_new_line3 | wife
+aisle
+permit |  
+| bip_39_word_new_line4 | wife
+aisle
+permit
+march |  
+| bip_39_word_new_line5 | wife
+aisle
+permit
+march
+quantum |  
+| bip_39_word_new_line6 | wife
+aisle
+permit
+march
+quantum
+sure |  
+| bip_39_word_new_line7 | wife
+aisle
+permit
+march
+quantum
+sure
+vessel |  
+| bip_39_word_new_line8 | wife
+aisle
+permit
+march
+quantum
+sure
+vessel
+joy |  
+| bip_39_word_new_line9 | wife
+aisle
+permit
+march
+quantum
+sure
+vessel
+joy
+pet |  
+| bip_39_word_space_0 | ['wife', 'aisle', 'permit', 'march', 'quantum', 'sure', 'vessel', 'joy', 'pet', 'illness', 'purchase', 'also'] |  
+| bip_39_word_space_1 | wife |  
+| bip_39_word_space_10 | wife aisle permit march quantum sure vessel joy pet illness |  
+| bip_39_word_space_11 | wife aisle permit march quantum sure vessel joy pet illness purchase |  
+| bip_39_word_space_12 | wife aisle permit march quantum sure vessel joy pet illness purchase also |  
+| bip_39_word_space_2 | wife aisle |  
+| bip_39_word_space_3 | wife aisle permit |  
+| bip_39_word_space_4 | wife aisle permit march |  
+| bip_39_word_space_5 | wife aisle permit march quantum |  
+| bip_39_word_space_6 | wife aisle permit march quantum sure |  
+| bip_39_word_space_7 | wife aisle permit march quantum sure vessel |  
+| bip_39_word_space_8 | wife aisle permit march quantum sure vessel joy |  
+| bip_39_word_space_9 | wife aisle permit march quantum sure vessel joy pet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

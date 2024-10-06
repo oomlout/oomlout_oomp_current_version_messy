@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: item shove
+  * bip 39 word 3: item shove foil
+  * bip 39 word: item shove foil dizzy basic bleak tool nest link battle order act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | item |  
+| bip_39_word_new_br10 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak<br>tool<br>nest<br>link<br>battle |  
+| bip_39_word_new_br11 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak<br>tool<br>nest<br>link<br>battle<br>order |  
+| bip_39_word_new_br12 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak<br>tool<br>nest<br>link<br>battle<br>order<br>act |  
+| bip_39_word_new_br2 | item<br>shove |  
+| bip_39_word_new_br3 | item<br>shove<br>foil |  
+| bip_39_word_new_br4 | item<br>shove<br>foil<br>dizzy |  
+| bip_39_word_new_br5 | item<br>shove<br>foil<br>dizzy<br>basic |  
+| bip_39_word_new_br6 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak |  
+| bip_39_word_new_br7 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak<br>tool |  
+| bip_39_word_new_br8 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak<br>tool<br>nest |  
+| bip_39_word_new_br9 | item<br>shove<br>foil<br>dizzy<br>basic<br>bleak<br>tool<br>nest<br>link |  
+| bip_39_word_new_line1 | item |  
+| bip_39_word_new_line10 | item
+shove
+foil
+dizzy
+basic
+bleak
+tool
+nest
+link
+battle |  
+| bip_39_word_new_line11 | item
+shove
+foil
+dizzy
+basic
+bleak
+tool
+nest
+link
+battle
+order |  
+| bip_39_word_new_line12 | item
+shove
+foil
+dizzy
+basic
+bleak
+tool
+nest
+link
+battle
+order
+act |  
+| bip_39_word_new_line2 | item
+shove |  
+| bip_39_word_new_line3 | item
+shove
+foil |  
+| bip_39_word_new_line4 | item
+shove
+foil
+dizzy |  
+| bip_39_word_new_line5 | item
+shove
+foil
+dizzy
+basic |  
+| bip_39_word_new_line6 | item
+shove
+foil
+dizzy
+basic
+bleak |  
+| bip_39_word_new_line7 | item
+shove
+foil
+dizzy
+basic
+bleak
+tool |  
+| bip_39_word_new_line8 | item
+shove
+foil
+dizzy
+basic
+bleak
+tool
+nest |  
+| bip_39_word_new_line9 | item
+shove
+foil
+dizzy
+basic
+bleak
+tool
+nest
+link |  
+| bip_39_word_space_0 | ['item', 'shove', 'foil', 'dizzy', 'basic', 'bleak', 'tool', 'nest', 'link', 'battle', 'order', 'act'] |  
+| bip_39_word_space_1 | item |  
+| bip_39_word_space_10 | item shove foil dizzy basic bleak tool nest link battle |  
+| bip_39_word_space_11 | item shove foil dizzy basic bleak tool nest link battle order |  
+| bip_39_word_space_12 | item shove foil dizzy basic bleak tool nest link battle order act |  
+| bip_39_word_space_2 | item shove |  
+| bip_39_word_space_3 | item shove foil |  
+| bip_39_word_space_4 | item shove foil dizzy |  
+| bip_39_word_space_5 | item shove foil dizzy basic |  
+| bip_39_word_space_6 | item shove foil dizzy basic bleak |  
+| bip_39_word_space_7 | item shove foil dizzy basic bleak tool |  
+| bip_39_word_space_8 | item shove foil dizzy basic bleak tool nest |  
+| bip_39_word_space_9 | item shove foil dizzy basic bleak tool nest link |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

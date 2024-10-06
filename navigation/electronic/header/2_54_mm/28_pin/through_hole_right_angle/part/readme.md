@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sister year
+  * bip 39 word 3: sister year income
+  * bip 39 word: sister year income mention option hello autumn kit average sunny praise arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sister |  
+| bip_39_word_new_br10 | sister<br>year<br>income<br>mention<br>option<br>hello<br>autumn<br>kit<br>average<br>sunny |  
+| bip_39_word_new_br11 | sister<br>year<br>income<br>mention<br>option<br>hello<br>autumn<br>kit<br>average<br>sunny<br>praise |  
+| bip_39_word_new_br12 | sister<br>year<br>income<br>mention<br>option<br>hello<br>autumn<br>kit<br>average<br>sunny<br>praise<br>arrow |  
+| bip_39_word_new_br2 | sister<br>year |  
+| bip_39_word_new_br3 | sister<br>year<br>income |  
+| bip_39_word_new_br4 | sister<br>year<br>income<br>mention |  
+| bip_39_word_new_br5 | sister<br>year<br>income<br>mention<br>option |  
+| bip_39_word_new_br6 | sister<br>year<br>income<br>mention<br>option<br>hello |  
+| bip_39_word_new_br7 | sister<br>year<br>income<br>mention<br>option<br>hello<br>autumn |  
+| bip_39_word_new_br8 | sister<br>year<br>income<br>mention<br>option<br>hello<br>autumn<br>kit |  
+| bip_39_word_new_br9 | sister<br>year<br>income<br>mention<br>option<br>hello<br>autumn<br>kit<br>average |  
+| bip_39_word_new_line1 | sister |  
+| bip_39_word_new_line10 | sister
+year
+income
+mention
+option
+hello
+autumn
+kit
+average
+sunny |  
+| bip_39_word_new_line11 | sister
+year
+income
+mention
+option
+hello
+autumn
+kit
+average
+sunny
+praise |  
+| bip_39_word_new_line12 | sister
+year
+income
+mention
+option
+hello
+autumn
+kit
+average
+sunny
+praise
+arrow |  
+| bip_39_word_new_line2 | sister
+year |  
+| bip_39_word_new_line3 | sister
+year
+income |  
+| bip_39_word_new_line4 | sister
+year
+income
+mention |  
+| bip_39_word_new_line5 | sister
+year
+income
+mention
+option |  
+| bip_39_word_new_line6 | sister
+year
+income
+mention
+option
+hello |  
+| bip_39_word_new_line7 | sister
+year
+income
+mention
+option
+hello
+autumn |  
+| bip_39_word_new_line8 | sister
+year
+income
+mention
+option
+hello
+autumn
+kit |  
+| bip_39_word_new_line9 | sister
+year
+income
+mention
+option
+hello
+autumn
+kit
+average |  
+| bip_39_word_space_0 | ['sister', 'year', 'income', 'mention', 'option', 'hello', 'autumn', 'kit', 'average', 'sunny', 'praise', 'arrow'] |  
+| bip_39_word_space_1 | sister |  
+| bip_39_word_space_10 | sister year income mention option hello autumn kit average sunny |  
+| bip_39_word_space_11 | sister year income mention option hello autumn kit average sunny praise |  
+| bip_39_word_space_12 | sister year income mention option hello autumn kit average sunny praise arrow |  
+| bip_39_word_space_2 | sister year |  
+| bip_39_word_space_3 | sister year income |  
+| bip_39_word_space_4 | sister year income mention |  
+| bip_39_word_space_5 | sister year income mention option |  
+| bip_39_word_space_6 | sister year income mention option hello |  
+| bip_39_word_space_7 | sister year income mention option hello autumn |  
+| bip_39_word_space_8 | sister year income mention option hello autumn kit |  
+| bip_39_word_space_9 | sister year income mention option hello autumn kit average |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

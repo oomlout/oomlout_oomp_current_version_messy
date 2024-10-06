@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plate dismiss
+  * bip 39 word 3: plate dismiss minute
+  * bip 39 word: plate dismiss minute drink gospel analyst cute raise mix ticket chief almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plate |  
+| bip_39_word_new_br10 | plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst<br>cute<br>raise<br>mix<br>ticket |  
+| bip_39_word_new_br11 | plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst<br>cute<br>raise<br>mix<br>ticket<br>chief |  
+| bip_39_word_new_br12 | plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst<br>cute<br>raise<br>mix<br>ticket<br>chief<br>almost |  
+| bip_39_word_new_br2 | plate<br>dismiss |  
+| bip_39_word_new_br3 | plate<br>dismiss<br>minute |  
+| bip_39_word_new_br4 | plate<br>dismiss<br>minute<br>drink |  
+| bip_39_word_new_br5 | plate<br>dismiss<br>minute<br>drink<br>gospel |  
+| bip_39_word_new_br6 | plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst |  
+| bip_39_word_new_br7 | plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst<br>cute |  
+| bip_39_word_new_br8 | plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst<br>cute<br>raise |  
+| bip_39_word_new_br9 | plate<br>dismiss<br>minute<br>drink<br>gospel<br>analyst<br>cute<br>raise<br>mix |  
+| bip_39_word_new_line1 | plate |  
+| bip_39_word_new_line10 | plate
+dismiss
+minute
+drink
+gospel
+analyst
+cute
+raise
+mix
+ticket |  
+| bip_39_word_new_line11 | plate
+dismiss
+minute
+drink
+gospel
+analyst
+cute
+raise
+mix
+ticket
+chief |  
+| bip_39_word_new_line12 | plate
+dismiss
+minute
+drink
+gospel
+analyst
+cute
+raise
+mix
+ticket
+chief
+almost |  
+| bip_39_word_new_line2 | plate
+dismiss |  
+| bip_39_word_new_line3 | plate
+dismiss
+minute |  
+| bip_39_word_new_line4 | plate
+dismiss
+minute
+drink |  
+| bip_39_word_new_line5 | plate
+dismiss
+minute
+drink
+gospel |  
+| bip_39_word_new_line6 | plate
+dismiss
+minute
+drink
+gospel
+analyst |  
+| bip_39_word_new_line7 | plate
+dismiss
+minute
+drink
+gospel
+analyst
+cute |  
+| bip_39_word_new_line8 | plate
+dismiss
+minute
+drink
+gospel
+analyst
+cute
+raise |  
+| bip_39_word_new_line9 | plate
+dismiss
+minute
+drink
+gospel
+analyst
+cute
+raise
+mix |  
+| bip_39_word_space_0 | ['plate', 'dismiss', 'minute', 'drink', 'gospel', 'analyst', 'cute', 'raise', 'mix', 'ticket', 'chief', 'almost'] |  
+| bip_39_word_space_1 | plate |  
+| bip_39_word_space_10 | plate dismiss minute drink gospel analyst cute raise mix ticket |  
+| bip_39_word_space_11 | plate dismiss minute drink gospel analyst cute raise mix ticket chief |  
+| bip_39_word_space_12 | plate dismiss minute drink gospel analyst cute raise mix ticket chief almost |  
+| bip_39_word_space_2 | plate dismiss |  
+| bip_39_word_space_3 | plate dismiss minute |  
+| bip_39_word_space_4 | plate dismiss minute drink |  
+| bip_39_word_space_5 | plate dismiss minute drink gospel |  
+| bip_39_word_space_6 | plate dismiss minute drink gospel analyst |  
+| bip_39_word_space_7 | plate dismiss minute drink gospel analyst cute |  
+| bip_39_word_space_8 | plate dismiss minute drink gospel analyst cute raise |  
+| bip_39_word_space_9 | plate dismiss minute drink gospel analyst cute raise mix |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: program
+bip_39_word_new_br10: program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen<br>napkin<br>rather<br>ugly<br>powder
+bip_39_word_new_br11: program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen<br>napkin<br>rather<br>ugly<br>powder<br>thrive
+bip_39_word_new_br12: program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen<br>napkin<br>rather<br>ugly<br>powder<br>thrive<br>advance
+bip_39_word_new_br2: program<br>inmate
+bip_39_word_new_br3: program<br>inmate<br>paddle
+bip_39_word_new_br4: program<br>inmate<br>paddle<br>basket
+bip_39_word_new_br5: program<br>inmate<br>paddle<br>basket<br>devote
+bip_39_word_new_br6: program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen
+bip_39_word_new_br7: program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen<br>napkin
+bip_39_word_new_br8: program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen<br>napkin<br>rather
+bip_39_word_new_br9: program<br>inmate<br>paddle<br>basket<br>devote<br>oxygen<br>napkin<br>rather<br>ugly
+bip_39_word_new_line1: program
+bip_39_word_new_line10: 'program
+
+  inmate
+
+  paddle
+
+  basket
+
+  devote
+
+  oxygen
+
+  napkin
+
+  rather
+
+  ugly
+
+  powder'
+bip_39_word_new_line11: 'program
+
+  inmate
+
+  paddle
+
+  basket
+
+  devote
+
+  oxygen
+
+  napkin
+
+  rather
+
+  ugly
+
+  powder
+
+  thrive'
+bip_39_word_new_line12: 'program
+
+  inmate
+
+  paddle
+
+  basket
+
+  devote
+
+  oxygen
+
+  napkin
+
+  rather
+
+  ugly
+
+  powder
+
+  thrive
+
+  advance'
+bip_39_word_new_line2: 'program
+
+  inmate'
+bip_39_word_new_line3: 'program
+
+  inmate
+
+  paddle'
+bip_39_word_new_line4: 'program
+
+  inmate
+
+  paddle
+
+  basket'
+bip_39_word_new_line5: 'program
+
+  inmate
+
+  paddle
+
+  basket
+
+  devote'
+bip_39_word_new_line6: 'program
+
+  inmate
+
+  paddle
+
+  basket
+
+  devote
+
+  oxygen'
+bip_39_word_new_line7: 'program
+
+  inmate
+
+  paddle
+
+  basket
+
+  devote
+
+  oxygen
+
+  napkin'
+bip_39_word_new_line8: 'program
+
+  inmate
+
+  paddle
+
+  basket
+
+  devote
+
+  oxygen
+
+  napkin
+
+  rather'
+bip_39_word_new_line9: 'program
+
+  inmate
+
+  paddle
+
+  basket
+
+  devote
+
+  oxygen
+
+  napkin
+
+  rather
+
+  ugly'
+bip_39_word_space_0:
+- program
+- inmate
+- paddle
+- basket
+- devote
+- oxygen
+- napkin
+- rather
+- ugly
+- powder
+- thrive
+- advance
+bip_39_word_space_1: program
+bip_39_word_space_10: program inmate paddle basket devote oxygen napkin rather ugly
+  powder
+bip_39_word_space_11: program inmate paddle basket devote oxygen napkin rather ugly
+  powder thrive
+bip_39_word_space_12: program inmate paddle basket devote oxygen napkin rather ugly
+  powder thrive advance
+bip_39_word_space_2: program inmate
+bip_39_word_space_3: program inmate paddle
+bip_39_word_space_4: program inmate paddle basket
+bip_39_word_space_5: program inmate paddle basket devote
+bip_39_word_space_6: program inmate paddle basket devote oxygen
+bip_39_word_space_7: program inmate paddle basket devote oxygen napkin
+bip_39_word_space_8: program inmate paddle basket devote oxygen napkin rather
+bip_39_word_space_9: program inmate paddle basket devote oxygen napkin rather ugly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

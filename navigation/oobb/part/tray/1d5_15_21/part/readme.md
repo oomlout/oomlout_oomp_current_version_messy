@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wise wise
+  * bip 39 word 3: wise wise enemy
+  * bip 39 word: wise wise enemy medal today comic brain name stand wealth expand actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wise |  
+| bip_39_word_new_br10 | wise<br>wise<br>enemy<br>medal<br>today<br>comic<br>brain<br>name<br>stand<br>wealth |  
+| bip_39_word_new_br11 | wise<br>wise<br>enemy<br>medal<br>today<br>comic<br>brain<br>name<br>stand<br>wealth<br>expand |  
+| bip_39_word_new_br12 | wise<br>wise<br>enemy<br>medal<br>today<br>comic<br>brain<br>name<br>stand<br>wealth<br>expand<br>actual |  
+| bip_39_word_new_br2 | wise<br>wise |  
+| bip_39_word_new_br3 | wise<br>wise<br>enemy |  
+| bip_39_word_new_br4 | wise<br>wise<br>enemy<br>medal |  
+| bip_39_word_new_br5 | wise<br>wise<br>enemy<br>medal<br>today |  
+| bip_39_word_new_br6 | wise<br>wise<br>enemy<br>medal<br>today<br>comic |  
+| bip_39_word_new_br7 | wise<br>wise<br>enemy<br>medal<br>today<br>comic<br>brain |  
+| bip_39_word_new_br8 | wise<br>wise<br>enemy<br>medal<br>today<br>comic<br>brain<br>name |  
+| bip_39_word_new_br9 | wise<br>wise<br>enemy<br>medal<br>today<br>comic<br>brain<br>name<br>stand |  
+| bip_39_word_new_line1 | wise |  
+| bip_39_word_new_line10 | wise
+wise
+enemy
+medal
+today
+comic
+brain
+name
+stand
+wealth |  
+| bip_39_word_new_line11 | wise
+wise
+enemy
+medal
+today
+comic
+brain
+name
+stand
+wealth
+expand |  
+| bip_39_word_new_line12 | wise
+wise
+enemy
+medal
+today
+comic
+brain
+name
+stand
+wealth
+expand
+actual |  
+| bip_39_word_new_line2 | wise
+wise |  
+| bip_39_word_new_line3 | wise
+wise
+enemy |  
+| bip_39_word_new_line4 | wise
+wise
+enemy
+medal |  
+| bip_39_word_new_line5 | wise
+wise
+enemy
+medal
+today |  
+| bip_39_word_new_line6 | wise
+wise
+enemy
+medal
+today
+comic |  
+| bip_39_word_new_line7 | wise
+wise
+enemy
+medal
+today
+comic
+brain |  
+| bip_39_word_new_line8 | wise
+wise
+enemy
+medal
+today
+comic
+brain
+name |  
+| bip_39_word_new_line9 | wise
+wise
+enemy
+medal
+today
+comic
+brain
+name
+stand |  
+| bip_39_word_space_0 | ['wise', 'wise', 'enemy', 'medal', 'today', 'comic', 'brain', 'name', 'stand', 'wealth', 'expand', 'actual'] |  
+| bip_39_word_space_1 | wise |  
+| bip_39_word_space_10 | wise wise enemy medal today comic brain name stand wealth |  
+| bip_39_word_space_11 | wise wise enemy medal today comic brain name stand wealth expand |  
+| bip_39_word_space_12 | wise wise enemy medal today comic brain name stand wealth expand actual |  
+| bip_39_word_space_2 | wise wise |  
+| bip_39_word_space_3 | wise wise enemy |  
+| bip_39_word_space_4 | wise wise enemy medal |  
+| bip_39_word_space_5 | wise wise enemy medal today |  
+| bip_39_word_space_6 | wise wise enemy medal today comic |  
+| bip_39_word_space_7 | wise wise enemy medal today comic brain |  
+| bip_39_word_space_8 | wise wise enemy medal today comic brain name |  
+| bip_39_word_space_9 | wise wise enemy medal today comic brain name stand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

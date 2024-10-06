@@ -1,3 +1,187 @@
+bip_39_word_new_br1: crash
+bip_39_word_new_br10: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget
+bip_39_word_new_br11: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget<br>fire
+bip_39_word_new_br12: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical<br>gadget<br>fire<br>area
+bip_39_word_new_br2: crash<br>grunt
+bip_39_word_new_br3: crash<br>grunt<br>cake
+bip_39_word_new_br4: crash<br>grunt<br>cake<br>rabbit
+bip_39_word_new_br5: crash<br>grunt<br>cake<br>rabbit<br>alcohol
+bip_39_word_new_br6: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper
+bip_39_word_new_br7: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host
+bip_39_word_new_br8: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example
+bip_39_word_new_br9: crash<br>grunt<br>cake<br>rabbit<br>alcohol<br>whisper<br>host<br>example<br>physical
+bip_39_word_new_line1: crash
+bip_39_word_new_line10: 'crash
+
+  grunt
+
+  cake
+
+  rabbit
+
+  alcohol
+
+  whisper
+
+  host
+
+  example
+
+  physical
+
+  gadget'
+bip_39_word_new_line11: 'crash
+
+  grunt
+
+  cake
+
+  rabbit
+
+  alcohol
+
+  whisper
+
+  host
+
+  example
+
+  physical
+
+  gadget
+
+  fire'
+bip_39_word_new_line12: 'crash
+
+  grunt
+
+  cake
+
+  rabbit
+
+  alcohol
+
+  whisper
+
+  host
+
+  example
+
+  physical
+
+  gadget
+
+  fire
+
+  area'
+bip_39_word_new_line2: 'crash
+
+  grunt'
+bip_39_word_new_line3: 'crash
+
+  grunt
+
+  cake'
+bip_39_word_new_line4: 'crash
+
+  grunt
+
+  cake
+
+  rabbit'
+bip_39_word_new_line5: 'crash
+
+  grunt
+
+  cake
+
+  rabbit
+
+  alcohol'
+bip_39_word_new_line6: 'crash
+
+  grunt
+
+  cake
+
+  rabbit
+
+  alcohol
+
+  whisper'
+bip_39_word_new_line7: 'crash
+
+  grunt
+
+  cake
+
+  rabbit
+
+  alcohol
+
+  whisper
+
+  host'
+bip_39_word_new_line8: 'crash
+
+  grunt
+
+  cake
+
+  rabbit
+
+  alcohol
+
+  whisper
+
+  host
+
+  example'
+bip_39_word_new_line9: 'crash
+
+  grunt
+
+  cake
+
+  rabbit
+
+  alcohol
+
+  whisper
+
+  host
+
+  example
+
+  physical'
+bip_39_word_space_0:
+- crash
+- grunt
+- cake
+- rabbit
+- alcohol
+- whisper
+- host
+- example
+- physical
+- gadget
+- fire
+- area
+bip_39_word_space_1: crash
+bip_39_word_space_10: crash grunt cake rabbit alcohol whisper host example physical
+  gadget
+bip_39_word_space_11: crash grunt cake rabbit alcohol whisper host example physical
+  gadget fire
+bip_39_word_space_12: crash grunt cake rabbit alcohol whisper host example physical
+  gadget fire area
+bip_39_word_space_2: crash grunt
+bip_39_word_space_3: crash grunt cake
+bip_39_word_space_4: crash grunt cake rabbit
+bip_39_word_space_5: crash grunt cake rabbit alcohol
+bip_39_word_space_6: crash grunt cake rabbit alcohol whisper
+bip_39_word_space_7: crash grunt cake rabbit alcohol whisper host
+bip_39_word_space_8: crash grunt cake rabbit alcohol whisper host example
+bip_39_word_space_9: crash grunt cake rabbit alcohol whisper host example physical
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

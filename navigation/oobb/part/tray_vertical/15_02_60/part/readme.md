@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: evoke december
+  * bip 39 word 3: evoke december world
+  * bip 39 word: evoke december world dice path vintage enforce mesh skate arrange tonight adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | evoke |  
+| bip_39_word_new_br10 | evoke<br>december<br>world<br>dice<br>path<br>vintage<br>enforce<br>mesh<br>skate<br>arrange |  
+| bip_39_word_new_br11 | evoke<br>december<br>world<br>dice<br>path<br>vintage<br>enforce<br>mesh<br>skate<br>arrange<br>tonight |  
+| bip_39_word_new_br12 | evoke<br>december<br>world<br>dice<br>path<br>vintage<br>enforce<br>mesh<br>skate<br>arrange<br>tonight<br>adjust |  
+| bip_39_word_new_br2 | evoke<br>december |  
+| bip_39_word_new_br3 | evoke<br>december<br>world |  
+| bip_39_word_new_br4 | evoke<br>december<br>world<br>dice |  
+| bip_39_word_new_br5 | evoke<br>december<br>world<br>dice<br>path |  
+| bip_39_word_new_br6 | evoke<br>december<br>world<br>dice<br>path<br>vintage |  
+| bip_39_word_new_br7 | evoke<br>december<br>world<br>dice<br>path<br>vintage<br>enforce |  
+| bip_39_word_new_br8 | evoke<br>december<br>world<br>dice<br>path<br>vintage<br>enforce<br>mesh |  
+| bip_39_word_new_br9 | evoke<br>december<br>world<br>dice<br>path<br>vintage<br>enforce<br>mesh<br>skate |  
+| bip_39_word_new_line1 | evoke |  
+| bip_39_word_new_line10 | evoke
+december
+world
+dice
+path
+vintage
+enforce
+mesh
+skate
+arrange |  
+| bip_39_word_new_line11 | evoke
+december
+world
+dice
+path
+vintage
+enforce
+mesh
+skate
+arrange
+tonight |  
+| bip_39_word_new_line12 | evoke
+december
+world
+dice
+path
+vintage
+enforce
+mesh
+skate
+arrange
+tonight
+adjust |  
+| bip_39_word_new_line2 | evoke
+december |  
+| bip_39_word_new_line3 | evoke
+december
+world |  
+| bip_39_word_new_line4 | evoke
+december
+world
+dice |  
+| bip_39_word_new_line5 | evoke
+december
+world
+dice
+path |  
+| bip_39_word_new_line6 | evoke
+december
+world
+dice
+path
+vintage |  
+| bip_39_word_new_line7 | evoke
+december
+world
+dice
+path
+vintage
+enforce |  
+| bip_39_word_new_line8 | evoke
+december
+world
+dice
+path
+vintage
+enforce
+mesh |  
+| bip_39_word_new_line9 | evoke
+december
+world
+dice
+path
+vintage
+enforce
+mesh
+skate |  
+| bip_39_word_space_0 | ['evoke', 'december', 'world', 'dice', 'path', 'vintage', 'enforce', 'mesh', 'skate', 'arrange', 'tonight', 'adjust'] |  
+| bip_39_word_space_1 | evoke |  
+| bip_39_word_space_10 | evoke december world dice path vintage enforce mesh skate arrange |  
+| bip_39_word_space_11 | evoke december world dice path vintage enforce mesh skate arrange tonight |  
+| bip_39_word_space_12 | evoke december world dice path vintage enforce mesh skate arrange tonight adjust |  
+| bip_39_word_space_2 | evoke december |  
+| bip_39_word_space_3 | evoke december world |  
+| bip_39_word_space_4 | evoke december world dice |  
+| bip_39_word_space_5 | evoke december world dice path |  
+| bip_39_word_space_6 | evoke december world dice path vintage |  
+| bip_39_word_space_7 | evoke december world dice path vintage enforce |  
+| bip_39_word_space_8 | evoke december world dice path vintage enforce mesh |  
+| bip_39_word_space_9 | evoke december world dice path vintage enforce mesh skate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

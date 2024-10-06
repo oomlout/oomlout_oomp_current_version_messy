@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ancient metal
+  * bip 39 word 3: ancient metal lake
+  * bip 39 word: ancient metal lake deliver cabbage good welcome laugh error banner worth afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ancient |  
+| bip_39_word_new_br10 | ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good<br>welcome<br>laugh<br>error<br>banner |  
+| bip_39_word_new_br11 | ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good<br>welcome<br>laugh<br>error<br>banner<br>worth |  
+| bip_39_word_new_br12 | ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good<br>welcome<br>laugh<br>error<br>banner<br>worth<br>afford |  
+| bip_39_word_new_br2 | ancient<br>metal |  
+| bip_39_word_new_br3 | ancient<br>metal<br>lake |  
+| bip_39_word_new_br4 | ancient<br>metal<br>lake<br>deliver |  
+| bip_39_word_new_br5 | ancient<br>metal<br>lake<br>deliver<br>cabbage |  
+| bip_39_word_new_br6 | ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good |  
+| bip_39_word_new_br7 | ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good<br>welcome |  
+| bip_39_word_new_br8 | ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good<br>welcome<br>laugh |  
+| bip_39_word_new_br9 | ancient<br>metal<br>lake<br>deliver<br>cabbage<br>good<br>welcome<br>laugh<br>error |  
+| bip_39_word_new_line1 | ancient |  
+| bip_39_word_new_line10 | ancient
+metal
+lake
+deliver
+cabbage
+good
+welcome
+laugh
+error
+banner |  
+| bip_39_word_new_line11 | ancient
+metal
+lake
+deliver
+cabbage
+good
+welcome
+laugh
+error
+banner
+worth |  
+| bip_39_word_new_line12 | ancient
+metal
+lake
+deliver
+cabbage
+good
+welcome
+laugh
+error
+banner
+worth
+afford |  
+| bip_39_word_new_line2 | ancient
+metal |  
+| bip_39_word_new_line3 | ancient
+metal
+lake |  
+| bip_39_word_new_line4 | ancient
+metal
+lake
+deliver |  
+| bip_39_word_new_line5 | ancient
+metal
+lake
+deliver
+cabbage |  
+| bip_39_word_new_line6 | ancient
+metal
+lake
+deliver
+cabbage
+good |  
+| bip_39_word_new_line7 | ancient
+metal
+lake
+deliver
+cabbage
+good
+welcome |  
+| bip_39_word_new_line8 | ancient
+metal
+lake
+deliver
+cabbage
+good
+welcome
+laugh |  
+| bip_39_word_new_line9 | ancient
+metal
+lake
+deliver
+cabbage
+good
+welcome
+laugh
+error |  
+| bip_39_word_space_0 | ['ancient', 'metal', 'lake', 'deliver', 'cabbage', 'good', 'welcome', 'laugh', 'error', 'banner', 'worth', 'afford'] |  
+| bip_39_word_space_1 | ancient |  
+| bip_39_word_space_10 | ancient metal lake deliver cabbage good welcome laugh error banner |  
+| bip_39_word_space_11 | ancient metal lake deliver cabbage good welcome laugh error banner worth |  
+| bip_39_word_space_12 | ancient metal lake deliver cabbage good welcome laugh error banner worth afford |  
+| bip_39_word_space_2 | ancient metal |  
+| bip_39_word_space_3 | ancient metal lake |  
+| bip_39_word_space_4 | ancient metal lake deliver |  
+| bip_39_word_space_5 | ancient metal lake deliver cabbage |  
+| bip_39_word_space_6 | ancient metal lake deliver cabbage good |  
+| bip_39_word_space_7 | ancient metal lake deliver cabbage good welcome |  
+| bip_39_word_space_8 | ancient metal lake deliver cabbage good welcome laugh |  
+| bip_39_word_space_9 | ancient metal lake deliver cabbage good welcome laugh error |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

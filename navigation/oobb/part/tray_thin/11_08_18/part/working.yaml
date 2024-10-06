@@ -1,3 +1,186 @@
+bip_39_word_new_br1: theory
+bip_39_word_new_br10: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel<br>kiwi<br>account<br>wave<br>carpet
+bip_39_word_new_br11: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel<br>kiwi<br>account<br>wave<br>carpet<br>pulse
+bip_39_word_new_br12: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel<br>kiwi<br>account<br>wave<br>carpet<br>pulse<br>action
+bip_39_word_new_br2: theory<br>melody
+bip_39_word_new_br3: theory<br>melody<br>guilt
+bip_39_word_new_br4: theory<br>melody<br>guilt<br>nasty
+bip_39_word_new_br5: theory<br>melody<br>guilt<br>nasty<br>transfer
+bip_39_word_new_br6: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel
+bip_39_word_new_br7: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel<br>kiwi
+bip_39_word_new_br8: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel<br>kiwi<br>account
+bip_39_word_new_br9: theory<br>melody<br>guilt<br>nasty<br>transfer<br>cruel<br>kiwi<br>account<br>wave
+bip_39_word_new_line1: theory
+bip_39_word_new_line10: 'theory
+
+  melody
+
+  guilt
+
+  nasty
+
+  transfer
+
+  cruel
+
+  kiwi
+
+  account
+
+  wave
+
+  carpet'
+bip_39_word_new_line11: 'theory
+
+  melody
+
+  guilt
+
+  nasty
+
+  transfer
+
+  cruel
+
+  kiwi
+
+  account
+
+  wave
+
+  carpet
+
+  pulse'
+bip_39_word_new_line12: 'theory
+
+  melody
+
+  guilt
+
+  nasty
+
+  transfer
+
+  cruel
+
+  kiwi
+
+  account
+
+  wave
+
+  carpet
+
+  pulse
+
+  action'
+bip_39_word_new_line2: 'theory
+
+  melody'
+bip_39_word_new_line3: 'theory
+
+  melody
+
+  guilt'
+bip_39_word_new_line4: 'theory
+
+  melody
+
+  guilt
+
+  nasty'
+bip_39_word_new_line5: 'theory
+
+  melody
+
+  guilt
+
+  nasty
+
+  transfer'
+bip_39_word_new_line6: 'theory
+
+  melody
+
+  guilt
+
+  nasty
+
+  transfer
+
+  cruel'
+bip_39_word_new_line7: 'theory
+
+  melody
+
+  guilt
+
+  nasty
+
+  transfer
+
+  cruel
+
+  kiwi'
+bip_39_word_new_line8: 'theory
+
+  melody
+
+  guilt
+
+  nasty
+
+  transfer
+
+  cruel
+
+  kiwi
+
+  account'
+bip_39_word_new_line9: 'theory
+
+  melody
+
+  guilt
+
+  nasty
+
+  transfer
+
+  cruel
+
+  kiwi
+
+  account
+
+  wave'
+bip_39_word_space_0:
+- theory
+- melody
+- guilt
+- nasty
+- transfer
+- cruel
+- kiwi
+- account
+- wave
+- carpet
+- pulse
+- action
+bip_39_word_space_1: theory
+bip_39_word_space_10: theory melody guilt nasty transfer cruel kiwi account wave carpet
+bip_39_word_space_11: theory melody guilt nasty transfer cruel kiwi account wave carpet
+  pulse
+bip_39_word_space_12: theory melody guilt nasty transfer cruel kiwi account wave carpet
+  pulse action
+bip_39_word_space_2: theory melody
+bip_39_word_space_3: theory melody guilt
+bip_39_word_space_4: theory melody guilt nasty
+bip_39_word_space_5: theory melody guilt nasty transfer
+bip_39_word_space_6: theory melody guilt nasty transfer cruel
+bip_39_word_space_7: theory melody guilt nasty transfer cruel kiwi
+bip_39_word_space_8: theory melody guilt nasty transfer cruel kiwi account
+bip_39_word_space_9: theory melody guilt nasty transfer cruel kiwi account wave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

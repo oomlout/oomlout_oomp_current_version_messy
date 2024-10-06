@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: razor eyebrow
+  * bip 39 word 3: razor eyebrow scatter
+  * bip 39 word: razor eyebrow scatter coil double neither daughter lady fragile rhythm number arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | razor |  
+| bip_39_word_new_br10 | razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither<br>daughter<br>lady<br>fragile<br>rhythm |  
+| bip_39_word_new_br11 | razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither<br>daughter<br>lady<br>fragile<br>rhythm<br>number |  
+| bip_39_word_new_br12 | razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither<br>daughter<br>lady<br>fragile<br>rhythm<br>number<br>arm |  
+| bip_39_word_new_br2 | razor<br>eyebrow |  
+| bip_39_word_new_br3 | razor<br>eyebrow<br>scatter |  
+| bip_39_word_new_br4 | razor<br>eyebrow<br>scatter<br>coil |  
+| bip_39_word_new_br5 | razor<br>eyebrow<br>scatter<br>coil<br>double |  
+| bip_39_word_new_br6 | razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither |  
+| bip_39_word_new_br7 | razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither<br>daughter |  
+| bip_39_word_new_br8 | razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither<br>daughter<br>lady |  
+| bip_39_word_new_br9 | razor<br>eyebrow<br>scatter<br>coil<br>double<br>neither<br>daughter<br>lady<br>fragile |  
+| bip_39_word_new_line1 | razor |  
+| bip_39_word_new_line10 | razor
+eyebrow
+scatter
+coil
+double
+neither
+daughter
+lady
+fragile
+rhythm |  
+| bip_39_word_new_line11 | razor
+eyebrow
+scatter
+coil
+double
+neither
+daughter
+lady
+fragile
+rhythm
+number |  
+| bip_39_word_new_line12 | razor
+eyebrow
+scatter
+coil
+double
+neither
+daughter
+lady
+fragile
+rhythm
+number
+arm |  
+| bip_39_word_new_line2 | razor
+eyebrow |  
+| bip_39_word_new_line3 | razor
+eyebrow
+scatter |  
+| bip_39_word_new_line4 | razor
+eyebrow
+scatter
+coil |  
+| bip_39_word_new_line5 | razor
+eyebrow
+scatter
+coil
+double |  
+| bip_39_word_new_line6 | razor
+eyebrow
+scatter
+coil
+double
+neither |  
+| bip_39_word_new_line7 | razor
+eyebrow
+scatter
+coil
+double
+neither
+daughter |  
+| bip_39_word_new_line8 | razor
+eyebrow
+scatter
+coil
+double
+neither
+daughter
+lady |  
+| bip_39_word_new_line9 | razor
+eyebrow
+scatter
+coil
+double
+neither
+daughter
+lady
+fragile |  
+| bip_39_word_space_0 | ['razor', 'eyebrow', 'scatter', 'coil', 'double', 'neither', 'daughter', 'lady', 'fragile', 'rhythm', 'number', 'arm'] |  
+| bip_39_word_space_1 | razor |  
+| bip_39_word_space_10 | razor eyebrow scatter coil double neither daughter lady fragile rhythm |  
+| bip_39_word_space_11 | razor eyebrow scatter coil double neither daughter lady fragile rhythm number |  
+| bip_39_word_space_12 | razor eyebrow scatter coil double neither daughter lady fragile rhythm number arm |  
+| bip_39_word_space_2 | razor eyebrow |  
+| bip_39_word_space_3 | razor eyebrow scatter |  
+| bip_39_word_space_4 | razor eyebrow scatter coil |  
+| bip_39_word_space_5 | razor eyebrow scatter coil double |  
+| bip_39_word_space_6 | razor eyebrow scatter coil double neither |  
+| bip_39_word_space_7 | razor eyebrow scatter coil double neither daughter |  
+| bip_39_word_space_8 | razor eyebrow scatter coil double neither daughter lady |  
+| bip_39_word_space_9 | razor eyebrow scatter coil double neither daughter lady fragile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

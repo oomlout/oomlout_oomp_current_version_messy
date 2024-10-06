@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: north loan
+  * bip 39 word 3: north loan solid
+  * bip 39 word: north loan solid column purse oval help era invite fan myself assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | north |  
+| bip_39_word_new_br10 | north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite<br>fan |  
+| bip_39_word_new_br11 | north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite<br>fan<br>myself |  
+| bip_39_word_new_br12 | north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite<br>fan<br>myself<br>assume |  
+| bip_39_word_new_br2 | north<br>loan |  
+| bip_39_word_new_br3 | north<br>loan<br>solid |  
+| bip_39_word_new_br4 | north<br>loan<br>solid<br>column |  
+| bip_39_word_new_br5 | north<br>loan<br>solid<br>column<br>purse |  
+| bip_39_word_new_br6 | north<br>loan<br>solid<br>column<br>purse<br>oval |  
+| bip_39_word_new_br7 | north<br>loan<br>solid<br>column<br>purse<br>oval<br>help |  
+| bip_39_word_new_br8 | north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era |  
+| bip_39_word_new_br9 | north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite |  
+| bip_39_word_new_line1 | north |  
+| bip_39_word_new_line10 | north
+loan
+solid
+column
+purse
+oval
+help
+era
+invite
+fan |  
+| bip_39_word_new_line11 | north
+loan
+solid
+column
+purse
+oval
+help
+era
+invite
+fan
+myself |  
+| bip_39_word_new_line12 | north
+loan
+solid
+column
+purse
+oval
+help
+era
+invite
+fan
+myself
+assume |  
+| bip_39_word_new_line2 | north
+loan |  
+| bip_39_word_new_line3 | north
+loan
+solid |  
+| bip_39_word_new_line4 | north
+loan
+solid
+column |  
+| bip_39_word_new_line5 | north
+loan
+solid
+column
+purse |  
+| bip_39_word_new_line6 | north
+loan
+solid
+column
+purse
+oval |  
+| bip_39_word_new_line7 | north
+loan
+solid
+column
+purse
+oval
+help |  
+| bip_39_word_new_line8 | north
+loan
+solid
+column
+purse
+oval
+help
+era |  
+| bip_39_word_new_line9 | north
+loan
+solid
+column
+purse
+oval
+help
+era
+invite |  
+| bip_39_word_space_0 | ['north', 'loan', 'solid', 'column', 'purse', 'oval', 'help', 'era', 'invite', 'fan', 'myself', 'assume'] |  
+| bip_39_word_space_1 | north |  
+| bip_39_word_space_10 | north loan solid column purse oval help era invite fan |  
+| bip_39_word_space_11 | north loan solid column purse oval help era invite fan myself |  
+| bip_39_word_space_12 | north loan solid column purse oval help era invite fan myself assume |  
+| bip_39_word_space_2 | north loan |  
+| bip_39_word_space_3 | north loan solid |  
+| bip_39_word_space_4 | north loan solid column |  
+| bip_39_word_space_5 | north loan solid column purse |  
+| bip_39_word_space_6 | north loan solid column purse oval |  
+| bip_39_word_space_7 | north loan solid column purse oval help |  
+| bip_39_word_space_8 | north loan solid column purse oval help era |  
+| bip_39_word_space_9 | north loan solid column purse oval help era invite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 3dqf
   * part_number: 
+  * bip 39 word 2: grain convince
+  * bip 39 word 3: grain convince close
+  * bip 39 word: grain convince close moral despair humor input similar drink derive hood assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grain |  
+| bip_39_word_new_br10 | grain<br>convince<br>close<br>moral<br>despair<br>humor<br>input<br>similar<br>drink<br>derive |  
+| bip_39_word_new_br11 | grain<br>convince<br>close<br>moral<br>despair<br>humor<br>input<br>similar<br>drink<br>derive<br>hood |  
+| bip_39_word_new_br12 | grain<br>convince<br>close<br>moral<br>despair<br>humor<br>input<br>similar<br>drink<br>derive<br>hood<br>assault |  
+| bip_39_word_new_br2 | grain<br>convince |  
+| bip_39_word_new_br3 | grain<br>convince<br>close |  
+| bip_39_word_new_br4 | grain<br>convince<br>close<br>moral |  
+| bip_39_word_new_br5 | grain<br>convince<br>close<br>moral<br>despair |  
+| bip_39_word_new_br6 | grain<br>convince<br>close<br>moral<br>despair<br>humor |  
+| bip_39_word_new_br7 | grain<br>convince<br>close<br>moral<br>despair<br>humor<br>input |  
+| bip_39_word_new_br8 | grain<br>convince<br>close<br>moral<br>despair<br>humor<br>input<br>similar |  
+| bip_39_word_new_br9 | grain<br>convince<br>close<br>moral<br>despair<br>humor<br>input<br>similar<br>drink |  
+| bip_39_word_new_line1 | grain |  
+| bip_39_word_new_line10 | grain
+convince
+close
+moral
+despair
+humor
+input
+similar
+drink
+derive |  
+| bip_39_word_new_line11 | grain
+convince
+close
+moral
+despair
+humor
+input
+similar
+drink
+derive
+hood |  
+| bip_39_word_new_line12 | grain
+convince
+close
+moral
+despair
+humor
+input
+similar
+drink
+derive
+hood
+assault |  
+| bip_39_word_new_line2 | grain
+convince |  
+| bip_39_word_new_line3 | grain
+convince
+close |  
+| bip_39_word_new_line4 | grain
+convince
+close
+moral |  
+| bip_39_word_new_line5 | grain
+convince
+close
+moral
+despair |  
+| bip_39_word_new_line6 | grain
+convince
+close
+moral
+despair
+humor |  
+| bip_39_word_new_line7 | grain
+convince
+close
+moral
+despair
+humor
+input |  
+| bip_39_word_new_line8 | grain
+convince
+close
+moral
+despair
+humor
+input
+similar |  
+| bip_39_word_new_line9 | grain
+convince
+close
+moral
+despair
+humor
+input
+similar
+drink |  
+| bip_39_word_space_0 | ['grain', 'convince', 'close', 'moral', 'despair', 'humor', 'input', 'similar', 'drink', 'derive', 'hood', 'assault'] |  
+| bip_39_word_space_1 | grain |  
+| bip_39_word_space_10 | grain convince close moral despair humor input similar drink derive |  
+| bip_39_word_space_11 | grain convince close moral despair humor input similar drink derive hood |  
+| bip_39_word_space_12 | grain convince close moral despair humor input similar drink derive hood assault |  
+| bip_39_word_space_2 | grain convince |  
+| bip_39_word_space_3 | grain convince close |  
+| bip_39_word_space_4 | grain convince close moral |  
+| bip_39_word_space_5 | grain convince close moral despair |  
+| bip_39_word_space_6 | grain convince close moral despair humor |  
+| bip_39_word_space_7 | grain convince close moral despair humor input |  
+| bip_39_word_space_8 | grain convince close moral despair humor input similar |  
+| bip_39_word_space_9 | grain convince close moral despair humor input similar drink |  
 | classification | three_d_printer |  
 | classification_capital | Three D Printer |  
 | classification_first_letter | t |  

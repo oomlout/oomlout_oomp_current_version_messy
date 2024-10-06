@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: dupont
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: corn track
+  * bip 39 word 3: corn track few
+  * bip 39 word: corn track few half aerobic nothing debate adjust hello member knife able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | corn |  
+| bip_39_word_new_br10 | corn<br>track<br>few<br>half<br>aerobic<br>nothing<br>debate<br>adjust<br>hello<br>member |  
+| bip_39_word_new_br11 | corn<br>track<br>few<br>half<br>aerobic<br>nothing<br>debate<br>adjust<br>hello<br>member<br>knife |  
+| bip_39_word_new_br12 | corn<br>track<br>few<br>half<br>aerobic<br>nothing<br>debate<br>adjust<br>hello<br>member<br>knife<br>able |  
+| bip_39_word_new_br2 | corn<br>track |  
+| bip_39_word_new_br3 | corn<br>track<br>few |  
+| bip_39_word_new_br4 | corn<br>track<br>few<br>half |  
+| bip_39_word_new_br5 | corn<br>track<br>few<br>half<br>aerobic |  
+| bip_39_word_new_br6 | corn<br>track<br>few<br>half<br>aerobic<br>nothing |  
+| bip_39_word_new_br7 | corn<br>track<br>few<br>half<br>aerobic<br>nothing<br>debate |  
+| bip_39_word_new_br8 | corn<br>track<br>few<br>half<br>aerobic<br>nothing<br>debate<br>adjust |  
+| bip_39_word_new_br9 | corn<br>track<br>few<br>half<br>aerobic<br>nothing<br>debate<br>adjust<br>hello |  
+| bip_39_word_new_line1 | corn |  
+| bip_39_word_new_line10 | corn
+track
+few
+half
+aerobic
+nothing
+debate
+adjust
+hello
+member |  
+| bip_39_word_new_line11 | corn
+track
+few
+half
+aerobic
+nothing
+debate
+adjust
+hello
+member
+knife |  
+| bip_39_word_new_line12 | corn
+track
+few
+half
+aerobic
+nothing
+debate
+adjust
+hello
+member
+knife
+able |  
+| bip_39_word_new_line2 | corn
+track |  
+| bip_39_word_new_line3 | corn
+track
+few |  
+| bip_39_word_new_line4 | corn
+track
+few
+half |  
+| bip_39_word_new_line5 | corn
+track
+few
+half
+aerobic |  
+| bip_39_word_new_line6 | corn
+track
+few
+half
+aerobic
+nothing |  
+| bip_39_word_new_line7 | corn
+track
+few
+half
+aerobic
+nothing
+debate |  
+| bip_39_word_new_line8 | corn
+track
+few
+half
+aerobic
+nothing
+debate
+adjust |  
+| bip_39_word_new_line9 | corn
+track
+few
+half
+aerobic
+nothing
+debate
+adjust
+hello |  
+| bip_39_word_space_0 | ['corn', 'track', 'few', 'half', 'aerobic', 'nothing', 'debate', 'adjust', 'hello', 'member', 'knife', 'able'] |  
+| bip_39_word_space_1 | corn |  
+| bip_39_word_space_10 | corn track few half aerobic nothing debate adjust hello member |  
+| bip_39_word_space_11 | corn track few half aerobic nothing debate adjust hello member knife |  
+| bip_39_word_space_12 | corn track few half aerobic nothing debate adjust hello member knife able |  
+| bip_39_word_space_2 | corn track |  
+| bip_39_word_space_3 | corn track few |  
+| bip_39_word_space_4 | corn track few half |  
+| bip_39_word_space_5 | corn track few half aerobic |  
+| bip_39_word_space_6 | corn track few half aerobic nothing |  
+| bip_39_word_space_7 | corn track few half aerobic nothing debate |  
+| bip_39_word_space_8 | corn track few half aerobic nothing debate adjust |  
+| bip_39_word_space_9 | corn track few half aerobic nothing debate adjust hello |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

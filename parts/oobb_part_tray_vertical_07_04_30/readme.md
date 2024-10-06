@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: entry math
+  * bip 39 word 3: entry math camera
+  * bip 39 word: entry math camera matter able utility divert mushroom error open social among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | entry |  
+| bip_39_word_new_br10 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open |  
+| bip_39_word_new_br11 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open<br>social |  
+| bip_39_word_new_br12 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error<br>open<br>social<br>among |  
+| bip_39_word_new_br2 | entry<br>math |  
+| bip_39_word_new_br3 | entry<br>math<br>camera |  
+| bip_39_word_new_br4 | entry<br>math<br>camera<br>matter |  
+| bip_39_word_new_br5 | entry<br>math<br>camera<br>matter<br>able |  
+| bip_39_word_new_br6 | entry<br>math<br>camera<br>matter<br>able<br>utility |  
+| bip_39_word_new_br7 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert |  
+| bip_39_word_new_br8 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom |  
+| bip_39_word_new_br9 | entry<br>math<br>camera<br>matter<br>able<br>utility<br>divert<br>mushroom<br>error |  
+| bip_39_word_new_line1 | entry |  
+| bip_39_word_new_line10 | entry
+math
+camera
+matter
+able
+utility
+divert
+mushroom
+error
+open |  
+| bip_39_word_new_line11 | entry
+math
+camera
+matter
+able
+utility
+divert
+mushroom
+error
+open
+social |  
+| bip_39_word_new_line12 | entry
+math
+camera
+matter
+able
+utility
+divert
+mushroom
+error
+open
+social
+among |  
+| bip_39_word_new_line2 | entry
+math |  
+| bip_39_word_new_line3 | entry
+math
+camera |  
+| bip_39_word_new_line4 | entry
+math
+camera
+matter |  
+| bip_39_word_new_line5 | entry
+math
+camera
+matter
+able |  
+| bip_39_word_new_line6 | entry
+math
+camera
+matter
+able
+utility |  
+| bip_39_word_new_line7 | entry
+math
+camera
+matter
+able
+utility
+divert |  
+| bip_39_word_new_line8 | entry
+math
+camera
+matter
+able
+utility
+divert
+mushroom |  
+| bip_39_word_new_line9 | entry
+math
+camera
+matter
+able
+utility
+divert
+mushroom
+error |  
+| bip_39_word_space_0 | ['entry', 'math', 'camera', 'matter', 'able', 'utility', 'divert', 'mushroom', 'error', 'open', 'social', 'among'] |  
+| bip_39_word_space_1 | entry |  
+| bip_39_word_space_10 | entry math camera matter able utility divert mushroom error open |  
+| bip_39_word_space_11 | entry math camera matter able utility divert mushroom error open social |  
+| bip_39_word_space_12 | entry math camera matter able utility divert mushroom error open social among |  
+| bip_39_word_space_2 | entry math |  
+| bip_39_word_space_3 | entry math camera |  
+| bip_39_word_space_4 | entry math camera matter |  
+| bip_39_word_space_5 | entry math camera matter able |  
+| bip_39_word_space_6 | entry math camera matter able utility |  
+| bip_39_word_space_7 | entry math camera matter able utility divert |  
+| bip_39_word_space_8 | entry math camera matter able utility divert mushroom |  
+| bip_39_word_space_9 | entry math camera matter able utility divert mushroom error |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lucky eight
+  * bip 39 word 3: lucky eight pole
+  * bip 39 word: lucky eight pole arm clay enter please please outside hen guilt access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lucky |  
+| bip_39_word_new_br10 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen |  
+| bip_39_word_new_br11 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen<br>guilt |  
+| bip_39_word_new_br12 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside<br>hen<br>guilt<br>access |  
+| bip_39_word_new_br2 | lucky<br>eight |  
+| bip_39_word_new_br3 | lucky<br>eight<br>pole |  
+| bip_39_word_new_br4 | lucky<br>eight<br>pole<br>arm |  
+| bip_39_word_new_br5 | lucky<br>eight<br>pole<br>arm<br>clay |  
+| bip_39_word_new_br6 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter |  
+| bip_39_word_new_br7 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please |  
+| bip_39_word_new_br8 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please |  
+| bip_39_word_new_br9 | lucky<br>eight<br>pole<br>arm<br>clay<br>enter<br>please<br>please<br>outside |  
+| bip_39_word_new_line1 | lucky |  
+| bip_39_word_new_line10 | lucky
+eight
+pole
+arm
+clay
+enter
+please
+please
+outside
+hen |  
+| bip_39_word_new_line11 | lucky
+eight
+pole
+arm
+clay
+enter
+please
+please
+outside
+hen
+guilt |  
+| bip_39_word_new_line12 | lucky
+eight
+pole
+arm
+clay
+enter
+please
+please
+outside
+hen
+guilt
+access |  
+| bip_39_word_new_line2 | lucky
+eight |  
+| bip_39_word_new_line3 | lucky
+eight
+pole |  
+| bip_39_word_new_line4 | lucky
+eight
+pole
+arm |  
+| bip_39_word_new_line5 | lucky
+eight
+pole
+arm
+clay |  
+| bip_39_word_new_line6 | lucky
+eight
+pole
+arm
+clay
+enter |  
+| bip_39_word_new_line7 | lucky
+eight
+pole
+arm
+clay
+enter
+please |  
+| bip_39_word_new_line8 | lucky
+eight
+pole
+arm
+clay
+enter
+please
+please |  
+| bip_39_word_new_line9 | lucky
+eight
+pole
+arm
+clay
+enter
+please
+please
+outside |  
+| bip_39_word_space_0 | ['lucky', 'eight', 'pole', 'arm', 'clay', 'enter', 'please', 'please', 'outside', 'hen', 'guilt', 'access'] |  
+| bip_39_word_space_1 | lucky |  
+| bip_39_word_space_10 | lucky eight pole arm clay enter please please outside hen |  
+| bip_39_word_space_11 | lucky eight pole arm clay enter please please outside hen guilt |  
+| bip_39_word_space_12 | lucky eight pole arm clay enter please please outside hen guilt access |  
+| bip_39_word_space_2 | lucky eight |  
+| bip_39_word_space_3 | lucky eight pole |  
+| bip_39_word_space_4 | lucky eight pole arm |  
+| bip_39_word_space_5 | lucky eight pole arm clay |  
+| bip_39_word_space_6 | lucky eight pole arm clay enter |  
+| bip_39_word_space_7 | lucky eight pole arm clay enter please |  
+| bip_39_word_space_8 | lucky eight pole arm clay enter please please |  
+| bip_39_word_space_9 | lucky eight pole arm clay enter please please outside |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

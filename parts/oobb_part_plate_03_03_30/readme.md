@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: payment zone
+  * bip 39 word 3: payment zone home
+  * bip 39 word: payment zone home brave recall kind wheel slush swap actual copy attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | payment |  
+| bip_39_word_new_br10 | payment<br>zone<br>home<br>brave<br>recall<br>kind<br>wheel<br>slush<br>swap<br>actual |  
+| bip_39_word_new_br11 | payment<br>zone<br>home<br>brave<br>recall<br>kind<br>wheel<br>slush<br>swap<br>actual<br>copy |  
+| bip_39_word_new_br12 | payment<br>zone<br>home<br>brave<br>recall<br>kind<br>wheel<br>slush<br>swap<br>actual<br>copy<br>attract |  
+| bip_39_word_new_br2 | payment<br>zone |  
+| bip_39_word_new_br3 | payment<br>zone<br>home |  
+| bip_39_word_new_br4 | payment<br>zone<br>home<br>brave |  
+| bip_39_word_new_br5 | payment<br>zone<br>home<br>brave<br>recall |  
+| bip_39_word_new_br6 | payment<br>zone<br>home<br>brave<br>recall<br>kind |  
+| bip_39_word_new_br7 | payment<br>zone<br>home<br>brave<br>recall<br>kind<br>wheel |  
+| bip_39_word_new_br8 | payment<br>zone<br>home<br>brave<br>recall<br>kind<br>wheel<br>slush |  
+| bip_39_word_new_br9 | payment<br>zone<br>home<br>brave<br>recall<br>kind<br>wheel<br>slush<br>swap |  
+| bip_39_word_new_line1 | payment |  
+| bip_39_word_new_line10 | payment
+zone
+home
+brave
+recall
+kind
+wheel
+slush
+swap
+actual |  
+| bip_39_word_new_line11 | payment
+zone
+home
+brave
+recall
+kind
+wheel
+slush
+swap
+actual
+copy |  
+| bip_39_word_new_line12 | payment
+zone
+home
+brave
+recall
+kind
+wheel
+slush
+swap
+actual
+copy
+attract |  
+| bip_39_word_new_line2 | payment
+zone |  
+| bip_39_word_new_line3 | payment
+zone
+home |  
+| bip_39_word_new_line4 | payment
+zone
+home
+brave |  
+| bip_39_word_new_line5 | payment
+zone
+home
+brave
+recall |  
+| bip_39_word_new_line6 | payment
+zone
+home
+brave
+recall
+kind |  
+| bip_39_word_new_line7 | payment
+zone
+home
+brave
+recall
+kind
+wheel |  
+| bip_39_word_new_line8 | payment
+zone
+home
+brave
+recall
+kind
+wheel
+slush |  
+| bip_39_word_new_line9 | payment
+zone
+home
+brave
+recall
+kind
+wheel
+slush
+swap |  
+| bip_39_word_space_0 | ['payment', 'zone', 'home', 'brave', 'recall', 'kind', 'wheel', 'slush', 'swap', 'actual', 'copy', 'attract'] |  
+| bip_39_word_space_1 | payment |  
+| bip_39_word_space_10 | payment zone home brave recall kind wheel slush swap actual |  
+| bip_39_word_space_11 | payment zone home brave recall kind wheel slush swap actual copy |  
+| bip_39_word_space_12 | payment zone home brave recall kind wheel slush swap actual copy attract |  
+| bip_39_word_space_2 | payment zone |  
+| bip_39_word_space_3 | payment zone home |  
+| bip_39_word_space_4 | payment zone home brave |  
+| bip_39_word_space_5 | payment zone home brave recall |  
+| bip_39_word_space_6 | payment zone home brave recall kind |  
+| bip_39_word_space_7 | payment zone home brave recall kind wheel |  
+| bip_39_word_space_8 | payment zone home brave recall kind wheel slush |  
+| bip_39_word_space_9 | payment zone home brave recall kind wheel slush swap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: purse spoil
+  * bip 39 word 3: purse spoil siege
+  * bip 39 word: purse spoil siege scrub pet session issue option away service crystal angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | purse |  
+| bip_39_word_new_br10 | purse<br>spoil<br>siege<br>scrub<br>pet<br>session<br>issue<br>option<br>away<br>service |  
+| bip_39_word_new_br11 | purse<br>spoil<br>siege<br>scrub<br>pet<br>session<br>issue<br>option<br>away<br>service<br>crystal |  
+| bip_39_word_new_br12 | purse<br>spoil<br>siege<br>scrub<br>pet<br>session<br>issue<br>option<br>away<br>service<br>crystal<br>angry |  
+| bip_39_word_new_br2 | purse<br>spoil |  
+| bip_39_word_new_br3 | purse<br>spoil<br>siege |  
+| bip_39_word_new_br4 | purse<br>spoil<br>siege<br>scrub |  
+| bip_39_word_new_br5 | purse<br>spoil<br>siege<br>scrub<br>pet |  
+| bip_39_word_new_br6 | purse<br>spoil<br>siege<br>scrub<br>pet<br>session |  
+| bip_39_word_new_br7 | purse<br>spoil<br>siege<br>scrub<br>pet<br>session<br>issue |  
+| bip_39_word_new_br8 | purse<br>spoil<br>siege<br>scrub<br>pet<br>session<br>issue<br>option |  
+| bip_39_word_new_br9 | purse<br>spoil<br>siege<br>scrub<br>pet<br>session<br>issue<br>option<br>away |  
+| bip_39_word_new_line1 | purse |  
+| bip_39_word_new_line10 | purse
+spoil
+siege
+scrub
+pet
+session
+issue
+option
+away
+service |  
+| bip_39_word_new_line11 | purse
+spoil
+siege
+scrub
+pet
+session
+issue
+option
+away
+service
+crystal |  
+| bip_39_word_new_line12 | purse
+spoil
+siege
+scrub
+pet
+session
+issue
+option
+away
+service
+crystal
+angry |  
+| bip_39_word_new_line2 | purse
+spoil |  
+| bip_39_word_new_line3 | purse
+spoil
+siege |  
+| bip_39_word_new_line4 | purse
+spoil
+siege
+scrub |  
+| bip_39_word_new_line5 | purse
+spoil
+siege
+scrub
+pet |  
+| bip_39_word_new_line6 | purse
+spoil
+siege
+scrub
+pet
+session |  
+| bip_39_word_new_line7 | purse
+spoil
+siege
+scrub
+pet
+session
+issue |  
+| bip_39_word_new_line8 | purse
+spoil
+siege
+scrub
+pet
+session
+issue
+option |  
+| bip_39_word_new_line9 | purse
+spoil
+siege
+scrub
+pet
+session
+issue
+option
+away |  
+| bip_39_word_space_0 | ['purse', 'spoil', 'siege', 'scrub', 'pet', 'session', 'issue', 'option', 'away', 'service', 'crystal', 'angry'] |  
+| bip_39_word_space_1 | purse |  
+| bip_39_word_space_10 | purse spoil siege scrub pet session issue option away service |  
+| bip_39_word_space_11 | purse spoil siege scrub pet session issue option away service crystal |  
+| bip_39_word_space_12 | purse spoil siege scrub pet session issue option away service crystal angry |  
+| bip_39_word_space_2 | purse spoil |  
+| bip_39_word_space_3 | purse spoil siege |  
+| bip_39_word_space_4 | purse spoil siege scrub |  
+| bip_39_word_space_5 | purse spoil siege scrub pet |  
+| bip_39_word_space_6 | purse spoil siege scrub pet session |  
+| bip_39_word_space_7 | purse spoil siege scrub pet session issue |  
+| bip_39_word_space_8 | purse spoil siege scrub pet session issue option |  
+| bip_39_word_space_9 | purse spoil siege scrub pet session issue option away |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

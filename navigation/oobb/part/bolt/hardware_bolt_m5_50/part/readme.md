@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quick sketch
+  * bip 39 word 3: quick sketch scheme
+  * bip 39 word: quick sketch scheme frost cinnamon coach mercy crater crawl echo tag amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quick |  
+| bip_39_word_new_br10 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach<br>mercy<br>crater<br>crawl<br>echo |  
+| bip_39_word_new_br11 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach<br>mercy<br>crater<br>crawl<br>echo<br>tag |  
+| bip_39_word_new_br12 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach<br>mercy<br>crater<br>crawl<br>echo<br>tag<br>amused |  
+| bip_39_word_new_br2 | quick<br>sketch |  
+| bip_39_word_new_br3 | quick<br>sketch<br>scheme |  
+| bip_39_word_new_br4 | quick<br>sketch<br>scheme<br>frost |  
+| bip_39_word_new_br5 | quick<br>sketch<br>scheme<br>frost<br>cinnamon |  
+| bip_39_word_new_br6 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach |  
+| bip_39_word_new_br7 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach<br>mercy |  
+| bip_39_word_new_br8 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach<br>mercy<br>crater |  
+| bip_39_word_new_br9 | quick<br>sketch<br>scheme<br>frost<br>cinnamon<br>coach<br>mercy<br>crater<br>crawl |  
+| bip_39_word_new_line1 | quick |  
+| bip_39_word_new_line10 | quick
+sketch
+scheme
+frost
+cinnamon
+coach
+mercy
+crater
+crawl
+echo |  
+| bip_39_word_new_line11 | quick
+sketch
+scheme
+frost
+cinnamon
+coach
+mercy
+crater
+crawl
+echo
+tag |  
+| bip_39_word_new_line12 | quick
+sketch
+scheme
+frost
+cinnamon
+coach
+mercy
+crater
+crawl
+echo
+tag
+amused |  
+| bip_39_word_new_line2 | quick
+sketch |  
+| bip_39_word_new_line3 | quick
+sketch
+scheme |  
+| bip_39_word_new_line4 | quick
+sketch
+scheme
+frost |  
+| bip_39_word_new_line5 | quick
+sketch
+scheme
+frost
+cinnamon |  
+| bip_39_word_new_line6 | quick
+sketch
+scheme
+frost
+cinnamon
+coach |  
+| bip_39_word_new_line7 | quick
+sketch
+scheme
+frost
+cinnamon
+coach
+mercy |  
+| bip_39_word_new_line8 | quick
+sketch
+scheme
+frost
+cinnamon
+coach
+mercy
+crater |  
+| bip_39_word_new_line9 | quick
+sketch
+scheme
+frost
+cinnamon
+coach
+mercy
+crater
+crawl |  
+| bip_39_word_space_0 | ['quick', 'sketch', 'scheme', 'frost', 'cinnamon', 'coach', 'mercy', 'crater', 'crawl', 'echo', 'tag', 'amused'] |  
+| bip_39_word_space_1 | quick |  
+| bip_39_word_space_10 | quick sketch scheme frost cinnamon coach mercy crater crawl echo |  
+| bip_39_word_space_11 | quick sketch scheme frost cinnamon coach mercy crater crawl echo tag |  
+| bip_39_word_space_12 | quick sketch scheme frost cinnamon coach mercy crater crawl echo tag amused |  
+| bip_39_word_space_2 | quick sketch |  
+| bip_39_word_space_3 | quick sketch scheme |  
+| bip_39_word_space_4 | quick sketch scheme frost |  
+| bip_39_word_space_5 | quick sketch scheme frost cinnamon |  
+| bip_39_word_space_6 | quick sketch scheme frost cinnamon coach |  
+| bip_39_word_space_7 | quick sketch scheme frost cinnamon coach mercy |  
+| bip_39_word_space_8 | quick sketch scheme frost cinnamon coach mercy crater |  
+| bip_39_word_space_9 | quick sketch scheme frost cinnamon coach mercy crater crawl |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

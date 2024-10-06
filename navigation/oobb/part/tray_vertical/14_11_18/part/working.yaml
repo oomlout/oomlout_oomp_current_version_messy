@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spread
+bip_39_word_new_br10: spread<br>six<br>practice<br>master<br>firm<br>buddy<br>era<br>control<br>sauce<br>smooth
+bip_39_word_new_br11: spread<br>six<br>practice<br>master<br>firm<br>buddy<br>era<br>control<br>sauce<br>smooth<br>decline
+bip_39_word_new_br12: spread<br>six<br>practice<br>master<br>firm<br>buddy<br>era<br>control<br>sauce<br>smooth<br>decline<br>apology
+bip_39_word_new_br2: spread<br>six
+bip_39_word_new_br3: spread<br>six<br>practice
+bip_39_word_new_br4: spread<br>six<br>practice<br>master
+bip_39_word_new_br5: spread<br>six<br>practice<br>master<br>firm
+bip_39_word_new_br6: spread<br>six<br>practice<br>master<br>firm<br>buddy
+bip_39_word_new_br7: spread<br>six<br>practice<br>master<br>firm<br>buddy<br>era
+bip_39_word_new_br8: spread<br>six<br>practice<br>master<br>firm<br>buddy<br>era<br>control
+bip_39_word_new_br9: spread<br>six<br>practice<br>master<br>firm<br>buddy<br>era<br>control<br>sauce
+bip_39_word_new_line1: spread
+bip_39_word_new_line10: 'spread
+
+  six
+
+  practice
+
+  master
+
+  firm
+
+  buddy
+
+  era
+
+  control
+
+  sauce
+
+  smooth'
+bip_39_word_new_line11: 'spread
+
+  six
+
+  practice
+
+  master
+
+  firm
+
+  buddy
+
+  era
+
+  control
+
+  sauce
+
+  smooth
+
+  decline'
+bip_39_word_new_line12: 'spread
+
+  six
+
+  practice
+
+  master
+
+  firm
+
+  buddy
+
+  era
+
+  control
+
+  sauce
+
+  smooth
+
+  decline
+
+  apology'
+bip_39_word_new_line2: 'spread
+
+  six'
+bip_39_word_new_line3: 'spread
+
+  six
+
+  practice'
+bip_39_word_new_line4: 'spread
+
+  six
+
+  practice
+
+  master'
+bip_39_word_new_line5: 'spread
+
+  six
+
+  practice
+
+  master
+
+  firm'
+bip_39_word_new_line6: 'spread
+
+  six
+
+  practice
+
+  master
+
+  firm
+
+  buddy'
+bip_39_word_new_line7: 'spread
+
+  six
+
+  practice
+
+  master
+
+  firm
+
+  buddy
+
+  era'
+bip_39_word_new_line8: 'spread
+
+  six
+
+  practice
+
+  master
+
+  firm
+
+  buddy
+
+  era
+
+  control'
+bip_39_word_new_line9: 'spread
+
+  six
+
+  practice
+
+  master
+
+  firm
+
+  buddy
+
+  era
+
+  control
+
+  sauce'
+bip_39_word_space_0:
+- spread
+- six
+- practice
+- master
+- firm
+- buddy
+- era
+- control
+- sauce
+- smooth
+- decline
+- apology
+bip_39_word_space_1: spread
+bip_39_word_space_10: spread six practice master firm buddy era control sauce smooth
+bip_39_word_space_11: spread six practice master firm buddy era control sauce smooth
+  decline
+bip_39_word_space_12: spread six practice master firm buddy era control sauce smooth
+  decline apology
+bip_39_word_space_2: spread six
+bip_39_word_space_3: spread six practice
+bip_39_word_space_4: spread six practice master
+bip_39_word_space_5: spread six practice master firm
+bip_39_word_space_6: spread six practice master firm buddy
+bip_39_word_space_7: spread six practice master firm buddy era
+bip_39_word_space_8: spread six practice master firm buddy era control
+bip_39_word_space_9: spread six practice master firm buddy era control sauce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

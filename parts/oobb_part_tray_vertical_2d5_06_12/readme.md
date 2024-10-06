@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fat hungry
+  * bip 39 word 3: fat hungry metal
+  * bip 39 word: fat hungry metal soldier aunt bike prize pizza spy cook actual alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fat |  
+| bip_39_word_new_br10 | fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike<br>prize<br>pizza<br>spy<br>cook |  
+| bip_39_word_new_br11 | fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike<br>prize<br>pizza<br>spy<br>cook<br>actual |  
+| bip_39_word_new_br12 | fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike<br>prize<br>pizza<br>spy<br>cook<br>actual<br>alcohol |  
+| bip_39_word_new_br2 | fat<br>hungry |  
+| bip_39_word_new_br3 | fat<br>hungry<br>metal |  
+| bip_39_word_new_br4 | fat<br>hungry<br>metal<br>soldier |  
+| bip_39_word_new_br5 | fat<br>hungry<br>metal<br>soldier<br>aunt |  
+| bip_39_word_new_br6 | fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike |  
+| bip_39_word_new_br7 | fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike<br>prize |  
+| bip_39_word_new_br8 | fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike<br>prize<br>pizza |  
+| bip_39_word_new_br9 | fat<br>hungry<br>metal<br>soldier<br>aunt<br>bike<br>prize<br>pizza<br>spy |  
+| bip_39_word_new_line1 | fat |  
+| bip_39_word_new_line10 | fat
+hungry
+metal
+soldier
+aunt
+bike
+prize
+pizza
+spy
+cook |  
+| bip_39_word_new_line11 | fat
+hungry
+metal
+soldier
+aunt
+bike
+prize
+pizza
+spy
+cook
+actual |  
+| bip_39_word_new_line12 | fat
+hungry
+metal
+soldier
+aunt
+bike
+prize
+pizza
+spy
+cook
+actual
+alcohol |  
+| bip_39_word_new_line2 | fat
+hungry |  
+| bip_39_word_new_line3 | fat
+hungry
+metal |  
+| bip_39_word_new_line4 | fat
+hungry
+metal
+soldier |  
+| bip_39_word_new_line5 | fat
+hungry
+metal
+soldier
+aunt |  
+| bip_39_word_new_line6 | fat
+hungry
+metal
+soldier
+aunt
+bike |  
+| bip_39_word_new_line7 | fat
+hungry
+metal
+soldier
+aunt
+bike
+prize |  
+| bip_39_word_new_line8 | fat
+hungry
+metal
+soldier
+aunt
+bike
+prize
+pizza |  
+| bip_39_word_new_line9 | fat
+hungry
+metal
+soldier
+aunt
+bike
+prize
+pizza
+spy |  
+| bip_39_word_space_0 | ['fat', 'hungry', 'metal', 'soldier', 'aunt', 'bike', 'prize', 'pizza', 'spy', 'cook', 'actual', 'alcohol'] |  
+| bip_39_word_space_1 | fat |  
+| bip_39_word_space_10 | fat hungry metal soldier aunt bike prize pizza spy cook |  
+| bip_39_word_space_11 | fat hungry metal soldier aunt bike prize pizza spy cook actual |  
+| bip_39_word_space_12 | fat hungry metal soldier aunt bike prize pizza spy cook actual alcohol |  
+| bip_39_word_space_2 | fat hungry |  
+| bip_39_word_space_3 | fat hungry metal |  
+| bip_39_word_space_4 | fat hungry metal soldier |  
+| bip_39_word_space_5 | fat hungry metal soldier aunt |  
+| bip_39_word_space_6 | fat hungry metal soldier aunt bike |  
+| bip_39_word_space_7 | fat hungry metal soldier aunt bike prize |  
+| bip_39_word_space_8 | fat hungry metal soldier aunt bike prize pizza |  
+| bip_39_word_space_9 | fat hungry metal soldier aunt bike prize pizza spy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

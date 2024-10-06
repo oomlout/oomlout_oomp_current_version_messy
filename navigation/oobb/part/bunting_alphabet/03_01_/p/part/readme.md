@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: p
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: route upper
+  * bip 39 word 3: route upper faculty
+  * bip 39 word: route upper faculty drum wrist melt town group fiscal key kind around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | route |  
+| bip_39_word_new_br10 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt<br>town<br>group<br>fiscal<br>key |  
+| bip_39_word_new_br11 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt<br>town<br>group<br>fiscal<br>key<br>kind |  
+| bip_39_word_new_br12 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt<br>town<br>group<br>fiscal<br>key<br>kind<br>around |  
+| bip_39_word_new_br2 | route<br>upper |  
+| bip_39_word_new_br3 | route<br>upper<br>faculty |  
+| bip_39_word_new_br4 | route<br>upper<br>faculty<br>drum |  
+| bip_39_word_new_br5 | route<br>upper<br>faculty<br>drum<br>wrist |  
+| bip_39_word_new_br6 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt |  
+| bip_39_word_new_br7 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt<br>town |  
+| bip_39_word_new_br8 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt<br>town<br>group |  
+| bip_39_word_new_br9 | route<br>upper<br>faculty<br>drum<br>wrist<br>melt<br>town<br>group<br>fiscal |  
+| bip_39_word_new_line1 | route |  
+| bip_39_word_new_line10 | route
+upper
+faculty
+drum
+wrist
+melt
+town
+group
+fiscal
+key |  
+| bip_39_word_new_line11 | route
+upper
+faculty
+drum
+wrist
+melt
+town
+group
+fiscal
+key
+kind |  
+| bip_39_word_new_line12 | route
+upper
+faculty
+drum
+wrist
+melt
+town
+group
+fiscal
+key
+kind
+around |  
+| bip_39_word_new_line2 | route
+upper |  
+| bip_39_word_new_line3 | route
+upper
+faculty |  
+| bip_39_word_new_line4 | route
+upper
+faculty
+drum |  
+| bip_39_word_new_line5 | route
+upper
+faculty
+drum
+wrist |  
+| bip_39_word_new_line6 | route
+upper
+faculty
+drum
+wrist
+melt |  
+| bip_39_word_new_line7 | route
+upper
+faculty
+drum
+wrist
+melt
+town |  
+| bip_39_word_new_line8 | route
+upper
+faculty
+drum
+wrist
+melt
+town
+group |  
+| bip_39_word_new_line9 | route
+upper
+faculty
+drum
+wrist
+melt
+town
+group
+fiscal |  
+| bip_39_word_space_0 | ['route', 'upper', 'faculty', 'drum', 'wrist', 'melt', 'town', 'group', 'fiscal', 'key', 'kind', 'around'] |  
+| bip_39_word_space_1 | route |  
+| bip_39_word_space_10 | route upper faculty drum wrist melt town group fiscal key |  
+| bip_39_word_space_11 | route upper faculty drum wrist melt town group fiscal key kind |  
+| bip_39_word_space_12 | route upper faculty drum wrist melt town group fiscal key kind around |  
+| bip_39_word_space_2 | route upper |  
+| bip_39_word_space_3 | route upper faculty |  
+| bip_39_word_space_4 | route upper faculty drum |  
+| bip_39_word_space_5 | route upper faculty drum wrist |  
+| bip_39_word_space_6 | route upper faculty drum wrist melt |  
+| bip_39_word_space_7 | route upper faculty drum wrist melt town |  
+| bip_39_word_space_8 | route upper faculty drum wrist melt town group |  
+| bip_39_word_space_9 | route upper faculty drum wrist melt town group fiscal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vessel build
+  * bip 39 word 3: vessel build century
+  * bip 39 word: vessel build century icon income they crop maid solve robust black analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vessel |  
+| bip_39_word_new_br10 | vessel<br>build<br>century<br>icon<br>income<br>they<br>crop<br>maid<br>solve<br>robust |  
+| bip_39_word_new_br11 | vessel<br>build<br>century<br>icon<br>income<br>they<br>crop<br>maid<br>solve<br>robust<br>black |  
+| bip_39_word_new_br12 | vessel<br>build<br>century<br>icon<br>income<br>they<br>crop<br>maid<br>solve<br>robust<br>black<br>analyst |  
+| bip_39_word_new_br2 | vessel<br>build |  
+| bip_39_word_new_br3 | vessel<br>build<br>century |  
+| bip_39_word_new_br4 | vessel<br>build<br>century<br>icon |  
+| bip_39_word_new_br5 | vessel<br>build<br>century<br>icon<br>income |  
+| bip_39_word_new_br6 | vessel<br>build<br>century<br>icon<br>income<br>they |  
+| bip_39_word_new_br7 | vessel<br>build<br>century<br>icon<br>income<br>they<br>crop |  
+| bip_39_word_new_br8 | vessel<br>build<br>century<br>icon<br>income<br>they<br>crop<br>maid |  
+| bip_39_word_new_br9 | vessel<br>build<br>century<br>icon<br>income<br>they<br>crop<br>maid<br>solve |  
+| bip_39_word_new_line1 | vessel |  
+| bip_39_word_new_line10 | vessel
+build
+century
+icon
+income
+they
+crop
+maid
+solve
+robust |  
+| bip_39_word_new_line11 | vessel
+build
+century
+icon
+income
+they
+crop
+maid
+solve
+robust
+black |  
+| bip_39_word_new_line12 | vessel
+build
+century
+icon
+income
+they
+crop
+maid
+solve
+robust
+black
+analyst |  
+| bip_39_word_new_line2 | vessel
+build |  
+| bip_39_word_new_line3 | vessel
+build
+century |  
+| bip_39_word_new_line4 | vessel
+build
+century
+icon |  
+| bip_39_word_new_line5 | vessel
+build
+century
+icon
+income |  
+| bip_39_word_new_line6 | vessel
+build
+century
+icon
+income
+they |  
+| bip_39_word_new_line7 | vessel
+build
+century
+icon
+income
+they
+crop |  
+| bip_39_word_new_line8 | vessel
+build
+century
+icon
+income
+they
+crop
+maid |  
+| bip_39_word_new_line9 | vessel
+build
+century
+icon
+income
+they
+crop
+maid
+solve |  
+| bip_39_word_space_0 | ['vessel', 'build', 'century', 'icon', 'income', 'they', 'crop', 'maid', 'solve', 'robust', 'black', 'analyst'] |  
+| bip_39_word_space_1 | vessel |  
+| bip_39_word_space_10 | vessel build century icon income they crop maid solve robust |  
+| bip_39_word_space_11 | vessel build century icon income they crop maid solve robust black |  
+| bip_39_word_space_12 | vessel build century icon income they crop maid solve robust black analyst |  
+| bip_39_word_space_2 | vessel build |  
+| bip_39_word_space_3 | vessel build century |  
+| bip_39_word_space_4 | vessel build century icon |  
+| bip_39_word_space_5 | vessel build century icon income |  
+| bip_39_word_space_6 | vessel build century icon income they |  
+| bip_39_word_space_7 | vessel build century icon income they crop |  
+| bip_39_word_space_8 | vessel build century icon income they crop maid |  
+| bip_39_word_space_9 | vessel build century icon income they crop maid solve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

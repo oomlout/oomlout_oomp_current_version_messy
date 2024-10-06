@@ -1,3 +1,187 @@
+bip_39_word_new_br1: acquire
+bip_39_word_new_br10: acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost<br>frog<br>february<br>pride<br>machine
+bip_39_word_new_br11: acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost<br>frog<br>february<br>pride<br>machine<br>garden
+bip_39_word_new_br12: acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost<br>frog<br>february<br>pride<br>machine<br>garden<br>about
+bip_39_word_new_br2: acquire<br>fluid
+bip_39_word_new_br3: acquire<br>fluid<br>vehicle
+bip_39_word_new_br4: acquire<br>fluid<br>vehicle<br>jewel
+bip_39_word_new_br5: acquire<br>fluid<br>vehicle<br>jewel<br>build
+bip_39_word_new_br6: acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost
+bip_39_word_new_br7: acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost<br>frog
+bip_39_word_new_br8: acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost<br>frog<br>february
+bip_39_word_new_br9: acquire<br>fluid<br>vehicle<br>jewel<br>build<br>frost<br>frog<br>february<br>pride
+bip_39_word_new_line1: acquire
+bip_39_word_new_line10: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel
+
+  build
+
+  frost
+
+  frog
+
+  february
+
+  pride
+
+  machine'
+bip_39_word_new_line11: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel
+
+  build
+
+  frost
+
+  frog
+
+  february
+
+  pride
+
+  machine
+
+  garden'
+bip_39_word_new_line12: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel
+
+  build
+
+  frost
+
+  frog
+
+  february
+
+  pride
+
+  machine
+
+  garden
+
+  about'
+bip_39_word_new_line2: 'acquire
+
+  fluid'
+bip_39_word_new_line3: 'acquire
+
+  fluid
+
+  vehicle'
+bip_39_word_new_line4: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel'
+bip_39_word_new_line5: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel
+
+  build'
+bip_39_word_new_line6: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel
+
+  build
+
+  frost'
+bip_39_word_new_line7: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel
+
+  build
+
+  frost
+
+  frog'
+bip_39_word_new_line8: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel
+
+  build
+
+  frost
+
+  frog
+
+  february'
+bip_39_word_new_line9: 'acquire
+
+  fluid
+
+  vehicle
+
+  jewel
+
+  build
+
+  frost
+
+  frog
+
+  february
+
+  pride'
+bip_39_word_space_0:
+- acquire
+- fluid
+- vehicle
+- jewel
+- build
+- frost
+- frog
+- february
+- pride
+- machine
+- garden
+- about
+bip_39_word_space_1: acquire
+bip_39_word_space_10: acquire fluid vehicle jewel build frost frog february pride
+  machine
+bip_39_word_space_11: acquire fluid vehicle jewel build frost frog february pride
+  machine garden
+bip_39_word_space_12: acquire fluid vehicle jewel build frost frog february pride
+  machine garden about
+bip_39_word_space_2: acquire fluid
+bip_39_word_space_3: acquire fluid vehicle
+bip_39_word_space_4: acquire fluid vehicle jewel
+bip_39_word_space_5: acquire fluid vehicle jewel build
+bip_39_word_space_6: acquire fluid vehicle jewel build frost
+bip_39_word_space_7: acquire fluid vehicle jewel build frost frog
+bip_39_word_space_8: acquire fluid vehicle jewel build frost frog february
+bip_39_word_space_9: acquire fluid vehicle jewel build frost frog february pride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

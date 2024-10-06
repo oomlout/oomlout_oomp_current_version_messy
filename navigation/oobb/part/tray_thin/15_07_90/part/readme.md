@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broken margin
+  * bip 39 word 3: broken margin nature
+  * bip 39 word: broken margin nature arrive staff scatter abandon sheriff jelly slab escape album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broken |  
+| bip_39_word_new_br10 | broken<br>margin<br>nature<br>arrive<br>staff<br>scatter<br>abandon<br>sheriff<br>jelly<br>slab |  
+| bip_39_word_new_br11 | broken<br>margin<br>nature<br>arrive<br>staff<br>scatter<br>abandon<br>sheriff<br>jelly<br>slab<br>escape |  
+| bip_39_word_new_br12 | broken<br>margin<br>nature<br>arrive<br>staff<br>scatter<br>abandon<br>sheriff<br>jelly<br>slab<br>escape<br>album |  
+| bip_39_word_new_br2 | broken<br>margin |  
+| bip_39_word_new_br3 | broken<br>margin<br>nature |  
+| bip_39_word_new_br4 | broken<br>margin<br>nature<br>arrive |  
+| bip_39_word_new_br5 | broken<br>margin<br>nature<br>arrive<br>staff |  
+| bip_39_word_new_br6 | broken<br>margin<br>nature<br>arrive<br>staff<br>scatter |  
+| bip_39_word_new_br7 | broken<br>margin<br>nature<br>arrive<br>staff<br>scatter<br>abandon |  
+| bip_39_word_new_br8 | broken<br>margin<br>nature<br>arrive<br>staff<br>scatter<br>abandon<br>sheriff |  
+| bip_39_word_new_br9 | broken<br>margin<br>nature<br>arrive<br>staff<br>scatter<br>abandon<br>sheriff<br>jelly |  
+| bip_39_word_new_line1 | broken |  
+| bip_39_word_new_line10 | broken
+margin
+nature
+arrive
+staff
+scatter
+abandon
+sheriff
+jelly
+slab |  
+| bip_39_word_new_line11 | broken
+margin
+nature
+arrive
+staff
+scatter
+abandon
+sheriff
+jelly
+slab
+escape |  
+| bip_39_word_new_line12 | broken
+margin
+nature
+arrive
+staff
+scatter
+abandon
+sheriff
+jelly
+slab
+escape
+album |  
+| bip_39_word_new_line2 | broken
+margin |  
+| bip_39_word_new_line3 | broken
+margin
+nature |  
+| bip_39_word_new_line4 | broken
+margin
+nature
+arrive |  
+| bip_39_word_new_line5 | broken
+margin
+nature
+arrive
+staff |  
+| bip_39_word_new_line6 | broken
+margin
+nature
+arrive
+staff
+scatter |  
+| bip_39_word_new_line7 | broken
+margin
+nature
+arrive
+staff
+scatter
+abandon |  
+| bip_39_word_new_line8 | broken
+margin
+nature
+arrive
+staff
+scatter
+abandon
+sheriff |  
+| bip_39_word_new_line9 | broken
+margin
+nature
+arrive
+staff
+scatter
+abandon
+sheriff
+jelly |  
+| bip_39_word_space_0 | ['broken', 'margin', 'nature', 'arrive', 'staff', 'scatter', 'abandon', 'sheriff', 'jelly', 'slab', 'escape', 'album'] |  
+| bip_39_word_space_1 | broken |  
+| bip_39_word_space_10 | broken margin nature arrive staff scatter abandon sheriff jelly slab |  
+| bip_39_word_space_11 | broken margin nature arrive staff scatter abandon sheriff jelly slab escape |  
+| bip_39_word_space_12 | broken margin nature arrive staff scatter abandon sheriff jelly slab escape album |  
+| bip_39_word_space_2 | broken margin |  
+| bip_39_word_space_3 | broken margin nature |  
+| bip_39_word_space_4 | broken margin nature arrive |  
+| bip_39_word_space_5 | broken margin nature arrive staff |  
+| bip_39_word_space_6 | broken margin nature arrive staff scatter |  
+| bip_39_word_space_7 | broken margin nature arrive staff scatter abandon |  
+| bip_39_word_space_8 | broken margin nature arrive staff scatter abandon sheriff |  
+| bip_39_word_space_9 | broken margin nature arrive staff scatter abandon sheriff jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

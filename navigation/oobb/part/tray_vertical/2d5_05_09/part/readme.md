@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: can butter
+  * bip 39 word 3: can butter reject
+  * bip 39 word: can butter reject draw position explain myth erode enroll network hurry amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | can |  
+| bip_39_word_new_br10 | can<br>butter<br>reject<br>draw<br>position<br>explain<br>myth<br>erode<br>enroll<br>network |  
+| bip_39_word_new_br11 | can<br>butter<br>reject<br>draw<br>position<br>explain<br>myth<br>erode<br>enroll<br>network<br>hurry |  
+| bip_39_word_new_br12 | can<br>butter<br>reject<br>draw<br>position<br>explain<br>myth<br>erode<br>enroll<br>network<br>hurry<br>amazing |  
+| bip_39_word_new_br2 | can<br>butter |  
+| bip_39_word_new_br3 | can<br>butter<br>reject |  
+| bip_39_word_new_br4 | can<br>butter<br>reject<br>draw |  
+| bip_39_word_new_br5 | can<br>butter<br>reject<br>draw<br>position |  
+| bip_39_word_new_br6 | can<br>butter<br>reject<br>draw<br>position<br>explain |  
+| bip_39_word_new_br7 | can<br>butter<br>reject<br>draw<br>position<br>explain<br>myth |  
+| bip_39_word_new_br8 | can<br>butter<br>reject<br>draw<br>position<br>explain<br>myth<br>erode |  
+| bip_39_word_new_br9 | can<br>butter<br>reject<br>draw<br>position<br>explain<br>myth<br>erode<br>enroll |  
+| bip_39_word_new_line1 | can |  
+| bip_39_word_new_line10 | can
+butter
+reject
+draw
+position
+explain
+myth
+erode
+enroll
+network |  
+| bip_39_word_new_line11 | can
+butter
+reject
+draw
+position
+explain
+myth
+erode
+enroll
+network
+hurry |  
+| bip_39_word_new_line12 | can
+butter
+reject
+draw
+position
+explain
+myth
+erode
+enroll
+network
+hurry
+amazing |  
+| bip_39_word_new_line2 | can
+butter |  
+| bip_39_word_new_line3 | can
+butter
+reject |  
+| bip_39_word_new_line4 | can
+butter
+reject
+draw |  
+| bip_39_word_new_line5 | can
+butter
+reject
+draw
+position |  
+| bip_39_word_new_line6 | can
+butter
+reject
+draw
+position
+explain |  
+| bip_39_word_new_line7 | can
+butter
+reject
+draw
+position
+explain
+myth |  
+| bip_39_word_new_line8 | can
+butter
+reject
+draw
+position
+explain
+myth
+erode |  
+| bip_39_word_new_line9 | can
+butter
+reject
+draw
+position
+explain
+myth
+erode
+enroll |  
+| bip_39_word_space_0 | ['can', 'butter', 'reject', 'draw', 'position', 'explain', 'myth', 'erode', 'enroll', 'network', 'hurry', 'amazing'] |  
+| bip_39_word_space_1 | can |  
+| bip_39_word_space_10 | can butter reject draw position explain myth erode enroll network |  
+| bip_39_word_space_11 | can butter reject draw position explain myth erode enroll network hurry |  
+| bip_39_word_space_12 | can butter reject draw position explain myth erode enroll network hurry amazing |  
+| bip_39_word_space_2 | can butter |  
+| bip_39_word_space_3 | can butter reject |  
+| bip_39_word_space_4 | can butter reject draw |  
+| bip_39_word_space_5 | can butter reject draw position |  
+| bip_39_word_space_6 | can butter reject draw position explain |  
+| bip_39_word_space_7 | can butter reject draw position explain myth |  
+| bip_39_word_space_8 | can butter reject draw position explain myth erode |  
+| bip_39_word_space_9 | can butter reject draw position explain myth erode enroll |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

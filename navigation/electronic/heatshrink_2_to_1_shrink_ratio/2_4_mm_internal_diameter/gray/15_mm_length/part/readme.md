@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frozen leopard
+  * bip 39 word 3: frozen leopard minute
+  * bip 39 word: frozen leopard minute illegal knife pen junk increase invite long climb aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frozen |  
+| bip_39_word_new_br10 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen<br>junk<br>increase<br>invite<br>long |  
+| bip_39_word_new_br11 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen<br>junk<br>increase<br>invite<br>long<br>climb |  
+| bip_39_word_new_br12 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen<br>junk<br>increase<br>invite<br>long<br>climb<br>aunt |  
+| bip_39_word_new_br2 | frozen<br>leopard |  
+| bip_39_word_new_br3 | frozen<br>leopard<br>minute |  
+| bip_39_word_new_br4 | frozen<br>leopard<br>minute<br>illegal |  
+| bip_39_word_new_br5 | frozen<br>leopard<br>minute<br>illegal<br>knife |  
+| bip_39_word_new_br6 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen |  
+| bip_39_word_new_br7 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen<br>junk |  
+| bip_39_word_new_br8 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen<br>junk<br>increase |  
+| bip_39_word_new_br9 | frozen<br>leopard<br>minute<br>illegal<br>knife<br>pen<br>junk<br>increase<br>invite |  
+| bip_39_word_new_line1 | frozen |  
+| bip_39_word_new_line10 | frozen
+leopard
+minute
+illegal
+knife
+pen
+junk
+increase
+invite
+long |  
+| bip_39_word_new_line11 | frozen
+leopard
+minute
+illegal
+knife
+pen
+junk
+increase
+invite
+long
+climb |  
+| bip_39_word_new_line12 | frozen
+leopard
+minute
+illegal
+knife
+pen
+junk
+increase
+invite
+long
+climb
+aunt |  
+| bip_39_word_new_line2 | frozen
+leopard |  
+| bip_39_word_new_line3 | frozen
+leopard
+minute |  
+| bip_39_word_new_line4 | frozen
+leopard
+minute
+illegal |  
+| bip_39_word_new_line5 | frozen
+leopard
+minute
+illegal
+knife |  
+| bip_39_word_new_line6 | frozen
+leopard
+minute
+illegal
+knife
+pen |  
+| bip_39_word_new_line7 | frozen
+leopard
+minute
+illegal
+knife
+pen
+junk |  
+| bip_39_word_new_line8 | frozen
+leopard
+minute
+illegal
+knife
+pen
+junk
+increase |  
+| bip_39_word_new_line9 | frozen
+leopard
+minute
+illegal
+knife
+pen
+junk
+increase
+invite |  
+| bip_39_word_space_0 | ['frozen', 'leopard', 'minute', 'illegal', 'knife', 'pen', 'junk', 'increase', 'invite', 'long', 'climb', 'aunt'] |  
+| bip_39_word_space_1 | frozen |  
+| bip_39_word_space_10 | frozen leopard minute illegal knife pen junk increase invite long |  
+| bip_39_word_space_11 | frozen leopard minute illegal knife pen junk increase invite long climb |  
+| bip_39_word_space_12 | frozen leopard minute illegal knife pen junk increase invite long climb aunt |  
+| bip_39_word_space_2 | frozen leopard |  
+| bip_39_word_space_3 | frozen leopard minute |  
+| bip_39_word_space_4 | frozen leopard minute illegal |  
+| bip_39_word_space_5 | frozen leopard minute illegal knife |  
+| bip_39_word_space_6 | frozen leopard minute illegal knife pen |  
+| bip_39_word_space_7 | frozen leopard minute illegal knife pen junk |  
+| bip_39_word_space_8 | frozen leopard minute illegal knife pen junk increase |  
+| bip_39_word_space_9 | frozen leopard minute illegal knife pen junk increase invite |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

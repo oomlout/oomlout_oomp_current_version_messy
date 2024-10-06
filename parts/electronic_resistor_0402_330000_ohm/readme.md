@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: equal tomato
+  * bip 39 word 3: equal tomato sail
+  * bip 39 word: equal tomato sail coin similar lonely spider lesson diary cave response appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | equal |  
+| bip_39_word_new_br10 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely<br>spider<br>lesson<br>diary<br>cave |  
+| bip_39_word_new_br11 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely<br>spider<br>lesson<br>diary<br>cave<br>response |  
+| bip_39_word_new_br12 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely<br>spider<br>lesson<br>diary<br>cave<br>response<br>appear |  
+| bip_39_word_new_br2 | equal<br>tomato |  
+| bip_39_word_new_br3 | equal<br>tomato<br>sail |  
+| bip_39_word_new_br4 | equal<br>tomato<br>sail<br>coin |  
+| bip_39_word_new_br5 | equal<br>tomato<br>sail<br>coin<br>similar |  
+| bip_39_word_new_br6 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely |  
+| bip_39_word_new_br7 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely<br>spider |  
+| bip_39_word_new_br8 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely<br>spider<br>lesson |  
+| bip_39_word_new_br9 | equal<br>tomato<br>sail<br>coin<br>similar<br>lonely<br>spider<br>lesson<br>diary |  
+| bip_39_word_new_line1 | equal |  
+| bip_39_word_new_line10 | equal
+tomato
+sail
+coin
+similar
+lonely
+spider
+lesson
+diary
+cave |  
+| bip_39_word_new_line11 | equal
+tomato
+sail
+coin
+similar
+lonely
+spider
+lesson
+diary
+cave
+response |  
+| bip_39_word_new_line12 | equal
+tomato
+sail
+coin
+similar
+lonely
+spider
+lesson
+diary
+cave
+response
+appear |  
+| bip_39_word_new_line2 | equal
+tomato |  
+| bip_39_word_new_line3 | equal
+tomato
+sail |  
+| bip_39_word_new_line4 | equal
+tomato
+sail
+coin |  
+| bip_39_word_new_line5 | equal
+tomato
+sail
+coin
+similar |  
+| bip_39_word_new_line6 | equal
+tomato
+sail
+coin
+similar
+lonely |  
+| bip_39_word_new_line7 | equal
+tomato
+sail
+coin
+similar
+lonely
+spider |  
+| bip_39_word_new_line8 | equal
+tomato
+sail
+coin
+similar
+lonely
+spider
+lesson |  
+| bip_39_word_new_line9 | equal
+tomato
+sail
+coin
+similar
+lonely
+spider
+lesson
+diary |  
+| bip_39_word_space_0 | ['equal', 'tomato', 'sail', 'coin', 'similar', 'lonely', 'spider', 'lesson', 'diary', 'cave', 'response', 'appear'] |  
+| bip_39_word_space_1 | equal |  
+| bip_39_word_space_10 | equal tomato sail coin similar lonely spider lesson diary cave |  
+| bip_39_word_space_11 | equal tomato sail coin similar lonely spider lesson diary cave response |  
+| bip_39_word_space_12 | equal tomato sail coin similar lonely spider lesson diary cave response appear |  
+| bip_39_word_space_2 | equal tomato |  
+| bip_39_word_space_3 | equal tomato sail |  
+| bip_39_word_space_4 | equal tomato sail coin |  
+| bip_39_word_space_5 | equal tomato sail coin similar |  
+| bip_39_word_space_6 | equal tomato sail coin similar lonely |  
+| bip_39_word_space_7 | equal tomato sail coin similar lonely spider |  
+| bip_39_word_space_8 | equal tomato sail coin similar lonely spider lesson |  
+| bip_39_word_space_9 | equal tomato sail coin similar lonely spider lesson diary |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

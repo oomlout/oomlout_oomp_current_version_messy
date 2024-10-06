@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jewel wrist
+  * bip 39 word 3: jewel wrist zoo
+  * bip 39 word: jewel wrist zoo extra limb circle zone chair situate shove gaze ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jewel |  
+| bip_39_word_new_br10 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle<br>zone<br>chair<br>situate<br>shove |  
+| bip_39_word_new_br11 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle<br>zone<br>chair<br>situate<br>shove<br>gaze |  
+| bip_39_word_new_br12 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle<br>zone<br>chair<br>situate<br>shove<br>gaze<br>ability |  
+| bip_39_word_new_br2 | jewel<br>wrist |  
+| bip_39_word_new_br3 | jewel<br>wrist<br>zoo |  
+| bip_39_word_new_br4 | jewel<br>wrist<br>zoo<br>extra |  
+| bip_39_word_new_br5 | jewel<br>wrist<br>zoo<br>extra<br>limb |  
+| bip_39_word_new_br6 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle |  
+| bip_39_word_new_br7 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle<br>zone |  
+| bip_39_word_new_br8 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle<br>zone<br>chair |  
+| bip_39_word_new_br9 | jewel<br>wrist<br>zoo<br>extra<br>limb<br>circle<br>zone<br>chair<br>situate |  
+| bip_39_word_new_line1 | jewel |  
+| bip_39_word_new_line10 | jewel
+wrist
+zoo
+extra
+limb
+circle
+zone
+chair
+situate
+shove |  
+| bip_39_word_new_line11 | jewel
+wrist
+zoo
+extra
+limb
+circle
+zone
+chair
+situate
+shove
+gaze |  
+| bip_39_word_new_line12 | jewel
+wrist
+zoo
+extra
+limb
+circle
+zone
+chair
+situate
+shove
+gaze
+ability |  
+| bip_39_word_new_line2 | jewel
+wrist |  
+| bip_39_word_new_line3 | jewel
+wrist
+zoo |  
+| bip_39_word_new_line4 | jewel
+wrist
+zoo
+extra |  
+| bip_39_word_new_line5 | jewel
+wrist
+zoo
+extra
+limb |  
+| bip_39_word_new_line6 | jewel
+wrist
+zoo
+extra
+limb
+circle |  
+| bip_39_word_new_line7 | jewel
+wrist
+zoo
+extra
+limb
+circle
+zone |  
+| bip_39_word_new_line8 | jewel
+wrist
+zoo
+extra
+limb
+circle
+zone
+chair |  
+| bip_39_word_new_line9 | jewel
+wrist
+zoo
+extra
+limb
+circle
+zone
+chair
+situate |  
+| bip_39_word_space_0 | ['jewel', 'wrist', 'zoo', 'extra', 'limb', 'circle', 'zone', 'chair', 'situate', 'shove', 'gaze', 'ability'] |  
+| bip_39_word_space_1 | jewel |  
+| bip_39_word_space_10 | jewel wrist zoo extra limb circle zone chair situate shove |  
+| bip_39_word_space_11 | jewel wrist zoo extra limb circle zone chair situate shove gaze |  
+| bip_39_word_space_12 | jewel wrist zoo extra limb circle zone chair situate shove gaze ability |  
+| bip_39_word_space_2 | jewel wrist |  
+| bip_39_word_space_3 | jewel wrist zoo |  
+| bip_39_word_space_4 | jewel wrist zoo extra |  
+| bip_39_word_space_5 | jewel wrist zoo extra limb |  
+| bip_39_word_space_6 | jewel wrist zoo extra limb circle |  
+| bip_39_word_space_7 | jewel wrist zoo extra limb circle zone |  
+| bip_39_word_space_8 | jewel wrist zoo extra limb circle zone chair |  
+| bip_39_word_space_9 | jewel wrist zoo extra limb circle zone chair situate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

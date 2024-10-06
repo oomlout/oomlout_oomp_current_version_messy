@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: release powder
+  * bip 39 word 3: release powder tray
+  * bip 39 word: release powder tray gold sponsor limit clump pretty coach script mushroom atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | release |  
+| bip_39_word_new_br10 | release<br>powder<br>tray<br>gold<br>sponsor<br>limit<br>clump<br>pretty<br>coach<br>script |  
+| bip_39_word_new_br11 | release<br>powder<br>tray<br>gold<br>sponsor<br>limit<br>clump<br>pretty<br>coach<br>script<br>mushroom |  
+| bip_39_word_new_br12 | release<br>powder<br>tray<br>gold<br>sponsor<br>limit<br>clump<br>pretty<br>coach<br>script<br>mushroom<br>atom |  
+| bip_39_word_new_br2 | release<br>powder |  
+| bip_39_word_new_br3 | release<br>powder<br>tray |  
+| bip_39_word_new_br4 | release<br>powder<br>tray<br>gold |  
+| bip_39_word_new_br5 | release<br>powder<br>tray<br>gold<br>sponsor |  
+| bip_39_word_new_br6 | release<br>powder<br>tray<br>gold<br>sponsor<br>limit |  
+| bip_39_word_new_br7 | release<br>powder<br>tray<br>gold<br>sponsor<br>limit<br>clump |  
+| bip_39_word_new_br8 | release<br>powder<br>tray<br>gold<br>sponsor<br>limit<br>clump<br>pretty |  
+| bip_39_word_new_br9 | release<br>powder<br>tray<br>gold<br>sponsor<br>limit<br>clump<br>pretty<br>coach |  
+| bip_39_word_new_line1 | release |  
+| bip_39_word_new_line10 | release
+powder
+tray
+gold
+sponsor
+limit
+clump
+pretty
+coach
+script |  
+| bip_39_word_new_line11 | release
+powder
+tray
+gold
+sponsor
+limit
+clump
+pretty
+coach
+script
+mushroom |  
+| bip_39_word_new_line12 | release
+powder
+tray
+gold
+sponsor
+limit
+clump
+pretty
+coach
+script
+mushroom
+atom |  
+| bip_39_word_new_line2 | release
+powder |  
+| bip_39_word_new_line3 | release
+powder
+tray |  
+| bip_39_word_new_line4 | release
+powder
+tray
+gold |  
+| bip_39_word_new_line5 | release
+powder
+tray
+gold
+sponsor |  
+| bip_39_word_new_line6 | release
+powder
+tray
+gold
+sponsor
+limit |  
+| bip_39_word_new_line7 | release
+powder
+tray
+gold
+sponsor
+limit
+clump |  
+| bip_39_word_new_line8 | release
+powder
+tray
+gold
+sponsor
+limit
+clump
+pretty |  
+| bip_39_word_new_line9 | release
+powder
+tray
+gold
+sponsor
+limit
+clump
+pretty
+coach |  
+| bip_39_word_space_0 | ['release', 'powder', 'tray', 'gold', 'sponsor', 'limit', 'clump', 'pretty', 'coach', 'script', 'mushroom', 'atom'] |  
+| bip_39_word_space_1 | release |  
+| bip_39_word_space_10 | release powder tray gold sponsor limit clump pretty coach script |  
+| bip_39_word_space_11 | release powder tray gold sponsor limit clump pretty coach script mushroom |  
+| bip_39_word_space_12 | release powder tray gold sponsor limit clump pretty coach script mushroom atom |  
+| bip_39_word_space_2 | release powder |  
+| bip_39_word_space_3 | release powder tray |  
+| bip_39_word_space_4 | release powder tray gold |  
+| bip_39_word_space_5 | release powder tray gold sponsor |  
+| bip_39_word_space_6 | release powder tray gold sponsor limit |  
+| bip_39_word_space_7 | release powder tray gold sponsor limit clump |  
+| bip_39_word_space_8 | release powder tray gold sponsor limit clump pretty |  
+| bip_39_word_space_9 | release powder tray gold sponsor limit clump pretty coach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

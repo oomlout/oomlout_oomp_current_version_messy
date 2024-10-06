@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: identify morning
+  * bip 39 word 3: identify morning joy
+  * bip 39 word: identify morning joy absurd dismiss wrist thing spawn evidence perfect now artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | identify |  
+| bip_39_word_new_br10 | identify<br>morning<br>joy<br>absurd<br>dismiss<br>wrist<br>thing<br>spawn<br>evidence<br>perfect |  
+| bip_39_word_new_br11 | identify<br>morning<br>joy<br>absurd<br>dismiss<br>wrist<br>thing<br>spawn<br>evidence<br>perfect<br>now |  
+| bip_39_word_new_br12 | identify<br>morning<br>joy<br>absurd<br>dismiss<br>wrist<br>thing<br>spawn<br>evidence<br>perfect<br>now<br>artefact |  
+| bip_39_word_new_br2 | identify<br>morning |  
+| bip_39_word_new_br3 | identify<br>morning<br>joy |  
+| bip_39_word_new_br4 | identify<br>morning<br>joy<br>absurd |  
+| bip_39_word_new_br5 | identify<br>morning<br>joy<br>absurd<br>dismiss |  
+| bip_39_word_new_br6 | identify<br>morning<br>joy<br>absurd<br>dismiss<br>wrist |  
+| bip_39_word_new_br7 | identify<br>morning<br>joy<br>absurd<br>dismiss<br>wrist<br>thing |  
+| bip_39_word_new_br8 | identify<br>morning<br>joy<br>absurd<br>dismiss<br>wrist<br>thing<br>spawn |  
+| bip_39_word_new_br9 | identify<br>morning<br>joy<br>absurd<br>dismiss<br>wrist<br>thing<br>spawn<br>evidence |  
+| bip_39_word_new_line1 | identify |  
+| bip_39_word_new_line10 | identify
+morning
+joy
+absurd
+dismiss
+wrist
+thing
+spawn
+evidence
+perfect |  
+| bip_39_word_new_line11 | identify
+morning
+joy
+absurd
+dismiss
+wrist
+thing
+spawn
+evidence
+perfect
+now |  
+| bip_39_word_new_line12 | identify
+morning
+joy
+absurd
+dismiss
+wrist
+thing
+spawn
+evidence
+perfect
+now
+artefact |  
+| bip_39_word_new_line2 | identify
+morning |  
+| bip_39_word_new_line3 | identify
+morning
+joy |  
+| bip_39_word_new_line4 | identify
+morning
+joy
+absurd |  
+| bip_39_word_new_line5 | identify
+morning
+joy
+absurd
+dismiss |  
+| bip_39_word_new_line6 | identify
+morning
+joy
+absurd
+dismiss
+wrist |  
+| bip_39_word_new_line7 | identify
+morning
+joy
+absurd
+dismiss
+wrist
+thing |  
+| bip_39_word_new_line8 | identify
+morning
+joy
+absurd
+dismiss
+wrist
+thing
+spawn |  
+| bip_39_word_new_line9 | identify
+morning
+joy
+absurd
+dismiss
+wrist
+thing
+spawn
+evidence |  
+| bip_39_word_space_0 | ['identify', 'morning', 'joy', 'absurd', 'dismiss', 'wrist', 'thing', 'spawn', 'evidence', 'perfect', 'now', 'artefact'] |  
+| bip_39_word_space_1 | identify |  
+| bip_39_word_space_10 | identify morning joy absurd dismiss wrist thing spawn evidence perfect |  
+| bip_39_word_space_11 | identify morning joy absurd dismiss wrist thing spawn evidence perfect now |  
+| bip_39_word_space_12 | identify morning joy absurd dismiss wrist thing spawn evidence perfect now artefact |  
+| bip_39_word_space_2 | identify morning |  
+| bip_39_word_space_3 | identify morning joy |  
+| bip_39_word_space_4 | identify morning joy absurd |  
+| bip_39_word_space_5 | identify morning joy absurd dismiss |  
+| bip_39_word_space_6 | identify morning joy absurd dismiss wrist |  
+| bip_39_word_space_7 | identify morning joy absurd dismiss wrist thing |  
+| bip_39_word_space_8 | identify morning joy absurd dismiss wrist thing spawn |  
+| bip_39_word_space_9 | identify morning joy absurd dismiss wrist thing spawn evidence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

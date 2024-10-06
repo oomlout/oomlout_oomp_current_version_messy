@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pill crack
+  * bip 39 word 3: pill crack practice
+  * bip 39 word: pill crack practice emerge equip skate empty dinosaur joy pride rare annual
 
 ### other_codes
 * short_code: ss5m80
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pill |  
+| bip_39_word_new_br10 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride |  
+| bip_39_word_new_br11 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride<br>rare |  
+| bip_39_word_new_br12 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy<br>pride<br>rare<br>annual |  
+| bip_39_word_new_br2 | pill<br>crack |  
+| bip_39_word_new_br3 | pill<br>crack<br>practice |  
+| bip_39_word_new_br4 | pill<br>crack<br>practice<br>emerge |  
+| bip_39_word_new_br5 | pill<br>crack<br>practice<br>emerge<br>equip |  
+| bip_39_word_new_br6 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate |  
+| bip_39_word_new_br7 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty |  
+| bip_39_word_new_br8 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur |  
+| bip_39_word_new_br9 | pill<br>crack<br>practice<br>emerge<br>equip<br>skate<br>empty<br>dinosaur<br>joy |  
+| bip_39_word_new_line1 | pill |  
+| bip_39_word_new_line10 | pill
+crack
+practice
+emerge
+equip
+skate
+empty
+dinosaur
+joy
+pride |  
+| bip_39_word_new_line11 | pill
+crack
+practice
+emerge
+equip
+skate
+empty
+dinosaur
+joy
+pride
+rare |  
+| bip_39_word_new_line12 | pill
+crack
+practice
+emerge
+equip
+skate
+empty
+dinosaur
+joy
+pride
+rare
+annual |  
+| bip_39_word_new_line2 | pill
+crack |  
+| bip_39_word_new_line3 | pill
+crack
+practice |  
+| bip_39_word_new_line4 | pill
+crack
+practice
+emerge |  
+| bip_39_word_new_line5 | pill
+crack
+practice
+emerge
+equip |  
+| bip_39_word_new_line6 | pill
+crack
+practice
+emerge
+equip
+skate |  
+| bip_39_word_new_line7 | pill
+crack
+practice
+emerge
+equip
+skate
+empty |  
+| bip_39_word_new_line8 | pill
+crack
+practice
+emerge
+equip
+skate
+empty
+dinosaur |  
+| bip_39_word_new_line9 | pill
+crack
+practice
+emerge
+equip
+skate
+empty
+dinosaur
+joy |  
+| bip_39_word_space_0 | ['pill', 'crack', 'practice', 'emerge', 'equip', 'skate', 'empty', 'dinosaur', 'joy', 'pride', 'rare', 'annual'] |  
+| bip_39_word_space_1 | pill |  
+| bip_39_word_space_10 | pill crack practice emerge equip skate empty dinosaur joy pride |  
+| bip_39_word_space_11 | pill crack practice emerge equip skate empty dinosaur joy pride rare |  
+| bip_39_word_space_12 | pill crack practice emerge equip skate empty dinosaur joy pride rare annual |  
+| bip_39_word_space_2 | pill crack |  
+| bip_39_word_space_3 | pill crack practice |  
+| bip_39_word_space_4 | pill crack practice emerge |  
+| bip_39_word_space_5 | pill crack practice emerge equip |  
+| bip_39_word_space_6 | pill crack practice emerge equip skate |  
+| bip_39_word_space_7 | pill crack practice emerge equip skate empty |  
+| bip_39_word_space_8 | pill crack practice emerge equip skate empty dinosaur |  
+| bip_39_word_space_9 | pill crack practice emerge equip skate empty dinosaur joy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

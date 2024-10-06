@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rapid gallery
+  * bip 39 word 3: rapid gallery august
+  * bip 39 word: rapid gallery august gold fringe run cook slogan salt food clock achieve
 
 ### other_codes
 * short_code: b4m40
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rapid |  
+| bip_39_word_new_br10 | rapid<br>gallery<br>august<br>gold<br>fringe<br>run<br>cook<br>slogan<br>salt<br>food |  
+| bip_39_word_new_br11 | rapid<br>gallery<br>august<br>gold<br>fringe<br>run<br>cook<br>slogan<br>salt<br>food<br>clock |  
+| bip_39_word_new_br12 | rapid<br>gallery<br>august<br>gold<br>fringe<br>run<br>cook<br>slogan<br>salt<br>food<br>clock<br>achieve |  
+| bip_39_word_new_br2 | rapid<br>gallery |  
+| bip_39_word_new_br3 | rapid<br>gallery<br>august |  
+| bip_39_word_new_br4 | rapid<br>gallery<br>august<br>gold |  
+| bip_39_word_new_br5 | rapid<br>gallery<br>august<br>gold<br>fringe |  
+| bip_39_word_new_br6 | rapid<br>gallery<br>august<br>gold<br>fringe<br>run |  
+| bip_39_word_new_br7 | rapid<br>gallery<br>august<br>gold<br>fringe<br>run<br>cook |  
+| bip_39_word_new_br8 | rapid<br>gallery<br>august<br>gold<br>fringe<br>run<br>cook<br>slogan |  
+| bip_39_word_new_br9 | rapid<br>gallery<br>august<br>gold<br>fringe<br>run<br>cook<br>slogan<br>salt |  
+| bip_39_word_new_line1 | rapid |  
+| bip_39_word_new_line10 | rapid
+gallery
+august
+gold
+fringe
+run
+cook
+slogan
+salt
+food |  
+| bip_39_word_new_line11 | rapid
+gallery
+august
+gold
+fringe
+run
+cook
+slogan
+salt
+food
+clock |  
+| bip_39_word_new_line12 | rapid
+gallery
+august
+gold
+fringe
+run
+cook
+slogan
+salt
+food
+clock
+achieve |  
+| bip_39_word_new_line2 | rapid
+gallery |  
+| bip_39_word_new_line3 | rapid
+gallery
+august |  
+| bip_39_word_new_line4 | rapid
+gallery
+august
+gold |  
+| bip_39_word_new_line5 | rapid
+gallery
+august
+gold
+fringe |  
+| bip_39_word_new_line6 | rapid
+gallery
+august
+gold
+fringe
+run |  
+| bip_39_word_new_line7 | rapid
+gallery
+august
+gold
+fringe
+run
+cook |  
+| bip_39_word_new_line8 | rapid
+gallery
+august
+gold
+fringe
+run
+cook
+slogan |  
+| bip_39_word_new_line9 | rapid
+gallery
+august
+gold
+fringe
+run
+cook
+slogan
+salt |  
+| bip_39_word_space_0 | ['rapid', 'gallery', 'august', 'gold', 'fringe', 'run', 'cook', 'slogan', 'salt', 'food', 'clock', 'achieve'] |  
+| bip_39_word_space_1 | rapid |  
+| bip_39_word_space_10 | rapid gallery august gold fringe run cook slogan salt food |  
+| bip_39_word_space_11 | rapid gallery august gold fringe run cook slogan salt food clock |  
+| bip_39_word_space_12 | rapid gallery august gold fringe run cook slogan salt food clock achieve |  
+| bip_39_word_space_2 | rapid gallery |  
+| bip_39_word_space_3 | rapid gallery august |  
+| bip_39_word_space_4 | rapid gallery august gold |  
+| bip_39_word_space_5 | rapid gallery august gold fringe |  
+| bip_39_word_space_6 | rapid gallery august gold fringe run |  
+| bip_39_word_space_7 | rapid gallery august gold fringe run cook |  
+| bip_39_word_space_8 | rapid gallery august gold fringe run cook slogan |  
+| bip_39_word_space_9 | rapid gallery august gold fringe run cook slogan salt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

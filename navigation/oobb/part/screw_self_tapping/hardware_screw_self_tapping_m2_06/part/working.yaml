@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bitter
+bip_39_word_new_br10: bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis
+bip_39_word_new_br11: bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis<br>small
+bip_39_word_new_br12: bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber<br>tennis<br>small<br>alert
+bip_39_word_new_br2: bitter<br>destroy
+bip_39_word_new_br3: bitter<br>destroy<br>awake
+bip_39_word_new_br4: bitter<br>destroy<br>awake<br>have
+bip_39_word_new_br5: bitter<br>destroy<br>awake<br>have<br>empower
+bip_39_word_new_br6: bitter<br>destroy<br>awake<br>have<br>empower<br>warm
+bip_39_word_new_br7: bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit
+bip_39_word_new_br8: bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice
+bip_39_word_new_br9: bitter<br>destroy<br>awake<br>have<br>empower<br>warm<br>limit<br>voice<br>rubber
+bip_39_word_new_line1: bitter
+bip_39_word_new_line10: 'bitter
+
+  destroy
+
+  awake
+
+  have
+
+  empower
+
+  warm
+
+  limit
+
+  voice
+
+  rubber
+
+  tennis'
+bip_39_word_new_line11: 'bitter
+
+  destroy
+
+  awake
+
+  have
+
+  empower
+
+  warm
+
+  limit
+
+  voice
+
+  rubber
+
+  tennis
+
+  small'
+bip_39_word_new_line12: 'bitter
+
+  destroy
+
+  awake
+
+  have
+
+  empower
+
+  warm
+
+  limit
+
+  voice
+
+  rubber
+
+  tennis
+
+  small
+
+  alert'
+bip_39_word_new_line2: 'bitter
+
+  destroy'
+bip_39_word_new_line3: 'bitter
+
+  destroy
+
+  awake'
+bip_39_word_new_line4: 'bitter
+
+  destroy
+
+  awake
+
+  have'
+bip_39_word_new_line5: 'bitter
+
+  destroy
+
+  awake
+
+  have
+
+  empower'
+bip_39_word_new_line6: 'bitter
+
+  destroy
+
+  awake
+
+  have
+
+  empower
+
+  warm'
+bip_39_word_new_line7: 'bitter
+
+  destroy
+
+  awake
+
+  have
+
+  empower
+
+  warm
+
+  limit'
+bip_39_word_new_line8: 'bitter
+
+  destroy
+
+  awake
+
+  have
+
+  empower
+
+  warm
+
+  limit
+
+  voice'
+bip_39_word_new_line9: 'bitter
+
+  destroy
+
+  awake
+
+  have
+
+  empower
+
+  warm
+
+  limit
+
+  voice
+
+  rubber'
+bip_39_word_space_0:
+- bitter
+- destroy
+- awake
+- have
+- empower
+- warm
+- limit
+- voice
+- rubber
+- tennis
+- small
+- alert
+bip_39_word_space_1: bitter
+bip_39_word_space_10: bitter destroy awake have empower warm limit voice rubber tennis
+bip_39_word_space_11: bitter destroy awake have empower warm limit voice rubber tennis
+  small
+bip_39_word_space_12: bitter destroy awake have empower warm limit voice rubber tennis
+  small alert
+bip_39_word_space_2: bitter destroy
+bip_39_word_space_3: bitter destroy awake
+bip_39_word_space_4: bitter destroy awake have
+bip_39_word_space_5: bitter destroy awake have empower
+bip_39_word_space_6: bitter destroy awake have empower warm
+bip_39_word_space_7: bitter destroy awake have empower warm limit
+bip_39_word_space_8: bitter destroy awake have empower warm limit voice
+bip_39_word_space_9: bitter destroy awake have empower warm limit voice rubber
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

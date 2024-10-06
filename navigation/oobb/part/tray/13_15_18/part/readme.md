@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hole crucial
+  * bip 39 word 3: hole crucial wish
+  * bip 39 word: hole crucial wish arrest fever innocent world volcano orphan term demise armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hole |  
+| bip_39_word_new_br10 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term |  
+| bip_39_word_new_br11 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term<br>demise |  
+| bip_39_word_new_br12 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan<br>term<br>demise<br>armed |  
+| bip_39_word_new_br2 | hole<br>crucial |  
+| bip_39_word_new_br3 | hole<br>crucial<br>wish |  
+| bip_39_word_new_br4 | hole<br>crucial<br>wish<br>arrest |  
+| bip_39_word_new_br5 | hole<br>crucial<br>wish<br>arrest<br>fever |  
+| bip_39_word_new_br6 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent |  
+| bip_39_word_new_br7 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world |  
+| bip_39_word_new_br8 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano |  
+| bip_39_word_new_br9 | hole<br>crucial<br>wish<br>arrest<br>fever<br>innocent<br>world<br>volcano<br>orphan |  
+| bip_39_word_new_line1 | hole |  
+| bip_39_word_new_line10 | hole
+crucial
+wish
+arrest
+fever
+innocent
+world
+volcano
+orphan
+term |  
+| bip_39_word_new_line11 | hole
+crucial
+wish
+arrest
+fever
+innocent
+world
+volcano
+orphan
+term
+demise |  
+| bip_39_word_new_line12 | hole
+crucial
+wish
+arrest
+fever
+innocent
+world
+volcano
+orphan
+term
+demise
+armed |  
+| bip_39_word_new_line2 | hole
+crucial |  
+| bip_39_word_new_line3 | hole
+crucial
+wish |  
+| bip_39_word_new_line4 | hole
+crucial
+wish
+arrest |  
+| bip_39_word_new_line5 | hole
+crucial
+wish
+arrest
+fever |  
+| bip_39_word_new_line6 | hole
+crucial
+wish
+arrest
+fever
+innocent |  
+| bip_39_word_new_line7 | hole
+crucial
+wish
+arrest
+fever
+innocent
+world |  
+| bip_39_word_new_line8 | hole
+crucial
+wish
+arrest
+fever
+innocent
+world
+volcano |  
+| bip_39_word_new_line9 | hole
+crucial
+wish
+arrest
+fever
+innocent
+world
+volcano
+orphan |  
+| bip_39_word_space_0 | ['hole', 'crucial', 'wish', 'arrest', 'fever', 'innocent', 'world', 'volcano', 'orphan', 'term', 'demise', 'armed'] |  
+| bip_39_word_space_1 | hole |  
+| bip_39_word_space_10 | hole crucial wish arrest fever innocent world volcano orphan term |  
+| bip_39_word_space_11 | hole crucial wish arrest fever innocent world volcano orphan term demise |  
+| bip_39_word_space_12 | hole crucial wish arrest fever innocent world volcano orphan term demise armed |  
+| bip_39_word_space_2 | hole crucial |  
+| bip_39_word_space_3 | hole crucial wish |  
+| bip_39_word_space_4 | hole crucial wish arrest |  
+| bip_39_word_space_5 | hole crucial wish arrest fever |  
+| bip_39_word_space_6 | hole crucial wish arrest fever innocent |  
+| bip_39_word_space_7 | hole crucial wish arrest fever innocent world |  
+| bip_39_word_space_8 | hole crucial wish arrest fever innocent world volcano |  
+| bip_39_word_space_9 | hole crucial wish arrest fever innocent world volcano orphan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: cream
+bip_39_word_new_br10: cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add
+bip_39_word_new_br11: cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add<br>empty
+bip_39_word_new_br12: cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse<br>add<br>empty<br>afford
+bip_39_word_new_br2: cream<br>vanish
+bip_39_word_new_br3: cream<br>vanish<br>jaguar
+bip_39_word_new_br4: cream<br>vanish<br>jaguar<br>amount
+bip_39_word_new_br5: cream<br>vanish<br>jaguar<br>amount<br>foot
+bip_39_word_new_br6: cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid
+bip_39_word_new_br7: cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim
+bip_39_word_new_br8: cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern
+bip_39_word_new_br9: cream<br>vanish<br>jaguar<br>amount<br>foot<br>maid<br>aim<br>govern<br>mouse
+bip_39_word_new_line1: cream
+bip_39_word_new_line10: 'cream
+
+  vanish
+
+  jaguar
+
+  amount
+
+  foot
+
+  maid
+
+  aim
+
+  govern
+
+  mouse
+
+  add'
+bip_39_word_new_line11: 'cream
+
+  vanish
+
+  jaguar
+
+  amount
+
+  foot
+
+  maid
+
+  aim
+
+  govern
+
+  mouse
+
+  add
+
+  empty'
+bip_39_word_new_line12: 'cream
+
+  vanish
+
+  jaguar
+
+  amount
+
+  foot
+
+  maid
+
+  aim
+
+  govern
+
+  mouse
+
+  add
+
+  empty
+
+  afford'
+bip_39_word_new_line2: 'cream
+
+  vanish'
+bip_39_word_new_line3: 'cream
+
+  vanish
+
+  jaguar'
+bip_39_word_new_line4: 'cream
+
+  vanish
+
+  jaguar
+
+  amount'
+bip_39_word_new_line5: 'cream
+
+  vanish
+
+  jaguar
+
+  amount
+
+  foot'
+bip_39_word_new_line6: 'cream
+
+  vanish
+
+  jaguar
+
+  amount
+
+  foot
+
+  maid'
+bip_39_word_new_line7: 'cream
+
+  vanish
+
+  jaguar
+
+  amount
+
+  foot
+
+  maid
+
+  aim'
+bip_39_word_new_line8: 'cream
+
+  vanish
+
+  jaguar
+
+  amount
+
+  foot
+
+  maid
+
+  aim
+
+  govern'
+bip_39_word_new_line9: 'cream
+
+  vanish
+
+  jaguar
+
+  amount
+
+  foot
+
+  maid
+
+  aim
+
+  govern
+
+  mouse'
+bip_39_word_space_0:
+- cream
+- vanish
+- jaguar
+- amount
+- foot
+- maid
+- aim
+- govern
+- mouse
+- add
+- empty
+- afford
+bip_39_word_space_1: cream
+bip_39_word_space_10: cream vanish jaguar amount foot maid aim govern mouse add
+bip_39_word_space_11: cream vanish jaguar amount foot maid aim govern mouse add empty
+bip_39_word_space_12: cream vanish jaguar amount foot maid aim govern mouse add empty
+  afford
+bip_39_word_space_2: cream vanish
+bip_39_word_space_3: cream vanish jaguar
+bip_39_word_space_4: cream vanish jaguar amount
+bip_39_word_space_5: cream vanish jaguar amount foot
+bip_39_word_space_6: cream vanish jaguar amount foot maid
+bip_39_word_space_7: cream vanish jaguar amount foot maid aim
+bip_39_word_space_8: cream vanish jaguar amount foot maid aim govern
+bip_39_word_space_9: cream vanish jaguar amount foot maid aim govern mouse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: knee high
+  * bip 39 word 3: knee high alarm
+  * bip 39 word: knee high alarm gun pet this sun february movie crowd merry again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | knee |  
+| bip_39_word_new_br10 | knee<br>high<br>alarm<br>gun<br>pet<br>this<br>sun<br>february<br>movie<br>crowd |  
+| bip_39_word_new_br11 | knee<br>high<br>alarm<br>gun<br>pet<br>this<br>sun<br>february<br>movie<br>crowd<br>merry |  
+| bip_39_word_new_br12 | knee<br>high<br>alarm<br>gun<br>pet<br>this<br>sun<br>february<br>movie<br>crowd<br>merry<br>again |  
+| bip_39_word_new_br2 | knee<br>high |  
+| bip_39_word_new_br3 | knee<br>high<br>alarm |  
+| bip_39_word_new_br4 | knee<br>high<br>alarm<br>gun |  
+| bip_39_word_new_br5 | knee<br>high<br>alarm<br>gun<br>pet |  
+| bip_39_word_new_br6 | knee<br>high<br>alarm<br>gun<br>pet<br>this |  
+| bip_39_word_new_br7 | knee<br>high<br>alarm<br>gun<br>pet<br>this<br>sun |  
+| bip_39_word_new_br8 | knee<br>high<br>alarm<br>gun<br>pet<br>this<br>sun<br>february |  
+| bip_39_word_new_br9 | knee<br>high<br>alarm<br>gun<br>pet<br>this<br>sun<br>february<br>movie |  
+| bip_39_word_new_line1 | knee |  
+| bip_39_word_new_line10 | knee
+high
+alarm
+gun
+pet
+this
+sun
+february
+movie
+crowd |  
+| bip_39_word_new_line11 | knee
+high
+alarm
+gun
+pet
+this
+sun
+february
+movie
+crowd
+merry |  
+| bip_39_word_new_line12 | knee
+high
+alarm
+gun
+pet
+this
+sun
+february
+movie
+crowd
+merry
+again |  
+| bip_39_word_new_line2 | knee
+high |  
+| bip_39_word_new_line3 | knee
+high
+alarm |  
+| bip_39_word_new_line4 | knee
+high
+alarm
+gun |  
+| bip_39_word_new_line5 | knee
+high
+alarm
+gun
+pet |  
+| bip_39_word_new_line6 | knee
+high
+alarm
+gun
+pet
+this |  
+| bip_39_word_new_line7 | knee
+high
+alarm
+gun
+pet
+this
+sun |  
+| bip_39_word_new_line8 | knee
+high
+alarm
+gun
+pet
+this
+sun
+february |  
+| bip_39_word_new_line9 | knee
+high
+alarm
+gun
+pet
+this
+sun
+february
+movie |  
+| bip_39_word_space_0 | ['knee', 'high', 'alarm', 'gun', 'pet', 'this', 'sun', 'february', 'movie', 'crowd', 'merry', 'again'] |  
+| bip_39_word_space_1 | knee |  
+| bip_39_word_space_10 | knee high alarm gun pet this sun february movie crowd |  
+| bip_39_word_space_11 | knee high alarm gun pet this sun february movie crowd merry |  
+| bip_39_word_space_12 | knee high alarm gun pet this sun february movie crowd merry again |  
+| bip_39_word_space_2 | knee high |  
+| bip_39_word_space_3 | knee high alarm |  
+| bip_39_word_space_4 | knee high alarm gun |  
+| bip_39_word_space_5 | knee high alarm gun pet |  
+| bip_39_word_space_6 | knee high alarm gun pet this |  
+| bip_39_word_space_7 | knee high alarm gun pet this sun |  
+| bip_39_word_space_8 | knee high alarm gun pet this sun february |  
+| bip_39_word_space_9 | knee high alarm gun pet this sun february movie |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

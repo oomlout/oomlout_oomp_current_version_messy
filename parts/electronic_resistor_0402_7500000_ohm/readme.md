@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mule ridge
+  * bip 39 word 3: mule ridge sadness
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mule |  
+| bip_39_word_new_br10 | mule<br>ridge<br>sadness<br>later<br>outer<br>exact<br>three<br>divide<br>indicate<br>regular |  
+| bip_39_word_new_br11 | mule<br>ridge<br>sadness<br>later<br>outer<br>exact<br>three<br>divide<br>indicate<br>regular<br>ten |  
+| bip_39_word_new_br2 | mule<br>ridge |  
+| bip_39_word_new_br3 | mule<br>ridge<br>sadness |  
+| bip_39_word_new_br4 | mule<br>ridge<br>sadness<br>later |  
+| bip_39_word_new_br5 | mule<br>ridge<br>sadness<br>later<br>outer |  
+| bip_39_word_new_br6 | mule<br>ridge<br>sadness<br>later<br>outer<br>exact |  
+| bip_39_word_new_br7 | mule<br>ridge<br>sadness<br>later<br>outer<br>exact<br>three |  
+| bip_39_word_new_br8 | mule<br>ridge<br>sadness<br>later<br>outer<br>exact<br>three<br>divide |  
+| bip_39_word_new_br9 | mule<br>ridge<br>sadness<br>later<br>outer<br>exact<br>three<br>divide<br>indicate |  
+| bip_39_word_new_line1 | mule |  
+| bip_39_word_new_line10 | mule
+ridge
+sadness
+later
+outer
+exact
+three
+divide
+indicate
+regular |  
+| bip_39_word_new_line11 | mule
+ridge
+sadness
+later
+outer
+exact
+three
+divide
+indicate
+regular
+ten |  
+| bip_39_word_new_line2 | mule
+ridge |  
+| bip_39_word_new_line3 | mule
+ridge
+sadness |  
+| bip_39_word_new_line4 | mule
+ridge
+sadness
+later |  
+| bip_39_word_new_line5 | mule
+ridge
+sadness
+later
+outer |  
+| bip_39_word_new_line6 | mule
+ridge
+sadness
+later
+outer
+exact |  
+| bip_39_word_new_line7 | mule
+ridge
+sadness
+later
+outer
+exact
+three |  
+| bip_39_word_new_line8 | mule
+ridge
+sadness
+later
+outer
+exact
+three
+divide |  
+| bip_39_word_new_line9 | mule
+ridge
+sadness
+later
+outer
+exact
+three
+divide
+indicate |  
+| bip_39_word_space_0 | ['mule', 'ridge', 'sadness', 'later', 'outer', 'exact', 'three', 'divide', 'indicate', 'regular', 'ten'] |  
+| bip_39_word_space_1 | mule |  
+| bip_39_word_space_10 | mule ridge sadness later outer exact three divide indicate regular |  
+| bip_39_word_space_11 | mule ridge sadness later outer exact three divide indicate regular ten |  
+| bip_39_word_space_2 | mule ridge |  
+| bip_39_word_space_3 | mule ridge sadness |  
+| bip_39_word_space_4 | mule ridge sadness later |  
+| bip_39_word_space_5 | mule ridge sadness later outer |  
+| bip_39_word_space_6 | mule ridge sadness later outer exact |  
+| bip_39_word_space_7 | mule ridge sadness later outer exact three |  
+| bip_39_word_space_8 | mule ridge sadness later outer exact three divide |  
+| bip_39_word_space_9 | mule ridge sadness later outer exact three divide indicate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

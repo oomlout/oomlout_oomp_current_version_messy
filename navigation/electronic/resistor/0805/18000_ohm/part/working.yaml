@@ -1,3 +1,187 @@
+bip_39_word_new_br1: dove
+bip_39_word_new_br10: dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion<br>spirit<br>faint<br>toddler<br>wise
+bip_39_word_new_br11: dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion<br>spirit<br>faint<br>toddler<br>wise<br>exhibit
+bip_39_word_new_br12: dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion<br>spirit<br>faint<br>toddler<br>wise<br>exhibit<br>all
+bip_39_word_new_br2: dove<br>hundred
+bip_39_word_new_br3: dove<br>hundred<br>hospital
+bip_39_word_new_br4: dove<br>hundred<br>hospital<br>romance
+bip_39_word_new_br5: dove<br>hundred<br>hospital<br>romance<br>fall
+bip_39_word_new_br6: dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion
+bip_39_word_new_br7: dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion<br>spirit
+bip_39_word_new_br8: dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion<br>spirit<br>faint
+bip_39_word_new_br9: dove<br>hundred<br>hospital<br>romance<br>fall<br>emotion<br>spirit<br>faint<br>toddler
+bip_39_word_new_line1: dove
+bip_39_word_new_line10: 'dove
+
+  hundred
+
+  hospital
+
+  romance
+
+  fall
+
+  emotion
+
+  spirit
+
+  faint
+
+  toddler
+
+  wise'
+bip_39_word_new_line11: 'dove
+
+  hundred
+
+  hospital
+
+  romance
+
+  fall
+
+  emotion
+
+  spirit
+
+  faint
+
+  toddler
+
+  wise
+
+  exhibit'
+bip_39_word_new_line12: 'dove
+
+  hundred
+
+  hospital
+
+  romance
+
+  fall
+
+  emotion
+
+  spirit
+
+  faint
+
+  toddler
+
+  wise
+
+  exhibit
+
+  all'
+bip_39_word_new_line2: 'dove
+
+  hundred'
+bip_39_word_new_line3: 'dove
+
+  hundred
+
+  hospital'
+bip_39_word_new_line4: 'dove
+
+  hundred
+
+  hospital
+
+  romance'
+bip_39_word_new_line5: 'dove
+
+  hundred
+
+  hospital
+
+  romance
+
+  fall'
+bip_39_word_new_line6: 'dove
+
+  hundred
+
+  hospital
+
+  romance
+
+  fall
+
+  emotion'
+bip_39_word_new_line7: 'dove
+
+  hundred
+
+  hospital
+
+  romance
+
+  fall
+
+  emotion
+
+  spirit'
+bip_39_word_new_line8: 'dove
+
+  hundred
+
+  hospital
+
+  romance
+
+  fall
+
+  emotion
+
+  spirit
+
+  faint'
+bip_39_word_new_line9: 'dove
+
+  hundred
+
+  hospital
+
+  romance
+
+  fall
+
+  emotion
+
+  spirit
+
+  faint
+
+  toddler'
+bip_39_word_space_0:
+- dove
+- hundred
+- hospital
+- romance
+- fall
+- emotion
+- spirit
+- faint
+- toddler
+- wise
+- exhibit
+- all
+bip_39_word_space_1: dove
+bip_39_word_space_10: dove hundred hospital romance fall emotion spirit faint toddler
+  wise
+bip_39_word_space_11: dove hundred hospital romance fall emotion spirit faint toddler
+  wise exhibit
+bip_39_word_space_12: dove hundred hospital romance fall emotion spirit faint toddler
+  wise exhibit all
+bip_39_word_space_2: dove hundred
+bip_39_word_space_3: dove hundred hospital
+bip_39_word_space_4: dove hundred hospital romance
+bip_39_word_space_5: dove hundred hospital romance fall
+bip_39_word_space_6: dove hundred hospital romance fall emotion
+bip_39_word_space_7: dove hundred hospital romance fall emotion spirit
+bip_39_word_space_8: dove hundred hospital romance fall emotion spirit faint
+bip_39_word_space_9: dove hundred hospital romance fall emotion spirit faint toddler
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

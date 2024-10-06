@@ -1,3 +1,186 @@
+bip_39_word_new_br1: thrive
+bip_39_word_new_br10: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire
+bip_39_word_new_br11: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client
+bip_39_word_new_br12: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair<br>expire<br>client<br>alpha
+bip_39_word_new_br2: thrive<br>genuine
+bip_39_word_new_br3: thrive<br>genuine<br>dash
+bip_39_word_new_br4: thrive<br>genuine<br>dash<br>exchange
+bip_39_word_new_br5: thrive<br>genuine<br>dash<br>exchange<br>invite
+bip_39_word_new_br6: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp
+bip_39_word_new_br7: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner
+bip_39_word_new_br8: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy
+bip_39_word_new_br9: thrive<br>genuine<br>dash<br>exchange<br>invite<br>gasp<br>dinner<br>defy<br>hair
+bip_39_word_new_line1: thrive
+bip_39_word_new_line10: 'thrive
+
+  genuine
+
+  dash
+
+  exchange
+
+  invite
+
+  gasp
+
+  dinner
+
+  defy
+
+  hair
+
+  expire'
+bip_39_word_new_line11: 'thrive
+
+  genuine
+
+  dash
+
+  exchange
+
+  invite
+
+  gasp
+
+  dinner
+
+  defy
+
+  hair
+
+  expire
+
+  client'
+bip_39_word_new_line12: 'thrive
+
+  genuine
+
+  dash
+
+  exchange
+
+  invite
+
+  gasp
+
+  dinner
+
+  defy
+
+  hair
+
+  expire
+
+  client
+
+  alpha'
+bip_39_word_new_line2: 'thrive
+
+  genuine'
+bip_39_word_new_line3: 'thrive
+
+  genuine
+
+  dash'
+bip_39_word_new_line4: 'thrive
+
+  genuine
+
+  dash
+
+  exchange'
+bip_39_word_new_line5: 'thrive
+
+  genuine
+
+  dash
+
+  exchange
+
+  invite'
+bip_39_word_new_line6: 'thrive
+
+  genuine
+
+  dash
+
+  exchange
+
+  invite
+
+  gasp'
+bip_39_word_new_line7: 'thrive
+
+  genuine
+
+  dash
+
+  exchange
+
+  invite
+
+  gasp
+
+  dinner'
+bip_39_word_new_line8: 'thrive
+
+  genuine
+
+  dash
+
+  exchange
+
+  invite
+
+  gasp
+
+  dinner
+
+  defy'
+bip_39_word_new_line9: 'thrive
+
+  genuine
+
+  dash
+
+  exchange
+
+  invite
+
+  gasp
+
+  dinner
+
+  defy
+
+  hair'
+bip_39_word_space_0:
+- thrive
+- genuine
+- dash
+- exchange
+- invite
+- gasp
+- dinner
+- defy
+- hair
+- expire
+- client
+- alpha
+bip_39_word_space_1: thrive
+bip_39_word_space_10: thrive genuine dash exchange invite gasp dinner defy hair expire
+bip_39_word_space_11: thrive genuine dash exchange invite gasp dinner defy hair expire
+  client
+bip_39_word_space_12: thrive genuine dash exchange invite gasp dinner defy hair expire
+  client alpha
+bip_39_word_space_2: thrive genuine
+bip_39_word_space_3: thrive genuine dash
+bip_39_word_space_4: thrive genuine dash exchange
+bip_39_word_space_5: thrive genuine dash exchange invite
+bip_39_word_space_6: thrive genuine dash exchange invite gasp
+bip_39_word_space_7: thrive genuine dash exchange invite gasp dinner
+bip_39_word_space_8: thrive genuine dash exchange invite gasp dinner defy
+bip_39_word_space_9: thrive genuine dash exchange invite gasp dinner defy hair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

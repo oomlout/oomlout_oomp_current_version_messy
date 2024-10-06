@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bounce useless
+  * bip 39 word 3: bounce useless deny
+  * bip 39 word: bounce useless deny reject valve degree under tortoise exhibit steak guard arena
 
 ### other_codes
 * short_code: cs5bz12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bounce |  
+| bip_39_word_new_br10 | bounce<br>useless<br>deny<br>reject<br>valve<br>degree<br>under<br>tortoise<br>exhibit<br>steak |  
+| bip_39_word_new_br11 | bounce<br>useless<br>deny<br>reject<br>valve<br>degree<br>under<br>tortoise<br>exhibit<br>steak<br>guard |  
+| bip_39_word_new_br12 | bounce<br>useless<br>deny<br>reject<br>valve<br>degree<br>under<br>tortoise<br>exhibit<br>steak<br>guard<br>arena |  
+| bip_39_word_new_br2 | bounce<br>useless |  
+| bip_39_word_new_br3 | bounce<br>useless<br>deny |  
+| bip_39_word_new_br4 | bounce<br>useless<br>deny<br>reject |  
+| bip_39_word_new_br5 | bounce<br>useless<br>deny<br>reject<br>valve |  
+| bip_39_word_new_br6 | bounce<br>useless<br>deny<br>reject<br>valve<br>degree |  
+| bip_39_word_new_br7 | bounce<br>useless<br>deny<br>reject<br>valve<br>degree<br>under |  
+| bip_39_word_new_br8 | bounce<br>useless<br>deny<br>reject<br>valve<br>degree<br>under<br>tortoise |  
+| bip_39_word_new_br9 | bounce<br>useless<br>deny<br>reject<br>valve<br>degree<br>under<br>tortoise<br>exhibit |  
+| bip_39_word_new_line1 | bounce |  
+| bip_39_word_new_line10 | bounce
+useless
+deny
+reject
+valve
+degree
+under
+tortoise
+exhibit
+steak |  
+| bip_39_word_new_line11 | bounce
+useless
+deny
+reject
+valve
+degree
+under
+tortoise
+exhibit
+steak
+guard |  
+| bip_39_word_new_line12 | bounce
+useless
+deny
+reject
+valve
+degree
+under
+tortoise
+exhibit
+steak
+guard
+arena |  
+| bip_39_word_new_line2 | bounce
+useless |  
+| bip_39_word_new_line3 | bounce
+useless
+deny |  
+| bip_39_word_new_line4 | bounce
+useless
+deny
+reject |  
+| bip_39_word_new_line5 | bounce
+useless
+deny
+reject
+valve |  
+| bip_39_word_new_line6 | bounce
+useless
+deny
+reject
+valve
+degree |  
+| bip_39_word_new_line7 | bounce
+useless
+deny
+reject
+valve
+degree
+under |  
+| bip_39_word_new_line8 | bounce
+useless
+deny
+reject
+valve
+degree
+under
+tortoise |  
+| bip_39_word_new_line9 | bounce
+useless
+deny
+reject
+valve
+degree
+under
+tortoise
+exhibit |  
+| bip_39_word_space_0 | ['bounce', 'useless', 'deny', 'reject', 'valve', 'degree', 'under', 'tortoise', 'exhibit', 'steak', 'guard', 'arena'] |  
+| bip_39_word_space_1 | bounce |  
+| bip_39_word_space_10 | bounce useless deny reject valve degree under tortoise exhibit steak |  
+| bip_39_word_space_11 | bounce useless deny reject valve degree under tortoise exhibit steak guard |  
+| bip_39_word_space_12 | bounce useless deny reject valve degree under tortoise exhibit steak guard arena |  
+| bip_39_word_space_2 | bounce useless |  
+| bip_39_word_space_3 | bounce useless deny |  
+| bip_39_word_space_4 | bounce useless deny reject |  
+| bip_39_word_space_5 | bounce useless deny reject valve |  
+| bip_39_word_space_6 | bounce useless deny reject valve degree |  
+| bip_39_word_space_7 | bounce useless deny reject valve degree under |  
+| bip_39_word_space_8 | bounce useless deny reject valve degree under tortoise |  
+| bip_39_word_space_9 | bounce useless deny reject valve degree under tortoise exhibit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

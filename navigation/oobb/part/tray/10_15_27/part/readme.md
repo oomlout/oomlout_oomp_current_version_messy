@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fashion fit
+  * bip 39 word 3: fashion fit chimney
+  * bip 39 word: fashion fit chimney fitness trust unlock easy miss sand stool region armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fashion |  
+| bip_39_word_new_br10 | fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock<br>easy<br>miss<br>sand<br>stool |  
+| bip_39_word_new_br11 | fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock<br>easy<br>miss<br>sand<br>stool<br>region |  
+| bip_39_word_new_br12 | fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock<br>easy<br>miss<br>sand<br>stool<br>region<br>armed |  
+| bip_39_word_new_br2 | fashion<br>fit |  
+| bip_39_word_new_br3 | fashion<br>fit<br>chimney |  
+| bip_39_word_new_br4 | fashion<br>fit<br>chimney<br>fitness |  
+| bip_39_word_new_br5 | fashion<br>fit<br>chimney<br>fitness<br>trust |  
+| bip_39_word_new_br6 | fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock |  
+| bip_39_word_new_br7 | fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock<br>easy |  
+| bip_39_word_new_br8 | fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock<br>easy<br>miss |  
+| bip_39_word_new_br9 | fashion<br>fit<br>chimney<br>fitness<br>trust<br>unlock<br>easy<br>miss<br>sand |  
+| bip_39_word_new_line1 | fashion |  
+| bip_39_word_new_line10 | fashion
+fit
+chimney
+fitness
+trust
+unlock
+easy
+miss
+sand
+stool |  
+| bip_39_word_new_line11 | fashion
+fit
+chimney
+fitness
+trust
+unlock
+easy
+miss
+sand
+stool
+region |  
+| bip_39_word_new_line12 | fashion
+fit
+chimney
+fitness
+trust
+unlock
+easy
+miss
+sand
+stool
+region
+armed |  
+| bip_39_word_new_line2 | fashion
+fit |  
+| bip_39_word_new_line3 | fashion
+fit
+chimney |  
+| bip_39_word_new_line4 | fashion
+fit
+chimney
+fitness |  
+| bip_39_word_new_line5 | fashion
+fit
+chimney
+fitness
+trust |  
+| bip_39_word_new_line6 | fashion
+fit
+chimney
+fitness
+trust
+unlock |  
+| bip_39_word_new_line7 | fashion
+fit
+chimney
+fitness
+trust
+unlock
+easy |  
+| bip_39_word_new_line8 | fashion
+fit
+chimney
+fitness
+trust
+unlock
+easy
+miss |  
+| bip_39_word_new_line9 | fashion
+fit
+chimney
+fitness
+trust
+unlock
+easy
+miss
+sand |  
+| bip_39_word_space_0 | ['fashion', 'fit', 'chimney', 'fitness', 'trust', 'unlock', 'easy', 'miss', 'sand', 'stool', 'region', 'armed'] |  
+| bip_39_word_space_1 | fashion |  
+| bip_39_word_space_10 | fashion fit chimney fitness trust unlock easy miss sand stool |  
+| bip_39_word_space_11 | fashion fit chimney fitness trust unlock easy miss sand stool region |  
+| bip_39_word_space_12 | fashion fit chimney fitness trust unlock easy miss sand stool region armed |  
+| bip_39_word_space_2 | fashion fit |  
+| bip_39_word_space_3 | fashion fit chimney |  
+| bip_39_word_space_4 | fashion fit chimney fitness |  
+| bip_39_word_space_5 | fashion fit chimney fitness trust |  
+| bip_39_word_space_6 | fashion fit chimney fitness trust unlock |  
+| bip_39_word_space_7 | fashion fit chimney fitness trust unlock easy |  
+| bip_39_word_space_8 | fashion fit chimney fitness trust unlock easy miss |  
+| bip_39_word_space_9 | fashion fit chimney fitness trust unlock easy miss sand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

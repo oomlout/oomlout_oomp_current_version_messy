@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: approve vehicle
+  * bip 39 word 3: approve vehicle river
+  * bip 39 word: approve vehicle river act badge pulse citizen dad clinic angle youth abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | approve |  
+| bip_39_word_new_br10 | approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle |  
+| bip_39_word_new_br11 | approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle<br>youth |  
+| bip_39_word_new_br12 | approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic<br>angle<br>youth<br>abuse |  
+| bip_39_word_new_br2 | approve<br>vehicle |  
+| bip_39_word_new_br3 | approve<br>vehicle<br>river |  
+| bip_39_word_new_br4 | approve<br>vehicle<br>river<br>act |  
+| bip_39_word_new_br5 | approve<br>vehicle<br>river<br>act<br>badge |  
+| bip_39_word_new_br6 | approve<br>vehicle<br>river<br>act<br>badge<br>pulse |  
+| bip_39_word_new_br7 | approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen |  
+| bip_39_word_new_br8 | approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad |  
+| bip_39_word_new_br9 | approve<br>vehicle<br>river<br>act<br>badge<br>pulse<br>citizen<br>dad<br>clinic |  
+| bip_39_word_new_line1 | approve |  
+| bip_39_word_new_line10 | approve
+vehicle
+river
+act
+badge
+pulse
+citizen
+dad
+clinic
+angle |  
+| bip_39_word_new_line11 | approve
+vehicle
+river
+act
+badge
+pulse
+citizen
+dad
+clinic
+angle
+youth |  
+| bip_39_word_new_line12 | approve
+vehicle
+river
+act
+badge
+pulse
+citizen
+dad
+clinic
+angle
+youth
+abuse |  
+| bip_39_word_new_line2 | approve
+vehicle |  
+| bip_39_word_new_line3 | approve
+vehicle
+river |  
+| bip_39_word_new_line4 | approve
+vehicle
+river
+act |  
+| bip_39_word_new_line5 | approve
+vehicle
+river
+act
+badge |  
+| bip_39_word_new_line6 | approve
+vehicle
+river
+act
+badge
+pulse |  
+| bip_39_word_new_line7 | approve
+vehicle
+river
+act
+badge
+pulse
+citizen |  
+| bip_39_word_new_line8 | approve
+vehicle
+river
+act
+badge
+pulse
+citizen
+dad |  
+| bip_39_word_new_line9 | approve
+vehicle
+river
+act
+badge
+pulse
+citizen
+dad
+clinic |  
+| bip_39_word_space_0 | ['approve', 'vehicle', 'river', 'act', 'badge', 'pulse', 'citizen', 'dad', 'clinic', 'angle', 'youth', 'abuse'] |  
+| bip_39_word_space_1 | approve |  
+| bip_39_word_space_10 | approve vehicle river act badge pulse citizen dad clinic angle |  
+| bip_39_word_space_11 | approve vehicle river act badge pulse citizen dad clinic angle youth |  
+| bip_39_word_space_12 | approve vehicle river act badge pulse citizen dad clinic angle youth abuse |  
+| bip_39_word_space_2 | approve vehicle |  
+| bip_39_word_space_3 | approve vehicle river |  
+| bip_39_word_space_4 | approve vehicle river act |  
+| bip_39_word_space_5 | approve vehicle river act badge |  
+| bip_39_word_space_6 | approve vehicle river act badge pulse |  
+| bip_39_word_space_7 | approve vehicle river act badge pulse citizen |  
+| bip_39_word_space_8 | approve vehicle river act badge pulse citizen dad |  
+| bip_39_word_space_9 | approve vehicle river act badge pulse citizen dad clinic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

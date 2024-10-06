@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: style tide
+  * bip 39 word 3: style tide skull
+  * bip 39 word: style tide skull dentist knock laugh various cupboard dice fluid faith announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | style |  
+| bip_39_word_new_br10 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid |  
+| bip_39_word_new_br11 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid<br>faith |  
+| bip_39_word_new_br12 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice<br>fluid<br>faith<br>announce |  
+| bip_39_word_new_br2 | style<br>tide |  
+| bip_39_word_new_br3 | style<br>tide<br>skull |  
+| bip_39_word_new_br4 | style<br>tide<br>skull<br>dentist |  
+| bip_39_word_new_br5 | style<br>tide<br>skull<br>dentist<br>knock |  
+| bip_39_word_new_br6 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh |  
+| bip_39_word_new_br7 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various |  
+| bip_39_word_new_br8 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard |  
+| bip_39_word_new_br9 | style<br>tide<br>skull<br>dentist<br>knock<br>laugh<br>various<br>cupboard<br>dice |  
+| bip_39_word_new_line1 | style |  
+| bip_39_word_new_line10 | style
+tide
+skull
+dentist
+knock
+laugh
+various
+cupboard
+dice
+fluid |  
+| bip_39_word_new_line11 | style
+tide
+skull
+dentist
+knock
+laugh
+various
+cupboard
+dice
+fluid
+faith |  
+| bip_39_word_new_line12 | style
+tide
+skull
+dentist
+knock
+laugh
+various
+cupboard
+dice
+fluid
+faith
+announce |  
+| bip_39_word_new_line2 | style
+tide |  
+| bip_39_word_new_line3 | style
+tide
+skull |  
+| bip_39_word_new_line4 | style
+tide
+skull
+dentist |  
+| bip_39_word_new_line5 | style
+tide
+skull
+dentist
+knock |  
+| bip_39_word_new_line6 | style
+tide
+skull
+dentist
+knock
+laugh |  
+| bip_39_word_new_line7 | style
+tide
+skull
+dentist
+knock
+laugh
+various |  
+| bip_39_word_new_line8 | style
+tide
+skull
+dentist
+knock
+laugh
+various
+cupboard |  
+| bip_39_word_new_line9 | style
+tide
+skull
+dentist
+knock
+laugh
+various
+cupboard
+dice |  
+| bip_39_word_space_0 | ['style', 'tide', 'skull', 'dentist', 'knock', 'laugh', 'various', 'cupboard', 'dice', 'fluid', 'faith', 'announce'] |  
+| bip_39_word_space_1 | style |  
+| bip_39_word_space_10 | style tide skull dentist knock laugh various cupboard dice fluid |  
+| bip_39_word_space_11 | style tide skull dentist knock laugh various cupboard dice fluid faith |  
+| bip_39_word_space_12 | style tide skull dentist knock laugh various cupboard dice fluid faith announce |  
+| bip_39_word_space_2 | style tide |  
+| bip_39_word_space_3 | style tide skull |  
+| bip_39_word_space_4 | style tide skull dentist |  
+| bip_39_word_space_5 | style tide skull dentist knock |  
+| bip_39_word_space_6 | style tide skull dentist knock laugh |  
+| bip_39_word_space_7 | style tide skull dentist knock laugh various |  
+| bip_39_word_space_8 | style tide skull dentist knock laugh various cupboard |  
+| bip_39_word_space_9 | style tide skull dentist knock laugh various cupboard dice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

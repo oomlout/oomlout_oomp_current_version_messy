@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: morning proof
+  * bip 39 word 3: morning proof movie
+  * bip 39 word: morning proof movie double fat chicken media check unit tomorrow object alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | morning |  
+| bip_39_word_new_br10 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow |  
+| bip_39_word_new_br11 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow<br>object |  
+| bip_39_word_new_br12 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit<br>tomorrow<br>object<br>alarm |  
+| bip_39_word_new_br2 | morning<br>proof |  
+| bip_39_word_new_br3 | morning<br>proof<br>movie |  
+| bip_39_word_new_br4 | morning<br>proof<br>movie<br>double |  
+| bip_39_word_new_br5 | morning<br>proof<br>movie<br>double<br>fat |  
+| bip_39_word_new_br6 | morning<br>proof<br>movie<br>double<br>fat<br>chicken |  
+| bip_39_word_new_br7 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media |  
+| bip_39_word_new_br8 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check |  
+| bip_39_word_new_br9 | morning<br>proof<br>movie<br>double<br>fat<br>chicken<br>media<br>check<br>unit |  
+| bip_39_word_new_line1 | morning |  
+| bip_39_word_new_line10 | morning
+proof
+movie
+double
+fat
+chicken
+media
+check
+unit
+tomorrow |  
+| bip_39_word_new_line11 | morning
+proof
+movie
+double
+fat
+chicken
+media
+check
+unit
+tomorrow
+object |  
+| bip_39_word_new_line12 | morning
+proof
+movie
+double
+fat
+chicken
+media
+check
+unit
+tomorrow
+object
+alarm |  
+| bip_39_word_new_line2 | morning
+proof |  
+| bip_39_word_new_line3 | morning
+proof
+movie |  
+| bip_39_word_new_line4 | morning
+proof
+movie
+double |  
+| bip_39_word_new_line5 | morning
+proof
+movie
+double
+fat |  
+| bip_39_word_new_line6 | morning
+proof
+movie
+double
+fat
+chicken |  
+| bip_39_word_new_line7 | morning
+proof
+movie
+double
+fat
+chicken
+media |  
+| bip_39_word_new_line8 | morning
+proof
+movie
+double
+fat
+chicken
+media
+check |  
+| bip_39_word_new_line9 | morning
+proof
+movie
+double
+fat
+chicken
+media
+check
+unit |  
+| bip_39_word_space_0 | ['morning', 'proof', 'movie', 'double', 'fat', 'chicken', 'media', 'check', 'unit', 'tomorrow', 'object', 'alarm'] |  
+| bip_39_word_space_1 | morning |  
+| bip_39_word_space_10 | morning proof movie double fat chicken media check unit tomorrow |  
+| bip_39_word_space_11 | morning proof movie double fat chicken media check unit tomorrow object |  
+| bip_39_word_space_12 | morning proof movie double fat chicken media check unit tomorrow object alarm |  
+| bip_39_word_space_2 | morning proof |  
+| bip_39_word_space_3 | morning proof movie |  
+| bip_39_word_space_4 | morning proof movie double |  
+| bip_39_word_space_5 | morning proof movie double fat |  
+| bip_39_word_space_6 | morning proof movie double fat chicken |  
+| bip_39_word_space_7 | morning proof movie double fat chicken media |  
+| bip_39_word_space_8 | morning proof movie double fat chicken media check |  
+| bip_39_word_space_9 | morning proof movie double fat chicken media check unit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

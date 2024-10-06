@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prevent quote
+  * bip 39 word 3: prevent quote absurd
+  * bip 39 word: prevent quote absurd book quantum able letter love climb promote umbrella among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prevent |  
+| bip_39_word_new_br10 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able<br>letter<br>love<br>climb<br>promote |  
+| bip_39_word_new_br11 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able<br>letter<br>love<br>climb<br>promote<br>umbrella |  
+| bip_39_word_new_br12 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able<br>letter<br>love<br>climb<br>promote<br>umbrella<br>among |  
+| bip_39_word_new_br2 | prevent<br>quote |  
+| bip_39_word_new_br3 | prevent<br>quote<br>absurd |  
+| bip_39_word_new_br4 | prevent<br>quote<br>absurd<br>book |  
+| bip_39_word_new_br5 | prevent<br>quote<br>absurd<br>book<br>quantum |  
+| bip_39_word_new_br6 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able |  
+| bip_39_word_new_br7 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able<br>letter |  
+| bip_39_word_new_br8 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able<br>letter<br>love |  
+| bip_39_word_new_br9 | prevent<br>quote<br>absurd<br>book<br>quantum<br>able<br>letter<br>love<br>climb |  
+| bip_39_word_new_line1 | prevent |  
+| bip_39_word_new_line10 | prevent
+quote
+absurd
+book
+quantum
+able
+letter
+love
+climb
+promote |  
+| bip_39_word_new_line11 | prevent
+quote
+absurd
+book
+quantum
+able
+letter
+love
+climb
+promote
+umbrella |  
+| bip_39_word_new_line12 | prevent
+quote
+absurd
+book
+quantum
+able
+letter
+love
+climb
+promote
+umbrella
+among |  
+| bip_39_word_new_line2 | prevent
+quote |  
+| bip_39_word_new_line3 | prevent
+quote
+absurd |  
+| bip_39_word_new_line4 | prevent
+quote
+absurd
+book |  
+| bip_39_word_new_line5 | prevent
+quote
+absurd
+book
+quantum |  
+| bip_39_word_new_line6 | prevent
+quote
+absurd
+book
+quantum
+able |  
+| bip_39_word_new_line7 | prevent
+quote
+absurd
+book
+quantum
+able
+letter |  
+| bip_39_word_new_line8 | prevent
+quote
+absurd
+book
+quantum
+able
+letter
+love |  
+| bip_39_word_new_line9 | prevent
+quote
+absurd
+book
+quantum
+able
+letter
+love
+climb |  
+| bip_39_word_space_0 | ['prevent', 'quote', 'absurd', 'book', 'quantum', 'able', 'letter', 'love', 'climb', 'promote', 'umbrella', 'among'] |  
+| bip_39_word_space_1 | prevent |  
+| bip_39_word_space_10 | prevent quote absurd book quantum able letter love climb promote |  
+| bip_39_word_space_11 | prevent quote absurd book quantum able letter love climb promote umbrella |  
+| bip_39_word_space_12 | prevent quote absurd book quantum able letter love climb promote umbrella among |  
+| bip_39_word_space_2 | prevent quote |  
+| bip_39_word_space_3 | prevent quote absurd |  
+| bip_39_word_space_4 | prevent quote absurd book |  
+| bip_39_word_space_5 | prevent quote absurd book quantum |  
+| bip_39_word_space_6 | prevent quote absurd book quantum able |  
+| bip_39_word_space_7 | prevent quote absurd book quantum able letter |  
+| bip_39_word_space_8 | prevent quote absurd book quantum able letter love |  
+| bip_39_word_space_9 | prevent quote absurd book quantum able letter love climb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

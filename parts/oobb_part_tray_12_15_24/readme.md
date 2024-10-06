@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: police awake
+  * bip 39 word 3: police awake motion
+  * bip 39 word: police awake motion inspire holiday chase essence crucial salad giraffe cattle avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | police |  
+| bip_39_word_new_br10 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase<br>essence<br>crucial<br>salad<br>giraffe |  
+| bip_39_word_new_br11 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase<br>essence<br>crucial<br>salad<br>giraffe<br>cattle |  
+| bip_39_word_new_br12 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase<br>essence<br>crucial<br>salad<br>giraffe<br>cattle<br>avocado |  
+| bip_39_word_new_br2 | police<br>awake |  
+| bip_39_word_new_br3 | police<br>awake<br>motion |  
+| bip_39_word_new_br4 | police<br>awake<br>motion<br>inspire |  
+| bip_39_word_new_br5 | police<br>awake<br>motion<br>inspire<br>holiday |  
+| bip_39_word_new_br6 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase |  
+| bip_39_word_new_br7 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase<br>essence |  
+| bip_39_word_new_br8 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase<br>essence<br>crucial |  
+| bip_39_word_new_br9 | police<br>awake<br>motion<br>inspire<br>holiday<br>chase<br>essence<br>crucial<br>salad |  
+| bip_39_word_new_line1 | police |  
+| bip_39_word_new_line10 | police
+awake
+motion
+inspire
+holiday
+chase
+essence
+crucial
+salad
+giraffe |  
+| bip_39_word_new_line11 | police
+awake
+motion
+inspire
+holiday
+chase
+essence
+crucial
+salad
+giraffe
+cattle |  
+| bip_39_word_new_line12 | police
+awake
+motion
+inspire
+holiday
+chase
+essence
+crucial
+salad
+giraffe
+cattle
+avocado |  
+| bip_39_word_new_line2 | police
+awake |  
+| bip_39_word_new_line3 | police
+awake
+motion |  
+| bip_39_word_new_line4 | police
+awake
+motion
+inspire |  
+| bip_39_word_new_line5 | police
+awake
+motion
+inspire
+holiday |  
+| bip_39_word_new_line6 | police
+awake
+motion
+inspire
+holiday
+chase |  
+| bip_39_word_new_line7 | police
+awake
+motion
+inspire
+holiday
+chase
+essence |  
+| bip_39_word_new_line8 | police
+awake
+motion
+inspire
+holiday
+chase
+essence
+crucial |  
+| bip_39_word_new_line9 | police
+awake
+motion
+inspire
+holiday
+chase
+essence
+crucial
+salad |  
+| bip_39_word_space_0 | ['police', 'awake', 'motion', 'inspire', 'holiday', 'chase', 'essence', 'crucial', 'salad', 'giraffe', 'cattle', 'avocado'] |  
+| bip_39_word_space_1 | police |  
+| bip_39_word_space_10 | police awake motion inspire holiday chase essence crucial salad giraffe |  
+| bip_39_word_space_11 | police awake motion inspire holiday chase essence crucial salad giraffe cattle |  
+| bip_39_word_space_12 | police awake motion inspire holiday chase essence crucial salad giraffe cattle avocado |  
+| bip_39_word_space_2 | police awake |  
+| bip_39_word_space_3 | police awake motion |  
+| bip_39_word_space_4 | police awake motion inspire |  
+| bip_39_word_space_5 | police awake motion inspire holiday |  
+| bip_39_word_space_6 | police awake motion inspire holiday chase |  
+| bip_39_word_space_7 | police awake motion inspire holiday chase essence |  
+| bip_39_word_space_8 | police awake motion inspire holiday chase essence crucial |  
+| bip_39_word_space_9 | police awake motion inspire holiday chase essence crucial salad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

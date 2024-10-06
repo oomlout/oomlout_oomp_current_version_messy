@@ -1,3 +1,186 @@
+bip_39_word_new_br1: energy
+bip_39_word_new_br10: energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor
+bip_39_word_new_br11: energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor<br>either
+bip_39_word_new_br12: energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun<br>actor<br>either<br>apart
+bip_39_word_new_br2: energy<br>unit
+bip_39_word_new_br3: energy<br>unit<br>column
+bip_39_word_new_br4: energy<br>unit<br>column<br>lecture
+bip_39_word_new_br5: energy<br>unit<br>column<br>lecture<br>cake
+bip_39_word_new_br6: energy<br>unit<br>column<br>lecture<br>cake<br>enough
+bip_39_word_new_br7: energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense
+bip_39_word_new_br8: energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel
+bip_39_word_new_br9: energy<br>unit<br>column<br>lecture<br>cake<br>enough<br>sense<br>tunnel<br>gun
+bip_39_word_new_line1: energy
+bip_39_word_new_line10: 'energy
+
+  unit
+
+  column
+
+  lecture
+
+  cake
+
+  enough
+
+  sense
+
+  tunnel
+
+  gun
+
+  actor'
+bip_39_word_new_line11: 'energy
+
+  unit
+
+  column
+
+  lecture
+
+  cake
+
+  enough
+
+  sense
+
+  tunnel
+
+  gun
+
+  actor
+
+  either'
+bip_39_word_new_line12: 'energy
+
+  unit
+
+  column
+
+  lecture
+
+  cake
+
+  enough
+
+  sense
+
+  tunnel
+
+  gun
+
+  actor
+
+  either
+
+  apart'
+bip_39_word_new_line2: 'energy
+
+  unit'
+bip_39_word_new_line3: 'energy
+
+  unit
+
+  column'
+bip_39_word_new_line4: 'energy
+
+  unit
+
+  column
+
+  lecture'
+bip_39_word_new_line5: 'energy
+
+  unit
+
+  column
+
+  lecture
+
+  cake'
+bip_39_word_new_line6: 'energy
+
+  unit
+
+  column
+
+  lecture
+
+  cake
+
+  enough'
+bip_39_word_new_line7: 'energy
+
+  unit
+
+  column
+
+  lecture
+
+  cake
+
+  enough
+
+  sense'
+bip_39_word_new_line8: 'energy
+
+  unit
+
+  column
+
+  lecture
+
+  cake
+
+  enough
+
+  sense
+
+  tunnel'
+bip_39_word_new_line9: 'energy
+
+  unit
+
+  column
+
+  lecture
+
+  cake
+
+  enough
+
+  sense
+
+  tunnel
+
+  gun'
+bip_39_word_space_0:
+- energy
+- unit
+- column
+- lecture
+- cake
+- enough
+- sense
+- tunnel
+- gun
+- actor
+- either
+- apart
+bip_39_word_space_1: energy
+bip_39_word_space_10: energy unit column lecture cake enough sense tunnel gun actor
+bip_39_word_space_11: energy unit column lecture cake enough sense tunnel gun actor
+  either
+bip_39_word_space_12: energy unit column lecture cake enough sense tunnel gun actor
+  either apart
+bip_39_word_space_2: energy unit
+bip_39_word_space_3: energy unit column
+bip_39_word_space_4: energy unit column lecture
+bip_39_word_space_5: energy unit column lecture cake
+bip_39_word_space_6: energy unit column lecture cake enough
+bip_39_word_space_7: energy unit column lecture cake enough sense
+bip_39_word_space_8: energy unit column lecture cake enough sense tunnel
+bip_39_word_space_9: energy unit column lecture cake enough sense tunnel gun
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

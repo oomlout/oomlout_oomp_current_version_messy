@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrong mouse
+  * bip 39 word 3: wrong mouse lesson
+  * bip 39 word: wrong mouse lesson first casino pupil umbrella electric atom tag come average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrong |  
+| bip_39_word_new_br10 | wrong<br>mouse<br>lesson<br>first<br>casino<br>pupil<br>umbrella<br>electric<br>atom<br>tag |  
+| bip_39_word_new_br11 | wrong<br>mouse<br>lesson<br>first<br>casino<br>pupil<br>umbrella<br>electric<br>atom<br>tag<br>come |  
+| bip_39_word_new_br12 | wrong<br>mouse<br>lesson<br>first<br>casino<br>pupil<br>umbrella<br>electric<br>atom<br>tag<br>come<br>average |  
+| bip_39_word_new_br2 | wrong<br>mouse |  
+| bip_39_word_new_br3 | wrong<br>mouse<br>lesson |  
+| bip_39_word_new_br4 | wrong<br>mouse<br>lesson<br>first |  
+| bip_39_word_new_br5 | wrong<br>mouse<br>lesson<br>first<br>casino |  
+| bip_39_word_new_br6 | wrong<br>mouse<br>lesson<br>first<br>casino<br>pupil |  
+| bip_39_word_new_br7 | wrong<br>mouse<br>lesson<br>first<br>casino<br>pupil<br>umbrella |  
+| bip_39_word_new_br8 | wrong<br>mouse<br>lesson<br>first<br>casino<br>pupil<br>umbrella<br>electric |  
+| bip_39_word_new_br9 | wrong<br>mouse<br>lesson<br>first<br>casino<br>pupil<br>umbrella<br>electric<br>atom |  
+| bip_39_word_new_line1 | wrong |  
+| bip_39_word_new_line10 | wrong
+mouse
+lesson
+first
+casino
+pupil
+umbrella
+electric
+atom
+tag |  
+| bip_39_word_new_line11 | wrong
+mouse
+lesson
+first
+casino
+pupil
+umbrella
+electric
+atom
+tag
+come |  
+| bip_39_word_new_line12 | wrong
+mouse
+lesson
+first
+casino
+pupil
+umbrella
+electric
+atom
+tag
+come
+average |  
+| bip_39_word_new_line2 | wrong
+mouse |  
+| bip_39_word_new_line3 | wrong
+mouse
+lesson |  
+| bip_39_word_new_line4 | wrong
+mouse
+lesson
+first |  
+| bip_39_word_new_line5 | wrong
+mouse
+lesson
+first
+casino |  
+| bip_39_word_new_line6 | wrong
+mouse
+lesson
+first
+casino
+pupil |  
+| bip_39_word_new_line7 | wrong
+mouse
+lesson
+first
+casino
+pupil
+umbrella |  
+| bip_39_word_new_line8 | wrong
+mouse
+lesson
+first
+casino
+pupil
+umbrella
+electric |  
+| bip_39_word_new_line9 | wrong
+mouse
+lesson
+first
+casino
+pupil
+umbrella
+electric
+atom |  
+| bip_39_word_space_0 | ['wrong', 'mouse', 'lesson', 'first', 'casino', 'pupil', 'umbrella', 'electric', 'atom', 'tag', 'come', 'average'] |  
+| bip_39_word_space_1 | wrong |  
+| bip_39_word_space_10 | wrong mouse lesson first casino pupil umbrella electric atom tag |  
+| bip_39_word_space_11 | wrong mouse lesson first casino pupil umbrella electric atom tag come |  
+| bip_39_word_space_12 | wrong mouse lesson first casino pupil umbrella electric atom tag come average |  
+| bip_39_word_space_2 | wrong mouse |  
+| bip_39_word_space_3 | wrong mouse lesson |  
+| bip_39_word_space_4 | wrong mouse lesson first |  
+| bip_39_word_space_5 | wrong mouse lesson first casino |  
+| bip_39_word_space_6 | wrong mouse lesson first casino pupil |  
+| bip_39_word_space_7 | wrong mouse lesson first casino pupil umbrella |  
+| bip_39_word_space_8 | wrong mouse lesson first casino pupil umbrella electric |  
+| bip_39_word_space_9 | wrong mouse lesson first casino pupil umbrella electric atom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bid buffalo
+  * bip 39 word 3: bid buffalo expand
+  * bip 39 word: bid buffalo expand rotate ridge remain cactus crater cushion tattoo conduct antenna
 
 ### other_codes
 * short_code: sc6b65h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bid |  
+| bip_39_word_new_br10 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain<br>cactus<br>crater<br>cushion<br>tattoo |  
+| bip_39_word_new_br11 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain<br>cactus<br>crater<br>cushion<br>tattoo<br>conduct |  
+| bip_39_word_new_br12 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain<br>cactus<br>crater<br>cushion<br>tattoo<br>conduct<br>antenna |  
+| bip_39_word_new_br2 | bid<br>buffalo |  
+| bip_39_word_new_br3 | bid<br>buffalo<br>expand |  
+| bip_39_word_new_br4 | bid<br>buffalo<br>expand<br>rotate |  
+| bip_39_word_new_br5 | bid<br>buffalo<br>expand<br>rotate<br>ridge |  
+| bip_39_word_new_br6 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain |  
+| bip_39_word_new_br7 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain<br>cactus |  
+| bip_39_word_new_br8 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain<br>cactus<br>crater |  
+| bip_39_word_new_br9 | bid<br>buffalo<br>expand<br>rotate<br>ridge<br>remain<br>cactus<br>crater<br>cushion |  
+| bip_39_word_new_line1 | bid |  
+| bip_39_word_new_line10 | bid
+buffalo
+expand
+rotate
+ridge
+remain
+cactus
+crater
+cushion
+tattoo |  
+| bip_39_word_new_line11 | bid
+buffalo
+expand
+rotate
+ridge
+remain
+cactus
+crater
+cushion
+tattoo
+conduct |  
+| bip_39_word_new_line12 | bid
+buffalo
+expand
+rotate
+ridge
+remain
+cactus
+crater
+cushion
+tattoo
+conduct
+antenna |  
+| bip_39_word_new_line2 | bid
+buffalo |  
+| bip_39_word_new_line3 | bid
+buffalo
+expand |  
+| bip_39_word_new_line4 | bid
+buffalo
+expand
+rotate |  
+| bip_39_word_new_line5 | bid
+buffalo
+expand
+rotate
+ridge |  
+| bip_39_word_new_line6 | bid
+buffalo
+expand
+rotate
+ridge
+remain |  
+| bip_39_word_new_line7 | bid
+buffalo
+expand
+rotate
+ridge
+remain
+cactus |  
+| bip_39_word_new_line8 | bid
+buffalo
+expand
+rotate
+ridge
+remain
+cactus
+crater |  
+| bip_39_word_new_line9 | bid
+buffalo
+expand
+rotate
+ridge
+remain
+cactus
+crater
+cushion |  
+| bip_39_word_space_0 | ['bid', 'buffalo', 'expand', 'rotate', 'ridge', 'remain', 'cactus', 'crater', 'cushion', 'tattoo', 'conduct', 'antenna'] |  
+| bip_39_word_space_1 | bid |  
+| bip_39_word_space_10 | bid buffalo expand rotate ridge remain cactus crater cushion tattoo |  
+| bip_39_word_space_11 | bid buffalo expand rotate ridge remain cactus crater cushion tattoo conduct |  
+| bip_39_word_space_12 | bid buffalo expand rotate ridge remain cactus crater cushion tattoo conduct antenna |  
+| bip_39_word_space_2 | bid buffalo |  
+| bip_39_word_space_3 | bid buffalo expand |  
+| bip_39_word_space_4 | bid buffalo expand rotate |  
+| bip_39_word_space_5 | bid buffalo expand rotate ridge |  
+| bip_39_word_space_6 | bid buffalo expand rotate ridge remain |  
+| bip_39_word_space_7 | bid buffalo expand rotate ridge remain cactus |  
+| bip_39_word_space_8 | bid buffalo expand rotate ridge remain cactus crater |  
+| bip_39_word_space_9 | bid buffalo expand rotate ridge remain cactus crater cushion |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

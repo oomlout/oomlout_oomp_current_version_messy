@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fish
+bip_39_word_new_br10: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off<br>wish<br>capable<br>much<br>used
+bip_39_word_new_br11: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off<br>wish<br>capable<br>much<br>used<br>dragon
+bip_39_word_new_br12: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off<br>wish<br>capable<br>much<br>used<br>dragon<br>about
+bip_39_word_new_br2: fish<br>leader
+bip_39_word_new_br3: fish<br>leader<br>finish
+bip_39_word_new_br4: fish<br>leader<br>finish<br>orchard
+bip_39_word_new_br5: fish<br>leader<br>finish<br>orchard<br>rebuild
+bip_39_word_new_br6: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off
+bip_39_word_new_br7: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off<br>wish
+bip_39_word_new_br8: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off<br>wish<br>capable
+bip_39_word_new_br9: fish<br>leader<br>finish<br>orchard<br>rebuild<br>off<br>wish<br>capable<br>much
+bip_39_word_new_line1: fish
+bip_39_word_new_line10: 'fish
+
+  leader
+
+  finish
+
+  orchard
+
+  rebuild
+
+  off
+
+  wish
+
+  capable
+
+  much
+
+  used'
+bip_39_word_new_line11: 'fish
+
+  leader
+
+  finish
+
+  orchard
+
+  rebuild
+
+  off
+
+  wish
+
+  capable
+
+  much
+
+  used
+
+  dragon'
+bip_39_word_new_line12: 'fish
+
+  leader
+
+  finish
+
+  orchard
+
+  rebuild
+
+  off
+
+  wish
+
+  capable
+
+  much
+
+  used
+
+  dragon
+
+  about'
+bip_39_word_new_line2: 'fish
+
+  leader'
+bip_39_word_new_line3: 'fish
+
+  leader
+
+  finish'
+bip_39_word_new_line4: 'fish
+
+  leader
+
+  finish
+
+  orchard'
+bip_39_word_new_line5: 'fish
+
+  leader
+
+  finish
+
+  orchard
+
+  rebuild'
+bip_39_word_new_line6: 'fish
+
+  leader
+
+  finish
+
+  orchard
+
+  rebuild
+
+  off'
+bip_39_word_new_line7: 'fish
+
+  leader
+
+  finish
+
+  orchard
+
+  rebuild
+
+  off
+
+  wish'
+bip_39_word_new_line8: 'fish
+
+  leader
+
+  finish
+
+  orchard
+
+  rebuild
+
+  off
+
+  wish
+
+  capable'
+bip_39_word_new_line9: 'fish
+
+  leader
+
+  finish
+
+  orchard
+
+  rebuild
+
+  off
+
+  wish
+
+  capable
+
+  much'
+bip_39_word_space_0:
+- fish
+- leader
+- finish
+- orchard
+- rebuild
+- 'off'
+- wish
+- capable
+- much
+- used
+- dragon
+- about
+bip_39_word_space_1: fish
+bip_39_word_space_10: fish leader finish orchard rebuild off wish capable much used
+bip_39_word_space_11: fish leader finish orchard rebuild off wish capable much used
+  dragon
+bip_39_word_space_12: fish leader finish orchard rebuild off wish capable much used
+  dragon about
+bip_39_word_space_2: fish leader
+bip_39_word_space_3: fish leader finish
+bip_39_word_space_4: fish leader finish orchard
+bip_39_word_space_5: fish leader finish orchard rebuild
+bip_39_word_space_6: fish leader finish orchard rebuild off
+bip_39_word_space_7: fish leader finish orchard rebuild off wish
+bip_39_word_space_8: fish leader finish orchard rebuild off wish capable
+bip_39_word_space_9: fish leader finish orchard rebuild off wish capable much
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

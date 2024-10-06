@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: promote actual
+  * bip 39 word 3: promote actual bronze
+  * bip 39 word: promote actual bronze federal nerve cabbage orbit cherry chair item admit avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | promote |  
+| bip_39_word_new_br10 | promote<br>actual<br>bronze<br>federal<br>nerve<br>cabbage<br>orbit<br>cherry<br>chair<br>item |  
+| bip_39_word_new_br11 | promote<br>actual<br>bronze<br>federal<br>nerve<br>cabbage<br>orbit<br>cherry<br>chair<br>item<br>admit |  
+| bip_39_word_new_br12 | promote<br>actual<br>bronze<br>federal<br>nerve<br>cabbage<br>orbit<br>cherry<br>chair<br>item<br>admit<br>avocado |  
+| bip_39_word_new_br2 | promote<br>actual |  
+| bip_39_word_new_br3 | promote<br>actual<br>bronze |  
+| bip_39_word_new_br4 | promote<br>actual<br>bronze<br>federal |  
+| bip_39_word_new_br5 | promote<br>actual<br>bronze<br>federal<br>nerve |  
+| bip_39_word_new_br6 | promote<br>actual<br>bronze<br>federal<br>nerve<br>cabbage |  
+| bip_39_word_new_br7 | promote<br>actual<br>bronze<br>federal<br>nerve<br>cabbage<br>orbit |  
+| bip_39_word_new_br8 | promote<br>actual<br>bronze<br>federal<br>nerve<br>cabbage<br>orbit<br>cherry |  
+| bip_39_word_new_br9 | promote<br>actual<br>bronze<br>federal<br>nerve<br>cabbage<br>orbit<br>cherry<br>chair |  
+| bip_39_word_new_line1 | promote |  
+| bip_39_word_new_line10 | promote
+actual
+bronze
+federal
+nerve
+cabbage
+orbit
+cherry
+chair
+item |  
+| bip_39_word_new_line11 | promote
+actual
+bronze
+federal
+nerve
+cabbage
+orbit
+cherry
+chair
+item
+admit |  
+| bip_39_word_new_line12 | promote
+actual
+bronze
+federal
+nerve
+cabbage
+orbit
+cherry
+chair
+item
+admit
+avocado |  
+| bip_39_word_new_line2 | promote
+actual |  
+| bip_39_word_new_line3 | promote
+actual
+bronze |  
+| bip_39_word_new_line4 | promote
+actual
+bronze
+federal |  
+| bip_39_word_new_line5 | promote
+actual
+bronze
+federal
+nerve |  
+| bip_39_word_new_line6 | promote
+actual
+bronze
+federal
+nerve
+cabbage |  
+| bip_39_word_new_line7 | promote
+actual
+bronze
+federal
+nerve
+cabbage
+orbit |  
+| bip_39_word_new_line8 | promote
+actual
+bronze
+federal
+nerve
+cabbage
+orbit
+cherry |  
+| bip_39_word_new_line9 | promote
+actual
+bronze
+federal
+nerve
+cabbage
+orbit
+cherry
+chair |  
+| bip_39_word_space_0 | ['promote', 'actual', 'bronze', 'federal', 'nerve', 'cabbage', 'orbit', 'cherry', 'chair', 'item', 'admit', 'avocado'] |  
+| bip_39_word_space_1 | promote |  
+| bip_39_word_space_10 | promote actual bronze federal nerve cabbage orbit cherry chair item |  
+| bip_39_word_space_11 | promote actual bronze federal nerve cabbage orbit cherry chair item admit |  
+| bip_39_word_space_12 | promote actual bronze federal nerve cabbage orbit cherry chair item admit avocado |  
+| bip_39_word_space_2 | promote actual |  
+| bip_39_word_space_3 | promote actual bronze |  
+| bip_39_word_space_4 | promote actual bronze federal |  
+| bip_39_word_space_5 | promote actual bronze federal nerve |  
+| bip_39_word_space_6 | promote actual bronze federal nerve cabbage |  
+| bip_39_word_space_7 | promote actual bronze federal nerve cabbage orbit |  
+| bip_39_word_space_8 | promote actual bronze federal nerve cabbage orbit cherry |  
+| bip_39_word_space_9 | promote actual bronze federal nerve cabbage orbit cherry chair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

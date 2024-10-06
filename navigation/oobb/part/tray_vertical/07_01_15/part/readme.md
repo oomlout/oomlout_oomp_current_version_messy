@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: appear answer
+  * bip 39 word 3: appear answer repeat
+  * bip 39 word: appear answer repeat harbor fall emerge derive evil squeeze improve friend assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | appear |  
+| bip_39_word_new_br10 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve |  
+| bip_39_word_new_br11 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve<br>friend |  
+| bip_39_word_new_br12 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze<br>improve<br>friend<br>assist |  
+| bip_39_word_new_br2 | appear<br>answer |  
+| bip_39_word_new_br3 | appear<br>answer<br>repeat |  
+| bip_39_word_new_br4 | appear<br>answer<br>repeat<br>harbor |  
+| bip_39_word_new_br5 | appear<br>answer<br>repeat<br>harbor<br>fall |  
+| bip_39_word_new_br6 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge |  
+| bip_39_word_new_br7 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive |  
+| bip_39_word_new_br8 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil |  
+| bip_39_word_new_br9 | appear<br>answer<br>repeat<br>harbor<br>fall<br>emerge<br>derive<br>evil<br>squeeze |  
+| bip_39_word_new_line1 | appear |  
+| bip_39_word_new_line10 | appear
+answer
+repeat
+harbor
+fall
+emerge
+derive
+evil
+squeeze
+improve |  
+| bip_39_word_new_line11 | appear
+answer
+repeat
+harbor
+fall
+emerge
+derive
+evil
+squeeze
+improve
+friend |  
+| bip_39_word_new_line12 | appear
+answer
+repeat
+harbor
+fall
+emerge
+derive
+evil
+squeeze
+improve
+friend
+assist |  
+| bip_39_word_new_line2 | appear
+answer |  
+| bip_39_word_new_line3 | appear
+answer
+repeat |  
+| bip_39_word_new_line4 | appear
+answer
+repeat
+harbor |  
+| bip_39_word_new_line5 | appear
+answer
+repeat
+harbor
+fall |  
+| bip_39_word_new_line6 | appear
+answer
+repeat
+harbor
+fall
+emerge |  
+| bip_39_word_new_line7 | appear
+answer
+repeat
+harbor
+fall
+emerge
+derive |  
+| bip_39_word_new_line8 | appear
+answer
+repeat
+harbor
+fall
+emerge
+derive
+evil |  
+| bip_39_word_new_line9 | appear
+answer
+repeat
+harbor
+fall
+emerge
+derive
+evil
+squeeze |  
+| bip_39_word_space_0 | ['appear', 'answer', 'repeat', 'harbor', 'fall', 'emerge', 'derive', 'evil', 'squeeze', 'improve', 'friend', 'assist'] |  
+| bip_39_word_space_1 | appear |  
+| bip_39_word_space_10 | appear answer repeat harbor fall emerge derive evil squeeze improve |  
+| bip_39_word_space_11 | appear answer repeat harbor fall emerge derive evil squeeze improve friend |  
+| bip_39_word_space_12 | appear answer repeat harbor fall emerge derive evil squeeze improve friend assist |  
+| bip_39_word_space_2 | appear answer |  
+| bip_39_word_space_3 | appear answer repeat |  
+| bip_39_word_space_4 | appear answer repeat harbor |  
+| bip_39_word_space_5 | appear answer repeat harbor fall |  
+| bip_39_word_space_6 | appear answer repeat harbor fall emerge |  
+| bip_39_word_space_7 | appear answer repeat harbor fall emerge derive |  
+| bip_39_word_space_8 | appear answer repeat harbor fall emerge derive evil |  
+| bip_39_word_space_9 | appear answer repeat harbor fall emerge derive evil squeeze |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

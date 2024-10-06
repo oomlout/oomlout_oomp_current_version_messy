@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: match future
+  * bip 39 word 3: match future health
+  * bip 39 word: match future health equip tip dutch trust cruel feature jungle ketchup across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | match |  
+| bip_39_word_new_br10 | match<br>future<br>health<br>equip<br>tip<br>dutch<br>trust<br>cruel<br>feature<br>jungle |  
+| bip_39_word_new_br11 | match<br>future<br>health<br>equip<br>tip<br>dutch<br>trust<br>cruel<br>feature<br>jungle<br>ketchup |  
+| bip_39_word_new_br12 | match<br>future<br>health<br>equip<br>tip<br>dutch<br>trust<br>cruel<br>feature<br>jungle<br>ketchup<br>across |  
+| bip_39_word_new_br2 | match<br>future |  
+| bip_39_word_new_br3 | match<br>future<br>health |  
+| bip_39_word_new_br4 | match<br>future<br>health<br>equip |  
+| bip_39_word_new_br5 | match<br>future<br>health<br>equip<br>tip |  
+| bip_39_word_new_br6 | match<br>future<br>health<br>equip<br>tip<br>dutch |  
+| bip_39_word_new_br7 | match<br>future<br>health<br>equip<br>tip<br>dutch<br>trust |  
+| bip_39_word_new_br8 | match<br>future<br>health<br>equip<br>tip<br>dutch<br>trust<br>cruel |  
+| bip_39_word_new_br9 | match<br>future<br>health<br>equip<br>tip<br>dutch<br>trust<br>cruel<br>feature |  
+| bip_39_word_new_line1 | match |  
+| bip_39_word_new_line10 | match
+future
+health
+equip
+tip
+dutch
+trust
+cruel
+feature
+jungle |  
+| bip_39_word_new_line11 | match
+future
+health
+equip
+tip
+dutch
+trust
+cruel
+feature
+jungle
+ketchup |  
+| bip_39_word_new_line12 | match
+future
+health
+equip
+tip
+dutch
+trust
+cruel
+feature
+jungle
+ketchup
+across |  
+| bip_39_word_new_line2 | match
+future |  
+| bip_39_word_new_line3 | match
+future
+health |  
+| bip_39_word_new_line4 | match
+future
+health
+equip |  
+| bip_39_word_new_line5 | match
+future
+health
+equip
+tip |  
+| bip_39_word_new_line6 | match
+future
+health
+equip
+tip
+dutch |  
+| bip_39_word_new_line7 | match
+future
+health
+equip
+tip
+dutch
+trust |  
+| bip_39_word_new_line8 | match
+future
+health
+equip
+tip
+dutch
+trust
+cruel |  
+| bip_39_word_new_line9 | match
+future
+health
+equip
+tip
+dutch
+trust
+cruel
+feature |  
+| bip_39_word_space_0 | ['match', 'future', 'health', 'equip', 'tip', 'dutch', 'trust', 'cruel', 'feature', 'jungle', 'ketchup', 'across'] |  
+| bip_39_word_space_1 | match |  
+| bip_39_word_space_10 | match future health equip tip dutch trust cruel feature jungle |  
+| bip_39_word_space_11 | match future health equip tip dutch trust cruel feature jungle ketchup |  
+| bip_39_word_space_12 | match future health equip tip dutch trust cruel feature jungle ketchup across |  
+| bip_39_word_space_2 | match future |  
+| bip_39_word_space_3 | match future health |  
+| bip_39_word_space_4 | match future health equip |  
+| bip_39_word_space_5 | match future health equip tip |  
+| bip_39_word_space_6 | match future health equip tip dutch |  
+| bip_39_word_space_7 | match future health equip tip dutch trust |  
+| bip_39_word_space_8 | match future health equip tip dutch trust cruel |  
+| bip_39_word_space_9 | match future health equip tip dutch trust cruel feature |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

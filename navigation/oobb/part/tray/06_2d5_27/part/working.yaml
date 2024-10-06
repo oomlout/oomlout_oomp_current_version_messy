@@ -1,3 +1,187 @@
+bip_39_word_new_br1: assault
+bip_39_word_new_br10: assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century
+bip_39_word_new_br11: assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century<br>define
+bip_39_word_new_br12: assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger<br>century<br>define<br>attack
+bip_39_word_new_br2: assault<br>surge
+bip_39_word_new_br3: assault<br>surge<br>injury
+bip_39_word_new_br4: assault<br>surge<br>injury<br>enhance
+bip_39_word_new_br5: assault<br>surge<br>injury<br>enhance<br>remain
+bip_39_word_new_br6: assault<br>surge<br>injury<br>enhance<br>remain<br>advance
+bip_39_word_new_br7: assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original
+bip_39_word_new_br8: assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean
+bip_39_word_new_br9: assault<br>surge<br>injury<br>enhance<br>remain<br>advance<br>original<br>bean<br>anger
+bip_39_word_new_line1: assault
+bip_39_word_new_line10: 'assault
+
+  surge
+
+  injury
+
+  enhance
+
+  remain
+
+  advance
+
+  original
+
+  bean
+
+  anger
+
+  century'
+bip_39_word_new_line11: 'assault
+
+  surge
+
+  injury
+
+  enhance
+
+  remain
+
+  advance
+
+  original
+
+  bean
+
+  anger
+
+  century
+
+  define'
+bip_39_word_new_line12: 'assault
+
+  surge
+
+  injury
+
+  enhance
+
+  remain
+
+  advance
+
+  original
+
+  bean
+
+  anger
+
+  century
+
+  define
+
+  attack'
+bip_39_word_new_line2: 'assault
+
+  surge'
+bip_39_word_new_line3: 'assault
+
+  surge
+
+  injury'
+bip_39_word_new_line4: 'assault
+
+  surge
+
+  injury
+
+  enhance'
+bip_39_word_new_line5: 'assault
+
+  surge
+
+  injury
+
+  enhance
+
+  remain'
+bip_39_word_new_line6: 'assault
+
+  surge
+
+  injury
+
+  enhance
+
+  remain
+
+  advance'
+bip_39_word_new_line7: 'assault
+
+  surge
+
+  injury
+
+  enhance
+
+  remain
+
+  advance
+
+  original'
+bip_39_word_new_line8: 'assault
+
+  surge
+
+  injury
+
+  enhance
+
+  remain
+
+  advance
+
+  original
+
+  bean'
+bip_39_word_new_line9: 'assault
+
+  surge
+
+  injury
+
+  enhance
+
+  remain
+
+  advance
+
+  original
+
+  bean
+
+  anger'
+bip_39_word_space_0:
+- assault
+- surge
+- injury
+- enhance
+- remain
+- advance
+- original
+- bean
+- anger
+- century
+- define
+- attack
+bip_39_word_space_1: assault
+bip_39_word_space_10: assault surge injury enhance remain advance original bean anger
+  century
+bip_39_word_space_11: assault surge injury enhance remain advance original bean anger
+  century define
+bip_39_word_space_12: assault surge injury enhance remain advance original bean anger
+  century define attack
+bip_39_word_space_2: assault surge
+bip_39_word_space_3: assault surge injury
+bip_39_word_space_4: assault surge injury enhance
+bip_39_word_space_5: assault surge injury enhance remain
+bip_39_word_space_6: assault surge injury enhance remain advance
+bip_39_word_space_7: assault surge injury enhance remain advance original
+bip_39_word_space_8: assault surge injury enhance remain advance original bean
+bip_39_word_space_9: assault surge injury enhance remain advance original bean anger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

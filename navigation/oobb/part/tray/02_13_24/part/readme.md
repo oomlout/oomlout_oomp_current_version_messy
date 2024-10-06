@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fold laptop
+  * bip 39 word 3: fold laptop liberty
+  * bip 39 word: fold laptop liberty want helmet miss vacuum prosper gadget urban wash autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fold |  
+| bip_39_word_new_br10 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss<br>vacuum<br>prosper<br>gadget<br>urban |  
+| bip_39_word_new_br11 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss<br>vacuum<br>prosper<br>gadget<br>urban<br>wash |  
+| bip_39_word_new_br12 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss<br>vacuum<br>prosper<br>gadget<br>urban<br>wash<br>autumn |  
+| bip_39_word_new_br2 | fold<br>laptop |  
+| bip_39_word_new_br3 | fold<br>laptop<br>liberty |  
+| bip_39_word_new_br4 | fold<br>laptop<br>liberty<br>want |  
+| bip_39_word_new_br5 | fold<br>laptop<br>liberty<br>want<br>helmet |  
+| bip_39_word_new_br6 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss |  
+| bip_39_word_new_br7 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss<br>vacuum |  
+| bip_39_word_new_br8 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss<br>vacuum<br>prosper |  
+| bip_39_word_new_br9 | fold<br>laptop<br>liberty<br>want<br>helmet<br>miss<br>vacuum<br>prosper<br>gadget |  
+| bip_39_word_new_line1 | fold |  
+| bip_39_word_new_line10 | fold
+laptop
+liberty
+want
+helmet
+miss
+vacuum
+prosper
+gadget
+urban |  
+| bip_39_word_new_line11 | fold
+laptop
+liberty
+want
+helmet
+miss
+vacuum
+prosper
+gadget
+urban
+wash |  
+| bip_39_word_new_line12 | fold
+laptop
+liberty
+want
+helmet
+miss
+vacuum
+prosper
+gadget
+urban
+wash
+autumn |  
+| bip_39_word_new_line2 | fold
+laptop |  
+| bip_39_word_new_line3 | fold
+laptop
+liberty |  
+| bip_39_word_new_line4 | fold
+laptop
+liberty
+want |  
+| bip_39_word_new_line5 | fold
+laptop
+liberty
+want
+helmet |  
+| bip_39_word_new_line6 | fold
+laptop
+liberty
+want
+helmet
+miss |  
+| bip_39_word_new_line7 | fold
+laptop
+liberty
+want
+helmet
+miss
+vacuum |  
+| bip_39_word_new_line8 | fold
+laptop
+liberty
+want
+helmet
+miss
+vacuum
+prosper |  
+| bip_39_word_new_line9 | fold
+laptop
+liberty
+want
+helmet
+miss
+vacuum
+prosper
+gadget |  
+| bip_39_word_space_0 | ['fold', 'laptop', 'liberty', 'want', 'helmet', 'miss', 'vacuum', 'prosper', 'gadget', 'urban', 'wash', 'autumn'] |  
+| bip_39_word_space_1 | fold |  
+| bip_39_word_space_10 | fold laptop liberty want helmet miss vacuum prosper gadget urban |  
+| bip_39_word_space_11 | fold laptop liberty want helmet miss vacuum prosper gadget urban wash |  
+| bip_39_word_space_12 | fold laptop liberty want helmet miss vacuum prosper gadget urban wash autumn |  
+| bip_39_word_space_2 | fold laptop |  
+| bip_39_word_space_3 | fold laptop liberty |  
+| bip_39_word_space_4 | fold laptop liberty want |  
+| bip_39_word_space_5 | fold laptop liberty want helmet |  
+| bip_39_word_space_6 | fold laptop liberty want helmet miss |  
+| bip_39_word_space_7 | fold laptop liberty want helmet miss vacuum |  
+| bip_39_word_space_8 | fold laptop liberty want helmet miss vacuum prosper |  
+| bip_39_word_space_9 | fold laptop liberty want helmet miss vacuum prosper gadget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

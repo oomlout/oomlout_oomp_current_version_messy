@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: battle craft
+  * bip 39 word 3: battle craft duck
+  * bip 39 word: battle craft duck theory bicycle joy horn decline soda cinnamon license alter
 
 ### other_codes
 * short_code: br6008
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | battle |  
+| bip_39_word_new_br10 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda<br>cinnamon |  
+| bip_39_word_new_br11 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda<br>cinnamon<br>license |  
+| bip_39_word_new_br12 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda<br>cinnamon<br>license<br>alter |  
+| bip_39_word_new_br2 | battle<br>craft |  
+| bip_39_word_new_br3 | battle<br>craft<br>duck |  
+| bip_39_word_new_br4 | battle<br>craft<br>duck<br>theory |  
+| bip_39_word_new_br5 | battle<br>craft<br>duck<br>theory<br>bicycle |  
+| bip_39_word_new_br6 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy |  
+| bip_39_word_new_br7 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn |  
+| bip_39_word_new_br8 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline |  
+| bip_39_word_new_br9 | battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda |  
+| bip_39_word_new_line1 | battle |  
+| bip_39_word_new_line10 | battle
+craft
+duck
+theory
+bicycle
+joy
+horn
+decline
+soda
+cinnamon |  
+| bip_39_word_new_line11 | battle
+craft
+duck
+theory
+bicycle
+joy
+horn
+decline
+soda
+cinnamon
+license |  
+| bip_39_word_new_line12 | battle
+craft
+duck
+theory
+bicycle
+joy
+horn
+decline
+soda
+cinnamon
+license
+alter |  
+| bip_39_word_new_line2 | battle
+craft |  
+| bip_39_word_new_line3 | battle
+craft
+duck |  
+| bip_39_word_new_line4 | battle
+craft
+duck
+theory |  
+| bip_39_word_new_line5 | battle
+craft
+duck
+theory
+bicycle |  
+| bip_39_word_new_line6 | battle
+craft
+duck
+theory
+bicycle
+joy |  
+| bip_39_word_new_line7 | battle
+craft
+duck
+theory
+bicycle
+joy
+horn |  
+| bip_39_word_new_line8 | battle
+craft
+duck
+theory
+bicycle
+joy
+horn
+decline |  
+| bip_39_word_new_line9 | battle
+craft
+duck
+theory
+bicycle
+joy
+horn
+decline
+soda |  
+| bip_39_word_space_0 | ['battle', 'craft', 'duck', 'theory', 'bicycle', 'joy', 'horn', 'decline', 'soda', 'cinnamon', 'license', 'alter'] |  
+| bip_39_word_space_1 | battle |  
+| bip_39_word_space_10 | battle craft duck theory bicycle joy horn decline soda cinnamon |  
+| bip_39_word_space_11 | battle craft duck theory bicycle joy horn decline soda cinnamon license |  
+| bip_39_word_space_12 | battle craft duck theory bicycle joy horn decline soda cinnamon license alter |  
+| bip_39_word_space_2 | battle craft |  
+| bip_39_word_space_3 | battle craft duck |  
+| bip_39_word_space_4 | battle craft duck theory |  
+| bip_39_word_space_5 | battle craft duck theory bicycle |  
+| bip_39_word_space_6 | battle craft duck theory bicycle joy |  
+| bip_39_word_space_7 | battle craft duck theory bicycle joy horn |  
+| bip_39_word_space_8 | battle craft duck theory bicycle joy horn decline |  
+| bip_39_word_space_9 | battle craft duck theory bicycle joy horn decline soda |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

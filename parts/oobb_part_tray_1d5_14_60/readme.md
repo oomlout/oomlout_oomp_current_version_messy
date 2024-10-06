@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sleep mango
+  * bip 39 word 3: sleep mango crunch
+  * bip 39 word: sleep mango crunch fine fade feature tower vacant panic narrow betray add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sleep |  
+| bip_39_word_new_br10 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature<br>tower<br>vacant<br>panic<br>narrow |  
+| bip_39_word_new_br11 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature<br>tower<br>vacant<br>panic<br>narrow<br>betray |  
+| bip_39_word_new_br12 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature<br>tower<br>vacant<br>panic<br>narrow<br>betray<br>add |  
+| bip_39_word_new_br2 | sleep<br>mango |  
+| bip_39_word_new_br3 | sleep<br>mango<br>crunch |  
+| bip_39_word_new_br4 | sleep<br>mango<br>crunch<br>fine |  
+| bip_39_word_new_br5 | sleep<br>mango<br>crunch<br>fine<br>fade |  
+| bip_39_word_new_br6 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature |  
+| bip_39_word_new_br7 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature<br>tower |  
+| bip_39_word_new_br8 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature<br>tower<br>vacant |  
+| bip_39_word_new_br9 | sleep<br>mango<br>crunch<br>fine<br>fade<br>feature<br>tower<br>vacant<br>panic |  
+| bip_39_word_new_line1 | sleep |  
+| bip_39_word_new_line10 | sleep
+mango
+crunch
+fine
+fade
+feature
+tower
+vacant
+panic
+narrow |  
+| bip_39_word_new_line11 | sleep
+mango
+crunch
+fine
+fade
+feature
+tower
+vacant
+panic
+narrow
+betray |  
+| bip_39_word_new_line12 | sleep
+mango
+crunch
+fine
+fade
+feature
+tower
+vacant
+panic
+narrow
+betray
+add |  
+| bip_39_word_new_line2 | sleep
+mango |  
+| bip_39_word_new_line3 | sleep
+mango
+crunch |  
+| bip_39_word_new_line4 | sleep
+mango
+crunch
+fine |  
+| bip_39_word_new_line5 | sleep
+mango
+crunch
+fine
+fade |  
+| bip_39_word_new_line6 | sleep
+mango
+crunch
+fine
+fade
+feature |  
+| bip_39_word_new_line7 | sleep
+mango
+crunch
+fine
+fade
+feature
+tower |  
+| bip_39_word_new_line8 | sleep
+mango
+crunch
+fine
+fade
+feature
+tower
+vacant |  
+| bip_39_word_new_line9 | sleep
+mango
+crunch
+fine
+fade
+feature
+tower
+vacant
+panic |  
+| bip_39_word_space_0 | ['sleep', 'mango', 'crunch', 'fine', 'fade', 'feature', 'tower', 'vacant', 'panic', 'narrow', 'betray', 'add'] |  
+| bip_39_word_space_1 | sleep |  
+| bip_39_word_space_10 | sleep mango crunch fine fade feature tower vacant panic narrow |  
+| bip_39_word_space_11 | sleep mango crunch fine fade feature tower vacant panic narrow betray |  
+| bip_39_word_space_12 | sleep mango crunch fine fade feature tower vacant panic narrow betray add |  
+| bip_39_word_space_2 | sleep mango |  
+| bip_39_word_space_3 | sleep mango crunch |  
+| bip_39_word_space_4 | sleep mango crunch fine |  
+| bip_39_word_space_5 | sleep mango crunch fine fade |  
+| bip_39_word_space_6 | sleep mango crunch fine fade feature |  
+| bip_39_word_space_7 | sleep mango crunch fine fade feature tower |  
+| bip_39_word_space_8 | sleep mango crunch fine fade feature tower vacant |  
+| bip_39_word_space_9 | sleep mango crunch fine fade feature tower vacant panic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

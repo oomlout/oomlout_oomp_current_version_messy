@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gentle adult
+  * bip 39 word 3: gentle adult toy
+  * bip 39 word: gentle adult toy reduce turkey trigger thought park promote hazard grace angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gentle |  
+| bip_39_word_new_br10 | gentle<br>adult<br>toy<br>reduce<br>turkey<br>trigger<br>thought<br>park<br>promote<br>hazard |  
+| bip_39_word_new_br11 | gentle<br>adult<br>toy<br>reduce<br>turkey<br>trigger<br>thought<br>park<br>promote<br>hazard<br>grace |  
+| bip_39_word_new_br12 | gentle<br>adult<br>toy<br>reduce<br>turkey<br>trigger<br>thought<br>park<br>promote<br>hazard<br>grace<br>angry |  
+| bip_39_word_new_br2 | gentle<br>adult |  
+| bip_39_word_new_br3 | gentle<br>adult<br>toy |  
+| bip_39_word_new_br4 | gentle<br>adult<br>toy<br>reduce |  
+| bip_39_word_new_br5 | gentle<br>adult<br>toy<br>reduce<br>turkey |  
+| bip_39_word_new_br6 | gentle<br>adult<br>toy<br>reduce<br>turkey<br>trigger |  
+| bip_39_word_new_br7 | gentle<br>adult<br>toy<br>reduce<br>turkey<br>trigger<br>thought |  
+| bip_39_word_new_br8 | gentle<br>adult<br>toy<br>reduce<br>turkey<br>trigger<br>thought<br>park |  
+| bip_39_word_new_br9 | gentle<br>adult<br>toy<br>reduce<br>turkey<br>trigger<br>thought<br>park<br>promote |  
+| bip_39_word_new_line1 | gentle |  
+| bip_39_word_new_line10 | gentle
+adult
+toy
+reduce
+turkey
+trigger
+thought
+park
+promote
+hazard |  
+| bip_39_word_new_line11 | gentle
+adult
+toy
+reduce
+turkey
+trigger
+thought
+park
+promote
+hazard
+grace |  
+| bip_39_word_new_line12 | gentle
+adult
+toy
+reduce
+turkey
+trigger
+thought
+park
+promote
+hazard
+grace
+angry |  
+| bip_39_word_new_line2 | gentle
+adult |  
+| bip_39_word_new_line3 | gentle
+adult
+toy |  
+| bip_39_word_new_line4 | gentle
+adult
+toy
+reduce |  
+| bip_39_word_new_line5 | gentle
+adult
+toy
+reduce
+turkey |  
+| bip_39_word_new_line6 | gentle
+adult
+toy
+reduce
+turkey
+trigger |  
+| bip_39_word_new_line7 | gentle
+adult
+toy
+reduce
+turkey
+trigger
+thought |  
+| bip_39_word_new_line8 | gentle
+adult
+toy
+reduce
+turkey
+trigger
+thought
+park |  
+| bip_39_word_new_line9 | gentle
+adult
+toy
+reduce
+turkey
+trigger
+thought
+park
+promote |  
+| bip_39_word_space_0 | ['gentle', 'adult', 'toy', 'reduce', 'turkey', 'trigger', 'thought', 'park', 'promote', 'hazard', 'grace', 'angry'] |  
+| bip_39_word_space_1 | gentle |  
+| bip_39_word_space_10 | gentle adult toy reduce turkey trigger thought park promote hazard |  
+| bip_39_word_space_11 | gentle adult toy reduce turkey trigger thought park promote hazard grace |  
+| bip_39_word_space_12 | gentle adult toy reduce turkey trigger thought park promote hazard grace angry |  
+| bip_39_word_space_2 | gentle adult |  
+| bip_39_word_space_3 | gentle adult toy |  
+| bip_39_word_space_4 | gentle adult toy reduce |  
+| bip_39_word_space_5 | gentle adult toy reduce turkey |  
+| bip_39_word_space_6 | gentle adult toy reduce turkey trigger |  
+| bip_39_word_space_7 | gentle adult toy reduce turkey trigger thought |  
+| bip_39_word_space_8 | gentle adult toy reduce turkey trigger thought park |  
+| bip_39_word_space_9 | gentle adult toy reduce turkey trigger thought park promote |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

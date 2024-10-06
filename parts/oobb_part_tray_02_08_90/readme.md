@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: recall churn
+  * bip 39 word 3: recall churn walnut
+  * bip 39 word: recall churn walnut piece carry lift sister damp shiver trophy fall alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | recall |  
+| bip_39_word_new_br10 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift<br>sister<br>damp<br>shiver<br>trophy |  
+| bip_39_word_new_br11 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift<br>sister<br>damp<br>shiver<br>trophy<br>fall |  
+| bip_39_word_new_br12 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift<br>sister<br>damp<br>shiver<br>trophy<br>fall<br>alert |  
+| bip_39_word_new_br2 | recall<br>churn |  
+| bip_39_word_new_br3 | recall<br>churn<br>walnut |  
+| bip_39_word_new_br4 | recall<br>churn<br>walnut<br>piece |  
+| bip_39_word_new_br5 | recall<br>churn<br>walnut<br>piece<br>carry |  
+| bip_39_word_new_br6 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift |  
+| bip_39_word_new_br7 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift<br>sister |  
+| bip_39_word_new_br8 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift<br>sister<br>damp |  
+| bip_39_word_new_br9 | recall<br>churn<br>walnut<br>piece<br>carry<br>lift<br>sister<br>damp<br>shiver |  
+| bip_39_word_new_line1 | recall |  
+| bip_39_word_new_line10 | recall
+churn
+walnut
+piece
+carry
+lift
+sister
+damp
+shiver
+trophy |  
+| bip_39_word_new_line11 | recall
+churn
+walnut
+piece
+carry
+lift
+sister
+damp
+shiver
+trophy
+fall |  
+| bip_39_word_new_line12 | recall
+churn
+walnut
+piece
+carry
+lift
+sister
+damp
+shiver
+trophy
+fall
+alert |  
+| bip_39_word_new_line2 | recall
+churn |  
+| bip_39_word_new_line3 | recall
+churn
+walnut |  
+| bip_39_word_new_line4 | recall
+churn
+walnut
+piece |  
+| bip_39_word_new_line5 | recall
+churn
+walnut
+piece
+carry |  
+| bip_39_word_new_line6 | recall
+churn
+walnut
+piece
+carry
+lift |  
+| bip_39_word_new_line7 | recall
+churn
+walnut
+piece
+carry
+lift
+sister |  
+| bip_39_word_new_line8 | recall
+churn
+walnut
+piece
+carry
+lift
+sister
+damp |  
+| bip_39_word_new_line9 | recall
+churn
+walnut
+piece
+carry
+lift
+sister
+damp
+shiver |  
+| bip_39_word_space_0 | ['recall', 'churn', 'walnut', 'piece', 'carry', 'lift', 'sister', 'damp', 'shiver', 'trophy', 'fall', 'alert'] |  
+| bip_39_word_space_1 | recall |  
+| bip_39_word_space_10 | recall churn walnut piece carry lift sister damp shiver trophy |  
+| bip_39_word_space_11 | recall churn walnut piece carry lift sister damp shiver trophy fall |  
+| bip_39_word_space_12 | recall churn walnut piece carry lift sister damp shiver trophy fall alert |  
+| bip_39_word_space_2 | recall churn |  
+| bip_39_word_space_3 | recall churn walnut |  
+| bip_39_word_space_4 | recall churn walnut piece |  
+| bip_39_word_space_5 | recall churn walnut piece carry |  
+| bip_39_word_space_6 | recall churn walnut piece carry lift |  
+| bip_39_word_space_7 | recall churn walnut piece carry lift sister |  
+| bip_39_word_space_8 | recall churn walnut piece carry lift sister damp |  
+| bip_39_word_space_9 | recall churn walnut piece carry lift sister damp shiver |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

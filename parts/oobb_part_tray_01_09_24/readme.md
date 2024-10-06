@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: engage warm
+  * bip 39 word 3: engage warm episode
+  * bip 39 word: engage warm episode citizen moment fit advice fabric level fox thought another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | engage |  
+| bip_39_word_new_br10 | engage<br>warm<br>episode<br>citizen<br>moment<br>fit<br>advice<br>fabric<br>level<br>fox |  
+| bip_39_word_new_br11 | engage<br>warm<br>episode<br>citizen<br>moment<br>fit<br>advice<br>fabric<br>level<br>fox<br>thought |  
+| bip_39_word_new_br12 | engage<br>warm<br>episode<br>citizen<br>moment<br>fit<br>advice<br>fabric<br>level<br>fox<br>thought<br>another |  
+| bip_39_word_new_br2 | engage<br>warm |  
+| bip_39_word_new_br3 | engage<br>warm<br>episode |  
+| bip_39_word_new_br4 | engage<br>warm<br>episode<br>citizen |  
+| bip_39_word_new_br5 | engage<br>warm<br>episode<br>citizen<br>moment |  
+| bip_39_word_new_br6 | engage<br>warm<br>episode<br>citizen<br>moment<br>fit |  
+| bip_39_word_new_br7 | engage<br>warm<br>episode<br>citizen<br>moment<br>fit<br>advice |  
+| bip_39_word_new_br8 | engage<br>warm<br>episode<br>citizen<br>moment<br>fit<br>advice<br>fabric |  
+| bip_39_word_new_br9 | engage<br>warm<br>episode<br>citizen<br>moment<br>fit<br>advice<br>fabric<br>level |  
+| bip_39_word_new_line1 | engage |  
+| bip_39_word_new_line10 | engage
+warm
+episode
+citizen
+moment
+fit
+advice
+fabric
+level
+fox |  
+| bip_39_word_new_line11 | engage
+warm
+episode
+citizen
+moment
+fit
+advice
+fabric
+level
+fox
+thought |  
+| bip_39_word_new_line12 | engage
+warm
+episode
+citizen
+moment
+fit
+advice
+fabric
+level
+fox
+thought
+another |  
+| bip_39_word_new_line2 | engage
+warm |  
+| bip_39_word_new_line3 | engage
+warm
+episode |  
+| bip_39_word_new_line4 | engage
+warm
+episode
+citizen |  
+| bip_39_word_new_line5 | engage
+warm
+episode
+citizen
+moment |  
+| bip_39_word_new_line6 | engage
+warm
+episode
+citizen
+moment
+fit |  
+| bip_39_word_new_line7 | engage
+warm
+episode
+citizen
+moment
+fit
+advice |  
+| bip_39_word_new_line8 | engage
+warm
+episode
+citizen
+moment
+fit
+advice
+fabric |  
+| bip_39_word_new_line9 | engage
+warm
+episode
+citizen
+moment
+fit
+advice
+fabric
+level |  
+| bip_39_word_space_0 | ['engage', 'warm', 'episode', 'citizen', 'moment', 'fit', 'advice', 'fabric', 'level', 'fox', 'thought', 'another'] |  
+| bip_39_word_space_1 | engage |  
+| bip_39_word_space_10 | engage warm episode citizen moment fit advice fabric level fox |  
+| bip_39_word_space_11 | engage warm episode citizen moment fit advice fabric level fox thought |  
+| bip_39_word_space_12 | engage warm episode citizen moment fit advice fabric level fox thought another |  
+| bip_39_word_space_2 | engage warm |  
+| bip_39_word_space_3 | engage warm episode |  
+| bip_39_word_space_4 | engage warm episode citizen |  
+| bip_39_word_space_5 | engage warm episode citizen moment |  
+| bip_39_word_space_6 | engage warm episode citizen moment fit |  
+| bip_39_word_space_7 | engage warm episode citizen moment fit advice |  
+| bip_39_word_space_8 | engage warm episode citizen moment fit advice fabric |  
+| bip_39_word_space_9 | engage warm episode citizen moment fit advice fabric level |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

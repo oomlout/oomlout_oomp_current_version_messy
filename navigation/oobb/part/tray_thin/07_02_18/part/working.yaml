@@ -1,3 +1,159 @@
+bip_39_word_new_br1: alone
+bip_39_word_new_br10: alone<br>novel<br>brisk<br>coin<br>actress<br>make<br>broom<br>rather<br>worry<br>exchange
+bip_39_word_new_br11: alone<br>novel<br>brisk<br>coin<br>actress<br>make<br>broom<br>rather<br>worry<br>exchange<br>require
+bip_39_word_new_br2: alone<br>novel
+bip_39_word_new_br3: alone<br>novel<br>brisk
+bip_39_word_new_br4: alone<br>novel<br>brisk<br>coin
+bip_39_word_new_br5: alone<br>novel<br>brisk<br>coin<br>actress
+bip_39_word_new_br6: alone<br>novel<br>brisk<br>coin<br>actress<br>make
+bip_39_word_new_br7: alone<br>novel<br>brisk<br>coin<br>actress<br>make<br>broom
+bip_39_word_new_br8: alone<br>novel<br>brisk<br>coin<br>actress<br>make<br>broom<br>rather
+bip_39_word_new_br9: alone<br>novel<br>brisk<br>coin<br>actress<br>make<br>broom<br>rather<br>worry
+bip_39_word_new_line1: alone
+bip_39_word_new_line10: 'alone
+
+  novel
+
+  brisk
+
+  coin
+
+  actress
+
+  make
+
+  broom
+
+  rather
+
+  worry
+
+  exchange'
+bip_39_word_new_line11: 'alone
+
+  novel
+
+  brisk
+
+  coin
+
+  actress
+
+  make
+
+  broom
+
+  rather
+
+  worry
+
+  exchange
+
+  require'
+bip_39_word_new_line2: 'alone
+
+  novel'
+bip_39_word_new_line3: 'alone
+
+  novel
+
+  brisk'
+bip_39_word_new_line4: 'alone
+
+  novel
+
+  brisk
+
+  coin'
+bip_39_word_new_line5: 'alone
+
+  novel
+
+  brisk
+
+  coin
+
+  actress'
+bip_39_word_new_line6: 'alone
+
+  novel
+
+  brisk
+
+  coin
+
+  actress
+
+  make'
+bip_39_word_new_line7: 'alone
+
+  novel
+
+  brisk
+
+  coin
+
+  actress
+
+  make
+
+  broom'
+bip_39_word_new_line8: 'alone
+
+  novel
+
+  brisk
+
+  coin
+
+  actress
+
+  make
+
+  broom
+
+  rather'
+bip_39_word_new_line9: 'alone
+
+  novel
+
+  brisk
+
+  coin
+
+  actress
+
+  make
+
+  broom
+
+  rather
+
+  worry'
+bip_39_word_space_0:
+- alone
+- novel
+- brisk
+- coin
+- actress
+- make
+- broom
+- rather
+- worry
+- exchange
+- require
+bip_39_word_space_1: alone
+bip_39_word_space_10: alone novel brisk coin actress make broom rather worry exchange
+bip_39_word_space_11: alone novel brisk coin actress make broom rather worry exchange
+  require
+bip_39_word_space_2: alone novel
+bip_39_word_space_3: alone novel brisk
+bip_39_word_space_4: alone novel brisk coin
+bip_39_word_space_5: alone novel brisk coin actress
+bip_39_word_space_6: alone novel brisk coin actress make
+bip_39_word_space_7: alone novel brisk coin actress make broom
+bip_39_word_space_8: alone novel brisk coin actress make broom rather
+bip_39_word_space_9: alone novel brisk coin actress make broom rather worry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

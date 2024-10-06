@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: concert wise
+  * bip 39 word 3: concert wise morning
+  * bip 39 word: concert wise morning settle describe since feel spoon word fee ankle annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | concert |  
+| bip_39_word_new_br10 | concert<br>wise<br>morning<br>settle<br>describe<br>since<br>feel<br>spoon<br>word<br>fee |  
+| bip_39_word_new_br11 | concert<br>wise<br>morning<br>settle<br>describe<br>since<br>feel<br>spoon<br>word<br>fee<br>ankle |  
+| bip_39_word_new_br12 | concert<br>wise<br>morning<br>settle<br>describe<br>since<br>feel<br>spoon<br>word<br>fee<br>ankle<br>annual |  
+| bip_39_word_new_br2 | concert<br>wise |  
+| bip_39_word_new_br3 | concert<br>wise<br>morning |  
+| bip_39_word_new_br4 | concert<br>wise<br>morning<br>settle |  
+| bip_39_word_new_br5 | concert<br>wise<br>morning<br>settle<br>describe |  
+| bip_39_word_new_br6 | concert<br>wise<br>morning<br>settle<br>describe<br>since |  
+| bip_39_word_new_br7 | concert<br>wise<br>morning<br>settle<br>describe<br>since<br>feel |  
+| bip_39_word_new_br8 | concert<br>wise<br>morning<br>settle<br>describe<br>since<br>feel<br>spoon |  
+| bip_39_word_new_br9 | concert<br>wise<br>morning<br>settle<br>describe<br>since<br>feel<br>spoon<br>word |  
+| bip_39_word_new_line1 | concert |  
+| bip_39_word_new_line10 | concert
+wise
+morning
+settle
+describe
+since
+feel
+spoon
+word
+fee |  
+| bip_39_word_new_line11 | concert
+wise
+morning
+settle
+describe
+since
+feel
+spoon
+word
+fee
+ankle |  
+| bip_39_word_new_line12 | concert
+wise
+morning
+settle
+describe
+since
+feel
+spoon
+word
+fee
+ankle
+annual |  
+| bip_39_word_new_line2 | concert
+wise |  
+| bip_39_word_new_line3 | concert
+wise
+morning |  
+| bip_39_word_new_line4 | concert
+wise
+morning
+settle |  
+| bip_39_word_new_line5 | concert
+wise
+morning
+settle
+describe |  
+| bip_39_word_new_line6 | concert
+wise
+morning
+settle
+describe
+since |  
+| bip_39_word_new_line7 | concert
+wise
+morning
+settle
+describe
+since
+feel |  
+| bip_39_word_new_line8 | concert
+wise
+morning
+settle
+describe
+since
+feel
+spoon |  
+| bip_39_word_new_line9 | concert
+wise
+morning
+settle
+describe
+since
+feel
+spoon
+word |  
+| bip_39_word_space_0 | ['concert', 'wise', 'morning', 'settle', 'describe', 'since', 'feel', 'spoon', 'word', 'fee', 'ankle', 'annual'] |  
+| bip_39_word_space_1 | concert |  
+| bip_39_word_space_10 | concert wise morning settle describe since feel spoon word fee |  
+| bip_39_word_space_11 | concert wise morning settle describe since feel spoon word fee ankle |  
+| bip_39_word_space_12 | concert wise morning settle describe since feel spoon word fee ankle annual |  
+| bip_39_word_space_2 | concert wise |  
+| bip_39_word_space_3 | concert wise morning |  
+| bip_39_word_space_4 | concert wise morning settle |  
+| bip_39_word_space_5 | concert wise morning settle describe |  
+| bip_39_word_space_6 | concert wise morning settle describe since |  
+| bip_39_word_space_7 | concert wise morning settle describe since feel |  
+| bip_39_word_space_8 | concert wise morning settle describe since feel spoon |  
+| bip_39_word_space_9 | concert wise morning settle describe since feel spoon word |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

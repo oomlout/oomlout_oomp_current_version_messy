@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nation object
+  * bip 39 word 3: nation object awful
+  * bip 39 word: nation object awful ozone modify equip walnut wealth identify escape permit act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nation |  
+| bip_39_word_new_br10 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape |  
+| bip_39_word_new_br11 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape<br>permit |  
+| bip_39_word_new_br12 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify<br>escape<br>permit<br>act |  
+| bip_39_word_new_br2 | nation<br>object |  
+| bip_39_word_new_br3 | nation<br>object<br>awful |  
+| bip_39_word_new_br4 | nation<br>object<br>awful<br>ozone |  
+| bip_39_word_new_br5 | nation<br>object<br>awful<br>ozone<br>modify |  
+| bip_39_word_new_br6 | nation<br>object<br>awful<br>ozone<br>modify<br>equip |  
+| bip_39_word_new_br7 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut |  
+| bip_39_word_new_br8 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth |  
+| bip_39_word_new_br9 | nation<br>object<br>awful<br>ozone<br>modify<br>equip<br>walnut<br>wealth<br>identify |  
+| bip_39_word_new_line1 | nation |  
+| bip_39_word_new_line10 | nation
+object
+awful
+ozone
+modify
+equip
+walnut
+wealth
+identify
+escape |  
+| bip_39_word_new_line11 | nation
+object
+awful
+ozone
+modify
+equip
+walnut
+wealth
+identify
+escape
+permit |  
+| bip_39_word_new_line12 | nation
+object
+awful
+ozone
+modify
+equip
+walnut
+wealth
+identify
+escape
+permit
+act |  
+| bip_39_word_new_line2 | nation
+object |  
+| bip_39_word_new_line3 | nation
+object
+awful |  
+| bip_39_word_new_line4 | nation
+object
+awful
+ozone |  
+| bip_39_word_new_line5 | nation
+object
+awful
+ozone
+modify |  
+| bip_39_word_new_line6 | nation
+object
+awful
+ozone
+modify
+equip |  
+| bip_39_word_new_line7 | nation
+object
+awful
+ozone
+modify
+equip
+walnut |  
+| bip_39_word_new_line8 | nation
+object
+awful
+ozone
+modify
+equip
+walnut
+wealth |  
+| bip_39_word_new_line9 | nation
+object
+awful
+ozone
+modify
+equip
+walnut
+wealth
+identify |  
+| bip_39_word_space_0 | ['nation', 'object', 'awful', 'ozone', 'modify', 'equip', 'walnut', 'wealth', 'identify', 'escape', 'permit', 'act'] |  
+| bip_39_word_space_1 | nation |  
+| bip_39_word_space_10 | nation object awful ozone modify equip walnut wealth identify escape |  
+| bip_39_word_space_11 | nation object awful ozone modify equip walnut wealth identify escape permit |  
+| bip_39_word_space_12 | nation object awful ozone modify equip walnut wealth identify escape permit act |  
+| bip_39_word_space_2 | nation object |  
+| bip_39_word_space_3 | nation object awful |  
+| bip_39_word_space_4 | nation object awful ozone |  
+| bip_39_word_space_5 | nation object awful ozone modify |  
+| bip_39_word_space_6 | nation object awful ozone modify equip |  
+| bip_39_word_space_7 | nation object awful ozone modify equip walnut |  
+| bip_39_word_space_8 | nation object awful ozone modify equip walnut wealth |  
+| bip_39_word_space_9 | nation object awful ozone modify equip walnut wealth identify |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

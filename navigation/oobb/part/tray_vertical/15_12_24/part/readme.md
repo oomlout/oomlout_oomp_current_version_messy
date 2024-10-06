@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swing length
+  * bip 39 word 3: swing length embark
+  * bip 39 word: swing length embark radar camera rather display truck spoil silver hour anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swing |  
+| bip_39_word_new_br10 | swing<br>length<br>embark<br>radar<br>camera<br>rather<br>display<br>truck<br>spoil<br>silver |  
+| bip_39_word_new_br11 | swing<br>length<br>embark<br>radar<br>camera<br>rather<br>display<br>truck<br>spoil<br>silver<br>hour |  
+| bip_39_word_new_br12 | swing<br>length<br>embark<br>radar<br>camera<br>rather<br>display<br>truck<br>spoil<br>silver<br>hour<br>anxiety |  
+| bip_39_word_new_br2 | swing<br>length |  
+| bip_39_word_new_br3 | swing<br>length<br>embark |  
+| bip_39_word_new_br4 | swing<br>length<br>embark<br>radar |  
+| bip_39_word_new_br5 | swing<br>length<br>embark<br>radar<br>camera |  
+| bip_39_word_new_br6 | swing<br>length<br>embark<br>radar<br>camera<br>rather |  
+| bip_39_word_new_br7 | swing<br>length<br>embark<br>radar<br>camera<br>rather<br>display |  
+| bip_39_word_new_br8 | swing<br>length<br>embark<br>radar<br>camera<br>rather<br>display<br>truck |  
+| bip_39_word_new_br9 | swing<br>length<br>embark<br>radar<br>camera<br>rather<br>display<br>truck<br>spoil |  
+| bip_39_word_new_line1 | swing |  
+| bip_39_word_new_line10 | swing
+length
+embark
+radar
+camera
+rather
+display
+truck
+spoil
+silver |  
+| bip_39_word_new_line11 | swing
+length
+embark
+radar
+camera
+rather
+display
+truck
+spoil
+silver
+hour |  
+| bip_39_word_new_line12 | swing
+length
+embark
+radar
+camera
+rather
+display
+truck
+spoil
+silver
+hour
+anxiety |  
+| bip_39_word_new_line2 | swing
+length |  
+| bip_39_word_new_line3 | swing
+length
+embark |  
+| bip_39_word_new_line4 | swing
+length
+embark
+radar |  
+| bip_39_word_new_line5 | swing
+length
+embark
+radar
+camera |  
+| bip_39_word_new_line6 | swing
+length
+embark
+radar
+camera
+rather |  
+| bip_39_word_new_line7 | swing
+length
+embark
+radar
+camera
+rather
+display |  
+| bip_39_word_new_line8 | swing
+length
+embark
+radar
+camera
+rather
+display
+truck |  
+| bip_39_word_new_line9 | swing
+length
+embark
+radar
+camera
+rather
+display
+truck
+spoil |  
+| bip_39_word_space_0 | ['swing', 'length', 'embark', 'radar', 'camera', 'rather', 'display', 'truck', 'spoil', 'silver', 'hour', 'anxiety'] |  
+| bip_39_word_space_1 | swing |  
+| bip_39_word_space_10 | swing length embark radar camera rather display truck spoil silver |  
+| bip_39_word_space_11 | swing length embark radar camera rather display truck spoil silver hour |  
+| bip_39_word_space_12 | swing length embark radar camera rather display truck spoil silver hour anxiety |  
+| bip_39_word_space_2 | swing length |  
+| bip_39_word_space_3 | swing length embark |  
+| bip_39_word_space_4 | swing length embark radar |  
+| bip_39_word_space_5 | swing length embark radar camera |  
+| bip_39_word_space_6 | swing length embark radar camera rather |  
+| bip_39_word_space_7 | swing length embark radar camera rather display |  
+| bip_39_word_space_8 | swing length embark radar camera rather display truck |  
+| bip_39_word_space_9 | swing length embark radar camera rather display truck spoil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

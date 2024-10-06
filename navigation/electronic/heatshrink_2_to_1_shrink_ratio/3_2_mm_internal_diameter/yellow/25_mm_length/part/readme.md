@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: leg spray
+  * bip 39 word 3: leg spray index
+  * bip 39 word: leg spray index drop subject insane rose laptop busy ahead people argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | leg |  
+| bip_39_word_new_br10 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead |  
+| bip_39_word_new_br11 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead<br>people |  
+| bip_39_word_new_br12 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy<br>ahead<br>people<br>argue |  
+| bip_39_word_new_br2 | leg<br>spray |  
+| bip_39_word_new_br3 | leg<br>spray<br>index |  
+| bip_39_word_new_br4 | leg<br>spray<br>index<br>drop |  
+| bip_39_word_new_br5 | leg<br>spray<br>index<br>drop<br>subject |  
+| bip_39_word_new_br6 | leg<br>spray<br>index<br>drop<br>subject<br>insane |  
+| bip_39_word_new_br7 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose |  
+| bip_39_word_new_br8 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop |  
+| bip_39_word_new_br9 | leg<br>spray<br>index<br>drop<br>subject<br>insane<br>rose<br>laptop<br>busy |  
+| bip_39_word_new_line1 | leg |  
+| bip_39_word_new_line10 | leg
+spray
+index
+drop
+subject
+insane
+rose
+laptop
+busy
+ahead |  
+| bip_39_word_new_line11 | leg
+spray
+index
+drop
+subject
+insane
+rose
+laptop
+busy
+ahead
+people |  
+| bip_39_word_new_line12 | leg
+spray
+index
+drop
+subject
+insane
+rose
+laptop
+busy
+ahead
+people
+argue |  
+| bip_39_word_new_line2 | leg
+spray |  
+| bip_39_word_new_line3 | leg
+spray
+index |  
+| bip_39_word_new_line4 | leg
+spray
+index
+drop |  
+| bip_39_word_new_line5 | leg
+spray
+index
+drop
+subject |  
+| bip_39_word_new_line6 | leg
+spray
+index
+drop
+subject
+insane |  
+| bip_39_word_new_line7 | leg
+spray
+index
+drop
+subject
+insane
+rose |  
+| bip_39_word_new_line8 | leg
+spray
+index
+drop
+subject
+insane
+rose
+laptop |  
+| bip_39_word_new_line9 | leg
+spray
+index
+drop
+subject
+insane
+rose
+laptop
+busy |  
+| bip_39_word_space_0 | ['leg', 'spray', 'index', 'drop', 'subject', 'insane', 'rose', 'laptop', 'busy', 'ahead', 'people', 'argue'] |  
+| bip_39_word_space_1 | leg |  
+| bip_39_word_space_10 | leg spray index drop subject insane rose laptop busy ahead |  
+| bip_39_word_space_11 | leg spray index drop subject insane rose laptop busy ahead people |  
+| bip_39_word_space_12 | leg spray index drop subject insane rose laptop busy ahead people argue |  
+| bip_39_word_space_2 | leg spray |  
+| bip_39_word_space_3 | leg spray index |  
+| bip_39_word_space_4 | leg spray index drop |  
+| bip_39_word_space_5 | leg spray index drop subject |  
+| bip_39_word_space_6 | leg spray index drop subject insane |  
+| bip_39_word_space_7 | leg spray index drop subject insane rose |  
+| bip_39_word_space_8 | leg spray index drop subject insane rose laptop |  
+| bip_39_word_space_9 | leg spray index drop subject insane rose laptop busy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

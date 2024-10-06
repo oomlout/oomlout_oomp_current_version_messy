@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: output physical
+  * bip 39 word 3: output physical bar
+  * bip 39 word: output physical bar dinosaur refuse cycle version shoot pyramid hundred combine april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | output |  
+| bip_39_word_new_br10 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle<br>version<br>shoot<br>pyramid<br>hundred |  
+| bip_39_word_new_br11 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle<br>version<br>shoot<br>pyramid<br>hundred<br>combine |  
+| bip_39_word_new_br12 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle<br>version<br>shoot<br>pyramid<br>hundred<br>combine<br>april |  
+| bip_39_word_new_br2 | output<br>physical |  
+| bip_39_word_new_br3 | output<br>physical<br>bar |  
+| bip_39_word_new_br4 | output<br>physical<br>bar<br>dinosaur |  
+| bip_39_word_new_br5 | output<br>physical<br>bar<br>dinosaur<br>refuse |  
+| bip_39_word_new_br6 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle |  
+| bip_39_word_new_br7 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle<br>version |  
+| bip_39_word_new_br8 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle<br>version<br>shoot |  
+| bip_39_word_new_br9 | output<br>physical<br>bar<br>dinosaur<br>refuse<br>cycle<br>version<br>shoot<br>pyramid |  
+| bip_39_word_new_line1 | output |  
+| bip_39_word_new_line10 | output
+physical
+bar
+dinosaur
+refuse
+cycle
+version
+shoot
+pyramid
+hundred |  
+| bip_39_word_new_line11 | output
+physical
+bar
+dinosaur
+refuse
+cycle
+version
+shoot
+pyramid
+hundred
+combine |  
+| bip_39_word_new_line12 | output
+physical
+bar
+dinosaur
+refuse
+cycle
+version
+shoot
+pyramid
+hundred
+combine
+april |  
+| bip_39_word_new_line2 | output
+physical |  
+| bip_39_word_new_line3 | output
+physical
+bar |  
+| bip_39_word_new_line4 | output
+physical
+bar
+dinosaur |  
+| bip_39_word_new_line5 | output
+physical
+bar
+dinosaur
+refuse |  
+| bip_39_word_new_line6 | output
+physical
+bar
+dinosaur
+refuse
+cycle |  
+| bip_39_word_new_line7 | output
+physical
+bar
+dinosaur
+refuse
+cycle
+version |  
+| bip_39_word_new_line8 | output
+physical
+bar
+dinosaur
+refuse
+cycle
+version
+shoot |  
+| bip_39_word_new_line9 | output
+physical
+bar
+dinosaur
+refuse
+cycle
+version
+shoot
+pyramid |  
+| bip_39_word_space_0 | ['output', 'physical', 'bar', 'dinosaur', 'refuse', 'cycle', 'version', 'shoot', 'pyramid', 'hundred', 'combine', 'april'] |  
+| bip_39_word_space_1 | output |  
+| bip_39_word_space_10 | output physical bar dinosaur refuse cycle version shoot pyramid hundred |  
+| bip_39_word_space_11 | output physical bar dinosaur refuse cycle version shoot pyramid hundred combine |  
+| bip_39_word_space_12 | output physical bar dinosaur refuse cycle version shoot pyramid hundred combine april |  
+| bip_39_word_space_2 | output physical |  
+| bip_39_word_space_3 | output physical bar |  
+| bip_39_word_space_4 | output physical bar dinosaur |  
+| bip_39_word_space_5 | output physical bar dinosaur refuse |  
+| bip_39_word_space_6 | output physical bar dinosaur refuse cycle |  
+| bip_39_word_space_7 | output physical bar dinosaur refuse cycle version |  
+| bip_39_word_space_8 | output physical bar dinosaur refuse cycle version shoot |  
+| bip_39_word_space_9 | output physical bar dinosaur refuse cycle version shoot pyramid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

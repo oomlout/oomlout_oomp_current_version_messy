@@ -1,3 +1,186 @@
+bip_39_word_new_br1: jeans
+bip_39_word_new_br10: jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax<br>jealous<br>song<br>learn<br>legal
+bip_39_word_new_br11: jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax<br>jealous<br>song<br>learn<br>legal<br>muscle
+bip_39_word_new_br12: jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax<br>jealous<br>song<br>learn<br>legal<br>muscle<br>auto
+bip_39_word_new_br2: jeans<br>cactus
+bip_39_word_new_br3: jeans<br>cactus<br>under
+bip_39_word_new_br4: jeans<br>cactus<br>under<br>gaze
+bip_39_word_new_br5: jeans<br>cactus<br>under<br>gaze<br>pupil
+bip_39_word_new_br6: jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax
+bip_39_word_new_br7: jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax<br>jealous
+bip_39_word_new_br8: jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax<br>jealous<br>song
+bip_39_word_new_br9: jeans<br>cactus<br>under<br>gaze<br>pupil<br>relax<br>jealous<br>song<br>learn
+bip_39_word_new_line1: jeans
+bip_39_word_new_line10: 'jeans
+
+  cactus
+
+  under
+
+  gaze
+
+  pupil
+
+  relax
+
+  jealous
+
+  song
+
+  learn
+
+  legal'
+bip_39_word_new_line11: 'jeans
+
+  cactus
+
+  under
+
+  gaze
+
+  pupil
+
+  relax
+
+  jealous
+
+  song
+
+  learn
+
+  legal
+
+  muscle'
+bip_39_word_new_line12: 'jeans
+
+  cactus
+
+  under
+
+  gaze
+
+  pupil
+
+  relax
+
+  jealous
+
+  song
+
+  learn
+
+  legal
+
+  muscle
+
+  auto'
+bip_39_word_new_line2: 'jeans
+
+  cactus'
+bip_39_word_new_line3: 'jeans
+
+  cactus
+
+  under'
+bip_39_word_new_line4: 'jeans
+
+  cactus
+
+  under
+
+  gaze'
+bip_39_word_new_line5: 'jeans
+
+  cactus
+
+  under
+
+  gaze
+
+  pupil'
+bip_39_word_new_line6: 'jeans
+
+  cactus
+
+  under
+
+  gaze
+
+  pupil
+
+  relax'
+bip_39_word_new_line7: 'jeans
+
+  cactus
+
+  under
+
+  gaze
+
+  pupil
+
+  relax
+
+  jealous'
+bip_39_word_new_line8: 'jeans
+
+  cactus
+
+  under
+
+  gaze
+
+  pupil
+
+  relax
+
+  jealous
+
+  song'
+bip_39_word_new_line9: 'jeans
+
+  cactus
+
+  under
+
+  gaze
+
+  pupil
+
+  relax
+
+  jealous
+
+  song
+
+  learn'
+bip_39_word_space_0:
+- jeans
+- cactus
+- under
+- gaze
+- pupil
+- relax
+- jealous
+- song
+- learn
+- legal
+- muscle
+- auto
+bip_39_word_space_1: jeans
+bip_39_word_space_10: jeans cactus under gaze pupil relax jealous song learn legal
+bip_39_word_space_11: jeans cactus under gaze pupil relax jealous song learn legal
+  muscle
+bip_39_word_space_12: jeans cactus under gaze pupil relax jealous song learn legal
+  muscle auto
+bip_39_word_space_2: jeans cactus
+bip_39_word_space_3: jeans cactus under
+bip_39_word_space_4: jeans cactus under gaze
+bip_39_word_space_5: jeans cactus under gaze pupil
+bip_39_word_space_6: jeans cactus under gaze pupil relax
+bip_39_word_space_7: jeans cactus under gaze pupil relax jealous
+bip_39_word_space_8: jeans cactus under gaze pupil relax jealous song
+bip_39_word_space_9: jeans cactus under gaze pupil relax jealous song learn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

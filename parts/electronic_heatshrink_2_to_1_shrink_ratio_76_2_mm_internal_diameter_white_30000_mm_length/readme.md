@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cactus acquire
+  * bip 39 word 3: cactus acquire lounge
+  * bip 39 word: cactus acquire lounge isolate impact nut much risk side panther worry attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cactus |  
+| bip_39_word_new_br10 | cactus<br>acquire<br>lounge<br>isolate<br>impact<br>nut<br>much<br>risk<br>side<br>panther |  
+| bip_39_word_new_br11 | cactus<br>acquire<br>lounge<br>isolate<br>impact<br>nut<br>much<br>risk<br>side<br>panther<br>worry |  
+| bip_39_word_new_br12 | cactus<br>acquire<br>lounge<br>isolate<br>impact<br>nut<br>much<br>risk<br>side<br>panther<br>worry<br>attract |  
+| bip_39_word_new_br2 | cactus<br>acquire |  
+| bip_39_word_new_br3 | cactus<br>acquire<br>lounge |  
+| bip_39_word_new_br4 | cactus<br>acquire<br>lounge<br>isolate |  
+| bip_39_word_new_br5 | cactus<br>acquire<br>lounge<br>isolate<br>impact |  
+| bip_39_word_new_br6 | cactus<br>acquire<br>lounge<br>isolate<br>impact<br>nut |  
+| bip_39_word_new_br7 | cactus<br>acquire<br>lounge<br>isolate<br>impact<br>nut<br>much |  
+| bip_39_word_new_br8 | cactus<br>acquire<br>lounge<br>isolate<br>impact<br>nut<br>much<br>risk |  
+| bip_39_word_new_br9 | cactus<br>acquire<br>lounge<br>isolate<br>impact<br>nut<br>much<br>risk<br>side |  
+| bip_39_word_new_line1 | cactus |  
+| bip_39_word_new_line10 | cactus
+acquire
+lounge
+isolate
+impact
+nut
+much
+risk
+side
+panther |  
+| bip_39_word_new_line11 | cactus
+acquire
+lounge
+isolate
+impact
+nut
+much
+risk
+side
+panther
+worry |  
+| bip_39_word_new_line12 | cactus
+acquire
+lounge
+isolate
+impact
+nut
+much
+risk
+side
+panther
+worry
+attract |  
+| bip_39_word_new_line2 | cactus
+acquire |  
+| bip_39_word_new_line3 | cactus
+acquire
+lounge |  
+| bip_39_word_new_line4 | cactus
+acquire
+lounge
+isolate |  
+| bip_39_word_new_line5 | cactus
+acquire
+lounge
+isolate
+impact |  
+| bip_39_word_new_line6 | cactus
+acquire
+lounge
+isolate
+impact
+nut |  
+| bip_39_word_new_line7 | cactus
+acquire
+lounge
+isolate
+impact
+nut
+much |  
+| bip_39_word_new_line8 | cactus
+acquire
+lounge
+isolate
+impact
+nut
+much
+risk |  
+| bip_39_word_new_line9 | cactus
+acquire
+lounge
+isolate
+impact
+nut
+much
+risk
+side |  
+| bip_39_word_space_0 | ['cactus', 'acquire', 'lounge', 'isolate', 'impact', 'nut', 'much', 'risk', 'side', 'panther', 'worry', 'attract'] |  
+| bip_39_word_space_1 | cactus |  
+| bip_39_word_space_10 | cactus acquire lounge isolate impact nut much risk side panther |  
+| bip_39_word_space_11 | cactus acquire lounge isolate impact nut much risk side panther worry |  
+| bip_39_word_space_12 | cactus acquire lounge isolate impact nut much risk side panther worry attract |  
+| bip_39_word_space_2 | cactus acquire |  
+| bip_39_word_space_3 | cactus acquire lounge |  
+| bip_39_word_space_4 | cactus acquire lounge isolate |  
+| bip_39_word_space_5 | cactus acquire lounge isolate impact |  
+| bip_39_word_space_6 | cactus acquire lounge isolate impact nut |  
+| bip_39_word_space_7 | cactus acquire lounge isolate impact nut much |  
+| bip_39_word_space_8 | cactus acquire lounge isolate impact nut much risk |  
+| bip_39_word_space_9 | cactus acquire lounge isolate impact nut much risk side |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

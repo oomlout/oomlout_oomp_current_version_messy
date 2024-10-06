@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foster tobacco
+  * bip 39 word 3: foster tobacco mad
+  * bip 39 word: foster tobacco mad hard finger shift rug celery hawk arm cook attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foster |  
+| bip_39_word_new_br10 | foster<br>tobacco<br>mad<br>hard<br>finger<br>shift<br>rug<br>celery<br>hawk<br>arm |  
+| bip_39_word_new_br11 | foster<br>tobacco<br>mad<br>hard<br>finger<br>shift<br>rug<br>celery<br>hawk<br>arm<br>cook |  
+| bip_39_word_new_br12 | foster<br>tobacco<br>mad<br>hard<br>finger<br>shift<br>rug<br>celery<br>hawk<br>arm<br>cook<br>attend |  
+| bip_39_word_new_br2 | foster<br>tobacco |  
+| bip_39_word_new_br3 | foster<br>tobacco<br>mad |  
+| bip_39_word_new_br4 | foster<br>tobacco<br>mad<br>hard |  
+| bip_39_word_new_br5 | foster<br>tobacco<br>mad<br>hard<br>finger |  
+| bip_39_word_new_br6 | foster<br>tobacco<br>mad<br>hard<br>finger<br>shift |  
+| bip_39_word_new_br7 | foster<br>tobacco<br>mad<br>hard<br>finger<br>shift<br>rug |  
+| bip_39_word_new_br8 | foster<br>tobacco<br>mad<br>hard<br>finger<br>shift<br>rug<br>celery |  
+| bip_39_word_new_br9 | foster<br>tobacco<br>mad<br>hard<br>finger<br>shift<br>rug<br>celery<br>hawk |  
+| bip_39_word_new_line1 | foster |  
+| bip_39_word_new_line10 | foster
+tobacco
+mad
+hard
+finger
+shift
+rug
+celery
+hawk
+arm |  
+| bip_39_word_new_line11 | foster
+tobacco
+mad
+hard
+finger
+shift
+rug
+celery
+hawk
+arm
+cook |  
+| bip_39_word_new_line12 | foster
+tobacco
+mad
+hard
+finger
+shift
+rug
+celery
+hawk
+arm
+cook
+attend |  
+| bip_39_word_new_line2 | foster
+tobacco |  
+| bip_39_word_new_line3 | foster
+tobacco
+mad |  
+| bip_39_word_new_line4 | foster
+tobacco
+mad
+hard |  
+| bip_39_word_new_line5 | foster
+tobacco
+mad
+hard
+finger |  
+| bip_39_word_new_line6 | foster
+tobacco
+mad
+hard
+finger
+shift |  
+| bip_39_word_new_line7 | foster
+tobacco
+mad
+hard
+finger
+shift
+rug |  
+| bip_39_word_new_line8 | foster
+tobacco
+mad
+hard
+finger
+shift
+rug
+celery |  
+| bip_39_word_new_line9 | foster
+tobacco
+mad
+hard
+finger
+shift
+rug
+celery
+hawk |  
+| bip_39_word_space_0 | ['foster', 'tobacco', 'mad', 'hard', 'finger', 'shift', 'rug', 'celery', 'hawk', 'arm', 'cook', 'attend'] |  
+| bip_39_word_space_1 | foster |  
+| bip_39_word_space_10 | foster tobacco mad hard finger shift rug celery hawk arm |  
+| bip_39_word_space_11 | foster tobacco mad hard finger shift rug celery hawk arm cook |  
+| bip_39_word_space_12 | foster tobacco mad hard finger shift rug celery hawk arm cook attend |  
+| bip_39_word_space_2 | foster tobacco |  
+| bip_39_word_space_3 | foster tobacco mad |  
+| bip_39_word_space_4 | foster tobacco mad hard |  
+| bip_39_word_space_5 | foster tobacco mad hard finger |  
+| bip_39_word_space_6 | foster tobacco mad hard finger shift |  
+| bip_39_word_space_7 | foster tobacco mad hard finger shift rug |  
+| bip_39_word_space_8 | foster tobacco mad hard finger shift rug celery |  
+| bip_39_word_space_9 | foster tobacco mad hard finger shift rug celery hawk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

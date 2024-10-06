@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: melt few
+  * bip 39 word 3: melt few atom
+  * bip 39 word: melt few atom private input luxury fee civil chef fee shuffle amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | melt |  
+| bip_39_word_new_br10 | melt<br>few<br>atom<br>private<br>input<br>luxury<br>fee<br>civil<br>chef<br>fee |  
+| bip_39_word_new_br11 | melt<br>few<br>atom<br>private<br>input<br>luxury<br>fee<br>civil<br>chef<br>fee<br>shuffle |  
+| bip_39_word_new_br12 | melt<br>few<br>atom<br>private<br>input<br>luxury<br>fee<br>civil<br>chef<br>fee<br>shuffle<br>amused |  
+| bip_39_word_new_br2 | melt<br>few |  
+| bip_39_word_new_br3 | melt<br>few<br>atom |  
+| bip_39_word_new_br4 | melt<br>few<br>atom<br>private |  
+| bip_39_word_new_br5 | melt<br>few<br>atom<br>private<br>input |  
+| bip_39_word_new_br6 | melt<br>few<br>atom<br>private<br>input<br>luxury |  
+| bip_39_word_new_br7 | melt<br>few<br>atom<br>private<br>input<br>luxury<br>fee |  
+| bip_39_word_new_br8 | melt<br>few<br>atom<br>private<br>input<br>luxury<br>fee<br>civil |  
+| bip_39_word_new_br9 | melt<br>few<br>atom<br>private<br>input<br>luxury<br>fee<br>civil<br>chef |  
+| bip_39_word_new_line1 | melt |  
+| bip_39_word_new_line10 | melt
+few
+atom
+private
+input
+luxury
+fee
+civil
+chef
+fee |  
+| bip_39_word_new_line11 | melt
+few
+atom
+private
+input
+luxury
+fee
+civil
+chef
+fee
+shuffle |  
+| bip_39_word_new_line12 | melt
+few
+atom
+private
+input
+luxury
+fee
+civil
+chef
+fee
+shuffle
+amused |  
+| bip_39_word_new_line2 | melt
+few |  
+| bip_39_word_new_line3 | melt
+few
+atom |  
+| bip_39_word_new_line4 | melt
+few
+atom
+private |  
+| bip_39_word_new_line5 | melt
+few
+atom
+private
+input |  
+| bip_39_word_new_line6 | melt
+few
+atom
+private
+input
+luxury |  
+| bip_39_word_new_line7 | melt
+few
+atom
+private
+input
+luxury
+fee |  
+| bip_39_word_new_line8 | melt
+few
+atom
+private
+input
+luxury
+fee
+civil |  
+| bip_39_word_new_line9 | melt
+few
+atom
+private
+input
+luxury
+fee
+civil
+chef |  
+| bip_39_word_space_0 | ['melt', 'few', 'atom', 'private', 'input', 'luxury', 'fee', 'civil', 'chef', 'fee', 'shuffle', 'amused'] |  
+| bip_39_word_space_1 | melt |  
+| bip_39_word_space_10 | melt few atom private input luxury fee civil chef fee |  
+| bip_39_word_space_11 | melt few atom private input luxury fee civil chef fee shuffle |  
+| bip_39_word_space_12 | melt few atom private input luxury fee civil chef fee shuffle amused |  
+| bip_39_word_space_2 | melt few |  
+| bip_39_word_space_3 | melt few atom |  
+| bip_39_word_space_4 | melt few atom private |  
+| bip_39_word_space_5 | melt few atom private input |  
+| bip_39_word_space_6 | melt few atom private input luxury |  
+| bip_39_word_space_7 | melt few atom private input luxury fee |  
+| bip_39_word_space_8 | melt few atom private input luxury fee civil |  
+| bip_39_word_space_9 | melt few atom private input luxury fee civil chef |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

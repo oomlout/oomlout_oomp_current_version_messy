@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: task embrace
+  * bip 39 word 3: task embrace pepper
+  * bip 39 word: task embrace pepper tonight edge cushion draw camera dry quit elevator aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | task |  
+| bip_39_word_new_br10 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion<br>draw<br>camera<br>dry<br>quit |  
+| bip_39_word_new_br11 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion<br>draw<br>camera<br>dry<br>quit<br>elevator |  
+| bip_39_word_new_br12 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion<br>draw<br>camera<br>dry<br>quit<br>elevator<br>aunt |  
+| bip_39_word_new_br2 | task<br>embrace |  
+| bip_39_word_new_br3 | task<br>embrace<br>pepper |  
+| bip_39_word_new_br4 | task<br>embrace<br>pepper<br>tonight |  
+| bip_39_word_new_br5 | task<br>embrace<br>pepper<br>tonight<br>edge |  
+| bip_39_word_new_br6 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion |  
+| bip_39_word_new_br7 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion<br>draw |  
+| bip_39_word_new_br8 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion<br>draw<br>camera |  
+| bip_39_word_new_br9 | task<br>embrace<br>pepper<br>tonight<br>edge<br>cushion<br>draw<br>camera<br>dry |  
+| bip_39_word_new_line1 | task |  
+| bip_39_word_new_line10 | task
+embrace
+pepper
+tonight
+edge
+cushion
+draw
+camera
+dry
+quit |  
+| bip_39_word_new_line11 | task
+embrace
+pepper
+tonight
+edge
+cushion
+draw
+camera
+dry
+quit
+elevator |  
+| bip_39_word_new_line12 | task
+embrace
+pepper
+tonight
+edge
+cushion
+draw
+camera
+dry
+quit
+elevator
+aunt |  
+| bip_39_word_new_line2 | task
+embrace |  
+| bip_39_word_new_line3 | task
+embrace
+pepper |  
+| bip_39_word_new_line4 | task
+embrace
+pepper
+tonight |  
+| bip_39_word_new_line5 | task
+embrace
+pepper
+tonight
+edge |  
+| bip_39_word_new_line6 | task
+embrace
+pepper
+tonight
+edge
+cushion |  
+| bip_39_word_new_line7 | task
+embrace
+pepper
+tonight
+edge
+cushion
+draw |  
+| bip_39_word_new_line8 | task
+embrace
+pepper
+tonight
+edge
+cushion
+draw
+camera |  
+| bip_39_word_new_line9 | task
+embrace
+pepper
+tonight
+edge
+cushion
+draw
+camera
+dry |  
+| bip_39_word_space_0 | ['task', 'embrace', 'pepper', 'tonight', 'edge', 'cushion', 'draw', 'camera', 'dry', 'quit', 'elevator', 'aunt'] |  
+| bip_39_word_space_1 | task |  
+| bip_39_word_space_10 | task embrace pepper tonight edge cushion draw camera dry quit |  
+| bip_39_word_space_11 | task embrace pepper tonight edge cushion draw camera dry quit elevator |  
+| bip_39_word_space_12 | task embrace pepper tonight edge cushion draw camera dry quit elevator aunt |  
+| bip_39_word_space_2 | task embrace |  
+| bip_39_word_space_3 | task embrace pepper |  
+| bip_39_word_space_4 | task embrace pepper tonight |  
+| bip_39_word_space_5 | task embrace pepper tonight edge |  
+| bip_39_word_space_6 | task embrace pepper tonight edge cushion |  
+| bip_39_word_space_7 | task embrace pepper tonight edge cushion draw |  
+| bip_39_word_space_8 | task embrace pepper tonight edge cushion draw camera |  
+| bip_39_word_space_9 | task embrace pepper tonight edge cushion draw camera dry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: family equal
+  * bip 39 word 3: family equal canoe
+  * bip 39 word: family equal canoe acoustic code coin pull celery story stadium spot also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | family |  
+| bip_39_word_new_br10 | family<br>equal<br>canoe<br>acoustic<br>code<br>coin<br>pull<br>celery<br>story<br>stadium |  
+| bip_39_word_new_br11 | family<br>equal<br>canoe<br>acoustic<br>code<br>coin<br>pull<br>celery<br>story<br>stadium<br>spot |  
+| bip_39_word_new_br12 | family<br>equal<br>canoe<br>acoustic<br>code<br>coin<br>pull<br>celery<br>story<br>stadium<br>spot<br>also |  
+| bip_39_word_new_br2 | family<br>equal |  
+| bip_39_word_new_br3 | family<br>equal<br>canoe |  
+| bip_39_word_new_br4 | family<br>equal<br>canoe<br>acoustic |  
+| bip_39_word_new_br5 | family<br>equal<br>canoe<br>acoustic<br>code |  
+| bip_39_word_new_br6 | family<br>equal<br>canoe<br>acoustic<br>code<br>coin |  
+| bip_39_word_new_br7 | family<br>equal<br>canoe<br>acoustic<br>code<br>coin<br>pull |  
+| bip_39_word_new_br8 | family<br>equal<br>canoe<br>acoustic<br>code<br>coin<br>pull<br>celery |  
+| bip_39_word_new_br9 | family<br>equal<br>canoe<br>acoustic<br>code<br>coin<br>pull<br>celery<br>story |  
+| bip_39_word_new_line1 | family |  
+| bip_39_word_new_line10 | family
+equal
+canoe
+acoustic
+code
+coin
+pull
+celery
+story
+stadium |  
+| bip_39_word_new_line11 | family
+equal
+canoe
+acoustic
+code
+coin
+pull
+celery
+story
+stadium
+spot |  
+| bip_39_word_new_line12 | family
+equal
+canoe
+acoustic
+code
+coin
+pull
+celery
+story
+stadium
+spot
+also |  
+| bip_39_word_new_line2 | family
+equal |  
+| bip_39_word_new_line3 | family
+equal
+canoe |  
+| bip_39_word_new_line4 | family
+equal
+canoe
+acoustic |  
+| bip_39_word_new_line5 | family
+equal
+canoe
+acoustic
+code |  
+| bip_39_word_new_line6 | family
+equal
+canoe
+acoustic
+code
+coin |  
+| bip_39_word_new_line7 | family
+equal
+canoe
+acoustic
+code
+coin
+pull |  
+| bip_39_word_new_line8 | family
+equal
+canoe
+acoustic
+code
+coin
+pull
+celery |  
+| bip_39_word_new_line9 | family
+equal
+canoe
+acoustic
+code
+coin
+pull
+celery
+story |  
+| bip_39_word_space_0 | ['family', 'equal', 'canoe', 'acoustic', 'code', 'coin', 'pull', 'celery', 'story', 'stadium', 'spot', 'also'] |  
+| bip_39_word_space_1 | family |  
+| bip_39_word_space_10 | family equal canoe acoustic code coin pull celery story stadium |  
+| bip_39_word_space_11 | family equal canoe acoustic code coin pull celery story stadium spot |  
+| bip_39_word_space_12 | family equal canoe acoustic code coin pull celery story stadium spot also |  
+| bip_39_word_space_2 | family equal |  
+| bip_39_word_space_3 | family equal canoe |  
+| bip_39_word_space_4 | family equal canoe acoustic |  
+| bip_39_word_space_5 | family equal canoe acoustic code |  
+| bip_39_word_space_6 | family equal canoe acoustic code coin |  
+| bip_39_word_space_7 | family equal canoe acoustic code coin pull |  
+| bip_39_word_space_8 | family equal canoe acoustic code coin pull celery |  
+| bip_39_word_space_9 | family equal canoe acoustic code coin pull celery story |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

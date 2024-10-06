@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: believe laugh
+  * bip 39 word 3: believe laugh much
+  * bip 39 word: believe laugh much limit scorpion reunion good brand mail ability will adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | believe |  
+| bip_39_word_new_br10 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion<br>good<br>brand<br>mail<br>ability |  
+| bip_39_word_new_br11 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion<br>good<br>brand<br>mail<br>ability<br>will |  
+| bip_39_word_new_br12 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion<br>good<br>brand<br>mail<br>ability<br>will<br>adapt |  
+| bip_39_word_new_br2 | believe<br>laugh |  
+| bip_39_word_new_br3 | believe<br>laugh<br>much |  
+| bip_39_word_new_br4 | believe<br>laugh<br>much<br>limit |  
+| bip_39_word_new_br5 | believe<br>laugh<br>much<br>limit<br>scorpion |  
+| bip_39_word_new_br6 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion |  
+| bip_39_word_new_br7 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion<br>good |  
+| bip_39_word_new_br8 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion<br>good<br>brand |  
+| bip_39_word_new_br9 | believe<br>laugh<br>much<br>limit<br>scorpion<br>reunion<br>good<br>brand<br>mail |  
+| bip_39_word_new_line1 | believe |  
+| bip_39_word_new_line10 | believe
+laugh
+much
+limit
+scorpion
+reunion
+good
+brand
+mail
+ability |  
+| bip_39_word_new_line11 | believe
+laugh
+much
+limit
+scorpion
+reunion
+good
+brand
+mail
+ability
+will |  
+| bip_39_word_new_line12 | believe
+laugh
+much
+limit
+scorpion
+reunion
+good
+brand
+mail
+ability
+will
+adapt |  
+| bip_39_word_new_line2 | believe
+laugh |  
+| bip_39_word_new_line3 | believe
+laugh
+much |  
+| bip_39_word_new_line4 | believe
+laugh
+much
+limit |  
+| bip_39_word_new_line5 | believe
+laugh
+much
+limit
+scorpion |  
+| bip_39_word_new_line6 | believe
+laugh
+much
+limit
+scorpion
+reunion |  
+| bip_39_word_new_line7 | believe
+laugh
+much
+limit
+scorpion
+reunion
+good |  
+| bip_39_word_new_line8 | believe
+laugh
+much
+limit
+scorpion
+reunion
+good
+brand |  
+| bip_39_word_new_line9 | believe
+laugh
+much
+limit
+scorpion
+reunion
+good
+brand
+mail |  
+| bip_39_word_space_0 | ['believe', 'laugh', 'much', 'limit', 'scorpion', 'reunion', 'good', 'brand', 'mail', 'ability', 'will', 'adapt'] |  
+| bip_39_word_space_1 | believe |  
+| bip_39_word_space_10 | believe laugh much limit scorpion reunion good brand mail ability |  
+| bip_39_word_space_11 | believe laugh much limit scorpion reunion good brand mail ability will |  
+| bip_39_word_space_12 | believe laugh much limit scorpion reunion good brand mail ability will adapt |  
+| bip_39_word_space_2 | believe laugh |  
+| bip_39_word_space_3 | believe laugh much |  
+| bip_39_word_space_4 | believe laugh much limit |  
+| bip_39_word_space_5 | believe laugh much limit scorpion |  
+| bip_39_word_space_6 | believe laugh much limit scorpion reunion |  
+| bip_39_word_space_7 | believe laugh much limit scorpion reunion good |  
+| bip_39_word_space_8 | believe laugh much limit scorpion reunion good brand |  
+| bip_39_word_space_9 | believe laugh much limit scorpion reunion good brand mail |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

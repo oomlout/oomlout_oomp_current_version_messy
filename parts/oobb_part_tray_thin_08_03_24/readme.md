@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: minor broom
+  * bip 39 word 3: minor broom catalog
+  * bip 39 word: minor broom catalog much state cousin cushion large paper trip affair afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | minor |  
+| bip_39_word_new_br10 | minor<br>broom<br>catalog<br>much<br>state<br>cousin<br>cushion<br>large<br>paper<br>trip |  
+| bip_39_word_new_br11 | minor<br>broom<br>catalog<br>much<br>state<br>cousin<br>cushion<br>large<br>paper<br>trip<br>affair |  
+| bip_39_word_new_br12 | minor<br>broom<br>catalog<br>much<br>state<br>cousin<br>cushion<br>large<br>paper<br>trip<br>affair<br>afford |  
+| bip_39_word_new_br2 | minor<br>broom |  
+| bip_39_word_new_br3 | minor<br>broom<br>catalog |  
+| bip_39_word_new_br4 | minor<br>broom<br>catalog<br>much |  
+| bip_39_word_new_br5 | minor<br>broom<br>catalog<br>much<br>state |  
+| bip_39_word_new_br6 | minor<br>broom<br>catalog<br>much<br>state<br>cousin |  
+| bip_39_word_new_br7 | minor<br>broom<br>catalog<br>much<br>state<br>cousin<br>cushion |  
+| bip_39_word_new_br8 | minor<br>broom<br>catalog<br>much<br>state<br>cousin<br>cushion<br>large |  
+| bip_39_word_new_br9 | minor<br>broom<br>catalog<br>much<br>state<br>cousin<br>cushion<br>large<br>paper |  
+| bip_39_word_new_line1 | minor |  
+| bip_39_word_new_line10 | minor
+broom
+catalog
+much
+state
+cousin
+cushion
+large
+paper
+trip |  
+| bip_39_word_new_line11 | minor
+broom
+catalog
+much
+state
+cousin
+cushion
+large
+paper
+trip
+affair |  
+| bip_39_word_new_line12 | minor
+broom
+catalog
+much
+state
+cousin
+cushion
+large
+paper
+trip
+affair
+afford |  
+| bip_39_word_new_line2 | minor
+broom |  
+| bip_39_word_new_line3 | minor
+broom
+catalog |  
+| bip_39_word_new_line4 | minor
+broom
+catalog
+much |  
+| bip_39_word_new_line5 | minor
+broom
+catalog
+much
+state |  
+| bip_39_word_new_line6 | minor
+broom
+catalog
+much
+state
+cousin |  
+| bip_39_word_new_line7 | minor
+broom
+catalog
+much
+state
+cousin
+cushion |  
+| bip_39_word_new_line8 | minor
+broom
+catalog
+much
+state
+cousin
+cushion
+large |  
+| bip_39_word_new_line9 | minor
+broom
+catalog
+much
+state
+cousin
+cushion
+large
+paper |  
+| bip_39_word_space_0 | ['minor', 'broom', 'catalog', 'much', 'state', 'cousin', 'cushion', 'large', 'paper', 'trip', 'affair', 'afford'] |  
+| bip_39_word_space_1 | minor |  
+| bip_39_word_space_10 | minor broom catalog much state cousin cushion large paper trip |  
+| bip_39_word_space_11 | minor broom catalog much state cousin cushion large paper trip affair |  
+| bip_39_word_space_12 | minor broom catalog much state cousin cushion large paper trip affair afford |  
+| bip_39_word_space_2 | minor broom |  
+| bip_39_word_space_3 | minor broom catalog |  
+| bip_39_word_space_4 | minor broom catalog much |  
+| bip_39_word_space_5 | minor broom catalog much state |  
+| bip_39_word_space_6 | minor broom catalog much state cousin |  
+| bip_39_word_space_7 | minor broom catalog much state cousin cushion |  
+| bip_39_word_space_8 | minor broom catalog much state cousin cushion large |  
+| bip_39_word_space_9 | minor broom catalog much state cousin cushion large paper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

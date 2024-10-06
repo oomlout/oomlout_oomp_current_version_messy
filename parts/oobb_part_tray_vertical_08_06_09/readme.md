@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: melody valley
+  * bip 39 word 3: melody valley illness
+  * bip 39 word: melody valley illness spare source bottom lobster pond bounce still still access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | melody |  
+| bip_39_word_new_br10 | melody<br>valley<br>illness<br>spare<br>source<br>bottom<br>lobster<br>pond<br>bounce<br>still |  
+| bip_39_word_new_br11 | melody<br>valley<br>illness<br>spare<br>source<br>bottom<br>lobster<br>pond<br>bounce<br>still<br>still |  
+| bip_39_word_new_br12 | melody<br>valley<br>illness<br>spare<br>source<br>bottom<br>lobster<br>pond<br>bounce<br>still<br>still<br>access |  
+| bip_39_word_new_br2 | melody<br>valley |  
+| bip_39_word_new_br3 | melody<br>valley<br>illness |  
+| bip_39_word_new_br4 | melody<br>valley<br>illness<br>spare |  
+| bip_39_word_new_br5 | melody<br>valley<br>illness<br>spare<br>source |  
+| bip_39_word_new_br6 | melody<br>valley<br>illness<br>spare<br>source<br>bottom |  
+| bip_39_word_new_br7 | melody<br>valley<br>illness<br>spare<br>source<br>bottom<br>lobster |  
+| bip_39_word_new_br8 | melody<br>valley<br>illness<br>spare<br>source<br>bottom<br>lobster<br>pond |  
+| bip_39_word_new_br9 | melody<br>valley<br>illness<br>spare<br>source<br>bottom<br>lobster<br>pond<br>bounce |  
+| bip_39_word_new_line1 | melody |  
+| bip_39_word_new_line10 | melody
+valley
+illness
+spare
+source
+bottom
+lobster
+pond
+bounce
+still |  
+| bip_39_word_new_line11 | melody
+valley
+illness
+spare
+source
+bottom
+lobster
+pond
+bounce
+still
+still |  
+| bip_39_word_new_line12 | melody
+valley
+illness
+spare
+source
+bottom
+lobster
+pond
+bounce
+still
+still
+access |  
+| bip_39_word_new_line2 | melody
+valley |  
+| bip_39_word_new_line3 | melody
+valley
+illness |  
+| bip_39_word_new_line4 | melody
+valley
+illness
+spare |  
+| bip_39_word_new_line5 | melody
+valley
+illness
+spare
+source |  
+| bip_39_word_new_line6 | melody
+valley
+illness
+spare
+source
+bottom |  
+| bip_39_word_new_line7 | melody
+valley
+illness
+spare
+source
+bottom
+lobster |  
+| bip_39_word_new_line8 | melody
+valley
+illness
+spare
+source
+bottom
+lobster
+pond |  
+| bip_39_word_new_line9 | melody
+valley
+illness
+spare
+source
+bottom
+lobster
+pond
+bounce |  
+| bip_39_word_space_0 | ['melody', 'valley', 'illness', 'spare', 'source', 'bottom', 'lobster', 'pond', 'bounce', 'still', 'still', 'access'] |  
+| bip_39_word_space_1 | melody |  
+| bip_39_word_space_10 | melody valley illness spare source bottom lobster pond bounce still |  
+| bip_39_word_space_11 | melody valley illness spare source bottom lobster pond bounce still still |  
+| bip_39_word_space_12 | melody valley illness spare source bottom lobster pond bounce still still access |  
+| bip_39_word_space_2 | melody valley |  
+| bip_39_word_space_3 | melody valley illness |  
+| bip_39_word_space_4 | melody valley illness spare |  
+| bip_39_word_space_5 | melody valley illness spare source |  
+| bip_39_word_space_6 | melody valley illness spare source bottom |  
+| bip_39_word_space_7 | melody valley illness spare source bottom lobster |  
+| bip_39_word_space_8 | melody valley illness spare source bottom lobster pond |  
+| bip_39_word_space_9 | melody valley illness spare source bottom lobster pond bounce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

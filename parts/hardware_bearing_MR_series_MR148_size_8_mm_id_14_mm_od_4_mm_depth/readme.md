@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: addict fetch
+  * bip 39 word 3: addict fetch decline
+  * bip 39 word: addict fetch decline pen foot shed charge shoe fame hazard letter august
 
 ### other_codes
 * short_code: brMR148
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | addict |  
+| bip_39_word_new_br10 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed<br>charge<br>shoe<br>fame<br>hazard |  
+| bip_39_word_new_br11 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed<br>charge<br>shoe<br>fame<br>hazard<br>letter |  
+| bip_39_word_new_br12 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed<br>charge<br>shoe<br>fame<br>hazard<br>letter<br>august |  
+| bip_39_word_new_br2 | addict<br>fetch |  
+| bip_39_word_new_br3 | addict<br>fetch<br>decline |  
+| bip_39_word_new_br4 | addict<br>fetch<br>decline<br>pen |  
+| bip_39_word_new_br5 | addict<br>fetch<br>decline<br>pen<br>foot |  
+| bip_39_word_new_br6 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed |  
+| bip_39_word_new_br7 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed<br>charge |  
+| bip_39_word_new_br8 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed<br>charge<br>shoe |  
+| bip_39_word_new_br9 | addict<br>fetch<br>decline<br>pen<br>foot<br>shed<br>charge<br>shoe<br>fame |  
+| bip_39_word_new_line1 | addict |  
+| bip_39_word_new_line10 | addict
+fetch
+decline
+pen
+foot
+shed
+charge
+shoe
+fame
+hazard |  
+| bip_39_word_new_line11 | addict
+fetch
+decline
+pen
+foot
+shed
+charge
+shoe
+fame
+hazard
+letter |  
+| bip_39_word_new_line12 | addict
+fetch
+decline
+pen
+foot
+shed
+charge
+shoe
+fame
+hazard
+letter
+august |  
+| bip_39_word_new_line2 | addict
+fetch |  
+| bip_39_word_new_line3 | addict
+fetch
+decline |  
+| bip_39_word_new_line4 | addict
+fetch
+decline
+pen |  
+| bip_39_word_new_line5 | addict
+fetch
+decline
+pen
+foot |  
+| bip_39_word_new_line6 | addict
+fetch
+decline
+pen
+foot
+shed |  
+| bip_39_word_new_line7 | addict
+fetch
+decline
+pen
+foot
+shed
+charge |  
+| bip_39_word_new_line8 | addict
+fetch
+decline
+pen
+foot
+shed
+charge
+shoe |  
+| bip_39_word_new_line9 | addict
+fetch
+decline
+pen
+foot
+shed
+charge
+shoe
+fame |  
+| bip_39_word_space_0 | ['addict', 'fetch', 'decline', 'pen', 'foot', 'shed', 'charge', 'shoe', 'fame', 'hazard', 'letter', 'august'] |  
+| bip_39_word_space_1 | addict |  
+| bip_39_word_space_10 | addict fetch decline pen foot shed charge shoe fame hazard |  
+| bip_39_word_space_11 | addict fetch decline pen foot shed charge shoe fame hazard letter |  
+| bip_39_word_space_12 | addict fetch decline pen foot shed charge shoe fame hazard letter august |  
+| bip_39_word_space_2 | addict fetch |  
+| bip_39_word_space_3 | addict fetch decline |  
+| bip_39_word_space_4 | addict fetch decline pen |  
+| bip_39_word_space_5 | addict fetch decline pen foot |  
+| bip_39_word_space_6 | addict fetch decline pen foot shed |  
+| bip_39_word_space_7 | addict fetch decline pen foot shed charge |  
+| bip_39_word_space_8 | addict fetch decline pen foot shed charge shoe |  
+| bip_39_word_space_9 | addict fetch decline pen foot shed charge shoe fame |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lucky indicate
+  * bip 39 word 3: lucky indicate wonder
+  * bip 39 word: lucky indicate wonder version barely bargain rubber dawn judge north mule attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lucky |  
+| bip_39_word_new_br10 | lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge<br>north |  
+| bip_39_word_new_br11 | lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge<br>north<br>mule |  
+| bip_39_word_new_br12 | lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge<br>north<br>mule<br>attend |  
+| bip_39_word_new_br2 | lucky<br>indicate |  
+| bip_39_word_new_br3 | lucky<br>indicate<br>wonder |  
+| bip_39_word_new_br4 | lucky<br>indicate<br>wonder<br>version |  
+| bip_39_word_new_br5 | lucky<br>indicate<br>wonder<br>version<br>barely |  
+| bip_39_word_new_br6 | lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain |  
+| bip_39_word_new_br7 | lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber |  
+| bip_39_word_new_br8 | lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn |  
+| bip_39_word_new_br9 | lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge |  
+| bip_39_word_new_line1 | lucky |  
+| bip_39_word_new_line10 | lucky
+indicate
+wonder
+version
+barely
+bargain
+rubber
+dawn
+judge
+north |  
+| bip_39_word_new_line11 | lucky
+indicate
+wonder
+version
+barely
+bargain
+rubber
+dawn
+judge
+north
+mule |  
+| bip_39_word_new_line12 | lucky
+indicate
+wonder
+version
+barely
+bargain
+rubber
+dawn
+judge
+north
+mule
+attend |  
+| bip_39_word_new_line2 | lucky
+indicate |  
+| bip_39_word_new_line3 | lucky
+indicate
+wonder |  
+| bip_39_word_new_line4 | lucky
+indicate
+wonder
+version |  
+| bip_39_word_new_line5 | lucky
+indicate
+wonder
+version
+barely |  
+| bip_39_word_new_line6 | lucky
+indicate
+wonder
+version
+barely
+bargain |  
+| bip_39_word_new_line7 | lucky
+indicate
+wonder
+version
+barely
+bargain
+rubber |  
+| bip_39_word_new_line8 | lucky
+indicate
+wonder
+version
+barely
+bargain
+rubber
+dawn |  
+| bip_39_word_new_line9 | lucky
+indicate
+wonder
+version
+barely
+bargain
+rubber
+dawn
+judge |  
+| bip_39_word_space_0 | ['lucky', 'indicate', 'wonder', 'version', 'barely', 'bargain', 'rubber', 'dawn', 'judge', 'north', 'mule', 'attend'] |  
+| bip_39_word_space_1 | lucky |  
+| bip_39_word_space_10 | lucky indicate wonder version barely bargain rubber dawn judge north |  
+| bip_39_word_space_11 | lucky indicate wonder version barely bargain rubber dawn judge north mule |  
+| bip_39_word_space_12 | lucky indicate wonder version barely bargain rubber dawn judge north mule attend |  
+| bip_39_word_space_2 | lucky indicate |  
+| bip_39_word_space_3 | lucky indicate wonder |  
+| bip_39_word_space_4 | lucky indicate wonder version |  
+| bip_39_word_space_5 | lucky indicate wonder version barely |  
+| bip_39_word_space_6 | lucky indicate wonder version barely bargain |  
+| bip_39_word_space_7 | lucky indicate wonder version barely bargain rubber |  
+| bip_39_word_space_8 | lucky indicate wonder version barely bargain rubber dawn |  
+| bip_39_word_space_9 | lucky indicate wonder version barely bargain rubber dawn judge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

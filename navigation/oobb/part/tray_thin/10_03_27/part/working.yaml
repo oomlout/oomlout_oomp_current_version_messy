@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sorry
+bip_39_word_new_br10: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike
+bip_39_word_new_br11: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike<br>survey
+bip_39_word_new_br12: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type<br>strike<br>survey<br>absurd
+bip_39_word_new_br2: sorry<br>vague
+bip_39_word_new_br3: sorry<br>vague<br>start
+bip_39_word_new_br4: sorry<br>vague<br>start<br>trash
+bip_39_word_new_br5: sorry<br>vague<br>start<br>trash<br>clutch
+bip_39_word_new_br6: sorry<br>vague<br>start<br>trash<br>clutch<br>camp
+bip_39_word_new_br7: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce
+bip_39_word_new_br8: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super
+bip_39_word_new_br9: sorry<br>vague<br>start<br>trash<br>clutch<br>camp<br>bounce<br>super<br>type
+bip_39_word_new_line1: sorry
+bip_39_word_new_line10: 'sorry
+
+  vague
+
+  start
+
+  trash
+
+  clutch
+
+  camp
+
+  bounce
+
+  super
+
+  type
+
+  strike'
+bip_39_word_new_line11: 'sorry
+
+  vague
+
+  start
+
+  trash
+
+  clutch
+
+  camp
+
+  bounce
+
+  super
+
+  type
+
+  strike
+
+  survey'
+bip_39_word_new_line12: 'sorry
+
+  vague
+
+  start
+
+  trash
+
+  clutch
+
+  camp
+
+  bounce
+
+  super
+
+  type
+
+  strike
+
+  survey
+
+  absurd'
+bip_39_word_new_line2: 'sorry
+
+  vague'
+bip_39_word_new_line3: 'sorry
+
+  vague
+
+  start'
+bip_39_word_new_line4: 'sorry
+
+  vague
+
+  start
+
+  trash'
+bip_39_word_new_line5: 'sorry
+
+  vague
+
+  start
+
+  trash
+
+  clutch'
+bip_39_word_new_line6: 'sorry
+
+  vague
+
+  start
+
+  trash
+
+  clutch
+
+  camp'
+bip_39_word_new_line7: 'sorry
+
+  vague
+
+  start
+
+  trash
+
+  clutch
+
+  camp
+
+  bounce'
+bip_39_word_new_line8: 'sorry
+
+  vague
+
+  start
+
+  trash
+
+  clutch
+
+  camp
+
+  bounce
+
+  super'
+bip_39_word_new_line9: 'sorry
+
+  vague
+
+  start
+
+  trash
+
+  clutch
+
+  camp
+
+  bounce
+
+  super
+
+  type'
+bip_39_word_space_0:
+- sorry
+- vague
+- start
+- trash
+- clutch
+- camp
+- bounce
+- super
+- type
+- strike
+- survey
+- absurd
+bip_39_word_space_1: sorry
+bip_39_word_space_10: sorry vague start trash clutch camp bounce super type strike
+bip_39_word_space_11: sorry vague start trash clutch camp bounce super type strike
+  survey
+bip_39_word_space_12: sorry vague start trash clutch camp bounce super type strike
+  survey absurd
+bip_39_word_space_2: sorry vague
+bip_39_word_space_3: sorry vague start
+bip_39_word_space_4: sorry vague start trash
+bip_39_word_space_5: sorry vague start trash clutch
+bip_39_word_space_6: sorry vague start trash clutch camp
+bip_39_word_space_7: sorry vague start trash clutch camp bounce
+bip_39_word_space_8: sorry vague start trash clutch camp bounce super
+bip_39_word_space_9: sorry vague start trash clutch camp bounce super type
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

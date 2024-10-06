@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: desk people
+  * bip 39 word 3: desk people describe
+  * bip 39 word: desk people describe stairs word call quiz hole universe silly rude adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | desk |  
+| bip_39_word_new_br10 | desk<br>people<br>describe<br>stairs<br>word<br>call<br>quiz<br>hole<br>universe<br>silly |  
+| bip_39_word_new_br11 | desk<br>people<br>describe<br>stairs<br>word<br>call<br>quiz<br>hole<br>universe<br>silly<br>rude |  
+| bip_39_word_new_br12 | desk<br>people<br>describe<br>stairs<br>word<br>call<br>quiz<br>hole<br>universe<br>silly<br>rude<br>adjust |  
+| bip_39_word_new_br2 | desk<br>people |  
+| bip_39_word_new_br3 | desk<br>people<br>describe |  
+| bip_39_word_new_br4 | desk<br>people<br>describe<br>stairs |  
+| bip_39_word_new_br5 | desk<br>people<br>describe<br>stairs<br>word |  
+| bip_39_word_new_br6 | desk<br>people<br>describe<br>stairs<br>word<br>call |  
+| bip_39_word_new_br7 | desk<br>people<br>describe<br>stairs<br>word<br>call<br>quiz |  
+| bip_39_word_new_br8 | desk<br>people<br>describe<br>stairs<br>word<br>call<br>quiz<br>hole |  
+| bip_39_word_new_br9 | desk<br>people<br>describe<br>stairs<br>word<br>call<br>quiz<br>hole<br>universe |  
+| bip_39_word_new_line1 | desk |  
+| bip_39_word_new_line10 | desk
+people
+describe
+stairs
+word
+call
+quiz
+hole
+universe
+silly |  
+| bip_39_word_new_line11 | desk
+people
+describe
+stairs
+word
+call
+quiz
+hole
+universe
+silly
+rude |  
+| bip_39_word_new_line12 | desk
+people
+describe
+stairs
+word
+call
+quiz
+hole
+universe
+silly
+rude
+adjust |  
+| bip_39_word_new_line2 | desk
+people |  
+| bip_39_word_new_line3 | desk
+people
+describe |  
+| bip_39_word_new_line4 | desk
+people
+describe
+stairs |  
+| bip_39_word_new_line5 | desk
+people
+describe
+stairs
+word |  
+| bip_39_word_new_line6 | desk
+people
+describe
+stairs
+word
+call |  
+| bip_39_word_new_line7 | desk
+people
+describe
+stairs
+word
+call
+quiz |  
+| bip_39_word_new_line8 | desk
+people
+describe
+stairs
+word
+call
+quiz
+hole |  
+| bip_39_word_new_line9 | desk
+people
+describe
+stairs
+word
+call
+quiz
+hole
+universe |  
+| bip_39_word_space_0 | ['desk', 'people', 'describe', 'stairs', 'word', 'call', 'quiz', 'hole', 'universe', 'silly', 'rude', 'adjust'] |  
+| bip_39_word_space_1 | desk |  
+| bip_39_word_space_10 | desk people describe stairs word call quiz hole universe silly |  
+| bip_39_word_space_11 | desk people describe stairs word call quiz hole universe silly rude |  
+| bip_39_word_space_12 | desk people describe stairs word call quiz hole universe silly rude adjust |  
+| bip_39_word_space_2 | desk people |  
+| bip_39_word_space_3 | desk people describe |  
+| bip_39_word_space_4 | desk people describe stairs |  
+| bip_39_word_space_5 | desk people describe stairs word |  
+| bip_39_word_space_6 | desk people describe stairs word call |  
+| bip_39_word_space_7 | desk people describe stairs word call quiz |  
+| bip_39_word_space_8 | desk people describe stairs word call quiz hole |  
+| bip_39_word_space_9 | desk people describe stairs word call quiz hole universe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

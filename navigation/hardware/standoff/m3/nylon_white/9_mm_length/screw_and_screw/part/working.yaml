@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hurt
+bip_39_word_new_br10: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report<br>depth<br>local
+bip_39_word_new_br11: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report<br>depth<br>local<br>goat
+bip_39_word_new_br12: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report<br>depth<br>local<br>goat<br>ask
+bip_39_word_new_br2: hurt<br>range
+bip_39_word_new_br3: hurt<br>range<br>zebra
+bip_39_word_new_br4: hurt<br>range<br>zebra<br>caught
+bip_39_word_new_br5: hurt<br>range<br>zebra<br>caught<br>tribe
+bip_39_word_new_br6: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp
+bip_39_word_new_br7: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry
+bip_39_word_new_br8: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report
+bip_39_word_new_br9: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report<br>depth
+bip_39_word_new_line1: hurt
+bip_39_word_new_line10: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report
+
+  depth
+
+  local'
+bip_39_word_new_line11: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report
+
+  depth
+
+  local
+
+  goat'
+bip_39_word_new_line12: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report
+
+  depth
+
+  local
+
+  goat
+
+  ask'
+bip_39_word_new_line2: 'hurt
+
+  range'
+bip_39_word_new_line3: 'hurt
+
+  range
+
+  zebra'
+bip_39_word_new_line4: 'hurt
+
+  range
+
+  zebra
+
+  caught'
+bip_39_word_new_line5: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe'
+bip_39_word_new_line6: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp'
+bip_39_word_new_line7: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry'
+bip_39_word_new_line8: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report'
+bip_39_word_new_line9: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report
+
+  depth'
+bip_39_word_space_0:
+- hurt
+- range
+- zebra
+- caught
+- tribe
+- shrimp
+- hungry
+- report
+- depth
+- local
+- goat
+- ask
+bip_39_word_space_1: hurt
+bip_39_word_space_10: hurt range zebra caught tribe shrimp hungry report depth local
+bip_39_word_space_11: hurt range zebra caught tribe shrimp hungry report depth local
+  goat
+bip_39_word_space_12: hurt range zebra caught tribe shrimp hungry report depth local
+  goat ask
+bip_39_word_space_2: hurt range
+bip_39_word_space_3: hurt range zebra
+bip_39_word_space_4: hurt range zebra caught
+bip_39_word_space_5: hurt range zebra caught tribe
+bip_39_word_space_6: hurt range zebra caught tribe shrimp
+bip_39_word_space_7: hurt range zebra caught tribe shrimp hungry
+bip_39_word_space_8: hurt range zebra caught tribe shrimp hungry report
+bip_39_word_space_9: hurt range zebra caught tribe shrimp hungry report depth
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

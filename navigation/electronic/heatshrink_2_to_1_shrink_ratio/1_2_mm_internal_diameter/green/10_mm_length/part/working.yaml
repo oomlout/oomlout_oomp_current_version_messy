@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sport
+bip_39_word_new_br10: sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear
+bip_39_word_new_br11: sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear<br>cave
+bip_39_word_new_br12: sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind<br>swear<br>cave<br>album
+bip_39_word_new_br2: sport<br>predict
+bip_39_word_new_br3: sport<br>predict<br>brave
+bip_39_word_new_br4: sport<br>predict<br>brave<br>creek
+bip_39_word_new_br5: sport<br>predict<br>brave<br>creek<br>sphere
+bip_39_word_new_br6: sport<br>predict<br>brave<br>creek<br>sphere<br>trigger
+bip_39_word_new_br7: sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree
+bip_39_word_new_br8: sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk
+bip_39_word_new_br9: sport<br>predict<br>brave<br>creek<br>sphere<br>trigger<br>degree<br>junk<br>kind
+bip_39_word_new_line1: sport
+bip_39_word_new_line10: 'sport
+
+  predict
+
+  brave
+
+  creek
+
+  sphere
+
+  trigger
+
+  degree
+
+  junk
+
+  kind
+
+  swear'
+bip_39_word_new_line11: 'sport
+
+  predict
+
+  brave
+
+  creek
+
+  sphere
+
+  trigger
+
+  degree
+
+  junk
+
+  kind
+
+  swear
+
+  cave'
+bip_39_word_new_line12: 'sport
+
+  predict
+
+  brave
+
+  creek
+
+  sphere
+
+  trigger
+
+  degree
+
+  junk
+
+  kind
+
+  swear
+
+  cave
+
+  album'
+bip_39_word_new_line2: 'sport
+
+  predict'
+bip_39_word_new_line3: 'sport
+
+  predict
+
+  brave'
+bip_39_word_new_line4: 'sport
+
+  predict
+
+  brave
+
+  creek'
+bip_39_word_new_line5: 'sport
+
+  predict
+
+  brave
+
+  creek
+
+  sphere'
+bip_39_word_new_line6: 'sport
+
+  predict
+
+  brave
+
+  creek
+
+  sphere
+
+  trigger'
+bip_39_word_new_line7: 'sport
+
+  predict
+
+  brave
+
+  creek
+
+  sphere
+
+  trigger
+
+  degree'
+bip_39_word_new_line8: 'sport
+
+  predict
+
+  brave
+
+  creek
+
+  sphere
+
+  trigger
+
+  degree
+
+  junk'
+bip_39_word_new_line9: 'sport
+
+  predict
+
+  brave
+
+  creek
+
+  sphere
+
+  trigger
+
+  degree
+
+  junk
+
+  kind'
+bip_39_word_space_0:
+- sport
+- predict
+- brave
+- creek
+- sphere
+- trigger
+- degree
+- junk
+- kind
+- swear
+- cave
+- album
+bip_39_word_space_1: sport
+bip_39_word_space_10: sport predict brave creek sphere trigger degree junk kind swear
+bip_39_word_space_11: sport predict brave creek sphere trigger degree junk kind swear
+  cave
+bip_39_word_space_12: sport predict brave creek sphere trigger degree junk kind swear
+  cave album
+bip_39_word_space_2: sport predict
+bip_39_word_space_3: sport predict brave
+bip_39_word_space_4: sport predict brave creek
+bip_39_word_space_5: sport predict brave creek sphere
+bip_39_word_space_6: sport predict brave creek sphere trigger
+bip_39_word_space_7: sport predict brave creek sphere trigger degree
+bip_39_word_space_8: sport predict brave creek sphere trigger degree junk
+bip_39_word_space_9: sport predict brave creek sphere trigger degree junk kind
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

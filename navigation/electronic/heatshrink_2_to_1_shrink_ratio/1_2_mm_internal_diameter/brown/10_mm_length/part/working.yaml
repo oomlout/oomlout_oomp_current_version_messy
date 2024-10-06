@@ -1,3 +1,185 @@
+bip_39_word_new_br1: burden
+bip_39_word_new_br10: burden<br>table<br>lend<br>error<br>canyon<br>brass<br>cry<br>notable<br>spin<br>axis
+bip_39_word_new_br11: burden<br>table<br>lend<br>error<br>canyon<br>brass<br>cry<br>notable<br>spin<br>axis<br>thought
+bip_39_word_new_br12: burden<br>table<br>lend<br>error<br>canyon<br>brass<br>cry<br>notable<br>spin<br>axis<br>thought<br>ability
+bip_39_word_new_br2: burden<br>table
+bip_39_word_new_br3: burden<br>table<br>lend
+bip_39_word_new_br4: burden<br>table<br>lend<br>error
+bip_39_word_new_br5: burden<br>table<br>lend<br>error<br>canyon
+bip_39_word_new_br6: burden<br>table<br>lend<br>error<br>canyon<br>brass
+bip_39_word_new_br7: burden<br>table<br>lend<br>error<br>canyon<br>brass<br>cry
+bip_39_word_new_br8: burden<br>table<br>lend<br>error<br>canyon<br>brass<br>cry<br>notable
+bip_39_word_new_br9: burden<br>table<br>lend<br>error<br>canyon<br>brass<br>cry<br>notable<br>spin
+bip_39_word_new_line1: burden
+bip_39_word_new_line10: 'burden
+
+  table
+
+  lend
+
+  error
+
+  canyon
+
+  brass
+
+  cry
+
+  notable
+
+  spin
+
+  axis'
+bip_39_word_new_line11: 'burden
+
+  table
+
+  lend
+
+  error
+
+  canyon
+
+  brass
+
+  cry
+
+  notable
+
+  spin
+
+  axis
+
+  thought'
+bip_39_word_new_line12: 'burden
+
+  table
+
+  lend
+
+  error
+
+  canyon
+
+  brass
+
+  cry
+
+  notable
+
+  spin
+
+  axis
+
+  thought
+
+  ability'
+bip_39_word_new_line2: 'burden
+
+  table'
+bip_39_word_new_line3: 'burden
+
+  table
+
+  lend'
+bip_39_word_new_line4: 'burden
+
+  table
+
+  lend
+
+  error'
+bip_39_word_new_line5: 'burden
+
+  table
+
+  lend
+
+  error
+
+  canyon'
+bip_39_word_new_line6: 'burden
+
+  table
+
+  lend
+
+  error
+
+  canyon
+
+  brass'
+bip_39_word_new_line7: 'burden
+
+  table
+
+  lend
+
+  error
+
+  canyon
+
+  brass
+
+  cry'
+bip_39_word_new_line8: 'burden
+
+  table
+
+  lend
+
+  error
+
+  canyon
+
+  brass
+
+  cry
+
+  notable'
+bip_39_word_new_line9: 'burden
+
+  table
+
+  lend
+
+  error
+
+  canyon
+
+  brass
+
+  cry
+
+  notable
+
+  spin'
+bip_39_word_space_0:
+- burden
+- table
+- lend
+- error
+- canyon
+- brass
+- cry
+- notable
+- spin
+- axis
+- thought
+- ability
+bip_39_word_space_1: burden
+bip_39_word_space_10: burden table lend error canyon brass cry notable spin axis
+bip_39_word_space_11: burden table lend error canyon brass cry notable spin axis thought
+bip_39_word_space_12: burden table lend error canyon brass cry notable spin axis thought
+  ability
+bip_39_word_space_2: burden table
+bip_39_word_space_3: burden table lend
+bip_39_word_space_4: burden table lend error
+bip_39_word_space_5: burden table lend error canyon
+bip_39_word_space_6: burden table lend error canyon brass
+bip_39_word_space_7: burden table lend error canyon brass cry
+bip_39_word_space_8: burden table lend error canyon brass cry notable
+bip_39_word_space_9: burden table lend error canyon brass cry notable spin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

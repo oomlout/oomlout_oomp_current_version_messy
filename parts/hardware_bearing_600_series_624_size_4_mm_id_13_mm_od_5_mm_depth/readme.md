@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: invest welcome
+  * bip 39 word 3: invest welcome skill
+  * bip 39 word: invest welcome skill trash bunker give property festival inside defy open asthma
 
 ### other_codes
 * short_code: br624
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | invest |  
+| bip_39_word_new_br10 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy |  
+| bip_39_word_new_br11 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy<br>open |  
+| bip_39_word_new_br12 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside<br>defy<br>open<br>asthma |  
+| bip_39_word_new_br2 | invest<br>welcome |  
+| bip_39_word_new_br3 | invest<br>welcome<br>skill |  
+| bip_39_word_new_br4 | invest<br>welcome<br>skill<br>trash |  
+| bip_39_word_new_br5 | invest<br>welcome<br>skill<br>trash<br>bunker |  
+| bip_39_word_new_br6 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give |  
+| bip_39_word_new_br7 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property |  
+| bip_39_word_new_br8 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival |  
+| bip_39_word_new_br9 | invest<br>welcome<br>skill<br>trash<br>bunker<br>give<br>property<br>festival<br>inside |  
+| bip_39_word_new_line1 | invest |  
+| bip_39_word_new_line10 | invest
+welcome
+skill
+trash
+bunker
+give
+property
+festival
+inside
+defy |  
+| bip_39_word_new_line11 | invest
+welcome
+skill
+trash
+bunker
+give
+property
+festival
+inside
+defy
+open |  
+| bip_39_word_new_line12 | invest
+welcome
+skill
+trash
+bunker
+give
+property
+festival
+inside
+defy
+open
+asthma |  
+| bip_39_word_new_line2 | invest
+welcome |  
+| bip_39_word_new_line3 | invest
+welcome
+skill |  
+| bip_39_word_new_line4 | invest
+welcome
+skill
+trash |  
+| bip_39_word_new_line5 | invest
+welcome
+skill
+trash
+bunker |  
+| bip_39_word_new_line6 | invest
+welcome
+skill
+trash
+bunker
+give |  
+| bip_39_word_new_line7 | invest
+welcome
+skill
+trash
+bunker
+give
+property |  
+| bip_39_word_new_line8 | invest
+welcome
+skill
+trash
+bunker
+give
+property
+festival |  
+| bip_39_word_new_line9 | invest
+welcome
+skill
+trash
+bunker
+give
+property
+festival
+inside |  
+| bip_39_word_space_0 | ['invest', 'welcome', 'skill', 'trash', 'bunker', 'give', 'property', 'festival', 'inside', 'defy', 'open', 'asthma'] |  
+| bip_39_word_space_1 | invest |  
+| bip_39_word_space_10 | invest welcome skill trash bunker give property festival inside defy |  
+| bip_39_word_space_11 | invest welcome skill trash bunker give property festival inside defy open |  
+| bip_39_word_space_12 | invest welcome skill trash bunker give property festival inside defy open asthma |  
+| bip_39_word_space_2 | invest welcome |  
+| bip_39_word_space_3 | invest welcome skill |  
+| bip_39_word_space_4 | invest welcome skill trash |  
+| bip_39_word_space_5 | invest welcome skill trash bunker |  
+| bip_39_word_space_6 | invest welcome skill trash bunker give |  
+| bip_39_word_space_7 | invest welcome skill trash bunker give property |  
+| bip_39_word_space_8 | invest welcome skill trash bunker give property festival |  
+| bip_39_word_space_9 | invest welcome skill trash bunker give property festival inside |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

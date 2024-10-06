@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: range cute
+  * bip 39 word 3: range cute squeeze
+  * bip 39 word: range cute squeeze stand alcohol treat federal voice order reunion pony about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | range |  
+| bip_39_word_new_br10 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat<br>federal<br>voice<br>order<br>reunion |  
+| bip_39_word_new_br11 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat<br>federal<br>voice<br>order<br>reunion<br>pony |  
+| bip_39_word_new_br12 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat<br>federal<br>voice<br>order<br>reunion<br>pony<br>about |  
+| bip_39_word_new_br2 | range<br>cute |  
+| bip_39_word_new_br3 | range<br>cute<br>squeeze |  
+| bip_39_word_new_br4 | range<br>cute<br>squeeze<br>stand |  
+| bip_39_word_new_br5 | range<br>cute<br>squeeze<br>stand<br>alcohol |  
+| bip_39_word_new_br6 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat |  
+| bip_39_word_new_br7 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat<br>federal |  
+| bip_39_word_new_br8 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat<br>federal<br>voice |  
+| bip_39_word_new_br9 | range<br>cute<br>squeeze<br>stand<br>alcohol<br>treat<br>federal<br>voice<br>order |  
+| bip_39_word_new_line1 | range |  
+| bip_39_word_new_line10 | range
+cute
+squeeze
+stand
+alcohol
+treat
+federal
+voice
+order
+reunion |  
+| bip_39_word_new_line11 | range
+cute
+squeeze
+stand
+alcohol
+treat
+federal
+voice
+order
+reunion
+pony |  
+| bip_39_word_new_line12 | range
+cute
+squeeze
+stand
+alcohol
+treat
+federal
+voice
+order
+reunion
+pony
+about |  
+| bip_39_word_new_line2 | range
+cute |  
+| bip_39_word_new_line3 | range
+cute
+squeeze |  
+| bip_39_word_new_line4 | range
+cute
+squeeze
+stand |  
+| bip_39_word_new_line5 | range
+cute
+squeeze
+stand
+alcohol |  
+| bip_39_word_new_line6 | range
+cute
+squeeze
+stand
+alcohol
+treat |  
+| bip_39_word_new_line7 | range
+cute
+squeeze
+stand
+alcohol
+treat
+federal |  
+| bip_39_word_new_line8 | range
+cute
+squeeze
+stand
+alcohol
+treat
+federal
+voice |  
+| bip_39_word_new_line9 | range
+cute
+squeeze
+stand
+alcohol
+treat
+federal
+voice
+order |  
+| bip_39_word_space_0 | ['range', 'cute', 'squeeze', 'stand', 'alcohol', 'treat', 'federal', 'voice', 'order', 'reunion', 'pony', 'about'] |  
+| bip_39_word_space_1 | range |  
+| bip_39_word_space_10 | range cute squeeze stand alcohol treat federal voice order reunion |  
+| bip_39_word_space_11 | range cute squeeze stand alcohol treat federal voice order reunion pony |  
+| bip_39_word_space_12 | range cute squeeze stand alcohol treat federal voice order reunion pony about |  
+| bip_39_word_space_2 | range cute |  
+| bip_39_word_space_3 | range cute squeeze |  
+| bip_39_word_space_4 | range cute squeeze stand |  
+| bip_39_word_space_5 | range cute squeeze stand alcohol |  
+| bip_39_word_space_6 | range cute squeeze stand alcohol treat |  
+| bip_39_word_space_7 | range cute squeeze stand alcohol treat federal |  
+| bip_39_word_space_8 | range cute squeeze stand alcohol treat federal voice |  
+| bip_39_word_space_9 | range cute squeeze stand alcohol treat federal voice order |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

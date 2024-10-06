@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: worldsemi
   * part_number: ws2812b_b_w
+  * bip 39 word 2: soda fault
+  * bip 39 word 3: soda fault exist
+  * bip 39 word: soda fault exist zoo bamboo whale celery custom roof wealth holiday audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soda |  
+| bip_39_word_new_br10 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth |  
+| bip_39_word_new_br11 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth<br>holiday |  
+| bip_39_word_new_br12 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth<br>holiday<br>audit |  
+| bip_39_word_new_br2 | soda<br>fault |  
+| bip_39_word_new_br3 | soda<br>fault<br>exist |  
+| bip_39_word_new_br4 | soda<br>fault<br>exist<br>zoo |  
+| bip_39_word_new_br5 | soda<br>fault<br>exist<br>zoo<br>bamboo |  
+| bip_39_word_new_br6 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale |  
+| bip_39_word_new_br7 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery |  
+| bip_39_word_new_br8 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom |  
+| bip_39_word_new_br9 | soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof |  
+| bip_39_word_new_line1 | soda |  
+| bip_39_word_new_line10 | soda
+fault
+exist
+zoo
+bamboo
+whale
+celery
+custom
+roof
+wealth |  
+| bip_39_word_new_line11 | soda
+fault
+exist
+zoo
+bamboo
+whale
+celery
+custom
+roof
+wealth
+holiday |  
+| bip_39_word_new_line12 | soda
+fault
+exist
+zoo
+bamboo
+whale
+celery
+custom
+roof
+wealth
+holiday
+audit |  
+| bip_39_word_new_line2 | soda
+fault |  
+| bip_39_word_new_line3 | soda
+fault
+exist |  
+| bip_39_word_new_line4 | soda
+fault
+exist
+zoo |  
+| bip_39_word_new_line5 | soda
+fault
+exist
+zoo
+bamboo |  
+| bip_39_word_new_line6 | soda
+fault
+exist
+zoo
+bamboo
+whale |  
+| bip_39_word_new_line7 | soda
+fault
+exist
+zoo
+bamboo
+whale
+celery |  
+| bip_39_word_new_line8 | soda
+fault
+exist
+zoo
+bamboo
+whale
+celery
+custom |  
+| bip_39_word_new_line9 | soda
+fault
+exist
+zoo
+bamboo
+whale
+celery
+custom
+roof |  
+| bip_39_word_space_0 | ['soda', 'fault', 'exist', 'zoo', 'bamboo', 'whale', 'celery', 'custom', 'roof', 'wealth', 'holiday', 'audit'] |  
+| bip_39_word_space_1 | soda |  
+| bip_39_word_space_10 | soda fault exist zoo bamboo whale celery custom roof wealth |  
+| bip_39_word_space_11 | soda fault exist zoo bamboo whale celery custom roof wealth holiday |  
+| bip_39_word_space_12 | soda fault exist zoo bamboo whale celery custom roof wealth holiday audit |  
+| bip_39_word_space_2 | soda fault |  
+| bip_39_word_space_3 | soda fault exist |  
+| bip_39_word_space_4 | soda fault exist zoo |  
+| bip_39_word_space_5 | soda fault exist zoo bamboo |  
+| bip_39_word_space_6 | soda fault exist zoo bamboo whale |  
+| bip_39_word_space_7 | soda fault exist zoo bamboo whale celery |  
+| bip_39_word_space_8 | soda fault exist zoo bamboo whale celery custom |  
+| bip_39_word_space_9 | soda fault exist zoo bamboo whale celery custom roof |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

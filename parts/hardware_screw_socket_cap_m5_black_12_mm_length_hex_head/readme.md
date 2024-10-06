@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vehicle twenty
+  * bip 39 word 3: vehicle twenty flavor
+  * bip 39 word: vehicle twenty flavor denial frame inner decrease source celery major rich admit
 
 ### other_codes
 * short_code: sc5b12h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vehicle |  
+| bip_39_word_new_br10 | vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner<br>decrease<br>source<br>celery<br>major |  
+| bip_39_word_new_br11 | vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner<br>decrease<br>source<br>celery<br>major<br>rich |  
+| bip_39_word_new_br12 | vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner<br>decrease<br>source<br>celery<br>major<br>rich<br>admit |  
+| bip_39_word_new_br2 | vehicle<br>twenty |  
+| bip_39_word_new_br3 | vehicle<br>twenty<br>flavor |  
+| bip_39_word_new_br4 | vehicle<br>twenty<br>flavor<br>denial |  
+| bip_39_word_new_br5 | vehicle<br>twenty<br>flavor<br>denial<br>frame |  
+| bip_39_word_new_br6 | vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner |  
+| bip_39_word_new_br7 | vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner<br>decrease |  
+| bip_39_word_new_br8 | vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner<br>decrease<br>source |  
+| bip_39_word_new_br9 | vehicle<br>twenty<br>flavor<br>denial<br>frame<br>inner<br>decrease<br>source<br>celery |  
+| bip_39_word_new_line1 | vehicle |  
+| bip_39_word_new_line10 | vehicle
+twenty
+flavor
+denial
+frame
+inner
+decrease
+source
+celery
+major |  
+| bip_39_word_new_line11 | vehicle
+twenty
+flavor
+denial
+frame
+inner
+decrease
+source
+celery
+major
+rich |  
+| bip_39_word_new_line12 | vehicle
+twenty
+flavor
+denial
+frame
+inner
+decrease
+source
+celery
+major
+rich
+admit |  
+| bip_39_word_new_line2 | vehicle
+twenty |  
+| bip_39_word_new_line3 | vehicle
+twenty
+flavor |  
+| bip_39_word_new_line4 | vehicle
+twenty
+flavor
+denial |  
+| bip_39_word_new_line5 | vehicle
+twenty
+flavor
+denial
+frame |  
+| bip_39_word_new_line6 | vehicle
+twenty
+flavor
+denial
+frame
+inner |  
+| bip_39_word_new_line7 | vehicle
+twenty
+flavor
+denial
+frame
+inner
+decrease |  
+| bip_39_word_new_line8 | vehicle
+twenty
+flavor
+denial
+frame
+inner
+decrease
+source |  
+| bip_39_word_new_line9 | vehicle
+twenty
+flavor
+denial
+frame
+inner
+decrease
+source
+celery |  
+| bip_39_word_space_0 | ['vehicle', 'twenty', 'flavor', 'denial', 'frame', 'inner', 'decrease', 'source', 'celery', 'major', 'rich', 'admit'] |  
+| bip_39_word_space_1 | vehicle |  
+| bip_39_word_space_10 | vehicle twenty flavor denial frame inner decrease source celery major |  
+| bip_39_word_space_11 | vehicle twenty flavor denial frame inner decrease source celery major rich |  
+| bip_39_word_space_12 | vehicle twenty flavor denial frame inner decrease source celery major rich admit |  
+| bip_39_word_space_2 | vehicle twenty |  
+| bip_39_word_space_3 | vehicle twenty flavor |  
+| bip_39_word_space_4 | vehicle twenty flavor denial |  
+| bip_39_word_space_5 | vehicle twenty flavor denial frame |  
+| bip_39_word_space_6 | vehicle twenty flavor denial frame inner |  
+| bip_39_word_space_7 | vehicle twenty flavor denial frame inner decrease |  
+| bip_39_word_space_8 | vehicle twenty flavor denial frame inner decrease source |  
+| bip_39_word_space_9 | vehicle twenty flavor denial frame inner decrease source celery |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

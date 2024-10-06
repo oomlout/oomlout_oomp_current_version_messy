@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wheel
+bip_39_word_new_br10: wheel<br>name<br>supply<br>excess<br>churn<br>civil<br>install<br>turtle<br>ride<br>wrist
+bip_39_word_new_br11: wheel<br>name<br>supply<br>excess<br>churn<br>civil<br>install<br>turtle<br>ride<br>wrist<br>hole
+bip_39_word_new_br12: wheel<br>name<br>supply<br>excess<br>churn<br>civil<br>install<br>turtle<br>ride<br>wrist<br>hole<br>allow
+bip_39_word_new_br2: wheel<br>name
+bip_39_word_new_br3: wheel<br>name<br>supply
+bip_39_word_new_br4: wheel<br>name<br>supply<br>excess
+bip_39_word_new_br5: wheel<br>name<br>supply<br>excess<br>churn
+bip_39_word_new_br6: wheel<br>name<br>supply<br>excess<br>churn<br>civil
+bip_39_word_new_br7: wheel<br>name<br>supply<br>excess<br>churn<br>civil<br>install
+bip_39_word_new_br8: wheel<br>name<br>supply<br>excess<br>churn<br>civil<br>install<br>turtle
+bip_39_word_new_br9: wheel<br>name<br>supply<br>excess<br>churn<br>civil<br>install<br>turtle<br>ride
+bip_39_word_new_line1: wheel
+bip_39_word_new_line10: 'wheel
+
+  name
+
+  supply
+
+  excess
+
+  churn
+
+  civil
+
+  install
+
+  turtle
+
+  ride
+
+  wrist'
+bip_39_word_new_line11: 'wheel
+
+  name
+
+  supply
+
+  excess
+
+  churn
+
+  civil
+
+  install
+
+  turtle
+
+  ride
+
+  wrist
+
+  hole'
+bip_39_word_new_line12: 'wheel
+
+  name
+
+  supply
+
+  excess
+
+  churn
+
+  civil
+
+  install
+
+  turtle
+
+  ride
+
+  wrist
+
+  hole
+
+  allow'
+bip_39_word_new_line2: 'wheel
+
+  name'
+bip_39_word_new_line3: 'wheel
+
+  name
+
+  supply'
+bip_39_word_new_line4: 'wheel
+
+  name
+
+  supply
+
+  excess'
+bip_39_word_new_line5: 'wheel
+
+  name
+
+  supply
+
+  excess
+
+  churn'
+bip_39_word_new_line6: 'wheel
+
+  name
+
+  supply
+
+  excess
+
+  churn
+
+  civil'
+bip_39_word_new_line7: 'wheel
+
+  name
+
+  supply
+
+  excess
+
+  churn
+
+  civil
+
+  install'
+bip_39_word_new_line8: 'wheel
+
+  name
+
+  supply
+
+  excess
+
+  churn
+
+  civil
+
+  install
+
+  turtle'
+bip_39_word_new_line9: 'wheel
+
+  name
+
+  supply
+
+  excess
+
+  churn
+
+  civil
+
+  install
+
+  turtle
+
+  ride'
+bip_39_word_space_0:
+- wheel
+- name
+- supply
+- excess
+- churn
+- civil
+- install
+- turtle
+- ride
+- wrist
+- hole
+- allow
+bip_39_word_space_1: wheel
+bip_39_word_space_10: wheel name supply excess churn civil install turtle ride wrist
+bip_39_word_space_11: wheel name supply excess churn civil install turtle ride wrist
+  hole
+bip_39_word_space_12: wheel name supply excess churn civil install turtle ride wrist
+  hole allow
+bip_39_word_space_2: wheel name
+bip_39_word_space_3: wheel name supply
+bip_39_word_space_4: wheel name supply excess
+bip_39_word_space_5: wheel name supply excess churn
+bip_39_word_space_6: wheel name supply excess churn civil
+bip_39_word_space_7: wheel name supply excess churn civil install
+bip_39_word_space_8: wheel name supply excess churn civil install turtle
+bip_39_word_space_9: wheel name supply excess churn civil install turtle ride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

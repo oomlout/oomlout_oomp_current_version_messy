@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: holiday young
+  * bip 39 word 3: holiday young nut
+  * bip 39 word: holiday young nut farm general wet foot idea tribe cost drip actor
 
 ### other_codes
 * short_code: so3nw12ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | holiday |  
+| bip_39_word_new_br10 | holiday<br>young<br>nut<br>farm<br>general<br>wet<br>foot<br>idea<br>tribe<br>cost |  
+| bip_39_word_new_br11 | holiday<br>young<br>nut<br>farm<br>general<br>wet<br>foot<br>idea<br>tribe<br>cost<br>drip |  
+| bip_39_word_new_br12 | holiday<br>young<br>nut<br>farm<br>general<br>wet<br>foot<br>idea<br>tribe<br>cost<br>drip<br>actor |  
+| bip_39_word_new_br2 | holiday<br>young |  
+| bip_39_word_new_br3 | holiday<br>young<br>nut |  
+| bip_39_word_new_br4 | holiday<br>young<br>nut<br>farm |  
+| bip_39_word_new_br5 | holiday<br>young<br>nut<br>farm<br>general |  
+| bip_39_word_new_br6 | holiday<br>young<br>nut<br>farm<br>general<br>wet |  
+| bip_39_word_new_br7 | holiday<br>young<br>nut<br>farm<br>general<br>wet<br>foot |  
+| bip_39_word_new_br8 | holiday<br>young<br>nut<br>farm<br>general<br>wet<br>foot<br>idea |  
+| bip_39_word_new_br9 | holiday<br>young<br>nut<br>farm<br>general<br>wet<br>foot<br>idea<br>tribe |  
+| bip_39_word_new_line1 | holiday |  
+| bip_39_word_new_line10 | holiday
+young
+nut
+farm
+general
+wet
+foot
+idea
+tribe
+cost |  
+| bip_39_word_new_line11 | holiday
+young
+nut
+farm
+general
+wet
+foot
+idea
+tribe
+cost
+drip |  
+| bip_39_word_new_line12 | holiday
+young
+nut
+farm
+general
+wet
+foot
+idea
+tribe
+cost
+drip
+actor |  
+| bip_39_word_new_line2 | holiday
+young |  
+| bip_39_word_new_line3 | holiday
+young
+nut |  
+| bip_39_word_new_line4 | holiday
+young
+nut
+farm |  
+| bip_39_word_new_line5 | holiday
+young
+nut
+farm
+general |  
+| bip_39_word_new_line6 | holiday
+young
+nut
+farm
+general
+wet |  
+| bip_39_word_new_line7 | holiday
+young
+nut
+farm
+general
+wet
+foot |  
+| bip_39_word_new_line8 | holiday
+young
+nut
+farm
+general
+wet
+foot
+idea |  
+| bip_39_word_new_line9 | holiday
+young
+nut
+farm
+general
+wet
+foot
+idea
+tribe |  
+| bip_39_word_space_0 | ['holiday', 'young', 'nut', 'farm', 'general', 'wet', 'foot', 'idea', 'tribe', 'cost', 'drip', 'actor'] |  
+| bip_39_word_space_1 | holiday |  
+| bip_39_word_space_10 | holiday young nut farm general wet foot idea tribe cost |  
+| bip_39_word_space_11 | holiday young nut farm general wet foot idea tribe cost drip |  
+| bip_39_word_space_12 | holiday young nut farm general wet foot idea tribe cost drip actor |  
+| bip_39_word_space_2 | holiday young |  
+| bip_39_word_space_3 | holiday young nut |  
+| bip_39_word_space_4 | holiday young nut farm |  
+| bip_39_word_space_5 | holiday young nut farm general |  
+| bip_39_word_space_6 | holiday young nut farm general wet |  
+| bip_39_word_space_7 | holiday young nut farm general wet foot |  
+| bip_39_word_space_8 | holiday young nut farm general wet foot idea |  
+| bip_39_word_space_9 | holiday young nut farm general wet foot idea tribe |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

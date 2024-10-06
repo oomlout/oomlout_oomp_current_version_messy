@@ -1,3 +1,185 @@
+bip_39_word_new_br1: wood
+bip_39_word_new_br10: wood<br>churn<br>hour<br>menu<br>amount<br>tower<br>fat<br>letter<br>foot<br>seven
+bip_39_word_new_br11: wood<br>churn<br>hour<br>menu<br>amount<br>tower<br>fat<br>letter<br>foot<br>seven<br>holiday
+bip_39_word_new_br12: wood<br>churn<br>hour<br>menu<br>amount<br>tower<br>fat<br>letter<br>foot<br>seven<br>holiday<br>attitude
+bip_39_word_new_br2: wood<br>churn
+bip_39_word_new_br3: wood<br>churn<br>hour
+bip_39_word_new_br4: wood<br>churn<br>hour<br>menu
+bip_39_word_new_br5: wood<br>churn<br>hour<br>menu<br>amount
+bip_39_word_new_br6: wood<br>churn<br>hour<br>menu<br>amount<br>tower
+bip_39_word_new_br7: wood<br>churn<br>hour<br>menu<br>amount<br>tower<br>fat
+bip_39_word_new_br8: wood<br>churn<br>hour<br>menu<br>amount<br>tower<br>fat<br>letter
+bip_39_word_new_br9: wood<br>churn<br>hour<br>menu<br>amount<br>tower<br>fat<br>letter<br>foot
+bip_39_word_new_line1: wood
+bip_39_word_new_line10: 'wood
+
+  churn
+
+  hour
+
+  menu
+
+  amount
+
+  tower
+
+  fat
+
+  letter
+
+  foot
+
+  seven'
+bip_39_word_new_line11: 'wood
+
+  churn
+
+  hour
+
+  menu
+
+  amount
+
+  tower
+
+  fat
+
+  letter
+
+  foot
+
+  seven
+
+  holiday'
+bip_39_word_new_line12: 'wood
+
+  churn
+
+  hour
+
+  menu
+
+  amount
+
+  tower
+
+  fat
+
+  letter
+
+  foot
+
+  seven
+
+  holiday
+
+  attitude'
+bip_39_word_new_line2: 'wood
+
+  churn'
+bip_39_word_new_line3: 'wood
+
+  churn
+
+  hour'
+bip_39_word_new_line4: 'wood
+
+  churn
+
+  hour
+
+  menu'
+bip_39_word_new_line5: 'wood
+
+  churn
+
+  hour
+
+  menu
+
+  amount'
+bip_39_word_new_line6: 'wood
+
+  churn
+
+  hour
+
+  menu
+
+  amount
+
+  tower'
+bip_39_word_new_line7: 'wood
+
+  churn
+
+  hour
+
+  menu
+
+  amount
+
+  tower
+
+  fat'
+bip_39_word_new_line8: 'wood
+
+  churn
+
+  hour
+
+  menu
+
+  amount
+
+  tower
+
+  fat
+
+  letter'
+bip_39_word_new_line9: 'wood
+
+  churn
+
+  hour
+
+  menu
+
+  amount
+
+  tower
+
+  fat
+
+  letter
+
+  foot'
+bip_39_word_space_0:
+- wood
+- churn
+- hour
+- menu
+- amount
+- tower
+- fat
+- letter
+- foot
+- seven
+- holiday
+- attitude
+bip_39_word_space_1: wood
+bip_39_word_space_10: wood churn hour menu amount tower fat letter foot seven
+bip_39_word_space_11: wood churn hour menu amount tower fat letter foot seven holiday
+bip_39_word_space_12: wood churn hour menu amount tower fat letter foot seven holiday
+  attitude
+bip_39_word_space_2: wood churn
+bip_39_word_space_3: wood churn hour
+bip_39_word_space_4: wood churn hour menu
+bip_39_word_space_5: wood churn hour menu amount
+bip_39_word_space_6: wood churn hour menu amount tower
+bip_39_word_space_7: wood churn hour menu amount tower fat
+bip_39_word_space_8: wood churn hour menu amount tower fat letter
+bip_39_word_space_9: wood churn hour menu amount tower fat letter foot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

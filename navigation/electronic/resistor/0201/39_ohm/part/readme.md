@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faint elbow
+  * bip 39 word 3: faint elbow pass
+  * bip 39 word: faint elbow pass loyal spend sister panda best drip law increase alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faint |  
+| bip_39_word_new_br10 | faint<br>elbow<br>pass<br>loyal<br>spend<br>sister<br>panda<br>best<br>drip<br>law |  
+| bip_39_word_new_br11 | faint<br>elbow<br>pass<br>loyal<br>spend<br>sister<br>panda<br>best<br>drip<br>law<br>increase |  
+| bip_39_word_new_br12 | faint<br>elbow<br>pass<br>loyal<br>spend<br>sister<br>panda<br>best<br>drip<br>law<br>increase<br>alarm |  
+| bip_39_word_new_br2 | faint<br>elbow |  
+| bip_39_word_new_br3 | faint<br>elbow<br>pass |  
+| bip_39_word_new_br4 | faint<br>elbow<br>pass<br>loyal |  
+| bip_39_word_new_br5 | faint<br>elbow<br>pass<br>loyal<br>spend |  
+| bip_39_word_new_br6 | faint<br>elbow<br>pass<br>loyal<br>spend<br>sister |  
+| bip_39_word_new_br7 | faint<br>elbow<br>pass<br>loyal<br>spend<br>sister<br>panda |  
+| bip_39_word_new_br8 | faint<br>elbow<br>pass<br>loyal<br>spend<br>sister<br>panda<br>best |  
+| bip_39_word_new_br9 | faint<br>elbow<br>pass<br>loyal<br>spend<br>sister<br>panda<br>best<br>drip |  
+| bip_39_word_new_line1 | faint |  
+| bip_39_word_new_line10 | faint
+elbow
+pass
+loyal
+spend
+sister
+panda
+best
+drip
+law |  
+| bip_39_word_new_line11 | faint
+elbow
+pass
+loyal
+spend
+sister
+panda
+best
+drip
+law
+increase |  
+| bip_39_word_new_line12 | faint
+elbow
+pass
+loyal
+spend
+sister
+panda
+best
+drip
+law
+increase
+alarm |  
+| bip_39_word_new_line2 | faint
+elbow |  
+| bip_39_word_new_line3 | faint
+elbow
+pass |  
+| bip_39_word_new_line4 | faint
+elbow
+pass
+loyal |  
+| bip_39_word_new_line5 | faint
+elbow
+pass
+loyal
+spend |  
+| bip_39_word_new_line6 | faint
+elbow
+pass
+loyal
+spend
+sister |  
+| bip_39_word_new_line7 | faint
+elbow
+pass
+loyal
+spend
+sister
+panda |  
+| bip_39_word_new_line8 | faint
+elbow
+pass
+loyal
+spend
+sister
+panda
+best |  
+| bip_39_word_new_line9 | faint
+elbow
+pass
+loyal
+spend
+sister
+panda
+best
+drip |  
+| bip_39_word_space_0 | ['faint', 'elbow', 'pass', 'loyal', 'spend', 'sister', 'panda', 'best', 'drip', 'law', 'increase', 'alarm'] |  
+| bip_39_word_space_1 | faint |  
+| bip_39_word_space_10 | faint elbow pass loyal spend sister panda best drip law |  
+| bip_39_word_space_11 | faint elbow pass loyal spend sister panda best drip law increase |  
+| bip_39_word_space_12 | faint elbow pass loyal spend sister panda best drip law increase alarm |  
+| bip_39_word_space_2 | faint elbow |  
+| bip_39_word_space_3 | faint elbow pass |  
+| bip_39_word_space_4 | faint elbow pass loyal |  
+| bip_39_word_space_5 | faint elbow pass loyal spend |  
+| bip_39_word_space_6 | faint elbow pass loyal spend sister |  
+| bip_39_word_space_7 | faint elbow pass loyal spend sister panda |  
+| bip_39_word_space_8 | faint elbow pass loyal spend sister panda best |  
+| bip_39_word_space_9 | faint elbow pass loyal spend sister panda best drip |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

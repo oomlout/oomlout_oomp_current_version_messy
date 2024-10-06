@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: west world
+  * bip 39 word 3: west world afford
+  * bip 39 word: west world afford release aunt prison orbit ethics hole green route access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | west |  
+| bip_39_word_new_br10 | west<br>world<br>afford<br>release<br>aunt<br>prison<br>orbit<br>ethics<br>hole<br>green |  
+| bip_39_word_new_br11 | west<br>world<br>afford<br>release<br>aunt<br>prison<br>orbit<br>ethics<br>hole<br>green<br>route |  
+| bip_39_word_new_br12 | west<br>world<br>afford<br>release<br>aunt<br>prison<br>orbit<br>ethics<br>hole<br>green<br>route<br>access |  
+| bip_39_word_new_br2 | west<br>world |  
+| bip_39_word_new_br3 | west<br>world<br>afford |  
+| bip_39_word_new_br4 | west<br>world<br>afford<br>release |  
+| bip_39_word_new_br5 | west<br>world<br>afford<br>release<br>aunt |  
+| bip_39_word_new_br6 | west<br>world<br>afford<br>release<br>aunt<br>prison |  
+| bip_39_word_new_br7 | west<br>world<br>afford<br>release<br>aunt<br>prison<br>orbit |  
+| bip_39_word_new_br8 | west<br>world<br>afford<br>release<br>aunt<br>prison<br>orbit<br>ethics |  
+| bip_39_word_new_br9 | west<br>world<br>afford<br>release<br>aunt<br>prison<br>orbit<br>ethics<br>hole |  
+| bip_39_word_new_line1 | west |  
+| bip_39_word_new_line10 | west
+world
+afford
+release
+aunt
+prison
+orbit
+ethics
+hole
+green |  
+| bip_39_word_new_line11 | west
+world
+afford
+release
+aunt
+prison
+orbit
+ethics
+hole
+green
+route |  
+| bip_39_word_new_line12 | west
+world
+afford
+release
+aunt
+prison
+orbit
+ethics
+hole
+green
+route
+access |  
+| bip_39_word_new_line2 | west
+world |  
+| bip_39_word_new_line3 | west
+world
+afford |  
+| bip_39_word_new_line4 | west
+world
+afford
+release |  
+| bip_39_word_new_line5 | west
+world
+afford
+release
+aunt |  
+| bip_39_word_new_line6 | west
+world
+afford
+release
+aunt
+prison |  
+| bip_39_word_new_line7 | west
+world
+afford
+release
+aunt
+prison
+orbit |  
+| bip_39_word_new_line8 | west
+world
+afford
+release
+aunt
+prison
+orbit
+ethics |  
+| bip_39_word_new_line9 | west
+world
+afford
+release
+aunt
+prison
+orbit
+ethics
+hole |  
+| bip_39_word_space_0 | ['west', 'world', 'afford', 'release', 'aunt', 'prison', 'orbit', 'ethics', 'hole', 'green', 'route', 'access'] |  
+| bip_39_word_space_1 | west |  
+| bip_39_word_space_10 | west world afford release aunt prison orbit ethics hole green |  
+| bip_39_word_space_11 | west world afford release aunt prison orbit ethics hole green route |  
+| bip_39_word_space_12 | west world afford release aunt prison orbit ethics hole green route access |  
+| bip_39_word_space_2 | west world |  
+| bip_39_word_space_3 | west world afford |  
+| bip_39_word_space_4 | west world afford release |  
+| bip_39_word_space_5 | west world afford release aunt |  
+| bip_39_word_space_6 | west world afford release aunt prison |  
+| bip_39_word_space_7 | west world afford release aunt prison orbit |  
+| bip_39_word_space_8 | west world afford release aunt prison orbit ethics |  
+| bip_39_word_space_9 | west world afford release aunt prison orbit ethics hole |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

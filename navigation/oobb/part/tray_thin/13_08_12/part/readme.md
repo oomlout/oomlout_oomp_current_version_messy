@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prosper bean
+  * bip 39 word 3: prosper bean humble
+  * bip 39 word: prosper bean humble rain trigger creek arctic domain clown spare dumb agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prosper |  
+| bip_39_word_new_br10 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare |  
+| bip_39_word_new_br11 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare<br>dumb |  
+| bip_39_word_new_br12 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown<br>spare<br>dumb<br>agent |  
+| bip_39_word_new_br2 | prosper<br>bean |  
+| bip_39_word_new_br3 | prosper<br>bean<br>humble |  
+| bip_39_word_new_br4 | prosper<br>bean<br>humble<br>rain |  
+| bip_39_word_new_br5 | prosper<br>bean<br>humble<br>rain<br>trigger |  
+| bip_39_word_new_br6 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek |  
+| bip_39_word_new_br7 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic |  
+| bip_39_word_new_br8 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain |  
+| bip_39_word_new_br9 | prosper<br>bean<br>humble<br>rain<br>trigger<br>creek<br>arctic<br>domain<br>clown |  
+| bip_39_word_new_line1 | prosper |  
+| bip_39_word_new_line10 | prosper
+bean
+humble
+rain
+trigger
+creek
+arctic
+domain
+clown
+spare |  
+| bip_39_word_new_line11 | prosper
+bean
+humble
+rain
+trigger
+creek
+arctic
+domain
+clown
+spare
+dumb |  
+| bip_39_word_new_line12 | prosper
+bean
+humble
+rain
+trigger
+creek
+arctic
+domain
+clown
+spare
+dumb
+agent |  
+| bip_39_word_new_line2 | prosper
+bean |  
+| bip_39_word_new_line3 | prosper
+bean
+humble |  
+| bip_39_word_new_line4 | prosper
+bean
+humble
+rain |  
+| bip_39_word_new_line5 | prosper
+bean
+humble
+rain
+trigger |  
+| bip_39_word_new_line6 | prosper
+bean
+humble
+rain
+trigger
+creek |  
+| bip_39_word_new_line7 | prosper
+bean
+humble
+rain
+trigger
+creek
+arctic |  
+| bip_39_word_new_line8 | prosper
+bean
+humble
+rain
+trigger
+creek
+arctic
+domain |  
+| bip_39_word_new_line9 | prosper
+bean
+humble
+rain
+trigger
+creek
+arctic
+domain
+clown |  
+| bip_39_word_space_0 | ['prosper', 'bean', 'humble', 'rain', 'trigger', 'creek', 'arctic', 'domain', 'clown', 'spare', 'dumb', 'agent'] |  
+| bip_39_word_space_1 | prosper |  
+| bip_39_word_space_10 | prosper bean humble rain trigger creek arctic domain clown spare |  
+| bip_39_word_space_11 | prosper bean humble rain trigger creek arctic domain clown spare dumb |  
+| bip_39_word_space_12 | prosper bean humble rain trigger creek arctic domain clown spare dumb agent |  
+| bip_39_word_space_2 | prosper bean |  
+| bip_39_word_space_3 | prosper bean humble |  
+| bip_39_word_space_4 | prosper bean humble rain |  
+| bip_39_word_space_5 | prosper bean humble rain trigger |  
+| bip_39_word_space_6 | prosper bean humble rain trigger creek |  
+| bip_39_word_space_7 | prosper bean humble rain trigger creek arctic |  
+| bip_39_word_space_8 | prosper bean humble rain trigger creek arctic domain |  
+| bip_39_word_space_9 | prosper bean humble rain trigger creek arctic domain clown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

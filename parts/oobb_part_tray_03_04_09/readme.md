@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tired narrow
+  * bip 39 word 3: tired narrow federal
+  * bip 39 word: tired narrow federal board tongue discover victory tissue pigeon genre cupboard armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tired |  
+| bip_39_word_new_br10 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover<br>victory<br>tissue<br>pigeon<br>genre |  
+| bip_39_word_new_br11 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover<br>victory<br>tissue<br>pigeon<br>genre<br>cupboard |  
+| bip_39_word_new_br12 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover<br>victory<br>tissue<br>pigeon<br>genre<br>cupboard<br>armed |  
+| bip_39_word_new_br2 | tired<br>narrow |  
+| bip_39_word_new_br3 | tired<br>narrow<br>federal |  
+| bip_39_word_new_br4 | tired<br>narrow<br>federal<br>board |  
+| bip_39_word_new_br5 | tired<br>narrow<br>federal<br>board<br>tongue |  
+| bip_39_word_new_br6 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover |  
+| bip_39_word_new_br7 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover<br>victory |  
+| bip_39_word_new_br8 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover<br>victory<br>tissue |  
+| bip_39_word_new_br9 | tired<br>narrow<br>federal<br>board<br>tongue<br>discover<br>victory<br>tissue<br>pigeon |  
+| bip_39_word_new_line1 | tired |  
+| bip_39_word_new_line10 | tired
+narrow
+federal
+board
+tongue
+discover
+victory
+tissue
+pigeon
+genre |  
+| bip_39_word_new_line11 | tired
+narrow
+federal
+board
+tongue
+discover
+victory
+tissue
+pigeon
+genre
+cupboard |  
+| bip_39_word_new_line12 | tired
+narrow
+federal
+board
+tongue
+discover
+victory
+tissue
+pigeon
+genre
+cupboard
+armed |  
+| bip_39_word_new_line2 | tired
+narrow |  
+| bip_39_word_new_line3 | tired
+narrow
+federal |  
+| bip_39_word_new_line4 | tired
+narrow
+federal
+board |  
+| bip_39_word_new_line5 | tired
+narrow
+federal
+board
+tongue |  
+| bip_39_word_new_line6 | tired
+narrow
+federal
+board
+tongue
+discover |  
+| bip_39_word_new_line7 | tired
+narrow
+federal
+board
+tongue
+discover
+victory |  
+| bip_39_word_new_line8 | tired
+narrow
+federal
+board
+tongue
+discover
+victory
+tissue |  
+| bip_39_word_new_line9 | tired
+narrow
+federal
+board
+tongue
+discover
+victory
+tissue
+pigeon |  
+| bip_39_word_space_0 | ['tired', 'narrow', 'federal', 'board', 'tongue', 'discover', 'victory', 'tissue', 'pigeon', 'genre', 'cupboard', 'armed'] |  
+| bip_39_word_space_1 | tired |  
+| bip_39_word_space_10 | tired narrow federal board tongue discover victory tissue pigeon genre |  
+| bip_39_word_space_11 | tired narrow federal board tongue discover victory tissue pigeon genre cupboard |  
+| bip_39_word_space_12 | tired narrow federal board tongue discover victory tissue pigeon genre cupboard armed |  
+| bip_39_word_space_2 | tired narrow |  
+| bip_39_word_space_3 | tired narrow federal |  
+| bip_39_word_space_4 | tired narrow federal board |  
+| bip_39_word_space_5 | tired narrow federal board tongue |  
+| bip_39_word_space_6 | tired narrow federal board tongue discover |  
+| bip_39_word_space_7 | tired narrow federal board tongue discover victory |  
+| bip_39_word_space_8 | tired narrow federal board tongue discover victory tissue |  
+| bip_39_word_space_9 | tired narrow federal board tongue discover victory tissue pigeon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

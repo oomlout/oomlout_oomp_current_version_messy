@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: song file
+  * bip 39 word 3: song file control
+  * bip 39 word: song file control exhibit winter endorse chief glory wagon divert pencil army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | song |  
+| bip_39_word_new_br10 | song<br>file<br>control<br>exhibit<br>winter<br>endorse<br>chief<br>glory<br>wagon<br>divert |  
+| bip_39_word_new_br11 | song<br>file<br>control<br>exhibit<br>winter<br>endorse<br>chief<br>glory<br>wagon<br>divert<br>pencil |  
+| bip_39_word_new_br12 | song<br>file<br>control<br>exhibit<br>winter<br>endorse<br>chief<br>glory<br>wagon<br>divert<br>pencil<br>army |  
+| bip_39_word_new_br2 | song<br>file |  
+| bip_39_word_new_br3 | song<br>file<br>control |  
+| bip_39_word_new_br4 | song<br>file<br>control<br>exhibit |  
+| bip_39_word_new_br5 | song<br>file<br>control<br>exhibit<br>winter |  
+| bip_39_word_new_br6 | song<br>file<br>control<br>exhibit<br>winter<br>endorse |  
+| bip_39_word_new_br7 | song<br>file<br>control<br>exhibit<br>winter<br>endorse<br>chief |  
+| bip_39_word_new_br8 | song<br>file<br>control<br>exhibit<br>winter<br>endorse<br>chief<br>glory |  
+| bip_39_word_new_br9 | song<br>file<br>control<br>exhibit<br>winter<br>endorse<br>chief<br>glory<br>wagon |  
+| bip_39_word_new_line1 | song |  
+| bip_39_word_new_line10 | song
+file
+control
+exhibit
+winter
+endorse
+chief
+glory
+wagon
+divert |  
+| bip_39_word_new_line11 | song
+file
+control
+exhibit
+winter
+endorse
+chief
+glory
+wagon
+divert
+pencil |  
+| bip_39_word_new_line12 | song
+file
+control
+exhibit
+winter
+endorse
+chief
+glory
+wagon
+divert
+pencil
+army |  
+| bip_39_word_new_line2 | song
+file |  
+| bip_39_word_new_line3 | song
+file
+control |  
+| bip_39_word_new_line4 | song
+file
+control
+exhibit |  
+| bip_39_word_new_line5 | song
+file
+control
+exhibit
+winter |  
+| bip_39_word_new_line6 | song
+file
+control
+exhibit
+winter
+endorse |  
+| bip_39_word_new_line7 | song
+file
+control
+exhibit
+winter
+endorse
+chief |  
+| bip_39_word_new_line8 | song
+file
+control
+exhibit
+winter
+endorse
+chief
+glory |  
+| bip_39_word_new_line9 | song
+file
+control
+exhibit
+winter
+endorse
+chief
+glory
+wagon |  
+| bip_39_word_space_0 | ['song', 'file', 'control', 'exhibit', 'winter', 'endorse', 'chief', 'glory', 'wagon', 'divert', 'pencil', 'army'] |  
+| bip_39_word_space_1 | song |  
+| bip_39_word_space_10 | song file control exhibit winter endorse chief glory wagon divert |  
+| bip_39_word_space_11 | song file control exhibit winter endorse chief glory wagon divert pencil |  
+| bip_39_word_space_12 | song file control exhibit winter endorse chief glory wagon divert pencil army |  
+| bip_39_word_space_2 | song file |  
+| bip_39_word_space_3 | song file control |  
+| bip_39_word_space_4 | song file control exhibit |  
+| bip_39_word_space_5 | song file control exhibit winter |  
+| bip_39_word_space_6 | song file control exhibit winter endorse |  
+| bip_39_word_space_7 | song file control exhibit winter endorse chief |  
+| bip_39_word_space_8 | song file control exhibit winter endorse chief glory |  
+| bip_39_word_space_9 | song file control exhibit winter endorse chief glory wagon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

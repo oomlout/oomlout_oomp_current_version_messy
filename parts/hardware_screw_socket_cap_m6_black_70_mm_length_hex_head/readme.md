@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sign grief
+  * bip 39 word 3: sign grief erupt
+  * bip 39 word: sign grief erupt earn awful dentist live neck magic holiday logic ancient
 
 ### other_codes
 * short_code: sc6b70h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sign |  
+| bip_39_word_new_br10 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday |  
+| bip_39_word_new_br11 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday<br>logic |  
+| bip_39_word_new_br12 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic<br>holiday<br>logic<br>ancient |  
+| bip_39_word_new_br2 | sign<br>grief |  
+| bip_39_word_new_br3 | sign<br>grief<br>erupt |  
+| bip_39_word_new_br4 | sign<br>grief<br>erupt<br>earn |  
+| bip_39_word_new_br5 | sign<br>grief<br>erupt<br>earn<br>awful |  
+| bip_39_word_new_br6 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist |  
+| bip_39_word_new_br7 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live |  
+| bip_39_word_new_br8 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck |  
+| bip_39_word_new_br9 | sign<br>grief<br>erupt<br>earn<br>awful<br>dentist<br>live<br>neck<br>magic |  
+| bip_39_word_new_line1 | sign |  
+| bip_39_word_new_line10 | sign
+grief
+erupt
+earn
+awful
+dentist
+live
+neck
+magic
+holiday |  
+| bip_39_word_new_line11 | sign
+grief
+erupt
+earn
+awful
+dentist
+live
+neck
+magic
+holiday
+logic |  
+| bip_39_word_new_line12 | sign
+grief
+erupt
+earn
+awful
+dentist
+live
+neck
+magic
+holiday
+logic
+ancient |  
+| bip_39_word_new_line2 | sign
+grief |  
+| bip_39_word_new_line3 | sign
+grief
+erupt |  
+| bip_39_word_new_line4 | sign
+grief
+erupt
+earn |  
+| bip_39_word_new_line5 | sign
+grief
+erupt
+earn
+awful |  
+| bip_39_word_new_line6 | sign
+grief
+erupt
+earn
+awful
+dentist |  
+| bip_39_word_new_line7 | sign
+grief
+erupt
+earn
+awful
+dentist
+live |  
+| bip_39_word_new_line8 | sign
+grief
+erupt
+earn
+awful
+dentist
+live
+neck |  
+| bip_39_word_new_line9 | sign
+grief
+erupt
+earn
+awful
+dentist
+live
+neck
+magic |  
+| bip_39_word_space_0 | ['sign', 'grief', 'erupt', 'earn', 'awful', 'dentist', 'live', 'neck', 'magic', 'holiday', 'logic', 'ancient'] |  
+| bip_39_word_space_1 | sign |  
+| bip_39_word_space_10 | sign grief erupt earn awful dentist live neck magic holiday |  
+| bip_39_word_space_11 | sign grief erupt earn awful dentist live neck magic holiday logic |  
+| bip_39_word_space_12 | sign grief erupt earn awful dentist live neck magic holiday logic ancient |  
+| bip_39_word_space_2 | sign grief |  
+| bip_39_word_space_3 | sign grief erupt |  
+| bip_39_word_space_4 | sign grief erupt earn |  
+| bip_39_word_space_5 | sign grief erupt earn awful |  
+| bip_39_word_space_6 | sign grief erupt earn awful dentist |  
+| bip_39_word_space_7 | sign grief erupt earn awful dentist live |  
+| bip_39_word_space_8 | sign grief erupt earn awful dentist live neck |  
+| bip_39_word_space_9 | sign grief erupt earn awful dentist live neck magic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

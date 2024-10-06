@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: achieve noble
+  * bip 39 word 3: achieve noble improve
+  * bip 39 word: achieve noble improve pink practice similar frog since marble unit forest attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | achieve |  
+| bip_39_word_new_br10 | achieve<br>noble<br>improve<br>pink<br>practice<br>similar<br>frog<br>since<br>marble<br>unit |  
+| bip_39_word_new_br11 | achieve<br>noble<br>improve<br>pink<br>practice<br>similar<br>frog<br>since<br>marble<br>unit<br>forest |  
+| bip_39_word_new_br12 | achieve<br>noble<br>improve<br>pink<br>practice<br>similar<br>frog<br>since<br>marble<br>unit<br>forest<br>attitude |  
+| bip_39_word_new_br2 | achieve<br>noble |  
+| bip_39_word_new_br3 | achieve<br>noble<br>improve |  
+| bip_39_word_new_br4 | achieve<br>noble<br>improve<br>pink |  
+| bip_39_word_new_br5 | achieve<br>noble<br>improve<br>pink<br>practice |  
+| bip_39_word_new_br6 | achieve<br>noble<br>improve<br>pink<br>practice<br>similar |  
+| bip_39_word_new_br7 | achieve<br>noble<br>improve<br>pink<br>practice<br>similar<br>frog |  
+| bip_39_word_new_br8 | achieve<br>noble<br>improve<br>pink<br>practice<br>similar<br>frog<br>since |  
+| bip_39_word_new_br9 | achieve<br>noble<br>improve<br>pink<br>practice<br>similar<br>frog<br>since<br>marble |  
+| bip_39_word_new_line1 | achieve |  
+| bip_39_word_new_line10 | achieve
+noble
+improve
+pink
+practice
+similar
+frog
+since
+marble
+unit |  
+| bip_39_word_new_line11 | achieve
+noble
+improve
+pink
+practice
+similar
+frog
+since
+marble
+unit
+forest |  
+| bip_39_word_new_line12 | achieve
+noble
+improve
+pink
+practice
+similar
+frog
+since
+marble
+unit
+forest
+attitude |  
+| bip_39_word_new_line2 | achieve
+noble |  
+| bip_39_word_new_line3 | achieve
+noble
+improve |  
+| bip_39_word_new_line4 | achieve
+noble
+improve
+pink |  
+| bip_39_word_new_line5 | achieve
+noble
+improve
+pink
+practice |  
+| bip_39_word_new_line6 | achieve
+noble
+improve
+pink
+practice
+similar |  
+| bip_39_word_new_line7 | achieve
+noble
+improve
+pink
+practice
+similar
+frog |  
+| bip_39_word_new_line8 | achieve
+noble
+improve
+pink
+practice
+similar
+frog
+since |  
+| bip_39_word_new_line9 | achieve
+noble
+improve
+pink
+practice
+similar
+frog
+since
+marble |  
+| bip_39_word_space_0 | ['achieve', 'noble', 'improve', 'pink', 'practice', 'similar', 'frog', 'since', 'marble', 'unit', 'forest', 'attitude'] |  
+| bip_39_word_space_1 | achieve |  
+| bip_39_word_space_10 | achieve noble improve pink practice similar frog since marble unit |  
+| bip_39_word_space_11 | achieve noble improve pink practice similar frog since marble unit forest |  
+| bip_39_word_space_12 | achieve noble improve pink practice similar frog since marble unit forest attitude |  
+| bip_39_word_space_2 | achieve noble |  
+| bip_39_word_space_3 | achieve noble improve |  
+| bip_39_word_space_4 | achieve noble improve pink |  
+| bip_39_word_space_5 | achieve noble improve pink practice |  
+| bip_39_word_space_6 | achieve noble improve pink practice similar |  
+| bip_39_word_space_7 | achieve noble improve pink practice similar frog |  
+| bip_39_word_space_8 | achieve noble improve pink practice similar frog since |  
+| bip_39_word_space_9 | achieve noble improve pink practice similar frog since marble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

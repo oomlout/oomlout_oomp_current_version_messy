@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pave
+bip_39_word_new_br10: pave<br>daring<br>basket<br>able<br>length<br>also<br>symptom<br>solid<br>execute<br>put
+bip_39_word_new_br11: pave<br>daring<br>basket<br>able<br>length<br>also<br>symptom<br>solid<br>execute<br>put<br>cradle
+bip_39_word_new_br12: pave<br>daring<br>basket<br>able<br>length<br>also<br>symptom<br>solid<br>execute<br>put<br>cradle<br>ability
+bip_39_word_new_br2: pave<br>daring
+bip_39_word_new_br3: pave<br>daring<br>basket
+bip_39_word_new_br4: pave<br>daring<br>basket<br>able
+bip_39_word_new_br5: pave<br>daring<br>basket<br>able<br>length
+bip_39_word_new_br6: pave<br>daring<br>basket<br>able<br>length<br>also
+bip_39_word_new_br7: pave<br>daring<br>basket<br>able<br>length<br>also<br>symptom
+bip_39_word_new_br8: pave<br>daring<br>basket<br>able<br>length<br>also<br>symptom<br>solid
+bip_39_word_new_br9: pave<br>daring<br>basket<br>able<br>length<br>also<br>symptom<br>solid<br>execute
+bip_39_word_new_line1: pave
+bip_39_word_new_line10: 'pave
+
+  daring
+
+  basket
+
+  able
+
+  length
+
+  also
+
+  symptom
+
+  solid
+
+  execute
+
+  put'
+bip_39_word_new_line11: 'pave
+
+  daring
+
+  basket
+
+  able
+
+  length
+
+  also
+
+  symptom
+
+  solid
+
+  execute
+
+  put
+
+  cradle'
+bip_39_word_new_line12: 'pave
+
+  daring
+
+  basket
+
+  able
+
+  length
+
+  also
+
+  symptom
+
+  solid
+
+  execute
+
+  put
+
+  cradle
+
+  ability'
+bip_39_word_new_line2: 'pave
+
+  daring'
+bip_39_word_new_line3: 'pave
+
+  daring
+
+  basket'
+bip_39_word_new_line4: 'pave
+
+  daring
+
+  basket
+
+  able'
+bip_39_word_new_line5: 'pave
+
+  daring
+
+  basket
+
+  able
+
+  length'
+bip_39_word_new_line6: 'pave
+
+  daring
+
+  basket
+
+  able
+
+  length
+
+  also'
+bip_39_word_new_line7: 'pave
+
+  daring
+
+  basket
+
+  able
+
+  length
+
+  also
+
+  symptom'
+bip_39_word_new_line8: 'pave
+
+  daring
+
+  basket
+
+  able
+
+  length
+
+  also
+
+  symptom
+
+  solid'
+bip_39_word_new_line9: 'pave
+
+  daring
+
+  basket
+
+  able
+
+  length
+
+  also
+
+  symptom
+
+  solid
+
+  execute'
+bip_39_word_space_0:
+- pave
+- daring
+- basket
+- able
+- length
+- also
+- symptom
+- solid
+- execute
+- put
+- cradle
+- ability
+bip_39_word_space_1: pave
+bip_39_word_space_10: pave daring basket able length also symptom solid execute put
+bip_39_word_space_11: pave daring basket able length also symptom solid execute put
+  cradle
+bip_39_word_space_12: pave daring basket able length also symptom solid execute put
+  cradle ability
+bip_39_word_space_2: pave daring
+bip_39_word_space_3: pave daring basket
+bip_39_word_space_4: pave daring basket able
+bip_39_word_space_5: pave daring basket able length
+bip_39_word_space_6: pave daring basket able length also
+bip_39_word_space_7: pave daring basket able length also symptom
+bip_39_word_space_8: pave daring basket able length also symptom solid
+bip_39_word_space_9: pave daring basket able length also symptom solid execute
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

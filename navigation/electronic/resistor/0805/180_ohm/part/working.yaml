@@ -1,3 +1,186 @@
+bip_39_word_new_br1: shine
+bip_39_word_new_br10: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid
+bip_39_word_new_br11: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid<br>flavor
+bip_39_word_new_br12: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very<br>rapid<br>flavor<br>advice
+bip_39_word_new_br2: shine<br>please
+bip_39_word_new_br3: shine<br>please<br>emerge
+bip_39_word_new_br4: shine<br>please<br>emerge<br>supreme
+bip_39_word_new_br5: shine<br>please<br>emerge<br>supreme<br>flee
+bip_39_word_new_br6: shine<br>please<br>emerge<br>supreme<br>flee<br>snow
+bip_39_word_new_br7: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid
+bip_39_word_new_br8: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival
+bip_39_word_new_br9: shine<br>please<br>emerge<br>supreme<br>flee<br>snow<br>solid<br>rival<br>very
+bip_39_word_new_line1: shine
+bip_39_word_new_line10: 'shine
+
+  please
+
+  emerge
+
+  supreme
+
+  flee
+
+  snow
+
+  solid
+
+  rival
+
+  very
+
+  rapid'
+bip_39_word_new_line11: 'shine
+
+  please
+
+  emerge
+
+  supreme
+
+  flee
+
+  snow
+
+  solid
+
+  rival
+
+  very
+
+  rapid
+
+  flavor'
+bip_39_word_new_line12: 'shine
+
+  please
+
+  emerge
+
+  supreme
+
+  flee
+
+  snow
+
+  solid
+
+  rival
+
+  very
+
+  rapid
+
+  flavor
+
+  advice'
+bip_39_word_new_line2: 'shine
+
+  please'
+bip_39_word_new_line3: 'shine
+
+  please
+
+  emerge'
+bip_39_word_new_line4: 'shine
+
+  please
+
+  emerge
+
+  supreme'
+bip_39_word_new_line5: 'shine
+
+  please
+
+  emerge
+
+  supreme
+
+  flee'
+bip_39_word_new_line6: 'shine
+
+  please
+
+  emerge
+
+  supreme
+
+  flee
+
+  snow'
+bip_39_word_new_line7: 'shine
+
+  please
+
+  emerge
+
+  supreme
+
+  flee
+
+  snow
+
+  solid'
+bip_39_word_new_line8: 'shine
+
+  please
+
+  emerge
+
+  supreme
+
+  flee
+
+  snow
+
+  solid
+
+  rival'
+bip_39_word_new_line9: 'shine
+
+  please
+
+  emerge
+
+  supreme
+
+  flee
+
+  snow
+
+  solid
+
+  rival
+
+  very'
+bip_39_word_space_0:
+- shine
+- please
+- emerge
+- supreme
+- flee
+- snow
+- solid
+- rival
+- very
+- rapid
+- flavor
+- advice
+bip_39_word_space_1: shine
+bip_39_word_space_10: shine please emerge supreme flee snow solid rival very rapid
+bip_39_word_space_11: shine please emerge supreme flee snow solid rival very rapid
+  flavor
+bip_39_word_space_12: shine please emerge supreme flee snow solid rival very rapid
+  flavor advice
+bip_39_word_space_2: shine please
+bip_39_word_space_3: shine please emerge
+bip_39_word_space_4: shine please emerge supreme
+bip_39_word_space_5: shine please emerge supreme flee
+bip_39_word_space_6: shine please emerge supreme flee snow
+bip_39_word_space_7: shine please emerge supreme flee snow solid
+bip_39_word_space_8: shine please emerge supreme flee snow solid rival
+bip_39_word_space_9: shine please emerge supreme flee snow solid rival very
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

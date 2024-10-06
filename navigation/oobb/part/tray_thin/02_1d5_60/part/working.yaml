@@ -1,3 +1,186 @@
+bip_39_word_new_br1: scheme
+bip_39_word_new_br10: scheme<br>onion<br>execute<br>vanish<br>blood<br>cream<br>zebra<br>scene<br>visit<br>point
+bip_39_word_new_br11: scheme<br>onion<br>execute<br>vanish<br>blood<br>cream<br>zebra<br>scene<br>visit<br>point<br>forward
+bip_39_word_new_br12: scheme<br>onion<br>execute<br>vanish<br>blood<br>cream<br>zebra<br>scene<br>visit<br>point<br>forward<br>alter
+bip_39_word_new_br2: scheme<br>onion
+bip_39_word_new_br3: scheme<br>onion<br>execute
+bip_39_word_new_br4: scheme<br>onion<br>execute<br>vanish
+bip_39_word_new_br5: scheme<br>onion<br>execute<br>vanish<br>blood
+bip_39_word_new_br6: scheme<br>onion<br>execute<br>vanish<br>blood<br>cream
+bip_39_word_new_br7: scheme<br>onion<br>execute<br>vanish<br>blood<br>cream<br>zebra
+bip_39_word_new_br8: scheme<br>onion<br>execute<br>vanish<br>blood<br>cream<br>zebra<br>scene
+bip_39_word_new_br9: scheme<br>onion<br>execute<br>vanish<br>blood<br>cream<br>zebra<br>scene<br>visit
+bip_39_word_new_line1: scheme
+bip_39_word_new_line10: 'scheme
+
+  onion
+
+  execute
+
+  vanish
+
+  blood
+
+  cream
+
+  zebra
+
+  scene
+
+  visit
+
+  point'
+bip_39_word_new_line11: 'scheme
+
+  onion
+
+  execute
+
+  vanish
+
+  blood
+
+  cream
+
+  zebra
+
+  scene
+
+  visit
+
+  point
+
+  forward'
+bip_39_word_new_line12: 'scheme
+
+  onion
+
+  execute
+
+  vanish
+
+  blood
+
+  cream
+
+  zebra
+
+  scene
+
+  visit
+
+  point
+
+  forward
+
+  alter'
+bip_39_word_new_line2: 'scheme
+
+  onion'
+bip_39_word_new_line3: 'scheme
+
+  onion
+
+  execute'
+bip_39_word_new_line4: 'scheme
+
+  onion
+
+  execute
+
+  vanish'
+bip_39_word_new_line5: 'scheme
+
+  onion
+
+  execute
+
+  vanish
+
+  blood'
+bip_39_word_new_line6: 'scheme
+
+  onion
+
+  execute
+
+  vanish
+
+  blood
+
+  cream'
+bip_39_word_new_line7: 'scheme
+
+  onion
+
+  execute
+
+  vanish
+
+  blood
+
+  cream
+
+  zebra'
+bip_39_word_new_line8: 'scheme
+
+  onion
+
+  execute
+
+  vanish
+
+  blood
+
+  cream
+
+  zebra
+
+  scene'
+bip_39_word_new_line9: 'scheme
+
+  onion
+
+  execute
+
+  vanish
+
+  blood
+
+  cream
+
+  zebra
+
+  scene
+
+  visit'
+bip_39_word_space_0:
+- scheme
+- onion
+- execute
+- vanish
+- blood
+- cream
+- zebra
+- scene
+- visit
+- point
+- forward
+- alter
+bip_39_word_space_1: scheme
+bip_39_word_space_10: scheme onion execute vanish blood cream zebra scene visit point
+bip_39_word_space_11: scheme onion execute vanish blood cream zebra scene visit point
+  forward
+bip_39_word_space_12: scheme onion execute vanish blood cream zebra scene visit point
+  forward alter
+bip_39_word_space_2: scheme onion
+bip_39_word_space_3: scheme onion execute
+bip_39_word_space_4: scheme onion execute vanish
+bip_39_word_space_5: scheme onion execute vanish blood
+bip_39_word_space_6: scheme onion execute vanish blood cream
+bip_39_word_space_7: scheme onion execute vanish blood cream zebra
+bip_39_word_space_8: scheme onion execute vanish blood cream zebra scene
+bip_39_word_space_9: scheme onion execute vanish blood cream zebra scene visit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

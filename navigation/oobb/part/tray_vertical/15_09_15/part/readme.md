@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shallow web
+  * bip 39 word 3: shallow web stuff
+  * bip 39 word: shallow web stuff orange wood priority summer pass page current orbit autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shallow |  
+| bip_39_word_new_br10 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority<br>summer<br>pass<br>page<br>current |  
+| bip_39_word_new_br11 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority<br>summer<br>pass<br>page<br>current<br>orbit |  
+| bip_39_word_new_br12 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority<br>summer<br>pass<br>page<br>current<br>orbit<br>autumn |  
+| bip_39_word_new_br2 | shallow<br>web |  
+| bip_39_word_new_br3 | shallow<br>web<br>stuff |  
+| bip_39_word_new_br4 | shallow<br>web<br>stuff<br>orange |  
+| bip_39_word_new_br5 | shallow<br>web<br>stuff<br>orange<br>wood |  
+| bip_39_word_new_br6 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority |  
+| bip_39_word_new_br7 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority<br>summer |  
+| bip_39_word_new_br8 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority<br>summer<br>pass |  
+| bip_39_word_new_br9 | shallow<br>web<br>stuff<br>orange<br>wood<br>priority<br>summer<br>pass<br>page |  
+| bip_39_word_new_line1 | shallow |  
+| bip_39_word_new_line10 | shallow
+web
+stuff
+orange
+wood
+priority
+summer
+pass
+page
+current |  
+| bip_39_word_new_line11 | shallow
+web
+stuff
+orange
+wood
+priority
+summer
+pass
+page
+current
+orbit |  
+| bip_39_word_new_line12 | shallow
+web
+stuff
+orange
+wood
+priority
+summer
+pass
+page
+current
+orbit
+autumn |  
+| bip_39_word_new_line2 | shallow
+web |  
+| bip_39_word_new_line3 | shallow
+web
+stuff |  
+| bip_39_word_new_line4 | shallow
+web
+stuff
+orange |  
+| bip_39_word_new_line5 | shallow
+web
+stuff
+orange
+wood |  
+| bip_39_word_new_line6 | shallow
+web
+stuff
+orange
+wood
+priority |  
+| bip_39_word_new_line7 | shallow
+web
+stuff
+orange
+wood
+priority
+summer |  
+| bip_39_word_new_line8 | shallow
+web
+stuff
+orange
+wood
+priority
+summer
+pass |  
+| bip_39_word_new_line9 | shallow
+web
+stuff
+orange
+wood
+priority
+summer
+pass
+page |  
+| bip_39_word_space_0 | ['shallow', 'web', 'stuff', 'orange', 'wood', 'priority', 'summer', 'pass', 'page', 'current', 'orbit', 'autumn'] |  
+| bip_39_word_space_1 | shallow |  
+| bip_39_word_space_10 | shallow web stuff orange wood priority summer pass page current |  
+| bip_39_word_space_11 | shallow web stuff orange wood priority summer pass page current orbit |  
+| bip_39_word_space_12 | shallow web stuff orange wood priority summer pass page current orbit autumn |  
+| bip_39_word_space_2 | shallow web |  
+| bip_39_word_space_3 | shallow web stuff |  
+| bip_39_word_space_4 | shallow web stuff orange |  
+| bip_39_word_space_5 | shallow web stuff orange wood |  
+| bip_39_word_space_6 | shallow web stuff orange wood priority |  
+| bip_39_word_space_7 | shallow web stuff orange wood priority summer |  
+| bip_39_word_space_8 | shallow web stuff orange wood priority summer pass |  
+| bip_39_word_space_9 | shallow web stuff orange wood priority summer pass page |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

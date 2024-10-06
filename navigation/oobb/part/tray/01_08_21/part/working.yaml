@@ -1,3 +1,187 @@
+bip_39_word_new_br1: defense
+bip_39_word_new_br10: defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code
+bip_39_word_new_br11: defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code<br>obvious
+bip_39_word_new_br12: defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around<br>code<br>obvious<br>adapt
+bip_39_word_new_br2: defense<br>reduce
+bip_39_word_new_br3: defense<br>reduce<br>maximum
+bip_39_word_new_br4: defense<br>reduce<br>maximum<br>doll
+bip_39_word_new_br5: defense<br>reduce<br>maximum<br>doll<br>gorilla
+bip_39_word_new_br6: defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library
+bip_39_word_new_br7: defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding
+bip_39_word_new_br8: defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety
+bip_39_word_new_br9: defense<br>reduce<br>maximum<br>doll<br>gorilla<br>library<br>pudding<br>anxiety<br>around
+bip_39_word_new_line1: defense
+bip_39_word_new_line10: 'defense
+
+  reduce
+
+  maximum
+
+  doll
+
+  gorilla
+
+  library
+
+  pudding
+
+  anxiety
+
+  around
+
+  code'
+bip_39_word_new_line11: 'defense
+
+  reduce
+
+  maximum
+
+  doll
+
+  gorilla
+
+  library
+
+  pudding
+
+  anxiety
+
+  around
+
+  code
+
+  obvious'
+bip_39_word_new_line12: 'defense
+
+  reduce
+
+  maximum
+
+  doll
+
+  gorilla
+
+  library
+
+  pudding
+
+  anxiety
+
+  around
+
+  code
+
+  obvious
+
+  adapt'
+bip_39_word_new_line2: 'defense
+
+  reduce'
+bip_39_word_new_line3: 'defense
+
+  reduce
+
+  maximum'
+bip_39_word_new_line4: 'defense
+
+  reduce
+
+  maximum
+
+  doll'
+bip_39_word_new_line5: 'defense
+
+  reduce
+
+  maximum
+
+  doll
+
+  gorilla'
+bip_39_word_new_line6: 'defense
+
+  reduce
+
+  maximum
+
+  doll
+
+  gorilla
+
+  library'
+bip_39_word_new_line7: 'defense
+
+  reduce
+
+  maximum
+
+  doll
+
+  gorilla
+
+  library
+
+  pudding'
+bip_39_word_new_line8: 'defense
+
+  reduce
+
+  maximum
+
+  doll
+
+  gorilla
+
+  library
+
+  pudding
+
+  anxiety'
+bip_39_word_new_line9: 'defense
+
+  reduce
+
+  maximum
+
+  doll
+
+  gorilla
+
+  library
+
+  pudding
+
+  anxiety
+
+  around'
+bip_39_word_space_0:
+- defense
+- reduce
+- maximum
+- doll
+- gorilla
+- library
+- pudding
+- anxiety
+- around
+- code
+- obvious
+- adapt
+bip_39_word_space_1: defense
+bip_39_word_space_10: defense reduce maximum doll gorilla library pudding anxiety
+  around code
+bip_39_word_space_11: defense reduce maximum doll gorilla library pudding anxiety
+  around code obvious
+bip_39_word_space_12: defense reduce maximum doll gorilla library pudding anxiety
+  around code obvious adapt
+bip_39_word_space_2: defense reduce
+bip_39_word_space_3: defense reduce maximum
+bip_39_word_space_4: defense reduce maximum doll
+bip_39_word_space_5: defense reduce maximum doll gorilla
+bip_39_word_space_6: defense reduce maximum doll gorilla library
+bip_39_word_space_7: defense reduce maximum doll gorilla library pudding
+bip_39_word_space_8: defense reduce maximum doll gorilla library pudding anxiety
+bip_39_word_space_9: defense reduce maximum doll gorilla library pudding anxiety around
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

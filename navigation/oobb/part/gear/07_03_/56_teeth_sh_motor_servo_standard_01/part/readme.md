@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 56_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rain decorate
+  * bip 39 word 3: rain decorate cricket
+  * bip 39 word: rain decorate cricket silk hold language agent theory quarter bring equip attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rain |  
+| bip_39_word_new_br10 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language<br>agent<br>theory<br>quarter<br>bring |  
+| bip_39_word_new_br11 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language<br>agent<br>theory<br>quarter<br>bring<br>equip |  
+| bip_39_word_new_br12 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language<br>agent<br>theory<br>quarter<br>bring<br>equip<br>attack |  
+| bip_39_word_new_br2 | rain<br>decorate |  
+| bip_39_word_new_br3 | rain<br>decorate<br>cricket |  
+| bip_39_word_new_br4 | rain<br>decorate<br>cricket<br>silk |  
+| bip_39_word_new_br5 | rain<br>decorate<br>cricket<br>silk<br>hold |  
+| bip_39_word_new_br6 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language |  
+| bip_39_word_new_br7 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language<br>agent |  
+| bip_39_word_new_br8 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language<br>agent<br>theory |  
+| bip_39_word_new_br9 | rain<br>decorate<br>cricket<br>silk<br>hold<br>language<br>agent<br>theory<br>quarter |  
+| bip_39_word_new_line1 | rain |  
+| bip_39_word_new_line10 | rain
+decorate
+cricket
+silk
+hold
+language
+agent
+theory
+quarter
+bring |  
+| bip_39_word_new_line11 | rain
+decorate
+cricket
+silk
+hold
+language
+agent
+theory
+quarter
+bring
+equip |  
+| bip_39_word_new_line12 | rain
+decorate
+cricket
+silk
+hold
+language
+agent
+theory
+quarter
+bring
+equip
+attack |  
+| bip_39_word_new_line2 | rain
+decorate |  
+| bip_39_word_new_line3 | rain
+decorate
+cricket |  
+| bip_39_word_new_line4 | rain
+decorate
+cricket
+silk |  
+| bip_39_word_new_line5 | rain
+decorate
+cricket
+silk
+hold |  
+| bip_39_word_new_line6 | rain
+decorate
+cricket
+silk
+hold
+language |  
+| bip_39_word_new_line7 | rain
+decorate
+cricket
+silk
+hold
+language
+agent |  
+| bip_39_word_new_line8 | rain
+decorate
+cricket
+silk
+hold
+language
+agent
+theory |  
+| bip_39_word_new_line9 | rain
+decorate
+cricket
+silk
+hold
+language
+agent
+theory
+quarter |  
+| bip_39_word_space_0 | ['rain', 'decorate', 'cricket', 'silk', 'hold', 'language', 'agent', 'theory', 'quarter', 'bring', 'equip', 'attack'] |  
+| bip_39_word_space_1 | rain |  
+| bip_39_word_space_10 | rain decorate cricket silk hold language agent theory quarter bring |  
+| bip_39_word_space_11 | rain decorate cricket silk hold language agent theory quarter bring equip |  
+| bip_39_word_space_12 | rain decorate cricket silk hold language agent theory quarter bring equip attack |  
+| bip_39_word_space_2 | rain decorate |  
+| bip_39_word_space_3 | rain decorate cricket |  
+| bip_39_word_space_4 | rain decorate cricket silk |  
+| bip_39_word_space_5 | rain decorate cricket silk hold |  
+| bip_39_word_space_6 | rain decorate cricket silk hold language |  
+| bip_39_word_space_7 | rain decorate cricket silk hold language agent |  
+| bip_39_word_space_8 | rain decorate cricket silk hold language agent theory |  
+| bip_39_word_space_9 | rain decorate cricket silk hold language agent theory quarter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

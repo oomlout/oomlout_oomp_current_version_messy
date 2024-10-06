@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brass major
+  * bip 39 word 3: brass major victory
+  * bip 39 word: brass major victory offer color region beyond material asthma worry riot aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brass |  
+| bip_39_word_new_br10 | brass<br>major<br>victory<br>offer<br>color<br>region<br>beyond<br>material<br>asthma<br>worry |  
+| bip_39_word_new_br11 | brass<br>major<br>victory<br>offer<br>color<br>region<br>beyond<br>material<br>asthma<br>worry<br>riot |  
+| bip_39_word_new_br12 | brass<br>major<br>victory<br>offer<br>color<br>region<br>beyond<br>material<br>asthma<br>worry<br>riot<br>aspect |  
+| bip_39_word_new_br2 | brass<br>major |  
+| bip_39_word_new_br3 | brass<br>major<br>victory |  
+| bip_39_word_new_br4 | brass<br>major<br>victory<br>offer |  
+| bip_39_word_new_br5 | brass<br>major<br>victory<br>offer<br>color |  
+| bip_39_word_new_br6 | brass<br>major<br>victory<br>offer<br>color<br>region |  
+| bip_39_word_new_br7 | brass<br>major<br>victory<br>offer<br>color<br>region<br>beyond |  
+| bip_39_word_new_br8 | brass<br>major<br>victory<br>offer<br>color<br>region<br>beyond<br>material |  
+| bip_39_word_new_br9 | brass<br>major<br>victory<br>offer<br>color<br>region<br>beyond<br>material<br>asthma |  
+| bip_39_word_new_line1 | brass |  
+| bip_39_word_new_line10 | brass
+major
+victory
+offer
+color
+region
+beyond
+material
+asthma
+worry |  
+| bip_39_word_new_line11 | brass
+major
+victory
+offer
+color
+region
+beyond
+material
+asthma
+worry
+riot |  
+| bip_39_word_new_line12 | brass
+major
+victory
+offer
+color
+region
+beyond
+material
+asthma
+worry
+riot
+aspect |  
+| bip_39_word_new_line2 | brass
+major |  
+| bip_39_word_new_line3 | brass
+major
+victory |  
+| bip_39_word_new_line4 | brass
+major
+victory
+offer |  
+| bip_39_word_new_line5 | brass
+major
+victory
+offer
+color |  
+| bip_39_word_new_line6 | brass
+major
+victory
+offer
+color
+region |  
+| bip_39_word_new_line7 | brass
+major
+victory
+offer
+color
+region
+beyond |  
+| bip_39_word_new_line8 | brass
+major
+victory
+offer
+color
+region
+beyond
+material |  
+| bip_39_word_new_line9 | brass
+major
+victory
+offer
+color
+region
+beyond
+material
+asthma |  
+| bip_39_word_space_0 | ['brass', 'major', 'victory', 'offer', 'color', 'region', 'beyond', 'material', 'asthma', 'worry', 'riot', 'aspect'] |  
+| bip_39_word_space_1 | brass |  
+| bip_39_word_space_10 | brass major victory offer color region beyond material asthma worry |  
+| bip_39_word_space_11 | brass major victory offer color region beyond material asthma worry riot |  
+| bip_39_word_space_12 | brass major victory offer color region beyond material asthma worry riot aspect |  
+| bip_39_word_space_2 | brass major |  
+| bip_39_word_space_3 | brass major victory |  
+| bip_39_word_space_4 | brass major victory offer |  
+| bip_39_word_space_5 | brass major victory offer color |  
+| bip_39_word_space_6 | brass major victory offer color region |  
+| bip_39_word_space_7 | brass major victory offer color region beyond |  
+| bip_39_word_space_8 | brass major victory offer color region beyond material |  
+| bip_39_word_space_9 | brass major victory offer color region beyond material asthma |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

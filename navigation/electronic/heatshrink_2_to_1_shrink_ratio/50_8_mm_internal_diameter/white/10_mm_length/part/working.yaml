@@ -1,3 +1,187 @@
+bip_39_word_new_br1: rigid
+bip_39_word_new_br10: rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance<br>hobby<br>flavor<br>weekend<br>dwarf
+bip_39_word_new_br11: rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance<br>hobby<br>flavor<br>weekend<br>dwarf<br>ridge
+bip_39_word_new_br12: rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance<br>hobby<br>flavor<br>weekend<br>dwarf<br>ridge<br>analyst
+bip_39_word_new_br2: rigid<br>wheat
+bip_39_word_new_br3: rigid<br>wheat<br>trick
+bip_39_word_new_br4: rigid<br>wheat<br>trick<br>plastic
+bip_39_word_new_br5: rigid<br>wheat<br>trick<br>plastic<br>nasty
+bip_39_word_new_br6: rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance
+bip_39_word_new_br7: rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance<br>hobby
+bip_39_word_new_br8: rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance<br>hobby<br>flavor
+bip_39_word_new_br9: rigid<br>wheat<br>trick<br>plastic<br>nasty<br>balance<br>hobby<br>flavor<br>weekend
+bip_39_word_new_line1: rigid
+bip_39_word_new_line10: 'rigid
+
+  wheat
+
+  trick
+
+  plastic
+
+  nasty
+
+  balance
+
+  hobby
+
+  flavor
+
+  weekend
+
+  dwarf'
+bip_39_word_new_line11: 'rigid
+
+  wheat
+
+  trick
+
+  plastic
+
+  nasty
+
+  balance
+
+  hobby
+
+  flavor
+
+  weekend
+
+  dwarf
+
+  ridge'
+bip_39_word_new_line12: 'rigid
+
+  wheat
+
+  trick
+
+  plastic
+
+  nasty
+
+  balance
+
+  hobby
+
+  flavor
+
+  weekend
+
+  dwarf
+
+  ridge
+
+  analyst'
+bip_39_word_new_line2: 'rigid
+
+  wheat'
+bip_39_word_new_line3: 'rigid
+
+  wheat
+
+  trick'
+bip_39_word_new_line4: 'rigid
+
+  wheat
+
+  trick
+
+  plastic'
+bip_39_word_new_line5: 'rigid
+
+  wheat
+
+  trick
+
+  plastic
+
+  nasty'
+bip_39_word_new_line6: 'rigid
+
+  wheat
+
+  trick
+
+  plastic
+
+  nasty
+
+  balance'
+bip_39_word_new_line7: 'rigid
+
+  wheat
+
+  trick
+
+  plastic
+
+  nasty
+
+  balance
+
+  hobby'
+bip_39_word_new_line8: 'rigid
+
+  wheat
+
+  trick
+
+  plastic
+
+  nasty
+
+  balance
+
+  hobby
+
+  flavor'
+bip_39_word_new_line9: 'rigid
+
+  wheat
+
+  trick
+
+  plastic
+
+  nasty
+
+  balance
+
+  hobby
+
+  flavor
+
+  weekend'
+bip_39_word_space_0:
+- rigid
+- wheat
+- trick
+- plastic
+- nasty
+- balance
+- hobby
+- flavor
+- weekend
+- dwarf
+- ridge
+- analyst
+bip_39_word_space_1: rigid
+bip_39_word_space_10: rigid wheat trick plastic nasty balance hobby flavor weekend
+  dwarf
+bip_39_word_space_11: rigid wheat trick plastic nasty balance hobby flavor weekend
+  dwarf ridge
+bip_39_word_space_12: rigid wheat trick plastic nasty balance hobby flavor weekend
+  dwarf ridge analyst
+bip_39_word_space_2: rigid wheat
+bip_39_word_space_3: rigid wheat trick
+bip_39_word_space_4: rigid wheat trick plastic
+bip_39_word_space_5: rigid wheat trick plastic nasty
+bip_39_word_space_6: rigid wheat trick plastic nasty balance
+bip_39_word_space_7: rigid wheat trick plastic nasty balance hobby
+bip_39_word_space_8: rigid wheat trick plastic nasty balance hobby flavor
+bip_39_word_space_9: rigid wheat trick plastic nasty balance hobby flavor weekend
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

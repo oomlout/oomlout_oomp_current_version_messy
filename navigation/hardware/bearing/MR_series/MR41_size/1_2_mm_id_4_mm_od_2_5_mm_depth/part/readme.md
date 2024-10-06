@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: either until
+  * bip 39 word 3: either until melody
+  * bip 39 word: either until melody finger message report provide lecture cook enter trouble attract
 
 ### other_codes
 * short_code: brMR41
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | either |  
+| bip_39_word_new_br10 | either<br>until<br>melody<br>finger<br>message<br>report<br>provide<br>lecture<br>cook<br>enter |  
+| bip_39_word_new_br11 | either<br>until<br>melody<br>finger<br>message<br>report<br>provide<br>lecture<br>cook<br>enter<br>trouble |  
+| bip_39_word_new_br12 | either<br>until<br>melody<br>finger<br>message<br>report<br>provide<br>lecture<br>cook<br>enter<br>trouble<br>attract |  
+| bip_39_word_new_br2 | either<br>until |  
+| bip_39_word_new_br3 | either<br>until<br>melody |  
+| bip_39_word_new_br4 | either<br>until<br>melody<br>finger |  
+| bip_39_word_new_br5 | either<br>until<br>melody<br>finger<br>message |  
+| bip_39_word_new_br6 | either<br>until<br>melody<br>finger<br>message<br>report |  
+| bip_39_word_new_br7 | either<br>until<br>melody<br>finger<br>message<br>report<br>provide |  
+| bip_39_word_new_br8 | either<br>until<br>melody<br>finger<br>message<br>report<br>provide<br>lecture |  
+| bip_39_word_new_br9 | either<br>until<br>melody<br>finger<br>message<br>report<br>provide<br>lecture<br>cook |  
+| bip_39_word_new_line1 | either |  
+| bip_39_word_new_line10 | either
+until
+melody
+finger
+message
+report
+provide
+lecture
+cook
+enter |  
+| bip_39_word_new_line11 | either
+until
+melody
+finger
+message
+report
+provide
+lecture
+cook
+enter
+trouble |  
+| bip_39_word_new_line12 | either
+until
+melody
+finger
+message
+report
+provide
+lecture
+cook
+enter
+trouble
+attract |  
+| bip_39_word_new_line2 | either
+until |  
+| bip_39_word_new_line3 | either
+until
+melody |  
+| bip_39_word_new_line4 | either
+until
+melody
+finger |  
+| bip_39_word_new_line5 | either
+until
+melody
+finger
+message |  
+| bip_39_word_new_line6 | either
+until
+melody
+finger
+message
+report |  
+| bip_39_word_new_line7 | either
+until
+melody
+finger
+message
+report
+provide |  
+| bip_39_word_new_line8 | either
+until
+melody
+finger
+message
+report
+provide
+lecture |  
+| bip_39_word_new_line9 | either
+until
+melody
+finger
+message
+report
+provide
+lecture
+cook |  
+| bip_39_word_space_0 | ['either', 'until', 'melody', 'finger', 'message', 'report', 'provide', 'lecture', 'cook', 'enter', 'trouble', 'attract'] |  
+| bip_39_word_space_1 | either |  
+| bip_39_word_space_10 | either until melody finger message report provide lecture cook enter |  
+| bip_39_word_space_11 | either until melody finger message report provide lecture cook enter trouble |  
+| bip_39_word_space_12 | either until melody finger message report provide lecture cook enter trouble attract |  
+| bip_39_word_space_2 | either until |  
+| bip_39_word_space_3 | either until melody |  
+| bip_39_word_space_4 | either until melody finger |  
+| bip_39_word_space_5 | either until melody finger message |  
+| bip_39_word_space_6 | either until melody finger message report |  
+| bip_39_word_space_7 | either until melody finger message report provide |  
+| bip_39_word_space_8 | either until melody finger message report provide lecture |  
+| bip_39_word_space_9 | either until melody finger message report provide lecture cook |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

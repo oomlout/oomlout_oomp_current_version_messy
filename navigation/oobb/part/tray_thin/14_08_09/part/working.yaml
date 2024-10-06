@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spend
+bip_39_word_new_br10: spend<br>field<br>enforce<br>dwarf<br>glance<br>prison<br>galaxy<br>rely<br>clump<br>unique
+bip_39_word_new_br11: spend<br>field<br>enforce<br>dwarf<br>glance<br>prison<br>galaxy<br>rely<br>clump<br>unique<br>route
+bip_39_word_new_br12: spend<br>field<br>enforce<br>dwarf<br>glance<br>prison<br>galaxy<br>rely<br>clump<br>unique<br>route<br>act
+bip_39_word_new_br2: spend<br>field
+bip_39_word_new_br3: spend<br>field<br>enforce
+bip_39_word_new_br4: spend<br>field<br>enforce<br>dwarf
+bip_39_word_new_br5: spend<br>field<br>enforce<br>dwarf<br>glance
+bip_39_word_new_br6: spend<br>field<br>enforce<br>dwarf<br>glance<br>prison
+bip_39_word_new_br7: spend<br>field<br>enforce<br>dwarf<br>glance<br>prison<br>galaxy
+bip_39_word_new_br8: spend<br>field<br>enforce<br>dwarf<br>glance<br>prison<br>galaxy<br>rely
+bip_39_word_new_br9: spend<br>field<br>enforce<br>dwarf<br>glance<br>prison<br>galaxy<br>rely<br>clump
+bip_39_word_new_line1: spend
+bip_39_word_new_line10: 'spend
+
+  field
+
+  enforce
+
+  dwarf
+
+  glance
+
+  prison
+
+  galaxy
+
+  rely
+
+  clump
+
+  unique'
+bip_39_word_new_line11: 'spend
+
+  field
+
+  enforce
+
+  dwarf
+
+  glance
+
+  prison
+
+  galaxy
+
+  rely
+
+  clump
+
+  unique
+
+  route'
+bip_39_word_new_line12: 'spend
+
+  field
+
+  enforce
+
+  dwarf
+
+  glance
+
+  prison
+
+  galaxy
+
+  rely
+
+  clump
+
+  unique
+
+  route
+
+  act'
+bip_39_word_new_line2: 'spend
+
+  field'
+bip_39_word_new_line3: 'spend
+
+  field
+
+  enforce'
+bip_39_word_new_line4: 'spend
+
+  field
+
+  enforce
+
+  dwarf'
+bip_39_word_new_line5: 'spend
+
+  field
+
+  enforce
+
+  dwarf
+
+  glance'
+bip_39_word_new_line6: 'spend
+
+  field
+
+  enforce
+
+  dwarf
+
+  glance
+
+  prison'
+bip_39_word_new_line7: 'spend
+
+  field
+
+  enforce
+
+  dwarf
+
+  glance
+
+  prison
+
+  galaxy'
+bip_39_word_new_line8: 'spend
+
+  field
+
+  enforce
+
+  dwarf
+
+  glance
+
+  prison
+
+  galaxy
+
+  rely'
+bip_39_word_new_line9: 'spend
+
+  field
+
+  enforce
+
+  dwarf
+
+  glance
+
+  prison
+
+  galaxy
+
+  rely
+
+  clump'
+bip_39_word_space_0:
+- spend
+- field
+- enforce
+- dwarf
+- glance
+- prison
+- galaxy
+- rely
+- clump
+- unique
+- route
+- act
+bip_39_word_space_1: spend
+bip_39_word_space_10: spend field enforce dwarf glance prison galaxy rely clump unique
+bip_39_word_space_11: spend field enforce dwarf glance prison galaxy rely clump unique
+  route
+bip_39_word_space_12: spend field enforce dwarf glance prison galaxy rely clump unique
+  route act
+bip_39_word_space_2: spend field
+bip_39_word_space_3: spend field enforce
+bip_39_word_space_4: spend field enforce dwarf
+bip_39_word_space_5: spend field enforce dwarf glance
+bip_39_word_space_6: spend field enforce dwarf glance prison
+bip_39_word_space_7: spend field enforce dwarf glance prison galaxy
+bip_39_word_space_8: spend field enforce dwarf glance prison galaxy rely
+bip_39_word_space_9: spend field enforce dwarf glance prison galaxy rely clump
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

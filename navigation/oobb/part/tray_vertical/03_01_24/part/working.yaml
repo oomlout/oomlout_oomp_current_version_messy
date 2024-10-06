@@ -1,3 +1,186 @@
+bip_39_word_new_br1: boat
+bip_39_word_new_br10: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel
+bip_39_word_new_br11: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel<br>travel
+bip_39_word_new_br12: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice<br>panel<br>travel<br>across
+bip_39_word_new_br2: boat<br>conduct
+bip_39_word_new_br3: boat<br>conduct<br>dignity
+bip_39_word_new_br4: boat<br>conduct<br>dignity<br>acid
+bip_39_word_new_br5: boat<br>conduct<br>dignity<br>acid<br>hammer
+bip_39_word_new_br6: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then
+bip_39_word_new_br7: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava
+bip_39_word_new_br8: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus
+bip_39_word_new_br9: boat<br>conduct<br>dignity<br>acid<br>hammer<br>then<br>lava<br>focus<br>rice
+bip_39_word_new_line1: boat
+bip_39_word_new_line10: 'boat
+
+  conduct
+
+  dignity
+
+  acid
+
+  hammer
+
+  then
+
+  lava
+
+  focus
+
+  rice
+
+  panel'
+bip_39_word_new_line11: 'boat
+
+  conduct
+
+  dignity
+
+  acid
+
+  hammer
+
+  then
+
+  lava
+
+  focus
+
+  rice
+
+  panel
+
+  travel'
+bip_39_word_new_line12: 'boat
+
+  conduct
+
+  dignity
+
+  acid
+
+  hammer
+
+  then
+
+  lava
+
+  focus
+
+  rice
+
+  panel
+
+  travel
+
+  across'
+bip_39_word_new_line2: 'boat
+
+  conduct'
+bip_39_word_new_line3: 'boat
+
+  conduct
+
+  dignity'
+bip_39_word_new_line4: 'boat
+
+  conduct
+
+  dignity
+
+  acid'
+bip_39_word_new_line5: 'boat
+
+  conduct
+
+  dignity
+
+  acid
+
+  hammer'
+bip_39_word_new_line6: 'boat
+
+  conduct
+
+  dignity
+
+  acid
+
+  hammer
+
+  then'
+bip_39_word_new_line7: 'boat
+
+  conduct
+
+  dignity
+
+  acid
+
+  hammer
+
+  then
+
+  lava'
+bip_39_word_new_line8: 'boat
+
+  conduct
+
+  dignity
+
+  acid
+
+  hammer
+
+  then
+
+  lava
+
+  focus'
+bip_39_word_new_line9: 'boat
+
+  conduct
+
+  dignity
+
+  acid
+
+  hammer
+
+  then
+
+  lava
+
+  focus
+
+  rice'
+bip_39_word_space_0:
+- boat
+- conduct
+- dignity
+- acid
+- hammer
+- then
+- lava
+- focus
+- rice
+- panel
+- travel
+- across
+bip_39_word_space_1: boat
+bip_39_word_space_10: boat conduct dignity acid hammer then lava focus rice panel
+bip_39_word_space_11: boat conduct dignity acid hammer then lava focus rice panel
+  travel
+bip_39_word_space_12: boat conduct dignity acid hammer then lava focus rice panel
+  travel across
+bip_39_word_space_2: boat conduct
+bip_39_word_space_3: boat conduct dignity
+bip_39_word_space_4: boat conduct dignity acid
+bip_39_word_space_5: boat conduct dignity acid hammer
+bip_39_word_space_6: boat conduct dignity acid hammer then
+bip_39_word_space_7: boat conduct dignity acid hammer then lava
+bip_39_word_space_8: boat conduct dignity acid hammer then lava focus
+bip_39_word_space_9: boat conduct dignity acid hammer then lava focus rice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

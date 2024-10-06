@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shallow unhappy
+  * bip 39 word 3: shallow unhappy tired
+  * bip 39 word: shallow unhappy tired mesh brown accident yellow original cable voice pole annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shallow |  
+| bip_39_word_new_br10 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident<br>yellow<br>original<br>cable<br>voice |  
+| bip_39_word_new_br11 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident<br>yellow<br>original<br>cable<br>voice<br>pole |  
+| bip_39_word_new_br12 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident<br>yellow<br>original<br>cable<br>voice<br>pole<br>annual |  
+| bip_39_word_new_br2 | shallow<br>unhappy |  
+| bip_39_word_new_br3 | shallow<br>unhappy<br>tired |  
+| bip_39_word_new_br4 | shallow<br>unhappy<br>tired<br>mesh |  
+| bip_39_word_new_br5 | shallow<br>unhappy<br>tired<br>mesh<br>brown |  
+| bip_39_word_new_br6 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident |  
+| bip_39_word_new_br7 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident<br>yellow |  
+| bip_39_word_new_br8 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident<br>yellow<br>original |  
+| bip_39_word_new_br9 | shallow<br>unhappy<br>tired<br>mesh<br>brown<br>accident<br>yellow<br>original<br>cable |  
+| bip_39_word_new_line1 | shallow |  
+| bip_39_word_new_line10 | shallow
+unhappy
+tired
+mesh
+brown
+accident
+yellow
+original
+cable
+voice |  
+| bip_39_word_new_line11 | shallow
+unhappy
+tired
+mesh
+brown
+accident
+yellow
+original
+cable
+voice
+pole |  
+| bip_39_word_new_line12 | shallow
+unhappy
+tired
+mesh
+brown
+accident
+yellow
+original
+cable
+voice
+pole
+annual |  
+| bip_39_word_new_line2 | shallow
+unhappy |  
+| bip_39_word_new_line3 | shallow
+unhappy
+tired |  
+| bip_39_word_new_line4 | shallow
+unhappy
+tired
+mesh |  
+| bip_39_word_new_line5 | shallow
+unhappy
+tired
+mesh
+brown |  
+| bip_39_word_new_line6 | shallow
+unhappy
+tired
+mesh
+brown
+accident |  
+| bip_39_word_new_line7 | shallow
+unhappy
+tired
+mesh
+brown
+accident
+yellow |  
+| bip_39_word_new_line8 | shallow
+unhappy
+tired
+mesh
+brown
+accident
+yellow
+original |  
+| bip_39_word_new_line9 | shallow
+unhappy
+tired
+mesh
+brown
+accident
+yellow
+original
+cable |  
+| bip_39_word_space_0 | ['shallow', 'unhappy', 'tired', 'mesh', 'brown', 'accident', 'yellow', 'original', 'cable', 'voice', 'pole', 'annual'] |  
+| bip_39_word_space_1 | shallow |  
+| bip_39_word_space_10 | shallow unhappy tired mesh brown accident yellow original cable voice |  
+| bip_39_word_space_11 | shallow unhappy tired mesh brown accident yellow original cable voice pole |  
+| bip_39_word_space_12 | shallow unhappy tired mesh brown accident yellow original cable voice pole annual |  
+| bip_39_word_space_2 | shallow unhappy |  
+| bip_39_word_space_3 | shallow unhappy tired |  
+| bip_39_word_space_4 | shallow unhappy tired mesh |  
+| bip_39_word_space_5 | shallow unhappy tired mesh brown |  
+| bip_39_word_space_6 | shallow unhappy tired mesh brown accident |  
+| bip_39_word_space_7 | shallow unhappy tired mesh brown accident yellow |  
+| bip_39_word_space_8 | shallow unhappy tired mesh brown accident yellow original |  
+| bip_39_word_space_9 | shallow unhappy tired mesh brown accident yellow original cable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

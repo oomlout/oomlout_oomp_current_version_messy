@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: genuine donkey
+  * bip 39 word 3: genuine donkey garlic
+  * bip 39 word: genuine donkey garlic decrease taxi wood unlock range lens vintage oak auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | genuine |  
+| bip_39_word_new_br10 | genuine<br>donkey<br>garlic<br>decrease<br>taxi<br>wood<br>unlock<br>range<br>lens<br>vintage |  
+| bip_39_word_new_br11 | genuine<br>donkey<br>garlic<br>decrease<br>taxi<br>wood<br>unlock<br>range<br>lens<br>vintage<br>oak |  
+| bip_39_word_new_br12 | genuine<br>donkey<br>garlic<br>decrease<br>taxi<br>wood<br>unlock<br>range<br>lens<br>vintage<br>oak<br>auction |  
+| bip_39_word_new_br2 | genuine<br>donkey |  
+| bip_39_word_new_br3 | genuine<br>donkey<br>garlic |  
+| bip_39_word_new_br4 | genuine<br>donkey<br>garlic<br>decrease |  
+| bip_39_word_new_br5 | genuine<br>donkey<br>garlic<br>decrease<br>taxi |  
+| bip_39_word_new_br6 | genuine<br>donkey<br>garlic<br>decrease<br>taxi<br>wood |  
+| bip_39_word_new_br7 | genuine<br>donkey<br>garlic<br>decrease<br>taxi<br>wood<br>unlock |  
+| bip_39_word_new_br8 | genuine<br>donkey<br>garlic<br>decrease<br>taxi<br>wood<br>unlock<br>range |  
+| bip_39_word_new_br9 | genuine<br>donkey<br>garlic<br>decrease<br>taxi<br>wood<br>unlock<br>range<br>lens |  
+| bip_39_word_new_line1 | genuine |  
+| bip_39_word_new_line10 | genuine
+donkey
+garlic
+decrease
+taxi
+wood
+unlock
+range
+lens
+vintage |  
+| bip_39_word_new_line11 | genuine
+donkey
+garlic
+decrease
+taxi
+wood
+unlock
+range
+lens
+vintage
+oak |  
+| bip_39_word_new_line12 | genuine
+donkey
+garlic
+decrease
+taxi
+wood
+unlock
+range
+lens
+vintage
+oak
+auction |  
+| bip_39_word_new_line2 | genuine
+donkey |  
+| bip_39_word_new_line3 | genuine
+donkey
+garlic |  
+| bip_39_word_new_line4 | genuine
+donkey
+garlic
+decrease |  
+| bip_39_word_new_line5 | genuine
+donkey
+garlic
+decrease
+taxi |  
+| bip_39_word_new_line6 | genuine
+donkey
+garlic
+decrease
+taxi
+wood |  
+| bip_39_word_new_line7 | genuine
+donkey
+garlic
+decrease
+taxi
+wood
+unlock |  
+| bip_39_word_new_line8 | genuine
+donkey
+garlic
+decrease
+taxi
+wood
+unlock
+range |  
+| bip_39_word_new_line9 | genuine
+donkey
+garlic
+decrease
+taxi
+wood
+unlock
+range
+lens |  
+| bip_39_word_space_0 | ['genuine', 'donkey', 'garlic', 'decrease', 'taxi', 'wood', 'unlock', 'range', 'lens', 'vintage', 'oak', 'auction'] |  
+| bip_39_word_space_1 | genuine |  
+| bip_39_word_space_10 | genuine donkey garlic decrease taxi wood unlock range lens vintage |  
+| bip_39_word_space_11 | genuine donkey garlic decrease taxi wood unlock range lens vintage oak |  
+| bip_39_word_space_12 | genuine donkey garlic decrease taxi wood unlock range lens vintage oak auction |  
+| bip_39_word_space_2 | genuine donkey |  
+| bip_39_word_space_3 | genuine donkey garlic |  
+| bip_39_word_space_4 | genuine donkey garlic decrease |  
+| bip_39_word_space_5 | genuine donkey garlic decrease taxi |  
+| bip_39_word_space_6 | genuine donkey garlic decrease taxi wood |  
+| bip_39_word_space_7 | genuine donkey garlic decrease taxi wood unlock |  
+| bip_39_word_space_8 | genuine donkey garlic decrease taxi wood unlock range |  
+| bip_39_word_space_9 | genuine donkey garlic decrease taxi wood unlock range lens |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

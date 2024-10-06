@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lemon hurry
+  * bip 39 word 3: lemon hurry electric
+  * bip 39 word: lemon hurry electric loop junior person retire turtle idea matrix matrix almost
 
 ### other_codes
 * short_code: br6824
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lemon |  
+| bip_39_word_new_br10 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person<br>retire<br>turtle<br>idea<br>matrix |  
+| bip_39_word_new_br11 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person<br>retire<br>turtle<br>idea<br>matrix<br>matrix |  
+| bip_39_word_new_br12 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person<br>retire<br>turtle<br>idea<br>matrix<br>matrix<br>almost |  
+| bip_39_word_new_br2 | lemon<br>hurry |  
+| bip_39_word_new_br3 | lemon<br>hurry<br>electric |  
+| bip_39_word_new_br4 | lemon<br>hurry<br>electric<br>loop |  
+| bip_39_word_new_br5 | lemon<br>hurry<br>electric<br>loop<br>junior |  
+| bip_39_word_new_br6 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person |  
+| bip_39_word_new_br7 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person<br>retire |  
+| bip_39_word_new_br8 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person<br>retire<br>turtle |  
+| bip_39_word_new_br9 | lemon<br>hurry<br>electric<br>loop<br>junior<br>person<br>retire<br>turtle<br>idea |  
+| bip_39_word_new_line1 | lemon |  
+| bip_39_word_new_line10 | lemon
+hurry
+electric
+loop
+junior
+person
+retire
+turtle
+idea
+matrix |  
+| bip_39_word_new_line11 | lemon
+hurry
+electric
+loop
+junior
+person
+retire
+turtle
+idea
+matrix
+matrix |  
+| bip_39_word_new_line12 | lemon
+hurry
+electric
+loop
+junior
+person
+retire
+turtle
+idea
+matrix
+matrix
+almost |  
+| bip_39_word_new_line2 | lemon
+hurry |  
+| bip_39_word_new_line3 | lemon
+hurry
+electric |  
+| bip_39_word_new_line4 | lemon
+hurry
+electric
+loop |  
+| bip_39_word_new_line5 | lemon
+hurry
+electric
+loop
+junior |  
+| bip_39_word_new_line6 | lemon
+hurry
+electric
+loop
+junior
+person |  
+| bip_39_word_new_line7 | lemon
+hurry
+electric
+loop
+junior
+person
+retire |  
+| bip_39_word_new_line8 | lemon
+hurry
+electric
+loop
+junior
+person
+retire
+turtle |  
+| bip_39_word_new_line9 | lemon
+hurry
+electric
+loop
+junior
+person
+retire
+turtle
+idea |  
+| bip_39_word_space_0 | ['lemon', 'hurry', 'electric', 'loop', 'junior', 'person', 'retire', 'turtle', 'idea', 'matrix', 'matrix', 'almost'] |  
+| bip_39_word_space_1 | lemon |  
+| bip_39_word_space_10 | lemon hurry electric loop junior person retire turtle idea matrix |  
+| bip_39_word_space_11 | lemon hurry electric loop junior person retire turtle idea matrix matrix |  
+| bip_39_word_space_12 | lemon hurry electric loop junior person retire turtle idea matrix matrix almost |  
+| bip_39_word_space_2 | lemon hurry |  
+| bip_39_word_space_3 | lemon hurry electric |  
+| bip_39_word_space_4 | lemon hurry electric loop |  
+| bip_39_word_space_5 | lemon hurry electric loop junior |  
+| bip_39_word_space_6 | lemon hurry electric loop junior person |  
+| bip_39_word_space_7 | lemon hurry electric loop junior person retire |  
+| bip_39_word_space_8 | lemon hurry electric loop junior person retire turtle |  
+| bip_39_word_space_9 | lemon hurry electric loop junior person retire turtle idea |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

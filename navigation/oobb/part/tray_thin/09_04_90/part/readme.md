@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: float rain
+  * bip 39 word 3: float rain miracle
+  * bip 39 word: float rain miracle labor portion allow surround minor success crumble little antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | float |  
+| bip_39_word_new_br10 | float<br>rain<br>miracle<br>labor<br>portion<br>allow<br>surround<br>minor<br>success<br>crumble |  
+| bip_39_word_new_br11 | float<br>rain<br>miracle<br>labor<br>portion<br>allow<br>surround<br>minor<br>success<br>crumble<br>little |  
+| bip_39_word_new_br12 | float<br>rain<br>miracle<br>labor<br>portion<br>allow<br>surround<br>minor<br>success<br>crumble<br>little<br>antique |  
+| bip_39_word_new_br2 | float<br>rain |  
+| bip_39_word_new_br3 | float<br>rain<br>miracle |  
+| bip_39_word_new_br4 | float<br>rain<br>miracle<br>labor |  
+| bip_39_word_new_br5 | float<br>rain<br>miracle<br>labor<br>portion |  
+| bip_39_word_new_br6 | float<br>rain<br>miracle<br>labor<br>portion<br>allow |  
+| bip_39_word_new_br7 | float<br>rain<br>miracle<br>labor<br>portion<br>allow<br>surround |  
+| bip_39_word_new_br8 | float<br>rain<br>miracle<br>labor<br>portion<br>allow<br>surround<br>minor |  
+| bip_39_word_new_br9 | float<br>rain<br>miracle<br>labor<br>portion<br>allow<br>surround<br>minor<br>success |  
+| bip_39_word_new_line1 | float |  
+| bip_39_word_new_line10 | float
+rain
+miracle
+labor
+portion
+allow
+surround
+minor
+success
+crumble |  
+| bip_39_word_new_line11 | float
+rain
+miracle
+labor
+portion
+allow
+surround
+minor
+success
+crumble
+little |  
+| bip_39_word_new_line12 | float
+rain
+miracle
+labor
+portion
+allow
+surround
+minor
+success
+crumble
+little
+antique |  
+| bip_39_word_new_line2 | float
+rain |  
+| bip_39_word_new_line3 | float
+rain
+miracle |  
+| bip_39_word_new_line4 | float
+rain
+miracle
+labor |  
+| bip_39_word_new_line5 | float
+rain
+miracle
+labor
+portion |  
+| bip_39_word_new_line6 | float
+rain
+miracle
+labor
+portion
+allow |  
+| bip_39_word_new_line7 | float
+rain
+miracle
+labor
+portion
+allow
+surround |  
+| bip_39_word_new_line8 | float
+rain
+miracle
+labor
+portion
+allow
+surround
+minor |  
+| bip_39_word_new_line9 | float
+rain
+miracle
+labor
+portion
+allow
+surround
+minor
+success |  
+| bip_39_word_space_0 | ['float', 'rain', 'miracle', 'labor', 'portion', 'allow', 'surround', 'minor', 'success', 'crumble', 'little', 'antique'] |  
+| bip_39_word_space_1 | float |  
+| bip_39_word_space_10 | float rain miracle labor portion allow surround minor success crumble |  
+| bip_39_word_space_11 | float rain miracle labor portion allow surround minor success crumble little |  
+| bip_39_word_space_12 | float rain miracle labor portion allow surround minor success crumble little antique |  
+| bip_39_word_space_2 | float rain |  
+| bip_39_word_space_3 | float rain miracle |  
+| bip_39_word_space_4 | float rain miracle labor |  
+| bip_39_word_space_5 | float rain miracle labor portion |  
+| bip_39_word_space_6 | float rain miracle labor portion allow |  
+| bip_39_word_space_7 | float rain miracle labor portion allow surround |  
+| bip_39_word_space_8 | float rain miracle labor portion allow surround minor |  
+| bip_39_word_space_9 | float rain miracle labor portion allow surround minor success |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

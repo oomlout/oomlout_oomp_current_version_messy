@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wing photo
+  * bip 39 word 3: wing photo parrot
+  * bip 39 word: wing photo parrot hockey legend anchor execute cluster license dish wealth arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wing |  
+| bip_39_word_new_br10 | wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor<br>execute<br>cluster<br>license<br>dish |  
+| bip_39_word_new_br11 | wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor<br>execute<br>cluster<br>license<br>dish<br>wealth |  
+| bip_39_word_new_br12 | wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor<br>execute<br>cluster<br>license<br>dish<br>wealth<br>arena |  
+| bip_39_word_new_br2 | wing<br>photo |  
+| bip_39_word_new_br3 | wing<br>photo<br>parrot |  
+| bip_39_word_new_br4 | wing<br>photo<br>parrot<br>hockey |  
+| bip_39_word_new_br5 | wing<br>photo<br>parrot<br>hockey<br>legend |  
+| bip_39_word_new_br6 | wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor |  
+| bip_39_word_new_br7 | wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor<br>execute |  
+| bip_39_word_new_br8 | wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor<br>execute<br>cluster |  
+| bip_39_word_new_br9 | wing<br>photo<br>parrot<br>hockey<br>legend<br>anchor<br>execute<br>cluster<br>license |  
+| bip_39_word_new_line1 | wing |  
+| bip_39_word_new_line10 | wing
+photo
+parrot
+hockey
+legend
+anchor
+execute
+cluster
+license
+dish |  
+| bip_39_word_new_line11 | wing
+photo
+parrot
+hockey
+legend
+anchor
+execute
+cluster
+license
+dish
+wealth |  
+| bip_39_word_new_line12 | wing
+photo
+parrot
+hockey
+legend
+anchor
+execute
+cluster
+license
+dish
+wealth
+arena |  
+| bip_39_word_new_line2 | wing
+photo |  
+| bip_39_word_new_line3 | wing
+photo
+parrot |  
+| bip_39_word_new_line4 | wing
+photo
+parrot
+hockey |  
+| bip_39_word_new_line5 | wing
+photo
+parrot
+hockey
+legend |  
+| bip_39_word_new_line6 | wing
+photo
+parrot
+hockey
+legend
+anchor |  
+| bip_39_word_new_line7 | wing
+photo
+parrot
+hockey
+legend
+anchor
+execute |  
+| bip_39_word_new_line8 | wing
+photo
+parrot
+hockey
+legend
+anchor
+execute
+cluster |  
+| bip_39_word_new_line9 | wing
+photo
+parrot
+hockey
+legend
+anchor
+execute
+cluster
+license |  
+| bip_39_word_space_0 | ['wing', 'photo', 'parrot', 'hockey', 'legend', 'anchor', 'execute', 'cluster', 'license', 'dish', 'wealth', 'arena'] |  
+| bip_39_word_space_1 | wing |  
+| bip_39_word_space_10 | wing photo parrot hockey legend anchor execute cluster license dish |  
+| bip_39_word_space_11 | wing photo parrot hockey legend anchor execute cluster license dish wealth |  
+| bip_39_word_space_12 | wing photo parrot hockey legend anchor execute cluster license dish wealth arena |  
+| bip_39_word_space_2 | wing photo |  
+| bip_39_word_space_3 | wing photo parrot |  
+| bip_39_word_space_4 | wing photo parrot hockey |  
+| bip_39_word_space_5 | wing photo parrot hockey legend |  
+| bip_39_word_space_6 | wing photo parrot hockey legend anchor |  
+| bip_39_word_space_7 | wing photo parrot hockey legend anchor execute |  
+| bip_39_word_space_8 | wing photo parrot hockey legend anchor execute cluster |  
+| bip_39_word_space_9 | wing photo parrot hockey legend anchor execute cluster license |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

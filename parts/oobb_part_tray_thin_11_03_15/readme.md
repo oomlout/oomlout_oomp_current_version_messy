@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: degree session
+  * bip 39 word 3: degree session exhaust
+  * bip 39 word: degree session exhaust anxiety book napkin submit portion main trumpet destroy asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | degree |  
+| bip_39_word_new_br10 | degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin<br>submit<br>portion<br>main<br>trumpet |  
+| bip_39_word_new_br11 | degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin<br>submit<br>portion<br>main<br>trumpet<br>destroy |  
+| bip_39_word_new_br12 | degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin<br>submit<br>portion<br>main<br>trumpet<br>destroy<br>asset |  
+| bip_39_word_new_br2 | degree<br>session |  
+| bip_39_word_new_br3 | degree<br>session<br>exhaust |  
+| bip_39_word_new_br4 | degree<br>session<br>exhaust<br>anxiety |  
+| bip_39_word_new_br5 | degree<br>session<br>exhaust<br>anxiety<br>book |  
+| bip_39_word_new_br6 | degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin |  
+| bip_39_word_new_br7 | degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin<br>submit |  
+| bip_39_word_new_br8 | degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin<br>submit<br>portion |  
+| bip_39_word_new_br9 | degree<br>session<br>exhaust<br>anxiety<br>book<br>napkin<br>submit<br>portion<br>main |  
+| bip_39_word_new_line1 | degree |  
+| bip_39_word_new_line10 | degree
+session
+exhaust
+anxiety
+book
+napkin
+submit
+portion
+main
+trumpet |  
+| bip_39_word_new_line11 | degree
+session
+exhaust
+anxiety
+book
+napkin
+submit
+portion
+main
+trumpet
+destroy |  
+| bip_39_word_new_line12 | degree
+session
+exhaust
+anxiety
+book
+napkin
+submit
+portion
+main
+trumpet
+destroy
+asset |  
+| bip_39_word_new_line2 | degree
+session |  
+| bip_39_word_new_line3 | degree
+session
+exhaust |  
+| bip_39_word_new_line4 | degree
+session
+exhaust
+anxiety |  
+| bip_39_word_new_line5 | degree
+session
+exhaust
+anxiety
+book |  
+| bip_39_word_new_line6 | degree
+session
+exhaust
+anxiety
+book
+napkin |  
+| bip_39_word_new_line7 | degree
+session
+exhaust
+anxiety
+book
+napkin
+submit |  
+| bip_39_word_new_line8 | degree
+session
+exhaust
+anxiety
+book
+napkin
+submit
+portion |  
+| bip_39_word_new_line9 | degree
+session
+exhaust
+anxiety
+book
+napkin
+submit
+portion
+main |  
+| bip_39_word_space_0 | ['degree', 'session', 'exhaust', 'anxiety', 'book', 'napkin', 'submit', 'portion', 'main', 'trumpet', 'destroy', 'asset'] |  
+| bip_39_word_space_1 | degree |  
+| bip_39_word_space_10 | degree session exhaust anxiety book napkin submit portion main trumpet |  
+| bip_39_word_space_11 | degree session exhaust anxiety book napkin submit portion main trumpet destroy |  
+| bip_39_word_space_12 | degree session exhaust anxiety book napkin submit portion main trumpet destroy asset |  
+| bip_39_word_space_2 | degree session |  
+| bip_39_word_space_3 | degree session exhaust |  
+| bip_39_word_space_4 | degree session exhaust anxiety |  
+| bip_39_word_space_5 | degree session exhaust anxiety book |  
+| bip_39_word_space_6 | degree session exhaust anxiety book napkin |  
+| bip_39_word_space_7 | degree session exhaust anxiety book napkin submit |  
+| bip_39_word_space_8 | degree session exhaust anxiety book napkin submit portion |  
+| bip_39_word_space_9 | degree session exhaust anxiety book napkin submit portion main |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

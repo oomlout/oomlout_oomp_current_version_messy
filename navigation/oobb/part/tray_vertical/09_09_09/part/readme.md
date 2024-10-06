@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: knife anchor
+  * bip 39 word 3: knife anchor filter
+  * bip 39 word: knife anchor filter foot bubble buddy cash park twenty window syrup amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | knife |  
+| bip_39_word_new_br10 | knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy<br>cash<br>park<br>twenty<br>window |  
+| bip_39_word_new_br11 | knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy<br>cash<br>park<br>twenty<br>window<br>syrup |  
+| bip_39_word_new_br12 | knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy<br>cash<br>park<br>twenty<br>window<br>syrup<br>amazing |  
+| bip_39_word_new_br2 | knife<br>anchor |  
+| bip_39_word_new_br3 | knife<br>anchor<br>filter |  
+| bip_39_word_new_br4 | knife<br>anchor<br>filter<br>foot |  
+| bip_39_word_new_br5 | knife<br>anchor<br>filter<br>foot<br>bubble |  
+| bip_39_word_new_br6 | knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy |  
+| bip_39_word_new_br7 | knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy<br>cash |  
+| bip_39_word_new_br8 | knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy<br>cash<br>park |  
+| bip_39_word_new_br9 | knife<br>anchor<br>filter<br>foot<br>bubble<br>buddy<br>cash<br>park<br>twenty |  
+| bip_39_word_new_line1 | knife |  
+| bip_39_word_new_line10 | knife
+anchor
+filter
+foot
+bubble
+buddy
+cash
+park
+twenty
+window |  
+| bip_39_word_new_line11 | knife
+anchor
+filter
+foot
+bubble
+buddy
+cash
+park
+twenty
+window
+syrup |  
+| bip_39_word_new_line12 | knife
+anchor
+filter
+foot
+bubble
+buddy
+cash
+park
+twenty
+window
+syrup
+amazing |  
+| bip_39_word_new_line2 | knife
+anchor |  
+| bip_39_word_new_line3 | knife
+anchor
+filter |  
+| bip_39_word_new_line4 | knife
+anchor
+filter
+foot |  
+| bip_39_word_new_line5 | knife
+anchor
+filter
+foot
+bubble |  
+| bip_39_word_new_line6 | knife
+anchor
+filter
+foot
+bubble
+buddy |  
+| bip_39_word_new_line7 | knife
+anchor
+filter
+foot
+bubble
+buddy
+cash |  
+| bip_39_word_new_line8 | knife
+anchor
+filter
+foot
+bubble
+buddy
+cash
+park |  
+| bip_39_word_new_line9 | knife
+anchor
+filter
+foot
+bubble
+buddy
+cash
+park
+twenty |  
+| bip_39_word_space_0 | ['knife', 'anchor', 'filter', 'foot', 'bubble', 'buddy', 'cash', 'park', 'twenty', 'window', 'syrup', 'amazing'] |  
+| bip_39_word_space_1 | knife |  
+| bip_39_word_space_10 | knife anchor filter foot bubble buddy cash park twenty window |  
+| bip_39_word_space_11 | knife anchor filter foot bubble buddy cash park twenty window syrup |  
+| bip_39_word_space_12 | knife anchor filter foot bubble buddy cash park twenty window syrup amazing |  
+| bip_39_word_space_2 | knife anchor |  
+| bip_39_word_space_3 | knife anchor filter |  
+| bip_39_word_space_4 | knife anchor filter foot |  
+| bip_39_word_space_5 | knife anchor filter foot bubble |  
+| bip_39_word_space_6 | knife anchor filter foot bubble buddy |  
+| bip_39_word_space_7 | knife anchor filter foot bubble buddy cash |  
+| bip_39_word_space_8 | knife anchor filter foot bubble buddy cash park |  
+| bip_39_word_space_9 | knife anchor filter foot bubble buddy cash park twenty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

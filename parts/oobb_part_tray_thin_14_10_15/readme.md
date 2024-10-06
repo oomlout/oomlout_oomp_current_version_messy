@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: convince notice
+  * bip 39 word 3: convince notice please
+  * bip 39 word: convince notice please pulp pepper sudden require rubber square master normal agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | convince |  
+| bip_39_word_new_br10 | convince<br>notice<br>please<br>pulp<br>pepper<br>sudden<br>require<br>rubber<br>square<br>master |  
+| bip_39_word_new_br11 | convince<br>notice<br>please<br>pulp<br>pepper<br>sudden<br>require<br>rubber<br>square<br>master<br>normal |  
+| bip_39_word_new_br12 | convince<br>notice<br>please<br>pulp<br>pepper<br>sudden<br>require<br>rubber<br>square<br>master<br>normal<br>agent |  
+| bip_39_word_new_br2 | convince<br>notice |  
+| bip_39_word_new_br3 | convince<br>notice<br>please |  
+| bip_39_word_new_br4 | convince<br>notice<br>please<br>pulp |  
+| bip_39_word_new_br5 | convince<br>notice<br>please<br>pulp<br>pepper |  
+| bip_39_word_new_br6 | convince<br>notice<br>please<br>pulp<br>pepper<br>sudden |  
+| bip_39_word_new_br7 | convince<br>notice<br>please<br>pulp<br>pepper<br>sudden<br>require |  
+| bip_39_word_new_br8 | convince<br>notice<br>please<br>pulp<br>pepper<br>sudden<br>require<br>rubber |  
+| bip_39_word_new_br9 | convince<br>notice<br>please<br>pulp<br>pepper<br>sudden<br>require<br>rubber<br>square |  
+| bip_39_word_new_line1 | convince |  
+| bip_39_word_new_line10 | convince
+notice
+please
+pulp
+pepper
+sudden
+require
+rubber
+square
+master |  
+| bip_39_word_new_line11 | convince
+notice
+please
+pulp
+pepper
+sudden
+require
+rubber
+square
+master
+normal |  
+| bip_39_word_new_line12 | convince
+notice
+please
+pulp
+pepper
+sudden
+require
+rubber
+square
+master
+normal
+agent |  
+| bip_39_word_new_line2 | convince
+notice |  
+| bip_39_word_new_line3 | convince
+notice
+please |  
+| bip_39_word_new_line4 | convince
+notice
+please
+pulp |  
+| bip_39_word_new_line5 | convince
+notice
+please
+pulp
+pepper |  
+| bip_39_word_new_line6 | convince
+notice
+please
+pulp
+pepper
+sudden |  
+| bip_39_word_new_line7 | convince
+notice
+please
+pulp
+pepper
+sudden
+require |  
+| bip_39_word_new_line8 | convince
+notice
+please
+pulp
+pepper
+sudden
+require
+rubber |  
+| bip_39_word_new_line9 | convince
+notice
+please
+pulp
+pepper
+sudden
+require
+rubber
+square |  
+| bip_39_word_space_0 | ['convince', 'notice', 'please', 'pulp', 'pepper', 'sudden', 'require', 'rubber', 'square', 'master', 'normal', 'agent'] |  
+| bip_39_word_space_1 | convince |  
+| bip_39_word_space_10 | convince notice please pulp pepper sudden require rubber square master |  
+| bip_39_word_space_11 | convince notice please pulp pepper sudden require rubber square master normal |  
+| bip_39_word_space_12 | convince notice please pulp pepper sudden require rubber square master normal agent |  
+| bip_39_word_space_2 | convince notice |  
+| bip_39_word_space_3 | convince notice please |  
+| bip_39_word_space_4 | convince notice please pulp |  
+| bip_39_word_space_5 | convince notice please pulp pepper |  
+| bip_39_word_space_6 | convince notice please pulp pepper sudden |  
+| bip_39_word_space_7 | convince notice please pulp pepper sudden require |  
+| bip_39_word_space_8 | convince notice please pulp pepper sudden require rubber |  
+| bip_39_word_space_9 | convince notice please pulp pepper sudden require rubber square |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

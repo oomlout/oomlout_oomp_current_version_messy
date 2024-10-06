@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pelican foot
+  * bip 39 word 3: pelican foot verify
+  * bip 39 word: pelican foot verify glow magic shove candy farm common private equal about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pelican |  
+| bip_39_word_new_br10 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private |  
+| bip_39_word_new_br11 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal |  
+| bip_39_word_new_br12 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal<br>about |  
+| bip_39_word_new_br2 | pelican<br>foot |  
+| bip_39_word_new_br3 | pelican<br>foot<br>verify |  
+| bip_39_word_new_br4 | pelican<br>foot<br>verify<br>glow |  
+| bip_39_word_new_br5 | pelican<br>foot<br>verify<br>glow<br>magic |  
+| bip_39_word_new_br6 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove |  
+| bip_39_word_new_br7 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy |  
+| bip_39_word_new_br8 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm |  
+| bip_39_word_new_br9 | pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common |  
+| bip_39_word_new_line1 | pelican |  
+| bip_39_word_new_line10 | pelican
+foot
+verify
+glow
+magic
+shove
+candy
+farm
+common
+private |  
+| bip_39_word_new_line11 | pelican
+foot
+verify
+glow
+magic
+shove
+candy
+farm
+common
+private
+equal |  
+| bip_39_word_new_line12 | pelican
+foot
+verify
+glow
+magic
+shove
+candy
+farm
+common
+private
+equal
+about |  
+| bip_39_word_new_line2 | pelican
+foot |  
+| bip_39_word_new_line3 | pelican
+foot
+verify |  
+| bip_39_word_new_line4 | pelican
+foot
+verify
+glow |  
+| bip_39_word_new_line5 | pelican
+foot
+verify
+glow
+magic |  
+| bip_39_word_new_line6 | pelican
+foot
+verify
+glow
+magic
+shove |  
+| bip_39_word_new_line7 | pelican
+foot
+verify
+glow
+magic
+shove
+candy |  
+| bip_39_word_new_line8 | pelican
+foot
+verify
+glow
+magic
+shove
+candy
+farm |  
+| bip_39_word_new_line9 | pelican
+foot
+verify
+glow
+magic
+shove
+candy
+farm
+common |  
+| bip_39_word_space_0 | ['pelican', 'foot', 'verify', 'glow', 'magic', 'shove', 'candy', 'farm', 'common', 'private', 'equal', 'about'] |  
+| bip_39_word_space_1 | pelican |  
+| bip_39_word_space_10 | pelican foot verify glow magic shove candy farm common private |  
+| bip_39_word_space_11 | pelican foot verify glow magic shove candy farm common private equal |  
+| bip_39_word_space_12 | pelican foot verify glow magic shove candy farm common private equal about |  
+| bip_39_word_space_2 | pelican foot |  
+| bip_39_word_space_3 | pelican foot verify |  
+| bip_39_word_space_4 | pelican foot verify glow |  
+| bip_39_word_space_5 | pelican foot verify glow magic |  
+| bip_39_word_space_6 | pelican foot verify glow magic shove |  
+| bip_39_word_space_7 | pelican foot verify glow magic shove candy |  
+| bip_39_word_space_8 | pelican foot verify glow magic shove candy farm |  
+| bip_39_word_space_9 | pelican foot verify glow magic shove candy farm common |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

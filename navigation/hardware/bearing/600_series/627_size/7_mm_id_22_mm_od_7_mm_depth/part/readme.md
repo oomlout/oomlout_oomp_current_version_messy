@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arrange box
+  * bip 39 word 3: arrange box casual
+  * bip 39 word: arrange box casual release remember spread curious never accident unable boil alone
 
 ### other_codes
 * short_code: br627
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arrange |  
+| bip_39_word_new_br10 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable |  
+| bip_39_word_new_br11 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable<br>boil |  
+| bip_39_word_new_br12 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident<br>unable<br>boil<br>alone |  
+| bip_39_word_new_br2 | arrange<br>box |  
+| bip_39_word_new_br3 | arrange<br>box<br>casual |  
+| bip_39_word_new_br4 | arrange<br>box<br>casual<br>release |  
+| bip_39_word_new_br5 | arrange<br>box<br>casual<br>release<br>remember |  
+| bip_39_word_new_br6 | arrange<br>box<br>casual<br>release<br>remember<br>spread |  
+| bip_39_word_new_br7 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious |  
+| bip_39_word_new_br8 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never |  
+| bip_39_word_new_br9 | arrange<br>box<br>casual<br>release<br>remember<br>spread<br>curious<br>never<br>accident |  
+| bip_39_word_new_line1 | arrange |  
+| bip_39_word_new_line10 | arrange
+box
+casual
+release
+remember
+spread
+curious
+never
+accident
+unable |  
+| bip_39_word_new_line11 | arrange
+box
+casual
+release
+remember
+spread
+curious
+never
+accident
+unable
+boil |  
+| bip_39_word_new_line12 | arrange
+box
+casual
+release
+remember
+spread
+curious
+never
+accident
+unable
+boil
+alone |  
+| bip_39_word_new_line2 | arrange
+box |  
+| bip_39_word_new_line3 | arrange
+box
+casual |  
+| bip_39_word_new_line4 | arrange
+box
+casual
+release |  
+| bip_39_word_new_line5 | arrange
+box
+casual
+release
+remember |  
+| bip_39_word_new_line6 | arrange
+box
+casual
+release
+remember
+spread |  
+| bip_39_word_new_line7 | arrange
+box
+casual
+release
+remember
+spread
+curious |  
+| bip_39_word_new_line8 | arrange
+box
+casual
+release
+remember
+spread
+curious
+never |  
+| bip_39_word_new_line9 | arrange
+box
+casual
+release
+remember
+spread
+curious
+never
+accident |  
+| bip_39_word_space_0 | ['arrange', 'box', 'casual', 'release', 'remember', 'spread', 'curious', 'never', 'accident', 'unable', 'boil', 'alone'] |  
+| bip_39_word_space_1 | arrange |  
+| bip_39_word_space_10 | arrange box casual release remember spread curious never accident unable |  
+| bip_39_word_space_11 | arrange box casual release remember spread curious never accident unable boil |  
+| bip_39_word_space_12 | arrange box casual release remember spread curious never accident unable boil alone |  
+| bip_39_word_space_2 | arrange box |  
+| bip_39_word_space_3 | arrange box casual |  
+| bip_39_word_space_4 | arrange box casual release |  
+| bip_39_word_space_5 | arrange box casual release remember |  
+| bip_39_word_space_6 | arrange box casual release remember spread |  
+| bip_39_word_space_7 | arrange box casual release remember spread curious |  
+| bip_39_word_space_8 | arrange box casual release remember spread curious never |  
+| bip_39_word_space_9 | arrange box casual release remember spread curious never accident |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

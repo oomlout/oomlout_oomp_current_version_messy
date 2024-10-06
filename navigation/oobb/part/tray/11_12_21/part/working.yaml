@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gossip
+bip_39_word_new_br10: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim
+bip_39_word_new_br11: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim<br>night
+bip_39_word_new_br12: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge<br>slim<br>night<br>affair
+bip_39_word_new_br2: gossip<br>column
+bip_39_word_new_br3: gossip<br>column<br>way
+bip_39_word_new_br4: gossip<br>column<br>way<br>swear
+bip_39_word_new_br5: gossip<br>column<br>way<br>swear<br>letter
+bip_39_word_new_br6: gossip<br>column<br>way<br>swear<br>letter<br>kitchen
+bip_39_word_new_br7: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil
+bip_39_word_new_br8: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow
+bip_39_word_new_br9: gossip<br>column<br>way<br>swear<br>letter<br>kitchen<br>boil<br>follow<br>edge
+bip_39_word_new_line1: gossip
+bip_39_word_new_line10: 'gossip
+
+  column
+
+  way
+
+  swear
+
+  letter
+
+  kitchen
+
+  boil
+
+  follow
+
+  edge
+
+  slim'
+bip_39_word_new_line11: 'gossip
+
+  column
+
+  way
+
+  swear
+
+  letter
+
+  kitchen
+
+  boil
+
+  follow
+
+  edge
+
+  slim
+
+  night'
+bip_39_word_new_line12: 'gossip
+
+  column
+
+  way
+
+  swear
+
+  letter
+
+  kitchen
+
+  boil
+
+  follow
+
+  edge
+
+  slim
+
+  night
+
+  affair'
+bip_39_word_new_line2: 'gossip
+
+  column'
+bip_39_word_new_line3: 'gossip
+
+  column
+
+  way'
+bip_39_word_new_line4: 'gossip
+
+  column
+
+  way
+
+  swear'
+bip_39_word_new_line5: 'gossip
+
+  column
+
+  way
+
+  swear
+
+  letter'
+bip_39_word_new_line6: 'gossip
+
+  column
+
+  way
+
+  swear
+
+  letter
+
+  kitchen'
+bip_39_word_new_line7: 'gossip
+
+  column
+
+  way
+
+  swear
+
+  letter
+
+  kitchen
+
+  boil'
+bip_39_word_new_line8: 'gossip
+
+  column
+
+  way
+
+  swear
+
+  letter
+
+  kitchen
+
+  boil
+
+  follow'
+bip_39_word_new_line9: 'gossip
+
+  column
+
+  way
+
+  swear
+
+  letter
+
+  kitchen
+
+  boil
+
+  follow
+
+  edge'
+bip_39_word_space_0:
+- gossip
+- column
+- way
+- swear
+- letter
+- kitchen
+- boil
+- follow
+- edge
+- slim
+- night
+- affair
+bip_39_word_space_1: gossip
+bip_39_word_space_10: gossip column way swear letter kitchen boil follow edge slim
+bip_39_word_space_11: gossip column way swear letter kitchen boil follow edge slim
+  night
+bip_39_word_space_12: gossip column way swear letter kitchen boil follow edge slim
+  night affair
+bip_39_word_space_2: gossip column
+bip_39_word_space_3: gossip column way
+bip_39_word_space_4: gossip column way swear
+bip_39_word_space_5: gossip column way swear letter
+bip_39_word_space_6: gossip column way swear letter kitchen
+bip_39_word_space_7: gossip column way swear letter kitchen boil
+bip_39_word_space_8: gossip column way swear letter kitchen boil follow
+bip_39_word_space_9: gossip column way swear letter kitchen boil follow edge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

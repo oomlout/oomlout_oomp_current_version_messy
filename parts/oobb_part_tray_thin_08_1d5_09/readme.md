@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: attend father
+  * bip 39 word 3: attend father similar
+  * bip 39 word: attend father similar wolf album mesh green follow phrase sock grow apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | attend |  
+| bip_39_word_new_br10 | attend<br>father<br>similar<br>wolf<br>album<br>mesh<br>green<br>follow<br>phrase<br>sock |  
+| bip_39_word_new_br11 | attend<br>father<br>similar<br>wolf<br>album<br>mesh<br>green<br>follow<br>phrase<br>sock<br>grow |  
+| bip_39_word_new_br12 | attend<br>father<br>similar<br>wolf<br>album<br>mesh<br>green<br>follow<br>phrase<br>sock<br>grow<br>apple |  
+| bip_39_word_new_br2 | attend<br>father |  
+| bip_39_word_new_br3 | attend<br>father<br>similar |  
+| bip_39_word_new_br4 | attend<br>father<br>similar<br>wolf |  
+| bip_39_word_new_br5 | attend<br>father<br>similar<br>wolf<br>album |  
+| bip_39_word_new_br6 | attend<br>father<br>similar<br>wolf<br>album<br>mesh |  
+| bip_39_word_new_br7 | attend<br>father<br>similar<br>wolf<br>album<br>mesh<br>green |  
+| bip_39_word_new_br8 | attend<br>father<br>similar<br>wolf<br>album<br>mesh<br>green<br>follow |  
+| bip_39_word_new_br9 | attend<br>father<br>similar<br>wolf<br>album<br>mesh<br>green<br>follow<br>phrase |  
+| bip_39_word_new_line1 | attend |  
+| bip_39_word_new_line10 | attend
+father
+similar
+wolf
+album
+mesh
+green
+follow
+phrase
+sock |  
+| bip_39_word_new_line11 | attend
+father
+similar
+wolf
+album
+mesh
+green
+follow
+phrase
+sock
+grow |  
+| bip_39_word_new_line12 | attend
+father
+similar
+wolf
+album
+mesh
+green
+follow
+phrase
+sock
+grow
+apple |  
+| bip_39_word_new_line2 | attend
+father |  
+| bip_39_word_new_line3 | attend
+father
+similar |  
+| bip_39_word_new_line4 | attend
+father
+similar
+wolf |  
+| bip_39_word_new_line5 | attend
+father
+similar
+wolf
+album |  
+| bip_39_word_new_line6 | attend
+father
+similar
+wolf
+album
+mesh |  
+| bip_39_word_new_line7 | attend
+father
+similar
+wolf
+album
+mesh
+green |  
+| bip_39_word_new_line8 | attend
+father
+similar
+wolf
+album
+mesh
+green
+follow |  
+| bip_39_word_new_line9 | attend
+father
+similar
+wolf
+album
+mesh
+green
+follow
+phrase |  
+| bip_39_word_space_0 | ['attend', 'father', 'similar', 'wolf', 'album', 'mesh', 'green', 'follow', 'phrase', 'sock', 'grow', 'apple'] |  
+| bip_39_word_space_1 | attend |  
+| bip_39_word_space_10 | attend father similar wolf album mesh green follow phrase sock |  
+| bip_39_word_space_11 | attend father similar wolf album mesh green follow phrase sock grow |  
+| bip_39_word_space_12 | attend father similar wolf album mesh green follow phrase sock grow apple |  
+| bip_39_word_space_2 | attend father |  
+| bip_39_word_space_3 | attend father similar |  
+| bip_39_word_space_4 | attend father similar wolf |  
+| bip_39_word_space_5 | attend father similar wolf album |  
+| bip_39_word_space_6 | attend father similar wolf album mesh |  
+| bip_39_word_space_7 | attend father similar wolf album mesh green |  
+| bip_39_word_space_8 | attend father similar wolf album mesh green follow |  
+| bip_39_word_space_9 | attend father similar wolf album mesh green follow phrase |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: capital uphold
+  * bip 39 word 3: capital uphold impulse
+  * bip 39 word: capital uphold impulse head goat neglect behind surge deliver model rally arena
 
 ### other_codes
 * short_code: br5313
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | capital |  
+| bip_39_word_new_br10 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model |  
+| bip_39_word_new_br11 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model<br>rally |  
+| bip_39_word_new_br12 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver<br>model<br>rally<br>arena |  
+| bip_39_word_new_br2 | capital<br>uphold |  
+| bip_39_word_new_br3 | capital<br>uphold<br>impulse |  
+| bip_39_word_new_br4 | capital<br>uphold<br>impulse<br>head |  
+| bip_39_word_new_br5 | capital<br>uphold<br>impulse<br>head<br>goat |  
+| bip_39_word_new_br6 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect |  
+| bip_39_word_new_br7 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind |  
+| bip_39_word_new_br8 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge |  
+| bip_39_word_new_br9 | capital<br>uphold<br>impulse<br>head<br>goat<br>neglect<br>behind<br>surge<br>deliver |  
+| bip_39_word_new_line1 | capital |  
+| bip_39_word_new_line10 | capital
+uphold
+impulse
+head
+goat
+neglect
+behind
+surge
+deliver
+model |  
+| bip_39_word_new_line11 | capital
+uphold
+impulse
+head
+goat
+neglect
+behind
+surge
+deliver
+model
+rally |  
+| bip_39_word_new_line12 | capital
+uphold
+impulse
+head
+goat
+neglect
+behind
+surge
+deliver
+model
+rally
+arena |  
+| bip_39_word_new_line2 | capital
+uphold |  
+| bip_39_word_new_line3 | capital
+uphold
+impulse |  
+| bip_39_word_new_line4 | capital
+uphold
+impulse
+head |  
+| bip_39_word_new_line5 | capital
+uphold
+impulse
+head
+goat |  
+| bip_39_word_new_line6 | capital
+uphold
+impulse
+head
+goat
+neglect |  
+| bip_39_word_new_line7 | capital
+uphold
+impulse
+head
+goat
+neglect
+behind |  
+| bip_39_word_new_line8 | capital
+uphold
+impulse
+head
+goat
+neglect
+behind
+surge |  
+| bip_39_word_new_line9 | capital
+uphold
+impulse
+head
+goat
+neglect
+behind
+surge
+deliver |  
+| bip_39_word_space_0 | ['capital', 'uphold', 'impulse', 'head', 'goat', 'neglect', 'behind', 'surge', 'deliver', 'model', 'rally', 'arena'] |  
+| bip_39_word_space_1 | capital |  
+| bip_39_word_space_10 | capital uphold impulse head goat neglect behind surge deliver model |  
+| bip_39_word_space_11 | capital uphold impulse head goat neglect behind surge deliver model rally |  
+| bip_39_word_space_12 | capital uphold impulse head goat neglect behind surge deliver model rally arena |  
+| bip_39_word_space_2 | capital uphold |  
+| bip_39_word_space_3 | capital uphold impulse |  
+| bip_39_word_space_4 | capital uphold impulse head |  
+| bip_39_word_space_5 | capital uphold impulse head goat |  
+| bip_39_word_space_6 | capital uphold impulse head goat neglect |  
+| bip_39_word_space_7 | capital uphold impulse head goat neglect behind |  
+| bip_39_word_space_8 | capital uphold impulse head goat neglect behind surge |  
+| bip_39_word_space_9 | capital uphold impulse head goat neglect behind surge deliver |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: exchange
+bip_39_word_new_br10: exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge<br>cause<br>stage<br>rain<br>profit
+bip_39_word_new_br11: exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge<br>cause<br>stage<br>rain<br>profit<br>laptop
+bip_39_word_new_br12: exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge<br>cause<br>stage<br>rain<br>profit<br>laptop<br>admit
+bip_39_word_new_br2: exchange<br>vacuum
+bip_39_word_new_br3: exchange<br>vacuum<br>nasty
+bip_39_word_new_br4: exchange<br>vacuum<br>nasty<br>gauge
+bip_39_word_new_br5: exchange<br>vacuum<br>nasty<br>gauge<br>medal
+bip_39_word_new_br6: exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge
+bip_39_word_new_br7: exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge<br>cause
+bip_39_word_new_br8: exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge<br>cause<br>stage
+bip_39_word_new_br9: exchange<br>vacuum<br>nasty<br>gauge<br>medal<br>charge<br>cause<br>stage<br>rain
+bip_39_word_new_line1: exchange
+bip_39_word_new_line10: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge
+
+  medal
+
+  charge
+
+  cause
+
+  stage
+
+  rain
+
+  profit'
+bip_39_word_new_line11: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge
+
+  medal
+
+  charge
+
+  cause
+
+  stage
+
+  rain
+
+  profit
+
+  laptop'
+bip_39_word_new_line12: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge
+
+  medal
+
+  charge
+
+  cause
+
+  stage
+
+  rain
+
+  profit
+
+  laptop
+
+  admit'
+bip_39_word_new_line2: 'exchange
+
+  vacuum'
+bip_39_word_new_line3: 'exchange
+
+  vacuum
+
+  nasty'
+bip_39_word_new_line4: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge'
+bip_39_word_new_line5: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge
+
+  medal'
+bip_39_word_new_line6: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge
+
+  medal
+
+  charge'
+bip_39_word_new_line7: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge
+
+  medal
+
+  charge
+
+  cause'
+bip_39_word_new_line8: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge
+
+  medal
+
+  charge
+
+  cause
+
+  stage'
+bip_39_word_new_line9: 'exchange
+
+  vacuum
+
+  nasty
+
+  gauge
+
+  medal
+
+  charge
+
+  cause
+
+  stage
+
+  rain'
+bip_39_word_space_0:
+- exchange
+- vacuum
+- nasty
+- gauge
+- medal
+- charge
+- cause
+- stage
+- rain
+- profit
+- laptop
+- admit
+bip_39_word_space_1: exchange
+bip_39_word_space_10: exchange vacuum nasty gauge medal charge cause stage rain profit
+bip_39_word_space_11: exchange vacuum nasty gauge medal charge cause stage rain profit
+  laptop
+bip_39_word_space_12: exchange vacuum nasty gauge medal charge cause stage rain profit
+  laptop admit
+bip_39_word_space_2: exchange vacuum
+bip_39_word_space_3: exchange vacuum nasty
+bip_39_word_space_4: exchange vacuum nasty gauge
+bip_39_word_space_5: exchange vacuum nasty gauge medal
+bip_39_word_space_6: exchange vacuum nasty gauge medal charge
+bip_39_word_space_7: exchange vacuum nasty gauge medal charge cause
+bip_39_word_space_8: exchange vacuum nasty gauge medal charge cause stage
+bip_39_word_space_9: exchange vacuum nasty gauge medal charge cause stage rain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

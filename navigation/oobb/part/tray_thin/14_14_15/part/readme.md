@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: opera reflect
+  * bip 39 word 3: opera reflect boy
+  * bip 39 word: opera reflect boy autumn powder insane annual alcohol green fiscal demise absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | opera |  
+| bip_39_word_new_br10 | opera<br>reflect<br>boy<br>autumn<br>powder<br>insane<br>annual<br>alcohol<br>green<br>fiscal |  
+| bip_39_word_new_br11 | opera<br>reflect<br>boy<br>autumn<br>powder<br>insane<br>annual<br>alcohol<br>green<br>fiscal<br>demise |  
+| bip_39_word_new_br12 | opera<br>reflect<br>boy<br>autumn<br>powder<br>insane<br>annual<br>alcohol<br>green<br>fiscal<br>demise<br>absent |  
+| bip_39_word_new_br2 | opera<br>reflect |  
+| bip_39_word_new_br3 | opera<br>reflect<br>boy |  
+| bip_39_word_new_br4 | opera<br>reflect<br>boy<br>autumn |  
+| bip_39_word_new_br5 | opera<br>reflect<br>boy<br>autumn<br>powder |  
+| bip_39_word_new_br6 | opera<br>reflect<br>boy<br>autumn<br>powder<br>insane |  
+| bip_39_word_new_br7 | opera<br>reflect<br>boy<br>autumn<br>powder<br>insane<br>annual |  
+| bip_39_word_new_br8 | opera<br>reflect<br>boy<br>autumn<br>powder<br>insane<br>annual<br>alcohol |  
+| bip_39_word_new_br9 | opera<br>reflect<br>boy<br>autumn<br>powder<br>insane<br>annual<br>alcohol<br>green |  
+| bip_39_word_new_line1 | opera |  
+| bip_39_word_new_line10 | opera
+reflect
+boy
+autumn
+powder
+insane
+annual
+alcohol
+green
+fiscal |  
+| bip_39_word_new_line11 | opera
+reflect
+boy
+autumn
+powder
+insane
+annual
+alcohol
+green
+fiscal
+demise |  
+| bip_39_word_new_line12 | opera
+reflect
+boy
+autumn
+powder
+insane
+annual
+alcohol
+green
+fiscal
+demise
+absent |  
+| bip_39_word_new_line2 | opera
+reflect |  
+| bip_39_word_new_line3 | opera
+reflect
+boy |  
+| bip_39_word_new_line4 | opera
+reflect
+boy
+autumn |  
+| bip_39_word_new_line5 | opera
+reflect
+boy
+autumn
+powder |  
+| bip_39_word_new_line6 | opera
+reflect
+boy
+autumn
+powder
+insane |  
+| bip_39_word_new_line7 | opera
+reflect
+boy
+autumn
+powder
+insane
+annual |  
+| bip_39_word_new_line8 | opera
+reflect
+boy
+autumn
+powder
+insane
+annual
+alcohol |  
+| bip_39_word_new_line9 | opera
+reflect
+boy
+autumn
+powder
+insane
+annual
+alcohol
+green |  
+| bip_39_word_space_0 | ['opera', 'reflect', 'boy', 'autumn', 'powder', 'insane', 'annual', 'alcohol', 'green', 'fiscal', 'demise', 'absent'] |  
+| bip_39_word_space_1 | opera |  
+| bip_39_word_space_10 | opera reflect boy autumn powder insane annual alcohol green fiscal |  
+| bip_39_word_space_11 | opera reflect boy autumn powder insane annual alcohol green fiscal demise |  
+| bip_39_word_space_12 | opera reflect boy autumn powder insane annual alcohol green fiscal demise absent |  
+| bip_39_word_space_2 | opera reflect |  
+| bip_39_word_space_3 | opera reflect boy |  
+| bip_39_word_space_4 | opera reflect boy autumn |  
+| bip_39_word_space_5 | opera reflect boy autumn powder |  
+| bip_39_word_space_6 | opera reflect boy autumn powder insane |  
+| bip_39_word_space_7 | opera reflect boy autumn powder insane annual |  
+| bip_39_word_space_8 | opera reflect boy autumn powder insane annual alcohol |  
+| bip_39_word_space_9 | opera reflect boy autumn powder insane annual alcohol green |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

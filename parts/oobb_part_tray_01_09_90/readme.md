@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enemy shrimp
+  * bip 39 word 3: enemy shrimp unique
+  * bip 39 word: enemy shrimp unique heavy evil sock observe repeat cargo boil off absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enemy |  
+| bip_39_word_new_br10 | enemy<br>shrimp<br>unique<br>heavy<br>evil<br>sock<br>observe<br>repeat<br>cargo<br>boil |  
+| bip_39_word_new_br11 | enemy<br>shrimp<br>unique<br>heavy<br>evil<br>sock<br>observe<br>repeat<br>cargo<br>boil<br>off |  
+| bip_39_word_new_br12 | enemy<br>shrimp<br>unique<br>heavy<br>evil<br>sock<br>observe<br>repeat<br>cargo<br>boil<br>off<br>absent |  
+| bip_39_word_new_br2 | enemy<br>shrimp |  
+| bip_39_word_new_br3 | enemy<br>shrimp<br>unique |  
+| bip_39_word_new_br4 | enemy<br>shrimp<br>unique<br>heavy |  
+| bip_39_word_new_br5 | enemy<br>shrimp<br>unique<br>heavy<br>evil |  
+| bip_39_word_new_br6 | enemy<br>shrimp<br>unique<br>heavy<br>evil<br>sock |  
+| bip_39_word_new_br7 | enemy<br>shrimp<br>unique<br>heavy<br>evil<br>sock<br>observe |  
+| bip_39_word_new_br8 | enemy<br>shrimp<br>unique<br>heavy<br>evil<br>sock<br>observe<br>repeat |  
+| bip_39_word_new_br9 | enemy<br>shrimp<br>unique<br>heavy<br>evil<br>sock<br>observe<br>repeat<br>cargo |  
+| bip_39_word_new_line1 | enemy |  
+| bip_39_word_new_line10 | enemy
+shrimp
+unique
+heavy
+evil
+sock
+observe
+repeat
+cargo
+boil |  
+| bip_39_word_new_line11 | enemy
+shrimp
+unique
+heavy
+evil
+sock
+observe
+repeat
+cargo
+boil
+off |  
+| bip_39_word_new_line12 | enemy
+shrimp
+unique
+heavy
+evil
+sock
+observe
+repeat
+cargo
+boil
+off
+absent |  
+| bip_39_word_new_line2 | enemy
+shrimp |  
+| bip_39_word_new_line3 | enemy
+shrimp
+unique |  
+| bip_39_word_new_line4 | enemy
+shrimp
+unique
+heavy |  
+| bip_39_word_new_line5 | enemy
+shrimp
+unique
+heavy
+evil |  
+| bip_39_word_new_line6 | enemy
+shrimp
+unique
+heavy
+evil
+sock |  
+| bip_39_word_new_line7 | enemy
+shrimp
+unique
+heavy
+evil
+sock
+observe |  
+| bip_39_word_new_line8 | enemy
+shrimp
+unique
+heavy
+evil
+sock
+observe
+repeat |  
+| bip_39_word_new_line9 | enemy
+shrimp
+unique
+heavy
+evil
+sock
+observe
+repeat
+cargo |  
+| bip_39_word_space_0 | ['enemy', 'shrimp', 'unique', 'heavy', 'evil', 'sock', 'observe', 'repeat', 'cargo', 'boil', 'off', 'absent'] |  
+| bip_39_word_space_1 | enemy |  
+| bip_39_word_space_10 | enemy shrimp unique heavy evil sock observe repeat cargo boil |  
+| bip_39_word_space_11 | enemy shrimp unique heavy evil sock observe repeat cargo boil off |  
+| bip_39_word_space_12 | enemy shrimp unique heavy evil sock observe repeat cargo boil off absent |  
+| bip_39_word_space_2 | enemy shrimp |  
+| bip_39_word_space_3 | enemy shrimp unique |  
+| bip_39_word_space_4 | enemy shrimp unique heavy |  
+| bip_39_word_space_5 | enemy shrimp unique heavy evil |  
+| bip_39_word_space_6 | enemy shrimp unique heavy evil sock |  
+| bip_39_word_space_7 | enemy shrimp unique heavy evil sock observe |  
+| bip_39_word_space_8 | enemy shrimp unique heavy evil sock observe repeat |  
+| bip_39_word_space_9 | enemy shrimp unique heavy evil sock observe repeat cargo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

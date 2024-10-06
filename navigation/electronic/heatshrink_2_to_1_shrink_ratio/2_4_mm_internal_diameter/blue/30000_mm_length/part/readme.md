@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gloom ask
+  * bip 39 word 3: gloom ask gather
+  * bip 39 word: gloom ask gather claim truck hollow isolate rain multiply vacant found assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gloom |  
+| bip_39_word_new_br10 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow<br>isolate<br>rain<br>multiply<br>vacant |  
+| bip_39_word_new_br11 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow<br>isolate<br>rain<br>multiply<br>vacant<br>found |  
+| bip_39_word_new_br12 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow<br>isolate<br>rain<br>multiply<br>vacant<br>found<br>assist |  
+| bip_39_word_new_br2 | gloom<br>ask |  
+| bip_39_word_new_br3 | gloom<br>ask<br>gather |  
+| bip_39_word_new_br4 | gloom<br>ask<br>gather<br>claim |  
+| bip_39_word_new_br5 | gloom<br>ask<br>gather<br>claim<br>truck |  
+| bip_39_word_new_br6 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow |  
+| bip_39_word_new_br7 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow<br>isolate |  
+| bip_39_word_new_br8 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow<br>isolate<br>rain |  
+| bip_39_word_new_br9 | gloom<br>ask<br>gather<br>claim<br>truck<br>hollow<br>isolate<br>rain<br>multiply |  
+| bip_39_word_new_line1 | gloom |  
+| bip_39_word_new_line10 | gloom
+ask
+gather
+claim
+truck
+hollow
+isolate
+rain
+multiply
+vacant |  
+| bip_39_word_new_line11 | gloom
+ask
+gather
+claim
+truck
+hollow
+isolate
+rain
+multiply
+vacant
+found |  
+| bip_39_word_new_line12 | gloom
+ask
+gather
+claim
+truck
+hollow
+isolate
+rain
+multiply
+vacant
+found
+assist |  
+| bip_39_word_new_line2 | gloom
+ask |  
+| bip_39_word_new_line3 | gloom
+ask
+gather |  
+| bip_39_word_new_line4 | gloom
+ask
+gather
+claim |  
+| bip_39_word_new_line5 | gloom
+ask
+gather
+claim
+truck |  
+| bip_39_word_new_line6 | gloom
+ask
+gather
+claim
+truck
+hollow |  
+| bip_39_word_new_line7 | gloom
+ask
+gather
+claim
+truck
+hollow
+isolate |  
+| bip_39_word_new_line8 | gloom
+ask
+gather
+claim
+truck
+hollow
+isolate
+rain |  
+| bip_39_word_new_line9 | gloom
+ask
+gather
+claim
+truck
+hollow
+isolate
+rain
+multiply |  
+| bip_39_word_space_0 | ['gloom', 'ask', 'gather', 'claim', 'truck', 'hollow', 'isolate', 'rain', 'multiply', 'vacant', 'found', 'assist'] |  
+| bip_39_word_space_1 | gloom |  
+| bip_39_word_space_10 | gloom ask gather claim truck hollow isolate rain multiply vacant |  
+| bip_39_word_space_11 | gloom ask gather claim truck hollow isolate rain multiply vacant found |  
+| bip_39_word_space_12 | gloom ask gather claim truck hollow isolate rain multiply vacant found assist |  
+| bip_39_word_space_2 | gloom ask |  
+| bip_39_word_space_3 | gloom ask gather |  
+| bip_39_word_space_4 | gloom ask gather claim |  
+| bip_39_word_space_5 | gloom ask gather claim truck |  
+| bip_39_word_space_6 | gloom ask gather claim truck hollow |  
+| bip_39_word_space_7 | gloom ask gather claim truck hollow isolate |  
+| bip_39_word_space_8 | gloom ask gather claim truck hollow isolate rain |  
+| bip_39_word_space_9 | gloom ask gather claim truck hollow isolate rain multiply |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

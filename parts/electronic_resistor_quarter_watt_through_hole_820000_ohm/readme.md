@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: material miracle
+  * bip 39 word 3: material miracle shrimp
+  * bip 39 word: material miracle shrimp help boil praise cause swallow way culture shoot ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | material |  
+| bip_39_word_new_br10 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture |  
+| bip_39_word_new_br11 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture<br>shoot |  
+| bip_39_word_new_br12 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way<br>culture<br>shoot<br>ahead |  
+| bip_39_word_new_br2 | material<br>miracle |  
+| bip_39_word_new_br3 | material<br>miracle<br>shrimp |  
+| bip_39_word_new_br4 | material<br>miracle<br>shrimp<br>help |  
+| bip_39_word_new_br5 | material<br>miracle<br>shrimp<br>help<br>boil |  
+| bip_39_word_new_br6 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise |  
+| bip_39_word_new_br7 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause |  
+| bip_39_word_new_br8 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow |  
+| bip_39_word_new_br9 | material<br>miracle<br>shrimp<br>help<br>boil<br>praise<br>cause<br>swallow<br>way |  
+| bip_39_word_new_line1 | material |  
+| bip_39_word_new_line10 | material
+miracle
+shrimp
+help
+boil
+praise
+cause
+swallow
+way
+culture |  
+| bip_39_word_new_line11 | material
+miracle
+shrimp
+help
+boil
+praise
+cause
+swallow
+way
+culture
+shoot |  
+| bip_39_word_new_line12 | material
+miracle
+shrimp
+help
+boil
+praise
+cause
+swallow
+way
+culture
+shoot
+ahead |  
+| bip_39_word_new_line2 | material
+miracle |  
+| bip_39_word_new_line3 | material
+miracle
+shrimp |  
+| bip_39_word_new_line4 | material
+miracle
+shrimp
+help |  
+| bip_39_word_new_line5 | material
+miracle
+shrimp
+help
+boil |  
+| bip_39_word_new_line6 | material
+miracle
+shrimp
+help
+boil
+praise |  
+| bip_39_word_new_line7 | material
+miracle
+shrimp
+help
+boil
+praise
+cause |  
+| bip_39_word_new_line8 | material
+miracle
+shrimp
+help
+boil
+praise
+cause
+swallow |  
+| bip_39_word_new_line9 | material
+miracle
+shrimp
+help
+boil
+praise
+cause
+swallow
+way |  
+| bip_39_word_space_0 | ['material', 'miracle', 'shrimp', 'help', 'boil', 'praise', 'cause', 'swallow', 'way', 'culture', 'shoot', 'ahead'] |  
+| bip_39_word_space_1 | material |  
+| bip_39_word_space_10 | material miracle shrimp help boil praise cause swallow way culture |  
+| bip_39_word_space_11 | material miracle shrimp help boil praise cause swallow way culture shoot |  
+| bip_39_word_space_12 | material miracle shrimp help boil praise cause swallow way culture shoot ahead |  
+| bip_39_word_space_2 | material miracle |  
+| bip_39_word_space_3 | material miracle shrimp |  
+| bip_39_word_space_4 | material miracle shrimp help |  
+| bip_39_word_space_5 | material miracle shrimp help boil |  
+| bip_39_word_space_6 | material miracle shrimp help boil praise |  
+| bip_39_word_space_7 | material miracle shrimp help boil praise cause |  
+| bip_39_word_space_8 | material miracle shrimp help boil praise cause swallow |  
+| bip_39_word_space_9 | material miracle shrimp help boil praise cause swallow way |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

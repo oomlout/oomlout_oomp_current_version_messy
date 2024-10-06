@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrong process
+  * bip 39 word 3: wrong process stone
+  * bip 39 word: wrong process stone gasp exact wire glimpse fever hobby nasty taxi airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrong |  
+| bip_39_word_new_br10 | wrong<br>process<br>stone<br>gasp<br>exact<br>wire<br>glimpse<br>fever<br>hobby<br>nasty |  
+| bip_39_word_new_br11 | wrong<br>process<br>stone<br>gasp<br>exact<br>wire<br>glimpse<br>fever<br>hobby<br>nasty<br>taxi |  
+| bip_39_word_new_br12 | wrong<br>process<br>stone<br>gasp<br>exact<br>wire<br>glimpse<br>fever<br>hobby<br>nasty<br>taxi<br>airport |  
+| bip_39_word_new_br2 | wrong<br>process |  
+| bip_39_word_new_br3 | wrong<br>process<br>stone |  
+| bip_39_word_new_br4 | wrong<br>process<br>stone<br>gasp |  
+| bip_39_word_new_br5 | wrong<br>process<br>stone<br>gasp<br>exact |  
+| bip_39_word_new_br6 | wrong<br>process<br>stone<br>gasp<br>exact<br>wire |  
+| bip_39_word_new_br7 | wrong<br>process<br>stone<br>gasp<br>exact<br>wire<br>glimpse |  
+| bip_39_word_new_br8 | wrong<br>process<br>stone<br>gasp<br>exact<br>wire<br>glimpse<br>fever |  
+| bip_39_word_new_br9 | wrong<br>process<br>stone<br>gasp<br>exact<br>wire<br>glimpse<br>fever<br>hobby |  
+| bip_39_word_new_line1 | wrong |  
+| bip_39_word_new_line10 | wrong
+process
+stone
+gasp
+exact
+wire
+glimpse
+fever
+hobby
+nasty |  
+| bip_39_word_new_line11 | wrong
+process
+stone
+gasp
+exact
+wire
+glimpse
+fever
+hobby
+nasty
+taxi |  
+| bip_39_word_new_line12 | wrong
+process
+stone
+gasp
+exact
+wire
+glimpse
+fever
+hobby
+nasty
+taxi
+airport |  
+| bip_39_word_new_line2 | wrong
+process |  
+| bip_39_word_new_line3 | wrong
+process
+stone |  
+| bip_39_word_new_line4 | wrong
+process
+stone
+gasp |  
+| bip_39_word_new_line5 | wrong
+process
+stone
+gasp
+exact |  
+| bip_39_word_new_line6 | wrong
+process
+stone
+gasp
+exact
+wire |  
+| bip_39_word_new_line7 | wrong
+process
+stone
+gasp
+exact
+wire
+glimpse |  
+| bip_39_word_new_line8 | wrong
+process
+stone
+gasp
+exact
+wire
+glimpse
+fever |  
+| bip_39_word_new_line9 | wrong
+process
+stone
+gasp
+exact
+wire
+glimpse
+fever
+hobby |  
+| bip_39_word_space_0 | ['wrong', 'process', 'stone', 'gasp', 'exact', 'wire', 'glimpse', 'fever', 'hobby', 'nasty', 'taxi', 'airport'] |  
+| bip_39_word_space_1 | wrong |  
+| bip_39_word_space_10 | wrong process stone gasp exact wire glimpse fever hobby nasty |  
+| bip_39_word_space_11 | wrong process stone gasp exact wire glimpse fever hobby nasty taxi |  
+| bip_39_word_space_12 | wrong process stone gasp exact wire glimpse fever hobby nasty taxi airport |  
+| bip_39_word_space_2 | wrong process |  
+| bip_39_word_space_3 | wrong process stone |  
+| bip_39_word_space_4 | wrong process stone gasp |  
+| bip_39_word_space_5 | wrong process stone gasp exact |  
+| bip_39_word_space_6 | wrong process stone gasp exact wire |  
+| bip_39_word_space_7 | wrong process stone gasp exact wire glimpse |  
+| bip_39_word_space_8 | wrong process stone gasp exact wire glimpse fever |  
+| bip_39_word_space_9 | wrong process stone gasp exact wire glimpse fever hobby |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

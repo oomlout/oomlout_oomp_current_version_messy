@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: beach body
+  * bip 39 word 3: beach body foster
+  * bip 39 word: beach body foster leave marble crawl fog second crouch pave equip artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | beach |  
+| bip_39_word_new_br10 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave |  
+| bip_39_word_new_br11 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave<br>equip |  
+| bip_39_word_new_br12 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch<br>pave<br>equip<br>artefact |  
+| bip_39_word_new_br2 | beach<br>body |  
+| bip_39_word_new_br3 | beach<br>body<br>foster |  
+| bip_39_word_new_br4 | beach<br>body<br>foster<br>leave |  
+| bip_39_word_new_br5 | beach<br>body<br>foster<br>leave<br>marble |  
+| bip_39_word_new_br6 | beach<br>body<br>foster<br>leave<br>marble<br>crawl |  
+| bip_39_word_new_br7 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog |  
+| bip_39_word_new_br8 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second |  
+| bip_39_word_new_br9 | beach<br>body<br>foster<br>leave<br>marble<br>crawl<br>fog<br>second<br>crouch |  
+| bip_39_word_new_line1 | beach |  
+| bip_39_word_new_line10 | beach
+body
+foster
+leave
+marble
+crawl
+fog
+second
+crouch
+pave |  
+| bip_39_word_new_line11 | beach
+body
+foster
+leave
+marble
+crawl
+fog
+second
+crouch
+pave
+equip |  
+| bip_39_word_new_line12 | beach
+body
+foster
+leave
+marble
+crawl
+fog
+second
+crouch
+pave
+equip
+artefact |  
+| bip_39_word_new_line2 | beach
+body |  
+| bip_39_word_new_line3 | beach
+body
+foster |  
+| bip_39_word_new_line4 | beach
+body
+foster
+leave |  
+| bip_39_word_new_line5 | beach
+body
+foster
+leave
+marble |  
+| bip_39_word_new_line6 | beach
+body
+foster
+leave
+marble
+crawl |  
+| bip_39_word_new_line7 | beach
+body
+foster
+leave
+marble
+crawl
+fog |  
+| bip_39_word_new_line8 | beach
+body
+foster
+leave
+marble
+crawl
+fog
+second |  
+| bip_39_word_new_line9 | beach
+body
+foster
+leave
+marble
+crawl
+fog
+second
+crouch |  
+| bip_39_word_space_0 | ['beach', 'body', 'foster', 'leave', 'marble', 'crawl', 'fog', 'second', 'crouch', 'pave', 'equip', 'artefact'] |  
+| bip_39_word_space_1 | beach |  
+| bip_39_word_space_10 | beach body foster leave marble crawl fog second crouch pave |  
+| bip_39_word_space_11 | beach body foster leave marble crawl fog second crouch pave equip |  
+| bip_39_word_space_12 | beach body foster leave marble crawl fog second crouch pave equip artefact |  
+| bip_39_word_space_2 | beach body |  
+| bip_39_word_space_3 | beach body foster |  
+| bip_39_word_space_4 | beach body foster leave |  
+| bip_39_word_space_5 | beach body foster leave marble |  
+| bip_39_word_space_6 | beach body foster leave marble crawl |  
+| bip_39_word_space_7 | beach body foster leave marble crawl fog |  
+| bip_39_word_space_8 | beach body foster leave marble crawl fog second |  
+| bip_39_word_space_9 | beach body foster leave marble crawl fog second crouch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

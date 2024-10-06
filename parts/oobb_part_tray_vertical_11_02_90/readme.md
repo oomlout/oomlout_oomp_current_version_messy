@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: test sheriff
+  * bip 39 word 3: test sheriff enable
+  * bip 39 word: test sheriff enable hold reduce glare clown road eyebrow view orange artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | test |  
+| bip_39_word_new_br10 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare<br>clown<br>road<br>eyebrow<br>view |  
+| bip_39_word_new_br11 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare<br>clown<br>road<br>eyebrow<br>view<br>orange |  
+| bip_39_word_new_br12 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare<br>clown<br>road<br>eyebrow<br>view<br>orange<br>artist |  
+| bip_39_word_new_br2 | test<br>sheriff |  
+| bip_39_word_new_br3 | test<br>sheriff<br>enable |  
+| bip_39_word_new_br4 | test<br>sheriff<br>enable<br>hold |  
+| bip_39_word_new_br5 | test<br>sheriff<br>enable<br>hold<br>reduce |  
+| bip_39_word_new_br6 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare |  
+| bip_39_word_new_br7 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare<br>clown |  
+| bip_39_word_new_br8 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare<br>clown<br>road |  
+| bip_39_word_new_br9 | test<br>sheriff<br>enable<br>hold<br>reduce<br>glare<br>clown<br>road<br>eyebrow |  
+| bip_39_word_new_line1 | test |  
+| bip_39_word_new_line10 | test
+sheriff
+enable
+hold
+reduce
+glare
+clown
+road
+eyebrow
+view |  
+| bip_39_word_new_line11 | test
+sheriff
+enable
+hold
+reduce
+glare
+clown
+road
+eyebrow
+view
+orange |  
+| bip_39_word_new_line12 | test
+sheriff
+enable
+hold
+reduce
+glare
+clown
+road
+eyebrow
+view
+orange
+artist |  
+| bip_39_word_new_line2 | test
+sheriff |  
+| bip_39_word_new_line3 | test
+sheriff
+enable |  
+| bip_39_word_new_line4 | test
+sheriff
+enable
+hold |  
+| bip_39_word_new_line5 | test
+sheriff
+enable
+hold
+reduce |  
+| bip_39_word_new_line6 | test
+sheriff
+enable
+hold
+reduce
+glare |  
+| bip_39_word_new_line7 | test
+sheriff
+enable
+hold
+reduce
+glare
+clown |  
+| bip_39_word_new_line8 | test
+sheriff
+enable
+hold
+reduce
+glare
+clown
+road |  
+| bip_39_word_new_line9 | test
+sheriff
+enable
+hold
+reduce
+glare
+clown
+road
+eyebrow |  
+| bip_39_word_space_0 | ['test', 'sheriff', 'enable', 'hold', 'reduce', 'glare', 'clown', 'road', 'eyebrow', 'view', 'orange', 'artist'] |  
+| bip_39_word_space_1 | test |  
+| bip_39_word_space_10 | test sheriff enable hold reduce glare clown road eyebrow view |  
+| bip_39_word_space_11 | test sheriff enable hold reduce glare clown road eyebrow view orange |  
+| bip_39_word_space_12 | test sheriff enable hold reduce glare clown road eyebrow view orange artist |  
+| bip_39_word_space_2 | test sheriff |  
+| bip_39_word_space_3 | test sheriff enable |  
+| bip_39_word_space_4 | test sheriff enable hold |  
+| bip_39_word_space_5 | test sheriff enable hold reduce |  
+| bip_39_word_space_6 | test sheriff enable hold reduce glare |  
+| bip_39_word_space_7 | test sheriff enable hold reduce glare clown |  
+| bip_39_word_space_8 | test sheriff enable hold reduce glare clown road |  
+| bip_39_word_space_9 | test sheriff enable hold reduce glare clown road eyebrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

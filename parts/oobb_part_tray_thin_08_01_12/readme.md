@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sell raccoon
+  * bip 39 word 3: sell raccoon spice
+  * bip 39 word: sell raccoon spice fatal island critic elder orbit boil fringe salt air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sell |  
+| bip_39_word_new_br10 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil<br>fringe |  
+| bip_39_word_new_br11 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil<br>fringe<br>salt |  
+| bip_39_word_new_br12 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil<br>fringe<br>salt<br>air |  
+| bip_39_word_new_br2 | sell<br>raccoon |  
+| bip_39_word_new_br3 | sell<br>raccoon<br>spice |  
+| bip_39_word_new_br4 | sell<br>raccoon<br>spice<br>fatal |  
+| bip_39_word_new_br5 | sell<br>raccoon<br>spice<br>fatal<br>island |  
+| bip_39_word_new_br6 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic |  
+| bip_39_word_new_br7 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder |  
+| bip_39_word_new_br8 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit |  
+| bip_39_word_new_br9 | sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil |  
+| bip_39_word_new_line1 | sell |  
+| bip_39_word_new_line10 | sell
+raccoon
+spice
+fatal
+island
+critic
+elder
+orbit
+boil
+fringe |  
+| bip_39_word_new_line11 | sell
+raccoon
+spice
+fatal
+island
+critic
+elder
+orbit
+boil
+fringe
+salt |  
+| bip_39_word_new_line12 | sell
+raccoon
+spice
+fatal
+island
+critic
+elder
+orbit
+boil
+fringe
+salt
+air |  
+| bip_39_word_new_line2 | sell
+raccoon |  
+| bip_39_word_new_line3 | sell
+raccoon
+spice |  
+| bip_39_word_new_line4 | sell
+raccoon
+spice
+fatal |  
+| bip_39_word_new_line5 | sell
+raccoon
+spice
+fatal
+island |  
+| bip_39_word_new_line6 | sell
+raccoon
+spice
+fatal
+island
+critic |  
+| bip_39_word_new_line7 | sell
+raccoon
+spice
+fatal
+island
+critic
+elder |  
+| bip_39_word_new_line8 | sell
+raccoon
+spice
+fatal
+island
+critic
+elder
+orbit |  
+| bip_39_word_new_line9 | sell
+raccoon
+spice
+fatal
+island
+critic
+elder
+orbit
+boil |  
+| bip_39_word_space_0 | ['sell', 'raccoon', 'spice', 'fatal', 'island', 'critic', 'elder', 'orbit', 'boil', 'fringe', 'salt', 'air'] |  
+| bip_39_word_space_1 | sell |  
+| bip_39_word_space_10 | sell raccoon spice fatal island critic elder orbit boil fringe |  
+| bip_39_word_space_11 | sell raccoon spice fatal island critic elder orbit boil fringe salt |  
+| bip_39_word_space_12 | sell raccoon spice fatal island critic elder orbit boil fringe salt air |  
+| bip_39_word_space_2 | sell raccoon |  
+| bip_39_word_space_3 | sell raccoon spice |  
+| bip_39_word_space_4 | sell raccoon spice fatal |  
+| bip_39_word_space_5 | sell raccoon spice fatal island |  
+| bip_39_word_space_6 | sell raccoon spice fatal island critic |  
+| bip_39_word_space_7 | sell raccoon spice fatal island critic elder |  
+| bip_39_word_space_8 | sell raccoon spice fatal island critic elder orbit |  
+| bip_39_word_space_9 | sell raccoon spice fatal island critic elder orbit boil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

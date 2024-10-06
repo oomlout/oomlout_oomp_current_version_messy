@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: round flower
+  * bip 39 word 3: round flower crisp
+  * bip 39 word: round flower crisp frame episode pet equal host rival skirt uncover achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | round |  
+| bip_39_word_new_br10 | round<br>flower<br>crisp<br>frame<br>episode<br>pet<br>equal<br>host<br>rival<br>skirt |  
+| bip_39_word_new_br11 | round<br>flower<br>crisp<br>frame<br>episode<br>pet<br>equal<br>host<br>rival<br>skirt<br>uncover |  
+| bip_39_word_new_br12 | round<br>flower<br>crisp<br>frame<br>episode<br>pet<br>equal<br>host<br>rival<br>skirt<br>uncover<br>achieve |  
+| bip_39_word_new_br2 | round<br>flower |  
+| bip_39_word_new_br3 | round<br>flower<br>crisp |  
+| bip_39_word_new_br4 | round<br>flower<br>crisp<br>frame |  
+| bip_39_word_new_br5 | round<br>flower<br>crisp<br>frame<br>episode |  
+| bip_39_word_new_br6 | round<br>flower<br>crisp<br>frame<br>episode<br>pet |  
+| bip_39_word_new_br7 | round<br>flower<br>crisp<br>frame<br>episode<br>pet<br>equal |  
+| bip_39_word_new_br8 | round<br>flower<br>crisp<br>frame<br>episode<br>pet<br>equal<br>host |  
+| bip_39_word_new_br9 | round<br>flower<br>crisp<br>frame<br>episode<br>pet<br>equal<br>host<br>rival |  
+| bip_39_word_new_line1 | round |  
+| bip_39_word_new_line10 | round
+flower
+crisp
+frame
+episode
+pet
+equal
+host
+rival
+skirt |  
+| bip_39_word_new_line11 | round
+flower
+crisp
+frame
+episode
+pet
+equal
+host
+rival
+skirt
+uncover |  
+| bip_39_word_new_line12 | round
+flower
+crisp
+frame
+episode
+pet
+equal
+host
+rival
+skirt
+uncover
+achieve |  
+| bip_39_word_new_line2 | round
+flower |  
+| bip_39_word_new_line3 | round
+flower
+crisp |  
+| bip_39_word_new_line4 | round
+flower
+crisp
+frame |  
+| bip_39_word_new_line5 | round
+flower
+crisp
+frame
+episode |  
+| bip_39_word_new_line6 | round
+flower
+crisp
+frame
+episode
+pet |  
+| bip_39_word_new_line7 | round
+flower
+crisp
+frame
+episode
+pet
+equal |  
+| bip_39_word_new_line8 | round
+flower
+crisp
+frame
+episode
+pet
+equal
+host |  
+| bip_39_word_new_line9 | round
+flower
+crisp
+frame
+episode
+pet
+equal
+host
+rival |  
+| bip_39_word_space_0 | ['round', 'flower', 'crisp', 'frame', 'episode', 'pet', 'equal', 'host', 'rival', 'skirt', 'uncover', 'achieve'] |  
+| bip_39_word_space_1 | round |  
+| bip_39_word_space_10 | round flower crisp frame episode pet equal host rival skirt |  
+| bip_39_word_space_11 | round flower crisp frame episode pet equal host rival skirt uncover |  
+| bip_39_word_space_12 | round flower crisp frame episode pet equal host rival skirt uncover achieve |  
+| bip_39_word_space_2 | round flower |  
+| bip_39_word_space_3 | round flower crisp |  
+| bip_39_word_space_4 | round flower crisp frame |  
+| bip_39_word_space_5 | round flower crisp frame episode |  
+| bip_39_word_space_6 | round flower crisp frame episode pet |  
+| bip_39_word_space_7 | round flower crisp frame episode pet equal |  
+| bip_39_word_space_8 | round flower crisp frame episode pet equal host |  
+| bip_39_word_space_9 | round flower crisp frame episode pet equal host rival |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: join
+bip_39_word_new_br10: join<br>hood<br>now<br>camp<br>science<br>mistake<br>embody<br>main<br>float<br>bulk
+bip_39_word_new_br11: join<br>hood<br>now<br>camp<br>science<br>mistake<br>embody<br>main<br>float<br>bulk<br>custom
+bip_39_word_new_br12: join<br>hood<br>now<br>camp<br>science<br>mistake<br>embody<br>main<br>float<br>bulk<br>custom<br>acquire
+bip_39_word_new_br2: join<br>hood
+bip_39_word_new_br3: join<br>hood<br>now
+bip_39_word_new_br4: join<br>hood<br>now<br>camp
+bip_39_word_new_br5: join<br>hood<br>now<br>camp<br>science
+bip_39_word_new_br6: join<br>hood<br>now<br>camp<br>science<br>mistake
+bip_39_word_new_br7: join<br>hood<br>now<br>camp<br>science<br>mistake<br>embody
+bip_39_word_new_br8: join<br>hood<br>now<br>camp<br>science<br>mistake<br>embody<br>main
+bip_39_word_new_br9: join<br>hood<br>now<br>camp<br>science<br>mistake<br>embody<br>main<br>float
+bip_39_word_new_line1: join
+bip_39_word_new_line10: 'join
+
+  hood
+
+  now
+
+  camp
+
+  science
+
+  mistake
+
+  embody
+
+  main
+
+  float
+
+  bulk'
+bip_39_word_new_line11: 'join
+
+  hood
+
+  now
+
+  camp
+
+  science
+
+  mistake
+
+  embody
+
+  main
+
+  float
+
+  bulk
+
+  custom'
+bip_39_word_new_line12: 'join
+
+  hood
+
+  now
+
+  camp
+
+  science
+
+  mistake
+
+  embody
+
+  main
+
+  float
+
+  bulk
+
+  custom
+
+  acquire'
+bip_39_word_new_line2: 'join
+
+  hood'
+bip_39_word_new_line3: 'join
+
+  hood
+
+  now'
+bip_39_word_new_line4: 'join
+
+  hood
+
+  now
+
+  camp'
+bip_39_word_new_line5: 'join
+
+  hood
+
+  now
+
+  camp
+
+  science'
+bip_39_word_new_line6: 'join
+
+  hood
+
+  now
+
+  camp
+
+  science
+
+  mistake'
+bip_39_word_new_line7: 'join
+
+  hood
+
+  now
+
+  camp
+
+  science
+
+  mistake
+
+  embody'
+bip_39_word_new_line8: 'join
+
+  hood
+
+  now
+
+  camp
+
+  science
+
+  mistake
+
+  embody
+
+  main'
+bip_39_word_new_line9: 'join
+
+  hood
+
+  now
+
+  camp
+
+  science
+
+  mistake
+
+  embody
+
+  main
+
+  float'
+bip_39_word_space_0:
+- join
+- hood
+- now
+- camp
+- science
+- mistake
+- embody
+- main
+- float
+- bulk
+- custom
+- acquire
+bip_39_word_space_1: join
+bip_39_word_space_10: join hood now camp science mistake embody main float bulk
+bip_39_word_space_11: join hood now camp science mistake embody main float bulk custom
+bip_39_word_space_12: join hood now camp science mistake embody main float bulk custom
+  acquire
+bip_39_word_space_2: join hood
+bip_39_word_space_3: join hood now
+bip_39_word_space_4: join hood now camp
+bip_39_word_space_5: join hood now camp science
+bip_39_word_space_6: join hood now camp science mistake
+bip_39_word_space_7: join hood now camp science mistake embody
+bip_39_word_space_8: join hood now camp science mistake embody main
+bip_39_word_space_9: join hood now camp science mistake embody main float
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

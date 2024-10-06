@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: job mammal
+  * bip 39 word 3: job mammal nature
+  * bip 39 word: job mammal nature trap gain tent harbor cherry task aisle version acid
 
 ### other_codes
 * short_code: ms4m35pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | job |  
+| bip_39_word_new_br10 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle |  
+| bip_39_word_new_br11 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle<br>version |  
+| bip_39_word_new_br12 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task<br>aisle<br>version<br>acid |  
+| bip_39_word_new_br2 | job<br>mammal |  
+| bip_39_word_new_br3 | job<br>mammal<br>nature |  
+| bip_39_word_new_br4 | job<br>mammal<br>nature<br>trap |  
+| bip_39_word_new_br5 | job<br>mammal<br>nature<br>trap<br>gain |  
+| bip_39_word_new_br6 | job<br>mammal<br>nature<br>trap<br>gain<br>tent |  
+| bip_39_word_new_br7 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor |  
+| bip_39_word_new_br8 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry |  
+| bip_39_word_new_br9 | job<br>mammal<br>nature<br>trap<br>gain<br>tent<br>harbor<br>cherry<br>task |  
+| bip_39_word_new_line1 | job |  
+| bip_39_word_new_line10 | job
+mammal
+nature
+trap
+gain
+tent
+harbor
+cherry
+task
+aisle |  
+| bip_39_word_new_line11 | job
+mammal
+nature
+trap
+gain
+tent
+harbor
+cherry
+task
+aisle
+version |  
+| bip_39_word_new_line12 | job
+mammal
+nature
+trap
+gain
+tent
+harbor
+cherry
+task
+aisle
+version
+acid |  
+| bip_39_word_new_line2 | job
+mammal |  
+| bip_39_word_new_line3 | job
+mammal
+nature |  
+| bip_39_word_new_line4 | job
+mammal
+nature
+trap |  
+| bip_39_word_new_line5 | job
+mammal
+nature
+trap
+gain |  
+| bip_39_word_new_line6 | job
+mammal
+nature
+trap
+gain
+tent |  
+| bip_39_word_new_line7 | job
+mammal
+nature
+trap
+gain
+tent
+harbor |  
+| bip_39_word_new_line8 | job
+mammal
+nature
+trap
+gain
+tent
+harbor
+cherry |  
+| bip_39_word_new_line9 | job
+mammal
+nature
+trap
+gain
+tent
+harbor
+cherry
+task |  
+| bip_39_word_space_0 | ['job', 'mammal', 'nature', 'trap', 'gain', 'tent', 'harbor', 'cherry', 'task', 'aisle', 'version', 'acid'] |  
+| bip_39_word_space_1 | job |  
+| bip_39_word_space_10 | job mammal nature trap gain tent harbor cherry task aisle |  
+| bip_39_word_space_11 | job mammal nature trap gain tent harbor cherry task aisle version |  
+| bip_39_word_space_12 | job mammal nature trap gain tent harbor cherry task aisle version acid |  
+| bip_39_word_space_2 | job mammal |  
+| bip_39_word_space_3 | job mammal nature |  
+| bip_39_word_space_4 | job mammal nature trap |  
+| bip_39_word_space_5 | job mammal nature trap gain |  
+| bip_39_word_space_6 | job mammal nature trap gain tent |  
+| bip_39_word_space_7 | job mammal nature trap gain tent harbor |  
+| bip_39_word_space_8 | job mammal nature trap gain tent harbor cherry |  
+| bip_39_word_space_9 | job mammal nature trap gain tent harbor cherry task |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

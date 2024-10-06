@@ -1,3 +1,186 @@
+bip_39_word_new_br1: idea
+bip_39_word_new_br10: idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan
+bip_39_word_new_br11: idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan<br>cannon
+bip_39_word_new_br12: idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam<br>scan<br>cannon<br>ask
+bip_39_word_new_br2: idea<br>senior
+bip_39_word_new_br3: idea<br>senior<br>social
+bip_39_word_new_br4: idea<br>senior<br>social<br>pass
+bip_39_word_new_br5: idea<br>senior<br>social<br>pass<br>square
+bip_39_word_new_br6: idea<br>senior<br>social<br>pass<br>square<br>clinic
+bip_39_word_new_br7: idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together
+bip_39_word_new_br8: idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either
+bip_39_word_new_br9: idea<br>senior<br>social<br>pass<br>square<br>clinic<br>together<br>either<br>slam
+bip_39_word_new_line1: idea
+bip_39_word_new_line10: 'idea
+
+  senior
+
+  social
+
+  pass
+
+  square
+
+  clinic
+
+  together
+
+  either
+
+  slam
+
+  scan'
+bip_39_word_new_line11: 'idea
+
+  senior
+
+  social
+
+  pass
+
+  square
+
+  clinic
+
+  together
+
+  either
+
+  slam
+
+  scan
+
+  cannon'
+bip_39_word_new_line12: 'idea
+
+  senior
+
+  social
+
+  pass
+
+  square
+
+  clinic
+
+  together
+
+  either
+
+  slam
+
+  scan
+
+  cannon
+
+  ask'
+bip_39_word_new_line2: 'idea
+
+  senior'
+bip_39_word_new_line3: 'idea
+
+  senior
+
+  social'
+bip_39_word_new_line4: 'idea
+
+  senior
+
+  social
+
+  pass'
+bip_39_word_new_line5: 'idea
+
+  senior
+
+  social
+
+  pass
+
+  square'
+bip_39_word_new_line6: 'idea
+
+  senior
+
+  social
+
+  pass
+
+  square
+
+  clinic'
+bip_39_word_new_line7: 'idea
+
+  senior
+
+  social
+
+  pass
+
+  square
+
+  clinic
+
+  together'
+bip_39_word_new_line8: 'idea
+
+  senior
+
+  social
+
+  pass
+
+  square
+
+  clinic
+
+  together
+
+  either'
+bip_39_word_new_line9: 'idea
+
+  senior
+
+  social
+
+  pass
+
+  square
+
+  clinic
+
+  together
+
+  either
+
+  slam'
+bip_39_word_space_0:
+- idea
+- senior
+- social
+- pass
+- square
+- clinic
+- together
+- either
+- slam
+- scan
+- cannon
+- ask
+bip_39_word_space_1: idea
+bip_39_word_space_10: idea senior social pass square clinic together either slam scan
+bip_39_word_space_11: idea senior social pass square clinic together either slam scan
+  cannon
+bip_39_word_space_12: idea senior social pass square clinic together either slam scan
+  cannon ask
+bip_39_word_space_2: idea senior
+bip_39_word_space_3: idea senior social
+bip_39_word_space_4: idea senior social pass
+bip_39_word_space_5: idea senior social pass square
+bip_39_word_space_6: idea senior social pass square clinic
+bip_39_word_space_7: idea senior social pass square clinic together
+bip_39_word_space_8: idea senior social pass square clinic together either
+bip_39_word_space_9: idea senior social pass square clinic together either slam
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: arena
+bip_39_word_new_br10: arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook
+bip_39_word_new_br11: arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook<br>pet
+bip_39_word_new_br12: arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk<br>cook<br>pet<br>add
+bip_39_word_new_br2: arena<br>tape
+bip_39_word_new_br3: arena<br>tape<br>manage
+bip_39_word_new_br4: arena<br>tape<br>manage<br>lesson
+bip_39_word_new_br5: arena<br>tape<br>manage<br>lesson<br>dumb
+bip_39_word_new_br6: arena<br>tape<br>manage<br>lesson<br>dumb<br>west
+bip_39_word_new_br7: arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide
+bip_39_word_new_br8: arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice
+bip_39_word_new_br9: arena<br>tape<br>manage<br>lesson<br>dumb<br>west<br>glide<br>rice<br>talk
+bip_39_word_new_line1: arena
+bip_39_word_new_line10: 'arena
+
+  tape
+
+  manage
+
+  lesson
+
+  dumb
+
+  west
+
+  glide
+
+  rice
+
+  talk
+
+  cook'
+bip_39_word_new_line11: 'arena
+
+  tape
+
+  manage
+
+  lesson
+
+  dumb
+
+  west
+
+  glide
+
+  rice
+
+  talk
+
+  cook
+
+  pet'
+bip_39_word_new_line12: 'arena
+
+  tape
+
+  manage
+
+  lesson
+
+  dumb
+
+  west
+
+  glide
+
+  rice
+
+  talk
+
+  cook
+
+  pet
+
+  add'
+bip_39_word_new_line2: 'arena
+
+  tape'
+bip_39_word_new_line3: 'arena
+
+  tape
+
+  manage'
+bip_39_word_new_line4: 'arena
+
+  tape
+
+  manage
+
+  lesson'
+bip_39_word_new_line5: 'arena
+
+  tape
+
+  manage
+
+  lesson
+
+  dumb'
+bip_39_word_new_line6: 'arena
+
+  tape
+
+  manage
+
+  lesson
+
+  dumb
+
+  west'
+bip_39_word_new_line7: 'arena
+
+  tape
+
+  manage
+
+  lesson
+
+  dumb
+
+  west
+
+  glide'
+bip_39_word_new_line8: 'arena
+
+  tape
+
+  manage
+
+  lesson
+
+  dumb
+
+  west
+
+  glide
+
+  rice'
+bip_39_word_new_line9: 'arena
+
+  tape
+
+  manage
+
+  lesson
+
+  dumb
+
+  west
+
+  glide
+
+  rice
+
+  talk'
+bip_39_word_space_0:
+- arena
+- tape
+- manage
+- lesson
+- dumb
+- west
+- glide
+- rice
+- talk
+- cook
+- pet
+- add
+bip_39_word_space_1: arena
+bip_39_word_space_10: arena tape manage lesson dumb west glide rice talk cook
+bip_39_word_space_11: arena tape manage lesson dumb west glide rice talk cook pet
+bip_39_word_space_12: arena tape manage lesson dumb west glide rice talk cook pet
+  add
+bip_39_word_space_2: arena tape
+bip_39_word_space_3: arena tape manage
+bip_39_word_space_4: arena tape manage lesson
+bip_39_word_space_5: arena tape manage lesson dumb
+bip_39_word_space_6: arena tape manage lesson dumb west
+bip_39_word_space_7: arena tape manage lesson dumb west glide
+bip_39_word_space_8: arena tape manage lesson dumb west glide rice
+bip_39_word_space_9: arena tape manage lesson dumb west glide rice talk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vital hurry
+  * bip 39 word 3: vital hurry light
+  * bip 39 word: vital hurry light wave flip tackle alien sail judge trumpet treat antenna
 
 ### other_codes
 * short_code: sp3x7nw5
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vital |  
+| bip_39_word_new_br10 | vital<br>hurry<br>light<br>wave<br>flip<br>tackle<br>alien<br>sail<br>judge<br>trumpet |  
+| bip_39_word_new_br11 | vital<br>hurry<br>light<br>wave<br>flip<br>tackle<br>alien<br>sail<br>judge<br>trumpet<br>treat |  
+| bip_39_word_new_br12 | vital<br>hurry<br>light<br>wave<br>flip<br>tackle<br>alien<br>sail<br>judge<br>trumpet<br>treat<br>antenna |  
+| bip_39_word_new_br2 | vital<br>hurry |  
+| bip_39_word_new_br3 | vital<br>hurry<br>light |  
+| bip_39_word_new_br4 | vital<br>hurry<br>light<br>wave |  
+| bip_39_word_new_br5 | vital<br>hurry<br>light<br>wave<br>flip |  
+| bip_39_word_new_br6 | vital<br>hurry<br>light<br>wave<br>flip<br>tackle |  
+| bip_39_word_new_br7 | vital<br>hurry<br>light<br>wave<br>flip<br>tackle<br>alien |  
+| bip_39_word_new_br8 | vital<br>hurry<br>light<br>wave<br>flip<br>tackle<br>alien<br>sail |  
+| bip_39_word_new_br9 | vital<br>hurry<br>light<br>wave<br>flip<br>tackle<br>alien<br>sail<br>judge |  
+| bip_39_word_new_line1 | vital |  
+| bip_39_word_new_line10 | vital
+hurry
+light
+wave
+flip
+tackle
+alien
+sail
+judge
+trumpet |  
+| bip_39_word_new_line11 | vital
+hurry
+light
+wave
+flip
+tackle
+alien
+sail
+judge
+trumpet
+treat |  
+| bip_39_word_new_line12 | vital
+hurry
+light
+wave
+flip
+tackle
+alien
+sail
+judge
+trumpet
+treat
+antenna |  
+| bip_39_word_new_line2 | vital
+hurry |  
+| bip_39_word_new_line3 | vital
+hurry
+light |  
+| bip_39_word_new_line4 | vital
+hurry
+light
+wave |  
+| bip_39_word_new_line5 | vital
+hurry
+light
+wave
+flip |  
+| bip_39_word_new_line6 | vital
+hurry
+light
+wave
+flip
+tackle |  
+| bip_39_word_new_line7 | vital
+hurry
+light
+wave
+flip
+tackle
+alien |  
+| bip_39_word_new_line8 | vital
+hurry
+light
+wave
+flip
+tackle
+alien
+sail |  
+| bip_39_word_new_line9 | vital
+hurry
+light
+wave
+flip
+tackle
+alien
+sail
+judge |  
+| bip_39_word_space_0 | ['vital', 'hurry', 'light', 'wave', 'flip', 'tackle', 'alien', 'sail', 'judge', 'trumpet', 'treat', 'antenna'] |  
+| bip_39_word_space_1 | vital |  
+| bip_39_word_space_10 | vital hurry light wave flip tackle alien sail judge trumpet |  
+| bip_39_word_space_11 | vital hurry light wave flip tackle alien sail judge trumpet treat |  
+| bip_39_word_space_12 | vital hurry light wave flip tackle alien sail judge trumpet treat antenna |  
+| bip_39_word_space_2 | vital hurry |  
+| bip_39_word_space_3 | vital hurry light |  
+| bip_39_word_space_4 | vital hurry light wave |  
+| bip_39_word_space_5 | vital hurry light wave flip |  
+| bip_39_word_space_6 | vital hurry light wave flip tackle |  
+| bip_39_word_space_7 | vital hurry light wave flip tackle alien |  
+| bip_39_word_space_8 | vital hurry light wave flip tackle alien sail |  
+| bip_39_word_space_9 | vital hurry light wave flip tackle alien sail judge |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

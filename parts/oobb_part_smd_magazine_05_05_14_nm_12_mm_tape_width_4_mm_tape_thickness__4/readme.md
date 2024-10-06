@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eternal flavor
+  * bip 39 word 3: eternal flavor purpose
+  * bip 39 word: eternal flavor purpose capable toast wine shallow friend settle board filter armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eternal |  
+| bip_39_word_new_br10 | eternal<br>flavor<br>purpose<br>capable<br>toast<br>wine<br>shallow<br>friend<br>settle<br>board |  
+| bip_39_word_new_br11 | eternal<br>flavor<br>purpose<br>capable<br>toast<br>wine<br>shallow<br>friend<br>settle<br>board<br>filter |  
+| bip_39_word_new_br12 | eternal<br>flavor<br>purpose<br>capable<br>toast<br>wine<br>shallow<br>friend<br>settle<br>board<br>filter<br>armed |  
+| bip_39_word_new_br2 | eternal<br>flavor |  
+| bip_39_word_new_br3 | eternal<br>flavor<br>purpose |  
+| bip_39_word_new_br4 | eternal<br>flavor<br>purpose<br>capable |  
+| bip_39_word_new_br5 | eternal<br>flavor<br>purpose<br>capable<br>toast |  
+| bip_39_word_new_br6 | eternal<br>flavor<br>purpose<br>capable<br>toast<br>wine |  
+| bip_39_word_new_br7 | eternal<br>flavor<br>purpose<br>capable<br>toast<br>wine<br>shallow |  
+| bip_39_word_new_br8 | eternal<br>flavor<br>purpose<br>capable<br>toast<br>wine<br>shallow<br>friend |  
+| bip_39_word_new_br9 | eternal<br>flavor<br>purpose<br>capable<br>toast<br>wine<br>shallow<br>friend<br>settle |  
+| bip_39_word_new_line1 | eternal |  
+| bip_39_word_new_line10 | eternal
+flavor
+purpose
+capable
+toast
+wine
+shallow
+friend
+settle
+board |  
+| bip_39_word_new_line11 | eternal
+flavor
+purpose
+capable
+toast
+wine
+shallow
+friend
+settle
+board
+filter |  
+| bip_39_word_new_line12 | eternal
+flavor
+purpose
+capable
+toast
+wine
+shallow
+friend
+settle
+board
+filter
+armed |  
+| bip_39_word_new_line2 | eternal
+flavor |  
+| bip_39_word_new_line3 | eternal
+flavor
+purpose |  
+| bip_39_word_new_line4 | eternal
+flavor
+purpose
+capable |  
+| bip_39_word_new_line5 | eternal
+flavor
+purpose
+capable
+toast |  
+| bip_39_word_new_line6 | eternal
+flavor
+purpose
+capable
+toast
+wine |  
+| bip_39_word_new_line7 | eternal
+flavor
+purpose
+capable
+toast
+wine
+shallow |  
+| bip_39_word_new_line8 | eternal
+flavor
+purpose
+capable
+toast
+wine
+shallow
+friend |  
+| bip_39_word_new_line9 | eternal
+flavor
+purpose
+capable
+toast
+wine
+shallow
+friend
+settle |  
+| bip_39_word_space_0 | ['eternal', 'flavor', 'purpose', 'capable', 'toast', 'wine', 'shallow', 'friend', 'settle', 'board', 'filter', 'armed'] |  
+| bip_39_word_space_1 | eternal |  
+| bip_39_word_space_10 | eternal flavor purpose capable toast wine shallow friend settle board |  
+| bip_39_word_space_11 | eternal flavor purpose capable toast wine shallow friend settle board filter |  
+| bip_39_word_space_12 | eternal flavor purpose capable toast wine shallow friend settle board filter armed |  
+| bip_39_word_space_2 | eternal flavor |  
+| bip_39_word_space_3 | eternal flavor purpose |  
+| bip_39_word_space_4 | eternal flavor purpose capable |  
+| bip_39_word_space_5 | eternal flavor purpose capable toast |  
+| bip_39_word_space_6 | eternal flavor purpose capable toast wine |  
+| bip_39_word_space_7 | eternal flavor purpose capable toast wine shallow |  
+| bip_39_word_space_8 | eternal flavor purpose capable toast wine shallow friend |  
+| bip_39_word_space_9 | eternal flavor purpose capable toast wine shallow friend settle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crumble slice
+  * bip 39 word 3: crumble slice find
+  * bip 39 word: crumble slice find buddy course inch skirt follow board giraffe fringe angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crumble |  
+| bip_39_word_new_br10 | crumble<br>slice<br>find<br>buddy<br>course<br>inch<br>skirt<br>follow<br>board<br>giraffe |  
+| bip_39_word_new_br11 | crumble<br>slice<br>find<br>buddy<br>course<br>inch<br>skirt<br>follow<br>board<br>giraffe<br>fringe |  
+| bip_39_word_new_br12 | crumble<br>slice<br>find<br>buddy<br>course<br>inch<br>skirt<br>follow<br>board<br>giraffe<br>fringe<br>angry |  
+| bip_39_word_new_br2 | crumble<br>slice |  
+| bip_39_word_new_br3 | crumble<br>slice<br>find |  
+| bip_39_word_new_br4 | crumble<br>slice<br>find<br>buddy |  
+| bip_39_word_new_br5 | crumble<br>slice<br>find<br>buddy<br>course |  
+| bip_39_word_new_br6 | crumble<br>slice<br>find<br>buddy<br>course<br>inch |  
+| bip_39_word_new_br7 | crumble<br>slice<br>find<br>buddy<br>course<br>inch<br>skirt |  
+| bip_39_word_new_br8 | crumble<br>slice<br>find<br>buddy<br>course<br>inch<br>skirt<br>follow |  
+| bip_39_word_new_br9 | crumble<br>slice<br>find<br>buddy<br>course<br>inch<br>skirt<br>follow<br>board |  
+| bip_39_word_new_line1 | crumble |  
+| bip_39_word_new_line10 | crumble
+slice
+find
+buddy
+course
+inch
+skirt
+follow
+board
+giraffe |  
+| bip_39_word_new_line11 | crumble
+slice
+find
+buddy
+course
+inch
+skirt
+follow
+board
+giraffe
+fringe |  
+| bip_39_word_new_line12 | crumble
+slice
+find
+buddy
+course
+inch
+skirt
+follow
+board
+giraffe
+fringe
+angry |  
+| bip_39_word_new_line2 | crumble
+slice |  
+| bip_39_word_new_line3 | crumble
+slice
+find |  
+| bip_39_word_new_line4 | crumble
+slice
+find
+buddy |  
+| bip_39_word_new_line5 | crumble
+slice
+find
+buddy
+course |  
+| bip_39_word_new_line6 | crumble
+slice
+find
+buddy
+course
+inch |  
+| bip_39_word_new_line7 | crumble
+slice
+find
+buddy
+course
+inch
+skirt |  
+| bip_39_word_new_line8 | crumble
+slice
+find
+buddy
+course
+inch
+skirt
+follow |  
+| bip_39_word_new_line9 | crumble
+slice
+find
+buddy
+course
+inch
+skirt
+follow
+board |  
+| bip_39_word_space_0 | ['crumble', 'slice', 'find', 'buddy', 'course', 'inch', 'skirt', 'follow', 'board', 'giraffe', 'fringe', 'angry'] |  
+| bip_39_word_space_1 | crumble |  
+| bip_39_word_space_10 | crumble slice find buddy course inch skirt follow board giraffe |  
+| bip_39_word_space_11 | crumble slice find buddy course inch skirt follow board giraffe fringe |  
+| bip_39_word_space_12 | crumble slice find buddy course inch skirt follow board giraffe fringe angry |  
+| bip_39_word_space_2 | crumble slice |  
+| bip_39_word_space_3 | crumble slice find |  
+| bip_39_word_space_4 | crumble slice find buddy |  
+| bip_39_word_space_5 | crumble slice find buddy course |  
+| bip_39_word_space_6 | crumble slice find buddy course inch |  
+| bip_39_word_space_7 | crumble slice find buddy course inch skirt |  
+| bip_39_word_space_8 | crumble slice find buddy course inch skirt follow |  
+| bip_39_word_space_9 | crumble slice find buddy course inch skirt follow board |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

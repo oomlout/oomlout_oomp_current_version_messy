@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2_pole
   * manufacturer: wago
   * part_number: 221_412
+  * bip 39 word 2: diary health
+  * bip 39 word 3: diary health south
+  * bip 39 word: diary health south cage charge future humble damp midnight bachelor there assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diary |  
+| bip_39_word_new_br10 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor |  
+| bip_39_word_new_br11 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor<br>there |  
+| bip_39_word_new_br12 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight<br>bachelor<br>there<br>assist |  
+| bip_39_word_new_br2 | diary<br>health |  
+| bip_39_word_new_br3 | diary<br>health<br>south |  
+| bip_39_word_new_br4 | diary<br>health<br>south<br>cage |  
+| bip_39_word_new_br5 | diary<br>health<br>south<br>cage<br>charge |  
+| bip_39_word_new_br6 | diary<br>health<br>south<br>cage<br>charge<br>future |  
+| bip_39_word_new_br7 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble |  
+| bip_39_word_new_br8 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp |  
+| bip_39_word_new_br9 | diary<br>health<br>south<br>cage<br>charge<br>future<br>humble<br>damp<br>midnight |  
+| bip_39_word_new_line1 | diary |  
+| bip_39_word_new_line10 | diary
+health
+south
+cage
+charge
+future
+humble
+damp
+midnight
+bachelor |  
+| bip_39_word_new_line11 | diary
+health
+south
+cage
+charge
+future
+humble
+damp
+midnight
+bachelor
+there |  
+| bip_39_word_new_line12 | diary
+health
+south
+cage
+charge
+future
+humble
+damp
+midnight
+bachelor
+there
+assist |  
+| bip_39_word_new_line2 | diary
+health |  
+| bip_39_word_new_line3 | diary
+health
+south |  
+| bip_39_word_new_line4 | diary
+health
+south
+cage |  
+| bip_39_word_new_line5 | diary
+health
+south
+cage
+charge |  
+| bip_39_word_new_line6 | diary
+health
+south
+cage
+charge
+future |  
+| bip_39_word_new_line7 | diary
+health
+south
+cage
+charge
+future
+humble |  
+| bip_39_word_new_line8 | diary
+health
+south
+cage
+charge
+future
+humble
+damp |  
+| bip_39_word_new_line9 | diary
+health
+south
+cage
+charge
+future
+humble
+damp
+midnight |  
+| bip_39_word_space_0 | ['diary', 'health', 'south', 'cage', 'charge', 'future', 'humble', 'damp', 'midnight', 'bachelor', 'there', 'assist'] |  
+| bip_39_word_space_1 | diary |  
+| bip_39_word_space_10 | diary health south cage charge future humble damp midnight bachelor |  
+| bip_39_word_space_11 | diary health south cage charge future humble damp midnight bachelor there |  
+| bip_39_word_space_12 | diary health south cage charge future humble damp midnight bachelor there assist |  
+| bip_39_word_space_2 | diary health |  
+| bip_39_word_space_3 | diary health south |  
+| bip_39_word_space_4 | diary health south cage |  
+| bip_39_word_space_5 | diary health south cage charge |  
+| bip_39_word_space_6 | diary health south cage charge future |  
+| bip_39_word_space_7 | diary health south cage charge future humble |  
+| bip_39_word_space_8 | diary health south cage charge future humble damp |  
+| bip_39_word_space_9 | diary health south cage charge future humble damp midnight |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

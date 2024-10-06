@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rebuild love
+  * bip 39 word 3: rebuild love vendor
+  * bip 39 word: rebuild love vendor kiwi category clog drip relax spider violin excuse ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rebuild |  
+| bip_39_word_new_br10 | rebuild<br>love<br>vendor<br>kiwi<br>category<br>clog<br>drip<br>relax<br>spider<br>violin |  
+| bip_39_word_new_br11 | rebuild<br>love<br>vendor<br>kiwi<br>category<br>clog<br>drip<br>relax<br>spider<br>violin<br>excuse |  
+| bip_39_word_new_br12 | rebuild<br>love<br>vendor<br>kiwi<br>category<br>clog<br>drip<br>relax<br>spider<br>violin<br>excuse<br>ahead |  
+| bip_39_word_new_br2 | rebuild<br>love |  
+| bip_39_word_new_br3 | rebuild<br>love<br>vendor |  
+| bip_39_word_new_br4 | rebuild<br>love<br>vendor<br>kiwi |  
+| bip_39_word_new_br5 | rebuild<br>love<br>vendor<br>kiwi<br>category |  
+| bip_39_word_new_br6 | rebuild<br>love<br>vendor<br>kiwi<br>category<br>clog |  
+| bip_39_word_new_br7 | rebuild<br>love<br>vendor<br>kiwi<br>category<br>clog<br>drip |  
+| bip_39_word_new_br8 | rebuild<br>love<br>vendor<br>kiwi<br>category<br>clog<br>drip<br>relax |  
+| bip_39_word_new_br9 | rebuild<br>love<br>vendor<br>kiwi<br>category<br>clog<br>drip<br>relax<br>spider |  
+| bip_39_word_new_line1 | rebuild |  
+| bip_39_word_new_line10 | rebuild
+love
+vendor
+kiwi
+category
+clog
+drip
+relax
+spider
+violin |  
+| bip_39_word_new_line11 | rebuild
+love
+vendor
+kiwi
+category
+clog
+drip
+relax
+spider
+violin
+excuse |  
+| bip_39_word_new_line12 | rebuild
+love
+vendor
+kiwi
+category
+clog
+drip
+relax
+spider
+violin
+excuse
+ahead |  
+| bip_39_word_new_line2 | rebuild
+love |  
+| bip_39_word_new_line3 | rebuild
+love
+vendor |  
+| bip_39_word_new_line4 | rebuild
+love
+vendor
+kiwi |  
+| bip_39_word_new_line5 | rebuild
+love
+vendor
+kiwi
+category |  
+| bip_39_word_new_line6 | rebuild
+love
+vendor
+kiwi
+category
+clog |  
+| bip_39_word_new_line7 | rebuild
+love
+vendor
+kiwi
+category
+clog
+drip |  
+| bip_39_word_new_line8 | rebuild
+love
+vendor
+kiwi
+category
+clog
+drip
+relax |  
+| bip_39_word_new_line9 | rebuild
+love
+vendor
+kiwi
+category
+clog
+drip
+relax
+spider |  
+| bip_39_word_space_0 | ['rebuild', 'love', 'vendor', 'kiwi', 'category', 'clog', 'drip', 'relax', 'spider', 'violin', 'excuse', 'ahead'] |  
+| bip_39_word_space_1 | rebuild |  
+| bip_39_word_space_10 | rebuild love vendor kiwi category clog drip relax spider violin |  
+| bip_39_word_space_11 | rebuild love vendor kiwi category clog drip relax spider violin excuse |  
+| bip_39_word_space_12 | rebuild love vendor kiwi category clog drip relax spider violin excuse ahead |  
+| bip_39_word_space_2 | rebuild love |  
+| bip_39_word_space_3 | rebuild love vendor |  
+| bip_39_word_space_4 | rebuild love vendor kiwi |  
+| bip_39_word_space_5 | rebuild love vendor kiwi category |  
+| bip_39_word_space_6 | rebuild love vendor kiwi category clog |  
+| bip_39_word_space_7 | rebuild love vendor kiwi category clog drip |  
+| bip_39_word_space_8 | rebuild love vendor kiwi category clog drip relax |  
+| bip_39_word_space_9 | rebuild love vendor kiwi category clog drip relax spider |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

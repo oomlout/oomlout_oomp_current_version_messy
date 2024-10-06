@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vintage satisfy
+  * bip 39 word 3: vintage satisfy increase
+  * bip 39 word: vintage satisfy increase rescue sign update portion print situate inspire toilet april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vintage |  
+| bip_39_word_new_br10 | vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update<br>portion<br>print<br>situate<br>inspire |  
+| bip_39_word_new_br11 | vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update<br>portion<br>print<br>situate<br>inspire<br>toilet |  
+| bip_39_word_new_br12 | vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update<br>portion<br>print<br>situate<br>inspire<br>toilet<br>april |  
+| bip_39_word_new_br2 | vintage<br>satisfy |  
+| bip_39_word_new_br3 | vintage<br>satisfy<br>increase |  
+| bip_39_word_new_br4 | vintage<br>satisfy<br>increase<br>rescue |  
+| bip_39_word_new_br5 | vintage<br>satisfy<br>increase<br>rescue<br>sign |  
+| bip_39_word_new_br6 | vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update |  
+| bip_39_word_new_br7 | vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update<br>portion |  
+| bip_39_word_new_br8 | vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update<br>portion<br>print |  
+| bip_39_word_new_br9 | vintage<br>satisfy<br>increase<br>rescue<br>sign<br>update<br>portion<br>print<br>situate |  
+| bip_39_word_new_line1 | vintage |  
+| bip_39_word_new_line10 | vintage
+satisfy
+increase
+rescue
+sign
+update
+portion
+print
+situate
+inspire |  
+| bip_39_word_new_line11 | vintage
+satisfy
+increase
+rescue
+sign
+update
+portion
+print
+situate
+inspire
+toilet |  
+| bip_39_word_new_line12 | vintage
+satisfy
+increase
+rescue
+sign
+update
+portion
+print
+situate
+inspire
+toilet
+april |  
+| bip_39_word_new_line2 | vintage
+satisfy |  
+| bip_39_word_new_line3 | vintage
+satisfy
+increase |  
+| bip_39_word_new_line4 | vintage
+satisfy
+increase
+rescue |  
+| bip_39_word_new_line5 | vintage
+satisfy
+increase
+rescue
+sign |  
+| bip_39_word_new_line6 | vintage
+satisfy
+increase
+rescue
+sign
+update |  
+| bip_39_word_new_line7 | vintage
+satisfy
+increase
+rescue
+sign
+update
+portion |  
+| bip_39_word_new_line8 | vintage
+satisfy
+increase
+rescue
+sign
+update
+portion
+print |  
+| bip_39_word_new_line9 | vintage
+satisfy
+increase
+rescue
+sign
+update
+portion
+print
+situate |  
+| bip_39_word_space_0 | ['vintage', 'satisfy', 'increase', 'rescue', 'sign', 'update', 'portion', 'print', 'situate', 'inspire', 'toilet', 'april'] |  
+| bip_39_word_space_1 | vintage |  
+| bip_39_word_space_10 | vintage satisfy increase rescue sign update portion print situate inspire |  
+| bip_39_word_space_11 | vintage satisfy increase rescue sign update portion print situate inspire toilet |  
+| bip_39_word_space_12 | vintage satisfy increase rescue sign update portion print situate inspire toilet april |  
+| bip_39_word_space_2 | vintage satisfy |  
+| bip_39_word_space_3 | vintage satisfy increase |  
+| bip_39_word_space_4 | vintage satisfy increase rescue |  
+| bip_39_word_space_5 | vintage satisfy increase rescue sign |  
+| bip_39_word_space_6 | vintage satisfy increase rescue sign update |  
+| bip_39_word_space_7 | vintage satisfy increase rescue sign update portion |  
+| bip_39_word_space_8 | vintage satisfy increase rescue sign update portion print |  
+| bip_39_word_space_9 | vintage satisfy increase rescue sign update portion print situate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: furnace symptom
+  * bip 39 word 3: furnace symptom green
+  * bip 39 word: furnace symptom green attack wrestle rural write time sugar hungry pig alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | furnace |  
+| bip_39_word_new_br10 | furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural<br>write<br>time<br>sugar<br>hungry |  
+| bip_39_word_new_br11 | furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural<br>write<br>time<br>sugar<br>hungry<br>pig |  
+| bip_39_word_new_br12 | furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural<br>write<br>time<br>sugar<br>hungry<br>pig<br>alley |  
+| bip_39_word_new_br2 | furnace<br>symptom |  
+| bip_39_word_new_br3 | furnace<br>symptom<br>green |  
+| bip_39_word_new_br4 | furnace<br>symptom<br>green<br>attack |  
+| bip_39_word_new_br5 | furnace<br>symptom<br>green<br>attack<br>wrestle |  
+| bip_39_word_new_br6 | furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural |  
+| bip_39_word_new_br7 | furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural<br>write |  
+| bip_39_word_new_br8 | furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural<br>write<br>time |  
+| bip_39_word_new_br9 | furnace<br>symptom<br>green<br>attack<br>wrestle<br>rural<br>write<br>time<br>sugar |  
+| bip_39_word_new_line1 | furnace |  
+| bip_39_word_new_line10 | furnace
+symptom
+green
+attack
+wrestle
+rural
+write
+time
+sugar
+hungry |  
+| bip_39_word_new_line11 | furnace
+symptom
+green
+attack
+wrestle
+rural
+write
+time
+sugar
+hungry
+pig |  
+| bip_39_word_new_line12 | furnace
+symptom
+green
+attack
+wrestle
+rural
+write
+time
+sugar
+hungry
+pig
+alley |  
+| bip_39_word_new_line2 | furnace
+symptom |  
+| bip_39_word_new_line3 | furnace
+symptom
+green |  
+| bip_39_word_new_line4 | furnace
+symptom
+green
+attack |  
+| bip_39_word_new_line5 | furnace
+symptom
+green
+attack
+wrestle |  
+| bip_39_word_new_line6 | furnace
+symptom
+green
+attack
+wrestle
+rural |  
+| bip_39_word_new_line7 | furnace
+symptom
+green
+attack
+wrestle
+rural
+write |  
+| bip_39_word_new_line8 | furnace
+symptom
+green
+attack
+wrestle
+rural
+write
+time |  
+| bip_39_word_new_line9 | furnace
+symptom
+green
+attack
+wrestle
+rural
+write
+time
+sugar |  
+| bip_39_word_space_0 | ['furnace', 'symptom', 'green', 'attack', 'wrestle', 'rural', 'write', 'time', 'sugar', 'hungry', 'pig', 'alley'] |  
+| bip_39_word_space_1 | furnace |  
+| bip_39_word_space_10 | furnace symptom green attack wrestle rural write time sugar hungry |  
+| bip_39_word_space_11 | furnace symptom green attack wrestle rural write time sugar hungry pig |  
+| bip_39_word_space_12 | furnace symptom green attack wrestle rural write time sugar hungry pig alley |  
+| bip_39_word_space_2 | furnace symptom |  
+| bip_39_word_space_3 | furnace symptom green |  
+| bip_39_word_space_4 | furnace symptom green attack |  
+| bip_39_word_space_5 | furnace symptom green attack wrestle |  
+| bip_39_word_space_6 | furnace symptom green attack wrestle rural |  
+| bip_39_word_space_7 | furnace symptom green attack wrestle rural write |  
+| bip_39_word_space_8 | furnace symptom green attack wrestle rural write time |  
+| bip_39_word_space_9 | furnace symptom green attack wrestle rural write time sugar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: celery host
+  * bip 39 word 3: celery host multiply
+  * bip 39 word: celery host multiply boring magnet wolf unfold question stick labor material arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | celery |  
+| bip_39_word_new_br10 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf<br>unfold<br>question<br>stick<br>labor |  
+| bip_39_word_new_br11 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf<br>unfold<br>question<br>stick<br>labor<br>material |  
+| bip_39_word_new_br12 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf<br>unfold<br>question<br>stick<br>labor<br>material<br>arm |  
+| bip_39_word_new_br2 | celery<br>host |  
+| bip_39_word_new_br3 | celery<br>host<br>multiply |  
+| bip_39_word_new_br4 | celery<br>host<br>multiply<br>boring |  
+| bip_39_word_new_br5 | celery<br>host<br>multiply<br>boring<br>magnet |  
+| bip_39_word_new_br6 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf |  
+| bip_39_word_new_br7 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf<br>unfold |  
+| bip_39_word_new_br8 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf<br>unfold<br>question |  
+| bip_39_word_new_br9 | celery<br>host<br>multiply<br>boring<br>magnet<br>wolf<br>unfold<br>question<br>stick |  
+| bip_39_word_new_line1 | celery |  
+| bip_39_word_new_line10 | celery
+host
+multiply
+boring
+magnet
+wolf
+unfold
+question
+stick
+labor |  
+| bip_39_word_new_line11 | celery
+host
+multiply
+boring
+magnet
+wolf
+unfold
+question
+stick
+labor
+material |  
+| bip_39_word_new_line12 | celery
+host
+multiply
+boring
+magnet
+wolf
+unfold
+question
+stick
+labor
+material
+arm |  
+| bip_39_word_new_line2 | celery
+host |  
+| bip_39_word_new_line3 | celery
+host
+multiply |  
+| bip_39_word_new_line4 | celery
+host
+multiply
+boring |  
+| bip_39_word_new_line5 | celery
+host
+multiply
+boring
+magnet |  
+| bip_39_word_new_line6 | celery
+host
+multiply
+boring
+magnet
+wolf |  
+| bip_39_word_new_line7 | celery
+host
+multiply
+boring
+magnet
+wolf
+unfold |  
+| bip_39_word_new_line8 | celery
+host
+multiply
+boring
+magnet
+wolf
+unfold
+question |  
+| bip_39_word_new_line9 | celery
+host
+multiply
+boring
+magnet
+wolf
+unfold
+question
+stick |  
+| bip_39_word_space_0 | ['celery', 'host', 'multiply', 'boring', 'magnet', 'wolf', 'unfold', 'question', 'stick', 'labor', 'material', 'arm'] |  
+| bip_39_word_space_1 | celery |  
+| bip_39_word_space_10 | celery host multiply boring magnet wolf unfold question stick labor |  
+| bip_39_word_space_11 | celery host multiply boring magnet wolf unfold question stick labor material |  
+| bip_39_word_space_12 | celery host multiply boring magnet wolf unfold question stick labor material arm |  
+| bip_39_word_space_2 | celery host |  
+| bip_39_word_space_3 | celery host multiply |  
+| bip_39_word_space_4 | celery host multiply boring |  
+| bip_39_word_space_5 | celery host multiply boring magnet |  
+| bip_39_word_space_6 | celery host multiply boring magnet wolf |  
+| bip_39_word_space_7 | celery host multiply boring magnet wolf unfold |  
+| bip_39_word_space_8 | celery host multiply boring magnet wolf unfold question |  
+| bip_39_word_space_9 | celery host multiply boring magnet wolf unfold question stick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

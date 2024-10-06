@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: opera stove
+  * bip 39 word 3: opera stove fee
+  * bip 39 word: opera stove fee train critic helmet need table tomorrow spoon certain amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | opera |  
+| bip_39_word_new_br10 | opera<br>stove<br>fee<br>train<br>critic<br>helmet<br>need<br>table<br>tomorrow<br>spoon |  
+| bip_39_word_new_br11 | opera<br>stove<br>fee<br>train<br>critic<br>helmet<br>need<br>table<br>tomorrow<br>spoon<br>certain |  
+| bip_39_word_new_br12 | opera<br>stove<br>fee<br>train<br>critic<br>helmet<br>need<br>table<br>tomorrow<br>spoon<br>certain<br>amateur |  
+| bip_39_word_new_br2 | opera<br>stove |  
+| bip_39_word_new_br3 | opera<br>stove<br>fee |  
+| bip_39_word_new_br4 | opera<br>stove<br>fee<br>train |  
+| bip_39_word_new_br5 | opera<br>stove<br>fee<br>train<br>critic |  
+| bip_39_word_new_br6 | opera<br>stove<br>fee<br>train<br>critic<br>helmet |  
+| bip_39_word_new_br7 | opera<br>stove<br>fee<br>train<br>critic<br>helmet<br>need |  
+| bip_39_word_new_br8 | opera<br>stove<br>fee<br>train<br>critic<br>helmet<br>need<br>table |  
+| bip_39_word_new_br9 | opera<br>stove<br>fee<br>train<br>critic<br>helmet<br>need<br>table<br>tomorrow |  
+| bip_39_word_new_line1 | opera |  
+| bip_39_word_new_line10 | opera
+stove
+fee
+train
+critic
+helmet
+need
+table
+tomorrow
+spoon |  
+| bip_39_word_new_line11 | opera
+stove
+fee
+train
+critic
+helmet
+need
+table
+tomorrow
+spoon
+certain |  
+| bip_39_word_new_line12 | opera
+stove
+fee
+train
+critic
+helmet
+need
+table
+tomorrow
+spoon
+certain
+amateur |  
+| bip_39_word_new_line2 | opera
+stove |  
+| bip_39_word_new_line3 | opera
+stove
+fee |  
+| bip_39_word_new_line4 | opera
+stove
+fee
+train |  
+| bip_39_word_new_line5 | opera
+stove
+fee
+train
+critic |  
+| bip_39_word_new_line6 | opera
+stove
+fee
+train
+critic
+helmet |  
+| bip_39_word_new_line7 | opera
+stove
+fee
+train
+critic
+helmet
+need |  
+| bip_39_word_new_line8 | opera
+stove
+fee
+train
+critic
+helmet
+need
+table |  
+| bip_39_word_new_line9 | opera
+stove
+fee
+train
+critic
+helmet
+need
+table
+tomorrow |  
+| bip_39_word_space_0 | ['opera', 'stove', 'fee', 'train', 'critic', 'helmet', 'need', 'table', 'tomorrow', 'spoon', 'certain', 'amateur'] |  
+| bip_39_word_space_1 | opera |  
+| bip_39_word_space_10 | opera stove fee train critic helmet need table tomorrow spoon |  
+| bip_39_word_space_11 | opera stove fee train critic helmet need table tomorrow spoon certain |  
+| bip_39_word_space_12 | opera stove fee train critic helmet need table tomorrow spoon certain amateur |  
+| bip_39_word_space_2 | opera stove |  
+| bip_39_word_space_3 | opera stove fee |  
+| bip_39_word_space_4 | opera stove fee train |  
+| bip_39_word_space_5 | opera stove fee train critic |  
+| bip_39_word_space_6 | opera stove fee train critic helmet |  
+| bip_39_word_space_7 | opera stove fee train critic helmet need |  
+| bip_39_word_space_8 | opera stove fee train critic helmet need table |  
+| bip_39_word_space_9 | opera stove fee train critic helmet need table tomorrow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

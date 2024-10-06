@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: z
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: size state
+  * bip 39 word 3: size state beach
+  * bip 39 word: size state beach better fork head pudding wolf spirit reason control allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | size |  
+| bip_39_word_new_br10 | size<br>state<br>beach<br>better<br>fork<br>head<br>pudding<br>wolf<br>spirit<br>reason |  
+| bip_39_word_new_br11 | size<br>state<br>beach<br>better<br>fork<br>head<br>pudding<br>wolf<br>spirit<br>reason<br>control |  
+| bip_39_word_new_br12 | size<br>state<br>beach<br>better<br>fork<br>head<br>pudding<br>wolf<br>spirit<br>reason<br>control<br>allow |  
+| bip_39_word_new_br2 | size<br>state |  
+| bip_39_word_new_br3 | size<br>state<br>beach |  
+| bip_39_word_new_br4 | size<br>state<br>beach<br>better |  
+| bip_39_word_new_br5 | size<br>state<br>beach<br>better<br>fork |  
+| bip_39_word_new_br6 | size<br>state<br>beach<br>better<br>fork<br>head |  
+| bip_39_word_new_br7 | size<br>state<br>beach<br>better<br>fork<br>head<br>pudding |  
+| bip_39_word_new_br8 | size<br>state<br>beach<br>better<br>fork<br>head<br>pudding<br>wolf |  
+| bip_39_word_new_br9 | size<br>state<br>beach<br>better<br>fork<br>head<br>pudding<br>wolf<br>spirit |  
+| bip_39_word_new_line1 | size |  
+| bip_39_word_new_line10 | size
+state
+beach
+better
+fork
+head
+pudding
+wolf
+spirit
+reason |  
+| bip_39_word_new_line11 | size
+state
+beach
+better
+fork
+head
+pudding
+wolf
+spirit
+reason
+control |  
+| bip_39_word_new_line12 | size
+state
+beach
+better
+fork
+head
+pudding
+wolf
+spirit
+reason
+control
+allow |  
+| bip_39_word_new_line2 | size
+state |  
+| bip_39_word_new_line3 | size
+state
+beach |  
+| bip_39_word_new_line4 | size
+state
+beach
+better |  
+| bip_39_word_new_line5 | size
+state
+beach
+better
+fork |  
+| bip_39_word_new_line6 | size
+state
+beach
+better
+fork
+head |  
+| bip_39_word_new_line7 | size
+state
+beach
+better
+fork
+head
+pudding |  
+| bip_39_word_new_line8 | size
+state
+beach
+better
+fork
+head
+pudding
+wolf |  
+| bip_39_word_new_line9 | size
+state
+beach
+better
+fork
+head
+pudding
+wolf
+spirit |  
+| bip_39_word_space_0 | ['size', 'state', 'beach', 'better', 'fork', 'head', 'pudding', 'wolf', 'spirit', 'reason', 'control', 'allow'] |  
+| bip_39_word_space_1 | size |  
+| bip_39_word_space_10 | size state beach better fork head pudding wolf spirit reason |  
+| bip_39_word_space_11 | size state beach better fork head pudding wolf spirit reason control |  
+| bip_39_word_space_12 | size state beach better fork head pudding wolf spirit reason control allow |  
+| bip_39_word_space_2 | size state |  
+| bip_39_word_space_3 | size state beach |  
+| bip_39_word_space_4 | size state beach better |  
+| bip_39_word_space_5 | size state beach better fork |  
+| bip_39_word_space_6 | size state beach better fork head |  
+| bip_39_word_space_7 | size state beach better fork head pudding |  
+| bip_39_word_space_8 | size state beach better fork head pudding wolf |  
+| bip_39_word_space_9 | size state beach better fork head pudding wolf spirit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

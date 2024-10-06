@@ -1,3 +1,185 @@
+bip_39_word_new_br1: wreck
+bip_39_word_new_br10: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin
+bip_39_word_new_br11: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin<br>entry
+bip_39_word_new_br12: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack<br>spin<br>entry<br>angry
+bip_39_word_new_br2: wreck<br>pride
+bip_39_word_new_br3: wreck<br>pride<br>cricket
+bip_39_word_new_br4: wreck<br>pride<br>cricket<br>pen
+bip_39_word_new_br5: wreck<br>pride<br>cricket<br>pen<br>fit
+bip_39_word_new_br6: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot
+bip_39_word_new_br7: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote
+bip_39_word_new_br8: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass
+bip_39_word_new_br9: wreck<br>pride<br>cricket<br>pen<br>fit<br>spot<br>vote<br>mass<br>snack
+bip_39_word_new_line1: wreck
+bip_39_word_new_line10: 'wreck
+
+  pride
+
+  cricket
+
+  pen
+
+  fit
+
+  spot
+
+  vote
+
+  mass
+
+  snack
+
+  spin'
+bip_39_word_new_line11: 'wreck
+
+  pride
+
+  cricket
+
+  pen
+
+  fit
+
+  spot
+
+  vote
+
+  mass
+
+  snack
+
+  spin
+
+  entry'
+bip_39_word_new_line12: 'wreck
+
+  pride
+
+  cricket
+
+  pen
+
+  fit
+
+  spot
+
+  vote
+
+  mass
+
+  snack
+
+  spin
+
+  entry
+
+  angry'
+bip_39_word_new_line2: 'wreck
+
+  pride'
+bip_39_word_new_line3: 'wreck
+
+  pride
+
+  cricket'
+bip_39_word_new_line4: 'wreck
+
+  pride
+
+  cricket
+
+  pen'
+bip_39_word_new_line5: 'wreck
+
+  pride
+
+  cricket
+
+  pen
+
+  fit'
+bip_39_word_new_line6: 'wreck
+
+  pride
+
+  cricket
+
+  pen
+
+  fit
+
+  spot'
+bip_39_word_new_line7: 'wreck
+
+  pride
+
+  cricket
+
+  pen
+
+  fit
+
+  spot
+
+  vote'
+bip_39_word_new_line8: 'wreck
+
+  pride
+
+  cricket
+
+  pen
+
+  fit
+
+  spot
+
+  vote
+
+  mass'
+bip_39_word_new_line9: 'wreck
+
+  pride
+
+  cricket
+
+  pen
+
+  fit
+
+  spot
+
+  vote
+
+  mass
+
+  snack'
+bip_39_word_space_0:
+- wreck
+- pride
+- cricket
+- pen
+- fit
+- spot
+- vote
+- mass
+- snack
+- spin
+- entry
+- angry
+bip_39_word_space_1: wreck
+bip_39_word_space_10: wreck pride cricket pen fit spot vote mass snack spin
+bip_39_word_space_11: wreck pride cricket pen fit spot vote mass snack spin entry
+bip_39_word_space_12: wreck pride cricket pen fit spot vote mass snack spin entry
+  angry
+bip_39_word_space_2: wreck pride
+bip_39_word_space_3: wreck pride cricket
+bip_39_word_space_4: wreck pride cricket pen
+bip_39_word_space_5: wreck pride cricket pen fit
+bip_39_word_space_6: wreck pride cricket pen fit spot
+bip_39_word_space_7: wreck pride cricket pen fit spot vote
+bip_39_word_space_8: wreck pride cricket pen fit spot vote mass
+bip_39_word_space_9: wreck pride cricket pen fit spot vote mass snack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

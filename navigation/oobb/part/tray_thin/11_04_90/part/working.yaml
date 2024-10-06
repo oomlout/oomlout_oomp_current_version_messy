@@ -1,3 +1,186 @@
+bip_39_word_new_br1: drop
+bip_39_word_new_br10: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire
+bip_39_word_new_br11: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire<br>tide
+bip_39_word_new_br12: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable<br>wire<br>tide<br>affair
+bip_39_word_new_br2: drop<br>outdoor
+bip_39_word_new_br3: drop<br>outdoor<br>smile
+bip_39_word_new_br4: drop<br>outdoor<br>smile<br>dune
+bip_39_word_new_br5: drop<br>outdoor<br>smile<br>dune<br>village
+bip_39_word_new_br6: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle
+bip_39_word_new_br7: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access
+bip_39_word_new_br8: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap
+bip_39_word_new_br9: drop<br>outdoor<br>smile<br>dune<br>village<br>tackle<br>access<br>swap<br>unable
+bip_39_word_new_line1: drop
+bip_39_word_new_line10: 'drop
+
+  outdoor
+
+  smile
+
+  dune
+
+  village
+
+  tackle
+
+  access
+
+  swap
+
+  unable
+
+  wire'
+bip_39_word_new_line11: 'drop
+
+  outdoor
+
+  smile
+
+  dune
+
+  village
+
+  tackle
+
+  access
+
+  swap
+
+  unable
+
+  wire
+
+  tide'
+bip_39_word_new_line12: 'drop
+
+  outdoor
+
+  smile
+
+  dune
+
+  village
+
+  tackle
+
+  access
+
+  swap
+
+  unable
+
+  wire
+
+  tide
+
+  affair'
+bip_39_word_new_line2: 'drop
+
+  outdoor'
+bip_39_word_new_line3: 'drop
+
+  outdoor
+
+  smile'
+bip_39_word_new_line4: 'drop
+
+  outdoor
+
+  smile
+
+  dune'
+bip_39_word_new_line5: 'drop
+
+  outdoor
+
+  smile
+
+  dune
+
+  village'
+bip_39_word_new_line6: 'drop
+
+  outdoor
+
+  smile
+
+  dune
+
+  village
+
+  tackle'
+bip_39_word_new_line7: 'drop
+
+  outdoor
+
+  smile
+
+  dune
+
+  village
+
+  tackle
+
+  access'
+bip_39_word_new_line8: 'drop
+
+  outdoor
+
+  smile
+
+  dune
+
+  village
+
+  tackle
+
+  access
+
+  swap'
+bip_39_word_new_line9: 'drop
+
+  outdoor
+
+  smile
+
+  dune
+
+  village
+
+  tackle
+
+  access
+
+  swap
+
+  unable'
+bip_39_word_space_0:
+- drop
+- outdoor
+- smile
+- dune
+- village
+- tackle
+- access
+- swap
+- unable
+- wire
+- tide
+- affair
+bip_39_word_space_1: drop
+bip_39_word_space_10: drop outdoor smile dune village tackle access swap unable wire
+bip_39_word_space_11: drop outdoor smile dune village tackle access swap unable wire
+  tide
+bip_39_word_space_12: drop outdoor smile dune village tackle access swap unable wire
+  tide affair
+bip_39_word_space_2: drop outdoor
+bip_39_word_space_3: drop outdoor smile
+bip_39_word_space_4: drop outdoor smile dune
+bip_39_word_space_5: drop outdoor smile dune village
+bip_39_word_space_6: drop outdoor smile dune village tackle
+bip_39_word_space_7: drop outdoor smile dune village tackle access
+bip_39_word_space_8: drop outdoor smile dune village tackle access swap
+bip_39_word_space_9: drop outdoor smile dune village tackle access swap unable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

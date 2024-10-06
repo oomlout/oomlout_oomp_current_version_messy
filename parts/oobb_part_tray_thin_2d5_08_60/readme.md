@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: about make
+  * bip 39 word 3: about make visit
+  * bip 39 word: about make visit little naive dune someone wet clap thrive build appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | about |  
+| bip_39_word_new_br10 | about<br>make<br>visit<br>little<br>naive<br>dune<br>someone<br>wet<br>clap<br>thrive |  
+| bip_39_word_new_br11 | about<br>make<br>visit<br>little<br>naive<br>dune<br>someone<br>wet<br>clap<br>thrive<br>build |  
+| bip_39_word_new_br12 | about<br>make<br>visit<br>little<br>naive<br>dune<br>someone<br>wet<br>clap<br>thrive<br>build<br>appear |  
+| bip_39_word_new_br2 | about<br>make |  
+| bip_39_word_new_br3 | about<br>make<br>visit |  
+| bip_39_word_new_br4 | about<br>make<br>visit<br>little |  
+| bip_39_word_new_br5 | about<br>make<br>visit<br>little<br>naive |  
+| bip_39_word_new_br6 | about<br>make<br>visit<br>little<br>naive<br>dune |  
+| bip_39_word_new_br7 | about<br>make<br>visit<br>little<br>naive<br>dune<br>someone |  
+| bip_39_word_new_br8 | about<br>make<br>visit<br>little<br>naive<br>dune<br>someone<br>wet |  
+| bip_39_word_new_br9 | about<br>make<br>visit<br>little<br>naive<br>dune<br>someone<br>wet<br>clap |  
+| bip_39_word_new_line1 | about |  
+| bip_39_word_new_line10 | about
+make
+visit
+little
+naive
+dune
+someone
+wet
+clap
+thrive |  
+| bip_39_word_new_line11 | about
+make
+visit
+little
+naive
+dune
+someone
+wet
+clap
+thrive
+build |  
+| bip_39_word_new_line12 | about
+make
+visit
+little
+naive
+dune
+someone
+wet
+clap
+thrive
+build
+appear |  
+| bip_39_word_new_line2 | about
+make |  
+| bip_39_word_new_line3 | about
+make
+visit |  
+| bip_39_word_new_line4 | about
+make
+visit
+little |  
+| bip_39_word_new_line5 | about
+make
+visit
+little
+naive |  
+| bip_39_word_new_line6 | about
+make
+visit
+little
+naive
+dune |  
+| bip_39_word_new_line7 | about
+make
+visit
+little
+naive
+dune
+someone |  
+| bip_39_word_new_line8 | about
+make
+visit
+little
+naive
+dune
+someone
+wet |  
+| bip_39_word_new_line9 | about
+make
+visit
+little
+naive
+dune
+someone
+wet
+clap |  
+| bip_39_word_space_0 | ['about', 'make', 'visit', 'little', 'naive', 'dune', 'someone', 'wet', 'clap', 'thrive', 'build', 'appear'] |  
+| bip_39_word_space_1 | about |  
+| bip_39_word_space_10 | about make visit little naive dune someone wet clap thrive |  
+| bip_39_word_space_11 | about make visit little naive dune someone wet clap thrive build |  
+| bip_39_word_space_12 | about make visit little naive dune someone wet clap thrive build appear |  
+| bip_39_word_space_2 | about make |  
+| bip_39_word_space_3 | about make visit |  
+| bip_39_word_space_4 | about make visit little |  
+| bip_39_word_space_5 | about make visit little naive |  
+| bip_39_word_space_6 | about make visit little naive dune |  
+| bip_39_word_space_7 | about make visit little naive dune someone |  
+| bip_39_word_space_8 | about make visit little naive dune someone wet |  
+| bip_39_word_space_9 | about make visit little naive dune someone wet clap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

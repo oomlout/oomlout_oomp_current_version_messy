@@ -1,3 +1,186 @@
+bip_39_word_new_br1: stamp
+bip_39_word_new_br10: stamp<br>rather<br>demand<br>pencil<br>dose<br>area<br>gorilla<br>lunar<br>cargo<br>edit
+bip_39_word_new_br11: stamp<br>rather<br>demand<br>pencil<br>dose<br>area<br>gorilla<br>lunar<br>cargo<br>edit<br>august
+bip_39_word_new_br12: stamp<br>rather<br>demand<br>pencil<br>dose<br>area<br>gorilla<br>lunar<br>cargo<br>edit<br>august<br>artwork
+bip_39_word_new_br2: stamp<br>rather
+bip_39_word_new_br3: stamp<br>rather<br>demand
+bip_39_word_new_br4: stamp<br>rather<br>demand<br>pencil
+bip_39_word_new_br5: stamp<br>rather<br>demand<br>pencil<br>dose
+bip_39_word_new_br6: stamp<br>rather<br>demand<br>pencil<br>dose<br>area
+bip_39_word_new_br7: stamp<br>rather<br>demand<br>pencil<br>dose<br>area<br>gorilla
+bip_39_word_new_br8: stamp<br>rather<br>demand<br>pencil<br>dose<br>area<br>gorilla<br>lunar
+bip_39_word_new_br9: stamp<br>rather<br>demand<br>pencil<br>dose<br>area<br>gorilla<br>lunar<br>cargo
+bip_39_word_new_line1: stamp
+bip_39_word_new_line10: 'stamp
+
+  rather
+
+  demand
+
+  pencil
+
+  dose
+
+  area
+
+  gorilla
+
+  lunar
+
+  cargo
+
+  edit'
+bip_39_word_new_line11: 'stamp
+
+  rather
+
+  demand
+
+  pencil
+
+  dose
+
+  area
+
+  gorilla
+
+  lunar
+
+  cargo
+
+  edit
+
+  august'
+bip_39_word_new_line12: 'stamp
+
+  rather
+
+  demand
+
+  pencil
+
+  dose
+
+  area
+
+  gorilla
+
+  lunar
+
+  cargo
+
+  edit
+
+  august
+
+  artwork'
+bip_39_word_new_line2: 'stamp
+
+  rather'
+bip_39_word_new_line3: 'stamp
+
+  rather
+
+  demand'
+bip_39_word_new_line4: 'stamp
+
+  rather
+
+  demand
+
+  pencil'
+bip_39_word_new_line5: 'stamp
+
+  rather
+
+  demand
+
+  pencil
+
+  dose'
+bip_39_word_new_line6: 'stamp
+
+  rather
+
+  demand
+
+  pencil
+
+  dose
+
+  area'
+bip_39_word_new_line7: 'stamp
+
+  rather
+
+  demand
+
+  pencil
+
+  dose
+
+  area
+
+  gorilla'
+bip_39_word_new_line8: 'stamp
+
+  rather
+
+  demand
+
+  pencil
+
+  dose
+
+  area
+
+  gorilla
+
+  lunar'
+bip_39_word_new_line9: 'stamp
+
+  rather
+
+  demand
+
+  pencil
+
+  dose
+
+  area
+
+  gorilla
+
+  lunar
+
+  cargo'
+bip_39_word_space_0:
+- stamp
+- rather
+- demand
+- pencil
+- dose
+- area
+- gorilla
+- lunar
+- cargo
+- edit
+- august
+- artwork
+bip_39_word_space_1: stamp
+bip_39_word_space_10: stamp rather demand pencil dose area gorilla lunar cargo edit
+bip_39_word_space_11: stamp rather demand pencil dose area gorilla lunar cargo edit
+  august
+bip_39_word_space_12: stamp rather demand pencil dose area gorilla lunar cargo edit
+  august artwork
+bip_39_word_space_2: stamp rather
+bip_39_word_space_3: stamp rather demand
+bip_39_word_space_4: stamp rather demand pencil
+bip_39_word_space_5: stamp rather demand pencil dose
+bip_39_word_space_6: stamp rather demand pencil dose area
+bip_39_word_space_7: stamp rather demand pencil dose area gorilla
+bip_39_word_space_8: stamp rather demand pencil dose area gorilla lunar
+bip_39_word_space_9: stamp rather demand pencil dose area gorilla lunar cargo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

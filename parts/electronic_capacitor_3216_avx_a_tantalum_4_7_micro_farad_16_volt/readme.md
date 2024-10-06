@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_volt
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hope claim
+  * bip 39 word 3: hope claim prison
+  * bip 39 word: hope claim prison veteran inherit element spike minor heavy push month announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hope |  
+| bip_39_word_new_br10 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push |  
+| bip_39_word_new_br11 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push<br>month |  
+| bip_39_word_new_br12 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy<br>push<br>month<br>announce |  
+| bip_39_word_new_br2 | hope<br>claim |  
+| bip_39_word_new_br3 | hope<br>claim<br>prison |  
+| bip_39_word_new_br4 | hope<br>claim<br>prison<br>veteran |  
+| bip_39_word_new_br5 | hope<br>claim<br>prison<br>veteran<br>inherit |  
+| bip_39_word_new_br6 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element |  
+| bip_39_word_new_br7 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike |  
+| bip_39_word_new_br8 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor |  
+| bip_39_word_new_br9 | hope<br>claim<br>prison<br>veteran<br>inherit<br>element<br>spike<br>minor<br>heavy |  
+| bip_39_word_new_line1 | hope |  
+| bip_39_word_new_line10 | hope
+claim
+prison
+veteran
+inherit
+element
+spike
+minor
+heavy
+push |  
+| bip_39_word_new_line11 | hope
+claim
+prison
+veteran
+inherit
+element
+spike
+minor
+heavy
+push
+month |  
+| bip_39_word_new_line12 | hope
+claim
+prison
+veteran
+inherit
+element
+spike
+minor
+heavy
+push
+month
+announce |  
+| bip_39_word_new_line2 | hope
+claim |  
+| bip_39_word_new_line3 | hope
+claim
+prison |  
+| bip_39_word_new_line4 | hope
+claim
+prison
+veteran |  
+| bip_39_word_new_line5 | hope
+claim
+prison
+veteran
+inherit |  
+| bip_39_word_new_line6 | hope
+claim
+prison
+veteran
+inherit
+element |  
+| bip_39_word_new_line7 | hope
+claim
+prison
+veteran
+inherit
+element
+spike |  
+| bip_39_word_new_line8 | hope
+claim
+prison
+veteran
+inherit
+element
+spike
+minor |  
+| bip_39_word_new_line9 | hope
+claim
+prison
+veteran
+inherit
+element
+spike
+minor
+heavy |  
+| bip_39_word_space_0 | ['hope', 'claim', 'prison', 'veteran', 'inherit', 'element', 'spike', 'minor', 'heavy', 'push', 'month', 'announce'] |  
+| bip_39_word_space_1 | hope |  
+| bip_39_word_space_10 | hope claim prison veteran inherit element spike minor heavy push |  
+| bip_39_word_space_11 | hope claim prison veteran inherit element spike minor heavy push month |  
+| bip_39_word_space_12 | hope claim prison veteran inherit element spike minor heavy push month announce |  
+| bip_39_word_space_2 | hope claim |  
+| bip_39_word_space_3 | hope claim prison |  
+| bip_39_word_space_4 | hope claim prison veteran |  
+| bip_39_word_space_5 | hope claim prison veteran inherit |  
+| bip_39_word_space_6 | hope claim prison veteran inherit element |  
+| bip_39_word_space_7 | hope claim prison veteran inherit element spike |  
+| bip_39_word_space_8 | hope claim prison veteran inherit element spike minor |  
+| bip_39_word_space_9 | hope claim prison veteran inherit element spike minor heavy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

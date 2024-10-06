@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 32_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: devote river
+  * bip 39 word 3: devote river file
+  * bip 39 word: devote river file trend crop dust stable flock mobile aerobic lend asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | devote |  
+| bip_39_word_new_br10 | devote<br>river<br>file<br>trend<br>crop<br>dust<br>stable<br>flock<br>mobile<br>aerobic |  
+| bip_39_word_new_br11 | devote<br>river<br>file<br>trend<br>crop<br>dust<br>stable<br>flock<br>mobile<br>aerobic<br>lend |  
+| bip_39_word_new_br12 | devote<br>river<br>file<br>trend<br>crop<br>dust<br>stable<br>flock<br>mobile<br>aerobic<br>lend<br>asthma |  
+| bip_39_word_new_br2 | devote<br>river |  
+| bip_39_word_new_br3 | devote<br>river<br>file |  
+| bip_39_word_new_br4 | devote<br>river<br>file<br>trend |  
+| bip_39_word_new_br5 | devote<br>river<br>file<br>trend<br>crop |  
+| bip_39_word_new_br6 | devote<br>river<br>file<br>trend<br>crop<br>dust |  
+| bip_39_word_new_br7 | devote<br>river<br>file<br>trend<br>crop<br>dust<br>stable |  
+| bip_39_word_new_br8 | devote<br>river<br>file<br>trend<br>crop<br>dust<br>stable<br>flock |  
+| bip_39_word_new_br9 | devote<br>river<br>file<br>trend<br>crop<br>dust<br>stable<br>flock<br>mobile |  
+| bip_39_word_new_line1 | devote |  
+| bip_39_word_new_line10 | devote
+river
+file
+trend
+crop
+dust
+stable
+flock
+mobile
+aerobic |  
+| bip_39_word_new_line11 | devote
+river
+file
+trend
+crop
+dust
+stable
+flock
+mobile
+aerobic
+lend |  
+| bip_39_word_new_line12 | devote
+river
+file
+trend
+crop
+dust
+stable
+flock
+mobile
+aerobic
+lend
+asthma |  
+| bip_39_word_new_line2 | devote
+river |  
+| bip_39_word_new_line3 | devote
+river
+file |  
+| bip_39_word_new_line4 | devote
+river
+file
+trend |  
+| bip_39_word_new_line5 | devote
+river
+file
+trend
+crop |  
+| bip_39_word_new_line6 | devote
+river
+file
+trend
+crop
+dust |  
+| bip_39_word_new_line7 | devote
+river
+file
+trend
+crop
+dust
+stable |  
+| bip_39_word_new_line8 | devote
+river
+file
+trend
+crop
+dust
+stable
+flock |  
+| bip_39_word_new_line9 | devote
+river
+file
+trend
+crop
+dust
+stable
+flock
+mobile |  
+| bip_39_word_space_0 | ['devote', 'river', 'file', 'trend', 'crop', 'dust', 'stable', 'flock', 'mobile', 'aerobic', 'lend', 'asthma'] |  
+| bip_39_word_space_1 | devote |  
+| bip_39_word_space_10 | devote river file trend crop dust stable flock mobile aerobic |  
+| bip_39_word_space_11 | devote river file trend crop dust stable flock mobile aerobic lend |  
+| bip_39_word_space_12 | devote river file trend crop dust stable flock mobile aerobic lend asthma |  
+| bip_39_word_space_2 | devote river |  
+| bip_39_word_space_3 | devote river file |  
+| bip_39_word_space_4 | devote river file trend |  
+| bip_39_word_space_5 | devote river file trend crop |  
+| bip_39_word_space_6 | devote river file trend crop dust |  
+| bip_39_word_space_7 | devote river file trend crop dust stable |  
+| bip_39_word_space_8 | devote river file trend crop dust stable flock |  
+| bip_39_word_space_9 | devote river file trend crop dust stable flock mobile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

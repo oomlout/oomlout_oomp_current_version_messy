@@ -1,3 +1,186 @@
+bip_39_word_new_br1: solar
+bip_39_word_new_br10: solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember
+bip_39_word_new_br11: solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember<br>better
+bip_39_word_new_br12: solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt<br>remember<br>better<br>arm
+bip_39_word_new_br2: solar<br>guess
+bip_39_word_new_br3: solar<br>guess<br>fish
+bip_39_word_new_br4: solar<br>guess<br>fish<br>skirt
+bip_39_word_new_br5: solar<br>guess<br>fish<br>skirt<br>luxury
+bip_39_word_new_br6: solar<br>guess<br>fish<br>skirt<br>luxury<br>security
+bip_39_word_new_br7: solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end
+bip_39_word_new_br8: solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought
+bip_39_word_new_br9: solar<br>guess<br>fish<br>skirt<br>luxury<br>security<br>end<br>thought<br>skirt
+bip_39_word_new_line1: solar
+bip_39_word_new_line10: 'solar
+
+  guess
+
+  fish
+
+  skirt
+
+  luxury
+
+  security
+
+  end
+
+  thought
+
+  skirt
+
+  remember'
+bip_39_word_new_line11: 'solar
+
+  guess
+
+  fish
+
+  skirt
+
+  luxury
+
+  security
+
+  end
+
+  thought
+
+  skirt
+
+  remember
+
+  better'
+bip_39_word_new_line12: 'solar
+
+  guess
+
+  fish
+
+  skirt
+
+  luxury
+
+  security
+
+  end
+
+  thought
+
+  skirt
+
+  remember
+
+  better
+
+  arm'
+bip_39_word_new_line2: 'solar
+
+  guess'
+bip_39_word_new_line3: 'solar
+
+  guess
+
+  fish'
+bip_39_word_new_line4: 'solar
+
+  guess
+
+  fish
+
+  skirt'
+bip_39_word_new_line5: 'solar
+
+  guess
+
+  fish
+
+  skirt
+
+  luxury'
+bip_39_word_new_line6: 'solar
+
+  guess
+
+  fish
+
+  skirt
+
+  luxury
+
+  security'
+bip_39_word_new_line7: 'solar
+
+  guess
+
+  fish
+
+  skirt
+
+  luxury
+
+  security
+
+  end'
+bip_39_word_new_line8: 'solar
+
+  guess
+
+  fish
+
+  skirt
+
+  luxury
+
+  security
+
+  end
+
+  thought'
+bip_39_word_new_line9: 'solar
+
+  guess
+
+  fish
+
+  skirt
+
+  luxury
+
+  security
+
+  end
+
+  thought
+
+  skirt'
+bip_39_word_space_0:
+- solar
+- guess
+- fish
+- skirt
+- luxury
+- security
+- end
+- thought
+- skirt
+- remember
+- better
+- arm
+bip_39_word_space_1: solar
+bip_39_word_space_10: solar guess fish skirt luxury security end thought skirt remember
+bip_39_word_space_11: solar guess fish skirt luxury security end thought skirt remember
+  better
+bip_39_word_space_12: solar guess fish skirt luxury security end thought skirt remember
+  better arm
+bip_39_word_space_2: solar guess
+bip_39_word_space_3: solar guess fish
+bip_39_word_space_4: solar guess fish skirt
+bip_39_word_space_5: solar guess fish skirt luxury
+bip_39_word_space_6: solar guess fish skirt luxury security
+bip_39_word_space_7: solar guess fish skirt luxury security end
+bip_39_word_space_8: solar guess fish skirt luxury security end thought
+bip_39_word_space_9: solar guess fish skirt luxury security end thought skirt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

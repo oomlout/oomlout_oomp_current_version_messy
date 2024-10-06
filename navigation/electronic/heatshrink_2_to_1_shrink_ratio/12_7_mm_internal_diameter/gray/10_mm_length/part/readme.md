@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: discover cost
+  * bip 39 word 3: discover cost feed
+  * bip 39 word: discover cost feed bid honey token brain uncle sniff you predict amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | discover |  
+| bip_39_word_new_br10 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you |  
+| bip_39_word_new_br11 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you<br>predict |  
+| bip_39_word_new_br12 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff<br>you<br>predict<br>amount |  
+| bip_39_word_new_br2 | discover<br>cost |  
+| bip_39_word_new_br3 | discover<br>cost<br>feed |  
+| bip_39_word_new_br4 | discover<br>cost<br>feed<br>bid |  
+| bip_39_word_new_br5 | discover<br>cost<br>feed<br>bid<br>honey |  
+| bip_39_word_new_br6 | discover<br>cost<br>feed<br>bid<br>honey<br>token |  
+| bip_39_word_new_br7 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain |  
+| bip_39_word_new_br8 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle |  
+| bip_39_word_new_br9 | discover<br>cost<br>feed<br>bid<br>honey<br>token<br>brain<br>uncle<br>sniff |  
+| bip_39_word_new_line1 | discover |  
+| bip_39_word_new_line10 | discover
+cost
+feed
+bid
+honey
+token
+brain
+uncle
+sniff
+you |  
+| bip_39_word_new_line11 | discover
+cost
+feed
+bid
+honey
+token
+brain
+uncle
+sniff
+you
+predict |  
+| bip_39_word_new_line12 | discover
+cost
+feed
+bid
+honey
+token
+brain
+uncle
+sniff
+you
+predict
+amount |  
+| bip_39_word_new_line2 | discover
+cost |  
+| bip_39_word_new_line3 | discover
+cost
+feed |  
+| bip_39_word_new_line4 | discover
+cost
+feed
+bid |  
+| bip_39_word_new_line5 | discover
+cost
+feed
+bid
+honey |  
+| bip_39_word_new_line6 | discover
+cost
+feed
+bid
+honey
+token |  
+| bip_39_word_new_line7 | discover
+cost
+feed
+bid
+honey
+token
+brain |  
+| bip_39_word_new_line8 | discover
+cost
+feed
+bid
+honey
+token
+brain
+uncle |  
+| bip_39_word_new_line9 | discover
+cost
+feed
+bid
+honey
+token
+brain
+uncle
+sniff |  
+| bip_39_word_space_0 | ['discover', 'cost', 'feed', 'bid', 'honey', 'token', 'brain', 'uncle', 'sniff', 'you', 'predict', 'amount'] |  
+| bip_39_word_space_1 | discover |  
+| bip_39_word_space_10 | discover cost feed bid honey token brain uncle sniff you |  
+| bip_39_word_space_11 | discover cost feed bid honey token brain uncle sniff you predict |  
+| bip_39_word_space_12 | discover cost feed bid honey token brain uncle sniff you predict amount |  
+| bip_39_word_space_2 | discover cost |  
+| bip_39_word_space_3 | discover cost feed |  
+| bip_39_word_space_4 | discover cost feed bid |  
+| bip_39_word_space_5 | discover cost feed bid honey |  
+| bip_39_word_space_6 | discover cost feed bid honey token |  
+| bip_39_word_space_7 | discover cost feed bid honey token brain |  
+| bip_39_word_space_8 | discover cost feed bid honey token brain uncle |  
+| bip_39_word_space_9 | discover cost feed bid honey token brain uncle sniff |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

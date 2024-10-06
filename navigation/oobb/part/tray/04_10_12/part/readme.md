@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: canvas input
+  * bip 39 word 3: canvas input require
+  * bip 39 word: canvas input require govern erupt debate ketchup garment include burden castle absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | canvas |  
+| bip_39_word_new_br10 | canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include<br>burden |  
+| bip_39_word_new_br11 | canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include<br>burden<br>castle |  
+| bip_39_word_new_br12 | canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include<br>burden<br>castle<br>absorb |  
+| bip_39_word_new_br2 | canvas<br>input |  
+| bip_39_word_new_br3 | canvas<br>input<br>require |  
+| bip_39_word_new_br4 | canvas<br>input<br>require<br>govern |  
+| bip_39_word_new_br5 | canvas<br>input<br>require<br>govern<br>erupt |  
+| bip_39_word_new_br6 | canvas<br>input<br>require<br>govern<br>erupt<br>debate |  
+| bip_39_word_new_br7 | canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup |  
+| bip_39_word_new_br8 | canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment |  
+| bip_39_word_new_br9 | canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include |  
+| bip_39_word_new_line1 | canvas |  
+| bip_39_word_new_line10 | canvas
+input
+require
+govern
+erupt
+debate
+ketchup
+garment
+include
+burden |  
+| bip_39_word_new_line11 | canvas
+input
+require
+govern
+erupt
+debate
+ketchup
+garment
+include
+burden
+castle |  
+| bip_39_word_new_line12 | canvas
+input
+require
+govern
+erupt
+debate
+ketchup
+garment
+include
+burden
+castle
+absorb |  
+| bip_39_word_new_line2 | canvas
+input |  
+| bip_39_word_new_line3 | canvas
+input
+require |  
+| bip_39_word_new_line4 | canvas
+input
+require
+govern |  
+| bip_39_word_new_line5 | canvas
+input
+require
+govern
+erupt |  
+| bip_39_word_new_line6 | canvas
+input
+require
+govern
+erupt
+debate |  
+| bip_39_word_new_line7 | canvas
+input
+require
+govern
+erupt
+debate
+ketchup |  
+| bip_39_word_new_line8 | canvas
+input
+require
+govern
+erupt
+debate
+ketchup
+garment |  
+| bip_39_word_new_line9 | canvas
+input
+require
+govern
+erupt
+debate
+ketchup
+garment
+include |  
+| bip_39_word_space_0 | ['canvas', 'input', 'require', 'govern', 'erupt', 'debate', 'ketchup', 'garment', 'include', 'burden', 'castle', 'absorb'] |  
+| bip_39_word_space_1 | canvas |  
+| bip_39_word_space_10 | canvas input require govern erupt debate ketchup garment include burden |  
+| bip_39_word_space_11 | canvas input require govern erupt debate ketchup garment include burden castle |  
+| bip_39_word_space_12 | canvas input require govern erupt debate ketchup garment include burden castle absorb |  
+| bip_39_word_space_2 | canvas input |  
+| bip_39_word_space_3 | canvas input require |  
+| bip_39_word_space_4 | canvas input require govern |  
+| bip_39_word_space_5 | canvas input require govern erupt |  
+| bip_39_word_space_6 | canvas input require govern erupt debate |  
+| bip_39_word_space_7 | canvas input require govern erupt debate ketchup |  
+| bip_39_word_space_8 | canvas input require govern erupt debate ketchup garment |  
+| bip_39_word_space_9 | canvas input require govern erupt debate ketchup garment include |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eyebrow umbrella
+  * bip 39 word 3: eyebrow umbrella salt
+  * bip 39 word: eyebrow umbrella salt avocado else zebra symptom crash develop patrol squirrel actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eyebrow |  
+| bip_39_word_new_br10 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol |  
+| bip_39_word_new_br11 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol<br>squirrel |  
+| bip_39_word_new_br12 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop<br>patrol<br>squirrel<br>actor |  
+| bip_39_word_new_br2 | eyebrow<br>umbrella |  
+| bip_39_word_new_br3 | eyebrow<br>umbrella<br>salt |  
+| bip_39_word_new_br4 | eyebrow<br>umbrella<br>salt<br>avocado |  
+| bip_39_word_new_br5 | eyebrow<br>umbrella<br>salt<br>avocado<br>else |  
+| bip_39_word_new_br6 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra |  
+| bip_39_word_new_br7 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom |  
+| bip_39_word_new_br8 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash |  
+| bip_39_word_new_br9 | eyebrow<br>umbrella<br>salt<br>avocado<br>else<br>zebra<br>symptom<br>crash<br>develop |  
+| bip_39_word_new_line1 | eyebrow |  
+| bip_39_word_new_line10 | eyebrow
+umbrella
+salt
+avocado
+else
+zebra
+symptom
+crash
+develop
+patrol |  
+| bip_39_word_new_line11 | eyebrow
+umbrella
+salt
+avocado
+else
+zebra
+symptom
+crash
+develop
+patrol
+squirrel |  
+| bip_39_word_new_line12 | eyebrow
+umbrella
+salt
+avocado
+else
+zebra
+symptom
+crash
+develop
+patrol
+squirrel
+actor |  
+| bip_39_word_new_line2 | eyebrow
+umbrella |  
+| bip_39_word_new_line3 | eyebrow
+umbrella
+salt |  
+| bip_39_word_new_line4 | eyebrow
+umbrella
+salt
+avocado |  
+| bip_39_word_new_line5 | eyebrow
+umbrella
+salt
+avocado
+else |  
+| bip_39_word_new_line6 | eyebrow
+umbrella
+salt
+avocado
+else
+zebra |  
+| bip_39_word_new_line7 | eyebrow
+umbrella
+salt
+avocado
+else
+zebra
+symptom |  
+| bip_39_word_new_line8 | eyebrow
+umbrella
+salt
+avocado
+else
+zebra
+symptom
+crash |  
+| bip_39_word_new_line9 | eyebrow
+umbrella
+salt
+avocado
+else
+zebra
+symptom
+crash
+develop |  
+| bip_39_word_space_0 | ['eyebrow', 'umbrella', 'salt', 'avocado', 'else', 'zebra', 'symptom', 'crash', 'develop', 'patrol', 'squirrel', 'actor'] |  
+| bip_39_word_space_1 | eyebrow |  
+| bip_39_word_space_10 | eyebrow umbrella salt avocado else zebra symptom crash develop patrol |  
+| bip_39_word_space_11 | eyebrow umbrella salt avocado else zebra symptom crash develop patrol squirrel |  
+| bip_39_word_space_12 | eyebrow umbrella salt avocado else zebra symptom crash develop patrol squirrel actor |  
+| bip_39_word_space_2 | eyebrow umbrella |  
+| bip_39_word_space_3 | eyebrow umbrella salt |  
+| bip_39_word_space_4 | eyebrow umbrella salt avocado |  
+| bip_39_word_space_5 | eyebrow umbrella salt avocado else |  
+| bip_39_word_space_6 | eyebrow umbrella salt avocado else zebra |  
+| bip_39_word_space_7 | eyebrow umbrella salt avocado else zebra symptom |  
+| bip_39_word_space_8 | eyebrow umbrella salt avocado else zebra symptom crash |  
+| bip_39_word_space_9 | eyebrow umbrella salt avocado else zebra symptom crash develop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

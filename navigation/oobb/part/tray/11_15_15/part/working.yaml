@@ -1,3 +1,186 @@
+bip_39_word_new_br1: champion
+bip_39_word_new_br10: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse<br>sure<br>scale<br>invite<br>cloud
+bip_39_word_new_br11: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse<br>sure<br>scale<br>invite<br>cloud<br>lumber
+bip_39_word_new_br12: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse<br>sure<br>scale<br>invite<br>cloud<br>lumber<br>april
+bip_39_word_new_br2: champion<br>soon
+bip_39_word_new_br3: champion<br>soon<br>advice
+bip_39_word_new_br4: champion<br>soon<br>advice<br>velvet
+bip_39_word_new_br5: champion<br>soon<br>advice<br>velvet<br>alley
+bip_39_word_new_br6: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse
+bip_39_word_new_br7: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse<br>sure
+bip_39_word_new_br8: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse<br>sure<br>scale
+bip_39_word_new_br9: champion<br>soon<br>advice<br>velvet<br>alley<br>refuse<br>sure<br>scale<br>invite
+bip_39_word_new_line1: champion
+bip_39_word_new_line10: 'champion
+
+  soon
+
+  advice
+
+  velvet
+
+  alley
+
+  refuse
+
+  sure
+
+  scale
+
+  invite
+
+  cloud'
+bip_39_word_new_line11: 'champion
+
+  soon
+
+  advice
+
+  velvet
+
+  alley
+
+  refuse
+
+  sure
+
+  scale
+
+  invite
+
+  cloud
+
+  lumber'
+bip_39_word_new_line12: 'champion
+
+  soon
+
+  advice
+
+  velvet
+
+  alley
+
+  refuse
+
+  sure
+
+  scale
+
+  invite
+
+  cloud
+
+  lumber
+
+  april'
+bip_39_word_new_line2: 'champion
+
+  soon'
+bip_39_word_new_line3: 'champion
+
+  soon
+
+  advice'
+bip_39_word_new_line4: 'champion
+
+  soon
+
+  advice
+
+  velvet'
+bip_39_word_new_line5: 'champion
+
+  soon
+
+  advice
+
+  velvet
+
+  alley'
+bip_39_word_new_line6: 'champion
+
+  soon
+
+  advice
+
+  velvet
+
+  alley
+
+  refuse'
+bip_39_word_new_line7: 'champion
+
+  soon
+
+  advice
+
+  velvet
+
+  alley
+
+  refuse
+
+  sure'
+bip_39_word_new_line8: 'champion
+
+  soon
+
+  advice
+
+  velvet
+
+  alley
+
+  refuse
+
+  sure
+
+  scale'
+bip_39_word_new_line9: 'champion
+
+  soon
+
+  advice
+
+  velvet
+
+  alley
+
+  refuse
+
+  sure
+
+  scale
+
+  invite'
+bip_39_word_space_0:
+- champion
+- soon
+- advice
+- velvet
+- alley
+- refuse
+- sure
+- scale
+- invite
+- cloud
+- lumber
+- april
+bip_39_word_space_1: champion
+bip_39_word_space_10: champion soon advice velvet alley refuse sure scale invite cloud
+bip_39_word_space_11: champion soon advice velvet alley refuse sure scale invite cloud
+  lumber
+bip_39_word_space_12: champion soon advice velvet alley refuse sure scale invite cloud
+  lumber april
+bip_39_word_space_2: champion soon
+bip_39_word_space_3: champion soon advice
+bip_39_word_space_4: champion soon advice velvet
+bip_39_word_space_5: champion soon advice velvet alley
+bip_39_word_space_6: champion soon advice velvet alley refuse
+bip_39_word_space_7: champion soon advice velvet alley refuse sure
+bip_39_word_space_8: champion soon advice velvet alley refuse sure scale
+bip_39_word_space_9: champion soon advice velvet alley refuse sure scale invite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

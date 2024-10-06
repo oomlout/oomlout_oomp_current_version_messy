@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fiscal
+bip_39_word_new_br10: fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap
+bip_39_word_new_br11: fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap<br>spoon
+bip_39_word_new_br12: fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone<br>cheap<br>spoon<br>agree
+bip_39_word_new_br2: fiscal<br>food
+bip_39_word_new_br3: fiscal<br>food<br>lazy
+bip_39_word_new_br4: fiscal<br>food<br>lazy<br>rule
+bip_39_word_new_br5: fiscal<br>food<br>lazy<br>rule<br>just
+bip_39_word_new_br6: fiscal<br>food<br>lazy<br>rule<br>just<br>boil
+bip_39_word_new_br7: fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head
+bip_39_word_new_br8: fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast
+bip_39_word_new_br9: fiscal<br>food<br>lazy<br>rule<br>just<br>boil<br>head<br>toast<br>stone
+bip_39_word_new_line1: fiscal
+bip_39_word_new_line10: 'fiscal
+
+  food
+
+  lazy
+
+  rule
+
+  just
+
+  boil
+
+  head
+
+  toast
+
+  stone
+
+  cheap'
+bip_39_word_new_line11: 'fiscal
+
+  food
+
+  lazy
+
+  rule
+
+  just
+
+  boil
+
+  head
+
+  toast
+
+  stone
+
+  cheap
+
+  spoon'
+bip_39_word_new_line12: 'fiscal
+
+  food
+
+  lazy
+
+  rule
+
+  just
+
+  boil
+
+  head
+
+  toast
+
+  stone
+
+  cheap
+
+  spoon
+
+  agree'
+bip_39_word_new_line2: 'fiscal
+
+  food'
+bip_39_word_new_line3: 'fiscal
+
+  food
+
+  lazy'
+bip_39_word_new_line4: 'fiscal
+
+  food
+
+  lazy
+
+  rule'
+bip_39_word_new_line5: 'fiscal
+
+  food
+
+  lazy
+
+  rule
+
+  just'
+bip_39_word_new_line6: 'fiscal
+
+  food
+
+  lazy
+
+  rule
+
+  just
+
+  boil'
+bip_39_word_new_line7: 'fiscal
+
+  food
+
+  lazy
+
+  rule
+
+  just
+
+  boil
+
+  head'
+bip_39_word_new_line8: 'fiscal
+
+  food
+
+  lazy
+
+  rule
+
+  just
+
+  boil
+
+  head
+
+  toast'
+bip_39_word_new_line9: 'fiscal
+
+  food
+
+  lazy
+
+  rule
+
+  just
+
+  boil
+
+  head
+
+  toast
+
+  stone'
+bip_39_word_space_0:
+- fiscal
+- food
+- lazy
+- rule
+- just
+- boil
+- head
+- toast
+- stone
+- cheap
+- spoon
+- agree
+bip_39_word_space_1: fiscal
+bip_39_word_space_10: fiscal food lazy rule just boil head toast stone cheap
+bip_39_word_space_11: fiscal food lazy rule just boil head toast stone cheap spoon
+bip_39_word_space_12: fiscal food lazy rule just boil head toast stone cheap spoon
+  agree
+bip_39_word_space_2: fiscal food
+bip_39_word_space_3: fiscal food lazy
+bip_39_word_space_4: fiscal food lazy rule
+bip_39_word_space_5: fiscal food lazy rule just
+bip_39_word_space_6: fiscal food lazy rule just boil
+bip_39_word_space_7: fiscal food lazy rule just boil head
+bip_39_word_space_8: fiscal food lazy rule just boil head toast
+bip_39_word_space_9: fiscal food lazy rule just boil head toast stone
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

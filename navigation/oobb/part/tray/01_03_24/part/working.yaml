@@ -1,3 +1,187 @@
+bip_39_word_new_br1: despair
+bip_39_word_new_br10: despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side
+bip_39_word_new_br11: despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side<br>glow
+bip_39_word_new_br12: despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral<br>side<br>glow<br>across
+bip_39_word_new_br2: despair<br>edit
+bip_39_word_new_br3: despair<br>edit<br>supreme
+bip_39_word_new_br4: despair<br>edit<br>supreme<br>coast
+bip_39_word_new_br5: despair<br>edit<br>supreme<br>coast<br>fame
+bip_39_word_new_br6: despair<br>edit<br>supreme<br>coast<br>fame<br>supreme
+bip_39_word_new_br7: despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut
+bip_39_word_new_br8: despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define
+bip_39_word_new_br9: despair<br>edit<br>supreme<br>coast<br>fame<br>supreme<br>peanut<br>define<br>neutral
+bip_39_word_new_line1: despair
+bip_39_word_new_line10: 'despair
+
+  edit
+
+  supreme
+
+  coast
+
+  fame
+
+  supreme
+
+  peanut
+
+  define
+
+  neutral
+
+  side'
+bip_39_word_new_line11: 'despair
+
+  edit
+
+  supreme
+
+  coast
+
+  fame
+
+  supreme
+
+  peanut
+
+  define
+
+  neutral
+
+  side
+
+  glow'
+bip_39_word_new_line12: 'despair
+
+  edit
+
+  supreme
+
+  coast
+
+  fame
+
+  supreme
+
+  peanut
+
+  define
+
+  neutral
+
+  side
+
+  glow
+
+  across'
+bip_39_word_new_line2: 'despair
+
+  edit'
+bip_39_word_new_line3: 'despair
+
+  edit
+
+  supreme'
+bip_39_word_new_line4: 'despair
+
+  edit
+
+  supreme
+
+  coast'
+bip_39_word_new_line5: 'despair
+
+  edit
+
+  supreme
+
+  coast
+
+  fame'
+bip_39_word_new_line6: 'despair
+
+  edit
+
+  supreme
+
+  coast
+
+  fame
+
+  supreme'
+bip_39_word_new_line7: 'despair
+
+  edit
+
+  supreme
+
+  coast
+
+  fame
+
+  supreme
+
+  peanut'
+bip_39_word_new_line8: 'despair
+
+  edit
+
+  supreme
+
+  coast
+
+  fame
+
+  supreme
+
+  peanut
+
+  define'
+bip_39_word_new_line9: 'despair
+
+  edit
+
+  supreme
+
+  coast
+
+  fame
+
+  supreme
+
+  peanut
+
+  define
+
+  neutral'
+bip_39_word_space_0:
+- despair
+- edit
+- supreme
+- coast
+- fame
+- supreme
+- peanut
+- define
+- neutral
+- side
+- glow
+- across
+bip_39_word_space_1: despair
+bip_39_word_space_10: despair edit supreme coast fame supreme peanut define neutral
+  side
+bip_39_word_space_11: despair edit supreme coast fame supreme peanut define neutral
+  side glow
+bip_39_word_space_12: despair edit supreme coast fame supreme peanut define neutral
+  side glow across
+bip_39_word_space_2: despair edit
+bip_39_word_space_3: despair edit supreme
+bip_39_word_space_4: despair edit supreme coast
+bip_39_word_space_5: despair edit supreme coast fame
+bip_39_word_space_6: despair edit supreme coast fame supreme
+bip_39_word_space_7: despair edit supreme coast fame supreme peanut
+bip_39_word_space_8: despair edit supreme coast fame supreme peanut define
+bip_39_word_space_9: despair edit supreme coast fame supreme peanut define neutral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: miss lunch
+  * bip 39 word 3: miss lunch rocket
+  * bip 39 word: miss lunch rocket point brisk donor cable boring invest borrow fall allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | miss |  
+| bip_39_word_new_br10 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor<br>cable<br>boring<br>invest<br>borrow |  
+| bip_39_word_new_br11 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor<br>cable<br>boring<br>invest<br>borrow<br>fall |  
+| bip_39_word_new_br12 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor<br>cable<br>boring<br>invest<br>borrow<br>fall<br>allow |  
+| bip_39_word_new_br2 | miss<br>lunch |  
+| bip_39_word_new_br3 | miss<br>lunch<br>rocket |  
+| bip_39_word_new_br4 | miss<br>lunch<br>rocket<br>point |  
+| bip_39_word_new_br5 | miss<br>lunch<br>rocket<br>point<br>brisk |  
+| bip_39_word_new_br6 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor |  
+| bip_39_word_new_br7 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor<br>cable |  
+| bip_39_word_new_br8 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor<br>cable<br>boring |  
+| bip_39_word_new_br9 | miss<br>lunch<br>rocket<br>point<br>brisk<br>donor<br>cable<br>boring<br>invest |  
+| bip_39_word_new_line1 | miss |  
+| bip_39_word_new_line10 | miss
+lunch
+rocket
+point
+brisk
+donor
+cable
+boring
+invest
+borrow |  
+| bip_39_word_new_line11 | miss
+lunch
+rocket
+point
+brisk
+donor
+cable
+boring
+invest
+borrow
+fall |  
+| bip_39_word_new_line12 | miss
+lunch
+rocket
+point
+brisk
+donor
+cable
+boring
+invest
+borrow
+fall
+allow |  
+| bip_39_word_new_line2 | miss
+lunch |  
+| bip_39_word_new_line3 | miss
+lunch
+rocket |  
+| bip_39_word_new_line4 | miss
+lunch
+rocket
+point |  
+| bip_39_word_new_line5 | miss
+lunch
+rocket
+point
+brisk |  
+| bip_39_word_new_line6 | miss
+lunch
+rocket
+point
+brisk
+donor |  
+| bip_39_word_new_line7 | miss
+lunch
+rocket
+point
+brisk
+donor
+cable |  
+| bip_39_word_new_line8 | miss
+lunch
+rocket
+point
+brisk
+donor
+cable
+boring |  
+| bip_39_word_new_line9 | miss
+lunch
+rocket
+point
+brisk
+donor
+cable
+boring
+invest |  
+| bip_39_word_space_0 | ['miss', 'lunch', 'rocket', 'point', 'brisk', 'donor', 'cable', 'boring', 'invest', 'borrow', 'fall', 'allow'] |  
+| bip_39_word_space_1 | miss |  
+| bip_39_word_space_10 | miss lunch rocket point brisk donor cable boring invest borrow |  
+| bip_39_word_space_11 | miss lunch rocket point brisk donor cable boring invest borrow fall |  
+| bip_39_word_space_12 | miss lunch rocket point brisk donor cable boring invest borrow fall allow |  
+| bip_39_word_space_2 | miss lunch |  
+| bip_39_word_space_3 | miss lunch rocket |  
+| bip_39_word_space_4 | miss lunch rocket point |  
+| bip_39_word_space_5 | miss lunch rocket point brisk |  
+| bip_39_word_space_6 | miss lunch rocket point brisk donor |  
+| bip_39_word_space_7 | miss lunch rocket point brisk donor cable |  
+| bip_39_word_space_8 | miss lunch rocket point brisk donor cable boring |  
+| bip_39_word_space_9 | miss lunch rocket point brisk donor cable boring invest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

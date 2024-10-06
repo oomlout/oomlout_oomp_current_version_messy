@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: meat stairs
+  * bip 39 word 3: meat stairs company
+  * bip 39 word: meat stairs company season valve axis level judge toy ticket exercise anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | meat |  
+| bip_39_word_new_br10 | meat<br>stairs<br>company<br>season<br>valve<br>axis<br>level<br>judge<br>toy<br>ticket |  
+| bip_39_word_new_br11 | meat<br>stairs<br>company<br>season<br>valve<br>axis<br>level<br>judge<br>toy<br>ticket<br>exercise |  
+| bip_39_word_new_br12 | meat<br>stairs<br>company<br>season<br>valve<br>axis<br>level<br>judge<br>toy<br>ticket<br>exercise<br>anger |  
+| bip_39_word_new_br2 | meat<br>stairs |  
+| bip_39_word_new_br3 | meat<br>stairs<br>company |  
+| bip_39_word_new_br4 | meat<br>stairs<br>company<br>season |  
+| bip_39_word_new_br5 | meat<br>stairs<br>company<br>season<br>valve |  
+| bip_39_word_new_br6 | meat<br>stairs<br>company<br>season<br>valve<br>axis |  
+| bip_39_word_new_br7 | meat<br>stairs<br>company<br>season<br>valve<br>axis<br>level |  
+| bip_39_word_new_br8 | meat<br>stairs<br>company<br>season<br>valve<br>axis<br>level<br>judge |  
+| bip_39_word_new_br9 | meat<br>stairs<br>company<br>season<br>valve<br>axis<br>level<br>judge<br>toy |  
+| bip_39_word_new_line1 | meat |  
+| bip_39_word_new_line10 | meat
+stairs
+company
+season
+valve
+axis
+level
+judge
+toy
+ticket |  
+| bip_39_word_new_line11 | meat
+stairs
+company
+season
+valve
+axis
+level
+judge
+toy
+ticket
+exercise |  
+| bip_39_word_new_line12 | meat
+stairs
+company
+season
+valve
+axis
+level
+judge
+toy
+ticket
+exercise
+anger |  
+| bip_39_word_new_line2 | meat
+stairs |  
+| bip_39_word_new_line3 | meat
+stairs
+company |  
+| bip_39_word_new_line4 | meat
+stairs
+company
+season |  
+| bip_39_word_new_line5 | meat
+stairs
+company
+season
+valve |  
+| bip_39_word_new_line6 | meat
+stairs
+company
+season
+valve
+axis |  
+| bip_39_word_new_line7 | meat
+stairs
+company
+season
+valve
+axis
+level |  
+| bip_39_word_new_line8 | meat
+stairs
+company
+season
+valve
+axis
+level
+judge |  
+| bip_39_word_new_line9 | meat
+stairs
+company
+season
+valve
+axis
+level
+judge
+toy |  
+| bip_39_word_space_0 | ['meat', 'stairs', 'company', 'season', 'valve', 'axis', 'level', 'judge', 'toy', 'ticket', 'exercise', 'anger'] |  
+| bip_39_word_space_1 | meat |  
+| bip_39_word_space_10 | meat stairs company season valve axis level judge toy ticket |  
+| bip_39_word_space_11 | meat stairs company season valve axis level judge toy ticket exercise |  
+| bip_39_word_space_12 | meat stairs company season valve axis level judge toy ticket exercise anger |  
+| bip_39_word_space_2 | meat stairs |  
+| bip_39_word_space_3 | meat stairs company |  
+| bip_39_word_space_4 | meat stairs company season |  
+| bip_39_word_space_5 | meat stairs company season valve |  
+| bip_39_word_space_6 | meat stairs company season valve axis |  
+| bip_39_word_space_7 | meat stairs company season valve axis level |  
+| bip_39_word_space_8 | meat stairs company season valve axis level judge |  
+| bip_39_word_space_9 | meat stairs company season valve axis level judge toy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

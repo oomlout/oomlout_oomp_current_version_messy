@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: renew funny
+  * bip 39 word 3: renew funny dynamic
+  * bip 39 word: renew funny dynamic indoor hill jump legal carry rebuild ticket below armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | renew |  
+| bip_39_word_new_br10 | renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump<br>legal<br>carry<br>rebuild<br>ticket |  
+| bip_39_word_new_br11 | renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump<br>legal<br>carry<br>rebuild<br>ticket<br>below |  
+| bip_39_word_new_br12 | renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump<br>legal<br>carry<br>rebuild<br>ticket<br>below<br>armor |  
+| bip_39_word_new_br2 | renew<br>funny |  
+| bip_39_word_new_br3 | renew<br>funny<br>dynamic |  
+| bip_39_word_new_br4 | renew<br>funny<br>dynamic<br>indoor |  
+| bip_39_word_new_br5 | renew<br>funny<br>dynamic<br>indoor<br>hill |  
+| bip_39_word_new_br6 | renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump |  
+| bip_39_word_new_br7 | renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump<br>legal |  
+| bip_39_word_new_br8 | renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump<br>legal<br>carry |  
+| bip_39_word_new_br9 | renew<br>funny<br>dynamic<br>indoor<br>hill<br>jump<br>legal<br>carry<br>rebuild |  
+| bip_39_word_new_line1 | renew |  
+| bip_39_word_new_line10 | renew
+funny
+dynamic
+indoor
+hill
+jump
+legal
+carry
+rebuild
+ticket |  
+| bip_39_word_new_line11 | renew
+funny
+dynamic
+indoor
+hill
+jump
+legal
+carry
+rebuild
+ticket
+below |  
+| bip_39_word_new_line12 | renew
+funny
+dynamic
+indoor
+hill
+jump
+legal
+carry
+rebuild
+ticket
+below
+armor |  
+| bip_39_word_new_line2 | renew
+funny |  
+| bip_39_word_new_line3 | renew
+funny
+dynamic |  
+| bip_39_word_new_line4 | renew
+funny
+dynamic
+indoor |  
+| bip_39_word_new_line5 | renew
+funny
+dynamic
+indoor
+hill |  
+| bip_39_word_new_line6 | renew
+funny
+dynamic
+indoor
+hill
+jump |  
+| bip_39_word_new_line7 | renew
+funny
+dynamic
+indoor
+hill
+jump
+legal |  
+| bip_39_word_new_line8 | renew
+funny
+dynamic
+indoor
+hill
+jump
+legal
+carry |  
+| bip_39_word_new_line9 | renew
+funny
+dynamic
+indoor
+hill
+jump
+legal
+carry
+rebuild |  
+| bip_39_word_space_0 | ['renew', 'funny', 'dynamic', 'indoor', 'hill', 'jump', 'legal', 'carry', 'rebuild', 'ticket', 'below', 'armor'] |  
+| bip_39_word_space_1 | renew |  
+| bip_39_word_space_10 | renew funny dynamic indoor hill jump legal carry rebuild ticket |  
+| bip_39_word_space_11 | renew funny dynamic indoor hill jump legal carry rebuild ticket below |  
+| bip_39_word_space_12 | renew funny dynamic indoor hill jump legal carry rebuild ticket below armor |  
+| bip_39_word_space_2 | renew funny |  
+| bip_39_word_space_3 | renew funny dynamic |  
+| bip_39_word_space_4 | renew funny dynamic indoor |  
+| bip_39_word_space_5 | renew funny dynamic indoor hill |  
+| bip_39_word_space_6 | renew funny dynamic indoor hill jump |  
+| bip_39_word_space_7 | renew funny dynamic indoor hill jump legal |  
+| bip_39_word_space_8 | renew funny dynamic indoor hill jump legal carry |  
+| bip_39_word_space_9 | renew funny dynamic indoor hill jump legal carry rebuild |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

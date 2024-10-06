@@ -1,3 +1,159 @@
+bip_39_word_new_br1: ahead
+bip_39_word_new_br10: ahead<br>rug<br>media<br>silver<br>hockey<br>crash<br>acquire<br>bamboo<br>trust<br>try
+bip_39_word_new_br11: ahead<br>rug<br>media<br>silver<br>hockey<br>crash<br>acquire<br>bamboo<br>trust<br>try<br>broccoli
+bip_39_word_new_br2: ahead<br>rug
+bip_39_word_new_br3: ahead<br>rug<br>media
+bip_39_word_new_br4: ahead<br>rug<br>media<br>silver
+bip_39_word_new_br5: ahead<br>rug<br>media<br>silver<br>hockey
+bip_39_word_new_br6: ahead<br>rug<br>media<br>silver<br>hockey<br>crash
+bip_39_word_new_br7: ahead<br>rug<br>media<br>silver<br>hockey<br>crash<br>acquire
+bip_39_word_new_br8: ahead<br>rug<br>media<br>silver<br>hockey<br>crash<br>acquire<br>bamboo
+bip_39_word_new_br9: ahead<br>rug<br>media<br>silver<br>hockey<br>crash<br>acquire<br>bamboo<br>trust
+bip_39_word_new_line1: ahead
+bip_39_word_new_line10: 'ahead
+
+  rug
+
+  media
+
+  silver
+
+  hockey
+
+  crash
+
+  acquire
+
+  bamboo
+
+  trust
+
+  try'
+bip_39_word_new_line11: 'ahead
+
+  rug
+
+  media
+
+  silver
+
+  hockey
+
+  crash
+
+  acquire
+
+  bamboo
+
+  trust
+
+  try
+
+  broccoli'
+bip_39_word_new_line2: 'ahead
+
+  rug'
+bip_39_word_new_line3: 'ahead
+
+  rug
+
+  media'
+bip_39_word_new_line4: 'ahead
+
+  rug
+
+  media
+
+  silver'
+bip_39_word_new_line5: 'ahead
+
+  rug
+
+  media
+
+  silver
+
+  hockey'
+bip_39_word_new_line6: 'ahead
+
+  rug
+
+  media
+
+  silver
+
+  hockey
+
+  crash'
+bip_39_word_new_line7: 'ahead
+
+  rug
+
+  media
+
+  silver
+
+  hockey
+
+  crash
+
+  acquire'
+bip_39_word_new_line8: 'ahead
+
+  rug
+
+  media
+
+  silver
+
+  hockey
+
+  crash
+
+  acquire
+
+  bamboo'
+bip_39_word_new_line9: 'ahead
+
+  rug
+
+  media
+
+  silver
+
+  hockey
+
+  crash
+
+  acquire
+
+  bamboo
+
+  trust'
+bip_39_word_space_0:
+- ahead
+- rug
+- media
+- silver
+- hockey
+- crash
+- acquire
+- bamboo
+- trust
+- try
+- broccoli
+bip_39_word_space_1: ahead
+bip_39_word_space_10: ahead rug media silver hockey crash acquire bamboo trust try
+bip_39_word_space_11: ahead rug media silver hockey crash acquire bamboo trust try
+  broccoli
+bip_39_word_space_2: ahead rug
+bip_39_word_space_3: ahead rug media
+bip_39_word_space_4: ahead rug media silver
+bip_39_word_space_5: ahead rug media silver hockey
+bip_39_word_space_6: ahead rug media silver hockey crash
+bip_39_word_space_7: ahead rug media silver hockey crash acquire
+bip_39_word_space_8: ahead rug media silver hockey crash acquire bamboo
+bip_39_word_space_9: ahead rug media silver hockey crash acquire bamboo trust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

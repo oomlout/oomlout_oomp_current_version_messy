@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prepare rice
+  * bip 39 word 3: prepare rice human
+  * bip 39 word: prepare rice human lizard eight spend rhythm oven poet ugly half assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prepare |  
+| bip_39_word_new_br10 | prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet<br>ugly |  
+| bip_39_word_new_br11 | prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet<br>ugly<br>half |  
+| bip_39_word_new_br12 | prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet<br>ugly<br>half<br>assume |  
+| bip_39_word_new_br2 | prepare<br>rice |  
+| bip_39_word_new_br3 | prepare<br>rice<br>human |  
+| bip_39_word_new_br4 | prepare<br>rice<br>human<br>lizard |  
+| bip_39_word_new_br5 | prepare<br>rice<br>human<br>lizard<br>eight |  
+| bip_39_word_new_br6 | prepare<br>rice<br>human<br>lizard<br>eight<br>spend |  
+| bip_39_word_new_br7 | prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm |  
+| bip_39_word_new_br8 | prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven |  
+| bip_39_word_new_br9 | prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet |  
+| bip_39_word_new_line1 | prepare |  
+| bip_39_word_new_line10 | prepare
+rice
+human
+lizard
+eight
+spend
+rhythm
+oven
+poet
+ugly |  
+| bip_39_word_new_line11 | prepare
+rice
+human
+lizard
+eight
+spend
+rhythm
+oven
+poet
+ugly
+half |  
+| bip_39_word_new_line12 | prepare
+rice
+human
+lizard
+eight
+spend
+rhythm
+oven
+poet
+ugly
+half
+assume |  
+| bip_39_word_new_line2 | prepare
+rice |  
+| bip_39_word_new_line3 | prepare
+rice
+human |  
+| bip_39_word_new_line4 | prepare
+rice
+human
+lizard |  
+| bip_39_word_new_line5 | prepare
+rice
+human
+lizard
+eight |  
+| bip_39_word_new_line6 | prepare
+rice
+human
+lizard
+eight
+spend |  
+| bip_39_word_new_line7 | prepare
+rice
+human
+lizard
+eight
+spend
+rhythm |  
+| bip_39_word_new_line8 | prepare
+rice
+human
+lizard
+eight
+spend
+rhythm
+oven |  
+| bip_39_word_new_line9 | prepare
+rice
+human
+lizard
+eight
+spend
+rhythm
+oven
+poet |  
+| bip_39_word_space_0 | ['prepare', 'rice', 'human', 'lizard', 'eight', 'spend', 'rhythm', 'oven', 'poet', 'ugly', 'half', 'assume'] |  
+| bip_39_word_space_1 | prepare |  
+| bip_39_word_space_10 | prepare rice human lizard eight spend rhythm oven poet ugly |  
+| bip_39_word_space_11 | prepare rice human lizard eight spend rhythm oven poet ugly half |  
+| bip_39_word_space_12 | prepare rice human lizard eight spend rhythm oven poet ugly half assume |  
+| bip_39_word_space_2 | prepare rice |  
+| bip_39_word_space_3 | prepare rice human |  
+| bip_39_word_space_4 | prepare rice human lizard |  
+| bip_39_word_space_5 | prepare rice human lizard eight |  
+| bip_39_word_space_6 | prepare rice human lizard eight spend |  
+| bip_39_word_space_7 | prepare rice human lizard eight spend rhythm |  
+| bip_39_word_space_8 | prepare rice human lizard eight spend rhythm oven |  
+| bip_39_word_space_9 | prepare rice human lizard eight spend rhythm oven poet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

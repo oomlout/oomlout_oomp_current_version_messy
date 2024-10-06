@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: staff execute
+  * bip 39 word 3: staff execute dirt
+  * bip 39 word: staff execute dirt parent powder average manual health gate hamster chief artefact
 
 ### other_codes
 * short_code: ms6m12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | staff |  
+| bip_39_word_new_br10 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster |  
+| bip_39_word_new_br11 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster<br>chief |  
+| bip_39_word_new_br12 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate<br>hamster<br>chief<br>artefact |  
+| bip_39_word_new_br2 | staff<br>execute |  
+| bip_39_word_new_br3 | staff<br>execute<br>dirt |  
+| bip_39_word_new_br4 | staff<br>execute<br>dirt<br>parent |  
+| bip_39_word_new_br5 | staff<br>execute<br>dirt<br>parent<br>powder |  
+| bip_39_word_new_br6 | staff<br>execute<br>dirt<br>parent<br>powder<br>average |  
+| bip_39_word_new_br7 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual |  
+| bip_39_word_new_br8 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health |  
+| bip_39_word_new_br9 | staff<br>execute<br>dirt<br>parent<br>powder<br>average<br>manual<br>health<br>gate |  
+| bip_39_word_new_line1 | staff |  
+| bip_39_word_new_line10 | staff
+execute
+dirt
+parent
+powder
+average
+manual
+health
+gate
+hamster |  
+| bip_39_word_new_line11 | staff
+execute
+dirt
+parent
+powder
+average
+manual
+health
+gate
+hamster
+chief |  
+| bip_39_word_new_line12 | staff
+execute
+dirt
+parent
+powder
+average
+manual
+health
+gate
+hamster
+chief
+artefact |  
+| bip_39_word_new_line2 | staff
+execute |  
+| bip_39_word_new_line3 | staff
+execute
+dirt |  
+| bip_39_word_new_line4 | staff
+execute
+dirt
+parent |  
+| bip_39_word_new_line5 | staff
+execute
+dirt
+parent
+powder |  
+| bip_39_word_new_line6 | staff
+execute
+dirt
+parent
+powder
+average |  
+| bip_39_word_new_line7 | staff
+execute
+dirt
+parent
+powder
+average
+manual |  
+| bip_39_word_new_line8 | staff
+execute
+dirt
+parent
+powder
+average
+manual
+health |  
+| bip_39_word_new_line9 | staff
+execute
+dirt
+parent
+powder
+average
+manual
+health
+gate |  
+| bip_39_word_space_0 | ['staff', 'execute', 'dirt', 'parent', 'powder', 'average', 'manual', 'health', 'gate', 'hamster', 'chief', 'artefact'] |  
+| bip_39_word_space_1 | staff |  
+| bip_39_word_space_10 | staff execute dirt parent powder average manual health gate hamster |  
+| bip_39_word_space_11 | staff execute dirt parent powder average manual health gate hamster chief |  
+| bip_39_word_space_12 | staff execute dirt parent powder average manual health gate hamster chief artefact |  
+| bip_39_word_space_2 | staff execute |  
+| bip_39_word_space_3 | staff execute dirt |  
+| bip_39_word_space_4 | staff execute dirt parent |  
+| bip_39_word_space_5 | staff execute dirt parent powder |  
+| bip_39_word_space_6 | staff execute dirt parent powder average |  
+| bip_39_word_space_7 | staff execute dirt parent powder average manual |  
+| bip_39_word_space_8 | staff execute dirt parent powder average manual health |  
+| bip_39_word_space_9 | staff execute dirt parent powder average manual health gate |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

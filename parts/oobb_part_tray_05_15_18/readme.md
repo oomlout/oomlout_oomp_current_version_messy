@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: neither atom
+  * bip 39 word 3: neither atom grab
+  * bip 39 word: neither atom grab general laptop float belt orient alone front hobby arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | neither |  
+| bip_39_word_new_br10 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front |  
+| bip_39_word_new_br11 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front<br>hobby |  
+| bip_39_word_new_br12 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone<br>front<br>hobby<br>arm |  
+| bip_39_word_new_br2 | neither<br>atom |  
+| bip_39_word_new_br3 | neither<br>atom<br>grab |  
+| bip_39_word_new_br4 | neither<br>atom<br>grab<br>general |  
+| bip_39_word_new_br5 | neither<br>atom<br>grab<br>general<br>laptop |  
+| bip_39_word_new_br6 | neither<br>atom<br>grab<br>general<br>laptop<br>float |  
+| bip_39_word_new_br7 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt |  
+| bip_39_word_new_br8 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient |  
+| bip_39_word_new_br9 | neither<br>atom<br>grab<br>general<br>laptop<br>float<br>belt<br>orient<br>alone |  
+| bip_39_word_new_line1 | neither |  
+| bip_39_word_new_line10 | neither
+atom
+grab
+general
+laptop
+float
+belt
+orient
+alone
+front |  
+| bip_39_word_new_line11 | neither
+atom
+grab
+general
+laptop
+float
+belt
+orient
+alone
+front
+hobby |  
+| bip_39_word_new_line12 | neither
+atom
+grab
+general
+laptop
+float
+belt
+orient
+alone
+front
+hobby
+arm |  
+| bip_39_word_new_line2 | neither
+atom |  
+| bip_39_word_new_line3 | neither
+atom
+grab |  
+| bip_39_word_new_line4 | neither
+atom
+grab
+general |  
+| bip_39_word_new_line5 | neither
+atom
+grab
+general
+laptop |  
+| bip_39_word_new_line6 | neither
+atom
+grab
+general
+laptop
+float |  
+| bip_39_word_new_line7 | neither
+atom
+grab
+general
+laptop
+float
+belt |  
+| bip_39_word_new_line8 | neither
+atom
+grab
+general
+laptop
+float
+belt
+orient |  
+| bip_39_word_new_line9 | neither
+atom
+grab
+general
+laptop
+float
+belt
+orient
+alone |  
+| bip_39_word_space_0 | ['neither', 'atom', 'grab', 'general', 'laptop', 'float', 'belt', 'orient', 'alone', 'front', 'hobby', 'arm'] |  
+| bip_39_word_space_1 | neither |  
+| bip_39_word_space_10 | neither atom grab general laptop float belt orient alone front |  
+| bip_39_word_space_11 | neither atom grab general laptop float belt orient alone front hobby |  
+| bip_39_word_space_12 | neither atom grab general laptop float belt orient alone front hobby arm |  
+| bip_39_word_space_2 | neither atom |  
+| bip_39_word_space_3 | neither atom grab |  
+| bip_39_word_space_4 | neither atom grab general |  
+| bip_39_word_space_5 | neither atom grab general laptop |  
+| bip_39_word_space_6 | neither atom grab general laptop float |  
+| bip_39_word_space_7 | neither atom grab general laptop float belt |  
+| bip_39_word_space_8 | neither atom grab general laptop float belt orient |  
+| bip_39_word_space_9 | neither atom grab general laptop float belt orient alone |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

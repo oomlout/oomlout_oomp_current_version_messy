@@ -1,3 +1,186 @@
+bip_39_word_new_br1: injury
+bip_39_word_new_br10: injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky
+bip_39_word_new_br11: injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky<br>trash
+bip_39_word_new_br12: injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual<br>lucky<br>trash<br>average
+bip_39_word_new_br2: injury<br>siren
+bip_39_word_new_br3: injury<br>siren<br>bomb
+bip_39_word_new_br4: injury<br>siren<br>bomb<br>uphold
+bip_39_word_new_br5: injury<br>siren<br>bomb<br>uphold<br>crop
+bip_39_word_new_br6: injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure
+bip_39_word_new_br7: injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket
+bip_39_word_new_br8: injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree
+bip_39_word_new_br9: injury<br>siren<br>bomb<br>uphold<br>crop<br>ensure<br>bracket<br>degree<br>annual
+bip_39_word_new_line1: injury
+bip_39_word_new_line10: 'injury
+
+  siren
+
+  bomb
+
+  uphold
+
+  crop
+
+  ensure
+
+  bracket
+
+  degree
+
+  annual
+
+  lucky'
+bip_39_word_new_line11: 'injury
+
+  siren
+
+  bomb
+
+  uphold
+
+  crop
+
+  ensure
+
+  bracket
+
+  degree
+
+  annual
+
+  lucky
+
+  trash'
+bip_39_word_new_line12: 'injury
+
+  siren
+
+  bomb
+
+  uphold
+
+  crop
+
+  ensure
+
+  bracket
+
+  degree
+
+  annual
+
+  lucky
+
+  trash
+
+  average'
+bip_39_word_new_line2: 'injury
+
+  siren'
+bip_39_word_new_line3: 'injury
+
+  siren
+
+  bomb'
+bip_39_word_new_line4: 'injury
+
+  siren
+
+  bomb
+
+  uphold'
+bip_39_word_new_line5: 'injury
+
+  siren
+
+  bomb
+
+  uphold
+
+  crop'
+bip_39_word_new_line6: 'injury
+
+  siren
+
+  bomb
+
+  uphold
+
+  crop
+
+  ensure'
+bip_39_word_new_line7: 'injury
+
+  siren
+
+  bomb
+
+  uphold
+
+  crop
+
+  ensure
+
+  bracket'
+bip_39_word_new_line8: 'injury
+
+  siren
+
+  bomb
+
+  uphold
+
+  crop
+
+  ensure
+
+  bracket
+
+  degree'
+bip_39_word_new_line9: 'injury
+
+  siren
+
+  bomb
+
+  uphold
+
+  crop
+
+  ensure
+
+  bracket
+
+  degree
+
+  annual'
+bip_39_word_space_0:
+- injury
+- siren
+- bomb
+- uphold
+- crop
+- ensure
+- bracket
+- degree
+- annual
+- lucky
+- trash
+- average
+bip_39_word_space_1: injury
+bip_39_word_space_10: injury siren bomb uphold crop ensure bracket degree annual lucky
+bip_39_word_space_11: injury siren bomb uphold crop ensure bracket degree annual lucky
+  trash
+bip_39_word_space_12: injury siren bomb uphold crop ensure bracket degree annual lucky
+  trash average
+bip_39_word_space_2: injury siren
+bip_39_word_space_3: injury siren bomb
+bip_39_word_space_4: injury siren bomb uphold
+bip_39_word_space_5: injury siren bomb uphold crop
+bip_39_word_space_6: injury siren bomb uphold crop ensure
+bip_39_word_space_7: injury siren bomb uphold crop ensure bracket
+bip_39_word_space_8: injury siren bomb uphold crop ensure bracket degree
+bip_39_word_space_9: injury siren bomb uphold crop ensure bracket degree annual
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

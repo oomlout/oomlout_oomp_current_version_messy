@@ -1,3 +1,186 @@
+bip_39_word_new_br1: phone
+bip_39_word_new_br10: phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy
+bip_39_word_new_br11: phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy<br>art
+bip_39_word_new_br12: phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick<br>heavy<br>art<br>aunt
+bip_39_word_new_br2: phone<br>horse
+bip_39_word_new_br3: phone<br>horse<br>devote
+bip_39_word_new_br4: phone<br>horse<br>devote<br>ticket
+bip_39_word_new_br5: phone<br>horse<br>devote<br>ticket<br>island
+bip_39_word_new_br6: phone<br>horse<br>devote<br>ticket<br>island<br>earth
+bip_39_word_new_br7: phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt
+bip_39_word_new_br8: phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin
+bip_39_word_new_br9: phone<br>horse<br>devote<br>ticket<br>island<br>earth<br>adapt<br>violin<br>kick
+bip_39_word_new_line1: phone
+bip_39_word_new_line10: 'phone
+
+  horse
+
+  devote
+
+  ticket
+
+  island
+
+  earth
+
+  adapt
+
+  violin
+
+  kick
+
+  heavy'
+bip_39_word_new_line11: 'phone
+
+  horse
+
+  devote
+
+  ticket
+
+  island
+
+  earth
+
+  adapt
+
+  violin
+
+  kick
+
+  heavy
+
+  art'
+bip_39_word_new_line12: 'phone
+
+  horse
+
+  devote
+
+  ticket
+
+  island
+
+  earth
+
+  adapt
+
+  violin
+
+  kick
+
+  heavy
+
+  art
+
+  aunt'
+bip_39_word_new_line2: 'phone
+
+  horse'
+bip_39_word_new_line3: 'phone
+
+  horse
+
+  devote'
+bip_39_word_new_line4: 'phone
+
+  horse
+
+  devote
+
+  ticket'
+bip_39_word_new_line5: 'phone
+
+  horse
+
+  devote
+
+  ticket
+
+  island'
+bip_39_word_new_line6: 'phone
+
+  horse
+
+  devote
+
+  ticket
+
+  island
+
+  earth'
+bip_39_word_new_line7: 'phone
+
+  horse
+
+  devote
+
+  ticket
+
+  island
+
+  earth
+
+  adapt'
+bip_39_word_new_line8: 'phone
+
+  horse
+
+  devote
+
+  ticket
+
+  island
+
+  earth
+
+  adapt
+
+  violin'
+bip_39_word_new_line9: 'phone
+
+  horse
+
+  devote
+
+  ticket
+
+  island
+
+  earth
+
+  adapt
+
+  violin
+
+  kick'
+bip_39_word_space_0:
+- phone
+- horse
+- devote
+- ticket
+- island
+- earth
+- adapt
+- violin
+- kick
+- heavy
+- art
+- aunt
+bip_39_word_space_1: phone
+bip_39_word_space_10: phone horse devote ticket island earth adapt violin kick heavy
+bip_39_word_space_11: phone horse devote ticket island earth adapt violin kick heavy
+  art
+bip_39_word_space_12: phone horse devote ticket island earth adapt violin kick heavy
+  art aunt
+bip_39_word_space_2: phone horse
+bip_39_word_space_3: phone horse devote
+bip_39_word_space_4: phone horse devote ticket
+bip_39_word_space_5: phone horse devote ticket island
+bip_39_word_space_6: phone horse devote ticket island earth
+bip_39_word_space_7: phone horse devote ticket island earth adapt
+bip_39_word_space_8: phone horse devote ticket island earth adapt violin
+bip_39_word_space_9: phone horse devote ticket island earth adapt violin kick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

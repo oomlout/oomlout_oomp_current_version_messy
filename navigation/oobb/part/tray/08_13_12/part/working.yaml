@@ -1,3 +1,186 @@
+bip_39_word_new_br1: smile
+bip_39_word_new_br10: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder
+bip_39_word_new_br11: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder<br>step
+bip_39_word_new_br12: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic<br>wonder<br>step<br>arrive
+bip_39_word_new_br2: smile<br>tattoo
+bip_39_word_new_br3: smile<br>tattoo<br>lyrics
+bip_39_word_new_br4: smile<br>tattoo<br>lyrics<br>say
+bip_39_word_new_br5: smile<br>tattoo<br>lyrics<br>say<br>material
+bip_39_word_new_br6: smile<br>tattoo<br>lyrics<br>say<br>material<br>state
+bip_39_word_new_br7: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light
+bip_39_word_new_br8: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop
+bip_39_word_new_br9: smile<br>tattoo<br>lyrics<br>say<br>material<br>state<br>light<br>loop<br>aerobic
+bip_39_word_new_line1: smile
+bip_39_word_new_line10: 'smile
+
+  tattoo
+
+  lyrics
+
+  say
+
+  material
+
+  state
+
+  light
+
+  loop
+
+  aerobic
+
+  wonder'
+bip_39_word_new_line11: 'smile
+
+  tattoo
+
+  lyrics
+
+  say
+
+  material
+
+  state
+
+  light
+
+  loop
+
+  aerobic
+
+  wonder
+
+  step'
+bip_39_word_new_line12: 'smile
+
+  tattoo
+
+  lyrics
+
+  say
+
+  material
+
+  state
+
+  light
+
+  loop
+
+  aerobic
+
+  wonder
+
+  step
+
+  arrive'
+bip_39_word_new_line2: 'smile
+
+  tattoo'
+bip_39_word_new_line3: 'smile
+
+  tattoo
+
+  lyrics'
+bip_39_word_new_line4: 'smile
+
+  tattoo
+
+  lyrics
+
+  say'
+bip_39_word_new_line5: 'smile
+
+  tattoo
+
+  lyrics
+
+  say
+
+  material'
+bip_39_word_new_line6: 'smile
+
+  tattoo
+
+  lyrics
+
+  say
+
+  material
+
+  state'
+bip_39_word_new_line7: 'smile
+
+  tattoo
+
+  lyrics
+
+  say
+
+  material
+
+  state
+
+  light'
+bip_39_word_new_line8: 'smile
+
+  tattoo
+
+  lyrics
+
+  say
+
+  material
+
+  state
+
+  light
+
+  loop'
+bip_39_word_new_line9: 'smile
+
+  tattoo
+
+  lyrics
+
+  say
+
+  material
+
+  state
+
+  light
+
+  loop
+
+  aerobic'
+bip_39_word_space_0:
+- smile
+- tattoo
+- lyrics
+- say
+- material
+- state
+- light
+- loop
+- aerobic
+- wonder
+- step
+- arrive
+bip_39_word_space_1: smile
+bip_39_word_space_10: smile tattoo lyrics say material state light loop aerobic wonder
+bip_39_word_space_11: smile tattoo lyrics say material state light loop aerobic wonder
+  step
+bip_39_word_space_12: smile tattoo lyrics say material state light loop aerobic wonder
+  step arrive
+bip_39_word_space_2: smile tattoo
+bip_39_word_space_3: smile tattoo lyrics
+bip_39_word_space_4: smile tattoo lyrics say
+bip_39_word_space_5: smile tattoo lyrics say material
+bip_39_word_space_6: smile tattoo lyrics say material state
+bip_39_word_space_7: smile tattoo lyrics say material state light
+bip_39_word_space_8: smile tattoo lyrics say material state light loop
+bip_39_word_space_9: smile tattoo lyrics say material state light loop aerobic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

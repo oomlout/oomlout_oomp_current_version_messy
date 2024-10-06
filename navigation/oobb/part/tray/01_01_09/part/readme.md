@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: force east
+  * bip 39 word 3: force east radio
+  * bip 39 word: force east radio end garlic decade mention mandate bomb cabin false artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | force |  
+| bip_39_word_new_br10 | force<br>east<br>radio<br>end<br>garlic<br>decade<br>mention<br>mandate<br>bomb<br>cabin |  
+| bip_39_word_new_br11 | force<br>east<br>radio<br>end<br>garlic<br>decade<br>mention<br>mandate<br>bomb<br>cabin<br>false |  
+| bip_39_word_new_br12 | force<br>east<br>radio<br>end<br>garlic<br>decade<br>mention<br>mandate<br>bomb<br>cabin<br>false<br>artist |  
+| bip_39_word_new_br2 | force<br>east |  
+| bip_39_word_new_br3 | force<br>east<br>radio |  
+| bip_39_word_new_br4 | force<br>east<br>radio<br>end |  
+| bip_39_word_new_br5 | force<br>east<br>radio<br>end<br>garlic |  
+| bip_39_word_new_br6 | force<br>east<br>radio<br>end<br>garlic<br>decade |  
+| bip_39_word_new_br7 | force<br>east<br>radio<br>end<br>garlic<br>decade<br>mention |  
+| bip_39_word_new_br8 | force<br>east<br>radio<br>end<br>garlic<br>decade<br>mention<br>mandate |  
+| bip_39_word_new_br9 | force<br>east<br>radio<br>end<br>garlic<br>decade<br>mention<br>mandate<br>bomb |  
+| bip_39_word_new_line1 | force |  
+| bip_39_word_new_line10 | force
+east
+radio
+end
+garlic
+decade
+mention
+mandate
+bomb
+cabin |  
+| bip_39_word_new_line11 | force
+east
+radio
+end
+garlic
+decade
+mention
+mandate
+bomb
+cabin
+false |  
+| bip_39_word_new_line12 | force
+east
+radio
+end
+garlic
+decade
+mention
+mandate
+bomb
+cabin
+false
+artist |  
+| bip_39_word_new_line2 | force
+east |  
+| bip_39_word_new_line3 | force
+east
+radio |  
+| bip_39_word_new_line4 | force
+east
+radio
+end |  
+| bip_39_word_new_line5 | force
+east
+radio
+end
+garlic |  
+| bip_39_word_new_line6 | force
+east
+radio
+end
+garlic
+decade |  
+| bip_39_word_new_line7 | force
+east
+radio
+end
+garlic
+decade
+mention |  
+| bip_39_word_new_line8 | force
+east
+radio
+end
+garlic
+decade
+mention
+mandate |  
+| bip_39_word_new_line9 | force
+east
+radio
+end
+garlic
+decade
+mention
+mandate
+bomb |  
+| bip_39_word_space_0 | ['force', 'east', 'radio', 'end', 'garlic', 'decade', 'mention', 'mandate', 'bomb', 'cabin', 'false', 'artist'] |  
+| bip_39_word_space_1 | force |  
+| bip_39_word_space_10 | force east radio end garlic decade mention mandate bomb cabin |  
+| bip_39_word_space_11 | force east radio end garlic decade mention mandate bomb cabin false |  
+| bip_39_word_space_12 | force east radio end garlic decade mention mandate bomb cabin false artist |  
+| bip_39_word_space_2 | force east |  
+| bip_39_word_space_3 | force east radio |  
+| bip_39_word_space_4 | force east radio end |  
+| bip_39_word_space_5 | force east radio end garlic |  
+| bip_39_word_space_6 | force east radio end garlic decade |  
+| bip_39_word_space_7 | force east radio end garlic decade mention |  
+| bip_39_word_space_8 | force east radio end garlic decade mention mandate |  
+| bip_39_word_space_9 | force east radio end garlic decade mention mandate bomb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

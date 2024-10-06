@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: uphold genuine
+  * bip 39 word 3: uphold genuine inject
+  * bip 39 word: uphold genuine inject clock young example shield found humor axis worth aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | uphold |  
+| bip_39_word_new_br10 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis |  
+| bip_39_word_new_br11 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis<br>worth |  
+| bip_39_word_new_br12 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor<br>axis<br>worth<br>aunt |  
+| bip_39_word_new_br2 | uphold<br>genuine |  
+| bip_39_word_new_br3 | uphold<br>genuine<br>inject |  
+| bip_39_word_new_br4 | uphold<br>genuine<br>inject<br>clock |  
+| bip_39_word_new_br5 | uphold<br>genuine<br>inject<br>clock<br>young |  
+| bip_39_word_new_br6 | uphold<br>genuine<br>inject<br>clock<br>young<br>example |  
+| bip_39_word_new_br7 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield |  
+| bip_39_word_new_br8 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found |  
+| bip_39_word_new_br9 | uphold<br>genuine<br>inject<br>clock<br>young<br>example<br>shield<br>found<br>humor |  
+| bip_39_word_new_line1 | uphold |  
+| bip_39_word_new_line10 | uphold
+genuine
+inject
+clock
+young
+example
+shield
+found
+humor
+axis |  
+| bip_39_word_new_line11 | uphold
+genuine
+inject
+clock
+young
+example
+shield
+found
+humor
+axis
+worth |  
+| bip_39_word_new_line12 | uphold
+genuine
+inject
+clock
+young
+example
+shield
+found
+humor
+axis
+worth
+aunt |  
+| bip_39_word_new_line2 | uphold
+genuine |  
+| bip_39_word_new_line3 | uphold
+genuine
+inject |  
+| bip_39_word_new_line4 | uphold
+genuine
+inject
+clock |  
+| bip_39_word_new_line5 | uphold
+genuine
+inject
+clock
+young |  
+| bip_39_word_new_line6 | uphold
+genuine
+inject
+clock
+young
+example |  
+| bip_39_word_new_line7 | uphold
+genuine
+inject
+clock
+young
+example
+shield |  
+| bip_39_word_new_line8 | uphold
+genuine
+inject
+clock
+young
+example
+shield
+found |  
+| bip_39_word_new_line9 | uphold
+genuine
+inject
+clock
+young
+example
+shield
+found
+humor |  
+| bip_39_word_space_0 | ['uphold', 'genuine', 'inject', 'clock', 'young', 'example', 'shield', 'found', 'humor', 'axis', 'worth', 'aunt'] |  
+| bip_39_word_space_1 | uphold |  
+| bip_39_word_space_10 | uphold genuine inject clock young example shield found humor axis |  
+| bip_39_word_space_11 | uphold genuine inject clock young example shield found humor axis worth |  
+| bip_39_word_space_12 | uphold genuine inject clock young example shield found humor axis worth aunt |  
+| bip_39_word_space_2 | uphold genuine |  
+| bip_39_word_space_3 | uphold genuine inject |  
+| bip_39_word_space_4 | uphold genuine inject clock |  
+| bip_39_word_space_5 | uphold genuine inject clock young |  
+| bip_39_word_space_6 | uphold genuine inject clock young example |  
+| bip_39_word_space_7 | uphold genuine inject clock young example shield |  
+| bip_39_word_space_8 | uphold genuine inject clock young example shield found |  
+| bip_39_word_space_9 | uphold genuine inject clock young example shield found humor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

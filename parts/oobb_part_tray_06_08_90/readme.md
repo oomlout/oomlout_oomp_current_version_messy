@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: idle better
+  * bip 39 word 3: idle better digital
+  * bip 39 word: idle better digital drink key million rival assume friend purity stick animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | idle |  
+| bip_39_word_new_br10 | idle<br>better<br>digital<br>drink<br>key<br>million<br>rival<br>assume<br>friend<br>purity |  
+| bip_39_word_new_br11 | idle<br>better<br>digital<br>drink<br>key<br>million<br>rival<br>assume<br>friend<br>purity<br>stick |  
+| bip_39_word_new_br12 | idle<br>better<br>digital<br>drink<br>key<br>million<br>rival<br>assume<br>friend<br>purity<br>stick<br>animal |  
+| bip_39_word_new_br2 | idle<br>better |  
+| bip_39_word_new_br3 | idle<br>better<br>digital |  
+| bip_39_word_new_br4 | idle<br>better<br>digital<br>drink |  
+| bip_39_word_new_br5 | idle<br>better<br>digital<br>drink<br>key |  
+| bip_39_word_new_br6 | idle<br>better<br>digital<br>drink<br>key<br>million |  
+| bip_39_word_new_br7 | idle<br>better<br>digital<br>drink<br>key<br>million<br>rival |  
+| bip_39_word_new_br8 | idle<br>better<br>digital<br>drink<br>key<br>million<br>rival<br>assume |  
+| bip_39_word_new_br9 | idle<br>better<br>digital<br>drink<br>key<br>million<br>rival<br>assume<br>friend |  
+| bip_39_word_new_line1 | idle |  
+| bip_39_word_new_line10 | idle
+better
+digital
+drink
+key
+million
+rival
+assume
+friend
+purity |  
+| bip_39_word_new_line11 | idle
+better
+digital
+drink
+key
+million
+rival
+assume
+friend
+purity
+stick |  
+| bip_39_word_new_line12 | idle
+better
+digital
+drink
+key
+million
+rival
+assume
+friend
+purity
+stick
+animal |  
+| bip_39_word_new_line2 | idle
+better |  
+| bip_39_word_new_line3 | idle
+better
+digital |  
+| bip_39_word_new_line4 | idle
+better
+digital
+drink |  
+| bip_39_word_new_line5 | idle
+better
+digital
+drink
+key |  
+| bip_39_word_new_line6 | idle
+better
+digital
+drink
+key
+million |  
+| bip_39_word_new_line7 | idle
+better
+digital
+drink
+key
+million
+rival |  
+| bip_39_word_new_line8 | idle
+better
+digital
+drink
+key
+million
+rival
+assume |  
+| bip_39_word_new_line9 | idle
+better
+digital
+drink
+key
+million
+rival
+assume
+friend |  
+| bip_39_word_space_0 | ['idle', 'better', 'digital', 'drink', 'key', 'million', 'rival', 'assume', 'friend', 'purity', 'stick', 'animal'] |  
+| bip_39_word_space_1 | idle |  
+| bip_39_word_space_10 | idle better digital drink key million rival assume friend purity |  
+| bip_39_word_space_11 | idle better digital drink key million rival assume friend purity stick |  
+| bip_39_word_space_12 | idle better digital drink key million rival assume friend purity stick animal |  
+| bip_39_word_space_2 | idle better |  
+| bip_39_word_space_3 | idle better digital |  
+| bip_39_word_space_4 | idle better digital drink |  
+| bip_39_word_space_5 | idle better digital drink key |  
+| bip_39_word_space_6 | idle better digital drink key million |  
+| bip_39_word_space_7 | idle better digital drink key million rival |  
+| bip_39_word_space_8 | idle better digital drink key million rival assume |  
+| bip_39_word_space_9 | idle better digital drink key million rival assume friend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: small peace
+  * bip 39 word 3: small peace chef
+  * bip 39 word: small peace chef force atom right winner assume sample vanish stable accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | small |  
+| bip_39_word_new_br10 | small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample<br>vanish |  
+| bip_39_word_new_br11 | small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample<br>vanish<br>stable |  
+| bip_39_word_new_br12 | small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample<br>vanish<br>stable<br>accident |  
+| bip_39_word_new_br2 | small<br>peace |  
+| bip_39_word_new_br3 | small<br>peace<br>chef |  
+| bip_39_word_new_br4 | small<br>peace<br>chef<br>force |  
+| bip_39_word_new_br5 | small<br>peace<br>chef<br>force<br>atom |  
+| bip_39_word_new_br6 | small<br>peace<br>chef<br>force<br>atom<br>right |  
+| bip_39_word_new_br7 | small<br>peace<br>chef<br>force<br>atom<br>right<br>winner |  
+| bip_39_word_new_br8 | small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume |  
+| bip_39_word_new_br9 | small<br>peace<br>chef<br>force<br>atom<br>right<br>winner<br>assume<br>sample |  
+| bip_39_word_new_line1 | small |  
+| bip_39_word_new_line10 | small
+peace
+chef
+force
+atom
+right
+winner
+assume
+sample
+vanish |  
+| bip_39_word_new_line11 | small
+peace
+chef
+force
+atom
+right
+winner
+assume
+sample
+vanish
+stable |  
+| bip_39_word_new_line12 | small
+peace
+chef
+force
+atom
+right
+winner
+assume
+sample
+vanish
+stable
+accident |  
+| bip_39_word_new_line2 | small
+peace |  
+| bip_39_word_new_line3 | small
+peace
+chef |  
+| bip_39_word_new_line4 | small
+peace
+chef
+force |  
+| bip_39_word_new_line5 | small
+peace
+chef
+force
+atom |  
+| bip_39_word_new_line6 | small
+peace
+chef
+force
+atom
+right |  
+| bip_39_word_new_line7 | small
+peace
+chef
+force
+atom
+right
+winner |  
+| bip_39_word_new_line8 | small
+peace
+chef
+force
+atom
+right
+winner
+assume |  
+| bip_39_word_new_line9 | small
+peace
+chef
+force
+atom
+right
+winner
+assume
+sample |  
+| bip_39_word_space_0 | ['small', 'peace', 'chef', 'force', 'atom', 'right', 'winner', 'assume', 'sample', 'vanish', 'stable', 'accident'] |  
+| bip_39_word_space_1 | small |  
+| bip_39_word_space_10 | small peace chef force atom right winner assume sample vanish |  
+| bip_39_word_space_11 | small peace chef force atom right winner assume sample vanish stable |  
+| bip_39_word_space_12 | small peace chef force atom right winner assume sample vanish stable accident |  
+| bip_39_word_space_2 | small peace |  
+| bip_39_word_space_3 | small peace chef |  
+| bip_39_word_space_4 | small peace chef force |  
+| bip_39_word_space_5 | small peace chef force atom |  
+| bip_39_word_space_6 | small peace chef force atom right |  
+| bip_39_word_space_7 | small peace chef force atom right winner |  
+| bip_39_word_space_8 | small peace chef force atom right winner assume |  
+| bip_39_word_space_9 | small peace chef force atom right winner assume sample |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

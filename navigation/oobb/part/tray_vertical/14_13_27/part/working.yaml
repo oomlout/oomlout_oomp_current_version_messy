@@ -1,3 +1,187 @@
+bip_39_word_new_br1: enhance
+bip_39_word_new_br10: enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call
+bip_39_word_new_br11: enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call<br>you
+bip_39_word_new_br12: enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum<br>call<br>you<br>arrive
+bip_39_word_new_br2: enhance<br>capital
+bip_39_word_new_br3: enhance<br>capital<br>absent
+bip_39_word_new_br4: enhance<br>capital<br>absent<br>tip
+bip_39_word_new_br5: enhance<br>capital<br>absent<br>tip<br>develop
+bip_39_word_new_br6: enhance<br>capital<br>absent<br>tip<br>develop<br>panic
+bip_39_word_new_br7: enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable
+bip_39_word_new_br8: enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna
+bip_39_word_new_br9: enhance<br>capital<br>absent<br>tip<br>develop<br>panic<br>enable<br>antenna<br>minimum
+bip_39_word_new_line1: enhance
+bip_39_word_new_line10: 'enhance
+
+  capital
+
+  absent
+
+  tip
+
+  develop
+
+  panic
+
+  enable
+
+  antenna
+
+  minimum
+
+  call'
+bip_39_word_new_line11: 'enhance
+
+  capital
+
+  absent
+
+  tip
+
+  develop
+
+  panic
+
+  enable
+
+  antenna
+
+  minimum
+
+  call
+
+  you'
+bip_39_word_new_line12: 'enhance
+
+  capital
+
+  absent
+
+  tip
+
+  develop
+
+  panic
+
+  enable
+
+  antenna
+
+  minimum
+
+  call
+
+  you
+
+  arrive'
+bip_39_word_new_line2: 'enhance
+
+  capital'
+bip_39_word_new_line3: 'enhance
+
+  capital
+
+  absent'
+bip_39_word_new_line4: 'enhance
+
+  capital
+
+  absent
+
+  tip'
+bip_39_word_new_line5: 'enhance
+
+  capital
+
+  absent
+
+  tip
+
+  develop'
+bip_39_word_new_line6: 'enhance
+
+  capital
+
+  absent
+
+  tip
+
+  develop
+
+  panic'
+bip_39_word_new_line7: 'enhance
+
+  capital
+
+  absent
+
+  tip
+
+  develop
+
+  panic
+
+  enable'
+bip_39_word_new_line8: 'enhance
+
+  capital
+
+  absent
+
+  tip
+
+  develop
+
+  panic
+
+  enable
+
+  antenna'
+bip_39_word_new_line9: 'enhance
+
+  capital
+
+  absent
+
+  tip
+
+  develop
+
+  panic
+
+  enable
+
+  antenna
+
+  minimum'
+bip_39_word_space_0:
+- enhance
+- capital
+- absent
+- tip
+- develop
+- panic
+- enable
+- antenna
+- minimum
+- call
+- you
+- arrive
+bip_39_word_space_1: enhance
+bip_39_word_space_10: enhance capital absent tip develop panic enable antenna minimum
+  call
+bip_39_word_space_11: enhance capital absent tip develop panic enable antenna minimum
+  call you
+bip_39_word_space_12: enhance capital absent tip develop panic enable antenna minimum
+  call you arrive
+bip_39_word_space_2: enhance capital
+bip_39_word_space_3: enhance capital absent
+bip_39_word_space_4: enhance capital absent tip
+bip_39_word_space_5: enhance capital absent tip develop
+bip_39_word_space_6: enhance capital absent tip develop panic
+bip_39_word_space_7: enhance capital absent tip develop panic enable
+bip_39_word_space_8: enhance capital absent tip develop panic enable antenna
+bip_39_word_space_9: enhance capital absent tip develop panic enable antenna minimum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

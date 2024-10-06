@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: join dose
+  * bip 39 word 3: join dose choose
+  * bip 39 word: join dose choose carry stay seek buzz century good mimic night aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | join |  
+| bip_39_word_new_br10 | join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century<br>good<br>mimic |  
+| bip_39_word_new_br11 | join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century<br>good<br>mimic<br>night |  
+| bip_39_word_new_br12 | join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century<br>good<br>mimic<br>night<br>aisle |  
+| bip_39_word_new_br2 | join<br>dose |  
+| bip_39_word_new_br3 | join<br>dose<br>choose |  
+| bip_39_word_new_br4 | join<br>dose<br>choose<br>carry |  
+| bip_39_word_new_br5 | join<br>dose<br>choose<br>carry<br>stay |  
+| bip_39_word_new_br6 | join<br>dose<br>choose<br>carry<br>stay<br>seek |  
+| bip_39_word_new_br7 | join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz |  
+| bip_39_word_new_br8 | join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century |  
+| bip_39_word_new_br9 | join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century<br>good |  
+| bip_39_word_new_line1 | join |  
+| bip_39_word_new_line10 | join
+dose
+choose
+carry
+stay
+seek
+buzz
+century
+good
+mimic |  
+| bip_39_word_new_line11 | join
+dose
+choose
+carry
+stay
+seek
+buzz
+century
+good
+mimic
+night |  
+| bip_39_word_new_line12 | join
+dose
+choose
+carry
+stay
+seek
+buzz
+century
+good
+mimic
+night
+aisle |  
+| bip_39_word_new_line2 | join
+dose |  
+| bip_39_word_new_line3 | join
+dose
+choose |  
+| bip_39_word_new_line4 | join
+dose
+choose
+carry |  
+| bip_39_word_new_line5 | join
+dose
+choose
+carry
+stay |  
+| bip_39_word_new_line6 | join
+dose
+choose
+carry
+stay
+seek |  
+| bip_39_word_new_line7 | join
+dose
+choose
+carry
+stay
+seek
+buzz |  
+| bip_39_word_new_line8 | join
+dose
+choose
+carry
+stay
+seek
+buzz
+century |  
+| bip_39_word_new_line9 | join
+dose
+choose
+carry
+stay
+seek
+buzz
+century
+good |  
+| bip_39_word_space_0 | ['join', 'dose', 'choose', 'carry', 'stay', 'seek', 'buzz', 'century', 'good', 'mimic', 'night', 'aisle'] |  
+| bip_39_word_space_1 | join |  
+| bip_39_word_space_10 | join dose choose carry stay seek buzz century good mimic |  
+| bip_39_word_space_11 | join dose choose carry stay seek buzz century good mimic night |  
+| bip_39_word_space_12 | join dose choose carry stay seek buzz century good mimic night aisle |  
+| bip_39_word_space_2 | join dose |  
+| bip_39_word_space_3 | join dose choose |  
+| bip_39_word_space_4 | join dose choose carry |  
+| bip_39_word_space_5 | join dose choose carry stay |  
+| bip_39_word_space_6 | join dose choose carry stay seek |  
+| bip_39_word_space_7 | join dose choose carry stay seek buzz |  
+| bip_39_word_space_8 | join dose choose carry stay seek buzz century |  
+| bip_39_word_space_9 | join dose choose carry stay seek buzz century good |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

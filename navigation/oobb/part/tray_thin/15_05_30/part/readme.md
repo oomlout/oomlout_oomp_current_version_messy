@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stomach alpha
+  * bip 39 word 3: stomach alpha vote
+  * bip 39 word: stomach alpha vote worry cargo indicate escape coast useless agent taxi around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stomach |  
+| bip_39_word_new_br10 | stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate<br>escape<br>coast<br>useless<br>agent |  
+| bip_39_word_new_br11 | stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate<br>escape<br>coast<br>useless<br>agent<br>taxi |  
+| bip_39_word_new_br12 | stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate<br>escape<br>coast<br>useless<br>agent<br>taxi<br>around |  
+| bip_39_word_new_br2 | stomach<br>alpha |  
+| bip_39_word_new_br3 | stomach<br>alpha<br>vote |  
+| bip_39_word_new_br4 | stomach<br>alpha<br>vote<br>worry |  
+| bip_39_word_new_br5 | stomach<br>alpha<br>vote<br>worry<br>cargo |  
+| bip_39_word_new_br6 | stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate |  
+| bip_39_word_new_br7 | stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate<br>escape |  
+| bip_39_word_new_br8 | stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate<br>escape<br>coast |  
+| bip_39_word_new_br9 | stomach<br>alpha<br>vote<br>worry<br>cargo<br>indicate<br>escape<br>coast<br>useless |  
+| bip_39_word_new_line1 | stomach |  
+| bip_39_word_new_line10 | stomach
+alpha
+vote
+worry
+cargo
+indicate
+escape
+coast
+useless
+agent |  
+| bip_39_word_new_line11 | stomach
+alpha
+vote
+worry
+cargo
+indicate
+escape
+coast
+useless
+agent
+taxi |  
+| bip_39_word_new_line12 | stomach
+alpha
+vote
+worry
+cargo
+indicate
+escape
+coast
+useless
+agent
+taxi
+around |  
+| bip_39_word_new_line2 | stomach
+alpha |  
+| bip_39_word_new_line3 | stomach
+alpha
+vote |  
+| bip_39_word_new_line4 | stomach
+alpha
+vote
+worry |  
+| bip_39_word_new_line5 | stomach
+alpha
+vote
+worry
+cargo |  
+| bip_39_word_new_line6 | stomach
+alpha
+vote
+worry
+cargo
+indicate |  
+| bip_39_word_new_line7 | stomach
+alpha
+vote
+worry
+cargo
+indicate
+escape |  
+| bip_39_word_new_line8 | stomach
+alpha
+vote
+worry
+cargo
+indicate
+escape
+coast |  
+| bip_39_word_new_line9 | stomach
+alpha
+vote
+worry
+cargo
+indicate
+escape
+coast
+useless |  
+| bip_39_word_space_0 | ['stomach', 'alpha', 'vote', 'worry', 'cargo', 'indicate', 'escape', 'coast', 'useless', 'agent', 'taxi', 'around'] |  
+| bip_39_word_space_1 | stomach |  
+| bip_39_word_space_10 | stomach alpha vote worry cargo indicate escape coast useless agent |  
+| bip_39_word_space_11 | stomach alpha vote worry cargo indicate escape coast useless agent taxi |  
+| bip_39_word_space_12 | stomach alpha vote worry cargo indicate escape coast useless agent taxi around |  
+| bip_39_word_space_2 | stomach alpha |  
+| bip_39_word_space_3 | stomach alpha vote |  
+| bip_39_word_space_4 | stomach alpha vote worry |  
+| bip_39_word_space_5 | stomach alpha vote worry cargo |  
+| bip_39_word_space_6 | stomach alpha vote worry cargo indicate |  
+| bip_39_word_space_7 | stomach alpha vote worry cargo indicate escape |  
+| bip_39_word_space_8 | stomach alpha vote worry cargo indicate escape coast |  
+| bip_39_word_space_9 | stomach alpha vote worry cargo indicate escape coast useless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

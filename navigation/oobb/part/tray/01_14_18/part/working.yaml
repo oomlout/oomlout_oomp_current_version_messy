@@ -1,3 +1,186 @@
+bip_39_word_new_br1: stand
+bip_39_word_new_br10: stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy
+bip_39_word_new_br11: stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy<br>shove
+bip_39_word_new_br12: stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar<br>defy<br>shove<br>absent
+bip_39_word_new_br2: stand<br>viable
+bip_39_word_new_br3: stand<br>viable<br>pigeon
+bip_39_word_new_br4: stand<br>viable<br>pigeon<br>subway
+bip_39_word_new_br5: stand<br>viable<br>pigeon<br>subway<br>soup
+bip_39_word_new_br6: stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce
+bip_39_word_new_br7: stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed
+bip_39_word_new_br8: stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand
+bip_39_word_new_br9: stand<br>viable<br>pigeon<br>subway<br>soup<br>reduce<br>armed<br>sand<br>liar
+bip_39_word_new_line1: stand
+bip_39_word_new_line10: 'stand
+
+  viable
+
+  pigeon
+
+  subway
+
+  soup
+
+  reduce
+
+  armed
+
+  sand
+
+  liar
+
+  defy'
+bip_39_word_new_line11: 'stand
+
+  viable
+
+  pigeon
+
+  subway
+
+  soup
+
+  reduce
+
+  armed
+
+  sand
+
+  liar
+
+  defy
+
+  shove'
+bip_39_word_new_line12: 'stand
+
+  viable
+
+  pigeon
+
+  subway
+
+  soup
+
+  reduce
+
+  armed
+
+  sand
+
+  liar
+
+  defy
+
+  shove
+
+  absent'
+bip_39_word_new_line2: 'stand
+
+  viable'
+bip_39_word_new_line3: 'stand
+
+  viable
+
+  pigeon'
+bip_39_word_new_line4: 'stand
+
+  viable
+
+  pigeon
+
+  subway'
+bip_39_word_new_line5: 'stand
+
+  viable
+
+  pigeon
+
+  subway
+
+  soup'
+bip_39_word_new_line6: 'stand
+
+  viable
+
+  pigeon
+
+  subway
+
+  soup
+
+  reduce'
+bip_39_word_new_line7: 'stand
+
+  viable
+
+  pigeon
+
+  subway
+
+  soup
+
+  reduce
+
+  armed'
+bip_39_word_new_line8: 'stand
+
+  viable
+
+  pigeon
+
+  subway
+
+  soup
+
+  reduce
+
+  armed
+
+  sand'
+bip_39_word_new_line9: 'stand
+
+  viable
+
+  pigeon
+
+  subway
+
+  soup
+
+  reduce
+
+  armed
+
+  sand
+
+  liar'
+bip_39_word_space_0:
+- stand
+- viable
+- pigeon
+- subway
+- soup
+- reduce
+- armed
+- sand
+- liar
+- defy
+- shove
+- absent
+bip_39_word_space_1: stand
+bip_39_word_space_10: stand viable pigeon subway soup reduce armed sand liar defy
+bip_39_word_space_11: stand viable pigeon subway soup reduce armed sand liar defy
+  shove
+bip_39_word_space_12: stand viable pigeon subway soup reduce armed sand liar defy
+  shove absent
+bip_39_word_space_2: stand viable
+bip_39_word_space_3: stand viable pigeon
+bip_39_word_space_4: stand viable pigeon subway
+bip_39_word_space_5: stand viable pigeon subway soup
+bip_39_word_space_6: stand viable pigeon subway soup reduce
+bip_39_word_space_7: stand viable pigeon subway soup reduce armed
+bip_39_word_space_8: stand viable pigeon subway soup reduce armed sand
+bip_39_word_space_9: stand viable pigeon subway soup reduce armed sand liar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

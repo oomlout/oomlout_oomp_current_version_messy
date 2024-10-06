@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lonely undo
+  * bip 39 word 3: lonely undo piano
+  * bip 39 word: lonely undo piano believe apple pass kit movie mail onion size almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lonely |  
+| bip_39_word_new_br10 | lonely<br>undo<br>piano<br>believe<br>apple<br>pass<br>kit<br>movie<br>mail<br>onion |  
+| bip_39_word_new_br11 | lonely<br>undo<br>piano<br>believe<br>apple<br>pass<br>kit<br>movie<br>mail<br>onion<br>size |  
+| bip_39_word_new_br12 | lonely<br>undo<br>piano<br>believe<br>apple<br>pass<br>kit<br>movie<br>mail<br>onion<br>size<br>almost |  
+| bip_39_word_new_br2 | lonely<br>undo |  
+| bip_39_word_new_br3 | lonely<br>undo<br>piano |  
+| bip_39_word_new_br4 | lonely<br>undo<br>piano<br>believe |  
+| bip_39_word_new_br5 | lonely<br>undo<br>piano<br>believe<br>apple |  
+| bip_39_word_new_br6 | lonely<br>undo<br>piano<br>believe<br>apple<br>pass |  
+| bip_39_word_new_br7 | lonely<br>undo<br>piano<br>believe<br>apple<br>pass<br>kit |  
+| bip_39_word_new_br8 | lonely<br>undo<br>piano<br>believe<br>apple<br>pass<br>kit<br>movie |  
+| bip_39_word_new_br9 | lonely<br>undo<br>piano<br>believe<br>apple<br>pass<br>kit<br>movie<br>mail |  
+| bip_39_word_new_line1 | lonely |  
+| bip_39_word_new_line10 | lonely
+undo
+piano
+believe
+apple
+pass
+kit
+movie
+mail
+onion |  
+| bip_39_word_new_line11 | lonely
+undo
+piano
+believe
+apple
+pass
+kit
+movie
+mail
+onion
+size |  
+| bip_39_word_new_line12 | lonely
+undo
+piano
+believe
+apple
+pass
+kit
+movie
+mail
+onion
+size
+almost |  
+| bip_39_word_new_line2 | lonely
+undo |  
+| bip_39_word_new_line3 | lonely
+undo
+piano |  
+| bip_39_word_new_line4 | lonely
+undo
+piano
+believe |  
+| bip_39_word_new_line5 | lonely
+undo
+piano
+believe
+apple |  
+| bip_39_word_new_line6 | lonely
+undo
+piano
+believe
+apple
+pass |  
+| bip_39_word_new_line7 | lonely
+undo
+piano
+believe
+apple
+pass
+kit |  
+| bip_39_word_new_line8 | lonely
+undo
+piano
+believe
+apple
+pass
+kit
+movie |  
+| bip_39_word_new_line9 | lonely
+undo
+piano
+believe
+apple
+pass
+kit
+movie
+mail |  
+| bip_39_word_space_0 | ['lonely', 'undo', 'piano', 'believe', 'apple', 'pass', 'kit', 'movie', 'mail', 'onion', 'size', 'almost'] |  
+| bip_39_word_space_1 | lonely |  
+| bip_39_word_space_10 | lonely undo piano believe apple pass kit movie mail onion |  
+| bip_39_word_space_11 | lonely undo piano believe apple pass kit movie mail onion size |  
+| bip_39_word_space_12 | lonely undo piano believe apple pass kit movie mail onion size almost |  
+| bip_39_word_space_2 | lonely undo |  
+| bip_39_word_space_3 | lonely undo piano |  
+| bip_39_word_space_4 | lonely undo piano believe |  
+| bip_39_word_space_5 | lonely undo piano believe apple |  
+| bip_39_word_space_6 | lonely undo piano believe apple pass |  
+| bip_39_word_space_7 | lonely undo piano believe apple pass kit |  
+| bip_39_word_space_8 | lonely undo piano believe apple pass kit movie |  
+| bip_39_word_space_9 | lonely undo piano believe apple pass kit movie mail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

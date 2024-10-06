@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: begin click
+  * bip 39 word 3: begin click shallow
+  * bip 39 word: begin click shallow electric reveal business will pair depart vicious update acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | begin |  
+| bip_39_word_new_br10 | begin<br>click<br>shallow<br>electric<br>reveal<br>business<br>will<br>pair<br>depart<br>vicious |  
+| bip_39_word_new_br11 | begin<br>click<br>shallow<br>electric<br>reveal<br>business<br>will<br>pair<br>depart<br>vicious<br>update |  
+| bip_39_word_new_br12 | begin<br>click<br>shallow<br>electric<br>reveal<br>business<br>will<br>pair<br>depart<br>vicious<br>update<br>acid |  
+| bip_39_word_new_br2 | begin<br>click |  
+| bip_39_word_new_br3 | begin<br>click<br>shallow |  
+| bip_39_word_new_br4 | begin<br>click<br>shallow<br>electric |  
+| bip_39_word_new_br5 | begin<br>click<br>shallow<br>electric<br>reveal |  
+| bip_39_word_new_br6 | begin<br>click<br>shallow<br>electric<br>reveal<br>business |  
+| bip_39_word_new_br7 | begin<br>click<br>shallow<br>electric<br>reveal<br>business<br>will |  
+| bip_39_word_new_br8 | begin<br>click<br>shallow<br>electric<br>reveal<br>business<br>will<br>pair |  
+| bip_39_word_new_br9 | begin<br>click<br>shallow<br>electric<br>reveal<br>business<br>will<br>pair<br>depart |  
+| bip_39_word_new_line1 | begin |  
+| bip_39_word_new_line10 | begin
+click
+shallow
+electric
+reveal
+business
+will
+pair
+depart
+vicious |  
+| bip_39_word_new_line11 | begin
+click
+shallow
+electric
+reveal
+business
+will
+pair
+depart
+vicious
+update |  
+| bip_39_word_new_line12 | begin
+click
+shallow
+electric
+reveal
+business
+will
+pair
+depart
+vicious
+update
+acid |  
+| bip_39_word_new_line2 | begin
+click |  
+| bip_39_word_new_line3 | begin
+click
+shallow |  
+| bip_39_word_new_line4 | begin
+click
+shallow
+electric |  
+| bip_39_word_new_line5 | begin
+click
+shallow
+electric
+reveal |  
+| bip_39_word_new_line6 | begin
+click
+shallow
+electric
+reveal
+business |  
+| bip_39_word_new_line7 | begin
+click
+shallow
+electric
+reveal
+business
+will |  
+| bip_39_word_new_line8 | begin
+click
+shallow
+electric
+reveal
+business
+will
+pair |  
+| bip_39_word_new_line9 | begin
+click
+shallow
+electric
+reveal
+business
+will
+pair
+depart |  
+| bip_39_word_space_0 | ['begin', 'click', 'shallow', 'electric', 'reveal', 'business', 'will', 'pair', 'depart', 'vicious', 'update', 'acid'] |  
+| bip_39_word_space_1 | begin |  
+| bip_39_word_space_10 | begin click shallow electric reveal business will pair depart vicious |  
+| bip_39_word_space_11 | begin click shallow electric reveal business will pair depart vicious update |  
+| bip_39_word_space_12 | begin click shallow electric reveal business will pair depart vicious update acid |  
+| bip_39_word_space_2 | begin click |  
+| bip_39_word_space_3 | begin click shallow |  
+| bip_39_word_space_4 | begin click shallow electric |  
+| bip_39_word_space_5 | begin click shallow electric reveal |  
+| bip_39_word_space_6 | begin click shallow electric reveal business |  
+| bip_39_word_space_7 | begin click shallow electric reveal business will |  
+| bip_39_word_space_8 | begin click shallow electric reveal business will pair |  
+| bip_39_word_space_9 | begin click shallow electric reveal business will pair depart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

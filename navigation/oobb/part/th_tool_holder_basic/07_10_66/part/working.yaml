@@ -1,3 +1,186 @@
+bip_39_word_new_br1: six
+bip_39_word_new_br10: six<br>mirror<br>cube<br>parent<br>police<br>dish<br>sibling<br>capable<br>wagon<br>garment
+bip_39_word_new_br11: six<br>mirror<br>cube<br>parent<br>police<br>dish<br>sibling<br>capable<br>wagon<br>garment<br>reflect
+bip_39_word_new_br12: six<br>mirror<br>cube<br>parent<br>police<br>dish<br>sibling<br>capable<br>wagon<br>garment<br>reflect<br>anger
+bip_39_word_new_br2: six<br>mirror
+bip_39_word_new_br3: six<br>mirror<br>cube
+bip_39_word_new_br4: six<br>mirror<br>cube<br>parent
+bip_39_word_new_br5: six<br>mirror<br>cube<br>parent<br>police
+bip_39_word_new_br6: six<br>mirror<br>cube<br>parent<br>police<br>dish
+bip_39_word_new_br7: six<br>mirror<br>cube<br>parent<br>police<br>dish<br>sibling
+bip_39_word_new_br8: six<br>mirror<br>cube<br>parent<br>police<br>dish<br>sibling<br>capable
+bip_39_word_new_br9: six<br>mirror<br>cube<br>parent<br>police<br>dish<br>sibling<br>capable<br>wagon
+bip_39_word_new_line1: six
+bip_39_word_new_line10: 'six
+
+  mirror
+
+  cube
+
+  parent
+
+  police
+
+  dish
+
+  sibling
+
+  capable
+
+  wagon
+
+  garment'
+bip_39_word_new_line11: 'six
+
+  mirror
+
+  cube
+
+  parent
+
+  police
+
+  dish
+
+  sibling
+
+  capable
+
+  wagon
+
+  garment
+
+  reflect'
+bip_39_word_new_line12: 'six
+
+  mirror
+
+  cube
+
+  parent
+
+  police
+
+  dish
+
+  sibling
+
+  capable
+
+  wagon
+
+  garment
+
+  reflect
+
+  anger'
+bip_39_word_new_line2: 'six
+
+  mirror'
+bip_39_word_new_line3: 'six
+
+  mirror
+
+  cube'
+bip_39_word_new_line4: 'six
+
+  mirror
+
+  cube
+
+  parent'
+bip_39_word_new_line5: 'six
+
+  mirror
+
+  cube
+
+  parent
+
+  police'
+bip_39_word_new_line6: 'six
+
+  mirror
+
+  cube
+
+  parent
+
+  police
+
+  dish'
+bip_39_word_new_line7: 'six
+
+  mirror
+
+  cube
+
+  parent
+
+  police
+
+  dish
+
+  sibling'
+bip_39_word_new_line8: 'six
+
+  mirror
+
+  cube
+
+  parent
+
+  police
+
+  dish
+
+  sibling
+
+  capable'
+bip_39_word_new_line9: 'six
+
+  mirror
+
+  cube
+
+  parent
+
+  police
+
+  dish
+
+  sibling
+
+  capable
+
+  wagon'
+bip_39_word_space_0:
+- six
+- mirror
+- cube
+- parent
+- police
+- dish
+- sibling
+- capable
+- wagon
+- garment
+- reflect
+- anger
+bip_39_word_space_1: six
+bip_39_word_space_10: six mirror cube parent police dish sibling capable wagon garment
+bip_39_word_space_11: six mirror cube parent police dish sibling capable wagon garment
+  reflect
+bip_39_word_space_12: six mirror cube parent police dish sibling capable wagon garment
+  reflect anger
+bip_39_word_space_2: six mirror
+bip_39_word_space_3: six mirror cube
+bip_39_word_space_4: six mirror cube parent
+bip_39_word_space_5: six mirror cube parent police
+bip_39_word_space_6: six mirror cube parent police dish
+bip_39_word_space_7: six mirror cube parent police dish sibling
+bip_39_word_space_8: six mirror cube parent police dish sibling capable
+bip_39_word_space_9: six mirror cube parent police dish sibling capable wagon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

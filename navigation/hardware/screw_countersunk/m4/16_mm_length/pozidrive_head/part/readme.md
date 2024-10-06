@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: armed office
+  * bip 39 word 3: armed office special
+  * bip 39 word: armed office special torch razor guitar broken scatter sentence amused uncle already
 
 ### other_codes
 * short_code: cs4m16pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | armed |  
+| bip_39_word_new_br10 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused |  
+| bip_39_word_new_br11 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused<br>uncle |  
+| bip_39_word_new_br12 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence<br>amused<br>uncle<br>already |  
+| bip_39_word_new_br2 | armed<br>office |  
+| bip_39_word_new_br3 | armed<br>office<br>special |  
+| bip_39_word_new_br4 | armed<br>office<br>special<br>torch |  
+| bip_39_word_new_br5 | armed<br>office<br>special<br>torch<br>razor |  
+| bip_39_word_new_br6 | armed<br>office<br>special<br>torch<br>razor<br>guitar |  
+| bip_39_word_new_br7 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken |  
+| bip_39_word_new_br8 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter |  
+| bip_39_word_new_br9 | armed<br>office<br>special<br>torch<br>razor<br>guitar<br>broken<br>scatter<br>sentence |  
+| bip_39_word_new_line1 | armed |  
+| bip_39_word_new_line10 | armed
+office
+special
+torch
+razor
+guitar
+broken
+scatter
+sentence
+amused |  
+| bip_39_word_new_line11 | armed
+office
+special
+torch
+razor
+guitar
+broken
+scatter
+sentence
+amused
+uncle |  
+| bip_39_word_new_line12 | armed
+office
+special
+torch
+razor
+guitar
+broken
+scatter
+sentence
+amused
+uncle
+already |  
+| bip_39_word_new_line2 | armed
+office |  
+| bip_39_word_new_line3 | armed
+office
+special |  
+| bip_39_word_new_line4 | armed
+office
+special
+torch |  
+| bip_39_word_new_line5 | armed
+office
+special
+torch
+razor |  
+| bip_39_word_new_line6 | armed
+office
+special
+torch
+razor
+guitar |  
+| bip_39_word_new_line7 | armed
+office
+special
+torch
+razor
+guitar
+broken |  
+| bip_39_word_new_line8 | armed
+office
+special
+torch
+razor
+guitar
+broken
+scatter |  
+| bip_39_word_new_line9 | armed
+office
+special
+torch
+razor
+guitar
+broken
+scatter
+sentence |  
+| bip_39_word_space_0 | ['armed', 'office', 'special', 'torch', 'razor', 'guitar', 'broken', 'scatter', 'sentence', 'amused', 'uncle', 'already'] |  
+| bip_39_word_space_1 | armed |  
+| bip_39_word_space_10 | armed office special torch razor guitar broken scatter sentence amused |  
+| bip_39_word_space_11 | armed office special torch razor guitar broken scatter sentence amused uncle |  
+| bip_39_word_space_12 | armed office special torch razor guitar broken scatter sentence amused uncle already |  
+| bip_39_word_space_2 | armed office |  
+| bip_39_word_space_3 | armed office special |  
+| bip_39_word_space_4 | armed office special torch |  
+| bip_39_word_space_5 | armed office special torch razor |  
+| bip_39_word_space_6 | armed office special torch razor guitar |  
+| bip_39_word_space_7 | armed office special torch razor guitar broken |  
+| bip_39_word_space_8 | armed office special torch razor guitar broken scatter |  
+| bip_39_word_space_9 | armed office special torch razor guitar broken scatter sentence |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: open
+bip_39_word_new_br10: open<br>must<br>bounce<br>example<br>stand<br>turtle<br>nature<br>ecology<br>hollow<br>future
+bip_39_word_new_br11: open<br>must<br>bounce<br>example<br>stand<br>turtle<br>nature<br>ecology<br>hollow<br>future<br>juice
+bip_39_word_new_br12: open<br>must<br>bounce<br>example<br>stand<br>turtle<br>nature<br>ecology<br>hollow<br>future<br>juice<br>adult
+bip_39_word_new_br2: open<br>must
+bip_39_word_new_br3: open<br>must<br>bounce
+bip_39_word_new_br4: open<br>must<br>bounce<br>example
+bip_39_word_new_br5: open<br>must<br>bounce<br>example<br>stand
+bip_39_word_new_br6: open<br>must<br>bounce<br>example<br>stand<br>turtle
+bip_39_word_new_br7: open<br>must<br>bounce<br>example<br>stand<br>turtle<br>nature
+bip_39_word_new_br8: open<br>must<br>bounce<br>example<br>stand<br>turtle<br>nature<br>ecology
+bip_39_word_new_br9: open<br>must<br>bounce<br>example<br>stand<br>turtle<br>nature<br>ecology<br>hollow
+bip_39_word_new_line1: open
+bip_39_word_new_line10: 'open
+
+  must
+
+  bounce
+
+  example
+
+  stand
+
+  turtle
+
+  nature
+
+  ecology
+
+  hollow
+
+  future'
+bip_39_word_new_line11: 'open
+
+  must
+
+  bounce
+
+  example
+
+  stand
+
+  turtle
+
+  nature
+
+  ecology
+
+  hollow
+
+  future
+
+  juice'
+bip_39_word_new_line12: 'open
+
+  must
+
+  bounce
+
+  example
+
+  stand
+
+  turtle
+
+  nature
+
+  ecology
+
+  hollow
+
+  future
+
+  juice
+
+  adult'
+bip_39_word_new_line2: 'open
+
+  must'
+bip_39_word_new_line3: 'open
+
+  must
+
+  bounce'
+bip_39_word_new_line4: 'open
+
+  must
+
+  bounce
+
+  example'
+bip_39_word_new_line5: 'open
+
+  must
+
+  bounce
+
+  example
+
+  stand'
+bip_39_word_new_line6: 'open
+
+  must
+
+  bounce
+
+  example
+
+  stand
+
+  turtle'
+bip_39_word_new_line7: 'open
+
+  must
+
+  bounce
+
+  example
+
+  stand
+
+  turtle
+
+  nature'
+bip_39_word_new_line8: 'open
+
+  must
+
+  bounce
+
+  example
+
+  stand
+
+  turtle
+
+  nature
+
+  ecology'
+bip_39_word_new_line9: 'open
+
+  must
+
+  bounce
+
+  example
+
+  stand
+
+  turtle
+
+  nature
+
+  ecology
+
+  hollow'
+bip_39_word_space_0:
+- open
+- must
+- bounce
+- example
+- stand
+- turtle
+- nature
+- ecology
+- hollow
+- future
+- juice
+- adult
+bip_39_word_space_1: open
+bip_39_word_space_10: open must bounce example stand turtle nature ecology hollow
+  future
+bip_39_word_space_11: open must bounce example stand turtle nature ecology hollow
+  future juice
+bip_39_word_space_12: open must bounce example stand turtle nature ecology hollow
+  future juice adult
+bip_39_word_space_2: open must
+bip_39_word_space_3: open must bounce
+bip_39_word_space_4: open must bounce example
+bip_39_word_space_5: open must bounce example stand
+bip_39_word_space_6: open must bounce example stand turtle
+bip_39_word_space_7: open must bounce example stand turtle nature
+bip_39_word_space_8: open must bounce example stand turtle nature ecology
+bip_39_word_space_9: open must bounce example stand turtle nature ecology hollow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

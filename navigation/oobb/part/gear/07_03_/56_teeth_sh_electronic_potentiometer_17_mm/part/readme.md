@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 56_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: embark great
+  * bip 39 word 3: embark great caught
+  * bip 39 word: embark great caught imitate manual model wrist lock lesson defense task action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | embark |  
+| bip_39_word_new_br10 | embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson<br>defense |  
+| bip_39_word_new_br11 | embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson<br>defense<br>task |  
+| bip_39_word_new_br12 | embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson<br>defense<br>task<br>action |  
+| bip_39_word_new_br2 | embark<br>great |  
+| bip_39_word_new_br3 | embark<br>great<br>caught |  
+| bip_39_word_new_br4 | embark<br>great<br>caught<br>imitate |  
+| bip_39_word_new_br5 | embark<br>great<br>caught<br>imitate<br>manual |  
+| bip_39_word_new_br6 | embark<br>great<br>caught<br>imitate<br>manual<br>model |  
+| bip_39_word_new_br7 | embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist |  
+| bip_39_word_new_br8 | embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock |  
+| bip_39_word_new_br9 | embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson |  
+| bip_39_word_new_line1 | embark |  
+| bip_39_word_new_line10 | embark
+great
+caught
+imitate
+manual
+model
+wrist
+lock
+lesson
+defense |  
+| bip_39_word_new_line11 | embark
+great
+caught
+imitate
+manual
+model
+wrist
+lock
+lesson
+defense
+task |  
+| bip_39_word_new_line12 | embark
+great
+caught
+imitate
+manual
+model
+wrist
+lock
+lesson
+defense
+task
+action |  
+| bip_39_word_new_line2 | embark
+great |  
+| bip_39_word_new_line3 | embark
+great
+caught |  
+| bip_39_word_new_line4 | embark
+great
+caught
+imitate |  
+| bip_39_word_new_line5 | embark
+great
+caught
+imitate
+manual |  
+| bip_39_word_new_line6 | embark
+great
+caught
+imitate
+manual
+model |  
+| bip_39_word_new_line7 | embark
+great
+caught
+imitate
+manual
+model
+wrist |  
+| bip_39_word_new_line8 | embark
+great
+caught
+imitate
+manual
+model
+wrist
+lock |  
+| bip_39_word_new_line9 | embark
+great
+caught
+imitate
+manual
+model
+wrist
+lock
+lesson |  
+| bip_39_word_space_0 | ['embark', 'great', 'caught', 'imitate', 'manual', 'model', 'wrist', 'lock', 'lesson', 'defense', 'task', 'action'] |  
+| bip_39_word_space_1 | embark |  
+| bip_39_word_space_10 | embark great caught imitate manual model wrist lock lesson defense |  
+| bip_39_word_space_11 | embark great caught imitate manual model wrist lock lesson defense task |  
+| bip_39_word_space_12 | embark great caught imitate manual model wrist lock lesson defense task action |  
+| bip_39_word_space_2 | embark great |  
+| bip_39_word_space_3 | embark great caught |  
+| bip_39_word_space_4 | embark great caught imitate |  
+| bip_39_word_space_5 | embark great caught imitate manual |  
+| bip_39_word_space_6 | embark great caught imitate manual model |  
+| bip_39_word_space_7 | embark great caught imitate manual model wrist |  
+| bip_39_word_space_8 | embark great caught imitate manual model wrist lock |  
+| bip_39_word_space_9 | embark great caught imitate manual model wrist lock lesson |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

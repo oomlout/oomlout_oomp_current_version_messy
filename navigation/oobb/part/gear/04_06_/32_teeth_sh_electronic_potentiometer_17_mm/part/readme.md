@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 32_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: collect patient
+  * bip 39 word 3: collect patient mushroom
+  * bip 39 word: collect patient mushroom belt text cheese student cloth three purse tip ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | collect |  
+| bip_39_word_new_br10 | collect<br>patient<br>mushroom<br>belt<br>text<br>cheese<br>student<br>cloth<br>three<br>purse |  
+| bip_39_word_new_br11 | collect<br>patient<br>mushroom<br>belt<br>text<br>cheese<br>student<br>cloth<br>three<br>purse<br>tip |  
+| bip_39_word_new_br12 | collect<br>patient<br>mushroom<br>belt<br>text<br>cheese<br>student<br>cloth<br>three<br>purse<br>tip<br>ankle |  
+| bip_39_word_new_br2 | collect<br>patient |  
+| bip_39_word_new_br3 | collect<br>patient<br>mushroom |  
+| bip_39_word_new_br4 | collect<br>patient<br>mushroom<br>belt |  
+| bip_39_word_new_br5 | collect<br>patient<br>mushroom<br>belt<br>text |  
+| bip_39_word_new_br6 | collect<br>patient<br>mushroom<br>belt<br>text<br>cheese |  
+| bip_39_word_new_br7 | collect<br>patient<br>mushroom<br>belt<br>text<br>cheese<br>student |  
+| bip_39_word_new_br8 | collect<br>patient<br>mushroom<br>belt<br>text<br>cheese<br>student<br>cloth |  
+| bip_39_word_new_br9 | collect<br>patient<br>mushroom<br>belt<br>text<br>cheese<br>student<br>cloth<br>three |  
+| bip_39_word_new_line1 | collect |  
+| bip_39_word_new_line10 | collect
+patient
+mushroom
+belt
+text
+cheese
+student
+cloth
+three
+purse |  
+| bip_39_word_new_line11 | collect
+patient
+mushroom
+belt
+text
+cheese
+student
+cloth
+three
+purse
+tip |  
+| bip_39_word_new_line12 | collect
+patient
+mushroom
+belt
+text
+cheese
+student
+cloth
+three
+purse
+tip
+ankle |  
+| bip_39_word_new_line2 | collect
+patient |  
+| bip_39_word_new_line3 | collect
+patient
+mushroom |  
+| bip_39_word_new_line4 | collect
+patient
+mushroom
+belt |  
+| bip_39_word_new_line5 | collect
+patient
+mushroom
+belt
+text |  
+| bip_39_word_new_line6 | collect
+patient
+mushroom
+belt
+text
+cheese |  
+| bip_39_word_new_line7 | collect
+patient
+mushroom
+belt
+text
+cheese
+student |  
+| bip_39_word_new_line8 | collect
+patient
+mushroom
+belt
+text
+cheese
+student
+cloth |  
+| bip_39_word_new_line9 | collect
+patient
+mushroom
+belt
+text
+cheese
+student
+cloth
+three |  
+| bip_39_word_space_0 | ['collect', 'patient', 'mushroom', 'belt', 'text', 'cheese', 'student', 'cloth', 'three', 'purse', 'tip', 'ankle'] |  
+| bip_39_word_space_1 | collect |  
+| bip_39_word_space_10 | collect patient mushroom belt text cheese student cloth three purse |  
+| bip_39_word_space_11 | collect patient mushroom belt text cheese student cloth three purse tip |  
+| bip_39_word_space_12 | collect patient mushroom belt text cheese student cloth three purse tip ankle |  
+| bip_39_word_space_2 | collect patient |  
+| bip_39_word_space_3 | collect patient mushroom |  
+| bip_39_word_space_4 | collect patient mushroom belt |  
+| bip_39_word_space_5 | collect patient mushroom belt text |  
+| bip_39_word_space_6 | collect patient mushroom belt text cheese |  
+| bip_39_word_space_7 | collect patient mushroom belt text cheese student |  
+| bip_39_word_space_8 | collect patient mushroom belt text cheese student cloth |  
+| bip_39_word_space_9 | collect patient mushroom belt text cheese student cloth three |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

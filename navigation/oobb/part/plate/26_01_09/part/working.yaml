@@ -1,3 +1,187 @@
+bip_39_word_new_br1: stomach
+bip_39_word_new_br10: stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort
+bip_39_word_new_br11: stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort<br>similar
+bip_39_word_new_br12: stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose<br>sort<br>similar<br>access
+bip_39_word_new_br2: stomach<br>bless
+bip_39_word_new_br3: stomach<br>bless<br>core
+bip_39_word_new_br4: stomach<br>bless<br>core<br>physical
+bip_39_word_new_br5: stomach<br>bless<br>core<br>physical<br>merit
+bip_39_word_new_br6: stomach<br>bless<br>core<br>physical<br>merit<br>hamster
+bip_39_word_new_br7: stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method
+bip_39_word_new_br8: stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim
+bip_39_word_new_br9: stomach<br>bless<br>core<br>physical<br>merit<br>hamster<br>method<br>swim<br>choose
+bip_39_word_new_line1: stomach
+bip_39_word_new_line10: 'stomach
+
+  bless
+
+  core
+
+  physical
+
+  merit
+
+  hamster
+
+  method
+
+  swim
+
+  choose
+
+  sort'
+bip_39_word_new_line11: 'stomach
+
+  bless
+
+  core
+
+  physical
+
+  merit
+
+  hamster
+
+  method
+
+  swim
+
+  choose
+
+  sort
+
+  similar'
+bip_39_word_new_line12: 'stomach
+
+  bless
+
+  core
+
+  physical
+
+  merit
+
+  hamster
+
+  method
+
+  swim
+
+  choose
+
+  sort
+
+  similar
+
+  access'
+bip_39_word_new_line2: 'stomach
+
+  bless'
+bip_39_word_new_line3: 'stomach
+
+  bless
+
+  core'
+bip_39_word_new_line4: 'stomach
+
+  bless
+
+  core
+
+  physical'
+bip_39_word_new_line5: 'stomach
+
+  bless
+
+  core
+
+  physical
+
+  merit'
+bip_39_word_new_line6: 'stomach
+
+  bless
+
+  core
+
+  physical
+
+  merit
+
+  hamster'
+bip_39_word_new_line7: 'stomach
+
+  bless
+
+  core
+
+  physical
+
+  merit
+
+  hamster
+
+  method'
+bip_39_word_new_line8: 'stomach
+
+  bless
+
+  core
+
+  physical
+
+  merit
+
+  hamster
+
+  method
+
+  swim'
+bip_39_word_new_line9: 'stomach
+
+  bless
+
+  core
+
+  physical
+
+  merit
+
+  hamster
+
+  method
+
+  swim
+
+  choose'
+bip_39_word_space_0:
+- stomach
+- bless
+- core
+- physical
+- merit
+- hamster
+- method
+- swim
+- choose
+- sort
+- similar
+- access
+bip_39_word_space_1: stomach
+bip_39_word_space_10: stomach bless core physical merit hamster method swim choose
+  sort
+bip_39_word_space_11: stomach bless core physical merit hamster method swim choose
+  sort similar
+bip_39_word_space_12: stomach bless core physical merit hamster method swim choose
+  sort similar access
+bip_39_word_space_2: stomach bless
+bip_39_word_space_3: stomach bless core
+bip_39_word_space_4: stomach bless core physical
+bip_39_word_space_5: stomach bless core physical merit
+bip_39_word_space_6: stomach bless core physical merit hamster
+bip_39_word_space_7: stomach bless core physical merit hamster method
+bip_39_word_space_8: stomach bless core physical merit hamster method swim
+bip_39_word_space_9: stomach bless core physical merit hamster method swim choose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

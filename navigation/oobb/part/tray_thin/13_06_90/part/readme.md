@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: destroy orphan
+  * bip 39 word 3: destroy orphan reform
+  * bip 39 word: destroy orphan reform sick page achieve toe story little scare garage armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | destroy |  
+| bip_39_word_new_br10 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare |  
+| bip_39_word_new_br11 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare<br>garage |  
+| bip_39_word_new_br12 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little<br>scare<br>garage<br>armed |  
+| bip_39_word_new_br2 | destroy<br>orphan |  
+| bip_39_word_new_br3 | destroy<br>orphan<br>reform |  
+| bip_39_word_new_br4 | destroy<br>orphan<br>reform<br>sick |  
+| bip_39_word_new_br5 | destroy<br>orphan<br>reform<br>sick<br>page |  
+| bip_39_word_new_br6 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve |  
+| bip_39_word_new_br7 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe |  
+| bip_39_word_new_br8 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story |  
+| bip_39_word_new_br9 | destroy<br>orphan<br>reform<br>sick<br>page<br>achieve<br>toe<br>story<br>little |  
+| bip_39_word_new_line1 | destroy |  
+| bip_39_word_new_line10 | destroy
+orphan
+reform
+sick
+page
+achieve
+toe
+story
+little
+scare |  
+| bip_39_word_new_line11 | destroy
+orphan
+reform
+sick
+page
+achieve
+toe
+story
+little
+scare
+garage |  
+| bip_39_word_new_line12 | destroy
+orphan
+reform
+sick
+page
+achieve
+toe
+story
+little
+scare
+garage
+armed |  
+| bip_39_word_new_line2 | destroy
+orphan |  
+| bip_39_word_new_line3 | destroy
+orphan
+reform |  
+| bip_39_word_new_line4 | destroy
+orphan
+reform
+sick |  
+| bip_39_word_new_line5 | destroy
+orphan
+reform
+sick
+page |  
+| bip_39_word_new_line6 | destroy
+orphan
+reform
+sick
+page
+achieve |  
+| bip_39_word_new_line7 | destroy
+orphan
+reform
+sick
+page
+achieve
+toe |  
+| bip_39_word_new_line8 | destroy
+orphan
+reform
+sick
+page
+achieve
+toe
+story |  
+| bip_39_word_new_line9 | destroy
+orphan
+reform
+sick
+page
+achieve
+toe
+story
+little |  
+| bip_39_word_space_0 | ['destroy', 'orphan', 'reform', 'sick', 'page', 'achieve', 'toe', 'story', 'little', 'scare', 'garage', 'armed'] |  
+| bip_39_word_space_1 | destroy |  
+| bip_39_word_space_10 | destroy orphan reform sick page achieve toe story little scare |  
+| bip_39_word_space_11 | destroy orphan reform sick page achieve toe story little scare garage |  
+| bip_39_word_space_12 | destroy orphan reform sick page achieve toe story little scare garage armed |  
+| bip_39_word_space_2 | destroy orphan |  
+| bip_39_word_space_3 | destroy orphan reform |  
+| bip_39_word_space_4 | destroy orphan reform sick |  
+| bip_39_word_space_5 | destroy orphan reform sick page |  
+| bip_39_word_space_6 | destroy orphan reform sick page achieve |  
+| bip_39_word_space_7 | destroy orphan reform sick page achieve toe |  
+| bip_39_word_space_8 | destroy orphan reform sick page achieve toe story |  
+| bip_39_word_space_9 | destroy orphan reform sick page achieve toe story little |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

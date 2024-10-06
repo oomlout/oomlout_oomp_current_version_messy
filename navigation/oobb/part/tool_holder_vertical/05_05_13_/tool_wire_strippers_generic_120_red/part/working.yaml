@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lamp
+bip_39_word_new_br10: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog
+bip_39_word_new_br11: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze
+bip_39_word_new_br12: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze<br>adjust
+bip_39_word_new_br2: lamp<br>shield
+bip_39_word_new_br3: lamp<br>shield<br>reduce
+bip_39_word_new_br4: lamp<br>shield<br>reduce<br>option
+bip_39_word_new_br5: lamp<br>shield<br>reduce<br>option<br>tenant
+bip_39_word_new_br6: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact
+bip_39_word_new_br7: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy
+bip_39_word_new_br8: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise
+bip_39_word_new_br9: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever
+bip_39_word_new_line1: lamp
+bip_39_word_new_line10: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise
+
+  clever
+
+  hedgehog'
+bip_39_word_new_line11: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise
+
+  clever
+
+  hedgehog
+
+  bronze'
+bip_39_word_new_line12: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise
+
+  clever
+
+  hedgehog
+
+  bronze
+
+  adjust'
+bip_39_word_new_line2: 'lamp
+
+  shield'
+bip_39_word_new_line3: 'lamp
+
+  shield
+
+  reduce'
+bip_39_word_new_line4: 'lamp
+
+  shield
+
+  reduce
+
+  option'
+bip_39_word_new_line5: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant'
+bip_39_word_new_line6: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact'
+bip_39_word_new_line7: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy'
+bip_39_word_new_line8: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise'
+bip_39_word_new_line9: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise
+
+  clever'
+bip_39_word_space_0:
+- lamp
+- shield
+- reduce
+- option
+- tenant
+- artefact
+- mercy
+- demise
+- clever
+- hedgehog
+- bronze
+- adjust
+bip_39_word_space_1: lamp
+bip_39_word_space_10: lamp shield reduce option tenant artefact mercy demise clever
+  hedgehog
+bip_39_word_space_11: lamp shield reduce option tenant artefact mercy demise clever
+  hedgehog bronze
+bip_39_word_space_12: lamp shield reduce option tenant artefact mercy demise clever
+  hedgehog bronze adjust
+bip_39_word_space_2: lamp shield
+bip_39_word_space_3: lamp shield reduce
+bip_39_word_space_4: lamp shield reduce option
+bip_39_word_space_5: lamp shield reduce option tenant
+bip_39_word_space_6: lamp shield reduce option tenant artefact
+bip_39_word_space_7: lamp shield reduce option tenant artefact mercy
+bip_39_word_space_8: lamp shield reduce option tenant artefact mercy demise
+bip_39_word_space_9: lamp shield reduce option tenant artefact mercy demise clever
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

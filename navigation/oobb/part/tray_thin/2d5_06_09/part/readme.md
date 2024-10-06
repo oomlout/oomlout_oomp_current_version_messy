@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hockey broken
+  * bip 39 word 3: hockey broken sentence
+  * bip 39 word: hockey broken sentence abstract tip gaze again brush gym local success author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hockey |  
+| bip_39_word_new_br10 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze<br>again<br>brush<br>gym<br>local |  
+| bip_39_word_new_br11 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze<br>again<br>brush<br>gym<br>local<br>success |  
+| bip_39_word_new_br12 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze<br>again<br>brush<br>gym<br>local<br>success<br>author |  
+| bip_39_word_new_br2 | hockey<br>broken |  
+| bip_39_word_new_br3 | hockey<br>broken<br>sentence |  
+| bip_39_word_new_br4 | hockey<br>broken<br>sentence<br>abstract |  
+| bip_39_word_new_br5 | hockey<br>broken<br>sentence<br>abstract<br>tip |  
+| bip_39_word_new_br6 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze |  
+| bip_39_word_new_br7 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze<br>again |  
+| bip_39_word_new_br8 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze<br>again<br>brush |  
+| bip_39_word_new_br9 | hockey<br>broken<br>sentence<br>abstract<br>tip<br>gaze<br>again<br>brush<br>gym |  
+| bip_39_word_new_line1 | hockey |  
+| bip_39_word_new_line10 | hockey
+broken
+sentence
+abstract
+tip
+gaze
+again
+brush
+gym
+local |  
+| bip_39_word_new_line11 | hockey
+broken
+sentence
+abstract
+tip
+gaze
+again
+brush
+gym
+local
+success |  
+| bip_39_word_new_line12 | hockey
+broken
+sentence
+abstract
+tip
+gaze
+again
+brush
+gym
+local
+success
+author |  
+| bip_39_word_new_line2 | hockey
+broken |  
+| bip_39_word_new_line3 | hockey
+broken
+sentence |  
+| bip_39_word_new_line4 | hockey
+broken
+sentence
+abstract |  
+| bip_39_word_new_line5 | hockey
+broken
+sentence
+abstract
+tip |  
+| bip_39_word_new_line6 | hockey
+broken
+sentence
+abstract
+tip
+gaze |  
+| bip_39_word_new_line7 | hockey
+broken
+sentence
+abstract
+tip
+gaze
+again |  
+| bip_39_word_new_line8 | hockey
+broken
+sentence
+abstract
+tip
+gaze
+again
+brush |  
+| bip_39_word_new_line9 | hockey
+broken
+sentence
+abstract
+tip
+gaze
+again
+brush
+gym |  
+| bip_39_word_space_0 | ['hockey', 'broken', 'sentence', 'abstract', 'tip', 'gaze', 'again', 'brush', 'gym', 'local', 'success', 'author'] |  
+| bip_39_word_space_1 | hockey |  
+| bip_39_word_space_10 | hockey broken sentence abstract tip gaze again brush gym local |  
+| bip_39_word_space_11 | hockey broken sentence abstract tip gaze again brush gym local success |  
+| bip_39_word_space_12 | hockey broken sentence abstract tip gaze again brush gym local success author |  
+| bip_39_word_space_2 | hockey broken |  
+| bip_39_word_space_3 | hockey broken sentence |  
+| bip_39_word_space_4 | hockey broken sentence abstract |  
+| bip_39_word_space_5 | hockey broken sentence abstract tip |  
+| bip_39_word_space_6 | hockey broken sentence abstract tip gaze |  
+| bip_39_word_space_7 | hockey broken sentence abstract tip gaze again |  
+| bip_39_word_space_8 | hockey broken sentence abstract tip gaze again brush |  
+| bip_39_word_space_9 | hockey broken sentence abstract tip gaze again brush gym |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

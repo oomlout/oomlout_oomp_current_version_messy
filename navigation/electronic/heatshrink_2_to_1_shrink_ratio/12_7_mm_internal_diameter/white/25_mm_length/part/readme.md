@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: first blue
+  * bip 39 word 3: first blue convince
+  * bip 39 word: first blue convince bounce drop enter timber anchor luxury speak expire attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | first |  
+| bip_39_word_new_br10 | first<br>blue<br>convince<br>bounce<br>drop<br>enter<br>timber<br>anchor<br>luxury<br>speak |  
+| bip_39_word_new_br11 | first<br>blue<br>convince<br>bounce<br>drop<br>enter<br>timber<br>anchor<br>luxury<br>speak<br>expire |  
+| bip_39_word_new_br12 | first<br>blue<br>convince<br>bounce<br>drop<br>enter<br>timber<br>anchor<br>luxury<br>speak<br>expire<br>attitude |  
+| bip_39_word_new_br2 | first<br>blue |  
+| bip_39_word_new_br3 | first<br>blue<br>convince |  
+| bip_39_word_new_br4 | first<br>blue<br>convince<br>bounce |  
+| bip_39_word_new_br5 | first<br>blue<br>convince<br>bounce<br>drop |  
+| bip_39_word_new_br6 | first<br>blue<br>convince<br>bounce<br>drop<br>enter |  
+| bip_39_word_new_br7 | first<br>blue<br>convince<br>bounce<br>drop<br>enter<br>timber |  
+| bip_39_word_new_br8 | first<br>blue<br>convince<br>bounce<br>drop<br>enter<br>timber<br>anchor |  
+| bip_39_word_new_br9 | first<br>blue<br>convince<br>bounce<br>drop<br>enter<br>timber<br>anchor<br>luxury |  
+| bip_39_word_new_line1 | first |  
+| bip_39_word_new_line10 | first
+blue
+convince
+bounce
+drop
+enter
+timber
+anchor
+luxury
+speak |  
+| bip_39_word_new_line11 | first
+blue
+convince
+bounce
+drop
+enter
+timber
+anchor
+luxury
+speak
+expire |  
+| bip_39_word_new_line12 | first
+blue
+convince
+bounce
+drop
+enter
+timber
+anchor
+luxury
+speak
+expire
+attitude |  
+| bip_39_word_new_line2 | first
+blue |  
+| bip_39_word_new_line3 | first
+blue
+convince |  
+| bip_39_word_new_line4 | first
+blue
+convince
+bounce |  
+| bip_39_word_new_line5 | first
+blue
+convince
+bounce
+drop |  
+| bip_39_word_new_line6 | first
+blue
+convince
+bounce
+drop
+enter |  
+| bip_39_word_new_line7 | first
+blue
+convince
+bounce
+drop
+enter
+timber |  
+| bip_39_word_new_line8 | first
+blue
+convince
+bounce
+drop
+enter
+timber
+anchor |  
+| bip_39_word_new_line9 | first
+blue
+convince
+bounce
+drop
+enter
+timber
+anchor
+luxury |  
+| bip_39_word_space_0 | ['first', 'blue', 'convince', 'bounce', 'drop', 'enter', 'timber', 'anchor', 'luxury', 'speak', 'expire', 'attitude'] |  
+| bip_39_word_space_1 | first |  
+| bip_39_word_space_10 | first blue convince bounce drop enter timber anchor luxury speak |  
+| bip_39_word_space_11 | first blue convince bounce drop enter timber anchor luxury speak expire |  
+| bip_39_word_space_12 | first blue convince bounce drop enter timber anchor luxury speak expire attitude |  
+| bip_39_word_space_2 | first blue |  
+| bip_39_word_space_3 | first blue convince |  
+| bip_39_word_space_4 | first blue convince bounce |  
+| bip_39_word_space_5 | first blue convince bounce drop |  
+| bip_39_word_space_6 | first blue convince bounce drop enter |  
+| bip_39_word_space_7 | first blue convince bounce drop enter timber |  
+| bip_39_word_space_8 | first blue convince bounce drop enter timber anchor |  
+| bip_39_word_space_9 | first blue convince bounce drop enter timber anchor luxury |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

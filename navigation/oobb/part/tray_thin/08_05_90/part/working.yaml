@@ -1,3 +1,187 @@
+bip_39_word_new_br1: flower
+bip_39_word_new_br10: flower<br>misery<br>sibling<br>ball<br>monster<br>history<br>early<br>crack<br>fresh<br>goose
+bip_39_word_new_br11: flower<br>misery<br>sibling<br>ball<br>monster<br>history<br>early<br>crack<br>fresh<br>goose<br>cage
+bip_39_word_new_br12: flower<br>misery<br>sibling<br>ball<br>monster<br>history<br>early<br>crack<br>fresh<br>goose<br>cage<br>abuse
+bip_39_word_new_br2: flower<br>misery
+bip_39_word_new_br3: flower<br>misery<br>sibling
+bip_39_word_new_br4: flower<br>misery<br>sibling<br>ball
+bip_39_word_new_br5: flower<br>misery<br>sibling<br>ball<br>monster
+bip_39_word_new_br6: flower<br>misery<br>sibling<br>ball<br>monster<br>history
+bip_39_word_new_br7: flower<br>misery<br>sibling<br>ball<br>monster<br>history<br>early
+bip_39_word_new_br8: flower<br>misery<br>sibling<br>ball<br>monster<br>history<br>early<br>crack
+bip_39_word_new_br9: flower<br>misery<br>sibling<br>ball<br>monster<br>history<br>early<br>crack<br>fresh
+bip_39_word_new_line1: flower
+bip_39_word_new_line10: 'flower
+
+  misery
+
+  sibling
+
+  ball
+
+  monster
+
+  history
+
+  early
+
+  crack
+
+  fresh
+
+  goose'
+bip_39_word_new_line11: 'flower
+
+  misery
+
+  sibling
+
+  ball
+
+  monster
+
+  history
+
+  early
+
+  crack
+
+  fresh
+
+  goose
+
+  cage'
+bip_39_word_new_line12: 'flower
+
+  misery
+
+  sibling
+
+  ball
+
+  monster
+
+  history
+
+  early
+
+  crack
+
+  fresh
+
+  goose
+
+  cage
+
+  abuse'
+bip_39_word_new_line2: 'flower
+
+  misery'
+bip_39_word_new_line3: 'flower
+
+  misery
+
+  sibling'
+bip_39_word_new_line4: 'flower
+
+  misery
+
+  sibling
+
+  ball'
+bip_39_word_new_line5: 'flower
+
+  misery
+
+  sibling
+
+  ball
+
+  monster'
+bip_39_word_new_line6: 'flower
+
+  misery
+
+  sibling
+
+  ball
+
+  monster
+
+  history'
+bip_39_word_new_line7: 'flower
+
+  misery
+
+  sibling
+
+  ball
+
+  monster
+
+  history
+
+  early'
+bip_39_word_new_line8: 'flower
+
+  misery
+
+  sibling
+
+  ball
+
+  monster
+
+  history
+
+  early
+
+  crack'
+bip_39_word_new_line9: 'flower
+
+  misery
+
+  sibling
+
+  ball
+
+  monster
+
+  history
+
+  early
+
+  crack
+
+  fresh'
+bip_39_word_space_0:
+- flower
+- misery
+- sibling
+- ball
+- monster
+- history
+- early
+- crack
+- fresh
+- goose
+- cage
+- abuse
+bip_39_word_space_1: flower
+bip_39_word_space_10: flower misery sibling ball monster history early crack fresh
+  goose
+bip_39_word_space_11: flower misery sibling ball monster history early crack fresh
+  goose cage
+bip_39_word_space_12: flower misery sibling ball monster history early crack fresh
+  goose cage abuse
+bip_39_word_space_2: flower misery
+bip_39_word_space_3: flower misery sibling
+bip_39_word_space_4: flower misery sibling ball
+bip_39_word_space_5: flower misery sibling ball monster
+bip_39_word_space_6: flower misery sibling ball monster history
+bip_39_word_space_7: flower misery sibling ball monster history early
+bip_39_word_space_8: flower misery sibling ball monster history early crack
+bip_39_word_space_9: flower misery sibling ball monster history early crack fresh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

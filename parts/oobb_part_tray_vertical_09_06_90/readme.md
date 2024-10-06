@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: make glory
+  * bip 39 word 3: make glory wagon
+  * bip 39 word: make glory wagon era desert blossom child copy loan fabric member absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | make |  
+| bip_39_word_new_br10 | make<br>glory<br>wagon<br>era<br>desert<br>blossom<br>child<br>copy<br>loan<br>fabric |  
+| bip_39_word_new_br11 | make<br>glory<br>wagon<br>era<br>desert<br>blossom<br>child<br>copy<br>loan<br>fabric<br>member |  
+| bip_39_word_new_br12 | make<br>glory<br>wagon<br>era<br>desert<br>blossom<br>child<br>copy<br>loan<br>fabric<br>member<br>absorb |  
+| bip_39_word_new_br2 | make<br>glory |  
+| bip_39_word_new_br3 | make<br>glory<br>wagon |  
+| bip_39_word_new_br4 | make<br>glory<br>wagon<br>era |  
+| bip_39_word_new_br5 | make<br>glory<br>wagon<br>era<br>desert |  
+| bip_39_word_new_br6 | make<br>glory<br>wagon<br>era<br>desert<br>blossom |  
+| bip_39_word_new_br7 | make<br>glory<br>wagon<br>era<br>desert<br>blossom<br>child |  
+| bip_39_word_new_br8 | make<br>glory<br>wagon<br>era<br>desert<br>blossom<br>child<br>copy |  
+| bip_39_word_new_br9 | make<br>glory<br>wagon<br>era<br>desert<br>blossom<br>child<br>copy<br>loan |  
+| bip_39_word_new_line1 | make |  
+| bip_39_word_new_line10 | make
+glory
+wagon
+era
+desert
+blossom
+child
+copy
+loan
+fabric |  
+| bip_39_word_new_line11 | make
+glory
+wagon
+era
+desert
+blossom
+child
+copy
+loan
+fabric
+member |  
+| bip_39_word_new_line12 | make
+glory
+wagon
+era
+desert
+blossom
+child
+copy
+loan
+fabric
+member
+absorb |  
+| bip_39_word_new_line2 | make
+glory |  
+| bip_39_word_new_line3 | make
+glory
+wagon |  
+| bip_39_word_new_line4 | make
+glory
+wagon
+era |  
+| bip_39_word_new_line5 | make
+glory
+wagon
+era
+desert |  
+| bip_39_word_new_line6 | make
+glory
+wagon
+era
+desert
+blossom |  
+| bip_39_word_new_line7 | make
+glory
+wagon
+era
+desert
+blossom
+child |  
+| bip_39_word_new_line8 | make
+glory
+wagon
+era
+desert
+blossom
+child
+copy |  
+| bip_39_word_new_line9 | make
+glory
+wagon
+era
+desert
+blossom
+child
+copy
+loan |  
+| bip_39_word_space_0 | ['make', 'glory', 'wagon', 'era', 'desert', 'blossom', 'child', 'copy', 'loan', 'fabric', 'member', 'absorb'] |  
+| bip_39_word_space_1 | make |  
+| bip_39_word_space_10 | make glory wagon era desert blossom child copy loan fabric |  
+| bip_39_word_space_11 | make glory wagon era desert blossom child copy loan fabric member |  
+| bip_39_word_space_12 | make glory wagon era desert blossom child copy loan fabric member absorb |  
+| bip_39_word_space_2 | make glory |  
+| bip_39_word_space_3 | make glory wagon |  
+| bip_39_word_space_4 | make glory wagon era |  
+| bip_39_word_space_5 | make glory wagon era desert |  
+| bip_39_word_space_6 | make glory wagon era desert blossom |  
+| bip_39_word_space_7 | make glory wagon era desert blossom child |  
+| bip_39_word_space_8 | make glory wagon era desert blossom child copy |  
+| bip_39_word_space_9 | make glory wagon era desert blossom child copy loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

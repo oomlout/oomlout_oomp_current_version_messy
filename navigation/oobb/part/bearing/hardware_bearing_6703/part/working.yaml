@@ -1,3 +1,186 @@
+bip_39_word_new_br1: produce
+bip_39_word_new_br10: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot<br>sample
+bip_39_word_new_br11: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot<br>sample<br>library
+bip_39_word_new_br12: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot<br>sample<br>library<br>animal
+bip_39_word_new_br2: produce<br>teach
+bip_39_word_new_br3: produce<br>teach<br>unable
+bip_39_word_new_br4: produce<br>teach<br>unable<br>now
+bip_39_word_new_br5: produce<br>teach<br>unable<br>now<br>absurd
+bip_39_word_new_br6: produce<br>teach<br>unable<br>now<br>absurd<br>firm
+bip_39_word_new_br7: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn
+bip_39_word_new_br8: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor
+bip_39_word_new_br9: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot
+bip_39_word_new_line1: produce
+bip_39_word_new_line10: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor
+
+  parrot
+
+  sample'
+bip_39_word_new_line11: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor
+
+  parrot
+
+  sample
+
+  library'
+bip_39_word_new_line12: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor
+
+  parrot
+
+  sample
+
+  library
+
+  animal'
+bip_39_word_new_line2: 'produce
+
+  teach'
+bip_39_word_new_line3: 'produce
+
+  teach
+
+  unable'
+bip_39_word_new_line4: 'produce
+
+  teach
+
+  unable
+
+  now'
+bip_39_word_new_line5: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd'
+bip_39_word_new_line6: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm'
+bip_39_word_new_line7: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn'
+bip_39_word_new_line8: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor'
+bip_39_word_new_line9: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor
+
+  parrot'
+bip_39_word_space_0:
+- produce
+- teach
+- unable
+- now
+- absurd
+- firm
+- spawn
+- harbor
+- parrot
+- sample
+- library
+- animal
+bip_39_word_space_1: produce
+bip_39_word_space_10: produce teach unable now absurd firm spawn harbor parrot sample
+bip_39_word_space_11: produce teach unable now absurd firm spawn harbor parrot sample
+  library
+bip_39_word_space_12: produce teach unable now absurd firm spawn harbor parrot sample
+  library animal
+bip_39_word_space_2: produce teach
+bip_39_word_space_3: produce teach unable
+bip_39_word_space_4: produce teach unable now
+bip_39_word_space_5: produce teach unable now absurd
+bip_39_word_space_6: produce teach unable now absurd firm
+bip_39_word_space_7: produce teach unable now absurd firm spawn
+bip_39_word_space_8: produce teach unable now absurd firm spawn harbor
+bip_39_word_space_9: produce teach unable now absurd firm spawn harbor parrot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

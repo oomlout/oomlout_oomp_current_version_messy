@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rely grass
+  * bip 39 word 3: rely grass polar
+  * bip 39 word: rely grass polar powder shadow love bus life input novel wave antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rely |  
+| bip_39_word_new_br10 | rely<br>grass<br>polar<br>powder<br>shadow<br>love<br>bus<br>life<br>input<br>novel |  
+| bip_39_word_new_br11 | rely<br>grass<br>polar<br>powder<br>shadow<br>love<br>bus<br>life<br>input<br>novel<br>wave |  
+| bip_39_word_new_br12 | rely<br>grass<br>polar<br>powder<br>shadow<br>love<br>bus<br>life<br>input<br>novel<br>wave<br>antique |  
+| bip_39_word_new_br2 | rely<br>grass |  
+| bip_39_word_new_br3 | rely<br>grass<br>polar |  
+| bip_39_word_new_br4 | rely<br>grass<br>polar<br>powder |  
+| bip_39_word_new_br5 | rely<br>grass<br>polar<br>powder<br>shadow |  
+| bip_39_word_new_br6 | rely<br>grass<br>polar<br>powder<br>shadow<br>love |  
+| bip_39_word_new_br7 | rely<br>grass<br>polar<br>powder<br>shadow<br>love<br>bus |  
+| bip_39_word_new_br8 | rely<br>grass<br>polar<br>powder<br>shadow<br>love<br>bus<br>life |  
+| bip_39_word_new_br9 | rely<br>grass<br>polar<br>powder<br>shadow<br>love<br>bus<br>life<br>input |  
+| bip_39_word_new_line1 | rely |  
+| bip_39_word_new_line10 | rely
+grass
+polar
+powder
+shadow
+love
+bus
+life
+input
+novel |  
+| bip_39_word_new_line11 | rely
+grass
+polar
+powder
+shadow
+love
+bus
+life
+input
+novel
+wave |  
+| bip_39_word_new_line12 | rely
+grass
+polar
+powder
+shadow
+love
+bus
+life
+input
+novel
+wave
+antique |  
+| bip_39_word_new_line2 | rely
+grass |  
+| bip_39_word_new_line3 | rely
+grass
+polar |  
+| bip_39_word_new_line4 | rely
+grass
+polar
+powder |  
+| bip_39_word_new_line5 | rely
+grass
+polar
+powder
+shadow |  
+| bip_39_word_new_line6 | rely
+grass
+polar
+powder
+shadow
+love |  
+| bip_39_word_new_line7 | rely
+grass
+polar
+powder
+shadow
+love
+bus |  
+| bip_39_word_new_line8 | rely
+grass
+polar
+powder
+shadow
+love
+bus
+life |  
+| bip_39_word_new_line9 | rely
+grass
+polar
+powder
+shadow
+love
+bus
+life
+input |  
+| bip_39_word_space_0 | ['rely', 'grass', 'polar', 'powder', 'shadow', 'love', 'bus', 'life', 'input', 'novel', 'wave', 'antique'] |  
+| bip_39_word_space_1 | rely |  
+| bip_39_word_space_10 | rely grass polar powder shadow love bus life input novel |  
+| bip_39_word_space_11 | rely grass polar powder shadow love bus life input novel wave |  
+| bip_39_word_space_12 | rely grass polar powder shadow love bus life input novel wave antique |  
+| bip_39_word_space_2 | rely grass |  
+| bip_39_word_space_3 | rely grass polar |  
+| bip_39_word_space_4 | rely grass polar powder |  
+| bip_39_word_space_5 | rely grass polar powder shadow |  
+| bip_39_word_space_6 | rely grass polar powder shadow love |  
+| bip_39_word_space_7 | rely grass polar powder shadow love bus |  
+| bip_39_word_space_8 | rely grass polar powder shadow love bus life |  
+| bip_39_word_space_9 | rely grass polar powder shadow love bus life input |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

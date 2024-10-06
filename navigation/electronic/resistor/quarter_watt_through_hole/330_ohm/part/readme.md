@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: loop swift
+  * bip 39 word 3: loop swift reopen
+  * bip 39 word: loop swift reopen host impulse orphan situate category violin hurdle angle adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | loop |  
+| bip_39_word_new_br10 | loop<br>swift<br>reopen<br>host<br>impulse<br>orphan<br>situate<br>category<br>violin<br>hurdle |  
+| bip_39_word_new_br11 | loop<br>swift<br>reopen<br>host<br>impulse<br>orphan<br>situate<br>category<br>violin<br>hurdle<br>angle |  
+| bip_39_word_new_br12 | loop<br>swift<br>reopen<br>host<br>impulse<br>orphan<br>situate<br>category<br>violin<br>hurdle<br>angle<br>adult |  
+| bip_39_word_new_br2 | loop<br>swift |  
+| bip_39_word_new_br3 | loop<br>swift<br>reopen |  
+| bip_39_word_new_br4 | loop<br>swift<br>reopen<br>host |  
+| bip_39_word_new_br5 | loop<br>swift<br>reopen<br>host<br>impulse |  
+| bip_39_word_new_br6 | loop<br>swift<br>reopen<br>host<br>impulse<br>orphan |  
+| bip_39_word_new_br7 | loop<br>swift<br>reopen<br>host<br>impulse<br>orphan<br>situate |  
+| bip_39_word_new_br8 | loop<br>swift<br>reopen<br>host<br>impulse<br>orphan<br>situate<br>category |  
+| bip_39_word_new_br9 | loop<br>swift<br>reopen<br>host<br>impulse<br>orphan<br>situate<br>category<br>violin |  
+| bip_39_word_new_line1 | loop |  
+| bip_39_word_new_line10 | loop
+swift
+reopen
+host
+impulse
+orphan
+situate
+category
+violin
+hurdle |  
+| bip_39_word_new_line11 | loop
+swift
+reopen
+host
+impulse
+orphan
+situate
+category
+violin
+hurdle
+angle |  
+| bip_39_word_new_line12 | loop
+swift
+reopen
+host
+impulse
+orphan
+situate
+category
+violin
+hurdle
+angle
+adult |  
+| bip_39_word_new_line2 | loop
+swift |  
+| bip_39_word_new_line3 | loop
+swift
+reopen |  
+| bip_39_word_new_line4 | loop
+swift
+reopen
+host |  
+| bip_39_word_new_line5 | loop
+swift
+reopen
+host
+impulse |  
+| bip_39_word_new_line6 | loop
+swift
+reopen
+host
+impulse
+orphan |  
+| bip_39_word_new_line7 | loop
+swift
+reopen
+host
+impulse
+orphan
+situate |  
+| bip_39_word_new_line8 | loop
+swift
+reopen
+host
+impulse
+orphan
+situate
+category |  
+| bip_39_word_new_line9 | loop
+swift
+reopen
+host
+impulse
+orphan
+situate
+category
+violin |  
+| bip_39_word_space_0 | ['loop', 'swift', 'reopen', 'host', 'impulse', 'orphan', 'situate', 'category', 'violin', 'hurdle', 'angle', 'adult'] |  
+| bip_39_word_space_1 | loop |  
+| bip_39_word_space_10 | loop swift reopen host impulse orphan situate category violin hurdle |  
+| bip_39_word_space_11 | loop swift reopen host impulse orphan situate category violin hurdle angle |  
+| bip_39_word_space_12 | loop swift reopen host impulse orphan situate category violin hurdle angle adult |  
+| bip_39_word_space_2 | loop swift |  
+| bip_39_word_space_3 | loop swift reopen |  
+| bip_39_word_space_4 | loop swift reopen host |  
+| bip_39_word_space_5 | loop swift reopen host impulse |  
+| bip_39_word_space_6 | loop swift reopen host impulse orphan |  
+| bip_39_word_space_7 | loop swift reopen host impulse orphan situate |  
+| bip_39_word_space_8 | loop swift reopen host impulse orphan situate category |  
+| bip_39_word_space_9 | loop swift reopen host impulse orphan situate category violin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

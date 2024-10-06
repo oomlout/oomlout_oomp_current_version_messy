@@ -1,3 +1,186 @@
+bip_39_word_new_br1: early
+bip_39_word_new_br10: early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy
+bip_39_word_new_br11: early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy<br>clean
+bip_39_word_new_br12: early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap<br>dizzy<br>clean<br>august
+bip_39_word_new_br2: early<br>pull
+bip_39_word_new_br3: early<br>pull<br>bless
+bip_39_word_new_br4: early<br>pull<br>bless<br>lady
+bip_39_word_new_br5: early<br>pull<br>bless<br>lady<br>nuclear
+bip_39_word_new_br6: early<br>pull<br>bless<br>lady<br>nuclear<br>crush
+bip_39_word_new_br7: early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october
+bip_39_word_new_br8: early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce
+bip_39_word_new_br9: early<br>pull<br>bless<br>lady<br>nuclear<br>crush<br>october<br>sauce<br>wrap
+bip_39_word_new_line1: early
+bip_39_word_new_line10: 'early
+
+  pull
+
+  bless
+
+  lady
+
+  nuclear
+
+  crush
+
+  october
+
+  sauce
+
+  wrap
+
+  dizzy'
+bip_39_word_new_line11: 'early
+
+  pull
+
+  bless
+
+  lady
+
+  nuclear
+
+  crush
+
+  october
+
+  sauce
+
+  wrap
+
+  dizzy
+
+  clean'
+bip_39_word_new_line12: 'early
+
+  pull
+
+  bless
+
+  lady
+
+  nuclear
+
+  crush
+
+  october
+
+  sauce
+
+  wrap
+
+  dizzy
+
+  clean
+
+  august'
+bip_39_word_new_line2: 'early
+
+  pull'
+bip_39_word_new_line3: 'early
+
+  pull
+
+  bless'
+bip_39_word_new_line4: 'early
+
+  pull
+
+  bless
+
+  lady'
+bip_39_word_new_line5: 'early
+
+  pull
+
+  bless
+
+  lady
+
+  nuclear'
+bip_39_word_new_line6: 'early
+
+  pull
+
+  bless
+
+  lady
+
+  nuclear
+
+  crush'
+bip_39_word_new_line7: 'early
+
+  pull
+
+  bless
+
+  lady
+
+  nuclear
+
+  crush
+
+  october'
+bip_39_word_new_line8: 'early
+
+  pull
+
+  bless
+
+  lady
+
+  nuclear
+
+  crush
+
+  october
+
+  sauce'
+bip_39_word_new_line9: 'early
+
+  pull
+
+  bless
+
+  lady
+
+  nuclear
+
+  crush
+
+  october
+
+  sauce
+
+  wrap'
+bip_39_word_space_0:
+- early
+- pull
+- bless
+- lady
+- nuclear
+- crush
+- october
+- sauce
+- wrap
+- dizzy
+- clean
+- august
+bip_39_word_space_1: early
+bip_39_word_space_10: early pull bless lady nuclear crush october sauce wrap dizzy
+bip_39_word_space_11: early pull bless lady nuclear crush october sauce wrap dizzy
+  clean
+bip_39_word_space_12: early pull bless lady nuclear crush october sauce wrap dizzy
+  clean august
+bip_39_word_space_2: early pull
+bip_39_word_space_3: early pull bless
+bip_39_word_space_4: early pull bless lady
+bip_39_word_space_5: early pull bless lady nuclear
+bip_39_word_space_6: early pull bless lady nuclear crush
+bip_39_word_space_7: early pull bless lady nuclear crush october
+bip_39_word_space_8: early pull bless lady nuclear crush october sauce
+bip_39_word_space_9: early pull bless lady nuclear crush october sauce wrap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

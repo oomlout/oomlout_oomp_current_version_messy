@@ -1,3 +1,186 @@
+bip_39_word_new_br1: slice
+bip_39_word_new_br10: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler
+bip_39_word_new_br11: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler<br>drink
+bip_39_word_new_br12: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler<br>drink<br>assist
+bip_39_word_new_br2: slice<br>brown
+bip_39_word_new_br3: slice<br>brown<br>awful
+bip_39_word_new_br4: slice<br>brown<br>awful<br>youth
+bip_39_word_new_br5: slice<br>brown<br>awful<br>youth<br>science
+bip_39_word_new_br6: slice<br>brown<br>awful<br>youth<br>science<br>clean
+bip_39_word_new_br7: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove
+bip_39_word_new_br8: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk
+bip_39_word_new_br9: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry
+bip_39_word_new_line1: slice
+bip_39_word_new_line10: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk
+
+  carry
+
+  toddler'
+bip_39_word_new_line11: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk
+
+  carry
+
+  toddler
+
+  drink'
+bip_39_word_new_line12: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk
+
+  carry
+
+  toddler
+
+  drink
+
+  assist'
+bip_39_word_new_line2: 'slice
+
+  brown'
+bip_39_word_new_line3: 'slice
+
+  brown
+
+  awful'
+bip_39_word_new_line4: 'slice
+
+  brown
+
+  awful
+
+  youth'
+bip_39_word_new_line5: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science'
+bip_39_word_new_line6: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean'
+bip_39_word_new_line7: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove'
+bip_39_word_new_line8: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk'
+bip_39_word_new_line9: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk
+
+  carry'
+bip_39_word_space_0:
+- slice
+- brown
+- awful
+- youth
+- science
+- clean
+- stove
+- junk
+- carry
+- toddler
+- drink
+- assist
+bip_39_word_space_1: slice
+bip_39_word_space_10: slice brown awful youth science clean stove junk carry toddler
+bip_39_word_space_11: slice brown awful youth science clean stove junk carry toddler
+  drink
+bip_39_word_space_12: slice brown awful youth science clean stove junk carry toddler
+  drink assist
+bip_39_word_space_2: slice brown
+bip_39_word_space_3: slice brown awful
+bip_39_word_space_4: slice brown awful youth
+bip_39_word_space_5: slice brown awful youth science
+bip_39_word_space_6: slice brown awful youth science clean
+bip_39_word_space_7: slice brown awful youth science clean stove
+bip_39_word_space_8: slice brown awful youth science clean stove junk
+bip_39_word_space_9: slice brown awful youth science clean stove junk carry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

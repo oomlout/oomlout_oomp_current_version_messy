@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: protect trust
+  * bip 39 word 3: protect trust crowd
+  * bip 39 word: protect trust crowd cinnamon street approve debate sniff ship climb correct acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | protect |  
+| bip_39_word_new_br10 | protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship<br>climb |  
+| bip_39_word_new_br11 | protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship<br>climb<br>correct |  
+| bip_39_word_new_br12 | protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship<br>climb<br>correct<br>acoustic |  
+| bip_39_word_new_br2 | protect<br>trust |  
+| bip_39_word_new_br3 | protect<br>trust<br>crowd |  
+| bip_39_word_new_br4 | protect<br>trust<br>crowd<br>cinnamon |  
+| bip_39_word_new_br5 | protect<br>trust<br>crowd<br>cinnamon<br>street |  
+| bip_39_word_new_br6 | protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve |  
+| bip_39_word_new_br7 | protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate |  
+| bip_39_word_new_br8 | protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff |  
+| bip_39_word_new_br9 | protect<br>trust<br>crowd<br>cinnamon<br>street<br>approve<br>debate<br>sniff<br>ship |  
+| bip_39_word_new_line1 | protect |  
+| bip_39_word_new_line10 | protect
+trust
+crowd
+cinnamon
+street
+approve
+debate
+sniff
+ship
+climb |  
+| bip_39_word_new_line11 | protect
+trust
+crowd
+cinnamon
+street
+approve
+debate
+sniff
+ship
+climb
+correct |  
+| bip_39_word_new_line12 | protect
+trust
+crowd
+cinnamon
+street
+approve
+debate
+sniff
+ship
+climb
+correct
+acoustic |  
+| bip_39_word_new_line2 | protect
+trust |  
+| bip_39_word_new_line3 | protect
+trust
+crowd |  
+| bip_39_word_new_line4 | protect
+trust
+crowd
+cinnamon |  
+| bip_39_word_new_line5 | protect
+trust
+crowd
+cinnamon
+street |  
+| bip_39_word_new_line6 | protect
+trust
+crowd
+cinnamon
+street
+approve |  
+| bip_39_word_new_line7 | protect
+trust
+crowd
+cinnamon
+street
+approve
+debate |  
+| bip_39_word_new_line8 | protect
+trust
+crowd
+cinnamon
+street
+approve
+debate
+sniff |  
+| bip_39_word_new_line9 | protect
+trust
+crowd
+cinnamon
+street
+approve
+debate
+sniff
+ship |  
+| bip_39_word_space_0 | ['protect', 'trust', 'crowd', 'cinnamon', 'street', 'approve', 'debate', 'sniff', 'ship', 'climb', 'correct', 'acoustic'] |  
+| bip_39_word_space_1 | protect |  
+| bip_39_word_space_10 | protect trust crowd cinnamon street approve debate sniff ship climb |  
+| bip_39_word_space_11 | protect trust crowd cinnamon street approve debate sniff ship climb correct |  
+| bip_39_word_space_12 | protect trust crowd cinnamon street approve debate sniff ship climb correct acoustic |  
+| bip_39_word_space_2 | protect trust |  
+| bip_39_word_space_3 | protect trust crowd |  
+| bip_39_word_space_4 | protect trust crowd cinnamon |  
+| bip_39_word_space_5 | protect trust crowd cinnamon street |  
+| bip_39_word_space_6 | protect trust crowd cinnamon street approve |  
+| bip_39_word_space_7 | protect trust crowd cinnamon street approve debate |  
+| bip_39_word_space_8 | protect trust crowd cinnamon street approve debate sniff |  
+| bip_39_word_space_9 | protect trust crowd cinnamon street approve debate sniff ship |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

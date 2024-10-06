@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: present system
+  * bip 39 word 3: present system cannon
+  * bip 39 word: present system cannon desert orchard husband impact gym stage cancel amazing auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | present |  
+| bip_39_word_new_br10 | present<br>system<br>cannon<br>desert<br>orchard<br>husband<br>impact<br>gym<br>stage<br>cancel |  
+| bip_39_word_new_br11 | present<br>system<br>cannon<br>desert<br>orchard<br>husband<br>impact<br>gym<br>stage<br>cancel<br>amazing |  
+| bip_39_word_new_br12 | present<br>system<br>cannon<br>desert<br>orchard<br>husband<br>impact<br>gym<br>stage<br>cancel<br>amazing<br>auction |  
+| bip_39_word_new_br2 | present<br>system |  
+| bip_39_word_new_br3 | present<br>system<br>cannon |  
+| bip_39_word_new_br4 | present<br>system<br>cannon<br>desert |  
+| bip_39_word_new_br5 | present<br>system<br>cannon<br>desert<br>orchard |  
+| bip_39_word_new_br6 | present<br>system<br>cannon<br>desert<br>orchard<br>husband |  
+| bip_39_word_new_br7 | present<br>system<br>cannon<br>desert<br>orchard<br>husband<br>impact |  
+| bip_39_word_new_br8 | present<br>system<br>cannon<br>desert<br>orchard<br>husband<br>impact<br>gym |  
+| bip_39_word_new_br9 | present<br>system<br>cannon<br>desert<br>orchard<br>husband<br>impact<br>gym<br>stage |  
+| bip_39_word_new_line1 | present |  
+| bip_39_word_new_line10 | present
+system
+cannon
+desert
+orchard
+husband
+impact
+gym
+stage
+cancel |  
+| bip_39_word_new_line11 | present
+system
+cannon
+desert
+orchard
+husband
+impact
+gym
+stage
+cancel
+amazing |  
+| bip_39_word_new_line12 | present
+system
+cannon
+desert
+orchard
+husband
+impact
+gym
+stage
+cancel
+amazing
+auction |  
+| bip_39_word_new_line2 | present
+system |  
+| bip_39_word_new_line3 | present
+system
+cannon |  
+| bip_39_word_new_line4 | present
+system
+cannon
+desert |  
+| bip_39_word_new_line5 | present
+system
+cannon
+desert
+orchard |  
+| bip_39_word_new_line6 | present
+system
+cannon
+desert
+orchard
+husband |  
+| bip_39_word_new_line7 | present
+system
+cannon
+desert
+orchard
+husband
+impact |  
+| bip_39_word_new_line8 | present
+system
+cannon
+desert
+orchard
+husband
+impact
+gym |  
+| bip_39_word_new_line9 | present
+system
+cannon
+desert
+orchard
+husband
+impact
+gym
+stage |  
+| bip_39_word_space_0 | ['present', 'system', 'cannon', 'desert', 'orchard', 'husband', 'impact', 'gym', 'stage', 'cancel', 'amazing', 'auction'] |  
+| bip_39_word_space_1 | present |  
+| bip_39_word_space_10 | present system cannon desert orchard husband impact gym stage cancel |  
+| bip_39_word_space_11 | present system cannon desert orchard husband impact gym stage cancel amazing |  
+| bip_39_word_space_12 | present system cannon desert orchard husband impact gym stage cancel amazing auction |  
+| bip_39_word_space_2 | present system |  
+| bip_39_word_space_3 | present system cannon |  
+| bip_39_word_space_4 | present system cannon desert |  
+| bip_39_word_space_5 | present system cannon desert orchard |  
+| bip_39_word_space_6 | present system cannon desert orchard husband |  
+| bip_39_word_space_7 | present system cannon desert orchard husband impact |  
+| bip_39_word_space_8 | present system cannon desert orchard husband impact gym |  
+| bip_39_word_space_9 | present system cannon desert orchard husband impact gym stage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

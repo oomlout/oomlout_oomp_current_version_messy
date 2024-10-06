@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inspire layer
+  * bip 39 word 3: inspire layer rhythm
+  * bip 39 word: inspire layer rhythm erode month brief waste patrol ecology frown enjoy amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inspire |  
+| bip_39_word_new_br10 | inspire<br>layer<br>rhythm<br>erode<br>month<br>brief<br>waste<br>patrol<br>ecology<br>frown |  
+| bip_39_word_new_br11 | inspire<br>layer<br>rhythm<br>erode<br>month<br>brief<br>waste<br>patrol<br>ecology<br>frown<br>enjoy |  
+| bip_39_word_new_br12 | inspire<br>layer<br>rhythm<br>erode<br>month<br>brief<br>waste<br>patrol<br>ecology<br>frown<br>enjoy<br>amount |  
+| bip_39_word_new_br2 | inspire<br>layer |  
+| bip_39_word_new_br3 | inspire<br>layer<br>rhythm |  
+| bip_39_word_new_br4 | inspire<br>layer<br>rhythm<br>erode |  
+| bip_39_word_new_br5 | inspire<br>layer<br>rhythm<br>erode<br>month |  
+| bip_39_word_new_br6 | inspire<br>layer<br>rhythm<br>erode<br>month<br>brief |  
+| bip_39_word_new_br7 | inspire<br>layer<br>rhythm<br>erode<br>month<br>brief<br>waste |  
+| bip_39_word_new_br8 | inspire<br>layer<br>rhythm<br>erode<br>month<br>brief<br>waste<br>patrol |  
+| bip_39_word_new_br9 | inspire<br>layer<br>rhythm<br>erode<br>month<br>brief<br>waste<br>patrol<br>ecology |  
+| bip_39_word_new_line1 | inspire |  
+| bip_39_word_new_line10 | inspire
+layer
+rhythm
+erode
+month
+brief
+waste
+patrol
+ecology
+frown |  
+| bip_39_word_new_line11 | inspire
+layer
+rhythm
+erode
+month
+brief
+waste
+patrol
+ecology
+frown
+enjoy |  
+| bip_39_word_new_line12 | inspire
+layer
+rhythm
+erode
+month
+brief
+waste
+patrol
+ecology
+frown
+enjoy
+amount |  
+| bip_39_word_new_line2 | inspire
+layer |  
+| bip_39_word_new_line3 | inspire
+layer
+rhythm |  
+| bip_39_word_new_line4 | inspire
+layer
+rhythm
+erode |  
+| bip_39_word_new_line5 | inspire
+layer
+rhythm
+erode
+month |  
+| bip_39_word_new_line6 | inspire
+layer
+rhythm
+erode
+month
+brief |  
+| bip_39_word_new_line7 | inspire
+layer
+rhythm
+erode
+month
+brief
+waste |  
+| bip_39_word_new_line8 | inspire
+layer
+rhythm
+erode
+month
+brief
+waste
+patrol |  
+| bip_39_word_new_line9 | inspire
+layer
+rhythm
+erode
+month
+brief
+waste
+patrol
+ecology |  
+| bip_39_word_space_0 | ['inspire', 'layer', 'rhythm', 'erode', 'month', 'brief', 'waste', 'patrol', 'ecology', 'frown', 'enjoy', 'amount'] |  
+| bip_39_word_space_1 | inspire |  
+| bip_39_word_space_10 | inspire layer rhythm erode month brief waste patrol ecology frown |  
+| bip_39_word_space_11 | inspire layer rhythm erode month brief waste patrol ecology frown enjoy |  
+| bip_39_word_space_12 | inspire layer rhythm erode month brief waste patrol ecology frown enjoy amount |  
+| bip_39_word_space_2 | inspire layer |  
+| bip_39_word_space_3 | inspire layer rhythm |  
+| bip_39_word_space_4 | inspire layer rhythm erode |  
+| bip_39_word_space_5 | inspire layer rhythm erode month |  
+| bip_39_word_space_6 | inspire layer rhythm erode month brief |  
+| bip_39_word_space_7 | inspire layer rhythm erode month brief waste |  
+| bip_39_word_space_8 | inspire layer rhythm erode month brief waste patrol |  
+| bip_39_word_space_9 | inspire layer rhythm erode month brief waste patrol ecology |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

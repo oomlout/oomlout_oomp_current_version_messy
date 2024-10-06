@@ -1,3 +1,186 @@
+bip_39_word_new_br1: awesome
+bip_39_word_new_br10: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube
+bip_39_word_new_br11: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube<br>fantasy
+bip_39_word_new_br12: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long<br>cube<br>fantasy<br>analyst
+bip_39_word_new_br2: awesome<br>cluster
+bip_39_word_new_br3: awesome<br>cluster<br>front
+bip_39_word_new_br4: awesome<br>cluster<br>front<br>erosion
+bip_39_word_new_br5: awesome<br>cluster<br>front<br>erosion<br>rule
+bip_39_word_new_br6: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet
+bip_39_word_new_br7: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that
+bip_39_word_new_br8: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish
+bip_39_word_new_br9: awesome<br>cluster<br>front<br>erosion<br>rule<br>diet<br>that<br>wish<br>long
+bip_39_word_new_line1: awesome
+bip_39_word_new_line10: 'awesome
+
+  cluster
+
+  front
+
+  erosion
+
+  rule
+
+  diet
+
+  that
+
+  wish
+
+  long
+
+  cube'
+bip_39_word_new_line11: 'awesome
+
+  cluster
+
+  front
+
+  erosion
+
+  rule
+
+  diet
+
+  that
+
+  wish
+
+  long
+
+  cube
+
+  fantasy'
+bip_39_word_new_line12: 'awesome
+
+  cluster
+
+  front
+
+  erosion
+
+  rule
+
+  diet
+
+  that
+
+  wish
+
+  long
+
+  cube
+
+  fantasy
+
+  analyst'
+bip_39_word_new_line2: 'awesome
+
+  cluster'
+bip_39_word_new_line3: 'awesome
+
+  cluster
+
+  front'
+bip_39_word_new_line4: 'awesome
+
+  cluster
+
+  front
+
+  erosion'
+bip_39_word_new_line5: 'awesome
+
+  cluster
+
+  front
+
+  erosion
+
+  rule'
+bip_39_word_new_line6: 'awesome
+
+  cluster
+
+  front
+
+  erosion
+
+  rule
+
+  diet'
+bip_39_word_new_line7: 'awesome
+
+  cluster
+
+  front
+
+  erosion
+
+  rule
+
+  diet
+
+  that'
+bip_39_word_new_line8: 'awesome
+
+  cluster
+
+  front
+
+  erosion
+
+  rule
+
+  diet
+
+  that
+
+  wish'
+bip_39_word_new_line9: 'awesome
+
+  cluster
+
+  front
+
+  erosion
+
+  rule
+
+  diet
+
+  that
+
+  wish
+
+  long'
+bip_39_word_space_0:
+- awesome
+- cluster
+- front
+- erosion
+- rule
+- diet
+- that
+- wish
+- long
+- cube
+- fantasy
+- analyst
+bip_39_word_space_1: awesome
+bip_39_word_space_10: awesome cluster front erosion rule diet that wish long cube
+bip_39_word_space_11: awesome cluster front erosion rule diet that wish long cube
+  fantasy
+bip_39_word_space_12: awesome cluster front erosion rule diet that wish long cube
+  fantasy analyst
+bip_39_word_space_2: awesome cluster
+bip_39_word_space_3: awesome cluster front
+bip_39_word_space_4: awesome cluster front erosion
+bip_39_word_space_5: awesome cluster front erosion rule
+bip_39_word_space_6: awesome cluster front erosion rule diet
+bip_39_word_space_7: awesome cluster front erosion rule diet that
+bip_39_word_space_8: awesome cluster front erosion rule diet that wish
+bip_39_word_space_9: awesome cluster front erosion rule diet that wish long
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

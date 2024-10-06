@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rebuild marble
+  * bip 39 word 3: rebuild marble settle
+  * bip 39 word: rebuild marble settle mechanic potato train embrace length verify spread language amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rebuild |  
+| bip_39_word_new_br10 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train<br>embrace<br>length<br>verify<br>spread |  
+| bip_39_word_new_br11 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train<br>embrace<br>length<br>verify<br>spread<br>language |  
+| bip_39_word_new_br12 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train<br>embrace<br>length<br>verify<br>spread<br>language<br>amount |  
+| bip_39_word_new_br2 | rebuild<br>marble |  
+| bip_39_word_new_br3 | rebuild<br>marble<br>settle |  
+| bip_39_word_new_br4 | rebuild<br>marble<br>settle<br>mechanic |  
+| bip_39_word_new_br5 | rebuild<br>marble<br>settle<br>mechanic<br>potato |  
+| bip_39_word_new_br6 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train |  
+| bip_39_word_new_br7 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train<br>embrace |  
+| bip_39_word_new_br8 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train<br>embrace<br>length |  
+| bip_39_word_new_br9 | rebuild<br>marble<br>settle<br>mechanic<br>potato<br>train<br>embrace<br>length<br>verify |  
+| bip_39_word_new_line1 | rebuild |  
+| bip_39_word_new_line10 | rebuild
+marble
+settle
+mechanic
+potato
+train
+embrace
+length
+verify
+spread |  
+| bip_39_word_new_line11 | rebuild
+marble
+settle
+mechanic
+potato
+train
+embrace
+length
+verify
+spread
+language |  
+| bip_39_word_new_line12 | rebuild
+marble
+settle
+mechanic
+potato
+train
+embrace
+length
+verify
+spread
+language
+amount |  
+| bip_39_word_new_line2 | rebuild
+marble |  
+| bip_39_word_new_line3 | rebuild
+marble
+settle |  
+| bip_39_word_new_line4 | rebuild
+marble
+settle
+mechanic |  
+| bip_39_word_new_line5 | rebuild
+marble
+settle
+mechanic
+potato |  
+| bip_39_word_new_line6 | rebuild
+marble
+settle
+mechanic
+potato
+train |  
+| bip_39_word_new_line7 | rebuild
+marble
+settle
+mechanic
+potato
+train
+embrace |  
+| bip_39_word_new_line8 | rebuild
+marble
+settle
+mechanic
+potato
+train
+embrace
+length |  
+| bip_39_word_new_line9 | rebuild
+marble
+settle
+mechanic
+potato
+train
+embrace
+length
+verify |  
+| bip_39_word_space_0 | ['rebuild', 'marble', 'settle', 'mechanic', 'potato', 'train', 'embrace', 'length', 'verify', 'spread', 'language', 'amount'] |  
+| bip_39_word_space_1 | rebuild |  
+| bip_39_word_space_10 | rebuild marble settle mechanic potato train embrace length verify spread |  
+| bip_39_word_space_11 | rebuild marble settle mechanic potato train embrace length verify spread language |  
+| bip_39_word_space_12 | rebuild marble settle mechanic potato train embrace length verify spread language amount |  
+| bip_39_word_space_2 | rebuild marble |  
+| bip_39_word_space_3 | rebuild marble settle |  
+| bip_39_word_space_4 | rebuild marble settle mechanic |  
+| bip_39_word_space_5 | rebuild marble settle mechanic potato |  
+| bip_39_word_space_6 | rebuild marble settle mechanic potato train |  
+| bip_39_word_space_7 | rebuild marble settle mechanic potato train embrace |  
+| bip_39_word_space_8 | rebuild marble settle mechanic potato train embrace length |  
+| bip_39_word_space_9 | rebuild marble settle mechanic potato train embrace length verify |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

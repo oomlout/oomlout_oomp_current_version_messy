@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hover foam
+  * bip 39 word 3: hover foam champion
+  * bip 39 word: hover foam champion gap once utility wheat decide short eagle hundred attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hover |  
+| bip_39_word_new_br10 | hover<br>foam<br>champion<br>gap<br>once<br>utility<br>wheat<br>decide<br>short<br>eagle |  
+| bip_39_word_new_br11 | hover<br>foam<br>champion<br>gap<br>once<br>utility<br>wheat<br>decide<br>short<br>eagle<br>hundred |  
+| bip_39_word_new_br12 | hover<br>foam<br>champion<br>gap<br>once<br>utility<br>wheat<br>decide<br>short<br>eagle<br>hundred<br>attend |  
+| bip_39_word_new_br2 | hover<br>foam |  
+| bip_39_word_new_br3 | hover<br>foam<br>champion |  
+| bip_39_word_new_br4 | hover<br>foam<br>champion<br>gap |  
+| bip_39_word_new_br5 | hover<br>foam<br>champion<br>gap<br>once |  
+| bip_39_word_new_br6 | hover<br>foam<br>champion<br>gap<br>once<br>utility |  
+| bip_39_word_new_br7 | hover<br>foam<br>champion<br>gap<br>once<br>utility<br>wheat |  
+| bip_39_word_new_br8 | hover<br>foam<br>champion<br>gap<br>once<br>utility<br>wheat<br>decide |  
+| bip_39_word_new_br9 | hover<br>foam<br>champion<br>gap<br>once<br>utility<br>wheat<br>decide<br>short |  
+| bip_39_word_new_line1 | hover |  
+| bip_39_word_new_line10 | hover
+foam
+champion
+gap
+once
+utility
+wheat
+decide
+short
+eagle |  
+| bip_39_word_new_line11 | hover
+foam
+champion
+gap
+once
+utility
+wheat
+decide
+short
+eagle
+hundred |  
+| bip_39_word_new_line12 | hover
+foam
+champion
+gap
+once
+utility
+wheat
+decide
+short
+eagle
+hundred
+attend |  
+| bip_39_word_new_line2 | hover
+foam |  
+| bip_39_word_new_line3 | hover
+foam
+champion |  
+| bip_39_word_new_line4 | hover
+foam
+champion
+gap |  
+| bip_39_word_new_line5 | hover
+foam
+champion
+gap
+once |  
+| bip_39_word_new_line6 | hover
+foam
+champion
+gap
+once
+utility |  
+| bip_39_word_new_line7 | hover
+foam
+champion
+gap
+once
+utility
+wheat |  
+| bip_39_word_new_line8 | hover
+foam
+champion
+gap
+once
+utility
+wheat
+decide |  
+| bip_39_word_new_line9 | hover
+foam
+champion
+gap
+once
+utility
+wheat
+decide
+short |  
+| bip_39_word_space_0 | ['hover', 'foam', 'champion', 'gap', 'once', 'utility', 'wheat', 'decide', 'short', 'eagle', 'hundred', 'attend'] |  
+| bip_39_word_space_1 | hover |  
+| bip_39_word_space_10 | hover foam champion gap once utility wheat decide short eagle |  
+| bip_39_word_space_11 | hover foam champion gap once utility wheat decide short eagle hundred |  
+| bip_39_word_space_12 | hover foam champion gap once utility wheat decide short eagle hundred attend |  
+| bip_39_word_space_2 | hover foam |  
+| bip_39_word_space_3 | hover foam champion |  
+| bip_39_word_space_4 | hover foam champion gap |  
+| bip_39_word_space_5 | hover foam champion gap once |  
+| bip_39_word_space_6 | hover foam champion gap once utility |  
+| bip_39_word_space_7 | hover foam champion gap once utility wheat |  
+| bip_39_word_space_8 | hover foam champion gap once utility wheat decide |  
+| bip_39_word_space_9 | hover foam champion gap once utility wheat decide short |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

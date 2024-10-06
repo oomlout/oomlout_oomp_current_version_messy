@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lens tone
+  * bip 39 word 3: lens tone denial
+  * bip 39 word: lens tone denial army retreat bar captain ugly plate vacuum corn audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lens |  
+| bip_39_word_new_br10 | lens<br>tone<br>denial<br>army<br>retreat<br>bar<br>captain<br>ugly<br>plate<br>vacuum |  
+| bip_39_word_new_br11 | lens<br>tone<br>denial<br>army<br>retreat<br>bar<br>captain<br>ugly<br>plate<br>vacuum<br>corn |  
+| bip_39_word_new_br12 | lens<br>tone<br>denial<br>army<br>retreat<br>bar<br>captain<br>ugly<br>plate<br>vacuum<br>corn<br>audit |  
+| bip_39_word_new_br2 | lens<br>tone |  
+| bip_39_word_new_br3 | lens<br>tone<br>denial |  
+| bip_39_word_new_br4 | lens<br>tone<br>denial<br>army |  
+| bip_39_word_new_br5 | lens<br>tone<br>denial<br>army<br>retreat |  
+| bip_39_word_new_br6 | lens<br>tone<br>denial<br>army<br>retreat<br>bar |  
+| bip_39_word_new_br7 | lens<br>tone<br>denial<br>army<br>retreat<br>bar<br>captain |  
+| bip_39_word_new_br8 | lens<br>tone<br>denial<br>army<br>retreat<br>bar<br>captain<br>ugly |  
+| bip_39_word_new_br9 | lens<br>tone<br>denial<br>army<br>retreat<br>bar<br>captain<br>ugly<br>plate |  
+| bip_39_word_new_line1 | lens |  
+| bip_39_word_new_line10 | lens
+tone
+denial
+army
+retreat
+bar
+captain
+ugly
+plate
+vacuum |  
+| bip_39_word_new_line11 | lens
+tone
+denial
+army
+retreat
+bar
+captain
+ugly
+plate
+vacuum
+corn |  
+| bip_39_word_new_line12 | lens
+tone
+denial
+army
+retreat
+bar
+captain
+ugly
+plate
+vacuum
+corn
+audit |  
+| bip_39_word_new_line2 | lens
+tone |  
+| bip_39_word_new_line3 | lens
+tone
+denial |  
+| bip_39_word_new_line4 | lens
+tone
+denial
+army |  
+| bip_39_word_new_line5 | lens
+tone
+denial
+army
+retreat |  
+| bip_39_word_new_line6 | lens
+tone
+denial
+army
+retreat
+bar |  
+| bip_39_word_new_line7 | lens
+tone
+denial
+army
+retreat
+bar
+captain |  
+| bip_39_word_new_line8 | lens
+tone
+denial
+army
+retreat
+bar
+captain
+ugly |  
+| bip_39_word_new_line9 | lens
+tone
+denial
+army
+retreat
+bar
+captain
+ugly
+plate |  
+| bip_39_word_space_0 | ['lens', 'tone', 'denial', 'army', 'retreat', 'bar', 'captain', 'ugly', 'plate', 'vacuum', 'corn', 'audit'] |  
+| bip_39_word_space_1 | lens |  
+| bip_39_word_space_10 | lens tone denial army retreat bar captain ugly plate vacuum |  
+| bip_39_word_space_11 | lens tone denial army retreat bar captain ugly plate vacuum corn |  
+| bip_39_word_space_12 | lens tone denial army retreat bar captain ugly plate vacuum corn audit |  
+| bip_39_word_space_2 | lens tone |  
+| bip_39_word_space_3 | lens tone denial |  
+| bip_39_word_space_4 | lens tone denial army |  
+| bip_39_word_space_5 | lens tone denial army retreat |  
+| bip_39_word_space_6 | lens tone denial army retreat bar |  
+| bip_39_word_space_7 | lens tone denial army retreat bar captain |  
+| bip_39_word_space_8 | lens tone denial army retreat bar captain ugly |  
+| bip_39_word_space_9 | lens tone denial army retreat bar captain ugly plate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

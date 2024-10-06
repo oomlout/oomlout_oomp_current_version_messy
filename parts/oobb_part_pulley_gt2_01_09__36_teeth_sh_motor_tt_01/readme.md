@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: absent exit
+  * bip 39 word 3: absent exit puppy
+  * bip 39 word: absent exit puppy point boat sail iron decide ring protect nut auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | absent |  
+| bip_39_word_new_br10 | absent<br>exit<br>puppy<br>point<br>boat<br>sail<br>iron<br>decide<br>ring<br>protect |  
+| bip_39_word_new_br11 | absent<br>exit<br>puppy<br>point<br>boat<br>sail<br>iron<br>decide<br>ring<br>protect<br>nut |  
+| bip_39_word_new_br12 | absent<br>exit<br>puppy<br>point<br>boat<br>sail<br>iron<br>decide<br>ring<br>protect<br>nut<br>auto |  
+| bip_39_word_new_br2 | absent<br>exit |  
+| bip_39_word_new_br3 | absent<br>exit<br>puppy |  
+| bip_39_word_new_br4 | absent<br>exit<br>puppy<br>point |  
+| bip_39_word_new_br5 | absent<br>exit<br>puppy<br>point<br>boat |  
+| bip_39_word_new_br6 | absent<br>exit<br>puppy<br>point<br>boat<br>sail |  
+| bip_39_word_new_br7 | absent<br>exit<br>puppy<br>point<br>boat<br>sail<br>iron |  
+| bip_39_word_new_br8 | absent<br>exit<br>puppy<br>point<br>boat<br>sail<br>iron<br>decide |  
+| bip_39_word_new_br9 | absent<br>exit<br>puppy<br>point<br>boat<br>sail<br>iron<br>decide<br>ring |  
+| bip_39_word_new_line1 | absent |  
+| bip_39_word_new_line10 | absent
+exit
+puppy
+point
+boat
+sail
+iron
+decide
+ring
+protect |  
+| bip_39_word_new_line11 | absent
+exit
+puppy
+point
+boat
+sail
+iron
+decide
+ring
+protect
+nut |  
+| bip_39_word_new_line12 | absent
+exit
+puppy
+point
+boat
+sail
+iron
+decide
+ring
+protect
+nut
+auto |  
+| bip_39_word_new_line2 | absent
+exit |  
+| bip_39_word_new_line3 | absent
+exit
+puppy |  
+| bip_39_word_new_line4 | absent
+exit
+puppy
+point |  
+| bip_39_word_new_line5 | absent
+exit
+puppy
+point
+boat |  
+| bip_39_word_new_line6 | absent
+exit
+puppy
+point
+boat
+sail |  
+| bip_39_word_new_line7 | absent
+exit
+puppy
+point
+boat
+sail
+iron |  
+| bip_39_word_new_line8 | absent
+exit
+puppy
+point
+boat
+sail
+iron
+decide |  
+| bip_39_word_new_line9 | absent
+exit
+puppy
+point
+boat
+sail
+iron
+decide
+ring |  
+| bip_39_word_space_0 | ['absent', 'exit', 'puppy', 'point', 'boat', 'sail', 'iron', 'decide', 'ring', 'protect', 'nut', 'auto'] |  
+| bip_39_word_space_1 | absent |  
+| bip_39_word_space_10 | absent exit puppy point boat sail iron decide ring protect |  
+| bip_39_word_space_11 | absent exit puppy point boat sail iron decide ring protect nut |  
+| bip_39_word_space_12 | absent exit puppy point boat sail iron decide ring protect nut auto |  
+| bip_39_word_space_2 | absent exit |  
+| bip_39_word_space_3 | absent exit puppy |  
+| bip_39_word_space_4 | absent exit puppy point |  
+| bip_39_word_space_5 | absent exit puppy point boat |  
+| bip_39_word_space_6 | absent exit puppy point boat sail |  
+| bip_39_word_space_7 | absent exit puppy point boat sail iron |  
+| bip_39_word_space_8 | absent exit puppy point boat sail iron decide |  
+| bip_39_word_space_9 | absent exit puppy point boat sail iron decide ring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

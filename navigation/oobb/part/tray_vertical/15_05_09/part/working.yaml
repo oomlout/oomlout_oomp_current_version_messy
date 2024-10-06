@@ -1,3 +1,187 @@
+bip_39_word_new_br1: chase
+bip_39_word_new_br10: chase<br>fault<br>interest<br>rain<br>measure<br>arrange<br>dust<br>video<br>bitter<br>dream
+bip_39_word_new_br11: chase<br>fault<br>interest<br>rain<br>measure<br>arrange<br>dust<br>video<br>bitter<br>dream<br>frost
+bip_39_word_new_br12: chase<br>fault<br>interest<br>rain<br>measure<br>arrange<br>dust<br>video<br>bitter<br>dream<br>frost<br>also
+bip_39_word_new_br2: chase<br>fault
+bip_39_word_new_br3: chase<br>fault<br>interest
+bip_39_word_new_br4: chase<br>fault<br>interest<br>rain
+bip_39_word_new_br5: chase<br>fault<br>interest<br>rain<br>measure
+bip_39_word_new_br6: chase<br>fault<br>interest<br>rain<br>measure<br>arrange
+bip_39_word_new_br7: chase<br>fault<br>interest<br>rain<br>measure<br>arrange<br>dust
+bip_39_word_new_br8: chase<br>fault<br>interest<br>rain<br>measure<br>arrange<br>dust<br>video
+bip_39_word_new_br9: chase<br>fault<br>interest<br>rain<br>measure<br>arrange<br>dust<br>video<br>bitter
+bip_39_word_new_line1: chase
+bip_39_word_new_line10: 'chase
+
+  fault
+
+  interest
+
+  rain
+
+  measure
+
+  arrange
+
+  dust
+
+  video
+
+  bitter
+
+  dream'
+bip_39_word_new_line11: 'chase
+
+  fault
+
+  interest
+
+  rain
+
+  measure
+
+  arrange
+
+  dust
+
+  video
+
+  bitter
+
+  dream
+
+  frost'
+bip_39_word_new_line12: 'chase
+
+  fault
+
+  interest
+
+  rain
+
+  measure
+
+  arrange
+
+  dust
+
+  video
+
+  bitter
+
+  dream
+
+  frost
+
+  also'
+bip_39_word_new_line2: 'chase
+
+  fault'
+bip_39_word_new_line3: 'chase
+
+  fault
+
+  interest'
+bip_39_word_new_line4: 'chase
+
+  fault
+
+  interest
+
+  rain'
+bip_39_word_new_line5: 'chase
+
+  fault
+
+  interest
+
+  rain
+
+  measure'
+bip_39_word_new_line6: 'chase
+
+  fault
+
+  interest
+
+  rain
+
+  measure
+
+  arrange'
+bip_39_word_new_line7: 'chase
+
+  fault
+
+  interest
+
+  rain
+
+  measure
+
+  arrange
+
+  dust'
+bip_39_word_new_line8: 'chase
+
+  fault
+
+  interest
+
+  rain
+
+  measure
+
+  arrange
+
+  dust
+
+  video'
+bip_39_word_new_line9: 'chase
+
+  fault
+
+  interest
+
+  rain
+
+  measure
+
+  arrange
+
+  dust
+
+  video
+
+  bitter'
+bip_39_word_space_0:
+- chase
+- fault
+- interest
+- rain
+- measure
+- arrange
+- dust
+- video
+- bitter
+- dream
+- frost
+- also
+bip_39_word_space_1: chase
+bip_39_word_space_10: chase fault interest rain measure arrange dust video bitter
+  dream
+bip_39_word_space_11: chase fault interest rain measure arrange dust video bitter
+  dream frost
+bip_39_word_space_12: chase fault interest rain measure arrange dust video bitter
+  dream frost also
+bip_39_word_space_2: chase fault
+bip_39_word_space_3: chase fault interest
+bip_39_word_space_4: chase fault interest rain
+bip_39_word_space_5: chase fault interest rain measure
+bip_39_word_space_6: chase fault interest rain measure arrange
+bip_39_word_space_7: chase fault interest rain measure arrange dust
+bip_39_word_space_8: chase fault interest rain measure arrange dust video
+bip_39_word_space_9: chase fault interest rain measure arrange dust video bitter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

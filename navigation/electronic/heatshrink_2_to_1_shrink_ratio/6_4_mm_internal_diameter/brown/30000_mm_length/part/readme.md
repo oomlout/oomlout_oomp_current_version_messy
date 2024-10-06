@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: turtle voyage
+  * bip 39 word 3: turtle voyage comic
+  * bip 39 word: turtle voyage comic peanut arm health usual rib emotion giant allow aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | turtle |  
+| bip_39_word_new_br10 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health<br>usual<br>rib<br>emotion<br>giant |  
+| bip_39_word_new_br11 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health<br>usual<br>rib<br>emotion<br>giant<br>allow |  
+| bip_39_word_new_br12 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health<br>usual<br>rib<br>emotion<br>giant<br>allow<br>aisle |  
+| bip_39_word_new_br2 | turtle<br>voyage |  
+| bip_39_word_new_br3 | turtle<br>voyage<br>comic |  
+| bip_39_word_new_br4 | turtle<br>voyage<br>comic<br>peanut |  
+| bip_39_word_new_br5 | turtle<br>voyage<br>comic<br>peanut<br>arm |  
+| bip_39_word_new_br6 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health |  
+| bip_39_word_new_br7 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health<br>usual |  
+| bip_39_word_new_br8 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health<br>usual<br>rib |  
+| bip_39_word_new_br9 | turtle<br>voyage<br>comic<br>peanut<br>arm<br>health<br>usual<br>rib<br>emotion |  
+| bip_39_word_new_line1 | turtle |  
+| bip_39_word_new_line10 | turtle
+voyage
+comic
+peanut
+arm
+health
+usual
+rib
+emotion
+giant |  
+| bip_39_word_new_line11 | turtle
+voyage
+comic
+peanut
+arm
+health
+usual
+rib
+emotion
+giant
+allow |  
+| bip_39_word_new_line12 | turtle
+voyage
+comic
+peanut
+arm
+health
+usual
+rib
+emotion
+giant
+allow
+aisle |  
+| bip_39_word_new_line2 | turtle
+voyage |  
+| bip_39_word_new_line3 | turtle
+voyage
+comic |  
+| bip_39_word_new_line4 | turtle
+voyage
+comic
+peanut |  
+| bip_39_word_new_line5 | turtle
+voyage
+comic
+peanut
+arm |  
+| bip_39_word_new_line6 | turtle
+voyage
+comic
+peanut
+arm
+health |  
+| bip_39_word_new_line7 | turtle
+voyage
+comic
+peanut
+arm
+health
+usual |  
+| bip_39_word_new_line8 | turtle
+voyage
+comic
+peanut
+arm
+health
+usual
+rib |  
+| bip_39_word_new_line9 | turtle
+voyage
+comic
+peanut
+arm
+health
+usual
+rib
+emotion |  
+| bip_39_word_space_0 | ['turtle', 'voyage', 'comic', 'peanut', 'arm', 'health', 'usual', 'rib', 'emotion', 'giant', 'allow', 'aisle'] |  
+| bip_39_word_space_1 | turtle |  
+| bip_39_word_space_10 | turtle voyage comic peanut arm health usual rib emotion giant |  
+| bip_39_word_space_11 | turtle voyage comic peanut arm health usual rib emotion giant allow |  
+| bip_39_word_space_12 | turtle voyage comic peanut arm health usual rib emotion giant allow aisle |  
+| bip_39_word_space_2 | turtle voyage |  
+| bip_39_word_space_3 | turtle voyage comic |  
+| bip_39_word_space_4 | turtle voyage comic peanut |  
+| bip_39_word_space_5 | turtle voyage comic peanut arm |  
+| bip_39_word_space_6 | turtle voyage comic peanut arm health |  
+| bip_39_word_space_7 | turtle voyage comic peanut arm health usual |  
+| bip_39_word_space_8 | turtle voyage comic peanut arm health usual rib |  
+| bip_39_word_space_9 | turtle voyage comic peanut arm health usual rib emotion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

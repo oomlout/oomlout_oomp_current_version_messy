@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: salad mule
+  * bip 39 word 3: salad mule repeat
+  * bip 39 word: salad mule repeat all walnut during remember provide below win stock accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | salad |  
+| bip_39_word_new_br10 | salad<br>mule<br>repeat<br>all<br>walnut<br>during<br>remember<br>provide<br>below<br>win |  
+| bip_39_word_new_br11 | salad<br>mule<br>repeat<br>all<br>walnut<br>during<br>remember<br>provide<br>below<br>win<br>stock |  
+| bip_39_word_new_br12 | salad<br>mule<br>repeat<br>all<br>walnut<br>during<br>remember<br>provide<br>below<br>win<br>stock<br>accident |  
+| bip_39_word_new_br2 | salad<br>mule |  
+| bip_39_word_new_br3 | salad<br>mule<br>repeat |  
+| bip_39_word_new_br4 | salad<br>mule<br>repeat<br>all |  
+| bip_39_word_new_br5 | salad<br>mule<br>repeat<br>all<br>walnut |  
+| bip_39_word_new_br6 | salad<br>mule<br>repeat<br>all<br>walnut<br>during |  
+| bip_39_word_new_br7 | salad<br>mule<br>repeat<br>all<br>walnut<br>during<br>remember |  
+| bip_39_word_new_br8 | salad<br>mule<br>repeat<br>all<br>walnut<br>during<br>remember<br>provide |  
+| bip_39_word_new_br9 | salad<br>mule<br>repeat<br>all<br>walnut<br>during<br>remember<br>provide<br>below |  
+| bip_39_word_new_line1 | salad |  
+| bip_39_word_new_line10 | salad
+mule
+repeat
+all
+walnut
+during
+remember
+provide
+below
+win |  
+| bip_39_word_new_line11 | salad
+mule
+repeat
+all
+walnut
+during
+remember
+provide
+below
+win
+stock |  
+| bip_39_word_new_line12 | salad
+mule
+repeat
+all
+walnut
+during
+remember
+provide
+below
+win
+stock
+accident |  
+| bip_39_word_new_line2 | salad
+mule |  
+| bip_39_word_new_line3 | salad
+mule
+repeat |  
+| bip_39_word_new_line4 | salad
+mule
+repeat
+all |  
+| bip_39_word_new_line5 | salad
+mule
+repeat
+all
+walnut |  
+| bip_39_word_new_line6 | salad
+mule
+repeat
+all
+walnut
+during |  
+| bip_39_word_new_line7 | salad
+mule
+repeat
+all
+walnut
+during
+remember |  
+| bip_39_word_new_line8 | salad
+mule
+repeat
+all
+walnut
+during
+remember
+provide |  
+| bip_39_word_new_line9 | salad
+mule
+repeat
+all
+walnut
+during
+remember
+provide
+below |  
+| bip_39_word_space_0 | ['salad', 'mule', 'repeat', 'all', 'walnut', 'during', 'remember', 'provide', 'below', 'win', 'stock', 'accident'] |  
+| bip_39_word_space_1 | salad |  
+| bip_39_word_space_10 | salad mule repeat all walnut during remember provide below win |  
+| bip_39_word_space_11 | salad mule repeat all walnut during remember provide below win stock |  
+| bip_39_word_space_12 | salad mule repeat all walnut during remember provide below win stock accident |  
+| bip_39_word_space_2 | salad mule |  
+| bip_39_word_space_3 | salad mule repeat |  
+| bip_39_word_space_4 | salad mule repeat all |  
+| bip_39_word_space_5 | salad mule repeat all walnut |  
+| bip_39_word_space_6 | salad mule repeat all walnut during |  
+| bip_39_word_space_7 | salad mule repeat all walnut during remember |  
+| bip_39_word_space_8 | salad mule repeat all walnut during remember provide |  
+| bip_39_word_space_9 | salad mule repeat all walnut during remember provide below |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

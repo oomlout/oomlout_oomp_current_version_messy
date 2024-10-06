@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: install chief
+  * bip 39 word 3: install chief faith
+  * bip 39 word: install chief faith cruel couch basic message high knee moon law atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | install |  
+| bip_39_word_new_br10 | install<br>chief<br>faith<br>cruel<br>couch<br>basic<br>message<br>high<br>knee<br>moon |  
+| bip_39_word_new_br11 | install<br>chief<br>faith<br>cruel<br>couch<br>basic<br>message<br>high<br>knee<br>moon<br>law |  
+| bip_39_word_new_br12 | install<br>chief<br>faith<br>cruel<br>couch<br>basic<br>message<br>high<br>knee<br>moon<br>law<br>atom |  
+| bip_39_word_new_br2 | install<br>chief |  
+| bip_39_word_new_br3 | install<br>chief<br>faith |  
+| bip_39_word_new_br4 | install<br>chief<br>faith<br>cruel |  
+| bip_39_word_new_br5 | install<br>chief<br>faith<br>cruel<br>couch |  
+| bip_39_word_new_br6 | install<br>chief<br>faith<br>cruel<br>couch<br>basic |  
+| bip_39_word_new_br7 | install<br>chief<br>faith<br>cruel<br>couch<br>basic<br>message |  
+| bip_39_word_new_br8 | install<br>chief<br>faith<br>cruel<br>couch<br>basic<br>message<br>high |  
+| bip_39_word_new_br9 | install<br>chief<br>faith<br>cruel<br>couch<br>basic<br>message<br>high<br>knee |  
+| bip_39_word_new_line1 | install |  
+| bip_39_word_new_line10 | install
+chief
+faith
+cruel
+couch
+basic
+message
+high
+knee
+moon |  
+| bip_39_word_new_line11 | install
+chief
+faith
+cruel
+couch
+basic
+message
+high
+knee
+moon
+law |  
+| bip_39_word_new_line12 | install
+chief
+faith
+cruel
+couch
+basic
+message
+high
+knee
+moon
+law
+atom |  
+| bip_39_word_new_line2 | install
+chief |  
+| bip_39_word_new_line3 | install
+chief
+faith |  
+| bip_39_word_new_line4 | install
+chief
+faith
+cruel |  
+| bip_39_word_new_line5 | install
+chief
+faith
+cruel
+couch |  
+| bip_39_word_new_line6 | install
+chief
+faith
+cruel
+couch
+basic |  
+| bip_39_word_new_line7 | install
+chief
+faith
+cruel
+couch
+basic
+message |  
+| bip_39_word_new_line8 | install
+chief
+faith
+cruel
+couch
+basic
+message
+high |  
+| bip_39_word_new_line9 | install
+chief
+faith
+cruel
+couch
+basic
+message
+high
+knee |  
+| bip_39_word_space_0 | ['install', 'chief', 'faith', 'cruel', 'couch', 'basic', 'message', 'high', 'knee', 'moon', 'law', 'atom'] |  
+| bip_39_word_space_1 | install |  
+| bip_39_word_space_10 | install chief faith cruel couch basic message high knee moon |  
+| bip_39_word_space_11 | install chief faith cruel couch basic message high knee moon law |  
+| bip_39_word_space_12 | install chief faith cruel couch basic message high knee moon law atom |  
+| bip_39_word_space_2 | install chief |  
+| bip_39_word_space_3 | install chief faith |  
+| bip_39_word_space_4 | install chief faith cruel |  
+| bip_39_word_space_5 | install chief faith cruel couch |  
+| bip_39_word_space_6 | install chief faith cruel couch basic |  
+| bip_39_word_space_7 | install chief faith cruel couch basic message |  
+| bip_39_word_space_8 | install chief faith cruel couch basic message high |  
+| bip_39_word_space_9 | install chief faith cruel couch basic message high knee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hurt
+bip_39_word_new_br10: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose
+bip_39_word_new_br11: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose<br>trophy
+bip_39_word_new_br12: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe<br>purpose<br>trophy<br>angry
+bip_39_word_new_br2: hurt<br>woman
+bip_39_word_new_br3: hurt<br>woman<br>erase
+bip_39_word_new_br4: hurt<br>woman<br>erase<br>consider
+bip_39_word_new_br5: hurt<br>woman<br>erase<br>consider<br>logic
+bip_39_word_new_br6: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel
+bip_39_word_new_br7: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb
+bip_39_word_new_br8: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash
+bip_39_word_new_br9: hurt<br>woman<br>erase<br>consider<br>logic<br>barrel<br>bulb<br>flash<br>universe
+bip_39_word_new_line1: hurt
+bip_39_word_new_line10: 'hurt
+
+  woman
+
+  erase
+
+  consider
+
+  logic
+
+  barrel
+
+  bulb
+
+  flash
+
+  universe
+
+  purpose'
+bip_39_word_new_line11: 'hurt
+
+  woman
+
+  erase
+
+  consider
+
+  logic
+
+  barrel
+
+  bulb
+
+  flash
+
+  universe
+
+  purpose
+
+  trophy'
+bip_39_word_new_line12: 'hurt
+
+  woman
+
+  erase
+
+  consider
+
+  logic
+
+  barrel
+
+  bulb
+
+  flash
+
+  universe
+
+  purpose
+
+  trophy
+
+  angry'
+bip_39_word_new_line2: 'hurt
+
+  woman'
+bip_39_word_new_line3: 'hurt
+
+  woman
+
+  erase'
+bip_39_word_new_line4: 'hurt
+
+  woman
+
+  erase
+
+  consider'
+bip_39_word_new_line5: 'hurt
+
+  woman
+
+  erase
+
+  consider
+
+  logic'
+bip_39_word_new_line6: 'hurt
+
+  woman
+
+  erase
+
+  consider
+
+  logic
+
+  barrel'
+bip_39_word_new_line7: 'hurt
+
+  woman
+
+  erase
+
+  consider
+
+  logic
+
+  barrel
+
+  bulb'
+bip_39_word_new_line8: 'hurt
+
+  woman
+
+  erase
+
+  consider
+
+  logic
+
+  barrel
+
+  bulb
+
+  flash'
+bip_39_word_new_line9: 'hurt
+
+  woman
+
+  erase
+
+  consider
+
+  logic
+
+  barrel
+
+  bulb
+
+  flash
+
+  universe'
+bip_39_word_space_0:
+- hurt
+- woman
+- erase
+- consider
+- logic
+- barrel
+- bulb
+- flash
+- universe
+- purpose
+- trophy
+- angry
+bip_39_word_space_1: hurt
+bip_39_word_space_10: hurt woman erase consider logic barrel bulb flash universe purpose
+bip_39_word_space_11: hurt woman erase consider logic barrel bulb flash universe purpose
+  trophy
+bip_39_word_space_12: hurt woman erase consider logic barrel bulb flash universe purpose
+  trophy angry
+bip_39_word_space_2: hurt woman
+bip_39_word_space_3: hurt woman erase
+bip_39_word_space_4: hurt woman erase consider
+bip_39_word_space_5: hurt woman erase consider logic
+bip_39_word_space_6: hurt woman erase consider logic barrel
+bip_39_word_space_7: hurt woman erase consider logic barrel bulb
+bip_39_word_space_8: hurt woman erase consider logic barrel bulb flash
+bip_39_word_space_9: hurt woman erase consider logic barrel bulb flash universe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: horn caught
+  * bip 39 word 3: horn caught learn
+  * bip 39 word: horn caught learn diary approve immense output thrive usual coin maple absorb
 
 ### other_codes
 * short_code: br61803
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | horn |  
+| bip_39_word_new_br10 | horn<br>caught<br>learn<br>diary<br>approve<br>immense<br>output<br>thrive<br>usual<br>coin |  
+| bip_39_word_new_br11 | horn<br>caught<br>learn<br>diary<br>approve<br>immense<br>output<br>thrive<br>usual<br>coin<br>maple |  
+| bip_39_word_new_br12 | horn<br>caught<br>learn<br>diary<br>approve<br>immense<br>output<br>thrive<br>usual<br>coin<br>maple<br>absorb |  
+| bip_39_word_new_br2 | horn<br>caught |  
+| bip_39_word_new_br3 | horn<br>caught<br>learn |  
+| bip_39_word_new_br4 | horn<br>caught<br>learn<br>diary |  
+| bip_39_word_new_br5 | horn<br>caught<br>learn<br>diary<br>approve |  
+| bip_39_word_new_br6 | horn<br>caught<br>learn<br>diary<br>approve<br>immense |  
+| bip_39_word_new_br7 | horn<br>caught<br>learn<br>diary<br>approve<br>immense<br>output |  
+| bip_39_word_new_br8 | horn<br>caught<br>learn<br>diary<br>approve<br>immense<br>output<br>thrive |  
+| bip_39_word_new_br9 | horn<br>caught<br>learn<br>diary<br>approve<br>immense<br>output<br>thrive<br>usual |  
+| bip_39_word_new_line1 | horn |  
+| bip_39_word_new_line10 | horn
+caught
+learn
+diary
+approve
+immense
+output
+thrive
+usual
+coin |  
+| bip_39_word_new_line11 | horn
+caught
+learn
+diary
+approve
+immense
+output
+thrive
+usual
+coin
+maple |  
+| bip_39_word_new_line12 | horn
+caught
+learn
+diary
+approve
+immense
+output
+thrive
+usual
+coin
+maple
+absorb |  
+| bip_39_word_new_line2 | horn
+caught |  
+| bip_39_word_new_line3 | horn
+caught
+learn |  
+| bip_39_word_new_line4 | horn
+caught
+learn
+diary |  
+| bip_39_word_new_line5 | horn
+caught
+learn
+diary
+approve |  
+| bip_39_word_new_line6 | horn
+caught
+learn
+diary
+approve
+immense |  
+| bip_39_word_new_line7 | horn
+caught
+learn
+diary
+approve
+immense
+output |  
+| bip_39_word_new_line8 | horn
+caught
+learn
+diary
+approve
+immense
+output
+thrive |  
+| bip_39_word_new_line9 | horn
+caught
+learn
+diary
+approve
+immense
+output
+thrive
+usual |  
+| bip_39_word_space_0 | ['horn', 'caught', 'learn', 'diary', 'approve', 'immense', 'output', 'thrive', 'usual', 'coin', 'maple', 'absorb'] |  
+| bip_39_word_space_1 | horn |  
+| bip_39_word_space_10 | horn caught learn diary approve immense output thrive usual coin |  
+| bip_39_word_space_11 | horn caught learn diary approve immense output thrive usual coin maple |  
+| bip_39_word_space_12 | horn caught learn diary approve immense output thrive usual coin maple absorb |  
+| bip_39_word_space_2 | horn caught |  
+| bip_39_word_space_3 | horn caught learn |  
+| bip_39_word_space_4 | horn caught learn diary |  
+| bip_39_word_space_5 | horn caught learn diary approve |  
+| bip_39_word_space_6 | horn caught learn diary approve immense |  
+| bip_39_word_space_7 | horn caught learn diary approve immense output |  
+| bip_39_word_space_8 | horn caught learn diary approve immense output thrive |  
+| bip_39_word_space_9 | horn caught learn diary approve immense output thrive usual |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

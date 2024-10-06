@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nurse print
+  * bip 39 word 3: nurse print elevator
+  * bip 39 word: nurse print elevator mango comic pyramid prepare blanket jewel radar hub always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nurse |  
+| bip_39_word_new_br10 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid<br>prepare<br>blanket<br>jewel<br>radar |  
+| bip_39_word_new_br11 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid<br>prepare<br>blanket<br>jewel<br>radar<br>hub |  
+| bip_39_word_new_br12 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid<br>prepare<br>blanket<br>jewel<br>radar<br>hub<br>always |  
+| bip_39_word_new_br2 | nurse<br>print |  
+| bip_39_word_new_br3 | nurse<br>print<br>elevator |  
+| bip_39_word_new_br4 | nurse<br>print<br>elevator<br>mango |  
+| bip_39_word_new_br5 | nurse<br>print<br>elevator<br>mango<br>comic |  
+| bip_39_word_new_br6 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid |  
+| bip_39_word_new_br7 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid<br>prepare |  
+| bip_39_word_new_br8 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid<br>prepare<br>blanket |  
+| bip_39_word_new_br9 | nurse<br>print<br>elevator<br>mango<br>comic<br>pyramid<br>prepare<br>blanket<br>jewel |  
+| bip_39_word_new_line1 | nurse |  
+| bip_39_word_new_line10 | nurse
+print
+elevator
+mango
+comic
+pyramid
+prepare
+blanket
+jewel
+radar |  
+| bip_39_word_new_line11 | nurse
+print
+elevator
+mango
+comic
+pyramid
+prepare
+blanket
+jewel
+radar
+hub |  
+| bip_39_word_new_line12 | nurse
+print
+elevator
+mango
+comic
+pyramid
+prepare
+blanket
+jewel
+radar
+hub
+always |  
+| bip_39_word_new_line2 | nurse
+print |  
+| bip_39_word_new_line3 | nurse
+print
+elevator |  
+| bip_39_word_new_line4 | nurse
+print
+elevator
+mango |  
+| bip_39_word_new_line5 | nurse
+print
+elevator
+mango
+comic |  
+| bip_39_word_new_line6 | nurse
+print
+elevator
+mango
+comic
+pyramid |  
+| bip_39_word_new_line7 | nurse
+print
+elevator
+mango
+comic
+pyramid
+prepare |  
+| bip_39_word_new_line8 | nurse
+print
+elevator
+mango
+comic
+pyramid
+prepare
+blanket |  
+| bip_39_word_new_line9 | nurse
+print
+elevator
+mango
+comic
+pyramid
+prepare
+blanket
+jewel |  
+| bip_39_word_space_0 | ['nurse', 'print', 'elevator', 'mango', 'comic', 'pyramid', 'prepare', 'blanket', 'jewel', 'radar', 'hub', 'always'] |  
+| bip_39_word_space_1 | nurse |  
+| bip_39_word_space_10 | nurse print elevator mango comic pyramid prepare blanket jewel radar |  
+| bip_39_word_space_11 | nurse print elevator mango comic pyramid prepare blanket jewel radar hub |  
+| bip_39_word_space_12 | nurse print elevator mango comic pyramid prepare blanket jewel radar hub always |  
+| bip_39_word_space_2 | nurse print |  
+| bip_39_word_space_3 | nurse print elevator |  
+| bip_39_word_space_4 | nurse print elevator mango |  
+| bip_39_word_space_5 | nurse print elevator mango comic |  
+| bip_39_word_space_6 | nurse print elevator mango comic pyramid |  
+| bip_39_word_space_7 | nurse print elevator mango comic pyramid prepare |  
+| bip_39_word_space_8 | nurse print elevator mango comic pyramid prepare blanket |  
+| bip_39_word_space_9 | nurse print elevator mango comic pyramid prepare blanket jewel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

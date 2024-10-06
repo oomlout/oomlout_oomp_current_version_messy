@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stamp crater
+  * bip 39 word 3: stamp crater habit
+  * bip 39 word: stamp crater habit energy thing ill camera garbage dutch blade diamond ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stamp |  
+| bip_39_word_new_br10 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill<br>camera<br>garbage<br>dutch<br>blade |  
+| bip_39_word_new_br11 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill<br>camera<br>garbage<br>dutch<br>blade<br>diamond |  
+| bip_39_word_new_br12 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill<br>camera<br>garbage<br>dutch<br>blade<br>diamond<br>ankle |  
+| bip_39_word_new_br2 | stamp<br>crater |  
+| bip_39_word_new_br3 | stamp<br>crater<br>habit |  
+| bip_39_word_new_br4 | stamp<br>crater<br>habit<br>energy |  
+| bip_39_word_new_br5 | stamp<br>crater<br>habit<br>energy<br>thing |  
+| bip_39_word_new_br6 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill |  
+| bip_39_word_new_br7 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill<br>camera |  
+| bip_39_word_new_br8 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill<br>camera<br>garbage |  
+| bip_39_word_new_br9 | stamp<br>crater<br>habit<br>energy<br>thing<br>ill<br>camera<br>garbage<br>dutch |  
+| bip_39_word_new_line1 | stamp |  
+| bip_39_word_new_line10 | stamp
+crater
+habit
+energy
+thing
+ill
+camera
+garbage
+dutch
+blade |  
+| bip_39_word_new_line11 | stamp
+crater
+habit
+energy
+thing
+ill
+camera
+garbage
+dutch
+blade
+diamond |  
+| bip_39_word_new_line12 | stamp
+crater
+habit
+energy
+thing
+ill
+camera
+garbage
+dutch
+blade
+diamond
+ankle |  
+| bip_39_word_new_line2 | stamp
+crater |  
+| bip_39_word_new_line3 | stamp
+crater
+habit |  
+| bip_39_word_new_line4 | stamp
+crater
+habit
+energy |  
+| bip_39_word_new_line5 | stamp
+crater
+habit
+energy
+thing |  
+| bip_39_word_new_line6 | stamp
+crater
+habit
+energy
+thing
+ill |  
+| bip_39_word_new_line7 | stamp
+crater
+habit
+energy
+thing
+ill
+camera |  
+| bip_39_word_new_line8 | stamp
+crater
+habit
+energy
+thing
+ill
+camera
+garbage |  
+| bip_39_word_new_line9 | stamp
+crater
+habit
+energy
+thing
+ill
+camera
+garbage
+dutch |  
+| bip_39_word_space_0 | ['stamp', 'crater', 'habit', 'energy', 'thing', 'ill', 'camera', 'garbage', 'dutch', 'blade', 'diamond', 'ankle'] |  
+| bip_39_word_space_1 | stamp |  
+| bip_39_word_space_10 | stamp crater habit energy thing ill camera garbage dutch blade |  
+| bip_39_word_space_11 | stamp crater habit energy thing ill camera garbage dutch blade diamond |  
+| bip_39_word_space_12 | stamp crater habit energy thing ill camera garbage dutch blade diamond ankle |  
+| bip_39_word_space_2 | stamp crater |  
+| bip_39_word_space_3 | stamp crater habit |  
+| bip_39_word_space_4 | stamp crater habit energy |  
+| bip_39_word_space_5 | stamp crater habit energy thing |  
+| bip_39_word_space_6 | stamp crater habit energy thing ill |  
+| bip_39_word_space_7 | stamp crater habit energy thing ill camera |  
+| bip_39_word_space_8 | stamp crater habit energy thing ill camera garbage |  
+| bip_39_word_space_9 | stamp crater habit energy thing ill camera garbage dutch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

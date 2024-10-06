@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: person curtain
+  * bip 39 word 3: person curtain scheme
+  * bip 39 word: person curtain scheme antenna collect benefit uphold chalk gentle host brass august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | person |  
+| bip_39_word_new_br10 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit<br>uphold<br>chalk<br>gentle<br>host |  
+| bip_39_word_new_br11 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit<br>uphold<br>chalk<br>gentle<br>host<br>brass |  
+| bip_39_word_new_br12 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit<br>uphold<br>chalk<br>gentle<br>host<br>brass<br>august |  
+| bip_39_word_new_br2 | person<br>curtain |  
+| bip_39_word_new_br3 | person<br>curtain<br>scheme |  
+| bip_39_word_new_br4 | person<br>curtain<br>scheme<br>antenna |  
+| bip_39_word_new_br5 | person<br>curtain<br>scheme<br>antenna<br>collect |  
+| bip_39_word_new_br6 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit |  
+| bip_39_word_new_br7 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit<br>uphold |  
+| bip_39_word_new_br8 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit<br>uphold<br>chalk |  
+| bip_39_word_new_br9 | person<br>curtain<br>scheme<br>antenna<br>collect<br>benefit<br>uphold<br>chalk<br>gentle |  
+| bip_39_word_new_line1 | person |  
+| bip_39_word_new_line10 | person
+curtain
+scheme
+antenna
+collect
+benefit
+uphold
+chalk
+gentle
+host |  
+| bip_39_word_new_line11 | person
+curtain
+scheme
+antenna
+collect
+benefit
+uphold
+chalk
+gentle
+host
+brass |  
+| bip_39_word_new_line12 | person
+curtain
+scheme
+antenna
+collect
+benefit
+uphold
+chalk
+gentle
+host
+brass
+august |  
+| bip_39_word_new_line2 | person
+curtain |  
+| bip_39_word_new_line3 | person
+curtain
+scheme |  
+| bip_39_word_new_line4 | person
+curtain
+scheme
+antenna |  
+| bip_39_word_new_line5 | person
+curtain
+scheme
+antenna
+collect |  
+| bip_39_word_new_line6 | person
+curtain
+scheme
+antenna
+collect
+benefit |  
+| bip_39_word_new_line7 | person
+curtain
+scheme
+antenna
+collect
+benefit
+uphold |  
+| bip_39_word_new_line8 | person
+curtain
+scheme
+antenna
+collect
+benefit
+uphold
+chalk |  
+| bip_39_word_new_line9 | person
+curtain
+scheme
+antenna
+collect
+benefit
+uphold
+chalk
+gentle |  
+| bip_39_word_space_0 | ['person', 'curtain', 'scheme', 'antenna', 'collect', 'benefit', 'uphold', 'chalk', 'gentle', 'host', 'brass', 'august'] |  
+| bip_39_word_space_1 | person |  
+| bip_39_word_space_10 | person curtain scheme antenna collect benefit uphold chalk gentle host |  
+| bip_39_word_space_11 | person curtain scheme antenna collect benefit uphold chalk gentle host brass |  
+| bip_39_word_space_12 | person curtain scheme antenna collect benefit uphold chalk gentle host brass august |  
+| bip_39_word_space_2 | person curtain |  
+| bip_39_word_space_3 | person curtain scheme |  
+| bip_39_word_space_4 | person curtain scheme antenna |  
+| bip_39_word_space_5 | person curtain scheme antenna collect |  
+| bip_39_word_space_6 | person curtain scheme antenna collect benefit |  
+| bip_39_word_space_7 | person curtain scheme antenna collect benefit uphold |  
+| bip_39_word_space_8 | person curtain scheme antenna collect benefit uphold chalk |  
+| bip_39_word_space_9 | person curtain scheme antenna collect benefit uphold chalk gentle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: elbow
+bip_39_word_new_br10: elbow<br>potato<br>impose<br>diary<br>top<br>slow<br>ten<br>clump<br>ride<br>plug
+bip_39_word_new_br11: elbow<br>potato<br>impose<br>diary<br>top<br>slow<br>ten<br>clump<br>ride<br>plug<br>dwarf
+bip_39_word_new_br12: elbow<br>potato<br>impose<br>diary<br>top<br>slow<br>ten<br>clump<br>ride<br>plug<br>dwarf<br>appear
+bip_39_word_new_br2: elbow<br>potato
+bip_39_word_new_br3: elbow<br>potato<br>impose
+bip_39_word_new_br4: elbow<br>potato<br>impose<br>diary
+bip_39_word_new_br5: elbow<br>potato<br>impose<br>diary<br>top
+bip_39_word_new_br6: elbow<br>potato<br>impose<br>diary<br>top<br>slow
+bip_39_word_new_br7: elbow<br>potato<br>impose<br>diary<br>top<br>slow<br>ten
+bip_39_word_new_br8: elbow<br>potato<br>impose<br>diary<br>top<br>slow<br>ten<br>clump
+bip_39_word_new_br9: elbow<br>potato<br>impose<br>diary<br>top<br>slow<br>ten<br>clump<br>ride
+bip_39_word_new_line1: elbow
+bip_39_word_new_line10: 'elbow
+
+  potato
+
+  impose
+
+  diary
+
+  top
+
+  slow
+
+  ten
+
+  clump
+
+  ride
+
+  plug'
+bip_39_word_new_line11: 'elbow
+
+  potato
+
+  impose
+
+  diary
+
+  top
+
+  slow
+
+  ten
+
+  clump
+
+  ride
+
+  plug
+
+  dwarf'
+bip_39_word_new_line12: 'elbow
+
+  potato
+
+  impose
+
+  diary
+
+  top
+
+  slow
+
+  ten
+
+  clump
+
+  ride
+
+  plug
+
+  dwarf
+
+  appear'
+bip_39_word_new_line2: 'elbow
+
+  potato'
+bip_39_word_new_line3: 'elbow
+
+  potato
+
+  impose'
+bip_39_word_new_line4: 'elbow
+
+  potato
+
+  impose
+
+  diary'
+bip_39_word_new_line5: 'elbow
+
+  potato
+
+  impose
+
+  diary
+
+  top'
+bip_39_word_new_line6: 'elbow
+
+  potato
+
+  impose
+
+  diary
+
+  top
+
+  slow'
+bip_39_word_new_line7: 'elbow
+
+  potato
+
+  impose
+
+  diary
+
+  top
+
+  slow
+
+  ten'
+bip_39_word_new_line8: 'elbow
+
+  potato
+
+  impose
+
+  diary
+
+  top
+
+  slow
+
+  ten
+
+  clump'
+bip_39_word_new_line9: 'elbow
+
+  potato
+
+  impose
+
+  diary
+
+  top
+
+  slow
+
+  ten
+
+  clump
+
+  ride'
+bip_39_word_space_0:
+- elbow
+- potato
+- impose
+- diary
+- top
+- slow
+- ten
+- clump
+- ride
+- plug
+- dwarf
+- appear
+bip_39_word_space_1: elbow
+bip_39_word_space_10: elbow potato impose diary top slow ten clump ride plug
+bip_39_word_space_11: elbow potato impose diary top slow ten clump ride plug dwarf
+bip_39_word_space_12: elbow potato impose diary top slow ten clump ride plug dwarf
+  appear
+bip_39_word_space_2: elbow potato
+bip_39_word_space_3: elbow potato impose
+bip_39_word_space_4: elbow potato impose diary
+bip_39_word_space_5: elbow potato impose diary top
+bip_39_word_space_6: elbow potato impose diary top slow
+bip_39_word_space_7: elbow potato impose diary top slow ten
+bip_39_word_space_8: elbow potato impose diary top slow ten clump
+bip_39_word_space_9: elbow potato impose diary top slow ten clump ride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

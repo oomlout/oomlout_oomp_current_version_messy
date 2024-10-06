@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: van dice
+  * bip 39 word 3: van dice nothing
+  * bip 39 word: van dice nothing design road buyer alley lemon chief amazing such alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | van |  
+| bip_39_word_new_br10 | van<br>dice<br>nothing<br>design<br>road<br>buyer<br>alley<br>lemon<br>chief<br>amazing |  
+| bip_39_word_new_br11 | van<br>dice<br>nothing<br>design<br>road<br>buyer<br>alley<br>lemon<br>chief<br>amazing<br>such |  
+| bip_39_word_new_br12 | van<br>dice<br>nothing<br>design<br>road<br>buyer<br>alley<br>lemon<br>chief<br>amazing<br>such<br>alter |  
+| bip_39_word_new_br2 | van<br>dice |  
+| bip_39_word_new_br3 | van<br>dice<br>nothing |  
+| bip_39_word_new_br4 | van<br>dice<br>nothing<br>design |  
+| bip_39_word_new_br5 | van<br>dice<br>nothing<br>design<br>road |  
+| bip_39_word_new_br6 | van<br>dice<br>nothing<br>design<br>road<br>buyer |  
+| bip_39_word_new_br7 | van<br>dice<br>nothing<br>design<br>road<br>buyer<br>alley |  
+| bip_39_word_new_br8 | van<br>dice<br>nothing<br>design<br>road<br>buyer<br>alley<br>lemon |  
+| bip_39_word_new_br9 | van<br>dice<br>nothing<br>design<br>road<br>buyer<br>alley<br>lemon<br>chief |  
+| bip_39_word_new_line1 | van |  
+| bip_39_word_new_line10 | van
+dice
+nothing
+design
+road
+buyer
+alley
+lemon
+chief
+amazing |  
+| bip_39_word_new_line11 | van
+dice
+nothing
+design
+road
+buyer
+alley
+lemon
+chief
+amazing
+such |  
+| bip_39_word_new_line12 | van
+dice
+nothing
+design
+road
+buyer
+alley
+lemon
+chief
+amazing
+such
+alter |  
+| bip_39_word_new_line2 | van
+dice |  
+| bip_39_word_new_line3 | van
+dice
+nothing |  
+| bip_39_word_new_line4 | van
+dice
+nothing
+design |  
+| bip_39_word_new_line5 | van
+dice
+nothing
+design
+road |  
+| bip_39_word_new_line6 | van
+dice
+nothing
+design
+road
+buyer |  
+| bip_39_word_new_line7 | van
+dice
+nothing
+design
+road
+buyer
+alley |  
+| bip_39_word_new_line8 | van
+dice
+nothing
+design
+road
+buyer
+alley
+lemon |  
+| bip_39_word_new_line9 | van
+dice
+nothing
+design
+road
+buyer
+alley
+lemon
+chief |  
+| bip_39_word_space_0 | ['van', 'dice', 'nothing', 'design', 'road', 'buyer', 'alley', 'lemon', 'chief', 'amazing', 'such', 'alter'] |  
+| bip_39_word_space_1 | van |  
+| bip_39_word_space_10 | van dice nothing design road buyer alley lemon chief amazing |  
+| bip_39_word_space_11 | van dice nothing design road buyer alley lemon chief amazing such |  
+| bip_39_word_space_12 | van dice nothing design road buyer alley lemon chief amazing such alter |  
+| bip_39_word_space_2 | van dice |  
+| bip_39_word_space_3 | van dice nothing |  
+| bip_39_word_space_4 | van dice nothing design |  
+| bip_39_word_space_5 | van dice nothing design road |  
+| bip_39_word_space_6 | van dice nothing design road buyer |  
+| bip_39_word_space_7 | van dice nothing design road buyer alley |  
+| bip_39_word_space_8 | van dice nothing design road buyer alley lemon |  
+| bip_39_word_space_9 | van dice nothing design road buyer alley lemon chief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

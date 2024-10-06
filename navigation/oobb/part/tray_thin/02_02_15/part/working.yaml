@@ -1,3 +1,186 @@
+bip_39_word_new_br1: main
+bip_39_word_new_br10: main<br>visual<br>suffer<br>slab<br>october<br>guard<br>carpet<br>kite<br>column<br>energy
+bip_39_word_new_br11: main<br>visual<br>suffer<br>slab<br>october<br>guard<br>carpet<br>kite<br>column<br>energy<br>twin
+bip_39_word_new_br12: main<br>visual<br>suffer<br>slab<br>october<br>guard<br>carpet<br>kite<br>column<br>energy<br>twin<br>artwork
+bip_39_word_new_br2: main<br>visual
+bip_39_word_new_br3: main<br>visual<br>suffer
+bip_39_word_new_br4: main<br>visual<br>suffer<br>slab
+bip_39_word_new_br5: main<br>visual<br>suffer<br>slab<br>october
+bip_39_word_new_br6: main<br>visual<br>suffer<br>slab<br>october<br>guard
+bip_39_word_new_br7: main<br>visual<br>suffer<br>slab<br>october<br>guard<br>carpet
+bip_39_word_new_br8: main<br>visual<br>suffer<br>slab<br>october<br>guard<br>carpet<br>kite
+bip_39_word_new_br9: main<br>visual<br>suffer<br>slab<br>october<br>guard<br>carpet<br>kite<br>column
+bip_39_word_new_line1: main
+bip_39_word_new_line10: 'main
+
+  visual
+
+  suffer
+
+  slab
+
+  october
+
+  guard
+
+  carpet
+
+  kite
+
+  column
+
+  energy'
+bip_39_word_new_line11: 'main
+
+  visual
+
+  suffer
+
+  slab
+
+  october
+
+  guard
+
+  carpet
+
+  kite
+
+  column
+
+  energy
+
+  twin'
+bip_39_word_new_line12: 'main
+
+  visual
+
+  suffer
+
+  slab
+
+  october
+
+  guard
+
+  carpet
+
+  kite
+
+  column
+
+  energy
+
+  twin
+
+  artwork'
+bip_39_word_new_line2: 'main
+
+  visual'
+bip_39_word_new_line3: 'main
+
+  visual
+
+  suffer'
+bip_39_word_new_line4: 'main
+
+  visual
+
+  suffer
+
+  slab'
+bip_39_word_new_line5: 'main
+
+  visual
+
+  suffer
+
+  slab
+
+  october'
+bip_39_word_new_line6: 'main
+
+  visual
+
+  suffer
+
+  slab
+
+  october
+
+  guard'
+bip_39_word_new_line7: 'main
+
+  visual
+
+  suffer
+
+  slab
+
+  october
+
+  guard
+
+  carpet'
+bip_39_word_new_line8: 'main
+
+  visual
+
+  suffer
+
+  slab
+
+  october
+
+  guard
+
+  carpet
+
+  kite'
+bip_39_word_new_line9: 'main
+
+  visual
+
+  suffer
+
+  slab
+
+  october
+
+  guard
+
+  carpet
+
+  kite
+
+  column'
+bip_39_word_space_0:
+- main
+- visual
+- suffer
+- slab
+- october
+- guard
+- carpet
+- kite
+- column
+- energy
+- twin
+- artwork
+bip_39_word_space_1: main
+bip_39_word_space_10: main visual suffer slab october guard carpet kite column energy
+bip_39_word_space_11: main visual suffer slab october guard carpet kite column energy
+  twin
+bip_39_word_space_12: main visual suffer slab october guard carpet kite column energy
+  twin artwork
+bip_39_word_space_2: main visual
+bip_39_word_space_3: main visual suffer
+bip_39_word_space_4: main visual suffer slab
+bip_39_word_space_5: main visual suffer slab october
+bip_39_word_space_6: main visual suffer slab october guard
+bip_39_word_space_7: main visual suffer slab october guard carpet
+bip_39_word_space_8: main visual suffer slab october guard carpet kite
+bip_39_word_space_9: main visual suffer slab october guard carpet kite column
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

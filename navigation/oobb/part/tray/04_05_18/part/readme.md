@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: divide drum
+  * bip 39 word 3: divide drum still
+  * bip 39 word: divide drum still tail vocal blast best couple gentle mystery capable almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | divide |  
+| bip_39_word_new_br10 | divide<br>drum<br>still<br>tail<br>vocal<br>blast<br>best<br>couple<br>gentle<br>mystery |  
+| bip_39_word_new_br11 | divide<br>drum<br>still<br>tail<br>vocal<br>blast<br>best<br>couple<br>gentle<br>mystery<br>capable |  
+| bip_39_word_new_br12 | divide<br>drum<br>still<br>tail<br>vocal<br>blast<br>best<br>couple<br>gentle<br>mystery<br>capable<br>almost |  
+| bip_39_word_new_br2 | divide<br>drum |  
+| bip_39_word_new_br3 | divide<br>drum<br>still |  
+| bip_39_word_new_br4 | divide<br>drum<br>still<br>tail |  
+| bip_39_word_new_br5 | divide<br>drum<br>still<br>tail<br>vocal |  
+| bip_39_word_new_br6 | divide<br>drum<br>still<br>tail<br>vocal<br>blast |  
+| bip_39_word_new_br7 | divide<br>drum<br>still<br>tail<br>vocal<br>blast<br>best |  
+| bip_39_word_new_br8 | divide<br>drum<br>still<br>tail<br>vocal<br>blast<br>best<br>couple |  
+| bip_39_word_new_br9 | divide<br>drum<br>still<br>tail<br>vocal<br>blast<br>best<br>couple<br>gentle |  
+| bip_39_word_new_line1 | divide |  
+| bip_39_word_new_line10 | divide
+drum
+still
+tail
+vocal
+blast
+best
+couple
+gentle
+mystery |  
+| bip_39_word_new_line11 | divide
+drum
+still
+tail
+vocal
+blast
+best
+couple
+gentle
+mystery
+capable |  
+| bip_39_word_new_line12 | divide
+drum
+still
+tail
+vocal
+blast
+best
+couple
+gentle
+mystery
+capable
+almost |  
+| bip_39_word_new_line2 | divide
+drum |  
+| bip_39_word_new_line3 | divide
+drum
+still |  
+| bip_39_word_new_line4 | divide
+drum
+still
+tail |  
+| bip_39_word_new_line5 | divide
+drum
+still
+tail
+vocal |  
+| bip_39_word_new_line6 | divide
+drum
+still
+tail
+vocal
+blast |  
+| bip_39_word_new_line7 | divide
+drum
+still
+tail
+vocal
+blast
+best |  
+| bip_39_word_new_line8 | divide
+drum
+still
+tail
+vocal
+blast
+best
+couple |  
+| bip_39_word_new_line9 | divide
+drum
+still
+tail
+vocal
+blast
+best
+couple
+gentle |  
+| bip_39_word_space_0 | ['divide', 'drum', 'still', 'tail', 'vocal', 'blast', 'best', 'couple', 'gentle', 'mystery', 'capable', 'almost'] |  
+| bip_39_word_space_1 | divide |  
+| bip_39_word_space_10 | divide drum still tail vocal blast best couple gentle mystery |  
+| bip_39_word_space_11 | divide drum still tail vocal blast best couple gentle mystery capable |  
+| bip_39_word_space_12 | divide drum still tail vocal blast best couple gentle mystery capable almost |  
+| bip_39_word_space_2 | divide drum |  
+| bip_39_word_space_3 | divide drum still |  
+| bip_39_word_space_4 | divide drum still tail |  
+| bip_39_word_space_5 | divide drum still tail vocal |  
+| bip_39_word_space_6 | divide drum still tail vocal blast |  
+| bip_39_word_space_7 | divide drum still tail vocal blast best |  
+| bip_39_word_space_8 | divide drum still tail vocal blast best couple |  
+| bip_39_word_space_9 | divide drum still tail vocal blast best couple gentle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

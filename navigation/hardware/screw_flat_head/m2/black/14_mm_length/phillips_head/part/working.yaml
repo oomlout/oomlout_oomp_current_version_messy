@@ -1,3 +1,187 @@
+bip_39_word_new_br1: transfer
+bip_39_word_new_br10: transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry
+bip_39_word_new_br11: transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry<br>wet
+bip_39_word_new_br12: transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift<br>laundry<br>wet<br>author
+bip_39_word_new_br2: transfer<br>limit
+bip_39_word_new_br3: transfer<br>limit<br>surge
+bip_39_word_new_br4: transfer<br>limit<br>surge<br>level
+bip_39_word_new_br5: transfer<br>limit<br>surge<br>level<br>addict
+bip_39_word_new_br6: transfer<br>limit<br>surge<br>level<br>addict<br>approve
+bip_39_word_new_br7: transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist
+bip_39_word_new_br8: transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign
+bip_39_word_new_br9: transfer<br>limit<br>surge<br>level<br>addict<br>approve<br>dentist<br>sign<br>shift
+bip_39_word_new_line1: transfer
+bip_39_word_new_line10: 'transfer
+
+  limit
+
+  surge
+
+  level
+
+  addict
+
+  approve
+
+  dentist
+
+  sign
+
+  shift
+
+  laundry'
+bip_39_word_new_line11: 'transfer
+
+  limit
+
+  surge
+
+  level
+
+  addict
+
+  approve
+
+  dentist
+
+  sign
+
+  shift
+
+  laundry
+
+  wet'
+bip_39_word_new_line12: 'transfer
+
+  limit
+
+  surge
+
+  level
+
+  addict
+
+  approve
+
+  dentist
+
+  sign
+
+  shift
+
+  laundry
+
+  wet
+
+  author'
+bip_39_word_new_line2: 'transfer
+
+  limit'
+bip_39_word_new_line3: 'transfer
+
+  limit
+
+  surge'
+bip_39_word_new_line4: 'transfer
+
+  limit
+
+  surge
+
+  level'
+bip_39_word_new_line5: 'transfer
+
+  limit
+
+  surge
+
+  level
+
+  addict'
+bip_39_word_new_line6: 'transfer
+
+  limit
+
+  surge
+
+  level
+
+  addict
+
+  approve'
+bip_39_word_new_line7: 'transfer
+
+  limit
+
+  surge
+
+  level
+
+  addict
+
+  approve
+
+  dentist'
+bip_39_word_new_line8: 'transfer
+
+  limit
+
+  surge
+
+  level
+
+  addict
+
+  approve
+
+  dentist
+
+  sign'
+bip_39_word_new_line9: 'transfer
+
+  limit
+
+  surge
+
+  level
+
+  addict
+
+  approve
+
+  dentist
+
+  sign
+
+  shift'
+bip_39_word_space_0:
+- transfer
+- limit
+- surge
+- level
+- addict
+- approve
+- dentist
+- sign
+- shift
+- laundry
+- wet
+- author
+bip_39_word_space_1: transfer
+bip_39_word_space_10: transfer limit surge level addict approve dentist sign shift
+  laundry
+bip_39_word_space_11: transfer limit surge level addict approve dentist sign shift
+  laundry wet
+bip_39_word_space_12: transfer limit surge level addict approve dentist sign shift
+  laundry wet author
+bip_39_word_space_2: transfer limit
+bip_39_word_space_3: transfer limit surge
+bip_39_word_space_4: transfer limit surge level
+bip_39_word_space_5: transfer limit surge level addict
+bip_39_word_space_6: transfer limit surge level addict approve
+bip_39_word_space_7: transfer limit surge level addict approve dentist
+bip_39_word_space_8: transfer limit surge level addict approve dentist sign
+bip_39_word_space_9: transfer limit surge level addict approve dentist sign shift
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: action patch
+  * bip 39 word 3: action patch senior
+  * bip 39 word: action patch senior romance chief book pear wild put prize foil almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | action |  
+| bip_39_word_new_br10 | action<br>patch<br>senior<br>romance<br>chief<br>book<br>pear<br>wild<br>put<br>prize |  
+| bip_39_word_new_br11 | action<br>patch<br>senior<br>romance<br>chief<br>book<br>pear<br>wild<br>put<br>prize<br>foil |  
+| bip_39_word_new_br12 | action<br>patch<br>senior<br>romance<br>chief<br>book<br>pear<br>wild<br>put<br>prize<br>foil<br>almost |  
+| bip_39_word_new_br2 | action<br>patch |  
+| bip_39_word_new_br3 | action<br>patch<br>senior |  
+| bip_39_word_new_br4 | action<br>patch<br>senior<br>romance |  
+| bip_39_word_new_br5 | action<br>patch<br>senior<br>romance<br>chief |  
+| bip_39_word_new_br6 | action<br>patch<br>senior<br>romance<br>chief<br>book |  
+| bip_39_word_new_br7 | action<br>patch<br>senior<br>romance<br>chief<br>book<br>pear |  
+| bip_39_word_new_br8 | action<br>patch<br>senior<br>romance<br>chief<br>book<br>pear<br>wild |  
+| bip_39_word_new_br9 | action<br>patch<br>senior<br>romance<br>chief<br>book<br>pear<br>wild<br>put |  
+| bip_39_word_new_line1 | action |  
+| bip_39_word_new_line10 | action
+patch
+senior
+romance
+chief
+book
+pear
+wild
+put
+prize |  
+| bip_39_word_new_line11 | action
+patch
+senior
+romance
+chief
+book
+pear
+wild
+put
+prize
+foil |  
+| bip_39_word_new_line12 | action
+patch
+senior
+romance
+chief
+book
+pear
+wild
+put
+prize
+foil
+almost |  
+| bip_39_word_new_line2 | action
+patch |  
+| bip_39_word_new_line3 | action
+patch
+senior |  
+| bip_39_word_new_line4 | action
+patch
+senior
+romance |  
+| bip_39_word_new_line5 | action
+patch
+senior
+romance
+chief |  
+| bip_39_word_new_line6 | action
+patch
+senior
+romance
+chief
+book |  
+| bip_39_word_new_line7 | action
+patch
+senior
+romance
+chief
+book
+pear |  
+| bip_39_word_new_line8 | action
+patch
+senior
+romance
+chief
+book
+pear
+wild |  
+| bip_39_word_new_line9 | action
+patch
+senior
+romance
+chief
+book
+pear
+wild
+put |  
+| bip_39_word_space_0 | ['action', 'patch', 'senior', 'romance', 'chief', 'book', 'pear', 'wild', 'put', 'prize', 'foil', 'almost'] |  
+| bip_39_word_space_1 | action |  
+| bip_39_word_space_10 | action patch senior romance chief book pear wild put prize |  
+| bip_39_word_space_11 | action patch senior romance chief book pear wild put prize foil |  
+| bip_39_word_space_12 | action patch senior romance chief book pear wild put prize foil almost |  
+| bip_39_word_space_2 | action patch |  
+| bip_39_word_space_3 | action patch senior |  
+| bip_39_word_space_4 | action patch senior romance |  
+| bip_39_word_space_5 | action patch senior romance chief |  
+| bip_39_word_space_6 | action patch senior romance chief book |  
+| bip_39_word_space_7 | action patch senior romance chief book pear |  
+| bip_39_word_space_8 | action patch senior romance chief book pear wild |  
+| bip_39_word_space_9 | action patch senior romance chief book pear wild put |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

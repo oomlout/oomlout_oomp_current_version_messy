@@ -1,3 +1,186 @@
+bip_39_word_new_br1: surprise
+bip_39_word_new_br10: surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway<br>thank<br>salad<br>effort<br>clown
+bip_39_word_new_br11: surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway<br>thank<br>salad<br>effort<br>clown<br>six
+bip_39_word_new_br12: surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway<br>thank<br>salad<br>effort<br>clown<br>six<br>afford
+bip_39_word_new_br2: surprise<br>slam
+bip_39_word_new_br3: surprise<br>slam<br>wear
+bip_39_word_new_br4: surprise<br>slam<br>wear<br>pen
+bip_39_word_new_br5: surprise<br>slam<br>wear<br>pen<br>glimpse
+bip_39_word_new_br6: surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway
+bip_39_word_new_br7: surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway<br>thank
+bip_39_word_new_br8: surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway<br>thank<br>salad
+bip_39_word_new_br9: surprise<br>slam<br>wear<br>pen<br>glimpse<br>subway<br>thank<br>salad<br>effort
+bip_39_word_new_line1: surprise
+bip_39_word_new_line10: 'surprise
+
+  slam
+
+  wear
+
+  pen
+
+  glimpse
+
+  subway
+
+  thank
+
+  salad
+
+  effort
+
+  clown'
+bip_39_word_new_line11: 'surprise
+
+  slam
+
+  wear
+
+  pen
+
+  glimpse
+
+  subway
+
+  thank
+
+  salad
+
+  effort
+
+  clown
+
+  six'
+bip_39_word_new_line12: 'surprise
+
+  slam
+
+  wear
+
+  pen
+
+  glimpse
+
+  subway
+
+  thank
+
+  salad
+
+  effort
+
+  clown
+
+  six
+
+  afford'
+bip_39_word_new_line2: 'surprise
+
+  slam'
+bip_39_word_new_line3: 'surprise
+
+  slam
+
+  wear'
+bip_39_word_new_line4: 'surprise
+
+  slam
+
+  wear
+
+  pen'
+bip_39_word_new_line5: 'surprise
+
+  slam
+
+  wear
+
+  pen
+
+  glimpse'
+bip_39_word_new_line6: 'surprise
+
+  slam
+
+  wear
+
+  pen
+
+  glimpse
+
+  subway'
+bip_39_word_new_line7: 'surprise
+
+  slam
+
+  wear
+
+  pen
+
+  glimpse
+
+  subway
+
+  thank'
+bip_39_word_new_line8: 'surprise
+
+  slam
+
+  wear
+
+  pen
+
+  glimpse
+
+  subway
+
+  thank
+
+  salad'
+bip_39_word_new_line9: 'surprise
+
+  slam
+
+  wear
+
+  pen
+
+  glimpse
+
+  subway
+
+  thank
+
+  salad
+
+  effort'
+bip_39_word_space_0:
+- surprise
+- slam
+- wear
+- pen
+- glimpse
+- subway
+- thank
+- salad
+- effort
+- clown
+- six
+- afford
+bip_39_word_space_1: surprise
+bip_39_word_space_10: surprise slam wear pen glimpse subway thank salad effort clown
+bip_39_word_space_11: surprise slam wear pen glimpse subway thank salad effort clown
+  six
+bip_39_word_space_12: surprise slam wear pen glimpse subway thank salad effort clown
+  six afford
+bip_39_word_space_2: surprise slam
+bip_39_word_space_3: surprise slam wear
+bip_39_word_space_4: surprise slam wear pen
+bip_39_word_space_5: surprise slam wear pen glimpse
+bip_39_word_space_6: surprise slam wear pen glimpse subway
+bip_39_word_space_7: surprise slam wear pen glimpse subway thank
+bip_39_word_space_8: surprise slam wear pen glimpse subway thank salad
+bip_39_word_space_9: surprise slam wear pen glimpse subway thank salad effort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

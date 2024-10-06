@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: large virtual
+  * bip 39 word 3: large virtual hill
+  * bip 39 word: large virtual hill sniff unfold search book screen dune pumpkin choice agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | large |  
+| bip_39_word_new_br10 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search<br>book<br>screen<br>dune<br>pumpkin |  
+| bip_39_word_new_br11 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search<br>book<br>screen<br>dune<br>pumpkin<br>choice |  
+| bip_39_word_new_br12 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search<br>book<br>screen<br>dune<br>pumpkin<br>choice<br>agree |  
+| bip_39_word_new_br2 | large<br>virtual |  
+| bip_39_word_new_br3 | large<br>virtual<br>hill |  
+| bip_39_word_new_br4 | large<br>virtual<br>hill<br>sniff |  
+| bip_39_word_new_br5 | large<br>virtual<br>hill<br>sniff<br>unfold |  
+| bip_39_word_new_br6 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search |  
+| bip_39_word_new_br7 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search<br>book |  
+| bip_39_word_new_br8 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search<br>book<br>screen |  
+| bip_39_word_new_br9 | large<br>virtual<br>hill<br>sniff<br>unfold<br>search<br>book<br>screen<br>dune |  
+| bip_39_word_new_line1 | large |  
+| bip_39_word_new_line10 | large
+virtual
+hill
+sniff
+unfold
+search
+book
+screen
+dune
+pumpkin |  
+| bip_39_word_new_line11 | large
+virtual
+hill
+sniff
+unfold
+search
+book
+screen
+dune
+pumpkin
+choice |  
+| bip_39_word_new_line12 | large
+virtual
+hill
+sniff
+unfold
+search
+book
+screen
+dune
+pumpkin
+choice
+agree |  
+| bip_39_word_new_line2 | large
+virtual |  
+| bip_39_word_new_line3 | large
+virtual
+hill |  
+| bip_39_word_new_line4 | large
+virtual
+hill
+sniff |  
+| bip_39_word_new_line5 | large
+virtual
+hill
+sniff
+unfold |  
+| bip_39_word_new_line6 | large
+virtual
+hill
+sniff
+unfold
+search |  
+| bip_39_word_new_line7 | large
+virtual
+hill
+sniff
+unfold
+search
+book |  
+| bip_39_word_new_line8 | large
+virtual
+hill
+sniff
+unfold
+search
+book
+screen |  
+| bip_39_word_new_line9 | large
+virtual
+hill
+sniff
+unfold
+search
+book
+screen
+dune |  
+| bip_39_word_space_0 | ['large', 'virtual', 'hill', 'sniff', 'unfold', 'search', 'book', 'screen', 'dune', 'pumpkin', 'choice', 'agree'] |  
+| bip_39_word_space_1 | large |  
+| bip_39_word_space_10 | large virtual hill sniff unfold search book screen dune pumpkin |  
+| bip_39_word_space_11 | large virtual hill sniff unfold search book screen dune pumpkin choice |  
+| bip_39_word_space_12 | large virtual hill sniff unfold search book screen dune pumpkin choice agree |  
+| bip_39_word_space_2 | large virtual |  
+| bip_39_word_space_3 | large virtual hill |  
+| bip_39_word_space_4 | large virtual hill sniff |  
+| bip_39_word_space_5 | large virtual hill sniff unfold |  
+| bip_39_word_space_6 | large virtual hill sniff unfold search |  
+| bip_39_word_space_7 | large virtual hill sniff unfold search book |  
+| bip_39_word_space_8 | large virtual hill sniff unfold search book screen |  
+| bip_39_word_space_9 | large virtual hill sniff unfold search book screen dune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

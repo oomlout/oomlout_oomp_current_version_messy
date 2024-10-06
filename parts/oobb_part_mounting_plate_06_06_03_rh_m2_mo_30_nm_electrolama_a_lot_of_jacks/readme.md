@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raise club
+  * bip 39 word 3: raise club grab
+  * bip 39 word: raise club grab cram random wood aim rebel ill night cotton alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raise |  
+| bip_39_word_new_br10 | raise<br>club<br>grab<br>cram<br>random<br>wood<br>aim<br>rebel<br>ill<br>night |  
+| bip_39_word_new_br11 | raise<br>club<br>grab<br>cram<br>random<br>wood<br>aim<br>rebel<br>ill<br>night<br>cotton |  
+| bip_39_word_new_br12 | raise<br>club<br>grab<br>cram<br>random<br>wood<br>aim<br>rebel<br>ill<br>night<br>cotton<br>alley |  
+| bip_39_word_new_br2 | raise<br>club |  
+| bip_39_word_new_br3 | raise<br>club<br>grab |  
+| bip_39_word_new_br4 | raise<br>club<br>grab<br>cram |  
+| bip_39_word_new_br5 | raise<br>club<br>grab<br>cram<br>random |  
+| bip_39_word_new_br6 | raise<br>club<br>grab<br>cram<br>random<br>wood |  
+| bip_39_word_new_br7 | raise<br>club<br>grab<br>cram<br>random<br>wood<br>aim |  
+| bip_39_word_new_br8 | raise<br>club<br>grab<br>cram<br>random<br>wood<br>aim<br>rebel |  
+| bip_39_word_new_br9 | raise<br>club<br>grab<br>cram<br>random<br>wood<br>aim<br>rebel<br>ill |  
+| bip_39_word_new_line1 | raise |  
+| bip_39_word_new_line10 | raise
+club
+grab
+cram
+random
+wood
+aim
+rebel
+ill
+night |  
+| bip_39_word_new_line11 | raise
+club
+grab
+cram
+random
+wood
+aim
+rebel
+ill
+night
+cotton |  
+| bip_39_word_new_line12 | raise
+club
+grab
+cram
+random
+wood
+aim
+rebel
+ill
+night
+cotton
+alley |  
+| bip_39_word_new_line2 | raise
+club |  
+| bip_39_word_new_line3 | raise
+club
+grab |  
+| bip_39_word_new_line4 | raise
+club
+grab
+cram |  
+| bip_39_word_new_line5 | raise
+club
+grab
+cram
+random |  
+| bip_39_word_new_line6 | raise
+club
+grab
+cram
+random
+wood |  
+| bip_39_word_new_line7 | raise
+club
+grab
+cram
+random
+wood
+aim |  
+| bip_39_word_new_line8 | raise
+club
+grab
+cram
+random
+wood
+aim
+rebel |  
+| bip_39_word_new_line9 | raise
+club
+grab
+cram
+random
+wood
+aim
+rebel
+ill |  
+| bip_39_word_space_0 | ['raise', 'club', 'grab', 'cram', 'random', 'wood', 'aim', 'rebel', 'ill', 'night', 'cotton', 'alley'] |  
+| bip_39_word_space_1 | raise |  
+| bip_39_word_space_10 | raise club grab cram random wood aim rebel ill night |  
+| bip_39_word_space_11 | raise club grab cram random wood aim rebel ill night cotton |  
+| bip_39_word_space_12 | raise club grab cram random wood aim rebel ill night cotton alley |  
+| bip_39_word_space_2 | raise club |  
+| bip_39_word_space_3 | raise club grab |  
+| bip_39_word_space_4 | raise club grab cram |  
+| bip_39_word_space_5 | raise club grab cram random |  
+| bip_39_word_space_6 | raise club grab cram random wood |  
+| bip_39_word_space_7 | raise club grab cram random wood aim |  
+| bip_39_word_space_8 | raise club grab cram random wood aim rebel |  
+| bip_39_word_space_9 | raise club grab cram random wood aim rebel ill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

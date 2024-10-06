@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: black grunt
+  * bip 39 word 3: black grunt impulse
+  * bip 39 word: black grunt impulse jelly artefact donor fortune innocent fat ugly choice alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | black |  
+| bip_39_word_new_br10 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor<br>fortune<br>innocent<br>fat<br>ugly |  
+| bip_39_word_new_br11 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor<br>fortune<br>innocent<br>fat<br>ugly<br>choice |  
+| bip_39_word_new_br12 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor<br>fortune<br>innocent<br>fat<br>ugly<br>choice<br>alien |  
+| bip_39_word_new_br2 | black<br>grunt |  
+| bip_39_word_new_br3 | black<br>grunt<br>impulse |  
+| bip_39_word_new_br4 | black<br>grunt<br>impulse<br>jelly |  
+| bip_39_word_new_br5 | black<br>grunt<br>impulse<br>jelly<br>artefact |  
+| bip_39_word_new_br6 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor |  
+| bip_39_word_new_br7 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor<br>fortune |  
+| bip_39_word_new_br8 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor<br>fortune<br>innocent |  
+| bip_39_word_new_br9 | black<br>grunt<br>impulse<br>jelly<br>artefact<br>donor<br>fortune<br>innocent<br>fat |  
+| bip_39_word_new_line1 | black |  
+| bip_39_word_new_line10 | black
+grunt
+impulse
+jelly
+artefact
+donor
+fortune
+innocent
+fat
+ugly |  
+| bip_39_word_new_line11 | black
+grunt
+impulse
+jelly
+artefact
+donor
+fortune
+innocent
+fat
+ugly
+choice |  
+| bip_39_word_new_line12 | black
+grunt
+impulse
+jelly
+artefact
+donor
+fortune
+innocent
+fat
+ugly
+choice
+alien |  
+| bip_39_word_new_line2 | black
+grunt |  
+| bip_39_word_new_line3 | black
+grunt
+impulse |  
+| bip_39_word_new_line4 | black
+grunt
+impulse
+jelly |  
+| bip_39_word_new_line5 | black
+grunt
+impulse
+jelly
+artefact |  
+| bip_39_word_new_line6 | black
+grunt
+impulse
+jelly
+artefact
+donor |  
+| bip_39_word_new_line7 | black
+grunt
+impulse
+jelly
+artefact
+donor
+fortune |  
+| bip_39_word_new_line8 | black
+grunt
+impulse
+jelly
+artefact
+donor
+fortune
+innocent |  
+| bip_39_word_new_line9 | black
+grunt
+impulse
+jelly
+artefact
+donor
+fortune
+innocent
+fat |  
+| bip_39_word_space_0 | ['black', 'grunt', 'impulse', 'jelly', 'artefact', 'donor', 'fortune', 'innocent', 'fat', 'ugly', 'choice', 'alien'] |  
+| bip_39_word_space_1 | black |  
+| bip_39_word_space_10 | black grunt impulse jelly artefact donor fortune innocent fat ugly |  
+| bip_39_word_space_11 | black grunt impulse jelly artefact donor fortune innocent fat ugly choice |  
+| bip_39_word_space_12 | black grunt impulse jelly artefact donor fortune innocent fat ugly choice alien |  
+| bip_39_word_space_2 | black grunt |  
+| bip_39_word_space_3 | black grunt impulse |  
+| bip_39_word_space_4 | black grunt impulse jelly |  
+| bip_39_word_space_5 | black grunt impulse jelly artefact |  
+| bip_39_word_space_6 | black grunt impulse jelly artefact donor |  
+| bip_39_word_space_7 | black grunt impulse jelly artefact donor fortune |  
+| bip_39_word_space_8 | black grunt impulse jelly artefact donor fortune innocent |  
+| bip_39_word_space_9 | black grunt impulse jelly artefact donor fortune innocent fat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: north diet
+  * bip 39 word 3: north diet coin
+  * bip 39 word: north diet coin dignity cross oil skull hospital tuition host stick alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | north |  
+| bip_39_word_new_br10 | north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition<br>host |  
+| bip_39_word_new_br11 | north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition<br>host<br>stick |  
+| bip_39_word_new_br12 | north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition<br>host<br>stick<br>alpha |  
+| bip_39_word_new_br2 | north<br>diet |  
+| bip_39_word_new_br3 | north<br>diet<br>coin |  
+| bip_39_word_new_br4 | north<br>diet<br>coin<br>dignity |  
+| bip_39_word_new_br5 | north<br>diet<br>coin<br>dignity<br>cross |  
+| bip_39_word_new_br6 | north<br>diet<br>coin<br>dignity<br>cross<br>oil |  
+| bip_39_word_new_br7 | north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull |  
+| bip_39_word_new_br8 | north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital |  
+| bip_39_word_new_br9 | north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition |  
+| bip_39_word_new_line1 | north |  
+| bip_39_word_new_line10 | north
+diet
+coin
+dignity
+cross
+oil
+skull
+hospital
+tuition
+host |  
+| bip_39_word_new_line11 | north
+diet
+coin
+dignity
+cross
+oil
+skull
+hospital
+tuition
+host
+stick |  
+| bip_39_word_new_line12 | north
+diet
+coin
+dignity
+cross
+oil
+skull
+hospital
+tuition
+host
+stick
+alpha |  
+| bip_39_word_new_line2 | north
+diet |  
+| bip_39_word_new_line3 | north
+diet
+coin |  
+| bip_39_word_new_line4 | north
+diet
+coin
+dignity |  
+| bip_39_word_new_line5 | north
+diet
+coin
+dignity
+cross |  
+| bip_39_word_new_line6 | north
+diet
+coin
+dignity
+cross
+oil |  
+| bip_39_word_new_line7 | north
+diet
+coin
+dignity
+cross
+oil
+skull |  
+| bip_39_word_new_line8 | north
+diet
+coin
+dignity
+cross
+oil
+skull
+hospital |  
+| bip_39_word_new_line9 | north
+diet
+coin
+dignity
+cross
+oil
+skull
+hospital
+tuition |  
+| bip_39_word_space_0 | ['north', 'diet', 'coin', 'dignity', 'cross', 'oil', 'skull', 'hospital', 'tuition', 'host', 'stick', 'alpha'] |  
+| bip_39_word_space_1 | north |  
+| bip_39_word_space_10 | north diet coin dignity cross oil skull hospital tuition host |  
+| bip_39_word_space_11 | north diet coin dignity cross oil skull hospital tuition host stick |  
+| bip_39_word_space_12 | north diet coin dignity cross oil skull hospital tuition host stick alpha |  
+| bip_39_word_space_2 | north diet |  
+| bip_39_word_space_3 | north diet coin |  
+| bip_39_word_space_4 | north diet coin dignity |  
+| bip_39_word_space_5 | north diet coin dignity cross |  
+| bip_39_word_space_6 | north diet coin dignity cross oil |  
+| bip_39_word_space_7 | north diet coin dignity cross oil skull |  
+| bip_39_word_space_8 | north diet coin dignity cross oil skull hospital |  
+| bip_39_word_space_9 | north diet coin dignity cross oil skull hospital tuition |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

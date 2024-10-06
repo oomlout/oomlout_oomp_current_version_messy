@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: much dance
+  * bip 39 word 3: much dance flip
+  * bip 39 word: much dance flip slide next oppose network chapter critic flat scene aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | much |  
+| bip_39_word_new_br10 | much<br>dance<br>flip<br>slide<br>next<br>oppose<br>network<br>chapter<br>critic<br>flat |  
+| bip_39_word_new_br11 | much<br>dance<br>flip<br>slide<br>next<br>oppose<br>network<br>chapter<br>critic<br>flat<br>scene |  
+| bip_39_word_new_br12 | much<br>dance<br>flip<br>slide<br>next<br>oppose<br>network<br>chapter<br>critic<br>flat<br>scene<br>aim |  
+| bip_39_word_new_br2 | much<br>dance |  
+| bip_39_word_new_br3 | much<br>dance<br>flip |  
+| bip_39_word_new_br4 | much<br>dance<br>flip<br>slide |  
+| bip_39_word_new_br5 | much<br>dance<br>flip<br>slide<br>next |  
+| bip_39_word_new_br6 | much<br>dance<br>flip<br>slide<br>next<br>oppose |  
+| bip_39_word_new_br7 | much<br>dance<br>flip<br>slide<br>next<br>oppose<br>network |  
+| bip_39_word_new_br8 | much<br>dance<br>flip<br>slide<br>next<br>oppose<br>network<br>chapter |  
+| bip_39_word_new_br9 | much<br>dance<br>flip<br>slide<br>next<br>oppose<br>network<br>chapter<br>critic |  
+| bip_39_word_new_line1 | much |  
+| bip_39_word_new_line10 | much
+dance
+flip
+slide
+next
+oppose
+network
+chapter
+critic
+flat |  
+| bip_39_word_new_line11 | much
+dance
+flip
+slide
+next
+oppose
+network
+chapter
+critic
+flat
+scene |  
+| bip_39_word_new_line12 | much
+dance
+flip
+slide
+next
+oppose
+network
+chapter
+critic
+flat
+scene
+aim |  
+| bip_39_word_new_line2 | much
+dance |  
+| bip_39_word_new_line3 | much
+dance
+flip |  
+| bip_39_word_new_line4 | much
+dance
+flip
+slide |  
+| bip_39_word_new_line5 | much
+dance
+flip
+slide
+next |  
+| bip_39_word_new_line6 | much
+dance
+flip
+slide
+next
+oppose |  
+| bip_39_word_new_line7 | much
+dance
+flip
+slide
+next
+oppose
+network |  
+| bip_39_word_new_line8 | much
+dance
+flip
+slide
+next
+oppose
+network
+chapter |  
+| bip_39_word_new_line9 | much
+dance
+flip
+slide
+next
+oppose
+network
+chapter
+critic |  
+| bip_39_word_space_0 | ['much', 'dance', 'flip', 'slide', 'next', 'oppose', 'network', 'chapter', 'critic', 'flat', 'scene', 'aim'] |  
+| bip_39_word_space_1 | much |  
+| bip_39_word_space_10 | much dance flip slide next oppose network chapter critic flat |  
+| bip_39_word_space_11 | much dance flip slide next oppose network chapter critic flat scene |  
+| bip_39_word_space_12 | much dance flip slide next oppose network chapter critic flat scene aim |  
+| bip_39_word_space_2 | much dance |  
+| bip_39_word_space_3 | much dance flip |  
+| bip_39_word_space_4 | much dance flip slide |  
+| bip_39_word_space_5 | much dance flip slide next |  
+| bip_39_word_space_6 | much dance flip slide next oppose |  
+| bip_39_word_space_7 | much dance flip slide next oppose network |  
+| bip_39_word_space_8 | much dance flip slide next oppose network chapter |  
+| bip_39_word_space_9 | much dance flip slide next oppose network chapter critic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: neglect valley
+  * bip 39 word 3: neglect valley voice
+  * bip 39 word: neglect valley voice spray lend exotic beauty ozone mosquito song ancient any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | neglect |  
+| bip_39_word_new_br10 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic<br>beauty<br>ozone<br>mosquito<br>song |  
+| bip_39_word_new_br11 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic<br>beauty<br>ozone<br>mosquito<br>song<br>ancient |  
+| bip_39_word_new_br12 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic<br>beauty<br>ozone<br>mosquito<br>song<br>ancient<br>any |  
+| bip_39_word_new_br2 | neglect<br>valley |  
+| bip_39_word_new_br3 | neglect<br>valley<br>voice |  
+| bip_39_word_new_br4 | neglect<br>valley<br>voice<br>spray |  
+| bip_39_word_new_br5 | neglect<br>valley<br>voice<br>spray<br>lend |  
+| bip_39_word_new_br6 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic |  
+| bip_39_word_new_br7 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic<br>beauty |  
+| bip_39_word_new_br8 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic<br>beauty<br>ozone |  
+| bip_39_word_new_br9 | neglect<br>valley<br>voice<br>spray<br>lend<br>exotic<br>beauty<br>ozone<br>mosquito |  
+| bip_39_word_new_line1 | neglect |  
+| bip_39_word_new_line10 | neglect
+valley
+voice
+spray
+lend
+exotic
+beauty
+ozone
+mosquito
+song |  
+| bip_39_word_new_line11 | neglect
+valley
+voice
+spray
+lend
+exotic
+beauty
+ozone
+mosquito
+song
+ancient |  
+| bip_39_word_new_line12 | neglect
+valley
+voice
+spray
+lend
+exotic
+beauty
+ozone
+mosquito
+song
+ancient
+any |  
+| bip_39_word_new_line2 | neglect
+valley |  
+| bip_39_word_new_line3 | neglect
+valley
+voice |  
+| bip_39_word_new_line4 | neglect
+valley
+voice
+spray |  
+| bip_39_word_new_line5 | neglect
+valley
+voice
+spray
+lend |  
+| bip_39_word_new_line6 | neglect
+valley
+voice
+spray
+lend
+exotic |  
+| bip_39_word_new_line7 | neglect
+valley
+voice
+spray
+lend
+exotic
+beauty |  
+| bip_39_word_new_line8 | neglect
+valley
+voice
+spray
+lend
+exotic
+beauty
+ozone |  
+| bip_39_word_new_line9 | neglect
+valley
+voice
+spray
+lend
+exotic
+beauty
+ozone
+mosquito |  
+| bip_39_word_space_0 | ['neglect', 'valley', 'voice', 'spray', 'lend', 'exotic', 'beauty', 'ozone', 'mosquito', 'song', 'ancient', 'any'] |  
+| bip_39_word_space_1 | neglect |  
+| bip_39_word_space_10 | neglect valley voice spray lend exotic beauty ozone mosquito song |  
+| bip_39_word_space_11 | neglect valley voice spray lend exotic beauty ozone mosquito song ancient |  
+| bip_39_word_space_12 | neglect valley voice spray lend exotic beauty ozone mosquito song ancient any |  
+| bip_39_word_space_2 | neglect valley |  
+| bip_39_word_space_3 | neglect valley voice |  
+| bip_39_word_space_4 | neglect valley voice spray |  
+| bip_39_word_space_5 | neglect valley voice spray lend |  
+| bip_39_word_space_6 | neglect valley voice spray lend exotic |  
+| bip_39_word_space_7 | neglect valley voice spray lend exotic beauty |  
+| bip_39_word_space_8 | neglect valley voice spray lend exotic beauty ozone |  
+| bip_39_word_space_9 | neglect valley voice spray lend exotic beauty ozone mosquito |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

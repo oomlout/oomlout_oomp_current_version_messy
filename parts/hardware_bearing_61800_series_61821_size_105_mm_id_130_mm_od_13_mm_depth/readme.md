@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pond warrior
+  * bip 39 word 3: pond warrior opera
+  * bip 39 word: pond warrior opera awesome avocado hurt gesture gloom decorate attitude luxury appear
 
 ### other_codes
 * short_code: br61821
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pond |  
+| bip_39_word_new_br10 | pond<br>warrior<br>opera<br>awesome<br>avocado<br>hurt<br>gesture<br>gloom<br>decorate<br>attitude |  
+| bip_39_word_new_br11 | pond<br>warrior<br>opera<br>awesome<br>avocado<br>hurt<br>gesture<br>gloom<br>decorate<br>attitude<br>luxury |  
+| bip_39_word_new_br12 | pond<br>warrior<br>opera<br>awesome<br>avocado<br>hurt<br>gesture<br>gloom<br>decorate<br>attitude<br>luxury<br>appear |  
+| bip_39_word_new_br2 | pond<br>warrior |  
+| bip_39_word_new_br3 | pond<br>warrior<br>opera |  
+| bip_39_word_new_br4 | pond<br>warrior<br>opera<br>awesome |  
+| bip_39_word_new_br5 | pond<br>warrior<br>opera<br>awesome<br>avocado |  
+| bip_39_word_new_br6 | pond<br>warrior<br>opera<br>awesome<br>avocado<br>hurt |  
+| bip_39_word_new_br7 | pond<br>warrior<br>opera<br>awesome<br>avocado<br>hurt<br>gesture |  
+| bip_39_word_new_br8 | pond<br>warrior<br>opera<br>awesome<br>avocado<br>hurt<br>gesture<br>gloom |  
+| bip_39_word_new_br9 | pond<br>warrior<br>opera<br>awesome<br>avocado<br>hurt<br>gesture<br>gloom<br>decorate |  
+| bip_39_word_new_line1 | pond |  
+| bip_39_word_new_line10 | pond
+warrior
+opera
+awesome
+avocado
+hurt
+gesture
+gloom
+decorate
+attitude |  
+| bip_39_word_new_line11 | pond
+warrior
+opera
+awesome
+avocado
+hurt
+gesture
+gloom
+decorate
+attitude
+luxury |  
+| bip_39_word_new_line12 | pond
+warrior
+opera
+awesome
+avocado
+hurt
+gesture
+gloom
+decorate
+attitude
+luxury
+appear |  
+| bip_39_word_new_line2 | pond
+warrior |  
+| bip_39_word_new_line3 | pond
+warrior
+opera |  
+| bip_39_word_new_line4 | pond
+warrior
+opera
+awesome |  
+| bip_39_word_new_line5 | pond
+warrior
+opera
+awesome
+avocado |  
+| bip_39_word_new_line6 | pond
+warrior
+opera
+awesome
+avocado
+hurt |  
+| bip_39_word_new_line7 | pond
+warrior
+opera
+awesome
+avocado
+hurt
+gesture |  
+| bip_39_word_new_line8 | pond
+warrior
+opera
+awesome
+avocado
+hurt
+gesture
+gloom |  
+| bip_39_word_new_line9 | pond
+warrior
+opera
+awesome
+avocado
+hurt
+gesture
+gloom
+decorate |  
+| bip_39_word_space_0 | ['pond', 'warrior', 'opera', 'awesome', 'avocado', 'hurt', 'gesture', 'gloom', 'decorate', 'attitude', 'luxury', 'appear'] |  
+| bip_39_word_space_1 | pond |  
+| bip_39_word_space_10 | pond warrior opera awesome avocado hurt gesture gloom decorate attitude |  
+| bip_39_word_space_11 | pond warrior opera awesome avocado hurt gesture gloom decorate attitude luxury |  
+| bip_39_word_space_12 | pond warrior opera awesome avocado hurt gesture gloom decorate attitude luxury appear |  
+| bip_39_word_space_2 | pond warrior |  
+| bip_39_word_space_3 | pond warrior opera |  
+| bip_39_word_space_4 | pond warrior opera awesome |  
+| bip_39_word_space_5 | pond warrior opera awesome avocado |  
+| bip_39_word_space_6 | pond warrior opera awesome avocado hurt |  
+| bip_39_word_space_7 | pond warrior opera awesome avocado hurt gesture |  
+| bip_39_word_space_8 | pond warrior opera awesome avocado hurt gesture gloom |  
+| bip_39_word_space_9 | pond warrior opera awesome avocado hurt gesture gloom decorate |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

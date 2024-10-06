@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hurdle floor
+  * bip 39 word 3: hurdle floor debate
+  * bip 39 word: hurdle floor debate planet point science access apart toast female give artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hurdle |  
+| bip_39_word_new_br10 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female |  
+| bip_39_word_new_br11 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female<br>give |  
+| bip_39_word_new_br12 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast<br>female<br>give<br>artist |  
+| bip_39_word_new_br2 | hurdle<br>floor |  
+| bip_39_word_new_br3 | hurdle<br>floor<br>debate |  
+| bip_39_word_new_br4 | hurdle<br>floor<br>debate<br>planet |  
+| bip_39_word_new_br5 | hurdle<br>floor<br>debate<br>planet<br>point |  
+| bip_39_word_new_br6 | hurdle<br>floor<br>debate<br>planet<br>point<br>science |  
+| bip_39_word_new_br7 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access |  
+| bip_39_word_new_br8 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart |  
+| bip_39_word_new_br9 | hurdle<br>floor<br>debate<br>planet<br>point<br>science<br>access<br>apart<br>toast |  
+| bip_39_word_new_line1 | hurdle |  
+| bip_39_word_new_line10 | hurdle
+floor
+debate
+planet
+point
+science
+access
+apart
+toast
+female |  
+| bip_39_word_new_line11 | hurdle
+floor
+debate
+planet
+point
+science
+access
+apart
+toast
+female
+give |  
+| bip_39_word_new_line12 | hurdle
+floor
+debate
+planet
+point
+science
+access
+apart
+toast
+female
+give
+artist |  
+| bip_39_word_new_line2 | hurdle
+floor |  
+| bip_39_word_new_line3 | hurdle
+floor
+debate |  
+| bip_39_word_new_line4 | hurdle
+floor
+debate
+planet |  
+| bip_39_word_new_line5 | hurdle
+floor
+debate
+planet
+point |  
+| bip_39_word_new_line6 | hurdle
+floor
+debate
+planet
+point
+science |  
+| bip_39_word_new_line7 | hurdle
+floor
+debate
+planet
+point
+science
+access |  
+| bip_39_word_new_line8 | hurdle
+floor
+debate
+planet
+point
+science
+access
+apart |  
+| bip_39_word_new_line9 | hurdle
+floor
+debate
+planet
+point
+science
+access
+apart
+toast |  
+| bip_39_word_space_0 | ['hurdle', 'floor', 'debate', 'planet', 'point', 'science', 'access', 'apart', 'toast', 'female', 'give', 'artist'] |  
+| bip_39_word_space_1 | hurdle |  
+| bip_39_word_space_10 | hurdle floor debate planet point science access apart toast female |  
+| bip_39_word_space_11 | hurdle floor debate planet point science access apart toast female give |  
+| bip_39_word_space_12 | hurdle floor debate planet point science access apart toast female give artist |  
+| bip_39_word_space_2 | hurdle floor |  
+| bip_39_word_space_3 | hurdle floor debate |  
+| bip_39_word_space_4 | hurdle floor debate planet |  
+| bip_39_word_space_5 | hurdle floor debate planet point |  
+| bip_39_word_space_6 | hurdle floor debate planet point science |  
+| bip_39_word_space_7 | hurdle floor debate planet point science access |  
+| bip_39_word_space_8 | hurdle floor debate planet point science access apart |  
+| bip_39_word_space_9 | hurdle floor debate planet point science access apart toast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

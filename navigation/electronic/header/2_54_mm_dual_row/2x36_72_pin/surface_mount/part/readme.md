@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: floor pottery
+  * bip 39 word 3: floor pottery squeeze
+  * bip 39 word: floor pottery squeeze present plunge next voyage rapid august leaf camp art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | floor |  
+| bip_39_word_new_br10 | floor<br>pottery<br>squeeze<br>present<br>plunge<br>next<br>voyage<br>rapid<br>august<br>leaf |  
+| bip_39_word_new_br11 | floor<br>pottery<br>squeeze<br>present<br>plunge<br>next<br>voyage<br>rapid<br>august<br>leaf<br>camp |  
+| bip_39_word_new_br12 | floor<br>pottery<br>squeeze<br>present<br>plunge<br>next<br>voyage<br>rapid<br>august<br>leaf<br>camp<br>art |  
+| bip_39_word_new_br2 | floor<br>pottery |  
+| bip_39_word_new_br3 | floor<br>pottery<br>squeeze |  
+| bip_39_word_new_br4 | floor<br>pottery<br>squeeze<br>present |  
+| bip_39_word_new_br5 | floor<br>pottery<br>squeeze<br>present<br>plunge |  
+| bip_39_word_new_br6 | floor<br>pottery<br>squeeze<br>present<br>plunge<br>next |  
+| bip_39_word_new_br7 | floor<br>pottery<br>squeeze<br>present<br>plunge<br>next<br>voyage |  
+| bip_39_word_new_br8 | floor<br>pottery<br>squeeze<br>present<br>plunge<br>next<br>voyage<br>rapid |  
+| bip_39_word_new_br9 | floor<br>pottery<br>squeeze<br>present<br>plunge<br>next<br>voyage<br>rapid<br>august |  
+| bip_39_word_new_line1 | floor |  
+| bip_39_word_new_line10 | floor
+pottery
+squeeze
+present
+plunge
+next
+voyage
+rapid
+august
+leaf |  
+| bip_39_word_new_line11 | floor
+pottery
+squeeze
+present
+plunge
+next
+voyage
+rapid
+august
+leaf
+camp |  
+| bip_39_word_new_line12 | floor
+pottery
+squeeze
+present
+plunge
+next
+voyage
+rapid
+august
+leaf
+camp
+art |  
+| bip_39_word_new_line2 | floor
+pottery |  
+| bip_39_word_new_line3 | floor
+pottery
+squeeze |  
+| bip_39_word_new_line4 | floor
+pottery
+squeeze
+present |  
+| bip_39_word_new_line5 | floor
+pottery
+squeeze
+present
+plunge |  
+| bip_39_word_new_line6 | floor
+pottery
+squeeze
+present
+plunge
+next |  
+| bip_39_word_new_line7 | floor
+pottery
+squeeze
+present
+plunge
+next
+voyage |  
+| bip_39_word_new_line8 | floor
+pottery
+squeeze
+present
+plunge
+next
+voyage
+rapid |  
+| bip_39_word_new_line9 | floor
+pottery
+squeeze
+present
+plunge
+next
+voyage
+rapid
+august |  
+| bip_39_word_space_0 | ['floor', 'pottery', 'squeeze', 'present', 'plunge', 'next', 'voyage', 'rapid', 'august', 'leaf', 'camp', 'art'] |  
+| bip_39_word_space_1 | floor |  
+| bip_39_word_space_10 | floor pottery squeeze present plunge next voyage rapid august leaf |  
+| bip_39_word_space_11 | floor pottery squeeze present plunge next voyage rapid august leaf camp |  
+| bip_39_word_space_12 | floor pottery squeeze present plunge next voyage rapid august leaf camp art |  
+| bip_39_word_space_2 | floor pottery |  
+| bip_39_word_space_3 | floor pottery squeeze |  
+| bip_39_word_space_4 | floor pottery squeeze present |  
+| bip_39_word_space_5 | floor pottery squeeze present plunge |  
+| bip_39_word_space_6 | floor pottery squeeze present plunge next |  
+| bip_39_word_space_7 | floor pottery squeeze present plunge next voyage |  
+| bip_39_word_space_8 | floor pottery squeeze present plunge next voyage rapid |  
+| bip_39_word_space_9 | floor pottery squeeze present plunge next voyage rapid august |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

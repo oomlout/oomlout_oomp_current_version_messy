@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: satisfy sleep
+  * bip 39 word 3: satisfy sleep judge
+  * bip 39 word: satisfy sleep judge crawl aspect admit shop predict entry paper deposit auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | satisfy |  
+| bip_39_word_new_br10 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit<br>shop<br>predict<br>entry<br>paper |  
+| bip_39_word_new_br11 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit<br>shop<br>predict<br>entry<br>paper<br>deposit |  
+| bip_39_word_new_br12 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit<br>shop<br>predict<br>entry<br>paper<br>deposit<br>auction |  
+| bip_39_word_new_br2 | satisfy<br>sleep |  
+| bip_39_word_new_br3 | satisfy<br>sleep<br>judge |  
+| bip_39_word_new_br4 | satisfy<br>sleep<br>judge<br>crawl |  
+| bip_39_word_new_br5 | satisfy<br>sleep<br>judge<br>crawl<br>aspect |  
+| bip_39_word_new_br6 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit |  
+| bip_39_word_new_br7 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit<br>shop |  
+| bip_39_word_new_br8 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit<br>shop<br>predict |  
+| bip_39_word_new_br9 | satisfy<br>sleep<br>judge<br>crawl<br>aspect<br>admit<br>shop<br>predict<br>entry |  
+| bip_39_word_new_line1 | satisfy |  
+| bip_39_word_new_line10 | satisfy
+sleep
+judge
+crawl
+aspect
+admit
+shop
+predict
+entry
+paper |  
+| bip_39_word_new_line11 | satisfy
+sleep
+judge
+crawl
+aspect
+admit
+shop
+predict
+entry
+paper
+deposit |  
+| bip_39_word_new_line12 | satisfy
+sleep
+judge
+crawl
+aspect
+admit
+shop
+predict
+entry
+paper
+deposit
+auction |  
+| bip_39_word_new_line2 | satisfy
+sleep |  
+| bip_39_word_new_line3 | satisfy
+sleep
+judge |  
+| bip_39_word_new_line4 | satisfy
+sleep
+judge
+crawl |  
+| bip_39_word_new_line5 | satisfy
+sleep
+judge
+crawl
+aspect |  
+| bip_39_word_new_line6 | satisfy
+sleep
+judge
+crawl
+aspect
+admit |  
+| bip_39_word_new_line7 | satisfy
+sleep
+judge
+crawl
+aspect
+admit
+shop |  
+| bip_39_word_new_line8 | satisfy
+sleep
+judge
+crawl
+aspect
+admit
+shop
+predict |  
+| bip_39_word_new_line9 | satisfy
+sleep
+judge
+crawl
+aspect
+admit
+shop
+predict
+entry |  
+| bip_39_word_space_0 | ['satisfy', 'sleep', 'judge', 'crawl', 'aspect', 'admit', 'shop', 'predict', 'entry', 'paper', 'deposit', 'auction'] |  
+| bip_39_word_space_1 | satisfy |  
+| bip_39_word_space_10 | satisfy sleep judge crawl aspect admit shop predict entry paper |  
+| bip_39_word_space_11 | satisfy sleep judge crawl aspect admit shop predict entry paper deposit |  
+| bip_39_word_space_12 | satisfy sleep judge crawl aspect admit shop predict entry paper deposit auction |  
+| bip_39_word_space_2 | satisfy sleep |  
+| bip_39_word_space_3 | satisfy sleep judge |  
+| bip_39_word_space_4 | satisfy sleep judge crawl |  
+| bip_39_word_space_5 | satisfy sleep judge crawl aspect |  
+| bip_39_word_space_6 | satisfy sleep judge crawl aspect admit |  
+| bip_39_word_space_7 | satisfy sleep judge crawl aspect admit shop |  
+| bip_39_word_space_8 | satisfy sleep judge crawl aspect admit shop predict |  
+| bip_39_word_space_9 | satisfy sleep judge crawl aspect admit shop predict entry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

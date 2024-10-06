@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nation
+bip_39_word_new_br10: nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price
+bip_39_word_new_br11: nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price<br>fame
+bip_39_word_new_br12: nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo<br>price<br>fame<br>assist
+bip_39_word_new_br2: nation<br>broom
+bip_39_word_new_br3: nation<br>broom<br>cradle
+bip_39_word_new_br4: nation<br>broom<br>cradle<br>choose
+bip_39_word_new_br5: nation<br>broom<br>cradle<br>choose<br>figure
+bip_39_word_new_br6: nation<br>broom<br>cradle<br>choose<br>figure<br>humor
+bip_39_word_new_br7: nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind
+bip_39_word_new_br8: nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon
+bip_39_word_new_br9: nation<br>broom<br>cradle<br>choose<br>figure<br>humor<br>blind<br>soon<br>photo
+bip_39_word_new_line1: nation
+bip_39_word_new_line10: 'nation
+
+  broom
+
+  cradle
+
+  choose
+
+  figure
+
+  humor
+
+  blind
+
+  soon
+
+  photo
+
+  price'
+bip_39_word_new_line11: 'nation
+
+  broom
+
+  cradle
+
+  choose
+
+  figure
+
+  humor
+
+  blind
+
+  soon
+
+  photo
+
+  price
+
+  fame'
+bip_39_word_new_line12: 'nation
+
+  broom
+
+  cradle
+
+  choose
+
+  figure
+
+  humor
+
+  blind
+
+  soon
+
+  photo
+
+  price
+
+  fame
+
+  assist'
+bip_39_word_new_line2: 'nation
+
+  broom'
+bip_39_word_new_line3: 'nation
+
+  broom
+
+  cradle'
+bip_39_word_new_line4: 'nation
+
+  broom
+
+  cradle
+
+  choose'
+bip_39_word_new_line5: 'nation
+
+  broom
+
+  cradle
+
+  choose
+
+  figure'
+bip_39_word_new_line6: 'nation
+
+  broom
+
+  cradle
+
+  choose
+
+  figure
+
+  humor'
+bip_39_word_new_line7: 'nation
+
+  broom
+
+  cradle
+
+  choose
+
+  figure
+
+  humor
+
+  blind'
+bip_39_word_new_line8: 'nation
+
+  broom
+
+  cradle
+
+  choose
+
+  figure
+
+  humor
+
+  blind
+
+  soon'
+bip_39_word_new_line9: 'nation
+
+  broom
+
+  cradle
+
+  choose
+
+  figure
+
+  humor
+
+  blind
+
+  soon
+
+  photo'
+bip_39_word_space_0:
+- nation
+- broom
+- cradle
+- choose
+- figure
+- humor
+- blind
+- soon
+- photo
+- price
+- fame
+- assist
+bip_39_word_space_1: nation
+bip_39_word_space_10: nation broom cradle choose figure humor blind soon photo price
+bip_39_word_space_11: nation broom cradle choose figure humor blind soon photo price
+  fame
+bip_39_word_space_12: nation broom cradle choose figure humor blind soon photo price
+  fame assist
+bip_39_word_space_2: nation broom
+bip_39_word_space_3: nation broom cradle
+bip_39_word_space_4: nation broom cradle choose
+bip_39_word_space_5: nation broom cradle choose figure
+bip_39_word_space_6: nation broom cradle choose figure humor
+bip_39_word_space_7: nation broom cradle choose figure humor blind
+bip_39_word_space_8: nation broom cradle choose figure humor blind soon
+bip_39_word_space_9: nation broom cradle choose figure humor blind soon photo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

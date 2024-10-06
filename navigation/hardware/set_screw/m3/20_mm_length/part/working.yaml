@@ -1,3 +1,187 @@
+bip_39_word_new_br1: impulse
+bip_39_word_new_br10: impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt
+bip_39_word_new_br11: impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt<br>brief
+bip_39_word_new_br12: impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring<br>grunt<br>brief<br>artefact
+bip_39_word_new_br2: impulse<br>voyage
+bip_39_word_new_br3: impulse<br>voyage<br>tired
+bip_39_word_new_br4: impulse<br>voyage<br>tired<br>timber
+bip_39_word_new_br5: impulse<br>voyage<br>tired<br>timber<br>bench
+bip_39_word_new_br6: impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon
+bip_39_word_new_br7: impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred
+bip_39_word_new_br8: impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic
+bip_39_word_new_br9: impulse<br>voyage<br>tired<br>timber<br>bench<br>spoon<br>hundred<br>traffic<br>daring
+bip_39_word_new_line1: impulse
+bip_39_word_new_line10: 'impulse
+
+  voyage
+
+  tired
+
+  timber
+
+  bench
+
+  spoon
+
+  hundred
+
+  traffic
+
+  daring
+
+  grunt'
+bip_39_word_new_line11: 'impulse
+
+  voyage
+
+  tired
+
+  timber
+
+  bench
+
+  spoon
+
+  hundred
+
+  traffic
+
+  daring
+
+  grunt
+
+  brief'
+bip_39_word_new_line12: 'impulse
+
+  voyage
+
+  tired
+
+  timber
+
+  bench
+
+  spoon
+
+  hundred
+
+  traffic
+
+  daring
+
+  grunt
+
+  brief
+
+  artefact'
+bip_39_word_new_line2: 'impulse
+
+  voyage'
+bip_39_word_new_line3: 'impulse
+
+  voyage
+
+  tired'
+bip_39_word_new_line4: 'impulse
+
+  voyage
+
+  tired
+
+  timber'
+bip_39_word_new_line5: 'impulse
+
+  voyage
+
+  tired
+
+  timber
+
+  bench'
+bip_39_word_new_line6: 'impulse
+
+  voyage
+
+  tired
+
+  timber
+
+  bench
+
+  spoon'
+bip_39_word_new_line7: 'impulse
+
+  voyage
+
+  tired
+
+  timber
+
+  bench
+
+  spoon
+
+  hundred'
+bip_39_word_new_line8: 'impulse
+
+  voyage
+
+  tired
+
+  timber
+
+  bench
+
+  spoon
+
+  hundred
+
+  traffic'
+bip_39_word_new_line9: 'impulse
+
+  voyage
+
+  tired
+
+  timber
+
+  bench
+
+  spoon
+
+  hundred
+
+  traffic
+
+  daring'
+bip_39_word_space_0:
+- impulse
+- voyage
+- tired
+- timber
+- bench
+- spoon
+- hundred
+- traffic
+- daring
+- grunt
+- brief
+- artefact
+bip_39_word_space_1: impulse
+bip_39_word_space_10: impulse voyage tired timber bench spoon hundred traffic daring
+  grunt
+bip_39_word_space_11: impulse voyage tired timber bench spoon hundred traffic daring
+  grunt brief
+bip_39_word_space_12: impulse voyage tired timber bench spoon hundred traffic daring
+  grunt brief artefact
+bip_39_word_space_2: impulse voyage
+bip_39_word_space_3: impulse voyage tired
+bip_39_word_space_4: impulse voyage tired timber
+bip_39_word_space_5: impulse voyage tired timber bench
+bip_39_word_space_6: impulse voyage tired timber bench spoon
+bip_39_word_space_7: impulse voyage tired timber bench spoon hundred
+bip_39_word_space_8: impulse voyage tired timber bench spoon hundred traffic
+bip_39_word_space_9: impulse voyage tired timber bench spoon hundred traffic daring
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hazard
+bip_39_word_new_br10: hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order
+bip_39_word_new_br11: hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order<br>atom
+bip_39_word_new_br12: hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task<br>order<br>atom<br>accident
+bip_39_word_new_br2: hazard<br>alpha
+bip_39_word_new_br3: hazard<br>alpha<br>tunnel
+bip_39_word_new_br4: hazard<br>alpha<br>tunnel<br>river
+bip_39_word_new_br5: hazard<br>alpha<br>tunnel<br>river<br>forward
+bip_39_word_new_br6: hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault
+bip_39_word_new_br7: hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap
+bip_39_word_new_br8: hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop
+bip_39_word_new_br9: hazard<br>alpha<br>tunnel<br>river<br>forward<br>vault<br>swap<br>drop<br>task
+bip_39_word_new_line1: hazard
+bip_39_word_new_line10: 'hazard
+
+  alpha
+
+  tunnel
+
+  river
+
+  forward
+
+  vault
+
+  swap
+
+  drop
+
+  task
+
+  order'
+bip_39_word_new_line11: 'hazard
+
+  alpha
+
+  tunnel
+
+  river
+
+  forward
+
+  vault
+
+  swap
+
+  drop
+
+  task
+
+  order
+
+  atom'
+bip_39_word_new_line12: 'hazard
+
+  alpha
+
+  tunnel
+
+  river
+
+  forward
+
+  vault
+
+  swap
+
+  drop
+
+  task
+
+  order
+
+  atom
+
+  accident'
+bip_39_word_new_line2: 'hazard
+
+  alpha'
+bip_39_word_new_line3: 'hazard
+
+  alpha
+
+  tunnel'
+bip_39_word_new_line4: 'hazard
+
+  alpha
+
+  tunnel
+
+  river'
+bip_39_word_new_line5: 'hazard
+
+  alpha
+
+  tunnel
+
+  river
+
+  forward'
+bip_39_word_new_line6: 'hazard
+
+  alpha
+
+  tunnel
+
+  river
+
+  forward
+
+  vault'
+bip_39_word_new_line7: 'hazard
+
+  alpha
+
+  tunnel
+
+  river
+
+  forward
+
+  vault
+
+  swap'
+bip_39_word_new_line8: 'hazard
+
+  alpha
+
+  tunnel
+
+  river
+
+  forward
+
+  vault
+
+  swap
+
+  drop'
+bip_39_word_new_line9: 'hazard
+
+  alpha
+
+  tunnel
+
+  river
+
+  forward
+
+  vault
+
+  swap
+
+  drop
+
+  task'
+bip_39_word_space_0:
+- hazard
+- alpha
+- tunnel
+- river
+- forward
+- vault
+- swap
+- drop
+- task
+- order
+- atom
+- accident
+bip_39_word_space_1: hazard
+bip_39_word_space_10: hazard alpha tunnel river forward vault swap drop task order
+bip_39_word_space_11: hazard alpha tunnel river forward vault swap drop task order
+  atom
+bip_39_word_space_12: hazard alpha tunnel river forward vault swap drop task order
+  atom accident
+bip_39_word_space_2: hazard alpha
+bip_39_word_space_3: hazard alpha tunnel
+bip_39_word_space_4: hazard alpha tunnel river
+bip_39_word_space_5: hazard alpha tunnel river forward
+bip_39_word_space_6: hazard alpha tunnel river forward vault
+bip_39_word_space_7: hazard alpha tunnel river forward vault swap
+bip_39_word_space_8: hazard alpha tunnel river forward vault swap drop
+bip_39_word_space_9: hazard alpha tunnel river forward vault swap drop task
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

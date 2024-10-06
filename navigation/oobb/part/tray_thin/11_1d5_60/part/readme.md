@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: car comic
+  * bip 39 word 3: car comic force
+  * bip 39 word: car comic force junior galaxy flat alert fault tribe area use anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | car |  
+| bip_39_word_new_br10 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area |  
+| bip_39_word_new_br11 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area<br>use |  
+| bip_39_word_new_br12 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe<br>area<br>use<br>anxiety |  
+| bip_39_word_new_br2 | car<br>comic |  
+| bip_39_word_new_br3 | car<br>comic<br>force |  
+| bip_39_word_new_br4 | car<br>comic<br>force<br>junior |  
+| bip_39_word_new_br5 | car<br>comic<br>force<br>junior<br>galaxy |  
+| bip_39_word_new_br6 | car<br>comic<br>force<br>junior<br>galaxy<br>flat |  
+| bip_39_word_new_br7 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert |  
+| bip_39_word_new_br8 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault |  
+| bip_39_word_new_br9 | car<br>comic<br>force<br>junior<br>galaxy<br>flat<br>alert<br>fault<br>tribe |  
+| bip_39_word_new_line1 | car |  
+| bip_39_word_new_line10 | car
+comic
+force
+junior
+galaxy
+flat
+alert
+fault
+tribe
+area |  
+| bip_39_word_new_line11 | car
+comic
+force
+junior
+galaxy
+flat
+alert
+fault
+tribe
+area
+use |  
+| bip_39_word_new_line12 | car
+comic
+force
+junior
+galaxy
+flat
+alert
+fault
+tribe
+area
+use
+anxiety |  
+| bip_39_word_new_line2 | car
+comic |  
+| bip_39_word_new_line3 | car
+comic
+force |  
+| bip_39_word_new_line4 | car
+comic
+force
+junior |  
+| bip_39_word_new_line5 | car
+comic
+force
+junior
+galaxy |  
+| bip_39_word_new_line6 | car
+comic
+force
+junior
+galaxy
+flat |  
+| bip_39_word_new_line7 | car
+comic
+force
+junior
+galaxy
+flat
+alert |  
+| bip_39_word_new_line8 | car
+comic
+force
+junior
+galaxy
+flat
+alert
+fault |  
+| bip_39_word_new_line9 | car
+comic
+force
+junior
+galaxy
+flat
+alert
+fault
+tribe |  
+| bip_39_word_space_0 | ['car', 'comic', 'force', 'junior', 'galaxy', 'flat', 'alert', 'fault', 'tribe', 'area', 'use', 'anxiety'] |  
+| bip_39_word_space_1 | car |  
+| bip_39_word_space_10 | car comic force junior galaxy flat alert fault tribe area |  
+| bip_39_word_space_11 | car comic force junior galaxy flat alert fault tribe area use |  
+| bip_39_word_space_12 | car comic force junior galaxy flat alert fault tribe area use anxiety |  
+| bip_39_word_space_2 | car comic |  
+| bip_39_word_space_3 | car comic force |  
+| bip_39_word_space_4 | car comic force junior |  
+| bip_39_word_space_5 | car comic force junior galaxy |  
+| bip_39_word_space_6 | car comic force junior galaxy flat |  
+| bip_39_word_space_7 | car comic force junior galaxy flat alert |  
+| bip_39_word_space_8 | car comic force junior galaxy flat alert fault |  
+| bip_39_word_space_9 | car comic force junior galaxy flat alert fault tribe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

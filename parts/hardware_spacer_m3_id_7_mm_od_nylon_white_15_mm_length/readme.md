@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pear diagram
+  * bip 39 word 3: pear diagram parade
+  * bip 39 word: pear diagram parade riot sustain deer tide faith upon noodle dune apple
 
 ### other_codes
 * short_code: sp3x7nw15
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pear |  
+| bip_39_word_new_br10 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer<br>tide<br>faith<br>upon<br>noodle |  
+| bip_39_word_new_br11 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer<br>tide<br>faith<br>upon<br>noodle<br>dune |  
+| bip_39_word_new_br12 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer<br>tide<br>faith<br>upon<br>noodle<br>dune<br>apple |  
+| bip_39_word_new_br2 | pear<br>diagram |  
+| bip_39_word_new_br3 | pear<br>diagram<br>parade |  
+| bip_39_word_new_br4 | pear<br>diagram<br>parade<br>riot |  
+| bip_39_word_new_br5 | pear<br>diagram<br>parade<br>riot<br>sustain |  
+| bip_39_word_new_br6 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer |  
+| bip_39_word_new_br7 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer<br>tide |  
+| bip_39_word_new_br8 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer<br>tide<br>faith |  
+| bip_39_word_new_br9 | pear<br>diagram<br>parade<br>riot<br>sustain<br>deer<br>tide<br>faith<br>upon |  
+| bip_39_word_new_line1 | pear |  
+| bip_39_word_new_line10 | pear
+diagram
+parade
+riot
+sustain
+deer
+tide
+faith
+upon
+noodle |  
+| bip_39_word_new_line11 | pear
+diagram
+parade
+riot
+sustain
+deer
+tide
+faith
+upon
+noodle
+dune |  
+| bip_39_word_new_line12 | pear
+diagram
+parade
+riot
+sustain
+deer
+tide
+faith
+upon
+noodle
+dune
+apple |  
+| bip_39_word_new_line2 | pear
+diagram |  
+| bip_39_word_new_line3 | pear
+diagram
+parade |  
+| bip_39_word_new_line4 | pear
+diagram
+parade
+riot |  
+| bip_39_word_new_line5 | pear
+diagram
+parade
+riot
+sustain |  
+| bip_39_word_new_line6 | pear
+diagram
+parade
+riot
+sustain
+deer |  
+| bip_39_word_new_line7 | pear
+diagram
+parade
+riot
+sustain
+deer
+tide |  
+| bip_39_word_new_line8 | pear
+diagram
+parade
+riot
+sustain
+deer
+tide
+faith |  
+| bip_39_word_new_line9 | pear
+diagram
+parade
+riot
+sustain
+deer
+tide
+faith
+upon |  
+| bip_39_word_space_0 | ['pear', 'diagram', 'parade', 'riot', 'sustain', 'deer', 'tide', 'faith', 'upon', 'noodle', 'dune', 'apple'] |  
+| bip_39_word_space_1 | pear |  
+| bip_39_word_space_10 | pear diagram parade riot sustain deer tide faith upon noodle |  
+| bip_39_word_space_11 | pear diagram parade riot sustain deer tide faith upon noodle dune |  
+| bip_39_word_space_12 | pear diagram parade riot sustain deer tide faith upon noodle dune apple |  
+| bip_39_word_space_2 | pear diagram |  
+| bip_39_word_space_3 | pear diagram parade |  
+| bip_39_word_space_4 | pear diagram parade riot |  
+| bip_39_word_space_5 | pear diagram parade riot sustain |  
+| bip_39_word_space_6 | pear diagram parade riot sustain deer |  
+| bip_39_word_space_7 | pear diagram parade riot sustain deer tide |  
+| bip_39_word_space_8 | pear diagram parade riot sustain deer tide faith |  
+| bip_39_word_space_9 | pear diagram parade riot sustain deer tide faith upon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

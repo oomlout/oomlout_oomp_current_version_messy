@@ -1,3 +1,186 @@
+bip_39_word_new_br1: frog
+bip_39_word_new_br10: frog<br>climb<br>grid<br>surprise<br>detect<br>left<br>deputy<br>fine<br>muffin<br>endorse
+bip_39_word_new_br11: frog<br>climb<br>grid<br>surprise<br>detect<br>left<br>deputy<br>fine<br>muffin<br>endorse<br>enrich
+bip_39_word_new_br12: frog<br>climb<br>grid<br>surprise<br>detect<br>left<br>deputy<br>fine<br>muffin<br>endorse<br>enrich<br>artwork
+bip_39_word_new_br2: frog<br>climb
+bip_39_word_new_br3: frog<br>climb<br>grid
+bip_39_word_new_br4: frog<br>climb<br>grid<br>surprise
+bip_39_word_new_br5: frog<br>climb<br>grid<br>surprise<br>detect
+bip_39_word_new_br6: frog<br>climb<br>grid<br>surprise<br>detect<br>left
+bip_39_word_new_br7: frog<br>climb<br>grid<br>surprise<br>detect<br>left<br>deputy
+bip_39_word_new_br8: frog<br>climb<br>grid<br>surprise<br>detect<br>left<br>deputy<br>fine
+bip_39_word_new_br9: frog<br>climb<br>grid<br>surprise<br>detect<br>left<br>deputy<br>fine<br>muffin
+bip_39_word_new_line1: frog
+bip_39_word_new_line10: 'frog
+
+  climb
+
+  grid
+
+  surprise
+
+  detect
+
+  left
+
+  deputy
+
+  fine
+
+  muffin
+
+  endorse'
+bip_39_word_new_line11: 'frog
+
+  climb
+
+  grid
+
+  surprise
+
+  detect
+
+  left
+
+  deputy
+
+  fine
+
+  muffin
+
+  endorse
+
+  enrich'
+bip_39_word_new_line12: 'frog
+
+  climb
+
+  grid
+
+  surprise
+
+  detect
+
+  left
+
+  deputy
+
+  fine
+
+  muffin
+
+  endorse
+
+  enrich
+
+  artwork'
+bip_39_word_new_line2: 'frog
+
+  climb'
+bip_39_word_new_line3: 'frog
+
+  climb
+
+  grid'
+bip_39_word_new_line4: 'frog
+
+  climb
+
+  grid
+
+  surprise'
+bip_39_word_new_line5: 'frog
+
+  climb
+
+  grid
+
+  surprise
+
+  detect'
+bip_39_word_new_line6: 'frog
+
+  climb
+
+  grid
+
+  surprise
+
+  detect
+
+  left'
+bip_39_word_new_line7: 'frog
+
+  climb
+
+  grid
+
+  surprise
+
+  detect
+
+  left
+
+  deputy'
+bip_39_word_new_line8: 'frog
+
+  climb
+
+  grid
+
+  surprise
+
+  detect
+
+  left
+
+  deputy
+
+  fine'
+bip_39_word_new_line9: 'frog
+
+  climb
+
+  grid
+
+  surprise
+
+  detect
+
+  left
+
+  deputy
+
+  fine
+
+  muffin'
+bip_39_word_space_0:
+- frog
+- climb
+- grid
+- surprise
+- detect
+- left
+- deputy
+- fine
+- muffin
+- endorse
+- enrich
+- artwork
+bip_39_word_space_1: frog
+bip_39_word_space_10: frog climb grid surprise detect left deputy fine muffin endorse
+bip_39_word_space_11: frog climb grid surprise detect left deputy fine muffin endorse
+  enrich
+bip_39_word_space_12: frog climb grid surprise detect left deputy fine muffin endorse
+  enrich artwork
+bip_39_word_space_2: frog climb
+bip_39_word_space_3: frog climb grid
+bip_39_word_space_4: frog climb grid surprise
+bip_39_word_space_5: frog climb grid surprise detect
+bip_39_word_space_6: frog climb grid surprise detect left
+bip_39_word_space_7: frog climb grid surprise detect left deputy
+bip_39_word_space_8: frog climb grid surprise detect left deputy fine
+bip_39_word_space_9: frog climb grid surprise detect left deputy fine muffin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

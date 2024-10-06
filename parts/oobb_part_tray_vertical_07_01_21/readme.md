@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flame athlete
+  * bip 39 word 3: flame athlete certain
+  * bip 39 word: flame athlete certain option arrange perfect ignore warfare reject remain wrestle avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flame |  
+| bip_39_word_new_br10 | flame<br>athlete<br>certain<br>option<br>arrange<br>perfect<br>ignore<br>warfare<br>reject<br>remain |  
+| bip_39_word_new_br11 | flame<br>athlete<br>certain<br>option<br>arrange<br>perfect<br>ignore<br>warfare<br>reject<br>remain<br>wrestle |  
+| bip_39_word_new_br12 | flame<br>athlete<br>certain<br>option<br>arrange<br>perfect<br>ignore<br>warfare<br>reject<br>remain<br>wrestle<br>avocado |  
+| bip_39_word_new_br2 | flame<br>athlete |  
+| bip_39_word_new_br3 | flame<br>athlete<br>certain |  
+| bip_39_word_new_br4 | flame<br>athlete<br>certain<br>option |  
+| bip_39_word_new_br5 | flame<br>athlete<br>certain<br>option<br>arrange |  
+| bip_39_word_new_br6 | flame<br>athlete<br>certain<br>option<br>arrange<br>perfect |  
+| bip_39_word_new_br7 | flame<br>athlete<br>certain<br>option<br>arrange<br>perfect<br>ignore |  
+| bip_39_word_new_br8 | flame<br>athlete<br>certain<br>option<br>arrange<br>perfect<br>ignore<br>warfare |  
+| bip_39_word_new_br9 | flame<br>athlete<br>certain<br>option<br>arrange<br>perfect<br>ignore<br>warfare<br>reject |  
+| bip_39_word_new_line1 | flame |  
+| bip_39_word_new_line10 | flame
+athlete
+certain
+option
+arrange
+perfect
+ignore
+warfare
+reject
+remain |  
+| bip_39_word_new_line11 | flame
+athlete
+certain
+option
+arrange
+perfect
+ignore
+warfare
+reject
+remain
+wrestle |  
+| bip_39_word_new_line12 | flame
+athlete
+certain
+option
+arrange
+perfect
+ignore
+warfare
+reject
+remain
+wrestle
+avocado |  
+| bip_39_word_new_line2 | flame
+athlete |  
+| bip_39_word_new_line3 | flame
+athlete
+certain |  
+| bip_39_word_new_line4 | flame
+athlete
+certain
+option |  
+| bip_39_word_new_line5 | flame
+athlete
+certain
+option
+arrange |  
+| bip_39_word_new_line6 | flame
+athlete
+certain
+option
+arrange
+perfect |  
+| bip_39_word_new_line7 | flame
+athlete
+certain
+option
+arrange
+perfect
+ignore |  
+| bip_39_word_new_line8 | flame
+athlete
+certain
+option
+arrange
+perfect
+ignore
+warfare |  
+| bip_39_word_new_line9 | flame
+athlete
+certain
+option
+arrange
+perfect
+ignore
+warfare
+reject |  
+| bip_39_word_space_0 | ['flame', 'athlete', 'certain', 'option', 'arrange', 'perfect', 'ignore', 'warfare', 'reject', 'remain', 'wrestle', 'avocado'] |  
+| bip_39_word_space_1 | flame |  
+| bip_39_word_space_10 | flame athlete certain option arrange perfect ignore warfare reject remain |  
+| bip_39_word_space_11 | flame athlete certain option arrange perfect ignore warfare reject remain wrestle |  
+| bip_39_word_space_12 | flame athlete certain option arrange perfect ignore warfare reject remain wrestle avocado |  
+| bip_39_word_space_2 | flame athlete |  
+| bip_39_word_space_3 | flame athlete certain |  
+| bip_39_word_space_4 | flame athlete certain option |  
+| bip_39_word_space_5 | flame athlete certain option arrange |  
+| bip_39_word_space_6 | flame athlete certain option arrange perfect |  
+| bip_39_word_space_7 | flame athlete certain option arrange perfect ignore |  
+| bip_39_word_space_8 | flame athlete certain option arrange perfect ignore warfare |  
+| bip_39_word_space_9 | flame athlete certain option arrange perfect ignore warfare reject |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

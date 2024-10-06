@@ -1,3 +1,186 @@
+bip_39_word_new_br1: purpose
+bip_39_word_new_br10: purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business
+bip_39_word_new_br11: purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business<br>disorder
+bip_39_word_new_br12: purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate<br>business<br>disorder<br>airport
+bip_39_word_new_br2: purpose<br>hungry
+bip_39_word_new_br3: purpose<br>hungry<br>whip
+bip_39_word_new_br4: purpose<br>hungry<br>whip<br>stem
+bip_39_word_new_br5: purpose<br>hungry<br>whip<br>stem<br>dragon
+bip_39_word_new_br6: purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame
+bip_39_word_new_br7: purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus
+bip_39_word_new_br8: purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive
+bip_39_word_new_br9: purpose<br>hungry<br>whip<br>stem<br>dragon<br>blame<br>bonus<br>olive<br>educate
+bip_39_word_new_line1: purpose
+bip_39_word_new_line10: 'purpose
+
+  hungry
+
+  whip
+
+  stem
+
+  dragon
+
+  blame
+
+  bonus
+
+  olive
+
+  educate
+
+  business'
+bip_39_word_new_line11: 'purpose
+
+  hungry
+
+  whip
+
+  stem
+
+  dragon
+
+  blame
+
+  bonus
+
+  olive
+
+  educate
+
+  business
+
+  disorder'
+bip_39_word_new_line12: 'purpose
+
+  hungry
+
+  whip
+
+  stem
+
+  dragon
+
+  blame
+
+  bonus
+
+  olive
+
+  educate
+
+  business
+
+  disorder
+
+  airport'
+bip_39_word_new_line2: 'purpose
+
+  hungry'
+bip_39_word_new_line3: 'purpose
+
+  hungry
+
+  whip'
+bip_39_word_new_line4: 'purpose
+
+  hungry
+
+  whip
+
+  stem'
+bip_39_word_new_line5: 'purpose
+
+  hungry
+
+  whip
+
+  stem
+
+  dragon'
+bip_39_word_new_line6: 'purpose
+
+  hungry
+
+  whip
+
+  stem
+
+  dragon
+
+  blame'
+bip_39_word_new_line7: 'purpose
+
+  hungry
+
+  whip
+
+  stem
+
+  dragon
+
+  blame
+
+  bonus'
+bip_39_word_new_line8: 'purpose
+
+  hungry
+
+  whip
+
+  stem
+
+  dragon
+
+  blame
+
+  bonus
+
+  olive'
+bip_39_word_new_line9: 'purpose
+
+  hungry
+
+  whip
+
+  stem
+
+  dragon
+
+  blame
+
+  bonus
+
+  olive
+
+  educate'
+bip_39_word_space_0:
+- purpose
+- hungry
+- whip
+- stem
+- dragon
+- blame
+- bonus
+- olive
+- educate
+- business
+- disorder
+- airport
+bip_39_word_space_1: purpose
+bip_39_word_space_10: purpose hungry whip stem dragon blame bonus olive educate business
+bip_39_word_space_11: purpose hungry whip stem dragon blame bonus olive educate business
+  disorder
+bip_39_word_space_12: purpose hungry whip stem dragon blame bonus olive educate business
+  disorder airport
+bip_39_word_space_2: purpose hungry
+bip_39_word_space_3: purpose hungry whip
+bip_39_word_space_4: purpose hungry whip stem
+bip_39_word_space_5: purpose hungry whip stem dragon
+bip_39_word_space_6: purpose hungry whip stem dragon blame
+bip_39_word_space_7: purpose hungry whip stem dragon blame bonus
+bip_39_word_space_8: purpose hungry whip stem dragon blame bonus olive
+bip_39_word_space_9: purpose hungry whip stem dragon blame bonus olive educate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

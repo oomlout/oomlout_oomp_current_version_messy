@@ -1,3 +1,185 @@
+bip_39_word_new_br1: play
+bip_39_word_new_br10: play<br>try<br>shaft<br>math<br>they<br>venue<br>try<br>agent<br>federal<br>village
+bip_39_word_new_br11: play<br>try<br>shaft<br>math<br>they<br>venue<br>try<br>agent<br>federal<br>village<br>embark
+bip_39_word_new_br12: play<br>try<br>shaft<br>math<br>they<br>venue<br>try<br>agent<br>federal<br>village<br>embark<br>annual
+bip_39_word_new_br2: play<br>try
+bip_39_word_new_br3: play<br>try<br>shaft
+bip_39_word_new_br4: play<br>try<br>shaft<br>math
+bip_39_word_new_br5: play<br>try<br>shaft<br>math<br>they
+bip_39_word_new_br6: play<br>try<br>shaft<br>math<br>they<br>venue
+bip_39_word_new_br7: play<br>try<br>shaft<br>math<br>they<br>venue<br>try
+bip_39_word_new_br8: play<br>try<br>shaft<br>math<br>they<br>venue<br>try<br>agent
+bip_39_word_new_br9: play<br>try<br>shaft<br>math<br>they<br>venue<br>try<br>agent<br>federal
+bip_39_word_new_line1: play
+bip_39_word_new_line10: 'play
+
+  try
+
+  shaft
+
+  math
+
+  they
+
+  venue
+
+  try
+
+  agent
+
+  federal
+
+  village'
+bip_39_word_new_line11: 'play
+
+  try
+
+  shaft
+
+  math
+
+  they
+
+  venue
+
+  try
+
+  agent
+
+  federal
+
+  village
+
+  embark'
+bip_39_word_new_line12: 'play
+
+  try
+
+  shaft
+
+  math
+
+  they
+
+  venue
+
+  try
+
+  agent
+
+  federal
+
+  village
+
+  embark
+
+  annual'
+bip_39_word_new_line2: 'play
+
+  try'
+bip_39_word_new_line3: 'play
+
+  try
+
+  shaft'
+bip_39_word_new_line4: 'play
+
+  try
+
+  shaft
+
+  math'
+bip_39_word_new_line5: 'play
+
+  try
+
+  shaft
+
+  math
+
+  they'
+bip_39_word_new_line6: 'play
+
+  try
+
+  shaft
+
+  math
+
+  they
+
+  venue'
+bip_39_word_new_line7: 'play
+
+  try
+
+  shaft
+
+  math
+
+  they
+
+  venue
+
+  try'
+bip_39_word_new_line8: 'play
+
+  try
+
+  shaft
+
+  math
+
+  they
+
+  venue
+
+  try
+
+  agent'
+bip_39_word_new_line9: 'play
+
+  try
+
+  shaft
+
+  math
+
+  they
+
+  venue
+
+  try
+
+  agent
+
+  federal'
+bip_39_word_space_0:
+- play
+- try
+- shaft
+- math
+- they
+- venue
+- try
+- agent
+- federal
+- village
+- embark
+- annual
+bip_39_word_space_1: play
+bip_39_word_space_10: play try shaft math they venue try agent federal village
+bip_39_word_space_11: play try shaft math they venue try agent federal village embark
+bip_39_word_space_12: play try shaft math they venue try agent federal village embark
+  annual
+bip_39_word_space_2: play try
+bip_39_word_space_3: play try shaft
+bip_39_word_space_4: play try shaft math
+bip_39_word_space_5: play try shaft math they
+bip_39_word_space_6: play try shaft math they venue
+bip_39_word_space_7: play try shaft math they venue try
+bip_39_word_space_8: play try shaft math they venue try agent
+bip_39_word_space_9: play try shaft math they venue try agent federal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

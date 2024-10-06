@@ -1,3 +1,186 @@
+bip_39_word_new_br1: copy
+bip_39_word_new_br10: copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better
+bip_39_word_new_br11: copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better<br>equip
+bip_39_word_new_br12: copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon<br>better<br>equip<br>album
+bip_39_word_new_br2: copy<br>snap
+bip_39_word_new_br3: copy<br>snap<br>foam
+bip_39_word_new_br4: copy<br>snap<br>foam<br>ensure
+bip_39_word_new_br5: copy<br>snap<br>foam<br>ensure<br>tide
+bip_39_word_new_br6: copy<br>snap<br>foam<br>ensure<br>tide<br>smile
+bip_39_word_new_br7: copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect
+bip_39_word_new_br8: copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement
+bip_39_word_new_br9: copy<br>snap<br>foam<br>ensure<br>tide<br>smile<br>detect<br>cement<br>wagon
+bip_39_word_new_line1: copy
+bip_39_word_new_line10: 'copy
+
+  snap
+
+  foam
+
+  ensure
+
+  tide
+
+  smile
+
+  detect
+
+  cement
+
+  wagon
+
+  better'
+bip_39_word_new_line11: 'copy
+
+  snap
+
+  foam
+
+  ensure
+
+  tide
+
+  smile
+
+  detect
+
+  cement
+
+  wagon
+
+  better
+
+  equip'
+bip_39_word_new_line12: 'copy
+
+  snap
+
+  foam
+
+  ensure
+
+  tide
+
+  smile
+
+  detect
+
+  cement
+
+  wagon
+
+  better
+
+  equip
+
+  album'
+bip_39_word_new_line2: 'copy
+
+  snap'
+bip_39_word_new_line3: 'copy
+
+  snap
+
+  foam'
+bip_39_word_new_line4: 'copy
+
+  snap
+
+  foam
+
+  ensure'
+bip_39_word_new_line5: 'copy
+
+  snap
+
+  foam
+
+  ensure
+
+  tide'
+bip_39_word_new_line6: 'copy
+
+  snap
+
+  foam
+
+  ensure
+
+  tide
+
+  smile'
+bip_39_word_new_line7: 'copy
+
+  snap
+
+  foam
+
+  ensure
+
+  tide
+
+  smile
+
+  detect'
+bip_39_word_new_line8: 'copy
+
+  snap
+
+  foam
+
+  ensure
+
+  tide
+
+  smile
+
+  detect
+
+  cement'
+bip_39_word_new_line9: 'copy
+
+  snap
+
+  foam
+
+  ensure
+
+  tide
+
+  smile
+
+  detect
+
+  cement
+
+  wagon'
+bip_39_word_space_0:
+- copy
+- snap
+- foam
+- ensure
+- tide
+- smile
+- detect
+- cement
+- wagon
+- better
+- equip
+- album
+bip_39_word_space_1: copy
+bip_39_word_space_10: copy snap foam ensure tide smile detect cement wagon better
+bip_39_word_space_11: copy snap foam ensure tide smile detect cement wagon better
+  equip
+bip_39_word_space_12: copy snap foam ensure tide smile detect cement wagon better
+  equip album
+bip_39_word_space_2: copy snap
+bip_39_word_space_3: copy snap foam
+bip_39_word_space_4: copy snap foam ensure
+bip_39_word_space_5: copy snap foam ensure tide
+bip_39_word_space_6: copy snap foam ensure tide smile
+bip_39_word_space_7: copy snap foam ensure tide smile detect
+bip_39_word_space_8: copy snap foam ensure tide smile detect cement
+bip_39_word_space_9: copy snap foam ensure tide smile detect cement wagon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

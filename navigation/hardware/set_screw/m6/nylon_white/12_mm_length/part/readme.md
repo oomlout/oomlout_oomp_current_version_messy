@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: license brother
+  * bip 39 word 3: license brother fetch
+  * bip 39 word: license brother fetch able eternal decrease struggle suggest flower genre twin artwork
 
 ### other_codes
 * short_code: ss6nw12
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | license |  
+| bip_39_word_new_br10 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower<br>genre |  
+| bip_39_word_new_br11 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower<br>genre<br>twin |  
+| bip_39_word_new_br12 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower<br>genre<br>twin<br>artwork |  
+| bip_39_word_new_br2 | license<br>brother |  
+| bip_39_word_new_br3 | license<br>brother<br>fetch |  
+| bip_39_word_new_br4 | license<br>brother<br>fetch<br>able |  
+| bip_39_word_new_br5 | license<br>brother<br>fetch<br>able<br>eternal |  
+| bip_39_word_new_br6 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease |  
+| bip_39_word_new_br7 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle |  
+| bip_39_word_new_br8 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest |  
+| bip_39_word_new_br9 | license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower |  
+| bip_39_word_new_line1 | license |  
+| bip_39_word_new_line10 | license
+brother
+fetch
+able
+eternal
+decrease
+struggle
+suggest
+flower
+genre |  
+| bip_39_word_new_line11 | license
+brother
+fetch
+able
+eternal
+decrease
+struggle
+suggest
+flower
+genre
+twin |  
+| bip_39_word_new_line12 | license
+brother
+fetch
+able
+eternal
+decrease
+struggle
+suggest
+flower
+genre
+twin
+artwork |  
+| bip_39_word_new_line2 | license
+brother |  
+| bip_39_word_new_line3 | license
+brother
+fetch |  
+| bip_39_word_new_line4 | license
+brother
+fetch
+able |  
+| bip_39_word_new_line5 | license
+brother
+fetch
+able
+eternal |  
+| bip_39_word_new_line6 | license
+brother
+fetch
+able
+eternal
+decrease |  
+| bip_39_word_new_line7 | license
+brother
+fetch
+able
+eternal
+decrease
+struggle |  
+| bip_39_word_new_line8 | license
+brother
+fetch
+able
+eternal
+decrease
+struggle
+suggest |  
+| bip_39_word_new_line9 | license
+brother
+fetch
+able
+eternal
+decrease
+struggle
+suggest
+flower |  
+| bip_39_word_space_0 | ['license', 'brother', 'fetch', 'able', 'eternal', 'decrease', 'struggle', 'suggest', 'flower', 'genre', 'twin', 'artwork'] |  
+| bip_39_word_space_1 | license |  
+| bip_39_word_space_10 | license brother fetch able eternal decrease struggle suggest flower genre |  
+| bip_39_word_space_11 | license brother fetch able eternal decrease struggle suggest flower genre twin |  
+| bip_39_word_space_12 | license brother fetch able eternal decrease struggle suggest flower genre twin artwork |  
+| bip_39_word_space_2 | license brother |  
+| bip_39_word_space_3 | license brother fetch |  
+| bip_39_word_space_4 | license brother fetch able |  
+| bip_39_word_space_5 | license brother fetch able eternal |  
+| bip_39_word_space_6 | license brother fetch able eternal decrease |  
+| bip_39_word_space_7 | license brother fetch able eternal decrease struggle |  
+| bip_39_word_space_8 | license brother fetch able eternal decrease struggle suggest |  
+| bip_39_word_space_9 | license brother fetch able eternal decrease struggle suggest flower |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rebel magnet
+  * bip 39 word 3: rebel magnet uncover
+  * bip 39 word: rebel magnet uncover quarter shoe scale help noble grape later crime asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rebel |  
+| bip_39_word_new_br10 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later |  
+| bip_39_word_new_br11 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later<br>crime |  
+| bip_39_word_new_br12 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape<br>later<br>crime<br>asthma |  
+| bip_39_word_new_br2 | rebel<br>magnet |  
+| bip_39_word_new_br3 | rebel<br>magnet<br>uncover |  
+| bip_39_word_new_br4 | rebel<br>magnet<br>uncover<br>quarter |  
+| bip_39_word_new_br5 | rebel<br>magnet<br>uncover<br>quarter<br>shoe |  
+| bip_39_word_new_br6 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale |  
+| bip_39_word_new_br7 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help |  
+| bip_39_word_new_br8 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble |  
+| bip_39_word_new_br9 | rebel<br>magnet<br>uncover<br>quarter<br>shoe<br>scale<br>help<br>noble<br>grape |  
+| bip_39_word_new_line1 | rebel |  
+| bip_39_word_new_line10 | rebel
+magnet
+uncover
+quarter
+shoe
+scale
+help
+noble
+grape
+later |  
+| bip_39_word_new_line11 | rebel
+magnet
+uncover
+quarter
+shoe
+scale
+help
+noble
+grape
+later
+crime |  
+| bip_39_word_new_line12 | rebel
+magnet
+uncover
+quarter
+shoe
+scale
+help
+noble
+grape
+later
+crime
+asthma |  
+| bip_39_word_new_line2 | rebel
+magnet |  
+| bip_39_word_new_line3 | rebel
+magnet
+uncover |  
+| bip_39_word_new_line4 | rebel
+magnet
+uncover
+quarter |  
+| bip_39_word_new_line5 | rebel
+magnet
+uncover
+quarter
+shoe |  
+| bip_39_word_new_line6 | rebel
+magnet
+uncover
+quarter
+shoe
+scale |  
+| bip_39_word_new_line7 | rebel
+magnet
+uncover
+quarter
+shoe
+scale
+help |  
+| bip_39_word_new_line8 | rebel
+magnet
+uncover
+quarter
+shoe
+scale
+help
+noble |  
+| bip_39_word_new_line9 | rebel
+magnet
+uncover
+quarter
+shoe
+scale
+help
+noble
+grape |  
+| bip_39_word_space_0 | ['rebel', 'magnet', 'uncover', 'quarter', 'shoe', 'scale', 'help', 'noble', 'grape', 'later', 'crime', 'asthma'] |  
+| bip_39_word_space_1 | rebel |  
+| bip_39_word_space_10 | rebel magnet uncover quarter shoe scale help noble grape later |  
+| bip_39_word_space_11 | rebel magnet uncover quarter shoe scale help noble grape later crime |  
+| bip_39_word_space_12 | rebel magnet uncover quarter shoe scale help noble grape later crime asthma |  
+| bip_39_word_space_2 | rebel magnet |  
+| bip_39_word_space_3 | rebel magnet uncover |  
+| bip_39_word_space_4 | rebel magnet uncover quarter |  
+| bip_39_word_space_5 | rebel magnet uncover quarter shoe |  
+| bip_39_word_space_6 | rebel magnet uncover quarter shoe scale |  
+| bip_39_word_space_7 | rebel magnet uncover quarter shoe scale help |  
+| bip_39_word_space_8 | rebel magnet uncover quarter shoe scale help noble |  
+| bip_39_word_space_9 | rebel magnet uncover quarter shoe scale help noble grape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

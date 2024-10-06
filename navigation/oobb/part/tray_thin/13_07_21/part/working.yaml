@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hole
+bip_39_word_new_br10: hole<br>message<br>sweet<br>quit<br>dish<br>visual<br>address<br>fitness<br>nurse<br>arch
+bip_39_word_new_br11: hole<br>message<br>sweet<br>quit<br>dish<br>visual<br>address<br>fitness<br>nurse<br>arch<br>cotton
+bip_39_word_new_br12: hole<br>message<br>sweet<br>quit<br>dish<br>visual<br>address<br>fitness<br>nurse<br>arch<br>cotton<br>actor
+bip_39_word_new_br2: hole<br>message
+bip_39_word_new_br3: hole<br>message<br>sweet
+bip_39_word_new_br4: hole<br>message<br>sweet<br>quit
+bip_39_word_new_br5: hole<br>message<br>sweet<br>quit<br>dish
+bip_39_word_new_br6: hole<br>message<br>sweet<br>quit<br>dish<br>visual
+bip_39_word_new_br7: hole<br>message<br>sweet<br>quit<br>dish<br>visual<br>address
+bip_39_word_new_br8: hole<br>message<br>sweet<br>quit<br>dish<br>visual<br>address<br>fitness
+bip_39_word_new_br9: hole<br>message<br>sweet<br>quit<br>dish<br>visual<br>address<br>fitness<br>nurse
+bip_39_word_new_line1: hole
+bip_39_word_new_line10: 'hole
+
+  message
+
+  sweet
+
+  quit
+
+  dish
+
+  visual
+
+  address
+
+  fitness
+
+  nurse
+
+  arch'
+bip_39_word_new_line11: 'hole
+
+  message
+
+  sweet
+
+  quit
+
+  dish
+
+  visual
+
+  address
+
+  fitness
+
+  nurse
+
+  arch
+
+  cotton'
+bip_39_word_new_line12: 'hole
+
+  message
+
+  sweet
+
+  quit
+
+  dish
+
+  visual
+
+  address
+
+  fitness
+
+  nurse
+
+  arch
+
+  cotton
+
+  actor'
+bip_39_word_new_line2: 'hole
+
+  message'
+bip_39_word_new_line3: 'hole
+
+  message
+
+  sweet'
+bip_39_word_new_line4: 'hole
+
+  message
+
+  sweet
+
+  quit'
+bip_39_word_new_line5: 'hole
+
+  message
+
+  sweet
+
+  quit
+
+  dish'
+bip_39_word_new_line6: 'hole
+
+  message
+
+  sweet
+
+  quit
+
+  dish
+
+  visual'
+bip_39_word_new_line7: 'hole
+
+  message
+
+  sweet
+
+  quit
+
+  dish
+
+  visual
+
+  address'
+bip_39_word_new_line8: 'hole
+
+  message
+
+  sweet
+
+  quit
+
+  dish
+
+  visual
+
+  address
+
+  fitness'
+bip_39_word_new_line9: 'hole
+
+  message
+
+  sweet
+
+  quit
+
+  dish
+
+  visual
+
+  address
+
+  fitness
+
+  nurse'
+bip_39_word_space_0:
+- hole
+- message
+- sweet
+- quit
+- dish
+- visual
+- address
+- fitness
+- nurse
+- arch
+- cotton
+- actor
+bip_39_word_space_1: hole
+bip_39_word_space_10: hole message sweet quit dish visual address fitness nurse arch
+bip_39_word_space_11: hole message sweet quit dish visual address fitness nurse arch
+  cotton
+bip_39_word_space_12: hole message sweet quit dish visual address fitness nurse arch
+  cotton actor
+bip_39_word_space_2: hole message
+bip_39_word_space_3: hole message sweet
+bip_39_word_space_4: hole message sweet quit
+bip_39_word_space_5: hole message sweet quit dish
+bip_39_word_space_6: hole message sweet quit dish visual
+bip_39_word_space_7: hole message sweet quit dish visual address
+bip_39_word_space_8: hole message sweet quit dish visual address fitness
+bip_39_word_space_9: hole message sweet quit dish visual address fitness nurse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bench parade
+  * bip 39 word 3: bench parade mouse
+  * bip 39 word: bench parade mouse image equal symbol weird slush swing diary perfect affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bench |  
+| bip_39_word_new_br10 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol<br>weird<br>slush<br>swing<br>diary |  
+| bip_39_word_new_br11 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol<br>weird<br>slush<br>swing<br>diary<br>perfect |  
+| bip_39_word_new_br12 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol<br>weird<br>slush<br>swing<br>diary<br>perfect<br>affair |  
+| bip_39_word_new_br2 | bench<br>parade |  
+| bip_39_word_new_br3 | bench<br>parade<br>mouse |  
+| bip_39_word_new_br4 | bench<br>parade<br>mouse<br>image |  
+| bip_39_word_new_br5 | bench<br>parade<br>mouse<br>image<br>equal |  
+| bip_39_word_new_br6 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol |  
+| bip_39_word_new_br7 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol<br>weird |  
+| bip_39_word_new_br8 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol<br>weird<br>slush |  
+| bip_39_word_new_br9 | bench<br>parade<br>mouse<br>image<br>equal<br>symbol<br>weird<br>slush<br>swing |  
+| bip_39_word_new_line1 | bench |  
+| bip_39_word_new_line10 | bench
+parade
+mouse
+image
+equal
+symbol
+weird
+slush
+swing
+diary |  
+| bip_39_word_new_line11 | bench
+parade
+mouse
+image
+equal
+symbol
+weird
+slush
+swing
+diary
+perfect |  
+| bip_39_word_new_line12 | bench
+parade
+mouse
+image
+equal
+symbol
+weird
+slush
+swing
+diary
+perfect
+affair |  
+| bip_39_word_new_line2 | bench
+parade |  
+| bip_39_word_new_line3 | bench
+parade
+mouse |  
+| bip_39_word_new_line4 | bench
+parade
+mouse
+image |  
+| bip_39_word_new_line5 | bench
+parade
+mouse
+image
+equal |  
+| bip_39_word_new_line6 | bench
+parade
+mouse
+image
+equal
+symbol |  
+| bip_39_word_new_line7 | bench
+parade
+mouse
+image
+equal
+symbol
+weird |  
+| bip_39_word_new_line8 | bench
+parade
+mouse
+image
+equal
+symbol
+weird
+slush |  
+| bip_39_word_new_line9 | bench
+parade
+mouse
+image
+equal
+symbol
+weird
+slush
+swing |  
+| bip_39_word_space_0 | ['bench', 'parade', 'mouse', 'image', 'equal', 'symbol', 'weird', 'slush', 'swing', 'diary', 'perfect', 'affair'] |  
+| bip_39_word_space_1 | bench |  
+| bip_39_word_space_10 | bench parade mouse image equal symbol weird slush swing diary |  
+| bip_39_word_space_11 | bench parade mouse image equal symbol weird slush swing diary perfect |  
+| bip_39_word_space_12 | bench parade mouse image equal symbol weird slush swing diary perfect affair |  
+| bip_39_word_space_2 | bench parade |  
+| bip_39_word_space_3 | bench parade mouse |  
+| bip_39_word_space_4 | bench parade mouse image |  
+| bip_39_word_space_5 | bench parade mouse image equal |  
+| bip_39_word_space_6 | bench parade mouse image equal symbol |  
+| bip_39_word_space_7 | bench parade mouse image equal symbol weird |  
+| bip_39_word_space_8 | bench parade mouse image equal symbol weird slush |  
+| bip_39_word_space_9 | bench parade mouse image equal symbol weird slush swing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

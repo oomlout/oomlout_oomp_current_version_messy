@@ -1,3 +1,188 @@
+bip_39_word_new_br1: material
+bip_39_word_new_br10: material<br>nature<br>purchase<br>cereal<br>south<br>response<br>defense<br>together<br>laundry<br>blast
+bip_39_word_new_br11: material<br>nature<br>purchase<br>cereal<br>south<br>response<br>defense<br>together<br>laundry<br>blast<br>blade
+bip_39_word_new_br12: material<br>nature<br>purchase<br>cereal<br>south<br>response<br>defense<br>together<br>laundry<br>blast<br>blade<br>address
+bip_39_word_new_br2: material<br>nature
+bip_39_word_new_br3: material<br>nature<br>purchase
+bip_39_word_new_br4: material<br>nature<br>purchase<br>cereal
+bip_39_word_new_br5: material<br>nature<br>purchase<br>cereal<br>south
+bip_39_word_new_br6: material<br>nature<br>purchase<br>cereal<br>south<br>response
+bip_39_word_new_br7: material<br>nature<br>purchase<br>cereal<br>south<br>response<br>defense
+bip_39_word_new_br8: material<br>nature<br>purchase<br>cereal<br>south<br>response<br>defense<br>together
+bip_39_word_new_br9: material<br>nature<br>purchase<br>cereal<br>south<br>response<br>defense<br>together<br>laundry
+bip_39_word_new_line1: material
+bip_39_word_new_line10: 'material
+
+  nature
+
+  purchase
+
+  cereal
+
+  south
+
+  response
+
+  defense
+
+  together
+
+  laundry
+
+  blast'
+bip_39_word_new_line11: 'material
+
+  nature
+
+  purchase
+
+  cereal
+
+  south
+
+  response
+
+  defense
+
+  together
+
+  laundry
+
+  blast
+
+  blade'
+bip_39_word_new_line12: 'material
+
+  nature
+
+  purchase
+
+  cereal
+
+  south
+
+  response
+
+  defense
+
+  together
+
+  laundry
+
+  blast
+
+  blade
+
+  address'
+bip_39_word_new_line2: 'material
+
+  nature'
+bip_39_word_new_line3: 'material
+
+  nature
+
+  purchase'
+bip_39_word_new_line4: 'material
+
+  nature
+
+  purchase
+
+  cereal'
+bip_39_word_new_line5: 'material
+
+  nature
+
+  purchase
+
+  cereal
+
+  south'
+bip_39_word_new_line6: 'material
+
+  nature
+
+  purchase
+
+  cereal
+
+  south
+
+  response'
+bip_39_word_new_line7: 'material
+
+  nature
+
+  purchase
+
+  cereal
+
+  south
+
+  response
+
+  defense'
+bip_39_word_new_line8: 'material
+
+  nature
+
+  purchase
+
+  cereal
+
+  south
+
+  response
+
+  defense
+
+  together'
+bip_39_word_new_line9: 'material
+
+  nature
+
+  purchase
+
+  cereal
+
+  south
+
+  response
+
+  defense
+
+  together
+
+  laundry'
+bip_39_word_space_0:
+- material
+- nature
+- purchase
+- cereal
+- south
+- response
+- defense
+- together
+- laundry
+- blast
+- blade
+- address
+bip_39_word_space_1: material
+bip_39_word_space_10: material nature purchase cereal south response defense together
+  laundry blast
+bip_39_word_space_11: material nature purchase cereal south response defense together
+  laundry blast blade
+bip_39_word_space_12: material nature purchase cereal south response defense together
+  laundry blast blade address
+bip_39_word_space_2: material nature
+bip_39_word_space_3: material nature purchase
+bip_39_word_space_4: material nature purchase cereal
+bip_39_word_space_5: material nature purchase cereal south
+bip_39_word_space_6: material nature purchase cereal south response
+bip_39_word_space_7: material nature purchase cereal south response defense
+bip_39_word_space_8: material nature purchase cereal south response defense together
+bip_39_word_space_9: material nature purchase cereal south response defense together
+  laundry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

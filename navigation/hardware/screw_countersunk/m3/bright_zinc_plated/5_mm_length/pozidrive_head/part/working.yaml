@@ -1,3 +1,187 @@
+bip_39_word_new_br1: world
+bip_39_word_new_br10: world<br>prosper<br>midnight<br>property<br>find<br>kick<br>axis<br>sustain<br>news<br>bottom
+bip_39_word_new_br11: world<br>prosper<br>midnight<br>property<br>find<br>kick<br>axis<br>sustain<br>news<br>bottom<br>goddess
+bip_39_word_new_br12: world<br>prosper<br>midnight<br>property<br>find<br>kick<br>axis<br>sustain<br>news<br>bottom<br>goddess<br>arrange
+bip_39_word_new_br2: world<br>prosper
+bip_39_word_new_br3: world<br>prosper<br>midnight
+bip_39_word_new_br4: world<br>prosper<br>midnight<br>property
+bip_39_word_new_br5: world<br>prosper<br>midnight<br>property<br>find
+bip_39_word_new_br6: world<br>prosper<br>midnight<br>property<br>find<br>kick
+bip_39_word_new_br7: world<br>prosper<br>midnight<br>property<br>find<br>kick<br>axis
+bip_39_word_new_br8: world<br>prosper<br>midnight<br>property<br>find<br>kick<br>axis<br>sustain
+bip_39_word_new_br9: world<br>prosper<br>midnight<br>property<br>find<br>kick<br>axis<br>sustain<br>news
+bip_39_word_new_line1: world
+bip_39_word_new_line10: 'world
+
+  prosper
+
+  midnight
+
+  property
+
+  find
+
+  kick
+
+  axis
+
+  sustain
+
+  news
+
+  bottom'
+bip_39_word_new_line11: 'world
+
+  prosper
+
+  midnight
+
+  property
+
+  find
+
+  kick
+
+  axis
+
+  sustain
+
+  news
+
+  bottom
+
+  goddess'
+bip_39_word_new_line12: 'world
+
+  prosper
+
+  midnight
+
+  property
+
+  find
+
+  kick
+
+  axis
+
+  sustain
+
+  news
+
+  bottom
+
+  goddess
+
+  arrange'
+bip_39_word_new_line2: 'world
+
+  prosper'
+bip_39_word_new_line3: 'world
+
+  prosper
+
+  midnight'
+bip_39_word_new_line4: 'world
+
+  prosper
+
+  midnight
+
+  property'
+bip_39_word_new_line5: 'world
+
+  prosper
+
+  midnight
+
+  property
+
+  find'
+bip_39_word_new_line6: 'world
+
+  prosper
+
+  midnight
+
+  property
+
+  find
+
+  kick'
+bip_39_word_new_line7: 'world
+
+  prosper
+
+  midnight
+
+  property
+
+  find
+
+  kick
+
+  axis'
+bip_39_word_new_line8: 'world
+
+  prosper
+
+  midnight
+
+  property
+
+  find
+
+  kick
+
+  axis
+
+  sustain'
+bip_39_word_new_line9: 'world
+
+  prosper
+
+  midnight
+
+  property
+
+  find
+
+  kick
+
+  axis
+
+  sustain
+
+  news'
+bip_39_word_space_0:
+- world
+- prosper
+- midnight
+- property
+- find
+- kick
+- axis
+- sustain
+- news
+- bottom
+- goddess
+- arrange
+bip_39_word_space_1: world
+bip_39_word_space_10: world prosper midnight property find kick axis sustain news
+  bottom
+bip_39_word_space_11: world prosper midnight property find kick axis sustain news
+  bottom goddess
+bip_39_word_space_12: world prosper midnight property find kick axis sustain news
+  bottom goddess arrange
+bip_39_word_space_2: world prosper
+bip_39_word_space_3: world prosper midnight
+bip_39_word_space_4: world prosper midnight property
+bip_39_word_space_5: world prosper midnight property find
+bip_39_word_space_6: world prosper midnight property find kick
+bip_39_word_space_7: world prosper midnight property find kick axis
+bip_39_word_space_8: world prosper midnight property find kick axis sustain
+bip_39_word_space_9: world prosper midnight property find kick axis sustain news
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

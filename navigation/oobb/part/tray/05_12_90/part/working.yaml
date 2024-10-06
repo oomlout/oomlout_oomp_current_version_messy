@@ -1,3 +1,185 @@
+bip_39_word_new_br1: casual
+bip_39_word_new_br10: casual<br>portion<br>canvas<br>dash<br>put<br>badge<br>alone<br>hill<br>help<br>long
+bip_39_word_new_br11: casual<br>portion<br>canvas<br>dash<br>put<br>badge<br>alone<br>hill<br>help<br>long<br>priority
+bip_39_word_new_br12: casual<br>portion<br>canvas<br>dash<br>put<br>badge<br>alone<br>hill<br>help<br>long<br>priority<br>across
+bip_39_word_new_br2: casual<br>portion
+bip_39_word_new_br3: casual<br>portion<br>canvas
+bip_39_word_new_br4: casual<br>portion<br>canvas<br>dash
+bip_39_word_new_br5: casual<br>portion<br>canvas<br>dash<br>put
+bip_39_word_new_br6: casual<br>portion<br>canvas<br>dash<br>put<br>badge
+bip_39_word_new_br7: casual<br>portion<br>canvas<br>dash<br>put<br>badge<br>alone
+bip_39_word_new_br8: casual<br>portion<br>canvas<br>dash<br>put<br>badge<br>alone<br>hill
+bip_39_word_new_br9: casual<br>portion<br>canvas<br>dash<br>put<br>badge<br>alone<br>hill<br>help
+bip_39_word_new_line1: casual
+bip_39_word_new_line10: 'casual
+
+  portion
+
+  canvas
+
+  dash
+
+  put
+
+  badge
+
+  alone
+
+  hill
+
+  help
+
+  long'
+bip_39_word_new_line11: 'casual
+
+  portion
+
+  canvas
+
+  dash
+
+  put
+
+  badge
+
+  alone
+
+  hill
+
+  help
+
+  long
+
+  priority'
+bip_39_word_new_line12: 'casual
+
+  portion
+
+  canvas
+
+  dash
+
+  put
+
+  badge
+
+  alone
+
+  hill
+
+  help
+
+  long
+
+  priority
+
+  across'
+bip_39_word_new_line2: 'casual
+
+  portion'
+bip_39_word_new_line3: 'casual
+
+  portion
+
+  canvas'
+bip_39_word_new_line4: 'casual
+
+  portion
+
+  canvas
+
+  dash'
+bip_39_word_new_line5: 'casual
+
+  portion
+
+  canvas
+
+  dash
+
+  put'
+bip_39_word_new_line6: 'casual
+
+  portion
+
+  canvas
+
+  dash
+
+  put
+
+  badge'
+bip_39_word_new_line7: 'casual
+
+  portion
+
+  canvas
+
+  dash
+
+  put
+
+  badge
+
+  alone'
+bip_39_word_new_line8: 'casual
+
+  portion
+
+  canvas
+
+  dash
+
+  put
+
+  badge
+
+  alone
+
+  hill'
+bip_39_word_new_line9: 'casual
+
+  portion
+
+  canvas
+
+  dash
+
+  put
+
+  badge
+
+  alone
+
+  hill
+
+  help'
+bip_39_word_space_0:
+- casual
+- portion
+- canvas
+- dash
+- put
+- badge
+- alone
+- hill
+- help
+- long
+- priority
+- across
+bip_39_word_space_1: casual
+bip_39_word_space_10: casual portion canvas dash put badge alone hill help long
+bip_39_word_space_11: casual portion canvas dash put badge alone hill help long priority
+bip_39_word_space_12: casual portion canvas dash put badge alone hill help long priority
+  across
+bip_39_word_space_2: casual portion
+bip_39_word_space_3: casual portion canvas
+bip_39_word_space_4: casual portion canvas dash
+bip_39_word_space_5: casual portion canvas dash put
+bip_39_word_space_6: casual portion canvas dash put badge
+bip_39_word_space_7: casual portion canvas dash put badge alone
+bip_39_word_space_8: casual portion canvas dash put badge alone hill
+bip_39_word_space_9: casual portion canvas dash put badge alone hill help
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bus stock
+  * bip 39 word 3: bus stock square
+  * bip 39 word: bus stock square walk elbow soup river tired salute post nose announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bus |  
+| bip_39_word_new_br10 | bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post |  
+| bip_39_word_new_br11 | bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose |  
+| bip_39_word_new_br12 | bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose<br>announce |  
+| bip_39_word_new_br2 | bus<br>stock |  
+| bip_39_word_new_br3 | bus<br>stock<br>square |  
+| bip_39_word_new_br4 | bus<br>stock<br>square<br>walk |  
+| bip_39_word_new_br5 | bus<br>stock<br>square<br>walk<br>elbow |  
+| bip_39_word_new_br6 | bus<br>stock<br>square<br>walk<br>elbow<br>soup |  
+| bip_39_word_new_br7 | bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river |  
+| bip_39_word_new_br8 | bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired |  
+| bip_39_word_new_br9 | bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute |  
+| bip_39_word_new_line1 | bus |  
+| bip_39_word_new_line10 | bus
+stock
+square
+walk
+elbow
+soup
+river
+tired
+salute
+post |  
+| bip_39_word_new_line11 | bus
+stock
+square
+walk
+elbow
+soup
+river
+tired
+salute
+post
+nose |  
+| bip_39_word_new_line12 | bus
+stock
+square
+walk
+elbow
+soup
+river
+tired
+salute
+post
+nose
+announce |  
+| bip_39_word_new_line2 | bus
+stock |  
+| bip_39_word_new_line3 | bus
+stock
+square |  
+| bip_39_word_new_line4 | bus
+stock
+square
+walk |  
+| bip_39_word_new_line5 | bus
+stock
+square
+walk
+elbow |  
+| bip_39_word_new_line6 | bus
+stock
+square
+walk
+elbow
+soup |  
+| bip_39_word_new_line7 | bus
+stock
+square
+walk
+elbow
+soup
+river |  
+| bip_39_word_new_line8 | bus
+stock
+square
+walk
+elbow
+soup
+river
+tired |  
+| bip_39_word_new_line9 | bus
+stock
+square
+walk
+elbow
+soup
+river
+tired
+salute |  
+| bip_39_word_space_0 | ['bus', 'stock', 'square', 'walk', 'elbow', 'soup', 'river', 'tired', 'salute', 'post', 'nose', 'announce'] |  
+| bip_39_word_space_1 | bus |  
+| bip_39_word_space_10 | bus stock square walk elbow soup river tired salute post |  
+| bip_39_word_space_11 | bus stock square walk elbow soup river tired salute post nose |  
+| bip_39_word_space_12 | bus stock square walk elbow soup river tired salute post nose announce |  
+| bip_39_word_space_2 | bus stock |  
+| bip_39_word_space_3 | bus stock square |  
+| bip_39_word_space_4 | bus stock square walk |  
+| bip_39_word_space_5 | bus stock square walk elbow |  
+| bip_39_word_space_6 | bus stock square walk elbow soup |  
+| bip_39_word_space_7 | bus stock square walk elbow soup river |  
+| bip_39_word_space_8 | bus stock square walk elbow soup river tired |  
+| bip_39_word_space_9 | bus stock square walk elbow soup river tired salute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

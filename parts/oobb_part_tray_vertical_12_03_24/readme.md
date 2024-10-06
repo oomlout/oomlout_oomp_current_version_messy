@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: load tonight
+  * bip 39 word 3: load tonight stuff
+  * bip 39 word: load tonight stuff argue brain devote table cactus between boil key accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | load |  
+| bip_39_word_new_br10 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote<br>table<br>cactus<br>between<br>boil |  
+| bip_39_word_new_br11 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote<br>table<br>cactus<br>between<br>boil<br>key |  
+| bip_39_word_new_br12 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote<br>table<br>cactus<br>between<br>boil<br>key<br>accuse |  
+| bip_39_word_new_br2 | load<br>tonight |  
+| bip_39_word_new_br3 | load<br>tonight<br>stuff |  
+| bip_39_word_new_br4 | load<br>tonight<br>stuff<br>argue |  
+| bip_39_word_new_br5 | load<br>tonight<br>stuff<br>argue<br>brain |  
+| bip_39_word_new_br6 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote |  
+| bip_39_word_new_br7 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote<br>table |  
+| bip_39_word_new_br8 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote<br>table<br>cactus |  
+| bip_39_word_new_br9 | load<br>tonight<br>stuff<br>argue<br>brain<br>devote<br>table<br>cactus<br>between |  
+| bip_39_word_new_line1 | load |  
+| bip_39_word_new_line10 | load
+tonight
+stuff
+argue
+brain
+devote
+table
+cactus
+between
+boil |  
+| bip_39_word_new_line11 | load
+tonight
+stuff
+argue
+brain
+devote
+table
+cactus
+between
+boil
+key |  
+| bip_39_word_new_line12 | load
+tonight
+stuff
+argue
+brain
+devote
+table
+cactus
+between
+boil
+key
+accuse |  
+| bip_39_word_new_line2 | load
+tonight |  
+| bip_39_word_new_line3 | load
+tonight
+stuff |  
+| bip_39_word_new_line4 | load
+tonight
+stuff
+argue |  
+| bip_39_word_new_line5 | load
+tonight
+stuff
+argue
+brain |  
+| bip_39_word_new_line6 | load
+tonight
+stuff
+argue
+brain
+devote |  
+| bip_39_word_new_line7 | load
+tonight
+stuff
+argue
+brain
+devote
+table |  
+| bip_39_word_new_line8 | load
+tonight
+stuff
+argue
+brain
+devote
+table
+cactus |  
+| bip_39_word_new_line9 | load
+tonight
+stuff
+argue
+brain
+devote
+table
+cactus
+between |  
+| bip_39_word_space_0 | ['load', 'tonight', 'stuff', 'argue', 'brain', 'devote', 'table', 'cactus', 'between', 'boil', 'key', 'accuse'] |  
+| bip_39_word_space_1 | load |  
+| bip_39_word_space_10 | load tonight stuff argue brain devote table cactus between boil |  
+| bip_39_word_space_11 | load tonight stuff argue brain devote table cactus between boil key |  
+| bip_39_word_space_12 | load tonight stuff argue brain devote table cactus between boil key accuse |  
+| bip_39_word_space_2 | load tonight |  
+| bip_39_word_space_3 | load tonight stuff |  
+| bip_39_word_space_4 | load tonight stuff argue |  
+| bip_39_word_space_5 | load tonight stuff argue brain |  
+| bip_39_word_space_6 | load tonight stuff argue brain devote |  
+| bip_39_word_space_7 | load tonight stuff argue brain devote table |  
+| bip_39_word_space_8 | load tonight stuff argue brain devote table cactus |  
+| bip_39_word_space_9 | load tonight stuff argue brain devote table cactus between |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

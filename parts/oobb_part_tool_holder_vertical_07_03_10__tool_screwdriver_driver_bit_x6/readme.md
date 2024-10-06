@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_screwdriver_driver_bit_x6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: merit leader
+  * bip 39 word 3: merit leader sell
+  * bip 39 word: merit leader sell farm mammal fancy state nominee pen pepper north arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | merit |  
+| bip_39_word_new_br10 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy<br>state<br>nominee<br>pen<br>pepper |  
+| bip_39_word_new_br11 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy<br>state<br>nominee<br>pen<br>pepper<br>north |  
+| bip_39_word_new_br12 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy<br>state<br>nominee<br>pen<br>pepper<br>north<br>arrest |  
+| bip_39_word_new_br2 | merit<br>leader |  
+| bip_39_word_new_br3 | merit<br>leader<br>sell |  
+| bip_39_word_new_br4 | merit<br>leader<br>sell<br>farm |  
+| bip_39_word_new_br5 | merit<br>leader<br>sell<br>farm<br>mammal |  
+| bip_39_word_new_br6 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy |  
+| bip_39_word_new_br7 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy<br>state |  
+| bip_39_word_new_br8 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy<br>state<br>nominee |  
+| bip_39_word_new_br9 | merit<br>leader<br>sell<br>farm<br>mammal<br>fancy<br>state<br>nominee<br>pen |  
+| bip_39_word_new_line1 | merit |  
+| bip_39_word_new_line10 | merit
+leader
+sell
+farm
+mammal
+fancy
+state
+nominee
+pen
+pepper |  
+| bip_39_word_new_line11 | merit
+leader
+sell
+farm
+mammal
+fancy
+state
+nominee
+pen
+pepper
+north |  
+| bip_39_word_new_line12 | merit
+leader
+sell
+farm
+mammal
+fancy
+state
+nominee
+pen
+pepper
+north
+arrest |  
+| bip_39_word_new_line2 | merit
+leader |  
+| bip_39_word_new_line3 | merit
+leader
+sell |  
+| bip_39_word_new_line4 | merit
+leader
+sell
+farm |  
+| bip_39_word_new_line5 | merit
+leader
+sell
+farm
+mammal |  
+| bip_39_word_new_line6 | merit
+leader
+sell
+farm
+mammal
+fancy |  
+| bip_39_word_new_line7 | merit
+leader
+sell
+farm
+mammal
+fancy
+state |  
+| bip_39_word_new_line8 | merit
+leader
+sell
+farm
+mammal
+fancy
+state
+nominee |  
+| bip_39_word_new_line9 | merit
+leader
+sell
+farm
+mammal
+fancy
+state
+nominee
+pen |  
+| bip_39_word_space_0 | ['merit', 'leader', 'sell', 'farm', 'mammal', 'fancy', 'state', 'nominee', 'pen', 'pepper', 'north', 'arrest'] |  
+| bip_39_word_space_1 | merit |  
+| bip_39_word_space_10 | merit leader sell farm mammal fancy state nominee pen pepper |  
+| bip_39_word_space_11 | merit leader sell farm mammal fancy state nominee pen pepper north |  
+| bip_39_word_space_12 | merit leader sell farm mammal fancy state nominee pen pepper north arrest |  
+| bip_39_word_space_2 | merit leader |  
+| bip_39_word_space_3 | merit leader sell |  
+| bip_39_word_space_4 | merit leader sell farm |  
+| bip_39_word_space_5 | merit leader sell farm mammal |  
+| bip_39_word_space_6 | merit leader sell farm mammal fancy |  
+| bip_39_word_space_7 | merit leader sell farm mammal fancy state |  
+| bip_39_word_space_8 | merit leader sell farm mammal fancy state nominee |  
+| bip_39_word_space_9 | merit leader sell farm mammal fancy state nominee pen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

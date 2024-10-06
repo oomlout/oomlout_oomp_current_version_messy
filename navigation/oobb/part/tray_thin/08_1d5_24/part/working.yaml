@@ -1,3 +1,186 @@
+bip_39_word_new_br1: reveal
+bip_39_word_new_br10: reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop
+bip_39_word_new_br11: reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop<br>ship
+bip_39_word_new_br12: reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert<br>develop<br>ship<br>army
+bip_39_word_new_br2: reveal<br>note
+bip_39_word_new_br3: reveal<br>note<br>almost
+bip_39_word_new_br4: reveal<br>note<br>almost<br>employ
+bip_39_word_new_br5: reveal<br>note<br>almost<br>employ<br>today
+bip_39_word_new_br6: reveal<br>note<br>almost<br>employ<br>today<br>web
+bip_39_word_new_br7: reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle
+bip_39_word_new_br8: reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father
+bip_39_word_new_br9: reveal<br>note<br>almost<br>employ<br>today<br>web<br>bicycle<br>father<br>alert
+bip_39_word_new_line1: reveal
+bip_39_word_new_line10: 'reveal
+
+  note
+
+  almost
+
+  employ
+
+  today
+
+  web
+
+  bicycle
+
+  father
+
+  alert
+
+  develop'
+bip_39_word_new_line11: 'reveal
+
+  note
+
+  almost
+
+  employ
+
+  today
+
+  web
+
+  bicycle
+
+  father
+
+  alert
+
+  develop
+
+  ship'
+bip_39_word_new_line12: 'reveal
+
+  note
+
+  almost
+
+  employ
+
+  today
+
+  web
+
+  bicycle
+
+  father
+
+  alert
+
+  develop
+
+  ship
+
+  army'
+bip_39_word_new_line2: 'reveal
+
+  note'
+bip_39_word_new_line3: 'reveal
+
+  note
+
+  almost'
+bip_39_word_new_line4: 'reveal
+
+  note
+
+  almost
+
+  employ'
+bip_39_word_new_line5: 'reveal
+
+  note
+
+  almost
+
+  employ
+
+  today'
+bip_39_word_new_line6: 'reveal
+
+  note
+
+  almost
+
+  employ
+
+  today
+
+  web'
+bip_39_word_new_line7: 'reveal
+
+  note
+
+  almost
+
+  employ
+
+  today
+
+  web
+
+  bicycle'
+bip_39_word_new_line8: 'reveal
+
+  note
+
+  almost
+
+  employ
+
+  today
+
+  web
+
+  bicycle
+
+  father'
+bip_39_word_new_line9: 'reveal
+
+  note
+
+  almost
+
+  employ
+
+  today
+
+  web
+
+  bicycle
+
+  father
+
+  alert'
+bip_39_word_space_0:
+- reveal
+- note
+- almost
+- employ
+- today
+- web
+- bicycle
+- father
+- alert
+- develop
+- ship
+- army
+bip_39_word_space_1: reveal
+bip_39_word_space_10: reveal note almost employ today web bicycle father alert develop
+bip_39_word_space_11: reveal note almost employ today web bicycle father alert develop
+  ship
+bip_39_word_space_12: reveal note almost employ today web bicycle father alert develop
+  ship army
+bip_39_word_space_2: reveal note
+bip_39_word_space_3: reveal note almost
+bip_39_word_space_4: reveal note almost employ
+bip_39_word_space_5: reveal note almost employ today
+bip_39_word_space_6: reveal note almost employ today web
+bip_39_word_space_7: reveal note almost employ today web bicycle
+bip_39_word_space_8: reveal note almost employ today web bicycle father
+bip_39_word_space_9: reveal note almost employ today web bicycle father alert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jaguar unique
+  * bip 39 word 3: jaguar unique echo
+  * bip 39 word: jaguar unique echo sustain sample universe glide cream cradle snow thank across
 
 ### other_codes
 * short_code: sc3b18h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jaguar |  
+| bip_39_word_new_br10 | jaguar<br>unique<br>echo<br>sustain<br>sample<br>universe<br>glide<br>cream<br>cradle<br>snow |  
+| bip_39_word_new_br11 | jaguar<br>unique<br>echo<br>sustain<br>sample<br>universe<br>glide<br>cream<br>cradle<br>snow<br>thank |  
+| bip_39_word_new_br12 | jaguar<br>unique<br>echo<br>sustain<br>sample<br>universe<br>glide<br>cream<br>cradle<br>snow<br>thank<br>across |  
+| bip_39_word_new_br2 | jaguar<br>unique |  
+| bip_39_word_new_br3 | jaguar<br>unique<br>echo |  
+| bip_39_word_new_br4 | jaguar<br>unique<br>echo<br>sustain |  
+| bip_39_word_new_br5 | jaguar<br>unique<br>echo<br>sustain<br>sample |  
+| bip_39_word_new_br6 | jaguar<br>unique<br>echo<br>sustain<br>sample<br>universe |  
+| bip_39_word_new_br7 | jaguar<br>unique<br>echo<br>sustain<br>sample<br>universe<br>glide |  
+| bip_39_word_new_br8 | jaguar<br>unique<br>echo<br>sustain<br>sample<br>universe<br>glide<br>cream |  
+| bip_39_word_new_br9 | jaguar<br>unique<br>echo<br>sustain<br>sample<br>universe<br>glide<br>cream<br>cradle |  
+| bip_39_word_new_line1 | jaguar |  
+| bip_39_word_new_line10 | jaguar
+unique
+echo
+sustain
+sample
+universe
+glide
+cream
+cradle
+snow |  
+| bip_39_word_new_line11 | jaguar
+unique
+echo
+sustain
+sample
+universe
+glide
+cream
+cradle
+snow
+thank |  
+| bip_39_word_new_line12 | jaguar
+unique
+echo
+sustain
+sample
+universe
+glide
+cream
+cradle
+snow
+thank
+across |  
+| bip_39_word_new_line2 | jaguar
+unique |  
+| bip_39_word_new_line3 | jaguar
+unique
+echo |  
+| bip_39_word_new_line4 | jaguar
+unique
+echo
+sustain |  
+| bip_39_word_new_line5 | jaguar
+unique
+echo
+sustain
+sample |  
+| bip_39_word_new_line6 | jaguar
+unique
+echo
+sustain
+sample
+universe |  
+| bip_39_word_new_line7 | jaguar
+unique
+echo
+sustain
+sample
+universe
+glide |  
+| bip_39_word_new_line8 | jaguar
+unique
+echo
+sustain
+sample
+universe
+glide
+cream |  
+| bip_39_word_new_line9 | jaguar
+unique
+echo
+sustain
+sample
+universe
+glide
+cream
+cradle |  
+| bip_39_word_space_0 | ['jaguar', 'unique', 'echo', 'sustain', 'sample', 'universe', 'glide', 'cream', 'cradle', 'snow', 'thank', 'across'] |  
+| bip_39_word_space_1 | jaguar |  
+| bip_39_word_space_10 | jaguar unique echo sustain sample universe glide cream cradle snow |  
+| bip_39_word_space_11 | jaguar unique echo sustain sample universe glide cream cradle snow thank |  
+| bip_39_word_space_12 | jaguar unique echo sustain sample universe glide cream cradle snow thank across |  
+| bip_39_word_space_2 | jaguar unique |  
+| bip_39_word_space_3 | jaguar unique echo |  
+| bip_39_word_space_4 | jaguar unique echo sustain |  
+| bip_39_word_space_5 | jaguar unique echo sustain sample |  
+| bip_39_word_space_6 | jaguar unique echo sustain sample universe |  
+| bip_39_word_space_7 | jaguar unique echo sustain sample universe glide |  
+| bip_39_word_space_8 | jaguar unique echo sustain sample universe glide cream |  
+| bip_39_word_space_9 | jaguar unique echo sustain sample universe glide cream cradle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

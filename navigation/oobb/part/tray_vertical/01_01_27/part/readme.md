@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: what symptom
+  * bip 39 word 3: what symptom tilt
+  * bip 39 word: what symptom tilt mountain word reform grass kid fiction wrong execute analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | what |  
+| bip_39_word_new_br10 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform<br>grass<br>kid<br>fiction<br>wrong |  
+| bip_39_word_new_br11 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform<br>grass<br>kid<br>fiction<br>wrong<br>execute |  
+| bip_39_word_new_br12 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform<br>grass<br>kid<br>fiction<br>wrong<br>execute<br>analyst |  
+| bip_39_word_new_br2 | what<br>symptom |  
+| bip_39_word_new_br3 | what<br>symptom<br>tilt |  
+| bip_39_word_new_br4 | what<br>symptom<br>tilt<br>mountain |  
+| bip_39_word_new_br5 | what<br>symptom<br>tilt<br>mountain<br>word |  
+| bip_39_word_new_br6 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform |  
+| bip_39_word_new_br7 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform<br>grass |  
+| bip_39_word_new_br8 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform<br>grass<br>kid |  
+| bip_39_word_new_br9 | what<br>symptom<br>tilt<br>mountain<br>word<br>reform<br>grass<br>kid<br>fiction |  
+| bip_39_word_new_line1 | what |  
+| bip_39_word_new_line10 | what
+symptom
+tilt
+mountain
+word
+reform
+grass
+kid
+fiction
+wrong |  
+| bip_39_word_new_line11 | what
+symptom
+tilt
+mountain
+word
+reform
+grass
+kid
+fiction
+wrong
+execute |  
+| bip_39_word_new_line12 | what
+symptom
+tilt
+mountain
+word
+reform
+grass
+kid
+fiction
+wrong
+execute
+analyst |  
+| bip_39_word_new_line2 | what
+symptom |  
+| bip_39_word_new_line3 | what
+symptom
+tilt |  
+| bip_39_word_new_line4 | what
+symptom
+tilt
+mountain |  
+| bip_39_word_new_line5 | what
+symptom
+tilt
+mountain
+word |  
+| bip_39_word_new_line6 | what
+symptom
+tilt
+mountain
+word
+reform |  
+| bip_39_word_new_line7 | what
+symptom
+tilt
+mountain
+word
+reform
+grass |  
+| bip_39_word_new_line8 | what
+symptom
+tilt
+mountain
+word
+reform
+grass
+kid |  
+| bip_39_word_new_line9 | what
+symptom
+tilt
+mountain
+word
+reform
+grass
+kid
+fiction |  
+| bip_39_word_space_0 | ['what', 'symptom', 'tilt', 'mountain', 'word', 'reform', 'grass', 'kid', 'fiction', 'wrong', 'execute', 'analyst'] |  
+| bip_39_word_space_1 | what |  
+| bip_39_word_space_10 | what symptom tilt mountain word reform grass kid fiction wrong |  
+| bip_39_word_space_11 | what symptom tilt mountain word reform grass kid fiction wrong execute |  
+| bip_39_word_space_12 | what symptom tilt mountain word reform grass kid fiction wrong execute analyst |  
+| bip_39_word_space_2 | what symptom |  
+| bip_39_word_space_3 | what symptom tilt |  
+| bip_39_word_space_4 | what symptom tilt mountain |  
+| bip_39_word_space_5 | what symptom tilt mountain word |  
+| bip_39_word_space_6 | what symptom tilt mountain word reform |  
+| bip_39_word_space_7 | what symptom tilt mountain word reform grass |  
+| bip_39_word_space_8 | what symptom tilt mountain word reform grass kid |  
+| bip_39_word_space_9 | what symptom tilt mountain word reform grass kid fiction |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

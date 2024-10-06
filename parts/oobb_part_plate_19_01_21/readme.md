@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fall wall
+  * bip 39 word 3: fall wall weekend
+  * bip 39 word: fall wall weekend forget execute wait session pigeon chapter genius position arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fall |  
+| bip_39_word_new_br10 | fall<br>wall<br>weekend<br>forget<br>execute<br>wait<br>session<br>pigeon<br>chapter<br>genius |  
+| bip_39_word_new_br11 | fall<br>wall<br>weekend<br>forget<br>execute<br>wait<br>session<br>pigeon<br>chapter<br>genius<br>position |  
+| bip_39_word_new_br12 | fall<br>wall<br>weekend<br>forget<br>execute<br>wait<br>session<br>pigeon<br>chapter<br>genius<br>position<br>arrange |  
+| bip_39_word_new_br2 | fall<br>wall |  
+| bip_39_word_new_br3 | fall<br>wall<br>weekend |  
+| bip_39_word_new_br4 | fall<br>wall<br>weekend<br>forget |  
+| bip_39_word_new_br5 | fall<br>wall<br>weekend<br>forget<br>execute |  
+| bip_39_word_new_br6 | fall<br>wall<br>weekend<br>forget<br>execute<br>wait |  
+| bip_39_word_new_br7 | fall<br>wall<br>weekend<br>forget<br>execute<br>wait<br>session |  
+| bip_39_word_new_br8 | fall<br>wall<br>weekend<br>forget<br>execute<br>wait<br>session<br>pigeon |  
+| bip_39_word_new_br9 | fall<br>wall<br>weekend<br>forget<br>execute<br>wait<br>session<br>pigeon<br>chapter |  
+| bip_39_word_new_line1 | fall |  
+| bip_39_word_new_line10 | fall
+wall
+weekend
+forget
+execute
+wait
+session
+pigeon
+chapter
+genius |  
+| bip_39_word_new_line11 | fall
+wall
+weekend
+forget
+execute
+wait
+session
+pigeon
+chapter
+genius
+position |  
+| bip_39_word_new_line12 | fall
+wall
+weekend
+forget
+execute
+wait
+session
+pigeon
+chapter
+genius
+position
+arrange |  
+| bip_39_word_new_line2 | fall
+wall |  
+| bip_39_word_new_line3 | fall
+wall
+weekend |  
+| bip_39_word_new_line4 | fall
+wall
+weekend
+forget |  
+| bip_39_word_new_line5 | fall
+wall
+weekend
+forget
+execute |  
+| bip_39_word_new_line6 | fall
+wall
+weekend
+forget
+execute
+wait |  
+| bip_39_word_new_line7 | fall
+wall
+weekend
+forget
+execute
+wait
+session |  
+| bip_39_word_new_line8 | fall
+wall
+weekend
+forget
+execute
+wait
+session
+pigeon |  
+| bip_39_word_new_line9 | fall
+wall
+weekend
+forget
+execute
+wait
+session
+pigeon
+chapter |  
+| bip_39_word_space_0 | ['fall', 'wall', 'weekend', 'forget', 'execute', 'wait', 'session', 'pigeon', 'chapter', 'genius', 'position', 'arrange'] |  
+| bip_39_word_space_1 | fall |  
+| bip_39_word_space_10 | fall wall weekend forget execute wait session pigeon chapter genius |  
+| bip_39_word_space_11 | fall wall weekend forget execute wait session pigeon chapter genius position |  
+| bip_39_word_space_12 | fall wall weekend forget execute wait session pigeon chapter genius position arrange |  
+| bip_39_word_space_2 | fall wall |  
+| bip_39_word_space_3 | fall wall weekend |  
+| bip_39_word_space_4 | fall wall weekend forget |  
+| bip_39_word_space_5 | fall wall weekend forget execute |  
+| bip_39_word_space_6 | fall wall weekend forget execute wait |  
+| bip_39_word_space_7 | fall wall weekend forget execute wait session |  
+| bip_39_word_space_8 | fall wall weekend forget execute wait session pigeon |  
+| bip_39_word_space_9 | fall wall weekend forget execute wait session pigeon chapter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

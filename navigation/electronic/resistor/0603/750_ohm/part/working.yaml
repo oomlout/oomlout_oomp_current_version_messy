@@ -1,3 +1,186 @@
+bip_39_word_new_br1: heavy
+bip_39_word_new_br10: heavy<br>replace<br>hidden<br>expand<br>toy<br>elite<br>math<br>search<br>rescue<br>kind
+bip_39_word_new_br11: heavy<br>replace<br>hidden<br>expand<br>toy<br>elite<br>math<br>search<br>rescue<br>kind<br>conduct
+bip_39_word_new_br12: heavy<br>replace<br>hidden<br>expand<br>toy<br>elite<br>math<br>search<br>rescue<br>kind<br>conduct<br>assume
+bip_39_word_new_br2: heavy<br>replace
+bip_39_word_new_br3: heavy<br>replace<br>hidden
+bip_39_word_new_br4: heavy<br>replace<br>hidden<br>expand
+bip_39_word_new_br5: heavy<br>replace<br>hidden<br>expand<br>toy
+bip_39_word_new_br6: heavy<br>replace<br>hidden<br>expand<br>toy<br>elite
+bip_39_word_new_br7: heavy<br>replace<br>hidden<br>expand<br>toy<br>elite<br>math
+bip_39_word_new_br8: heavy<br>replace<br>hidden<br>expand<br>toy<br>elite<br>math<br>search
+bip_39_word_new_br9: heavy<br>replace<br>hidden<br>expand<br>toy<br>elite<br>math<br>search<br>rescue
+bip_39_word_new_line1: heavy
+bip_39_word_new_line10: 'heavy
+
+  replace
+
+  hidden
+
+  expand
+
+  toy
+
+  elite
+
+  math
+
+  search
+
+  rescue
+
+  kind'
+bip_39_word_new_line11: 'heavy
+
+  replace
+
+  hidden
+
+  expand
+
+  toy
+
+  elite
+
+  math
+
+  search
+
+  rescue
+
+  kind
+
+  conduct'
+bip_39_word_new_line12: 'heavy
+
+  replace
+
+  hidden
+
+  expand
+
+  toy
+
+  elite
+
+  math
+
+  search
+
+  rescue
+
+  kind
+
+  conduct
+
+  assume'
+bip_39_word_new_line2: 'heavy
+
+  replace'
+bip_39_word_new_line3: 'heavy
+
+  replace
+
+  hidden'
+bip_39_word_new_line4: 'heavy
+
+  replace
+
+  hidden
+
+  expand'
+bip_39_word_new_line5: 'heavy
+
+  replace
+
+  hidden
+
+  expand
+
+  toy'
+bip_39_word_new_line6: 'heavy
+
+  replace
+
+  hidden
+
+  expand
+
+  toy
+
+  elite'
+bip_39_word_new_line7: 'heavy
+
+  replace
+
+  hidden
+
+  expand
+
+  toy
+
+  elite
+
+  math'
+bip_39_word_new_line8: 'heavy
+
+  replace
+
+  hidden
+
+  expand
+
+  toy
+
+  elite
+
+  math
+
+  search'
+bip_39_word_new_line9: 'heavy
+
+  replace
+
+  hidden
+
+  expand
+
+  toy
+
+  elite
+
+  math
+
+  search
+
+  rescue'
+bip_39_word_space_0:
+- heavy
+- replace
+- hidden
+- expand
+- toy
+- elite
+- math
+- search
+- rescue
+- kind
+- conduct
+- assume
+bip_39_word_space_1: heavy
+bip_39_word_space_10: heavy replace hidden expand toy elite math search rescue kind
+bip_39_word_space_11: heavy replace hidden expand toy elite math search rescue kind
+  conduct
+bip_39_word_space_12: heavy replace hidden expand toy elite math search rescue kind
+  conduct assume
+bip_39_word_space_2: heavy replace
+bip_39_word_space_3: heavy replace hidden
+bip_39_word_space_4: heavy replace hidden expand
+bip_39_word_space_5: heavy replace hidden expand toy
+bip_39_word_space_6: heavy replace hidden expand toy elite
+bip_39_word_space_7: heavy replace hidden expand toy elite math
+bip_39_word_space_8: heavy replace hidden expand toy elite math search
+bip_39_word_space_9: heavy replace hidden expand toy elite math search rescue
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

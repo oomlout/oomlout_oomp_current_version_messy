@@ -1,3 +1,186 @@
+bip_39_word_new_br1: suffer
+bip_39_word_new_br10: suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh
+bip_39_word_new_br11: suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh<br>survey
+bip_39_word_new_br12: suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt<br>laugh<br>survey<br>asthma
+bip_39_word_new_br2: suffer<br>ahead
+bip_39_word_new_br3: suffer<br>ahead<br>female
+bip_39_word_new_br4: suffer<br>ahead<br>female<br>tomato
+bip_39_word_new_br5: suffer<br>ahead<br>female<br>tomato<br>alert
+bip_39_word_new_br6: suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster
+bip_39_word_new_br7: suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing
+bip_39_word_new_br8: suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak
+bip_39_word_new_br9: suffer<br>ahead<br>female<br>tomato<br>alert<br>lobster<br>amazing<br>oak<br>skirt
+bip_39_word_new_line1: suffer
+bip_39_word_new_line10: 'suffer
+
+  ahead
+
+  female
+
+  tomato
+
+  alert
+
+  lobster
+
+  amazing
+
+  oak
+
+  skirt
+
+  laugh'
+bip_39_word_new_line11: 'suffer
+
+  ahead
+
+  female
+
+  tomato
+
+  alert
+
+  lobster
+
+  amazing
+
+  oak
+
+  skirt
+
+  laugh
+
+  survey'
+bip_39_word_new_line12: 'suffer
+
+  ahead
+
+  female
+
+  tomato
+
+  alert
+
+  lobster
+
+  amazing
+
+  oak
+
+  skirt
+
+  laugh
+
+  survey
+
+  asthma'
+bip_39_word_new_line2: 'suffer
+
+  ahead'
+bip_39_word_new_line3: 'suffer
+
+  ahead
+
+  female'
+bip_39_word_new_line4: 'suffer
+
+  ahead
+
+  female
+
+  tomato'
+bip_39_word_new_line5: 'suffer
+
+  ahead
+
+  female
+
+  tomato
+
+  alert'
+bip_39_word_new_line6: 'suffer
+
+  ahead
+
+  female
+
+  tomato
+
+  alert
+
+  lobster'
+bip_39_word_new_line7: 'suffer
+
+  ahead
+
+  female
+
+  tomato
+
+  alert
+
+  lobster
+
+  amazing'
+bip_39_word_new_line8: 'suffer
+
+  ahead
+
+  female
+
+  tomato
+
+  alert
+
+  lobster
+
+  amazing
+
+  oak'
+bip_39_word_new_line9: 'suffer
+
+  ahead
+
+  female
+
+  tomato
+
+  alert
+
+  lobster
+
+  amazing
+
+  oak
+
+  skirt'
+bip_39_word_space_0:
+- suffer
+- ahead
+- female
+- tomato
+- alert
+- lobster
+- amazing
+- oak
+- skirt
+- laugh
+- survey
+- asthma
+bip_39_word_space_1: suffer
+bip_39_word_space_10: suffer ahead female tomato alert lobster amazing oak skirt laugh
+bip_39_word_space_11: suffer ahead female tomato alert lobster amazing oak skirt laugh
+  survey
+bip_39_word_space_12: suffer ahead female tomato alert lobster amazing oak skirt laugh
+  survey asthma
+bip_39_word_space_2: suffer ahead
+bip_39_word_space_3: suffer ahead female
+bip_39_word_space_4: suffer ahead female tomato
+bip_39_word_space_5: suffer ahead female tomato alert
+bip_39_word_space_6: suffer ahead female tomato alert lobster
+bip_39_word_space_7: suffer ahead female tomato alert lobster amazing
+bip_39_word_space_8: suffer ahead female tomato alert lobster amazing oak
+bip_39_word_space_9: suffer ahead female tomato alert lobster amazing oak skirt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

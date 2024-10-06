@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hurt
+bip_39_word_new_br10: hurt<br>puzzle<br>model<br>fun<br>tired<br>region<br>inspire<br>senior<br>couple<br>pig
+bip_39_word_new_br11: hurt<br>puzzle<br>model<br>fun<br>tired<br>region<br>inspire<br>senior<br>couple<br>pig<br>tired
+bip_39_word_new_br12: hurt<br>puzzle<br>model<br>fun<br>tired<br>region<br>inspire<br>senior<br>couple<br>pig<br>tired<br>assist
+bip_39_word_new_br2: hurt<br>puzzle
+bip_39_word_new_br3: hurt<br>puzzle<br>model
+bip_39_word_new_br4: hurt<br>puzzle<br>model<br>fun
+bip_39_word_new_br5: hurt<br>puzzle<br>model<br>fun<br>tired
+bip_39_word_new_br6: hurt<br>puzzle<br>model<br>fun<br>tired<br>region
+bip_39_word_new_br7: hurt<br>puzzle<br>model<br>fun<br>tired<br>region<br>inspire
+bip_39_word_new_br8: hurt<br>puzzle<br>model<br>fun<br>tired<br>region<br>inspire<br>senior
+bip_39_word_new_br9: hurt<br>puzzle<br>model<br>fun<br>tired<br>region<br>inspire<br>senior<br>couple
+bip_39_word_new_line1: hurt
+bip_39_word_new_line10: 'hurt
+
+  puzzle
+
+  model
+
+  fun
+
+  tired
+
+  region
+
+  inspire
+
+  senior
+
+  couple
+
+  pig'
+bip_39_word_new_line11: 'hurt
+
+  puzzle
+
+  model
+
+  fun
+
+  tired
+
+  region
+
+  inspire
+
+  senior
+
+  couple
+
+  pig
+
+  tired'
+bip_39_word_new_line12: 'hurt
+
+  puzzle
+
+  model
+
+  fun
+
+  tired
+
+  region
+
+  inspire
+
+  senior
+
+  couple
+
+  pig
+
+  tired
+
+  assist'
+bip_39_word_new_line2: 'hurt
+
+  puzzle'
+bip_39_word_new_line3: 'hurt
+
+  puzzle
+
+  model'
+bip_39_word_new_line4: 'hurt
+
+  puzzle
+
+  model
+
+  fun'
+bip_39_word_new_line5: 'hurt
+
+  puzzle
+
+  model
+
+  fun
+
+  tired'
+bip_39_word_new_line6: 'hurt
+
+  puzzle
+
+  model
+
+  fun
+
+  tired
+
+  region'
+bip_39_word_new_line7: 'hurt
+
+  puzzle
+
+  model
+
+  fun
+
+  tired
+
+  region
+
+  inspire'
+bip_39_word_new_line8: 'hurt
+
+  puzzle
+
+  model
+
+  fun
+
+  tired
+
+  region
+
+  inspire
+
+  senior'
+bip_39_word_new_line9: 'hurt
+
+  puzzle
+
+  model
+
+  fun
+
+  tired
+
+  region
+
+  inspire
+
+  senior
+
+  couple'
+bip_39_word_space_0:
+- hurt
+- puzzle
+- model
+- fun
+- tired
+- region
+- inspire
+- senior
+- couple
+- pig
+- tired
+- assist
+bip_39_word_space_1: hurt
+bip_39_word_space_10: hurt puzzle model fun tired region inspire senior couple pig
+bip_39_word_space_11: hurt puzzle model fun tired region inspire senior couple pig
+  tired
+bip_39_word_space_12: hurt puzzle model fun tired region inspire senior couple pig
+  tired assist
+bip_39_word_space_2: hurt puzzle
+bip_39_word_space_3: hurt puzzle model
+bip_39_word_space_4: hurt puzzle model fun
+bip_39_word_space_5: hurt puzzle model fun tired
+bip_39_word_space_6: hurt puzzle model fun tired region
+bip_39_word_space_7: hurt puzzle model fun tired region inspire
+bip_39_word_space_8: hurt puzzle model fun tired region inspire senior
+bip_39_word_space_9: hurt puzzle model fun tired region inspire senior couple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

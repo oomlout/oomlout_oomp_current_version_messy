@@ -1,3 +1,186 @@
+bip_39_word_new_br1: option
+bip_39_word_new_br10: option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy<br>become<br>narrow<br>used<br>adjust
+bip_39_word_new_br11: option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy<br>become<br>narrow<br>used<br>adjust<br>aim
+bip_39_word_new_br12: option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy<br>become<br>narrow<br>used<br>adjust<br>aim<br>alert
+bip_39_word_new_br2: option<br>dress
+bip_39_word_new_br3: option<br>dress<br>erupt
+bip_39_word_new_br4: option<br>dress<br>erupt<br>hurdle
+bip_39_word_new_br5: option<br>dress<br>erupt<br>hurdle<br>nasty
+bip_39_word_new_br6: option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy
+bip_39_word_new_br7: option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy<br>become
+bip_39_word_new_br8: option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy<br>become<br>narrow
+bip_39_word_new_br9: option<br>dress<br>erupt<br>hurdle<br>nasty<br>enjoy<br>become<br>narrow<br>used
+bip_39_word_new_line1: option
+bip_39_word_new_line10: 'option
+
+  dress
+
+  erupt
+
+  hurdle
+
+  nasty
+
+  enjoy
+
+  become
+
+  narrow
+
+  used
+
+  adjust'
+bip_39_word_new_line11: 'option
+
+  dress
+
+  erupt
+
+  hurdle
+
+  nasty
+
+  enjoy
+
+  become
+
+  narrow
+
+  used
+
+  adjust
+
+  aim'
+bip_39_word_new_line12: 'option
+
+  dress
+
+  erupt
+
+  hurdle
+
+  nasty
+
+  enjoy
+
+  become
+
+  narrow
+
+  used
+
+  adjust
+
+  aim
+
+  alert'
+bip_39_word_new_line2: 'option
+
+  dress'
+bip_39_word_new_line3: 'option
+
+  dress
+
+  erupt'
+bip_39_word_new_line4: 'option
+
+  dress
+
+  erupt
+
+  hurdle'
+bip_39_word_new_line5: 'option
+
+  dress
+
+  erupt
+
+  hurdle
+
+  nasty'
+bip_39_word_new_line6: 'option
+
+  dress
+
+  erupt
+
+  hurdle
+
+  nasty
+
+  enjoy'
+bip_39_word_new_line7: 'option
+
+  dress
+
+  erupt
+
+  hurdle
+
+  nasty
+
+  enjoy
+
+  become'
+bip_39_word_new_line8: 'option
+
+  dress
+
+  erupt
+
+  hurdle
+
+  nasty
+
+  enjoy
+
+  become
+
+  narrow'
+bip_39_word_new_line9: 'option
+
+  dress
+
+  erupt
+
+  hurdle
+
+  nasty
+
+  enjoy
+
+  become
+
+  narrow
+
+  used'
+bip_39_word_space_0:
+- option
+- dress
+- erupt
+- hurdle
+- nasty
+- enjoy
+- become
+- narrow
+- used
+- adjust
+- aim
+- alert
+bip_39_word_space_1: option
+bip_39_word_space_10: option dress erupt hurdle nasty enjoy become narrow used adjust
+bip_39_word_space_11: option dress erupt hurdle nasty enjoy become narrow used adjust
+  aim
+bip_39_word_space_12: option dress erupt hurdle nasty enjoy become narrow used adjust
+  aim alert
+bip_39_word_space_2: option dress
+bip_39_word_space_3: option dress erupt
+bip_39_word_space_4: option dress erupt hurdle
+bip_39_word_space_5: option dress erupt hurdle nasty
+bip_39_word_space_6: option dress erupt hurdle nasty enjoy
+bip_39_word_space_7: option dress erupt hurdle nasty enjoy become
+bip_39_word_space_8: option dress erupt hurdle nasty enjoy become narrow
+bip_39_word_space_9: option dress erupt hurdle nasty enjoy become narrow used
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: farm erosion
+  * bip 39 word 3: farm erosion comfort
+  * bip 39 word: farm erosion comfort ecology globe ready minute lumber jaguar scare scene adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | farm |  
+| bip_39_word_new_br10 | farm<br>erosion<br>comfort<br>ecology<br>globe<br>ready<br>minute<br>lumber<br>jaguar<br>scare |  
+| bip_39_word_new_br11 | farm<br>erosion<br>comfort<br>ecology<br>globe<br>ready<br>minute<br>lumber<br>jaguar<br>scare<br>scene |  
+| bip_39_word_new_br12 | farm<br>erosion<br>comfort<br>ecology<br>globe<br>ready<br>minute<br>lumber<br>jaguar<br>scare<br>scene<br>adapt |  
+| bip_39_word_new_br2 | farm<br>erosion |  
+| bip_39_word_new_br3 | farm<br>erosion<br>comfort |  
+| bip_39_word_new_br4 | farm<br>erosion<br>comfort<br>ecology |  
+| bip_39_word_new_br5 | farm<br>erosion<br>comfort<br>ecology<br>globe |  
+| bip_39_word_new_br6 | farm<br>erosion<br>comfort<br>ecology<br>globe<br>ready |  
+| bip_39_word_new_br7 | farm<br>erosion<br>comfort<br>ecology<br>globe<br>ready<br>minute |  
+| bip_39_word_new_br8 | farm<br>erosion<br>comfort<br>ecology<br>globe<br>ready<br>minute<br>lumber |  
+| bip_39_word_new_br9 | farm<br>erosion<br>comfort<br>ecology<br>globe<br>ready<br>minute<br>lumber<br>jaguar |  
+| bip_39_word_new_line1 | farm |  
+| bip_39_word_new_line10 | farm
+erosion
+comfort
+ecology
+globe
+ready
+minute
+lumber
+jaguar
+scare |  
+| bip_39_word_new_line11 | farm
+erosion
+comfort
+ecology
+globe
+ready
+minute
+lumber
+jaguar
+scare
+scene |  
+| bip_39_word_new_line12 | farm
+erosion
+comfort
+ecology
+globe
+ready
+minute
+lumber
+jaguar
+scare
+scene
+adapt |  
+| bip_39_word_new_line2 | farm
+erosion |  
+| bip_39_word_new_line3 | farm
+erosion
+comfort |  
+| bip_39_word_new_line4 | farm
+erosion
+comfort
+ecology |  
+| bip_39_word_new_line5 | farm
+erosion
+comfort
+ecology
+globe |  
+| bip_39_word_new_line6 | farm
+erosion
+comfort
+ecology
+globe
+ready |  
+| bip_39_word_new_line7 | farm
+erosion
+comfort
+ecology
+globe
+ready
+minute |  
+| bip_39_word_new_line8 | farm
+erosion
+comfort
+ecology
+globe
+ready
+minute
+lumber |  
+| bip_39_word_new_line9 | farm
+erosion
+comfort
+ecology
+globe
+ready
+minute
+lumber
+jaguar |  
+| bip_39_word_space_0 | ['farm', 'erosion', 'comfort', 'ecology', 'globe', 'ready', 'minute', 'lumber', 'jaguar', 'scare', 'scene', 'adapt'] |  
+| bip_39_word_space_1 | farm |  
+| bip_39_word_space_10 | farm erosion comfort ecology globe ready minute lumber jaguar scare |  
+| bip_39_word_space_11 | farm erosion comfort ecology globe ready minute lumber jaguar scare scene |  
+| bip_39_word_space_12 | farm erosion comfort ecology globe ready minute lumber jaguar scare scene adapt |  
+| bip_39_word_space_2 | farm erosion |  
+| bip_39_word_space_3 | farm erosion comfort |  
+| bip_39_word_space_4 | farm erosion comfort ecology |  
+| bip_39_word_space_5 | farm erosion comfort ecology globe |  
+| bip_39_word_space_6 | farm erosion comfort ecology globe ready |  
+| bip_39_word_space_7 | farm erosion comfort ecology globe ready minute |  
+| bip_39_word_space_8 | farm erosion comfort ecology globe ready minute lumber |  
+| bip_39_word_space_9 | farm erosion comfort ecology globe ready minute lumber jaguar |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

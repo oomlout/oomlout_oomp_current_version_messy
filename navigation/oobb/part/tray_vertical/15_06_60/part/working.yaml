@@ -1,3 +1,186 @@
+bip_39_word_new_br1: affair
+bip_39_word_new_br10: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin
+bip_39_word_new_br11: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin<br>brave
+bip_39_word_new_br12: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee<br>skin<br>brave<br>assist
+bip_39_word_new_br2: affair<br>tree
+bip_39_word_new_br3: affair<br>tree<br>fossil
+bip_39_word_new_br4: affair<br>tree<br>fossil<br>brave
+bip_39_word_new_br5: affair<br>tree<br>fossil<br>brave<br>tag
+bip_39_word_new_br6: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale
+bip_39_word_new_br7: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return
+bip_39_word_new_br8: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy
+bip_39_word_new_br9: affair<br>tree<br>fossil<br>brave<br>tag<br>inhale<br>return<br>deputy<br>flee
+bip_39_word_new_line1: affair
+bip_39_word_new_line10: 'affair
+
+  tree
+
+  fossil
+
+  brave
+
+  tag
+
+  inhale
+
+  return
+
+  deputy
+
+  flee
+
+  skin'
+bip_39_word_new_line11: 'affair
+
+  tree
+
+  fossil
+
+  brave
+
+  tag
+
+  inhale
+
+  return
+
+  deputy
+
+  flee
+
+  skin
+
+  brave'
+bip_39_word_new_line12: 'affair
+
+  tree
+
+  fossil
+
+  brave
+
+  tag
+
+  inhale
+
+  return
+
+  deputy
+
+  flee
+
+  skin
+
+  brave
+
+  assist'
+bip_39_word_new_line2: 'affair
+
+  tree'
+bip_39_word_new_line3: 'affair
+
+  tree
+
+  fossil'
+bip_39_word_new_line4: 'affair
+
+  tree
+
+  fossil
+
+  brave'
+bip_39_word_new_line5: 'affair
+
+  tree
+
+  fossil
+
+  brave
+
+  tag'
+bip_39_word_new_line6: 'affair
+
+  tree
+
+  fossil
+
+  brave
+
+  tag
+
+  inhale'
+bip_39_word_new_line7: 'affair
+
+  tree
+
+  fossil
+
+  brave
+
+  tag
+
+  inhale
+
+  return'
+bip_39_word_new_line8: 'affair
+
+  tree
+
+  fossil
+
+  brave
+
+  tag
+
+  inhale
+
+  return
+
+  deputy'
+bip_39_word_new_line9: 'affair
+
+  tree
+
+  fossil
+
+  brave
+
+  tag
+
+  inhale
+
+  return
+
+  deputy
+
+  flee'
+bip_39_word_space_0:
+- affair
+- tree
+- fossil
+- brave
+- tag
+- inhale
+- return
+- deputy
+- flee
+- skin
+- brave
+- assist
+bip_39_word_space_1: affair
+bip_39_word_space_10: affair tree fossil brave tag inhale return deputy flee skin
+bip_39_word_space_11: affair tree fossil brave tag inhale return deputy flee skin
+  brave
+bip_39_word_space_12: affair tree fossil brave tag inhale return deputy flee skin
+  brave assist
+bip_39_word_space_2: affair tree
+bip_39_word_space_3: affair tree fossil
+bip_39_word_space_4: affair tree fossil brave
+bip_39_word_space_5: affair tree fossil brave tag
+bip_39_word_space_6: affair tree fossil brave tag inhale
+bip_39_word_space_7: affair tree fossil brave tag inhale return
+bip_39_word_space_8: affair tree fossil brave tag inhale return deputy
+bip_39_word_space_9: affair tree fossil brave tag inhale return deputy flee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

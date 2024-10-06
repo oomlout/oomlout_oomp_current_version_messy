@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: despair sound
+  * bip 39 word 3: despair sound sponsor
+  * bip 39 word: despair sound sponsor smooth cliff animal that palace village hedgehog neutral acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | despair |  
+| bip_39_word_new_br10 | despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal<br>that<br>palace<br>village<br>hedgehog |  
+| bip_39_word_new_br11 | despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal<br>that<br>palace<br>village<br>hedgehog<br>neutral |  
+| bip_39_word_new_br12 | despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal<br>that<br>palace<br>village<br>hedgehog<br>neutral<br>acquire |  
+| bip_39_word_new_br2 | despair<br>sound |  
+| bip_39_word_new_br3 | despair<br>sound<br>sponsor |  
+| bip_39_word_new_br4 | despair<br>sound<br>sponsor<br>smooth |  
+| bip_39_word_new_br5 | despair<br>sound<br>sponsor<br>smooth<br>cliff |  
+| bip_39_word_new_br6 | despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal |  
+| bip_39_word_new_br7 | despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal<br>that |  
+| bip_39_word_new_br8 | despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal<br>that<br>palace |  
+| bip_39_word_new_br9 | despair<br>sound<br>sponsor<br>smooth<br>cliff<br>animal<br>that<br>palace<br>village |  
+| bip_39_word_new_line1 | despair |  
+| bip_39_word_new_line10 | despair
+sound
+sponsor
+smooth
+cliff
+animal
+that
+palace
+village
+hedgehog |  
+| bip_39_word_new_line11 | despair
+sound
+sponsor
+smooth
+cliff
+animal
+that
+palace
+village
+hedgehog
+neutral |  
+| bip_39_word_new_line12 | despair
+sound
+sponsor
+smooth
+cliff
+animal
+that
+palace
+village
+hedgehog
+neutral
+acquire |  
+| bip_39_word_new_line2 | despair
+sound |  
+| bip_39_word_new_line3 | despair
+sound
+sponsor |  
+| bip_39_word_new_line4 | despair
+sound
+sponsor
+smooth |  
+| bip_39_word_new_line5 | despair
+sound
+sponsor
+smooth
+cliff |  
+| bip_39_word_new_line6 | despair
+sound
+sponsor
+smooth
+cliff
+animal |  
+| bip_39_word_new_line7 | despair
+sound
+sponsor
+smooth
+cliff
+animal
+that |  
+| bip_39_word_new_line8 | despair
+sound
+sponsor
+smooth
+cliff
+animal
+that
+palace |  
+| bip_39_word_new_line9 | despair
+sound
+sponsor
+smooth
+cliff
+animal
+that
+palace
+village |  
+| bip_39_word_space_0 | ['despair', 'sound', 'sponsor', 'smooth', 'cliff', 'animal', 'that', 'palace', 'village', 'hedgehog', 'neutral', 'acquire'] |  
+| bip_39_word_space_1 | despair |  
+| bip_39_word_space_10 | despair sound sponsor smooth cliff animal that palace village hedgehog |  
+| bip_39_word_space_11 | despair sound sponsor smooth cliff animal that palace village hedgehog neutral |  
+| bip_39_word_space_12 | despair sound sponsor smooth cliff animal that palace village hedgehog neutral acquire |  
+| bip_39_word_space_2 | despair sound |  
+| bip_39_word_space_3 | despair sound sponsor |  
+| bip_39_word_space_4 | despair sound sponsor smooth |  
+| bip_39_word_space_5 | despair sound sponsor smooth cliff |  
+| bip_39_word_space_6 | despair sound sponsor smooth cliff animal |  
+| bip_39_word_space_7 | despair sound sponsor smooth cliff animal that |  
+| bip_39_word_space_8 | despair sound sponsor smooth cliff animal that palace |  
+| bip_39_word_space_9 | despair sound sponsor smooth cliff animal that palace village |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

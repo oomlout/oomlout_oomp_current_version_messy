@@ -1,3 +1,185 @@
+bip_39_word_new_br1: obtain
+bip_39_word_new_br10: obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby
+bip_39_word_new_br11: obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby<br>rather
+bip_39_word_new_br12: obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose<br>hobby<br>rather<br>asthma
+bip_39_word_new_br2: obtain<br>ball
+bip_39_word_new_br3: obtain<br>ball<br>demand
+bip_39_word_new_br4: obtain<br>ball<br>demand<br>napkin
+bip_39_word_new_br5: obtain<br>ball<br>demand<br>napkin<br>climb
+bip_39_word_new_br6: obtain<br>ball<br>demand<br>napkin<br>climb<br>color
+bip_39_word_new_br7: obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero
+bip_39_word_new_br8: obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem
+bip_39_word_new_br9: obtain<br>ball<br>demand<br>napkin<br>climb<br>color<br>hero<br>poem<br>rose
+bip_39_word_new_line1: obtain
+bip_39_word_new_line10: 'obtain
+
+  ball
+
+  demand
+
+  napkin
+
+  climb
+
+  color
+
+  hero
+
+  poem
+
+  rose
+
+  hobby'
+bip_39_word_new_line11: 'obtain
+
+  ball
+
+  demand
+
+  napkin
+
+  climb
+
+  color
+
+  hero
+
+  poem
+
+  rose
+
+  hobby
+
+  rather'
+bip_39_word_new_line12: 'obtain
+
+  ball
+
+  demand
+
+  napkin
+
+  climb
+
+  color
+
+  hero
+
+  poem
+
+  rose
+
+  hobby
+
+  rather
+
+  asthma'
+bip_39_word_new_line2: 'obtain
+
+  ball'
+bip_39_word_new_line3: 'obtain
+
+  ball
+
+  demand'
+bip_39_word_new_line4: 'obtain
+
+  ball
+
+  demand
+
+  napkin'
+bip_39_word_new_line5: 'obtain
+
+  ball
+
+  demand
+
+  napkin
+
+  climb'
+bip_39_word_new_line6: 'obtain
+
+  ball
+
+  demand
+
+  napkin
+
+  climb
+
+  color'
+bip_39_word_new_line7: 'obtain
+
+  ball
+
+  demand
+
+  napkin
+
+  climb
+
+  color
+
+  hero'
+bip_39_word_new_line8: 'obtain
+
+  ball
+
+  demand
+
+  napkin
+
+  climb
+
+  color
+
+  hero
+
+  poem'
+bip_39_word_new_line9: 'obtain
+
+  ball
+
+  demand
+
+  napkin
+
+  climb
+
+  color
+
+  hero
+
+  poem
+
+  rose'
+bip_39_word_space_0:
+- obtain
+- ball
+- demand
+- napkin
+- climb
+- color
+- hero
+- poem
+- rose
+- hobby
+- rather
+- asthma
+bip_39_word_space_1: obtain
+bip_39_word_space_10: obtain ball demand napkin climb color hero poem rose hobby
+bip_39_word_space_11: obtain ball demand napkin climb color hero poem rose hobby rather
+bip_39_word_space_12: obtain ball demand napkin climb color hero poem rose hobby rather
+  asthma
+bip_39_word_space_2: obtain ball
+bip_39_word_space_3: obtain ball demand
+bip_39_word_space_4: obtain ball demand napkin
+bip_39_word_space_5: obtain ball demand napkin climb
+bip_39_word_space_6: obtain ball demand napkin climb color
+bip_39_word_space_7: obtain ball demand napkin climb color hero
+bip_39_word_space_8: obtain ball demand napkin climb color hero poem
+bip_39_word_space_9: obtain ball demand napkin climb color hero poem rose
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

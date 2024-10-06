@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: identify lady
+  * bip 39 word 3: identify lady sure
+  * bip 39 word: identify lady sure lion hint shallow hill goat zebra dune scissors absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | identify |  
+| bip_39_word_new_br10 | identify<br>lady<br>sure<br>lion<br>hint<br>shallow<br>hill<br>goat<br>zebra<br>dune |  
+| bip_39_word_new_br11 | identify<br>lady<br>sure<br>lion<br>hint<br>shallow<br>hill<br>goat<br>zebra<br>dune<br>scissors |  
+| bip_39_word_new_br12 | identify<br>lady<br>sure<br>lion<br>hint<br>shallow<br>hill<br>goat<br>zebra<br>dune<br>scissors<br>absorb |  
+| bip_39_word_new_br2 | identify<br>lady |  
+| bip_39_word_new_br3 | identify<br>lady<br>sure |  
+| bip_39_word_new_br4 | identify<br>lady<br>sure<br>lion |  
+| bip_39_word_new_br5 | identify<br>lady<br>sure<br>lion<br>hint |  
+| bip_39_word_new_br6 | identify<br>lady<br>sure<br>lion<br>hint<br>shallow |  
+| bip_39_word_new_br7 | identify<br>lady<br>sure<br>lion<br>hint<br>shallow<br>hill |  
+| bip_39_word_new_br8 | identify<br>lady<br>sure<br>lion<br>hint<br>shallow<br>hill<br>goat |  
+| bip_39_word_new_br9 | identify<br>lady<br>sure<br>lion<br>hint<br>shallow<br>hill<br>goat<br>zebra |  
+| bip_39_word_new_line1 | identify |  
+| bip_39_word_new_line10 | identify
+lady
+sure
+lion
+hint
+shallow
+hill
+goat
+zebra
+dune |  
+| bip_39_word_new_line11 | identify
+lady
+sure
+lion
+hint
+shallow
+hill
+goat
+zebra
+dune
+scissors |  
+| bip_39_word_new_line12 | identify
+lady
+sure
+lion
+hint
+shallow
+hill
+goat
+zebra
+dune
+scissors
+absorb |  
+| bip_39_word_new_line2 | identify
+lady |  
+| bip_39_word_new_line3 | identify
+lady
+sure |  
+| bip_39_word_new_line4 | identify
+lady
+sure
+lion |  
+| bip_39_word_new_line5 | identify
+lady
+sure
+lion
+hint |  
+| bip_39_word_new_line6 | identify
+lady
+sure
+lion
+hint
+shallow |  
+| bip_39_word_new_line7 | identify
+lady
+sure
+lion
+hint
+shallow
+hill |  
+| bip_39_word_new_line8 | identify
+lady
+sure
+lion
+hint
+shallow
+hill
+goat |  
+| bip_39_word_new_line9 | identify
+lady
+sure
+lion
+hint
+shallow
+hill
+goat
+zebra |  
+| bip_39_word_space_0 | ['identify', 'lady', 'sure', 'lion', 'hint', 'shallow', 'hill', 'goat', 'zebra', 'dune', 'scissors', 'absorb'] |  
+| bip_39_word_space_1 | identify |  
+| bip_39_word_space_10 | identify lady sure lion hint shallow hill goat zebra dune |  
+| bip_39_word_space_11 | identify lady sure lion hint shallow hill goat zebra dune scissors |  
+| bip_39_word_space_12 | identify lady sure lion hint shallow hill goat zebra dune scissors absorb |  
+| bip_39_word_space_2 | identify lady |  
+| bip_39_word_space_3 | identify lady sure |  
+| bip_39_word_space_4 | identify lady sure lion |  
+| bip_39_word_space_5 | identify lady sure lion hint |  
+| bip_39_word_space_6 | identify lady sure lion hint shallow |  
+| bip_39_word_space_7 | identify lady sure lion hint shallow hill |  
+| bip_39_word_space_8 | identify lady sure lion hint shallow hill goat |  
+| bip_39_word_space_9 | identify lady sure lion hint shallow hill goat zebra |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

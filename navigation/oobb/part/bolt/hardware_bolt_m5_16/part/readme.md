@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alpha either
+  * bip 39 word 3: alpha either first
+  * bip 39 word: alpha either first bottom matrix control state fruit motion hub snack artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alpha |  
+| bip_39_word_new_br10 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub |  
+| bip_39_word_new_br11 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub<br>snack |  
+| bip_39_word_new_br12 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion<br>hub<br>snack<br>artefact |  
+| bip_39_word_new_br2 | alpha<br>either |  
+| bip_39_word_new_br3 | alpha<br>either<br>first |  
+| bip_39_word_new_br4 | alpha<br>either<br>first<br>bottom |  
+| bip_39_word_new_br5 | alpha<br>either<br>first<br>bottom<br>matrix |  
+| bip_39_word_new_br6 | alpha<br>either<br>first<br>bottom<br>matrix<br>control |  
+| bip_39_word_new_br7 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state |  
+| bip_39_word_new_br8 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit |  
+| bip_39_word_new_br9 | alpha<br>either<br>first<br>bottom<br>matrix<br>control<br>state<br>fruit<br>motion |  
+| bip_39_word_new_line1 | alpha |  
+| bip_39_word_new_line10 | alpha
+either
+first
+bottom
+matrix
+control
+state
+fruit
+motion
+hub |  
+| bip_39_word_new_line11 | alpha
+either
+first
+bottom
+matrix
+control
+state
+fruit
+motion
+hub
+snack |  
+| bip_39_word_new_line12 | alpha
+either
+first
+bottom
+matrix
+control
+state
+fruit
+motion
+hub
+snack
+artefact |  
+| bip_39_word_new_line2 | alpha
+either |  
+| bip_39_word_new_line3 | alpha
+either
+first |  
+| bip_39_word_new_line4 | alpha
+either
+first
+bottom |  
+| bip_39_word_new_line5 | alpha
+either
+first
+bottom
+matrix |  
+| bip_39_word_new_line6 | alpha
+either
+first
+bottom
+matrix
+control |  
+| bip_39_word_new_line7 | alpha
+either
+first
+bottom
+matrix
+control
+state |  
+| bip_39_word_new_line8 | alpha
+either
+first
+bottom
+matrix
+control
+state
+fruit |  
+| bip_39_word_new_line9 | alpha
+either
+first
+bottom
+matrix
+control
+state
+fruit
+motion |  
+| bip_39_word_space_0 | ['alpha', 'either', 'first', 'bottom', 'matrix', 'control', 'state', 'fruit', 'motion', 'hub', 'snack', 'artefact'] |  
+| bip_39_word_space_1 | alpha |  
+| bip_39_word_space_10 | alpha either first bottom matrix control state fruit motion hub |  
+| bip_39_word_space_11 | alpha either first bottom matrix control state fruit motion hub snack |  
+| bip_39_word_space_12 | alpha either first bottom matrix control state fruit motion hub snack artefact |  
+| bip_39_word_space_2 | alpha either |  
+| bip_39_word_space_3 | alpha either first |  
+| bip_39_word_space_4 | alpha either first bottom |  
+| bip_39_word_space_5 | alpha either first bottom matrix |  
+| bip_39_word_space_6 | alpha either first bottom matrix control |  
+| bip_39_word_space_7 | alpha either first bottom matrix control state |  
+| bip_39_word_space_8 | alpha either first bottom matrix control state fruit |  
+| bip_39_word_space_9 | alpha either first bottom matrix control state fruit motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

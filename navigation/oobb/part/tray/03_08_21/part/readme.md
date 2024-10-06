@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: near link
+  * bip 39 word 3: near link evolve
+  * bip 39 word: near link evolve broom blur lumber extend tent notable almost stone annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | near |  
+| bip_39_word_new_br10 | near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable<br>almost |  
+| bip_39_word_new_br11 | near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable<br>almost<br>stone |  
+| bip_39_word_new_br12 | near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable<br>almost<br>stone<br>annual |  
+| bip_39_word_new_br2 | near<br>link |  
+| bip_39_word_new_br3 | near<br>link<br>evolve |  
+| bip_39_word_new_br4 | near<br>link<br>evolve<br>broom |  
+| bip_39_word_new_br5 | near<br>link<br>evolve<br>broom<br>blur |  
+| bip_39_word_new_br6 | near<br>link<br>evolve<br>broom<br>blur<br>lumber |  
+| bip_39_word_new_br7 | near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend |  
+| bip_39_word_new_br8 | near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent |  
+| bip_39_word_new_br9 | near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable |  
+| bip_39_word_new_line1 | near |  
+| bip_39_word_new_line10 | near
+link
+evolve
+broom
+blur
+lumber
+extend
+tent
+notable
+almost |  
+| bip_39_word_new_line11 | near
+link
+evolve
+broom
+blur
+lumber
+extend
+tent
+notable
+almost
+stone |  
+| bip_39_word_new_line12 | near
+link
+evolve
+broom
+blur
+lumber
+extend
+tent
+notable
+almost
+stone
+annual |  
+| bip_39_word_new_line2 | near
+link |  
+| bip_39_word_new_line3 | near
+link
+evolve |  
+| bip_39_word_new_line4 | near
+link
+evolve
+broom |  
+| bip_39_word_new_line5 | near
+link
+evolve
+broom
+blur |  
+| bip_39_word_new_line6 | near
+link
+evolve
+broom
+blur
+lumber |  
+| bip_39_word_new_line7 | near
+link
+evolve
+broom
+blur
+lumber
+extend |  
+| bip_39_word_new_line8 | near
+link
+evolve
+broom
+blur
+lumber
+extend
+tent |  
+| bip_39_word_new_line9 | near
+link
+evolve
+broom
+blur
+lumber
+extend
+tent
+notable |  
+| bip_39_word_space_0 | ['near', 'link', 'evolve', 'broom', 'blur', 'lumber', 'extend', 'tent', 'notable', 'almost', 'stone', 'annual'] |  
+| bip_39_word_space_1 | near |  
+| bip_39_word_space_10 | near link evolve broom blur lumber extend tent notable almost |  
+| bip_39_word_space_11 | near link evolve broom blur lumber extend tent notable almost stone |  
+| bip_39_word_space_12 | near link evolve broom blur lumber extend tent notable almost stone annual |  
+| bip_39_word_space_2 | near link |  
+| bip_39_word_space_3 | near link evolve |  
+| bip_39_word_space_4 | near link evolve broom |  
+| bip_39_word_space_5 | near link evolve broom blur |  
+| bip_39_word_space_6 | near link evolve broom blur lumber |  
+| bip_39_word_space_7 | near link evolve broom blur lumber extend |  
+| bip_39_word_space_8 | near link evolve broom blur lumber extend tent |  
+| bip_39_word_space_9 | near link evolve broom blur lumber extend tent notable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

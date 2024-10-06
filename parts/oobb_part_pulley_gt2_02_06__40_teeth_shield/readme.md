@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fluid save
+  * bip 39 word 3: fluid save soup
+  * bip 39 word: fluid save soup weekend agree whale whip inch security lake prevent august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fluid |  
+| bip_39_word_new_br10 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security<br>lake |  
+| bip_39_word_new_br11 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security<br>lake<br>prevent |  
+| bip_39_word_new_br12 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security<br>lake<br>prevent<br>august |  
+| bip_39_word_new_br2 | fluid<br>save |  
+| bip_39_word_new_br3 | fluid<br>save<br>soup |  
+| bip_39_word_new_br4 | fluid<br>save<br>soup<br>weekend |  
+| bip_39_word_new_br5 | fluid<br>save<br>soup<br>weekend<br>agree |  
+| bip_39_word_new_br6 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale |  
+| bip_39_word_new_br7 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip |  
+| bip_39_word_new_br8 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch |  
+| bip_39_word_new_br9 | fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security |  
+| bip_39_word_new_line1 | fluid |  
+| bip_39_word_new_line10 | fluid
+save
+soup
+weekend
+agree
+whale
+whip
+inch
+security
+lake |  
+| bip_39_word_new_line11 | fluid
+save
+soup
+weekend
+agree
+whale
+whip
+inch
+security
+lake
+prevent |  
+| bip_39_word_new_line12 | fluid
+save
+soup
+weekend
+agree
+whale
+whip
+inch
+security
+lake
+prevent
+august |  
+| bip_39_word_new_line2 | fluid
+save |  
+| bip_39_word_new_line3 | fluid
+save
+soup |  
+| bip_39_word_new_line4 | fluid
+save
+soup
+weekend |  
+| bip_39_word_new_line5 | fluid
+save
+soup
+weekend
+agree |  
+| bip_39_word_new_line6 | fluid
+save
+soup
+weekend
+agree
+whale |  
+| bip_39_word_new_line7 | fluid
+save
+soup
+weekend
+agree
+whale
+whip |  
+| bip_39_word_new_line8 | fluid
+save
+soup
+weekend
+agree
+whale
+whip
+inch |  
+| bip_39_word_new_line9 | fluid
+save
+soup
+weekend
+agree
+whale
+whip
+inch
+security |  
+| bip_39_word_space_0 | ['fluid', 'save', 'soup', 'weekend', 'agree', 'whale', 'whip', 'inch', 'security', 'lake', 'prevent', 'august'] |  
+| bip_39_word_space_1 | fluid |  
+| bip_39_word_space_10 | fluid save soup weekend agree whale whip inch security lake |  
+| bip_39_word_space_11 | fluid save soup weekend agree whale whip inch security lake prevent |  
+| bip_39_word_space_12 | fluid save soup weekend agree whale whip inch security lake prevent august |  
+| bip_39_word_space_2 | fluid save |  
+| bip_39_word_space_3 | fluid save soup |  
+| bip_39_word_space_4 | fluid save soup weekend |  
+| bip_39_word_space_5 | fluid save soup weekend agree |  
+| bip_39_word_space_6 | fluid save soup weekend agree whale |  
+| bip_39_word_space_7 | fluid save soup weekend agree whale whip |  
+| bip_39_word_space_8 | fluid save soup weekend agree whale whip inch |  
+| bip_39_word_space_9 | fluid save soup weekend agree whale whip inch security |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

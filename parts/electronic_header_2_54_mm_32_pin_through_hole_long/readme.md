@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ankle example
+  * bip 39 word 3: ankle example season
+  * bip 39 word: ankle example season tenant favorite scare gown myself domain cactus always acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ankle |  
+| bip_39_word_new_br10 | ankle<br>example<br>season<br>tenant<br>favorite<br>scare<br>gown<br>myself<br>domain<br>cactus |  
+| bip_39_word_new_br11 | ankle<br>example<br>season<br>tenant<br>favorite<br>scare<br>gown<br>myself<br>domain<br>cactus<br>always |  
+| bip_39_word_new_br12 | ankle<br>example<br>season<br>tenant<br>favorite<br>scare<br>gown<br>myself<br>domain<br>cactus<br>always<br>acid |  
+| bip_39_word_new_br2 | ankle<br>example |  
+| bip_39_word_new_br3 | ankle<br>example<br>season |  
+| bip_39_word_new_br4 | ankle<br>example<br>season<br>tenant |  
+| bip_39_word_new_br5 | ankle<br>example<br>season<br>tenant<br>favorite |  
+| bip_39_word_new_br6 | ankle<br>example<br>season<br>tenant<br>favorite<br>scare |  
+| bip_39_word_new_br7 | ankle<br>example<br>season<br>tenant<br>favorite<br>scare<br>gown |  
+| bip_39_word_new_br8 | ankle<br>example<br>season<br>tenant<br>favorite<br>scare<br>gown<br>myself |  
+| bip_39_word_new_br9 | ankle<br>example<br>season<br>tenant<br>favorite<br>scare<br>gown<br>myself<br>domain |  
+| bip_39_word_new_line1 | ankle |  
+| bip_39_word_new_line10 | ankle
+example
+season
+tenant
+favorite
+scare
+gown
+myself
+domain
+cactus |  
+| bip_39_word_new_line11 | ankle
+example
+season
+tenant
+favorite
+scare
+gown
+myself
+domain
+cactus
+always |  
+| bip_39_word_new_line12 | ankle
+example
+season
+tenant
+favorite
+scare
+gown
+myself
+domain
+cactus
+always
+acid |  
+| bip_39_word_new_line2 | ankle
+example |  
+| bip_39_word_new_line3 | ankle
+example
+season |  
+| bip_39_word_new_line4 | ankle
+example
+season
+tenant |  
+| bip_39_word_new_line5 | ankle
+example
+season
+tenant
+favorite |  
+| bip_39_word_new_line6 | ankle
+example
+season
+tenant
+favorite
+scare |  
+| bip_39_word_new_line7 | ankle
+example
+season
+tenant
+favorite
+scare
+gown |  
+| bip_39_word_new_line8 | ankle
+example
+season
+tenant
+favorite
+scare
+gown
+myself |  
+| bip_39_word_new_line9 | ankle
+example
+season
+tenant
+favorite
+scare
+gown
+myself
+domain |  
+| bip_39_word_space_0 | ['ankle', 'example', 'season', 'tenant', 'favorite', 'scare', 'gown', 'myself', 'domain', 'cactus', 'always', 'acid'] |  
+| bip_39_word_space_1 | ankle |  
+| bip_39_word_space_10 | ankle example season tenant favorite scare gown myself domain cactus |  
+| bip_39_word_space_11 | ankle example season tenant favorite scare gown myself domain cactus always |  
+| bip_39_word_space_12 | ankle example season tenant favorite scare gown myself domain cactus always acid |  
+| bip_39_word_space_2 | ankle example |  
+| bip_39_word_space_3 | ankle example season |  
+| bip_39_word_space_4 | ankle example season tenant |  
+| bip_39_word_space_5 | ankle example season tenant favorite |  
+| bip_39_word_space_6 | ankle example season tenant favorite scare |  
+| bip_39_word_space_7 | ankle example season tenant favorite scare gown |  
+| bip_39_word_space_8 | ankle example season tenant favorite scare gown myself |  
+| bip_39_word_space_9 | ankle example season tenant favorite scare gown myself domain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: boat
+bip_39_word_new_br10: boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip
+bip_39_word_new_br11: boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip<br>merit
+bip_39_word_new_br12: boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival<br>clip<br>merit<br>almost
+bip_39_word_new_br2: boat<br>village
+bip_39_word_new_br3: boat<br>village<br>soccer
+bip_39_word_new_br4: boat<br>village<br>soccer<br>artefact
+bip_39_word_new_br5: boat<br>village<br>soccer<br>artefact<br>juice
+bip_39_word_new_br6: boat<br>village<br>soccer<br>artefact<br>juice<br>toast
+bip_39_word_new_br7: boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango
+bip_39_word_new_br8: boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease
+bip_39_word_new_br9: boat<br>village<br>soccer<br>artefact<br>juice<br>toast<br>mango<br>disease<br>festival
+bip_39_word_new_line1: boat
+bip_39_word_new_line10: 'boat
+
+  village
+
+  soccer
+
+  artefact
+
+  juice
+
+  toast
+
+  mango
+
+  disease
+
+  festival
+
+  clip'
+bip_39_word_new_line11: 'boat
+
+  village
+
+  soccer
+
+  artefact
+
+  juice
+
+  toast
+
+  mango
+
+  disease
+
+  festival
+
+  clip
+
+  merit'
+bip_39_word_new_line12: 'boat
+
+  village
+
+  soccer
+
+  artefact
+
+  juice
+
+  toast
+
+  mango
+
+  disease
+
+  festival
+
+  clip
+
+  merit
+
+  almost'
+bip_39_word_new_line2: 'boat
+
+  village'
+bip_39_word_new_line3: 'boat
+
+  village
+
+  soccer'
+bip_39_word_new_line4: 'boat
+
+  village
+
+  soccer
+
+  artefact'
+bip_39_word_new_line5: 'boat
+
+  village
+
+  soccer
+
+  artefact
+
+  juice'
+bip_39_word_new_line6: 'boat
+
+  village
+
+  soccer
+
+  artefact
+
+  juice
+
+  toast'
+bip_39_word_new_line7: 'boat
+
+  village
+
+  soccer
+
+  artefact
+
+  juice
+
+  toast
+
+  mango'
+bip_39_word_new_line8: 'boat
+
+  village
+
+  soccer
+
+  artefact
+
+  juice
+
+  toast
+
+  mango
+
+  disease'
+bip_39_word_new_line9: 'boat
+
+  village
+
+  soccer
+
+  artefact
+
+  juice
+
+  toast
+
+  mango
+
+  disease
+
+  festival'
+bip_39_word_space_0:
+- boat
+- village
+- soccer
+- artefact
+- juice
+- toast
+- mango
+- disease
+- festival
+- clip
+- merit
+- almost
+bip_39_word_space_1: boat
+bip_39_word_space_10: boat village soccer artefact juice toast mango disease festival
+  clip
+bip_39_word_space_11: boat village soccer artefact juice toast mango disease festival
+  clip merit
+bip_39_word_space_12: boat village soccer artefact juice toast mango disease festival
+  clip merit almost
+bip_39_word_space_2: boat village
+bip_39_word_space_3: boat village soccer
+bip_39_word_space_4: boat village soccer artefact
+bip_39_word_space_5: boat village soccer artefact juice
+bip_39_word_space_6: boat village soccer artefact juice toast
+bip_39_word_space_7: boat village soccer artefact juice toast mango
+bip_39_word_space_8: boat village soccer artefact juice toast mango disease
+bip_39_word_space_9: boat village soccer artefact juice toast mango disease festival
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

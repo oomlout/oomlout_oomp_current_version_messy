@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oppose ecology
+  * bip 39 word 3: oppose ecology one
+  * bip 39 word: oppose ecology one network copy daughter maximum will symptom truck kind access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oppose |  
+| bip_39_word_new_br10 | oppose<br>ecology<br>one<br>network<br>copy<br>daughter<br>maximum<br>will<br>symptom<br>truck |  
+| bip_39_word_new_br11 | oppose<br>ecology<br>one<br>network<br>copy<br>daughter<br>maximum<br>will<br>symptom<br>truck<br>kind |  
+| bip_39_word_new_br12 | oppose<br>ecology<br>one<br>network<br>copy<br>daughter<br>maximum<br>will<br>symptom<br>truck<br>kind<br>access |  
+| bip_39_word_new_br2 | oppose<br>ecology |  
+| bip_39_word_new_br3 | oppose<br>ecology<br>one |  
+| bip_39_word_new_br4 | oppose<br>ecology<br>one<br>network |  
+| bip_39_word_new_br5 | oppose<br>ecology<br>one<br>network<br>copy |  
+| bip_39_word_new_br6 | oppose<br>ecology<br>one<br>network<br>copy<br>daughter |  
+| bip_39_word_new_br7 | oppose<br>ecology<br>one<br>network<br>copy<br>daughter<br>maximum |  
+| bip_39_word_new_br8 | oppose<br>ecology<br>one<br>network<br>copy<br>daughter<br>maximum<br>will |  
+| bip_39_word_new_br9 | oppose<br>ecology<br>one<br>network<br>copy<br>daughter<br>maximum<br>will<br>symptom |  
+| bip_39_word_new_line1 | oppose |  
+| bip_39_word_new_line10 | oppose
+ecology
+one
+network
+copy
+daughter
+maximum
+will
+symptom
+truck |  
+| bip_39_word_new_line11 | oppose
+ecology
+one
+network
+copy
+daughter
+maximum
+will
+symptom
+truck
+kind |  
+| bip_39_word_new_line12 | oppose
+ecology
+one
+network
+copy
+daughter
+maximum
+will
+symptom
+truck
+kind
+access |  
+| bip_39_word_new_line2 | oppose
+ecology |  
+| bip_39_word_new_line3 | oppose
+ecology
+one |  
+| bip_39_word_new_line4 | oppose
+ecology
+one
+network |  
+| bip_39_word_new_line5 | oppose
+ecology
+one
+network
+copy |  
+| bip_39_word_new_line6 | oppose
+ecology
+one
+network
+copy
+daughter |  
+| bip_39_word_new_line7 | oppose
+ecology
+one
+network
+copy
+daughter
+maximum |  
+| bip_39_word_new_line8 | oppose
+ecology
+one
+network
+copy
+daughter
+maximum
+will |  
+| bip_39_word_new_line9 | oppose
+ecology
+one
+network
+copy
+daughter
+maximum
+will
+symptom |  
+| bip_39_word_space_0 | ['oppose', 'ecology', 'one', 'network', 'copy', 'daughter', 'maximum', 'will', 'symptom', 'truck', 'kind', 'access'] |  
+| bip_39_word_space_1 | oppose |  
+| bip_39_word_space_10 | oppose ecology one network copy daughter maximum will symptom truck |  
+| bip_39_word_space_11 | oppose ecology one network copy daughter maximum will symptom truck kind |  
+| bip_39_word_space_12 | oppose ecology one network copy daughter maximum will symptom truck kind access |  
+| bip_39_word_space_2 | oppose ecology |  
+| bip_39_word_space_3 | oppose ecology one |  
+| bip_39_word_space_4 | oppose ecology one network |  
+| bip_39_word_space_5 | oppose ecology one network copy |  
+| bip_39_word_space_6 | oppose ecology one network copy daughter |  
+| bip_39_word_space_7 | oppose ecology one network copy daughter maximum |  
+| bip_39_word_space_8 | oppose ecology one network copy daughter maximum will |  
+| bip_39_word_space_9 | oppose ecology one network copy daughter maximum will symptom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

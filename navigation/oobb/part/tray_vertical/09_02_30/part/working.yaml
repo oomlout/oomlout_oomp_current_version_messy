@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sponsor
+bip_39_word_new_br10: sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide<br>town<br>mix<br>priority<br>tortoise
+bip_39_word_new_br11: sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide<br>town<br>mix<br>priority<br>tortoise<br>mixed
+bip_39_word_new_br12: sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide<br>town<br>mix<br>priority<br>tortoise<br>mixed<br>army
+bip_39_word_new_br2: sponsor<br>goat
+bip_39_word_new_br3: sponsor<br>goat<br>hobby
+bip_39_word_new_br4: sponsor<br>goat<br>hobby<br>between
+bip_39_word_new_br5: sponsor<br>goat<br>hobby<br>between<br>bronze
+bip_39_word_new_br6: sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide
+bip_39_word_new_br7: sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide<br>town
+bip_39_word_new_br8: sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide<br>town<br>mix
+bip_39_word_new_br9: sponsor<br>goat<br>hobby<br>between<br>bronze<br>divide<br>town<br>mix<br>priority
+bip_39_word_new_line1: sponsor
+bip_39_word_new_line10: 'sponsor
+
+  goat
+
+  hobby
+
+  between
+
+  bronze
+
+  divide
+
+  town
+
+  mix
+
+  priority
+
+  tortoise'
+bip_39_word_new_line11: 'sponsor
+
+  goat
+
+  hobby
+
+  between
+
+  bronze
+
+  divide
+
+  town
+
+  mix
+
+  priority
+
+  tortoise
+
+  mixed'
+bip_39_word_new_line12: 'sponsor
+
+  goat
+
+  hobby
+
+  between
+
+  bronze
+
+  divide
+
+  town
+
+  mix
+
+  priority
+
+  tortoise
+
+  mixed
+
+  army'
+bip_39_word_new_line2: 'sponsor
+
+  goat'
+bip_39_word_new_line3: 'sponsor
+
+  goat
+
+  hobby'
+bip_39_word_new_line4: 'sponsor
+
+  goat
+
+  hobby
+
+  between'
+bip_39_word_new_line5: 'sponsor
+
+  goat
+
+  hobby
+
+  between
+
+  bronze'
+bip_39_word_new_line6: 'sponsor
+
+  goat
+
+  hobby
+
+  between
+
+  bronze
+
+  divide'
+bip_39_word_new_line7: 'sponsor
+
+  goat
+
+  hobby
+
+  between
+
+  bronze
+
+  divide
+
+  town'
+bip_39_word_new_line8: 'sponsor
+
+  goat
+
+  hobby
+
+  between
+
+  bronze
+
+  divide
+
+  town
+
+  mix'
+bip_39_word_new_line9: 'sponsor
+
+  goat
+
+  hobby
+
+  between
+
+  bronze
+
+  divide
+
+  town
+
+  mix
+
+  priority'
+bip_39_word_space_0:
+- sponsor
+- goat
+- hobby
+- between
+- bronze
+- divide
+- town
+- mix
+- priority
+- tortoise
+- mixed
+- army
+bip_39_word_space_1: sponsor
+bip_39_word_space_10: sponsor goat hobby between bronze divide town mix priority tortoise
+bip_39_word_space_11: sponsor goat hobby between bronze divide town mix priority tortoise
+  mixed
+bip_39_word_space_12: sponsor goat hobby between bronze divide town mix priority tortoise
+  mixed army
+bip_39_word_space_2: sponsor goat
+bip_39_word_space_3: sponsor goat hobby
+bip_39_word_space_4: sponsor goat hobby between
+bip_39_word_space_5: sponsor goat hobby between bronze
+bip_39_word_space_6: sponsor goat hobby between bronze divide
+bip_39_word_space_7: sponsor goat hobby between bronze divide town
+bip_39_word_space_8: sponsor goat hobby between bronze divide town mix
+bip_39_word_space_9: sponsor goat hobby between bronze divide town mix priority
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

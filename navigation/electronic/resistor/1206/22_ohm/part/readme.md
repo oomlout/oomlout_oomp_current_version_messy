@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brand board
+  * bip 39 word 3: brand board potato
+  * bip 39 word: brand board potato market oblige hero crash bundle mystery material theory announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brand |  
+| bip_39_word_new_br10 | brand<br>board<br>potato<br>market<br>oblige<br>hero<br>crash<br>bundle<br>mystery<br>material |  
+| bip_39_word_new_br11 | brand<br>board<br>potato<br>market<br>oblige<br>hero<br>crash<br>bundle<br>mystery<br>material<br>theory |  
+| bip_39_word_new_br12 | brand<br>board<br>potato<br>market<br>oblige<br>hero<br>crash<br>bundle<br>mystery<br>material<br>theory<br>announce |  
+| bip_39_word_new_br2 | brand<br>board |  
+| bip_39_word_new_br3 | brand<br>board<br>potato |  
+| bip_39_word_new_br4 | brand<br>board<br>potato<br>market |  
+| bip_39_word_new_br5 | brand<br>board<br>potato<br>market<br>oblige |  
+| bip_39_word_new_br6 | brand<br>board<br>potato<br>market<br>oblige<br>hero |  
+| bip_39_word_new_br7 | brand<br>board<br>potato<br>market<br>oblige<br>hero<br>crash |  
+| bip_39_word_new_br8 | brand<br>board<br>potato<br>market<br>oblige<br>hero<br>crash<br>bundle |  
+| bip_39_word_new_br9 | brand<br>board<br>potato<br>market<br>oblige<br>hero<br>crash<br>bundle<br>mystery |  
+| bip_39_word_new_line1 | brand |  
+| bip_39_word_new_line10 | brand
+board
+potato
+market
+oblige
+hero
+crash
+bundle
+mystery
+material |  
+| bip_39_word_new_line11 | brand
+board
+potato
+market
+oblige
+hero
+crash
+bundle
+mystery
+material
+theory |  
+| bip_39_word_new_line12 | brand
+board
+potato
+market
+oblige
+hero
+crash
+bundle
+mystery
+material
+theory
+announce |  
+| bip_39_word_new_line2 | brand
+board |  
+| bip_39_word_new_line3 | brand
+board
+potato |  
+| bip_39_word_new_line4 | brand
+board
+potato
+market |  
+| bip_39_word_new_line5 | brand
+board
+potato
+market
+oblige |  
+| bip_39_word_new_line6 | brand
+board
+potato
+market
+oblige
+hero |  
+| bip_39_word_new_line7 | brand
+board
+potato
+market
+oblige
+hero
+crash |  
+| bip_39_word_new_line8 | brand
+board
+potato
+market
+oblige
+hero
+crash
+bundle |  
+| bip_39_word_new_line9 | brand
+board
+potato
+market
+oblige
+hero
+crash
+bundle
+mystery |  
+| bip_39_word_space_0 | ['brand', 'board', 'potato', 'market', 'oblige', 'hero', 'crash', 'bundle', 'mystery', 'material', 'theory', 'announce'] |  
+| bip_39_word_space_1 | brand |  
+| bip_39_word_space_10 | brand board potato market oblige hero crash bundle mystery material |  
+| bip_39_word_space_11 | brand board potato market oblige hero crash bundle mystery material theory |  
+| bip_39_word_space_12 | brand board potato market oblige hero crash bundle mystery material theory announce |  
+| bip_39_word_space_2 | brand board |  
+| bip_39_word_space_3 | brand board potato |  
+| bip_39_word_space_4 | brand board potato market |  
+| bip_39_word_space_5 | brand board potato market oblige |  
+| bip_39_word_space_6 | brand board potato market oblige hero |  
+| bip_39_word_space_7 | brand board potato market oblige hero crash |  
+| bip_39_word_space_8 | brand board potato market oblige hero crash bundle |  
+| bip_39_word_space_9 | brand board potato market oblige hero crash bundle mystery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

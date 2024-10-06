@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: proof brain
+  * bip 39 word 3: proof brain layer
+  * bip 39 word: proof brain layer busy liquid oval pupil stem oil expand private arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | proof |  
+| bip_39_word_new_br10 | proof<br>brain<br>layer<br>busy<br>liquid<br>oval<br>pupil<br>stem<br>oil<br>expand |  
+| bip_39_word_new_br11 | proof<br>brain<br>layer<br>busy<br>liquid<br>oval<br>pupil<br>stem<br>oil<br>expand<br>private |  
+| bip_39_word_new_br12 | proof<br>brain<br>layer<br>busy<br>liquid<br>oval<br>pupil<br>stem<br>oil<br>expand<br>private<br>arm |  
+| bip_39_word_new_br2 | proof<br>brain |  
+| bip_39_word_new_br3 | proof<br>brain<br>layer |  
+| bip_39_word_new_br4 | proof<br>brain<br>layer<br>busy |  
+| bip_39_word_new_br5 | proof<br>brain<br>layer<br>busy<br>liquid |  
+| bip_39_word_new_br6 | proof<br>brain<br>layer<br>busy<br>liquid<br>oval |  
+| bip_39_word_new_br7 | proof<br>brain<br>layer<br>busy<br>liquid<br>oval<br>pupil |  
+| bip_39_word_new_br8 | proof<br>brain<br>layer<br>busy<br>liquid<br>oval<br>pupil<br>stem |  
+| bip_39_word_new_br9 | proof<br>brain<br>layer<br>busy<br>liquid<br>oval<br>pupil<br>stem<br>oil |  
+| bip_39_word_new_line1 | proof |  
+| bip_39_word_new_line10 | proof
+brain
+layer
+busy
+liquid
+oval
+pupil
+stem
+oil
+expand |  
+| bip_39_word_new_line11 | proof
+brain
+layer
+busy
+liquid
+oval
+pupil
+stem
+oil
+expand
+private |  
+| bip_39_word_new_line12 | proof
+brain
+layer
+busy
+liquid
+oval
+pupil
+stem
+oil
+expand
+private
+arm |  
+| bip_39_word_new_line2 | proof
+brain |  
+| bip_39_word_new_line3 | proof
+brain
+layer |  
+| bip_39_word_new_line4 | proof
+brain
+layer
+busy |  
+| bip_39_word_new_line5 | proof
+brain
+layer
+busy
+liquid |  
+| bip_39_word_new_line6 | proof
+brain
+layer
+busy
+liquid
+oval |  
+| bip_39_word_new_line7 | proof
+brain
+layer
+busy
+liquid
+oval
+pupil |  
+| bip_39_word_new_line8 | proof
+brain
+layer
+busy
+liquid
+oval
+pupil
+stem |  
+| bip_39_word_new_line9 | proof
+brain
+layer
+busy
+liquid
+oval
+pupil
+stem
+oil |  
+| bip_39_word_space_0 | ['proof', 'brain', 'layer', 'busy', 'liquid', 'oval', 'pupil', 'stem', 'oil', 'expand', 'private', 'arm'] |  
+| bip_39_word_space_1 | proof |  
+| bip_39_word_space_10 | proof brain layer busy liquid oval pupil stem oil expand |  
+| bip_39_word_space_11 | proof brain layer busy liquid oval pupil stem oil expand private |  
+| bip_39_word_space_12 | proof brain layer busy liquid oval pupil stem oil expand private arm |  
+| bip_39_word_space_2 | proof brain |  
+| bip_39_word_space_3 | proof brain layer |  
+| bip_39_word_space_4 | proof brain layer busy |  
+| bip_39_word_space_5 | proof brain layer busy liquid |  
+| bip_39_word_space_6 | proof brain layer busy liquid oval |  
+| bip_39_word_space_7 | proof brain layer busy liquid oval pupil |  
+| bip_39_word_space_8 | proof brain layer busy liquid oval pupil stem |  
+| bip_39_word_space_9 | proof brain layer busy liquid oval pupil stem oil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

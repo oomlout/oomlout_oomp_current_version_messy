@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: creek decorate
+  * bip 39 word 3: creek decorate this
+  * bip 39 word: creek decorate this cup drum chaos another chair below upgrade pelican advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | creek |  
+| bip_39_word_new_br10 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos<br>another<br>chair<br>below<br>upgrade |  
+| bip_39_word_new_br11 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos<br>another<br>chair<br>below<br>upgrade<br>pelican |  
+| bip_39_word_new_br12 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos<br>another<br>chair<br>below<br>upgrade<br>pelican<br>advice |  
+| bip_39_word_new_br2 | creek<br>decorate |  
+| bip_39_word_new_br3 | creek<br>decorate<br>this |  
+| bip_39_word_new_br4 | creek<br>decorate<br>this<br>cup |  
+| bip_39_word_new_br5 | creek<br>decorate<br>this<br>cup<br>drum |  
+| bip_39_word_new_br6 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos |  
+| bip_39_word_new_br7 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos<br>another |  
+| bip_39_word_new_br8 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos<br>another<br>chair |  
+| bip_39_word_new_br9 | creek<br>decorate<br>this<br>cup<br>drum<br>chaos<br>another<br>chair<br>below |  
+| bip_39_word_new_line1 | creek |  
+| bip_39_word_new_line10 | creek
+decorate
+this
+cup
+drum
+chaos
+another
+chair
+below
+upgrade |  
+| bip_39_word_new_line11 | creek
+decorate
+this
+cup
+drum
+chaos
+another
+chair
+below
+upgrade
+pelican |  
+| bip_39_word_new_line12 | creek
+decorate
+this
+cup
+drum
+chaos
+another
+chair
+below
+upgrade
+pelican
+advice |  
+| bip_39_word_new_line2 | creek
+decorate |  
+| bip_39_word_new_line3 | creek
+decorate
+this |  
+| bip_39_word_new_line4 | creek
+decorate
+this
+cup |  
+| bip_39_word_new_line5 | creek
+decorate
+this
+cup
+drum |  
+| bip_39_word_new_line6 | creek
+decorate
+this
+cup
+drum
+chaos |  
+| bip_39_word_new_line7 | creek
+decorate
+this
+cup
+drum
+chaos
+another |  
+| bip_39_word_new_line8 | creek
+decorate
+this
+cup
+drum
+chaos
+another
+chair |  
+| bip_39_word_new_line9 | creek
+decorate
+this
+cup
+drum
+chaos
+another
+chair
+below |  
+| bip_39_word_space_0 | ['creek', 'decorate', 'this', 'cup', 'drum', 'chaos', 'another', 'chair', 'below', 'upgrade', 'pelican', 'advice'] |  
+| bip_39_word_space_1 | creek |  
+| bip_39_word_space_10 | creek decorate this cup drum chaos another chair below upgrade |  
+| bip_39_word_space_11 | creek decorate this cup drum chaos another chair below upgrade pelican |  
+| bip_39_word_space_12 | creek decorate this cup drum chaos another chair below upgrade pelican advice |  
+| bip_39_word_space_2 | creek decorate |  
+| bip_39_word_space_3 | creek decorate this |  
+| bip_39_word_space_4 | creek decorate this cup |  
+| bip_39_word_space_5 | creek decorate this cup drum |  
+| bip_39_word_space_6 | creek decorate this cup drum chaos |  
+| bip_39_word_space_7 | creek decorate this cup drum chaos another |  
+| bip_39_word_space_8 | creek decorate this cup drum chaos another chair |  
+| bip_39_word_space_9 | creek decorate this cup drum chaos another chair below |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

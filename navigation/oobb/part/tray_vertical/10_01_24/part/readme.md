@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foot glimpse
+  * bip 39 word 3: foot glimpse quiz
+  * bip 39 word: foot glimpse quiz orange hundred trumpet ancient sentence expire member write asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foot |  
+| bip_39_word_new_br10 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet<br>ancient<br>sentence<br>expire<br>member |  
+| bip_39_word_new_br11 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet<br>ancient<br>sentence<br>expire<br>member<br>write |  
+| bip_39_word_new_br12 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet<br>ancient<br>sentence<br>expire<br>member<br>write<br>asthma |  
+| bip_39_word_new_br2 | foot<br>glimpse |  
+| bip_39_word_new_br3 | foot<br>glimpse<br>quiz |  
+| bip_39_word_new_br4 | foot<br>glimpse<br>quiz<br>orange |  
+| bip_39_word_new_br5 | foot<br>glimpse<br>quiz<br>orange<br>hundred |  
+| bip_39_word_new_br6 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet |  
+| bip_39_word_new_br7 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet<br>ancient |  
+| bip_39_word_new_br8 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet<br>ancient<br>sentence |  
+| bip_39_word_new_br9 | foot<br>glimpse<br>quiz<br>orange<br>hundred<br>trumpet<br>ancient<br>sentence<br>expire |  
+| bip_39_word_new_line1 | foot |  
+| bip_39_word_new_line10 | foot
+glimpse
+quiz
+orange
+hundred
+trumpet
+ancient
+sentence
+expire
+member |  
+| bip_39_word_new_line11 | foot
+glimpse
+quiz
+orange
+hundred
+trumpet
+ancient
+sentence
+expire
+member
+write |  
+| bip_39_word_new_line12 | foot
+glimpse
+quiz
+orange
+hundred
+trumpet
+ancient
+sentence
+expire
+member
+write
+asthma |  
+| bip_39_word_new_line2 | foot
+glimpse |  
+| bip_39_word_new_line3 | foot
+glimpse
+quiz |  
+| bip_39_word_new_line4 | foot
+glimpse
+quiz
+orange |  
+| bip_39_word_new_line5 | foot
+glimpse
+quiz
+orange
+hundred |  
+| bip_39_word_new_line6 | foot
+glimpse
+quiz
+orange
+hundred
+trumpet |  
+| bip_39_word_new_line7 | foot
+glimpse
+quiz
+orange
+hundred
+trumpet
+ancient |  
+| bip_39_word_new_line8 | foot
+glimpse
+quiz
+orange
+hundred
+trumpet
+ancient
+sentence |  
+| bip_39_word_new_line9 | foot
+glimpse
+quiz
+orange
+hundred
+trumpet
+ancient
+sentence
+expire |  
+| bip_39_word_space_0 | ['foot', 'glimpse', 'quiz', 'orange', 'hundred', 'trumpet', 'ancient', 'sentence', 'expire', 'member', 'write', 'asthma'] |  
+| bip_39_word_space_1 | foot |  
+| bip_39_word_space_10 | foot glimpse quiz orange hundred trumpet ancient sentence expire member |  
+| bip_39_word_space_11 | foot glimpse quiz orange hundred trumpet ancient sentence expire member write |  
+| bip_39_word_space_12 | foot glimpse quiz orange hundred trumpet ancient sentence expire member write asthma |  
+| bip_39_word_space_2 | foot glimpse |  
+| bip_39_word_space_3 | foot glimpse quiz |  
+| bip_39_word_space_4 | foot glimpse quiz orange |  
+| bip_39_word_space_5 | foot glimpse quiz orange hundred |  
+| bip_39_word_space_6 | foot glimpse quiz orange hundred trumpet |  
+| bip_39_word_space_7 | foot glimpse quiz orange hundred trumpet ancient |  
+| bip_39_word_space_8 | foot glimpse quiz orange hundred trumpet ancient sentence |  
+| bip_39_word_space_9 | foot glimpse quiz orange hundred trumpet ancient sentence expire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

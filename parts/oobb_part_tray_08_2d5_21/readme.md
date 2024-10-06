@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: muffin puzzle
+  * bip 39 word 3: muffin puzzle educate
+  * bip 39 word: muffin puzzle educate destroy behind ancient discover rug share siren depend amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | muffin |  
+| bip_39_word_new_br10 | muffin<br>puzzle<br>educate<br>destroy<br>behind<br>ancient<br>discover<br>rug<br>share<br>siren |  
+| bip_39_word_new_br11 | muffin<br>puzzle<br>educate<br>destroy<br>behind<br>ancient<br>discover<br>rug<br>share<br>siren<br>depend |  
+| bip_39_word_new_br12 | muffin<br>puzzle<br>educate<br>destroy<br>behind<br>ancient<br>discover<br>rug<br>share<br>siren<br>depend<br>amateur |  
+| bip_39_word_new_br2 | muffin<br>puzzle |  
+| bip_39_word_new_br3 | muffin<br>puzzle<br>educate |  
+| bip_39_word_new_br4 | muffin<br>puzzle<br>educate<br>destroy |  
+| bip_39_word_new_br5 | muffin<br>puzzle<br>educate<br>destroy<br>behind |  
+| bip_39_word_new_br6 | muffin<br>puzzle<br>educate<br>destroy<br>behind<br>ancient |  
+| bip_39_word_new_br7 | muffin<br>puzzle<br>educate<br>destroy<br>behind<br>ancient<br>discover |  
+| bip_39_word_new_br8 | muffin<br>puzzle<br>educate<br>destroy<br>behind<br>ancient<br>discover<br>rug |  
+| bip_39_word_new_br9 | muffin<br>puzzle<br>educate<br>destroy<br>behind<br>ancient<br>discover<br>rug<br>share |  
+| bip_39_word_new_line1 | muffin |  
+| bip_39_word_new_line10 | muffin
+puzzle
+educate
+destroy
+behind
+ancient
+discover
+rug
+share
+siren |  
+| bip_39_word_new_line11 | muffin
+puzzle
+educate
+destroy
+behind
+ancient
+discover
+rug
+share
+siren
+depend |  
+| bip_39_word_new_line12 | muffin
+puzzle
+educate
+destroy
+behind
+ancient
+discover
+rug
+share
+siren
+depend
+amateur |  
+| bip_39_word_new_line2 | muffin
+puzzle |  
+| bip_39_word_new_line3 | muffin
+puzzle
+educate |  
+| bip_39_word_new_line4 | muffin
+puzzle
+educate
+destroy |  
+| bip_39_word_new_line5 | muffin
+puzzle
+educate
+destroy
+behind |  
+| bip_39_word_new_line6 | muffin
+puzzle
+educate
+destroy
+behind
+ancient |  
+| bip_39_word_new_line7 | muffin
+puzzle
+educate
+destroy
+behind
+ancient
+discover |  
+| bip_39_word_new_line8 | muffin
+puzzle
+educate
+destroy
+behind
+ancient
+discover
+rug |  
+| bip_39_word_new_line9 | muffin
+puzzle
+educate
+destroy
+behind
+ancient
+discover
+rug
+share |  
+| bip_39_word_space_0 | ['muffin', 'puzzle', 'educate', 'destroy', 'behind', 'ancient', 'discover', 'rug', 'share', 'siren', 'depend', 'amateur'] |  
+| bip_39_word_space_1 | muffin |  
+| bip_39_word_space_10 | muffin puzzle educate destroy behind ancient discover rug share siren |  
+| bip_39_word_space_11 | muffin puzzle educate destroy behind ancient discover rug share siren depend |  
+| bip_39_word_space_12 | muffin puzzle educate destroy behind ancient discover rug share siren depend amateur |  
+| bip_39_word_space_2 | muffin puzzle |  
+| bip_39_word_space_3 | muffin puzzle educate |  
+| bip_39_word_space_4 | muffin puzzle educate destroy |  
+| bip_39_word_space_5 | muffin puzzle educate destroy behind |  
+| bip_39_word_space_6 | muffin puzzle educate destroy behind ancient |  
+| bip_39_word_space_7 | muffin puzzle educate destroy behind ancient discover |  
+| bip_39_word_space_8 | muffin puzzle educate destroy behind ancient discover rug |  
+| bip_39_word_space_9 | muffin puzzle educate destroy behind ancient discover rug share |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faint chapter
+  * bip 39 word 3: faint chapter swift
+  * bip 39 word: faint chapter swift gap rally enough scout drastic green power tell avocado
 
 ### other_codes
 * short_code: sc5b75h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faint |  
+| bip_39_word_new_br10 | faint<br>chapter<br>swift<br>gap<br>rally<br>enough<br>scout<br>drastic<br>green<br>power |  
+| bip_39_word_new_br11 | faint<br>chapter<br>swift<br>gap<br>rally<br>enough<br>scout<br>drastic<br>green<br>power<br>tell |  
+| bip_39_word_new_br12 | faint<br>chapter<br>swift<br>gap<br>rally<br>enough<br>scout<br>drastic<br>green<br>power<br>tell<br>avocado |  
+| bip_39_word_new_br2 | faint<br>chapter |  
+| bip_39_word_new_br3 | faint<br>chapter<br>swift |  
+| bip_39_word_new_br4 | faint<br>chapter<br>swift<br>gap |  
+| bip_39_word_new_br5 | faint<br>chapter<br>swift<br>gap<br>rally |  
+| bip_39_word_new_br6 | faint<br>chapter<br>swift<br>gap<br>rally<br>enough |  
+| bip_39_word_new_br7 | faint<br>chapter<br>swift<br>gap<br>rally<br>enough<br>scout |  
+| bip_39_word_new_br8 | faint<br>chapter<br>swift<br>gap<br>rally<br>enough<br>scout<br>drastic |  
+| bip_39_word_new_br9 | faint<br>chapter<br>swift<br>gap<br>rally<br>enough<br>scout<br>drastic<br>green |  
+| bip_39_word_new_line1 | faint |  
+| bip_39_word_new_line10 | faint
+chapter
+swift
+gap
+rally
+enough
+scout
+drastic
+green
+power |  
+| bip_39_word_new_line11 | faint
+chapter
+swift
+gap
+rally
+enough
+scout
+drastic
+green
+power
+tell |  
+| bip_39_word_new_line12 | faint
+chapter
+swift
+gap
+rally
+enough
+scout
+drastic
+green
+power
+tell
+avocado |  
+| bip_39_word_new_line2 | faint
+chapter |  
+| bip_39_word_new_line3 | faint
+chapter
+swift |  
+| bip_39_word_new_line4 | faint
+chapter
+swift
+gap |  
+| bip_39_word_new_line5 | faint
+chapter
+swift
+gap
+rally |  
+| bip_39_word_new_line6 | faint
+chapter
+swift
+gap
+rally
+enough |  
+| bip_39_word_new_line7 | faint
+chapter
+swift
+gap
+rally
+enough
+scout |  
+| bip_39_word_new_line8 | faint
+chapter
+swift
+gap
+rally
+enough
+scout
+drastic |  
+| bip_39_word_new_line9 | faint
+chapter
+swift
+gap
+rally
+enough
+scout
+drastic
+green |  
+| bip_39_word_space_0 | ['faint', 'chapter', 'swift', 'gap', 'rally', 'enough', 'scout', 'drastic', 'green', 'power', 'tell', 'avocado'] |  
+| bip_39_word_space_1 | faint |  
+| bip_39_word_space_10 | faint chapter swift gap rally enough scout drastic green power |  
+| bip_39_word_space_11 | faint chapter swift gap rally enough scout drastic green power tell |  
+| bip_39_word_space_12 | faint chapter swift gap rally enough scout drastic green power tell avocado |  
+| bip_39_word_space_2 | faint chapter |  
+| bip_39_word_space_3 | faint chapter swift |  
+| bip_39_word_space_4 | faint chapter swift gap |  
+| bip_39_word_space_5 | faint chapter swift gap rally |  
+| bip_39_word_space_6 | faint chapter swift gap rally enough |  
+| bip_39_word_space_7 | faint chapter swift gap rally enough scout |  
+| bip_39_word_space_8 | faint chapter swift gap rally enough scout drastic |  
+| bip_39_word_space_9 | faint chapter swift gap rally enough scout drastic green |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

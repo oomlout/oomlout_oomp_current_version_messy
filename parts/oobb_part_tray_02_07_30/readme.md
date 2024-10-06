@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sport gown
+  * bip 39 word 3: sport gown crouch
+  * bip 39 word: sport gown crouch usual immense famous rubber fly fatal civil grunt action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sport |  
+| bip_39_word_new_br10 | sport<br>gown<br>crouch<br>usual<br>immense<br>famous<br>rubber<br>fly<br>fatal<br>civil |  
+| bip_39_word_new_br11 | sport<br>gown<br>crouch<br>usual<br>immense<br>famous<br>rubber<br>fly<br>fatal<br>civil<br>grunt |  
+| bip_39_word_new_br12 | sport<br>gown<br>crouch<br>usual<br>immense<br>famous<br>rubber<br>fly<br>fatal<br>civil<br>grunt<br>action |  
+| bip_39_word_new_br2 | sport<br>gown |  
+| bip_39_word_new_br3 | sport<br>gown<br>crouch |  
+| bip_39_word_new_br4 | sport<br>gown<br>crouch<br>usual |  
+| bip_39_word_new_br5 | sport<br>gown<br>crouch<br>usual<br>immense |  
+| bip_39_word_new_br6 | sport<br>gown<br>crouch<br>usual<br>immense<br>famous |  
+| bip_39_word_new_br7 | sport<br>gown<br>crouch<br>usual<br>immense<br>famous<br>rubber |  
+| bip_39_word_new_br8 | sport<br>gown<br>crouch<br>usual<br>immense<br>famous<br>rubber<br>fly |  
+| bip_39_word_new_br9 | sport<br>gown<br>crouch<br>usual<br>immense<br>famous<br>rubber<br>fly<br>fatal |  
+| bip_39_word_new_line1 | sport |  
+| bip_39_word_new_line10 | sport
+gown
+crouch
+usual
+immense
+famous
+rubber
+fly
+fatal
+civil |  
+| bip_39_word_new_line11 | sport
+gown
+crouch
+usual
+immense
+famous
+rubber
+fly
+fatal
+civil
+grunt |  
+| bip_39_word_new_line12 | sport
+gown
+crouch
+usual
+immense
+famous
+rubber
+fly
+fatal
+civil
+grunt
+action |  
+| bip_39_word_new_line2 | sport
+gown |  
+| bip_39_word_new_line3 | sport
+gown
+crouch |  
+| bip_39_word_new_line4 | sport
+gown
+crouch
+usual |  
+| bip_39_word_new_line5 | sport
+gown
+crouch
+usual
+immense |  
+| bip_39_word_new_line6 | sport
+gown
+crouch
+usual
+immense
+famous |  
+| bip_39_word_new_line7 | sport
+gown
+crouch
+usual
+immense
+famous
+rubber |  
+| bip_39_word_new_line8 | sport
+gown
+crouch
+usual
+immense
+famous
+rubber
+fly |  
+| bip_39_word_new_line9 | sport
+gown
+crouch
+usual
+immense
+famous
+rubber
+fly
+fatal |  
+| bip_39_word_space_0 | ['sport', 'gown', 'crouch', 'usual', 'immense', 'famous', 'rubber', 'fly', 'fatal', 'civil', 'grunt', 'action'] |  
+| bip_39_word_space_1 | sport |  
+| bip_39_word_space_10 | sport gown crouch usual immense famous rubber fly fatal civil |  
+| bip_39_word_space_11 | sport gown crouch usual immense famous rubber fly fatal civil grunt |  
+| bip_39_word_space_12 | sport gown crouch usual immense famous rubber fly fatal civil grunt action |  
+| bip_39_word_space_2 | sport gown |  
+| bip_39_word_space_3 | sport gown crouch |  
+| bip_39_word_space_4 | sport gown crouch usual |  
+| bip_39_word_space_5 | sport gown crouch usual immense |  
+| bip_39_word_space_6 | sport gown crouch usual immense famous |  
+| bip_39_word_space_7 | sport gown crouch usual immense famous rubber |  
+| bip_39_word_space_8 | sport gown crouch usual immense famous rubber fly |  
+| bip_39_word_space_9 | sport gown crouch usual immense famous rubber fly fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

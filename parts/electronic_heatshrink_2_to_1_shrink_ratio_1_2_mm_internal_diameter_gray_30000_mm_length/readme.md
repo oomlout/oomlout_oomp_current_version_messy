@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: state shallow
+  * bip 39 word 3: state shallow ceiling
+  * bip 39 word: state shallow ceiling person rug add parade question top shiver stem across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | state |  
+| bip_39_word_new_br10 | state<br>shallow<br>ceiling<br>person<br>rug<br>add<br>parade<br>question<br>top<br>shiver |  
+| bip_39_word_new_br11 | state<br>shallow<br>ceiling<br>person<br>rug<br>add<br>parade<br>question<br>top<br>shiver<br>stem |  
+| bip_39_word_new_br12 | state<br>shallow<br>ceiling<br>person<br>rug<br>add<br>parade<br>question<br>top<br>shiver<br>stem<br>across |  
+| bip_39_word_new_br2 | state<br>shallow |  
+| bip_39_word_new_br3 | state<br>shallow<br>ceiling |  
+| bip_39_word_new_br4 | state<br>shallow<br>ceiling<br>person |  
+| bip_39_word_new_br5 | state<br>shallow<br>ceiling<br>person<br>rug |  
+| bip_39_word_new_br6 | state<br>shallow<br>ceiling<br>person<br>rug<br>add |  
+| bip_39_word_new_br7 | state<br>shallow<br>ceiling<br>person<br>rug<br>add<br>parade |  
+| bip_39_word_new_br8 | state<br>shallow<br>ceiling<br>person<br>rug<br>add<br>parade<br>question |  
+| bip_39_word_new_br9 | state<br>shallow<br>ceiling<br>person<br>rug<br>add<br>parade<br>question<br>top |  
+| bip_39_word_new_line1 | state |  
+| bip_39_word_new_line10 | state
+shallow
+ceiling
+person
+rug
+add
+parade
+question
+top
+shiver |  
+| bip_39_word_new_line11 | state
+shallow
+ceiling
+person
+rug
+add
+parade
+question
+top
+shiver
+stem |  
+| bip_39_word_new_line12 | state
+shallow
+ceiling
+person
+rug
+add
+parade
+question
+top
+shiver
+stem
+across |  
+| bip_39_word_new_line2 | state
+shallow |  
+| bip_39_word_new_line3 | state
+shallow
+ceiling |  
+| bip_39_word_new_line4 | state
+shallow
+ceiling
+person |  
+| bip_39_word_new_line5 | state
+shallow
+ceiling
+person
+rug |  
+| bip_39_word_new_line6 | state
+shallow
+ceiling
+person
+rug
+add |  
+| bip_39_word_new_line7 | state
+shallow
+ceiling
+person
+rug
+add
+parade |  
+| bip_39_word_new_line8 | state
+shallow
+ceiling
+person
+rug
+add
+parade
+question |  
+| bip_39_word_new_line9 | state
+shallow
+ceiling
+person
+rug
+add
+parade
+question
+top |  
+| bip_39_word_space_0 | ['state', 'shallow', 'ceiling', 'person', 'rug', 'add', 'parade', 'question', 'top', 'shiver', 'stem', 'across'] |  
+| bip_39_word_space_1 | state |  
+| bip_39_word_space_10 | state shallow ceiling person rug add parade question top shiver |  
+| bip_39_word_space_11 | state shallow ceiling person rug add parade question top shiver stem |  
+| bip_39_word_space_12 | state shallow ceiling person rug add parade question top shiver stem across |  
+| bip_39_word_space_2 | state shallow |  
+| bip_39_word_space_3 | state shallow ceiling |  
+| bip_39_word_space_4 | state shallow ceiling person |  
+| bip_39_word_space_5 | state shallow ceiling person rug |  
+| bip_39_word_space_6 | state shallow ceiling person rug add |  
+| bip_39_word_space_7 | state shallow ceiling person rug add parade |  
+| bip_39_word_space_8 | state shallow ceiling person rug add parade question |  
+| bip_39_word_space_9 | state shallow ceiling person rug add parade question top |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: cliff
+bip_39_word_new_br10: cliff<br>music<br>noodle<br>shell<br>oven<br>banner<br>guide<br>say<br>crazy<br>shoot
+bip_39_word_new_br11: cliff<br>music<br>noodle<br>shell<br>oven<br>banner<br>guide<br>say<br>crazy<br>shoot<br>cigar
+bip_39_word_new_br12: cliff<br>music<br>noodle<br>shell<br>oven<br>banner<br>guide<br>say<br>crazy<br>shoot<br>cigar<br>anger
+bip_39_word_new_br2: cliff<br>music
+bip_39_word_new_br3: cliff<br>music<br>noodle
+bip_39_word_new_br4: cliff<br>music<br>noodle<br>shell
+bip_39_word_new_br5: cliff<br>music<br>noodle<br>shell<br>oven
+bip_39_word_new_br6: cliff<br>music<br>noodle<br>shell<br>oven<br>banner
+bip_39_word_new_br7: cliff<br>music<br>noodle<br>shell<br>oven<br>banner<br>guide
+bip_39_word_new_br8: cliff<br>music<br>noodle<br>shell<br>oven<br>banner<br>guide<br>say
+bip_39_word_new_br9: cliff<br>music<br>noodle<br>shell<br>oven<br>banner<br>guide<br>say<br>crazy
+bip_39_word_new_line1: cliff
+bip_39_word_new_line10: 'cliff
+
+  music
+
+  noodle
+
+  shell
+
+  oven
+
+  banner
+
+  guide
+
+  say
+
+  crazy
+
+  shoot'
+bip_39_word_new_line11: 'cliff
+
+  music
+
+  noodle
+
+  shell
+
+  oven
+
+  banner
+
+  guide
+
+  say
+
+  crazy
+
+  shoot
+
+  cigar'
+bip_39_word_new_line12: 'cliff
+
+  music
+
+  noodle
+
+  shell
+
+  oven
+
+  banner
+
+  guide
+
+  say
+
+  crazy
+
+  shoot
+
+  cigar
+
+  anger'
+bip_39_word_new_line2: 'cliff
+
+  music'
+bip_39_word_new_line3: 'cliff
+
+  music
+
+  noodle'
+bip_39_word_new_line4: 'cliff
+
+  music
+
+  noodle
+
+  shell'
+bip_39_word_new_line5: 'cliff
+
+  music
+
+  noodle
+
+  shell
+
+  oven'
+bip_39_word_new_line6: 'cliff
+
+  music
+
+  noodle
+
+  shell
+
+  oven
+
+  banner'
+bip_39_word_new_line7: 'cliff
+
+  music
+
+  noodle
+
+  shell
+
+  oven
+
+  banner
+
+  guide'
+bip_39_word_new_line8: 'cliff
+
+  music
+
+  noodle
+
+  shell
+
+  oven
+
+  banner
+
+  guide
+
+  say'
+bip_39_word_new_line9: 'cliff
+
+  music
+
+  noodle
+
+  shell
+
+  oven
+
+  banner
+
+  guide
+
+  say
+
+  crazy'
+bip_39_word_space_0:
+- cliff
+- music
+- noodle
+- shell
+- oven
+- banner
+- guide
+- say
+- crazy
+- shoot
+- cigar
+- anger
+bip_39_word_space_1: cliff
+bip_39_word_space_10: cliff music noodle shell oven banner guide say crazy shoot
+bip_39_word_space_11: cliff music noodle shell oven banner guide say crazy shoot cigar
+bip_39_word_space_12: cliff music noodle shell oven banner guide say crazy shoot cigar
+  anger
+bip_39_word_space_2: cliff music
+bip_39_word_space_3: cliff music noodle
+bip_39_word_space_4: cliff music noodle shell
+bip_39_word_space_5: cliff music noodle shell oven
+bip_39_word_space_6: cliff music noodle shell oven banner
+bip_39_word_space_7: cliff music noodle shell oven banner guide
+bip_39_word_space_8: cliff music noodle shell oven banner guide say
+bip_39_word_space_9: cliff music noodle shell oven banner guide say crazy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: still dream
+  * bip 39 word 3: still dream camera
+  * bip 39 word: still dream camera woman model corn early travel crucial eager clock adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | still |  
+| bip_39_word_new_br10 | still<br>dream<br>camera<br>woman<br>model<br>corn<br>early<br>travel<br>crucial<br>eager |  
+| bip_39_word_new_br11 | still<br>dream<br>camera<br>woman<br>model<br>corn<br>early<br>travel<br>crucial<br>eager<br>clock |  
+| bip_39_word_new_br12 | still<br>dream<br>camera<br>woman<br>model<br>corn<br>early<br>travel<br>crucial<br>eager<br>clock<br>adapt |  
+| bip_39_word_new_br2 | still<br>dream |  
+| bip_39_word_new_br3 | still<br>dream<br>camera |  
+| bip_39_word_new_br4 | still<br>dream<br>camera<br>woman |  
+| bip_39_word_new_br5 | still<br>dream<br>camera<br>woman<br>model |  
+| bip_39_word_new_br6 | still<br>dream<br>camera<br>woman<br>model<br>corn |  
+| bip_39_word_new_br7 | still<br>dream<br>camera<br>woman<br>model<br>corn<br>early |  
+| bip_39_word_new_br8 | still<br>dream<br>camera<br>woman<br>model<br>corn<br>early<br>travel |  
+| bip_39_word_new_br9 | still<br>dream<br>camera<br>woman<br>model<br>corn<br>early<br>travel<br>crucial |  
+| bip_39_word_new_line1 | still |  
+| bip_39_word_new_line10 | still
+dream
+camera
+woman
+model
+corn
+early
+travel
+crucial
+eager |  
+| bip_39_word_new_line11 | still
+dream
+camera
+woman
+model
+corn
+early
+travel
+crucial
+eager
+clock |  
+| bip_39_word_new_line12 | still
+dream
+camera
+woman
+model
+corn
+early
+travel
+crucial
+eager
+clock
+adapt |  
+| bip_39_word_new_line2 | still
+dream |  
+| bip_39_word_new_line3 | still
+dream
+camera |  
+| bip_39_word_new_line4 | still
+dream
+camera
+woman |  
+| bip_39_word_new_line5 | still
+dream
+camera
+woman
+model |  
+| bip_39_word_new_line6 | still
+dream
+camera
+woman
+model
+corn |  
+| bip_39_word_new_line7 | still
+dream
+camera
+woman
+model
+corn
+early |  
+| bip_39_word_new_line8 | still
+dream
+camera
+woman
+model
+corn
+early
+travel |  
+| bip_39_word_new_line9 | still
+dream
+camera
+woman
+model
+corn
+early
+travel
+crucial |  
+| bip_39_word_space_0 | ['still', 'dream', 'camera', 'woman', 'model', 'corn', 'early', 'travel', 'crucial', 'eager', 'clock', 'adapt'] |  
+| bip_39_word_space_1 | still |  
+| bip_39_word_space_10 | still dream camera woman model corn early travel crucial eager |  
+| bip_39_word_space_11 | still dream camera woman model corn early travel crucial eager clock |  
+| bip_39_word_space_12 | still dream camera woman model corn early travel crucial eager clock adapt |  
+| bip_39_word_space_2 | still dream |  
+| bip_39_word_space_3 | still dream camera |  
+| bip_39_word_space_4 | still dream camera woman |  
+| bip_39_word_space_5 | still dream camera woman model |  
+| bip_39_word_space_6 | still dream camera woman model corn |  
+| bip_39_word_space_7 | still dream camera woman model corn early |  
+| bip_39_word_space_8 | still dream camera woman model corn early travel |  
+| bip_39_word_space_9 | still dream camera woman model corn early travel crucial |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

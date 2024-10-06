@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: focus employ
+  * bip 39 word 3: focus employ short
+  * bip 39 word: focus employ short verify beef crime better assume crack sunset forum allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | focus |  
+| bip_39_word_new_br10 | focus<br>employ<br>short<br>verify<br>beef<br>crime<br>better<br>assume<br>crack<br>sunset |  
+| bip_39_word_new_br11 | focus<br>employ<br>short<br>verify<br>beef<br>crime<br>better<br>assume<br>crack<br>sunset<br>forum |  
+| bip_39_word_new_br12 | focus<br>employ<br>short<br>verify<br>beef<br>crime<br>better<br>assume<br>crack<br>sunset<br>forum<br>allow |  
+| bip_39_word_new_br2 | focus<br>employ |  
+| bip_39_word_new_br3 | focus<br>employ<br>short |  
+| bip_39_word_new_br4 | focus<br>employ<br>short<br>verify |  
+| bip_39_word_new_br5 | focus<br>employ<br>short<br>verify<br>beef |  
+| bip_39_word_new_br6 | focus<br>employ<br>short<br>verify<br>beef<br>crime |  
+| bip_39_word_new_br7 | focus<br>employ<br>short<br>verify<br>beef<br>crime<br>better |  
+| bip_39_word_new_br8 | focus<br>employ<br>short<br>verify<br>beef<br>crime<br>better<br>assume |  
+| bip_39_word_new_br9 | focus<br>employ<br>short<br>verify<br>beef<br>crime<br>better<br>assume<br>crack |  
+| bip_39_word_new_line1 | focus |  
+| bip_39_word_new_line10 | focus
+employ
+short
+verify
+beef
+crime
+better
+assume
+crack
+sunset |  
+| bip_39_word_new_line11 | focus
+employ
+short
+verify
+beef
+crime
+better
+assume
+crack
+sunset
+forum |  
+| bip_39_word_new_line12 | focus
+employ
+short
+verify
+beef
+crime
+better
+assume
+crack
+sunset
+forum
+allow |  
+| bip_39_word_new_line2 | focus
+employ |  
+| bip_39_word_new_line3 | focus
+employ
+short |  
+| bip_39_word_new_line4 | focus
+employ
+short
+verify |  
+| bip_39_word_new_line5 | focus
+employ
+short
+verify
+beef |  
+| bip_39_word_new_line6 | focus
+employ
+short
+verify
+beef
+crime |  
+| bip_39_word_new_line7 | focus
+employ
+short
+verify
+beef
+crime
+better |  
+| bip_39_word_new_line8 | focus
+employ
+short
+verify
+beef
+crime
+better
+assume |  
+| bip_39_word_new_line9 | focus
+employ
+short
+verify
+beef
+crime
+better
+assume
+crack |  
+| bip_39_word_space_0 | ['focus', 'employ', 'short', 'verify', 'beef', 'crime', 'better', 'assume', 'crack', 'sunset', 'forum', 'allow'] |  
+| bip_39_word_space_1 | focus |  
+| bip_39_word_space_10 | focus employ short verify beef crime better assume crack sunset |  
+| bip_39_word_space_11 | focus employ short verify beef crime better assume crack sunset forum |  
+| bip_39_word_space_12 | focus employ short verify beef crime better assume crack sunset forum allow |  
+| bip_39_word_space_2 | focus employ |  
+| bip_39_word_space_3 | focus employ short |  
+| bip_39_word_space_4 | focus employ short verify |  
+| bip_39_word_space_5 | focus employ short verify beef |  
+| bip_39_word_space_6 | focus employ short verify beef crime |  
+| bip_39_word_space_7 | focus employ short verify beef crime better |  
+| bip_39_word_space_8 | focus employ short verify beef crime better assume |  
+| bip_39_word_space_9 | focus employ short verify beef crime better assume crack |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mouse
+bip_39_word_new_br10: mouse<br>crawl<br>century<br>kingdom<br>employ<br>income<br>rack<br>shaft<br>margin<br>mango
+bip_39_word_new_br11: mouse<br>crawl<br>century<br>kingdom<br>employ<br>income<br>rack<br>shaft<br>margin<br>mango<br>travel
+bip_39_word_new_br12: mouse<br>crawl<br>century<br>kingdom<br>employ<br>income<br>rack<br>shaft<br>margin<br>mango<br>travel<br>art
+bip_39_word_new_br2: mouse<br>crawl
+bip_39_word_new_br3: mouse<br>crawl<br>century
+bip_39_word_new_br4: mouse<br>crawl<br>century<br>kingdom
+bip_39_word_new_br5: mouse<br>crawl<br>century<br>kingdom<br>employ
+bip_39_word_new_br6: mouse<br>crawl<br>century<br>kingdom<br>employ<br>income
+bip_39_word_new_br7: mouse<br>crawl<br>century<br>kingdom<br>employ<br>income<br>rack
+bip_39_word_new_br8: mouse<br>crawl<br>century<br>kingdom<br>employ<br>income<br>rack<br>shaft
+bip_39_word_new_br9: mouse<br>crawl<br>century<br>kingdom<br>employ<br>income<br>rack<br>shaft<br>margin
+bip_39_word_new_line1: mouse
+bip_39_word_new_line10: 'mouse
+
+  crawl
+
+  century
+
+  kingdom
+
+  employ
+
+  income
+
+  rack
+
+  shaft
+
+  margin
+
+  mango'
+bip_39_word_new_line11: 'mouse
+
+  crawl
+
+  century
+
+  kingdom
+
+  employ
+
+  income
+
+  rack
+
+  shaft
+
+  margin
+
+  mango
+
+  travel'
+bip_39_word_new_line12: 'mouse
+
+  crawl
+
+  century
+
+  kingdom
+
+  employ
+
+  income
+
+  rack
+
+  shaft
+
+  margin
+
+  mango
+
+  travel
+
+  art'
+bip_39_word_new_line2: 'mouse
+
+  crawl'
+bip_39_word_new_line3: 'mouse
+
+  crawl
+
+  century'
+bip_39_word_new_line4: 'mouse
+
+  crawl
+
+  century
+
+  kingdom'
+bip_39_word_new_line5: 'mouse
+
+  crawl
+
+  century
+
+  kingdom
+
+  employ'
+bip_39_word_new_line6: 'mouse
+
+  crawl
+
+  century
+
+  kingdom
+
+  employ
+
+  income'
+bip_39_word_new_line7: 'mouse
+
+  crawl
+
+  century
+
+  kingdom
+
+  employ
+
+  income
+
+  rack'
+bip_39_word_new_line8: 'mouse
+
+  crawl
+
+  century
+
+  kingdom
+
+  employ
+
+  income
+
+  rack
+
+  shaft'
+bip_39_word_new_line9: 'mouse
+
+  crawl
+
+  century
+
+  kingdom
+
+  employ
+
+  income
+
+  rack
+
+  shaft
+
+  margin'
+bip_39_word_space_0:
+- mouse
+- crawl
+- century
+- kingdom
+- employ
+- income
+- rack
+- shaft
+- margin
+- mango
+- travel
+- art
+bip_39_word_space_1: mouse
+bip_39_word_space_10: mouse crawl century kingdom employ income rack shaft margin
+  mango
+bip_39_word_space_11: mouse crawl century kingdom employ income rack shaft margin
+  mango travel
+bip_39_word_space_12: mouse crawl century kingdom employ income rack shaft margin
+  mango travel art
+bip_39_word_space_2: mouse crawl
+bip_39_word_space_3: mouse crawl century
+bip_39_word_space_4: mouse crawl century kingdom
+bip_39_word_space_5: mouse crawl century kingdom employ
+bip_39_word_space_6: mouse crawl century kingdom employ income
+bip_39_word_space_7: mouse crawl century kingdom employ income rack
+bip_39_word_space_8: mouse crawl century kingdom employ income rack shaft
+bip_39_word_space_9: mouse crawl century kingdom employ income rack shaft margin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

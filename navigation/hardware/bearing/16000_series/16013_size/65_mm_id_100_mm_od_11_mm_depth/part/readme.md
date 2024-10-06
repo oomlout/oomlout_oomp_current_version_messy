@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: menu flag
+  * bip 39 word 3: menu flag ginger
+  * bip 39 word: menu flag ginger lyrics leave letter harbor toddler size artwork field among
 
 ### other_codes
 * short_code: br16013
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | menu |  
+| bip_39_word_new_br10 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter<br>harbor<br>toddler<br>size<br>artwork |  
+| bip_39_word_new_br11 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter<br>harbor<br>toddler<br>size<br>artwork<br>field |  
+| bip_39_word_new_br12 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter<br>harbor<br>toddler<br>size<br>artwork<br>field<br>among |  
+| bip_39_word_new_br2 | menu<br>flag |  
+| bip_39_word_new_br3 | menu<br>flag<br>ginger |  
+| bip_39_word_new_br4 | menu<br>flag<br>ginger<br>lyrics |  
+| bip_39_word_new_br5 | menu<br>flag<br>ginger<br>lyrics<br>leave |  
+| bip_39_word_new_br6 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter |  
+| bip_39_word_new_br7 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter<br>harbor |  
+| bip_39_word_new_br8 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter<br>harbor<br>toddler |  
+| bip_39_word_new_br9 | menu<br>flag<br>ginger<br>lyrics<br>leave<br>letter<br>harbor<br>toddler<br>size |  
+| bip_39_word_new_line1 | menu |  
+| bip_39_word_new_line10 | menu
+flag
+ginger
+lyrics
+leave
+letter
+harbor
+toddler
+size
+artwork |  
+| bip_39_word_new_line11 | menu
+flag
+ginger
+lyrics
+leave
+letter
+harbor
+toddler
+size
+artwork
+field |  
+| bip_39_word_new_line12 | menu
+flag
+ginger
+lyrics
+leave
+letter
+harbor
+toddler
+size
+artwork
+field
+among |  
+| bip_39_word_new_line2 | menu
+flag |  
+| bip_39_word_new_line3 | menu
+flag
+ginger |  
+| bip_39_word_new_line4 | menu
+flag
+ginger
+lyrics |  
+| bip_39_word_new_line5 | menu
+flag
+ginger
+lyrics
+leave |  
+| bip_39_word_new_line6 | menu
+flag
+ginger
+lyrics
+leave
+letter |  
+| bip_39_word_new_line7 | menu
+flag
+ginger
+lyrics
+leave
+letter
+harbor |  
+| bip_39_word_new_line8 | menu
+flag
+ginger
+lyrics
+leave
+letter
+harbor
+toddler |  
+| bip_39_word_new_line9 | menu
+flag
+ginger
+lyrics
+leave
+letter
+harbor
+toddler
+size |  
+| bip_39_word_space_0 | ['menu', 'flag', 'ginger', 'lyrics', 'leave', 'letter', 'harbor', 'toddler', 'size', 'artwork', 'field', 'among'] |  
+| bip_39_word_space_1 | menu |  
+| bip_39_word_space_10 | menu flag ginger lyrics leave letter harbor toddler size artwork |  
+| bip_39_word_space_11 | menu flag ginger lyrics leave letter harbor toddler size artwork field |  
+| bip_39_word_space_12 | menu flag ginger lyrics leave letter harbor toddler size artwork field among |  
+| bip_39_word_space_2 | menu flag |  
+| bip_39_word_space_3 | menu flag ginger |  
+| bip_39_word_space_4 | menu flag ginger lyrics |  
+| bip_39_word_space_5 | menu flag ginger lyrics leave |  
+| bip_39_word_space_6 | menu flag ginger lyrics leave letter |  
+| bip_39_word_space_7 | menu flag ginger lyrics leave letter harbor |  
+| bip_39_word_space_8 | menu flag ginger lyrics leave letter harbor toddler |  
+| bip_39_word_space_9 | menu flag ginger lyrics leave letter harbor toddler size |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

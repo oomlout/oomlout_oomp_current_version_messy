@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crucial under
+  * bip 39 word 3: crucial under process
+  * bip 39 word: crucial under process cloth fossil assume snake false reveal alcohol priority act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crucial |  
+| bip_39_word_new_br10 | crucial<br>under<br>process<br>cloth<br>fossil<br>assume<br>snake<br>false<br>reveal<br>alcohol |  
+| bip_39_word_new_br11 | crucial<br>under<br>process<br>cloth<br>fossil<br>assume<br>snake<br>false<br>reveal<br>alcohol<br>priority |  
+| bip_39_word_new_br12 | crucial<br>under<br>process<br>cloth<br>fossil<br>assume<br>snake<br>false<br>reveal<br>alcohol<br>priority<br>act |  
+| bip_39_word_new_br2 | crucial<br>under |  
+| bip_39_word_new_br3 | crucial<br>under<br>process |  
+| bip_39_word_new_br4 | crucial<br>under<br>process<br>cloth |  
+| bip_39_word_new_br5 | crucial<br>under<br>process<br>cloth<br>fossil |  
+| bip_39_word_new_br6 | crucial<br>under<br>process<br>cloth<br>fossil<br>assume |  
+| bip_39_word_new_br7 | crucial<br>under<br>process<br>cloth<br>fossil<br>assume<br>snake |  
+| bip_39_word_new_br8 | crucial<br>under<br>process<br>cloth<br>fossil<br>assume<br>snake<br>false |  
+| bip_39_word_new_br9 | crucial<br>under<br>process<br>cloth<br>fossil<br>assume<br>snake<br>false<br>reveal |  
+| bip_39_word_new_line1 | crucial |  
+| bip_39_word_new_line10 | crucial
+under
+process
+cloth
+fossil
+assume
+snake
+false
+reveal
+alcohol |  
+| bip_39_word_new_line11 | crucial
+under
+process
+cloth
+fossil
+assume
+snake
+false
+reveal
+alcohol
+priority |  
+| bip_39_word_new_line12 | crucial
+under
+process
+cloth
+fossil
+assume
+snake
+false
+reveal
+alcohol
+priority
+act |  
+| bip_39_word_new_line2 | crucial
+under |  
+| bip_39_word_new_line3 | crucial
+under
+process |  
+| bip_39_word_new_line4 | crucial
+under
+process
+cloth |  
+| bip_39_word_new_line5 | crucial
+under
+process
+cloth
+fossil |  
+| bip_39_word_new_line6 | crucial
+under
+process
+cloth
+fossil
+assume |  
+| bip_39_word_new_line7 | crucial
+under
+process
+cloth
+fossil
+assume
+snake |  
+| bip_39_word_new_line8 | crucial
+under
+process
+cloth
+fossil
+assume
+snake
+false |  
+| bip_39_word_new_line9 | crucial
+under
+process
+cloth
+fossil
+assume
+snake
+false
+reveal |  
+| bip_39_word_space_0 | ['crucial', 'under', 'process', 'cloth', 'fossil', 'assume', 'snake', 'false', 'reveal', 'alcohol', 'priority', 'act'] |  
+| bip_39_word_space_1 | crucial |  
+| bip_39_word_space_10 | crucial under process cloth fossil assume snake false reveal alcohol |  
+| bip_39_word_space_11 | crucial under process cloth fossil assume snake false reveal alcohol priority |  
+| bip_39_word_space_12 | crucial under process cloth fossil assume snake false reveal alcohol priority act |  
+| bip_39_word_space_2 | crucial under |  
+| bip_39_word_space_3 | crucial under process |  
+| bip_39_word_space_4 | crucial under process cloth |  
+| bip_39_word_space_5 | crucial under process cloth fossil |  
+| bip_39_word_space_6 | crucial under process cloth fossil assume |  
+| bip_39_word_space_7 | crucial under process cloth fossil assume snake |  
+| bip_39_word_space_8 | crucial under process cloth fossil assume snake false |  
+| bip_39_word_space_9 | crucial under process cloth fossil assume snake false reveal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

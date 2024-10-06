@@ -1,3 +1,187 @@
+bip_39_word_new_br1: evidence
+bip_39_word_new_br10: evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich<br>point<br>outside<br>quit<br>essence
+bip_39_word_new_br11: evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich<br>point<br>outside<br>quit<br>essence<br>evoke
+bip_39_word_new_br12: evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich<br>point<br>outside<br>quit<br>essence<br>evoke<br>atom
+bip_39_word_new_br2: evidence<br>sketch
+bip_39_word_new_br3: evidence<br>sketch<br>giraffe
+bip_39_word_new_br4: evidence<br>sketch<br>giraffe<br>wear
+bip_39_word_new_br5: evidence<br>sketch<br>giraffe<br>wear<br>sustain
+bip_39_word_new_br6: evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich
+bip_39_word_new_br7: evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich<br>point
+bip_39_word_new_br8: evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich<br>point<br>outside
+bip_39_word_new_br9: evidence<br>sketch<br>giraffe<br>wear<br>sustain<br>enrich<br>point<br>outside<br>quit
+bip_39_word_new_line1: evidence
+bip_39_word_new_line10: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear
+
+  sustain
+
+  enrich
+
+  point
+
+  outside
+
+  quit
+
+  essence'
+bip_39_word_new_line11: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear
+
+  sustain
+
+  enrich
+
+  point
+
+  outside
+
+  quit
+
+  essence
+
+  evoke'
+bip_39_word_new_line12: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear
+
+  sustain
+
+  enrich
+
+  point
+
+  outside
+
+  quit
+
+  essence
+
+  evoke
+
+  atom'
+bip_39_word_new_line2: 'evidence
+
+  sketch'
+bip_39_word_new_line3: 'evidence
+
+  sketch
+
+  giraffe'
+bip_39_word_new_line4: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear'
+bip_39_word_new_line5: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear
+
+  sustain'
+bip_39_word_new_line6: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear
+
+  sustain
+
+  enrich'
+bip_39_word_new_line7: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear
+
+  sustain
+
+  enrich
+
+  point'
+bip_39_word_new_line8: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear
+
+  sustain
+
+  enrich
+
+  point
+
+  outside'
+bip_39_word_new_line9: 'evidence
+
+  sketch
+
+  giraffe
+
+  wear
+
+  sustain
+
+  enrich
+
+  point
+
+  outside
+
+  quit'
+bip_39_word_space_0:
+- evidence
+- sketch
+- giraffe
+- wear
+- sustain
+- enrich
+- point
+- outside
+- quit
+- essence
+- evoke
+- atom
+bip_39_word_space_1: evidence
+bip_39_word_space_10: evidence sketch giraffe wear sustain enrich point outside quit
+  essence
+bip_39_word_space_11: evidence sketch giraffe wear sustain enrich point outside quit
+  essence evoke
+bip_39_word_space_12: evidence sketch giraffe wear sustain enrich point outside quit
+  essence evoke atom
+bip_39_word_space_2: evidence sketch
+bip_39_word_space_3: evidence sketch giraffe
+bip_39_word_space_4: evidence sketch giraffe wear
+bip_39_word_space_5: evidence sketch giraffe wear sustain
+bip_39_word_space_6: evidence sketch giraffe wear sustain enrich
+bip_39_word_space_7: evidence sketch giraffe wear sustain enrich point
+bip_39_word_space_8: evidence sketch giraffe wear sustain enrich point outside
+bip_39_word_space_9: evidence sketch giraffe wear sustain enrich point outside quit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

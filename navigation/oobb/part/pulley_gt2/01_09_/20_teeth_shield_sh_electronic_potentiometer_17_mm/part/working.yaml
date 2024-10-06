@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lift
+bip_39_word_new_br10: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak
+bip_39_word_new_br11: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak<br>mind
+bip_39_word_new_br12: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder<br>oak<br>mind<br>around
+bip_39_word_new_br2: lift<br>raccoon
+bip_39_word_new_br3: lift<br>raccoon<br>innocent
+bip_39_word_new_br4: lift<br>raccoon<br>innocent<br>another
+bip_39_word_new_br5: lift<br>raccoon<br>innocent<br>another<br>merry
+bip_39_word_new_br6: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol
+bip_39_word_new_br7: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper
+bip_39_word_new_br8: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather
+bip_39_word_new_br9: lift<br>raccoon<br>innocent<br>another<br>merry<br>alcohol<br>pepper<br>gather<br>powder
+bip_39_word_new_line1: lift
+bip_39_word_new_line10: 'lift
+
+  raccoon
+
+  innocent
+
+  another
+
+  merry
+
+  alcohol
+
+  pepper
+
+  gather
+
+  powder
+
+  oak'
+bip_39_word_new_line11: 'lift
+
+  raccoon
+
+  innocent
+
+  another
+
+  merry
+
+  alcohol
+
+  pepper
+
+  gather
+
+  powder
+
+  oak
+
+  mind'
+bip_39_word_new_line12: 'lift
+
+  raccoon
+
+  innocent
+
+  another
+
+  merry
+
+  alcohol
+
+  pepper
+
+  gather
+
+  powder
+
+  oak
+
+  mind
+
+  around'
+bip_39_word_new_line2: 'lift
+
+  raccoon'
+bip_39_word_new_line3: 'lift
+
+  raccoon
+
+  innocent'
+bip_39_word_new_line4: 'lift
+
+  raccoon
+
+  innocent
+
+  another'
+bip_39_word_new_line5: 'lift
+
+  raccoon
+
+  innocent
+
+  another
+
+  merry'
+bip_39_word_new_line6: 'lift
+
+  raccoon
+
+  innocent
+
+  another
+
+  merry
+
+  alcohol'
+bip_39_word_new_line7: 'lift
+
+  raccoon
+
+  innocent
+
+  another
+
+  merry
+
+  alcohol
+
+  pepper'
+bip_39_word_new_line8: 'lift
+
+  raccoon
+
+  innocent
+
+  another
+
+  merry
+
+  alcohol
+
+  pepper
+
+  gather'
+bip_39_word_new_line9: 'lift
+
+  raccoon
+
+  innocent
+
+  another
+
+  merry
+
+  alcohol
+
+  pepper
+
+  gather
+
+  powder'
+bip_39_word_space_0:
+- lift
+- raccoon
+- innocent
+- another
+- merry
+- alcohol
+- pepper
+- gather
+- powder
+- oak
+- mind
+- around
+bip_39_word_space_1: lift
+bip_39_word_space_10: lift raccoon innocent another merry alcohol pepper gather powder
+  oak
+bip_39_word_space_11: lift raccoon innocent another merry alcohol pepper gather powder
+  oak mind
+bip_39_word_space_12: lift raccoon innocent another merry alcohol pepper gather powder
+  oak mind around
+bip_39_word_space_2: lift raccoon
+bip_39_word_space_3: lift raccoon innocent
+bip_39_word_space_4: lift raccoon innocent another
+bip_39_word_space_5: lift raccoon innocent another merry
+bip_39_word_space_6: lift raccoon innocent another merry alcohol
+bip_39_word_space_7: lift raccoon innocent another merry alcohol pepper
+bip_39_word_space_8: lift raccoon innocent another merry alcohol pepper gather
+bip_39_word_space_9: lift raccoon innocent another merry alcohol pepper gather powder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

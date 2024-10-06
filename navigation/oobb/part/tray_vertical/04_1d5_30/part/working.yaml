@@ -1,3 +1,185 @@
+bip_39_word_new_br1: easy
+bip_39_word_new_br10: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter
+bip_39_word_new_br11: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter<br>describe
+bip_39_word_new_br12: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock<br>matter<br>describe<br>alone
+bip_39_word_new_br2: easy<br>frozen
+bip_39_word_new_br3: easy<br>frozen<br>atom
+bip_39_word_new_br4: easy<br>frozen<br>atom<br>hand
+bip_39_word_new_br5: easy<br>frozen<br>atom<br>hand<br>knee
+bip_39_word_new_br6: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp
+bip_39_word_new_br7: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper
+bip_39_word_new_br8: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal
+bip_39_word_new_br9: easy<br>frozen<br>atom<br>hand<br>knee<br>shrimp<br>upper<br>loyal<br>shock
+bip_39_word_new_line1: easy
+bip_39_word_new_line10: 'easy
+
+  frozen
+
+  atom
+
+  hand
+
+  knee
+
+  shrimp
+
+  upper
+
+  loyal
+
+  shock
+
+  matter'
+bip_39_word_new_line11: 'easy
+
+  frozen
+
+  atom
+
+  hand
+
+  knee
+
+  shrimp
+
+  upper
+
+  loyal
+
+  shock
+
+  matter
+
+  describe'
+bip_39_word_new_line12: 'easy
+
+  frozen
+
+  atom
+
+  hand
+
+  knee
+
+  shrimp
+
+  upper
+
+  loyal
+
+  shock
+
+  matter
+
+  describe
+
+  alone'
+bip_39_word_new_line2: 'easy
+
+  frozen'
+bip_39_word_new_line3: 'easy
+
+  frozen
+
+  atom'
+bip_39_word_new_line4: 'easy
+
+  frozen
+
+  atom
+
+  hand'
+bip_39_word_new_line5: 'easy
+
+  frozen
+
+  atom
+
+  hand
+
+  knee'
+bip_39_word_new_line6: 'easy
+
+  frozen
+
+  atom
+
+  hand
+
+  knee
+
+  shrimp'
+bip_39_word_new_line7: 'easy
+
+  frozen
+
+  atom
+
+  hand
+
+  knee
+
+  shrimp
+
+  upper'
+bip_39_word_new_line8: 'easy
+
+  frozen
+
+  atom
+
+  hand
+
+  knee
+
+  shrimp
+
+  upper
+
+  loyal'
+bip_39_word_new_line9: 'easy
+
+  frozen
+
+  atom
+
+  hand
+
+  knee
+
+  shrimp
+
+  upper
+
+  loyal
+
+  shock'
+bip_39_word_space_0:
+- easy
+- frozen
+- atom
+- hand
+- knee
+- shrimp
+- upper
+- loyal
+- shock
+- matter
+- describe
+- alone
+bip_39_word_space_1: easy
+bip_39_word_space_10: easy frozen atom hand knee shrimp upper loyal shock matter
+bip_39_word_space_11: easy frozen atom hand knee shrimp upper loyal shock matter describe
+bip_39_word_space_12: easy frozen atom hand knee shrimp upper loyal shock matter describe
+  alone
+bip_39_word_space_2: easy frozen
+bip_39_word_space_3: easy frozen atom
+bip_39_word_space_4: easy frozen atom hand
+bip_39_word_space_5: easy frozen atom hand knee
+bip_39_word_space_6: easy frozen atom hand knee shrimp
+bip_39_word_space_7: easy frozen atom hand knee shrimp upper
+bip_39_word_space_8: easy frozen atom hand knee shrimp upper loyal
+bip_39_word_space_9: easy frozen atom hand knee shrimp upper loyal shock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

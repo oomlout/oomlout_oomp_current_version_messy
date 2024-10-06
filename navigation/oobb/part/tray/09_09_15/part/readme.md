@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: menu narrow
+  * bip 39 word 3: menu narrow motor
+  * bip 39 word: menu narrow motor rose ozone laundry bean purity source base person august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | menu |  
+| bip_39_word_new_br10 | menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry<br>bean<br>purity<br>source<br>base |  
+| bip_39_word_new_br11 | menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry<br>bean<br>purity<br>source<br>base<br>person |  
+| bip_39_word_new_br12 | menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry<br>bean<br>purity<br>source<br>base<br>person<br>august |  
+| bip_39_word_new_br2 | menu<br>narrow |  
+| bip_39_word_new_br3 | menu<br>narrow<br>motor |  
+| bip_39_word_new_br4 | menu<br>narrow<br>motor<br>rose |  
+| bip_39_word_new_br5 | menu<br>narrow<br>motor<br>rose<br>ozone |  
+| bip_39_word_new_br6 | menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry |  
+| bip_39_word_new_br7 | menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry<br>bean |  
+| bip_39_word_new_br8 | menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry<br>bean<br>purity |  
+| bip_39_word_new_br9 | menu<br>narrow<br>motor<br>rose<br>ozone<br>laundry<br>bean<br>purity<br>source |  
+| bip_39_word_new_line1 | menu |  
+| bip_39_word_new_line10 | menu
+narrow
+motor
+rose
+ozone
+laundry
+bean
+purity
+source
+base |  
+| bip_39_word_new_line11 | menu
+narrow
+motor
+rose
+ozone
+laundry
+bean
+purity
+source
+base
+person |  
+| bip_39_word_new_line12 | menu
+narrow
+motor
+rose
+ozone
+laundry
+bean
+purity
+source
+base
+person
+august |  
+| bip_39_word_new_line2 | menu
+narrow |  
+| bip_39_word_new_line3 | menu
+narrow
+motor |  
+| bip_39_word_new_line4 | menu
+narrow
+motor
+rose |  
+| bip_39_word_new_line5 | menu
+narrow
+motor
+rose
+ozone |  
+| bip_39_word_new_line6 | menu
+narrow
+motor
+rose
+ozone
+laundry |  
+| bip_39_word_new_line7 | menu
+narrow
+motor
+rose
+ozone
+laundry
+bean |  
+| bip_39_word_new_line8 | menu
+narrow
+motor
+rose
+ozone
+laundry
+bean
+purity |  
+| bip_39_word_new_line9 | menu
+narrow
+motor
+rose
+ozone
+laundry
+bean
+purity
+source |  
+| bip_39_word_space_0 | ['menu', 'narrow', 'motor', 'rose', 'ozone', 'laundry', 'bean', 'purity', 'source', 'base', 'person', 'august'] |  
+| bip_39_word_space_1 | menu |  
+| bip_39_word_space_10 | menu narrow motor rose ozone laundry bean purity source base |  
+| bip_39_word_space_11 | menu narrow motor rose ozone laundry bean purity source base person |  
+| bip_39_word_space_12 | menu narrow motor rose ozone laundry bean purity source base person august |  
+| bip_39_word_space_2 | menu narrow |  
+| bip_39_word_space_3 | menu narrow motor |  
+| bip_39_word_space_4 | menu narrow motor rose |  
+| bip_39_word_space_5 | menu narrow motor rose ozone |  
+| bip_39_word_space_6 | menu narrow motor rose ozone laundry |  
+| bip_39_word_space_7 | menu narrow motor rose ozone laundry bean |  
+| bip_39_word_space_8 | menu narrow motor rose ozone laundry bean purity |  
+| bip_39_word_space_9 | menu narrow motor rose ozone laundry bean purity source |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

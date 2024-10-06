@@ -1,3 +1,186 @@
+bip_39_word_new_br1: absent
+bip_39_word_new_br10: absent<br>purpose<br>mix<br>crack<br>width<br>wolf<br>once<br>sing<br>notable<br>scale
+bip_39_word_new_br11: absent<br>purpose<br>mix<br>crack<br>width<br>wolf<br>once<br>sing<br>notable<br>scale<br>evolve
+bip_39_word_new_br12: absent<br>purpose<br>mix<br>crack<br>width<br>wolf<br>once<br>sing<br>notable<br>scale<br>evolve<br>announce
+bip_39_word_new_br2: absent<br>purpose
+bip_39_word_new_br3: absent<br>purpose<br>mix
+bip_39_word_new_br4: absent<br>purpose<br>mix<br>crack
+bip_39_word_new_br5: absent<br>purpose<br>mix<br>crack<br>width
+bip_39_word_new_br6: absent<br>purpose<br>mix<br>crack<br>width<br>wolf
+bip_39_word_new_br7: absent<br>purpose<br>mix<br>crack<br>width<br>wolf<br>once
+bip_39_word_new_br8: absent<br>purpose<br>mix<br>crack<br>width<br>wolf<br>once<br>sing
+bip_39_word_new_br9: absent<br>purpose<br>mix<br>crack<br>width<br>wolf<br>once<br>sing<br>notable
+bip_39_word_new_line1: absent
+bip_39_word_new_line10: 'absent
+
+  purpose
+
+  mix
+
+  crack
+
+  width
+
+  wolf
+
+  once
+
+  sing
+
+  notable
+
+  scale'
+bip_39_word_new_line11: 'absent
+
+  purpose
+
+  mix
+
+  crack
+
+  width
+
+  wolf
+
+  once
+
+  sing
+
+  notable
+
+  scale
+
+  evolve'
+bip_39_word_new_line12: 'absent
+
+  purpose
+
+  mix
+
+  crack
+
+  width
+
+  wolf
+
+  once
+
+  sing
+
+  notable
+
+  scale
+
+  evolve
+
+  announce'
+bip_39_word_new_line2: 'absent
+
+  purpose'
+bip_39_word_new_line3: 'absent
+
+  purpose
+
+  mix'
+bip_39_word_new_line4: 'absent
+
+  purpose
+
+  mix
+
+  crack'
+bip_39_word_new_line5: 'absent
+
+  purpose
+
+  mix
+
+  crack
+
+  width'
+bip_39_word_new_line6: 'absent
+
+  purpose
+
+  mix
+
+  crack
+
+  width
+
+  wolf'
+bip_39_word_new_line7: 'absent
+
+  purpose
+
+  mix
+
+  crack
+
+  width
+
+  wolf
+
+  once'
+bip_39_word_new_line8: 'absent
+
+  purpose
+
+  mix
+
+  crack
+
+  width
+
+  wolf
+
+  once
+
+  sing'
+bip_39_word_new_line9: 'absent
+
+  purpose
+
+  mix
+
+  crack
+
+  width
+
+  wolf
+
+  once
+
+  sing
+
+  notable'
+bip_39_word_space_0:
+- absent
+- purpose
+- mix
+- crack
+- width
+- wolf
+- once
+- sing
+- notable
+- scale
+- evolve
+- announce
+bip_39_word_space_1: absent
+bip_39_word_space_10: absent purpose mix crack width wolf once sing notable scale
+bip_39_word_space_11: absent purpose mix crack width wolf once sing notable scale
+  evolve
+bip_39_word_space_12: absent purpose mix crack width wolf once sing notable scale
+  evolve announce
+bip_39_word_space_2: absent purpose
+bip_39_word_space_3: absent purpose mix
+bip_39_word_space_4: absent purpose mix crack
+bip_39_word_space_5: absent purpose mix crack width
+bip_39_word_space_6: absent purpose mix crack width wolf
+bip_39_word_space_7: absent purpose mix crack width wolf once
+bip_39_word_space_8: absent purpose mix crack width wolf once sing
+bip_39_word_space_9: absent purpose mix crack width wolf once sing notable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

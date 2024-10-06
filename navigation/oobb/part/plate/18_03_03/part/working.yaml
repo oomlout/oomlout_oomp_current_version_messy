@@ -1,3 +1,186 @@
+bip_39_word_new_br1: eager
+bip_39_word_new_br10: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony<br>daring<br>ball<br>apology<br>size
+bip_39_word_new_br11: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony<br>daring<br>ball<br>apology<br>size<br>oppose
+bip_39_word_new_br12: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony<br>daring<br>ball<br>apology<br>size<br>oppose<br>amused
+bip_39_word_new_br2: eager<br>crop
+bip_39_word_new_br3: eager<br>crop<br>copy
+bip_39_word_new_br4: eager<br>crop<br>copy<br>wolf
+bip_39_word_new_br5: eager<br>crop<br>copy<br>wolf<br>scout
+bip_39_word_new_br6: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony
+bip_39_word_new_br7: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony<br>daring
+bip_39_word_new_br8: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony<br>daring<br>ball
+bip_39_word_new_br9: eager<br>crop<br>copy<br>wolf<br>scout<br>balcony<br>daring<br>ball<br>apology
+bip_39_word_new_line1: eager
+bip_39_word_new_line10: 'eager
+
+  crop
+
+  copy
+
+  wolf
+
+  scout
+
+  balcony
+
+  daring
+
+  ball
+
+  apology
+
+  size'
+bip_39_word_new_line11: 'eager
+
+  crop
+
+  copy
+
+  wolf
+
+  scout
+
+  balcony
+
+  daring
+
+  ball
+
+  apology
+
+  size
+
+  oppose'
+bip_39_word_new_line12: 'eager
+
+  crop
+
+  copy
+
+  wolf
+
+  scout
+
+  balcony
+
+  daring
+
+  ball
+
+  apology
+
+  size
+
+  oppose
+
+  amused'
+bip_39_word_new_line2: 'eager
+
+  crop'
+bip_39_word_new_line3: 'eager
+
+  crop
+
+  copy'
+bip_39_word_new_line4: 'eager
+
+  crop
+
+  copy
+
+  wolf'
+bip_39_word_new_line5: 'eager
+
+  crop
+
+  copy
+
+  wolf
+
+  scout'
+bip_39_word_new_line6: 'eager
+
+  crop
+
+  copy
+
+  wolf
+
+  scout
+
+  balcony'
+bip_39_word_new_line7: 'eager
+
+  crop
+
+  copy
+
+  wolf
+
+  scout
+
+  balcony
+
+  daring'
+bip_39_word_new_line8: 'eager
+
+  crop
+
+  copy
+
+  wolf
+
+  scout
+
+  balcony
+
+  daring
+
+  ball'
+bip_39_word_new_line9: 'eager
+
+  crop
+
+  copy
+
+  wolf
+
+  scout
+
+  balcony
+
+  daring
+
+  ball
+
+  apology'
+bip_39_word_space_0:
+- eager
+- crop
+- copy
+- wolf
+- scout
+- balcony
+- daring
+- ball
+- apology
+- size
+- oppose
+- amused
+bip_39_word_space_1: eager
+bip_39_word_space_10: eager crop copy wolf scout balcony daring ball apology size
+bip_39_word_space_11: eager crop copy wolf scout balcony daring ball apology size
+  oppose
+bip_39_word_space_12: eager crop copy wolf scout balcony daring ball apology size
+  oppose amused
+bip_39_word_space_2: eager crop
+bip_39_word_space_3: eager crop copy
+bip_39_word_space_4: eager crop copy wolf
+bip_39_word_space_5: eager crop copy wolf scout
+bip_39_word_space_6: eager crop copy wolf scout balcony
+bip_39_word_space_7: eager crop copy wolf scout balcony daring
+bip_39_word_space_8: eager crop copy wolf scout balcony daring ball
+bip_39_word_space_9: eager crop copy wolf scout balcony daring ball apology
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: stool
+bip_39_word_new_br10: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt<br>resist
+bip_39_word_new_br11: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt<br>resist<br>cheap
+bip_39_word_new_br12: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt<br>resist<br>cheap<br>above
+bip_39_word_new_br2: stool<br>increase
+bip_39_word_new_br3: stool<br>increase<br>smart
+bip_39_word_new_br4: stool<br>increase<br>smart<br>insane
+bip_39_word_new_br5: stool<br>increase<br>smart<br>insane<br>great
+bip_39_word_new_br6: stool<br>increase<br>smart<br>insane<br>great<br>ready
+bip_39_word_new_br7: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse
+bip_39_word_new_br8: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink
+bip_39_word_new_br9: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt
+bip_39_word_new_line1: stool
+bip_39_word_new_line10: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink
+
+  skirt
+
+  resist'
+bip_39_word_new_line11: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink
+
+  skirt
+
+  resist
+
+  cheap'
+bip_39_word_new_line12: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink
+
+  skirt
+
+  resist
+
+  cheap
+
+  above'
+bip_39_word_new_line2: 'stool
+
+  increase'
+bip_39_word_new_line3: 'stool
+
+  increase
+
+  smart'
+bip_39_word_new_line4: 'stool
+
+  increase
+
+  smart
+
+  insane'
+bip_39_word_new_line5: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great'
+bip_39_word_new_line6: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready'
+bip_39_word_new_line7: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse'
+bip_39_word_new_line8: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink'
+bip_39_word_new_line9: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink
+
+  skirt'
+bip_39_word_space_0:
+- stool
+- increase
+- smart
+- insane
+- great
+- ready
+- pulse
+- drink
+- skirt
+- resist
+- cheap
+- above
+bip_39_word_space_1: stool
+bip_39_word_space_10: stool increase smart insane great ready pulse drink skirt resist
+bip_39_word_space_11: stool increase smart insane great ready pulse drink skirt resist
+  cheap
+bip_39_word_space_12: stool increase smart insane great ready pulse drink skirt resist
+  cheap above
+bip_39_word_space_2: stool increase
+bip_39_word_space_3: stool increase smart
+bip_39_word_space_4: stool increase smart insane
+bip_39_word_space_5: stool increase smart insane great
+bip_39_word_space_6: stool increase smart insane great ready
+bip_39_word_space_7: stool increase smart insane great ready pulse
+bip_39_word_space_8: stool increase smart insane great ready pulse drink
+bip_39_word_space_9: stool increase smart insane great ready pulse drink skirt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

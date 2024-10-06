@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sausage more
+  * bip 39 word 3: sausage more gravity
+  * bip 39 word: sausage more gravity churn rural this crunch drama fold people oblige actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sausage |  
+| bip_39_word_new_br10 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people |  
+| bip_39_word_new_br11 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people<br>oblige |  
+| bip_39_word_new_br12 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold<br>people<br>oblige<br>actual |  
+| bip_39_word_new_br2 | sausage<br>more |  
+| bip_39_word_new_br3 | sausage<br>more<br>gravity |  
+| bip_39_word_new_br4 | sausage<br>more<br>gravity<br>churn |  
+| bip_39_word_new_br5 | sausage<br>more<br>gravity<br>churn<br>rural |  
+| bip_39_word_new_br6 | sausage<br>more<br>gravity<br>churn<br>rural<br>this |  
+| bip_39_word_new_br7 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch |  
+| bip_39_word_new_br8 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama |  
+| bip_39_word_new_br9 | sausage<br>more<br>gravity<br>churn<br>rural<br>this<br>crunch<br>drama<br>fold |  
+| bip_39_word_new_line1 | sausage |  
+| bip_39_word_new_line10 | sausage
+more
+gravity
+churn
+rural
+this
+crunch
+drama
+fold
+people |  
+| bip_39_word_new_line11 | sausage
+more
+gravity
+churn
+rural
+this
+crunch
+drama
+fold
+people
+oblige |  
+| bip_39_word_new_line12 | sausage
+more
+gravity
+churn
+rural
+this
+crunch
+drama
+fold
+people
+oblige
+actual |  
+| bip_39_word_new_line2 | sausage
+more |  
+| bip_39_word_new_line3 | sausage
+more
+gravity |  
+| bip_39_word_new_line4 | sausage
+more
+gravity
+churn |  
+| bip_39_word_new_line5 | sausage
+more
+gravity
+churn
+rural |  
+| bip_39_word_new_line6 | sausage
+more
+gravity
+churn
+rural
+this |  
+| bip_39_word_new_line7 | sausage
+more
+gravity
+churn
+rural
+this
+crunch |  
+| bip_39_word_new_line8 | sausage
+more
+gravity
+churn
+rural
+this
+crunch
+drama |  
+| bip_39_word_new_line9 | sausage
+more
+gravity
+churn
+rural
+this
+crunch
+drama
+fold |  
+| bip_39_word_space_0 | ['sausage', 'more', 'gravity', 'churn', 'rural', 'this', 'crunch', 'drama', 'fold', 'people', 'oblige', 'actual'] |  
+| bip_39_word_space_1 | sausage |  
+| bip_39_word_space_10 | sausage more gravity churn rural this crunch drama fold people |  
+| bip_39_word_space_11 | sausage more gravity churn rural this crunch drama fold people oblige |  
+| bip_39_word_space_12 | sausage more gravity churn rural this crunch drama fold people oblige actual |  
+| bip_39_word_space_2 | sausage more |  
+| bip_39_word_space_3 | sausage more gravity |  
+| bip_39_word_space_4 | sausage more gravity churn |  
+| bip_39_word_space_5 | sausage more gravity churn rural |  
+| bip_39_word_space_6 | sausage more gravity churn rural this |  
+| bip_39_word_space_7 | sausage more gravity churn rural this crunch |  
+| bip_39_word_space_8 | sausage more gravity churn rural this crunch drama |  
+| bip_39_word_space_9 | sausage more gravity churn rural this crunch drama fold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

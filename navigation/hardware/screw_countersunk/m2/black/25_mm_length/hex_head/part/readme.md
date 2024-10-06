@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unable depend
+  * bip 39 word 3: unable depend hover
+  * bip 39 word: unable depend hover ride song hawk humble edit dress galaxy canal again
 
 ### other_codes
 * short_code: cs2b25h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unable |  
+| bip_39_word_new_br10 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy |  
+| bip_39_word_new_br11 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy<br>canal |  
+| bip_39_word_new_br12 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress<br>galaxy<br>canal<br>again |  
+| bip_39_word_new_br2 | unable<br>depend |  
+| bip_39_word_new_br3 | unable<br>depend<br>hover |  
+| bip_39_word_new_br4 | unable<br>depend<br>hover<br>ride |  
+| bip_39_word_new_br5 | unable<br>depend<br>hover<br>ride<br>song |  
+| bip_39_word_new_br6 | unable<br>depend<br>hover<br>ride<br>song<br>hawk |  
+| bip_39_word_new_br7 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble |  
+| bip_39_word_new_br8 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit |  
+| bip_39_word_new_br9 | unable<br>depend<br>hover<br>ride<br>song<br>hawk<br>humble<br>edit<br>dress |  
+| bip_39_word_new_line1 | unable |  
+| bip_39_word_new_line10 | unable
+depend
+hover
+ride
+song
+hawk
+humble
+edit
+dress
+galaxy |  
+| bip_39_word_new_line11 | unable
+depend
+hover
+ride
+song
+hawk
+humble
+edit
+dress
+galaxy
+canal |  
+| bip_39_word_new_line12 | unable
+depend
+hover
+ride
+song
+hawk
+humble
+edit
+dress
+galaxy
+canal
+again |  
+| bip_39_word_new_line2 | unable
+depend |  
+| bip_39_word_new_line3 | unable
+depend
+hover |  
+| bip_39_word_new_line4 | unable
+depend
+hover
+ride |  
+| bip_39_word_new_line5 | unable
+depend
+hover
+ride
+song |  
+| bip_39_word_new_line6 | unable
+depend
+hover
+ride
+song
+hawk |  
+| bip_39_word_new_line7 | unable
+depend
+hover
+ride
+song
+hawk
+humble |  
+| bip_39_word_new_line8 | unable
+depend
+hover
+ride
+song
+hawk
+humble
+edit |  
+| bip_39_word_new_line9 | unable
+depend
+hover
+ride
+song
+hawk
+humble
+edit
+dress |  
+| bip_39_word_space_0 | ['unable', 'depend', 'hover', 'ride', 'song', 'hawk', 'humble', 'edit', 'dress', 'galaxy', 'canal', 'again'] |  
+| bip_39_word_space_1 | unable |  
+| bip_39_word_space_10 | unable depend hover ride song hawk humble edit dress galaxy |  
+| bip_39_word_space_11 | unable depend hover ride song hawk humble edit dress galaxy canal |  
+| bip_39_word_space_12 | unable depend hover ride song hawk humble edit dress galaxy canal again |  
+| bip_39_word_space_2 | unable depend |  
+| bip_39_word_space_3 | unable depend hover |  
+| bip_39_word_space_4 | unable depend hover ride |  
+| bip_39_word_space_5 | unable depend hover ride song |  
+| bip_39_word_space_6 | unable depend hover ride song hawk |  
+| bip_39_word_space_7 | unable depend hover ride song hawk humble |  
+| bip_39_word_space_8 | unable depend hover ride song hawk humble edit |  
+| bip_39_word_space_9 | unable depend hover ride song hawk humble edit dress |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

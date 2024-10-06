@@ -1,3 +1,186 @@
+bip_39_word_new_br1: blade
+bip_39_word_new_br10: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start
+bip_39_word_new_br11: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery
+bip_39_word_new_br12: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery<br>arrange
+bip_39_word_new_br2: blade<br>please
+bip_39_word_new_br3: blade<br>please<br>drink
+bip_39_word_new_br4: blade<br>please<br>drink<br>rabbit
+bip_39_word_new_br5: blade<br>please<br>drink<br>rabbit<br>prison
+bip_39_word_new_br6: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh
+bip_39_word_new_br7: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose
+bip_39_word_new_br8: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak
+bip_39_word_new_br9: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop
+bip_39_word_new_line1: blade
+bip_39_word_new_line10: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak
+
+  shop
+
+  start'
+bip_39_word_new_line11: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak
+
+  shop
+
+  start
+
+  gallery'
+bip_39_word_new_line12: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak
+
+  shop
+
+  start
+
+  gallery
+
+  arrange'
+bip_39_word_new_line2: 'blade
+
+  please'
+bip_39_word_new_line3: 'blade
+
+  please
+
+  drink'
+bip_39_word_new_line4: 'blade
+
+  please
+
+  drink
+
+  rabbit'
+bip_39_word_new_line5: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison'
+bip_39_word_new_line6: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh'
+bip_39_word_new_line7: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose'
+bip_39_word_new_line8: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak'
+bip_39_word_new_line9: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak
+
+  shop'
+bip_39_word_space_0:
+- blade
+- please
+- drink
+- rabbit
+- prison
+- harsh
+- oppose
+- speak
+- shop
+- start
+- gallery
+- arrange
+bip_39_word_space_1: blade
+bip_39_word_space_10: blade please drink rabbit prison harsh oppose speak shop start
+bip_39_word_space_11: blade please drink rabbit prison harsh oppose speak shop start
+  gallery
+bip_39_word_space_12: blade please drink rabbit prison harsh oppose speak shop start
+  gallery arrange
+bip_39_word_space_2: blade please
+bip_39_word_space_3: blade please drink
+bip_39_word_space_4: blade please drink rabbit
+bip_39_word_space_5: blade please drink rabbit prison
+bip_39_word_space_6: blade please drink rabbit prison harsh
+bip_39_word_space_7: blade please drink rabbit prison harsh oppose
+bip_39_word_space_8: blade please drink rabbit prison harsh oppose speak
+bip_39_word_space_9: blade please drink rabbit prison harsh oppose speak shop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

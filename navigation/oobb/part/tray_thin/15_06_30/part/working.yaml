@@ -1,3 +1,187 @@
+bip_39_word_new_br1: depart
+bip_39_word_new_br10: depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince<br>prosper<br>master<br>sudden<br>dry
+bip_39_word_new_br11: depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince<br>prosper<br>master<br>sudden<br>dry<br>blur
+bip_39_word_new_br12: depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince<br>prosper<br>master<br>sudden<br>dry<br>blur<br>ask
+bip_39_word_new_br2: depart<br>mask
+bip_39_word_new_br3: depart<br>mask<br>lawsuit
+bip_39_word_new_br4: depart<br>mask<br>lawsuit<br>hunt
+bip_39_word_new_br5: depart<br>mask<br>lawsuit<br>hunt<br>combine
+bip_39_word_new_br6: depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince
+bip_39_word_new_br7: depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince<br>prosper
+bip_39_word_new_br8: depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince<br>prosper<br>master
+bip_39_word_new_br9: depart<br>mask<br>lawsuit<br>hunt<br>combine<br>convince<br>prosper<br>master<br>sudden
+bip_39_word_new_line1: depart
+bip_39_word_new_line10: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt
+
+  combine
+
+  convince
+
+  prosper
+
+  master
+
+  sudden
+
+  dry'
+bip_39_word_new_line11: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt
+
+  combine
+
+  convince
+
+  prosper
+
+  master
+
+  sudden
+
+  dry
+
+  blur'
+bip_39_word_new_line12: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt
+
+  combine
+
+  convince
+
+  prosper
+
+  master
+
+  sudden
+
+  dry
+
+  blur
+
+  ask'
+bip_39_word_new_line2: 'depart
+
+  mask'
+bip_39_word_new_line3: 'depart
+
+  mask
+
+  lawsuit'
+bip_39_word_new_line4: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt'
+bip_39_word_new_line5: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt
+
+  combine'
+bip_39_word_new_line6: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt
+
+  combine
+
+  convince'
+bip_39_word_new_line7: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt
+
+  combine
+
+  convince
+
+  prosper'
+bip_39_word_new_line8: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt
+
+  combine
+
+  convince
+
+  prosper
+
+  master'
+bip_39_word_new_line9: 'depart
+
+  mask
+
+  lawsuit
+
+  hunt
+
+  combine
+
+  convince
+
+  prosper
+
+  master
+
+  sudden'
+bip_39_word_space_0:
+- depart
+- mask
+- lawsuit
+- hunt
+- combine
+- convince
+- prosper
+- master
+- sudden
+- dry
+- blur
+- ask
+bip_39_word_space_1: depart
+bip_39_word_space_10: depart mask lawsuit hunt combine convince prosper master sudden
+  dry
+bip_39_word_space_11: depart mask lawsuit hunt combine convince prosper master sudden
+  dry blur
+bip_39_word_space_12: depart mask lawsuit hunt combine convince prosper master sudden
+  dry blur ask
+bip_39_word_space_2: depart mask
+bip_39_word_space_3: depart mask lawsuit
+bip_39_word_space_4: depart mask lawsuit hunt
+bip_39_word_space_5: depart mask lawsuit hunt combine
+bip_39_word_space_6: depart mask lawsuit hunt combine convince
+bip_39_word_space_7: depart mask lawsuit hunt combine convince prosper
+bip_39_word_space_8: depart mask lawsuit hunt combine convince prosper master
+bip_39_word_space_9: depart mask lawsuit hunt combine convince prosper master sudden
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

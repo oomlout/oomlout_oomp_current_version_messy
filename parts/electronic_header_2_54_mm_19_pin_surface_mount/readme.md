@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bag head
+  * bip 39 word 3: bag head day
+  * bip 39 word: bag head day impulse popular plunge unveil open bleak host property alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bag |  
+| bip_39_word_new_br10 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host |  
+| bip_39_word_new_br11 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host<br>property |  
+| bip_39_word_new_br12 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak<br>host<br>property<br>alarm |  
+| bip_39_word_new_br2 | bag<br>head |  
+| bip_39_word_new_br3 | bag<br>head<br>day |  
+| bip_39_word_new_br4 | bag<br>head<br>day<br>impulse |  
+| bip_39_word_new_br5 | bag<br>head<br>day<br>impulse<br>popular |  
+| bip_39_word_new_br6 | bag<br>head<br>day<br>impulse<br>popular<br>plunge |  
+| bip_39_word_new_br7 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil |  
+| bip_39_word_new_br8 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open |  
+| bip_39_word_new_br9 | bag<br>head<br>day<br>impulse<br>popular<br>plunge<br>unveil<br>open<br>bleak |  
+| bip_39_word_new_line1 | bag |  
+| bip_39_word_new_line10 | bag
+head
+day
+impulse
+popular
+plunge
+unveil
+open
+bleak
+host |  
+| bip_39_word_new_line11 | bag
+head
+day
+impulse
+popular
+plunge
+unveil
+open
+bleak
+host
+property |  
+| bip_39_word_new_line12 | bag
+head
+day
+impulse
+popular
+plunge
+unveil
+open
+bleak
+host
+property
+alarm |  
+| bip_39_word_new_line2 | bag
+head |  
+| bip_39_word_new_line3 | bag
+head
+day |  
+| bip_39_word_new_line4 | bag
+head
+day
+impulse |  
+| bip_39_word_new_line5 | bag
+head
+day
+impulse
+popular |  
+| bip_39_word_new_line6 | bag
+head
+day
+impulse
+popular
+plunge |  
+| bip_39_word_new_line7 | bag
+head
+day
+impulse
+popular
+plunge
+unveil |  
+| bip_39_word_new_line8 | bag
+head
+day
+impulse
+popular
+plunge
+unveil
+open |  
+| bip_39_word_new_line9 | bag
+head
+day
+impulse
+popular
+plunge
+unveil
+open
+bleak |  
+| bip_39_word_space_0 | ['bag', 'head', 'day', 'impulse', 'popular', 'plunge', 'unveil', 'open', 'bleak', 'host', 'property', 'alarm'] |  
+| bip_39_word_space_1 | bag |  
+| bip_39_word_space_10 | bag head day impulse popular plunge unveil open bleak host |  
+| bip_39_word_space_11 | bag head day impulse popular plunge unveil open bleak host property |  
+| bip_39_word_space_12 | bag head day impulse popular plunge unveil open bleak host property alarm |  
+| bip_39_word_space_2 | bag head |  
+| bip_39_word_space_3 | bag head day |  
+| bip_39_word_space_4 | bag head day impulse |  
+| bip_39_word_space_5 | bag head day impulse popular |  
+| bip_39_word_space_6 | bag head day impulse popular plunge |  
+| bip_39_word_space_7 | bag head day impulse popular plunge unveil |  
+| bip_39_word_space_8 | bag head day impulse popular plunge unveil open |  
+| bip_39_word_space_9 | bag head day impulse popular plunge unveil open bleak |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: layer
+bip_39_word_new_br10: layer<br>point<br>treat<br>train<br>improve<br>copper<br>unveil<br>dice<br>address<br>puppy
+bip_39_word_new_br11: layer<br>point<br>treat<br>train<br>improve<br>copper<br>unveil<br>dice<br>address<br>puppy<br>erupt
+bip_39_word_new_br12: layer<br>point<br>treat<br>train<br>improve<br>copper<br>unveil<br>dice<br>address<br>puppy<br>erupt<br>amused
+bip_39_word_new_br2: layer<br>point
+bip_39_word_new_br3: layer<br>point<br>treat
+bip_39_word_new_br4: layer<br>point<br>treat<br>train
+bip_39_word_new_br5: layer<br>point<br>treat<br>train<br>improve
+bip_39_word_new_br6: layer<br>point<br>treat<br>train<br>improve<br>copper
+bip_39_word_new_br7: layer<br>point<br>treat<br>train<br>improve<br>copper<br>unveil
+bip_39_word_new_br8: layer<br>point<br>treat<br>train<br>improve<br>copper<br>unveil<br>dice
+bip_39_word_new_br9: layer<br>point<br>treat<br>train<br>improve<br>copper<br>unveil<br>dice<br>address
+bip_39_word_new_line1: layer
+bip_39_word_new_line10: 'layer
+
+  point
+
+  treat
+
+  train
+
+  improve
+
+  copper
+
+  unveil
+
+  dice
+
+  address
+
+  puppy'
+bip_39_word_new_line11: 'layer
+
+  point
+
+  treat
+
+  train
+
+  improve
+
+  copper
+
+  unveil
+
+  dice
+
+  address
+
+  puppy
+
+  erupt'
+bip_39_word_new_line12: 'layer
+
+  point
+
+  treat
+
+  train
+
+  improve
+
+  copper
+
+  unveil
+
+  dice
+
+  address
+
+  puppy
+
+  erupt
+
+  amused'
+bip_39_word_new_line2: 'layer
+
+  point'
+bip_39_word_new_line3: 'layer
+
+  point
+
+  treat'
+bip_39_word_new_line4: 'layer
+
+  point
+
+  treat
+
+  train'
+bip_39_word_new_line5: 'layer
+
+  point
+
+  treat
+
+  train
+
+  improve'
+bip_39_word_new_line6: 'layer
+
+  point
+
+  treat
+
+  train
+
+  improve
+
+  copper'
+bip_39_word_new_line7: 'layer
+
+  point
+
+  treat
+
+  train
+
+  improve
+
+  copper
+
+  unveil'
+bip_39_word_new_line8: 'layer
+
+  point
+
+  treat
+
+  train
+
+  improve
+
+  copper
+
+  unveil
+
+  dice'
+bip_39_word_new_line9: 'layer
+
+  point
+
+  treat
+
+  train
+
+  improve
+
+  copper
+
+  unveil
+
+  dice
+
+  address'
+bip_39_word_space_0:
+- layer
+- point
+- treat
+- train
+- improve
+- copper
+- unveil
+- dice
+- address
+- puppy
+- erupt
+- amused
+bip_39_word_space_1: layer
+bip_39_word_space_10: layer point treat train improve copper unveil dice address puppy
+bip_39_word_space_11: layer point treat train improve copper unveil dice address puppy
+  erupt
+bip_39_word_space_12: layer point treat train improve copper unveil dice address puppy
+  erupt amused
+bip_39_word_space_2: layer point
+bip_39_word_space_3: layer point treat
+bip_39_word_space_4: layer point treat train
+bip_39_word_space_5: layer point treat train improve
+bip_39_word_space_6: layer point treat train improve copper
+bip_39_word_space_7: layer point treat train improve copper unveil
+bip_39_word_space_8: layer point treat train improve copper unveil dice
+bip_39_word_space_9: layer point treat train improve copper unveil dice address
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glass feature
+  * bip 39 word 3: glass feature crisp
+  * bip 39 word: glass feature crisp market aisle uncover remain guide patch cable real actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glass |  
+| bip_39_word_new_br10 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover<br>remain<br>guide<br>patch<br>cable |  
+| bip_39_word_new_br11 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover<br>remain<br>guide<br>patch<br>cable<br>real |  
+| bip_39_word_new_br12 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover<br>remain<br>guide<br>patch<br>cable<br>real<br>actual |  
+| bip_39_word_new_br2 | glass<br>feature |  
+| bip_39_word_new_br3 | glass<br>feature<br>crisp |  
+| bip_39_word_new_br4 | glass<br>feature<br>crisp<br>market |  
+| bip_39_word_new_br5 | glass<br>feature<br>crisp<br>market<br>aisle |  
+| bip_39_word_new_br6 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover |  
+| bip_39_word_new_br7 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover<br>remain |  
+| bip_39_word_new_br8 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover<br>remain<br>guide |  
+| bip_39_word_new_br9 | glass<br>feature<br>crisp<br>market<br>aisle<br>uncover<br>remain<br>guide<br>patch |  
+| bip_39_word_new_line1 | glass |  
+| bip_39_word_new_line10 | glass
+feature
+crisp
+market
+aisle
+uncover
+remain
+guide
+patch
+cable |  
+| bip_39_word_new_line11 | glass
+feature
+crisp
+market
+aisle
+uncover
+remain
+guide
+patch
+cable
+real |  
+| bip_39_word_new_line12 | glass
+feature
+crisp
+market
+aisle
+uncover
+remain
+guide
+patch
+cable
+real
+actual |  
+| bip_39_word_new_line2 | glass
+feature |  
+| bip_39_word_new_line3 | glass
+feature
+crisp |  
+| bip_39_word_new_line4 | glass
+feature
+crisp
+market |  
+| bip_39_word_new_line5 | glass
+feature
+crisp
+market
+aisle |  
+| bip_39_word_new_line6 | glass
+feature
+crisp
+market
+aisle
+uncover |  
+| bip_39_word_new_line7 | glass
+feature
+crisp
+market
+aisle
+uncover
+remain |  
+| bip_39_word_new_line8 | glass
+feature
+crisp
+market
+aisle
+uncover
+remain
+guide |  
+| bip_39_word_new_line9 | glass
+feature
+crisp
+market
+aisle
+uncover
+remain
+guide
+patch |  
+| bip_39_word_space_0 | ['glass', 'feature', 'crisp', 'market', 'aisle', 'uncover', 'remain', 'guide', 'patch', 'cable', 'real', 'actual'] |  
+| bip_39_word_space_1 | glass |  
+| bip_39_word_space_10 | glass feature crisp market aisle uncover remain guide patch cable |  
+| bip_39_word_space_11 | glass feature crisp market aisle uncover remain guide patch cable real |  
+| bip_39_word_space_12 | glass feature crisp market aisle uncover remain guide patch cable real actual |  
+| bip_39_word_space_2 | glass feature |  
+| bip_39_word_space_3 | glass feature crisp |  
+| bip_39_word_space_4 | glass feature crisp market |  
+| bip_39_word_space_5 | glass feature crisp market aisle |  
+| bip_39_word_space_6 | glass feature crisp market aisle uncover |  
+| bip_39_word_space_7 | glass feature crisp market aisle uncover remain |  
+| bip_39_word_space_8 | glass feature crisp market aisle uncover remain guide |  
+| bip_39_word_space_9 | glass feature crisp market aisle uncover remain guide patch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

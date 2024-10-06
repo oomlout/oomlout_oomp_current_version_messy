@@ -1,3 +1,187 @@
+bip_39_word_new_br1: barrel
+bip_39_word_new_br10: barrel<br>drum<br>chicken<br>window<br>dress<br>history<br>kingdom<br>noodle<br>dentist<br>beach
+bip_39_word_new_br11: barrel<br>drum<br>chicken<br>window<br>dress<br>history<br>kingdom<br>noodle<br>dentist<br>beach<br>erosion
+bip_39_word_new_br12: barrel<br>drum<br>chicken<br>window<br>dress<br>history<br>kingdom<br>noodle<br>dentist<br>beach<br>erosion<br>abstract
+bip_39_word_new_br2: barrel<br>drum
+bip_39_word_new_br3: barrel<br>drum<br>chicken
+bip_39_word_new_br4: barrel<br>drum<br>chicken<br>window
+bip_39_word_new_br5: barrel<br>drum<br>chicken<br>window<br>dress
+bip_39_word_new_br6: barrel<br>drum<br>chicken<br>window<br>dress<br>history
+bip_39_word_new_br7: barrel<br>drum<br>chicken<br>window<br>dress<br>history<br>kingdom
+bip_39_word_new_br8: barrel<br>drum<br>chicken<br>window<br>dress<br>history<br>kingdom<br>noodle
+bip_39_word_new_br9: barrel<br>drum<br>chicken<br>window<br>dress<br>history<br>kingdom<br>noodle<br>dentist
+bip_39_word_new_line1: barrel
+bip_39_word_new_line10: 'barrel
+
+  drum
+
+  chicken
+
+  window
+
+  dress
+
+  history
+
+  kingdom
+
+  noodle
+
+  dentist
+
+  beach'
+bip_39_word_new_line11: 'barrel
+
+  drum
+
+  chicken
+
+  window
+
+  dress
+
+  history
+
+  kingdom
+
+  noodle
+
+  dentist
+
+  beach
+
+  erosion'
+bip_39_word_new_line12: 'barrel
+
+  drum
+
+  chicken
+
+  window
+
+  dress
+
+  history
+
+  kingdom
+
+  noodle
+
+  dentist
+
+  beach
+
+  erosion
+
+  abstract'
+bip_39_word_new_line2: 'barrel
+
+  drum'
+bip_39_word_new_line3: 'barrel
+
+  drum
+
+  chicken'
+bip_39_word_new_line4: 'barrel
+
+  drum
+
+  chicken
+
+  window'
+bip_39_word_new_line5: 'barrel
+
+  drum
+
+  chicken
+
+  window
+
+  dress'
+bip_39_word_new_line6: 'barrel
+
+  drum
+
+  chicken
+
+  window
+
+  dress
+
+  history'
+bip_39_word_new_line7: 'barrel
+
+  drum
+
+  chicken
+
+  window
+
+  dress
+
+  history
+
+  kingdom'
+bip_39_word_new_line8: 'barrel
+
+  drum
+
+  chicken
+
+  window
+
+  dress
+
+  history
+
+  kingdom
+
+  noodle'
+bip_39_word_new_line9: 'barrel
+
+  drum
+
+  chicken
+
+  window
+
+  dress
+
+  history
+
+  kingdom
+
+  noodle
+
+  dentist'
+bip_39_word_space_0:
+- barrel
+- drum
+- chicken
+- window
+- dress
+- history
+- kingdom
+- noodle
+- dentist
+- beach
+- erosion
+- abstract
+bip_39_word_space_1: barrel
+bip_39_word_space_10: barrel drum chicken window dress history kingdom noodle dentist
+  beach
+bip_39_word_space_11: barrel drum chicken window dress history kingdom noodle dentist
+  beach erosion
+bip_39_word_space_12: barrel drum chicken window dress history kingdom noodle dentist
+  beach erosion abstract
+bip_39_word_space_2: barrel drum
+bip_39_word_space_3: barrel drum chicken
+bip_39_word_space_4: barrel drum chicken window
+bip_39_word_space_5: barrel drum chicken window dress
+bip_39_word_space_6: barrel drum chicken window dress history
+bip_39_word_space_7: barrel drum chicken window dress history kingdom
+bip_39_word_space_8: barrel drum chicken window dress history kingdom noodle
+bip_39_word_space_9: barrel drum chicken window dress history kingdom noodle dentist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

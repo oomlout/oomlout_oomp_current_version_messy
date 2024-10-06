@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mountain catalog
+  * bip 39 word 3: mountain catalog order
+  * bip 39 word: mountain catalog order stock surround believe stock mule office peace tuition annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mountain |  
+| bip_39_word_new_br10 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe<br>stock<br>mule<br>office<br>peace |  
+| bip_39_word_new_br11 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe<br>stock<br>mule<br>office<br>peace<br>tuition |  
+| bip_39_word_new_br12 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe<br>stock<br>mule<br>office<br>peace<br>tuition<br>annual |  
+| bip_39_word_new_br2 | mountain<br>catalog |  
+| bip_39_word_new_br3 | mountain<br>catalog<br>order |  
+| bip_39_word_new_br4 | mountain<br>catalog<br>order<br>stock |  
+| bip_39_word_new_br5 | mountain<br>catalog<br>order<br>stock<br>surround |  
+| bip_39_word_new_br6 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe |  
+| bip_39_word_new_br7 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe<br>stock |  
+| bip_39_word_new_br8 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe<br>stock<br>mule |  
+| bip_39_word_new_br9 | mountain<br>catalog<br>order<br>stock<br>surround<br>believe<br>stock<br>mule<br>office |  
+| bip_39_word_new_line1 | mountain |  
+| bip_39_word_new_line10 | mountain
+catalog
+order
+stock
+surround
+believe
+stock
+mule
+office
+peace |  
+| bip_39_word_new_line11 | mountain
+catalog
+order
+stock
+surround
+believe
+stock
+mule
+office
+peace
+tuition |  
+| bip_39_word_new_line12 | mountain
+catalog
+order
+stock
+surround
+believe
+stock
+mule
+office
+peace
+tuition
+annual |  
+| bip_39_word_new_line2 | mountain
+catalog |  
+| bip_39_word_new_line3 | mountain
+catalog
+order |  
+| bip_39_word_new_line4 | mountain
+catalog
+order
+stock |  
+| bip_39_word_new_line5 | mountain
+catalog
+order
+stock
+surround |  
+| bip_39_word_new_line6 | mountain
+catalog
+order
+stock
+surround
+believe |  
+| bip_39_word_new_line7 | mountain
+catalog
+order
+stock
+surround
+believe
+stock |  
+| bip_39_word_new_line8 | mountain
+catalog
+order
+stock
+surround
+believe
+stock
+mule |  
+| bip_39_word_new_line9 | mountain
+catalog
+order
+stock
+surround
+believe
+stock
+mule
+office |  
+| bip_39_word_space_0 | ['mountain', 'catalog', 'order', 'stock', 'surround', 'believe', 'stock', 'mule', 'office', 'peace', 'tuition', 'annual'] |  
+| bip_39_word_space_1 | mountain |  
+| bip_39_word_space_10 | mountain catalog order stock surround believe stock mule office peace |  
+| bip_39_word_space_11 | mountain catalog order stock surround believe stock mule office peace tuition |  
+| bip_39_word_space_12 | mountain catalog order stock surround believe stock mule office peace tuition annual |  
+| bip_39_word_space_2 | mountain catalog |  
+| bip_39_word_space_3 | mountain catalog order |  
+| bip_39_word_space_4 | mountain catalog order stock |  
+| bip_39_word_space_5 | mountain catalog order stock surround |  
+| bip_39_word_space_6 | mountain catalog order stock surround believe |  
+| bip_39_word_space_7 | mountain catalog order stock surround believe stock |  
+| bip_39_word_space_8 | mountain catalog order stock surround believe stock mule |  
+| bip_39_word_space_9 | mountain catalog order stock surround believe stock mule office |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gain thrive
+  * bip 39 word 3: gain thrive click
+  * bip 39 word: gain thrive click roast sight shrug urge clay turtle flight height afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gain |  
+| bip_39_word_new_br10 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug<br>urge<br>clay<br>turtle<br>flight |  
+| bip_39_word_new_br11 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug<br>urge<br>clay<br>turtle<br>flight<br>height |  
+| bip_39_word_new_br12 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug<br>urge<br>clay<br>turtle<br>flight<br>height<br>afford |  
+| bip_39_word_new_br2 | gain<br>thrive |  
+| bip_39_word_new_br3 | gain<br>thrive<br>click |  
+| bip_39_word_new_br4 | gain<br>thrive<br>click<br>roast |  
+| bip_39_word_new_br5 | gain<br>thrive<br>click<br>roast<br>sight |  
+| bip_39_word_new_br6 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug |  
+| bip_39_word_new_br7 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug<br>urge |  
+| bip_39_word_new_br8 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug<br>urge<br>clay |  
+| bip_39_word_new_br9 | gain<br>thrive<br>click<br>roast<br>sight<br>shrug<br>urge<br>clay<br>turtle |  
+| bip_39_word_new_line1 | gain |  
+| bip_39_word_new_line10 | gain
+thrive
+click
+roast
+sight
+shrug
+urge
+clay
+turtle
+flight |  
+| bip_39_word_new_line11 | gain
+thrive
+click
+roast
+sight
+shrug
+urge
+clay
+turtle
+flight
+height |  
+| bip_39_word_new_line12 | gain
+thrive
+click
+roast
+sight
+shrug
+urge
+clay
+turtle
+flight
+height
+afford |  
+| bip_39_word_new_line2 | gain
+thrive |  
+| bip_39_word_new_line3 | gain
+thrive
+click |  
+| bip_39_word_new_line4 | gain
+thrive
+click
+roast |  
+| bip_39_word_new_line5 | gain
+thrive
+click
+roast
+sight |  
+| bip_39_word_new_line6 | gain
+thrive
+click
+roast
+sight
+shrug |  
+| bip_39_word_new_line7 | gain
+thrive
+click
+roast
+sight
+shrug
+urge |  
+| bip_39_word_new_line8 | gain
+thrive
+click
+roast
+sight
+shrug
+urge
+clay |  
+| bip_39_word_new_line9 | gain
+thrive
+click
+roast
+sight
+shrug
+urge
+clay
+turtle |  
+| bip_39_word_space_0 | ['gain', 'thrive', 'click', 'roast', 'sight', 'shrug', 'urge', 'clay', 'turtle', 'flight', 'height', 'afford'] |  
+| bip_39_word_space_1 | gain |  
+| bip_39_word_space_10 | gain thrive click roast sight shrug urge clay turtle flight |  
+| bip_39_word_space_11 | gain thrive click roast sight shrug urge clay turtle flight height |  
+| bip_39_word_space_12 | gain thrive click roast sight shrug urge clay turtle flight height afford |  
+| bip_39_word_space_2 | gain thrive |  
+| bip_39_word_space_3 | gain thrive click |  
+| bip_39_word_space_4 | gain thrive click roast |  
+| bip_39_word_space_5 | gain thrive click roast sight |  
+| bip_39_word_space_6 | gain thrive click roast sight shrug |  
+| bip_39_word_space_7 | gain thrive click roast sight shrug urge |  
+| bip_39_word_space_8 | gain thrive click roast sight shrug urge clay |  
+| bip_39_word_space_9 | gain thrive click roast sight shrug urge clay turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

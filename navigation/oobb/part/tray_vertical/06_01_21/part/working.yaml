@@ -1,3 +1,186 @@
+bip_39_word_new_br1: odor
+bip_39_word_new_br10: odor<br>forward<br>diary<br>master<br>flat<br>dream<br>clip<br>swing<br>small<br>curve
+bip_39_word_new_br11: odor<br>forward<br>diary<br>master<br>flat<br>dream<br>clip<br>swing<br>small<br>curve<br>unusual
+bip_39_word_new_br12: odor<br>forward<br>diary<br>master<br>flat<br>dream<br>clip<br>swing<br>small<br>curve<br>unusual<br>attend
+bip_39_word_new_br2: odor<br>forward
+bip_39_word_new_br3: odor<br>forward<br>diary
+bip_39_word_new_br4: odor<br>forward<br>diary<br>master
+bip_39_word_new_br5: odor<br>forward<br>diary<br>master<br>flat
+bip_39_word_new_br6: odor<br>forward<br>diary<br>master<br>flat<br>dream
+bip_39_word_new_br7: odor<br>forward<br>diary<br>master<br>flat<br>dream<br>clip
+bip_39_word_new_br8: odor<br>forward<br>diary<br>master<br>flat<br>dream<br>clip<br>swing
+bip_39_word_new_br9: odor<br>forward<br>diary<br>master<br>flat<br>dream<br>clip<br>swing<br>small
+bip_39_word_new_line1: odor
+bip_39_word_new_line10: 'odor
+
+  forward
+
+  diary
+
+  master
+
+  flat
+
+  dream
+
+  clip
+
+  swing
+
+  small
+
+  curve'
+bip_39_word_new_line11: 'odor
+
+  forward
+
+  diary
+
+  master
+
+  flat
+
+  dream
+
+  clip
+
+  swing
+
+  small
+
+  curve
+
+  unusual'
+bip_39_word_new_line12: 'odor
+
+  forward
+
+  diary
+
+  master
+
+  flat
+
+  dream
+
+  clip
+
+  swing
+
+  small
+
+  curve
+
+  unusual
+
+  attend'
+bip_39_word_new_line2: 'odor
+
+  forward'
+bip_39_word_new_line3: 'odor
+
+  forward
+
+  diary'
+bip_39_word_new_line4: 'odor
+
+  forward
+
+  diary
+
+  master'
+bip_39_word_new_line5: 'odor
+
+  forward
+
+  diary
+
+  master
+
+  flat'
+bip_39_word_new_line6: 'odor
+
+  forward
+
+  diary
+
+  master
+
+  flat
+
+  dream'
+bip_39_word_new_line7: 'odor
+
+  forward
+
+  diary
+
+  master
+
+  flat
+
+  dream
+
+  clip'
+bip_39_word_new_line8: 'odor
+
+  forward
+
+  diary
+
+  master
+
+  flat
+
+  dream
+
+  clip
+
+  swing'
+bip_39_word_new_line9: 'odor
+
+  forward
+
+  diary
+
+  master
+
+  flat
+
+  dream
+
+  clip
+
+  swing
+
+  small'
+bip_39_word_space_0:
+- odor
+- forward
+- diary
+- master
+- flat
+- dream
+- clip
+- swing
+- small
+- curve
+- unusual
+- attend
+bip_39_word_space_1: odor
+bip_39_word_space_10: odor forward diary master flat dream clip swing small curve
+bip_39_word_space_11: odor forward diary master flat dream clip swing small curve
+  unusual
+bip_39_word_space_12: odor forward diary master flat dream clip swing small curve
+  unusual attend
+bip_39_word_space_2: odor forward
+bip_39_word_space_3: odor forward diary
+bip_39_word_space_4: odor forward diary master
+bip_39_word_space_5: odor forward diary master flat
+bip_39_word_space_6: odor forward diary master flat dream
+bip_39_word_space_7: odor forward diary master flat dream clip
+bip_39_word_space_8: odor forward diary master flat dream clip swing
+bip_39_word_space_9: odor forward diary master flat dream clip swing small
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

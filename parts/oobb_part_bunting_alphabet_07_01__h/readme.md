@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: h
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: board pride
+  * bip 39 word 3: board pride cry
+  * bip 39 word: board pride cry equal long glimpse power novel hold dove above absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | board |  
+| bip_39_word_new_br10 | board<br>pride<br>cry<br>equal<br>long<br>glimpse<br>power<br>novel<br>hold<br>dove |  
+| bip_39_word_new_br11 | board<br>pride<br>cry<br>equal<br>long<br>glimpse<br>power<br>novel<br>hold<br>dove<br>above |  
+| bip_39_word_new_br12 | board<br>pride<br>cry<br>equal<br>long<br>glimpse<br>power<br>novel<br>hold<br>dove<br>above<br>absent |  
+| bip_39_word_new_br2 | board<br>pride |  
+| bip_39_word_new_br3 | board<br>pride<br>cry |  
+| bip_39_word_new_br4 | board<br>pride<br>cry<br>equal |  
+| bip_39_word_new_br5 | board<br>pride<br>cry<br>equal<br>long |  
+| bip_39_word_new_br6 | board<br>pride<br>cry<br>equal<br>long<br>glimpse |  
+| bip_39_word_new_br7 | board<br>pride<br>cry<br>equal<br>long<br>glimpse<br>power |  
+| bip_39_word_new_br8 | board<br>pride<br>cry<br>equal<br>long<br>glimpse<br>power<br>novel |  
+| bip_39_word_new_br9 | board<br>pride<br>cry<br>equal<br>long<br>glimpse<br>power<br>novel<br>hold |  
+| bip_39_word_new_line1 | board |  
+| bip_39_word_new_line10 | board
+pride
+cry
+equal
+long
+glimpse
+power
+novel
+hold
+dove |  
+| bip_39_word_new_line11 | board
+pride
+cry
+equal
+long
+glimpse
+power
+novel
+hold
+dove
+above |  
+| bip_39_word_new_line12 | board
+pride
+cry
+equal
+long
+glimpse
+power
+novel
+hold
+dove
+above
+absent |  
+| bip_39_word_new_line2 | board
+pride |  
+| bip_39_word_new_line3 | board
+pride
+cry |  
+| bip_39_word_new_line4 | board
+pride
+cry
+equal |  
+| bip_39_word_new_line5 | board
+pride
+cry
+equal
+long |  
+| bip_39_word_new_line6 | board
+pride
+cry
+equal
+long
+glimpse |  
+| bip_39_word_new_line7 | board
+pride
+cry
+equal
+long
+glimpse
+power |  
+| bip_39_word_new_line8 | board
+pride
+cry
+equal
+long
+glimpse
+power
+novel |  
+| bip_39_word_new_line9 | board
+pride
+cry
+equal
+long
+glimpse
+power
+novel
+hold |  
+| bip_39_word_space_0 | ['board', 'pride', 'cry', 'equal', 'long', 'glimpse', 'power', 'novel', 'hold', 'dove', 'above', 'absent'] |  
+| bip_39_word_space_1 | board |  
+| bip_39_word_space_10 | board pride cry equal long glimpse power novel hold dove |  
+| bip_39_word_space_11 | board pride cry equal long glimpse power novel hold dove above |  
+| bip_39_word_space_12 | board pride cry equal long glimpse power novel hold dove above absent |  
+| bip_39_word_space_2 | board pride |  
+| bip_39_word_space_3 | board pride cry |  
+| bip_39_word_space_4 | board pride cry equal |  
+| bip_39_word_space_5 | board pride cry equal long |  
+| bip_39_word_space_6 | board pride cry equal long glimpse |  
+| bip_39_word_space_7 | board pride cry equal long glimpse power |  
+| bip_39_word_space_8 | board pride cry equal long glimpse power novel |  
+| bip_39_word_space_9 | board pride cry equal long glimpse power novel hold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

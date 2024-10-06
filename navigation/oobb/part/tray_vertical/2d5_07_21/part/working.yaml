@@ -1,3 +1,186 @@
+bip_39_word_new_br1: arm
+bip_39_word_new_br10: arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle
+bip_39_word_new_br11: arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle<br>earth
+bip_39_word_new_br12: arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless<br>giggle<br>earth<br>amazing
+bip_39_word_new_br2: arm<br>door
+bip_39_word_new_br3: arm<br>door<br>guilt
+bip_39_word_new_br4: arm<br>door<br>guilt<br>secret
+bip_39_word_new_br5: arm<br>door<br>guilt<br>secret<br>tray
+bip_39_word_new_br6: arm<br>door<br>guilt<br>secret<br>tray<br>funny
+bip_39_word_new_br7: arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain
+bip_39_word_new_br8: arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great
+bip_39_word_new_br9: arm<br>door<br>guilt<br>secret<br>tray<br>funny<br>curtain<br>great<br>endless
+bip_39_word_new_line1: arm
+bip_39_word_new_line10: 'arm
+
+  door
+
+  guilt
+
+  secret
+
+  tray
+
+  funny
+
+  curtain
+
+  great
+
+  endless
+
+  giggle'
+bip_39_word_new_line11: 'arm
+
+  door
+
+  guilt
+
+  secret
+
+  tray
+
+  funny
+
+  curtain
+
+  great
+
+  endless
+
+  giggle
+
+  earth'
+bip_39_word_new_line12: 'arm
+
+  door
+
+  guilt
+
+  secret
+
+  tray
+
+  funny
+
+  curtain
+
+  great
+
+  endless
+
+  giggle
+
+  earth
+
+  amazing'
+bip_39_word_new_line2: 'arm
+
+  door'
+bip_39_word_new_line3: 'arm
+
+  door
+
+  guilt'
+bip_39_word_new_line4: 'arm
+
+  door
+
+  guilt
+
+  secret'
+bip_39_word_new_line5: 'arm
+
+  door
+
+  guilt
+
+  secret
+
+  tray'
+bip_39_word_new_line6: 'arm
+
+  door
+
+  guilt
+
+  secret
+
+  tray
+
+  funny'
+bip_39_word_new_line7: 'arm
+
+  door
+
+  guilt
+
+  secret
+
+  tray
+
+  funny
+
+  curtain'
+bip_39_word_new_line8: 'arm
+
+  door
+
+  guilt
+
+  secret
+
+  tray
+
+  funny
+
+  curtain
+
+  great'
+bip_39_word_new_line9: 'arm
+
+  door
+
+  guilt
+
+  secret
+
+  tray
+
+  funny
+
+  curtain
+
+  great
+
+  endless'
+bip_39_word_space_0:
+- arm
+- door
+- guilt
+- secret
+- tray
+- funny
+- curtain
+- great
+- endless
+- giggle
+- earth
+- amazing
+bip_39_word_space_1: arm
+bip_39_word_space_10: arm door guilt secret tray funny curtain great endless giggle
+bip_39_word_space_11: arm door guilt secret tray funny curtain great endless giggle
+  earth
+bip_39_word_space_12: arm door guilt secret tray funny curtain great endless giggle
+  earth amazing
+bip_39_word_space_2: arm door
+bip_39_word_space_3: arm door guilt
+bip_39_word_space_4: arm door guilt secret
+bip_39_word_space_5: arm door guilt secret tray
+bip_39_word_space_6: arm door guilt secret tray funny
+bip_39_word_space_7: arm door guilt secret tray funny curtain
+bip_39_word_space_8: arm door guilt secret tray funny curtain great
+bip_39_word_space_9: arm door guilt secret tray funny curtain great endless
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: middle home
+  * bip 39 word 3: middle home decorate
+  * bip 39 word: middle home decorate unlock orient spirit pipe tree debris tourist neither actor
 
 ### other_codes
 * short_code: br61802
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | middle |  
+| bip_39_word_new_br10 | middle<br>home<br>decorate<br>unlock<br>orient<br>spirit<br>pipe<br>tree<br>debris<br>tourist |  
+| bip_39_word_new_br11 | middle<br>home<br>decorate<br>unlock<br>orient<br>spirit<br>pipe<br>tree<br>debris<br>tourist<br>neither |  
+| bip_39_word_new_br12 | middle<br>home<br>decorate<br>unlock<br>orient<br>spirit<br>pipe<br>tree<br>debris<br>tourist<br>neither<br>actor |  
+| bip_39_word_new_br2 | middle<br>home |  
+| bip_39_word_new_br3 | middle<br>home<br>decorate |  
+| bip_39_word_new_br4 | middle<br>home<br>decorate<br>unlock |  
+| bip_39_word_new_br5 | middle<br>home<br>decorate<br>unlock<br>orient |  
+| bip_39_word_new_br6 | middle<br>home<br>decorate<br>unlock<br>orient<br>spirit |  
+| bip_39_word_new_br7 | middle<br>home<br>decorate<br>unlock<br>orient<br>spirit<br>pipe |  
+| bip_39_word_new_br8 | middle<br>home<br>decorate<br>unlock<br>orient<br>spirit<br>pipe<br>tree |  
+| bip_39_word_new_br9 | middle<br>home<br>decorate<br>unlock<br>orient<br>spirit<br>pipe<br>tree<br>debris |  
+| bip_39_word_new_line1 | middle |  
+| bip_39_word_new_line10 | middle
+home
+decorate
+unlock
+orient
+spirit
+pipe
+tree
+debris
+tourist |  
+| bip_39_word_new_line11 | middle
+home
+decorate
+unlock
+orient
+spirit
+pipe
+tree
+debris
+tourist
+neither |  
+| bip_39_word_new_line12 | middle
+home
+decorate
+unlock
+orient
+spirit
+pipe
+tree
+debris
+tourist
+neither
+actor |  
+| bip_39_word_new_line2 | middle
+home |  
+| bip_39_word_new_line3 | middle
+home
+decorate |  
+| bip_39_word_new_line4 | middle
+home
+decorate
+unlock |  
+| bip_39_word_new_line5 | middle
+home
+decorate
+unlock
+orient |  
+| bip_39_word_new_line6 | middle
+home
+decorate
+unlock
+orient
+spirit |  
+| bip_39_word_new_line7 | middle
+home
+decorate
+unlock
+orient
+spirit
+pipe |  
+| bip_39_word_new_line8 | middle
+home
+decorate
+unlock
+orient
+spirit
+pipe
+tree |  
+| bip_39_word_new_line9 | middle
+home
+decorate
+unlock
+orient
+spirit
+pipe
+tree
+debris |  
+| bip_39_word_space_0 | ['middle', 'home', 'decorate', 'unlock', 'orient', 'spirit', 'pipe', 'tree', 'debris', 'tourist', 'neither', 'actor'] |  
+| bip_39_word_space_1 | middle |  
+| bip_39_word_space_10 | middle home decorate unlock orient spirit pipe tree debris tourist |  
+| bip_39_word_space_11 | middle home decorate unlock orient spirit pipe tree debris tourist neither |  
+| bip_39_word_space_12 | middle home decorate unlock orient spirit pipe tree debris tourist neither actor |  
+| bip_39_word_space_2 | middle home |  
+| bip_39_word_space_3 | middle home decorate |  
+| bip_39_word_space_4 | middle home decorate unlock |  
+| bip_39_word_space_5 | middle home decorate unlock orient |  
+| bip_39_word_space_6 | middle home decorate unlock orient spirit |  
+| bip_39_word_space_7 | middle home decorate unlock orient spirit pipe |  
+| bip_39_word_space_8 | middle home decorate unlock orient spirit pipe tree |  
+| bip_39_word_space_9 | middle home decorate unlock orient spirit pipe tree debris |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blouse price
+  * bip 39 word 3: blouse price stairs
+  * bip 39 word: blouse price stairs render render toast drum print shoot capital mushroom aerobic
 
 ### other_codes
 * short_code: sc4b50h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blouse |  
+| bip_39_word_new_br10 | blouse<br>price<br>stairs<br>render<br>render<br>toast<br>drum<br>print<br>shoot<br>capital |  
+| bip_39_word_new_br11 | blouse<br>price<br>stairs<br>render<br>render<br>toast<br>drum<br>print<br>shoot<br>capital<br>mushroom |  
+| bip_39_word_new_br12 | blouse<br>price<br>stairs<br>render<br>render<br>toast<br>drum<br>print<br>shoot<br>capital<br>mushroom<br>aerobic |  
+| bip_39_word_new_br2 | blouse<br>price |  
+| bip_39_word_new_br3 | blouse<br>price<br>stairs |  
+| bip_39_word_new_br4 | blouse<br>price<br>stairs<br>render |  
+| bip_39_word_new_br5 | blouse<br>price<br>stairs<br>render<br>render |  
+| bip_39_word_new_br6 | blouse<br>price<br>stairs<br>render<br>render<br>toast |  
+| bip_39_word_new_br7 | blouse<br>price<br>stairs<br>render<br>render<br>toast<br>drum |  
+| bip_39_word_new_br8 | blouse<br>price<br>stairs<br>render<br>render<br>toast<br>drum<br>print |  
+| bip_39_word_new_br9 | blouse<br>price<br>stairs<br>render<br>render<br>toast<br>drum<br>print<br>shoot |  
+| bip_39_word_new_line1 | blouse |  
+| bip_39_word_new_line10 | blouse
+price
+stairs
+render
+render
+toast
+drum
+print
+shoot
+capital |  
+| bip_39_word_new_line11 | blouse
+price
+stairs
+render
+render
+toast
+drum
+print
+shoot
+capital
+mushroom |  
+| bip_39_word_new_line12 | blouse
+price
+stairs
+render
+render
+toast
+drum
+print
+shoot
+capital
+mushroom
+aerobic |  
+| bip_39_word_new_line2 | blouse
+price |  
+| bip_39_word_new_line3 | blouse
+price
+stairs |  
+| bip_39_word_new_line4 | blouse
+price
+stairs
+render |  
+| bip_39_word_new_line5 | blouse
+price
+stairs
+render
+render |  
+| bip_39_word_new_line6 | blouse
+price
+stairs
+render
+render
+toast |  
+| bip_39_word_new_line7 | blouse
+price
+stairs
+render
+render
+toast
+drum |  
+| bip_39_word_new_line8 | blouse
+price
+stairs
+render
+render
+toast
+drum
+print |  
+| bip_39_word_new_line9 | blouse
+price
+stairs
+render
+render
+toast
+drum
+print
+shoot |  
+| bip_39_word_space_0 | ['blouse', 'price', 'stairs', 'render', 'render', 'toast', 'drum', 'print', 'shoot', 'capital', 'mushroom', 'aerobic'] |  
+| bip_39_word_space_1 | blouse |  
+| bip_39_word_space_10 | blouse price stairs render render toast drum print shoot capital |  
+| bip_39_word_space_11 | blouse price stairs render render toast drum print shoot capital mushroom |  
+| bip_39_word_space_12 | blouse price stairs render render toast drum print shoot capital mushroom aerobic |  
+| bip_39_word_space_2 | blouse price |  
+| bip_39_word_space_3 | blouse price stairs |  
+| bip_39_word_space_4 | blouse price stairs render |  
+| bip_39_word_space_5 | blouse price stairs render render |  
+| bip_39_word_space_6 | blouse price stairs render render toast |  
+| bip_39_word_space_7 | blouse price stairs render render toast drum |  
+| bip_39_word_space_8 | blouse price stairs render render toast drum print |  
+| bip_39_word_space_9 | blouse price stairs render render toast drum print shoot |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

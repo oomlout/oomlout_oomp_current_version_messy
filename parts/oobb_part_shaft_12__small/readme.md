@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: produce exhibit
+  * bip 39 word 3: produce exhibit sausage
+  * bip 39 word: produce exhibit sausage path erupt demand chef wife balance drill inmate assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | produce |  
+| bip_39_word_new_br10 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand<br>chef<br>wife<br>balance<br>drill |  
+| bip_39_word_new_br11 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand<br>chef<br>wife<br>balance<br>drill<br>inmate |  
+| bip_39_word_new_br12 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand<br>chef<br>wife<br>balance<br>drill<br>inmate<br>assault |  
+| bip_39_word_new_br2 | produce<br>exhibit |  
+| bip_39_word_new_br3 | produce<br>exhibit<br>sausage |  
+| bip_39_word_new_br4 | produce<br>exhibit<br>sausage<br>path |  
+| bip_39_word_new_br5 | produce<br>exhibit<br>sausage<br>path<br>erupt |  
+| bip_39_word_new_br6 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand |  
+| bip_39_word_new_br7 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand<br>chef |  
+| bip_39_word_new_br8 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand<br>chef<br>wife |  
+| bip_39_word_new_br9 | produce<br>exhibit<br>sausage<br>path<br>erupt<br>demand<br>chef<br>wife<br>balance |  
+| bip_39_word_new_line1 | produce |  
+| bip_39_word_new_line10 | produce
+exhibit
+sausage
+path
+erupt
+demand
+chef
+wife
+balance
+drill |  
+| bip_39_word_new_line11 | produce
+exhibit
+sausage
+path
+erupt
+demand
+chef
+wife
+balance
+drill
+inmate |  
+| bip_39_word_new_line12 | produce
+exhibit
+sausage
+path
+erupt
+demand
+chef
+wife
+balance
+drill
+inmate
+assault |  
+| bip_39_word_new_line2 | produce
+exhibit |  
+| bip_39_word_new_line3 | produce
+exhibit
+sausage |  
+| bip_39_word_new_line4 | produce
+exhibit
+sausage
+path |  
+| bip_39_word_new_line5 | produce
+exhibit
+sausage
+path
+erupt |  
+| bip_39_word_new_line6 | produce
+exhibit
+sausage
+path
+erupt
+demand |  
+| bip_39_word_new_line7 | produce
+exhibit
+sausage
+path
+erupt
+demand
+chef |  
+| bip_39_word_new_line8 | produce
+exhibit
+sausage
+path
+erupt
+demand
+chef
+wife |  
+| bip_39_word_new_line9 | produce
+exhibit
+sausage
+path
+erupt
+demand
+chef
+wife
+balance |  
+| bip_39_word_space_0 | ['produce', 'exhibit', 'sausage', 'path', 'erupt', 'demand', 'chef', 'wife', 'balance', 'drill', 'inmate', 'assault'] |  
+| bip_39_word_space_1 | produce |  
+| bip_39_word_space_10 | produce exhibit sausage path erupt demand chef wife balance drill |  
+| bip_39_word_space_11 | produce exhibit sausage path erupt demand chef wife balance drill inmate |  
+| bip_39_word_space_12 | produce exhibit sausage path erupt demand chef wife balance drill inmate assault |  
+| bip_39_word_space_2 | produce exhibit |  
+| bip_39_word_space_3 | produce exhibit sausage |  
+| bip_39_word_space_4 | produce exhibit sausage path |  
+| bip_39_word_space_5 | produce exhibit sausage path erupt |  
+| bip_39_word_space_6 | produce exhibit sausage path erupt demand |  
+| bip_39_word_space_7 | produce exhibit sausage path erupt demand chef |  
+| bip_39_word_space_8 | produce exhibit sausage path erupt demand chef wife |  
+| bip_39_word_space_9 | produce exhibit sausage path erupt demand chef wife balance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vehicle intact
+  * bip 39 word 3: vehicle intact response
+  * bip 39 word: vehicle intact response found hunt identify spawn soup wood gospel symptom across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vehicle |  
+| bip_39_word_new_br10 | vehicle<br>intact<br>response<br>found<br>hunt<br>identify<br>spawn<br>soup<br>wood<br>gospel |  
+| bip_39_word_new_br11 | vehicle<br>intact<br>response<br>found<br>hunt<br>identify<br>spawn<br>soup<br>wood<br>gospel<br>symptom |  
+| bip_39_word_new_br12 | vehicle<br>intact<br>response<br>found<br>hunt<br>identify<br>spawn<br>soup<br>wood<br>gospel<br>symptom<br>across |  
+| bip_39_word_new_br2 | vehicle<br>intact |  
+| bip_39_word_new_br3 | vehicle<br>intact<br>response |  
+| bip_39_word_new_br4 | vehicle<br>intact<br>response<br>found |  
+| bip_39_word_new_br5 | vehicle<br>intact<br>response<br>found<br>hunt |  
+| bip_39_word_new_br6 | vehicle<br>intact<br>response<br>found<br>hunt<br>identify |  
+| bip_39_word_new_br7 | vehicle<br>intact<br>response<br>found<br>hunt<br>identify<br>spawn |  
+| bip_39_word_new_br8 | vehicle<br>intact<br>response<br>found<br>hunt<br>identify<br>spawn<br>soup |  
+| bip_39_word_new_br9 | vehicle<br>intact<br>response<br>found<br>hunt<br>identify<br>spawn<br>soup<br>wood |  
+| bip_39_word_new_line1 | vehicle |  
+| bip_39_word_new_line10 | vehicle
+intact
+response
+found
+hunt
+identify
+spawn
+soup
+wood
+gospel |  
+| bip_39_word_new_line11 | vehicle
+intact
+response
+found
+hunt
+identify
+spawn
+soup
+wood
+gospel
+symptom |  
+| bip_39_word_new_line12 | vehicle
+intact
+response
+found
+hunt
+identify
+spawn
+soup
+wood
+gospel
+symptom
+across |  
+| bip_39_word_new_line2 | vehicle
+intact |  
+| bip_39_word_new_line3 | vehicle
+intact
+response |  
+| bip_39_word_new_line4 | vehicle
+intact
+response
+found |  
+| bip_39_word_new_line5 | vehicle
+intact
+response
+found
+hunt |  
+| bip_39_word_new_line6 | vehicle
+intact
+response
+found
+hunt
+identify |  
+| bip_39_word_new_line7 | vehicle
+intact
+response
+found
+hunt
+identify
+spawn |  
+| bip_39_word_new_line8 | vehicle
+intact
+response
+found
+hunt
+identify
+spawn
+soup |  
+| bip_39_word_new_line9 | vehicle
+intact
+response
+found
+hunt
+identify
+spawn
+soup
+wood |  
+| bip_39_word_space_0 | ['vehicle', 'intact', 'response', 'found', 'hunt', 'identify', 'spawn', 'soup', 'wood', 'gospel', 'symptom', 'across'] |  
+| bip_39_word_space_1 | vehicle |  
+| bip_39_word_space_10 | vehicle intact response found hunt identify spawn soup wood gospel |  
+| bip_39_word_space_11 | vehicle intact response found hunt identify spawn soup wood gospel symptom |  
+| bip_39_word_space_12 | vehicle intact response found hunt identify spawn soup wood gospel symptom across |  
+| bip_39_word_space_2 | vehicle intact |  
+| bip_39_word_space_3 | vehicle intact response |  
+| bip_39_word_space_4 | vehicle intact response found |  
+| bip_39_word_space_5 | vehicle intact response found hunt |  
+| bip_39_word_space_6 | vehicle intact response found hunt identify |  
+| bip_39_word_space_7 | vehicle intact response found hunt identify spawn |  
+| bip_39_word_space_8 | vehicle intact response found hunt identify spawn soup |  
+| bip_39_word_space_9 | vehicle intact response found hunt identify spawn soup wood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

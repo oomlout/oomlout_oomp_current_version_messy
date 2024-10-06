@@ -1,3 +1,186 @@
+bip_39_word_new_br1: barely
+bip_39_word_new_br10: barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member
+bip_39_word_new_br11: barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member<br>rent
+bip_39_word_new_br12: barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot<br>member<br>rent<br>arch
+bip_39_word_new_br2: barely<br>pistol
+bip_39_word_new_br3: barely<br>pistol<br>empty
+bip_39_word_new_br4: barely<br>pistol<br>empty<br>ticket
+bip_39_word_new_br5: barely<br>pistol<br>empty<br>ticket<br>equal
+bip_39_word_new_br6: barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal
+bip_39_word_new_br7: barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait
+bip_39_word_new_br8: barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash
+bip_39_word_new_br9: barely<br>pistol<br>empty<br>ticket<br>equal<br>crystal<br>wait<br>cash<br>shoot
+bip_39_word_new_line1: barely
+bip_39_word_new_line10: 'barely
+
+  pistol
+
+  empty
+
+  ticket
+
+  equal
+
+  crystal
+
+  wait
+
+  cash
+
+  shoot
+
+  member'
+bip_39_word_new_line11: 'barely
+
+  pistol
+
+  empty
+
+  ticket
+
+  equal
+
+  crystal
+
+  wait
+
+  cash
+
+  shoot
+
+  member
+
+  rent'
+bip_39_word_new_line12: 'barely
+
+  pistol
+
+  empty
+
+  ticket
+
+  equal
+
+  crystal
+
+  wait
+
+  cash
+
+  shoot
+
+  member
+
+  rent
+
+  arch'
+bip_39_word_new_line2: 'barely
+
+  pistol'
+bip_39_word_new_line3: 'barely
+
+  pistol
+
+  empty'
+bip_39_word_new_line4: 'barely
+
+  pistol
+
+  empty
+
+  ticket'
+bip_39_word_new_line5: 'barely
+
+  pistol
+
+  empty
+
+  ticket
+
+  equal'
+bip_39_word_new_line6: 'barely
+
+  pistol
+
+  empty
+
+  ticket
+
+  equal
+
+  crystal'
+bip_39_word_new_line7: 'barely
+
+  pistol
+
+  empty
+
+  ticket
+
+  equal
+
+  crystal
+
+  wait'
+bip_39_word_new_line8: 'barely
+
+  pistol
+
+  empty
+
+  ticket
+
+  equal
+
+  crystal
+
+  wait
+
+  cash'
+bip_39_word_new_line9: 'barely
+
+  pistol
+
+  empty
+
+  ticket
+
+  equal
+
+  crystal
+
+  wait
+
+  cash
+
+  shoot'
+bip_39_word_space_0:
+- barely
+- pistol
+- empty
+- ticket
+- equal
+- crystal
+- wait
+- cash
+- shoot
+- member
+- rent
+- arch
+bip_39_word_space_1: barely
+bip_39_word_space_10: barely pistol empty ticket equal crystal wait cash shoot member
+bip_39_word_space_11: barely pistol empty ticket equal crystal wait cash shoot member
+  rent
+bip_39_word_space_12: barely pistol empty ticket equal crystal wait cash shoot member
+  rent arch
+bip_39_word_space_2: barely pistol
+bip_39_word_space_3: barely pistol empty
+bip_39_word_space_4: barely pistol empty ticket
+bip_39_word_space_5: barely pistol empty ticket equal
+bip_39_word_space_6: barely pistol empty ticket equal crystal
+bip_39_word_space_7: barely pistol empty ticket equal crystal wait
+bip_39_word_space_8: barely pistol empty ticket equal crystal wait cash
+bip_39_word_space_9: barely pistol empty ticket equal crystal wait cash shoot
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

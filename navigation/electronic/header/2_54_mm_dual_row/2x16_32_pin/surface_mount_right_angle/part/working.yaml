@@ -1,3 +1,186 @@
+bip_39_word_new_br1: orchard
+bip_39_word_new_br10: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side
+bip_39_word_new_br11: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side<br>level
+bip_39_word_new_br12: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug<br>side<br>level<br>afford
+bip_39_word_new_br2: orchard<br>any
+bip_39_word_new_br3: orchard<br>any<br>genuine
+bip_39_word_new_br4: orchard<br>any<br>genuine<br>total
+bip_39_word_new_br5: orchard<br>any<br>genuine<br>total<br>seek
+bip_39_word_new_br6: orchard<br>any<br>genuine<br>total<br>seek<br>doctor
+bip_39_word_new_br7: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich
+bip_39_word_new_br8: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent
+bip_39_word_new_br9: orchard<br>any<br>genuine<br>total<br>seek<br>doctor<br>ostrich<br>rent<br>rug
+bip_39_word_new_line1: orchard
+bip_39_word_new_line10: 'orchard
+
+  any
+
+  genuine
+
+  total
+
+  seek
+
+  doctor
+
+  ostrich
+
+  rent
+
+  rug
+
+  side'
+bip_39_word_new_line11: 'orchard
+
+  any
+
+  genuine
+
+  total
+
+  seek
+
+  doctor
+
+  ostrich
+
+  rent
+
+  rug
+
+  side
+
+  level'
+bip_39_word_new_line12: 'orchard
+
+  any
+
+  genuine
+
+  total
+
+  seek
+
+  doctor
+
+  ostrich
+
+  rent
+
+  rug
+
+  side
+
+  level
+
+  afford'
+bip_39_word_new_line2: 'orchard
+
+  any'
+bip_39_word_new_line3: 'orchard
+
+  any
+
+  genuine'
+bip_39_word_new_line4: 'orchard
+
+  any
+
+  genuine
+
+  total'
+bip_39_word_new_line5: 'orchard
+
+  any
+
+  genuine
+
+  total
+
+  seek'
+bip_39_word_new_line6: 'orchard
+
+  any
+
+  genuine
+
+  total
+
+  seek
+
+  doctor'
+bip_39_word_new_line7: 'orchard
+
+  any
+
+  genuine
+
+  total
+
+  seek
+
+  doctor
+
+  ostrich'
+bip_39_word_new_line8: 'orchard
+
+  any
+
+  genuine
+
+  total
+
+  seek
+
+  doctor
+
+  ostrich
+
+  rent'
+bip_39_word_new_line9: 'orchard
+
+  any
+
+  genuine
+
+  total
+
+  seek
+
+  doctor
+
+  ostrich
+
+  rent
+
+  rug'
+bip_39_word_space_0:
+- orchard
+- any
+- genuine
+- total
+- seek
+- doctor
+- ostrich
+- rent
+- rug
+- side
+- level
+- afford
+bip_39_word_space_1: orchard
+bip_39_word_space_10: orchard any genuine total seek doctor ostrich rent rug side
+bip_39_word_space_11: orchard any genuine total seek doctor ostrich rent rug side
+  level
+bip_39_word_space_12: orchard any genuine total seek doctor ostrich rent rug side
+  level afford
+bip_39_word_space_2: orchard any
+bip_39_word_space_3: orchard any genuine
+bip_39_word_space_4: orchard any genuine total
+bip_39_word_space_5: orchard any genuine total seek
+bip_39_word_space_6: orchard any genuine total seek doctor
+bip_39_word_space_7: orchard any genuine total seek doctor ostrich
+bip_39_word_space_8: orchard any genuine total seek doctor ostrich rent
+bip_39_word_space_9: orchard any genuine total seek doctor ostrich rent rug
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

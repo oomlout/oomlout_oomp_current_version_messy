@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: access stamp
+  * bip 39 word 3: access stamp license
+  * bip 39 word: access stamp license device ride island spring student wife grain deputy abstract
 
 ### other_codes
 * short_code: cs2bz16pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | access |  
+| bip_39_word_new_br10 | access<br>stamp<br>license<br>device<br>ride<br>island<br>spring<br>student<br>wife<br>grain |  
+| bip_39_word_new_br11 | access<br>stamp<br>license<br>device<br>ride<br>island<br>spring<br>student<br>wife<br>grain<br>deputy |  
+| bip_39_word_new_br12 | access<br>stamp<br>license<br>device<br>ride<br>island<br>spring<br>student<br>wife<br>grain<br>deputy<br>abstract |  
+| bip_39_word_new_br2 | access<br>stamp |  
+| bip_39_word_new_br3 | access<br>stamp<br>license |  
+| bip_39_word_new_br4 | access<br>stamp<br>license<br>device |  
+| bip_39_word_new_br5 | access<br>stamp<br>license<br>device<br>ride |  
+| bip_39_word_new_br6 | access<br>stamp<br>license<br>device<br>ride<br>island |  
+| bip_39_word_new_br7 | access<br>stamp<br>license<br>device<br>ride<br>island<br>spring |  
+| bip_39_word_new_br8 | access<br>stamp<br>license<br>device<br>ride<br>island<br>spring<br>student |  
+| bip_39_word_new_br9 | access<br>stamp<br>license<br>device<br>ride<br>island<br>spring<br>student<br>wife |  
+| bip_39_word_new_line1 | access |  
+| bip_39_word_new_line10 | access
+stamp
+license
+device
+ride
+island
+spring
+student
+wife
+grain |  
+| bip_39_word_new_line11 | access
+stamp
+license
+device
+ride
+island
+spring
+student
+wife
+grain
+deputy |  
+| bip_39_word_new_line12 | access
+stamp
+license
+device
+ride
+island
+spring
+student
+wife
+grain
+deputy
+abstract |  
+| bip_39_word_new_line2 | access
+stamp |  
+| bip_39_word_new_line3 | access
+stamp
+license |  
+| bip_39_word_new_line4 | access
+stamp
+license
+device |  
+| bip_39_word_new_line5 | access
+stamp
+license
+device
+ride |  
+| bip_39_word_new_line6 | access
+stamp
+license
+device
+ride
+island |  
+| bip_39_word_new_line7 | access
+stamp
+license
+device
+ride
+island
+spring |  
+| bip_39_word_new_line8 | access
+stamp
+license
+device
+ride
+island
+spring
+student |  
+| bip_39_word_new_line9 | access
+stamp
+license
+device
+ride
+island
+spring
+student
+wife |  
+| bip_39_word_space_0 | ['access', 'stamp', 'license', 'device', 'ride', 'island', 'spring', 'student', 'wife', 'grain', 'deputy', 'abstract'] |  
+| bip_39_word_space_1 | access |  
+| bip_39_word_space_10 | access stamp license device ride island spring student wife grain |  
+| bip_39_word_space_11 | access stamp license device ride island spring student wife grain deputy |  
+| bip_39_word_space_12 | access stamp license device ride island spring student wife grain deputy abstract |  
+| bip_39_word_space_2 | access stamp |  
+| bip_39_word_space_3 | access stamp license |  
+| bip_39_word_space_4 | access stamp license device |  
+| bip_39_word_space_5 | access stamp license device ride |  
+| bip_39_word_space_6 | access stamp license device ride island |  
+| bip_39_word_space_7 | access stamp license device ride island spring |  
+| bip_39_word_space_8 | access stamp license device ride island spring student |  
+| bip_39_word_space_9 | access stamp license device ride island spring student wife |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

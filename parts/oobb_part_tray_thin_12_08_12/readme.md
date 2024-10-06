@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chest outer
+  * bip 39 word 3: chest outer voyage
+  * bip 39 word: chest outer voyage muffin hair resemble notice cabin cycle gold electric ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chest |  
+| bip_39_word_new_br10 | chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble<br>notice<br>cabin<br>cycle<br>gold |  
+| bip_39_word_new_br11 | chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble<br>notice<br>cabin<br>cycle<br>gold<br>electric |  
+| bip_39_word_new_br12 | chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble<br>notice<br>cabin<br>cycle<br>gold<br>electric<br>ankle |  
+| bip_39_word_new_br2 | chest<br>outer |  
+| bip_39_word_new_br3 | chest<br>outer<br>voyage |  
+| bip_39_word_new_br4 | chest<br>outer<br>voyage<br>muffin |  
+| bip_39_word_new_br5 | chest<br>outer<br>voyage<br>muffin<br>hair |  
+| bip_39_word_new_br6 | chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble |  
+| bip_39_word_new_br7 | chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble<br>notice |  
+| bip_39_word_new_br8 | chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble<br>notice<br>cabin |  
+| bip_39_word_new_br9 | chest<br>outer<br>voyage<br>muffin<br>hair<br>resemble<br>notice<br>cabin<br>cycle |  
+| bip_39_word_new_line1 | chest |  
+| bip_39_word_new_line10 | chest
+outer
+voyage
+muffin
+hair
+resemble
+notice
+cabin
+cycle
+gold |  
+| bip_39_word_new_line11 | chest
+outer
+voyage
+muffin
+hair
+resemble
+notice
+cabin
+cycle
+gold
+electric |  
+| bip_39_word_new_line12 | chest
+outer
+voyage
+muffin
+hair
+resemble
+notice
+cabin
+cycle
+gold
+electric
+ankle |  
+| bip_39_word_new_line2 | chest
+outer |  
+| bip_39_word_new_line3 | chest
+outer
+voyage |  
+| bip_39_word_new_line4 | chest
+outer
+voyage
+muffin |  
+| bip_39_word_new_line5 | chest
+outer
+voyage
+muffin
+hair |  
+| bip_39_word_new_line6 | chest
+outer
+voyage
+muffin
+hair
+resemble |  
+| bip_39_word_new_line7 | chest
+outer
+voyage
+muffin
+hair
+resemble
+notice |  
+| bip_39_word_new_line8 | chest
+outer
+voyage
+muffin
+hair
+resemble
+notice
+cabin |  
+| bip_39_word_new_line9 | chest
+outer
+voyage
+muffin
+hair
+resemble
+notice
+cabin
+cycle |  
+| bip_39_word_space_0 | ['chest', 'outer', 'voyage', 'muffin', 'hair', 'resemble', 'notice', 'cabin', 'cycle', 'gold', 'electric', 'ankle'] |  
+| bip_39_word_space_1 | chest |  
+| bip_39_word_space_10 | chest outer voyage muffin hair resemble notice cabin cycle gold |  
+| bip_39_word_space_11 | chest outer voyage muffin hair resemble notice cabin cycle gold electric |  
+| bip_39_word_space_12 | chest outer voyage muffin hair resemble notice cabin cycle gold electric ankle |  
+| bip_39_word_space_2 | chest outer |  
+| bip_39_word_space_3 | chest outer voyage |  
+| bip_39_word_space_4 | chest outer voyage muffin |  
+| bip_39_word_space_5 | chest outer voyage muffin hair |  
+| bip_39_word_space_6 | chest outer voyage muffin hair resemble |  
+| bip_39_word_space_7 | chest outer voyage muffin hair resemble notice |  
+| bip_39_word_space_8 | chest outer voyage muffin hair resemble notice cabin |  
+| bip_39_word_space_9 | chest outer voyage muffin hair resemble notice cabin cycle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

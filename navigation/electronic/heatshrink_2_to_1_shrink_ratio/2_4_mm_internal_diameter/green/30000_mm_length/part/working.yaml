@@ -1,3 +1,186 @@
+bip_39_word_new_br1: grocery
+bip_39_word_new_br10: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram<br>coil
+bip_39_word_new_br11: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram<br>coil<br>thrive
+bip_39_word_new_br12: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram<br>coil<br>thrive<br>arrange
+bip_39_word_new_br2: grocery<br>source
+bip_39_word_new_br3: grocery<br>source<br>ahead
+bip_39_word_new_br4: grocery<br>source<br>ahead<br>drum
+bip_39_word_new_br5: grocery<br>source<br>ahead<br>drum<br>there
+bip_39_word_new_br6: grocery<br>source<br>ahead<br>drum<br>there<br>soft
+bip_39_word_new_br7: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion
+bip_39_word_new_br8: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session
+bip_39_word_new_br9: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram
+bip_39_word_new_line1: grocery
+bip_39_word_new_line10: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session
+
+  cram
+
+  coil'
+bip_39_word_new_line11: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session
+
+  cram
+
+  coil
+
+  thrive'
+bip_39_word_new_line12: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session
+
+  cram
+
+  coil
+
+  thrive
+
+  arrange'
+bip_39_word_new_line2: 'grocery
+
+  source'
+bip_39_word_new_line3: 'grocery
+
+  source
+
+  ahead'
+bip_39_word_new_line4: 'grocery
+
+  source
+
+  ahead
+
+  drum'
+bip_39_word_new_line5: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there'
+bip_39_word_new_line6: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft'
+bip_39_word_new_line7: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion'
+bip_39_word_new_line8: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session'
+bip_39_word_new_line9: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session
+
+  cram'
+bip_39_word_space_0:
+- grocery
+- source
+- ahead
+- drum
+- there
+- soft
+- mansion
+- session
+- cram
+- coil
+- thrive
+- arrange
+bip_39_word_space_1: grocery
+bip_39_word_space_10: grocery source ahead drum there soft mansion session cram coil
+bip_39_word_space_11: grocery source ahead drum there soft mansion session cram coil
+  thrive
+bip_39_word_space_12: grocery source ahead drum there soft mansion session cram coil
+  thrive arrange
+bip_39_word_space_2: grocery source
+bip_39_word_space_3: grocery source ahead
+bip_39_word_space_4: grocery source ahead drum
+bip_39_word_space_5: grocery source ahead drum there
+bip_39_word_space_6: grocery source ahead drum there soft
+bip_39_word_space_7: grocery source ahead drum there soft mansion
+bip_39_word_space_8: grocery source ahead drum there soft mansion session
+bip_39_word_space_9: grocery source ahead drum there soft mansion session cram
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

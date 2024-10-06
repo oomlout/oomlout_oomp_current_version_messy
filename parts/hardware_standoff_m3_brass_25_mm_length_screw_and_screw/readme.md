@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: duck city
+  * bip 39 word 3: duck city sea
+  * bip 39 word: duck city sea round know balcony essence blouse divert multiply estate april
 
 ### other_codes
 * short_code: so3br25ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | duck |  
+| bip_39_word_new_br10 | duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert<br>multiply |  
+| bip_39_word_new_br11 | duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert<br>multiply<br>estate |  
+| bip_39_word_new_br12 | duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert<br>multiply<br>estate<br>april |  
+| bip_39_word_new_br2 | duck<br>city |  
+| bip_39_word_new_br3 | duck<br>city<br>sea |  
+| bip_39_word_new_br4 | duck<br>city<br>sea<br>round |  
+| bip_39_word_new_br5 | duck<br>city<br>sea<br>round<br>know |  
+| bip_39_word_new_br6 | duck<br>city<br>sea<br>round<br>know<br>balcony |  
+| bip_39_word_new_br7 | duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence |  
+| bip_39_word_new_br8 | duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse |  
+| bip_39_word_new_br9 | duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert |  
+| bip_39_word_new_line1 | duck |  
+| bip_39_word_new_line10 | duck
+city
+sea
+round
+know
+balcony
+essence
+blouse
+divert
+multiply |  
+| bip_39_word_new_line11 | duck
+city
+sea
+round
+know
+balcony
+essence
+blouse
+divert
+multiply
+estate |  
+| bip_39_word_new_line12 | duck
+city
+sea
+round
+know
+balcony
+essence
+blouse
+divert
+multiply
+estate
+april |  
+| bip_39_word_new_line2 | duck
+city |  
+| bip_39_word_new_line3 | duck
+city
+sea |  
+| bip_39_word_new_line4 | duck
+city
+sea
+round |  
+| bip_39_word_new_line5 | duck
+city
+sea
+round
+know |  
+| bip_39_word_new_line6 | duck
+city
+sea
+round
+know
+balcony |  
+| bip_39_word_new_line7 | duck
+city
+sea
+round
+know
+balcony
+essence |  
+| bip_39_word_new_line8 | duck
+city
+sea
+round
+know
+balcony
+essence
+blouse |  
+| bip_39_word_new_line9 | duck
+city
+sea
+round
+know
+balcony
+essence
+blouse
+divert |  
+| bip_39_word_space_0 | ['duck', 'city', 'sea', 'round', 'know', 'balcony', 'essence', 'blouse', 'divert', 'multiply', 'estate', 'april'] |  
+| bip_39_word_space_1 | duck |  
+| bip_39_word_space_10 | duck city sea round know balcony essence blouse divert multiply |  
+| bip_39_word_space_11 | duck city sea round know balcony essence blouse divert multiply estate |  
+| bip_39_word_space_12 | duck city sea round know balcony essence blouse divert multiply estate april |  
+| bip_39_word_space_2 | duck city |  
+| bip_39_word_space_3 | duck city sea |  
+| bip_39_word_space_4 | duck city sea round |  
+| bip_39_word_space_5 | duck city sea round know |  
+| bip_39_word_space_6 | duck city sea round know balcony |  
+| bip_39_word_space_7 | duck city sea round know balcony essence |  
+| bip_39_word_space_8 | duck city sea round know balcony essence blouse |  
+| bip_39_word_space_9 | duck city sea round know balcony essence blouse divert |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

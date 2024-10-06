@@ -1,3 +1,186 @@
+bip_39_word_new_br1: brick
+bip_39_word_new_br10: brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead
+bip_39_word_new_br11: brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead<br>dune
+bip_39_word_new_br12: brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine<br>ahead<br>dune<br>actress
+bip_39_word_new_br2: brick<br>truth
+bip_39_word_new_br3: brick<br>truth<br>purity
+bip_39_word_new_br4: brick<br>truth<br>purity<br>gauge
+bip_39_word_new_br5: brick<br>truth<br>purity<br>gauge<br>steel
+bip_39_word_new_br6: brick<br>truth<br>purity<br>gauge<br>steel<br>solar
+bip_39_word_new_br7: brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire
+bip_39_word_new_br8: brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory
+bip_39_word_new_br9: brick<br>truth<br>purity<br>gauge<br>steel<br>solar<br>entire<br>memory<br>machine
+bip_39_word_new_line1: brick
+bip_39_word_new_line10: 'brick
+
+  truth
+
+  purity
+
+  gauge
+
+  steel
+
+  solar
+
+  entire
+
+  memory
+
+  machine
+
+  ahead'
+bip_39_word_new_line11: 'brick
+
+  truth
+
+  purity
+
+  gauge
+
+  steel
+
+  solar
+
+  entire
+
+  memory
+
+  machine
+
+  ahead
+
+  dune'
+bip_39_word_new_line12: 'brick
+
+  truth
+
+  purity
+
+  gauge
+
+  steel
+
+  solar
+
+  entire
+
+  memory
+
+  machine
+
+  ahead
+
+  dune
+
+  actress'
+bip_39_word_new_line2: 'brick
+
+  truth'
+bip_39_word_new_line3: 'brick
+
+  truth
+
+  purity'
+bip_39_word_new_line4: 'brick
+
+  truth
+
+  purity
+
+  gauge'
+bip_39_word_new_line5: 'brick
+
+  truth
+
+  purity
+
+  gauge
+
+  steel'
+bip_39_word_new_line6: 'brick
+
+  truth
+
+  purity
+
+  gauge
+
+  steel
+
+  solar'
+bip_39_word_new_line7: 'brick
+
+  truth
+
+  purity
+
+  gauge
+
+  steel
+
+  solar
+
+  entire'
+bip_39_word_new_line8: 'brick
+
+  truth
+
+  purity
+
+  gauge
+
+  steel
+
+  solar
+
+  entire
+
+  memory'
+bip_39_word_new_line9: 'brick
+
+  truth
+
+  purity
+
+  gauge
+
+  steel
+
+  solar
+
+  entire
+
+  memory
+
+  machine'
+bip_39_word_space_0:
+- brick
+- truth
+- purity
+- gauge
+- steel
+- solar
+- entire
+- memory
+- machine
+- ahead
+- dune
+- actress
+bip_39_word_space_1: brick
+bip_39_word_space_10: brick truth purity gauge steel solar entire memory machine ahead
+bip_39_word_space_11: brick truth purity gauge steel solar entire memory machine ahead
+  dune
+bip_39_word_space_12: brick truth purity gauge steel solar entire memory machine ahead
+  dune actress
+bip_39_word_space_2: brick truth
+bip_39_word_space_3: brick truth purity
+bip_39_word_space_4: brick truth purity gauge
+bip_39_word_space_5: brick truth purity gauge steel
+bip_39_word_space_6: brick truth purity gauge steel solar
+bip_39_word_space_7: brick truth purity gauge steel solar entire
+bip_39_word_space_8: brick truth purity gauge steel solar entire memory
+bip_39_word_space_9: brick truth purity gauge steel solar entire memory machine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

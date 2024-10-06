@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fly lonely
+  * bip 39 word 3: fly lonely air
+  * bip 39 word: fly lonely air inhale december visa few knock muffin panel penalty acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fly |  
+| bip_39_word_new_br10 | fly<br>lonely<br>air<br>inhale<br>december<br>visa<br>few<br>knock<br>muffin<br>panel |  
+| bip_39_word_new_br11 | fly<br>lonely<br>air<br>inhale<br>december<br>visa<br>few<br>knock<br>muffin<br>panel<br>penalty |  
+| bip_39_word_new_br12 | fly<br>lonely<br>air<br>inhale<br>december<br>visa<br>few<br>knock<br>muffin<br>panel<br>penalty<br>acquire |  
+| bip_39_word_new_br2 | fly<br>lonely |  
+| bip_39_word_new_br3 | fly<br>lonely<br>air |  
+| bip_39_word_new_br4 | fly<br>lonely<br>air<br>inhale |  
+| bip_39_word_new_br5 | fly<br>lonely<br>air<br>inhale<br>december |  
+| bip_39_word_new_br6 | fly<br>lonely<br>air<br>inhale<br>december<br>visa |  
+| bip_39_word_new_br7 | fly<br>lonely<br>air<br>inhale<br>december<br>visa<br>few |  
+| bip_39_word_new_br8 | fly<br>lonely<br>air<br>inhale<br>december<br>visa<br>few<br>knock |  
+| bip_39_word_new_br9 | fly<br>lonely<br>air<br>inhale<br>december<br>visa<br>few<br>knock<br>muffin |  
+| bip_39_word_new_line1 | fly |  
+| bip_39_word_new_line10 | fly
+lonely
+air
+inhale
+december
+visa
+few
+knock
+muffin
+panel |  
+| bip_39_word_new_line11 | fly
+lonely
+air
+inhale
+december
+visa
+few
+knock
+muffin
+panel
+penalty |  
+| bip_39_word_new_line12 | fly
+lonely
+air
+inhale
+december
+visa
+few
+knock
+muffin
+panel
+penalty
+acquire |  
+| bip_39_word_new_line2 | fly
+lonely |  
+| bip_39_word_new_line3 | fly
+lonely
+air |  
+| bip_39_word_new_line4 | fly
+lonely
+air
+inhale |  
+| bip_39_word_new_line5 | fly
+lonely
+air
+inhale
+december |  
+| bip_39_word_new_line6 | fly
+lonely
+air
+inhale
+december
+visa |  
+| bip_39_word_new_line7 | fly
+lonely
+air
+inhale
+december
+visa
+few |  
+| bip_39_word_new_line8 | fly
+lonely
+air
+inhale
+december
+visa
+few
+knock |  
+| bip_39_word_new_line9 | fly
+lonely
+air
+inhale
+december
+visa
+few
+knock
+muffin |  
+| bip_39_word_space_0 | ['fly', 'lonely', 'air', 'inhale', 'december', 'visa', 'few', 'knock', 'muffin', 'panel', 'penalty', 'acquire'] |  
+| bip_39_word_space_1 | fly |  
+| bip_39_word_space_10 | fly lonely air inhale december visa few knock muffin panel |  
+| bip_39_word_space_11 | fly lonely air inhale december visa few knock muffin panel penalty |  
+| bip_39_word_space_12 | fly lonely air inhale december visa few knock muffin panel penalty acquire |  
+| bip_39_word_space_2 | fly lonely |  
+| bip_39_word_space_3 | fly lonely air |  
+| bip_39_word_space_4 | fly lonely air inhale |  
+| bip_39_word_space_5 | fly lonely air inhale december |  
+| bip_39_word_space_6 | fly lonely air inhale december visa |  
+| bip_39_word_space_7 | fly lonely air inhale december visa few |  
+| bip_39_word_space_8 | fly lonely air inhale december visa few knock |  
+| bip_39_word_space_9 | fly lonely air inhale december visa few knock muffin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

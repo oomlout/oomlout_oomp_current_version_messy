@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lyrics
+bip_39_word_new_br10: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp
+bip_39_word_new_br11: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp<br>tragic
+bip_39_word_new_br12: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange<br>shrimp<br>tragic<br>antenna
+bip_39_word_new_br2: lyrics<br>point
+bip_39_word_new_br3: lyrics<br>point<br>engage
+bip_39_word_new_br4: lyrics<br>point<br>engage<br>chaos
+bip_39_word_new_br5: lyrics<br>point<br>engage<br>chaos<br>moral
+bip_39_word_new_br6: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot
+bip_39_word_new_br7: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact
+bip_39_word_new_br8: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel
+bip_39_word_new_br9: lyrics<br>point<br>engage<br>chaos<br>moral<br>foot<br>pact<br>cruel<br>orange
+bip_39_word_new_line1: lyrics
+bip_39_word_new_line10: 'lyrics
+
+  point
+
+  engage
+
+  chaos
+
+  moral
+
+  foot
+
+  pact
+
+  cruel
+
+  orange
+
+  shrimp'
+bip_39_word_new_line11: 'lyrics
+
+  point
+
+  engage
+
+  chaos
+
+  moral
+
+  foot
+
+  pact
+
+  cruel
+
+  orange
+
+  shrimp
+
+  tragic'
+bip_39_word_new_line12: 'lyrics
+
+  point
+
+  engage
+
+  chaos
+
+  moral
+
+  foot
+
+  pact
+
+  cruel
+
+  orange
+
+  shrimp
+
+  tragic
+
+  antenna'
+bip_39_word_new_line2: 'lyrics
+
+  point'
+bip_39_word_new_line3: 'lyrics
+
+  point
+
+  engage'
+bip_39_word_new_line4: 'lyrics
+
+  point
+
+  engage
+
+  chaos'
+bip_39_word_new_line5: 'lyrics
+
+  point
+
+  engage
+
+  chaos
+
+  moral'
+bip_39_word_new_line6: 'lyrics
+
+  point
+
+  engage
+
+  chaos
+
+  moral
+
+  foot'
+bip_39_word_new_line7: 'lyrics
+
+  point
+
+  engage
+
+  chaos
+
+  moral
+
+  foot
+
+  pact'
+bip_39_word_new_line8: 'lyrics
+
+  point
+
+  engage
+
+  chaos
+
+  moral
+
+  foot
+
+  pact
+
+  cruel'
+bip_39_word_new_line9: 'lyrics
+
+  point
+
+  engage
+
+  chaos
+
+  moral
+
+  foot
+
+  pact
+
+  cruel
+
+  orange'
+bip_39_word_space_0:
+- lyrics
+- point
+- engage
+- chaos
+- moral
+- foot
+- pact
+- cruel
+- orange
+- shrimp
+- tragic
+- antenna
+bip_39_word_space_1: lyrics
+bip_39_word_space_10: lyrics point engage chaos moral foot pact cruel orange shrimp
+bip_39_word_space_11: lyrics point engage chaos moral foot pact cruel orange shrimp
+  tragic
+bip_39_word_space_12: lyrics point engage chaos moral foot pact cruel orange shrimp
+  tragic antenna
+bip_39_word_space_2: lyrics point
+bip_39_word_space_3: lyrics point engage
+bip_39_word_space_4: lyrics point engage chaos
+bip_39_word_space_5: lyrics point engage chaos moral
+bip_39_word_space_6: lyrics point engage chaos moral foot
+bip_39_word_space_7: lyrics point engage chaos moral foot pact
+bip_39_word_space_8: lyrics point engage chaos moral foot pact cruel
+bip_39_word_space_9: lyrics point engage chaos moral foot pact cruel orange
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

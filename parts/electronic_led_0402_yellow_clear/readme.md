@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: economy where
+  * bip 39 word 3: economy where stairs
+  * bip 39 word: economy where stairs rival mushroom quit kiss twin breeze abstract blossom again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | economy |  
+| bip_39_word_new_br10 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract |  
+| bip_39_word_new_br11 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract<br>blossom |  
+| bip_39_word_new_br12 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze<br>abstract<br>blossom<br>again |  
+| bip_39_word_new_br2 | economy<br>where |  
+| bip_39_word_new_br3 | economy<br>where<br>stairs |  
+| bip_39_word_new_br4 | economy<br>where<br>stairs<br>rival |  
+| bip_39_word_new_br5 | economy<br>where<br>stairs<br>rival<br>mushroom |  
+| bip_39_word_new_br6 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit |  
+| bip_39_word_new_br7 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss |  
+| bip_39_word_new_br8 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin |  
+| bip_39_word_new_br9 | economy<br>where<br>stairs<br>rival<br>mushroom<br>quit<br>kiss<br>twin<br>breeze |  
+| bip_39_word_new_line1 | economy |  
+| bip_39_word_new_line10 | economy
+where
+stairs
+rival
+mushroom
+quit
+kiss
+twin
+breeze
+abstract |  
+| bip_39_word_new_line11 | economy
+where
+stairs
+rival
+mushroom
+quit
+kiss
+twin
+breeze
+abstract
+blossom |  
+| bip_39_word_new_line12 | economy
+where
+stairs
+rival
+mushroom
+quit
+kiss
+twin
+breeze
+abstract
+blossom
+again |  
+| bip_39_word_new_line2 | economy
+where |  
+| bip_39_word_new_line3 | economy
+where
+stairs |  
+| bip_39_word_new_line4 | economy
+where
+stairs
+rival |  
+| bip_39_word_new_line5 | economy
+where
+stairs
+rival
+mushroom |  
+| bip_39_word_new_line6 | economy
+where
+stairs
+rival
+mushroom
+quit |  
+| bip_39_word_new_line7 | economy
+where
+stairs
+rival
+mushroom
+quit
+kiss |  
+| bip_39_word_new_line8 | economy
+where
+stairs
+rival
+mushroom
+quit
+kiss
+twin |  
+| bip_39_word_new_line9 | economy
+where
+stairs
+rival
+mushroom
+quit
+kiss
+twin
+breeze |  
+| bip_39_word_space_0 | ['economy', 'where', 'stairs', 'rival', 'mushroom', 'quit', 'kiss', 'twin', 'breeze', 'abstract', 'blossom', 'again'] |  
+| bip_39_word_space_1 | economy |  
+| bip_39_word_space_10 | economy where stairs rival mushroom quit kiss twin breeze abstract |  
+| bip_39_word_space_11 | economy where stairs rival mushroom quit kiss twin breeze abstract blossom |  
+| bip_39_word_space_12 | economy where stairs rival mushroom quit kiss twin breeze abstract blossom again |  
+| bip_39_word_space_2 | economy where |  
+| bip_39_word_space_3 | economy where stairs |  
+| bip_39_word_space_4 | economy where stairs rival |  
+| bip_39_word_space_5 | economy where stairs rival mushroom |  
+| bip_39_word_space_6 | economy where stairs rival mushroom quit |  
+| bip_39_word_space_7 | economy where stairs rival mushroom quit kiss |  
+| bip_39_word_space_8 | economy where stairs rival mushroom quit kiss twin |  
+| bip_39_word_space_9 | economy where stairs rival mushroom quit kiss twin breeze |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

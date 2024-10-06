@@ -1,3 +1,186 @@
+bip_39_word_new_br1: grow
+bip_39_word_new_br10: grow<br>gauge<br>plate<br>injury<br>museum<br>entry<br>fatigue<br>team<br>student<br>moment
+bip_39_word_new_br11: grow<br>gauge<br>plate<br>injury<br>museum<br>entry<br>fatigue<br>team<br>student<br>moment<br>broken
+bip_39_word_new_br12: grow<br>gauge<br>plate<br>injury<br>museum<br>entry<br>fatigue<br>team<br>student<br>moment<br>broken<br>angry
+bip_39_word_new_br2: grow<br>gauge
+bip_39_word_new_br3: grow<br>gauge<br>plate
+bip_39_word_new_br4: grow<br>gauge<br>plate<br>injury
+bip_39_word_new_br5: grow<br>gauge<br>plate<br>injury<br>museum
+bip_39_word_new_br6: grow<br>gauge<br>plate<br>injury<br>museum<br>entry
+bip_39_word_new_br7: grow<br>gauge<br>plate<br>injury<br>museum<br>entry<br>fatigue
+bip_39_word_new_br8: grow<br>gauge<br>plate<br>injury<br>museum<br>entry<br>fatigue<br>team
+bip_39_word_new_br9: grow<br>gauge<br>plate<br>injury<br>museum<br>entry<br>fatigue<br>team<br>student
+bip_39_word_new_line1: grow
+bip_39_word_new_line10: 'grow
+
+  gauge
+
+  plate
+
+  injury
+
+  museum
+
+  entry
+
+  fatigue
+
+  team
+
+  student
+
+  moment'
+bip_39_word_new_line11: 'grow
+
+  gauge
+
+  plate
+
+  injury
+
+  museum
+
+  entry
+
+  fatigue
+
+  team
+
+  student
+
+  moment
+
+  broken'
+bip_39_word_new_line12: 'grow
+
+  gauge
+
+  plate
+
+  injury
+
+  museum
+
+  entry
+
+  fatigue
+
+  team
+
+  student
+
+  moment
+
+  broken
+
+  angry'
+bip_39_word_new_line2: 'grow
+
+  gauge'
+bip_39_word_new_line3: 'grow
+
+  gauge
+
+  plate'
+bip_39_word_new_line4: 'grow
+
+  gauge
+
+  plate
+
+  injury'
+bip_39_word_new_line5: 'grow
+
+  gauge
+
+  plate
+
+  injury
+
+  museum'
+bip_39_word_new_line6: 'grow
+
+  gauge
+
+  plate
+
+  injury
+
+  museum
+
+  entry'
+bip_39_word_new_line7: 'grow
+
+  gauge
+
+  plate
+
+  injury
+
+  museum
+
+  entry
+
+  fatigue'
+bip_39_word_new_line8: 'grow
+
+  gauge
+
+  plate
+
+  injury
+
+  museum
+
+  entry
+
+  fatigue
+
+  team'
+bip_39_word_new_line9: 'grow
+
+  gauge
+
+  plate
+
+  injury
+
+  museum
+
+  entry
+
+  fatigue
+
+  team
+
+  student'
+bip_39_word_space_0:
+- grow
+- gauge
+- plate
+- injury
+- museum
+- entry
+- fatigue
+- team
+- student
+- moment
+- broken
+- angry
+bip_39_word_space_1: grow
+bip_39_word_space_10: grow gauge plate injury museum entry fatigue team student moment
+bip_39_word_space_11: grow gauge plate injury museum entry fatigue team student moment
+  broken
+bip_39_word_space_12: grow gauge plate injury museum entry fatigue team student moment
+  broken angry
+bip_39_word_space_2: grow gauge
+bip_39_word_space_3: grow gauge plate
+bip_39_word_space_4: grow gauge plate injury
+bip_39_word_space_5: grow gauge plate injury museum
+bip_39_word_space_6: grow gauge plate injury museum entry
+bip_39_word_space_7: grow gauge plate injury museum entry fatigue
+bip_39_word_space_8: grow gauge plate injury museum entry fatigue team
+bip_39_word_space_9: grow gauge plate injury museum entry fatigue team student
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

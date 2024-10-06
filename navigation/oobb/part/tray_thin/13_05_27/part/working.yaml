@@ -1,3 +1,187 @@
+bip_39_word_new_br1: victory
+bip_39_word_new_br10: victory<br>chronic<br>prosper<br>field<br>black<br>wife<br>connect<br>twice<br>sauce<br>easily
+bip_39_word_new_br11: victory<br>chronic<br>prosper<br>field<br>black<br>wife<br>connect<br>twice<br>sauce<br>easily<br>sister
+bip_39_word_new_br12: victory<br>chronic<br>prosper<br>field<br>black<br>wife<br>connect<br>twice<br>sauce<br>easily<br>sister<br>alien
+bip_39_word_new_br2: victory<br>chronic
+bip_39_word_new_br3: victory<br>chronic<br>prosper
+bip_39_word_new_br4: victory<br>chronic<br>prosper<br>field
+bip_39_word_new_br5: victory<br>chronic<br>prosper<br>field<br>black
+bip_39_word_new_br6: victory<br>chronic<br>prosper<br>field<br>black<br>wife
+bip_39_word_new_br7: victory<br>chronic<br>prosper<br>field<br>black<br>wife<br>connect
+bip_39_word_new_br8: victory<br>chronic<br>prosper<br>field<br>black<br>wife<br>connect<br>twice
+bip_39_word_new_br9: victory<br>chronic<br>prosper<br>field<br>black<br>wife<br>connect<br>twice<br>sauce
+bip_39_word_new_line1: victory
+bip_39_word_new_line10: 'victory
+
+  chronic
+
+  prosper
+
+  field
+
+  black
+
+  wife
+
+  connect
+
+  twice
+
+  sauce
+
+  easily'
+bip_39_word_new_line11: 'victory
+
+  chronic
+
+  prosper
+
+  field
+
+  black
+
+  wife
+
+  connect
+
+  twice
+
+  sauce
+
+  easily
+
+  sister'
+bip_39_word_new_line12: 'victory
+
+  chronic
+
+  prosper
+
+  field
+
+  black
+
+  wife
+
+  connect
+
+  twice
+
+  sauce
+
+  easily
+
+  sister
+
+  alien'
+bip_39_word_new_line2: 'victory
+
+  chronic'
+bip_39_word_new_line3: 'victory
+
+  chronic
+
+  prosper'
+bip_39_word_new_line4: 'victory
+
+  chronic
+
+  prosper
+
+  field'
+bip_39_word_new_line5: 'victory
+
+  chronic
+
+  prosper
+
+  field
+
+  black'
+bip_39_word_new_line6: 'victory
+
+  chronic
+
+  prosper
+
+  field
+
+  black
+
+  wife'
+bip_39_word_new_line7: 'victory
+
+  chronic
+
+  prosper
+
+  field
+
+  black
+
+  wife
+
+  connect'
+bip_39_word_new_line8: 'victory
+
+  chronic
+
+  prosper
+
+  field
+
+  black
+
+  wife
+
+  connect
+
+  twice'
+bip_39_word_new_line9: 'victory
+
+  chronic
+
+  prosper
+
+  field
+
+  black
+
+  wife
+
+  connect
+
+  twice
+
+  sauce'
+bip_39_word_space_0:
+- victory
+- chronic
+- prosper
+- field
+- black
+- wife
+- connect
+- twice
+- sauce
+- easily
+- sister
+- alien
+bip_39_word_space_1: victory
+bip_39_word_space_10: victory chronic prosper field black wife connect twice sauce
+  easily
+bip_39_word_space_11: victory chronic prosper field black wife connect twice sauce
+  easily sister
+bip_39_word_space_12: victory chronic prosper field black wife connect twice sauce
+  easily sister alien
+bip_39_word_space_2: victory chronic
+bip_39_word_space_3: victory chronic prosper
+bip_39_word_space_4: victory chronic prosper field
+bip_39_word_space_5: victory chronic prosper field black
+bip_39_word_space_6: victory chronic prosper field black wife
+bip_39_word_space_7: victory chronic prosper field black wife connect
+bip_39_word_space_8: victory chronic prosper field black wife connect twice
+bip_39_word_space_9: victory chronic prosper field black wife connect twice sauce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

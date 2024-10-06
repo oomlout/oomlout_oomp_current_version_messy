@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: silver catch
+  * bip 39 word 3: silver catch large
+  * bip 39 word: silver catch large club cash connect vault track vintage guard apology attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | silver |  
+| bip_39_word_new_br10 | silver<br>catch<br>large<br>club<br>cash<br>connect<br>vault<br>track<br>vintage<br>guard |  
+| bip_39_word_new_br11 | silver<br>catch<br>large<br>club<br>cash<br>connect<br>vault<br>track<br>vintage<br>guard<br>apology |  
+| bip_39_word_new_br12 | silver<br>catch<br>large<br>club<br>cash<br>connect<br>vault<br>track<br>vintage<br>guard<br>apology<br>attend |  
+| bip_39_word_new_br2 | silver<br>catch |  
+| bip_39_word_new_br3 | silver<br>catch<br>large |  
+| bip_39_word_new_br4 | silver<br>catch<br>large<br>club |  
+| bip_39_word_new_br5 | silver<br>catch<br>large<br>club<br>cash |  
+| bip_39_word_new_br6 | silver<br>catch<br>large<br>club<br>cash<br>connect |  
+| bip_39_word_new_br7 | silver<br>catch<br>large<br>club<br>cash<br>connect<br>vault |  
+| bip_39_word_new_br8 | silver<br>catch<br>large<br>club<br>cash<br>connect<br>vault<br>track |  
+| bip_39_word_new_br9 | silver<br>catch<br>large<br>club<br>cash<br>connect<br>vault<br>track<br>vintage |  
+| bip_39_word_new_line1 | silver |  
+| bip_39_word_new_line10 | silver
+catch
+large
+club
+cash
+connect
+vault
+track
+vintage
+guard |  
+| bip_39_word_new_line11 | silver
+catch
+large
+club
+cash
+connect
+vault
+track
+vintage
+guard
+apology |  
+| bip_39_word_new_line12 | silver
+catch
+large
+club
+cash
+connect
+vault
+track
+vintage
+guard
+apology
+attend |  
+| bip_39_word_new_line2 | silver
+catch |  
+| bip_39_word_new_line3 | silver
+catch
+large |  
+| bip_39_word_new_line4 | silver
+catch
+large
+club |  
+| bip_39_word_new_line5 | silver
+catch
+large
+club
+cash |  
+| bip_39_word_new_line6 | silver
+catch
+large
+club
+cash
+connect |  
+| bip_39_word_new_line7 | silver
+catch
+large
+club
+cash
+connect
+vault |  
+| bip_39_word_new_line8 | silver
+catch
+large
+club
+cash
+connect
+vault
+track |  
+| bip_39_word_new_line9 | silver
+catch
+large
+club
+cash
+connect
+vault
+track
+vintage |  
+| bip_39_word_space_0 | ['silver', 'catch', 'large', 'club', 'cash', 'connect', 'vault', 'track', 'vintage', 'guard', 'apology', 'attend'] |  
+| bip_39_word_space_1 | silver |  
+| bip_39_word_space_10 | silver catch large club cash connect vault track vintage guard |  
+| bip_39_word_space_11 | silver catch large club cash connect vault track vintage guard apology |  
+| bip_39_word_space_12 | silver catch large club cash connect vault track vintage guard apology attend |  
+| bip_39_word_space_2 | silver catch |  
+| bip_39_word_space_3 | silver catch large |  
+| bip_39_word_space_4 | silver catch large club |  
+| bip_39_word_space_5 | silver catch large club cash |  
+| bip_39_word_space_6 | silver catch large club cash connect |  
+| bip_39_word_space_7 | silver catch large club cash connect vault |  
+| bip_39_word_space_8 | silver catch large club cash connect vault track |  
+| bip_39_word_space_9 | silver catch large club cash connect vault track vintage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

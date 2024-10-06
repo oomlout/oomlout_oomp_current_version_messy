@@ -20,6 +20,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: detect piano
+  * bip 39 word 3: detect piano below
+  * bip 39 word: detect piano below layer start pulse brisk end wing pipe upset aspect
 
 ### other_codes
 * short_code: br676
@@ -31,6 +34,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | detect |  
+| bip_39_word_new_br10 | detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end<br>wing<br>pipe |  
+| bip_39_word_new_br11 | detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end<br>wing<br>pipe<br>upset |  
+| bip_39_word_new_br12 | detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end<br>wing<br>pipe<br>upset<br>aspect |  
+| bip_39_word_new_br2 | detect<br>piano |  
+| bip_39_word_new_br3 | detect<br>piano<br>below |  
+| bip_39_word_new_br4 | detect<br>piano<br>below<br>layer |  
+| bip_39_word_new_br5 | detect<br>piano<br>below<br>layer<br>start |  
+| bip_39_word_new_br6 | detect<br>piano<br>below<br>layer<br>start<br>pulse |  
+| bip_39_word_new_br7 | detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk |  
+| bip_39_word_new_br8 | detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end |  
+| bip_39_word_new_br9 | detect<br>piano<br>below<br>layer<br>start<br>pulse<br>brisk<br>end<br>wing |  
+| bip_39_word_new_line1 | detect |  
+| bip_39_word_new_line10 | detect
+piano
+below
+layer
+start
+pulse
+brisk
+end
+wing
+pipe |  
+| bip_39_word_new_line11 | detect
+piano
+below
+layer
+start
+pulse
+brisk
+end
+wing
+pipe
+upset |  
+| bip_39_word_new_line12 | detect
+piano
+below
+layer
+start
+pulse
+brisk
+end
+wing
+pipe
+upset
+aspect |  
+| bip_39_word_new_line2 | detect
+piano |  
+| bip_39_word_new_line3 | detect
+piano
+below |  
+| bip_39_word_new_line4 | detect
+piano
+below
+layer |  
+| bip_39_word_new_line5 | detect
+piano
+below
+layer
+start |  
+| bip_39_word_new_line6 | detect
+piano
+below
+layer
+start
+pulse |  
+| bip_39_word_new_line7 | detect
+piano
+below
+layer
+start
+pulse
+brisk |  
+| bip_39_word_new_line8 | detect
+piano
+below
+layer
+start
+pulse
+brisk
+end |  
+| bip_39_word_new_line9 | detect
+piano
+below
+layer
+start
+pulse
+brisk
+end
+wing |  
+| bip_39_word_space_0 | ['detect', 'piano', 'below', 'layer', 'start', 'pulse', 'brisk', 'end', 'wing', 'pipe', 'upset', 'aspect'] |  
+| bip_39_word_space_1 | detect |  
+| bip_39_word_space_10 | detect piano below layer start pulse brisk end wing pipe |  
+| bip_39_word_space_11 | detect piano below layer start pulse brisk end wing pipe upset |  
+| bip_39_word_space_12 | detect piano below layer start pulse brisk end wing pipe upset aspect |  
+| bip_39_word_space_2 | detect piano |  
+| bip_39_word_space_3 | detect piano below |  
+| bip_39_word_space_4 | detect piano below layer |  
+| bip_39_word_space_5 | detect piano below layer start |  
+| bip_39_word_space_6 | detect piano below layer start pulse |  
+| bip_39_word_space_7 | detect piano below layer start pulse brisk |  
+| bip_39_word_space_8 | detect piano below layer start pulse brisk end |  
+| bip_39_word_space_9 | detect piano below layer start pulse brisk end wing |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

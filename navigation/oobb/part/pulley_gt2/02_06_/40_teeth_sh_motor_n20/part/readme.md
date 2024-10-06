@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: heavy weekend
+  * bip 39 word 3: heavy weekend december
+  * bip 39 word: heavy weekend december egg nature develop rug tag fish slush adjust all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | heavy |  
+| bip_39_word_new_br10 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush |  
+| bip_39_word_new_br11 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush<br>adjust |  
+| bip_39_word_new_br12 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish<br>slush<br>adjust<br>all |  
+| bip_39_word_new_br2 | heavy<br>weekend |  
+| bip_39_word_new_br3 | heavy<br>weekend<br>december |  
+| bip_39_word_new_br4 | heavy<br>weekend<br>december<br>egg |  
+| bip_39_word_new_br5 | heavy<br>weekend<br>december<br>egg<br>nature |  
+| bip_39_word_new_br6 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop |  
+| bip_39_word_new_br7 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug |  
+| bip_39_word_new_br8 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag |  
+| bip_39_word_new_br9 | heavy<br>weekend<br>december<br>egg<br>nature<br>develop<br>rug<br>tag<br>fish |  
+| bip_39_word_new_line1 | heavy |  
+| bip_39_word_new_line10 | heavy
+weekend
+december
+egg
+nature
+develop
+rug
+tag
+fish
+slush |  
+| bip_39_word_new_line11 | heavy
+weekend
+december
+egg
+nature
+develop
+rug
+tag
+fish
+slush
+adjust |  
+| bip_39_word_new_line12 | heavy
+weekend
+december
+egg
+nature
+develop
+rug
+tag
+fish
+slush
+adjust
+all |  
+| bip_39_word_new_line2 | heavy
+weekend |  
+| bip_39_word_new_line3 | heavy
+weekend
+december |  
+| bip_39_word_new_line4 | heavy
+weekend
+december
+egg |  
+| bip_39_word_new_line5 | heavy
+weekend
+december
+egg
+nature |  
+| bip_39_word_new_line6 | heavy
+weekend
+december
+egg
+nature
+develop |  
+| bip_39_word_new_line7 | heavy
+weekend
+december
+egg
+nature
+develop
+rug |  
+| bip_39_word_new_line8 | heavy
+weekend
+december
+egg
+nature
+develop
+rug
+tag |  
+| bip_39_word_new_line9 | heavy
+weekend
+december
+egg
+nature
+develop
+rug
+tag
+fish |  
+| bip_39_word_space_0 | ['heavy', 'weekend', 'december', 'egg', 'nature', 'develop', 'rug', 'tag', 'fish', 'slush', 'adjust', 'all'] |  
+| bip_39_word_space_1 | heavy |  
+| bip_39_word_space_10 | heavy weekend december egg nature develop rug tag fish slush |  
+| bip_39_word_space_11 | heavy weekend december egg nature develop rug tag fish slush adjust |  
+| bip_39_word_space_12 | heavy weekend december egg nature develop rug tag fish slush adjust all |  
+| bip_39_word_space_2 | heavy weekend |  
+| bip_39_word_space_3 | heavy weekend december |  
+| bip_39_word_space_4 | heavy weekend december egg |  
+| bip_39_word_space_5 | heavy weekend december egg nature |  
+| bip_39_word_space_6 | heavy weekend december egg nature develop |  
+| bip_39_word_space_7 | heavy weekend december egg nature develop rug |  
+| bip_39_word_space_8 | heavy weekend december egg nature develop rug tag |  
+| bip_39_word_space_9 | heavy weekend december egg nature develop rug tag fish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,158 @@
+bip_39_word_new_br1: rubber
+bip_39_word_new_br10: rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist<br>jump
+bip_39_word_new_br11: rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist<br>jump<br>advice
+bip_39_word_new_br2: rubber<br>happy
+bip_39_word_new_br3: rubber<br>happy<br>miracle
+bip_39_word_new_br4: rubber<br>happy<br>miracle<br>then
+bip_39_word_new_br5: rubber<br>happy<br>miracle<br>then<br>winter
+bip_39_word_new_br6: rubber<br>happy<br>miracle<br>then<br>winter<br>boy
+bip_39_word_new_br7: rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg
+bip_39_word_new_br8: rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy
+bip_39_word_new_br9: rubber<br>happy<br>miracle<br>then<br>winter<br>boy<br>egg<br>busy<br>enlist
+bip_39_word_new_line1: rubber
+bip_39_word_new_line10: 'rubber
+
+  happy
+
+  miracle
+
+  then
+
+  winter
+
+  boy
+
+  egg
+
+  busy
+
+  enlist
+
+  jump'
+bip_39_word_new_line11: 'rubber
+
+  happy
+
+  miracle
+
+  then
+
+  winter
+
+  boy
+
+  egg
+
+  busy
+
+  enlist
+
+  jump
+
+  advice'
+bip_39_word_new_line2: 'rubber
+
+  happy'
+bip_39_word_new_line3: 'rubber
+
+  happy
+
+  miracle'
+bip_39_word_new_line4: 'rubber
+
+  happy
+
+  miracle
+
+  then'
+bip_39_word_new_line5: 'rubber
+
+  happy
+
+  miracle
+
+  then
+
+  winter'
+bip_39_word_new_line6: 'rubber
+
+  happy
+
+  miracle
+
+  then
+
+  winter
+
+  boy'
+bip_39_word_new_line7: 'rubber
+
+  happy
+
+  miracle
+
+  then
+
+  winter
+
+  boy
+
+  egg'
+bip_39_word_new_line8: 'rubber
+
+  happy
+
+  miracle
+
+  then
+
+  winter
+
+  boy
+
+  egg
+
+  busy'
+bip_39_word_new_line9: 'rubber
+
+  happy
+
+  miracle
+
+  then
+
+  winter
+
+  boy
+
+  egg
+
+  busy
+
+  enlist'
+bip_39_word_space_0:
+- rubber
+- happy
+- miracle
+- then
+- winter
+- boy
+- egg
+- busy
+- enlist
+- jump
+- advice
+bip_39_word_space_1: rubber
+bip_39_word_space_10: rubber happy miracle then winter boy egg busy enlist jump
+bip_39_word_space_11: rubber happy miracle then winter boy egg busy enlist jump advice
+bip_39_word_space_2: rubber happy
+bip_39_word_space_3: rubber happy miracle
+bip_39_word_space_4: rubber happy miracle then
+bip_39_word_space_5: rubber happy miracle then winter
+bip_39_word_space_6: rubber happy miracle then winter boy
+bip_39_word_space_7: rubber happy miracle then winter boy egg
+bip_39_word_space_8: rubber happy miracle then winter boy egg busy
+bip_39_word_space_9: rubber happy miracle then winter boy egg busy enlist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

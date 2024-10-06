@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pledge
+bip_39_word_new_br10: pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image
+bip_39_word_new_br11: pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image<br>direct
+bip_39_word_new_br12: pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very<br>image<br>direct<br>acid
+bip_39_word_new_br2: pledge<br>regular
+bip_39_word_new_br3: pledge<br>regular<br>episode
+bip_39_word_new_br4: pledge<br>regular<br>episode<br>begin
+bip_39_word_new_br5: pledge<br>regular<br>episode<br>begin<br>gasp
+bip_39_word_new_br6: pledge<br>regular<br>episode<br>begin<br>gasp<br>derive
+bip_39_word_new_br7: pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social
+bip_39_word_new_br8: pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic
+bip_39_word_new_br9: pledge<br>regular<br>episode<br>begin<br>gasp<br>derive<br>social<br>exotic<br>very
+bip_39_word_new_line1: pledge
+bip_39_word_new_line10: 'pledge
+
+  regular
+
+  episode
+
+  begin
+
+  gasp
+
+  derive
+
+  social
+
+  exotic
+
+  very
+
+  image'
+bip_39_word_new_line11: 'pledge
+
+  regular
+
+  episode
+
+  begin
+
+  gasp
+
+  derive
+
+  social
+
+  exotic
+
+  very
+
+  image
+
+  direct'
+bip_39_word_new_line12: 'pledge
+
+  regular
+
+  episode
+
+  begin
+
+  gasp
+
+  derive
+
+  social
+
+  exotic
+
+  very
+
+  image
+
+  direct
+
+  acid'
+bip_39_word_new_line2: 'pledge
+
+  regular'
+bip_39_word_new_line3: 'pledge
+
+  regular
+
+  episode'
+bip_39_word_new_line4: 'pledge
+
+  regular
+
+  episode
+
+  begin'
+bip_39_word_new_line5: 'pledge
+
+  regular
+
+  episode
+
+  begin
+
+  gasp'
+bip_39_word_new_line6: 'pledge
+
+  regular
+
+  episode
+
+  begin
+
+  gasp
+
+  derive'
+bip_39_word_new_line7: 'pledge
+
+  regular
+
+  episode
+
+  begin
+
+  gasp
+
+  derive
+
+  social'
+bip_39_word_new_line8: 'pledge
+
+  regular
+
+  episode
+
+  begin
+
+  gasp
+
+  derive
+
+  social
+
+  exotic'
+bip_39_word_new_line9: 'pledge
+
+  regular
+
+  episode
+
+  begin
+
+  gasp
+
+  derive
+
+  social
+
+  exotic
+
+  very'
+bip_39_word_space_0:
+- pledge
+- regular
+- episode
+- begin
+- gasp
+- derive
+- social
+- exotic
+- very
+- image
+- direct
+- acid
+bip_39_word_space_1: pledge
+bip_39_word_space_10: pledge regular episode begin gasp derive social exotic very
+  image
+bip_39_word_space_11: pledge regular episode begin gasp derive social exotic very
+  image direct
+bip_39_word_space_12: pledge regular episode begin gasp derive social exotic very
+  image direct acid
+bip_39_word_space_2: pledge regular
+bip_39_word_space_3: pledge regular episode
+bip_39_word_space_4: pledge regular episode begin
+bip_39_word_space_5: pledge regular episode begin gasp
+bip_39_word_space_6: pledge regular episode begin gasp derive
+bip_39_word_space_7: pledge regular episode begin gasp derive social
+bip_39_word_space_8: pledge regular episode begin gasp derive social exotic
+bip_39_word_space_9: pledge regular episode begin gasp derive social exotic very
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

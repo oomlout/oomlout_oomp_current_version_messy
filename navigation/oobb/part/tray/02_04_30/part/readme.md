@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bitter token
+  * bip 39 word 3: bitter token robust
+  * bip 39 word: bitter token robust trend embark sound paddle music arrest stomach fat act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bitter |  
+| bip_39_word_new_br10 | bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest<br>stomach |  
+| bip_39_word_new_br11 | bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest<br>stomach<br>fat |  
+| bip_39_word_new_br12 | bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest<br>stomach<br>fat<br>act |  
+| bip_39_word_new_br2 | bitter<br>token |  
+| bip_39_word_new_br3 | bitter<br>token<br>robust |  
+| bip_39_word_new_br4 | bitter<br>token<br>robust<br>trend |  
+| bip_39_word_new_br5 | bitter<br>token<br>robust<br>trend<br>embark |  
+| bip_39_word_new_br6 | bitter<br>token<br>robust<br>trend<br>embark<br>sound |  
+| bip_39_word_new_br7 | bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle |  
+| bip_39_word_new_br8 | bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music |  
+| bip_39_word_new_br9 | bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest |  
+| bip_39_word_new_line1 | bitter |  
+| bip_39_word_new_line10 | bitter
+token
+robust
+trend
+embark
+sound
+paddle
+music
+arrest
+stomach |  
+| bip_39_word_new_line11 | bitter
+token
+robust
+trend
+embark
+sound
+paddle
+music
+arrest
+stomach
+fat |  
+| bip_39_word_new_line12 | bitter
+token
+robust
+trend
+embark
+sound
+paddle
+music
+arrest
+stomach
+fat
+act |  
+| bip_39_word_new_line2 | bitter
+token |  
+| bip_39_word_new_line3 | bitter
+token
+robust |  
+| bip_39_word_new_line4 | bitter
+token
+robust
+trend |  
+| bip_39_word_new_line5 | bitter
+token
+robust
+trend
+embark |  
+| bip_39_word_new_line6 | bitter
+token
+robust
+trend
+embark
+sound |  
+| bip_39_word_new_line7 | bitter
+token
+robust
+trend
+embark
+sound
+paddle |  
+| bip_39_word_new_line8 | bitter
+token
+robust
+trend
+embark
+sound
+paddle
+music |  
+| bip_39_word_new_line9 | bitter
+token
+robust
+trend
+embark
+sound
+paddle
+music
+arrest |  
+| bip_39_word_space_0 | ['bitter', 'token', 'robust', 'trend', 'embark', 'sound', 'paddle', 'music', 'arrest', 'stomach', 'fat', 'act'] |  
+| bip_39_word_space_1 | bitter |  
+| bip_39_word_space_10 | bitter token robust trend embark sound paddle music arrest stomach |  
+| bip_39_word_space_11 | bitter token robust trend embark sound paddle music arrest stomach fat |  
+| bip_39_word_space_12 | bitter token robust trend embark sound paddle music arrest stomach fat act |  
+| bip_39_word_space_2 | bitter token |  
+| bip_39_word_space_3 | bitter token robust |  
+| bip_39_word_space_4 | bitter token robust trend |  
+| bip_39_word_space_5 | bitter token robust trend embark |  
+| bip_39_word_space_6 | bitter token robust trend embark sound |  
+| bip_39_word_space_7 | bitter token robust trend embark sound paddle |  
+| bip_39_word_space_8 | bitter token robust trend embark sound paddle music |  
+| bip_39_word_space_9 | bitter token robust trend embark sound paddle music arrest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

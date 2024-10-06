@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arch timber
+  * bip 39 word 3: arch timber stage
+  * bip 39 word: arch timber stage object left immune mobile asthma mad session indoor already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arch |  
+| bip_39_word_new_br10 | arch<br>timber<br>stage<br>object<br>left<br>immune<br>mobile<br>asthma<br>mad<br>session |  
+| bip_39_word_new_br11 | arch<br>timber<br>stage<br>object<br>left<br>immune<br>mobile<br>asthma<br>mad<br>session<br>indoor |  
+| bip_39_word_new_br12 | arch<br>timber<br>stage<br>object<br>left<br>immune<br>mobile<br>asthma<br>mad<br>session<br>indoor<br>already |  
+| bip_39_word_new_br2 | arch<br>timber |  
+| bip_39_word_new_br3 | arch<br>timber<br>stage |  
+| bip_39_word_new_br4 | arch<br>timber<br>stage<br>object |  
+| bip_39_word_new_br5 | arch<br>timber<br>stage<br>object<br>left |  
+| bip_39_word_new_br6 | arch<br>timber<br>stage<br>object<br>left<br>immune |  
+| bip_39_word_new_br7 | arch<br>timber<br>stage<br>object<br>left<br>immune<br>mobile |  
+| bip_39_word_new_br8 | arch<br>timber<br>stage<br>object<br>left<br>immune<br>mobile<br>asthma |  
+| bip_39_word_new_br9 | arch<br>timber<br>stage<br>object<br>left<br>immune<br>mobile<br>asthma<br>mad |  
+| bip_39_word_new_line1 | arch |  
+| bip_39_word_new_line10 | arch
+timber
+stage
+object
+left
+immune
+mobile
+asthma
+mad
+session |  
+| bip_39_word_new_line11 | arch
+timber
+stage
+object
+left
+immune
+mobile
+asthma
+mad
+session
+indoor |  
+| bip_39_word_new_line12 | arch
+timber
+stage
+object
+left
+immune
+mobile
+asthma
+mad
+session
+indoor
+already |  
+| bip_39_word_new_line2 | arch
+timber |  
+| bip_39_word_new_line3 | arch
+timber
+stage |  
+| bip_39_word_new_line4 | arch
+timber
+stage
+object |  
+| bip_39_word_new_line5 | arch
+timber
+stage
+object
+left |  
+| bip_39_word_new_line6 | arch
+timber
+stage
+object
+left
+immune |  
+| bip_39_word_new_line7 | arch
+timber
+stage
+object
+left
+immune
+mobile |  
+| bip_39_word_new_line8 | arch
+timber
+stage
+object
+left
+immune
+mobile
+asthma |  
+| bip_39_word_new_line9 | arch
+timber
+stage
+object
+left
+immune
+mobile
+asthma
+mad |  
+| bip_39_word_space_0 | ['arch', 'timber', 'stage', 'object', 'left', 'immune', 'mobile', 'asthma', 'mad', 'session', 'indoor', 'already'] |  
+| bip_39_word_space_1 | arch |  
+| bip_39_word_space_10 | arch timber stage object left immune mobile asthma mad session |  
+| bip_39_word_space_11 | arch timber stage object left immune mobile asthma mad session indoor |  
+| bip_39_word_space_12 | arch timber stage object left immune mobile asthma mad session indoor already |  
+| bip_39_word_space_2 | arch timber |  
+| bip_39_word_space_3 | arch timber stage |  
+| bip_39_word_space_4 | arch timber stage object |  
+| bip_39_word_space_5 | arch timber stage object left |  
+| bip_39_word_space_6 | arch timber stage object left immune |  
+| bip_39_word_space_7 | arch timber stage object left immune mobile |  
+| bip_39_word_space_8 | arch timber stage object left immune mobile asthma |  
+| bip_39_word_space_9 | arch timber stage object left immune mobile asthma mad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

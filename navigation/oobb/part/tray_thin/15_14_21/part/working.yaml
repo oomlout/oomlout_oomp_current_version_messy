@@ -1,3 +1,186 @@
+bip_39_word_new_br1: picnic
+bip_39_word_new_br10: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava<br>abuse<br>run<br>rack<br>fog
+bip_39_word_new_br11: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava<br>abuse<br>run<br>rack<br>fog<br>dismiss
+bip_39_word_new_br12: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava<br>abuse<br>run<br>rack<br>fog<br>dismiss<br>angry
+bip_39_word_new_br2: picnic<br>matter
+bip_39_word_new_br3: picnic<br>matter<br>uncover
+bip_39_word_new_br4: picnic<br>matter<br>uncover<br>bonus
+bip_39_word_new_br5: picnic<br>matter<br>uncover<br>bonus<br>special
+bip_39_word_new_br6: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava
+bip_39_word_new_br7: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava<br>abuse
+bip_39_word_new_br8: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava<br>abuse<br>run
+bip_39_word_new_br9: picnic<br>matter<br>uncover<br>bonus<br>special<br>lava<br>abuse<br>run<br>rack
+bip_39_word_new_line1: picnic
+bip_39_word_new_line10: 'picnic
+
+  matter
+
+  uncover
+
+  bonus
+
+  special
+
+  lava
+
+  abuse
+
+  run
+
+  rack
+
+  fog'
+bip_39_word_new_line11: 'picnic
+
+  matter
+
+  uncover
+
+  bonus
+
+  special
+
+  lava
+
+  abuse
+
+  run
+
+  rack
+
+  fog
+
+  dismiss'
+bip_39_word_new_line12: 'picnic
+
+  matter
+
+  uncover
+
+  bonus
+
+  special
+
+  lava
+
+  abuse
+
+  run
+
+  rack
+
+  fog
+
+  dismiss
+
+  angry'
+bip_39_word_new_line2: 'picnic
+
+  matter'
+bip_39_word_new_line3: 'picnic
+
+  matter
+
+  uncover'
+bip_39_word_new_line4: 'picnic
+
+  matter
+
+  uncover
+
+  bonus'
+bip_39_word_new_line5: 'picnic
+
+  matter
+
+  uncover
+
+  bonus
+
+  special'
+bip_39_word_new_line6: 'picnic
+
+  matter
+
+  uncover
+
+  bonus
+
+  special
+
+  lava'
+bip_39_word_new_line7: 'picnic
+
+  matter
+
+  uncover
+
+  bonus
+
+  special
+
+  lava
+
+  abuse'
+bip_39_word_new_line8: 'picnic
+
+  matter
+
+  uncover
+
+  bonus
+
+  special
+
+  lava
+
+  abuse
+
+  run'
+bip_39_word_new_line9: 'picnic
+
+  matter
+
+  uncover
+
+  bonus
+
+  special
+
+  lava
+
+  abuse
+
+  run
+
+  rack'
+bip_39_word_space_0:
+- picnic
+- matter
+- uncover
+- bonus
+- special
+- lava
+- abuse
+- run
+- rack
+- fog
+- dismiss
+- angry
+bip_39_word_space_1: picnic
+bip_39_word_space_10: picnic matter uncover bonus special lava abuse run rack fog
+bip_39_word_space_11: picnic matter uncover bonus special lava abuse run rack fog
+  dismiss
+bip_39_word_space_12: picnic matter uncover bonus special lava abuse run rack fog
+  dismiss angry
+bip_39_word_space_2: picnic matter
+bip_39_word_space_3: picnic matter uncover
+bip_39_word_space_4: picnic matter uncover bonus
+bip_39_word_space_5: picnic matter uncover bonus special
+bip_39_word_space_6: picnic matter uncover bonus special lava
+bip_39_word_space_7: picnic matter uncover bonus special lava abuse
+bip_39_word_space_8: picnic matter uncover bonus special lava abuse run
+bip_39_word_space_9: picnic matter uncover bonus special lava abuse run rack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: disorder bind
+  * bip 39 word 3: disorder bind smooth
+  * bip 39 word: disorder bind smooth waste private aerobic tragic carry beyond fatal ice armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | disorder |  
+| bip_39_word_new_br10 | disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry<br>beyond<br>fatal |  
+| bip_39_word_new_br11 | disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry<br>beyond<br>fatal<br>ice |  
+| bip_39_word_new_br12 | disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry<br>beyond<br>fatal<br>ice<br>armor |  
+| bip_39_word_new_br2 | disorder<br>bind |  
+| bip_39_word_new_br3 | disorder<br>bind<br>smooth |  
+| bip_39_word_new_br4 | disorder<br>bind<br>smooth<br>waste |  
+| bip_39_word_new_br5 | disorder<br>bind<br>smooth<br>waste<br>private |  
+| bip_39_word_new_br6 | disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic |  
+| bip_39_word_new_br7 | disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic |  
+| bip_39_word_new_br8 | disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry |  
+| bip_39_word_new_br9 | disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry<br>beyond |  
+| bip_39_word_new_line1 | disorder |  
+| bip_39_word_new_line10 | disorder
+bind
+smooth
+waste
+private
+aerobic
+tragic
+carry
+beyond
+fatal |  
+| bip_39_word_new_line11 | disorder
+bind
+smooth
+waste
+private
+aerobic
+tragic
+carry
+beyond
+fatal
+ice |  
+| bip_39_word_new_line12 | disorder
+bind
+smooth
+waste
+private
+aerobic
+tragic
+carry
+beyond
+fatal
+ice
+armor |  
+| bip_39_word_new_line2 | disorder
+bind |  
+| bip_39_word_new_line3 | disorder
+bind
+smooth |  
+| bip_39_word_new_line4 | disorder
+bind
+smooth
+waste |  
+| bip_39_word_new_line5 | disorder
+bind
+smooth
+waste
+private |  
+| bip_39_word_new_line6 | disorder
+bind
+smooth
+waste
+private
+aerobic |  
+| bip_39_word_new_line7 | disorder
+bind
+smooth
+waste
+private
+aerobic
+tragic |  
+| bip_39_word_new_line8 | disorder
+bind
+smooth
+waste
+private
+aerobic
+tragic
+carry |  
+| bip_39_word_new_line9 | disorder
+bind
+smooth
+waste
+private
+aerobic
+tragic
+carry
+beyond |  
+| bip_39_word_space_0 | ['disorder', 'bind', 'smooth', 'waste', 'private', 'aerobic', 'tragic', 'carry', 'beyond', 'fatal', 'ice', 'armor'] |  
+| bip_39_word_space_1 | disorder |  
+| bip_39_word_space_10 | disorder bind smooth waste private aerobic tragic carry beyond fatal |  
+| bip_39_word_space_11 | disorder bind smooth waste private aerobic tragic carry beyond fatal ice |  
+| bip_39_word_space_12 | disorder bind smooth waste private aerobic tragic carry beyond fatal ice armor |  
+| bip_39_word_space_2 | disorder bind |  
+| bip_39_word_space_3 | disorder bind smooth |  
+| bip_39_word_space_4 | disorder bind smooth waste |  
+| bip_39_word_space_5 | disorder bind smooth waste private |  
+| bip_39_word_space_6 | disorder bind smooth waste private aerobic |  
+| bip_39_word_space_7 | disorder bind smooth waste private aerobic tragic |  
+| bip_39_word_space_8 | disorder bind smooth waste private aerobic tragic carry |  
+| bip_39_word_space_9 | disorder bind smooth waste private aerobic tragic carry beyond |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

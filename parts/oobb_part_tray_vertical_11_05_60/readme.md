@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hospital method
+  * bip 39 word 3: hospital method feel
+  * bip 39 word: hospital method feel chief suggest sorry midnight illness cactus jar avoid adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hospital |  
+| bip_39_word_new_br10 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry<br>midnight<br>illness<br>cactus<br>jar |  
+| bip_39_word_new_br11 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry<br>midnight<br>illness<br>cactus<br>jar<br>avoid |  
+| bip_39_word_new_br12 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry<br>midnight<br>illness<br>cactus<br>jar<br>avoid<br>adult |  
+| bip_39_word_new_br2 | hospital<br>method |  
+| bip_39_word_new_br3 | hospital<br>method<br>feel |  
+| bip_39_word_new_br4 | hospital<br>method<br>feel<br>chief |  
+| bip_39_word_new_br5 | hospital<br>method<br>feel<br>chief<br>suggest |  
+| bip_39_word_new_br6 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry |  
+| bip_39_word_new_br7 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry<br>midnight |  
+| bip_39_word_new_br8 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry<br>midnight<br>illness |  
+| bip_39_word_new_br9 | hospital<br>method<br>feel<br>chief<br>suggest<br>sorry<br>midnight<br>illness<br>cactus |  
+| bip_39_word_new_line1 | hospital |  
+| bip_39_word_new_line10 | hospital
+method
+feel
+chief
+suggest
+sorry
+midnight
+illness
+cactus
+jar |  
+| bip_39_word_new_line11 | hospital
+method
+feel
+chief
+suggest
+sorry
+midnight
+illness
+cactus
+jar
+avoid |  
+| bip_39_word_new_line12 | hospital
+method
+feel
+chief
+suggest
+sorry
+midnight
+illness
+cactus
+jar
+avoid
+adult |  
+| bip_39_word_new_line2 | hospital
+method |  
+| bip_39_word_new_line3 | hospital
+method
+feel |  
+| bip_39_word_new_line4 | hospital
+method
+feel
+chief |  
+| bip_39_word_new_line5 | hospital
+method
+feel
+chief
+suggest |  
+| bip_39_word_new_line6 | hospital
+method
+feel
+chief
+suggest
+sorry |  
+| bip_39_word_new_line7 | hospital
+method
+feel
+chief
+suggest
+sorry
+midnight |  
+| bip_39_word_new_line8 | hospital
+method
+feel
+chief
+suggest
+sorry
+midnight
+illness |  
+| bip_39_word_new_line9 | hospital
+method
+feel
+chief
+suggest
+sorry
+midnight
+illness
+cactus |  
+| bip_39_word_space_0 | ['hospital', 'method', 'feel', 'chief', 'suggest', 'sorry', 'midnight', 'illness', 'cactus', 'jar', 'avoid', 'adult'] |  
+| bip_39_word_space_1 | hospital |  
+| bip_39_word_space_10 | hospital method feel chief suggest sorry midnight illness cactus jar |  
+| bip_39_word_space_11 | hospital method feel chief suggest sorry midnight illness cactus jar avoid |  
+| bip_39_word_space_12 | hospital method feel chief suggest sorry midnight illness cactus jar avoid adult |  
+| bip_39_word_space_2 | hospital method |  
+| bip_39_word_space_3 | hospital method feel |  
+| bip_39_word_space_4 | hospital method feel chief |  
+| bip_39_word_space_5 | hospital method feel chief suggest |  
+| bip_39_word_space_6 | hospital method feel chief suggest sorry |  
+| bip_39_word_space_7 | hospital method feel chief suggest sorry midnight |  
+| bip_39_word_space_8 | hospital method feel chief suggest sorry midnight illness |  
+| bip_39_word_space_9 | hospital method feel chief suggest sorry midnight illness cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

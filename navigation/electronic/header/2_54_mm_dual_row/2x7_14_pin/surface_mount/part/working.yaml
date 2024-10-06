@@ -1,3 +1,186 @@
+bip_39_word_new_br1: extra
+bip_39_word_new_br10: extra<br>poet<br>media<br>bar<br>just<br>donkey<br>auction<br>danger<br>salute<br>small
+bip_39_word_new_br11: extra<br>poet<br>media<br>bar<br>just<br>donkey<br>auction<br>danger<br>salute<br>small<br>afraid
+bip_39_word_new_br12: extra<br>poet<br>media<br>bar<br>just<br>donkey<br>auction<br>danger<br>salute<br>small<br>afraid<br>appear
+bip_39_word_new_br2: extra<br>poet
+bip_39_word_new_br3: extra<br>poet<br>media
+bip_39_word_new_br4: extra<br>poet<br>media<br>bar
+bip_39_word_new_br5: extra<br>poet<br>media<br>bar<br>just
+bip_39_word_new_br6: extra<br>poet<br>media<br>bar<br>just<br>donkey
+bip_39_word_new_br7: extra<br>poet<br>media<br>bar<br>just<br>donkey<br>auction
+bip_39_word_new_br8: extra<br>poet<br>media<br>bar<br>just<br>donkey<br>auction<br>danger
+bip_39_word_new_br9: extra<br>poet<br>media<br>bar<br>just<br>donkey<br>auction<br>danger<br>salute
+bip_39_word_new_line1: extra
+bip_39_word_new_line10: 'extra
+
+  poet
+
+  media
+
+  bar
+
+  just
+
+  donkey
+
+  auction
+
+  danger
+
+  salute
+
+  small'
+bip_39_word_new_line11: 'extra
+
+  poet
+
+  media
+
+  bar
+
+  just
+
+  donkey
+
+  auction
+
+  danger
+
+  salute
+
+  small
+
+  afraid'
+bip_39_word_new_line12: 'extra
+
+  poet
+
+  media
+
+  bar
+
+  just
+
+  donkey
+
+  auction
+
+  danger
+
+  salute
+
+  small
+
+  afraid
+
+  appear'
+bip_39_word_new_line2: 'extra
+
+  poet'
+bip_39_word_new_line3: 'extra
+
+  poet
+
+  media'
+bip_39_word_new_line4: 'extra
+
+  poet
+
+  media
+
+  bar'
+bip_39_word_new_line5: 'extra
+
+  poet
+
+  media
+
+  bar
+
+  just'
+bip_39_word_new_line6: 'extra
+
+  poet
+
+  media
+
+  bar
+
+  just
+
+  donkey'
+bip_39_word_new_line7: 'extra
+
+  poet
+
+  media
+
+  bar
+
+  just
+
+  donkey
+
+  auction'
+bip_39_word_new_line8: 'extra
+
+  poet
+
+  media
+
+  bar
+
+  just
+
+  donkey
+
+  auction
+
+  danger'
+bip_39_word_new_line9: 'extra
+
+  poet
+
+  media
+
+  bar
+
+  just
+
+  donkey
+
+  auction
+
+  danger
+
+  salute'
+bip_39_word_space_0:
+- extra
+- poet
+- media
+- bar
+- just
+- donkey
+- auction
+- danger
+- salute
+- small
+- afraid
+- appear
+bip_39_word_space_1: extra
+bip_39_word_space_10: extra poet media bar just donkey auction danger salute small
+bip_39_word_space_11: extra poet media bar just donkey auction danger salute small
+  afraid
+bip_39_word_space_12: extra poet media bar just donkey auction danger salute small
+  afraid appear
+bip_39_word_space_2: extra poet
+bip_39_word_space_3: extra poet media
+bip_39_word_space_4: extra poet media bar
+bip_39_word_space_5: extra poet media bar just
+bip_39_word_space_6: extra poet media bar just donkey
+bip_39_word_space_7: extra poet media bar just donkey auction
+bip_39_word_space_8: extra poet media bar just donkey auction danger
+bip_39_word_space_9: extra poet media bar just donkey auction danger salute
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

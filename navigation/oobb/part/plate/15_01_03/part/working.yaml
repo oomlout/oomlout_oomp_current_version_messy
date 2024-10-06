@@ -1,3 +1,186 @@
+bip_39_word_new_br1: feel
+bip_39_word_new_br10: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano<br>boil<br>breeze<br>found<br>pact
+bip_39_word_new_br11: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano<br>boil<br>breeze<br>found<br>pact<br>quick
+bip_39_word_new_br12: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano<br>boil<br>breeze<br>found<br>pact<br>quick<br>avocado
+bip_39_word_new_br2: feel<br>strong
+bip_39_word_new_br3: feel<br>strong<br>scheme
+bip_39_word_new_br4: feel<br>strong<br>scheme<br>drink
+bip_39_word_new_br5: feel<br>strong<br>scheme<br>drink<br>useless
+bip_39_word_new_br6: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano
+bip_39_word_new_br7: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano<br>boil
+bip_39_word_new_br8: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano<br>boil<br>breeze
+bip_39_word_new_br9: feel<br>strong<br>scheme<br>drink<br>useless<br>volcano<br>boil<br>breeze<br>found
+bip_39_word_new_line1: feel
+bip_39_word_new_line10: 'feel
+
+  strong
+
+  scheme
+
+  drink
+
+  useless
+
+  volcano
+
+  boil
+
+  breeze
+
+  found
+
+  pact'
+bip_39_word_new_line11: 'feel
+
+  strong
+
+  scheme
+
+  drink
+
+  useless
+
+  volcano
+
+  boil
+
+  breeze
+
+  found
+
+  pact
+
+  quick'
+bip_39_word_new_line12: 'feel
+
+  strong
+
+  scheme
+
+  drink
+
+  useless
+
+  volcano
+
+  boil
+
+  breeze
+
+  found
+
+  pact
+
+  quick
+
+  avocado'
+bip_39_word_new_line2: 'feel
+
+  strong'
+bip_39_word_new_line3: 'feel
+
+  strong
+
+  scheme'
+bip_39_word_new_line4: 'feel
+
+  strong
+
+  scheme
+
+  drink'
+bip_39_word_new_line5: 'feel
+
+  strong
+
+  scheme
+
+  drink
+
+  useless'
+bip_39_word_new_line6: 'feel
+
+  strong
+
+  scheme
+
+  drink
+
+  useless
+
+  volcano'
+bip_39_word_new_line7: 'feel
+
+  strong
+
+  scheme
+
+  drink
+
+  useless
+
+  volcano
+
+  boil'
+bip_39_word_new_line8: 'feel
+
+  strong
+
+  scheme
+
+  drink
+
+  useless
+
+  volcano
+
+  boil
+
+  breeze'
+bip_39_word_new_line9: 'feel
+
+  strong
+
+  scheme
+
+  drink
+
+  useless
+
+  volcano
+
+  boil
+
+  breeze
+
+  found'
+bip_39_word_space_0:
+- feel
+- strong
+- scheme
+- drink
+- useless
+- volcano
+- boil
+- breeze
+- found
+- pact
+- quick
+- avocado
+bip_39_word_space_1: feel
+bip_39_word_space_10: feel strong scheme drink useless volcano boil breeze found pact
+bip_39_word_space_11: feel strong scheme drink useless volcano boil breeze found pact
+  quick
+bip_39_word_space_12: feel strong scheme drink useless volcano boil breeze found pact
+  quick avocado
+bip_39_word_space_2: feel strong
+bip_39_word_space_3: feel strong scheme
+bip_39_word_space_4: feel strong scheme drink
+bip_39_word_space_5: feel strong scheme drink useless
+bip_39_word_space_6: feel strong scheme drink useless volcano
+bip_39_word_space_7: feel strong scheme drink useless volcano boil
+bip_39_word_space_8: feel strong scheme drink useless volcano boil breeze
+bip_39_word_space_9: feel strong scheme drink useless volcano boil breeze found
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

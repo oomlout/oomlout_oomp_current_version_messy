@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: package_marking_b2
   * manufacturer: 
   * part_number: mbr0520
+  * bip 39 word 2: mystery pool
+  * bip 39 word 3: mystery pool collect
+  * bip 39 word: mystery pool collect tongue noodle science swarm sweet cloth upgrade mistake average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mystery |  
+| bip_39_word_new_br10 | mystery<br>pool<br>collect<br>tongue<br>noodle<br>science<br>swarm<br>sweet<br>cloth<br>upgrade |  
+| bip_39_word_new_br11 | mystery<br>pool<br>collect<br>tongue<br>noodle<br>science<br>swarm<br>sweet<br>cloth<br>upgrade<br>mistake |  
+| bip_39_word_new_br12 | mystery<br>pool<br>collect<br>tongue<br>noodle<br>science<br>swarm<br>sweet<br>cloth<br>upgrade<br>mistake<br>average |  
+| bip_39_word_new_br2 | mystery<br>pool |  
+| bip_39_word_new_br3 | mystery<br>pool<br>collect |  
+| bip_39_word_new_br4 | mystery<br>pool<br>collect<br>tongue |  
+| bip_39_word_new_br5 | mystery<br>pool<br>collect<br>tongue<br>noodle |  
+| bip_39_word_new_br6 | mystery<br>pool<br>collect<br>tongue<br>noodle<br>science |  
+| bip_39_word_new_br7 | mystery<br>pool<br>collect<br>tongue<br>noodle<br>science<br>swarm |  
+| bip_39_word_new_br8 | mystery<br>pool<br>collect<br>tongue<br>noodle<br>science<br>swarm<br>sweet |  
+| bip_39_word_new_br9 | mystery<br>pool<br>collect<br>tongue<br>noodle<br>science<br>swarm<br>sweet<br>cloth |  
+| bip_39_word_new_line1 | mystery |  
+| bip_39_word_new_line10 | mystery
+pool
+collect
+tongue
+noodle
+science
+swarm
+sweet
+cloth
+upgrade |  
+| bip_39_word_new_line11 | mystery
+pool
+collect
+tongue
+noodle
+science
+swarm
+sweet
+cloth
+upgrade
+mistake |  
+| bip_39_word_new_line12 | mystery
+pool
+collect
+tongue
+noodle
+science
+swarm
+sweet
+cloth
+upgrade
+mistake
+average |  
+| bip_39_word_new_line2 | mystery
+pool |  
+| bip_39_word_new_line3 | mystery
+pool
+collect |  
+| bip_39_word_new_line4 | mystery
+pool
+collect
+tongue |  
+| bip_39_word_new_line5 | mystery
+pool
+collect
+tongue
+noodle |  
+| bip_39_word_new_line6 | mystery
+pool
+collect
+tongue
+noodle
+science |  
+| bip_39_word_new_line7 | mystery
+pool
+collect
+tongue
+noodle
+science
+swarm |  
+| bip_39_word_new_line8 | mystery
+pool
+collect
+tongue
+noodle
+science
+swarm
+sweet |  
+| bip_39_word_new_line9 | mystery
+pool
+collect
+tongue
+noodle
+science
+swarm
+sweet
+cloth |  
+| bip_39_word_space_0 | ['mystery', 'pool', 'collect', 'tongue', 'noodle', 'science', 'swarm', 'sweet', 'cloth', 'upgrade', 'mistake', 'average'] |  
+| bip_39_word_space_1 | mystery |  
+| bip_39_word_space_10 | mystery pool collect tongue noodle science swarm sweet cloth upgrade |  
+| bip_39_word_space_11 | mystery pool collect tongue noodle science swarm sweet cloth upgrade mistake |  
+| bip_39_word_space_12 | mystery pool collect tongue noodle science swarm sweet cloth upgrade mistake average |  
+| bip_39_word_space_2 | mystery pool |  
+| bip_39_word_space_3 | mystery pool collect |  
+| bip_39_word_space_4 | mystery pool collect tongue |  
+| bip_39_word_space_5 | mystery pool collect tongue noodle |  
+| bip_39_word_space_6 | mystery pool collect tongue noodle science |  
+| bip_39_word_space_7 | mystery pool collect tongue noodle science swarm |  
+| bip_39_word_space_8 | mystery pool collect tongue noodle science swarm sweet |  
+| bip_39_word_space_9 | mystery pool collect tongue noodle science swarm sweet cloth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

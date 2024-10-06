@@ -1,3 +1,187 @@
+bip_39_word_new_br1: edit
+bip_39_word_new_br10: edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay
+bip_39_word_new_br11: edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay<br>syrup
+bip_39_word_new_br12: edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street<br>delay<br>syrup<br>august
+bip_39_word_new_br2: edit<br>chapter
+bip_39_word_new_br3: edit<br>chapter<br>physical
+bip_39_word_new_br4: edit<br>chapter<br>physical<br>floor
+bip_39_word_new_br5: edit<br>chapter<br>physical<br>floor<br>type
+bip_39_word_new_br6: edit<br>chapter<br>physical<br>floor<br>type<br>tonight
+bip_39_word_new_br7: edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself
+bip_39_word_new_br8: edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage
+bip_39_word_new_br9: edit<br>chapter<br>physical<br>floor<br>type<br>tonight<br>myself<br>damage<br>street
+bip_39_word_new_line1: edit
+bip_39_word_new_line10: 'edit
+
+  chapter
+
+  physical
+
+  floor
+
+  type
+
+  tonight
+
+  myself
+
+  damage
+
+  street
+
+  delay'
+bip_39_word_new_line11: 'edit
+
+  chapter
+
+  physical
+
+  floor
+
+  type
+
+  tonight
+
+  myself
+
+  damage
+
+  street
+
+  delay
+
+  syrup'
+bip_39_word_new_line12: 'edit
+
+  chapter
+
+  physical
+
+  floor
+
+  type
+
+  tonight
+
+  myself
+
+  damage
+
+  street
+
+  delay
+
+  syrup
+
+  august'
+bip_39_word_new_line2: 'edit
+
+  chapter'
+bip_39_word_new_line3: 'edit
+
+  chapter
+
+  physical'
+bip_39_word_new_line4: 'edit
+
+  chapter
+
+  physical
+
+  floor'
+bip_39_word_new_line5: 'edit
+
+  chapter
+
+  physical
+
+  floor
+
+  type'
+bip_39_word_new_line6: 'edit
+
+  chapter
+
+  physical
+
+  floor
+
+  type
+
+  tonight'
+bip_39_word_new_line7: 'edit
+
+  chapter
+
+  physical
+
+  floor
+
+  type
+
+  tonight
+
+  myself'
+bip_39_word_new_line8: 'edit
+
+  chapter
+
+  physical
+
+  floor
+
+  type
+
+  tonight
+
+  myself
+
+  damage'
+bip_39_word_new_line9: 'edit
+
+  chapter
+
+  physical
+
+  floor
+
+  type
+
+  tonight
+
+  myself
+
+  damage
+
+  street'
+bip_39_word_space_0:
+- edit
+- chapter
+- physical
+- floor
+- type
+- tonight
+- myself
+- damage
+- street
+- delay
+- syrup
+- august
+bip_39_word_space_1: edit
+bip_39_word_space_10: edit chapter physical floor type tonight myself damage street
+  delay
+bip_39_word_space_11: edit chapter physical floor type tonight myself damage street
+  delay syrup
+bip_39_word_space_12: edit chapter physical floor type tonight myself damage street
+  delay syrup august
+bip_39_word_space_2: edit chapter
+bip_39_word_space_3: edit chapter physical
+bip_39_word_space_4: edit chapter physical floor
+bip_39_word_space_5: edit chapter physical floor type
+bip_39_word_space_6: edit chapter physical floor type tonight
+bip_39_word_space_7: edit chapter physical floor type tonight myself
+bip_39_word_space_8: edit chapter physical floor type tonight myself damage
+bip_39_word_space_9: edit chapter physical floor type tonight myself damage street
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

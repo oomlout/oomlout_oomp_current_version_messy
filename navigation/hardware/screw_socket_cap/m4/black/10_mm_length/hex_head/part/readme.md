@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plunge define
+  * bip 39 word 3: plunge define second
+  * bip 39 word: plunge define second arrow pen inmate member obscure dawn unit music alley
 
 ### other_codes
 * short_code: sc4b10h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plunge |  
+| bip_39_word_new_br10 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn<br>unit |  
+| bip_39_word_new_br11 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn<br>unit<br>music |  
+| bip_39_word_new_br12 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn<br>unit<br>music<br>alley |  
+| bip_39_word_new_br2 | plunge<br>define |  
+| bip_39_word_new_br3 | plunge<br>define<br>second |  
+| bip_39_word_new_br4 | plunge<br>define<br>second<br>arrow |  
+| bip_39_word_new_br5 | plunge<br>define<br>second<br>arrow<br>pen |  
+| bip_39_word_new_br6 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate |  
+| bip_39_word_new_br7 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member |  
+| bip_39_word_new_br8 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure |  
+| bip_39_word_new_br9 | plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn |  
+| bip_39_word_new_line1 | plunge |  
+| bip_39_word_new_line10 | plunge
+define
+second
+arrow
+pen
+inmate
+member
+obscure
+dawn
+unit |  
+| bip_39_word_new_line11 | plunge
+define
+second
+arrow
+pen
+inmate
+member
+obscure
+dawn
+unit
+music |  
+| bip_39_word_new_line12 | plunge
+define
+second
+arrow
+pen
+inmate
+member
+obscure
+dawn
+unit
+music
+alley |  
+| bip_39_word_new_line2 | plunge
+define |  
+| bip_39_word_new_line3 | plunge
+define
+second |  
+| bip_39_word_new_line4 | plunge
+define
+second
+arrow |  
+| bip_39_word_new_line5 | plunge
+define
+second
+arrow
+pen |  
+| bip_39_word_new_line6 | plunge
+define
+second
+arrow
+pen
+inmate |  
+| bip_39_word_new_line7 | plunge
+define
+second
+arrow
+pen
+inmate
+member |  
+| bip_39_word_new_line8 | plunge
+define
+second
+arrow
+pen
+inmate
+member
+obscure |  
+| bip_39_word_new_line9 | plunge
+define
+second
+arrow
+pen
+inmate
+member
+obscure
+dawn |  
+| bip_39_word_space_0 | ['plunge', 'define', 'second', 'arrow', 'pen', 'inmate', 'member', 'obscure', 'dawn', 'unit', 'music', 'alley'] |  
+| bip_39_word_space_1 | plunge |  
+| bip_39_word_space_10 | plunge define second arrow pen inmate member obscure dawn unit |  
+| bip_39_word_space_11 | plunge define second arrow pen inmate member obscure dawn unit music |  
+| bip_39_word_space_12 | plunge define second arrow pen inmate member obscure dawn unit music alley |  
+| bip_39_word_space_2 | plunge define |  
+| bip_39_word_space_3 | plunge define second |  
+| bip_39_word_space_4 | plunge define second arrow |  
+| bip_39_word_space_5 | plunge define second arrow pen |  
+| bip_39_word_space_6 | plunge define second arrow pen inmate |  
+| bip_39_word_space_7 | plunge define second arrow pen inmate member |  
+| bip_39_word_space_8 | plunge define second arrow pen inmate member obscure |  
+| bip_39_word_space_9 | plunge define second arrow pen inmate member obscure dawn |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

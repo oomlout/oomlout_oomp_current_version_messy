@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aisle lawn
+  * bip 39 word 3: aisle lawn burst
+  * bip 39 word: aisle lawn burst portion cart aisle angle soup corn reduce best alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aisle |  
+| bip_39_word_new_br10 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn<br>reduce |  
+| bip_39_word_new_br11 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn<br>reduce<br>best |  
+| bip_39_word_new_br12 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn<br>reduce<br>best<br>alpha |  
+| bip_39_word_new_br2 | aisle<br>lawn |  
+| bip_39_word_new_br3 | aisle<br>lawn<br>burst |  
+| bip_39_word_new_br4 | aisle<br>lawn<br>burst<br>portion |  
+| bip_39_word_new_br5 | aisle<br>lawn<br>burst<br>portion<br>cart |  
+| bip_39_word_new_br6 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle |  
+| bip_39_word_new_br7 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle |  
+| bip_39_word_new_br8 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup |  
+| bip_39_word_new_br9 | aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn |  
+| bip_39_word_new_line1 | aisle |  
+| bip_39_word_new_line10 | aisle
+lawn
+burst
+portion
+cart
+aisle
+angle
+soup
+corn
+reduce |  
+| bip_39_word_new_line11 | aisle
+lawn
+burst
+portion
+cart
+aisle
+angle
+soup
+corn
+reduce
+best |  
+| bip_39_word_new_line12 | aisle
+lawn
+burst
+portion
+cart
+aisle
+angle
+soup
+corn
+reduce
+best
+alpha |  
+| bip_39_word_new_line2 | aisle
+lawn |  
+| bip_39_word_new_line3 | aisle
+lawn
+burst |  
+| bip_39_word_new_line4 | aisle
+lawn
+burst
+portion |  
+| bip_39_word_new_line5 | aisle
+lawn
+burst
+portion
+cart |  
+| bip_39_word_new_line6 | aisle
+lawn
+burst
+portion
+cart
+aisle |  
+| bip_39_word_new_line7 | aisle
+lawn
+burst
+portion
+cart
+aisle
+angle |  
+| bip_39_word_new_line8 | aisle
+lawn
+burst
+portion
+cart
+aisle
+angle
+soup |  
+| bip_39_word_new_line9 | aisle
+lawn
+burst
+portion
+cart
+aisle
+angle
+soup
+corn |  
+| bip_39_word_space_0 | ['aisle', 'lawn', 'burst', 'portion', 'cart', 'aisle', 'angle', 'soup', 'corn', 'reduce', 'best', 'alpha'] |  
+| bip_39_word_space_1 | aisle |  
+| bip_39_word_space_10 | aisle lawn burst portion cart aisle angle soup corn reduce |  
+| bip_39_word_space_11 | aisle lawn burst portion cart aisle angle soup corn reduce best |  
+| bip_39_word_space_12 | aisle lawn burst portion cart aisle angle soup corn reduce best alpha |  
+| bip_39_word_space_2 | aisle lawn |  
+| bip_39_word_space_3 | aisle lawn burst |  
+| bip_39_word_space_4 | aisle lawn burst portion |  
+| bip_39_word_space_5 | aisle lawn burst portion cart |  
+| bip_39_word_space_6 | aisle lawn burst portion cart aisle |  
+| bip_39_word_space_7 | aisle lawn burst portion cart aisle angle |  
+| bip_39_word_space_8 | aisle lawn burst portion cart aisle angle soup |  
+| bip_39_word_space_9 | aisle lawn burst portion cart aisle angle soup corn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

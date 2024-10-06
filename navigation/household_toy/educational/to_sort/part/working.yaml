@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fresh
+bip_39_word_new_br10: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair<br>control<br>beyond
+bip_39_word_new_br11: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair<br>control<br>beyond<br>narrow
+bip_39_word_new_br12: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair<br>control<br>beyond<br>narrow<br>absurd
+bip_39_word_new_br2: fresh<br>crystal
+bip_39_word_new_br3: fresh<br>crystal<br>jazz
+bip_39_word_new_br4: fresh<br>crystal<br>jazz<br>toss
+bip_39_word_new_br5: fresh<br>crystal<br>jazz<br>toss<br>square
+bip_39_word_new_br6: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy
+bip_39_word_new_br7: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift
+bip_39_word_new_br8: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair
+bip_39_word_new_br9: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair<br>control
+bip_39_word_new_line1: fresh
+bip_39_word_new_line10: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair
+
+  control
+
+  beyond'
+bip_39_word_new_line11: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair
+
+  control
+
+  beyond
+
+  narrow'
+bip_39_word_new_line12: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair
+
+  control
+
+  beyond
+
+  narrow
+
+  absurd'
+bip_39_word_new_line2: 'fresh
+
+  crystal'
+bip_39_word_new_line3: 'fresh
+
+  crystal
+
+  jazz'
+bip_39_word_new_line4: 'fresh
+
+  crystal
+
+  jazz
+
+  toss'
+bip_39_word_new_line5: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square'
+bip_39_word_new_line6: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy'
+bip_39_word_new_line7: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift'
+bip_39_word_new_line8: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair'
+bip_39_word_new_line9: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair
+
+  control'
+bip_39_word_space_0:
+- fresh
+- crystal
+- jazz
+- toss
+- square
+- enjoy
+- drift
+- despair
+- control
+- beyond
+- narrow
+- absurd
+bip_39_word_space_1: fresh
+bip_39_word_space_10: fresh crystal jazz toss square enjoy drift despair control beyond
+bip_39_word_space_11: fresh crystal jazz toss square enjoy drift despair control beyond
+  narrow
+bip_39_word_space_12: fresh crystal jazz toss square enjoy drift despair control beyond
+  narrow absurd
+bip_39_word_space_2: fresh crystal
+bip_39_word_space_3: fresh crystal jazz
+bip_39_word_space_4: fresh crystal jazz toss
+bip_39_word_space_5: fresh crystal jazz toss square
+bip_39_word_space_6: fresh crystal jazz toss square enjoy
+bip_39_word_space_7: fresh crystal jazz toss square enjoy drift
+bip_39_word_space_8: fresh crystal jazz toss square enjoy drift despair
+bip_39_word_space_9: fresh crystal jazz toss square enjoy drift despair control
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

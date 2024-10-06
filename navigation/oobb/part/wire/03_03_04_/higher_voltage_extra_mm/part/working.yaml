@@ -1,3 +1,186 @@
+bip_39_word_new_br1: frozen
+bip_39_word_new_br10: frozen<br>season<br>limit<br>general<br>salad<br>play<br>surface<br>kiss<br>polar<br>obey
+bip_39_word_new_br11: frozen<br>season<br>limit<br>general<br>salad<br>play<br>surface<br>kiss<br>polar<br>obey<br>alert
+bip_39_word_new_br12: frozen<br>season<br>limit<br>general<br>salad<br>play<br>surface<br>kiss<br>polar<br>obey<br>alert<br>addict
+bip_39_word_new_br2: frozen<br>season
+bip_39_word_new_br3: frozen<br>season<br>limit
+bip_39_word_new_br4: frozen<br>season<br>limit<br>general
+bip_39_word_new_br5: frozen<br>season<br>limit<br>general<br>salad
+bip_39_word_new_br6: frozen<br>season<br>limit<br>general<br>salad<br>play
+bip_39_word_new_br7: frozen<br>season<br>limit<br>general<br>salad<br>play<br>surface
+bip_39_word_new_br8: frozen<br>season<br>limit<br>general<br>salad<br>play<br>surface<br>kiss
+bip_39_word_new_br9: frozen<br>season<br>limit<br>general<br>salad<br>play<br>surface<br>kiss<br>polar
+bip_39_word_new_line1: frozen
+bip_39_word_new_line10: 'frozen
+
+  season
+
+  limit
+
+  general
+
+  salad
+
+  play
+
+  surface
+
+  kiss
+
+  polar
+
+  obey'
+bip_39_word_new_line11: 'frozen
+
+  season
+
+  limit
+
+  general
+
+  salad
+
+  play
+
+  surface
+
+  kiss
+
+  polar
+
+  obey
+
+  alert'
+bip_39_word_new_line12: 'frozen
+
+  season
+
+  limit
+
+  general
+
+  salad
+
+  play
+
+  surface
+
+  kiss
+
+  polar
+
+  obey
+
+  alert
+
+  addict'
+bip_39_word_new_line2: 'frozen
+
+  season'
+bip_39_word_new_line3: 'frozen
+
+  season
+
+  limit'
+bip_39_word_new_line4: 'frozen
+
+  season
+
+  limit
+
+  general'
+bip_39_word_new_line5: 'frozen
+
+  season
+
+  limit
+
+  general
+
+  salad'
+bip_39_word_new_line6: 'frozen
+
+  season
+
+  limit
+
+  general
+
+  salad
+
+  play'
+bip_39_word_new_line7: 'frozen
+
+  season
+
+  limit
+
+  general
+
+  salad
+
+  play
+
+  surface'
+bip_39_word_new_line8: 'frozen
+
+  season
+
+  limit
+
+  general
+
+  salad
+
+  play
+
+  surface
+
+  kiss'
+bip_39_word_new_line9: 'frozen
+
+  season
+
+  limit
+
+  general
+
+  salad
+
+  play
+
+  surface
+
+  kiss
+
+  polar'
+bip_39_word_space_0:
+- frozen
+- season
+- limit
+- general
+- salad
+- play
+- surface
+- kiss
+- polar
+- obey
+- alert
+- addict
+bip_39_word_space_1: frozen
+bip_39_word_space_10: frozen season limit general salad play surface kiss polar obey
+bip_39_word_space_11: frozen season limit general salad play surface kiss polar obey
+  alert
+bip_39_word_space_12: frozen season limit general salad play surface kiss polar obey
+  alert addict
+bip_39_word_space_2: frozen season
+bip_39_word_space_3: frozen season limit
+bip_39_word_space_4: frozen season limit general
+bip_39_word_space_5: frozen season limit general salad
+bip_39_word_space_6: frozen season limit general salad play
+bip_39_word_space_7: frozen season limit general salad play surface
+bip_39_word_space_8: frozen season limit general salad play surface kiss
+bip_39_word_space_9: frozen season limit general salad play surface kiss polar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

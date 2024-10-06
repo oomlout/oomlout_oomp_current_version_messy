@@ -1,3 +1,187 @@
+bip_39_word_new_br1: gas
+bip_39_word_new_br10: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two<br>example
+bip_39_word_new_br11: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two<br>example<br>receive
+bip_39_word_new_br12: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two<br>example<br>receive<br>antenna
+bip_39_word_new_br2: gas<br>wink
+bip_39_word_new_br3: gas<br>wink<br>oppose
+bip_39_word_new_br4: gas<br>wink<br>oppose<br>penalty
+bip_39_word_new_br5: gas<br>wink<br>oppose<br>penalty<br>crucial
+bip_39_word_new_br6: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum
+bip_39_word_new_br7: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo
+bip_39_word_new_br8: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican
+bip_39_word_new_br9: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two
+bip_39_word_new_line1: gas
+bip_39_word_new_line10: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican
+
+  two
+
+  example'
+bip_39_word_new_line11: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican
+
+  two
+
+  example
+
+  receive'
+bip_39_word_new_line12: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican
+
+  two
+
+  example
+
+  receive
+
+  antenna'
+bip_39_word_new_line2: 'gas
+
+  wink'
+bip_39_word_new_line3: 'gas
+
+  wink
+
+  oppose'
+bip_39_word_new_line4: 'gas
+
+  wink
+
+  oppose
+
+  penalty'
+bip_39_word_new_line5: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial'
+bip_39_word_new_line6: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum'
+bip_39_word_new_line7: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo'
+bip_39_word_new_line8: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican'
+bip_39_word_new_line9: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican
+
+  two'
+bip_39_word_space_0:
+- gas
+- wink
+- oppose
+- penalty
+- crucial
+- quantum
+- buffalo
+- pelican
+- two
+- example
+- receive
+- antenna
+bip_39_word_space_1: gas
+bip_39_word_space_10: gas wink oppose penalty crucial quantum buffalo pelican two
+  example
+bip_39_word_space_11: gas wink oppose penalty crucial quantum buffalo pelican two
+  example receive
+bip_39_word_space_12: gas wink oppose penalty crucial quantum buffalo pelican two
+  example receive antenna
+bip_39_word_space_2: gas wink
+bip_39_word_space_3: gas wink oppose
+bip_39_word_space_4: gas wink oppose penalty
+bip_39_word_space_5: gas wink oppose penalty crucial
+bip_39_word_space_6: gas wink oppose penalty crucial quantum
+bip_39_word_space_7: gas wink oppose penalty crucial quantum buffalo
+bip_39_word_space_8: gas wink oppose penalty crucial quantum buffalo pelican
+bip_39_word_space_9: gas wink oppose penalty crucial quantum buffalo pelican two
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

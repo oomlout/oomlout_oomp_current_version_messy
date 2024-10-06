@@ -1,3 +1,186 @@
+bip_39_word_new_br1: escape
+bip_39_word_new_br10: escape<br>grow<br>cement<br>detect<br>fish<br>wrap<br>fix<br>raccoon<br>depth<br>bullet
+bip_39_word_new_br11: escape<br>grow<br>cement<br>detect<br>fish<br>wrap<br>fix<br>raccoon<br>depth<br>bullet<br>share
+bip_39_word_new_br12: escape<br>grow<br>cement<br>detect<br>fish<br>wrap<br>fix<br>raccoon<br>depth<br>bullet<br>share<br>achieve
+bip_39_word_new_br2: escape<br>grow
+bip_39_word_new_br3: escape<br>grow<br>cement
+bip_39_word_new_br4: escape<br>grow<br>cement<br>detect
+bip_39_word_new_br5: escape<br>grow<br>cement<br>detect<br>fish
+bip_39_word_new_br6: escape<br>grow<br>cement<br>detect<br>fish<br>wrap
+bip_39_word_new_br7: escape<br>grow<br>cement<br>detect<br>fish<br>wrap<br>fix
+bip_39_word_new_br8: escape<br>grow<br>cement<br>detect<br>fish<br>wrap<br>fix<br>raccoon
+bip_39_word_new_br9: escape<br>grow<br>cement<br>detect<br>fish<br>wrap<br>fix<br>raccoon<br>depth
+bip_39_word_new_line1: escape
+bip_39_word_new_line10: 'escape
+
+  grow
+
+  cement
+
+  detect
+
+  fish
+
+  wrap
+
+  fix
+
+  raccoon
+
+  depth
+
+  bullet'
+bip_39_word_new_line11: 'escape
+
+  grow
+
+  cement
+
+  detect
+
+  fish
+
+  wrap
+
+  fix
+
+  raccoon
+
+  depth
+
+  bullet
+
+  share'
+bip_39_word_new_line12: 'escape
+
+  grow
+
+  cement
+
+  detect
+
+  fish
+
+  wrap
+
+  fix
+
+  raccoon
+
+  depth
+
+  bullet
+
+  share
+
+  achieve'
+bip_39_word_new_line2: 'escape
+
+  grow'
+bip_39_word_new_line3: 'escape
+
+  grow
+
+  cement'
+bip_39_word_new_line4: 'escape
+
+  grow
+
+  cement
+
+  detect'
+bip_39_word_new_line5: 'escape
+
+  grow
+
+  cement
+
+  detect
+
+  fish'
+bip_39_word_new_line6: 'escape
+
+  grow
+
+  cement
+
+  detect
+
+  fish
+
+  wrap'
+bip_39_word_new_line7: 'escape
+
+  grow
+
+  cement
+
+  detect
+
+  fish
+
+  wrap
+
+  fix'
+bip_39_word_new_line8: 'escape
+
+  grow
+
+  cement
+
+  detect
+
+  fish
+
+  wrap
+
+  fix
+
+  raccoon'
+bip_39_word_new_line9: 'escape
+
+  grow
+
+  cement
+
+  detect
+
+  fish
+
+  wrap
+
+  fix
+
+  raccoon
+
+  depth'
+bip_39_word_space_0:
+- escape
+- grow
+- cement
+- detect
+- fish
+- wrap
+- fix
+- raccoon
+- depth
+- bullet
+- share
+- achieve
+bip_39_word_space_1: escape
+bip_39_word_space_10: escape grow cement detect fish wrap fix raccoon depth bullet
+bip_39_word_space_11: escape grow cement detect fish wrap fix raccoon depth bullet
+  share
+bip_39_word_space_12: escape grow cement detect fish wrap fix raccoon depth bullet
+  share achieve
+bip_39_word_space_2: escape grow
+bip_39_word_space_3: escape grow cement
+bip_39_word_space_4: escape grow cement detect
+bip_39_word_space_5: escape grow cement detect fish
+bip_39_word_space_6: escape grow cement detect fish wrap
+bip_39_word_space_7: escape grow cement detect fish wrap fix
+bip_39_word_space_8: escape grow cement detect fish wrap fix raccoon
+bip_39_word_space_9: escape grow cement detect fish wrap fix raccoon depth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

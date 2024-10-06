@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vivid cushion
+  * bip 39 word 3: vivid cushion future
+  * bip 39 word: vivid cushion future wash cargo pudding coil interest defy match social attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vivid |  
+| bip_39_word_new_br10 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding<br>coil<br>interest<br>defy<br>match |  
+| bip_39_word_new_br11 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding<br>coil<br>interest<br>defy<br>match<br>social |  
+| bip_39_word_new_br12 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding<br>coil<br>interest<br>defy<br>match<br>social<br>attend |  
+| bip_39_word_new_br2 | vivid<br>cushion |  
+| bip_39_word_new_br3 | vivid<br>cushion<br>future |  
+| bip_39_word_new_br4 | vivid<br>cushion<br>future<br>wash |  
+| bip_39_word_new_br5 | vivid<br>cushion<br>future<br>wash<br>cargo |  
+| bip_39_word_new_br6 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding |  
+| bip_39_word_new_br7 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding<br>coil |  
+| bip_39_word_new_br8 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding<br>coil<br>interest |  
+| bip_39_word_new_br9 | vivid<br>cushion<br>future<br>wash<br>cargo<br>pudding<br>coil<br>interest<br>defy |  
+| bip_39_word_new_line1 | vivid |  
+| bip_39_word_new_line10 | vivid
+cushion
+future
+wash
+cargo
+pudding
+coil
+interest
+defy
+match |  
+| bip_39_word_new_line11 | vivid
+cushion
+future
+wash
+cargo
+pudding
+coil
+interest
+defy
+match
+social |  
+| bip_39_word_new_line12 | vivid
+cushion
+future
+wash
+cargo
+pudding
+coil
+interest
+defy
+match
+social
+attend |  
+| bip_39_word_new_line2 | vivid
+cushion |  
+| bip_39_word_new_line3 | vivid
+cushion
+future |  
+| bip_39_word_new_line4 | vivid
+cushion
+future
+wash |  
+| bip_39_word_new_line5 | vivid
+cushion
+future
+wash
+cargo |  
+| bip_39_word_new_line6 | vivid
+cushion
+future
+wash
+cargo
+pudding |  
+| bip_39_word_new_line7 | vivid
+cushion
+future
+wash
+cargo
+pudding
+coil |  
+| bip_39_word_new_line8 | vivid
+cushion
+future
+wash
+cargo
+pudding
+coil
+interest |  
+| bip_39_word_new_line9 | vivid
+cushion
+future
+wash
+cargo
+pudding
+coil
+interest
+defy |  
+| bip_39_word_space_0 | ['vivid', 'cushion', 'future', 'wash', 'cargo', 'pudding', 'coil', 'interest', 'defy', 'match', 'social', 'attend'] |  
+| bip_39_word_space_1 | vivid |  
+| bip_39_word_space_10 | vivid cushion future wash cargo pudding coil interest defy match |  
+| bip_39_word_space_11 | vivid cushion future wash cargo pudding coil interest defy match social |  
+| bip_39_word_space_12 | vivid cushion future wash cargo pudding coil interest defy match social attend |  
+| bip_39_word_space_2 | vivid cushion |  
+| bip_39_word_space_3 | vivid cushion future |  
+| bip_39_word_space_4 | vivid cushion future wash |  
+| bip_39_word_space_5 | vivid cushion future wash cargo |  
+| bip_39_word_space_6 | vivid cushion future wash cargo pudding |  
+| bip_39_word_space_7 | vivid cushion future wash cargo pudding coil |  
+| bip_39_word_space_8 | vivid cushion future wash cargo pudding coil interest |  
+| bip_39_word_space_9 | vivid cushion future wash cargo pudding coil interest defy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

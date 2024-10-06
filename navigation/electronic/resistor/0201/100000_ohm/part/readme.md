@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: marble spatial
+  * bip 39 word 3: marble spatial protect
+  * bip 39 word: marble spatial protect pair visit theme pill wear priority such camera action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | marble |  
+| bip_39_word_new_br10 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme<br>pill<br>wear<br>priority<br>such |  
+| bip_39_word_new_br11 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme<br>pill<br>wear<br>priority<br>such<br>camera |  
+| bip_39_word_new_br12 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme<br>pill<br>wear<br>priority<br>such<br>camera<br>action |  
+| bip_39_word_new_br2 | marble<br>spatial |  
+| bip_39_word_new_br3 | marble<br>spatial<br>protect |  
+| bip_39_word_new_br4 | marble<br>spatial<br>protect<br>pair |  
+| bip_39_word_new_br5 | marble<br>spatial<br>protect<br>pair<br>visit |  
+| bip_39_word_new_br6 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme |  
+| bip_39_word_new_br7 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme<br>pill |  
+| bip_39_word_new_br8 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme<br>pill<br>wear |  
+| bip_39_word_new_br9 | marble<br>spatial<br>protect<br>pair<br>visit<br>theme<br>pill<br>wear<br>priority |  
+| bip_39_word_new_line1 | marble |  
+| bip_39_word_new_line10 | marble
+spatial
+protect
+pair
+visit
+theme
+pill
+wear
+priority
+such |  
+| bip_39_word_new_line11 | marble
+spatial
+protect
+pair
+visit
+theme
+pill
+wear
+priority
+such
+camera |  
+| bip_39_word_new_line12 | marble
+spatial
+protect
+pair
+visit
+theme
+pill
+wear
+priority
+such
+camera
+action |  
+| bip_39_word_new_line2 | marble
+spatial |  
+| bip_39_word_new_line3 | marble
+spatial
+protect |  
+| bip_39_word_new_line4 | marble
+spatial
+protect
+pair |  
+| bip_39_word_new_line5 | marble
+spatial
+protect
+pair
+visit |  
+| bip_39_word_new_line6 | marble
+spatial
+protect
+pair
+visit
+theme |  
+| bip_39_word_new_line7 | marble
+spatial
+protect
+pair
+visit
+theme
+pill |  
+| bip_39_word_new_line8 | marble
+spatial
+protect
+pair
+visit
+theme
+pill
+wear |  
+| bip_39_word_new_line9 | marble
+spatial
+protect
+pair
+visit
+theme
+pill
+wear
+priority |  
+| bip_39_word_space_0 | ['marble', 'spatial', 'protect', 'pair', 'visit', 'theme', 'pill', 'wear', 'priority', 'such', 'camera', 'action'] |  
+| bip_39_word_space_1 | marble |  
+| bip_39_word_space_10 | marble spatial protect pair visit theme pill wear priority such |  
+| bip_39_word_space_11 | marble spatial protect pair visit theme pill wear priority such camera |  
+| bip_39_word_space_12 | marble spatial protect pair visit theme pill wear priority such camera action |  
+| bip_39_word_space_2 | marble spatial |  
+| bip_39_word_space_3 | marble spatial protect |  
+| bip_39_word_space_4 | marble spatial protect pair |  
+| bip_39_word_space_5 | marble spatial protect pair visit |  
+| bip_39_word_space_6 | marble spatial protect pair visit theme |  
+| bip_39_word_space_7 | marble spatial protect pair visit theme pill |  
+| bip_39_word_space_8 | marble spatial protect pair visit theme pill wear |  
+| bip_39_word_space_9 | marble spatial protect pair visit theme pill wear priority |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

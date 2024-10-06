@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alley oven
+  * bip 39 word 3: alley oven power
+  * bip 39 word: alley oven power pluck gospel machine lunar cannon glove main side arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alley |  
+| bip_39_word_new_br10 | alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon<br>glove<br>main |  
+| bip_39_word_new_br11 | alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon<br>glove<br>main<br>side |  
+| bip_39_word_new_br12 | alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon<br>glove<br>main<br>side<br>arrange |  
+| bip_39_word_new_br2 | alley<br>oven |  
+| bip_39_word_new_br3 | alley<br>oven<br>power |  
+| bip_39_word_new_br4 | alley<br>oven<br>power<br>pluck |  
+| bip_39_word_new_br5 | alley<br>oven<br>power<br>pluck<br>gospel |  
+| bip_39_word_new_br6 | alley<br>oven<br>power<br>pluck<br>gospel<br>machine |  
+| bip_39_word_new_br7 | alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar |  
+| bip_39_word_new_br8 | alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon |  
+| bip_39_word_new_br9 | alley<br>oven<br>power<br>pluck<br>gospel<br>machine<br>lunar<br>cannon<br>glove |  
+| bip_39_word_new_line1 | alley |  
+| bip_39_word_new_line10 | alley
+oven
+power
+pluck
+gospel
+machine
+lunar
+cannon
+glove
+main |  
+| bip_39_word_new_line11 | alley
+oven
+power
+pluck
+gospel
+machine
+lunar
+cannon
+glove
+main
+side |  
+| bip_39_word_new_line12 | alley
+oven
+power
+pluck
+gospel
+machine
+lunar
+cannon
+glove
+main
+side
+arrange |  
+| bip_39_word_new_line2 | alley
+oven |  
+| bip_39_word_new_line3 | alley
+oven
+power |  
+| bip_39_word_new_line4 | alley
+oven
+power
+pluck |  
+| bip_39_word_new_line5 | alley
+oven
+power
+pluck
+gospel |  
+| bip_39_word_new_line6 | alley
+oven
+power
+pluck
+gospel
+machine |  
+| bip_39_word_new_line7 | alley
+oven
+power
+pluck
+gospel
+machine
+lunar |  
+| bip_39_word_new_line8 | alley
+oven
+power
+pluck
+gospel
+machine
+lunar
+cannon |  
+| bip_39_word_new_line9 | alley
+oven
+power
+pluck
+gospel
+machine
+lunar
+cannon
+glove |  
+| bip_39_word_space_0 | ['alley', 'oven', 'power', 'pluck', 'gospel', 'machine', 'lunar', 'cannon', 'glove', 'main', 'side', 'arrange'] |  
+| bip_39_word_space_1 | alley |  
+| bip_39_word_space_10 | alley oven power pluck gospel machine lunar cannon glove main |  
+| bip_39_word_space_11 | alley oven power pluck gospel machine lunar cannon glove main side |  
+| bip_39_word_space_12 | alley oven power pluck gospel machine lunar cannon glove main side arrange |  
+| bip_39_word_space_2 | alley oven |  
+| bip_39_word_space_3 | alley oven power |  
+| bip_39_word_space_4 | alley oven power pluck |  
+| bip_39_word_space_5 | alley oven power pluck gospel |  
+| bip_39_word_space_6 | alley oven power pluck gospel machine |  
+| bip_39_word_space_7 | alley oven power pluck gospel machine lunar |  
+| bip_39_word_space_8 | alley oven power pluck gospel machine lunar cannon |  
+| bip_39_word_space_9 | alley oven power pluck gospel machine lunar cannon glove |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

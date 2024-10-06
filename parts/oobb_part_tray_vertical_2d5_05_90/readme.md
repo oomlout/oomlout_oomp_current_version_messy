@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: robot basket
+  * bip 39 word 3: robot basket cruel
+  * bip 39 word: robot basket cruel hurt frame kangaroo feed poet deny intact wrestle abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | robot |  
+| bip_39_word_new_br10 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo<br>feed<br>poet<br>deny<br>intact |  
+| bip_39_word_new_br11 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo<br>feed<br>poet<br>deny<br>intact<br>wrestle |  
+| bip_39_word_new_br12 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo<br>feed<br>poet<br>deny<br>intact<br>wrestle<br>abuse |  
+| bip_39_word_new_br2 | robot<br>basket |  
+| bip_39_word_new_br3 | robot<br>basket<br>cruel |  
+| bip_39_word_new_br4 | robot<br>basket<br>cruel<br>hurt |  
+| bip_39_word_new_br5 | robot<br>basket<br>cruel<br>hurt<br>frame |  
+| bip_39_word_new_br6 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo |  
+| bip_39_word_new_br7 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo<br>feed |  
+| bip_39_word_new_br8 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo<br>feed<br>poet |  
+| bip_39_word_new_br9 | robot<br>basket<br>cruel<br>hurt<br>frame<br>kangaroo<br>feed<br>poet<br>deny |  
+| bip_39_word_new_line1 | robot |  
+| bip_39_word_new_line10 | robot
+basket
+cruel
+hurt
+frame
+kangaroo
+feed
+poet
+deny
+intact |  
+| bip_39_word_new_line11 | robot
+basket
+cruel
+hurt
+frame
+kangaroo
+feed
+poet
+deny
+intact
+wrestle |  
+| bip_39_word_new_line12 | robot
+basket
+cruel
+hurt
+frame
+kangaroo
+feed
+poet
+deny
+intact
+wrestle
+abuse |  
+| bip_39_word_new_line2 | robot
+basket |  
+| bip_39_word_new_line3 | robot
+basket
+cruel |  
+| bip_39_word_new_line4 | robot
+basket
+cruel
+hurt |  
+| bip_39_word_new_line5 | robot
+basket
+cruel
+hurt
+frame |  
+| bip_39_word_new_line6 | robot
+basket
+cruel
+hurt
+frame
+kangaroo |  
+| bip_39_word_new_line7 | robot
+basket
+cruel
+hurt
+frame
+kangaroo
+feed |  
+| bip_39_word_new_line8 | robot
+basket
+cruel
+hurt
+frame
+kangaroo
+feed
+poet |  
+| bip_39_word_new_line9 | robot
+basket
+cruel
+hurt
+frame
+kangaroo
+feed
+poet
+deny |  
+| bip_39_word_space_0 | ['robot', 'basket', 'cruel', 'hurt', 'frame', 'kangaroo', 'feed', 'poet', 'deny', 'intact', 'wrestle', 'abuse'] |  
+| bip_39_word_space_1 | robot |  
+| bip_39_word_space_10 | robot basket cruel hurt frame kangaroo feed poet deny intact |  
+| bip_39_word_space_11 | robot basket cruel hurt frame kangaroo feed poet deny intact wrestle |  
+| bip_39_word_space_12 | robot basket cruel hurt frame kangaroo feed poet deny intact wrestle abuse |  
+| bip_39_word_space_2 | robot basket |  
+| bip_39_word_space_3 | robot basket cruel |  
+| bip_39_word_space_4 | robot basket cruel hurt |  
+| bip_39_word_space_5 | robot basket cruel hurt frame |  
+| bip_39_word_space_6 | robot basket cruel hurt frame kangaroo |  
+| bip_39_word_space_7 | robot basket cruel hurt frame kangaroo feed |  
+| bip_39_word_space_8 | robot basket cruel hurt frame kangaroo feed poet |  
+| bip_39_word_space_9 | robot basket cruel hurt frame kangaroo feed poet deny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vacant salon
+  * bip 39 word 3: vacant salon boost
+  * bip 39 word: vacant salon boost motion salt detail crowd chest bitter sunny blush arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vacant |  
+| bip_39_word_new_br10 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny |  
+| bip_39_word_new_br11 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny<br>blush |  
+| bip_39_word_new_br12 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter<br>sunny<br>blush<br>arch |  
+| bip_39_word_new_br2 | vacant<br>salon |  
+| bip_39_word_new_br3 | vacant<br>salon<br>boost |  
+| bip_39_word_new_br4 | vacant<br>salon<br>boost<br>motion |  
+| bip_39_word_new_br5 | vacant<br>salon<br>boost<br>motion<br>salt |  
+| bip_39_word_new_br6 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail |  
+| bip_39_word_new_br7 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd |  
+| bip_39_word_new_br8 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest |  
+| bip_39_word_new_br9 | vacant<br>salon<br>boost<br>motion<br>salt<br>detail<br>crowd<br>chest<br>bitter |  
+| bip_39_word_new_line1 | vacant |  
+| bip_39_word_new_line10 | vacant
+salon
+boost
+motion
+salt
+detail
+crowd
+chest
+bitter
+sunny |  
+| bip_39_word_new_line11 | vacant
+salon
+boost
+motion
+salt
+detail
+crowd
+chest
+bitter
+sunny
+blush |  
+| bip_39_word_new_line12 | vacant
+salon
+boost
+motion
+salt
+detail
+crowd
+chest
+bitter
+sunny
+blush
+arch |  
+| bip_39_word_new_line2 | vacant
+salon |  
+| bip_39_word_new_line3 | vacant
+salon
+boost |  
+| bip_39_word_new_line4 | vacant
+salon
+boost
+motion |  
+| bip_39_word_new_line5 | vacant
+salon
+boost
+motion
+salt |  
+| bip_39_word_new_line6 | vacant
+salon
+boost
+motion
+salt
+detail |  
+| bip_39_word_new_line7 | vacant
+salon
+boost
+motion
+salt
+detail
+crowd |  
+| bip_39_word_new_line8 | vacant
+salon
+boost
+motion
+salt
+detail
+crowd
+chest |  
+| bip_39_word_new_line9 | vacant
+salon
+boost
+motion
+salt
+detail
+crowd
+chest
+bitter |  
+| bip_39_word_space_0 | ['vacant', 'salon', 'boost', 'motion', 'salt', 'detail', 'crowd', 'chest', 'bitter', 'sunny', 'blush', 'arch'] |  
+| bip_39_word_space_1 | vacant |  
+| bip_39_word_space_10 | vacant salon boost motion salt detail crowd chest bitter sunny |  
+| bip_39_word_space_11 | vacant salon boost motion salt detail crowd chest bitter sunny blush |  
+| bip_39_word_space_12 | vacant salon boost motion salt detail crowd chest bitter sunny blush arch |  
+| bip_39_word_space_2 | vacant salon |  
+| bip_39_word_space_3 | vacant salon boost |  
+| bip_39_word_space_4 | vacant salon boost motion |  
+| bip_39_word_space_5 | vacant salon boost motion salt |  
+| bip_39_word_space_6 | vacant salon boost motion salt detail |  
+| bip_39_word_space_7 | vacant salon boost motion salt detail crowd |  
+| bip_39_word_space_8 | vacant salon boost motion salt detail crowd chest |  
+| bip_39_word_space_9 | vacant salon boost motion salt detail crowd chest bitter |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

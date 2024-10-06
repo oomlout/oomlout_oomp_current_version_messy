@@ -1,3 +1,187 @@
+bip_39_word_new_br1: curious
+bip_39_word_new_br10: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve
+bip_39_word_new_br11: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp
+bip_39_word_new_br12: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp<br>accident
+bip_39_word_new_br2: curious<br>pill
+bip_39_word_new_br3: curious<br>pill<br>industry
+bip_39_word_new_br4: curious<br>pill<br>industry<br>trophy
+bip_39_word_new_br5: curious<br>pill<br>industry<br>trophy<br>pizza
+bip_39_word_new_br6: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator
+bip_39_word_new_br7: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric
+bip_39_word_new_br8: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion
+bip_39_word_new_br9: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel
+bip_39_word_new_line1: curious
+bip_39_word_new_line10: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion
+
+  wheel
+
+  nerve'
+bip_39_word_new_line11: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion
+
+  wheel
+
+  nerve
+
+  lamp'
+bip_39_word_new_line12: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion
+
+  wheel
+
+  nerve
+
+  lamp
+
+  accident'
+bip_39_word_new_line2: 'curious
+
+  pill'
+bip_39_word_new_line3: 'curious
+
+  pill
+
+  industry'
+bip_39_word_new_line4: 'curious
+
+  pill
+
+  industry
+
+  trophy'
+bip_39_word_new_line5: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza'
+bip_39_word_new_line6: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator'
+bip_39_word_new_line7: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric'
+bip_39_word_new_line8: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion'
+bip_39_word_new_line9: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion
+
+  wheel'
+bip_39_word_space_0:
+- curious
+- pill
+- industry
+- trophy
+- pizza
+- elevator
+- fabric
+- cushion
+- wheel
+- nerve
+- lamp
+- accident
+bip_39_word_space_1: curious
+bip_39_word_space_10: curious pill industry trophy pizza elevator fabric cushion wheel
+  nerve
+bip_39_word_space_11: curious pill industry trophy pizza elevator fabric cushion wheel
+  nerve lamp
+bip_39_word_space_12: curious pill industry trophy pizza elevator fabric cushion wheel
+  nerve lamp accident
+bip_39_word_space_2: curious pill
+bip_39_word_space_3: curious pill industry
+bip_39_word_space_4: curious pill industry trophy
+bip_39_word_space_5: curious pill industry trophy pizza
+bip_39_word_space_6: curious pill industry trophy pizza elevator
+bip_39_word_space_7: curious pill industry trophy pizza elevator fabric
+bip_39_word_space_8: curious pill industry trophy pizza elevator fabric cushion
+bip_39_word_space_9: curious pill industry trophy pizza elevator fabric cushion wheel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

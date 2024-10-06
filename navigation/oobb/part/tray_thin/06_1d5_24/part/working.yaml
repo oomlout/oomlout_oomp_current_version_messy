@@ -1,3 +1,187 @@
+bip_39_word_new_br1: outer
+bip_39_word_new_br10: outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort
+bip_39_word_new_br11: outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort<br>doctor
+bip_39_word_new_br12: outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent<br>comfort<br>doctor<br>appear
+bip_39_word_new_br2: outer<br>escape
+bip_39_word_new_br3: outer<br>escape<br>baby
+bip_39_word_new_br4: outer<br>escape<br>baby<br>return
+bip_39_word_new_br5: outer<br>escape<br>baby<br>return<br>penalty
+bip_39_word_new_br6: outer<br>escape<br>baby<br>return<br>penalty<br>helmet
+bip_39_word_new_br7: outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot
+bip_39_word_new_br8: outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar
+bip_39_word_new_br9: outer<br>escape<br>baby<br>return<br>penalty<br>helmet<br>riot<br>lunar<br>frequent
+bip_39_word_new_line1: outer
+bip_39_word_new_line10: 'outer
+
+  escape
+
+  baby
+
+  return
+
+  penalty
+
+  helmet
+
+  riot
+
+  lunar
+
+  frequent
+
+  comfort'
+bip_39_word_new_line11: 'outer
+
+  escape
+
+  baby
+
+  return
+
+  penalty
+
+  helmet
+
+  riot
+
+  lunar
+
+  frequent
+
+  comfort
+
+  doctor'
+bip_39_word_new_line12: 'outer
+
+  escape
+
+  baby
+
+  return
+
+  penalty
+
+  helmet
+
+  riot
+
+  lunar
+
+  frequent
+
+  comfort
+
+  doctor
+
+  appear'
+bip_39_word_new_line2: 'outer
+
+  escape'
+bip_39_word_new_line3: 'outer
+
+  escape
+
+  baby'
+bip_39_word_new_line4: 'outer
+
+  escape
+
+  baby
+
+  return'
+bip_39_word_new_line5: 'outer
+
+  escape
+
+  baby
+
+  return
+
+  penalty'
+bip_39_word_new_line6: 'outer
+
+  escape
+
+  baby
+
+  return
+
+  penalty
+
+  helmet'
+bip_39_word_new_line7: 'outer
+
+  escape
+
+  baby
+
+  return
+
+  penalty
+
+  helmet
+
+  riot'
+bip_39_word_new_line8: 'outer
+
+  escape
+
+  baby
+
+  return
+
+  penalty
+
+  helmet
+
+  riot
+
+  lunar'
+bip_39_word_new_line9: 'outer
+
+  escape
+
+  baby
+
+  return
+
+  penalty
+
+  helmet
+
+  riot
+
+  lunar
+
+  frequent'
+bip_39_word_space_0:
+- outer
+- escape
+- baby
+- return
+- penalty
+- helmet
+- riot
+- lunar
+- frequent
+- comfort
+- doctor
+- appear
+bip_39_word_space_1: outer
+bip_39_word_space_10: outer escape baby return penalty helmet riot lunar frequent
+  comfort
+bip_39_word_space_11: outer escape baby return penalty helmet riot lunar frequent
+  comfort doctor
+bip_39_word_space_12: outer escape baby return penalty helmet riot lunar frequent
+  comfort doctor appear
+bip_39_word_space_2: outer escape
+bip_39_word_space_3: outer escape baby
+bip_39_word_space_4: outer escape baby return
+bip_39_word_space_5: outer escape baby return penalty
+bip_39_word_space_6: outer escape baby return penalty helmet
+bip_39_word_space_7: outer escape baby return penalty helmet riot
+bip_39_word_space_8: outer escape baby return penalty helmet riot lunar
+bip_39_word_space_9: outer escape baby return penalty helmet riot lunar frequent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

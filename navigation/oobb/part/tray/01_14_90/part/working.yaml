@@ -1,3 +1,185 @@
+bip_39_word_new_br1: ask
+bip_39_word_new_br10: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page
+bip_39_word_new_br11: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two
+bip_39_word_new_br12: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two<br>august
+bip_39_word_new_br2: ask<br>satoshi
+bip_39_word_new_br3: ask<br>satoshi<br>screen
+bip_39_word_new_br4: ask<br>satoshi<br>screen<br>rack
+bip_39_word_new_br5: ask<br>satoshi<br>screen<br>rack<br>candy
+bip_39_word_new_br6: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket
+bip_39_word_new_br7: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired
+bip_39_word_new_br8: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job
+bip_39_word_new_br9: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such
+bip_39_word_new_line1: ask
+bip_39_word_new_line10: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job
+
+  such
+
+  page'
+bip_39_word_new_line11: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job
+
+  such
+
+  page
+
+  two'
+bip_39_word_new_line12: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job
+
+  such
+
+  page
+
+  two
+
+  august'
+bip_39_word_new_line2: 'ask
+
+  satoshi'
+bip_39_word_new_line3: 'ask
+
+  satoshi
+
+  screen'
+bip_39_word_new_line4: 'ask
+
+  satoshi
+
+  screen
+
+  rack'
+bip_39_word_new_line5: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy'
+bip_39_word_new_line6: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket'
+bip_39_word_new_line7: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired'
+bip_39_word_new_line8: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job'
+bip_39_word_new_line9: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job
+
+  such'
+bip_39_word_space_0:
+- ask
+- satoshi
+- screen
+- rack
+- candy
+- blanket
+- tired
+- job
+- such
+- page
+- two
+- august
+bip_39_word_space_1: ask
+bip_39_word_space_10: ask satoshi screen rack candy blanket tired job such page
+bip_39_word_space_11: ask satoshi screen rack candy blanket tired job such page two
+bip_39_word_space_12: ask satoshi screen rack candy blanket tired job such page two
+  august
+bip_39_word_space_2: ask satoshi
+bip_39_word_space_3: ask satoshi screen
+bip_39_word_space_4: ask satoshi screen rack
+bip_39_word_space_5: ask satoshi screen rack candy
+bip_39_word_space_6: ask satoshi screen rack candy blanket
+bip_39_word_space_7: ask satoshi screen rack candy blanket tired
+bip_39_word_space_8: ask satoshi screen rack candy blanket tired job
+bip_39_word_space_9: ask satoshi screen rack candy blanket tired job such
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

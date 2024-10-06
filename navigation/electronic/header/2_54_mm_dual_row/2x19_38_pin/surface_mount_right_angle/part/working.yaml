@@ -1,3 +1,187 @@
+bip_39_word_new_br1: spread
+bip_39_word_new_br10: spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic
+bip_39_word_new_br11: spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic<br>frost
+bip_39_word_new_br12: spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human<br>garlic<br>frost<br>actual
+bip_39_word_new_br2: spread<br>planet
+bip_39_word_new_br3: spread<br>planet<br>credit
+bip_39_word_new_br4: spread<br>planet<br>credit<br>glow
+bip_39_word_new_br5: spread<br>planet<br>credit<br>glow<br>habit
+bip_39_word_new_br6: spread<br>planet<br>credit<br>glow<br>habit<br>reduce
+bip_39_word_new_br7: spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment
+bip_39_word_new_br8: spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire
+bip_39_word_new_br9: spread<br>planet<br>credit<br>glow<br>habit<br>reduce<br>garment<br>retire<br>human
+bip_39_word_new_line1: spread
+bip_39_word_new_line10: 'spread
+
+  planet
+
+  credit
+
+  glow
+
+  habit
+
+  reduce
+
+  garment
+
+  retire
+
+  human
+
+  garlic'
+bip_39_word_new_line11: 'spread
+
+  planet
+
+  credit
+
+  glow
+
+  habit
+
+  reduce
+
+  garment
+
+  retire
+
+  human
+
+  garlic
+
+  frost'
+bip_39_word_new_line12: 'spread
+
+  planet
+
+  credit
+
+  glow
+
+  habit
+
+  reduce
+
+  garment
+
+  retire
+
+  human
+
+  garlic
+
+  frost
+
+  actual'
+bip_39_word_new_line2: 'spread
+
+  planet'
+bip_39_word_new_line3: 'spread
+
+  planet
+
+  credit'
+bip_39_word_new_line4: 'spread
+
+  planet
+
+  credit
+
+  glow'
+bip_39_word_new_line5: 'spread
+
+  planet
+
+  credit
+
+  glow
+
+  habit'
+bip_39_word_new_line6: 'spread
+
+  planet
+
+  credit
+
+  glow
+
+  habit
+
+  reduce'
+bip_39_word_new_line7: 'spread
+
+  planet
+
+  credit
+
+  glow
+
+  habit
+
+  reduce
+
+  garment'
+bip_39_word_new_line8: 'spread
+
+  planet
+
+  credit
+
+  glow
+
+  habit
+
+  reduce
+
+  garment
+
+  retire'
+bip_39_word_new_line9: 'spread
+
+  planet
+
+  credit
+
+  glow
+
+  habit
+
+  reduce
+
+  garment
+
+  retire
+
+  human'
+bip_39_word_space_0:
+- spread
+- planet
+- credit
+- glow
+- habit
+- reduce
+- garment
+- retire
+- human
+- garlic
+- frost
+- actual
+bip_39_word_space_1: spread
+bip_39_word_space_10: spread planet credit glow habit reduce garment retire human
+  garlic
+bip_39_word_space_11: spread planet credit glow habit reduce garment retire human
+  garlic frost
+bip_39_word_space_12: spread planet credit glow habit reduce garment retire human
+  garlic frost actual
+bip_39_word_space_2: spread planet
+bip_39_word_space_3: spread planet credit
+bip_39_word_space_4: spread planet credit glow
+bip_39_word_space_5: spread planet credit glow habit
+bip_39_word_space_6: spread planet credit glow habit reduce
+bip_39_word_space_7: spread planet credit glow habit reduce garment
+bip_39_word_space_8: spread planet credit glow habit reduce garment retire
+bip_39_word_space_9: spread planet credit glow habit reduce garment retire human
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

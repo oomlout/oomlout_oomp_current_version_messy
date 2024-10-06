@@ -1,3 +1,187 @@
+bip_39_word_new_br1: prepare
+bip_39_word_new_br10: prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey<br>lizard<br>spare<br>young<br>hundred
+bip_39_word_new_br11: prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey<br>lizard<br>spare<br>young<br>hundred<br>report
+bip_39_word_new_br12: prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey<br>lizard<br>spare<br>young<br>hundred<br>report<br>abstract
+bip_39_word_new_br2: prepare<br>walnut
+bip_39_word_new_br3: prepare<br>walnut<br>wood
+bip_39_word_new_br4: prepare<br>walnut<br>wood<br>pelican
+bip_39_word_new_br5: prepare<br>walnut<br>wood<br>pelican<br>fault
+bip_39_word_new_br6: prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey
+bip_39_word_new_br7: prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey<br>lizard
+bip_39_word_new_br8: prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey<br>lizard<br>spare
+bip_39_word_new_br9: prepare<br>walnut<br>wood<br>pelican<br>fault<br>survey<br>lizard<br>spare<br>young
+bip_39_word_new_line1: prepare
+bip_39_word_new_line10: 'prepare
+
+  walnut
+
+  wood
+
+  pelican
+
+  fault
+
+  survey
+
+  lizard
+
+  spare
+
+  young
+
+  hundred'
+bip_39_word_new_line11: 'prepare
+
+  walnut
+
+  wood
+
+  pelican
+
+  fault
+
+  survey
+
+  lizard
+
+  spare
+
+  young
+
+  hundred
+
+  report'
+bip_39_word_new_line12: 'prepare
+
+  walnut
+
+  wood
+
+  pelican
+
+  fault
+
+  survey
+
+  lizard
+
+  spare
+
+  young
+
+  hundred
+
+  report
+
+  abstract'
+bip_39_word_new_line2: 'prepare
+
+  walnut'
+bip_39_word_new_line3: 'prepare
+
+  walnut
+
+  wood'
+bip_39_word_new_line4: 'prepare
+
+  walnut
+
+  wood
+
+  pelican'
+bip_39_word_new_line5: 'prepare
+
+  walnut
+
+  wood
+
+  pelican
+
+  fault'
+bip_39_word_new_line6: 'prepare
+
+  walnut
+
+  wood
+
+  pelican
+
+  fault
+
+  survey'
+bip_39_word_new_line7: 'prepare
+
+  walnut
+
+  wood
+
+  pelican
+
+  fault
+
+  survey
+
+  lizard'
+bip_39_word_new_line8: 'prepare
+
+  walnut
+
+  wood
+
+  pelican
+
+  fault
+
+  survey
+
+  lizard
+
+  spare'
+bip_39_word_new_line9: 'prepare
+
+  walnut
+
+  wood
+
+  pelican
+
+  fault
+
+  survey
+
+  lizard
+
+  spare
+
+  young'
+bip_39_word_space_0:
+- prepare
+- walnut
+- wood
+- pelican
+- fault
+- survey
+- lizard
+- spare
+- young
+- hundred
+- report
+- abstract
+bip_39_word_space_1: prepare
+bip_39_word_space_10: prepare walnut wood pelican fault survey lizard spare young
+  hundred
+bip_39_word_space_11: prepare walnut wood pelican fault survey lizard spare young
+  hundred report
+bip_39_word_space_12: prepare walnut wood pelican fault survey lizard spare young
+  hundred report abstract
+bip_39_word_space_2: prepare walnut
+bip_39_word_space_3: prepare walnut wood
+bip_39_word_space_4: prepare walnut wood pelican
+bip_39_word_space_5: prepare walnut wood pelican fault
+bip_39_word_space_6: prepare walnut wood pelican fault survey
+bip_39_word_space_7: prepare walnut wood pelican fault survey lizard
+bip_39_word_space_8: prepare walnut wood pelican fault survey lizard spare
+bip_39_word_space_9: prepare walnut wood pelican fault survey lizard spare young
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

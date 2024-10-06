@@ -1,3 +1,186 @@
+bip_39_word_new_br1: crush
+bip_39_word_new_br10: crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak
+bip_39_word_new_br11: crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak<br>outdoor
+bip_39_word_new_br12: crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence<br>steak<br>outdoor<br>avocado
+bip_39_word_new_br2: crush<br>pony
+bip_39_word_new_br3: crush<br>pony<br>hamster
+bip_39_word_new_br4: crush<br>pony<br>hamster<br>bean
+bip_39_word_new_br5: crush<br>pony<br>hamster<br>bean<br>genius
+bip_39_word_new_br6: crush<br>pony<br>hamster<br>bean<br>genius<br>subject
+bip_39_word_new_br7: crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next
+bip_39_word_new_br8: crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil
+bip_39_word_new_br9: crush<br>pony<br>hamster<br>bean<br>genius<br>subject<br>next<br>coil<br>sentence
+bip_39_word_new_line1: crush
+bip_39_word_new_line10: 'crush
+
+  pony
+
+  hamster
+
+  bean
+
+  genius
+
+  subject
+
+  next
+
+  coil
+
+  sentence
+
+  steak'
+bip_39_word_new_line11: 'crush
+
+  pony
+
+  hamster
+
+  bean
+
+  genius
+
+  subject
+
+  next
+
+  coil
+
+  sentence
+
+  steak
+
+  outdoor'
+bip_39_word_new_line12: 'crush
+
+  pony
+
+  hamster
+
+  bean
+
+  genius
+
+  subject
+
+  next
+
+  coil
+
+  sentence
+
+  steak
+
+  outdoor
+
+  avocado'
+bip_39_word_new_line2: 'crush
+
+  pony'
+bip_39_word_new_line3: 'crush
+
+  pony
+
+  hamster'
+bip_39_word_new_line4: 'crush
+
+  pony
+
+  hamster
+
+  bean'
+bip_39_word_new_line5: 'crush
+
+  pony
+
+  hamster
+
+  bean
+
+  genius'
+bip_39_word_new_line6: 'crush
+
+  pony
+
+  hamster
+
+  bean
+
+  genius
+
+  subject'
+bip_39_word_new_line7: 'crush
+
+  pony
+
+  hamster
+
+  bean
+
+  genius
+
+  subject
+
+  next'
+bip_39_word_new_line8: 'crush
+
+  pony
+
+  hamster
+
+  bean
+
+  genius
+
+  subject
+
+  next
+
+  coil'
+bip_39_word_new_line9: 'crush
+
+  pony
+
+  hamster
+
+  bean
+
+  genius
+
+  subject
+
+  next
+
+  coil
+
+  sentence'
+bip_39_word_space_0:
+- crush
+- pony
+- hamster
+- bean
+- genius
+- subject
+- next
+- coil
+- sentence
+- steak
+- outdoor
+- avocado
+bip_39_word_space_1: crush
+bip_39_word_space_10: crush pony hamster bean genius subject next coil sentence steak
+bip_39_word_space_11: crush pony hamster bean genius subject next coil sentence steak
+  outdoor
+bip_39_word_space_12: crush pony hamster bean genius subject next coil sentence steak
+  outdoor avocado
+bip_39_word_space_2: crush pony
+bip_39_word_space_3: crush pony hamster
+bip_39_word_space_4: crush pony hamster bean
+bip_39_word_space_5: crush pony hamster bean genius
+bip_39_word_space_6: crush pony hamster bean genius subject
+bip_39_word_space_7: crush pony hamster bean genius subject next
+bip_39_word_space_8: crush pony hamster bean genius subject next coil
+bip_39_word_space_9: crush pony hamster bean genius subject next coil sentence
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

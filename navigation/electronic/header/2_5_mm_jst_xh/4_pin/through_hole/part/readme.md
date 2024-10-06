@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: laptop whip
+  * bip 39 word 3: laptop whip bread
+  * bip 39 word: laptop whip bread bamboo awful moment puzzle problem mass deer all apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | laptop |  
+| bip_39_word_new_br10 | laptop<br>whip<br>bread<br>bamboo<br>awful<br>moment<br>puzzle<br>problem<br>mass<br>deer |  
+| bip_39_word_new_br11 | laptop<br>whip<br>bread<br>bamboo<br>awful<br>moment<br>puzzle<br>problem<br>mass<br>deer<br>all |  
+| bip_39_word_new_br12 | laptop<br>whip<br>bread<br>bamboo<br>awful<br>moment<br>puzzle<br>problem<br>mass<br>deer<br>all<br>apology |  
+| bip_39_word_new_br2 | laptop<br>whip |  
+| bip_39_word_new_br3 | laptop<br>whip<br>bread |  
+| bip_39_word_new_br4 | laptop<br>whip<br>bread<br>bamboo |  
+| bip_39_word_new_br5 | laptop<br>whip<br>bread<br>bamboo<br>awful |  
+| bip_39_word_new_br6 | laptop<br>whip<br>bread<br>bamboo<br>awful<br>moment |  
+| bip_39_word_new_br7 | laptop<br>whip<br>bread<br>bamboo<br>awful<br>moment<br>puzzle |  
+| bip_39_word_new_br8 | laptop<br>whip<br>bread<br>bamboo<br>awful<br>moment<br>puzzle<br>problem |  
+| bip_39_word_new_br9 | laptop<br>whip<br>bread<br>bamboo<br>awful<br>moment<br>puzzle<br>problem<br>mass |  
+| bip_39_word_new_line1 | laptop |  
+| bip_39_word_new_line10 | laptop
+whip
+bread
+bamboo
+awful
+moment
+puzzle
+problem
+mass
+deer |  
+| bip_39_word_new_line11 | laptop
+whip
+bread
+bamboo
+awful
+moment
+puzzle
+problem
+mass
+deer
+all |  
+| bip_39_word_new_line12 | laptop
+whip
+bread
+bamboo
+awful
+moment
+puzzle
+problem
+mass
+deer
+all
+apology |  
+| bip_39_word_new_line2 | laptop
+whip |  
+| bip_39_word_new_line3 | laptop
+whip
+bread |  
+| bip_39_word_new_line4 | laptop
+whip
+bread
+bamboo |  
+| bip_39_word_new_line5 | laptop
+whip
+bread
+bamboo
+awful |  
+| bip_39_word_new_line6 | laptop
+whip
+bread
+bamboo
+awful
+moment |  
+| bip_39_word_new_line7 | laptop
+whip
+bread
+bamboo
+awful
+moment
+puzzle |  
+| bip_39_word_new_line8 | laptop
+whip
+bread
+bamboo
+awful
+moment
+puzzle
+problem |  
+| bip_39_word_new_line9 | laptop
+whip
+bread
+bamboo
+awful
+moment
+puzzle
+problem
+mass |  
+| bip_39_word_space_0 | ['laptop', 'whip', 'bread', 'bamboo', 'awful', 'moment', 'puzzle', 'problem', 'mass', 'deer', 'all', 'apology'] |  
+| bip_39_word_space_1 | laptop |  
+| bip_39_word_space_10 | laptop whip bread bamboo awful moment puzzle problem mass deer |  
+| bip_39_word_space_11 | laptop whip bread bamboo awful moment puzzle problem mass deer all |  
+| bip_39_word_space_12 | laptop whip bread bamboo awful moment puzzle problem mass deer all apology |  
+| bip_39_word_space_2 | laptop whip |  
+| bip_39_word_space_3 | laptop whip bread |  
+| bip_39_word_space_4 | laptop whip bread bamboo |  
+| bip_39_word_space_5 | laptop whip bread bamboo awful |  
+| bip_39_word_space_6 | laptop whip bread bamboo awful moment |  
+| bip_39_word_space_7 | laptop whip bread bamboo awful moment puzzle |  
+| bip_39_word_space_8 | laptop whip bread bamboo awful moment puzzle problem |  
+| bip_39_word_space_9 | laptop whip bread bamboo awful moment puzzle problem mass |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

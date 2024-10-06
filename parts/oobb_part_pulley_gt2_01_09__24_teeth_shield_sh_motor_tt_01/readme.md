@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sunny rely
+  * bip 39 word 3: sunny rely wood
+  * bip 39 word: sunny rely wood cancel smoke phone awkward paddle dynamic twist small amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sunny |  
+| bip_39_word_new_br10 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone<br>awkward<br>paddle<br>dynamic<br>twist |  
+| bip_39_word_new_br11 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone<br>awkward<br>paddle<br>dynamic<br>twist<br>small |  
+| bip_39_word_new_br12 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone<br>awkward<br>paddle<br>dynamic<br>twist<br>small<br>amount |  
+| bip_39_word_new_br2 | sunny<br>rely |  
+| bip_39_word_new_br3 | sunny<br>rely<br>wood |  
+| bip_39_word_new_br4 | sunny<br>rely<br>wood<br>cancel |  
+| bip_39_word_new_br5 | sunny<br>rely<br>wood<br>cancel<br>smoke |  
+| bip_39_word_new_br6 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone |  
+| bip_39_word_new_br7 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone<br>awkward |  
+| bip_39_word_new_br8 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone<br>awkward<br>paddle |  
+| bip_39_word_new_br9 | sunny<br>rely<br>wood<br>cancel<br>smoke<br>phone<br>awkward<br>paddle<br>dynamic |  
+| bip_39_word_new_line1 | sunny |  
+| bip_39_word_new_line10 | sunny
+rely
+wood
+cancel
+smoke
+phone
+awkward
+paddle
+dynamic
+twist |  
+| bip_39_word_new_line11 | sunny
+rely
+wood
+cancel
+smoke
+phone
+awkward
+paddle
+dynamic
+twist
+small |  
+| bip_39_word_new_line12 | sunny
+rely
+wood
+cancel
+smoke
+phone
+awkward
+paddle
+dynamic
+twist
+small
+amount |  
+| bip_39_word_new_line2 | sunny
+rely |  
+| bip_39_word_new_line3 | sunny
+rely
+wood |  
+| bip_39_word_new_line4 | sunny
+rely
+wood
+cancel |  
+| bip_39_word_new_line5 | sunny
+rely
+wood
+cancel
+smoke |  
+| bip_39_word_new_line6 | sunny
+rely
+wood
+cancel
+smoke
+phone |  
+| bip_39_word_new_line7 | sunny
+rely
+wood
+cancel
+smoke
+phone
+awkward |  
+| bip_39_word_new_line8 | sunny
+rely
+wood
+cancel
+smoke
+phone
+awkward
+paddle |  
+| bip_39_word_new_line9 | sunny
+rely
+wood
+cancel
+smoke
+phone
+awkward
+paddle
+dynamic |  
+| bip_39_word_space_0 | ['sunny', 'rely', 'wood', 'cancel', 'smoke', 'phone', 'awkward', 'paddle', 'dynamic', 'twist', 'small', 'amount'] |  
+| bip_39_word_space_1 | sunny |  
+| bip_39_word_space_10 | sunny rely wood cancel smoke phone awkward paddle dynamic twist |  
+| bip_39_word_space_11 | sunny rely wood cancel smoke phone awkward paddle dynamic twist small |  
+| bip_39_word_space_12 | sunny rely wood cancel smoke phone awkward paddle dynamic twist small amount |  
+| bip_39_word_space_2 | sunny rely |  
+| bip_39_word_space_3 | sunny rely wood |  
+| bip_39_word_space_4 | sunny rely wood cancel |  
+| bip_39_word_space_5 | sunny rely wood cancel smoke |  
+| bip_39_word_space_6 | sunny rely wood cancel smoke phone |  
+| bip_39_word_space_7 | sunny rely wood cancel smoke phone awkward |  
+| bip_39_word_space_8 | sunny rely wood cancel smoke phone awkward paddle |  
+| bip_39_word_space_9 | sunny rely wood cancel smoke phone awkward paddle dynamic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

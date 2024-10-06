@@ -1,3 +1,187 @@
+bip_39_word_new_br1: float
+bip_39_word_new_br10: float<br>region<br>history<br>cargo<br>height<br>crater<br>space<br>apology<br>ritual<br>patrol
+bip_39_word_new_br11: float<br>region<br>history<br>cargo<br>height<br>crater<br>space<br>apology<br>ritual<br>patrol<br>fault
+bip_39_word_new_br12: float<br>region<br>history<br>cargo<br>height<br>crater<br>space<br>apology<br>ritual<br>patrol<br>fault<br>amused
+bip_39_word_new_br2: float<br>region
+bip_39_word_new_br3: float<br>region<br>history
+bip_39_word_new_br4: float<br>region<br>history<br>cargo
+bip_39_word_new_br5: float<br>region<br>history<br>cargo<br>height
+bip_39_word_new_br6: float<br>region<br>history<br>cargo<br>height<br>crater
+bip_39_word_new_br7: float<br>region<br>history<br>cargo<br>height<br>crater<br>space
+bip_39_word_new_br8: float<br>region<br>history<br>cargo<br>height<br>crater<br>space<br>apology
+bip_39_word_new_br9: float<br>region<br>history<br>cargo<br>height<br>crater<br>space<br>apology<br>ritual
+bip_39_word_new_line1: float
+bip_39_word_new_line10: 'float
+
+  region
+
+  history
+
+  cargo
+
+  height
+
+  crater
+
+  space
+
+  apology
+
+  ritual
+
+  patrol'
+bip_39_word_new_line11: 'float
+
+  region
+
+  history
+
+  cargo
+
+  height
+
+  crater
+
+  space
+
+  apology
+
+  ritual
+
+  patrol
+
+  fault'
+bip_39_word_new_line12: 'float
+
+  region
+
+  history
+
+  cargo
+
+  height
+
+  crater
+
+  space
+
+  apology
+
+  ritual
+
+  patrol
+
+  fault
+
+  amused'
+bip_39_word_new_line2: 'float
+
+  region'
+bip_39_word_new_line3: 'float
+
+  region
+
+  history'
+bip_39_word_new_line4: 'float
+
+  region
+
+  history
+
+  cargo'
+bip_39_word_new_line5: 'float
+
+  region
+
+  history
+
+  cargo
+
+  height'
+bip_39_word_new_line6: 'float
+
+  region
+
+  history
+
+  cargo
+
+  height
+
+  crater'
+bip_39_word_new_line7: 'float
+
+  region
+
+  history
+
+  cargo
+
+  height
+
+  crater
+
+  space'
+bip_39_word_new_line8: 'float
+
+  region
+
+  history
+
+  cargo
+
+  height
+
+  crater
+
+  space
+
+  apology'
+bip_39_word_new_line9: 'float
+
+  region
+
+  history
+
+  cargo
+
+  height
+
+  crater
+
+  space
+
+  apology
+
+  ritual'
+bip_39_word_space_0:
+- float
+- region
+- history
+- cargo
+- height
+- crater
+- space
+- apology
+- ritual
+- patrol
+- fault
+- amused
+bip_39_word_space_1: float
+bip_39_word_space_10: float region history cargo height crater space apology ritual
+  patrol
+bip_39_word_space_11: float region history cargo height crater space apology ritual
+  patrol fault
+bip_39_word_space_12: float region history cargo height crater space apology ritual
+  patrol fault amused
+bip_39_word_space_2: float region
+bip_39_word_space_3: float region history
+bip_39_word_space_4: float region history cargo
+bip_39_word_space_5: float region history cargo height
+bip_39_word_space_6: float region history cargo height crater
+bip_39_word_space_7: float region history cargo height crater space
+bip_39_word_space_8: float region history cargo height crater space apology
+bip_39_word_space_9: float region history cargo height crater space apology ritual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

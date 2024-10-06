@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drift symbol
+  * bip 39 word 3: drift symbol mad
+  * bip 39 word: drift symbol mad bind special pact choose broom enhance settle pen accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drift |  
+| bip_39_word_new_br10 | drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle |  
+| bip_39_word_new_br11 | drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle<br>pen |  
+| bip_39_word_new_br12 | drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance<br>settle<br>pen<br>accuse |  
+| bip_39_word_new_br2 | drift<br>symbol |  
+| bip_39_word_new_br3 | drift<br>symbol<br>mad |  
+| bip_39_word_new_br4 | drift<br>symbol<br>mad<br>bind |  
+| bip_39_word_new_br5 | drift<br>symbol<br>mad<br>bind<br>special |  
+| bip_39_word_new_br6 | drift<br>symbol<br>mad<br>bind<br>special<br>pact |  
+| bip_39_word_new_br7 | drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose |  
+| bip_39_word_new_br8 | drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom |  
+| bip_39_word_new_br9 | drift<br>symbol<br>mad<br>bind<br>special<br>pact<br>choose<br>broom<br>enhance |  
+| bip_39_word_new_line1 | drift |  
+| bip_39_word_new_line10 | drift
+symbol
+mad
+bind
+special
+pact
+choose
+broom
+enhance
+settle |  
+| bip_39_word_new_line11 | drift
+symbol
+mad
+bind
+special
+pact
+choose
+broom
+enhance
+settle
+pen |  
+| bip_39_word_new_line12 | drift
+symbol
+mad
+bind
+special
+pact
+choose
+broom
+enhance
+settle
+pen
+accuse |  
+| bip_39_word_new_line2 | drift
+symbol |  
+| bip_39_word_new_line3 | drift
+symbol
+mad |  
+| bip_39_word_new_line4 | drift
+symbol
+mad
+bind |  
+| bip_39_word_new_line5 | drift
+symbol
+mad
+bind
+special |  
+| bip_39_word_new_line6 | drift
+symbol
+mad
+bind
+special
+pact |  
+| bip_39_word_new_line7 | drift
+symbol
+mad
+bind
+special
+pact
+choose |  
+| bip_39_word_new_line8 | drift
+symbol
+mad
+bind
+special
+pact
+choose
+broom |  
+| bip_39_word_new_line9 | drift
+symbol
+mad
+bind
+special
+pact
+choose
+broom
+enhance |  
+| bip_39_word_space_0 | ['drift', 'symbol', 'mad', 'bind', 'special', 'pact', 'choose', 'broom', 'enhance', 'settle', 'pen', 'accuse'] |  
+| bip_39_word_space_1 | drift |  
+| bip_39_word_space_10 | drift symbol mad bind special pact choose broom enhance settle |  
+| bip_39_word_space_11 | drift symbol mad bind special pact choose broom enhance settle pen |  
+| bip_39_word_space_12 | drift symbol mad bind special pact choose broom enhance settle pen accuse |  
+| bip_39_word_space_2 | drift symbol |  
+| bip_39_word_space_3 | drift symbol mad |  
+| bip_39_word_space_4 | drift symbol mad bind |  
+| bip_39_word_space_5 | drift symbol mad bind special |  
+| bip_39_word_space_6 | drift symbol mad bind special pact |  
+| bip_39_word_space_7 | drift symbol mad bind special pact choose |  
+| bip_39_word_space_8 | drift symbol mad bind special pact choose broom |  
+| bip_39_word_space_9 | drift symbol mad bind special pact choose broom enhance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: steel
+bip_39_word_new_br10: steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur
+bip_39_word_new_br11: steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur<br>depth
+bip_39_word_new_br12: steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error<br>occur<br>depth<br>arm
+bip_39_word_new_br2: steel<br>name
+bip_39_word_new_br3: steel<br>name<br>zone
+bip_39_word_new_br4: steel<br>name<br>zone<br>rude
+bip_39_word_new_br5: steel<br>name<br>zone<br>rude<br>raw
+bip_39_word_new_br6: steel<br>name<br>zone<br>rude<br>raw<br>ghost
+bip_39_word_new_br7: steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn
+bip_39_word_new_br8: steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler
+bip_39_word_new_br9: steel<br>name<br>zone<br>rude<br>raw<br>ghost<br>horn<br>toddler<br>error
+bip_39_word_new_line1: steel
+bip_39_word_new_line10: 'steel
+
+  name
+
+  zone
+
+  rude
+
+  raw
+
+  ghost
+
+  horn
+
+  toddler
+
+  error
+
+  occur'
+bip_39_word_new_line11: 'steel
+
+  name
+
+  zone
+
+  rude
+
+  raw
+
+  ghost
+
+  horn
+
+  toddler
+
+  error
+
+  occur
+
+  depth'
+bip_39_word_new_line12: 'steel
+
+  name
+
+  zone
+
+  rude
+
+  raw
+
+  ghost
+
+  horn
+
+  toddler
+
+  error
+
+  occur
+
+  depth
+
+  arm'
+bip_39_word_new_line2: 'steel
+
+  name'
+bip_39_word_new_line3: 'steel
+
+  name
+
+  zone'
+bip_39_word_new_line4: 'steel
+
+  name
+
+  zone
+
+  rude'
+bip_39_word_new_line5: 'steel
+
+  name
+
+  zone
+
+  rude
+
+  raw'
+bip_39_word_new_line6: 'steel
+
+  name
+
+  zone
+
+  rude
+
+  raw
+
+  ghost'
+bip_39_word_new_line7: 'steel
+
+  name
+
+  zone
+
+  rude
+
+  raw
+
+  ghost
+
+  horn'
+bip_39_word_new_line8: 'steel
+
+  name
+
+  zone
+
+  rude
+
+  raw
+
+  ghost
+
+  horn
+
+  toddler'
+bip_39_word_new_line9: 'steel
+
+  name
+
+  zone
+
+  rude
+
+  raw
+
+  ghost
+
+  horn
+
+  toddler
+
+  error'
+bip_39_word_space_0:
+- steel
+- name
+- zone
+- rude
+- raw
+- ghost
+- horn
+- toddler
+- error
+- occur
+- depth
+- arm
+bip_39_word_space_1: steel
+bip_39_word_space_10: steel name zone rude raw ghost horn toddler error occur
+bip_39_word_space_11: steel name zone rude raw ghost horn toddler error occur depth
+bip_39_word_space_12: steel name zone rude raw ghost horn toddler error occur depth
+  arm
+bip_39_word_space_2: steel name
+bip_39_word_space_3: steel name zone
+bip_39_word_space_4: steel name zone rude
+bip_39_word_space_5: steel name zone rude raw
+bip_39_word_space_6: steel name zone rude raw ghost
+bip_39_word_space_7: steel name zone rude raw ghost horn
+bip_39_word_space_8: steel name zone rude raw ghost horn toddler
+bip_39_word_space_9: steel name zone rude raw ghost horn toddler error
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

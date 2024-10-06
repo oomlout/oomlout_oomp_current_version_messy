@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diet pioneer
+  * bip 39 word 3: diet pioneer busy
+  * bip 39 word: diet pioneer busy garbage design hard rapid wrestle person inherit tired adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diet |  
+| bip_39_word_new_br10 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit |  
+| bip_39_word_new_br11 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit<br>tired |  
+| bip_39_word_new_br12 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person<br>inherit<br>tired<br>adjust |  
+| bip_39_word_new_br2 | diet<br>pioneer |  
+| bip_39_word_new_br3 | diet<br>pioneer<br>busy |  
+| bip_39_word_new_br4 | diet<br>pioneer<br>busy<br>garbage |  
+| bip_39_word_new_br5 | diet<br>pioneer<br>busy<br>garbage<br>design |  
+| bip_39_word_new_br6 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard |  
+| bip_39_word_new_br7 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid |  
+| bip_39_word_new_br8 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle |  
+| bip_39_word_new_br9 | diet<br>pioneer<br>busy<br>garbage<br>design<br>hard<br>rapid<br>wrestle<br>person |  
+| bip_39_word_new_line1 | diet |  
+| bip_39_word_new_line10 | diet
+pioneer
+busy
+garbage
+design
+hard
+rapid
+wrestle
+person
+inherit |  
+| bip_39_word_new_line11 | diet
+pioneer
+busy
+garbage
+design
+hard
+rapid
+wrestle
+person
+inherit
+tired |  
+| bip_39_word_new_line12 | diet
+pioneer
+busy
+garbage
+design
+hard
+rapid
+wrestle
+person
+inherit
+tired
+adjust |  
+| bip_39_word_new_line2 | diet
+pioneer |  
+| bip_39_word_new_line3 | diet
+pioneer
+busy |  
+| bip_39_word_new_line4 | diet
+pioneer
+busy
+garbage |  
+| bip_39_word_new_line5 | diet
+pioneer
+busy
+garbage
+design |  
+| bip_39_word_new_line6 | diet
+pioneer
+busy
+garbage
+design
+hard |  
+| bip_39_word_new_line7 | diet
+pioneer
+busy
+garbage
+design
+hard
+rapid |  
+| bip_39_word_new_line8 | diet
+pioneer
+busy
+garbage
+design
+hard
+rapid
+wrestle |  
+| bip_39_word_new_line9 | diet
+pioneer
+busy
+garbage
+design
+hard
+rapid
+wrestle
+person |  
+| bip_39_word_space_0 | ['diet', 'pioneer', 'busy', 'garbage', 'design', 'hard', 'rapid', 'wrestle', 'person', 'inherit', 'tired', 'adjust'] |  
+| bip_39_word_space_1 | diet |  
+| bip_39_word_space_10 | diet pioneer busy garbage design hard rapid wrestle person inherit |  
+| bip_39_word_space_11 | diet pioneer busy garbage design hard rapid wrestle person inherit tired |  
+| bip_39_word_space_12 | diet pioneer busy garbage design hard rapid wrestle person inherit tired adjust |  
+| bip_39_word_space_2 | diet pioneer |  
+| bip_39_word_space_3 | diet pioneer busy |  
+| bip_39_word_space_4 | diet pioneer busy garbage |  
+| bip_39_word_space_5 | diet pioneer busy garbage design |  
+| bip_39_word_space_6 | diet pioneer busy garbage design hard |  
+| bip_39_word_space_7 | diet pioneer busy garbage design hard rapid |  
+| bip_39_word_space_8 | diet pioneer busy garbage design hard rapid wrestle |  
+| bip_39_word_space_9 | diet pioneer busy garbage design hard rapid wrestle person |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

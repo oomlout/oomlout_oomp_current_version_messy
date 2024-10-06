@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oppose crystal
+  * bip 39 word 3: oppose crystal prison
+  * bip 39 word: oppose crystal prison soda damage crack craft outside offer dizzy cradle artefact
 
 ### other_codes
 * short_code: cs5bz8pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oppose |  
+| bip_39_word_new_br10 | oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside<br>offer<br>dizzy |  
+| bip_39_word_new_br11 | oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside<br>offer<br>dizzy<br>cradle |  
+| bip_39_word_new_br12 | oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside<br>offer<br>dizzy<br>cradle<br>artefact |  
+| bip_39_word_new_br2 | oppose<br>crystal |  
+| bip_39_word_new_br3 | oppose<br>crystal<br>prison |  
+| bip_39_word_new_br4 | oppose<br>crystal<br>prison<br>soda |  
+| bip_39_word_new_br5 | oppose<br>crystal<br>prison<br>soda<br>damage |  
+| bip_39_word_new_br6 | oppose<br>crystal<br>prison<br>soda<br>damage<br>crack |  
+| bip_39_word_new_br7 | oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft |  
+| bip_39_word_new_br8 | oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside |  
+| bip_39_word_new_br9 | oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside<br>offer |  
+| bip_39_word_new_line1 | oppose |  
+| bip_39_word_new_line10 | oppose
+crystal
+prison
+soda
+damage
+crack
+craft
+outside
+offer
+dizzy |  
+| bip_39_word_new_line11 | oppose
+crystal
+prison
+soda
+damage
+crack
+craft
+outside
+offer
+dizzy
+cradle |  
+| bip_39_word_new_line12 | oppose
+crystal
+prison
+soda
+damage
+crack
+craft
+outside
+offer
+dizzy
+cradle
+artefact |  
+| bip_39_word_new_line2 | oppose
+crystal |  
+| bip_39_word_new_line3 | oppose
+crystal
+prison |  
+| bip_39_word_new_line4 | oppose
+crystal
+prison
+soda |  
+| bip_39_word_new_line5 | oppose
+crystal
+prison
+soda
+damage |  
+| bip_39_word_new_line6 | oppose
+crystal
+prison
+soda
+damage
+crack |  
+| bip_39_word_new_line7 | oppose
+crystal
+prison
+soda
+damage
+crack
+craft |  
+| bip_39_word_new_line8 | oppose
+crystal
+prison
+soda
+damage
+crack
+craft
+outside |  
+| bip_39_word_new_line9 | oppose
+crystal
+prison
+soda
+damage
+crack
+craft
+outside
+offer |  
+| bip_39_word_space_0 | ['oppose', 'crystal', 'prison', 'soda', 'damage', 'crack', 'craft', 'outside', 'offer', 'dizzy', 'cradle', 'artefact'] |  
+| bip_39_word_space_1 | oppose |  
+| bip_39_word_space_10 | oppose crystal prison soda damage crack craft outside offer dizzy |  
+| bip_39_word_space_11 | oppose crystal prison soda damage crack craft outside offer dizzy cradle |  
+| bip_39_word_space_12 | oppose crystal prison soda damage crack craft outside offer dizzy cradle artefact |  
+| bip_39_word_space_2 | oppose crystal |  
+| bip_39_word_space_3 | oppose crystal prison |  
+| bip_39_word_space_4 | oppose crystal prison soda |  
+| bip_39_word_space_5 | oppose crystal prison soda damage |  
+| bip_39_word_space_6 | oppose crystal prison soda damage crack |  
+| bip_39_word_space_7 | oppose crystal prison soda damage crack craft |  
+| bip_39_word_space_8 | oppose crystal prison soda damage crack craft outside |  
+| bip_39_word_space_9 | oppose crystal prison soda damage crack craft outside offer |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

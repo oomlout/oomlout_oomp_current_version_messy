@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raven drill
+  * bip 39 word 3: raven drill six
+  * bip 39 word: raven drill six crash amateur chat actor verify divorce daughter end achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raven |  
+| bip_39_word_new_br10 | raven<br>drill<br>six<br>crash<br>amateur<br>chat<br>actor<br>verify<br>divorce<br>daughter |  
+| bip_39_word_new_br11 | raven<br>drill<br>six<br>crash<br>amateur<br>chat<br>actor<br>verify<br>divorce<br>daughter<br>end |  
+| bip_39_word_new_br12 | raven<br>drill<br>six<br>crash<br>amateur<br>chat<br>actor<br>verify<br>divorce<br>daughter<br>end<br>achieve |  
+| bip_39_word_new_br2 | raven<br>drill |  
+| bip_39_word_new_br3 | raven<br>drill<br>six |  
+| bip_39_word_new_br4 | raven<br>drill<br>six<br>crash |  
+| bip_39_word_new_br5 | raven<br>drill<br>six<br>crash<br>amateur |  
+| bip_39_word_new_br6 | raven<br>drill<br>six<br>crash<br>amateur<br>chat |  
+| bip_39_word_new_br7 | raven<br>drill<br>six<br>crash<br>amateur<br>chat<br>actor |  
+| bip_39_word_new_br8 | raven<br>drill<br>six<br>crash<br>amateur<br>chat<br>actor<br>verify |  
+| bip_39_word_new_br9 | raven<br>drill<br>six<br>crash<br>amateur<br>chat<br>actor<br>verify<br>divorce |  
+| bip_39_word_new_line1 | raven |  
+| bip_39_word_new_line10 | raven
+drill
+six
+crash
+amateur
+chat
+actor
+verify
+divorce
+daughter |  
+| bip_39_word_new_line11 | raven
+drill
+six
+crash
+amateur
+chat
+actor
+verify
+divorce
+daughter
+end |  
+| bip_39_word_new_line12 | raven
+drill
+six
+crash
+amateur
+chat
+actor
+verify
+divorce
+daughter
+end
+achieve |  
+| bip_39_word_new_line2 | raven
+drill |  
+| bip_39_word_new_line3 | raven
+drill
+six |  
+| bip_39_word_new_line4 | raven
+drill
+six
+crash |  
+| bip_39_word_new_line5 | raven
+drill
+six
+crash
+amateur |  
+| bip_39_word_new_line6 | raven
+drill
+six
+crash
+amateur
+chat |  
+| bip_39_word_new_line7 | raven
+drill
+six
+crash
+amateur
+chat
+actor |  
+| bip_39_word_new_line8 | raven
+drill
+six
+crash
+amateur
+chat
+actor
+verify |  
+| bip_39_word_new_line9 | raven
+drill
+six
+crash
+amateur
+chat
+actor
+verify
+divorce |  
+| bip_39_word_space_0 | ['raven', 'drill', 'six', 'crash', 'amateur', 'chat', 'actor', 'verify', 'divorce', 'daughter', 'end', 'achieve'] |  
+| bip_39_word_space_1 | raven |  
+| bip_39_word_space_10 | raven drill six crash amateur chat actor verify divorce daughter |  
+| bip_39_word_space_11 | raven drill six crash amateur chat actor verify divorce daughter end |  
+| bip_39_word_space_12 | raven drill six crash amateur chat actor verify divorce daughter end achieve |  
+| bip_39_word_space_2 | raven drill |  
+| bip_39_word_space_3 | raven drill six |  
+| bip_39_word_space_4 | raven drill six crash |  
+| bip_39_word_space_5 | raven drill six crash amateur |  
+| bip_39_word_space_6 | raven drill six crash amateur chat |  
+| bip_39_word_space_7 | raven drill six crash amateur chat actor |  
+| bip_39_word_space_8 | raven drill six crash amateur chat actor verify |  
+| bip_39_word_space_9 | raven drill six crash amateur chat actor verify divorce |  
 | classification | mechanical |  
 | classification_capital | Mechanical |  
 | classification_first_letter | m |  

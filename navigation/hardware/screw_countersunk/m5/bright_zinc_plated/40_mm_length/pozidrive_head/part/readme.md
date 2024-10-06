@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: turtle prefer
+  * bip 39 word 3: turtle prefer dress
+  * bip 39 word: turtle prefer dress ozone park coral rifle equal small faith install auction
 
 ### other_codes
 * short_code: cs5bz40pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | turtle |  
+| bip_39_word_new_br10 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith |  
+| bip_39_word_new_br11 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith<br>install |  
+| bip_39_word_new_br12 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small<br>faith<br>install<br>auction |  
+| bip_39_word_new_br2 | turtle<br>prefer |  
+| bip_39_word_new_br3 | turtle<br>prefer<br>dress |  
+| bip_39_word_new_br4 | turtle<br>prefer<br>dress<br>ozone |  
+| bip_39_word_new_br5 | turtle<br>prefer<br>dress<br>ozone<br>park |  
+| bip_39_word_new_br6 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral |  
+| bip_39_word_new_br7 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle |  
+| bip_39_word_new_br8 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal |  
+| bip_39_word_new_br9 | turtle<br>prefer<br>dress<br>ozone<br>park<br>coral<br>rifle<br>equal<br>small |  
+| bip_39_word_new_line1 | turtle |  
+| bip_39_word_new_line10 | turtle
+prefer
+dress
+ozone
+park
+coral
+rifle
+equal
+small
+faith |  
+| bip_39_word_new_line11 | turtle
+prefer
+dress
+ozone
+park
+coral
+rifle
+equal
+small
+faith
+install |  
+| bip_39_word_new_line12 | turtle
+prefer
+dress
+ozone
+park
+coral
+rifle
+equal
+small
+faith
+install
+auction |  
+| bip_39_word_new_line2 | turtle
+prefer |  
+| bip_39_word_new_line3 | turtle
+prefer
+dress |  
+| bip_39_word_new_line4 | turtle
+prefer
+dress
+ozone |  
+| bip_39_word_new_line5 | turtle
+prefer
+dress
+ozone
+park |  
+| bip_39_word_new_line6 | turtle
+prefer
+dress
+ozone
+park
+coral |  
+| bip_39_word_new_line7 | turtle
+prefer
+dress
+ozone
+park
+coral
+rifle |  
+| bip_39_word_new_line8 | turtle
+prefer
+dress
+ozone
+park
+coral
+rifle
+equal |  
+| bip_39_word_new_line9 | turtle
+prefer
+dress
+ozone
+park
+coral
+rifle
+equal
+small |  
+| bip_39_word_space_0 | ['turtle', 'prefer', 'dress', 'ozone', 'park', 'coral', 'rifle', 'equal', 'small', 'faith', 'install', 'auction'] |  
+| bip_39_word_space_1 | turtle |  
+| bip_39_word_space_10 | turtle prefer dress ozone park coral rifle equal small faith |  
+| bip_39_word_space_11 | turtle prefer dress ozone park coral rifle equal small faith install |  
+| bip_39_word_space_12 | turtle prefer dress ozone park coral rifle equal small faith install auction |  
+| bip_39_word_space_2 | turtle prefer |  
+| bip_39_word_space_3 | turtle prefer dress |  
+| bip_39_word_space_4 | turtle prefer dress ozone |  
+| bip_39_word_space_5 | turtle prefer dress ozone park |  
+| bip_39_word_space_6 | turtle prefer dress ozone park coral |  
+| bip_39_word_space_7 | turtle prefer dress ozone park coral rifle |  
+| bip_39_word_space_8 | turtle prefer dress ozone park coral rifle equal |  
+| bip_39_word_space_9 | turtle prefer dress ozone park coral rifle equal small |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

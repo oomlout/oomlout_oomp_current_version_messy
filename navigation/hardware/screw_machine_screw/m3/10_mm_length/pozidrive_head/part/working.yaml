@@ -1,3 +1,185 @@
+bip_39_word_new_br1: opinion
+bip_39_word_new_br10: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof<br>bacon<br>waste<br>nut<br>oil
+bip_39_word_new_br11: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof<br>bacon<br>waste<br>nut<br>oil<br>glance
+bip_39_word_new_br12: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof<br>bacon<br>waste<br>nut<br>oil<br>glance<br>arrange
+bip_39_word_new_br2: opinion<br>open
+bip_39_word_new_br3: opinion<br>open<br>shadow
+bip_39_word_new_br4: opinion<br>open<br>shadow<br>obtain
+bip_39_word_new_br5: opinion<br>open<br>shadow<br>obtain<br>dream
+bip_39_word_new_br6: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof
+bip_39_word_new_br7: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof<br>bacon
+bip_39_word_new_br8: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof<br>bacon<br>waste
+bip_39_word_new_br9: opinion<br>open<br>shadow<br>obtain<br>dream<br>proof<br>bacon<br>waste<br>nut
+bip_39_word_new_line1: opinion
+bip_39_word_new_line10: 'opinion
+
+  open
+
+  shadow
+
+  obtain
+
+  dream
+
+  proof
+
+  bacon
+
+  waste
+
+  nut
+
+  oil'
+bip_39_word_new_line11: 'opinion
+
+  open
+
+  shadow
+
+  obtain
+
+  dream
+
+  proof
+
+  bacon
+
+  waste
+
+  nut
+
+  oil
+
+  glance'
+bip_39_word_new_line12: 'opinion
+
+  open
+
+  shadow
+
+  obtain
+
+  dream
+
+  proof
+
+  bacon
+
+  waste
+
+  nut
+
+  oil
+
+  glance
+
+  arrange'
+bip_39_word_new_line2: 'opinion
+
+  open'
+bip_39_word_new_line3: 'opinion
+
+  open
+
+  shadow'
+bip_39_word_new_line4: 'opinion
+
+  open
+
+  shadow
+
+  obtain'
+bip_39_word_new_line5: 'opinion
+
+  open
+
+  shadow
+
+  obtain
+
+  dream'
+bip_39_word_new_line6: 'opinion
+
+  open
+
+  shadow
+
+  obtain
+
+  dream
+
+  proof'
+bip_39_word_new_line7: 'opinion
+
+  open
+
+  shadow
+
+  obtain
+
+  dream
+
+  proof
+
+  bacon'
+bip_39_word_new_line8: 'opinion
+
+  open
+
+  shadow
+
+  obtain
+
+  dream
+
+  proof
+
+  bacon
+
+  waste'
+bip_39_word_new_line9: 'opinion
+
+  open
+
+  shadow
+
+  obtain
+
+  dream
+
+  proof
+
+  bacon
+
+  waste
+
+  nut'
+bip_39_word_space_0:
+- opinion
+- open
+- shadow
+- obtain
+- dream
+- proof
+- bacon
+- waste
+- nut
+- oil
+- glance
+- arrange
+bip_39_word_space_1: opinion
+bip_39_word_space_10: opinion open shadow obtain dream proof bacon waste nut oil
+bip_39_word_space_11: opinion open shadow obtain dream proof bacon waste nut oil glance
+bip_39_word_space_12: opinion open shadow obtain dream proof bacon waste nut oil glance
+  arrange
+bip_39_word_space_2: opinion open
+bip_39_word_space_3: opinion open shadow
+bip_39_word_space_4: opinion open shadow obtain
+bip_39_word_space_5: opinion open shadow obtain dream
+bip_39_word_space_6: opinion open shadow obtain dream proof
+bip_39_word_space_7: opinion open shadow obtain dream proof bacon
+bip_39_word_space_8: opinion open shadow obtain dream proof bacon waste
+bip_39_word_space_9: opinion open shadow obtain dream proof bacon waste nut
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

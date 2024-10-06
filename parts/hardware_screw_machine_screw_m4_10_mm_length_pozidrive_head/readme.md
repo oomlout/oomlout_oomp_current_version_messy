@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fun oblige
+  * bip 39 word 3: fun oblige crack
+  * bip 39 word: fun oblige crack illness day riot boost tent laptop kitchen unfold almost
 
 ### other_codes
 * short_code: ms4m10pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fun |  
+| bip_39_word_new_br10 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen |  
+| bip_39_word_new_br11 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen<br>unfold |  
+| bip_39_word_new_br12 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop<br>kitchen<br>unfold<br>almost |  
+| bip_39_word_new_br2 | fun<br>oblige |  
+| bip_39_word_new_br3 | fun<br>oblige<br>crack |  
+| bip_39_word_new_br4 | fun<br>oblige<br>crack<br>illness |  
+| bip_39_word_new_br5 | fun<br>oblige<br>crack<br>illness<br>day |  
+| bip_39_word_new_br6 | fun<br>oblige<br>crack<br>illness<br>day<br>riot |  
+| bip_39_word_new_br7 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost |  
+| bip_39_word_new_br8 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent |  
+| bip_39_word_new_br9 | fun<br>oblige<br>crack<br>illness<br>day<br>riot<br>boost<br>tent<br>laptop |  
+| bip_39_word_new_line1 | fun |  
+| bip_39_word_new_line10 | fun
+oblige
+crack
+illness
+day
+riot
+boost
+tent
+laptop
+kitchen |  
+| bip_39_word_new_line11 | fun
+oblige
+crack
+illness
+day
+riot
+boost
+tent
+laptop
+kitchen
+unfold |  
+| bip_39_word_new_line12 | fun
+oblige
+crack
+illness
+day
+riot
+boost
+tent
+laptop
+kitchen
+unfold
+almost |  
+| bip_39_word_new_line2 | fun
+oblige |  
+| bip_39_word_new_line3 | fun
+oblige
+crack |  
+| bip_39_word_new_line4 | fun
+oblige
+crack
+illness |  
+| bip_39_word_new_line5 | fun
+oblige
+crack
+illness
+day |  
+| bip_39_word_new_line6 | fun
+oblige
+crack
+illness
+day
+riot |  
+| bip_39_word_new_line7 | fun
+oblige
+crack
+illness
+day
+riot
+boost |  
+| bip_39_word_new_line8 | fun
+oblige
+crack
+illness
+day
+riot
+boost
+tent |  
+| bip_39_word_new_line9 | fun
+oblige
+crack
+illness
+day
+riot
+boost
+tent
+laptop |  
+| bip_39_word_space_0 | ['fun', 'oblige', 'crack', 'illness', 'day', 'riot', 'boost', 'tent', 'laptop', 'kitchen', 'unfold', 'almost'] |  
+| bip_39_word_space_1 | fun |  
+| bip_39_word_space_10 | fun oblige crack illness day riot boost tent laptop kitchen |  
+| bip_39_word_space_11 | fun oblige crack illness day riot boost tent laptop kitchen unfold |  
+| bip_39_word_space_12 | fun oblige crack illness day riot boost tent laptop kitchen unfold almost |  
+| bip_39_word_space_2 | fun oblige |  
+| bip_39_word_space_3 | fun oblige crack |  
+| bip_39_word_space_4 | fun oblige crack illness |  
+| bip_39_word_space_5 | fun oblige crack illness day |  
+| bip_39_word_space_6 | fun oblige crack illness day riot |  
+| bip_39_word_space_7 | fun oblige crack illness day riot boost |  
+| bip_39_word_space_8 | fun oblige crack illness day riot boost tent |  
+| bip_39_word_space_9 | fun oblige crack illness day riot boost tent laptop |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

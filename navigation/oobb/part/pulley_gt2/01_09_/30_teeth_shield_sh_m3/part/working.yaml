@@ -1,3 +1,186 @@
+bip_39_word_new_br1: globe
+bip_39_word_new_br10: globe<br>puppy<br>grit<br>network<br>hobby<br>acoustic<br>melody<br>rule<br>unlock<br>eyebrow
+bip_39_word_new_br11: globe<br>puppy<br>grit<br>network<br>hobby<br>acoustic<br>melody<br>rule<br>unlock<br>eyebrow<br>rely
+bip_39_word_new_br12: globe<br>puppy<br>grit<br>network<br>hobby<br>acoustic<br>melody<br>rule<br>unlock<br>eyebrow<br>rely<br>actual
+bip_39_word_new_br2: globe<br>puppy
+bip_39_word_new_br3: globe<br>puppy<br>grit
+bip_39_word_new_br4: globe<br>puppy<br>grit<br>network
+bip_39_word_new_br5: globe<br>puppy<br>grit<br>network<br>hobby
+bip_39_word_new_br6: globe<br>puppy<br>grit<br>network<br>hobby<br>acoustic
+bip_39_word_new_br7: globe<br>puppy<br>grit<br>network<br>hobby<br>acoustic<br>melody
+bip_39_word_new_br8: globe<br>puppy<br>grit<br>network<br>hobby<br>acoustic<br>melody<br>rule
+bip_39_word_new_br9: globe<br>puppy<br>grit<br>network<br>hobby<br>acoustic<br>melody<br>rule<br>unlock
+bip_39_word_new_line1: globe
+bip_39_word_new_line10: 'globe
+
+  puppy
+
+  grit
+
+  network
+
+  hobby
+
+  acoustic
+
+  melody
+
+  rule
+
+  unlock
+
+  eyebrow'
+bip_39_word_new_line11: 'globe
+
+  puppy
+
+  grit
+
+  network
+
+  hobby
+
+  acoustic
+
+  melody
+
+  rule
+
+  unlock
+
+  eyebrow
+
+  rely'
+bip_39_word_new_line12: 'globe
+
+  puppy
+
+  grit
+
+  network
+
+  hobby
+
+  acoustic
+
+  melody
+
+  rule
+
+  unlock
+
+  eyebrow
+
+  rely
+
+  actual'
+bip_39_word_new_line2: 'globe
+
+  puppy'
+bip_39_word_new_line3: 'globe
+
+  puppy
+
+  grit'
+bip_39_word_new_line4: 'globe
+
+  puppy
+
+  grit
+
+  network'
+bip_39_word_new_line5: 'globe
+
+  puppy
+
+  grit
+
+  network
+
+  hobby'
+bip_39_word_new_line6: 'globe
+
+  puppy
+
+  grit
+
+  network
+
+  hobby
+
+  acoustic'
+bip_39_word_new_line7: 'globe
+
+  puppy
+
+  grit
+
+  network
+
+  hobby
+
+  acoustic
+
+  melody'
+bip_39_word_new_line8: 'globe
+
+  puppy
+
+  grit
+
+  network
+
+  hobby
+
+  acoustic
+
+  melody
+
+  rule'
+bip_39_word_new_line9: 'globe
+
+  puppy
+
+  grit
+
+  network
+
+  hobby
+
+  acoustic
+
+  melody
+
+  rule
+
+  unlock'
+bip_39_word_space_0:
+- globe
+- puppy
+- grit
+- network
+- hobby
+- acoustic
+- melody
+- rule
+- unlock
+- eyebrow
+- rely
+- actual
+bip_39_word_space_1: globe
+bip_39_word_space_10: globe puppy grit network hobby acoustic melody rule unlock eyebrow
+bip_39_word_space_11: globe puppy grit network hobby acoustic melody rule unlock eyebrow
+  rely
+bip_39_word_space_12: globe puppy grit network hobby acoustic melody rule unlock eyebrow
+  rely actual
+bip_39_word_space_2: globe puppy
+bip_39_word_space_3: globe puppy grit
+bip_39_word_space_4: globe puppy grit network
+bip_39_word_space_5: globe puppy grit network hobby
+bip_39_word_space_6: globe puppy grit network hobby acoustic
+bip_39_word_space_7: globe puppy grit network hobby acoustic melody
+bip_39_word_space_8: globe puppy grit network hobby acoustic melody rule
+bip_39_word_space_9: globe puppy grit network hobby acoustic melody rule unlock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

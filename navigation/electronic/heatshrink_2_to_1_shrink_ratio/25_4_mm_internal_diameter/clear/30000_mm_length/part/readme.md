@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decrease regular
+  * bip 39 word 3: decrease regular excess
+  * bip 39 word: decrease regular excess radio lens youth dry million rhythm cream carry absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decrease |  
+| bip_39_word_new_br10 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream |  
+| bip_39_word_new_br11 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream<br>carry |  
+| bip_39_word_new_br12 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm<br>cream<br>carry<br>absent |  
+| bip_39_word_new_br2 | decrease<br>regular |  
+| bip_39_word_new_br3 | decrease<br>regular<br>excess |  
+| bip_39_word_new_br4 | decrease<br>regular<br>excess<br>radio |  
+| bip_39_word_new_br5 | decrease<br>regular<br>excess<br>radio<br>lens |  
+| bip_39_word_new_br6 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth |  
+| bip_39_word_new_br7 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry |  
+| bip_39_word_new_br8 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million |  
+| bip_39_word_new_br9 | decrease<br>regular<br>excess<br>radio<br>lens<br>youth<br>dry<br>million<br>rhythm |  
+| bip_39_word_new_line1 | decrease |  
+| bip_39_word_new_line10 | decrease
+regular
+excess
+radio
+lens
+youth
+dry
+million
+rhythm
+cream |  
+| bip_39_word_new_line11 | decrease
+regular
+excess
+radio
+lens
+youth
+dry
+million
+rhythm
+cream
+carry |  
+| bip_39_word_new_line12 | decrease
+regular
+excess
+radio
+lens
+youth
+dry
+million
+rhythm
+cream
+carry
+absent |  
+| bip_39_word_new_line2 | decrease
+regular |  
+| bip_39_word_new_line3 | decrease
+regular
+excess |  
+| bip_39_word_new_line4 | decrease
+regular
+excess
+radio |  
+| bip_39_word_new_line5 | decrease
+regular
+excess
+radio
+lens |  
+| bip_39_word_new_line6 | decrease
+regular
+excess
+radio
+lens
+youth |  
+| bip_39_word_new_line7 | decrease
+regular
+excess
+radio
+lens
+youth
+dry |  
+| bip_39_word_new_line8 | decrease
+regular
+excess
+radio
+lens
+youth
+dry
+million |  
+| bip_39_word_new_line9 | decrease
+regular
+excess
+radio
+lens
+youth
+dry
+million
+rhythm |  
+| bip_39_word_space_0 | ['decrease', 'regular', 'excess', 'radio', 'lens', 'youth', 'dry', 'million', 'rhythm', 'cream', 'carry', 'absent'] |  
+| bip_39_word_space_1 | decrease |  
+| bip_39_word_space_10 | decrease regular excess radio lens youth dry million rhythm cream |  
+| bip_39_word_space_11 | decrease regular excess radio lens youth dry million rhythm cream carry |  
+| bip_39_word_space_12 | decrease regular excess radio lens youth dry million rhythm cream carry absent |  
+| bip_39_word_space_2 | decrease regular |  
+| bip_39_word_space_3 | decrease regular excess |  
+| bip_39_word_space_4 | decrease regular excess radio |  
+| bip_39_word_space_5 | decrease regular excess radio lens |  
+| bip_39_word_space_6 | decrease regular excess radio lens youth |  
+| bip_39_word_space_7 | decrease regular excess radio lens youth dry |  
+| bip_39_word_space_8 | decrease regular excess radio lens youth dry million |  
+| bip_39_word_space_9 | decrease regular excess radio lens youth dry million rhythm |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

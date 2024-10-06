@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arrange follow
+  * bip 39 word 3: arrange follow before
+  * bip 39 word: arrange follow before wool loyal include like boss stay music dove ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arrange |  
+| bip_39_word_new_br10 | arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay<br>music |  
+| bip_39_word_new_br11 | arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay<br>music<br>dove |  
+| bip_39_word_new_br12 | arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay<br>music<br>dove<br>ancient |  
+| bip_39_word_new_br2 | arrange<br>follow |  
+| bip_39_word_new_br3 | arrange<br>follow<br>before |  
+| bip_39_word_new_br4 | arrange<br>follow<br>before<br>wool |  
+| bip_39_word_new_br5 | arrange<br>follow<br>before<br>wool<br>loyal |  
+| bip_39_word_new_br6 | arrange<br>follow<br>before<br>wool<br>loyal<br>include |  
+| bip_39_word_new_br7 | arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like |  
+| bip_39_word_new_br8 | arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss |  
+| bip_39_word_new_br9 | arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay |  
+| bip_39_word_new_line1 | arrange |  
+| bip_39_word_new_line10 | arrange
+follow
+before
+wool
+loyal
+include
+like
+boss
+stay
+music |  
+| bip_39_word_new_line11 | arrange
+follow
+before
+wool
+loyal
+include
+like
+boss
+stay
+music
+dove |  
+| bip_39_word_new_line12 | arrange
+follow
+before
+wool
+loyal
+include
+like
+boss
+stay
+music
+dove
+ancient |  
+| bip_39_word_new_line2 | arrange
+follow |  
+| bip_39_word_new_line3 | arrange
+follow
+before |  
+| bip_39_word_new_line4 | arrange
+follow
+before
+wool |  
+| bip_39_word_new_line5 | arrange
+follow
+before
+wool
+loyal |  
+| bip_39_word_new_line6 | arrange
+follow
+before
+wool
+loyal
+include |  
+| bip_39_word_new_line7 | arrange
+follow
+before
+wool
+loyal
+include
+like |  
+| bip_39_word_new_line8 | arrange
+follow
+before
+wool
+loyal
+include
+like
+boss |  
+| bip_39_word_new_line9 | arrange
+follow
+before
+wool
+loyal
+include
+like
+boss
+stay |  
+| bip_39_word_space_0 | ['arrange', 'follow', 'before', 'wool', 'loyal', 'include', 'like', 'boss', 'stay', 'music', 'dove', 'ancient'] |  
+| bip_39_word_space_1 | arrange |  
+| bip_39_word_space_10 | arrange follow before wool loyal include like boss stay music |  
+| bip_39_word_space_11 | arrange follow before wool loyal include like boss stay music dove |  
+| bip_39_word_space_12 | arrange follow before wool loyal include like boss stay music dove ancient |  
+| bip_39_word_space_2 | arrange follow |  
+| bip_39_word_space_3 | arrange follow before |  
+| bip_39_word_space_4 | arrange follow before wool |  
+| bip_39_word_space_5 | arrange follow before wool loyal |  
+| bip_39_word_space_6 | arrange follow before wool loyal include |  
+| bip_39_word_space_7 | arrange follow before wool loyal include like |  
+| bip_39_word_space_8 | arrange follow before wool loyal include like boss |  
+| bip_39_word_space_9 | arrange follow before wool loyal include like boss stay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

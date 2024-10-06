@@ -1,3 +1,186 @@
+bip_39_word_new_br1: more
+bip_39_word_new_br10: more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle
+bip_39_word_new_br11: more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle<br>one
+bip_39_word_new_br12: more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach<br>shuffle<br>one<br>anger
+bip_39_word_new_br2: more<br>scan
+bip_39_word_new_br3: more<br>scan<br>else
+bip_39_word_new_br4: more<br>scan<br>else<br>caution
+bip_39_word_new_br5: more<br>scan<br>else<br>caution<br>spin
+bip_39_word_new_br6: more<br>scan<br>else<br>caution<br>spin<br>rich
+bip_39_word_new_br7: more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast
+bip_39_word_new_br8: more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle
+bip_39_word_new_br9: more<br>scan<br>else<br>caution<br>spin<br>rich<br>roast<br>cycle<br>stomach
+bip_39_word_new_line1: more
+bip_39_word_new_line10: 'more
+
+  scan
+
+  else
+
+  caution
+
+  spin
+
+  rich
+
+  roast
+
+  cycle
+
+  stomach
+
+  shuffle'
+bip_39_word_new_line11: 'more
+
+  scan
+
+  else
+
+  caution
+
+  spin
+
+  rich
+
+  roast
+
+  cycle
+
+  stomach
+
+  shuffle
+
+  one'
+bip_39_word_new_line12: 'more
+
+  scan
+
+  else
+
+  caution
+
+  spin
+
+  rich
+
+  roast
+
+  cycle
+
+  stomach
+
+  shuffle
+
+  one
+
+  anger'
+bip_39_word_new_line2: 'more
+
+  scan'
+bip_39_word_new_line3: 'more
+
+  scan
+
+  else'
+bip_39_word_new_line4: 'more
+
+  scan
+
+  else
+
+  caution'
+bip_39_word_new_line5: 'more
+
+  scan
+
+  else
+
+  caution
+
+  spin'
+bip_39_word_new_line6: 'more
+
+  scan
+
+  else
+
+  caution
+
+  spin
+
+  rich'
+bip_39_word_new_line7: 'more
+
+  scan
+
+  else
+
+  caution
+
+  spin
+
+  rich
+
+  roast'
+bip_39_word_new_line8: 'more
+
+  scan
+
+  else
+
+  caution
+
+  spin
+
+  rich
+
+  roast
+
+  cycle'
+bip_39_word_new_line9: 'more
+
+  scan
+
+  else
+
+  caution
+
+  spin
+
+  rich
+
+  roast
+
+  cycle
+
+  stomach'
+bip_39_word_space_0:
+- more
+- scan
+- else
+- caution
+- spin
+- rich
+- roast
+- cycle
+- stomach
+- shuffle
+- one
+- anger
+bip_39_word_space_1: more
+bip_39_word_space_10: more scan else caution spin rich roast cycle stomach shuffle
+bip_39_word_space_11: more scan else caution spin rich roast cycle stomach shuffle
+  one
+bip_39_word_space_12: more scan else caution spin rich roast cycle stomach shuffle
+  one anger
+bip_39_word_space_2: more scan
+bip_39_word_space_3: more scan else
+bip_39_word_space_4: more scan else caution
+bip_39_word_space_5: more scan else caution spin
+bip_39_word_space_6: more scan else caution spin rich
+bip_39_word_space_7: more scan else caution spin rich roast
+bip_39_word_space_8: more scan else caution spin rich roast cycle
+bip_39_word_space_9: more scan else caution spin rich roast cycle stomach
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

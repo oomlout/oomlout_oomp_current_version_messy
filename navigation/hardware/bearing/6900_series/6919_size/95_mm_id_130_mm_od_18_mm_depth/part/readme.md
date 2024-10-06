@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: yard asthma
+  * bip 39 word 3: yard asthma poet
+  * bip 39 word: yard asthma poet window silver toe wheat cable drip total hat amazing
 
 ### other_codes
 * short_code: br6919
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | yard |  
+| bip_39_word_new_br10 | yard<br>asthma<br>poet<br>window<br>silver<br>toe<br>wheat<br>cable<br>drip<br>total |  
+| bip_39_word_new_br11 | yard<br>asthma<br>poet<br>window<br>silver<br>toe<br>wheat<br>cable<br>drip<br>total<br>hat |  
+| bip_39_word_new_br12 | yard<br>asthma<br>poet<br>window<br>silver<br>toe<br>wheat<br>cable<br>drip<br>total<br>hat<br>amazing |  
+| bip_39_word_new_br2 | yard<br>asthma |  
+| bip_39_word_new_br3 | yard<br>asthma<br>poet |  
+| bip_39_word_new_br4 | yard<br>asthma<br>poet<br>window |  
+| bip_39_word_new_br5 | yard<br>asthma<br>poet<br>window<br>silver |  
+| bip_39_word_new_br6 | yard<br>asthma<br>poet<br>window<br>silver<br>toe |  
+| bip_39_word_new_br7 | yard<br>asthma<br>poet<br>window<br>silver<br>toe<br>wheat |  
+| bip_39_word_new_br8 | yard<br>asthma<br>poet<br>window<br>silver<br>toe<br>wheat<br>cable |  
+| bip_39_word_new_br9 | yard<br>asthma<br>poet<br>window<br>silver<br>toe<br>wheat<br>cable<br>drip |  
+| bip_39_word_new_line1 | yard |  
+| bip_39_word_new_line10 | yard
+asthma
+poet
+window
+silver
+toe
+wheat
+cable
+drip
+total |  
+| bip_39_word_new_line11 | yard
+asthma
+poet
+window
+silver
+toe
+wheat
+cable
+drip
+total
+hat |  
+| bip_39_word_new_line12 | yard
+asthma
+poet
+window
+silver
+toe
+wheat
+cable
+drip
+total
+hat
+amazing |  
+| bip_39_word_new_line2 | yard
+asthma |  
+| bip_39_word_new_line3 | yard
+asthma
+poet |  
+| bip_39_word_new_line4 | yard
+asthma
+poet
+window |  
+| bip_39_word_new_line5 | yard
+asthma
+poet
+window
+silver |  
+| bip_39_word_new_line6 | yard
+asthma
+poet
+window
+silver
+toe |  
+| bip_39_word_new_line7 | yard
+asthma
+poet
+window
+silver
+toe
+wheat |  
+| bip_39_word_new_line8 | yard
+asthma
+poet
+window
+silver
+toe
+wheat
+cable |  
+| bip_39_word_new_line9 | yard
+asthma
+poet
+window
+silver
+toe
+wheat
+cable
+drip |  
+| bip_39_word_space_0 | ['yard', 'asthma', 'poet', 'window', 'silver', 'toe', 'wheat', 'cable', 'drip', 'total', 'hat', 'amazing'] |  
+| bip_39_word_space_1 | yard |  
+| bip_39_word_space_10 | yard asthma poet window silver toe wheat cable drip total |  
+| bip_39_word_space_11 | yard asthma poet window silver toe wheat cable drip total hat |  
+| bip_39_word_space_12 | yard asthma poet window silver toe wheat cable drip total hat amazing |  
+| bip_39_word_space_2 | yard asthma |  
+| bip_39_word_space_3 | yard asthma poet |  
+| bip_39_word_space_4 | yard asthma poet window |  
+| bip_39_word_space_5 | yard asthma poet window silver |  
+| bip_39_word_space_6 | yard asthma poet window silver toe |  
+| bip_39_word_space_7 | yard asthma poet window silver toe wheat |  
+| bip_39_word_space_8 | yard asthma poet window silver toe wheat cable |  
+| bip_39_word_space_9 | yard asthma poet window silver toe wheat cable drip |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

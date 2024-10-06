@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: charge jelly
+  * bip 39 word 3: charge jelly injury
+  * bip 39 word: charge jelly injury army dragon air turkey author like awesome video abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | charge |  
+| bip_39_word_new_br10 | charge<br>jelly<br>injury<br>army<br>dragon<br>air<br>turkey<br>author<br>like<br>awesome |  
+| bip_39_word_new_br11 | charge<br>jelly<br>injury<br>army<br>dragon<br>air<br>turkey<br>author<br>like<br>awesome<br>video |  
+| bip_39_word_new_br12 | charge<br>jelly<br>injury<br>army<br>dragon<br>air<br>turkey<br>author<br>like<br>awesome<br>video<br>abstract |  
+| bip_39_word_new_br2 | charge<br>jelly |  
+| bip_39_word_new_br3 | charge<br>jelly<br>injury |  
+| bip_39_word_new_br4 | charge<br>jelly<br>injury<br>army |  
+| bip_39_word_new_br5 | charge<br>jelly<br>injury<br>army<br>dragon |  
+| bip_39_word_new_br6 | charge<br>jelly<br>injury<br>army<br>dragon<br>air |  
+| bip_39_word_new_br7 | charge<br>jelly<br>injury<br>army<br>dragon<br>air<br>turkey |  
+| bip_39_word_new_br8 | charge<br>jelly<br>injury<br>army<br>dragon<br>air<br>turkey<br>author |  
+| bip_39_word_new_br9 | charge<br>jelly<br>injury<br>army<br>dragon<br>air<br>turkey<br>author<br>like |  
+| bip_39_word_new_line1 | charge |  
+| bip_39_word_new_line10 | charge
+jelly
+injury
+army
+dragon
+air
+turkey
+author
+like
+awesome |  
+| bip_39_word_new_line11 | charge
+jelly
+injury
+army
+dragon
+air
+turkey
+author
+like
+awesome
+video |  
+| bip_39_word_new_line12 | charge
+jelly
+injury
+army
+dragon
+air
+turkey
+author
+like
+awesome
+video
+abstract |  
+| bip_39_word_new_line2 | charge
+jelly |  
+| bip_39_word_new_line3 | charge
+jelly
+injury |  
+| bip_39_word_new_line4 | charge
+jelly
+injury
+army |  
+| bip_39_word_new_line5 | charge
+jelly
+injury
+army
+dragon |  
+| bip_39_word_new_line6 | charge
+jelly
+injury
+army
+dragon
+air |  
+| bip_39_word_new_line7 | charge
+jelly
+injury
+army
+dragon
+air
+turkey |  
+| bip_39_word_new_line8 | charge
+jelly
+injury
+army
+dragon
+air
+turkey
+author |  
+| bip_39_word_new_line9 | charge
+jelly
+injury
+army
+dragon
+air
+turkey
+author
+like |  
+| bip_39_word_space_0 | ['charge', 'jelly', 'injury', 'army', 'dragon', 'air', 'turkey', 'author', 'like', 'awesome', 'video', 'abstract'] |  
+| bip_39_word_space_1 | charge |  
+| bip_39_word_space_10 | charge jelly injury army dragon air turkey author like awesome |  
+| bip_39_word_space_11 | charge jelly injury army dragon air turkey author like awesome video |  
+| bip_39_word_space_12 | charge jelly injury army dragon air turkey author like awesome video abstract |  
+| bip_39_word_space_2 | charge jelly |  
+| bip_39_word_space_3 | charge jelly injury |  
+| bip_39_word_space_4 | charge jelly injury army |  
+| bip_39_word_space_5 | charge jelly injury army dragon |  
+| bip_39_word_space_6 | charge jelly injury army dragon air |  
+| bip_39_word_space_7 | charge jelly injury army dragon air turkey |  
+| bip_39_word_space_8 | charge jelly injury army dragon air turkey author |  
+| bip_39_word_space_9 | charge jelly injury army dragon air turkey author like |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

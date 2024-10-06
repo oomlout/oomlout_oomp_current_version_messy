@@ -1,3 +1,186 @@
+bip_39_word_new_br1: disease
+bip_39_word_new_br10: disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder
+bip_39_word_new_br11: disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder<br>mule
+bip_39_word_new_br12: disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill<br>elder<br>mule<br>address
+bip_39_word_new_br2: disease<br>floor
+bip_39_word_new_br3: disease<br>floor<br>derive
+bip_39_word_new_br4: disease<br>floor<br>derive<br>cricket
+bip_39_word_new_br5: disease<br>floor<br>derive<br>cricket<br>this
+bip_39_word_new_br6: disease<br>floor<br>derive<br>cricket<br>this<br>ethics
+bip_39_word_new_br7: disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later
+bip_39_word_new_br8: disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey
+bip_39_word_new_br9: disease<br>floor<br>derive<br>cricket<br>this<br>ethics<br>later<br>donkey<br>ill
+bip_39_word_new_line1: disease
+bip_39_word_new_line10: 'disease
+
+  floor
+
+  derive
+
+  cricket
+
+  this
+
+  ethics
+
+  later
+
+  donkey
+
+  ill
+
+  elder'
+bip_39_word_new_line11: 'disease
+
+  floor
+
+  derive
+
+  cricket
+
+  this
+
+  ethics
+
+  later
+
+  donkey
+
+  ill
+
+  elder
+
+  mule'
+bip_39_word_new_line12: 'disease
+
+  floor
+
+  derive
+
+  cricket
+
+  this
+
+  ethics
+
+  later
+
+  donkey
+
+  ill
+
+  elder
+
+  mule
+
+  address'
+bip_39_word_new_line2: 'disease
+
+  floor'
+bip_39_word_new_line3: 'disease
+
+  floor
+
+  derive'
+bip_39_word_new_line4: 'disease
+
+  floor
+
+  derive
+
+  cricket'
+bip_39_word_new_line5: 'disease
+
+  floor
+
+  derive
+
+  cricket
+
+  this'
+bip_39_word_new_line6: 'disease
+
+  floor
+
+  derive
+
+  cricket
+
+  this
+
+  ethics'
+bip_39_word_new_line7: 'disease
+
+  floor
+
+  derive
+
+  cricket
+
+  this
+
+  ethics
+
+  later'
+bip_39_word_new_line8: 'disease
+
+  floor
+
+  derive
+
+  cricket
+
+  this
+
+  ethics
+
+  later
+
+  donkey'
+bip_39_word_new_line9: 'disease
+
+  floor
+
+  derive
+
+  cricket
+
+  this
+
+  ethics
+
+  later
+
+  donkey
+
+  ill'
+bip_39_word_space_0:
+- disease
+- floor
+- derive
+- cricket
+- this
+- ethics
+- later
+- donkey
+- ill
+- elder
+- mule
+- address
+bip_39_word_space_1: disease
+bip_39_word_space_10: disease floor derive cricket this ethics later donkey ill elder
+bip_39_word_space_11: disease floor derive cricket this ethics later donkey ill elder
+  mule
+bip_39_word_space_12: disease floor derive cricket this ethics later donkey ill elder
+  mule address
+bip_39_word_space_2: disease floor
+bip_39_word_space_3: disease floor derive
+bip_39_word_space_4: disease floor derive cricket
+bip_39_word_space_5: disease floor derive cricket this
+bip_39_word_space_6: disease floor derive cricket this ethics
+bip_39_word_space_7: disease floor derive cricket this ethics later
+bip_39_word_space_8: disease floor derive cricket this ethics later donkey
+bip_39_word_space_9: disease floor derive cricket this ethics later donkey ill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

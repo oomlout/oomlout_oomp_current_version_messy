@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 8_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: legal search
+  * bip 39 word 3: legal search remind
+  * bip 39 word: legal search remind stem simple install rebuild raccoon fat owner company act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | legal |  
+| bip_39_word_new_br10 | legal<br>search<br>remind<br>stem<br>simple<br>install<br>rebuild<br>raccoon<br>fat<br>owner |  
+| bip_39_word_new_br11 | legal<br>search<br>remind<br>stem<br>simple<br>install<br>rebuild<br>raccoon<br>fat<br>owner<br>company |  
+| bip_39_word_new_br12 | legal<br>search<br>remind<br>stem<br>simple<br>install<br>rebuild<br>raccoon<br>fat<br>owner<br>company<br>act |  
+| bip_39_word_new_br2 | legal<br>search |  
+| bip_39_word_new_br3 | legal<br>search<br>remind |  
+| bip_39_word_new_br4 | legal<br>search<br>remind<br>stem |  
+| bip_39_word_new_br5 | legal<br>search<br>remind<br>stem<br>simple |  
+| bip_39_word_new_br6 | legal<br>search<br>remind<br>stem<br>simple<br>install |  
+| bip_39_word_new_br7 | legal<br>search<br>remind<br>stem<br>simple<br>install<br>rebuild |  
+| bip_39_word_new_br8 | legal<br>search<br>remind<br>stem<br>simple<br>install<br>rebuild<br>raccoon |  
+| bip_39_word_new_br9 | legal<br>search<br>remind<br>stem<br>simple<br>install<br>rebuild<br>raccoon<br>fat |  
+| bip_39_word_new_line1 | legal |  
+| bip_39_word_new_line10 | legal
+search
+remind
+stem
+simple
+install
+rebuild
+raccoon
+fat
+owner |  
+| bip_39_word_new_line11 | legal
+search
+remind
+stem
+simple
+install
+rebuild
+raccoon
+fat
+owner
+company |  
+| bip_39_word_new_line12 | legal
+search
+remind
+stem
+simple
+install
+rebuild
+raccoon
+fat
+owner
+company
+act |  
+| bip_39_word_new_line2 | legal
+search |  
+| bip_39_word_new_line3 | legal
+search
+remind |  
+| bip_39_word_new_line4 | legal
+search
+remind
+stem |  
+| bip_39_word_new_line5 | legal
+search
+remind
+stem
+simple |  
+| bip_39_word_new_line6 | legal
+search
+remind
+stem
+simple
+install |  
+| bip_39_word_new_line7 | legal
+search
+remind
+stem
+simple
+install
+rebuild |  
+| bip_39_word_new_line8 | legal
+search
+remind
+stem
+simple
+install
+rebuild
+raccoon |  
+| bip_39_word_new_line9 | legal
+search
+remind
+stem
+simple
+install
+rebuild
+raccoon
+fat |  
+| bip_39_word_space_0 | ['legal', 'search', 'remind', 'stem', 'simple', 'install', 'rebuild', 'raccoon', 'fat', 'owner', 'company', 'act'] |  
+| bip_39_word_space_1 | legal |  
+| bip_39_word_space_10 | legal search remind stem simple install rebuild raccoon fat owner |  
+| bip_39_word_space_11 | legal search remind stem simple install rebuild raccoon fat owner company |  
+| bip_39_word_space_12 | legal search remind stem simple install rebuild raccoon fat owner company act |  
+| bip_39_word_space_2 | legal search |  
+| bip_39_word_space_3 | legal search remind |  
+| bip_39_word_space_4 | legal search remind stem |  
+| bip_39_word_space_5 | legal search remind stem simple |  
+| bip_39_word_space_6 | legal search remind stem simple install |  
+| bip_39_word_space_7 | legal search remind stem simple install rebuild |  
+| bip_39_word_space_8 | legal search remind stem simple install rebuild raccoon |  
+| bip_39_word_space_9 | legal search remind stem simple install rebuild raccoon fat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

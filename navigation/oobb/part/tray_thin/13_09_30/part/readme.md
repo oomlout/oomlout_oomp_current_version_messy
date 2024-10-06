@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cycle allow
+  * bip 39 word 3: cycle allow antique
+  * bip 39 word: cycle allow antique atom panda sea chalk goose term spin retreat alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cycle |  
+| bip_39_word_new_br10 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea<br>chalk<br>goose<br>term<br>spin |  
+| bip_39_word_new_br11 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea<br>chalk<br>goose<br>term<br>spin<br>retreat |  
+| bip_39_word_new_br12 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea<br>chalk<br>goose<br>term<br>spin<br>retreat<br>alpha |  
+| bip_39_word_new_br2 | cycle<br>allow |  
+| bip_39_word_new_br3 | cycle<br>allow<br>antique |  
+| bip_39_word_new_br4 | cycle<br>allow<br>antique<br>atom |  
+| bip_39_word_new_br5 | cycle<br>allow<br>antique<br>atom<br>panda |  
+| bip_39_word_new_br6 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea |  
+| bip_39_word_new_br7 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea<br>chalk |  
+| bip_39_word_new_br8 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea<br>chalk<br>goose |  
+| bip_39_word_new_br9 | cycle<br>allow<br>antique<br>atom<br>panda<br>sea<br>chalk<br>goose<br>term |  
+| bip_39_word_new_line1 | cycle |  
+| bip_39_word_new_line10 | cycle
+allow
+antique
+atom
+panda
+sea
+chalk
+goose
+term
+spin |  
+| bip_39_word_new_line11 | cycle
+allow
+antique
+atom
+panda
+sea
+chalk
+goose
+term
+spin
+retreat |  
+| bip_39_word_new_line12 | cycle
+allow
+antique
+atom
+panda
+sea
+chalk
+goose
+term
+spin
+retreat
+alpha |  
+| bip_39_word_new_line2 | cycle
+allow |  
+| bip_39_word_new_line3 | cycle
+allow
+antique |  
+| bip_39_word_new_line4 | cycle
+allow
+antique
+atom |  
+| bip_39_word_new_line5 | cycle
+allow
+antique
+atom
+panda |  
+| bip_39_word_new_line6 | cycle
+allow
+antique
+atom
+panda
+sea |  
+| bip_39_word_new_line7 | cycle
+allow
+antique
+atom
+panda
+sea
+chalk |  
+| bip_39_word_new_line8 | cycle
+allow
+antique
+atom
+panda
+sea
+chalk
+goose |  
+| bip_39_word_new_line9 | cycle
+allow
+antique
+atom
+panda
+sea
+chalk
+goose
+term |  
+| bip_39_word_space_0 | ['cycle', 'allow', 'antique', 'atom', 'panda', 'sea', 'chalk', 'goose', 'term', 'spin', 'retreat', 'alpha'] |  
+| bip_39_word_space_1 | cycle |  
+| bip_39_word_space_10 | cycle allow antique atom panda sea chalk goose term spin |  
+| bip_39_word_space_11 | cycle allow antique atom panda sea chalk goose term spin retreat |  
+| bip_39_word_space_12 | cycle allow antique atom panda sea chalk goose term spin retreat alpha |  
+| bip_39_word_space_2 | cycle allow |  
+| bip_39_word_space_3 | cycle allow antique |  
+| bip_39_word_space_4 | cycle allow antique atom |  
+| bip_39_word_space_5 | cycle allow antique atom panda |  
+| bip_39_word_space_6 | cycle allow antique atom panda sea |  
+| bip_39_word_space_7 | cycle allow antique atom panda sea chalk |  
+| bip_39_word_space_8 | cycle allow antique atom panda sea chalk goose |  
+| bip_39_word_space_9 | cycle allow antique atom panda sea chalk goose term |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

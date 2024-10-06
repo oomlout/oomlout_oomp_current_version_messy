@@ -1,3 +1,185 @@
+bip_39_word_new_br1: acoustic
+bip_39_word_new_br10: acoustic<br>boat<br>aunt<br>staff<br>future<br>know<br>warm<br>camp<br>guard<br>happy
+bip_39_word_new_br11: acoustic<br>boat<br>aunt<br>staff<br>future<br>know<br>warm<br>camp<br>guard<br>happy<br>oven
+bip_39_word_new_br12: acoustic<br>boat<br>aunt<br>staff<br>future<br>know<br>warm<br>camp<br>guard<br>happy<br>oven<br>amazing
+bip_39_word_new_br2: acoustic<br>boat
+bip_39_word_new_br3: acoustic<br>boat<br>aunt
+bip_39_word_new_br4: acoustic<br>boat<br>aunt<br>staff
+bip_39_word_new_br5: acoustic<br>boat<br>aunt<br>staff<br>future
+bip_39_word_new_br6: acoustic<br>boat<br>aunt<br>staff<br>future<br>know
+bip_39_word_new_br7: acoustic<br>boat<br>aunt<br>staff<br>future<br>know<br>warm
+bip_39_word_new_br8: acoustic<br>boat<br>aunt<br>staff<br>future<br>know<br>warm<br>camp
+bip_39_word_new_br9: acoustic<br>boat<br>aunt<br>staff<br>future<br>know<br>warm<br>camp<br>guard
+bip_39_word_new_line1: acoustic
+bip_39_word_new_line10: 'acoustic
+
+  boat
+
+  aunt
+
+  staff
+
+  future
+
+  know
+
+  warm
+
+  camp
+
+  guard
+
+  happy'
+bip_39_word_new_line11: 'acoustic
+
+  boat
+
+  aunt
+
+  staff
+
+  future
+
+  know
+
+  warm
+
+  camp
+
+  guard
+
+  happy
+
+  oven'
+bip_39_word_new_line12: 'acoustic
+
+  boat
+
+  aunt
+
+  staff
+
+  future
+
+  know
+
+  warm
+
+  camp
+
+  guard
+
+  happy
+
+  oven
+
+  amazing'
+bip_39_word_new_line2: 'acoustic
+
+  boat'
+bip_39_word_new_line3: 'acoustic
+
+  boat
+
+  aunt'
+bip_39_word_new_line4: 'acoustic
+
+  boat
+
+  aunt
+
+  staff'
+bip_39_word_new_line5: 'acoustic
+
+  boat
+
+  aunt
+
+  staff
+
+  future'
+bip_39_word_new_line6: 'acoustic
+
+  boat
+
+  aunt
+
+  staff
+
+  future
+
+  know'
+bip_39_word_new_line7: 'acoustic
+
+  boat
+
+  aunt
+
+  staff
+
+  future
+
+  know
+
+  warm'
+bip_39_word_new_line8: 'acoustic
+
+  boat
+
+  aunt
+
+  staff
+
+  future
+
+  know
+
+  warm
+
+  camp'
+bip_39_word_new_line9: 'acoustic
+
+  boat
+
+  aunt
+
+  staff
+
+  future
+
+  know
+
+  warm
+
+  camp
+
+  guard'
+bip_39_word_space_0:
+- acoustic
+- boat
+- aunt
+- staff
+- future
+- know
+- warm
+- camp
+- guard
+- happy
+- oven
+- amazing
+bip_39_word_space_1: acoustic
+bip_39_word_space_10: acoustic boat aunt staff future know warm camp guard happy
+bip_39_word_space_11: acoustic boat aunt staff future know warm camp guard happy oven
+bip_39_word_space_12: acoustic boat aunt staff future know warm camp guard happy oven
+  amazing
+bip_39_word_space_2: acoustic boat
+bip_39_word_space_3: acoustic boat aunt
+bip_39_word_space_4: acoustic boat aunt staff
+bip_39_word_space_5: acoustic boat aunt staff future
+bip_39_word_space_6: acoustic boat aunt staff future know
+bip_39_word_space_7: acoustic boat aunt staff future know warm
+bip_39_word_space_8: acoustic boat aunt staff future know warm camp
+bip_39_word_space_9: acoustic boat aunt staff future know warm camp guard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

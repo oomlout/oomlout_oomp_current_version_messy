@@ -1,3 +1,185 @@
+bip_39_word_new_br1: add
+bip_39_word_new_br10: add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try
+bip_39_word_new_br11: add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try<br>bulk
+bip_39_word_new_br12: add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin<br>try<br>bulk<br>asthma
+bip_39_word_new_br2: add<br>fossil
+bip_39_word_new_br3: add<br>fossil<br>aerobic
+bip_39_word_new_br4: add<br>fossil<br>aerobic<br>wait
+bip_39_word_new_br5: add<br>fossil<br>aerobic<br>wait<br>talk
+bip_39_word_new_br6: add<br>fossil<br>aerobic<br>wait<br>talk<br>pull
+bip_39_word_new_br7: add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity
+bip_39_word_new_br8: add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift
+bip_39_word_new_br9: add<br>fossil<br>aerobic<br>wait<br>talk<br>pull<br>purity<br>gift<br>pumpkin
+bip_39_word_new_line1: add
+bip_39_word_new_line10: 'add
+
+  fossil
+
+  aerobic
+
+  wait
+
+  talk
+
+  pull
+
+  purity
+
+  gift
+
+  pumpkin
+
+  try'
+bip_39_word_new_line11: 'add
+
+  fossil
+
+  aerobic
+
+  wait
+
+  talk
+
+  pull
+
+  purity
+
+  gift
+
+  pumpkin
+
+  try
+
+  bulk'
+bip_39_word_new_line12: 'add
+
+  fossil
+
+  aerobic
+
+  wait
+
+  talk
+
+  pull
+
+  purity
+
+  gift
+
+  pumpkin
+
+  try
+
+  bulk
+
+  asthma'
+bip_39_word_new_line2: 'add
+
+  fossil'
+bip_39_word_new_line3: 'add
+
+  fossil
+
+  aerobic'
+bip_39_word_new_line4: 'add
+
+  fossil
+
+  aerobic
+
+  wait'
+bip_39_word_new_line5: 'add
+
+  fossil
+
+  aerobic
+
+  wait
+
+  talk'
+bip_39_word_new_line6: 'add
+
+  fossil
+
+  aerobic
+
+  wait
+
+  talk
+
+  pull'
+bip_39_word_new_line7: 'add
+
+  fossil
+
+  aerobic
+
+  wait
+
+  talk
+
+  pull
+
+  purity'
+bip_39_word_new_line8: 'add
+
+  fossil
+
+  aerobic
+
+  wait
+
+  talk
+
+  pull
+
+  purity
+
+  gift'
+bip_39_word_new_line9: 'add
+
+  fossil
+
+  aerobic
+
+  wait
+
+  talk
+
+  pull
+
+  purity
+
+  gift
+
+  pumpkin'
+bip_39_word_space_0:
+- add
+- fossil
+- aerobic
+- wait
+- talk
+- pull
+- purity
+- gift
+- pumpkin
+- try
+- bulk
+- asthma
+bip_39_word_space_1: add
+bip_39_word_space_10: add fossil aerobic wait talk pull purity gift pumpkin try
+bip_39_word_space_11: add fossil aerobic wait talk pull purity gift pumpkin try bulk
+bip_39_word_space_12: add fossil aerobic wait talk pull purity gift pumpkin try bulk
+  asthma
+bip_39_word_space_2: add fossil
+bip_39_word_space_3: add fossil aerobic
+bip_39_word_space_4: add fossil aerobic wait
+bip_39_word_space_5: add fossil aerobic wait talk
+bip_39_word_space_6: add fossil aerobic wait talk pull
+bip_39_word_space_7: add fossil aerobic wait talk pull purity
+bip_39_word_space_8: add fossil aerobic wait talk pull purity gift
+bip_39_word_space_9: add fossil aerobic wait talk pull purity gift pumpkin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

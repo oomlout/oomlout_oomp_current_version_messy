@@ -1,3 +1,186 @@
+bip_39_word_new_br1: athlete
+bip_39_word_new_br10: athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool
+bip_39_word_new_br11: athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool<br>goat
+bip_39_word_new_br12: athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar<br>pool<br>goat<br>avocado
+bip_39_word_new_br2: athlete<br>image
+bip_39_word_new_br3: athlete<br>image<br>belt
+bip_39_word_new_br4: athlete<br>image<br>belt<br>brass
+bip_39_word_new_br5: athlete<br>image<br>belt<br>brass<br>narrow
+bip_39_word_new_br6: athlete<br>image<br>belt<br>brass<br>narrow<br>orient
+bip_39_word_new_br7: athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split
+bip_39_word_new_br8: athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic
+bip_39_word_new_br9: athlete<br>image<br>belt<br>brass<br>narrow<br>orient<br>split<br>chronic<br>polar
+bip_39_word_new_line1: athlete
+bip_39_word_new_line10: 'athlete
+
+  image
+
+  belt
+
+  brass
+
+  narrow
+
+  orient
+
+  split
+
+  chronic
+
+  polar
+
+  pool'
+bip_39_word_new_line11: 'athlete
+
+  image
+
+  belt
+
+  brass
+
+  narrow
+
+  orient
+
+  split
+
+  chronic
+
+  polar
+
+  pool
+
+  goat'
+bip_39_word_new_line12: 'athlete
+
+  image
+
+  belt
+
+  brass
+
+  narrow
+
+  orient
+
+  split
+
+  chronic
+
+  polar
+
+  pool
+
+  goat
+
+  avocado'
+bip_39_word_new_line2: 'athlete
+
+  image'
+bip_39_word_new_line3: 'athlete
+
+  image
+
+  belt'
+bip_39_word_new_line4: 'athlete
+
+  image
+
+  belt
+
+  brass'
+bip_39_word_new_line5: 'athlete
+
+  image
+
+  belt
+
+  brass
+
+  narrow'
+bip_39_word_new_line6: 'athlete
+
+  image
+
+  belt
+
+  brass
+
+  narrow
+
+  orient'
+bip_39_word_new_line7: 'athlete
+
+  image
+
+  belt
+
+  brass
+
+  narrow
+
+  orient
+
+  split'
+bip_39_word_new_line8: 'athlete
+
+  image
+
+  belt
+
+  brass
+
+  narrow
+
+  orient
+
+  split
+
+  chronic'
+bip_39_word_new_line9: 'athlete
+
+  image
+
+  belt
+
+  brass
+
+  narrow
+
+  orient
+
+  split
+
+  chronic
+
+  polar'
+bip_39_word_space_0:
+- athlete
+- image
+- belt
+- brass
+- narrow
+- orient
+- split
+- chronic
+- polar
+- pool
+- goat
+- avocado
+bip_39_word_space_1: athlete
+bip_39_word_space_10: athlete image belt brass narrow orient split chronic polar pool
+bip_39_word_space_11: athlete image belt brass narrow orient split chronic polar pool
+  goat
+bip_39_word_space_12: athlete image belt brass narrow orient split chronic polar pool
+  goat avocado
+bip_39_word_space_2: athlete image
+bip_39_word_space_3: athlete image belt
+bip_39_word_space_4: athlete image belt brass
+bip_39_word_space_5: athlete image belt brass narrow
+bip_39_word_space_6: athlete image belt brass narrow orient
+bip_39_word_space_7: athlete image belt brass narrow orient split
+bip_39_word_space_8: athlete image belt brass narrow orient split chronic
+bip_39_word_space_9: athlete image belt brass narrow orient split chronic polar
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

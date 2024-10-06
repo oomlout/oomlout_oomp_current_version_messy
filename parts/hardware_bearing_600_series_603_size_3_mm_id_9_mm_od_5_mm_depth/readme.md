@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: balcony chicken
+  * bip 39 word 3: balcony chicken capital
+  * bip 39 word: balcony chicken capital curtain sort awesome fit bag guard art gallery adjust
 
 ### other_codes
 * short_code: br603
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | balcony |  
+| bip_39_word_new_br10 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome<br>fit<br>bag<br>guard<br>art |  
+| bip_39_word_new_br11 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome<br>fit<br>bag<br>guard<br>art<br>gallery |  
+| bip_39_word_new_br12 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome<br>fit<br>bag<br>guard<br>art<br>gallery<br>adjust |  
+| bip_39_word_new_br2 | balcony<br>chicken |  
+| bip_39_word_new_br3 | balcony<br>chicken<br>capital |  
+| bip_39_word_new_br4 | balcony<br>chicken<br>capital<br>curtain |  
+| bip_39_word_new_br5 | balcony<br>chicken<br>capital<br>curtain<br>sort |  
+| bip_39_word_new_br6 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome |  
+| bip_39_word_new_br7 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome<br>fit |  
+| bip_39_word_new_br8 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome<br>fit<br>bag |  
+| bip_39_word_new_br9 | balcony<br>chicken<br>capital<br>curtain<br>sort<br>awesome<br>fit<br>bag<br>guard |  
+| bip_39_word_new_line1 | balcony |  
+| bip_39_word_new_line10 | balcony
+chicken
+capital
+curtain
+sort
+awesome
+fit
+bag
+guard
+art |  
+| bip_39_word_new_line11 | balcony
+chicken
+capital
+curtain
+sort
+awesome
+fit
+bag
+guard
+art
+gallery |  
+| bip_39_word_new_line12 | balcony
+chicken
+capital
+curtain
+sort
+awesome
+fit
+bag
+guard
+art
+gallery
+adjust |  
+| bip_39_word_new_line2 | balcony
+chicken |  
+| bip_39_word_new_line3 | balcony
+chicken
+capital |  
+| bip_39_word_new_line4 | balcony
+chicken
+capital
+curtain |  
+| bip_39_word_new_line5 | balcony
+chicken
+capital
+curtain
+sort |  
+| bip_39_word_new_line6 | balcony
+chicken
+capital
+curtain
+sort
+awesome |  
+| bip_39_word_new_line7 | balcony
+chicken
+capital
+curtain
+sort
+awesome
+fit |  
+| bip_39_word_new_line8 | balcony
+chicken
+capital
+curtain
+sort
+awesome
+fit
+bag |  
+| bip_39_word_new_line9 | balcony
+chicken
+capital
+curtain
+sort
+awesome
+fit
+bag
+guard |  
+| bip_39_word_space_0 | ['balcony', 'chicken', 'capital', 'curtain', 'sort', 'awesome', 'fit', 'bag', 'guard', 'art', 'gallery', 'adjust'] |  
+| bip_39_word_space_1 | balcony |  
+| bip_39_word_space_10 | balcony chicken capital curtain sort awesome fit bag guard art |  
+| bip_39_word_space_11 | balcony chicken capital curtain sort awesome fit bag guard art gallery |  
+| bip_39_word_space_12 | balcony chicken capital curtain sort awesome fit bag guard art gallery adjust |  
+| bip_39_word_space_2 | balcony chicken |  
+| bip_39_word_space_3 | balcony chicken capital |  
+| bip_39_word_space_4 | balcony chicken capital curtain |  
+| bip_39_word_space_5 | balcony chicken capital curtain sort |  
+| bip_39_word_space_6 | balcony chicken capital curtain sort awesome |  
+| bip_39_word_space_7 | balcony chicken capital curtain sort awesome fit |  
+| bip_39_word_space_8 | balcony chicken capital curtain sort awesome fit bag |  
+| bip_39_word_space_9 | balcony chicken capital curtain sort awesome fit bag guard |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

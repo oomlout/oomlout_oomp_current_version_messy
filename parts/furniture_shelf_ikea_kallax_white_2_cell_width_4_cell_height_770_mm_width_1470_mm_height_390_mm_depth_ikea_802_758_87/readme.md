@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 770_mm_width_1470_mm_height_390_mm_depth
   * manufacturer: ikea
   * part_number: 802_758_87
+  * bip 39 word 2: album cereal
+  * bip 39 word 3: album cereal sponsor
+  * bip 39 word: album cereal sponsor mean century anxiety solve fork virus other excuse assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | album |  
+| bip_39_word_new_br10 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety<br>solve<br>fork<br>virus<br>other |  
+| bip_39_word_new_br11 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety<br>solve<br>fork<br>virus<br>other<br>excuse |  
+| bip_39_word_new_br12 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety<br>solve<br>fork<br>virus<br>other<br>excuse<br>assume |  
+| bip_39_word_new_br2 | album<br>cereal |  
+| bip_39_word_new_br3 | album<br>cereal<br>sponsor |  
+| bip_39_word_new_br4 | album<br>cereal<br>sponsor<br>mean |  
+| bip_39_word_new_br5 | album<br>cereal<br>sponsor<br>mean<br>century |  
+| bip_39_word_new_br6 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety |  
+| bip_39_word_new_br7 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety<br>solve |  
+| bip_39_word_new_br8 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety<br>solve<br>fork |  
+| bip_39_word_new_br9 | album<br>cereal<br>sponsor<br>mean<br>century<br>anxiety<br>solve<br>fork<br>virus |  
+| bip_39_word_new_line1 | album |  
+| bip_39_word_new_line10 | album
+cereal
+sponsor
+mean
+century
+anxiety
+solve
+fork
+virus
+other |  
+| bip_39_word_new_line11 | album
+cereal
+sponsor
+mean
+century
+anxiety
+solve
+fork
+virus
+other
+excuse |  
+| bip_39_word_new_line12 | album
+cereal
+sponsor
+mean
+century
+anxiety
+solve
+fork
+virus
+other
+excuse
+assume |  
+| bip_39_word_new_line2 | album
+cereal |  
+| bip_39_word_new_line3 | album
+cereal
+sponsor |  
+| bip_39_word_new_line4 | album
+cereal
+sponsor
+mean |  
+| bip_39_word_new_line5 | album
+cereal
+sponsor
+mean
+century |  
+| bip_39_word_new_line6 | album
+cereal
+sponsor
+mean
+century
+anxiety |  
+| bip_39_word_new_line7 | album
+cereal
+sponsor
+mean
+century
+anxiety
+solve |  
+| bip_39_word_new_line8 | album
+cereal
+sponsor
+mean
+century
+anxiety
+solve
+fork |  
+| bip_39_word_new_line9 | album
+cereal
+sponsor
+mean
+century
+anxiety
+solve
+fork
+virus |  
+| bip_39_word_space_0 | ['album', 'cereal', 'sponsor', 'mean', 'century', 'anxiety', 'solve', 'fork', 'virus', 'other', 'excuse', 'assume'] |  
+| bip_39_word_space_1 | album |  
+| bip_39_word_space_10 | album cereal sponsor mean century anxiety solve fork virus other |  
+| bip_39_word_space_11 | album cereal sponsor mean century anxiety solve fork virus other excuse |  
+| bip_39_word_space_12 | album cereal sponsor mean century anxiety solve fork virus other excuse assume |  
+| bip_39_word_space_2 | album cereal |  
+| bip_39_word_space_3 | album cereal sponsor |  
+| bip_39_word_space_4 | album cereal sponsor mean |  
+| bip_39_word_space_5 | album cereal sponsor mean century |  
+| bip_39_word_space_6 | album cereal sponsor mean century anxiety |  
+| bip_39_word_space_7 | album cereal sponsor mean century anxiety solve |  
+| bip_39_word_space_8 | album cereal sponsor mean century anxiety solve fork |  
+| bip_39_word_space_9 | album cereal sponsor mean century anxiety solve fork virus |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

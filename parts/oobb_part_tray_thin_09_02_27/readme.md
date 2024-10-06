@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: occur tube
+  * bip 39 word 3: occur tube engine
+  * bip 39 word: occur tube engine trophy donkey hungry height way pet exhibit obvious ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | occur |  
+| bip_39_word_new_br10 | occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry<br>height<br>way<br>pet<br>exhibit |  
+| bip_39_word_new_br11 | occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry<br>height<br>way<br>pet<br>exhibit<br>obvious |  
+| bip_39_word_new_br12 | occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry<br>height<br>way<br>pet<br>exhibit<br>obvious<br>ability |  
+| bip_39_word_new_br2 | occur<br>tube |  
+| bip_39_word_new_br3 | occur<br>tube<br>engine |  
+| bip_39_word_new_br4 | occur<br>tube<br>engine<br>trophy |  
+| bip_39_word_new_br5 | occur<br>tube<br>engine<br>trophy<br>donkey |  
+| bip_39_word_new_br6 | occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry |  
+| bip_39_word_new_br7 | occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry<br>height |  
+| bip_39_word_new_br8 | occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry<br>height<br>way |  
+| bip_39_word_new_br9 | occur<br>tube<br>engine<br>trophy<br>donkey<br>hungry<br>height<br>way<br>pet |  
+| bip_39_word_new_line1 | occur |  
+| bip_39_word_new_line10 | occur
+tube
+engine
+trophy
+donkey
+hungry
+height
+way
+pet
+exhibit |  
+| bip_39_word_new_line11 | occur
+tube
+engine
+trophy
+donkey
+hungry
+height
+way
+pet
+exhibit
+obvious |  
+| bip_39_word_new_line12 | occur
+tube
+engine
+trophy
+donkey
+hungry
+height
+way
+pet
+exhibit
+obvious
+ability |  
+| bip_39_word_new_line2 | occur
+tube |  
+| bip_39_word_new_line3 | occur
+tube
+engine |  
+| bip_39_word_new_line4 | occur
+tube
+engine
+trophy |  
+| bip_39_word_new_line5 | occur
+tube
+engine
+trophy
+donkey |  
+| bip_39_word_new_line6 | occur
+tube
+engine
+trophy
+donkey
+hungry |  
+| bip_39_word_new_line7 | occur
+tube
+engine
+trophy
+donkey
+hungry
+height |  
+| bip_39_word_new_line8 | occur
+tube
+engine
+trophy
+donkey
+hungry
+height
+way |  
+| bip_39_word_new_line9 | occur
+tube
+engine
+trophy
+donkey
+hungry
+height
+way
+pet |  
+| bip_39_word_space_0 | ['occur', 'tube', 'engine', 'trophy', 'donkey', 'hungry', 'height', 'way', 'pet', 'exhibit', 'obvious', 'ability'] |  
+| bip_39_word_space_1 | occur |  
+| bip_39_word_space_10 | occur tube engine trophy donkey hungry height way pet exhibit |  
+| bip_39_word_space_11 | occur tube engine trophy donkey hungry height way pet exhibit obvious |  
+| bip_39_word_space_12 | occur tube engine trophy donkey hungry height way pet exhibit obvious ability |  
+| bip_39_word_space_2 | occur tube |  
+| bip_39_word_space_3 | occur tube engine |  
+| bip_39_word_space_4 | occur tube engine trophy |  
+| bip_39_word_space_5 | occur tube engine trophy donkey |  
+| bip_39_word_space_6 | occur tube engine trophy donkey hungry |  
+| bip_39_word_space_7 | occur tube engine trophy donkey hungry height |  
+| bip_39_word_space_8 | occur tube engine trophy donkey hungry height way |  
+| bip_39_word_space_9 | occur tube engine trophy donkey hungry height way pet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

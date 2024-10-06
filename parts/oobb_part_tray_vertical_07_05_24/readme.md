@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: absorb original
+  * bip 39 word 3: absorb original soda
+  * bip 39 word: absorb original soda glide labor annual dish funny crazy second top absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | absorb |  
+| bip_39_word_new_br10 | absorb<br>original<br>soda<br>glide<br>labor<br>annual<br>dish<br>funny<br>crazy<br>second |  
+| bip_39_word_new_br11 | absorb<br>original<br>soda<br>glide<br>labor<br>annual<br>dish<br>funny<br>crazy<br>second<br>top |  
+| bip_39_word_new_br12 | absorb<br>original<br>soda<br>glide<br>labor<br>annual<br>dish<br>funny<br>crazy<br>second<br>top<br>absurd |  
+| bip_39_word_new_br2 | absorb<br>original |  
+| bip_39_word_new_br3 | absorb<br>original<br>soda |  
+| bip_39_word_new_br4 | absorb<br>original<br>soda<br>glide |  
+| bip_39_word_new_br5 | absorb<br>original<br>soda<br>glide<br>labor |  
+| bip_39_word_new_br6 | absorb<br>original<br>soda<br>glide<br>labor<br>annual |  
+| bip_39_word_new_br7 | absorb<br>original<br>soda<br>glide<br>labor<br>annual<br>dish |  
+| bip_39_word_new_br8 | absorb<br>original<br>soda<br>glide<br>labor<br>annual<br>dish<br>funny |  
+| bip_39_word_new_br9 | absorb<br>original<br>soda<br>glide<br>labor<br>annual<br>dish<br>funny<br>crazy |  
+| bip_39_word_new_line1 | absorb |  
+| bip_39_word_new_line10 | absorb
+original
+soda
+glide
+labor
+annual
+dish
+funny
+crazy
+second |  
+| bip_39_word_new_line11 | absorb
+original
+soda
+glide
+labor
+annual
+dish
+funny
+crazy
+second
+top |  
+| bip_39_word_new_line12 | absorb
+original
+soda
+glide
+labor
+annual
+dish
+funny
+crazy
+second
+top
+absurd |  
+| bip_39_word_new_line2 | absorb
+original |  
+| bip_39_word_new_line3 | absorb
+original
+soda |  
+| bip_39_word_new_line4 | absorb
+original
+soda
+glide |  
+| bip_39_word_new_line5 | absorb
+original
+soda
+glide
+labor |  
+| bip_39_word_new_line6 | absorb
+original
+soda
+glide
+labor
+annual |  
+| bip_39_word_new_line7 | absorb
+original
+soda
+glide
+labor
+annual
+dish |  
+| bip_39_word_new_line8 | absorb
+original
+soda
+glide
+labor
+annual
+dish
+funny |  
+| bip_39_word_new_line9 | absorb
+original
+soda
+glide
+labor
+annual
+dish
+funny
+crazy |  
+| bip_39_word_space_0 | ['absorb', 'original', 'soda', 'glide', 'labor', 'annual', 'dish', 'funny', 'crazy', 'second', 'top', 'absurd'] |  
+| bip_39_word_space_1 | absorb |  
+| bip_39_word_space_10 | absorb original soda glide labor annual dish funny crazy second |  
+| bip_39_word_space_11 | absorb original soda glide labor annual dish funny crazy second top |  
+| bip_39_word_space_12 | absorb original soda glide labor annual dish funny crazy second top absurd |  
+| bip_39_word_space_2 | absorb original |  
+| bip_39_word_space_3 | absorb original soda |  
+| bip_39_word_space_4 | absorb original soda glide |  
+| bip_39_word_space_5 | absorb original soda glide labor |  
+| bip_39_word_space_6 | absorb original soda glide labor annual |  
+| bip_39_word_space_7 | absorb original soda glide labor annual dish |  
+| bip_39_word_space_8 | absorb original soda glide labor annual dish funny |  
+| bip_39_word_space_9 | absorb original soda glide labor annual dish funny crazy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

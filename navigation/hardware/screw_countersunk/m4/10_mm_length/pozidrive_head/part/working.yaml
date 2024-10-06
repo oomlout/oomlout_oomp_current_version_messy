@@ -1,3 +1,186 @@
+bip_39_word_new_br1: zone
+bip_39_word_new_br10: zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance
+bip_39_word_new_br11: zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance<br>crouch
+bip_39_word_new_br12: zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind<br>glance<br>crouch<br>absurd
+bip_39_word_new_br2: zone<br>silly
+bip_39_word_new_br3: zone<br>silly<br>situate
+bip_39_word_new_br4: zone<br>silly<br>situate<br>myth
+bip_39_word_new_br5: zone<br>silly<br>situate<br>myth<br>brain
+bip_39_word_new_br6: zone<br>silly<br>situate<br>myth<br>brain<br>empty
+bip_39_word_new_br7: zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune
+bip_39_word_new_br8: zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe
+bip_39_word_new_br9: zone<br>silly<br>situate<br>myth<br>brain<br>empty<br>fortune<br>toe<br>remind
+bip_39_word_new_line1: zone
+bip_39_word_new_line10: 'zone
+
+  silly
+
+  situate
+
+  myth
+
+  brain
+
+  empty
+
+  fortune
+
+  toe
+
+  remind
+
+  glance'
+bip_39_word_new_line11: 'zone
+
+  silly
+
+  situate
+
+  myth
+
+  brain
+
+  empty
+
+  fortune
+
+  toe
+
+  remind
+
+  glance
+
+  crouch'
+bip_39_word_new_line12: 'zone
+
+  silly
+
+  situate
+
+  myth
+
+  brain
+
+  empty
+
+  fortune
+
+  toe
+
+  remind
+
+  glance
+
+  crouch
+
+  absurd'
+bip_39_word_new_line2: 'zone
+
+  silly'
+bip_39_word_new_line3: 'zone
+
+  silly
+
+  situate'
+bip_39_word_new_line4: 'zone
+
+  silly
+
+  situate
+
+  myth'
+bip_39_word_new_line5: 'zone
+
+  silly
+
+  situate
+
+  myth
+
+  brain'
+bip_39_word_new_line6: 'zone
+
+  silly
+
+  situate
+
+  myth
+
+  brain
+
+  empty'
+bip_39_word_new_line7: 'zone
+
+  silly
+
+  situate
+
+  myth
+
+  brain
+
+  empty
+
+  fortune'
+bip_39_word_new_line8: 'zone
+
+  silly
+
+  situate
+
+  myth
+
+  brain
+
+  empty
+
+  fortune
+
+  toe'
+bip_39_word_new_line9: 'zone
+
+  silly
+
+  situate
+
+  myth
+
+  brain
+
+  empty
+
+  fortune
+
+  toe
+
+  remind'
+bip_39_word_space_0:
+- zone
+- silly
+- situate
+- myth
+- brain
+- empty
+- fortune
+- toe
+- remind
+- glance
+- crouch
+- absurd
+bip_39_word_space_1: zone
+bip_39_word_space_10: zone silly situate myth brain empty fortune toe remind glance
+bip_39_word_space_11: zone silly situate myth brain empty fortune toe remind glance
+  crouch
+bip_39_word_space_12: zone silly situate myth brain empty fortune toe remind glance
+  crouch absurd
+bip_39_word_space_2: zone silly
+bip_39_word_space_3: zone silly situate
+bip_39_word_space_4: zone silly situate myth
+bip_39_word_space_5: zone silly situate myth brain
+bip_39_word_space_6: zone silly situate myth brain empty
+bip_39_word_space_7: zone silly situate myth brain empty fortune
+bip_39_word_space_8: zone silly situate myth brain empty fortune toe
+bip_39_word_space_9: zone silly situate myth brain empty fortune toe remind
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

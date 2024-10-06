@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gain dry
+  * bip 39 word 3: gain dry song
+  * bip 39 word: gain dry song brand example crisp report blossom wash judge script army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gain |  
+| bip_39_word_new_br10 | gain<br>dry<br>song<br>brand<br>example<br>crisp<br>report<br>blossom<br>wash<br>judge |  
+| bip_39_word_new_br11 | gain<br>dry<br>song<br>brand<br>example<br>crisp<br>report<br>blossom<br>wash<br>judge<br>script |  
+| bip_39_word_new_br12 | gain<br>dry<br>song<br>brand<br>example<br>crisp<br>report<br>blossom<br>wash<br>judge<br>script<br>army |  
+| bip_39_word_new_br2 | gain<br>dry |  
+| bip_39_word_new_br3 | gain<br>dry<br>song |  
+| bip_39_word_new_br4 | gain<br>dry<br>song<br>brand |  
+| bip_39_word_new_br5 | gain<br>dry<br>song<br>brand<br>example |  
+| bip_39_word_new_br6 | gain<br>dry<br>song<br>brand<br>example<br>crisp |  
+| bip_39_word_new_br7 | gain<br>dry<br>song<br>brand<br>example<br>crisp<br>report |  
+| bip_39_word_new_br8 | gain<br>dry<br>song<br>brand<br>example<br>crisp<br>report<br>blossom |  
+| bip_39_word_new_br9 | gain<br>dry<br>song<br>brand<br>example<br>crisp<br>report<br>blossom<br>wash |  
+| bip_39_word_new_line1 | gain |  
+| bip_39_word_new_line10 | gain
+dry
+song
+brand
+example
+crisp
+report
+blossom
+wash
+judge |  
+| bip_39_word_new_line11 | gain
+dry
+song
+brand
+example
+crisp
+report
+blossom
+wash
+judge
+script |  
+| bip_39_word_new_line12 | gain
+dry
+song
+brand
+example
+crisp
+report
+blossom
+wash
+judge
+script
+army |  
+| bip_39_word_new_line2 | gain
+dry |  
+| bip_39_word_new_line3 | gain
+dry
+song |  
+| bip_39_word_new_line4 | gain
+dry
+song
+brand |  
+| bip_39_word_new_line5 | gain
+dry
+song
+brand
+example |  
+| bip_39_word_new_line6 | gain
+dry
+song
+brand
+example
+crisp |  
+| bip_39_word_new_line7 | gain
+dry
+song
+brand
+example
+crisp
+report |  
+| bip_39_word_new_line8 | gain
+dry
+song
+brand
+example
+crisp
+report
+blossom |  
+| bip_39_word_new_line9 | gain
+dry
+song
+brand
+example
+crisp
+report
+blossom
+wash |  
+| bip_39_word_space_0 | ['gain', 'dry', 'song', 'brand', 'example', 'crisp', 'report', 'blossom', 'wash', 'judge', 'script', 'army'] |  
+| bip_39_word_space_1 | gain |  
+| bip_39_word_space_10 | gain dry song brand example crisp report blossom wash judge |  
+| bip_39_word_space_11 | gain dry song brand example crisp report blossom wash judge script |  
+| bip_39_word_space_12 | gain dry song brand example crisp report blossom wash judge script army |  
+| bip_39_word_space_2 | gain dry |  
+| bip_39_word_space_3 | gain dry song |  
+| bip_39_word_space_4 | gain dry song brand |  
+| bip_39_word_space_5 | gain dry song brand example |  
+| bip_39_word_space_6 | gain dry song brand example crisp |  
+| bip_39_word_space_7 | gain dry song brand example crisp report |  
+| bip_39_word_space_8 | gain dry song brand example crisp report blossom |  
+| bip_39_word_space_9 | gain dry song brand example crisp report blossom wash |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chat
+bip_39_word_new_br10: chat<br>snow<br>hire<br>assist<br>sort<br>coast<br>embrace<br>ride<br>plunge<br>crucial
+bip_39_word_new_br11: chat<br>snow<br>hire<br>assist<br>sort<br>coast<br>embrace<br>ride<br>plunge<br>crucial<br>voice
+bip_39_word_new_br12: chat<br>snow<br>hire<br>assist<br>sort<br>coast<br>embrace<br>ride<br>plunge<br>crucial<br>voice<br>assume
+bip_39_word_new_br2: chat<br>snow
+bip_39_word_new_br3: chat<br>snow<br>hire
+bip_39_word_new_br4: chat<br>snow<br>hire<br>assist
+bip_39_word_new_br5: chat<br>snow<br>hire<br>assist<br>sort
+bip_39_word_new_br6: chat<br>snow<br>hire<br>assist<br>sort<br>coast
+bip_39_word_new_br7: chat<br>snow<br>hire<br>assist<br>sort<br>coast<br>embrace
+bip_39_word_new_br8: chat<br>snow<br>hire<br>assist<br>sort<br>coast<br>embrace<br>ride
+bip_39_word_new_br9: chat<br>snow<br>hire<br>assist<br>sort<br>coast<br>embrace<br>ride<br>plunge
+bip_39_word_new_line1: chat
+bip_39_word_new_line10: 'chat
+
+  snow
+
+  hire
+
+  assist
+
+  sort
+
+  coast
+
+  embrace
+
+  ride
+
+  plunge
+
+  crucial'
+bip_39_word_new_line11: 'chat
+
+  snow
+
+  hire
+
+  assist
+
+  sort
+
+  coast
+
+  embrace
+
+  ride
+
+  plunge
+
+  crucial
+
+  voice'
+bip_39_word_new_line12: 'chat
+
+  snow
+
+  hire
+
+  assist
+
+  sort
+
+  coast
+
+  embrace
+
+  ride
+
+  plunge
+
+  crucial
+
+  voice
+
+  assume'
+bip_39_word_new_line2: 'chat
+
+  snow'
+bip_39_word_new_line3: 'chat
+
+  snow
+
+  hire'
+bip_39_word_new_line4: 'chat
+
+  snow
+
+  hire
+
+  assist'
+bip_39_word_new_line5: 'chat
+
+  snow
+
+  hire
+
+  assist
+
+  sort'
+bip_39_word_new_line6: 'chat
+
+  snow
+
+  hire
+
+  assist
+
+  sort
+
+  coast'
+bip_39_word_new_line7: 'chat
+
+  snow
+
+  hire
+
+  assist
+
+  sort
+
+  coast
+
+  embrace'
+bip_39_word_new_line8: 'chat
+
+  snow
+
+  hire
+
+  assist
+
+  sort
+
+  coast
+
+  embrace
+
+  ride'
+bip_39_word_new_line9: 'chat
+
+  snow
+
+  hire
+
+  assist
+
+  sort
+
+  coast
+
+  embrace
+
+  ride
+
+  plunge'
+bip_39_word_space_0:
+- chat
+- snow
+- hire
+- assist
+- sort
+- coast
+- embrace
+- ride
+- plunge
+- crucial
+- voice
+- assume
+bip_39_word_space_1: chat
+bip_39_word_space_10: chat snow hire assist sort coast embrace ride plunge crucial
+bip_39_word_space_11: chat snow hire assist sort coast embrace ride plunge crucial
+  voice
+bip_39_word_space_12: chat snow hire assist sort coast embrace ride plunge crucial
+  voice assume
+bip_39_word_space_2: chat snow
+bip_39_word_space_3: chat snow hire
+bip_39_word_space_4: chat snow hire assist
+bip_39_word_space_5: chat snow hire assist sort
+bip_39_word_space_6: chat snow hire assist sort coast
+bip_39_word_space_7: chat snow hire assist sort coast embrace
+bip_39_word_space_8: chat snow hire assist sort coast embrace ride
+bip_39_word_space_9: chat snow hire assist sort coast embrace ride plunge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

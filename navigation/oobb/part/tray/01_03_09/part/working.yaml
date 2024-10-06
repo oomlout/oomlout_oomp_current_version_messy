@@ -1,3 +1,187 @@
+bip_39_word_new_br1: define
+bip_39_word_new_br10: define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must
+bip_39_word_new_br11: define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must<br>lonely
+bip_39_word_new_br12: define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer<br>must<br>lonely<br>area
+bip_39_word_new_br2: define<br>oxygen
+bip_39_word_new_br3: define<br>oxygen<br>level
+bip_39_word_new_br4: define<br>oxygen<br>level<br>fever
+bip_39_word_new_br5: define<br>oxygen<br>level<br>fever<br>stand
+bip_39_word_new_br6: define<br>oxygen<br>level<br>fever<br>stand<br>please
+bip_39_word_new_br7: define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise
+bip_39_word_new_br8: define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny
+bip_39_word_new_br9: define<br>oxygen<br>level<br>fever<br>stand<br>please<br>exercise<br>funny<br>soccer
+bip_39_word_new_line1: define
+bip_39_word_new_line10: 'define
+
+  oxygen
+
+  level
+
+  fever
+
+  stand
+
+  please
+
+  exercise
+
+  funny
+
+  soccer
+
+  must'
+bip_39_word_new_line11: 'define
+
+  oxygen
+
+  level
+
+  fever
+
+  stand
+
+  please
+
+  exercise
+
+  funny
+
+  soccer
+
+  must
+
+  lonely'
+bip_39_word_new_line12: 'define
+
+  oxygen
+
+  level
+
+  fever
+
+  stand
+
+  please
+
+  exercise
+
+  funny
+
+  soccer
+
+  must
+
+  lonely
+
+  area'
+bip_39_word_new_line2: 'define
+
+  oxygen'
+bip_39_word_new_line3: 'define
+
+  oxygen
+
+  level'
+bip_39_word_new_line4: 'define
+
+  oxygen
+
+  level
+
+  fever'
+bip_39_word_new_line5: 'define
+
+  oxygen
+
+  level
+
+  fever
+
+  stand'
+bip_39_word_new_line6: 'define
+
+  oxygen
+
+  level
+
+  fever
+
+  stand
+
+  please'
+bip_39_word_new_line7: 'define
+
+  oxygen
+
+  level
+
+  fever
+
+  stand
+
+  please
+
+  exercise'
+bip_39_word_new_line8: 'define
+
+  oxygen
+
+  level
+
+  fever
+
+  stand
+
+  please
+
+  exercise
+
+  funny'
+bip_39_word_new_line9: 'define
+
+  oxygen
+
+  level
+
+  fever
+
+  stand
+
+  please
+
+  exercise
+
+  funny
+
+  soccer'
+bip_39_word_space_0:
+- define
+- oxygen
+- level
+- fever
+- stand
+- please
+- exercise
+- funny
+- soccer
+- must
+- lonely
+- area
+bip_39_word_space_1: define
+bip_39_word_space_10: define oxygen level fever stand please exercise funny soccer
+  must
+bip_39_word_space_11: define oxygen level fever stand please exercise funny soccer
+  must lonely
+bip_39_word_space_12: define oxygen level fever stand please exercise funny soccer
+  must lonely area
+bip_39_word_space_2: define oxygen
+bip_39_word_space_3: define oxygen level
+bip_39_word_space_4: define oxygen level fever
+bip_39_word_space_5: define oxygen level fever stand
+bip_39_word_space_6: define oxygen level fever stand please
+bip_39_word_space_7: define oxygen level fever stand please exercise
+bip_39_word_space_8: define oxygen level fever stand please exercise funny
+bip_39_word_space_9: define oxygen level fever stand please exercise funny soccer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

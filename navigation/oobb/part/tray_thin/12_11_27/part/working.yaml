@@ -1,3 +1,187 @@
+bip_39_word_new_br1: service
+bip_39_word_new_br10: service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend
+bip_39_word_new_br11: service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend<br>liberty
+bip_39_word_new_br12: service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight<br>depend<br>liberty<br>artist
+bip_39_word_new_br2: service<br>ask
+bip_39_word_new_br3: service<br>ask<br>sting
+bip_39_word_new_br4: service<br>ask<br>sting<br>throw
+bip_39_word_new_br5: service<br>ask<br>sting<br>throw<br>curious
+bip_39_word_new_br6: service<br>ask<br>sting<br>throw<br>curious<br>carpet
+bip_39_word_new_br7: service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther
+bip_39_word_new_br8: service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order
+bip_39_word_new_br9: service<br>ask<br>sting<br>throw<br>curious<br>carpet<br>panther<br>order<br>flight
+bip_39_word_new_line1: service
+bip_39_word_new_line10: 'service
+
+  ask
+
+  sting
+
+  throw
+
+  curious
+
+  carpet
+
+  panther
+
+  order
+
+  flight
+
+  depend'
+bip_39_word_new_line11: 'service
+
+  ask
+
+  sting
+
+  throw
+
+  curious
+
+  carpet
+
+  panther
+
+  order
+
+  flight
+
+  depend
+
+  liberty'
+bip_39_word_new_line12: 'service
+
+  ask
+
+  sting
+
+  throw
+
+  curious
+
+  carpet
+
+  panther
+
+  order
+
+  flight
+
+  depend
+
+  liberty
+
+  artist'
+bip_39_word_new_line2: 'service
+
+  ask'
+bip_39_word_new_line3: 'service
+
+  ask
+
+  sting'
+bip_39_word_new_line4: 'service
+
+  ask
+
+  sting
+
+  throw'
+bip_39_word_new_line5: 'service
+
+  ask
+
+  sting
+
+  throw
+
+  curious'
+bip_39_word_new_line6: 'service
+
+  ask
+
+  sting
+
+  throw
+
+  curious
+
+  carpet'
+bip_39_word_new_line7: 'service
+
+  ask
+
+  sting
+
+  throw
+
+  curious
+
+  carpet
+
+  panther'
+bip_39_word_new_line8: 'service
+
+  ask
+
+  sting
+
+  throw
+
+  curious
+
+  carpet
+
+  panther
+
+  order'
+bip_39_word_new_line9: 'service
+
+  ask
+
+  sting
+
+  throw
+
+  curious
+
+  carpet
+
+  panther
+
+  order
+
+  flight'
+bip_39_word_space_0:
+- service
+- ask
+- sting
+- throw
+- curious
+- carpet
+- panther
+- order
+- flight
+- depend
+- liberty
+- artist
+bip_39_word_space_1: service
+bip_39_word_space_10: service ask sting throw curious carpet panther order flight
+  depend
+bip_39_word_space_11: service ask sting throw curious carpet panther order flight
+  depend liberty
+bip_39_word_space_12: service ask sting throw curious carpet panther order flight
+  depend liberty artist
+bip_39_word_space_2: service ask
+bip_39_word_space_3: service ask sting
+bip_39_word_space_4: service ask sting throw
+bip_39_word_space_5: service ask sting throw curious
+bip_39_word_space_6: service ask sting throw curious carpet
+bip_39_word_space_7: service ask sting throw curious carpet panther
+bip_39_word_space_8: service ask sting throw curious carpet panther order
+bip_39_word_space_9: service ask sting throw curious carpet panther order flight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

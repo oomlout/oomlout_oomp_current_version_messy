@@ -1,3 +1,185 @@
+bip_39_word_new_br1: dove
+bip_39_word_new_br10: dove<br>slogan<br>team<br>april<br>step<br>any<br>neutral<br>flush<br>solar<br>flush
+bip_39_word_new_br11: dove<br>slogan<br>team<br>april<br>step<br>any<br>neutral<br>flush<br>solar<br>flush<br>huge
+bip_39_word_new_br12: dove<br>slogan<br>team<br>april<br>step<br>any<br>neutral<br>flush<br>solar<br>flush<br>huge<br>arena
+bip_39_word_new_br2: dove<br>slogan
+bip_39_word_new_br3: dove<br>slogan<br>team
+bip_39_word_new_br4: dove<br>slogan<br>team<br>april
+bip_39_word_new_br5: dove<br>slogan<br>team<br>april<br>step
+bip_39_word_new_br6: dove<br>slogan<br>team<br>april<br>step<br>any
+bip_39_word_new_br7: dove<br>slogan<br>team<br>april<br>step<br>any<br>neutral
+bip_39_word_new_br8: dove<br>slogan<br>team<br>april<br>step<br>any<br>neutral<br>flush
+bip_39_word_new_br9: dove<br>slogan<br>team<br>april<br>step<br>any<br>neutral<br>flush<br>solar
+bip_39_word_new_line1: dove
+bip_39_word_new_line10: 'dove
+
+  slogan
+
+  team
+
+  april
+
+  step
+
+  any
+
+  neutral
+
+  flush
+
+  solar
+
+  flush'
+bip_39_word_new_line11: 'dove
+
+  slogan
+
+  team
+
+  april
+
+  step
+
+  any
+
+  neutral
+
+  flush
+
+  solar
+
+  flush
+
+  huge'
+bip_39_word_new_line12: 'dove
+
+  slogan
+
+  team
+
+  april
+
+  step
+
+  any
+
+  neutral
+
+  flush
+
+  solar
+
+  flush
+
+  huge
+
+  arena'
+bip_39_word_new_line2: 'dove
+
+  slogan'
+bip_39_word_new_line3: 'dove
+
+  slogan
+
+  team'
+bip_39_word_new_line4: 'dove
+
+  slogan
+
+  team
+
+  april'
+bip_39_word_new_line5: 'dove
+
+  slogan
+
+  team
+
+  april
+
+  step'
+bip_39_word_new_line6: 'dove
+
+  slogan
+
+  team
+
+  april
+
+  step
+
+  any'
+bip_39_word_new_line7: 'dove
+
+  slogan
+
+  team
+
+  april
+
+  step
+
+  any
+
+  neutral'
+bip_39_word_new_line8: 'dove
+
+  slogan
+
+  team
+
+  april
+
+  step
+
+  any
+
+  neutral
+
+  flush'
+bip_39_word_new_line9: 'dove
+
+  slogan
+
+  team
+
+  april
+
+  step
+
+  any
+
+  neutral
+
+  flush
+
+  solar'
+bip_39_word_space_0:
+- dove
+- slogan
+- team
+- april
+- step
+- any
+- neutral
+- flush
+- solar
+- flush
+- huge
+- arena
+bip_39_word_space_1: dove
+bip_39_word_space_10: dove slogan team april step any neutral flush solar flush
+bip_39_word_space_11: dove slogan team april step any neutral flush solar flush huge
+bip_39_word_space_12: dove slogan team april step any neutral flush solar flush huge
+  arena
+bip_39_word_space_2: dove slogan
+bip_39_word_space_3: dove slogan team
+bip_39_word_space_4: dove slogan team april
+bip_39_word_space_5: dove slogan team april step
+bip_39_word_space_6: dove slogan team april step any
+bip_39_word_space_7: dove slogan team april step any neutral
+bip_39_word_space_8: dove slogan team april step any neutral flush
+bip_39_word_space_9: dove slogan team april step any neutral flush solar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

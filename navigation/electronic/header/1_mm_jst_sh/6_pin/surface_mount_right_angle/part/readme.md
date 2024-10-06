@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alley furnace
+  * bip 39 word 3: alley furnace deliver
+  * bip 39 word: alley furnace deliver uphold hand edit divide true wet what wrestle apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alley |  
+| bip_39_word_new_br10 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit<br>divide<br>true<br>wet<br>what |  
+| bip_39_word_new_br11 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit<br>divide<br>true<br>wet<br>what<br>wrestle |  
+| bip_39_word_new_br12 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit<br>divide<br>true<br>wet<br>what<br>wrestle<br>apart |  
+| bip_39_word_new_br2 | alley<br>furnace |  
+| bip_39_word_new_br3 | alley<br>furnace<br>deliver |  
+| bip_39_word_new_br4 | alley<br>furnace<br>deliver<br>uphold |  
+| bip_39_word_new_br5 | alley<br>furnace<br>deliver<br>uphold<br>hand |  
+| bip_39_word_new_br6 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit |  
+| bip_39_word_new_br7 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit<br>divide |  
+| bip_39_word_new_br8 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit<br>divide<br>true |  
+| bip_39_word_new_br9 | alley<br>furnace<br>deliver<br>uphold<br>hand<br>edit<br>divide<br>true<br>wet |  
+| bip_39_word_new_line1 | alley |  
+| bip_39_word_new_line10 | alley
+furnace
+deliver
+uphold
+hand
+edit
+divide
+true
+wet
+what |  
+| bip_39_word_new_line11 | alley
+furnace
+deliver
+uphold
+hand
+edit
+divide
+true
+wet
+what
+wrestle |  
+| bip_39_word_new_line12 | alley
+furnace
+deliver
+uphold
+hand
+edit
+divide
+true
+wet
+what
+wrestle
+apart |  
+| bip_39_word_new_line2 | alley
+furnace |  
+| bip_39_word_new_line3 | alley
+furnace
+deliver |  
+| bip_39_word_new_line4 | alley
+furnace
+deliver
+uphold |  
+| bip_39_word_new_line5 | alley
+furnace
+deliver
+uphold
+hand |  
+| bip_39_word_new_line6 | alley
+furnace
+deliver
+uphold
+hand
+edit |  
+| bip_39_word_new_line7 | alley
+furnace
+deliver
+uphold
+hand
+edit
+divide |  
+| bip_39_word_new_line8 | alley
+furnace
+deliver
+uphold
+hand
+edit
+divide
+true |  
+| bip_39_word_new_line9 | alley
+furnace
+deliver
+uphold
+hand
+edit
+divide
+true
+wet |  
+| bip_39_word_space_0 | ['alley', 'furnace', 'deliver', 'uphold', 'hand', 'edit', 'divide', 'true', 'wet', 'what', 'wrestle', 'apart'] |  
+| bip_39_word_space_1 | alley |  
+| bip_39_word_space_10 | alley furnace deliver uphold hand edit divide true wet what |  
+| bip_39_word_space_11 | alley furnace deliver uphold hand edit divide true wet what wrestle |  
+| bip_39_word_space_12 | alley furnace deliver uphold hand edit divide true wet what wrestle apart |  
+| bip_39_word_space_2 | alley furnace |  
+| bip_39_word_space_3 | alley furnace deliver |  
+| bip_39_word_space_4 | alley furnace deliver uphold |  
+| bip_39_word_space_5 | alley furnace deliver uphold hand |  
+| bip_39_word_space_6 | alley furnace deliver uphold hand edit |  
+| bip_39_word_space_7 | alley furnace deliver uphold hand edit divide |  
+| bip_39_word_space_8 | alley furnace deliver uphold hand edit divide true |  
+| bip_39_word_space_9 | alley furnace deliver uphold hand edit divide true wet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

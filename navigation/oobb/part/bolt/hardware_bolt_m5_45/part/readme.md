@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dust rude
+  * bip 39 word 3: dust rude honey
+  * bip 39 word: dust rude honey utility brave club make silver general duty setup acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dust |  
+| bip_39_word_new_br10 | dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general<br>duty |  
+| bip_39_word_new_br11 | dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general<br>duty<br>setup |  
+| bip_39_word_new_br12 | dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general<br>duty<br>setup<br>acid |  
+| bip_39_word_new_br2 | dust<br>rude |  
+| bip_39_word_new_br3 | dust<br>rude<br>honey |  
+| bip_39_word_new_br4 | dust<br>rude<br>honey<br>utility |  
+| bip_39_word_new_br5 | dust<br>rude<br>honey<br>utility<br>brave |  
+| bip_39_word_new_br6 | dust<br>rude<br>honey<br>utility<br>brave<br>club |  
+| bip_39_word_new_br7 | dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make |  
+| bip_39_word_new_br8 | dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver |  
+| bip_39_word_new_br9 | dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general |  
+| bip_39_word_new_line1 | dust |  
+| bip_39_word_new_line10 | dust
+rude
+honey
+utility
+brave
+club
+make
+silver
+general
+duty |  
+| bip_39_word_new_line11 | dust
+rude
+honey
+utility
+brave
+club
+make
+silver
+general
+duty
+setup |  
+| bip_39_word_new_line12 | dust
+rude
+honey
+utility
+brave
+club
+make
+silver
+general
+duty
+setup
+acid |  
+| bip_39_word_new_line2 | dust
+rude |  
+| bip_39_word_new_line3 | dust
+rude
+honey |  
+| bip_39_word_new_line4 | dust
+rude
+honey
+utility |  
+| bip_39_word_new_line5 | dust
+rude
+honey
+utility
+brave |  
+| bip_39_word_new_line6 | dust
+rude
+honey
+utility
+brave
+club |  
+| bip_39_word_new_line7 | dust
+rude
+honey
+utility
+brave
+club
+make |  
+| bip_39_word_new_line8 | dust
+rude
+honey
+utility
+brave
+club
+make
+silver |  
+| bip_39_word_new_line9 | dust
+rude
+honey
+utility
+brave
+club
+make
+silver
+general |  
+| bip_39_word_space_0 | ['dust', 'rude', 'honey', 'utility', 'brave', 'club', 'make', 'silver', 'general', 'duty', 'setup', 'acid'] |  
+| bip_39_word_space_1 | dust |  
+| bip_39_word_space_10 | dust rude honey utility brave club make silver general duty |  
+| bip_39_word_space_11 | dust rude honey utility brave club make silver general duty setup |  
+| bip_39_word_space_12 | dust rude honey utility brave club make silver general duty setup acid |  
+| bip_39_word_space_2 | dust rude |  
+| bip_39_word_space_3 | dust rude honey |  
+| bip_39_word_space_4 | dust rude honey utility |  
+| bip_39_word_space_5 | dust rude honey utility brave |  
+| bip_39_word_space_6 | dust rude honey utility brave club |  
+| bip_39_word_space_7 | dust rude honey utility brave club make |  
+| bip_39_word_space_8 | dust rude honey utility brave club make silver |  
+| bip_39_word_space_9 | dust rude honey utility brave club make silver general |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

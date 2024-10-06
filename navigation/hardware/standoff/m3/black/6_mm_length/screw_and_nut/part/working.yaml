@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bunker
+bip_39_word_new_br10: bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind<br>cheese<br>flat<br>armed<br>hole
+bip_39_word_new_br11: bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind<br>cheese<br>flat<br>armed<br>hole<br>can
+bip_39_word_new_br12: bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind<br>cheese<br>flat<br>armed<br>hole<br>can<br>animal
+bip_39_word_new_br2: bunker<br>lounge
+bip_39_word_new_br3: bunker<br>lounge<br>sort
+bip_39_word_new_br4: bunker<br>lounge<br>sort<br>gasp
+bip_39_word_new_br5: bunker<br>lounge<br>sort<br>gasp<br>caught
+bip_39_word_new_br6: bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind
+bip_39_word_new_br7: bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind<br>cheese
+bip_39_word_new_br8: bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind<br>cheese<br>flat
+bip_39_word_new_br9: bunker<br>lounge<br>sort<br>gasp<br>caught<br>blind<br>cheese<br>flat<br>armed
+bip_39_word_new_line1: bunker
+bip_39_word_new_line10: 'bunker
+
+  lounge
+
+  sort
+
+  gasp
+
+  caught
+
+  blind
+
+  cheese
+
+  flat
+
+  armed
+
+  hole'
+bip_39_word_new_line11: 'bunker
+
+  lounge
+
+  sort
+
+  gasp
+
+  caught
+
+  blind
+
+  cheese
+
+  flat
+
+  armed
+
+  hole
+
+  can'
+bip_39_word_new_line12: 'bunker
+
+  lounge
+
+  sort
+
+  gasp
+
+  caught
+
+  blind
+
+  cheese
+
+  flat
+
+  armed
+
+  hole
+
+  can
+
+  animal'
+bip_39_word_new_line2: 'bunker
+
+  lounge'
+bip_39_word_new_line3: 'bunker
+
+  lounge
+
+  sort'
+bip_39_word_new_line4: 'bunker
+
+  lounge
+
+  sort
+
+  gasp'
+bip_39_word_new_line5: 'bunker
+
+  lounge
+
+  sort
+
+  gasp
+
+  caught'
+bip_39_word_new_line6: 'bunker
+
+  lounge
+
+  sort
+
+  gasp
+
+  caught
+
+  blind'
+bip_39_word_new_line7: 'bunker
+
+  lounge
+
+  sort
+
+  gasp
+
+  caught
+
+  blind
+
+  cheese'
+bip_39_word_new_line8: 'bunker
+
+  lounge
+
+  sort
+
+  gasp
+
+  caught
+
+  blind
+
+  cheese
+
+  flat'
+bip_39_word_new_line9: 'bunker
+
+  lounge
+
+  sort
+
+  gasp
+
+  caught
+
+  blind
+
+  cheese
+
+  flat
+
+  armed'
+bip_39_word_space_0:
+- bunker
+- lounge
+- sort
+- gasp
+- caught
+- blind
+- cheese
+- flat
+- armed
+- hole
+- can
+- animal
+bip_39_word_space_1: bunker
+bip_39_word_space_10: bunker lounge sort gasp caught blind cheese flat armed hole
+bip_39_word_space_11: bunker lounge sort gasp caught blind cheese flat armed hole
+  can
+bip_39_word_space_12: bunker lounge sort gasp caught blind cheese flat armed hole
+  can animal
+bip_39_word_space_2: bunker lounge
+bip_39_word_space_3: bunker lounge sort
+bip_39_word_space_4: bunker lounge sort gasp
+bip_39_word_space_5: bunker lounge sort gasp caught
+bip_39_word_space_6: bunker lounge sort gasp caught blind
+bip_39_word_space_7: bunker lounge sort gasp caught blind cheese
+bip_39_word_space_8: bunker lounge sort gasp caught blind cheese flat
+bip_39_word_space_9: bunker lounge sort gasp caught blind cheese flat armed
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

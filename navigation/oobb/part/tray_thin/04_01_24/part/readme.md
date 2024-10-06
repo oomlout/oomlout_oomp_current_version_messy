@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: same host
+  * bip 39 word 3: same host talk
+  * bip 39 word: same host talk angry opera proud neutral panel family noodle key address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | same |  
+| bip_39_word_new_br10 | same<br>host<br>talk<br>angry<br>opera<br>proud<br>neutral<br>panel<br>family<br>noodle |  
+| bip_39_word_new_br11 | same<br>host<br>talk<br>angry<br>opera<br>proud<br>neutral<br>panel<br>family<br>noodle<br>key |  
+| bip_39_word_new_br12 | same<br>host<br>talk<br>angry<br>opera<br>proud<br>neutral<br>panel<br>family<br>noodle<br>key<br>address |  
+| bip_39_word_new_br2 | same<br>host |  
+| bip_39_word_new_br3 | same<br>host<br>talk |  
+| bip_39_word_new_br4 | same<br>host<br>talk<br>angry |  
+| bip_39_word_new_br5 | same<br>host<br>talk<br>angry<br>opera |  
+| bip_39_word_new_br6 | same<br>host<br>talk<br>angry<br>opera<br>proud |  
+| bip_39_word_new_br7 | same<br>host<br>talk<br>angry<br>opera<br>proud<br>neutral |  
+| bip_39_word_new_br8 | same<br>host<br>talk<br>angry<br>opera<br>proud<br>neutral<br>panel |  
+| bip_39_word_new_br9 | same<br>host<br>talk<br>angry<br>opera<br>proud<br>neutral<br>panel<br>family |  
+| bip_39_word_new_line1 | same |  
+| bip_39_word_new_line10 | same
+host
+talk
+angry
+opera
+proud
+neutral
+panel
+family
+noodle |  
+| bip_39_word_new_line11 | same
+host
+talk
+angry
+opera
+proud
+neutral
+panel
+family
+noodle
+key |  
+| bip_39_word_new_line12 | same
+host
+talk
+angry
+opera
+proud
+neutral
+panel
+family
+noodle
+key
+address |  
+| bip_39_word_new_line2 | same
+host |  
+| bip_39_word_new_line3 | same
+host
+talk |  
+| bip_39_word_new_line4 | same
+host
+talk
+angry |  
+| bip_39_word_new_line5 | same
+host
+talk
+angry
+opera |  
+| bip_39_word_new_line6 | same
+host
+talk
+angry
+opera
+proud |  
+| bip_39_word_new_line7 | same
+host
+talk
+angry
+opera
+proud
+neutral |  
+| bip_39_word_new_line8 | same
+host
+talk
+angry
+opera
+proud
+neutral
+panel |  
+| bip_39_word_new_line9 | same
+host
+talk
+angry
+opera
+proud
+neutral
+panel
+family |  
+| bip_39_word_space_0 | ['same', 'host', 'talk', 'angry', 'opera', 'proud', 'neutral', 'panel', 'family', 'noodle', 'key', 'address'] |  
+| bip_39_word_space_1 | same |  
+| bip_39_word_space_10 | same host talk angry opera proud neutral panel family noodle |  
+| bip_39_word_space_11 | same host talk angry opera proud neutral panel family noodle key |  
+| bip_39_word_space_12 | same host talk angry opera proud neutral panel family noodle key address |  
+| bip_39_word_space_2 | same host |  
+| bip_39_word_space_3 | same host talk |  
+| bip_39_word_space_4 | same host talk angry |  
+| bip_39_word_space_5 | same host talk angry opera |  
+| bip_39_word_space_6 | same host talk angry opera proud |  
+| bip_39_word_space_7 | same host talk angry opera proud neutral |  
+| bip_39_word_space_8 | same host talk angry opera proud neutral panel |  
+| bip_39_word_space_9 | same host talk angry opera proud neutral panel family |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

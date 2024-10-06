@@ -1,3 +1,187 @@
+bip_39_word_new_br1: topic
+bip_39_word_new_br10: topic<br>grocery<br>coin<br>almost<br>bounce<br>derive<br>online<br>banana<br>discover<br>iron
+bip_39_word_new_br11: topic<br>grocery<br>coin<br>almost<br>bounce<br>derive<br>online<br>banana<br>discover<br>iron<br>crane
+bip_39_word_new_br12: topic<br>grocery<br>coin<br>almost<br>bounce<br>derive<br>online<br>banana<br>discover<br>iron<br>crane<br>all
+bip_39_word_new_br2: topic<br>grocery
+bip_39_word_new_br3: topic<br>grocery<br>coin
+bip_39_word_new_br4: topic<br>grocery<br>coin<br>almost
+bip_39_word_new_br5: topic<br>grocery<br>coin<br>almost<br>bounce
+bip_39_word_new_br6: topic<br>grocery<br>coin<br>almost<br>bounce<br>derive
+bip_39_word_new_br7: topic<br>grocery<br>coin<br>almost<br>bounce<br>derive<br>online
+bip_39_word_new_br8: topic<br>grocery<br>coin<br>almost<br>bounce<br>derive<br>online<br>banana
+bip_39_word_new_br9: topic<br>grocery<br>coin<br>almost<br>bounce<br>derive<br>online<br>banana<br>discover
+bip_39_word_new_line1: topic
+bip_39_word_new_line10: 'topic
+
+  grocery
+
+  coin
+
+  almost
+
+  bounce
+
+  derive
+
+  online
+
+  banana
+
+  discover
+
+  iron'
+bip_39_word_new_line11: 'topic
+
+  grocery
+
+  coin
+
+  almost
+
+  bounce
+
+  derive
+
+  online
+
+  banana
+
+  discover
+
+  iron
+
+  crane'
+bip_39_word_new_line12: 'topic
+
+  grocery
+
+  coin
+
+  almost
+
+  bounce
+
+  derive
+
+  online
+
+  banana
+
+  discover
+
+  iron
+
+  crane
+
+  all'
+bip_39_word_new_line2: 'topic
+
+  grocery'
+bip_39_word_new_line3: 'topic
+
+  grocery
+
+  coin'
+bip_39_word_new_line4: 'topic
+
+  grocery
+
+  coin
+
+  almost'
+bip_39_word_new_line5: 'topic
+
+  grocery
+
+  coin
+
+  almost
+
+  bounce'
+bip_39_word_new_line6: 'topic
+
+  grocery
+
+  coin
+
+  almost
+
+  bounce
+
+  derive'
+bip_39_word_new_line7: 'topic
+
+  grocery
+
+  coin
+
+  almost
+
+  bounce
+
+  derive
+
+  online'
+bip_39_word_new_line8: 'topic
+
+  grocery
+
+  coin
+
+  almost
+
+  bounce
+
+  derive
+
+  online
+
+  banana'
+bip_39_word_new_line9: 'topic
+
+  grocery
+
+  coin
+
+  almost
+
+  bounce
+
+  derive
+
+  online
+
+  banana
+
+  discover'
+bip_39_word_space_0:
+- topic
+- grocery
+- coin
+- almost
+- bounce
+- derive
+- online
+- banana
+- discover
+- iron
+- crane
+- all
+bip_39_word_space_1: topic
+bip_39_word_space_10: topic grocery coin almost bounce derive online banana discover
+  iron
+bip_39_word_space_11: topic grocery coin almost bounce derive online banana discover
+  iron crane
+bip_39_word_space_12: topic grocery coin almost bounce derive online banana discover
+  iron crane all
+bip_39_word_space_2: topic grocery
+bip_39_word_space_3: topic grocery coin
+bip_39_word_space_4: topic grocery coin almost
+bip_39_word_space_5: topic grocery coin almost bounce
+bip_39_word_space_6: topic grocery coin almost bounce derive
+bip_39_word_space_7: topic grocery coin almost bounce derive online
+bip_39_word_space_8: topic grocery coin almost bounce derive online banana
+bip_39_word_space_9: topic grocery coin almost bounce derive online banana discover
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: casino
+bip_39_word_new_br10: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force<br>circle<br>gun<br>orphan<br>open
+bip_39_word_new_br11: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force<br>circle<br>gun<br>orphan<br>open<br>duty
+bip_39_word_new_br12: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force<br>circle<br>gun<br>orphan<br>open<br>duty<br>amazing
+bip_39_word_new_br2: casino<br>victory
+bip_39_word_new_br3: casino<br>victory<br>bean
+bip_39_word_new_br4: casino<br>victory<br>bean<br>hurdle
+bip_39_word_new_br5: casino<br>victory<br>bean<br>hurdle<br>canoe
+bip_39_word_new_br6: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force
+bip_39_word_new_br7: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force<br>circle
+bip_39_word_new_br8: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force<br>circle<br>gun
+bip_39_word_new_br9: casino<br>victory<br>bean<br>hurdle<br>canoe<br>force<br>circle<br>gun<br>orphan
+bip_39_word_new_line1: casino
+bip_39_word_new_line10: 'casino
+
+  victory
+
+  bean
+
+  hurdle
+
+  canoe
+
+  force
+
+  circle
+
+  gun
+
+  orphan
+
+  open'
+bip_39_word_new_line11: 'casino
+
+  victory
+
+  bean
+
+  hurdle
+
+  canoe
+
+  force
+
+  circle
+
+  gun
+
+  orphan
+
+  open
+
+  duty'
+bip_39_word_new_line12: 'casino
+
+  victory
+
+  bean
+
+  hurdle
+
+  canoe
+
+  force
+
+  circle
+
+  gun
+
+  orphan
+
+  open
+
+  duty
+
+  amazing'
+bip_39_word_new_line2: 'casino
+
+  victory'
+bip_39_word_new_line3: 'casino
+
+  victory
+
+  bean'
+bip_39_word_new_line4: 'casino
+
+  victory
+
+  bean
+
+  hurdle'
+bip_39_word_new_line5: 'casino
+
+  victory
+
+  bean
+
+  hurdle
+
+  canoe'
+bip_39_word_new_line6: 'casino
+
+  victory
+
+  bean
+
+  hurdle
+
+  canoe
+
+  force'
+bip_39_word_new_line7: 'casino
+
+  victory
+
+  bean
+
+  hurdle
+
+  canoe
+
+  force
+
+  circle'
+bip_39_word_new_line8: 'casino
+
+  victory
+
+  bean
+
+  hurdle
+
+  canoe
+
+  force
+
+  circle
+
+  gun'
+bip_39_word_new_line9: 'casino
+
+  victory
+
+  bean
+
+  hurdle
+
+  canoe
+
+  force
+
+  circle
+
+  gun
+
+  orphan'
+bip_39_word_space_0:
+- casino
+- victory
+- bean
+- hurdle
+- canoe
+- force
+- circle
+- gun
+- orphan
+- open
+- duty
+- amazing
+bip_39_word_space_1: casino
+bip_39_word_space_10: casino victory bean hurdle canoe force circle gun orphan open
+bip_39_word_space_11: casino victory bean hurdle canoe force circle gun orphan open
+  duty
+bip_39_word_space_12: casino victory bean hurdle canoe force circle gun orphan open
+  duty amazing
+bip_39_word_space_2: casino victory
+bip_39_word_space_3: casino victory bean
+bip_39_word_space_4: casino victory bean hurdle
+bip_39_word_space_5: casino victory bean hurdle canoe
+bip_39_word_space_6: casino victory bean hurdle canoe force
+bip_39_word_space_7: casino victory bean hurdle canoe force circle
+bip_39_word_space_8: casino victory bean hurdle canoe force circle gun
+bip_39_word_space_9: casino victory bean hurdle canoe force circle gun orphan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

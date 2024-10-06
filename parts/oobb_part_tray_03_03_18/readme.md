@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: display breeze
+  * bip 39 word 3: display breeze rhythm
+  * bip 39 word: display breeze rhythm spell second ethics void legend garment shell melt ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | display |  
+| bip_39_word_new_br10 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics<br>void<br>legend<br>garment<br>shell |  
+| bip_39_word_new_br11 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics<br>void<br>legend<br>garment<br>shell<br>melt |  
+| bip_39_word_new_br12 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics<br>void<br>legend<br>garment<br>shell<br>melt<br>ankle |  
+| bip_39_word_new_br2 | display<br>breeze |  
+| bip_39_word_new_br3 | display<br>breeze<br>rhythm |  
+| bip_39_word_new_br4 | display<br>breeze<br>rhythm<br>spell |  
+| bip_39_word_new_br5 | display<br>breeze<br>rhythm<br>spell<br>second |  
+| bip_39_word_new_br6 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics |  
+| bip_39_word_new_br7 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics<br>void |  
+| bip_39_word_new_br8 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics<br>void<br>legend |  
+| bip_39_word_new_br9 | display<br>breeze<br>rhythm<br>spell<br>second<br>ethics<br>void<br>legend<br>garment |  
+| bip_39_word_new_line1 | display |  
+| bip_39_word_new_line10 | display
+breeze
+rhythm
+spell
+second
+ethics
+void
+legend
+garment
+shell |  
+| bip_39_word_new_line11 | display
+breeze
+rhythm
+spell
+second
+ethics
+void
+legend
+garment
+shell
+melt |  
+| bip_39_word_new_line12 | display
+breeze
+rhythm
+spell
+second
+ethics
+void
+legend
+garment
+shell
+melt
+ankle |  
+| bip_39_word_new_line2 | display
+breeze |  
+| bip_39_word_new_line3 | display
+breeze
+rhythm |  
+| bip_39_word_new_line4 | display
+breeze
+rhythm
+spell |  
+| bip_39_word_new_line5 | display
+breeze
+rhythm
+spell
+second |  
+| bip_39_word_new_line6 | display
+breeze
+rhythm
+spell
+second
+ethics |  
+| bip_39_word_new_line7 | display
+breeze
+rhythm
+spell
+second
+ethics
+void |  
+| bip_39_word_new_line8 | display
+breeze
+rhythm
+spell
+second
+ethics
+void
+legend |  
+| bip_39_word_new_line9 | display
+breeze
+rhythm
+spell
+second
+ethics
+void
+legend
+garment |  
+| bip_39_word_space_0 | ['display', 'breeze', 'rhythm', 'spell', 'second', 'ethics', 'void', 'legend', 'garment', 'shell', 'melt', 'ankle'] |  
+| bip_39_word_space_1 | display |  
+| bip_39_word_space_10 | display breeze rhythm spell second ethics void legend garment shell |  
+| bip_39_word_space_11 | display breeze rhythm spell second ethics void legend garment shell melt |  
+| bip_39_word_space_12 | display breeze rhythm spell second ethics void legend garment shell melt ankle |  
+| bip_39_word_space_2 | display breeze |  
+| bip_39_word_space_3 | display breeze rhythm |  
+| bip_39_word_space_4 | display breeze rhythm spell |  
+| bip_39_word_space_5 | display breeze rhythm spell second |  
+| bip_39_word_space_6 | display breeze rhythm spell second ethics |  
+| bip_39_word_space_7 | display breeze rhythm spell second ethics void |  
+| bip_39_word_space_8 | display breeze rhythm spell second ethics void legend |  
+| bip_39_word_space_9 | display breeze rhythm spell second ethics void legend garment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

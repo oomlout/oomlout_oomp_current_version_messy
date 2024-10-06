@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: floor foster
+  * bip 39 word 3: floor foster apology
+  * bip 39 word: floor foster apology decade fancy change youth either price traffic already affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | floor |  
+| bip_39_word_new_br10 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic |  
+| bip_39_word_new_br11 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic<br>already |  
+| bip_39_word_new_br12 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price<br>traffic<br>already<br>affair |  
+| bip_39_word_new_br2 | floor<br>foster |  
+| bip_39_word_new_br3 | floor<br>foster<br>apology |  
+| bip_39_word_new_br4 | floor<br>foster<br>apology<br>decade |  
+| bip_39_word_new_br5 | floor<br>foster<br>apology<br>decade<br>fancy |  
+| bip_39_word_new_br6 | floor<br>foster<br>apology<br>decade<br>fancy<br>change |  
+| bip_39_word_new_br7 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth |  
+| bip_39_word_new_br8 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either |  
+| bip_39_word_new_br9 | floor<br>foster<br>apology<br>decade<br>fancy<br>change<br>youth<br>either<br>price |  
+| bip_39_word_new_line1 | floor |  
+| bip_39_word_new_line10 | floor
+foster
+apology
+decade
+fancy
+change
+youth
+either
+price
+traffic |  
+| bip_39_word_new_line11 | floor
+foster
+apology
+decade
+fancy
+change
+youth
+either
+price
+traffic
+already |  
+| bip_39_word_new_line12 | floor
+foster
+apology
+decade
+fancy
+change
+youth
+either
+price
+traffic
+already
+affair |  
+| bip_39_word_new_line2 | floor
+foster |  
+| bip_39_word_new_line3 | floor
+foster
+apology |  
+| bip_39_word_new_line4 | floor
+foster
+apology
+decade |  
+| bip_39_word_new_line5 | floor
+foster
+apology
+decade
+fancy |  
+| bip_39_word_new_line6 | floor
+foster
+apology
+decade
+fancy
+change |  
+| bip_39_word_new_line7 | floor
+foster
+apology
+decade
+fancy
+change
+youth |  
+| bip_39_word_new_line8 | floor
+foster
+apology
+decade
+fancy
+change
+youth
+either |  
+| bip_39_word_new_line9 | floor
+foster
+apology
+decade
+fancy
+change
+youth
+either
+price |  
+| bip_39_word_space_0 | ['floor', 'foster', 'apology', 'decade', 'fancy', 'change', 'youth', 'either', 'price', 'traffic', 'already', 'affair'] |  
+| bip_39_word_space_1 | floor |  
+| bip_39_word_space_10 | floor foster apology decade fancy change youth either price traffic |  
+| bip_39_word_space_11 | floor foster apology decade fancy change youth either price traffic already |  
+| bip_39_word_space_12 | floor foster apology decade fancy change youth either price traffic already affair |  
+| bip_39_word_space_2 | floor foster |  
+| bip_39_word_space_3 | floor foster apology |  
+| bip_39_word_space_4 | floor foster apology decade |  
+| bip_39_word_space_5 | floor foster apology decade fancy |  
+| bip_39_word_space_6 | floor foster apology decade fancy change |  
+| bip_39_word_space_7 | floor foster apology decade fancy change youth |  
+| bip_39_word_space_8 | floor foster apology decade fancy change youth either |  
+| bip_39_word_space_9 | floor foster apology decade fancy change youth either price |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

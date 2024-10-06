@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spice fence
+  * bip 39 word 3: spice fence topple
+  * bip 39 word: spice fence topple pill bread garbage canoe liquid creek polar penalty area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spice |  
+| bip_39_word_new_br10 | spice<br>fence<br>topple<br>pill<br>bread<br>garbage<br>canoe<br>liquid<br>creek<br>polar |  
+| bip_39_word_new_br11 | spice<br>fence<br>topple<br>pill<br>bread<br>garbage<br>canoe<br>liquid<br>creek<br>polar<br>penalty |  
+| bip_39_word_new_br12 | spice<br>fence<br>topple<br>pill<br>bread<br>garbage<br>canoe<br>liquid<br>creek<br>polar<br>penalty<br>area |  
+| bip_39_word_new_br2 | spice<br>fence |  
+| bip_39_word_new_br3 | spice<br>fence<br>topple |  
+| bip_39_word_new_br4 | spice<br>fence<br>topple<br>pill |  
+| bip_39_word_new_br5 | spice<br>fence<br>topple<br>pill<br>bread |  
+| bip_39_word_new_br6 | spice<br>fence<br>topple<br>pill<br>bread<br>garbage |  
+| bip_39_word_new_br7 | spice<br>fence<br>topple<br>pill<br>bread<br>garbage<br>canoe |  
+| bip_39_word_new_br8 | spice<br>fence<br>topple<br>pill<br>bread<br>garbage<br>canoe<br>liquid |  
+| bip_39_word_new_br9 | spice<br>fence<br>topple<br>pill<br>bread<br>garbage<br>canoe<br>liquid<br>creek |  
+| bip_39_word_new_line1 | spice |  
+| bip_39_word_new_line10 | spice
+fence
+topple
+pill
+bread
+garbage
+canoe
+liquid
+creek
+polar |  
+| bip_39_word_new_line11 | spice
+fence
+topple
+pill
+bread
+garbage
+canoe
+liquid
+creek
+polar
+penalty |  
+| bip_39_word_new_line12 | spice
+fence
+topple
+pill
+bread
+garbage
+canoe
+liquid
+creek
+polar
+penalty
+area |  
+| bip_39_word_new_line2 | spice
+fence |  
+| bip_39_word_new_line3 | spice
+fence
+topple |  
+| bip_39_word_new_line4 | spice
+fence
+topple
+pill |  
+| bip_39_word_new_line5 | spice
+fence
+topple
+pill
+bread |  
+| bip_39_word_new_line6 | spice
+fence
+topple
+pill
+bread
+garbage |  
+| bip_39_word_new_line7 | spice
+fence
+topple
+pill
+bread
+garbage
+canoe |  
+| bip_39_word_new_line8 | spice
+fence
+topple
+pill
+bread
+garbage
+canoe
+liquid |  
+| bip_39_word_new_line9 | spice
+fence
+topple
+pill
+bread
+garbage
+canoe
+liquid
+creek |  
+| bip_39_word_space_0 | ['spice', 'fence', 'topple', 'pill', 'bread', 'garbage', 'canoe', 'liquid', 'creek', 'polar', 'penalty', 'area'] |  
+| bip_39_word_space_1 | spice |  
+| bip_39_word_space_10 | spice fence topple pill bread garbage canoe liquid creek polar |  
+| bip_39_word_space_11 | spice fence topple pill bread garbage canoe liquid creek polar penalty |  
+| bip_39_word_space_12 | spice fence topple pill bread garbage canoe liquid creek polar penalty area |  
+| bip_39_word_space_2 | spice fence |  
+| bip_39_word_space_3 | spice fence topple |  
+| bip_39_word_space_4 | spice fence topple pill |  
+| bip_39_word_space_5 | spice fence topple pill bread |  
+| bip_39_word_space_6 | spice fence topple pill bread garbage |  
+| bip_39_word_space_7 | spice fence topple pill bread garbage canoe |  
+| bip_39_word_space_8 | spice fence topple pill bread garbage canoe liquid |  
+| bip_39_word_space_9 | spice fence topple pill bread garbage canoe liquid creek |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

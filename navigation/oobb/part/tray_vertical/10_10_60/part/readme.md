@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bronze payment
+  * bip 39 word 3: bronze payment weather
+  * bip 39 word: bronze payment weather pistol inch power unique learn short argue color arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bronze |  
+| bip_39_word_new_br10 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power<br>unique<br>learn<br>short<br>argue |  
+| bip_39_word_new_br11 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power<br>unique<br>learn<br>short<br>argue<br>color |  
+| bip_39_word_new_br12 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power<br>unique<br>learn<br>short<br>argue<br>color<br>arch |  
+| bip_39_word_new_br2 | bronze<br>payment |  
+| bip_39_word_new_br3 | bronze<br>payment<br>weather |  
+| bip_39_word_new_br4 | bronze<br>payment<br>weather<br>pistol |  
+| bip_39_word_new_br5 | bronze<br>payment<br>weather<br>pistol<br>inch |  
+| bip_39_word_new_br6 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power |  
+| bip_39_word_new_br7 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power<br>unique |  
+| bip_39_word_new_br8 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power<br>unique<br>learn |  
+| bip_39_word_new_br9 | bronze<br>payment<br>weather<br>pistol<br>inch<br>power<br>unique<br>learn<br>short |  
+| bip_39_word_new_line1 | bronze |  
+| bip_39_word_new_line10 | bronze
+payment
+weather
+pistol
+inch
+power
+unique
+learn
+short
+argue |  
+| bip_39_word_new_line11 | bronze
+payment
+weather
+pistol
+inch
+power
+unique
+learn
+short
+argue
+color |  
+| bip_39_word_new_line12 | bronze
+payment
+weather
+pistol
+inch
+power
+unique
+learn
+short
+argue
+color
+arch |  
+| bip_39_word_new_line2 | bronze
+payment |  
+| bip_39_word_new_line3 | bronze
+payment
+weather |  
+| bip_39_word_new_line4 | bronze
+payment
+weather
+pistol |  
+| bip_39_word_new_line5 | bronze
+payment
+weather
+pistol
+inch |  
+| bip_39_word_new_line6 | bronze
+payment
+weather
+pistol
+inch
+power |  
+| bip_39_word_new_line7 | bronze
+payment
+weather
+pistol
+inch
+power
+unique |  
+| bip_39_word_new_line8 | bronze
+payment
+weather
+pistol
+inch
+power
+unique
+learn |  
+| bip_39_word_new_line9 | bronze
+payment
+weather
+pistol
+inch
+power
+unique
+learn
+short |  
+| bip_39_word_space_0 | ['bronze', 'payment', 'weather', 'pistol', 'inch', 'power', 'unique', 'learn', 'short', 'argue', 'color', 'arch'] |  
+| bip_39_word_space_1 | bronze |  
+| bip_39_word_space_10 | bronze payment weather pistol inch power unique learn short argue |  
+| bip_39_word_space_11 | bronze payment weather pistol inch power unique learn short argue color |  
+| bip_39_word_space_12 | bronze payment weather pistol inch power unique learn short argue color arch |  
+| bip_39_word_space_2 | bronze payment |  
+| bip_39_word_space_3 | bronze payment weather |  
+| bip_39_word_space_4 | bronze payment weather pistol |  
+| bip_39_word_space_5 | bronze payment weather pistol inch |  
+| bip_39_word_space_6 | bronze payment weather pistol inch power |  
+| bip_39_word_space_7 | bronze payment weather pistol inch power unique |  
+| bip_39_word_space_8 | bronze payment weather pistol inch power unique learn |  
+| bip_39_word_space_9 | bronze payment weather pistol inch power unique learn short |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

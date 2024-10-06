@@ -1,3 +1,186 @@
+bip_39_word_new_br1: limb
+bip_39_word_new_br10: limb<br>success<br>column<br>good<br>option<br>kiss<br>session<br>limb<br>cube<br>debate
+bip_39_word_new_br11: limb<br>success<br>column<br>good<br>option<br>kiss<br>session<br>limb<br>cube<br>debate<br>furnace
+bip_39_word_new_br12: limb<br>success<br>column<br>good<br>option<br>kiss<br>session<br>limb<br>cube<br>debate<br>furnace<br>able
+bip_39_word_new_br2: limb<br>success
+bip_39_word_new_br3: limb<br>success<br>column
+bip_39_word_new_br4: limb<br>success<br>column<br>good
+bip_39_word_new_br5: limb<br>success<br>column<br>good<br>option
+bip_39_word_new_br6: limb<br>success<br>column<br>good<br>option<br>kiss
+bip_39_word_new_br7: limb<br>success<br>column<br>good<br>option<br>kiss<br>session
+bip_39_word_new_br8: limb<br>success<br>column<br>good<br>option<br>kiss<br>session<br>limb
+bip_39_word_new_br9: limb<br>success<br>column<br>good<br>option<br>kiss<br>session<br>limb<br>cube
+bip_39_word_new_line1: limb
+bip_39_word_new_line10: 'limb
+
+  success
+
+  column
+
+  good
+
+  option
+
+  kiss
+
+  session
+
+  limb
+
+  cube
+
+  debate'
+bip_39_word_new_line11: 'limb
+
+  success
+
+  column
+
+  good
+
+  option
+
+  kiss
+
+  session
+
+  limb
+
+  cube
+
+  debate
+
+  furnace'
+bip_39_word_new_line12: 'limb
+
+  success
+
+  column
+
+  good
+
+  option
+
+  kiss
+
+  session
+
+  limb
+
+  cube
+
+  debate
+
+  furnace
+
+  able'
+bip_39_word_new_line2: 'limb
+
+  success'
+bip_39_word_new_line3: 'limb
+
+  success
+
+  column'
+bip_39_word_new_line4: 'limb
+
+  success
+
+  column
+
+  good'
+bip_39_word_new_line5: 'limb
+
+  success
+
+  column
+
+  good
+
+  option'
+bip_39_word_new_line6: 'limb
+
+  success
+
+  column
+
+  good
+
+  option
+
+  kiss'
+bip_39_word_new_line7: 'limb
+
+  success
+
+  column
+
+  good
+
+  option
+
+  kiss
+
+  session'
+bip_39_word_new_line8: 'limb
+
+  success
+
+  column
+
+  good
+
+  option
+
+  kiss
+
+  session
+
+  limb'
+bip_39_word_new_line9: 'limb
+
+  success
+
+  column
+
+  good
+
+  option
+
+  kiss
+
+  session
+
+  limb
+
+  cube'
+bip_39_word_space_0:
+- limb
+- success
+- column
+- good
+- option
+- kiss
+- session
+- limb
+- cube
+- debate
+- furnace
+- able
+bip_39_word_space_1: limb
+bip_39_word_space_10: limb success column good option kiss session limb cube debate
+bip_39_word_space_11: limb success column good option kiss session limb cube debate
+  furnace
+bip_39_word_space_12: limb success column good option kiss session limb cube debate
+  furnace able
+bip_39_word_space_2: limb success
+bip_39_word_space_3: limb success column
+bip_39_word_space_4: limb success column good
+bip_39_word_space_5: limb success column good option
+bip_39_word_space_6: limb success column good option kiss
+bip_39_word_space_7: limb success column good option kiss session
+bip_39_word_space_8: limb success column good option kiss session limb
+bip_39_word_space_9: limb success column good option kiss session limb cube
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

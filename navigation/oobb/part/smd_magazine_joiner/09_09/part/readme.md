@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wise ride
+  * bip 39 word 3: wise ride swear
+  * bip 39 word: wise ride swear absurd year solar wood mixture boss wisdom talent arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wise |  
+| bip_39_word_new_br10 | wise<br>ride<br>swear<br>absurd<br>year<br>solar<br>wood<br>mixture<br>boss<br>wisdom |  
+| bip_39_word_new_br11 | wise<br>ride<br>swear<br>absurd<br>year<br>solar<br>wood<br>mixture<br>boss<br>wisdom<br>talent |  
+| bip_39_word_new_br12 | wise<br>ride<br>swear<br>absurd<br>year<br>solar<br>wood<br>mixture<br>boss<br>wisdom<br>talent<br>arrive |  
+| bip_39_word_new_br2 | wise<br>ride |  
+| bip_39_word_new_br3 | wise<br>ride<br>swear |  
+| bip_39_word_new_br4 | wise<br>ride<br>swear<br>absurd |  
+| bip_39_word_new_br5 | wise<br>ride<br>swear<br>absurd<br>year |  
+| bip_39_word_new_br6 | wise<br>ride<br>swear<br>absurd<br>year<br>solar |  
+| bip_39_word_new_br7 | wise<br>ride<br>swear<br>absurd<br>year<br>solar<br>wood |  
+| bip_39_word_new_br8 | wise<br>ride<br>swear<br>absurd<br>year<br>solar<br>wood<br>mixture |  
+| bip_39_word_new_br9 | wise<br>ride<br>swear<br>absurd<br>year<br>solar<br>wood<br>mixture<br>boss |  
+| bip_39_word_new_line1 | wise |  
+| bip_39_word_new_line10 | wise
+ride
+swear
+absurd
+year
+solar
+wood
+mixture
+boss
+wisdom |  
+| bip_39_word_new_line11 | wise
+ride
+swear
+absurd
+year
+solar
+wood
+mixture
+boss
+wisdom
+talent |  
+| bip_39_word_new_line12 | wise
+ride
+swear
+absurd
+year
+solar
+wood
+mixture
+boss
+wisdom
+talent
+arrive |  
+| bip_39_word_new_line2 | wise
+ride |  
+| bip_39_word_new_line3 | wise
+ride
+swear |  
+| bip_39_word_new_line4 | wise
+ride
+swear
+absurd |  
+| bip_39_word_new_line5 | wise
+ride
+swear
+absurd
+year |  
+| bip_39_word_new_line6 | wise
+ride
+swear
+absurd
+year
+solar |  
+| bip_39_word_new_line7 | wise
+ride
+swear
+absurd
+year
+solar
+wood |  
+| bip_39_word_new_line8 | wise
+ride
+swear
+absurd
+year
+solar
+wood
+mixture |  
+| bip_39_word_new_line9 | wise
+ride
+swear
+absurd
+year
+solar
+wood
+mixture
+boss |  
+| bip_39_word_space_0 | ['wise', 'ride', 'swear', 'absurd', 'year', 'solar', 'wood', 'mixture', 'boss', 'wisdom', 'talent', 'arrive'] |  
+| bip_39_word_space_1 | wise |  
+| bip_39_word_space_10 | wise ride swear absurd year solar wood mixture boss wisdom |  
+| bip_39_word_space_11 | wise ride swear absurd year solar wood mixture boss wisdom talent |  
+| bip_39_word_space_12 | wise ride swear absurd year solar wood mixture boss wisdom talent arrive |  
+| bip_39_word_space_2 | wise ride |  
+| bip_39_word_space_3 | wise ride swear |  
+| bip_39_word_space_4 | wise ride swear absurd |  
+| bip_39_word_space_5 | wise ride swear absurd year |  
+| bip_39_word_space_6 | wise ride swear absurd year solar |  
+| bip_39_word_space_7 | wise ride swear absurd year solar wood |  
+| bip_39_word_space_8 | wise ride swear absurd year solar wood mixture |  
+| bip_39_word_space_9 | wise ride swear absurd year solar wood mixture boss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

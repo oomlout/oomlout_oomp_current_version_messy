@@ -1,3 +1,186 @@
+bip_39_word_new_br1: patch
+bip_39_word_new_br10: patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand
+bip_39_word_new_br11: patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand<br>poem
+bip_39_word_new_br12: patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend<br>expand<br>poem<br>actress
+bip_39_word_new_br2: patch<br>assist
+bip_39_word_new_br3: patch<br>assist<br>duck
+bip_39_word_new_br4: patch<br>assist<br>duck<br>edge
+bip_39_word_new_br5: patch<br>assist<br>duck<br>edge<br>omit
+bip_39_word_new_br6: patch<br>assist<br>duck<br>edge<br>omit<br>dash
+bip_39_word_new_br7: patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic
+bip_39_word_new_br8: patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train
+bip_39_word_new_br9: patch<br>assist<br>duck<br>edge<br>omit<br>dash<br>critic<br>train<br>attend
+bip_39_word_new_line1: patch
+bip_39_word_new_line10: 'patch
+
+  assist
+
+  duck
+
+  edge
+
+  omit
+
+  dash
+
+  critic
+
+  train
+
+  attend
+
+  expand'
+bip_39_word_new_line11: 'patch
+
+  assist
+
+  duck
+
+  edge
+
+  omit
+
+  dash
+
+  critic
+
+  train
+
+  attend
+
+  expand
+
+  poem'
+bip_39_word_new_line12: 'patch
+
+  assist
+
+  duck
+
+  edge
+
+  omit
+
+  dash
+
+  critic
+
+  train
+
+  attend
+
+  expand
+
+  poem
+
+  actress'
+bip_39_word_new_line2: 'patch
+
+  assist'
+bip_39_word_new_line3: 'patch
+
+  assist
+
+  duck'
+bip_39_word_new_line4: 'patch
+
+  assist
+
+  duck
+
+  edge'
+bip_39_word_new_line5: 'patch
+
+  assist
+
+  duck
+
+  edge
+
+  omit'
+bip_39_word_new_line6: 'patch
+
+  assist
+
+  duck
+
+  edge
+
+  omit
+
+  dash'
+bip_39_word_new_line7: 'patch
+
+  assist
+
+  duck
+
+  edge
+
+  omit
+
+  dash
+
+  critic'
+bip_39_word_new_line8: 'patch
+
+  assist
+
+  duck
+
+  edge
+
+  omit
+
+  dash
+
+  critic
+
+  train'
+bip_39_word_new_line9: 'patch
+
+  assist
+
+  duck
+
+  edge
+
+  omit
+
+  dash
+
+  critic
+
+  train
+
+  attend'
+bip_39_word_space_0:
+- patch
+- assist
+- duck
+- edge
+- omit
+- dash
+- critic
+- train
+- attend
+- expand
+- poem
+- actress
+bip_39_word_space_1: patch
+bip_39_word_space_10: patch assist duck edge omit dash critic train attend expand
+bip_39_word_space_11: patch assist duck edge omit dash critic train attend expand
+  poem
+bip_39_word_space_12: patch assist duck edge omit dash critic train attend expand
+  poem actress
+bip_39_word_space_2: patch assist
+bip_39_word_space_3: patch assist duck
+bip_39_word_space_4: patch assist duck edge
+bip_39_word_space_5: patch assist duck edge omit
+bip_39_word_space_6: patch assist duck edge omit dash
+bip_39_word_space_7: patch assist duck edge omit dash critic
+bip_39_word_space_8: patch assist duck edge omit dash critic train
+bip_39_word_space_9: patch assist duck edge omit dash critic train attend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

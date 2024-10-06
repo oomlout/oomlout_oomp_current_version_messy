@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: winter slot
+  * bip 39 word 3: winter slot grow
+  * bip 39 word: winter slot grow puzzle scale zone unfair suffer stadium book style airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | winter |  
+| bip_39_word_new_br10 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone<br>unfair<br>suffer<br>stadium<br>book |  
+| bip_39_word_new_br11 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone<br>unfair<br>suffer<br>stadium<br>book<br>style |  
+| bip_39_word_new_br12 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone<br>unfair<br>suffer<br>stadium<br>book<br>style<br>airport |  
+| bip_39_word_new_br2 | winter<br>slot |  
+| bip_39_word_new_br3 | winter<br>slot<br>grow |  
+| bip_39_word_new_br4 | winter<br>slot<br>grow<br>puzzle |  
+| bip_39_word_new_br5 | winter<br>slot<br>grow<br>puzzle<br>scale |  
+| bip_39_word_new_br6 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone |  
+| bip_39_word_new_br7 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone<br>unfair |  
+| bip_39_word_new_br8 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone<br>unfair<br>suffer |  
+| bip_39_word_new_br9 | winter<br>slot<br>grow<br>puzzle<br>scale<br>zone<br>unfair<br>suffer<br>stadium |  
+| bip_39_word_new_line1 | winter |  
+| bip_39_word_new_line10 | winter
+slot
+grow
+puzzle
+scale
+zone
+unfair
+suffer
+stadium
+book |  
+| bip_39_word_new_line11 | winter
+slot
+grow
+puzzle
+scale
+zone
+unfair
+suffer
+stadium
+book
+style |  
+| bip_39_word_new_line12 | winter
+slot
+grow
+puzzle
+scale
+zone
+unfair
+suffer
+stadium
+book
+style
+airport |  
+| bip_39_word_new_line2 | winter
+slot |  
+| bip_39_word_new_line3 | winter
+slot
+grow |  
+| bip_39_word_new_line4 | winter
+slot
+grow
+puzzle |  
+| bip_39_word_new_line5 | winter
+slot
+grow
+puzzle
+scale |  
+| bip_39_word_new_line6 | winter
+slot
+grow
+puzzle
+scale
+zone |  
+| bip_39_word_new_line7 | winter
+slot
+grow
+puzzle
+scale
+zone
+unfair |  
+| bip_39_word_new_line8 | winter
+slot
+grow
+puzzle
+scale
+zone
+unfair
+suffer |  
+| bip_39_word_new_line9 | winter
+slot
+grow
+puzzle
+scale
+zone
+unfair
+suffer
+stadium |  
+| bip_39_word_space_0 | ['winter', 'slot', 'grow', 'puzzle', 'scale', 'zone', 'unfair', 'suffer', 'stadium', 'book', 'style', 'airport'] |  
+| bip_39_word_space_1 | winter |  
+| bip_39_word_space_10 | winter slot grow puzzle scale zone unfair suffer stadium book |  
+| bip_39_word_space_11 | winter slot grow puzzle scale zone unfair suffer stadium book style |  
+| bip_39_word_space_12 | winter slot grow puzzle scale zone unfair suffer stadium book style airport |  
+| bip_39_word_space_2 | winter slot |  
+| bip_39_word_space_3 | winter slot grow |  
+| bip_39_word_space_4 | winter slot grow puzzle |  
+| bip_39_word_space_5 | winter slot grow puzzle scale |  
+| bip_39_word_space_6 | winter slot grow puzzle scale zone |  
+| bip_39_word_space_7 | winter slot grow puzzle scale zone unfair |  
+| bip_39_word_space_8 | winter slot grow puzzle scale zone unfair suffer |  
+| bip_39_word_space_9 | winter slot grow puzzle scale zone unfair suffer stadium |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

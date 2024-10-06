@@ -1,3 +1,187 @@
+bip_39_word_new_br1: large
+bip_39_word_new_br10: large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant
+bip_39_word_new_br11: large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant<br>moment
+bip_39_word_new_br12: large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi<br>peasant<br>moment<br>acid
+bip_39_word_new_br2: large<br>before
+bip_39_word_new_br3: large<br>before<br>scrap
+bip_39_word_new_br4: large<br>before<br>scrap<br>ability
+bip_39_word_new_br5: large<br>before<br>scrap<br>ability<br>derive
+bip_39_word_new_br6: large<br>before<br>scrap<br>ability<br>derive<br>pioneer
+bip_39_word_new_br7: large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust
+bip_39_word_new_br8: large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library
+bip_39_word_new_br9: large<br>before<br>scrap<br>ability<br>derive<br>pioneer<br>exhaust<br>library<br>kiwi
+bip_39_word_new_line1: large
+bip_39_word_new_line10: 'large
+
+  before
+
+  scrap
+
+  ability
+
+  derive
+
+  pioneer
+
+  exhaust
+
+  library
+
+  kiwi
+
+  peasant'
+bip_39_word_new_line11: 'large
+
+  before
+
+  scrap
+
+  ability
+
+  derive
+
+  pioneer
+
+  exhaust
+
+  library
+
+  kiwi
+
+  peasant
+
+  moment'
+bip_39_word_new_line12: 'large
+
+  before
+
+  scrap
+
+  ability
+
+  derive
+
+  pioneer
+
+  exhaust
+
+  library
+
+  kiwi
+
+  peasant
+
+  moment
+
+  acid'
+bip_39_word_new_line2: 'large
+
+  before'
+bip_39_word_new_line3: 'large
+
+  before
+
+  scrap'
+bip_39_word_new_line4: 'large
+
+  before
+
+  scrap
+
+  ability'
+bip_39_word_new_line5: 'large
+
+  before
+
+  scrap
+
+  ability
+
+  derive'
+bip_39_word_new_line6: 'large
+
+  before
+
+  scrap
+
+  ability
+
+  derive
+
+  pioneer'
+bip_39_word_new_line7: 'large
+
+  before
+
+  scrap
+
+  ability
+
+  derive
+
+  pioneer
+
+  exhaust'
+bip_39_word_new_line8: 'large
+
+  before
+
+  scrap
+
+  ability
+
+  derive
+
+  pioneer
+
+  exhaust
+
+  library'
+bip_39_word_new_line9: 'large
+
+  before
+
+  scrap
+
+  ability
+
+  derive
+
+  pioneer
+
+  exhaust
+
+  library
+
+  kiwi'
+bip_39_word_space_0:
+- large
+- before
+- scrap
+- ability
+- derive
+- pioneer
+- exhaust
+- library
+- kiwi
+- peasant
+- moment
+- acid
+bip_39_word_space_1: large
+bip_39_word_space_10: large before scrap ability derive pioneer exhaust library kiwi
+  peasant
+bip_39_word_space_11: large before scrap ability derive pioneer exhaust library kiwi
+  peasant moment
+bip_39_word_space_12: large before scrap ability derive pioneer exhaust library kiwi
+  peasant moment acid
+bip_39_word_space_2: large before
+bip_39_word_space_3: large before scrap
+bip_39_word_space_4: large before scrap ability
+bip_39_word_space_5: large before scrap ability derive
+bip_39_word_space_6: large before scrap ability derive pioneer
+bip_39_word_space_7: large before scrap ability derive pioneer exhaust
+bip_39_word_space_8: large before scrap ability derive pioneer exhaust library
+bip_39_word_space_9: large before scrap ability derive pioneer exhaust library kiwi
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

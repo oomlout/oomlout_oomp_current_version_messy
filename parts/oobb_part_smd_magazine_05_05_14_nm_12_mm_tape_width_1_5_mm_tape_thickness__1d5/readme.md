@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: six acid
+  * bip 39 word 3: six acid forward
+  * bip 39 word: six acid forward useless liberty sudden menu wagon crouch violin retire armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | six |  
+| bip_39_word_new_br10 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden<br>menu<br>wagon<br>crouch<br>violin |  
+| bip_39_word_new_br11 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden<br>menu<br>wagon<br>crouch<br>violin<br>retire |  
+| bip_39_word_new_br12 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden<br>menu<br>wagon<br>crouch<br>violin<br>retire<br>armed |  
+| bip_39_word_new_br2 | six<br>acid |  
+| bip_39_word_new_br3 | six<br>acid<br>forward |  
+| bip_39_word_new_br4 | six<br>acid<br>forward<br>useless |  
+| bip_39_word_new_br5 | six<br>acid<br>forward<br>useless<br>liberty |  
+| bip_39_word_new_br6 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden |  
+| bip_39_word_new_br7 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden<br>menu |  
+| bip_39_word_new_br8 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden<br>menu<br>wagon |  
+| bip_39_word_new_br9 | six<br>acid<br>forward<br>useless<br>liberty<br>sudden<br>menu<br>wagon<br>crouch |  
+| bip_39_word_new_line1 | six |  
+| bip_39_word_new_line10 | six
+acid
+forward
+useless
+liberty
+sudden
+menu
+wagon
+crouch
+violin |  
+| bip_39_word_new_line11 | six
+acid
+forward
+useless
+liberty
+sudden
+menu
+wagon
+crouch
+violin
+retire |  
+| bip_39_word_new_line12 | six
+acid
+forward
+useless
+liberty
+sudden
+menu
+wagon
+crouch
+violin
+retire
+armed |  
+| bip_39_word_new_line2 | six
+acid |  
+| bip_39_word_new_line3 | six
+acid
+forward |  
+| bip_39_word_new_line4 | six
+acid
+forward
+useless |  
+| bip_39_word_new_line5 | six
+acid
+forward
+useless
+liberty |  
+| bip_39_word_new_line6 | six
+acid
+forward
+useless
+liberty
+sudden |  
+| bip_39_word_new_line7 | six
+acid
+forward
+useless
+liberty
+sudden
+menu |  
+| bip_39_word_new_line8 | six
+acid
+forward
+useless
+liberty
+sudden
+menu
+wagon |  
+| bip_39_word_new_line9 | six
+acid
+forward
+useless
+liberty
+sudden
+menu
+wagon
+crouch |  
+| bip_39_word_space_0 | ['six', 'acid', 'forward', 'useless', 'liberty', 'sudden', 'menu', 'wagon', 'crouch', 'violin', 'retire', 'armed'] |  
+| bip_39_word_space_1 | six |  
+| bip_39_word_space_10 | six acid forward useless liberty sudden menu wagon crouch violin |  
+| bip_39_word_space_11 | six acid forward useless liberty sudden menu wagon crouch violin retire |  
+| bip_39_word_space_12 | six acid forward useless liberty sudden menu wagon crouch violin retire armed |  
+| bip_39_word_space_2 | six acid |  
+| bip_39_word_space_3 | six acid forward |  
+| bip_39_word_space_4 | six acid forward useless |  
+| bip_39_word_space_5 | six acid forward useless liberty |  
+| bip_39_word_space_6 | six acid forward useless liberty sudden |  
+| bip_39_word_space_7 | six acid forward useless liberty sudden menu |  
+| bip_39_word_space_8 | six acid forward useless liberty sudden menu wagon |  
+| bip_39_word_space_9 | six acid forward useless liberty sudden menu wagon crouch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

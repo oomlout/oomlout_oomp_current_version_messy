@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monitor alcohol
+  * bip 39 word 3: monitor alcohol else
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monitor |  
+| bip_39_word_new_br10 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion<br>riot |  
+| bip_39_word_new_br11 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion<br>riot<br>mask |  
+| bip_39_word_new_br2 | monitor<br>alcohol |  
+| bip_39_word_new_br3 | monitor<br>alcohol<br>else |  
+| bip_39_word_new_br4 | monitor<br>alcohol<br>else<br>apology |  
+| bip_39_word_new_br5 | monitor<br>alcohol<br>else<br>apology<br>economy |  
+| bip_39_word_new_br6 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across |  
+| bip_39_word_new_br7 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover |  
+| bip_39_word_new_br8 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind |  
+| bip_39_word_new_br9 | monitor<br>alcohol<br>else<br>apology<br>economy<br>across<br>hover<br>kind<br>fashion |  
+| bip_39_word_new_line1 | monitor |  
+| bip_39_word_new_line10 | monitor
+alcohol
+else
+apology
+economy
+across
+hover
+kind
+fashion
+riot |  
+| bip_39_word_new_line11 | monitor
+alcohol
+else
+apology
+economy
+across
+hover
+kind
+fashion
+riot
+mask |  
+| bip_39_word_new_line2 | monitor
+alcohol |  
+| bip_39_word_new_line3 | monitor
+alcohol
+else |  
+| bip_39_word_new_line4 | monitor
+alcohol
+else
+apology |  
+| bip_39_word_new_line5 | monitor
+alcohol
+else
+apology
+economy |  
+| bip_39_word_new_line6 | monitor
+alcohol
+else
+apology
+economy
+across |  
+| bip_39_word_new_line7 | monitor
+alcohol
+else
+apology
+economy
+across
+hover |  
+| bip_39_word_new_line8 | monitor
+alcohol
+else
+apology
+economy
+across
+hover
+kind |  
+| bip_39_word_new_line9 | monitor
+alcohol
+else
+apology
+economy
+across
+hover
+kind
+fashion |  
+| bip_39_word_space_0 | ['monitor', 'alcohol', 'else', 'apology', 'economy', 'across', 'hover', 'kind', 'fashion', 'riot', 'mask'] |  
+| bip_39_word_space_1 | monitor |  
+| bip_39_word_space_10 | monitor alcohol else apology economy across hover kind fashion riot |  
+| bip_39_word_space_11 | monitor alcohol else apology economy across hover kind fashion riot mask |  
+| bip_39_word_space_2 | monitor alcohol |  
+| bip_39_word_space_3 | monitor alcohol else |  
+| bip_39_word_space_4 | monitor alcohol else apology |  
+| bip_39_word_space_5 | monitor alcohol else apology economy |  
+| bip_39_word_space_6 | monitor alcohol else apology economy across |  
+| bip_39_word_space_7 | monitor alcohol else apology economy across hover |  
+| bip_39_word_space_8 | monitor alcohol else apology economy across hover kind |  
+| bip_39_word_space_9 | monitor alcohol else apology economy across hover kind fashion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

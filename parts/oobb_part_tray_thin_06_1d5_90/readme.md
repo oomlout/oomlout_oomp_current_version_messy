@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: omit gentle
+  * bip 39 word 3: omit gentle between
+  * bip 39 word: omit gentle between guess tank floor country dust great bonus zone absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | omit |  
+| bip_39_word_new_br10 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus |  
+| bip_39_word_new_br11 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus<br>zone |  
+| bip_39_word_new_br12 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great<br>bonus<br>zone<br>absent |  
+| bip_39_word_new_br2 | omit<br>gentle |  
+| bip_39_word_new_br3 | omit<br>gentle<br>between |  
+| bip_39_word_new_br4 | omit<br>gentle<br>between<br>guess |  
+| bip_39_word_new_br5 | omit<br>gentle<br>between<br>guess<br>tank |  
+| bip_39_word_new_br6 | omit<br>gentle<br>between<br>guess<br>tank<br>floor |  
+| bip_39_word_new_br7 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country |  
+| bip_39_word_new_br8 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust |  
+| bip_39_word_new_br9 | omit<br>gentle<br>between<br>guess<br>tank<br>floor<br>country<br>dust<br>great |  
+| bip_39_word_new_line1 | omit |  
+| bip_39_word_new_line10 | omit
+gentle
+between
+guess
+tank
+floor
+country
+dust
+great
+bonus |  
+| bip_39_word_new_line11 | omit
+gentle
+between
+guess
+tank
+floor
+country
+dust
+great
+bonus
+zone |  
+| bip_39_word_new_line12 | omit
+gentle
+between
+guess
+tank
+floor
+country
+dust
+great
+bonus
+zone
+absent |  
+| bip_39_word_new_line2 | omit
+gentle |  
+| bip_39_word_new_line3 | omit
+gentle
+between |  
+| bip_39_word_new_line4 | omit
+gentle
+between
+guess |  
+| bip_39_word_new_line5 | omit
+gentle
+between
+guess
+tank |  
+| bip_39_word_new_line6 | omit
+gentle
+between
+guess
+tank
+floor |  
+| bip_39_word_new_line7 | omit
+gentle
+between
+guess
+tank
+floor
+country |  
+| bip_39_word_new_line8 | omit
+gentle
+between
+guess
+tank
+floor
+country
+dust |  
+| bip_39_word_new_line9 | omit
+gentle
+between
+guess
+tank
+floor
+country
+dust
+great |  
+| bip_39_word_space_0 | ['omit', 'gentle', 'between', 'guess', 'tank', 'floor', 'country', 'dust', 'great', 'bonus', 'zone', 'absent'] |  
+| bip_39_word_space_1 | omit |  
+| bip_39_word_space_10 | omit gentle between guess tank floor country dust great bonus |  
+| bip_39_word_space_11 | omit gentle between guess tank floor country dust great bonus zone |  
+| bip_39_word_space_12 | omit gentle between guess tank floor country dust great bonus zone absent |  
+| bip_39_word_space_2 | omit gentle |  
+| bip_39_word_space_3 | omit gentle between |  
+| bip_39_word_space_4 | omit gentle between guess |  
+| bip_39_word_space_5 | omit gentle between guess tank |  
+| bip_39_word_space_6 | omit gentle between guess tank floor |  
+| bip_39_word_space_7 | omit gentle between guess tank floor country |  
+| bip_39_word_space_8 | omit gentle between guess tank floor country dust |  
+| bip_39_word_space_9 | omit gentle between guess tank floor country dust great |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

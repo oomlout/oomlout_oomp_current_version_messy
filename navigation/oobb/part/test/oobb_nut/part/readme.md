@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: oobb_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: problem clay
+  * bip 39 word 3: problem clay tired
+  * bip 39 word: problem clay tired always stumble stairs satoshi cinnamon trade act cry arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | problem |  
+| bip_39_word_new_br10 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act |  
+| bip_39_word_new_br11 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act<br>cry |  
+| bip_39_word_new_br12 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade<br>act<br>cry<br>arena |  
+| bip_39_word_new_br2 | problem<br>clay |  
+| bip_39_word_new_br3 | problem<br>clay<br>tired |  
+| bip_39_word_new_br4 | problem<br>clay<br>tired<br>always |  
+| bip_39_word_new_br5 | problem<br>clay<br>tired<br>always<br>stumble |  
+| bip_39_word_new_br6 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs |  
+| bip_39_word_new_br7 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi |  
+| bip_39_word_new_br8 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon |  
+| bip_39_word_new_br9 | problem<br>clay<br>tired<br>always<br>stumble<br>stairs<br>satoshi<br>cinnamon<br>trade |  
+| bip_39_word_new_line1 | problem |  
+| bip_39_word_new_line10 | problem
+clay
+tired
+always
+stumble
+stairs
+satoshi
+cinnamon
+trade
+act |  
+| bip_39_word_new_line11 | problem
+clay
+tired
+always
+stumble
+stairs
+satoshi
+cinnamon
+trade
+act
+cry |  
+| bip_39_word_new_line12 | problem
+clay
+tired
+always
+stumble
+stairs
+satoshi
+cinnamon
+trade
+act
+cry
+arena |  
+| bip_39_word_new_line2 | problem
+clay |  
+| bip_39_word_new_line3 | problem
+clay
+tired |  
+| bip_39_word_new_line4 | problem
+clay
+tired
+always |  
+| bip_39_word_new_line5 | problem
+clay
+tired
+always
+stumble |  
+| bip_39_word_new_line6 | problem
+clay
+tired
+always
+stumble
+stairs |  
+| bip_39_word_new_line7 | problem
+clay
+tired
+always
+stumble
+stairs
+satoshi |  
+| bip_39_word_new_line8 | problem
+clay
+tired
+always
+stumble
+stairs
+satoshi
+cinnamon |  
+| bip_39_word_new_line9 | problem
+clay
+tired
+always
+stumble
+stairs
+satoshi
+cinnamon
+trade |  
+| bip_39_word_space_0 | ['problem', 'clay', 'tired', 'always', 'stumble', 'stairs', 'satoshi', 'cinnamon', 'trade', 'act', 'cry', 'arena'] |  
+| bip_39_word_space_1 | problem |  
+| bip_39_word_space_10 | problem clay tired always stumble stairs satoshi cinnamon trade act |  
+| bip_39_word_space_11 | problem clay tired always stumble stairs satoshi cinnamon trade act cry |  
+| bip_39_word_space_12 | problem clay tired always stumble stairs satoshi cinnamon trade act cry arena |  
+| bip_39_word_space_2 | problem clay |  
+| bip_39_word_space_3 | problem clay tired |  
+| bip_39_word_space_4 | problem clay tired always |  
+| bip_39_word_space_5 | problem clay tired always stumble |  
+| bip_39_word_space_6 | problem clay tired always stumble stairs |  
+| bip_39_word_space_7 | problem clay tired always stumble stairs satoshi |  
+| bip_39_word_space_8 | problem clay tired always stumble stairs satoshi cinnamon |  
+| bip_39_word_space_9 | problem clay tired always stumble stairs satoshi cinnamon trade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: obey
+bip_39_word_new_br10: obey<br>turn<br>defense<br>face<br>pill<br>team<br>medal<br>roof<br>evil<br>shoot
+bip_39_word_new_br11: obey<br>turn<br>defense<br>face<br>pill<br>team<br>medal<br>roof<br>evil<br>shoot<br>believe
+bip_39_word_new_br12: obey<br>turn<br>defense<br>face<br>pill<br>team<br>medal<br>roof<br>evil<br>shoot<br>believe<br>ask
+bip_39_word_new_br2: obey<br>turn
+bip_39_word_new_br3: obey<br>turn<br>defense
+bip_39_word_new_br4: obey<br>turn<br>defense<br>face
+bip_39_word_new_br5: obey<br>turn<br>defense<br>face<br>pill
+bip_39_word_new_br6: obey<br>turn<br>defense<br>face<br>pill<br>team
+bip_39_word_new_br7: obey<br>turn<br>defense<br>face<br>pill<br>team<br>medal
+bip_39_word_new_br8: obey<br>turn<br>defense<br>face<br>pill<br>team<br>medal<br>roof
+bip_39_word_new_br9: obey<br>turn<br>defense<br>face<br>pill<br>team<br>medal<br>roof<br>evil
+bip_39_word_new_line1: obey
+bip_39_word_new_line10: 'obey
+
+  turn
+
+  defense
+
+  face
+
+  pill
+
+  team
+
+  medal
+
+  roof
+
+  evil
+
+  shoot'
+bip_39_word_new_line11: 'obey
+
+  turn
+
+  defense
+
+  face
+
+  pill
+
+  team
+
+  medal
+
+  roof
+
+  evil
+
+  shoot
+
+  believe'
+bip_39_word_new_line12: 'obey
+
+  turn
+
+  defense
+
+  face
+
+  pill
+
+  team
+
+  medal
+
+  roof
+
+  evil
+
+  shoot
+
+  believe
+
+  ask'
+bip_39_word_new_line2: 'obey
+
+  turn'
+bip_39_word_new_line3: 'obey
+
+  turn
+
+  defense'
+bip_39_word_new_line4: 'obey
+
+  turn
+
+  defense
+
+  face'
+bip_39_word_new_line5: 'obey
+
+  turn
+
+  defense
+
+  face
+
+  pill'
+bip_39_word_new_line6: 'obey
+
+  turn
+
+  defense
+
+  face
+
+  pill
+
+  team'
+bip_39_word_new_line7: 'obey
+
+  turn
+
+  defense
+
+  face
+
+  pill
+
+  team
+
+  medal'
+bip_39_word_new_line8: 'obey
+
+  turn
+
+  defense
+
+  face
+
+  pill
+
+  team
+
+  medal
+
+  roof'
+bip_39_word_new_line9: 'obey
+
+  turn
+
+  defense
+
+  face
+
+  pill
+
+  team
+
+  medal
+
+  roof
+
+  evil'
+bip_39_word_space_0:
+- obey
+- turn
+- defense
+- face
+- pill
+- team
+- medal
+- roof
+- evil
+- shoot
+- believe
+- ask
+bip_39_word_space_1: obey
+bip_39_word_space_10: obey turn defense face pill team medal roof evil shoot
+bip_39_word_space_11: obey turn defense face pill team medal roof evil shoot believe
+bip_39_word_space_12: obey turn defense face pill team medal roof evil shoot believe
+  ask
+bip_39_word_space_2: obey turn
+bip_39_word_space_3: obey turn defense
+bip_39_word_space_4: obey turn defense face
+bip_39_word_space_5: obey turn defense face pill
+bip_39_word_space_6: obey turn defense face pill team
+bip_39_word_space_7: obey turn defense face pill team medal
+bip_39_word_space_8: obey turn defense face pill team medal roof
+bip_39_word_space_9: obey turn defense face pill team medal roof evil
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

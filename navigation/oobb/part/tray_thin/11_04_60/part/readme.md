@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chaos wreck
+  * bip 39 word 3: chaos wreck outside
+  * bip 39 word: chaos wreck outside example reason egg force strike faculty celery prosper armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chaos |  
+| bip_39_word_new_br10 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg<br>force<br>strike<br>faculty<br>celery |  
+| bip_39_word_new_br11 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg<br>force<br>strike<br>faculty<br>celery<br>prosper |  
+| bip_39_word_new_br12 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg<br>force<br>strike<br>faculty<br>celery<br>prosper<br>armor |  
+| bip_39_word_new_br2 | chaos<br>wreck |  
+| bip_39_word_new_br3 | chaos<br>wreck<br>outside |  
+| bip_39_word_new_br4 | chaos<br>wreck<br>outside<br>example |  
+| bip_39_word_new_br5 | chaos<br>wreck<br>outside<br>example<br>reason |  
+| bip_39_word_new_br6 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg |  
+| bip_39_word_new_br7 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg<br>force |  
+| bip_39_word_new_br8 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg<br>force<br>strike |  
+| bip_39_word_new_br9 | chaos<br>wreck<br>outside<br>example<br>reason<br>egg<br>force<br>strike<br>faculty |  
+| bip_39_word_new_line1 | chaos |  
+| bip_39_word_new_line10 | chaos
+wreck
+outside
+example
+reason
+egg
+force
+strike
+faculty
+celery |  
+| bip_39_word_new_line11 | chaos
+wreck
+outside
+example
+reason
+egg
+force
+strike
+faculty
+celery
+prosper |  
+| bip_39_word_new_line12 | chaos
+wreck
+outside
+example
+reason
+egg
+force
+strike
+faculty
+celery
+prosper
+armor |  
+| bip_39_word_new_line2 | chaos
+wreck |  
+| bip_39_word_new_line3 | chaos
+wreck
+outside |  
+| bip_39_word_new_line4 | chaos
+wreck
+outside
+example |  
+| bip_39_word_new_line5 | chaos
+wreck
+outside
+example
+reason |  
+| bip_39_word_new_line6 | chaos
+wreck
+outside
+example
+reason
+egg |  
+| bip_39_word_new_line7 | chaos
+wreck
+outside
+example
+reason
+egg
+force |  
+| bip_39_word_new_line8 | chaos
+wreck
+outside
+example
+reason
+egg
+force
+strike |  
+| bip_39_word_new_line9 | chaos
+wreck
+outside
+example
+reason
+egg
+force
+strike
+faculty |  
+| bip_39_word_space_0 | ['chaos', 'wreck', 'outside', 'example', 'reason', 'egg', 'force', 'strike', 'faculty', 'celery', 'prosper', 'armor'] |  
+| bip_39_word_space_1 | chaos |  
+| bip_39_word_space_10 | chaos wreck outside example reason egg force strike faculty celery |  
+| bip_39_word_space_11 | chaos wreck outside example reason egg force strike faculty celery prosper |  
+| bip_39_word_space_12 | chaos wreck outside example reason egg force strike faculty celery prosper armor |  
+| bip_39_word_space_2 | chaos wreck |  
+| bip_39_word_space_3 | chaos wreck outside |  
+| bip_39_word_space_4 | chaos wreck outside example |  
+| bip_39_word_space_5 | chaos wreck outside example reason |  
+| bip_39_word_space_6 | chaos wreck outside example reason egg |  
+| bip_39_word_space_7 | chaos wreck outside example reason egg force |  
+| bip_39_word_space_8 | chaos wreck outside example reason egg force strike |  
+| bip_39_word_space_9 | chaos wreck outside example reason egg force strike faculty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sail
+bip_39_word_new_br10: sail<br>wife<br>excuse<br>donor<br>vendor<br>almost<br>teach<br>science<br>hurt<br>entire
+bip_39_word_new_br11: sail<br>wife<br>excuse<br>donor<br>vendor<br>almost<br>teach<br>science<br>hurt<br>entire<br>yellow
+bip_39_word_new_br12: sail<br>wife<br>excuse<br>donor<br>vendor<br>almost<br>teach<br>science<br>hurt<br>entire<br>yellow<br>attend
+bip_39_word_new_br2: sail<br>wife
+bip_39_word_new_br3: sail<br>wife<br>excuse
+bip_39_word_new_br4: sail<br>wife<br>excuse<br>donor
+bip_39_word_new_br5: sail<br>wife<br>excuse<br>donor<br>vendor
+bip_39_word_new_br6: sail<br>wife<br>excuse<br>donor<br>vendor<br>almost
+bip_39_word_new_br7: sail<br>wife<br>excuse<br>donor<br>vendor<br>almost<br>teach
+bip_39_word_new_br8: sail<br>wife<br>excuse<br>donor<br>vendor<br>almost<br>teach<br>science
+bip_39_word_new_br9: sail<br>wife<br>excuse<br>donor<br>vendor<br>almost<br>teach<br>science<br>hurt
+bip_39_word_new_line1: sail
+bip_39_word_new_line10: 'sail
+
+  wife
+
+  excuse
+
+  donor
+
+  vendor
+
+  almost
+
+  teach
+
+  science
+
+  hurt
+
+  entire'
+bip_39_word_new_line11: 'sail
+
+  wife
+
+  excuse
+
+  donor
+
+  vendor
+
+  almost
+
+  teach
+
+  science
+
+  hurt
+
+  entire
+
+  yellow'
+bip_39_word_new_line12: 'sail
+
+  wife
+
+  excuse
+
+  donor
+
+  vendor
+
+  almost
+
+  teach
+
+  science
+
+  hurt
+
+  entire
+
+  yellow
+
+  attend'
+bip_39_word_new_line2: 'sail
+
+  wife'
+bip_39_word_new_line3: 'sail
+
+  wife
+
+  excuse'
+bip_39_word_new_line4: 'sail
+
+  wife
+
+  excuse
+
+  donor'
+bip_39_word_new_line5: 'sail
+
+  wife
+
+  excuse
+
+  donor
+
+  vendor'
+bip_39_word_new_line6: 'sail
+
+  wife
+
+  excuse
+
+  donor
+
+  vendor
+
+  almost'
+bip_39_word_new_line7: 'sail
+
+  wife
+
+  excuse
+
+  donor
+
+  vendor
+
+  almost
+
+  teach'
+bip_39_word_new_line8: 'sail
+
+  wife
+
+  excuse
+
+  donor
+
+  vendor
+
+  almost
+
+  teach
+
+  science'
+bip_39_word_new_line9: 'sail
+
+  wife
+
+  excuse
+
+  donor
+
+  vendor
+
+  almost
+
+  teach
+
+  science
+
+  hurt'
+bip_39_word_space_0:
+- sail
+- wife
+- excuse
+- donor
+- vendor
+- almost
+- teach
+- science
+- hurt
+- entire
+- yellow
+- attend
+bip_39_word_space_1: sail
+bip_39_word_space_10: sail wife excuse donor vendor almost teach science hurt entire
+bip_39_word_space_11: sail wife excuse donor vendor almost teach science hurt entire
+  yellow
+bip_39_word_space_12: sail wife excuse donor vendor almost teach science hurt entire
+  yellow attend
+bip_39_word_space_2: sail wife
+bip_39_word_space_3: sail wife excuse
+bip_39_word_space_4: sail wife excuse donor
+bip_39_word_space_5: sail wife excuse donor vendor
+bip_39_word_space_6: sail wife excuse donor vendor almost
+bip_39_word_space_7: sail wife excuse donor vendor almost teach
+bip_39_word_space_8: sail wife excuse donor vendor almost teach science
+bip_39_word_space_9: sail wife excuse donor vendor almost teach science hurt
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

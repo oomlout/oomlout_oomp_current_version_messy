@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quantum radio
+  * bip 39 word 3: quantum radio tail
+  * bip 39 word: quantum radio tail express chicken clinic pride under milk mechanic floor amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quantum |  
+| bip_39_word_new_br10 | quantum<br>radio<br>tail<br>express<br>chicken<br>clinic<br>pride<br>under<br>milk<br>mechanic |  
+| bip_39_word_new_br11 | quantum<br>radio<br>tail<br>express<br>chicken<br>clinic<br>pride<br>under<br>milk<br>mechanic<br>floor |  
+| bip_39_word_new_br12 | quantum<br>radio<br>tail<br>express<br>chicken<br>clinic<br>pride<br>under<br>milk<br>mechanic<br>floor<br>amazing |  
+| bip_39_word_new_br2 | quantum<br>radio |  
+| bip_39_word_new_br3 | quantum<br>radio<br>tail |  
+| bip_39_word_new_br4 | quantum<br>radio<br>tail<br>express |  
+| bip_39_word_new_br5 | quantum<br>radio<br>tail<br>express<br>chicken |  
+| bip_39_word_new_br6 | quantum<br>radio<br>tail<br>express<br>chicken<br>clinic |  
+| bip_39_word_new_br7 | quantum<br>radio<br>tail<br>express<br>chicken<br>clinic<br>pride |  
+| bip_39_word_new_br8 | quantum<br>radio<br>tail<br>express<br>chicken<br>clinic<br>pride<br>under |  
+| bip_39_word_new_br9 | quantum<br>radio<br>tail<br>express<br>chicken<br>clinic<br>pride<br>under<br>milk |  
+| bip_39_word_new_line1 | quantum |  
+| bip_39_word_new_line10 | quantum
+radio
+tail
+express
+chicken
+clinic
+pride
+under
+milk
+mechanic |  
+| bip_39_word_new_line11 | quantum
+radio
+tail
+express
+chicken
+clinic
+pride
+under
+milk
+mechanic
+floor |  
+| bip_39_word_new_line12 | quantum
+radio
+tail
+express
+chicken
+clinic
+pride
+under
+milk
+mechanic
+floor
+amazing |  
+| bip_39_word_new_line2 | quantum
+radio |  
+| bip_39_word_new_line3 | quantum
+radio
+tail |  
+| bip_39_word_new_line4 | quantum
+radio
+tail
+express |  
+| bip_39_word_new_line5 | quantum
+radio
+tail
+express
+chicken |  
+| bip_39_word_new_line6 | quantum
+radio
+tail
+express
+chicken
+clinic |  
+| bip_39_word_new_line7 | quantum
+radio
+tail
+express
+chicken
+clinic
+pride |  
+| bip_39_word_new_line8 | quantum
+radio
+tail
+express
+chicken
+clinic
+pride
+under |  
+| bip_39_word_new_line9 | quantum
+radio
+tail
+express
+chicken
+clinic
+pride
+under
+milk |  
+| bip_39_word_space_0 | ['quantum', 'radio', 'tail', 'express', 'chicken', 'clinic', 'pride', 'under', 'milk', 'mechanic', 'floor', 'amazing'] |  
+| bip_39_word_space_1 | quantum |  
+| bip_39_word_space_10 | quantum radio tail express chicken clinic pride under milk mechanic |  
+| bip_39_word_space_11 | quantum radio tail express chicken clinic pride under milk mechanic floor |  
+| bip_39_word_space_12 | quantum radio tail express chicken clinic pride under milk mechanic floor amazing |  
+| bip_39_word_space_2 | quantum radio |  
+| bip_39_word_space_3 | quantum radio tail |  
+| bip_39_word_space_4 | quantum radio tail express |  
+| bip_39_word_space_5 | quantum radio tail express chicken |  
+| bip_39_word_space_6 | quantum radio tail express chicken clinic |  
+| bip_39_word_space_7 | quantum radio tail express chicken clinic pride |  
+| bip_39_word_space_8 | quantum radio tail express chicken clinic pride under |  
+| bip_39_word_space_9 | quantum radio tail express chicken clinic pride under milk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

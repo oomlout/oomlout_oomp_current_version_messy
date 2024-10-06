@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: staff kit
+  * bip 39 word 3: staff kit wood
+  * bip 39 word: staff kit wood stomach carbon viable rocket deposit private electric prefer apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | staff |  
+| bip_39_word_new_br10 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable<br>rocket<br>deposit<br>private<br>electric |  
+| bip_39_word_new_br11 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable<br>rocket<br>deposit<br>private<br>electric<br>prefer |  
+| bip_39_word_new_br12 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable<br>rocket<br>deposit<br>private<br>electric<br>prefer<br>apology |  
+| bip_39_word_new_br2 | staff<br>kit |  
+| bip_39_word_new_br3 | staff<br>kit<br>wood |  
+| bip_39_word_new_br4 | staff<br>kit<br>wood<br>stomach |  
+| bip_39_word_new_br5 | staff<br>kit<br>wood<br>stomach<br>carbon |  
+| bip_39_word_new_br6 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable |  
+| bip_39_word_new_br7 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable<br>rocket |  
+| bip_39_word_new_br8 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable<br>rocket<br>deposit |  
+| bip_39_word_new_br9 | staff<br>kit<br>wood<br>stomach<br>carbon<br>viable<br>rocket<br>deposit<br>private |  
+| bip_39_word_new_line1 | staff |  
+| bip_39_word_new_line10 | staff
+kit
+wood
+stomach
+carbon
+viable
+rocket
+deposit
+private
+electric |  
+| bip_39_word_new_line11 | staff
+kit
+wood
+stomach
+carbon
+viable
+rocket
+deposit
+private
+electric
+prefer |  
+| bip_39_word_new_line12 | staff
+kit
+wood
+stomach
+carbon
+viable
+rocket
+deposit
+private
+electric
+prefer
+apology |  
+| bip_39_word_new_line2 | staff
+kit |  
+| bip_39_word_new_line3 | staff
+kit
+wood |  
+| bip_39_word_new_line4 | staff
+kit
+wood
+stomach |  
+| bip_39_word_new_line5 | staff
+kit
+wood
+stomach
+carbon |  
+| bip_39_word_new_line6 | staff
+kit
+wood
+stomach
+carbon
+viable |  
+| bip_39_word_new_line7 | staff
+kit
+wood
+stomach
+carbon
+viable
+rocket |  
+| bip_39_word_new_line8 | staff
+kit
+wood
+stomach
+carbon
+viable
+rocket
+deposit |  
+| bip_39_word_new_line9 | staff
+kit
+wood
+stomach
+carbon
+viable
+rocket
+deposit
+private |  
+| bip_39_word_space_0 | ['staff', 'kit', 'wood', 'stomach', 'carbon', 'viable', 'rocket', 'deposit', 'private', 'electric', 'prefer', 'apology'] |  
+| bip_39_word_space_1 | staff |  
+| bip_39_word_space_10 | staff kit wood stomach carbon viable rocket deposit private electric |  
+| bip_39_word_space_11 | staff kit wood stomach carbon viable rocket deposit private electric prefer |  
+| bip_39_word_space_12 | staff kit wood stomach carbon viable rocket deposit private electric prefer apology |  
+| bip_39_word_space_2 | staff kit |  
+| bip_39_word_space_3 | staff kit wood |  
+| bip_39_word_space_4 | staff kit wood stomach |  
+| bip_39_word_space_5 | staff kit wood stomach carbon |  
+| bip_39_word_space_6 | staff kit wood stomach carbon viable |  
+| bip_39_word_space_7 | staff kit wood stomach carbon viable rocket |  
+| bip_39_word_space_8 | staff kit wood stomach carbon viable rocket deposit |  
+| bip_39_word_space_9 | staff kit wood stomach carbon viable rocket deposit private |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tip
+bip_39_word_new_br10: tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze
+bip_39_word_new_br11: tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze<br>tribe
+bip_39_word_new_br12: tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close<br>squeeze<br>tribe<br>assist
+bip_39_word_new_br2: tip<br>voice
+bip_39_word_new_br3: tip<br>voice<br>scatter
+bip_39_word_new_br4: tip<br>voice<br>scatter<br>budget
+bip_39_word_new_br5: tip<br>voice<br>scatter<br>budget<br>border
+bip_39_word_new_br6: tip<br>voice<br>scatter<br>budget<br>border<br>blast
+bip_39_word_new_br7: tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul
+bip_39_word_new_br8: tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss
+bip_39_word_new_br9: tip<br>voice<br>scatter<br>budget<br>border<br>blast<br>soul<br>toss<br>close
+bip_39_word_new_line1: tip
+bip_39_word_new_line10: 'tip
+
+  voice
+
+  scatter
+
+  budget
+
+  border
+
+  blast
+
+  soul
+
+  toss
+
+  close
+
+  squeeze'
+bip_39_word_new_line11: 'tip
+
+  voice
+
+  scatter
+
+  budget
+
+  border
+
+  blast
+
+  soul
+
+  toss
+
+  close
+
+  squeeze
+
+  tribe'
+bip_39_word_new_line12: 'tip
+
+  voice
+
+  scatter
+
+  budget
+
+  border
+
+  blast
+
+  soul
+
+  toss
+
+  close
+
+  squeeze
+
+  tribe
+
+  assist'
+bip_39_word_new_line2: 'tip
+
+  voice'
+bip_39_word_new_line3: 'tip
+
+  voice
+
+  scatter'
+bip_39_word_new_line4: 'tip
+
+  voice
+
+  scatter
+
+  budget'
+bip_39_word_new_line5: 'tip
+
+  voice
+
+  scatter
+
+  budget
+
+  border'
+bip_39_word_new_line6: 'tip
+
+  voice
+
+  scatter
+
+  budget
+
+  border
+
+  blast'
+bip_39_word_new_line7: 'tip
+
+  voice
+
+  scatter
+
+  budget
+
+  border
+
+  blast
+
+  soul'
+bip_39_word_new_line8: 'tip
+
+  voice
+
+  scatter
+
+  budget
+
+  border
+
+  blast
+
+  soul
+
+  toss'
+bip_39_word_new_line9: 'tip
+
+  voice
+
+  scatter
+
+  budget
+
+  border
+
+  blast
+
+  soul
+
+  toss
+
+  close'
+bip_39_word_space_0:
+- tip
+- voice
+- scatter
+- budget
+- border
+- blast
+- soul
+- toss
+- close
+- squeeze
+- tribe
+- assist
+bip_39_word_space_1: tip
+bip_39_word_space_10: tip voice scatter budget border blast soul toss close squeeze
+bip_39_word_space_11: tip voice scatter budget border blast soul toss close squeeze
+  tribe
+bip_39_word_space_12: tip voice scatter budget border blast soul toss close squeeze
+  tribe assist
+bip_39_word_space_2: tip voice
+bip_39_word_space_3: tip voice scatter
+bip_39_word_space_4: tip voice scatter budget
+bip_39_word_space_5: tip voice scatter budget border
+bip_39_word_space_6: tip voice scatter budget border blast
+bip_39_word_space_7: tip voice scatter budget border blast soul
+bip_39_word_space_8: tip voice scatter budget border blast soul toss
+bip_39_word_space_9: tip voice scatter budget border blast soul toss close
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

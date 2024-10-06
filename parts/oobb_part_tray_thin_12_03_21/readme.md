@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: canoe card
+  * bip 39 word 3: canoe card transfer
+  * bip 39 word: canoe card transfer high betray lizard glare term tooth barrel satoshi album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | canoe |  
+| bip_39_word_new_br10 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth<br>barrel |  
+| bip_39_word_new_br11 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth<br>barrel<br>satoshi |  
+| bip_39_word_new_br12 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth<br>barrel<br>satoshi<br>album |  
+| bip_39_word_new_br2 | canoe<br>card |  
+| bip_39_word_new_br3 | canoe<br>card<br>transfer |  
+| bip_39_word_new_br4 | canoe<br>card<br>transfer<br>high |  
+| bip_39_word_new_br5 | canoe<br>card<br>transfer<br>high<br>betray |  
+| bip_39_word_new_br6 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard |  
+| bip_39_word_new_br7 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare |  
+| bip_39_word_new_br8 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term |  
+| bip_39_word_new_br9 | canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth |  
+| bip_39_word_new_line1 | canoe |  
+| bip_39_word_new_line10 | canoe
+card
+transfer
+high
+betray
+lizard
+glare
+term
+tooth
+barrel |  
+| bip_39_word_new_line11 | canoe
+card
+transfer
+high
+betray
+lizard
+glare
+term
+tooth
+barrel
+satoshi |  
+| bip_39_word_new_line12 | canoe
+card
+transfer
+high
+betray
+lizard
+glare
+term
+tooth
+barrel
+satoshi
+album |  
+| bip_39_word_new_line2 | canoe
+card |  
+| bip_39_word_new_line3 | canoe
+card
+transfer |  
+| bip_39_word_new_line4 | canoe
+card
+transfer
+high |  
+| bip_39_word_new_line5 | canoe
+card
+transfer
+high
+betray |  
+| bip_39_word_new_line6 | canoe
+card
+transfer
+high
+betray
+lizard |  
+| bip_39_word_new_line7 | canoe
+card
+transfer
+high
+betray
+lizard
+glare |  
+| bip_39_word_new_line8 | canoe
+card
+transfer
+high
+betray
+lizard
+glare
+term |  
+| bip_39_word_new_line9 | canoe
+card
+transfer
+high
+betray
+lizard
+glare
+term
+tooth |  
+| bip_39_word_space_0 | ['canoe', 'card', 'transfer', 'high', 'betray', 'lizard', 'glare', 'term', 'tooth', 'barrel', 'satoshi', 'album'] |  
+| bip_39_word_space_1 | canoe |  
+| bip_39_word_space_10 | canoe card transfer high betray lizard glare term tooth barrel |  
+| bip_39_word_space_11 | canoe card transfer high betray lizard glare term tooth barrel satoshi |  
+| bip_39_word_space_12 | canoe card transfer high betray lizard glare term tooth barrel satoshi album |  
+| bip_39_word_space_2 | canoe card |  
+| bip_39_word_space_3 | canoe card transfer |  
+| bip_39_word_space_4 | canoe card transfer high |  
+| bip_39_word_space_5 | canoe card transfer high betray |  
+| bip_39_word_space_6 | canoe card transfer high betray lizard |  
+| bip_39_word_space_7 | canoe card transfer high betray lizard glare |  
+| bip_39_word_space_8 | canoe card transfer high betray lizard glare term |  
+| bip_39_word_space_9 | canoe card transfer high betray lizard glare term tooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

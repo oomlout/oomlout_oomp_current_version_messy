@@ -1,3 +1,185 @@
+bip_39_word_new_br1: come
+bip_39_word_new_br10: come<br>ankle<br>bread<br>omit<br>panel<br>belt<br>daughter<br>beach<br>shock<br>idle
+bip_39_word_new_br11: come<br>ankle<br>bread<br>omit<br>panel<br>belt<br>daughter<br>beach<br>shock<br>idle<br>awake
+bip_39_word_new_br12: come<br>ankle<br>bread<br>omit<br>panel<br>belt<br>daughter<br>beach<br>shock<br>idle<br>awake<br>ahead
+bip_39_word_new_br2: come<br>ankle
+bip_39_word_new_br3: come<br>ankle<br>bread
+bip_39_word_new_br4: come<br>ankle<br>bread<br>omit
+bip_39_word_new_br5: come<br>ankle<br>bread<br>omit<br>panel
+bip_39_word_new_br6: come<br>ankle<br>bread<br>omit<br>panel<br>belt
+bip_39_word_new_br7: come<br>ankle<br>bread<br>omit<br>panel<br>belt<br>daughter
+bip_39_word_new_br8: come<br>ankle<br>bread<br>omit<br>panel<br>belt<br>daughter<br>beach
+bip_39_word_new_br9: come<br>ankle<br>bread<br>omit<br>panel<br>belt<br>daughter<br>beach<br>shock
+bip_39_word_new_line1: come
+bip_39_word_new_line10: 'come
+
+  ankle
+
+  bread
+
+  omit
+
+  panel
+
+  belt
+
+  daughter
+
+  beach
+
+  shock
+
+  idle'
+bip_39_word_new_line11: 'come
+
+  ankle
+
+  bread
+
+  omit
+
+  panel
+
+  belt
+
+  daughter
+
+  beach
+
+  shock
+
+  idle
+
+  awake'
+bip_39_word_new_line12: 'come
+
+  ankle
+
+  bread
+
+  omit
+
+  panel
+
+  belt
+
+  daughter
+
+  beach
+
+  shock
+
+  idle
+
+  awake
+
+  ahead'
+bip_39_word_new_line2: 'come
+
+  ankle'
+bip_39_word_new_line3: 'come
+
+  ankle
+
+  bread'
+bip_39_word_new_line4: 'come
+
+  ankle
+
+  bread
+
+  omit'
+bip_39_word_new_line5: 'come
+
+  ankle
+
+  bread
+
+  omit
+
+  panel'
+bip_39_word_new_line6: 'come
+
+  ankle
+
+  bread
+
+  omit
+
+  panel
+
+  belt'
+bip_39_word_new_line7: 'come
+
+  ankle
+
+  bread
+
+  omit
+
+  panel
+
+  belt
+
+  daughter'
+bip_39_word_new_line8: 'come
+
+  ankle
+
+  bread
+
+  omit
+
+  panel
+
+  belt
+
+  daughter
+
+  beach'
+bip_39_word_new_line9: 'come
+
+  ankle
+
+  bread
+
+  omit
+
+  panel
+
+  belt
+
+  daughter
+
+  beach
+
+  shock'
+bip_39_word_space_0:
+- come
+- ankle
+- bread
+- omit
+- panel
+- belt
+- daughter
+- beach
+- shock
+- idle
+- awake
+- ahead
+bip_39_word_space_1: come
+bip_39_word_space_10: come ankle bread omit panel belt daughter beach shock idle
+bip_39_word_space_11: come ankle bread omit panel belt daughter beach shock idle awake
+bip_39_word_space_12: come ankle bread omit panel belt daughter beach shock idle awake
+  ahead
+bip_39_word_space_2: come ankle
+bip_39_word_space_3: come ankle bread
+bip_39_word_space_4: come ankle bread omit
+bip_39_word_space_5: come ankle bread omit panel
+bip_39_word_space_6: come ankle bread omit panel belt
+bip_39_word_space_7: come ankle bread omit panel belt daughter
+bip_39_word_space_8: come ankle bread omit panel belt daughter beach
+bip_39_word_space_9: come ankle bread omit panel belt daughter beach shock
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

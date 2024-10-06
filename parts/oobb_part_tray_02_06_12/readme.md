@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exile gather
+  * bip 39 word 3: exile gather firm
+  * bip 39 word: exile gather firm monster people dry shock fatal dismiss oxygen okay apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exile |  
+| bip_39_word_new_br10 | exile<br>gather<br>firm<br>monster<br>people<br>dry<br>shock<br>fatal<br>dismiss<br>oxygen |  
+| bip_39_word_new_br11 | exile<br>gather<br>firm<br>monster<br>people<br>dry<br>shock<br>fatal<br>dismiss<br>oxygen<br>okay |  
+| bip_39_word_new_br12 | exile<br>gather<br>firm<br>monster<br>people<br>dry<br>shock<br>fatal<br>dismiss<br>oxygen<br>okay<br>apple |  
+| bip_39_word_new_br2 | exile<br>gather |  
+| bip_39_word_new_br3 | exile<br>gather<br>firm |  
+| bip_39_word_new_br4 | exile<br>gather<br>firm<br>monster |  
+| bip_39_word_new_br5 | exile<br>gather<br>firm<br>monster<br>people |  
+| bip_39_word_new_br6 | exile<br>gather<br>firm<br>monster<br>people<br>dry |  
+| bip_39_word_new_br7 | exile<br>gather<br>firm<br>monster<br>people<br>dry<br>shock |  
+| bip_39_word_new_br8 | exile<br>gather<br>firm<br>monster<br>people<br>dry<br>shock<br>fatal |  
+| bip_39_word_new_br9 | exile<br>gather<br>firm<br>monster<br>people<br>dry<br>shock<br>fatal<br>dismiss |  
+| bip_39_word_new_line1 | exile |  
+| bip_39_word_new_line10 | exile
+gather
+firm
+monster
+people
+dry
+shock
+fatal
+dismiss
+oxygen |  
+| bip_39_word_new_line11 | exile
+gather
+firm
+monster
+people
+dry
+shock
+fatal
+dismiss
+oxygen
+okay |  
+| bip_39_word_new_line12 | exile
+gather
+firm
+monster
+people
+dry
+shock
+fatal
+dismiss
+oxygen
+okay
+apple |  
+| bip_39_word_new_line2 | exile
+gather |  
+| bip_39_word_new_line3 | exile
+gather
+firm |  
+| bip_39_word_new_line4 | exile
+gather
+firm
+monster |  
+| bip_39_word_new_line5 | exile
+gather
+firm
+monster
+people |  
+| bip_39_word_new_line6 | exile
+gather
+firm
+monster
+people
+dry |  
+| bip_39_word_new_line7 | exile
+gather
+firm
+monster
+people
+dry
+shock |  
+| bip_39_word_new_line8 | exile
+gather
+firm
+monster
+people
+dry
+shock
+fatal |  
+| bip_39_word_new_line9 | exile
+gather
+firm
+monster
+people
+dry
+shock
+fatal
+dismiss |  
+| bip_39_word_space_0 | ['exile', 'gather', 'firm', 'monster', 'people', 'dry', 'shock', 'fatal', 'dismiss', 'oxygen', 'okay', 'apple'] |  
+| bip_39_word_space_1 | exile |  
+| bip_39_word_space_10 | exile gather firm monster people dry shock fatal dismiss oxygen |  
+| bip_39_word_space_11 | exile gather firm monster people dry shock fatal dismiss oxygen okay |  
+| bip_39_word_space_12 | exile gather firm monster people dry shock fatal dismiss oxygen okay apple |  
+| bip_39_word_space_2 | exile gather |  
+| bip_39_word_space_3 | exile gather firm |  
+| bip_39_word_space_4 | exile gather firm monster |  
+| bip_39_word_space_5 | exile gather firm monster people |  
+| bip_39_word_space_6 | exile gather firm monster people dry |  
+| bip_39_word_space_7 | exile gather firm monster people dry shock |  
+| bip_39_word_space_8 | exile gather firm monster people dry shock fatal |  
+| bip_39_word_space_9 | exile gather firm monster people dry shock fatal dismiss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

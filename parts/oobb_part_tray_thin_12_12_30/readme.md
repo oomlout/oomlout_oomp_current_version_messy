@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pair top
+  * bip 39 word 3: pair top hard
+  * bip 39 word: pair top hard enroll culture oxygen logic before resist yard occur advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pair |  
+| bip_39_word_new_br10 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen<br>logic<br>before<br>resist<br>yard |  
+| bip_39_word_new_br11 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen<br>logic<br>before<br>resist<br>yard<br>occur |  
+| bip_39_word_new_br12 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen<br>logic<br>before<br>resist<br>yard<br>occur<br>advice |  
+| bip_39_word_new_br2 | pair<br>top |  
+| bip_39_word_new_br3 | pair<br>top<br>hard |  
+| bip_39_word_new_br4 | pair<br>top<br>hard<br>enroll |  
+| bip_39_word_new_br5 | pair<br>top<br>hard<br>enroll<br>culture |  
+| bip_39_word_new_br6 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen |  
+| bip_39_word_new_br7 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen<br>logic |  
+| bip_39_word_new_br8 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen<br>logic<br>before |  
+| bip_39_word_new_br9 | pair<br>top<br>hard<br>enroll<br>culture<br>oxygen<br>logic<br>before<br>resist |  
+| bip_39_word_new_line1 | pair |  
+| bip_39_word_new_line10 | pair
+top
+hard
+enroll
+culture
+oxygen
+logic
+before
+resist
+yard |  
+| bip_39_word_new_line11 | pair
+top
+hard
+enroll
+culture
+oxygen
+logic
+before
+resist
+yard
+occur |  
+| bip_39_word_new_line12 | pair
+top
+hard
+enroll
+culture
+oxygen
+logic
+before
+resist
+yard
+occur
+advice |  
+| bip_39_word_new_line2 | pair
+top |  
+| bip_39_word_new_line3 | pair
+top
+hard |  
+| bip_39_word_new_line4 | pair
+top
+hard
+enroll |  
+| bip_39_word_new_line5 | pair
+top
+hard
+enroll
+culture |  
+| bip_39_word_new_line6 | pair
+top
+hard
+enroll
+culture
+oxygen |  
+| bip_39_word_new_line7 | pair
+top
+hard
+enroll
+culture
+oxygen
+logic |  
+| bip_39_word_new_line8 | pair
+top
+hard
+enroll
+culture
+oxygen
+logic
+before |  
+| bip_39_word_new_line9 | pair
+top
+hard
+enroll
+culture
+oxygen
+logic
+before
+resist |  
+| bip_39_word_space_0 | ['pair', 'top', 'hard', 'enroll', 'culture', 'oxygen', 'logic', 'before', 'resist', 'yard', 'occur', 'advice'] |  
+| bip_39_word_space_1 | pair |  
+| bip_39_word_space_10 | pair top hard enroll culture oxygen logic before resist yard |  
+| bip_39_word_space_11 | pair top hard enroll culture oxygen logic before resist yard occur |  
+| bip_39_word_space_12 | pair top hard enroll culture oxygen logic before resist yard occur advice |  
+| bip_39_word_space_2 | pair top |  
+| bip_39_word_space_3 | pair top hard |  
+| bip_39_word_space_4 | pair top hard enroll |  
+| bip_39_word_space_5 | pair top hard enroll culture |  
+| bip_39_word_space_6 | pair top hard enroll culture oxygen |  
+| bip_39_word_space_7 | pair top hard enroll culture oxygen logic |  
+| bip_39_word_space_8 | pair top hard enroll culture oxygen logic before |  
+| bip_39_word_space_9 | pair top hard enroll culture oxygen logic before resist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

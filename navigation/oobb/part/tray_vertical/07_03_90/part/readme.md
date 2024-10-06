@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swear panel
+  * bip 39 word 3: swear panel amateur
+  * bip 39 word: swear panel amateur immense smoke hard desert between blame rough hazard above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swear |  
+| bip_39_word_new_br10 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard<br>desert<br>between<br>blame<br>rough |  
+| bip_39_word_new_br11 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard<br>desert<br>between<br>blame<br>rough<br>hazard |  
+| bip_39_word_new_br12 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard<br>desert<br>between<br>blame<br>rough<br>hazard<br>above |  
+| bip_39_word_new_br2 | swear<br>panel |  
+| bip_39_word_new_br3 | swear<br>panel<br>amateur |  
+| bip_39_word_new_br4 | swear<br>panel<br>amateur<br>immense |  
+| bip_39_word_new_br5 | swear<br>panel<br>amateur<br>immense<br>smoke |  
+| bip_39_word_new_br6 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard |  
+| bip_39_word_new_br7 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard<br>desert |  
+| bip_39_word_new_br8 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard<br>desert<br>between |  
+| bip_39_word_new_br9 | swear<br>panel<br>amateur<br>immense<br>smoke<br>hard<br>desert<br>between<br>blame |  
+| bip_39_word_new_line1 | swear |  
+| bip_39_word_new_line10 | swear
+panel
+amateur
+immense
+smoke
+hard
+desert
+between
+blame
+rough |  
+| bip_39_word_new_line11 | swear
+panel
+amateur
+immense
+smoke
+hard
+desert
+between
+blame
+rough
+hazard |  
+| bip_39_word_new_line12 | swear
+panel
+amateur
+immense
+smoke
+hard
+desert
+between
+blame
+rough
+hazard
+above |  
+| bip_39_word_new_line2 | swear
+panel |  
+| bip_39_word_new_line3 | swear
+panel
+amateur |  
+| bip_39_word_new_line4 | swear
+panel
+amateur
+immense |  
+| bip_39_word_new_line5 | swear
+panel
+amateur
+immense
+smoke |  
+| bip_39_word_new_line6 | swear
+panel
+amateur
+immense
+smoke
+hard |  
+| bip_39_word_new_line7 | swear
+panel
+amateur
+immense
+smoke
+hard
+desert |  
+| bip_39_word_new_line8 | swear
+panel
+amateur
+immense
+smoke
+hard
+desert
+between |  
+| bip_39_word_new_line9 | swear
+panel
+amateur
+immense
+smoke
+hard
+desert
+between
+blame |  
+| bip_39_word_space_0 | ['swear', 'panel', 'amateur', 'immense', 'smoke', 'hard', 'desert', 'between', 'blame', 'rough', 'hazard', 'above'] |  
+| bip_39_word_space_1 | swear |  
+| bip_39_word_space_10 | swear panel amateur immense smoke hard desert between blame rough |  
+| bip_39_word_space_11 | swear panel amateur immense smoke hard desert between blame rough hazard |  
+| bip_39_word_space_12 | swear panel amateur immense smoke hard desert between blame rough hazard above |  
+| bip_39_word_space_2 | swear panel |  
+| bip_39_word_space_3 | swear panel amateur |  
+| bip_39_word_space_4 | swear panel amateur immense |  
+| bip_39_word_space_5 | swear panel amateur immense smoke |  
+| bip_39_word_space_6 | swear panel amateur immense smoke hard |  
+| bip_39_word_space_7 | swear panel amateur immense smoke hard desert |  
+| bip_39_word_space_8 | swear panel amateur immense smoke hard desert between |  
+| bip_39_word_space_9 | swear panel amateur immense smoke hard desert between blame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

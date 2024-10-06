@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: obscure wink
+  * bip 39 word 3: obscure wink minute
+  * bip 39 word: obscure wink minute chief success jealous rapid upon hover electric path afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | obscure |  
+| bip_39_word_new_br10 | obscure<br>wink<br>minute<br>chief<br>success<br>jealous<br>rapid<br>upon<br>hover<br>electric |  
+| bip_39_word_new_br11 | obscure<br>wink<br>minute<br>chief<br>success<br>jealous<br>rapid<br>upon<br>hover<br>electric<br>path |  
+| bip_39_word_new_br12 | obscure<br>wink<br>minute<br>chief<br>success<br>jealous<br>rapid<br>upon<br>hover<br>electric<br>path<br>afford |  
+| bip_39_word_new_br2 | obscure<br>wink |  
+| bip_39_word_new_br3 | obscure<br>wink<br>minute |  
+| bip_39_word_new_br4 | obscure<br>wink<br>minute<br>chief |  
+| bip_39_word_new_br5 | obscure<br>wink<br>minute<br>chief<br>success |  
+| bip_39_word_new_br6 | obscure<br>wink<br>minute<br>chief<br>success<br>jealous |  
+| bip_39_word_new_br7 | obscure<br>wink<br>minute<br>chief<br>success<br>jealous<br>rapid |  
+| bip_39_word_new_br8 | obscure<br>wink<br>minute<br>chief<br>success<br>jealous<br>rapid<br>upon |  
+| bip_39_word_new_br9 | obscure<br>wink<br>minute<br>chief<br>success<br>jealous<br>rapid<br>upon<br>hover |  
+| bip_39_word_new_line1 | obscure |  
+| bip_39_word_new_line10 | obscure
+wink
+minute
+chief
+success
+jealous
+rapid
+upon
+hover
+electric |  
+| bip_39_word_new_line11 | obscure
+wink
+minute
+chief
+success
+jealous
+rapid
+upon
+hover
+electric
+path |  
+| bip_39_word_new_line12 | obscure
+wink
+minute
+chief
+success
+jealous
+rapid
+upon
+hover
+electric
+path
+afford |  
+| bip_39_word_new_line2 | obscure
+wink |  
+| bip_39_word_new_line3 | obscure
+wink
+minute |  
+| bip_39_word_new_line4 | obscure
+wink
+minute
+chief |  
+| bip_39_word_new_line5 | obscure
+wink
+minute
+chief
+success |  
+| bip_39_word_new_line6 | obscure
+wink
+minute
+chief
+success
+jealous |  
+| bip_39_word_new_line7 | obscure
+wink
+minute
+chief
+success
+jealous
+rapid |  
+| bip_39_word_new_line8 | obscure
+wink
+minute
+chief
+success
+jealous
+rapid
+upon |  
+| bip_39_word_new_line9 | obscure
+wink
+minute
+chief
+success
+jealous
+rapid
+upon
+hover |  
+| bip_39_word_space_0 | ['obscure', 'wink', 'minute', 'chief', 'success', 'jealous', 'rapid', 'upon', 'hover', 'electric', 'path', 'afford'] |  
+| bip_39_word_space_1 | obscure |  
+| bip_39_word_space_10 | obscure wink minute chief success jealous rapid upon hover electric |  
+| bip_39_word_space_11 | obscure wink minute chief success jealous rapid upon hover electric path |  
+| bip_39_word_space_12 | obscure wink minute chief success jealous rapid upon hover electric path afford |  
+| bip_39_word_space_2 | obscure wink |  
+| bip_39_word_space_3 | obscure wink minute |  
+| bip_39_word_space_4 | obscure wink minute chief |  
+| bip_39_word_space_5 | obscure wink minute chief success |  
+| bip_39_word_space_6 | obscure wink minute chief success jealous |  
+| bip_39_word_space_7 | obscure wink minute chief success jealous rapid |  
+| bip_39_word_space_8 | obscure wink minute chief success jealous rapid upon |  
+| bip_39_word_space_9 | obscure wink minute chief success jealous rapid upon hover |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

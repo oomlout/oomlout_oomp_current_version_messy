@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: season electric
+  * bip 39 word 3: season electric pepper
+  * bip 39 word: season electric pepper seed sell region pupil scan kiwi rug praise amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | season |  
+| bip_39_word_new_br10 | season<br>electric<br>pepper<br>seed<br>sell<br>region<br>pupil<br>scan<br>kiwi<br>rug |  
+| bip_39_word_new_br11 | season<br>electric<br>pepper<br>seed<br>sell<br>region<br>pupil<br>scan<br>kiwi<br>rug<br>praise |  
+| bip_39_word_new_br12 | season<br>electric<br>pepper<br>seed<br>sell<br>region<br>pupil<br>scan<br>kiwi<br>rug<br>praise<br>amateur |  
+| bip_39_word_new_br2 | season<br>electric |  
+| bip_39_word_new_br3 | season<br>electric<br>pepper |  
+| bip_39_word_new_br4 | season<br>electric<br>pepper<br>seed |  
+| bip_39_word_new_br5 | season<br>electric<br>pepper<br>seed<br>sell |  
+| bip_39_word_new_br6 | season<br>electric<br>pepper<br>seed<br>sell<br>region |  
+| bip_39_word_new_br7 | season<br>electric<br>pepper<br>seed<br>sell<br>region<br>pupil |  
+| bip_39_word_new_br8 | season<br>electric<br>pepper<br>seed<br>sell<br>region<br>pupil<br>scan |  
+| bip_39_word_new_br9 | season<br>electric<br>pepper<br>seed<br>sell<br>region<br>pupil<br>scan<br>kiwi |  
+| bip_39_word_new_line1 | season |  
+| bip_39_word_new_line10 | season
+electric
+pepper
+seed
+sell
+region
+pupil
+scan
+kiwi
+rug |  
+| bip_39_word_new_line11 | season
+electric
+pepper
+seed
+sell
+region
+pupil
+scan
+kiwi
+rug
+praise |  
+| bip_39_word_new_line12 | season
+electric
+pepper
+seed
+sell
+region
+pupil
+scan
+kiwi
+rug
+praise
+amateur |  
+| bip_39_word_new_line2 | season
+electric |  
+| bip_39_word_new_line3 | season
+electric
+pepper |  
+| bip_39_word_new_line4 | season
+electric
+pepper
+seed |  
+| bip_39_word_new_line5 | season
+electric
+pepper
+seed
+sell |  
+| bip_39_word_new_line6 | season
+electric
+pepper
+seed
+sell
+region |  
+| bip_39_word_new_line7 | season
+electric
+pepper
+seed
+sell
+region
+pupil |  
+| bip_39_word_new_line8 | season
+electric
+pepper
+seed
+sell
+region
+pupil
+scan |  
+| bip_39_word_new_line9 | season
+electric
+pepper
+seed
+sell
+region
+pupil
+scan
+kiwi |  
+| bip_39_word_space_0 | ['season', 'electric', 'pepper', 'seed', 'sell', 'region', 'pupil', 'scan', 'kiwi', 'rug', 'praise', 'amateur'] |  
+| bip_39_word_space_1 | season |  
+| bip_39_word_space_10 | season electric pepper seed sell region pupil scan kiwi rug |  
+| bip_39_word_space_11 | season electric pepper seed sell region pupil scan kiwi rug praise |  
+| bip_39_word_space_12 | season electric pepper seed sell region pupil scan kiwi rug praise amateur |  
+| bip_39_word_space_2 | season electric |  
+| bip_39_word_space_3 | season electric pepper |  
+| bip_39_word_space_4 | season electric pepper seed |  
+| bip_39_word_space_5 | season electric pepper seed sell |  
+| bip_39_word_space_6 | season electric pepper seed sell region |  
+| bip_39_word_space_7 | season electric pepper seed sell region pupil |  
+| bip_39_word_space_8 | season electric pepper seed sell region pupil scan |  
+| bip_39_word_space_9 | season electric pepper seed sell region pupil scan kiwi |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

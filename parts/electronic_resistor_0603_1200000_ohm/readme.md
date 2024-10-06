@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: picture measure
+  * bip 39 word 3: picture measure correct
+  * bip 39 word: picture measure correct change oxygen bright food soccer picnic love grass art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | picture |  
+| bip_39_word_new_br10 | picture<br>measure<br>correct<br>change<br>oxygen<br>bright<br>food<br>soccer<br>picnic<br>love |  
+| bip_39_word_new_br11 | picture<br>measure<br>correct<br>change<br>oxygen<br>bright<br>food<br>soccer<br>picnic<br>love<br>grass |  
+| bip_39_word_new_br12 | picture<br>measure<br>correct<br>change<br>oxygen<br>bright<br>food<br>soccer<br>picnic<br>love<br>grass<br>art |  
+| bip_39_word_new_br2 | picture<br>measure |  
+| bip_39_word_new_br3 | picture<br>measure<br>correct |  
+| bip_39_word_new_br4 | picture<br>measure<br>correct<br>change |  
+| bip_39_word_new_br5 | picture<br>measure<br>correct<br>change<br>oxygen |  
+| bip_39_word_new_br6 | picture<br>measure<br>correct<br>change<br>oxygen<br>bright |  
+| bip_39_word_new_br7 | picture<br>measure<br>correct<br>change<br>oxygen<br>bright<br>food |  
+| bip_39_word_new_br8 | picture<br>measure<br>correct<br>change<br>oxygen<br>bright<br>food<br>soccer |  
+| bip_39_word_new_br9 | picture<br>measure<br>correct<br>change<br>oxygen<br>bright<br>food<br>soccer<br>picnic |  
+| bip_39_word_new_line1 | picture |  
+| bip_39_word_new_line10 | picture
+measure
+correct
+change
+oxygen
+bright
+food
+soccer
+picnic
+love |  
+| bip_39_word_new_line11 | picture
+measure
+correct
+change
+oxygen
+bright
+food
+soccer
+picnic
+love
+grass |  
+| bip_39_word_new_line12 | picture
+measure
+correct
+change
+oxygen
+bright
+food
+soccer
+picnic
+love
+grass
+art |  
+| bip_39_word_new_line2 | picture
+measure |  
+| bip_39_word_new_line3 | picture
+measure
+correct |  
+| bip_39_word_new_line4 | picture
+measure
+correct
+change |  
+| bip_39_word_new_line5 | picture
+measure
+correct
+change
+oxygen |  
+| bip_39_word_new_line6 | picture
+measure
+correct
+change
+oxygen
+bright |  
+| bip_39_word_new_line7 | picture
+measure
+correct
+change
+oxygen
+bright
+food |  
+| bip_39_word_new_line8 | picture
+measure
+correct
+change
+oxygen
+bright
+food
+soccer |  
+| bip_39_word_new_line9 | picture
+measure
+correct
+change
+oxygen
+bright
+food
+soccer
+picnic |  
+| bip_39_word_space_0 | ['picture', 'measure', 'correct', 'change', 'oxygen', 'bright', 'food', 'soccer', 'picnic', 'love', 'grass', 'art'] |  
+| bip_39_word_space_1 | picture |  
+| bip_39_word_space_10 | picture measure correct change oxygen bright food soccer picnic love |  
+| bip_39_word_space_11 | picture measure correct change oxygen bright food soccer picnic love grass |  
+| bip_39_word_space_12 | picture measure correct change oxygen bright food soccer picnic love grass art |  
+| bip_39_word_space_2 | picture measure |  
+| bip_39_word_space_3 | picture measure correct |  
+| bip_39_word_space_4 | picture measure correct change |  
+| bip_39_word_space_5 | picture measure correct change oxygen |  
+| bip_39_word_space_6 | picture measure correct change oxygen bright |  
+| bip_39_word_space_7 | picture measure correct change oxygen bright food |  
+| bip_39_word_space_8 | picture measure correct change oxygen bright food soccer |  
+| bip_39_word_space_9 | picture measure correct change oxygen bright food soccer picnic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

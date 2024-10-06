@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gossip
+bip_39_word_new_br10: gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul
+bip_39_word_new_br11: gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul<br>absurd
+bip_39_word_new_br12: gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring<br>soul<br>absurd<br>admit
+bip_39_word_new_br2: gossip<br>scale
+bip_39_word_new_br3: gossip<br>scale<br>silver
+bip_39_word_new_br4: gossip<br>scale<br>silver<br>leave
+bip_39_word_new_br5: gossip<br>scale<br>silver<br>leave<br>acid
+bip_39_word_new_br6: gossip<br>scale<br>silver<br>leave<br>acid<br>language
+bip_39_word_new_br7: gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern
+bip_39_word_new_br8: gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save
+bip_39_word_new_br9: gossip<br>scale<br>silver<br>leave<br>acid<br>language<br>govern<br>save<br>spring
+bip_39_word_new_line1: gossip
+bip_39_word_new_line10: 'gossip
+
+  scale
+
+  silver
+
+  leave
+
+  acid
+
+  language
+
+  govern
+
+  save
+
+  spring
+
+  soul'
+bip_39_word_new_line11: 'gossip
+
+  scale
+
+  silver
+
+  leave
+
+  acid
+
+  language
+
+  govern
+
+  save
+
+  spring
+
+  soul
+
+  absurd'
+bip_39_word_new_line12: 'gossip
+
+  scale
+
+  silver
+
+  leave
+
+  acid
+
+  language
+
+  govern
+
+  save
+
+  spring
+
+  soul
+
+  absurd
+
+  admit'
+bip_39_word_new_line2: 'gossip
+
+  scale'
+bip_39_word_new_line3: 'gossip
+
+  scale
+
+  silver'
+bip_39_word_new_line4: 'gossip
+
+  scale
+
+  silver
+
+  leave'
+bip_39_word_new_line5: 'gossip
+
+  scale
+
+  silver
+
+  leave
+
+  acid'
+bip_39_word_new_line6: 'gossip
+
+  scale
+
+  silver
+
+  leave
+
+  acid
+
+  language'
+bip_39_word_new_line7: 'gossip
+
+  scale
+
+  silver
+
+  leave
+
+  acid
+
+  language
+
+  govern'
+bip_39_word_new_line8: 'gossip
+
+  scale
+
+  silver
+
+  leave
+
+  acid
+
+  language
+
+  govern
+
+  save'
+bip_39_word_new_line9: 'gossip
+
+  scale
+
+  silver
+
+  leave
+
+  acid
+
+  language
+
+  govern
+
+  save
+
+  spring'
+bip_39_word_space_0:
+- gossip
+- scale
+- silver
+- leave
+- acid
+- language
+- govern
+- save
+- spring
+- soul
+- absurd
+- admit
+bip_39_word_space_1: gossip
+bip_39_word_space_10: gossip scale silver leave acid language govern save spring soul
+bip_39_word_space_11: gossip scale silver leave acid language govern save spring soul
+  absurd
+bip_39_word_space_12: gossip scale silver leave acid language govern save spring soul
+  absurd admit
+bip_39_word_space_2: gossip scale
+bip_39_word_space_3: gossip scale silver
+bip_39_word_space_4: gossip scale silver leave
+bip_39_word_space_5: gossip scale silver leave acid
+bip_39_word_space_6: gossip scale silver leave acid language
+bip_39_word_space_7: gossip scale silver leave acid language govern
+bip_39_word_space_8: gossip scale silver leave acid language govern save
+bip_39_word_space_9: gossip scale silver leave acid language govern save spring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

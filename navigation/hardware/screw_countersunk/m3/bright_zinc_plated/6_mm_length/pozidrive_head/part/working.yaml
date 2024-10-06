@@ -1,3 +1,186 @@
+bip_39_word_new_br1: best
+bip_39_word_new_br10: best<br>orange<br>coconut<br>radio<br>glory<br>pond<br>punch<br>width<br>load<br>trend
+bip_39_word_new_br11: best<br>orange<br>coconut<br>radio<br>glory<br>pond<br>punch<br>width<br>load<br>trend<br>simple
+bip_39_word_new_br12: best<br>orange<br>coconut<br>radio<br>glory<br>pond<br>punch<br>width<br>load<br>trend<br>simple<br>attend
+bip_39_word_new_br2: best<br>orange
+bip_39_word_new_br3: best<br>orange<br>coconut
+bip_39_word_new_br4: best<br>orange<br>coconut<br>radio
+bip_39_word_new_br5: best<br>orange<br>coconut<br>radio<br>glory
+bip_39_word_new_br6: best<br>orange<br>coconut<br>radio<br>glory<br>pond
+bip_39_word_new_br7: best<br>orange<br>coconut<br>radio<br>glory<br>pond<br>punch
+bip_39_word_new_br8: best<br>orange<br>coconut<br>radio<br>glory<br>pond<br>punch<br>width
+bip_39_word_new_br9: best<br>orange<br>coconut<br>radio<br>glory<br>pond<br>punch<br>width<br>load
+bip_39_word_new_line1: best
+bip_39_word_new_line10: 'best
+
+  orange
+
+  coconut
+
+  radio
+
+  glory
+
+  pond
+
+  punch
+
+  width
+
+  load
+
+  trend'
+bip_39_word_new_line11: 'best
+
+  orange
+
+  coconut
+
+  radio
+
+  glory
+
+  pond
+
+  punch
+
+  width
+
+  load
+
+  trend
+
+  simple'
+bip_39_word_new_line12: 'best
+
+  orange
+
+  coconut
+
+  radio
+
+  glory
+
+  pond
+
+  punch
+
+  width
+
+  load
+
+  trend
+
+  simple
+
+  attend'
+bip_39_word_new_line2: 'best
+
+  orange'
+bip_39_word_new_line3: 'best
+
+  orange
+
+  coconut'
+bip_39_word_new_line4: 'best
+
+  orange
+
+  coconut
+
+  radio'
+bip_39_word_new_line5: 'best
+
+  orange
+
+  coconut
+
+  radio
+
+  glory'
+bip_39_word_new_line6: 'best
+
+  orange
+
+  coconut
+
+  radio
+
+  glory
+
+  pond'
+bip_39_word_new_line7: 'best
+
+  orange
+
+  coconut
+
+  radio
+
+  glory
+
+  pond
+
+  punch'
+bip_39_word_new_line8: 'best
+
+  orange
+
+  coconut
+
+  radio
+
+  glory
+
+  pond
+
+  punch
+
+  width'
+bip_39_word_new_line9: 'best
+
+  orange
+
+  coconut
+
+  radio
+
+  glory
+
+  pond
+
+  punch
+
+  width
+
+  load'
+bip_39_word_space_0:
+- best
+- orange
+- coconut
+- radio
+- glory
+- pond
+- punch
+- width
+- load
+- trend
+- simple
+- attend
+bip_39_word_space_1: best
+bip_39_word_space_10: best orange coconut radio glory pond punch width load trend
+bip_39_word_space_11: best orange coconut radio glory pond punch width load trend
+  simple
+bip_39_word_space_12: best orange coconut radio glory pond punch width load trend
+  simple attend
+bip_39_word_space_2: best orange
+bip_39_word_space_3: best orange coconut
+bip_39_word_space_4: best orange coconut radio
+bip_39_word_space_5: best orange coconut radio glory
+bip_39_word_space_6: best orange coconut radio glory pond
+bip_39_word_space_7: best orange coconut radio glory pond punch
+bip_39_word_space_8: best orange coconut radio glory pond punch width
+bip_39_word_space_9: best orange coconut radio glory pond punch width load
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

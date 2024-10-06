@@ -1,3 +1,186 @@
+bip_39_word_new_br1: victory
+bip_39_word_new_br10: victory<br>stick<br>pipe<br>machine<br>essay<br>hamster<br>cigar<br>seek<br>siren<br>fossil
+bip_39_word_new_br11: victory<br>stick<br>pipe<br>machine<br>essay<br>hamster<br>cigar<br>seek<br>siren<br>fossil<br>educate
+bip_39_word_new_br12: victory<br>stick<br>pipe<br>machine<br>essay<br>hamster<br>cigar<br>seek<br>siren<br>fossil<br>educate<br>artefact
+bip_39_word_new_br2: victory<br>stick
+bip_39_word_new_br3: victory<br>stick<br>pipe
+bip_39_word_new_br4: victory<br>stick<br>pipe<br>machine
+bip_39_word_new_br5: victory<br>stick<br>pipe<br>machine<br>essay
+bip_39_word_new_br6: victory<br>stick<br>pipe<br>machine<br>essay<br>hamster
+bip_39_word_new_br7: victory<br>stick<br>pipe<br>machine<br>essay<br>hamster<br>cigar
+bip_39_word_new_br8: victory<br>stick<br>pipe<br>machine<br>essay<br>hamster<br>cigar<br>seek
+bip_39_word_new_br9: victory<br>stick<br>pipe<br>machine<br>essay<br>hamster<br>cigar<br>seek<br>siren
+bip_39_word_new_line1: victory
+bip_39_word_new_line10: 'victory
+
+  stick
+
+  pipe
+
+  machine
+
+  essay
+
+  hamster
+
+  cigar
+
+  seek
+
+  siren
+
+  fossil'
+bip_39_word_new_line11: 'victory
+
+  stick
+
+  pipe
+
+  machine
+
+  essay
+
+  hamster
+
+  cigar
+
+  seek
+
+  siren
+
+  fossil
+
+  educate'
+bip_39_word_new_line12: 'victory
+
+  stick
+
+  pipe
+
+  machine
+
+  essay
+
+  hamster
+
+  cigar
+
+  seek
+
+  siren
+
+  fossil
+
+  educate
+
+  artefact'
+bip_39_word_new_line2: 'victory
+
+  stick'
+bip_39_word_new_line3: 'victory
+
+  stick
+
+  pipe'
+bip_39_word_new_line4: 'victory
+
+  stick
+
+  pipe
+
+  machine'
+bip_39_word_new_line5: 'victory
+
+  stick
+
+  pipe
+
+  machine
+
+  essay'
+bip_39_word_new_line6: 'victory
+
+  stick
+
+  pipe
+
+  machine
+
+  essay
+
+  hamster'
+bip_39_word_new_line7: 'victory
+
+  stick
+
+  pipe
+
+  machine
+
+  essay
+
+  hamster
+
+  cigar'
+bip_39_word_new_line8: 'victory
+
+  stick
+
+  pipe
+
+  machine
+
+  essay
+
+  hamster
+
+  cigar
+
+  seek'
+bip_39_word_new_line9: 'victory
+
+  stick
+
+  pipe
+
+  machine
+
+  essay
+
+  hamster
+
+  cigar
+
+  seek
+
+  siren'
+bip_39_word_space_0:
+- victory
+- stick
+- pipe
+- machine
+- essay
+- hamster
+- cigar
+- seek
+- siren
+- fossil
+- educate
+- artefact
+bip_39_word_space_1: victory
+bip_39_word_space_10: victory stick pipe machine essay hamster cigar seek siren fossil
+bip_39_word_space_11: victory stick pipe machine essay hamster cigar seek siren fossil
+  educate
+bip_39_word_space_12: victory stick pipe machine essay hamster cigar seek siren fossil
+  educate artefact
+bip_39_word_space_2: victory stick
+bip_39_word_space_3: victory stick pipe
+bip_39_word_space_4: victory stick pipe machine
+bip_39_word_space_5: victory stick pipe machine essay
+bip_39_word_space_6: victory stick pipe machine essay hamster
+bip_39_word_space_7: victory stick pipe machine essay hamster cigar
+bip_39_word_space_8: victory stick pipe machine essay hamster cigar seek
+bip_39_word_space_9: victory stick pipe machine essay hamster cigar seek siren
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

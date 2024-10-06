@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: other video
+  * bip 39 word 3: other video quit
+  * bip 39 word: other video quit enter luggage wasp silk because throw bomb age alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | other |  
+| bip_39_word_new_br10 | other<br>video<br>quit<br>enter<br>luggage<br>wasp<br>silk<br>because<br>throw<br>bomb |  
+| bip_39_word_new_br11 | other<br>video<br>quit<br>enter<br>luggage<br>wasp<br>silk<br>because<br>throw<br>bomb<br>age |  
+| bip_39_word_new_br12 | other<br>video<br>quit<br>enter<br>luggage<br>wasp<br>silk<br>because<br>throw<br>bomb<br>age<br>alien |  
+| bip_39_word_new_br2 | other<br>video |  
+| bip_39_word_new_br3 | other<br>video<br>quit |  
+| bip_39_word_new_br4 | other<br>video<br>quit<br>enter |  
+| bip_39_word_new_br5 | other<br>video<br>quit<br>enter<br>luggage |  
+| bip_39_word_new_br6 | other<br>video<br>quit<br>enter<br>luggage<br>wasp |  
+| bip_39_word_new_br7 | other<br>video<br>quit<br>enter<br>luggage<br>wasp<br>silk |  
+| bip_39_word_new_br8 | other<br>video<br>quit<br>enter<br>luggage<br>wasp<br>silk<br>because |  
+| bip_39_word_new_br9 | other<br>video<br>quit<br>enter<br>luggage<br>wasp<br>silk<br>because<br>throw |  
+| bip_39_word_new_line1 | other |  
+| bip_39_word_new_line10 | other
+video
+quit
+enter
+luggage
+wasp
+silk
+because
+throw
+bomb |  
+| bip_39_word_new_line11 | other
+video
+quit
+enter
+luggage
+wasp
+silk
+because
+throw
+bomb
+age |  
+| bip_39_word_new_line12 | other
+video
+quit
+enter
+luggage
+wasp
+silk
+because
+throw
+bomb
+age
+alien |  
+| bip_39_word_new_line2 | other
+video |  
+| bip_39_word_new_line3 | other
+video
+quit |  
+| bip_39_word_new_line4 | other
+video
+quit
+enter |  
+| bip_39_word_new_line5 | other
+video
+quit
+enter
+luggage |  
+| bip_39_word_new_line6 | other
+video
+quit
+enter
+luggage
+wasp |  
+| bip_39_word_new_line7 | other
+video
+quit
+enter
+luggage
+wasp
+silk |  
+| bip_39_word_new_line8 | other
+video
+quit
+enter
+luggage
+wasp
+silk
+because |  
+| bip_39_word_new_line9 | other
+video
+quit
+enter
+luggage
+wasp
+silk
+because
+throw |  
+| bip_39_word_space_0 | ['other', 'video', 'quit', 'enter', 'luggage', 'wasp', 'silk', 'because', 'throw', 'bomb', 'age', 'alien'] |  
+| bip_39_word_space_1 | other |  
+| bip_39_word_space_10 | other video quit enter luggage wasp silk because throw bomb |  
+| bip_39_word_space_11 | other video quit enter luggage wasp silk because throw bomb age |  
+| bip_39_word_space_12 | other video quit enter luggage wasp silk because throw bomb age alien |  
+| bip_39_word_space_2 | other video |  
+| bip_39_word_space_3 | other video quit |  
+| bip_39_word_space_4 | other video quit enter |  
+| bip_39_word_space_5 | other video quit enter luggage |  
+| bip_39_word_space_6 | other video quit enter luggage wasp |  
+| bip_39_word_space_7 | other video quit enter luggage wasp silk |  
+| bip_39_word_space_8 | other video quit enter luggage wasp silk because |  
+| bip_39_word_space_9 | other video quit enter luggage wasp silk because throw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

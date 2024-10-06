@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fox
+bip_39_word_new_br10: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete<br>panda
+bip_39_word_new_br11: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete<br>panda<br>popular
+bip_39_word_new_br12: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete<br>panda<br>popular<br>another
+bip_39_word_new_br2: fox<br>degree
+bip_39_word_new_br3: fox<br>degree<br>oxygen
+bip_39_word_new_br4: fox<br>degree<br>oxygen<br>culture
+bip_39_word_new_br5: fox<br>degree<br>oxygen<br>culture<br>vital
+bip_39_word_new_br6: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh
+bip_39_word_new_br7: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket
+bip_39_word_new_br8: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault
+bip_39_word_new_br9: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete
+bip_39_word_new_line1: fox
+bip_39_word_new_line10: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault
+
+  athlete
+
+  panda'
+bip_39_word_new_line11: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault
+
+  athlete
+
+  panda
+
+  popular'
+bip_39_word_new_line12: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault
+
+  athlete
+
+  panda
+
+  popular
+
+  another'
+bip_39_word_new_line2: 'fox
+
+  degree'
+bip_39_word_new_line3: 'fox
+
+  degree
+
+  oxygen'
+bip_39_word_new_line4: 'fox
+
+  degree
+
+  oxygen
+
+  culture'
+bip_39_word_new_line5: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital'
+bip_39_word_new_line6: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh'
+bip_39_word_new_line7: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket'
+bip_39_word_new_line8: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault'
+bip_39_word_new_line9: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault
+
+  athlete'
+bip_39_word_space_0:
+- fox
+- degree
+- oxygen
+- culture
+- vital
+- fresh
+- basket
+- vault
+- athlete
+- panda
+- popular
+- another
+bip_39_word_space_1: fox
+bip_39_word_space_10: fox degree oxygen culture vital fresh basket vault athlete panda
+bip_39_word_space_11: fox degree oxygen culture vital fresh basket vault athlete panda
+  popular
+bip_39_word_space_12: fox degree oxygen culture vital fresh basket vault athlete panda
+  popular another
+bip_39_word_space_2: fox degree
+bip_39_word_space_3: fox degree oxygen
+bip_39_word_space_4: fox degree oxygen culture
+bip_39_word_space_5: fox degree oxygen culture vital
+bip_39_word_space_6: fox degree oxygen culture vital fresh
+bip_39_word_space_7: fox degree oxygen culture vital fresh basket
+bip_39_word_space_8: fox degree oxygen culture vital fresh basket vault
+bip_39_word_space_9: fox degree oxygen culture vital fresh basket vault athlete
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

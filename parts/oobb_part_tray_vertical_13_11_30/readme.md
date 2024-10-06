@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inflict subway
+  * bip 39 word 3: inflict subway trade
+  * bip 39 word: inflict subway trade example indoor before raccoon edge once battle mind artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inflict |  
+| bip_39_word_new_br10 | inflict<br>subway<br>trade<br>example<br>indoor<br>before<br>raccoon<br>edge<br>once<br>battle |  
+| bip_39_word_new_br11 | inflict<br>subway<br>trade<br>example<br>indoor<br>before<br>raccoon<br>edge<br>once<br>battle<br>mind |  
+| bip_39_word_new_br12 | inflict<br>subway<br>trade<br>example<br>indoor<br>before<br>raccoon<br>edge<br>once<br>battle<br>mind<br>artist |  
+| bip_39_word_new_br2 | inflict<br>subway |  
+| bip_39_word_new_br3 | inflict<br>subway<br>trade |  
+| bip_39_word_new_br4 | inflict<br>subway<br>trade<br>example |  
+| bip_39_word_new_br5 | inflict<br>subway<br>trade<br>example<br>indoor |  
+| bip_39_word_new_br6 | inflict<br>subway<br>trade<br>example<br>indoor<br>before |  
+| bip_39_word_new_br7 | inflict<br>subway<br>trade<br>example<br>indoor<br>before<br>raccoon |  
+| bip_39_word_new_br8 | inflict<br>subway<br>trade<br>example<br>indoor<br>before<br>raccoon<br>edge |  
+| bip_39_word_new_br9 | inflict<br>subway<br>trade<br>example<br>indoor<br>before<br>raccoon<br>edge<br>once |  
+| bip_39_word_new_line1 | inflict |  
+| bip_39_word_new_line10 | inflict
+subway
+trade
+example
+indoor
+before
+raccoon
+edge
+once
+battle |  
+| bip_39_word_new_line11 | inflict
+subway
+trade
+example
+indoor
+before
+raccoon
+edge
+once
+battle
+mind |  
+| bip_39_word_new_line12 | inflict
+subway
+trade
+example
+indoor
+before
+raccoon
+edge
+once
+battle
+mind
+artist |  
+| bip_39_word_new_line2 | inflict
+subway |  
+| bip_39_word_new_line3 | inflict
+subway
+trade |  
+| bip_39_word_new_line4 | inflict
+subway
+trade
+example |  
+| bip_39_word_new_line5 | inflict
+subway
+trade
+example
+indoor |  
+| bip_39_word_new_line6 | inflict
+subway
+trade
+example
+indoor
+before |  
+| bip_39_word_new_line7 | inflict
+subway
+trade
+example
+indoor
+before
+raccoon |  
+| bip_39_word_new_line8 | inflict
+subway
+trade
+example
+indoor
+before
+raccoon
+edge |  
+| bip_39_word_new_line9 | inflict
+subway
+trade
+example
+indoor
+before
+raccoon
+edge
+once |  
+| bip_39_word_space_0 | ['inflict', 'subway', 'trade', 'example', 'indoor', 'before', 'raccoon', 'edge', 'once', 'battle', 'mind', 'artist'] |  
+| bip_39_word_space_1 | inflict |  
+| bip_39_word_space_10 | inflict subway trade example indoor before raccoon edge once battle |  
+| bip_39_word_space_11 | inflict subway trade example indoor before raccoon edge once battle mind |  
+| bip_39_word_space_12 | inflict subway trade example indoor before raccoon edge once battle mind artist |  
+| bip_39_word_space_2 | inflict subway |  
+| bip_39_word_space_3 | inflict subway trade |  
+| bip_39_word_space_4 | inflict subway trade example |  
+| bip_39_word_space_5 | inflict subway trade example indoor |  
+| bip_39_word_space_6 | inflict subway trade example indoor before |  
+| bip_39_word_space_7 | inflict subway trade example indoor before raccoon |  
+| bip_39_word_space_8 | inflict subway trade example indoor before raccoon edge |  
+| bip_39_word_space_9 | inflict subway trade example indoor before raccoon edge once |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

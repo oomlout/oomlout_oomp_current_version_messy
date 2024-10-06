@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: suspect reason
+  * bip 39 word 3: suspect reason reunion
+  * bip 39 word: suspect reason reunion argue item royal acid across glance faith ridge alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | suspect |  
+| bip_39_word_new_br10 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal<br>acid<br>across<br>glance<br>faith |  
+| bip_39_word_new_br11 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal<br>acid<br>across<br>glance<br>faith<br>ridge |  
+| bip_39_word_new_br12 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal<br>acid<br>across<br>glance<br>faith<br>ridge<br>alcohol |  
+| bip_39_word_new_br2 | suspect<br>reason |  
+| bip_39_word_new_br3 | suspect<br>reason<br>reunion |  
+| bip_39_word_new_br4 | suspect<br>reason<br>reunion<br>argue |  
+| bip_39_word_new_br5 | suspect<br>reason<br>reunion<br>argue<br>item |  
+| bip_39_word_new_br6 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal |  
+| bip_39_word_new_br7 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal<br>acid |  
+| bip_39_word_new_br8 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal<br>acid<br>across |  
+| bip_39_word_new_br9 | suspect<br>reason<br>reunion<br>argue<br>item<br>royal<br>acid<br>across<br>glance |  
+| bip_39_word_new_line1 | suspect |  
+| bip_39_word_new_line10 | suspect
+reason
+reunion
+argue
+item
+royal
+acid
+across
+glance
+faith |  
+| bip_39_word_new_line11 | suspect
+reason
+reunion
+argue
+item
+royal
+acid
+across
+glance
+faith
+ridge |  
+| bip_39_word_new_line12 | suspect
+reason
+reunion
+argue
+item
+royal
+acid
+across
+glance
+faith
+ridge
+alcohol |  
+| bip_39_word_new_line2 | suspect
+reason |  
+| bip_39_word_new_line3 | suspect
+reason
+reunion |  
+| bip_39_word_new_line4 | suspect
+reason
+reunion
+argue |  
+| bip_39_word_new_line5 | suspect
+reason
+reunion
+argue
+item |  
+| bip_39_word_new_line6 | suspect
+reason
+reunion
+argue
+item
+royal |  
+| bip_39_word_new_line7 | suspect
+reason
+reunion
+argue
+item
+royal
+acid |  
+| bip_39_word_new_line8 | suspect
+reason
+reunion
+argue
+item
+royal
+acid
+across |  
+| bip_39_word_new_line9 | suspect
+reason
+reunion
+argue
+item
+royal
+acid
+across
+glance |  
+| bip_39_word_space_0 | ['suspect', 'reason', 'reunion', 'argue', 'item', 'royal', 'acid', 'across', 'glance', 'faith', 'ridge', 'alcohol'] |  
+| bip_39_word_space_1 | suspect |  
+| bip_39_word_space_10 | suspect reason reunion argue item royal acid across glance faith |  
+| bip_39_word_space_11 | suspect reason reunion argue item royal acid across glance faith ridge |  
+| bip_39_word_space_12 | suspect reason reunion argue item royal acid across glance faith ridge alcohol |  
+| bip_39_word_space_2 | suspect reason |  
+| bip_39_word_space_3 | suspect reason reunion |  
+| bip_39_word_space_4 | suspect reason reunion argue |  
+| bip_39_word_space_5 | suspect reason reunion argue item |  
+| bip_39_word_space_6 | suspect reason reunion argue item royal |  
+| bip_39_word_space_7 | suspect reason reunion argue item royal acid |  
+| bip_39_word_space_8 | suspect reason reunion argue item royal acid across |  
+| bip_39_word_space_9 | suspect reason reunion argue item royal acid across glance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

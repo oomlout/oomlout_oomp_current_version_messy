@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ancient track
+  * bip 39 word 3: ancient track cherry
+  * bip 39 word: ancient track cherry actual village taste circle script sun bacon budget animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ancient |  
+| bip_39_word_new_br10 | ancient<br>track<br>cherry<br>actual<br>village<br>taste<br>circle<br>script<br>sun<br>bacon |  
+| bip_39_word_new_br11 | ancient<br>track<br>cherry<br>actual<br>village<br>taste<br>circle<br>script<br>sun<br>bacon<br>budget |  
+| bip_39_word_new_br12 | ancient<br>track<br>cherry<br>actual<br>village<br>taste<br>circle<br>script<br>sun<br>bacon<br>budget<br>animal |  
+| bip_39_word_new_br2 | ancient<br>track |  
+| bip_39_word_new_br3 | ancient<br>track<br>cherry |  
+| bip_39_word_new_br4 | ancient<br>track<br>cherry<br>actual |  
+| bip_39_word_new_br5 | ancient<br>track<br>cherry<br>actual<br>village |  
+| bip_39_word_new_br6 | ancient<br>track<br>cherry<br>actual<br>village<br>taste |  
+| bip_39_word_new_br7 | ancient<br>track<br>cherry<br>actual<br>village<br>taste<br>circle |  
+| bip_39_word_new_br8 | ancient<br>track<br>cherry<br>actual<br>village<br>taste<br>circle<br>script |  
+| bip_39_word_new_br9 | ancient<br>track<br>cherry<br>actual<br>village<br>taste<br>circle<br>script<br>sun |  
+| bip_39_word_new_line1 | ancient |  
+| bip_39_word_new_line10 | ancient
+track
+cherry
+actual
+village
+taste
+circle
+script
+sun
+bacon |  
+| bip_39_word_new_line11 | ancient
+track
+cherry
+actual
+village
+taste
+circle
+script
+sun
+bacon
+budget |  
+| bip_39_word_new_line12 | ancient
+track
+cherry
+actual
+village
+taste
+circle
+script
+sun
+bacon
+budget
+animal |  
+| bip_39_word_new_line2 | ancient
+track |  
+| bip_39_word_new_line3 | ancient
+track
+cherry |  
+| bip_39_word_new_line4 | ancient
+track
+cherry
+actual |  
+| bip_39_word_new_line5 | ancient
+track
+cherry
+actual
+village |  
+| bip_39_word_new_line6 | ancient
+track
+cherry
+actual
+village
+taste |  
+| bip_39_word_new_line7 | ancient
+track
+cherry
+actual
+village
+taste
+circle |  
+| bip_39_word_new_line8 | ancient
+track
+cherry
+actual
+village
+taste
+circle
+script |  
+| bip_39_word_new_line9 | ancient
+track
+cherry
+actual
+village
+taste
+circle
+script
+sun |  
+| bip_39_word_space_0 | ['ancient', 'track', 'cherry', 'actual', 'village', 'taste', 'circle', 'script', 'sun', 'bacon', 'budget', 'animal'] |  
+| bip_39_word_space_1 | ancient |  
+| bip_39_word_space_10 | ancient track cherry actual village taste circle script sun bacon |  
+| bip_39_word_space_11 | ancient track cherry actual village taste circle script sun bacon budget |  
+| bip_39_word_space_12 | ancient track cherry actual village taste circle script sun bacon budget animal |  
+| bip_39_word_space_2 | ancient track |  
+| bip_39_word_space_3 | ancient track cherry |  
+| bip_39_word_space_4 | ancient track cherry actual |  
+| bip_39_word_space_5 | ancient track cherry actual village |  
+| bip_39_word_space_6 | ancient track cherry actual village taste |  
+| bip_39_word_space_7 | ancient track cherry actual village taste circle |  
+| bip_39_word_space_8 | ancient track cherry actual village taste circle script |  
+| bip_39_word_space_9 | ancient track cherry actual village taste circle script sun |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

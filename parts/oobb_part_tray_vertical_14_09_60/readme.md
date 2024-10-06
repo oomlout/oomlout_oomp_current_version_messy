@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: garment super
+  * bip 39 word 3: garment super clutch
+  * bip 39 word: garment super clutch fossil address where gorilla copy summer egg best alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | garment |  
+| bip_39_word_new_br10 | garment<br>super<br>clutch<br>fossil<br>address<br>where<br>gorilla<br>copy<br>summer<br>egg |  
+| bip_39_word_new_br11 | garment<br>super<br>clutch<br>fossil<br>address<br>where<br>gorilla<br>copy<br>summer<br>egg<br>best |  
+| bip_39_word_new_br12 | garment<br>super<br>clutch<br>fossil<br>address<br>where<br>gorilla<br>copy<br>summer<br>egg<br>best<br>alley |  
+| bip_39_word_new_br2 | garment<br>super |  
+| bip_39_word_new_br3 | garment<br>super<br>clutch |  
+| bip_39_word_new_br4 | garment<br>super<br>clutch<br>fossil |  
+| bip_39_word_new_br5 | garment<br>super<br>clutch<br>fossil<br>address |  
+| bip_39_word_new_br6 | garment<br>super<br>clutch<br>fossil<br>address<br>where |  
+| bip_39_word_new_br7 | garment<br>super<br>clutch<br>fossil<br>address<br>where<br>gorilla |  
+| bip_39_word_new_br8 | garment<br>super<br>clutch<br>fossil<br>address<br>where<br>gorilla<br>copy |  
+| bip_39_word_new_br9 | garment<br>super<br>clutch<br>fossil<br>address<br>where<br>gorilla<br>copy<br>summer |  
+| bip_39_word_new_line1 | garment |  
+| bip_39_word_new_line10 | garment
+super
+clutch
+fossil
+address
+where
+gorilla
+copy
+summer
+egg |  
+| bip_39_word_new_line11 | garment
+super
+clutch
+fossil
+address
+where
+gorilla
+copy
+summer
+egg
+best |  
+| bip_39_word_new_line12 | garment
+super
+clutch
+fossil
+address
+where
+gorilla
+copy
+summer
+egg
+best
+alley |  
+| bip_39_word_new_line2 | garment
+super |  
+| bip_39_word_new_line3 | garment
+super
+clutch |  
+| bip_39_word_new_line4 | garment
+super
+clutch
+fossil |  
+| bip_39_word_new_line5 | garment
+super
+clutch
+fossil
+address |  
+| bip_39_word_new_line6 | garment
+super
+clutch
+fossil
+address
+where |  
+| bip_39_word_new_line7 | garment
+super
+clutch
+fossil
+address
+where
+gorilla |  
+| bip_39_word_new_line8 | garment
+super
+clutch
+fossil
+address
+where
+gorilla
+copy |  
+| bip_39_word_new_line9 | garment
+super
+clutch
+fossil
+address
+where
+gorilla
+copy
+summer |  
+| bip_39_word_space_0 | ['garment', 'super', 'clutch', 'fossil', 'address', 'where', 'gorilla', 'copy', 'summer', 'egg', 'best', 'alley'] |  
+| bip_39_word_space_1 | garment |  
+| bip_39_word_space_10 | garment super clutch fossil address where gorilla copy summer egg |  
+| bip_39_word_space_11 | garment super clutch fossil address where gorilla copy summer egg best |  
+| bip_39_word_space_12 | garment super clutch fossil address where gorilla copy summer egg best alley |  
+| bip_39_word_space_2 | garment super |  
+| bip_39_word_space_3 | garment super clutch |  
+| bip_39_word_space_4 | garment super clutch fossil |  
+| bip_39_word_space_5 | garment super clutch fossil address |  
+| bip_39_word_space_6 | garment super clutch fossil address where |  
+| bip_39_word_space_7 | garment super clutch fossil address where gorilla |  
+| bip_39_word_space_8 | garment super clutch fossil address where gorilla copy |  
+| bip_39_word_space_9 | garment super clutch fossil address where gorilla copy summer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

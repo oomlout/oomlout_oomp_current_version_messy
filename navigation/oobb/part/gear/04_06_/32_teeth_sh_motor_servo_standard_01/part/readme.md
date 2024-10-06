@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 32_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rare castle
+  * bip 39 word 3: rare castle scout
+  * bip 39 word: rare castle scout advice umbrella run deliver outdoor genre chronic parent afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rare |  
+| bip_39_word_new_br10 | rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor<br>genre<br>chronic |  
+| bip_39_word_new_br11 | rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor<br>genre<br>chronic<br>parent |  
+| bip_39_word_new_br12 | rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor<br>genre<br>chronic<br>parent<br>afraid |  
+| bip_39_word_new_br2 | rare<br>castle |  
+| bip_39_word_new_br3 | rare<br>castle<br>scout |  
+| bip_39_word_new_br4 | rare<br>castle<br>scout<br>advice |  
+| bip_39_word_new_br5 | rare<br>castle<br>scout<br>advice<br>umbrella |  
+| bip_39_word_new_br6 | rare<br>castle<br>scout<br>advice<br>umbrella<br>run |  
+| bip_39_word_new_br7 | rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver |  
+| bip_39_word_new_br8 | rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor |  
+| bip_39_word_new_br9 | rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor<br>genre |  
+| bip_39_word_new_line1 | rare |  
+| bip_39_word_new_line10 | rare
+castle
+scout
+advice
+umbrella
+run
+deliver
+outdoor
+genre
+chronic |  
+| bip_39_word_new_line11 | rare
+castle
+scout
+advice
+umbrella
+run
+deliver
+outdoor
+genre
+chronic
+parent |  
+| bip_39_word_new_line12 | rare
+castle
+scout
+advice
+umbrella
+run
+deliver
+outdoor
+genre
+chronic
+parent
+afraid |  
+| bip_39_word_new_line2 | rare
+castle |  
+| bip_39_word_new_line3 | rare
+castle
+scout |  
+| bip_39_word_new_line4 | rare
+castle
+scout
+advice |  
+| bip_39_word_new_line5 | rare
+castle
+scout
+advice
+umbrella |  
+| bip_39_word_new_line6 | rare
+castle
+scout
+advice
+umbrella
+run |  
+| bip_39_word_new_line7 | rare
+castle
+scout
+advice
+umbrella
+run
+deliver |  
+| bip_39_word_new_line8 | rare
+castle
+scout
+advice
+umbrella
+run
+deliver
+outdoor |  
+| bip_39_word_new_line9 | rare
+castle
+scout
+advice
+umbrella
+run
+deliver
+outdoor
+genre |  
+| bip_39_word_space_0 | ['rare', 'castle', 'scout', 'advice', 'umbrella', 'run', 'deliver', 'outdoor', 'genre', 'chronic', 'parent', 'afraid'] |  
+| bip_39_word_space_1 | rare |  
+| bip_39_word_space_10 | rare castle scout advice umbrella run deliver outdoor genre chronic |  
+| bip_39_word_space_11 | rare castle scout advice umbrella run deliver outdoor genre chronic parent |  
+| bip_39_word_space_12 | rare castle scout advice umbrella run deliver outdoor genre chronic parent afraid |  
+| bip_39_word_space_2 | rare castle |  
+| bip_39_word_space_3 | rare castle scout |  
+| bip_39_word_space_4 | rare castle scout advice |  
+| bip_39_word_space_5 | rare castle scout advice umbrella |  
+| bip_39_word_space_6 | rare castle scout advice umbrella run |  
+| bip_39_word_space_7 | rare castle scout advice umbrella run deliver |  
+| bip_39_word_space_8 | rare castle scout advice umbrella run deliver outdoor |  
+| bip_39_word_space_9 | rare castle scout advice umbrella run deliver outdoor genre |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: corn inhale
+  * bip 39 word 3: corn inhale sentence
+  * bip 39 word: corn inhale sentence expand bean recall chimney high number neither visual asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | corn |  
+| bip_39_word_new_br10 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall<br>chimney<br>high<br>number<br>neither |  
+| bip_39_word_new_br11 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall<br>chimney<br>high<br>number<br>neither<br>visual |  
+| bip_39_word_new_br12 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall<br>chimney<br>high<br>number<br>neither<br>visual<br>asthma |  
+| bip_39_word_new_br2 | corn<br>inhale |  
+| bip_39_word_new_br3 | corn<br>inhale<br>sentence |  
+| bip_39_word_new_br4 | corn<br>inhale<br>sentence<br>expand |  
+| bip_39_word_new_br5 | corn<br>inhale<br>sentence<br>expand<br>bean |  
+| bip_39_word_new_br6 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall |  
+| bip_39_word_new_br7 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall<br>chimney |  
+| bip_39_word_new_br8 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall<br>chimney<br>high |  
+| bip_39_word_new_br9 | corn<br>inhale<br>sentence<br>expand<br>bean<br>recall<br>chimney<br>high<br>number |  
+| bip_39_word_new_line1 | corn |  
+| bip_39_word_new_line10 | corn
+inhale
+sentence
+expand
+bean
+recall
+chimney
+high
+number
+neither |  
+| bip_39_word_new_line11 | corn
+inhale
+sentence
+expand
+bean
+recall
+chimney
+high
+number
+neither
+visual |  
+| bip_39_word_new_line12 | corn
+inhale
+sentence
+expand
+bean
+recall
+chimney
+high
+number
+neither
+visual
+asthma |  
+| bip_39_word_new_line2 | corn
+inhale |  
+| bip_39_word_new_line3 | corn
+inhale
+sentence |  
+| bip_39_word_new_line4 | corn
+inhale
+sentence
+expand |  
+| bip_39_word_new_line5 | corn
+inhale
+sentence
+expand
+bean |  
+| bip_39_word_new_line6 | corn
+inhale
+sentence
+expand
+bean
+recall |  
+| bip_39_word_new_line7 | corn
+inhale
+sentence
+expand
+bean
+recall
+chimney |  
+| bip_39_word_new_line8 | corn
+inhale
+sentence
+expand
+bean
+recall
+chimney
+high |  
+| bip_39_word_new_line9 | corn
+inhale
+sentence
+expand
+bean
+recall
+chimney
+high
+number |  
+| bip_39_word_space_0 | ['corn', 'inhale', 'sentence', 'expand', 'bean', 'recall', 'chimney', 'high', 'number', 'neither', 'visual', 'asthma'] |  
+| bip_39_word_space_1 | corn |  
+| bip_39_word_space_10 | corn inhale sentence expand bean recall chimney high number neither |  
+| bip_39_word_space_11 | corn inhale sentence expand bean recall chimney high number neither visual |  
+| bip_39_word_space_12 | corn inhale sentence expand bean recall chimney high number neither visual asthma |  
+| bip_39_word_space_2 | corn inhale |  
+| bip_39_word_space_3 | corn inhale sentence |  
+| bip_39_word_space_4 | corn inhale sentence expand |  
+| bip_39_word_space_5 | corn inhale sentence expand bean |  
+| bip_39_word_space_6 | corn inhale sentence expand bean recall |  
+| bip_39_word_space_7 | corn inhale sentence expand bean recall chimney |  
+| bip_39_word_space_8 | corn inhale sentence expand bean recall chimney high |  
+| bip_39_word_space_9 | corn inhale sentence expand bean recall chimney high number |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

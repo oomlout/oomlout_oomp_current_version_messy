@@ -1,3 +1,186 @@
+bip_39_word_new_br1: simple
+bip_39_word_new_br10: simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify
+bip_39_word_new_br11: simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify<br>eagle
+bip_39_word_new_br12: simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill<br>verify<br>eagle<br>aim
+bip_39_word_new_br2: simple<br>success
+bip_39_word_new_br3: simple<br>success<br>vanish
+bip_39_word_new_br4: simple<br>success<br>vanish<br>tell
+bip_39_word_new_br5: simple<br>success<br>vanish<br>tell<br>work
+bip_39_word_new_br6: simple<br>success<br>vanish<br>tell<br>work<br>retire
+bip_39_word_new_br7: simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man
+bip_39_word_new_br8: simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path
+bip_39_word_new_br9: simple<br>success<br>vanish<br>tell<br>work<br>retire<br>man<br>path<br>skill
+bip_39_word_new_line1: simple
+bip_39_word_new_line10: 'simple
+
+  success
+
+  vanish
+
+  tell
+
+  work
+
+  retire
+
+  man
+
+  path
+
+  skill
+
+  verify'
+bip_39_word_new_line11: 'simple
+
+  success
+
+  vanish
+
+  tell
+
+  work
+
+  retire
+
+  man
+
+  path
+
+  skill
+
+  verify
+
+  eagle'
+bip_39_word_new_line12: 'simple
+
+  success
+
+  vanish
+
+  tell
+
+  work
+
+  retire
+
+  man
+
+  path
+
+  skill
+
+  verify
+
+  eagle
+
+  aim'
+bip_39_word_new_line2: 'simple
+
+  success'
+bip_39_word_new_line3: 'simple
+
+  success
+
+  vanish'
+bip_39_word_new_line4: 'simple
+
+  success
+
+  vanish
+
+  tell'
+bip_39_word_new_line5: 'simple
+
+  success
+
+  vanish
+
+  tell
+
+  work'
+bip_39_word_new_line6: 'simple
+
+  success
+
+  vanish
+
+  tell
+
+  work
+
+  retire'
+bip_39_word_new_line7: 'simple
+
+  success
+
+  vanish
+
+  tell
+
+  work
+
+  retire
+
+  man'
+bip_39_word_new_line8: 'simple
+
+  success
+
+  vanish
+
+  tell
+
+  work
+
+  retire
+
+  man
+
+  path'
+bip_39_word_new_line9: 'simple
+
+  success
+
+  vanish
+
+  tell
+
+  work
+
+  retire
+
+  man
+
+  path
+
+  skill'
+bip_39_word_space_0:
+- simple
+- success
+- vanish
+- tell
+- work
+- retire
+- man
+- path
+- skill
+- verify
+- eagle
+- aim
+bip_39_word_space_1: simple
+bip_39_word_space_10: simple success vanish tell work retire man path skill verify
+bip_39_word_space_11: simple success vanish tell work retire man path skill verify
+  eagle
+bip_39_word_space_12: simple success vanish tell work retire man path skill verify
+  eagle aim
+bip_39_word_space_2: simple success
+bip_39_word_space_3: simple success vanish
+bip_39_word_space_4: simple success vanish tell
+bip_39_word_space_5: simple success vanish tell work
+bip_39_word_space_6: simple success vanish tell work retire
+bip_39_word_space_7: simple success vanish tell work retire man
+bip_39_word_space_8: simple success vanish tell work retire man path
+bip_39_word_space_9: simple success vanish tell work retire man path skill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

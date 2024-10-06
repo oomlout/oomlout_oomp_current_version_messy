@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: minute enhance
+  * bip 39 word 3: minute enhance license
+  * bip 39 word: minute enhance license throw slot trim shock wisdom style leave unaware announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | minute |  
+| bip_39_word_new_br10 | minute<br>enhance<br>license<br>throw<br>slot<br>trim<br>shock<br>wisdom<br>style<br>leave |  
+| bip_39_word_new_br11 | minute<br>enhance<br>license<br>throw<br>slot<br>trim<br>shock<br>wisdom<br>style<br>leave<br>unaware |  
+| bip_39_word_new_br12 | minute<br>enhance<br>license<br>throw<br>slot<br>trim<br>shock<br>wisdom<br>style<br>leave<br>unaware<br>announce |  
+| bip_39_word_new_br2 | minute<br>enhance |  
+| bip_39_word_new_br3 | minute<br>enhance<br>license |  
+| bip_39_word_new_br4 | minute<br>enhance<br>license<br>throw |  
+| bip_39_word_new_br5 | minute<br>enhance<br>license<br>throw<br>slot |  
+| bip_39_word_new_br6 | minute<br>enhance<br>license<br>throw<br>slot<br>trim |  
+| bip_39_word_new_br7 | minute<br>enhance<br>license<br>throw<br>slot<br>trim<br>shock |  
+| bip_39_word_new_br8 | minute<br>enhance<br>license<br>throw<br>slot<br>trim<br>shock<br>wisdom |  
+| bip_39_word_new_br9 | minute<br>enhance<br>license<br>throw<br>slot<br>trim<br>shock<br>wisdom<br>style |  
+| bip_39_word_new_line1 | minute |  
+| bip_39_word_new_line10 | minute
+enhance
+license
+throw
+slot
+trim
+shock
+wisdom
+style
+leave |  
+| bip_39_word_new_line11 | minute
+enhance
+license
+throw
+slot
+trim
+shock
+wisdom
+style
+leave
+unaware |  
+| bip_39_word_new_line12 | minute
+enhance
+license
+throw
+slot
+trim
+shock
+wisdom
+style
+leave
+unaware
+announce |  
+| bip_39_word_new_line2 | minute
+enhance |  
+| bip_39_word_new_line3 | minute
+enhance
+license |  
+| bip_39_word_new_line4 | minute
+enhance
+license
+throw |  
+| bip_39_word_new_line5 | minute
+enhance
+license
+throw
+slot |  
+| bip_39_word_new_line6 | minute
+enhance
+license
+throw
+slot
+trim |  
+| bip_39_word_new_line7 | minute
+enhance
+license
+throw
+slot
+trim
+shock |  
+| bip_39_word_new_line8 | minute
+enhance
+license
+throw
+slot
+trim
+shock
+wisdom |  
+| bip_39_word_new_line9 | minute
+enhance
+license
+throw
+slot
+trim
+shock
+wisdom
+style |  
+| bip_39_word_space_0 | ['minute', 'enhance', 'license', 'throw', 'slot', 'trim', 'shock', 'wisdom', 'style', 'leave', 'unaware', 'announce'] |  
+| bip_39_word_space_1 | minute |  
+| bip_39_word_space_10 | minute enhance license throw slot trim shock wisdom style leave |  
+| bip_39_word_space_11 | minute enhance license throw slot trim shock wisdom style leave unaware |  
+| bip_39_word_space_12 | minute enhance license throw slot trim shock wisdom style leave unaware announce |  
+| bip_39_word_space_2 | minute enhance |  
+| bip_39_word_space_3 | minute enhance license |  
+| bip_39_word_space_4 | minute enhance license throw |  
+| bip_39_word_space_5 | minute enhance license throw slot |  
+| bip_39_word_space_6 | minute enhance license throw slot trim |  
+| bip_39_word_space_7 | minute enhance license throw slot trim shock |  
+| bip_39_word_space_8 | minute enhance license throw slot trim shock wisdom |  
+| bip_39_word_space_9 | minute enhance license throw slot trim shock wisdom style |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diagram throw
+  * bip 39 word 3: diagram throw allow
+  * bip 39 word: diagram throw allow thought viable area kingdom hub convince festival finish arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diagram |  
+| bip_39_word_new_br10 | diagram<br>throw<br>allow<br>thought<br>viable<br>area<br>kingdom<br>hub<br>convince<br>festival |  
+| bip_39_word_new_br11 | diagram<br>throw<br>allow<br>thought<br>viable<br>area<br>kingdom<br>hub<br>convince<br>festival<br>finish |  
+| bip_39_word_new_br12 | diagram<br>throw<br>allow<br>thought<br>viable<br>area<br>kingdom<br>hub<br>convince<br>festival<br>finish<br>arch |  
+| bip_39_word_new_br2 | diagram<br>throw |  
+| bip_39_word_new_br3 | diagram<br>throw<br>allow |  
+| bip_39_word_new_br4 | diagram<br>throw<br>allow<br>thought |  
+| bip_39_word_new_br5 | diagram<br>throw<br>allow<br>thought<br>viable |  
+| bip_39_word_new_br6 | diagram<br>throw<br>allow<br>thought<br>viable<br>area |  
+| bip_39_word_new_br7 | diagram<br>throw<br>allow<br>thought<br>viable<br>area<br>kingdom |  
+| bip_39_word_new_br8 | diagram<br>throw<br>allow<br>thought<br>viable<br>area<br>kingdom<br>hub |  
+| bip_39_word_new_br9 | diagram<br>throw<br>allow<br>thought<br>viable<br>area<br>kingdom<br>hub<br>convince |  
+| bip_39_word_new_line1 | diagram |  
+| bip_39_word_new_line10 | diagram
+throw
+allow
+thought
+viable
+area
+kingdom
+hub
+convince
+festival |  
+| bip_39_word_new_line11 | diagram
+throw
+allow
+thought
+viable
+area
+kingdom
+hub
+convince
+festival
+finish |  
+| bip_39_word_new_line12 | diagram
+throw
+allow
+thought
+viable
+area
+kingdom
+hub
+convince
+festival
+finish
+arch |  
+| bip_39_word_new_line2 | diagram
+throw |  
+| bip_39_word_new_line3 | diagram
+throw
+allow |  
+| bip_39_word_new_line4 | diagram
+throw
+allow
+thought |  
+| bip_39_word_new_line5 | diagram
+throw
+allow
+thought
+viable |  
+| bip_39_word_new_line6 | diagram
+throw
+allow
+thought
+viable
+area |  
+| bip_39_word_new_line7 | diagram
+throw
+allow
+thought
+viable
+area
+kingdom |  
+| bip_39_word_new_line8 | diagram
+throw
+allow
+thought
+viable
+area
+kingdom
+hub |  
+| bip_39_word_new_line9 | diagram
+throw
+allow
+thought
+viable
+area
+kingdom
+hub
+convince |  
+| bip_39_word_space_0 | ['diagram', 'throw', 'allow', 'thought', 'viable', 'area', 'kingdom', 'hub', 'convince', 'festival', 'finish', 'arch'] |  
+| bip_39_word_space_1 | diagram |  
+| bip_39_word_space_10 | diagram throw allow thought viable area kingdom hub convince festival |  
+| bip_39_word_space_11 | diagram throw allow thought viable area kingdom hub convince festival finish |  
+| bip_39_word_space_12 | diagram throw allow thought viable area kingdom hub convince festival finish arch |  
+| bip_39_word_space_2 | diagram throw |  
+| bip_39_word_space_3 | diagram throw allow |  
+| bip_39_word_space_4 | diagram throw allow thought |  
+| bip_39_word_space_5 | diagram throw allow thought viable |  
+| bip_39_word_space_6 | diagram throw allow thought viable area |  
+| bip_39_word_space_7 | diagram throw allow thought viable area kingdom |  
+| bip_39_word_space_8 | diagram throw allow thought viable area kingdom hub |  
+| bip_39_word_space_9 | diagram throw allow thought viable area kingdom hub convince |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

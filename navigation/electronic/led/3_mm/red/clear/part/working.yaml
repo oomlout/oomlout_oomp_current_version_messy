@@ -1,3 +1,185 @@
+bip_39_word_new_br1: devote
+bip_39_word_new_br10: devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify
+bip_39_word_new_br11: devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify<br>scout
+bip_39_word_new_br12: devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare<br>verify<br>scout<br>abuse
+bip_39_word_new_br2: devote<br>pipe
+bip_39_word_new_br3: devote<br>pipe<br>stock
+bip_39_word_new_br4: devote<br>pipe<br>stock<br>merge
+bip_39_word_new_br5: devote<br>pipe<br>stock<br>merge<br>gold
+bip_39_word_new_br6: devote<br>pipe<br>stock<br>merge<br>gold<br>smart
+bip_39_word_new_br7: devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present
+bip_39_word_new_br8: devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask
+bip_39_word_new_br9: devote<br>pipe<br>stock<br>merge<br>gold<br>smart<br>present<br>ask<br>rare
+bip_39_word_new_line1: devote
+bip_39_word_new_line10: 'devote
+
+  pipe
+
+  stock
+
+  merge
+
+  gold
+
+  smart
+
+  present
+
+  ask
+
+  rare
+
+  verify'
+bip_39_word_new_line11: 'devote
+
+  pipe
+
+  stock
+
+  merge
+
+  gold
+
+  smart
+
+  present
+
+  ask
+
+  rare
+
+  verify
+
+  scout'
+bip_39_word_new_line12: 'devote
+
+  pipe
+
+  stock
+
+  merge
+
+  gold
+
+  smart
+
+  present
+
+  ask
+
+  rare
+
+  verify
+
+  scout
+
+  abuse'
+bip_39_word_new_line2: 'devote
+
+  pipe'
+bip_39_word_new_line3: 'devote
+
+  pipe
+
+  stock'
+bip_39_word_new_line4: 'devote
+
+  pipe
+
+  stock
+
+  merge'
+bip_39_word_new_line5: 'devote
+
+  pipe
+
+  stock
+
+  merge
+
+  gold'
+bip_39_word_new_line6: 'devote
+
+  pipe
+
+  stock
+
+  merge
+
+  gold
+
+  smart'
+bip_39_word_new_line7: 'devote
+
+  pipe
+
+  stock
+
+  merge
+
+  gold
+
+  smart
+
+  present'
+bip_39_word_new_line8: 'devote
+
+  pipe
+
+  stock
+
+  merge
+
+  gold
+
+  smart
+
+  present
+
+  ask'
+bip_39_word_new_line9: 'devote
+
+  pipe
+
+  stock
+
+  merge
+
+  gold
+
+  smart
+
+  present
+
+  ask
+
+  rare'
+bip_39_word_space_0:
+- devote
+- pipe
+- stock
+- merge
+- gold
+- smart
+- present
+- ask
+- rare
+- verify
+- scout
+- abuse
+bip_39_word_space_1: devote
+bip_39_word_space_10: devote pipe stock merge gold smart present ask rare verify
+bip_39_word_space_11: devote pipe stock merge gold smart present ask rare verify scout
+bip_39_word_space_12: devote pipe stock merge gold smart present ask rare verify scout
+  abuse
+bip_39_word_space_2: devote pipe
+bip_39_word_space_3: devote pipe stock
+bip_39_word_space_4: devote pipe stock merge
+bip_39_word_space_5: devote pipe stock merge gold
+bip_39_word_space_6: devote pipe stock merge gold smart
+bip_39_word_space_7: devote pipe stock merge gold smart present
+bip_39_word_space_8: devote pipe stock merge gold smart present ask
+bip_39_word_space_9: devote pipe stock merge gold smart present ask rare
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

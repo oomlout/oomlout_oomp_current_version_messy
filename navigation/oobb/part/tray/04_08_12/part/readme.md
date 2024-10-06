@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: simple apple
+  * bip 39 word 3: simple apple merge
+  * bip 39 word: simple apple merge door south island crisp that bread garbage relax aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | simple |  
+| bip_39_word_new_br10 | simple<br>apple<br>merge<br>door<br>south<br>island<br>crisp<br>that<br>bread<br>garbage |  
+| bip_39_word_new_br11 | simple<br>apple<br>merge<br>door<br>south<br>island<br>crisp<br>that<br>bread<br>garbage<br>relax |  
+| bip_39_word_new_br12 | simple<br>apple<br>merge<br>door<br>south<br>island<br>crisp<br>that<br>bread<br>garbage<br>relax<br>aisle |  
+| bip_39_word_new_br2 | simple<br>apple |  
+| bip_39_word_new_br3 | simple<br>apple<br>merge |  
+| bip_39_word_new_br4 | simple<br>apple<br>merge<br>door |  
+| bip_39_word_new_br5 | simple<br>apple<br>merge<br>door<br>south |  
+| bip_39_word_new_br6 | simple<br>apple<br>merge<br>door<br>south<br>island |  
+| bip_39_word_new_br7 | simple<br>apple<br>merge<br>door<br>south<br>island<br>crisp |  
+| bip_39_word_new_br8 | simple<br>apple<br>merge<br>door<br>south<br>island<br>crisp<br>that |  
+| bip_39_word_new_br9 | simple<br>apple<br>merge<br>door<br>south<br>island<br>crisp<br>that<br>bread |  
+| bip_39_word_new_line1 | simple |  
+| bip_39_word_new_line10 | simple
+apple
+merge
+door
+south
+island
+crisp
+that
+bread
+garbage |  
+| bip_39_word_new_line11 | simple
+apple
+merge
+door
+south
+island
+crisp
+that
+bread
+garbage
+relax |  
+| bip_39_word_new_line12 | simple
+apple
+merge
+door
+south
+island
+crisp
+that
+bread
+garbage
+relax
+aisle |  
+| bip_39_word_new_line2 | simple
+apple |  
+| bip_39_word_new_line3 | simple
+apple
+merge |  
+| bip_39_word_new_line4 | simple
+apple
+merge
+door |  
+| bip_39_word_new_line5 | simple
+apple
+merge
+door
+south |  
+| bip_39_word_new_line6 | simple
+apple
+merge
+door
+south
+island |  
+| bip_39_word_new_line7 | simple
+apple
+merge
+door
+south
+island
+crisp |  
+| bip_39_word_new_line8 | simple
+apple
+merge
+door
+south
+island
+crisp
+that |  
+| bip_39_word_new_line9 | simple
+apple
+merge
+door
+south
+island
+crisp
+that
+bread |  
+| bip_39_word_space_0 | ['simple', 'apple', 'merge', 'door', 'south', 'island', 'crisp', 'that', 'bread', 'garbage', 'relax', 'aisle'] |  
+| bip_39_word_space_1 | simple |  
+| bip_39_word_space_10 | simple apple merge door south island crisp that bread garbage |  
+| bip_39_word_space_11 | simple apple merge door south island crisp that bread garbage relax |  
+| bip_39_word_space_12 | simple apple merge door south island crisp that bread garbage relax aisle |  
+| bip_39_word_space_2 | simple apple |  
+| bip_39_word_space_3 | simple apple merge |  
+| bip_39_word_space_4 | simple apple merge door |  
+| bip_39_word_space_5 | simple apple merge door south |  
+| bip_39_word_space_6 | simple apple merge door south island |  
+| bip_39_word_space_7 | simple apple merge door south island crisp |  
+| bip_39_word_space_8 | simple apple merge door south island crisp that |  
+| bip_39_word_space_9 | simple apple merge door south island crisp that bread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

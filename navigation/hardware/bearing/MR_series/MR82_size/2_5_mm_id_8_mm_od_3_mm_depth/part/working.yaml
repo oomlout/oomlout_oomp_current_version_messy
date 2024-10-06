@@ -1,3 +1,186 @@
+bip_39_word_new_br1: grain
+bip_39_word_new_br10: grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe
+bip_39_word_new_br11: grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe<br>panda
+bip_39_word_new_br12: grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar<br>universe<br>panda<br>asset
+bip_39_word_new_br2: grain<br>reward
+bip_39_word_new_br3: grain<br>reward<br>monster
+bip_39_word_new_br4: grain<br>reward<br>monster<br>climb
+bip_39_word_new_br5: grain<br>reward<br>monster<br>climb<br>eager
+bip_39_word_new_br6: grain<br>reward<br>monster<br>climb<br>eager<br>cash
+bip_39_word_new_br7: grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey
+bip_39_word_new_br8: grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin
+bip_39_word_new_br9: grain<br>reward<br>monster<br>climb<br>eager<br>cash<br>donkey<br>skin<br>solar
+bip_39_word_new_line1: grain
+bip_39_word_new_line10: 'grain
+
+  reward
+
+  monster
+
+  climb
+
+  eager
+
+  cash
+
+  donkey
+
+  skin
+
+  solar
+
+  universe'
+bip_39_word_new_line11: 'grain
+
+  reward
+
+  monster
+
+  climb
+
+  eager
+
+  cash
+
+  donkey
+
+  skin
+
+  solar
+
+  universe
+
+  panda'
+bip_39_word_new_line12: 'grain
+
+  reward
+
+  monster
+
+  climb
+
+  eager
+
+  cash
+
+  donkey
+
+  skin
+
+  solar
+
+  universe
+
+  panda
+
+  asset'
+bip_39_word_new_line2: 'grain
+
+  reward'
+bip_39_word_new_line3: 'grain
+
+  reward
+
+  monster'
+bip_39_word_new_line4: 'grain
+
+  reward
+
+  monster
+
+  climb'
+bip_39_word_new_line5: 'grain
+
+  reward
+
+  monster
+
+  climb
+
+  eager'
+bip_39_word_new_line6: 'grain
+
+  reward
+
+  monster
+
+  climb
+
+  eager
+
+  cash'
+bip_39_word_new_line7: 'grain
+
+  reward
+
+  monster
+
+  climb
+
+  eager
+
+  cash
+
+  donkey'
+bip_39_word_new_line8: 'grain
+
+  reward
+
+  monster
+
+  climb
+
+  eager
+
+  cash
+
+  donkey
+
+  skin'
+bip_39_word_new_line9: 'grain
+
+  reward
+
+  monster
+
+  climb
+
+  eager
+
+  cash
+
+  donkey
+
+  skin
+
+  solar'
+bip_39_word_space_0:
+- grain
+- reward
+- monster
+- climb
+- eager
+- cash
+- donkey
+- skin
+- solar
+- universe
+- panda
+- asset
+bip_39_word_space_1: grain
+bip_39_word_space_10: grain reward monster climb eager cash donkey skin solar universe
+bip_39_word_space_11: grain reward monster climb eager cash donkey skin solar universe
+  panda
+bip_39_word_space_12: grain reward monster climb eager cash donkey skin solar universe
+  panda asset
+bip_39_word_space_2: grain reward
+bip_39_word_space_3: grain reward monster
+bip_39_word_space_4: grain reward monster climb
+bip_39_word_space_5: grain reward monster climb eager
+bip_39_word_space_6: grain reward monster climb eager cash
+bip_39_word_space_7: grain reward monster climb eager cash donkey
+bip_39_word_space_8: grain reward monster climb eager cash donkey skin
+bip_39_word_space_9: grain reward monster climb eager cash donkey skin solar
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

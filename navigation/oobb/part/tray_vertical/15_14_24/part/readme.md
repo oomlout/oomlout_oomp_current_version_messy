@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oyster town
+  * bip 39 word 3: oyster town pottery
+  * bip 39 word: oyster town pottery vacant box aware rose joke manual frog door angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oyster |  
+| bip_39_word_new_br10 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware<br>rose<br>joke<br>manual<br>frog |  
+| bip_39_word_new_br11 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware<br>rose<br>joke<br>manual<br>frog<br>door |  
+| bip_39_word_new_br12 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware<br>rose<br>joke<br>manual<br>frog<br>door<br>angry |  
+| bip_39_word_new_br2 | oyster<br>town |  
+| bip_39_word_new_br3 | oyster<br>town<br>pottery |  
+| bip_39_word_new_br4 | oyster<br>town<br>pottery<br>vacant |  
+| bip_39_word_new_br5 | oyster<br>town<br>pottery<br>vacant<br>box |  
+| bip_39_word_new_br6 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware |  
+| bip_39_word_new_br7 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware<br>rose |  
+| bip_39_word_new_br8 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware<br>rose<br>joke |  
+| bip_39_word_new_br9 | oyster<br>town<br>pottery<br>vacant<br>box<br>aware<br>rose<br>joke<br>manual |  
+| bip_39_word_new_line1 | oyster |  
+| bip_39_word_new_line10 | oyster
+town
+pottery
+vacant
+box
+aware
+rose
+joke
+manual
+frog |  
+| bip_39_word_new_line11 | oyster
+town
+pottery
+vacant
+box
+aware
+rose
+joke
+manual
+frog
+door |  
+| bip_39_word_new_line12 | oyster
+town
+pottery
+vacant
+box
+aware
+rose
+joke
+manual
+frog
+door
+angry |  
+| bip_39_word_new_line2 | oyster
+town |  
+| bip_39_word_new_line3 | oyster
+town
+pottery |  
+| bip_39_word_new_line4 | oyster
+town
+pottery
+vacant |  
+| bip_39_word_new_line5 | oyster
+town
+pottery
+vacant
+box |  
+| bip_39_word_new_line6 | oyster
+town
+pottery
+vacant
+box
+aware |  
+| bip_39_word_new_line7 | oyster
+town
+pottery
+vacant
+box
+aware
+rose |  
+| bip_39_word_new_line8 | oyster
+town
+pottery
+vacant
+box
+aware
+rose
+joke |  
+| bip_39_word_new_line9 | oyster
+town
+pottery
+vacant
+box
+aware
+rose
+joke
+manual |  
+| bip_39_word_space_0 | ['oyster', 'town', 'pottery', 'vacant', 'box', 'aware', 'rose', 'joke', 'manual', 'frog', 'door', 'angry'] |  
+| bip_39_word_space_1 | oyster |  
+| bip_39_word_space_10 | oyster town pottery vacant box aware rose joke manual frog |  
+| bip_39_word_space_11 | oyster town pottery vacant box aware rose joke manual frog door |  
+| bip_39_word_space_12 | oyster town pottery vacant box aware rose joke manual frog door angry |  
+| bip_39_word_space_2 | oyster town |  
+| bip_39_word_space_3 | oyster town pottery |  
+| bip_39_word_space_4 | oyster town pottery vacant |  
+| bip_39_word_space_5 | oyster town pottery vacant box |  
+| bip_39_word_space_6 | oyster town pottery vacant box aware |  
+| bip_39_word_space_7 | oyster town pottery vacant box aware rose |  
+| bip_39_word_space_8 | oyster town pottery vacant box aware rose joke |  
+| bip_39_word_space_9 | oyster town pottery vacant box aware rose joke manual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

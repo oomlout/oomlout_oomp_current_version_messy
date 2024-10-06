@@ -1,3 +1,186 @@
+bip_39_word_new_br1: parrot
+bip_39_word_new_br10: parrot<br>thought<br>silly<br>text<br>erase<br>also<br>common<br>media<br>label<br>arrange
+bip_39_word_new_br11: parrot<br>thought<br>silly<br>text<br>erase<br>also<br>common<br>media<br>label<br>arrange<br>valid
+bip_39_word_new_br12: parrot<br>thought<br>silly<br>text<br>erase<br>also<br>common<br>media<br>label<br>arrange<br>valid<br>achieve
+bip_39_word_new_br2: parrot<br>thought
+bip_39_word_new_br3: parrot<br>thought<br>silly
+bip_39_word_new_br4: parrot<br>thought<br>silly<br>text
+bip_39_word_new_br5: parrot<br>thought<br>silly<br>text<br>erase
+bip_39_word_new_br6: parrot<br>thought<br>silly<br>text<br>erase<br>also
+bip_39_word_new_br7: parrot<br>thought<br>silly<br>text<br>erase<br>also<br>common
+bip_39_word_new_br8: parrot<br>thought<br>silly<br>text<br>erase<br>also<br>common<br>media
+bip_39_word_new_br9: parrot<br>thought<br>silly<br>text<br>erase<br>also<br>common<br>media<br>label
+bip_39_word_new_line1: parrot
+bip_39_word_new_line10: 'parrot
+
+  thought
+
+  silly
+
+  text
+
+  erase
+
+  also
+
+  common
+
+  media
+
+  label
+
+  arrange'
+bip_39_word_new_line11: 'parrot
+
+  thought
+
+  silly
+
+  text
+
+  erase
+
+  also
+
+  common
+
+  media
+
+  label
+
+  arrange
+
+  valid'
+bip_39_word_new_line12: 'parrot
+
+  thought
+
+  silly
+
+  text
+
+  erase
+
+  also
+
+  common
+
+  media
+
+  label
+
+  arrange
+
+  valid
+
+  achieve'
+bip_39_word_new_line2: 'parrot
+
+  thought'
+bip_39_word_new_line3: 'parrot
+
+  thought
+
+  silly'
+bip_39_word_new_line4: 'parrot
+
+  thought
+
+  silly
+
+  text'
+bip_39_word_new_line5: 'parrot
+
+  thought
+
+  silly
+
+  text
+
+  erase'
+bip_39_word_new_line6: 'parrot
+
+  thought
+
+  silly
+
+  text
+
+  erase
+
+  also'
+bip_39_word_new_line7: 'parrot
+
+  thought
+
+  silly
+
+  text
+
+  erase
+
+  also
+
+  common'
+bip_39_word_new_line8: 'parrot
+
+  thought
+
+  silly
+
+  text
+
+  erase
+
+  also
+
+  common
+
+  media'
+bip_39_word_new_line9: 'parrot
+
+  thought
+
+  silly
+
+  text
+
+  erase
+
+  also
+
+  common
+
+  media
+
+  label'
+bip_39_word_space_0:
+- parrot
+- thought
+- silly
+- text
+- erase
+- also
+- common
+- media
+- label
+- arrange
+- valid
+- achieve
+bip_39_word_space_1: parrot
+bip_39_word_space_10: parrot thought silly text erase also common media label arrange
+bip_39_word_space_11: parrot thought silly text erase also common media label arrange
+  valid
+bip_39_word_space_12: parrot thought silly text erase also common media label arrange
+  valid achieve
+bip_39_word_space_2: parrot thought
+bip_39_word_space_3: parrot thought silly
+bip_39_word_space_4: parrot thought silly text
+bip_39_word_space_5: parrot thought silly text erase
+bip_39_word_space_6: parrot thought silly text erase also
+bip_39_word_space_7: parrot thought silly text erase also common
+bip_39_word_space_8: parrot thought silly text erase also common media
+bip_39_word_space_9: parrot thought silly text erase also common media label
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

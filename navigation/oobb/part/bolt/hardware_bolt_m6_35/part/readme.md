@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: general census
+  * bip 39 word 3: general census office
+  * bip 39 word: general census office isolate cargo company armed brave erode inmate gorilla armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | general |  
+| bip_39_word_new_br10 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate |  
+| bip_39_word_new_br11 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla |  
+| bip_39_word_new_br12 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla<br>armed |  
+| bip_39_word_new_br2 | general<br>census |  
+| bip_39_word_new_br3 | general<br>census<br>office |  
+| bip_39_word_new_br4 | general<br>census<br>office<br>isolate |  
+| bip_39_word_new_br5 | general<br>census<br>office<br>isolate<br>cargo |  
+| bip_39_word_new_br6 | general<br>census<br>office<br>isolate<br>cargo<br>company |  
+| bip_39_word_new_br7 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed |  
+| bip_39_word_new_br8 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave |  
+| bip_39_word_new_br9 | general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode |  
+| bip_39_word_new_line1 | general |  
+| bip_39_word_new_line10 | general
+census
+office
+isolate
+cargo
+company
+armed
+brave
+erode
+inmate |  
+| bip_39_word_new_line11 | general
+census
+office
+isolate
+cargo
+company
+armed
+brave
+erode
+inmate
+gorilla |  
+| bip_39_word_new_line12 | general
+census
+office
+isolate
+cargo
+company
+armed
+brave
+erode
+inmate
+gorilla
+armed |  
+| bip_39_word_new_line2 | general
+census |  
+| bip_39_word_new_line3 | general
+census
+office |  
+| bip_39_word_new_line4 | general
+census
+office
+isolate |  
+| bip_39_word_new_line5 | general
+census
+office
+isolate
+cargo |  
+| bip_39_word_new_line6 | general
+census
+office
+isolate
+cargo
+company |  
+| bip_39_word_new_line7 | general
+census
+office
+isolate
+cargo
+company
+armed |  
+| bip_39_word_new_line8 | general
+census
+office
+isolate
+cargo
+company
+armed
+brave |  
+| bip_39_word_new_line9 | general
+census
+office
+isolate
+cargo
+company
+armed
+brave
+erode |  
+| bip_39_word_space_0 | ['general', 'census', 'office', 'isolate', 'cargo', 'company', 'armed', 'brave', 'erode', 'inmate', 'gorilla', 'armed'] |  
+| bip_39_word_space_1 | general |  
+| bip_39_word_space_10 | general census office isolate cargo company armed brave erode inmate |  
+| bip_39_word_space_11 | general census office isolate cargo company armed brave erode inmate gorilla |  
+| bip_39_word_space_12 | general census office isolate cargo company armed brave erode inmate gorilla armed |  
+| bip_39_word_space_2 | general census |  
+| bip_39_word_space_3 | general census office |  
+| bip_39_word_space_4 | general census office isolate |  
+| bip_39_word_space_5 | general census office isolate cargo |  
+| bip_39_word_space_6 | general census office isolate cargo company |  
+| bip_39_word_space_7 | general census office isolate cargo company armed |  
+| bip_39_word_space_8 | general census office isolate cargo company armed brave |  
+| bip_39_word_space_9 | general census office isolate cargo company armed brave erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

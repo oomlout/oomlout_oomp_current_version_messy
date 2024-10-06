@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: outside torch
+  * bip 39 word 3: outside torch weird
+  * bip 39 word: outside torch weird stand razor design because gain valid alien rug annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | outside |  
+| bip_39_word_new_br10 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien |  
+| bip_39_word_new_br11 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug |  
+| bip_39_word_new_br12 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug<br>annual |  
+| bip_39_word_new_br2 | outside<br>torch |  
+| bip_39_word_new_br3 | outside<br>torch<br>weird |  
+| bip_39_word_new_br4 | outside<br>torch<br>weird<br>stand |  
+| bip_39_word_new_br5 | outside<br>torch<br>weird<br>stand<br>razor |  
+| bip_39_word_new_br6 | outside<br>torch<br>weird<br>stand<br>razor<br>design |  
+| bip_39_word_new_br7 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because |  
+| bip_39_word_new_br8 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain |  
+| bip_39_word_new_br9 | outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid |  
+| bip_39_word_new_line1 | outside |  
+| bip_39_word_new_line10 | outside
+torch
+weird
+stand
+razor
+design
+because
+gain
+valid
+alien |  
+| bip_39_word_new_line11 | outside
+torch
+weird
+stand
+razor
+design
+because
+gain
+valid
+alien
+rug |  
+| bip_39_word_new_line12 | outside
+torch
+weird
+stand
+razor
+design
+because
+gain
+valid
+alien
+rug
+annual |  
+| bip_39_word_new_line2 | outside
+torch |  
+| bip_39_word_new_line3 | outside
+torch
+weird |  
+| bip_39_word_new_line4 | outside
+torch
+weird
+stand |  
+| bip_39_word_new_line5 | outside
+torch
+weird
+stand
+razor |  
+| bip_39_word_new_line6 | outside
+torch
+weird
+stand
+razor
+design |  
+| bip_39_word_new_line7 | outside
+torch
+weird
+stand
+razor
+design
+because |  
+| bip_39_word_new_line8 | outside
+torch
+weird
+stand
+razor
+design
+because
+gain |  
+| bip_39_word_new_line9 | outside
+torch
+weird
+stand
+razor
+design
+because
+gain
+valid |  
+| bip_39_word_space_0 | ['outside', 'torch', 'weird', 'stand', 'razor', 'design', 'because', 'gain', 'valid', 'alien', 'rug', 'annual'] |  
+| bip_39_word_space_1 | outside |  
+| bip_39_word_space_10 | outside torch weird stand razor design because gain valid alien |  
+| bip_39_word_space_11 | outside torch weird stand razor design because gain valid alien rug |  
+| bip_39_word_space_12 | outside torch weird stand razor design because gain valid alien rug annual |  
+| bip_39_word_space_2 | outside torch |  
+| bip_39_word_space_3 | outside torch weird |  
+| bip_39_word_space_4 | outside torch weird stand |  
+| bip_39_word_space_5 | outside torch weird stand razor |  
+| bip_39_word_space_6 | outside torch weird stand razor design |  
+| bip_39_word_space_7 | outside torch weird stand razor design because |  
+| bip_39_word_space_8 | outside torch weird stand razor design because gain |  
+| bip_39_word_space_9 | outside torch weird stand razor design because gain valid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

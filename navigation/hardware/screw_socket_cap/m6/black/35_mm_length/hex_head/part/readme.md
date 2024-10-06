@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: napkin fold
+  * bip 39 word 3: napkin fold auto
+  * bip 39 word: napkin fold auto turtle journey enlist grace sad toy album large able
 
 ### other_codes
 * short_code: sc6b35h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | napkin |  
+| bip_39_word_new_br10 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist<br>grace<br>sad<br>toy<br>album |  
+| bip_39_word_new_br11 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist<br>grace<br>sad<br>toy<br>album<br>large |  
+| bip_39_word_new_br12 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist<br>grace<br>sad<br>toy<br>album<br>large<br>able |  
+| bip_39_word_new_br2 | napkin<br>fold |  
+| bip_39_word_new_br3 | napkin<br>fold<br>auto |  
+| bip_39_word_new_br4 | napkin<br>fold<br>auto<br>turtle |  
+| bip_39_word_new_br5 | napkin<br>fold<br>auto<br>turtle<br>journey |  
+| bip_39_word_new_br6 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist |  
+| bip_39_word_new_br7 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist<br>grace |  
+| bip_39_word_new_br8 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist<br>grace<br>sad |  
+| bip_39_word_new_br9 | napkin<br>fold<br>auto<br>turtle<br>journey<br>enlist<br>grace<br>sad<br>toy |  
+| bip_39_word_new_line1 | napkin |  
+| bip_39_word_new_line10 | napkin
+fold
+auto
+turtle
+journey
+enlist
+grace
+sad
+toy
+album |  
+| bip_39_word_new_line11 | napkin
+fold
+auto
+turtle
+journey
+enlist
+grace
+sad
+toy
+album
+large |  
+| bip_39_word_new_line12 | napkin
+fold
+auto
+turtle
+journey
+enlist
+grace
+sad
+toy
+album
+large
+able |  
+| bip_39_word_new_line2 | napkin
+fold |  
+| bip_39_word_new_line3 | napkin
+fold
+auto |  
+| bip_39_word_new_line4 | napkin
+fold
+auto
+turtle |  
+| bip_39_word_new_line5 | napkin
+fold
+auto
+turtle
+journey |  
+| bip_39_word_new_line6 | napkin
+fold
+auto
+turtle
+journey
+enlist |  
+| bip_39_word_new_line7 | napkin
+fold
+auto
+turtle
+journey
+enlist
+grace |  
+| bip_39_word_new_line8 | napkin
+fold
+auto
+turtle
+journey
+enlist
+grace
+sad |  
+| bip_39_word_new_line9 | napkin
+fold
+auto
+turtle
+journey
+enlist
+grace
+sad
+toy |  
+| bip_39_word_space_0 | ['napkin', 'fold', 'auto', 'turtle', 'journey', 'enlist', 'grace', 'sad', 'toy', 'album', 'large', 'able'] |  
+| bip_39_word_space_1 | napkin |  
+| bip_39_word_space_10 | napkin fold auto turtle journey enlist grace sad toy album |  
+| bip_39_word_space_11 | napkin fold auto turtle journey enlist grace sad toy album large |  
+| bip_39_word_space_12 | napkin fold auto turtle journey enlist grace sad toy album large able |  
+| bip_39_word_space_2 | napkin fold |  
+| bip_39_word_space_3 | napkin fold auto |  
+| bip_39_word_space_4 | napkin fold auto turtle |  
+| bip_39_word_space_5 | napkin fold auto turtle journey |  
+| bip_39_word_space_6 | napkin fold auto turtle journey enlist |  
+| bip_39_word_space_7 | napkin fold auto turtle journey enlist grace |  
+| bip_39_word_space_8 | napkin fold auto turtle journey enlist grace sad |  
+| bip_39_word_space_9 | napkin fold auto turtle journey enlist grace sad toy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

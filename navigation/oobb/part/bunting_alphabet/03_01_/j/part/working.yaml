@@ -1,3 +1,186 @@
+bip_39_word_new_br1: safe
+bip_39_word_new_br10: safe<br>absent<br>chat<br>exile<br>submit<br>fever<br>extend<br>stairs<br>predict<br>ball
+bip_39_word_new_br11: safe<br>absent<br>chat<br>exile<br>submit<br>fever<br>extend<br>stairs<br>predict<br>ball<br>excuse
+bip_39_word_new_br12: safe<br>absent<br>chat<br>exile<br>submit<br>fever<br>extend<br>stairs<br>predict<br>ball<br>excuse<br>anger
+bip_39_word_new_br2: safe<br>absent
+bip_39_word_new_br3: safe<br>absent<br>chat
+bip_39_word_new_br4: safe<br>absent<br>chat<br>exile
+bip_39_word_new_br5: safe<br>absent<br>chat<br>exile<br>submit
+bip_39_word_new_br6: safe<br>absent<br>chat<br>exile<br>submit<br>fever
+bip_39_word_new_br7: safe<br>absent<br>chat<br>exile<br>submit<br>fever<br>extend
+bip_39_word_new_br8: safe<br>absent<br>chat<br>exile<br>submit<br>fever<br>extend<br>stairs
+bip_39_word_new_br9: safe<br>absent<br>chat<br>exile<br>submit<br>fever<br>extend<br>stairs<br>predict
+bip_39_word_new_line1: safe
+bip_39_word_new_line10: 'safe
+
+  absent
+
+  chat
+
+  exile
+
+  submit
+
+  fever
+
+  extend
+
+  stairs
+
+  predict
+
+  ball'
+bip_39_word_new_line11: 'safe
+
+  absent
+
+  chat
+
+  exile
+
+  submit
+
+  fever
+
+  extend
+
+  stairs
+
+  predict
+
+  ball
+
+  excuse'
+bip_39_word_new_line12: 'safe
+
+  absent
+
+  chat
+
+  exile
+
+  submit
+
+  fever
+
+  extend
+
+  stairs
+
+  predict
+
+  ball
+
+  excuse
+
+  anger'
+bip_39_word_new_line2: 'safe
+
+  absent'
+bip_39_word_new_line3: 'safe
+
+  absent
+
+  chat'
+bip_39_word_new_line4: 'safe
+
+  absent
+
+  chat
+
+  exile'
+bip_39_word_new_line5: 'safe
+
+  absent
+
+  chat
+
+  exile
+
+  submit'
+bip_39_word_new_line6: 'safe
+
+  absent
+
+  chat
+
+  exile
+
+  submit
+
+  fever'
+bip_39_word_new_line7: 'safe
+
+  absent
+
+  chat
+
+  exile
+
+  submit
+
+  fever
+
+  extend'
+bip_39_word_new_line8: 'safe
+
+  absent
+
+  chat
+
+  exile
+
+  submit
+
+  fever
+
+  extend
+
+  stairs'
+bip_39_word_new_line9: 'safe
+
+  absent
+
+  chat
+
+  exile
+
+  submit
+
+  fever
+
+  extend
+
+  stairs
+
+  predict'
+bip_39_word_space_0:
+- safe
+- absent
+- chat
+- exile
+- submit
+- fever
+- extend
+- stairs
+- predict
+- ball
+- excuse
+- anger
+bip_39_word_space_1: safe
+bip_39_word_space_10: safe absent chat exile submit fever extend stairs predict ball
+bip_39_word_space_11: safe absent chat exile submit fever extend stairs predict ball
+  excuse
+bip_39_word_space_12: safe absent chat exile submit fever extend stairs predict ball
+  excuse anger
+bip_39_word_space_2: safe absent
+bip_39_word_space_3: safe absent chat
+bip_39_word_space_4: safe absent chat exile
+bip_39_word_space_5: safe absent chat exile submit
+bip_39_word_space_6: safe absent chat exile submit fever
+bip_39_word_space_7: safe absent chat exile submit fever extend
+bip_39_word_space_8: safe absent chat exile submit fever extend stairs
+bip_39_word_space_9: safe absent chat exile submit fever extend stairs predict
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

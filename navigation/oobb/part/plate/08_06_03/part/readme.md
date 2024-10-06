@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scrap firm
+  * bip 39 word 3: scrap firm gasp
+  * bip 39 word: scrap firm gasp clay width leisure doll feature cupboard element trend adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scrap |  
+| bip_39_word_new_br10 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure<br>doll<br>feature<br>cupboard<br>element |  
+| bip_39_word_new_br11 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure<br>doll<br>feature<br>cupboard<br>element<br>trend |  
+| bip_39_word_new_br12 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure<br>doll<br>feature<br>cupboard<br>element<br>trend<br>adjust |  
+| bip_39_word_new_br2 | scrap<br>firm |  
+| bip_39_word_new_br3 | scrap<br>firm<br>gasp |  
+| bip_39_word_new_br4 | scrap<br>firm<br>gasp<br>clay |  
+| bip_39_word_new_br5 | scrap<br>firm<br>gasp<br>clay<br>width |  
+| bip_39_word_new_br6 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure |  
+| bip_39_word_new_br7 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure<br>doll |  
+| bip_39_word_new_br8 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure<br>doll<br>feature |  
+| bip_39_word_new_br9 | scrap<br>firm<br>gasp<br>clay<br>width<br>leisure<br>doll<br>feature<br>cupboard |  
+| bip_39_word_new_line1 | scrap |  
+| bip_39_word_new_line10 | scrap
+firm
+gasp
+clay
+width
+leisure
+doll
+feature
+cupboard
+element |  
+| bip_39_word_new_line11 | scrap
+firm
+gasp
+clay
+width
+leisure
+doll
+feature
+cupboard
+element
+trend |  
+| bip_39_word_new_line12 | scrap
+firm
+gasp
+clay
+width
+leisure
+doll
+feature
+cupboard
+element
+trend
+adjust |  
+| bip_39_word_new_line2 | scrap
+firm |  
+| bip_39_word_new_line3 | scrap
+firm
+gasp |  
+| bip_39_word_new_line4 | scrap
+firm
+gasp
+clay |  
+| bip_39_word_new_line5 | scrap
+firm
+gasp
+clay
+width |  
+| bip_39_word_new_line6 | scrap
+firm
+gasp
+clay
+width
+leisure |  
+| bip_39_word_new_line7 | scrap
+firm
+gasp
+clay
+width
+leisure
+doll |  
+| bip_39_word_new_line8 | scrap
+firm
+gasp
+clay
+width
+leisure
+doll
+feature |  
+| bip_39_word_new_line9 | scrap
+firm
+gasp
+clay
+width
+leisure
+doll
+feature
+cupboard |  
+| bip_39_word_space_0 | ['scrap', 'firm', 'gasp', 'clay', 'width', 'leisure', 'doll', 'feature', 'cupboard', 'element', 'trend', 'adjust'] |  
+| bip_39_word_space_1 | scrap |  
+| bip_39_word_space_10 | scrap firm gasp clay width leisure doll feature cupboard element |  
+| bip_39_word_space_11 | scrap firm gasp clay width leisure doll feature cupboard element trend |  
+| bip_39_word_space_12 | scrap firm gasp clay width leisure doll feature cupboard element trend adjust |  
+| bip_39_word_space_2 | scrap firm |  
+| bip_39_word_space_3 | scrap firm gasp |  
+| bip_39_word_space_4 | scrap firm gasp clay |  
+| bip_39_word_space_5 | scrap firm gasp clay width |  
+| bip_39_word_space_6 | scrap firm gasp clay width leisure |  
+| bip_39_word_space_7 | scrap firm gasp clay width leisure doll |  
+| bip_39_word_space_8 | scrap firm gasp clay width leisure doll feature |  
+| bip_39_word_space_9 | scrap firm gasp clay width leisure doll feature cupboard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

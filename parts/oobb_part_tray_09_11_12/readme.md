@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: layer steak
+  * bip 39 word 3: layer steak impose
+  * bip 39 word: layer steak impose ignore horn manage slot employ match author category advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | layer |  
+| bip_39_word_new_br10 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match<br>author |  
+| bip_39_word_new_br11 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match<br>author<br>category |  
+| bip_39_word_new_br12 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match<br>author<br>category<br>advice |  
+| bip_39_word_new_br2 | layer<br>steak |  
+| bip_39_word_new_br3 | layer<br>steak<br>impose |  
+| bip_39_word_new_br4 | layer<br>steak<br>impose<br>ignore |  
+| bip_39_word_new_br5 | layer<br>steak<br>impose<br>ignore<br>horn |  
+| bip_39_word_new_br6 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage |  
+| bip_39_word_new_br7 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot |  
+| bip_39_word_new_br8 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ |  
+| bip_39_word_new_br9 | layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match |  
+| bip_39_word_new_line1 | layer |  
+| bip_39_word_new_line10 | layer
+steak
+impose
+ignore
+horn
+manage
+slot
+employ
+match
+author |  
+| bip_39_word_new_line11 | layer
+steak
+impose
+ignore
+horn
+manage
+slot
+employ
+match
+author
+category |  
+| bip_39_word_new_line12 | layer
+steak
+impose
+ignore
+horn
+manage
+slot
+employ
+match
+author
+category
+advice |  
+| bip_39_word_new_line2 | layer
+steak |  
+| bip_39_word_new_line3 | layer
+steak
+impose |  
+| bip_39_word_new_line4 | layer
+steak
+impose
+ignore |  
+| bip_39_word_new_line5 | layer
+steak
+impose
+ignore
+horn |  
+| bip_39_word_new_line6 | layer
+steak
+impose
+ignore
+horn
+manage |  
+| bip_39_word_new_line7 | layer
+steak
+impose
+ignore
+horn
+manage
+slot |  
+| bip_39_word_new_line8 | layer
+steak
+impose
+ignore
+horn
+manage
+slot
+employ |  
+| bip_39_word_new_line9 | layer
+steak
+impose
+ignore
+horn
+manage
+slot
+employ
+match |  
+| bip_39_word_space_0 | ['layer', 'steak', 'impose', 'ignore', 'horn', 'manage', 'slot', 'employ', 'match', 'author', 'category', 'advice'] |  
+| bip_39_word_space_1 | layer |  
+| bip_39_word_space_10 | layer steak impose ignore horn manage slot employ match author |  
+| bip_39_word_space_11 | layer steak impose ignore horn manage slot employ match author category |  
+| bip_39_word_space_12 | layer steak impose ignore horn manage slot employ match author category advice |  
+| bip_39_word_space_2 | layer steak |  
+| bip_39_word_space_3 | layer steak impose |  
+| bip_39_word_space_4 | layer steak impose ignore |  
+| bip_39_word_space_5 | layer steak impose ignore horn |  
+| bip_39_word_space_6 | layer steak impose ignore horn manage |  
+| bip_39_word_space_7 | layer steak impose ignore horn manage slot |  
+| bip_39_word_space_8 | layer steak impose ignore horn manage slot employ |  
+| bip_39_word_space_9 | layer steak impose ignore horn manage slot employ match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

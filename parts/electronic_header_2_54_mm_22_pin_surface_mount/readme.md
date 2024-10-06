@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eager repeat
+  * bip 39 word 3: eager repeat palm
+  * bip 39 word: eager repeat palm recycle betray ridge front column pause hundred edge assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eager |  
+| bip_39_word_new_br10 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred |  
+| bip_39_word_new_br11 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred<br>edge |  
+| bip_39_word_new_br12 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause<br>hundred<br>edge<br>assist |  
+| bip_39_word_new_br2 | eager<br>repeat |  
+| bip_39_word_new_br3 | eager<br>repeat<br>palm |  
+| bip_39_word_new_br4 | eager<br>repeat<br>palm<br>recycle |  
+| bip_39_word_new_br5 | eager<br>repeat<br>palm<br>recycle<br>betray |  
+| bip_39_word_new_br6 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge |  
+| bip_39_word_new_br7 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front |  
+| bip_39_word_new_br8 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column |  
+| bip_39_word_new_br9 | eager<br>repeat<br>palm<br>recycle<br>betray<br>ridge<br>front<br>column<br>pause |  
+| bip_39_word_new_line1 | eager |  
+| bip_39_word_new_line10 | eager
+repeat
+palm
+recycle
+betray
+ridge
+front
+column
+pause
+hundred |  
+| bip_39_word_new_line11 | eager
+repeat
+palm
+recycle
+betray
+ridge
+front
+column
+pause
+hundred
+edge |  
+| bip_39_word_new_line12 | eager
+repeat
+palm
+recycle
+betray
+ridge
+front
+column
+pause
+hundred
+edge
+assist |  
+| bip_39_word_new_line2 | eager
+repeat |  
+| bip_39_word_new_line3 | eager
+repeat
+palm |  
+| bip_39_word_new_line4 | eager
+repeat
+palm
+recycle |  
+| bip_39_word_new_line5 | eager
+repeat
+palm
+recycle
+betray |  
+| bip_39_word_new_line6 | eager
+repeat
+palm
+recycle
+betray
+ridge |  
+| bip_39_word_new_line7 | eager
+repeat
+palm
+recycle
+betray
+ridge
+front |  
+| bip_39_word_new_line8 | eager
+repeat
+palm
+recycle
+betray
+ridge
+front
+column |  
+| bip_39_word_new_line9 | eager
+repeat
+palm
+recycle
+betray
+ridge
+front
+column
+pause |  
+| bip_39_word_space_0 | ['eager', 'repeat', 'palm', 'recycle', 'betray', 'ridge', 'front', 'column', 'pause', 'hundred', 'edge', 'assist'] |  
+| bip_39_word_space_1 | eager |  
+| bip_39_word_space_10 | eager repeat palm recycle betray ridge front column pause hundred |  
+| bip_39_word_space_11 | eager repeat palm recycle betray ridge front column pause hundred edge |  
+| bip_39_word_space_12 | eager repeat palm recycle betray ridge front column pause hundred edge assist |  
+| bip_39_word_space_2 | eager repeat |  
+| bip_39_word_space_3 | eager repeat palm |  
+| bip_39_word_space_4 | eager repeat palm recycle |  
+| bip_39_word_space_5 | eager repeat palm recycle betray |  
+| bip_39_word_space_6 | eager repeat palm recycle betray ridge |  
+| bip_39_word_space_7 | eager repeat palm recycle betray ridge front |  
+| bip_39_word_space_8 | eager repeat palm recycle betray ridge front column |  
+| bip_39_word_space_9 | eager repeat palm recycle betray ridge front column pause |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

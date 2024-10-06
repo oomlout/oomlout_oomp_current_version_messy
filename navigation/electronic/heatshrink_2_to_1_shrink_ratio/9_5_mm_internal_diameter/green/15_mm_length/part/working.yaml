@@ -1,3 +1,185 @@
+bip_39_word_new_br1: mesh
+bip_39_word_new_br10: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise<br>soon<br>doctor<br>cost<br>derive
+bip_39_word_new_br11: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise<br>soon<br>doctor<br>cost<br>derive<br>young
+bip_39_word_new_br12: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise<br>soon<br>doctor<br>cost<br>derive<br>young<br>appear
+bip_39_word_new_br2: mesh<br>antenna
+bip_39_word_new_br3: mesh<br>antenna<br>chef
+bip_39_word_new_br4: mesh<br>antenna<br>chef<br>flag
+bip_39_word_new_br5: mesh<br>antenna<br>chef<br>flag<br>pipe
+bip_39_word_new_br6: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise
+bip_39_word_new_br7: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise<br>soon
+bip_39_word_new_br8: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise<br>soon<br>doctor
+bip_39_word_new_br9: mesh<br>antenna<br>chef<br>flag<br>pipe<br>praise<br>soon<br>doctor<br>cost
+bip_39_word_new_line1: mesh
+bip_39_word_new_line10: 'mesh
+
+  antenna
+
+  chef
+
+  flag
+
+  pipe
+
+  praise
+
+  soon
+
+  doctor
+
+  cost
+
+  derive'
+bip_39_word_new_line11: 'mesh
+
+  antenna
+
+  chef
+
+  flag
+
+  pipe
+
+  praise
+
+  soon
+
+  doctor
+
+  cost
+
+  derive
+
+  young'
+bip_39_word_new_line12: 'mesh
+
+  antenna
+
+  chef
+
+  flag
+
+  pipe
+
+  praise
+
+  soon
+
+  doctor
+
+  cost
+
+  derive
+
+  young
+
+  appear'
+bip_39_word_new_line2: 'mesh
+
+  antenna'
+bip_39_word_new_line3: 'mesh
+
+  antenna
+
+  chef'
+bip_39_word_new_line4: 'mesh
+
+  antenna
+
+  chef
+
+  flag'
+bip_39_word_new_line5: 'mesh
+
+  antenna
+
+  chef
+
+  flag
+
+  pipe'
+bip_39_word_new_line6: 'mesh
+
+  antenna
+
+  chef
+
+  flag
+
+  pipe
+
+  praise'
+bip_39_word_new_line7: 'mesh
+
+  antenna
+
+  chef
+
+  flag
+
+  pipe
+
+  praise
+
+  soon'
+bip_39_word_new_line8: 'mesh
+
+  antenna
+
+  chef
+
+  flag
+
+  pipe
+
+  praise
+
+  soon
+
+  doctor'
+bip_39_word_new_line9: 'mesh
+
+  antenna
+
+  chef
+
+  flag
+
+  pipe
+
+  praise
+
+  soon
+
+  doctor
+
+  cost'
+bip_39_word_space_0:
+- mesh
+- antenna
+- chef
+- flag
+- pipe
+- praise
+- soon
+- doctor
+- cost
+- derive
+- young
+- appear
+bip_39_word_space_1: mesh
+bip_39_word_space_10: mesh antenna chef flag pipe praise soon doctor cost derive
+bip_39_word_space_11: mesh antenna chef flag pipe praise soon doctor cost derive young
+bip_39_word_space_12: mesh antenna chef flag pipe praise soon doctor cost derive young
+  appear
+bip_39_word_space_2: mesh antenna
+bip_39_word_space_3: mesh antenna chef
+bip_39_word_space_4: mesh antenna chef flag
+bip_39_word_space_5: mesh antenna chef flag pipe
+bip_39_word_space_6: mesh antenna chef flag pipe praise
+bip_39_word_space_7: mesh antenna chef flag pipe praise soon
+bip_39_word_space_8: mesh antenna chef flag pipe praise soon doctor
+bip_39_word_space_9: mesh antenna chef flag pipe praise soon doctor cost
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

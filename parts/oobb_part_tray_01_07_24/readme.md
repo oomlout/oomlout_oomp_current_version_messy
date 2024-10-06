@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: assault term
+  * bip 39 word 3: assault term course
+  * bip 39 word: assault term course project umbrella divorce vintage phone cancel alter topic arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | assault |  
+| bip_39_word_new_br10 | assault<br>term<br>course<br>project<br>umbrella<br>divorce<br>vintage<br>phone<br>cancel<br>alter |  
+| bip_39_word_new_br11 | assault<br>term<br>course<br>project<br>umbrella<br>divorce<br>vintage<br>phone<br>cancel<br>alter<br>topic |  
+| bip_39_word_new_br12 | assault<br>term<br>course<br>project<br>umbrella<br>divorce<br>vintage<br>phone<br>cancel<br>alter<br>topic<br>arrange |  
+| bip_39_word_new_br2 | assault<br>term |  
+| bip_39_word_new_br3 | assault<br>term<br>course |  
+| bip_39_word_new_br4 | assault<br>term<br>course<br>project |  
+| bip_39_word_new_br5 | assault<br>term<br>course<br>project<br>umbrella |  
+| bip_39_word_new_br6 | assault<br>term<br>course<br>project<br>umbrella<br>divorce |  
+| bip_39_word_new_br7 | assault<br>term<br>course<br>project<br>umbrella<br>divorce<br>vintage |  
+| bip_39_word_new_br8 | assault<br>term<br>course<br>project<br>umbrella<br>divorce<br>vintage<br>phone |  
+| bip_39_word_new_br9 | assault<br>term<br>course<br>project<br>umbrella<br>divorce<br>vintage<br>phone<br>cancel |  
+| bip_39_word_new_line1 | assault |  
+| bip_39_word_new_line10 | assault
+term
+course
+project
+umbrella
+divorce
+vintage
+phone
+cancel
+alter |  
+| bip_39_word_new_line11 | assault
+term
+course
+project
+umbrella
+divorce
+vintage
+phone
+cancel
+alter
+topic |  
+| bip_39_word_new_line12 | assault
+term
+course
+project
+umbrella
+divorce
+vintage
+phone
+cancel
+alter
+topic
+arrange |  
+| bip_39_word_new_line2 | assault
+term |  
+| bip_39_word_new_line3 | assault
+term
+course |  
+| bip_39_word_new_line4 | assault
+term
+course
+project |  
+| bip_39_word_new_line5 | assault
+term
+course
+project
+umbrella |  
+| bip_39_word_new_line6 | assault
+term
+course
+project
+umbrella
+divorce |  
+| bip_39_word_new_line7 | assault
+term
+course
+project
+umbrella
+divorce
+vintage |  
+| bip_39_word_new_line8 | assault
+term
+course
+project
+umbrella
+divorce
+vintage
+phone |  
+| bip_39_word_new_line9 | assault
+term
+course
+project
+umbrella
+divorce
+vintage
+phone
+cancel |  
+| bip_39_word_space_0 | ['assault', 'term', 'course', 'project', 'umbrella', 'divorce', 'vintage', 'phone', 'cancel', 'alter', 'topic', 'arrange'] |  
+| bip_39_word_space_1 | assault |  
+| bip_39_word_space_10 | assault term course project umbrella divorce vintage phone cancel alter |  
+| bip_39_word_space_11 | assault term course project umbrella divorce vintage phone cancel alter topic |  
+| bip_39_word_space_12 | assault term course project umbrella divorce vintage phone cancel alter topic arrange |  
+| bip_39_word_space_2 | assault term |  
+| bip_39_word_space_3 | assault term course |  
+| bip_39_word_space_4 | assault term course project |  
+| bip_39_word_space_5 | assault term course project umbrella |  
+| bip_39_word_space_6 | assault term course project umbrella divorce |  
+| bip_39_word_space_7 | assault term course project umbrella divorce vintage |  
+| bip_39_word_space_8 | assault term course project umbrella divorce vintage phone |  
+| bip_39_word_space_9 | assault term course project umbrella divorce vintage phone cancel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

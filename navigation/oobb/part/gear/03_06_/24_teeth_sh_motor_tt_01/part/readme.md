@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wonder innocent
+  * bip 39 word 3: wonder innocent midnight
+  * bip 39 word: wonder innocent midnight blast rich accident client omit wire wire ginger absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wonder |  
+| bip_39_word_new_br10 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire<br>wire |  
+| bip_39_word_new_br11 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire<br>wire<br>ginger |  
+| bip_39_word_new_br12 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire<br>wire<br>ginger<br>absent |  
+| bip_39_word_new_br2 | wonder<br>innocent |  
+| bip_39_word_new_br3 | wonder<br>innocent<br>midnight |  
+| bip_39_word_new_br4 | wonder<br>innocent<br>midnight<br>blast |  
+| bip_39_word_new_br5 | wonder<br>innocent<br>midnight<br>blast<br>rich |  
+| bip_39_word_new_br6 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident |  
+| bip_39_word_new_br7 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client |  
+| bip_39_word_new_br8 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit |  
+| bip_39_word_new_br9 | wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire |  
+| bip_39_word_new_line1 | wonder |  
+| bip_39_word_new_line10 | wonder
+innocent
+midnight
+blast
+rich
+accident
+client
+omit
+wire
+wire |  
+| bip_39_word_new_line11 | wonder
+innocent
+midnight
+blast
+rich
+accident
+client
+omit
+wire
+wire
+ginger |  
+| bip_39_word_new_line12 | wonder
+innocent
+midnight
+blast
+rich
+accident
+client
+omit
+wire
+wire
+ginger
+absent |  
+| bip_39_word_new_line2 | wonder
+innocent |  
+| bip_39_word_new_line3 | wonder
+innocent
+midnight |  
+| bip_39_word_new_line4 | wonder
+innocent
+midnight
+blast |  
+| bip_39_word_new_line5 | wonder
+innocent
+midnight
+blast
+rich |  
+| bip_39_word_new_line6 | wonder
+innocent
+midnight
+blast
+rich
+accident |  
+| bip_39_word_new_line7 | wonder
+innocent
+midnight
+blast
+rich
+accident
+client |  
+| bip_39_word_new_line8 | wonder
+innocent
+midnight
+blast
+rich
+accident
+client
+omit |  
+| bip_39_word_new_line9 | wonder
+innocent
+midnight
+blast
+rich
+accident
+client
+omit
+wire |  
+| bip_39_word_space_0 | ['wonder', 'innocent', 'midnight', 'blast', 'rich', 'accident', 'client', 'omit', 'wire', 'wire', 'ginger', 'absent'] |  
+| bip_39_word_space_1 | wonder |  
+| bip_39_word_space_10 | wonder innocent midnight blast rich accident client omit wire wire |  
+| bip_39_word_space_11 | wonder innocent midnight blast rich accident client omit wire wire ginger |  
+| bip_39_word_space_12 | wonder innocent midnight blast rich accident client omit wire wire ginger absent |  
+| bip_39_word_space_2 | wonder innocent |  
+| bip_39_word_space_3 | wonder innocent midnight |  
+| bip_39_word_space_4 | wonder innocent midnight blast |  
+| bip_39_word_space_5 | wonder innocent midnight blast rich |  
+| bip_39_word_space_6 | wonder innocent midnight blast rich accident |  
+| bip_39_word_space_7 | wonder innocent midnight blast rich accident client |  
+| bip_39_word_space_8 | wonder innocent midnight blast rich accident client omit |  
+| bip_39_word_space_9 | wonder innocent midnight blast rich accident client omit wire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

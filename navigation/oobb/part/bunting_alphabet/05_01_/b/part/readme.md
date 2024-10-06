@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: b
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: twice fiber
+  * bip 39 word 3: twice fiber video
+  * bip 39 word: twice fiber video brass project tree intact december monster forest false author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | twice |  
+| bip_39_word_new_br10 | twice<br>fiber<br>video<br>brass<br>project<br>tree<br>intact<br>december<br>monster<br>forest |  
+| bip_39_word_new_br11 | twice<br>fiber<br>video<br>brass<br>project<br>tree<br>intact<br>december<br>monster<br>forest<br>false |  
+| bip_39_word_new_br12 | twice<br>fiber<br>video<br>brass<br>project<br>tree<br>intact<br>december<br>monster<br>forest<br>false<br>author |  
+| bip_39_word_new_br2 | twice<br>fiber |  
+| bip_39_word_new_br3 | twice<br>fiber<br>video |  
+| bip_39_word_new_br4 | twice<br>fiber<br>video<br>brass |  
+| bip_39_word_new_br5 | twice<br>fiber<br>video<br>brass<br>project |  
+| bip_39_word_new_br6 | twice<br>fiber<br>video<br>brass<br>project<br>tree |  
+| bip_39_word_new_br7 | twice<br>fiber<br>video<br>brass<br>project<br>tree<br>intact |  
+| bip_39_word_new_br8 | twice<br>fiber<br>video<br>brass<br>project<br>tree<br>intact<br>december |  
+| bip_39_word_new_br9 | twice<br>fiber<br>video<br>brass<br>project<br>tree<br>intact<br>december<br>monster |  
+| bip_39_word_new_line1 | twice |  
+| bip_39_word_new_line10 | twice
+fiber
+video
+brass
+project
+tree
+intact
+december
+monster
+forest |  
+| bip_39_word_new_line11 | twice
+fiber
+video
+brass
+project
+tree
+intact
+december
+monster
+forest
+false |  
+| bip_39_word_new_line12 | twice
+fiber
+video
+brass
+project
+tree
+intact
+december
+monster
+forest
+false
+author |  
+| bip_39_word_new_line2 | twice
+fiber |  
+| bip_39_word_new_line3 | twice
+fiber
+video |  
+| bip_39_word_new_line4 | twice
+fiber
+video
+brass |  
+| bip_39_word_new_line5 | twice
+fiber
+video
+brass
+project |  
+| bip_39_word_new_line6 | twice
+fiber
+video
+brass
+project
+tree |  
+| bip_39_word_new_line7 | twice
+fiber
+video
+brass
+project
+tree
+intact |  
+| bip_39_word_new_line8 | twice
+fiber
+video
+brass
+project
+tree
+intact
+december |  
+| bip_39_word_new_line9 | twice
+fiber
+video
+brass
+project
+tree
+intact
+december
+monster |  
+| bip_39_word_space_0 | ['twice', 'fiber', 'video', 'brass', 'project', 'tree', 'intact', 'december', 'monster', 'forest', 'false', 'author'] |  
+| bip_39_word_space_1 | twice |  
+| bip_39_word_space_10 | twice fiber video brass project tree intact december monster forest |  
+| bip_39_word_space_11 | twice fiber video brass project tree intact december monster forest false |  
+| bip_39_word_space_12 | twice fiber video brass project tree intact december monster forest false author |  
+| bip_39_word_space_2 | twice fiber |  
+| bip_39_word_space_3 | twice fiber video |  
+| bip_39_word_space_4 | twice fiber video brass |  
+| bip_39_word_space_5 | twice fiber video brass project |  
+| bip_39_word_space_6 | twice fiber video brass project tree |  
+| bip_39_word_space_7 | twice fiber video brass project tree intact |  
+| bip_39_word_space_8 | twice fiber video brass project tree intact december |  
+| bip_39_word_space_9 | twice fiber video brass project tree intact december monster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

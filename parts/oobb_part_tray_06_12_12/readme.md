@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vocal fantasy
+  * bip 39 word 3: vocal fantasy slush
+  * bip 39 word: vocal fantasy slush asthma turn layer essay popular canal float cradle advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vocal |  
+| bip_39_word_new_br10 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal<br>float |  
+| bip_39_word_new_br11 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal<br>float<br>cradle |  
+| bip_39_word_new_br12 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal<br>float<br>cradle<br>advice |  
+| bip_39_word_new_br2 | vocal<br>fantasy |  
+| bip_39_word_new_br3 | vocal<br>fantasy<br>slush |  
+| bip_39_word_new_br4 | vocal<br>fantasy<br>slush<br>asthma |  
+| bip_39_word_new_br5 | vocal<br>fantasy<br>slush<br>asthma<br>turn |  
+| bip_39_word_new_br6 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer |  
+| bip_39_word_new_br7 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay |  
+| bip_39_word_new_br8 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular |  
+| bip_39_word_new_br9 | vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal |  
+| bip_39_word_new_line1 | vocal |  
+| bip_39_word_new_line10 | vocal
+fantasy
+slush
+asthma
+turn
+layer
+essay
+popular
+canal
+float |  
+| bip_39_word_new_line11 | vocal
+fantasy
+slush
+asthma
+turn
+layer
+essay
+popular
+canal
+float
+cradle |  
+| bip_39_word_new_line12 | vocal
+fantasy
+slush
+asthma
+turn
+layer
+essay
+popular
+canal
+float
+cradle
+advice |  
+| bip_39_word_new_line2 | vocal
+fantasy |  
+| bip_39_word_new_line3 | vocal
+fantasy
+slush |  
+| bip_39_word_new_line4 | vocal
+fantasy
+slush
+asthma |  
+| bip_39_word_new_line5 | vocal
+fantasy
+slush
+asthma
+turn |  
+| bip_39_word_new_line6 | vocal
+fantasy
+slush
+asthma
+turn
+layer |  
+| bip_39_word_new_line7 | vocal
+fantasy
+slush
+asthma
+turn
+layer
+essay |  
+| bip_39_word_new_line8 | vocal
+fantasy
+slush
+asthma
+turn
+layer
+essay
+popular |  
+| bip_39_word_new_line9 | vocal
+fantasy
+slush
+asthma
+turn
+layer
+essay
+popular
+canal |  
+| bip_39_word_space_0 | ['vocal', 'fantasy', 'slush', 'asthma', 'turn', 'layer', 'essay', 'popular', 'canal', 'float', 'cradle', 'advice'] |  
+| bip_39_word_space_1 | vocal |  
+| bip_39_word_space_10 | vocal fantasy slush asthma turn layer essay popular canal float |  
+| bip_39_word_space_11 | vocal fantasy slush asthma turn layer essay popular canal float cradle |  
+| bip_39_word_space_12 | vocal fantasy slush asthma turn layer essay popular canal float cradle advice |  
+| bip_39_word_space_2 | vocal fantasy |  
+| bip_39_word_space_3 | vocal fantasy slush |  
+| bip_39_word_space_4 | vocal fantasy slush asthma |  
+| bip_39_word_space_5 | vocal fantasy slush asthma turn |  
+| bip_39_word_space_6 | vocal fantasy slush asthma turn layer |  
+| bip_39_word_space_7 | vocal fantasy slush asthma turn layer essay |  
+| bip_39_word_space_8 | vocal fantasy slush asthma turn layer essay popular |  
+| bip_39_word_space_9 | vocal fantasy slush asthma turn layer essay popular canal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

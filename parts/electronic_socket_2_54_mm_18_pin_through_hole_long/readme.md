@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lock cage
+  * bip 39 word 3: lock cage enjoy
+  * bip 39 word: lock cage enjoy pistol analyst motion session goose force foot sorry abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lock |  
+| bip_39_word_new_br10 | lock<br>cage<br>enjoy<br>pistol<br>analyst<br>motion<br>session<br>goose<br>force<br>foot |  
+| bip_39_word_new_br11 | lock<br>cage<br>enjoy<br>pistol<br>analyst<br>motion<br>session<br>goose<br>force<br>foot<br>sorry |  
+| bip_39_word_new_br12 | lock<br>cage<br>enjoy<br>pistol<br>analyst<br>motion<br>session<br>goose<br>force<br>foot<br>sorry<br>abuse |  
+| bip_39_word_new_br2 | lock<br>cage |  
+| bip_39_word_new_br3 | lock<br>cage<br>enjoy |  
+| bip_39_word_new_br4 | lock<br>cage<br>enjoy<br>pistol |  
+| bip_39_word_new_br5 | lock<br>cage<br>enjoy<br>pistol<br>analyst |  
+| bip_39_word_new_br6 | lock<br>cage<br>enjoy<br>pistol<br>analyst<br>motion |  
+| bip_39_word_new_br7 | lock<br>cage<br>enjoy<br>pistol<br>analyst<br>motion<br>session |  
+| bip_39_word_new_br8 | lock<br>cage<br>enjoy<br>pistol<br>analyst<br>motion<br>session<br>goose |  
+| bip_39_word_new_br9 | lock<br>cage<br>enjoy<br>pistol<br>analyst<br>motion<br>session<br>goose<br>force |  
+| bip_39_word_new_line1 | lock |  
+| bip_39_word_new_line10 | lock
+cage
+enjoy
+pistol
+analyst
+motion
+session
+goose
+force
+foot |  
+| bip_39_word_new_line11 | lock
+cage
+enjoy
+pistol
+analyst
+motion
+session
+goose
+force
+foot
+sorry |  
+| bip_39_word_new_line12 | lock
+cage
+enjoy
+pistol
+analyst
+motion
+session
+goose
+force
+foot
+sorry
+abuse |  
+| bip_39_word_new_line2 | lock
+cage |  
+| bip_39_word_new_line3 | lock
+cage
+enjoy |  
+| bip_39_word_new_line4 | lock
+cage
+enjoy
+pistol |  
+| bip_39_word_new_line5 | lock
+cage
+enjoy
+pistol
+analyst |  
+| bip_39_word_new_line6 | lock
+cage
+enjoy
+pistol
+analyst
+motion |  
+| bip_39_word_new_line7 | lock
+cage
+enjoy
+pistol
+analyst
+motion
+session |  
+| bip_39_word_new_line8 | lock
+cage
+enjoy
+pistol
+analyst
+motion
+session
+goose |  
+| bip_39_word_new_line9 | lock
+cage
+enjoy
+pistol
+analyst
+motion
+session
+goose
+force |  
+| bip_39_word_space_0 | ['lock', 'cage', 'enjoy', 'pistol', 'analyst', 'motion', 'session', 'goose', 'force', 'foot', 'sorry', 'abuse'] |  
+| bip_39_word_space_1 | lock |  
+| bip_39_word_space_10 | lock cage enjoy pistol analyst motion session goose force foot |  
+| bip_39_word_space_11 | lock cage enjoy pistol analyst motion session goose force foot sorry |  
+| bip_39_word_space_12 | lock cage enjoy pistol analyst motion session goose force foot sorry abuse |  
+| bip_39_word_space_2 | lock cage |  
+| bip_39_word_space_3 | lock cage enjoy |  
+| bip_39_word_space_4 | lock cage enjoy pistol |  
+| bip_39_word_space_5 | lock cage enjoy pistol analyst |  
+| bip_39_word_space_6 | lock cage enjoy pistol analyst motion |  
+| bip_39_word_space_7 | lock cage enjoy pistol analyst motion session |  
+| bip_39_word_space_8 | lock cage enjoy pistol analyst motion session goose |  
+| bip_39_word_space_9 | lock cage enjoy pistol analyst motion session goose force |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

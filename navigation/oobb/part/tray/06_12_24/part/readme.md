@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soft verb
+  * bip 39 word 3: soft verb swap
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soft |  
+| bip_39_word_new_br10 | soft<br>verb<br>swap<br>monkey<br>sea<br>bounce<br>moon<br>oxygen<br>motion<br>drink |  
+| bip_39_word_new_br11 | soft<br>verb<br>swap<br>monkey<br>sea<br>bounce<br>moon<br>oxygen<br>motion<br>drink<br>road |  
+| bip_39_word_new_br2 | soft<br>verb |  
+| bip_39_word_new_br3 | soft<br>verb<br>swap |  
+| bip_39_word_new_br4 | soft<br>verb<br>swap<br>monkey |  
+| bip_39_word_new_br5 | soft<br>verb<br>swap<br>monkey<br>sea |  
+| bip_39_word_new_br6 | soft<br>verb<br>swap<br>monkey<br>sea<br>bounce |  
+| bip_39_word_new_br7 | soft<br>verb<br>swap<br>monkey<br>sea<br>bounce<br>moon |  
+| bip_39_word_new_br8 | soft<br>verb<br>swap<br>monkey<br>sea<br>bounce<br>moon<br>oxygen |  
+| bip_39_word_new_br9 | soft<br>verb<br>swap<br>monkey<br>sea<br>bounce<br>moon<br>oxygen<br>motion |  
+| bip_39_word_new_line1 | soft |  
+| bip_39_word_new_line10 | soft
+verb
+swap
+monkey
+sea
+bounce
+moon
+oxygen
+motion
+drink |  
+| bip_39_word_new_line11 | soft
+verb
+swap
+monkey
+sea
+bounce
+moon
+oxygen
+motion
+drink
+road |  
+| bip_39_word_new_line2 | soft
+verb |  
+| bip_39_word_new_line3 | soft
+verb
+swap |  
+| bip_39_word_new_line4 | soft
+verb
+swap
+monkey |  
+| bip_39_word_new_line5 | soft
+verb
+swap
+monkey
+sea |  
+| bip_39_word_new_line6 | soft
+verb
+swap
+monkey
+sea
+bounce |  
+| bip_39_word_new_line7 | soft
+verb
+swap
+monkey
+sea
+bounce
+moon |  
+| bip_39_word_new_line8 | soft
+verb
+swap
+monkey
+sea
+bounce
+moon
+oxygen |  
+| bip_39_word_new_line9 | soft
+verb
+swap
+monkey
+sea
+bounce
+moon
+oxygen
+motion |  
+| bip_39_word_space_0 | ['soft', 'verb', 'swap', 'monkey', 'sea', 'bounce', 'moon', 'oxygen', 'motion', 'drink', 'road'] |  
+| bip_39_word_space_1 | soft |  
+| bip_39_word_space_10 | soft verb swap monkey sea bounce moon oxygen motion drink |  
+| bip_39_word_space_11 | soft verb swap monkey sea bounce moon oxygen motion drink road |  
+| bip_39_word_space_2 | soft verb |  
+| bip_39_word_space_3 | soft verb swap |  
+| bip_39_word_space_4 | soft verb swap monkey |  
+| bip_39_word_space_5 | soft verb swap monkey sea |  
+| bip_39_word_space_6 | soft verb swap monkey sea bounce |  
+| bip_39_word_space_7 | soft verb swap monkey sea bounce moon |  
+| bip_39_word_space_8 | soft verb swap monkey sea bounce moon oxygen |  
+| bip_39_word_space_9 | soft verb swap monkey sea bounce moon oxygen motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

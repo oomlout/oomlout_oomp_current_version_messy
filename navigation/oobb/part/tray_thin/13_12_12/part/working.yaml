@@ -1,3 +1,187 @@
+bip_39_word_new_br1: capital
+bip_39_word_new_br10: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple
+bip_39_word_new_br11: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword
+bip_39_word_new_br12: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword<br>army
+bip_39_word_new_br2: capital<br>tomorrow
+bip_39_word_new_br3: capital<br>tomorrow<br>inmate
+bip_39_word_new_br4: capital<br>tomorrow<br>inmate<br>another
+bip_39_word_new_br5: capital<br>tomorrow<br>inmate<br>another<br>crawl
+bip_39_word_new_br6: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real
+bip_39_word_new_br7: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital
+bip_39_word_new_br8: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary
+bip_39_word_new_br9: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue
+bip_39_word_new_line1: capital
+bip_39_word_new_line10: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary
+
+  fatigue
+
+  simple'
+bip_39_word_new_line11: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary
+
+  fatigue
+
+  simple
+
+  sword'
+bip_39_word_new_line12: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary
+
+  fatigue
+
+  simple
+
+  sword
+
+  army'
+bip_39_word_new_line2: 'capital
+
+  tomorrow'
+bip_39_word_new_line3: 'capital
+
+  tomorrow
+
+  inmate'
+bip_39_word_new_line4: 'capital
+
+  tomorrow
+
+  inmate
+
+  another'
+bip_39_word_new_line5: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl'
+bip_39_word_new_line6: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real'
+bip_39_word_new_line7: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital'
+bip_39_word_new_line8: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary'
+bip_39_word_new_line9: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary
+
+  fatigue'
+bip_39_word_space_0:
+- capital
+- tomorrow
+- inmate
+- another
+- crawl
+- real
+- hospital
+- primary
+- fatigue
+- simple
+- sword
+- army
+bip_39_word_space_1: capital
+bip_39_word_space_10: capital tomorrow inmate another crawl real hospital primary
+  fatigue simple
+bip_39_word_space_11: capital tomorrow inmate another crawl real hospital primary
+  fatigue simple sword
+bip_39_word_space_12: capital tomorrow inmate another crawl real hospital primary
+  fatigue simple sword army
+bip_39_word_space_2: capital tomorrow
+bip_39_word_space_3: capital tomorrow inmate
+bip_39_word_space_4: capital tomorrow inmate another
+bip_39_word_space_5: capital tomorrow inmate another crawl
+bip_39_word_space_6: capital tomorrow inmate another crawl real
+bip_39_word_space_7: capital tomorrow inmate another crawl real hospital
+bip_39_word_space_8: capital tomorrow inmate another crawl real hospital primary
+bip_39_word_space_9: capital tomorrow inmate another crawl real hospital primary fatigue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

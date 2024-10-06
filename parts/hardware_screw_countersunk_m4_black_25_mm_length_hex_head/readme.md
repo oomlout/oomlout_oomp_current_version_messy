@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: poem maze
+  * bip 39 word 3: poem maze indoor
+  * bip 39 word: poem maze indoor novel label dizzy print glide wheel try mosquito artefact
 
 ### other_codes
 * short_code: cs4b25h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | poem |  
+| bip_39_word_new_br10 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try |  
+| bip_39_word_new_br11 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try<br>mosquito |  
+| bip_39_word_new_br12 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try<br>mosquito<br>artefact |  
+| bip_39_word_new_br2 | poem<br>maze |  
+| bip_39_word_new_br3 | poem<br>maze<br>indoor |  
+| bip_39_word_new_br4 | poem<br>maze<br>indoor<br>novel |  
+| bip_39_word_new_br5 | poem<br>maze<br>indoor<br>novel<br>label |  
+| bip_39_word_new_br6 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy |  
+| bip_39_word_new_br7 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print |  
+| bip_39_word_new_br8 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide |  
+| bip_39_word_new_br9 | poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel |  
+| bip_39_word_new_line1 | poem |  
+| bip_39_word_new_line10 | poem
+maze
+indoor
+novel
+label
+dizzy
+print
+glide
+wheel
+try |  
+| bip_39_word_new_line11 | poem
+maze
+indoor
+novel
+label
+dizzy
+print
+glide
+wheel
+try
+mosquito |  
+| bip_39_word_new_line12 | poem
+maze
+indoor
+novel
+label
+dizzy
+print
+glide
+wheel
+try
+mosquito
+artefact |  
+| bip_39_word_new_line2 | poem
+maze |  
+| bip_39_word_new_line3 | poem
+maze
+indoor |  
+| bip_39_word_new_line4 | poem
+maze
+indoor
+novel |  
+| bip_39_word_new_line5 | poem
+maze
+indoor
+novel
+label |  
+| bip_39_word_new_line6 | poem
+maze
+indoor
+novel
+label
+dizzy |  
+| bip_39_word_new_line7 | poem
+maze
+indoor
+novel
+label
+dizzy
+print |  
+| bip_39_word_new_line8 | poem
+maze
+indoor
+novel
+label
+dizzy
+print
+glide |  
+| bip_39_word_new_line9 | poem
+maze
+indoor
+novel
+label
+dizzy
+print
+glide
+wheel |  
+| bip_39_word_space_0 | ['poem', 'maze', 'indoor', 'novel', 'label', 'dizzy', 'print', 'glide', 'wheel', 'try', 'mosquito', 'artefact'] |  
+| bip_39_word_space_1 | poem |  
+| bip_39_word_space_10 | poem maze indoor novel label dizzy print glide wheel try |  
+| bip_39_word_space_11 | poem maze indoor novel label dizzy print glide wheel try mosquito |  
+| bip_39_word_space_12 | poem maze indoor novel label dizzy print glide wheel try mosquito artefact |  
+| bip_39_word_space_2 | poem maze |  
+| bip_39_word_space_3 | poem maze indoor |  
+| bip_39_word_space_4 | poem maze indoor novel |  
+| bip_39_word_space_5 | poem maze indoor novel label |  
+| bip_39_word_space_6 | poem maze indoor novel label dizzy |  
+| bip_39_word_space_7 | poem maze indoor novel label dizzy print |  
+| bip_39_word_space_8 | poem maze indoor novel label dizzy print glide |  
+| bip_39_word_space_9 | poem maze indoor novel label dizzy print glide wheel |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

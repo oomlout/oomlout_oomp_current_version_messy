@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: oobb_screw_self_tapping
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skill veteran
+  * bip 39 word 3: skill veteran oppose
+  * bip 39 word: skill veteran oppose frost cat pretty crazy earn wash glare scale acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skill |  
+| bip_39_word_new_br10 | skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash<br>glare |  
+| bip_39_word_new_br11 | skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash<br>glare<br>scale |  
+| bip_39_word_new_br12 | skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash<br>glare<br>scale<br>acid |  
+| bip_39_word_new_br2 | skill<br>veteran |  
+| bip_39_word_new_br3 | skill<br>veteran<br>oppose |  
+| bip_39_word_new_br4 | skill<br>veteran<br>oppose<br>frost |  
+| bip_39_word_new_br5 | skill<br>veteran<br>oppose<br>frost<br>cat |  
+| bip_39_word_new_br6 | skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty |  
+| bip_39_word_new_br7 | skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy |  
+| bip_39_word_new_br8 | skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn |  
+| bip_39_word_new_br9 | skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash |  
+| bip_39_word_new_line1 | skill |  
+| bip_39_word_new_line10 | skill
+veteran
+oppose
+frost
+cat
+pretty
+crazy
+earn
+wash
+glare |  
+| bip_39_word_new_line11 | skill
+veteran
+oppose
+frost
+cat
+pretty
+crazy
+earn
+wash
+glare
+scale |  
+| bip_39_word_new_line12 | skill
+veteran
+oppose
+frost
+cat
+pretty
+crazy
+earn
+wash
+glare
+scale
+acid |  
+| bip_39_word_new_line2 | skill
+veteran |  
+| bip_39_word_new_line3 | skill
+veteran
+oppose |  
+| bip_39_word_new_line4 | skill
+veteran
+oppose
+frost |  
+| bip_39_word_new_line5 | skill
+veteran
+oppose
+frost
+cat |  
+| bip_39_word_new_line6 | skill
+veteran
+oppose
+frost
+cat
+pretty |  
+| bip_39_word_new_line7 | skill
+veteran
+oppose
+frost
+cat
+pretty
+crazy |  
+| bip_39_word_new_line8 | skill
+veteran
+oppose
+frost
+cat
+pretty
+crazy
+earn |  
+| bip_39_word_new_line9 | skill
+veteran
+oppose
+frost
+cat
+pretty
+crazy
+earn
+wash |  
+| bip_39_word_space_0 | ['skill', 'veteran', 'oppose', 'frost', 'cat', 'pretty', 'crazy', 'earn', 'wash', 'glare', 'scale', 'acid'] |  
+| bip_39_word_space_1 | skill |  
+| bip_39_word_space_10 | skill veteran oppose frost cat pretty crazy earn wash glare |  
+| bip_39_word_space_11 | skill veteran oppose frost cat pretty crazy earn wash glare scale |  
+| bip_39_word_space_12 | skill veteran oppose frost cat pretty crazy earn wash glare scale acid |  
+| bip_39_word_space_2 | skill veteran |  
+| bip_39_word_space_3 | skill veteran oppose |  
+| bip_39_word_space_4 | skill veteran oppose frost |  
+| bip_39_word_space_5 | skill veteran oppose frost cat |  
+| bip_39_word_space_6 | skill veteran oppose frost cat pretty |  
+| bip_39_word_space_7 | skill veteran oppose frost cat pretty crazy |  
+| bip_39_word_space_8 | skill veteran oppose frost cat pretty crazy earn |  
+| bip_39_word_space_9 | skill veteran oppose frost cat pretty crazy earn wash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: analyst try
+  * bip 39 word 3: analyst try muscle
+  * bip 39 word: analyst try muscle treat depart sadness online annual match mixed gloom accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | analyst |  
+| bip_39_word_new_br10 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness<br>online<br>annual<br>match<br>mixed |  
+| bip_39_word_new_br11 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness<br>online<br>annual<br>match<br>mixed<br>gloom |  
+| bip_39_word_new_br12 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness<br>online<br>annual<br>match<br>mixed<br>gloom<br>accuse |  
+| bip_39_word_new_br2 | analyst<br>try |  
+| bip_39_word_new_br3 | analyst<br>try<br>muscle |  
+| bip_39_word_new_br4 | analyst<br>try<br>muscle<br>treat |  
+| bip_39_word_new_br5 | analyst<br>try<br>muscle<br>treat<br>depart |  
+| bip_39_word_new_br6 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness |  
+| bip_39_word_new_br7 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness<br>online |  
+| bip_39_word_new_br8 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness<br>online<br>annual |  
+| bip_39_word_new_br9 | analyst<br>try<br>muscle<br>treat<br>depart<br>sadness<br>online<br>annual<br>match |  
+| bip_39_word_new_line1 | analyst |  
+| bip_39_word_new_line10 | analyst
+try
+muscle
+treat
+depart
+sadness
+online
+annual
+match
+mixed |  
+| bip_39_word_new_line11 | analyst
+try
+muscle
+treat
+depart
+sadness
+online
+annual
+match
+mixed
+gloom |  
+| bip_39_word_new_line12 | analyst
+try
+muscle
+treat
+depart
+sadness
+online
+annual
+match
+mixed
+gloom
+accuse |  
+| bip_39_word_new_line2 | analyst
+try |  
+| bip_39_word_new_line3 | analyst
+try
+muscle |  
+| bip_39_word_new_line4 | analyst
+try
+muscle
+treat |  
+| bip_39_word_new_line5 | analyst
+try
+muscle
+treat
+depart |  
+| bip_39_word_new_line6 | analyst
+try
+muscle
+treat
+depart
+sadness |  
+| bip_39_word_new_line7 | analyst
+try
+muscle
+treat
+depart
+sadness
+online |  
+| bip_39_word_new_line8 | analyst
+try
+muscle
+treat
+depart
+sadness
+online
+annual |  
+| bip_39_word_new_line9 | analyst
+try
+muscle
+treat
+depart
+sadness
+online
+annual
+match |  
+| bip_39_word_space_0 | ['analyst', 'try', 'muscle', 'treat', 'depart', 'sadness', 'online', 'annual', 'match', 'mixed', 'gloom', 'accuse'] |  
+| bip_39_word_space_1 | analyst |  
+| bip_39_word_space_10 | analyst try muscle treat depart sadness online annual match mixed |  
+| bip_39_word_space_11 | analyst try muscle treat depart sadness online annual match mixed gloom |  
+| bip_39_word_space_12 | analyst try muscle treat depart sadness online annual match mixed gloom accuse |  
+| bip_39_word_space_2 | analyst try |  
+| bip_39_word_space_3 | analyst try muscle |  
+| bip_39_word_space_4 | analyst try muscle treat |  
+| bip_39_word_space_5 | analyst try muscle treat depart |  
+| bip_39_word_space_6 | analyst try muscle treat depart sadness |  
+| bip_39_word_space_7 | analyst try muscle treat depart sadness online |  
+| bip_39_word_space_8 | analyst try muscle treat depart sadness online annual |  
+| bip_39_word_space_9 | analyst try muscle treat depart sadness online annual match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

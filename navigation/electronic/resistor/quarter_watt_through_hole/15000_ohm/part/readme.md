@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clap swear
+  * bip 39 word 3: clap swear demise
+  * bip 39 word: clap swear demise typical theory argue track kingdom hurdle flower subway accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clap |  
+| bip_39_word_new_br10 | clap<br>swear<br>demise<br>typical<br>theory<br>argue<br>track<br>kingdom<br>hurdle<br>flower |  
+| bip_39_word_new_br11 | clap<br>swear<br>demise<br>typical<br>theory<br>argue<br>track<br>kingdom<br>hurdle<br>flower<br>subway |  
+| bip_39_word_new_br12 | clap<br>swear<br>demise<br>typical<br>theory<br>argue<br>track<br>kingdom<br>hurdle<br>flower<br>subway<br>accident |  
+| bip_39_word_new_br2 | clap<br>swear |  
+| bip_39_word_new_br3 | clap<br>swear<br>demise |  
+| bip_39_word_new_br4 | clap<br>swear<br>demise<br>typical |  
+| bip_39_word_new_br5 | clap<br>swear<br>demise<br>typical<br>theory |  
+| bip_39_word_new_br6 | clap<br>swear<br>demise<br>typical<br>theory<br>argue |  
+| bip_39_word_new_br7 | clap<br>swear<br>demise<br>typical<br>theory<br>argue<br>track |  
+| bip_39_word_new_br8 | clap<br>swear<br>demise<br>typical<br>theory<br>argue<br>track<br>kingdom |  
+| bip_39_word_new_br9 | clap<br>swear<br>demise<br>typical<br>theory<br>argue<br>track<br>kingdom<br>hurdle |  
+| bip_39_word_new_line1 | clap |  
+| bip_39_word_new_line10 | clap
+swear
+demise
+typical
+theory
+argue
+track
+kingdom
+hurdle
+flower |  
+| bip_39_word_new_line11 | clap
+swear
+demise
+typical
+theory
+argue
+track
+kingdom
+hurdle
+flower
+subway |  
+| bip_39_word_new_line12 | clap
+swear
+demise
+typical
+theory
+argue
+track
+kingdom
+hurdle
+flower
+subway
+accident |  
+| bip_39_word_new_line2 | clap
+swear |  
+| bip_39_word_new_line3 | clap
+swear
+demise |  
+| bip_39_word_new_line4 | clap
+swear
+demise
+typical |  
+| bip_39_word_new_line5 | clap
+swear
+demise
+typical
+theory |  
+| bip_39_word_new_line6 | clap
+swear
+demise
+typical
+theory
+argue |  
+| bip_39_word_new_line7 | clap
+swear
+demise
+typical
+theory
+argue
+track |  
+| bip_39_word_new_line8 | clap
+swear
+demise
+typical
+theory
+argue
+track
+kingdom |  
+| bip_39_word_new_line9 | clap
+swear
+demise
+typical
+theory
+argue
+track
+kingdom
+hurdle |  
+| bip_39_word_space_0 | ['clap', 'swear', 'demise', 'typical', 'theory', 'argue', 'track', 'kingdom', 'hurdle', 'flower', 'subway', 'accident'] |  
+| bip_39_word_space_1 | clap |  
+| bip_39_word_space_10 | clap swear demise typical theory argue track kingdom hurdle flower |  
+| bip_39_word_space_11 | clap swear demise typical theory argue track kingdom hurdle flower subway |  
+| bip_39_word_space_12 | clap swear demise typical theory argue track kingdom hurdle flower subway accident |  
+| bip_39_word_space_2 | clap swear |  
+| bip_39_word_space_3 | clap swear demise |  
+| bip_39_word_space_4 | clap swear demise typical |  
+| bip_39_word_space_5 | clap swear demise typical theory |  
+| bip_39_word_space_6 | clap swear demise typical theory argue |  
+| bip_39_word_space_7 | clap swear demise typical theory argue track |  
+| bip_39_word_space_8 | clap swear demise typical theory argue track kingdom |  
+| bip_39_word_space_9 | clap swear demise typical theory argue track kingdom hurdle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

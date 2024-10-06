@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sick lottery
+  * bip 39 word 3: sick lottery spice
+  * bip 39 word: sick lottery spice skill know swear dove artist plug tank pen about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sick |  
+| bip_39_word_new_br10 | sick<br>lottery<br>spice<br>skill<br>know<br>swear<br>dove<br>artist<br>plug<br>tank |  
+| bip_39_word_new_br11 | sick<br>lottery<br>spice<br>skill<br>know<br>swear<br>dove<br>artist<br>plug<br>tank<br>pen |  
+| bip_39_word_new_br12 | sick<br>lottery<br>spice<br>skill<br>know<br>swear<br>dove<br>artist<br>plug<br>tank<br>pen<br>about |  
+| bip_39_word_new_br2 | sick<br>lottery |  
+| bip_39_word_new_br3 | sick<br>lottery<br>spice |  
+| bip_39_word_new_br4 | sick<br>lottery<br>spice<br>skill |  
+| bip_39_word_new_br5 | sick<br>lottery<br>spice<br>skill<br>know |  
+| bip_39_word_new_br6 | sick<br>lottery<br>spice<br>skill<br>know<br>swear |  
+| bip_39_word_new_br7 | sick<br>lottery<br>spice<br>skill<br>know<br>swear<br>dove |  
+| bip_39_word_new_br8 | sick<br>lottery<br>spice<br>skill<br>know<br>swear<br>dove<br>artist |  
+| bip_39_word_new_br9 | sick<br>lottery<br>spice<br>skill<br>know<br>swear<br>dove<br>artist<br>plug |  
+| bip_39_word_new_line1 | sick |  
+| bip_39_word_new_line10 | sick
+lottery
+spice
+skill
+know
+swear
+dove
+artist
+plug
+tank |  
+| bip_39_word_new_line11 | sick
+lottery
+spice
+skill
+know
+swear
+dove
+artist
+plug
+tank
+pen |  
+| bip_39_word_new_line12 | sick
+lottery
+spice
+skill
+know
+swear
+dove
+artist
+plug
+tank
+pen
+about |  
+| bip_39_word_new_line2 | sick
+lottery |  
+| bip_39_word_new_line3 | sick
+lottery
+spice |  
+| bip_39_word_new_line4 | sick
+lottery
+spice
+skill |  
+| bip_39_word_new_line5 | sick
+lottery
+spice
+skill
+know |  
+| bip_39_word_new_line6 | sick
+lottery
+spice
+skill
+know
+swear |  
+| bip_39_word_new_line7 | sick
+lottery
+spice
+skill
+know
+swear
+dove |  
+| bip_39_word_new_line8 | sick
+lottery
+spice
+skill
+know
+swear
+dove
+artist |  
+| bip_39_word_new_line9 | sick
+lottery
+spice
+skill
+know
+swear
+dove
+artist
+plug |  
+| bip_39_word_space_0 | ['sick', 'lottery', 'spice', 'skill', 'know', 'swear', 'dove', 'artist', 'plug', 'tank', 'pen', 'about'] |  
+| bip_39_word_space_1 | sick |  
+| bip_39_word_space_10 | sick lottery spice skill know swear dove artist plug tank |  
+| bip_39_word_space_11 | sick lottery spice skill know swear dove artist plug tank pen |  
+| bip_39_word_space_12 | sick lottery spice skill know swear dove artist plug tank pen about |  
+| bip_39_word_space_2 | sick lottery |  
+| bip_39_word_space_3 | sick lottery spice |  
+| bip_39_word_space_4 | sick lottery spice skill |  
+| bip_39_word_space_5 | sick lottery spice skill know |  
+| bip_39_word_space_6 | sick lottery spice skill know swear |  
+| bip_39_word_space_7 | sick lottery spice skill know swear dove |  
+| bip_39_word_space_8 | sick lottery spice skill know swear dove artist |  
+| bip_39_word_space_9 | sick lottery spice skill know swear dove artist plug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glimpse chaos
+  * bip 39 word 3: glimpse chaos tag
+  * bip 39 word: glimpse chaos tag visa amateur income episode lift spin more spawn acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glimpse |  
+| bip_39_word_new_br10 | glimpse<br>chaos<br>tag<br>visa<br>amateur<br>income<br>episode<br>lift<br>spin<br>more |  
+| bip_39_word_new_br11 | glimpse<br>chaos<br>tag<br>visa<br>amateur<br>income<br>episode<br>lift<br>spin<br>more<br>spawn |  
+| bip_39_word_new_br12 | glimpse<br>chaos<br>tag<br>visa<br>amateur<br>income<br>episode<br>lift<br>spin<br>more<br>spawn<br>acid |  
+| bip_39_word_new_br2 | glimpse<br>chaos |  
+| bip_39_word_new_br3 | glimpse<br>chaos<br>tag |  
+| bip_39_word_new_br4 | glimpse<br>chaos<br>tag<br>visa |  
+| bip_39_word_new_br5 | glimpse<br>chaos<br>tag<br>visa<br>amateur |  
+| bip_39_word_new_br6 | glimpse<br>chaos<br>tag<br>visa<br>amateur<br>income |  
+| bip_39_word_new_br7 | glimpse<br>chaos<br>tag<br>visa<br>amateur<br>income<br>episode |  
+| bip_39_word_new_br8 | glimpse<br>chaos<br>tag<br>visa<br>amateur<br>income<br>episode<br>lift |  
+| bip_39_word_new_br9 | glimpse<br>chaos<br>tag<br>visa<br>amateur<br>income<br>episode<br>lift<br>spin |  
+| bip_39_word_new_line1 | glimpse |  
+| bip_39_word_new_line10 | glimpse
+chaos
+tag
+visa
+amateur
+income
+episode
+lift
+spin
+more |  
+| bip_39_word_new_line11 | glimpse
+chaos
+tag
+visa
+amateur
+income
+episode
+lift
+spin
+more
+spawn |  
+| bip_39_word_new_line12 | glimpse
+chaos
+tag
+visa
+amateur
+income
+episode
+lift
+spin
+more
+spawn
+acid |  
+| bip_39_word_new_line2 | glimpse
+chaos |  
+| bip_39_word_new_line3 | glimpse
+chaos
+tag |  
+| bip_39_word_new_line4 | glimpse
+chaos
+tag
+visa |  
+| bip_39_word_new_line5 | glimpse
+chaos
+tag
+visa
+amateur |  
+| bip_39_word_new_line6 | glimpse
+chaos
+tag
+visa
+amateur
+income |  
+| bip_39_word_new_line7 | glimpse
+chaos
+tag
+visa
+amateur
+income
+episode |  
+| bip_39_word_new_line8 | glimpse
+chaos
+tag
+visa
+amateur
+income
+episode
+lift |  
+| bip_39_word_new_line9 | glimpse
+chaos
+tag
+visa
+amateur
+income
+episode
+lift
+spin |  
+| bip_39_word_space_0 | ['glimpse', 'chaos', 'tag', 'visa', 'amateur', 'income', 'episode', 'lift', 'spin', 'more', 'spawn', 'acid'] |  
+| bip_39_word_space_1 | glimpse |  
+| bip_39_word_space_10 | glimpse chaos tag visa amateur income episode lift spin more |  
+| bip_39_word_space_11 | glimpse chaos tag visa amateur income episode lift spin more spawn |  
+| bip_39_word_space_12 | glimpse chaos tag visa amateur income episode lift spin more spawn acid |  
+| bip_39_word_space_2 | glimpse chaos |  
+| bip_39_word_space_3 | glimpse chaos tag |  
+| bip_39_word_space_4 | glimpse chaos tag visa |  
+| bip_39_word_space_5 | glimpse chaos tag visa amateur |  
+| bip_39_word_space_6 | glimpse chaos tag visa amateur income |  
+| bip_39_word_space_7 | glimpse chaos tag visa amateur income episode |  
+| bip_39_word_space_8 | glimpse chaos tag visa amateur income episode lift |  
+| bip_39_word_space_9 | glimpse chaos tag visa amateur income episode lift spin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

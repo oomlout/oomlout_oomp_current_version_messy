@@ -1,3 +1,187 @@
+bip_39_word_new_br1: expect
+bip_39_word_new_br10: expect<br>like<br>board<br>jungle<br>someone<br>pink<br>december<br>liquid<br>cable<br>kick
+bip_39_word_new_br11: expect<br>like<br>board<br>jungle<br>someone<br>pink<br>december<br>liquid<br>cable<br>kick<br>sentence
+bip_39_word_new_br12: expect<br>like<br>board<br>jungle<br>someone<br>pink<br>december<br>liquid<br>cable<br>kick<br>sentence<br>aerobic
+bip_39_word_new_br2: expect<br>like
+bip_39_word_new_br3: expect<br>like<br>board
+bip_39_word_new_br4: expect<br>like<br>board<br>jungle
+bip_39_word_new_br5: expect<br>like<br>board<br>jungle<br>someone
+bip_39_word_new_br6: expect<br>like<br>board<br>jungle<br>someone<br>pink
+bip_39_word_new_br7: expect<br>like<br>board<br>jungle<br>someone<br>pink<br>december
+bip_39_word_new_br8: expect<br>like<br>board<br>jungle<br>someone<br>pink<br>december<br>liquid
+bip_39_word_new_br9: expect<br>like<br>board<br>jungle<br>someone<br>pink<br>december<br>liquid<br>cable
+bip_39_word_new_line1: expect
+bip_39_word_new_line10: 'expect
+
+  like
+
+  board
+
+  jungle
+
+  someone
+
+  pink
+
+  december
+
+  liquid
+
+  cable
+
+  kick'
+bip_39_word_new_line11: 'expect
+
+  like
+
+  board
+
+  jungle
+
+  someone
+
+  pink
+
+  december
+
+  liquid
+
+  cable
+
+  kick
+
+  sentence'
+bip_39_word_new_line12: 'expect
+
+  like
+
+  board
+
+  jungle
+
+  someone
+
+  pink
+
+  december
+
+  liquid
+
+  cable
+
+  kick
+
+  sentence
+
+  aerobic'
+bip_39_word_new_line2: 'expect
+
+  like'
+bip_39_word_new_line3: 'expect
+
+  like
+
+  board'
+bip_39_word_new_line4: 'expect
+
+  like
+
+  board
+
+  jungle'
+bip_39_word_new_line5: 'expect
+
+  like
+
+  board
+
+  jungle
+
+  someone'
+bip_39_word_new_line6: 'expect
+
+  like
+
+  board
+
+  jungle
+
+  someone
+
+  pink'
+bip_39_word_new_line7: 'expect
+
+  like
+
+  board
+
+  jungle
+
+  someone
+
+  pink
+
+  december'
+bip_39_word_new_line8: 'expect
+
+  like
+
+  board
+
+  jungle
+
+  someone
+
+  pink
+
+  december
+
+  liquid'
+bip_39_word_new_line9: 'expect
+
+  like
+
+  board
+
+  jungle
+
+  someone
+
+  pink
+
+  december
+
+  liquid
+
+  cable'
+bip_39_word_space_0:
+- expect
+- like
+- board
+- jungle
+- someone
+- pink
+- december
+- liquid
+- cable
+- kick
+- sentence
+- aerobic
+bip_39_word_space_1: expect
+bip_39_word_space_10: expect like board jungle someone pink december liquid cable
+  kick
+bip_39_word_space_11: expect like board jungle someone pink december liquid cable
+  kick sentence
+bip_39_word_space_12: expect like board jungle someone pink december liquid cable
+  kick sentence aerobic
+bip_39_word_space_2: expect like
+bip_39_word_space_3: expect like board
+bip_39_word_space_4: expect like board jungle
+bip_39_word_space_5: expect like board jungle someone
+bip_39_word_space_6: expect like board jungle someone pink
+bip_39_word_space_7: expect like board jungle someone pink december
+bip_39_word_space_8: expect like board jungle someone pink december liquid
+bip_39_word_space_9: expect like board jungle someone pink december liquid cable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

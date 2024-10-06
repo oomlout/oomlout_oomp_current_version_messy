@@ -1,3 +1,187 @@
+bip_39_word_new_br1: depart
+bip_39_word_new_br10: depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash
+bip_39_word_new_br11: depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash<br>favorite
+bip_39_word_new_br12: depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum<br>trash<br>favorite<br>art
+bip_39_word_new_br2: depart<br>drum
+bip_39_word_new_br3: depart<br>drum<br>cherry
+bip_39_word_new_br4: depart<br>drum<br>cherry<br>pledge
+bip_39_word_new_br5: depart<br>drum<br>cherry<br>pledge<br>ignore
+bip_39_word_new_br6: depart<br>drum<br>cherry<br>pledge<br>ignore<br>design
+bip_39_word_new_br7: depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon
+bip_39_word_new_br8: depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document
+bip_39_word_new_br9: depart<br>drum<br>cherry<br>pledge<br>ignore<br>design<br>weapon<br>document<br>minimum
+bip_39_word_new_line1: depart
+bip_39_word_new_line10: 'depart
+
+  drum
+
+  cherry
+
+  pledge
+
+  ignore
+
+  design
+
+  weapon
+
+  document
+
+  minimum
+
+  trash'
+bip_39_word_new_line11: 'depart
+
+  drum
+
+  cherry
+
+  pledge
+
+  ignore
+
+  design
+
+  weapon
+
+  document
+
+  minimum
+
+  trash
+
+  favorite'
+bip_39_word_new_line12: 'depart
+
+  drum
+
+  cherry
+
+  pledge
+
+  ignore
+
+  design
+
+  weapon
+
+  document
+
+  minimum
+
+  trash
+
+  favorite
+
+  art'
+bip_39_word_new_line2: 'depart
+
+  drum'
+bip_39_word_new_line3: 'depart
+
+  drum
+
+  cherry'
+bip_39_word_new_line4: 'depart
+
+  drum
+
+  cherry
+
+  pledge'
+bip_39_word_new_line5: 'depart
+
+  drum
+
+  cherry
+
+  pledge
+
+  ignore'
+bip_39_word_new_line6: 'depart
+
+  drum
+
+  cherry
+
+  pledge
+
+  ignore
+
+  design'
+bip_39_word_new_line7: 'depart
+
+  drum
+
+  cherry
+
+  pledge
+
+  ignore
+
+  design
+
+  weapon'
+bip_39_word_new_line8: 'depart
+
+  drum
+
+  cherry
+
+  pledge
+
+  ignore
+
+  design
+
+  weapon
+
+  document'
+bip_39_word_new_line9: 'depart
+
+  drum
+
+  cherry
+
+  pledge
+
+  ignore
+
+  design
+
+  weapon
+
+  document
+
+  minimum'
+bip_39_word_space_0:
+- depart
+- drum
+- cherry
+- pledge
+- ignore
+- design
+- weapon
+- document
+- minimum
+- trash
+- favorite
+- art
+bip_39_word_space_1: depart
+bip_39_word_space_10: depart drum cherry pledge ignore design weapon document minimum
+  trash
+bip_39_word_space_11: depart drum cherry pledge ignore design weapon document minimum
+  trash favorite
+bip_39_word_space_12: depart drum cherry pledge ignore design weapon document minimum
+  trash favorite art
+bip_39_word_space_2: depart drum
+bip_39_word_space_3: depart drum cherry
+bip_39_word_space_4: depart drum cherry pledge
+bip_39_word_space_5: depart drum cherry pledge ignore
+bip_39_word_space_6: depart drum cherry pledge ignore design
+bip_39_word_space_7: depart drum cherry pledge ignore design weapon
+bip_39_word_space_8: depart drum cherry pledge ignore design weapon document
+bip_39_word_space_9: depart drum cherry pledge ignore design weapon document minimum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

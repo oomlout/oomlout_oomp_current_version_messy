@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exercise stable
+  * bip 39 word 3: exercise stable story
+  * bip 39 word: exercise stable story wing family dawn thrive secret discover warfare hat alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exercise |  
+| bip_39_word_new_br10 | exercise<br>stable<br>story<br>wing<br>family<br>dawn<br>thrive<br>secret<br>discover<br>warfare |  
+| bip_39_word_new_br11 | exercise<br>stable<br>story<br>wing<br>family<br>dawn<br>thrive<br>secret<br>discover<br>warfare<br>hat |  
+| bip_39_word_new_br12 | exercise<br>stable<br>story<br>wing<br>family<br>dawn<br>thrive<br>secret<br>discover<br>warfare<br>hat<br>alarm |  
+| bip_39_word_new_br2 | exercise<br>stable |  
+| bip_39_word_new_br3 | exercise<br>stable<br>story |  
+| bip_39_word_new_br4 | exercise<br>stable<br>story<br>wing |  
+| bip_39_word_new_br5 | exercise<br>stable<br>story<br>wing<br>family |  
+| bip_39_word_new_br6 | exercise<br>stable<br>story<br>wing<br>family<br>dawn |  
+| bip_39_word_new_br7 | exercise<br>stable<br>story<br>wing<br>family<br>dawn<br>thrive |  
+| bip_39_word_new_br8 | exercise<br>stable<br>story<br>wing<br>family<br>dawn<br>thrive<br>secret |  
+| bip_39_word_new_br9 | exercise<br>stable<br>story<br>wing<br>family<br>dawn<br>thrive<br>secret<br>discover |  
+| bip_39_word_new_line1 | exercise |  
+| bip_39_word_new_line10 | exercise
+stable
+story
+wing
+family
+dawn
+thrive
+secret
+discover
+warfare |  
+| bip_39_word_new_line11 | exercise
+stable
+story
+wing
+family
+dawn
+thrive
+secret
+discover
+warfare
+hat |  
+| bip_39_word_new_line12 | exercise
+stable
+story
+wing
+family
+dawn
+thrive
+secret
+discover
+warfare
+hat
+alarm |  
+| bip_39_word_new_line2 | exercise
+stable |  
+| bip_39_word_new_line3 | exercise
+stable
+story |  
+| bip_39_word_new_line4 | exercise
+stable
+story
+wing |  
+| bip_39_word_new_line5 | exercise
+stable
+story
+wing
+family |  
+| bip_39_word_new_line6 | exercise
+stable
+story
+wing
+family
+dawn |  
+| bip_39_word_new_line7 | exercise
+stable
+story
+wing
+family
+dawn
+thrive |  
+| bip_39_word_new_line8 | exercise
+stable
+story
+wing
+family
+dawn
+thrive
+secret |  
+| bip_39_word_new_line9 | exercise
+stable
+story
+wing
+family
+dawn
+thrive
+secret
+discover |  
+| bip_39_word_space_0 | ['exercise', 'stable', 'story', 'wing', 'family', 'dawn', 'thrive', 'secret', 'discover', 'warfare', 'hat', 'alarm'] |  
+| bip_39_word_space_1 | exercise |  
+| bip_39_word_space_10 | exercise stable story wing family dawn thrive secret discover warfare |  
+| bip_39_word_space_11 | exercise stable story wing family dawn thrive secret discover warfare hat |  
+| bip_39_word_space_12 | exercise stable story wing family dawn thrive secret discover warfare hat alarm |  
+| bip_39_word_space_2 | exercise stable |  
+| bip_39_word_space_3 | exercise stable story |  
+| bip_39_word_space_4 | exercise stable story wing |  
+| bip_39_word_space_5 | exercise stable story wing family |  
+| bip_39_word_space_6 | exercise stable story wing family dawn |  
+| bip_39_word_space_7 | exercise stable story wing family dawn thrive |  
+| bip_39_word_space_8 | exercise stable story wing family dawn thrive secret |  
+| bip_39_word_space_9 | exercise stable story wing family dawn thrive secret discover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

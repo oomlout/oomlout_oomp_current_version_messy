@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: satisfy collect
+  * bip 39 word 3: satisfy collect curve
+  * bip 39 word: satisfy collect curve census dust sail crater learn consider aisle life above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | satisfy |  
+| bip_39_word_new_br10 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail<br>crater<br>learn<br>consider<br>aisle |  
+| bip_39_word_new_br11 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail<br>crater<br>learn<br>consider<br>aisle<br>life |  
+| bip_39_word_new_br12 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail<br>crater<br>learn<br>consider<br>aisle<br>life<br>above |  
+| bip_39_word_new_br2 | satisfy<br>collect |  
+| bip_39_word_new_br3 | satisfy<br>collect<br>curve |  
+| bip_39_word_new_br4 | satisfy<br>collect<br>curve<br>census |  
+| bip_39_word_new_br5 | satisfy<br>collect<br>curve<br>census<br>dust |  
+| bip_39_word_new_br6 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail |  
+| bip_39_word_new_br7 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail<br>crater |  
+| bip_39_word_new_br8 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail<br>crater<br>learn |  
+| bip_39_word_new_br9 | satisfy<br>collect<br>curve<br>census<br>dust<br>sail<br>crater<br>learn<br>consider |  
+| bip_39_word_new_line1 | satisfy |  
+| bip_39_word_new_line10 | satisfy
+collect
+curve
+census
+dust
+sail
+crater
+learn
+consider
+aisle |  
+| bip_39_word_new_line11 | satisfy
+collect
+curve
+census
+dust
+sail
+crater
+learn
+consider
+aisle
+life |  
+| bip_39_word_new_line12 | satisfy
+collect
+curve
+census
+dust
+sail
+crater
+learn
+consider
+aisle
+life
+above |  
+| bip_39_word_new_line2 | satisfy
+collect |  
+| bip_39_word_new_line3 | satisfy
+collect
+curve |  
+| bip_39_word_new_line4 | satisfy
+collect
+curve
+census |  
+| bip_39_word_new_line5 | satisfy
+collect
+curve
+census
+dust |  
+| bip_39_word_new_line6 | satisfy
+collect
+curve
+census
+dust
+sail |  
+| bip_39_word_new_line7 | satisfy
+collect
+curve
+census
+dust
+sail
+crater |  
+| bip_39_word_new_line8 | satisfy
+collect
+curve
+census
+dust
+sail
+crater
+learn |  
+| bip_39_word_new_line9 | satisfy
+collect
+curve
+census
+dust
+sail
+crater
+learn
+consider |  
+| bip_39_word_space_0 | ['satisfy', 'collect', 'curve', 'census', 'dust', 'sail', 'crater', 'learn', 'consider', 'aisle', 'life', 'above'] |  
+| bip_39_word_space_1 | satisfy |  
+| bip_39_word_space_10 | satisfy collect curve census dust sail crater learn consider aisle |  
+| bip_39_word_space_11 | satisfy collect curve census dust sail crater learn consider aisle life |  
+| bip_39_word_space_12 | satisfy collect curve census dust sail crater learn consider aisle life above |  
+| bip_39_word_space_2 | satisfy collect |  
+| bip_39_word_space_3 | satisfy collect curve |  
+| bip_39_word_space_4 | satisfy collect curve census |  
+| bip_39_word_space_5 | satisfy collect curve census dust |  
+| bip_39_word_space_6 | satisfy collect curve census dust sail |  
+| bip_39_word_space_7 | satisfy collect curve census dust sail crater |  
+| bip_39_word_space_8 | satisfy collect curve census dust sail crater learn |  
+| bip_39_word_space_9 | satisfy collect curve census dust sail crater learn consider |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

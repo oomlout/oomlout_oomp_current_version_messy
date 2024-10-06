@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 400_mm_width_1060_mm_height_280_mm_depth
   * manufacturer: ikea
   * part_number: 802_638_32
+  * bip 39 word 2: hold rose
+  * bip 39 word 3: hold rose cattle
+  * bip 39 word: hold rose cattle garden raven labor canyon tenant memory agree like amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hold |  
+| bip_39_word_new_br10 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor<br>canyon<br>tenant<br>memory<br>agree |  
+| bip_39_word_new_br11 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor<br>canyon<br>tenant<br>memory<br>agree<br>like |  
+| bip_39_word_new_br12 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor<br>canyon<br>tenant<br>memory<br>agree<br>like<br>amateur |  
+| bip_39_word_new_br2 | hold<br>rose |  
+| bip_39_word_new_br3 | hold<br>rose<br>cattle |  
+| bip_39_word_new_br4 | hold<br>rose<br>cattle<br>garden |  
+| bip_39_word_new_br5 | hold<br>rose<br>cattle<br>garden<br>raven |  
+| bip_39_word_new_br6 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor |  
+| bip_39_word_new_br7 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor<br>canyon |  
+| bip_39_word_new_br8 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor<br>canyon<br>tenant |  
+| bip_39_word_new_br9 | hold<br>rose<br>cattle<br>garden<br>raven<br>labor<br>canyon<br>tenant<br>memory |  
+| bip_39_word_new_line1 | hold |  
+| bip_39_word_new_line10 | hold
+rose
+cattle
+garden
+raven
+labor
+canyon
+tenant
+memory
+agree |  
+| bip_39_word_new_line11 | hold
+rose
+cattle
+garden
+raven
+labor
+canyon
+tenant
+memory
+agree
+like |  
+| bip_39_word_new_line12 | hold
+rose
+cattle
+garden
+raven
+labor
+canyon
+tenant
+memory
+agree
+like
+amateur |  
+| bip_39_word_new_line2 | hold
+rose |  
+| bip_39_word_new_line3 | hold
+rose
+cattle |  
+| bip_39_word_new_line4 | hold
+rose
+cattle
+garden |  
+| bip_39_word_new_line5 | hold
+rose
+cattle
+garden
+raven |  
+| bip_39_word_new_line6 | hold
+rose
+cattle
+garden
+raven
+labor |  
+| bip_39_word_new_line7 | hold
+rose
+cattle
+garden
+raven
+labor
+canyon |  
+| bip_39_word_new_line8 | hold
+rose
+cattle
+garden
+raven
+labor
+canyon
+tenant |  
+| bip_39_word_new_line9 | hold
+rose
+cattle
+garden
+raven
+labor
+canyon
+tenant
+memory |  
+| bip_39_word_space_0 | ['hold', 'rose', 'cattle', 'garden', 'raven', 'labor', 'canyon', 'tenant', 'memory', 'agree', 'like', 'amateur'] |  
+| bip_39_word_space_1 | hold |  
+| bip_39_word_space_10 | hold rose cattle garden raven labor canyon tenant memory agree |  
+| bip_39_word_space_11 | hold rose cattle garden raven labor canyon tenant memory agree like |  
+| bip_39_word_space_12 | hold rose cattle garden raven labor canyon tenant memory agree like amateur |  
+| bip_39_word_space_2 | hold rose |  
+| bip_39_word_space_3 | hold rose cattle |  
+| bip_39_word_space_4 | hold rose cattle garden |  
+| bip_39_word_space_5 | hold rose cattle garden raven |  
+| bip_39_word_space_6 | hold rose cattle garden raven labor |  
+| bip_39_word_space_7 | hold rose cattle garden raven labor canyon |  
+| bip_39_word_space_8 | hold rose cattle garden raven labor canyon tenant |  
+| bip_39_word_space_9 | hold rose cattle garden raven labor canyon tenant memory |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

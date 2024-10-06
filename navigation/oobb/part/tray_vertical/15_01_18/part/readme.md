@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gym egg
+  * bip 39 word 3: gym egg brand
+  * bip 39 word: gym egg brand joke art mutual robot transfer actress episode resource afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gym |  
+| bip_39_word_new_br10 | gym<br>egg<br>brand<br>joke<br>art<br>mutual<br>robot<br>transfer<br>actress<br>episode |  
+| bip_39_word_new_br11 | gym<br>egg<br>brand<br>joke<br>art<br>mutual<br>robot<br>transfer<br>actress<br>episode<br>resource |  
+| bip_39_word_new_br12 | gym<br>egg<br>brand<br>joke<br>art<br>mutual<br>robot<br>transfer<br>actress<br>episode<br>resource<br>afraid |  
+| bip_39_word_new_br2 | gym<br>egg |  
+| bip_39_word_new_br3 | gym<br>egg<br>brand |  
+| bip_39_word_new_br4 | gym<br>egg<br>brand<br>joke |  
+| bip_39_word_new_br5 | gym<br>egg<br>brand<br>joke<br>art |  
+| bip_39_word_new_br6 | gym<br>egg<br>brand<br>joke<br>art<br>mutual |  
+| bip_39_word_new_br7 | gym<br>egg<br>brand<br>joke<br>art<br>mutual<br>robot |  
+| bip_39_word_new_br8 | gym<br>egg<br>brand<br>joke<br>art<br>mutual<br>robot<br>transfer |  
+| bip_39_word_new_br9 | gym<br>egg<br>brand<br>joke<br>art<br>mutual<br>robot<br>transfer<br>actress |  
+| bip_39_word_new_line1 | gym |  
+| bip_39_word_new_line10 | gym
+egg
+brand
+joke
+art
+mutual
+robot
+transfer
+actress
+episode |  
+| bip_39_word_new_line11 | gym
+egg
+brand
+joke
+art
+mutual
+robot
+transfer
+actress
+episode
+resource |  
+| bip_39_word_new_line12 | gym
+egg
+brand
+joke
+art
+mutual
+robot
+transfer
+actress
+episode
+resource
+afraid |  
+| bip_39_word_new_line2 | gym
+egg |  
+| bip_39_word_new_line3 | gym
+egg
+brand |  
+| bip_39_word_new_line4 | gym
+egg
+brand
+joke |  
+| bip_39_word_new_line5 | gym
+egg
+brand
+joke
+art |  
+| bip_39_word_new_line6 | gym
+egg
+brand
+joke
+art
+mutual |  
+| bip_39_word_new_line7 | gym
+egg
+brand
+joke
+art
+mutual
+robot |  
+| bip_39_word_new_line8 | gym
+egg
+brand
+joke
+art
+mutual
+robot
+transfer |  
+| bip_39_word_new_line9 | gym
+egg
+brand
+joke
+art
+mutual
+robot
+transfer
+actress |  
+| bip_39_word_space_0 | ['gym', 'egg', 'brand', 'joke', 'art', 'mutual', 'robot', 'transfer', 'actress', 'episode', 'resource', 'afraid'] |  
+| bip_39_word_space_1 | gym |  
+| bip_39_word_space_10 | gym egg brand joke art mutual robot transfer actress episode |  
+| bip_39_word_space_11 | gym egg brand joke art mutual robot transfer actress episode resource |  
+| bip_39_word_space_12 | gym egg brand joke art mutual robot transfer actress episode resource afraid |  
+| bip_39_word_space_2 | gym egg |  
+| bip_39_word_space_3 | gym egg brand |  
+| bip_39_word_space_4 | gym egg brand joke |  
+| bip_39_word_space_5 | gym egg brand joke art |  
+| bip_39_word_space_6 | gym egg brand joke art mutual |  
+| bip_39_word_space_7 | gym egg brand joke art mutual robot |  
+| bip_39_word_space_8 | gym egg brand joke art mutual robot transfer |  
+| bip_39_word_space_9 | gym egg brand joke art mutual robot transfer actress |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

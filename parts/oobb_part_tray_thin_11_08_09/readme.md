@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unit candy
+  * bip 39 word 3: unit candy put
+  * bip 39 word: unit candy put wire dolphin egg enlist stove bargain mobile vast assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unit |  
+| bip_39_word_new_br10 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg<br>enlist<br>stove<br>bargain<br>mobile |  
+| bip_39_word_new_br11 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg<br>enlist<br>stove<br>bargain<br>mobile<br>vast |  
+| bip_39_word_new_br12 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg<br>enlist<br>stove<br>bargain<br>mobile<br>vast<br>assist |  
+| bip_39_word_new_br2 | unit<br>candy |  
+| bip_39_word_new_br3 | unit<br>candy<br>put |  
+| bip_39_word_new_br4 | unit<br>candy<br>put<br>wire |  
+| bip_39_word_new_br5 | unit<br>candy<br>put<br>wire<br>dolphin |  
+| bip_39_word_new_br6 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg |  
+| bip_39_word_new_br7 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg<br>enlist |  
+| bip_39_word_new_br8 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg<br>enlist<br>stove |  
+| bip_39_word_new_br9 | unit<br>candy<br>put<br>wire<br>dolphin<br>egg<br>enlist<br>stove<br>bargain |  
+| bip_39_word_new_line1 | unit |  
+| bip_39_word_new_line10 | unit
+candy
+put
+wire
+dolphin
+egg
+enlist
+stove
+bargain
+mobile |  
+| bip_39_word_new_line11 | unit
+candy
+put
+wire
+dolphin
+egg
+enlist
+stove
+bargain
+mobile
+vast |  
+| bip_39_word_new_line12 | unit
+candy
+put
+wire
+dolphin
+egg
+enlist
+stove
+bargain
+mobile
+vast
+assist |  
+| bip_39_word_new_line2 | unit
+candy |  
+| bip_39_word_new_line3 | unit
+candy
+put |  
+| bip_39_word_new_line4 | unit
+candy
+put
+wire |  
+| bip_39_word_new_line5 | unit
+candy
+put
+wire
+dolphin |  
+| bip_39_word_new_line6 | unit
+candy
+put
+wire
+dolphin
+egg |  
+| bip_39_word_new_line7 | unit
+candy
+put
+wire
+dolphin
+egg
+enlist |  
+| bip_39_word_new_line8 | unit
+candy
+put
+wire
+dolphin
+egg
+enlist
+stove |  
+| bip_39_word_new_line9 | unit
+candy
+put
+wire
+dolphin
+egg
+enlist
+stove
+bargain |  
+| bip_39_word_space_0 | ['unit', 'candy', 'put', 'wire', 'dolphin', 'egg', 'enlist', 'stove', 'bargain', 'mobile', 'vast', 'assist'] |  
+| bip_39_word_space_1 | unit |  
+| bip_39_word_space_10 | unit candy put wire dolphin egg enlist stove bargain mobile |  
+| bip_39_word_space_11 | unit candy put wire dolphin egg enlist stove bargain mobile vast |  
+| bip_39_word_space_12 | unit candy put wire dolphin egg enlist stove bargain mobile vast assist |  
+| bip_39_word_space_2 | unit candy |  
+| bip_39_word_space_3 | unit candy put |  
+| bip_39_word_space_4 | unit candy put wire |  
+| bip_39_word_space_5 | unit candy put wire dolphin |  
+| bip_39_word_space_6 | unit candy put wire dolphin egg |  
+| bip_39_word_space_7 | unit candy put wire dolphin egg enlist |  
+| bip_39_word_space_8 | unit candy put wire dolphin egg enlist stove |  
+| bip_39_word_space_9 | unit candy put wire dolphin egg enlist stove bargain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

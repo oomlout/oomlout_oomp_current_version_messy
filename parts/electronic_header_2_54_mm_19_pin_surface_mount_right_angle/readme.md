@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pluck second
+  * bip 39 word 3: pluck second virtual
+  * bip 39 word: pluck second virtual bulk stock cigar gravity online silver heart crucial addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pluck |  
+| bip_39_word_new_br10 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar<br>gravity<br>online<br>silver<br>heart |  
+| bip_39_word_new_br11 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar<br>gravity<br>online<br>silver<br>heart<br>crucial |  
+| bip_39_word_new_br12 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar<br>gravity<br>online<br>silver<br>heart<br>crucial<br>addict |  
+| bip_39_word_new_br2 | pluck<br>second |  
+| bip_39_word_new_br3 | pluck<br>second<br>virtual |  
+| bip_39_word_new_br4 | pluck<br>second<br>virtual<br>bulk |  
+| bip_39_word_new_br5 | pluck<br>second<br>virtual<br>bulk<br>stock |  
+| bip_39_word_new_br6 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar |  
+| bip_39_word_new_br7 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar<br>gravity |  
+| bip_39_word_new_br8 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar<br>gravity<br>online |  
+| bip_39_word_new_br9 | pluck<br>second<br>virtual<br>bulk<br>stock<br>cigar<br>gravity<br>online<br>silver |  
+| bip_39_word_new_line1 | pluck |  
+| bip_39_word_new_line10 | pluck
+second
+virtual
+bulk
+stock
+cigar
+gravity
+online
+silver
+heart |  
+| bip_39_word_new_line11 | pluck
+second
+virtual
+bulk
+stock
+cigar
+gravity
+online
+silver
+heart
+crucial |  
+| bip_39_word_new_line12 | pluck
+second
+virtual
+bulk
+stock
+cigar
+gravity
+online
+silver
+heart
+crucial
+addict |  
+| bip_39_word_new_line2 | pluck
+second |  
+| bip_39_word_new_line3 | pluck
+second
+virtual |  
+| bip_39_word_new_line4 | pluck
+second
+virtual
+bulk |  
+| bip_39_word_new_line5 | pluck
+second
+virtual
+bulk
+stock |  
+| bip_39_word_new_line6 | pluck
+second
+virtual
+bulk
+stock
+cigar |  
+| bip_39_word_new_line7 | pluck
+second
+virtual
+bulk
+stock
+cigar
+gravity |  
+| bip_39_word_new_line8 | pluck
+second
+virtual
+bulk
+stock
+cigar
+gravity
+online |  
+| bip_39_word_new_line9 | pluck
+second
+virtual
+bulk
+stock
+cigar
+gravity
+online
+silver |  
+| bip_39_word_space_0 | ['pluck', 'second', 'virtual', 'bulk', 'stock', 'cigar', 'gravity', 'online', 'silver', 'heart', 'crucial', 'addict'] |  
+| bip_39_word_space_1 | pluck |  
+| bip_39_word_space_10 | pluck second virtual bulk stock cigar gravity online silver heart |  
+| bip_39_word_space_11 | pluck second virtual bulk stock cigar gravity online silver heart crucial |  
+| bip_39_word_space_12 | pluck second virtual bulk stock cigar gravity online silver heart crucial addict |  
+| bip_39_word_space_2 | pluck second |  
+| bip_39_word_space_3 | pluck second virtual |  
+| bip_39_word_space_4 | pluck second virtual bulk |  
+| bip_39_word_space_5 | pluck second virtual bulk stock |  
+| bip_39_word_space_6 | pluck second virtual bulk stock cigar |  
+| bip_39_word_space_7 | pluck second virtual bulk stock cigar gravity |  
+| bip_39_word_space_8 | pluck second virtual bulk stock cigar gravity online |  
+| bip_39_word_space_9 | pluck second virtual bulk stock cigar gravity online silver |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

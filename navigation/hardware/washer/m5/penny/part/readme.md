@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stamp deny
+  * bip 39 word 3: stamp deny rookie
+  * bip 39 word: stamp deny rookie unusual scrub narrow fan spike receive laugh column acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stamp |  
+| bip_39_word_new_br10 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow<br>fan<br>spike<br>receive<br>laugh |  
+| bip_39_word_new_br11 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow<br>fan<br>spike<br>receive<br>laugh<br>column |  
+| bip_39_word_new_br12 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow<br>fan<br>spike<br>receive<br>laugh<br>column<br>acoustic |  
+| bip_39_word_new_br2 | stamp<br>deny |  
+| bip_39_word_new_br3 | stamp<br>deny<br>rookie |  
+| bip_39_word_new_br4 | stamp<br>deny<br>rookie<br>unusual |  
+| bip_39_word_new_br5 | stamp<br>deny<br>rookie<br>unusual<br>scrub |  
+| bip_39_word_new_br6 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow |  
+| bip_39_word_new_br7 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow<br>fan |  
+| bip_39_word_new_br8 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow<br>fan<br>spike |  
+| bip_39_word_new_br9 | stamp<br>deny<br>rookie<br>unusual<br>scrub<br>narrow<br>fan<br>spike<br>receive |  
+| bip_39_word_new_line1 | stamp |  
+| bip_39_word_new_line10 | stamp
+deny
+rookie
+unusual
+scrub
+narrow
+fan
+spike
+receive
+laugh |  
+| bip_39_word_new_line11 | stamp
+deny
+rookie
+unusual
+scrub
+narrow
+fan
+spike
+receive
+laugh
+column |  
+| bip_39_word_new_line12 | stamp
+deny
+rookie
+unusual
+scrub
+narrow
+fan
+spike
+receive
+laugh
+column
+acoustic |  
+| bip_39_word_new_line2 | stamp
+deny |  
+| bip_39_word_new_line3 | stamp
+deny
+rookie |  
+| bip_39_word_new_line4 | stamp
+deny
+rookie
+unusual |  
+| bip_39_word_new_line5 | stamp
+deny
+rookie
+unusual
+scrub |  
+| bip_39_word_new_line6 | stamp
+deny
+rookie
+unusual
+scrub
+narrow |  
+| bip_39_word_new_line7 | stamp
+deny
+rookie
+unusual
+scrub
+narrow
+fan |  
+| bip_39_word_new_line8 | stamp
+deny
+rookie
+unusual
+scrub
+narrow
+fan
+spike |  
+| bip_39_word_new_line9 | stamp
+deny
+rookie
+unusual
+scrub
+narrow
+fan
+spike
+receive |  
+| bip_39_word_space_0 | ['stamp', 'deny', 'rookie', 'unusual', 'scrub', 'narrow', 'fan', 'spike', 'receive', 'laugh', 'column', 'acoustic'] |  
+| bip_39_word_space_1 | stamp |  
+| bip_39_word_space_10 | stamp deny rookie unusual scrub narrow fan spike receive laugh |  
+| bip_39_word_space_11 | stamp deny rookie unusual scrub narrow fan spike receive laugh column |  
+| bip_39_word_space_12 | stamp deny rookie unusual scrub narrow fan spike receive laugh column acoustic |  
+| bip_39_word_space_2 | stamp deny |  
+| bip_39_word_space_3 | stamp deny rookie |  
+| bip_39_word_space_4 | stamp deny rookie unusual |  
+| bip_39_word_space_5 | stamp deny rookie unusual scrub |  
+| bip_39_word_space_6 | stamp deny rookie unusual scrub narrow |  
+| bip_39_word_space_7 | stamp deny rookie unusual scrub narrow fan |  
+| bip_39_word_space_8 | stamp deny rookie unusual scrub narrow fan spike |  
+| bip_39_word_space_9 | stamp deny rookie unusual scrub narrow fan spike receive |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

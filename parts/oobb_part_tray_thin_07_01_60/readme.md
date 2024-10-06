@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gaze clip
+  * bip 39 word 3: gaze clip double
+  * bip 39 word: gaze clip double local media suggest yard warm escape harbor catalog argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gaze |  
+| bip_39_word_new_br10 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor |  
+| bip_39_word_new_br11 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor<br>catalog |  
+| bip_39_word_new_br12 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape<br>harbor<br>catalog<br>argue |  
+| bip_39_word_new_br2 | gaze<br>clip |  
+| bip_39_word_new_br3 | gaze<br>clip<br>double |  
+| bip_39_word_new_br4 | gaze<br>clip<br>double<br>local |  
+| bip_39_word_new_br5 | gaze<br>clip<br>double<br>local<br>media |  
+| bip_39_word_new_br6 | gaze<br>clip<br>double<br>local<br>media<br>suggest |  
+| bip_39_word_new_br7 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard |  
+| bip_39_word_new_br8 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm |  
+| bip_39_word_new_br9 | gaze<br>clip<br>double<br>local<br>media<br>suggest<br>yard<br>warm<br>escape |  
+| bip_39_word_new_line1 | gaze |  
+| bip_39_word_new_line10 | gaze
+clip
+double
+local
+media
+suggest
+yard
+warm
+escape
+harbor |  
+| bip_39_word_new_line11 | gaze
+clip
+double
+local
+media
+suggest
+yard
+warm
+escape
+harbor
+catalog |  
+| bip_39_word_new_line12 | gaze
+clip
+double
+local
+media
+suggest
+yard
+warm
+escape
+harbor
+catalog
+argue |  
+| bip_39_word_new_line2 | gaze
+clip |  
+| bip_39_word_new_line3 | gaze
+clip
+double |  
+| bip_39_word_new_line4 | gaze
+clip
+double
+local |  
+| bip_39_word_new_line5 | gaze
+clip
+double
+local
+media |  
+| bip_39_word_new_line6 | gaze
+clip
+double
+local
+media
+suggest |  
+| bip_39_word_new_line7 | gaze
+clip
+double
+local
+media
+suggest
+yard |  
+| bip_39_word_new_line8 | gaze
+clip
+double
+local
+media
+suggest
+yard
+warm |  
+| bip_39_word_new_line9 | gaze
+clip
+double
+local
+media
+suggest
+yard
+warm
+escape |  
+| bip_39_word_space_0 | ['gaze', 'clip', 'double', 'local', 'media', 'suggest', 'yard', 'warm', 'escape', 'harbor', 'catalog', 'argue'] |  
+| bip_39_word_space_1 | gaze |  
+| bip_39_word_space_10 | gaze clip double local media suggest yard warm escape harbor |  
+| bip_39_word_space_11 | gaze clip double local media suggest yard warm escape harbor catalog |  
+| bip_39_word_space_12 | gaze clip double local media suggest yard warm escape harbor catalog argue |  
+| bip_39_word_space_2 | gaze clip |  
+| bip_39_word_space_3 | gaze clip double |  
+| bip_39_word_space_4 | gaze clip double local |  
+| bip_39_word_space_5 | gaze clip double local media |  
+| bip_39_word_space_6 | gaze clip double local media suggest |  
+| bip_39_word_space_7 | gaze clip double local media suggest yard |  
+| bip_39_word_space_8 | gaze clip double local media suggest yard warm |  
+| bip_39_word_space_9 | gaze clip double local media suggest yard warm escape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

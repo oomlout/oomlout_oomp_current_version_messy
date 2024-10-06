@@ -1,3 +1,187 @@
+bip_39_word_new_br1: bring
+bip_39_word_new_br10: bring<br>lawsuit<br>reflect<br>member<br>convince<br>model<br>spatial<br>lounge<br>vehicle<br>genius
+bip_39_word_new_br11: bring<br>lawsuit<br>reflect<br>member<br>convince<br>model<br>spatial<br>lounge<br>vehicle<br>genius<br>seed
+bip_39_word_new_br12: bring<br>lawsuit<br>reflect<br>member<br>convince<br>model<br>spatial<br>lounge<br>vehicle<br>genius<br>seed<br>asthma
+bip_39_word_new_br2: bring<br>lawsuit
+bip_39_word_new_br3: bring<br>lawsuit<br>reflect
+bip_39_word_new_br4: bring<br>lawsuit<br>reflect<br>member
+bip_39_word_new_br5: bring<br>lawsuit<br>reflect<br>member<br>convince
+bip_39_word_new_br6: bring<br>lawsuit<br>reflect<br>member<br>convince<br>model
+bip_39_word_new_br7: bring<br>lawsuit<br>reflect<br>member<br>convince<br>model<br>spatial
+bip_39_word_new_br8: bring<br>lawsuit<br>reflect<br>member<br>convince<br>model<br>spatial<br>lounge
+bip_39_word_new_br9: bring<br>lawsuit<br>reflect<br>member<br>convince<br>model<br>spatial<br>lounge<br>vehicle
+bip_39_word_new_line1: bring
+bip_39_word_new_line10: 'bring
+
+  lawsuit
+
+  reflect
+
+  member
+
+  convince
+
+  model
+
+  spatial
+
+  lounge
+
+  vehicle
+
+  genius'
+bip_39_word_new_line11: 'bring
+
+  lawsuit
+
+  reflect
+
+  member
+
+  convince
+
+  model
+
+  spatial
+
+  lounge
+
+  vehicle
+
+  genius
+
+  seed'
+bip_39_word_new_line12: 'bring
+
+  lawsuit
+
+  reflect
+
+  member
+
+  convince
+
+  model
+
+  spatial
+
+  lounge
+
+  vehicle
+
+  genius
+
+  seed
+
+  asthma'
+bip_39_word_new_line2: 'bring
+
+  lawsuit'
+bip_39_word_new_line3: 'bring
+
+  lawsuit
+
+  reflect'
+bip_39_word_new_line4: 'bring
+
+  lawsuit
+
+  reflect
+
+  member'
+bip_39_word_new_line5: 'bring
+
+  lawsuit
+
+  reflect
+
+  member
+
+  convince'
+bip_39_word_new_line6: 'bring
+
+  lawsuit
+
+  reflect
+
+  member
+
+  convince
+
+  model'
+bip_39_word_new_line7: 'bring
+
+  lawsuit
+
+  reflect
+
+  member
+
+  convince
+
+  model
+
+  spatial'
+bip_39_word_new_line8: 'bring
+
+  lawsuit
+
+  reflect
+
+  member
+
+  convince
+
+  model
+
+  spatial
+
+  lounge'
+bip_39_word_new_line9: 'bring
+
+  lawsuit
+
+  reflect
+
+  member
+
+  convince
+
+  model
+
+  spatial
+
+  lounge
+
+  vehicle'
+bip_39_word_space_0:
+- bring
+- lawsuit
+- reflect
+- member
+- convince
+- model
+- spatial
+- lounge
+- vehicle
+- genius
+- seed
+- asthma
+bip_39_word_space_1: bring
+bip_39_word_space_10: bring lawsuit reflect member convince model spatial lounge vehicle
+  genius
+bip_39_word_space_11: bring lawsuit reflect member convince model spatial lounge vehicle
+  genius seed
+bip_39_word_space_12: bring lawsuit reflect member convince model spatial lounge vehicle
+  genius seed asthma
+bip_39_word_space_2: bring lawsuit
+bip_39_word_space_3: bring lawsuit reflect
+bip_39_word_space_4: bring lawsuit reflect member
+bip_39_word_space_5: bring lawsuit reflect member convince
+bip_39_word_space_6: bring lawsuit reflect member convince model
+bip_39_word_space_7: bring lawsuit reflect member convince model spatial
+bip_39_word_space_8: bring lawsuit reflect member convince model spatial lounge
+bip_39_word_space_9: bring lawsuit reflect member convince model spatial lounge vehicle
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

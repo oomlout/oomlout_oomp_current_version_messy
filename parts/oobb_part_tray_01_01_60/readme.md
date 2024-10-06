@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: actress round
+  * bip 39 word 3: actress round document
+  * bip 39 word: actress round document veteran issue bracket erupt noble render craft broccoli antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | actress |  
+| bip_39_word_new_br10 | actress<br>round<br>document<br>veteran<br>issue<br>bracket<br>erupt<br>noble<br>render<br>craft |  
+| bip_39_word_new_br11 | actress<br>round<br>document<br>veteran<br>issue<br>bracket<br>erupt<br>noble<br>render<br>craft<br>broccoli |  
+| bip_39_word_new_br12 | actress<br>round<br>document<br>veteran<br>issue<br>bracket<br>erupt<br>noble<br>render<br>craft<br>broccoli<br>antique |  
+| bip_39_word_new_br2 | actress<br>round |  
+| bip_39_word_new_br3 | actress<br>round<br>document |  
+| bip_39_word_new_br4 | actress<br>round<br>document<br>veteran |  
+| bip_39_word_new_br5 | actress<br>round<br>document<br>veteran<br>issue |  
+| bip_39_word_new_br6 | actress<br>round<br>document<br>veteran<br>issue<br>bracket |  
+| bip_39_word_new_br7 | actress<br>round<br>document<br>veteran<br>issue<br>bracket<br>erupt |  
+| bip_39_word_new_br8 | actress<br>round<br>document<br>veteran<br>issue<br>bracket<br>erupt<br>noble |  
+| bip_39_word_new_br9 | actress<br>round<br>document<br>veteran<br>issue<br>bracket<br>erupt<br>noble<br>render |  
+| bip_39_word_new_line1 | actress |  
+| bip_39_word_new_line10 | actress
+round
+document
+veteran
+issue
+bracket
+erupt
+noble
+render
+craft |  
+| bip_39_word_new_line11 | actress
+round
+document
+veteran
+issue
+bracket
+erupt
+noble
+render
+craft
+broccoli |  
+| bip_39_word_new_line12 | actress
+round
+document
+veteran
+issue
+bracket
+erupt
+noble
+render
+craft
+broccoli
+antique |  
+| bip_39_word_new_line2 | actress
+round |  
+| bip_39_word_new_line3 | actress
+round
+document |  
+| bip_39_word_new_line4 | actress
+round
+document
+veteran |  
+| bip_39_word_new_line5 | actress
+round
+document
+veteran
+issue |  
+| bip_39_word_new_line6 | actress
+round
+document
+veteran
+issue
+bracket |  
+| bip_39_word_new_line7 | actress
+round
+document
+veteran
+issue
+bracket
+erupt |  
+| bip_39_word_new_line8 | actress
+round
+document
+veteran
+issue
+bracket
+erupt
+noble |  
+| bip_39_word_new_line9 | actress
+round
+document
+veteran
+issue
+bracket
+erupt
+noble
+render |  
+| bip_39_word_space_0 | ['actress', 'round', 'document', 'veteran', 'issue', 'bracket', 'erupt', 'noble', 'render', 'craft', 'broccoli', 'antique'] |  
+| bip_39_word_space_1 | actress |  
+| bip_39_word_space_10 | actress round document veteran issue bracket erupt noble render craft |  
+| bip_39_word_space_11 | actress round document veteran issue bracket erupt noble render craft broccoli |  
+| bip_39_word_space_12 | actress round document veteran issue bracket erupt noble render craft broccoli antique |  
+| bip_39_word_space_2 | actress round |  
+| bip_39_word_space_3 | actress round document |  
+| bip_39_word_space_4 | actress round document veteran |  
+| bip_39_word_space_5 | actress round document veteran issue |  
+| bip_39_word_space_6 | actress round document veteran issue bracket |  
+| bip_39_word_space_7 | actress round document veteran issue bracket erupt |  
+| bip_39_word_space_8 | actress round document veteran issue bracket erupt noble |  
+| bip_39_word_space_9 | actress round document veteran issue bracket erupt noble render |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

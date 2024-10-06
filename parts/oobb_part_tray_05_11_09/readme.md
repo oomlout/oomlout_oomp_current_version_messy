@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: picnic skull
+  * bip 39 word 3: picnic skull snap
+  * bip 39 word: picnic skull snap avocado forget giraffe old worth analyst garage inmate abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | picnic |  
+| bip_39_word_new_br10 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe<br>old<br>worth<br>analyst<br>garage |  
+| bip_39_word_new_br11 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe<br>old<br>worth<br>analyst<br>garage<br>inmate |  
+| bip_39_word_new_br12 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe<br>old<br>worth<br>analyst<br>garage<br>inmate<br>abstract |  
+| bip_39_word_new_br2 | picnic<br>skull |  
+| bip_39_word_new_br3 | picnic<br>skull<br>snap |  
+| bip_39_word_new_br4 | picnic<br>skull<br>snap<br>avocado |  
+| bip_39_word_new_br5 | picnic<br>skull<br>snap<br>avocado<br>forget |  
+| bip_39_word_new_br6 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe |  
+| bip_39_word_new_br7 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe<br>old |  
+| bip_39_word_new_br8 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe<br>old<br>worth |  
+| bip_39_word_new_br9 | picnic<br>skull<br>snap<br>avocado<br>forget<br>giraffe<br>old<br>worth<br>analyst |  
+| bip_39_word_new_line1 | picnic |  
+| bip_39_word_new_line10 | picnic
+skull
+snap
+avocado
+forget
+giraffe
+old
+worth
+analyst
+garage |  
+| bip_39_word_new_line11 | picnic
+skull
+snap
+avocado
+forget
+giraffe
+old
+worth
+analyst
+garage
+inmate |  
+| bip_39_word_new_line12 | picnic
+skull
+snap
+avocado
+forget
+giraffe
+old
+worth
+analyst
+garage
+inmate
+abstract |  
+| bip_39_word_new_line2 | picnic
+skull |  
+| bip_39_word_new_line3 | picnic
+skull
+snap |  
+| bip_39_word_new_line4 | picnic
+skull
+snap
+avocado |  
+| bip_39_word_new_line5 | picnic
+skull
+snap
+avocado
+forget |  
+| bip_39_word_new_line6 | picnic
+skull
+snap
+avocado
+forget
+giraffe |  
+| bip_39_word_new_line7 | picnic
+skull
+snap
+avocado
+forget
+giraffe
+old |  
+| bip_39_word_new_line8 | picnic
+skull
+snap
+avocado
+forget
+giraffe
+old
+worth |  
+| bip_39_word_new_line9 | picnic
+skull
+snap
+avocado
+forget
+giraffe
+old
+worth
+analyst |  
+| bip_39_word_space_0 | ['picnic', 'skull', 'snap', 'avocado', 'forget', 'giraffe', 'old', 'worth', 'analyst', 'garage', 'inmate', 'abstract'] |  
+| bip_39_word_space_1 | picnic |  
+| bip_39_word_space_10 | picnic skull snap avocado forget giraffe old worth analyst garage |  
+| bip_39_word_space_11 | picnic skull snap avocado forget giraffe old worth analyst garage inmate |  
+| bip_39_word_space_12 | picnic skull snap avocado forget giraffe old worth analyst garage inmate abstract |  
+| bip_39_word_space_2 | picnic skull |  
+| bip_39_word_space_3 | picnic skull snap |  
+| bip_39_word_space_4 | picnic skull snap avocado |  
+| bip_39_word_space_5 | picnic skull snap avocado forget |  
+| bip_39_word_space_6 | picnic skull snap avocado forget giraffe |  
+| bip_39_word_space_7 | picnic skull snap avocado forget giraffe old |  
+| bip_39_word_space_8 | picnic skull snap avocado forget giraffe old worth |  
+| bip_39_word_space_9 | picnic skull snap avocado forget giraffe old worth analyst |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 800_mm_width_2370_mm_height_280_mm_depth
   * manufacturer: ikea
   * part_number: 591_822_01
+  * bip 39 word 2: before tower
+  * bip 39 word 3: before tower method
+  * bip 39 word: before tower method garage double bike open alter hello stumble feature ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | before |  
+| bip_39_word_new_br10 | before<br>tower<br>method<br>garage<br>double<br>bike<br>open<br>alter<br>hello<br>stumble |  
+| bip_39_word_new_br11 | before<br>tower<br>method<br>garage<br>double<br>bike<br>open<br>alter<br>hello<br>stumble<br>feature |  
+| bip_39_word_new_br12 | before<br>tower<br>method<br>garage<br>double<br>bike<br>open<br>alter<br>hello<br>stumble<br>feature<br>ahead |  
+| bip_39_word_new_br2 | before<br>tower |  
+| bip_39_word_new_br3 | before<br>tower<br>method |  
+| bip_39_word_new_br4 | before<br>tower<br>method<br>garage |  
+| bip_39_word_new_br5 | before<br>tower<br>method<br>garage<br>double |  
+| bip_39_word_new_br6 | before<br>tower<br>method<br>garage<br>double<br>bike |  
+| bip_39_word_new_br7 | before<br>tower<br>method<br>garage<br>double<br>bike<br>open |  
+| bip_39_word_new_br8 | before<br>tower<br>method<br>garage<br>double<br>bike<br>open<br>alter |  
+| bip_39_word_new_br9 | before<br>tower<br>method<br>garage<br>double<br>bike<br>open<br>alter<br>hello |  
+| bip_39_word_new_line1 | before |  
+| bip_39_word_new_line10 | before
+tower
+method
+garage
+double
+bike
+open
+alter
+hello
+stumble |  
+| bip_39_word_new_line11 | before
+tower
+method
+garage
+double
+bike
+open
+alter
+hello
+stumble
+feature |  
+| bip_39_word_new_line12 | before
+tower
+method
+garage
+double
+bike
+open
+alter
+hello
+stumble
+feature
+ahead |  
+| bip_39_word_new_line2 | before
+tower |  
+| bip_39_word_new_line3 | before
+tower
+method |  
+| bip_39_word_new_line4 | before
+tower
+method
+garage |  
+| bip_39_word_new_line5 | before
+tower
+method
+garage
+double |  
+| bip_39_word_new_line6 | before
+tower
+method
+garage
+double
+bike |  
+| bip_39_word_new_line7 | before
+tower
+method
+garage
+double
+bike
+open |  
+| bip_39_word_new_line8 | before
+tower
+method
+garage
+double
+bike
+open
+alter |  
+| bip_39_word_new_line9 | before
+tower
+method
+garage
+double
+bike
+open
+alter
+hello |  
+| bip_39_word_space_0 | ['before', 'tower', 'method', 'garage', 'double', 'bike', 'open', 'alter', 'hello', 'stumble', 'feature', 'ahead'] |  
+| bip_39_word_space_1 | before |  
+| bip_39_word_space_10 | before tower method garage double bike open alter hello stumble |  
+| bip_39_word_space_11 | before tower method garage double bike open alter hello stumble feature |  
+| bip_39_word_space_12 | before tower method garage double bike open alter hello stumble feature ahead |  
+| bip_39_word_space_2 | before tower |  
+| bip_39_word_space_3 | before tower method |  
+| bip_39_word_space_4 | before tower method garage |  
+| bip_39_word_space_5 | before tower method garage double |  
+| bip_39_word_space_6 | before tower method garage double bike |  
+| bip_39_word_space_7 | before tower method garage double bike open |  
+| bip_39_word_space_8 | before tower method garage double bike open alter |  
+| bip_39_word_space_9 | before tower method garage double bike open alter hello |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

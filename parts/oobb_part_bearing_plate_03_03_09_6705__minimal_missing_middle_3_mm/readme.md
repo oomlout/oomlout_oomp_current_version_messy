@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: minimal_missing_middle_3_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gift marble
+  * bip 39 word 3: gift marble spend
+  * bip 39 word: gift marble spend material base arrive satoshi floor disagree apple wave address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gift |  
+| bip_39_word_new_br10 | gift<br>marble<br>spend<br>material<br>base<br>arrive<br>satoshi<br>floor<br>disagree<br>apple |  
+| bip_39_word_new_br11 | gift<br>marble<br>spend<br>material<br>base<br>arrive<br>satoshi<br>floor<br>disagree<br>apple<br>wave |  
+| bip_39_word_new_br12 | gift<br>marble<br>spend<br>material<br>base<br>arrive<br>satoshi<br>floor<br>disagree<br>apple<br>wave<br>address |  
+| bip_39_word_new_br2 | gift<br>marble |  
+| bip_39_word_new_br3 | gift<br>marble<br>spend |  
+| bip_39_word_new_br4 | gift<br>marble<br>spend<br>material |  
+| bip_39_word_new_br5 | gift<br>marble<br>spend<br>material<br>base |  
+| bip_39_word_new_br6 | gift<br>marble<br>spend<br>material<br>base<br>arrive |  
+| bip_39_word_new_br7 | gift<br>marble<br>spend<br>material<br>base<br>arrive<br>satoshi |  
+| bip_39_word_new_br8 | gift<br>marble<br>spend<br>material<br>base<br>arrive<br>satoshi<br>floor |  
+| bip_39_word_new_br9 | gift<br>marble<br>spend<br>material<br>base<br>arrive<br>satoshi<br>floor<br>disagree |  
+| bip_39_word_new_line1 | gift |  
+| bip_39_word_new_line10 | gift
+marble
+spend
+material
+base
+arrive
+satoshi
+floor
+disagree
+apple |  
+| bip_39_word_new_line11 | gift
+marble
+spend
+material
+base
+arrive
+satoshi
+floor
+disagree
+apple
+wave |  
+| bip_39_word_new_line12 | gift
+marble
+spend
+material
+base
+arrive
+satoshi
+floor
+disagree
+apple
+wave
+address |  
+| bip_39_word_new_line2 | gift
+marble |  
+| bip_39_word_new_line3 | gift
+marble
+spend |  
+| bip_39_word_new_line4 | gift
+marble
+spend
+material |  
+| bip_39_word_new_line5 | gift
+marble
+spend
+material
+base |  
+| bip_39_word_new_line6 | gift
+marble
+spend
+material
+base
+arrive |  
+| bip_39_word_new_line7 | gift
+marble
+spend
+material
+base
+arrive
+satoshi |  
+| bip_39_word_new_line8 | gift
+marble
+spend
+material
+base
+arrive
+satoshi
+floor |  
+| bip_39_word_new_line9 | gift
+marble
+spend
+material
+base
+arrive
+satoshi
+floor
+disagree |  
+| bip_39_word_space_0 | ['gift', 'marble', 'spend', 'material', 'base', 'arrive', 'satoshi', 'floor', 'disagree', 'apple', 'wave', 'address'] |  
+| bip_39_word_space_1 | gift |  
+| bip_39_word_space_10 | gift marble spend material base arrive satoshi floor disagree apple |  
+| bip_39_word_space_11 | gift marble spend material base arrive satoshi floor disagree apple wave |  
+| bip_39_word_space_12 | gift marble spend material base arrive satoshi floor disagree apple wave address |  
+| bip_39_word_space_2 | gift marble |  
+| bip_39_word_space_3 | gift marble spend |  
+| bip_39_word_space_4 | gift marble spend material |  
+| bip_39_word_space_5 | gift marble spend material base |  
+| bip_39_word_space_6 | gift marble spend material base arrive |  
+| bip_39_word_space_7 | gift marble spend material base arrive satoshi |  
+| bip_39_word_space_8 | gift marble spend material base arrive satoshi floor |  
+| bip_39_word_space_9 | gift marble spend material base arrive satoshi floor disagree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

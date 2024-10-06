@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: veteran apology
+  * bip 39 word 3: veteran apology velvet
+  * bip 39 word: veteran apology velvet clinic once thrive tray impact deposit sell hollow arena
 
 ### other_codes
 * short_code: br61813
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | veteran |  
+| bip_39_word_new_br10 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive<br>tray<br>impact<br>deposit<br>sell |  
+| bip_39_word_new_br11 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive<br>tray<br>impact<br>deposit<br>sell<br>hollow |  
+| bip_39_word_new_br12 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive<br>tray<br>impact<br>deposit<br>sell<br>hollow<br>arena |  
+| bip_39_word_new_br2 | veteran<br>apology |  
+| bip_39_word_new_br3 | veteran<br>apology<br>velvet |  
+| bip_39_word_new_br4 | veteran<br>apology<br>velvet<br>clinic |  
+| bip_39_word_new_br5 | veteran<br>apology<br>velvet<br>clinic<br>once |  
+| bip_39_word_new_br6 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive |  
+| bip_39_word_new_br7 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive<br>tray |  
+| bip_39_word_new_br8 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive<br>tray<br>impact |  
+| bip_39_word_new_br9 | veteran<br>apology<br>velvet<br>clinic<br>once<br>thrive<br>tray<br>impact<br>deposit |  
+| bip_39_word_new_line1 | veteran |  
+| bip_39_word_new_line10 | veteran
+apology
+velvet
+clinic
+once
+thrive
+tray
+impact
+deposit
+sell |  
+| bip_39_word_new_line11 | veteran
+apology
+velvet
+clinic
+once
+thrive
+tray
+impact
+deposit
+sell
+hollow |  
+| bip_39_word_new_line12 | veteran
+apology
+velvet
+clinic
+once
+thrive
+tray
+impact
+deposit
+sell
+hollow
+arena |  
+| bip_39_word_new_line2 | veteran
+apology |  
+| bip_39_word_new_line3 | veteran
+apology
+velvet |  
+| bip_39_word_new_line4 | veteran
+apology
+velvet
+clinic |  
+| bip_39_word_new_line5 | veteran
+apology
+velvet
+clinic
+once |  
+| bip_39_word_new_line6 | veteran
+apology
+velvet
+clinic
+once
+thrive |  
+| bip_39_word_new_line7 | veteran
+apology
+velvet
+clinic
+once
+thrive
+tray |  
+| bip_39_word_new_line8 | veteran
+apology
+velvet
+clinic
+once
+thrive
+tray
+impact |  
+| bip_39_word_new_line9 | veteran
+apology
+velvet
+clinic
+once
+thrive
+tray
+impact
+deposit |  
+| bip_39_word_space_0 | ['veteran', 'apology', 'velvet', 'clinic', 'once', 'thrive', 'tray', 'impact', 'deposit', 'sell', 'hollow', 'arena'] |  
+| bip_39_word_space_1 | veteran |  
+| bip_39_word_space_10 | veteran apology velvet clinic once thrive tray impact deposit sell |  
+| bip_39_word_space_11 | veteran apology velvet clinic once thrive tray impact deposit sell hollow |  
+| bip_39_word_space_12 | veteran apology velvet clinic once thrive tray impact deposit sell hollow arena |  
+| bip_39_word_space_2 | veteran apology |  
+| bip_39_word_space_3 | veteran apology velvet |  
+| bip_39_word_space_4 | veteran apology velvet clinic |  
+| bip_39_word_space_5 | veteran apology velvet clinic once |  
+| bip_39_word_space_6 | veteran apology velvet clinic once thrive |  
+| bip_39_word_space_7 | veteran apology velvet clinic once thrive tray |  
+| bip_39_word_space_8 | veteran apology velvet clinic once thrive tray impact |  
+| bip_39_word_space_9 | veteran apology velvet clinic once thrive tray impact deposit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: night youth
+  * bip 39 word 3: night youth already
+  * bip 39 word: night youth already mule taste super toddler rescue genuine shallow only athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | night |  
+| bip_39_word_new_br10 | night<br>youth<br>already<br>mule<br>taste<br>super<br>toddler<br>rescue<br>genuine<br>shallow |  
+| bip_39_word_new_br11 | night<br>youth<br>already<br>mule<br>taste<br>super<br>toddler<br>rescue<br>genuine<br>shallow<br>only |  
+| bip_39_word_new_br12 | night<br>youth<br>already<br>mule<br>taste<br>super<br>toddler<br>rescue<br>genuine<br>shallow<br>only<br>athlete |  
+| bip_39_word_new_br2 | night<br>youth |  
+| bip_39_word_new_br3 | night<br>youth<br>already |  
+| bip_39_word_new_br4 | night<br>youth<br>already<br>mule |  
+| bip_39_word_new_br5 | night<br>youth<br>already<br>mule<br>taste |  
+| bip_39_word_new_br6 | night<br>youth<br>already<br>mule<br>taste<br>super |  
+| bip_39_word_new_br7 | night<br>youth<br>already<br>mule<br>taste<br>super<br>toddler |  
+| bip_39_word_new_br8 | night<br>youth<br>already<br>mule<br>taste<br>super<br>toddler<br>rescue |  
+| bip_39_word_new_br9 | night<br>youth<br>already<br>mule<br>taste<br>super<br>toddler<br>rescue<br>genuine |  
+| bip_39_word_new_line1 | night |  
+| bip_39_word_new_line10 | night
+youth
+already
+mule
+taste
+super
+toddler
+rescue
+genuine
+shallow |  
+| bip_39_word_new_line11 | night
+youth
+already
+mule
+taste
+super
+toddler
+rescue
+genuine
+shallow
+only |  
+| bip_39_word_new_line12 | night
+youth
+already
+mule
+taste
+super
+toddler
+rescue
+genuine
+shallow
+only
+athlete |  
+| bip_39_word_new_line2 | night
+youth |  
+| bip_39_word_new_line3 | night
+youth
+already |  
+| bip_39_word_new_line4 | night
+youth
+already
+mule |  
+| bip_39_word_new_line5 | night
+youth
+already
+mule
+taste |  
+| bip_39_word_new_line6 | night
+youth
+already
+mule
+taste
+super |  
+| bip_39_word_new_line7 | night
+youth
+already
+mule
+taste
+super
+toddler |  
+| bip_39_word_new_line8 | night
+youth
+already
+mule
+taste
+super
+toddler
+rescue |  
+| bip_39_word_new_line9 | night
+youth
+already
+mule
+taste
+super
+toddler
+rescue
+genuine |  
+| bip_39_word_space_0 | ['night', 'youth', 'already', 'mule', 'taste', 'super', 'toddler', 'rescue', 'genuine', 'shallow', 'only', 'athlete'] |  
+| bip_39_word_space_1 | night |  
+| bip_39_word_space_10 | night youth already mule taste super toddler rescue genuine shallow |  
+| bip_39_word_space_11 | night youth already mule taste super toddler rescue genuine shallow only |  
+| bip_39_word_space_12 | night youth already mule taste super toddler rescue genuine shallow only athlete |  
+| bip_39_word_space_2 | night youth |  
+| bip_39_word_space_3 | night youth already |  
+| bip_39_word_space_4 | night youth already mule |  
+| bip_39_word_space_5 | night youth already mule taste |  
+| bip_39_word_space_6 | night youth already mule taste super |  
+| bip_39_word_space_7 | night youth already mule taste super toddler |  
+| bip_39_word_space_8 | night youth already mule taste super toddler rescue |  
+| bip_39_word_space_9 | night youth already mule taste super toddler rescue genuine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

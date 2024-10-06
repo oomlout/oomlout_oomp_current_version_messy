@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wall sphere
+  * bip 39 word 3: wall sphere thing
+  * bip 39 word: wall sphere thing casual leader soda empower lawn salute auto tornado arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wall |  
+| bip_39_word_new_br10 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda<br>empower<br>lawn<br>salute<br>auto |  
+| bip_39_word_new_br11 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda<br>empower<br>lawn<br>salute<br>auto<br>tornado |  
+| bip_39_word_new_br12 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda<br>empower<br>lawn<br>salute<br>auto<br>tornado<br>arch |  
+| bip_39_word_new_br2 | wall<br>sphere |  
+| bip_39_word_new_br3 | wall<br>sphere<br>thing |  
+| bip_39_word_new_br4 | wall<br>sphere<br>thing<br>casual |  
+| bip_39_word_new_br5 | wall<br>sphere<br>thing<br>casual<br>leader |  
+| bip_39_word_new_br6 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda |  
+| bip_39_word_new_br7 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda<br>empower |  
+| bip_39_word_new_br8 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda<br>empower<br>lawn |  
+| bip_39_word_new_br9 | wall<br>sphere<br>thing<br>casual<br>leader<br>soda<br>empower<br>lawn<br>salute |  
+| bip_39_word_new_line1 | wall |  
+| bip_39_word_new_line10 | wall
+sphere
+thing
+casual
+leader
+soda
+empower
+lawn
+salute
+auto |  
+| bip_39_word_new_line11 | wall
+sphere
+thing
+casual
+leader
+soda
+empower
+lawn
+salute
+auto
+tornado |  
+| bip_39_word_new_line12 | wall
+sphere
+thing
+casual
+leader
+soda
+empower
+lawn
+salute
+auto
+tornado
+arch |  
+| bip_39_word_new_line2 | wall
+sphere |  
+| bip_39_word_new_line3 | wall
+sphere
+thing |  
+| bip_39_word_new_line4 | wall
+sphere
+thing
+casual |  
+| bip_39_word_new_line5 | wall
+sphere
+thing
+casual
+leader |  
+| bip_39_word_new_line6 | wall
+sphere
+thing
+casual
+leader
+soda |  
+| bip_39_word_new_line7 | wall
+sphere
+thing
+casual
+leader
+soda
+empower |  
+| bip_39_word_new_line8 | wall
+sphere
+thing
+casual
+leader
+soda
+empower
+lawn |  
+| bip_39_word_new_line9 | wall
+sphere
+thing
+casual
+leader
+soda
+empower
+lawn
+salute |  
+| bip_39_word_space_0 | ['wall', 'sphere', 'thing', 'casual', 'leader', 'soda', 'empower', 'lawn', 'salute', 'auto', 'tornado', 'arch'] |  
+| bip_39_word_space_1 | wall |  
+| bip_39_word_space_10 | wall sphere thing casual leader soda empower lawn salute auto |  
+| bip_39_word_space_11 | wall sphere thing casual leader soda empower lawn salute auto tornado |  
+| bip_39_word_space_12 | wall sphere thing casual leader soda empower lawn salute auto tornado arch |  
+| bip_39_word_space_2 | wall sphere |  
+| bip_39_word_space_3 | wall sphere thing |  
+| bip_39_word_space_4 | wall sphere thing casual |  
+| bip_39_word_space_5 | wall sphere thing casual leader |  
+| bip_39_word_space_6 | wall sphere thing casual leader soda |  
+| bip_39_word_space_7 | wall sphere thing casual leader soda empower |  
+| bip_39_word_space_8 | wall sphere thing casual leader soda empower lawn |  
+| bip_39_word_space_9 | wall sphere thing casual leader soda empower lawn salute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

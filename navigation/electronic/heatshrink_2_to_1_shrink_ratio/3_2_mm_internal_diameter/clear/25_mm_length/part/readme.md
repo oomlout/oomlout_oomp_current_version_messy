@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: paddle wide
+  * bip 39 word 3: paddle wide mosquito
+  * bip 39 word: paddle wide mosquito valley attitude soda derive walnut humble day prize agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | paddle |  
+| bip_39_word_new_br10 | paddle<br>wide<br>mosquito<br>valley<br>attitude<br>soda<br>derive<br>walnut<br>humble<br>day |  
+| bip_39_word_new_br11 | paddle<br>wide<br>mosquito<br>valley<br>attitude<br>soda<br>derive<br>walnut<br>humble<br>day<br>prize |  
+| bip_39_word_new_br12 | paddle<br>wide<br>mosquito<br>valley<br>attitude<br>soda<br>derive<br>walnut<br>humble<br>day<br>prize<br>agree |  
+| bip_39_word_new_br2 | paddle<br>wide |  
+| bip_39_word_new_br3 | paddle<br>wide<br>mosquito |  
+| bip_39_word_new_br4 | paddle<br>wide<br>mosquito<br>valley |  
+| bip_39_word_new_br5 | paddle<br>wide<br>mosquito<br>valley<br>attitude |  
+| bip_39_word_new_br6 | paddle<br>wide<br>mosquito<br>valley<br>attitude<br>soda |  
+| bip_39_word_new_br7 | paddle<br>wide<br>mosquito<br>valley<br>attitude<br>soda<br>derive |  
+| bip_39_word_new_br8 | paddle<br>wide<br>mosquito<br>valley<br>attitude<br>soda<br>derive<br>walnut |  
+| bip_39_word_new_br9 | paddle<br>wide<br>mosquito<br>valley<br>attitude<br>soda<br>derive<br>walnut<br>humble |  
+| bip_39_word_new_line1 | paddle |  
+| bip_39_word_new_line10 | paddle
+wide
+mosquito
+valley
+attitude
+soda
+derive
+walnut
+humble
+day |  
+| bip_39_word_new_line11 | paddle
+wide
+mosquito
+valley
+attitude
+soda
+derive
+walnut
+humble
+day
+prize |  
+| bip_39_word_new_line12 | paddle
+wide
+mosquito
+valley
+attitude
+soda
+derive
+walnut
+humble
+day
+prize
+agree |  
+| bip_39_word_new_line2 | paddle
+wide |  
+| bip_39_word_new_line3 | paddle
+wide
+mosquito |  
+| bip_39_word_new_line4 | paddle
+wide
+mosquito
+valley |  
+| bip_39_word_new_line5 | paddle
+wide
+mosquito
+valley
+attitude |  
+| bip_39_word_new_line6 | paddle
+wide
+mosquito
+valley
+attitude
+soda |  
+| bip_39_word_new_line7 | paddle
+wide
+mosquito
+valley
+attitude
+soda
+derive |  
+| bip_39_word_new_line8 | paddle
+wide
+mosquito
+valley
+attitude
+soda
+derive
+walnut |  
+| bip_39_word_new_line9 | paddle
+wide
+mosquito
+valley
+attitude
+soda
+derive
+walnut
+humble |  
+| bip_39_word_space_0 | ['paddle', 'wide', 'mosquito', 'valley', 'attitude', 'soda', 'derive', 'walnut', 'humble', 'day', 'prize', 'agree'] |  
+| bip_39_word_space_1 | paddle |  
+| bip_39_word_space_10 | paddle wide mosquito valley attitude soda derive walnut humble day |  
+| bip_39_word_space_11 | paddle wide mosquito valley attitude soda derive walnut humble day prize |  
+| bip_39_word_space_12 | paddle wide mosquito valley attitude soda derive walnut humble day prize agree |  
+| bip_39_word_space_2 | paddle wide |  
+| bip_39_word_space_3 | paddle wide mosquito |  
+| bip_39_word_space_4 | paddle wide mosquito valley |  
+| bip_39_word_space_5 | paddle wide mosquito valley attitude |  
+| bip_39_word_space_6 | paddle wide mosquito valley attitude soda |  
+| bip_39_word_space_7 | paddle wide mosquito valley attitude soda derive |  
+| bip_39_word_space_8 | paddle wide mosquito valley attitude soda derive walnut |  
+| bip_39_word_space_9 | paddle wide mosquito valley attitude soda derive walnut humble |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

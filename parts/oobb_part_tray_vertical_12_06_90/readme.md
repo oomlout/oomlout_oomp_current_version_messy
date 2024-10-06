@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: screen analyst
+  * bip 39 word 3: screen analyst awake
+  * bip 39 word: screen analyst awake across lumber have alone wire asthma fiber any area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | screen |  
+| bip_39_word_new_br10 | screen<br>analyst<br>awake<br>across<br>lumber<br>have<br>alone<br>wire<br>asthma<br>fiber |  
+| bip_39_word_new_br11 | screen<br>analyst<br>awake<br>across<br>lumber<br>have<br>alone<br>wire<br>asthma<br>fiber<br>any |  
+| bip_39_word_new_br12 | screen<br>analyst<br>awake<br>across<br>lumber<br>have<br>alone<br>wire<br>asthma<br>fiber<br>any<br>area |  
+| bip_39_word_new_br2 | screen<br>analyst |  
+| bip_39_word_new_br3 | screen<br>analyst<br>awake |  
+| bip_39_word_new_br4 | screen<br>analyst<br>awake<br>across |  
+| bip_39_word_new_br5 | screen<br>analyst<br>awake<br>across<br>lumber |  
+| bip_39_word_new_br6 | screen<br>analyst<br>awake<br>across<br>lumber<br>have |  
+| bip_39_word_new_br7 | screen<br>analyst<br>awake<br>across<br>lumber<br>have<br>alone |  
+| bip_39_word_new_br8 | screen<br>analyst<br>awake<br>across<br>lumber<br>have<br>alone<br>wire |  
+| bip_39_word_new_br9 | screen<br>analyst<br>awake<br>across<br>lumber<br>have<br>alone<br>wire<br>asthma |  
+| bip_39_word_new_line1 | screen |  
+| bip_39_word_new_line10 | screen
+analyst
+awake
+across
+lumber
+have
+alone
+wire
+asthma
+fiber |  
+| bip_39_word_new_line11 | screen
+analyst
+awake
+across
+lumber
+have
+alone
+wire
+asthma
+fiber
+any |  
+| bip_39_word_new_line12 | screen
+analyst
+awake
+across
+lumber
+have
+alone
+wire
+asthma
+fiber
+any
+area |  
+| bip_39_word_new_line2 | screen
+analyst |  
+| bip_39_word_new_line3 | screen
+analyst
+awake |  
+| bip_39_word_new_line4 | screen
+analyst
+awake
+across |  
+| bip_39_word_new_line5 | screen
+analyst
+awake
+across
+lumber |  
+| bip_39_word_new_line6 | screen
+analyst
+awake
+across
+lumber
+have |  
+| bip_39_word_new_line7 | screen
+analyst
+awake
+across
+lumber
+have
+alone |  
+| bip_39_word_new_line8 | screen
+analyst
+awake
+across
+lumber
+have
+alone
+wire |  
+| bip_39_word_new_line9 | screen
+analyst
+awake
+across
+lumber
+have
+alone
+wire
+asthma |  
+| bip_39_word_space_0 | ['screen', 'analyst', 'awake', 'across', 'lumber', 'have', 'alone', 'wire', 'asthma', 'fiber', 'any', 'area'] |  
+| bip_39_word_space_1 | screen |  
+| bip_39_word_space_10 | screen analyst awake across lumber have alone wire asthma fiber |  
+| bip_39_word_space_11 | screen analyst awake across lumber have alone wire asthma fiber any |  
+| bip_39_word_space_12 | screen analyst awake across lumber have alone wire asthma fiber any area |  
+| bip_39_word_space_2 | screen analyst |  
+| bip_39_word_space_3 | screen analyst awake |  
+| bip_39_word_space_4 | screen analyst awake across |  
+| bip_39_word_space_5 | screen analyst awake across lumber |  
+| bip_39_word_space_6 | screen analyst awake across lumber have |  
+| bip_39_word_space_7 | screen analyst awake across lumber have alone |  
+| bip_39_word_space_8 | screen analyst awake across lumber have alone wire |  
+| bip_39_word_space_9 | screen analyst awake across lumber have alone wire asthma |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

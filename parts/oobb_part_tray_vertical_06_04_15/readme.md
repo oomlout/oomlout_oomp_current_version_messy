@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unit praise
+  * bip 39 word 3: unit praise drink
+  * bip 39 word: unit praise drink seed under never guess thank broccoli stand traffic arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unit |  
+| bip_39_word_new_br10 | unit<br>praise<br>drink<br>seed<br>under<br>never<br>guess<br>thank<br>broccoli<br>stand |  
+| bip_39_word_new_br11 | unit<br>praise<br>drink<br>seed<br>under<br>never<br>guess<br>thank<br>broccoli<br>stand<br>traffic |  
+| bip_39_word_new_br12 | unit<br>praise<br>drink<br>seed<br>under<br>never<br>guess<br>thank<br>broccoli<br>stand<br>traffic<br>arrange |  
+| bip_39_word_new_br2 | unit<br>praise |  
+| bip_39_word_new_br3 | unit<br>praise<br>drink |  
+| bip_39_word_new_br4 | unit<br>praise<br>drink<br>seed |  
+| bip_39_word_new_br5 | unit<br>praise<br>drink<br>seed<br>under |  
+| bip_39_word_new_br6 | unit<br>praise<br>drink<br>seed<br>under<br>never |  
+| bip_39_word_new_br7 | unit<br>praise<br>drink<br>seed<br>under<br>never<br>guess |  
+| bip_39_word_new_br8 | unit<br>praise<br>drink<br>seed<br>under<br>never<br>guess<br>thank |  
+| bip_39_word_new_br9 | unit<br>praise<br>drink<br>seed<br>under<br>never<br>guess<br>thank<br>broccoli |  
+| bip_39_word_new_line1 | unit |  
+| bip_39_word_new_line10 | unit
+praise
+drink
+seed
+under
+never
+guess
+thank
+broccoli
+stand |  
+| bip_39_word_new_line11 | unit
+praise
+drink
+seed
+under
+never
+guess
+thank
+broccoli
+stand
+traffic |  
+| bip_39_word_new_line12 | unit
+praise
+drink
+seed
+under
+never
+guess
+thank
+broccoli
+stand
+traffic
+arrange |  
+| bip_39_word_new_line2 | unit
+praise |  
+| bip_39_word_new_line3 | unit
+praise
+drink |  
+| bip_39_word_new_line4 | unit
+praise
+drink
+seed |  
+| bip_39_word_new_line5 | unit
+praise
+drink
+seed
+under |  
+| bip_39_word_new_line6 | unit
+praise
+drink
+seed
+under
+never |  
+| bip_39_word_new_line7 | unit
+praise
+drink
+seed
+under
+never
+guess |  
+| bip_39_word_new_line8 | unit
+praise
+drink
+seed
+under
+never
+guess
+thank |  
+| bip_39_word_new_line9 | unit
+praise
+drink
+seed
+under
+never
+guess
+thank
+broccoli |  
+| bip_39_word_space_0 | ['unit', 'praise', 'drink', 'seed', 'under', 'never', 'guess', 'thank', 'broccoli', 'stand', 'traffic', 'arrange'] |  
+| bip_39_word_space_1 | unit |  
+| bip_39_word_space_10 | unit praise drink seed under never guess thank broccoli stand |  
+| bip_39_word_space_11 | unit praise drink seed under never guess thank broccoli stand traffic |  
+| bip_39_word_space_12 | unit praise drink seed under never guess thank broccoli stand traffic arrange |  
+| bip_39_word_space_2 | unit praise |  
+| bip_39_word_space_3 | unit praise drink |  
+| bip_39_word_space_4 | unit praise drink seed |  
+| bip_39_word_space_5 | unit praise drink seed under |  
+| bip_39_word_space_6 | unit praise drink seed under never |  
+| bip_39_word_space_7 | unit praise drink seed under never guess |  
+| bip_39_word_space_8 | unit praise drink seed under never guess thank |  
+| bip_39_word_space_9 | unit praise drink seed under never guess thank broccoli |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

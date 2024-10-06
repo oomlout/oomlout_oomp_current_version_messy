@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tag march
+  * bip 39 word 3: tag march push
+  * bip 39 word: tag march push palace miss pepper banana rocket stock gift horror absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tag |  
+| bip_39_word_new_br10 | tag<br>march<br>push<br>palace<br>miss<br>pepper<br>banana<br>rocket<br>stock<br>gift |  
+| bip_39_word_new_br11 | tag<br>march<br>push<br>palace<br>miss<br>pepper<br>banana<br>rocket<br>stock<br>gift<br>horror |  
+| bip_39_word_new_br12 | tag<br>march<br>push<br>palace<br>miss<br>pepper<br>banana<br>rocket<br>stock<br>gift<br>horror<br>absorb |  
+| bip_39_word_new_br2 | tag<br>march |  
+| bip_39_word_new_br3 | tag<br>march<br>push |  
+| bip_39_word_new_br4 | tag<br>march<br>push<br>palace |  
+| bip_39_word_new_br5 | tag<br>march<br>push<br>palace<br>miss |  
+| bip_39_word_new_br6 | tag<br>march<br>push<br>palace<br>miss<br>pepper |  
+| bip_39_word_new_br7 | tag<br>march<br>push<br>palace<br>miss<br>pepper<br>banana |  
+| bip_39_word_new_br8 | tag<br>march<br>push<br>palace<br>miss<br>pepper<br>banana<br>rocket |  
+| bip_39_word_new_br9 | tag<br>march<br>push<br>palace<br>miss<br>pepper<br>banana<br>rocket<br>stock |  
+| bip_39_word_new_line1 | tag |  
+| bip_39_word_new_line10 | tag
+march
+push
+palace
+miss
+pepper
+banana
+rocket
+stock
+gift |  
+| bip_39_word_new_line11 | tag
+march
+push
+palace
+miss
+pepper
+banana
+rocket
+stock
+gift
+horror |  
+| bip_39_word_new_line12 | tag
+march
+push
+palace
+miss
+pepper
+banana
+rocket
+stock
+gift
+horror
+absorb |  
+| bip_39_word_new_line2 | tag
+march |  
+| bip_39_word_new_line3 | tag
+march
+push |  
+| bip_39_word_new_line4 | tag
+march
+push
+palace |  
+| bip_39_word_new_line5 | tag
+march
+push
+palace
+miss |  
+| bip_39_word_new_line6 | tag
+march
+push
+palace
+miss
+pepper |  
+| bip_39_word_new_line7 | tag
+march
+push
+palace
+miss
+pepper
+banana |  
+| bip_39_word_new_line8 | tag
+march
+push
+palace
+miss
+pepper
+banana
+rocket |  
+| bip_39_word_new_line9 | tag
+march
+push
+palace
+miss
+pepper
+banana
+rocket
+stock |  
+| bip_39_word_space_0 | ['tag', 'march', 'push', 'palace', 'miss', 'pepper', 'banana', 'rocket', 'stock', 'gift', 'horror', 'absorb'] |  
+| bip_39_word_space_1 | tag |  
+| bip_39_word_space_10 | tag march push palace miss pepper banana rocket stock gift |  
+| bip_39_word_space_11 | tag march push palace miss pepper banana rocket stock gift horror |  
+| bip_39_word_space_12 | tag march push palace miss pepper banana rocket stock gift horror absorb |  
+| bip_39_word_space_2 | tag march |  
+| bip_39_word_space_3 | tag march push |  
+| bip_39_word_space_4 | tag march push palace |  
+| bip_39_word_space_5 | tag march push palace miss |  
+| bip_39_word_space_6 | tag march push palace miss pepper |  
+| bip_39_word_space_7 | tag march push palace miss pepper banana |  
+| bip_39_word_space_8 | tag march push palace miss pepper banana rocket |  
+| bip_39_word_space_9 | tag march push palace miss pepper banana rocket stock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

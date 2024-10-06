@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: little agent
+  * bip 39 word 3: little agent alarm
+  * bip 39 word: little agent alarm antenna mad arrange planet tonight shallow next inmate age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | little |  
+| bip_39_word_new_br10 | little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight<br>shallow<br>next |  
+| bip_39_word_new_br11 | little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight<br>shallow<br>next<br>inmate |  
+| bip_39_word_new_br12 | little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight<br>shallow<br>next<br>inmate<br>age |  
+| bip_39_word_new_br2 | little<br>agent |  
+| bip_39_word_new_br3 | little<br>agent<br>alarm |  
+| bip_39_word_new_br4 | little<br>agent<br>alarm<br>antenna |  
+| bip_39_word_new_br5 | little<br>agent<br>alarm<br>antenna<br>mad |  
+| bip_39_word_new_br6 | little<br>agent<br>alarm<br>antenna<br>mad<br>arrange |  
+| bip_39_word_new_br7 | little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet |  
+| bip_39_word_new_br8 | little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight |  
+| bip_39_word_new_br9 | little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight<br>shallow |  
+| bip_39_word_new_line1 | little |  
+| bip_39_word_new_line10 | little
+agent
+alarm
+antenna
+mad
+arrange
+planet
+tonight
+shallow
+next |  
+| bip_39_word_new_line11 | little
+agent
+alarm
+antenna
+mad
+arrange
+planet
+tonight
+shallow
+next
+inmate |  
+| bip_39_word_new_line12 | little
+agent
+alarm
+antenna
+mad
+arrange
+planet
+tonight
+shallow
+next
+inmate
+age |  
+| bip_39_word_new_line2 | little
+agent |  
+| bip_39_word_new_line3 | little
+agent
+alarm |  
+| bip_39_word_new_line4 | little
+agent
+alarm
+antenna |  
+| bip_39_word_new_line5 | little
+agent
+alarm
+antenna
+mad |  
+| bip_39_word_new_line6 | little
+agent
+alarm
+antenna
+mad
+arrange |  
+| bip_39_word_new_line7 | little
+agent
+alarm
+antenna
+mad
+arrange
+planet |  
+| bip_39_word_new_line8 | little
+agent
+alarm
+antenna
+mad
+arrange
+planet
+tonight |  
+| bip_39_word_new_line9 | little
+agent
+alarm
+antenna
+mad
+arrange
+planet
+tonight
+shallow |  
+| bip_39_word_space_0 | ['little', 'agent', 'alarm', 'antenna', 'mad', 'arrange', 'planet', 'tonight', 'shallow', 'next', 'inmate', 'age'] |  
+| bip_39_word_space_1 | little |  
+| bip_39_word_space_10 | little agent alarm antenna mad arrange planet tonight shallow next |  
+| bip_39_word_space_11 | little agent alarm antenna mad arrange planet tonight shallow next inmate |  
+| bip_39_word_space_12 | little agent alarm antenna mad arrange planet tonight shallow next inmate age |  
+| bip_39_word_space_2 | little agent |  
+| bip_39_word_space_3 | little agent alarm |  
+| bip_39_word_space_4 | little agent alarm antenna |  
+| bip_39_word_space_5 | little agent alarm antenna mad |  
+| bip_39_word_space_6 | little agent alarm antenna mad arrange |  
+| bip_39_word_space_7 | little agent alarm antenna mad arrange planet |  
+| bip_39_word_space_8 | little agent alarm antenna mad arrange planet tonight |  
+| bip_39_word_space_9 | little agent alarm antenna mad arrange planet tonight shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

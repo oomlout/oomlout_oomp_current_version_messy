@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bless marine
+  * bip 39 word 3: bless marine minute
+  * bip 39 word: bless marine minute will wreck slow ceiling crawl game woman omit aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bless |  
+| bip_39_word_new_br10 | bless<br>marine<br>minute<br>will<br>wreck<br>slow<br>ceiling<br>crawl<br>game<br>woman |  
+| bip_39_word_new_br11 | bless<br>marine<br>minute<br>will<br>wreck<br>slow<br>ceiling<br>crawl<br>game<br>woman<br>omit |  
+| bip_39_word_new_br12 | bless<br>marine<br>minute<br>will<br>wreck<br>slow<br>ceiling<br>crawl<br>game<br>woman<br>omit<br>aerobic |  
+| bip_39_word_new_br2 | bless<br>marine |  
+| bip_39_word_new_br3 | bless<br>marine<br>minute |  
+| bip_39_word_new_br4 | bless<br>marine<br>minute<br>will |  
+| bip_39_word_new_br5 | bless<br>marine<br>minute<br>will<br>wreck |  
+| bip_39_word_new_br6 | bless<br>marine<br>minute<br>will<br>wreck<br>slow |  
+| bip_39_word_new_br7 | bless<br>marine<br>minute<br>will<br>wreck<br>slow<br>ceiling |  
+| bip_39_word_new_br8 | bless<br>marine<br>minute<br>will<br>wreck<br>slow<br>ceiling<br>crawl |  
+| bip_39_word_new_br9 | bless<br>marine<br>minute<br>will<br>wreck<br>slow<br>ceiling<br>crawl<br>game |  
+| bip_39_word_new_line1 | bless |  
+| bip_39_word_new_line10 | bless
+marine
+minute
+will
+wreck
+slow
+ceiling
+crawl
+game
+woman |  
+| bip_39_word_new_line11 | bless
+marine
+minute
+will
+wreck
+slow
+ceiling
+crawl
+game
+woman
+omit |  
+| bip_39_word_new_line12 | bless
+marine
+minute
+will
+wreck
+slow
+ceiling
+crawl
+game
+woman
+omit
+aerobic |  
+| bip_39_word_new_line2 | bless
+marine |  
+| bip_39_word_new_line3 | bless
+marine
+minute |  
+| bip_39_word_new_line4 | bless
+marine
+minute
+will |  
+| bip_39_word_new_line5 | bless
+marine
+minute
+will
+wreck |  
+| bip_39_word_new_line6 | bless
+marine
+minute
+will
+wreck
+slow |  
+| bip_39_word_new_line7 | bless
+marine
+minute
+will
+wreck
+slow
+ceiling |  
+| bip_39_word_new_line8 | bless
+marine
+minute
+will
+wreck
+slow
+ceiling
+crawl |  
+| bip_39_word_new_line9 | bless
+marine
+minute
+will
+wreck
+slow
+ceiling
+crawl
+game |  
+| bip_39_word_space_0 | ['bless', 'marine', 'minute', 'will', 'wreck', 'slow', 'ceiling', 'crawl', 'game', 'woman', 'omit', 'aerobic'] |  
+| bip_39_word_space_1 | bless |  
+| bip_39_word_space_10 | bless marine minute will wreck slow ceiling crawl game woman |  
+| bip_39_word_space_11 | bless marine minute will wreck slow ceiling crawl game woman omit |  
+| bip_39_word_space_12 | bless marine minute will wreck slow ceiling crawl game woman omit aerobic |  
+| bip_39_word_space_2 | bless marine |  
+| bip_39_word_space_3 | bless marine minute |  
+| bip_39_word_space_4 | bless marine minute will |  
+| bip_39_word_space_5 | bless marine minute will wreck |  
+| bip_39_word_space_6 | bless marine minute will wreck slow |  
+| bip_39_word_space_7 | bless marine minute will wreck slow ceiling |  
+| bip_39_word_space_8 | bless marine minute will wreck slow ceiling crawl |  
+| bip_39_word_space_9 | bless marine minute will wreck slow ceiling crawl game |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

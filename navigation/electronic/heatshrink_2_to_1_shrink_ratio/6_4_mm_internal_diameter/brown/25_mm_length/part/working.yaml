@@ -1,3 +1,186 @@
+bip_39_word_new_br1: business
+bip_39_word_new_br10: business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful
+bip_39_word_new_br11: business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful<br>gospel
+bip_39_word_new_br12: business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine<br>awful<br>gospel<br>august
+bip_39_word_new_br2: business<br>medal
+bip_39_word_new_br3: business<br>medal<br>curtain
+bip_39_word_new_br4: business<br>medal<br>curtain<br>shrug
+bip_39_word_new_br5: business<br>medal<br>curtain<br>shrug<br>catch
+bip_39_word_new_br6: business<br>medal<br>curtain<br>shrug<br>catch<br>air
+bip_39_word_new_br7: business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep
+bip_39_word_new_br8: business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew
+bip_39_word_new_br9: business<br>medal<br>curtain<br>shrug<br>catch<br>air<br>sleep<br>nephew<br>marine
+bip_39_word_new_line1: business
+bip_39_word_new_line10: 'business
+
+  medal
+
+  curtain
+
+  shrug
+
+  catch
+
+  air
+
+  sleep
+
+  nephew
+
+  marine
+
+  awful'
+bip_39_word_new_line11: 'business
+
+  medal
+
+  curtain
+
+  shrug
+
+  catch
+
+  air
+
+  sleep
+
+  nephew
+
+  marine
+
+  awful
+
+  gospel'
+bip_39_word_new_line12: 'business
+
+  medal
+
+  curtain
+
+  shrug
+
+  catch
+
+  air
+
+  sleep
+
+  nephew
+
+  marine
+
+  awful
+
+  gospel
+
+  august'
+bip_39_word_new_line2: 'business
+
+  medal'
+bip_39_word_new_line3: 'business
+
+  medal
+
+  curtain'
+bip_39_word_new_line4: 'business
+
+  medal
+
+  curtain
+
+  shrug'
+bip_39_word_new_line5: 'business
+
+  medal
+
+  curtain
+
+  shrug
+
+  catch'
+bip_39_word_new_line6: 'business
+
+  medal
+
+  curtain
+
+  shrug
+
+  catch
+
+  air'
+bip_39_word_new_line7: 'business
+
+  medal
+
+  curtain
+
+  shrug
+
+  catch
+
+  air
+
+  sleep'
+bip_39_word_new_line8: 'business
+
+  medal
+
+  curtain
+
+  shrug
+
+  catch
+
+  air
+
+  sleep
+
+  nephew'
+bip_39_word_new_line9: 'business
+
+  medal
+
+  curtain
+
+  shrug
+
+  catch
+
+  air
+
+  sleep
+
+  nephew
+
+  marine'
+bip_39_word_space_0:
+- business
+- medal
+- curtain
+- shrug
+- catch
+- air
+- sleep
+- nephew
+- marine
+- awful
+- gospel
+- august
+bip_39_word_space_1: business
+bip_39_word_space_10: business medal curtain shrug catch air sleep nephew marine awful
+bip_39_word_space_11: business medal curtain shrug catch air sleep nephew marine awful
+  gospel
+bip_39_word_space_12: business medal curtain shrug catch air sleep nephew marine awful
+  gospel august
+bip_39_word_space_2: business medal
+bip_39_word_space_3: business medal curtain
+bip_39_word_space_4: business medal curtain shrug
+bip_39_word_space_5: business medal curtain shrug catch
+bip_39_word_space_6: business medal curtain shrug catch air
+bip_39_word_space_7: business medal curtain shrug catch air sleep
+bip_39_word_space_8: business medal curtain shrug catch air sleep nephew
+bip_39_word_space_9: business medal curtain shrug catch air sleep nephew marine
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: humor exhibit
+  * bip 39 word 3: humor exhibit gravity
+  * bip 39 word: humor exhibit gravity rich august waste client coast hungry keen require attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | humor |  
+| bip_39_word_new_br10 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen |  
+| bip_39_word_new_br11 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen<br>require |  
+| bip_39_word_new_br12 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry<br>keen<br>require<br>attract |  
+| bip_39_word_new_br2 | humor<br>exhibit |  
+| bip_39_word_new_br3 | humor<br>exhibit<br>gravity |  
+| bip_39_word_new_br4 | humor<br>exhibit<br>gravity<br>rich |  
+| bip_39_word_new_br5 | humor<br>exhibit<br>gravity<br>rich<br>august |  
+| bip_39_word_new_br6 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste |  
+| bip_39_word_new_br7 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client |  
+| bip_39_word_new_br8 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast |  
+| bip_39_word_new_br9 | humor<br>exhibit<br>gravity<br>rich<br>august<br>waste<br>client<br>coast<br>hungry |  
+| bip_39_word_new_line1 | humor |  
+| bip_39_word_new_line10 | humor
+exhibit
+gravity
+rich
+august
+waste
+client
+coast
+hungry
+keen |  
+| bip_39_word_new_line11 | humor
+exhibit
+gravity
+rich
+august
+waste
+client
+coast
+hungry
+keen
+require |  
+| bip_39_word_new_line12 | humor
+exhibit
+gravity
+rich
+august
+waste
+client
+coast
+hungry
+keen
+require
+attract |  
+| bip_39_word_new_line2 | humor
+exhibit |  
+| bip_39_word_new_line3 | humor
+exhibit
+gravity |  
+| bip_39_word_new_line4 | humor
+exhibit
+gravity
+rich |  
+| bip_39_word_new_line5 | humor
+exhibit
+gravity
+rich
+august |  
+| bip_39_word_new_line6 | humor
+exhibit
+gravity
+rich
+august
+waste |  
+| bip_39_word_new_line7 | humor
+exhibit
+gravity
+rich
+august
+waste
+client |  
+| bip_39_word_new_line8 | humor
+exhibit
+gravity
+rich
+august
+waste
+client
+coast |  
+| bip_39_word_new_line9 | humor
+exhibit
+gravity
+rich
+august
+waste
+client
+coast
+hungry |  
+| bip_39_word_space_0 | ['humor', 'exhibit', 'gravity', 'rich', 'august', 'waste', 'client', 'coast', 'hungry', 'keen', 'require', 'attract'] |  
+| bip_39_word_space_1 | humor |  
+| bip_39_word_space_10 | humor exhibit gravity rich august waste client coast hungry keen |  
+| bip_39_word_space_11 | humor exhibit gravity rich august waste client coast hungry keen require |  
+| bip_39_word_space_12 | humor exhibit gravity rich august waste client coast hungry keen require attract |  
+| bip_39_word_space_2 | humor exhibit |  
+| bip_39_word_space_3 | humor exhibit gravity |  
+| bip_39_word_space_4 | humor exhibit gravity rich |  
+| bip_39_word_space_5 | humor exhibit gravity rich august |  
+| bip_39_word_space_6 | humor exhibit gravity rich august waste |  
+| bip_39_word_space_7 | humor exhibit gravity rich august waste client |  
+| bip_39_word_space_8 | humor exhibit gravity rich august waste client coast |  
+| bip_39_word_space_9 | humor exhibit gravity rich august waste client coast hungry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

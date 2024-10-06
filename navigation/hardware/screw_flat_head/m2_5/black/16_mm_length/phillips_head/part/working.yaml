@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mass
+bip_39_word_new_br10: mass<br>rice<br>educate<br>vanish<br>canoe<br>laundry<br>divorce<br>scale<br>rug<br>acoustic
+bip_39_word_new_br11: mass<br>rice<br>educate<br>vanish<br>canoe<br>laundry<br>divorce<br>scale<br>rug<br>acoustic<br>taste
+bip_39_word_new_br12: mass<br>rice<br>educate<br>vanish<br>canoe<br>laundry<br>divorce<br>scale<br>rug<br>acoustic<br>taste<br>all
+bip_39_word_new_br2: mass<br>rice
+bip_39_word_new_br3: mass<br>rice<br>educate
+bip_39_word_new_br4: mass<br>rice<br>educate<br>vanish
+bip_39_word_new_br5: mass<br>rice<br>educate<br>vanish<br>canoe
+bip_39_word_new_br6: mass<br>rice<br>educate<br>vanish<br>canoe<br>laundry
+bip_39_word_new_br7: mass<br>rice<br>educate<br>vanish<br>canoe<br>laundry<br>divorce
+bip_39_word_new_br8: mass<br>rice<br>educate<br>vanish<br>canoe<br>laundry<br>divorce<br>scale
+bip_39_word_new_br9: mass<br>rice<br>educate<br>vanish<br>canoe<br>laundry<br>divorce<br>scale<br>rug
+bip_39_word_new_line1: mass
+bip_39_word_new_line10: 'mass
+
+  rice
+
+  educate
+
+  vanish
+
+  canoe
+
+  laundry
+
+  divorce
+
+  scale
+
+  rug
+
+  acoustic'
+bip_39_word_new_line11: 'mass
+
+  rice
+
+  educate
+
+  vanish
+
+  canoe
+
+  laundry
+
+  divorce
+
+  scale
+
+  rug
+
+  acoustic
+
+  taste'
+bip_39_word_new_line12: 'mass
+
+  rice
+
+  educate
+
+  vanish
+
+  canoe
+
+  laundry
+
+  divorce
+
+  scale
+
+  rug
+
+  acoustic
+
+  taste
+
+  all'
+bip_39_word_new_line2: 'mass
+
+  rice'
+bip_39_word_new_line3: 'mass
+
+  rice
+
+  educate'
+bip_39_word_new_line4: 'mass
+
+  rice
+
+  educate
+
+  vanish'
+bip_39_word_new_line5: 'mass
+
+  rice
+
+  educate
+
+  vanish
+
+  canoe'
+bip_39_word_new_line6: 'mass
+
+  rice
+
+  educate
+
+  vanish
+
+  canoe
+
+  laundry'
+bip_39_word_new_line7: 'mass
+
+  rice
+
+  educate
+
+  vanish
+
+  canoe
+
+  laundry
+
+  divorce'
+bip_39_word_new_line8: 'mass
+
+  rice
+
+  educate
+
+  vanish
+
+  canoe
+
+  laundry
+
+  divorce
+
+  scale'
+bip_39_word_new_line9: 'mass
+
+  rice
+
+  educate
+
+  vanish
+
+  canoe
+
+  laundry
+
+  divorce
+
+  scale
+
+  rug'
+bip_39_word_space_0:
+- mass
+- rice
+- educate
+- vanish
+- canoe
+- laundry
+- divorce
+- scale
+- rug
+- acoustic
+- taste
+- all
+bip_39_word_space_1: mass
+bip_39_word_space_10: mass rice educate vanish canoe laundry divorce scale rug acoustic
+bip_39_word_space_11: mass rice educate vanish canoe laundry divorce scale rug acoustic
+  taste
+bip_39_word_space_12: mass rice educate vanish canoe laundry divorce scale rug acoustic
+  taste all
+bip_39_word_space_2: mass rice
+bip_39_word_space_3: mass rice educate
+bip_39_word_space_4: mass rice educate vanish
+bip_39_word_space_5: mass rice educate vanish canoe
+bip_39_word_space_6: mass rice educate vanish canoe laundry
+bip_39_word_space_7: mass rice educate vanish canoe laundry divorce
+bip_39_word_space_8: mass rice educate vanish canoe laundry divorce scale
+bip_39_word_space_9: mass rice educate vanish canoe laundry divorce scale rug
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

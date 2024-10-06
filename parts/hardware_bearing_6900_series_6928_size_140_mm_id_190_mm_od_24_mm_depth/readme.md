@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slide water
+  * bip 39 word 3: slide water robot
+  * bip 39 word: slide water robot sense until verb stadium battle stock question wolf athlete
 
 ### other_codes
 * short_code: br6928
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slide |  
+| bip_39_word_new_br10 | slide<br>water<br>robot<br>sense<br>until<br>verb<br>stadium<br>battle<br>stock<br>question |  
+| bip_39_word_new_br11 | slide<br>water<br>robot<br>sense<br>until<br>verb<br>stadium<br>battle<br>stock<br>question<br>wolf |  
+| bip_39_word_new_br12 | slide<br>water<br>robot<br>sense<br>until<br>verb<br>stadium<br>battle<br>stock<br>question<br>wolf<br>athlete |  
+| bip_39_word_new_br2 | slide<br>water |  
+| bip_39_word_new_br3 | slide<br>water<br>robot |  
+| bip_39_word_new_br4 | slide<br>water<br>robot<br>sense |  
+| bip_39_word_new_br5 | slide<br>water<br>robot<br>sense<br>until |  
+| bip_39_word_new_br6 | slide<br>water<br>robot<br>sense<br>until<br>verb |  
+| bip_39_word_new_br7 | slide<br>water<br>robot<br>sense<br>until<br>verb<br>stadium |  
+| bip_39_word_new_br8 | slide<br>water<br>robot<br>sense<br>until<br>verb<br>stadium<br>battle |  
+| bip_39_word_new_br9 | slide<br>water<br>robot<br>sense<br>until<br>verb<br>stadium<br>battle<br>stock |  
+| bip_39_word_new_line1 | slide |  
+| bip_39_word_new_line10 | slide
+water
+robot
+sense
+until
+verb
+stadium
+battle
+stock
+question |  
+| bip_39_word_new_line11 | slide
+water
+robot
+sense
+until
+verb
+stadium
+battle
+stock
+question
+wolf |  
+| bip_39_word_new_line12 | slide
+water
+robot
+sense
+until
+verb
+stadium
+battle
+stock
+question
+wolf
+athlete |  
+| bip_39_word_new_line2 | slide
+water |  
+| bip_39_word_new_line3 | slide
+water
+robot |  
+| bip_39_word_new_line4 | slide
+water
+robot
+sense |  
+| bip_39_word_new_line5 | slide
+water
+robot
+sense
+until |  
+| bip_39_word_new_line6 | slide
+water
+robot
+sense
+until
+verb |  
+| bip_39_word_new_line7 | slide
+water
+robot
+sense
+until
+verb
+stadium |  
+| bip_39_word_new_line8 | slide
+water
+robot
+sense
+until
+verb
+stadium
+battle |  
+| bip_39_word_new_line9 | slide
+water
+robot
+sense
+until
+verb
+stadium
+battle
+stock |  
+| bip_39_word_space_0 | ['slide', 'water', 'robot', 'sense', 'until', 'verb', 'stadium', 'battle', 'stock', 'question', 'wolf', 'athlete'] |  
+| bip_39_word_space_1 | slide |  
+| bip_39_word_space_10 | slide water robot sense until verb stadium battle stock question |  
+| bip_39_word_space_11 | slide water robot sense until verb stadium battle stock question wolf |  
+| bip_39_word_space_12 | slide water robot sense until verb stadium battle stock question wolf athlete |  
+| bip_39_word_space_2 | slide water |  
+| bip_39_word_space_3 | slide water robot |  
+| bip_39_word_space_4 | slide water robot sense |  
+| bip_39_word_space_5 | slide water robot sense until |  
+| bip_39_word_space_6 | slide water robot sense until verb |  
+| bip_39_word_space_7 | slide water robot sense until verb stadium |  
+| bip_39_word_space_8 | slide water robot sense until verb stadium battle |  
+| bip_39_word_space_9 | slide water robot sense until verb stadium battle stock |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

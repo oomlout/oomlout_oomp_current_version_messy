@@ -1,3 +1,187 @@
+bip_39_word_new_br1: scatter
+bip_39_word_new_br10: scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican
+bip_39_word_new_br11: scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican<br>service
+bip_39_word_new_br12: scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom<br>pelican<br>service<br>actor
+bip_39_word_new_br2: scatter<br>special
+bip_39_word_new_br3: scatter<br>special<br>behind
+bip_39_word_new_br4: scatter<br>special<br>behind<br>turkey
+bip_39_word_new_br5: scatter<br>special<br>behind<br>turkey<br>short
+bip_39_word_new_br6: scatter<br>special<br>behind<br>turkey<br>short<br>gravity
+bip_39_word_new_br7: scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain
+bip_39_word_new_br8: scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit
+bip_39_word_new_br9: scatter<br>special<br>behind<br>turkey<br>short<br>gravity<br>gain<br>deposit<br>bottom
+bip_39_word_new_line1: scatter
+bip_39_word_new_line10: 'scatter
+
+  special
+
+  behind
+
+  turkey
+
+  short
+
+  gravity
+
+  gain
+
+  deposit
+
+  bottom
+
+  pelican'
+bip_39_word_new_line11: 'scatter
+
+  special
+
+  behind
+
+  turkey
+
+  short
+
+  gravity
+
+  gain
+
+  deposit
+
+  bottom
+
+  pelican
+
+  service'
+bip_39_word_new_line12: 'scatter
+
+  special
+
+  behind
+
+  turkey
+
+  short
+
+  gravity
+
+  gain
+
+  deposit
+
+  bottom
+
+  pelican
+
+  service
+
+  actor'
+bip_39_word_new_line2: 'scatter
+
+  special'
+bip_39_word_new_line3: 'scatter
+
+  special
+
+  behind'
+bip_39_word_new_line4: 'scatter
+
+  special
+
+  behind
+
+  turkey'
+bip_39_word_new_line5: 'scatter
+
+  special
+
+  behind
+
+  turkey
+
+  short'
+bip_39_word_new_line6: 'scatter
+
+  special
+
+  behind
+
+  turkey
+
+  short
+
+  gravity'
+bip_39_word_new_line7: 'scatter
+
+  special
+
+  behind
+
+  turkey
+
+  short
+
+  gravity
+
+  gain'
+bip_39_word_new_line8: 'scatter
+
+  special
+
+  behind
+
+  turkey
+
+  short
+
+  gravity
+
+  gain
+
+  deposit'
+bip_39_word_new_line9: 'scatter
+
+  special
+
+  behind
+
+  turkey
+
+  short
+
+  gravity
+
+  gain
+
+  deposit
+
+  bottom'
+bip_39_word_space_0:
+- scatter
+- special
+- behind
+- turkey
+- short
+- gravity
+- gain
+- deposit
+- bottom
+- pelican
+- service
+- actor
+bip_39_word_space_1: scatter
+bip_39_word_space_10: scatter special behind turkey short gravity gain deposit bottom
+  pelican
+bip_39_word_space_11: scatter special behind turkey short gravity gain deposit bottom
+  pelican service
+bip_39_word_space_12: scatter special behind turkey short gravity gain deposit bottom
+  pelican service actor
+bip_39_word_space_2: scatter special
+bip_39_word_space_3: scatter special behind
+bip_39_word_space_4: scatter special behind turkey
+bip_39_word_space_5: scatter special behind turkey short
+bip_39_word_space_6: scatter special behind turkey short gravity
+bip_39_word_space_7: scatter special behind turkey short gravity gain
+bip_39_word_space_8: scatter special behind turkey short gravity gain deposit
+bip_39_word_space_9: scatter special behind turkey short gravity gain deposit bottom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

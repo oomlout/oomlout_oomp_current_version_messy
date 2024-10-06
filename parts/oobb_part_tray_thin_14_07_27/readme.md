@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: seven dress
+  * bip 39 word 3: seven dress whisper
+  * bip 39 word: seven dress whisper over banana silent machine behave history kangaroo wrap all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | seven |  
+| bip_39_word_new_br10 | seven<br>dress<br>whisper<br>over<br>banana<br>silent<br>machine<br>behave<br>history<br>kangaroo |  
+| bip_39_word_new_br11 | seven<br>dress<br>whisper<br>over<br>banana<br>silent<br>machine<br>behave<br>history<br>kangaroo<br>wrap |  
+| bip_39_word_new_br12 | seven<br>dress<br>whisper<br>over<br>banana<br>silent<br>machine<br>behave<br>history<br>kangaroo<br>wrap<br>all |  
+| bip_39_word_new_br2 | seven<br>dress |  
+| bip_39_word_new_br3 | seven<br>dress<br>whisper |  
+| bip_39_word_new_br4 | seven<br>dress<br>whisper<br>over |  
+| bip_39_word_new_br5 | seven<br>dress<br>whisper<br>over<br>banana |  
+| bip_39_word_new_br6 | seven<br>dress<br>whisper<br>over<br>banana<br>silent |  
+| bip_39_word_new_br7 | seven<br>dress<br>whisper<br>over<br>banana<br>silent<br>machine |  
+| bip_39_word_new_br8 | seven<br>dress<br>whisper<br>over<br>banana<br>silent<br>machine<br>behave |  
+| bip_39_word_new_br9 | seven<br>dress<br>whisper<br>over<br>banana<br>silent<br>machine<br>behave<br>history |  
+| bip_39_word_new_line1 | seven |  
+| bip_39_word_new_line10 | seven
+dress
+whisper
+over
+banana
+silent
+machine
+behave
+history
+kangaroo |  
+| bip_39_word_new_line11 | seven
+dress
+whisper
+over
+banana
+silent
+machine
+behave
+history
+kangaroo
+wrap |  
+| bip_39_word_new_line12 | seven
+dress
+whisper
+over
+banana
+silent
+machine
+behave
+history
+kangaroo
+wrap
+all |  
+| bip_39_word_new_line2 | seven
+dress |  
+| bip_39_word_new_line3 | seven
+dress
+whisper |  
+| bip_39_word_new_line4 | seven
+dress
+whisper
+over |  
+| bip_39_word_new_line5 | seven
+dress
+whisper
+over
+banana |  
+| bip_39_word_new_line6 | seven
+dress
+whisper
+over
+banana
+silent |  
+| bip_39_word_new_line7 | seven
+dress
+whisper
+over
+banana
+silent
+machine |  
+| bip_39_word_new_line8 | seven
+dress
+whisper
+over
+banana
+silent
+machine
+behave |  
+| bip_39_word_new_line9 | seven
+dress
+whisper
+over
+banana
+silent
+machine
+behave
+history |  
+| bip_39_word_space_0 | ['seven', 'dress', 'whisper', 'over', 'banana', 'silent', 'machine', 'behave', 'history', 'kangaroo', 'wrap', 'all'] |  
+| bip_39_word_space_1 | seven |  
+| bip_39_word_space_10 | seven dress whisper over banana silent machine behave history kangaroo |  
+| bip_39_word_space_11 | seven dress whisper over banana silent machine behave history kangaroo wrap |  
+| bip_39_word_space_12 | seven dress whisper over banana silent machine behave history kangaroo wrap all |  
+| bip_39_word_space_2 | seven dress |  
+| bip_39_word_space_3 | seven dress whisper |  
+| bip_39_word_space_4 | seven dress whisper over |  
+| bip_39_word_space_5 | seven dress whisper over banana |  
+| bip_39_word_space_6 | seven dress whisper over banana silent |  
+| bip_39_word_space_7 | seven dress whisper over banana silent machine |  
+| bip_39_word_space_8 | seven dress whisper over banana silent machine behave |  
+| bip_39_word_space_9 | seven dress whisper over banana silent machine behave history |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

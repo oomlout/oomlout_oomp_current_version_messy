@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glimpse range
+  * bip 39 word 3: glimpse range piece
+  * bip 39 word: glimpse range piece clap trouble almost budget fly course stock foot agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glimpse |  
+| bip_39_word_new_br10 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost<br>budget<br>fly<br>course<br>stock |  
+| bip_39_word_new_br11 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost<br>budget<br>fly<br>course<br>stock<br>foot |  
+| bip_39_word_new_br12 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost<br>budget<br>fly<br>course<br>stock<br>foot<br>agent |  
+| bip_39_word_new_br2 | glimpse<br>range |  
+| bip_39_word_new_br3 | glimpse<br>range<br>piece |  
+| bip_39_word_new_br4 | glimpse<br>range<br>piece<br>clap |  
+| bip_39_word_new_br5 | glimpse<br>range<br>piece<br>clap<br>trouble |  
+| bip_39_word_new_br6 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost |  
+| bip_39_word_new_br7 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost<br>budget |  
+| bip_39_word_new_br8 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost<br>budget<br>fly |  
+| bip_39_word_new_br9 | glimpse<br>range<br>piece<br>clap<br>trouble<br>almost<br>budget<br>fly<br>course |  
+| bip_39_word_new_line1 | glimpse |  
+| bip_39_word_new_line10 | glimpse
+range
+piece
+clap
+trouble
+almost
+budget
+fly
+course
+stock |  
+| bip_39_word_new_line11 | glimpse
+range
+piece
+clap
+trouble
+almost
+budget
+fly
+course
+stock
+foot |  
+| bip_39_word_new_line12 | glimpse
+range
+piece
+clap
+trouble
+almost
+budget
+fly
+course
+stock
+foot
+agent |  
+| bip_39_word_new_line2 | glimpse
+range |  
+| bip_39_word_new_line3 | glimpse
+range
+piece |  
+| bip_39_word_new_line4 | glimpse
+range
+piece
+clap |  
+| bip_39_word_new_line5 | glimpse
+range
+piece
+clap
+trouble |  
+| bip_39_word_new_line6 | glimpse
+range
+piece
+clap
+trouble
+almost |  
+| bip_39_word_new_line7 | glimpse
+range
+piece
+clap
+trouble
+almost
+budget |  
+| bip_39_word_new_line8 | glimpse
+range
+piece
+clap
+trouble
+almost
+budget
+fly |  
+| bip_39_word_new_line9 | glimpse
+range
+piece
+clap
+trouble
+almost
+budget
+fly
+course |  
+| bip_39_word_space_0 | ['glimpse', 'range', 'piece', 'clap', 'trouble', 'almost', 'budget', 'fly', 'course', 'stock', 'foot', 'agent'] |  
+| bip_39_word_space_1 | glimpse |  
+| bip_39_word_space_10 | glimpse range piece clap trouble almost budget fly course stock |  
+| bip_39_word_space_11 | glimpse range piece clap trouble almost budget fly course stock foot |  
+| bip_39_word_space_12 | glimpse range piece clap trouble almost budget fly course stock foot agent |  
+| bip_39_word_space_2 | glimpse range |  
+| bip_39_word_space_3 | glimpse range piece |  
+| bip_39_word_space_4 | glimpse range piece clap |  
+| bip_39_word_space_5 | glimpse range piece clap trouble |  
+| bip_39_word_space_6 | glimpse range piece clap trouble almost |  
+| bip_39_word_space_7 | glimpse range piece clap trouble almost budget |  
+| bip_39_word_space_8 | glimpse range piece clap trouble almost budget fly |  
+| bip_39_word_space_9 | glimpse range piece clap trouble almost budget fly course |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

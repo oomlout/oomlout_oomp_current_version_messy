@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diesel caught
+  * bip 39 word 3: diesel caught toilet
+  * bip 39 word: diesel caught toilet abuse marriage olympic day nice fold alone index anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diesel |  
+| bip_39_word_new_br10 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic<br>day<br>nice<br>fold<br>alone |  
+| bip_39_word_new_br11 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic<br>day<br>nice<br>fold<br>alone<br>index |  
+| bip_39_word_new_br12 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic<br>day<br>nice<br>fold<br>alone<br>index<br>anger |  
+| bip_39_word_new_br2 | diesel<br>caught |  
+| bip_39_word_new_br3 | diesel<br>caught<br>toilet |  
+| bip_39_word_new_br4 | diesel<br>caught<br>toilet<br>abuse |  
+| bip_39_word_new_br5 | diesel<br>caught<br>toilet<br>abuse<br>marriage |  
+| bip_39_word_new_br6 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic |  
+| bip_39_word_new_br7 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic<br>day |  
+| bip_39_word_new_br8 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic<br>day<br>nice |  
+| bip_39_word_new_br9 | diesel<br>caught<br>toilet<br>abuse<br>marriage<br>olympic<br>day<br>nice<br>fold |  
+| bip_39_word_new_line1 | diesel |  
+| bip_39_word_new_line10 | diesel
+caught
+toilet
+abuse
+marriage
+olympic
+day
+nice
+fold
+alone |  
+| bip_39_word_new_line11 | diesel
+caught
+toilet
+abuse
+marriage
+olympic
+day
+nice
+fold
+alone
+index |  
+| bip_39_word_new_line12 | diesel
+caught
+toilet
+abuse
+marriage
+olympic
+day
+nice
+fold
+alone
+index
+anger |  
+| bip_39_word_new_line2 | diesel
+caught |  
+| bip_39_word_new_line3 | diesel
+caught
+toilet |  
+| bip_39_word_new_line4 | diesel
+caught
+toilet
+abuse |  
+| bip_39_word_new_line5 | diesel
+caught
+toilet
+abuse
+marriage |  
+| bip_39_word_new_line6 | diesel
+caught
+toilet
+abuse
+marriage
+olympic |  
+| bip_39_word_new_line7 | diesel
+caught
+toilet
+abuse
+marriage
+olympic
+day |  
+| bip_39_word_new_line8 | diesel
+caught
+toilet
+abuse
+marriage
+olympic
+day
+nice |  
+| bip_39_word_new_line9 | diesel
+caught
+toilet
+abuse
+marriage
+olympic
+day
+nice
+fold |  
+| bip_39_word_space_0 | ['diesel', 'caught', 'toilet', 'abuse', 'marriage', 'olympic', 'day', 'nice', 'fold', 'alone', 'index', 'anger'] |  
+| bip_39_word_space_1 | diesel |  
+| bip_39_word_space_10 | diesel caught toilet abuse marriage olympic day nice fold alone |  
+| bip_39_word_space_11 | diesel caught toilet abuse marriage olympic day nice fold alone index |  
+| bip_39_word_space_12 | diesel caught toilet abuse marriage olympic day nice fold alone index anger |  
+| bip_39_word_space_2 | diesel caught |  
+| bip_39_word_space_3 | diesel caught toilet |  
+| bip_39_word_space_4 | diesel caught toilet abuse |  
+| bip_39_word_space_5 | diesel caught toilet abuse marriage |  
+| bip_39_word_space_6 | diesel caught toilet abuse marriage olympic |  
+| bip_39_word_space_7 | diesel caught toilet abuse marriage olympic day |  
+| bip_39_word_space_8 | diesel caught toilet abuse marriage olympic day nice |  
+| bip_39_word_space_9 | diesel caught toilet abuse marriage olympic day nice fold |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

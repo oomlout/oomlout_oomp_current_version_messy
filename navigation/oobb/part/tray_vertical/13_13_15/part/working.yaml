@@ -1,3 +1,186 @@
+bip_39_word_new_br1: motion
+bip_39_word_new_br10: motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal
+bip_39_word_new_br11: motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal<br>book
+bip_39_word_new_br12: motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order<br>legal<br>book<br>allow
+bip_39_word_new_br2: motion<br>edge
+bip_39_word_new_br3: motion<br>edge<br>planet
+bip_39_word_new_br4: motion<br>edge<br>planet<br>critic
+bip_39_word_new_br5: motion<br>edge<br>planet<br>critic<br>visual
+bip_39_word_new_br6: motion<br>edge<br>planet<br>critic<br>visual<br>vague
+bip_39_word_new_br7: motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert
+bip_39_word_new_br8: motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote
+bip_39_word_new_br9: motion<br>edge<br>planet<br>critic<br>visual<br>vague<br>divert<br>quote<br>order
+bip_39_word_new_line1: motion
+bip_39_word_new_line10: 'motion
+
+  edge
+
+  planet
+
+  critic
+
+  visual
+
+  vague
+
+  divert
+
+  quote
+
+  order
+
+  legal'
+bip_39_word_new_line11: 'motion
+
+  edge
+
+  planet
+
+  critic
+
+  visual
+
+  vague
+
+  divert
+
+  quote
+
+  order
+
+  legal
+
+  book'
+bip_39_word_new_line12: 'motion
+
+  edge
+
+  planet
+
+  critic
+
+  visual
+
+  vague
+
+  divert
+
+  quote
+
+  order
+
+  legal
+
+  book
+
+  allow'
+bip_39_word_new_line2: 'motion
+
+  edge'
+bip_39_word_new_line3: 'motion
+
+  edge
+
+  planet'
+bip_39_word_new_line4: 'motion
+
+  edge
+
+  planet
+
+  critic'
+bip_39_word_new_line5: 'motion
+
+  edge
+
+  planet
+
+  critic
+
+  visual'
+bip_39_word_new_line6: 'motion
+
+  edge
+
+  planet
+
+  critic
+
+  visual
+
+  vague'
+bip_39_word_new_line7: 'motion
+
+  edge
+
+  planet
+
+  critic
+
+  visual
+
+  vague
+
+  divert'
+bip_39_word_new_line8: 'motion
+
+  edge
+
+  planet
+
+  critic
+
+  visual
+
+  vague
+
+  divert
+
+  quote'
+bip_39_word_new_line9: 'motion
+
+  edge
+
+  planet
+
+  critic
+
+  visual
+
+  vague
+
+  divert
+
+  quote
+
+  order'
+bip_39_word_space_0:
+- motion
+- edge
+- planet
+- critic
+- visual
+- vague
+- divert
+- quote
+- order
+- legal
+- book
+- allow
+bip_39_word_space_1: motion
+bip_39_word_space_10: motion edge planet critic visual vague divert quote order legal
+bip_39_word_space_11: motion edge planet critic visual vague divert quote order legal
+  book
+bip_39_word_space_12: motion edge planet critic visual vague divert quote order legal
+  book allow
+bip_39_word_space_2: motion edge
+bip_39_word_space_3: motion edge planet
+bip_39_word_space_4: motion edge planet critic
+bip_39_word_space_5: motion edge planet critic visual
+bip_39_word_space_6: motion edge planet critic visual vague
+bip_39_word_space_7: motion edge planet critic visual vague divert
+bip_39_word_space_8: motion edge planet critic visual vague divert quote
+bip_39_word_space_9: motion edge planet critic visual vague divert quote order
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

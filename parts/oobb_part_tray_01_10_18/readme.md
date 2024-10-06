@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: common build
+  * bip 39 word 3: common build island
+  * bip 39 word: common build island ring age wrestle tortoise build impulse gauge glue attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | common |  
+| bip_39_word_new_br10 | common<br>build<br>island<br>ring<br>age<br>wrestle<br>tortoise<br>build<br>impulse<br>gauge |  
+| bip_39_word_new_br11 | common<br>build<br>island<br>ring<br>age<br>wrestle<br>tortoise<br>build<br>impulse<br>gauge<br>glue |  
+| bip_39_word_new_br12 | common<br>build<br>island<br>ring<br>age<br>wrestle<br>tortoise<br>build<br>impulse<br>gauge<br>glue<br>attract |  
+| bip_39_word_new_br2 | common<br>build |  
+| bip_39_word_new_br3 | common<br>build<br>island |  
+| bip_39_word_new_br4 | common<br>build<br>island<br>ring |  
+| bip_39_word_new_br5 | common<br>build<br>island<br>ring<br>age |  
+| bip_39_word_new_br6 | common<br>build<br>island<br>ring<br>age<br>wrestle |  
+| bip_39_word_new_br7 | common<br>build<br>island<br>ring<br>age<br>wrestle<br>tortoise |  
+| bip_39_word_new_br8 | common<br>build<br>island<br>ring<br>age<br>wrestle<br>tortoise<br>build |  
+| bip_39_word_new_br9 | common<br>build<br>island<br>ring<br>age<br>wrestle<br>tortoise<br>build<br>impulse |  
+| bip_39_word_new_line1 | common |  
+| bip_39_word_new_line10 | common
+build
+island
+ring
+age
+wrestle
+tortoise
+build
+impulse
+gauge |  
+| bip_39_word_new_line11 | common
+build
+island
+ring
+age
+wrestle
+tortoise
+build
+impulse
+gauge
+glue |  
+| bip_39_word_new_line12 | common
+build
+island
+ring
+age
+wrestle
+tortoise
+build
+impulse
+gauge
+glue
+attract |  
+| bip_39_word_new_line2 | common
+build |  
+| bip_39_word_new_line3 | common
+build
+island |  
+| bip_39_word_new_line4 | common
+build
+island
+ring |  
+| bip_39_word_new_line5 | common
+build
+island
+ring
+age |  
+| bip_39_word_new_line6 | common
+build
+island
+ring
+age
+wrestle |  
+| bip_39_word_new_line7 | common
+build
+island
+ring
+age
+wrestle
+tortoise |  
+| bip_39_word_new_line8 | common
+build
+island
+ring
+age
+wrestle
+tortoise
+build |  
+| bip_39_word_new_line9 | common
+build
+island
+ring
+age
+wrestle
+tortoise
+build
+impulse |  
+| bip_39_word_space_0 | ['common', 'build', 'island', 'ring', 'age', 'wrestle', 'tortoise', 'build', 'impulse', 'gauge', 'glue', 'attract'] |  
+| bip_39_word_space_1 | common |  
+| bip_39_word_space_10 | common build island ring age wrestle tortoise build impulse gauge |  
+| bip_39_word_space_11 | common build island ring age wrestle tortoise build impulse gauge glue |  
+| bip_39_word_space_12 | common build island ring age wrestle tortoise build impulse gauge glue attract |  
+| bip_39_word_space_2 | common build |  
+| bip_39_word_space_3 | common build island |  
+| bip_39_word_space_4 | common build island ring |  
+| bip_39_word_space_5 | common build island ring age |  
+| bip_39_word_space_6 | common build island ring age wrestle |  
+| bip_39_word_space_7 | common build island ring age wrestle tortoise |  
+| bip_39_word_space_8 | common build island ring age wrestle tortoise build |  
+| bip_39_word_space_9 | common build island ring age wrestle tortoise build impulse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

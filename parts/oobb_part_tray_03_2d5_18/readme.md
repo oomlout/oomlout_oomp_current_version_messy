@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: creek west
+  * bip 39 word 3: creek west grab
+  * bip 39 word: creek west grab outside able cable arctic lemon laugh output exhibit arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | creek |  
+| bip_39_word_new_br10 | creek<br>west<br>grab<br>outside<br>able<br>cable<br>arctic<br>lemon<br>laugh<br>output |  
+| bip_39_word_new_br11 | creek<br>west<br>grab<br>outside<br>able<br>cable<br>arctic<br>lemon<br>laugh<br>output<br>exhibit |  
+| bip_39_word_new_br12 | creek<br>west<br>grab<br>outside<br>able<br>cable<br>arctic<br>lemon<br>laugh<br>output<br>exhibit<br>arrange |  
+| bip_39_word_new_br2 | creek<br>west |  
+| bip_39_word_new_br3 | creek<br>west<br>grab |  
+| bip_39_word_new_br4 | creek<br>west<br>grab<br>outside |  
+| bip_39_word_new_br5 | creek<br>west<br>grab<br>outside<br>able |  
+| bip_39_word_new_br6 | creek<br>west<br>grab<br>outside<br>able<br>cable |  
+| bip_39_word_new_br7 | creek<br>west<br>grab<br>outside<br>able<br>cable<br>arctic |  
+| bip_39_word_new_br8 | creek<br>west<br>grab<br>outside<br>able<br>cable<br>arctic<br>lemon |  
+| bip_39_word_new_br9 | creek<br>west<br>grab<br>outside<br>able<br>cable<br>arctic<br>lemon<br>laugh |  
+| bip_39_word_new_line1 | creek |  
+| bip_39_word_new_line10 | creek
+west
+grab
+outside
+able
+cable
+arctic
+lemon
+laugh
+output |  
+| bip_39_word_new_line11 | creek
+west
+grab
+outside
+able
+cable
+arctic
+lemon
+laugh
+output
+exhibit |  
+| bip_39_word_new_line12 | creek
+west
+grab
+outside
+able
+cable
+arctic
+lemon
+laugh
+output
+exhibit
+arrange |  
+| bip_39_word_new_line2 | creek
+west |  
+| bip_39_word_new_line3 | creek
+west
+grab |  
+| bip_39_word_new_line4 | creek
+west
+grab
+outside |  
+| bip_39_word_new_line5 | creek
+west
+grab
+outside
+able |  
+| bip_39_word_new_line6 | creek
+west
+grab
+outside
+able
+cable |  
+| bip_39_word_new_line7 | creek
+west
+grab
+outside
+able
+cable
+arctic |  
+| bip_39_word_new_line8 | creek
+west
+grab
+outside
+able
+cable
+arctic
+lemon |  
+| bip_39_word_new_line9 | creek
+west
+grab
+outside
+able
+cable
+arctic
+lemon
+laugh |  
+| bip_39_word_space_0 | ['creek', 'west', 'grab', 'outside', 'able', 'cable', 'arctic', 'lemon', 'laugh', 'output', 'exhibit', 'arrange'] |  
+| bip_39_word_space_1 | creek |  
+| bip_39_word_space_10 | creek west grab outside able cable arctic lemon laugh output |  
+| bip_39_word_space_11 | creek west grab outside able cable arctic lemon laugh output exhibit |  
+| bip_39_word_space_12 | creek west grab outside able cable arctic lemon laugh output exhibit arrange |  
+| bip_39_word_space_2 | creek west |  
+| bip_39_word_space_3 | creek west grab |  
+| bip_39_word_space_4 | creek west grab outside |  
+| bip_39_word_space_5 | creek west grab outside able |  
+| bip_39_word_space_6 | creek west grab outside able cable |  
+| bip_39_word_space_7 | creek west grab outside able cable arctic |  
+| bip_39_word_space_8 | creek west grab outside able cable arctic lemon |  
+| bip_39_word_space_9 | creek west grab outside able cable arctic lemon laugh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: document differ
+  * bip 39 word 3: document differ wealth
+  * bip 39 word: document differ wealth note floor rotate shoe tennis monster enforce live actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | document |  
+| bip_39_word_new_br10 | document<br>differ<br>wealth<br>note<br>floor<br>rotate<br>shoe<br>tennis<br>monster<br>enforce |  
+| bip_39_word_new_br11 | document<br>differ<br>wealth<br>note<br>floor<br>rotate<br>shoe<br>tennis<br>monster<br>enforce<br>live |  
+| bip_39_word_new_br12 | document<br>differ<br>wealth<br>note<br>floor<br>rotate<br>shoe<br>tennis<br>monster<br>enforce<br>live<br>actual |  
+| bip_39_word_new_br2 | document<br>differ |  
+| bip_39_word_new_br3 | document<br>differ<br>wealth |  
+| bip_39_word_new_br4 | document<br>differ<br>wealth<br>note |  
+| bip_39_word_new_br5 | document<br>differ<br>wealth<br>note<br>floor |  
+| bip_39_word_new_br6 | document<br>differ<br>wealth<br>note<br>floor<br>rotate |  
+| bip_39_word_new_br7 | document<br>differ<br>wealth<br>note<br>floor<br>rotate<br>shoe |  
+| bip_39_word_new_br8 | document<br>differ<br>wealth<br>note<br>floor<br>rotate<br>shoe<br>tennis |  
+| bip_39_word_new_br9 | document<br>differ<br>wealth<br>note<br>floor<br>rotate<br>shoe<br>tennis<br>monster |  
+| bip_39_word_new_line1 | document |  
+| bip_39_word_new_line10 | document
+differ
+wealth
+note
+floor
+rotate
+shoe
+tennis
+monster
+enforce |  
+| bip_39_word_new_line11 | document
+differ
+wealth
+note
+floor
+rotate
+shoe
+tennis
+monster
+enforce
+live |  
+| bip_39_word_new_line12 | document
+differ
+wealth
+note
+floor
+rotate
+shoe
+tennis
+monster
+enforce
+live
+actual |  
+| bip_39_word_new_line2 | document
+differ |  
+| bip_39_word_new_line3 | document
+differ
+wealth |  
+| bip_39_word_new_line4 | document
+differ
+wealth
+note |  
+| bip_39_word_new_line5 | document
+differ
+wealth
+note
+floor |  
+| bip_39_word_new_line6 | document
+differ
+wealth
+note
+floor
+rotate |  
+| bip_39_word_new_line7 | document
+differ
+wealth
+note
+floor
+rotate
+shoe |  
+| bip_39_word_new_line8 | document
+differ
+wealth
+note
+floor
+rotate
+shoe
+tennis |  
+| bip_39_word_new_line9 | document
+differ
+wealth
+note
+floor
+rotate
+shoe
+tennis
+monster |  
+| bip_39_word_space_0 | ['document', 'differ', 'wealth', 'note', 'floor', 'rotate', 'shoe', 'tennis', 'monster', 'enforce', 'live', 'actual'] |  
+| bip_39_word_space_1 | document |  
+| bip_39_word_space_10 | document differ wealth note floor rotate shoe tennis monster enforce |  
+| bip_39_word_space_11 | document differ wealth note floor rotate shoe tennis monster enforce live |  
+| bip_39_word_space_12 | document differ wealth note floor rotate shoe tennis monster enforce live actual |  
+| bip_39_word_space_2 | document differ |  
+| bip_39_word_space_3 | document differ wealth |  
+| bip_39_word_space_4 | document differ wealth note |  
+| bip_39_word_space_5 | document differ wealth note floor |  
+| bip_39_word_space_6 | document differ wealth note floor rotate |  
+| bip_39_word_space_7 | document differ wealth note floor rotate shoe |  
+| bip_39_word_space_8 | document differ wealth note floor rotate shoe tennis |  
+| bip_39_word_space_9 | document differ wealth note floor rotate shoe tennis monster |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

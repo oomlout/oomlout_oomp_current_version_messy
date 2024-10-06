@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mushroom build
+  * bip 39 word 3: mushroom build winter
+  * bip 39 word: mushroom build winter sauce iron present flavor forest wish live crunch aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mushroom |  
+| bip_39_word_new_br10 | mushroom<br>build<br>winter<br>sauce<br>iron<br>present<br>flavor<br>forest<br>wish<br>live |  
+| bip_39_word_new_br11 | mushroom<br>build<br>winter<br>sauce<br>iron<br>present<br>flavor<br>forest<br>wish<br>live<br>crunch |  
+| bip_39_word_new_br12 | mushroom<br>build<br>winter<br>sauce<br>iron<br>present<br>flavor<br>forest<br>wish<br>live<br>crunch<br>aerobic |  
+| bip_39_word_new_br2 | mushroom<br>build |  
+| bip_39_word_new_br3 | mushroom<br>build<br>winter |  
+| bip_39_word_new_br4 | mushroom<br>build<br>winter<br>sauce |  
+| bip_39_word_new_br5 | mushroom<br>build<br>winter<br>sauce<br>iron |  
+| bip_39_word_new_br6 | mushroom<br>build<br>winter<br>sauce<br>iron<br>present |  
+| bip_39_word_new_br7 | mushroom<br>build<br>winter<br>sauce<br>iron<br>present<br>flavor |  
+| bip_39_word_new_br8 | mushroom<br>build<br>winter<br>sauce<br>iron<br>present<br>flavor<br>forest |  
+| bip_39_word_new_br9 | mushroom<br>build<br>winter<br>sauce<br>iron<br>present<br>flavor<br>forest<br>wish |  
+| bip_39_word_new_line1 | mushroom |  
+| bip_39_word_new_line10 | mushroom
+build
+winter
+sauce
+iron
+present
+flavor
+forest
+wish
+live |  
+| bip_39_word_new_line11 | mushroom
+build
+winter
+sauce
+iron
+present
+flavor
+forest
+wish
+live
+crunch |  
+| bip_39_word_new_line12 | mushroom
+build
+winter
+sauce
+iron
+present
+flavor
+forest
+wish
+live
+crunch
+aerobic |  
+| bip_39_word_new_line2 | mushroom
+build |  
+| bip_39_word_new_line3 | mushroom
+build
+winter |  
+| bip_39_word_new_line4 | mushroom
+build
+winter
+sauce |  
+| bip_39_word_new_line5 | mushroom
+build
+winter
+sauce
+iron |  
+| bip_39_word_new_line6 | mushroom
+build
+winter
+sauce
+iron
+present |  
+| bip_39_word_new_line7 | mushroom
+build
+winter
+sauce
+iron
+present
+flavor |  
+| bip_39_word_new_line8 | mushroom
+build
+winter
+sauce
+iron
+present
+flavor
+forest |  
+| bip_39_word_new_line9 | mushroom
+build
+winter
+sauce
+iron
+present
+flavor
+forest
+wish |  
+| bip_39_word_space_0 | ['mushroom', 'build', 'winter', 'sauce', 'iron', 'present', 'flavor', 'forest', 'wish', 'live', 'crunch', 'aerobic'] |  
+| bip_39_word_space_1 | mushroom |  
+| bip_39_word_space_10 | mushroom build winter sauce iron present flavor forest wish live |  
+| bip_39_word_space_11 | mushroom build winter sauce iron present flavor forest wish live crunch |  
+| bip_39_word_space_12 | mushroom build winter sauce iron present flavor forest wish live crunch aerobic |  
+| bip_39_word_space_2 | mushroom build |  
+| bip_39_word_space_3 | mushroom build winter |  
+| bip_39_word_space_4 | mushroom build winter sauce |  
+| bip_39_word_space_5 | mushroom build winter sauce iron |  
+| bip_39_word_space_6 | mushroom build winter sauce iron present |  
+| bip_39_word_space_7 | mushroom build winter sauce iron present flavor |  
+| bip_39_word_space_8 | mushroom build winter sauce iron present flavor forest |  
+| bip_39_word_space_9 | mushroom build winter sauce iron present flavor forest wish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

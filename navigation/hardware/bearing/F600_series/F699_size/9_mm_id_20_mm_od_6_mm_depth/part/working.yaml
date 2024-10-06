@@ -1,3 +1,187 @@
+bip_39_word_new_br1: split
+bip_39_word_new_br10: split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first
+bip_39_word_new_br11: split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first<br>obey
+bip_39_word_new_br12: split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found<br>first<br>obey<br>action
+bip_39_word_new_br2: split<br>improve
+bip_39_word_new_br3: split<br>improve<br>will
+bip_39_word_new_br4: split<br>improve<br>will<br>recycle
+bip_39_word_new_br5: split<br>improve<br>will<br>recycle<br>sign
+bip_39_word_new_br6: split<br>improve<br>will<br>recycle<br>sign<br>spell
+bip_39_word_new_br7: split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent
+bip_39_word_new_br8: split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install
+bip_39_word_new_br9: split<br>improve<br>will<br>recycle<br>sign<br>spell<br>innocent<br>install<br>found
+bip_39_word_new_line1: split
+bip_39_word_new_line10: 'split
+
+  improve
+
+  will
+
+  recycle
+
+  sign
+
+  spell
+
+  innocent
+
+  install
+
+  found
+
+  first'
+bip_39_word_new_line11: 'split
+
+  improve
+
+  will
+
+  recycle
+
+  sign
+
+  spell
+
+  innocent
+
+  install
+
+  found
+
+  first
+
+  obey'
+bip_39_word_new_line12: 'split
+
+  improve
+
+  will
+
+  recycle
+
+  sign
+
+  spell
+
+  innocent
+
+  install
+
+  found
+
+  first
+
+  obey
+
+  action'
+bip_39_word_new_line2: 'split
+
+  improve'
+bip_39_word_new_line3: 'split
+
+  improve
+
+  will'
+bip_39_word_new_line4: 'split
+
+  improve
+
+  will
+
+  recycle'
+bip_39_word_new_line5: 'split
+
+  improve
+
+  will
+
+  recycle
+
+  sign'
+bip_39_word_new_line6: 'split
+
+  improve
+
+  will
+
+  recycle
+
+  sign
+
+  spell'
+bip_39_word_new_line7: 'split
+
+  improve
+
+  will
+
+  recycle
+
+  sign
+
+  spell
+
+  innocent'
+bip_39_word_new_line8: 'split
+
+  improve
+
+  will
+
+  recycle
+
+  sign
+
+  spell
+
+  innocent
+
+  install'
+bip_39_word_new_line9: 'split
+
+  improve
+
+  will
+
+  recycle
+
+  sign
+
+  spell
+
+  innocent
+
+  install
+
+  found'
+bip_39_word_space_0:
+- split
+- improve
+- will
+- recycle
+- sign
+- spell
+- innocent
+- install
+- found
+- first
+- obey
+- action
+bip_39_word_space_1: split
+bip_39_word_space_10: split improve will recycle sign spell innocent install found
+  first
+bip_39_word_space_11: split improve will recycle sign spell innocent install found
+  first obey
+bip_39_word_space_12: split improve will recycle sign spell innocent install found
+  first obey action
+bip_39_word_space_2: split improve
+bip_39_word_space_3: split improve will
+bip_39_word_space_4: split improve will recycle
+bip_39_word_space_5: split improve will recycle sign
+bip_39_word_space_6: split improve will recycle sign spell
+bip_39_word_space_7: split improve will recycle sign spell innocent
+bip_39_word_space_8: split improve will recycle sign spell innocent install
+bip_39_word_space_9: split improve will recycle sign spell innocent install found
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

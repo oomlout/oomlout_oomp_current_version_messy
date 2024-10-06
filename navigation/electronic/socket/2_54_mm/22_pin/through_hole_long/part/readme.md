@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: team express
+  * bip 39 word 3: team express devote
+  * bip 39 word: team express devote symbol attend ball april device cousin panel paper assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | team |  
+| bip_39_word_new_br10 | team<br>express<br>devote<br>symbol<br>attend<br>ball<br>april<br>device<br>cousin<br>panel |  
+| bip_39_word_new_br11 | team<br>express<br>devote<br>symbol<br>attend<br>ball<br>april<br>device<br>cousin<br>panel<br>paper |  
+| bip_39_word_new_br12 | team<br>express<br>devote<br>symbol<br>attend<br>ball<br>april<br>device<br>cousin<br>panel<br>paper<br>assault |  
+| bip_39_word_new_br2 | team<br>express |  
+| bip_39_word_new_br3 | team<br>express<br>devote |  
+| bip_39_word_new_br4 | team<br>express<br>devote<br>symbol |  
+| bip_39_word_new_br5 | team<br>express<br>devote<br>symbol<br>attend |  
+| bip_39_word_new_br6 | team<br>express<br>devote<br>symbol<br>attend<br>ball |  
+| bip_39_word_new_br7 | team<br>express<br>devote<br>symbol<br>attend<br>ball<br>april |  
+| bip_39_word_new_br8 | team<br>express<br>devote<br>symbol<br>attend<br>ball<br>april<br>device |  
+| bip_39_word_new_br9 | team<br>express<br>devote<br>symbol<br>attend<br>ball<br>april<br>device<br>cousin |  
+| bip_39_word_new_line1 | team |  
+| bip_39_word_new_line10 | team
+express
+devote
+symbol
+attend
+ball
+april
+device
+cousin
+panel |  
+| bip_39_word_new_line11 | team
+express
+devote
+symbol
+attend
+ball
+april
+device
+cousin
+panel
+paper |  
+| bip_39_word_new_line12 | team
+express
+devote
+symbol
+attend
+ball
+april
+device
+cousin
+panel
+paper
+assault |  
+| bip_39_word_new_line2 | team
+express |  
+| bip_39_word_new_line3 | team
+express
+devote |  
+| bip_39_word_new_line4 | team
+express
+devote
+symbol |  
+| bip_39_word_new_line5 | team
+express
+devote
+symbol
+attend |  
+| bip_39_word_new_line6 | team
+express
+devote
+symbol
+attend
+ball |  
+| bip_39_word_new_line7 | team
+express
+devote
+symbol
+attend
+ball
+april |  
+| bip_39_word_new_line8 | team
+express
+devote
+symbol
+attend
+ball
+april
+device |  
+| bip_39_word_new_line9 | team
+express
+devote
+symbol
+attend
+ball
+april
+device
+cousin |  
+| bip_39_word_space_0 | ['team', 'express', 'devote', 'symbol', 'attend', 'ball', 'april', 'device', 'cousin', 'panel', 'paper', 'assault'] |  
+| bip_39_word_space_1 | team |  
+| bip_39_word_space_10 | team express devote symbol attend ball april device cousin panel |  
+| bip_39_word_space_11 | team express devote symbol attend ball april device cousin panel paper |  
+| bip_39_word_space_12 | team express devote symbol attend ball april device cousin panel paper assault |  
+| bip_39_word_space_2 | team express |  
+| bip_39_word_space_3 | team express devote |  
+| bip_39_word_space_4 | team express devote symbol |  
+| bip_39_word_space_5 | team express devote symbol attend |  
+| bip_39_word_space_6 | team express devote symbol attend ball |  
+| bip_39_word_space_7 | team express devote symbol attend ball april |  
+| bip_39_word_space_8 | team express devote symbol attend ball april device |  
+| bip_39_word_space_9 | team express devote symbol attend ball april device cousin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

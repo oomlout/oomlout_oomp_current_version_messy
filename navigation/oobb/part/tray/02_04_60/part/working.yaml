@@ -1,3 +1,185 @@
+bip_39_word_new_br1: path
+bip_39_word_new_br10: path<br>claw<br>giggle<br>jazz<br>guard<br>add<br>diesel<br>blossom<br>awful<br>toe
+bip_39_word_new_br11: path<br>claw<br>giggle<br>jazz<br>guard<br>add<br>diesel<br>blossom<br>awful<br>toe<br>program
+bip_39_word_new_br12: path<br>claw<br>giggle<br>jazz<br>guard<br>add<br>diesel<br>blossom<br>awful<br>toe<br>program<br>allow
+bip_39_word_new_br2: path<br>claw
+bip_39_word_new_br3: path<br>claw<br>giggle
+bip_39_word_new_br4: path<br>claw<br>giggle<br>jazz
+bip_39_word_new_br5: path<br>claw<br>giggle<br>jazz<br>guard
+bip_39_word_new_br6: path<br>claw<br>giggle<br>jazz<br>guard<br>add
+bip_39_word_new_br7: path<br>claw<br>giggle<br>jazz<br>guard<br>add<br>diesel
+bip_39_word_new_br8: path<br>claw<br>giggle<br>jazz<br>guard<br>add<br>diesel<br>blossom
+bip_39_word_new_br9: path<br>claw<br>giggle<br>jazz<br>guard<br>add<br>diesel<br>blossom<br>awful
+bip_39_word_new_line1: path
+bip_39_word_new_line10: 'path
+
+  claw
+
+  giggle
+
+  jazz
+
+  guard
+
+  add
+
+  diesel
+
+  blossom
+
+  awful
+
+  toe'
+bip_39_word_new_line11: 'path
+
+  claw
+
+  giggle
+
+  jazz
+
+  guard
+
+  add
+
+  diesel
+
+  blossom
+
+  awful
+
+  toe
+
+  program'
+bip_39_word_new_line12: 'path
+
+  claw
+
+  giggle
+
+  jazz
+
+  guard
+
+  add
+
+  diesel
+
+  blossom
+
+  awful
+
+  toe
+
+  program
+
+  allow'
+bip_39_word_new_line2: 'path
+
+  claw'
+bip_39_word_new_line3: 'path
+
+  claw
+
+  giggle'
+bip_39_word_new_line4: 'path
+
+  claw
+
+  giggle
+
+  jazz'
+bip_39_word_new_line5: 'path
+
+  claw
+
+  giggle
+
+  jazz
+
+  guard'
+bip_39_word_new_line6: 'path
+
+  claw
+
+  giggle
+
+  jazz
+
+  guard
+
+  add'
+bip_39_word_new_line7: 'path
+
+  claw
+
+  giggle
+
+  jazz
+
+  guard
+
+  add
+
+  diesel'
+bip_39_word_new_line8: 'path
+
+  claw
+
+  giggle
+
+  jazz
+
+  guard
+
+  add
+
+  diesel
+
+  blossom'
+bip_39_word_new_line9: 'path
+
+  claw
+
+  giggle
+
+  jazz
+
+  guard
+
+  add
+
+  diesel
+
+  blossom
+
+  awful'
+bip_39_word_space_0:
+- path
+- claw
+- giggle
+- jazz
+- guard
+- add
+- diesel
+- blossom
+- awful
+- toe
+- program
+- allow
+bip_39_word_space_1: path
+bip_39_word_space_10: path claw giggle jazz guard add diesel blossom awful toe
+bip_39_word_space_11: path claw giggle jazz guard add diesel blossom awful toe program
+bip_39_word_space_12: path claw giggle jazz guard add diesel blossom awful toe program
+  allow
+bip_39_word_space_2: path claw
+bip_39_word_space_3: path claw giggle
+bip_39_word_space_4: path claw giggle jazz
+bip_39_word_space_5: path claw giggle jazz guard
+bip_39_word_space_6: path claw giggle jazz guard add
+bip_39_word_space_7: path claw giggle jazz guard add diesel
+bip_39_word_space_8: path claw giggle jazz guard add diesel blossom
+bip_39_word_space_9: path claw giggle jazz guard add diesel blossom awful
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: address east
+  * bip 39 word 3: address east enact
+  * bip 39 word: address east enact fun control soft raven stairs cool about similar afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | address |  
+| bip_39_word_new_br10 | address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool<br>about |  
+| bip_39_word_new_br11 | address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool<br>about<br>similar |  
+| bip_39_word_new_br12 | address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool<br>about<br>similar<br>afford |  
+| bip_39_word_new_br2 | address<br>east |  
+| bip_39_word_new_br3 | address<br>east<br>enact |  
+| bip_39_word_new_br4 | address<br>east<br>enact<br>fun |  
+| bip_39_word_new_br5 | address<br>east<br>enact<br>fun<br>control |  
+| bip_39_word_new_br6 | address<br>east<br>enact<br>fun<br>control<br>soft |  
+| bip_39_word_new_br7 | address<br>east<br>enact<br>fun<br>control<br>soft<br>raven |  
+| bip_39_word_new_br8 | address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs |  
+| bip_39_word_new_br9 | address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool |  
+| bip_39_word_new_line1 | address |  
+| bip_39_word_new_line10 | address
+east
+enact
+fun
+control
+soft
+raven
+stairs
+cool
+about |  
+| bip_39_word_new_line11 | address
+east
+enact
+fun
+control
+soft
+raven
+stairs
+cool
+about
+similar |  
+| bip_39_word_new_line12 | address
+east
+enact
+fun
+control
+soft
+raven
+stairs
+cool
+about
+similar
+afford |  
+| bip_39_word_new_line2 | address
+east |  
+| bip_39_word_new_line3 | address
+east
+enact |  
+| bip_39_word_new_line4 | address
+east
+enact
+fun |  
+| bip_39_word_new_line5 | address
+east
+enact
+fun
+control |  
+| bip_39_word_new_line6 | address
+east
+enact
+fun
+control
+soft |  
+| bip_39_word_new_line7 | address
+east
+enact
+fun
+control
+soft
+raven |  
+| bip_39_word_new_line8 | address
+east
+enact
+fun
+control
+soft
+raven
+stairs |  
+| bip_39_word_new_line9 | address
+east
+enact
+fun
+control
+soft
+raven
+stairs
+cool |  
+| bip_39_word_space_0 | ['address', 'east', 'enact', 'fun', 'control', 'soft', 'raven', 'stairs', 'cool', 'about', 'similar', 'afford'] |  
+| bip_39_word_space_1 | address |  
+| bip_39_word_space_10 | address east enact fun control soft raven stairs cool about |  
+| bip_39_word_space_11 | address east enact fun control soft raven stairs cool about similar |  
+| bip_39_word_space_12 | address east enact fun control soft raven stairs cool about similar afford |  
+| bip_39_word_space_2 | address east |  
+| bip_39_word_space_3 | address east enact |  
+| bip_39_word_space_4 | address east enact fun |  
+| bip_39_word_space_5 | address east enact fun control |  
+| bip_39_word_space_6 | address east enact fun control soft |  
+| bip_39_word_space_7 | address east enact fun control soft raven |  
+| bip_39_word_space_8 | address east enact fun control soft raven stairs |  
+| bip_39_word_space_9 | address east enact fun control soft raven stairs cool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

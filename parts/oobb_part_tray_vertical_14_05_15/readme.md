@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: job slide
+  * bip 39 word 3: job slide until
+  * bip 39 word: job slide until artwork arctic marble plug swear benefit vague seminar anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | job |  
+| bip_39_word_new_br10 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague |  
+| bip_39_word_new_br11 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague<br>seminar |  
+| bip_39_word_new_br12 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit<br>vague<br>seminar<br>anger |  
+| bip_39_word_new_br2 | job<br>slide |  
+| bip_39_word_new_br3 | job<br>slide<br>until |  
+| bip_39_word_new_br4 | job<br>slide<br>until<br>artwork |  
+| bip_39_word_new_br5 | job<br>slide<br>until<br>artwork<br>arctic |  
+| bip_39_word_new_br6 | job<br>slide<br>until<br>artwork<br>arctic<br>marble |  
+| bip_39_word_new_br7 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug |  
+| bip_39_word_new_br8 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear |  
+| bip_39_word_new_br9 | job<br>slide<br>until<br>artwork<br>arctic<br>marble<br>plug<br>swear<br>benefit |  
+| bip_39_word_new_line1 | job |  
+| bip_39_word_new_line10 | job
+slide
+until
+artwork
+arctic
+marble
+plug
+swear
+benefit
+vague |  
+| bip_39_word_new_line11 | job
+slide
+until
+artwork
+arctic
+marble
+plug
+swear
+benefit
+vague
+seminar |  
+| bip_39_word_new_line12 | job
+slide
+until
+artwork
+arctic
+marble
+plug
+swear
+benefit
+vague
+seminar
+anger |  
+| bip_39_word_new_line2 | job
+slide |  
+| bip_39_word_new_line3 | job
+slide
+until |  
+| bip_39_word_new_line4 | job
+slide
+until
+artwork |  
+| bip_39_word_new_line5 | job
+slide
+until
+artwork
+arctic |  
+| bip_39_word_new_line6 | job
+slide
+until
+artwork
+arctic
+marble |  
+| bip_39_word_new_line7 | job
+slide
+until
+artwork
+arctic
+marble
+plug |  
+| bip_39_word_new_line8 | job
+slide
+until
+artwork
+arctic
+marble
+plug
+swear |  
+| bip_39_word_new_line9 | job
+slide
+until
+artwork
+arctic
+marble
+plug
+swear
+benefit |  
+| bip_39_word_space_0 | ['job', 'slide', 'until', 'artwork', 'arctic', 'marble', 'plug', 'swear', 'benefit', 'vague', 'seminar', 'anger'] |  
+| bip_39_word_space_1 | job |  
+| bip_39_word_space_10 | job slide until artwork arctic marble plug swear benefit vague |  
+| bip_39_word_space_11 | job slide until artwork arctic marble plug swear benefit vague seminar |  
+| bip_39_word_space_12 | job slide until artwork arctic marble plug swear benefit vague seminar anger |  
+| bip_39_word_space_2 | job slide |  
+| bip_39_word_space_3 | job slide until |  
+| bip_39_word_space_4 | job slide until artwork |  
+| bip_39_word_space_5 | job slide until artwork arctic |  
+| bip_39_word_space_6 | job slide until artwork arctic marble |  
+| bip_39_word_space_7 | job slide until artwork arctic marble plug |  
+| bip_39_word_space_8 | job slide until artwork arctic marble plug swear |  
+| bip_39_word_space_9 | job slide until artwork arctic marble plug swear benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

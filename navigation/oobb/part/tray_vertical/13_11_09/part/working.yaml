@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chalk
+bip_39_word_new_br10: chalk<br>success<br>chat<br>canvas<br>piece<br>mesh<br>annual<br>fame<br>quarter<br>figure
+bip_39_word_new_br11: chalk<br>success<br>chat<br>canvas<br>piece<br>mesh<br>annual<br>fame<br>quarter<br>figure<br>sunset
+bip_39_word_new_br12: chalk<br>success<br>chat<br>canvas<br>piece<br>mesh<br>annual<br>fame<br>quarter<br>figure<br>sunset<br>august
+bip_39_word_new_br2: chalk<br>success
+bip_39_word_new_br3: chalk<br>success<br>chat
+bip_39_word_new_br4: chalk<br>success<br>chat<br>canvas
+bip_39_word_new_br5: chalk<br>success<br>chat<br>canvas<br>piece
+bip_39_word_new_br6: chalk<br>success<br>chat<br>canvas<br>piece<br>mesh
+bip_39_word_new_br7: chalk<br>success<br>chat<br>canvas<br>piece<br>mesh<br>annual
+bip_39_word_new_br8: chalk<br>success<br>chat<br>canvas<br>piece<br>mesh<br>annual<br>fame
+bip_39_word_new_br9: chalk<br>success<br>chat<br>canvas<br>piece<br>mesh<br>annual<br>fame<br>quarter
+bip_39_word_new_line1: chalk
+bip_39_word_new_line10: 'chalk
+
+  success
+
+  chat
+
+  canvas
+
+  piece
+
+  mesh
+
+  annual
+
+  fame
+
+  quarter
+
+  figure'
+bip_39_word_new_line11: 'chalk
+
+  success
+
+  chat
+
+  canvas
+
+  piece
+
+  mesh
+
+  annual
+
+  fame
+
+  quarter
+
+  figure
+
+  sunset'
+bip_39_word_new_line12: 'chalk
+
+  success
+
+  chat
+
+  canvas
+
+  piece
+
+  mesh
+
+  annual
+
+  fame
+
+  quarter
+
+  figure
+
+  sunset
+
+  august'
+bip_39_word_new_line2: 'chalk
+
+  success'
+bip_39_word_new_line3: 'chalk
+
+  success
+
+  chat'
+bip_39_word_new_line4: 'chalk
+
+  success
+
+  chat
+
+  canvas'
+bip_39_word_new_line5: 'chalk
+
+  success
+
+  chat
+
+  canvas
+
+  piece'
+bip_39_word_new_line6: 'chalk
+
+  success
+
+  chat
+
+  canvas
+
+  piece
+
+  mesh'
+bip_39_word_new_line7: 'chalk
+
+  success
+
+  chat
+
+  canvas
+
+  piece
+
+  mesh
+
+  annual'
+bip_39_word_new_line8: 'chalk
+
+  success
+
+  chat
+
+  canvas
+
+  piece
+
+  mesh
+
+  annual
+
+  fame'
+bip_39_word_new_line9: 'chalk
+
+  success
+
+  chat
+
+  canvas
+
+  piece
+
+  mesh
+
+  annual
+
+  fame
+
+  quarter'
+bip_39_word_space_0:
+- chalk
+- success
+- chat
+- canvas
+- piece
+- mesh
+- annual
+- fame
+- quarter
+- figure
+- sunset
+- august
+bip_39_word_space_1: chalk
+bip_39_word_space_10: chalk success chat canvas piece mesh annual fame quarter figure
+bip_39_word_space_11: chalk success chat canvas piece mesh annual fame quarter figure
+  sunset
+bip_39_word_space_12: chalk success chat canvas piece mesh annual fame quarter figure
+  sunset august
+bip_39_word_space_2: chalk success
+bip_39_word_space_3: chalk success chat
+bip_39_word_space_4: chalk success chat canvas
+bip_39_word_space_5: chalk success chat canvas piece
+bip_39_word_space_6: chalk success chat canvas piece mesh
+bip_39_word_space_7: chalk success chat canvas piece mesh annual
+bip_39_word_space_8: chalk success chat canvas piece mesh annual fame
+bip_39_word_space_9: chalk success chat canvas piece mesh annual fame quarter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

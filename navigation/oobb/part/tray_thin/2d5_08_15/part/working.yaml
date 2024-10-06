@@ -1,3 +1,185 @@
+bip_39_word_new_br1: lift
+bip_39_word_new_br10: lift<br>fold<br>clerk<br>peace<br>pizza<br>forum<br>wreck<br>assist<br>viable<br>walk
+bip_39_word_new_br11: lift<br>fold<br>clerk<br>peace<br>pizza<br>forum<br>wreck<br>assist<br>viable<br>walk<br>tuition
+bip_39_word_new_br12: lift<br>fold<br>clerk<br>peace<br>pizza<br>forum<br>wreck<br>assist<br>viable<br>walk<br>tuition<br>asthma
+bip_39_word_new_br2: lift<br>fold
+bip_39_word_new_br3: lift<br>fold<br>clerk
+bip_39_word_new_br4: lift<br>fold<br>clerk<br>peace
+bip_39_word_new_br5: lift<br>fold<br>clerk<br>peace<br>pizza
+bip_39_word_new_br6: lift<br>fold<br>clerk<br>peace<br>pizza<br>forum
+bip_39_word_new_br7: lift<br>fold<br>clerk<br>peace<br>pizza<br>forum<br>wreck
+bip_39_word_new_br8: lift<br>fold<br>clerk<br>peace<br>pizza<br>forum<br>wreck<br>assist
+bip_39_word_new_br9: lift<br>fold<br>clerk<br>peace<br>pizza<br>forum<br>wreck<br>assist<br>viable
+bip_39_word_new_line1: lift
+bip_39_word_new_line10: 'lift
+
+  fold
+
+  clerk
+
+  peace
+
+  pizza
+
+  forum
+
+  wreck
+
+  assist
+
+  viable
+
+  walk'
+bip_39_word_new_line11: 'lift
+
+  fold
+
+  clerk
+
+  peace
+
+  pizza
+
+  forum
+
+  wreck
+
+  assist
+
+  viable
+
+  walk
+
+  tuition'
+bip_39_word_new_line12: 'lift
+
+  fold
+
+  clerk
+
+  peace
+
+  pizza
+
+  forum
+
+  wreck
+
+  assist
+
+  viable
+
+  walk
+
+  tuition
+
+  asthma'
+bip_39_word_new_line2: 'lift
+
+  fold'
+bip_39_word_new_line3: 'lift
+
+  fold
+
+  clerk'
+bip_39_word_new_line4: 'lift
+
+  fold
+
+  clerk
+
+  peace'
+bip_39_word_new_line5: 'lift
+
+  fold
+
+  clerk
+
+  peace
+
+  pizza'
+bip_39_word_new_line6: 'lift
+
+  fold
+
+  clerk
+
+  peace
+
+  pizza
+
+  forum'
+bip_39_word_new_line7: 'lift
+
+  fold
+
+  clerk
+
+  peace
+
+  pizza
+
+  forum
+
+  wreck'
+bip_39_word_new_line8: 'lift
+
+  fold
+
+  clerk
+
+  peace
+
+  pizza
+
+  forum
+
+  wreck
+
+  assist'
+bip_39_word_new_line9: 'lift
+
+  fold
+
+  clerk
+
+  peace
+
+  pizza
+
+  forum
+
+  wreck
+
+  assist
+
+  viable'
+bip_39_word_space_0:
+- lift
+- fold
+- clerk
+- peace
+- pizza
+- forum
+- wreck
+- assist
+- viable
+- walk
+- tuition
+- asthma
+bip_39_word_space_1: lift
+bip_39_word_space_10: lift fold clerk peace pizza forum wreck assist viable walk
+bip_39_word_space_11: lift fold clerk peace pizza forum wreck assist viable walk tuition
+bip_39_word_space_12: lift fold clerk peace pizza forum wreck assist viable walk tuition
+  asthma
+bip_39_word_space_2: lift fold
+bip_39_word_space_3: lift fold clerk
+bip_39_word_space_4: lift fold clerk peace
+bip_39_word_space_5: lift fold clerk peace pizza
+bip_39_word_space_6: lift fold clerk peace pizza forum
+bip_39_word_space_7: lift fold clerk peace pizza forum wreck
+bip_39_word_space_8: lift fold clerk peace pizza forum wreck assist
+bip_39_word_space_9: lift fold clerk peace pizza forum wreck assist viable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

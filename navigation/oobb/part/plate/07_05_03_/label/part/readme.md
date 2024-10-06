@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: label
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: demise slice
+  * bip 39 word 3: demise slice fit
+  * bip 39 word: demise slice fit capital daughter someone face bar fever mobile radio armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | demise |  
+| bip_39_word_new_br10 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone<br>face<br>bar<br>fever<br>mobile |  
+| bip_39_word_new_br11 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone<br>face<br>bar<br>fever<br>mobile<br>radio |  
+| bip_39_word_new_br12 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone<br>face<br>bar<br>fever<br>mobile<br>radio<br>armed |  
+| bip_39_word_new_br2 | demise<br>slice |  
+| bip_39_word_new_br3 | demise<br>slice<br>fit |  
+| bip_39_word_new_br4 | demise<br>slice<br>fit<br>capital |  
+| bip_39_word_new_br5 | demise<br>slice<br>fit<br>capital<br>daughter |  
+| bip_39_word_new_br6 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone |  
+| bip_39_word_new_br7 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone<br>face |  
+| bip_39_word_new_br8 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone<br>face<br>bar |  
+| bip_39_word_new_br9 | demise<br>slice<br>fit<br>capital<br>daughter<br>someone<br>face<br>bar<br>fever |  
+| bip_39_word_new_line1 | demise |  
+| bip_39_word_new_line10 | demise
+slice
+fit
+capital
+daughter
+someone
+face
+bar
+fever
+mobile |  
+| bip_39_word_new_line11 | demise
+slice
+fit
+capital
+daughter
+someone
+face
+bar
+fever
+mobile
+radio |  
+| bip_39_word_new_line12 | demise
+slice
+fit
+capital
+daughter
+someone
+face
+bar
+fever
+mobile
+radio
+armed |  
+| bip_39_word_new_line2 | demise
+slice |  
+| bip_39_word_new_line3 | demise
+slice
+fit |  
+| bip_39_word_new_line4 | demise
+slice
+fit
+capital |  
+| bip_39_word_new_line5 | demise
+slice
+fit
+capital
+daughter |  
+| bip_39_word_new_line6 | demise
+slice
+fit
+capital
+daughter
+someone |  
+| bip_39_word_new_line7 | demise
+slice
+fit
+capital
+daughter
+someone
+face |  
+| bip_39_word_new_line8 | demise
+slice
+fit
+capital
+daughter
+someone
+face
+bar |  
+| bip_39_word_new_line9 | demise
+slice
+fit
+capital
+daughter
+someone
+face
+bar
+fever |  
+| bip_39_word_space_0 | ['demise', 'slice', 'fit', 'capital', 'daughter', 'someone', 'face', 'bar', 'fever', 'mobile', 'radio', 'armed'] |  
+| bip_39_word_space_1 | demise |  
+| bip_39_word_space_10 | demise slice fit capital daughter someone face bar fever mobile |  
+| bip_39_word_space_11 | demise slice fit capital daughter someone face bar fever mobile radio |  
+| bip_39_word_space_12 | demise slice fit capital daughter someone face bar fever mobile radio armed |  
+| bip_39_word_space_2 | demise slice |  
+| bip_39_word_space_3 | demise slice fit |  
+| bip_39_word_space_4 | demise slice fit capital |  
+| bip_39_word_space_5 | demise slice fit capital daughter |  
+| bip_39_word_space_6 | demise slice fit capital daughter someone |  
+| bip_39_word_space_7 | demise slice fit capital daughter someone face |  
+| bip_39_word_space_8 | demise slice fit capital daughter someone face bar |  
+| bip_39_word_space_9 | demise slice fit capital daughter someone face bar fever |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

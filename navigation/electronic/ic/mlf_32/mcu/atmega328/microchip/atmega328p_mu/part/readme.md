@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microchip
   * part_number: atmega328p_mu
+  * bip 39 word 2: poem mom
+  * bip 39 word 3: poem mom spirit
+  * bip 39 word: poem mom spirit summer wait team library teach swear believe fall aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | poem |  
+| bip_39_word_new_br10 | poem<br>mom<br>spirit<br>summer<br>wait<br>team<br>library<br>teach<br>swear<br>believe |  
+| bip_39_word_new_br11 | poem<br>mom<br>spirit<br>summer<br>wait<br>team<br>library<br>teach<br>swear<br>believe<br>fall |  
+| bip_39_word_new_br12 | poem<br>mom<br>spirit<br>summer<br>wait<br>team<br>library<br>teach<br>swear<br>believe<br>fall<br>aspect |  
+| bip_39_word_new_br2 | poem<br>mom |  
+| bip_39_word_new_br3 | poem<br>mom<br>spirit |  
+| bip_39_word_new_br4 | poem<br>mom<br>spirit<br>summer |  
+| bip_39_word_new_br5 | poem<br>mom<br>spirit<br>summer<br>wait |  
+| bip_39_word_new_br6 | poem<br>mom<br>spirit<br>summer<br>wait<br>team |  
+| bip_39_word_new_br7 | poem<br>mom<br>spirit<br>summer<br>wait<br>team<br>library |  
+| bip_39_word_new_br8 | poem<br>mom<br>spirit<br>summer<br>wait<br>team<br>library<br>teach |  
+| bip_39_word_new_br9 | poem<br>mom<br>spirit<br>summer<br>wait<br>team<br>library<br>teach<br>swear |  
+| bip_39_word_new_line1 | poem |  
+| bip_39_word_new_line10 | poem
+mom
+spirit
+summer
+wait
+team
+library
+teach
+swear
+believe |  
+| bip_39_word_new_line11 | poem
+mom
+spirit
+summer
+wait
+team
+library
+teach
+swear
+believe
+fall |  
+| bip_39_word_new_line12 | poem
+mom
+spirit
+summer
+wait
+team
+library
+teach
+swear
+believe
+fall
+aspect |  
+| bip_39_word_new_line2 | poem
+mom |  
+| bip_39_word_new_line3 | poem
+mom
+spirit |  
+| bip_39_word_new_line4 | poem
+mom
+spirit
+summer |  
+| bip_39_word_new_line5 | poem
+mom
+spirit
+summer
+wait |  
+| bip_39_word_new_line6 | poem
+mom
+spirit
+summer
+wait
+team |  
+| bip_39_word_new_line7 | poem
+mom
+spirit
+summer
+wait
+team
+library |  
+| bip_39_word_new_line8 | poem
+mom
+spirit
+summer
+wait
+team
+library
+teach |  
+| bip_39_word_new_line9 | poem
+mom
+spirit
+summer
+wait
+team
+library
+teach
+swear |  
+| bip_39_word_space_0 | ['poem', 'mom', 'spirit', 'summer', 'wait', 'team', 'library', 'teach', 'swear', 'believe', 'fall', 'aspect'] |  
+| bip_39_word_space_1 | poem |  
+| bip_39_word_space_10 | poem mom spirit summer wait team library teach swear believe |  
+| bip_39_word_space_11 | poem mom spirit summer wait team library teach swear believe fall |  
+| bip_39_word_space_12 | poem mom spirit summer wait team library teach swear believe fall aspect |  
+| bip_39_word_space_2 | poem mom |  
+| bip_39_word_space_3 | poem mom spirit |  
+| bip_39_word_space_4 | poem mom spirit summer |  
+| bip_39_word_space_5 | poem mom spirit summer wait |  
+| bip_39_word_space_6 | poem mom spirit summer wait team |  
+| bip_39_word_space_7 | poem mom spirit summer wait team library |  
+| bip_39_word_space_8 | poem mom spirit summer wait team library teach |  
+| bip_39_word_space_9 | poem mom spirit summer wait team library teach swear |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

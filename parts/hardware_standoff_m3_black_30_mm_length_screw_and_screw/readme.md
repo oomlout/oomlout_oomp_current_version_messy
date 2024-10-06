@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sniff measure
+  * bip 39 word 3: sniff measure foot
+  * bip 39 word: sniff measure foot smoke pledge lawsuit area crunch burden sign dress attend
 
 ### other_codes
 * short_code: so3b30ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sniff |  
+| bip_39_word_new_br10 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit<br>area<br>crunch<br>burden<br>sign |  
+| bip_39_word_new_br11 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit<br>area<br>crunch<br>burden<br>sign<br>dress |  
+| bip_39_word_new_br12 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit<br>area<br>crunch<br>burden<br>sign<br>dress<br>attend |  
+| bip_39_word_new_br2 | sniff<br>measure |  
+| bip_39_word_new_br3 | sniff<br>measure<br>foot |  
+| bip_39_word_new_br4 | sniff<br>measure<br>foot<br>smoke |  
+| bip_39_word_new_br5 | sniff<br>measure<br>foot<br>smoke<br>pledge |  
+| bip_39_word_new_br6 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit |  
+| bip_39_word_new_br7 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit<br>area |  
+| bip_39_word_new_br8 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit<br>area<br>crunch |  
+| bip_39_word_new_br9 | sniff<br>measure<br>foot<br>smoke<br>pledge<br>lawsuit<br>area<br>crunch<br>burden |  
+| bip_39_word_new_line1 | sniff |  
+| bip_39_word_new_line10 | sniff
+measure
+foot
+smoke
+pledge
+lawsuit
+area
+crunch
+burden
+sign |  
+| bip_39_word_new_line11 | sniff
+measure
+foot
+smoke
+pledge
+lawsuit
+area
+crunch
+burden
+sign
+dress |  
+| bip_39_word_new_line12 | sniff
+measure
+foot
+smoke
+pledge
+lawsuit
+area
+crunch
+burden
+sign
+dress
+attend |  
+| bip_39_word_new_line2 | sniff
+measure |  
+| bip_39_word_new_line3 | sniff
+measure
+foot |  
+| bip_39_word_new_line4 | sniff
+measure
+foot
+smoke |  
+| bip_39_word_new_line5 | sniff
+measure
+foot
+smoke
+pledge |  
+| bip_39_word_new_line6 | sniff
+measure
+foot
+smoke
+pledge
+lawsuit |  
+| bip_39_word_new_line7 | sniff
+measure
+foot
+smoke
+pledge
+lawsuit
+area |  
+| bip_39_word_new_line8 | sniff
+measure
+foot
+smoke
+pledge
+lawsuit
+area
+crunch |  
+| bip_39_word_new_line9 | sniff
+measure
+foot
+smoke
+pledge
+lawsuit
+area
+crunch
+burden |  
+| bip_39_word_space_0 | ['sniff', 'measure', 'foot', 'smoke', 'pledge', 'lawsuit', 'area', 'crunch', 'burden', 'sign', 'dress', 'attend'] |  
+| bip_39_word_space_1 | sniff |  
+| bip_39_word_space_10 | sniff measure foot smoke pledge lawsuit area crunch burden sign |  
+| bip_39_word_space_11 | sniff measure foot smoke pledge lawsuit area crunch burden sign dress |  
+| bip_39_word_space_12 | sniff measure foot smoke pledge lawsuit area crunch burden sign dress attend |  
+| bip_39_word_space_2 | sniff measure |  
+| bip_39_word_space_3 | sniff measure foot |  
+| bip_39_word_space_4 | sniff measure foot smoke |  
+| bip_39_word_space_5 | sniff measure foot smoke pledge |  
+| bip_39_word_space_6 | sniff measure foot smoke pledge lawsuit |  
+| bip_39_word_space_7 | sniff measure foot smoke pledge lawsuit area |  
+| bip_39_word_space_8 | sniff measure foot smoke pledge lawsuit area crunch |  
+| bip_39_word_space_9 | sniff measure foot smoke pledge lawsuit area crunch burden |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

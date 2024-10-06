@@ -1,3 +1,185 @@
+bip_39_word_new_br1: drink
+bip_39_word_new_br10: drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless
+bip_39_word_new_br11: drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless<br>okay
+bip_39_word_new_br12: drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face<br>useless<br>okay<br>acquire
+bip_39_word_new_br2: drink<br>three
+bip_39_word_new_br3: drink<br>three<br>crane
+bip_39_word_new_br4: drink<br>three<br>crane<br>dog
+bip_39_word_new_br5: drink<br>three<br>crane<br>dog<br>glare
+bip_39_word_new_br6: drink<br>three<br>crane<br>dog<br>glare<br>crazy
+bip_39_word_new_br7: drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack
+bip_39_word_new_br8: drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave
+bip_39_word_new_br9: drink<br>three<br>crane<br>dog<br>glare<br>crazy<br>crack<br>pave<br>face
+bip_39_word_new_line1: drink
+bip_39_word_new_line10: 'drink
+
+  three
+
+  crane
+
+  dog
+
+  glare
+
+  crazy
+
+  crack
+
+  pave
+
+  face
+
+  useless'
+bip_39_word_new_line11: 'drink
+
+  three
+
+  crane
+
+  dog
+
+  glare
+
+  crazy
+
+  crack
+
+  pave
+
+  face
+
+  useless
+
+  okay'
+bip_39_word_new_line12: 'drink
+
+  three
+
+  crane
+
+  dog
+
+  glare
+
+  crazy
+
+  crack
+
+  pave
+
+  face
+
+  useless
+
+  okay
+
+  acquire'
+bip_39_word_new_line2: 'drink
+
+  three'
+bip_39_word_new_line3: 'drink
+
+  three
+
+  crane'
+bip_39_word_new_line4: 'drink
+
+  three
+
+  crane
+
+  dog'
+bip_39_word_new_line5: 'drink
+
+  three
+
+  crane
+
+  dog
+
+  glare'
+bip_39_word_new_line6: 'drink
+
+  three
+
+  crane
+
+  dog
+
+  glare
+
+  crazy'
+bip_39_word_new_line7: 'drink
+
+  three
+
+  crane
+
+  dog
+
+  glare
+
+  crazy
+
+  crack'
+bip_39_word_new_line8: 'drink
+
+  three
+
+  crane
+
+  dog
+
+  glare
+
+  crazy
+
+  crack
+
+  pave'
+bip_39_word_new_line9: 'drink
+
+  three
+
+  crane
+
+  dog
+
+  glare
+
+  crazy
+
+  crack
+
+  pave
+
+  face'
+bip_39_word_space_0:
+- drink
+- three
+- crane
+- dog
+- glare
+- crazy
+- crack
+- pave
+- face
+- useless
+- okay
+- acquire
+bip_39_word_space_1: drink
+bip_39_word_space_10: drink three crane dog glare crazy crack pave face useless
+bip_39_word_space_11: drink three crane dog glare crazy crack pave face useless okay
+bip_39_word_space_12: drink three crane dog glare crazy crack pave face useless okay
+  acquire
+bip_39_word_space_2: drink three
+bip_39_word_space_3: drink three crane
+bip_39_word_space_4: drink three crane dog
+bip_39_word_space_5: drink three crane dog glare
+bip_39_word_space_6: drink three crane dog glare crazy
+bip_39_word_space_7: drink three crane dog glare crazy crack
+bip_39_word_space_8: drink three crane dog glare crazy crack pave
+bip_39_word_space_9: drink three crane dog glare crazy crack pave face
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

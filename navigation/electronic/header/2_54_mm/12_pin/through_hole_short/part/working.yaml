@@ -1,3 +1,186 @@
+bip_39_word_new_br1: income
+bip_39_word_new_br10: income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company
+bip_39_word_new_br11: income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company<br>sleep
+bip_39_word_new_br12: income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer<br>company<br>sleep<br>amused
+bip_39_word_new_br2: income<br>warfare
+bip_39_word_new_br3: income<br>warfare<br>dress
+bip_39_word_new_br4: income<br>warfare<br>dress<br>giant
+bip_39_word_new_br5: income<br>warfare<br>dress<br>giant<br>hurry
+bip_39_word_new_br6: income<br>warfare<br>dress<br>giant<br>hurry<br>peanut
+bip_39_word_new_br7: income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius
+bip_39_word_new_br8: income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast
+bip_39_word_new_br9: income<br>warfare<br>dress<br>giant<br>hurry<br>peanut<br>genius<br>blast<br>outer
+bip_39_word_new_line1: income
+bip_39_word_new_line10: 'income
+
+  warfare
+
+  dress
+
+  giant
+
+  hurry
+
+  peanut
+
+  genius
+
+  blast
+
+  outer
+
+  company'
+bip_39_word_new_line11: 'income
+
+  warfare
+
+  dress
+
+  giant
+
+  hurry
+
+  peanut
+
+  genius
+
+  blast
+
+  outer
+
+  company
+
+  sleep'
+bip_39_word_new_line12: 'income
+
+  warfare
+
+  dress
+
+  giant
+
+  hurry
+
+  peanut
+
+  genius
+
+  blast
+
+  outer
+
+  company
+
+  sleep
+
+  amused'
+bip_39_word_new_line2: 'income
+
+  warfare'
+bip_39_word_new_line3: 'income
+
+  warfare
+
+  dress'
+bip_39_word_new_line4: 'income
+
+  warfare
+
+  dress
+
+  giant'
+bip_39_word_new_line5: 'income
+
+  warfare
+
+  dress
+
+  giant
+
+  hurry'
+bip_39_word_new_line6: 'income
+
+  warfare
+
+  dress
+
+  giant
+
+  hurry
+
+  peanut'
+bip_39_word_new_line7: 'income
+
+  warfare
+
+  dress
+
+  giant
+
+  hurry
+
+  peanut
+
+  genius'
+bip_39_word_new_line8: 'income
+
+  warfare
+
+  dress
+
+  giant
+
+  hurry
+
+  peanut
+
+  genius
+
+  blast'
+bip_39_word_new_line9: 'income
+
+  warfare
+
+  dress
+
+  giant
+
+  hurry
+
+  peanut
+
+  genius
+
+  blast
+
+  outer'
+bip_39_word_space_0:
+- income
+- warfare
+- dress
+- giant
+- hurry
+- peanut
+- genius
+- blast
+- outer
+- company
+- sleep
+- amused
+bip_39_word_space_1: income
+bip_39_word_space_10: income warfare dress giant hurry peanut genius blast outer company
+bip_39_word_space_11: income warfare dress giant hurry peanut genius blast outer company
+  sleep
+bip_39_word_space_12: income warfare dress giant hurry peanut genius blast outer company
+  sleep amused
+bip_39_word_space_2: income warfare
+bip_39_word_space_3: income warfare dress
+bip_39_word_space_4: income warfare dress giant
+bip_39_word_space_5: income warfare dress giant hurry
+bip_39_word_space_6: income warfare dress giant hurry peanut
+bip_39_word_space_7: income warfare dress giant hurry peanut genius
+bip_39_word_space_8: income warfare dress giant hurry peanut genius blast
+bip_39_word_space_9: income warfare dress giant hurry peanut genius blast outer
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

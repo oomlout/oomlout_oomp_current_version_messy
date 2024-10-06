@@ -1,3 +1,186 @@
+bip_39_word_new_br1: toe
+bip_39_word_new_br10: toe<br>negative<br>stone<br>more<br>cliff<br>creek<br>tongue<br>memory<br>habit<br>cool
+bip_39_word_new_br11: toe<br>negative<br>stone<br>more<br>cliff<br>creek<br>tongue<br>memory<br>habit<br>cool<br>path
+bip_39_word_new_br12: toe<br>negative<br>stone<br>more<br>cliff<br>creek<br>tongue<br>memory<br>habit<br>cool<br>path<br>audit
+bip_39_word_new_br2: toe<br>negative
+bip_39_word_new_br3: toe<br>negative<br>stone
+bip_39_word_new_br4: toe<br>negative<br>stone<br>more
+bip_39_word_new_br5: toe<br>negative<br>stone<br>more<br>cliff
+bip_39_word_new_br6: toe<br>negative<br>stone<br>more<br>cliff<br>creek
+bip_39_word_new_br7: toe<br>negative<br>stone<br>more<br>cliff<br>creek<br>tongue
+bip_39_word_new_br8: toe<br>negative<br>stone<br>more<br>cliff<br>creek<br>tongue<br>memory
+bip_39_word_new_br9: toe<br>negative<br>stone<br>more<br>cliff<br>creek<br>tongue<br>memory<br>habit
+bip_39_word_new_line1: toe
+bip_39_word_new_line10: 'toe
+
+  negative
+
+  stone
+
+  more
+
+  cliff
+
+  creek
+
+  tongue
+
+  memory
+
+  habit
+
+  cool'
+bip_39_word_new_line11: 'toe
+
+  negative
+
+  stone
+
+  more
+
+  cliff
+
+  creek
+
+  tongue
+
+  memory
+
+  habit
+
+  cool
+
+  path'
+bip_39_word_new_line12: 'toe
+
+  negative
+
+  stone
+
+  more
+
+  cliff
+
+  creek
+
+  tongue
+
+  memory
+
+  habit
+
+  cool
+
+  path
+
+  audit'
+bip_39_word_new_line2: 'toe
+
+  negative'
+bip_39_word_new_line3: 'toe
+
+  negative
+
+  stone'
+bip_39_word_new_line4: 'toe
+
+  negative
+
+  stone
+
+  more'
+bip_39_word_new_line5: 'toe
+
+  negative
+
+  stone
+
+  more
+
+  cliff'
+bip_39_word_new_line6: 'toe
+
+  negative
+
+  stone
+
+  more
+
+  cliff
+
+  creek'
+bip_39_word_new_line7: 'toe
+
+  negative
+
+  stone
+
+  more
+
+  cliff
+
+  creek
+
+  tongue'
+bip_39_word_new_line8: 'toe
+
+  negative
+
+  stone
+
+  more
+
+  cliff
+
+  creek
+
+  tongue
+
+  memory'
+bip_39_word_new_line9: 'toe
+
+  negative
+
+  stone
+
+  more
+
+  cliff
+
+  creek
+
+  tongue
+
+  memory
+
+  habit'
+bip_39_word_space_0:
+- toe
+- negative
+- stone
+- more
+- cliff
+- creek
+- tongue
+- memory
+- habit
+- cool
+- path
+- audit
+bip_39_word_space_1: toe
+bip_39_word_space_10: toe negative stone more cliff creek tongue memory habit cool
+bip_39_word_space_11: toe negative stone more cliff creek tongue memory habit cool
+  path
+bip_39_word_space_12: toe negative stone more cliff creek tongue memory habit cool
+  path audit
+bip_39_word_space_2: toe negative
+bip_39_word_space_3: toe negative stone
+bip_39_word_space_4: toe negative stone more
+bip_39_word_space_5: toe negative stone more cliff
+bip_39_word_space_6: toe negative stone more cliff creek
+bip_39_word_space_7: toe negative stone more cliff creek tongue
+bip_39_word_space_8: toe negative stone more cliff creek tongue memory
+bip_39_word_space_9: toe negative stone more cliff creek tongue memory habit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

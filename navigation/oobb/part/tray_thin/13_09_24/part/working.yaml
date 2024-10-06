@@ -1,3 +1,187 @@
+bip_39_word_new_br1: motion
+bip_39_word_new_br10: motion<br>rotate<br>since<br>discover<br>fantasy<br>state<br>bring<br>half<br>ostrich<br>tornado
+bip_39_word_new_br11: motion<br>rotate<br>since<br>discover<br>fantasy<br>state<br>bring<br>half<br>ostrich<br>tornado<br>shop
+bip_39_word_new_br12: motion<br>rotate<br>since<br>discover<br>fantasy<br>state<br>bring<br>half<br>ostrich<br>tornado<br>shop<br>age
+bip_39_word_new_br2: motion<br>rotate
+bip_39_word_new_br3: motion<br>rotate<br>since
+bip_39_word_new_br4: motion<br>rotate<br>since<br>discover
+bip_39_word_new_br5: motion<br>rotate<br>since<br>discover<br>fantasy
+bip_39_word_new_br6: motion<br>rotate<br>since<br>discover<br>fantasy<br>state
+bip_39_word_new_br7: motion<br>rotate<br>since<br>discover<br>fantasy<br>state<br>bring
+bip_39_word_new_br8: motion<br>rotate<br>since<br>discover<br>fantasy<br>state<br>bring<br>half
+bip_39_word_new_br9: motion<br>rotate<br>since<br>discover<br>fantasy<br>state<br>bring<br>half<br>ostrich
+bip_39_word_new_line1: motion
+bip_39_word_new_line10: 'motion
+
+  rotate
+
+  since
+
+  discover
+
+  fantasy
+
+  state
+
+  bring
+
+  half
+
+  ostrich
+
+  tornado'
+bip_39_word_new_line11: 'motion
+
+  rotate
+
+  since
+
+  discover
+
+  fantasy
+
+  state
+
+  bring
+
+  half
+
+  ostrich
+
+  tornado
+
+  shop'
+bip_39_word_new_line12: 'motion
+
+  rotate
+
+  since
+
+  discover
+
+  fantasy
+
+  state
+
+  bring
+
+  half
+
+  ostrich
+
+  tornado
+
+  shop
+
+  age'
+bip_39_word_new_line2: 'motion
+
+  rotate'
+bip_39_word_new_line3: 'motion
+
+  rotate
+
+  since'
+bip_39_word_new_line4: 'motion
+
+  rotate
+
+  since
+
+  discover'
+bip_39_word_new_line5: 'motion
+
+  rotate
+
+  since
+
+  discover
+
+  fantasy'
+bip_39_word_new_line6: 'motion
+
+  rotate
+
+  since
+
+  discover
+
+  fantasy
+
+  state'
+bip_39_word_new_line7: 'motion
+
+  rotate
+
+  since
+
+  discover
+
+  fantasy
+
+  state
+
+  bring'
+bip_39_word_new_line8: 'motion
+
+  rotate
+
+  since
+
+  discover
+
+  fantasy
+
+  state
+
+  bring
+
+  half'
+bip_39_word_new_line9: 'motion
+
+  rotate
+
+  since
+
+  discover
+
+  fantasy
+
+  state
+
+  bring
+
+  half
+
+  ostrich'
+bip_39_word_space_0:
+- motion
+- rotate
+- since
+- discover
+- fantasy
+- state
+- bring
+- half
+- ostrich
+- tornado
+- shop
+- age
+bip_39_word_space_1: motion
+bip_39_word_space_10: motion rotate since discover fantasy state bring half ostrich
+  tornado
+bip_39_word_space_11: motion rotate since discover fantasy state bring half ostrich
+  tornado shop
+bip_39_word_space_12: motion rotate since discover fantasy state bring half ostrich
+  tornado shop age
+bip_39_word_space_2: motion rotate
+bip_39_word_space_3: motion rotate since
+bip_39_word_space_4: motion rotate since discover
+bip_39_word_space_5: motion rotate since discover fantasy
+bip_39_word_space_6: motion rotate since discover fantasy state
+bip_39_word_space_7: motion rotate since discover fantasy state bring
+bip_39_word_space_8: motion rotate since discover fantasy state bring half
+bip_39_word_space_9: motion rotate since discover fantasy state bring half ostrich
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

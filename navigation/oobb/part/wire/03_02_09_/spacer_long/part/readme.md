@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bulk sport
+  * bip 39 word 3: bulk sport manage
+  * bip 39 word: bulk sport manage guess unable project review disorder elegant gain usage above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bulk |  
+| bip_39_word_new_br10 | bulk<br>sport<br>manage<br>guess<br>unable<br>project<br>review<br>disorder<br>elegant<br>gain |  
+| bip_39_word_new_br11 | bulk<br>sport<br>manage<br>guess<br>unable<br>project<br>review<br>disorder<br>elegant<br>gain<br>usage |  
+| bip_39_word_new_br12 | bulk<br>sport<br>manage<br>guess<br>unable<br>project<br>review<br>disorder<br>elegant<br>gain<br>usage<br>above |  
+| bip_39_word_new_br2 | bulk<br>sport |  
+| bip_39_word_new_br3 | bulk<br>sport<br>manage |  
+| bip_39_word_new_br4 | bulk<br>sport<br>manage<br>guess |  
+| bip_39_word_new_br5 | bulk<br>sport<br>manage<br>guess<br>unable |  
+| bip_39_word_new_br6 | bulk<br>sport<br>manage<br>guess<br>unable<br>project |  
+| bip_39_word_new_br7 | bulk<br>sport<br>manage<br>guess<br>unable<br>project<br>review |  
+| bip_39_word_new_br8 | bulk<br>sport<br>manage<br>guess<br>unable<br>project<br>review<br>disorder |  
+| bip_39_word_new_br9 | bulk<br>sport<br>manage<br>guess<br>unable<br>project<br>review<br>disorder<br>elegant |  
+| bip_39_word_new_line1 | bulk |  
+| bip_39_word_new_line10 | bulk
+sport
+manage
+guess
+unable
+project
+review
+disorder
+elegant
+gain |  
+| bip_39_word_new_line11 | bulk
+sport
+manage
+guess
+unable
+project
+review
+disorder
+elegant
+gain
+usage |  
+| bip_39_word_new_line12 | bulk
+sport
+manage
+guess
+unable
+project
+review
+disorder
+elegant
+gain
+usage
+above |  
+| bip_39_word_new_line2 | bulk
+sport |  
+| bip_39_word_new_line3 | bulk
+sport
+manage |  
+| bip_39_word_new_line4 | bulk
+sport
+manage
+guess |  
+| bip_39_word_new_line5 | bulk
+sport
+manage
+guess
+unable |  
+| bip_39_word_new_line6 | bulk
+sport
+manage
+guess
+unable
+project |  
+| bip_39_word_new_line7 | bulk
+sport
+manage
+guess
+unable
+project
+review |  
+| bip_39_word_new_line8 | bulk
+sport
+manage
+guess
+unable
+project
+review
+disorder |  
+| bip_39_word_new_line9 | bulk
+sport
+manage
+guess
+unable
+project
+review
+disorder
+elegant |  
+| bip_39_word_space_0 | ['bulk', 'sport', 'manage', 'guess', 'unable', 'project', 'review', 'disorder', 'elegant', 'gain', 'usage', 'above'] |  
+| bip_39_word_space_1 | bulk |  
+| bip_39_word_space_10 | bulk sport manage guess unable project review disorder elegant gain |  
+| bip_39_word_space_11 | bulk sport manage guess unable project review disorder elegant gain usage |  
+| bip_39_word_space_12 | bulk sport manage guess unable project review disorder elegant gain usage above |  
+| bip_39_word_space_2 | bulk sport |  
+| bip_39_word_space_3 | bulk sport manage |  
+| bip_39_word_space_4 | bulk sport manage guess |  
+| bip_39_word_space_5 | bulk sport manage guess unable |  
+| bip_39_word_space_6 | bulk sport manage guess unable project |  
+| bip_39_word_space_7 | bulk sport manage guess unable project review |  
+| bip_39_word_space_8 | bulk sport manage guess unable project review disorder |  
+| bip_39_word_space_9 | bulk sport manage guess unable project review disorder elegant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

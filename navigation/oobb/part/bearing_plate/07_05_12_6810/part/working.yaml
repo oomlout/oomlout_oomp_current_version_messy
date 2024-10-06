@@ -1,3 +1,186 @@
+bip_39_word_new_br1: logic
+bip_39_word_new_br10: logic<br>reject<br>rate<br>suggest<br>vessel<br>good<br>stereo<br>someone<br>room<br>speed
+bip_39_word_new_br11: logic<br>reject<br>rate<br>suggest<br>vessel<br>good<br>stereo<br>someone<br>room<br>speed<br>sort
+bip_39_word_new_br12: logic<br>reject<br>rate<br>suggest<br>vessel<br>good<br>stereo<br>someone<br>room<br>speed<br>sort<br>aerobic
+bip_39_word_new_br2: logic<br>reject
+bip_39_word_new_br3: logic<br>reject<br>rate
+bip_39_word_new_br4: logic<br>reject<br>rate<br>suggest
+bip_39_word_new_br5: logic<br>reject<br>rate<br>suggest<br>vessel
+bip_39_word_new_br6: logic<br>reject<br>rate<br>suggest<br>vessel<br>good
+bip_39_word_new_br7: logic<br>reject<br>rate<br>suggest<br>vessel<br>good<br>stereo
+bip_39_word_new_br8: logic<br>reject<br>rate<br>suggest<br>vessel<br>good<br>stereo<br>someone
+bip_39_word_new_br9: logic<br>reject<br>rate<br>suggest<br>vessel<br>good<br>stereo<br>someone<br>room
+bip_39_word_new_line1: logic
+bip_39_word_new_line10: 'logic
+
+  reject
+
+  rate
+
+  suggest
+
+  vessel
+
+  good
+
+  stereo
+
+  someone
+
+  room
+
+  speed'
+bip_39_word_new_line11: 'logic
+
+  reject
+
+  rate
+
+  suggest
+
+  vessel
+
+  good
+
+  stereo
+
+  someone
+
+  room
+
+  speed
+
+  sort'
+bip_39_word_new_line12: 'logic
+
+  reject
+
+  rate
+
+  suggest
+
+  vessel
+
+  good
+
+  stereo
+
+  someone
+
+  room
+
+  speed
+
+  sort
+
+  aerobic'
+bip_39_word_new_line2: 'logic
+
+  reject'
+bip_39_word_new_line3: 'logic
+
+  reject
+
+  rate'
+bip_39_word_new_line4: 'logic
+
+  reject
+
+  rate
+
+  suggest'
+bip_39_word_new_line5: 'logic
+
+  reject
+
+  rate
+
+  suggest
+
+  vessel'
+bip_39_word_new_line6: 'logic
+
+  reject
+
+  rate
+
+  suggest
+
+  vessel
+
+  good'
+bip_39_word_new_line7: 'logic
+
+  reject
+
+  rate
+
+  suggest
+
+  vessel
+
+  good
+
+  stereo'
+bip_39_word_new_line8: 'logic
+
+  reject
+
+  rate
+
+  suggest
+
+  vessel
+
+  good
+
+  stereo
+
+  someone'
+bip_39_word_new_line9: 'logic
+
+  reject
+
+  rate
+
+  suggest
+
+  vessel
+
+  good
+
+  stereo
+
+  someone
+
+  room'
+bip_39_word_space_0:
+- logic
+- reject
+- rate
+- suggest
+- vessel
+- good
+- stereo
+- someone
+- room
+- speed
+- sort
+- aerobic
+bip_39_word_space_1: logic
+bip_39_word_space_10: logic reject rate suggest vessel good stereo someone room speed
+bip_39_word_space_11: logic reject rate suggest vessel good stereo someone room speed
+  sort
+bip_39_word_space_12: logic reject rate suggest vessel good stereo someone room speed
+  sort aerobic
+bip_39_word_space_2: logic reject
+bip_39_word_space_3: logic reject rate
+bip_39_word_space_4: logic reject rate suggest
+bip_39_word_space_5: logic reject rate suggest vessel
+bip_39_word_space_6: logic reject rate suggest vessel good
+bip_39_word_space_7: logic reject rate suggest vessel good stereo
+bip_39_word_space_8: logic reject rate suggest vessel good stereo someone
+bip_39_word_space_9: logic reject rate suggest vessel good stereo someone room
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

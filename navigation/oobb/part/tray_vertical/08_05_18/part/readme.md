@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excess obey
+  * bip 39 word 3: excess obey drip
+  * bip 39 word: excess obey drip swift trash say craft scan chalk business path attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excess |  
+| bip_39_word_new_br10 | excess<br>obey<br>drip<br>swift<br>trash<br>say<br>craft<br>scan<br>chalk<br>business |  
+| bip_39_word_new_br11 | excess<br>obey<br>drip<br>swift<br>trash<br>say<br>craft<br>scan<br>chalk<br>business<br>path |  
+| bip_39_word_new_br12 | excess<br>obey<br>drip<br>swift<br>trash<br>say<br>craft<br>scan<br>chalk<br>business<br>path<br>attitude |  
+| bip_39_word_new_br2 | excess<br>obey |  
+| bip_39_word_new_br3 | excess<br>obey<br>drip |  
+| bip_39_word_new_br4 | excess<br>obey<br>drip<br>swift |  
+| bip_39_word_new_br5 | excess<br>obey<br>drip<br>swift<br>trash |  
+| bip_39_word_new_br6 | excess<br>obey<br>drip<br>swift<br>trash<br>say |  
+| bip_39_word_new_br7 | excess<br>obey<br>drip<br>swift<br>trash<br>say<br>craft |  
+| bip_39_word_new_br8 | excess<br>obey<br>drip<br>swift<br>trash<br>say<br>craft<br>scan |  
+| bip_39_word_new_br9 | excess<br>obey<br>drip<br>swift<br>trash<br>say<br>craft<br>scan<br>chalk |  
+| bip_39_word_new_line1 | excess |  
+| bip_39_word_new_line10 | excess
+obey
+drip
+swift
+trash
+say
+craft
+scan
+chalk
+business |  
+| bip_39_word_new_line11 | excess
+obey
+drip
+swift
+trash
+say
+craft
+scan
+chalk
+business
+path |  
+| bip_39_word_new_line12 | excess
+obey
+drip
+swift
+trash
+say
+craft
+scan
+chalk
+business
+path
+attitude |  
+| bip_39_word_new_line2 | excess
+obey |  
+| bip_39_word_new_line3 | excess
+obey
+drip |  
+| bip_39_word_new_line4 | excess
+obey
+drip
+swift |  
+| bip_39_word_new_line5 | excess
+obey
+drip
+swift
+trash |  
+| bip_39_word_new_line6 | excess
+obey
+drip
+swift
+trash
+say |  
+| bip_39_word_new_line7 | excess
+obey
+drip
+swift
+trash
+say
+craft |  
+| bip_39_word_new_line8 | excess
+obey
+drip
+swift
+trash
+say
+craft
+scan |  
+| bip_39_word_new_line9 | excess
+obey
+drip
+swift
+trash
+say
+craft
+scan
+chalk |  
+| bip_39_word_space_0 | ['excess', 'obey', 'drip', 'swift', 'trash', 'say', 'craft', 'scan', 'chalk', 'business', 'path', 'attitude'] |  
+| bip_39_word_space_1 | excess |  
+| bip_39_word_space_10 | excess obey drip swift trash say craft scan chalk business |  
+| bip_39_word_space_11 | excess obey drip swift trash say craft scan chalk business path |  
+| bip_39_word_space_12 | excess obey drip swift trash say craft scan chalk business path attitude |  
+| bip_39_word_space_2 | excess obey |  
+| bip_39_word_space_3 | excess obey drip |  
+| bip_39_word_space_4 | excess obey drip swift |  
+| bip_39_word_space_5 | excess obey drip swift trash |  
+| bip_39_word_space_6 | excess obey drip swift trash say |  
+| bip_39_word_space_7 | excess obey drip swift trash say craft |  
+| bip_39_word_space_8 | excess obey drip swift trash say craft scan |  
+| bip_39_word_space_9 | excess obey drip swift trash say craft scan chalk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

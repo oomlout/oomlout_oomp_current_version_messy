@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: film later
+  * bip 39 word 3: film later canal
+  * bip 39 word: film later canal real various fossil kitchen bicycle song fatal trend actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | film |  
+| bip_39_word_new_br10 | film<br>later<br>canal<br>real<br>various<br>fossil<br>kitchen<br>bicycle<br>song<br>fatal |  
+| bip_39_word_new_br11 | film<br>later<br>canal<br>real<br>various<br>fossil<br>kitchen<br>bicycle<br>song<br>fatal<br>trend |  
+| bip_39_word_new_br12 | film<br>later<br>canal<br>real<br>various<br>fossil<br>kitchen<br>bicycle<br>song<br>fatal<br>trend<br>actual |  
+| bip_39_word_new_br2 | film<br>later |  
+| bip_39_word_new_br3 | film<br>later<br>canal |  
+| bip_39_word_new_br4 | film<br>later<br>canal<br>real |  
+| bip_39_word_new_br5 | film<br>later<br>canal<br>real<br>various |  
+| bip_39_word_new_br6 | film<br>later<br>canal<br>real<br>various<br>fossil |  
+| bip_39_word_new_br7 | film<br>later<br>canal<br>real<br>various<br>fossil<br>kitchen |  
+| bip_39_word_new_br8 | film<br>later<br>canal<br>real<br>various<br>fossil<br>kitchen<br>bicycle |  
+| bip_39_word_new_br9 | film<br>later<br>canal<br>real<br>various<br>fossil<br>kitchen<br>bicycle<br>song |  
+| bip_39_word_new_line1 | film |  
+| bip_39_word_new_line10 | film
+later
+canal
+real
+various
+fossil
+kitchen
+bicycle
+song
+fatal |  
+| bip_39_word_new_line11 | film
+later
+canal
+real
+various
+fossil
+kitchen
+bicycle
+song
+fatal
+trend |  
+| bip_39_word_new_line12 | film
+later
+canal
+real
+various
+fossil
+kitchen
+bicycle
+song
+fatal
+trend
+actual |  
+| bip_39_word_new_line2 | film
+later |  
+| bip_39_word_new_line3 | film
+later
+canal |  
+| bip_39_word_new_line4 | film
+later
+canal
+real |  
+| bip_39_word_new_line5 | film
+later
+canal
+real
+various |  
+| bip_39_word_new_line6 | film
+later
+canal
+real
+various
+fossil |  
+| bip_39_word_new_line7 | film
+later
+canal
+real
+various
+fossil
+kitchen |  
+| bip_39_word_new_line8 | film
+later
+canal
+real
+various
+fossil
+kitchen
+bicycle |  
+| bip_39_word_new_line9 | film
+later
+canal
+real
+various
+fossil
+kitchen
+bicycle
+song |  
+| bip_39_word_space_0 | ['film', 'later', 'canal', 'real', 'various', 'fossil', 'kitchen', 'bicycle', 'song', 'fatal', 'trend', 'actual'] |  
+| bip_39_word_space_1 | film |  
+| bip_39_word_space_10 | film later canal real various fossil kitchen bicycle song fatal |  
+| bip_39_word_space_11 | film later canal real various fossil kitchen bicycle song fatal trend |  
+| bip_39_word_space_12 | film later canal real various fossil kitchen bicycle song fatal trend actual |  
+| bip_39_word_space_2 | film later |  
+| bip_39_word_space_3 | film later canal |  
+| bip_39_word_space_4 | film later canal real |  
+| bip_39_word_space_5 | film later canal real various |  
+| bip_39_word_space_6 | film later canal real various fossil |  
+| bip_39_word_space_7 | film later canal real various fossil kitchen |  
+| bip_39_word_space_8 | film later canal real various fossil kitchen bicycle |  
+| bip_39_word_space_9 | film later canal real various fossil kitchen bicycle song |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

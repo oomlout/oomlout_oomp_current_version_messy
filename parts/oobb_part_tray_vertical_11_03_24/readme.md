@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: super tissue
+  * bip 39 word 3: super tissue brother
+  * bip 39 word: super tissue brother bronze piano trash act struggle cinnamon situate cat auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | super |  
+| bip_39_word_new_br10 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash<br>act<br>struggle<br>cinnamon<br>situate |  
+| bip_39_word_new_br11 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash<br>act<br>struggle<br>cinnamon<br>situate<br>cat |  
+| bip_39_word_new_br12 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash<br>act<br>struggle<br>cinnamon<br>situate<br>cat<br>auction |  
+| bip_39_word_new_br2 | super<br>tissue |  
+| bip_39_word_new_br3 | super<br>tissue<br>brother |  
+| bip_39_word_new_br4 | super<br>tissue<br>brother<br>bronze |  
+| bip_39_word_new_br5 | super<br>tissue<br>brother<br>bronze<br>piano |  
+| bip_39_word_new_br6 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash |  
+| bip_39_word_new_br7 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash<br>act |  
+| bip_39_word_new_br8 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash<br>act<br>struggle |  
+| bip_39_word_new_br9 | super<br>tissue<br>brother<br>bronze<br>piano<br>trash<br>act<br>struggle<br>cinnamon |  
+| bip_39_word_new_line1 | super |  
+| bip_39_word_new_line10 | super
+tissue
+brother
+bronze
+piano
+trash
+act
+struggle
+cinnamon
+situate |  
+| bip_39_word_new_line11 | super
+tissue
+brother
+bronze
+piano
+trash
+act
+struggle
+cinnamon
+situate
+cat |  
+| bip_39_word_new_line12 | super
+tissue
+brother
+bronze
+piano
+trash
+act
+struggle
+cinnamon
+situate
+cat
+auction |  
+| bip_39_word_new_line2 | super
+tissue |  
+| bip_39_word_new_line3 | super
+tissue
+brother |  
+| bip_39_word_new_line4 | super
+tissue
+brother
+bronze |  
+| bip_39_word_new_line5 | super
+tissue
+brother
+bronze
+piano |  
+| bip_39_word_new_line6 | super
+tissue
+brother
+bronze
+piano
+trash |  
+| bip_39_word_new_line7 | super
+tissue
+brother
+bronze
+piano
+trash
+act |  
+| bip_39_word_new_line8 | super
+tissue
+brother
+bronze
+piano
+trash
+act
+struggle |  
+| bip_39_word_new_line9 | super
+tissue
+brother
+bronze
+piano
+trash
+act
+struggle
+cinnamon |  
+| bip_39_word_space_0 | ['super', 'tissue', 'brother', 'bronze', 'piano', 'trash', 'act', 'struggle', 'cinnamon', 'situate', 'cat', 'auction'] |  
+| bip_39_word_space_1 | super |  
+| bip_39_word_space_10 | super tissue brother bronze piano trash act struggle cinnamon situate |  
+| bip_39_word_space_11 | super tissue brother bronze piano trash act struggle cinnamon situate cat |  
+| bip_39_word_space_12 | super tissue brother bronze piano trash act struggle cinnamon situate cat auction |  
+| bip_39_word_space_2 | super tissue |  
+| bip_39_word_space_3 | super tissue brother |  
+| bip_39_word_space_4 | super tissue brother bronze |  
+| bip_39_word_space_5 | super tissue brother bronze piano |  
+| bip_39_word_space_6 | super tissue brother bronze piano trash |  
+| bip_39_word_space_7 | super tissue brother bronze piano trash act |  
+| bip_39_word_space_8 | super tissue brother bronze piano trash act struggle |  
+| bip_39_word_space_9 | super tissue brother bronze piano trash act struggle cinnamon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

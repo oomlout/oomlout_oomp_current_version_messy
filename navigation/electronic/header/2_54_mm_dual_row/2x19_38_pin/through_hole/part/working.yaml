@@ -1,3 +1,185 @@
+bip_39_word_new_br1: tide
+bip_39_word_new_br10: tide<br>vague<br>man<br>give<br>base<br>toddler<br>release<br>mind<br>cotton<br>owner
+bip_39_word_new_br11: tide<br>vague<br>man<br>give<br>base<br>toddler<br>release<br>mind<br>cotton<br>owner<br>lab
+bip_39_word_new_br12: tide<br>vague<br>man<br>give<br>base<br>toddler<br>release<br>mind<br>cotton<br>owner<br>lab<br>arrow
+bip_39_word_new_br2: tide<br>vague
+bip_39_word_new_br3: tide<br>vague<br>man
+bip_39_word_new_br4: tide<br>vague<br>man<br>give
+bip_39_word_new_br5: tide<br>vague<br>man<br>give<br>base
+bip_39_word_new_br6: tide<br>vague<br>man<br>give<br>base<br>toddler
+bip_39_word_new_br7: tide<br>vague<br>man<br>give<br>base<br>toddler<br>release
+bip_39_word_new_br8: tide<br>vague<br>man<br>give<br>base<br>toddler<br>release<br>mind
+bip_39_word_new_br9: tide<br>vague<br>man<br>give<br>base<br>toddler<br>release<br>mind<br>cotton
+bip_39_word_new_line1: tide
+bip_39_word_new_line10: 'tide
+
+  vague
+
+  man
+
+  give
+
+  base
+
+  toddler
+
+  release
+
+  mind
+
+  cotton
+
+  owner'
+bip_39_word_new_line11: 'tide
+
+  vague
+
+  man
+
+  give
+
+  base
+
+  toddler
+
+  release
+
+  mind
+
+  cotton
+
+  owner
+
+  lab'
+bip_39_word_new_line12: 'tide
+
+  vague
+
+  man
+
+  give
+
+  base
+
+  toddler
+
+  release
+
+  mind
+
+  cotton
+
+  owner
+
+  lab
+
+  arrow'
+bip_39_word_new_line2: 'tide
+
+  vague'
+bip_39_word_new_line3: 'tide
+
+  vague
+
+  man'
+bip_39_word_new_line4: 'tide
+
+  vague
+
+  man
+
+  give'
+bip_39_word_new_line5: 'tide
+
+  vague
+
+  man
+
+  give
+
+  base'
+bip_39_word_new_line6: 'tide
+
+  vague
+
+  man
+
+  give
+
+  base
+
+  toddler'
+bip_39_word_new_line7: 'tide
+
+  vague
+
+  man
+
+  give
+
+  base
+
+  toddler
+
+  release'
+bip_39_word_new_line8: 'tide
+
+  vague
+
+  man
+
+  give
+
+  base
+
+  toddler
+
+  release
+
+  mind'
+bip_39_word_new_line9: 'tide
+
+  vague
+
+  man
+
+  give
+
+  base
+
+  toddler
+
+  release
+
+  mind
+
+  cotton'
+bip_39_word_space_0:
+- tide
+- vague
+- man
+- give
+- base
+- toddler
+- release
+- mind
+- cotton
+- owner
+- lab
+- arrow
+bip_39_word_space_1: tide
+bip_39_word_space_10: tide vague man give base toddler release mind cotton owner
+bip_39_word_space_11: tide vague man give base toddler release mind cotton owner lab
+bip_39_word_space_12: tide vague man give base toddler release mind cotton owner lab
+  arrow
+bip_39_word_space_2: tide vague
+bip_39_word_space_3: tide vague man
+bip_39_word_space_4: tide vague man give
+bip_39_word_space_5: tide vague man give base
+bip_39_word_space_6: tide vague man give base toddler
+bip_39_word_space_7: tide vague man give base toddler release
+bip_39_word_space_8: tide vague man give base toddler release mind
+bip_39_word_space_9: tide vague man give base toddler release mind cotton
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

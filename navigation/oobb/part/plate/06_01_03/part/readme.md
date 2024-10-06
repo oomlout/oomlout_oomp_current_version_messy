@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: various wait
+  * bip 39 word 3: various wait skull
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | various |  
+| bip_39_word_new_br10 | various<br>wait<br>skull<br>provide<br>major<br>dance<br>friend<br>right<br>invite<br>topic |  
+| bip_39_word_new_br11 | various<br>wait<br>skull<br>provide<br>major<br>dance<br>friend<br>right<br>invite<br>topic<br>slow |  
+| bip_39_word_new_br2 | various<br>wait |  
+| bip_39_word_new_br3 | various<br>wait<br>skull |  
+| bip_39_word_new_br4 | various<br>wait<br>skull<br>provide |  
+| bip_39_word_new_br5 | various<br>wait<br>skull<br>provide<br>major |  
+| bip_39_word_new_br6 | various<br>wait<br>skull<br>provide<br>major<br>dance |  
+| bip_39_word_new_br7 | various<br>wait<br>skull<br>provide<br>major<br>dance<br>friend |  
+| bip_39_word_new_br8 | various<br>wait<br>skull<br>provide<br>major<br>dance<br>friend<br>right |  
+| bip_39_word_new_br9 | various<br>wait<br>skull<br>provide<br>major<br>dance<br>friend<br>right<br>invite |  
+| bip_39_word_new_line1 | various |  
+| bip_39_word_new_line10 | various
+wait
+skull
+provide
+major
+dance
+friend
+right
+invite
+topic |  
+| bip_39_word_new_line11 | various
+wait
+skull
+provide
+major
+dance
+friend
+right
+invite
+topic
+slow |  
+| bip_39_word_new_line2 | various
+wait |  
+| bip_39_word_new_line3 | various
+wait
+skull |  
+| bip_39_word_new_line4 | various
+wait
+skull
+provide |  
+| bip_39_word_new_line5 | various
+wait
+skull
+provide
+major |  
+| bip_39_word_new_line6 | various
+wait
+skull
+provide
+major
+dance |  
+| bip_39_word_new_line7 | various
+wait
+skull
+provide
+major
+dance
+friend |  
+| bip_39_word_new_line8 | various
+wait
+skull
+provide
+major
+dance
+friend
+right |  
+| bip_39_word_new_line9 | various
+wait
+skull
+provide
+major
+dance
+friend
+right
+invite |  
+| bip_39_word_space_0 | ['various', 'wait', 'skull', 'provide', 'major', 'dance', 'friend', 'right', 'invite', 'topic', 'slow'] |  
+| bip_39_word_space_1 | various |  
+| bip_39_word_space_10 | various wait skull provide major dance friend right invite topic |  
+| bip_39_word_space_11 | various wait skull provide major dance friend right invite topic slow |  
+| bip_39_word_space_2 | various wait |  
+| bip_39_word_space_3 | various wait skull |  
+| bip_39_word_space_4 | various wait skull provide |  
+| bip_39_word_space_5 | various wait skull provide major |  
+| bip_39_word_space_6 | various wait skull provide major dance |  
+| bip_39_word_space_7 | various wait skull provide major dance friend |  
+| bip_39_word_space_8 | various wait skull provide major dance friend right |  
+| bip_39_word_space_9 | various wait skull provide major dance friend right invite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

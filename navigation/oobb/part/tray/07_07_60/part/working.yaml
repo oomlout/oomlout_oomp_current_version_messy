@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chalk
+bip_39_word_new_br10: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge<br>warm<br>obvious<br>phrase<br>brain
+bip_39_word_new_br11: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge<br>warm<br>obvious<br>phrase<br>brain<br>fork
+bip_39_word_new_br12: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge<br>warm<br>obvious<br>phrase<br>brain<br>fork<br>attend
+bip_39_word_new_br2: chalk<br>mirror
+bip_39_word_new_br3: chalk<br>mirror<br>torch
+bip_39_word_new_br4: chalk<br>mirror<br>torch<br>glad
+bip_39_word_new_br5: chalk<br>mirror<br>torch<br>glad<br>obvious
+bip_39_word_new_br6: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge
+bip_39_word_new_br7: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge<br>warm
+bip_39_word_new_br8: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge<br>warm<br>obvious
+bip_39_word_new_br9: chalk<br>mirror<br>torch<br>glad<br>obvious<br>surge<br>warm<br>obvious<br>phrase
+bip_39_word_new_line1: chalk
+bip_39_word_new_line10: 'chalk
+
+  mirror
+
+  torch
+
+  glad
+
+  obvious
+
+  surge
+
+  warm
+
+  obvious
+
+  phrase
+
+  brain'
+bip_39_word_new_line11: 'chalk
+
+  mirror
+
+  torch
+
+  glad
+
+  obvious
+
+  surge
+
+  warm
+
+  obvious
+
+  phrase
+
+  brain
+
+  fork'
+bip_39_word_new_line12: 'chalk
+
+  mirror
+
+  torch
+
+  glad
+
+  obvious
+
+  surge
+
+  warm
+
+  obvious
+
+  phrase
+
+  brain
+
+  fork
+
+  attend'
+bip_39_word_new_line2: 'chalk
+
+  mirror'
+bip_39_word_new_line3: 'chalk
+
+  mirror
+
+  torch'
+bip_39_word_new_line4: 'chalk
+
+  mirror
+
+  torch
+
+  glad'
+bip_39_word_new_line5: 'chalk
+
+  mirror
+
+  torch
+
+  glad
+
+  obvious'
+bip_39_word_new_line6: 'chalk
+
+  mirror
+
+  torch
+
+  glad
+
+  obvious
+
+  surge'
+bip_39_word_new_line7: 'chalk
+
+  mirror
+
+  torch
+
+  glad
+
+  obvious
+
+  surge
+
+  warm'
+bip_39_word_new_line8: 'chalk
+
+  mirror
+
+  torch
+
+  glad
+
+  obvious
+
+  surge
+
+  warm
+
+  obvious'
+bip_39_word_new_line9: 'chalk
+
+  mirror
+
+  torch
+
+  glad
+
+  obvious
+
+  surge
+
+  warm
+
+  obvious
+
+  phrase'
+bip_39_word_space_0:
+- chalk
+- mirror
+- torch
+- glad
+- obvious
+- surge
+- warm
+- obvious
+- phrase
+- brain
+- fork
+- attend
+bip_39_word_space_1: chalk
+bip_39_word_space_10: chalk mirror torch glad obvious surge warm obvious phrase brain
+bip_39_word_space_11: chalk mirror torch glad obvious surge warm obvious phrase brain
+  fork
+bip_39_word_space_12: chalk mirror torch glad obvious surge warm obvious phrase brain
+  fork attend
+bip_39_word_space_2: chalk mirror
+bip_39_word_space_3: chalk mirror torch
+bip_39_word_space_4: chalk mirror torch glad
+bip_39_word_space_5: chalk mirror torch glad obvious
+bip_39_word_space_6: chalk mirror torch glad obvious surge
+bip_39_word_space_7: chalk mirror torch glad obvious surge warm
+bip_39_word_space_8: chalk mirror torch glad obvious surge warm obvious
+bip_39_word_space_9: chalk mirror torch glad obvious surge warm obvious phrase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

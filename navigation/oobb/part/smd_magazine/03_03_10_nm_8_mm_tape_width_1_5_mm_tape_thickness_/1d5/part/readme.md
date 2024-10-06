@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: silent input
+  * bip 39 word 3: silent input dinner
+  * bip 39 word: silent input dinner unknown buyer emotion bacon action volcano two close auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | silent |  
+| bip_39_word_new_br10 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano<br>two |  
+| bip_39_word_new_br11 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano<br>two<br>close |  
+| bip_39_word_new_br12 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano<br>two<br>close<br>auto |  
+| bip_39_word_new_br2 | silent<br>input |  
+| bip_39_word_new_br3 | silent<br>input<br>dinner |  
+| bip_39_word_new_br4 | silent<br>input<br>dinner<br>unknown |  
+| bip_39_word_new_br5 | silent<br>input<br>dinner<br>unknown<br>buyer |  
+| bip_39_word_new_br6 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion |  
+| bip_39_word_new_br7 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon |  
+| bip_39_word_new_br8 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action |  
+| bip_39_word_new_br9 | silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano |  
+| bip_39_word_new_line1 | silent |  
+| bip_39_word_new_line10 | silent
+input
+dinner
+unknown
+buyer
+emotion
+bacon
+action
+volcano
+two |  
+| bip_39_word_new_line11 | silent
+input
+dinner
+unknown
+buyer
+emotion
+bacon
+action
+volcano
+two
+close |  
+| bip_39_word_new_line12 | silent
+input
+dinner
+unknown
+buyer
+emotion
+bacon
+action
+volcano
+two
+close
+auto |  
+| bip_39_word_new_line2 | silent
+input |  
+| bip_39_word_new_line3 | silent
+input
+dinner |  
+| bip_39_word_new_line4 | silent
+input
+dinner
+unknown |  
+| bip_39_word_new_line5 | silent
+input
+dinner
+unknown
+buyer |  
+| bip_39_word_new_line6 | silent
+input
+dinner
+unknown
+buyer
+emotion |  
+| bip_39_word_new_line7 | silent
+input
+dinner
+unknown
+buyer
+emotion
+bacon |  
+| bip_39_word_new_line8 | silent
+input
+dinner
+unknown
+buyer
+emotion
+bacon
+action |  
+| bip_39_word_new_line9 | silent
+input
+dinner
+unknown
+buyer
+emotion
+bacon
+action
+volcano |  
+| bip_39_word_space_0 | ['silent', 'input', 'dinner', 'unknown', 'buyer', 'emotion', 'bacon', 'action', 'volcano', 'two', 'close', 'auto'] |  
+| bip_39_word_space_1 | silent |  
+| bip_39_word_space_10 | silent input dinner unknown buyer emotion bacon action volcano two |  
+| bip_39_word_space_11 | silent input dinner unknown buyer emotion bacon action volcano two close |  
+| bip_39_word_space_12 | silent input dinner unknown buyer emotion bacon action volcano two close auto |  
+| bip_39_word_space_2 | silent input |  
+| bip_39_word_space_3 | silent input dinner |  
+| bip_39_word_space_4 | silent input dinner unknown |  
+| bip_39_word_space_5 | silent input dinner unknown buyer |  
+| bip_39_word_space_6 | silent input dinner unknown buyer emotion |  
+| bip_39_word_space_7 | silent input dinner unknown buyer emotion bacon |  
+| bip_39_word_space_8 | silent input dinner unknown buyer emotion bacon action |  
+| bip_39_word_space_9 | silent input dinner unknown buyer emotion bacon action volcano |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

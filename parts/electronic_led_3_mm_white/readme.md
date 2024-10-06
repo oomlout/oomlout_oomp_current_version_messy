@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: erosion marine
+  * bip 39 word 3: erosion marine child
+  * bip 39 word: erosion marine child afraid warm fall favorite theory nest sweet snake always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | erosion |  
+| bip_39_word_new_br10 | erosion<br>marine<br>child<br>afraid<br>warm<br>fall<br>favorite<br>theory<br>nest<br>sweet |  
+| bip_39_word_new_br11 | erosion<br>marine<br>child<br>afraid<br>warm<br>fall<br>favorite<br>theory<br>nest<br>sweet<br>snake |  
+| bip_39_word_new_br12 | erosion<br>marine<br>child<br>afraid<br>warm<br>fall<br>favorite<br>theory<br>nest<br>sweet<br>snake<br>always |  
+| bip_39_word_new_br2 | erosion<br>marine |  
+| bip_39_word_new_br3 | erosion<br>marine<br>child |  
+| bip_39_word_new_br4 | erosion<br>marine<br>child<br>afraid |  
+| bip_39_word_new_br5 | erosion<br>marine<br>child<br>afraid<br>warm |  
+| bip_39_word_new_br6 | erosion<br>marine<br>child<br>afraid<br>warm<br>fall |  
+| bip_39_word_new_br7 | erosion<br>marine<br>child<br>afraid<br>warm<br>fall<br>favorite |  
+| bip_39_word_new_br8 | erosion<br>marine<br>child<br>afraid<br>warm<br>fall<br>favorite<br>theory |  
+| bip_39_word_new_br9 | erosion<br>marine<br>child<br>afraid<br>warm<br>fall<br>favorite<br>theory<br>nest |  
+| bip_39_word_new_line1 | erosion |  
+| bip_39_word_new_line10 | erosion
+marine
+child
+afraid
+warm
+fall
+favorite
+theory
+nest
+sweet |  
+| bip_39_word_new_line11 | erosion
+marine
+child
+afraid
+warm
+fall
+favorite
+theory
+nest
+sweet
+snake |  
+| bip_39_word_new_line12 | erosion
+marine
+child
+afraid
+warm
+fall
+favorite
+theory
+nest
+sweet
+snake
+always |  
+| bip_39_word_new_line2 | erosion
+marine |  
+| bip_39_word_new_line3 | erosion
+marine
+child |  
+| bip_39_word_new_line4 | erosion
+marine
+child
+afraid |  
+| bip_39_word_new_line5 | erosion
+marine
+child
+afraid
+warm |  
+| bip_39_word_new_line6 | erosion
+marine
+child
+afraid
+warm
+fall |  
+| bip_39_word_new_line7 | erosion
+marine
+child
+afraid
+warm
+fall
+favorite |  
+| bip_39_word_new_line8 | erosion
+marine
+child
+afraid
+warm
+fall
+favorite
+theory |  
+| bip_39_word_new_line9 | erosion
+marine
+child
+afraid
+warm
+fall
+favorite
+theory
+nest |  
+| bip_39_word_space_0 | ['erosion', 'marine', 'child', 'afraid', 'warm', 'fall', 'favorite', 'theory', 'nest', 'sweet', 'snake', 'always'] |  
+| bip_39_word_space_1 | erosion |  
+| bip_39_word_space_10 | erosion marine child afraid warm fall favorite theory nest sweet |  
+| bip_39_word_space_11 | erosion marine child afraid warm fall favorite theory nest sweet snake |  
+| bip_39_word_space_12 | erosion marine child afraid warm fall favorite theory nest sweet snake always |  
+| bip_39_word_space_2 | erosion marine |  
+| bip_39_word_space_3 | erosion marine child |  
+| bip_39_word_space_4 | erosion marine child afraid |  
+| bip_39_word_space_5 | erosion marine child afraid warm |  
+| bip_39_word_space_6 | erosion marine child afraid warm fall |  
+| bip_39_word_space_7 | erosion marine child afraid warm fall favorite |  
+| bip_39_word_space_8 | erosion marine child afraid warm fall favorite theory |  
+| bip_39_word_space_9 | erosion marine child afraid warm fall favorite theory nest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

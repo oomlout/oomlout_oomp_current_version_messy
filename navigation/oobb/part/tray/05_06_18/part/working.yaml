@@ -1,3 +1,186 @@
+bip_39_word_new_br1: food
+bip_39_word_new_br10: food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route
+bip_39_word_new_br11: food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route<br>water
+bip_39_word_new_br12: food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork<br>route<br>water<br>allow
+bip_39_word_new_br2: food<br>humble
+bip_39_word_new_br3: food<br>humble<br>find
+bip_39_word_new_br4: food<br>humble<br>find<br>puzzle
+bip_39_word_new_br5: food<br>humble<br>find<br>puzzle<br>invite
+bip_39_word_new_br6: food<br>humble<br>find<br>puzzle<br>invite<br>diagram
+bip_39_word_new_br7: food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo
+bip_39_word_new_br8: food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit
+bip_39_word_new_br9: food<br>humble<br>find<br>puzzle<br>invite<br>diagram<br>buffalo<br>suit<br>fork
+bip_39_word_new_line1: food
+bip_39_word_new_line10: 'food
+
+  humble
+
+  find
+
+  puzzle
+
+  invite
+
+  diagram
+
+  buffalo
+
+  suit
+
+  fork
+
+  route'
+bip_39_word_new_line11: 'food
+
+  humble
+
+  find
+
+  puzzle
+
+  invite
+
+  diagram
+
+  buffalo
+
+  suit
+
+  fork
+
+  route
+
+  water'
+bip_39_word_new_line12: 'food
+
+  humble
+
+  find
+
+  puzzle
+
+  invite
+
+  diagram
+
+  buffalo
+
+  suit
+
+  fork
+
+  route
+
+  water
+
+  allow'
+bip_39_word_new_line2: 'food
+
+  humble'
+bip_39_word_new_line3: 'food
+
+  humble
+
+  find'
+bip_39_word_new_line4: 'food
+
+  humble
+
+  find
+
+  puzzle'
+bip_39_word_new_line5: 'food
+
+  humble
+
+  find
+
+  puzzle
+
+  invite'
+bip_39_word_new_line6: 'food
+
+  humble
+
+  find
+
+  puzzle
+
+  invite
+
+  diagram'
+bip_39_word_new_line7: 'food
+
+  humble
+
+  find
+
+  puzzle
+
+  invite
+
+  diagram
+
+  buffalo'
+bip_39_word_new_line8: 'food
+
+  humble
+
+  find
+
+  puzzle
+
+  invite
+
+  diagram
+
+  buffalo
+
+  suit'
+bip_39_word_new_line9: 'food
+
+  humble
+
+  find
+
+  puzzle
+
+  invite
+
+  diagram
+
+  buffalo
+
+  suit
+
+  fork'
+bip_39_word_space_0:
+- food
+- humble
+- find
+- puzzle
+- invite
+- diagram
+- buffalo
+- suit
+- fork
+- route
+- water
+- allow
+bip_39_word_space_1: food
+bip_39_word_space_10: food humble find puzzle invite diagram buffalo suit fork route
+bip_39_word_space_11: food humble find puzzle invite diagram buffalo suit fork route
+  water
+bip_39_word_space_12: food humble find puzzle invite diagram buffalo suit fork route
+  water allow
+bip_39_word_space_2: food humble
+bip_39_word_space_3: food humble find
+bip_39_word_space_4: food humble find puzzle
+bip_39_word_space_5: food humble find puzzle invite
+bip_39_word_space_6: food humble find puzzle invite diagram
+bip_39_word_space_7: food humble find puzzle invite diagram buffalo
+bip_39_word_space_8: food humble find puzzle invite diagram buffalo suit
+bip_39_word_space_9: food humble find puzzle invite diagram buffalo suit fork
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

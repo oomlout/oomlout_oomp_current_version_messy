@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skate miracle
+  * bip 39 word 3: skate miracle rug
+  * bip 39 word: skate miracle rug race audit evolve swear setup armed trigger inject artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skate |  
+| bip_39_word_new_br10 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger |  
+| bip_39_word_new_br11 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger<br>inject |  
+| bip_39_word_new_br12 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed<br>trigger<br>inject<br>artist |  
+| bip_39_word_new_br2 | skate<br>miracle |  
+| bip_39_word_new_br3 | skate<br>miracle<br>rug |  
+| bip_39_word_new_br4 | skate<br>miracle<br>rug<br>race |  
+| bip_39_word_new_br5 | skate<br>miracle<br>rug<br>race<br>audit |  
+| bip_39_word_new_br6 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve |  
+| bip_39_word_new_br7 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear |  
+| bip_39_word_new_br8 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup |  
+| bip_39_word_new_br9 | skate<br>miracle<br>rug<br>race<br>audit<br>evolve<br>swear<br>setup<br>armed |  
+| bip_39_word_new_line1 | skate |  
+| bip_39_word_new_line10 | skate
+miracle
+rug
+race
+audit
+evolve
+swear
+setup
+armed
+trigger |  
+| bip_39_word_new_line11 | skate
+miracle
+rug
+race
+audit
+evolve
+swear
+setup
+armed
+trigger
+inject |  
+| bip_39_word_new_line12 | skate
+miracle
+rug
+race
+audit
+evolve
+swear
+setup
+armed
+trigger
+inject
+artist |  
+| bip_39_word_new_line2 | skate
+miracle |  
+| bip_39_word_new_line3 | skate
+miracle
+rug |  
+| bip_39_word_new_line4 | skate
+miracle
+rug
+race |  
+| bip_39_word_new_line5 | skate
+miracle
+rug
+race
+audit |  
+| bip_39_word_new_line6 | skate
+miracle
+rug
+race
+audit
+evolve |  
+| bip_39_word_new_line7 | skate
+miracle
+rug
+race
+audit
+evolve
+swear |  
+| bip_39_word_new_line8 | skate
+miracle
+rug
+race
+audit
+evolve
+swear
+setup |  
+| bip_39_word_new_line9 | skate
+miracle
+rug
+race
+audit
+evolve
+swear
+setup
+armed |  
+| bip_39_word_space_0 | ['skate', 'miracle', 'rug', 'race', 'audit', 'evolve', 'swear', 'setup', 'armed', 'trigger', 'inject', 'artist'] |  
+| bip_39_word_space_1 | skate |  
+| bip_39_word_space_10 | skate miracle rug race audit evolve swear setup armed trigger |  
+| bip_39_word_space_11 | skate miracle rug race audit evolve swear setup armed trigger inject |  
+| bip_39_word_space_12 | skate miracle rug race audit evolve swear setup armed trigger inject artist |  
+| bip_39_word_space_2 | skate miracle |  
+| bip_39_word_space_3 | skate miracle rug |  
+| bip_39_word_space_4 | skate miracle rug race |  
+| bip_39_word_space_5 | skate miracle rug race audit |  
+| bip_39_word_space_6 | skate miracle rug race audit evolve |  
+| bip_39_word_space_7 | skate miracle rug race audit evolve swear |  
+| bip_39_word_space_8 | skate miracle rug race audit evolve swear setup |  
+| bip_39_word_space_9 | skate miracle rug race audit evolve swear setup armed |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

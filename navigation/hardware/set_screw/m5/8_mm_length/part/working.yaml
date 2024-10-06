@@ -1,3 +1,187 @@
+bip_39_word_new_br1: castle
+bip_39_word_new_br10: castle<br>theory<br>ordinary<br>alarm<br>fame<br>slender<br>senior<br>sniff<br>gadget<br>walk
+bip_39_word_new_br11: castle<br>theory<br>ordinary<br>alarm<br>fame<br>slender<br>senior<br>sniff<br>gadget<br>walk<br>profit
+bip_39_word_new_br12: castle<br>theory<br>ordinary<br>alarm<br>fame<br>slender<br>senior<br>sniff<br>gadget<br>walk<br>profit<br>asthma
+bip_39_word_new_br2: castle<br>theory
+bip_39_word_new_br3: castle<br>theory<br>ordinary
+bip_39_word_new_br4: castle<br>theory<br>ordinary<br>alarm
+bip_39_word_new_br5: castle<br>theory<br>ordinary<br>alarm<br>fame
+bip_39_word_new_br6: castle<br>theory<br>ordinary<br>alarm<br>fame<br>slender
+bip_39_word_new_br7: castle<br>theory<br>ordinary<br>alarm<br>fame<br>slender<br>senior
+bip_39_word_new_br8: castle<br>theory<br>ordinary<br>alarm<br>fame<br>slender<br>senior<br>sniff
+bip_39_word_new_br9: castle<br>theory<br>ordinary<br>alarm<br>fame<br>slender<br>senior<br>sniff<br>gadget
+bip_39_word_new_line1: castle
+bip_39_word_new_line10: 'castle
+
+  theory
+
+  ordinary
+
+  alarm
+
+  fame
+
+  slender
+
+  senior
+
+  sniff
+
+  gadget
+
+  walk'
+bip_39_word_new_line11: 'castle
+
+  theory
+
+  ordinary
+
+  alarm
+
+  fame
+
+  slender
+
+  senior
+
+  sniff
+
+  gadget
+
+  walk
+
+  profit'
+bip_39_word_new_line12: 'castle
+
+  theory
+
+  ordinary
+
+  alarm
+
+  fame
+
+  slender
+
+  senior
+
+  sniff
+
+  gadget
+
+  walk
+
+  profit
+
+  asthma'
+bip_39_word_new_line2: 'castle
+
+  theory'
+bip_39_word_new_line3: 'castle
+
+  theory
+
+  ordinary'
+bip_39_word_new_line4: 'castle
+
+  theory
+
+  ordinary
+
+  alarm'
+bip_39_word_new_line5: 'castle
+
+  theory
+
+  ordinary
+
+  alarm
+
+  fame'
+bip_39_word_new_line6: 'castle
+
+  theory
+
+  ordinary
+
+  alarm
+
+  fame
+
+  slender'
+bip_39_word_new_line7: 'castle
+
+  theory
+
+  ordinary
+
+  alarm
+
+  fame
+
+  slender
+
+  senior'
+bip_39_word_new_line8: 'castle
+
+  theory
+
+  ordinary
+
+  alarm
+
+  fame
+
+  slender
+
+  senior
+
+  sniff'
+bip_39_word_new_line9: 'castle
+
+  theory
+
+  ordinary
+
+  alarm
+
+  fame
+
+  slender
+
+  senior
+
+  sniff
+
+  gadget'
+bip_39_word_space_0:
+- castle
+- theory
+- ordinary
+- alarm
+- fame
+- slender
+- senior
+- sniff
+- gadget
+- walk
+- profit
+- asthma
+bip_39_word_space_1: castle
+bip_39_word_space_10: castle theory ordinary alarm fame slender senior sniff gadget
+  walk
+bip_39_word_space_11: castle theory ordinary alarm fame slender senior sniff gadget
+  walk profit
+bip_39_word_space_12: castle theory ordinary alarm fame slender senior sniff gadget
+  walk profit asthma
+bip_39_word_space_2: castle theory
+bip_39_word_space_3: castle theory ordinary
+bip_39_word_space_4: castle theory ordinary alarm
+bip_39_word_space_5: castle theory ordinary alarm fame
+bip_39_word_space_6: castle theory ordinary alarm fame slender
+bip_39_word_space_7: castle theory ordinary alarm fame slender senior
+bip_39_word_space_8: castle theory ordinary alarm fame slender senior sniff
+bip_39_word_space_9: castle theory ordinary alarm fame slender senior sniff gadget
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

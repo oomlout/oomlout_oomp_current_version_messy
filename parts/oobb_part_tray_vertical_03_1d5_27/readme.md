@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: artist ocean
+  * bip 39 word 3: artist ocean session
+  * bip 39 word: artist ocean session cheese weird core mention valve perfect tail swap autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | artist |  
+| bip_39_word_new_br10 | artist<br>ocean<br>session<br>cheese<br>weird<br>core<br>mention<br>valve<br>perfect<br>tail |  
+| bip_39_word_new_br11 | artist<br>ocean<br>session<br>cheese<br>weird<br>core<br>mention<br>valve<br>perfect<br>tail<br>swap |  
+| bip_39_word_new_br12 | artist<br>ocean<br>session<br>cheese<br>weird<br>core<br>mention<br>valve<br>perfect<br>tail<br>swap<br>autumn |  
+| bip_39_word_new_br2 | artist<br>ocean |  
+| bip_39_word_new_br3 | artist<br>ocean<br>session |  
+| bip_39_word_new_br4 | artist<br>ocean<br>session<br>cheese |  
+| bip_39_word_new_br5 | artist<br>ocean<br>session<br>cheese<br>weird |  
+| bip_39_word_new_br6 | artist<br>ocean<br>session<br>cheese<br>weird<br>core |  
+| bip_39_word_new_br7 | artist<br>ocean<br>session<br>cheese<br>weird<br>core<br>mention |  
+| bip_39_word_new_br8 | artist<br>ocean<br>session<br>cheese<br>weird<br>core<br>mention<br>valve |  
+| bip_39_word_new_br9 | artist<br>ocean<br>session<br>cheese<br>weird<br>core<br>mention<br>valve<br>perfect |  
+| bip_39_word_new_line1 | artist |  
+| bip_39_word_new_line10 | artist
+ocean
+session
+cheese
+weird
+core
+mention
+valve
+perfect
+tail |  
+| bip_39_word_new_line11 | artist
+ocean
+session
+cheese
+weird
+core
+mention
+valve
+perfect
+tail
+swap |  
+| bip_39_word_new_line12 | artist
+ocean
+session
+cheese
+weird
+core
+mention
+valve
+perfect
+tail
+swap
+autumn |  
+| bip_39_word_new_line2 | artist
+ocean |  
+| bip_39_word_new_line3 | artist
+ocean
+session |  
+| bip_39_word_new_line4 | artist
+ocean
+session
+cheese |  
+| bip_39_word_new_line5 | artist
+ocean
+session
+cheese
+weird |  
+| bip_39_word_new_line6 | artist
+ocean
+session
+cheese
+weird
+core |  
+| bip_39_word_new_line7 | artist
+ocean
+session
+cheese
+weird
+core
+mention |  
+| bip_39_word_new_line8 | artist
+ocean
+session
+cheese
+weird
+core
+mention
+valve |  
+| bip_39_word_new_line9 | artist
+ocean
+session
+cheese
+weird
+core
+mention
+valve
+perfect |  
+| bip_39_word_space_0 | ['artist', 'ocean', 'session', 'cheese', 'weird', 'core', 'mention', 'valve', 'perfect', 'tail', 'swap', 'autumn'] |  
+| bip_39_word_space_1 | artist |  
+| bip_39_word_space_10 | artist ocean session cheese weird core mention valve perfect tail |  
+| bip_39_word_space_11 | artist ocean session cheese weird core mention valve perfect tail swap |  
+| bip_39_word_space_12 | artist ocean session cheese weird core mention valve perfect tail swap autumn |  
+| bip_39_word_space_2 | artist ocean |  
+| bip_39_word_space_3 | artist ocean session |  
+| bip_39_word_space_4 | artist ocean session cheese |  
+| bip_39_word_space_5 | artist ocean session cheese weird |  
+| bip_39_word_space_6 | artist ocean session cheese weird core |  
+| bip_39_word_space_7 | artist ocean session cheese weird core mention |  
+| bip_39_word_space_8 | artist ocean session cheese weird core mention valve |  
+| bip_39_word_space_9 | artist ocean session cheese weird core mention valve perfect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fury
+bip_39_word_new_br10: fury<br>middle<br>tray<br>risk<br>cat<br>music<br>upper<br>illness<br>valid<br>salon
+bip_39_word_new_br11: fury<br>middle<br>tray<br>risk<br>cat<br>music<br>upper<br>illness<br>valid<br>salon<br>credit
+bip_39_word_new_br12: fury<br>middle<br>tray<br>risk<br>cat<br>music<br>upper<br>illness<br>valid<br>salon<br>credit<br>absurd
+bip_39_word_new_br2: fury<br>middle
+bip_39_word_new_br3: fury<br>middle<br>tray
+bip_39_word_new_br4: fury<br>middle<br>tray<br>risk
+bip_39_word_new_br5: fury<br>middle<br>tray<br>risk<br>cat
+bip_39_word_new_br6: fury<br>middle<br>tray<br>risk<br>cat<br>music
+bip_39_word_new_br7: fury<br>middle<br>tray<br>risk<br>cat<br>music<br>upper
+bip_39_word_new_br8: fury<br>middle<br>tray<br>risk<br>cat<br>music<br>upper<br>illness
+bip_39_word_new_br9: fury<br>middle<br>tray<br>risk<br>cat<br>music<br>upper<br>illness<br>valid
+bip_39_word_new_line1: fury
+bip_39_word_new_line10: 'fury
+
+  middle
+
+  tray
+
+  risk
+
+  cat
+
+  music
+
+  upper
+
+  illness
+
+  valid
+
+  salon'
+bip_39_word_new_line11: 'fury
+
+  middle
+
+  tray
+
+  risk
+
+  cat
+
+  music
+
+  upper
+
+  illness
+
+  valid
+
+  salon
+
+  credit'
+bip_39_word_new_line12: 'fury
+
+  middle
+
+  tray
+
+  risk
+
+  cat
+
+  music
+
+  upper
+
+  illness
+
+  valid
+
+  salon
+
+  credit
+
+  absurd'
+bip_39_word_new_line2: 'fury
+
+  middle'
+bip_39_word_new_line3: 'fury
+
+  middle
+
+  tray'
+bip_39_word_new_line4: 'fury
+
+  middle
+
+  tray
+
+  risk'
+bip_39_word_new_line5: 'fury
+
+  middle
+
+  tray
+
+  risk
+
+  cat'
+bip_39_word_new_line6: 'fury
+
+  middle
+
+  tray
+
+  risk
+
+  cat
+
+  music'
+bip_39_word_new_line7: 'fury
+
+  middle
+
+  tray
+
+  risk
+
+  cat
+
+  music
+
+  upper'
+bip_39_word_new_line8: 'fury
+
+  middle
+
+  tray
+
+  risk
+
+  cat
+
+  music
+
+  upper
+
+  illness'
+bip_39_word_new_line9: 'fury
+
+  middle
+
+  tray
+
+  risk
+
+  cat
+
+  music
+
+  upper
+
+  illness
+
+  valid'
+bip_39_word_space_0:
+- fury
+- middle
+- tray
+- risk
+- cat
+- music
+- upper
+- illness
+- valid
+- salon
+- credit
+- absurd
+bip_39_word_space_1: fury
+bip_39_word_space_10: fury middle tray risk cat music upper illness valid salon
+bip_39_word_space_11: fury middle tray risk cat music upper illness valid salon credit
+bip_39_word_space_12: fury middle tray risk cat music upper illness valid salon credit
+  absurd
+bip_39_word_space_2: fury middle
+bip_39_word_space_3: fury middle tray
+bip_39_word_space_4: fury middle tray risk
+bip_39_word_space_5: fury middle tray risk cat
+bip_39_word_space_6: fury middle tray risk cat music
+bip_39_word_space_7: fury middle tray risk cat music upper
+bip_39_word_space_8: fury middle tray risk cat music upper illness
+bip_39_word_space_9: fury middle tray risk cat music upper illness valid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

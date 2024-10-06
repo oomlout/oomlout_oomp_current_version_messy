@@ -1,3 +1,186 @@
+bip_39_word_new_br1: road
+bip_39_word_new_br10: road<br>celery<br>scorpion<br>train<br>spoon<br>scene<br>mask<br>symbol<br>ladder<br>lunch
+bip_39_word_new_br11: road<br>celery<br>scorpion<br>train<br>spoon<br>scene<br>mask<br>symbol<br>ladder<br>lunch<br>unknown
+bip_39_word_new_br12: road<br>celery<br>scorpion<br>train<br>spoon<br>scene<br>mask<br>symbol<br>ladder<br>lunch<br>unknown<br>armor
+bip_39_word_new_br2: road<br>celery
+bip_39_word_new_br3: road<br>celery<br>scorpion
+bip_39_word_new_br4: road<br>celery<br>scorpion<br>train
+bip_39_word_new_br5: road<br>celery<br>scorpion<br>train<br>spoon
+bip_39_word_new_br6: road<br>celery<br>scorpion<br>train<br>spoon<br>scene
+bip_39_word_new_br7: road<br>celery<br>scorpion<br>train<br>spoon<br>scene<br>mask
+bip_39_word_new_br8: road<br>celery<br>scorpion<br>train<br>spoon<br>scene<br>mask<br>symbol
+bip_39_word_new_br9: road<br>celery<br>scorpion<br>train<br>spoon<br>scene<br>mask<br>symbol<br>ladder
+bip_39_word_new_line1: road
+bip_39_word_new_line10: 'road
+
+  celery
+
+  scorpion
+
+  train
+
+  spoon
+
+  scene
+
+  mask
+
+  symbol
+
+  ladder
+
+  lunch'
+bip_39_word_new_line11: 'road
+
+  celery
+
+  scorpion
+
+  train
+
+  spoon
+
+  scene
+
+  mask
+
+  symbol
+
+  ladder
+
+  lunch
+
+  unknown'
+bip_39_word_new_line12: 'road
+
+  celery
+
+  scorpion
+
+  train
+
+  spoon
+
+  scene
+
+  mask
+
+  symbol
+
+  ladder
+
+  lunch
+
+  unknown
+
+  armor'
+bip_39_word_new_line2: 'road
+
+  celery'
+bip_39_word_new_line3: 'road
+
+  celery
+
+  scorpion'
+bip_39_word_new_line4: 'road
+
+  celery
+
+  scorpion
+
+  train'
+bip_39_word_new_line5: 'road
+
+  celery
+
+  scorpion
+
+  train
+
+  spoon'
+bip_39_word_new_line6: 'road
+
+  celery
+
+  scorpion
+
+  train
+
+  spoon
+
+  scene'
+bip_39_word_new_line7: 'road
+
+  celery
+
+  scorpion
+
+  train
+
+  spoon
+
+  scene
+
+  mask'
+bip_39_word_new_line8: 'road
+
+  celery
+
+  scorpion
+
+  train
+
+  spoon
+
+  scene
+
+  mask
+
+  symbol'
+bip_39_word_new_line9: 'road
+
+  celery
+
+  scorpion
+
+  train
+
+  spoon
+
+  scene
+
+  mask
+
+  symbol
+
+  ladder'
+bip_39_word_space_0:
+- road
+- celery
+- scorpion
+- train
+- spoon
+- scene
+- mask
+- symbol
+- ladder
+- lunch
+- unknown
+- armor
+bip_39_word_space_1: road
+bip_39_word_space_10: road celery scorpion train spoon scene mask symbol ladder lunch
+bip_39_word_space_11: road celery scorpion train spoon scene mask symbol ladder lunch
+  unknown
+bip_39_word_space_12: road celery scorpion train spoon scene mask symbol ladder lunch
+  unknown armor
+bip_39_word_space_2: road celery
+bip_39_word_space_3: road celery scorpion
+bip_39_word_space_4: road celery scorpion train
+bip_39_word_space_5: road celery scorpion train spoon
+bip_39_word_space_6: road celery scorpion train spoon scene
+bip_39_word_space_7: road celery scorpion train spoon scene mask
+bip_39_word_space_8: road celery scorpion train spoon scene mask symbol
+bip_39_word_space_9: road celery scorpion train spoon scene mask symbol ladder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

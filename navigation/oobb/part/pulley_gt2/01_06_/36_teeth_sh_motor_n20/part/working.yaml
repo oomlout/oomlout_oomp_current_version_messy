@@ -1,3 +1,185 @@
+bip_39_word_new_br1: oak
+bip_39_word_new_br10: oak<br>chair<br>celery<br>beyond<br>give<br>above<br>home<br>age<br>lamp<br>chimney
+bip_39_word_new_br11: oak<br>chair<br>celery<br>beyond<br>give<br>above<br>home<br>age<br>lamp<br>chimney<br>thought
+bip_39_word_new_br12: oak<br>chair<br>celery<br>beyond<br>give<br>above<br>home<br>age<br>lamp<br>chimney<br>thought<br>attack
+bip_39_word_new_br2: oak<br>chair
+bip_39_word_new_br3: oak<br>chair<br>celery
+bip_39_word_new_br4: oak<br>chair<br>celery<br>beyond
+bip_39_word_new_br5: oak<br>chair<br>celery<br>beyond<br>give
+bip_39_word_new_br6: oak<br>chair<br>celery<br>beyond<br>give<br>above
+bip_39_word_new_br7: oak<br>chair<br>celery<br>beyond<br>give<br>above<br>home
+bip_39_word_new_br8: oak<br>chair<br>celery<br>beyond<br>give<br>above<br>home<br>age
+bip_39_word_new_br9: oak<br>chair<br>celery<br>beyond<br>give<br>above<br>home<br>age<br>lamp
+bip_39_word_new_line1: oak
+bip_39_word_new_line10: 'oak
+
+  chair
+
+  celery
+
+  beyond
+
+  give
+
+  above
+
+  home
+
+  age
+
+  lamp
+
+  chimney'
+bip_39_word_new_line11: 'oak
+
+  chair
+
+  celery
+
+  beyond
+
+  give
+
+  above
+
+  home
+
+  age
+
+  lamp
+
+  chimney
+
+  thought'
+bip_39_word_new_line12: 'oak
+
+  chair
+
+  celery
+
+  beyond
+
+  give
+
+  above
+
+  home
+
+  age
+
+  lamp
+
+  chimney
+
+  thought
+
+  attack'
+bip_39_word_new_line2: 'oak
+
+  chair'
+bip_39_word_new_line3: 'oak
+
+  chair
+
+  celery'
+bip_39_word_new_line4: 'oak
+
+  chair
+
+  celery
+
+  beyond'
+bip_39_word_new_line5: 'oak
+
+  chair
+
+  celery
+
+  beyond
+
+  give'
+bip_39_word_new_line6: 'oak
+
+  chair
+
+  celery
+
+  beyond
+
+  give
+
+  above'
+bip_39_word_new_line7: 'oak
+
+  chair
+
+  celery
+
+  beyond
+
+  give
+
+  above
+
+  home'
+bip_39_word_new_line8: 'oak
+
+  chair
+
+  celery
+
+  beyond
+
+  give
+
+  above
+
+  home
+
+  age'
+bip_39_word_new_line9: 'oak
+
+  chair
+
+  celery
+
+  beyond
+
+  give
+
+  above
+
+  home
+
+  age
+
+  lamp'
+bip_39_word_space_0:
+- oak
+- chair
+- celery
+- beyond
+- give
+- above
+- home
+- age
+- lamp
+- chimney
+- thought
+- attack
+bip_39_word_space_1: oak
+bip_39_word_space_10: oak chair celery beyond give above home age lamp chimney
+bip_39_word_space_11: oak chair celery beyond give above home age lamp chimney thought
+bip_39_word_space_12: oak chair celery beyond give above home age lamp chimney thought
+  attack
+bip_39_word_space_2: oak chair
+bip_39_word_space_3: oak chair celery
+bip_39_word_space_4: oak chair celery beyond
+bip_39_word_space_5: oak chair celery beyond give
+bip_39_word_space_6: oak chair celery beyond give above
+bip_39_word_space_7: oak chair celery beyond give above home
+bip_39_word_space_8: oak chair celery beyond give above home age
+bip_39_word_space_9: oak chair celery beyond give above home age lamp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

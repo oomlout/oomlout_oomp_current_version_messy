@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sibling find
+  * bip 39 word 3: sibling find train
+  * bip 39 word: sibling find train genre true tragic repeat reward casino loop van acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sibling |  
+| bip_39_word_new_br10 | sibling<br>find<br>train<br>genre<br>true<br>tragic<br>repeat<br>reward<br>casino<br>loop |  
+| bip_39_word_new_br11 | sibling<br>find<br>train<br>genre<br>true<br>tragic<br>repeat<br>reward<br>casino<br>loop<br>van |  
+| bip_39_word_new_br12 | sibling<br>find<br>train<br>genre<br>true<br>tragic<br>repeat<br>reward<br>casino<br>loop<br>van<br>acoustic |  
+| bip_39_word_new_br2 | sibling<br>find |  
+| bip_39_word_new_br3 | sibling<br>find<br>train |  
+| bip_39_word_new_br4 | sibling<br>find<br>train<br>genre |  
+| bip_39_word_new_br5 | sibling<br>find<br>train<br>genre<br>true |  
+| bip_39_word_new_br6 | sibling<br>find<br>train<br>genre<br>true<br>tragic |  
+| bip_39_word_new_br7 | sibling<br>find<br>train<br>genre<br>true<br>tragic<br>repeat |  
+| bip_39_word_new_br8 | sibling<br>find<br>train<br>genre<br>true<br>tragic<br>repeat<br>reward |  
+| bip_39_word_new_br9 | sibling<br>find<br>train<br>genre<br>true<br>tragic<br>repeat<br>reward<br>casino |  
+| bip_39_word_new_line1 | sibling |  
+| bip_39_word_new_line10 | sibling
+find
+train
+genre
+true
+tragic
+repeat
+reward
+casino
+loop |  
+| bip_39_word_new_line11 | sibling
+find
+train
+genre
+true
+tragic
+repeat
+reward
+casino
+loop
+van |  
+| bip_39_word_new_line12 | sibling
+find
+train
+genre
+true
+tragic
+repeat
+reward
+casino
+loop
+van
+acoustic |  
+| bip_39_word_new_line2 | sibling
+find |  
+| bip_39_word_new_line3 | sibling
+find
+train |  
+| bip_39_word_new_line4 | sibling
+find
+train
+genre |  
+| bip_39_word_new_line5 | sibling
+find
+train
+genre
+true |  
+| bip_39_word_new_line6 | sibling
+find
+train
+genre
+true
+tragic |  
+| bip_39_word_new_line7 | sibling
+find
+train
+genre
+true
+tragic
+repeat |  
+| bip_39_word_new_line8 | sibling
+find
+train
+genre
+true
+tragic
+repeat
+reward |  
+| bip_39_word_new_line9 | sibling
+find
+train
+genre
+true
+tragic
+repeat
+reward
+casino |  
+| bip_39_word_space_0 | ['sibling', 'find', 'train', 'genre', 'true', 'tragic', 'repeat', 'reward', 'casino', 'loop', 'van', 'acoustic'] |  
+| bip_39_word_space_1 | sibling |  
+| bip_39_word_space_10 | sibling find train genre true tragic repeat reward casino loop |  
+| bip_39_word_space_11 | sibling find train genre true tragic repeat reward casino loop van |  
+| bip_39_word_space_12 | sibling find train genre true tragic repeat reward casino loop van acoustic |  
+| bip_39_word_space_2 | sibling find |  
+| bip_39_word_space_3 | sibling find train |  
+| bip_39_word_space_4 | sibling find train genre |  
+| bip_39_word_space_5 | sibling find train genre true |  
+| bip_39_word_space_6 | sibling find train genre true tragic |  
+| bip_39_word_space_7 | sibling find train genre true tragic repeat |  
+| bip_39_word_space_8 | sibling find train genre true tragic repeat reward |  
+| bip_39_word_space_9 | sibling find train genre true tragic repeat reward casino |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

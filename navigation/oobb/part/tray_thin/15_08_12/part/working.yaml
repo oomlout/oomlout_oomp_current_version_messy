@@ -1,3 +1,186 @@
+bip_39_word_new_br1: manual
+bip_39_word_new_br10: manual<br>mail<br>situate<br>bleak<br>rose<br>tower<br>hospital<br>lawn<br>field<br>notice
+bip_39_word_new_br11: manual<br>mail<br>situate<br>bleak<br>rose<br>tower<br>hospital<br>lawn<br>field<br>notice<br>extend
+bip_39_word_new_br12: manual<br>mail<br>situate<br>bleak<br>rose<br>tower<br>hospital<br>lawn<br>field<br>notice<br>extend<br>attack
+bip_39_word_new_br2: manual<br>mail
+bip_39_word_new_br3: manual<br>mail<br>situate
+bip_39_word_new_br4: manual<br>mail<br>situate<br>bleak
+bip_39_word_new_br5: manual<br>mail<br>situate<br>bleak<br>rose
+bip_39_word_new_br6: manual<br>mail<br>situate<br>bleak<br>rose<br>tower
+bip_39_word_new_br7: manual<br>mail<br>situate<br>bleak<br>rose<br>tower<br>hospital
+bip_39_word_new_br8: manual<br>mail<br>situate<br>bleak<br>rose<br>tower<br>hospital<br>lawn
+bip_39_word_new_br9: manual<br>mail<br>situate<br>bleak<br>rose<br>tower<br>hospital<br>lawn<br>field
+bip_39_word_new_line1: manual
+bip_39_word_new_line10: 'manual
+
+  mail
+
+  situate
+
+  bleak
+
+  rose
+
+  tower
+
+  hospital
+
+  lawn
+
+  field
+
+  notice'
+bip_39_word_new_line11: 'manual
+
+  mail
+
+  situate
+
+  bleak
+
+  rose
+
+  tower
+
+  hospital
+
+  lawn
+
+  field
+
+  notice
+
+  extend'
+bip_39_word_new_line12: 'manual
+
+  mail
+
+  situate
+
+  bleak
+
+  rose
+
+  tower
+
+  hospital
+
+  lawn
+
+  field
+
+  notice
+
+  extend
+
+  attack'
+bip_39_word_new_line2: 'manual
+
+  mail'
+bip_39_word_new_line3: 'manual
+
+  mail
+
+  situate'
+bip_39_word_new_line4: 'manual
+
+  mail
+
+  situate
+
+  bleak'
+bip_39_word_new_line5: 'manual
+
+  mail
+
+  situate
+
+  bleak
+
+  rose'
+bip_39_word_new_line6: 'manual
+
+  mail
+
+  situate
+
+  bleak
+
+  rose
+
+  tower'
+bip_39_word_new_line7: 'manual
+
+  mail
+
+  situate
+
+  bleak
+
+  rose
+
+  tower
+
+  hospital'
+bip_39_word_new_line8: 'manual
+
+  mail
+
+  situate
+
+  bleak
+
+  rose
+
+  tower
+
+  hospital
+
+  lawn'
+bip_39_word_new_line9: 'manual
+
+  mail
+
+  situate
+
+  bleak
+
+  rose
+
+  tower
+
+  hospital
+
+  lawn
+
+  field'
+bip_39_word_space_0:
+- manual
+- mail
+- situate
+- bleak
+- rose
+- tower
+- hospital
+- lawn
+- field
+- notice
+- extend
+- attack
+bip_39_word_space_1: manual
+bip_39_word_space_10: manual mail situate bleak rose tower hospital lawn field notice
+bip_39_word_space_11: manual mail situate bleak rose tower hospital lawn field notice
+  extend
+bip_39_word_space_12: manual mail situate bleak rose tower hospital lawn field notice
+  extend attack
+bip_39_word_space_2: manual mail
+bip_39_word_space_3: manual mail situate
+bip_39_word_space_4: manual mail situate bleak
+bip_39_word_space_5: manual mail situate bleak rose
+bip_39_word_space_6: manual mail situate bleak rose tower
+bip_39_word_space_7: manual mail situate bleak rose tower hospital
+bip_39_word_space_8: manual mail situate bleak rose tower hospital lawn
+bip_39_word_space_9: manual mail situate bleak rose tower hospital lawn field
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

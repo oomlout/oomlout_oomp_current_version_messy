@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pear dignity
+  * bip 39 word 3: pear dignity panda
+  * bip 39 word: pear dignity panda airport nice muffin until latin twenty stove patrol allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pear |  
+| bip_39_word_new_br10 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin<br>until<br>latin<br>twenty<br>stove |  
+| bip_39_word_new_br11 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin<br>until<br>latin<br>twenty<br>stove<br>patrol |  
+| bip_39_word_new_br12 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin<br>until<br>latin<br>twenty<br>stove<br>patrol<br>allow |  
+| bip_39_word_new_br2 | pear<br>dignity |  
+| bip_39_word_new_br3 | pear<br>dignity<br>panda |  
+| bip_39_word_new_br4 | pear<br>dignity<br>panda<br>airport |  
+| bip_39_word_new_br5 | pear<br>dignity<br>panda<br>airport<br>nice |  
+| bip_39_word_new_br6 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin |  
+| bip_39_word_new_br7 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin<br>until |  
+| bip_39_word_new_br8 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin<br>until<br>latin |  
+| bip_39_word_new_br9 | pear<br>dignity<br>panda<br>airport<br>nice<br>muffin<br>until<br>latin<br>twenty |  
+| bip_39_word_new_line1 | pear |  
+| bip_39_word_new_line10 | pear
+dignity
+panda
+airport
+nice
+muffin
+until
+latin
+twenty
+stove |  
+| bip_39_word_new_line11 | pear
+dignity
+panda
+airport
+nice
+muffin
+until
+latin
+twenty
+stove
+patrol |  
+| bip_39_word_new_line12 | pear
+dignity
+panda
+airport
+nice
+muffin
+until
+latin
+twenty
+stove
+patrol
+allow |  
+| bip_39_word_new_line2 | pear
+dignity |  
+| bip_39_word_new_line3 | pear
+dignity
+panda |  
+| bip_39_word_new_line4 | pear
+dignity
+panda
+airport |  
+| bip_39_word_new_line5 | pear
+dignity
+panda
+airport
+nice |  
+| bip_39_word_new_line6 | pear
+dignity
+panda
+airport
+nice
+muffin |  
+| bip_39_word_new_line7 | pear
+dignity
+panda
+airport
+nice
+muffin
+until |  
+| bip_39_word_new_line8 | pear
+dignity
+panda
+airport
+nice
+muffin
+until
+latin |  
+| bip_39_word_new_line9 | pear
+dignity
+panda
+airport
+nice
+muffin
+until
+latin
+twenty |  
+| bip_39_word_space_0 | ['pear', 'dignity', 'panda', 'airport', 'nice', 'muffin', 'until', 'latin', 'twenty', 'stove', 'patrol', 'allow'] |  
+| bip_39_word_space_1 | pear |  
+| bip_39_word_space_10 | pear dignity panda airport nice muffin until latin twenty stove |  
+| bip_39_word_space_11 | pear dignity panda airport nice muffin until latin twenty stove patrol |  
+| bip_39_word_space_12 | pear dignity panda airport nice muffin until latin twenty stove patrol allow |  
+| bip_39_word_space_2 | pear dignity |  
+| bip_39_word_space_3 | pear dignity panda |  
+| bip_39_word_space_4 | pear dignity panda airport |  
+| bip_39_word_space_5 | pear dignity panda airport nice |  
+| bip_39_word_space_6 | pear dignity panda airport nice muffin |  
+| bip_39_word_space_7 | pear dignity panda airport nice muffin until |  
+| bip_39_word_space_8 | pear dignity panda airport nice muffin until latin |  
+| bip_39_word_space_9 | pear dignity panda airport nice muffin until latin twenty |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

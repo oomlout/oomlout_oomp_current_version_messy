@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lonely motion
+  * bip 39 word 3: lonely motion trial
+  * bip 39 word: lonely motion trial blade hawk chef vault animal upset around inquiry account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lonely |  
+| bip_39_word_new_br10 | lonely<br>motion<br>trial<br>blade<br>hawk<br>chef<br>vault<br>animal<br>upset<br>around |  
+| bip_39_word_new_br11 | lonely<br>motion<br>trial<br>blade<br>hawk<br>chef<br>vault<br>animal<br>upset<br>around<br>inquiry |  
+| bip_39_word_new_br12 | lonely<br>motion<br>trial<br>blade<br>hawk<br>chef<br>vault<br>animal<br>upset<br>around<br>inquiry<br>account |  
+| bip_39_word_new_br2 | lonely<br>motion |  
+| bip_39_word_new_br3 | lonely<br>motion<br>trial |  
+| bip_39_word_new_br4 | lonely<br>motion<br>trial<br>blade |  
+| bip_39_word_new_br5 | lonely<br>motion<br>trial<br>blade<br>hawk |  
+| bip_39_word_new_br6 | lonely<br>motion<br>trial<br>blade<br>hawk<br>chef |  
+| bip_39_word_new_br7 | lonely<br>motion<br>trial<br>blade<br>hawk<br>chef<br>vault |  
+| bip_39_word_new_br8 | lonely<br>motion<br>trial<br>blade<br>hawk<br>chef<br>vault<br>animal |  
+| bip_39_word_new_br9 | lonely<br>motion<br>trial<br>blade<br>hawk<br>chef<br>vault<br>animal<br>upset |  
+| bip_39_word_new_line1 | lonely |  
+| bip_39_word_new_line10 | lonely
+motion
+trial
+blade
+hawk
+chef
+vault
+animal
+upset
+around |  
+| bip_39_word_new_line11 | lonely
+motion
+trial
+blade
+hawk
+chef
+vault
+animal
+upset
+around
+inquiry |  
+| bip_39_word_new_line12 | lonely
+motion
+trial
+blade
+hawk
+chef
+vault
+animal
+upset
+around
+inquiry
+account |  
+| bip_39_word_new_line2 | lonely
+motion |  
+| bip_39_word_new_line3 | lonely
+motion
+trial |  
+| bip_39_word_new_line4 | lonely
+motion
+trial
+blade |  
+| bip_39_word_new_line5 | lonely
+motion
+trial
+blade
+hawk |  
+| bip_39_word_new_line6 | lonely
+motion
+trial
+blade
+hawk
+chef |  
+| bip_39_word_new_line7 | lonely
+motion
+trial
+blade
+hawk
+chef
+vault |  
+| bip_39_word_new_line8 | lonely
+motion
+trial
+blade
+hawk
+chef
+vault
+animal |  
+| bip_39_word_new_line9 | lonely
+motion
+trial
+blade
+hawk
+chef
+vault
+animal
+upset |  
+| bip_39_word_space_0 | ['lonely', 'motion', 'trial', 'blade', 'hawk', 'chef', 'vault', 'animal', 'upset', 'around', 'inquiry', 'account'] |  
+| bip_39_word_space_1 | lonely |  
+| bip_39_word_space_10 | lonely motion trial blade hawk chef vault animal upset around |  
+| bip_39_word_space_11 | lonely motion trial blade hawk chef vault animal upset around inquiry |  
+| bip_39_word_space_12 | lonely motion trial blade hawk chef vault animal upset around inquiry account |  
+| bip_39_word_space_2 | lonely motion |  
+| bip_39_word_space_3 | lonely motion trial |  
+| bip_39_word_space_4 | lonely motion trial blade |  
+| bip_39_word_space_5 | lonely motion trial blade hawk |  
+| bip_39_word_space_6 | lonely motion trial blade hawk chef |  
+| bip_39_word_space_7 | lonely motion trial blade hawk chef vault |  
+| bip_39_word_space_8 | lonely motion trial blade hawk chef vault animal |  
+| bip_39_word_space_9 | lonely motion trial blade hawk chef vault animal upset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

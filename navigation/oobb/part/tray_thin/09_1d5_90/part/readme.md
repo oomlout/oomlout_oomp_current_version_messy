@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: noodle dress
+  * bip 39 word 3: noodle dress adapt
+  * bip 39 word: noodle dress adapt cart bean island bronze funny flat hard edit act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | noodle |  
+| bip_39_word_new_br10 | noodle<br>dress<br>adapt<br>cart<br>bean<br>island<br>bronze<br>funny<br>flat<br>hard |  
+| bip_39_word_new_br11 | noodle<br>dress<br>adapt<br>cart<br>bean<br>island<br>bronze<br>funny<br>flat<br>hard<br>edit |  
+| bip_39_word_new_br12 | noodle<br>dress<br>adapt<br>cart<br>bean<br>island<br>bronze<br>funny<br>flat<br>hard<br>edit<br>act |  
+| bip_39_word_new_br2 | noodle<br>dress |  
+| bip_39_word_new_br3 | noodle<br>dress<br>adapt |  
+| bip_39_word_new_br4 | noodle<br>dress<br>adapt<br>cart |  
+| bip_39_word_new_br5 | noodle<br>dress<br>adapt<br>cart<br>bean |  
+| bip_39_word_new_br6 | noodle<br>dress<br>adapt<br>cart<br>bean<br>island |  
+| bip_39_word_new_br7 | noodle<br>dress<br>adapt<br>cart<br>bean<br>island<br>bronze |  
+| bip_39_word_new_br8 | noodle<br>dress<br>adapt<br>cart<br>bean<br>island<br>bronze<br>funny |  
+| bip_39_word_new_br9 | noodle<br>dress<br>adapt<br>cart<br>bean<br>island<br>bronze<br>funny<br>flat |  
+| bip_39_word_new_line1 | noodle |  
+| bip_39_word_new_line10 | noodle
+dress
+adapt
+cart
+bean
+island
+bronze
+funny
+flat
+hard |  
+| bip_39_word_new_line11 | noodle
+dress
+adapt
+cart
+bean
+island
+bronze
+funny
+flat
+hard
+edit |  
+| bip_39_word_new_line12 | noodle
+dress
+adapt
+cart
+bean
+island
+bronze
+funny
+flat
+hard
+edit
+act |  
+| bip_39_word_new_line2 | noodle
+dress |  
+| bip_39_word_new_line3 | noodle
+dress
+adapt |  
+| bip_39_word_new_line4 | noodle
+dress
+adapt
+cart |  
+| bip_39_word_new_line5 | noodle
+dress
+adapt
+cart
+bean |  
+| bip_39_word_new_line6 | noodle
+dress
+adapt
+cart
+bean
+island |  
+| bip_39_word_new_line7 | noodle
+dress
+adapt
+cart
+bean
+island
+bronze |  
+| bip_39_word_new_line8 | noodle
+dress
+adapt
+cart
+bean
+island
+bronze
+funny |  
+| bip_39_word_new_line9 | noodle
+dress
+adapt
+cart
+bean
+island
+bronze
+funny
+flat |  
+| bip_39_word_space_0 | ['noodle', 'dress', 'adapt', 'cart', 'bean', 'island', 'bronze', 'funny', 'flat', 'hard', 'edit', 'act'] |  
+| bip_39_word_space_1 | noodle |  
+| bip_39_word_space_10 | noodle dress adapt cart bean island bronze funny flat hard |  
+| bip_39_word_space_11 | noodle dress adapt cart bean island bronze funny flat hard edit |  
+| bip_39_word_space_12 | noodle dress adapt cart bean island bronze funny flat hard edit act |  
+| bip_39_word_space_2 | noodle dress |  
+| bip_39_word_space_3 | noodle dress adapt |  
+| bip_39_word_space_4 | noodle dress adapt cart |  
+| bip_39_word_space_5 | noodle dress adapt cart bean |  
+| bip_39_word_space_6 | noodle dress adapt cart bean island |  
+| bip_39_word_space_7 | noodle dress adapt cart bean island bronze |  
+| bip_39_word_space_8 | noodle dress adapt cart bean island bronze funny |  
+| bip_39_word_space_9 | noodle dress adapt cart bean island bronze funny flat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fade
+bip_39_word_new_br10: fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom
+bip_39_word_new_br11: fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom<br>fade
+bip_39_word_new_br12: fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute<br>blossom<br>fade<br>apple
+bip_39_word_new_br2: fade<br>bonus
+bip_39_word_new_br3: fade<br>bonus<br>govern
+bip_39_word_new_br4: fade<br>bonus<br>govern<br>young
+bip_39_word_new_br5: fade<br>bonus<br>govern<br>young<br>extend
+bip_39_word_new_br6: fade<br>bonus<br>govern<br>young<br>extend<br>title
+bip_39_word_new_br7: fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august
+bip_39_word_new_br8: fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode
+bip_39_word_new_br9: fade<br>bonus<br>govern<br>young<br>extend<br>title<br>august<br>episode<br>minute
+bip_39_word_new_line1: fade
+bip_39_word_new_line10: 'fade
+
+  bonus
+
+  govern
+
+  young
+
+  extend
+
+  title
+
+  august
+
+  episode
+
+  minute
+
+  blossom'
+bip_39_word_new_line11: 'fade
+
+  bonus
+
+  govern
+
+  young
+
+  extend
+
+  title
+
+  august
+
+  episode
+
+  minute
+
+  blossom
+
+  fade'
+bip_39_word_new_line12: 'fade
+
+  bonus
+
+  govern
+
+  young
+
+  extend
+
+  title
+
+  august
+
+  episode
+
+  minute
+
+  blossom
+
+  fade
+
+  apple'
+bip_39_word_new_line2: 'fade
+
+  bonus'
+bip_39_word_new_line3: 'fade
+
+  bonus
+
+  govern'
+bip_39_word_new_line4: 'fade
+
+  bonus
+
+  govern
+
+  young'
+bip_39_word_new_line5: 'fade
+
+  bonus
+
+  govern
+
+  young
+
+  extend'
+bip_39_word_new_line6: 'fade
+
+  bonus
+
+  govern
+
+  young
+
+  extend
+
+  title'
+bip_39_word_new_line7: 'fade
+
+  bonus
+
+  govern
+
+  young
+
+  extend
+
+  title
+
+  august'
+bip_39_word_new_line8: 'fade
+
+  bonus
+
+  govern
+
+  young
+
+  extend
+
+  title
+
+  august
+
+  episode'
+bip_39_word_new_line9: 'fade
+
+  bonus
+
+  govern
+
+  young
+
+  extend
+
+  title
+
+  august
+
+  episode
+
+  minute'
+bip_39_word_space_0:
+- fade
+- bonus
+- govern
+- young
+- extend
+- title
+- august
+- episode
+- minute
+- blossom
+- fade
+- apple
+bip_39_word_space_1: fade
+bip_39_word_space_10: fade bonus govern young extend title august episode minute blossom
+bip_39_word_space_11: fade bonus govern young extend title august episode minute blossom
+  fade
+bip_39_word_space_12: fade bonus govern young extend title august episode minute blossom
+  fade apple
+bip_39_word_space_2: fade bonus
+bip_39_word_space_3: fade bonus govern
+bip_39_word_space_4: fade bonus govern young
+bip_39_word_space_5: fade bonus govern young extend
+bip_39_word_space_6: fade bonus govern young extend title
+bip_39_word_space_7: fade bonus govern young extend title august
+bip_39_word_space_8: fade bonus govern young extend title august episode
+bip_39_word_space_9: fade bonus govern young extend title august episode minute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

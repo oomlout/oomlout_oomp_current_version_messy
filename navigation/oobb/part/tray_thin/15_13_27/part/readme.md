@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fitness sting
+  * bip 39 word 3: fitness sting air
+  * bip 39 word: fitness sting air nominee problem health cupboard dash tube sun gorilla arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fitness |  
+| bip_39_word_new_br10 | fitness<br>sting<br>air<br>nominee<br>problem<br>health<br>cupboard<br>dash<br>tube<br>sun |  
+| bip_39_word_new_br11 | fitness<br>sting<br>air<br>nominee<br>problem<br>health<br>cupboard<br>dash<br>tube<br>sun<br>gorilla |  
+| bip_39_word_new_br12 | fitness<br>sting<br>air<br>nominee<br>problem<br>health<br>cupboard<br>dash<br>tube<br>sun<br>gorilla<br>arrow |  
+| bip_39_word_new_br2 | fitness<br>sting |  
+| bip_39_word_new_br3 | fitness<br>sting<br>air |  
+| bip_39_word_new_br4 | fitness<br>sting<br>air<br>nominee |  
+| bip_39_word_new_br5 | fitness<br>sting<br>air<br>nominee<br>problem |  
+| bip_39_word_new_br6 | fitness<br>sting<br>air<br>nominee<br>problem<br>health |  
+| bip_39_word_new_br7 | fitness<br>sting<br>air<br>nominee<br>problem<br>health<br>cupboard |  
+| bip_39_word_new_br8 | fitness<br>sting<br>air<br>nominee<br>problem<br>health<br>cupboard<br>dash |  
+| bip_39_word_new_br9 | fitness<br>sting<br>air<br>nominee<br>problem<br>health<br>cupboard<br>dash<br>tube |  
+| bip_39_word_new_line1 | fitness |  
+| bip_39_word_new_line10 | fitness
+sting
+air
+nominee
+problem
+health
+cupboard
+dash
+tube
+sun |  
+| bip_39_word_new_line11 | fitness
+sting
+air
+nominee
+problem
+health
+cupboard
+dash
+tube
+sun
+gorilla |  
+| bip_39_word_new_line12 | fitness
+sting
+air
+nominee
+problem
+health
+cupboard
+dash
+tube
+sun
+gorilla
+arrow |  
+| bip_39_word_new_line2 | fitness
+sting |  
+| bip_39_word_new_line3 | fitness
+sting
+air |  
+| bip_39_word_new_line4 | fitness
+sting
+air
+nominee |  
+| bip_39_word_new_line5 | fitness
+sting
+air
+nominee
+problem |  
+| bip_39_word_new_line6 | fitness
+sting
+air
+nominee
+problem
+health |  
+| bip_39_word_new_line7 | fitness
+sting
+air
+nominee
+problem
+health
+cupboard |  
+| bip_39_word_new_line8 | fitness
+sting
+air
+nominee
+problem
+health
+cupboard
+dash |  
+| bip_39_word_new_line9 | fitness
+sting
+air
+nominee
+problem
+health
+cupboard
+dash
+tube |  
+| bip_39_word_space_0 | ['fitness', 'sting', 'air', 'nominee', 'problem', 'health', 'cupboard', 'dash', 'tube', 'sun', 'gorilla', 'arrow'] |  
+| bip_39_word_space_1 | fitness |  
+| bip_39_word_space_10 | fitness sting air nominee problem health cupboard dash tube sun |  
+| bip_39_word_space_11 | fitness sting air nominee problem health cupboard dash tube sun gorilla |  
+| bip_39_word_space_12 | fitness sting air nominee problem health cupboard dash tube sun gorilla arrow |  
+| bip_39_word_space_2 | fitness sting |  
+| bip_39_word_space_3 | fitness sting air |  
+| bip_39_word_space_4 | fitness sting air nominee |  
+| bip_39_word_space_5 | fitness sting air nominee problem |  
+| bip_39_word_space_6 | fitness sting air nominee problem health |  
+| bip_39_word_space_7 | fitness sting air nominee problem health cupboard |  
+| bip_39_word_space_8 | fitness sting air nominee problem health cupboard dash |  
+| bip_39_word_space_9 | fitness sting air nominee problem health cupboard dash tube |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

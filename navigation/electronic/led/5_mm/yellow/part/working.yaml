@@ -1,3 +1,186 @@
+bip_39_word_new_br1: salon
+bip_39_word_new_br10: salon<br>vote<br>supreme<br>clinic<br>puppy<br>during<br>sense<br>cloud<br>journey<br>casino
+bip_39_word_new_br11: salon<br>vote<br>supreme<br>clinic<br>puppy<br>during<br>sense<br>cloud<br>journey<br>casino<br>employ
+bip_39_word_new_br12: salon<br>vote<br>supreme<br>clinic<br>puppy<br>during<br>sense<br>cloud<br>journey<br>casino<br>employ<br>alter
+bip_39_word_new_br2: salon<br>vote
+bip_39_word_new_br3: salon<br>vote<br>supreme
+bip_39_word_new_br4: salon<br>vote<br>supreme<br>clinic
+bip_39_word_new_br5: salon<br>vote<br>supreme<br>clinic<br>puppy
+bip_39_word_new_br6: salon<br>vote<br>supreme<br>clinic<br>puppy<br>during
+bip_39_word_new_br7: salon<br>vote<br>supreme<br>clinic<br>puppy<br>during<br>sense
+bip_39_word_new_br8: salon<br>vote<br>supreme<br>clinic<br>puppy<br>during<br>sense<br>cloud
+bip_39_word_new_br9: salon<br>vote<br>supreme<br>clinic<br>puppy<br>during<br>sense<br>cloud<br>journey
+bip_39_word_new_line1: salon
+bip_39_word_new_line10: 'salon
+
+  vote
+
+  supreme
+
+  clinic
+
+  puppy
+
+  during
+
+  sense
+
+  cloud
+
+  journey
+
+  casino'
+bip_39_word_new_line11: 'salon
+
+  vote
+
+  supreme
+
+  clinic
+
+  puppy
+
+  during
+
+  sense
+
+  cloud
+
+  journey
+
+  casino
+
+  employ'
+bip_39_word_new_line12: 'salon
+
+  vote
+
+  supreme
+
+  clinic
+
+  puppy
+
+  during
+
+  sense
+
+  cloud
+
+  journey
+
+  casino
+
+  employ
+
+  alter'
+bip_39_word_new_line2: 'salon
+
+  vote'
+bip_39_word_new_line3: 'salon
+
+  vote
+
+  supreme'
+bip_39_word_new_line4: 'salon
+
+  vote
+
+  supreme
+
+  clinic'
+bip_39_word_new_line5: 'salon
+
+  vote
+
+  supreme
+
+  clinic
+
+  puppy'
+bip_39_word_new_line6: 'salon
+
+  vote
+
+  supreme
+
+  clinic
+
+  puppy
+
+  during'
+bip_39_word_new_line7: 'salon
+
+  vote
+
+  supreme
+
+  clinic
+
+  puppy
+
+  during
+
+  sense'
+bip_39_word_new_line8: 'salon
+
+  vote
+
+  supreme
+
+  clinic
+
+  puppy
+
+  during
+
+  sense
+
+  cloud'
+bip_39_word_new_line9: 'salon
+
+  vote
+
+  supreme
+
+  clinic
+
+  puppy
+
+  during
+
+  sense
+
+  cloud
+
+  journey'
+bip_39_word_space_0:
+- salon
+- vote
+- supreme
+- clinic
+- puppy
+- during
+- sense
+- cloud
+- journey
+- casino
+- employ
+- alter
+bip_39_word_space_1: salon
+bip_39_word_space_10: salon vote supreme clinic puppy during sense cloud journey casino
+bip_39_word_space_11: salon vote supreme clinic puppy during sense cloud journey casino
+  employ
+bip_39_word_space_12: salon vote supreme clinic puppy during sense cloud journey casino
+  employ alter
+bip_39_word_space_2: salon vote
+bip_39_word_space_3: salon vote supreme
+bip_39_word_space_4: salon vote supreme clinic
+bip_39_word_space_5: salon vote supreme clinic puppy
+bip_39_word_space_6: salon vote supreme clinic puppy during
+bip_39_word_space_7: salon vote supreme clinic puppy during sense
+bip_39_word_space_8: salon vote supreme clinic puppy during sense cloud
+bip_39_word_space_9: salon vote supreme clinic puppy during sense cloud journey
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

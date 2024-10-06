@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: camp boring
+  * bip 39 word 3: camp boring piano
+  * bip 39 word: camp boring piano input aerobic run ready club topic twist ahead autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | camp |  
+| bip_39_word_new_br10 | camp<br>boring<br>piano<br>input<br>aerobic<br>run<br>ready<br>club<br>topic<br>twist |  
+| bip_39_word_new_br11 | camp<br>boring<br>piano<br>input<br>aerobic<br>run<br>ready<br>club<br>topic<br>twist<br>ahead |  
+| bip_39_word_new_br12 | camp<br>boring<br>piano<br>input<br>aerobic<br>run<br>ready<br>club<br>topic<br>twist<br>ahead<br>autumn |  
+| bip_39_word_new_br2 | camp<br>boring |  
+| bip_39_word_new_br3 | camp<br>boring<br>piano |  
+| bip_39_word_new_br4 | camp<br>boring<br>piano<br>input |  
+| bip_39_word_new_br5 | camp<br>boring<br>piano<br>input<br>aerobic |  
+| bip_39_word_new_br6 | camp<br>boring<br>piano<br>input<br>aerobic<br>run |  
+| bip_39_word_new_br7 | camp<br>boring<br>piano<br>input<br>aerobic<br>run<br>ready |  
+| bip_39_word_new_br8 | camp<br>boring<br>piano<br>input<br>aerobic<br>run<br>ready<br>club |  
+| bip_39_word_new_br9 | camp<br>boring<br>piano<br>input<br>aerobic<br>run<br>ready<br>club<br>topic |  
+| bip_39_word_new_line1 | camp |  
+| bip_39_word_new_line10 | camp
+boring
+piano
+input
+aerobic
+run
+ready
+club
+topic
+twist |  
+| bip_39_word_new_line11 | camp
+boring
+piano
+input
+aerobic
+run
+ready
+club
+topic
+twist
+ahead |  
+| bip_39_word_new_line12 | camp
+boring
+piano
+input
+aerobic
+run
+ready
+club
+topic
+twist
+ahead
+autumn |  
+| bip_39_word_new_line2 | camp
+boring |  
+| bip_39_word_new_line3 | camp
+boring
+piano |  
+| bip_39_word_new_line4 | camp
+boring
+piano
+input |  
+| bip_39_word_new_line5 | camp
+boring
+piano
+input
+aerobic |  
+| bip_39_word_new_line6 | camp
+boring
+piano
+input
+aerobic
+run |  
+| bip_39_word_new_line7 | camp
+boring
+piano
+input
+aerobic
+run
+ready |  
+| bip_39_word_new_line8 | camp
+boring
+piano
+input
+aerobic
+run
+ready
+club |  
+| bip_39_word_new_line9 | camp
+boring
+piano
+input
+aerobic
+run
+ready
+club
+topic |  
+| bip_39_word_space_0 | ['camp', 'boring', 'piano', 'input', 'aerobic', 'run', 'ready', 'club', 'topic', 'twist', 'ahead', 'autumn'] |  
+| bip_39_word_space_1 | camp |  
+| bip_39_word_space_10 | camp boring piano input aerobic run ready club topic twist |  
+| bip_39_word_space_11 | camp boring piano input aerobic run ready club topic twist ahead |  
+| bip_39_word_space_12 | camp boring piano input aerobic run ready club topic twist ahead autumn |  
+| bip_39_word_space_2 | camp boring |  
+| bip_39_word_space_3 | camp boring piano |  
+| bip_39_word_space_4 | camp boring piano input |  
+| bip_39_word_space_5 | camp boring piano input aerobic |  
+| bip_39_word_space_6 | camp boring piano input aerobic run |  
+| bip_39_word_space_7 | camp boring piano input aerobic run ready |  
+| bip_39_word_space_8 | camp boring piano input aerobic run ready club |  
+| bip_39_word_space_9 | camp boring piano input aerobic run ready club topic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

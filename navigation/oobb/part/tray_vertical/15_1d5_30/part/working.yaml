@@ -1,3 +1,187 @@
+bip_39_word_new_br1: plastic
+bip_39_word_new_br10: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve<br>search<br>portion<br>print<br>album
+bip_39_word_new_br11: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve<br>search<br>portion<br>print<br>album<br>maze
+bip_39_word_new_br12: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve<br>search<br>portion<br>print<br>album<br>maze<br>alien
+bip_39_word_new_br2: plastic<br>sting
+bip_39_word_new_br3: plastic<br>sting<br>inquiry
+bip_39_word_new_br4: plastic<br>sting<br>inquiry<br>wing
+bip_39_word_new_br5: plastic<br>sting<br>inquiry<br>wing<br>swarm
+bip_39_word_new_br6: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve
+bip_39_word_new_br7: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve<br>search
+bip_39_word_new_br8: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve<br>search<br>portion
+bip_39_word_new_br9: plastic<br>sting<br>inquiry<br>wing<br>swarm<br>twelve<br>search<br>portion<br>print
+bip_39_word_new_line1: plastic
+bip_39_word_new_line10: 'plastic
+
+  sting
+
+  inquiry
+
+  wing
+
+  swarm
+
+  twelve
+
+  search
+
+  portion
+
+  print
+
+  album'
+bip_39_word_new_line11: 'plastic
+
+  sting
+
+  inquiry
+
+  wing
+
+  swarm
+
+  twelve
+
+  search
+
+  portion
+
+  print
+
+  album
+
+  maze'
+bip_39_word_new_line12: 'plastic
+
+  sting
+
+  inquiry
+
+  wing
+
+  swarm
+
+  twelve
+
+  search
+
+  portion
+
+  print
+
+  album
+
+  maze
+
+  alien'
+bip_39_word_new_line2: 'plastic
+
+  sting'
+bip_39_word_new_line3: 'plastic
+
+  sting
+
+  inquiry'
+bip_39_word_new_line4: 'plastic
+
+  sting
+
+  inquiry
+
+  wing'
+bip_39_word_new_line5: 'plastic
+
+  sting
+
+  inquiry
+
+  wing
+
+  swarm'
+bip_39_word_new_line6: 'plastic
+
+  sting
+
+  inquiry
+
+  wing
+
+  swarm
+
+  twelve'
+bip_39_word_new_line7: 'plastic
+
+  sting
+
+  inquiry
+
+  wing
+
+  swarm
+
+  twelve
+
+  search'
+bip_39_word_new_line8: 'plastic
+
+  sting
+
+  inquiry
+
+  wing
+
+  swarm
+
+  twelve
+
+  search
+
+  portion'
+bip_39_word_new_line9: 'plastic
+
+  sting
+
+  inquiry
+
+  wing
+
+  swarm
+
+  twelve
+
+  search
+
+  portion
+
+  print'
+bip_39_word_space_0:
+- plastic
+- sting
+- inquiry
+- wing
+- swarm
+- twelve
+- search
+- portion
+- print
+- album
+- maze
+- alien
+bip_39_word_space_1: plastic
+bip_39_word_space_10: plastic sting inquiry wing swarm twelve search portion print
+  album
+bip_39_word_space_11: plastic sting inquiry wing swarm twelve search portion print
+  album maze
+bip_39_word_space_12: plastic sting inquiry wing swarm twelve search portion print
+  album maze alien
+bip_39_word_space_2: plastic sting
+bip_39_word_space_3: plastic sting inquiry
+bip_39_word_space_4: plastic sting inquiry wing
+bip_39_word_space_5: plastic sting inquiry wing swarm
+bip_39_word_space_6: plastic sting inquiry wing swarm twelve
+bip_39_word_space_7: plastic sting inquiry wing swarm twelve search
+bip_39_word_space_8: plastic sting inquiry wing swarm twelve search portion
+bip_39_word_space_9: plastic sting inquiry wing swarm twelve search portion print
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

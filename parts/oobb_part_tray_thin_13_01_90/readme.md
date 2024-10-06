@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: episode during
+  * bip 39 word 3: episode during window
+  * bip 39 word: episode during window share artefact make lava ticket speak plate ridge able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | episode |  
+| bip_39_word_new_br10 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate |  
+| bip_39_word_new_br11 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate<br>ridge |  
+| bip_39_word_new_br12 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak<br>plate<br>ridge<br>able |  
+| bip_39_word_new_br2 | episode<br>during |  
+| bip_39_word_new_br3 | episode<br>during<br>window |  
+| bip_39_word_new_br4 | episode<br>during<br>window<br>share |  
+| bip_39_word_new_br5 | episode<br>during<br>window<br>share<br>artefact |  
+| bip_39_word_new_br6 | episode<br>during<br>window<br>share<br>artefact<br>make |  
+| bip_39_word_new_br7 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava |  
+| bip_39_word_new_br8 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket |  
+| bip_39_word_new_br9 | episode<br>during<br>window<br>share<br>artefact<br>make<br>lava<br>ticket<br>speak |  
+| bip_39_word_new_line1 | episode |  
+| bip_39_word_new_line10 | episode
+during
+window
+share
+artefact
+make
+lava
+ticket
+speak
+plate |  
+| bip_39_word_new_line11 | episode
+during
+window
+share
+artefact
+make
+lava
+ticket
+speak
+plate
+ridge |  
+| bip_39_word_new_line12 | episode
+during
+window
+share
+artefact
+make
+lava
+ticket
+speak
+plate
+ridge
+able |  
+| bip_39_word_new_line2 | episode
+during |  
+| bip_39_word_new_line3 | episode
+during
+window |  
+| bip_39_word_new_line4 | episode
+during
+window
+share |  
+| bip_39_word_new_line5 | episode
+during
+window
+share
+artefact |  
+| bip_39_word_new_line6 | episode
+during
+window
+share
+artefact
+make |  
+| bip_39_word_new_line7 | episode
+during
+window
+share
+artefact
+make
+lava |  
+| bip_39_word_new_line8 | episode
+during
+window
+share
+artefact
+make
+lava
+ticket |  
+| bip_39_word_new_line9 | episode
+during
+window
+share
+artefact
+make
+lava
+ticket
+speak |  
+| bip_39_word_space_0 | ['episode', 'during', 'window', 'share', 'artefact', 'make', 'lava', 'ticket', 'speak', 'plate', 'ridge', 'able'] |  
+| bip_39_word_space_1 | episode |  
+| bip_39_word_space_10 | episode during window share artefact make lava ticket speak plate |  
+| bip_39_word_space_11 | episode during window share artefact make lava ticket speak plate ridge |  
+| bip_39_word_space_12 | episode during window share artefact make lava ticket speak plate ridge able |  
+| bip_39_word_space_2 | episode during |  
+| bip_39_word_space_3 | episode during window |  
+| bip_39_word_space_4 | episode during window share |  
+| bip_39_word_space_5 | episode during window share artefact |  
+| bip_39_word_space_6 | episode during window share artefact make |  
+| bip_39_word_space_7 | episode during window share artefact make lava |  
+| bip_39_word_space_8 | episode during window share artefact make lava ticket |  
+| bip_39_word_space_9 | episode during window share artefact make lava ticket speak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

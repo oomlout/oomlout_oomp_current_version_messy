@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rally pave
+  * bip 39 word 3: rally pave absent
+  * bip 39 word: rally pave absent adjust alpha vapor skirt fox turn cargo sight amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rally |  
+| bip_39_word_new_br10 | rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor<br>skirt<br>fox<br>turn<br>cargo |  
+| bip_39_word_new_br11 | rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor<br>skirt<br>fox<br>turn<br>cargo<br>sight |  
+| bip_39_word_new_br12 | rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor<br>skirt<br>fox<br>turn<br>cargo<br>sight<br>amateur |  
+| bip_39_word_new_br2 | rally<br>pave |  
+| bip_39_word_new_br3 | rally<br>pave<br>absent |  
+| bip_39_word_new_br4 | rally<br>pave<br>absent<br>adjust |  
+| bip_39_word_new_br5 | rally<br>pave<br>absent<br>adjust<br>alpha |  
+| bip_39_word_new_br6 | rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor |  
+| bip_39_word_new_br7 | rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor<br>skirt |  
+| bip_39_word_new_br8 | rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor<br>skirt<br>fox |  
+| bip_39_word_new_br9 | rally<br>pave<br>absent<br>adjust<br>alpha<br>vapor<br>skirt<br>fox<br>turn |  
+| bip_39_word_new_line1 | rally |  
+| bip_39_word_new_line10 | rally
+pave
+absent
+adjust
+alpha
+vapor
+skirt
+fox
+turn
+cargo |  
+| bip_39_word_new_line11 | rally
+pave
+absent
+adjust
+alpha
+vapor
+skirt
+fox
+turn
+cargo
+sight |  
+| bip_39_word_new_line12 | rally
+pave
+absent
+adjust
+alpha
+vapor
+skirt
+fox
+turn
+cargo
+sight
+amateur |  
+| bip_39_word_new_line2 | rally
+pave |  
+| bip_39_word_new_line3 | rally
+pave
+absent |  
+| bip_39_word_new_line4 | rally
+pave
+absent
+adjust |  
+| bip_39_word_new_line5 | rally
+pave
+absent
+adjust
+alpha |  
+| bip_39_word_new_line6 | rally
+pave
+absent
+adjust
+alpha
+vapor |  
+| bip_39_word_new_line7 | rally
+pave
+absent
+adjust
+alpha
+vapor
+skirt |  
+| bip_39_word_new_line8 | rally
+pave
+absent
+adjust
+alpha
+vapor
+skirt
+fox |  
+| bip_39_word_new_line9 | rally
+pave
+absent
+adjust
+alpha
+vapor
+skirt
+fox
+turn |  
+| bip_39_word_space_0 | ['rally', 'pave', 'absent', 'adjust', 'alpha', 'vapor', 'skirt', 'fox', 'turn', 'cargo', 'sight', 'amateur'] |  
+| bip_39_word_space_1 | rally |  
+| bip_39_word_space_10 | rally pave absent adjust alpha vapor skirt fox turn cargo |  
+| bip_39_word_space_11 | rally pave absent adjust alpha vapor skirt fox turn cargo sight |  
+| bip_39_word_space_12 | rally pave absent adjust alpha vapor skirt fox turn cargo sight amateur |  
+| bip_39_word_space_2 | rally pave |  
+| bip_39_word_space_3 | rally pave absent |  
+| bip_39_word_space_4 | rally pave absent adjust |  
+| bip_39_word_space_5 | rally pave absent adjust alpha |  
+| bip_39_word_space_6 | rally pave absent adjust alpha vapor |  
+| bip_39_word_space_7 | rally pave absent adjust alpha vapor skirt |  
+| bip_39_word_space_8 | rally pave absent adjust alpha vapor skirt fox |  
+| bip_39_word_space_9 | rally pave absent adjust alpha vapor skirt fox turn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

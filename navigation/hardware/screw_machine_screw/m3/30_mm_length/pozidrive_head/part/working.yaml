@@ -1,3 +1,187 @@
+bip_39_word_new_br1: decrease
+bip_39_word_new_br10: decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat
+bip_39_word_new_br11: decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat<br>federal
+bip_39_word_new_br12: decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle<br>cat<br>federal<br>adapt
+bip_39_word_new_br2: decrease<br>famous
+bip_39_word_new_br3: decrease<br>famous<br>depend
+bip_39_word_new_br4: decrease<br>famous<br>depend<br>slot
+bip_39_word_new_br5: decrease<br>famous<br>depend<br>slot<br>affair
+bip_39_word_new_br6: decrease<br>famous<br>depend<br>slot<br>affair<br>tragic
+bip_39_word_new_br7: decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble
+bip_39_word_new_br8: decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice
+bip_39_word_new_br9: decrease<br>famous<br>depend<br>slot<br>affair<br>tragic<br>tumble<br>spice<br>noodle
+bip_39_word_new_line1: decrease
+bip_39_word_new_line10: 'decrease
+
+  famous
+
+  depend
+
+  slot
+
+  affair
+
+  tragic
+
+  tumble
+
+  spice
+
+  noodle
+
+  cat'
+bip_39_word_new_line11: 'decrease
+
+  famous
+
+  depend
+
+  slot
+
+  affair
+
+  tragic
+
+  tumble
+
+  spice
+
+  noodle
+
+  cat
+
+  federal'
+bip_39_word_new_line12: 'decrease
+
+  famous
+
+  depend
+
+  slot
+
+  affair
+
+  tragic
+
+  tumble
+
+  spice
+
+  noodle
+
+  cat
+
+  federal
+
+  adapt'
+bip_39_word_new_line2: 'decrease
+
+  famous'
+bip_39_word_new_line3: 'decrease
+
+  famous
+
+  depend'
+bip_39_word_new_line4: 'decrease
+
+  famous
+
+  depend
+
+  slot'
+bip_39_word_new_line5: 'decrease
+
+  famous
+
+  depend
+
+  slot
+
+  affair'
+bip_39_word_new_line6: 'decrease
+
+  famous
+
+  depend
+
+  slot
+
+  affair
+
+  tragic'
+bip_39_word_new_line7: 'decrease
+
+  famous
+
+  depend
+
+  slot
+
+  affair
+
+  tragic
+
+  tumble'
+bip_39_word_new_line8: 'decrease
+
+  famous
+
+  depend
+
+  slot
+
+  affair
+
+  tragic
+
+  tumble
+
+  spice'
+bip_39_word_new_line9: 'decrease
+
+  famous
+
+  depend
+
+  slot
+
+  affair
+
+  tragic
+
+  tumble
+
+  spice
+
+  noodle'
+bip_39_word_space_0:
+- decrease
+- famous
+- depend
+- slot
+- affair
+- tragic
+- tumble
+- spice
+- noodle
+- cat
+- federal
+- adapt
+bip_39_word_space_1: decrease
+bip_39_word_space_10: decrease famous depend slot affair tragic tumble spice noodle
+  cat
+bip_39_word_space_11: decrease famous depend slot affair tragic tumble spice noodle
+  cat federal
+bip_39_word_space_12: decrease famous depend slot affair tragic tumble spice noodle
+  cat federal adapt
+bip_39_word_space_2: decrease famous
+bip_39_word_space_3: decrease famous depend
+bip_39_word_space_4: decrease famous depend slot
+bip_39_word_space_5: decrease famous depend slot affair
+bip_39_word_space_6: decrease famous depend slot affair tragic
+bip_39_word_space_7: decrease famous depend slot affair tragic tumble
+bip_39_word_space_8: decrease famous depend slot affair tragic tumble spice
+bip_39_word_space_9: decrease famous depend slot affair tragic tumble spice noodle
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

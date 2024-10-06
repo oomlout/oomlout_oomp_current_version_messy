@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: talk friend
+  * bip 39 word 3: talk friend rifle
+  * bip 39 word: talk friend rifle noodle buddy clinic season jealous fox reunion hire ahead
 
 ### other_codes
 * short_code: so3br6ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | talk |  
+| bip_39_word_new_br10 | talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic<br>season<br>jealous<br>fox<br>reunion |  
+| bip_39_word_new_br11 | talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic<br>season<br>jealous<br>fox<br>reunion<br>hire |  
+| bip_39_word_new_br12 | talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic<br>season<br>jealous<br>fox<br>reunion<br>hire<br>ahead |  
+| bip_39_word_new_br2 | talk<br>friend |  
+| bip_39_word_new_br3 | talk<br>friend<br>rifle |  
+| bip_39_word_new_br4 | talk<br>friend<br>rifle<br>noodle |  
+| bip_39_word_new_br5 | talk<br>friend<br>rifle<br>noodle<br>buddy |  
+| bip_39_word_new_br6 | talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic |  
+| bip_39_word_new_br7 | talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic<br>season |  
+| bip_39_word_new_br8 | talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic<br>season<br>jealous |  
+| bip_39_word_new_br9 | talk<br>friend<br>rifle<br>noodle<br>buddy<br>clinic<br>season<br>jealous<br>fox |  
+| bip_39_word_new_line1 | talk |  
+| bip_39_word_new_line10 | talk
+friend
+rifle
+noodle
+buddy
+clinic
+season
+jealous
+fox
+reunion |  
+| bip_39_word_new_line11 | talk
+friend
+rifle
+noodle
+buddy
+clinic
+season
+jealous
+fox
+reunion
+hire |  
+| bip_39_word_new_line12 | talk
+friend
+rifle
+noodle
+buddy
+clinic
+season
+jealous
+fox
+reunion
+hire
+ahead |  
+| bip_39_word_new_line2 | talk
+friend |  
+| bip_39_word_new_line3 | talk
+friend
+rifle |  
+| bip_39_word_new_line4 | talk
+friend
+rifle
+noodle |  
+| bip_39_word_new_line5 | talk
+friend
+rifle
+noodle
+buddy |  
+| bip_39_word_new_line6 | talk
+friend
+rifle
+noodle
+buddy
+clinic |  
+| bip_39_word_new_line7 | talk
+friend
+rifle
+noodle
+buddy
+clinic
+season |  
+| bip_39_word_new_line8 | talk
+friend
+rifle
+noodle
+buddy
+clinic
+season
+jealous |  
+| bip_39_word_new_line9 | talk
+friend
+rifle
+noodle
+buddy
+clinic
+season
+jealous
+fox |  
+| bip_39_word_space_0 | ['talk', 'friend', 'rifle', 'noodle', 'buddy', 'clinic', 'season', 'jealous', 'fox', 'reunion', 'hire', 'ahead'] |  
+| bip_39_word_space_1 | talk |  
+| bip_39_word_space_10 | talk friend rifle noodle buddy clinic season jealous fox reunion |  
+| bip_39_word_space_11 | talk friend rifle noodle buddy clinic season jealous fox reunion hire |  
+| bip_39_word_space_12 | talk friend rifle noodle buddy clinic season jealous fox reunion hire ahead |  
+| bip_39_word_space_2 | talk friend |  
+| bip_39_word_space_3 | talk friend rifle |  
+| bip_39_word_space_4 | talk friend rifle noodle |  
+| bip_39_word_space_5 | talk friend rifle noodle buddy |  
+| bip_39_word_space_6 | talk friend rifle noodle buddy clinic |  
+| bip_39_word_space_7 | talk friend rifle noodle buddy clinic season |  
+| bip_39_word_space_8 | talk friend rifle noodle buddy clinic season jealous |  
+| bip_39_word_space_9 | talk friend rifle noodle buddy clinic season jealous fox |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

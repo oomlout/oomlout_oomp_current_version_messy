@@ -1,3 +1,186 @@
+bip_39_word_new_br1: check
+bip_39_word_new_br10: check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge
+bip_39_word_new_br11: check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge<br>peasant
+bip_39_word_new_br12: check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick<br>surge<br>peasant<br>auto
+bip_39_word_new_br2: check<br>ignore
+bip_39_word_new_br3: check<br>ignore<br>fiber
+bip_39_word_new_br4: check<br>ignore<br>fiber<br>quiz
+bip_39_word_new_br5: check<br>ignore<br>fiber<br>quiz<br>various
+bip_39_word_new_br6: check<br>ignore<br>fiber<br>quiz<br>various<br>gap
+bip_39_word_new_br7: check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject
+bip_39_word_new_br8: check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino
+bip_39_word_new_br9: check<br>ignore<br>fiber<br>quiz<br>various<br>gap<br>inject<br>casino<br>kick
+bip_39_word_new_line1: check
+bip_39_word_new_line10: 'check
+
+  ignore
+
+  fiber
+
+  quiz
+
+  various
+
+  gap
+
+  inject
+
+  casino
+
+  kick
+
+  surge'
+bip_39_word_new_line11: 'check
+
+  ignore
+
+  fiber
+
+  quiz
+
+  various
+
+  gap
+
+  inject
+
+  casino
+
+  kick
+
+  surge
+
+  peasant'
+bip_39_word_new_line12: 'check
+
+  ignore
+
+  fiber
+
+  quiz
+
+  various
+
+  gap
+
+  inject
+
+  casino
+
+  kick
+
+  surge
+
+  peasant
+
+  auto'
+bip_39_word_new_line2: 'check
+
+  ignore'
+bip_39_word_new_line3: 'check
+
+  ignore
+
+  fiber'
+bip_39_word_new_line4: 'check
+
+  ignore
+
+  fiber
+
+  quiz'
+bip_39_word_new_line5: 'check
+
+  ignore
+
+  fiber
+
+  quiz
+
+  various'
+bip_39_word_new_line6: 'check
+
+  ignore
+
+  fiber
+
+  quiz
+
+  various
+
+  gap'
+bip_39_word_new_line7: 'check
+
+  ignore
+
+  fiber
+
+  quiz
+
+  various
+
+  gap
+
+  inject'
+bip_39_word_new_line8: 'check
+
+  ignore
+
+  fiber
+
+  quiz
+
+  various
+
+  gap
+
+  inject
+
+  casino'
+bip_39_word_new_line9: 'check
+
+  ignore
+
+  fiber
+
+  quiz
+
+  various
+
+  gap
+
+  inject
+
+  casino
+
+  kick'
+bip_39_word_space_0:
+- check
+- ignore
+- fiber
+- quiz
+- various
+- gap
+- inject
+- casino
+- kick
+- surge
+- peasant
+- auto
+bip_39_word_space_1: check
+bip_39_word_space_10: check ignore fiber quiz various gap inject casino kick surge
+bip_39_word_space_11: check ignore fiber quiz various gap inject casino kick surge
+  peasant
+bip_39_word_space_12: check ignore fiber quiz various gap inject casino kick surge
+  peasant auto
+bip_39_word_space_2: check ignore
+bip_39_word_space_3: check ignore fiber
+bip_39_word_space_4: check ignore fiber quiz
+bip_39_word_space_5: check ignore fiber quiz various
+bip_39_word_space_6: check ignore fiber quiz various gap
+bip_39_word_space_7: check ignore fiber quiz various gap inject
+bip_39_word_space_8: check ignore fiber quiz various gap inject casino
+bip_39_word_space_9: check ignore fiber quiz various gap inject casino kick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

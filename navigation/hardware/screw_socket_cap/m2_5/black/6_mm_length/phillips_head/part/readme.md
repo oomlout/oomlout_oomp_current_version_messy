@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: acquire dizzy
+  * bip 39 word 3: acquire dizzy suspect
+  * bip 39 word: acquire dizzy suspect plunge share human salon raw iron major scrub arrest
 
 ### other_codes
 * short_code: sc2d5b6p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | acquire |  
+| bip_39_word_new_br10 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major |  
+| bip_39_word_new_br11 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major<br>scrub |  
+| bip_39_word_new_br12 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron<br>major<br>scrub<br>arrest |  
+| bip_39_word_new_br2 | acquire<br>dizzy |  
+| bip_39_word_new_br3 | acquire<br>dizzy<br>suspect |  
+| bip_39_word_new_br4 | acquire<br>dizzy<br>suspect<br>plunge |  
+| bip_39_word_new_br5 | acquire<br>dizzy<br>suspect<br>plunge<br>share |  
+| bip_39_word_new_br6 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human |  
+| bip_39_word_new_br7 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon |  
+| bip_39_word_new_br8 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw |  
+| bip_39_word_new_br9 | acquire<br>dizzy<br>suspect<br>plunge<br>share<br>human<br>salon<br>raw<br>iron |  
+| bip_39_word_new_line1 | acquire |  
+| bip_39_word_new_line10 | acquire
+dizzy
+suspect
+plunge
+share
+human
+salon
+raw
+iron
+major |  
+| bip_39_word_new_line11 | acquire
+dizzy
+suspect
+plunge
+share
+human
+salon
+raw
+iron
+major
+scrub |  
+| bip_39_word_new_line12 | acquire
+dizzy
+suspect
+plunge
+share
+human
+salon
+raw
+iron
+major
+scrub
+arrest |  
+| bip_39_word_new_line2 | acquire
+dizzy |  
+| bip_39_word_new_line3 | acquire
+dizzy
+suspect |  
+| bip_39_word_new_line4 | acquire
+dizzy
+suspect
+plunge |  
+| bip_39_word_new_line5 | acquire
+dizzy
+suspect
+plunge
+share |  
+| bip_39_word_new_line6 | acquire
+dizzy
+suspect
+plunge
+share
+human |  
+| bip_39_word_new_line7 | acquire
+dizzy
+suspect
+plunge
+share
+human
+salon |  
+| bip_39_word_new_line8 | acquire
+dizzy
+suspect
+plunge
+share
+human
+salon
+raw |  
+| bip_39_word_new_line9 | acquire
+dizzy
+suspect
+plunge
+share
+human
+salon
+raw
+iron |  
+| bip_39_word_space_0 | ['acquire', 'dizzy', 'suspect', 'plunge', 'share', 'human', 'salon', 'raw', 'iron', 'major', 'scrub', 'arrest'] |  
+| bip_39_word_space_1 | acquire |  
+| bip_39_word_space_10 | acquire dizzy suspect plunge share human salon raw iron major |  
+| bip_39_word_space_11 | acquire dizzy suspect plunge share human salon raw iron major scrub |  
+| bip_39_word_space_12 | acquire dizzy suspect plunge share human salon raw iron major scrub arrest |  
+| bip_39_word_space_2 | acquire dizzy |  
+| bip_39_word_space_3 | acquire dizzy suspect |  
+| bip_39_word_space_4 | acquire dizzy suspect plunge |  
+| bip_39_word_space_5 | acquire dizzy suspect plunge share |  
+| bip_39_word_space_6 | acquire dizzy suspect plunge share human |  
+| bip_39_word_space_7 | acquire dizzy suspect plunge share human salon |  
+| bip_39_word_space_8 | acquire dizzy suspect plunge share human salon raw |  
+| bip_39_word_space_9 | acquire dizzy suspect plunge share human salon raw iron |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

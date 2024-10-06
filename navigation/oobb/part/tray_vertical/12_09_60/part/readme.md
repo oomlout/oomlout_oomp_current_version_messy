@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vocal ginger
+  * bip 39 word 3: vocal ginger goat
+  * bip 39 word: vocal ginger goat civil mechanic burger stone black mercy slender ring alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vocal |  
+| bip_39_word_new_br10 | vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger<br>stone<br>black<br>mercy<br>slender |  
+| bip_39_word_new_br11 | vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger<br>stone<br>black<br>mercy<br>slender<br>ring |  
+| bip_39_word_new_br12 | vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger<br>stone<br>black<br>mercy<br>slender<br>ring<br>alter |  
+| bip_39_word_new_br2 | vocal<br>ginger |  
+| bip_39_word_new_br3 | vocal<br>ginger<br>goat |  
+| bip_39_word_new_br4 | vocal<br>ginger<br>goat<br>civil |  
+| bip_39_word_new_br5 | vocal<br>ginger<br>goat<br>civil<br>mechanic |  
+| bip_39_word_new_br6 | vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger |  
+| bip_39_word_new_br7 | vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger<br>stone |  
+| bip_39_word_new_br8 | vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger<br>stone<br>black |  
+| bip_39_word_new_br9 | vocal<br>ginger<br>goat<br>civil<br>mechanic<br>burger<br>stone<br>black<br>mercy |  
+| bip_39_word_new_line1 | vocal |  
+| bip_39_word_new_line10 | vocal
+ginger
+goat
+civil
+mechanic
+burger
+stone
+black
+mercy
+slender |  
+| bip_39_word_new_line11 | vocal
+ginger
+goat
+civil
+mechanic
+burger
+stone
+black
+mercy
+slender
+ring |  
+| bip_39_word_new_line12 | vocal
+ginger
+goat
+civil
+mechanic
+burger
+stone
+black
+mercy
+slender
+ring
+alter |  
+| bip_39_word_new_line2 | vocal
+ginger |  
+| bip_39_word_new_line3 | vocal
+ginger
+goat |  
+| bip_39_word_new_line4 | vocal
+ginger
+goat
+civil |  
+| bip_39_word_new_line5 | vocal
+ginger
+goat
+civil
+mechanic |  
+| bip_39_word_new_line6 | vocal
+ginger
+goat
+civil
+mechanic
+burger |  
+| bip_39_word_new_line7 | vocal
+ginger
+goat
+civil
+mechanic
+burger
+stone |  
+| bip_39_word_new_line8 | vocal
+ginger
+goat
+civil
+mechanic
+burger
+stone
+black |  
+| bip_39_word_new_line9 | vocal
+ginger
+goat
+civil
+mechanic
+burger
+stone
+black
+mercy |  
+| bip_39_word_space_0 | ['vocal', 'ginger', 'goat', 'civil', 'mechanic', 'burger', 'stone', 'black', 'mercy', 'slender', 'ring', 'alter'] |  
+| bip_39_word_space_1 | vocal |  
+| bip_39_word_space_10 | vocal ginger goat civil mechanic burger stone black mercy slender |  
+| bip_39_word_space_11 | vocal ginger goat civil mechanic burger stone black mercy slender ring |  
+| bip_39_word_space_12 | vocal ginger goat civil mechanic burger stone black mercy slender ring alter |  
+| bip_39_word_space_2 | vocal ginger |  
+| bip_39_word_space_3 | vocal ginger goat |  
+| bip_39_word_space_4 | vocal ginger goat civil |  
+| bip_39_word_space_5 | vocal ginger goat civil mechanic |  
+| bip_39_word_space_6 | vocal ginger goat civil mechanic burger |  
+| bip_39_word_space_7 | vocal ginger goat civil mechanic burger stone |  
+| bip_39_word_space_8 | vocal ginger goat civil mechanic burger stone black |  
+| bip_39_word_space_9 | vocal ginger goat civil mechanic burger stone black mercy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

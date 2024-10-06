@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: february explain
+  * bip 39 word 3: february explain remove
+  * bip 39 word: february explain remove witness chair domain air still cook market drink assault
 
 ### other_codes
 * short_code: sc3b20h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | february |  
+| bip_39_word_new_br10 | february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook<br>market |  
+| bip_39_word_new_br11 | february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook<br>market<br>drink |  
+| bip_39_word_new_br12 | february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook<br>market<br>drink<br>assault |  
+| bip_39_word_new_br2 | february<br>explain |  
+| bip_39_word_new_br3 | february<br>explain<br>remove |  
+| bip_39_word_new_br4 | february<br>explain<br>remove<br>witness |  
+| bip_39_word_new_br5 | february<br>explain<br>remove<br>witness<br>chair |  
+| bip_39_word_new_br6 | february<br>explain<br>remove<br>witness<br>chair<br>domain |  
+| bip_39_word_new_br7 | february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air |  
+| bip_39_word_new_br8 | february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still |  
+| bip_39_word_new_br9 | february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook |  
+| bip_39_word_new_line1 | february |  
+| bip_39_word_new_line10 | february
+explain
+remove
+witness
+chair
+domain
+air
+still
+cook
+market |  
+| bip_39_word_new_line11 | february
+explain
+remove
+witness
+chair
+domain
+air
+still
+cook
+market
+drink |  
+| bip_39_word_new_line12 | february
+explain
+remove
+witness
+chair
+domain
+air
+still
+cook
+market
+drink
+assault |  
+| bip_39_word_new_line2 | february
+explain |  
+| bip_39_word_new_line3 | february
+explain
+remove |  
+| bip_39_word_new_line4 | february
+explain
+remove
+witness |  
+| bip_39_word_new_line5 | february
+explain
+remove
+witness
+chair |  
+| bip_39_word_new_line6 | february
+explain
+remove
+witness
+chair
+domain |  
+| bip_39_word_new_line7 | february
+explain
+remove
+witness
+chair
+domain
+air |  
+| bip_39_word_new_line8 | february
+explain
+remove
+witness
+chair
+domain
+air
+still |  
+| bip_39_word_new_line9 | february
+explain
+remove
+witness
+chair
+domain
+air
+still
+cook |  
+| bip_39_word_space_0 | ['february', 'explain', 'remove', 'witness', 'chair', 'domain', 'air', 'still', 'cook', 'market', 'drink', 'assault'] |  
+| bip_39_word_space_1 | february |  
+| bip_39_word_space_10 | february explain remove witness chair domain air still cook market |  
+| bip_39_word_space_11 | february explain remove witness chair domain air still cook market drink |  
+| bip_39_word_space_12 | february explain remove witness chair domain air still cook market drink assault |  
+| bip_39_word_space_2 | february explain |  
+| bip_39_word_space_3 | february explain remove |  
+| bip_39_word_space_4 | february explain remove witness |  
+| bip_39_word_space_5 | february explain remove witness chair |  
+| bip_39_word_space_6 | february explain remove witness chair domain |  
+| bip_39_word_space_7 | february explain remove witness chair domain air |  
+| bip_39_word_space_8 | february explain remove witness chair domain air still |  
+| bip_39_word_space_9 | february explain remove witness chair domain air still cook |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

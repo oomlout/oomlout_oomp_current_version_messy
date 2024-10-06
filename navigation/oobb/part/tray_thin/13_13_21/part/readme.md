@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mountain correct
+  * bip 39 word 3: mountain correct plate
+  * bip 39 word: mountain correct plate when hope guard enough warrior pizza wasp flock approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mountain |  
+| bip_39_word_new_br10 | mountain<br>correct<br>plate<br>when<br>hope<br>guard<br>enough<br>warrior<br>pizza<br>wasp |  
+| bip_39_word_new_br11 | mountain<br>correct<br>plate<br>when<br>hope<br>guard<br>enough<br>warrior<br>pizza<br>wasp<br>flock |  
+| bip_39_word_new_br12 | mountain<br>correct<br>plate<br>when<br>hope<br>guard<br>enough<br>warrior<br>pizza<br>wasp<br>flock<br>approve |  
+| bip_39_word_new_br2 | mountain<br>correct |  
+| bip_39_word_new_br3 | mountain<br>correct<br>plate |  
+| bip_39_word_new_br4 | mountain<br>correct<br>plate<br>when |  
+| bip_39_word_new_br5 | mountain<br>correct<br>plate<br>when<br>hope |  
+| bip_39_word_new_br6 | mountain<br>correct<br>plate<br>when<br>hope<br>guard |  
+| bip_39_word_new_br7 | mountain<br>correct<br>plate<br>when<br>hope<br>guard<br>enough |  
+| bip_39_word_new_br8 | mountain<br>correct<br>plate<br>when<br>hope<br>guard<br>enough<br>warrior |  
+| bip_39_word_new_br9 | mountain<br>correct<br>plate<br>when<br>hope<br>guard<br>enough<br>warrior<br>pizza |  
+| bip_39_word_new_line1 | mountain |  
+| bip_39_word_new_line10 | mountain
+correct
+plate
+when
+hope
+guard
+enough
+warrior
+pizza
+wasp |  
+| bip_39_word_new_line11 | mountain
+correct
+plate
+when
+hope
+guard
+enough
+warrior
+pizza
+wasp
+flock |  
+| bip_39_word_new_line12 | mountain
+correct
+plate
+when
+hope
+guard
+enough
+warrior
+pizza
+wasp
+flock
+approve |  
+| bip_39_word_new_line2 | mountain
+correct |  
+| bip_39_word_new_line3 | mountain
+correct
+plate |  
+| bip_39_word_new_line4 | mountain
+correct
+plate
+when |  
+| bip_39_word_new_line5 | mountain
+correct
+plate
+when
+hope |  
+| bip_39_word_new_line6 | mountain
+correct
+plate
+when
+hope
+guard |  
+| bip_39_word_new_line7 | mountain
+correct
+plate
+when
+hope
+guard
+enough |  
+| bip_39_word_new_line8 | mountain
+correct
+plate
+when
+hope
+guard
+enough
+warrior |  
+| bip_39_word_new_line9 | mountain
+correct
+plate
+when
+hope
+guard
+enough
+warrior
+pizza |  
+| bip_39_word_space_0 | ['mountain', 'correct', 'plate', 'when', 'hope', 'guard', 'enough', 'warrior', 'pizza', 'wasp', 'flock', 'approve'] |  
+| bip_39_word_space_1 | mountain |  
+| bip_39_word_space_10 | mountain correct plate when hope guard enough warrior pizza wasp |  
+| bip_39_word_space_11 | mountain correct plate when hope guard enough warrior pizza wasp flock |  
+| bip_39_word_space_12 | mountain correct plate when hope guard enough warrior pizza wasp flock approve |  
+| bip_39_word_space_2 | mountain correct |  
+| bip_39_word_space_3 | mountain correct plate |  
+| bip_39_word_space_4 | mountain correct plate when |  
+| bip_39_word_space_5 | mountain correct plate when hope |  
+| bip_39_word_space_6 | mountain correct plate when hope guard |  
+| bip_39_word_space_7 | mountain correct plate when hope guard enough |  
+| bip_39_word_space_8 | mountain correct plate when hope guard enough warrior |  
+| bip_39_word_space_9 | mountain correct plate when hope guard enough warrior pizza |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

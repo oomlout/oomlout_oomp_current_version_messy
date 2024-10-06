@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ocean stamp
+  * bip 39 word 3: ocean stamp ribbon
+  * bip 39 word: ocean stamp ribbon code helmet advice shiver flag turtle exhaust buddy always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ocean |  
+| bip_39_word_new_br10 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice<br>shiver<br>flag<br>turtle<br>exhaust |  
+| bip_39_word_new_br11 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice<br>shiver<br>flag<br>turtle<br>exhaust<br>buddy |  
+| bip_39_word_new_br12 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice<br>shiver<br>flag<br>turtle<br>exhaust<br>buddy<br>always |  
+| bip_39_word_new_br2 | ocean<br>stamp |  
+| bip_39_word_new_br3 | ocean<br>stamp<br>ribbon |  
+| bip_39_word_new_br4 | ocean<br>stamp<br>ribbon<br>code |  
+| bip_39_word_new_br5 | ocean<br>stamp<br>ribbon<br>code<br>helmet |  
+| bip_39_word_new_br6 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice |  
+| bip_39_word_new_br7 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice<br>shiver |  
+| bip_39_word_new_br8 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice<br>shiver<br>flag |  
+| bip_39_word_new_br9 | ocean<br>stamp<br>ribbon<br>code<br>helmet<br>advice<br>shiver<br>flag<br>turtle |  
+| bip_39_word_new_line1 | ocean |  
+| bip_39_word_new_line10 | ocean
+stamp
+ribbon
+code
+helmet
+advice
+shiver
+flag
+turtle
+exhaust |  
+| bip_39_word_new_line11 | ocean
+stamp
+ribbon
+code
+helmet
+advice
+shiver
+flag
+turtle
+exhaust
+buddy |  
+| bip_39_word_new_line12 | ocean
+stamp
+ribbon
+code
+helmet
+advice
+shiver
+flag
+turtle
+exhaust
+buddy
+always |  
+| bip_39_word_new_line2 | ocean
+stamp |  
+| bip_39_word_new_line3 | ocean
+stamp
+ribbon |  
+| bip_39_word_new_line4 | ocean
+stamp
+ribbon
+code |  
+| bip_39_word_new_line5 | ocean
+stamp
+ribbon
+code
+helmet |  
+| bip_39_word_new_line6 | ocean
+stamp
+ribbon
+code
+helmet
+advice |  
+| bip_39_word_new_line7 | ocean
+stamp
+ribbon
+code
+helmet
+advice
+shiver |  
+| bip_39_word_new_line8 | ocean
+stamp
+ribbon
+code
+helmet
+advice
+shiver
+flag |  
+| bip_39_word_new_line9 | ocean
+stamp
+ribbon
+code
+helmet
+advice
+shiver
+flag
+turtle |  
+| bip_39_word_space_0 | ['ocean', 'stamp', 'ribbon', 'code', 'helmet', 'advice', 'shiver', 'flag', 'turtle', 'exhaust', 'buddy', 'always'] |  
+| bip_39_word_space_1 | ocean |  
+| bip_39_word_space_10 | ocean stamp ribbon code helmet advice shiver flag turtle exhaust |  
+| bip_39_word_space_11 | ocean stamp ribbon code helmet advice shiver flag turtle exhaust buddy |  
+| bip_39_word_space_12 | ocean stamp ribbon code helmet advice shiver flag turtle exhaust buddy always |  
+| bip_39_word_space_2 | ocean stamp |  
+| bip_39_word_space_3 | ocean stamp ribbon |  
+| bip_39_word_space_4 | ocean stamp ribbon code |  
+| bip_39_word_space_5 | ocean stamp ribbon code helmet |  
+| bip_39_word_space_6 | ocean stamp ribbon code helmet advice |  
+| bip_39_word_space_7 | ocean stamp ribbon code helmet advice shiver |  
+| bip_39_word_space_8 | ocean stamp ribbon code helmet advice shiver flag |  
+| bip_39_word_space_9 | ocean stamp ribbon code helmet advice shiver flag turtle |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

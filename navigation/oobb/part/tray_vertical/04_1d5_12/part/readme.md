@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flock legend
+  * bip 39 word 3: flock legend retire
+  * bip 39 word: flock legend retire garbage prepare conduct valley awesome suit blind aware around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flock |  
+| bip_39_word_new_br10 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct<br>valley<br>awesome<br>suit<br>blind |  
+| bip_39_word_new_br11 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct<br>valley<br>awesome<br>suit<br>blind<br>aware |  
+| bip_39_word_new_br12 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct<br>valley<br>awesome<br>suit<br>blind<br>aware<br>around |  
+| bip_39_word_new_br2 | flock<br>legend |  
+| bip_39_word_new_br3 | flock<br>legend<br>retire |  
+| bip_39_word_new_br4 | flock<br>legend<br>retire<br>garbage |  
+| bip_39_word_new_br5 | flock<br>legend<br>retire<br>garbage<br>prepare |  
+| bip_39_word_new_br6 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct |  
+| bip_39_word_new_br7 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct<br>valley |  
+| bip_39_word_new_br8 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct<br>valley<br>awesome |  
+| bip_39_word_new_br9 | flock<br>legend<br>retire<br>garbage<br>prepare<br>conduct<br>valley<br>awesome<br>suit |  
+| bip_39_word_new_line1 | flock |  
+| bip_39_word_new_line10 | flock
+legend
+retire
+garbage
+prepare
+conduct
+valley
+awesome
+suit
+blind |  
+| bip_39_word_new_line11 | flock
+legend
+retire
+garbage
+prepare
+conduct
+valley
+awesome
+suit
+blind
+aware |  
+| bip_39_word_new_line12 | flock
+legend
+retire
+garbage
+prepare
+conduct
+valley
+awesome
+suit
+blind
+aware
+around |  
+| bip_39_word_new_line2 | flock
+legend |  
+| bip_39_word_new_line3 | flock
+legend
+retire |  
+| bip_39_word_new_line4 | flock
+legend
+retire
+garbage |  
+| bip_39_word_new_line5 | flock
+legend
+retire
+garbage
+prepare |  
+| bip_39_word_new_line6 | flock
+legend
+retire
+garbage
+prepare
+conduct |  
+| bip_39_word_new_line7 | flock
+legend
+retire
+garbage
+prepare
+conduct
+valley |  
+| bip_39_word_new_line8 | flock
+legend
+retire
+garbage
+prepare
+conduct
+valley
+awesome |  
+| bip_39_word_new_line9 | flock
+legend
+retire
+garbage
+prepare
+conduct
+valley
+awesome
+suit |  
+| bip_39_word_space_0 | ['flock', 'legend', 'retire', 'garbage', 'prepare', 'conduct', 'valley', 'awesome', 'suit', 'blind', 'aware', 'around'] |  
+| bip_39_word_space_1 | flock |  
+| bip_39_word_space_10 | flock legend retire garbage prepare conduct valley awesome suit blind |  
+| bip_39_word_space_11 | flock legend retire garbage prepare conduct valley awesome suit blind aware |  
+| bip_39_word_space_12 | flock legend retire garbage prepare conduct valley awesome suit blind aware around |  
+| bip_39_word_space_2 | flock legend |  
+| bip_39_word_space_3 | flock legend retire |  
+| bip_39_word_space_4 | flock legend retire garbage |  
+| bip_39_word_space_5 | flock legend retire garbage prepare |  
+| bip_39_word_space_6 | flock legend retire garbage prepare conduct |  
+| bip_39_word_space_7 | flock legend retire garbage prepare conduct valley |  
+| bip_39_word_space_8 | flock legend retire garbage prepare conduct valley awesome |  
+| bip_39_word_space_9 | flock legend retire garbage prepare conduct valley awesome suit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

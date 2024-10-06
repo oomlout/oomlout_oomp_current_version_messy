@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stereo grab
+  * bip 39 word 3: stereo grab humor
+  * bip 39 word: stereo grab humor noise title vicious brush benefit amateur walnut tired assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stereo |  
+| bip_39_word_new_br10 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut |  
+| bip_39_word_new_br11 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut<br>tired |  
+| bip_39_word_new_br12 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur<br>walnut<br>tired<br>assist |  
+| bip_39_word_new_br2 | stereo<br>grab |  
+| bip_39_word_new_br3 | stereo<br>grab<br>humor |  
+| bip_39_word_new_br4 | stereo<br>grab<br>humor<br>noise |  
+| bip_39_word_new_br5 | stereo<br>grab<br>humor<br>noise<br>title |  
+| bip_39_word_new_br6 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious |  
+| bip_39_word_new_br7 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush |  
+| bip_39_word_new_br8 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit |  
+| bip_39_word_new_br9 | stereo<br>grab<br>humor<br>noise<br>title<br>vicious<br>brush<br>benefit<br>amateur |  
+| bip_39_word_new_line1 | stereo |  
+| bip_39_word_new_line10 | stereo
+grab
+humor
+noise
+title
+vicious
+brush
+benefit
+amateur
+walnut |  
+| bip_39_word_new_line11 | stereo
+grab
+humor
+noise
+title
+vicious
+brush
+benefit
+amateur
+walnut
+tired |  
+| bip_39_word_new_line12 | stereo
+grab
+humor
+noise
+title
+vicious
+brush
+benefit
+amateur
+walnut
+tired
+assist |  
+| bip_39_word_new_line2 | stereo
+grab |  
+| bip_39_word_new_line3 | stereo
+grab
+humor |  
+| bip_39_word_new_line4 | stereo
+grab
+humor
+noise |  
+| bip_39_word_new_line5 | stereo
+grab
+humor
+noise
+title |  
+| bip_39_word_new_line6 | stereo
+grab
+humor
+noise
+title
+vicious |  
+| bip_39_word_new_line7 | stereo
+grab
+humor
+noise
+title
+vicious
+brush |  
+| bip_39_word_new_line8 | stereo
+grab
+humor
+noise
+title
+vicious
+brush
+benefit |  
+| bip_39_word_new_line9 | stereo
+grab
+humor
+noise
+title
+vicious
+brush
+benefit
+amateur |  
+| bip_39_word_space_0 | ['stereo', 'grab', 'humor', 'noise', 'title', 'vicious', 'brush', 'benefit', 'amateur', 'walnut', 'tired', 'assist'] |  
+| bip_39_word_space_1 | stereo |  
+| bip_39_word_space_10 | stereo grab humor noise title vicious brush benefit amateur walnut |  
+| bip_39_word_space_11 | stereo grab humor noise title vicious brush benefit amateur walnut tired |  
+| bip_39_word_space_12 | stereo grab humor noise title vicious brush benefit amateur walnut tired assist |  
+| bip_39_word_space_2 | stereo grab |  
+| bip_39_word_space_3 | stereo grab humor |  
+| bip_39_word_space_4 | stereo grab humor noise |  
+| bip_39_word_space_5 | stereo grab humor noise title |  
+| bip_39_word_space_6 | stereo grab humor noise title vicious |  
+| bip_39_word_space_7 | stereo grab humor noise title vicious brush |  
+| bip_39_word_space_8 | stereo grab humor noise title vicious brush benefit |  
+| bip_39_word_space_9 | stereo grab humor noise title vicious brush benefit amateur |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

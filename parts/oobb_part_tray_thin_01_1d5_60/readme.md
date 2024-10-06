@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: festival clock
+  * bip 39 word 3: festival clock old
+  * bip 39 word: festival clock old remember brief ranch coffee chair trial burden festival arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | festival |  
+| bip_39_word_new_br10 | festival<br>clock<br>old<br>remember<br>brief<br>ranch<br>coffee<br>chair<br>trial<br>burden |  
+| bip_39_word_new_br11 | festival<br>clock<br>old<br>remember<br>brief<br>ranch<br>coffee<br>chair<br>trial<br>burden<br>festival |  
+| bip_39_word_new_br12 | festival<br>clock<br>old<br>remember<br>brief<br>ranch<br>coffee<br>chair<br>trial<br>burden<br>festival<br>arrive |  
+| bip_39_word_new_br2 | festival<br>clock |  
+| bip_39_word_new_br3 | festival<br>clock<br>old |  
+| bip_39_word_new_br4 | festival<br>clock<br>old<br>remember |  
+| bip_39_word_new_br5 | festival<br>clock<br>old<br>remember<br>brief |  
+| bip_39_word_new_br6 | festival<br>clock<br>old<br>remember<br>brief<br>ranch |  
+| bip_39_word_new_br7 | festival<br>clock<br>old<br>remember<br>brief<br>ranch<br>coffee |  
+| bip_39_word_new_br8 | festival<br>clock<br>old<br>remember<br>brief<br>ranch<br>coffee<br>chair |  
+| bip_39_word_new_br9 | festival<br>clock<br>old<br>remember<br>brief<br>ranch<br>coffee<br>chair<br>trial |  
+| bip_39_word_new_line1 | festival |  
+| bip_39_word_new_line10 | festival
+clock
+old
+remember
+brief
+ranch
+coffee
+chair
+trial
+burden |  
+| bip_39_word_new_line11 | festival
+clock
+old
+remember
+brief
+ranch
+coffee
+chair
+trial
+burden
+festival |  
+| bip_39_word_new_line12 | festival
+clock
+old
+remember
+brief
+ranch
+coffee
+chair
+trial
+burden
+festival
+arrive |  
+| bip_39_word_new_line2 | festival
+clock |  
+| bip_39_word_new_line3 | festival
+clock
+old |  
+| bip_39_word_new_line4 | festival
+clock
+old
+remember |  
+| bip_39_word_new_line5 | festival
+clock
+old
+remember
+brief |  
+| bip_39_word_new_line6 | festival
+clock
+old
+remember
+brief
+ranch |  
+| bip_39_word_new_line7 | festival
+clock
+old
+remember
+brief
+ranch
+coffee |  
+| bip_39_word_new_line8 | festival
+clock
+old
+remember
+brief
+ranch
+coffee
+chair |  
+| bip_39_word_new_line9 | festival
+clock
+old
+remember
+brief
+ranch
+coffee
+chair
+trial |  
+| bip_39_word_space_0 | ['festival', 'clock', 'old', 'remember', 'brief', 'ranch', 'coffee', 'chair', 'trial', 'burden', 'festival', 'arrive'] |  
+| bip_39_word_space_1 | festival |  
+| bip_39_word_space_10 | festival clock old remember brief ranch coffee chair trial burden |  
+| bip_39_word_space_11 | festival clock old remember brief ranch coffee chair trial burden festival |  
+| bip_39_word_space_12 | festival clock old remember brief ranch coffee chair trial burden festival arrive |  
+| bip_39_word_space_2 | festival clock |  
+| bip_39_word_space_3 | festival clock old |  
+| bip_39_word_space_4 | festival clock old remember |  
+| bip_39_word_space_5 | festival clock old remember brief |  
+| bip_39_word_space_6 | festival clock old remember brief ranch |  
+| bip_39_word_space_7 | festival clock old remember brief ranch coffee |  
+| bip_39_word_space_8 | festival clock old remember brief ranch coffee chair |  
+| bip_39_word_space_9 | festival clock old remember brief ranch coffee chair trial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

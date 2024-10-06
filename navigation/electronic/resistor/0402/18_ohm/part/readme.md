@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flock subway
+  * bip 39 word 3: flock subway grief
+  * bip 39 word: flock subway grief plastic jazz alter antenna ghost damp space upgrade appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flock |  
+| bip_39_word_new_br10 | flock<br>subway<br>grief<br>plastic<br>jazz<br>alter<br>antenna<br>ghost<br>damp<br>space |  
+| bip_39_word_new_br11 | flock<br>subway<br>grief<br>plastic<br>jazz<br>alter<br>antenna<br>ghost<br>damp<br>space<br>upgrade |  
+| bip_39_word_new_br12 | flock<br>subway<br>grief<br>plastic<br>jazz<br>alter<br>antenna<br>ghost<br>damp<br>space<br>upgrade<br>appear |  
+| bip_39_word_new_br2 | flock<br>subway |  
+| bip_39_word_new_br3 | flock<br>subway<br>grief |  
+| bip_39_word_new_br4 | flock<br>subway<br>grief<br>plastic |  
+| bip_39_word_new_br5 | flock<br>subway<br>grief<br>plastic<br>jazz |  
+| bip_39_word_new_br6 | flock<br>subway<br>grief<br>plastic<br>jazz<br>alter |  
+| bip_39_word_new_br7 | flock<br>subway<br>grief<br>plastic<br>jazz<br>alter<br>antenna |  
+| bip_39_word_new_br8 | flock<br>subway<br>grief<br>plastic<br>jazz<br>alter<br>antenna<br>ghost |  
+| bip_39_word_new_br9 | flock<br>subway<br>grief<br>plastic<br>jazz<br>alter<br>antenna<br>ghost<br>damp |  
+| bip_39_word_new_line1 | flock |  
+| bip_39_word_new_line10 | flock
+subway
+grief
+plastic
+jazz
+alter
+antenna
+ghost
+damp
+space |  
+| bip_39_word_new_line11 | flock
+subway
+grief
+plastic
+jazz
+alter
+antenna
+ghost
+damp
+space
+upgrade |  
+| bip_39_word_new_line12 | flock
+subway
+grief
+plastic
+jazz
+alter
+antenna
+ghost
+damp
+space
+upgrade
+appear |  
+| bip_39_word_new_line2 | flock
+subway |  
+| bip_39_word_new_line3 | flock
+subway
+grief |  
+| bip_39_word_new_line4 | flock
+subway
+grief
+plastic |  
+| bip_39_word_new_line5 | flock
+subway
+grief
+plastic
+jazz |  
+| bip_39_word_new_line6 | flock
+subway
+grief
+plastic
+jazz
+alter |  
+| bip_39_word_new_line7 | flock
+subway
+grief
+plastic
+jazz
+alter
+antenna |  
+| bip_39_word_new_line8 | flock
+subway
+grief
+plastic
+jazz
+alter
+antenna
+ghost |  
+| bip_39_word_new_line9 | flock
+subway
+grief
+plastic
+jazz
+alter
+antenna
+ghost
+damp |  
+| bip_39_word_space_0 | ['flock', 'subway', 'grief', 'plastic', 'jazz', 'alter', 'antenna', 'ghost', 'damp', 'space', 'upgrade', 'appear'] |  
+| bip_39_word_space_1 | flock |  
+| bip_39_word_space_10 | flock subway grief plastic jazz alter antenna ghost damp space |  
+| bip_39_word_space_11 | flock subway grief plastic jazz alter antenna ghost damp space upgrade |  
+| bip_39_word_space_12 | flock subway grief plastic jazz alter antenna ghost damp space upgrade appear |  
+| bip_39_word_space_2 | flock subway |  
+| bip_39_word_space_3 | flock subway grief |  
+| bip_39_word_space_4 | flock subway grief plastic |  
+| bip_39_word_space_5 | flock subway grief plastic jazz |  
+| bip_39_word_space_6 | flock subway grief plastic jazz alter |  
+| bip_39_word_space_7 | flock subway grief plastic jazz alter antenna |  
+| bip_39_word_space_8 | flock subway grief plastic jazz alter antenna ghost |  
+| bip_39_word_space_9 | flock subway grief plastic jazz alter antenna ghost damp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

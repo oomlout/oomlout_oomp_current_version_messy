@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unfold adjust
+  * bip 39 word 3: unfold adjust apology
+  * bip 39 word: unfold adjust apology summer fiction teach blind victory arrest avocado boil arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unfold |  
+| bip_39_word_new_br10 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach<br>blind<br>victory<br>arrest<br>avocado |  
+| bip_39_word_new_br11 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach<br>blind<br>victory<br>arrest<br>avocado<br>boil |  
+| bip_39_word_new_br12 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach<br>blind<br>victory<br>arrest<br>avocado<br>boil<br>arrive |  
+| bip_39_word_new_br2 | unfold<br>adjust |  
+| bip_39_word_new_br3 | unfold<br>adjust<br>apology |  
+| bip_39_word_new_br4 | unfold<br>adjust<br>apology<br>summer |  
+| bip_39_word_new_br5 | unfold<br>adjust<br>apology<br>summer<br>fiction |  
+| bip_39_word_new_br6 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach |  
+| bip_39_word_new_br7 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach<br>blind |  
+| bip_39_word_new_br8 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach<br>blind<br>victory |  
+| bip_39_word_new_br9 | unfold<br>adjust<br>apology<br>summer<br>fiction<br>teach<br>blind<br>victory<br>arrest |  
+| bip_39_word_new_line1 | unfold |  
+| bip_39_word_new_line10 | unfold
+adjust
+apology
+summer
+fiction
+teach
+blind
+victory
+arrest
+avocado |  
+| bip_39_word_new_line11 | unfold
+adjust
+apology
+summer
+fiction
+teach
+blind
+victory
+arrest
+avocado
+boil |  
+| bip_39_word_new_line12 | unfold
+adjust
+apology
+summer
+fiction
+teach
+blind
+victory
+arrest
+avocado
+boil
+arrive |  
+| bip_39_word_new_line2 | unfold
+adjust |  
+| bip_39_word_new_line3 | unfold
+adjust
+apology |  
+| bip_39_word_new_line4 | unfold
+adjust
+apology
+summer |  
+| bip_39_word_new_line5 | unfold
+adjust
+apology
+summer
+fiction |  
+| bip_39_word_new_line6 | unfold
+adjust
+apology
+summer
+fiction
+teach |  
+| bip_39_word_new_line7 | unfold
+adjust
+apology
+summer
+fiction
+teach
+blind |  
+| bip_39_word_new_line8 | unfold
+adjust
+apology
+summer
+fiction
+teach
+blind
+victory |  
+| bip_39_word_new_line9 | unfold
+adjust
+apology
+summer
+fiction
+teach
+blind
+victory
+arrest |  
+| bip_39_word_space_0 | ['unfold', 'adjust', 'apology', 'summer', 'fiction', 'teach', 'blind', 'victory', 'arrest', 'avocado', 'boil', 'arrive'] |  
+| bip_39_word_space_1 | unfold |  
+| bip_39_word_space_10 | unfold adjust apology summer fiction teach blind victory arrest avocado |  
+| bip_39_word_space_11 | unfold adjust apology summer fiction teach blind victory arrest avocado boil |  
+| bip_39_word_space_12 | unfold adjust apology summer fiction teach blind victory arrest avocado boil arrive |  
+| bip_39_word_space_2 | unfold adjust |  
+| bip_39_word_space_3 | unfold adjust apology |  
+| bip_39_word_space_4 | unfold adjust apology summer |  
+| bip_39_word_space_5 | unfold adjust apology summer fiction |  
+| bip_39_word_space_6 | unfold adjust apology summer fiction teach |  
+| bip_39_word_space_7 | unfold adjust apology summer fiction teach blind |  
+| bip_39_word_space_8 | unfold adjust apology summer fiction teach blind victory |  
+| bip_39_word_space_9 | unfold adjust apology summer fiction teach blind victory arrest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eye lens
+  * bip 39 word 3: eye lens blood
+  * bip 39 word: eye lens blood cream lake twenty shop anchor vivid subway kingdom acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eye |  
+| bip_39_word_new_br10 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty<br>shop<br>anchor<br>vivid<br>subway |  
+| bip_39_word_new_br11 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty<br>shop<br>anchor<br>vivid<br>subway<br>kingdom |  
+| bip_39_word_new_br12 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty<br>shop<br>anchor<br>vivid<br>subway<br>kingdom<br>acquire |  
+| bip_39_word_new_br2 | eye<br>lens |  
+| bip_39_word_new_br3 | eye<br>lens<br>blood |  
+| bip_39_word_new_br4 | eye<br>lens<br>blood<br>cream |  
+| bip_39_word_new_br5 | eye<br>lens<br>blood<br>cream<br>lake |  
+| bip_39_word_new_br6 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty |  
+| bip_39_word_new_br7 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty<br>shop |  
+| bip_39_word_new_br8 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty<br>shop<br>anchor |  
+| bip_39_word_new_br9 | eye<br>lens<br>blood<br>cream<br>lake<br>twenty<br>shop<br>anchor<br>vivid |  
+| bip_39_word_new_line1 | eye |  
+| bip_39_word_new_line10 | eye
+lens
+blood
+cream
+lake
+twenty
+shop
+anchor
+vivid
+subway |  
+| bip_39_word_new_line11 | eye
+lens
+blood
+cream
+lake
+twenty
+shop
+anchor
+vivid
+subway
+kingdom |  
+| bip_39_word_new_line12 | eye
+lens
+blood
+cream
+lake
+twenty
+shop
+anchor
+vivid
+subway
+kingdom
+acquire |  
+| bip_39_word_new_line2 | eye
+lens |  
+| bip_39_word_new_line3 | eye
+lens
+blood |  
+| bip_39_word_new_line4 | eye
+lens
+blood
+cream |  
+| bip_39_word_new_line5 | eye
+lens
+blood
+cream
+lake |  
+| bip_39_word_new_line6 | eye
+lens
+blood
+cream
+lake
+twenty |  
+| bip_39_word_new_line7 | eye
+lens
+blood
+cream
+lake
+twenty
+shop |  
+| bip_39_word_new_line8 | eye
+lens
+blood
+cream
+lake
+twenty
+shop
+anchor |  
+| bip_39_word_new_line9 | eye
+lens
+blood
+cream
+lake
+twenty
+shop
+anchor
+vivid |  
+| bip_39_word_space_0 | ['eye', 'lens', 'blood', 'cream', 'lake', 'twenty', 'shop', 'anchor', 'vivid', 'subway', 'kingdom', 'acquire'] |  
+| bip_39_word_space_1 | eye |  
+| bip_39_word_space_10 | eye lens blood cream lake twenty shop anchor vivid subway |  
+| bip_39_word_space_11 | eye lens blood cream lake twenty shop anchor vivid subway kingdom |  
+| bip_39_word_space_12 | eye lens blood cream lake twenty shop anchor vivid subway kingdom acquire |  
+| bip_39_word_space_2 | eye lens |  
+| bip_39_word_space_3 | eye lens blood |  
+| bip_39_word_space_4 | eye lens blood cream |  
+| bip_39_word_space_5 | eye lens blood cream lake |  
+| bip_39_word_space_6 | eye lens blood cream lake twenty |  
+| bip_39_word_space_7 | eye lens blood cream lake twenty shop |  
+| bip_39_word_space_8 | eye lens blood cream lake twenty shop anchor |  
+| bip_39_word_space_9 | eye lens blood cream lake twenty shop anchor vivid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

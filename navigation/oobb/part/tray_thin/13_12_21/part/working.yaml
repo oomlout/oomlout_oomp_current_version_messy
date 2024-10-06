@@ -1,3 +1,186 @@
+bip_39_word_new_br1: once
+bip_39_word_new_br10: once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust
+bip_39_word_new_br11: once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust<br>legal
+bip_39_word_new_br12: once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare<br>exhaust<br>legal<br>affair
+bip_39_word_new_br2: once<br>exhibit
+bip_39_word_new_br3: once<br>exhibit<br>color
+bip_39_word_new_br4: once<br>exhibit<br>color<br>trend
+bip_39_word_new_br5: once<br>exhibit<br>color<br>trend<br>actor
+bip_39_word_new_br6: once<br>exhibit<br>color<br>trend<br>actor<br>crash
+bip_39_word_new_br7: once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke
+bip_39_word_new_br8: once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug
+bip_39_word_new_br9: once<br>exhibit<br>color<br>trend<br>actor<br>crash<br>evoke<br>shrug<br>prepare
+bip_39_word_new_line1: once
+bip_39_word_new_line10: 'once
+
+  exhibit
+
+  color
+
+  trend
+
+  actor
+
+  crash
+
+  evoke
+
+  shrug
+
+  prepare
+
+  exhaust'
+bip_39_word_new_line11: 'once
+
+  exhibit
+
+  color
+
+  trend
+
+  actor
+
+  crash
+
+  evoke
+
+  shrug
+
+  prepare
+
+  exhaust
+
+  legal'
+bip_39_word_new_line12: 'once
+
+  exhibit
+
+  color
+
+  trend
+
+  actor
+
+  crash
+
+  evoke
+
+  shrug
+
+  prepare
+
+  exhaust
+
+  legal
+
+  affair'
+bip_39_word_new_line2: 'once
+
+  exhibit'
+bip_39_word_new_line3: 'once
+
+  exhibit
+
+  color'
+bip_39_word_new_line4: 'once
+
+  exhibit
+
+  color
+
+  trend'
+bip_39_word_new_line5: 'once
+
+  exhibit
+
+  color
+
+  trend
+
+  actor'
+bip_39_word_new_line6: 'once
+
+  exhibit
+
+  color
+
+  trend
+
+  actor
+
+  crash'
+bip_39_word_new_line7: 'once
+
+  exhibit
+
+  color
+
+  trend
+
+  actor
+
+  crash
+
+  evoke'
+bip_39_word_new_line8: 'once
+
+  exhibit
+
+  color
+
+  trend
+
+  actor
+
+  crash
+
+  evoke
+
+  shrug'
+bip_39_word_new_line9: 'once
+
+  exhibit
+
+  color
+
+  trend
+
+  actor
+
+  crash
+
+  evoke
+
+  shrug
+
+  prepare'
+bip_39_word_space_0:
+- once
+- exhibit
+- color
+- trend
+- actor
+- crash
+- evoke
+- shrug
+- prepare
+- exhaust
+- legal
+- affair
+bip_39_word_space_1: once
+bip_39_word_space_10: once exhibit color trend actor crash evoke shrug prepare exhaust
+bip_39_word_space_11: once exhibit color trend actor crash evoke shrug prepare exhaust
+  legal
+bip_39_word_space_12: once exhibit color trend actor crash evoke shrug prepare exhaust
+  legal affair
+bip_39_word_space_2: once exhibit
+bip_39_word_space_3: once exhibit color
+bip_39_word_space_4: once exhibit color trend
+bip_39_word_space_5: once exhibit color trend actor
+bip_39_word_space_6: once exhibit color trend actor crash
+bip_39_word_space_7: once exhibit color trend actor crash evoke
+bip_39_word_space_8: once exhibit color trend actor crash evoke shrug
+bip_39_word_space_9: once exhibit color trend actor crash evoke shrug prepare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

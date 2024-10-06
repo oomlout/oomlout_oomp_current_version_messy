@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fitness vicious
+  * bip 39 word 3: fitness vicious lumber
+  * bip 39 word: fitness vicious lumber vacuum produce garbage young fire donate rally mind abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fitness |  
+| bip_39_word_new_br10 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage<br>young<br>fire<br>donate<br>rally |  
+| bip_39_word_new_br11 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage<br>young<br>fire<br>donate<br>rally<br>mind |  
+| bip_39_word_new_br12 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage<br>young<br>fire<br>donate<br>rally<br>mind<br>abstract |  
+| bip_39_word_new_br2 | fitness<br>vicious |  
+| bip_39_word_new_br3 | fitness<br>vicious<br>lumber |  
+| bip_39_word_new_br4 | fitness<br>vicious<br>lumber<br>vacuum |  
+| bip_39_word_new_br5 | fitness<br>vicious<br>lumber<br>vacuum<br>produce |  
+| bip_39_word_new_br6 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage |  
+| bip_39_word_new_br7 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage<br>young |  
+| bip_39_word_new_br8 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage<br>young<br>fire |  
+| bip_39_word_new_br9 | fitness<br>vicious<br>lumber<br>vacuum<br>produce<br>garbage<br>young<br>fire<br>donate |  
+| bip_39_word_new_line1 | fitness |  
+| bip_39_word_new_line10 | fitness
+vicious
+lumber
+vacuum
+produce
+garbage
+young
+fire
+donate
+rally |  
+| bip_39_word_new_line11 | fitness
+vicious
+lumber
+vacuum
+produce
+garbage
+young
+fire
+donate
+rally
+mind |  
+| bip_39_word_new_line12 | fitness
+vicious
+lumber
+vacuum
+produce
+garbage
+young
+fire
+donate
+rally
+mind
+abstract |  
+| bip_39_word_new_line2 | fitness
+vicious |  
+| bip_39_word_new_line3 | fitness
+vicious
+lumber |  
+| bip_39_word_new_line4 | fitness
+vicious
+lumber
+vacuum |  
+| bip_39_word_new_line5 | fitness
+vicious
+lumber
+vacuum
+produce |  
+| bip_39_word_new_line6 | fitness
+vicious
+lumber
+vacuum
+produce
+garbage |  
+| bip_39_word_new_line7 | fitness
+vicious
+lumber
+vacuum
+produce
+garbage
+young |  
+| bip_39_word_new_line8 | fitness
+vicious
+lumber
+vacuum
+produce
+garbage
+young
+fire |  
+| bip_39_word_new_line9 | fitness
+vicious
+lumber
+vacuum
+produce
+garbage
+young
+fire
+donate |  
+| bip_39_word_space_0 | ['fitness', 'vicious', 'lumber', 'vacuum', 'produce', 'garbage', 'young', 'fire', 'donate', 'rally', 'mind', 'abstract'] |  
+| bip_39_word_space_1 | fitness |  
+| bip_39_word_space_10 | fitness vicious lumber vacuum produce garbage young fire donate rally |  
+| bip_39_word_space_11 | fitness vicious lumber vacuum produce garbage young fire donate rally mind |  
+| bip_39_word_space_12 | fitness vicious lumber vacuum produce garbage young fire donate rally mind abstract |  
+| bip_39_word_space_2 | fitness vicious |  
+| bip_39_word_space_3 | fitness vicious lumber |  
+| bip_39_word_space_4 | fitness vicious lumber vacuum |  
+| bip_39_word_space_5 | fitness vicious lumber vacuum produce |  
+| bip_39_word_space_6 | fitness vicious lumber vacuum produce garbage |  
+| bip_39_word_space_7 | fitness vicious lumber vacuum produce garbage young |  
+| bip_39_word_space_8 | fitness vicious lumber vacuum produce garbage young fire |  
+| bip_39_word_space_9 | fitness vicious lumber vacuum produce garbage young fire donate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

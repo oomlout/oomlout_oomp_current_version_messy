@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: washer
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quote pig
+  * bip 39 word 3: quote pig infant
+  * bip 39 word: quote pig infant roof museum champion dice helmet path increase improve apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quote |  
+| bip_39_word_new_br10 | quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path<br>increase |  
+| bip_39_word_new_br11 | quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path<br>increase<br>improve |  
+| bip_39_word_new_br12 | quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path<br>increase<br>improve<br>apart |  
+| bip_39_word_new_br2 | quote<br>pig |  
+| bip_39_word_new_br3 | quote<br>pig<br>infant |  
+| bip_39_word_new_br4 | quote<br>pig<br>infant<br>roof |  
+| bip_39_word_new_br5 | quote<br>pig<br>infant<br>roof<br>museum |  
+| bip_39_word_new_br6 | quote<br>pig<br>infant<br>roof<br>museum<br>champion |  
+| bip_39_word_new_br7 | quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice |  
+| bip_39_word_new_br8 | quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet |  
+| bip_39_word_new_br9 | quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path |  
+| bip_39_word_new_line1 | quote |  
+| bip_39_word_new_line10 | quote
+pig
+infant
+roof
+museum
+champion
+dice
+helmet
+path
+increase |  
+| bip_39_word_new_line11 | quote
+pig
+infant
+roof
+museum
+champion
+dice
+helmet
+path
+increase
+improve |  
+| bip_39_word_new_line12 | quote
+pig
+infant
+roof
+museum
+champion
+dice
+helmet
+path
+increase
+improve
+apart |  
+| bip_39_word_new_line2 | quote
+pig |  
+| bip_39_word_new_line3 | quote
+pig
+infant |  
+| bip_39_word_new_line4 | quote
+pig
+infant
+roof |  
+| bip_39_word_new_line5 | quote
+pig
+infant
+roof
+museum |  
+| bip_39_word_new_line6 | quote
+pig
+infant
+roof
+museum
+champion |  
+| bip_39_word_new_line7 | quote
+pig
+infant
+roof
+museum
+champion
+dice |  
+| bip_39_word_new_line8 | quote
+pig
+infant
+roof
+museum
+champion
+dice
+helmet |  
+| bip_39_word_new_line9 | quote
+pig
+infant
+roof
+museum
+champion
+dice
+helmet
+path |  
+| bip_39_word_space_0 | ['quote', 'pig', 'infant', 'roof', 'museum', 'champion', 'dice', 'helmet', 'path', 'increase', 'improve', 'apart'] |  
+| bip_39_word_space_1 | quote |  
+| bip_39_word_space_10 | quote pig infant roof museum champion dice helmet path increase |  
+| bip_39_word_space_11 | quote pig infant roof museum champion dice helmet path increase improve |  
+| bip_39_word_space_12 | quote pig infant roof museum champion dice helmet path increase improve apart |  
+| bip_39_word_space_2 | quote pig |  
+| bip_39_word_space_3 | quote pig infant |  
+| bip_39_word_space_4 | quote pig infant roof |  
+| bip_39_word_space_5 | quote pig infant roof museum |  
+| bip_39_word_space_6 | quote pig infant roof museum champion |  
+| bip_39_word_space_7 | quote pig infant roof museum champion dice |  
+| bip_39_word_space_8 | quote pig infant roof museum champion dice helmet |  
+| bip_39_word_space_9 | quote pig infant roof museum champion dice helmet path |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

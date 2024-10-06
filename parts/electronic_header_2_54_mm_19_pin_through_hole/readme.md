@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gift rack
+  * bip 39 word 3: gift rack duty
+  * bip 39 word: gift rack duty state siren soldier antenna disorder glimpse future tennis account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gift |  
+| bip_39_word_new_br10 | gift<br>rack<br>duty<br>state<br>siren<br>soldier<br>antenna<br>disorder<br>glimpse<br>future |  
+| bip_39_word_new_br11 | gift<br>rack<br>duty<br>state<br>siren<br>soldier<br>antenna<br>disorder<br>glimpse<br>future<br>tennis |  
+| bip_39_word_new_br12 | gift<br>rack<br>duty<br>state<br>siren<br>soldier<br>antenna<br>disorder<br>glimpse<br>future<br>tennis<br>account |  
+| bip_39_word_new_br2 | gift<br>rack |  
+| bip_39_word_new_br3 | gift<br>rack<br>duty |  
+| bip_39_word_new_br4 | gift<br>rack<br>duty<br>state |  
+| bip_39_word_new_br5 | gift<br>rack<br>duty<br>state<br>siren |  
+| bip_39_word_new_br6 | gift<br>rack<br>duty<br>state<br>siren<br>soldier |  
+| bip_39_word_new_br7 | gift<br>rack<br>duty<br>state<br>siren<br>soldier<br>antenna |  
+| bip_39_word_new_br8 | gift<br>rack<br>duty<br>state<br>siren<br>soldier<br>antenna<br>disorder |  
+| bip_39_word_new_br9 | gift<br>rack<br>duty<br>state<br>siren<br>soldier<br>antenna<br>disorder<br>glimpse |  
+| bip_39_word_new_line1 | gift |  
+| bip_39_word_new_line10 | gift
+rack
+duty
+state
+siren
+soldier
+antenna
+disorder
+glimpse
+future |  
+| bip_39_word_new_line11 | gift
+rack
+duty
+state
+siren
+soldier
+antenna
+disorder
+glimpse
+future
+tennis |  
+| bip_39_word_new_line12 | gift
+rack
+duty
+state
+siren
+soldier
+antenna
+disorder
+glimpse
+future
+tennis
+account |  
+| bip_39_word_new_line2 | gift
+rack |  
+| bip_39_word_new_line3 | gift
+rack
+duty |  
+| bip_39_word_new_line4 | gift
+rack
+duty
+state |  
+| bip_39_word_new_line5 | gift
+rack
+duty
+state
+siren |  
+| bip_39_word_new_line6 | gift
+rack
+duty
+state
+siren
+soldier |  
+| bip_39_word_new_line7 | gift
+rack
+duty
+state
+siren
+soldier
+antenna |  
+| bip_39_word_new_line8 | gift
+rack
+duty
+state
+siren
+soldier
+antenna
+disorder |  
+| bip_39_word_new_line9 | gift
+rack
+duty
+state
+siren
+soldier
+antenna
+disorder
+glimpse |  
+| bip_39_word_space_0 | ['gift', 'rack', 'duty', 'state', 'siren', 'soldier', 'antenna', 'disorder', 'glimpse', 'future', 'tennis', 'account'] |  
+| bip_39_word_space_1 | gift |  
+| bip_39_word_space_10 | gift rack duty state siren soldier antenna disorder glimpse future |  
+| bip_39_word_space_11 | gift rack duty state siren soldier antenna disorder glimpse future tennis |  
+| bip_39_word_space_12 | gift rack duty state siren soldier antenna disorder glimpse future tennis account |  
+| bip_39_word_space_2 | gift rack |  
+| bip_39_word_space_3 | gift rack duty |  
+| bip_39_word_space_4 | gift rack duty state |  
+| bip_39_word_space_5 | gift rack duty state siren |  
+| bip_39_word_space_6 | gift rack duty state siren soldier |  
+| bip_39_word_space_7 | gift rack duty state siren soldier antenna |  
+| bip_39_word_space_8 | gift rack duty state siren soldier antenna disorder |  
+| bip_39_word_space_9 | gift rack duty state siren soldier antenna disorder glimpse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

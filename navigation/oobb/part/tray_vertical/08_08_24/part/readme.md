@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bid find
+  * bip 39 word 3: bid find letter
+  * bip 39 word: bid find letter crash master tourist midnight left brief legal manage add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bid |  
+| bip_39_word_new_br10 | bid<br>find<br>letter<br>crash<br>master<br>tourist<br>midnight<br>left<br>brief<br>legal |  
+| bip_39_word_new_br11 | bid<br>find<br>letter<br>crash<br>master<br>tourist<br>midnight<br>left<br>brief<br>legal<br>manage |  
+| bip_39_word_new_br12 | bid<br>find<br>letter<br>crash<br>master<br>tourist<br>midnight<br>left<br>brief<br>legal<br>manage<br>add |  
+| bip_39_word_new_br2 | bid<br>find |  
+| bip_39_word_new_br3 | bid<br>find<br>letter |  
+| bip_39_word_new_br4 | bid<br>find<br>letter<br>crash |  
+| bip_39_word_new_br5 | bid<br>find<br>letter<br>crash<br>master |  
+| bip_39_word_new_br6 | bid<br>find<br>letter<br>crash<br>master<br>tourist |  
+| bip_39_word_new_br7 | bid<br>find<br>letter<br>crash<br>master<br>tourist<br>midnight |  
+| bip_39_word_new_br8 | bid<br>find<br>letter<br>crash<br>master<br>tourist<br>midnight<br>left |  
+| bip_39_word_new_br9 | bid<br>find<br>letter<br>crash<br>master<br>tourist<br>midnight<br>left<br>brief |  
+| bip_39_word_new_line1 | bid |  
+| bip_39_word_new_line10 | bid
+find
+letter
+crash
+master
+tourist
+midnight
+left
+brief
+legal |  
+| bip_39_word_new_line11 | bid
+find
+letter
+crash
+master
+tourist
+midnight
+left
+brief
+legal
+manage |  
+| bip_39_word_new_line12 | bid
+find
+letter
+crash
+master
+tourist
+midnight
+left
+brief
+legal
+manage
+add |  
+| bip_39_word_new_line2 | bid
+find |  
+| bip_39_word_new_line3 | bid
+find
+letter |  
+| bip_39_word_new_line4 | bid
+find
+letter
+crash |  
+| bip_39_word_new_line5 | bid
+find
+letter
+crash
+master |  
+| bip_39_word_new_line6 | bid
+find
+letter
+crash
+master
+tourist |  
+| bip_39_word_new_line7 | bid
+find
+letter
+crash
+master
+tourist
+midnight |  
+| bip_39_word_new_line8 | bid
+find
+letter
+crash
+master
+tourist
+midnight
+left |  
+| bip_39_word_new_line9 | bid
+find
+letter
+crash
+master
+tourist
+midnight
+left
+brief |  
+| bip_39_word_space_0 | ['bid', 'find', 'letter', 'crash', 'master', 'tourist', 'midnight', 'left', 'brief', 'legal', 'manage', 'add'] |  
+| bip_39_word_space_1 | bid |  
+| bip_39_word_space_10 | bid find letter crash master tourist midnight left brief legal |  
+| bip_39_word_space_11 | bid find letter crash master tourist midnight left brief legal manage |  
+| bip_39_word_space_12 | bid find letter crash master tourist midnight left brief legal manage add |  
+| bip_39_word_space_2 | bid find |  
+| bip_39_word_space_3 | bid find letter |  
+| bip_39_word_space_4 | bid find letter crash |  
+| bip_39_word_space_5 | bid find letter crash master |  
+| bip_39_word_space_6 | bid find letter crash master tourist |  
+| bip_39_word_space_7 | bid find letter crash master tourist midnight |  
+| bip_39_word_space_8 | bid find letter crash master tourist midnight left |  
+| bip_39_word_space_9 | bid find letter crash master tourist midnight left brief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

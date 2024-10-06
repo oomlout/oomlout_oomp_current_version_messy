@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: green easy
+  * bip 39 word 3: green easy solution
+  * bip 39 word: green easy solution confirm any regret buffalo hole evoke peanut when arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | green |  
+| bip_39_word_new_br10 | green<br>easy<br>solution<br>confirm<br>any<br>regret<br>buffalo<br>hole<br>evoke<br>peanut |  
+| bip_39_word_new_br11 | green<br>easy<br>solution<br>confirm<br>any<br>regret<br>buffalo<br>hole<br>evoke<br>peanut<br>when |  
+| bip_39_word_new_br12 | green<br>easy<br>solution<br>confirm<br>any<br>regret<br>buffalo<br>hole<br>evoke<br>peanut<br>when<br>arch |  
+| bip_39_word_new_br2 | green<br>easy |  
+| bip_39_word_new_br3 | green<br>easy<br>solution |  
+| bip_39_word_new_br4 | green<br>easy<br>solution<br>confirm |  
+| bip_39_word_new_br5 | green<br>easy<br>solution<br>confirm<br>any |  
+| bip_39_word_new_br6 | green<br>easy<br>solution<br>confirm<br>any<br>regret |  
+| bip_39_word_new_br7 | green<br>easy<br>solution<br>confirm<br>any<br>regret<br>buffalo |  
+| bip_39_word_new_br8 | green<br>easy<br>solution<br>confirm<br>any<br>regret<br>buffalo<br>hole |  
+| bip_39_word_new_br9 | green<br>easy<br>solution<br>confirm<br>any<br>regret<br>buffalo<br>hole<br>evoke |  
+| bip_39_word_new_line1 | green |  
+| bip_39_word_new_line10 | green
+easy
+solution
+confirm
+any
+regret
+buffalo
+hole
+evoke
+peanut |  
+| bip_39_word_new_line11 | green
+easy
+solution
+confirm
+any
+regret
+buffalo
+hole
+evoke
+peanut
+when |  
+| bip_39_word_new_line12 | green
+easy
+solution
+confirm
+any
+regret
+buffalo
+hole
+evoke
+peanut
+when
+arch |  
+| bip_39_word_new_line2 | green
+easy |  
+| bip_39_word_new_line3 | green
+easy
+solution |  
+| bip_39_word_new_line4 | green
+easy
+solution
+confirm |  
+| bip_39_word_new_line5 | green
+easy
+solution
+confirm
+any |  
+| bip_39_word_new_line6 | green
+easy
+solution
+confirm
+any
+regret |  
+| bip_39_word_new_line7 | green
+easy
+solution
+confirm
+any
+regret
+buffalo |  
+| bip_39_word_new_line8 | green
+easy
+solution
+confirm
+any
+regret
+buffalo
+hole |  
+| bip_39_word_new_line9 | green
+easy
+solution
+confirm
+any
+regret
+buffalo
+hole
+evoke |  
+| bip_39_word_space_0 | ['green', 'easy', 'solution', 'confirm', 'any', 'regret', 'buffalo', 'hole', 'evoke', 'peanut', 'when', 'arch'] |  
+| bip_39_word_space_1 | green |  
+| bip_39_word_space_10 | green easy solution confirm any regret buffalo hole evoke peanut |  
+| bip_39_word_space_11 | green easy solution confirm any regret buffalo hole evoke peanut when |  
+| bip_39_word_space_12 | green easy solution confirm any regret buffalo hole evoke peanut when arch |  
+| bip_39_word_space_2 | green easy |  
+| bip_39_word_space_3 | green easy solution |  
+| bip_39_word_space_4 | green easy solution confirm |  
+| bip_39_word_space_5 | green easy solution confirm any |  
+| bip_39_word_space_6 | green easy solution confirm any regret |  
+| bip_39_word_space_7 | green easy solution confirm any regret buffalo |  
+| bip_39_word_space_8 | green easy solution confirm any regret buffalo hole |  
+| bip_39_word_space_9 | green easy solution confirm any regret buffalo hole evoke |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swarm biology
+  * bip 39 word 3: swarm biology post
+  * bip 39 word: swarm biology post clog blue member discover disease sleep color develop affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swarm |  
+| bip_39_word_new_br10 | swarm<br>biology<br>post<br>clog<br>blue<br>member<br>discover<br>disease<br>sleep<br>color |  
+| bip_39_word_new_br11 | swarm<br>biology<br>post<br>clog<br>blue<br>member<br>discover<br>disease<br>sleep<br>color<br>develop |  
+| bip_39_word_new_br12 | swarm<br>biology<br>post<br>clog<br>blue<br>member<br>discover<br>disease<br>sleep<br>color<br>develop<br>affair |  
+| bip_39_word_new_br2 | swarm<br>biology |  
+| bip_39_word_new_br3 | swarm<br>biology<br>post |  
+| bip_39_word_new_br4 | swarm<br>biology<br>post<br>clog |  
+| bip_39_word_new_br5 | swarm<br>biology<br>post<br>clog<br>blue |  
+| bip_39_word_new_br6 | swarm<br>biology<br>post<br>clog<br>blue<br>member |  
+| bip_39_word_new_br7 | swarm<br>biology<br>post<br>clog<br>blue<br>member<br>discover |  
+| bip_39_word_new_br8 | swarm<br>biology<br>post<br>clog<br>blue<br>member<br>discover<br>disease |  
+| bip_39_word_new_br9 | swarm<br>biology<br>post<br>clog<br>blue<br>member<br>discover<br>disease<br>sleep |  
+| bip_39_word_new_line1 | swarm |  
+| bip_39_word_new_line10 | swarm
+biology
+post
+clog
+blue
+member
+discover
+disease
+sleep
+color |  
+| bip_39_word_new_line11 | swarm
+biology
+post
+clog
+blue
+member
+discover
+disease
+sleep
+color
+develop |  
+| bip_39_word_new_line12 | swarm
+biology
+post
+clog
+blue
+member
+discover
+disease
+sleep
+color
+develop
+affair |  
+| bip_39_word_new_line2 | swarm
+biology |  
+| bip_39_word_new_line3 | swarm
+biology
+post |  
+| bip_39_word_new_line4 | swarm
+biology
+post
+clog |  
+| bip_39_word_new_line5 | swarm
+biology
+post
+clog
+blue |  
+| bip_39_word_new_line6 | swarm
+biology
+post
+clog
+blue
+member |  
+| bip_39_word_new_line7 | swarm
+biology
+post
+clog
+blue
+member
+discover |  
+| bip_39_word_new_line8 | swarm
+biology
+post
+clog
+blue
+member
+discover
+disease |  
+| bip_39_word_new_line9 | swarm
+biology
+post
+clog
+blue
+member
+discover
+disease
+sleep |  
+| bip_39_word_space_0 | ['swarm', 'biology', 'post', 'clog', 'blue', 'member', 'discover', 'disease', 'sleep', 'color', 'develop', 'affair'] |  
+| bip_39_word_space_1 | swarm |  
+| bip_39_word_space_10 | swarm biology post clog blue member discover disease sleep color |  
+| bip_39_word_space_11 | swarm biology post clog blue member discover disease sleep color develop |  
+| bip_39_word_space_12 | swarm biology post clog blue member discover disease sleep color develop affair |  
+| bip_39_word_space_2 | swarm biology |  
+| bip_39_word_space_3 | swarm biology post |  
+| bip_39_word_space_4 | swarm biology post clog |  
+| bip_39_word_space_5 | swarm biology post clog blue |  
+| bip_39_word_space_6 | swarm biology post clog blue member |  
+| bip_39_word_space_7 | swarm biology post clog blue member discover |  
+| bip_39_word_space_8 | swarm biology post clog blue member discover disease |  
+| bip_39_word_space_9 | swarm biology post clog blue member discover disease sleep |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

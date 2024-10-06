@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glass essence
+  * bip 39 word 3: glass essence slender
+  * bip 39 word: glass essence slender chalk virus river scorpion you west sail upon album
 
 ### other_codes
 * short_code: n8m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glass |  
+| bip_39_word_new_br10 | glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west<br>sail |  
+| bip_39_word_new_br11 | glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west<br>sail<br>upon |  
+| bip_39_word_new_br12 | glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west<br>sail<br>upon<br>album |  
+| bip_39_word_new_br2 | glass<br>essence |  
+| bip_39_word_new_br3 | glass<br>essence<br>slender |  
+| bip_39_word_new_br4 | glass<br>essence<br>slender<br>chalk |  
+| bip_39_word_new_br5 | glass<br>essence<br>slender<br>chalk<br>virus |  
+| bip_39_word_new_br6 | glass<br>essence<br>slender<br>chalk<br>virus<br>river |  
+| bip_39_word_new_br7 | glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion |  
+| bip_39_word_new_br8 | glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you |  
+| bip_39_word_new_br9 | glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west |  
+| bip_39_word_new_line1 | glass |  
+| bip_39_word_new_line10 | glass
+essence
+slender
+chalk
+virus
+river
+scorpion
+you
+west
+sail |  
+| bip_39_word_new_line11 | glass
+essence
+slender
+chalk
+virus
+river
+scorpion
+you
+west
+sail
+upon |  
+| bip_39_word_new_line12 | glass
+essence
+slender
+chalk
+virus
+river
+scorpion
+you
+west
+sail
+upon
+album |  
+| bip_39_word_new_line2 | glass
+essence |  
+| bip_39_word_new_line3 | glass
+essence
+slender |  
+| bip_39_word_new_line4 | glass
+essence
+slender
+chalk |  
+| bip_39_word_new_line5 | glass
+essence
+slender
+chalk
+virus |  
+| bip_39_word_new_line6 | glass
+essence
+slender
+chalk
+virus
+river |  
+| bip_39_word_new_line7 | glass
+essence
+slender
+chalk
+virus
+river
+scorpion |  
+| bip_39_word_new_line8 | glass
+essence
+slender
+chalk
+virus
+river
+scorpion
+you |  
+| bip_39_word_new_line9 | glass
+essence
+slender
+chalk
+virus
+river
+scorpion
+you
+west |  
+| bip_39_word_space_0 | ['glass', 'essence', 'slender', 'chalk', 'virus', 'river', 'scorpion', 'you', 'west', 'sail', 'upon', 'album'] |  
+| bip_39_word_space_1 | glass |  
+| bip_39_word_space_10 | glass essence slender chalk virus river scorpion you west sail |  
+| bip_39_word_space_11 | glass essence slender chalk virus river scorpion you west sail upon |  
+| bip_39_word_space_12 | glass essence slender chalk virus river scorpion you west sail upon album |  
+| bip_39_word_space_2 | glass essence |  
+| bip_39_word_space_3 | glass essence slender |  
+| bip_39_word_space_4 | glass essence slender chalk |  
+| bip_39_word_space_5 | glass essence slender chalk virus |  
+| bip_39_word_space_6 | glass essence slender chalk virus river |  
+| bip_39_word_space_7 | glass essence slender chalk virus river scorpion |  
+| bip_39_word_space_8 | glass essence slender chalk virus river scorpion you |  
+| bip_39_word_space_9 | glass essence slender chalk virus river scorpion you west |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

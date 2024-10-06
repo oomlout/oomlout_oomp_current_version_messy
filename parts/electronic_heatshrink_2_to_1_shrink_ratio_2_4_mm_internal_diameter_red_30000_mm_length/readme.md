@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: universe faith
+  * bip 39 word 3: universe faith spatial
+  * bip 39 word: universe faith spatial coconut call exchange throw ahead surge matter middle ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | universe |  
+| bip_39_word_new_br10 | universe<br>faith<br>spatial<br>coconut<br>call<br>exchange<br>throw<br>ahead<br>surge<br>matter |  
+| bip_39_word_new_br11 | universe<br>faith<br>spatial<br>coconut<br>call<br>exchange<br>throw<br>ahead<br>surge<br>matter<br>middle |  
+| bip_39_word_new_br12 | universe<br>faith<br>spatial<br>coconut<br>call<br>exchange<br>throw<br>ahead<br>surge<br>matter<br>middle<br>ancient |  
+| bip_39_word_new_br2 | universe<br>faith |  
+| bip_39_word_new_br3 | universe<br>faith<br>spatial |  
+| bip_39_word_new_br4 | universe<br>faith<br>spatial<br>coconut |  
+| bip_39_word_new_br5 | universe<br>faith<br>spatial<br>coconut<br>call |  
+| bip_39_word_new_br6 | universe<br>faith<br>spatial<br>coconut<br>call<br>exchange |  
+| bip_39_word_new_br7 | universe<br>faith<br>spatial<br>coconut<br>call<br>exchange<br>throw |  
+| bip_39_word_new_br8 | universe<br>faith<br>spatial<br>coconut<br>call<br>exchange<br>throw<br>ahead |  
+| bip_39_word_new_br9 | universe<br>faith<br>spatial<br>coconut<br>call<br>exchange<br>throw<br>ahead<br>surge |  
+| bip_39_word_new_line1 | universe |  
+| bip_39_word_new_line10 | universe
+faith
+spatial
+coconut
+call
+exchange
+throw
+ahead
+surge
+matter |  
+| bip_39_word_new_line11 | universe
+faith
+spatial
+coconut
+call
+exchange
+throw
+ahead
+surge
+matter
+middle |  
+| bip_39_word_new_line12 | universe
+faith
+spatial
+coconut
+call
+exchange
+throw
+ahead
+surge
+matter
+middle
+ancient |  
+| bip_39_word_new_line2 | universe
+faith |  
+| bip_39_word_new_line3 | universe
+faith
+spatial |  
+| bip_39_word_new_line4 | universe
+faith
+spatial
+coconut |  
+| bip_39_word_new_line5 | universe
+faith
+spatial
+coconut
+call |  
+| bip_39_word_new_line6 | universe
+faith
+spatial
+coconut
+call
+exchange |  
+| bip_39_word_new_line7 | universe
+faith
+spatial
+coconut
+call
+exchange
+throw |  
+| bip_39_word_new_line8 | universe
+faith
+spatial
+coconut
+call
+exchange
+throw
+ahead |  
+| bip_39_word_new_line9 | universe
+faith
+spatial
+coconut
+call
+exchange
+throw
+ahead
+surge |  
+| bip_39_word_space_0 | ['universe', 'faith', 'spatial', 'coconut', 'call', 'exchange', 'throw', 'ahead', 'surge', 'matter', 'middle', 'ancient'] |  
+| bip_39_word_space_1 | universe |  
+| bip_39_word_space_10 | universe faith spatial coconut call exchange throw ahead surge matter |  
+| bip_39_word_space_11 | universe faith spatial coconut call exchange throw ahead surge matter middle |  
+| bip_39_word_space_12 | universe faith spatial coconut call exchange throw ahead surge matter middle ancient |  
+| bip_39_word_space_2 | universe faith |  
+| bip_39_word_space_3 | universe faith spatial |  
+| bip_39_word_space_4 | universe faith spatial coconut |  
+| bip_39_word_space_5 | universe faith spatial coconut call |  
+| bip_39_word_space_6 | universe faith spatial coconut call exchange |  
+| bip_39_word_space_7 | universe faith spatial coconut call exchange throw |  
+| bip_39_word_space_8 | universe faith spatial coconut call exchange throw ahead |  
+| bip_39_word_space_9 | universe faith spatial coconut call exchange throw ahead surge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

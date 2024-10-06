@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: era hospital
+  * bip 39 word 3: era hospital chronic
+  * bip 39 word: era hospital chronic glad guess mad process tennis uncle price job angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | era |  
+| bip_39_word_new_br10 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad<br>process<br>tennis<br>uncle<br>price |  
+| bip_39_word_new_br11 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad<br>process<br>tennis<br>uncle<br>price<br>job |  
+| bip_39_word_new_br12 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad<br>process<br>tennis<br>uncle<br>price<br>job<br>angle |  
+| bip_39_word_new_br2 | era<br>hospital |  
+| bip_39_word_new_br3 | era<br>hospital<br>chronic |  
+| bip_39_word_new_br4 | era<br>hospital<br>chronic<br>glad |  
+| bip_39_word_new_br5 | era<br>hospital<br>chronic<br>glad<br>guess |  
+| bip_39_word_new_br6 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad |  
+| bip_39_word_new_br7 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad<br>process |  
+| bip_39_word_new_br8 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad<br>process<br>tennis |  
+| bip_39_word_new_br9 | era<br>hospital<br>chronic<br>glad<br>guess<br>mad<br>process<br>tennis<br>uncle |  
+| bip_39_word_new_line1 | era |  
+| bip_39_word_new_line10 | era
+hospital
+chronic
+glad
+guess
+mad
+process
+tennis
+uncle
+price |  
+| bip_39_word_new_line11 | era
+hospital
+chronic
+glad
+guess
+mad
+process
+tennis
+uncle
+price
+job |  
+| bip_39_word_new_line12 | era
+hospital
+chronic
+glad
+guess
+mad
+process
+tennis
+uncle
+price
+job
+angle |  
+| bip_39_word_new_line2 | era
+hospital |  
+| bip_39_word_new_line3 | era
+hospital
+chronic |  
+| bip_39_word_new_line4 | era
+hospital
+chronic
+glad |  
+| bip_39_word_new_line5 | era
+hospital
+chronic
+glad
+guess |  
+| bip_39_word_new_line6 | era
+hospital
+chronic
+glad
+guess
+mad |  
+| bip_39_word_new_line7 | era
+hospital
+chronic
+glad
+guess
+mad
+process |  
+| bip_39_word_new_line8 | era
+hospital
+chronic
+glad
+guess
+mad
+process
+tennis |  
+| bip_39_word_new_line9 | era
+hospital
+chronic
+glad
+guess
+mad
+process
+tennis
+uncle |  
+| bip_39_word_space_0 | ['era', 'hospital', 'chronic', 'glad', 'guess', 'mad', 'process', 'tennis', 'uncle', 'price', 'job', 'angle'] |  
+| bip_39_word_space_1 | era |  
+| bip_39_word_space_10 | era hospital chronic glad guess mad process tennis uncle price |  
+| bip_39_word_space_11 | era hospital chronic glad guess mad process tennis uncle price job |  
+| bip_39_word_space_12 | era hospital chronic glad guess mad process tennis uncle price job angle |  
+| bip_39_word_space_2 | era hospital |  
+| bip_39_word_space_3 | era hospital chronic |  
+| bip_39_word_space_4 | era hospital chronic glad |  
+| bip_39_word_space_5 | era hospital chronic glad guess |  
+| bip_39_word_space_6 | era hospital chronic glad guess mad |  
+| bip_39_word_space_7 | era hospital chronic glad guess mad process |  
+| bip_39_word_space_8 | era hospital chronic glad guess mad process tennis |  
+| bip_39_word_space_9 | era hospital chronic glad guess mad process tennis uncle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

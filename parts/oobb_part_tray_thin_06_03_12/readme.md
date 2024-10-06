@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: engage law
+  * bip 39 word 3: engage law march
+  * bip 39 word: engage law march embody surface play shift suffer marriage situate foster april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | engage |  
+| bip_39_word_new_br10 | engage<br>law<br>march<br>embody<br>surface<br>play<br>shift<br>suffer<br>marriage<br>situate |  
+| bip_39_word_new_br11 | engage<br>law<br>march<br>embody<br>surface<br>play<br>shift<br>suffer<br>marriage<br>situate<br>foster |  
+| bip_39_word_new_br12 | engage<br>law<br>march<br>embody<br>surface<br>play<br>shift<br>suffer<br>marriage<br>situate<br>foster<br>april |  
+| bip_39_word_new_br2 | engage<br>law |  
+| bip_39_word_new_br3 | engage<br>law<br>march |  
+| bip_39_word_new_br4 | engage<br>law<br>march<br>embody |  
+| bip_39_word_new_br5 | engage<br>law<br>march<br>embody<br>surface |  
+| bip_39_word_new_br6 | engage<br>law<br>march<br>embody<br>surface<br>play |  
+| bip_39_word_new_br7 | engage<br>law<br>march<br>embody<br>surface<br>play<br>shift |  
+| bip_39_word_new_br8 | engage<br>law<br>march<br>embody<br>surface<br>play<br>shift<br>suffer |  
+| bip_39_word_new_br9 | engage<br>law<br>march<br>embody<br>surface<br>play<br>shift<br>suffer<br>marriage |  
+| bip_39_word_new_line1 | engage |  
+| bip_39_word_new_line10 | engage
+law
+march
+embody
+surface
+play
+shift
+suffer
+marriage
+situate |  
+| bip_39_word_new_line11 | engage
+law
+march
+embody
+surface
+play
+shift
+suffer
+marriage
+situate
+foster |  
+| bip_39_word_new_line12 | engage
+law
+march
+embody
+surface
+play
+shift
+suffer
+marriage
+situate
+foster
+april |  
+| bip_39_word_new_line2 | engage
+law |  
+| bip_39_word_new_line3 | engage
+law
+march |  
+| bip_39_word_new_line4 | engage
+law
+march
+embody |  
+| bip_39_word_new_line5 | engage
+law
+march
+embody
+surface |  
+| bip_39_word_new_line6 | engage
+law
+march
+embody
+surface
+play |  
+| bip_39_word_new_line7 | engage
+law
+march
+embody
+surface
+play
+shift |  
+| bip_39_word_new_line8 | engage
+law
+march
+embody
+surface
+play
+shift
+suffer |  
+| bip_39_word_new_line9 | engage
+law
+march
+embody
+surface
+play
+shift
+suffer
+marriage |  
+| bip_39_word_space_0 | ['engage', 'law', 'march', 'embody', 'surface', 'play', 'shift', 'suffer', 'marriage', 'situate', 'foster', 'april'] |  
+| bip_39_word_space_1 | engage |  
+| bip_39_word_space_10 | engage law march embody surface play shift suffer marriage situate |  
+| bip_39_word_space_11 | engage law march embody surface play shift suffer marriage situate foster |  
+| bip_39_word_space_12 | engage law march embody surface play shift suffer marriage situate foster april |  
+| bip_39_word_space_2 | engage law |  
+| bip_39_word_space_3 | engage law march |  
+| bip_39_word_space_4 | engage law march embody |  
+| bip_39_word_space_5 | engage law march embody surface |  
+| bip_39_word_space_6 | engage law march embody surface play |  
+| bip_39_word_space_7 | engage law march embody surface play shift |  
+| bip_39_word_space_8 | engage law march embody surface play shift suffer |  
+| bip_39_word_space_9 | engage law march embody surface play shift suffer marriage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

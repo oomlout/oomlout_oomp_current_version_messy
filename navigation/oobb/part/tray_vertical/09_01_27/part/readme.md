@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bicycle lyrics
+  * bip 39 word 3: bicycle lyrics normal
+  * bip 39 word: bicycle lyrics normal embrace hunt dragon image history alley catch disorder actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bicycle |  
+| bip_39_word_new_br10 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon<br>image<br>history<br>alley<br>catch |  
+| bip_39_word_new_br11 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon<br>image<br>history<br>alley<br>catch<br>disorder |  
+| bip_39_word_new_br12 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon<br>image<br>history<br>alley<br>catch<br>disorder<br>actual |  
+| bip_39_word_new_br2 | bicycle<br>lyrics |  
+| bip_39_word_new_br3 | bicycle<br>lyrics<br>normal |  
+| bip_39_word_new_br4 | bicycle<br>lyrics<br>normal<br>embrace |  
+| bip_39_word_new_br5 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt |  
+| bip_39_word_new_br6 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon |  
+| bip_39_word_new_br7 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon<br>image |  
+| bip_39_word_new_br8 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon<br>image<br>history |  
+| bip_39_word_new_br9 | bicycle<br>lyrics<br>normal<br>embrace<br>hunt<br>dragon<br>image<br>history<br>alley |  
+| bip_39_word_new_line1 | bicycle |  
+| bip_39_word_new_line10 | bicycle
+lyrics
+normal
+embrace
+hunt
+dragon
+image
+history
+alley
+catch |  
+| bip_39_word_new_line11 | bicycle
+lyrics
+normal
+embrace
+hunt
+dragon
+image
+history
+alley
+catch
+disorder |  
+| bip_39_word_new_line12 | bicycle
+lyrics
+normal
+embrace
+hunt
+dragon
+image
+history
+alley
+catch
+disorder
+actual |  
+| bip_39_word_new_line2 | bicycle
+lyrics |  
+| bip_39_word_new_line3 | bicycle
+lyrics
+normal |  
+| bip_39_word_new_line4 | bicycle
+lyrics
+normal
+embrace |  
+| bip_39_word_new_line5 | bicycle
+lyrics
+normal
+embrace
+hunt |  
+| bip_39_word_new_line6 | bicycle
+lyrics
+normal
+embrace
+hunt
+dragon |  
+| bip_39_word_new_line7 | bicycle
+lyrics
+normal
+embrace
+hunt
+dragon
+image |  
+| bip_39_word_new_line8 | bicycle
+lyrics
+normal
+embrace
+hunt
+dragon
+image
+history |  
+| bip_39_word_new_line9 | bicycle
+lyrics
+normal
+embrace
+hunt
+dragon
+image
+history
+alley |  
+| bip_39_word_space_0 | ['bicycle', 'lyrics', 'normal', 'embrace', 'hunt', 'dragon', 'image', 'history', 'alley', 'catch', 'disorder', 'actual'] |  
+| bip_39_word_space_1 | bicycle |  
+| bip_39_word_space_10 | bicycle lyrics normal embrace hunt dragon image history alley catch |  
+| bip_39_word_space_11 | bicycle lyrics normal embrace hunt dragon image history alley catch disorder |  
+| bip_39_word_space_12 | bicycle lyrics normal embrace hunt dragon image history alley catch disorder actual |  
+| bip_39_word_space_2 | bicycle lyrics |  
+| bip_39_word_space_3 | bicycle lyrics normal |  
+| bip_39_word_space_4 | bicycle lyrics normal embrace |  
+| bip_39_word_space_5 | bicycle lyrics normal embrace hunt |  
+| bip_39_word_space_6 | bicycle lyrics normal embrace hunt dragon |  
+| bip_39_word_space_7 | bicycle lyrics normal embrace hunt dragon image |  
+| bip_39_word_space_8 | bicycle lyrics normal embrace hunt dragon image history |  
+| bip_39_word_space_9 | bicycle lyrics normal embrace hunt dragon image history alley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

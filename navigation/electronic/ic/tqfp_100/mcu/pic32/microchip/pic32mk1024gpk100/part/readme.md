@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microchip
   * part_number: pic32mk1024gpk100
+  * bip 39 word 2: legend speak
+  * bip 39 word 3: legend speak load
+  * bip 39 word: legend speak load echo rotate virus organ say cliff cup edge absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | legend |  
+| bip_39_word_new_br10 | legend<br>speak<br>load<br>echo<br>rotate<br>virus<br>organ<br>say<br>cliff<br>cup |  
+| bip_39_word_new_br11 | legend<br>speak<br>load<br>echo<br>rotate<br>virus<br>organ<br>say<br>cliff<br>cup<br>edge |  
+| bip_39_word_new_br12 | legend<br>speak<br>load<br>echo<br>rotate<br>virus<br>organ<br>say<br>cliff<br>cup<br>edge<br>absurd |  
+| bip_39_word_new_br2 | legend<br>speak |  
+| bip_39_word_new_br3 | legend<br>speak<br>load |  
+| bip_39_word_new_br4 | legend<br>speak<br>load<br>echo |  
+| bip_39_word_new_br5 | legend<br>speak<br>load<br>echo<br>rotate |  
+| bip_39_word_new_br6 | legend<br>speak<br>load<br>echo<br>rotate<br>virus |  
+| bip_39_word_new_br7 | legend<br>speak<br>load<br>echo<br>rotate<br>virus<br>organ |  
+| bip_39_word_new_br8 | legend<br>speak<br>load<br>echo<br>rotate<br>virus<br>organ<br>say |  
+| bip_39_word_new_br9 | legend<br>speak<br>load<br>echo<br>rotate<br>virus<br>organ<br>say<br>cliff |  
+| bip_39_word_new_line1 | legend |  
+| bip_39_word_new_line10 | legend
+speak
+load
+echo
+rotate
+virus
+organ
+say
+cliff
+cup |  
+| bip_39_word_new_line11 | legend
+speak
+load
+echo
+rotate
+virus
+organ
+say
+cliff
+cup
+edge |  
+| bip_39_word_new_line12 | legend
+speak
+load
+echo
+rotate
+virus
+organ
+say
+cliff
+cup
+edge
+absurd |  
+| bip_39_word_new_line2 | legend
+speak |  
+| bip_39_word_new_line3 | legend
+speak
+load |  
+| bip_39_word_new_line4 | legend
+speak
+load
+echo |  
+| bip_39_word_new_line5 | legend
+speak
+load
+echo
+rotate |  
+| bip_39_word_new_line6 | legend
+speak
+load
+echo
+rotate
+virus |  
+| bip_39_word_new_line7 | legend
+speak
+load
+echo
+rotate
+virus
+organ |  
+| bip_39_word_new_line8 | legend
+speak
+load
+echo
+rotate
+virus
+organ
+say |  
+| bip_39_word_new_line9 | legend
+speak
+load
+echo
+rotate
+virus
+organ
+say
+cliff |  
+| bip_39_word_space_0 | ['legend', 'speak', 'load', 'echo', 'rotate', 'virus', 'organ', 'say', 'cliff', 'cup', 'edge', 'absurd'] |  
+| bip_39_word_space_1 | legend |  
+| bip_39_word_space_10 | legend speak load echo rotate virus organ say cliff cup |  
+| bip_39_word_space_11 | legend speak load echo rotate virus organ say cliff cup edge |  
+| bip_39_word_space_12 | legend speak load echo rotate virus organ say cliff cup edge absurd |  
+| bip_39_word_space_2 | legend speak |  
+| bip_39_word_space_3 | legend speak load |  
+| bip_39_word_space_4 | legend speak load echo |  
+| bip_39_word_space_5 | legend speak load echo rotate |  
+| bip_39_word_space_6 | legend speak load echo rotate virus |  
+| bip_39_word_space_7 | legend speak load echo rotate virus organ |  
+| bip_39_word_space_8 | legend speak load echo rotate virus organ say |  
+| bip_39_word_space_9 | legend speak load echo rotate virus organ say cliff |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

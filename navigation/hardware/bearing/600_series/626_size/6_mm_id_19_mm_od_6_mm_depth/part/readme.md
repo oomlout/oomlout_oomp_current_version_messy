@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stumble market
+  * bip 39 word 3: stumble market april
+  * bip 39 word: stumble market april fox boy mobile color kid giggle depend purchase auction
 
 ### other_codes
 * short_code: br626
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stumble |  
+| bip_39_word_new_br10 | stumble<br>market<br>april<br>fox<br>boy<br>mobile<br>color<br>kid<br>giggle<br>depend |  
+| bip_39_word_new_br11 | stumble<br>market<br>april<br>fox<br>boy<br>mobile<br>color<br>kid<br>giggle<br>depend<br>purchase |  
+| bip_39_word_new_br12 | stumble<br>market<br>april<br>fox<br>boy<br>mobile<br>color<br>kid<br>giggle<br>depend<br>purchase<br>auction |  
+| bip_39_word_new_br2 | stumble<br>market |  
+| bip_39_word_new_br3 | stumble<br>market<br>april |  
+| bip_39_word_new_br4 | stumble<br>market<br>april<br>fox |  
+| bip_39_word_new_br5 | stumble<br>market<br>april<br>fox<br>boy |  
+| bip_39_word_new_br6 | stumble<br>market<br>april<br>fox<br>boy<br>mobile |  
+| bip_39_word_new_br7 | stumble<br>market<br>april<br>fox<br>boy<br>mobile<br>color |  
+| bip_39_word_new_br8 | stumble<br>market<br>april<br>fox<br>boy<br>mobile<br>color<br>kid |  
+| bip_39_word_new_br9 | stumble<br>market<br>april<br>fox<br>boy<br>mobile<br>color<br>kid<br>giggle |  
+| bip_39_word_new_line1 | stumble |  
+| bip_39_word_new_line10 | stumble
+market
+april
+fox
+boy
+mobile
+color
+kid
+giggle
+depend |  
+| bip_39_word_new_line11 | stumble
+market
+april
+fox
+boy
+mobile
+color
+kid
+giggle
+depend
+purchase |  
+| bip_39_word_new_line12 | stumble
+market
+april
+fox
+boy
+mobile
+color
+kid
+giggle
+depend
+purchase
+auction |  
+| bip_39_word_new_line2 | stumble
+market |  
+| bip_39_word_new_line3 | stumble
+market
+april |  
+| bip_39_word_new_line4 | stumble
+market
+april
+fox |  
+| bip_39_word_new_line5 | stumble
+market
+april
+fox
+boy |  
+| bip_39_word_new_line6 | stumble
+market
+april
+fox
+boy
+mobile |  
+| bip_39_word_new_line7 | stumble
+market
+april
+fox
+boy
+mobile
+color |  
+| bip_39_word_new_line8 | stumble
+market
+april
+fox
+boy
+mobile
+color
+kid |  
+| bip_39_word_new_line9 | stumble
+market
+april
+fox
+boy
+mobile
+color
+kid
+giggle |  
+| bip_39_word_space_0 | ['stumble', 'market', 'april', 'fox', 'boy', 'mobile', 'color', 'kid', 'giggle', 'depend', 'purchase', 'auction'] |  
+| bip_39_word_space_1 | stumble |  
+| bip_39_word_space_10 | stumble market april fox boy mobile color kid giggle depend |  
+| bip_39_word_space_11 | stumble market april fox boy mobile color kid giggle depend purchase |  
+| bip_39_word_space_12 | stumble market april fox boy mobile color kid giggle depend purchase auction |  
+| bip_39_word_space_2 | stumble market |  
+| bip_39_word_space_3 | stumble market april |  
+| bip_39_word_space_4 | stumble market april fox |  
+| bip_39_word_space_5 | stumble market april fox boy |  
+| bip_39_word_space_6 | stumble market april fox boy mobile |  
+| bip_39_word_space_7 | stumble market april fox boy mobile color |  
+| bip_39_word_space_8 | stumble market april fox boy mobile color kid |  
+| bip_39_word_space_9 | stumble market april fox boy mobile color kid giggle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: polar
+bip_39_word_new_br10: polar<br>now<br>girl<br>pulse<br>route<br>chronic<br>capable<br>quantum<br>extend<br>blossom
+bip_39_word_new_br11: polar<br>now<br>girl<br>pulse<br>route<br>chronic<br>capable<br>quantum<br>extend<br>blossom<br>spike
+bip_39_word_new_br12: polar<br>now<br>girl<br>pulse<br>route<br>chronic<br>capable<br>quantum<br>extend<br>blossom<br>spike<br>arctic
+bip_39_word_new_br2: polar<br>now
+bip_39_word_new_br3: polar<br>now<br>girl
+bip_39_word_new_br4: polar<br>now<br>girl<br>pulse
+bip_39_word_new_br5: polar<br>now<br>girl<br>pulse<br>route
+bip_39_word_new_br6: polar<br>now<br>girl<br>pulse<br>route<br>chronic
+bip_39_word_new_br7: polar<br>now<br>girl<br>pulse<br>route<br>chronic<br>capable
+bip_39_word_new_br8: polar<br>now<br>girl<br>pulse<br>route<br>chronic<br>capable<br>quantum
+bip_39_word_new_br9: polar<br>now<br>girl<br>pulse<br>route<br>chronic<br>capable<br>quantum<br>extend
+bip_39_word_new_line1: polar
+bip_39_word_new_line10: 'polar
+
+  now
+
+  girl
+
+  pulse
+
+  route
+
+  chronic
+
+  capable
+
+  quantum
+
+  extend
+
+  blossom'
+bip_39_word_new_line11: 'polar
+
+  now
+
+  girl
+
+  pulse
+
+  route
+
+  chronic
+
+  capable
+
+  quantum
+
+  extend
+
+  blossom
+
+  spike'
+bip_39_word_new_line12: 'polar
+
+  now
+
+  girl
+
+  pulse
+
+  route
+
+  chronic
+
+  capable
+
+  quantum
+
+  extend
+
+  blossom
+
+  spike
+
+  arctic'
+bip_39_word_new_line2: 'polar
+
+  now'
+bip_39_word_new_line3: 'polar
+
+  now
+
+  girl'
+bip_39_word_new_line4: 'polar
+
+  now
+
+  girl
+
+  pulse'
+bip_39_word_new_line5: 'polar
+
+  now
+
+  girl
+
+  pulse
+
+  route'
+bip_39_word_new_line6: 'polar
+
+  now
+
+  girl
+
+  pulse
+
+  route
+
+  chronic'
+bip_39_word_new_line7: 'polar
+
+  now
+
+  girl
+
+  pulse
+
+  route
+
+  chronic
+
+  capable'
+bip_39_word_new_line8: 'polar
+
+  now
+
+  girl
+
+  pulse
+
+  route
+
+  chronic
+
+  capable
+
+  quantum'
+bip_39_word_new_line9: 'polar
+
+  now
+
+  girl
+
+  pulse
+
+  route
+
+  chronic
+
+  capable
+
+  quantum
+
+  extend'
+bip_39_word_space_0:
+- polar
+- now
+- girl
+- pulse
+- route
+- chronic
+- capable
+- quantum
+- extend
+- blossom
+- spike
+- arctic
+bip_39_word_space_1: polar
+bip_39_word_space_10: polar now girl pulse route chronic capable quantum extend blossom
+bip_39_word_space_11: polar now girl pulse route chronic capable quantum extend blossom
+  spike
+bip_39_word_space_12: polar now girl pulse route chronic capable quantum extend blossom
+  spike arctic
+bip_39_word_space_2: polar now
+bip_39_word_space_3: polar now girl
+bip_39_word_space_4: polar now girl pulse
+bip_39_word_space_5: polar now girl pulse route
+bip_39_word_space_6: polar now girl pulse route chronic
+bip_39_word_space_7: polar now girl pulse route chronic capable
+bip_39_word_space_8: polar now girl pulse route chronic capable quantum
+bip_39_word_space_9: polar now girl pulse route chronic capable quantum extend
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

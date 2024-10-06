@@ -1,3 +1,186 @@
+bip_39_word_new_br1: start
+bip_39_word_new_br10: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic
+bip_39_word_new_br11: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic<br>bid
+bip_39_word_new_br12: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic<br>bid<br>assault
+bip_39_word_new_br2: start<br>turn
+bip_39_word_new_br3: start<br>turn<br>album
+bip_39_word_new_br4: start<br>turn<br>album<br>charge
+bip_39_word_new_br5: start<br>turn<br>album<br>charge<br>side
+bip_39_word_new_br6: start<br>turn<br>album<br>charge<br>side<br>rebuild
+bip_39_word_new_br7: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof
+bip_39_word_new_br8: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver
+bip_39_word_new_br9: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym
+bip_39_word_new_line1: start
+bip_39_word_new_line10: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver
+
+  gym
+
+  picnic'
+bip_39_word_new_line11: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver
+
+  gym
+
+  picnic
+
+  bid'
+bip_39_word_new_line12: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver
+
+  gym
+
+  picnic
+
+  bid
+
+  assault'
+bip_39_word_new_line2: 'start
+
+  turn'
+bip_39_word_new_line3: 'start
+
+  turn
+
+  album'
+bip_39_word_new_line4: 'start
+
+  turn
+
+  album
+
+  charge'
+bip_39_word_new_line5: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side'
+bip_39_word_new_line6: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild'
+bip_39_word_new_line7: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof'
+bip_39_word_new_line8: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver'
+bip_39_word_new_line9: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver
+
+  gym'
+bip_39_word_space_0:
+- start
+- turn
+- album
+- charge
+- side
+- rebuild
+- proof
+- deliver
+- gym
+- picnic
+- bid
+- assault
+bip_39_word_space_1: start
+bip_39_word_space_10: start turn album charge side rebuild proof deliver gym picnic
+bip_39_word_space_11: start turn album charge side rebuild proof deliver gym picnic
+  bid
+bip_39_word_space_12: start turn album charge side rebuild proof deliver gym picnic
+  bid assault
+bip_39_word_space_2: start turn
+bip_39_word_space_3: start turn album
+bip_39_word_space_4: start turn album charge
+bip_39_word_space_5: start turn album charge side
+bip_39_word_space_6: start turn album charge side rebuild
+bip_39_word_space_7: start turn album charge side rebuild proof
+bip_39_word_space_8: start turn album charge side rebuild proof deliver
+bip_39_word_space_9: start turn album charge side rebuild proof deliver gym
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

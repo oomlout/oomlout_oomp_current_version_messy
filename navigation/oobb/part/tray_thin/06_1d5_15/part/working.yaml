@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fresh
+bip_39_word_new_br10: fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready
+bip_39_word_new_br11: fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready<br>ordinary
+bip_39_word_new_br12: fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle<br>ready<br>ordinary<br>affair
+bip_39_word_new_br2: fresh<br>kingdom
+bip_39_word_new_br3: fresh<br>kingdom<br>scare
+bip_39_word_new_br4: fresh<br>kingdom<br>scare<br>void
+bip_39_word_new_br5: fresh<br>kingdom<br>scare<br>void<br>inherit
+bip_39_word_new_br6: fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey
+bip_39_word_new_br7: fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch
+bip_39_word_new_br8: fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much
+bip_39_word_new_br9: fresh<br>kingdom<br>scare<br>void<br>inherit<br>obey<br>lunch<br>much<br>noodle
+bip_39_word_new_line1: fresh
+bip_39_word_new_line10: 'fresh
+
+  kingdom
+
+  scare
+
+  void
+
+  inherit
+
+  obey
+
+  lunch
+
+  much
+
+  noodle
+
+  ready'
+bip_39_word_new_line11: 'fresh
+
+  kingdom
+
+  scare
+
+  void
+
+  inherit
+
+  obey
+
+  lunch
+
+  much
+
+  noodle
+
+  ready
+
+  ordinary'
+bip_39_word_new_line12: 'fresh
+
+  kingdom
+
+  scare
+
+  void
+
+  inherit
+
+  obey
+
+  lunch
+
+  much
+
+  noodle
+
+  ready
+
+  ordinary
+
+  affair'
+bip_39_word_new_line2: 'fresh
+
+  kingdom'
+bip_39_word_new_line3: 'fresh
+
+  kingdom
+
+  scare'
+bip_39_word_new_line4: 'fresh
+
+  kingdom
+
+  scare
+
+  void'
+bip_39_word_new_line5: 'fresh
+
+  kingdom
+
+  scare
+
+  void
+
+  inherit'
+bip_39_word_new_line6: 'fresh
+
+  kingdom
+
+  scare
+
+  void
+
+  inherit
+
+  obey'
+bip_39_word_new_line7: 'fresh
+
+  kingdom
+
+  scare
+
+  void
+
+  inherit
+
+  obey
+
+  lunch'
+bip_39_word_new_line8: 'fresh
+
+  kingdom
+
+  scare
+
+  void
+
+  inherit
+
+  obey
+
+  lunch
+
+  much'
+bip_39_word_new_line9: 'fresh
+
+  kingdom
+
+  scare
+
+  void
+
+  inherit
+
+  obey
+
+  lunch
+
+  much
+
+  noodle'
+bip_39_word_space_0:
+- fresh
+- kingdom
+- scare
+- void
+- inherit
+- obey
+- lunch
+- much
+- noodle
+- ready
+- ordinary
+- affair
+bip_39_word_space_1: fresh
+bip_39_word_space_10: fresh kingdom scare void inherit obey lunch much noodle ready
+bip_39_word_space_11: fresh kingdom scare void inherit obey lunch much noodle ready
+  ordinary
+bip_39_word_space_12: fresh kingdom scare void inherit obey lunch much noodle ready
+  ordinary affair
+bip_39_word_space_2: fresh kingdom
+bip_39_word_space_3: fresh kingdom scare
+bip_39_word_space_4: fresh kingdom scare void
+bip_39_word_space_5: fresh kingdom scare void inherit
+bip_39_word_space_6: fresh kingdom scare void inherit obey
+bip_39_word_space_7: fresh kingdom scare void inherit obey lunch
+bip_39_word_space_8: fresh kingdom scare void inherit obey lunch much
+bip_39_word_space_9: fresh kingdom scare void inherit obey lunch much noodle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

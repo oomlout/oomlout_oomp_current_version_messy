@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dash sell
+  * bip 39 word 3: dash sell huge
+  * bip 39 word: dash sell huge midnight fortune illness aunt retire choose outside among army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dash |  
+| bip_39_word_new_br10 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside |  
+| bip_39_word_new_br11 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside<br>among |  
+| bip_39_word_new_br12 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose<br>outside<br>among<br>army |  
+| bip_39_word_new_br2 | dash<br>sell |  
+| bip_39_word_new_br3 | dash<br>sell<br>huge |  
+| bip_39_word_new_br4 | dash<br>sell<br>huge<br>midnight |  
+| bip_39_word_new_br5 | dash<br>sell<br>huge<br>midnight<br>fortune |  
+| bip_39_word_new_br6 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness |  
+| bip_39_word_new_br7 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt |  
+| bip_39_word_new_br8 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire |  
+| bip_39_word_new_br9 | dash<br>sell<br>huge<br>midnight<br>fortune<br>illness<br>aunt<br>retire<br>choose |  
+| bip_39_word_new_line1 | dash |  
+| bip_39_word_new_line10 | dash
+sell
+huge
+midnight
+fortune
+illness
+aunt
+retire
+choose
+outside |  
+| bip_39_word_new_line11 | dash
+sell
+huge
+midnight
+fortune
+illness
+aunt
+retire
+choose
+outside
+among |  
+| bip_39_word_new_line12 | dash
+sell
+huge
+midnight
+fortune
+illness
+aunt
+retire
+choose
+outside
+among
+army |  
+| bip_39_word_new_line2 | dash
+sell |  
+| bip_39_word_new_line3 | dash
+sell
+huge |  
+| bip_39_word_new_line4 | dash
+sell
+huge
+midnight |  
+| bip_39_word_new_line5 | dash
+sell
+huge
+midnight
+fortune |  
+| bip_39_word_new_line6 | dash
+sell
+huge
+midnight
+fortune
+illness |  
+| bip_39_word_new_line7 | dash
+sell
+huge
+midnight
+fortune
+illness
+aunt |  
+| bip_39_word_new_line8 | dash
+sell
+huge
+midnight
+fortune
+illness
+aunt
+retire |  
+| bip_39_word_new_line9 | dash
+sell
+huge
+midnight
+fortune
+illness
+aunt
+retire
+choose |  
+| bip_39_word_space_0 | ['dash', 'sell', 'huge', 'midnight', 'fortune', 'illness', 'aunt', 'retire', 'choose', 'outside', 'among', 'army'] |  
+| bip_39_word_space_1 | dash |  
+| bip_39_word_space_10 | dash sell huge midnight fortune illness aunt retire choose outside |  
+| bip_39_word_space_11 | dash sell huge midnight fortune illness aunt retire choose outside among |  
+| bip_39_word_space_12 | dash sell huge midnight fortune illness aunt retire choose outside among army |  
+| bip_39_word_space_2 | dash sell |  
+| bip_39_word_space_3 | dash sell huge |  
+| bip_39_word_space_4 | dash sell huge midnight |  
+| bip_39_word_space_5 | dash sell huge midnight fortune |  
+| bip_39_word_space_6 | dash sell huge midnight fortune illness |  
+| bip_39_word_space_7 | dash sell huge midnight fortune illness aunt |  
+| bip_39_word_space_8 | dash sell huge midnight fortune illness aunt retire |  
+| bip_39_word_space_9 | dash sell huge midnight fortune illness aunt retire choose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

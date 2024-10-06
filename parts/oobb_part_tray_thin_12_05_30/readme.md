@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: measure hobby
+  * bip 39 word 3: measure hobby enlist
+  * bip 39 word: measure hobby enlist yellow cradle fix fish before page notice album atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | measure |  
+| bip_39_word_new_br10 | measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix<br>fish<br>before<br>page<br>notice |  
+| bip_39_word_new_br11 | measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix<br>fish<br>before<br>page<br>notice<br>album |  
+| bip_39_word_new_br12 | measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix<br>fish<br>before<br>page<br>notice<br>album<br>atom |  
+| bip_39_word_new_br2 | measure<br>hobby |  
+| bip_39_word_new_br3 | measure<br>hobby<br>enlist |  
+| bip_39_word_new_br4 | measure<br>hobby<br>enlist<br>yellow |  
+| bip_39_word_new_br5 | measure<br>hobby<br>enlist<br>yellow<br>cradle |  
+| bip_39_word_new_br6 | measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix |  
+| bip_39_word_new_br7 | measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix<br>fish |  
+| bip_39_word_new_br8 | measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix<br>fish<br>before |  
+| bip_39_word_new_br9 | measure<br>hobby<br>enlist<br>yellow<br>cradle<br>fix<br>fish<br>before<br>page |  
+| bip_39_word_new_line1 | measure |  
+| bip_39_word_new_line10 | measure
+hobby
+enlist
+yellow
+cradle
+fix
+fish
+before
+page
+notice |  
+| bip_39_word_new_line11 | measure
+hobby
+enlist
+yellow
+cradle
+fix
+fish
+before
+page
+notice
+album |  
+| bip_39_word_new_line12 | measure
+hobby
+enlist
+yellow
+cradle
+fix
+fish
+before
+page
+notice
+album
+atom |  
+| bip_39_word_new_line2 | measure
+hobby |  
+| bip_39_word_new_line3 | measure
+hobby
+enlist |  
+| bip_39_word_new_line4 | measure
+hobby
+enlist
+yellow |  
+| bip_39_word_new_line5 | measure
+hobby
+enlist
+yellow
+cradle |  
+| bip_39_word_new_line6 | measure
+hobby
+enlist
+yellow
+cradle
+fix |  
+| bip_39_word_new_line7 | measure
+hobby
+enlist
+yellow
+cradle
+fix
+fish |  
+| bip_39_word_new_line8 | measure
+hobby
+enlist
+yellow
+cradle
+fix
+fish
+before |  
+| bip_39_word_new_line9 | measure
+hobby
+enlist
+yellow
+cradle
+fix
+fish
+before
+page |  
+| bip_39_word_space_0 | ['measure', 'hobby', 'enlist', 'yellow', 'cradle', 'fix', 'fish', 'before', 'page', 'notice', 'album', 'atom'] |  
+| bip_39_word_space_1 | measure |  
+| bip_39_word_space_10 | measure hobby enlist yellow cradle fix fish before page notice |  
+| bip_39_word_space_11 | measure hobby enlist yellow cradle fix fish before page notice album |  
+| bip_39_word_space_12 | measure hobby enlist yellow cradle fix fish before page notice album atom |  
+| bip_39_word_space_2 | measure hobby |  
+| bip_39_word_space_3 | measure hobby enlist |  
+| bip_39_word_space_4 | measure hobby enlist yellow |  
+| bip_39_word_space_5 | measure hobby enlist yellow cradle |  
+| bip_39_word_space_6 | measure hobby enlist yellow cradle fix |  
+| bip_39_word_space_7 | measure hobby enlist yellow cradle fix fish |  
+| bip_39_word_space_8 | measure hobby enlist yellow cradle fix fish before |  
+| bip_39_word_space_9 | measure hobby enlist yellow cradle fix fish before page |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

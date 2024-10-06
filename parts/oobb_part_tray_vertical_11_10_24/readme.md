@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toss spice
+  * bip 39 word 3: toss spice car
+  * bip 39 word: toss spice car thing feel obscure saddle host desert casino autumn access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toss |  
+| bip_39_word_new_br10 | toss<br>spice<br>car<br>thing<br>feel<br>obscure<br>saddle<br>host<br>desert<br>casino |  
+| bip_39_word_new_br11 | toss<br>spice<br>car<br>thing<br>feel<br>obscure<br>saddle<br>host<br>desert<br>casino<br>autumn |  
+| bip_39_word_new_br12 | toss<br>spice<br>car<br>thing<br>feel<br>obscure<br>saddle<br>host<br>desert<br>casino<br>autumn<br>access |  
+| bip_39_word_new_br2 | toss<br>spice |  
+| bip_39_word_new_br3 | toss<br>spice<br>car |  
+| bip_39_word_new_br4 | toss<br>spice<br>car<br>thing |  
+| bip_39_word_new_br5 | toss<br>spice<br>car<br>thing<br>feel |  
+| bip_39_word_new_br6 | toss<br>spice<br>car<br>thing<br>feel<br>obscure |  
+| bip_39_word_new_br7 | toss<br>spice<br>car<br>thing<br>feel<br>obscure<br>saddle |  
+| bip_39_word_new_br8 | toss<br>spice<br>car<br>thing<br>feel<br>obscure<br>saddle<br>host |  
+| bip_39_word_new_br9 | toss<br>spice<br>car<br>thing<br>feel<br>obscure<br>saddle<br>host<br>desert |  
+| bip_39_word_new_line1 | toss |  
+| bip_39_word_new_line10 | toss
+spice
+car
+thing
+feel
+obscure
+saddle
+host
+desert
+casino |  
+| bip_39_word_new_line11 | toss
+spice
+car
+thing
+feel
+obscure
+saddle
+host
+desert
+casino
+autumn |  
+| bip_39_word_new_line12 | toss
+spice
+car
+thing
+feel
+obscure
+saddle
+host
+desert
+casino
+autumn
+access |  
+| bip_39_word_new_line2 | toss
+spice |  
+| bip_39_word_new_line3 | toss
+spice
+car |  
+| bip_39_word_new_line4 | toss
+spice
+car
+thing |  
+| bip_39_word_new_line5 | toss
+spice
+car
+thing
+feel |  
+| bip_39_word_new_line6 | toss
+spice
+car
+thing
+feel
+obscure |  
+| bip_39_word_new_line7 | toss
+spice
+car
+thing
+feel
+obscure
+saddle |  
+| bip_39_word_new_line8 | toss
+spice
+car
+thing
+feel
+obscure
+saddle
+host |  
+| bip_39_word_new_line9 | toss
+spice
+car
+thing
+feel
+obscure
+saddle
+host
+desert |  
+| bip_39_word_space_0 | ['toss', 'spice', 'car', 'thing', 'feel', 'obscure', 'saddle', 'host', 'desert', 'casino', 'autumn', 'access'] |  
+| bip_39_word_space_1 | toss |  
+| bip_39_word_space_10 | toss spice car thing feel obscure saddle host desert casino |  
+| bip_39_word_space_11 | toss spice car thing feel obscure saddle host desert casino autumn |  
+| bip_39_word_space_12 | toss spice car thing feel obscure saddle host desert casino autumn access |  
+| bip_39_word_space_2 | toss spice |  
+| bip_39_word_space_3 | toss spice car |  
+| bip_39_word_space_4 | toss spice car thing |  
+| bip_39_word_space_5 | toss spice car thing feel |  
+| bip_39_word_space_6 | toss spice car thing feel obscure |  
+| bip_39_word_space_7 | toss spice car thing feel obscure saddle |  
+| bip_39_word_space_8 | toss spice car thing feel obscure saddle host |  
+| bip_39_word_space_9 | toss spice car thing feel obscure saddle host desert |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

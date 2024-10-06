@@ -1,3 +1,186 @@
+bip_39_word_new_br1: donate
+bip_39_word_new_br10: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because
+bip_39_word_new_br11: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because<br>route
+bip_39_word_new_br12: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because<br>route<br>abstract
+bip_39_word_new_br2: donate<br>repeat
+bip_39_word_new_br3: donate<br>repeat<br>palm
+bip_39_word_new_br4: donate<br>repeat<br>palm<br>grit
+bip_39_word_new_br5: donate<br>repeat<br>palm<br>grit<br>noise
+bip_39_word_new_br6: donate<br>repeat<br>palm<br>grit<br>noise<br>sing
+bip_39_word_new_br7: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen
+bip_39_word_new_br8: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise
+bip_39_word_new_br9: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed
+bip_39_word_new_line1: donate
+bip_39_word_new_line10: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise
+
+  shed
+
+  because'
+bip_39_word_new_line11: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise
+
+  shed
+
+  because
+
+  route'
+bip_39_word_new_line12: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise
+
+  shed
+
+  because
+
+  route
+
+  abstract'
+bip_39_word_new_line2: 'donate
+
+  repeat'
+bip_39_word_new_line3: 'donate
+
+  repeat
+
+  palm'
+bip_39_word_new_line4: 'donate
+
+  repeat
+
+  palm
+
+  grit'
+bip_39_word_new_line5: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise'
+bip_39_word_new_line6: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing'
+bip_39_word_new_line7: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen'
+bip_39_word_new_line8: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise'
+bip_39_word_new_line9: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise
+
+  shed'
+bip_39_word_space_0:
+- donate
+- repeat
+- palm
+- grit
+- noise
+- sing
+- keen
+- surprise
+- shed
+- because
+- route
+- abstract
+bip_39_word_space_1: donate
+bip_39_word_space_10: donate repeat palm grit noise sing keen surprise shed because
+bip_39_word_space_11: donate repeat palm grit noise sing keen surprise shed because
+  route
+bip_39_word_space_12: donate repeat palm grit noise sing keen surprise shed because
+  route abstract
+bip_39_word_space_2: donate repeat
+bip_39_word_space_3: donate repeat palm
+bip_39_word_space_4: donate repeat palm grit
+bip_39_word_space_5: donate repeat palm grit noise
+bip_39_word_space_6: donate repeat palm grit noise sing
+bip_39_word_space_7: donate repeat palm grit noise sing keen
+bip_39_word_space_8: donate repeat palm grit noise sing keen surprise
+bip_39_word_space_9: donate repeat palm grit noise sing keen surprise shed
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

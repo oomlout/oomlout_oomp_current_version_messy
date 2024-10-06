@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: horse cattle
+  * bip 39 word 3: horse cattle stove
+  * bip 39 word: horse cattle stove habit huge code use oven excite velvet pioneer average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | horse |  
+| bip_39_word_new_br10 | horse<br>cattle<br>stove<br>habit<br>huge<br>code<br>use<br>oven<br>excite<br>velvet |  
+| bip_39_word_new_br11 | horse<br>cattle<br>stove<br>habit<br>huge<br>code<br>use<br>oven<br>excite<br>velvet<br>pioneer |  
+| bip_39_word_new_br12 | horse<br>cattle<br>stove<br>habit<br>huge<br>code<br>use<br>oven<br>excite<br>velvet<br>pioneer<br>average |  
+| bip_39_word_new_br2 | horse<br>cattle |  
+| bip_39_word_new_br3 | horse<br>cattle<br>stove |  
+| bip_39_word_new_br4 | horse<br>cattle<br>stove<br>habit |  
+| bip_39_word_new_br5 | horse<br>cattle<br>stove<br>habit<br>huge |  
+| bip_39_word_new_br6 | horse<br>cattle<br>stove<br>habit<br>huge<br>code |  
+| bip_39_word_new_br7 | horse<br>cattle<br>stove<br>habit<br>huge<br>code<br>use |  
+| bip_39_word_new_br8 | horse<br>cattle<br>stove<br>habit<br>huge<br>code<br>use<br>oven |  
+| bip_39_word_new_br9 | horse<br>cattle<br>stove<br>habit<br>huge<br>code<br>use<br>oven<br>excite |  
+| bip_39_word_new_line1 | horse |  
+| bip_39_word_new_line10 | horse
+cattle
+stove
+habit
+huge
+code
+use
+oven
+excite
+velvet |  
+| bip_39_word_new_line11 | horse
+cattle
+stove
+habit
+huge
+code
+use
+oven
+excite
+velvet
+pioneer |  
+| bip_39_word_new_line12 | horse
+cattle
+stove
+habit
+huge
+code
+use
+oven
+excite
+velvet
+pioneer
+average |  
+| bip_39_word_new_line2 | horse
+cattle |  
+| bip_39_word_new_line3 | horse
+cattle
+stove |  
+| bip_39_word_new_line4 | horse
+cattle
+stove
+habit |  
+| bip_39_word_new_line5 | horse
+cattle
+stove
+habit
+huge |  
+| bip_39_word_new_line6 | horse
+cattle
+stove
+habit
+huge
+code |  
+| bip_39_word_new_line7 | horse
+cattle
+stove
+habit
+huge
+code
+use |  
+| bip_39_word_new_line8 | horse
+cattle
+stove
+habit
+huge
+code
+use
+oven |  
+| bip_39_word_new_line9 | horse
+cattle
+stove
+habit
+huge
+code
+use
+oven
+excite |  
+| bip_39_word_space_0 | ['horse', 'cattle', 'stove', 'habit', 'huge', 'code', 'use', 'oven', 'excite', 'velvet', 'pioneer', 'average'] |  
+| bip_39_word_space_1 | horse |  
+| bip_39_word_space_10 | horse cattle stove habit huge code use oven excite velvet |  
+| bip_39_word_space_11 | horse cattle stove habit huge code use oven excite velvet pioneer |  
+| bip_39_word_space_12 | horse cattle stove habit huge code use oven excite velvet pioneer average |  
+| bip_39_word_space_2 | horse cattle |  
+| bip_39_word_space_3 | horse cattle stove |  
+| bip_39_word_space_4 | horse cattle stove habit |  
+| bip_39_word_space_5 | horse cattle stove habit huge |  
+| bip_39_word_space_6 | horse cattle stove habit huge code |  
+| bip_39_word_space_7 | horse cattle stove habit huge code use |  
+| bip_39_word_space_8 | horse cattle stove habit huge code use oven |  
+| bip_39_word_space_9 | horse cattle stove habit huge code use oven excite |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

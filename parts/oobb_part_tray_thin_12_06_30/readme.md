@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bus budget
+  * bip 39 word 3: bus budget opera
+  * bip 39 word: bus budget opera raise above ugly tooth later unlock nuclear actress age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bus |  
+| bip_39_word_new_br10 | bus<br>budget<br>opera<br>raise<br>above<br>ugly<br>tooth<br>later<br>unlock<br>nuclear |  
+| bip_39_word_new_br11 | bus<br>budget<br>opera<br>raise<br>above<br>ugly<br>tooth<br>later<br>unlock<br>nuclear<br>actress |  
+| bip_39_word_new_br12 | bus<br>budget<br>opera<br>raise<br>above<br>ugly<br>tooth<br>later<br>unlock<br>nuclear<br>actress<br>age |  
+| bip_39_word_new_br2 | bus<br>budget |  
+| bip_39_word_new_br3 | bus<br>budget<br>opera |  
+| bip_39_word_new_br4 | bus<br>budget<br>opera<br>raise |  
+| bip_39_word_new_br5 | bus<br>budget<br>opera<br>raise<br>above |  
+| bip_39_word_new_br6 | bus<br>budget<br>opera<br>raise<br>above<br>ugly |  
+| bip_39_word_new_br7 | bus<br>budget<br>opera<br>raise<br>above<br>ugly<br>tooth |  
+| bip_39_word_new_br8 | bus<br>budget<br>opera<br>raise<br>above<br>ugly<br>tooth<br>later |  
+| bip_39_word_new_br9 | bus<br>budget<br>opera<br>raise<br>above<br>ugly<br>tooth<br>later<br>unlock |  
+| bip_39_word_new_line1 | bus |  
+| bip_39_word_new_line10 | bus
+budget
+opera
+raise
+above
+ugly
+tooth
+later
+unlock
+nuclear |  
+| bip_39_word_new_line11 | bus
+budget
+opera
+raise
+above
+ugly
+tooth
+later
+unlock
+nuclear
+actress |  
+| bip_39_word_new_line12 | bus
+budget
+opera
+raise
+above
+ugly
+tooth
+later
+unlock
+nuclear
+actress
+age |  
+| bip_39_word_new_line2 | bus
+budget |  
+| bip_39_word_new_line3 | bus
+budget
+opera |  
+| bip_39_word_new_line4 | bus
+budget
+opera
+raise |  
+| bip_39_word_new_line5 | bus
+budget
+opera
+raise
+above |  
+| bip_39_word_new_line6 | bus
+budget
+opera
+raise
+above
+ugly |  
+| bip_39_word_new_line7 | bus
+budget
+opera
+raise
+above
+ugly
+tooth |  
+| bip_39_word_new_line8 | bus
+budget
+opera
+raise
+above
+ugly
+tooth
+later |  
+| bip_39_word_new_line9 | bus
+budget
+opera
+raise
+above
+ugly
+tooth
+later
+unlock |  
+| bip_39_word_space_0 | ['bus', 'budget', 'opera', 'raise', 'above', 'ugly', 'tooth', 'later', 'unlock', 'nuclear', 'actress', 'age'] |  
+| bip_39_word_space_1 | bus |  
+| bip_39_word_space_10 | bus budget opera raise above ugly tooth later unlock nuclear |  
+| bip_39_word_space_11 | bus budget opera raise above ugly tooth later unlock nuclear actress |  
+| bip_39_word_space_12 | bus budget opera raise above ugly tooth later unlock nuclear actress age |  
+| bip_39_word_space_2 | bus budget |  
+| bip_39_word_space_3 | bus budget opera |  
+| bip_39_word_space_4 | bus budget opera raise |  
+| bip_39_word_space_5 | bus budget opera raise above |  
+| bip_39_word_space_6 | bus budget opera raise above ugly |  
+| bip_39_word_space_7 | bus budget opera raise above ugly tooth |  
+| bip_39_word_space_8 | bus budget opera raise above ugly tooth later |  
+| bip_39_word_space_9 | bus budget opera raise above ugly tooth later unlock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mansion party
+  * bip 39 word 3: mansion party knife
+  * bip 39 word: mansion party knife typical ahead topic please situate slow margin drama ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mansion |  
+| bip_39_word_new_br10 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic<br>please<br>situate<br>slow<br>margin |  
+| bip_39_word_new_br11 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic<br>please<br>situate<br>slow<br>margin<br>drama |  
+| bip_39_word_new_br12 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic<br>please<br>situate<br>slow<br>margin<br>drama<br>ankle |  
+| bip_39_word_new_br2 | mansion<br>party |  
+| bip_39_word_new_br3 | mansion<br>party<br>knife |  
+| bip_39_word_new_br4 | mansion<br>party<br>knife<br>typical |  
+| bip_39_word_new_br5 | mansion<br>party<br>knife<br>typical<br>ahead |  
+| bip_39_word_new_br6 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic |  
+| bip_39_word_new_br7 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic<br>please |  
+| bip_39_word_new_br8 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic<br>please<br>situate |  
+| bip_39_word_new_br9 | mansion<br>party<br>knife<br>typical<br>ahead<br>topic<br>please<br>situate<br>slow |  
+| bip_39_word_new_line1 | mansion |  
+| bip_39_word_new_line10 | mansion
+party
+knife
+typical
+ahead
+topic
+please
+situate
+slow
+margin |  
+| bip_39_word_new_line11 | mansion
+party
+knife
+typical
+ahead
+topic
+please
+situate
+slow
+margin
+drama |  
+| bip_39_word_new_line12 | mansion
+party
+knife
+typical
+ahead
+topic
+please
+situate
+slow
+margin
+drama
+ankle |  
+| bip_39_word_new_line2 | mansion
+party |  
+| bip_39_word_new_line3 | mansion
+party
+knife |  
+| bip_39_word_new_line4 | mansion
+party
+knife
+typical |  
+| bip_39_word_new_line5 | mansion
+party
+knife
+typical
+ahead |  
+| bip_39_word_new_line6 | mansion
+party
+knife
+typical
+ahead
+topic |  
+| bip_39_word_new_line7 | mansion
+party
+knife
+typical
+ahead
+topic
+please |  
+| bip_39_word_new_line8 | mansion
+party
+knife
+typical
+ahead
+topic
+please
+situate |  
+| bip_39_word_new_line9 | mansion
+party
+knife
+typical
+ahead
+topic
+please
+situate
+slow |  
+| bip_39_word_space_0 | ['mansion', 'party', 'knife', 'typical', 'ahead', 'topic', 'please', 'situate', 'slow', 'margin', 'drama', 'ankle'] |  
+| bip_39_word_space_1 | mansion |  
+| bip_39_word_space_10 | mansion party knife typical ahead topic please situate slow margin |  
+| bip_39_word_space_11 | mansion party knife typical ahead topic please situate slow margin drama |  
+| bip_39_word_space_12 | mansion party knife typical ahead topic please situate slow margin drama ankle |  
+| bip_39_word_space_2 | mansion party |  
+| bip_39_word_space_3 | mansion party knife |  
+| bip_39_word_space_4 | mansion party knife typical |  
+| bip_39_word_space_5 | mansion party knife typical ahead |  
+| bip_39_word_space_6 | mansion party knife typical ahead topic |  
+| bip_39_word_space_7 | mansion party knife typical ahead topic please |  
+| bip_39_word_space_8 | mansion party knife typical ahead topic please situate |  
+| bip_39_word_space_9 | mansion party knife typical ahead topic please situate slow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

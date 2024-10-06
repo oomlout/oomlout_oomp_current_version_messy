@@ -1,3 +1,186 @@
+bip_39_word_new_br1: custom
+bip_39_word_new_br10: custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous
+bip_39_word_new_br11: custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous<br>scare
+bip_39_word_new_br12: custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve<br>jealous<br>scare<br>alpha
+bip_39_word_new_br2: custom<br>cycle
+bip_39_word_new_br3: custom<br>cycle<br>august
+bip_39_word_new_br4: custom<br>cycle<br>august<br>pact
+bip_39_word_new_br5: custom<br>cycle<br>august<br>pact<br>knee
+bip_39_word_new_br6: custom<br>cycle<br>august<br>pact<br>knee<br>treat
+bip_39_word_new_br7: custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace
+bip_39_word_new_br8: custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi
+bip_39_word_new_br9: custom<br>cycle<br>august<br>pact<br>knee<br>treat<br>peace<br>kiwi<br>approve
+bip_39_word_new_line1: custom
+bip_39_word_new_line10: 'custom
+
+  cycle
+
+  august
+
+  pact
+
+  knee
+
+  treat
+
+  peace
+
+  kiwi
+
+  approve
+
+  jealous'
+bip_39_word_new_line11: 'custom
+
+  cycle
+
+  august
+
+  pact
+
+  knee
+
+  treat
+
+  peace
+
+  kiwi
+
+  approve
+
+  jealous
+
+  scare'
+bip_39_word_new_line12: 'custom
+
+  cycle
+
+  august
+
+  pact
+
+  knee
+
+  treat
+
+  peace
+
+  kiwi
+
+  approve
+
+  jealous
+
+  scare
+
+  alpha'
+bip_39_word_new_line2: 'custom
+
+  cycle'
+bip_39_word_new_line3: 'custom
+
+  cycle
+
+  august'
+bip_39_word_new_line4: 'custom
+
+  cycle
+
+  august
+
+  pact'
+bip_39_word_new_line5: 'custom
+
+  cycle
+
+  august
+
+  pact
+
+  knee'
+bip_39_word_new_line6: 'custom
+
+  cycle
+
+  august
+
+  pact
+
+  knee
+
+  treat'
+bip_39_word_new_line7: 'custom
+
+  cycle
+
+  august
+
+  pact
+
+  knee
+
+  treat
+
+  peace'
+bip_39_word_new_line8: 'custom
+
+  cycle
+
+  august
+
+  pact
+
+  knee
+
+  treat
+
+  peace
+
+  kiwi'
+bip_39_word_new_line9: 'custom
+
+  cycle
+
+  august
+
+  pact
+
+  knee
+
+  treat
+
+  peace
+
+  kiwi
+
+  approve'
+bip_39_word_space_0:
+- custom
+- cycle
+- august
+- pact
+- knee
+- treat
+- peace
+- kiwi
+- approve
+- jealous
+- scare
+- alpha
+bip_39_word_space_1: custom
+bip_39_word_space_10: custom cycle august pact knee treat peace kiwi approve jealous
+bip_39_word_space_11: custom cycle august pact knee treat peace kiwi approve jealous
+  scare
+bip_39_word_space_12: custom cycle august pact knee treat peace kiwi approve jealous
+  scare alpha
+bip_39_word_space_2: custom cycle
+bip_39_word_space_3: custom cycle august
+bip_39_word_space_4: custom cycle august pact
+bip_39_word_space_5: custom cycle august pact knee
+bip_39_word_space_6: custom cycle august pact knee treat
+bip_39_word_space_7: custom cycle august pact knee treat peace
+bip_39_word_space_8: custom cycle august pact knee treat peace kiwi
+bip_39_word_space_9: custom cycle august pact knee treat peace kiwi approve
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

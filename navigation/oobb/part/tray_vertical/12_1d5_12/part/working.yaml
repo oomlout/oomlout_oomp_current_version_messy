@@ -1,3 +1,187 @@
+bip_39_word_new_br1: breeze
+bip_39_word_new_br10: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply<br>half<br>bike<br>protect<br>poem
+bip_39_word_new_br11: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply<br>half<br>bike<br>protect<br>poem<br>impulse
+bip_39_word_new_br12: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply<br>half<br>bike<br>protect<br>poem<br>impulse<br>artefact
+bip_39_word_new_br2: breeze<br>among
+bip_39_word_new_br3: breeze<br>among<br>kingdom
+bip_39_word_new_br4: breeze<br>among<br>kingdom<br>village
+bip_39_word_new_br5: breeze<br>among<br>kingdom<br>village<br>gas
+bip_39_word_new_br6: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply
+bip_39_word_new_br7: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply<br>half
+bip_39_word_new_br8: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply<br>half<br>bike
+bip_39_word_new_br9: breeze<br>among<br>kingdom<br>village<br>gas<br>multiply<br>half<br>bike<br>protect
+bip_39_word_new_line1: breeze
+bip_39_word_new_line10: 'breeze
+
+  among
+
+  kingdom
+
+  village
+
+  gas
+
+  multiply
+
+  half
+
+  bike
+
+  protect
+
+  poem'
+bip_39_word_new_line11: 'breeze
+
+  among
+
+  kingdom
+
+  village
+
+  gas
+
+  multiply
+
+  half
+
+  bike
+
+  protect
+
+  poem
+
+  impulse'
+bip_39_word_new_line12: 'breeze
+
+  among
+
+  kingdom
+
+  village
+
+  gas
+
+  multiply
+
+  half
+
+  bike
+
+  protect
+
+  poem
+
+  impulse
+
+  artefact'
+bip_39_word_new_line2: 'breeze
+
+  among'
+bip_39_word_new_line3: 'breeze
+
+  among
+
+  kingdom'
+bip_39_word_new_line4: 'breeze
+
+  among
+
+  kingdom
+
+  village'
+bip_39_word_new_line5: 'breeze
+
+  among
+
+  kingdom
+
+  village
+
+  gas'
+bip_39_word_new_line6: 'breeze
+
+  among
+
+  kingdom
+
+  village
+
+  gas
+
+  multiply'
+bip_39_word_new_line7: 'breeze
+
+  among
+
+  kingdom
+
+  village
+
+  gas
+
+  multiply
+
+  half'
+bip_39_word_new_line8: 'breeze
+
+  among
+
+  kingdom
+
+  village
+
+  gas
+
+  multiply
+
+  half
+
+  bike'
+bip_39_word_new_line9: 'breeze
+
+  among
+
+  kingdom
+
+  village
+
+  gas
+
+  multiply
+
+  half
+
+  bike
+
+  protect'
+bip_39_word_space_0:
+- breeze
+- among
+- kingdom
+- village
+- gas
+- multiply
+- half
+- bike
+- protect
+- poem
+- impulse
+- artefact
+bip_39_word_space_1: breeze
+bip_39_word_space_10: breeze among kingdom village gas multiply half bike protect
+  poem
+bip_39_word_space_11: breeze among kingdom village gas multiply half bike protect
+  poem impulse
+bip_39_word_space_12: breeze among kingdom village gas multiply half bike protect
+  poem impulse artefact
+bip_39_word_space_2: breeze among
+bip_39_word_space_3: breeze among kingdom
+bip_39_word_space_4: breeze among kingdom village
+bip_39_word_space_5: breeze among kingdom village gas
+bip_39_word_space_6: breeze among kingdom village gas multiply
+bip_39_word_space_7: breeze among kingdom village gas multiply half
+bip_39_word_space_8: breeze among kingdom village gas multiply half bike
+bip_39_word_space_9: breeze among kingdom village gas multiply half bike protect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

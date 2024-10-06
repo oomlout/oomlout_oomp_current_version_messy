@@ -1,3 +1,186 @@
+bip_39_word_new_br1: capable
+bip_39_word_new_br10: capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt
+bip_39_word_new_br11: capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt<br>under
+bip_39_word_new_br12: capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm<br>skirt<br>under<br>attitude
+bip_39_word_new_br2: capable<br>soul
+bip_39_word_new_br3: capable<br>soul<br>special
+bip_39_word_new_br4: capable<br>soul<br>special<br>deposit
+bip_39_word_new_br5: capable<br>soul<br>special<br>deposit<br>expire
+bip_39_word_new_br6: capable<br>soul<br>special<br>deposit<br>expire<br>hint
+bip_39_word_new_br7: capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub
+bip_39_word_new_br8: capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse
+bip_39_word_new_br9: capable<br>soul<br>special<br>deposit<br>expire<br>hint<br>scrub<br>refuse<br>arm
+bip_39_word_new_line1: capable
+bip_39_word_new_line10: 'capable
+
+  soul
+
+  special
+
+  deposit
+
+  expire
+
+  hint
+
+  scrub
+
+  refuse
+
+  arm
+
+  skirt'
+bip_39_word_new_line11: 'capable
+
+  soul
+
+  special
+
+  deposit
+
+  expire
+
+  hint
+
+  scrub
+
+  refuse
+
+  arm
+
+  skirt
+
+  under'
+bip_39_word_new_line12: 'capable
+
+  soul
+
+  special
+
+  deposit
+
+  expire
+
+  hint
+
+  scrub
+
+  refuse
+
+  arm
+
+  skirt
+
+  under
+
+  attitude'
+bip_39_word_new_line2: 'capable
+
+  soul'
+bip_39_word_new_line3: 'capable
+
+  soul
+
+  special'
+bip_39_word_new_line4: 'capable
+
+  soul
+
+  special
+
+  deposit'
+bip_39_word_new_line5: 'capable
+
+  soul
+
+  special
+
+  deposit
+
+  expire'
+bip_39_word_new_line6: 'capable
+
+  soul
+
+  special
+
+  deposit
+
+  expire
+
+  hint'
+bip_39_word_new_line7: 'capable
+
+  soul
+
+  special
+
+  deposit
+
+  expire
+
+  hint
+
+  scrub'
+bip_39_word_new_line8: 'capable
+
+  soul
+
+  special
+
+  deposit
+
+  expire
+
+  hint
+
+  scrub
+
+  refuse'
+bip_39_word_new_line9: 'capable
+
+  soul
+
+  special
+
+  deposit
+
+  expire
+
+  hint
+
+  scrub
+
+  refuse
+
+  arm'
+bip_39_word_space_0:
+- capable
+- soul
+- special
+- deposit
+- expire
+- hint
+- scrub
+- refuse
+- arm
+- skirt
+- under
+- attitude
+bip_39_word_space_1: capable
+bip_39_word_space_10: capable soul special deposit expire hint scrub refuse arm skirt
+bip_39_word_space_11: capable soul special deposit expire hint scrub refuse arm skirt
+  under
+bip_39_word_space_12: capable soul special deposit expire hint scrub refuse arm skirt
+  under attitude
+bip_39_word_space_2: capable soul
+bip_39_word_space_3: capable soul special
+bip_39_word_space_4: capable soul special deposit
+bip_39_word_space_5: capable soul special deposit expire
+bip_39_word_space_6: capable soul special deposit expire hint
+bip_39_word_space_7: capable soul special deposit expire hint scrub
+bip_39_word_space_8: capable soul special deposit expire hint scrub refuse
+bip_39_word_space_9: capable soul special deposit expire hint scrub refuse arm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

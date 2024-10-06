@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: caution remain
+  * bip 39 word 3: caution remain horror
+  * bip 39 word: caution remain horror cat cupboard open flat worth lounge slender check attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | caution |  
+| bip_39_word_new_br10 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender |  
+| bip_39_word_new_br11 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender<br>check |  
+| bip_39_word_new_br12 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge<br>slender<br>check<br>attitude |  
+| bip_39_word_new_br2 | caution<br>remain |  
+| bip_39_word_new_br3 | caution<br>remain<br>horror |  
+| bip_39_word_new_br4 | caution<br>remain<br>horror<br>cat |  
+| bip_39_word_new_br5 | caution<br>remain<br>horror<br>cat<br>cupboard |  
+| bip_39_word_new_br6 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open |  
+| bip_39_word_new_br7 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat |  
+| bip_39_word_new_br8 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth |  
+| bip_39_word_new_br9 | caution<br>remain<br>horror<br>cat<br>cupboard<br>open<br>flat<br>worth<br>lounge |  
+| bip_39_word_new_line1 | caution |  
+| bip_39_word_new_line10 | caution
+remain
+horror
+cat
+cupboard
+open
+flat
+worth
+lounge
+slender |  
+| bip_39_word_new_line11 | caution
+remain
+horror
+cat
+cupboard
+open
+flat
+worth
+lounge
+slender
+check |  
+| bip_39_word_new_line12 | caution
+remain
+horror
+cat
+cupboard
+open
+flat
+worth
+lounge
+slender
+check
+attitude |  
+| bip_39_word_new_line2 | caution
+remain |  
+| bip_39_word_new_line3 | caution
+remain
+horror |  
+| bip_39_word_new_line4 | caution
+remain
+horror
+cat |  
+| bip_39_word_new_line5 | caution
+remain
+horror
+cat
+cupboard |  
+| bip_39_word_new_line6 | caution
+remain
+horror
+cat
+cupboard
+open |  
+| bip_39_word_new_line7 | caution
+remain
+horror
+cat
+cupboard
+open
+flat |  
+| bip_39_word_new_line8 | caution
+remain
+horror
+cat
+cupboard
+open
+flat
+worth |  
+| bip_39_word_new_line9 | caution
+remain
+horror
+cat
+cupboard
+open
+flat
+worth
+lounge |  
+| bip_39_word_space_0 | ['caution', 'remain', 'horror', 'cat', 'cupboard', 'open', 'flat', 'worth', 'lounge', 'slender', 'check', 'attitude'] |  
+| bip_39_word_space_1 | caution |  
+| bip_39_word_space_10 | caution remain horror cat cupboard open flat worth lounge slender |  
+| bip_39_word_space_11 | caution remain horror cat cupboard open flat worth lounge slender check |  
+| bip_39_word_space_12 | caution remain horror cat cupboard open flat worth lounge slender check attitude |  
+| bip_39_word_space_2 | caution remain |  
+| bip_39_word_space_3 | caution remain horror |  
+| bip_39_word_space_4 | caution remain horror cat |  
+| bip_39_word_space_5 | caution remain horror cat cupboard |  
+| bip_39_word_space_6 | caution remain horror cat cupboard open |  
+| bip_39_word_space_7 | caution remain horror cat cupboard open flat |  
+| bip_39_word_space_8 | caution remain horror cat cupboard open flat worth |  
+| bip_39_word_space_9 | caution remain horror cat cupboard open flat worth lounge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

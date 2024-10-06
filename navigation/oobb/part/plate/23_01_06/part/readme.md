@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scissors knee
+  * bip 39 word 3: scissors knee bachelor
+  * bip 39 word: scissors knee bachelor inner saddle repeat dinosaur oyster cherry wage risk alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scissors |  
+| bip_39_word_new_br10 | scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat<br>dinosaur<br>oyster<br>cherry<br>wage |  
+| bip_39_word_new_br11 | scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat<br>dinosaur<br>oyster<br>cherry<br>wage<br>risk |  
+| bip_39_word_new_br12 | scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat<br>dinosaur<br>oyster<br>cherry<br>wage<br>risk<br>alone |  
+| bip_39_word_new_br2 | scissors<br>knee |  
+| bip_39_word_new_br3 | scissors<br>knee<br>bachelor |  
+| bip_39_word_new_br4 | scissors<br>knee<br>bachelor<br>inner |  
+| bip_39_word_new_br5 | scissors<br>knee<br>bachelor<br>inner<br>saddle |  
+| bip_39_word_new_br6 | scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat |  
+| bip_39_word_new_br7 | scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat<br>dinosaur |  
+| bip_39_word_new_br8 | scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat<br>dinosaur<br>oyster |  
+| bip_39_word_new_br9 | scissors<br>knee<br>bachelor<br>inner<br>saddle<br>repeat<br>dinosaur<br>oyster<br>cherry |  
+| bip_39_word_new_line1 | scissors |  
+| bip_39_word_new_line10 | scissors
+knee
+bachelor
+inner
+saddle
+repeat
+dinosaur
+oyster
+cherry
+wage |  
+| bip_39_word_new_line11 | scissors
+knee
+bachelor
+inner
+saddle
+repeat
+dinosaur
+oyster
+cherry
+wage
+risk |  
+| bip_39_word_new_line12 | scissors
+knee
+bachelor
+inner
+saddle
+repeat
+dinosaur
+oyster
+cherry
+wage
+risk
+alone |  
+| bip_39_word_new_line2 | scissors
+knee |  
+| bip_39_word_new_line3 | scissors
+knee
+bachelor |  
+| bip_39_word_new_line4 | scissors
+knee
+bachelor
+inner |  
+| bip_39_word_new_line5 | scissors
+knee
+bachelor
+inner
+saddle |  
+| bip_39_word_new_line6 | scissors
+knee
+bachelor
+inner
+saddle
+repeat |  
+| bip_39_word_new_line7 | scissors
+knee
+bachelor
+inner
+saddle
+repeat
+dinosaur |  
+| bip_39_word_new_line8 | scissors
+knee
+bachelor
+inner
+saddle
+repeat
+dinosaur
+oyster |  
+| bip_39_word_new_line9 | scissors
+knee
+bachelor
+inner
+saddle
+repeat
+dinosaur
+oyster
+cherry |  
+| bip_39_word_space_0 | ['scissors', 'knee', 'bachelor', 'inner', 'saddle', 'repeat', 'dinosaur', 'oyster', 'cherry', 'wage', 'risk', 'alone'] |  
+| bip_39_word_space_1 | scissors |  
+| bip_39_word_space_10 | scissors knee bachelor inner saddle repeat dinosaur oyster cherry wage |  
+| bip_39_word_space_11 | scissors knee bachelor inner saddle repeat dinosaur oyster cherry wage risk |  
+| bip_39_word_space_12 | scissors knee bachelor inner saddle repeat dinosaur oyster cherry wage risk alone |  
+| bip_39_word_space_2 | scissors knee |  
+| bip_39_word_space_3 | scissors knee bachelor |  
+| bip_39_word_space_4 | scissors knee bachelor inner |  
+| bip_39_word_space_5 | scissors knee bachelor inner saddle |  
+| bip_39_word_space_6 | scissors knee bachelor inner saddle repeat |  
+| bip_39_word_space_7 | scissors knee bachelor inner saddle repeat dinosaur |  
+| bip_39_word_space_8 | scissors knee bachelor inner saddle repeat dinosaur oyster |  
+| bip_39_word_space_9 | scissors knee bachelor inner saddle repeat dinosaur oyster cherry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

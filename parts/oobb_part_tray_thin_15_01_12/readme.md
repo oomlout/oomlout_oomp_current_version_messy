@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: visa flight
+  * bip 39 word 3: visa flight bracket
+  * bip 39 word: visa flight bracket universe outdoor cinnamon general route warm chapter master actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | visa |  
+| bip_39_word_new_br10 | visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route<br>warm<br>chapter |  
+| bip_39_word_new_br11 | visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route<br>warm<br>chapter<br>master |  
+| bip_39_word_new_br12 | visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route<br>warm<br>chapter<br>master<br>actor |  
+| bip_39_word_new_br2 | visa<br>flight |  
+| bip_39_word_new_br3 | visa<br>flight<br>bracket |  
+| bip_39_word_new_br4 | visa<br>flight<br>bracket<br>universe |  
+| bip_39_word_new_br5 | visa<br>flight<br>bracket<br>universe<br>outdoor |  
+| bip_39_word_new_br6 | visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon |  
+| bip_39_word_new_br7 | visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general |  
+| bip_39_word_new_br8 | visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route |  
+| bip_39_word_new_br9 | visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route<br>warm |  
+| bip_39_word_new_line1 | visa |  
+| bip_39_word_new_line10 | visa
+flight
+bracket
+universe
+outdoor
+cinnamon
+general
+route
+warm
+chapter |  
+| bip_39_word_new_line11 | visa
+flight
+bracket
+universe
+outdoor
+cinnamon
+general
+route
+warm
+chapter
+master |  
+| bip_39_word_new_line12 | visa
+flight
+bracket
+universe
+outdoor
+cinnamon
+general
+route
+warm
+chapter
+master
+actor |  
+| bip_39_word_new_line2 | visa
+flight |  
+| bip_39_word_new_line3 | visa
+flight
+bracket |  
+| bip_39_word_new_line4 | visa
+flight
+bracket
+universe |  
+| bip_39_word_new_line5 | visa
+flight
+bracket
+universe
+outdoor |  
+| bip_39_word_new_line6 | visa
+flight
+bracket
+universe
+outdoor
+cinnamon |  
+| bip_39_word_new_line7 | visa
+flight
+bracket
+universe
+outdoor
+cinnamon
+general |  
+| bip_39_word_new_line8 | visa
+flight
+bracket
+universe
+outdoor
+cinnamon
+general
+route |  
+| bip_39_word_new_line9 | visa
+flight
+bracket
+universe
+outdoor
+cinnamon
+general
+route
+warm |  
+| bip_39_word_space_0 | ['visa', 'flight', 'bracket', 'universe', 'outdoor', 'cinnamon', 'general', 'route', 'warm', 'chapter', 'master', 'actor'] |  
+| bip_39_word_space_1 | visa |  
+| bip_39_word_space_10 | visa flight bracket universe outdoor cinnamon general route warm chapter |  
+| bip_39_word_space_11 | visa flight bracket universe outdoor cinnamon general route warm chapter master |  
+| bip_39_word_space_12 | visa flight bracket universe outdoor cinnamon general route warm chapter master actor |  
+| bip_39_word_space_2 | visa flight |  
+| bip_39_word_space_3 | visa flight bracket |  
+| bip_39_word_space_4 | visa flight bracket universe |  
+| bip_39_word_space_5 | visa flight bracket universe outdoor |  
+| bip_39_word_space_6 | visa flight bracket universe outdoor cinnamon |  
+| bip_39_word_space_7 | visa flight bracket universe outdoor cinnamon general |  
+| bip_39_word_space_8 | visa flight bracket universe outdoor cinnamon general route |  
+| bip_39_word_space_9 | visa flight bracket universe outdoor cinnamon general route warm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

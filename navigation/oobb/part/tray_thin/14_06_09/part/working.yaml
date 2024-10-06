@@ -1,3 +1,187 @@
+bip_39_word_new_br1: husband
+bip_39_word_new_br10: husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain<br>rug<br>approve<br>beauty<br>balance
+bip_39_word_new_br11: husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain<br>rug<br>approve<br>beauty<br>balance<br>illegal
+bip_39_word_new_br12: husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain<br>rug<br>approve<br>beauty<br>balance<br>illegal<br>access
+bip_39_word_new_br2: husband<br>sing
+bip_39_word_new_br3: husband<br>sing<br>sustain
+bip_39_word_new_br4: husband<br>sing<br>sustain<br>actual
+bip_39_word_new_br5: husband<br>sing<br>sustain<br>actual<br>bonus
+bip_39_word_new_br6: husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain
+bip_39_word_new_br7: husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain<br>rug
+bip_39_word_new_br8: husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain<br>rug<br>approve
+bip_39_word_new_br9: husband<br>sing<br>sustain<br>actual<br>bonus<br>bargain<br>rug<br>approve<br>beauty
+bip_39_word_new_line1: husband
+bip_39_word_new_line10: 'husband
+
+  sing
+
+  sustain
+
+  actual
+
+  bonus
+
+  bargain
+
+  rug
+
+  approve
+
+  beauty
+
+  balance'
+bip_39_word_new_line11: 'husband
+
+  sing
+
+  sustain
+
+  actual
+
+  bonus
+
+  bargain
+
+  rug
+
+  approve
+
+  beauty
+
+  balance
+
+  illegal'
+bip_39_word_new_line12: 'husband
+
+  sing
+
+  sustain
+
+  actual
+
+  bonus
+
+  bargain
+
+  rug
+
+  approve
+
+  beauty
+
+  balance
+
+  illegal
+
+  access'
+bip_39_word_new_line2: 'husband
+
+  sing'
+bip_39_word_new_line3: 'husband
+
+  sing
+
+  sustain'
+bip_39_word_new_line4: 'husband
+
+  sing
+
+  sustain
+
+  actual'
+bip_39_word_new_line5: 'husband
+
+  sing
+
+  sustain
+
+  actual
+
+  bonus'
+bip_39_word_new_line6: 'husband
+
+  sing
+
+  sustain
+
+  actual
+
+  bonus
+
+  bargain'
+bip_39_word_new_line7: 'husband
+
+  sing
+
+  sustain
+
+  actual
+
+  bonus
+
+  bargain
+
+  rug'
+bip_39_word_new_line8: 'husband
+
+  sing
+
+  sustain
+
+  actual
+
+  bonus
+
+  bargain
+
+  rug
+
+  approve'
+bip_39_word_new_line9: 'husband
+
+  sing
+
+  sustain
+
+  actual
+
+  bonus
+
+  bargain
+
+  rug
+
+  approve
+
+  beauty'
+bip_39_word_space_0:
+- husband
+- sing
+- sustain
+- actual
+- bonus
+- bargain
+- rug
+- approve
+- beauty
+- balance
+- illegal
+- access
+bip_39_word_space_1: husband
+bip_39_word_space_10: husband sing sustain actual bonus bargain rug approve beauty
+  balance
+bip_39_word_space_11: husband sing sustain actual bonus bargain rug approve beauty
+  balance illegal
+bip_39_word_space_12: husband sing sustain actual bonus bargain rug approve beauty
+  balance illegal access
+bip_39_word_space_2: husband sing
+bip_39_word_space_3: husband sing sustain
+bip_39_word_space_4: husband sing sustain actual
+bip_39_word_space_5: husband sing sustain actual bonus
+bip_39_word_space_6: husband sing sustain actual bonus bargain
+bip_39_word_space_7: husband sing sustain actual bonus bargain rug
+bip_39_word_space_8: husband sing sustain actual bonus bargain rug approve
+bip_39_word_space_9: husband sing sustain actual bonus bargain rug approve beauty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

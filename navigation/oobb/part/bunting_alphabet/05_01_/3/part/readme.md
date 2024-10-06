@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: olive stadium
+  * bip 39 word 3: olive stadium chronic
+  * bip 39 word: olive stadium chronic neither foil treat shop shift evidence possible case alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | olive |  
+| bip_39_word_new_br10 | olive<br>stadium<br>chronic<br>neither<br>foil<br>treat<br>shop<br>shift<br>evidence<br>possible |  
+| bip_39_word_new_br11 | olive<br>stadium<br>chronic<br>neither<br>foil<br>treat<br>shop<br>shift<br>evidence<br>possible<br>case |  
+| bip_39_word_new_br12 | olive<br>stadium<br>chronic<br>neither<br>foil<br>treat<br>shop<br>shift<br>evidence<br>possible<br>case<br>alone |  
+| bip_39_word_new_br2 | olive<br>stadium |  
+| bip_39_word_new_br3 | olive<br>stadium<br>chronic |  
+| bip_39_word_new_br4 | olive<br>stadium<br>chronic<br>neither |  
+| bip_39_word_new_br5 | olive<br>stadium<br>chronic<br>neither<br>foil |  
+| bip_39_word_new_br6 | olive<br>stadium<br>chronic<br>neither<br>foil<br>treat |  
+| bip_39_word_new_br7 | olive<br>stadium<br>chronic<br>neither<br>foil<br>treat<br>shop |  
+| bip_39_word_new_br8 | olive<br>stadium<br>chronic<br>neither<br>foil<br>treat<br>shop<br>shift |  
+| bip_39_word_new_br9 | olive<br>stadium<br>chronic<br>neither<br>foil<br>treat<br>shop<br>shift<br>evidence |  
+| bip_39_word_new_line1 | olive |  
+| bip_39_word_new_line10 | olive
+stadium
+chronic
+neither
+foil
+treat
+shop
+shift
+evidence
+possible |  
+| bip_39_word_new_line11 | olive
+stadium
+chronic
+neither
+foil
+treat
+shop
+shift
+evidence
+possible
+case |  
+| bip_39_word_new_line12 | olive
+stadium
+chronic
+neither
+foil
+treat
+shop
+shift
+evidence
+possible
+case
+alone |  
+| bip_39_word_new_line2 | olive
+stadium |  
+| bip_39_word_new_line3 | olive
+stadium
+chronic |  
+| bip_39_word_new_line4 | olive
+stadium
+chronic
+neither |  
+| bip_39_word_new_line5 | olive
+stadium
+chronic
+neither
+foil |  
+| bip_39_word_new_line6 | olive
+stadium
+chronic
+neither
+foil
+treat |  
+| bip_39_word_new_line7 | olive
+stadium
+chronic
+neither
+foil
+treat
+shop |  
+| bip_39_word_new_line8 | olive
+stadium
+chronic
+neither
+foil
+treat
+shop
+shift |  
+| bip_39_word_new_line9 | olive
+stadium
+chronic
+neither
+foil
+treat
+shop
+shift
+evidence |  
+| bip_39_word_space_0 | ['olive', 'stadium', 'chronic', 'neither', 'foil', 'treat', 'shop', 'shift', 'evidence', 'possible', 'case', 'alone'] |  
+| bip_39_word_space_1 | olive |  
+| bip_39_word_space_10 | olive stadium chronic neither foil treat shop shift evidence possible |  
+| bip_39_word_space_11 | olive stadium chronic neither foil treat shop shift evidence possible case |  
+| bip_39_word_space_12 | olive stadium chronic neither foil treat shop shift evidence possible case alone |  
+| bip_39_word_space_2 | olive stadium |  
+| bip_39_word_space_3 | olive stadium chronic |  
+| bip_39_word_space_4 | olive stadium chronic neither |  
+| bip_39_word_space_5 | olive stadium chronic neither foil |  
+| bip_39_word_space_6 | olive stadium chronic neither foil treat |  
+| bip_39_word_space_7 | olive stadium chronic neither foil treat shop |  
+| bip_39_word_space_8 | olive stadium chronic neither foil treat shop shift |  
+| bip_39_word_space_9 | olive stadium chronic neither foil treat shop shift evidence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

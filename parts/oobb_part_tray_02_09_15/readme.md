@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: color trash
+  * bip 39 word 3: color trash motor
+  * bip 39 word: color trash motor example boost lobster action lady wait render sail amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | color |  
+| bip_39_word_new_br10 | color<br>trash<br>motor<br>example<br>boost<br>lobster<br>action<br>lady<br>wait<br>render |  
+| bip_39_word_new_br11 | color<br>trash<br>motor<br>example<br>boost<br>lobster<br>action<br>lady<br>wait<br>render<br>sail |  
+| bip_39_word_new_br12 | color<br>trash<br>motor<br>example<br>boost<br>lobster<br>action<br>lady<br>wait<br>render<br>sail<br>amount |  
+| bip_39_word_new_br2 | color<br>trash |  
+| bip_39_word_new_br3 | color<br>trash<br>motor |  
+| bip_39_word_new_br4 | color<br>trash<br>motor<br>example |  
+| bip_39_word_new_br5 | color<br>trash<br>motor<br>example<br>boost |  
+| bip_39_word_new_br6 | color<br>trash<br>motor<br>example<br>boost<br>lobster |  
+| bip_39_word_new_br7 | color<br>trash<br>motor<br>example<br>boost<br>lobster<br>action |  
+| bip_39_word_new_br8 | color<br>trash<br>motor<br>example<br>boost<br>lobster<br>action<br>lady |  
+| bip_39_word_new_br9 | color<br>trash<br>motor<br>example<br>boost<br>lobster<br>action<br>lady<br>wait |  
+| bip_39_word_new_line1 | color |  
+| bip_39_word_new_line10 | color
+trash
+motor
+example
+boost
+lobster
+action
+lady
+wait
+render |  
+| bip_39_word_new_line11 | color
+trash
+motor
+example
+boost
+lobster
+action
+lady
+wait
+render
+sail |  
+| bip_39_word_new_line12 | color
+trash
+motor
+example
+boost
+lobster
+action
+lady
+wait
+render
+sail
+amount |  
+| bip_39_word_new_line2 | color
+trash |  
+| bip_39_word_new_line3 | color
+trash
+motor |  
+| bip_39_word_new_line4 | color
+trash
+motor
+example |  
+| bip_39_word_new_line5 | color
+trash
+motor
+example
+boost |  
+| bip_39_word_new_line6 | color
+trash
+motor
+example
+boost
+lobster |  
+| bip_39_word_new_line7 | color
+trash
+motor
+example
+boost
+lobster
+action |  
+| bip_39_word_new_line8 | color
+trash
+motor
+example
+boost
+lobster
+action
+lady |  
+| bip_39_word_new_line9 | color
+trash
+motor
+example
+boost
+lobster
+action
+lady
+wait |  
+| bip_39_word_space_0 | ['color', 'trash', 'motor', 'example', 'boost', 'lobster', 'action', 'lady', 'wait', 'render', 'sail', 'amount'] |  
+| bip_39_word_space_1 | color |  
+| bip_39_word_space_10 | color trash motor example boost lobster action lady wait render |  
+| bip_39_word_space_11 | color trash motor example boost lobster action lady wait render sail |  
+| bip_39_word_space_12 | color trash motor example boost lobster action lady wait render sail amount |  
+| bip_39_word_space_2 | color trash |  
+| bip_39_word_space_3 | color trash motor |  
+| bip_39_word_space_4 | color trash motor example |  
+| bip_39_word_space_5 | color trash motor example boost |  
+| bip_39_word_space_6 | color trash motor example boost lobster |  
+| bip_39_word_space_7 | color trash motor example boost lobster action |  
+| bip_39_word_space_8 | color trash motor example boost lobster action lady |  
+| bip_39_word_space_9 | color trash motor example boost lobster action lady wait |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

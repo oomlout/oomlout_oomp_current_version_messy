@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: access fuel
+  * bip 39 word 3: access fuel private
+  * bip 39 word: access fuel private hand boost soda issue multiply digital wall cake auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | access |  
+| bip_39_word_new_br10 | access<br>fuel<br>private<br>hand<br>boost<br>soda<br>issue<br>multiply<br>digital<br>wall |  
+| bip_39_word_new_br11 | access<br>fuel<br>private<br>hand<br>boost<br>soda<br>issue<br>multiply<br>digital<br>wall<br>cake |  
+| bip_39_word_new_br12 | access<br>fuel<br>private<br>hand<br>boost<br>soda<br>issue<br>multiply<br>digital<br>wall<br>cake<br>auction |  
+| bip_39_word_new_br2 | access<br>fuel |  
+| bip_39_word_new_br3 | access<br>fuel<br>private |  
+| bip_39_word_new_br4 | access<br>fuel<br>private<br>hand |  
+| bip_39_word_new_br5 | access<br>fuel<br>private<br>hand<br>boost |  
+| bip_39_word_new_br6 | access<br>fuel<br>private<br>hand<br>boost<br>soda |  
+| bip_39_word_new_br7 | access<br>fuel<br>private<br>hand<br>boost<br>soda<br>issue |  
+| bip_39_word_new_br8 | access<br>fuel<br>private<br>hand<br>boost<br>soda<br>issue<br>multiply |  
+| bip_39_word_new_br9 | access<br>fuel<br>private<br>hand<br>boost<br>soda<br>issue<br>multiply<br>digital |  
+| bip_39_word_new_line1 | access |  
+| bip_39_word_new_line10 | access
+fuel
+private
+hand
+boost
+soda
+issue
+multiply
+digital
+wall |  
+| bip_39_word_new_line11 | access
+fuel
+private
+hand
+boost
+soda
+issue
+multiply
+digital
+wall
+cake |  
+| bip_39_word_new_line12 | access
+fuel
+private
+hand
+boost
+soda
+issue
+multiply
+digital
+wall
+cake
+auction |  
+| bip_39_word_new_line2 | access
+fuel |  
+| bip_39_word_new_line3 | access
+fuel
+private |  
+| bip_39_word_new_line4 | access
+fuel
+private
+hand |  
+| bip_39_word_new_line5 | access
+fuel
+private
+hand
+boost |  
+| bip_39_word_new_line6 | access
+fuel
+private
+hand
+boost
+soda |  
+| bip_39_word_new_line7 | access
+fuel
+private
+hand
+boost
+soda
+issue |  
+| bip_39_word_new_line8 | access
+fuel
+private
+hand
+boost
+soda
+issue
+multiply |  
+| bip_39_word_new_line9 | access
+fuel
+private
+hand
+boost
+soda
+issue
+multiply
+digital |  
+| bip_39_word_space_0 | ['access', 'fuel', 'private', 'hand', 'boost', 'soda', 'issue', 'multiply', 'digital', 'wall', 'cake', 'auction'] |  
+| bip_39_word_space_1 | access |  
+| bip_39_word_space_10 | access fuel private hand boost soda issue multiply digital wall |  
+| bip_39_word_space_11 | access fuel private hand boost soda issue multiply digital wall cake |  
+| bip_39_word_space_12 | access fuel private hand boost soda issue multiply digital wall cake auction |  
+| bip_39_word_space_2 | access fuel |  
+| bip_39_word_space_3 | access fuel private |  
+| bip_39_word_space_4 | access fuel private hand |  
+| bip_39_word_space_5 | access fuel private hand boost |  
+| bip_39_word_space_6 | access fuel private hand boost soda |  
+| bip_39_word_space_7 | access fuel private hand boost soda issue |  
+| bip_39_word_space_8 | access fuel private hand boost soda issue multiply |  
+| bip_39_word_space_9 | access fuel private hand boost soda issue multiply digital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

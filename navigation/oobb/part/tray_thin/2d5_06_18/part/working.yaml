@@ -1,3 +1,159 @@
+bip_39_word_new_br1: whip
+bip_39_word_new_br10: whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe<br>early
+bip_39_word_new_br11: whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe<br>early<br>ridge
+bip_39_word_new_br2: whip<br>stone
+bip_39_word_new_br3: whip<br>stone<br>grocery
+bip_39_word_new_br4: whip<br>stone<br>grocery<br>tiny
+bip_39_word_new_br5: whip<br>stone<br>grocery<br>tiny<br>course
+bip_39_word_new_br6: whip<br>stone<br>grocery<br>tiny<br>course<br>boring
+bip_39_word_new_br7: whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm
+bip_39_word_new_br8: whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert
+bip_39_word_new_br9: whip<br>stone<br>grocery<br>tiny<br>course<br>boring<br>arm<br>desert<br>shoe
+bip_39_word_new_line1: whip
+bip_39_word_new_line10: 'whip
+
+  stone
+
+  grocery
+
+  tiny
+
+  course
+
+  boring
+
+  arm
+
+  desert
+
+  shoe
+
+  early'
+bip_39_word_new_line11: 'whip
+
+  stone
+
+  grocery
+
+  tiny
+
+  course
+
+  boring
+
+  arm
+
+  desert
+
+  shoe
+
+  early
+
+  ridge'
+bip_39_word_new_line2: 'whip
+
+  stone'
+bip_39_word_new_line3: 'whip
+
+  stone
+
+  grocery'
+bip_39_word_new_line4: 'whip
+
+  stone
+
+  grocery
+
+  tiny'
+bip_39_word_new_line5: 'whip
+
+  stone
+
+  grocery
+
+  tiny
+
+  course'
+bip_39_word_new_line6: 'whip
+
+  stone
+
+  grocery
+
+  tiny
+
+  course
+
+  boring'
+bip_39_word_new_line7: 'whip
+
+  stone
+
+  grocery
+
+  tiny
+
+  course
+
+  boring
+
+  arm'
+bip_39_word_new_line8: 'whip
+
+  stone
+
+  grocery
+
+  tiny
+
+  course
+
+  boring
+
+  arm
+
+  desert'
+bip_39_word_new_line9: 'whip
+
+  stone
+
+  grocery
+
+  tiny
+
+  course
+
+  boring
+
+  arm
+
+  desert
+
+  shoe'
+bip_39_word_space_0:
+- whip
+- stone
+- grocery
+- tiny
+- course
+- boring
+- arm
+- desert
+- shoe
+- early
+- ridge
+bip_39_word_space_1: whip
+bip_39_word_space_10: whip stone grocery tiny course boring arm desert shoe early
+bip_39_word_space_11: whip stone grocery tiny course boring arm desert shoe early
+  ridge
+bip_39_word_space_2: whip stone
+bip_39_word_space_3: whip stone grocery
+bip_39_word_space_4: whip stone grocery tiny
+bip_39_word_space_5: whip stone grocery tiny course
+bip_39_word_space_6: whip stone grocery tiny course boring
+bip_39_word_space_7: whip stone grocery tiny course boring arm
+bip_39_word_space_8: whip stone grocery tiny course boring arm desert
+bip_39_word_space_9: whip stone grocery tiny course boring arm desert shoe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

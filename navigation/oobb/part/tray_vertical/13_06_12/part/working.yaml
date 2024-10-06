@@ -1,3 +1,186 @@
+bip_39_word_new_br1: visa
+bip_39_word_new_br10: visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious
+bip_39_word_new_br11: visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious<br>spider
+bip_39_word_new_br12: visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy<br>vicious<br>spider<br>address
+bip_39_word_new_br2: visa<br>paddle
+bip_39_word_new_br3: visa<br>paddle<br>explain
+bip_39_word_new_br4: visa<br>paddle<br>explain<br>ski
+bip_39_word_new_br5: visa<br>paddle<br>explain<br>ski<br>twin
+bip_39_word_new_br6: visa<br>paddle<br>explain<br>ski<br>twin<br>actual
+bip_39_word_new_br7: visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense
+bip_39_word_new_br8: visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void
+bip_39_word_new_br9: visa<br>paddle<br>explain<br>ski<br>twin<br>actual<br>sense<br>void<br>dizzy
+bip_39_word_new_line1: visa
+bip_39_word_new_line10: 'visa
+
+  paddle
+
+  explain
+
+  ski
+
+  twin
+
+  actual
+
+  sense
+
+  void
+
+  dizzy
+
+  vicious'
+bip_39_word_new_line11: 'visa
+
+  paddle
+
+  explain
+
+  ski
+
+  twin
+
+  actual
+
+  sense
+
+  void
+
+  dizzy
+
+  vicious
+
+  spider'
+bip_39_word_new_line12: 'visa
+
+  paddle
+
+  explain
+
+  ski
+
+  twin
+
+  actual
+
+  sense
+
+  void
+
+  dizzy
+
+  vicious
+
+  spider
+
+  address'
+bip_39_word_new_line2: 'visa
+
+  paddle'
+bip_39_word_new_line3: 'visa
+
+  paddle
+
+  explain'
+bip_39_word_new_line4: 'visa
+
+  paddle
+
+  explain
+
+  ski'
+bip_39_word_new_line5: 'visa
+
+  paddle
+
+  explain
+
+  ski
+
+  twin'
+bip_39_word_new_line6: 'visa
+
+  paddle
+
+  explain
+
+  ski
+
+  twin
+
+  actual'
+bip_39_word_new_line7: 'visa
+
+  paddle
+
+  explain
+
+  ski
+
+  twin
+
+  actual
+
+  sense'
+bip_39_word_new_line8: 'visa
+
+  paddle
+
+  explain
+
+  ski
+
+  twin
+
+  actual
+
+  sense
+
+  void'
+bip_39_word_new_line9: 'visa
+
+  paddle
+
+  explain
+
+  ski
+
+  twin
+
+  actual
+
+  sense
+
+  void
+
+  dizzy'
+bip_39_word_space_0:
+- visa
+- paddle
+- explain
+- ski
+- twin
+- actual
+- sense
+- void
+- dizzy
+- vicious
+- spider
+- address
+bip_39_word_space_1: visa
+bip_39_word_space_10: visa paddle explain ski twin actual sense void dizzy vicious
+bip_39_word_space_11: visa paddle explain ski twin actual sense void dizzy vicious
+  spider
+bip_39_word_space_12: visa paddle explain ski twin actual sense void dizzy vicious
+  spider address
+bip_39_word_space_2: visa paddle
+bip_39_word_space_3: visa paddle explain
+bip_39_word_space_4: visa paddle explain ski
+bip_39_word_space_5: visa paddle explain ski twin
+bip_39_word_space_6: visa paddle explain ski twin actual
+bip_39_word_space_7: visa paddle explain ski twin actual sense
+bip_39_word_space_8: visa paddle explain ski twin actual sense void
+bip_39_word_space_9: visa paddle explain ski twin actual sense void dizzy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

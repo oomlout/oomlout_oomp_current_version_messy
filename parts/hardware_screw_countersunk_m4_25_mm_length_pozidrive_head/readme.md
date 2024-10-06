@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: police creek
+  * bip 39 word 3: police creek differ
+  * bip 39 word: police creek differ plug injury manage arrow giraffe snap battle plunge adapt
 
 ### other_codes
 * short_code: cs4m25pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | police |  
+| bip_39_word_new_br10 | police<br>creek<br>differ<br>plug<br>injury<br>manage<br>arrow<br>giraffe<br>snap<br>battle |  
+| bip_39_word_new_br11 | police<br>creek<br>differ<br>plug<br>injury<br>manage<br>arrow<br>giraffe<br>snap<br>battle<br>plunge |  
+| bip_39_word_new_br12 | police<br>creek<br>differ<br>plug<br>injury<br>manage<br>arrow<br>giraffe<br>snap<br>battle<br>plunge<br>adapt |  
+| bip_39_word_new_br2 | police<br>creek |  
+| bip_39_word_new_br3 | police<br>creek<br>differ |  
+| bip_39_word_new_br4 | police<br>creek<br>differ<br>plug |  
+| bip_39_word_new_br5 | police<br>creek<br>differ<br>plug<br>injury |  
+| bip_39_word_new_br6 | police<br>creek<br>differ<br>plug<br>injury<br>manage |  
+| bip_39_word_new_br7 | police<br>creek<br>differ<br>plug<br>injury<br>manage<br>arrow |  
+| bip_39_word_new_br8 | police<br>creek<br>differ<br>plug<br>injury<br>manage<br>arrow<br>giraffe |  
+| bip_39_word_new_br9 | police<br>creek<br>differ<br>plug<br>injury<br>manage<br>arrow<br>giraffe<br>snap |  
+| bip_39_word_new_line1 | police |  
+| bip_39_word_new_line10 | police
+creek
+differ
+plug
+injury
+manage
+arrow
+giraffe
+snap
+battle |  
+| bip_39_word_new_line11 | police
+creek
+differ
+plug
+injury
+manage
+arrow
+giraffe
+snap
+battle
+plunge |  
+| bip_39_word_new_line12 | police
+creek
+differ
+plug
+injury
+manage
+arrow
+giraffe
+snap
+battle
+plunge
+adapt |  
+| bip_39_word_new_line2 | police
+creek |  
+| bip_39_word_new_line3 | police
+creek
+differ |  
+| bip_39_word_new_line4 | police
+creek
+differ
+plug |  
+| bip_39_word_new_line5 | police
+creek
+differ
+plug
+injury |  
+| bip_39_word_new_line6 | police
+creek
+differ
+plug
+injury
+manage |  
+| bip_39_word_new_line7 | police
+creek
+differ
+plug
+injury
+manage
+arrow |  
+| bip_39_word_new_line8 | police
+creek
+differ
+plug
+injury
+manage
+arrow
+giraffe |  
+| bip_39_word_new_line9 | police
+creek
+differ
+plug
+injury
+manage
+arrow
+giraffe
+snap |  
+| bip_39_word_space_0 | ['police', 'creek', 'differ', 'plug', 'injury', 'manage', 'arrow', 'giraffe', 'snap', 'battle', 'plunge', 'adapt'] |  
+| bip_39_word_space_1 | police |  
+| bip_39_word_space_10 | police creek differ plug injury manage arrow giraffe snap battle |  
+| bip_39_word_space_11 | police creek differ plug injury manage arrow giraffe snap battle plunge |  
+| bip_39_word_space_12 | police creek differ plug injury manage arrow giraffe snap battle plunge adapt |  
+| bip_39_word_space_2 | police creek |  
+| bip_39_word_space_3 | police creek differ |  
+| bip_39_word_space_4 | police creek differ plug |  
+| bip_39_word_space_5 | police creek differ plug injury |  
+| bip_39_word_space_6 | police creek differ plug injury manage |  
+| bip_39_word_space_7 | police creek differ plug injury manage arrow |  
+| bip_39_word_space_8 | police creek differ plug injury manage arrow giraffe |  
+| bip_39_word_space_9 | police creek differ plug injury manage arrow giraffe snap |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

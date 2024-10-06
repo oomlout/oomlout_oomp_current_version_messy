@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: y
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: obvious time
+  * bip 39 word 3: obvious time vast
+  * bip 39 word: obvious time vast rapid tonight payment hover dust knife snack clap ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | obvious |  
+| bip_39_word_new_br10 | obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust<br>knife<br>snack |  
+| bip_39_word_new_br11 | obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust<br>knife<br>snack<br>clap |  
+| bip_39_word_new_br12 | obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust<br>knife<br>snack<br>clap<br>ahead |  
+| bip_39_word_new_br2 | obvious<br>time |  
+| bip_39_word_new_br3 | obvious<br>time<br>vast |  
+| bip_39_word_new_br4 | obvious<br>time<br>vast<br>rapid |  
+| bip_39_word_new_br5 | obvious<br>time<br>vast<br>rapid<br>tonight |  
+| bip_39_word_new_br6 | obvious<br>time<br>vast<br>rapid<br>tonight<br>payment |  
+| bip_39_word_new_br7 | obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover |  
+| bip_39_word_new_br8 | obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust |  
+| bip_39_word_new_br9 | obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust<br>knife |  
+| bip_39_word_new_line1 | obvious |  
+| bip_39_word_new_line10 | obvious
+time
+vast
+rapid
+tonight
+payment
+hover
+dust
+knife
+snack |  
+| bip_39_word_new_line11 | obvious
+time
+vast
+rapid
+tonight
+payment
+hover
+dust
+knife
+snack
+clap |  
+| bip_39_word_new_line12 | obvious
+time
+vast
+rapid
+tonight
+payment
+hover
+dust
+knife
+snack
+clap
+ahead |  
+| bip_39_word_new_line2 | obvious
+time |  
+| bip_39_word_new_line3 | obvious
+time
+vast |  
+| bip_39_word_new_line4 | obvious
+time
+vast
+rapid |  
+| bip_39_word_new_line5 | obvious
+time
+vast
+rapid
+tonight |  
+| bip_39_word_new_line6 | obvious
+time
+vast
+rapid
+tonight
+payment |  
+| bip_39_word_new_line7 | obvious
+time
+vast
+rapid
+tonight
+payment
+hover |  
+| bip_39_word_new_line8 | obvious
+time
+vast
+rapid
+tonight
+payment
+hover
+dust |  
+| bip_39_word_new_line9 | obvious
+time
+vast
+rapid
+tonight
+payment
+hover
+dust
+knife |  
+| bip_39_word_space_0 | ['obvious', 'time', 'vast', 'rapid', 'tonight', 'payment', 'hover', 'dust', 'knife', 'snack', 'clap', 'ahead'] |  
+| bip_39_word_space_1 | obvious |  
+| bip_39_word_space_10 | obvious time vast rapid tonight payment hover dust knife snack |  
+| bip_39_word_space_11 | obvious time vast rapid tonight payment hover dust knife snack clap |  
+| bip_39_word_space_12 | obvious time vast rapid tonight payment hover dust knife snack clap ahead |  
+| bip_39_word_space_2 | obvious time |  
+| bip_39_word_space_3 | obvious time vast |  
+| bip_39_word_space_4 | obvious time vast rapid |  
+| bip_39_word_space_5 | obvious time vast rapid tonight |  
+| bip_39_word_space_6 | obvious time vast rapid tonight payment |  
+| bip_39_word_space_7 | obvious time vast rapid tonight payment hover |  
+| bip_39_word_space_8 | obvious time vast rapid tonight payment hover dust |  
+| bip_39_word_space_9 | obvious time vast rapid tonight payment hover dust knife |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

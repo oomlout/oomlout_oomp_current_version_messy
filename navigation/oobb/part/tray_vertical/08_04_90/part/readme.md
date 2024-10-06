@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mango pact
+  * bip 39 word 3: mango pact nice
+  * bip 39 word: mango pact nice west can pill scrub old tuna athlete relax armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mango |  
+| bip_39_word_new_br10 | mango<br>pact<br>nice<br>west<br>can<br>pill<br>scrub<br>old<br>tuna<br>athlete |  
+| bip_39_word_new_br11 | mango<br>pact<br>nice<br>west<br>can<br>pill<br>scrub<br>old<br>tuna<br>athlete<br>relax |  
+| bip_39_word_new_br12 | mango<br>pact<br>nice<br>west<br>can<br>pill<br>scrub<br>old<br>tuna<br>athlete<br>relax<br>armed |  
+| bip_39_word_new_br2 | mango<br>pact |  
+| bip_39_word_new_br3 | mango<br>pact<br>nice |  
+| bip_39_word_new_br4 | mango<br>pact<br>nice<br>west |  
+| bip_39_word_new_br5 | mango<br>pact<br>nice<br>west<br>can |  
+| bip_39_word_new_br6 | mango<br>pact<br>nice<br>west<br>can<br>pill |  
+| bip_39_word_new_br7 | mango<br>pact<br>nice<br>west<br>can<br>pill<br>scrub |  
+| bip_39_word_new_br8 | mango<br>pact<br>nice<br>west<br>can<br>pill<br>scrub<br>old |  
+| bip_39_word_new_br9 | mango<br>pact<br>nice<br>west<br>can<br>pill<br>scrub<br>old<br>tuna |  
+| bip_39_word_new_line1 | mango |  
+| bip_39_word_new_line10 | mango
+pact
+nice
+west
+can
+pill
+scrub
+old
+tuna
+athlete |  
+| bip_39_word_new_line11 | mango
+pact
+nice
+west
+can
+pill
+scrub
+old
+tuna
+athlete
+relax |  
+| bip_39_word_new_line12 | mango
+pact
+nice
+west
+can
+pill
+scrub
+old
+tuna
+athlete
+relax
+armed |  
+| bip_39_word_new_line2 | mango
+pact |  
+| bip_39_word_new_line3 | mango
+pact
+nice |  
+| bip_39_word_new_line4 | mango
+pact
+nice
+west |  
+| bip_39_word_new_line5 | mango
+pact
+nice
+west
+can |  
+| bip_39_word_new_line6 | mango
+pact
+nice
+west
+can
+pill |  
+| bip_39_word_new_line7 | mango
+pact
+nice
+west
+can
+pill
+scrub |  
+| bip_39_word_new_line8 | mango
+pact
+nice
+west
+can
+pill
+scrub
+old |  
+| bip_39_word_new_line9 | mango
+pact
+nice
+west
+can
+pill
+scrub
+old
+tuna |  
+| bip_39_word_space_0 | ['mango', 'pact', 'nice', 'west', 'can', 'pill', 'scrub', 'old', 'tuna', 'athlete', 'relax', 'armed'] |  
+| bip_39_word_space_1 | mango |  
+| bip_39_word_space_10 | mango pact nice west can pill scrub old tuna athlete |  
+| bip_39_word_space_11 | mango pact nice west can pill scrub old tuna athlete relax |  
+| bip_39_word_space_12 | mango pact nice west can pill scrub old tuna athlete relax armed |  
+| bip_39_word_space_2 | mango pact |  
+| bip_39_word_space_3 | mango pact nice |  
+| bip_39_word_space_4 | mango pact nice west |  
+| bip_39_word_space_5 | mango pact nice west can |  
+| bip_39_word_space_6 | mango pact nice west can pill |  
+| bip_39_word_space_7 | mango pact nice west can pill scrub |  
+| bip_39_word_space_8 | mango pact nice west can pill scrub old |  
+| bip_39_word_space_9 | mango pact nice west can pill scrub old tuna |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

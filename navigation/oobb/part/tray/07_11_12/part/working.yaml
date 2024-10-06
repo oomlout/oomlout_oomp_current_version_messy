@@ -1,3 +1,186 @@
+bip_39_word_new_br1: together
+bip_39_word_new_br10: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render<br>hover
+bip_39_word_new_br11: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render<br>hover<br>thrive
+bip_39_word_new_br12: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render<br>hover<br>thrive<br>adult
+bip_39_word_new_br2: together<br>camp
+bip_39_word_new_br3: together<br>camp<br>crop
+bip_39_word_new_br4: together<br>camp<br>crop<br>only
+bip_39_word_new_br5: together<br>camp<br>crop<br>only<br>liar
+bip_39_word_new_br6: together<br>camp<br>crop<br>only<br>liar<br>vessel
+bip_39_word_new_br7: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune
+bip_39_word_new_br8: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight
+bip_39_word_new_br9: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render
+bip_39_word_new_line1: together
+bip_39_word_new_line10: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight
+
+  render
+
+  hover'
+bip_39_word_new_line11: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight
+
+  render
+
+  hover
+
+  thrive'
+bip_39_word_new_line12: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight
+
+  render
+
+  hover
+
+  thrive
+
+  adult'
+bip_39_word_new_line2: 'together
+
+  camp'
+bip_39_word_new_line3: 'together
+
+  camp
+
+  crop'
+bip_39_word_new_line4: 'together
+
+  camp
+
+  crop
+
+  only'
+bip_39_word_new_line5: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar'
+bip_39_word_new_line6: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel'
+bip_39_word_new_line7: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune'
+bip_39_word_new_line8: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight'
+bip_39_word_new_line9: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight
+
+  render'
+bip_39_word_space_0:
+- together
+- camp
+- crop
+- only
+- liar
+- vessel
+- immune
+- tonight
+- render
+- hover
+- thrive
+- adult
+bip_39_word_space_1: together
+bip_39_word_space_10: together camp crop only liar vessel immune tonight render hover
+bip_39_word_space_11: together camp crop only liar vessel immune tonight render hover
+  thrive
+bip_39_word_space_12: together camp crop only liar vessel immune tonight render hover
+  thrive adult
+bip_39_word_space_2: together camp
+bip_39_word_space_3: together camp crop
+bip_39_word_space_4: together camp crop only
+bip_39_word_space_5: together camp crop only liar
+bip_39_word_space_6: together camp crop only liar vessel
+bip_39_word_space_7: together camp crop only liar vessel immune
+bip_39_word_space_8: together camp crop only liar vessel immune tonight
+bip_39_word_space_9: together camp crop only liar vessel immune tonight render
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

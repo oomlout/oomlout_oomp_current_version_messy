@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coil suit
+  * bip 39 word 3: coil suit point
+  * bip 39 word: coil suit point chronic salute exotic abandon school bitter measure faith amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coil |  
+| bip_39_word_new_br10 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic<br>abandon<br>school<br>bitter<br>measure |  
+| bip_39_word_new_br11 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic<br>abandon<br>school<br>bitter<br>measure<br>faith |  
+| bip_39_word_new_br12 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic<br>abandon<br>school<br>bitter<br>measure<br>faith<br>amateur |  
+| bip_39_word_new_br2 | coil<br>suit |  
+| bip_39_word_new_br3 | coil<br>suit<br>point |  
+| bip_39_word_new_br4 | coil<br>suit<br>point<br>chronic |  
+| bip_39_word_new_br5 | coil<br>suit<br>point<br>chronic<br>salute |  
+| bip_39_word_new_br6 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic |  
+| bip_39_word_new_br7 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic<br>abandon |  
+| bip_39_word_new_br8 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic<br>abandon<br>school |  
+| bip_39_word_new_br9 | coil<br>suit<br>point<br>chronic<br>salute<br>exotic<br>abandon<br>school<br>bitter |  
+| bip_39_word_new_line1 | coil |  
+| bip_39_word_new_line10 | coil
+suit
+point
+chronic
+salute
+exotic
+abandon
+school
+bitter
+measure |  
+| bip_39_word_new_line11 | coil
+suit
+point
+chronic
+salute
+exotic
+abandon
+school
+bitter
+measure
+faith |  
+| bip_39_word_new_line12 | coil
+suit
+point
+chronic
+salute
+exotic
+abandon
+school
+bitter
+measure
+faith
+amateur |  
+| bip_39_word_new_line2 | coil
+suit |  
+| bip_39_word_new_line3 | coil
+suit
+point |  
+| bip_39_word_new_line4 | coil
+suit
+point
+chronic |  
+| bip_39_word_new_line5 | coil
+suit
+point
+chronic
+salute |  
+| bip_39_word_new_line6 | coil
+suit
+point
+chronic
+salute
+exotic |  
+| bip_39_word_new_line7 | coil
+suit
+point
+chronic
+salute
+exotic
+abandon |  
+| bip_39_word_new_line8 | coil
+suit
+point
+chronic
+salute
+exotic
+abandon
+school |  
+| bip_39_word_new_line9 | coil
+suit
+point
+chronic
+salute
+exotic
+abandon
+school
+bitter |  
+| bip_39_word_space_0 | ['coil', 'suit', 'point', 'chronic', 'salute', 'exotic', 'abandon', 'school', 'bitter', 'measure', 'faith', 'amateur'] |  
+| bip_39_word_space_1 | coil |  
+| bip_39_word_space_10 | coil suit point chronic salute exotic abandon school bitter measure |  
+| bip_39_word_space_11 | coil suit point chronic salute exotic abandon school bitter measure faith |  
+| bip_39_word_space_12 | coil suit point chronic salute exotic abandon school bitter measure faith amateur |  
+| bip_39_word_space_2 | coil suit |  
+| bip_39_word_space_3 | coil suit point |  
+| bip_39_word_space_4 | coil suit point chronic |  
+| bip_39_word_space_5 | coil suit point chronic salute |  
+| bip_39_word_space_6 | coil suit point chronic salute exotic |  
+| bip_39_word_space_7 | coil suit point chronic salute exotic abandon |  
+| bip_39_word_space_8 | coil suit point chronic salute exotic abandon school |  
+| bip_39_word_space_9 | coil suit point chronic salute exotic abandon school bitter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

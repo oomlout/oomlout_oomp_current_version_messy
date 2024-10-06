@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stand bargain
+  * bip 39 word 3: stand bargain weather
+  * bip 39 word: stand bargain weather enroll wash engage inject fantasy mom inspire sell amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stand |  
+| bip_39_word_new_br10 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage<br>inject<br>fantasy<br>mom<br>inspire |  
+| bip_39_word_new_br11 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage<br>inject<br>fantasy<br>mom<br>inspire<br>sell |  
+| bip_39_word_new_br12 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage<br>inject<br>fantasy<br>mom<br>inspire<br>sell<br>amateur |  
+| bip_39_word_new_br2 | stand<br>bargain |  
+| bip_39_word_new_br3 | stand<br>bargain<br>weather |  
+| bip_39_word_new_br4 | stand<br>bargain<br>weather<br>enroll |  
+| bip_39_word_new_br5 | stand<br>bargain<br>weather<br>enroll<br>wash |  
+| bip_39_word_new_br6 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage |  
+| bip_39_word_new_br7 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage<br>inject |  
+| bip_39_word_new_br8 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage<br>inject<br>fantasy |  
+| bip_39_word_new_br9 | stand<br>bargain<br>weather<br>enroll<br>wash<br>engage<br>inject<br>fantasy<br>mom |  
+| bip_39_word_new_line1 | stand |  
+| bip_39_word_new_line10 | stand
+bargain
+weather
+enroll
+wash
+engage
+inject
+fantasy
+mom
+inspire |  
+| bip_39_word_new_line11 | stand
+bargain
+weather
+enroll
+wash
+engage
+inject
+fantasy
+mom
+inspire
+sell |  
+| bip_39_word_new_line12 | stand
+bargain
+weather
+enroll
+wash
+engage
+inject
+fantasy
+mom
+inspire
+sell
+amateur |  
+| bip_39_word_new_line2 | stand
+bargain |  
+| bip_39_word_new_line3 | stand
+bargain
+weather |  
+| bip_39_word_new_line4 | stand
+bargain
+weather
+enroll |  
+| bip_39_word_new_line5 | stand
+bargain
+weather
+enroll
+wash |  
+| bip_39_word_new_line6 | stand
+bargain
+weather
+enroll
+wash
+engage |  
+| bip_39_word_new_line7 | stand
+bargain
+weather
+enroll
+wash
+engage
+inject |  
+| bip_39_word_new_line8 | stand
+bargain
+weather
+enroll
+wash
+engage
+inject
+fantasy |  
+| bip_39_word_new_line9 | stand
+bargain
+weather
+enroll
+wash
+engage
+inject
+fantasy
+mom |  
+| bip_39_word_space_0 | ['stand', 'bargain', 'weather', 'enroll', 'wash', 'engage', 'inject', 'fantasy', 'mom', 'inspire', 'sell', 'amateur'] |  
+| bip_39_word_space_1 | stand |  
+| bip_39_word_space_10 | stand bargain weather enroll wash engage inject fantasy mom inspire |  
+| bip_39_word_space_11 | stand bargain weather enroll wash engage inject fantasy mom inspire sell |  
+| bip_39_word_space_12 | stand bargain weather enroll wash engage inject fantasy mom inspire sell amateur |  
+| bip_39_word_space_2 | stand bargain |  
+| bip_39_word_space_3 | stand bargain weather |  
+| bip_39_word_space_4 | stand bargain weather enroll |  
+| bip_39_word_space_5 | stand bargain weather enroll wash |  
+| bip_39_word_space_6 | stand bargain weather enroll wash engage |  
+| bip_39_word_space_7 | stand bargain weather enroll wash engage inject |  
+| bip_39_word_space_8 | stand bargain weather enroll wash engage inject fantasy |  
+| bip_39_word_space_9 | stand bargain weather enroll wash engage inject fantasy mom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

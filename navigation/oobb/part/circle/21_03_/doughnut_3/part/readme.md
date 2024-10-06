@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slow keen
+  * bip 39 word 3: slow keen predict
+  * bip 39 word: slow keen predict wealth direct lab anxiety planet glove laptop check acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slow |  
+| bip_39_word_new_br10 | slow<br>keen<br>predict<br>wealth<br>direct<br>lab<br>anxiety<br>planet<br>glove<br>laptop |  
+| bip_39_word_new_br11 | slow<br>keen<br>predict<br>wealth<br>direct<br>lab<br>anxiety<br>planet<br>glove<br>laptop<br>check |  
+| bip_39_word_new_br12 | slow<br>keen<br>predict<br>wealth<br>direct<br>lab<br>anxiety<br>planet<br>glove<br>laptop<br>check<br>acquire |  
+| bip_39_word_new_br2 | slow<br>keen |  
+| bip_39_word_new_br3 | slow<br>keen<br>predict |  
+| bip_39_word_new_br4 | slow<br>keen<br>predict<br>wealth |  
+| bip_39_word_new_br5 | slow<br>keen<br>predict<br>wealth<br>direct |  
+| bip_39_word_new_br6 | slow<br>keen<br>predict<br>wealth<br>direct<br>lab |  
+| bip_39_word_new_br7 | slow<br>keen<br>predict<br>wealth<br>direct<br>lab<br>anxiety |  
+| bip_39_word_new_br8 | slow<br>keen<br>predict<br>wealth<br>direct<br>lab<br>anxiety<br>planet |  
+| bip_39_word_new_br9 | slow<br>keen<br>predict<br>wealth<br>direct<br>lab<br>anxiety<br>planet<br>glove |  
+| bip_39_word_new_line1 | slow |  
+| bip_39_word_new_line10 | slow
+keen
+predict
+wealth
+direct
+lab
+anxiety
+planet
+glove
+laptop |  
+| bip_39_word_new_line11 | slow
+keen
+predict
+wealth
+direct
+lab
+anxiety
+planet
+glove
+laptop
+check |  
+| bip_39_word_new_line12 | slow
+keen
+predict
+wealth
+direct
+lab
+anxiety
+planet
+glove
+laptop
+check
+acquire |  
+| bip_39_word_new_line2 | slow
+keen |  
+| bip_39_word_new_line3 | slow
+keen
+predict |  
+| bip_39_word_new_line4 | slow
+keen
+predict
+wealth |  
+| bip_39_word_new_line5 | slow
+keen
+predict
+wealth
+direct |  
+| bip_39_word_new_line6 | slow
+keen
+predict
+wealth
+direct
+lab |  
+| bip_39_word_new_line7 | slow
+keen
+predict
+wealth
+direct
+lab
+anxiety |  
+| bip_39_word_new_line8 | slow
+keen
+predict
+wealth
+direct
+lab
+anxiety
+planet |  
+| bip_39_word_new_line9 | slow
+keen
+predict
+wealth
+direct
+lab
+anxiety
+planet
+glove |  
+| bip_39_word_space_0 | ['slow', 'keen', 'predict', 'wealth', 'direct', 'lab', 'anxiety', 'planet', 'glove', 'laptop', 'check', 'acquire'] |  
+| bip_39_word_space_1 | slow |  
+| bip_39_word_space_10 | slow keen predict wealth direct lab anxiety planet glove laptop |  
+| bip_39_word_space_11 | slow keen predict wealth direct lab anxiety planet glove laptop check |  
+| bip_39_word_space_12 | slow keen predict wealth direct lab anxiety planet glove laptop check acquire |  
+| bip_39_word_space_2 | slow keen |  
+| bip_39_word_space_3 | slow keen predict |  
+| bip_39_word_space_4 | slow keen predict wealth |  
+| bip_39_word_space_5 | slow keen predict wealth direct |  
+| bip_39_word_space_6 | slow keen predict wealth direct lab |  
+| bip_39_word_space_7 | slow keen predict wealth direct lab anxiety |  
+| bip_39_word_space_8 | slow keen predict wealth direct lab anxiety planet |  
+| bip_39_word_space_9 | slow keen predict wealth direct lab anxiety planet glove |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

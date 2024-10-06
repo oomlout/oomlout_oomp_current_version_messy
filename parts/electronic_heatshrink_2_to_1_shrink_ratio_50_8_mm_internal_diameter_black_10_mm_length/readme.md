@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: silk quarter
+  * bip 39 word 3: silk quarter trash
+  * bip 39 word: silk quarter trash govern monkey west duck apple fiber bulk traffic autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | silk |  
+| bip_39_word_new_br10 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west<br>duck<br>apple<br>fiber<br>bulk |  
+| bip_39_word_new_br11 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west<br>duck<br>apple<br>fiber<br>bulk<br>traffic |  
+| bip_39_word_new_br12 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west<br>duck<br>apple<br>fiber<br>bulk<br>traffic<br>autumn |  
+| bip_39_word_new_br2 | silk<br>quarter |  
+| bip_39_word_new_br3 | silk<br>quarter<br>trash |  
+| bip_39_word_new_br4 | silk<br>quarter<br>trash<br>govern |  
+| bip_39_word_new_br5 | silk<br>quarter<br>trash<br>govern<br>monkey |  
+| bip_39_word_new_br6 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west |  
+| bip_39_word_new_br7 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west<br>duck |  
+| bip_39_word_new_br8 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west<br>duck<br>apple |  
+| bip_39_word_new_br9 | silk<br>quarter<br>trash<br>govern<br>monkey<br>west<br>duck<br>apple<br>fiber |  
+| bip_39_word_new_line1 | silk |  
+| bip_39_word_new_line10 | silk
+quarter
+trash
+govern
+monkey
+west
+duck
+apple
+fiber
+bulk |  
+| bip_39_word_new_line11 | silk
+quarter
+trash
+govern
+monkey
+west
+duck
+apple
+fiber
+bulk
+traffic |  
+| bip_39_word_new_line12 | silk
+quarter
+trash
+govern
+monkey
+west
+duck
+apple
+fiber
+bulk
+traffic
+autumn |  
+| bip_39_word_new_line2 | silk
+quarter |  
+| bip_39_word_new_line3 | silk
+quarter
+trash |  
+| bip_39_word_new_line4 | silk
+quarter
+trash
+govern |  
+| bip_39_word_new_line5 | silk
+quarter
+trash
+govern
+monkey |  
+| bip_39_word_new_line6 | silk
+quarter
+trash
+govern
+monkey
+west |  
+| bip_39_word_new_line7 | silk
+quarter
+trash
+govern
+monkey
+west
+duck |  
+| bip_39_word_new_line8 | silk
+quarter
+trash
+govern
+monkey
+west
+duck
+apple |  
+| bip_39_word_new_line9 | silk
+quarter
+trash
+govern
+monkey
+west
+duck
+apple
+fiber |  
+| bip_39_word_space_0 | ['silk', 'quarter', 'trash', 'govern', 'monkey', 'west', 'duck', 'apple', 'fiber', 'bulk', 'traffic', 'autumn'] |  
+| bip_39_word_space_1 | silk |  
+| bip_39_word_space_10 | silk quarter trash govern monkey west duck apple fiber bulk |  
+| bip_39_word_space_11 | silk quarter trash govern monkey west duck apple fiber bulk traffic |  
+| bip_39_word_space_12 | silk quarter trash govern monkey west duck apple fiber bulk traffic autumn |  
+| bip_39_word_space_2 | silk quarter |  
+| bip_39_word_space_3 | silk quarter trash |  
+| bip_39_word_space_4 | silk quarter trash govern |  
+| bip_39_word_space_5 | silk quarter trash govern monkey |  
+| bip_39_word_space_6 | silk quarter trash govern monkey west |  
+| bip_39_word_space_7 | silk quarter trash govern monkey west duck |  
+| bip_39_word_space_8 | silk quarter trash govern monkey west duck apple |  
+| bip_39_word_space_9 | silk quarter trash govern monkey west duck apple fiber |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

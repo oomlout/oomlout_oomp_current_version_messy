@@ -1,3 +1,186 @@
+bip_39_word_new_br1: crazy
+bip_39_word_new_br10: crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain<br>road<br>tail<br>trigger<br>lock
+bip_39_word_new_br11: crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain<br>road<br>tail<br>trigger<br>lock<br>purchase
+bip_39_word_new_br12: crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain<br>road<br>tail<br>trigger<br>lock<br>purchase<br>armed
+bip_39_word_new_br2: crazy<br>gift
+bip_39_word_new_br3: crazy<br>gift<br>envelope
+bip_39_word_new_br4: crazy<br>gift<br>envelope<br>pony
+bip_39_word_new_br5: crazy<br>gift<br>envelope<br>pony<br>crawl
+bip_39_word_new_br6: crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain
+bip_39_word_new_br7: crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain<br>road
+bip_39_word_new_br8: crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain<br>road<br>tail
+bip_39_word_new_br9: crazy<br>gift<br>envelope<br>pony<br>crawl<br>obtain<br>road<br>tail<br>trigger
+bip_39_word_new_line1: crazy
+bip_39_word_new_line10: 'crazy
+
+  gift
+
+  envelope
+
+  pony
+
+  crawl
+
+  obtain
+
+  road
+
+  tail
+
+  trigger
+
+  lock'
+bip_39_word_new_line11: 'crazy
+
+  gift
+
+  envelope
+
+  pony
+
+  crawl
+
+  obtain
+
+  road
+
+  tail
+
+  trigger
+
+  lock
+
+  purchase'
+bip_39_word_new_line12: 'crazy
+
+  gift
+
+  envelope
+
+  pony
+
+  crawl
+
+  obtain
+
+  road
+
+  tail
+
+  trigger
+
+  lock
+
+  purchase
+
+  armed'
+bip_39_word_new_line2: 'crazy
+
+  gift'
+bip_39_word_new_line3: 'crazy
+
+  gift
+
+  envelope'
+bip_39_word_new_line4: 'crazy
+
+  gift
+
+  envelope
+
+  pony'
+bip_39_word_new_line5: 'crazy
+
+  gift
+
+  envelope
+
+  pony
+
+  crawl'
+bip_39_word_new_line6: 'crazy
+
+  gift
+
+  envelope
+
+  pony
+
+  crawl
+
+  obtain'
+bip_39_word_new_line7: 'crazy
+
+  gift
+
+  envelope
+
+  pony
+
+  crawl
+
+  obtain
+
+  road'
+bip_39_word_new_line8: 'crazy
+
+  gift
+
+  envelope
+
+  pony
+
+  crawl
+
+  obtain
+
+  road
+
+  tail'
+bip_39_word_new_line9: 'crazy
+
+  gift
+
+  envelope
+
+  pony
+
+  crawl
+
+  obtain
+
+  road
+
+  tail
+
+  trigger'
+bip_39_word_space_0:
+- crazy
+- gift
+- envelope
+- pony
+- crawl
+- obtain
+- road
+- tail
+- trigger
+- lock
+- purchase
+- armed
+bip_39_word_space_1: crazy
+bip_39_word_space_10: crazy gift envelope pony crawl obtain road tail trigger lock
+bip_39_word_space_11: crazy gift envelope pony crawl obtain road tail trigger lock
+  purchase
+bip_39_word_space_12: crazy gift envelope pony crawl obtain road tail trigger lock
+  purchase armed
+bip_39_word_space_2: crazy gift
+bip_39_word_space_3: crazy gift envelope
+bip_39_word_space_4: crazy gift envelope pony
+bip_39_word_space_5: crazy gift envelope pony crawl
+bip_39_word_space_6: crazy gift envelope pony crawl obtain
+bip_39_word_space_7: crazy gift envelope pony crawl obtain road
+bip_39_word_space_8: crazy gift envelope pony crawl obtain road tail
+bip_39_word_space_9: crazy gift envelope pony crawl obtain road tail trigger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

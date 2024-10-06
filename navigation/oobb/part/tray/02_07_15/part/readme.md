@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: please myth
+  * bip 39 word 3: please myth wife
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | please |  
+| bip_39_word_new_br10 | please<br>myth<br>wife<br>measure<br>month<br>govern<br>subject<br>theme<br>aspect<br>nurse |  
+| bip_39_word_new_br11 | please<br>myth<br>wife<br>measure<br>month<br>govern<br>subject<br>theme<br>aspect<br>nurse<br>law |  
+| bip_39_word_new_br2 | please<br>myth |  
+| bip_39_word_new_br3 | please<br>myth<br>wife |  
+| bip_39_word_new_br4 | please<br>myth<br>wife<br>measure |  
+| bip_39_word_new_br5 | please<br>myth<br>wife<br>measure<br>month |  
+| bip_39_word_new_br6 | please<br>myth<br>wife<br>measure<br>month<br>govern |  
+| bip_39_word_new_br7 | please<br>myth<br>wife<br>measure<br>month<br>govern<br>subject |  
+| bip_39_word_new_br8 | please<br>myth<br>wife<br>measure<br>month<br>govern<br>subject<br>theme |  
+| bip_39_word_new_br9 | please<br>myth<br>wife<br>measure<br>month<br>govern<br>subject<br>theme<br>aspect |  
+| bip_39_word_new_line1 | please |  
+| bip_39_word_new_line10 | please
+myth
+wife
+measure
+month
+govern
+subject
+theme
+aspect
+nurse |  
+| bip_39_word_new_line11 | please
+myth
+wife
+measure
+month
+govern
+subject
+theme
+aspect
+nurse
+law |  
+| bip_39_word_new_line2 | please
+myth |  
+| bip_39_word_new_line3 | please
+myth
+wife |  
+| bip_39_word_new_line4 | please
+myth
+wife
+measure |  
+| bip_39_word_new_line5 | please
+myth
+wife
+measure
+month |  
+| bip_39_word_new_line6 | please
+myth
+wife
+measure
+month
+govern |  
+| bip_39_word_new_line7 | please
+myth
+wife
+measure
+month
+govern
+subject |  
+| bip_39_word_new_line8 | please
+myth
+wife
+measure
+month
+govern
+subject
+theme |  
+| bip_39_word_new_line9 | please
+myth
+wife
+measure
+month
+govern
+subject
+theme
+aspect |  
+| bip_39_word_space_0 | ['please', 'myth', 'wife', 'measure', 'month', 'govern', 'subject', 'theme', 'aspect', 'nurse', 'law'] |  
+| bip_39_word_space_1 | please |  
+| bip_39_word_space_10 | please myth wife measure month govern subject theme aspect nurse |  
+| bip_39_word_space_11 | please myth wife measure month govern subject theme aspect nurse law |  
+| bip_39_word_space_2 | please myth |  
+| bip_39_word_space_3 | please myth wife |  
+| bip_39_word_space_4 | please myth wife measure |  
+| bip_39_word_space_5 | please myth wife measure month |  
+| bip_39_word_space_6 | please myth wife measure month govern |  
+| bip_39_word_space_7 | please myth wife measure month govern subject |  
+| bip_39_word_space_8 | please myth wife measure month govern subject theme |  
+| bip_39_word_space_9 | please myth wife measure month govern subject theme aspect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

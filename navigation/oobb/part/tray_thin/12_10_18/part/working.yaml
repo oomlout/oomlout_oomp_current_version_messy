@@ -1,3 +1,186 @@
+bip_39_word_new_br1: live
+bip_39_word_new_br10: live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade
+bip_39_word_new_br11: live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade<br>village
+bip_39_word_new_br12: live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide<br>blade<br>village<br>afford
+bip_39_word_new_br2: live<br>thunder
+bip_39_word_new_br3: live<br>thunder<br>retire
+bip_39_word_new_br4: live<br>thunder<br>retire<br>hair
+bip_39_word_new_br5: live<br>thunder<br>retire<br>hair<br>water
+bip_39_word_new_br6: live<br>thunder<br>retire<br>hair<br>water<br>loop
+bip_39_word_new_br7: live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight
+bip_39_word_new_br8: live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point
+bip_39_word_new_br9: live<br>thunder<br>retire<br>hair<br>water<br>loop<br>tonight<br>point<br>divide
+bip_39_word_new_line1: live
+bip_39_word_new_line10: 'live
+
+  thunder
+
+  retire
+
+  hair
+
+  water
+
+  loop
+
+  tonight
+
+  point
+
+  divide
+
+  blade'
+bip_39_word_new_line11: 'live
+
+  thunder
+
+  retire
+
+  hair
+
+  water
+
+  loop
+
+  tonight
+
+  point
+
+  divide
+
+  blade
+
+  village'
+bip_39_word_new_line12: 'live
+
+  thunder
+
+  retire
+
+  hair
+
+  water
+
+  loop
+
+  tonight
+
+  point
+
+  divide
+
+  blade
+
+  village
+
+  afford'
+bip_39_word_new_line2: 'live
+
+  thunder'
+bip_39_word_new_line3: 'live
+
+  thunder
+
+  retire'
+bip_39_word_new_line4: 'live
+
+  thunder
+
+  retire
+
+  hair'
+bip_39_word_new_line5: 'live
+
+  thunder
+
+  retire
+
+  hair
+
+  water'
+bip_39_word_new_line6: 'live
+
+  thunder
+
+  retire
+
+  hair
+
+  water
+
+  loop'
+bip_39_word_new_line7: 'live
+
+  thunder
+
+  retire
+
+  hair
+
+  water
+
+  loop
+
+  tonight'
+bip_39_word_new_line8: 'live
+
+  thunder
+
+  retire
+
+  hair
+
+  water
+
+  loop
+
+  tonight
+
+  point'
+bip_39_word_new_line9: 'live
+
+  thunder
+
+  retire
+
+  hair
+
+  water
+
+  loop
+
+  tonight
+
+  point
+
+  divide'
+bip_39_word_space_0:
+- live
+- thunder
+- retire
+- hair
+- water
+- loop
+- tonight
+- point
+- divide
+- blade
+- village
+- afford
+bip_39_word_space_1: live
+bip_39_word_space_10: live thunder retire hair water loop tonight point divide blade
+bip_39_word_space_11: live thunder retire hair water loop tonight point divide blade
+  village
+bip_39_word_space_12: live thunder retire hair water loop tonight point divide blade
+  village afford
+bip_39_word_space_2: live thunder
+bip_39_word_space_3: live thunder retire
+bip_39_word_space_4: live thunder retire hair
+bip_39_word_space_5: live thunder retire hair water
+bip_39_word_space_6: live thunder retire hair water loop
+bip_39_word_space_7: live thunder retire hair water loop tonight
+bip_39_word_space_8: live thunder retire hair water loop tonight point
+bip_39_word_space_9: live thunder retire hair water loop tonight point divide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

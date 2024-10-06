@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: power force
+  * bip 39 word 3: power force together
+  * bip 39 word: power force together stairs taste speak scene sail rug glass effort arena
 
 ### other_codes
 * short_code: ms2m8pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | power |  
+| bip_39_word_new_br10 | power<br>force<br>together<br>stairs<br>taste<br>speak<br>scene<br>sail<br>rug<br>glass |  
+| bip_39_word_new_br11 | power<br>force<br>together<br>stairs<br>taste<br>speak<br>scene<br>sail<br>rug<br>glass<br>effort |  
+| bip_39_word_new_br12 | power<br>force<br>together<br>stairs<br>taste<br>speak<br>scene<br>sail<br>rug<br>glass<br>effort<br>arena |  
+| bip_39_word_new_br2 | power<br>force |  
+| bip_39_word_new_br3 | power<br>force<br>together |  
+| bip_39_word_new_br4 | power<br>force<br>together<br>stairs |  
+| bip_39_word_new_br5 | power<br>force<br>together<br>stairs<br>taste |  
+| bip_39_word_new_br6 | power<br>force<br>together<br>stairs<br>taste<br>speak |  
+| bip_39_word_new_br7 | power<br>force<br>together<br>stairs<br>taste<br>speak<br>scene |  
+| bip_39_word_new_br8 | power<br>force<br>together<br>stairs<br>taste<br>speak<br>scene<br>sail |  
+| bip_39_word_new_br9 | power<br>force<br>together<br>stairs<br>taste<br>speak<br>scene<br>sail<br>rug |  
+| bip_39_word_new_line1 | power |  
+| bip_39_word_new_line10 | power
+force
+together
+stairs
+taste
+speak
+scene
+sail
+rug
+glass |  
+| bip_39_word_new_line11 | power
+force
+together
+stairs
+taste
+speak
+scene
+sail
+rug
+glass
+effort |  
+| bip_39_word_new_line12 | power
+force
+together
+stairs
+taste
+speak
+scene
+sail
+rug
+glass
+effort
+arena |  
+| bip_39_word_new_line2 | power
+force |  
+| bip_39_word_new_line3 | power
+force
+together |  
+| bip_39_word_new_line4 | power
+force
+together
+stairs |  
+| bip_39_word_new_line5 | power
+force
+together
+stairs
+taste |  
+| bip_39_word_new_line6 | power
+force
+together
+stairs
+taste
+speak |  
+| bip_39_word_new_line7 | power
+force
+together
+stairs
+taste
+speak
+scene |  
+| bip_39_word_new_line8 | power
+force
+together
+stairs
+taste
+speak
+scene
+sail |  
+| bip_39_word_new_line9 | power
+force
+together
+stairs
+taste
+speak
+scene
+sail
+rug |  
+| bip_39_word_space_0 | ['power', 'force', 'together', 'stairs', 'taste', 'speak', 'scene', 'sail', 'rug', 'glass', 'effort', 'arena'] |  
+| bip_39_word_space_1 | power |  
+| bip_39_word_space_10 | power force together stairs taste speak scene sail rug glass |  
+| bip_39_word_space_11 | power force together stairs taste speak scene sail rug glass effort |  
+| bip_39_word_space_12 | power force together stairs taste speak scene sail rug glass effort arena |  
+| bip_39_word_space_2 | power force |  
+| bip_39_word_space_3 | power force together |  
+| bip_39_word_space_4 | power force together stairs |  
+| bip_39_word_space_5 | power force together stairs taste |  
+| bip_39_word_space_6 | power force together stairs taste speak |  
+| bip_39_word_space_7 | power force together stairs taste speak scene |  
+| bip_39_word_space_8 | power force together stairs taste speak scene sail |  
+| bip_39_word_space_9 | power force together stairs taste speak scene sail rug |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

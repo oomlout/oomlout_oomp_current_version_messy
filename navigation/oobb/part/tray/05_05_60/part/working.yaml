@@ -1,3 +1,186 @@
+bip_39_word_new_br1: twin
+bip_39_word_new_br10: twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag
+bip_39_word_new_br11: twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag<br>drip
+bip_39_word_new_br12: twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread<br>tag<br>drip<br>arrow
+bip_39_word_new_br2: twin<br>budget
+bip_39_word_new_br3: twin<br>budget<br>clever
+bip_39_word_new_br4: twin<br>budget<br>clever<br>inside
+bip_39_word_new_br5: twin<br>budget<br>clever<br>inside<br>glad
+bip_39_word_new_br6: twin<br>budget<br>clever<br>inside<br>glad<br>umbrella
+bip_39_word_new_br7: twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel
+bip_39_word_new_br8: twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop
+bip_39_word_new_br9: twin<br>budget<br>clever<br>inside<br>glad<br>umbrella<br>cruel<br>drop<br>bread
+bip_39_word_new_line1: twin
+bip_39_word_new_line10: 'twin
+
+  budget
+
+  clever
+
+  inside
+
+  glad
+
+  umbrella
+
+  cruel
+
+  drop
+
+  bread
+
+  tag'
+bip_39_word_new_line11: 'twin
+
+  budget
+
+  clever
+
+  inside
+
+  glad
+
+  umbrella
+
+  cruel
+
+  drop
+
+  bread
+
+  tag
+
+  drip'
+bip_39_word_new_line12: 'twin
+
+  budget
+
+  clever
+
+  inside
+
+  glad
+
+  umbrella
+
+  cruel
+
+  drop
+
+  bread
+
+  tag
+
+  drip
+
+  arrow'
+bip_39_word_new_line2: 'twin
+
+  budget'
+bip_39_word_new_line3: 'twin
+
+  budget
+
+  clever'
+bip_39_word_new_line4: 'twin
+
+  budget
+
+  clever
+
+  inside'
+bip_39_word_new_line5: 'twin
+
+  budget
+
+  clever
+
+  inside
+
+  glad'
+bip_39_word_new_line6: 'twin
+
+  budget
+
+  clever
+
+  inside
+
+  glad
+
+  umbrella'
+bip_39_word_new_line7: 'twin
+
+  budget
+
+  clever
+
+  inside
+
+  glad
+
+  umbrella
+
+  cruel'
+bip_39_word_new_line8: 'twin
+
+  budget
+
+  clever
+
+  inside
+
+  glad
+
+  umbrella
+
+  cruel
+
+  drop'
+bip_39_word_new_line9: 'twin
+
+  budget
+
+  clever
+
+  inside
+
+  glad
+
+  umbrella
+
+  cruel
+
+  drop
+
+  bread'
+bip_39_word_space_0:
+- twin
+- budget
+- clever
+- inside
+- glad
+- umbrella
+- cruel
+- drop
+- bread
+- tag
+- drip
+- arrow
+bip_39_word_space_1: twin
+bip_39_word_space_10: twin budget clever inside glad umbrella cruel drop bread tag
+bip_39_word_space_11: twin budget clever inside glad umbrella cruel drop bread tag
+  drip
+bip_39_word_space_12: twin budget clever inside glad umbrella cruel drop bread tag
+  drip arrow
+bip_39_word_space_2: twin budget
+bip_39_word_space_3: twin budget clever
+bip_39_word_space_4: twin budget clever inside
+bip_39_word_space_5: twin budget clever inside glad
+bip_39_word_space_6: twin budget clever inside glad umbrella
+bip_39_word_space_7: twin budget clever inside glad umbrella cruel
+bip_39_word_space_8: twin budget clever inside glad umbrella cruel drop
+bip_39_word_space_9: twin budget clever inside glad umbrella cruel drop bread
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glory title
+  * bip 39 word 3: glory title youth
+  * bip 39 word: glory title youth elder van auto brown wrap dinner eyebrow pig amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glory |  
+| bip_39_word_new_br10 | glory<br>title<br>youth<br>elder<br>van<br>auto<br>brown<br>wrap<br>dinner<br>eyebrow |  
+| bip_39_word_new_br11 | glory<br>title<br>youth<br>elder<br>van<br>auto<br>brown<br>wrap<br>dinner<br>eyebrow<br>pig |  
+| bip_39_word_new_br12 | glory<br>title<br>youth<br>elder<br>van<br>auto<br>brown<br>wrap<br>dinner<br>eyebrow<br>pig<br>amount |  
+| bip_39_word_new_br2 | glory<br>title |  
+| bip_39_word_new_br3 | glory<br>title<br>youth |  
+| bip_39_word_new_br4 | glory<br>title<br>youth<br>elder |  
+| bip_39_word_new_br5 | glory<br>title<br>youth<br>elder<br>van |  
+| bip_39_word_new_br6 | glory<br>title<br>youth<br>elder<br>van<br>auto |  
+| bip_39_word_new_br7 | glory<br>title<br>youth<br>elder<br>van<br>auto<br>brown |  
+| bip_39_word_new_br8 | glory<br>title<br>youth<br>elder<br>van<br>auto<br>brown<br>wrap |  
+| bip_39_word_new_br9 | glory<br>title<br>youth<br>elder<br>van<br>auto<br>brown<br>wrap<br>dinner |  
+| bip_39_word_new_line1 | glory |  
+| bip_39_word_new_line10 | glory
+title
+youth
+elder
+van
+auto
+brown
+wrap
+dinner
+eyebrow |  
+| bip_39_word_new_line11 | glory
+title
+youth
+elder
+van
+auto
+brown
+wrap
+dinner
+eyebrow
+pig |  
+| bip_39_word_new_line12 | glory
+title
+youth
+elder
+van
+auto
+brown
+wrap
+dinner
+eyebrow
+pig
+amount |  
+| bip_39_word_new_line2 | glory
+title |  
+| bip_39_word_new_line3 | glory
+title
+youth |  
+| bip_39_word_new_line4 | glory
+title
+youth
+elder |  
+| bip_39_word_new_line5 | glory
+title
+youth
+elder
+van |  
+| bip_39_word_new_line6 | glory
+title
+youth
+elder
+van
+auto |  
+| bip_39_word_new_line7 | glory
+title
+youth
+elder
+van
+auto
+brown |  
+| bip_39_word_new_line8 | glory
+title
+youth
+elder
+van
+auto
+brown
+wrap |  
+| bip_39_word_new_line9 | glory
+title
+youth
+elder
+van
+auto
+brown
+wrap
+dinner |  
+| bip_39_word_space_0 | ['glory', 'title', 'youth', 'elder', 'van', 'auto', 'brown', 'wrap', 'dinner', 'eyebrow', 'pig', 'amount'] |  
+| bip_39_word_space_1 | glory |  
+| bip_39_word_space_10 | glory title youth elder van auto brown wrap dinner eyebrow |  
+| bip_39_word_space_11 | glory title youth elder van auto brown wrap dinner eyebrow pig |  
+| bip_39_word_space_12 | glory title youth elder van auto brown wrap dinner eyebrow pig amount |  
+| bip_39_word_space_2 | glory title |  
+| bip_39_word_space_3 | glory title youth |  
+| bip_39_word_space_4 | glory title youth elder |  
+| bip_39_word_space_5 | glory title youth elder van |  
+| bip_39_word_space_6 | glory title youth elder van auto |  
+| bip_39_word_space_7 | glory title youth elder van auto brown |  
+| bip_39_word_space_8 | glory title youth elder van auto brown wrap |  
+| bip_39_word_space_9 | glory title youth elder van auto brown wrap dinner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

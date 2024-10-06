@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: piano hundred
+  * bip 39 word 3: piano hundred bounce
+  * bip 39 word: piano hundred bounce high runway angle race funny bag solid carbon arctic
 
 ### other_codes
 * short_code: b8m60
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | piano |  
+| bip_39_word_new_br10 | piano<br>hundred<br>bounce<br>high<br>runway<br>angle<br>race<br>funny<br>bag<br>solid |  
+| bip_39_word_new_br11 | piano<br>hundred<br>bounce<br>high<br>runway<br>angle<br>race<br>funny<br>bag<br>solid<br>carbon |  
+| bip_39_word_new_br12 | piano<br>hundred<br>bounce<br>high<br>runway<br>angle<br>race<br>funny<br>bag<br>solid<br>carbon<br>arctic |  
+| bip_39_word_new_br2 | piano<br>hundred |  
+| bip_39_word_new_br3 | piano<br>hundred<br>bounce |  
+| bip_39_word_new_br4 | piano<br>hundred<br>bounce<br>high |  
+| bip_39_word_new_br5 | piano<br>hundred<br>bounce<br>high<br>runway |  
+| bip_39_word_new_br6 | piano<br>hundred<br>bounce<br>high<br>runway<br>angle |  
+| bip_39_word_new_br7 | piano<br>hundred<br>bounce<br>high<br>runway<br>angle<br>race |  
+| bip_39_word_new_br8 | piano<br>hundred<br>bounce<br>high<br>runway<br>angle<br>race<br>funny |  
+| bip_39_word_new_br9 | piano<br>hundred<br>bounce<br>high<br>runway<br>angle<br>race<br>funny<br>bag |  
+| bip_39_word_new_line1 | piano |  
+| bip_39_word_new_line10 | piano
+hundred
+bounce
+high
+runway
+angle
+race
+funny
+bag
+solid |  
+| bip_39_word_new_line11 | piano
+hundred
+bounce
+high
+runway
+angle
+race
+funny
+bag
+solid
+carbon |  
+| bip_39_word_new_line12 | piano
+hundred
+bounce
+high
+runway
+angle
+race
+funny
+bag
+solid
+carbon
+arctic |  
+| bip_39_word_new_line2 | piano
+hundred |  
+| bip_39_word_new_line3 | piano
+hundred
+bounce |  
+| bip_39_word_new_line4 | piano
+hundred
+bounce
+high |  
+| bip_39_word_new_line5 | piano
+hundred
+bounce
+high
+runway |  
+| bip_39_word_new_line6 | piano
+hundred
+bounce
+high
+runway
+angle |  
+| bip_39_word_new_line7 | piano
+hundred
+bounce
+high
+runway
+angle
+race |  
+| bip_39_word_new_line8 | piano
+hundred
+bounce
+high
+runway
+angle
+race
+funny |  
+| bip_39_word_new_line9 | piano
+hundred
+bounce
+high
+runway
+angle
+race
+funny
+bag |  
+| bip_39_word_space_0 | ['piano', 'hundred', 'bounce', 'high', 'runway', 'angle', 'race', 'funny', 'bag', 'solid', 'carbon', 'arctic'] |  
+| bip_39_word_space_1 | piano |  
+| bip_39_word_space_10 | piano hundred bounce high runway angle race funny bag solid |  
+| bip_39_word_space_11 | piano hundred bounce high runway angle race funny bag solid carbon |  
+| bip_39_word_space_12 | piano hundred bounce high runway angle race funny bag solid carbon arctic |  
+| bip_39_word_space_2 | piano hundred |  
+| bip_39_word_space_3 | piano hundred bounce |  
+| bip_39_word_space_4 | piano hundred bounce high |  
+| bip_39_word_space_5 | piano hundred bounce high runway |  
+| bip_39_word_space_6 | piano hundred bounce high runway angle |  
+| bip_39_word_space_7 | piano hundred bounce high runway angle race |  
+| bip_39_word_space_8 | piano hundred bounce high runway angle race funny |  
+| bip_39_word_space_9 | piano hundred bounce high runway angle race funny bag |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

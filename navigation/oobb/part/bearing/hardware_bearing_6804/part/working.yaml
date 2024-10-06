@@ -1,3 +1,186 @@
+bip_39_word_new_br1: glare
+bip_39_word_new_br10: glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify
+bip_39_word_new_br11: glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify<br>chunk
+bip_39_word_new_br12: glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit<br>identify<br>chunk<br>amateur
+bip_39_word_new_br2: glare<br>mad
+bip_39_word_new_br3: glare<br>mad<br>desert
+bip_39_word_new_br4: glare<br>mad<br>desert<br>grab
+bip_39_word_new_br5: glare<br>mad<br>desert<br>grab<br>adapt
+bip_39_word_new_br6: glare<br>mad<br>desert<br>grab<br>adapt<br>buzz
+bip_39_word_new_br7: glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit
+bip_39_word_new_br8: glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature
+bip_39_word_new_br9: glare<br>mad<br>desert<br>grab<br>adapt<br>buzz<br>credit<br>feature<br>fit
+bip_39_word_new_line1: glare
+bip_39_word_new_line10: 'glare
+
+  mad
+
+  desert
+
+  grab
+
+  adapt
+
+  buzz
+
+  credit
+
+  feature
+
+  fit
+
+  identify'
+bip_39_word_new_line11: 'glare
+
+  mad
+
+  desert
+
+  grab
+
+  adapt
+
+  buzz
+
+  credit
+
+  feature
+
+  fit
+
+  identify
+
+  chunk'
+bip_39_word_new_line12: 'glare
+
+  mad
+
+  desert
+
+  grab
+
+  adapt
+
+  buzz
+
+  credit
+
+  feature
+
+  fit
+
+  identify
+
+  chunk
+
+  amateur'
+bip_39_word_new_line2: 'glare
+
+  mad'
+bip_39_word_new_line3: 'glare
+
+  mad
+
+  desert'
+bip_39_word_new_line4: 'glare
+
+  mad
+
+  desert
+
+  grab'
+bip_39_word_new_line5: 'glare
+
+  mad
+
+  desert
+
+  grab
+
+  adapt'
+bip_39_word_new_line6: 'glare
+
+  mad
+
+  desert
+
+  grab
+
+  adapt
+
+  buzz'
+bip_39_word_new_line7: 'glare
+
+  mad
+
+  desert
+
+  grab
+
+  adapt
+
+  buzz
+
+  credit'
+bip_39_word_new_line8: 'glare
+
+  mad
+
+  desert
+
+  grab
+
+  adapt
+
+  buzz
+
+  credit
+
+  feature'
+bip_39_word_new_line9: 'glare
+
+  mad
+
+  desert
+
+  grab
+
+  adapt
+
+  buzz
+
+  credit
+
+  feature
+
+  fit'
+bip_39_word_space_0:
+- glare
+- mad
+- desert
+- grab
+- adapt
+- buzz
+- credit
+- feature
+- fit
+- identify
+- chunk
+- amateur
+bip_39_word_space_1: glare
+bip_39_word_space_10: glare mad desert grab adapt buzz credit feature fit identify
+bip_39_word_space_11: glare mad desert grab adapt buzz credit feature fit identify
+  chunk
+bip_39_word_space_12: glare mad desert grab adapt buzz credit feature fit identify
+  chunk amateur
+bip_39_word_space_2: glare mad
+bip_39_word_space_3: glare mad desert
+bip_39_word_space_4: glare mad desert grab
+bip_39_word_space_5: glare mad desert grab adapt
+bip_39_word_space_6: glare mad desert grab adapt buzz
+bip_39_word_space_7: glare mad desert grab adapt buzz credit
+bip_39_word_space_8: glare mad desert grab adapt buzz credit feature
+bip_39_word_space_9: glare mad desert grab adapt buzz credit feature fit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

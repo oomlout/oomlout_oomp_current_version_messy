@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pottery
+bip_39_word_new_br10: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train<br>ugly
+bip_39_word_new_br11: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train<br>ugly<br>cradle
+bip_39_word_new_br12: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train<br>ugly<br>cradle<br>announce
+bip_39_word_new_br2: pottery<br>process
+bip_39_word_new_br3: pottery<br>process<br>document
+bip_39_word_new_br4: pottery<br>process<br>document<br>hamster
+bip_39_word_new_br5: pottery<br>process<br>document<br>hamster<br>police
+bip_39_word_new_br6: pottery<br>process<br>document<br>hamster<br>police<br>vault
+bip_39_word_new_br7: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft
+bip_39_word_new_br8: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must
+bip_39_word_new_br9: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train
+bip_39_word_new_line1: pottery
+bip_39_word_new_line10: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must
+
+  train
+
+  ugly'
+bip_39_word_new_line11: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must
+
+  train
+
+  ugly
+
+  cradle'
+bip_39_word_new_line12: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must
+
+  train
+
+  ugly
+
+  cradle
+
+  announce'
+bip_39_word_new_line2: 'pottery
+
+  process'
+bip_39_word_new_line3: 'pottery
+
+  process
+
+  document'
+bip_39_word_new_line4: 'pottery
+
+  process
+
+  document
+
+  hamster'
+bip_39_word_new_line5: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police'
+bip_39_word_new_line6: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault'
+bip_39_word_new_line7: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft'
+bip_39_word_new_line8: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must'
+bip_39_word_new_line9: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must
+
+  train'
+bip_39_word_space_0:
+- pottery
+- process
+- document
+- hamster
+- police
+- vault
+- shaft
+- must
+- train
+- ugly
+- cradle
+- announce
+bip_39_word_space_1: pottery
+bip_39_word_space_10: pottery process document hamster police vault shaft must train
+  ugly
+bip_39_word_space_11: pottery process document hamster police vault shaft must train
+  ugly cradle
+bip_39_word_space_12: pottery process document hamster police vault shaft must train
+  ugly cradle announce
+bip_39_word_space_2: pottery process
+bip_39_word_space_3: pottery process document
+bip_39_word_space_4: pottery process document hamster
+bip_39_word_space_5: pottery process document hamster police
+bip_39_word_space_6: pottery process document hamster police vault
+bip_39_word_space_7: pottery process document hamster police vault shaft
+bip_39_word_space_8: pottery process document hamster police vault shaft must
+bip_39_word_space_9: pottery process document hamster police vault shaft must train
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

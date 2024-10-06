@@ -1,3 +1,185 @@
+bip_39_word_new_br1: column
+bip_39_word_new_br10: column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry
+bip_39_word_new_br11: column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry<br>exhaust
+bip_39_word_new_br12: column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove<br>carry<br>exhaust<br>afraid
+bip_39_word_new_br2: column<br>spice
+bip_39_word_new_br3: column<br>spice<br>farm
+bip_39_word_new_br4: column<br>spice<br>farm<br>cup
+bip_39_word_new_br5: column<br>spice<br>farm<br>cup<br>time
+bip_39_word_new_br6: column<br>spice<br>farm<br>cup<br>time<br>balcony
+bip_39_word_new_br7: column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand
+bip_39_word_new_br8: column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost
+bip_39_word_new_br9: column<br>spice<br>farm<br>cup<br>time<br>balcony<br>demand<br>ghost<br>dove
+bip_39_word_new_line1: column
+bip_39_word_new_line10: 'column
+
+  spice
+
+  farm
+
+  cup
+
+  time
+
+  balcony
+
+  demand
+
+  ghost
+
+  dove
+
+  carry'
+bip_39_word_new_line11: 'column
+
+  spice
+
+  farm
+
+  cup
+
+  time
+
+  balcony
+
+  demand
+
+  ghost
+
+  dove
+
+  carry
+
+  exhaust'
+bip_39_word_new_line12: 'column
+
+  spice
+
+  farm
+
+  cup
+
+  time
+
+  balcony
+
+  demand
+
+  ghost
+
+  dove
+
+  carry
+
+  exhaust
+
+  afraid'
+bip_39_word_new_line2: 'column
+
+  spice'
+bip_39_word_new_line3: 'column
+
+  spice
+
+  farm'
+bip_39_word_new_line4: 'column
+
+  spice
+
+  farm
+
+  cup'
+bip_39_word_new_line5: 'column
+
+  spice
+
+  farm
+
+  cup
+
+  time'
+bip_39_word_new_line6: 'column
+
+  spice
+
+  farm
+
+  cup
+
+  time
+
+  balcony'
+bip_39_word_new_line7: 'column
+
+  spice
+
+  farm
+
+  cup
+
+  time
+
+  balcony
+
+  demand'
+bip_39_word_new_line8: 'column
+
+  spice
+
+  farm
+
+  cup
+
+  time
+
+  balcony
+
+  demand
+
+  ghost'
+bip_39_word_new_line9: 'column
+
+  spice
+
+  farm
+
+  cup
+
+  time
+
+  balcony
+
+  demand
+
+  ghost
+
+  dove'
+bip_39_word_space_0:
+- column
+- spice
+- farm
+- cup
+- time
+- balcony
+- demand
+- ghost
+- dove
+- carry
+- exhaust
+- afraid
+bip_39_word_space_1: column
+bip_39_word_space_10: column spice farm cup time balcony demand ghost dove carry
+bip_39_word_space_11: column spice farm cup time balcony demand ghost dove carry exhaust
+bip_39_word_space_12: column spice farm cup time balcony demand ghost dove carry exhaust
+  afraid
+bip_39_word_space_2: column spice
+bip_39_word_space_3: column spice farm
+bip_39_word_space_4: column spice farm cup
+bip_39_word_space_5: column spice farm cup time
+bip_39_word_space_6: column spice farm cup time balcony
+bip_39_word_space_7: column spice farm cup time balcony demand
+bip_39_word_space_8: column spice farm cup time balcony demand ghost
+bip_39_word_space_9: column spice farm cup time balcony demand ghost dove
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

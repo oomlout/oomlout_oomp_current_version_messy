@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arctic click
+  * bip 39 word 3: arctic click canvas
+  * bip 39 word: arctic click canvas unusual cargo vivid ritual bonus quit hockey venue abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arctic |  
+| bip_39_word_new_br10 | arctic<br>click<br>canvas<br>unusual<br>cargo<br>vivid<br>ritual<br>bonus<br>quit<br>hockey |  
+| bip_39_word_new_br11 | arctic<br>click<br>canvas<br>unusual<br>cargo<br>vivid<br>ritual<br>bonus<br>quit<br>hockey<br>venue |  
+| bip_39_word_new_br12 | arctic<br>click<br>canvas<br>unusual<br>cargo<br>vivid<br>ritual<br>bonus<br>quit<br>hockey<br>venue<br>abstract |  
+| bip_39_word_new_br2 | arctic<br>click |  
+| bip_39_word_new_br3 | arctic<br>click<br>canvas |  
+| bip_39_word_new_br4 | arctic<br>click<br>canvas<br>unusual |  
+| bip_39_word_new_br5 | arctic<br>click<br>canvas<br>unusual<br>cargo |  
+| bip_39_word_new_br6 | arctic<br>click<br>canvas<br>unusual<br>cargo<br>vivid |  
+| bip_39_word_new_br7 | arctic<br>click<br>canvas<br>unusual<br>cargo<br>vivid<br>ritual |  
+| bip_39_word_new_br8 | arctic<br>click<br>canvas<br>unusual<br>cargo<br>vivid<br>ritual<br>bonus |  
+| bip_39_word_new_br9 | arctic<br>click<br>canvas<br>unusual<br>cargo<br>vivid<br>ritual<br>bonus<br>quit |  
+| bip_39_word_new_line1 | arctic |  
+| bip_39_word_new_line10 | arctic
+click
+canvas
+unusual
+cargo
+vivid
+ritual
+bonus
+quit
+hockey |  
+| bip_39_word_new_line11 | arctic
+click
+canvas
+unusual
+cargo
+vivid
+ritual
+bonus
+quit
+hockey
+venue |  
+| bip_39_word_new_line12 | arctic
+click
+canvas
+unusual
+cargo
+vivid
+ritual
+bonus
+quit
+hockey
+venue
+abstract |  
+| bip_39_word_new_line2 | arctic
+click |  
+| bip_39_word_new_line3 | arctic
+click
+canvas |  
+| bip_39_word_new_line4 | arctic
+click
+canvas
+unusual |  
+| bip_39_word_new_line5 | arctic
+click
+canvas
+unusual
+cargo |  
+| bip_39_word_new_line6 | arctic
+click
+canvas
+unusual
+cargo
+vivid |  
+| bip_39_word_new_line7 | arctic
+click
+canvas
+unusual
+cargo
+vivid
+ritual |  
+| bip_39_word_new_line8 | arctic
+click
+canvas
+unusual
+cargo
+vivid
+ritual
+bonus |  
+| bip_39_word_new_line9 | arctic
+click
+canvas
+unusual
+cargo
+vivid
+ritual
+bonus
+quit |  
+| bip_39_word_space_0 | ['arctic', 'click', 'canvas', 'unusual', 'cargo', 'vivid', 'ritual', 'bonus', 'quit', 'hockey', 'venue', 'abstract'] |  
+| bip_39_word_space_1 | arctic |  
+| bip_39_word_space_10 | arctic click canvas unusual cargo vivid ritual bonus quit hockey |  
+| bip_39_word_space_11 | arctic click canvas unusual cargo vivid ritual bonus quit hockey venue |  
+| bip_39_word_space_12 | arctic click canvas unusual cargo vivid ritual bonus quit hockey venue abstract |  
+| bip_39_word_space_2 | arctic click |  
+| bip_39_word_space_3 | arctic click canvas |  
+| bip_39_word_space_4 | arctic click canvas unusual |  
+| bip_39_word_space_5 | arctic click canvas unusual cargo |  
+| bip_39_word_space_6 | arctic click canvas unusual cargo vivid |  
+| bip_39_word_space_7 | arctic click canvas unusual cargo vivid ritual |  
+| bip_39_word_space_8 | arctic click canvas unusual cargo vivid ritual bonus |  
+| bip_39_word_space_9 | arctic click canvas unusual cargo vivid ritual bonus quit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

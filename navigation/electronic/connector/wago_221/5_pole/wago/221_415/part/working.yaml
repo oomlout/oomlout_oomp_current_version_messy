@@ -1,3 +1,187 @@
+bip_39_word_new_br1: cave
+bip_39_word_new_br10: cave<br>scissors<br>disagree<br>token<br>vendor<br>right<br>news<br>surround<br>much<br>avocado
+bip_39_word_new_br11: cave<br>scissors<br>disagree<br>token<br>vendor<br>right<br>news<br>surround<br>much<br>avocado<br>man
+bip_39_word_new_br12: cave<br>scissors<br>disagree<br>token<br>vendor<br>right<br>news<br>surround<br>much<br>avocado<br>man<br>actress
+bip_39_word_new_br2: cave<br>scissors
+bip_39_word_new_br3: cave<br>scissors<br>disagree
+bip_39_word_new_br4: cave<br>scissors<br>disagree<br>token
+bip_39_word_new_br5: cave<br>scissors<br>disagree<br>token<br>vendor
+bip_39_word_new_br6: cave<br>scissors<br>disagree<br>token<br>vendor<br>right
+bip_39_word_new_br7: cave<br>scissors<br>disagree<br>token<br>vendor<br>right<br>news
+bip_39_word_new_br8: cave<br>scissors<br>disagree<br>token<br>vendor<br>right<br>news<br>surround
+bip_39_word_new_br9: cave<br>scissors<br>disagree<br>token<br>vendor<br>right<br>news<br>surround<br>much
+bip_39_word_new_line1: cave
+bip_39_word_new_line10: 'cave
+
+  scissors
+
+  disagree
+
+  token
+
+  vendor
+
+  right
+
+  news
+
+  surround
+
+  much
+
+  avocado'
+bip_39_word_new_line11: 'cave
+
+  scissors
+
+  disagree
+
+  token
+
+  vendor
+
+  right
+
+  news
+
+  surround
+
+  much
+
+  avocado
+
+  man'
+bip_39_word_new_line12: 'cave
+
+  scissors
+
+  disagree
+
+  token
+
+  vendor
+
+  right
+
+  news
+
+  surround
+
+  much
+
+  avocado
+
+  man
+
+  actress'
+bip_39_word_new_line2: 'cave
+
+  scissors'
+bip_39_word_new_line3: 'cave
+
+  scissors
+
+  disagree'
+bip_39_word_new_line4: 'cave
+
+  scissors
+
+  disagree
+
+  token'
+bip_39_word_new_line5: 'cave
+
+  scissors
+
+  disagree
+
+  token
+
+  vendor'
+bip_39_word_new_line6: 'cave
+
+  scissors
+
+  disagree
+
+  token
+
+  vendor
+
+  right'
+bip_39_word_new_line7: 'cave
+
+  scissors
+
+  disagree
+
+  token
+
+  vendor
+
+  right
+
+  news'
+bip_39_word_new_line8: 'cave
+
+  scissors
+
+  disagree
+
+  token
+
+  vendor
+
+  right
+
+  news
+
+  surround'
+bip_39_word_new_line9: 'cave
+
+  scissors
+
+  disagree
+
+  token
+
+  vendor
+
+  right
+
+  news
+
+  surround
+
+  much'
+bip_39_word_space_0:
+- cave
+- scissors
+- disagree
+- token
+- vendor
+- right
+- news
+- surround
+- much
+- avocado
+- man
+- actress
+bip_39_word_space_1: cave
+bip_39_word_space_10: cave scissors disagree token vendor right news surround much
+  avocado
+bip_39_word_space_11: cave scissors disagree token vendor right news surround much
+  avocado man
+bip_39_word_space_12: cave scissors disagree token vendor right news surround much
+  avocado man actress
+bip_39_word_space_2: cave scissors
+bip_39_word_space_3: cave scissors disagree
+bip_39_word_space_4: cave scissors disagree token
+bip_39_word_space_5: cave scissors disagree token vendor
+bip_39_word_space_6: cave scissors disagree token vendor right
+bip_39_word_space_7: cave scissors disagree token vendor right news
+bip_39_word_space_8: cave scissors disagree token vendor right news surround
+bip_39_word_space_9: cave scissors disagree token vendor right news surround much
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

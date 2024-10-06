@@ -1,3 +1,185 @@
+bip_39_word_new_br1: resemble
+bip_39_word_new_br10: resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone
+bip_39_word_new_br11: resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone<br>box
+bip_39_word_new_br12: resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win<br>bone<br>box<br>absent
+bip_39_word_new_br2: resemble<br>drip
+bip_39_word_new_br3: resemble<br>drip<br>maid
+bip_39_word_new_br4: resemble<br>drip<br>maid<br>buzz
+bip_39_word_new_br5: resemble<br>drip<br>maid<br>buzz<br>motor
+bip_39_word_new_br6: resemble<br>drip<br>maid<br>buzz<br>motor<br>level
+bip_39_word_new_br7: resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk
+bip_39_word_new_br8: resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit
+bip_39_word_new_br9: resemble<br>drip<br>maid<br>buzz<br>motor<br>level<br>junk<br>orbit<br>win
+bip_39_word_new_line1: resemble
+bip_39_word_new_line10: 'resemble
+
+  drip
+
+  maid
+
+  buzz
+
+  motor
+
+  level
+
+  junk
+
+  orbit
+
+  win
+
+  bone'
+bip_39_word_new_line11: 'resemble
+
+  drip
+
+  maid
+
+  buzz
+
+  motor
+
+  level
+
+  junk
+
+  orbit
+
+  win
+
+  bone
+
+  box'
+bip_39_word_new_line12: 'resemble
+
+  drip
+
+  maid
+
+  buzz
+
+  motor
+
+  level
+
+  junk
+
+  orbit
+
+  win
+
+  bone
+
+  box
+
+  absent'
+bip_39_word_new_line2: 'resemble
+
+  drip'
+bip_39_word_new_line3: 'resemble
+
+  drip
+
+  maid'
+bip_39_word_new_line4: 'resemble
+
+  drip
+
+  maid
+
+  buzz'
+bip_39_word_new_line5: 'resemble
+
+  drip
+
+  maid
+
+  buzz
+
+  motor'
+bip_39_word_new_line6: 'resemble
+
+  drip
+
+  maid
+
+  buzz
+
+  motor
+
+  level'
+bip_39_word_new_line7: 'resemble
+
+  drip
+
+  maid
+
+  buzz
+
+  motor
+
+  level
+
+  junk'
+bip_39_word_new_line8: 'resemble
+
+  drip
+
+  maid
+
+  buzz
+
+  motor
+
+  level
+
+  junk
+
+  orbit'
+bip_39_word_new_line9: 'resemble
+
+  drip
+
+  maid
+
+  buzz
+
+  motor
+
+  level
+
+  junk
+
+  orbit
+
+  win'
+bip_39_word_space_0:
+- resemble
+- drip
+- maid
+- buzz
+- motor
+- level
+- junk
+- orbit
+- win
+- bone
+- box
+- absent
+bip_39_word_space_1: resemble
+bip_39_word_space_10: resemble drip maid buzz motor level junk orbit win bone
+bip_39_word_space_11: resemble drip maid buzz motor level junk orbit win bone box
+bip_39_word_space_12: resemble drip maid buzz motor level junk orbit win bone box
+  absent
+bip_39_word_space_2: resemble drip
+bip_39_word_space_3: resemble drip maid
+bip_39_word_space_4: resemble drip maid buzz
+bip_39_word_space_5: resemble drip maid buzz motor
+bip_39_word_space_6: resemble drip maid buzz motor level
+bip_39_word_space_7: resemble drip maid buzz motor level junk
+bip_39_word_space_8: resemble drip maid buzz motor level junk orbit
+bip_39_word_space_9: resemble drip maid buzz motor level junk orbit win
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

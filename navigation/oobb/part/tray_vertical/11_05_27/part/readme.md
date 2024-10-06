@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: equip noise
+  * bip 39 word 3: equip noise feed
+  * bip 39 word: equip noise feed say wing afraid cigar auction barrel aware awful asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | equip |  
+| bip_39_word_new_br10 | equip<br>noise<br>feed<br>say<br>wing<br>afraid<br>cigar<br>auction<br>barrel<br>aware |  
+| bip_39_word_new_br11 | equip<br>noise<br>feed<br>say<br>wing<br>afraid<br>cigar<br>auction<br>barrel<br>aware<br>awful |  
+| bip_39_word_new_br12 | equip<br>noise<br>feed<br>say<br>wing<br>afraid<br>cigar<br>auction<br>barrel<br>aware<br>awful<br>asthma |  
+| bip_39_word_new_br2 | equip<br>noise |  
+| bip_39_word_new_br3 | equip<br>noise<br>feed |  
+| bip_39_word_new_br4 | equip<br>noise<br>feed<br>say |  
+| bip_39_word_new_br5 | equip<br>noise<br>feed<br>say<br>wing |  
+| bip_39_word_new_br6 | equip<br>noise<br>feed<br>say<br>wing<br>afraid |  
+| bip_39_word_new_br7 | equip<br>noise<br>feed<br>say<br>wing<br>afraid<br>cigar |  
+| bip_39_word_new_br8 | equip<br>noise<br>feed<br>say<br>wing<br>afraid<br>cigar<br>auction |  
+| bip_39_word_new_br9 | equip<br>noise<br>feed<br>say<br>wing<br>afraid<br>cigar<br>auction<br>barrel |  
+| bip_39_word_new_line1 | equip |  
+| bip_39_word_new_line10 | equip
+noise
+feed
+say
+wing
+afraid
+cigar
+auction
+barrel
+aware |  
+| bip_39_word_new_line11 | equip
+noise
+feed
+say
+wing
+afraid
+cigar
+auction
+barrel
+aware
+awful |  
+| bip_39_word_new_line12 | equip
+noise
+feed
+say
+wing
+afraid
+cigar
+auction
+barrel
+aware
+awful
+asthma |  
+| bip_39_word_new_line2 | equip
+noise |  
+| bip_39_word_new_line3 | equip
+noise
+feed |  
+| bip_39_word_new_line4 | equip
+noise
+feed
+say |  
+| bip_39_word_new_line5 | equip
+noise
+feed
+say
+wing |  
+| bip_39_word_new_line6 | equip
+noise
+feed
+say
+wing
+afraid |  
+| bip_39_word_new_line7 | equip
+noise
+feed
+say
+wing
+afraid
+cigar |  
+| bip_39_word_new_line8 | equip
+noise
+feed
+say
+wing
+afraid
+cigar
+auction |  
+| bip_39_word_new_line9 | equip
+noise
+feed
+say
+wing
+afraid
+cigar
+auction
+barrel |  
+| bip_39_word_space_0 | ['equip', 'noise', 'feed', 'say', 'wing', 'afraid', 'cigar', 'auction', 'barrel', 'aware', 'awful', 'asthma'] |  
+| bip_39_word_space_1 | equip |  
+| bip_39_word_space_10 | equip noise feed say wing afraid cigar auction barrel aware |  
+| bip_39_word_space_11 | equip noise feed say wing afraid cigar auction barrel aware awful |  
+| bip_39_word_space_12 | equip noise feed say wing afraid cigar auction barrel aware awful asthma |  
+| bip_39_word_space_2 | equip noise |  
+| bip_39_word_space_3 | equip noise feed |  
+| bip_39_word_space_4 | equip noise feed say |  
+| bip_39_word_space_5 | equip noise feed say wing |  
+| bip_39_word_space_6 | equip noise feed say wing afraid |  
+| bip_39_word_space_7 | equip noise feed say wing afraid cigar |  
+| bip_39_word_space_8 | equip noise feed say wing afraid cigar auction |  
+| bip_39_word_space_9 | equip noise feed say wing afraid cigar auction barrel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

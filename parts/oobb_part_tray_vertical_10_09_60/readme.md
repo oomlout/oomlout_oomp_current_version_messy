@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: card enjoy
+  * bip 39 word 3: card enjoy spoil
+  * bip 39 word: card enjoy spoil letter tired visit start onion naive toy nose amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | card |  
+| bip_39_word_new_br10 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit<br>start<br>onion<br>naive<br>toy |  
+| bip_39_word_new_br11 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit<br>start<br>onion<br>naive<br>toy<br>nose |  
+| bip_39_word_new_br12 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit<br>start<br>onion<br>naive<br>toy<br>nose<br>amused |  
+| bip_39_word_new_br2 | card<br>enjoy |  
+| bip_39_word_new_br3 | card<br>enjoy<br>spoil |  
+| bip_39_word_new_br4 | card<br>enjoy<br>spoil<br>letter |  
+| bip_39_word_new_br5 | card<br>enjoy<br>spoil<br>letter<br>tired |  
+| bip_39_word_new_br6 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit |  
+| bip_39_word_new_br7 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit<br>start |  
+| bip_39_word_new_br8 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit<br>start<br>onion |  
+| bip_39_word_new_br9 | card<br>enjoy<br>spoil<br>letter<br>tired<br>visit<br>start<br>onion<br>naive |  
+| bip_39_word_new_line1 | card |  
+| bip_39_word_new_line10 | card
+enjoy
+spoil
+letter
+tired
+visit
+start
+onion
+naive
+toy |  
+| bip_39_word_new_line11 | card
+enjoy
+spoil
+letter
+tired
+visit
+start
+onion
+naive
+toy
+nose |  
+| bip_39_word_new_line12 | card
+enjoy
+spoil
+letter
+tired
+visit
+start
+onion
+naive
+toy
+nose
+amused |  
+| bip_39_word_new_line2 | card
+enjoy |  
+| bip_39_word_new_line3 | card
+enjoy
+spoil |  
+| bip_39_word_new_line4 | card
+enjoy
+spoil
+letter |  
+| bip_39_word_new_line5 | card
+enjoy
+spoil
+letter
+tired |  
+| bip_39_word_new_line6 | card
+enjoy
+spoil
+letter
+tired
+visit |  
+| bip_39_word_new_line7 | card
+enjoy
+spoil
+letter
+tired
+visit
+start |  
+| bip_39_word_new_line8 | card
+enjoy
+spoil
+letter
+tired
+visit
+start
+onion |  
+| bip_39_word_new_line9 | card
+enjoy
+spoil
+letter
+tired
+visit
+start
+onion
+naive |  
+| bip_39_word_space_0 | ['card', 'enjoy', 'spoil', 'letter', 'tired', 'visit', 'start', 'onion', 'naive', 'toy', 'nose', 'amused'] |  
+| bip_39_word_space_1 | card |  
+| bip_39_word_space_10 | card enjoy spoil letter tired visit start onion naive toy |  
+| bip_39_word_space_11 | card enjoy spoil letter tired visit start onion naive toy nose |  
+| bip_39_word_space_12 | card enjoy spoil letter tired visit start onion naive toy nose amused |  
+| bip_39_word_space_2 | card enjoy |  
+| bip_39_word_space_3 | card enjoy spoil |  
+| bip_39_word_space_4 | card enjoy spoil letter |  
+| bip_39_word_space_5 | card enjoy spoil letter tired |  
+| bip_39_word_space_6 | card enjoy spoil letter tired visit |  
+| bip_39_word_space_7 | card enjoy spoil letter tired visit start |  
+| bip_39_word_space_8 | card enjoy spoil letter tired visit start onion |  
+| bip_39_word_space_9 | card enjoy spoil letter tired visit start onion naive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

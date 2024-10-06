@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: belt supreme
+  * bip 39 word 3: belt supreme gentle
+  * bip 39 word: belt supreme gentle cheap pumpkin sick twelve fatigue enable parent vacuum air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | belt |  
+| bip_39_word_new_br10 | belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable<br>parent |  
+| bip_39_word_new_br11 | belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable<br>parent<br>vacuum |  
+| bip_39_word_new_br12 | belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable<br>parent<br>vacuum<br>air |  
+| bip_39_word_new_br2 | belt<br>supreme |  
+| bip_39_word_new_br3 | belt<br>supreme<br>gentle |  
+| bip_39_word_new_br4 | belt<br>supreme<br>gentle<br>cheap |  
+| bip_39_word_new_br5 | belt<br>supreme<br>gentle<br>cheap<br>pumpkin |  
+| bip_39_word_new_br6 | belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick |  
+| bip_39_word_new_br7 | belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve |  
+| bip_39_word_new_br8 | belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue |  
+| bip_39_word_new_br9 | belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable |  
+| bip_39_word_new_line1 | belt |  
+| bip_39_word_new_line10 | belt
+supreme
+gentle
+cheap
+pumpkin
+sick
+twelve
+fatigue
+enable
+parent |  
+| bip_39_word_new_line11 | belt
+supreme
+gentle
+cheap
+pumpkin
+sick
+twelve
+fatigue
+enable
+parent
+vacuum |  
+| bip_39_word_new_line12 | belt
+supreme
+gentle
+cheap
+pumpkin
+sick
+twelve
+fatigue
+enable
+parent
+vacuum
+air |  
+| bip_39_word_new_line2 | belt
+supreme |  
+| bip_39_word_new_line3 | belt
+supreme
+gentle |  
+| bip_39_word_new_line4 | belt
+supreme
+gentle
+cheap |  
+| bip_39_word_new_line5 | belt
+supreme
+gentle
+cheap
+pumpkin |  
+| bip_39_word_new_line6 | belt
+supreme
+gentle
+cheap
+pumpkin
+sick |  
+| bip_39_word_new_line7 | belt
+supreme
+gentle
+cheap
+pumpkin
+sick
+twelve |  
+| bip_39_word_new_line8 | belt
+supreme
+gentle
+cheap
+pumpkin
+sick
+twelve
+fatigue |  
+| bip_39_word_new_line9 | belt
+supreme
+gentle
+cheap
+pumpkin
+sick
+twelve
+fatigue
+enable |  
+| bip_39_word_space_0 | ['belt', 'supreme', 'gentle', 'cheap', 'pumpkin', 'sick', 'twelve', 'fatigue', 'enable', 'parent', 'vacuum', 'air'] |  
+| bip_39_word_space_1 | belt |  
+| bip_39_word_space_10 | belt supreme gentle cheap pumpkin sick twelve fatigue enable parent |  
+| bip_39_word_space_11 | belt supreme gentle cheap pumpkin sick twelve fatigue enable parent vacuum |  
+| bip_39_word_space_12 | belt supreme gentle cheap pumpkin sick twelve fatigue enable parent vacuum air |  
+| bip_39_word_space_2 | belt supreme |  
+| bip_39_word_space_3 | belt supreme gentle |  
+| bip_39_word_space_4 | belt supreme gentle cheap |  
+| bip_39_word_space_5 | belt supreme gentle cheap pumpkin |  
+| bip_39_word_space_6 | belt supreme gentle cheap pumpkin sick |  
+| bip_39_word_space_7 | belt supreme gentle cheap pumpkin sick twelve |  
+| bip_39_word_space_8 | belt supreme gentle cheap pumpkin sick twelve fatigue |  
+| bip_39_word_space_9 | belt supreme gentle cheap pumpkin sick twelve fatigue enable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

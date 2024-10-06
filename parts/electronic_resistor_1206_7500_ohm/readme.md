@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: suit choice
+  * bip 39 word 3: suit choice defy
+  * bip 39 word: suit choice defy victory anchor amazing anger close dutch math sort amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | suit |  
+| bip_39_word_new_br10 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing<br>anger<br>close<br>dutch<br>math |  
+| bip_39_word_new_br11 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing<br>anger<br>close<br>dutch<br>math<br>sort |  
+| bip_39_word_new_br12 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing<br>anger<br>close<br>dutch<br>math<br>sort<br>amount |  
+| bip_39_word_new_br2 | suit<br>choice |  
+| bip_39_word_new_br3 | suit<br>choice<br>defy |  
+| bip_39_word_new_br4 | suit<br>choice<br>defy<br>victory |  
+| bip_39_word_new_br5 | suit<br>choice<br>defy<br>victory<br>anchor |  
+| bip_39_word_new_br6 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing |  
+| bip_39_word_new_br7 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing<br>anger |  
+| bip_39_word_new_br8 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing<br>anger<br>close |  
+| bip_39_word_new_br9 | suit<br>choice<br>defy<br>victory<br>anchor<br>amazing<br>anger<br>close<br>dutch |  
+| bip_39_word_new_line1 | suit |  
+| bip_39_word_new_line10 | suit
+choice
+defy
+victory
+anchor
+amazing
+anger
+close
+dutch
+math |  
+| bip_39_word_new_line11 | suit
+choice
+defy
+victory
+anchor
+amazing
+anger
+close
+dutch
+math
+sort |  
+| bip_39_word_new_line12 | suit
+choice
+defy
+victory
+anchor
+amazing
+anger
+close
+dutch
+math
+sort
+amount |  
+| bip_39_word_new_line2 | suit
+choice |  
+| bip_39_word_new_line3 | suit
+choice
+defy |  
+| bip_39_word_new_line4 | suit
+choice
+defy
+victory |  
+| bip_39_word_new_line5 | suit
+choice
+defy
+victory
+anchor |  
+| bip_39_word_new_line6 | suit
+choice
+defy
+victory
+anchor
+amazing |  
+| bip_39_word_new_line7 | suit
+choice
+defy
+victory
+anchor
+amazing
+anger |  
+| bip_39_word_new_line8 | suit
+choice
+defy
+victory
+anchor
+amazing
+anger
+close |  
+| bip_39_word_new_line9 | suit
+choice
+defy
+victory
+anchor
+amazing
+anger
+close
+dutch |  
+| bip_39_word_space_0 | ['suit', 'choice', 'defy', 'victory', 'anchor', 'amazing', 'anger', 'close', 'dutch', 'math', 'sort', 'amount'] |  
+| bip_39_word_space_1 | suit |  
+| bip_39_word_space_10 | suit choice defy victory anchor amazing anger close dutch math |  
+| bip_39_word_space_11 | suit choice defy victory anchor amazing anger close dutch math sort |  
+| bip_39_word_space_12 | suit choice defy victory anchor amazing anger close dutch math sort amount |  
+| bip_39_word_space_2 | suit choice |  
+| bip_39_word_space_3 | suit choice defy |  
+| bip_39_word_space_4 | suit choice defy victory |  
+| bip_39_word_space_5 | suit choice defy victory anchor |  
+| bip_39_word_space_6 | suit choice defy victory anchor amazing |  
+| bip_39_word_space_7 | suit choice defy victory anchor amazing anger |  
+| bip_39_word_space_8 | suit choice defy victory anchor amazing anger close |  
+| bip_39_word_space_9 | suit choice defy victory anchor amazing anger close dutch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

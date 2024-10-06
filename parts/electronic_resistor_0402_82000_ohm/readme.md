@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: genuine boost
+  * bip 39 word 3: genuine boost outside
+  * bip 39 word: genuine boost outside follow claim session best barely cake abandon fiscal ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | genuine |  
+| bip_39_word_new_br10 | genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon |  
+| bip_39_word_new_br11 | genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon<br>fiscal |  
+| bip_39_word_new_br12 | genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake<br>abandon<br>fiscal<br>ability |  
+| bip_39_word_new_br2 | genuine<br>boost |  
+| bip_39_word_new_br3 | genuine<br>boost<br>outside |  
+| bip_39_word_new_br4 | genuine<br>boost<br>outside<br>follow |  
+| bip_39_word_new_br5 | genuine<br>boost<br>outside<br>follow<br>claim |  
+| bip_39_word_new_br6 | genuine<br>boost<br>outside<br>follow<br>claim<br>session |  
+| bip_39_word_new_br7 | genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best |  
+| bip_39_word_new_br8 | genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely |  
+| bip_39_word_new_br9 | genuine<br>boost<br>outside<br>follow<br>claim<br>session<br>best<br>barely<br>cake |  
+| bip_39_word_new_line1 | genuine |  
+| bip_39_word_new_line10 | genuine
+boost
+outside
+follow
+claim
+session
+best
+barely
+cake
+abandon |  
+| bip_39_word_new_line11 | genuine
+boost
+outside
+follow
+claim
+session
+best
+barely
+cake
+abandon
+fiscal |  
+| bip_39_word_new_line12 | genuine
+boost
+outside
+follow
+claim
+session
+best
+barely
+cake
+abandon
+fiscal
+ability |  
+| bip_39_word_new_line2 | genuine
+boost |  
+| bip_39_word_new_line3 | genuine
+boost
+outside |  
+| bip_39_word_new_line4 | genuine
+boost
+outside
+follow |  
+| bip_39_word_new_line5 | genuine
+boost
+outside
+follow
+claim |  
+| bip_39_word_new_line6 | genuine
+boost
+outside
+follow
+claim
+session |  
+| bip_39_word_new_line7 | genuine
+boost
+outside
+follow
+claim
+session
+best |  
+| bip_39_word_new_line8 | genuine
+boost
+outside
+follow
+claim
+session
+best
+barely |  
+| bip_39_word_new_line9 | genuine
+boost
+outside
+follow
+claim
+session
+best
+barely
+cake |  
+| bip_39_word_space_0 | ['genuine', 'boost', 'outside', 'follow', 'claim', 'session', 'best', 'barely', 'cake', 'abandon', 'fiscal', 'ability'] |  
+| bip_39_word_space_1 | genuine |  
+| bip_39_word_space_10 | genuine boost outside follow claim session best barely cake abandon |  
+| bip_39_word_space_11 | genuine boost outside follow claim session best barely cake abandon fiscal |  
+| bip_39_word_space_12 | genuine boost outside follow claim session best barely cake abandon fiscal ability |  
+| bip_39_word_space_2 | genuine boost |  
+| bip_39_word_space_3 | genuine boost outside |  
+| bip_39_word_space_4 | genuine boost outside follow |  
+| bip_39_word_space_5 | genuine boost outside follow claim |  
+| bip_39_word_space_6 | genuine boost outside follow claim session |  
+| bip_39_word_space_7 | genuine boost outside follow claim session best |  
+| bip_39_word_space_8 | genuine boost outside follow claim session best barely |  
+| bip_39_word_space_9 | genuine boost outside follow claim session best barely cake |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

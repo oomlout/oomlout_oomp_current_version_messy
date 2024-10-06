@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microchip
   * part_number: atmega328p_pu
+  * bip 39 word 2: grid fashion
+  * bip 39 word 3: grid fashion open
+  * bip 39 word: grid fashion open cancel submit wild canyon canal swear jealous noble aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grid |  
+| bip_39_word_new_br10 | grid<br>fashion<br>open<br>cancel<br>submit<br>wild<br>canyon<br>canal<br>swear<br>jealous |  
+| bip_39_word_new_br11 | grid<br>fashion<br>open<br>cancel<br>submit<br>wild<br>canyon<br>canal<br>swear<br>jealous<br>noble |  
+| bip_39_word_new_br12 | grid<br>fashion<br>open<br>cancel<br>submit<br>wild<br>canyon<br>canal<br>swear<br>jealous<br>noble<br>aisle |  
+| bip_39_word_new_br2 | grid<br>fashion |  
+| bip_39_word_new_br3 | grid<br>fashion<br>open |  
+| bip_39_word_new_br4 | grid<br>fashion<br>open<br>cancel |  
+| bip_39_word_new_br5 | grid<br>fashion<br>open<br>cancel<br>submit |  
+| bip_39_word_new_br6 | grid<br>fashion<br>open<br>cancel<br>submit<br>wild |  
+| bip_39_word_new_br7 | grid<br>fashion<br>open<br>cancel<br>submit<br>wild<br>canyon |  
+| bip_39_word_new_br8 | grid<br>fashion<br>open<br>cancel<br>submit<br>wild<br>canyon<br>canal |  
+| bip_39_word_new_br9 | grid<br>fashion<br>open<br>cancel<br>submit<br>wild<br>canyon<br>canal<br>swear |  
+| bip_39_word_new_line1 | grid |  
+| bip_39_word_new_line10 | grid
+fashion
+open
+cancel
+submit
+wild
+canyon
+canal
+swear
+jealous |  
+| bip_39_word_new_line11 | grid
+fashion
+open
+cancel
+submit
+wild
+canyon
+canal
+swear
+jealous
+noble |  
+| bip_39_word_new_line12 | grid
+fashion
+open
+cancel
+submit
+wild
+canyon
+canal
+swear
+jealous
+noble
+aisle |  
+| bip_39_word_new_line2 | grid
+fashion |  
+| bip_39_word_new_line3 | grid
+fashion
+open |  
+| bip_39_word_new_line4 | grid
+fashion
+open
+cancel |  
+| bip_39_word_new_line5 | grid
+fashion
+open
+cancel
+submit |  
+| bip_39_word_new_line6 | grid
+fashion
+open
+cancel
+submit
+wild |  
+| bip_39_word_new_line7 | grid
+fashion
+open
+cancel
+submit
+wild
+canyon |  
+| bip_39_word_new_line8 | grid
+fashion
+open
+cancel
+submit
+wild
+canyon
+canal |  
+| bip_39_word_new_line9 | grid
+fashion
+open
+cancel
+submit
+wild
+canyon
+canal
+swear |  
+| bip_39_word_space_0 | ['grid', 'fashion', 'open', 'cancel', 'submit', 'wild', 'canyon', 'canal', 'swear', 'jealous', 'noble', 'aisle'] |  
+| bip_39_word_space_1 | grid |  
+| bip_39_word_space_10 | grid fashion open cancel submit wild canyon canal swear jealous |  
+| bip_39_word_space_11 | grid fashion open cancel submit wild canyon canal swear jealous noble |  
+| bip_39_word_space_12 | grid fashion open cancel submit wild canyon canal swear jealous noble aisle |  
+| bip_39_word_space_2 | grid fashion |  
+| bip_39_word_space_3 | grid fashion open |  
+| bip_39_word_space_4 | grid fashion open cancel |  
+| bip_39_word_space_5 | grid fashion open cancel submit |  
+| bip_39_word_space_6 | grid fashion open cancel submit wild |  
+| bip_39_word_space_7 | grid fashion open cancel submit wild canyon |  
+| bip_39_word_space_8 | grid fashion open cancel submit wild canyon canal |  
+| bip_39_word_space_9 | grid fashion open cancel submit wild canyon canal swear |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

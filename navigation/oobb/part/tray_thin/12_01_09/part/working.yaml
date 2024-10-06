@@ -1,3 +1,186 @@
+bip_39_word_new_br1: small
+bip_39_word_new_br10: small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody
+bip_39_word_new_br11: small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody<br>venue
+bip_39_word_new_br12: small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild<br>embody<br>venue<br>arch
+bip_39_word_new_br2: small<br>wing
+bip_39_word_new_br3: small<br>wing<br>reason
+bip_39_word_new_br4: small<br>wing<br>reason<br>stairs
+bip_39_word_new_br5: small<br>wing<br>reason<br>stairs<br>infant
+bip_39_word_new_br6: small<br>wing<br>reason<br>stairs<br>infant<br>remind
+bip_39_word_new_br7: small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle
+bip_39_word_new_br8: small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure
+bip_39_word_new_br9: small<br>wing<br>reason<br>stairs<br>infant<br>remind<br>angle<br>measure<br>wild
+bip_39_word_new_line1: small
+bip_39_word_new_line10: 'small
+
+  wing
+
+  reason
+
+  stairs
+
+  infant
+
+  remind
+
+  angle
+
+  measure
+
+  wild
+
+  embody'
+bip_39_word_new_line11: 'small
+
+  wing
+
+  reason
+
+  stairs
+
+  infant
+
+  remind
+
+  angle
+
+  measure
+
+  wild
+
+  embody
+
+  venue'
+bip_39_word_new_line12: 'small
+
+  wing
+
+  reason
+
+  stairs
+
+  infant
+
+  remind
+
+  angle
+
+  measure
+
+  wild
+
+  embody
+
+  venue
+
+  arch'
+bip_39_word_new_line2: 'small
+
+  wing'
+bip_39_word_new_line3: 'small
+
+  wing
+
+  reason'
+bip_39_word_new_line4: 'small
+
+  wing
+
+  reason
+
+  stairs'
+bip_39_word_new_line5: 'small
+
+  wing
+
+  reason
+
+  stairs
+
+  infant'
+bip_39_word_new_line6: 'small
+
+  wing
+
+  reason
+
+  stairs
+
+  infant
+
+  remind'
+bip_39_word_new_line7: 'small
+
+  wing
+
+  reason
+
+  stairs
+
+  infant
+
+  remind
+
+  angle'
+bip_39_word_new_line8: 'small
+
+  wing
+
+  reason
+
+  stairs
+
+  infant
+
+  remind
+
+  angle
+
+  measure'
+bip_39_word_new_line9: 'small
+
+  wing
+
+  reason
+
+  stairs
+
+  infant
+
+  remind
+
+  angle
+
+  measure
+
+  wild'
+bip_39_word_space_0:
+- small
+- wing
+- reason
+- stairs
+- infant
+- remind
+- angle
+- measure
+- wild
+- embody
+- venue
+- arch
+bip_39_word_space_1: small
+bip_39_word_space_10: small wing reason stairs infant remind angle measure wild embody
+bip_39_word_space_11: small wing reason stairs infant remind angle measure wild embody
+  venue
+bip_39_word_space_12: small wing reason stairs infant remind angle measure wild embody
+  venue arch
+bip_39_word_space_2: small wing
+bip_39_word_space_3: small wing reason
+bip_39_word_space_4: small wing reason stairs
+bip_39_word_space_5: small wing reason stairs infant
+bip_39_word_space_6: small wing reason stairs infant remind
+bip_39_word_space_7: small wing reason stairs infant remind angle
+bip_39_word_space_8: small wing reason stairs infant remind angle measure
+bip_39_word_space_9: small wing reason stairs infant remind angle measure wild
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

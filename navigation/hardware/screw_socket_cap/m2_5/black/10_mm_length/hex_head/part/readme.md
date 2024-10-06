@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bridge shield
+  * bip 39 word 3: bridge shield misery
+  * bip 39 word: bridge shield misery canyon approve orchard harbor clog print chef enhance amused
 
 ### other_codes
 * short_code: sc2d5b10h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bridge |  
+| bip_39_word_new_br10 | bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog<br>print<br>chef |  
+| bip_39_word_new_br11 | bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog<br>print<br>chef<br>enhance |  
+| bip_39_word_new_br12 | bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog<br>print<br>chef<br>enhance<br>amused |  
+| bip_39_word_new_br2 | bridge<br>shield |  
+| bip_39_word_new_br3 | bridge<br>shield<br>misery |  
+| bip_39_word_new_br4 | bridge<br>shield<br>misery<br>canyon |  
+| bip_39_word_new_br5 | bridge<br>shield<br>misery<br>canyon<br>approve |  
+| bip_39_word_new_br6 | bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard |  
+| bip_39_word_new_br7 | bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor |  
+| bip_39_word_new_br8 | bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog |  
+| bip_39_word_new_br9 | bridge<br>shield<br>misery<br>canyon<br>approve<br>orchard<br>harbor<br>clog<br>print |  
+| bip_39_word_new_line1 | bridge |  
+| bip_39_word_new_line10 | bridge
+shield
+misery
+canyon
+approve
+orchard
+harbor
+clog
+print
+chef |  
+| bip_39_word_new_line11 | bridge
+shield
+misery
+canyon
+approve
+orchard
+harbor
+clog
+print
+chef
+enhance |  
+| bip_39_word_new_line12 | bridge
+shield
+misery
+canyon
+approve
+orchard
+harbor
+clog
+print
+chef
+enhance
+amused |  
+| bip_39_word_new_line2 | bridge
+shield |  
+| bip_39_word_new_line3 | bridge
+shield
+misery |  
+| bip_39_word_new_line4 | bridge
+shield
+misery
+canyon |  
+| bip_39_word_new_line5 | bridge
+shield
+misery
+canyon
+approve |  
+| bip_39_word_new_line6 | bridge
+shield
+misery
+canyon
+approve
+orchard |  
+| bip_39_word_new_line7 | bridge
+shield
+misery
+canyon
+approve
+orchard
+harbor |  
+| bip_39_word_new_line8 | bridge
+shield
+misery
+canyon
+approve
+orchard
+harbor
+clog |  
+| bip_39_word_new_line9 | bridge
+shield
+misery
+canyon
+approve
+orchard
+harbor
+clog
+print |  
+| bip_39_word_space_0 | ['bridge', 'shield', 'misery', 'canyon', 'approve', 'orchard', 'harbor', 'clog', 'print', 'chef', 'enhance', 'amused'] |  
+| bip_39_word_space_1 | bridge |  
+| bip_39_word_space_10 | bridge shield misery canyon approve orchard harbor clog print chef |  
+| bip_39_word_space_11 | bridge shield misery canyon approve orchard harbor clog print chef enhance |  
+| bip_39_word_space_12 | bridge shield misery canyon approve orchard harbor clog print chef enhance amused |  
+| bip_39_word_space_2 | bridge shield |  
+| bip_39_word_space_3 | bridge shield misery |  
+| bip_39_word_space_4 | bridge shield misery canyon |  
+| bip_39_word_space_5 | bridge shield misery canyon approve |  
+| bip_39_word_space_6 | bridge shield misery canyon approve orchard |  
+| bip_39_word_space_7 | bridge shield misery canyon approve orchard harbor |  
+| bip_39_word_space_8 | bridge shield misery canyon approve orchard harbor clog |  
+| bip_39_word_space_9 | bridge shield misery canyon approve orchard harbor clog print |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

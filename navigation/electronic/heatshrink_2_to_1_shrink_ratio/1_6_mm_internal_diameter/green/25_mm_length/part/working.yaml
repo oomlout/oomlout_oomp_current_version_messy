@@ -1,3 +1,186 @@
+bip_39_word_new_br1: infant
+bip_39_word_new_br10: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar
+bip_39_word_new_br11: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar<br>stuff
+bip_39_word_new_br12: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture<br>liar<br>stuff<br>area
+bip_39_word_new_br2: infant<br>burst
+bip_39_word_new_br3: infant<br>burst<br>party
+bip_39_word_new_br4: infant<br>burst<br>party<br>duck
+bip_39_word_new_br5: infant<br>burst<br>party<br>duck<br>sibling
+bip_39_word_new_br6: infant<br>burst<br>party<br>duck<br>sibling<br>hint
+bip_39_word_new_br7: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb
+bip_39_word_new_br8: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip
+bip_39_word_new_br9: infant<br>burst<br>party<br>duck<br>sibling<br>hint<br>bulb<br>gossip<br>culture
+bip_39_word_new_line1: infant
+bip_39_word_new_line10: 'infant
+
+  burst
+
+  party
+
+  duck
+
+  sibling
+
+  hint
+
+  bulb
+
+  gossip
+
+  culture
+
+  liar'
+bip_39_word_new_line11: 'infant
+
+  burst
+
+  party
+
+  duck
+
+  sibling
+
+  hint
+
+  bulb
+
+  gossip
+
+  culture
+
+  liar
+
+  stuff'
+bip_39_word_new_line12: 'infant
+
+  burst
+
+  party
+
+  duck
+
+  sibling
+
+  hint
+
+  bulb
+
+  gossip
+
+  culture
+
+  liar
+
+  stuff
+
+  area'
+bip_39_word_new_line2: 'infant
+
+  burst'
+bip_39_word_new_line3: 'infant
+
+  burst
+
+  party'
+bip_39_word_new_line4: 'infant
+
+  burst
+
+  party
+
+  duck'
+bip_39_word_new_line5: 'infant
+
+  burst
+
+  party
+
+  duck
+
+  sibling'
+bip_39_word_new_line6: 'infant
+
+  burst
+
+  party
+
+  duck
+
+  sibling
+
+  hint'
+bip_39_word_new_line7: 'infant
+
+  burst
+
+  party
+
+  duck
+
+  sibling
+
+  hint
+
+  bulb'
+bip_39_word_new_line8: 'infant
+
+  burst
+
+  party
+
+  duck
+
+  sibling
+
+  hint
+
+  bulb
+
+  gossip'
+bip_39_word_new_line9: 'infant
+
+  burst
+
+  party
+
+  duck
+
+  sibling
+
+  hint
+
+  bulb
+
+  gossip
+
+  culture'
+bip_39_word_space_0:
+- infant
+- burst
+- party
+- duck
+- sibling
+- hint
+- bulb
+- gossip
+- culture
+- liar
+- stuff
+- area
+bip_39_word_space_1: infant
+bip_39_word_space_10: infant burst party duck sibling hint bulb gossip culture liar
+bip_39_word_space_11: infant burst party duck sibling hint bulb gossip culture liar
+  stuff
+bip_39_word_space_12: infant burst party duck sibling hint bulb gossip culture liar
+  stuff area
+bip_39_word_space_2: infant burst
+bip_39_word_space_3: infant burst party
+bip_39_word_space_4: infant burst party duck
+bip_39_word_space_5: infant burst party duck sibling
+bip_39_word_space_6: infant burst party duck sibling hint
+bip_39_word_space_7: infant burst party duck sibling hint bulb
+bip_39_word_space_8: infant burst party duck sibling hint bulb gossip
+bip_39_word_space_9: infant burst party duck sibling hint bulb gossip culture
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

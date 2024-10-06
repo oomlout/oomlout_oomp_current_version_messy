@@ -1,3 +1,186 @@
+bip_39_word_new_br1: know
+bip_39_word_new_br10: know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty
+bip_39_word_new_br11: know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty<br>comic
+bip_39_word_new_br12: know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate<br>beauty<br>comic<br>around
+bip_39_word_new_br2: know<br>connect
+bip_39_word_new_br3: know<br>connect<br>melt
+bip_39_word_new_br4: know<br>connect<br>melt<br>outdoor
+bip_39_word_new_br5: know<br>connect<br>melt<br>outdoor<br>coil
+bip_39_word_new_br6: know<br>connect<br>melt<br>outdoor<br>coil<br>come
+bip_39_word_new_br7: know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame
+bip_39_word_new_br8: know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax
+bip_39_word_new_br9: know<br>connect<br>melt<br>outdoor<br>coil<br>come<br>fame<br>relax<br>rotate
+bip_39_word_new_line1: know
+bip_39_word_new_line10: 'know
+
+  connect
+
+  melt
+
+  outdoor
+
+  coil
+
+  come
+
+  fame
+
+  relax
+
+  rotate
+
+  beauty'
+bip_39_word_new_line11: 'know
+
+  connect
+
+  melt
+
+  outdoor
+
+  coil
+
+  come
+
+  fame
+
+  relax
+
+  rotate
+
+  beauty
+
+  comic'
+bip_39_word_new_line12: 'know
+
+  connect
+
+  melt
+
+  outdoor
+
+  coil
+
+  come
+
+  fame
+
+  relax
+
+  rotate
+
+  beauty
+
+  comic
+
+  around'
+bip_39_word_new_line2: 'know
+
+  connect'
+bip_39_word_new_line3: 'know
+
+  connect
+
+  melt'
+bip_39_word_new_line4: 'know
+
+  connect
+
+  melt
+
+  outdoor'
+bip_39_word_new_line5: 'know
+
+  connect
+
+  melt
+
+  outdoor
+
+  coil'
+bip_39_word_new_line6: 'know
+
+  connect
+
+  melt
+
+  outdoor
+
+  coil
+
+  come'
+bip_39_word_new_line7: 'know
+
+  connect
+
+  melt
+
+  outdoor
+
+  coil
+
+  come
+
+  fame'
+bip_39_word_new_line8: 'know
+
+  connect
+
+  melt
+
+  outdoor
+
+  coil
+
+  come
+
+  fame
+
+  relax'
+bip_39_word_new_line9: 'know
+
+  connect
+
+  melt
+
+  outdoor
+
+  coil
+
+  come
+
+  fame
+
+  relax
+
+  rotate'
+bip_39_word_space_0:
+- know
+- connect
+- melt
+- outdoor
+- coil
+- come
+- fame
+- relax
+- rotate
+- beauty
+- comic
+- around
+bip_39_word_space_1: know
+bip_39_word_space_10: know connect melt outdoor coil come fame relax rotate beauty
+bip_39_word_space_11: know connect melt outdoor coil come fame relax rotate beauty
+  comic
+bip_39_word_space_12: know connect melt outdoor coil come fame relax rotate beauty
+  comic around
+bip_39_word_space_2: know connect
+bip_39_word_space_3: know connect melt
+bip_39_word_space_4: know connect melt outdoor
+bip_39_word_space_5: know connect melt outdoor coil
+bip_39_word_space_6: know connect melt outdoor coil come
+bip_39_word_space_7: know connect melt outdoor coil come fame
+bip_39_word_space_8: know connect melt outdoor coil come fame relax
+bip_39_word_space_9: know connect melt outdoor coil come fame relax rotate
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

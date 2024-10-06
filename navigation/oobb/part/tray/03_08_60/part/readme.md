@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: match candy
+  * bip 39 word 3: match candy come
+  * bip 39 word: match candy come universe alert nothing cake guitar wonder volume dose autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | match |  
+| bip_39_word_new_br10 | match<br>candy<br>come<br>universe<br>alert<br>nothing<br>cake<br>guitar<br>wonder<br>volume |  
+| bip_39_word_new_br11 | match<br>candy<br>come<br>universe<br>alert<br>nothing<br>cake<br>guitar<br>wonder<br>volume<br>dose |  
+| bip_39_word_new_br12 | match<br>candy<br>come<br>universe<br>alert<br>nothing<br>cake<br>guitar<br>wonder<br>volume<br>dose<br>autumn |  
+| bip_39_word_new_br2 | match<br>candy |  
+| bip_39_word_new_br3 | match<br>candy<br>come |  
+| bip_39_word_new_br4 | match<br>candy<br>come<br>universe |  
+| bip_39_word_new_br5 | match<br>candy<br>come<br>universe<br>alert |  
+| bip_39_word_new_br6 | match<br>candy<br>come<br>universe<br>alert<br>nothing |  
+| bip_39_word_new_br7 | match<br>candy<br>come<br>universe<br>alert<br>nothing<br>cake |  
+| bip_39_word_new_br8 | match<br>candy<br>come<br>universe<br>alert<br>nothing<br>cake<br>guitar |  
+| bip_39_word_new_br9 | match<br>candy<br>come<br>universe<br>alert<br>nothing<br>cake<br>guitar<br>wonder |  
+| bip_39_word_new_line1 | match |  
+| bip_39_word_new_line10 | match
+candy
+come
+universe
+alert
+nothing
+cake
+guitar
+wonder
+volume |  
+| bip_39_word_new_line11 | match
+candy
+come
+universe
+alert
+nothing
+cake
+guitar
+wonder
+volume
+dose |  
+| bip_39_word_new_line12 | match
+candy
+come
+universe
+alert
+nothing
+cake
+guitar
+wonder
+volume
+dose
+autumn |  
+| bip_39_word_new_line2 | match
+candy |  
+| bip_39_word_new_line3 | match
+candy
+come |  
+| bip_39_word_new_line4 | match
+candy
+come
+universe |  
+| bip_39_word_new_line5 | match
+candy
+come
+universe
+alert |  
+| bip_39_word_new_line6 | match
+candy
+come
+universe
+alert
+nothing |  
+| bip_39_word_new_line7 | match
+candy
+come
+universe
+alert
+nothing
+cake |  
+| bip_39_word_new_line8 | match
+candy
+come
+universe
+alert
+nothing
+cake
+guitar |  
+| bip_39_word_new_line9 | match
+candy
+come
+universe
+alert
+nothing
+cake
+guitar
+wonder |  
+| bip_39_word_space_0 | ['match', 'candy', 'come', 'universe', 'alert', 'nothing', 'cake', 'guitar', 'wonder', 'volume', 'dose', 'autumn'] |  
+| bip_39_word_space_1 | match |  
+| bip_39_word_space_10 | match candy come universe alert nothing cake guitar wonder volume |  
+| bip_39_word_space_11 | match candy come universe alert nothing cake guitar wonder volume dose |  
+| bip_39_word_space_12 | match candy come universe alert nothing cake guitar wonder volume dose autumn |  
+| bip_39_word_space_2 | match candy |  
+| bip_39_word_space_3 | match candy come |  
+| bip_39_word_space_4 | match candy come universe |  
+| bip_39_word_space_5 | match candy come universe alert |  
+| bip_39_word_space_6 | match candy come universe alert nothing |  
+| bip_39_word_space_7 | match candy come universe alert nothing cake |  
+| bip_39_word_space_8 | match candy come universe alert nothing cake guitar |  
+| bip_39_word_space_9 | match candy come universe alert nothing cake guitar wonder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

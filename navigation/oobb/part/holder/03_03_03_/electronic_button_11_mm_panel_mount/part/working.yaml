@@ -1,3 +1,187 @@
+bip_39_word_new_br1: please
+bip_39_word_new_br10: please<br>phone<br>crime<br>lizard<br>play<br>prevent<br>island<br>december<br>present<br>version
+bip_39_word_new_br11: please<br>phone<br>crime<br>lizard<br>play<br>prevent<br>island<br>december<br>present<br>version<br>group
+bip_39_word_new_br12: please<br>phone<br>crime<br>lizard<br>play<br>prevent<br>island<br>december<br>present<br>version<br>group<br>aerobic
+bip_39_word_new_br2: please<br>phone
+bip_39_word_new_br3: please<br>phone<br>crime
+bip_39_word_new_br4: please<br>phone<br>crime<br>lizard
+bip_39_word_new_br5: please<br>phone<br>crime<br>lizard<br>play
+bip_39_word_new_br6: please<br>phone<br>crime<br>lizard<br>play<br>prevent
+bip_39_word_new_br7: please<br>phone<br>crime<br>lizard<br>play<br>prevent<br>island
+bip_39_word_new_br8: please<br>phone<br>crime<br>lizard<br>play<br>prevent<br>island<br>december
+bip_39_word_new_br9: please<br>phone<br>crime<br>lizard<br>play<br>prevent<br>island<br>december<br>present
+bip_39_word_new_line1: please
+bip_39_word_new_line10: 'please
+
+  phone
+
+  crime
+
+  lizard
+
+  play
+
+  prevent
+
+  island
+
+  december
+
+  present
+
+  version'
+bip_39_word_new_line11: 'please
+
+  phone
+
+  crime
+
+  lizard
+
+  play
+
+  prevent
+
+  island
+
+  december
+
+  present
+
+  version
+
+  group'
+bip_39_word_new_line12: 'please
+
+  phone
+
+  crime
+
+  lizard
+
+  play
+
+  prevent
+
+  island
+
+  december
+
+  present
+
+  version
+
+  group
+
+  aerobic'
+bip_39_word_new_line2: 'please
+
+  phone'
+bip_39_word_new_line3: 'please
+
+  phone
+
+  crime'
+bip_39_word_new_line4: 'please
+
+  phone
+
+  crime
+
+  lizard'
+bip_39_word_new_line5: 'please
+
+  phone
+
+  crime
+
+  lizard
+
+  play'
+bip_39_word_new_line6: 'please
+
+  phone
+
+  crime
+
+  lizard
+
+  play
+
+  prevent'
+bip_39_word_new_line7: 'please
+
+  phone
+
+  crime
+
+  lizard
+
+  play
+
+  prevent
+
+  island'
+bip_39_word_new_line8: 'please
+
+  phone
+
+  crime
+
+  lizard
+
+  play
+
+  prevent
+
+  island
+
+  december'
+bip_39_word_new_line9: 'please
+
+  phone
+
+  crime
+
+  lizard
+
+  play
+
+  prevent
+
+  island
+
+  december
+
+  present'
+bip_39_word_space_0:
+- please
+- phone
+- crime
+- lizard
+- play
+- prevent
+- island
+- december
+- present
+- version
+- group
+- aerobic
+bip_39_word_space_1: please
+bip_39_word_space_10: please phone crime lizard play prevent island december present
+  version
+bip_39_word_space_11: please phone crime lizard play prevent island december present
+  version group
+bip_39_word_space_12: please phone crime lizard play prevent island december present
+  version group aerobic
+bip_39_word_space_2: please phone
+bip_39_word_space_3: please phone crime
+bip_39_word_space_4: please phone crime lizard
+bip_39_word_space_5: please phone crime lizard play
+bip_39_word_space_6: please phone crime lizard play prevent
+bip_39_word_space_7: please phone crime lizard play prevent island
+bip_39_word_space_8: please phone crime lizard play prevent island december
+bip_39_word_space_9: please phone crime lizard play prevent island december present
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

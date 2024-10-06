@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: window recall
+  * bip 39 word 3: window recall hat
+  * bip 39 word: window recall hat derive globe choice simple coconut aware trouble wolf angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | window |  
+| bip_39_word_new_br10 | window<br>recall<br>hat<br>derive<br>globe<br>choice<br>simple<br>coconut<br>aware<br>trouble |  
+| bip_39_word_new_br11 | window<br>recall<br>hat<br>derive<br>globe<br>choice<br>simple<br>coconut<br>aware<br>trouble<br>wolf |  
+| bip_39_word_new_br12 | window<br>recall<br>hat<br>derive<br>globe<br>choice<br>simple<br>coconut<br>aware<br>trouble<br>wolf<br>angle |  
+| bip_39_word_new_br2 | window<br>recall |  
+| bip_39_word_new_br3 | window<br>recall<br>hat |  
+| bip_39_word_new_br4 | window<br>recall<br>hat<br>derive |  
+| bip_39_word_new_br5 | window<br>recall<br>hat<br>derive<br>globe |  
+| bip_39_word_new_br6 | window<br>recall<br>hat<br>derive<br>globe<br>choice |  
+| bip_39_word_new_br7 | window<br>recall<br>hat<br>derive<br>globe<br>choice<br>simple |  
+| bip_39_word_new_br8 | window<br>recall<br>hat<br>derive<br>globe<br>choice<br>simple<br>coconut |  
+| bip_39_word_new_br9 | window<br>recall<br>hat<br>derive<br>globe<br>choice<br>simple<br>coconut<br>aware |  
+| bip_39_word_new_line1 | window |  
+| bip_39_word_new_line10 | window
+recall
+hat
+derive
+globe
+choice
+simple
+coconut
+aware
+trouble |  
+| bip_39_word_new_line11 | window
+recall
+hat
+derive
+globe
+choice
+simple
+coconut
+aware
+trouble
+wolf |  
+| bip_39_word_new_line12 | window
+recall
+hat
+derive
+globe
+choice
+simple
+coconut
+aware
+trouble
+wolf
+angle |  
+| bip_39_word_new_line2 | window
+recall |  
+| bip_39_word_new_line3 | window
+recall
+hat |  
+| bip_39_word_new_line4 | window
+recall
+hat
+derive |  
+| bip_39_word_new_line5 | window
+recall
+hat
+derive
+globe |  
+| bip_39_word_new_line6 | window
+recall
+hat
+derive
+globe
+choice |  
+| bip_39_word_new_line7 | window
+recall
+hat
+derive
+globe
+choice
+simple |  
+| bip_39_word_new_line8 | window
+recall
+hat
+derive
+globe
+choice
+simple
+coconut |  
+| bip_39_word_new_line9 | window
+recall
+hat
+derive
+globe
+choice
+simple
+coconut
+aware |  
+| bip_39_word_space_0 | ['window', 'recall', 'hat', 'derive', 'globe', 'choice', 'simple', 'coconut', 'aware', 'trouble', 'wolf', 'angle'] |  
+| bip_39_word_space_1 | window |  
+| bip_39_word_space_10 | window recall hat derive globe choice simple coconut aware trouble |  
+| bip_39_word_space_11 | window recall hat derive globe choice simple coconut aware trouble wolf |  
+| bip_39_word_space_12 | window recall hat derive globe choice simple coconut aware trouble wolf angle |  
+| bip_39_word_space_2 | window recall |  
+| bip_39_word_space_3 | window recall hat |  
+| bip_39_word_space_4 | window recall hat derive |  
+| bip_39_word_space_5 | window recall hat derive globe |  
+| bip_39_word_space_6 | window recall hat derive globe choice |  
+| bip_39_word_space_7 | window recall hat derive globe choice simple |  
+| bip_39_word_space_8 | window recall hat derive globe choice simple coconut |  
+| bip_39_word_space_9 | window recall hat derive globe choice simple coconut aware |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drill easily
+  * bip 39 word 3: drill easily woman
+  * bip 39 word: drill easily woman witness stairs marine step truly force core market arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drill |  
+| bip_39_word_new_br10 | drill<br>easily<br>woman<br>witness<br>stairs<br>marine<br>step<br>truly<br>force<br>core |  
+| bip_39_word_new_br11 | drill<br>easily<br>woman<br>witness<br>stairs<br>marine<br>step<br>truly<br>force<br>core<br>market |  
+| bip_39_word_new_br12 | drill<br>easily<br>woman<br>witness<br>stairs<br>marine<br>step<br>truly<br>force<br>core<br>market<br>arrange |  
+| bip_39_word_new_br2 | drill<br>easily |  
+| bip_39_word_new_br3 | drill<br>easily<br>woman |  
+| bip_39_word_new_br4 | drill<br>easily<br>woman<br>witness |  
+| bip_39_word_new_br5 | drill<br>easily<br>woman<br>witness<br>stairs |  
+| bip_39_word_new_br6 | drill<br>easily<br>woman<br>witness<br>stairs<br>marine |  
+| bip_39_word_new_br7 | drill<br>easily<br>woman<br>witness<br>stairs<br>marine<br>step |  
+| bip_39_word_new_br8 | drill<br>easily<br>woman<br>witness<br>stairs<br>marine<br>step<br>truly |  
+| bip_39_word_new_br9 | drill<br>easily<br>woman<br>witness<br>stairs<br>marine<br>step<br>truly<br>force |  
+| bip_39_word_new_line1 | drill |  
+| bip_39_word_new_line10 | drill
+easily
+woman
+witness
+stairs
+marine
+step
+truly
+force
+core |  
+| bip_39_word_new_line11 | drill
+easily
+woman
+witness
+stairs
+marine
+step
+truly
+force
+core
+market |  
+| bip_39_word_new_line12 | drill
+easily
+woman
+witness
+stairs
+marine
+step
+truly
+force
+core
+market
+arrange |  
+| bip_39_word_new_line2 | drill
+easily |  
+| bip_39_word_new_line3 | drill
+easily
+woman |  
+| bip_39_word_new_line4 | drill
+easily
+woman
+witness |  
+| bip_39_word_new_line5 | drill
+easily
+woman
+witness
+stairs |  
+| bip_39_word_new_line6 | drill
+easily
+woman
+witness
+stairs
+marine |  
+| bip_39_word_new_line7 | drill
+easily
+woman
+witness
+stairs
+marine
+step |  
+| bip_39_word_new_line8 | drill
+easily
+woman
+witness
+stairs
+marine
+step
+truly |  
+| bip_39_word_new_line9 | drill
+easily
+woman
+witness
+stairs
+marine
+step
+truly
+force |  
+| bip_39_word_space_0 | ['drill', 'easily', 'woman', 'witness', 'stairs', 'marine', 'step', 'truly', 'force', 'core', 'market', 'arrange'] |  
+| bip_39_word_space_1 | drill |  
+| bip_39_word_space_10 | drill easily woman witness stairs marine step truly force core |  
+| bip_39_word_space_11 | drill easily woman witness stairs marine step truly force core market |  
+| bip_39_word_space_12 | drill easily woman witness stairs marine step truly force core market arrange |  
+| bip_39_word_space_2 | drill easily |  
+| bip_39_word_space_3 | drill easily woman |  
+| bip_39_word_space_4 | drill easily woman witness |  
+| bip_39_word_space_5 | drill easily woman witness stairs |  
+| bip_39_word_space_6 | drill easily woman witness stairs marine |  
+| bip_39_word_space_7 | drill easily woman witness stairs marine step |  
+| bip_39_word_space_8 | drill easily woman witness stairs marine step truly |  
+| bip_39_word_space_9 | drill easily woman witness stairs marine step truly force |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

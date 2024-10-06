@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arm list
+  * bip 39 word 3: arm list tree
+  * bip 39 word: arm list tree myself impose slide aim supply cake cake couple another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arm |  
+| bip_39_word_new_br10 | arm<br>list<br>tree<br>myself<br>impose<br>slide<br>aim<br>supply<br>cake<br>cake |  
+| bip_39_word_new_br11 | arm<br>list<br>tree<br>myself<br>impose<br>slide<br>aim<br>supply<br>cake<br>cake<br>couple |  
+| bip_39_word_new_br12 | arm<br>list<br>tree<br>myself<br>impose<br>slide<br>aim<br>supply<br>cake<br>cake<br>couple<br>another |  
+| bip_39_word_new_br2 | arm<br>list |  
+| bip_39_word_new_br3 | arm<br>list<br>tree |  
+| bip_39_word_new_br4 | arm<br>list<br>tree<br>myself |  
+| bip_39_word_new_br5 | arm<br>list<br>tree<br>myself<br>impose |  
+| bip_39_word_new_br6 | arm<br>list<br>tree<br>myself<br>impose<br>slide |  
+| bip_39_word_new_br7 | arm<br>list<br>tree<br>myself<br>impose<br>slide<br>aim |  
+| bip_39_word_new_br8 | arm<br>list<br>tree<br>myself<br>impose<br>slide<br>aim<br>supply |  
+| bip_39_word_new_br9 | arm<br>list<br>tree<br>myself<br>impose<br>slide<br>aim<br>supply<br>cake |  
+| bip_39_word_new_line1 | arm |  
+| bip_39_word_new_line10 | arm
+list
+tree
+myself
+impose
+slide
+aim
+supply
+cake
+cake |  
+| bip_39_word_new_line11 | arm
+list
+tree
+myself
+impose
+slide
+aim
+supply
+cake
+cake
+couple |  
+| bip_39_word_new_line12 | arm
+list
+tree
+myself
+impose
+slide
+aim
+supply
+cake
+cake
+couple
+another |  
+| bip_39_word_new_line2 | arm
+list |  
+| bip_39_word_new_line3 | arm
+list
+tree |  
+| bip_39_word_new_line4 | arm
+list
+tree
+myself |  
+| bip_39_word_new_line5 | arm
+list
+tree
+myself
+impose |  
+| bip_39_word_new_line6 | arm
+list
+tree
+myself
+impose
+slide |  
+| bip_39_word_new_line7 | arm
+list
+tree
+myself
+impose
+slide
+aim |  
+| bip_39_word_new_line8 | arm
+list
+tree
+myself
+impose
+slide
+aim
+supply |  
+| bip_39_word_new_line9 | arm
+list
+tree
+myself
+impose
+slide
+aim
+supply
+cake |  
+| bip_39_word_space_0 | ['arm', 'list', 'tree', 'myself', 'impose', 'slide', 'aim', 'supply', 'cake', 'cake', 'couple', 'another'] |  
+| bip_39_word_space_1 | arm |  
+| bip_39_word_space_10 | arm list tree myself impose slide aim supply cake cake |  
+| bip_39_word_space_11 | arm list tree myself impose slide aim supply cake cake couple |  
+| bip_39_word_space_12 | arm list tree myself impose slide aim supply cake cake couple another |  
+| bip_39_word_space_2 | arm list |  
+| bip_39_word_space_3 | arm list tree |  
+| bip_39_word_space_4 | arm list tree myself |  
+| bip_39_word_space_5 | arm list tree myself impose |  
+| bip_39_word_space_6 | arm list tree myself impose slide |  
+| bip_39_word_space_7 | arm list tree myself impose slide aim |  
+| bip_39_word_space_8 | arm list tree myself impose slide aim supply |  
+| bip_39_word_space_9 | arm list tree myself impose slide aim supply cake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

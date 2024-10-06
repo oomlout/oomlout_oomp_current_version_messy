@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mention dumb
+  * bip 39 word 3: mention dumb shadow
+  * bip 39 word: mention dumb shadow chase dumb trial resemble meat soft adult oppose across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mention |  
+| bip_39_word_new_br10 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial<br>resemble<br>meat<br>soft<br>adult |  
+| bip_39_word_new_br11 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial<br>resemble<br>meat<br>soft<br>adult<br>oppose |  
+| bip_39_word_new_br12 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial<br>resemble<br>meat<br>soft<br>adult<br>oppose<br>across |  
+| bip_39_word_new_br2 | mention<br>dumb |  
+| bip_39_word_new_br3 | mention<br>dumb<br>shadow |  
+| bip_39_word_new_br4 | mention<br>dumb<br>shadow<br>chase |  
+| bip_39_word_new_br5 | mention<br>dumb<br>shadow<br>chase<br>dumb |  
+| bip_39_word_new_br6 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial |  
+| bip_39_word_new_br7 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial<br>resemble |  
+| bip_39_word_new_br8 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial<br>resemble<br>meat |  
+| bip_39_word_new_br9 | mention<br>dumb<br>shadow<br>chase<br>dumb<br>trial<br>resemble<br>meat<br>soft |  
+| bip_39_word_new_line1 | mention |  
+| bip_39_word_new_line10 | mention
+dumb
+shadow
+chase
+dumb
+trial
+resemble
+meat
+soft
+adult |  
+| bip_39_word_new_line11 | mention
+dumb
+shadow
+chase
+dumb
+trial
+resemble
+meat
+soft
+adult
+oppose |  
+| bip_39_word_new_line12 | mention
+dumb
+shadow
+chase
+dumb
+trial
+resemble
+meat
+soft
+adult
+oppose
+across |  
+| bip_39_word_new_line2 | mention
+dumb |  
+| bip_39_word_new_line3 | mention
+dumb
+shadow |  
+| bip_39_word_new_line4 | mention
+dumb
+shadow
+chase |  
+| bip_39_word_new_line5 | mention
+dumb
+shadow
+chase
+dumb |  
+| bip_39_word_new_line6 | mention
+dumb
+shadow
+chase
+dumb
+trial |  
+| bip_39_word_new_line7 | mention
+dumb
+shadow
+chase
+dumb
+trial
+resemble |  
+| bip_39_word_new_line8 | mention
+dumb
+shadow
+chase
+dumb
+trial
+resemble
+meat |  
+| bip_39_word_new_line9 | mention
+dumb
+shadow
+chase
+dumb
+trial
+resemble
+meat
+soft |  
+| bip_39_word_space_0 | ['mention', 'dumb', 'shadow', 'chase', 'dumb', 'trial', 'resemble', 'meat', 'soft', 'adult', 'oppose', 'across'] |  
+| bip_39_word_space_1 | mention |  
+| bip_39_word_space_10 | mention dumb shadow chase dumb trial resemble meat soft adult |  
+| bip_39_word_space_11 | mention dumb shadow chase dumb trial resemble meat soft adult oppose |  
+| bip_39_word_space_12 | mention dumb shadow chase dumb trial resemble meat soft adult oppose across |  
+| bip_39_word_space_2 | mention dumb |  
+| bip_39_word_space_3 | mention dumb shadow |  
+| bip_39_word_space_4 | mention dumb shadow chase |  
+| bip_39_word_space_5 | mention dumb shadow chase dumb |  
+| bip_39_word_space_6 | mention dumb shadow chase dumb trial |  
+| bip_39_word_space_7 | mention dumb shadow chase dumb trial resemble |  
+| bip_39_word_space_8 | mention dumb shadow chase dumb trial resemble meat |  
+| bip_39_word_space_9 | mention dumb shadow chase dumb trial resemble meat soft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

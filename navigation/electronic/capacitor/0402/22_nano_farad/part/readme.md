@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excess adjust
+  * bip 39 word 3: excess adjust crop
+  * bip 39 word: excess adjust crop heavy tobacco matrix cage room vocal minute doctor accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excess |  
+| bip_39_word_new_br10 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix<br>cage<br>room<br>vocal<br>minute |  
+| bip_39_word_new_br11 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix<br>cage<br>room<br>vocal<br>minute<br>doctor |  
+| bip_39_word_new_br12 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix<br>cage<br>room<br>vocal<br>minute<br>doctor<br>accident |  
+| bip_39_word_new_br2 | excess<br>adjust |  
+| bip_39_word_new_br3 | excess<br>adjust<br>crop |  
+| bip_39_word_new_br4 | excess<br>adjust<br>crop<br>heavy |  
+| bip_39_word_new_br5 | excess<br>adjust<br>crop<br>heavy<br>tobacco |  
+| bip_39_word_new_br6 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix |  
+| bip_39_word_new_br7 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix<br>cage |  
+| bip_39_word_new_br8 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix<br>cage<br>room |  
+| bip_39_word_new_br9 | excess<br>adjust<br>crop<br>heavy<br>tobacco<br>matrix<br>cage<br>room<br>vocal |  
+| bip_39_word_new_line1 | excess |  
+| bip_39_word_new_line10 | excess
+adjust
+crop
+heavy
+tobacco
+matrix
+cage
+room
+vocal
+minute |  
+| bip_39_word_new_line11 | excess
+adjust
+crop
+heavy
+tobacco
+matrix
+cage
+room
+vocal
+minute
+doctor |  
+| bip_39_word_new_line12 | excess
+adjust
+crop
+heavy
+tobacco
+matrix
+cage
+room
+vocal
+minute
+doctor
+accident |  
+| bip_39_word_new_line2 | excess
+adjust |  
+| bip_39_word_new_line3 | excess
+adjust
+crop |  
+| bip_39_word_new_line4 | excess
+adjust
+crop
+heavy |  
+| bip_39_word_new_line5 | excess
+adjust
+crop
+heavy
+tobacco |  
+| bip_39_word_new_line6 | excess
+adjust
+crop
+heavy
+tobacco
+matrix |  
+| bip_39_word_new_line7 | excess
+adjust
+crop
+heavy
+tobacco
+matrix
+cage |  
+| bip_39_word_new_line8 | excess
+adjust
+crop
+heavy
+tobacco
+matrix
+cage
+room |  
+| bip_39_word_new_line9 | excess
+adjust
+crop
+heavy
+tobacco
+matrix
+cage
+room
+vocal |  
+| bip_39_word_space_0 | ['excess', 'adjust', 'crop', 'heavy', 'tobacco', 'matrix', 'cage', 'room', 'vocal', 'minute', 'doctor', 'accident'] |  
+| bip_39_word_space_1 | excess |  
+| bip_39_word_space_10 | excess adjust crop heavy tobacco matrix cage room vocal minute |  
+| bip_39_word_space_11 | excess adjust crop heavy tobacco matrix cage room vocal minute doctor |  
+| bip_39_word_space_12 | excess adjust crop heavy tobacco matrix cage room vocal minute doctor accident |  
+| bip_39_word_space_2 | excess adjust |  
+| bip_39_word_space_3 | excess adjust crop |  
+| bip_39_word_space_4 | excess adjust crop heavy |  
+| bip_39_word_space_5 | excess adjust crop heavy tobacco |  
+| bip_39_word_space_6 | excess adjust crop heavy tobacco matrix |  
+| bip_39_word_space_7 | excess adjust crop heavy tobacco matrix cage |  
+| bip_39_word_space_8 | excess adjust crop heavy tobacco matrix cage room |  
+| bip_39_word_space_9 | excess adjust crop heavy tobacco matrix cage room vocal |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

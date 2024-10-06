@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chest achieve
+  * bip 39 word 3: chest achieve crunch
+  * bip 39 word: chest achieve crunch coconut orbit eternal size type fence approve antenna arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chest |  
+| bip_39_word_new_br10 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal<br>size<br>type<br>fence<br>approve |  
+| bip_39_word_new_br11 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal<br>size<br>type<br>fence<br>approve<br>antenna |  
+| bip_39_word_new_br12 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal<br>size<br>type<br>fence<br>approve<br>antenna<br>arch |  
+| bip_39_word_new_br2 | chest<br>achieve |  
+| bip_39_word_new_br3 | chest<br>achieve<br>crunch |  
+| bip_39_word_new_br4 | chest<br>achieve<br>crunch<br>coconut |  
+| bip_39_word_new_br5 | chest<br>achieve<br>crunch<br>coconut<br>orbit |  
+| bip_39_word_new_br6 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal |  
+| bip_39_word_new_br7 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal<br>size |  
+| bip_39_word_new_br8 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal<br>size<br>type |  
+| bip_39_word_new_br9 | chest<br>achieve<br>crunch<br>coconut<br>orbit<br>eternal<br>size<br>type<br>fence |  
+| bip_39_word_new_line1 | chest |  
+| bip_39_word_new_line10 | chest
+achieve
+crunch
+coconut
+orbit
+eternal
+size
+type
+fence
+approve |  
+| bip_39_word_new_line11 | chest
+achieve
+crunch
+coconut
+orbit
+eternal
+size
+type
+fence
+approve
+antenna |  
+| bip_39_word_new_line12 | chest
+achieve
+crunch
+coconut
+orbit
+eternal
+size
+type
+fence
+approve
+antenna
+arch |  
+| bip_39_word_new_line2 | chest
+achieve |  
+| bip_39_word_new_line3 | chest
+achieve
+crunch |  
+| bip_39_word_new_line4 | chest
+achieve
+crunch
+coconut |  
+| bip_39_word_new_line5 | chest
+achieve
+crunch
+coconut
+orbit |  
+| bip_39_word_new_line6 | chest
+achieve
+crunch
+coconut
+orbit
+eternal |  
+| bip_39_word_new_line7 | chest
+achieve
+crunch
+coconut
+orbit
+eternal
+size |  
+| bip_39_word_new_line8 | chest
+achieve
+crunch
+coconut
+orbit
+eternal
+size
+type |  
+| bip_39_word_new_line9 | chest
+achieve
+crunch
+coconut
+orbit
+eternal
+size
+type
+fence |  
+| bip_39_word_space_0 | ['chest', 'achieve', 'crunch', 'coconut', 'orbit', 'eternal', 'size', 'type', 'fence', 'approve', 'antenna', 'arch'] |  
+| bip_39_word_space_1 | chest |  
+| bip_39_word_space_10 | chest achieve crunch coconut orbit eternal size type fence approve |  
+| bip_39_word_space_11 | chest achieve crunch coconut orbit eternal size type fence approve antenna |  
+| bip_39_word_space_12 | chest achieve crunch coconut orbit eternal size type fence approve antenna arch |  
+| bip_39_word_space_2 | chest achieve |  
+| bip_39_word_space_3 | chest achieve crunch |  
+| bip_39_word_space_4 | chest achieve crunch coconut |  
+| bip_39_word_space_5 | chest achieve crunch coconut orbit |  
+| bip_39_word_space_6 | chest achieve crunch coconut orbit eternal |  
+| bip_39_word_space_7 | chest achieve crunch coconut orbit eternal size |  
+| bip_39_word_space_8 | chest achieve crunch coconut orbit eternal size type |  
+| bip_39_word_space_9 | chest achieve crunch coconut orbit eternal size type fence |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: valid awesome
+  * bip 39 word 3: valid awesome visit
+  * bip 39 word: valid awesome visit express sugar jungle step road afraid museum april add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | valid |  
+| bip_39_word_new_br10 | valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road<br>afraid<br>museum |  
+| bip_39_word_new_br11 | valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road<br>afraid<br>museum<br>april |  
+| bip_39_word_new_br12 | valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road<br>afraid<br>museum<br>april<br>add |  
+| bip_39_word_new_br2 | valid<br>awesome |  
+| bip_39_word_new_br3 | valid<br>awesome<br>visit |  
+| bip_39_word_new_br4 | valid<br>awesome<br>visit<br>express |  
+| bip_39_word_new_br5 | valid<br>awesome<br>visit<br>express<br>sugar |  
+| bip_39_word_new_br6 | valid<br>awesome<br>visit<br>express<br>sugar<br>jungle |  
+| bip_39_word_new_br7 | valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step |  
+| bip_39_word_new_br8 | valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road |  
+| bip_39_word_new_br9 | valid<br>awesome<br>visit<br>express<br>sugar<br>jungle<br>step<br>road<br>afraid |  
+| bip_39_word_new_line1 | valid |  
+| bip_39_word_new_line10 | valid
+awesome
+visit
+express
+sugar
+jungle
+step
+road
+afraid
+museum |  
+| bip_39_word_new_line11 | valid
+awesome
+visit
+express
+sugar
+jungle
+step
+road
+afraid
+museum
+april |  
+| bip_39_word_new_line12 | valid
+awesome
+visit
+express
+sugar
+jungle
+step
+road
+afraid
+museum
+april
+add |  
+| bip_39_word_new_line2 | valid
+awesome |  
+| bip_39_word_new_line3 | valid
+awesome
+visit |  
+| bip_39_word_new_line4 | valid
+awesome
+visit
+express |  
+| bip_39_word_new_line5 | valid
+awesome
+visit
+express
+sugar |  
+| bip_39_word_new_line6 | valid
+awesome
+visit
+express
+sugar
+jungle |  
+| bip_39_word_new_line7 | valid
+awesome
+visit
+express
+sugar
+jungle
+step |  
+| bip_39_word_new_line8 | valid
+awesome
+visit
+express
+sugar
+jungle
+step
+road |  
+| bip_39_word_new_line9 | valid
+awesome
+visit
+express
+sugar
+jungle
+step
+road
+afraid |  
+| bip_39_word_space_0 | ['valid', 'awesome', 'visit', 'express', 'sugar', 'jungle', 'step', 'road', 'afraid', 'museum', 'april', 'add'] |  
+| bip_39_word_space_1 | valid |  
+| bip_39_word_space_10 | valid awesome visit express sugar jungle step road afraid museum |  
+| bip_39_word_space_11 | valid awesome visit express sugar jungle step road afraid museum april |  
+| bip_39_word_space_12 | valid awesome visit express sugar jungle step road afraid museum april add |  
+| bip_39_word_space_2 | valid awesome |  
+| bip_39_word_space_3 | valid awesome visit |  
+| bip_39_word_space_4 | valid awesome visit express |  
+| bip_39_word_space_5 | valid awesome visit express sugar |  
+| bip_39_word_space_6 | valid awesome visit express sugar jungle |  
+| bip_39_word_space_7 | valid awesome visit express sugar jungle step |  
+| bip_39_word_space_8 | valid awesome visit express sugar jungle step road |  
+| bip_39_word_space_9 | valid awesome visit express sugar jungle step road afraid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

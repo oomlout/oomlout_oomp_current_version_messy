@@ -1,3 +1,185 @@
+bip_39_word_new_br1: stove
+bip_39_word_new_br10: stove<br>wing<br>cheap<br>kit<br>speed<br>ski<br>behave<br>gadget<br>prosper<br>hire
+bip_39_word_new_br11: stove<br>wing<br>cheap<br>kit<br>speed<br>ski<br>behave<br>gadget<br>prosper<br>hire<br>front
+bip_39_word_new_br12: stove<br>wing<br>cheap<br>kit<br>speed<br>ski<br>behave<br>gadget<br>prosper<br>hire<br>front<br>angry
+bip_39_word_new_br2: stove<br>wing
+bip_39_word_new_br3: stove<br>wing<br>cheap
+bip_39_word_new_br4: stove<br>wing<br>cheap<br>kit
+bip_39_word_new_br5: stove<br>wing<br>cheap<br>kit<br>speed
+bip_39_word_new_br6: stove<br>wing<br>cheap<br>kit<br>speed<br>ski
+bip_39_word_new_br7: stove<br>wing<br>cheap<br>kit<br>speed<br>ski<br>behave
+bip_39_word_new_br8: stove<br>wing<br>cheap<br>kit<br>speed<br>ski<br>behave<br>gadget
+bip_39_word_new_br9: stove<br>wing<br>cheap<br>kit<br>speed<br>ski<br>behave<br>gadget<br>prosper
+bip_39_word_new_line1: stove
+bip_39_word_new_line10: 'stove
+
+  wing
+
+  cheap
+
+  kit
+
+  speed
+
+  ski
+
+  behave
+
+  gadget
+
+  prosper
+
+  hire'
+bip_39_word_new_line11: 'stove
+
+  wing
+
+  cheap
+
+  kit
+
+  speed
+
+  ski
+
+  behave
+
+  gadget
+
+  prosper
+
+  hire
+
+  front'
+bip_39_word_new_line12: 'stove
+
+  wing
+
+  cheap
+
+  kit
+
+  speed
+
+  ski
+
+  behave
+
+  gadget
+
+  prosper
+
+  hire
+
+  front
+
+  angry'
+bip_39_word_new_line2: 'stove
+
+  wing'
+bip_39_word_new_line3: 'stove
+
+  wing
+
+  cheap'
+bip_39_word_new_line4: 'stove
+
+  wing
+
+  cheap
+
+  kit'
+bip_39_word_new_line5: 'stove
+
+  wing
+
+  cheap
+
+  kit
+
+  speed'
+bip_39_word_new_line6: 'stove
+
+  wing
+
+  cheap
+
+  kit
+
+  speed
+
+  ski'
+bip_39_word_new_line7: 'stove
+
+  wing
+
+  cheap
+
+  kit
+
+  speed
+
+  ski
+
+  behave'
+bip_39_word_new_line8: 'stove
+
+  wing
+
+  cheap
+
+  kit
+
+  speed
+
+  ski
+
+  behave
+
+  gadget'
+bip_39_word_new_line9: 'stove
+
+  wing
+
+  cheap
+
+  kit
+
+  speed
+
+  ski
+
+  behave
+
+  gadget
+
+  prosper'
+bip_39_word_space_0:
+- stove
+- wing
+- cheap
+- kit
+- speed
+- ski
+- behave
+- gadget
+- prosper
+- hire
+- front
+- angry
+bip_39_word_space_1: stove
+bip_39_word_space_10: stove wing cheap kit speed ski behave gadget prosper hire
+bip_39_word_space_11: stove wing cheap kit speed ski behave gadget prosper hire front
+bip_39_word_space_12: stove wing cheap kit speed ski behave gadget prosper hire front
+  angry
+bip_39_word_space_2: stove wing
+bip_39_word_space_3: stove wing cheap
+bip_39_word_space_4: stove wing cheap kit
+bip_39_word_space_5: stove wing cheap kit speed
+bip_39_word_space_6: stove wing cheap kit speed ski
+bip_39_word_space_7: stove wing cheap kit speed ski behave
+bip_39_word_space_8: stove wing cheap kit speed ski behave gadget
+bip_39_word_space_9: stove wing cheap kit speed ski behave gadget prosper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

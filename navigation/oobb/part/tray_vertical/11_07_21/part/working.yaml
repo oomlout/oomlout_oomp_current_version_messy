@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clarify
+bip_39_word_new_br10: clarify<br>forward<br>then<br>hair<br>wall<br>spin<br>defy<br>hammer<br>denial<br>valid
+bip_39_word_new_br11: clarify<br>forward<br>then<br>hair<br>wall<br>spin<br>defy<br>hammer<br>denial<br>valid<br>sustain
+bip_39_word_new_br12: clarify<br>forward<br>then<br>hair<br>wall<br>spin<br>defy<br>hammer<br>denial<br>valid<br>sustain<br>aisle
+bip_39_word_new_br2: clarify<br>forward
+bip_39_word_new_br3: clarify<br>forward<br>then
+bip_39_word_new_br4: clarify<br>forward<br>then<br>hair
+bip_39_word_new_br5: clarify<br>forward<br>then<br>hair<br>wall
+bip_39_word_new_br6: clarify<br>forward<br>then<br>hair<br>wall<br>spin
+bip_39_word_new_br7: clarify<br>forward<br>then<br>hair<br>wall<br>spin<br>defy
+bip_39_word_new_br8: clarify<br>forward<br>then<br>hair<br>wall<br>spin<br>defy<br>hammer
+bip_39_word_new_br9: clarify<br>forward<br>then<br>hair<br>wall<br>spin<br>defy<br>hammer<br>denial
+bip_39_word_new_line1: clarify
+bip_39_word_new_line10: 'clarify
+
+  forward
+
+  then
+
+  hair
+
+  wall
+
+  spin
+
+  defy
+
+  hammer
+
+  denial
+
+  valid'
+bip_39_word_new_line11: 'clarify
+
+  forward
+
+  then
+
+  hair
+
+  wall
+
+  spin
+
+  defy
+
+  hammer
+
+  denial
+
+  valid
+
+  sustain'
+bip_39_word_new_line12: 'clarify
+
+  forward
+
+  then
+
+  hair
+
+  wall
+
+  spin
+
+  defy
+
+  hammer
+
+  denial
+
+  valid
+
+  sustain
+
+  aisle'
+bip_39_word_new_line2: 'clarify
+
+  forward'
+bip_39_word_new_line3: 'clarify
+
+  forward
+
+  then'
+bip_39_word_new_line4: 'clarify
+
+  forward
+
+  then
+
+  hair'
+bip_39_word_new_line5: 'clarify
+
+  forward
+
+  then
+
+  hair
+
+  wall'
+bip_39_word_new_line6: 'clarify
+
+  forward
+
+  then
+
+  hair
+
+  wall
+
+  spin'
+bip_39_word_new_line7: 'clarify
+
+  forward
+
+  then
+
+  hair
+
+  wall
+
+  spin
+
+  defy'
+bip_39_word_new_line8: 'clarify
+
+  forward
+
+  then
+
+  hair
+
+  wall
+
+  spin
+
+  defy
+
+  hammer'
+bip_39_word_new_line9: 'clarify
+
+  forward
+
+  then
+
+  hair
+
+  wall
+
+  spin
+
+  defy
+
+  hammer
+
+  denial'
+bip_39_word_space_0:
+- clarify
+- forward
+- then
+- hair
+- wall
+- spin
+- defy
+- hammer
+- denial
+- valid
+- sustain
+- aisle
+bip_39_word_space_1: clarify
+bip_39_word_space_10: clarify forward then hair wall spin defy hammer denial valid
+bip_39_word_space_11: clarify forward then hair wall spin defy hammer denial valid
+  sustain
+bip_39_word_space_12: clarify forward then hair wall spin defy hammer denial valid
+  sustain aisle
+bip_39_word_space_2: clarify forward
+bip_39_word_space_3: clarify forward then
+bip_39_word_space_4: clarify forward then hair
+bip_39_word_space_5: clarify forward then hair wall
+bip_39_word_space_6: clarify forward then hair wall spin
+bip_39_word_space_7: clarify forward then hair wall spin defy
+bip_39_word_space_8: clarify forward then hair wall spin defy hammer
+bip_39_word_space_9: clarify forward then hair wall spin defy hammer denial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

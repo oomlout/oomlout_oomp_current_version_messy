@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cube opera
+  * bip 39 word 3: cube opera trend
+  * bip 39 word: cube opera trend car neglect scale clap grocery decide iron pizza autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cube |  
+| bip_39_word_new_br10 | cube<br>opera<br>trend<br>car<br>neglect<br>scale<br>clap<br>grocery<br>decide<br>iron |  
+| bip_39_word_new_br11 | cube<br>opera<br>trend<br>car<br>neglect<br>scale<br>clap<br>grocery<br>decide<br>iron<br>pizza |  
+| bip_39_word_new_br12 | cube<br>opera<br>trend<br>car<br>neglect<br>scale<br>clap<br>grocery<br>decide<br>iron<br>pizza<br>autumn |  
+| bip_39_word_new_br2 | cube<br>opera |  
+| bip_39_word_new_br3 | cube<br>opera<br>trend |  
+| bip_39_word_new_br4 | cube<br>opera<br>trend<br>car |  
+| bip_39_word_new_br5 | cube<br>opera<br>trend<br>car<br>neglect |  
+| bip_39_word_new_br6 | cube<br>opera<br>trend<br>car<br>neglect<br>scale |  
+| bip_39_word_new_br7 | cube<br>opera<br>trend<br>car<br>neglect<br>scale<br>clap |  
+| bip_39_word_new_br8 | cube<br>opera<br>trend<br>car<br>neglect<br>scale<br>clap<br>grocery |  
+| bip_39_word_new_br9 | cube<br>opera<br>trend<br>car<br>neglect<br>scale<br>clap<br>grocery<br>decide |  
+| bip_39_word_new_line1 | cube |  
+| bip_39_word_new_line10 | cube
+opera
+trend
+car
+neglect
+scale
+clap
+grocery
+decide
+iron |  
+| bip_39_word_new_line11 | cube
+opera
+trend
+car
+neglect
+scale
+clap
+grocery
+decide
+iron
+pizza |  
+| bip_39_word_new_line12 | cube
+opera
+trend
+car
+neglect
+scale
+clap
+grocery
+decide
+iron
+pizza
+autumn |  
+| bip_39_word_new_line2 | cube
+opera |  
+| bip_39_word_new_line3 | cube
+opera
+trend |  
+| bip_39_word_new_line4 | cube
+opera
+trend
+car |  
+| bip_39_word_new_line5 | cube
+opera
+trend
+car
+neglect |  
+| bip_39_word_new_line6 | cube
+opera
+trend
+car
+neglect
+scale |  
+| bip_39_word_new_line7 | cube
+opera
+trend
+car
+neglect
+scale
+clap |  
+| bip_39_word_new_line8 | cube
+opera
+trend
+car
+neglect
+scale
+clap
+grocery |  
+| bip_39_word_new_line9 | cube
+opera
+trend
+car
+neglect
+scale
+clap
+grocery
+decide |  
+| bip_39_word_space_0 | ['cube', 'opera', 'trend', 'car', 'neglect', 'scale', 'clap', 'grocery', 'decide', 'iron', 'pizza', 'autumn'] |  
+| bip_39_word_space_1 | cube |  
+| bip_39_word_space_10 | cube opera trend car neglect scale clap grocery decide iron |  
+| bip_39_word_space_11 | cube opera trend car neglect scale clap grocery decide iron pizza |  
+| bip_39_word_space_12 | cube opera trend car neglect scale clap grocery decide iron pizza autumn |  
+| bip_39_word_space_2 | cube opera |  
+| bip_39_word_space_3 | cube opera trend |  
+| bip_39_word_space_4 | cube opera trend car |  
+| bip_39_word_space_5 | cube opera trend car neglect |  
+| bip_39_word_space_6 | cube opera trend car neglect scale |  
+| bip_39_word_space_7 | cube opera trend car neglect scale clap |  
+| bip_39_word_space_8 | cube opera trend car neglect scale clap grocery |  
+| bip_39_word_space_9 | cube opera trend car neglect scale clap grocery decide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: anger naive
+  * bip 39 word 3: anger naive logic
+  * bip 39 word: anger naive logic crash mystery blue style edit pioneer bid autumn almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | anger |  
+| bip_39_word_new_br10 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid |  
+| bip_39_word_new_br11 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid<br>autumn |  
+| bip_39_word_new_br12 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer<br>bid<br>autumn<br>almost |  
+| bip_39_word_new_br2 | anger<br>naive |  
+| bip_39_word_new_br3 | anger<br>naive<br>logic |  
+| bip_39_word_new_br4 | anger<br>naive<br>logic<br>crash |  
+| bip_39_word_new_br5 | anger<br>naive<br>logic<br>crash<br>mystery |  
+| bip_39_word_new_br6 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue |  
+| bip_39_word_new_br7 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style |  
+| bip_39_word_new_br8 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit |  
+| bip_39_word_new_br9 | anger<br>naive<br>logic<br>crash<br>mystery<br>blue<br>style<br>edit<br>pioneer |  
+| bip_39_word_new_line1 | anger |  
+| bip_39_word_new_line10 | anger
+naive
+logic
+crash
+mystery
+blue
+style
+edit
+pioneer
+bid |  
+| bip_39_word_new_line11 | anger
+naive
+logic
+crash
+mystery
+blue
+style
+edit
+pioneer
+bid
+autumn |  
+| bip_39_word_new_line12 | anger
+naive
+logic
+crash
+mystery
+blue
+style
+edit
+pioneer
+bid
+autumn
+almost |  
+| bip_39_word_new_line2 | anger
+naive |  
+| bip_39_word_new_line3 | anger
+naive
+logic |  
+| bip_39_word_new_line4 | anger
+naive
+logic
+crash |  
+| bip_39_word_new_line5 | anger
+naive
+logic
+crash
+mystery |  
+| bip_39_word_new_line6 | anger
+naive
+logic
+crash
+mystery
+blue |  
+| bip_39_word_new_line7 | anger
+naive
+logic
+crash
+mystery
+blue
+style |  
+| bip_39_word_new_line8 | anger
+naive
+logic
+crash
+mystery
+blue
+style
+edit |  
+| bip_39_word_new_line9 | anger
+naive
+logic
+crash
+mystery
+blue
+style
+edit
+pioneer |  
+| bip_39_word_space_0 | ['anger', 'naive', 'logic', 'crash', 'mystery', 'blue', 'style', 'edit', 'pioneer', 'bid', 'autumn', 'almost'] |  
+| bip_39_word_space_1 | anger |  
+| bip_39_word_space_10 | anger naive logic crash mystery blue style edit pioneer bid |  
+| bip_39_word_space_11 | anger naive logic crash mystery blue style edit pioneer bid autumn |  
+| bip_39_word_space_12 | anger naive logic crash mystery blue style edit pioneer bid autumn almost |  
+| bip_39_word_space_2 | anger naive |  
+| bip_39_word_space_3 | anger naive logic |  
+| bip_39_word_space_4 | anger naive logic crash |  
+| bip_39_word_space_5 | anger naive logic crash mystery |  
+| bip_39_word_space_6 | anger naive logic crash mystery blue |  
+| bip_39_word_space_7 | anger naive logic crash mystery blue style |  
+| bip_39_word_space_8 | anger naive logic crash mystery blue style edit |  
+| bip_39_word_space_9 | anger naive logic crash mystery blue style edit pioneer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

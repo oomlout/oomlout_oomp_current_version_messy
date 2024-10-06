@@ -1,3 +1,186 @@
+bip_39_word_new_br1: impulse
+bip_39_word_new_br10: impulse<br>found<br>fuel<br>announce<br>trend<br>click<br>fine<br>illness<br>say<br>dune
+bip_39_word_new_br11: impulse<br>found<br>fuel<br>announce<br>trend<br>click<br>fine<br>illness<br>say<br>dune<br>horn
+bip_39_word_new_br12: impulse<br>found<br>fuel<br>announce<br>trend<br>click<br>fine<br>illness<br>say<br>dune<br>horn<br>aerobic
+bip_39_word_new_br2: impulse<br>found
+bip_39_word_new_br3: impulse<br>found<br>fuel
+bip_39_word_new_br4: impulse<br>found<br>fuel<br>announce
+bip_39_word_new_br5: impulse<br>found<br>fuel<br>announce<br>trend
+bip_39_word_new_br6: impulse<br>found<br>fuel<br>announce<br>trend<br>click
+bip_39_word_new_br7: impulse<br>found<br>fuel<br>announce<br>trend<br>click<br>fine
+bip_39_word_new_br8: impulse<br>found<br>fuel<br>announce<br>trend<br>click<br>fine<br>illness
+bip_39_word_new_br9: impulse<br>found<br>fuel<br>announce<br>trend<br>click<br>fine<br>illness<br>say
+bip_39_word_new_line1: impulse
+bip_39_word_new_line10: 'impulse
+
+  found
+
+  fuel
+
+  announce
+
+  trend
+
+  click
+
+  fine
+
+  illness
+
+  say
+
+  dune'
+bip_39_word_new_line11: 'impulse
+
+  found
+
+  fuel
+
+  announce
+
+  trend
+
+  click
+
+  fine
+
+  illness
+
+  say
+
+  dune
+
+  horn'
+bip_39_word_new_line12: 'impulse
+
+  found
+
+  fuel
+
+  announce
+
+  trend
+
+  click
+
+  fine
+
+  illness
+
+  say
+
+  dune
+
+  horn
+
+  aerobic'
+bip_39_word_new_line2: 'impulse
+
+  found'
+bip_39_word_new_line3: 'impulse
+
+  found
+
+  fuel'
+bip_39_word_new_line4: 'impulse
+
+  found
+
+  fuel
+
+  announce'
+bip_39_word_new_line5: 'impulse
+
+  found
+
+  fuel
+
+  announce
+
+  trend'
+bip_39_word_new_line6: 'impulse
+
+  found
+
+  fuel
+
+  announce
+
+  trend
+
+  click'
+bip_39_word_new_line7: 'impulse
+
+  found
+
+  fuel
+
+  announce
+
+  trend
+
+  click
+
+  fine'
+bip_39_word_new_line8: 'impulse
+
+  found
+
+  fuel
+
+  announce
+
+  trend
+
+  click
+
+  fine
+
+  illness'
+bip_39_word_new_line9: 'impulse
+
+  found
+
+  fuel
+
+  announce
+
+  trend
+
+  click
+
+  fine
+
+  illness
+
+  say'
+bip_39_word_space_0:
+- impulse
+- found
+- fuel
+- announce
+- trend
+- click
+- fine
+- illness
+- say
+- dune
+- horn
+- aerobic
+bip_39_word_space_1: impulse
+bip_39_word_space_10: impulse found fuel announce trend click fine illness say dune
+bip_39_word_space_11: impulse found fuel announce trend click fine illness say dune
+  horn
+bip_39_word_space_12: impulse found fuel announce trend click fine illness say dune
+  horn aerobic
+bip_39_word_space_2: impulse found
+bip_39_word_space_3: impulse found fuel
+bip_39_word_space_4: impulse found fuel announce
+bip_39_word_space_5: impulse found fuel announce trend
+bip_39_word_space_6: impulse found fuel announce trend click
+bip_39_word_space_7: impulse found fuel announce trend click fine
+bip_39_word_space_8: impulse found fuel announce trend click fine illness
+bip_39_word_space_9: impulse found fuel announce trend click fine illness say
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

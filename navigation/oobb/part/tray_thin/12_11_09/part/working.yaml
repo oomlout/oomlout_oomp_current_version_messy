@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lottery
+bip_39_word_new_br10: lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen
+bip_39_word_new_br11: lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen<br>visual
+bip_39_word_new_br12: lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce<br>pen<br>visual<br>arm
+bip_39_word_new_br2: lottery<br>hidden
+bip_39_word_new_br3: lottery<br>hidden<br>solid
+bip_39_word_new_br4: lottery<br>hidden<br>solid<br>visa
+bip_39_word_new_br5: lottery<br>hidden<br>solid<br>visa<br>object
+bip_39_word_new_br6: lottery<br>hidden<br>solid<br>visa<br>object<br>oppose
+bip_39_word_new_br7: lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove
+bip_39_word_new_br8: lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable
+bip_39_word_new_br9: lottery<br>hidden<br>solid<br>visa<br>object<br>oppose<br>stove<br>notable<br>bounce
+bip_39_word_new_line1: lottery
+bip_39_word_new_line10: 'lottery
+
+  hidden
+
+  solid
+
+  visa
+
+  object
+
+  oppose
+
+  stove
+
+  notable
+
+  bounce
+
+  pen'
+bip_39_word_new_line11: 'lottery
+
+  hidden
+
+  solid
+
+  visa
+
+  object
+
+  oppose
+
+  stove
+
+  notable
+
+  bounce
+
+  pen
+
+  visual'
+bip_39_word_new_line12: 'lottery
+
+  hidden
+
+  solid
+
+  visa
+
+  object
+
+  oppose
+
+  stove
+
+  notable
+
+  bounce
+
+  pen
+
+  visual
+
+  arm'
+bip_39_word_new_line2: 'lottery
+
+  hidden'
+bip_39_word_new_line3: 'lottery
+
+  hidden
+
+  solid'
+bip_39_word_new_line4: 'lottery
+
+  hidden
+
+  solid
+
+  visa'
+bip_39_word_new_line5: 'lottery
+
+  hidden
+
+  solid
+
+  visa
+
+  object'
+bip_39_word_new_line6: 'lottery
+
+  hidden
+
+  solid
+
+  visa
+
+  object
+
+  oppose'
+bip_39_word_new_line7: 'lottery
+
+  hidden
+
+  solid
+
+  visa
+
+  object
+
+  oppose
+
+  stove'
+bip_39_word_new_line8: 'lottery
+
+  hidden
+
+  solid
+
+  visa
+
+  object
+
+  oppose
+
+  stove
+
+  notable'
+bip_39_word_new_line9: 'lottery
+
+  hidden
+
+  solid
+
+  visa
+
+  object
+
+  oppose
+
+  stove
+
+  notable
+
+  bounce'
+bip_39_word_space_0:
+- lottery
+- hidden
+- solid
+- visa
+- object
+- oppose
+- stove
+- notable
+- bounce
+- pen
+- visual
+- arm
+bip_39_word_space_1: lottery
+bip_39_word_space_10: lottery hidden solid visa object oppose stove notable bounce
+  pen
+bip_39_word_space_11: lottery hidden solid visa object oppose stove notable bounce
+  pen visual
+bip_39_word_space_12: lottery hidden solid visa object oppose stove notable bounce
+  pen visual arm
+bip_39_word_space_2: lottery hidden
+bip_39_word_space_3: lottery hidden solid
+bip_39_word_space_4: lottery hidden solid visa
+bip_39_word_space_5: lottery hidden solid visa object
+bip_39_word_space_6: lottery hidden solid visa object oppose
+bip_39_word_space_7: lottery hidden solid visa object oppose stove
+bip_39_word_space_8: lottery hidden solid visa object oppose stove notable
+bip_39_word_space_9: lottery hidden solid visa object oppose stove notable bounce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

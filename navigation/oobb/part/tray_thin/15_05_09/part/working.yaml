@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rotate
+bip_39_word_new_br10: rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant
+bip_39_word_new_br11: rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant<br>mom
+bip_39_word_new_br12: rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long<br>elephant<br>mom<br>alien
+bip_39_word_new_br2: rotate<br>match
+bip_39_word_new_br3: rotate<br>match<br>base
+bip_39_word_new_br4: rotate<br>match<br>base<br>loyal
+bip_39_word_new_br5: rotate<br>match<br>base<br>loyal<br>hire
+bip_39_word_new_br6: rotate<br>match<br>base<br>loyal<br>hire<br>kiwi
+bip_39_word_new_br7: rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy
+bip_39_word_new_br8: rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard
+bip_39_word_new_br9: rotate<br>match<br>base<br>loyal<br>hire<br>kiwi<br>toy<br>orchard<br>long
+bip_39_word_new_line1: rotate
+bip_39_word_new_line10: 'rotate
+
+  match
+
+  base
+
+  loyal
+
+  hire
+
+  kiwi
+
+  toy
+
+  orchard
+
+  long
+
+  elephant'
+bip_39_word_new_line11: 'rotate
+
+  match
+
+  base
+
+  loyal
+
+  hire
+
+  kiwi
+
+  toy
+
+  orchard
+
+  long
+
+  elephant
+
+  mom'
+bip_39_word_new_line12: 'rotate
+
+  match
+
+  base
+
+  loyal
+
+  hire
+
+  kiwi
+
+  toy
+
+  orchard
+
+  long
+
+  elephant
+
+  mom
+
+  alien'
+bip_39_word_new_line2: 'rotate
+
+  match'
+bip_39_word_new_line3: 'rotate
+
+  match
+
+  base'
+bip_39_word_new_line4: 'rotate
+
+  match
+
+  base
+
+  loyal'
+bip_39_word_new_line5: 'rotate
+
+  match
+
+  base
+
+  loyal
+
+  hire'
+bip_39_word_new_line6: 'rotate
+
+  match
+
+  base
+
+  loyal
+
+  hire
+
+  kiwi'
+bip_39_word_new_line7: 'rotate
+
+  match
+
+  base
+
+  loyal
+
+  hire
+
+  kiwi
+
+  toy'
+bip_39_word_new_line8: 'rotate
+
+  match
+
+  base
+
+  loyal
+
+  hire
+
+  kiwi
+
+  toy
+
+  orchard'
+bip_39_word_new_line9: 'rotate
+
+  match
+
+  base
+
+  loyal
+
+  hire
+
+  kiwi
+
+  toy
+
+  orchard
+
+  long'
+bip_39_word_space_0:
+- rotate
+- match
+- base
+- loyal
+- hire
+- kiwi
+- toy
+- orchard
+- long
+- elephant
+- mom
+- alien
+bip_39_word_space_1: rotate
+bip_39_word_space_10: rotate match base loyal hire kiwi toy orchard long elephant
+bip_39_word_space_11: rotate match base loyal hire kiwi toy orchard long elephant
+  mom
+bip_39_word_space_12: rotate match base loyal hire kiwi toy orchard long elephant
+  mom alien
+bip_39_word_space_2: rotate match
+bip_39_word_space_3: rotate match base
+bip_39_word_space_4: rotate match base loyal
+bip_39_word_space_5: rotate match base loyal hire
+bip_39_word_space_6: rotate match base loyal hire kiwi
+bip_39_word_space_7: rotate match base loyal hire kiwi toy
+bip_39_word_space_8: rotate match base loyal hire kiwi toy orchard
+bip_39_word_space_9: rotate match base loyal hire kiwi toy orchard long
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

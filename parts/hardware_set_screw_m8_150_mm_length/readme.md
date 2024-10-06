@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coach gospel
+  * bip 39 word 3: coach gospel false
+  * bip 39 word: coach gospel false cave inner weasel kiwi join they captain suggest alley
 
 ### other_codes
 * short_code: ss8m150
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coach |  
+| bip_39_word_new_br10 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel<br>kiwi<br>join<br>they<br>captain |  
+| bip_39_word_new_br11 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel<br>kiwi<br>join<br>they<br>captain<br>suggest |  
+| bip_39_word_new_br12 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel<br>kiwi<br>join<br>they<br>captain<br>suggest<br>alley |  
+| bip_39_word_new_br2 | coach<br>gospel |  
+| bip_39_word_new_br3 | coach<br>gospel<br>false |  
+| bip_39_word_new_br4 | coach<br>gospel<br>false<br>cave |  
+| bip_39_word_new_br5 | coach<br>gospel<br>false<br>cave<br>inner |  
+| bip_39_word_new_br6 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel |  
+| bip_39_word_new_br7 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel<br>kiwi |  
+| bip_39_word_new_br8 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel<br>kiwi<br>join |  
+| bip_39_word_new_br9 | coach<br>gospel<br>false<br>cave<br>inner<br>weasel<br>kiwi<br>join<br>they |  
+| bip_39_word_new_line1 | coach |  
+| bip_39_word_new_line10 | coach
+gospel
+false
+cave
+inner
+weasel
+kiwi
+join
+they
+captain |  
+| bip_39_word_new_line11 | coach
+gospel
+false
+cave
+inner
+weasel
+kiwi
+join
+they
+captain
+suggest |  
+| bip_39_word_new_line12 | coach
+gospel
+false
+cave
+inner
+weasel
+kiwi
+join
+they
+captain
+suggest
+alley |  
+| bip_39_word_new_line2 | coach
+gospel |  
+| bip_39_word_new_line3 | coach
+gospel
+false |  
+| bip_39_word_new_line4 | coach
+gospel
+false
+cave |  
+| bip_39_word_new_line5 | coach
+gospel
+false
+cave
+inner |  
+| bip_39_word_new_line6 | coach
+gospel
+false
+cave
+inner
+weasel |  
+| bip_39_word_new_line7 | coach
+gospel
+false
+cave
+inner
+weasel
+kiwi |  
+| bip_39_word_new_line8 | coach
+gospel
+false
+cave
+inner
+weasel
+kiwi
+join |  
+| bip_39_word_new_line9 | coach
+gospel
+false
+cave
+inner
+weasel
+kiwi
+join
+they |  
+| bip_39_word_space_0 | ['coach', 'gospel', 'false', 'cave', 'inner', 'weasel', 'kiwi', 'join', 'they', 'captain', 'suggest', 'alley'] |  
+| bip_39_word_space_1 | coach |  
+| bip_39_word_space_10 | coach gospel false cave inner weasel kiwi join they captain |  
+| bip_39_word_space_11 | coach gospel false cave inner weasel kiwi join they captain suggest |  
+| bip_39_word_space_12 | coach gospel false cave inner weasel kiwi join they captain suggest alley |  
+| bip_39_word_space_2 | coach gospel |  
+| bip_39_word_space_3 | coach gospel false |  
+| bip_39_word_space_4 | coach gospel false cave |  
+| bip_39_word_space_5 | coach gospel false cave inner |  
+| bip_39_word_space_6 | coach gospel false cave inner weasel |  
+| bip_39_word_space_7 | coach gospel false cave inner weasel kiwi |  
+| bip_39_word_space_8 | coach gospel false cave inner weasel kiwi join |  
+| bip_39_word_space_9 | coach gospel false cave inner weasel kiwi join they |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gun bicycle
+  * bip 39 word 3: gun bicycle choice
+  * bip 39 word: gun bicycle choice female peanut dwarf mushroom sword glimpse bid lottery answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gun |  
+| bip_39_word_new_br10 | gun<br>bicycle<br>choice<br>female<br>peanut<br>dwarf<br>mushroom<br>sword<br>glimpse<br>bid |  
+| bip_39_word_new_br11 | gun<br>bicycle<br>choice<br>female<br>peanut<br>dwarf<br>mushroom<br>sword<br>glimpse<br>bid<br>lottery |  
+| bip_39_word_new_br12 | gun<br>bicycle<br>choice<br>female<br>peanut<br>dwarf<br>mushroom<br>sword<br>glimpse<br>bid<br>lottery<br>answer |  
+| bip_39_word_new_br2 | gun<br>bicycle |  
+| bip_39_word_new_br3 | gun<br>bicycle<br>choice |  
+| bip_39_word_new_br4 | gun<br>bicycle<br>choice<br>female |  
+| bip_39_word_new_br5 | gun<br>bicycle<br>choice<br>female<br>peanut |  
+| bip_39_word_new_br6 | gun<br>bicycle<br>choice<br>female<br>peanut<br>dwarf |  
+| bip_39_word_new_br7 | gun<br>bicycle<br>choice<br>female<br>peanut<br>dwarf<br>mushroom |  
+| bip_39_word_new_br8 | gun<br>bicycle<br>choice<br>female<br>peanut<br>dwarf<br>mushroom<br>sword |  
+| bip_39_word_new_br9 | gun<br>bicycle<br>choice<br>female<br>peanut<br>dwarf<br>mushroom<br>sword<br>glimpse |  
+| bip_39_word_new_line1 | gun |  
+| bip_39_word_new_line10 | gun
+bicycle
+choice
+female
+peanut
+dwarf
+mushroom
+sword
+glimpse
+bid |  
+| bip_39_word_new_line11 | gun
+bicycle
+choice
+female
+peanut
+dwarf
+mushroom
+sword
+glimpse
+bid
+lottery |  
+| bip_39_word_new_line12 | gun
+bicycle
+choice
+female
+peanut
+dwarf
+mushroom
+sword
+glimpse
+bid
+lottery
+answer |  
+| bip_39_word_new_line2 | gun
+bicycle |  
+| bip_39_word_new_line3 | gun
+bicycle
+choice |  
+| bip_39_word_new_line4 | gun
+bicycle
+choice
+female |  
+| bip_39_word_new_line5 | gun
+bicycle
+choice
+female
+peanut |  
+| bip_39_word_new_line6 | gun
+bicycle
+choice
+female
+peanut
+dwarf |  
+| bip_39_word_new_line7 | gun
+bicycle
+choice
+female
+peanut
+dwarf
+mushroom |  
+| bip_39_word_new_line8 | gun
+bicycle
+choice
+female
+peanut
+dwarf
+mushroom
+sword |  
+| bip_39_word_new_line9 | gun
+bicycle
+choice
+female
+peanut
+dwarf
+mushroom
+sword
+glimpse |  
+| bip_39_word_space_0 | ['gun', 'bicycle', 'choice', 'female', 'peanut', 'dwarf', 'mushroom', 'sword', 'glimpse', 'bid', 'lottery', 'answer'] |  
+| bip_39_word_space_1 | gun |  
+| bip_39_word_space_10 | gun bicycle choice female peanut dwarf mushroom sword glimpse bid |  
+| bip_39_word_space_11 | gun bicycle choice female peanut dwarf mushroom sword glimpse bid lottery |  
+| bip_39_word_space_12 | gun bicycle choice female peanut dwarf mushroom sword glimpse bid lottery answer |  
+| bip_39_word_space_2 | gun bicycle |  
+| bip_39_word_space_3 | gun bicycle choice |  
+| bip_39_word_space_4 | gun bicycle choice female |  
+| bip_39_word_space_5 | gun bicycle choice female peanut |  
+| bip_39_word_space_6 | gun bicycle choice female peanut dwarf |  
+| bip_39_word_space_7 | gun bicycle choice female peanut dwarf mushroom |  
+| bip_39_word_space_8 | gun bicycle choice female peanut dwarf mushroom sword |  
+| bip_39_word_space_9 | gun bicycle choice female peanut dwarf mushroom sword glimpse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

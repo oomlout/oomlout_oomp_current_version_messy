@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: join neck
+  * bip 39 word 3: join neck conduct
+  * bip 39 word: join neck conduct wrong culture field oak erode snack hollow grab annual
 
 ### other_codes
 * short_code: so3nw6nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | join |  
+| bip_39_word_new_br10 | join<br>neck<br>conduct<br>wrong<br>culture<br>field<br>oak<br>erode<br>snack<br>hollow |  
+| bip_39_word_new_br11 | join<br>neck<br>conduct<br>wrong<br>culture<br>field<br>oak<br>erode<br>snack<br>hollow<br>grab |  
+| bip_39_word_new_br12 | join<br>neck<br>conduct<br>wrong<br>culture<br>field<br>oak<br>erode<br>snack<br>hollow<br>grab<br>annual |  
+| bip_39_word_new_br2 | join<br>neck |  
+| bip_39_word_new_br3 | join<br>neck<br>conduct |  
+| bip_39_word_new_br4 | join<br>neck<br>conduct<br>wrong |  
+| bip_39_word_new_br5 | join<br>neck<br>conduct<br>wrong<br>culture |  
+| bip_39_word_new_br6 | join<br>neck<br>conduct<br>wrong<br>culture<br>field |  
+| bip_39_word_new_br7 | join<br>neck<br>conduct<br>wrong<br>culture<br>field<br>oak |  
+| bip_39_word_new_br8 | join<br>neck<br>conduct<br>wrong<br>culture<br>field<br>oak<br>erode |  
+| bip_39_word_new_br9 | join<br>neck<br>conduct<br>wrong<br>culture<br>field<br>oak<br>erode<br>snack |  
+| bip_39_word_new_line1 | join |  
+| bip_39_word_new_line10 | join
+neck
+conduct
+wrong
+culture
+field
+oak
+erode
+snack
+hollow |  
+| bip_39_word_new_line11 | join
+neck
+conduct
+wrong
+culture
+field
+oak
+erode
+snack
+hollow
+grab |  
+| bip_39_word_new_line12 | join
+neck
+conduct
+wrong
+culture
+field
+oak
+erode
+snack
+hollow
+grab
+annual |  
+| bip_39_word_new_line2 | join
+neck |  
+| bip_39_word_new_line3 | join
+neck
+conduct |  
+| bip_39_word_new_line4 | join
+neck
+conduct
+wrong |  
+| bip_39_word_new_line5 | join
+neck
+conduct
+wrong
+culture |  
+| bip_39_word_new_line6 | join
+neck
+conduct
+wrong
+culture
+field |  
+| bip_39_word_new_line7 | join
+neck
+conduct
+wrong
+culture
+field
+oak |  
+| bip_39_word_new_line8 | join
+neck
+conduct
+wrong
+culture
+field
+oak
+erode |  
+| bip_39_word_new_line9 | join
+neck
+conduct
+wrong
+culture
+field
+oak
+erode
+snack |  
+| bip_39_word_space_0 | ['join', 'neck', 'conduct', 'wrong', 'culture', 'field', 'oak', 'erode', 'snack', 'hollow', 'grab', 'annual'] |  
+| bip_39_word_space_1 | join |  
+| bip_39_word_space_10 | join neck conduct wrong culture field oak erode snack hollow |  
+| bip_39_word_space_11 | join neck conduct wrong culture field oak erode snack hollow grab |  
+| bip_39_word_space_12 | join neck conduct wrong culture field oak erode snack hollow grab annual |  
+| bip_39_word_space_2 | join neck |  
+| bip_39_word_space_3 | join neck conduct |  
+| bip_39_word_space_4 | join neck conduct wrong |  
+| bip_39_word_space_5 | join neck conduct wrong culture |  
+| bip_39_word_space_6 | join neck conduct wrong culture field |  
+| bip_39_word_space_7 | join neck conduct wrong culture field oak |  
+| bip_39_word_space_8 | join neck conduct wrong culture field oak erode |  
+| bip_39_word_space_9 | join neck conduct wrong culture field oak erode snack |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

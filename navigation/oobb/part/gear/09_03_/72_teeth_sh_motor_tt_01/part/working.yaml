@@ -1,3 +1,186 @@
+bip_39_word_new_br1: total
+bip_39_word_new_br10: total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock
+bip_39_word_new_br11: total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock<br>stone
+bip_39_word_new_br12: total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music<br>sock<br>stone<br>accident
+bip_39_word_new_br2: total<br>someone
+bip_39_word_new_br3: total<br>someone<br>visa
+bip_39_word_new_br4: total<br>someone<br>visa<br>profit
+bip_39_word_new_br5: total<br>someone<br>visa<br>profit<br>chair
+bip_39_word_new_br6: total<br>someone<br>visa<br>profit<br>chair<br>oblige
+bip_39_word_new_br7: total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match
+bip_39_word_new_br8: total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap
+bip_39_word_new_br9: total<br>someone<br>visa<br>profit<br>chair<br>oblige<br>match<br>soap<br>music
+bip_39_word_new_line1: total
+bip_39_word_new_line10: 'total
+
+  someone
+
+  visa
+
+  profit
+
+  chair
+
+  oblige
+
+  match
+
+  soap
+
+  music
+
+  sock'
+bip_39_word_new_line11: 'total
+
+  someone
+
+  visa
+
+  profit
+
+  chair
+
+  oblige
+
+  match
+
+  soap
+
+  music
+
+  sock
+
+  stone'
+bip_39_word_new_line12: 'total
+
+  someone
+
+  visa
+
+  profit
+
+  chair
+
+  oblige
+
+  match
+
+  soap
+
+  music
+
+  sock
+
+  stone
+
+  accident'
+bip_39_word_new_line2: 'total
+
+  someone'
+bip_39_word_new_line3: 'total
+
+  someone
+
+  visa'
+bip_39_word_new_line4: 'total
+
+  someone
+
+  visa
+
+  profit'
+bip_39_word_new_line5: 'total
+
+  someone
+
+  visa
+
+  profit
+
+  chair'
+bip_39_word_new_line6: 'total
+
+  someone
+
+  visa
+
+  profit
+
+  chair
+
+  oblige'
+bip_39_word_new_line7: 'total
+
+  someone
+
+  visa
+
+  profit
+
+  chair
+
+  oblige
+
+  match'
+bip_39_word_new_line8: 'total
+
+  someone
+
+  visa
+
+  profit
+
+  chair
+
+  oblige
+
+  match
+
+  soap'
+bip_39_word_new_line9: 'total
+
+  someone
+
+  visa
+
+  profit
+
+  chair
+
+  oblige
+
+  match
+
+  soap
+
+  music'
+bip_39_word_space_0:
+- total
+- someone
+- visa
+- profit
+- chair
+- oblige
+- match
+- soap
+- music
+- sock
+- stone
+- accident
+bip_39_word_space_1: total
+bip_39_word_space_10: total someone visa profit chair oblige match soap music sock
+bip_39_word_space_11: total someone visa profit chair oblige match soap music sock
+  stone
+bip_39_word_space_12: total someone visa profit chair oblige match soap music sock
+  stone accident
+bip_39_word_space_2: total someone
+bip_39_word_space_3: total someone visa
+bip_39_word_space_4: total someone visa profit
+bip_39_word_space_5: total someone visa profit chair
+bip_39_word_space_6: total someone visa profit chair oblige
+bip_39_word_space_7: total someone visa profit chair oblige match
+bip_39_word_space_8: total someone visa profit chair oblige match soap
+bip_39_word_space_9: total someone visa profit chair oblige match soap music
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

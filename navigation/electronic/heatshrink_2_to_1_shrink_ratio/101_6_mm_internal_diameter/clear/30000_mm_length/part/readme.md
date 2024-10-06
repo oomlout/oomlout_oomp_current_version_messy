@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pact already
+  * bip 39 word 3: pact already maximum
+  * bip 39 word: pact already maximum virtual spy treat crumble print process transfer push alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pact |  
+| bip_39_word_new_br10 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat<br>crumble<br>print<br>process<br>transfer |  
+| bip_39_word_new_br11 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat<br>crumble<br>print<br>process<br>transfer<br>push |  
+| bip_39_word_new_br12 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat<br>crumble<br>print<br>process<br>transfer<br>push<br>alarm |  
+| bip_39_word_new_br2 | pact<br>already |  
+| bip_39_word_new_br3 | pact<br>already<br>maximum |  
+| bip_39_word_new_br4 | pact<br>already<br>maximum<br>virtual |  
+| bip_39_word_new_br5 | pact<br>already<br>maximum<br>virtual<br>spy |  
+| bip_39_word_new_br6 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat |  
+| bip_39_word_new_br7 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat<br>crumble |  
+| bip_39_word_new_br8 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat<br>crumble<br>print |  
+| bip_39_word_new_br9 | pact<br>already<br>maximum<br>virtual<br>spy<br>treat<br>crumble<br>print<br>process |  
+| bip_39_word_new_line1 | pact |  
+| bip_39_word_new_line10 | pact
+already
+maximum
+virtual
+spy
+treat
+crumble
+print
+process
+transfer |  
+| bip_39_word_new_line11 | pact
+already
+maximum
+virtual
+spy
+treat
+crumble
+print
+process
+transfer
+push |  
+| bip_39_word_new_line12 | pact
+already
+maximum
+virtual
+spy
+treat
+crumble
+print
+process
+transfer
+push
+alarm |  
+| bip_39_word_new_line2 | pact
+already |  
+| bip_39_word_new_line3 | pact
+already
+maximum |  
+| bip_39_word_new_line4 | pact
+already
+maximum
+virtual |  
+| bip_39_word_new_line5 | pact
+already
+maximum
+virtual
+spy |  
+| bip_39_word_new_line6 | pact
+already
+maximum
+virtual
+spy
+treat |  
+| bip_39_word_new_line7 | pact
+already
+maximum
+virtual
+spy
+treat
+crumble |  
+| bip_39_word_new_line8 | pact
+already
+maximum
+virtual
+spy
+treat
+crumble
+print |  
+| bip_39_word_new_line9 | pact
+already
+maximum
+virtual
+spy
+treat
+crumble
+print
+process |  
+| bip_39_word_space_0 | ['pact', 'already', 'maximum', 'virtual', 'spy', 'treat', 'crumble', 'print', 'process', 'transfer', 'push', 'alarm'] |  
+| bip_39_word_space_1 | pact |  
+| bip_39_word_space_10 | pact already maximum virtual spy treat crumble print process transfer |  
+| bip_39_word_space_11 | pact already maximum virtual spy treat crumble print process transfer push |  
+| bip_39_word_space_12 | pact already maximum virtual spy treat crumble print process transfer push alarm |  
+| bip_39_word_space_2 | pact already |  
+| bip_39_word_space_3 | pact already maximum |  
+| bip_39_word_space_4 | pact already maximum virtual |  
+| bip_39_word_space_5 | pact already maximum virtual spy |  
+| bip_39_word_space_6 | pact already maximum virtual spy treat |  
+| bip_39_word_space_7 | pact already maximum virtual spy treat crumble |  
+| bip_39_word_space_8 | pact already maximum virtual spy treat crumble print |  
+| bip_39_word_space_9 | pact already maximum virtual spy treat crumble print process |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

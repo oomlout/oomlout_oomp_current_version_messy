@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unable fly
+  * bip 39 word 3: unable fly female
+  * bip 39 word: unable fly female spoil abandon purchase barrel already hockey crime jewel attend
 
 ### other_codes
 * short_code: sc2d3b6p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unable |  
+| bip_39_word_new_br10 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase<br>barrel<br>already<br>hockey<br>crime |  
+| bip_39_word_new_br11 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase<br>barrel<br>already<br>hockey<br>crime<br>jewel |  
+| bip_39_word_new_br12 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase<br>barrel<br>already<br>hockey<br>crime<br>jewel<br>attend |  
+| bip_39_word_new_br2 | unable<br>fly |  
+| bip_39_word_new_br3 | unable<br>fly<br>female |  
+| bip_39_word_new_br4 | unable<br>fly<br>female<br>spoil |  
+| bip_39_word_new_br5 | unable<br>fly<br>female<br>spoil<br>abandon |  
+| bip_39_word_new_br6 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase |  
+| bip_39_word_new_br7 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase<br>barrel |  
+| bip_39_word_new_br8 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase<br>barrel<br>already |  
+| bip_39_word_new_br9 | unable<br>fly<br>female<br>spoil<br>abandon<br>purchase<br>barrel<br>already<br>hockey |  
+| bip_39_word_new_line1 | unable |  
+| bip_39_word_new_line10 | unable
+fly
+female
+spoil
+abandon
+purchase
+barrel
+already
+hockey
+crime |  
+| bip_39_word_new_line11 | unable
+fly
+female
+spoil
+abandon
+purchase
+barrel
+already
+hockey
+crime
+jewel |  
+| bip_39_word_new_line12 | unable
+fly
+female
+spoil
+abandon
+purchase
+barrel
+already
+hockey
+crime
+jewel
+attend |  
+| bip_39_word_new_line2 | unable
+fly |  
+| bip_39_word_new_line3 | unable
+fly
+female |  
+| bip_39_word_new_line4 | unable
+fly
+female
+spoil |  
+| bip_39_word_new_line5 | unable
+fly
+female
+spoil
+abandon |  
+| bip_39_word_new_line6 | unable
+fly
+female
+spoil
+abandon
+purchase |  
+| bip_39_word_new_line7 | unable
+fly
+female
+spoil
+abandon
+purchase
+barrel |  
+| bip_39_word_new_line8 | unable
+fly
+female
+spoil
+abandon
+purchase
+barrel
+already |  
+| bip_39_word_new_line9 | unable
+fly
+female
+spoil
+abandon
+purchase
+barrel
+already
+hockey |  
+| bip_39_word_space_0 | ['unable', 'fly', 'female', 'spoil', 'abandon', 'purchase', 'barrel', 'already', 'hockey', 'crime', 'jewel', 'attend'] |  
+| bip_39_word_space_1 | unable |  
+| bip_39_word_space_10 | unable fly female spoil abandon purchase barrel already hockey crime |  
+| bip_39_word_space_11 | unable fly female spoil abandon purchase barrel already hockey crime jewel |  
+| bip_39_word_space_12 | unable fly female spoil abandon purchase barrel already hockey crime jewel attend |  
+| bip_39_word_space_2 | unable fly |  
+| bip_39_word_space_3 | unable fly female |  
+| bip_39_word_space_4 | unable fly female spoil |  
+| bip_39_word_space_5 | unable fly female spoil abandon |  
+| bip_39_word_space_6 | unable fly female spoil abandon purchase |  
+| bip_39_word_space_7 | unable fly female spoil abandon purchase barrel |  
+| bip_39_word_space_8 | unable fly female spoil abandon purchase barrel already |  
+| bip_39_word_space_9 | unable fly female spoil abandon purchase barrel already hockey |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

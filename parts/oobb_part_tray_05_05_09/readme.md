@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: check math
+  * bip 39 word 3: check math bargain
+  * bip 39 word: check math bargain giraffe pull pigeon sentence critic science lucky detect announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | check |  
+| bip_39_word_new_br10 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon<br>sentence<br>critic<br>science<br>lucky |  
+| bip_39_word_new_br11 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon<br>sentence<br>critic<br>science<br>lucky<br>detect |  
+| bip_39_word_new_br12 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon<br>sentence<br>critic<br>science<br>lucky<br>detect<br>announce |  
+| bip_39_word_new_br2 | check<br>math |  
+| bip_39_word_new_br3 | check<br>math<br>bargain |  
+| bip_39_word_new_br4 | check<br>math<br>bargain<br>giraffe |  
+| bip_39_word_new_br5 | check<br>math<br>bargain<br>giraffe<br>pull |  
+| bip_39_word_new_br6 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon |  
+| bip_39_word_new_br7 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon<br>sentence |  
+| bip_39_word_new_br8 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon<br>sentence<br>critic |  
+| bip_39_word_new_br9 | check<br>math<br>bargain<br>giraffe<br>pull<br>pigeon<br>sentence<br>critic<br>science |  
+| bip_39_word_new_line1 | check |  
+| bip_39_word_new_line10 | check
+math
+bargain
+giraffe
+pull
+pigeon
+sentence
+critic
+science
+lucky |  
+| bip_39_word_new_line11 | check
+math
+bargain
+giraffe
+pull
+pigeon
+sentence
+critic
+science
+lucky
+detect |  
+| bip_39_word_new_line12 | check
+math
+bargain
+giraffe
+pull
+pigeon
+sentence
+critic
+science
+lucky
+detect
+announce |  
+| bip_39_word_new_line2 | check
+math |  
+| bip_39_word_new_line3 | check
+math
+bargain |  
+| bip_39_word_new_line4 | check
+math
+bargain
+giraffe |  
+| bip_39_word_new_line5 | check
+math
+bargain
+giraffe
+pull |  
+| bip_39_word_new_line6 | check
+math
+bargain
+giraffe
+pull
+pigeon |  
+| bip_39_word_new_line7 | check
+math
+bargain
+giraffe
+pull
+pigeon
+sentence |  
+| bip_39_word_new_line8 | check
+math
+bargain
+giraffe
+pull
+pigeon
+sentence
+critic |  
+| bip_39_word_new_line9 | check
+math
+bargain
+giraffe
+pull
+pigeon
+sentence
+critic
+science |  
+| bip_39_word_space_0 | ['check', 'math', 'bargain', 'giraffe', 'pull', 'pigeon', 'sentence', 'critic', 'science', 'lucky', 'detect', 'announce'] |  
+| bip_39_word_space_1 | check |  
+| bip_39_word_space_10 | check math bargain giraffe pull pigeon sentence critic science lucky |  
+| bip_39_word_space_11 | check math bargain giraffe pull pigeon sentence critic science lucky detect |  
+| bip_39_word_space_12 | check math bargain giraffe pull pigeon sentence critic science lucky detect announce |  
+| bip_39_word_space_2 | check math |  
+| bip_39_word_space_3 | check math bargain |  
+| bip_39_word_space_4 | check math bargain giraffe |  
+| bip_39_word_space_5 | check math bargain giraffe pull |  
+| bip_39_word_space_6 | check math bargain giraffe pull pigeon |  
+| bip_39_word_space_7 | check math bargain giraffe pull pigeon sentence |  
+| bip_39_word_space_8 | check math bargain giraffe pull pigeon sentence critic |  
+| bip_39_word_space_9 | check math bargain giraffe pull pigeon sentence critic science |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

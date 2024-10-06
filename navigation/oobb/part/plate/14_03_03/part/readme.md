@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: morning glue
+  * bip 39 word 3: morning glue voice
+  * bip 39 word: morning glue voice reopen erupt anger elegant zero polar permit forum antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | morning |  
+| bip_39_word_new_br10 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit |  
+| bip_39_word_new_br11 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit<br>forum |  
+| bip_39_word_new_br12 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar<br>permit<br>forum<br>antique |  
+| bip_39_word_new_br2 | morning<br>glue |  
+| bip_39_word_new_br3 | morning<br>glue<br>voice |  
+| bip_39_word_new_br4 | morning<br>glue<br>voice<br>reopen |  
+| bip_39_word_new_br5 | morning<br>glue<br>voice<br>reopen<br>erupt |  
+| bip_39_word_new_br6 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger |  
+| bip_39_word_new_br7 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant |  
+| bip_39_word_new_br8 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero |  
+| bip_39_word_new_br9 | morning<br>glue<br>voice<br>reopen<br>erupt<br>anger<br>elegant<br>zero<br>polar |  
+| bip_39_word_new_line1 | morning |  
+| bip_39_word_new_line10 | morning
+glue
+voice
+reopen
+erupt
+anger
+elegant
+zero
+polar
+permit |  
+| bip_39_word_new_line11 | morning
+glue
+voice
+reopen
+erupt
+anger
+elegant
+zero
+polar
+permit
+forum |  
+| bip_39_word_new_line12 | morning
+glue
+voice
+reopen
+erupt
+anger
+elegant
+zero
+polar
+permit
+forum
+antique |  
+| bip_39_word_new_line2 | morning
+glue |  
+| bip_39_word_new_line3 | morning
+glue
+voice |  
+| bip_39_word_new_line4 | morning
+glue
+voice
+reopen |  
+| bip_39_word_new_line5 | morning
+glue
+voice
+reopen
+erupt |  
+| bip_39_word_new_line6 | morning
+glue
+voice
+reopen
+erupt
+anger |  
+| bip_39_word_new_line7 | morning
+glue
+voice
+reopen
+erupt
+anger
+elegant |  
+| bip_39_word_new_line8 | morning
+glue
+voice
+reopen
+erupt
+anger
+elegant
+zero |  
+| bip_39_word_new_line9 | morning
+glue
+voice
+reopen
+erupt
+anger
+elegant
+zero
+polar |  
+| bip_39_word_space_0 | ['morning', 'glue', 'voice', 'reopen', 'erupt', 'anger', 'elegant', 'zero', 'polar', 'permit', 'forum', 'antique'] |  
+| bip_39_word_space_1 | morning |  
+| bip_39_word_space_10 | morning glue voice reopen erupt anger elegant zero polar permit |  
+| bip_39_word_space_11 | morning glue voice reopen erupt anger elegant zero polar permit forum |  
+| bip_39_word_space_12 | morning glue voice reopen erupt anger elegant zero polar permit forum antique |  
+| bip_39_word_space_2 | morning glue |  
+| bip_39_word_space_3 | morning glue voice |  
+| bip_39_word_space_4 | morning glue voice reopen |  
+| bip_39_word_space_5 | morning glue voice reopen erupt |  
+| bip_39_word_space_6 | morning glue voice reopen erupt anger |  
+| bip_39_word_space_7 | morning glue voice reopen erupt anger elegant |  
+| bip_39_word_space_8 | morning glue voice reopen erupt anger elegant zero |  
+| bip_39_word_space_9 | morning glue voice reopen erupt anger elegant zero polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: over unfold
+  * bip 39 word 3: over unfold aim
+  * bip 39 word: over unfold aim unaware trash poem shed car inhale require visa amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | over |  
+| bip_39_word_new_br10 | over<br>unfold<br>aim<br>unaware<br>trash<br>poem<br>shed<br>car<br>inhale<br>require |  
+| bip_39_word_new_br11 | over<br>unfold<br>aim<br>unaware<br>trash<br>poem<br>shed<br>car<br>inhale<br>require<br>visa |  
+| bip_39_word_new_br12 | over<br>unfold<br>aim<br>unaware<br>trash<br>poem<br>shed<br>car<br>inhale<br>require<br>visa<br>amazing |  
+| bip_39_word_new_br2 | over<br>unfold |  
+| bip_39_word_new_br3 | over<br>unfold<br>aim |  
+| bip_39_word_new_br4 | over<br>unfold<br>aim<br>unaware |  
+| bip_39_word_new_br5 | over<br>unfold<br>aim<br>unaware<br>trash |  
+| bip_39_word_new_br6 | over<br>unfold<br>aim<br>unaware<br>trash<br>poem |  
+| bip_39_word_new_br7 | over<br>unfold<br>aim<br>unaware<br>trash<br>poem<br>shed |  
+| bip_39_word_new_br8 | over<br>unfold<br>aim<br>unaware<br>trash<br>poem<br>shed<br>car |  
+| bip_39_word_new_br9 | over<br>unfold<br>aim<br>unaware<br>trash<br>poem<br>shed<br>car<br>inhale |  
+| bip_39_word_new_line1 | over |  
+| bip_39_word_new_line10 | over
+unfold
+aim
+unaware
+trash
+poem
+shed
+car
+inhale
+require |  
+| bip_39_word_new_line11 | over
+unfold
+aim
+unaware
+trash
+poem
+shed
+car
+inhale
+require
+visa |  
+| bip_39_word_new_line12 | over
+unfold
+aim
+unaware
+trash
+poem
+shed
+car
+inhale
+require
+visa
+amazing |  
+| bip_39_word_new_line2 | over
+unfold |  
+| bip_39_word_new_line3 | over
+unfold
+aim |  
+| bip_39_word_new_line4 | over
+unfold
+aim
+unaware |  
+| bip_39_word_new_line5 | over
+unfold
+aim
+unaware
+trash |  
+| bip_39_word_new_line6 | over
+unfold
+aim
+unaware
+trash
+poem |  
+| bip_39_word_new_line7 | over
+unfold
+aim
+unaware
+trash
+poem
+shed |  
+| bip_39_word_new_line8 | over
+unfold
+aim
+unaware
+trash
+poem
+shed
+car |  
+| bip_39_word_new_line9 | over
+unfold
+aim
+unaware
+trash
+poem
+shed
+car
+inhale |  
+| bip_39_word_space_0 | ['over', 'unfold', 'aim', 'unaware', 'trash', 'poem', 'shed', 'car', 'inhale', 'require', 'visa', 'amazing'] |  
+| bip_39_word_space_1 | over |  
+| bip_39_word_space_10 | over unfold aim unaware trash poem shed car inhale require |  
+| bip_39_word_space_11 | over unfold aim unaware trash poem shed car inhale require visa |  
+| bip_39_word_space_12 | over unfold aim unaware trash poem shed car inhale require visa amazing |  
+| bip_39_word_space_2 | over unfold |  
+| bip_39_word_space_3 | over unfold aim |  
+| bip_39_word_space_4 | over unfold aim unaware |  
+| bip_39_word_space_5 | over unfold aim unaware trash |  
+| bip_39_word_space_6 | over unfold aim unaware trash poem |  
+| bip_39_word_space_7 | over unfold aim unaware trash poem shed |  
+| bip_39_word_space_8 | over unfold aim unaware trash poem shed car |  
+| bip_39_word_space_9 | over unfold aim unaware trash poem shed car inhale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

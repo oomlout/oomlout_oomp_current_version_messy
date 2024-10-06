@@ -1,3 +1,186 @@
+bip_39_word_new_br1: repeat
+bip_39_word_new_br10: repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens<br>sound<br>page<br>olympic<br>name
+bip_39_word_new_br11: repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens<br>sound<br>page<br>olympic<br>name<br>small
+bip_39_word_new_br12: repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens<br>sound<br>page<br>olympic<br>name<br>small<br>air
+bip_39_word_new_br2: repeat<br>trip
+bip_39_word_new_br3: repeat<br>trip<br>concert
+bip_39_word_new_br4: repeat<br>trip<br>concert<br>nuclear
+bip_39_word_new_br5: repeat<br>trip<br>concert<br>nuclear<br>truth
+bip_39_word_new_br6: repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens
+bip_39_word_new_br7: repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens<br>sound
+bip_39_word_new_br8: repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens<br>sound<br>page
+bip_39_word_new_br9: repeat<br>trip<br>concert<br>nuclear<br>truth<br>lens<br>sound<br>page<br>olympic
+bip_39_word_new_line1: repeat
+bip_39_word_new_line10: 'repeat
+
+  trip
+
+  concert
+
+  nuclear
+
+  truth
+
+  lens
+
+  sound
+
+  page
+
+  olympic
+
+  name'
+bip_39_word_new_line11: 'repeat
+
+  trip
+
+  concert
+
+  nuclear
+
+  truth
+
+  lens
+
+  sound
+
+  page
+
+  olympic
+
+  name
+
+  small'
+bip_39_word_new_line12: 'repeat
+
+  trip
+
+  concert
+
+  nuclear
+
+  truth
+
+  lens
+
+  sound
+
+  page
+
+  olympic
+
+  name
+
+  small
+
+  air'
+bip_39_word_new_line2: 'repeat
+
+  trip'
+bip_39_word_new_line3: 'repeat
+
+  trip
+
+  concert'
+bip_39_word_new_line4: 'repeat
+
+  trip
+
+  concert
+
+  nuclear'
+bip_39_word_new_line5: 'repeat
+
+  trip
+
+  concert
+
+  nuclear
+
+  truth'
+bip_39_word_new_line6: 'repeat
+
+  trip
+
+  concert
+
+  nuclear
+
+  truth
+
+  lens'
+bip_39_word_new_line7: 'repeat
+
+  trip
+
+  concert
+
+  nuclear
+
+  truth
+
+  lens
+
+  sound'
+bip_39_word_new_line8: 'repeat
+
+  trip
+
+  concert
+
+  nuclear
+
+  truth
+
+  lens
+
+  sound
+
+  page'
+bip_39_word_new_line9: 'repeat
+
+  trip
+
+  concert
+
+  nuclear
+
+  truth
+
+  lens
+
+  sound
+
+  page
+
+  olympic'
+bip_39_word_space_0:
+- repeat
+- trip
+- concert
+- nuclear
+- truth
+- lens
+- sound
+- page
+- olympic
+- name
+- small
+- air
+bip_39_word_space_1: repeat
+bip_39_word_space_10: repeat trip concert nuclear truth lens sound page olympic name
+bip_39_word_space_11: repeat trip concert nuclear truth lens sound page olympic name
+  small
+bip_39_word_space_12: repeat trip concert nuclear truth lens sound page olympic name
+  small air
+bip_39_word_space_2: repeat trip
+bip_39_word_space_3: repeat trip concert
+bip_39_word_space_4: repeat trip concert nuclear
+bip_39_word_space_5: repeat trip concert nuclear truth
+bip_39_word_space_6: repeat trip concert nuclear truth lens
+bip_39_word_space_7: repeat trip concert nuclear truth lens sound
+bip_39_word_space_8: repeat trip concert nuclear truth lens sound page
+bip_39_word_space_9: repeat trip concert nuclear truth lens sound page olympic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shaft hollow
+  * bip 39 word 3: shaft hollow win
+  * bip 39 word: shaft hollow win ivory bench rhythm item actor dynamic device appear atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shaft |  
+| bip_39_word_new_br10 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm<br>item<br>actor<br>dynamic<br>device |  
+| bip_39_word_new_br11 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm<br>item<br>actor<br>dynamic<br>device<br>appear |  
+| bip_39_word_new_br12 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm<br>item<br>actor<br>dynamic<br>device<br>appear<br>atom |  
+| bip_39_word_new_br2 | shaft<br>hollow |  
+| bip_39_word_new_br3 | shaft<br>hollow<br>win |  
+| bip_39_word_new_br4 | shaft<br>hollow<br>win<br>ivory |  
+| bip_39_word_new_br5 | shaft<br>hollow<br>win<br>ivory<br>bench |  
+| bip_39_word_new_br6 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm |  
+| bip_39_word_new_br7 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm<br>item |  
+| bip_39_word_new_br8 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm<br>item<br>actor |  
+| bip_39_word_new_br9 | shaft<br>hollow<br>win<br>ivory<br>bench<br>rhythm<br>item<br>actor<br>dynamic |  
+| bip_39_word_new_line1 | shaft |  
+| bip_39_word_new_line10 | shaft
+hollow
+win
+ivory
+bench
+rhythm
+item
+actor
+dynamic
+device |  
+| bip_39_word_new_line11 | shaft
+hollow
+win
+ivory
+bench
+rhythm
+item
+actor
+dynamic
+device
+appear |  
+| bip_39_word_new_line12 | shaft
+hollow
+win
+ivory
+bench
+rhythm
+item
+actor
+dynamic
+device
+appear
+atom |  
+| bip_39_word_new_line2 | shaft
+hollow |  
+| bip_39_word_new_line3 | shaft
+hollow
+win |  
+| bip_39_word_new_line4 | shaft
+hollow
+win
+ivory |  
+| bip_39_word_new_line5 | shaft
+hollow
+win
+ivory
+bench |  
+| bip_39_word_new_line6 | shaft
+hollow
+win
+ivory
+bench
+rhythm |  
+| bip_39_word_new_line7 | shaft
+hollow
+win
+ivory
+bench
+rhythm
+item |  
+| bip_39_word_new_line8 | shaft
+hollow
+win
+ivory
+bench
+rhythm
+item
+actor |  
+| bip_39_word_new_line9 | shaft
+hollow
+win
+ivory
+bench
+rhythm
+item
+actor
+dynamic |  
+| bip_39_word_space_0 | ['shaft', 'hollow', 'win', 'ivory', 'bench', 'rhythm', 'item', 'actor', 'dynamic', 'device', 'appear', 'atom'] |  
+| bip_39_word_space_1 | shaft |  
+| bip_39_word_space_10 | shaft hollow win ivory bench rhythm item actor dynamic device |  
+| bip_39_word_space_11 | shaft hollow win ivory bench rhythm item actor dynamic device appear |  
+| bip_39_word_space_12 | shaft hollow win ivory bench rhythm item actor dynamic device appear atom |  
+| bip_39_word_space_2 | shaft hollow |  
+| bip_39_word_space_3 | shaft hollow win |  
+| bip_39_word_space_4 | shaft hollow win ivory |  
+| bip_39_word_space_5 | shaft hollow win ivory bench |  
+| bip_39_word_space_6 | shaft hollow win ivory bench rhythm |  
+| bip_39_word_space_7 | shaft hollow win ivory bench rhythm item |  
+| bip_39_word_space_8 | shaft hollow win ivory bench rhythm item actor |  
+| bip_39_word_space_9 | shaft hollow win ivory bench rhythm item actor dynamic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

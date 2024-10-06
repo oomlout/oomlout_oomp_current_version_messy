@@ -1,3 +1,186 @@
+bip_39_word_new_br1: else
+bip_39_word_new_br10: else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group
+bip_39_word_new_br11: else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group<br>obscure
+bip_39_word_new_br12: else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick<br>group<br>obscure<br>atom
+bip_39_word_new_br2: else<br>sad
+bip_39_word_new_br3: else<br>sad<br>antique
+bip_39_word_new_br4: else<br>sad<br>antique<br>exhaust
+bip_39_word_new_br5: else<br>sad<br>antique<br>exhaust<br>shine
+bip_39_word_new_br6: else<br>sad<br>antique<br>exhaust<br>shine<br>life
+bip_39_word_new_br7: else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water
+bip_39_word_new_br8: else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine
+bip_39_word_new_br9: else<br>sad<br>antique<br>exhaust<br>shine<br>life<br>water<br>shine<br>trick
+bip_39_word_new_line1: else
+bip_39_word_new_line10: 'else
+
+  sad
+
+  antique
+
+  exhaust
+
+  shine
+
+  life
+
+  water
+
+  shine
+
+  trick
+
+  group'
+bip_39_word_new_line11: 'else
+
+  sad
+
+  antique
+
+  exhaust
+
+  shine
+
+  life
+
+  water
+
+  shine
+
+  trick
+
+  group
+
+  obscure'
+bip_39_word_new_line12: 'else
+
+  sad
+
+  antique
+
+  exhaust
+
+  shine
+
+  life
+
+  water
+
+  shine
+
+  trick
+
+  group
+
+  obscure
+
+  atom'
+bip_39_word_new_line2: 'else
+
+  sad'
+bip_39_word_new_line3: 'else
+
+  sad
+
+  antique'
+bip_39_word_new_line4: 'else
+
+  sad
+
+  antique
+
+  exhaust'
+bip_39_word_new_line5: 'else
+
+  sad
+
+  antique
+
+  exhaust
+
+  shine'
+bip_39_word_new_line6: 'else
+
+  sad
+
+  antique
+
+  exhaust
+
+  shine
+
+  life'
+bip_39_word_new_line7: 'else
+
+  sad
+
+  antique
+
+  exhaust
+
+  shine
+
+  life
+
+  water'
+bip_39_word_new_line8: 'else
+
+  sad
+
+  antique
+
+  exhaust
+
+  shine
+
+  life
+
+  water
+
+  shine'
+bip_39_word_new_line9: 'else
+
+  sad
+
+  antique
+
+  exhaust
+
+  shine
+
+  life
+
+  water
+
+  shine
+
+  trick'
+bip_39_word_space_0:
+- else
+- sad
+- antique
+- exhaust
+- shine
+- life
+- water
+- shine
+- trick
+- group
+- obscure
+- atom
+bip_39_word_space_1: else
+bip_39_word_space_10: else sad antique exhaust shine life water shine trick group
+bip_39_word_space_11: else sad antique exhaust shine life water shine trick group
+  obscure
+bip_39_word_space_12: else sad antique exhaust shine life water shine trick group
+  obscure atom
+bip_39_word_space_2: else sad
+bip_39_word_space_3: else sad antique
+bip_39_word_space_4: else sad antique exhaust
+bip_39_word_space_5: else sad antique exhaust shine
+bip_39_word_space_6: else sad antique exhaust shine life
+bip_39_word_space_7: else sad antique exhaust shine life water
+bip_39_word_space_8: else sad antique exhaust shine life water shine
+bip_39_word_space_9: else sad antique exhaust shine life water shine trick
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

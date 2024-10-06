@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: area void
+  * bip 39 word 3: area void obtain
+  * bip 39 word: area void obtain access claw purchase miss ask tribe absent noodle alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | area |  
+| bip_39_word_new_br10 | area<br>void<br>obtain<br>access<br>claw<br>purchase<br>miss<br>ask<br>tribe<br>absent |  
+| bip_39_word_new_br11 | area<br>void<br>obtain<br>access<br>claw<br>purchase<br>miss<br>ask<br>tribe<br>absent<br>noodle |  
+| bip_39_word_new_br12 | area<br>void<br>obtain<br>access<br>claw<br>purchase<br>miss<br>ask<br>tribe<br>absent<br>noodle<br>alley |  
+| bip_39_word_new_br2 | area<br>void |  
+| bip_39_word_new_br3 | area<br>void<br>obtain |  
+| bip_39_word_new_br4 | area<br>void<br>obtain<br>access |  
+| bip_39_word_new_br5 | area<br>void<br>obtain<br>access<br>claw |  
+| bip_39_word_new_br6 | area<br>void<br>obtain<br>access<br>claw<br>purchase |  
+| bip_39_word_new_br7 | area<br>void<br>obtain<br>access<br>claw<br>purchase<br>miss |  
+| bip_39_word_new_br8 | area<br>void<br>obtain<br>access<br>claw<br>purchase<br>miss<br>ask |  
+| bip_39_word_new_br9 | area<br>void<br>obtain<br>access<br>claw<br>purchase<br>miss<br>ask<br>tribe |  
+| bip_39_word_new_line1 | area |  
+| bip_39_word_new_line10 | area
+void
+obtain
+access
+claw
+purchase
+miss
+ask
+tribe
+absent |  
+| bip_39_word_new_line11 | area
+void
+obtain
+access
+claw
+purchase
+miss
+ask
+tribe
+absent
+noodle |  
+| bip_39_word_new_line12 | area
+void
+obtain
+access
+claw
+purchase
+miss
+ask
+tribe
+absent
+noodle
+alley |  
+| bip_39_word_new_line2 | area
+void |  
+| bip_39_word_new_line3 | area
+void
+obtain |  
+| bip_39_word_new_line4 | area
+void
+obtain
+access |  
+| bip_39_word_new_line5 | area
+void
+obtain
+access
+claw |  
+| bip_39_word_new_line6 | area
+void
+obtain
+access
+claw
+purchase |  
+| bip_39_word_new_line7 | area
+void
+obtain
+access
+claw
+purchase
+miss |  
+| bip_39_word_new_line8 | area
+void
+obtain
+access
+claw
+purchase
+miss
+ask |  
+| bip_39_word_new_line9 | area
+void
+obtain
+access
+claw
+purchase
+miss
+ask
+tribe |  
+| bip_39_word_space_0 | ['area', 'void', 'obtain', 'access', 'claw', 'purchase', 'miss', 'ask', 'tribe', 'absent', 'noodle', 'alley'] |  
+| bip_39_word_space_1 | area |  
+| bip_39_word_space_10 | area void obtain access claw purchase miss ask tribe absent |  
+| bip_39_word_space_11 | area void obtain access claw purchase miss ask tribe absent noodle |  
+| bip_39_word_space_12 | area void obtain access claw purchase miss ask tribe absent noodle alley |  
+| bip_39_word_space_2 | area void |  
+| bip_39_word_space_3 | area void obtain |  
+| bip_39_word_space_4 | area void obtain access |  
+| bip_39_word_space_5 | area void obtain access claw |  
+| bip_39_word_space_6 | area void obtain access claw purchase |  
+| bip_39_word_space_7 | area void obtain access claw purchase miss |  
+| bip_39_word_space_8 | area void obtain access claw purchase miss ask |  
+| bip_39_word_space_9 | area void obtain access claw purchase miss ask tribe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

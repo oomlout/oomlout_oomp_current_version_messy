@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fringe bulb
+  * bip 39 word 3: fringe bulb light
+  * bip 39 word: fringe bulb light frost margin affair thank fancy laundry dynamic menu achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fringe |  
+| bip_39_word_new_br10 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair<br>thank<br>fancy<br>laundry<br>dynamic |  
+| bip_39_word_new_br11 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair<br>thank<br>fancy<br>laundry<br>dynamic<br>menu |  
+| bip_39_word_new_br12 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair<br>thank<br>fancy<br>laundry<br>dynamic<br>menu<br>achieve |  
+| bip_39_word_new_br2 | fringe<br>bulb |  
+| bip_39_word_new_br3 | fringe<br>bulb<br>light |  
+| bip_39_word_new_br4 | fringe<br>bulb<br>light<br>frost |  
+| bip_39_word_new_br5 | fringe<br>bulb<br>light<br>frost<br>margin |  
+| bip_39_word_new_br6 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair |  
+| bip_39_word_new_br7 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair<br>thank |  
+| bip_39_word_new_br8 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair<br>thank<br>fancy |  
+| bip_39_word_new_br9 | fringe<br>bulb<br>light<br>frost<br>margin<br>affair<br>thank<br>fancy<br>laundry |  
+| bip_39_word_new_line1 | fringe |  
+| bip_39_word_new_line10 | fringe
+bulb
+light
+frost
+margin
+affair
+thank
+fancy
+laundry
+dynamic |  
+| bip_39_word_new_line11 | fringe
+bulb
+light
+frost
+margin
+affair
+thank
+fancy
+laundry
+dynamic
+menu |  
+| bip_39_word_new_line12 | fringe
+bulb
+light
+frost
+margin
+affair
+thank
+fancy
+laundry
+dynamic
+menu
+achieve |  
+| bip_39_word_new_line2 | fringe
+bulb |  
+| bip_39_word_new_line3 | fringe
+bulb
+light |  
+| bip_39_word_new_line4 | fringe
+bulb
+light
+frost |  
+| bip_39_word_new_line5 | fringe
+bulb
+light
+frost
+margin |  
+| bip_39_word_new_line6 | fringe
+bulb
+light
+frost
+margin
+affair |  
+| bip_39_word_new_line7 | fringe
+bulb
+light
+frost
+margin
+affair
+thank |  
+| bip_39_word_new_line8 | fringe
+bulb
+light
+frost
+margin
+affair
+thank
+fancy |  
+| bip_39_word_new_line9 | fringe
+bulb
+light
+frost
+margin
+affair
+thank
+fancy
+laundry |  
+| bip_39_word_space_0 | ['fringe', 'bulb', 'light', 'frost', 'margin', 'affair', 'thank', 'fancy', 'laundry', 'dynamic', 'menu', 'achieve'] |  
+| bip_39_word_space_1 | fringe |  
+| bip_39_word_space_10 | fringe bulb light frost margin affair thank fancy laundry dynamic |  
+| bip_39_word_space_11 | fringe bulb light frost margin affair thank fancy laundry dynamic menu |  
+| bip_39_word_space_12 | fringe bulb light frost margin affair thank fancy laundry dynamic menu achieve |  
+| bip_39_word_space_2 | fringe bulb |  
+| bip_39_word_space_3 | fringe bulb light |  
+| bip_39_word_space_4 | fringe bulb light frost |  
+| bip_39_word_space_5 | fringe bulb light frost margin |  
+| bip_39_word_space_6 | fringe bulb light frost margin affair |  
+| bip_39_word_space_7 | fringe bulb light frost margin affair thank |  
+| bip_39_word_space_8 | fringe bulb light frost margin affair thank fancy |  
+| bip_39_word_space_9 | fringe bulb light frost margin affair thank fancy laundry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

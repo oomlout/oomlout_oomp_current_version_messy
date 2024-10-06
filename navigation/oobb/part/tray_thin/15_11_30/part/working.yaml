@@ -1,3 +1,186 @@
+bip_39_word_new_br1: toss
+bip_39_word_new_br10: toss<br>daring<br>copper<br>flight<br>link<br>sell<br>special<br>hamster<br>name<br>company
+bip_39_word_new_br11: toss<br>daring<br>copper<br>flight<br>link<br>sell<br>special<br>hamster<br>name<br>company<br>treat
+bip_39_word_new_br12: toss<br>daring<br>copper<br>flight<br>link<br>sell<br>special<br>hamster<br>name<br>company<br>treat<br>acid
+bip_39_word_new_br2: toss<br>daring
+bip_39_word_new_br3: toss<br>daring<br>copper
+bip_39_word_new_br4: toss<br>daring<br>copper<br>flight
+bip_39_word_new_br5: toss<br>daring<br>copper<br>flight<br>link
+bip_39_word_new_br6: toss<br>daring<br>copper<br>flight<br>link<br>sell
+bip_39_word_new_br7: toss<br>daring<br>copper<br>flight<br>link<br>sell<br>special
+bip_39_word_new_br8: toss<br>daring<br>copper<br>flight<br>link<br>sell<br>special<br>hamster
+bip_39_word_new_br9: toss<br>daring<br>copper<br>flight<br>link<br>sell<br>special<br>hamster<br>name
+bip_39_word_new_line1: toss
+bip_39_word_new_line10: 'toss
+
+  daring
+
+  copper
+
+  flight
+
+  link
+
+  sell
+
+  special
+
+  hamster
+
+  name
+
+  company'
+bip_39_word_new_line11: 'toss
+
+  daring
+
+  copper
+
+  flight
+
+  link
+
+  sell
+
+  special
+
+  hamster
+
+  name
+
+  company
+
+  treat'
+bip_39_word_new_line12: 'toss
+
+  daring
+
+  copper
+
+  flight
+
+  link
+
+  sell
+
+  special
+
+  hamster
+
+  name
+
+  company
+
+  treat
+
+  acid'
+bip_39_word_new_line2: 'toss
+
+  daring'
+bip_39_word_new_line3: 'toss
+
+  daring
+
+  copper'
+bip_39_word_new_line4: 'toss
+
+  daring
+
+  copper
+
+  flight'
+bip_39_word_new_line5: 'toss
+
+  daring
+
+  copper
+
+  flight
+
+  link'
+bip_39_word_new_line6: 'toss
+
+  daring
+
+  copper
+
+  flight
+
+  link
+
+  sell'
+bip_39_word_new_line7: 'toss
+
+  daring
+
+  copper
+
+  flight
+
+  link
+
+  sell
+
+  special'
+bip_39_word_new_line8: 'toss
+
+  daring
+
+  copper
+
+  flight
+
+  link
+
+  sell
+
+  special
+
+  hamster'
+bip_39_word_new_line9: 'toss
+
+  daring
+
+  copper
+
+  flight
+
+  link
+
+  sell
+
+  special
+
+  hamster
+
+  name'
+bip_39_word_space_0:
+- toss
+- daring
+- copper
+- flight
+- link
+- sell
+- special
+- hamster
+- name
+- company
+- treat
+- acid
+bip_39_word_space_1: toss
+bip_39_word_space_10: toss daring copper flight link sell special hamster name company
+bip_39_word_space_11: toss daring copper flight link sell special hamster name company
+  treat
+bip_39_word_space_12: toss daring copper flight link sell special hamster name company
+  treat acid
+bip_39_word_space_2: toss daring
+bip_39_word_space_3: toss daring copper
+bip_39_word_space_4: toss daring copper flight
+bip_39_word_space_5: toss daring copper flight link
+bip_39_word_space_6: toss daring copper flight link sell
+bip_39_word_space_7: toss daring copper flight link sell special
+bip_39_word_space_8: toss daring copper flight link sell special hamster
+bip_39_word_space_9: toss daring copper flight link sell special hamster name
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

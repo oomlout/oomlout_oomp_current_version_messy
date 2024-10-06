@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sugar juice
+  * bip 39 word 3: sugar juice stumble
+  * bip 39 word: sugar juice stumble february poem destroy camera series category bunker minimum acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sugar |  
+| bip_39_word_new_br10 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker |  
+| bip_39_word_new_br11 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker<br>minimum |  
+| bip_39_word_new_br12 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category<br>bunker<br>minimum<br>acid |  
+| bip_39_word_new_br2 | sugar<br>juice |  
+| bip_39_word_new_br3 | sugar<br>juice<br>stumble |  
+| bip_39_word_new_br4 | sugar<br>juice<br>stumble<br>february |  
+| bip_39_word_new_br5 | sugar<br>juice<br>stumble<br>february<br>poem |  
+| bip_39_word_new_br6 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy |  
+| bip_39_word_new_br7 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera |  
+| bip_39_word_new_br8 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series |  
+| bip_39_word_new_br9 | sugar<br>juice<br>stumble<br>february<br>poem<br>destroy<br>camera<br>series<br>category |  
+| bip_39_word_new_line1 | sugar |  
+| bip_39_word_new_line10 | sugar
+juice
+stumble
+february
+poem
+destroy
+camera
+series
+category
+bunker |  
+| bip_39_word_new_line11 | sugar
+juice
+stumble
+february
+poem
+destroy
+camera
+series
+category
+bunker
+minimum |  
+| bip_39_word_new_line12 | sugar
+juice
+stumble
+february
+poem
+destroy
+camera
+series
+category
+bunker
+minimum
+acid |  
+| bip_39_word_new_line2 | sugar
+juice |  
+| bip_39_word_new_line3 | sugar
+juice
+stumble |  
+| bip_39_word_new_line4 | sugar
+juice
+stumble
+february |  
+| bip_39_word_new_line5 | sugar
+juice
+stumble
+february
+poem |  
+| bip_39_word_new_line6 | sugar
+juice
+stumble
+february
+poem
+destroy |  
+| bip_39_word_new_line7 | sugar
+juice
+stumble
+february
+poem
+destroy
+camera |  
+| bip_39_word_new_line8 | sugar
+juice
+stumble
+february
+poem
+destroy
+camera
+series |  
+| bip_39_word_new_line9 | sugar
+juice
+stumble
+february
+poem
+destroy
+camera
+series
+category |  
+| bip_39_word_space_0 | ['sugar', 'juice', 'stumble', 'february', 'poem', 'destroy', 'camera', 'series', 'category', 'bunker', 'minimum', 'acid'] |  
+| bip_39_word_space_1 | sugar |  
+| bip_39_word_space_10 | sugar juice stumble february poem destroy camera series category bunker |  
+| bip_39_word_space_11 | sugar juice stumble february poem destroy camera series category bunker minimum |  
+| bip_39_word_space_12 | sugar juice stumble february poem destroy camera series category bunker minimum acid |  
+| bip_39_word_space_2 | sugar juice |  
+| bip_39_word_space_3 | sugar juice stumble |  
+| bip_39_word_space_4 | sugar juice stumble february |  
+| bip_39_word_space_5 | sugar juice stumble february poem |  
+| bip_39_word_space_6 | sugar juice stumble february poem destroy |  
+| bip_39_word_space_7 | sugar juice stumble february poem destroy camera |  
+| bip_39_word_space_8 | sugar juice stumble february poem destroy camera series |  
+| bip_39_word_space_9 | sugar juice stumble february poem destroy camera series category |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

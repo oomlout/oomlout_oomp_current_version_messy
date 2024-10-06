@@ -1,3 +1,186 @@
+bip_39_word_new_br1: patrol
+bip_39_word_new_br10: patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main
+bip_39_word_new_br11: patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main<br>inspire
+bip_39_word_new_br12: patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question<br>main<br>inspire<br>actress
+bip_39_word_new_br2: patrol<br>alpha
+bip_39_word_new_br3: patrol<br>alpha<br>real
+bip_39_word_new_br4: patrol<br>alpha<br>real<br>defy
+bip_39_word_new_br5: patrol<br>alpha<br>real<br>defy<br>brother
+bip_39_word_new_br6: patrol<br>alpha<br>real<br>defy<br>brother<br>chat
+bip_39_word_new_br7: patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt
+bip_39_word_new_br8: patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn
+bip_39_word_new_br9: patrol<br>alpha<br>real<br>defy<br>brother<br>chat<br>aunt<br>turn<br>question
+bip_39_word_new_line1: patrol
+bip_39_word_new_line10: 'patrol
+
+  alpha
+
+  real
+
+  defy
+
+  brother
+
+  chat
+
+  aunt
+
+  turn
+
+  question
+
+  main'
+bip_39_word_new_line11: 'patrol
+
+  alpha
+
+  real
+
+  defy
+
+  brother
+
+  chat
+
+  aunt
+
+  turn
+
+  question
+
+  main
+
+  inspire'
+bip_39_word_new_line12: 'patrol
+
+  alpha
+
+  real
+
+  defy
+
+  brother
+
+  chat
+
+  aunt
+
+  turn
+
+  question
+
+  main
+
+  inspire
+
+  actress'
+bip_39_word_new_line2: 'patrol
+
+  alpha'
+bip_39_word_new_line3: 'patrol
+
+  alpha
+
+  real'
+bip_39_word_new_line4: 'patrol
+
+  alpha
+
+  real
+
+  defy'
+bip_39_word_new_line5: 'patrol
+
+  alpha
+
+  real
+
+  defy
+
+  brother'
+bip_39_word_new_line6: 'patrol
+
+  alpha
+
+  real
+
+  defy
+
+  brother
+
+  chat'
+bip_39_word_new_line7: 'patrol
+
+  alpha
+
+  real
+
+  defy
+
+  brother
+
+  chat
+
+  aunt'
+bip_39_word_new_line8: 'patrol
+
+  alpha
+
+  real
+
+  defy
+
+  brother
+
+  chat
+
+  aunt
+
+  turn'
+bip_39_word_new_line9: 'patrol
+
+  alpha
+
+  real
+
+  defy
+
+  brother
+
+  chat
+
+  aunt
+
+  turn
+
+  question'
+bip_39_word_space_0:
+- patrol
+- alpha
+- real
+- defy
+- brother
+- chat
+- aunt
+- turn
+- question
+- main
+- inspire
+- actress
+bip_39_word_space_1: patrol
+bip_39_word_space_10: patrol alpha real defy brother chat aunt turn question main
+bip_39_word_space_11: patrol alpha real defy brother chat aunt turn question main
+  inspire
+bip_39_word_space_12: patrol alpha real defy brother chat aunt turn question main
+  inspire actress
+bip_39_word_space_2: patrol alpha
+bip_39_word_space_3: patrol alpha real
+bip_39_word_space_4: patrol alpha real defy
+bip_39_word_space_5: patrol alpha real defy brother
+bip_39_word_space_6: patrol alpha real defy brother chat
+bip_39_word_space_7: patrol alpha real defy brother chat aunt
+bip_39_word_space_8: patrol alpha real defy brother chat aunt turn
+bip_39_word_space_9: patrol alpha real defy brother chat aunt turn question
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

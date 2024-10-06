@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: double gospel
+  * bip 39 word 3: double gospel select
+  * bip 39 word: double gospel select damp once wasp erupt now duty reward attack actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | double |  
+| bip_39_word_new_br10 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward |  
+| bip_39_word_new_br11 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward<br>attack |  
+| bip_39_word_new_br12 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty<br>reward<br>attack<br>actual |  
+| bip_39_word_new_br2 | double<br>gospel |  
+| bip_39_word_new_br3 | double<br>gospel<br>select |  
+| bip_39_word_new_br4 | double<br>gospel<br>select<br>damp |  
+| bip_39_word_new_br5 | double<br>gospel<br>select<br>damp<br>once |  
+| bip_39_word_new_br6 | double<br>gospel<br>select<br>damp<br>once<br>wasp |  
+| bip_39_word_new_br7 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt |  
+| bip_39_word_new_br8 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now |  
+| bip_39_word_new_br9 | double<br>gospel<br>select<br>damp<br>once<br>wasp<br>erupt<br>now<br>duty |  
+| bip_39_word_new_line1 | double |  
+| bip_39_word_new_line10 | double
+gospel
+select
+damp
+once
+wasp
+erupt
+now
+duty
+reward |  
+| bip_39_word_new_line11 | double
+gospel
+select
+damp
+once
+wasp
+erupt
+now
+duty
+reward
+attack |  
+| bip_39_word_new_line12 | double
+gospel
+select
+damp
+once
+wasp
+erupt
+now
+duty
+reward
+attack
+actual |  
+| bip_39_word_new_line2 | double
+gospel |  
+| bip_39_word_new_line3 | double
+gospel
+select |  
+| bip_39_word_new_line4 | double
+gospel
+select
+damp |  
+| bip_39_word_new_line5 | double
+gospel
+select
+damp
+once |  
+| bip_39_word_new_line6 | double
+gospel
+select
+damp
+once
+wasp |  
+| bip_39_word_new_line7 | double
+gospel
+select
+damp
+once
+wasp
+erupt |  
+| bip_39_word_new_line8 | double
+gospel
+select
+damp
+once
+wasp
+erupt
+now |  
+| bip_39_word_new_line9 | double
+gospel
+select
+damp
+once
+wasp
+erupt
+now
+duty |  
+| bip_39_word_space_0 | ['double', 'gospel', 'select', 'damp', 'once', 'wasp', 'erupt', 'now', 'duty', 'reward', 'attack', 'actual'] |  
+| bip_39_word_space_1 | double |  
+| bip_39_word_space_10 | double gospel select damp once wasp erupt now duty reward |  
+| bip_39_word_space_11 | double gospel select damp once wasp erupt now duty reward attack |  
+| bip_39_word_space_12 | double gospel select damp once wasp erupt now duty reward attack actual |  
+| bip_39_word_space_2 | double gospel |  
+| bip_39_word_space_3 | double gospel select |  
+| bip_39_word_space_4 | double gospel select damp |  
+| bip_39_word_space_5 | double gospel select damp once |  
+| bip_39_word_space_6 | double gospel select damp once wasp |  
+| bip_39_word_space_7 | double gospel select damp once wasp erupt |  
+| bip_39_word_space_8 | double gospel select damp once wasp erupt now |  
+| bip_39_word_space_9 | double gospel select damp once wasp erupt now duty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

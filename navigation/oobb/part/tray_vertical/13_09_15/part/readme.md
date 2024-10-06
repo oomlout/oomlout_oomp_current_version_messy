@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kid dad
+  * bip 39 word 3: kid dad question
+  * bip 39 word: kid dad question beauty bonus month horse cradle fiscal super again around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kid |  
+| bip_39_word_new_br10 | kid<br>dad<br>question<br>beauty<br>bonus<br>month<br>horse<br>cradle<br>fiscal<br>super |  
+| bip_39_word_new_br11 | kid<br>dad<br>question<br>beauty<br>bonus<br>month<br>horse<br>cradle<br>fiscal<br>super<br>again |  
+| bip_39_word_new_br12 | kid<br>dad<br>question<br>beauty<br>bonus<br>month<br>horse<br>cradle<br>fiscal<br>super<br>again<br>around |  
+| bip_39_word_new_br2 | kid<br>dad |  
+| bip_39_word_new_br3 | kid<br>dad<br>question |  
+| bip_39_word_new_br4 | kid<br>dad<br>question<br>beauty |  
+| bip_39_word_new_br5 | kid<br>dad<br>question<br>beauty<br>bonus |  
+| bip_39_word_new_br6 | kid<br>dad<br>question<br>beauty<br>bonus<br>month |  
+| bip_39_word_new_br7 | kid<br>dad<br>question<br>beauty<br>bonus<br>month<br>horse |  
+| bip_39_word_new_br8 | kid<br>dad<br>question<br>beauty<br>bonus<br>month<br>horse<br>cradle |  
+| bip_39_word_new_br9 | kid<br>dad<br>question<br>beauty<br>bonus<br>month<br>horse<br>cradle<br>fiscal |  
+| bip_39_word_new_line1 | kid |  
+| bip_39_word_new_line10 | kid
+dad
+question
+beauty
+bonus
+month
+horse
+cradle
+fiscal
+super |  
+| bip_39_word_new_line11 | kid
+dad
+question
+beauty
+bonus
+month
+horse
+cradle
+fiscal
+super
+again |  
+| bip_39_word_new_line12 | kid
+dad
+question
+beauty
+bonus
+month
+horse
+cradle
+fiscal
+super
+again
+around |  
+| bip_39_word_new_line2 | kid
+dad |  
+| bip_39_word_new_line3 | kid
+dad
+question |  
+| bip_39_word_new_line4 | kid
+dad
+question
+beauty |  
+| bip_39_word_new_line5 | kid
+dad
+question
+beauty
+bonus |  
+| bip_39_word_new_line6 | kid
+dad
+question
+beauty
+bonus
+month |  
+| bip_39_word_new_line7 | kid
+dad
+question
+beauty
+bonus
+month
+horse |  
+| bip_39_word_new_line8 | kid
+dad
+question
+beauty
+bonus
+month
+horse
+cradle |  
+| bip_39_word_new_line9 | kid
+dad
+question
+beauty
+bonus
+month
+horse
+cradle
+fiscal |  
+| bip_39_word_space_0 | ['kid', 'dad', 'question', 'beauty', 'bonus', 'month', 'horse', 'cradle', 'fiscal', 'super', 'again', 'around'] |  
+| bip_39_word_space_1 | kid |  
+| bip_39_word_space_10 | kid dad question beauty bonus month horse cradle fiscal super |  
+| bip_39_word_space_11 | kid dad question beauty bonus month horse cradle fiscal super again |  
+| bip_39_word_space_12 | kid dad question beauty bonus month horse cradle fiscal super again around |  
+| bip_39_word_space_2 | kid dad |  
+| bip_39_word_space_3 | kid dad question |  
+| bip_39_word_space_4 | kid dad question beauty |  
+| bip_39_word_space_5 | kid dad question beauty bonus |  
+| bip_39_word_space_6 | kid dad question beauty bonus month |  
+| bip_39_word_space_7 | kid dad question beauty bonus month horse |  
+| bip_39_word_space_8 | kid dad question beauty bonus month horse cradle |  
+| bip_39_word_space_9 | kid dad question beauty bonus month horse cradle fiscal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

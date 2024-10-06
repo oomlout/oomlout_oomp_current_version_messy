@@ -1,3 +1,187 @@
+bip_39_word_new_br1: circle
+bip_39_word_new_br10: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream<br>attract<br>gloom<br>equip<br>nation
+bip_39_word_new_br11: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream<br>attract<br>gloom<br>equip<br>nation<br>photo
+bip_39_word_new_br12: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream<br>attract<br>gloom<br>equip<br>nation<br>photo<br>aunt
+bip_39_word_new_br2: circle<br>subway
+bip_39_word_new_br3: circle<br>subway<br>donate
+bip_39_word_new_br4: circle<br>subway<br>donate<br>gaze
+bip_39_word_new_br5: circle<br>subway<br>donate<br>gaze<br>symptom
+bip_39_word_new_br6: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream
+bip_39_word_new_br7: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream<br>attract
+bip_39_word_new_br8: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream<br>attract<br>gloom
+bip_39_word_new_br9: circle<br>subway<br>donate<br>gaze<br>symptom<br>dream<br>attract<br>gloom<br>equip
+bip_39_word_new_line1: circle
+bip_39_word_new_line10: 'circle
+
+  subway
+
+  donate
+
+  gaze
+
+  symptom
+
+  dream
+
+  attract
+
+  gloom
+
+  equip
+
+  nation'
+bip_39_word_new_line11: 'circle
+
+  subway
+
+  donate
+
+  gaze
+
+  symptom
+
+  dream
+
+  attract
+
+  gloom
+
+  equip
+
+  nation
+
+  photo'
+bip_39_word_new_line12: 'circle
+
+  subway
+
+  donate
+
+  gaze
+
+  symptom
+
+  dream
+
+  attract
+
+  gloom
+
+  equip
+
+  nation
+
+  photo
+
+  aunt'
+bip_39_word_new_line2: 'circle
+
+  subway'
+bip_39_word_new_line3: 'circle
+
+  subway
+
+  donate'
+bip_39_word_new_line4: 'circle
+
+  subway
+
+  donate
+
+  gaze'
+bip_39_word_new_line5: 'circle
+
+  subway
+
+  donate
+
+  gaze
+
+  symptom'
+bip_39_word_new_line6: 'circle
+
+  subway
+
+  donate
+
+  gaze
+
+  symptom
+
+  dream'
+bip_39_word_new_line7: 'circle
+
+  subway
+
+  donate
+
+  gaze
+
+  symptom
+
+  dream
+
+  attract'
+bip_39_word_new_line8: 'circle
+
+  subway
+
+  donate
+
+  gaze
+
+  symptom
+
+  dream
+
+  attract
+
+  gloom'
+bip_39_word_new_line9: 'circle
+
+  subway
+
+  donate
+
+  gaze
+
+  symptom
+
+  dream
+
+  attract
+
+  gloom
+
+  equip'
+bip_39_word_space_0:
+- circle
+- subway
+- donate
+- gaze
+- symptom
+- dream
+- attract
+- gloom
+- equip
+- nation
+- photo
+- aunt
+bip_39_word_space_1: circle
+bip_39_word_space_10: circle subway donate gaze symptom dream attract gloom equip
+  nation
+bip_39_word_space_11: circle subway donate gaze symptom dream attract gloom equip
+  nation photo
+bip_39_word_space_12: circle subway donate gaze symptom dream attract gloom equip
+  nation photo aunt
+bip_39_word_space_2: circle subway
+bip_39_word_space_3: circle subway donate
+bip_39_word_space_4: circle subway donate gaze
+bip_39_word_space_5: circle subway donate gaze symptom
+bip_39_word_space_6: circle subway donate gaze symptom dream
+bip_39_word_space_7: circle subway donate gaze symptom dream attract
+bip_39_word_space_8: circle subway donate gaze symptom dream attract gloom
+bip_39_word_space_9: circle subway donate gaze symptom dream attract gloom equip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vapor custom
+  * bip 39 word 3: vapor custom book
+  * bip 39 word: vapor custom book fold swallow cigar employ candy fringe valve elite anxiety
 
 ### other_codes
 * short_code: sc4b8h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vapor |  
+| bip_39_word_new_br10 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar<br>employ<br>candy<br>fringe<br>valve |  
+| bip_39_word_new_br11 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar<br>employ<br>candy<br>fringe<br>valve<br>elite |  
+| bip_39_word_new_br12 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar<br>employ<br>candy<br>fringe<br>valve<br>elite<br>anxiety |  
+| bip_39_word_new_br2 | vapor<br>custom |  
+| bip_39_word_new_br3 | vapor<br>custom<br>book |  
+| bip_39_word_new_br4 | vapor<br>custom<br>book<br>fold |  
+| bip_39_word_new_br5 | vapor<br>custom<br>book<br>fold<br>swallow |  
+| bip_39_word_new_br6 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar |  
+| bip_39_word_new_br7 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar<br>employ |  
+| bip_39_word_new_br8 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar<br>employ<br>candy |  
+| bip_39_word_new_br9 | vapor<br>custom<br>book<br>fold<br>swallow<br>cigar<br>employ<br>candy<br>fringe |  
+| bip_39_word_new_line1 | vapor |  
+| bip_39_word_new_line10 | vapor
+custom
+book
+fold
+swallow
+cigar
+employ
+candy
+fringe
+valve |  
+| bip_39_word_new_line11 | vapor
+custom
+book
+fold
+swallow
+cigar
+employ
+candy
+fringe
+valve
+elite |  
+| bip_39_word_new_line12 | vapor
+custom
+book
+fold
+swallow
+cigar
+employ
+candy
+fringe
+valve
+elite
+anxiety |  
+| bip_39_word_new_line2 | vapor
+custom |  
+| bip_39_word_new_line3 | vapor
+custom
+book |  
+| bip_39_word_new_line4 | vapor
+custom
+book
+fold |  
+| bip_39_word_new_line5 | vapor
+custom
+book
+fold
+swallow |  
+| bip_39_word_new_line6 | vapor
+custom
+book
+fold
+swallow
+cigar |  
+| bip_39_word_new_line7 | vapor
+custom
+book
+fold
+swallow
+cigar
+employ |  
+| bip_39_word_new_line8 | vapor
+custom
+book
+fold
+swallow
+cigar
+employ
+candy |  
+| bip_39_word_new_line9 | vapor
+custom
+book
+fold
+swallow
+cigar
+employ
+candy
+fringe |  
+| bip_39_word_space_0 | ['vapor', 'custom', 'book', 'fold', 'swallow', 'cigar', 'employ', 'candy', 'fringe', 'valve', 'elite', 'anxiety'] |  
+| bip_39_word_space_1 | vapor |  
+| bip_39_word_space_10 | vapor custom book fold swallow cigar employ candy fringe valve |  
+| bip_39_word_space_11 | vapor custom book fold swallow cigar employ candy fringe valve elite |  
+| bip_39_word_space_12 | vapor custom book fold swallow cigar employ candy fringe valve elite anxiety |  
+| bip_39_word_space_2 | vapor custom |  
+| bip_39_word_space_3 | vapor custom book |  
+| bip_39_word_space_4 | vapor custom book fold |  
+| bip_39_word_space_5 | vapor custom book fold swallow |  
+| bip_39_word_space_6 | vapor custom book fold swallow cigar |  
+| bip_39_word_space_7 | vapor custom book fold swallow cigar employ |  
+| bip_39_word_space_8 | vapor custom book fold swallow cigar employ candy |  
+| bip_39_word_space_9 | vapor custom book fold swallow cigar employ candy fringe |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: busy
+bip_39_word_new_br10: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife
+bip_39_word_new_br11: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance
+bip_39_word_new_br12: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance<br>absorb
+bip_39_word_new_br2: busy<br>angle
+bip_39_word_new_br3: busy<br>angle<br>discover
+bip_39_word_new_br4: busy<br>angle<br>discover<br>diesel
+bip_39_word_new_br5: busy<br>angle<br>discover<br>diesel<br>loan
+bip_39_word_new_br6: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow
+bip_39_word_new_br7: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault
+bip_39_word_new_br8: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit
+bip_39_word_new_br9: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe
+bip_39_word_new_line1: busy
+bip_39_word_new_line10: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit
+
+  tribe
+
+  wife'
+bip_39_word_new_line11: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit
+
+  tribe
+
+  wife
+
+  distance'
+bip_39_word_new_line12: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit
+
+  tribe
+
+  wife
+
+  distance
+
+  absorb'
+bip_39_word_new_line2: 'busy
+
+  angle'
+bip_39_word_new_line3: 'busy
+
+  angle
+
+  discover'
+bip_39_word_new_line4: 'busy
+
+  angle
+
+  discover
+
+  diesel'
+bip_39_word_new_line5: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan'
+bip_39_word_new_line6: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow'
+bip_39_word_new_line7: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault'
+bip_39_word_new_line8: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit'
+bip_39_word_new_line9: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit
+
+  tribe'
+bip_39_word_space_0:
+- busy
+- angle
+- discover
+- diesel
+- loan
+- swallow
+- fault
+- quit
+- tribe
+- wife
+- distance
+- absorb
+bip_39_word_space_1: busy
+bip_39_word_space_10: busy angle discover diesel loan swallow fault quit tribe wife
+bip_39_word_space_11: busy angle discover diesel loan swallow fault quit tribe wife
+  distance
+bip_39_word_space_12: busy angle discover diesel loan swallow fault quit tribe wife
+  distance absorb
+bip_39_word_space_2: busy angle
+bip_39_word_space_3: busy angle discover
+bip_39_word_space_4: busy angle discover diesel
+bip_39_word_space_5: busy angle discover diesel loan
+bip_39_word_space_6: busy angle discover diesel loan swallow
+bip_39_word_space_7: busy angle discover diesel loan swallow fault
+bip_39_word_space_8: busy angle discover diesel loan swallow fault quit
+bip_39_word_space_9: busy angle discover diesel loan swallow fault quit tribe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

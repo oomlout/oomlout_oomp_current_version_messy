@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: knee help
+  * bip 39 word 3: knee help hint
+  * bip 39 word: knee help hint cram chief trouble dolphin eight lottery lawn curious arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | knee |  
+| bip_39_word_new_br10 | knee<br>help<br>hint<br>cram<br>chief<br>trouble<br>dolphin<br>eight<br>lottery<br>lawn |  
+| bip_39_word_new_br11 | knee<br>help<br>hint<br>cram<br>chief<br>trouble<br>dolphin<br>eight<br>lottery<br>lawn<br>curious |  
+| bip_39_word_new_br12 | knee<br>help<br>hint<br>cram<br>chief<br>trouble<br>dolphin<br>eight<br>lottery<br>lawn<br>curious<br>arrive |  
+| bip_39_word_new_br2 | knee<br>help |  
+| bip_39_word_new_br3 | knee<br>help<br>hint |  
+| bip_39_word_new_br4 | knee<br>help<br>hint<br>cram |  
+| bip_39_word_new_br5 | knee<br>help<br>hint<br>cram<br>chief |  
+| bip_39_word_new_br6 | knee<br>help<br>hint<br>cram<br>chief<br>trouble |  
+| bip_39_word_new_br7 | knee<br>help<br>hint<br>cram<br>chief<br>trouble<br>dolphin |  
+| bip_39_word_new_br8 | knee<br>help<br>hint<br>cram<br>chief<br>trouble<br>dolphin<br>eight |  
+| bip_39_word_new_br9 | knee<br>help<br>hint<br>cram<br>chief<br>trouble<br>dolphin<br>eight<br>lottery |  
+| bip_39_word_new_line1 | knee |  
+| bip_39_word_new_line10 | knee
+help
+hint
+cram
+chief
+trouble
+dolphin
+eight
+lottery
+lawn |  
+| bip_39_word_new_line11 | knee
+help
+hint
+cram
+chief
+trouble
+dolphin
+eight
+lottery
+lawn
+curious |  
+| bip_39_word_new_line12 | knee
+help
+hint
+cram
+chief
+trouble
+dolphin
+eight
+lottery
+lawn
+curious
+arrive |  
+| bip_39_word_new_line2 | knee
+help |  
+| bip_39_word_new_line3 | knee
+help
+hint |  
+| bip_39_word_new_line4 | knee
+help
+hint
+cram |  
+| bip_39_word_new_line5 | knee
+help
+hint
+cram
+chief |  
+| bip_39_word_new_line6 | knee
+help
+hint
+cram
+chief
+trouble |  
+| bip_39_word_new_line7 | knee
+help
+hint
+cram
+chief
+trouble
+dolphin |  
+| bip_39_word_new_line8 | knee
+help
+hint
+cram
+chief
+trouble
+dolphin
+eight |  
+| bip_39_word_new_line9 | knee
+help
+hint
+cram
+chief
+trouble
+dolphin
+eight
+lottery |  
+| bip_39_word_space_0 | ['knee', 'help', 'hint', 'cram', 'chief', 'trouble', 'dolphin', 'eight', 'lottery', 'lawn', 'curious', 'arrive'] |  
+| bip_39_word_space_1 | knee |  
+| bip_39_word_space_10 | knee help hint cram chief trouble dolphin eight lottery lawn |  
+| bip_39_word_space_11 | knee help hint cram chief trouble dolphin eight lottery lawn curious |  
+| bip_39_word_space_12 | knee help hint cram chief trouble dolphin eight lottery lawn curious arrive |  
+| bip_39_word_space_2 | knee help |  
+| bip_39_word_space_3 | knee help hint |  
+| bip_39_word_space_4 | knee help hint cram |  
+| bip_39_word_space_5 | knee help hint cram chief |  
+| bip_39_word_space_6 | knee help hint cram chief trouble |  
+| bip_39_word_space_7 | knee help hint cram chief trouble dolphin |  
+| bip_39_word_space_8 | knee help hint cram chief trouble dolphin eight |  
+| bip_39_word_space_9 | knee help hint cram chief trouble dolphin eight lottery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

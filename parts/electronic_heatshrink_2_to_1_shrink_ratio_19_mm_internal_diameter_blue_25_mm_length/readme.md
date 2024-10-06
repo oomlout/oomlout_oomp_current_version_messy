@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: marble rookie
+  * bip 39 word 3: marble rookie join
+  * bip 39 word: marble rookie join turtle victory senior scrub hip damp donate couch analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | marble |  
+| bip_39_word_new_br10 | marble<br>rookie<br>join<br>turtle<br>victory<br>senior<br>scrub<br>hip<br>damp<br>donate |  
+| bip_39_word_new_br11 | marble<br>rookie<br>join<br>turtle<br>victory<br>senior<br>scrub<br>hip<br>damp<br>donate<br>couch |  
+| bip_39_word_new_br12 | marble<br>rookie<br>join<br>turtle<br>victory<br>senior<br>scrub<br>hip<br>damp<br>donate<br>couch<br>analyst |  
+| bip_39_word_new_br2 | marble<br>rookie |  
+| bip_39_word_new_br3 | marble<br>rookie<br>join |  
+| bip_39_word_new_br4 | marble<br>rookie<br>join<br>turtle |  
+| bip_39_word_new_br5 | marble<br>rookie<br>join<br>turtle<br>victory |  
+| bip_39_word_new_br6 | marble<br>rookie<br>join<br>turtle<br>victory<br>senior |  
+| bip_39_word_new_br7 | marble<br>rookie<br>join<br>turtle<br>victory<br>senior<br>scrub |  
+| bip_39_word_new_br8 | marble<br>rookie<br>join<br>turtle<br>victory<br>senior<br>scrub<br>hip |  
+| bip_39_word_new_br9 | marble<br>rookie<br>join<br>turtle<br>victory<br>senior<br>scrub<br>hip<br>damp |  
+| bip_39_word_new_line1 | marble |  
+| bip_39_word_new_line10 | marble
+rookie
+join
+turtle
+victory
+senior
+scrub
+hip
+damp
+donate |  
+| bip_39_word_new_line11 | marble
+rookie
+join
+turtle
+victory
+senior
+scrub
+hip
+damp
+donate
+couch |  
+| bip_39_word_new_line12 | marble
+rookie
+join
+turtle
+victory
+senior
+scrub
+hip
+damp
+donate
+couch
+analyst |  
+| bip_39_word_new_line2 | marble
+rookie |  
+| bip_39_word_new_line3 | marble
+rookie
+join |  
+| bip_39_word_new_line4 | marble
+rookie
+join
+turtle |  
+| bip_39_word_new_line5 | marble
+rookie
+join
+turtle
+victory |  
+| bip_39_word_new_line6 | marble
+rookie
+join
+turtle
+victory
+senior |  
+| bip_39_word_new_line7 | marble
+rookie
+join
+turtle
+victory
+senior
+scrub |  
+| bip_39_word_new_line8 | marble
+rookie
+join
+turtle
+victory
+senior
+scrub
+hip |  
+| bip_39_word_new_line9 | marble
+rookie
+join
+turtle
+victory
+senior
+scrub
+hip
+damp |  
+| bip_39_word_space_0 | ['marble', 'rookie', 'join', 'turtle', 'victory', 'senior', 'scrub', 'hip', 'damp', 'donate', 'couch', 'analyst'] |  
+| bip_39_word_space_1 | marble |  
+| bip_39_word_space_10 | marble rookie join turtle victory senior scrub hip damp donate |  
+| bip_39_word_space_11 | marble rookie join turtle victory senior scrub hip damp donate couch |  
+| bip_39_word_space_12 | marble rookie join turtle victory senior scrub hip damp donate couch analyst |  
+| bip_39_word_space_2 | marble rookie |  
+| bip_39_word_space_3 | marble rookie join |  
+| bip_39_word_space_4 | marble rookie join turtle |  
+| bip_39_word_space_5 | marble rookie join turtle victory |  
+| bip_39_word_space_6 | marble rookie join turtle victory senior |  
+| bip_39_word_space_7 | marble rookie join turtle victory senior scrub |  
+| bip_39_word_space_8 | marble rookie join turtle victory senior scrub hip |  
+| bip_39_word_space_9 | marble rookie join turtle victory senior scrub hip damp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

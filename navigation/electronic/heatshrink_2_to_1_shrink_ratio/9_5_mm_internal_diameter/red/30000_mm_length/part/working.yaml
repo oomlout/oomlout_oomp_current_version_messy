@@ -1,3 +1,186 @@
+bip_39_word_new_br1: choice
+bip_39_word_new_br10: choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight
+bip_39_word_new_br11: choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight<br>post
+bip_39_word_new_br12: choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry<br>sight<br>post<br>add
+bip_39_word_new_br2: choice<br>region
+bip_39_word_new_br3: choice<br>region<br>spike
+bip_39_word_new_br4: choice<br>region<br>spike<br>romance
+bip_39_word_new_br5: choice<br>region<br>spike<br>romance<br>kick
+bip_39_word_new_br6: choice<br>region<br>spike<br>romance<br>kick<br>hand
+bip_39_word_new_br7: choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden
+bip_39_word_new_br8: choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule
+bip_39_word_new_br9: choice<br>region<br>spike<br>romance<br>kick<br>hand<br>burden<br>mule<br>worry
+bip_39_word_new_line1: choice
+bip_39_word_new_line10: 'choice
+
+  region
+
+  spike
+
+  romance
+
+  kick
+
+  hand
+
+  burden
+
+  mule
+
+  worry
+
+  sight'
+bip_39_word_new_line11: 'choice
+
+  region
+
+  spike
+
+  romance
+
+  kick
+
+  hand
+
+  burden
+
+  mule
+
+  worry
+
+  sight
+
+  post'
+bip_39_word_new_line12: 'choice
+
+  region
+
+  spike
+
+  romance
+
+  kick
+
+  hand
+
+  burden
+
+  mule
+
+  worry
+
+  sight
+
+  post
+
+  add'
+bip_39_word_new_line2: 'choice
+
+  region'
+bip_39_word_new_line3: 'choice
+
+  region
+
+  spike'
+bip_39_word_new_line4: 'choice
+
+  region
+
+  spike
+
+  romance'
+bip_39_word_new_line5: 'choice
+
+  region
+
+  spike
+
+  romance
+
+  kick'
+bip_39_word_new_line6: 'choice
+
+  region
+
+  spike
+
+  romance
+
+  kick
+
+  hand'
+bip_39_word_new_line7: 'choice
+
+  region
+
+  spike
+
+  romance
+
+  kick
+
+  hand
+
+  burden'
+bip_39_word_new_line8: 'choice
+
+  region
+
+  spike
+
+  romance
+
+  kick
+
+  hand
+
+  burden
+
+  mule'
+bip_39_word_new_line9: 'choice
+
+  region
+
+  spike
+
+  romance
+
+  kick
+
+  hand
+
+  burden
+
+  mule
+
+  worry'
+bip_39_word_space_0:
+- choice
+- region
+- spike
+- romance
+- kick
+- hand
+- burden
+- mule
+- worry
+- sight
+- post
+- add
+bip_39_word_space_1: choice
+bip_39_word_space_10: choice region spike romance kick hand burden mule worry sight
+bip_39_word_space_11: choice region spike romance kick hand burden mule worry sight
+  post
+bip_39_word_space_12: choice region spike romance kick hand burden mule worry sight
+  post add
+bip_39_word_space_2: choice region
+bip_39_word_space_3: choice region spike
+bip_39_word_space_4: choice region spike romance
+bip_39_word_space_5: choice region spike romance kick
+bip_39_word_space_6: choice region spike romance kick hand
+bip_39_word_space_7: choice region spike romance kick hand burden
+bip_39_word_space_8: choice region spike romance kick hand burden mule
+bip_39_word_space_9: choice region spike romance kick hand burden mule worry
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

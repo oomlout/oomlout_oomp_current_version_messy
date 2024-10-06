@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sadness shock
+  * bip 39 word 3: sadness shock powder
+  * bip 39 word: sadness shock powder park chicken desert solar high seminar giant garbage author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sadness |  
+| bip_39_word_new_br10 | sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high<br>seminar<br>giant |  
+| bip_39_word_new_br11 | sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high<br>seminar<br>giant<br>garbage |  
+| bip_39_word_new_br12 | sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high<br>seminar<br>giant<br>garbage<br>author |  
+| bip_39_word_new_br2 | sadness<br>shock |  
+| bip_39_word_new_br3 | sadness<br>shock<br>powder |  
+| bip_39_word_new_br4 | sadness<br>shock<br>powder<br>park |  
+| bip_39_word_new_br5 | sadness<br>shock<br>powder<br>park<br>chicken |  
+| bip_39_word_new_br6 | sadness<br>shock<br>powder<br>park<br>chicken<br>desert |  
+| bip_39_word_new_br7 | sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar |  
+| bip_39_word_new_br8 | sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high |  
+| bip_39_word_new_br9 | sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high<br>seminar |  
+| bip_39_word_new_line1 | sadness |  
+| bip_39_word_new_line10 | sadness
+shock
+powder
+park
+chicken
+desert
+solar
+high
+seminar
+giant |  
+| bip_39_word_new_line11 | sadness
+shock
+powder
+park
+chicken
+desert
+solar
+high
+seminar
+giant
+garbage |  
+| bip_39_word_new_line12 | sadness
+shock
+powder
+park
+chicken
+desert
+solar
+high
+seminar
+giant
+garbage
+author |  
+| bip_39_word_new_line2 | sadness
+shock |  
+| bip_39_word_new_line3 | sadness
+shock
+powder |  
+| bip_39_word_new_line4 | sadness
+shock
+powder
+park |  
+| bip_39_word_new_line5 | sadness
+shock
+powder
+park
+chicken |  
+| bip_39_word_new_line6 | sadness
+shock
+powder
+park
+chicken
+desert |  
+| bip_39_word_new_line7 | sadness
+shock
+powder
+park
+chicken
+desert
+solar |  
+| bip_39_word_new_line8 | sadness
+shock
+powder
+park
+chicken
+desert
+solar
+high |  
+| bip_39_word_new_line9 | sadness
+shock
+powder
+park
+chicken
+desert
+solar
+high
+seminar |  
+| bip_39_word_space_0 | ['sadness', 'shock', 'powder', 'park', 'chicken', 'desert', 'solar', 'high', 'seminar', 'giant', 'garbage', 'author'] |  
+| bip_39_word_space_1 | sadness |  
+| bip_39_word_space_10 | sadness shock powder park chicken desert solar high seminar giant |  
+| bip_39_word_space_11 | sadness shock powder park chicken desert solar high seminar giant garbage |  
+| bip_39_word_space_12 | sadness shock powder park chicken desert solar high seminar giant garbage author |  
+| bip_39_word_space_2 | sadness shock |  
+| bip_39_word_space_3 | sadness shock powder |  
+| bip_39_word_space_4 | sadness shock powder park |  
+| bip_39_word_space_5 | sadness shock powder park chicken |  
+| bip_39_word_space_6 | sadness shock powder park chicken desert |  
+| bip_39_word_space_7 | sadness shock powder park chicken desert solar |  
+| bip_39_word_space_8 | sadness shock powder park chicken desert solar high |  
+| bip_39_word_space_9 | sadness shock powder park chicken desert solar high seminar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

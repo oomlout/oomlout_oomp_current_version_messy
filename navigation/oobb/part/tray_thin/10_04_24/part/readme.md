@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: split method
+  * bip 39 word 3: split method almost
+  * bip 39 word: split method almost spare party lounge describe rate strike scheme pudding alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | split |  
+| bip_39_word_new_br10 | split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate<br>strike<br>scheme |  
+| bip_39_word_new_br11 | split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate<br>strike<br>scheme<br>pudding |  
+| bip_39_word_new_br12 | split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate<br>strike<br>scheme<br>pudding<br>alcohol |  
+| bip_39_word_new_br2 | split<br>method |  
+| bip_39_word_new_br3 | split<br>method<br>almost |  
+| bip_39_word_new_br4 | split<br>method<br>almost<br>spare |  
+| bip_39_word_new_br5 | split<br>method<br>almost<br>spare<br>party |  
+| bip_39_word_new_br6 | split<br>method<br>almost<br>spare<br>party<br>lounge |  
+| bip_39_word_new_br7 | split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe |  
+| bip_39_word_new_br8 | split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate |  
+| bip_39_word_new_br9 | split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate<br>strike |  
+| bip_39_word_new_line1 | split |  
+| bip_39_word_new_line10 | split
+method
+almost
+spare
+party
+lounge
+describe
+rate
+strike
+scheme |  
+| bip_39_word_new_line11 | split
+method
+almost
+spare
+party
+lounge
+describe
+rate
+strike
+scheme
+pudding |  
+| bip_39_word_new_line12 | split
+method
+almost
+spare
+party
+lounge
+describe
+rate
+strike
+scheme
+pudding
+alcohol |  
+| bip_39_word_new_line2 | split
+method |  
+| bip_39_word_new_line3 | split
+method
+almost |  
+| bip_39_word_new_line4 | split
+method
+almost
+spare |  
+| bip_39_word_new_line5 | split
+method
+almost
+spare
+party |  
+| bip_39_word_new_line6 | split
+method
+almost
+spare
+party
+lounge |  
+| bip_39_word_new_line7 | split
+method
+almost
+spare
+party
+lounge
+describe |  
+| bip_39_word_new_line8 | split
+method
+almost
+spare
+party
+lounge
+describe
+rate |  
+| bip_39_word_new_line9 | split
+method
+almost
+spare
+party
+lounge
+describe
+rate
+strike |  
+| bip_39_word_space_0 | ['split', 'method', 'almost', 'spare', 'party', 'lounge', 'describe', 'rate', 'strike', 'scheme', 'pudding', 'alcohol'] |  
+| bip_39_word_space_1 | split |  
+| bip_39_word_space_10 | split method almost spare party lounge describe rate strike scheme |  
+| bip_39_word_space_11 | split method almost spare party lounge describe rate strike scheme pudding |  
+| bip_39_word_space_12 | split method almost spare party lounge describe rate strike scheme pudding alcohol |  
+| bip_39_word_space_2 | split method |  
+| bip_39_word_space_3 | split method almost |  
+| bip_39_word_space_4 | split method almost spare |  
+| bip_39_word_space_5 | split method almost spare party |  
+| bip_39_word_space_6 | split method almost spare party lounge |  
+| bip_39_word_space_7 | split method almost spare party lounge describe |  
+| bip_39_word_space_8 | split method almost spare party lounge describe rate |  
+| bip_39_word_space_9 | split method almost spare party lounge describe rate strike |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

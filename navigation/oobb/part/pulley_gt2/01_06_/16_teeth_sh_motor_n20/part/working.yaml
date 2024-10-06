@@ -1,3 +1,187 @@
+bip_39_word_new_br1: whip
+bip_39_word_new_br10: whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category
+bip_39_word_new_br11: whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category<br>throw
+bip_39_word_new_br12: whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign<br>category<br>throw<br>attack
+bip_39_word_new_br2: whip<br>jungle
+bip_39_word_new_br3: whip<br>jungle<br>auction
+bip_39_word_new_br4: whip<br>jungle<br>auction<br>digital
+bip_39_word_new_br5: whip<br>jungle<br>auction<br>digital<br>potato
+bip_39_word_new_br6: whip<br>jungle<br>auction<br>digital<br>potato<br>cost
+bip_39_word_new_br7: whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin
+bip_39_word_new_br8: whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor
+bip_39_word_new_br9: whip<br>jungle<br>auction<br>digital<br>potato<br>cost<br>napkin<br>monitor<br>sign
+bip_39_word_new_line1: whip
+bip_39_word_new_line10: 'whip
+
+  jungle
+
+  auction
+
+  digital
+
+  potato
+
+  cost
+
+  napkin
+
+  monitor
+
+  sign
+
+  category'
+bip_39_word_new_line11: 'whip
+
+  jungle
+
+  auction
+
+  digital
+
+  potato
+
+  cost
+
+  napkin
+
+  monitor
+
+  sign
+
+  category
+
+  throw'
+bip_39_word_new_line12: 'whip
+
+  jungle
+
+  auction
+
+  digital
+
+  potato
+
+  cost
+
+  napkin
+
+  monitor
+
+  sign
+
+  category
+
+  throw
+
+  attack'
+bip_39_word_new_line2: 'whip
+
+  jungle'
+bip_39_word_new_line3: 'whip
+
+  jungle
+
+  auction'
+bip_39_word_new_line4: 'whip
+
+  jungle
+
+  auction
+
+  digital'
+bip_39_word_new_line5: 'whip
+
+  jungle
+
+  auction
+
+  digital
+
+  potato'
+bip_39_word_new_line6: 'whip
+
+  jungle
+
+  auction
+
+  digital
+
+  potato
+
+  cost'
+bip_39_word_new_line7: 'whip
+
+  jungle
+
+  auction
+
+  digital
+
+  potato
+
+  cost
+
+  napkin'
+bip_39_word_new_line8: 'whip
+
+  jungle
+
+  auction
+
+  digital
+
+  potato
+
+  cost
+
+  napkin
+
+  monitor'
+bip_39_word_new_line9: 'whip
+
+  jungle
+
+  auction
+
+  digital
+
+  potato
+
+  cost
+
+  napkin
+
+  monitor
+
+  sign'
+bip_39_word_space_0:
+- whip
+- jungle
+- auction
+- digital
+- potato
+- cost
+- napkin
+- monitor
+- sign
+- category
+- throw
+- attack
+bip_39_word_space_1: whip
+bip_39_word_space_10: whip jungle auction digital potato cost napkin monitor sign
+  category
+bip_39_word_space_11: whip jungle auction digital potato cost napkin monitor sign
+  category throw
+bip_39_word_space_12: whip jungle auction digital potato cost napkin monitor sign
+  category throw attack
+bip_39_word_space_2: whip jungle
+bip_39_word_space_3: whip jungle auction
+bip_39_word_space_4: whip jungle auction digital
+bip_39_word_space_5: whip jungle auction digital potato
+bip_39_word_space_6: whip jungle auction digital potato cost
+bip_39_word_space_7: whip jungle auction digital potato cost napkin
+bip_39_word_space_8: whip jungle auction digital potato cost napkin monitor
+bip_39_word_space_9: whip jungle auction digital potato cost napkin monitor sign
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

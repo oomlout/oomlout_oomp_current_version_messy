@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: release record
+  * bip 39 word 3: release record install
+  * bip 39 word: release record install kit act nurse upset exact rather curve document attend
 
 ### other_codes
 * short_code: br6212
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | release |  
+| bip_39_word_new_br10 | release<br>record<br>install<br>kit<br>act<br>nurse<br>upset<br>exact<br>rather<br>curve |  
+| bip_39_word_new_br11 | release<br>record<br>install<br>kit<br>act<br>nurse<br>upset<br>exact<br>rather<br>curve<br>document |  
+| bip_39_word_new_br12 | release<br>record<br>install<br>kit<br>act<br>nurse<br>upset<br>exact<br>rather<br>curve<br>document<br>attend |  
+| bip_39_word_new_br2 | release<br>record |  
+| bip_39_word_new_br3 | release<br>record<br>install |  
+| bip_39_word_new_br4 | release<br>record<br>install<br>kit |  
+| bip_39_word_new_br5 | release<br>record<br>install<br>kit<br>act |  
+| bip_39_word_new_br6 | release<br>record<br>install<br>kit<br>act<br>nurse |  
+| bip_39_word_new_br7 | release<br>record<br>install<br>kit<br>act<br>nurse<br>upset |  
+| bip_39_word_new_br8 | release<br>record<br>install<br>kit<br>act<br>nurse<br>upset<br>exact |  
+| bip_39_word_new_br9 | release<br>record<br>install<br>kit<br>act<br>nurse<br>upset<br>exact<br>rather |  
+| bip_39_word_new_line1 | release |  
+| bip_39_word_new_line10 | release
+record
+install
+kit
+act
+nurse
+upset
+exact
+rather
+curve |  
+| bip_39_word_new_line11 | release
+record
+install
+kit
+act
+nurse
+upset
+exact
+rather
+curve
+document |  
+| bip_39_word_new_line12 | release
+record
+install
+kit
+act
+nurse
+upset
+exact
+rather
+curve
+document
+attend |  
+| bip_39_word_new_line2 | release
+record |  
+| bip_39_word_new_line3 | release
+record
+install |  
+| bip_39_word_new_line4 | release
+record
+install
+kit |  
+| bip_39_word_new_line5 | release
+record
+install
+kit
+act |  
+| bip_39_word_new_line6 | release
+record
+install
+kit
+act
+nurse |  
+| bip_39_word_new_line7 | release
+record
+install
+kit
+act
+nurse
+upset |  
+| bip_39_word_new_line8 | release
+record
+install
+kit
+act
+nurse
+upset
+exact |  
+| bip_39_word_new_line9 | release
+record
+install
+kit
+act
+nurse
+upset
+exact
+rather |  
+| bip_39_word_space_0 | ['release', 'record', 'install', 'kit', 'act', 'nurse', 'upset', 'exact', 'rather', 'curve', 'document', 'attend'] |  
+| bip_39_word_space_1 | release |  
+| bip_39_word_space_10 | release record install kit act nurse upset exact rather curve |  
+| bip_39_word_space_11 | release record install kit act nurse upset exact rather curve document |  
+| bip_39_word_space_12 | release record install kit act nurse upset exact rather curve document attend |  
+| bip_39_word_space_2 | release record |  
+| bip_39_word_space_3 | release record install |  
+| bip_39_word_space_4 | release record install kit |  
+| bip_39_word_space_5 | release record install kit act |  
+| bip_39_word_space_6 | release record install kit act nurse |  
+| bip_39_word_space_7 | release record install kit act nurse upset |  
+| bip_39_word_space_8 | release record install kit act nurse upset exact |  
+| bip_39_word_space_9 | release record install kit act nurse upset exact rather |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

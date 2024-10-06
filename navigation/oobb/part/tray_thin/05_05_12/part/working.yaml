@@ -1,3 +1,186 @@
+bip_39_word_new_br1: denial
+bip_39_word_new_br10: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold<br>bitter<br>wild<br>decorate<br>kiwi
+bip_39_word_new_br11: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold<br>bitter<br>wild<br>decorate<br>kiwi<br>frame
+bip_39_word_new_br12: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold<br>bitter<br>wild<br>decorate<br>kiwi<br>frame<br>autumn
+bip_39_word_new_br2: denial<br>puppy
+bip_39_word_new_br3: denial<br>puppy<br>cargo
+bip_39_word_new_br4: denial<br>puppy<br>cargo<br>urge
+bip_39_word_new_br5: denial<br>puppy<br>cargo<br>urge<br>shine
+bip_39_word_new_br6: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold
+bip_39_word_new_br7: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold<br>bitter
+bip_39_word_new_br8: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold<br>bitter<br>wild
+bip_39_word_new_br9: denial<br>puppy<br>cargo<br>urge<br>shine<br>unfold<br>bitter<br>wild<br>decorate
+bip_39_word_new_line1: denial
+bip_39_word_new_line10: 'denial
+
+  puppy
+
+  cargo
+
+  urge
+
+  shine
+
+  unfold
+
+  bitter
+
+  wild
+
+  decorate
+
+  kiwi'
+bip_39_word_new_line11: 'denial
+
+  puppy
+
+  cargo
+
+  urge
+
+  shine
+
+  unfold
+
+  bitter
+
+  wild
+
+  decorate
+
+  kiwi
+
+  frame'
+bip_39_word_new_line12: 'denial
+
+  puppy
+
+  cargo
+
+  urge
+
+  shine
+
+  unfold
+
+  bitter
+
+  wild
+
+  decorate
+
+  kiwi
+
+  frame
+
+  autumn'
+bip_39_word_new_line2: 'denial
+
+  puppy'
+bip_39_word_new_line3: 'denial
+
+  puppy
+
+  cargo'
+bip_39_word_new_line4: 'denial
+
+  puppy
+
+  cargo
+
+  urge'
+bip_39_word_new_line5: 'denial
+
+  puppy
+
+  cargo
+
+  urge
+
+  shine'
+bip_39_word_new_line6: 'denial
+
+  puppy
+
+  cargo
+
+  urge
+
+  shine
+
+  unfold'
+bip_39_word_new_line7: 'denial
+
+  puppy
+
+  cargo
+
+  urge
+
+  shine
+
+  unfold
+
+  bitter'
+bip_39_word_new_line8: 'denial
+
+  puppy
+
+  cargo
+
+  urge
+
+  shine
+
+  unfold
+
+  bitter
+
+  wild'
+bip_39_word_new_line9: 'denial
+
+  puppy
+
+  cargo
+
+  urge
+
+  shine
+
+  unfold
+
+  bitter
+
+  wild
+
+  decorate'
+bip_39_word_space_0:
+- denial
+- puppy
+- cargo
+- urge
+- shine
+- unfold
+- bitter
+- wild
+- decorate
+- kiwi
+- frame
+- autumn
+bip_39_word_space_1: denial
+bip_39_word_space_10: denial puppy cargo urge shine unfold bitter wild decorate kiwi
+bip_39_word_space_11: denial puppy cargo urge shine unfold bitter wild decorate kiwi
+  frame
+bip_39_word_space_12: denial puppy cargo urge shine unfold bitter wild decorate kiwi
+  frame autumn
+bip_39_word_space_2: denial puppy
+bip_39_word_space_3: denial puppy cargo
+bip_39_word_space_4: denial puppy cargo urge
+bip_39_word_space_5: denial puppy cargo urge shine
+bip_39_word_space_6: denial puppy cargo urge shine unfold
+bip_39_word_space_7: denial puppy cargo urge shine unfold bitter
+bip_39_word_space_8: denial puppy cargo urge shine unfold bitter wild
+bip_39_word_space_9: denial puppy cargo urge shine unfold bitter wild decorate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spice nothing
+  * bip 39 word 3: spice nothing bonus
+  * bip 39 word: spice nothing bonus sail shrimp buddy weird north ocean photo equal angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spice |  
+| bip_39_word_new_br10 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy<br>weird<br>north<br>ocean<br>photo |  
+| bip_39_word_new_br11 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy<br>weird<br>north<br>ocean<br>photo<br>equal |  
+| bip_39_word_new_br12 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy<br>weird<br>north<br>ocean<br>photo<br>equal<br>angry |  
+| bip_39_word_new_br2 | spice<br>nothing |  
+| bip_39_word_new_br3 | spice<br>nothing<br>bonus |  
+| bip_39_word_new_br4 | spice<br>nothing<br>bonus<br>sail |  
+| bip_39_word_new_br5 | spice<br>nothing<br>bonus<br>sail<br>shrimp |  
+| bip_39_word_new_br6 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy |  
+| bip_39_word_new_br7 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy<br>weird |  
+| bip_39_word_new_br8 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy<br>weird<br>north |  
+| bip_39_word_new_br9 | spice<br>nothing<br>bonus<br>sail<br>shrimp<br>buddy<br>weird<br>north<br>ocean |  
+| bip_39_word_new_line1 | spice |  
+| bip_39_word_new_line10 | spice
+nothing
+bonus
+sail
+shrimp
+buddy
+weird
+north
+ocean
+photo |  
+| bip_39_word_new_line11 | spice
+nothing
+bonus
+sail
+shrimp
+buddy
+weird
+north
+ocean
+photo
+equal |  
+| bip_39_word_new_line12 | spice
+nothing
+bonus
+sail
+shrimp
+buddy
+weird
+north
+ocean
+photo
+equal
+angry |  
+| bip_39_word_new_line2 | spice
+nothing |  
+| bip_39_word_new_line3 | spice
+nothing
+bonus |  
+| bip_39_word_new_line4 | spice
+nothing
+bonus
+sail |  
+| bip_39_word_new_line5 | spice
+nothing
+bonus
+sail
+shrimp |  
+| bip_39_word_new_line6 | spice
+nothing
+bonus
+sail
+shrimp
+buddy |  
+| bip_39_word_new_line7 | spice
+nothing
+bonus
+sail
+shrimp
+buddy
+weird |  
+| bip_39_word_new_line8 | spice
+nothing
+bonus
+sail
+shrimp
+buddy
+weird
+north |  
+| bip_39_word_new_line9 | spice
+nothing
+bonus
+sail
+shrimp
+buddy
+weird
+north
+ocean |  
+| bip_39_word_space_0 | ['spice', 'nothing', 'bonus', 'sail', 'shrimp', 'buddy', 'weird', 'north', 'ocean', 'photo', 'equal', 'angry'] |  
+| bip_39_word_space_1 | spice |  
+| bip_39_word_space_10 | spice nothing bonus sail shrimp buddy weird north ocean photo |  
+| bip_39_word_space_11 | spice nothing bonus sail shrimp buddy weird north ocean photo equal |  
+| bip_39_word_space_12 | spice nothing bonus sail shrimp buddy weird north ocean photo equal angry |  
+| bip_39_word_space_2 | spice nothing |  
+| bip_39_word_space_3 | spice nothing bonus |  
+| bip_39_word_space_4 | spice nothing bonus sail |  
+| bip_39_word_space_5 | spice nothing bonus sail shrimp |  
+| bip_39_word_space_6 | spice nothing bonus sail shrimp buddy |  
+| bip_39_word_space_7 | spice nothing bonus sail shrimp buddy weird |  
+| bip_39_word_space_8 | spice nothing bonus sail shrimp buddy weird north |  
+| bip_39_word_space_9 | spice nothing bonus sail shrimp buddy weird north ocean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

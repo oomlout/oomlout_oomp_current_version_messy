@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hole
+bip_39_word_new_br10: hole<br>attack<br>total<br>element<br>loud<br>movie<br>admit<br>north<br>outer<br>venture
+bip_39_word_new_br11: hole<br>attack<br>total<br>element<br>loud<br>movie<br>admit<br>north<br>outer<br>venture<br>high
+bip_39_word_new_br12: hole<br>attack<br>total<br>element<br>loud<br>movie<br>admit<br>north<br>outer<br>venture<br>high<br>aim
+bip_39_word_new_br2: hole<br>attack
+bip_39_word_new_br3: hole<br>attack<br>total
+bip_39_word_new_br4: hole<br>attack<br>total<br>element
+bip_39_word_new_br5: hole<br>attack<br>total<br>element<br>loud
+bip_39_word_new_br6: hole<br>attack<br>total<br>element<br>loud<br>movie
+bip_39_word_new_br7: hole<br>attack<br>total<br>element<br>loud<br>movie<br>admit
+bip_39_word_new_br8: hole<br>attack<br>total<br>element<br>loud<br>movie<br>admit<br>north
+bip_39_word_new_br9: hole<br>attack<br>total<br>element<br>loud<br>movie<br>admit<br>north<br>outer
+bip_39_word_new_line1: hole
+bip_39_word_new_line10: 'hole
+
+  attack
+
+  total
+
+  element
+
+  loud
+
+  movie
+
+  admit
+
+  north
+
+  outer
+
+  venture'
+bip_39_word_new_line11: 'hole
+
+  attack
+
+  total
+
+  element
+
+  loud
+
+  movie
+
+  admit
+
+  north
+
+  outer
+
+  venture
+
+  high'
+bip_39_word_new_line12: 'hole
+
+  attack
+
+  total
+
+  element
+
+  loud
+
+  movie
+
+  admit
+
+  north
+
+  outer
+
+  venture
+
+  high
+
+  aim'
+bip_39_word_new_line2: 'hole
+
+  attack'
+bip_39_word_new_line3: 'hole
+
+  attack
+
+  total'
+bip_39_word_new_line4: 'hole
+
+  attack
+
+  total
+
+  element'
+bip_39_word_new_line5: 'hole
+
+  attack
+
+  total
+
+  element
+
+  loud'
+bip_39_word_new_line6: 'hole
+
+  attack
+
+  total
+
+  element
+
+  loud
+
+  movie'
+bip_39_word_new_line7: 'hole
+
+  attack
+
+  total
+
+  element
+
+  loud
+
+  movie
+
+  admit'
+bip_39_word_new_line8: 'hole
+
+  attack
+
+  total
+
+  element
+
+  loud
+
+  movie
+
+  admit
+
+  north'
+bip_39_word_new_line9: 'hole
+
+  attack
+
+  total
+
+  element
+
+  loud
+
+  movie
+
+  admit
+
+  north
+
+  outer'
+bip_39_word_space_0:
+- hole
+- attack
+- total
+- element
+- loud
+- movie
+- admit
+- north
+- outer
+- venture
+- high
+- aim
+bip_39_word_space_1: hole
+bip_39_word_space_10: hole attack total element loud movie admit north outer venture
+bip_39_word_space_11: hole attack total element loud movie admit north outer venture
+  high
+bip_39_word_space_12: hole attack total element loud movie admit north outer venture
+  high aim
+bip_39_word_space_2: hole attack
+bip_39_word_space_3: hole attack total
+bip_39_word_space_4: hole attack total element
+bip_39_word_space_5: hole attack total element loud
+bip_39_word_space_6: hole attack total element loud movie
+bip_39_word_space_7: hole attack total element loud movie admit
+bip_39_word_space_8: hole attack total element loud movie admit north
+bip_39_word_space_9: hole attack total element loud movie admit north outer
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

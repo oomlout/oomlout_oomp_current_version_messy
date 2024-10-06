@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cigar hip
+  * bip 39 word 3: cigar hip rice
+  * bip 39 word: cigar hip rice citizen moon april dose rescue airport donate sadness antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cigar |  
+| bip_39_word_new_br10 | cigar<br>hip<br>rice<br>citizen<br>moon<br>april<br>dose<br>rescue<br>airport<br>donate |  
+| bip_39_word_new_br11 | cigar<br>hip<br>rice<br>citizen<br>moon<br>april<br>dose<br>rescue<br>airport<br>donate<br>sadness |  
+| bip_39_word_new_br12 | cigar<br>hip<br>rice<br>citizen<br>moon<br>april<br>dose<br>rescue<br>airport<br>donate<br>sadness<br>antique |  
+| bip_39_word_new_br2 | cigar<br>hip |  
+| bip_39_word_new_br3 | cigar<br>hip<br>rice |  
+| bip_39_word_new_br4 | cigar<br>hip<br>rice<br>citizen |  
+| bip_39_word_new_br5 | cigar<br>hip<br>rice<br>citizen<br>moon |  
+| bip_39_word_new_br6 | cigar<br>hip<br>rice<br>citizen<br>moon<br>april |  
+| bip_39_word_new_br7 | cigar<br>hip<br>rice<br>citizen<br>moon<br>april<br>dose |  
+| bip_39_word_new_br8 | cigar<br>hip<br>rice<br>citizen<br>moon<br>april<br>dose<br>rescue |  
+| bip_39_word_new_br9 | cigar<br>hip<br>rice<br>citizen<br>moon<br>april<br>dose<br>rescue<br>airport |  
+| bip_39_word_new_line1 | cigar |  
+| bip_39_word_new_line10 | cigar
+hip
+rice
+citizen
+moon
+april
+dose
+rescue
+airport
+donate |  
+| bip_39_word_new_line11 | cigar
+hip
+rice
+citizen
+moon
+april
+dose
+rescue
+airport
+donate
+sadness |  
+| bip_39_word_new_line12 | cigar
+hip
+rice
+citizen
+moon
+april
+dose
+rescue
+airport
+donate
+sadness
+antique |  
+| bip_39_word_new_line2 | cigar
+hip |  
+| bip_39_word_new_line3 | cigar
+hip
+rice |  
+| bip_39_word_new_line4 | cigar
+hip
+rice
+citizen |  
+| bip_39_word_new_line5 | cigar
+hip
+rice
+citizen
+moon |  
+| bip_39_word_new_line6 | cigar
+hip
+rice
+citizen
+moon
+april |  
+| bip_39_word_new_line7 | cigar
+hip
+rice
+citizen
+moon
+april
+dose |  
+| bip_39_word_new_line8 | cigar
+hip
+rice
+citizen
+moon
+april
+dose
+rescue |  
+| bip_39_word_new_line9 | cigar
+hip
+rice
+citizen
+moon
+april
+dose
+rescue
+airport |  
+| bip_39_word_space_0 | ['cigar', 'hip', 'rice', 'citizen', 'moon', 'april', 'dose', 'rescue', 'airport', 'donate', 'sadness', 'antique'] |  
+| bip_39_word_space_1 | cigar |  
+| bip_39_word_space_10 | cigar hip rice citizen moon april dose rescue airport donate |  
+| bip_39_word_space_11 | cigar hip rice citizen moon april dose rescue airport donate sadness |  
+| bip_39_word_space_12 | cigar hip rice citizen moon april dose rescue airport donate sadness antique |  
+| bip_39_word_space_2 | cigar hip |  
+| bip_39_word_space_3 | cigar hip rice |  
+| bip_39_word_space_4 | cigar hip rice citizen |  
+| bip_39_word_space_5 | cigar hip rice citizen moon |  
+| bip_39_word_space_6 | cigar hip rice citizen moon april |  
+| bip_39_word_space_7 | cigar hip rice citizen moon april dose |  
+| bip_39_word_space_8 | cigar hip rice citizen moon april dose rescue |  
+| bip_39_word_space_9 | cigar hip rice citizen moon april dose rescue airport |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

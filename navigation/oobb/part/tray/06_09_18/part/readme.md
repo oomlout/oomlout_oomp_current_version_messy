@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: small fabric
+  * bip 39 word 3: small fabric maple
+  * bip 39 word: small fabric maple present oyster smart dinner actor table neglect design arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | small |  
+| bip_39_word_new_br10 | small<br>fabric<br>maple<br>present<br>oyster<br>smart<br>dinner<br>actor<br>table<br>neglect |  
+| bip_39_word_new_br11 | small<br>fabric<br>maple<br>present<br>oyster<br>smart<br>dinner<br>actor<br>table<br>neglect<br>design |  
+| bip_39_word_new_br12 | small<br>fabric<br>maple<br>present<br>oyster<br>smart<br>dinner<br>actor<br>table<br>neglect<br>design<br>arrest |  
+| bip_39_word_new_br2 | small<br>fabric |  
+| bip_39_word_new_br3 | small<br>fabric<br>maple |  
+| bip_39_word_new_br4 | small<br>fabric<br>maple<br>present |  
+| bip_39_word_new_br5 | small<br>fabric<br>maple<br>present<br>oyster |  
+| bip_39_word_new_br6 | small<br>fabric<br>maple<br>present<br>oyster<br>smart |  
+| bip_39_word_new_br7 | small<br>fabric<br>maple<br>present<br>oyster<br>smart<br>dinner |  
+| bip_39_word_new_br8 | small<br>fabric<br>maple<br>present<br>oyster<br>smart<br>dinner<br>actor |  
+| bip_39_word_new_br9 | small<br>fabric<br>maple<br>present<br>oyster<br>smart<br>dinner<br>actor<br>table |  
+| bip_39_word_new_line1 | small |  
+| bip_39_word_new_line10 | small
+fabric
+maple
+present
+oyster
+smart
+dinner
+actor
+table
+neglect |  
+| bip_39_word_new_line11 | small
+fabric
+maple
+present
+oyster
+smart
+dinner
+actor
+table
+neglect
+design |  
+| bip_39_word_new_line12 | small
+fabric
+maple
+present
+oyster
+smart
+dinner
+actor
+table
+neglect
+design
+arrest |  
+| bip_39_word_new_line2 | small
+fabric |  
+| bip_39_word_new_line3 | small
+fabric
+maple |  
+| bip_39_word_new_line4 | small
+fabric
+maple
+present |  
+| bip_39_word_new_line5 | small
+fabric
+maple
+present
+oyster |  
+| bip_39_word_new_line6 | small
+fabric
+maple
+present
+oyster
+smart |  
+| bip_39_word_new_line7 | small
+fabric
+maple
+present
+oyster
+smart
+dinner |  
+| bip_39_word_new_line8 | small
+fabric
+maple
+present
+oyster
+smart
+dinner
+actor |  
+| bip_39_word_new_line9 | small
+fabric
+maple
+present
+oyster
+smart
+dinner
+actor
+table |  
+| bip_39_word_space_0 | ['small', 'fabric', 'maple', 'present', 'oyster', 'smart', 'dinner', 'actor', 'table', 'neglect', 'design', 'arrest'] |  
+| bip_39_word_space_1 | small |  
+| bip_39_word_space_10 | small fabric maple present oyster smart dinner actor table neglect |  
+| bip_39_word_space_11 | small fabric maple present oyster smart dinner actor table neglect design |  
+| bip_39_word_space_12 | small fabric maple present oyster smart dinner actor table neglect design arrest |  
+| bip_39_word_space_2 | small fabric |  
+| bip_39_word_space_3 | small fabric maple |  
+| bip_39_word_space_4 | small fabric maple present |  
+| bip_39_word_space_5 | small fabric maple present oyster |  
+| bip_39_word_space_6 | small fabric maple present oyster smart |  
+| bip_39_word_space_7 | small fabric maple present oyster smart dinner |  
+| bip_39_word_space_8 | small fabric maple present oyster smart dinner actor |  
+| bip_39_word_space_9 | small fabric maple present oyster smart dinner actor table |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

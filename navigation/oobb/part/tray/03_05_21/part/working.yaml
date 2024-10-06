@@ -1,3 +1,186 @@
+bip_39_word_new_br1: segment
+bip_39_word_new_br10: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage
+bip_39_word_new_br11: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage<br>year
+bip_39_word_new_br12: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist<br>marriage<br>year<br>aisle
+bip_39_word_new_br2: segment<br>fancy
+bip_39_word_new_br3: segment<br>fancy<br>include
+bip_39_word_new_br4: segment<br>fancy<br>include<br>hawk
+bip_39_word_new_br5: segment<br>fancy<br>include<br>hawk<br>obvious
+bip_39_word_new_br6: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull
+bip_39_word_new_br7: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair
+bip_39_word_new_br8: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone
+bip_39_word_new_br9: segment<br>fancy<br>include<br>hawk<br>obvious<br>pull<br>chair<br>alone<br>enlist
+bip_39_word_new_line1: segment
+bip_39_word_new_line10: 'segment
+
+  fancy
+
+  include
+
+  hawk
+
+  obvious
+
+  pull
+
+  chair
+
+  alone
+
+  enlist
+
+  marriage'
+bip_39_word_new_line11: 'segment
+
+  fancy
+
+  include
+
+  hawk
+
+  obvious
+
+  pull
+
+  chair
+
+  alone
+
+  enlist
+
+  marriage
+
+  year'
+bip_39_word_new_line12: 'segment
+
+  fancy
+
+  include
+
+  hawk
+
+  obvious
+
+  pull
+
+  chair
+
+  alone
+
+  enlist
+
+  marriage
+
+  year
+
+  aisle'
+bip_39_word_new_line2: 'segment
+
+  fancy'
+bip_39_word_new_line3: 'segment
+
+  fancy
+
+  include'
+bip_39_word_new_line4: 'segment
+
+  fancy
+
+  include
+
+  hawk'
+bip_39_word_new_line5: 'segment
+
+  fancy
+
+  include
+
+  hawk
+
+  obvious'
+bip_39_word_new_line6: 'segment
+
+  fancy
+
+  include
+
+  hawk
+
+  obvious
+
+  pull'
+bip_39_word_new_line7: 'segment
+
+  fancy
+
+  include
+
+  hawk
+
+  obvious
+
+  pull
+
+  chair'
+bip_39_word_new_line8: 'segment
+
+  fancy
+
+  include
+
+  hawk
+
+  obvious
+
+  pull
+
+  chair
+
+  alone'
+bip_39_word_new_line9: 'segment
+
+  fancy
+
+  include
+
+  hawk
+
+  obvious
+
+  pull
+
+  chair
+
+  alone
+
+  enlist'
+bip_39_word_space_0:
+- segment
+- fancy
+- include
+- hawk
+- obvious
+- pull
+- chair
+- alone
+- enlist
+- marriage
+- year
+- aisle
+bip_39_word_space_1: segment
+bip_39_word_space_10: segment fancy include hawk obvious pull chair alone enlist marriage
+bip_39_word_space_11: segment fancy include hawk obvious pull chair alone enlist marriage
+  year
+bip_39_word_space_12: segment fancy include hawk obvious pull chair alone enlist marriage
+  year aisle
+bip_39_word_space_2: segment fancy
+bip_39_word_space_3: segment fancy include
+bip_39_word_space_4: segment fancy include hawk
+bip_39_word_space_5: segment fancy include hawk obvious
+bip_39_word_space_6: segment fancy include hawk obvious pull
+bip_39_word_space_7: segment fancy include hawk obvious pull chair
+bip_39_word_space_8: segment fancy include hawk obvious pull chair alone
+bip_39_word_space_9: segment fancy include hawk obvious pull chair alone enlist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

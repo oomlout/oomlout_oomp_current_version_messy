@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: second title
+  * bip 39 word 3: second title salmon
+  * bip 39 word: second title salmon huge door whip tone convince require snap sand amateur
 
 ### other_codes
 * short_code: b8m140
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | second |  
+| bip_39_word_new_br10 | second<br>title<br>salmon<br>huge<br>door<br>whip<br>tone<br>convince<br>require<br>snap |  
+| bip_39_word_new_br11 | second<br>title<br>salmon<br>huge<br>door<br>whip<br>tone<br>convince<br>require<br>snap<br>sand |  
+| bip_39_word_new_br12 | second<br>title<br>salmon<br>huge<br>door<br>whip<br>tone<br>convince<br>require<br>snap<br>sand<br>amateur |  
+| bip_39_word_new_br2 | second<br>title |  
+| bip_39_word_new_br3 | second<br>title<br>salmon |  
+| bip_39_word_new_br4 | second<br>title<br>salmon<br>huge |  
+| bip_39_word_new_br5 | second<br>title<br>salmon<br>huge<br>door |  
+| bip_39_word_new_br6 | second<br>title<br>salmon<br>huge<br>door<br>whip |  
+| bip_39_word_new_br7 | second<br>title<br>salmon<br>huge<br>door<br>whip<br>tone |  
+| bip_39_word_new_br8 | second<br>title<br>salmon<br>huge<br>door<br>whip<br>tone<br>convince |  
+| bip_39_word_new_br9 | second<br>title<br>salmon<br>huge<br>door<br>whip<br>tone<br>convince<br>require |  
+| bip_39_word_new_line1 | second |  
+| bip_39_word_new_line10 | second
+title
+salmon
+huge
+door
+whip
+tone
+convince
+require
+snap |  
+| bip_39_word_new_line11 | second
+title
+salmon
+huge
+door
+whip
+tone
+convince
+require
+snap
+sand |  
+| bip_39_word_new_line12 | second
+title
+salmon
+huge
+door
+whip
+tone
+convince
+require
+snap
+sand
+amateur |  
+| bip_39_word_new_line2 | second
+title |  
+| bip_39_word_new_line3 | second
+title
+salmon |  
+| bip_39_word_new_line4 | second
+title
+salmon
+huge |  
+| bip_39_word_new_line5 | second
+title
+salmon
+huge
+door |  
+| bip_39_word_new_line6 | second
+title
+salmon
+huge
+door
+whip |  
+| bip_39_word_new_line7 | second
+title
+salmon
+huge
+door
+whip
+tone |  
+| bip_39_word_new_line8 | second
+title
+salmon
+huge
+door
+whip
+tone
+convince |  
+| bip_39_word_new_line9 | second
+title
+salmon
+huge
+door
+whip
+tone
+convince
+require |  
+| bip_39_word_space_0 | ['second', 'title', 'salmon', 'huge', 'door', 'whip', 'tone', 'convince', 'require', 'snap', 'sand', 'amateur'] |  
+| bip_39_word_space_1 | second |  
+| bip_39_word_space_10 | second title salmon huge door whip tone convince require snap |  
+| bip_39_word_space_11 | second title salmon huge door whip tone convince require snap sand |  
+| bip_39_word_space_12 | second title salmon huge door whip tone convince require snap sand amateur |  
+| bip_39_word_space_2 | second title |  
+| bip_39_word_space_3 | second title salmon |  
+| bip_39_word_space_4 | second title salmon huge |  
+| bip_39_word_space_5 | second title salmon huge door |  
+| bip_39_word_space_6 | second title salmon huge door whip |  
+| bip_39_word_space_7 | second title salmon huge door whip tone |  
+| bip_39_word_space_8 | second title salmon huge door whip tone convince |  
+| bip_39_word_space_9 | second title salmon huge door whip tone convince require |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

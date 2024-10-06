@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enact camera
+  * bip 39 word 3: enact camera alarm
+  * bip 39 word: enact camera alarm wire engage property frog female immense history industry autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enact |  
+| bip_39_word_new_br10 | enact<br>camera<br>alarm<br>wire<br>engage<br>property<br>frog<br>female<br>immense<br>history |  
+| bip_39_word_new_br11 | enact<br>camera<br>alarm<br>wire<br>engage<br>property<br>frog<br>female<br>immense<br>history<br>industry |  
+| bip_39_word_new_br12 | enact<br>camera<br>alarm<br>wire<br>engage<br>property<br>frog<br>female<br>immense<br>history<br>industry<br>autumn |  
+| bip_39_word_new_br2 | enact<br>camera |  
+| bip_39_word_new_br3 | enact<br>camera<br>alarm |  
+| bip_39_word_new_br4 | enact<br>camera<br>alarm<br>wire |  
+| bip_39_word_new_br5 | enact<br>camera<br>alarm<br>wire<br>engage |  
+| bip_39_word_new_br6 | enact<br>camera<br>alarm<br>wire<br>engage<br>property |  
+| bip_39_word_new_br7 | enact<br>camera<br>alarm<br>wire<br>engage<br>property<br>frog |  
+| bip_39_word_new_br8 | enact<br>camera<br>alarm<br>wire<br>engage<br>property<br>frog<br>female |  
+| bip_39_word_new_br9 | enact<br>camera<br>alarm<br>wire<br>engage<br>property<br>frog<br>female<br>immense |  
+| bip_39_word_new_line1 | enact |  
+| bip_39_word_new_line10 | enact
+camera
+alarm
+wire
+engage
+property
+frog
+female
+immense
+history |  
+| bip_39_word_new_line11 | enact
+camera
+alarm
+wire
+engage
+property
+frog
+female
+immense
+history
+industry |  
+| bip_39_word_new_line12 | enact
+camera
+alarm
+wire
+engage
+property
+frog
+female
+immense
+history
+industry
+autumn |  
+| bip_39_word_new_line2 | enact
+camera |  
+| bip_39_word_new_line3 | enact
+camera
+alarm |  
+| bip_39_word_new_line4 | enact
+camera
+alarm
+wire |  
+| bip_39_word_new_line5 | enact
+camera
+alarm
+wire
+engage |  
+| bip_39_word_new_line6 | enact
+camera
+alarm
+wire
+engage
+property |  
+| bip_39_word_new_line7 | enact
+camera
+alarm
+wire
+engage
+property
+frog |  
+| bip_39_word_new_line8 | enact
+camera
+alarm
+wire
+engage
+property
+frog
+female |  
+| bip_39_word_new_line9 | enact
+camera
+alarm
+wire
+engage
+property
+frog
+female
+immense |  
+| bip_39_word_space_0 | ['enact', 'camera', 'alarm', 'wire', 'engage', 'property', 'frog', 'female', 'immense', 'history', 'industry', 'autumn'] |  
+| bip_39_word_space_1 | enact |  
+| bip_39_word_space_10 | enact camera alarm wire engage property frog female immense history |  
+| bip_39_word_space_11 | enact camera alarm wire engage property frog female immense history industry |  
+| bip_39_word_space_12 | enact camera alarm wire engage property frog female immense history industry autumn |  
+| bip_39_word_space_2 | enact camera |  
+| bip_39_word_space_3 | enact camera alarm |  
+| bip_39_word_space_4 | enact camera alarm wire |  
+| bip_39_word_space_5 | enact camera alarm wire engage |  
+| bip_39_word_space_6 | enact camera alarm wire engage property |  
+| bip_39_word_space_7 | enact camera alarm wire engage property frog |  
+| bip_39_word_space_8 | enact camera alarm wire engage property frog female |  
+| bip_39_word_space_9 | enact camera alarm wire engage property frog female immense |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

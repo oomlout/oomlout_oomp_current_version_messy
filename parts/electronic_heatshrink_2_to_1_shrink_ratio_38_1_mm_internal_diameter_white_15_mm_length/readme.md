@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wash sniff
+  * bip 39 word 3: wash sniff tide
+  * bip 39 word: wash sniff tide student display unique glass arrive web make super attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wash |  
+| bip_39_word_new_br10 | wash<br>sniff<br>tide<br>student<br>display<br>unique<br>glass<br>arrive<br>web<br>make |  
+| bip_39_word_new_br11 | wash<br>sniff<br>tide<br>student<br>display<br>unique<br>glass<br>arrive<br>web<br>make<br>super |  
+| bip_39_word_new_br12 | wash<br>sniff<br>tide<br>student<br>display<br>unique<br>glass<br>arrive<br>web<br>make<br>super<br>attract |  
+| bip_39_word_new_br2 | wash<br>sniff |  
+| bip_39_word_new_br3 | wash<br>sniff<br>tide |  
+| bip_39_word_new_br4 | wash<br>sniff<br>tide<br>student |  
+| bip_39_word_new_br5 | wash<br>sniff<br>tide<br>student<br>display |  
+| bip_39_word_new_br6 | wash<br>sniff<br>tide<br>student<br>display<br>unique |  
+| bip_39_word_new_br7 | wash<br>sniff<br>tide<br>student<br>display<br>unique<br>glass |  
+| bip_39_word_new_br8 | wash<br>sniff<br>tide<br>student<br>display<br>unique<br>glass<br>arrive |  
+| bip_39_word_new_br9 | wash<br>sniff<br>tide<br>student<br>display<br>unique<br>glass<br>arrive<br>web |  
+| bip_39_word_new_line1 | wash |  
+| bip_39_word_new_line10 | wash
+sniff
+tide
+student
+display
+unique
+glass
+arrive
+web
+make |  
+| bip_39_word_new_line11 | wash
+sniff
+tide
+student
+display
+unique
+glass
+arrive
+web
+make
+super |  
+| bip_39_word_new_line12 | wash
+sniff
+tide
+student
+display
+unique
+glass
+arrive
+web
+make
+super
+attract |  
+| bip_39_word_new_line2 | wash
+sniff |  
+| bip_39_word_new_line3 | wash
+sniff
+tide |  
+| bip_39_word_new_line4 | wash
+sniff
+tide
+student |  
+| bip_39_word_new_line5 | wash
+sniff
+tide
+student
+display |  
+| bip_39_word_new_line6 | wash
+sniff
+tide
+student
+display
+unique |  
+| bip_39_word_new_line7 | wash
+sniff
+tide
+student
+display
+unique
+glass |  
+| bip_39_word_new_line8 | wash
+sniff
+tide
+student
+display
+unique
+glass
+arrive |  
+| bip_39_word_new_line9 | wash
+sniff
+tide
+student
+display
+unique
+glass
+arrive
+web |  
+| bip_39_word_space_0 | ['wash', 'sniff', 'tide', 'student', 'display', 'unique', 'glass', 'arrive', 'web', 'make', 'super', 'attract'] |  
+| bip_39_word_space_1 | wash |  
+| bip_39_word_space_10 | wash sniff tide student display unique glass arrive web make |  
+| bip_39_word_space_11 | wash sniff tide student display unique glass arrive web make super |  
+| bip_39_word_space_12 | wash sniff tide student display unique glass arrive web make super attract |  
+| bip_39_word_space_2 | wash sniff |  
+| bip_39_word_space_3 | wash sniff tide |  
+| bip_39_word_space_4 | wash sniff tide student |  
+| bip_39_word_space_5 | wash sniff tide student display |  
+| bip_39_word_space_6 | wash sniff tide student display unique |  
+| bip_39_word_space_7 | wash sniff tide student display unique glass |  
+| bip_39_word_space_8 | wash sniff tide student display unique glass arrive |  
+| bip_39_word_space_9 | wash sniff tide student display unique glass arrive web |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

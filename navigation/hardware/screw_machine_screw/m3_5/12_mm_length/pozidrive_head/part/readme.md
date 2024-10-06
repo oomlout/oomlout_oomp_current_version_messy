@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: social title
+  * bip 39 word 3: social title thrive
+  * bip 39 word: social title thrive eyebrow garlic daughter asthma bleak maple lobster glass also
 
 ### other_codes
 * short_code: ms3d5m12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | social |  
+| bip_39_word_new_br10 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter<br>asthma<br>bleak<br>maple<br>lobster |  
+| bip_39_word_new_br11 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter<br>asthma<br>bleak<br>maple<br>lobster<br>glass |  
+| bip_39_word_new_br12 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter<br>asthma<br>bleak<br>maple<br>lobster<br>glass<br>also |  
+| bip_39_word_new_br2 | social<br>title |  
+| bip_39_word_new_br3 | social<br>title<br>thrive |  
+| bip_39_word_new_br4 | social<br>title<br>thrive<br>eyebrow |  
+| bip_39_word_new_br5 | social<br>title<br>thrive<br>eyebrow<br>garlic |  
+| bip_39_word_new_br6 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter |  
+| bip_39_word_new_br7 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter<br>asthma |  
+| bip_39_word_new_br8 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter<br>asthma<br>bleak |  
+| bip_39_word_new_br9 | social<br>title<br>thrive<br>eyebrow<br>garlic<br>daughter<br>asthma<br>bleak<br>maple |  
+| bip_39_word_new_line1 | social |  
+| bip_39_word_new_line10 | social
+title
+thrive
+eyebrow
+garlic
+daughter
+asthma
+bleak
+maple
+lobster |  
+| bip_39_word_new_line11 | social
+title
+thrive
+eyebrow
+garlic
+daughter
+asthma
+bleak
+maple
+lobster
+glass |  
+| bip_39_word_new_line12 | social
+title
+thrive
+eyebrow
+garlic
+daughter
+asthma
+bleak
+maple
+lobster
+glass
+also |  
+| bip_39_word_new_line2 | social
+title |  
+| bip_39_word_new_line3 | social
+title
+thrive |  
+| bip_39_word_new_line4 | social
+title
+thrive
+eyebrow |  
+| bip_39_word_new_line5 | social
+title
+thrive
+eyebrow
+garlic |  
+| bip_39_word_new_line6 | social
+title
+thrive
+eyebrow
+garlic
+daughter |  
+| bip_39_word_new_line7 | social
+title
+thrive
+eyebrow
+garlic
+daughter
+asthma |  
+| bip_39_word_new_line8 | social
+title
+thrive
+eyebrow
+garlic
+daughter
+asthma
+bleak |  
+| bip_39_word_new_line9 | social
+title
+thrive
+eyebrow
+garlic
+daughter
+asthma
+bleak
+maple |  
+| bip_39_word_space_0 | ['social', 'title', 'thrive', 'eyebrow', 'garlic', 'daughter', 'asthma', 'bleak', 'maple', 'lobster', 'glass', 'also'] |  
+| bip_39_word_space_1 | social |  
+| bip_39_word_space_10 | social title thrive eyebrow garlic daughter asthma bleak maple lobster |  
+| bip_39_word_space_11 | social title thrive eyebrow garlic daughter asthma bleak maple lobster glass |  
+| bip_39_word_space_12 | social title thrive eyebrow garlic daughter asthma bleak maple lobster glass also |  
+| bip_39_word_space_2 | social title |  
+| bip_39_word_space_3 | social title thrive |  
+| bip_39_word_space_4 | social title thrive eyebrow |  
+| bip_39_word_space_5 | social title thrive eyebrow garlic |  
+| bip_39_word_space_6 | social title thrive eyebrow garlic daughter |  
+| bip_39_word_space_7 | social title thrive eyebrow garlic daughter asthma |  
+| bip_39_word_space_8 | social title thrive eyebrow garlic daughter asthma bleak |  
+| bip_39_word_space_9 | social title thrive eyebrow garlic daughter asthma bleak maple |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

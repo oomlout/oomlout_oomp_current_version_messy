@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: torch allow
+  * bip 39 word 3: torch allow bomb
+  * bip 39 word: torch allow bomb execute popular orbit hole reflect oppose tissue aerobic arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | torch |  
+| bip_39_word_new_br10 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue |  
+| bip_39_word_new_br11 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue<br>aerobic |  
+| bip_39_word_new_br12 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose<br>tissue<br>aerobic<br>arrow |  
+| bip_39_word_new_br2 | torch<br>allow |  
+| bip_39_word_new_br3 | torch<br>allow<br>bomb |  
+| bip_39_word_new_br4 | torch<br>allow<br>bomb<br>execute |  
+| bip_39_word_new_br5 | torch<br>allow<br>bomb<br>execute<br>popular |  
+| bip_39_word_new_br6 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit |  
+| bip_39_word_new_br7 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole |  
+| bip_39_word_new_br8 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect |  
+| bip_39_word_new_br9 | torch<br>allow<br>bomb<br>execute<br>popular<br>orbit<br>hole<br>reflect<br>oppose |  
+| bip_39_word_new_line1 | torch |  
+| bip_39_word_new_line10 | torch
+allow
+bomb
+execute
+popular
+orbit
+hole
+reflect
+oppose
+tissue |  
+| bip_39_word_new_line11 | torch
+allow
+bomb
+execute
+popular
+orbit
+hole
+reflect
+oppose
+tissue
+aerobic |  
+| bip_39_word_new_line12 | torch
+allow
+bomb
+execute
+popular
+orbit
+hole
+reflect
+oppose
+tissue
+aerobic
+arrow |  
+| bip_39_word_new_line2 | torch
+allow |  
+| bip_39_word_new_line3 | torch
+allow
+bomb |  
+| bip_39_word_new_line4 | torch
+allow
+bomb
+execute |  
+| bip_39_word_new_line5 | torch
+allow
+bomb
+execute
+popular |  
+| bip_39_word_new_line6 | torch
+allow
+bomb
+execute
+popular
+orbit |  
+| bip_39_word_new_line7 | torch
+allow
+bomb
+execute
+popular
+orbit
+hole |  
+| bip_39_word_new_line8 | torch
+allow
+bomb
+execute
+popular
+orbit
+hole
+reflect |  
+| bip_39_word_new_line9 | torch
+allow
+bomb
+execute
+popular
+orbit
+hole
+reflect
+oppose |  
+| bip_39_word_space_0 | ['torch', 'allow', 'bomb', 'execute', 'popular', 'orbit', 'hole', 'reflect', 'oppose', 'tissue', 'aerobic', 'arrow'] |  
+| bip_39_word_space_1 | torch |  
+| bip_39_word_space_10 | torch allow bomb execute popular orbit hole reflect oppose tissue |  
+| bip_39_word_space_11 | torch allow bomb execute popular orbit hole reflect oppose tissue aerobic |  
+| bip_39_word_space_12 | torch allow bomb execute popular orbit hole reflect oppose tissue aerobic arrow |  
+| bip_39_word_space_2 | torch allow |  
+| bip_39_word_space_3 | torch allow bomb |  
+| bip_39_word_space_4 | torch allow bomb execute |  
+| bip_39_word_space_5 | torch allow bomb execute popular |  
+| bip_39_word_space_6 | torch allow bomb execute popular orbit |  
+| bip_39_word_space_7 | torch allow bomb execute popular orbit hole |  
+| bip_39_word_space_8 | torch allow bomb execute popular orbit hole reflect |  
+| bip_39_word_space_9 | torch allow bomb execute popular orbit hole reflect oppose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

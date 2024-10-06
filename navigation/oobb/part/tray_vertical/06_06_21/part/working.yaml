@@ -1,3 +1,186 @@
+bip_39_word_new_br1: afford
+bip_39_word_new_br10: afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target
+bip_39_word_new_br11: afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target<br>fall
+bip_39_word_new_br12: afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish<br>target<br>fall<br>attack
+bip_39_word_new_br2: afford<br>piano
+bip_39_word_new_br3: afford<br>piano<br>slight
+bip_39_word_new_br4: afford<br>piano<br>slight<br>man
+bip_39_word_new_br5: afford<br>piano<br>slight<br>man<br>yard
+bip_39_word_new_br6: afford<br>piano<br>slight<br>man<br>yard<br>machine
+bip_39_word_new_br7: afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball
+bip_39_word_new_br8: afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance
+bip_39_word_new_br9: afford<br>piano<br>slight<br>man<br>yard<br>machine<br>ball<br>dance<br>vanish
+bip_39_word_new_line1: afford
+bip_39_word_new_line10: 'afford
+
+  piano
+
+  slight
+
+  man
+
+  yard
+
+  machine
+
+  ball
+
+  dance
+
+  vanish
+
+  target'
+bip_39_word_new_line11: 'afford
+
+  piano
+
+  slight
+
+  man
+
+  yard
+
+  machine
+
+  ball
+
+  dance
+
+  vanish
+
+  target
+
+  fall'
+bip_39_word_new_line12: 'afford
+
+  piano
+
+  slight
+
+  man
+
+  yard
+
+  machine
+
+  ball
+
+  dance
+
+  vanish
+
+  target
+
+  fall
+
+  attack'
+bip_39_word_new_line2: 'afford
+
+  piano'
+bip_39_word_new_line3: 'afford
+
+  piano
+
+  slight'
+bip_39_word_new_line4: 'afford
+
+  piano
+
+  slight
+
+  man'
+bip_39_word_new_line5: 'afford
+
+  piano
+
+  slight
+
+  man
+
+  yard'
+bip_39_word_new_line6: 'afford
+
+  piano
+
+  slight
+
+  man
+
+  yard
+
+  machine'
+bip_39_word_new_line7: 'afford
+
+  piano
+
+  slight
+
+  man
+
+  yard
+
+  machine
+
+  ball'
+bip_39_word_new_line8: 'afford
+
+  piano
+
+  slight
+
+  man
+
+  yard
+
+  machine
+
+  ball
+
+  dance'
+bip_39_word_new_line9: 'afford
+
+  piano
+
+  slight
+
+  man
+
+  yard
+
+  machine
+
+  ball
+
+  dance
+
+  vanish'
+bip_39_word_space_0:
+- afford
+- piano
+- slight
+- man
+- yard
+- machine
+- ball
+- dance
+- vanish
+- target
+- fall
+- attack
+bip_39_word_space_1: afford
+bip_39_word_space_10: afford piano slight man yard machine ball dance vanish target
+bip_39_word_space_11: afford piano slight man yard machine ball dance vanish target
+  fall
+bip_39_word_space_12: afford piano slight man yard machine ball dance vanish target
+  fall attack
+bip_39_word_space_2: afford piano
+bip_39_word_space_3: afford piano slight
+bip_39_word_space_4: afford piano slight man
+bip_39_word_space_5: afford piano slight man yard
+bip_39_word_space_6: afford piano slight man yard machine
+bip_39_word_space_7: afford piano slight man yard machine ball
+bip_39_word_space_8: afford piano slight man yard machine ball dance
+bip_39_word_space_9: afford piano slight man yard machine ball dance vanish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

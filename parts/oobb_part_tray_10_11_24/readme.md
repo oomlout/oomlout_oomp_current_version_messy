@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: marriage machine
+  * bip 39 word 3: marriage machine shrug
+  * bip 39 word: marriage machine shrug sadness parade debate humble lion seat toilet asset advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | marriage |  
+| bip_39_word_new_br10 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate<br>humble<br>lion<br>seat<br>toilet |  
+| bip_39_word_new_br11 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate<br>humble<br>lion<br>seat<br>toilet<br>asset |  
+| bip_39_word_new_br12 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate<br>humble<br>lion<br>seat<br>toilet<br>asset<br>advance |  
+| bip_39_word_new_br2 | marriage<br>machine |  
+| bip_39_word_new_br3 | marriage<br>machine<br>shrug |  
+| bip_39_word_new_br4 | marriage<br>machine<br>shrug<br>sadness |  
+| bip_39_word_new_br5 | marriage<br>machine<br>shrug<br>sadness<br>parade |  
+| bip_39_word_new_br6 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate |  
+| bip_39_word_new_br7 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate<br>humble |  
+| bip_39_word_new_br8 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate<br>humble<br>lion |  
+| bip_39_word_new_br9 | marriage<br>machine<br>shrug<br>sadness<br>parade<br>debate<br>humble<br>lion<br>seat |  
+| bip_39_word_new_line1 | marriage |  
+| bip_39_word_new_line10 | marriage
+machine
+shrug
+sadness
+parade
+debate
+humble
+lion
+seat
+toilet |  
+| bip_39_word_new_line11 | marriage
+machine
+shrug
+sadness
+parade
+debate
+humble
+lion
+seat
+toilet
+asset |  
+| bip_39_word_new_line12 | marriage
+machine
+shrug
+sadness
+parade
+debate
+humble
+lion
+seat
+toilet
+asset
+advance |  
+| bip_39_word_new_line2 | marriage
+machine |  
+| bip_39_word_new_line3 | marriage
+machine
+shrug |  
+| bip_39_word_new_line4 | marriage
+machine
+shrug
+sadness |  
+| bip_39_word_new_line5 | marriage
+machine
+shrug
+sadness
+parade |  
+| bip_39_word_new_line6 | marriage
+machine
+shrug
+sadness
+parade
+debate |  
+| bip_39_word_new_line7 | marriage
+machine
+shrug
+sadness
+parade
+debate
+humble |  
+| bip_39_word_new_line8 | marriage
+machine
+shrug
+sadness
+parade
+debate
+humble
+lion |  
+| bip_39_word_new_line9 | marriage
+machine
+shrug
+sadness
+parade
+debate
+humble
+lion
+seat |  
+| bip_39_word_space_0 | ['marriage', 'machine', 'shrug', 'sadness', 'parade', 'debate', 'humble', 'lion', 'seat', 'toilet', 'asset', 'advance'] |  
+| bip_39_word_space_1 | marriage |  
+| bip_39_word_space_10 | marriage machine shrug sadness parade debate humble lion seat toilet |  
+| bip_39_word_space_11 | marriage machine shrug sadness parade debate humble lion seat toilet asset |  
+| bip_39_word_space_12 | marriage machine shrug sadness parade debate humble lion seat toilet asset advance |  
+| bip_39_word_space_2 | marriage machine |  
+| bip_39_word_space_3 | marriage machine shrug |  
+| bip_39_word_space_4 | marriage machine shrug sadness |  
+| bip_39_word_space_5 | marriage machine shrug sadness parade |  
+| bip_39_word_space_6 | marriage machine shrug sadness parade debate |  
+| bip_39_word_space_7 | marriage machine shrug sadness parade debate humble |  
+| bip_39_word_space_8 | marriage machine shrug sadness parade debate humble lion |  
+| bip_39_word_space_9 | marriage machine shrug sadness parade debate humble lion seat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

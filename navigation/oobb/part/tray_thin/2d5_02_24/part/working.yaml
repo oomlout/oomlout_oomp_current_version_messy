@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bunker
+bip_39_word_new_br10: bunker<br>arrow<br>noodle<br>ridge<br>enough<br>size<br>dry<br>absurd<br>hobby<br>wink
+bip_39_word_new_br11: bunker<br>arrow<br>noodle<br>ridge<br>enough<br>size<br>dry<br>absurd<br>hobby<br>wink<br>smoke
+bip_39_word_new_br12: bunker<br>arrow<br>noodle<br>ridge<br>enough<br>size<br>dry<br>absurd<br>hobby<br>wink<br>smoke<br>animal
+bip_39_word_new_br2: bunker<br>arrow
+bip_39_word_new_br3: bunker<br>arrow<br>noodle
+bip_39_word_new_br4: bunker<br>arrow<br>noodle<br>ridge
+bip_39_word_new_br5: bunker<br>arrow<br>noodle<br>ridge<br>enough
+bip_39_word_new_br6: bunker<br>arrow<br>noodle<br>ridge<br>enough<br>size
+bip_39_word_new_br7: bunker<br>arrow<br>noodle<br>ridge<br>enough<br>size<br>dry
+bip_39_word_new_br8: bunker<br>arrow<br>noodle<br>ridge<br>enough<br>size<br>dry<br>absurd
+bip_39_word_new_br9: bunker<br>arrow<br>noodle<br>ridge<br>enough<br>size<br>dry<br>absurd<br>hobby
+bip_39_word_new_line1: bunker
+bip_39_word_new_line10: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge
+
+  enough
+
+  size
+
+  dry
+
+  absurd
+
+  hobby
+
+  wink'
+bip_39_word_new_line11: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge
+
+  enough
+
+  size
+
+  dry
+
+  absurd
+
+  hobby
+
+  wink
+
+  smoke'
+bip_39_word_new_line12: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge
+
+  enough
+
+  size
+
+  dry
+
+  absurd
+
+  hobby
+
+  wink
+
+  smoke
+
+  animal'
+bip_39_word_new_line2: 'bunker
+
+  arrow'
+bip_39_word_new_line3: 'bunker
+
+  arrow
+
+  noodle'
+bip_39_word_new_line4: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge'
+bip_39_word_new_line5: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge
+
+  enough'
+bip_39_word_new_line6: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge
+
+  enough
+
+  size'
+bip_39_word_new_line7: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge
+
+  enough
+
+  size
+
+  dry'
+bip_39_word_new_line8: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge
+
+  enough
+
+  size
+
+  dry
+
+  absurd'
+bip_39_word_new_line9: 'bunker
+
+  arrow
+
+  noodle
+
+  ridge
+
+  enough
+
+  size
+
+  dry
+
+  absurd
+
+  hobby'
+bip_39_word_space_0:
+- bunker
+- arrow
+- noodle
+- ridge
+- enough
+- size
+- dry
+- absurd
+- hobby
+- wink
+- smoke
+- animal
+bip_39_word_space_1: bunker
+bip_39_word_space_10: bunker arrow noodle ridge enough size dry absurd hobby wink
+bip_39_word_space_11: bunker arrow noodle ridge enough size dry absurd hobby wink
+  smoke
+bip_39_word_space_12: bunker arrow noodle ridge enough size dry absurd hobby wink
+  smoke animal
+bip_39_word_space_2: bunker arrow
+bip_39_word_space_3: bunker arrow noodle
+bip_39_word_space_4: bunker arrow noodle ridge
+bip_39_word_space_5: bunker arrow noodle ridge enough
+bip_39_word_space_6: bunker arrow noodle ridge enough size
+bip_39_word_space_7: bunker arrow noodle ridge enough size dry
+bip_39_word_space_8: bunker arrow noodle ridge enough size dry absurd
+bip_39_word_space_9: bunker arrow noodle ridge enough size dry absurd hobby
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

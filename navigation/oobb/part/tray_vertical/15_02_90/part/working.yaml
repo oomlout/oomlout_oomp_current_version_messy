@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mule
+bip_39_word_new_br10: mule<br>payment<br>smart<br>swift<br>faith<br>label<br>material<br>negative<br>carry<br>butter
+bip_39_word_new_br11: mule<br>payment<br>smart<br>swift<br>faith<br>label<br>material<br>negative<br>carry<br>butter<br>acid
+bip_39_word_new_br12: mule<br>payment<br>smart<br>swift<br>faith<br>label<br>material<br>negative<br>carry<br>butter<br>acid<br>angle
+bip_39_word_new_br2: mule<br>payment
+bip_39_word_new_br3: mule<br>payment<br>smart
+bip_39_word_new_br4: mule<br>payment<br>smart<br>swift
+bip_39_word_new_br5: mule<br>payment<br>smart<br>swift<br>faith
+bip_39_word_new_br6: mule<br>payment<br>smart<br>swift<br>faith<br>label
+bip_39_word_new_br7: mule<br>payment<br>smart<br>swift<br>faith<br>label<br>material
+bip_39_word_new_br8: mule<br>payment<br>smart<br>swift<br>faith<br>label<br>material<br>negative
+bip_39_word_new_br9: mule<br>payment<br>smart<br>swift<br>faith<br>label<br>material<br>negative<br>carry
+bip_39_word_new_line1: mule
+bip_39_word_new_line10: 'mule
+
+  payment
+
+  smart
+
+  swift
+
+  faith
+
+  label
+
+  material
+
+  negative
+
+  carry
+
+  butter'
+bip_39_word_new_line11: 'mule
+
+  payment
+
+  smart
+
+  swift
+
+  faith
+
+  label
+
+  material
+
+  negative
+
+  carry
+
+  butter
+
+  acid'
+bip_39_word_new_line12: 'mule
+
+  payment
+
+  smart
+
+  swift
+
+  faith
+
+  label
+
+  material
+
+  negative
+
+  carry
+
+  butter
+
+  acid
+
+  angle'
+bip_39_word_new_line2: 'mule
+
+  payment'
+bip_39_word_new_line3: 'mule
+
+  payment
+
+  smart'
+bip_39_word_new_line4: 'mule
+
+  payment
+
+  smart
+
+  swift'
+bip_39_word_new_line5: 'mule
+
+  payment
+
+  smart
+
+  swift
+
+  faith'
+bip_39_word_new_line6: 'mule
+
+  payment
+
+  smart
+
+  swift
+
+  faith
+
+  label'
+bip_39_word_new_line7: 'mule
+
+  payment
+
+  smart
+
+  swift
+
+  faith
+
+  label
+
+  material'
+bip_39_word_new_line8: 'mule
+
+  payment
+
+  smart
+
+  swift
+
+  faith
+
+  label
+
+  material
+
+  negative'
+bip_39_word_new_line9: 'mule
+
+  payment
+
+  smart
+
+  swift
+
+  faith
+
+  label
+
+  material
+
+  negative
+
+  carry'
+bip_39_word_space_0:
+- mule
+- payment
+- smart
+- swift
+- faith
+- label
+- material
+- negative
+- carry
+- butter
+- acid
+- angle
+bip_39_word_space_1: mule
+bip_39_word_space_10: mule payment smart swift faith label material negative carry
+  butter
+bip_39_word_space_11: mule payment smart swift faith label material negative carry
+  butter acid
+bip_39_word_space_12: mule payment smart swift faith label material negative carry
+  butter acid angle
+bip_39_word_space_2: mule payment
+bip_39_word_space_3: mule payment smart
+bip_39_word_space_4: mule payment smart swift
+bip_39_word_space_5: mule payment smart swift faith
+bip_39_word_space_6: mule payment smart swift faith label
+bip_39_word_space_7: mule payment smart swift faith label material
+bip_39_word_space_8: mule payment smart swift faith label material negative
+bip_39_word_space_9: mule payment smart swift faith label material negative carry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

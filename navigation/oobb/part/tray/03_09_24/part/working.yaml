@@ -1,3 +1,185 @@
+bip_39_word_new_br1: base
+bip_39_word_new_br10: base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy
+bip_39_word_new_br11: base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy<br>sniff
+bip_39_word_new_br12: base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur<br>defy<br>sniff<br>actress
+bip_39_word_new_br2: base<br>order
+bip_39_word_new_br3: base<br>order<br>drum
+bip_39_word_new_br4: base<br>order<br>drum<br>slush
+bip_39_word_new_br5: base<br>order<br>drum<br>slush<br>spot
+bip_39_word_new_br6: base<br>order<br>drum<br>slush<br>spot<br>three
+bip_39_word_new_br7: base<br>order<br>drum<br>slush<br>spot<br>three<br>chief
+bip_39_word_new_br8: base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle
+bip_39_word_new_br9: base<br>order<br>drum<br>slush<br>spot<br>three<br>chief<br>uncle<br>amateur
+bip_39_word_new_line1: base
+bip_39_word_new_line10: 'base
+
+  order
+
+  drum
+
+  slush
+
+  spot
+
+  three
+
+  chief
+
+  uncle
+
+  amateur
+
+  defy'
+bip_39_word_new_line11: 'base
+
+  order
+
+  drum
+
+  slush
+
+  spot
+
+  three
+
+  chief
+
+  uncle
+
+  amateur
+
+  defy
+
+  sniff'
+bip_39_word_new_line12: 'base
+
+  order
+
+  drum
+
+  slush
+
+  spot
+
+  three
+
+  chief
+
+  uncle
+
+  amateur
+
+  defy
+
+  sniff
+
+  actress'
+bip_39_word_new_line2: 'base
+
+  order'
+bip_39_word_new_line3: 'base
+
+  order
+
+  drum'
+bip_39_word_new_line4: 'base
+
+  order
+
+  drum
+
+  slush'
+bip_39_word_new_line5: 'base
+
+  order
+
+  drum
+
+  slush
+
+  spot'
+bip_39_word_new_line6: 'base
+
+  order
+
+  drum
+
+  slush
+
+  spot
+
+  three'
+bip_39_word_new_line7: 'base
+
+  order
+
+  drum
+
+  slush
+
+  spot
+
+  three
+
+  chief'
+bip_39_word_new_line8: 'base
+
+  order
+
+  drum
+
+  slush
+
+  spot
+
+  three
+
+  chief
+
+  uncle'
+bip_39_word_new_line9: 'base
+
+  order
+
+  drum
+
+  slush
+
+  spot
+
+  three
+
+  chief
+
+  uncle
+
+  amateur'
+bip_39_word_space_0:
+- base
+- order
+- drum
+- slush
+- spot
+- three
+- chief
+- uncle
+- amateur
+- defy
+- sniff
+- actress
+bip_39_word_space_1: base
+bip_39_word_space_10: base order drum slush spot three chief uncle amateur defy
+bip_39_word_space_11: base order drum slush spot three chief uncle amateur defy sniff
+bip_39_word_space_12: base order drum slush spot three chief uncle amateur defy sniff
+  actress
+bip_39_word_space_2: base order
+bip_39_word_space_3: base order drum
+bip_39_word_space_4: base order drum slush
+bip_39_word_space_5: base order drum slush spot
+bip_39_word_space_6: base order drum slush spot three
+bip_39_word_space_7: base order drum slush spot three chief
+bip_39_word_space_8: base order drum slush spot three chief uncle
+bip_39_word_space_9: base order drum slush spot three chief uncle amateur
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

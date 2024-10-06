@@ -1,3 +1,186 @@
+bip_39_word_new_br1: desk
+bip_39_word_new_br10: desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog
+bip_39_word_new_br11: desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog<br>galaxy
+bip_39_word_new_br12: desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb<br>frog<br>galaxy<br>adult
+bip_39_word_new_br2: desk<br>net
+bip_39_word_new_br3: desk<br>net<br>segment
+bip_39_word_new_br4: desk<br>net<br>segment<br>stamp
+bip_39_word_new_br5: desk<br>net<br>segment<br>stamp<br>physical
+bip_39_word_new_br6: desk<br>net<br>segment<br>stamp<br>physical<br>avocado
+bip_39_word_new_br7: desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike
+bip_39_word_new_br8: desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix
+bip_39_word_new_br9: desk<br>net<br>segment<br>stamp<br>physical<br>avocado<br>strike<br>mix<br>thumb
+bip_39_word_new_line1: desk
+bip_39_word_new_line10: 'desk
+
+  net
+
+  segment
+
+  stamp
+
+  physical
+
+  avocado
+
+  strike
+
+  mix
+
+  thumb
+
+  frog'
+bip_39_word_new_line11: 'desk
+
+  net
+
+  segment
+
+  stamp
+
+  physical
+
+  avocado
+
+  strike
+
+  mix
+
+  thumb
+
+  frog
+
+  galaxy'
+bip_39_word_new_line12: 'desk
+
+  net
+
+  segment
+
+  stamp
+
+  physical
+
+  avocado
+
+  strike
+
+  mix
+
+  thumb
+
+  frog
+
+  galaxy
+
+  adult'
+bip_39_word_new_line2: 'desk
+
+  net'
+bip_39_word_new_line3: 'desk
+
+  net
+
+  segment'
+bip_39_word_new_line4: 'desk
+
+  net
+
+  segment
+
+  stamp'
+bip_39_word_new_line5: 'desk
+
+  net
+
+  segment
+
+  stamp
+
+  physical'
+bip_39_word_new_line6: 'desk
+
+  net
+
+  segment
+
+  stamp
+
+  physical
+
+  avocado'
+bip_39_word_new_line7: 'desk
+
+  net
+
+  segment
+
+  stamp
+
+  physical
+
+  avocado
+
+  strike'
+bip_39_word_new_line8: 'desk
+
+  net
+
+  segment
+
+  stamp
+
+  physical
+
+  avocado
+
+  strike
+
+  mix'
+bip_39_word_new_line9: 'desk
+
+  net
+
+  segment
+
+  stamp
+
+  physical
+
+  avocado
+
+  strike
+
+  mix
+
+  thumb'
+bip_39_word_space_0:
+- desk
+- net
+- segment
+- stamp
+- physical
+- avocado
+- strike
+- mix
+- thumb
+- frog
+- galaxy
+- adult
+bip_39_word_space_1: desk
+bip_39_word_space_10: desk net segment stamp physical avocado strike mix thumb frog
+bip_39_word_space_11: desk net segment stamp physical avocado strike mix thumb frog
+  galaxy
+bip_39_word_space_12: desk net segment stamp physical avocado strike mix thumb frog
+  galaxy adult
+bip_39_word_space_2: desk net
+bip_39_word_space_3: desk net segment
+bip_39_word_space_4: desk net segment stamp
+bip_39_word_space_5: desk net segment stamp physical
+bip_39_word_space_6: desk net segment stamp physical avocado
+bip_39_word_space_7: desk net segment stamp physical avocado strike
+bip_39_word_space_8: desk net segment stamp physical avocado strike mix
+bip_39_word_space_9: desk net segment stamp physical avocado strike mix thumb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

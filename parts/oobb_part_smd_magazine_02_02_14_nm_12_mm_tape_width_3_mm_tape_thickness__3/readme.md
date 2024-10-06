@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: apple bonus
+  * bip 39 word 3: apple bonus blame
+  * bip 39 word: apple bonus blame leopard winter prevent mercy south clean glimpse narrow asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | apple |  
+| bip_39_word_new_br10 | apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean<br>glimpse |  
+| bip_39_word_new_br11 | apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean<br>glimpse<br>narrow |  
+| bip_39_word_new_br12 | apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean<br>glimpse<br>narrow<br>asset |  
+| bip_39_word_new_br2 | apple<br>bonus |  
+| bip_39_word_new_br3 | apple<br>bonus<br>blame |  
+| bip_39_word_new_br4 | apple<br>bonus<br>blame<br>leopard |  
+| bip_39_word_new_br5 | apple<br>bonus<br>blame<br>leopard<br>winter |  
+| bip_39_word_new_br6 | apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent |  
+| bip_39_word_new_br7 | apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy |  
+| bip_39_word_new_br8 | apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south |  
+| bip_39_word_new_br9 | apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean |  
+| bip_39_word_new_line1 | apple |  
+| bip_39_word_new_line10 | apple
+bonus
+blame
+leopard
+winter
+prevent
+mercy
+south
+clean
+glimpse |  
+| bip_39_word_new_line11 | apple
+bonus
+blame
+leopard
+winter
+prevent
+mercy
+south
+clean
+glimpse
+narrow |  
+| bip_39_word_new_line12 | apple
+bonus
+blame
+leopard
+winter
+prevent
+mercy
+south
+clean
+glimpse
+narrow
+asset |  
+| bip_39_word_new_line2 | apple
+bonus |  
+| bip_39_word_new_line3 | apple
+bonus
+blame |  
+| bip_39_word_new_line4 | apple
+bonus
+blame
+leopard |  
+| bip_39_word_new_line5 | apple
+bonus
+blame
+leopard
+winter |  
+| bip_39_word_new_line6 | apple
+bonus
+blame
+leopard
+winter
+prevent |  
+| bip_39_word_new_line7 | apple
+bonus
+blame
+leopard
+winter
+prevent
+mercy |  
+| bip_39_word_new_line8 | apple
+bonus
+blame
+leopard
+winter
+prevent
+mercy
+south |  
+| bip_39_word_new_line9 | apple
+bonus
+blame
+leopard
+winter
+prevent
+mercy
+south
+clean |  
+| bip_39_word_space_0 | ['apple', 'bonus', 'blame', 'leopard', 'winter', 'prevent', 'mercy', 'south', 'clean', 'glimpse', 'narrow', 'asset'] |  
+| bip_39_word_space_1 | apple |  
+| bip_39_word_space_10 | apple bonus blame leopard winter prevent mercy south clean glimpse |  
+| bip_39_word_space_11 | apple bonus blame leopard winter prevent mercy south clean glimpse narrow |  
+| bip_39_word_space_12 | apple bonus blame leopard winter prevent mercy south clean glimpse narrow asset |  
+| bip_39_word_space_2 | apple bonus |  
+| bip_39_word_space_3 | apple bonus blame |  
+| bip_39_word_space_4 | apple bonus blame leopard |  
+| bip_39_word_space_5 | apple bonus blame leopard winter |  
+| bip_39_word_space_6 | apple bonus blame leopard winter prevent |  
+| bip_39_word_space_7 | apple bonus blame leopard winter prevent mercy |  
+| bip_39_word_space_8 | apple bonus blame leopard winter prevent mercy south |  
+| bip_39_word_space_9 | apple bonus blame leopard winter prevent mercy south clean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

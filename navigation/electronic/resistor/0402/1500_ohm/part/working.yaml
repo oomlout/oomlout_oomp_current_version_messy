@@ -1,3 +1,187 @@
+bip_39_word_new_br1: satisfy
+bip_39_word_new_br10: satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor<br>legend<br>flavor<br>siren<br>innocent
+bip_39_word_new_br11: satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor<br>legend<br>flavor<br>siren<br>innocent<br>employ
+bip_39_word_new_br12: satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor<br>legend<br>flavor<br>siren<br>innocent<br>employ<br>acid
+bip_39_word_new_br2: satisfy<br>home
+bip_39_word_new_br3: satisfy<br>home<br>lady
+bip_39_word_new_br4: satisfy<br>home<br>lady<br>pyramid
+bip_39_word_new_br5: satisfy<br>home<br>lady<br>pyramid<br>stick
+bip_39_word_new_br6: satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor
+bip_39_word_new_br7: satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor<br>legend
+bip_39_word_new_br8: satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor<br>legend<br>flavor
+bip_39_word_new_br9: satisfy<br>home<br>lady<br>pyramid<br>stick<br>bachelor<br>legend<br>flavor<br>siren
+bip_39_word_new_line1: satisfy
+bip_39_word_new_line10: 'satisfy
+
+  home
+
+  lady
+
+  pyramid
+
+  stick
+
+  bachelor
+
+  legend
+
+  flavor
+
+  siren
+
+  innocent'
+bip_39_word_new_line11: 'satisfy
+
+  home
+
+  lady
+
+  pyramid
+
+  stick
+
+  bachelor
+
+  legend
+
+  flavor
+
+  siren
+
+  innocent
+
+  employ'
+bip_39_word_new_line12: 'satisfy
+
+  home
+
+  lady
+
+  pyramid
+
+  stick
+
+  bachelor
+
+  legend
+
+  flavor
+
+  siren
+
+  innocent
+
+  employ
+
+  acid'
+bip_39_word_new_line2: 'satisfy
+
+  home'
+bip_39_word_new_line3: 'satisfy
+
+  home
+
+  lady'
+bip_39_word_new_line4: 'satisfy
+
+  home
+
+  lady
+
+  pyramid'
+bip_39_word_new_line5: 'satisfy
+
+  home
+
+  lady
+
+  pyramid
+
+  stick'
+bip_39_word_new_line6: 'satisfy
+
+  home
+
+  lady
+
+  pyramid
+
+  stick
+
+  bachelor'
+bip_39_word_new_line7: 'satisfy
+
+  home
+
+  lady
+
+  pyramid
+
+  stick
+
+  bachelor
+
+  legend'
+bip_39_word_new_line8: 'satisfy
+
+  home
+
+  lady
+
+  pyramid
+
+  stick
+
+  bachelor
+
+  legend
+
+  flavor'
+bip_39_word_new_line9: 'satisfy
+
+  home
+
+  lady
+
+  pyramid
+
+  stick
+
+  bachelor
+
+  legend
+
+  flavor
+
+  siren'
+bip_39_word_space_0:
+- satisfy
+- home
+- lady
+- pyramid
+- stick
+- bachelor
+- legend
+- flavor
+- siren
+- innocent
+- employ
+- acid
+bip_39_word_space_1: satisfy
+bip_39_word_space_10: satisfy home lady pyramid stick bachelor legend flavor siren
+  innocent
+bip_39_word_space_11: satisfy home lady pyramid stick bachelor legend flavor siren
+  innocent employ
+bip_39_word_space_12: satisfy home lady pyramid stick bachelor legend flavor siren
+  innocent employ acid
+bip_39_word_space_2: satisfy home
+bip_39_word_space_3: satisfy home lady
+bip_39_word_space_4: satisfy home lady pyramid
+bip_39_word_space_5: satisfy home lady pyramid stick
+bip_39_word_space_6: satisfy home lady pyramid stick bachelor
+bip_39_word_space_7: satisfy home lady pyramid stick bachelor legend
+bip_39_word_space_8: satisfy home lady pyramid stick bachelor legend flavor
+bip_39_word_space_9: satisfy home lady pyramid stick bachelor legend flavor siren
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

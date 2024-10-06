@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: smooth erase
+  * bip 39 word 3: smooth erase feed
+  * bip 39 word: smooth erase feed wage power congress model earth waste basic crop arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | smooth |  
+| bip_39_word_new_br10 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic |  
+| bip_39_word_new_br11 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic<br>crop |  
+| bip_39_word_new_br12 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste<br>basic<br>crop<br>arrow |  
+| bip_39_word_new_br2 | smooth<br>erase |  
+| bip_39_word_new_br3 | smooth<br>erase<br>feed |  
+| bip_39_word_new_br4 | smooth<br>erase<br>feed<br>wage |  
+| bip_39_word_new_br5 | smooth<br>erase<br>feed<br>wage<br>power |  
+| bip_39_word_new_br6 | smooth<br>erase<br>feed<br>wage<br>power<br>congress |  
+| bip_39_word_new_br7 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model |  
+| bip_39_word_new_br8 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth |  
+| bip_39_word_new_br9 | smooth<br>erase<br>feed<br>wage<br>power<br>congress<br>model<br>earth<br>waste |  
+| bip_39_word_new_line1 | smooth |  
+| bip_39_word_new_line10 | smooth
+erase
+feed
+wage
+power
+congress
+model
+earth
+waste
+basic |  
+| bip_39_word_new_line11 | smooth
+erase
+feed
+wage
+power
+congress
+model
+earth
+waste
+basic
+crop |  
+| bip_39_word_new_line12 | smooth
+erase
+feed
+wage
+power
+congress
+model
+earth
+waste
+basic
+crop
+arrow |  
+| bip_39_word_new_line2 | smooth
+erase |  
+| bip_39_word_new_line3 | smooth
+erase
+feed |  
+| bip_39_word_new_line4 | smooth
+erase
+feed
+wage |  
+| bip_39_word_new_line5 | smooth
+erase
+feed
+wage
+power |  
+| bip_39_word_new_line6 | smooth
+erase
+feed
+wage
+power
+congress |  
+| bip_39_word_new_line7 | smooth
+erase
+feed
+wage
+power
+congress
+model |  
+| bip_39_word_new_line8 | smooth
+erase
+feed
+wage
+power
+congress
+model
+earth |  
+| bip_39_word_new_line9 | smooth
+erase
+feed
+wage
+power
+congress
+model
+earth
+waste |  
+| bip_39_word_space_0 | ['smooth', 'erase', 'feed', 'wage', 'power', 'congress', 'model', 'earth', 'waste', 'basic', 'crop', 'arrow'] |  
+| bip_39_word_space_1 | smooth |  
+| bip_39_word_space_10 | smooth erase feed wage power congress model earth waste basic |  
+| bip_39_word_space_11 | smooth erase feed wage power congress model earth waste basic crop |  
+| bip_39_word_space_12 | smooth erase feed wage power congress model earth waste basic crop arrow |  
+| bip_39_word_space_2 | smooth erase |  
+| bip_39_word_space_3 | smooth erase feed |  
+| bip_39_word_space_4 | smooth erase feed wage |  
+| bip_39_word_space_5 | smooth erase feed wage power |  
+| bip_39_word_space_6 | smooth erase feed wage power congress |  
+| bip_39_word_space_7 | smooth erase feed wage power congress model |  
+| bip_39_word_space_8 | smooth erase feed wage power congress model earth |  
+| bip_39_word_space_9 | smooth erase feed wage power congress model earth waste |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

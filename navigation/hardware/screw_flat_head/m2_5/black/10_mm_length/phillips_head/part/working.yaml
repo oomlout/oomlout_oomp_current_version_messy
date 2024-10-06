@@ -1,3 +1,186 @@
+bip_39_word_new_br1: burden
+bip_39_word_new_br10: burden<br>early<br>fade<br>sea<br>angry<br>budget<br>topic<br>gallery<br>action<br>inspire
+bip_39_word_new_br11: burden<br>early<br>fade<br>sea<br>angry<br>budget<br>topic<br>gallery<br>action<br>inspire<br>inspire
+bip_39_word_new_br12: burden<br>early<br>fade<br>sea<br>angry<br>budget<br>topic<br>gallery<br>action<br>inspire<br>inspire<br>agree
+bip_39_word_new_br2: burden<br>early
+bip_39_word_new_br3: burden<br>early<br>fade
+bip_39_word_new_br4: burden<br>early<br>fade<br>sea
+bip_39_word_new_br5: burden<br>early<br>fade<br>sea<br>angry
+bip_39_word_new_br6: burden<br>early<br>fade<br>sea<br>angry<br>budget
+bip_39_word_new_br7: burden<br>early<br>fade<br>sea<br>angry<br>budget<br>topic
+bip_39_word_new_br8: burden<br>early<br>fade<br>sea<br>angry<br>budget<br>topic<br>gallery
+bip_39_word_new_br9: burden<br>early<br>fade<br>sea<br>angry<br>budget<br>topic<br>gallery<br>action
+bip_39_word_new_line1: burden
+bip_39_word_new_line10: 'burden
+
+  early
+
+  fade
+
+  sea
+
+  angry
+
+  budget
+
+  topic
+
+  gallery
+
+  action
+
+  inspire'
+bip_39_word_new_line11: 'burden
+
+  early
+
+  fade
+
+  sea
+
+  angry
+
+  budget
+
+  topic
+
+  gallery
+
+  action
+
+  inspire
+
+  inspire'
+bip_39_word_new_line12: 'burden
+
+  early
+
+  fade
+
+  sea
+
+  angry
+
+  budget
+
+  topic
+
+  gallery
+
+  action
+
+  inspire
+
+  inspire
+
+  agree'
+bip_39_word_new_line2: 'burden
+
+  early'
+bip_39_word_new_line3: 'burden
+
+  early
+
+  fade'
+bip_39_word_new_line4: 'burden
+
+  early
+
+  fade
+
+  sea'
+bip_39_word_new_line5: 'burden
+
+  early
+
+  fade
+
+  sea
+
+  angry'
+bip_39_word_new_line6: 'burden
+
+  early
+
+  fade
+
+  sea
+
+  angry
+
+  budget'
+bip_39_word_new_line7: 'burden
+
+  early
+
+  fade
+
+  sea
+
+  angry
+
+  budget
+
+  topic'
+bip_39_word_new_line8: 'burden
+
+  early
+
+  fade
+
+  sea
+
+  angry
+
+  budget
+
+  topic
+
+  gallery'
+bip_39_word_new_line9: 'burden
+
+  early
+
+  fade
+
+  sea
+
+  angry
+
+  budget
+
+  topic
+
+  gallery
+
+  action'
+bip_39_word_space_0:
+- burden
+- early
+- fade
+- sea
+- angry
+- budget
+- topic
+- gallery
+- action
+- inspire
+- inspire
+- agree
+bip_39_word_space_1: burden
+bip_39_word_space_10: burden early fade sea angry budget topic gallery action inspire
+bip_39_word_space_11: burden early fade sea angry budget topic gallery action inspire
+  inspire
+bip_39_word_space_12: burden early fade sea angry budget topic gallery action inspire
+  inspire agree
+bip_39_word_space_2: burden early
+bip_39_word_space_3: burden early fade
+bip_39_word_space_4: burden early fade sea
+bip_39_word_space_5: burden early fade sea angry
+bip_39_word_space_6: burden early fade sea angry budget
+bip_39_word_space_7: burden early fade sea angry budget topic
+bip_39_word_space_8: burden early fade sea angry budget topic gallery
+bip_39_word_space_9: burden early fade sea angry budget topic gallery action
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

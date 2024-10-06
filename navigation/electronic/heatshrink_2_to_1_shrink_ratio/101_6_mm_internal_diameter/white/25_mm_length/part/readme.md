@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hood wine
+  * bip 39 word 3: hood wine impact
+  * bip 39 word: hood wine impact eager silk fatal mind script front rule survey april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hood |  
+| bip_39_word_new_br10 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule |  
+| bip_39_word_new_br11 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule<br>survey |  
+| bip_39_word_new_br12 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front<br>rule<br>survey<br>april |  
+| bip_39_word_new_br2 | hood<br>wine |  
+| bip_39_word_new_br3 | hood<br>wine<br>impact |  
+| bip_39_word_new_br4 | hood<br>wine<br>impact<br>eager |  
+| bip_39_word_new_br5 | hood<br>wine<br>impact<br>eager<br>silk |  
+| bip_39_word_new_br6 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal |  
+| bip_39_word_new_br7 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind |  
+| bip_39_word_new_br8 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script |  
+| bip_39_word_new_br9 | hood<br>wine<br>impact<br>eager<br>silk<br>fatal<br>mind<br>script<br>front |  
+| bip_39_word_new_line1 | hood |  
+| bip_39_word_new_line10 | hood
+wine
+impact
+eager
+silk
+fatal
+mind
+script
+front
+rule |  
+| bip_39_word_new_line11 | hood
+wine
+impact
+eager
+silk
+fatal
+mind
+script
+front
+rule
+survey |  
+| bip_39_word_new_line12 | hood
+wine
+impact
+eager
+silk
+fatal
+mind
+script
+front
+rule
+survey
+april |  
+| bip_39_word_new_line2 | hood
+wine |  
+| bip_39_word_new_line3 | hood
+wine
+impact |  
+| bip_39_word_new_line4 | hood
+wine
+impact
+eager |  
+| bip_39_word_new_line5 | hood
+wine
+impact
+eager
+silk |  
+| bip_39_word_new_line6 | hood
+wine
+impact
+eager
+silk
+fatal |  
+| bip_39_word_new_line7 | hood
+wine
+impact
+eager
+silk
+fatal
+mind |  
+| bip_39_word_new_line8 | hood
+wine
+impact
+eager
+silk
+fatal
+mind
+script |  
+| bip_39_word_new_line9 | hood
+wine
+impact
+eager
+silk
+fatal
+mind
+script
+front |  
+| bip_39_word_space_0 | ['hood', 'wine', 'impact', 'eager', 'silk', 'fatal', 'mind', 'script', 'front', 'rule', 'survey', 'april'] |  
+| bip_39_word_space_1 | hood |  
+| bip_39_word_space_10 | hood wine impact eager silk fatal mind script front rule |  
+| bip_39_word_space_11 | hood wine impact eager silk fatal mind script front rule survey |  
+| bip_39_word_space_12 | hood wine impact eager silk fatal mind script front rule survey april |  
+| bip_39_word_space_2 | hood wine |  
+| bip_39_word_space_3 | hood wine impact |  
+| bip_39_word_space_4 | hood wine impact eager |  
+| bip_39_word_space_5 | hood wine impact eager silk |  
+| bip_39_word_space_6 | hood wine impact eager silk fatal |  
+| bip_39_word_space_7 | hood wine impact eager silk fatal mind |  
+| bip_39_word_space_8 | hood wine impact eager silk fatal mind script |  
+| bip_39_word_space_9 | hood wine impact eager silk fatal mind script front |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

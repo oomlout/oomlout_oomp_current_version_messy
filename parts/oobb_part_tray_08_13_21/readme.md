@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clock person
+  * bip 39 word 3: clock person core
+  * bip 39 word: clock person core believe enjoy matter ordinary soda state glove jealous argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clock |  
+| bip_39_word_new_br10 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove |  
+| bip_39_word_new_br11 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove<br>jealous |  
+| bip_39_word_new_br12 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state<br>glove<br>jealous<br>argue |  
+| bip_39_word_new_br2 | clock<br>person |  
+| bip_39_word_new_br3 | clock<br>person<br>core |  
+| bip_39_word_new_br4 | clock<br>person<br>core<br>believe |  
+| bip_39_word_new_br5 | clock<br>person<br>core<br>believe<br>enjoy |  
+| bip_39_word_new_br6 | clock<br>person<br>core<br>believe<br>enjoy<br>matter |  
+| bip_39_word_new_br7 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary |  
+| bip_39_word_new_br8 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda |  
+| bip_39_word_new_br9 | clock<br>person<br>core<br>believe<br>enjoy<br>matter<br>ordinary<br>soda<br>state |  
+| bip_39_word_new_line1 | clock |  
+| bip_39_word_new_line10 | clock
+person
+core
+believe
+enjoy
+matter
+ordinary
+soda
+state
+glove |  
+| bip_39_word_new_line11 | clock
+person
+core
+believe
+enjoy
+matter
+ordinary
+soda
+state
+glove
+jealous |  
+| bip_39_word_new_line12 | clock
+person
+core
+believe
+enjoy
+matter
+ordinary
+soda
+state
+glove
+jealous
+argue |  
+| bip_39_word_new_line2 | clock
+person |  
+| bip_39_word_new_line3 | clock
+person
+core |  
+| bip_39_word_new_line4 | clock
+person
+core
+believe |  
+| bip_39_word_new_line5 | clock
+person
+core
+believe
+enjoy |  
+| bip_39_word_new_line6 | clock
+person
+core
+believe
+enjoy
+matter |  
+| bip_39_word_new_line7 | clock
+person
+core
+believe
+enjoy
+matter
+ordinary |  
+| bip_39_word_new_line8 | clock
+person
+core
+believe
+enjoy
+matter
+ordinary
+soda |  
+| bip_39_word_new_line9 | clock
+person
+core
+believe
+enjoy
+matter
+ordinary
+soda
+state |  
+| bip_39_word_space_0 | ['clock', 'person', 'core', 'believe', 'enjoy', 'matter', 'ordinary', 'soda', 'state', 'glove', 'jealous', 'argue'] |  
+| bip_39_word_space_1 | clock |  
+| bip_39_word_space_10 | clock person core believe enjoy matter ordinary soda state glove |  
+| bip_39_word_space_11 | clock person core believe enjoy matter ordinary soda state glove jealous |  
+| bip_39_word_space_12 | clock person core believe enjoy matter ordinary soda state glove jealous argue |  
+| bip_39_word_space_2 | clock person |  
+| bip_39_word_space_3 | clock person core |  
+| bip_39_word_space_4 | clock person core believe |  
+| bip_39_word_space_5 | clock person core believe enjoy |  
+| bip_39_word_space_6 | clock person core believe enjoy matter |  
+| bip_39_word_space_7 | clock person core believe enjoy matter ordinary |  
+| bip_39_word_space_8 | clock person core believe enjoy matter ordinary soda |  
+| bip_39_word_space_9 | clock person core believe enjoy matter ordinary soda state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

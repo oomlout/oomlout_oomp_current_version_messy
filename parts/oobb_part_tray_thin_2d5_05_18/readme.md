@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: essence insane
+  * bip 39 word 3: essence insane sustain
+  * bip 39 word: essence insane sustain truly defy various blame ecology annual parent weird aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | essence |  
+| bip_39_word_new_br10 | essence<br>insane<br>sustain<br>truly<br>defy<br>various<br>blame<br>ecology<br>annual<br>parent |  
+| bip_39_word_new_br11 | essence<br>insane<br>sustain<br>truly<br>defy<br>various<br>blame<br>ecology<br>annual<br>parent<br>weird |  
+| bip_39_word_new_br12 | essence<br>insane<br>sustain<br>truly<br>defy<br>various<br>blame<br>ecology<br>annual<br>parent<br>weird<br>aunt |  
+| bip_39_word_new_br2 | essence<br>insane |  
+| bip_39_word_new_br3 | essence<br>insane<br>sustain |  
+| bip_39_word_new_br4 | essence<br>insane<br>sustain<br>truly |  
+| bip_39_word_new_br5 | essence<br>insane<br>sustain<br>truly<br>defy |  
+| bip_39_word_new_br6 | essence<br>insane<br>sustain<br>truly<br>defy<br>various |  
+| bip_39_word_new_br7 | essence<br>insane<br>sustain<br>truly<br>defy<br>various<br>blame |  
+| bip_39_word_new_br8 | essence<br>insane<br>sustain<br>truly<br>defy<br>various<br>blame<br>ecology |  
+| bip_39_word_new_br9 | essence<br>insane<br>sustain<br>truly<br>defy<br>various<br>blame<br>ecology<br>annual |  
+| bip_39_word_new_line1 | essence |  
+| bip_39_word_new_line10 | essence
+insane
+sustain
+truly
+defy
+various
+blame
+ecology
+annual
+parent |  
+| bip_39_word_new_line11 | essence
+insane
+sustain
+truly
+defy
+various
+blame
+ecology
+annual
+parent
+weird |  
+| bip_39_word_new_line12 | essence
+insane
+sustain
+truly
+defy
+various
+blame
+ecology
+annual
+parent
+weird
+aunt |  
+| bip_39_word_new_line2 | essence
+insane |  
+| bip_39_word_new_line3 | essence
+insane
+sustain |  
+| bip_39_word_new_line4 | essence
+insane
+sustain
+truly |  
+| bip_39_word_new_line5 | essence
+insane
+sustain
+truly
+defy |  
+| bip_39_word_new_line6 | essence
+insane
+sustain
+truly
+defy
+various |  
+| bip_39_word_new_line7 | essence
+insane
+sustain
+truly
+defy
+various
+blame |  
+| bip_39_word_new_line8 | essence
+insane
+sustain
+truly
+defy
+various
+blame
+ecology |  
+| bip_39_word_new_line9 | essence
+insane
+sustain
+truly
+defy
+various
+blame
+ecology
+annual |  
+| bip_39_word_space_0 | ['essence', 'insane', 'sustain', 'truly', 'defy', 'various', 'blame', 'ecology', 'annual', 'parent', 'weird', 'aunt'] |  
+| bip_39_word_space_1 | essence |  
+| bip_39_word_space_10 | essence insane sustain truly defy various blame ecology annual parent |  
+| bip_39_word_space_11 | essence insane sustain truly defy various blame ecology annual parent weird |  
+| bip_39_word_space_12 | essence insane sustain truly defy various blame ecology annual parent weird aunt |  
+| bip_39_word_space_2 | essence insane |  
+| bip_39_word_space_3 | essence insane sustain |  
+| bip_39_word_space_4 | essence insane sustain truly |  
+| bip_39_word_space_5 | essence insane sustain truly defy |  
+| bip_39_word_space_6 | essence insane sustain truly defy various |  
+| bip_39_word_space_7 | essence insane sustain truly defy various blame |  
+| bip_39_word_space_8 | essence insane sustain truly defy various blame ecology |  
+| bip_39_word_space_9 | essence insane sustain truly defy various blame ecology annual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

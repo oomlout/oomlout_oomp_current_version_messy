@@ -1,3 +1,186 @@
+bip_39_word_new_br1: master
+bip_39_word_new_br10: master<br>pull<br>tape<br>point<br>flower<br>cabin<br>horror<br>anger<br>response<br>onion
+bip_39_word_new_br11: master<br>pull<br>tape<br>point<br>flower<br>cabin<br>horror<br>anger<br>response<br>onion<br>shuffle
+bip_39_word_new_br12: master<br>pull<br>tape<br>point<br>flower<br>cabin<br>horror<br>anger<br>response<br>onion<br>shuffle<br>address
+bip_39_word_new_br2: master<br>pull
+bip_39_word_new_br3: master<br>pull<br>tape
+bip_39_word_new_br4: master<br>pull<br>tape<br>point
+bip_39_word_new_br5: master<br>pull<br>tape<br>point<br>flower
+bip_39_word_new_br6: master<br>pull<br>tape<br>point<br>flower<br>cabin
+bip_39_word_new_br7: master<br>pull<br>tape<br>point<br>flower<br>cabin<br>horror
+bip_39_word_new_br8: master<br>pull<br>tape<br>point<br>flower<br>cabin<br>horror<br>anger
+bip_39_word_new_br9: master<br>pull<br>tape<br>point<br>flower<br>cabin<br>horror<br>anger<br>response
+bip_39_word_new_line1: master
+bip_39_word_new_line10: 'master
+
+  pull
+
+  tape
+
+  point
+
+  flower
+
+  cabin
+
+  horror
+
+  anger
+
+  response
+
+  onion'
+bip_39_word_new_line11: 'master
+
+  pull
+
+  tape
+
+  point
+
+  flower
+
+  cabin
+
+  horror
+
+  anger
+
+  response
+
+  onion
+
+  shuffle'
+bip_39_word_new_line12: 'master
+
+  pull
+
+  tape
+
+  point
+
+  flower
+
+  cabin
+
+  horror
+
+  anger
+
+  response
+
+  onion
+
+  shuffle
+
+  address'
+bip_39_word_new_line2: 'master
+
+  pull'
+bip_39_word_new_line3: 'master
+
+  pull
+
+  tape'
+bip_39_word_new_line4: 'master
+
+  pull
+
+  tape
+
+  point'
+bip_39_word_new_line5: 'master
+
+  pull
+
+  tape
+
+  point
+
+  flower'
+bip_39_word_new_line6: 'master
+
+  pull
+
+  tape
+
+  point
+
+  flower
+
+  cabin'
+bip_39_word_new_line7: 'master
+
+  pull
+
+  tape
+
+  point
+
+  flower
+
+  cabin
+
+  horror'
+bip_39_word_new_line8: 'master
+
+  pull
+
+  tape
+
+  point
+
+  flower
+
+  cabin
+
+  horror
+
+  anger'
+bip_39_word_new_line9: 'master
+
+  pull
+
+  tape
+
+  point
+
+  flower
+
+  cabin
+
+  horror
+
+  anger
+
+  response'
+bip_39_word_space_0:
+- master
+- pull
+- tape
+- point
+- flower
+- cabin
+- horror
+- anger
+- response
+- onion
+- shuffle
+- address
+bip_39_word_space_1: master
+bip_39_word_space_10: master pull tape point flower cabin horror anger response onion
+bip_39_word_space_11: master pull tape point flower cabin horror anger response onion
+  shuffle
+bip_39_word_space_12: master pull tape point flower cabin horror anger response onion
+  shuffle address
+bip_39_word_space_2: master pull
+bip_39_word_space_3: master pull tape
+bip_39_word_space_4: master pull tape point
+bip_39_word_space_5: master pull tape point flower
+bip_39_word_space_6: master pull tape point flower cabin
+bip_39_word_space_7: master pull tape point flower cabin horror
+bip_39_word_space_8: master pull tape point flower cabin horror anger
+bip_39_word_space_9: master pull tape point flower cabin horror anger response
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

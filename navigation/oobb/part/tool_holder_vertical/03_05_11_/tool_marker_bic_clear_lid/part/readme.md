@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_marker_bic_clear_lid
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fetch base
+  * bip 39 word 3: fetch base tortoise
+  * bip 39 word: fetch base tortoise flight curious like proof spend cost machine attend absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fetch |  
+| bip_39_word_new_br10 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost<br>machine |  
+| bip_39_word_new_br11 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost<br>machine<br>attend |  
+| bip_39_word_new_br12 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost<br>machine<br>attend<br>absent |  
+| bip_39_word_new_br2 | fetch<br>base |  
+| bip_39_word_new_br3 | fetch<br>base<br>tortoise |  
+| bip_39_word_new_br4 | fetch<br>base<br>tortoise<br>flight |  
+| bip_39_word_new_br5 | fetch<br>base<br>tortoise<br>flight<br>curious |  
+| bip_39_word_new_br6 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like |  
+| bip_39_word_new_br7 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof |  
+| bip_39_word_new_br8 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend |  
+| bip_39_word_new_br9 | fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost |  
+| bip_39_word_new_line1 | fetch |  
+| bip_39_word_new_line10 | fetch
+base
+tortoise
+flight
+curious
+like
+proof
+spend
+cost
+machine |  
+| bip_39_word_new_line11 | fetch
+base
+tortoise
+flight
+curious
+like
+proof
+spend
+cost
+machine
+attend |  
+| bip_39_word_new_line12 | fetch
+base
+tortoise
+flight
+curious
+like
+proof
+spend
+cost
+machine
+attend
+absent |  
+| bip_39_word_new_line2 | fetch
+base |  
+| bip_39_word_new_line3 | fetch
+base
+tortoise |  
+| bip_39_word_new_line4 | fetch
+base
+tortoise
+flight |  
+| bip_39_word_new_line5 | fetch
+base
+tortoise
+flight
+curious |  
+| bip_39_word_new_line6 | fetch
+base
+tortoise
+flight
+curious
+like |  
+| bip_39_word_new_line7 | fetch
+base
+tortoise
+flight
+curious
+like
+proof |  
+| bip_39_word_new_line8 | fetch
+base
+tortoise
+flight
+curious
+like
+proof
+spend |  
+| bip_39_word_new_line9 | fetch
+base
+tortoise
+flight
+curious
+like
+proof
+spend
+cost |  
+| bip_39_word_space_0 | ['fetch', 'base', 'tortoise', 'flight', 'curious', 'like', 'proof', 'spend', 'cost', 'machine', 'attend', 'absent'] |  
+| bip_39_word_space_1 | fetch |  
+| bip_39_word_space_10 | fetch base tortoise flight curious like proof spend cost machine |  
+| bip_39_word_space_11 | fetch base tortoise flight curious like proof spend cost machine attend |  
+| bip_39_word_space_12 | fetch base tortoise flight curious like proof spend cost machine attend absent |  
+| bip_39_word_space_2 | fetch base |  
+| bip_39_word_space_3 | fetch base tortoise |  
+| bip_39_word_space_4 | fetch base tortoise flight |  
+| bip_39_word_space_5 | fetch base tortoise flight curious |  
+| bip_39_word_space_6 | fetch base tortoise flight curious like |  
+| bip_39_word_space_7 | fetch base tortoise flight curious like proof |  
+| bip_39_word_space_8 | fetch base tortoise flight curious like proof spend |  
+| bip_39_word_space_9 | fetch base tortoise flight curious like proof spend cost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

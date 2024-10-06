@@ -1,3 +1,186 @@
+bip_39_word_new_br1: room
+bip_39_word_new_br10: room<br>turn<br>since<br>arctic<br>venue<br>alley<br>clerk<br>pretty<br>liquid<br>genre
+bip_39_word_new_br11: room<br>turn<br>since<br>arctic<br>venue<br>alley<br>clerk<br>pretty<br>liquid<br>genre<br>leopard
+bip_39_word_new_br12: room<br>turn<br>since<br>arctic<br>venue<br>alley<br>clerk<br>pretty<br>liquid<br>genre<br>leopard<br>arrow
+bip_39_word_new_br2: room<br>turn
+bip_39_word_new_br3: room<br>turn<br>since
+bip_39_word_new_br4: room<br>turn<br>since<br>arctic
+bip_39_word_new_br5: room<br>turn<br>since<br>arctic<br>venue
+bip_39_word_new_br6: room<br>turn<br>since<br>arctic<br>venue<br>alley
+bip_39_word_new_br7: room<br>turn<br>since<br>arctic<br>venue<br>alley<br>clerk
+bip_39_word_new_br8: room<br>turn<br>since<br>arctic<br>venue<br>alley<br>clerk<br>pretty
+bip_39_word_new_br9: room<br>turn<br>since<br>arctic<br>venue<br>alley<br>clerk<br>pretty<br>liquid
+bip_39_word_new_line1: room
+bip_39_word_new_line10: 'room
+
+  turn
+
+  since
+
+  arctic
+
+  venue
+
+  alley
+
+  clerk
+
+  pretty
+
+  liquid
+
+  genre'
+bip_39_word_new_line11: 'room
+
+  turn
+
+  since
+
+  arctic
+
+  venue
+
+  alley
+
+  clerk
+
+  pretty
+
+  liquid
+
+  genre
+
+  leopard'
+bip_39_word_new_line12: 'room
+
+  turn
+
+  since
+
+  arctic
+
+  venue
+
+  alley
+
+  clerk
+
+  pretty
+
+  liquid
+
+  genre
+
+  leopard
+
+  arrow'
+bip_39_word_new_line2: 'room
+
+  turn'
+bip_39_word_new_line3: 'room
+
+  turn
+
+  since'
+bip_39_word_new_line4: 'room
+
+  turn
+
+  since
+
+  arctic'
+bip_39_word_new_line5: 'room
+
+  turn
+
+  since
+
+  arctic
+
+  venue'
+bip_39_word_new_line6: 'room
+
+  turn
+
+  since
+
+  arctic
+
+  venue
+
+  alley'
+bip_39_word_new_line7: 'room
+
+  turn
+
+  since
+
+  arctic
+
+  venue
+
+  alley
+
+  clerk'
+bip_39_word_new_line8: 'room
+
+  turn
+
+  since
+
+  arctic
+
+  venue
+
+  alley
+
+  clerk
+
+  pretty'
+bip_39_word_new_line9: 'room
+
+  turn
+
+  since
+
+  arctic
+
+  venue
+
+  alley
+
+  clerk
+
+  pretty
+
+  liquid'
+bip_39_word_space_0:
+- room
+- turn
+- since
+- arctic
+- venue
+- alley
+- clerk
+- pretty
+- liquid
+- genre
+- leopard
+- arrow
+bip_39_word_space_1: room
+bip_39_word_space_10: room turn since arctic venue alley clerk pretty liquid genre
+bip_39_word_space_11: room turn since arctic venue alley clerk pretty liquid genre
+  leopard
+bip_39_word_space_12: room turn since arctic venue alley clerk pretty liquid genre
+  leopard arrow
+bip_39_word_space_2: room turn
+bip_39_word_space_3: room turn since
+bip_39_word_space_4: room turn since arctic
+bip_39_word_space_5: room turn since arctic venue
+bip_39_word_space_6: room turn since arctic venue alley
+bip_39_word_space_7: room turn since arctic venue alley clerk
+bip_39_word_space_8: room turn since arctic venue alley clerk pretty
+bip_39_word_space_9: room turn since arctic venue alley clerk pretty liquid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

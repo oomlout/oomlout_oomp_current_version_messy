@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: asthma case
+  * bip 39 word 3: asthma case reveal
+  * bip 39 word: asthma case reveal upon energy glove invite fantasy wink scrub palm air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | asthma |  
+| bip_39_word_new_br10 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove<br>invite<br>fantasy<br>wink<br>scrub |  
+| bip_39_word_new_br11 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove<br>invite<br>fantasy<br>wink<br>scrub<br>palm |  
+| bip_39_word_new_br12 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove<br>invite<br>fantasy<br>wink<br>scrub<br>palm<br>air |  
+| bip_39_word_new_br2 | asthma<br>case |  
+| bip_39_word_new_br3 | asthma<br>case<br>reveal |  
+| bip_39_word_new_br4 | asthma<br>case<br>reveal<br>upon |  
+| bip_39_word_new_br5 | asthma<br>case<br>reveal<br>upon<br>energy |  
+| bip_39_word_new_br6 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove |  
+| bip_39_word_new_br7 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove<br>invite |  
+| bip_39_word_new_br8 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove<br>invite<br>fantasy |  
+| bip_39_word_new_br9 | asthma<br>case<br>reveal<br>upon<br>energy<br>glove<br>invite<br>fantasy<br>wink |  
+| bip_39_word_new_line1 | asthma |  
+| bip_39_word_new_line10 | asthma
+case
+reveal
+upon
+energy
+glove
+invite
+fantasy
+wink
+scrub |  
+| bip_39_word_new_line11 | asthma
+case
+reveal
+upon
+energy
+glove
+invite
+fantasy
+wink
+scrub
+palm |  
+| bip_39_word_new_line12 | asthma
+case
+reveal
+upon
+energy
+glove
+invite
+fantasy
+wink
+scrub
+palm
+air |  
+| bip_39_word_new_line2 | asthma
+case |  
+| bip_39_word_new_line3 | asthma
+case
+reveal |  
+| bip_39_word_new_line4 | asthma
+case
+reveal
+upon |  
+| bip_39_word_new_line5 | asthma
+case
+reveal
+upon
+energy |  
+| bip_39_word_new_line6 | asthma
+case
+reveal
+upon
+energy
+glove |  
+| bip_39_word_new_line7 | asthma
+case
+reveal
+upon
+energy
+glove
+invite |  
+| bip_39_word_new_line8 | asthma
+case
+reveal
+upon
+energy
+glove
+invite
+fantasy |  
+| bip_39_word_new_line9 | asthma
+case
+reveal
+upon
+energy
+glove
+invite
+fantasy
+wink |  
+| bip_39_word_space_0 | ['asthma', 'case', 'reveal', 'upon', 'energy', 'glove', 'invite', 'fantasy', 'wink', 'scrub', 'palm', 'air'] |  
+| bip_39_word_space_1 | asthma |  
+| bip_39_word_space_10 | asthma case reveal upon energy glove invite fantasy wink scrub |  
+| bip_39_word_space_11 | asthma case reveal upon energy glove invite fantasy wink scrub palm |  
+| bip_39_word_space_12 | asthma case reveal upon energy glove invite fantasy wink scrub palm air |  
+| bip_39_word_space_2 | asthma case |  
+| bip_39_word_space_3 | asthma case reveal |  
+| bip_39_word_space_4 | asthma case reveal upon |  
+| bip_39_word_space_5 | asthma case reveal upon energy |  
+| bip_39_word_space_6 | asthma case reveal upon energy glove |  
+| bip_39_word_space_7 | asthma case reveal upon energy glove invite |  
+| bip_39_word_space_8 | asthma case reveal upon energy glove invite fantasy |  
+| bip_39_word_space_9 | asthma case reveal upon energy glove invite fantasy wink |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

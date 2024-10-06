@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alien maid
+  * bip 39 word 3: alien maid crunch
+  * bip 39 word: alien maid crunch logic crop ivory merge ancient attend dice gasp attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alien |  
+| bip_39_word_new_br10 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice |  
+| bip_39_word_new_br11 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice<br>gasp |  
+| bip_39_word_new_br12 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend<br>dice<br>gasp<br>attack |  
+| bip_39_word_new_br2 | alien<br>maid |  
+| bip_39_word_new_br3 | alien<br>maid<br>crunch |  
+| bip_39_word_new_br4 | alien<br>maid<br>crunch<br>logic |  
+| bip_39_word_new_br5 | alien<br>maid<br>crunch<br>logic<br>crop |  
+| bip_39_word_new_br6 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory |  
+| bip_39_word_new_br7 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge |  
+| bip_39_word_new_br8 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient |  
+| bip_39_word_new_br9 | alien<br>maid<br>crunch<br>logic<br>crop<br>ivory<br>merge<br>ancient<br>attend |  
+| bip_39_word_new_line1 | alien |  
+| bip_39_word_new_line10 | alien
+maid
+crunch
+logic
+crop
+ivory
+merge
+ancient
+attend
+dice |  
+| bip_39_word_new_line11 | alien
+maid
+crunch
+logic
+crop
+ivory
+merge
+ancient
+attend
+dice
+gasp |  
+| bip_39_word_new_line12 | alien
+maid
+crunch
+logic
+crop
+ivory
+merge
+ancient
+attend
+dice
+gasp
+attack |  
+| bip_39_word_new_line2 | alien
+maid |  
+| bip_39_word_new_line3 | alien
+maid
+crunch |  
+| bip_39_word_new_line4 | alien
+maid
+crunch
+logic |  
+| bip_39_word_new_line5 | alien
+maid
+crunch
+logic
+crop |  
+| bip_39_word_new_line6 | alien
+maid
+crunch
+logic
+crop
+ivory |  
+| bip_39_word_new_line7 | alien
+maid
+crunch
+logic
+crop
+ivory
+merge |  
+| bip_39_word_new_line8 | alien
+maid
+crunch
+logic
+crop
+ivory
+merge
+ancient |  
+| bip_39_word_new_line9 | alien
+maid
+crunch
+logic
+crop
+ivory
+merge
+ancient
+attend |  
+| bip_39_word_space_0 | ['alien', 'maid', 'crunch', 'logic', 'crop', 'ivory', 'merge', 'ancient', 'attend', 'dice', 'gasp', 'attack'] |  
+| bip_39_word_space_1 | alien |  
+| bip_39_word_space_10 | alien maid crunch logic crop ivory merge ancient attend dice |  
+| bip_39_word_space_11 | alien maid crunch logic crop ivory merge ancient attend dice gasp |  
+| bip_39_word_space_12 | alien maid crunch logic crop ivory merge ancient attend dice gasp attack |  
+| bip_39_word_space_2 | alien maid |  
+| bip_39_word_space_3 | alien maid crunch |  
+| bip_39_word_space_4 | alien maid crunch logic |  
+| bip_39_word_space_5 | alien maid crunch logic crop |  
+| bip_39_word_space_6 | alien maid crunch logic crop ivory |  
+| bip_39_word_space_7 | alien maid crunch logic crop ivory merge |  
+| bip_39_word_space_8 | alien maid crunch logic crop ivory merge ancient |  
+| bip_39_word_space_9 | alien maid crunch logic crop ivory merge ancient attend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

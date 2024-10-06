@@ -1,3 +1,186 @@
+bip_39_word_new_br1: empty
+bip_39_word_new_br10: empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include
+bip_39_word_new_br11: empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include<br>dinosaur
+bip_39_word_new_br12: empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit<br>include<br>dinosaur<br>actor
+bip_39_word_new_br2: empty<br>lava
+bip_39_word_new_br3: empty<br>lava<br>giraffe
+bip_39_word_new_br4: empty<br>lava<br>giraffe<br>travel
+bip_39_word_new_br5: empty<br>lava<br>giraffe<br>travel<br>young
+bip_39_word_new_br6: empty<br>lava<br>giraffe<br>travel<br>young<br>dream
+bip_39_word_new_br7: empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open
+bip_39_word_new_br8: empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle
+bip_39_word_new_br9: empty<br>lava<br>giraffe<br>travel<br>young<br>dream<br>open<br>jungle<br>exhibit
+bip_39_word_new_line1: empty
+bip_39_word_new_line10: 'empty
+
+  lava
+
+  giraffe
+
+  travel
+
+  young
+
+  dream
+
+  open
+
+  jungle
+
+  exhibit
+
+  include'
+bip_39_word_new_line11: 'empty
+
+  lava
+
+  giraffe
+
+  travel
+
+  young
+
+  dream
+
+  open
+
+  jungle
+
+  exhibit
+
+  include
+
+  dinosaur'
+bip_39_word_new_line12: 'empty
+
+  lava
+
+  giraffe
+
+  travel
+
+  young
+
+  dream
+
+  open
+
+  jungle
+
+  exhibit
+
+  include
+
+  dinosaur
+
+  actor'
+bip_39_word_new_line2: 'empty
+
+  lava'
+bip_39_word_new_line3: 'empty
+
+  lava
+
+  giraffe'
+bip_39_word_new_line4: 'empty
+
+  lava
+
+  giraffe
+
+  travel'
+bip_39_word_new_line5: 'empty
+
+  lava
+
+  giraffe
+
+  travel
+
+  young'
+bip_39_word_new_line6: 'empty
+
+  lava
+
+  giraffe
+
+  travel
+
+  young
+
+  dream'
+bip_39_word_new_line7: 'empty
+
+  lava
+
+  giraffe
+
+  travel
+
+  young
+
+  dream
+
+  open'
+bip_39_word_new_line8: 'empty
+
+  lava
+
+  giraffe
+
+  travel
+
+  young
+
+  dream
+
+  open
+
+  jungle'
+bip_39_word_new_line9: 'empty
+
+  lava
+
+  giraffe
+
+  travel
+
+  young
+
+  dream
+
+  open
+
+  jungle
+
+  exhibit'
+bip_39_word_space_0:
+- empty
+- lava
+- giraffe
+- travel
+- young
+- dream
+- open
+- jungle
+- exhibit
+- include
+- dinosaur
+- actor
+bip_39_word_space_1: empty
+bip_39_word_space_10: empty lava giraffe travel young dream open jungle exhibit include
+bip_39_word_space_11: empty lava giraffe travel young dream open jungle exhibit include
+  dinosaur
+bip_39_word_space_12: empty lava giraffe travel young dream open jungle exhibit include
+  dinosaur actor
+bip_39_word_space_2: empty lava
+bip_39_word_space_3: empty lava giraffe
+bip_39_word_space_4: empty lava giraffe travel
+bip_39_word_space_5: empty lava giraffe travel young
+bip_39_word_space_6: empty lava giraffe travel young dream
+bip_39_word_space_7: empty lava giraffe travel young dream open
+bip_39_word_space_8: empty lava giraffe travel young dream open jungle
+bip_39_word_space_9: empty lava giraffe travel young dream open jungle exhibit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

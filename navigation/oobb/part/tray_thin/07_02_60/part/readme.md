@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enemy avocado
+  * bip 39 word 3: enemy avocado prefer
+  * bip 39 word: enemy avocado prefer where wolf debate frozen then segment bench over addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enemy |  
+| bip_39_word_new_br10 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate<br>frozen<br>then<br>segment<br>bench |  
+| bip_39_word_new_br11 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate<br>frozen<br>then<br>segment<br>bench<br>over |  
+| bip_39_word_new_br12 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate<br>frozen<br>then<br>segment<br>bench<br>over<br>addict |  
+| bip_39_word_new_br2 | enemy<br>avocado |  
+| bip_39_word_new_br3 | enemy<br>avocado<br>prefer |  
+| bip_39_word_new_br4 | enemy<br>avocado<br>prefer<br>where |  
+| bip_39_word_new_br5 | enemy<br>avocado<br>prefer<br>where<br>wolf |  
+| bip_39_word_new_br6 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate |  
+| bip_39_word_new_br7 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate<br>frozen |  
+| bip_39_word_new_br8 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate<br>frozen<br>then |  
+| bip_39_word_new_br9 | enemy<br>avocado<br>prefer<br>where<br>wolf<br>debate<br>frozen<br>then<br>segment |  
+| bip_39_word_new_line1 | enemy |  
+| bip_39_word_new_line10 | enemy
+avocado
+prefer
+where
+wolf
+debate
+frozen
+then
+segment
+bench |  
+| bip_39_word_new_line11 | enemy
+avocado
+prefer
+where
+wolf
+debate
+frozen
+then
+segment
+bench
+over |  
+| bip_39_word_new_line12 | enemy
+avocado
+prefer
+where
+wolf
+debate
+frozen
+then
+segment
+bench
+over
+addict |  
+| bip_39_word_new_line2 | enemy
+avocado |  
+| bip_39_word_new_line3 | enemy
+avocado
+prefer |  
+| bip_39_word_new_line4 | enemy
+avocado
+prefer
+where |  
+| bip_39_word_new_line5 | enemy
+avocado
+prefer
+where
+wolf |  
+| bip_39_word_new_line6 | enemy
+avocado
+prefer
+where
+wolf
+debate |  
+| bip_39_word_new_line7 | enemy
+avocado
+prefer
+where
+wolf
+debate
+frozen |  
+| bip_39_word_new_line8 | enemy
+avocado
+prefer
+where
+wolf
+debate
+frozen
+then |  
+| bip_39_word_new_line9 | enemy
+avocado
+prefer
+where
+wolf
+debate
+frozen
+then
+segment |  
+| bip_39_word_space_0 | ['enemy', 'avocado', 'prefer', 'where', 'wolf', 'debate', 'frozen', 'then', 'segment', 'bench', 'over', 'addict'] |  
+| bip_39_word_space_1 | enemy |  
+| bip_39_word_space_10 | enemy avocado prefer where wolf debate frozen then segment bench |  
+| bip_39_word_space_11 | enemy avocado prefer where wolf debate frozen then segment bench over |  
+| bip_39_word_space_12 | enemy avocado prefer where wolf debate frozen then segment bench over addict |  
+| bip_39_word_space_2 | enemy avocado |  
+| bip_39_word_space_3 | enemy avocado prefer |  
+| bip_39_word_space_4 | enemy avocado prefer where |  
+| bip_39_word_space_5 | enemy avocado prefer where wolf |  
+| bip_39_word_space_6 | enemy avocado prefer where wolf debate |  
+| bip_39_word_space_7 | enemy avocado prefer where wolf debate frozen |  
+| bip_39_word_space_8 | enemy avocado prefer where wolf debate frozen then |  
+| bip_39_word_space_9 | enemy avocado prefer where wolf debate frozen then segment |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

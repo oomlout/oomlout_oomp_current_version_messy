@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deposit letter
+  * bip 39 word 3: deposit letter idea
+  * bip 39 word: deposit letter idea thrive scatter charge urge delay giraffe can rigid abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deposit |  
+| bip_39_word_new_br10 | deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge<br>urge<br>delay<br>giraffe<br>can |  
+| bip_39_word_new_br11 | deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge<br>urge<br>delay<br>giraffe<br>can<br>rigid |  
+| bip_39_word_new_br12 | deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge<br>urge<br>delay<br>giraffe<br>can<br>rigid<br>abuse |  
+| bip_39_word_new_br2 | deposit<br>letter |  
+| bip_39_word_new_br3 | deposit<br>letter<br>idea |  
+| bip_39_word_new_br4 | deposit<br>letter<br>idea<br>thrive |  
+| bip_39_word_new_br5 | deposit<br>letter<br>idea<br>thrive<br>scatter |  
+| bip_39_word_new_br6 | deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge |  
+| bip_39_word_new_br7 | deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge<br>urge |  
+| bip_39_word_new_br8 | deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge<br>urge<br>delay |  
+| bip_39_word_new_br9 | deposit<br>letter<br>idea<br>thrive<br>scatter<br>charge<br>urge<br>delay<br>giraffe |  
+| bip_39_word_new_line1 | deposit |  
+| bip_39_word_new_line10 | deposit
+letter
+idea
+thrive
+scatter
+charge
+urge
+delay
+giraffe
+can |  
+| bip_39_word_new_line11 | deposit
+letter
+idea
+thrive
+scatter
+charge
+urge
+delay
+giraffe
+can
+rigid |  
+| bip_39_word_new_line12 | deposit
+letter
+idea
+thrive
+scatter
+charge
+urge
+delay
+giraffe
+can
+rigid
+abuse |  
+| bip_39_word_new_line2 | deposit
+letter |  
+| bip_39_word_new_line3 | deposit
+letter
+idea |  
+| bip_39_word_new_line4 | deposit
+letter
+idea
+thrive |  
+| bip_39_word_new_line5 | deposit
+letter
+idea
+thrive
+scatter |  
+| bip_39_word_new_line6 | deposit
+letter
+idea
+thrive
+scatter
+charge |  
+| bip_39_word_new_line7 | deposit
+letter
+idea
+thrive
+scatter
+charge
+urge |  
+| bip_39_word_new_line8 | deposit
+letter
+idea
+thrive
+scatter
+charge
+urge
+delay |  
+| bip_39_word_new_line9 | deposit
+letter
+idea
+thrive
+scatter
+charge
+urge
+delay
+giraffe |  
+| bip_39_word_space_0 | ['deposit', 'letter', 'idea', 'thrive', 'scatter', 'charge', 'urge', 'delay', 'giraffe', 'can', 'rigid', 'abuse'] |  
+| bip_39_word_space_1 | deposit |  
+| bip_39_word_space_10 | deposit letter idea thrive scatter charge urge delay giraffe can |  
+| bip_39_word_space_11 | deposit letter idea thrive scatter charge urge delay giraffe can rigid |  
+| bip_39_word_space_12 | deposit letter idea thrive scatter charge urge delay giraffe can rigid abuse |  
+| bip_39_word_space_2 | deposit letter |  
+| bip_39_word_space_3 | deposit letter idea |  
+| bip_39_word_space_4 | deposit letter idea thrive |  
+| bip_39_word_space_5 | deposit letter idea thrive scatter |  
+| bip_39_word_space_6 | deposit letter idea thrive scatter charge |  
+| bip_39_word_space_7 | deposit letter idea thrive scatter charge urge |  
+| bip_39_word_space_8 | deposit letter idea thrive scatter charge urge delay |  
+| bip_39_word_space_9 | deposit letter idea thrive scatter charge urge delay giraffe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

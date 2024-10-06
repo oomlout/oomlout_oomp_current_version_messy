@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: more able
+  * bip 39 word 3: more able beyond
+  * bip 39 word: more able beyond carbon universe toward alert dinosaur island essence file asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | more |  
+| bip_39_word_new_br10 | more<br>able<br>beyond<br>carbon<br>universe<br>toward<br>alert<br>dinosaur<br>island<br>essence |  
+| bip_39_word_new_br11 | more<br>able<br>beyond<br>carbon<br>universe<br>toward<br>alert<br>dinosaur<br>island<br>essence<br>file |  
+| bip_39_word_new_br12 | more<br>able<br>beyond<br>carbon<br>universe<br>toward<br>alert<br>dinosaur<br>island<br>essence<br>file<br>asset |  
+| bip_39_word_new_br2 | more<br>able |  
+| bip_39_word_new_br3 | more<br>able<br>beyond |  
+| bip_39_word_new_br4 | more<br>able<br>beyond<br>carbon |  
+| bip_39_word_new_br5 | more<br>able<br>beyond<br>carbon<br>universe |  
+| bip_39_word_new_br6 | more<br>able<br>beyond<br>carbon<br>universe<br>toward |  
+| bip_39_word_new_br7 | more<br>able<br>beyond<br>carbon<br>universe<br>toward<br>alert |  
+| bip_39_word_new_br8 | more<br>able<br>beyond<br>carbon<br>universe<br>toward<br>alert<br>dinosaur |  
+| bip_39_word_new_br9 | more<br>able<br>beyond<br>carbon<br>universe<br>toward<br>alert<br>dinosaur<br>island |  
+| bip_39_word_new_line1 | more |  
+| bip_39_word_new_line10 | more
+able
+beyond
+carbon
+universe
+toward
+alert
+dinosaur
+island
+essence |  
+| bip_39_word_new_line11 | more
+able
+beyond
+carbon
+universe
+toward
+alert
+dinosaur
+island
+essence
+file |  
+| bip_39_word_new_line12 | more
+able
+beyond
+carbon
+universe
+toward
+alert
+dinosaur
+island
+essence
+file
+asset |  
+| bip_39_word_new_line2 | more
+able |  
+| bip_39_word_new_line3 | more
+able
+beyond |  
+| bip_39_word_new_line4 | more
+able
+beyond
+carbon |  
+| bip_39_word_new_line5 | more
+able
+beyond
+carbon
+universe |  
+| bip_39_word_new_line6 | more
+able
+beyond
+carbon
+universe
+toward |  
+| bip_39_word_new_line7 | more
+able
+beyond
+carbon
+universe
+toward
+alert |  
+| bip_39_word_new_line8 | more
+able
+beyond
+carbon
+universe
+toward
+alert
+dinosaur |  
+| bip_39_word_new_line9 | more
+able
+beyond
+carbon
+universe
+toward
+alert
+dinosaur
+island |  
+| bip_39_word_space_0 | ['more', 'able', 'beyond', 'carbon', 'universe', 'toward', 'alert', 'dinosaur', 'island', 'essence', 'file', 'asset'] |  
+| bip_39_word_space_1 | more |  
+| bip_39_word_space_10 | more able beyond carbon universe toward alert dinosaur island essence |  
+| bip_39_word_space_11 | more able beyond carbon universe toward alert dinosaur island essence file |  
+| bip_39_word_space_12 | more able beyond carbon universe toward alert dinosaur island essence file asset |  
+| bip_39_word_space_2 | more able |  
+| bip_39_word_space_3 | more able beyond |  
+| bip_39_word_space_4 | more able beyond carbon |  
+| bip_39_word_space_5 | more able beyond carbon universe |  
+| bip_39_word_space_6 | more able beyond carbon universe toward |  
+| bip_39_word_space_7 | more able beyond carbon universe toward alert |  
+| bip_39_word_space_8 | more able beyond carbon universe toward alert dinosaur |  
+| bip_39_word_space_9 | more able beyond carbon universe toward alert dinosaur island |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

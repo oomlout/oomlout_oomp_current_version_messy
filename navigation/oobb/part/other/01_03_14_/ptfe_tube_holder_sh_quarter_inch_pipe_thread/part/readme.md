@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ptfe_tube_holder_sh_quarter_inch_pipe_thread
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: beauty near
+  * bip 39 word 3: beauty near body
+  * bip 39 word: beauty near body shift narrow lab cargo index pipe bamboo phone all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | beauty |  
+| bip_39_word_new_br10 | beauty<br>near<br>body<br>shift<br>narrow<br>lab<br>cargo<br>index<br>pipe<br>bamboo |  
+| bip_39_word_new_br11 | beauty<br>near<br>body<br>shift<br>narrow<br>lab<br>cargo<br>index<br>pipe<br>bamboo<br>phone |  
+| bip_39_word_new_br12 | beauty<br>near<br>body<br>shift<br>narrow<br>lab<br>cargo<br>index<br>pipe<br>bamboo<br>phone<br>all |  
+| bip_39_word_new_br2 | beauty<br>near |  
+| bip_39_word_new_br3 | beauty<br>near<br>body |  
+| bip_39_word_new_br4 | beauty<br>near<br>body<br>shift |  
+| bip_39_word_new_br5 | beauty<br>near<br>body<br>shift<br>narrow |  
+| bip_39_word_new_br6 | beauty<br>near<br>body<br>shift<br>narrow<br>lab |  
+| bip_39_word_new_br7 | beauty<br>near<br>body<br>shift<br>narrow<br>lab<br>cargo |  
+| bip_39_word_new_br8 | beauty<br>near<br>body<br>shift<br>narrow<br>lab<br>cargo<br>index |  
+| bip_39_word_new_br9 | beauty<br>near<br>body<br>shift<br>narrow<br>lab<br>cargo<br>index<br>pipe |  
+| bip_39_word_new_line1 | beauty |  
+| bip_39_word_new_line10 | beauty
+near
+body
+shift
+narrow
+lab
+cargo
+index
+pipe
+bamboo |  
+| bip_39_word_new_line11 | beauty
+near
+body
+shift
+narrow
+lab
+cargo
+index
+pipe
+bamboo
+phone |  
+| bip_39_word_new_line12 | beauty
+near
+body
+shift
+narrow
+lab
+cargo
+index
+pipe
+bamboo
+phone
+all |  
+| bip_39_word_new_line2 | beauty
+near |  
+| bip_39_word_new_line3 | beauty
+near
+body |  
+| bip_39_word_new_line4 | beauty
+near
+body
+shift |  
+| bip_39_word_new_line5 | beauty
+near
+body
+shift
+narrow |  
+| bip_39_word_new_line6 | beauty
+near
+body
+shift
+narrow
+lab |  
+| bip_39_word_new_line7 | beauty
+near
+body
+shift
+narrow
+lab
+cargo |  
+| bip_39_word_new_line8 | beauty
+near
+body
+shift
+narrow
+lab
+cargo
+index |  
+| bip_39_word_new_line9 | beauty
+near
+body
+shift
+narrow
+lab
+cargo
+index
+pipe |  
+| bip_39_word_space_0 | ['beauty', 'near', 'body', 'shift', 'narrow', 'lab', 'cargo', 'index', 'pipe', 'bamboo', 'phone', 'all'] |  
+| bip_39_word_space_1 | beauty |  
+| bip_39_word_space_10 | beauty near body shift narrow lab cargo index pipe bamboo |  
+| bip_39_word_space_11 | beauty near body shift narrow lab cargo index pipe bamboo phone |  
+| bip_39_word_space_12 | beauty near body shift narrow lab cargo index pipe bamboo phone all |  
+| bip_39_word_space_2 | beauty near |  
+| bip_39_word_space_3 | beauty near body |  
+| bip_39_word_space_4 | beauty near body shift |  
+| bip_39_word_space_5 | beauty near body shift narrow |  
+| bip_39_word_space_6 | beauty near body shift narrow lab |  
+| bip_39_word_space_7 | beauty near body shift narrow lab cargo |  
+| bip_39_word_space_8 | beauty near body shift narrow lab cargo index |  
+| bip_39_word_space_9 | beauty near body shift narrow lab cargo index pipe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

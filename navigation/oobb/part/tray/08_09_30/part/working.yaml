@@ -1,3 +1,186 @@
+bip_39_word_new_br1: win
+bip_39_word_new_br10: win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive
+bip_39_word_new_br11: win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive<br>flag
+bip_39_word_new_br12: win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout<br>drive<br>flag<br>acid
+bip_39_word_new_br2: win<br>fix
+bip_39_word_new_br3: win<br>fix<br>october
+bip_39_word_new_br4: win<br>fix<br>october<br>grow
+bip_39_word_new_br5: win<br>fix<br>october<br>grow<br>people
+bip_39_word_new_br6: win<br>fix<br>october<br>grow<br>people<br>leisure
+bip_39_word_new_br7: win<br>fix<br>october<br>grow<br>people<br>leisure<br>current
+bip_39_word_new_br8: win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol
+bip_39_word_new_br9: win<br>fix<br>october<br>grow<br>people<br>leisure<br>current<br>patrol<br>scout
+bip_39_word_new_line1: win
+bip_39_word_new_line10: 'win
+
+  fix
+
+  october
+
+  grow
+
+  people
+
+  leisure
+
+  current
+
+  patrol
+
+  scout
+
+  drive'
+bip_39_word_new_line11: 'win
+
+  fix
+
+  october
+
+  grow
+
+  people
+
+  leisure
+
+  current
+
+  patrol
+
+  scout
+
+  drive
+
+  flag'
+bip_39_word_new_line12: 'win
+
+  fix
+
+  october
+
+  grow
+
+  people
+
+  leisure
+
+  current
+
+  patrol
+
+  scout
+
+  drive
+
+  flag
+
+  acid'
+bip_39_word_new_line2: 'win
+
+  fix'
+bip_39_word_new_line3: 'win
+
+  fix
+
+  october'
+bip_39_word_new_line4: 'win
+
+  fix
+
+  october
+
+  grow'
+bip_39_word_new_line5: 'win
+
+  fix
+
+  october
+
+  grow
+
+  people'
+bip_39_word_new_line6: 'win
+
+  fix
+
+  october
+
+  grow
+
+  people
+
+  leisure'
+bip_39_word_new_line7: 'win
+
+  fix
+
+  october
+
+  grow
+
+  people
+
+  leisure
+
+  current'
+bip_39_word_new_line8: 'win
+
+  fix
+
+  october
+
+  grow
+
+  people
+
+  leisure
+
+  current
+
+  patrol'
+bip_39_word_new_line9: 'win
+
+  fix
+
+  october
+
+  grow
+
+  people
+
+  leisure
+
+  current
+
+  patrol
+
+  scout'
+bip_39_word_space_0:
+- win
+- fix
+- october
+- grow
+- people
+- leisure
+- current
+- patrol
+- scout
+- drive
+- flag
+- acid
+bip_39_word_space_1: win
+bip_39_word_space_10: win fix october grow people leisure current patrol scout drive
+bip_39_word_space_11: win fix october grow people leisure current patrol scout drive
+  flag
+bip_39_word_space_12: win fix october grow people leisure current patrol scout drive
+  flag acid
+bip_39_word_space_2: win fix
+bip_39_word_space_3: win fix october
+bip_39_word_space_4: win fix october grow
+bip_39_word_space_5: win fix october grow people
+bip_39_word_space_6: win fix october grow people leisure
+bip_39_word_space_7: win fix october grow people leisure current
+bip_39_word_space_8: win fix october grow people leisure current patrol
+bip_39_word_space_9: win fix october grow people leisure current patrol scout
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

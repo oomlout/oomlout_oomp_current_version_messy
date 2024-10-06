@@ -1,3 +1,185 @@
+bip_39_word_new_br1: mouse
+bip_39_word_new_br10: mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid
+bip_39_word_new_br11: mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid<br>lunar
+bip_39_word_new_br12: mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious<br>rigid<br>lunar<br>addict
+bip_39_word_new_br2: mouse<br>staff
+bip_39_word_new_br3: mouse<br>staff<br>split
+bip_39_word_new_br4: mouse<br>staff<br>split<br>pole
+bip_39_word_new_br5: mouse<br>staff<br>split<br>pole<br>loop
+bip_39_word_new_br6: mouse<br>staff<br>split<br>pole<br>loop<br>culture
+bip_39_word_new_br7: mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak
+bip_39_word_new_br8: mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old
+bip_39_word_new_br9: mouse<br>staff<br>split<br>pole<br>loop<br>culture<br>oak<br>old<br>vicious
+bip_39_word_new_line1: mouse
+bip_39_word_new_line10: 'mouse
+
+  staff
+
+  split
+
+  pole
+
+  loop
+
+  culture
+
+  oak
+
+  old
+
+  vicious
+
+  rigid'
+bip_39_word_new_line11: 'mouse
+
+  staff
+
+  split
+
+  pole
+
+  loop
+
+  culture
+
+  oak
+
+  old
+
+  vicious
+
+  rigid
+
+  lunar'
+bip_39_word_new_line12: 'mouse
+
+  staff
+
+  split
+
+  pole
+
+  loop
+
+  culture
+
+  oak
+
+  old
+
+  vicious
+
+  rigid
+
+  lunar
+
+  addict'
+bip_39_word_new_line2: 'mouse
+
+  staff'
+bip_39_word_new_line3: 'mouse
+
+  staff
+
+  split'
+bip_39_word_new_line4: 'mouse
+
+  staff
+
+  split
+
+  pole'
+bip_39_word_new_line5: 'mouse
+
+  staff
+
+  split
+
+  pole
+
+  loop'
+bip_39_word_new_line6: 'mouse
+
+  staff
+
+  split
+
+  pole
+
+  loop
+
+  culture'
+bip_39_word_new_line7: 'mouse
+
+  staff
+
+  split
+
+  pole
+
+  loop
+
+  culture
+
+  oak'
+bip_39_word_new_line8: 'mouse
+
+  staff
+
+  split
+
+  pole
+
+  loop
+
+  culture
+
+  oak
+
+  old'
+bip_39_word_new_line9: 'mouse
+
+  staff
+
+  split
+
+  pole
+
+  loop
+
+  culture
+
+  oak
+
+  old
+
+  vicious'
+bip_39_word_space_0:
+- mouse
+- staff
+- split
+- pole
+- loop
+- culture
+- oak
+- old
+- vicious
+- rigid
+- lunar
+- addict
+bip_39_word_space_1: mouse
+bip_39_word_space_10: mouse staff split pole loop culture oak old vicious rigid
+bip_39_word_space_11: mouse staff split pole loop culture oak old vicious rigid lunar
+bip_39_word_space_12: mouse staff split pole loop culture oak old vicious rigid lunar
+  addict
+bip_39_word_space_2: mouse staff
+bip_39_word_space_3: mouse staff split
+bip_39_word_space_4: mouse staff split pole
+bip_39_word_space_5: mouse staff split pole loop
+bip_39_word_space_6: mouse staff split pole loop culture
+bip_39_word_space_7: mouse staff split pole loop culture oak
+bip_39_word_space_8: mouse staff split pole loop culture oak old
+bip_39_word_space_9: mouse staff split pole loop culture oak old vicious
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

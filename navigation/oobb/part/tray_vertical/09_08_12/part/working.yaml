@@ -1,3 +1,186 @@
+bip_39_word_new_br1: advice
+bip_39_word_new_br10: advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local
+bip_39_word_new_br11: advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local<br>fat
+bip_39_word_new_br12: advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal<br>local<br>fat<br>aim
+bip_39_word_new_br2: advice<br>capable
+bip_39_word_new_br3: advice<br>capable<br>weapon
+bip_39_word_new_br4: advice<br>capable<br>weapon<br>symptom
+bip_39_word_new_br5: advice<br>capable<br>weapon<br>symptom<br>van
+bip_39_word_new_br6: advice<br>capable<br>weapon<br>symptom<br>van<br>cat
+bip_39_word_new_br7: advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty
+bip_39_word_new_br8: advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt
+bip_39_word_new_br9: advice<br>capable<br>weapon<br>symptom<br>van<br>cat<br>nasty<br>tilt<br>federal
+bip_39_word_new_line1: advice
+bip_39_word_new_line10: 'advice
+
+  capable
+
+  weapon
+
+  symptom
+
+  van
+
+  cat
+
+  nasty
+
+  tilt
+
+  federal
+
+  local'
+bip_39_word_new_line11: 'advice
+
+  capable
+
+  weapon
+
+  symptom
+
+  van
+
+  cat
+
+  nasty
+
+  tilt
+
+  federal
+
+  local
+
+  fat'
+bip_39_word_new_line12: 'advice
+
+  capable
+
+  weapon
+
+  symptom
+
+  van
+
+  cat
+
+  nasty
+
+  tilt
+
+  federal
+
+  local
+
+  fat
+
+  aim'
+bip_39_word_new_line2: 'advice
+
+  capable'
+bip_39_word_new_line3: 'advice
+
+  capable
+
+  weapon'
+bip_39_word_new_line4: 'advice
+
+  capable
+
+  weapon
+
+  symptom'
+bip_39_word_new_line5: 'advice
+
+  capable
+
+  weapon
+
+  symptom
+
+  van'
+bip_39_word_new_line6: 'advice
+
+  capable
+
+  weapon
+
+  symptom
+
+  van
+
+  cat'
+bip_39_word_new_line7: 'advice
+
+  capable
+
+  weapon
+
+  symptom
+
+  van
+
+  cat
+
+  nasty'
+bip_39_word_new_line8: 'advice
+
+  capable
+
+  weapon
+
+  symptom
+
+  van
+
+  cat
+
+  nasty
+
+  tilt'
+bip_39_word_new_line9: 'advice
+
+  capable
+
+  weapon
+
+  symptom
+
+  van
+
+  cat
+
+  nasty
+
+  tilt
+
+  federal'
+bip_39_word_space_0:
+- advice
+- capable
+- weapon
+- symptom
+- van
+- cat
+- nasty
+- tilt
+- federal
+- local
+- fat
+- aim
+bip_39_word_space_1: advice
+bip_39_word_space_10: advice capable weapon symptom van cat nasty tilt federal local
+bip_39_word_space_11: advice capable weapon symptom van cat nasty tilt federal local
+  fat
+bip_39_word_space_12: advice capable weapon symptom van cat nasty tilt federal local
+  fat aim
+bip_39_word_space_2: advice capable
+bip_39_word_space_3: advice capable weapon
+bip_39_word_space_4: advice capable weapon symptom
+bip_39_word_space_5: advice capable weapon symptom van
+bip_39_word_space_6: advice capable weapon symptom van cat
+bip_39_word_space_7: advice capable weapon symptom van cat nasty
+bip_39_word_space_8: advice capable weapon symptom van cat nasty tilt
+bip_39_word_space_9: advice capable weapon symptom van cat nasty tilt federal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

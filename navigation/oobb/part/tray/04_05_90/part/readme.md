@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: run design
+  * bip 39 word 3: run design mountain
+  * bip 39 word: run design mountain jar aerobic increase hover mirror large topic crime attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | run |  
+| bip_39_word_new_br10 | run<br>design<br>mountain<br>jar<br>aerobic<br>increase<br>hover<br>mirror<br>large<br>topic |  
+| bip_39_word_new_br11 | run<br>design<br>mountain<br>jar<br>aerobic<br>increase<br>hover<br>mirror<br>large<br>topic<br>crime |  
+| bip_39_word_new_br12 | run<br>design<br>mountain<br>jar<br>aerobic<br>increase<br>hover<br>mirror<br>large<br>topic<br>crime<br>attitude |  
+| bip_39_word_new_br2 | run<br>design |  
+| bip_39_word_new_br3 | run<br>design<br>mountain |  
+| bip_39_word_new_br4 | run<br>design<br>mountain<br>jar |  
+| bip_39_word_new_br5 | run<br>design<br>mountain<br>jar<br>aerobic |  
+| bip_39_word_new_br6 | run<br>design<br>mountain<br>jar<br>aerobic<br>increase |  
+| bip_39_word_new_br7 | run<br>design<br>mountain<br>jar<br>aerobic<br>increase<br>hover |  
+| bip_39_word_new_br8 | run<br>design<br>mountain<br>jar<br>aerobic<br>increase<br>hover<br>mirror |  
+| bip_39_word_new_br9 | run<br>design<br>mountain<br>jar<br>aerobic<br>increase<br>hover<br>mirror<br>large |  
+| bip_39_word_new_line1 | run |  
+| bip_39_word_new_line10 | run
+design
+mountain
+jar
+aerobic
+increase
+hover
+mirror
+large
+topic |  
+| bip_39_word_new_line11 | run
+design
+mountain
+jar
+aerobic
+increase
+hover
+mirror
+large
+topic
+crime |  
+| bip_39_word_new_line12 | run
+design
+mountain
+jar
+aerobic
+increase
+hover
+mirror
+large
+topic
+crime
+attitude |  
+| bip_39_word_new_line2 | run
+design |  
+| bip_39_word_new_line3 | run
+design
+mountain |  
+| bip_39_word_new_line4 | run
+design
+mountain
+jar |  
+| bip_39_word_new_line5 | run
+design
+mountain
+jar
+aerobic |  
+| bip_39_word_new_line6 | run
+design
+mountain
+jar
+aerobic
+increase |  
+| bip_39_word_new_line7 | run
+design
+mountain
+jar
+aerobic
+increase
+hover |  
+| bip_39_word_new_line8 | run
+design
+mountain
+jar
+aerobic
+increase
+hover
+mirror |  
+| bip_39_word_new_line9 | run
+design
+mountain
+jar
+aerobic
+increase
+hover
+mirror
+large |  
+| bip_39_word_space_0 | ['run', 'design', 'mountain', 'jar', 'aerobic', 'increase', 'hover', 'mirror', 'large', 'topic', 'crime', 'attitude'] |  
+| bip_39_word_space_1 | run |  
+| bip_39_word_space_10 | run design mountain jar aerobic increase hover mirror large topic |  
+| bip_39_word_space_11 | run design mountain jar aerobic increase hover mirror large topic crime |  
+| bip_39_word_space_12 | run design mountain jar aerobic increase hover mirror large topic crime attitude |  
+| bip_39_word_space_2 | run design |  
+| bip_39_word_space_3 | run design mountain |  
+| bip_39_word_space_4 | run design mountain jar |  
+| bip_39_word_space_5 | run design mountain jar aerobic |  
+| bip_39_word_space_6 | run design mountain jar aerobic increase |  
+| bip_39_word_space_7 | run design mountain jar aerobic increase hover |  
+| bip_39_word_space_8 | run design mountain jar aerobic increase hover mirror |  
+| bip_39_word_space_9 | run design mountain jar aerobic increase hover mirror large |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vehicle pear
+  * bip 39 word 3: vehicle pear satisfy
+  * bip 39 word: vehicle pear satisfy grid quantum switch buyer trophy load kitten mirror arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vehicle |  
+| bip_39_word_new_br10 | vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch<br>buyer<br>trophy<br>load<br>kitten |  
+| bip_39_word_new_br11 | vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch<br>buyer<br>trophy<br>load<br>kitten<br>mirror |  
+| bip_39_word_new_br12 | vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch<br>buyer<br>trophy<br>load<br>kitten<br>mirror<br>arrow |  
+| bip_39_word_new_br2 | vehicle<br>pear |  
+| bip_39_word_new_br3 | vehicle<br>pear<br>satisfy |  
+| bip_39_word_new_br4 | vehicle<br>pear<br>satisfy<br>grid |  
+| bip_39_word_new_br5 | vehicle<br>pear<br>satisfy<br>grid<br>quantum |  
+| bip_39_word_new_br6 | vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch |  
+| bip_39_word_new_br7 | vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch<br>buyer |  
+| bip_39_word_new_br8 | vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch<br>buyer<br>trophy |  
+| bip_39_word_new_br9 | vehicle<br>pear<br>satisfy<br>grid<br>quantum<br>switch<br>buyer<br>trophy<br>load |  
+| bip_39_word_new_line1 | vehicle |  
+| bip_39_word_new_line10 | vehicle
+pear
+satisfy
+grid
+quantum
+switch
+buyer
+trophy
+load
+kitten |  
+| bip_39_word_new_line11 | vehicle
+pear
+satisfy
+grid
+quantum
+switch
+buyer
+trophy
+load
+kitten
+mirror |  
+| bip_39_word_new_line12 | vehicle
+pear
+satisfy
+grid
+quantum
+switch
+buyer
+trophy
+load
+kitten
+mirror
+arrow |  
+| bip_39_word_new_line2 | vehicle
+pear |  
+| bip_39_word_new_line3 | vehicle
+pear
+satisfy |  
+| bip_39_word_new_line4 | vehicle
+pear
+satisfy
+grid |  
+| bip_39_word_new_line5 | vehicle
+pear
+satisfy
+grid
+quantum |  
+| bip_39_word_new_line6 | vehicle
+pear
+satisfy
+grid
+quantum
+switch |  
+| bip_39_word_new_line7 | vehicle
+pear
+satisfy
+grid
+quantum
+switch
+buyer |  
+| bip_39_word_new_line8 | vehicle
+pear
+satisfy
+grid
+quantum
+switch
+buyer
+trophy |  
+| bip_39_word_new_line9 | vehicle
+pear
+satisfy
+grid
+quantum
+switch
+buyer
+trophy
+load |  
+| bip_39_word_space_0 | ['vehicle', 'pear', 'satisfy', 'grid', 'quantum', 'switch', 'buyer', 'trophy', 'load', 'kitten', 'mirror', 'arrow'] |  
+| bip_39_word_space_1 | vehicle |  
+| bip_39_word_space_10 | vehicle pear satisfy grid quantum switch buyer trophy load kitten |  
+| bip_39_word_space_11 | vehicle pear satisfy grid quantum switch buyer trophy load kitten mirror |  
+| bip_39_word_space_12 | vehicle pear satisfy grid quantum switch buyer trophy load kitten mirror arrow |  
+| bip_39_word_space_2 | vehicle pear |  
+| bip_39_word_space_3 | vehicle pear satisfy |  
+| bip_39_word_space_4 | vehicle pear satisfy grid |  
+| bip_39_word_space_5 | vehicle pear satisfy grid quantum |  
+| bip_39_word_space_6 | vehicle pear satisfy grid quantum switch |  
+| bip_39_word_space_7 | vehicle pear satisfy grid quantum switch buyer |  
+| bip_39_word_space_8 | vehicle pear satisfy grid quantum switch buyer trophy |  
+| bip_39_word_space_9 | vehicle pear satisfy grid quantum switch buyer trophy load |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

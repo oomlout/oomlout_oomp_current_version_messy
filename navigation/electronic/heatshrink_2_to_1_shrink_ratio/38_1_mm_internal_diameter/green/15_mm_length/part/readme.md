@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: small elbow
+  * bip 39 word 3: small elbow miracle
+  * bip 39 word: small elbow miracle tobacco history employ casual fuel ancient swing gather actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | small |  
+| bip_39_word_new_br10 | small<br>elbow<br>miracle<br>tobacco<br>history<br>employ<br>casual<br>fuel<br>ancient<br>swing |  
+| bip_39_word_new_br11 | small<br>elbow<br>miracle<br>tobacco<br>history<br>employ<br>casual<br>fuel<br>ancient<br>swing<br>gather |  
+| bip_39_word_new_br12 | small<br>elbow<br>miracle<br>tobacco<br>history<br>employ<br>casual<br>fuel<br>ancient<br>swing<br>gather<br>actor |  
+| bip_39_word_new_br2 | small<br>elbow |  
+| bip_39_word_new_br3 | small<br>elbow<br>miracle |  
+| bip_39_word_new_br4 | small<br>elbow<br>miracle<br>tobacco |  
+| bip_39_word_new_br5 | small<br>elbow<br>miracle<br>tobacco<br>history |  
+| bip_39_word_new_br6 | small<br>elbow<br>miracle<br>tobacco<br>history<br>employ |  
+| bip_39_word_new_br7 | small<br>elbow<br>miracle<br>tobacco<br>history<br>employ<br>casual |  
+| bip_39_word_new_br8 | small<br>elbow<br>miracle<br>tobacco<br>history<br>employ<br>casual<br>fuel |  
+| bip_39_word_new_br9 | small<br>elbow<br>miracle<br>tobacco<br>history<br>employ<br>casual<br>fuel<br>ancient |  
+| bip_39_word_new_line1 | small |  
+| bip_39_word_new_line10 | small
+elbow
+miracle
+tobacco
+history
+employ
+casual
+fuel
+ancient
+swing |  
+| bip_39_word_new_line11 | small
+elbow
+miracle
+tobacco
+history
+employ
+casual
+fuel
+ancient
+swing
+gather |  
+| bip_39_word_new_line12 | small
+elbow
+miracle
+tobacco
+history
+employ
+casual
+fuel
+ancient
+swing
+gather
+actor |  
+| bip_39_word_new_line2 | small
+elbow |  
+| bip_39_word_new_line3 | small
+elbow
+miracle |  
+| bip_39_word_new_line4 | small
+elbow
+miracle
+tobacco |  
+| bip_39_word_new_line5 | small
+elbow
+miracle
+tobacco
+history |  
+| bip_39_word_new_line6 | small
+elbow
+miracle
+tobacco
+history
+employ |  
+| bip_39_word_new_line7 | small
+elbow
+miracle
+tobacco
+history
+employ
+casual |  
+| bip_39_word_new_line8 | small
+elbow
+miracle
+tobacco
+history
+employ
+casual
+fuel |  
+| bip_39_word_new_line9 | small
+elbow
+miracle
+tobacco
+history
+employ
+casual
+fuel
+ancient |  
+| bip_39_word_space_0 | ['small', 'elbow', 'miracle', 'tobacco', 'history', 'employ', 'casual', 'fuel', 'ancient', 'swing', 'gather', 'actor'] |  
+| bip_39_word_space_1 | small |  
+| bip_39_word_space_10 | small elbow miracle tobacco history employ casual fuel ancient swing |  
+| bip_39_word_space_11 | small elbow miracle tobacco history employ casual fuel ancient swing gather |  
+| bip_39_word_space_12 | small elbow miracle tobacco history employ casual fuel ancient swing gather actor |  
+| bip_39_word_space_2 | small elbow |  
+| bip_39_word_space_3 | small elbow miracle |  
+| bip_39_word_space_4 | small elbow miracle tobacco |  
+| bip_39_word_space_5 | small elbow miracle tobacco history |  
+| bip_39_word_space_6 | small elbow miracle tobacco history employ |  
+| bip_39_word_space_7 | small elbow miracle tobacco history employ casual |  
+| bip_39_word_space_8 | small elbow miracle tobacco history employ casual fuel |  
+| bip_39_word_space_9 | small elbow miracle tobacco history employ casual fuel ancient |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

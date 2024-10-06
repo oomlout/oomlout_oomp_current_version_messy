@@ -1,3 +1,187 @@
+bip_39_word_new_br1: episode
+bip_39_word_new_br10: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick<br>click<br>traffic<br>runway<br>boost
+bip_39_word_new_br11: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick<br>click<br>traffic<br>runway<br>boost<br>advance
+bip_39_word_new_br12: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick<br>click<br>traffic<br>runway<br>boost<br>advance<br>around
+bip_39_word_new_br2: episode<br>tone
+bip_39_word_new_br3: episode<br>tone<br>unusual
+bip_39_word_new_br4: episode<br>tone<br>unusual<br>neither
+bip_39_word_new_br5: episode<br>tone<br>unusual<br>neither<br>crawl
+bip_39_word_new_br6: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick
+bip_39_word_new_br7: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick<br>click
+bip_39_word_new_br8: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick<br>click<br>traffic
+bip_39_word_new_br9: episode<br>tone<br>unusual<br>neither<br>crawl<br>quick<br>click<br>traffic<br>runway
+bip_39_word_new_line1: episode
+bip_39_word_new_line10: 'episode
+
+  tone
+
+  unusual
+
+  neither
+
+  crawl
+
+  quick
+
+  click
+
+  traffic
+
+  runway
+
+  boost'
+bip_39_word_new_line11: 'episode
+
+  tone
+
+  unusual
+
+  neither
+
+  crawl
+
+  quick
+
+  click
+
+  traffic
+
+  runway
+
+  boost
+
+  advance'
+bip_39_word_new_line12: 'episode
+
+  tone
+
+  unusual
+
+  neither
+
+  crawl
+
+  quick
+
+  click
+
+  traffic
+
+  runway
+
+  boost
+
+  advance
+
+  around'
+bip_39_word_new_line2: 'episode
+
+  tone'
+bip_39_word_new_line3: 'episode
+
+  tone
+
+  unusual'
+bip_39_word_new_line4: 'episode
+
+  tone
+
+  unusual
+
+  neither'
+bip_39_word_new_line5: 'episode
+
+  tone
+
+  unusual
+
+  neither
+
+  crawl'
+bip_39_word_new_line6: 'episode
+
+  tone
+
+  unusual
+
+  neither
+
+  crawl
+
+  quick'
+bip_39_word_new_line7: 'episode
+
+  tone
+
+  unusual
+
+  neither
+
+  crawl
+
+  quick
+
+  click'
+bip_39_word_new_line8: 'episode
+
+  tone
+
+  unusual
+
+  neither
+
+  crawl
+
+  quick
+
+  click
+
+  traffic'
+bip_39_word_new_line9: 'episode
+
+  tone
+
+  unusual
+
+  neither
+
+  crawl
+
+  quick
+
+  click
+
+  traffic
+
+  runway'
+bip_39_word_space_0:
+- episode
+- tone
+- unusual
+- neither
+- crawl
+- quick
+- click
+- traffic
+- runway
+- boost
+- advance
+- around
+bip_39_word_space_1: episode
+bip_39_word_space_10: episode tone unusual neither crawl quick click traffic runway
+  boost
+bip_39_word_space_11: episode tone unusual neither crawl quick click traffic runway
+  boost advance
+bip_39_word_space_12: episode tone unusual neither crawl quick click traffic runway
+  boost advance around
+bip_39_word_space_2: episode tone
+bip_39_word_space_3: episode tone unusual
+bip_39_word_space_4: episode tone unusual neither
+bip_39_word_space_5: episode tone unusual neither crawl
+bip_39_word_space_6: episode tone unusual neither crawl quick
+bip_39_word_space_7: episode tone unusual neither crawl quick click
+bip_39_word_space_8: episode tone unusual neither crawl quick click traffic
+bip_39_word_space_9: episode tone unusual neither crawl quick click traffic runway
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

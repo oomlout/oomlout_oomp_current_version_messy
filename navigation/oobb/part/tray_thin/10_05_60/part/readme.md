@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: addict fringe
+  * bip 39 word 3: addict fringe divert
+  * bip 39 word: addict fringe divert object field devote nominee refuse balcony fragile short another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | addict |  
+| bip_39_word_new_br10 | addict<br>fringe<br>divert<br>object<br>field<br>devote<br>nominee<br>refuse<br>balcony<br>fragile |  
+| bip_39_word_new_br11 | addict<br>fringe<br>divert<br>object<br>field<br>devote<br>nominee<br>refuse<br>balcony<br>fragile<br>short |  
+| bip_39_word_new_br12 | addict<br>fringe<br>divert<br>object<br>field<br>devote<br>nominee<br>refuse<br>balcony<br>fragile<br>short<br>another |  
+| bip_39_word_new_br2 | addict<br>fringe |  
+| bip_39_word_new_br3 | addict<br>fringe<br>divert |  
+| bip_39_word_new_br4 | addict<br>fringe<br>divert<br>object |  
+| bip_39_word_new_br5 | addict<br>fringe<br>divert<br>object<br>field |  
+| bip_39_word_new_br6 | addict<br>fringe<br>divert<br>object<br>field<br>devote |  
+| bip_39_word_new_br7 | addict<br>fringe<br>divert<br>object<br>field<br>devote<br>nominee |  
+| bip_39_word_new_br8 | addict<br>fringe<br>divert<br>object<br>field<br>devote<br>nominee<br>refuse |  
+| bip_39_word_new_br9 | addict<br>fringe<br>divert<br>object<br>field<br>devote<br>nominee<br>refuse<br>balcony |  
+| bip_39_word_new_line1 | addict |  
+| bip_39_word_new_line10 | addict
+fringe
+divert
+object
+field
+devote
+nominee
+refuse
+balcony
+fragile |  
+| bip_39_word_new_line11 | addict
+fringe
+divert
+object
+field
+devote
+nominee
+refuse
+balcony
+fragile
+short |  
+| bip_39_word_new_line12 | addict
+fringe
+divert
+object
+field
+devote
+nominee
+refuse
+balcony
+fragile
+short
+another |  
+| bip_39_word_new_line2 | addict
+fringe |  
+| bip_39_word_new_line3 | addict
+fringe
+divert |  
+| bip_39_word_new_line4 | addict
+fringe
+divert
+object |  
+| bip_39_word_new_line5 | addict
+fringe
+divert
+object
+field |  
+| bip_39_word_new_line6 | addict
+fringe
+divert
+object
+field
+devote |  
+| bip_39_word_new_line7 | addict
+fringe
+divert
+object
+field
+devote
+nominee |  
+| bip_39_word_new_line8 | addict
+fringe
+divert
+object
+field
+devote
+nominee
+refuse |  
+| bip_39_word_new_line9 | addict
+fringe
+divert
+object
+field
+devote
+nominee
+refuse
+balcony |  
+| bip_39_word_space_0 | ['addict', 'fringe', 'divert', 'object', 'field', 'devote', 'nominee', 'refuse', 'balcony', 'fragile', 'short', 'another'] |  
+| bip_39_word_space_1 | addict |  
+| bip_39_word_space_10 | addict fringe divert object field devote nominee refuse balcony fragile |  
+| bip_39_word_space_11 | addict fringe divert object field devote nominee refuse balcony fragile short |  
+| bip_39_word_space_12 | addict fringe divert object field devote nominee refuse balcony fragile short another |  
+| bip_39_word_space_2 | addict fringe |  
+| bip_39_word_space_3 | addict fringe divert |  
+| bip_39_word_space_4 | addict fringe divert object |  
+| bip_39_word_space_5 | addict fringe divert object field |  
+| bip_39_word_space_6 | addict fringe divert object field devote |  
+| bip_39_word_space_7 | addict fringe divert object field devote nominee |  
+| bip_39_word_space_8 | addict fringe divert object field devote nominee refuse |  
+| bip_39_word_space_9 | addict fringe divert object field devote nominee refuse balcony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

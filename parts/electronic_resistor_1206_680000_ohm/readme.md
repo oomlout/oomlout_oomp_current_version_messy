@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: season fancy
+  * bip 39 word 3: season fancy settle
+  * bip 39 word: season fancy settle giggle junior safe misery company fade spider bridge absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | season |  
+| bip_39_word_new_br10 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe<br>misery<br>company<br>fade<br>spider |  
+| bip_39_word_new_br11 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe<br>misery<br>company<br>fade<br>spider<br>bridge |  
+| bip_39_word_new_br12 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe<br>misery<br>company<br>fade<br>spider<br>bridge<br>absurd |  
+| bip_39_word_new_br2 | season<br>fancy |  
+| bip_39_word_new_br3 | season<br>fancy<br>settle |  
+| bip_39_word_new_br4 | season<br>fancy<br>settle<br>giggle |  
+| bip_39_word_new_br5 | season<br>fancy<br>settle<br>giggle<br>junior |  
+| bip_39_word_new_br6 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe |  
+| bip_39_word_new_br7 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe<br>misery |  
+| bip_39_word_new_br8 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe<br>misery<br>company |  
+| bip_39_word_new_br9 | season<br>fancy<br>settle<br>giggle<br>junior<br>safe<br>misery<br>company<br>fade |  
+| bip_39_word_new_line1 | season |  
+| bip_39_word_new_line10 | season
+fancy
+settle
+giggle
+junior
+safe
+misery
+company
+fade
+spider |  
+| bip_39_word_new_line11 | season
+fancy
+settle
+giggle
+junior
+safe
+misery
+company
+fade
+spider
+bridge |  
+| bip_39_word_new_line12 | season
+fancy
+settle
+giggle
+junior
+safe
+misery
+company
+fade
+spider
+bridge
+absurd |  
+| bip_39_word_new_line2 | season
+fancy |  
+| bip_39_word_new_line3 | season
+fancy
+settle |  
+| bip_39_word_new_line4 | season
+fancy
+settle
+giggle |  
+| bip_39_word_new_line5 | season
+fancy
+settle
+giggle
+junior |  
+| bip_39_word_new_line6 | season
+fancy
+settle
+giggle
+junior
+safe |  
+| bip_39_word_new_line7 | season
+fancy
+settle
+giggle
+junior
+safe
+misery |  
+| bip_39_word_new_line8 | season
+fancy
+settle
+giggle
+junior
+safe
+misery
+company |  
+| bip_39_word_new_line9 | season
+fancy
+settle
+giggle
+junior
+safe
+misery
+company
+fade |  
+| bip_39_word_space_0 | ['season', 'fancy', 'settle', 'giggle', 'junior', 'safe', 'misery', 'company', 'fade', 'spider', 'bridge', 'absurd'] |  
+| bip_39_word_space_1 | season |  
+| bip_39_word_space_10 | season fancy settle giggle junior safe misery company fade spider |  
+| bip_39_word_space_11 | season fancy settle giggle junior safe misery company fade spider bridge |  
+| bip_39_word_space_12 | season fancy settle giggle junior safe misery company fade spider bridge absurd |  
+| bip_39_word_space_2 | season fancy |  
+| bip_39_word_space_3 | season fancy settle |  
+| bip_39_word_space_4 | season fancy settle giggle |  
+| bip_39_word_space_5 | season fancy settle giggle junior |  
+| bip_39_word_space_6 | season fancy settle giggle junior safe |  
+| bip_39_word_space_7 | season fancy settle giggle junior safe misery |  
+| bip_39_word_space_8 | season fancy settle giggle junior safe misery company |  
+| bip_39_word_space_9 | season fancy settle giggle junior safe misery company fade |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

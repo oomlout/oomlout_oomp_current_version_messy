@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dance cup
+  * bip 39 word 3: dance cup security
+  * bip 39 word: dance cup security young ghost excess mail hero frost best travel atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dance |  
+| bip_39_word_new_br10 | dance<br>cup<br>security<br>young<br>ghost<br>excess<br>mail<br>hero<br>frost<br>best |  
+| bip_39_word_new_br11 | dance<br>cup<br>security<br>young<br>ghost<br>excess<br>mail<br>hero<br>frost<br>best<br>travel |  
+| bip_39_word_new_br12 | dance<br>cup<br>security<br>young<br>ghost<br>excess<br>mail<br>hero<br>frost<br>best<br>travel<br>atom |  
+| bip_39_word_new_br2 | dance<br>cup |  
+| bip_39_word_new_br3 | dance<br>cup<br>security |  
+| bip_39_word_new_br4 | dance<br>cup<br>security<br>young |  
+| bip_39_word_new_br5 | dance<br>cup<br>security<br>young<br>ghost |  
+| bip_39_word_new_br6 | dance<br>cup<br>security<br>young<br>ghost<br>excess |  
+| bip_39_word_new_br7 | dance<br>cup<br>security<br>young<br>ghost<br>excess<br>mail |  
+| bip_39_word_new_br8 | dance<br>cup<br>security<br>young<br>ghost<br>excess<br>mail<br>hero |  
+| bip_39_word_new_br9 | dance<br>cup<br>security<br>young<br>ghost<br>excess<br>mail<br>hero<br>frost |  
+| bip_39_word_new_line1 | dance |  
+| bip_39_word_new_line10 | dance
+cup
+security
+young
+ghost
+excess
+mail
+hero
+frost
+best |  
+| bip_39_word_new_line11 | dance
+cup
+security
+young
+ghost
+excess
+mail
+hero
+frost
+best
+travel |  
+| bip_39_word_new_line12 | dance
+cup
+security
+young
+ghost
+excess
+mail
+hero
+frost
+best
+travel
+atom |  
+| bip_39_word_new_line2 | dance
+cup |  
+| bip_39_word_new_line3 | dance
+cup
+security |  
+| bip_39_word_new_line4 | dance
+cup
+security
+young |  
+| bip_39_word_new_line5 | dance
+cup
+security
+young
+ghost |  
+| bip_39_word_new_line6 | dance
+cup
+security
+young
+ghost
+excess |  
+| bip_39_word_new_line7 | dance
+cup
+security
+young
+ghost
+excess
+mail |  
+| bip_39_word_new_line8 | dance
+cup
+security
+young
+ghost
+excess
+mail
+hero |  
+| bip_39_word_new_line9 | dance
+cup
+security
+young
+ghost
+excess
+mail
+hero
+frost |  
+| bip_39_word_space_0 | ['dance', 'cup', 'security', 'young', 'ghost', 'excess', 'mail', 'hero', 'frost', 'best', 'travel', 'atom'] |  
+| bip_39_word_space_1 | dance |  
+| bip_39_word_space_10 | dance cup security young ghost excess mail hero frost best |  
+| bip_39_word_space_11 | dance cup security young ghost excess mail hero frost best travel |  
+| bip_39_word_space_12 | dance cup security young ghost excess mail hero frost best travel atom |  
+| bip_39_word_space_2 | dance cup |  
+| bip_39_word_space_3 | dance cup security |  
+| bip_39_word_space_4 | dance cup security young |  
+| bip_39_word_space_5 | dance cup security young ghost |  
+| bip_39_word_space_6 | dance cup security young ghost excess |  
+| bip_39_word_space_7 | dance cup security young ghost excess mail |  
+| bip_39_word_space_8 | dance cup security young ghost excess mail hero |  
+| bip_39_word_space_9 | dance cup security young ghost excess mail hero frost |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

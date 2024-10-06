@@ -1,3 +1,185 @@
+bip_39_word_new_br1: shop
+bip_39_word_new_br10: shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow
+bip_39_word_new_br11: shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow<br>paddle
+bip_39_word_new_br12: shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague<br>eyebrow<br>paddle<br>address
+bip_39_word_new_br2: shop<br>soon
+bip_39_word_new_br3: shop<br>soon<br>mom
+bip_39_word_new_br4: shop<br>soon<br>mom<br>inquiry
+bip_39_word_new_br5: shop<br>soon<br>mom<br>inquiry<br>fee
+bip_39_word_new_br6: shop<br>soon<br>mom<br>inquiry<br>fee<br>master
+bip_39_word_new_br7: shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant
+bip_39_word_new_br8: shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare
+bip_39_word_new_br9: shop<br>soon<br>mom<br>inquiry<br>fee<br>master<br>giant<br>scare<br>vague
+bip_39_word_new_line1: shop
+bip_39_word_new_line10: 'shop
+
+  soon
+
+  mom
+
+  inquiry
+
+  fee
+
+  master
+
+  giant
+
+  scare
+
+  vague
+
+  eyebrow'
+bip_39_word_new_line11: 'shop
+
+  soon
+
+  mom
+
+  inquiry
+
+  fee
+
+  master
+
+  giant
+
+  scare
+
+  vague
+
+  eyebrow
+
+  paddle'
+bip_39_word_new_line12: 'shop
+
+  soon
+
+  mom
+
+  inquiry
+
+  fee
+
+  master
+
+  giant
+
+  scare
+
+  vague
+
+  eyebrow
+
+  paddle
+
+  address'
+bip_39_word_new_line2: 'shop
+
+  soon'
+bip_39_word_new_line3: 'shop
+
+  soon
+
+  mom'
+bip_39_word_new_line4: 'shop
+
+  soon
+
+  mom
+
+  inquiry'
+bip_39_word_new_line5: 'shop
+
+  soon
+
+  mom
+
+  inquiry
+
+  fee'
+bip_39_word_new_line6: 'shop
+
+  soon
+
+  mom
+
+  inquiry
+
+  fee
+
+  master'
+bip_39_word_new_line7: 'shop
+
+  soon
+
+  mom
+
+  inquiry
+
+  fee
+
+  master
+
+  giant'
+bip_39_word_new_line8: 'shop
+
+  soon
+
+  mom
+
+  inquiry
+
+  fee
+
+  master
+
+  giant
+
+  scare'
+bip_39_word_new_line9: 'shop
+
+  soon
+
+  mom
+
+  inquiry
+
+  fee
+
+  master
+
+  giant
+
+  scare
+
+  vague'
+bip_39_word_space_0:
+- shop
+- soon
+- mom
+- inquiry
+- fee
+- master
+- giant
+- scare
+- vague
+- eyebrow
+- paddle
+- address
+bip_39_word_space_1: shop
+bip_39_word_space_10: shop soon mom inquiry fee master giant scare vague eyebrow
+bip_39_word_space_11: shop soon mom inquiry fee master giant scare vague eyebrow paddle
+bip_39_word_space_12: shop soon mom inquiry fee master giant scare vague eyebrow paddle
+  address
+bip_39_word_space_2: shop soon
+bip_39_word_space_3: shop soon mom
+bip_39_word_space_4: shop soon mom inquiry
+bip_39_word_space_5: shop soon mom inquiry fee
+bip_39_word_space_6: shop soon mom inquiry fee master
+bip_39_word_space_7: shop soon mom inquiry fee master giant
+bip_39_word_space_8: shop soon mom inquiry fee master giant scare
+bip_39_word_space_9: shop soon mom inquiry fee master giant scare vague
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

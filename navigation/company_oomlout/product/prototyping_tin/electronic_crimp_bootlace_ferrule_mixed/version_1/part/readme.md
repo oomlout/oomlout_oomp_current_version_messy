@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: version_1
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exclude angle
+  * bip 39 word 3: exclude angle marine
+  * bip 39 word: exclude angle marine grit verb opera impose rather city north kitten august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exclude |  
+| bip_39_word_new_br10 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north |  
+| bip_39_word_new_br11 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten |  
+| bip_39_word_new_br12 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city<br>north<br>kitten<br>august |  
+| bip_39_word_new_br2 | exclude<br>angle |  
+| bip_39_word_new_br3 | exclude<br>angle<br>marine |  
+| bip_39_word_new_br4 | exclude<br>angle<br>marine<br>grit |  
+| bip_39_word_new_br5 | exclude<br>angle<br>marine<br>grit<br>verb |  
+| bip_39_word_new_br6 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera |  
+| bip_39_word_new_br7 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose |  
+| bip_39_word_new_br8 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather |  
+| bip_39_word_new_br9 | exclude<br>angle<br>marine<br>grit<br>verb<br>opera<br>impose<br>rather<br>city |  
+| bip_39_word_new_line1 | exclude |  
+| bip_39_word_new_line10 | exclude
+angle
+marine
+grit
+verb
+opera
+impose
+rather
+city
+north |  
+| bip_39_word_new_line11 | exclude
+angle
+marine
+grit
+verb
+opera
+impose
+rather
+city
+north
+kitten |  
+| bip_39_word_new_line12 | exclude
+angle
+marine
+grit
+verb
+opera
+impose
+rather
+city
+north
+kitten
+august |  
+| bip_39_word_new_line2 | exclude
+angle |  
+| bip_39_word_new_line3 | exclude
+angle
+marine |  
+| bip_39_word_new_line4 | exclude
+angle
+marine
+grit |  
+| bip_39_word_new_line5 | exclude
+angle
+marine
+grit
+verb |  
+| bip_39_word_new_line6 | exclude
+angle
+marine
+grit
+verb
+opera |  
+| bip_39_word_new_line7 | exclude
+angle
+marine
+grit
+verb
+opera
+impose |  
+| bip_39_word_new_line8 | exclude
+angle
+marine
+grit
+verb
+opera
+impose
+rather |  
+| bip_39_word_new_line9 | exclude
+angle
+marine
+grit
+verb
+opera
+impose
+rather
+city |  
+| bip_39_word_space_0 | ['exclude', 'angle', 'marine', 'grit', 'verb', 'opera', 'impose', 'rather', 'city', 'north', 'kitten', 'august'] |  
+| bip_39_word_space_1 | exclude |  
+| bip_39_word_space_10 | exclude angle marine grit verb opera impose rather city north |  
+| bip_39_word_space_11 | exclude angle marine grit verb opera impose rather city north kitten |  
+| bip_39_word_space_12 | exclude angle marine grit verb opera impose rather city north kitten august |  
+| bip_39_word_space_2 | exclude angle |  
+| bip_39_word_space_3 | exclude angle marine |  
+| bip_39_word_space_4 | exclude angle marine grit |  
+| bip_39_word_space_5 | exclude angle marine grit verb |  
+| bip_39_word_space_6 | exclude angle marine grit verb opera |  
+| bip_39_word_space_7 | exclude angle marine grit verb opera impose |  
+| bip_39_word_space_8 | exclude angle marine grit verb opera impose rather |  
+| bip_39_word_space_9 | exclude angle marine grit verb opera impose rather city |  
 | classification | company_oomlout |  
 | classification_capital | Company Oomlout |  
 | classification_first_letter | c |  

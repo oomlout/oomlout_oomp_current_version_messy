@@ -1,3 +1,186 @@
+bip_39_word_new_br1: math
+bip_39_word_new_br10: math<br>dolphin<br>steel<br>safe<br>pause<br>vapor<br>awake<br>gift<br>manage<br>lonely
+bip_39_word_new_br11: math<br>dolphin<br>steel<br>safe<br>pause<br>vapor<br>awake<br>gift<br>manage<br>lonely<br>rain
+bip_39_word_new_br12: math<br>dolphin<br>steel<br>safe<br>pause<br>vapor<br>awake<br>gift<br>manage<br>lonely<br>rain<br>act
+bip_39_word_new_br2: math<br>dolphin
+bip_39_word_new_br3: math<br>dolphin<br>steel
+bip_39_word_new_br4: math<br>dolphin<br>steel<br>safe
+bip_39_word_new_br5: math<br>dolphin<br>steel<br>safe<br>pause
+bip_39_word_new_br6: math<br>dolphin<br>steel<br>safe<br>pause<br>vapor
+bip_39_word_new_br7: math<br>dolphin<br>steel<br>safe<br>pause<br>vapor<br>awake
+bip_39_word_new_br8: math<br>dolphin<br>steel<br>safe<br>pause<br>vapor<br>awake<br>gift
+bip_39_word_new_br9: math<br>dolphin<br>steel<br>safe<br>pause<br>vapor<br>awake<br>gift<br>manage
+bip_39_word_new_line1: math
+bip_39_word_new_line10: 'math
+
+  dolphin
+
+  steel
+
+  safe
+
+  pause
+
+  vapor
+
+  awake
+
+  gift
+
+  manage
+
+  lonely'
+bip_39_word_new_line11: 'math
+
+  dolphin
+
+  steel
+
+  safe
+
+  pause
+
+  vapor
+
+  awake
+
+  gift
+
+  manage
+
+  lonely
+
+  rain'
+bip_39_word_new_line12: 'math
+
+  dolphin
+
+  steel
+
+  safe
+
+  pause
+
+  vapor
+
+  awake
+
+  gift
+
+  manage
+
+  lonely
+
+  rain
+
+  act'
+bip_39_word_new_line2: 'math
+
+  dolphin'
+bip_39_word_new_line3: 'math
+
+  dolphin
+
+  steel'
+bip_39_word_new_line4: 'math
+
+  dolphin
+
+  steel
+
+  safe'
+bip_39_word_new_line5: 'math
+
+  dolphin
+
+  steel
+
+  safe
+
+  pause'
+bip_39_word_new_line6: 'math
+
+  dolphin
+
+  steel
+
+  safe
+
+  pause
+
+  vapor'
+bip_39_word_new_line7: 'math
+
+  dolphin
+
+  steel
+
+  safe
+
+  pause
+
+  vapor
+
+  awake'
+bip_39_word_new_line8: 'math
+
+  dolphin
+
+  steel
+
+  safe
+
+  pause
+
+  vapor
+
+  awake
+
+  gift'
+bip_39_word_new_line9: 'math
+
+  dolphin
+
+  steel
+
+  safe
+
+  pause
+
+  vapor
+
+  awake
+
+  gift
+
+  manage'
+bip_39_word_space_0:
+- math
+- dolphin
+- steel
+- safe
+- pause
+- vapor
+- awake
+- gift
+- manage
+- lonely
+- rain
+- act
+bip_39_word_space_1: math
+bip_39_word_space_10: math dolphin steel safe pause vapor awake gift manage lonely
+bip_39_word_space_11: math dolphin steel safe pause vapor awake gift manage lonely
+  rain
+bip_39_word_space_12: math dolphin steel safe pause vapor awake gift manage lonely
+  rain act
+bip_39_word_space_2: math dolphin
+bip_39_word_space_3: math dolphin steel
+bip_39_word_space_4: math dolphin steel safe
+bip_39_word_space_5: math dolphin steel safe pause
+bip_39_word_space_6: math dolphin steel safe pause vapor
+bip_39_word_space_7: math dolphin steel safe pause vapor awake
+bip_39_word_space_8: math dolphin steel safe pause vapor awake gift
+bip_39_word_space_9: math dolphin steel safe pause vapor awake gift manage
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

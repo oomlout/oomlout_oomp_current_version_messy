@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reduce move
+  * bip 39 word 3: reduce move snap
+  * bip 39 word: reduce move snap quick six excuse heavy chat label false unit all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reduce |  
+| bip_39_word_new_br10 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false |  
+| bip_39_word_new_br11 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false<br>unit |  
+| bip_39_word_new_br12 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label<br>false<br>unit<br>all |  
+| bip_39_word_new_br2 | reduce<br>move |  
+| bip_39_word_new_br3 | reduce<br>move<br>snap |  
+| bip_39_word_new_br4 | reduce<br>move<br>snap<br>quick |  
+| bip_39_word_new_br5 | reduce<br>move<br>snap<br>quick<br>six |  
+| bip_39_word_new_br6 | reduce<br>move<br>snap<br>quick<br>six<br>excuse |  
+| bip_39_word_new_br7 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy |  
+| bip_39_word_new_br8 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat |  
+| bip_39_word_new_br9 | reduce<br>move<br>snap<br>quick<br>six<br>excuse<br>heavy<br>chat<br>label |  
+| bip_39_word_new_line1 | reduce |  
+| bip_39_word_new_line10 | reduce
+move
+snap
+quick
+six
+excuse
+heavy
+chat
+label
+false |  
+| bip_39_word_new_line11 | reduce
+move
+snap
+quick
+six
+excuse
+heavy
+chat
+label
+false
+unit |  
+| bip_39_word_new_line12 | reduce
+move
+snap
+quick
+six
+excuse
+heavy
+chat
+label
+false
+unit
+all |  
+| bip_39_word_new_line2 | reduce
+move |  
+| bip_39_word_new_line3 | reduce
+move
+snap |  
+| bip_39_word_new_line4 | reduce
+move
+snap
+quick |  
+| bip_39_word_new_line5 | reduce
+move
+snap
+quick
+six |  
+| bip_39_word_new_line6 | reduce
+move
+snap
+quick
+six
+excuse |  
+| bip_39_word_new_line7 | reduce
+move
+snap
+quick
+six
+excuse
+heavy |  
+| bip_39_word_new_line8 | reduce
+move
+snap
+quick
+six
+excuse
+heavy
+chat |  
+| bip_39_word_new_line9 | reduce
+move
+snap
+quick
+six
+excuse
+heavy
+chat
+label |  
+| bip_39_word_space_0 | ['reduce', 'move', 'snap', 'quick', 'six', 'excuse', 'heavy', 'chat', 'label', 'false', 'unit', 'all'] |  
+| bip_39_word_space_1 | reduce |  
+| bip_39_word_space_10 | reduce move snap quick six excuse heavy chat label false |  
+| bip_39_word_space_11 | reduce move snap quick six excuse heavy chat label false unit |  
+| bip_39_word_space_12 | reduce move snap quick six excuse heavy chat label false unit all |  
+| bip_39_word_space_2 | reduce move |  
+| bip_39_word_space_3 | reduce move snap |  
+| bip_39_word_space_4 | reduce move snap quick |  
+| bip_39_word_space_5 | reduce move snap quick six |  
+| bip_39_word_space_6 | reduce move snap quick six excuse |  
+| bip_39_word_space_7 | reduce move snap quick six excuse heavy |  
+| bip_39_word_space_8 | reduce move snap quick six excuse heavy chat |  
+| bip_39_word_space_9 | reduce move snap quick six excuse heavy chat label |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

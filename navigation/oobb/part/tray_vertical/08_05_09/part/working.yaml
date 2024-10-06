@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ahead
+bip_39_word_new_br10: ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system
+bip_39_word_new_br11: ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system<br>polar
+bip_39_word_new_br12: ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean<br>system<br>polar<br>already
+bip_39_word_new_br2: ahead<br>kind
+bip_39_word_new_br3: ahead<br>kind<br>write
+bip_39_word_new_br4: ahead<br>kind<br>write<br>chapter
+bip_39_word_new_br5: ahead<br>kind<br>write<br>chapter<br>husband
+bip_39_word_new_br6: ahead<br>kind<br>write<br>chapter<br>husband<br>view
+bip_39_word_new_br7: ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair
+bip_39_word_new_br8: ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway
+bip_39_word_new_br9: ahead<br>kind<br>write<br>chapter<br>husband<br>view<br>despair<br>runway<br>bean
+bip_39_word_new_line1: ahead
+bip_39_word_new_line10: 'ahead
+
+  kind
+
+  write
+
+  chapter
+
+  husband
+
+  view
+
+  despair
+
+  runway
+
+  bean
+
+  system'
+bip_39_word_new_line11: 'ahead
+
+  kind
+
+  write
+
+  chapter
+
+  husband
+
+  view
+
+  despair
+
+  runway
+
+  bean
+
+  system
+
+  polar'
+bip_39_word_new_line12: 'ahead
+
+  kind
+
+  write
+
+  chapter
+
+  husband
+
+  view
+
+  despair
+
+  runway
+
+  bean
+
+  system
+
+  polar
+
+  already'
+bip_39_word_new_line2: 'ahead
+
+  kind'
+bip_39_word_new_line3: 'ahead
+
+  kind
+
+  write'
+bip_39_word_new_line4: 'ahead
+
+  kind
+
+  write
+
+  chapter'
+bip_39_word_new_line5: 'ahead
+
+  kind
+
+  write
+
+  chapter
+
+  husband'
+bip_39_word_new_line6: 'ahead
+
+  kind
+
+  write
+
+  chapter
+
+  husband
+
+  view'
+bip_39_word_new_line7: 'ahead
+
+  kind
+
+  write
+
+  chapter
+
+  husband
+
+  view
+
+  despair'
+bip_39_word_new_line8: 'ahead
+
+  kind
+
+  write
+
+  chapter
+
+  husband
+
+  view
+
+  despair
+
+  runway'
+bip_39_word_new_line9: 'ahead
+
+  kind
+
+  write
+
+  chapter
+
+  husband
+
+  view
+
+  despair
+
+  runway
+
+  bean'
+bip_39_word_space_0:
+- ahead
+- kind
+- write
+- chapter
+- husband
+- view
+- despair
+- runway
+- bean
+- system
+- polar
+- already
+bip_39_word_space_1: ahead
+bip_39_word_space_10: ahead kind write chapter husband view despair runway bean system
+bip_39_word_space_11: ahead kind write chapter husband view despair runway bean system
+  polar
+bip_39_word_space_12: ahead kind write chapter husband view despair runway bean system
+  polar already
+bip_39_word_space_2: ahead kind
+bip_39_word_space_3: ahead kind write
+bip_39_word_space_4: ahead kind write chapter
+bip_39_word_space_5: ahead kind write chapter husband
+bip_39_word_space_6: ahead kind write chapter husband view
+bip_39_word_space_7: ahead kind write chapter husband view despair
+bip_39_word_space_8: ahead kind write chapter husband view despair runway
+bip_39_word_space_9: ahead kind write chapter husband view despair runway bean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

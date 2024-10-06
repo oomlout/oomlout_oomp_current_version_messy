@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: rajapack
   * part_number: rbac16
+  * bip 39 word 2: canoe remove
+  * bip 39 word 3: canoe remove drip
+  * bip 39 word: canoe remove drip street please street leisure nice fiction tell wage abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | canoe |  
+| bip_39_word_new_br10 | canoe<br>remove<br>drip<br>street<br>please<br>street<br>leisure<br>nice<br>fiction<br>tell |  
+| bip_39_word_new_br11 | canoe<br>remove<br>drip<br>street<br>please<br>street<br>leisure<br>nice<br>fiction<br>tell<br>wage |  
+| bip_39_word_new_br12 | canoe<br>remove<br>drip<br>street<br>please<br>street<br>leisure<br>nice<br>fiction<br>tell<br>wage<br>abstract |  
+| bip_39_word_new_br2 | canoe<br>remove |  
+| bip_39_word_new_br3 | canoe<br>remove<br>drip |  
+| bip_39_word_new_br4 | canoe<br>remove<br>drip<br>street |  
+| bip_39_word_new_br5 | canoe<br>remove<br>drip<br>street<br>please |  
+| bip_39_word_new_br6 | canoe<br>remove<br>drip<br>street<br>please<br>street |  
+| bip_39_word_new_br7 | canoe<br>remove<br>drip<br>street<br>please<br>street<br>leisure |  
+| bip_39_word_new_br8 | canoe<br>remove<br>drip<br>street<br>please<br>street<br>leisure<br>nice |  
+| bip_39_word_new_br9 | canoe<br>remove<br>drip<br>street<br>please<br>street<br>leisure<br>nice<br>fiction |  
+| bip_39_word_new_line1 | canoe |  
+| bip_39_word_new_line10 | canoe
+remove
+drip
+street
+please
+street
+leisure
+nice
+fiction
+tell |  
+| bip_39_word_new_line11 | canoe
+remove
+drip
+street
+please
+street
+leisure
+nice
+fiction
+tell
+wage |  
+| bip_39_word_new_line12 | canoe
+remove
+drip
+street
+please
+street
+leisure
+nice
+fiction
+tell
+wage
+abstract |  
+| bip_39_word_new_line2 | canoe
+remove |  
+| bip_39_word_new_line3 | canoe
+remove
+drip |  
+| bip_39_word_new_line4 | canoe
+remove
+drip
+street |  
+| bip_39_word_new_line5 | canoe
+remove
+drip
+street
+please |  
+| bip_39_word_new_line6 | canoe
+remove
+drip
+street
+please
+street |  
+| bip_39_word_new_line7 | canoe
+remove
+drip
+street
+please
+street
+leisure |  
+| bip_39_word_new_line8 | canoe
+remove
+drip
+street
+please
+street
+leisure
+nice |  
+| bip_39_word_new_line9 | canoe
+remove
+drip
+street
+please
+street
+leisure
+nice
+fiction |  
+| bip_39_word_space_0 | ['canoe', 'remove', 'drip', 'street', 'please', 'street', 'leisure', 'nice', 'fiction', 'tell', 'wage', 'abstract'] |  
+| bip_39_word_space_1 | canoe |  
+| bip_39_word_space_10 | canoe remove drip street please street leisure nice fiction tell |  
+| bip_39_word_space_11 | canoe remove drip street please street leisure nice fiction tell wage |  
+| bip_39_word_space_12 | canoe remove drip street please street leisure nice fiction tell wage abstract |  
+| bip_39_word_space_2 | canoe remove |  
+| bip_39_word_space_3 | canoe remove drip |  
+| bip_39_word_space_4 | canoe remove drip street |  
+| bip_39_word_space_5 | canoe remove drip street please |  
+| bip_39_word_space_6 | canoe remove drip street please street |  
+| bip_39_word_space_7 | canoe remove drip street please street leisure |  
+| bip_39_word_space_8 | canoe remove drip street please street leisure nice |  
+| bip_39_word_space_9 | canoe remove drip street please street leisure nice fiction |  
 | classification | storage |  
 | classification_capital | Storage |  
 | classification_first_letter | s |  

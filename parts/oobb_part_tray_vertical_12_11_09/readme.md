@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ship husband
+  * bip 39 word 3: ship husband response
+  * bip 39 word: ship husband response question speed engine width absurd swamp among foot accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ship |  
+| bip_39_word_new_br10 | ship<br>husband<br>response<br>question<br>speed<br>engine<br>width<br>absurd<br>swamp<br>among |  
+| bip_39_word_new_br11 | ship<br>husband<br>response<br>question<br>speed<br>engine<br>width<br>absurd<br>swamp<br>among<br>foot |  
+| bip_39_word_new_br12 | ship<br>husband<br>response<br>question<br>speed<br>engine<br>width<br>absurd<br>swamp<br>among<br>foot<br>accuse |  
+| bip_39_word_new_br2 | ship<br>husband |  
+| bip_39_word_new_br3 | ship<br>husband<br>response |  
+| bip_39_word_new_br4 | ship<br>husband<br>response<br>question |  
+| bip_39_word_new_br5 | ship<br>husband<br>response<br>question<br>speed |  
+| bip_39_word_new_br6 | ship<br>husband<br>response<br>question<br>speed<br>engine |  
+| bip_39_word_new_br7 | ship<br>husband<br>response<br>question<br>speed<br>engine<br>width |  
+| bip_39_word_new_br8 | ship<br>husband<br>response<br>question<br>speed<br>engine<br>width<br>absurd |  
+| bip_39_word_new_br9 | ship<br>husband<br>response<br>question<br>speed<br>engine<br>width<br>absurd<br>swamp |  
+| bip_39_word_new_line1 | ship |  
+| bip_39_word_new_line10 | ship
+husband
+response
+question
+speed
+engine
+width
+absurd
+swamp
+among |  
+| bip_39_word_new_line11 | ship
+husband
+response
+question
+speed
+engine
+width
+absurd
+swamp
+among
+foot |  
+| bip_39_word_new_line12 | ship
+husband
+response
+question
+speed
+engine
+width
+absurd
+swamp
+among
+foot
+accuse |  
+| bip_39_word_new_line2 | ship
+husband |  
+| bip_39_word_new_line3 | ship
+husband
+response |  
+| bip_39_word_new_line4 | ship
+husband
+response
+question |  
+| bip_39_word_new_line5 | ship
+husband
+response
+question
+speed |  
+| bip_39_word_new_line6 | ship
+husband
+response
+question
+speed
+engine |  
+| bip_39_word_new_line7 | ship
+husband
+response
+question
+speed
+engine
+width |  
+| bip_39_word_new_line8 | ship
+husband
+response
+question
+speed
+engine
+width
+absurd |  
+| bip_39_word_new_line9 | ship
+husband
+response
+question
+speed
+engine
+width
+absurd
+swamp |  
+| bip_39_word_space_0 | ['ship', 'husband', 'response', 'question', 'speed', 'engine', 'width', 'absurd', 'swamp', 'among', 'foot', 'accuse'] |  
+| bip_39_word_space_1 | ship |  
+| bip_39_word_space_10 | ship husband response question speed engine width absurd swamp among |  
+| bip_39_word_space_11 | ship husband response question speed engine width absurd swamp among foot |  
+| bip_39_word_space_12 | ship husband response question speed engine width absurd swamp among foot accuse |  
+| bip_39_word_space_2 | ship husband |  
+| bip_39_word_space_3 | ship husband response |  
+| bip_39_word_space_4 | ship husband response question |  
+| bip_39_word_space_5 | ship husband response question speed |  
+| bip_39_word_space_6 | ship husband response question speed engine |  
+| bip_39_word_space_7 | ship husband response question speed engine width |  
+| bip_39_word_space_8 | ship husband response question speed engine width absurd |  
+| bip_39_word_space_9 | ship husband response question speed engine width absurd swamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

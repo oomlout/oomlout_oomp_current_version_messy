@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: awkward amazing
+  * bip 39 word 3: awkward amazing pledge
+  * bip 39 word: awkward amazing pledge foot seminar champion gadget tenant lizard garment panther aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | awkward |  
+| bip_39_word_new_br10 | awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion<br>gadget<br>tenant<br>lizard<br>garment |  
+| bip_39_word_new_br11 | awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion<br>gadget<br>tenant<br>lizard<br>garment<br>panther |  
+| bip_39_word_new_br12 | awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion<br>gadget<br>tenant<br>lizard<br>garment<br>panther<br>aim |  
+| bip_39_word_new_br2 | awkward<br>amazing |  
+| bip_39_word_new_br3 | awkward<br>amazing<br>pledge |  
+| bip_39_word_new_br4 | awkward<br>amazing<br>pledge<br>foot |  
+| bip_39_word_new_br5 | awkward<br>amazing<br>pledge<br>foot<br>seminar |  
+| bip_39_word_new_br6 | awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion |  
+| bip_39_word_new_br7 | awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion<br>gadget |  
+| bip_39_word_new_br8 | awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion<br>gadget<br>tenant |  
+| bip_39_word_new_br9 | awkward<br>amazing<br>pledge<br>foot<br>seminar<br>champion<br>gadget<br>tenant<br>lizard |  
+| bip_39_word_new_line1 | awkward |  
+| bip_39_word_new_line10 | awkward
+amazing
+pledge
+foot
+seminar
+champion
+gadget
+tenant
+lizard
+garment |  
+| bip_39_word_new_line11 | awkward
+amazing
+pledge
+foot
+seminar
+champion
+gadget
+tenant
+lizard
+garment
+panther |  
+| bip_39_word_new_line12 | awkward
+amazing
+pledge
+foot
+seminar
+champion
+gadget
+tenant
+lizard
+garment
+panther
+aim |  
+| bip_39_word_new_line2 | awkward
+amazing |  
+| bip_39_word_new_line3 | awkward
+amazing
+pledge |  
+| bip_39_word_new_line4 | awkward
+amazing
+pledge
+foot |  
+| bip_39_word_new_line5 | awkward
+amazing
+pledge
+foot
+seminar |  
+| bip_39_word_new_line6 | awkward
+amazing
+pledge
+foot
+seminar
+champion |  
+| bip_39_word_new_line7 | awkward
+amazing
+pledge
+foot
+seminar
+champion
+gadget |  
+| bip_39_word_new_line8 | awkward
+amazing
+pledge
+foot
+seminar
+champion
+gadget
+tenant |  
+| bip_39_word_new_line9 | awkward
+amazing
+pledge
+foot
+seminar
+champion
+gadget
+tenant
+lizard |  
+| bip_39_word_space_0 | ['awkward', 'amazing', 'pledge', 'foot', 'seminar', 'champion', 'gadget', 'tenant', 'lizard', 'garment', 'panther', 'aim'] |  
+| bip_39_word_space_1 | awkward |  
+| bip_39_word_space_10 | awkward amazing pledge foot seminar champion gadget tenant lizard garment |  
+| bip_39_word_space_11 | awkward amazing pledge foot seminar champion gadget tenant lizard garment panther |  
+| bip_39_word_space_12 | awkward amazing pledge foot seminar champion gadget tenant lizard garment panther aim |  
+| bip_39_word_space_2 | awkward amazing |  
+| bip_39_word_space_3 | awkward amazing pledge |  
+| bip_39_word_space_4 | awkward amazing pledge foot |  
+| bip_39_word_space_5 | awkward amazing pledge foot seminar |  
+| bip_39_word_space_6 | awkward amazing pledge foot seminar champion |  
+| bip_39_word_space_7 | awkward amazing pledge foot seminar champion gadget |  
+| bip_39_word_space_8 | awkward amazing pledge foot seminar champion gadget tenant |  
+| bip_39_word_space_9 | awkward amazing pledge foot seminar champion gadget tenant lizard |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

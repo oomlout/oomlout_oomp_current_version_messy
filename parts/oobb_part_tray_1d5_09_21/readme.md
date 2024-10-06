@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: order focus
+  * bip 39 word 3: order focus light
+  * bip 39 word: order focus light cook arrest horse ship host rapid control mass ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | order |  
+| bip_39_word_new_br10 | order<br>focus<br>light<br>cook<br>arrest<br>horse<br>ship<br>host<br>rapid<br>control |  
+| bip_39_word_new_br11 | order<br>focus<br>light<br>cook<br>arrest<br>horse<br>ship<br>host<br>rapid<br>control<br>mass |  
+| bip_39_word_new_br12 | order<br>focus<br>light<br>cook<br>arrest<br>horse<br>ship<br>host<br>rapid<br>control<br>mass<br>ankle |  
+| bip_39_word_new_br2 | order<br>focus |  
+| bip_39_word_new_br3 | order<br>focus<br>light |  
+| bip_39_word_new_br4 | order<br>focus<br>light<br>cook |  
+| bip_39_word_new_br5 | order<br>focus<br>light<br>cook<br>arrest |  
+| bip_39_word_new_br6 | order<br>focus<br>light<br>cook<br>arrest<br>horse |  
+| bip_39_word_new_br7 | order<br>focus<br>light<br>cook<br>arrest<br>horse<br>ship |  
+| bip_39_word_new_br8 | order<br>focus<br>light<br>cook<br>arrest<br>horse<br>ship<br>host |  
+| bip_39_word_new_br9 | order<br>focus<br>light<br>cook<br>arrest<br>horse<br>ship<br>host<br>rapid |  
+| bip_39_word_new_line1 | order |  
+| bip_39_word_new_line10 | order
+focus
+light
+cook
+arrest
+horse
+ship
+host
+rapid
+control |  
+| bip_39_word_new_line11 | order
+focus
+light
+cook
+arrest
+horse
+ship
+host
+rapid
+control
+mass |  
+| bip_39_word_new_line12 | order
+focus
+light
+cook
+arrest
+horse
+ship
+host
+rapid
+control
+mass
+ankle |  
+| bip_39_word_new_line2 | order
+focus |  
+| bip_39_word_new_line3 | order
+focus
+light |  
+| bip_39_word_new_line4 | order
+focus
+light
+cook |  
+| bip_39_word_new_line5 | order
+focus
+light
+cook
+arrest |  
+| bip_39_word_new_line6 | order
+focus
+light
+cook
+arrest
+horse |  
+| bip_39_word_new_line7 | order
+focus
+light
+cook
+arrest
+horse
+ship |  
+| bip_39_word_new_line8 | order
+focus
+light
+cook
+arrest
+horse
+ship
+host |  
+| bip_39_word_new_line9 | order
+focus
+light
+cook
+arrest
+horse
+ship
+host
+rapid |  
+| bip_39_word_space_0 | ['order', 'focus', 'light', 'cook', 'arrest', 'horse', 'ship', 'host', 'rapid', 'control', 'mass', 'ankle'] |  
+| bip_39_word_space_1 | order |  
+| bip_39_word_space_10 | order focus light cook arrest horse ship host rapid control |  
+| bip_39_word_space_11 | order focus light cook arrest horse ship host rapid control mass |  
+| bip_39_word_space_12 | order focus light cook arrest horse ship host rapid control mass ankle |  
+| bip_39_word_space_2 | order focus |  
+| bip_39_word_space_3 | order focus light |  
+| bip_39_word_space_4 | order focus light cook |  
+| bip_39_word_space_5 | order focus light cook arrest |  
+| bip_39_word_space_6 | order focus light cook arrest horse |  
+| bip_39_word_space_7 | order focus light cook arrest horse ship |  
+| bip_39_word_space_8 | order focus light cook arrest horse ship host |  
+| bip_39_word_space_9 | order focus light cook arrest horse ship host rapid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

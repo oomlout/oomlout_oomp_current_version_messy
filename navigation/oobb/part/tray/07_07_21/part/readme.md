@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: during magnet
+  * bip 39 word 3: during magnet click
+  * bip 39 word: during magnet click nominee era clutch faint insect oak candy age approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | during |  
+| bip_39_word_new_br10 | during<br>magnet<br>click<br>nominee<br>era<br>clutch<br>faint<br>insect<br>oak<br>candy |  
+| bip_39_word_new_br11 | during<br>magnet<br>click<br>nominee<br>era<br>clutch<br>faint<br>insect<br>oak<br>candy<br>age |  
+| bip_39_word_new_br12 | during<br>magnet<br>click<br>nominee<br>era<br>clutch<br>faint<br>insect<br>oak<br>candy<br>age<br>approve |  
+| bip_39_word_new_br2 | during<br>magnet |  
+| bip_39_word_new_br3 | during<br>magnet<br>click |  
+| bip_39_word_new_br4 | during<br>magnet<br>click<br>nominee |  
+| bip_39_word_new_br5 | during<br>magnet<br>click<br>nominee<br>era |  
+| bip_39_word_new_br6 | during<br>magnet<br>click<br>nominee<br>era<br>clutch |  
+| bip_39_word_new_br7 | during<br>magnet<br>click<br>nominee<br>era<br>clutch<br>faint |  
+| bip_39_word_new_br8 | during<br>magnet<br>click<br>nominee<br>era<br>clutch<br>faint<br>insect |  
+| bip_39_word_new_br9 | during<br>magnet<br>click<br>nominee<br>era<br>clutch<br>faint<br>insect<br>oak |  
+| bip_39_word_new_line1 | during |  
+| bip_39_word_new_line10 | during
+magnet
+click
+nominee
+era
+clutch
+faint
+insect
+oak
+candy |  
+| bip_39_word_new_line11 | during
+magnet
+click
+nominee
+era
+clutch
+faint
+insect
+oak
+candy
+age |  
+| bip_39_word_new_line12 | during
+magnet
+click
+nominee
+era
+clutch
+faint
+insect
+oak
+candy
+age
+approve |  
+| bip_39_word_new_line2 | during
+magnet |  
+| bip_39_word_new_line3 | during
+magnet
+click |  
+| bip_39_word_new_line4 | during
+magnet
+click
+nominee |  
+| bip_39_word_new_line5 | during
+magnet
+click
+nominee
+era |  
+| bip_39_word_new_line6 | during
+magnet
+click
+nominee
+era
+clutch |  
+| bip_39_word_new_line7 | during
+magnet
+click
+nominee
+era
+clutch
+faint |  
+| bip_39_word_new_line8 | during
+magnet
+click
+nominee
+era
+clutch
+faint
+insect |  
+| bip_39_word_new_line9 | during
+magnet
+click
+nominee
+era
+clutch
+faint
+insect
+oak |  
+| bip_39_word_space_0 | ['during', 'magnet', 'click', 'nominee', 'era', 'clutch', 'faint', 'insect', 'oak', 'candy', 'age', 'approve'] |  
+| bip_39_word_space_1 | during |  
+| bip_39_word_space_10 | during magnet click nominee era clutch faint insect oak candy |  
+| bip_39_word_space_11 | during magnet click nominee era clutch faint insect oak candy age |  
+| bip_39_word_space_12 | during magnet click nominee era clutch faint insect oak candy age approve |  
+| bip_39_word_space_2 | during magnet |  
+| bip_39_word_space_3 | during magnet click |  
+| bip_39_word_space_4 | during magnet click nominee |  
+| bip_39_word_space_5 | during magnet click nominee era |  
+| bip_39_word_space_6 | during magnet click nominee era clutch |  
+| bip_39_word_space_7 | during magnet click nominee era clutch faint |  
+| bip_39_word_space_8 | during magnet click nominee era clutch faint insect |  
+| bip_39_word_space_9 | during magnet click nominee era clutch faint insect oak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

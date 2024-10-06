@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: elbow clutch
+  * bip 39 word 3: elbow clutch you
+  * bip 39 word: elbow clutch you panel author unaware gather steel pact early cheese address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | elbow |  
+| bip_39_word_new_br10 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware<br>gather<br>steel<br>pact<br>early |  
+| bip_39_word_new_br11 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware<br>gather<br>steel<br>pact<br>early<br>cheese |  
+| bip_39_word_new_br12 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware<br>gather<br>steel<br>pact<br>early<br>cheese<br>address |  
+| bip_39_word_new_br2 | elbow<br>clutch |  
+| bip_39_word_new_br3 | elbow<br>clutch<br>you |  
+| bip_39_word_new_br4 | elbow<br>clutch<br>you<br>panel |  
+| bip_39_word_new_br5 | elbow<br>clutch<br>you<br>panel<br>author |  
+| bip_39_word_new_br6 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware |  
+| bip_39_word_new_br7 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware<br>gather |  
+| bip_39_word_new_br8 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware<br>gather<br>steel |  
+| bip_39_word_new_br9 | elbow<br>clutch<br>you<br>panel<br>author<br>unaware<br>gather<br>steel<br>pact |  
+| bip_39_word_new_line1 | elbow |  
+| bip_39_word_new_line10 | elbow
+clutch
+you
+panel
+author
+unaware
+gather
+steel
+pact
+early |  
+| bip_39_word_new_line11 | elbow
+clutch
+you
+panel
+author
+unaware
+gather
+steel
+pact
+early
+cheese |  
+| bip_39_word_new_line12 | elbow
+clutch
+you
+panel
+author
+unaware
+gather
+steel
+pact
+early
+cheese
+address |  
+| bip_39_word_new_line2 | elbow
+clutch |  
+| bip_39_word_new_line3 | elbow
+clutch
+you |  
+| bip_39_word_new_line4 | elbow
+clutch
+you
+panel |  
+| bip_39_word_new_line5 | elbow
+clutch
+you
+panel
+author |  
+| bip_39_word_new_line6 | elbow
+clutch
+you
+panel
+author
+unaware |  
+| bip_39_word_new_line7 | elbow
+clutch
+you
+panel
+author
+unaware
+gather |  
+| bip_39_word_new_line8 | elbow
+clutch
+you
+panel
+author
+unaware
+gather
+steel |  
+| bip_39_word_new_line9 | elbow
+clutch
+you
+panel
+author
+unaware
+gather
+steel
+pact |  
+| bip_39_word_space_0 | ['elbow', 'clutch', 'you', 'panel', 'author', 'unaware', 'gather', 'steel', 'pact', 'early', 'cheese', 'address'] |  
+| bip_39_word_space_1 | elbow |  
+| bip_39_word_space_10 | elbow clutch you panel author unaware gather steel pact early |  
+| bip_39_word_space_11 | elbow clutch you panel author unaware gather steel pact early cheese |  
+| bip_39_word_space_12 | elbow clutch you panel author unaware gather steel pact early cheese address |  
+| bip_39_word_space_2 | elbow clutch |  
+| bip_39_word_space_3 | elbow clutch you |  
+| bip_39_word_space_4 | elbow clutch you panel |  
+| bip_39_word_space_5 | elbow clutch you panel author |  
+| bip_39_word_space_6 | elbow clutch you panel author unaware |  
+| bip_39_word_space_7 | elbow clutch you panel author unaware gather |  
+| bip_39_word_space_8 | elbow clutch you panel author unaware gather steel |  
+| bip_39_word_space_9 | elbow clutch you panel author unaware gather steel pact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

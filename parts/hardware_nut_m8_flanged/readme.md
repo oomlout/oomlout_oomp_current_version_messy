@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stairs green
+  * bip 39 word 3: stairs green close
+  * bip 39 word: stairs green close analyst either merge response better unfold rather swallow actress
 
 ### other_codes
 * short_code: n8mfl
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stairs |  
+| bip_39_word_new_br10 | stairs<br>green<br>close<br>analyst<br>either<br>merge<br>response<br>better<br>unfold<br>rather |  
+| bip_39_word_new_br11 | stairs<br>green<br>close<br>analyst<br>either<br>merge<br>response<br>better<br>unfold<br>rather<br>swallow |  
+| bip_39_word_new_br12 | stairs<br>green<br>close<br>analyst<br>either<br>merge<br>response<br>better<br>unfold<br>rather<br>swallow<br>actress |  
+| bip_39_word_new_br2 | stairs<br>green |  
+| bip_39_word_new_br3 | stairs<br>green<br>close |  
+| bip_39_word_new_br4 | stairs<br>green<br>close<br>analyst |  
+| bip_39_word_new_br5 | stairs<br>green<br>close<br>analyst<br>either |  
+| bip_39_word_new_br6 | stairs<br>green<br>close<br>analyst<br>either<br>merge |  
+| bip_39_word_new_br7 | stairs<br>green<br>close<br>analyst<br>either<br>merge<br>response |  
+| bip_39_word_new_br8 | stairs<br>green<br>close<br>analyst<br>either<br>merge<br>response<br>better |  
+| bip_39_word_new_br9 | stairs<br>green<br>close<br>analyst<br>either<br>merge<br>response<br>better<br>unfold |  
+| bip_39_word_new_line1 | stairs |  
+| bip_39_word_new_line10 | stairs
+green
+close
+analyst
+either
+merge
+response
+better
+unfold
+rather |  
+| bip_39_word_new_line11 | stairs
+green
+close
+analyst
+either
+merge
+response
+better
+unfold
+rather
+swallow |  
+| bip_39_word_new_line12 | stairs
+green
+close
+analyst
+either
+merge
+response
+better
+unfold
+rather
+swallow
+actress |  
+| bip_39_word_new_line2 | stairs
+green |  
+| bip_39_word_new_line3 | stairs
+green
+close |  
+| bip_39_word_new_line4 | stairs
+green
+close
+analyst |  
+| bip_39_word_new_line5 | stairs
+green
+close
+analyst
+either |  
+| bip_39_word_new_line6 | stairs
+green
+close
+analyst
+either
+merge |  
+| bip_39_word_new_line7 | stairs
+green
+close
+analyst
+either
+merge
+response |  
+| bip_39_word_new_line8 | stairs
+green
+close
+analyst
+either
+merge
+response
+better |  
+| bip_39_word_new_line9 | stairs
+green
+close
+analyst
+either
+merge
+response
+better
+unfold |  
+| bip_39_word_space_0 | ['stairs', 'green', 'close', 'analyst', 'either', 'merge', 'response', 'better', 'unfold', 'rather', 'swallow', 'actress'] |  
+| bip_39_word_space_1 | stairs |  
+| bip_39_word_space_10 | stairs green close analyst either merge response better unfold rather |  
+| bip_39_word_space_11 | stairs green close analyst either merge response better unfold rather swallow |  
+| bip_39_word_space_12 | stairs green close analyst either merge response better unfold rather swallow actress |  
+| bip_39_word_space_2 | stairs green |  
+| bip_39_word_space_3 | stairs green close |  
+| bip_39_word_space_4 | stairs green close analyst |  
+| bip_39_word_space_5 | stairs green close analyst either |  
+| bip_39_word_space_6 | stairs green close analyst either merge |  
+| bip_39_word_space_7 | stairs green close analyst either merge response |  
+| bip_39_word_space_8 | stairs green close analyst either merge response better |  
+| bip_39_word_space_9 | stairs green close analyst either merge response better unfold |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

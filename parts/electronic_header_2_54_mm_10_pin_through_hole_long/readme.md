@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cloth wrap
+  * bip 39 word 3: cloth wrap will
+  * bip 39 word: cloth wrap will awful skull person output upper bird split mercy aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cloth |  
+| bip_39_word_new_br10 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split |  
+| bip_39_word_new_br11 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split<br>mercy |  
+| bip_39_word_new_br12 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird<br>split<br>mercy<br>aisle |  
+| bip_39_word_new_br2 | cloth<br>wrap |  
+| bip_39_word_new_br3 | cloth<br>wrap<br>will |  
+| bip_39_word_new_br4 | cloth<br>wrap<br>will<br>awful |  
+| bip_39_word_new_br5 | cloth<br>wrap<br>will<br>awful<br>skull |  
+| bip_39_word_new_br6 | cloth<br>wrap<br>will<br>awful<br>skull<br>person |  
+| bip_39_word_new_br7 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output |  
+| bip_39_word_new_br8 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper |  
+| bip_39_word_new_br9 | cloth<br>wrap<br>will<br>awful<br>skull<br>person<br>output<br>upper<br>bird |  
+| bip_39_word_new_line1 | cloth |  
+| bip_39_word_new_line10 | cloth
+wrap
+will
+awful
+skull
+person
+output
+upper
+bird
+split |  
+| bip_39_word_new_line11 | cloth
+wrap
+will
+awful
+skull
+person
+output
+upper
+bird
+split
+mercy |  
+| bip_39_word_new_line12 | cloth
+wrap
+will
+awful
+skull
+person
+output
+upper
+bird
+split
+mercy
+aisle |  
+| bip_39_word_new_line2 | cloth
+wrap |  
+| bip_39_word_new_line3 | cloth
+wrap
+will |  
+| bip_39_word_new_line4 | cloth
+wrap
+will
+awful |  
+| bip_39_word_new_line5 | cloth
+wrap
+will
+awful
+skull |  
+| bip_39_word_new_line6 | cloth
+wrap
+will
+awful
+skull
+person |  
+| bip_39_word_new_line7 | cloth
+wrap
+will
+awful
+skull
+person
+output |  
+| bip_39_word_new_line8 | cloth
+wrap
+will
+awful
+skull
+person
+output
+upper |  
+| bip_39_word_new_line9 | cloth
+wrap
+will
+awful
+skull
+person
+output
+upper
+bird |  
+| bip_39_word_space_0 | ['cloth', 'wrap', 'will', 'awful', 'skull', 'person', 'output', 'upper', 'bird', 'split', 'mercy', 'aisle'] |  
+| bip_39_word_space_1 | cloth |  
+| bip_39_word_space_10 | cloth wrap will awful skull person output upper bird split |  
+| bip_39_word_space_11 | cloth wrap will awful skull person output upper bird split mercy |  
+| bip_39_word_space_12 | cloth wrap will awful skull person output upper bird split mercy aisle |  
+| bip_39_word_space_2 | cloth wrap |  
+| bip_39_word_space_3 | cloth wrap will |  
+| bip_39_word_space_4 | cloth wrap will awful |  
+| bip_39_word_space_5 | cloth wrap will awful skull |  
+| bip_39_word_space_6 | cloth wrap will awful skull person |  
+| bip_39_word_space_7 | cloth wrap will awful skull person output |  
+| bip_39_word_space_8 | cloth wrap will awful skull person output upper |  
+| bip_39_word_space_9 | cloth wrap will awful skull person output upper bird |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: punch
+bip_39_word_new_br10: punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative
+bip_39_word_new_br11: punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative<br>yellow
+bip_39_word_new_br12: punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe<br>negative<br>yellow<br>atom
+bip_39_word_new_br2: punch<br>kite
+bip_39_word_new_br3: punch<br>kite<br>level
+bip_39_word_new_br4: punch<br>kite<br>level<br>aware
+bip_39_word_new_br5: punch<br>kite<br>level<br>aware<br>setup
+bip_39_word_new_br6: punch<br>kite<br>level<br>aware<br>setup<br>sentence
+bip_39_word_new_br7: punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way
+bip_39_word_new_br8: punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart
+bip_39_word_new_br9: punch<br>kite<br>level<br>aware<br>setup<br>sentence<br>way<br>smart<br>believe
+bip_39_word_new_line1: punch
+bip_39_word_new_line10: 'punch
+
+  kite
+
+  level
+
+  aware
+
+  setup
+
+  sentence
+
+  way
+
+  smart
+
+  believe
+
+  negative'
+bip_39_word_new_line11: 'punch
+
+  kite
+
+  level
+
+  aware
+
+  setup
+
+  sentence
+
+  way
+
+  smart
+
+  believe
+
+  negative
+
+  yellow'
+bip_39_word_new_line12: 'punch
+
+  kite
+
+  level
+
+  aware
+
+  setup
+
+  sentence
+
+  way
+
+  smart
+
+  believe
+
+  negative
+
+  yellow
+
+  atom'
+bip_39_word_new_line2: 'punch
+
+  kite'
+bip_39_word_new_line3: 'punch
+
+  kite
+
+  level'
+bip_39_word_new_line4: 'punch
+
+  kite
+
+  level
+
+  aware'
+bip_39_word_new_line5: 'punch
+
+  kite
+
+  level
+
+  aware
+
+  setup'
+bip_39_word_new_line6: 'punch
+
+  kite
+
+  level
+
+  aware
+
+  setup
+
+  sentence'
+bip_39_word_new_line7: 'punch
+
+  kite
+
+  level
+
+  aware
+
+  setup
+
+  sentence
+
+  way'
+bip_39_word_new_line8: 'punch
+
+  kite
+
+  level
+
+  aware
+
+  setup
+
+  sentence
+
+  way
+
+  smart'
+bip_39_word_new_line9: 'punch
+
+  kite
+
+  level
+
+  aware
+
+  setup
+
+  sentence
+
+  way
+
+  smart
+
+  believe'
+bip_39_word_space_0:
+- punch
+- kite
+- level
+- aware
+- setup
+- sentence
+- way
+- smart
+- believe
+- negative
+- yellow
+- atom
+bip_39_word_space_1: punch
+bip_39_word_space_10: punch kite level aware setup sentence way smart believe negative
+bip_39_word_space_11: punch kite level aware setup sentence way smart believe negative
+  yellow
+bip_39_word_space_12: punch kite level aware setup sentence way smart believe negative
+  yellow atom
+bip_39_word_space_2: punch kite
+bip_39_word_space_3: punch kite level
+bip_39_word_space_4: punch kite level aware
+bip_39_word_space_5: punch kite level aware setup
+bip_39_word_space_6: punch kite level aware setup sentence
+bip_39_word_space_7: punch kite level aware setup sentence way
+bip_39_word_space_8: punch kite level aware setup sentence way smart
+bip_39_word_space_9: punch kite level aware setup sentence way smart believe
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: action
+bip_39_word_new_br10: action<br>diamond<br>mom<br>often<br>purchase<br>oven<br>desert<br>immune<br>lounge<br>turkey
+bip_39_word_new_br11: action<br>diamond<br>mom<br>often<br>purchase<br>oven<br>desert<br>immune<br>lounge<br>turkey<br>afraid
+bip_39_word_new_br12: action<br>diamond<br>mom<br>often<br>purchase<br>oven<br>desert<br>immune<br>lounge<br>turkey<br>afraid<br>announce
+bip_39_word_new_br2: action<br>diamond
+bip_39_word_new_br3: action<br>diamond<br>mom
+bip_39_word_new_br4: action<br>diamond<br>mom<br>often
+bip_39_word_new_br5: action<br>diamond<br>mom<br>often<br>purchase
+bip_39_word_new_br6: action<br>diamond<br>mom<br>often<br>purchase<br>oven
+bip_39_word_new_br7: action<br>diamond<br>mom<br>often<br>purchase<br>oven<br>desert
+bip_39_word_new_br8: action<br>diamond<br>mom<br>often<br>purchase<br>oven<br>desert<br>immune
+bip_39_word_new_br9: action<br>diamond<br>mom<br>often<br>purchase<br>oven<br>desert<br>immune<br>lounge
+bip_39_word_new_line1: action
+bip_39_word_new_line10: 'action
+
+  diamond
+
+  mom
+
+  often
+
+  purchase
+
+  oven
+
+  desert
+
+  immune
+
+  lounge
+
+  turkey'
+bip_39_word_new_line11: 'action
+
+  diamond
+
+  mom
+
+  often
+
+  purchase
+
+  oven
+
+  desert
+
+  immune
+
+  lounge
+
+  turkey
+
+  afraid'
+bip_39_word_new_line12: 'action
+
+  diamond
+
+  mom
+
+  often
+
+  purchase
+
+  oven
+
+  desert
+
+  immune
+
+  lounge
+
+  turkey
+
+  afraid
+
+  announce'
+bip_39_word_new_line2: 'action
+
+  diamond'
+bip_39_word_new_line3: 'action
+
+  diamond
+
+  mom'
+bip_39_word_new_line4: 'action
+
+  diamond
+
+  mom
+
+  often'
+bip_39_word_new_line5: 'action
+
+  diamond
+
+  mom
+
+  often
+
+  purchase'
+bip_39_word_new_line6: 'action
+
+  diamond
+
+  mom
+
+  often
+
+  purchase
+
+  oven'
+bip_39_word_new_line7: 'action
+
+  diamond
+
+  mom
+
+  often
+
+  purchase
+
+  oven
+
+  desert'
+bip_39_word_new_line8: 'action
+
+  diamond
+
+  mom
+
+  often
+
+  purchase
+
+  oven
+
+  desert
+
+  immune'
+bip_39_word_new_line9: 'action
+
+  diamond
+
+  mom
+
+  often
+
+  purchase
+
+  oven
+
+  desert
+
+  immune
+
+  lounge'
+bip_39_word_space_0:
+- action
+- diamond
+- mom
+- often
+- purchase
+- oven
+- desert
+- immune
+- lounge
+- turkey
+- afraid
+- announce
+bip_39_word_space_1: action
+bip_39_word_space_10: action diamond mom often purchase oven desert immune lounge
+  turkey
+bip_39_word_space_11: action diamond mom often purchase oven desert immune lounge
+  turkey afraid
+bip_39_word_space_12: action diamond mom often purchase oven desert immune lounge
+  turkey afraid announce
+bip_39_word_space_2: action diamond
+bip_39_word_space_3: action diamond mom
+bip_39_word_space_4: action diamond mom often
+bip_39_word_space_5: action diamond mom often purchase
+bip_39_word_space_6: action diamond mom often purchase oven
+bip_39_word_space_7: action diamond mom often purchase oven desert
+bip_39_word_space_8: action diamond mom often purchase oven desert immune
+bip_39_word_space_9: action diamond mom often purchase oven desert immune lounge
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

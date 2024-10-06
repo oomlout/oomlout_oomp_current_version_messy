@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: solve age
+  * bip 39 word 3: solve age husband
+  * bip 39 word: solve age husband hope blossom observe success bird empower step fan art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | solve |  
+| bip_39_word_new_br10 | solve<br>age<br>husband<br>hope<br>blossom<br>observe<br>success<br>bird<br>empower<br>step |  
+| bip_39_word_new_br11 | solve<br>age<br>husband<br>hope<br>blossom<br>observe<br>success<br>bird<br>empower<br>step<br>fan |  
+| bip_39_word_new_br12 | solve<br>age<br>husband<br>hope<br>blossom<br>observe<br>success<br>bird<br>empower<br>step<br>fan<br>art |  
+| bip_39_word_new_br2 | solve<br>age |  
+| bip_39_word_new_br3 | solve<br>age<br>husband |  
+| bip_39_word_new_br4 | solve<br>age<br>husband<br>hope |  
+| bip_39_word_new_br5 | solve<br>age<br>husband<br>hope<br>blossom |  
+| bip_39_word_new_br6 | solve<br>age<br>husband<br>hope<br>blossom<br>observe |  
+| bip_39_word_new_br7 | solve<br>age<br>husband<br>hope<br>blossom<br>observe<br>success |  
+| bip_39_word_new_br8 | solve<br>age<br>husband<br>hope<br>blossom<br>observe<br>success<br>bird |  
+| bip_39_word_new_br9 | solve<br>age<br>husband<br>hope<br>blossom<br>observe<br>success<br>bird<br>empower |  
+| bip_39_word_new_line1 | solve |  
+| bip_39_word_new_line10 | solve
+age
+husband
+hope
+blossom
+observe
+success
+bird
+empower
+step |  
+| bip_39_word_new_line11 | solve
+age
+husband
+hope
+blossom
+observe
+success
+bird
+empower
+step
+fan |  
+| bip_39_word_new_line12 | solve
+age
+husband
+hope
+blossom
+observe
+success
+bird
+empower
+step
+fan
+art |  
+| bip_39_word_new_line2 | solve
+age |  
+| bip_39_word_new_line3 | solve
+age
+husband |  
+| bip_39_word_new_line4 | solve
+age
+husband
+hope |  
+| bip_39_word_new_line5 | solve
+age
+husband
+hope
+blossom |  
+| bip_39_word_new_line6 | solve
+age
+husband
+hope
+blossom
+observe |  
+| bip_39_word_new_line7 | solve
+age
+husband
+hope
+blossom
+observe
+success |  
+| bip_39_word_new_line8 | solve
+age
+husband
+hope
+blossom
+observe
+success
+bird |  
+| bip_39_word_new_line9 | solve
+age
+husband
+hope
+blossom
+observe
+success
+bird
+empower |  
+| bip_39_word_space_0 | ['solve', 'age', 'husband', 'hope', 'blossom', 'observe', 'success', 'bird', 'empower', 'step', 'fan', 'art'] |  
+| bip_39_word_space_1 | solve |  
+| bip_39_word_space_10 | solve age husband hope blossom observe success bird empower step |  
+| bip_39_word_space_11 | solve age husband hope blossom observe success bird empower step fan |  
+| bip_39_word_space_12 | solve age husband hope blossom observe success bird empower step fan art |  
+| bip_39_word_space_2 | solve age |  
+| bip_39_word_space_3 | solve age husband |  
+| bip_39_word_space_4 | solve age husband hope |  
+| bip_39_word_space_5 | solve age husband hope blossom |  
+| bip_39_word_space_6 | solve age husband hope blossom observe |  
+| bip_39_word_space_7 | solve age husband hope blossom observe success |  
+| bip_39_word_space_8 | solve age husband hope blossom observe success bird |  
+| bip_39_word_space_9 | solve age husband hope blossom observe success bird empower |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

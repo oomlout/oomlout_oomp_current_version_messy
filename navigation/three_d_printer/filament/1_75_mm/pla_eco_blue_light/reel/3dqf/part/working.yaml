@@ -1,3 +1,185 @@
+bip_39_word_new_br1: aisle
+bip_39_word_new_br10: aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty
+bip_39_word_new_br11: aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe
+bip_39_word_new_br12: aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe<br>alley
+bip_39_word_new_br2: aisle<br>treat
+bip_39_word_new_br3: aisle<br>treat<br>potato
+bip_39_word_new_br4: aisle<br>treat<br>potato<br>enter
+bip_39_word_new_br5: aisle<br>treat<br>potato<br>enter<br>this
+bip_39_word_new_br6: aisle<br>treat<br>potato<br>enter<br>this<br>key
+bip_39_word_new_br7: aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three
+bip_39_word_new_br8: aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed
+bip_39_word_new_br9: aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question
+bip_39_word_new_line1: aisle
+bip_39_word_new_line10: 'aisle
+
+  treat
+
+  potato
+
+  enter
+
+  this
+
+  key
+
+  three
+
+  shed
+
+  question
+
+  duty'
+bip_39_word_new_line11: 'aisle
+
+  treat
+
+  potato
+
+  enter
+
+  this
+
+  key
+
+  three
+
+  shed
+
+  question
+
+  duty
+
+  safe'
+bip_39_word_new_line12: 'aisle
+
+  treat
+
+  potato
+
+  enter
+
+  this
+
+  key
+
+  three
+
+  shed
+
+  question
+
+  duty
+
+  safe
+
+  alley'
+bip_39_word_new_line2: 'aisle
+
+  treat'
+bip_39_word_new_line3: 'aisle
+
+  treat
+
+  potato'
+bip_39_word_new_line4: 'aisle
+
+  treat
+
+  potato
+
+  enter'
+bip_39_word_new_line5: 'aisle
+
+  treat
+
+  potato
+
+  enter
+
+  this'
+bip_39_word_new_line6: 'aisle
+
+  treat
+
+  potato
+
+  enter
+
+  this
+
+  key'
+bip_39_word_new_line7: 'aisle
+
+  treat
+
+  potato
+
+  enter
+
+  this
+
+  key
+
+  three'
+bip_39_word_new_line8: 'aisle
+
+  treat
+
+  potato
+
+  enter
+
+  this
+
+  key
+
+  three
+
+  shed'
+bip_39_word_new_line9: 'aisle
+
+  treat
+
+  potato
+
+  enter
+
+  this
+
+  key
+
+  three
+
+  shed
+
+  question'
+bip_39_word_space_0:
+- aisle
+- treat
+- potato
+- enter
+- this
+- key
+- three
+- shed
+- question
+- duty
+- safe
+- alley
+bip_39_word_space_1: aisle
+bip_39_word_space_10: aisle treat potato enter this key three shed question duty
+bip_39_word_space_11: aisle treat potato enter this key three shed question duty safe
+bip_39_word_space_12: aisle treat potato enter this key three shed question duty safe
+  alley
+bip_39_word_space_2: aisle treat
+bip_39_word_space_3: aisle treat potato
+bip_39_word_space_4: aisle treat potato enter
+bip_39_word_space_5: aisle treat potato enter this
+bip_39_word_space_6: aisle treat potato enter this key
+bip_39_word_space_7: aisle treat potato enter this key three
+bip_39_word_space_8: aisle treat potato enter this key three shed
+bip_39_word_space_9: aisle treat potato enter this key three shed question
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

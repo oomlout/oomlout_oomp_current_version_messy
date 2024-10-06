@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bird fit
+  * bip 39 word 3: bird fit leaf
+  * bip 39 word: bird fit leaf fatal sniff hidden mixture keep lazy target unknown adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bird |  
+| bip_39_word_new_br10 | bird<br>fit<br>leaf<br>fatal<br>sniff<br>hidden<br>mixture<br>keep<br>lazy<br>target |  
+| bip_39_word_new_br11 | bird<br>fit<br>leaf<br>fatal<br>sniff<br>hidden<br>mixture<br>keep<br>lazy<br>target<br>unknown |  
+| bip_39_word_new_br12 | bird<br>fit<br>leaf<br>fatal<br>sniff<br>hidden<br>mixture<br>keep<br>lazy<br>target<br>unknown<br>adult |  
+| bip_39_word_new_br2 | bird<br>fit |  
+| bip_39_word_new_br3 | bird<br>fit<br>leaf |  
+| bip_39_word_new_br4 | bird<br>fit<br>leaf<br>fatal |  
+| bip_39_word_new_br5 | bird<br>fit<br>leaf<br>fatal<br>sniff |  
+| bip_39_word_new_br6 | bird<br>fit<br>leaf<br>fatal<br>sniff<br>hidden |  
+| bip_39_word_new_br7 | bird<br>fit<br>leaf<br>fatal<br>sniff<br>hidden<br>mixture |  
+| bip_39_word_new_br8 | bird<br>fit<br>leaf<br>fatal<br>sniff<br>hidden<br>mixture<br>keep |  
+| bip_39_word_new_br9 | bird<br>fit<br>leaf<br>fatal<br>sniff<br>hidden<br>mixture<br>keep<br>lazy |  
+| bip_39_word_new_line1 | bird |  
+| bip_39_word_new_line10 | bird
+fit
+leaf
+fatal
+sniff
+hidden
+mixture
+keep
+lazy
+target |  
+| bip_39_word_new_line11 | bird
+fit
+leaf
+fatal
+sniff
+hidden
+mixture
+keep
+lazy
+target
+unknown |  
+| bip_39_word_new_line12 | bird
+fit
+leaf
+fatal
+sniff
+hidden
+mixture
+keep
+lazy
+target
+unknown
+adult |  
+| bip_39_word_new_line2 | bird
+fit |  
+| bip_39_word_new_line3 | bird
+fit
+leaf |  
+| bip_39_word_new_line4 | bird
+fit
+leaf
+fatal |  
+| bip_39_word_new_line5 | bird
+fit
+leaf
+fatal
+sniff |  
+| bip_39_word_new_line6 | bird
+fit
+leaf
+fatal
+sniff
+hidden |  
+| bip_39_word_new_line7 | bird
+fit
+leaf
+fatal
+sniff
+hidden
+mixture |  
+| bip_39_word_new_line8 | bird
+fit
+leaf
+fatal
+sniff
+hidden
+mixture
+keep |  
+| bip_39_word_new_line9 | bird
+fit
+leaf
+fatal
+sniff
+hidden
+mixture
+keep
+lazy |  
+| bip_39_word_space_0 | ['bird', 'fit', 'leaf', 'fatal', 'sniff', 'hidden', 'mixture', 'keep', 'lazy', 'target', 'unknown', 'adult'] |  
+| bip_39_word_space_1 | bird |  
+| bip_39_word_space_10 | bird fit leaf fatal sniff hidden mixture keep lazy target |  
+| bip_39_word_space_11 | bird fit leaf fatal sniff hidden mixture keep lazy target unknown |  
+| bip_39_word_space_12 | bird fit leaf fatal sniff hidden mixture keep lazy target unknown adult |  
+| bip_39_word_space_2 | bird fit |  
+| bip_39_word_space_3 | bird fit leaf |  
+| bip_39_word_space_4 | bird fit leaf fatal |  
+| bip_39_word_space_5 | bird fit leaf fatal sniff |  
+| bip_39_word_space_6 | bird fit leaf fatal sniff hidden |  
+| bip_39_word_space_7 | bird fit leaf fatal sniff hidden mixture |  
+| bip_39_word_space_8 | bird fit leaf fatal sniff hidden mixture keep |  
+| bip_39_word_space_9 | bird fit leaf fatal sniff hidden mixture keep lazy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

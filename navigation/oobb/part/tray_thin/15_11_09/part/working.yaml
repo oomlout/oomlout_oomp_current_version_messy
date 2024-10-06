@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ordinary
+bip_39_word_new_br10: ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual
+bip_39_word_new_br11: ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual<br>hazard
+bip_39_word_new_br12: ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print<br>unusual<br>hazard<br>attract
+bip_39_word_new_br2: ordinary<br>pet
+bip_39_word_new_br3: ordinary<br>pet<br>list
+bip_39_word_new_br4: ordinary<br>pet<br>list<br>snake
+bip_39_word_new_br5: ordinary<br>pet<br>list<br>snake<br>hedgehog
+bip_39_word_new_br6: ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty
+bip_39_word_new_br7: ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy
+bip_39_word_new_br8: ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass
+bip_39_word_new_br9: ordinary<br>pet<br>list<br>snake<br>hedgehog<br>nasty<br>shy<br>glass<br>print
+bip_39_word_new_line1: ordinary
+bip_39_word_new_line10: 'ordinary
+
+  pet
+
+  list
+
+  snake
+
+  hedgehog
+
+  nasty
+
+  shy
+
+  glass
+
+  print
+
+  unusual'
+bip_39_word_new_line11: 'ordinary
+
+  pet
+
+  list
+
+  snake
+
+  hedgehog
+
+  nasty
+
+  shy
+
+  glass
+
+  print
+
+  unusual
+
+  hazard'
+bip_39_word_new_line12: 'ordinary
+
+  pet
+
+  list
+
+  snake
+
+  hedgehog
+
+  nasty
+
+  shy
+
+  glass
+
+  print
+
+  unusual
+
+  hazard
+
+  attract'
+bip_39_word_new_line2: 'ordinary
+
+  pet'
+bip_39_word_new_line3: 'ordinary
+
+  pet
+
+  list'
+bip_39_word_new_line4: 'ordinary
+
+  pet
+
+  list
+
+  snake'
+bip_39_word_new_line5: 'ordinary
+
+  pet
+
+  list
+
+  snake
+
+  hedgehog'
+bip_39_word_new_line6: 'ordinary
+
+  pet
+
+  list
+
+  snake
+
+  hedgehog
+
+  nasty'
+bip_39_word_new_line7: 'ordinary
+
+  pet
+
+  list
+
+  snake
+
+  hedgehog
+
+  nasty
+
+  shy'
+bip_39_word_new_line8: 'ordinary
+
+  pet
+
+  list
+
+  snake
+
+  hedgehog
+
+  nasty
+
+  shy
+
+  glass'
+bip_39_word_new_line9: 'ordinary
+
+  pet
+
+  list
+
+  snake
+
+  hedgehog
+
+  nasty
+
+  shy
+
+  glass
+
+  print'
+bip_39_word_space_0:
+- ordinary
+- pet
+- list
+- snake
+- hedgehog
+- nasty
+- shy
+- glass
+- print
+- unusual
+- hazard
+- attract
+bip_39_word_space_1: ordinary
+bip_39_word_space_10: ordinary pet list snake hedgehog nasty shy glass print unusual
+bip_39_word_space_11: ordinary pet list snake hedgehog nasty shy glass print unusual
+  hazard
+bip_39_word_space_12: ordinary pet list snake hedgehog nasty shy glass print unusual
+  hazard attract
+bip_39_word_space_2: ordinary pet
+bip_39_word_space_3: ordinary pet list
+bip_39_word_space_4: ordinary pet list snake
+bip_39_word_space_5: ordinary pet list snake hedgehog
+bip_39_word_space_6: ordinary pet list snake hedgehog nasty
+bip_39_word_space_7: ordinary pet list snake hedgehog nasty shy
+bip_39_word_space_8: ordinary pet list snake hedgehog nasty shy glass
+bip_39_word_space_9: ordinary pet list snake hedgehog nasty shy glass print
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

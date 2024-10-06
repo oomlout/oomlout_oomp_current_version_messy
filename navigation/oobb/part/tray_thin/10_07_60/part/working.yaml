@@ -1,3 +1,186 @@
+bip_39_word_new_br1: proof
+bip_39_word_new_br10: proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor
+bip_39_word_new_br11: proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor<br>alcohol
+bip_39_word_new_br12: proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great<br>bachelor<br>alcohol<br>average
+bip_39_word_new_br2: proof<br>blue
+bip_39_word_new_br3: proof<br>blue<br>come
+bip_39_word_new_br4: proof<br>blue<br>come<br>material
+bip_39_word_new_br5: proof<br>blue<br>come<br>material<br>still
+bip_39_word_new_br6: proof<br>blue<br>come<br>material<br>still<br>kitchen
+bip_39_word_new_br7: proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow
+bip_39_word_new_br8: proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate
+bip_39_word_new_br9: proof<br>blue<br>come<br>material<br>still<br>kitchen<br>snow<br>debate<br>great
+bip_39_word_new_line1: proof
+bip_39_word_new_line10: 'proof
+
+  blue
+
+  come
+
+  material
+
+  still
+
+  kitchen
+
+  snow
+
+  debate
+
+  great
+
+  bachelor'
+bip_39_word_new_line11: 'proof
+
+  blue
+
+  come
+
+  material
+
+  still
+
+  kitchen
+
+  snow
+
+  debate
+
+  great
+
+  bachelor
+
+  alcohol'
+bip_39_word_new_line12: 'proof
+
+  blue
+
+  come
+
+  material
+
+  still
+
+  kitchen
+
+  snow
+
+  debate
+
+  great
+
+  bachelor
+
+  alcohol
+
+  average'
+bip_39_word_new_line2: 'proof
+
+  blue'
+bip_39_word_new_line3: 'proof
+
+  blue
+
+  come'
+bip_39_word_new_line4: 'proof
+
+  blue
+
+  come
+
+  material'
+bip_39_word_new_line5: 'proof
+
+  blue
+
+  come
+
+  material
+
+  still'
+bip_39_word_new_line6: 'proof
+
+  blue
+
+  come
+
+  material
+
+  still
+
+  kitchen'
+bip_39_word_new_line7: 'proof
+
+  blue
+
+  come
+
+  material
+
+  still
+
+  kitchen
+
+  snow'
+bip_39_word_new_line8: 'proof
+
+  blue
+
+  come
+
+  material
+
+  still
+
+  kitchen
+
+  snow
+
+  debate'
+bip_39_word_new_line9: 'proof
+
+  blue
+
+  come
+
+  material
+
+  still
+
+  kitchen
+
+  snow
+
+  debate
+
+  great'
+bip_39_word_space_0:
+- proof
+- blue
+- come
+- material
+- still
+- kitchen
+- snow
+- debate
+- great
+- bachelor
+- alcohol
+- average
+bip_39_word_space_1: proof
+bip_39_word_space_10: proof blue come material still kitchen snow debate great bachelor
+bip_39_word_space_11: proof blue come material still kitchen snow debate great bachelor
+  alcohol
+bip_39_word_space_12: proof blue come material still kitchen snow debate great bachelor
+  alcohol average
+bip_39_word_space_2: proof blue
+bip_39_word_space_3: proof blue come
+bip_39_word_space_4: proof blue come material
+bip_39_word_space_5: proof blue come material still
+bip_39_word_space_6: proof blue come material still kitchen
+bip_39_word_space_7: proof blue come material still kitchen snow
+bip_39_word_space_8: proof blue come material still kitchen snow debate
+bip_39_word_space_9: proof blue come material still kitchen snow debate great
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

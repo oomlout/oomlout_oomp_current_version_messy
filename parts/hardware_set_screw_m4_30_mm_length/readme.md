@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: label wisdom
+  * bip 39 word 3: label wisdom globe
+  * bip 39 word: label wisdom globe urge ritual arm topic memory review boat south answer
 
 ### other_codes
 * short_code: ss4m30
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | label |  
+| bip_39_word_new_br10 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review<br>boat |  
+| bip_39_word_new_br11 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review<br>boat<br>south |  
+| bip_39_word_new_br12 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review<br>boat<br>south<br>answer |  
+| bip_39_word_new_br2 | label<br>wisdom |  
+| bip_39_word_new_br3 | label<br>wisdom<br>globe |  
+| bip_39_word_new_br4 | label<br>wisdom<br>globe<br>urge |  
+| bip_39_word_new_br5 | label<br>wisdom<br>globe<br>urge<br>ritual |  
+| bip_39_word_new_br6 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm |  
+| bip_39_word_new_br7 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic |  
+| bip_39_word_new_br8 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory |  
+| bip_39_word_new_br9 | label<br>wisdom<br>globe<br>urge<br>ritual<br>arm<br>topic<br>memory<br>review |  
+| bip_39_word_new_line1 | label |  
+| bip_39_word_new_line10 | label
+wisdom
+globe
+urge
+ritual
+arm
+topic
+memory
+review
+boat |  
+| bip_39_word_new_line11 | label
+wisdom
+globe
+urge
+ritual
+arm
+topic
+memory
+review
+boat
+south |  
+| bip_39_word_new_line12 | label
+wisdom
+globe
+urge
+ritual
+arm
+topic
+memory
+review
+boat
+south
+answer |  
+| bip_39_word_new_line2 | label
+wisdom |  
+| bip_39_word_new_line3 | label
+wisdom
+globe |  
+| bip_39_word_new_line4 | label
+wisdom
+globe
+urge |  
+| bip_39_word_new_line5 | label
+wisdom
+globe
+urge
+ritual |  
+| bip_39_word_new_line6 | label
+wisdom
+globe
+urge
+ritual
+arm |  
+| bip_39_word_new_line7 | label
+wisdom
+globe
+urge
+ritual
+arm
+topic |  
+| bip_39_word_new_line8 | label
+wisdom
+globe
+urge
+ritual
+arm
+topic
+memory |  
+| bip_39_word_new_line9 | label
+wisdom
+globe
+urge
+ritual
+arm
+topic
+memory
+review |  
+| bip_39_word_space_0 | ['label', 'wisdom', 'globe', 'urge', 'ritual', 'arm', 'topic', 'memory', 'review', 'boat', 'south', 'answer'] |  
+| bip_39_word_space_1 | label |  
+| bip_39_word_space_10 | label wisdom globe urge ritual arm topic memory review boat |  
+| bip_39_word_space_11 | label wisdom globe urge ritual arm topic memory review boat south |  
+| bip_39_word_space_12 | label wisdom globe urge ritual arm topic memory review boat south answer |  
+| bip_39_word_space_2 | label wisdom |  
+| bip_39_word_space_3 | label wisdom globe |  
+| bip_39_word_space_4 | label wisdom globe urge |  
+| bip_39_word_space_5 | label wisdom globe urge ritual |  
+| bip_39_word_space_6 | label wisdom globe urge ritual arm |  
+| bip_39_word_space_7 | label wisdom globe urge ritual arm topic |  
+| bip_39_word_space_8 | label wisdom globe urge ritual arm topic memory |  
+| bip_39_word_space_9 | label wisdom globe urge ritual arm topic memory review |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

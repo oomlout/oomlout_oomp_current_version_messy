@@ -1,3 +1,187 @@
+bip_39_word_new_br1: conduct
+bip_39_word_new_br10: conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow<br>upper<br>canvas<br>aware<br>mango
+bip_39_word_new_br11: conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow<br>upper<br>canvas<br>aware<br>mango<br>engage
+bip_39_word_new_br12: conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow<br>upper<br>canvas<br>aware<br>mango<br>engage<br>ability
+bip_39_word_new_br2: conduct<br>turn
+bip_39_word_new_br3: conduct<br>turn<br>prepare
+bip_39_word_new_br4: conduct<br>turn<br>prepare<br>unfair
+bip_39_word_new_br5: conduct<br>turn<br>prepare<br>unfair<br>churn
+bip_39_word_new_br6: conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow
+bip_39_word_new_br7: conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow<br>upper
+bip_39_word_new_br8: conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow<br>upper<br>canvas
+bip_39_word_new_br9: conduct<br>turn<br>prepare<br>unfair<br>churn<br>yellow<br>upper<br>canvas<br>aware
+bip_39_word_new_line1: conduct
+bip_39_word_new_line10: 'conduct
+
+  turn
+
+  prepare
+
+  unfair
+
+  churn
+
+  yellow
+
+  upper
+
+  canvas
+
+  aware
+
+  mango'
+bip_39_word_new_line11: 'conduct
+
+  turn
+
+  prepare
+
+  unfair
+
+  churn
+
+  yellow
+
+  upper
+
+  canvas
+
+  aware
+
+  mango
+
+  engage'
+bip_39_word_new_line12: 'conduct
+
+  turn
+
+  prepare
+
+  unfair
+
+  churn
+
+  yellow
+
+  upper
+
+  canvas
+
+  aware
+
+  mango
+
+  engage
+
+  ability'
+bip_39_word_new_line2: 'conduct
+
+  turn'
+bip_39_word_new_line3: 'conduct
+
+  turn
+
+  prepare'
+bip_39_word_new_line4: 'conduct
+
+  turn
+
+  prepare
+
+  unfair'
+bip_39_word_new_line5: 'conduct
+
+  turn
+
+  prepare
+
+  unfair
+
+  churn'
+bip_39_word_new_line6: 'conduct
+
+  turn
+
+  prepare
+
+  unfair
+
+  churn
+
+  yellow'
+bip_39_word_new_line7: 'conduct
+
+  turn
+
+  prepare
+
+  unfair
+
+  churn
+
+  yellow
+
+  upper'
+bip_39_word_new_line8: 'conduct
+
+  turn
+
+  prepare
+
+  unfair
+
+  churn
+
+  yellow
+
+  upper
+
+  canvas'
+bip_39_word_new_line9: 'conduct
+
+  turn
+
+  prepare
+
+  unfair
+
+  churn
+
+  yellow
+
+  upper
+
+  canvas
+
+  aware'
+bip_39_word_space_0:
+- conduct
+- turn
+- prepare
+- unfair
+- churn
+- yellow
+- upper
+- canvas
+- aware
+- mango
+- engage
+- ability
+bip_39_word_space_1: conduct
+bip_39_word_space_10: conduct turn prepare unfair churn yellow upper canvas aware
+  mango
+bip_39_word_space_11: conduct turn prepare unfair churn yellow upper canvas aware
+  mango engage
+bip_39_word_space_12: conduct turn prepare unfair churn yellow upper canvas aware
+  mango engage ability
+bip_39_word_space_2: conduct turn
+bip_39_word_space_3: conduct turn prepare
+bip_39_word_space_4: conduct turn prepare unfair
+bip_39_word_space_5: conduct turn prepare unfair churn
+bip_39_word_space_6: conduct turn prepare unfair churn yellow
+bip_39_word_space_7: conduct turn prepare unfair churn yellow upper
+bip_39_word_space_8: conduct turn prepare unfair churn yellow upper canvas
+bip_39_word_space_9: conduct turn prepare unfair churn yellow upper canvas aware
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

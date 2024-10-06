@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lab
+bip_39_word_new_br10: lab<br>point<br>saddle<br>profit<br>whip<br>attract<br>hurry<br>network<br>bargain<br>liberty
+bip_39_word_new_br11: lab<br>point<br>saddle<br>profit<br>whip<br>attract<br>hurry<br>network<br>bargain<br>liberty<br>wagon
+bip_39_word_new_br12: lab<br>point<br>saddle<br>profit<br>whip<br>attract<br>hurry<br>network<br>bargain<br>liberty<br>wagon<br>area
+bip_39_word_new_br2: lab<br>point
+bip_39_word_new_br3: lab<br>point<br>saddle
+bip_39_word_new_br4: lab<br>point<br>saddle<br>profit
+bip_39_word_new_br5: lab<br>point<br>saddle<br>profit<br>whip
+bip_39_word_new_br6: lab<br>point<br>saddle<br>profit<br>whip<br>attract
+bip_39_word_new_br7: lab<br>point<br>saddle<br>profit<br>whip<br>attract<br>hurry
+bip_39_word_new_br8: lab<br>point<br>saddle<br>profit<br>whip<br>attract<br>hurry<br>network
+bip_39_word_new_br9: lab<br>point<br>saddle<br>profit<br>whip<br>attract<br>hurry<br>network<br>bargain
+bip_39_word_new_line1: lab
+bip_39_word_new_line10: 'lab
+
+  point
+
+  saddle
+
+  profit
+
+  whip
+
+  attract
+
+  hurry
+
+  network
+
+  bargain
+
+  liberty'
+bip_39_word_new_line11: 'lab
+
+  point
+
+  saddle
+
+  profit
+
+  whip
+
+  attract
+
+  hurry
+
+  network
+
+  bargain
+
+  liberty
+
+  wagon'
+bip_39_word_new_line12: 'lab
+
+  point
+
+  saddle
+
+  profit
+
+  whip
+
+  attract
+
+  hurry
+
+  network
+
+  bargain
+
+  liberty
+
+  wagon
+
+  area'
+bip_39_word_new_line2: 'lab
+
+  point'
+bip_39_word_new_line3: 'lab
+
+  point
+
+  saddle'
+bip_39_word_new_line4: 'lab
+
+  point
+
+  saddle
+
+  profit'
+bip_39_word_new_line5: 'lab
+
+  point
+
+  saddle
+
+  profit
+
+  whip'
+bip_39_word_new_line6: 'lab
+
+  point
+
+  saddle
+
+  profit
+
+  whip
+
+  attract'
+bip_39_word_new_line7: 'lab
+
+  point
+
+  saddle
+
+  profit
+
+  whip
+
+  attract
+
+  hurry'
+bip_39_word_new_line8: 'lab
+
+  point
+
+  saddle
+
+  profit
+
+  whip
+
+  attract
+
+  hurry
+
+  network'
+bip_39_word_new_line9: 'lab
+
+  point
+
+  saddle
+
+  profit
+
+  whip
+
+  attract
+
+  hurry
+
+  network
+
+  bargain'
+bip_39_word_space_0:
+- lab
+- point
+- saddle
+- profit
+- whip
+- attract
+- hurry
+- network
+- bargain
+- liberty
+- wagon
+- area
+bip_39_word_space_1: lab
+bip_39_word_space_10: lab point saddle profit whip attract hurry network bargain liberty
+bip_39_word_space_11: lab point saddle profit whip attract hurry network bargain liberty
+  wagon
+bip_39_word_space_12: lab point saddle profit whip attract hurry network bargain liberty
+  wagon area
+bip_39_word_space_2: lab point
+bip_39_word_space_3: lab point saddle
+bip_39_word_space_4: lab point saddle profit
+bip_39_word_space_5: lab point saddle profit whip
+bip_39_word_space_6: lab point saddle profit whip attract
+bip_39_word_space_7: lab point saddle profit whip attract hurry
+bip_39_word_space_8: lab point saddle profit whip attract hurry network
+bip_39_word_space_9: lab point saddle profit whip attract hurry network bargain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: involve until
+  * bip 39 word 3: involve until double
+  * bip 39 word: involve until double charge area shadow control maximum neither various exact advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | involve |  
+| bip_39_word_new_br10 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various |  
+| bip_39_word_new_br11 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various<br>exact |  
+| bip_39_word_new_br12 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither<br>various<br>exact<br>advice |  
+| bip_39_word_new_br2 | involve<br>until |  
+| bip_39_word_new_br3 | involve<br>until<br>double |  
+| bip_39_word_new_br4 | involve<br>until<br>double<br>charge |  
+| bip_39_word_new_br5 | involve<br>until<br>double<br>charge<br>area |  
+| bip_39_word_new_br6 | involve<br>until<br>double<br>charge<br>area<br>shadow |  
+| bip_39_word_new_br7 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control |  
+| bip_39_word_new_br8 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum |  
+| bip_39_word_new_br9 | involve<br>until<br>double<br>charge<br>area<br>shadow<br>control<br>maximum<br>neither |  
+| bip_39_word_new_line1 | involve |  
+| bip_39_word_new_line10 | involve
+until
+double
+charge
+area
+shadow
+control
+maximum
+neither
+various |  
+| bip_39_word_new_line11 | involve
+until
+double
+charge
+area
+shadow
+control
+maximum
+neither
+various
+exact |  
+| bip_39_word_new_line12 | involve
+until
+double
+charge
+area
+shadow
+control
+maximum
+neither
+various
+exact
+advice |  
+| bip_39_word_new_line2 | involve
+until |  
+| bip_39_word_new_line3 | involve
+until
+double |  
+| bip_39_word_new_line4 | involve
+until
+double
+charge |  
+| bip_39_word_new_line5 | involve
+until
+double
+charge
+area |  
+| bip_39_word_new_line6 | involve
+until
+double
+charge
+area
+shadow |  
+| bip_39_word_new_line7 | involve
+until
+double
+charge
+area
+shadow
+control |  
+| bip_39_word_new_line8 | involve
+until
+double
+charge
+area
+shadow
+control
+maximum |  
+| bip_39_word_new_line9 | involve
+until
+double
+charge
+area
+shadow
+control
+maximum
+neither |  
+| bip_39_word_space_0 | ['involve', 'until', 'double', 'charge', 'area', 'shadow', 'control', 'maximum', 'neither', 'various', 'exact', 'advice'] |  
+| bip_39_word_space_1 | involve |  
+| bip_39_word_space_10 | involve until double charge area shadow control maximum neither various |  
+| bip_39_word_space_11 | involve until double charge area shadow control maximum neither various exact |  
+| bip_39_word_space_12 | involve until double charge area shadow control maximum neither various exact advice |  
+| bip_39_word_space_2 | involve until |  
+| bip_39_word_space_3 | involve until double |  
+| bip_39_word_space_4 | involve until double charge |  
+| bip_39_word_space_5 | involve until double charge area |  
+| bip_39_word_space_6 | involve until double charge area shadow |  
+| bip_39_word_space_7 | involve until double charge area shadow control |  
+| bip_39_word_space_8 | involve until double charge area shadow control maximum |  
+| bip_39_word_space_9 | involve until double charge area shadow control maximum neither |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

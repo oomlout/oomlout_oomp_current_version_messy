@@ -1,3 +1,187 @@
+bip_39_word_new_br1: visual
+bip_39_word_new_br10: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top
+bip_39_word_new_br11: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed
+bip_39_word_new_br12: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed<br>apple
+bip_39_word_new_br2: visual<br>tobacco
+bip_39_word_new_br3: visual<br>tobacco<br>journey
+bip_39_word_new_br4: visual<br>tobacco<br>journey<br>outside
+bip_39_word_new_br5: visual<br>tobacco<br>journey<br>outside<br>summer
+bip_39_word_new_br6: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame
+bip_39_word_new_br7: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny
+bip_39_word_new_br8: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth
+bip_39_word_new_br9: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute
+bip_39_word_new_line1: visual
+bip_39_word_new_line10: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth
+
+  salute
+
+  top'
+bip_39_word_new_line11: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth
+
+  salute
+
+  top
+
+  feed'
+bip_39_word_new_line12: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth
+
+  salute
+
+  top
+
+  feed
+
+  apple'
+bip_39_word_new_line2: 'visual
+
+  tobacco'
+bip_39_word_new_line3: 'visual
+
+  tobacco
+
+  journey'
+bip_39_word_new_line4: 'visual
+
+  tobacco
+
+  journey
+
+  outside'
+bip_39_word_new_line5: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer'
+bip_39_word_new_line6: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame'
+bip_39_word_new_line7: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny'
+bip_39_word_new_line8: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth'
+bip_39_word_new_line9: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth
+
+  salute'
+bip_39_word_space_0:
+- visual
+- tobacco
+- journey
+- outside
+- summer
+- flame
+- funny
+- depth
+- salute
+- top
+- feed
+- apple
+bip_39_word_space_1: visual
+bip_39_word_space_10: visual tobacco journey outside summer flame funny depth salute
+  top
+bip_39_word_space_11: visual tobacco journey outside summer flame funny depth salute
+  top feed
+bip_39_word_space_12: visual tobacco journey outside summer flame funny depth salute
+  top feed apple
+bip_39_word_space_2: visual tobacco
+bip_39_word_space_3: visual tobacco journey
+bip_39_word_space_4: visual tobacco journey outside
+bip_39_word_space_5: visual tobacco journey outside summer
+bip_39_word_space_6: visual tobacco journey outside summer flame
+bip_39_word_space_7: visual tobacco journey outside summer flame funny
+bip_39_word_space_8: visual tobacco journey outside summer flame funny depth
+bip_39_word_space_9: visual tobacco journey outside summer flame funny depth salute
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

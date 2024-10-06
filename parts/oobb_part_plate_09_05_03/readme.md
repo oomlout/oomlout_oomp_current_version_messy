@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ginger tumble
+  * bip 39 word 3: ginger tumble onion
+  * bip 39 word: ginger tumble onion learn payment scare flag dice ski size tree across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ginger |  
+| bip_39_word_new_br10 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare<br>flag<br>dice<br>ski<br>size |  
+| bip_39_word_new_br11 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare<br>flag<br>dice<br>ski<br>size<br>tree |  
+| bip_39_word_new_br12 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare<br>flag<br>dice<br>ski<br>size<br>tree<br>across |  
+| bip_39_word_new_br2 | ginger<br>tumble |  
+| bip_39_word_new_br3 | ginger<br>tumble<br>onion |  
+| bip_39_word_new_br4 | ginger<br>tumble<br>onion<br>learn |  
+| bip_39_word_new_br5 | ginger<br>tumble<br>onion<br>learn<br>payment |  
+| bip_39_word_new_br6 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare |  
+| bip_39_word_new_br7 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare<br>flag |  
+| bip_39_word_new_br8 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare<br>flag<br>dice |  
+| bip_39_word_new_br9 | ginger<br>tumble<br>onion<br>learn<br>payment<br>scare<br>flag<br>dice<br>ski |  
+| bip_39_word_new_line1 | ginger |  
+| bip_39_word_new_line10 | ginger
+tumble
+onion
+learn
+payment
+scare
+flag
+dice
+ski
+size |  
+| bip_39_word_new_line11 | ginger
+tumble
+onion
+learn
+payment
+scare
+flag
+dice
+ski
+size
+tree |  
+| bip_39_word_new_line12 | ginger
+tumble
+onion
+learn
+payment
+scare
+flag
+dice
+ski
+size
+tree
+across |  
+| bip_39_word_new_line2 | ginger
+tumble |  
+| bip_39_word_new_line3 | ginger
+tumble
+onion |  
+| bip_39_word_new_line4 | ginger
+tumble
+onion
+learn |  
+| bip_39_word_new_line5 | ginger
+tumble
+onion
+learn
+payment |  
+| bip_39_word_new_line6 | ginger
+tumble
+onion
+learn
+payment
+scare |  
+| bip_39_word_new_line7 | ginger
+tumble
+onion
+learn
+payment
+scare
+flag |  
+| bip_39_word_new_line8 | ginger
+tumble
+onion
+learn
+payment
+scare
+flag
+dice |  
+| bip_39_word_new_line9 | ginger
+tumble
+onion
+learn
+payment
+scare
+flag
+dice
+ski |  
+| bip_39_word_space_0 | ['ginger', 'tumble', 'onion', 'learn', 'payment', 'scare', 'flag', 'dice', 'ski', 'size', 'tree', 'across'] |  
+| bip_39_word_space_1 | ginger |  
+| bip_39_word_space_10 | ginger tumble onion learn payment scare flag dice ski size |  
+| bip_39_word_space_11 | ginger tumble onion learn payment scare flag dice ski size tree |  
+| bip_39_word_space_12 | ginger tumble onion learn payment scare flag dice ski size tree across |  
+| bip_39_word_space_2 | ginger tumble |  
+| bip_39_word_space_3 | ginger tumble onion |  
+| bip_39_word_space_4 | ginger tumble onion learn |  
+| bip_39_word_space_5 | ginger tumble onion learn payment |  
+| bip_39_word_space_6 | ginger tumble onion learn payment scare |  
+| bip_39_word_space_7 | ginger tumble onion learn payment scare flag |  
+| bip_39_word_space_8 | ginger tumble onion learn payment scare flag dice |  
+| bip_39_word_space_9 | ginger tumble onion learn payment scare flag dice ski |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

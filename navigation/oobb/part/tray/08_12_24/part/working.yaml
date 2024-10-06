@@ -1,3 +1,187 @@
+bip_39_word_new_br1: captain
+bip_39_word_new_br10: captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic
+bip_39_word_new_br11: captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic<br>left
+bip_39_word_new_br12: captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray<br>picnic<br>left<br>amused
+bip_39_word_new_br2: captain<br>family
+bip_39_word_new_br3: captain<br>family<br>kitchen
+bip_39_word_new_br4: captain<br>family<br>kitchen<br>embody
+bip_39_word_new_br5: captain<br>family<br>kitchen<br>embody<br>educate
+bip_39_word_new_br6: captain<br>family<br>kitchen<br>embody<br>educate<br>evil
+bip_39_word_new_br7: captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice
+bip_39_word_new_br8: captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil
+bip_39_word_new_br9: captain<br>family<br>kitchen<br>embody<br>educate<br>evil<br>choice<br>civil<br>tray
+bip_39_word_new_line1: captain
+bip_39_word_new_line10: 'captain
+
+  family
+
+  kitchen
+
+  embody
+
+  educate
+
+  evil
+
+  choice
+
+  civil
+
+  tray
+
+  picnic'
+bip_39_word_new_line11: 'captain
+
+  family
+
+  kitchen
+
+  embody
+
+  educate
+
+  evil
+
+  choice
+
+  civil
+
+  tray
+
+  picnic
+
+  left'
+bip_39_word_new_line12: 'captain
+
+  family
+
+  kitchen
+
+  embody
+
+  educate
+
+  evil
+
+  choice
+
+  civil
+
+  tray
+
+  picnic
+
+  left
+
+  amused'
+bip_39_word_new_line2: 'captain
+
+  family'
+bip_39_word_new_line3: 'captain
+
+  family
+
+  kitchen'
+bip_39_word_new_line4: 'captain
+
+  family
+
+  kitchen
+
+  embody'
+bip_39_word_new_line5: 'captain
+
+  family
+
+  kitchen
+
+  embody
+
+  educate'
+bip_39_word_new_line6: 'captain
+
+  family
+
+  kitchen
+
+  embody
+
+  educate
+
+  evil'
+bip_39_word_new_line7: 'captain
+
+  family
+
+  kitchen
+
+  embody
+
+  educate
+
+  evil
+
+  choice'
+bip_39_word_new_line8: 'captain
+
+  family
+
+  kitchen
+
+  embody
+
+  educate
+
+  evil
+
+  choice
+
+  civil'
+bip_39_word_new_line9: 'captain
+
+  family
+
+  kitchen
+
+  embody
+
+  educate
+
+  evil
+
+  choice
+
+  civil
+
+  tray'
+bip_39_word_space_0:
+- captain
+- family
+- kitchen
+- embody
+- educate
+- evil
+- choice
+- civil
+- tray
+- picnic
+- left
+- amused
+bip_39_word_space_1: captain
+bip_39_word_space_10: captain family kitchen embody educate evil choice civil tray
+  picnic
+bip_39_word_space_11: captain family kitchen embody educate evil choice civil tray
+  picnic left
+bip_39_word_space_12: captain family kitchen embody educate evil choice civil tray
+  picnic left amused
+bip_39_word_space_2: captain family
+bip_39_word_space_3: captain family kitchen
+bip_39_word_space_4: captain family kitchen embody
+bip_39_word_space_5: captain family kitchen embody educate
+bip_39_word_space_6: captain family kitchen embody educate evil
+bip_39_word_space_7: captain family kitchen embody educate evil choice
+bip_39_word_space_8: captain family kitchen embody educate evil choice civil
+bip_39_word_space_9: captain family kitchen embody educate evil choice civil tray
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

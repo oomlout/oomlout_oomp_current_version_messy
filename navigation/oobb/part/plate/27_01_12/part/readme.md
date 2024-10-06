@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cloud tube
+  * bip 39 word 3: cloud tube pigeon
+  * bip 39 word: cloud tube pigeon round armor control attack govern harsh rude pond actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cloud |  
+| bip_39_word_new_br10 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh<br>rude |  
+| bip_39_word_new_br11 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh<br>rude<br>pond |  
+| bip_39_word_new_br12 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh<br>rude<br>pond<br>actress |  
+| bip_39_word_new_br2 | cloud<br>tube |  
+| bip_39_word_new_br3 | cloud<br>tube<br>pigeon |  
+| bip_39_word_new_br4 | cloud<br>tube<br>pigeon<br>round |  
+| bip_39_word_new_br5 | cloud<br>tube<br>pigeon<br>round<br>armor |  
+| bip_39_word_new_br6 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control |  
+| bip_39_word_new_br7 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack |  
+| bip_39_word_new_br8 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern |  
+| bip_39_word_new_br9 | cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh |  
+| bip_39_word_new_line1 | cloud |  
+| bip_39_word_new_line10 | cloud
+tube
+pigeon
+round
+armor
+control
+attack
+govern
+harsh
+rude |  
+| bip_39_word_new_line11 | cloud
+tube
+pigeon
+round
+armor
+control
+attack
+govern
+harsh
+rude
+pond |  
+| bip_39_word_new_line12 | cloud
+tube
+pigeon
+round
+armor
+control
+attack
+govern
+harsh
+rude
+pond
+actress |  
+| bip_39_word_new_line2 | cloud
+tube |  
+| bip_39_word_new_line3 | cloud
+tube
+pigeon |  
+| bip_39_word_new_line4 | cloud
+tube
+pigeon
+round |  
+| bip_39_word_new_line5 | cloud
+tube
+pigeon
+round
+armor |  
+| bip_39_word_new_line6 | cloud
+tube
+pigeon
+round
+armor
+control |  
+| bip_39_word_new_line7 | cloud
+tube
+pigeon
+round
+armor
+control
+attack |  
+| bip_39_word_new_line8 | cloud
+tube
+pigeon
+round
+armor
+control
+attack
+govern |  
+| bip_39_word_new_line9 | cloud
+tube
+pigeon
+round
+armor
+control
+attack
+govern
+harsh |  
+| bip_39_word_space_0 | ['cloud', 'tube', 'pigeon', 'round', 'armor', 'control', 'attack', 'govern', 'harsh', 'rude', 'pond', 'actress'] |  
+| bip_39_word_space_1 | cloud |  
+| bip_39_word_space_10 | cloud tube pigeon round armor control attack govern harsh rude |  
+| bip_39_word_space_11 | cloud tube pigeon round armor control attack govern harsh rude pond |  
+| bip_39_word_space_12 | cloud tube pigeon round armor control attack govern harsh rude pond actress |  
+| bip_39_word_space_2 | cloud tube |  
+| bip_39_word_space_3 | cloud tube pigeon |  
+| bip_39_word_space_4 | cloud tube pigeon round |  
+| bip_39_word_space_5 | cloud tube pigeon round armor |  
+| bip_39_word_space_6 | cloud tube pigeon round armor control |  
+| bip_39_word_space_7 | cloud tube pigeon round armor control attack |  
+| bip_39_word_space_8 | cloud tube pigeon round armor control attack govern |  
+| bip_39_word_space_9 | cloud tube pigeon round armor control attack govern harsh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

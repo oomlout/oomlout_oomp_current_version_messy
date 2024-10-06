@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pencil
+bip_39_word_new_br10: pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful
+bip_39_word_new_br11: pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful<br>brain
+bip_39_word_new_br12: pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch<br>awful<br>brain<br>all
+bip_39_word_new_br2: pencil<br>country
+bip_39_word_new_br3: pencil<br>country<br>vessel
+bip_39_word_new_br4: pencil<br>country<br>vessel<br>skirt
+bip_39_word_new_br5: pencil<br>country<br>vessel<br>skirt<br>maximum
+bip_39_word_new_br6: pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth
+bip_39_word_new_br7: pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core
+bip_39_word_new_br8: pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition
+bip_39_word_new_br9: pencil<br>country<br>vessel<br>skirt<br>maximum<br>birth<br>core<br>tuition<br>couch
+bip_39_word_new_line1: pencil
+bip_39_word_new_line10: 'pencil
+
+  country
+
+  vessel
+
+  skirt
+
+  maximum
+
+  birth
+
+  core
+
+  tuition
+
+  couch
+
+  awful'
+bip_39_word_new_line11: 'pencil
+
+  country
+
+  vessel
+
+  skirt
+
+  maximum
+
+  birth
+
+  core
+
+  tuition
+
+  couch
+
+  awful
+
+  brain'
+bip_39_word_new_line12: 'pencil
+
+  country
+
+  vessel
+
+  skirt
+
+  maximum
+
+  birth
+
+  core
+
+  tuition
+
+  couch
+
+  awful
+
+  brain
+
+  all'
+bip_39_word_new_line2: 'pencil
+
+  country'
+bip_39_word_new_line3: 'pencil
+
+  country
+
+  vessel'
+bip_39_word_new_line4: 'pencil
+
+  country
+
+  vessel
+
+  skirt'
+bip_39_word_new_line5: 'pencil
+
+  country
+
+  vessel
+
+  skirt
+
+  maximum'
+bip_39_word_new_line6: 'pencil
+
+  country
+
+  vessel
+
+  skirt
+
+  maximum
+
+  birth'
+bip_39_word_new_line7: 'pencil
+
+  country
+
+  vessel
+
+  skirt
+
+  maximum
+
+  birth
+
+  core'
+bip_39_word_new_line8: 'pencil
+
+  country
+
+  vessel
+
+  skirt
+
+  maximum
+
+  birth
+
+  core
+
+  tuition'
+bip_39_word_new_line9: 'pencil
+
+  country
+
+  vessel
+
+  skirt
+
+  maximum
+
+  birth
+
+  core
+
+  tuition
+
+  couch'
+bip_39_word_space_0:
+- pencil
+- country
+- vessel
+- skirt
+- maximum
+- birth
+- core
+- tuition
+- couch
+- awful
+- brain
+- all
+bip_39_word_space_1: pencil
+bip_39_word_space_10: pencil country vessel skirt maximum birth core tuition couch
+  awful
+bip_39_word_space_11: pencil country vessel skirt maximum birth core tuition couch
+  awful brain
+bip_39_word_space_12: pencil country vessel skirt maximum birth core tuition couch
+  awful brain all
+bip_39_word_space_2: pencil country
+bip_39_word_space_3: pencil country vessel
+bip_39_word_space_4: pencil country vessel skirt
+bip_39_word_space_5: pencil country vessel skirt maximum
+bip_39_word_space_6: pencil country vessel skirt maximum birth
+bip_39_word_space_7: pencil country vessel skirt maximum birth core
+bip_39_word_space_8: pencil country vessel skirt maximum birth core tuition
+bip_39_word_space_9: pencil country vessel skirt maximum birth core tuition couch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

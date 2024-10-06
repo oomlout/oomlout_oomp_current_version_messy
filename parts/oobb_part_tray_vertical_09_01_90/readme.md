@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: economy plastic
+  * bip 39 word 3: economy plastic special
+  * bip 39 word: economy plastic special debate bounce artwork client because broken midnight danger about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | economy |  
+| bip_39_word_new_br10 | economy<br>plastic<br>special<br>debate<br>bounce<br>artwork<br>client<br>because<br>broken<br>midnight |  
+| bip_39_word_new_br11 | economy<br>plastic<br>special<br>debate<br>bounce<br>artwork<br>client<br>because<br>broken<br>midnight<br>danger |  
+| bip_39_word_new_br12 | economy<br>plastic<br>special<br>debate<br>bounce<br>artwork<br>client<br>because<br>broken<br>midnight<br>danger<br>about |  
+| bip_39_word_new_br2 | economy<br>plastic |  
+| bip_39_word_new_br3 | economy<br>plastic<br>special |  
+| bip_39_word_new_br4 | economy<br>plastic<br>special<br>debate |  
+| bip_39_word_new_br5 | economy<br>plastic<br>special<br>debate<br>bounce |  
+| bip_39_word_new_br6 | economy<br>plastic<br>special<br>debate<br>bounce<br>artwork |  
+| bip_39_word_new_br7 | economy<br>plastic<br>special<br>debate<br>bounce<br>artwork<br>client |  
+| bip_39_word_new_br8 | economy<br>plastic<br>special<br>debate<br>bounce<br>artwork<br>client<br>because |  
+| bip_39_word_new_br9 | economy<br>plastic<br>special<br>debate<br>bounce<br>artwork<br>client<br>because<br>broken |  
+| bip_39_word_new_line1 | economy |  
+| bip_39_word_new_line10 | economy
+plastic
+special
+debate
+bounce
+artwork
+client
+because
+broken
+midnight |  
+| bip_39_word_new_line11 | economy
+plastic
+special
+debate
+bounce
+artwork
+client
+because
+broken
+midnight
+danger |  
+| bip_39_word_new_line12 | economy
+plastic
+special
+debate
+bounce
+artwork
+client
+because
+broken
+midnight
+danger
+about |  
+| bip_39_word_new_line2 | economy
+plastic |  
+| bip_39_word_new_line3 | economy
+plastic
+special |  
+| bip_39_word_new_line4 | economy
+plastic
+special
+debate |  
+| bip_39_word_new_line5 | economy
+plastic
+special
+debate
+bounce |  
+| bip_39_word_new_line6 | economy
+plastic
+special
+debate
+bounce
+artwork |  
+| bip_39_word_new_line7 | economy
+plastic
+special
+debate
+bounce
+artwork
+client |  
+| bip_39_word_new_line8 | economy
+plastic
+special
+debate
+bounce
+artwork
+client
+because |  
+| bip_39_word_new_line9 | economy
+plastic
+special
+debate
+bounce
+artwork
+client
+because
+broken |  
+| bip_39_word_space_0 | ['economy', 'plastic', 'special', 'debate', 'bounce', 'artwork', 'client', 'because', 'broken', 'midnight', 'danger', 'about'] |  
+| bip_39_word_space_1 | economy |  
+| bip_39_word_space_10 | economy plastic special debate bounce artwork client because broken midnight |  
+| bip_39_word_space_11 | economy plastic special debate bounce artwork client because broken midnight danger |  
+| bip_39_word_space_12 | economy plastic special debate bounce artwork client because broken midnight danger about |  
+| bip_39_word_space_2 | economy plastic |  
+| bip_39_word_space_3 | economy plastic special |  
+| bip_39_word_space_4 | economy plastic special debate |  
+| bip_39_word_space_5 | economy plastic special debate bounce |  
+| bip_39_word_space_6 | economy plastic special debate bounce artwork |  
+| bip_39_word_space_7 | economy plastic special debate bounce artwork client |  
+| bip_39_word_space_8 | economy plastic special debate bounce artwork client because |  
+| bip_39_word_space_9 | economy plastic special debate bounce artwork client because broken |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: desert sword
+  * bip 39 word 3: desert sword amazing
+  * bip 39 word: desert sword amazing kind swear obvious favorite kid unfold barely unfold arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | desert |  
+| bip_39_word_new_br10 | desert<br>sword<br>amazing<br>kind<br>swear<br>obvious<br>favorite<br>kid<br>unfold<br>barely |  
+| bip_39_word_new_br11 | desert<br>sword<br>amazing<br>kind<br>swear<br>obvious<br>favorite<br>kid<br>unfold<br>barely<br>unfold |  
+| bip_39_word_new_br12 | desert<br>sword<br>amazing<br>kind<br>swear<br>obvious<br>favorite<br>kid<br>unfold<br>barely<br>unfold<br>arrow |  
+| bip_39_word_new_br2 | desert<br>sword |  
+| bip_39_word_new_br3 | desert<br>sword<br>amazing |  
+| bip_39_word_new_br4 | desert<br>sword<br>amazing<br>kind |  
+| bip_39_word_new_br5 | desert<br>sword<br>amazing<br>kind<br>swear |  
+| bip_39_word_new_br6 | desert<br>sword<br>amazing<br>kind<br>swear<br>obvious |  
+| bip_39_word_new_br7 | desert<br>sword<br>amazing<br>kind<br>swear<br>obvious<br>favorite |  
+| bip_39_word_new_br8 | desert<br>sword<br>amazing<br>kind<br>swear<br>obvious<br>favorite<br>kid |  
+| bip_39_word_new_br9 | desert<br>sword<br>amazing<br>kind<br>swear<br>obvious<br>favorite<br>kid<br>unfold |  
+| bip_39_word_new_line1 | desert |  
+| bip_39_word_new_line10 | desert
+sword
+amazing
+kind
+swear
+obvious
+favorite
+kid
+unfold
+barely |  
+| bip_39_word_new_line11 | desert
+sword
+amazing
+kind
+swear
+obvious
+favorite
+kid
+unfold
+barely
+unfold |  
+| bip_39_word_new_line12 | desert
+sword
+amazing
+kind
+swear
+obvious
+favorite
+kid
+unfold
+barely
+unfold
+arrow |  
+| bip_39_word_new_line2 | desert
+sword |  
+| bip_39_word_new_line3 | desert
+sword
+amazing |  
+| bip_39_word_new_line4 | desert
+sword
+amazing
+kind |  
+| bip_39_word_new_line5 | desert
+sword
+amazing
+kind
+swear |  
+| bip_39_word_new_line6 | desert
+sword
+amazing
+kind
+swear
+obvious |  
+| bip_39_word_new_line7 | desert
+sword
+amazing
+kind
+swear
+obvious
+favorite |  
+| bip_39_word_new_line8 | desert
+sword
+amazing
+kind
+swear
+obvious
+favorite
+kid |  
+| bip_39_word_new_line9 | desert
+sword
+amazing
+kind
+swear
+obvious
+favorite
+kid
+unfold |  
+| bip_39_word_space_0 | ['desert', 'sword', 'amazing', 'kind', 'swear', 'obvious', 'favorite', 'kid', 'unfold', 'barely', 'unfold', 'arrow'] |  
+| bip_39_word_space_1 | desert |  
+| bip_39_word_space_10 | desert sword amazing kind swear obvious favorite kid unfold barely |  
+| bip_39_word_space_11 | desert sword amazing kind swear obvious favorite kid unfold barely unfold |  
+| bip_39_word_space_12 | desert sword amazing kind swear obvious favorite kid unfold barely unfold arrow |  
+| bip_39_word_space_2 | desert sword |  
+| bip_39_word_space_3 | desert sword amazing |  
+| bip_39_word_space_4 | desert sword amazing kind |  
+| bip_39_word_space_5 | desert sword amazing kind swear |  
+| bip_39_word_space_6 | desert sword amazing kind swear obvious |  
+| bip_39_word_space_7 | desert sword amazing kind swear obvious favorite |  
+| bip_39_word_space_8 | desert sword amazing kind swear obvious favorite kid |  
+| bip_39_word_space_9 | desert sword amazing kind swear obvious favorite kid unfold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

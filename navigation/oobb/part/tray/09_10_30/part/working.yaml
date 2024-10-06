@@ -1,3 +1,187 @@
+bip_39_word_new_br1: struggle
+bip_39_word_new_br10: struggle<br>horse<br>wire<br>toddler<br>there<br>abstract<br>tomato<br>approve<br>sell<br>coast
+bip_39_word_new_br11: struggle<br>horse<br>wire<br>toddler<br>there<br>abstract<br>tomato<br>approve<br>sell<br>coast<br>unfair
+bip_39_word_new_br12: struggle<br>horse<br>wire<br>toddler<br>there<br>abstract<br>tomato<br>approve<br>sell<br>coast<br>unfair<br>advice
+bip_39_word_new_br2: struggle<br>horse
+bip_39_word_new_br3: struggle<br>horse<br>wire
+bip_39_word_new_br4: struggle<br>horse<br>wire<br>toddler
+bip_39_word_new_br5: struggle<br>horse<br>wire<br>toddler<br>there
+bip_39_word_new_br6: struggle<br>horse<br>wire<br>toddler<br>there<br>abstract
+bip_39_word_new_br7: struggle<br>horse<br>wire<br>toddler<br>there<br>abstract<br>tomato
+bip_39_word_new_br8: struggle<br>horse<br>wire<br>toddler<br>there<br>abstract<br>tomato<br>approve
+bip_39_word_new_br9: struggle<br>horse<br>wire<br>toddler<br>there<br>abstract<br>tomato<br>approve<br>sell
+bip_39_word_new_line1: struggle
+bip_39_word_new_line10: 'struggle
+
+  horse
+
+  wire
+
+  toddler
+
+  there
+
+  abstract
+
+  tomato
+
+  approve
+
+  sell
+
+  coast'
+bip_39_word_new_line11: 'struggle
+
+  horse
+
+  wire
+
+  toddler
+
+  there
+
+  abstract
+
+  tomato
+
+  approve
+
+  sell
+
+  coast
+
+  unfair'
+bip_39_word_new_line12: 'struggle
+
+  horse
+
+  wire
+
+  toddler
+
+  there
+
+  abstract
+
+  tomato
+
+  approve
+
+  sell
+
+  coast
+
+  unfair
+
+  advice'
+bip_39_word_new_line2: 'struggle
+
+  horse'
+bip_39_word_new_line3: 'struggle
+
+  horse
+
+  wire'
+bip_39_word_new_line4: 'struggle
+
+  horse
+
+  wire
+
+  toddler'
+bip_39_word_new_line5: 'struggle
+
+  horse
+
+  wire
+
+  toddler
+
+  there'
+bip_39_word_new_line6: 'struggle
+
+  horse
+
+  wire
+
+  toddler
+
+  there
+
+  abstract'
+bip_39_word_new_line7: 'struggle
+
+  horse
+
+  wire
+
+  toddler
+
+  there
+
+  abstract
+
+  tomato'
+bip_39_word_new_line8: 'struggle
+
+  horse
+
+  wire
+
+  toddler
+
+  there
+
+  abstract
+
+  tomato
+
+  approve'
+bip_39_word_new_line9: 'struggle
+
+  horse
+
+  wire
+
+  toddler
+
+  there
+
+  abstract
+
+  tomato
+
+  approve
+
+  sell'
+bip_39_word_space_0:
+- struggle
+- horse
+- wire
+- toddler
+- there
+- abstract
+- tomato
+- approve
+- sell
+- coast
+- unfair
+- advice
+bip_39_word_space_1: struggle
+bip_39_word_space_10: struggle horse wire toddler there abstract tomato approve sell
+  coast
+bip_39_word_space_11: struggle horse wire toddler there abstract tomato approve sell
+  coast unfair
+bip_39_word_space_12: struggle horse wire toddler there abstract tomato approve sell
+  coast unfair advice
+bip_39_word_space_2: struggle horse
+bip_39_word_space_3: struggle horse wire
+bip_39_word_space_4: struggle horse wire toddler
+bip_39_word_space_5: struggle horse wire toddler there
+bip_39_word_space_6: struggle horse wire toddler there abstract
+bip_39_word_space_7: struggle horse wire toddler there abstract tomato
+bip_39_word_space_8: struggle horse wire toddler there abstract tomato approve
+bip_39_word_space_9: struggle horse wire toddler there abstract tomato approve sell
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

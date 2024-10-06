@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: siren law
+  * bip 39 word 3: siren law power
+  * bip 39 word: siren law power turn post civil glue tank deputy poverty document another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | siren |  
+| bip_39_word_new_br10 | siren<br>law<br>power<br>turn<br>post<br>civil<br>glue<br>tank<br>deputy<br>poverty |  
+| bip_39_word_new_br11 | siren<br>law<br>power<br>turn<br>post<br>civil<br>glue<br>tank<br>deputy<br>poverty<br>document |  
+| bip_39_word_new_br12 | siren<br>law<br>power<br>turn<br>post<br>civil<br>glue<br>tank<br>deputy<br>poverty<br>document<br>another |  
+| bip_39_word_new_br2 | siren<br>law |  
+| bip_39_word_new_br3 | siren<br>law<br>power |  
+| bip_39_word_new_br4 | siren<br>law<br>power<br>turn |  
+| bip_39_word_new_br5 | siren<br>law<br>power<br>turn<br>post |  
+| bip_39_word_new_br6 | siren<br>law<br>power<br>turn<br>post<br>civil |  
+| bip_39_word_new_br7 | siren<br>law<br>power<br>turn<br>post<br>civil<br>glue |  
+| bip_39_word_new_br8 | siren<br>law<br>power<br>turn<br>post<br>civil<br>glue<br>tank |  
+| bip_39_word_new_br9 | siren<br>law<br>power<br>turn<br>post<br>civil<br>glue<br>tank<br>deputy |  
+| bip_39_word_new_line1 | siren |  
+| bip_39_word_new_line10 | siren
+law
+power
+turn
+post
+civil
+glue
+tank
+deputy
+poverty |  
+| bip_39_word_new_line11 | siren
+law
+power
+turn
+post
+civil
+glue
+tank
+deputy
+poverty
+document |  
+| bip_39_word_new_line12 | siren
+law
+power
+turn
+post
+civil
+glue
+tank
+deputy
+poverty
+document
+another |  
+| bip_39_word_new_line2 | siren
+law |  
+| bip_39_word_new_line3 | siren
+law
+power |  
+| bip_39_word_new_line4 | siren
+law
+power
+turn |  
+| bip_39_word_new_line5 | siren
+law
+power
+turn
+post |  
+| bip_39_word_new_line6 | siren
+law
+power
+turn
+post
+civil |  
+| bip_39_word_new_line7 | siren
+law
+power
+turn
+post
+civil
+glue |  
+| bip_39_word_new_line8 | siren
+law
+power
+turn
+post
+civil
+glue
+tank |  
+| bip_39_word_new_line9 | siren
+law
+power
+turn
+post
+civil
+glue
+tank
+deputy |  
+| bip_39_word_space_0 | ['siren', 'law', 'power', 'turn', 'post', 'civil', 'glue', 'tank', 'deputy', 'poverty', 'document', 'another'] |  
+| bip_39_word_space_1 | siren |  
+| bip_39_word_space_10 | siren law power turn post civil glue tank deputy poverty |  
+| bip_39_word_space_11 | siren law power turn post civil glue tank deputy poverty document |  
+| bip_39_word_space_12 | siren law power turn post civil glue tank deputy poverty document another |  
+| bip_39_word_space_2 | siren law |  
+| bip_39_word_space_3 | siren law power |  
+| bip_39_word_space_4 | siren law power turn |  
+| bip_39_word_space_5 | siren law power turn post |  
+| bip_39_word_space_6 | siren law power turn post civil |  
+| bip_39_word_space_7 | siren law power turn post civil glue |  
+| bip_39_word_space_8 | siren law power turn post civil glue tank |  
+| bip_39_word_space_9 | siren law power turn post civil glue tank deputy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

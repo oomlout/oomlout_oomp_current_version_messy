@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bubble
+bip_39_word_new_br10: bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke
+bip_39_word_new_br11: bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke<br>theme
+bip_39_word_new_br12: bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private<br>evoke<br>theme<br>apart
+bip_39_word_new_br2: bubble<br>act
+bip_39_word_new_br3: bubble<br>act<br>famous
+bip_39_word_new_br4: bubble<br>act<br>famous<br>hamster
+bip_39_word_new_br5: bubble<br>act<br>famous<br>hamster<br>net
+bip_39_word_new_br6: bubble<br>act<br>famous<br>hamster<br>net<br>tackle
+bip_39_word_new_br7: bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order
+bip_39_word_new_br8: bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare
+bip_39_word_new_br9: bubble<br>act<br>famous<br>hamster<br>net<br>tackle<br>order<br>glare<br>private
+bip_39_word_new_line1: bubble
+bip_39_word_new_line10: 'bubble
+
+  act
+
+  famous
+
+  hamster
+
+  net
+
+  tackle
+
+  order
+
+  glare
+
+  private
+
+  evoke'
+bip_39_word_new_line11: 'bubble
+
+  act
+
+  famous
+
+  hamster
+
+  net
+
+  tackle
+
+  order
+
+  glare
+
+  private
+
+  evoke
+
+  theme'
+bip_39_word_new_line12: 'bubble
+
+  act
+
+  famous
+
+  hamster
+
+  net
+
+  tackle
+
+  order
+
+  glare
+
+  private
+
+  evoke
+
+  theme
+
+  apart'
+bip_39_word_new_line2: 'bubble
+
+  act'
+bip_39_word_new_line3: 'bubble
+
+  act
+
+  famous'
+bip_39_word_new_line4: 'bubble
+
+  act
+
+  famous
+
+  hamster'
+bip_39_word_new_line5: 'bubble
+
+  act
+
+  famous
+
+  hamster
+
+  net'
+bip_39_word_new_line6: 'bubble
+
+  act
+
+  famous
+
+  hamster
+
+  net
+
+  tackle'
+bip_39_word_new_line7: 'bubble
+
+  act
+
+  famous
+
+  hamster
+
+  net
+
+  tackle
+
+  order'
+bip_39_word_new_line8: 'bubble
+
+  act
+
+  famous
+
+  hamster
+
+  net
+
+  tackle
+
+  order
+
+  glare'
+bip_39_word_new_line9: 'bubble
+
+  act
+
+  famous
+
+  hamster
+
+  net
+
+  tackle
+
+  order
+
+  glare
+
+  private'
+bip_39_word_space_0:
+- bubble
+- act
+- famous
+- hamster
+- net
+- tackle
+- order
+- glare
+- private
+- evoke
+- theme
+- apart
+bip_39_word_space_1: bubble
+bip_39_word_space_10: bubble act famous hamster net tackle order glare private evoke
+bip_39_word_space_11: bubble act famous hamster net tackle order glare private evoke
+  theme
+bip_39_word_space_12: bubble act famous hamster net tackle order glare private evoke
+  theme apart
+bip_39_word_space_2: bubble act
+bip_39_word_space_3: bubble act famous
+bip_39_word_space_4: bubble act famous hamster
+bip_39_word_space_5: bubble act famous hamster net
+bip_39_word_space_6: bubble act famous hamster net tackle
+bip_39_word_space_7: bubble act famous hamster net tackle order
+bip_39_word_space_8: bubble act famous hamster net tackle order glare
+bip_39_word_space_9: bubble act famous hamster net tackle order glare private
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

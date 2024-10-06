@@ -1,3 +1,186 @@
+bip_39_word_new_br1: club
+bip_39_word_new_br10: club<br>trash<br>lake<br>tower<br>glue<br>interest<br>fresh<br>journey<br>artefact<br>another
+bip_39_word_new_br11: club<br>trash<br>lake<br>tower<br>glue<br>interest<br>fresh<br>journey<br>artefact<br>another<br>echo
+bip_39_word_new_br12: club<br>trash<br>lake<br>tower<br>glue<br>interest<br>fresh<br>journey<br>artefact<br>another<br>echo<br>allow
+bip_39_word_new_br2: club<br>trash
+bip_39_word_new_br3: club<br>trash<br>lake
+bip_39_word_new_br4: club<br>trash<br>lake<br>tower
+bip_39_word_new_br5: club<br>trash<br>lake<br>tower<br>glue
+bip_39_word_new_br6: club<br>trash<br>lake<br>tower<br>glue<br>interest
+bip_39_word_new_br7: club<br>trash<br>lake<br>tower<br>glue<br>interest<br>fresh
+bip_39_word_new_br8: club<br>trash<br>lake<br>tower<br>glue<br>interest<br>fresh<br>journey
+bip_39_word_new_br9: club<br>trash<br>lake<br>tower<br>glue<br>interest<br>fresh<br>journey<br>artefact
+bip_39_word_new_line1: club
+bip_39_word_new_line10: 'club
+
+  trash
+
+  lake
+
+  tower
+
+  glue
+
+  interest
+
+  fresh
+
+  journey
+
+  artefact
+
+  another'
+bip_39_word_new_line11: 'club
+
+  trash
+
+  lake
+
+  tower
+
+  glue
+
+  interest
+
+  fresh
+
+  journey
+
+  artefact
+
+  another
+
+  echo'
+bip_39_word_new_line12: 'club
+
+  trash
+
+  lake
+
+  tower
+
+  glue
+
+  interest
+
+  fresh
+
+  journey
+
+  artefact
+
+  another
+
+  echo
+
+  allow'
+bip_39_word_new_line2: 'club
+
+  trash'
+bip_39_word_new_line3: 'club
+
+  trash
+
+  lake'
+bip_39_word_new_line4: 'club
+
+  trash
+
+  lake
+
+  tower'
+bip_39_word_new_line5: 'club
+
+  trash
+
+  lake
+
+  tower
+
+  glue'
+bip_39_word_new_line6: 'club
+
+  trash
+
+  lake
+
+  tower
+
+  glue
+
+  interest'
+bip_39_word_new_line7: 'club
+
+  trash
+
+  lake
+
+  tower
+
+  glue
+
+  interest
+
+  fresh'
+bip_39_word_new_line8: 'club
+
+  trash
+
+  lake
+
+  tower
+
+  glue
+
+  interest
+
+  fresh
+
+  journey'
+bip_39_word_new_line9: 'club
+
+  trash
+
+  lake
+
+  tower
+
+  glue
+
+  interest
+
+  fresh
+
+  journey
+
+  artefact'
+bip_39_word_space_0:
+- club
+- trash
+- lake
+- tower
+- glue
+- interest
+- fresh
+- journey
+- artefact
+- another
+- echo
+- allow
+bip_39_word_space_1: club
+bip_39_word_space_10: club trash lake tower glue interest fresh journey artefact another
+bip_39_word_space_11: club trash lake tower glue interest fresh journey artefact another
+  echo
+bip_39_word_space_12: club trash lake tower glue interest fresh journey artefact another
+  echo allow
+bip_39_word_space_2: club trash
+bip_39_word_space_3: club trash lake
+bip_39_word_space_4: club trash lake tower
+bip_39_word_space_5: club trash lake tower glue
+bip_39_word_space_6: club trash lake tower glue interest
+bip_39_word_space_7: club trash lake tower glue interest fresh
+bip_39_word_space_8: club trash lake tower glue interest fresh journey
+bip_39_word_space_9: club trash lake tower glue interest fresh journey artefact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

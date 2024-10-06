@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exhaust twist
+  * bip 39 word 3: exhaust twist connect
+  * bip 39 word: exhaust twist connect venture crucial change must teach struggle erosion fly antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exhaust |  
+| bip_39_word_new_br10 | exhaust<br>twist<br>connect<br>venture<br>crucial<br>change<br>must<br>teach<br>struggle<br>erosion |  
+| bip_39_word_new_br11 | exhaust<br>twist<br>connect<br>venture<br>crucial<br>change<br>must<br>teach<br>struggle<br>erosion<br>fly |  
+| bip_39_word_new_br12 | exhaust<br>twist<br>connect<br>venture<br>crucial<br>change<br>must<br>teach<br>struggle<br>erosion<br>fly<br>antenna |  
+| bip_39_word_new_br2 | exhaust<br>twist |  
+| bip_39_word_new_br3 | exhaust<br>twist<br>connect |  
+| bip_39_word_new_br4 | exhaust<br>twist<br>connect<br>venture |  
+| bip_39_word_new_br5 | exhaust<br>twist<br>connect<br>venture<br>crucial |  
+| bip_39_word_new_br6 | exhaust<br>twist<br>connect<br>venture<br>crucial<br>change |  
+| bip_39_word_new_br7 | exhaust<br>twist<br>connect<br>venture<br>crucial<br>change<br>must |  
+| bip_39_word_new_br8 | exhaust<br>twist<br>connect<br>venture<br>crucial<br>change<br>must<br>teach |  
+| bip_39_word_new_br9 | exhaust<br>twist<br>connect<br>venture<br>crucial<br>change<br>must<br>teach<br>struggle |  
+| bip_39_word_new_line1 | exhaust |  
+| bip_39_word_new_line10 | exhaust
+twist
+connect
+venture
+crucial
+change
+must
+teach
+struggle
+erosion |  
+| bip_39_word_new_line11 | exhaust
+twist
+connect
+venture
+crucial
+change
+must
+teach
+struggle
+erosion
+fly |  
+| bip_39_word_new_line12 | exhaust
+twist
+connect
+venture
+crucial
+change
+must
+teach
+struggle
+erosion
+fly
+antenna |  
+| bip_39_word_new_line2 | exhaust
+twist |  
+| bip_39_word_new_line3 | exhaust
+twist
+connect |  
+| bip_39_word_new_line4 | exhaust
+twist
+connect
+venture |  
+| bip_39_word_new_line5 | exhaust
+twist
+connect
+venture
+crucial |  
+| bip_39_word_new_line6 | exhaust
+twist
+connect
+venture
+crucial
+change |  
+| bip_39_word_new_line7 | exhaust
+twist
+connect
+venture
+crucial
+change
+must |  
+| bip_39_word_new_line8 | exhaust
+twist
+connect
+venture
+crucial
+change
+must
+teach |  
+| bip_39_word_new_line9 | exhaust
+twist
+connect
+venture
+crucial
+change
+must
+teach
+struggle |  
+| bip_39_word_space_0 | ['exhaust', 'twist', 'connect', 'venture', 'crucial', 'change', 'must', 'teach', 'struggle', 'erosion', 'fly', 'antenna'] |  
+| bip_39_word_space_1 | exhaust |  
+| bip_39_word_space_10 | exhaust twist connect venture crucial change must teach struggle erosion |  
+| bip_39_word_space_11 | exhaust twist connect venture crucial change must teach struggle erosion fly |  
+| bip_39_word_space_12 | exhaust twist connect venture crucial change must teach struggle erosion fly antenna |  
+| bip_39_word_space_2 | exhaust twist |  
+| bip_39_word_space_3 | exhaust twist connect |  
+| bip_39_word_space_4 | exhaust twist connect venture |  
+| bip_39_word_space_5 | exhaust twist connect venture crucial |  
+| bip_39_word_space_6 | exhaust twist connect venture crucial change |  
+| bip_39_word_space_7 | exhaust twist connect venture crucial change must |  
+| bip_39_word_space_8 | exhaust twist connect venture crucial change must teach |  
+| bip_39_word_space_9 | exhaust twist connect venture crucial change must teach struggle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

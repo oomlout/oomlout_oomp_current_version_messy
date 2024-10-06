@@ -1,3 +1,186 @@
+bip_39_word_new_br1: buddy
+bip_39_word_new_br10: buddy<br>visa<br>kite<br>popular<br>goddess<br>win<br>spring<br>miracle<br>drill<br>apple
+bip_39_word_new_br11: buddy<br>visa<br>kite<br>popular<br>goddess<br>win<br>spring<br>miracle<br>drill<br>apple<br>silk
+bip_39_word_new_br12: buddy<br>visa<br>kite<br>popular<br>goddess<br>win<br>spring<br>miracle<br>drill<br>apple<br>silk<br>audit
+bip_39_word_new_br2: buddy<br>visa
+bip_39_word_new_br3: buddy<br>visa<br>kite
+bip_39_word_new_br4: buddy<br>visa<br>kite<br>popular
+bip_39_word_new_br5: buddy<br>visa<br>kite<br>popular<br>goddess
+bip_39_word_new_br6: buddy<br>visa<br>kite<br>popular<br>goddess<br>win
+bip_39_word_new_br7: buddy<br>visa<br>kite<br>popular<br>goddess<br>win<br>spring
+bip_39_word_new_br8: buddy<br>visa<br>kite<br>popular<br>goddess<br>win<br>spring<br>miracle
+bip_39_word_new_br9: buddy<br>visa<br>kite<br>popular<br>goddess<br>win<br>spring<br>miracle<br>drill
+bip_39_word_new_line1: buddy
+bip_39_word_new_line10: 'buddy
+
+  visa
+
+  kite
+
+  popular
+
+  goddess
+
+  win
+
+  spring
+
+  miracle
+
+  drill
+
+  apple'
+bip_39_word_new_line11: 'buddy
+
+  visa
+
+  kite
+
+  popular
+
+  goddess
+
+  win
+
+  spring
+
+  miracle
+
+  drill
+
+  apple
+
+  silk'
+bip_39_word_new_line12: 'buddy
+
+  visa
+
+  kite
+
+  popular
+
+  goddess
+
+  win
+
+  spring
+
+  miracle
+
+  drill
+
+  apple
+
+  silk
+
+  audit'
+bip_39_word_new_line2: 'buddy
+
+  visa'
+bip_39_word_new_line3: 'buddy
+
+  visa
+
+  kite'
+bip_39_word_new_line4: 'buddy
+
+  visa
+
+  kite
+
+  popular'
+bip_39_word_new_line5: 'buddy
+
+  visa
+
+  kite
+
+  popular
+
+  goddess'
+bip_39_word_new_line6: 'buddy
+
+  visa
+
+  kite
+
+  popular
+
+  goddess
+
+  win'
+bip_39_word_new_line7: 'buddy
+
+  visa
+
+  kite
+
+  popular
+
+  goddess
+
+  win
+
+  spring'
+bip_39_word_new_line8: 'buddy
+
+  visa
+
+  kite
+
+  popular
+
+  goddess
+
+  win
+
+  spring
+
+  miracle'
+bip_39_word_new_line9: 'buddy
+
+  visa
+
+  kite
+
+  popular
+
+  goddess
+
+  win
+
+  spring
+
+  miracle
+
+  drill'
+bip_39_word_space_0:
+- buddy
+- visa
+- kite
+- popular
+- goddess
+- win
+- spring
+- miracle
+- drill
+- apple
+- silk
+- audit
+bip_39_word_space_1: buddy
+bip_39_word_space_10: buddy visa kite popular goddess win spring miracle drill apple
+bip_39_word_space_11: buddy visa kite popular goddess win spring miracle drill apple
+  silk
+bip_39_word_space_12: buddy visa kite popular goddess win spring miracle drill apple
+  silk audit
+bip_39_word_space_2: buddy visa
+bip_39_word_space_3: buddy visa kite
+bip_39_word_space_4: buddy visa kite popular
+bip_39_word_space_5: buddy visa kite popular goddess
+bip_39_word_space_6: buddy visa kite popular goddess win
+bip_39_word_space_7: buddy visa kite popular goddess win spring
+bip_39_word_space_8: buddy visa kite popular goddess win spring miracle
+bip_39_word_space_9: buddy visa kite popular goddess win spring miracle drill
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

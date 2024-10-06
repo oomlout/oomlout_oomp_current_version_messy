@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wedding
+bip_39_word_new_br10: wedding<br>marine<br>asset<br>leaf<br>then<br>need<br>together<br>atom<br>brush<br>uncover
+bip_39_word_new_br11: wedding<br>marine<br>asset<br>leaf<br>then<br>need<br>together<br>atom<br>brush<br>uncover<br>walk
+bip_39_word_new_br12: wedding<br>marine<br>asset<br>leaf<br>then<br>need<br>together<br>atom<br>brush<br>uncover<br>walk<br>able
+bip_39_word_new_br2: wedding<br>marine
+bip_39_word_new_br3: wedding<br>marine<br>asset
+bip_39_word_new_br4: wedding<br>marine<br>asset<br>leaf
+bip_39_word_new_br5: wedding<br>marine<br>asset<br>leaf<br>then
+bip_39_word_new_br6: wedding<br>marine<br>asset<br>leaf<br>then<br>need
+bip_39_word_new_br7: wedding<br>marine<br>asset<br>leaf<br>then<br>need<br>together
+bip_39_word_new_br8: wedding<br>marine<br>asset<br>leaf<br>then<br>need<br>together<br>atom
+bip_39_word_new_br9: wedding<br>marine<br>asset<br>leaf<br>then<br>need<br>together<br>atom<br>brush
+bip_39_word_new_line1: wedding
+bip_39_word_new_line10: 'wedding
+
+  marine
+
+  asset
+
+  leaf
+
+  then
+
+  need
+
+  together
+
+  atom
+
+  brush
+
+  uncover'
+bip_39_word_new_line11: 'wedding
+
+  marine
+
+  asset
+
+  leaf
+
+  then
+
+  need
+
+  together
+
+  atom
+
+  brush
+
+  uncover
+
+  walk'
+bip_39_word_new_line12: 'wedding
+
+  marine
+
+  asset
+
+  leaf
+
+  then
+
+  need
+
+  together
+
+  atom
+
+  brush
+
+  uncover
+
+  walk
+
+  able'
+bip_39_word_new_line2: 'wedding
+
+  marine'
+bip_39_word_new_line3: 'wedding
+
+  marine
+
+  asset'
+bip_39_word_new_line4: 'wedding
+
+  marine
+
+  asset
+
+  leaf'
+bip_39_word_new_line5: 'wedding
+
+  marine
+
+  asset
+
+  leaf
+
+  then'
+bip_39_word_new_line6: 'wedding
+
+  marine
+
+  asset
+
+  leaf
+
+  then
+
+  need'
+bip_39_word_new_line7: 'wedding
+
+  marine
+
+  asset
+
+  leaf
+
+  then
+
+  need
+
+  together'
+bip_39_word_new_line8: 'wedding
+
+  marine
+
+  asset
+
+  leaf
+
+  then
+
+  need
+
+  together
+
+  atom'
+bip_39_word_new_line9: 'wedding
+
+  marine
+
+  asset
+
+  leaf
+
+  then
+
+  need
+
+  together
+
+  atom
+
+  brush'
+bip_39_word_space_0:
+- wedding
+- marine
+- asset
+- leaf
+- then
+- need
+- together
+- atom
+- brush
+- uncover
+- walk
+- able
+bip_39_word_space_1: wedding
+bip_39_word_space_10: wedding marine asset leaf then need together atom brush uncover
+bip_39_word_space_11: wedding marine asset leaf then need together atom brush uncover
+  walk
+bip_39_word_space_12: wedding marine asset leaf then need together atom brush uncover
+  walk able
+bip_39_word_space_2: wedding marine
+bip_39_word_space_3: wedding marine asset
+bip_39_word_space_4: wedding marine asset leaf
+bip_39_word_space_5: wedding marine asset leaf then
+bip_39_word_space_6: wedding marine asset leaf then need
+bip_39_word_space_7: wedding marine asset leaf then need together
+bip_39_word_space_8: wedding marine asset leaf then need together atom
+bip_39_word_space_9: wedding marine asset leaf then need together atom brush
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: list
+bip_39_word_new_br10: list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle
+bip_39_word_new_br11: list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle<br>buzz
+bip_39_word_new_br12: list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text<br>idle<br>buzz<br>absurd
+bip_39_word_new_br2: list<br>match
+bip_39_word_new_br3: list<br>match<br>squirrel
+bip_39_word_new_br4: list<br>match<br>squirrel<br>cannon
+bip_39_word_new_br5: list<br>match<br>squirrel<br>cannon<br>ocean
+bip_39_word_new_br6: list<br>match<br>squirrel<br>cannon<br>ocean<br>skin
+bip_39_word_new_br7: list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect
+bip_39_word_new_br8: list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip
+bip_39_word_new_br9: list<br>match<br>squirrel<br>cannon<br>ocean<br>skin<br>expect<br>gossip<br>text
+bip_39_word_new_line1: list
+bip_39_word_new_line10: 'list
+
+  match
+
+  squirrel
+
+  cannon
+
+  ocean
+
+  skin
+
+  expect
+
+  gossip
+
+  text
+
+  idle'
+bip_39_word_new_line11: 'list
+
+  match
+
+  squirrel
+
+  cannon
+
+  ocean
+
+  skin
+
+  expect
+
+  gossip
+
+  text
+
+  idle
+
+  buzz'
+bip_39_word_new_line12: 'list
+
+  match
+
+  squirrel
+
+  cannon
+
+  ocean
+
+  skin
+
+  expect
+
+  gossip
+
+  text
+
+  idle
+
+  buzz
+
+  absurd'
+bip_39_word_new_line2: 'list
+
+  match'
+bip_39_word_new_line3: 'list
+
+  match
+
+  squirrel'
+bip_39_word_new_line4: 'list
+
+  match
+
+  squirrel
+
+  cannon'
+bip_39_word_new_line5: 'list
+
+  match
+
+  squirrel
+
+  cannon
+
+  ocean'
+bip_39_word_new_line6: 'list
+
+  match
+
+  squirrel
+
+  cannon
+
+  ocean
+
+  skin'
+bip_39_word_new_line7: 'list
+
+  match
+
+  squirrel
+
+  cannon
+
+  ocean
+
+  skin
+
+  expect'
+bip_39_word_new_line8: 'list
+
+  match
+
+  squirrel
+
+  cannon
+
+  ocean
+
+  skin
+
+  expect
+
+  gossip'
+bip_39_word_new_line9: 'list
+
+  match
+
+  squirrel
+
+  cannon
+
+  ocean
+
+  skin
+
+  expect
+
+  gossip
+
+  text'
+bip_39_word_space_0:
+- list
+- match
+- squirrel
+- cannon
+- ocean
+- skin
+- expect
+- gossip
+- text
+- idle
+- buzz
+- absurd
+bip_39_word_space_1: list
+bip_39_word_space_10: list match squirrel cannon ocean skin expect gossip text idle
+bip_39_word_space_11: list match squirrel cannon ocean skin expect gossip text idle
+  buzz
+bip_39_word_space_12: list match squirrel cannon ocean skin expect gossip text idle
+  buzz absurd
+bip_39_word_space_2: list match
+bip_39_word_space_3: list match squirrel
+bip_39_word_space_4: list match squirrel cannon
+bip_39_word_space_5: list match squirrel cannon ocean
+bip_39_word_space_6: list match squirrel cannon ocean skin
+bip_39_word_space_7: list match squirrel cannon ocean skin expect
+bip_39_word_space_8: list match squirrel cannon ocean skin expect gossip
+bip_39_word_space_9: list match squirrel cannon ocean skin expect gossip text
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

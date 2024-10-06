@@ -1,3 +1,185 @@
+bip_39_word_new_br1: spy
+bip_39_word_new_br10: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney<br>east
+bip_39_word_new_br11: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney<br>east<br>private
+bip_39_word_new_br12: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney<br>east<br>private<br>arm
+bip_39_word_new_br2: spy<br>fluid
+bip_39_word_new_br3: spy<br>fluid<br>resist
+bip_39_word_new_br4: spy<br>fluid<br>resist<br>floor
+bip_39_word_new_br5: spy<br>fluid<br>resist<br>floor<br>enlist
+bip_39_word_new_br6: spy<br>fluid<br>resist<br>floor<br>enlist<br>join
+bip_39_word_new_br7: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove
+bip_39_word_new_br8: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush
+bip_39_word_new_br9: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney
+bip_39_word_new_line1: spy
+bip_39_word_new_line10: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush
+
+  chimney
+
+  east'
+bip_39_word_new_line11: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush
+
+  chimney
+
+  east
+
+  private'
+bip_39_word_new_line12: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush
+
+  chimney
+
+  east
+
+  private
+
+  arm'
+bip_39_word_new_line2: 'spy
+
+  fluid'
+bip_39_word_new_line3: 'spy
+
+  fluid
+
+  resist'
+bip_39_word_new_line4: 'spy
+
+  fluid
+
+  resist
+
+  floor'
+bip_39_word_new_line5: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist'
+bip_39_word_new_line6: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join'
+bip_39_word_new_line7: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove'
+bip_39_word_new_line8: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush'
+bip_39_word_new_line9: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush
+
+  chimney'
+bip_39_word_space_0:
+- spy
+- fluid
+- resist
+- floor
+- enlist
+- join
+- dove
+- blush
+- chimney
+- east
+- private
+- arm
+bip_39_word_space_1: spy
+bip_39_word_space_10: spy fluid resist floor enlist join dove blush chimney east
+bip_39_word_space_11: spy fluid resist floor enlist join dove blush chimney east private
+bip_39_word_space_12: spy fluid resist floor enlist join dove blush chimney east private
+  arm
+bip_39_word_space_2: spy fluid
+bip_39_word_space_3: spy fluid resist
+bip_39_word_space_4: spy fluid resist floor
+bip_39_word_space_5: spy fluid resist floor enlist
+bip_39_word_space_6: spy fluid resist floor enlist join
+bip_39_word_space_7: spy fluid resist floor enlist join dove
+bip_39_word_space_8: spy fluid resist floor enlist join dove blush
+bip_39_word_space_9: spy fluid resist floor enlist join dove blush chimney
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

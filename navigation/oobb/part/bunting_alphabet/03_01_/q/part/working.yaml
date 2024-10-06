@@ -1,3 +1,185 @@
+bip_39_word_new_br1: van
+bip_39_word_new_br10: van<br>gas<br>blur<br>reject<br>float<br>illness<br>quick<br>nice<br>bring<br>solar
+bip_39_word_new_br11: van<br>gas<br>blur<br>reject<br>float<br>illness<br>quick<br>nice<br>bring<br>solar<br>window
+bip_39_word_new_br12: van<br>gas<br>blur<br>reject<br>float<br>illness<br>quick<br>nice<br>bring<br>solar<br>window<br>appear
+bip_39_word_new_br2: van<br>gas
+bip_39_word_new_br3: van<br>gas<br>blur
+bip_39_word_new_br4: van<br>gas<br>blur<br>reject
+bip_39_word_new_br5: van<br>gas<br>blur<br>reject<br>float
+bip_39_word_new_br6: van<br>gas<br>blur<br>reject<br>float<br>illness
+bip_39_word_new_br7: van<br>gas<br>blur<br>reject<br>float<br>illness<br>quick
+bip_39_word_new_br8: van<br>gas<br>blur<br>reject<br>float<br>illness<br>quick<br>nice
+bip_39_word_new_br9: van<br>gas<br>blur<br>reject<br>float<br>illness<br>quick<br>nice<br>bring
+bip_39_word_new_line1: van
+bip_39_word_new_line10: 'van
+
+  gas
+
+  blur
+
+  reject
+
+  float
+
+  illness
+
+  quick
+
+  nice
+
+  bring
+
+  solar'
+bip_39_word_new_line11: 'van
+
+  gas
+
+  blur
+
+  reject
+
+  float
+
+  illness
+
+  quick
+
+  nice
+
+  bring
+
+  solar
+
+  window'
+bip_39_word_new_line12: 'van
+
+  gas
+
+  blur
+
+  reject
+
+  float
+
+  illness
+
+  quick
+
+  nice
+
+  bring
+
+  solar
+
+  window
+
+  appear'
+bip_39_word_new_line2: 'van
+
+  gas'
+bip_39_word_new_line3: 'van
+
+  gas
+
+  blur'
+bip_39_word_new_line4: 'van
+
+  gas
+
+  blur
+
+  reject'
+bip_39_word_new_line5: 'van
+
+  gas
+
+  blur
+
+  reject
+
+  float'
+bip_39_word_new_line6: 'van
+
+  gas
+
+  blur
+
+  reject
+
+  float
+
+  illness'
+bip_39_word_new_line7: 'van
+
+  gas
+
+  blur
+
+  reject
+
+  float
+
+  illness
+
+  quick'
+bip_39_word_new_line8: 'van
+
+  gas
+
+  blur
+
+  reject
+
+  float
+
+  illness
+
+  quick
+
+  nice'
+bip_39_word_new_line9: 'van
+
+  gas
+
+  blur
+
+  reject
+
+  float
+
+  illness
+
+  quick
+
+  nice
+
+  bring'
+bip_39_word_space_0:
+- van
+- gas
+- blur
+- reject
+- float
+- illness
+- quick
+- nice
+- bring
+- solar
+- window
+- appear
+bip_39_word_space_1: van
+bip_39_word_space_10: van gas blur reject float illness quick nice bring solar
+bip_39_word_space_11: van gas blur reject float illness quick nice bring solar window
+bip_39_word_space_12: van gas blur reject float illness quick nice bring solar window
+  appear
+bip_39_word_space_2: van gas
+bip_39_word_space_3: van gas blur
+bip_39_word_space_4: van gas blur reject
+bip_39_word_space_5: van gas blur reject float
+bip_39_word_space_6: van gas blur reject float illness
+bip_39_word_space_7: van gas blur reject float illness quick
+bip_39_word_space_8: van gas blur reject float illness quick nice
+bip_39_word_space_9: van gas blur reject float illness quick nice bring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

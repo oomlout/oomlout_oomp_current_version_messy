@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: forget original
+  * bip 39 word 3: forget original sibling
+  * bip 39 word: forget original sibling wage client then evil bamboo sense wire twice antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | forget |  
+| bip_39_word_new_br10 | forget<br>original<br>sibling<br>wage<br>client<br>then<br>evil<br>bamboo<br>sense<br>wire |  
+| bip_39_word_new_br11 | forget<br>original<br>sibling<br>wage<br>client<br>then<br>evil<br>bamboo<br>sense<br>wire<br>twice |  
+| bip_39_word_new_br12 | forget<br>original<br>sibling<br>wage<br>client<br>then<br>evil<br>bamboo<br>sense<br>wire<br>twice<br>antenna |  
+| bip_39_word_new_br2 | forget<br>original |  
+| bip_39_word_new_br3 | forget<br>original<br>sibling |  
+| bip_39_word_new_br4 | forget<br>original<br>sibling<br>wage |  
+| bip_39_word_new_br5 | forget<br>original<br>sibling<br>wage<br>client |  
+| bip_39_word_new_br6 | forget<br>original<br>sibling<br>wage<br>client<br>then |  
+| bip_39_word_new_br7 | forget<br>original<br>sibling<br>wage<br>client<br>then<br>evil |  
+| bip_39_word_new_br8 | forget<br>original<br>sibling<br>wage<br>client<br>then<br>evil<br>bamboo |  
+| bip_39_word_new_br9 | forget<br>original<br>sibling<br>wage<br>client<br>then<br>evil<br>bamboo<br>sense |  
+| bip_39_word_new_line1 | forget |  
+| bip_39_word_new_line10 | forget
+original
+sibling
+wage
+client
+then
+evil
+bamboo
+sense
+wire |  
+| bip_39_word_new_line11 | forget
+original
+sibling
+wage
+client
+then
+evil
+bamboo
+sense
+wire
+twice |  
+| bip_39_word_new_line12 | forget
+original
+sibling
+wage
+client
+then
+evil
+bamboo
+sense
+wire
+twice
+antenna |  
+| bip_39_word_new_line2 | forget
+original |  
+| bip_39_word_new_line3 | forget
+original
+sibling |  
+| bip_39_word_new_line4 | forget
+original
+sibling
+wage |  
+| bip_39_word_new_line5 | forget
+original
+sibling
+wage
+client |  
+| bip_39_word_new_line6 | forget
+original
+sibling
+wage
+client
+then |  
+| bip_39_word_new_line7 | forget
+original
+sibling
+wage
+client
+then
+evil |  
+| bip_39_word_new_line8 | forget
+original
+sibling
+wage
+client
+then
+evil
+bamboo |  
+| bip_39_word_new_line9 | forget
+original
+sibling
+wage
+client
+then
+evil
+bamboo
+sense |  
+| bip_39_word_space_0 | ['forget', 'original', 'sibling', 'wage', 'client', 'then', 'evil', 'bamboo', 'sense', 'wire', 'twice', 'antenna'] |  
+| bip_39_word_space_1 | forget |  
+| bip_39_word_space_10 | forget original sibling wage client then evil bamboo sense wire |  
+| bip_39_word_space_11 | forget original sibling wage client then evil bamboo sense wire twice |  
+| bip_39_word_space_12 | forget original sibling wage client then evil bamboo sense wire twice antenna |  
+| bip_39_word_space_2 | forget original |  
+| bip_39_word_space_3 | forget original sibling |  
+| bip_39_word_space_4 | forget original sibling wage |  
+| bip_39_word_space_5 | forget original sibling wage client |  
+| bip_39_word_space_6 | forget original sibling wage client then |  
+| bip_39_word_space_7 | forget original sibling wage client then evil |  
+| bip_39_word_space_8 | forget original sibling wage client then evil bamboo |  
+| bip_39_word_space_9 | forget original sibling wage client then evil bamboo sense |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

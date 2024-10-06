@@ -1,3 +1,186 @@
+bip_39_word_new_br1: access
+bip_39_word_new_br10: access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot
+bip_39_word_new_br11: access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot<br>gym
+bip_39_word_new_br12: access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm<br>pilot<br>gym<br>autumn
+bip_39_word_new_br2: access<br>famous
+bip_39_word_new_br3: access<br>famous<br>nuclear
+bip_39_word_new_br4: access<br>famous<br>nuclear<br>foil
+bip_39_word_new_br5: access<br>famous<br>nuclear<br>foil<br>skirt
+bip_39_word_new_br6: access<br>famous<br>nuclear<br>foil<br>skirt<br>day
+bip_39_word_new_br7: access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden
+bip_39_word_new_br8: access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw
+bip_39_word_new_br9: access<br>famous<br>nuclear<br>foil<br>skirt<br>day<br>burden<br>draw<br>firm
+bip_39_word_new_line1: access
+bip_39_word_new_line10: 'access
+
+  famous
+
+  nuclear
+
+  foil
+
+  skirt
+
+  day
+
+  burden
+
+  draw
+
+  firm
+
+  pilot'
+bip_39_word_new_line11: 'access
+
+  famous
+
+  nuclear
+
+  foil
+
+  skirt
+
+  day
+
+  burden
+
+  draw
+
+  firm
+
+  pilot
+
+  gym'
+bip_39_word_new_line12: 'access
+
+  famous
+
+  nuclear
+
+  foil
+
+  skirt
+
+  day
+
+  burden
+
+  draw
+
+  firm
+
+  pilot
+
+  gym
+
+  autumn'
+bip_39_word_new_line2: 'access
+
+  famous'
+bip_39_word_new_line3: 'access
+
+  famous
+
+  nuclear'
+bip_39_word_new_line4: 'access
+
+  famous
+
+  nuclear
+
+  foil'
+bip_39_word_new_line5: 'access
+
+  famous
+
+  nuclear
+
+  foil
+
+  skirt'
+bip_39_word_new_line6: 'access
+
+  famous
+
+  nuclear
+
+  foil
+
+  skirt
+
+  day'
+bip_39_word_new_line7: 'access
+
+  famous
+
+  nuclear
+
+  foil
+
+  skirt
+
+  day
+
+  burden'
+bip_39_word_new_line8: 'access
+
+  famous
+
+  nuclear
+
+  foil
+
+  skirt
+
+  day
+
+  burden
+
+  draw'
+bip_39_word_new_line9: 'access
+
+  famous
+
+  nuclear
+
+  foil
+
+  skirt
+
+  day
+
+  burden
+
+  draw
+
+  firm'
+bip_39_word_space_0:
+- access
+- famous
+- nuclear
+- foil
+- skirt
+- day
+- burden
+- draw
+- firm
+- pilot
+- gym
+- autumn
+bip_39_word_space_1: access
+bip_39_word_space_10: access famous nuclear foil skirt day burden draw firm pilot
+bip_39_word_space_11: access famous nuclear foil skirt day burden draw firm pilot
+  gym
+bip_39_word_space_12: access famous nuclear foil skirt day burden draw firm pilot
+  gym autumn
+bip_39_word_space_2: access famous
+bip_39_word_space_3: access famous nuclear
+bip_39_word_space_4: access famous nuclear foil
+bip_39_word_space_5: access famous nuclear foil skirt
+bip_39_word_space_6: access famous nuclear foil skirt day
+bip_39_word_space_7: access famous nuclear foil skirt day burden
+bip_39_word_space_8: access famous nuclear foil skirt day burden draw
+bip_39_word_space_9: access famous nuclear foil skirt day burden draw firm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

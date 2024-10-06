@@ -1,3 +1,185 @@
+bip_39_word_new_br1: arm
+bip_39_word_new_br10: arm<br>cute<br>blast<br>buddy<br>wrong<br>undo<br>palace<br>dwarf<br>yard<br>sponsor
+bip_39_word_new_br11: arm<br>cute<br>blast<br>buddy<br>wrong<br>undo<br>palace<br>dwarf<br>yard<br>sponsor<br>arrange
+bip_39_word_new_br12: arm<br>cute<br>blast<br>buddy<br>wrong<br>undo<br>palace<br>dwarf<br>yard<br>sponsor<br>arrange<br>any
+bip_39_word_new_br2: arm<br>cute
+bip_39_word_new_br3: arm<br>cute<br>blast
+bip_39_word_new_br4: arm<br>cute<br>blast<br>buddy
+bip_39_word_new_br5: arm<br>cute<br>blast<br>buddy<br>wrong
+bip_39_word_new_br6: arm<br>cute<br>blast<br>buddy<br>wrong<br>undo
+bip_39_word_new_br7: arm<br>cute<br>blast<br>buddy<br>wrong<br>undo<br>palace
+bip_39_word_new_br8: arm<br>cute<br>blast<br>buddy<br>wrong<br>undo<br>palace<br>dwarf
+bip_39_word_new_br9: arm<br>cute<br>blast<br>buddy<br>wrong<br>undo<br>palace<br>dwarf<br>yard
+bip_39_word_new_line1: arm
+bip_39_word_new_line10: 'arm
+
+  cute
+
+  blast
+
+  buddy
+
+  wrong
+
+  undo
+
+  palace
+
+  dwarf
+
+  yard
+
+  sponsor'
+bip_39_word_new_line11: 'arm
+
+  cute
+
+  blast
+
+  buddy
+
+  wrong
+
+  undo
+
+  palace
+
+  dwarf
+
+  yard
+
+  sponsor
+
+  arrange'
+bip_39_word_new_line12: 'arm
+
+  cute
+
+  blast
+
+  buddy
+
+  wrong
+
+  undo
+
+  palace
+
+  dwarf
+
+  yard
+
+  sponsor
+
+  arrange
+
+  any'
+bip_39_word_new_line2: 'arm
+
+  cute'
+bip_39_word_new_line3: 'arm
+
+  cute
+
+  blast'
+bip_39_word_new_line4: 'arm
+
+  cute
+
+  blast
+
+  buddy'
+bip_39_word_new_line5: 'arm
+
+  cute
+
+  blast
+
+  buddy
+
+  wrong'
+bip_39_word_new_line6: 'arm
+
+  cute
+
+  blast
+
+  buddy
+
+  wrong
+
+  undo'
+bip_39_word_new_line7: 'arm
+
+  cute
+
+  blast
+
+  buddy
+
+  wrong
+
+  undo
+
+  palace'
+bip_39_word_new_line8: 'arm
+
+  cute
+
+  blast
+
+  buddy
+
+  wrong
+
+  undo
+
+  palace
+
+  dwarf'
+bip_39_word_new_line9: 'arm
+
+  cute
+
+  blast
+
+  buddy
+
+  wrong
+
+  undo
+
+  palace
+
+  dwarf
+
+  yard'
+bip_39_word_space_0:
+- arm
+- cute
+- blast
+- buddy
+- wrong
+- undo
+- palace
+- dwarf
+- yard
+- sponsor
+- arrange
+- any
+bip_39_word_space_1: arm
+bip_39_word_space_10: arm cute blast buddy wrong undo palace dwarf yard sponsor
+bip_39_word_space_11: arm cute blast buddy wrong undo palace dwarf yard sponsor arrange
+bip_39_word_space_12: arm cute blast buddy wrong undo palace dwarf yard sponsor arrange
+  any
+bip_39_word_space_2: arm cute
+bip_39_word_space_3: arm cute blast
+bip_39_word_space_4: arm cute blast buddy
+bip_39_word_space_5: arm cute blast buddy wrong
+bip_39_word_space_6: arm cute blast buddy wrong undo
+bip_39_word_space_7: arm cute blast buddy wrong undo palace
+bip_39_word_space_8: arm cute blast buddy wrong undo palace dwarf
+bip_39_word_space_9: arm cute blast buddy wrong undo palace dwarf yard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

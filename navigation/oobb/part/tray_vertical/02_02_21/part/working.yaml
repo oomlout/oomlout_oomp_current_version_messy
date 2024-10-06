@@ -1,3 +1,187 @@
+bip_39_word_new_br1: leaf
+bip_39_word_new_br10: leaf<br>immense<br>street<br>notable<br>soccer<br>cycle<br>pool<br>acoustic<br>awake<br>unlock
+bip_39_word_new_br11: leaf<br>immense<br>street<br>notable<br>soccer<br>cycle<br>pool<br>acoustic<br>awake<br>unlock<br>bind
+bip_39_word_new_br12: leaf<br>immense<br>street<br>notable<br>soccer<br>cycle<br>pool<br>acoustic<br>awake<br>unlock<br>bind<br>arrest
+bip_39_word_new_br2: leaf<br>immense
+bip_39_word_new_br3: leaf<br>immense<br>street
+bip_39_word_new_br4: leaf<br>immense<br>street<br>notable
+bip_39_word_new_br5: leaf<br>immense<br>street<br>notable<br>soccer
+bip_39_word_new_br6: leaf<br>immense<br>street<br>notable<br>soccer<br>cycle
+bip_39_word_new_br7: leaf<br>immense<br>street<br>notable<br>soccer<br>cycle<br>pool
+bip_39_word_new_br8: leaf<br>immense<br>street<br>notable<br>soccer<br>cycle<br>pool<br>acoustic
+bip_39_word_new_br9: leaf<br>immense<br>street<br>notable<br>soccer<br>cycle<br>pool<br>acoustic<br>awake
+bip_39_word_new_line1: leaf
+bip_39_word_new_line10: 'leaf
+
+  immense
+
+  street
+
+  notable
+
+  soccer
+
+  cycle
+
+  pool
+
+  acoustic
+
+  awake
+
+  unlock'
+bip_39_word_new_line11: 'leaf
+
+  immense
+
+  street
+
+  notable
+
+  soccer
+
+  cycle
+
+  pool
+
+  acoustic
+
+  awake
+
+  unlock
+
+  bind'
+bip_39_word_new_line12: 'leaf
+
+  immense
+
+  street
+
+  notable
+
+  soccer
+
+  cycle
+
+  pool
+
+  acoustic
+
+  awake
+
+  unlock
+
+  bind
+
+  arrest'
+bip_39_word_new_line2: 'leaf
+
+  immense'
+bip_39_word_new_line3: 'leaf
+
+  immense
+
+  street'
+bip_39_word_new_line4: 'leaf
+
+  immense
+
+  street
+
+  notable'
+bip_39_word_new_line5: 'leaf
+
+  immense
+
+  street
+
+  notable
+
+  soccer'
+bip_39_word_new_line6: 'leaf
+
+  immense
+
+  street
+
+  notable
+
+  soccer
+
+  cycle'
+bip_39_word_new_line7: 'leaf
+
+  immense
+
+  street
+
+  notable
+
+  soccer
+
+  cycle
+
+  pool'
+bip_39_word_new_line8: 'leaf
+
+  immense
+
+  street
+
+  notable
+
+  soccer
+
+  cycle
+
+  pool
+
+  acoustic'
+bip_39_word_new_line9: 'leaf
+
+  immense
+
+  street
+
+  notable
+
+  soccer
+
+  cycle
+
+  pool
+
+  acoustic
+
+  awake'
+bip_39_word_space_0:
+- leaf
+- immense
+- street
+- notable
+- soccer
+- cycle
+- pool
+- acoustic
+- awake
+- unlock
+- bind
+- arrest
+bip_39_word_space_1: leaf
+bip_39_word_space_10: leaf immense street notable soccer cycle pool acoustic awake
+  unlock
+bip_39_word_space_11: leaf immense street notable soccer cycle pool acoustic awake
+  unlock bind
+bip_39_word_space_12: leaf immense street notable soccer cycle pool acoustic awake
+  unlock bind arrest
+bip_39_word_space_2: leaf immense
+bip_39_word_space_3: leaf immense street
+bip_39_word_space_4: leaf immense street notable
+bip_39_word_space_5: leaf immense street notable soccer
+bip_39_word_space_6: leaf immense street notable soccer cycle
+bip_39_word_space_7: leaf immense street notable soccer cycle pool
+bip_39_word_space_8: leaf immense street notable soccer cycle pool acoustic
+bip_39_word_space_9: leaf immense street notable soccer cycle pool acoustic awake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

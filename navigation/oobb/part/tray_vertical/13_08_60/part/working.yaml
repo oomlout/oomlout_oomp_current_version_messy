@@ -1,3 +1,186 @@
+bip_39_word_new_br1: shock
+bip_39_word_new_br10: shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda
+bip_39_word_new_br11: shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda<br>biology
+bip_39_word_new_br12: shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby<br>soda<br>biology<br>antique
+bip_39_word_new_br2: shock<br>spring
+bip_39_word_new_br3: shock<br>spring<br>loop
+bip_39_word_new_br4: shock<br>spring<br>loop<br>energy
+bip_39_word_new_br5: shock<br>spring<br>loop<br>energy<br>capable
+bip_39_word_new_br6: shock<br>spring<br>loop<br>energy<br>capable<br>voice
+bip_39_word_new_br7: shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair
+bip_39_word_new_br8: shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick
+bip_39_word_new_br9: shock<br>spring<br>loop<br>energy<br>capable<br>voice<br>pair<br>quick<br>baby
+bip_39_word_new_line1: shock
+bip_39_word_new_line10: 'shock
+
+  spring
+
+  loop
+
+  energy
+
+  capable
+
+  voice
+
+  pair
+
+  quick
+
+  baby
+
+  soda'
+bip_39_word_new_line11: 'shock
+
+  spring
+
+  loop
+
+  energy
+
+  capable
+
+  voice
+
+  pair
+
+  quick
+
+  baby
+
+  soda
+
+  biology'
+bip_39_word_new_line12: 'shock
+
+  spring
+
+  loop
+
+  energy
+
+  capable
+
+  voice
+
+  pair
+
+  quick
+
+  baby
+
+  soda
+
+  biology
+
+  antique'
+bip_39_word_new_line2: 'shock
+
+  spring'
+bip_39_word_new_line3: 'shock
+
+  spring
+
+  loop'
+bip_39_word_new_line4: 'shock
+
+  spring
+
+  loop
+
+  energy'
+bip_39_word_new_line5: 'shock
+
+  spring
+
+  loop
+
+  energy
+
+  capable'
+bip_39_word_new_line6: 'shock
+
+  spring
+
+  loop
+
+  energy
+
+  capable
+
+  voice'
+bip_39_word_new_line7: 'shock
+
+  spring
+
+  loop
+
+  energy
+
+  capable
+
+  voice
+
+  pair'
+bip_39_word_new_line8: 'shock
+
+  spring
+
+  loop
+
+  energy
+
+  capable
+
+  voice
+
+  pair
+
+  quick'
+bip_39_word_new_line9: 'shock
+
+  spring
+
+  loop
+
+  energy
+
+  capable
+
+  voice
+
+  pair
+
+  quick
+
+  baby'
+bip_39_word_space_0:
+- shock
+- spring
+- loop
+- energy
+- capable
+- voice
+- pair
+- quick
+- baby
+- soda
+- biology
+- antique
+bip_39_word_space_1: shock
+bip_39_word_space_10: shock spring loop energy capable voice pair quick baby soda
+bip_39_word_space_11: shock spring loop energy capable voice pair quick baby soda
+  biology
+bip_39_word_space_12: shock spring loop energy capable voice pair quick baby soda
+  biology antique
+bip_39_word_space_2: shock spring
+bip_39_word_space_3: shock spring loop
+bip_39_word_space_4: shock spring loop energy
+bip_39_word_space_5: shock spring loop energy capable
+bip_39_word_space_6: shock spring loop energy capable voice
+bip_39_word_space_7: shock spring loop energy capable voice pair
+bip_39_word_space_8: shock spring loop energy capable voice pair quick
+bip_39_word_space_9: shock spring loop energy capable voice pair quick baby
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

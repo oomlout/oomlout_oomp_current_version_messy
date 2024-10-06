@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sing liberty
+  * bip 39 word 3: sing liberty deposit
+  * bip 39 word: sing liberty deposit vacant smoke clap jewel hobby vessel uncover oblige anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sing |  
+| bip_39_word_new_br10 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover |  
+| bip_39_word_new_br11 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover<br>oblige |  
+| bip_39_word_new_br12 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel<br>uncover<br>oblige<br>anger |  
+| bip_39_word_new_br2 | sing<br>liberty |  
+| bip_39_word_new_br3 | sing<br>liberty<br>deposit |  
+| bip_39_word_new_br4 | sing<br>liberty<br>deposit<br>vacant |  
+| bip_39_word_new_br5 | sing<br>liberty<br>deposit<br>vacant<br>smoke |  
+| bip_39_word_new_br6 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap |  
+| bip_39_word_new_br7 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel |  
+| bip_39_word_new_br8 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby |  
+| bip_39_word_new_br9 | sing<br>liberty<br>deposit<br>vacant<br>smoke<br>clap<br>jewel<br>hobby<br>vessel |  
+| bip_39_word_new_line1 | sing |  
+| bip_39_word_new_line10 | sing
+liberty
+deposit
+vacant
+smoke
+clap
+jewel
+hobby
+vessel
+uncover |  
+| bip_39_word_new_line11 | sing
+liberty
+deposit
+vacant
+smoke
+clap
+jewel
+hobby
+vessel
+uncover
+oblige |  
+| bip_39_word_new_line12 | sing
+liberty
+deposit
+vacant
+smoke
+clap
+jewel
+hobby
+vessel
+uncover
+oblige
+anger |  
+| bip_39_word_new_line2 | sing
+liberty |  
+| bip_39_word_new_line3 | sing
+liberty
+deposit |  
+| bip_39_word_new_line4 | sing
+liberty
+deposit
+vacant |  
+| bip_39_word_new_line5 | sing
+liberty
+deposit
+vacant
+smoke |  
+| bip_39_word_new_line6 | sing
+liberty
+deposit
+vacant
+smoke
+clap |  
+| bip_39_word_new_line7 | sing
+liberty
+deposit
+vacant
+smoke
+clap
+jewel |  
+| bip_39_word_new_line8 | sing
+liberty
+deposit
+vacant
+smoke
+clap
+jewel
+hobby |  
+| bip_39_word_new_line9 | sing
+liberty
+deposit
+vacant
+smoke
+clap
+jewel
+hobby
+vessel |  
+| bip_39_word_space_0 | ['sing', 'liberty', 'deposit', 'vacant', 'smoke', 'clap', 'jewel', 'hobby', 'vessel', 'uncover', 'oblige', 'anger'] |  
+| bip_39_word_space_1 | sing |  
+| bip_39_word_space_10 | sing liberty deposit vacant smoke clap jewel hobby vessel uncover |  
+| bip_39_word_space_11 | sing liberty deposit vacant smoke clap jewel hobby vessel uncover oblige |  
+| bip_39_word_space_12 | sing liberty deposit vacant smoke clap jewel hobby vessel uncover oblige anger |  
+| bip_39_word_space_2 | sing liberty |  
+| bip_39_word_space_3 | sing liberty deposit |  
+| bip_39_word_space_4 | sing liberty deposit vacant |  
+| bip_39_word_space_5 | sing liberty deposit vacant smoke |  
+| bip_39_word_space_6 | sing liberty deposit vacant smoke clap |  
+| bip_39_word_space_7 | sing liberty deposit vacant smoke clap jewel |  
+| bip_39_word_space_8 | sing liberty deposit vacant smoke clap jewel hobby |  
+| bip_39_word_space_9 | sing liberty deposit vacant smoke clap jewel hobby vessel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

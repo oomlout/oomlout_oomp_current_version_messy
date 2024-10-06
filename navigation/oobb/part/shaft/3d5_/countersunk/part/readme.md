@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: close tone
+  * bip 39 word 3: close tone rib
+  * bip 39 word: close tone rib canoe mother boat rather hungry celery dress cement ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | close |  
+| bip_39_word_new_br10 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress |  
+| bip_39_word_new_br11 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement |  
+| bip_39_word_new_br12 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement<br>ankle |  
+| bip_39_word_new_br2 | close<br>tone |  
+| bip_39_word_new_br3 | close<br>tone<br>rib |  
+| bip_39_word_new_br4 | close<br>tone<br>rib<br>canoe |  
+| bip_39_word_new_br5 | close<br>tone<br>rib<br>canoe<br>mother |  
+| bip_39_word_new_br6 | close<br>tone<br>rib<br>canoe<br>mother<br>boat |  
+| bip_39_word_new_br7 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather |  
+| bip_39_word_new_br8 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry |  
+| bip_39_word_new_br9 | close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery |  
+| bip_39_word_new_line1 | close |  
+| bip_39_word_new_line10 | close
+tone
+rib
+canoe
+mother
+boat
+rather
+hungry
+celery
+dress |  
+| bip_39_word_new_line11 | close
+tone
+rib
+canoe
+mother
+boat
+rather
+hungry
+celery
+dress
+cement |  
+| bip_39_word_new_line12 | close
+tone
+rib
+canoe
+mother
+boat
+rather
+hungry
+celery
+dress
+cement
+ankle |  
+| bip_39_word_new_line2 | close
+tone |  
+| bip_39_word_new_line3 | close
+tone
+rib |  
+| bip_39_word_new_line4 | close
+tone
+rib
+canoe |  
+| bip_39_word_new_line5 | close
+tone
+rib
+canoe
+mother |  
+| bip_39_word_new_line6 | close
+tone
+rib
+canoe
+mother
+boat |  
+| bip_39_word_new_line7 | close
+tone
+rib
+canoe
+mother
+boat
+rather |  
+| bip_39_word_new_line8 | close
+tone
+rib
+canoe
+mother
+boat
+rather
+hungry |  
+| bip_39_word_new_line9 | close
+tone
+rib
+canoe
+mother
+boat
+rather
+hungry
+celery |  
+| bip_39_word_space_0 | ['close', 'tone', 'rib', 'canoe', 'mother', 'boat', 'rather', 'hungry', 'celery', 'dress', 'cement', 'ankle'] |  
+| bip_39_word_space_1 | close |  
+| bip_39_word_space_10 | close tone rib canoe mother boat rather hungry celery dress |  
+| bip_39_word_space_11 | close tone rib canoe mother boat rather hungry celery dress cement |  
+| bip_39_word_space_12 | close tone rib canoe mother boat rather hungry celery dress cement ankle |  
+| bip_39_word_space_2 | close tone |  
+| bip_39_word_space_3 | close tone rib |  
+| bip_39_word_space_4 | close tone rib canoe |  
+| bip_39_word_space_5 | close tone rib canoe mother |  
+| bip_39_word_space_6 | close tone rib canoe mother boat |  
+| bip_39_word_space_7 | close tone rib canoe mother boat rather |  
+| bip_39_word_space_8 | close tone rib canoe mother boat rather hungry |  
+| bip_39_word_space_9 | close tone rib canoe mother boat rather hungry celery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

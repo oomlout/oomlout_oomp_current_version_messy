@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bean country
+  * bip 39 word 3: bean country flee
+  * bip 39 word: bean country flee jewel helmet kind proof choice screen mind enough ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bean |  
+| bip_39_word_new_br10 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind<br>proof<br>choice<br>screen<br>mind |  
+| bip_39_word_new_br11 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind<br>proof<br>choice<br>screen<br>mind<br>enough |  
+| bip_39_word_new_br12 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind<br>proof<br>choice<br>screen<br>mind<br>enough<br>ask |  
+| bip_39_word_new_br2 | bean<br>country |  
+| bip_39_word_new_br3 | bean<br>country<br>flee |  
+| bip_39_word_new_br4 | bean<br>country<br>flee<br>jewel |  
+| bip_39_word_new_br5 | bean<br>country<br>flee<br>jewel<br>helmet |  
+| bip_39_word_new_br6 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind |  
+| bip_39_word_new_br7 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind<br>proof |  
+| bip_39_word_new_br8 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind<br>proof<br>choice |  
+| bip_39_word_new_br9 | bean<br>country<br>flee<br>jewel<br>helmet<br>kind<br>proof<br>choice<br>screen |  
+| bip_39_word_new_line1 | bean |  
+| bip_39_word_new_line10 | bean
+country
+flee
+jewel
+helmet
+kind
+proof
+choice
+screen
+mind |  
+| bip_39_word_new_line11 | bean
+country
+flee
+jewel
+helmet
+kind
+proof
+choice
+screen
+mind
+enough |  
+| bip_39_word_new_line12 | bean
+country
+flee
+jewel
+helmet
+kind
+proof
+choice
+screen
+mind
+enough
+ask |  
+| bip_39_word_new_line2 | bean
+country |  
+| bip_39_word_new_line3 | bean
+country
+flee |  
+| bip_39_word_new_line4 | bean
+country
+flee
+jewel |  
+| bip_39_word_new_line5 | bean
+country
+flee
+jewel
+helmet |  
+| bip_39_word_new_line6 | bean
+country
+flee
+jewel
+helmet
+kind |  
+| bip_39_word_new_line7 | bean
+country
+flee
+jewel
+helmet
+kind
+proof |  
+| bip_39_word_new_line8 | bean
+country
+flee
+jewel
+helmet
+kind
+proof
+choice |  
+| bip_39_word_new_line9 | bean
+country
+flee
+jewel
+helmet
+kind
+proof
+choice
+screen |  
+| bip_39_word_space_0 | ['bean', 'country', 'flee', 'jewel', 'helmet', 'kind', 'proof', 'choice', 'screen', 'mind', 'enough', 'ask'] |  
+| bip_39_word_space_1 | bean |  
+| bip_39_word_space_10 | bean country flee jewel helmet kind proof choice screen mind |  
+| bip_39_word_space_11 | bean country flee jewel helmet kind proof choice screen mind enough |  
+| bip_39_word_space_12 | bean country flee jewel helmet kind proof choice screen mind enough ask |  
+| bip_39_word_space_2 | bean country |  
+| bip_39_word_space_3 | bean country flee |  
+| bip_39_word_space_4 | bean country flee jewel |  
+| bip_39_word_space_5 | bean country flee jewel helmet |  
+| bip_39_word_space_6 | bean country flee jewel helmet kind |  
+| bip_39_word_space_7 | bean country flee jewel helmet kind proof |  
+| bip_39_word_space_8 | bean country flee jewel helmet kind proof choice |  
+| bip_39_word_space_9 | bean country flee jewel helmet kind proof choice screen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

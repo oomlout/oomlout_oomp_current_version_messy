@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tenant zone
+  * bip 39 word 3: tenant zone bonus
+  * bip 39 word: tenant zone bonus food opera neck rich dream actual pulse topic actual
 
 ### other_codes
 * short_code: b5m45
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tenant |  
+| bip_39_word_new_br10 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual<br>pulse |  
+| bip_39_word_new_br11 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual<br>pulse<br>topic |  
+| bip_39_word_new_br12 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual<br>pulse<br>topic<br>actual |  
+| bip_39_word_new_br2 | tenant<br>zone |  
+| bip_39_word_new_br3 | tenant<br>zone<br>bonus |  
+| bip_39_word_new_br4 | tenant<br>zone<br>bonus<br>food |  
+| bip_39_word_new_br5 | tenant<br>zone<br>bonus<br>food<br>opera |  
+| bip_39_word_new_br6 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck |  
+| bip_39_word_new_br7 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich |  
+| bip_39_word_new_br8 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream |  
+| bip_39_word_new_br9 | tenant<br>zone<br>bonus<br>food<br>opera<br>neck<br>rich<br>dream<br>actual |  
+| bip_39_word_new_line1 | tenant |  
+| bip_39_word_new_line10 | tenant
+zone
+bonus
+food
+opera
+neck
+rich
+dream
+actual
+pulse |  
+| bip_39_word_new_line11 | tenant
+zone
+bonus
+food
+opera
+neck
+rich
+dream
+actual
+pulse
+topic |  
+| bip_39_word_new_line12 | tenant
+zone
+bonus
+food
+opera
+neck
+rich
+dream
+actual
+pulse
+topic
+actual |  
+| bip_39_word_new_line2 | tenant
+zone |  
+| bip_39_word_new_line3 | tenant
+zone
+bonus |  
+| bip_39_word_new_line4 | tenant
+zone
+bonus
+food |  
+| bip_39_word_new_line5 | tenant
+zone
+bonus
+food
+opera |  
+| bip_39_word_new_line6 | tenant
+zone
+bonus
+food
+opera
+neck |  
+| bip_39_word_new_line7 | tenant
+zone
+bonus
+food
+opera
+neck
+rich |  
+| bip_39_word_new_line8 | tenant
+zone
+bonus
+food
+opera
+neck
+rich
+dream |  
+| bip_39_word_new_line9 | tenant
+zone
+bonus
+food
+opera
+neck
+rich
+dream
+actual |  
+| bip_39_word_space_0 | ['tenant', 'zone', 'bonus', 'food', 'opera', 'neck', 'rich', 'dream', 'actual', 'pulse', 'topic', 'actual'] |  
+| bip_39_word_space_1 | tenant |  
+| bip_39_word_space_10 | tenant zone bonus food opera neck rich dream actual pulse |  
+| bip_39_word_space_11 | tenant zone bonus food opera neck rich dream actual pulse topic |  
+| bip_39_word_space_12 | tenant zone bonus food opera neck rich dream actual pulse topic actual |  
+| bip_39_word_space_2 | tenant zone |  
+| bip_39_word_space_3 | tenant zone bonus |  
+| bip_39_word_space_4 | tenant zone bonus food |  
+| bip_39_word_space_5 | tenant zone bonus food opera |  
+| bip_39_word_space_6 | tenant zone bonus food opera neck |  
+| bip_39_word_space_7 | tenant zone bonus food opera neck rich |  
+| bip_39_word_space_8 | tenant zone bonus food opera neck rich dream |  
+| bip_39_word_space_9 | tenant zone bonus food opera neck rich dream actual |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

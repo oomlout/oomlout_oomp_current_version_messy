@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: endorse seven
+  * bip 39 word 3: endorse seven moon
+  * bip 39 word: endorse seven moon wild legend aerobic sense trade solution coil session aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | endorse |  
+| bip_39_word_new_br10 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic<br>sense<br>trade<br>solution<br>coil |  
+| bip_39_word_new_br11 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic<br>sense<br>trade<br>solution<br>coil<br>session |  
+| bip_39_word_new_br12 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic<br>sense<br>trade<br>solution<br>coil<br>session<br>aspect |  
+| bip_39_word_new_br2 | endorse<br>seven |  
+| bip_39_word_new_br3 | endorse<br>seven<br>moon |  
+| bip_39_word_new_br4 | endorse<br>seven<br>moon<br>wild |  
+| bip_39_word_new_br5 | endorse<br>seven<br>moon<br>wild<br>legend |  
+| bip_39_word_new_br6 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic |  
+| bip_39_word_new_br7 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic<br>sense |  
+| bip_39_word_new_br8 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic<br>sense<br>trade |  
+| bip_39_word_new_br9 | endorse<br>seven<br>moon<br>wild<br>legend<br>aerobic<br>sense<br>trade<br>solution |  
+| bip_39_word_new_line1 | endorse |  
+| bip_39_word_new_line10 | endorse
+seven
+moon
+wild
+legend
+aerobic
+sense
+trade
+solution
+coil |  
+| bip_39_word_new_line11 | endorse
+seven
+moon
+wild
+legend
+aerobic
+sense
+trade
+solution
+coil
+session |  
+| bip_39_word_new_line12 | endorse
+seven
+moon
+wild
+legend
+aerobic
+sense
+trade
+solution
+coil
+session
+aspect |  
+| bip_39_word_new_line2 | endorse
+seven |  
+| bip_39_word_new_line3 | endorse
+seven
+moon |  
+| bip_39_word_new_line4 | endorse
+seven
+moon
+wild |  
+| bip_39_word_new_line5 | endorse
+seven
+moon
+wild
+legend |  
+| bip_39_word_new_line6 | endorse
+seven
+moon
+wild
+legend
+aerobic |  
+| bip_39_word_new_line7 | endorse
+seven
+moon
+wild
+legend
+aerobic
+sense |  
+| bip_39_word_new_line8 | endorse
+seven
+moon
+wild
+legend
+aerobic
+sense
+trade |  
+| bip_39_word_new_line9 | endorse
+seven
+moon
+wild
+legend
+aerobic
+sense
+trade
+solution |  
+| bip_39_word_space_0 | ['endorse', 'seven', 'moon', 'wild', 'legend', 'aerobic', 'sense', 'trade', 'solution', 'coil', 'session', 'aspect'] |  
+| bip_39_word_space_1 | endorse |  
+| bip_39_word_space_10 | endorse seven moon wild legend aerobic sense trade solution coil |  
+| bip_39_word_space_11 | endorse seven moon wild legend aerobic sense trade solution coil session |  
+| bip_39_word_space_12 | endorse seven moon wild legend aerobic sense trade solution coil session aspect |  
+| bip_39_word_space_2 | endorse seven |  
+| bip_39_word_space_3 | endorse seven moon |  
+| bip_39_word_space_4 | endorse seven moon wild |  
+| bip_39_word_space_5 | endorse seven moon wild legend |  
+| bip_39_word_space_6 | endorse seven moon wild legend aerobic |  
+| bip_39_word_space_7 | endorse seven moon wild legend aerobic sense |  
+| bip_39_word_space_8 | endorse seven moon wild legend aerobic sense trade |  
+| bip_39_word_space_9 | endorse seven moon wild legend aerobic sense trade solution |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

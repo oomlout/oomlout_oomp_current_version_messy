@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: family network
+  * bip 39 word 3: family network reveal
+  * bip 39 word: family network reveal item hamster begin food upon boil rain flip attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | family |  
+| bip_39_word_new_br10 | family<br>network<br>reveal<br>item<br>hamster<br>begin<br>food<br>upon<br>boil<br>rain |  
+| bip_39_word_new_br11 | family<br>network<br>reveal<br>item<br>hamster<br>begin<br>food<br>upon<br>boil<br>rain<br>flip |  
+| bip_39_word_new_br12 | family<br>network<br>reveal<br>item<br>hamster<br>begin<br>food<br>upon<br>boil<br>rain<br>flip<br>attend |  
+| bip_39_word_new_br2 | family<br>network |  
+| bip_39_word_new_br3 | family<br>network<br>reveal |  
+| bip_39_word_new_br4 | family<br>network<br>reveal<br>item |  
+| bip_39_word_new_br5 | family<br>network<br>reveal<br>item<br>hamster |  
+| bip_39_word_new_br6 | family<br>network<br>reveal<br>item<br>hamster<br>begin |  
+| bip_39_word_new_br7 | family<br>network<br>reveal<br>item<br>hamster<br>begin<br>food |  
+| bip_39_word_new_br8 | family<br>network<br>reveal<br>item<br>hamster<br>begin<br>food<br>upon |  
+| bip_39_word_new_br9 | family<br>network<br>reveal<br>item<br>hamster<br>begin<br>food<br>upon<br>boil |  
+| bip_39_word_new_line1 | family |  
+| bip_39_word_new_line10 | family
+network
+reveal
+item
+hamster
+begin
+food
+upon
+boil
+rain |  
+| bip_39_word_new_line11 | family
+network
+reveal
+item
+hamster
+begin
+food
+upon
+boil
+rain
+flip |  
+| bip_39_word_new_line12 | family
+network
+reveal
+item
+hamster
+begin
+food
+upon
+boil
+rain
+flip
+attend |  
+| bip_39_word_new_line2 | family
+network |  
+| bip_39_word_new_line3 | family
+network
+reveal |  
+| bip_39_word_new_line4 | family
+network
+reveal
+item |  
+| bip_39_word_new_line5 | family
+network
+reveal
+item
+hamster |  
+| bip_39_word_new_line6 | family
+network
+reveal
+item
+hamster
+begin |  
+| bip_39_word_new_line7 | family
+network
+reveal
+item
+hamster
+begin
+food |  
+| bip_39_word_new_line8 | family
+network
+reveal
+item
+hamster
+begin
+food
+upon |  
+| bip_39_word_new_line9 | family
+network
+reveal
+item
+hamster
+begin
+food
+upon
+boil |  
+| bip_39_word_space_0 | ['family', 'network', 'reveal', 'item', 'hamster', 'begin', 'food', 'upon', 'boil', 'rain', 'flip', 'attend'] |  
+| bip_39_word_space_1 | family |  
+| bip_39_word_space_10 | family network reveal item hamster begin food upon boil rain |  
+| bip_39_word_space_11 | family network reveal item hamster begin food upon boil rain flip |  
+| bip_39_word_space_12 | family network reveal item hamster begin food upon boil rain flip attend |  
+| bip_39_word_space_2 | family network |  
+| bip_39_word_space_3 | family network reveal |  
+| bip_39_word_space_4 | family network reveal item |  
+| bip_39_word_space_5 | family network reveal item hamster |  
+| bip_39_word_space_6 | family network reveal item hamster begin |  
+| bip_39_word_space_7 | family network reveal item hamster begin food |  
+| bip_39_word_space_8 | family network reveal item hamster begin food upon |  
+| bip_39_word_space_9 | family network reveal item hamster begin food upon boil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

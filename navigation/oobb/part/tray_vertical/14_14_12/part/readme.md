@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: innocent mystery
+  * bip 39 word 3: innocent mystery problem
+  * bip 39 word: innocent mystery problem direct ozone clown asset menu salad special antique acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | innocent |  
+| bip_39_word_new_br10 | innocent<br>mystery<br>problem<br>direct<br>ozone<br>clown<br>asset<br>menu<br>salad<br>special |  
+| bip_39_word_new_br11 | innocent<br>mystery<br>problem<br>direct<br>ozone<br>clown<br>asset<br>menu<br>salad<br>special<br>antique |  
+| bip_39_word_new_br12 | innocent<br>mystery<br>problem<br>direct<br>ozone<br>clown<br>asset<br>menu<br>salad<br>special<br>antique<br>acoustic |  
+| bip_39_word_new_br2 | innocent<br>mystery |  
+| bip_39_word_new_br3 | innocent<br>mystery<br>problem |  
+| bip_39_word_new_br4 | innocent<br>mystery<br>problem<br>direct |  
+| bip_39_word_new_br5 | innocent<br>mystery<br>problem<br>direct<br>ozone |  
+| bip_39_word_new_br6 | innocent<br>mystery<br>problem<br>direct<br>ozone<br>clown |  
+| bip_39_word_new_br7 | innocent<br>mystery<br>problem<br>direct<br>ozone<br>clown<br>asset |  
+| bip_39_word_new_br8 | innocent<br>mystery<br>problem<br>direct<br>ozone<br>clown<br>asset<br>menu |  
+| bip_39_word_new_br9 | innocent<br>mystery<br>problem<br>direct<br>ozone<br>clown<br>asset<br>menu<br>salad |  
+| bip_39_word_new_line1 | innocent |  
+| bip_39_word_new_line10 | innocent
+mystery
+problem
+direct
+ozone
+clown
+asset
+menu
+salad
+special |  
+| bip_39_word_new_line11 | innocent
+mystery
+problem
+direct
+ozone
+clown
+asset
+menu
+salad
+special
+antique |  
+| bip_39_word_new_line12 | innocent
+mystery
+problem
+direct
+ozone
+clown
+asset
+menu
+salad
+special
+antique
+acoustic |  
+| bip_39_word_new_line2 | innocent
+mystery |  
+| bip_39_word_new_line3 | innocent
+mystery
+problem |  
+| bip_39_word_new_line4 | innocent
+mystery
+problem
+direct |  
+| bip_39_word_new_line5 | innocent
+mystery
+problem
+direct
+ozone |  
+| bip_39_word_new_line6 | innocent
+mystery
+problem
+direct
+ozone
+clown |  
+| bip_39_word_new_line7 | innocent
+mystery
+problem
+direct
+ozone
+clown
+asset |  
+| bip_39_word_new_line8 | innocent
+mystery
+problem
+direct
+ozone
+clown
+asset
+menu |  
+| bip_39_word_new_line9 | innocent
+mystery
+problem
+direct
+ozone
+clown
+asset
+menu
+salad |  
+| bip_39_word_space_0 | ['innocent', 'mystery', 'problem', 'direct', 'ozone', 'clown', 'asset', 'menu', 'salad', 'special', 'antique', 'acoustic'] |  
+| bip_39_word_space_1 | innocent |  
+| bip_39_word_space_10 | innocent mystery problem direct ozone clown asset menu salad special |  
+| bip_39_word_space_11 | innocent mystery problem direct ozone clown asset menu salad special antique |  
+| bip_39_word_space_12 | innocent mystery problem direct ozone clown asset menu salad special antique acoustic |  
+| bip_39_word_space_2 | innocent mystery |  
+| bip_39_word_space_3 | innocent mystery problem |  
+| bip_39_word_space_4 | innocent mystery problem direct |  
+| bip_39_word_space_5 | innocent mystery problem direct ozone |  
+| bip_39_word_space_6 | innocent mystery problem direct ozone clown |  
+| bip_39_word_space_7 | innocent mystery problem direct ozone clown asset |  
+| bip_39_word_space_8 | innocent mystery problem direct ozone clown asset menu |  
+| bip_39_word_space_9 | innocent mystery problem direct ozone clown asset menu salad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

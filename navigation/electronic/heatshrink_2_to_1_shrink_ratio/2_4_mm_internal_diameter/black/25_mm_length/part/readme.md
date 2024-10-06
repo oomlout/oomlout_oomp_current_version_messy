@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: century coil
+  * bip 39 word 3: century coil code
+  * bip 39 word: century coil code mushroom apple ritual endless carry bus pen again audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | century |  
+| bip_39_word_new_br10 | century<br>coil<br>code<br>mushroom<br>apple<br>ritual<br>endless<br>carry<br>bus<br>pen |  
+| bip_39_word_new_br11 | century<br>coil<br>code<br>mushroom<br>apple<br>ritual<br>endless<br>carry<br>bus<br>pen<br>again |  
+| bip_39_word_new_br12 | century<br>coil<br>code<br>mushroom<br>apple<br>ritual<br>endless<br>carry<br>bus<br>pen<br>again<br>audit |  
+| bip_39_word_new_br2 | century<br>coil |  
+| bip_39_word_new_br3 | century<br>coil<br>code |  
+| bip_39_word_new_br4 | century<br>coil<br>code<br>mushroom |  
+| bip_39_word_new_br5 | century<br>coil<br>code<br>mushroom<br>apple |  
+| bip_39_word_new_br6 | century<br>coil<br>code<br>mushroom<br>apple<br>ritual |  
+| bip_39_word_new_br7 | century<br>coil<br>code<br>mushroom<br>apple<br>ritual<br>endless |  
+| bip_39_word_new_br8 | century<br>coil<br>code<br>mushroom<br>apple<br>ritual<br>endless<br>carry |  
+| bip_39_word_new_br9 | century<br>coil<br>code<br>mushroom<br>apple<br>ritual<br>endless<br>carry<br>bus |  
+| bip_39_word_new_line1 | century |  
+| bip_39_word_new_line10 | century
+coil
+code
+mushroom
+apple
+ritual
+endless
+carry
+bus
+pen |  
+| bip_39_word_new_line11 | century
+coil
+code
+mushroom
+apple
+ritual
+endless
+carry
+bus
+pen
+again |  
+| bip_39_word_new_line12 | century
+coil
+code
+mushroom
+apple
+ritual
+endless
+carry
+bus
+pen
+again
+audit |  
+| bip_39_word_new_line2 | century
+coil |  
+| bip_39_word_new_line3 | century
+coil
+code |  
+| bip_39_word_new_line4 | century
+coil
+code
+mushroom |  
+| bip_39_word_new_line5 | century
+coil
+code
+mushroom
+apple |  
+| bip_39_word_new_line6 | century
+coil
+code
+mushroom
+apple
+ritual |  
+| bip_39_word_new_line7 | century
+coil
+code
+mushroom
+apple
+ritual
+endless |  
+| bip_39_word_new_line8 | century
+coil
+code
+mushroom
+apple
+ritual
+endless
+carry |  
+| bip_39_word_new_line9 | century
+coil
+code
+mushroom
+apple
+ritual
+endless
+carry
+bus |  
+| bip_39_word_space_0 | ['century', 'coil', 'code', 'mushroom', 'apple', 'ritual', 'endless', 'carry', 'bus', 'pen', 'again', 'audit'] |  
+| bip_39_word_space_1 | century |  
+| bip_39_word_space_10 | century coil code mushroom apple ritual endless carry bus pen |  
+| bip_39_word_space_11 | century coil code mushroom apple ritual endless carry bus pen again |  
+| bip_39_word_space_12 | century coil code mushroom apple ritual endless carry bus pen again audit |  
+| bip_39_word_space_2 | century coil |  
+| bip_39_word_space_3 | century coil code |  
+| bip_39_word_space_4 | century coil code mushroom |  
+| bip_39_word_space_5 | century coil code mushroom apple |  
+| bip_39_word_space_6 | century coil code mushroom apple ritual |  
+| bip_39_word_space_7 | century coil code mushroom apple ritual endless |  
+| bip_39_word_space_8 | century coil code mushroom apple ritual endless carry |  
+| bip_39_word_space_9 | century coil code mushroom apple ritual endless carry bus |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

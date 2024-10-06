@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pioneer stamp
+  * bip 39 word 3: pioneer stamp never
+  * bip 39 word: pioneer stamp never idle skill inquiry visual attitude choose please mystery alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pioneer |  
+| bip_39_word_new_br10 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry<br>visual<br>attitude<br>choose<br>please |  
+| bip_39_word_new_br11 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry<br>visual<br>attitude<br>choose<br>please<br>mystery |  
+| bip_39_word_new_br12 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry<br>visual<br>attitude<br>choose<br>please<br>mystery<br>alarm |  
+| bip_39_word_new_br2 | pioneer<br>stamp |  
+| bip_39_word_new_br3 | pioneer<br>stamp<br>never |  
+| bip_39_word_new_br4 | pioneer<br>stamp<br>never<br>idle |  
+| bip_39_word_new_br5 | pioneer<br>stamp<br>never<br>idle<br>skill |  
+| bip_39_word_new_br6 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry |  
+| bip_39_word_new_br7 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry<br>visual |  
+| bip_39_word_new_br8 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry<br>visual<br>attitude |  
+| bip_39_word_new_br9 | pioneer<br>stamp<br>never<br>idle<br>skill<br>inquiry<br>visual<br>attitude<br>choose |  
+| bip_39_word_new_line1 | pioneer |  
+| bip_39_word_new_line10 | pioneer
+stamp
+never
+idle
+skill
+inquiry
+visual
+attitude
+choose
+please |  
+| bip_39_word_new_line11 | pioneer
+stamp
+never
+idle
+skill
+inquiry
+visual
+attitude
+choose
+please
+mystery |  
+| bip_39_word_new_line12 | pioneer
+stamp
+never
+idle
+skill
+inquiry
+visual
+attitude
+choose
+please
+mystery
+alarm |  
+| bip_39_word_new_line2 | pioneer
+stamp |  
+| bip_39_word_new_line3 | pioneer
+stamp
+never |  
+| bip_39_word_new_line4 | pioneer
+stamp
+never
+idle |  
+| bip_39_word_new_line5 | pioneer
+stamp
+never
+idle
+skill |  
+| bip_39_word_new_line6 | pioneer
+stamp
+never
+idle
+skill
+inquiry |  
+| bip_39_word_new_line7 | pioneer
+stamp
+never
+idle
+skill
+inquiry
+visual |  
+| bip_39_word_new_line8 | pioneer
+stamp
+never
+idle
+skill
+inquiry
+visual
+attitude |  
+| bip_39_word_new_line9 | pioneer
+stamp
+never
+idle
+skill
+inquiry
+visual
+attitude
+choose |  
+| bip_39_word_space_0 | ['pioneer', 'stamp', 'never', 'idle', 'skill', 'inquiry', 'visual', 'attitude', 'choose', 'please', 'mystery', 'alarm'] |  
+| bip_39_word_space_1 | pioneer |  
+| bip_39_word_space_10 | pioneer stamp never idle skill inquiry visual attitude choose please |  
+| bip_39_word_space_11 | pioneer stamp never idle skill inquiry visual attitude choose please mystery |  
+| bip_39_word_space_12 | pioneer stamp never idle skill inquiry visual attitude choose please mystery alarm |  
+| bip_39_word_space_2 | pioneer stamp |  
+| bip_39_word_space_3 | pioneer stamp never |  
+| bip_39_word_space_4 | pioneer stamp never idle |  
+| bip_39_word_space_5 | pioneer stamp never idle skill |  
+| bip_39_word_space_6 | pioneer stamp never idle skill inquiry |  
+| bip_39_word_space_7 | pioneer stamp never idle skill inquiry visual |  
+| bip_39_word_space_8 | pioneer stamp never idle skill inquiry visual attitude |  
+| bip_39_word_space_9 | pioneer stamp never idle skill inquiry visual attitude choose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

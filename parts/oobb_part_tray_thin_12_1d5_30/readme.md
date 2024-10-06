@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: change morning
+  * bip 39 word 3: change morning announce
+  * bip 39 word: change morning announce oak survey endless rice cactus theory tissue above aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | change |  
+| bip_39_word_new_br10 | change<br>morning<br>announce<br>oak<br>survey<br>endless<br>rice<br>cactus<br>theory<br>tissue |  
+| bip_39_word_new_br11 | change<br>morning<br>announce<br>oak<br>survey<br>endless<br>rice<br>cactus<br>theory<br>tissue<br>above |  
+| bip_39_word_new_br12 | change<br>morning<br>announce<br>oak<br>survey<br>endless<br>rice<br>cactus<br>theory<br>tissue<br>above<br>aspect |  
+| bip_39_word_new_br2 | change<br>morning |  
+| bip_39_word_new_br3 | change<br>morning<br>announce |  
+| bip_39_word_new_br4 | change<br>morning<br>announce<br>oak |  
+| bip_39_word_new_br5 | change<br>morning<br>announce<br>oak<br>survey |  
+| bip_39_word_new_br6 | change<br>morning<br>announce<br>oak<br>survey<br>endless |  
+| bip_39_word_new_br7 | change<br>morning<br>announce<br>oak<br>survey<br>endless<br>rice |  
+| bip_39_word_new_br8 | change<br>morning<br>announce<br>oak<br>survey<br>endless<br>rice<br>cactus |  
+| bip_39_word_new_br9 | change<br>morning<br>announce<br>oak<br>survey<br>endless<br>rice<br>cactus<br>theory |  
+| bip_39_word_new_line1 | change |  
+| bip_39_word_new_line10 | change
+morning
+announce
+oak
+survey
+endless
+rice
+cactus
+theory
+tissue |  
+| bip_39_word_new_line11 | change
+morning
+announce
+oak
+survey
+endless
+rice
+cactus
+theory
+tissue
+above |  
+| bip_39_word_new_line12 | change
+morning
+announce
+oak
+survey
+endless
+rice
+cactus
+theory
+tissue
+above
+aspect |  
+| bip_39_word_new_line2 | change
+morning |  
+| bip_39_word_new_line3 | change
+morning
+announce |  
+| bip_39_word_new_line4 | change
+morning
+announce
+oak |  
+| bip_39_word_new_line5 | change
+morning
+announce
+oak
+survey |  
+| bip_39_word_new_line6 | change
+morning
+announce
+oak
+survey
+endless |  
+| bip_39_word_new_line7 | change
+morning
+announce
+oak
+survey
+endless
+rice |  
+| bip_39_word_new_line8 | change
+morning
+announce
+oak
+survey
+endless
+rice
+cactus |  
+| bip_39_word_new_line9 | change
+morning
+announce
+oak
+survey
+endless
+rice
+cactus
+theory |  
+| bip_39_word_space_0 | ['change', 'morning', 'announce', 'oak', 'survey', 'endless', 'rice', 'cactus', 'theory', 'tissue', 'above', 'aspect'] |  
+| bip_39_word_space_1 | change |  
+| bip_39_word_space_10 | change morning announce oak survey endless rice cactus theory tissue |  
+| bip_39_word_space_11 | change morning announce oak survey endless rice cactus theory tissue above |  
+| bip_39_word_space_12 | change morning announce oak survey endless rice cactus theory tissue above aspect |  
+| bip_39_word_space_2 | change morning |  
+| bip_39_word_space_3 | change morning announce |  
+| bip_39_word_space_4 | change morning announce oak |  
+| bip_39_word_space_5 | change morning announce oak survey |  
+| bip_39_word_space_6 | change morning announce oak survey endless |  
+| bip_39_word_space_7 | change morning announce oak survey endless rice |  
+| bip_39_word_space_8 | change morning announce oak survey endless rice cactus |  
+| bip_39_word_space_9 | change morning announce oak survey endless rice cactus theory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

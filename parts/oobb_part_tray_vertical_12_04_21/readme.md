@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slide opinion
+  * bip 39 word 3: slide opinion bean
+  * bip 39 word: slide opinion bean burst derive noodle seven detail average height mosquito absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slide |  
+| bip_39_word_new_br10 | slide<br>opinion<br>bean<br>burst<br>derive<br>noodle<br>seven<br>detail<br>average<br>height |  
+| bip_39_word_new_br11 | slide<br>opinion<br>bean<br>burst<br>derive<br>noodle<br>seven<br>detail<br>average<br>height<br>mosquito |  
+| bip_39_word_new_br12 | slide<br>opinion<br>bean<br>burst<br>derive<br>noodle<br>seven<br>detail<br>average<br>height<br>mosquito<br>absorb |  
+| bip_39_word_new_br2 | slide<br>opinion |  
+| bip_39_word_new_br3 | slide<br>opinion<br>bean |  
+| bip_39_word_new_br4 | slide<br>opinion<br>bean<br>burst |  
+| bip_39_word_new_br5 | slide<br>opinion<br>bean<br>burst<br>derive |  
+| bip_39_word_new_br6 | slide<br>opinion<br>bean<br>burst<br>derive<br>noodle |  
+| bip_39_word_new_br7 | slide<br>opinion<br>bean<br>burst<br>derive<br>noodle<br>seven |  
+| bip_39_word_new_br8 | slide<br>opinion<br>bean<br>burst<br>derive<br>noodle<br>seven<br>detail |  
+| bip_39_word_new_br9 | slide<br>opinion<br>bean<br>burst<br>derive<br>noodle<br>seven<br>detail<br>average |  
+| bip_39_word_new_line1 | slide |  
+| bip_39_word_new_line10 | slide
+opinion
+bean
+burst
+derive
+noodle
+seven
+detail
+average
+height |  
+| bip_39_word_new_line11 | slide
+opinion
+bean
+burst
+derive
+noodle
+seven
+detail
+average
+height
+mosquito |  
+| bip_39_word_new_line12 | slide
+opinion
+bean
+burst
+derive
+noodle
+seven
+detail
+average
+height
+mosquito
+absorb |  
+| bip_39_word_new_line2 | slide
+opinion |  
+| bip_39_word_new_line3 | slide
+opinion
+bean |  
+| bip_39_word_new_line4 | slide
+opinion
+bean
+burst |  
+| bip_39_word_new_line5 | slide
+opinion
+bean
+burst
+derive |  
+| bip_39_word_new_line6 | slide
+opinion
+bean
+burst
+derive
+noodle |  
+| bip_39_word_new_line7 | slide
+opinion
+bean
+burst
+derive
+noodle
+seven |  
+| bip_39_word_new_line8 | slide
+opinion
+bean
+burst
+derive
+noodle
+seven
+detail |  
+| bip_39_word_new_line9 | slide
+opinion
+bean
+burst
+derive
+noodle
+seven
+detail
+average |  
+| bip_39_word_space_0 | ['slide', 'opinion', 'bean', 'burst', 'derive', 'noodle', 'seven', 'detail', 'average', 'height', 'mosquito', 'absorb'] |  
+| bip_39_word_space_1 | slide |  
+| bip_39_word_space_10 | slide opinion bean burst derive noodle seven detail average height |  
+| bip_39_word_space_11 | slide opinion bean burst derive noodle seven detail average height mosquito |  
+| bip_39_word_space_12 | slide opinion bean burst derive noodle seven detail average height mosquito absorb |  
+| bip_39_word_space_2 | slide opinion |  
+| bip_39_word_space_3 | slide opinion bean |  
+| bip_39_word_space_4 | slide opinion bean burst |  
+| bip_39_word_space_5 | slide opinion bean burst derive |  
+| bip_39_word_space_6 | slide opinion bean burst derive noodle |  
+| bip_39_word_space_7 | slide opinion bean burst derive noodle seven |  
+| bip_39_word_space_8 | slide opinion bean burst derive noodle seven detail |  
+| bip_39_word_space_9 | slide opinion bean burst derive noodle seven detail average |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

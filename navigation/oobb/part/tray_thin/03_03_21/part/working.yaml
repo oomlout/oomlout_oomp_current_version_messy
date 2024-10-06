@@ -1,3 +1,187 @@
+bip_39_word_new_br1: achieve
+bip_39_word_new_br10: achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic<br>staff<br>crater<br>catalog<br>young
+bip_39_word_new_br11: achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic<br>staff<br>crater<br>catalog<br>young<br>general
+bip_39_word_new_br12: achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic<br>staff<br>crater<br>catalog<br>young<br>general<br>assist
+bip_39_word_new_br2: achieve<br>puppy
+bip_39_word_new_br3: achieve<br>puppy<br>topic
+bip_39_word_new_br4: achieve<br>puppy<br>topic<br>salon
+bip_39_word_new_br5: achieve<br>puppy<br>topic<br>salon<br>around
+bip_39_word_new_br6: achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic
+bip_39_word_new_br7: achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic<br>staff
+bip_39_word_new_br8: achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic<br>staff<br>crater
+bip_39_word_new_br9: achieve<br>puppy<br>topic<br>salon<br>around<br>dynamic<br>staff<br>crater<br>catalog
+bip_39_word_new_line1: achieve
+bip_39_word_new_line10: 'achieve
+
+  puppy
+
+  topic
+
+  salon
+
+  around
+
+  dynamic
+
+  staff
+
+  crater
+
+  catalog
+
+  young'
+bip_39_word_new_line11: 'achieve
+
+  puppy
+
+  topic
+
+  salon
+
+  around
+
+  dynamic
+
+  staff
+
+  crater
+
+  catalog
+
+  young
+
+  general'
+bip_39_word_new_line12: 'achieve
+
+  puppy
+
+  topic
+
+  salon
+
+  around
+
+  dynamic
+
+  staff
+
+  crater
+
+  catalog
+
+  young
+
+  general
+
+  assist'
+bip_39_word_new_line2: 'achieve
+
+  puppy'
+bip_39_word_new_line3: 'achieve
+
+  puppy
+
+  topic'
+bip_39_word_new_line4: 'achieve
+
+  puppy
+
+  topic
+
+  salon'
+bip_39_word_new_line5: 'achieve
+
+  puppy
+
+  topic
+
+  salon
+
+  around'
+bip_39_word_new_line6: 'achieve
+
+  puppy
+
+  topic
+
+  salon
+
+  around
+
+  dynamic'
+bip_39_word_new_line7: 'achieve
+
+  puppy
+
+  topic
+
+  salon
+
+  around
+
+  dynamic
+
+  staff'
+bip_39_word_new_line8: 'achieve
+
+  puppy
+
+  topic
+
+  salon
+
+  around
+
+  dynamic
+
+  staff
+
+  crater'
+bip_39_word_new_line9: 'achieve
+
+  puppy
+
+  topic
+
+  salon
+
+  around
+
+  dynamic
+
+  staff
+
+  crater
+
+  catalog'
+bip_39_word_space_0:
+- achieve
+- puppy
+- topic
+- salon
+- around
+- dynamic
+- staff
+- crater
+- catalog
+- young
+- general
+- assist
+bip_39_word_space_1: achieve
+bip_39_word_space_10: achieve puppy topic salon around dynamic staff crater catalog
+  young
+bip_39_word_space_11: achieve puppy topic salon around dynamic staff crater catalog
+  young general
+bip_39_word_space_12: achieve puppy topic salon around dynamic staff crater catalog
+  young general assist
+bip_39_word_space_2: achieve puppy
+bip_39_word_space_3: achieve puppy topic
+bip_39_word_space_4: achieve puppy topic salon
+bip_39_word_space_5: achieve puppy topic salon around
+bip_39_word_space_6: achieve puppy topic salon around dynamic
+bip_39_word_space_7: achieve puppy topic salon around dynamic staff
+bip_39_word_space_8: achieve puppy topic salon around dynamic staff crater
+bip_39_word_space_9: achieve puppy topic salon around dynamic staff crater catalog
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

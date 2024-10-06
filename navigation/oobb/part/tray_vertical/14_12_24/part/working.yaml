@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wrap
+bip_39_word_new_br10: wrap<br>only<br>fabric<br>enact<br>security<br>deny<br>keep<br>donkey<br>pave<br>crisp
+bip_39_word_new_br11: wrap<br>only<br>fabric<br>enact<br>security<br>deny<br>keep<br>donkey<br>pave<br>crisp<br>melt
+bip_39_word_new_br12: wrap<br>only<br>fabric<br>enact<br>security<br>deny<br>keep<br>donkey<br>pave<br>crisp<br>melt<br>area
+bip_39_word_new_br2: wrap<br>only
+bip_39_word_new_br3: wrap<br>only<br>fabric
+bip_39_word_new_br4: wrap<br>only<br>fabric<br>enact
+bip_39_word_new_br5: wrap<br>only<br>fabric<br>enact<br>security
+bip_39_word_new_br6: wrap<br>only<br>fabric<br>enact<br>security<br>deny
+bip_39_word_new_br7: wrap<br>only<br>fabric<br>enact<br>security<br>deny<br>keep
+bip_39_word_new_br8: wrap<br>only<br>fabric<br>enact<br>security<br>deny<br>keep<br>donkey
+bip_39_word_new_br9: wrap<br>only<br>fabric<br>enact<br>security<br>deny<br>keep<br>donkey<br>pave
+bip_39_word_new_line1: wrap
+bip_39_word_new_line10: 'wrap
+
+  only
+
+  fabric
+
+  enact
+
+  security
+
+  deny
+
+  keep
+
+  donkey
+
+  pave
+
+  crisp'
+bip_39_word_new_line11: 'wrap
+
+  only
+
+  fabric
+
+  enact
+
+  security
+
+  deny
+
+  keep
+
+  donkey
+
+  pave
+
+  crisp
+
+  melt'
+bip_39_word_new_line12: 'wrap
+
+  only
+
+  fabric
+
+  enact
+
+  security
+
+  deny
+
+  keep
+
+  donkey
+
+  pave
+
+  crisp
+
+  melt
+
+  area'
+bip_39_word_new_line2: 'wrap
+
+  only'
+bip_39_word_new_line3: 'wrap
+
+  only
+
+  fabric'
+bip_39_word_new_line4: 'wrap
+
+  only
+
+  fabric
+
+  enact'
+bip_39_word_new_line5: 'wrap
+
+  only
+
+  fabric
+
+  enact
+
+  security'
+bip_39_word_new_line6: 'wrap
+
+  only
+
+  fabric
+
+  enact
+
+  security
+
+  deny'
+bip_39_word_new_line7: 'wrap
+
+  only
+
+  fabric
+
+  enact
+
+  security
+
+  deny
+
+  keep'
+bip_39_word_new_line8: 'wrap
+
+  only
+
+  fabric
+
+  enact
+
+  security
+
+  deny
+
+  keep
+
+  donkey'
+bip_39_word_new_line9: 'wrap
+
+  only
+
+  fabric
+
+  enact
+
+  security
+
+  deny
+
+  keep
+
+  donkey
+
+  pave'
+bip_39_word_space_0:
+- wrap
+- only
+- fabric
+- enact
+- security
+- deny
+- keep
+- donkey
+- pave
+- crisp
+- melt
+- area
+bip_39_word_space_1: wrap
+bip_39_word_space_10: wrap only fabric enact security deny keep donkey pave crisp
+bip_39_word_space_11: wrap only fabric enact security deny keep donkey pave crisp
+  melt
+bip_39_word_space_12: wrap only fabric enact security deny keep donkey pave crisp
+  melt area
+bip_39_word_space_2: wrap only
+bip_39_word_space_3: wrap only fabric
+bip_39_word_space_4: wrap only fabric enact
+bip_39_word_space_5: wrap only fabric enact security
+bip_39_word_space_6: wrap only fabric enact security deny
+bip_39_word_space_7: wrap only fabric enact security deny keep
+bip_39_word_space_8: wrap only fabric enact security deny keep donkey
+bip_39_word_space_9: wrap only fabric enact security deny keep donkey pave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

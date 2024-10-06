@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frog claw
+  * bip 39 word 3: frog claw rent
+  * bip 39 word: frog claw rent fit lake finish goat piece car bronze echo approve
 
 ### other_codes
 * short_code: br61816
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frog |  
+| bip_39_word_new_br10 | frog<br>claw<br>rent<br>fit<br>lake<br>finish<br>goat<br>piece<br>car<br>bronze |  
+| bip_39_word_new_br11 | frog<br>claw<br>rent<br>fit<br>lake<br>finish<br>goat<br>piece<br>car<br>bronze<br>echo |  
+| bip_39_word_new_br12 | frog<br>claw<br>rent<br>fit<br>lake<br>finish<br>goat<br>piece<br>car<br>bronze<br>echo<br>approve |  
+| bip_39_word_new_br2 | frog<br>claw |  
+| bip_39_word_new_br3 | frog<br>claw<br>rent |  
+| bip_39_word_new_br4 | frog<br>claw<br>rent<br>fit |  
+| bip_39_word_new_br5 | frog<br>claw<br>rent<br>fit<br>lake |  
+| bip_39_word_new_br6 | frog<br>claw<br>rent<br>fit<br>lake<br>finish |  
+| bip_39_word_new_br7 | frog<br>claw<br>rent<br>fit<br>lake<br>finish<br>goat |  
+| bip_39_word_new_br8 | frog<br>claw<br>rent<br>fit<br>lake<br>finish<br>goat<br>piece |  
+| bip_39_word_new_br9 | frog<br>claw<br>rent<br>fit<br>lake<br>finish<br>goat<br>piece<br>car |  
+| bip_39_word_new_line1 | frog |  
+| bip_39_word_new_line10 | frog
+claw
+rent
+fit
+lake
+finish
+goat
+piece
+car
+bronze |  
+| bip_39_word_new_line11 | frog
+claw
+rent
+fit
+lake
+finish
+goat
+piece
+car
+bronze
+echo |  
+| bip_39_word_new_line12 | frog
+claw
+rent
+fit
+lake
+finish
+goat
+piece
+car
+bronze
+echo
+approve |  
+| bip_39_word_new_line2 | frog
+claw |  
+| bip_39_word_new_line3 | frog
+claw
+rent |  
+| bip_39_word_new_line4 | frog
+claw
+rent
+fit |  
+| bip_39_word_new_line5 | frog
+claw
+rent
+fit
+lake |  
+| bip_39_word_new_line6 | frog
+claw
+rent
+fit
+lake
+finish |  
+| bip_39_word_new_line7 | frog
+claw
+rent
+fit
+lake
+finish
+goat |  
+| bip_39_word_new_line8 | frog
+claw
+rent
+fit
+lake
+finish
+goat
+piece |  
+| bip_39_word_new_line9 | frog
+claw
+rent
+fit
+lake
+finish
+goat
+piece
+car |  
+| bip_39_word_space_0 | ['frog', 'claw', 'rent', 'fit', 'lake', 'finish', 'goat', 'piece', 'car', 'bronze', 'echo', 'approve'] |  
+| bip_39_word_space_1 | frog |  
+| bip_39_word_space_10 | frog claw rent fit lake finish goat piece car bronze |  
+| bip_39_word_space_11 | frog claw rent fit lake finish goat piece car bronze echo |  
+| bip_39_word_space_12 | frog claw rent fit lake finish goat piece car bronze echo approve |  
+| bip_39_word_space_2 | frog claw |  
+| bip_39_word_space_3 | frog claw rent |  
+| bip_39_word_space_4 | frog claw rent fit |  
+| bip_39_word_space_5 | frog claw rent fit lake |  
+| bip_39_word_space_6 | frog claw rent fit lake finish |  
+| bip_39_word_space_7 | frog claw rent fit lake finish goat |  
+| bip_39_word_space_8 | frog claw rent fit lake finish goat piece |  
+| bip_39_word_space_9 | frog claw rent fit lake finish goat piece car |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

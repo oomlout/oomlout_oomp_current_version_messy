@@ -1,3 +1,186 @@
+bip_39_word_new_br1: salt
+bip_39_word_new_br10: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current
+bip_39_word_new_br11: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish
+bip_39_word_new_br12: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish<br>air
+bip_39_word_new_br2: salt<br>walnut
+bip_39_word_new_br3: salt<br>walnut<br>oppose
+bip_39_word_new_br4: salt<br>walnut<br>oppose<br>evil
+bip_39_word_new_br5: salt<br>walnut<br>oppose<br>evil<br>deer
+bip_39_word_new_br6: salt<br>walnut<br>oppose<br>evil<br>deer<br>list
+bip_39_word_new_br7: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe
+bip_39_word_new_br8: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select
+bip_39_word_new_br9: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow
+bip_39_word_new_line1: salt
+bip_39_word_new_line10: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select
+
+  eyebrow
+
+  current'
+bip_39_word_new_line11: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select
+
+  eyebrow
+
+  current
+
+  fish'
+bip_39_word_new_line12: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select
+
+  eyebrow
+
+  current
+
+  fish
+
+  air'
+bip_39_word_new_line2: 'salt
+
+  walnut'
+bip_39_word_new_line3: 'salt
+
+  walnut
+
+  oppose'
+bip_39_word_new_line4: 'salt
+
+  walnut
+
+  oppose
+
+  evil'
+bip_39_word_new_line5: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer'
+bip_39_word_new_line6: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list'
+bip_39_word_new_line7: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe'
+bip_39_word_new_line8: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select'
+bip_39_word_new_line9: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select
+
+  eyebrow'
+bip_39_word_space_0:
+- salt
+- walnut
+- oppose
+- evil
+- deer
+- list
+- giraffe
+- select
+- eyebrow
+- current
+- fish
+- air
+bip_39_word_space_1: salt
+bip_39_word_space_10: salt walnut oppose evil deer list giraffe select eyebrow current
+bip_39_word_space_11: salt walnut oppose evil deer list giraffe select eyebrow current
+  fish
+bip_39_word_space_12: salt walnut oppose evil deer list giraffe select eyebrow current
+  fish air
+bip_39_word_space_2: salt walnut
+bip_39_word_space_3: salt walnut oppose
+bip_39_word_space_4: salt walnut oppose evil
+bip_39_word_space_5: salt walnut oppose evil deer
+bip_39_word_space_6: salt walnut oppose evil deer list
+bip_39_word_space_7: salt walnut oppose evil deer list giraffe
+bip_39_word_space_8: salt walnut oppose evil deer list giraffe select
+bip_39_word_space_9: salt walnut oppose evil deer list giraffe select eyebrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

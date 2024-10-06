@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: below island
+  * bip 39 word 3: below island exist
+  * bip 39 word: below island exist window snow upgrade confirm crystal endorse banner mirror always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | below |  
+| bip_39_word_new_br10 | below<br>island<br>exist<br>window<br>snow<br>upgrade<br>confirm<br>crystal<br>endorse<br>banner |  
+| bip_39_word_new_br11 | below<br>island<br>exist<br>window<br>snow<br>upgrade<br>confirm<br>crystal<br>endorse<br>banner<br>mirror |  
+| bip_39_word_new_br12 | below<br>island<br>exist<br>window<br>snow<br>upgrade<br>confirm<br>crystal<br>endorse<br>banner<br>mirror<br>always |  
+| bip_39_word_new_br2 | below<br>island |  
+| bip_39_word_new_br3 | below<br>island<br>exist |  
+| bip_39_word_new_br4 | below<br>island<br>exist<br>window |  
+| bip_39_word_new_br5 | below<br>island<br>exist<br>window<br>snow |  
+| bip_39_word_new_br6 | below<br>island<br>exist<br>window<br>snow<br>upgrade |  
+| bip_39_word_new_br7 | below<br>island<br>exist<br>window<br>snow<br>upgrade<br>confirm |  
+| bip_39_word_new_br8 | below<br>island<br>exist<br>window<br>snow<br>upgrade<br>confirm<br>crystal |  
+| bip_39_word_new_br9 | below<br>island<br>exist<br>window<br>snow<br>upgrade<br>confirm<br>crystal<br>endorse |  
+| bip_39_word_new_line1 | below |  
+| bip_39_word_new_line10 | below
+island
+exist
+window
+snow
+upgrade
+confirm
+crystal
+endorse
+banner |  
+| bip_39_word_new_line11 | below
+island
+exist
+window
+snow
+upgrade
+confirm
+crystal
+endorse
+banner
+mirror |  
+| bip_39_word_new_line12 | below
+island
+exist
+window
+snow
+upgrade
+confirm
+crystal
+endorse
+banner
+mirror
+always |  
+| bip_39_word_new_line2 | below
+island |  
+| bip_39_word_new_line3 | below
+island
+exist |  
+| bip_39_word_new_line4 | below
+island
+exist
+window |  
+| bip_39_word_new_line5 | below
+island
+exist
+window
+snow |  
+| bip_39_word_new_line6 | below
+island
+exist
+window
+snow
+upgrade |  
+| bip_39_word_new_line7 | below
+island
+exist
+window
+snow
+upgrade
+confirm |  
+| bip_39_word_new_line8 | below
+island
+exist
+window
+snow
+upgrade
+confirm
+crystal |  
+| bip_39_word_new_line9 | below
+island
+exist
+window
+snow
+upgrade
+confirm
+crystal
+endorse |  
+| bip_39_word_space_0 | ['below', 'island', 'exist', 'window', 'snow', 'upgrade', 'confirm', 'crystal', 'endorse', 'banner', 'mirror', 'always'] |  
+| bip_39_word_space_1 | below |  
+| bip_39_word_space_10 | below island exist window snow upgrade confirm crystal endorse banner |  
+| bip_39_word_space_11 | below island exist window snow upgrade confirm crystal endorse banner mirror |  
+| bip_39_word_space_12 | below island exist window snow upgrade confirm crystal endorse banner mirror always |  
+| bip_39_word_space_2 | below island |  
+| bip_39_word_space_3 | below island exist |  
+| bip_39_word_space_4 | below island exist window |  
+| bip_39_word_space_5 | below island exist window snow |  
+| bip_39_word_space_6 | below island exist window snow upgrade |  
+| bip_39_word_space_7 | below island exist window snow upgrade confirm |  
+| bip_39_word_space_8 | below island exist window snow upgrade confirm crystal |  
+| bip_39_word_space_9 | below island exist window snow upgrade confirm crystal endorse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

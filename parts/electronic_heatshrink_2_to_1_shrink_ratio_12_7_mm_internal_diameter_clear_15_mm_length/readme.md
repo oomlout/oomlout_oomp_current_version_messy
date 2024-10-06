@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: report awesome
+  * bip 39 word 3: report awesome surprise
+  * bip 39 word: report awesome surprise hammer absorb deal soda pupil fine opinion game anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | report |  
+| bip_39_word_new_br10 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal<br>soda<br>pupil<br>fine<br>opinion |  
+| bip_39_word_new_br11 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal<br>soda<br>pupil<br>fine<br>opinion<br>game |  
+| bip_39_word_new_br12 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal<br>soda<br>pupil<br>fine<br>opinion<br>game<br>anxiety |  
+| bip_39_word_new_br2 | report<br>awesome |  
+| bip_39_word_new_br3 | report<br>awesome<br>surprise |  
+| bip_39_word_new_br4 | report<br>awesome<br>surprise<br>hammer |  
+| bip_39_word_new_br5 | report<br>awesome<br>surprise<br>hammer<br>absorb |  
+| bip_39_word_new_br6 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal |  
+| bip_39_word_new_br7 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal<br>soda |  
+| bip_39_word_new_br8 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal<br>soda<br>pupil |  
+| bip_39_word_new_br9 | report<br>awesome<br>surprise<br>hammer<br>absorb<br>deal<br>soda<br>pupil<br>fine |  
+| bip_39_word_new_line1 | report |  
+| bip_39_word_new_line10 | report
+awesome
+surprise
+hammer
+absorb
+deal
+soda
+pupil
+fine
+opinion |  
+| bip_39_word_new_line11 | report
+awesome
+surprise
+hammer
+absorb
+deal
+soda
+pupil
+fine
+opinion
+game |  
+| bip_39_word_new_line12 | report
+awesome
+surprise
+hammer
+absorb
+deal
+soda
+pupil
+fine
+opinion
+game
+anxiety |  
+| bip_39_word_new_line2 | report
+awesome |  
+| bip_39_word_new_line3 | report
+awesome
+surprise |  
+| bip_39_word_new_line4 | report
+awesome
+surprise
+hammer |  
+| bip_39_word_new_line5 | report
+awesome
+surprise
+hammer
+absorb |  
+| bip_39_word_new_line6 | report
+awesome
+surprise
+hammer
+absorb
+deal |  
+| bip_39_word_new_line7 | report
+awesome
+surprise
+hammer
+absorb
+deal
+soda |  
+| bip_39_word_new_line8 | report
+awesome
+surprise
+hammer
+absorb
+deal
+soda
+pupil |  
+| bip_39_word_new_line9 | report
+awesome
+surprise
+hammer
+absorb
+deal
+soda
+pupil
+fine |  
+| bip_39_word_space_0 | ['report', 'awesome', 'surprise', 'hammer', 'absorb', 'deal', 'soda', 'pupil', 'fine', 'opinion', 'game', 'anxiety'] |  
+| bip_39_word_space_1 | report |  
+| bip_39_word_space_10 | report awesome surprise hammer absorb deal soda pupil fine opinion |  
+| bip_39_word_space_11 | report awesome surprise hammer absorb deal soda pupil fine opinion game |  
+| bip_39_word_space_12 | report awesome surprise hammer absorb deal soda pupil fine opinion game anxiety |  
+| bip_39_word_space_2 | report awesome |  
+| bip_39_word_space_3 | report awesome surprise |  
+| bip_39_word_space_4 | report awesome surprise hammer |  
+| bip_39_word_space_5 | report awesome surprise hammer absorb |  
+| bip_39_word_space_6 | report awesome surprise hammer absorb deal |  
+| bip_39_word_space_7 | report awesome surprise hammer absorb deal soda |  
+| bip_39_word_space_8 | report awesome surprise hammer absorb deal soda pupil |  
+| bip_39_word_space_9 | report awesome surprise hammer absorb deal soda pupil fine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

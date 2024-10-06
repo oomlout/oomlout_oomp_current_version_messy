@@ -1,3 +1,186 @@
+bip_39_word_new_br1: orient
+bip_39_word_new_br10: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message
+bip_39_word_new_br11: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message<br>quality
+bip_39_word_new_br12: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal<br>message<br>quality<br>adapt
+bip_39_word_new_br2: orient<br>wish
+bip_39_word_new_br3: orient<br>wish<br>join
+bip_39_word_new_br4: orient<br>wish<br>join<br>include
+bip_39_word_new_br5: orient<br>wish<br>join<br>include<br>harsh
+bip_39_word_new_br6: orient<br>wish<br>join<br>include<br>harsh<br>better
+bip_39_word_new_br7: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire
+bip_39_word_new_br8: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic
+bip_39_word_new_br9: orient<br>wish<br>join<br>include<br>harsh<br>better<br>inspire<br>mimic<br>fatal
+bip_39_word_new_line1: orient
+bip_39_word_new_line10: 'orient
+
+  wish
+
+  join
+
+  include
+
+  harsh
+
+  better
+
+  inspire
+
+  mimic
+
+  fatal
+
+  message'
+bip_39_word_new_line11: 'orient
+
+  wish
+
+  join
+
+  include
+
+  harsh
+
+  better
+
+  inspire
+
+  mimic
+
+  fatal
+
+  message
+
+  quality'
+bip_39_word_new_line12: 'orient
+
+  wish
+
+  join
+
+  include
+
+  harsh
+
+  better
+
+  inspire
+
+  mimic
+
+  fatal
+
+  message
+
+  quality
+
+  adapt'
+bip_39_word_new_line2: 'orient
+
+  wish'
+bip_39_word_new_line3: 'orient
+
+  wish
+
+  join'
+bip_39_word_new_line4: 'orient
+
+  wish
+
+  join
+
+  include'
+bip_39_word_new_line5: 'orient
+
+  wish
+
+  join
+
+  include
+
+  harsh'
+bip_39_word_new_line6: 'orient
+
+  wish
+
+  join
+
+  include
+
+  harsh
+
+  better'
+bip_39_word_new_line7: 'orient
+
+  wish
+
+  join
+
+  include
+
+  harsh
+
+  better
+
+  inspire'
+bip_39_word_new_line8: 'orient
+
+  wish
+
+  join
+
+  include
+
+  harsh
+
+  better
+
+  inspire
+
+  mimic'
+bip_39_word_new_line9: 'orient
+
+  wish
+
+  join
+
+  include
+
+  harsh
+
+  better
+
+  inspire
+
+  mimic
+
+  fatal'
+bip_39_word_space_0:
+- orient
+- wish
+- join
+- include
+- harsh
+- better
+- inspire
+- mimic
+- fatal
+- message
+- quality
+- adapt
+bip_39_word_space_1: orient
+bip_39_word_space_10: orient wish join include harsh better inspire mimic fatal message
+bip_39_word_space_11: orient wish join include harsh better inspire mimic fatal message
+  quality
+bip_39_word_space_12: orient wish join include harsh better inspire mimic fatal message
+  quality adapt
+bip_39_word_space_2: orient wish
+bip_39_word_space_3: orient wish join
+bip_39_word_space_4: orient wish join include
+bip_39_word_space_5: orient wish join include harsh
+bip_39_word_space_6: orient wish join include harsh better
+bip_39_word_space_7: orient wish join include harsh better inspire
+bip_39_word_space_8: orient wish join include harsh better inspire mimic
+bip_39_word_space_9: orient wish join include harsh better inspire mimic fatal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

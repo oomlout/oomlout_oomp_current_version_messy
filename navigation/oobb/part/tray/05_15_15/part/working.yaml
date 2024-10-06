@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sea
+bip_39_word_new_br10: sea<br>lounge<br>make<br>crush<br>junior<br>intact<br>scan<br>goddess<br>effort<br>tissue
+bip_39_word_new_br11: sea<br>lounge<br>make<br>crush<br>junior<br>intact<br>scan<br>goddess<br>effort<br>tissue<br>student
+bip_39_word_new_br12: sea<br>lounge<br>make<br>crush<br>junior<br>intact<br>scan<br>goddess<br>effort<br>tissue<br>student<br>album
+bip_39_word_new_br2: sea<br>lounge
+bip_39_word_new_br3: sea<br>lounge<br>make
+bip_39_word_new_br4: sea<br>lounge<br>make<br>crush
+bip_39_word_new_br5: sea<br>lounge<br>make<br>crush<br>junior
+bip_39_word_new_br6: sea<br>lounge<br>make<br>crush<br>junior<br>intact
+bip_39_word_new_br7: sea<br>lounge<br>make<br>crush<br>junior<br>intact<br>scan
+bip_39_word_new_br8: sea<br>lounge<br>make<br>crush<br>junior<br>intact<br>scan<br>goddess
+bip_39_word_new_br9: sea<br>lounge<br>make<br>crush<br>junior<br>intact<br>scan<br>goddess<br>effort
+bip_39_word_new_line1: sea
+bip_39_word_new_line10: 'sea
+
+  lounge
+
+  make
+
+  crush
+
+  junior
+
+  intact
+
+  scan
+
+  goddess
+
+  effort
+
+  tissue'
+bip_39_word_new_line11: 'sea
+
+  lounge
+
+  make
+
+  crush
+
+  junior
+
+  intact
+
+  scan
+
+  goddess
+
+  effort
+
+  tissue
+
+  student'
+bip_39_word_new_line12: 'sea
+
+  lounge
+
+  make
+
+  crush
+
+  junior
+
+  intact
+
+  scan
+
+  goddess
+
+  effort
+
+  tissue
+
+  student
+
+  album'
+bip_39_word_new_line2: 'sea
+
+  lounge'
+bip_39_word_new_line3: 'sea
+
+  lounge
+
+  make'
+bip_39_word_new_line4: 'sea
+
+  lounge
+
+  make
+
+  crush'
+bip_39_word_new_line5: 'sea
+
+  lounge
+
+  make
+
+  crush
+
+  junior'
+bip_39_word_new_line6: 'sea
+
+  lounge
+
+  make
+
+  crush
+
+  junior
+
+  intact'
+bip_39_word_new_line7: 'sea
+
+  lounge
+
+  make
+
+  crush
+
+  junior
+
+  intact
+
+  scan'
+bip_39_word_new_line8: 'sea
+
+  lounge
+
+  make
+
+  crush
+
+  junior
+
+  intact
+
+  scan
+
+  goddess'
+bip_39_word_new_line9: 'sea
+
+  lounge
+
+  make
+
+  crush
+
+  junior
+
+  intact
+
+  scan
+
+  goddess
+
+  effort'
+bip_39_word_space_0:
+- sea
+- lounge
+- make
+- crush
+- junior
+- intact
+- scan
+- goddess
+- effort
+- tissue
+- student
+- album
+bip_39_word_space_1: sea
+bip_39_word_space_10: sea lounge make crush junior intact scan goddess effort tissue
+bip_39_word_space_11: sea lounge make crush junior intact scan goddess effort tissue
+  student
+bip_39_word_space_12: sea lounge make crush junior intact scan goddess effort tissue
+  student album
+bip_39_word_space_2: sea lounge
+bip_39_word_space_3: sea lounge make
+bip_39_word_space_4: sea lounge make crush
+bip_39_word_space_5: sea lounge make crush junior
+bip_39_word_space_6: sea lounge make crush junior intact
+bip_39_word_space_7: sea lounge make crush junior intact scan
+bip_39_word_space_8: sea lounge make crush junior intact scan goddess
+bip_39_word_space_9: sea lounge make crush junior intact scan goddess effort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

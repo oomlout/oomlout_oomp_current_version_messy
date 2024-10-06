@@ -1,3 +1,187 @@
+bip_39_word_new_br1: minimum
+bip_39_word_new_br10: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel
+bip_39_word_new_br11: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise
+bip_39_word_new_br12: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise<br>alley
+bip_39_word_new_br2: minimum<br>antique
+bip_39_word_new_br3: minimum<br>antique<br>screen
+bip_39_word_new_br4: minimum<br>antique<br>screen<br>payment
+bip_39_word_new_br5: minimum<br>antique<br>screen<br>payment<br>urban
+bip_39_word_new_br6: minimum<br>antique<br>screen<br>payment<br>urban<br>twin
+bip_39_word_new_br7: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend
+bip_39_word_new_br8: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail
+bip_39_word_new_br9: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance
+bip_39_word_new_line1: minimum
+bip_39_word_new_line10: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail
+
+  dance
+
+  gospel'
+bip_39_word_new_line11: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail
+
+  dance
+
+  gospel
+
+  exercise'
+bip_39_word_new_line12: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail
+
+  dance
+
+  gospel
+
+  exercise
+
+  alley'
+bip_39_word_new_line2: 'minimum
+
+  antique'
+bip_39_word_new_line3: 'minimum
+
+  antique
+
+  screen'
+bip_39_word_new_line4: 'minimum
+
+  antique
+
+  screen
+
+  payment'
+bip_39_word_new_line5: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban'
+bip_39_word_new_line6: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin'
+bip_39_word_new_line7: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend'
+bip_39_word_new_line8: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail'
+bip_39_word_new_line9: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail
+
+  dance'
+bip_39_word_space_0:
+- minimum
+- antique
+- screen
+- payment
+- urban
+- twin
+- spend
+- detail
+- dance
+- gospel
+- exercise
+- alley
+bip_39_word_space_1: minimum
+bip_39_word_space_10: minimum antique screen payment urban twin spend detail dance
+  gospel
+bip_39_word_space_11: minimum antique screen payment urban twin spend detail dance
+  gospel exercise
+bip_39_word_space_12: minimum antique screen payment urban twin spend detail dance
+  gospel exercise alley
+bip_39_word_space_2: minimum antique
+bip_39_word_space_3: minimum antique screen
+bip_39_word_space_4: minimum antique screen payment
+bip_39_word_space_5: minimum antique screen payment urban
+bip_39_word_space_6: minimum antique screen payment urban twin
+bip_39_word_space_7: minimum antique screen payment urban twin spend
+bip_39_word_space_8: minimum antique screen payment urban twin spend detail
+bip_39_word_space_9: minimum antique screen payment urban twin spend detail dance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

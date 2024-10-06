@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tornado
+bip_39_word_new_br10: tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead<br>math<br>laugh<br>tube<br>spirit
+bip_39_word_new_br11: tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead<br>math<br>laugh<br>tube<br>spirit<br>inform
+bip_39_word_new_br12: tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead<br>math<br>laugh<br>tube<br>spirit<br>inform<br>adjust
+bip_39_word_new_br2: tornado<br>sustain
+bip_39_word_new_br3: tornado<br>sustain<br>bench
+bip_39_word_new_br4: tornado<br>sustain<br>bench<br>solar
+bip_39_word_new_br5: tornado<br>sustain<br>bench<br>solar<br>narrow
+bip_39_word_new_br6: tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead
+bip_39_word_new_br7: tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead<br>math
+bip_39_word_new_br8: tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead<br>math<br>laugh
+bip_39_word_new_br9: tornado<br>sustain<br>bench<br>solar<br>narrow<br>ahead<br>math<br>laugh<br>tube
+bip_39_word_new_line1: tornado
+bip_39_word_new_line10: 'tornado
+
+  sustain
+
+  bench
+
+  solar
+
+  narrow
+
+  ahead
+
+  math
+
+  laugh
+
+  tube
+
+  spirit'
+bip_39_word_new_line11: 'tornado
+
+  sustain
+
+  bench
+
+  solar
+
+  narrow
+
+  ahead
+
+  math
+
+  laugh
+
+  tube
+
+  spirit
+
+  inform'
+bip_39_word_new_line12: 'tornado
+
+  sustain
+
+  bench
+
+  solar
+
+  narrow
+
+  ahead
+
+  math
+
+  laugh
+
+  tube
+
+  spirit
+
+  inform
+
+  adjust'
+bip_39_word_new_line2: 'tornado
+
+  sustain'
+bip_39_word_new_line3: 'tornado
+
+  sustain
+
+  bench'
+bip_39_word_new_line4: 'tornado
+
+  sustain
+
+  bench
+
+  solar'
+bip_39_word_new_line5: 'tornado
+
+  sustain
+
+  bench
+
+  solar
+
+  narrow'
+bip_39_word_new_line6: 'tornado
+
+  sustain
+
+  bench
+
+  solar
+
+  narrow
+
+  ahead'
+bip_39_word_new_line7: 'tornado
+
+  sustain
+
+  bench
+
+  solar
+
+  narrow
+
+  ahead
+
+  math'
+bip_39_word_new_line8: 'tornado
+
+  sustain
+
+  bench
+
+  solar
+
+  narrow
+
+  ahead
+
+  math
+
+  laugh'
+bip_39_word_new_line9: 'tornado
+
+  sustain
+
+  bench
+
+  solar
+
+  narrow
+
+  ahead
+
+  math
+
+  laugh
+
+  tube'
+bip_39_word_space_0:
+- tornado
+- sustain
+- bench
+- solar
+- narrow
+- ahead
+- math
+- laugh
+- tube
+- spirit
+- inform
+- adjust
+bip_39_word_space_1: tornado
+bip_39_word_space_10: tornado sustain bench solar narrow ahead math laugh tube spirit
+bip_39_word_space_11: tornado sustain bench solar narrow ahead math laugh tube spirit
+  inform
+bip_39_word_space_12: tornado sustain bench solar narrow ahead math laugh tube spirit
+  inform adjust
+bip_39_word_space_2: tornado sustain
+bip_39_word_space_3: tornado sustain bench
+bip_39_word_space_4: tornado sustain bench solar
+bip_39_word_space_5: tornado sustain bench solar narrow
+bip_39_word_space_6: tornado sustain bench solar narrow ahead
+bip_39_word_space_7: tornado sustain bench solar narrow ahead math
+bip_39_word_space_8: tornado sustain bench solar narrow ahead math laugh
+bip_39_word_space_9: tornado sustain bench solar narrow ahead math laugh tube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

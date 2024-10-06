@@ -1,3 +1,186 @@
+bip_39_word_new_br1: keen
+bip_39_word_new_br10: keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock
+bip_39_word_new_br11: keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock<br>knock
+bip_39_word_new_br12: keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap<br>lock<br>knock<br>adjust
+bip_39_word_new_br2: keen<br>scatter
+bip_39_word_new_br3: keen<br>scatter<br>prefer
+bip_39_word_new_br4: keen<br>scatter<br>prefer<br>shrug
+bip_39_word_new_br5: keen<br>scatter<br>prefer<br>shrug<br>cupboard
+bip_39_word_new_br6: keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt
+bip_39_word_new_br7: keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage
+bip_39_word_new_br8: keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry
+bip_39_word_new_br9: keen<br>scatter<br>prefer<br>shrug<br>cupboard<br>hurt<br>cage<br>hungry<br>cheap
+bip_39_word_new_line1: keen
+bip_39_word_new_line10: 'keen
+
+  scatter
+
+  prefer
+
+  shrug
+
+  cupboard
+
+  hurt
+
+  cage
+
+  hungry
+
+  cheap
+
+  lock'
+bip_39_word_new_line11: 'keen
+
+  scatter
+
+  prefer
+
+  shrug
+
+  cupboard
+
+  hurt
+
+  cage
+
+  hungry
+
+  cheap
+
+  lock
+
+  knock'
+bip_39_word_new_line12: 'keen
+
+  scatter
+
+  prefer
+
+  shrug
+
+  cupboard
+
+  hurt
+
+  cage
+
+  hungry
+
+  cheap
+
+  lock
+
+  knock
+
+  adjust'
+bip_39_word_new_line2: 'keen
+
+  scatter'
+bip_39_word_new_line3: 'keen
+
+  scatter
+
+  prefer'
+bip_39_word_new_line4: 'keen
+
+  scatter
+
+  prefer
+
+  shrug'
+bip_39_word_new_line5: 'keen
+
+  scatter
+
+  prefer
+
+  shrug
+
+  cupboard'
+bip_39_word_new_line6: 'keen
+
+  scatter
+
+  prefer
+
+  shrug
+
+  cupboard
+
+  hurt'
+bip_39_word_new_line7: 'keen
+
+  scatter
+
+  prefer
+
+  shrug
+
+  cupboard
+
+  hurt
+
+  cage'
+bip_39_word_new_line8: 'keen
+
+  scatter
+
+  prefer
+
+  shrug
+
+  cupboard
+
+  hurt
+
+  cage
+
+  hungry'
+bip_39_word_new_line9: 'keen
+
+  scatter
+
+  prefer
+
+  shrug
+
+  cupboard
+
+  hurt
+
+  cage
+
+  hungry
+
+  cheap'
+bip_39_word_space_0:
+- keen
+- scatter
+- prefer
+- shrug
+- cupboard
+- hurt
+- cage
+- hungry
+- cheap
+- lock
+- knock
+- adjust
+bip_39_word_space_1: keen
+bip_39_word_space_10: keen scatter prefer shrug cupboard hurt cage hungry cheap lock
+bip_39_word_space_11: keen scatter prefer shrug cupboard hurt cage hungry cheap lock
+  knock
+bip_39_word_space_12: keen scatter prefer shrug cupboard hurt cage hungry cheap lock
+  knock adjust
+bip_39_word_space_2: keen scatter
+bip_39_word_space_3: keen scatter prefer
+bip_39_word_space_4: keen scatter prefer shrug
+bip_39_word_space_5: keen scatter prefer shrug cupboard
+bip_39_word_space_6: keen scatter prefer shrug cupboard hurt
+bip_39_word_space_7: keen scatter prefer shrug cupboard hurt cage
+bip_39_word_space_8: keen scatter prefer shrug cupboard hurt cage hungry
+bip_39_word_space_9: keen scatter prefer shrug cupboard hurt cage hungry cheap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

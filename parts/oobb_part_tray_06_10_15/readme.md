@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: room wise
+  * bip 39 word 3: room wise burger
+  * bip 39 word: room wise burger capital fog figure never skill tongue resource barrel arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | room |  
+| bip_39_word_new_br10 | room<br>wise<br>burger<br>capital<br>fog<br>figure<br>never<br>skill<br>tongue<br>resource |  
+| bip_39_word_new_br11 | room<br>wise<br>burger<br>capital<br>fog<br>figure<br>never<br>skill<br>tongue<br>resource<br>barrel |  
+| bip_39_word_new_br12 | room<br>wise<br>burger<br>capital<br>fog<br>figure<br>never<br>skill<br>tongue<br>resource<br>barrel<br>arch |  
+| bip_39_word_new_br2 | room<br>wise |  
+| bip_39_word_new_br3 | room<br>wise<br>burger |  
+| bip_39_word_new_br4 | room<br>wise<br>burger<br>capital |  
+| bip_39_word_new_br5 | room<br>wise<br>burger<br>capital<br>fog |  
+| bip_39_word_new_br6 | room<br>wise<br>burger<br>capital<br>fog<br>figure |  
+| bip_39_word_new_br7 | room<br>wise<br>burger<br>capital<br>fog<br>figure<br>never |  
+| bip_39_word_new_br8 | room<br>wise<br>burger<br>capital<br>fog<br>figure<br>never<br>skill |  
+| bip_39_word_new_br9 | room<br>wise<br>burger<br>capital<br>fog<br>figure<br>never<br>skill<br>tongue |  
+| bip_39_word_new_line1 | room |  
+| bip_39_word_new_line10 | room
+wise
+burger
+capital
+fog
+figure
+never
+skill
+tongue
+resource |  
+| bip_39_word_new_line11 | room
+wise
+burger
+capital
+fog
+figure
+never
+skill
+tongue
+resource
+barrel |  
+| bip_39_word_new_line12 | room
+wise
+burger
+capital
+fog
+figure
+never
+skill
+tongue
+resource
+barrel
+arch |  
+| bip_39_word_new_line2 | room
+wise |  
+| bip_39_word_new_line3 | room
+wise
+burger |  
+| bip_39_word_new_line4 | room
+wise
+burger
+capital |  
+| bip_39_word_new_line5 | room
+wise
+burger
+capital
+fog |  
+| bip_39_word_new_line6 | room
+wise
+burger
+capital
+fog
+figure |  
+| bip_39_word_new_line7 | room
+wise
+burger
+capital
+fog
+figure
+never |  
+| bip_39_word_new_line8 | room
+wise
+burger
+capital
+fog
+figure
+never
+skill |  
+| bip_39_word_new_line9 | room
+wise
+burger
+capital
+fog
+figure
+never
+skill
+tongue |  
+| bip_39_word_space_0 | ['room', 'wise', 'burger', 'capital', 'fog', 'figure', 'never', 'skill', 'tongue', 'resource', 'barrel', 'arch'] |  
+| bip_39_word_space_1 | room |  
+| bip_39_word_space_10 | room wise burger capital fog figure never skill tongue resource |  
+| bip_39_word_space_11 | room wise burger capital fog figure never skill tongue resource barrel |  
+| bip_39_word_space_12 | room wise burger capital fog figure never skill tongue resource barrel arch |  
+| bip_39_word_space_2 | room wise |  
+| bip_39_word_space_3 | room wise burger |  
+| bip_39_word_space_4 | room wise burger capital |  
+| bip_39_word_space_5 | room wise burger capital fog |  
+| bip_39_word_space_6 | room wise burger capital fog figure |  
+| bip_39_word_space_7 | room wise burger capital fog figure never |  
+| bip_39_word_space_8 | room wise burger capital fog figure never skill |  
+| bip_39_word_space_9 | room wise burger capital fog figure never skill tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

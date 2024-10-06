@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blame blue
+  * bip 39 word 3: blame blue rich
+  * bip 39 word: blame blue rich glove square social sail area steel rate buyer arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blame |  
+| bip_39_word_new_br10 | blame<br>blue<br>rich<br>glove<br>square<br>social<br>sail<br>area<br>steel<br>rate |  
+| bip_39_word_new_br11 | blame<br>blue<br>rich<br>glove<br>square<br>social<br>sail<br>area<br>steel<br>rate<br>buyer |  
+| bip_39_word_new_br12 | blame<br>blue<br>rich<br>glove<br>square<br>social<br>sail<br>area<br>steel<br>rate<br>buyer<br>arrow |  
+| bip_39_word_new_br2 | blame<br>blue |  
+| bip_39_word_new_br3 | blame<br>blue<br>rich |  
+| bip_39_word_new_br4 | blame<br>blue<br>rich<br>glove |  
+| bip_39_word_new_br5 | blame<br>blue<br>rich<br>glove<br>square |  
+| bip_39_word_new_br6 | blame<br>blue<br>rich<br>glove<br>square<br>social |  
+| bip_39_word_new_br7 | blame<br>blue<br>rich<br>glove<br>square<br>social<br>sail |  
+| bip_39_word_new_br8 | blame<br>blue<br>rich<br>glove<br>square<br>social<br>sail<br>area |  
+| bip_39_word_new_br9 | blame<br>blue<br>rich<br>glove<br>square<br>social<br>sail<br>area<br>steel |  
+| bip_39_word_new_line1 | blame |  
+| bip_39_word_new_line10 | blame
+blue
+rich
+glove
+square
+social
+sail
+area
+steel
+rate |  
+| bip_39_word_new_line11 | blame
+blue
+rich
+glove
+square
+social
+sail
+area
+steel
+rate
+buyer |  
+| bip_39_word_new_line12 | blame
+blue
+rich
+glove
+square
+social
+sail
+area
+steel
+rate
+buyer
+arrow |  
+| bip_39_word_new_line2 | blame
+blue |  
+| bip_39_word_new_line3 | blame
+blue
+rich |  
+| bip_39_word_new_line4 | blame
+blue
+rich
+glove |  
+| bip_39_word_new_line5 | blame
+blue
+rich
+glove
+square |  
+| bip_39_word_new_line6 | blame
+blue
+rich
+glove
+square
+social |  
+| bip_39_word_new_line7 | blame
+blue
+rich
+glove
+square
+social
+sail |  
+| bip_39_word_new_line8 | blame
+blue
+rich
+glove
+square
+social
+sail
+area |  
+| bip_39_word_new_line9 | blame
+blue
+rich
+glove
+square
+social
+sail
+area
+steel |  
+| bip_39_word_space_0 | ['blame', 'blue', 'rich', 'glove', 'square', 'social', 'sail', 'area', 'steel', 'rate', 'buyer', 'arrow'] |  
+| bip_39_word_space_1 | blame |  
+| bip_39_word_space_10 | blame blue rich glove square social sail area steel rate |  
+| bip_39_word_space_11 | blame blue rich glove square social sail area steel rate buyer |  
+| bip_39_word_space_12 | blame blue rich glove square social sail area steel rate buyer arrow |  
+| bip_39_word_space_2 | blame blue |  
+| bip_39_word_space_3 | blame blue rich |  
+| bip_39_word_space_4 | blame blue rich glove |  
+| bip_39_word_space_5 | blame blue rich glove square |  
+| bip_39_word_space_6 | blame blue rich glove square social |  
+| bip_39_word_space_7 | blame blue rich glove square social sail |  
+| bip_39_word_space_8 | blame blue rich glove square social sail area |  
+| bip_39_word_space_9 | blame blue rich glove square social sail area steel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

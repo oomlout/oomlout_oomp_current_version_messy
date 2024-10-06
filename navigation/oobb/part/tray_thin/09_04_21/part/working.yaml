@@ -1,3 +1,187 @@
+bip_39_word_new_br1: slender
+bip_39_word_new_br10: slender<br>reopen<br>frequent<br>can<br>pride<br>candy<br>replace<br>toward<br>hotel<br>violin
+bip_39_word_new_br11: slender<br>reopen<br>frequent<br>can<br>pride<br>candy<br>replace<br>toward<br>hotel<br>violin<br>middle
+bip_39_word_new_br12: slender<br>reopen<br>frequent<br>can<br>pride<br>candy<br>replace<br>toward<br>hotel<br>violin<br>middle<br>auction
+bip_39_word_new_br2: slender<br>reopen
+bip_39_word_new_br3: slender<br>reopen<br>frequent
+bip_39_word_new_br4: slender<br>reopen<br>frequent<br>can
+bip_39_word_new_br5: slender<br>reopen<br>frequent<br>can<br>pride
+bip_39_word_new_br6: slender<br>reopen<br>frequent<br>can<br>pride<br>candy
+bip_39_word_new_br7: slender<br>reopen<br>frequent<br>can<br>pride<br>candy<br>replace
+bip_39_word_new_br8: slender<br>reopen<br>frequent<br>can<br>pride<br>candy<br>replace<br>toward
+bip_39_word_new_br9: slender<br>reopen<br>frequent<br>can<br>pride<br>candy<br>replace<br>toward<br>hotel
+bip_39_word_new_line1: slender
+bip_39_word_new_line10: 'slender
+
+  reopen
+
+  frequent
+
+  can
+
+  pride
+
+  candy
+
+  replace
+
+  toward
+
+  hotel
+
+  violin'
+bip_39_word_new_line11: 'slender
+
+  reopen
+
+  frequent
+
+  can
+
+  pride
+
+  candy
+
+  replace
+
+  toward
+
+  hotel
+
+  violin
+
+  middle'
+bip_39_word_new_line12: 'slender
+
+  reopen
+
+  frequent
+
+  can
+
+  pride
+
+  candy
+
+  replace
+
+  toward
+
+  hotel
+
+  violin
+
+  middle
+
+  auction'
+bip_39_word_new_line2: 'slender
+
+  reopen'
+bip_39_word_new_line3: 'slender
+
+  reopen
+
+  frequent'
+bip_39_word_new_line4: 'slender
+
+  reopen
+
+  frequent
+
+  can'
+bip_39_word_new_line5: 'slender
+
+  reopen
+
+  frequent
+
+  can
+
+  pride'
+bip_39_word_new_line6: 'slender
+
+  reopen
+
+  frequent
+
+  can
+
+  pride
+
+  candy'
+bip_39_word_new_line7: 'slender
+
+  reopen
+
+  frequent
+
+  can
+
+  pride
+
+  candy
+
+  replace'
+bip_39_word_new_line8: 'slender
+
+  reopen
+
+  frequent
+
+  can
+
+  pride
+
+  candy
+
+  replace
+
+  toward'
+bip_39_word_new_line9: 'slender
+
+  reopen
+
+  frequent
+
+  can
+
+  pride
+
+  candy
+
+  replace
+
+  toward
+
+  hotel'
+bip_39_word_space_0:
+- slender
+- reopen
+- frequent
+- can
+- pride
+- candy
+- replace
+- toward
+- hotel
+- violin
+- middle
+- auction
+bip_39_word_space_1: slender
+bip_39_word_space_10: slender reopen frequent can pride candy replace toward hotel
+  violin
+bip_39_word_space_11: slender reopen frequent can pride candy replace toward hotel
+  violin middle
+bip_39_word_space_12: slender reopen frequent can pride candy replace toward hotel
+  violin middle auction
+bip_39_word_space_2: slender reopen
+bip_39_word_space_3: slender reopen frequent
+bip_39_word_space_4: slender reopen frequent can
+bip_39_word_space_5: slender reopen frequent can pride
+bip_39_word_space_6: slender reopen frequent can pride candy
+bip_39_word_space_7: slender reopen frequent can pride candy replace
+bip_39_word_space_8: slender reopen frequent can pride candy replace toward
+bip_39_word_space_9: slender reopen frequent can pride candy replace toward hotel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

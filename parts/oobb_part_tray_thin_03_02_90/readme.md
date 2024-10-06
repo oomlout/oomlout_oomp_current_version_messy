@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boost pottery
+  * bip 39 word 3: boost pottery main
+  * bip 39 word: boost pottery main mercy chase wasp whisper woman maid tell copy access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boost |  
+| bip_39_word_new_br10 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp<br>whisper<br>woman<br>maid<br>tell |  
+| bip_39_word_new_br11 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp<br>whisper<br>woman<br>maid<br>tell<br>copy |  
+| bip_39_word_new_br12 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp<br>whisper<br>woman<br>maid<br>tell<br>copy<br>access |  
+| bip_39_word_new_br2 | boost<br>pottery |  
+| bip_39_word_new_br3 | boost<br>pottery<br>main |  
+| bip_39_word_new_br4 | boost<br>pottery<br>main<br>mercy |  
+| bip_39_word_new_br5 | boost<br>pottery<br>main<br>mercy<br>chase |  
+| bip_39_word_new_br6 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp |  
+| bip_39_word_new_br7 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp<br>whisper |  
+| bip_39_word_new_br8 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp<br>whisper<br>woman |  
+| bip_39_word_new_br9 | boost<br>pottery<br>main<br>mercy<br>chase<br>wasp<br>whisper<br>woman<br>maid |  
+| bip_39_word_new_line1 | boost |  
+| bip_39_word_new_line10 | boost
+pottery
+main
+mercy
+chase
+wasp
+whisper
+woman
+maid
+tell |  
+| bip_39_word_new_line11 | boost
+pottery
+main
+mercy
+chase
+wasp
+whisper
+woman
+maid
+tell
+copy |  
+| bip_39_word_new_line12 | boost
+pottery
+main
+mercy
+chase
+wasp
+whisper
+woman
+maid
+tell
+copy
+access |  
+| bip_39_word_new_line2 | boost
+pottery |  
+| bip_39_word_new_line3 | boost
+pottery
+main |  
+| bip_39_word_new_line4 | boost
+pottery
+main
+mercy |  
+| bip_39_word_new_line5 | boost
+pottery
+main
+mercy
+chase |  
+| bip_39_word_new_line6 | boost
+pottery
+main
+mercy
+chase
+wasp |  
+| bip_39_word_new_line7 | boost
+pottery
+main
+mercy
+chase
+wasp
+whisper |  
+| bip_39_word_new_line8 | boost
+pottery
+main
+mercy
+chase
+wasp
+whisper
+woman |  
+| bip_39_word_new_line9 | boost
+pottery
+main
+mercy
+chase
+wasp
+whisper
+woman
+maid |  
+| bip_39_word_space_0 | ['boost', 'pottery', 'main', 'mercy', 'chase', 'wasp', 'whisper', 'woman', 'maid', 'tell', 'copy', 'access'] |  
+| bip_39_word_space_1 | boost |  
+| bip_39_word_space_10 | boost pottery main mercy chase wasp whisper woman maid tell |  
+| bip_39_word_space_11 | boost pottery main mercy chase wasp whisper woman maid tell copy |  
+| bip_39_word_space_12 | boost pottery main mercy chase wasp whisper woman maid tell copy access |  
+| bip_39_word_space_2 | boost pottery |  
+| bip_39_word_space_3 | boost pottery main |  
+| bip_39_word_space_4 | boost pottery main mercy |  
+| bip_39_word_space_5 | boost pottery main mercy chase |  
+| bip_39_word_space_6 | boost pottery main mercy chase wasp |  
+| bip_39_word_space_7 | boost pottery main mercy chase wasp whisper |  
+| bip_39_word_space_8 | boost pottery main mercy chase wasp whisper woman |  
+| bip_39_word_space_9 | boost pottery main mercy chase wasp whisper woman maid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

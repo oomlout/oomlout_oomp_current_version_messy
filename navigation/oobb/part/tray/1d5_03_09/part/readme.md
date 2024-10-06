@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: behave aisle
+  * bip 39 word 3: behave aisle begin
+  * bip 39 word: behave aisle begin flower depart pill zero turkey churn tobacco conduct arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | behave |  
+| bip_39_word_new_br10 | behave<br>aisle<br>begin<br>flower<br>depart<br>pill<br>zero<br>turkey<br>churn<br>tobacco |  
+| bip_39_word_new_br11 | behave<br>aisle<br>begin<br>flower<br>depart<br>pill<br>zero<br>turkey<br>churn<br>tobacco<br>conduct |  
+| bip_39_word_new_br12 | behave<br>aisle<br>begin<br>flower<br>depart<br>pill<br>zero<br>turkey<br>churn<br>tobacco<br>conduct<br>arrest |  
+| bip_39_word_new_br2 | behave<br>aisle |  
+| bip_39_word_new_br3 | behave<br>aisle<br>begin |  
+| bip_39_word_new_br4 | behave<br>aisle<br>begin<br>flower |  
+| bip_39_word_new_br5 | behave<br>aisle<br>begin<br>flower<br>depart |  
+| bip_39_word_new_br6 | behave<br>aisle<br>begin<br>flower<br>depart<br>pill |  
+| bip_39_word_new_br7 | behave<br>aisle<br>begin<br>flower<br>depart<br>pill<br>zero |  
+| bip_39_word_new_br8 | behave<br>aisle<br>begin<br>flower<br>depart<br>pill<br>zero<br>turkey |  
+| bip_39_word_new_br9 | behave<br>aisle<br>begin<br>flower<br>depart<br>pill<br>zero<br>turkey<br>churn |  
+| bip_39_word_new_line1 | behave |  
+| bip_39_word_new_line10 | behave
+aisle
+begin
+flower
+depart
+pill
+zero
+turkey
+churn
+tobacco |  
+| bip_39_word_new_line11 | behave
+aisle
+begin
+flower
+depart
+pill
+zero
+turkey
+churn
+tobacco
+conduct |  
+| bip_39_word_new_line12 | behave
+aisle
+begin
+flower
+depart
+pill
+zero
+turkey
+churn
+tobacco
+conduct
+arrest |  
+| bip_39_word_new_line2 | behave
+aisle |  
+| bip_39_word_new_line3 | behave
+aisle
+begin |  
+| bip_39_word_new_line4 | behave
+aisle
+begin
+flower |  
+| bip_39_word_new_line5 | behave
+aisle
+begin
+flower
+depart |  
+| bip_39_word_new_line6 | behave
+aisle
+begin
+flower
+depart
+pill |  
+| bip_39_word_new_line7 | behave
+aisle
+begin
+flower
+depart
+pill
+zero |  
+| bip_39_word_new_line8 | behave
+aisle
+begin
+flower
+depart
+pill
+zero
+turkey |  
+| bip_39_word_new_line9 | behave
+aisle
+begin
+flower
+depart
+pill
+zero
+turkey
+churn |  
+| bip_39_word_space_0 | ['behave', 'aisle', 'begin', 'flower', 'depart', 'pill', 'zero', 'turkey', 'churn', 'tobacco', 'conduct', 'arrest'] |  
+| bip_39_word_space_1 | behave |  
+| bip_39_word_space_10 | behave aisle begin flower depart pill zero turkey churn tobacco |  
+| bip_39_word_space_11 | behave aisle begin flower depart pill zero turkey churn tobacco conduct |  
+| bip_39_word_space_12 | behave aisle begin flower depart pill zero turkey churn tobacco conduct arrest |  
+| bip_39_word_space_2 | behave aisle |  
+| bip_39_word_space_3 | behave aisle begin |  
+| bip_39_word_space_4 | behave aisle begin flower |  
+| bip_39_word_space_5 | behave aisle begin flower depart |  
+| bip_39_word_space_6 | behave aisle begin flower depart pill |  
+| bip_39_word_space_7 | behave aisle begin flower depart pill zero |  
+| bip_39_word_space_8 | behave aisle begin flower depart pill zero turkey |  
+| bip_39_word_space_9 | behave aisle begin flower depart pill zero turkey churn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

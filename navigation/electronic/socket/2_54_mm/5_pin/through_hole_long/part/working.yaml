@@ -1,3 +1,185 @@
+bip_39_word_new_br1: sausage
+bip_39_word_new_br10: sausage<br>bean<br>undo<br>frost<br>keep<br>bread<br>tree<br>dose<br>edge<br>absurd
+bip_39_word_new_br11: sausage<br>bean<br>undo<br>frost<br>keep<br>bread<br>tree<br>dose<br>edge<br>absurd<br>render
+bip_39_word_new_br12: sausage<br>bean<br>undo<br>frost<br>keep<br>bread<br>tree<br>dose<br>edge<br>absurd<br>render<br>asthma
+bip_39_word_new_br2: sausage<br>bean
+bip_39_word_new_br3: sausage<br>bean<br>undo
+bip_39_word_new_br4: sausage<br>bean<br>undo<br>frost
+bip_39_word_new_br5: sausage<br>bean<br>undo<br>frost<br>keep
+bip_39_word_new_br6: sausage<br>bean<br>undo<br>frost<br>keep<br>bread
+bip_39_word_new_br7: sausage<br>bean<br>undo<br>frost<br>keep<br>bread<br>tree
+bip_39_word_new_br8: sausage<br>bean<br>undo<br>frost<br>keep<br>bread<br>tree<br>dose
+bip_39_word_new_br9: sausage<br>bean<br>undo<br>frost<br>keep<br>bread<br>tree<br>dose<br>edge
+bip_39_word_new_line1: sausage
+bip_39_word_new_line10: 'sausage
+
+  bean
+
+  undo
+
+  frost
+
+  keep
+
+  bread
+
+  tree
+
+  dose
+
+  edge
+
+  absurd'
+bip_39_word_new_line11: 'sausage
+
+  bean
+
+  undo
+
+  frost
+
+  keep
+
+  bread
+
+  tree
+
+  dose
+
+  edge
+
+  absurd
+
+  render'
+bip_39_word_new_line12: 'sausage
+
+  bean
+
+  undo
+
+  frost
+
+  keep
+
+  bread
+
+  tree
+
+  dose
+
+  edge
+
+  absurd
+
+  render
+
+  asthma'
+bip_39_word_new_line2: 'sausage
+
+  bean'
+bip_39_word_new_line3: 'sausage
+
+  bean
+
+  undo'
+bip_39_word_new_line4: 'sausage
+
+  bean
+
+  undo
+
+  frost'
+bip_39_word_new_line5: 'sausage
+
+  bean
+
+  undo
+
+  frost
+
+  keep'
+bip_39_word_new_line6: 'sausage
+
+  bean
+
+  undo
+
+  frost
+
+  keep
+
+  bread'
+bip_39_word_new_line7: 'sausage
+
+  bean
+
+  undo
+
+  frost
+
+  keep
+
+  bread
+
+  tree'
+bip_39_word_new_line8: 'sausage
+
+  bean
+
+  undo
+
+  frost
+
+  keep
+
+  bread
+
+  tree
+
+  dose'
+bip_39_word_new_line9: 'sausage
+
+  bean
+
+  undo
+
+  frost
+
+  keep
+
+  bread
+
+  tree
+
+  dose
+
+  edge'
+bip_39_word_space_0:
+- sausage
+- bean
+- undo
+- frost
+- keep
+- bread
+- tree
+- dose
+- edge
+- absurd
+- render
+- asthma
+bip_39_word_space_1: sausage
+bip_39_word_space_10: sausage bean undo frost keep bread tree dose edge absurd
+bip_39_word_space_11: sausage bean undo frost keep bread tree dose edge absurd render
+bip_39_word_space_12: sausage bean undo frost keep bread tree dose edge absurd render
+  asthma
+bip_39_word_space_2: sausage bean
+bip_39_word_space_3: sausage bean undo
+bip_39_word_space_4: sausage bean undo frost
+bip_39_word_space_5: sausage bean undo frost keep
+bip_39_word_space_6: sausage bean undo frost keep bread
+bip_39_word_space_7: sausage bean undo frost keep bread tree
+bip_39_word_space_8: sausage bean undo frost keep bread tree dose
+bip_39_word_space_9: sausage bean undo frost keep bread tree dose edge
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

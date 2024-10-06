@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: creek pilot
+  * bip 39 word 3: creek pilot pond
+  * bip 39 word: creek pilot pond season catalog divide clarify hello alcohol awful find absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | creek |  
+| bip_39_word_new_br10 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide<br>clarify<br>hello<br>alcohol<br>awful |  
+| bip_39_word_new_br11 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide<br>clarify<br>hello<br>alcohol<br>awful<br>find |  
+| bip_39_word_new_br12 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide<br>clarify<br>hello<br>alcohol<br>awful<br>find<br>absorb |  
+| bip_39_word_new_br2 | creek<br>pilot |  
+| bip_39_word_new_br3 | creek<br>pilot<br>pond |  
+| bip_39_word_new_br4 | creek<br>pilot<br>pond<br>season |  
+| bip_39_word_new_br5 | creek<br>pilot<br>pond<br>season<br>catalog |  
+| bip_39_word_new_br6 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide |  
+| bip_39_word_new_br7 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide<br>clarify |  
+| bip_39_word_new_br8 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide<br>clarify<br>hello |  
+| bip_39_word_new_br9 | creek<br>pilot<br>pond<br>season<br>catalog<br>divide<br>clarify<br>hello<br>alcohol |  
+| bip_39_word_new_line1 | creek |  
+| bip_39_word_new_line10 | creek
+pilot
+pond
+season
+catalog
+divide
+clarify
+hello
+alcohol
+awful |  
+| bip_39_word_new_line11 | creek
+pilot
+pond
+season
+catalog
+divide
+clarify
+hello
+alcohol
+awful
+find |  
+| bip_39_word_new_line12 | creek
+pilot
+pond
+season
+catalog
+divide
+clarify
+hello
+alcohol
+awful
+find
+absorb |  
+| bip_39_word_new_line2 | creek
+pilot |  
+| bip_39_word_new_line3 | creek
+pilot
+pond |  
+| bip_39_word_new_line4 | creek
+pilot
+pond
+season |  
+| bip_39_word_new_line5 | creek
+pilot
+pond
+season
+catalog |  
+| bip_39_word_new_line6 | creek
+pilot
+pond
+season
+catalog
+divide |  
+| bip_39_word_new_line7 | creek
+pilot
+pond
+season
+catalog
+divide
+clarify |  
+| bip_39_word_new_line8 | creek
+pilot
+pond
+season
+catalog
+divide
+clarify
+hello |  
+| bip_39_word_new_line9 | creek
+pilot
+pond
+season
+catalog
+divide
+clarify
+hello
+alcohol |  
+| bip_39_word_space_0 | ['creek', 'pilot', 'pond', 'season', 'catalog', 'divide', 'clarify', 'hello', 'alcohol', 'awful', 'find', 'absorb'] |  
+| bip_39_word_space_1 | creek |  
+| bip_39_word_space_10 | creek pilot pond season catalog divide clarify hello alcohol awful |  
+| bip_39_word_space_11 | creek pilot pond season catalog divide clarify hello alcohol awful find |  
+| bip_39_word_space_12 | creek pilot pond season catalog divide clarify hello alcohol awful find absorb |  
+| bip_39_word_space_2 | creek pilot |  
+| bip_39_word_space_3 | creek pilot pond |  
+| bip_39_word_space_4 | creek pilot pond season |  
+| bip_39_word_space_5 | creek pilot pond season catalog |  
+| bip_39_word_space_6 | creek pilot pond season catalog divide |  
+| bip_39_word_space_7 | creek pilot pond season catalog divide clarify |  
+| bip_39_word_space_8 | creek pilot pond season catalog divide clarify hello |  
+| bip_39_word_space_9 | creek pilot pond season catalog divide clarify hello alcohol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

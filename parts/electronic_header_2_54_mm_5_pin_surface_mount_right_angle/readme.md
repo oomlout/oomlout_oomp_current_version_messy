@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tube squirrel
+  * bip 39 word 3: tube squirrel stove
+  * bip 39 word: tube squirrel stove spoil local trigger flight infant crucial trash spawn amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tube |  
+| bip_39_word_new_br10 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial<br>trash |  
+| bip_39_word_new_br11 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial<br>trash<br>spawn |  
+| bip_39_word_new_br12 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial<br>trash<br>spawn<br>amateur |  
+| bip_39_word_new_br2 | tube<br>squirrel |  
+| bip_39_word_new_br3 | tube<br>squirrel<br>stove |  
+| bip_39_word_new_br4 | tube<br>squirrel<br>stove<br>spoil |  
+| bip_39_word_new_br5 | tube<br>squirrel<br>stove<br>spoil<br>local |  
+| bip_39_word_new_br6 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger |  
+| bip_39_word_new_br7 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight |  
+| bip_39_word_new_br8 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant |  
+| bip_39_word_new_br9 | tube<br>squirrel<br>stove<br>spoil<br>local<br>trigger<br>flight<br>infant<br>crucial |  
+| bip_39_word_new_line1 | tube |  
+| bip_39_word_new_line10 | tube
+squirrel
+stove
+spoil
+local
+trigger
+flight
+infant
+crucial
+trash |  
+| bip_39_word_new_line11 | tube
+squirrel
+stove
+spoil
+local
+trigger
+flight
+infant
+crucial
+trash
+spawn |  
+| bip_39_word_new_line12 | tube
+squirrel
+stove
+spoil
+local
+trigger
+flight
+infant
+crucial
+trash
+spawn
+amateur |  
+| bip_39_word_new_line2 | tube
+squirrel |  
+| bip_39_word_new_line3 | tube
+squirrel
+stove |  
+| bip_39_word_new_line4 | tube
+squirrel
+stove
+spoil |  
+| bip_39_word_new_line5 | tube
+squirrel
+stove
+spoil
+local |  
+| bip_39_word_new_line6 | tube
+squirrel
+stove
+spoil
+local
+trigger |  
+| bip_39_word_new_line7 | tube
+squirrel
+stove
+spoil
+local
+trigger
+flight |  
+| bip_39_word_new_line8 | tube
+squirrel
+stove
+spoil
+local
+trigger
+flight
+infant |  
+| bip_39_word_new_line9 | tube
+squirrel
+stove
+spoil
+local
+trigger
+flight
+infant
+crucial |  
+| bip_39_word_space_0 | ['tube', 'squirrel', 'stove', 'spoil', 'local', 'trigger', 'flight', 'infant', 'crucial', 'trash', 'spawn', 'amateur'] |  
+| bip_39_word_space_1 | tube |  
+| bip_39_word_space_10 | tube squirrel stove spoil local trigger flight infant crucial trash |  
+| bip_39_word_space_11 | tube squirrel stove spoil local trigger flight infant crucial trash spawn |  
+| bip_39_word_space_12 | tube squirrel stove spoil local trigger flight infant crucial trash spawn amateur |  
+| bip_39_word_space_2 | tube squirrel |  
+| bip_39_word_space_3 | tube squirrel stove |  
+| bip_39_word_space_4 | tube squirrel stove spoil |  
+| bip_39_word_space_5 | tube squirrel stove spoil local |  
+| bip_39_word_space_6 | tube squirrel stove spoil local trigger |  
+| bip_39_word_space_7 | tube squirrel stove spoil local trigger flight |  
+| bip_39_word_space_8 | tube squirrel stove spoil local trigger flight infant |  
+| bip_39_word_space_9 | tube squirrel stove spoil local trigger flight infant crucial |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

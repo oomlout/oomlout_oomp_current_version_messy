@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boy spell
+  * bip 39 word 3: boy spell mosquito
+  * bip 39 word: boy spell mosquito strong provide sick ranch siege arrive garbage pledge ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boy |  
+| bip_39_word_new_br10 | boy<br>spell<br>mosquito<br>strong<br>provide<br>sick<br>ranch<br>siege<br>arrive<br>garbage |  
+| bip_39_word_new_br11 | boy<br>spell<br>mosquito<br>strong<br>provide<br>sick<br>ranch<br>siege<br>arrive<br>garbage<br>pledge |  
+| bip_39_word_new_br12 | boy<br>spell<br>mosquito<br>strong<br>provide<br>sick<br>ranch<br>siege<br>arrive<br>garbage<br>pledge<br>ankle |  
+| bip_39_word_new_br2 | boy<br>spell |  
+| bip_39_word_new_br3 | boy<br>spell<br>mosquito |  
+| bip_39_word_new_br4 | boy<br>spell<br>mosquito<br>strong |  
+| bip_39_word_new_br5 | boy<br>spell<br>mosquito<br>strong<br>provide |  
+| bip_39_word_new_br6 | boy<br>spell<br>mosquito<br>strong<br>provide<br>sick |  
+| bip_39_word_new_br7 | boy<br>spell<br>mosquito<br>strong<br>provide<br>sick<br>ranch |  
+| bip_39_word_new_br8 | boy<br>spell<br>mosquito<br>strong<br>provide<br>sick<br>ranch<br>siege |  
+| bip_39_word_new_br9 | boy<br>spell<br>mosquito<br>strong<br>provide<br>sick<br>ranch<br>siege<br>arrive |  
+| bip_39_word_new_line1 | boy |  
+| bip_39_word_new_line10 | boy
+spell
+mosquito
+strong
+provide
+sick
+ranch
+siege
+arrive
+garbage |  
+| bip_39_word_new_line11 | boy
+spell
+mosquito
+strong
+provide
+sick
+ranch
+siege
+arrive
+garbage
+pledge |  
+| bip_39_word_new_line12 | boy
+spell
+mosquito
+strong
+provide
+sick
+ranch
+siege
+arrive
+garbage
+pledge
+ankle |  
+| bip_39_word_new_line2 | boy
+spell |  
+| bip_39_word_new_line3 | boy
+spell
+mosquito |  
+| bip_39_word_new_line4 | boy
+spell
+mosquito
+strong |  
+| bip_39_word_new_line5 | boy
+spell
+mosquito
+strong
+provide |  
+| bip_39_word_new_line6 | boy
+spell
+mosquito
+strong
+provide
+sick |  
+| bip_39_word_new_line7 | boy
+spell
+mosquito
+strong
+provide
+sick
+ranch |  
+| bip_39_word_new_line8 | boy
+spell
+mosquito
+strong
+provide
+sick
+ranch
+siege |  
+| bip_39_word_new_line9 | boy
+spell
+mosquito
+strong
+provide
+sick
+ranch
+siege
+arrive |  
+| bip_39_word_space_0 | ['boy', 'spell', 'mosquito', 'strong', 'provide', 'sick', 'ranch', 'siege', 'arrive', 'garbage', 'pledge', 'ankle'] |  
+| bip_39_word_space_1 | boy |  
+| bip_39_word_space_10 | boy spell mosquito strong provide sick ranch siege arrive garbage |  
+| bip_39_word_space_11 | boy spell mosquito strong provide sick ranch siege arrive garbage pledge |  
+| bip_39_word_space_12 | boy spell mosquito strong provide sick ranch siege arrive garbage pledge ankle |  
+| bip_39_word_space_2 | boy spell |  
+| bip_39_word_space_3 | boy spell mosquito |  
+| bip_39_word_space_4 | boy spell mosquito strong |  
+| bip_39_word_space_5 | boy spell mosquito strong provide |  
+| bip_39_word_space_6 | boy spell mosquito strong provide sick |  
+| bip_39_word_space_7 | boy spell mosquito strong provide sick ranch |  
+| bip_39_word_space_8 | boy spell mosquito strong provide sick ranch siege |  
+| bip_39_word_space_9 | boy spell mosquito strong provide sick ranch siege arrive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

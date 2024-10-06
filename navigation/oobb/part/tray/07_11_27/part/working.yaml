@@ -1,3 +1,185 @@
+bip_39_word_new_br1: mobile
+bip_39_word_new_br10: mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic
+bip_39_word_new_br11: mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic<br>explain
+bip_39_word_new_br12: mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor<br>aerobic<br>explain<br>alter
+bip_39_word_new_br2: mobile<br>salt
+bip_39_word_new_br3: mobile<br>salt<br>spot
+bip_39_word_new_br4: mobile<br>salt<br>spot<br>sad
+bip_39_word_new_br5: mobile<br>salt<br>spot<br>sad<br>click
+bip_39_word_new_br6: mobile<br>salt<br>spot<br>sad<br>click<br>funny
+bip_39_word_new_br7: mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap
+bip_39_word_new_br8: mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff
+bip_39_word_new_br9: mobile<br>salt<br>spot<br>sad<br>click<br>funny<br>trap<br>stuff<br>razor
+bip_39_word_new_line1: mobile
+bip_39_word_new_line10: 'mobile
+
+  salt
+
+  spot
+
+  sad
+
+  click
+
+  funny
+
+  trap
+
+  stuff
+
+  razor
+
+  aerobic'
+bip_39_word_new_line11: 'mobile
+
+  salt
+
+  spot
+
+  sad
+
+  click
+
+  funny
+
+  trap
+
+  stuff
+
+  razor
+
+  aerobic
+
+  explain'
+bip_39_word_new_line12: 'mobile
+
+  salt
+
+  spot
+
+  sad
+
+  click
+
+  funny
+
+  trap
+
+  stuff
+
+  razor
+
+  aerobic
+
+  explain
+
+  alter'
+bip_39_word_new_line2: 'mobile
+
+  salt'
+bip_39_word_new_line3: 'mobile
+
+  salt
+
+  spot'
+bip_39_word_new_line4: 'mobile
+
+  salt
+
+  spot
+
+  sad'
+bip_39_word_new_line5: 'mobile
+
+  salt
+
+  spot
+
+  sad
+
+  click'
+bip_39_word_new_line6: 'mobile
+
+  salt
+
+  spot
+
+  sad
+
+  click
+
+  funny'
+bip_39_word_new_line7: 'mobile
+
+  salt
+
+  spot
+
+  sad
+
+  click
+
+  funny
+
+  trap'
+bip_39_word_new_line8: 'mobile
+
+  salt
+
+  spot
+
+  sad
+
+  click
+
+  funny
+
+  trap
+
+  stuff'
+bip_39_word_new_line9: 'mobile
+
+  salt
+
+  spot
+
+  sad
+
+  click
+
+  funny
+
+  trap
+
+  stuff
+
+  razor'
+bip_39_word_space_0:
+- mobile
+- salt
+- spot
+- sad
+- click
+- funny
+- trap
+- stuff
+- razor
+- aerobic
+- explain
+- alter
+bip_39_word_space_1: mobile
+bip_39_word_space_10: mobile salt spot sad click funny trap stuff razor aerobic
+bip_39_word_space_11: mobile salt spot sad click funny trap stuff razor aerobic explain
+bip_39_word_space_12: mobile salt spot sad click funny trap stuff razor aerobic explain
+  alter
+bip_39_word_space_2: mobile salt
+bip_39_word_space_3: mobile salt spot
+bip_39_word_space_4: mobile salt spot sad
+bip_39_word_space_5: mobile salt spot sad click
+bip_39_word_space_6: mobile salt spot sad click funny
+bip_39_word_space_7: mobile salt spot sad click funny trap
+bip_39_word_space_8: mobile salt spot sad click funny trap stuff
+bip_39_word_space_9: mobile salt spot sad click funny trap stuff razor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

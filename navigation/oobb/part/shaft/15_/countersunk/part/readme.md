@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: entire auction
+  * bip 39 word 3: entire auction theory
+  * bip 39 word: entire auction theory train shrug biology inside orbit income luxury trim arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | entire |  
+| bip_39_word_new_br10 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury |  
+| bip_39_word_new_br11 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury<br>trim |  
+| bip_39_word_new_br12 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income<br>luxury<br>trim<br>arch |  
+| bip_39_word_new_br2 | entire<br>auction |  
+| bip_39_word_new_br3 | entire<br>auction<br>theory |  
+| bip_39_word_new_br4 | entire<br>auction<br>theory<br>train |  
+| bip_39_word_new_br5 | entire<br>auction<br>theory<br>train<br>shrug |  
+| bip_39_word_new_br6 | entire<br>auction<br>theory<br>train<br>shrug<br>biology |  
+| bip_39_word_new_br7 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside |  
+| bip_39_word_new_br8 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit |  
+| bip_39_word_new_br9 | entire<br>auction<br>theory<br>train<br>shrug<br>biology<br>inside<br>orbit<br>income |  
+| bip_39_word_new_line1 | entire |  
+| bip_39_word_new_line10 | entire
+auction
+theory
+train
+shrug
+biology
+inside
+orbit
+income
+luxury |  
+| bip_39_word_new_line11 | entire
+auction
+theory
+train
+shrug
+biology
+inside
+orbit
+income
+luxury
+trim |  
+| bip_39_word_new_line12 | entire
+auction
+theory
+train
+shrug
+biology
+inside
+orbit
+income
+luxury
+trim
+arch |  
+| bip_39_word_new_line2 | entire
+auction |  
+| bip_39_word_new_line3 | entire
+auction
+theory |  
+| bip_39_word_new_line4 | entire
+auction
+theory
+train |  
+| bip_39_word_new_line5 | entire
+auction
+theory
+train
+shrug |  
+| bip_39_word_new_line6 | entire
+auction
+theory
+train
+shrug
+biology |  
+| bip_39_word_new_line7 | entire
+auction
+theory
+train
+shrug
+biology
+inside |  
+| bip_39_word_new_line8 | entire
+auction
+theory
+train
+shrug
+biology
+inside
+orbit |  
+| bip_39_word_new_line9 | entire
+auction
+theory
+train
+shrug
+biology
+inside
+orbit
+income |  
+| bip_39_word_space_0 | ['entire', 'auction', 'theory', 'train', 'shrug', 'biology', 'inside', 'orbit', 'income', 'luxury', 'trim', 'arch'] |  
+| bip_39_word_space_1 | entire |  
+| bip_39_word_space_10 | entire auction theory train shrug biology inside orbit income luxury |  
+| bip_39_word_space_11 | entire auction theory train shrug biology inside orbit income luxury trim |  
+| bip_39_word_space_12 | entire auction theory train shrug biology inside orbit income luxury trim arch |  
+| bip_39_word_space_2 | entire auction |  
+| bip_39_word_space_3 | entire auction theory |  
+| bip_39_word_space_4 | entire auction theory train |  
+| bip_39_word_space_5 | entire auction theory train shrug |  
+| bip_39_word_space_6 | entire auction theory train shrug biology |  
+| bip_39_word_space_7 | entire auction theory train shrug biology inside |  
+| bip_39_word_space_8 | entire auction theory train shrug biology inside orbit |  
+| bip_39_word_space_9 | entire auction theory train shrug biology inside orbit income |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

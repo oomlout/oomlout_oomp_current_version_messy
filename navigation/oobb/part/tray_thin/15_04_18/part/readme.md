@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: couch absurd
+  * bip 39 word 3: couch absurd donate
+  * bip 39 word: couch absurd donate update drive throw broom pilot inhale keep family annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | couch |  
+| bip_39_word_new_br10 | couch<br>absurd<br>donate<br>update<br>drive<br>throw<br>broom<br>pilot<br>inhale<br>keep |  
+| bip_39_word_new_br11 | couch<br>absurd<br>donate<br>update<br>drive<br>throw<br>broom<br>pilot<br>inhale<br>keep<br>family |  
+| bip_39_word_new_br12 | couch<br>absurd<br>donate<br>update<br>drive<br>throw<br>broom<br>pilot<br>inhale<br>keep<br>family<br>annual |  
+| bip_39_word_new_br2 | couch<br>absurd |  
+| bip_39_word_new_br3 | couch<br>absurd<br>donate |  
+| bip_39_word_new_br4 | couch<br>absurd<br>donate<br>update |  
+| bip_39_word_new_br5 | couch<br>absurd<br>donate<br>update<br>drive |  
+| bip_39_word_new_br6 | couch<br>absurd<br>donate<br>update<br>drive<br>throw |  
+| bip_39_word_new_br7 | couch<br>absurd<br>donate<br>update<br>drive<br>throw<br>broom |  
+| bip_39_word_new_br8 | couch<br>absurd<br>donate<br>update<br>drive<br>throw<br>broom<br>pilot |  
+| bip_39_word_new_br9 | couch<br>absurd<br>donate<br>update<br>drive<br>throw<br>broom<br>pilot<br>inhale |  
+| bip_39_word_new_line1 | couch |  
+| bip_39_word_new_line10 | couch
+absurd
+donate
+update
+drive
+throw
+broom
+pilot
+inhale
+keep |  
+| bip_39_word_new_line11 | couch
+absurd
+donate
+update
+drive
+throw
+broom
+pilot
+inhale
+keep
+family |  
+| bip_39_word_new_line12 | couch
+absurd
+donate
+update
+drive
+throw
+broom
+pilot
+inhale
+keep
+family
+annual |  
+| bip_39_word_new_line2 | couch
+absurd |  
+| bip_39_word_new_line3 | couch
+absurd
+donate |  
+| bip_39_word_new_line4 | couch
+absurd
+donate
+update |  
+| bip_39_word_new_line5 | couch
+absurd
+donate
+update
+drive |  
+| bip_39_word_new_line6 | couch
+absurd
+donate
+update
+drive
+throw |  
+| bip_39_word_new_line7 | couch
+absurd
+donate
+update
+drive
+throw
+broom |  
+| bip_39_word_new_line8 | couch
+absurd
+donate
+update
+drive
+throw
+broom
+pilot |  
+| bip_39_word_new_line9 | couch
+absurd
+donate
+update
+drive
+throw
+broom
+pilot
+inhale |  
+| bip_39_word_space_0 | ['couch', 'absurd', 'donate', 'update', 'drive', 'throw', 'broom', 'pilot', 'inhale', 'keep', 'family', 'annual'] |  
+| bip_39_word_space_1 | couch |  
+| bip_39_word_space_10 | couch absurd donate update drive throw broom pilot inhale keep |  
+| bip_39_word_space_11 | couch absurd donate update drive throw broom pilot inhale keep family |  
+| bip_39_word_space_12 | couch absurd donate update drive throw broom pilot inhale keep family annual |  
+| bip_39_word_space_2 | couch absurd |  
+| bip_39_word_space_3 | couch absurd donate |  
+| bip_39_word_space_4 | couch absurd donate update |  
+| bip_39_word_space_5 | couch absurd donate update drive |  
+| bip_39_word_space_6 | couch absurd donate update drive throw |  
+| bip_39_word_space_7 | couch absurd donate update drive throw broom |  
+| bip_39_word_space_8 | couch absurd donate update drive throw broom pilot |  
+| bip_39_word_space_9 | couch absurd donate update drive throw broom pilot inhale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

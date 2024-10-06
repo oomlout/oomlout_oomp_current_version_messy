@@ -1,3 +1,158 @@
+bip_39_word_new_br1: setup
+bip_39_word_new_br10: setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this<br>toast
+bip_39_word_new_br11: setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this<br>toast<br>fold
+bip_39_word_new_br2: setup<br>scale
+bip_39_word_new_br3: setup<br>scale<br>what
+bip_39_word_new_br4: setup<br>scale<br>what<br>torch
+bip_39_word_new_br5: setup<br>scale<br>what<br>torch<br>sister
+bip_39_word_new_br6: setup<br>scale<br>what<br>torch<br>sister<br>feel
+bip_39_word_new_br7: setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap
+bip_39_word_new_br8: setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid
+bip_39_word_new_br9: setup<br>scale<br>what<br>torch<br>sister<br>feel<br>wrap<br>acid<br>this
+bip_39_word_new_line1: setup
+bip_39_word_new_line10: 'setup
+
+  scale
+
+  what
+
+  torch
+
+  sister
+
+  feel
+
+  wrap
+
+  acid
+
+  this
+
+  toast'
+bip_39_word_new_line11: 'setup
+
+  scale
+
+  what
+
+  torch
+
+  sister
+
+  feel
+
+  wrap
+
+  acid
+
+  this
+
+  toast
+
+  fold'
+bip_39_word_new_line2: 'setup
+
+  scale'
+bip_39_word_new_line3: 'setup
+
+  scale
+
+  what'
+bip_39_word_new_line4: 'setup
+
+  scale
+
+  what
+
+  torch'
+bip_39_word_new_line5: 'setup
+
+  scale
+
+  what
+
+  torch
+
+  sister'
+bip_39_word_new_line6: 'setup
+
+  scale
+
+  what
+
+  torch
+
+  sister
+
+  feel'
+bip_39_word_new_line7: 'setup
+
+  scale
+
+  what
+
+  torch
+
+  sister
+
+  feel
+
+  wrap'
+bip_39_word_new_line8: 'setup
+
+  scale
+
+  what
+
+  torch
+
+  sister
+
+  feel
+
+  wrap
+
+  acid'
+bip_39_word_new_line9: 'setup
+
+  scale
+
+  what
+
+  torch
+
+  sister
+
+  feel
+
+  wrap
+
+  acid
+
+  this'
+bip_39_word_space_0:
+- setup
+- scale
+- what
+- torch
+- sister
+- feel
+- wrap
+- acid
+- this
+- toast
+- fold
+bip_39_word_space_1: setup
+bip_39_word_space_10: setup scale what torch sister feel wrap acid this toast
+bip_39_word_space_11: setup scale what torch sister feel wrap acid this toast fold
+bip_39_word_space_2: setup scale
+bip_39_word_space_3: setup scale what
+bip_39_word_space_4: setup scale what torch
+bip_39_word_space_5: setup scale what torch sister
+bip_39_word_space_6: setup scale what torch sister feel
+bip_39_word_space_7: setup scale what torch sister feel wrap
+bip_39_word_space_8: setup scale what torch sister feel wrap acid
+bip_39_word_space_9: setup scale what torch sister feel wrap acid this
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

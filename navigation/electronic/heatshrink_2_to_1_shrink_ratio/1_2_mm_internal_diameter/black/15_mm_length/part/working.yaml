@@ -1,3 +1,186 @@
+bip_39_word_new_br1: room
+bip_39_word_new_br10: room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing<br>arctic<br>private<br>actor<br>define
+bip_39_word_new_br11: room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing<br>arctic<br>private<br>actor<br>define<br>average
+bip_39_word_new_br12: room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing<br>arctic<br>private<br>actor<br>define<br>average<br>amount
+bip_39_word_new_br2: room<br>gasp
+bip_39_word_new_br3: room<br>gasp<br>royal
+bip_39_word_new_br4: room<br>gasp<br>royal<br>chalk
+bip_39_word_new_br5: room<br>gasp<br>royal<br>chalk<br>lobster
+bip_39_word_new_br6: room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing
+bip_39_word_new_br7: room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing<br>arctic
+bip_39_word_new_br8: room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing<br>arctic<br>private
+bip_39_word_new_br9: room<br>gasp<br>royal<br>chalk<br>lobster<br>nothing<br>arctic<br>private<br>actor
+bip_39_word_new_line1: room
+bip_39_word_new_line10: 'room
+
+  gasp
+
+  royal
+
+  chalk
+
+  lobster
+
+  nothing
+
+  arctic
+
+  private
+
+  actor
+
+  define'
+bip_39_word_new_line11: 'room
+
+  gasp
+
+  royal
+
+  chalk
+
+  lobster
+
+  nothing
+
+  arctic
+
+  private
+
+  actor
+
+  define
+
+  average'
+bip_39_word_new_line12: 'room
+
+  gasp
+
+  royal
+
+  chalk
+
+  lobster
+
+  nothing
+
+  arctic
+
+  private
+
+  actor
+
+  define
+
+  average
+
+  amount'
+bip_39_word_new_line2: 'room
+
+  gasp'
+bip_39_word_new_line3: 'room
+
+  gasp
+
+  royal'
+bip_39_word_new_line4: 'room
+
+  gasp
+
+  royal
+
+  chalk'
+bip_39_word_new_line5: 'room
+
+  gasp
+
+  royal
+
+  chalk
+
+  lobster'
+bip_39_word_new_line6: 'room
+
+  gasp
+
+  royal
+
+  chalk
+
+  lobster
+
+  nothing'
+bip_39_word_new_line7: 'room
+
+  gasp
+
+  royal
+
+  chalk
+
+  lobster
+
+  nothing
+
+  arctic'
+bip_39_word_new_line8: 'room
+
+  gasp
+
+  royal
+
+  chalk
+
+  lobster
+
+  nothing
+
+  arctic
+
+  private'
+bip_39_word_new_line9: 'room
+
+  gasp
+
+  royal
+
+  chalk
+
+  lobster
+
+  nothing
+
+  arctic
+
+  private
+
+  actor'
+bip_39_word_space_0:
+- room
+- gasp
+- royal
+- chalk
+- lobster
+- nothing
+- arctic
+- private
+- actor
+- define
+- average
+- amount
+bip_39_word_space_1: room
+bip_39_word_space_10: room gasp royal chalk lobster nothing arctic private actor define
+bip_39_word_space_11: room gasp royal chalk lobster nothing arctic private actor define
+  average
+bip_39_word_space_12: room gasp royal chalk lobster nothing arctic private actor define
+  average amount
+bip_39_word_space_2: room gasp
+bip_39_word_space_3: room gasp royal
+bip_39_word_space_4: room gasp royal chalk
+bip_39_word_space_5: room gasp royal chalk lobster
+bip_39_word_space_6: room gasp royal chalk lobster nothing
+bip_39_word_space_7: room gasp royal chalk lobster nothing arctic
+bip_39_word_space_8: room gasp royal chalk lobster nothing arctic private
+bip_39_word_space_9: room gasp royal chalk lobster nothing arctic private actor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

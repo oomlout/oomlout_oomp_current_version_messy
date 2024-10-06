@@ -1,3 +1,187 @@
+bip_39_word_new_br1: song
+bip_39_word_new_br10: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail
+bip_39_word_new_br11: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail<br>release
+bip_39_word_new_br12: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey<br>mail<br>release<br>apart
+bip_39_word_new_br2: song<br>ancient
+bip_39_word_new_br3: song<br>ancient<br>wrong
+bip_39_word_new_br4: song<br>ancient<br>wrong<br>project
+bip_39_word_new_br5: song<br>ancient<br>wrong<br>project<br>receive
+bip_39_word_new_br6: song<br>ancient<br>wrong<br>project<br>receive<br>regular
+bip_39_word_new_br7: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood
+bip_39_word_new_br8: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait
+bip_39_word_new_br9: song<br>ancient<br>wrong<br>project<br>receive<br>regular<br>wood<br>wait<br>donkey
+bip_39_word_new_line1: song
+bip_39_word_new_line10: 'song
+
+  ancient
+
+  wrong
+
+  project
+
+  receive
+
+  regular
+
+  wood
+
+  wait
+
+  donkey
+
+  mail'
+bip_39_word_new_line11: 'song
+
+  ancient
+
+  wrong
+
+  project
+
+  receive
+
+  regular
+
+  wood
+
+  wait
+
+  donkey
+
+  mail
+
+  release'
+bip_39_word_new_line12: 'song
+
+  ancient
+
+  wrong
+
+  project
+
+  receive
+
+  regular
+
+  wood
+
+  wait
+
+  donkey
+
+  mail
+
+  release
+
+  apart'
+bip_39_word_new_line2: 'song
+
+  ancient'
+bip_39_word_new_line3: 'song
+
+  ancient
+
+  wrong'
+bip_39_word_new_line4: 'song
+
+  ancient
+
+  wrong
+
+  project'
+bip_39_word_new_line5: 'song
+
+  ancient
+
+  wrong
+
+  project
+
+  receive'
+bip_39_word_new_line6: 'song
+
+  ancient
+
+  wrong
+
+  project
+
+  receive
+
+  regular'
+bip_39_word_new_line7: 'song
+
+  ancient
+
+  wrong
+
+  project
+
+  receive
+
+  regular
+
+  wood'
+bip_39_word_new_line8: 'song
+
+  ancient
+
+  wrong
+
+  project
+
+  receive
+
+  regular
+
+  wood
+
+  wait'
+bip_39_word_new_line9: 'song
+
+  ancient
+
+  wrong
+
+  project
+
+  receive
+
+  regular
+
+  wood
+
+  wait
+
+  donkey'
+bip_39_word_space_0:
+- song
+- ancient
+- wrong
+- project
+- receive
+- regular
+- wood
+- wait
+- donkey
+- mail
+- release
+- apart
+bip_39_word_space_1: song
+bip_39_word_space_10: song ancient wrong project receive regular wood wait donkey
+  mail
+bip_39_word_space_11: song ancient wrong project receive regular wood wait donkey
+  mail release
+bip_39_word_space_12: song ancient wrong project receive regular wood wait donkey
+  mail release apart
+bip_39_word_space_2: song ancient
+bip_39_word_space_3: song ancient wrong
+bip_39_word_space_4: song ancient wrong project
+bip_39_word_space_5: song ancient wrong project receive
+bip_39_word_space_6: song ancient wrong project receive regular
+bip_39_word_space_7: song ancient wrong project receive regular wood
+bip_39_word_space_8: song ancient wrong project receive regular wood wait
+bip_39_word_space_9: song ancient wrong project receive regular wood wait donkey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

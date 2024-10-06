@@ -1,3 +1,187 @@
+bip_39_word_new_br1: jazz
+bip_39_word_new_br10: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory<br>clerk<br>winner<br>skirt<br>join
+bip_39_word_new_br11: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory<br>clerk<br>winner<br>skirt<br>join<br>utility
+bip_39_word_new_br12: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory<br>clerk<br>winner<br>skirt<br>join<br>utility<br>angry
+bip_39_word_new_br2: jazz<br>tomorrow
+bip_39_word_new_br3: jazz<br>tomorrow<br>island
+bip_39_word_new_br4: jazz<br>tomorrow<br>island<br>bitter
+bip_39_word_new_br5: jazz<br>tomorrow<br>island<br>bitter<br>still
+bip_39_word_new_br6: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory
+bip_39_word_new_br7: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory<br>clerk
+bip_39_word_new_br8: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory<br>clerk<br>winner
+bip_39_word_new_br9: jazz<br>tomorrow<br>island<br>bitter<br>still<br>victory<br>clerk<br>winner<br>skirt
+bip_39_word_new_line1: jazz
+bip_39_word_new_line10: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter
+
+  still
+
+  victory
+
+  clerk
+
+  winner
+
+  skirt
+
+  join'
+bip_39_word_new_line11: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter
+
+  still
+
+  victory
+
+  clerk
+
+  winner
+
+  skirt
+
+  join
+
+  utility'
+bip_39_word_new_line12: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter
+
+  still
+
+  victory
+
+  clerk
+
+  winner
+
+  skirt
+
+  join
+
+  utility
+
+  angry'
+bip_39_word_new_line2: 'jazz
+
+  tomorrow'
+bip_39_word_new_line3: 'jazz
+
+  tomorrow
+
+  island'
+bip_39_word_new_line4: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter'
+bip_39_word_new_line5: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter
+
+  still'
+bip_39_word_new_line6: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter
+
+  still
+
+  victory'
+bip_39_word_new_line7: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter
+
+  still
+
+  victory
+
+  clerk'
+bip_39_word_new_line8: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter
+
+  still
+
+  victory
+
+  clerk
+
+  winner'
+bip_39_word_new_line9: 'jazz
+
+  tomorrow
+
+  island
+
+  bitter
+
+  still
+
+  victory
+
+  clerk
+
+  winner
+
+  skirt'
+bip_39_word_space_0:
+- jazz
+- tomorrow
+- island
+- bitter
+- still
+- victory
+- clerk
+- winner
+- skirt
+- join
+- utility
+- angry
+bip_39_word_space_1: jazz
+bip_39_word_space_10: jazz tomorrow island bitter still victory clerk winner skirt
+  join
+bip_39_word_space_11: jazz tomorrow island bitter still victory clerk winner skirt
+  join utility
+bip_39_word_space_12: jazz tomorrow island bitter still victory clerk winner skirt
+  join utility angry
+bip_39_word_space_2: jazz tomorrow
+bip_39_word_space_3: jazz tomorrow island
+bip_39_word_space_4: jazz tomorrow island bitter
+bip_39_word_space_5: jazz tomorrow island bitter still
+bip_39_word_space_6: jazz tomorrow island bitter still victory
+bip_39_word_space_7: jazz tomorrow island bitter still victory clerk
+bip_39_word_space_8: jazz tomorrow island bitter still victory clerk winner
+bip_39_word_space_9: jazz tomorrow island bitter still victory clerk winner skirt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

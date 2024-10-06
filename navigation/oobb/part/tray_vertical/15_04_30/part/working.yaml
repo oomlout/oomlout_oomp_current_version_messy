@@ -1,3 +1,187 @@
+bip_39_word_new_br1: smooth
+bip_39_word_new_br10: smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi
+bip_39_word_new_br11: smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi<br>range
+bip_39_word_new_br12: smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate<br>kiwi<br>range<br>annual
+bip_39_word_new_br2: smooth<br>inherit
+bip_39_word_new_br3: smooth<br>inherit<br>capable
+bip_39_word_new_br4: smooth<br>inherit<br>capable<br>pupil
+bip_39_word_new_br5: smooth<br>inherit<br>capable<br>pupil<br>alert
+bip_39_word_new_br6: smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy
+bip_39_word_new_br7: smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate
+bip_39_word_new_br8: smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human
+bip_39_word_new_br9: smooth<br>inherit<br>capable<br>pupil<br>alert<br>buddy<br>indicate<br>human<br>rate
+bip_39_word_new_line1: smooth
+bip_39_word_new_line10: 'smooth
+
+  inherit
+
+  capable
+
+  pupil
+
+  alert
+
+  buddy
+
+  indicate
+
+  human
+
+  rate
+
+  kiwi'
+bip_39_word_new_line11: 'smooth
+
+  inherit
+
+  capable
+
+  pupil
+
+  alert
+
+  buddy
+
+  indicate
+
+  human
+
+  rate
+
+  kiwi
+
+  range'
+bip_39_word_new_line12: 'smooth
+
+  inherit
+
+  capable
+
+  pupil
+
+  alert
+
+  buddy
+
+  indicate
+
+  human
+
+  rate
+
+  kiwi
+
+  range
+
+  annual'
+bip_39_word_new_line2: 'smooth
+
+  inherit'
+bip_39_word_new_line3: 'smooth
+
+  inherit
+
+  capable'
+bip_39_word_new_line4: 'smooth
+
+  inherit
+
+  capable
+
+  pupil'
+bip_39_word_new_line5: 'smooth
+
+  inherit
+
+  capable
+
+  pupil
+
+  alert'
+bip_39_word_new_line6: 'smooth
+
+  inherit
+
+  capable
+
+  pupil
+
+  alert
+
+  buddy'
+bip_39_word_new_line7: 'smooth
+
+  inherit
+
+  capable
+
+  pupil
+
+  alert
+
+  buddy
+
+  indicate'
+bip_39_word_new_line8: 'smooth
+
+  inherit
+
+  capable
+
+  pupil
+
+  alert
+
+  buddy
+
+  indicate
+
+  human'
+bip_39_word_new_line9: 'smooth
+
+  inherit
+
+  capable
+
+  pupil
+
+  alert
+
+  buddy
+
+  indicate
+
+  human
+
+  rate'
+bip_39_word_space_0:
+- smooth
+- inherit
+- capable
+- pupil
+- alert
+- buddy
+- indicate
+- human
+- rate
+- kiwi
+- range
+- annual
+bip_39_word_space_1: smooth
+bip_39_word_space_10: smooth inherit capable pupil alert buddy indicate human rate
+  kiwi
+bip_39_word_space_11: smooth inherit capable pupil alert buddy indicate human rate
+  kiwi range
+bip_39_word_space_12: smooth inherit capable pupil alert buddy indicate human rate
+  kiwi range annual
+bip_39_word_space_2: smooth inherit
+bip_39_word_space_3: smooth inherit capable
+bip_39_word_space_4: smooth inherit capable pupil
+bip_39_word_space_5: smooth inherit capable pupil alert
+bip_39_word_space_6: smooth inherit capable pupil alert buddy
+bip_39_word_space_7: smooth inherit capable pupil alert buddy indicate
+bip_39_word_space_8: smooth inherit capable pupil alert buddy indicate human
+bip_39_word_space_9: smooth inherit capable pupil alert buddy indicate human rate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

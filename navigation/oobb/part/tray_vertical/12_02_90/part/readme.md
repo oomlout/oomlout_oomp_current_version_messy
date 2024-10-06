@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fury riot
+  * bip 39 word 3: fury riot inhale
+  * bip 39 word: fury riot inhale dress awake door august husband nut wolf grow achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fury |  
+| bip_39_word_new_br10 | fury<br>riot<br>inhale<br>dress<br>awake<br>door<br>august<br>husband<br>nut<br>wolf |  
+| bip_39_word_new_br11 | fury<br>riot<br>inhale<br>dress<br>awake<br>door<br>august<br>husband<br>nut<br>wolf<br>grow |  
+| bip_39_word_new_br12 | fury<br>riot<br>inhale<br>dress<br>awake<br>door<br>august<br>husband<br>nut<br>wolf<br>grow<br>achieve |  
+| bip_39_word_new_br2 | fury<br>riot |  
+| bip_39_word_new_br3 | fury<br>riot<br>inhale |  
+| bip_39_word_new_br4 | fury<br>riot<br>inhale<br>dress |  
+| bip_39_word_new_br5 | fury<br>riot<br>inhale<br>dress<br>awake |  
+| bip_39_word_new_br6 | fury<br>riot<br>inhale<br>dress<br>awake<br>door |  
+| bip_39_word_new_br7 | fury<br>riot<br>inhale<br>dress<br>awake<br>door<br>august |  
+| bip_39_word_new_br8 | fury<br>riot<br>inhale<br>dress<br>awake<br>door<br>august<br>husband |  
+| bip_39_word_new_br9 | fury<br>riot<br>inhale<br>dress<br>awake<br>door<br>august<br>husband<br>nut |  
+| bip_39_word_new_line1 | fury |  
+| bip_39_word_new_line10 | fury
+riot
+inhale
+dress
+awake
+door
+august
+husband
+nut
+wolf |  
+| bip_39_word_new_line11 | fury
+riot
+inhale
+dress
+awake
+door
+august
+husband
+nut
+wolf
+grow |  
+| bip_39_word_new_line12 | fury
+riot
+inhale
+dress
+awake
+door
+august
+husband
+nut
+wolf
+grow
+achieve |  
+| bip_39_word_new_line2 | fury
+riot |  
+| bip_39_word_new_line3 | fury
+riot
+inhale |  
+| bip_39_word_new_line4 | fury
+riot
+inhale
+dress |  
+| bip_39_word_new_line5 | fury
+riot
+inhale
+dress
+awake |  
+| bip_39_word_new_line6 | fury
+riot
+inhale
+dress
+awake
+door |  
+| bip_39_word_new_line7 | fury
+riot
+inhale
+dress
+awake
+door
+august |  
+| bip_39_word_new_line8 | fury
+riot
+inhale
+dress
+awake
+door
+august
+husband |  
+| bip_39_word_new_line9 | fury
+riot
+inhale
+dress
+awake
+door
+august
+husband
+nut |  
+| bip_39_word_space_0 | ['fury', 'riot', 'inhale', 'dress', 'awake', 'door', 'august', 'husband', 'nut', 'wolf', 'grow', 'achieve'] |  
+| bip_39_word_space_1 | fury |  
+| bip_39_word_space_10 | fury riot inhale dress awake door august husband nut wolf |  
+| bip_39_word_space_11 | fury riot inhale dress awake door august husband nut wolf grow |  
+| bip_39_word_space_12 | fury riot inhale dress awake door august husband nut wolf grow achieve |  
+| bip_39_word_space_2 | fury riot |  
+| bip_39_word_space_3 | fury riot inhale |  
+| bip_39_word_space_4 | fury riot inhale dress |  
+| bip_39_word_space_5 | fury riot inhale dress awake |  
+| bip_39_word_space_6 | fury riot inhale dress awake door |  
+| bip_39_word_space_7 | fury riot inhale dress awake door august |  
+| bip_39_word_space_8 | fury riot inhale dress awake door august husband |  
+| bip_39_word_space_9 | fury riot inhale dress awake door august husband nut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

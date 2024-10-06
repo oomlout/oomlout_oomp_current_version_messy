@@ -1,3 +1,186 @@
+bip_39_word_new_br1: custom
+bip_39_word_new_br10: custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast
+bip_39_word_new_br11: custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast<br>furnace
+bip_39_word_new_br12: custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll<br>blast<br>furnace<br>attitude
+bip_39_word_new_br2: custom<br>lab
+bip_39_word_new_br3: custom<br>lab<br>desk
+bip_39_word_new_br4: custom<br>lab<br>desk<br>pluck
+bip_39_word_new_br5: custom<br>lab<br>desk<br>pluck<br>tree
+bip_39_word_new_br6: custom<br>lab<br>desk<br>pluck<br>tree<br>general
+bip_39_word_new_br7: custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose
+bip_39_word_new_br8: custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense
+bip_39_word_new_br9: custom<br>lab<br>desk<br>pluck<br>tree<br>general<br>oppose<br>defense<br>enroll
+bip_39_word_new_line1: custom
+bip_39_word_new_line10: 'custom
+
+  lab
+
+  desk
+
+  pluck
+
+  tree
+
+  general
+
+  oppose
+
+  defense
+
+  enroll
+
+  blast'
+bip_39_word_new_line11: 'custom
+
+  lab
+
+  desk
+
+  pluck
+
+  tree
+
+  general
+
+  oppose
+
+  defense
+
+  enroll
+
+  blast
+
+  furnace'
+bip_39_word_new_line12: 'custom
+
+  lab
+
+  desk
+
+  pluck
+
+  tree
+
+  general
+
+  oppose
+
+  defense
+
+  enroll
+
+  blast
+
+  furnace
+
+  attitude'
+bip_39_word_new_line2: 'custom
+
+  lab'
+bip_39_word_new_line3: 'custom
+
+  lab
+
+  desk'
+bip_39_word_new_line4: 'custom
+
+  lab
+
+  desk
+
+  pluck'
+bip_39_word_new_line5: 'custom
+
+  lab
+
+  desk
+
+  pluck
+
+  tree'
+bip_39_word_new_line6: 'custom
+
+  lab
+
+  desk
+
+  pluck
+
+  tree
+
+  general'
+bip_39_word_new_line7: 'custom
+
+  lab
+
+  desk
+
+  pluck
+
+  tree
+
+  general
+
+  oppose'
+bip_39_word_new_line8: 'custom
+
+  lab
+
+  desk
+
+  pluck
+
+  tree
+
+  general
+
+  oppose
+
+  defense'
+bip_39_word_new_line9: 'custom
+
+  lab
+
+  desk
+
+  pluck
+
+  tree
+
+  general
+
+  oppose
+
+  defense
+
+  enroll'
+bip_39_word_space_0:
+- custom
+- lab
+- desk
+- pluck
+- tree
+- general
+- oppose
+- defense
+- enroll
+- blast
+- furnace
+- attitude
+bip_39_word_space_1: custom
+bip_39_word_space_10: custom lab desk pluck tree general oppose defense enroll blast
+bip_39_word_space_11: custom lab desk pluck tree general oppose defense enroll blast
+  furnace
+bip_39_word_space_12: custom lab desk pluck tree general oppose defense enroll blast
+  furnace attitude
+bip_39_word_space_2: custom lab
+bip_39_word_space_3: custom lab desk
+bip_39_word_space_4: custom lab desk pluck
+bip_39_word_space_5: custom lab desk pluck tree
+bip_39_word_space_6: custom lab desk pluck tree general
+bip_39_word_space_7: custom lab desk pluck tree general oppose
+bip_39_word_space_8: custom lab desk pluck tree general oppose defense
+bip_39_word_space_9: custom lab desk pluck tree general oppose defense enroll
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

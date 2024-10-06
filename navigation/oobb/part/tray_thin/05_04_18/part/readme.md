@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swarm foot
+  * bip 39 word 3: swarm foot dog
+  * bip 39 word: swarm foot dog involve element mind cigar replace again arrest basket aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swarm |  
+| bip_39_word_new_br10 | swarm<br>foot<br>dog<br>involve<br>element<br>mind<br>cigar<br>replace<br>again<br>arrest |  
+| bip_39_word_new_br11 | swarm<br>foot<br>dog<br>involve<br>element<br>mind<br>cigar<br>replace<br>again<br>arrest<br>basket |  
+| bip_39_word_new_br12 | swarm<br>foot<br>dog<br>involve<br>element<br>mind<br>cigar<br>replace<br>again<br>arrest<br>basket<br>aim |  
+| bip_39_word_new_br2 | swarm<br>foot |  
+| bip_39_word_new_br3 | swarm<br>foot<br>dog |  
+| bip_39_word_new_br4 | swarm<br>foot<br>dog<br>involve |  
+| bip_39_word_new_br5 | swarm<br>foot<br>dog<br>involve<br>element |  
+| bip_39_word_new_br6 | swarm<br>foot<br>dog<br>involve<br>element<br>mind |  
+| bip_39_word_new_br7 | swarm<br>foot<br>dog<br>involve<br>element<br>mind<br>cigar |  
+| bip_39_word_new_br8 | swarm<br>foot<br>dog<br>involve<br>element<br>mind<br>cigar<br>replace |  
+| bip_39_word_new_br9 | swarm<br>foot<br>dog<br>involve<br>element<br>mind<br>cigar<br>replace<br>again |  
+| bip_39_word_new_line1 | swarm |  
+| bip_39_word_new_line10 | swarm
+foot
+dog
+involve
+element
+mind
+cigar
+replace
+again
+arrest |  
+| bip_39_word_new_line11 | swarm
+foot
+dog
+involve
+element
+mind
+cigar
+replace
+again
+arrest
+basket |  
+| bip_39_word_new_line12 | swarm
+foot
+dog
+involve
+element
+mind
+cigar
+replace
+again
+arrest
+basket
+aim |  
+| bip_39_word_new_line2 | swarm
+foot |  
+| bip_39_word_new_line3 | swarm
+foot
+dog |  
+| bip_39_word_new_line4 | swarm
+foot
+dog
+involve |  
+| bip_39_word_new_line5 | swarm
+foot
+dog
+involve
+element |  
+| bip_39_word_new_line6 | swarm
+foot
+dog
+involve
+element
+mind |  
+| bip_39_word_new_line7 | swarm
+foot
+dog
+involve
+element
+mind
+cigar |  
+| bip_39_word_new_line8 | swarm
+foot
+dog
+involve
+element
+mind
+cigar
+replace |  
+| bip_39_word_new_line9 | swarm
+foot
+dog
+involve
+element
+mind
+cigar
+replace
+again |  
+| bip_39_word_space_0 | ['swarm', 'foot', 'dog', 'involve', 'element', 'mind', 'cigar', 'replace', 'again', 'arrest', 'basket', 'aim'] |  
+| bip_39_word_space_1 | swarm |  
+| bip_39_word_space_10 | swarm foot dog involve element mind cigar replace again arrest |  
+| bip_39_word_space_11 | swarm foot dog involve element mind cigar replace again arrest basket |  
+| bip_39_word_space_12 | swarm foot dog involve element mind cigar replace again arrest basket aim |  
+| bip_39_word_space_2 | swarm foot |  
+| bip_39_word_space_3 | swarm foot dog |  
+| bip_39_word_space_4 | swarm foot dog involve |  
+| bip_39_word_space_5 | swarm foot dog involve element |  
+| bip_39_word_space_6 | swarm foot dog involve element mind |  
+| bip_39_word_space_7 | swarm foot dog involve element mind cigar |  
+| bip_39_word_space_8 | swarm foot dog involve element mind cigar replace |  
+| bip_39_word_space_9 | swarm foot dog involve element mind cigar replace again |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

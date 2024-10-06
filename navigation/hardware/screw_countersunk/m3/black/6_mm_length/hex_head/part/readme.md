@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soccer team
+  * bip 39 word 3: soccer team pretty
+  * bip 39 word: soccer team pretty trouble embody swamp immune silent satisfy coyote tent arrange
 
 ### other_codes
 * short_code: cs3b6h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soccer |  
+| bip_39_word_new_br10 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote |  
+| bip_39_word_new_br11 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote<br>tent |  
+| bip_39_word_new_br12 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy<br>coyote<br>tent<br>arrange |  
+| bip_39_word_new_br2 | soccer<br>team |  
+| bip_39_word_new_br3 | soccer<br>team<br>pretty |  
+| bip_39_word_new_br4 | soccer<br>team<br>pretty<br>trouble |  
+| bip_39_word_new_br5 | soccer<br>team<br>pretty<br>trouble<br>embody |  
+| bip_39_word_new_br6 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp |  
+| bip_39_word_new_br7 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune |  
+| bip_39_word_new_br8 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent |  
+| bip_39_word_new_br9 | soccer<br>team<br>pretty<br>trouble<br>embody<br>swamp<br>immune<br>silent<br>satisfy |  
+| bip_39_word_new_line1 | soccer |  
+| bip_39_word_new_line10 | soccer
+team
+pretty
+trouble
+embody
+swamp
+immune
+silent
+satisfy
+coyote |  
+| bip_39_word_new_line11 | soccer
+team
+pretty
+trouble
+embody
+swamp
+immune
+silent
+satisfy
+coyote
+tent |  
+| bip_39_word_new_line12 | soccer
+team
+pretty
+trouble
+embody
+swamp
+immune
+silent
+satisfy
+coyote
+tent
+arrange |  
+| bip_39_word_new_line2 | soccer
+team |  
+| bip_39_word_new_line3 | soccer
+team
+pretty |  
+| bip_39_word_new_line4 | soccer
+team
+pretty
+trouble |  
+| bip_39_word_new_line5 | soccer
+team
+pretty
+trouble
+embody |  
+| bip_39_word_new_line6 | soccer
+team
+pretty
+trouble
+embody
+swamp |  
+| bip_39_word_new_line7 | soccer
+team
+pretty
+trouble
+embody
+swamp
+immune |  
+| bip_39_word_new_line8 | soccer
+team
+pretty
+trouble
+embody
+swamp
+immune
+silent |  
+| bip_39_word_new_line9 | soccer
+team
+pretty
+trouble
+embody
+swamp
+immune
+silent
+satisfy |  
+| bip_39_word_space_0 | ['soccer', 'team', 'pretty', 'trouble', 'embody', 'swamp', 'immune', 'silent', 'satisfy', 'coyote', 'tent', 'arrange'] |  
+| bip_39_word_space_1 | soccer |  
+| bip_39_word_space_10 | soccer team pretty trouble embody swamp immune silent satisfy coyote |  
+| bip_39_word_space_11 | soccer team pretty trouble embody swamp immune silent satisfy coyote tent |  
+| bip_39_word_space_12 | soccer team pretty trouble embody swamp immune silent satisfy coyote tent arrange |  
+| bip_39_word_space_2 | soccer team |  
+| bip_39_word_space_3 | soccer team pretty |  
+| bip_39_word_space_4 | soccer team pretty trouble |  
+| bip_39_word_space_5 | soccer team pretty trouble embody |  
+| bip_39_word_space_6 | soccer team pretty trouble embody swamp |  
+| bip_39_word_space_7 | soccer team pretty trouble embody swamp immune |  
+| bip_39_word_space_8 | soccer team pretty trouble embody swamp immune silent |  
+| bip_39_word_space_9 | soccer team pretty trouble embody swamp immune silent satisfy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

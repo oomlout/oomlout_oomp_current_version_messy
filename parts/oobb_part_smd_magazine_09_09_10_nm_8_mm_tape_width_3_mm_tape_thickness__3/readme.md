@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: afford resist
+  * bip 39 word 3: afford resist finger
+  * bip 39 word: afford resist finger soap museum scan work borrow odor isolate lottery arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | afford |  
+| bip_39_word_new_br10 | afford<br>resist<br>finger<br>soap<br>museum<br>scan<br>work<br>borrow<br>odor<br>isolate |  
+| bip_39_word_new_br11 | afford<br>resist<br>finger<br>soap<br>museum<br>scan<br>work<br>borrow<br>odor<br>isolate<br>lottery |  
+| bip_39_word_new_br12 | afford<br>resist<br>finger<br>soap<br>museum<br>scan<br>work<br>borrow<br>odor<br>isolate<br>lottery<br>arrow |  
+| bip_39_word_new_br2 | afford<br>resist |  
+| bip_39_word_new_br3 | afford<br>resist<br>finger |  
+| bip_39_word_new_br4 | afford<br>resist<br>finger<br>soap |  
+| bip_39_word_new_br5 | afford<br>resist<br>finger<br>soap<br>museum |  
+| bip_39_word_new_br6 | afford<br>resist<br>finger<br>soap<br>museum<br>scan |  
+| bip_39_word_new_br7 | afford<br>resist<br>finger<br>soap<br>museum<br>scan<br>work |  
+| bip_39_word_new_br8 | afford<br>resist<br>finger<br>soap<br>museum<br>scan<br>work<br>borrow |  
+| bip_39_word_new_br9 | afford<br>resist<br>finger<br>soap<br>museum<br>scan<br>work<br>borrow<br>odor |  
+| bip_39_word_new_line1 | afford |  
+| bip_39_word_new_line10 | afford
+resist
+finger
+soap
+museum
+scan
+work
+borrow
+odor
+isolate |  
+| bip_39_word_new_line11 | afford
+resist
+finger
+soap
+museum
+scan
+work
+borrow
+odor
+isolate
+lottery |  
+| bip_39_word_new_line12 | afford
+resist
+finger
+soap
+museum
+scan
+work
+borrow
+odor
+isolate
+lottery
+arrow |  
+| bip_39_word_new_line2 | afford
+resist |  
+| bip_39_word_new_line3 | afford
+resist
+finger |  
+| bip_39_word_new_line4 | afford
+resist
+finger
+soap |  
+| bip_39_word_new_line5 | afford
+resist
+finger
+soap
+museum |  
+| bip_39_word_new_line6 | afford
+resist
+finger
+soap
+museum
+scan |  
+| bip_39_word_new_line7 | afford
+resist
+finger
+soap
+museum
+scan
+work |  
+| bip_39_word_new_line8 | afford
+resist
+finger
+soap
+museum
+scan
+work
+borrow |  
+| bip_39_word_new_line9 | afford
+resist
+finger
+soap
+museum
+scan
+work
+borrow
+odor |  
+| bip_39_word_space_0 | ['afford', 'resist', 'finger', 'soap', 'museum', 'scan', 'work', 'borrow', 'odor', 'isolate', 'lottery', 'arrow'] |  
+| bip_39_word_space_1 | afford |  
+| bip_39_word_space_10 | afford resist finger soap museum scan work borrow odor isolate |  
+| bip_39_word_space_11 | afford resist finger soap museum scan work borrow odor isolate lottery |  
+| bip_39_word_space_12 | afford resist finger soap museum scan work borrow odor isolate lottery arrow |  
+| bip_39_word_space_2 | afford resist |  
+| bip_39_word_space_3 | afford resist finger |  
+| bip_39_word_space_4 | afford resist finger soap |  
+| bip_39_word_space_5 | afford resist finger soap museum |  
+| bip_39_word_space_6 | afford resist finger soap museum scan |  
+| bip_39_word_space_7 | afford resist finger soap museum scan work |  
+| bip_39_word_space_8 | afford resist finger soap museum scan work borrow |  
+| bip_39_word_space_9 | afford resist finger soap museum scan work borrow odor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: y
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monster insane
+  * bip 39 word 3: monster insane decrease
+  * bip 39 word: monster insane decrease enough grape vague crazy turtle gospel actor era april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monster |  
+| bip_39_word_new_br10 | monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle<br>gospel<br>actor |  
+| bip_39_word_new_br11 | monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle<br>gospel<br>actor<br>era |  
+| bip_39_word_new_br12 | monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle<br>gospel<br>actor<br>era<br>april |  
+| bip_39_word_new_br2 | monster<br>insane |  
+| bip_39_word_new_br3 | monster<br>insane<br>decrease |  
+| bip_39_word_new_br4 | monster<br>insane<br>decrease<br>enough |  
+| bip_39_word_new_br5 | monster<br>insane<br>decrease<br>enough<br>grape |  
+| bip_39_word_new_br6 | monster<br>insane<br>decrease<br>enough<br>grape<br>vague |  
+| bip_39_word_new_br7 | monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy |  
+| bip_39_word_new_br8 | monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle |  
+| bip_39_word_new_br9 | monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle<br>gospel |  
+| bip_39_word_new_line1 | monster |  
+| bip_39_word_new_line10 | monster
+insane
+decrease
+enough
+grape
+vague
+crazy
+turtle
+gospel
+actor |  
+| bip_39_word_new_line11 | monster
+insane
+decrease
+enough
+grape
+vague
+crazy
+turtle
+gospel
+actor
+era |  
+| bip_39_word_new_line12 | monster
+insane
+decrease
+enough
+grape
+vague
+crazy
+turtle
+gospel
+actor
+era
+april |  
+| bip_39_word_new_line2 | monster
+insane |  
+| bip_39_word_new_line3 | monster
+insane
+decrease |  
+| bip_39_word_new_line4 | monster
+insane
+decrease
+enough |  
+| bip_39_word_new_line5 | monster
+insane
+decrease
+enough
+grape |  
+| bip_39_word_new_line6 | monster
+insane
+decrease
+enough
+grape
+vague |  
+| bip_39_word_new_line7 | monster
+insane
+decrease
+enough
+grape
+vague
+crazy |  
+| bip_39_word_new_line8 | monster
+insane
+decrease
+enough
+grape
+vague
+crazy
+turtle |  
+| bip_39_word_new_line9 | monster
+insane
+decrease
+enough
+grape
+vague
+crazy
+turtle
+gospel |  
+| bip_39_word_space_0 | ['monster', 'insane', 'decrease', 'enough', 'grape', 'vague', 'crazy', 'turtle', 'gospel', 'actor', 'era', 'april'] |  
+| bip_39_word_space_1 | monster |  
+| bip_39_word_space_10 | monster insane decrease enough grape vague crazy turtle gospel actor |  
+| bip_39_word_space_11 | monster insane decrease enough grape vague crazy turtle gospel actor era |  
+| bip_39_word_space_12 | monster insane decrease enough grape vague crazy turtle gospel actor era april |  
+| bip_39_word_space_2 | monster insane |  
+| bip_39_word_space_3 | monster insane decrease |  
+| bip_39_word_space_4 | monster insane decrease enough |  
+| bip_39_word_space_5 | monster insane decrease enough grape |  
+| bip_39_word_space_6 | monster insane decrease enough grape vague |  
+| bip_39_word_space_7 | monster insane decrease enough grape vague crazy |  
+| bip_39_word_space_8 | monster insane decrease enough grape vague crazy turtle |  
+| bip_39_word_space_9 | monster insane decrease enough grape vague crazy turtle gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

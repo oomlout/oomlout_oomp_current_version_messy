@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: onion multiply
+  * bip 39 word 3: onion multiply session
+  * bip 39 word: onion multiply session render mystery divide sand joke mosquito rose moment arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | onion |  
+| bip_39_word_new_br10 | onion<br>multiply<br>session<br>render<br>mystery<br>divide<br>sand<br>joke<br>mosquito<br>rose |  
+| bip_39_word_new_br11 | onion<br>multiply<br>session<br>render<br>mystery<br>divide<br>sand<br>joke<br>mosquito<br>rose<br>moment |  
+| bip_39_word_new_br12 | onion<br>multiply<br>session<br>render<br>mystery<br>divide<br>sand<br>joke<br>mosquito<br>rose<br>moment<br>arena |  
+| bip_39_word_new_br2 | onion<br>multiply |  
+| bip_39_word_new_br3 | onion<br>multiply<br>session |  
+| bip_39_word_new_br4 | onion<br>multiply<br>session<br>render |  
+| bip_39_word_new_br5 | onion<br>multiply<br>session<br>render<br>mystery |  
+| bip_39_word_new_br6 | onion<br>multiply<br>session<br>render<br>mystery<br>divide |  
+| bip_39_word_new_br7 | onion<br>multiply<br>session<br>render<br>mystery<br>divide<br>sand |  
+| bip_39_word_new_br8 | onion<br>multiply<br>session<br>render<br>mystery<br>divide<br>sand<br>joke |  
+| bip_39_word_new_br9 | onion<br>multiply<br>session<br>render<br>mystery<br>divide<br>sand<br>joke<br>mosquito |  
+| bip_39_word_new_line1 | onion |  
+| bip_39_word_new_line10 | onion
+multiply
+session
+render
+mystery
+divide
+sand
+joke
+mosquito
+rose |  
+| bip_39_word_new_line11 | onion
+multiply
+session
+render
+mystery
+divide
+sand
+joke
+mosquito
+rose
+moment |  
+| bip_39_word_new_line12 | onion
+multiply
+session
+render
+mystery
+divide
+sand
+joke
+mosquito
+rose
+moment
+arena |  
+| bip_39_word_new_line2 | onion
+multiply |  
+| bip_39_word_new_line3 | onion
+multiply
+session |  
+| bip_39_word_new_line4 | onion
+multiply
+session
+render |  
+| bip_39_word_new_line5 | onion
+multiply
+session
+render
+mystery |  
+| bip_39_word_new_line6 | onion
+multiply
+session
+render
+mystery
+divide |  
+| bip_39_word_new_line7 | onion
+multiply
+session
+render
+mystery
+divide
+sand |  
+| bip_39_word_new_line8 | onion
+multiply
+session
+render
+mystery
+divide
+sand
+joke |  
+| bip_39_word_new_line9 | onion
+multiply
+session
+render
+mystery
+divide
+sand
+joke
+mosquito |  
+| bip_39_word_space_0 | ['onion', 'multiply', 'session', 'render', 'mystery', 'divide', 'sand', 'joke', 'mosquito', 'rose', 'moment', 'arena'] |  
+| bip_39_word_space_1 | onion |  
+| bip_39_word_space_10 | onion multiply session render mystery divide sand joke mosquito rose |  
+| bip_39_word_space_11 | onion multiply session render mystery divide sand joke mosquito rose moment |  
+| bip_39_word_space_12 | onion multiply session render mystery divide sand joke mosquito rose moment arena |  
+| bip_39_word_space_2 | onion multiply |  
+| bip_39_word_space_3 | onion multiply session |  
+| bip_39_word_space_4 | onion multiply session render |  
+| bip_39_word_space_5 | onion multiply session render mystery |  
+| bip_39_word_space_6 | onion multiply session render mystery divide |  
+| bip_39_word_space_7 | onion multiply session render mystery divide sand |  
+| bip_39_word_space_8 | onion multiply session render mystery divide sand joke |  
+| bip_39_word_space_9 | onion multiply session render mystery divide sand joke mosquito |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

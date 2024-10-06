@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: town trick
+  * bip 39 word 3: town trick evolve
+  * bip 39 word: town trick evolve amused opinion canoe holiday gravity brass stairs girl answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | town |  
+| bip_39_word_new_br10 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe<br>holiday<br>gravity<br>brass<br>stairs |  
+| bip_39_word_new_br11 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe<br>holiday<br>gravity<br>brass<br>stairs<br>girl |  
+| bip_39_word_new_br12 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe<br>holiday<br>gravity<br>brass<br>stairs<br>girl<br>answer |  
+| bip_39_word_new_br2 | town<br>trick |  
+| bip_39_word_new_br3 | town<br>trick<br>evolve |  
+| bip_39_word_new_br4 | town<br>trick<br>evolve<br>amused |  
+| bip_39_word_new_br5 | town<br>trick<br>evolve<br>amused<br>opinion |  
+| bip_39_word_new_br6 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe |  
+| bip_39_word_new_br7 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe<br>holiday |  
+| bip_39_word_new_br8 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe<br>holiday<br>gravity |  
+| bip_39_word_new_br9 | town<br>trick<br>evolve<br>amused<br>opinion<br>canoe<br>holiday<br>gravity<br>brass |  
+| bip_39_word_new_line1 | town |  
+| bip_39_word_new_line10 | town
+trick
+evolve
+amused
+opinion
+canoe
+holiday
+gravity
+brass
+stairs |  
+| bip_39_word_new_line11 | town
+trick
+evolve
+amused
+opinion
+canoe
+holiday
+gravity
+brass
+stairs
+girl |  
+| bip_39_word_new_line12 | town
+trick
+evolve
+amused
+opinion
+canoe
+holiday
+gravity
+brass
+stairs
+girl
+answer |  
+| bip_39_word_new_line2 | town
+trick |  
+| bip_39_word_new_line3 | town
+trick
+evolve |  
+| bip_39_word_new_line4 | town
+trick
+evolve
+amused |  
+| bip_39_word_new_line5 | town
+trick
+evolve
+amused
+opinion |  
+| bip_39_word_new_line6 | town
+trick
+evolve
+amused
+opinion
+canoe |  
+| bip_39_word_new_line7 | town
+trick
+evolve
+amused
+opinion
+canoe
+holiday |  
+| bip_39_word_new_line8 | town
+trick
+evolve
+amused
+opinion
+canoe
+holiday
+gravity |  
+| bip_39_word_new_line9 | town
+trick
+evolve
+amused
+opinion
+canoe
+holiday
+gravity
+brass |  
+| bip_39_word_space_0 | ['town', 'trick', 'evolve', 'amused', 'opinion', 'canoe', 'holiday', 'gravity', 'brass', 'stairs', 'girl', 'answer'] |  
+| bip_39_word_space_1 | town |  
+| bip_39_word_space_10 | town trick evolve amused opinion canoe holiday gravity brass stairs |  
+| bip_39_word_space_11 | town trick evolve amused opinion canoe holiday gravity brass stairs girl |  
+| bip_39_word_space_12 | town trick evolve amused opinion canoe holiday gravity brass stairs girl answer |  
+| bip_39_word_space_2 | town trick |  
+| bip_39_word_space_3 | town trick evolve |  
+| bip_39_word_space_4 | town trick evolve amused |  
+| bip_39_word_space_5 | town trick evolve amused opinion |  
+| bip_39_word_space_6 | town trick evolve amused opinion canoe |  
+| bip_39_word_space_7 | town trick evolve amused opinion canoe holiday |  
+| bip_39_word_space_8 | town trick evolve amused opinion canoe holiday gravity |  
+| bip_39_word_space_9 | town trick evolve amused opinion canoe holiday gravity brass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

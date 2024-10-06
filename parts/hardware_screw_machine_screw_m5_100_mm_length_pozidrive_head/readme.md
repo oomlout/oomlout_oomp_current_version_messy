@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: symbol bag
+  * bip 39 word 3: symbol bag shallow
+  * bip 39 word: symbol bag shallow family scrub good sunny tumble share paddle chapter alarm
 
 ### other_codes
 * short_code: ms5m100pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | symbol |  
+| bip_39_word_new_br10 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good<br>sunny<br>tumble<br>share<br>paddle |  
+| bip_39_word_new_br11 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good<br>sunny<br>tumble<br>share<br>paddle<br>chapter |  
+| bip_39_word_new_br12 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good<br>sunny<br>tumble<br>share<br>paddle<br>chapter<br>alarm |  
+| bip_39_word_new_br2 | symbol<br>bag |  
+| bip_39_word_new_br3 | symbol<br>bag<br>shallow |  
+| bip_39_word_new_br4 | symbol<br>bag<br>shallow<br>family |  
+| bip_39_word_new_br5 | symbol<br>bag<br>shallow<br>family<br>scrub |  
+| bip_39_word_new_br6 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good |  
+| bip_39_word_new_br7 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good<br>sunny |  
+| bip_39_word_new_br8 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good<br>sunny<br>tumble |  
+| bip_39_word_new_br9 | symbol<br>bag<br>shallow<br>family<br>scrub<br>good<br>sunny<br>tumble<br>share |  
+| bip_39_word_new_line1 | symbol |  
+| bip_39_word_new_line10 | symbol
+bag
+shallow
+family
+scrub
+good
+sunny
+tumble
+share
+paddle |  
+| bip_39_word_new_line11 | symbol
+bag
+shallow
+family
+scrub
+good
+sunny
+tumble
+share
+paddle
+chapter |  
+| bip_39_word_new_line12 | symbol
+bag
+shallow
+family
+scrub
+good
+sunny
+tumble
+share
+paddle
+chapter
+alarm |  
+| bip_39_word_new_line2 | symbol
+bag |  
+| bip_39_word_new_line3 | symbol
+bag
+shallow |  
+| bip_39_word_new_line4 | symbol
+bag
+shallow
+family |  
+| bip_39_word_new_line5 | symbol
+bag
+shallow
+family
+scrub |  
+| bip_39_word_new_line6 | symbol
+bag
+shallow
+family
+scrub
+good |  
+| bip_39_word_new_line7 | symbol
+bag
+shallow
+family
+scrub
+good
+sunny |  
+| bip_39_word_new_line8 | symbol
+bag
+shallow
+family
+scrub
+good
+sunny
+tumble |  
+| bip_39_word_new_line9 | symbol
+bag
+shallow
+family
+scrub
+good
+sunny
+tumble
+share |  
+| bip_39_word_space_0 | ['symbol', 'bag', 'shallow', 'family', 'scrub', 'good', 'sunny', 'tumble', 'share', 'paddle', 'chapter', 'alarm'] |  
+| bip_39_word_space_1 | symbol |  
+| bip_39_word_space_10 | symbol bag shallow family scrub good sunny tumble share paddle |  
+| bip_39_word_space_11 | symbol bag shallow family scrub good sunny tumble share paddle chapter |  
+| bip_39_word_space_12 | symbol bag shallow family scrub good sunny tumble share paddle chapter alarm |  
+| bip_39_word_space_2 | symbol bag |  
+| bip_39_word_space_3 | symbol bag shallow |  
+| bip_39_word_space_4 | symbol bag shallow family |  
+| bip_39_word_space_5 | symbol bag shallow family scrub |  
+| bip_39_word_space_6 | symbol bag shallow family scrub good |  
+| bip_39_word_space_7 | symbol bag shallow family scrub good sunny |  
+| bip_39_word_space_8 | symbol bag shallow family scrub good sunny tumble |  
+| bip_39_word_space_9 | symbol bag shallow family scrub good sunny tumble share |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

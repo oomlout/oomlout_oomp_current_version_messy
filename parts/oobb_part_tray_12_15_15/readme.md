@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: banana sick
+  * bip 39 word 3: banana sick muscle
+  * bip 39 word: banana sick muscle top chat vivid taste hazard whale auction regret advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | banana |  
+| bip_39_word_new_br10 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid<br>taste<br>hazard<br>whale<br>auction |  
+| bip_39_word_new_br11 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid<br>taste<br>hazard<br>whale<br>auction<br>regret |  
+| bip_39_word_new_br12 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid<br>taste<br>hazard<br>whale<br>auction<br>regret<br>advance |  
+| bip_39_word_new_br2 | banana<br>sick |  
+| bip_39_word_new_br3 | banana<br>sick<br>muscle |  
+| bip_39_word_new_br4 | banana<br>sick<br>muscle<br>top |  
+| bip_39_word_new_br5 | banana<br>sick<br>muscle<br>top<br>chat |  
+| bip_39_word_new_br6 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid |  
+| bip_39_word_new_br7 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid<br>taste |  
+| bip_39_word_new_br8 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid<br>taste<br>hazard |  
+| bip_39_word_new_br9 | banana<br>sick<br>muscle<br>top<br>chat<br>vivid<br>taste<br>hazard<br>whale |  
+| bip_39_word_new_line1 | banana |  
+| bip_39_word_new_line10 | banana
+sick
+muscle
+top
+chat
+vivid
+taste
+hazard
+whale
+auction |  
+| bip_39_word_new_line11 | banana
+sick
+muscle
+top
+chat
+vivid
+taste
+hazard
+whale
+auction
+regret |  
+| bip_39_word_new_line12 | banana
+sick
+muscle
+top
+chat
+vivid
+taste
+hazard
+whale
+auction
+regret
+advance |  
+| bip_39_word_new_line2 | banana
+sick |  
+| bip_39_word_new_line3 | banana
+sick
+muscle |  
+| bip_39_word_new_line4 | banana
+sick
+muscle
+top |  
+| bip_39_word_new_line5 | banana
+sick
+muscle
+top
+chat |  
+| bip_39_word_new_line6 | banana
+sick
+muscle
+top
+chat
+vivid |  
+| bip_39_word_new_line7 | banana
+sick
+muscle
+top
+chat
+vivid
+taste |  
+| bip_39_word_new_line8 | banana
+sick
+muscle
+top
+chat
+vivid
+taste
+hazard |  
+| bip_39_word_new_line9 | banana
+sick
+muscle
+top
+chat
+vivid
+taste
+hazard
+whale |  
+| bip_39_word_space_0 | ['banana', 'sick', 'muscle', 'top', 'chat', 'vivid', 'taste', 'hazard', 'whale', 'auction', 'regret', 'advance'] |  
+| bip_39_word_space_1 | banana |  
+| bip_39_word_space_10 | banana sick muscle top chat vivid taste hazard whale auction |  
+| bip_39_word_space_11 | banana sick muscle top chat vivid taste hazard whale auction regret |  
+| bip_39_word_space_12 | banana sick muscle top chat vivid taste hazard whale auction regret advance |  
+| bip_39_word_space_2 | banana sick |  
+| bip_39_word_space_3 | banana sick muscle |  
+| bip_39_word_space_4 | banana sick muscle top |  
+| bip_39_word_space_5 | banana sick muscle top chat |  
+| bip_39_word_space_6 | banana sick muscle top chat vivid |  
+| bip_39_word_space_7 | banana sick muscle top chat vivid taste |  
+| bip_39_word_space_8 | banana sick muscle top chat vivid taste hazard |  
+| bip_39_word_space_9 | banana sick muscle top chat vivid taste hazard whale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

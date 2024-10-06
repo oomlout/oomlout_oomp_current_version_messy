@@ -1,3 +1,159 @@
+bip_39_word_new_br1: suspect
+bip_39_word_new_br10: suspect<br>creek<br>lonely<br>pave<br>toddler<br>learn<br>frame<br>farm<br>subway<br>fringe
+bip_39_word_new_br11: suspect<br>creek<br>lonely<br>pave<br>toddler<br>learn<br>frame<br>farm<br>subway<br>fringe<br>energy
+bip_39_word_new_br2: suspect<br>creek
+bip_39_word_new_br3: suspect<br>creek<br>lonely
+bip_39_word_new_br4: suspect<br>creek<br>lonely<br>pave
+bip_39_word_new_br5: suspect<br>creek<br>lonely<br>pave<br>toddler
+bip_39_word_new_br6: suspect<br>creek<br>lonely<br>pave<br>toddler<br>learn
+bip_39_word_new_br7: suspect<br>creek<br>lonely<br>pave<br>toddler<br>learn<br>frame
+bip_39_word_new_br8: suspect<br>creek<br>lonely<br>pave<br>toddler<br>learn<br>frame<br>farm
+bip_39_word_new_br9: suspect<br>creek<br>lonely<br>pave<br>toddler<br>learn<br>frame<br>farm<br>subway
+bip_39_word_new_line1: suspect
+bip_39_word_new_line10: 'suspect
+
+  creek
+
+  lonely
+
+  pave
+
+  toddler
+
+  learn
+
+  frame
+
+  farm
+
+  subway
+
+  fringe'
+bip_39_word_new_line11: 'suspect
+
+  creek
+
+  lonely
+
+  pave
+
+  toddler
+
+  learn
+
+  frame
+
+  farm
+
+  subway
+
+  fringe
+
+  energy'
+bip_39_word_new_line2: 'suspect
+
+  creek'
+bip_39_word_new_line3: 'suspect
+
+  creek
+
+  lonely'
+bip_39_word_new_line4: 'suspect
+
+  creek
+
+  lonely
+
+  pave'
+bip_39_word_new_line5: 'suspect
+
+  creek
+
+  lonely
+
+  pave
+
+  toddler'
+bip_39_word_new_line6: 'suspect
+
+  creek
+
+  lonely
+
+  pave
+
+  toddler
+
+  learn'
+bip_39_word_new_line7: 'suspect
+
+  creek
+
+  lonely
+
+  pave
+
+  toddler
+
+  learn
+
+  frame'
+bip_39_word_new_line8: 'suspect
+
+  creek
+
+  lonely
+
+  pave
+
+  toddler
+
+  learn
+
+  frame
+
+  farm'
+bip_39_word_new_line9: 'suspect
+
+  creek
+
+  lonely
+
+  pave
+
+  toddler
+
+  learn
+
+  frame
+
+  farm
+
+  subway'
+bip_39_word_space_0:
+- suspect
+- creek
+- lonely
+- pave
+- toddler
+- learn
+- frame
+- farm
+- subway
+- fringe
+- energy
+bip_39_word_space_1: suspect
+bip_39_word_space_10: suspect creek lonely pave toddler learn frame farm subway fringe
+bip_39_word_space_11: suspect creek lonely pave toddler learn frame farm subway fringe
+  energy
+bip_39_word_space_2: suspect creek
+bip_39_word_space_3: suspect creek lonely
+bip_39_word_space_4: suspect creek lonely pave
+bip_39_word_space_5: suspect creek lonely pave toddler
+bip_39_word_space_6: suspect creek lonely pave toddler learn
+bip_39_word_space_7: suspect creek lonely pave toddler learn frame
+bip_39_word_space_8: suspect creek lonely pave toddler learn frame farm
+bip_39_word_space_9: suspect creek lonely pave toddler learn frame farm subway
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

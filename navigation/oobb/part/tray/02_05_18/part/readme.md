@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: panic warm
+  * bip 39 word 3: panic warm refuse
+  * bip 39 word: panic warm refuse minimum fence swarm impact casual art double goose affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | panic |  
+| bip_39_word_new_br10 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm<br>impact<br>casual<br>art<br>double |  
+| bip_39_word_new_br11 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm<br>impact<br>casual<br>art<br>double<br>goose |  
+| bip_39_word_new_br12 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm<br>impact<br>casual<br>art<br>double<br>goose<br>affair |  
+| bip_39_word_new_br2 | panic<br>warm |  
+| bip_39_word_new_br3 | panic<br>warm<br>refuse |  
+| bip_39_word_new_br4 | panic<br>warm<br>refuse<br>minimum |  
+| bip_39_word_new_br5 | panic<br>warm<br>refuse<br>minimum<br>fence |  
+| bip_39_word_new_br6 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm |  
+| bip_39_word_new_br7 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm<br>impact |  
+| bip_39_word_new_br8 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm<br>impact<br>casual |  
+| bip_39_word_new_br9 | panic<br>warm<br>refuse<br>minimum<br>fence<br>swarm<br>impact<br>casual<br>art |  
+| bip_39_word_new_line1 | panic |  
+| bip_39_word_new_line10 | panic
+warm
+refuse
+minimum
+fence
+swarm
+impact
+casual
+art
+double |  
+| bip_39_word_new_line11 | panic
+warm
+refuse
+minimum
+fence
+swarm
+impact
+casual
+art
+double
+goose |  
+| bip_39_word_new_line12 | panic
+warm
+refuse
+minimum
+fence
+swarm
+impact
+casual
+art
+double
+goose
+affair |  
+| bip_39_word_new_line2 | panic
+warm |  
+| bip_39_word_new_line3 | panic
+warm
+refuse |  
+| bip_39_word_new_line4 | panic
+warm
+refuse
+minimum |  
+| bip_39_word_new_line5 | panic
+warm
+refuse
+minimum
+fence |  
+| bip_39_word_new_line6 | panic
+warm
+refuse
+minimum
+fence
+swarm |  
+| bip_39_word_new_line7 | panic
+warm
+refuse
+minimum
+fence
+swarm
+impact |  
+| bip_39_word_new_line8 | panic
+warm
+refuse
+minimum
+fence
+swarm
+impact
+casual |  
+| bip_39_word_new_line9 | panic
+warm
+refuse
+minimum
+fence
+swarm
+impact
+casual
+art |  
+| bip_39_word_space_0 | ['panic', 'warm', 'refuse', 'minimum', 'fence', 'swarm', 'impact', 'casual', 'art', 'double', 'goose', 'affair'] |  
+| bip_39_word_space_1 | panic |  
+| bip_39_word_space_10 | panic warm refuse minimum fence swarm impact casual art double |  
+| bip_39_word_space_11 | panic warm refuse minimum fence swarm impact casual art double goose |  
+| bip_39_word_space_12 | panic warm refuse minimum fence swarm impact casual art double goose affair |  
+| bip_39_word_space_2 | panic warm |  
+| bip_39_word_space_3 | panic warm refuse |  
+| bip_39_word_space_4 | panic warm refuse minimum |  
+| bip_39_word_space_5 | panic warm refuse minimum fence |  
+| bip_39_word_space_6 | panic warm refuse minimum fence swarm |  
+| bip_39_word_space_7 | panic warm refuse minimum fence swarm impact |  
+| bip_39_word_space_8 | panic warm refuse minimum fence swarm impact casual |  
+| bip_39_word_space_9 | panic warm refuse minimum fence swarm impact casual art |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

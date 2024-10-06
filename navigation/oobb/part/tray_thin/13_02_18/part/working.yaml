@@ -1,3 +1,159 @@
+bip_39_word_new_br1: decide
+bip_39_word_new_br10: decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term<br>doll
+bip_39_word_new_br11: decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term<br>doll<br>lunch
+bip_39_word_new_br2: decide<br>buddy
+bip_39_word_new_br3: decide<br>buddy<br>comfort
+bip_39_word_new_br4: decide<br>buddy<br>comfort<br>palm
+bip_39_word_new_br5: decide<br>buddy<br>comfort<br>palm<br>uphold
+bip_39_word_new_br6: decide<br>buddy<br>comfort<br>palm<br>uphold<br>way
+bip_39_word_new_br7: decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december
+bip_39_word_new_br8: decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate
+bip_39_word_new_br9: decide<br>buddy<br>comfort<br>palm<br>uphold<br>way<br>december<br>estate<br>term
+bip_39_word_new_line1: decide
+bip_39_word_new_line10: 'decide
+
+  buddy
+
+  comfort
+
+  palm
+
+  uphold
+
+  way
+
+  december
+
+  estate
+
+  term
+
+  doll'
+bip_39_word_new_line11: 'decide
+
+  buddy
+
+  comfort
+
+  palm
+
+  uphold
+
+  way
+
+  december
+
+  estate
+
+  term
+
+  doll
+
+  lunch'
+bip_39_word_new_line2: 'decide
+
+  buddy'
+bip_39_word_new_line3: 'decide
+
+  buddy
+
+  comfort'
+bip_39_word_new_line4: 'decide
+
+  buddy
+
+  comfort
+
+  palm'
+bip_39_word_new_line5: 'decide
+
+  buddy
+
+  comfort
+
+  palm
+
+  uphold'
+bip_39_word_new_line6: 'decide
+
+  buddy
+
+  comfort
+
+  palm
+
+  uphold
+
+  way'
+bip_39_word_new_line7: 'decide
+
+  buddy
+
+  comfort
+
+  palm
+
+  uphold
+
+  way
+
+  december'
+bip_39_word_new_line8: 'decide
+
+  buddy
+
+  comfort
+
+  palm
+
+  uphold
+
+  way
+
+  december
+
+  estate'
+bip_39_word_new_line9: 'decide
+
+  buddy
+
+  comfort
+
+  palm
+
+  uphold
+
+  way
+
+  december
+
+  estate
+
+  term'
+bip_39_word_space_0:
+- decide
+- buddy
+- comfort
+- palm
+- uphold
+- way
+- december
+- estate
+- term
+- doll
+- lunch
+bip_39_word_space_1: decide
+bip_39_word_space_10: decide buddy comfort palm uphold way december estate term doll
+bip_39_word_space_11: decide buddy comfort palm uphold way december estate term doll
+  lunch
+bip_39_word_space_2: decide buddy
+bip_39_word_space_3: decide buddy comfort
+bip_39_word_space_4: decide buddy comfort palm
+bip_39_word_space_5: decide buddy comfort palm uphold
+bip_39_word_space_6: decide buddy comfort palm uphold way
+bip_39_word_space_7: decide buddy comfort palm uphold way december
+bip_39_word_space_8: decide buddy comfort palm uphold way december estate
+bip_39_word_space_9: decide buddy comfort palm uphold way december estate term
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

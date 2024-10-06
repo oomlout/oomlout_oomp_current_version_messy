@@ -19,6 +19,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 810_mm_width_890_mm_height_470_mm_depth
   * manufacturer: ikea
   * part_number: 005_292_42
+  * bip 39 word 2: virus victory
+  * bip 39 word 3: virus victory fruit
+  * bip 39 word: virus victory fruit off boring rebuild wisdom extend report physical street asset
 
 ### other_codes
 * short_code: 
@@ -30,6 +33,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | virus |  
+| bip_39_word_new_br10 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical |  
+| bip_39_word_new_br11 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical<br>street |  
+| bip_39_word_new_br12 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report<br>physical<br>street<br>asset |  
+| bip_39_word_new_br2 | virus<br>victory |  
+| bip_39_word_new_br3 | virus<br>victory<br>fruit |  
+| bip_39_word_new_br4 | virus<br>victory<br>fruit<br>off |  
+| bip_39_word_new_br5 | virus<br>victory<br>fruit<br>off<br>boring |  
+| bip_39_word_new_br6 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild |  
+| bip_39_word_new_br7 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom |  
+| bip_39_word_new_br8 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend |  
+| bip_39_word_new_br9 | virus<br>victory<br>fruit<br>off<br>boring<br>rebuild<br>wisdom<br>extend<br>report |  
+| bip_39_word_new_line1 | virus |  
+| bip_39_word_new_line10 | virus
+victory
+fruit
+off
+boring
+rebuild
+wisdom
+extend
+report
+physical |  
+| bip_39_word_new_line11 | virus
+victory
+fruit
+off
+boring
+rebuild
+wisdom
+extend
+report
+physical
+street |  
+| bip_39_word_new_line12 | virus
+victory
+fruit
+off
+boring
+rebuild
+wisdom
+extend
+report
+physical
+street
+asset |  
+| bip_39_word_new_line2 | virus
+victory |  
+| bip_39_word_new_line3 | virus
+victory
+fruit |  
+| bip_39_word_new_line4 | virus
+victory
+fruit
+off |  
+| bip_39_word_new_line5 | virus
+victory
+fruit
+off
+boring |  
+| bip_39_word_new_line6 | virus
+victory
+fruit
+off
+boring
+rebuild |  
+| bip_39_word_new_line7 | virus
+victory
+fruit
+off
+boring
+rebuild
+wisdom |  
+| bip_39_word_new_line8 | virus
+victory
+fruit
+off
+boring
+rebuild
+wisdom
+extend |  
+| bip_39_word_new_line9 | virus
+victory
+fruit
+off
+boring
+rebuild
+wisdom
+extend
+report |  
+| bip_39_word_space_0 | ['virus', 'victory', 'fruit', 'off', 'boring', 'rebuild', 'wisdom', 'extend', 'report', 'physical', 'street', 'asset'] |  
+| bip_39_word_space_1 | virus |  
+| bip_39_word_space_10 | virus victory fruit off boring rebuild wisdom extend report physical |  
+| bip_39_word_space_11 | virus victory fruit off boring rebuild wisdom extend report physical street |  
+| bip_39_word_space_12 | virus victory fruit off boring rebuild wisdom extend report physical street asset |  
+| bip_39_word_space_2 | virus victory |  
+| bip_39_word_space_3 | virus victory fruit |  
+| bip_39_word_space_4 | virus victory fruit off |  
+| bip_39_word_space_5 | virus victory fruit off boring |  
+| bip_39_word_space_6 | virus victory fruit off boring rebuild |  
+| bip_39_word_space_7 | virus victory fruit off boring rebuild wisdom |  
+| bip_39_word_space_8 | virus victory fruit off boring rebuild wisdom extend |  
+| bip_39_word_space_9 | virus victory fruit off boring rebuild wisdom extend report |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

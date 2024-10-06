@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: winner link
+  * bip 39 word 3: winner link language
+  * bip 39 word: winner link language wait expose attend office antique donkey pepper script action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | winner |  
+| bip_39_word_new_br10 | winner<br>link<br>language<br>wait<br>expose<br>attend<br>office<br>antique<br>donkey<br>pepper |  
+| bip_39_word_new_br11 | winner<br>link<br>language<br>wait<br>expose<br>attend<br>office<br>antique<br>donkey<br>pepper<br>script |  
+| bip_39_word_new_br12 | winner<br>link<br>language<br>wait<br>expose<br>attend<br>office<br>antique<br>donkey<br>pepper<br>script<br>action |  
+| bip_39_word_new_br2 | winner<br>link |  
+| bip_39_word_new_br3 | winner<br>link<br>language |  
+| bip_39_word_new_br4 | winner<br>link<br>language<br>wait |  
+| bip_39_word_new_br5 | winner<br>link<br>language<br>wait<br>expose |  
+| bip_39_word_new_br6 | winner<br>link<br>language<br>wait<br>expose<br>attend |  
+| bip_39_word_new_br7 | winner<br>link<br>language<br>wait<br>expose<br>attend<br>office |  
+| bip_39_word_new_br8 | winner<br>link<br>language<br>wait<br>expose<br>attend<br>office<br>antique |  
+| bip_39_word_new_br9 | winner<br>link<br>language<br>wait<br>expose<br>attend<br>office<br>antique<br>donkey |  
+| bip_39_word_new_line1 | winner |  
+| bip_39_word_new_line10 | winner
+link
+language
+wait
+expose
+attend
+office
+antique
+donkey
+pepper |  
+| bip_39_word_new_line11 | winner
+link
+language
+wait
+expose
+attend
+office
+antique
+donkey
+pepper
+script |  
+| bip_39_word_new_line12 | winner
+link
+language
+wait
+expose
+attend
+office
+antique
+donkey
+pepper
+script
+action |  
+| bip_39_word_new_line2 | winner
+link |  
+| bip_39_word_new_line3 | winner
+link
+language |  
+| bip_39_word_new_line4 | winner
+link
+language
+wait |  
+| bip_39_word_new_line5 | winner
+link
+language
+wait
+expose |  
+| bip_39_word_new_line6 | winner
+link
+language
+wait
+expose
+attend |  
+| bip_39_word_new_line7 | winner
+link
+language
+wait
+expose
+attend
+office |  
+| bip_39_word_new_line8 | winner
+link
+language
+wait
+expose
+attend
+office
+antique |  
+| bip_39_word_new_line9 | winner
+link
+language
+wait
+expose
+attend
+office
+antique
+donkey |  
+| bip_39_word_space_0 | ['winner', 'link', 'language', 'wait', 'expose', 'attend', 'office', 'antique', 'donkey', 'pepper', 'script', 'action'] |  
+| bip_39_word_space_1 | winner |  
+| bip_39_word_space_10 | winner link language wait expose attend office antique donkey pepper |  
+| bip_39_word_space_11 | winner link language wait expose attend office antique donkey pepper script |  
+| bip_39_word_space_12 | winner link language wait expose attend office antique donkey pepper script action |  
+| bip_39_word_space_2 | winner link |  
+| bip_39_word_space_3 | winner link language |  
+| bip_39_word_space_4 | winner link language wait |  
+| bip_39_word_space_5 | winner link language wait expose |  
+| bip_39_word_space_6 | winner link language wait expose attend |  
+| bip_39_word_space_7 | winner link language wait expose attend office |  
+| bip_39_word_space_8 | winner link language wait expose attend office antique |  
+| bip_39_word_space_9 | winner link language wait expose attend office antique donkey |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

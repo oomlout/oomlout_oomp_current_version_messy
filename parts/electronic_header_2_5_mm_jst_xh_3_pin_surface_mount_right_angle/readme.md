@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stick before
+  * bip 39 word 3: stick before three
+  * bip 39 word: stick before three subject grid ahead melody fitness tone column adapt annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stick |  
+| bip_39_word_new_br10 | stick<br>before<br>three<br>subject<br>grid<br>ahead<br>melody<br>fitness<br>tone<br>column |  
+| bip_39_word_new_br11 | stick<br>before<br>three<br>subject<br>grid<br>ahead<br>melody<br>fitness<br>tone<br>column<br>adapt |  
+| bip_39_word_new_br12 | stick<br>before<br>three<br>subject<br>grid<br>ahead<br>melody<br>fitness<br>tone<br>column<br>adapt<br>annual |  
+| bip_39_word_new_br2 | stick<br>before |  
+| bip_39_word_new_br3 | stick<br>before<br>three |  
+| bip_39_word_new_br4 | stick<br>before<br>three<br>subject |  
+| bip_39_word_new_br5 | stick<br>before<br>three<br>subject<br>grid |  
+| bip_39_word_new_br6 | stick<br>before<br>three<br>subject<br>grid<br>ahead |  
+| bip_39_word_new_br7 | stick<br>before<br>three<br>subject<br>grid<br>ahead<br>melody |  
+| bip_39_word_new_br8 | stick<br>before<br>three<br>subject<br>grid<br>ahead<br>melody<br>fitness |  
+| bip_39_word_new_br9 | stick<br>before<br>three<br>subject<br>grid<br>ahead<br>melody<br>fitness<br>tone |  
+| bip_39_word_new_line1 | stick |  
+| bip_39_word_new_line10 | stick
+before
+three
+subject
+grid
+ahead
+melody
+fitness
+tone
+column |  
+| bip_39_word_new_line11 | stick
+before
+three
+subject
+grid
+ahead
+melody
+fitness
+tone
+column
+adapt |  
+| bip_39_word_new_line12 | stick
+before
+three
+subject
+grid
+ahead
+melody
+fitness
+tone
+column
+adapt
+annual |  
+| bip_39_word_new_line2 | stick
+before |  
+| bip_39_word_new_line3 | stick
+before
+three |  
+| bip_39_word_new_line4 | stick
+before
+three
+subject |  
+| bip_39_word_new_line5 | stick
+before
+three
+subject
+grid |  
+| bip_39_word_new_line6 | stick
+before
+three
+subject
+grid
+ahead |  
+| bip_39_word_new_line7 | stick
+before
+three
+subject
+grid
+ahead
+melody |  
+| bip_39_word_new_line8 | stick
+before
+three
+subject
+grid
+ahead
+melody
+fitness |  
+| bip_39_word_new_line9 | stick
+before
+three
+subject
+grid
+ahead
+melody
+fitness
+tone |  
+| bip_39_word_space_0 | ['stick', 'before', 'three', 'subject', 'grid', 'ahead', 'melody', 'fitness', 'tone', 'column', 'adapt', 'annual'] |  
+| bip_39_word_space_1 | stick |  
+| bip_39_word_space_10 | stick before three subject grid ahead melody fitness tone column |  
+| bip_39_word_space_11 | stick before three subject grid ahead melody fitness tone column adapt |  
+| bip_39_word_space_12 | stick before three subject grid ahead melody fitness tone column adapt annual |  
+| bip_39_word_space_2 | stick before |  
+| bip_39_word_space_3 | stick before three |  
+| bip_39_word_space_4 | stick before three subject |  
+| bip_39_word_space_5 | stick before three subject grid |  
+| bip_39_word_space_6 | stick before three subject grid ahead |  
+| bip_39_word_space_7 | stick before three subject grid ahead melody |  
+| bip_39_word_space_8 | stick before three subject grid ahead melody fitness |  
+| bip_39_word_space_9 | stick before three subject grid ahead melody fitness tone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

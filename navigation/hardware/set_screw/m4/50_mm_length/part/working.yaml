@@ -1,3 +1,186 @@
+bip_39_word_new_br1: diesel
+bip_39_word_new_br10: diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt<br>utility<br>crisp<br>lemon<br>float
+bip_39_word_new_br11: diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt<br>utility<br>crisp<br>lemon<br>float<br>can
+bip_39_word_new_br12: diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt<br>utility<br>crisp<br>lemon<br>float<br>can<br>achieve
+bip_39_word_new_br2: diesel<br>bulb
+bip_39_word_new_br3: diesel<br>bulb<br>ahead
+bip_39_word_new_br4: diesel<br>bulb<br>ahead<br>jelly
+bip_39_word_new_br5: diesel<br>bulb<br>ahead<br>jelly<br>chronic
+bip_39_word_new_br6: diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt
+bip_39_word_new_br7: diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt<br>utility
+bip_39_word_new_br8: diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt<br>utility<br>crisp
+bip_39_word_new_br9: diesel<br>bulb<br>ahead<br>jelly<br>chronic<br>hunt<br>utility<br>crisp<br>lemon
+bip_39_word_new_line1: diesel
+bip_39_word_new_line10: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly
+
+  chronic
+
+  hunt
+
+  utility
+
+  crisp
+
+  lemon
+
+  float'
+bip_39_word_new_line11: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly
+
+  chronic
+
+  hunt
+
+  utility
+
+  crisp
+
+  lemon
+
+  float
+
+  can'
+bip_39_word_new_line12: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly
+
+  chronic
+
+  hunt
+
+  utility
+
+  crisp
+
+  lemon
+
+  float
+
+  can
+
+  achieve'
+bip_39_word_new_line2: 'diesel
+
+  bulb'
+bip_39_word_new_line3: 'diesel
+
+  bulb
+
+  ahead'
+bip_39_word_new_line4: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly'
+bip_39_word_new_line5: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly
+
+  chronic'
+bip_39_word_new_line6: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly
+
+  chronic
+
+  hunt'
+bip_39_word_new_line7: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly
+
+  chronic
+
+  hunt
+
+  utility'
+bip_39_word_new_line8: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly
+
+  chronic
+
+  hunt
+
+  utility
+
+  crisp'
+bip_39_word_new_line9: 'diesel
+
+  bulb
+
+  ahead
+
+  jelly
+
+  chronic
+
+  hunt
+
+  utility
+
+  crisp
+
+  lemon'
+bip_39_word_space_0:
+- diesel
+- bulb
+- ahead
+- jelly
+- chronic
+- hunt
+- utility
+- crisp
+- lemon
+- float
+- can
+- achieve
+bip_39_word_space_1: diesel
+bip_39_word_space_10: diesel bulb ahead jelly chronic hunt utility crisp lemon float
+bip_39_word_space_11: diesel bulb ahead jelly chronic hunt utility crisp lemon float
+  can
+bip_39_word_space_12: diesel bulb ahead jelly chronic hunt utility crisp lemon float
+  can achieve
+bip_39_word_space_2: diesel bulb
+bip_39_word_space_3: diesel bulb ahead
+bip_39_word_space_4: diesel bulb ahead jelly
+bip_39_word_space_5: diesel bulb ahead jelly chronic
+bip_39_word_space_6: diesel bulb ahead jelly chronic hunt
+bip_39_word_space_7: diesel bulb ahead jelly chronic hunt utility
+bip_39_word_space_8: diesel bulb ahead jelly chronic hunt utility crisp
+bip_39_word_space_9: diesel bulb ahead jelly chronic hunt utility crisp lemon
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

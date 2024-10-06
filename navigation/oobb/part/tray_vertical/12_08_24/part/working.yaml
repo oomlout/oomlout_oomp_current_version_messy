@@ -1,3 +1,186 @@
+bip_39_word_new_br1: credit
+bip_39_word_new_br10: credit<br>sick<br>garage<br>eternal<br>sauce<br>vessel<br>taxi<br>range<br>nasty<br>badge
+bip_39_word_new_br11: credit<br>sick<br>garage<br>eternal<br>sauce<br>vessel<br>taxi<br>range<br>nasty<br>badge<br>welcome
+bip_39_word_new_br12: credit<br>sick<br>garage<br>eternal<br>sauce<br>vessel<br>taxi<br>range<br>nasty<br>badge<br>welcome<br>attack
+bip_39_word_new_br2: credit<br>sick
+bip_39_word_new_br3: credit<br>sick<br>garage
+bip_39_word_new_br4: credit<br>sick<br>garage<br>eternal
+bip_39_word_new_br5: credit<br>sick<br>garage<br>eternal<br>sauce
+bip_39_word_new_br6: credit<br>sick<br>garage<br>eternal<br>sauce<br>vessel
+bip_39_word_new_br7: credit<br>sick<br>garage<br>eternal<br>sauce<br>vessel<br>taxi
+bip_39_word_new_br8: credit<br>sick<br>garage<br>eternal<br>sauce<br>vessel<br>taxi<br>range
+bip_39_word_new_br9: credit<br>sick<br>garage<br>eternal<br>sauce<br>vessel<br>taxi<br>range<br>nasty
+bip_39_word_new_line1: credit
+bip_39_word_new_line10: 'credit
+
+  sick
+
+  garage
+
+  eternal
+
+  sauce
+
+  vessel
+
+  taxi
+
+  range
+
+  nasty
+
+  badge'
+bip_39_word_new_line11: 'credit
+
+  sick
+
+  garage
+
+  eternal
+
+  sauce
+
+  vessel
+
+  taxi
+
+  range
+
+  nasty
+
+  badge
+
+  welcome'
+bip_39_word_new_line12: 'credit
+
+  sick
+
+  garage
+
+  eternal
+
+  sauce
+
+  vessel
+
+  taxi
+
+  range
+
+  nasty
+
+  badge
+
+  welcome
+
+  attack'
+bip_39_word_new_line2: 'credit
+
+  sick'
+bip_39_word_new_line3: 'credit
+
+  sick
+
+  garage'
+bip_39_word_new_line4: 'credit
+
+  sick
+
+  garage
+
+  eternal'
+bip_39_word_new_line5: 'credit
+
+  sick
+
+  garage
+
+  eternal
+
+  sauce'
+bip_39_word_new_line6: 'credit
+
+  sick
+
+  garage
+
+  eternal
+
+  sauce
+
+  vessel'
+bip_39_word_new_line7: 'credit
+
+  sick
+
+  garage
+
+  eternal
+
+  sauce
+
+  vessel
+
+  taxi'
+bip_39_word_new_line8: 'credit
+
+  sick
+
+  garage
+
+  eternal
+
+  sauce
+
+  vessel
+
+  taxi
+
+  range'
+bip_39_word_new_line9: 'credit
+
+  sick
+
+  garage
+
+  eternal
+
+  sauce
+
+  vessel
+
+  taxi
+
+  range
+
+  nasty'
+bip_39_word_space_0:
+- credit
+- sick
+- garage
+- eternal
+- sauce
+- vessel
+- taxi
+- range
+- nasty
+- badge
+- welcome
+- attack
+bip_39_word_space_1: credit
+bip_39_word_space_10: credit sick garage eternal sauce vessel taxi range nasty badge
+bip_39_word_space_11: credit sick garage eternal sauce vessel taxi range nasty badge
+  welcome
+bip_39_word_space_12: credit sick garage eternal sauce vessel taxi range nasty badge
+  welcome attack
+bip_39_word_space_2: credit sick
+bip_39_word_space_3: credit sick garage
+bip_39_word_space_4: credit sick garage eternal
+bip_39_word_space_5: credit sick garage eternal sauce
+bip_39_word_space_6: credit sick garage eternal sauce vessel
+bip_39_word_space_7: credit sick garage eternal sauce vessel taxi
+bip_39_word_space_8: credit sick garage eternal sauce vessel taxi range
+bip_39_word_space_9: credit sick garage eternal sauce vessel taxi range nasty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

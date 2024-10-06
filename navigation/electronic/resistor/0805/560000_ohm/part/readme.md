@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: breeze rural
+  * bip 39 word 3: breeze rural tongue
+  * bip 39 word: breeze rural tongue frost again stool member neglect dutch solid fan art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | breeze |  
+| bip_39_word_new_br10 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool<br>member<br>neglect<br>dutch<br>solid |  
+| bip_39_word_new_br11 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool<br>member<br>neglect<br>dutch<br>solid<br>fan |  
+| bip_39_word_new_br12 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool<br>member<br>neglect<br>dutch<br>solid<br>fan<br>art |  
+| bip_39_word_new_br2 | breeze<br>rural |  
+| bip_39_word_new_br3 | breeze<br>rural<br>tongue |  
+| bip_39_word_new_br4 | breeze<br>rural<br>tongue<br>frost |  
+| bip_39_word_new_br5 | breeze<br>rural<br>tongue<br>frost<br>again |  
+| bip_39_word_new_br6 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool |  
+| bip_39_word_new_br7 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool<br>member |  
+| bip_39_word_new_br8 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool<br>member<br>neglect |  
+| bip_39_word_new_br9 | breeze<br>rural<br>tongue<br>frost<br>again<br>stool<br>member<br>neglect<br>dutch |  
+| bip_39_word_new_line1 | breeze |  
+| bip_39_word_new_line10 | breeze
+rural
+tongue
+frost
+again
+stool
+member
+neglect
+dutch
+solid |  
+| bip_39_word_new_line11 | breeze
+rural
+tongue
+frost
+again
+stool
+member
+neglect
+dutch
+solid
+fan |  
+| bip_39_word_new_line12 | breeze
+rural
+tongue
+frost
+again
+stool
+member
+neglect
+dutch
+solid
+fan
+art |  
+| bip_39_word_new_line2 | breeze
+rural |  
+| bip_39_word_new_line3 | breeze
+rural
+tongue |  
+| bip_39_word_new_line4 | breeze
+rural
+tongue
+frost |  
+| bip_39_word_new_line5 | breeze
+rural
+tongue
+frost
+again |  
+| bip_39_word_new_line6 | breeze
+rural
+tongue
+frost
+again
+stool |  
+| bip_39_word_new_line7 | breeze
+rural
+tongue
+frost
+again
+stool
+member |  
+| bip_39_word_new_line8 | breeze
+rural
+tongue
+frost
+again
+stool
+member
+neglect |  
+| bip_39_word_new_line9 | breeze
+rural
+tongue
+frost
+again
+stool
+member
+neglect
+dutch |  
+| bip_39_word_space_0 | ['breeze', 'rural', 'tongue', 'frost', 'again', 'stool', 'member', 'neglect', 'dutch', 'solid', 'fan', 'art'] |  
+| bip_39_word_space_1 | breeze |  
+| bip_39_word_space_10 | breeze rural tongue frost again stool member neglect dutch solid |  
+| bip_39_word_space_11 | breeze rural tongue frost again stool member neglect dutch solid fan |  
+| bip_39_word_space_12 | breeze rural tongue frost again stool member neglect dutch solid fan art |  
+| bip_39_word_space_2 | breeze rural |  
+| bip_39_word_space_3 | breeze rural tongue |  
+| bip_39_word_space_4 | breeze rural tongue frost |  
+| bip_39_word_space_5 | breeze rural tongue frost again |  
+| bip_39_word_space_6 | breeze rural tongue frost again stool |  
+| bip_39_word_space_7 | breeze rural tongue frost again stool member |  
+| bip_39_word_space_8 | breeze rural tongue frost again stool member neglect |  
+| bip_39_word_space_9 | breeze rural tongue frost again stool member neglect dutch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

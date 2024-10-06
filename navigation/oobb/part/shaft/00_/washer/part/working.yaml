@@ -1,3 +1,186 @@
+bip_39_word_new_br1: walk
+bip_39_word_new_br10: walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man
+bip_39_word_new_br11: walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man<br>element
+bip_39_word_new_br12: walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu<br>man<br>element<br>athlete
+bip_39_word_new_br2: walk<br>stamp
+bip_39_word_new_br3: walk<br>stamp<br>camp
+bip_39_word_new_br4: walk<br>stamp<br>camp<br>enable
+bip_39_word_new_br5: walk<br>stamp<br>camp<br>enable<br>segment
+bip_39_word_new_br6: walk<br>stamp<br>camp<br>enable<br>segment<br>knock
+bip_39_word_new_br7: walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter
+bip_39_word_new_br8: walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster
+bip_39_word_new_br9: walk<br>stamp<br>camp<br>enable<br>segment<br>knock<br>daughter<br>lobster<br>menu
+bip_39_word_new_line1: walk
+bip_39_word_new_line10: 'walk
+
+  stamp
+
+  camp
+
+  enable
+
+  segment
+
+  knock
+
+  daughter
+
+  lobster
+
+  menu
+
+  man'
+bip_39_word_new_line11: 'walk
+
+  stamp
+
+  camp
+
+  enable
+
+  segment
+
+  knock
+
+  daughter
+
+  lobster
+
+  menu
+
+  man
+
+  element'
+bip_39_word_new_line12: 'walk
+
+  stamp
+
+  camp
+
+  enable
+
+  segment
+
+  knock
+
+  daughter
+
+  lobster
+
+  menu
+
+  man
+
+  element
+
+  athlete'
+bip_39_word_new_line2: 'walk
+
+  stamp'
+bip_39_word_new_line3: 'walk
+
+  stamp
+
+  camp'
+bip_39_word_new_line4: 'walk
+
+  stamp
+
+  camp
+
+  enable'
+bip_39_word_new_line5: 'walk
+
+  stamp
+
+  camp
+
+  enable
+
+  segment'
+bip_39_word_new_line6: 'walk
+
+  stamp
+
+  camp
+
+  enable
+
+  segment
+
+  knock'
+bip_39_word_new_line7: 'walk
+
+  stamp
+
+  camp
+
+  enable
+
+  segment
+
+  knock
+
+  daughter'
+bip_39_word_new_line8: 'walk
+
+  stamp
+
+  camp
+
+  enable
+
+  segment
+
+  knock
+
+  daughter
+
+  lobster'
+bip_39_word_new_line9: 'walk
+
+  stamp
+
+  camp
+
+  enable
+
+  segment
+
+  knock
+
+  daughter
+
+  lobster
+
+  menu'
+bip_39_word_space_0:
+- walk
+- stamp
+- camp
+- enable
+- segment
+- knock
+- daughter
+- lobster
+- menu
+- man
+- element
+- athlete
+bip_39_word_space_1: walk
+bip_39_word_space_10: walk stamp camp enable segment knock daughter lobster menu man
+bip_39_word_space_11: walk stamp camp enable segment knock daughter lobster menu man
+  element
+bip_39_word_space_12: walk stamp camp enable segment knock daughter lobster menu man
+  element athlete
+bip_39_word_space_2: walk stamp
+bip_39_word_space_3: walk stamp camp
+bip_39_word_space_4: walk stamp camp enable
+bip_39_word_space_5: walk stamp camp enable segment
+bip_39_word_space_6: walk stamp camp enable segment knock
+bip_39_word_space_7: walk stamp camp enable segment knock daughter
+bip_39_word_space_8: walk stamp camp enable segment knock daughter lobster
+bip_39_word_space_9: walk stamp camp enable segment knock daughter lobster menu
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

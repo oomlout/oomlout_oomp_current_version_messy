@@ -1,3 +1,185 @@
+bip_39_word_new_br1: symbol
+bip_39_word_new_br10: symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail
+bip_39_word_new_br11: symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail<br>faint
+bip_39_word_new_br12: symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden<br>sail<br>faint<br>absurd
+bip_39_word_new_br2: symbol<br>ten
+bip_39_word_new_br3: symbol<br>ten<br>law
+bip_39_word_new_br4: symbol<br>ten<br>law<br>work
+bip_39_word_new_br5: symbol<br>ten<br>law<br>work<br>vague
+bip_39_word_new_br6: symbol<br>ten<br>law<br>work<br>vague<br>right
+bip_39_word_new_br7: symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith
+bip_39_word_new_br8: symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good
+bip_39_word_new_br9: symbol<br>ten<br>law<br>work<br>vague<br>right<br>faith<br>good<br>sudden
+bip_39_word_new_line1: symbol
+bip_39_word_new_line10: 'symbol
+
+  ten
+
+  law
+
+  work
+
+  vague
+
+  right
+
+  faith
+
+  good
+
+  sudden
+
+  sail'
+bip_39_word_new_line11: 'symbol
+
+  ten
+
+  law
+
+  work
+
+  vague
+
+  right
+
+  faith
+
+  good
+
+  sudden
+
+  sail
+
+  faint'
+bip_39_word_new_line12: 'symbol
+
+  ten
+
+  law
+
+  work
+
+  vague
+
+  right
+
+  faith
+
+  good
+
+  sudden
+
+  sail
+
+  faint
+
+  absurd'
+bip_39_word_new_line2: 'symbol
+
+  ten'
+bip_39_word_new_line3: 'symbol
+
+  ten
+
+  law'
+bip_39_word_new_line4: 'symbol
+
+  ten
+
+  law
+
+  work'
+bip_39_word_new_line5: 'symbol
+
+  ten
+
+  law
+
+  work
+
+  vague'
+bip_39_word_new_line6: 'symbol
+
+  ten
+
+  law
+
+  work
+
+  vague
+
+  right'
+bip_39_word_new_line7: 'symbol
+
+  ten
+
+  law
+
+  work
+
+  vague
+
+  right
+
+  faith'
+bip_39_word_new_line8: 'symbol
+
+  ten
+
+  law
+
+  work
+
+  vague
+
+  right
+
+  faith
+
+  good'
+bip_39_word_new_line9: 'symbol
+
+  ten
+
+  law
+
+  work
+
+  vague
+
+  right
+
+  faith
+
+  good
+
+  sudden'
+bip_39_word_space_0:
+- symbol
+- ten
+- law
+- work
+- vague
+- right
+- faith
+- good
+- sudden
+- sail
+- faint
+- absurd
+bip_39_word_space_1: symbol
+bip_39_word_space_10: symbol ten law work vague right faith good sudden sail
+bip_39_word_space_11: symbol ten law work vague right faith good sudden sail faint
+bip_39_word_space_12: symbol ten law work vague right faith good sudden sail faint
+  absurd
+bip_39_word_space_2: symbol ten
+bip_39_word_space_3: symbol ten law
+bip_39_word_space_4: symbol ten law work
+bip_39_word_space_5: symbol ten law work vague
+bip_39_word_space_6: symbol ten law work vague right
+bip_39_word_space_7: symbol ten law work vague right faith
+bip_39_word_space_8: symbol ten law work vague right faith good
+bip_39_word_space_9: symbol ten law work vague right faith good sudden
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

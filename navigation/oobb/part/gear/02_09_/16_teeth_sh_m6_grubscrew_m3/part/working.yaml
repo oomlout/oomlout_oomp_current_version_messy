@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mean
+bip_39_word_new_br10: mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese
+bip_39_word_new_br11: mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese<br>knee
+bip_39_word_new_br12: mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title<br>cheese<br>knee<br>agent
+bip_39_word_new_br2: mean<br>brave
+bip_39_word_new_br3: mean<br>brave<br>strong
+bip_39_word_new_br4: mean<br>brave<br>strong<br>segment
+bip_39_word_new_br5: mean<br>brave<br>strong<br>segment<br>obtain
+bip_39_word_new_br6: mean<br>brave<br>strong<br>segment<br>obtain<br>owner
+bip_39_word_new_br7: mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect
+bip_39_word_new_br8: mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need
+bip_39_word_new_br9: mean<br>brave<br>strong<br>segment<br>obtain<br>owner<br>perfect<br>need<br>title
+bip_39_word_new_line1: mean
+bip_39_word_new_line10: 'mean
+
+  brave
+
+  strong
+
+  segment
+
+  obtain
+
+  owner
+
+  perfect
+
+  need
+
+  title
+
+  cheese'
+bip_39_word_new_line11: 'mean
+
+  brave
+
+  strong
+
+  segment
+
+  obtain
+
+  owner
+
+  perfect
+
+  need
+
+  title
+
+  cheese
+
+  knee'
+bip_39_word_new_line12: 'mean
+
+  brave
+
+  strong
+
+  segment
+
+  obtain
+
+  owner
+
+  perfect
+
+  need
+
+  title
+
+  cheese
+
+  knee
+
+  agent'
+bip_39_word_new_line2: 'mean
+
+  brave'
+bip_39_word_new_line3: 'mean
+
+  brave
+
+  strong'
+bip_39_word_new_line4: 'mean
+
+  brave
+
+  strong
+
+  segment'
+bip_39_word_new_line5: 'mean
+
+  brave
+
+  strong
+
+  segment
+
+  obtain'
+bip_39_word_new_line6: 'mean
+
+  brave
+
+  strong
+
+  segment
+
+  obtain
+
+  owner'
+bip_39_word_new_line7: 'mean
+
+  brave
+
+  strong
+
+  segment
+
+  obtain
+
+  owner
+
+  perfect'
+bip_39_word_new_line8: 'mean
+
+  brave
+
+  strong
+
+  segment
+
+  obtain
+
+  owner
+
+  perfect
+
+  need'
+bip_39_word_new_line9: 'mean
+
+  brave
+
+  strong
+
+  segment
+
+  obtain
+
+  owner
+
+  perfect
+
+  need
+
+  title'
+bip_39_word_space_0:
+- mean
+- brave
+- strong
+- segment
+- obtain
+- owner
+- perfect
+- need
+- title
+- cheese
+- knee
+- agent
+bip_39_word_space_1: mean
+bip_39_word_space_10: mean brave strong segment obtain owner perfect need title cheese
+bip_39_word_space_11: mean brave strong segment obtain owner perfect need title cheese
+  knee
+bip_39_word_space_12: mean brave strong segment obtain owner perfect need title cheese
+  knee agent
+bip_39_word_space_2: mean brave
+bip_39_word_space_3: mean brave strong
+bip_39_word_space_4: mean brave strong segment
+bip_39_word_space_5: mean brave strong segment obtain
+bip_39_word_space_6: mean brave strong segment obtain owner
+bip_39_word_space_7: mean brave strong segment obtain owner perfect
+bip_39_word_space_8: mean brave strong segment obtain owner perfect need
+bip_39_word_space_9: mean brave strong segment obtain owner perfect need title
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

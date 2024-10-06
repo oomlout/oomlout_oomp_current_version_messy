@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: correct north
+  * bip 39 word 3: correct north rare
+  * bip 39 word: correct north rare success pride bulb patrol pond pen kid zoo arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | correct |  
+| bip_39_word_new_br10 | correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen<br>kid |  
+| bip_39_word_new_br11 | correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen<br>kid<br>zoo |  
+| bip_39_word_new_br12 | correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen<br>kid<br>zoo<br>arena |  
+| bip_39_word_new_br2 | correct<br>north |  
+| bip_39_word_new_br3 | correct<br>north<br>rare |  
+| bip_39_word_new_br4 | correct<br>north<br>rare<br>success |  
+| bip_39_word_new_br5 | correct<br>north<br>rare<br>success<br>pride |  
+| bip_39_word_new_br6 | correct<br>north<br>rare<br>success<br>pride<br>bulb |  
+| bip_39_word_new_br7 | correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol |  
+| bip_39_word_new_br8 | correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond |  
+| bip_39_word_new_br9 | correct<br>north<br>rare<br>success<br>pride<br>bulb<br>patrol<br>pond<br>pen |  
+| bip_39_word_new_line1 | correct |  
+| bip_39_word_new_line10 | correct
+north
+rare
+success
+pride
+bulb
+patrol
+pond
+pen
+kid |  
+| bip_39_word_new_line11 | correct
+north
+rare
+success
+pride
+bulb
+patrol
+pond
+pen
+kid
+zoo |  
+| bip_39_word_new_line12 | correct
+north
+rare
+success
+pride
+bulb
+patrol
+pond
+pen
+kid
+zoo
+arena |  
+| bip_39_word_new_line2 | correct
+north |  
+| bip_39_word_new_line3 | correct
+north
+rare |  
+| bip_39_word_new_line4 | correct
+north
+rare
+success |  
+| bip_39_word_new_line5 | correct
+north
+rare
+success
+pride |  
+| bip_39_word_new_line6 | correct
+north
+rare
+success
+pride
+bulb |  
+| bip_39_word_new_line7 | correct
+north
+rare
+success
+pride
+bulb
+patrol |  
+| bip_39_word_new_line8 | correct
+north
+rare
+success
+pride
+bulb
+patrol
+pond |  
+| bip_39_word_new_line9 | correct
+north
+rare
+success
+pride
+bulb
+patrol
+pond
+pen |  
+| bip_39_word_space_0 | ['correct', 'north', 'rare', 'success', 'pride', 'bulb', 'patrol', 'pond', 'pen', 'kid', 'zoo', 'arena'] |  
+| bip_39_word_space_1 | correct |  
+| bip_39_word_space_10 | correct north rare success pride bulb patrol pond pen kid |  
+| bip_39_word_space_11 | correct north rare success pride bulb patrol pond pen kid zoo |  
+| bip_39_word_space_12 | correct north rare success pride bulb patrol pond pen kid zoo arena |  
+| bip_39_word_space_2 | correct north |  
+| bip_39_word_space_3 | correct north rare |  
+| bip_39_word_space_4 | correct north rare success |  
+| bip_39_word_space_5 | correct north rare success pride |  
+| bip_39_word_space_6 | correct north rare success pride bulb |  
+| bip_39_word_space_7 | correct north rare success pride bulb patrol |  
+| bip_39_word_space_8 | correct north rare success pride bulb patrol pond |  
+| bip_39_word_space_9 | correct north rare success pride bulb patrol pond pen |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

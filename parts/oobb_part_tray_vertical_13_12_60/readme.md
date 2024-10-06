@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: detect gadget
+  * bip 39 word 3: detect gadget tomorrow
+  * bip 39 word: detect gadget tomorrow coin hospital provide rival argue hollow popular giraffe again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | detect |  
+| bip_39_word_new_br10 | detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide<br>rival<br>argue<br>hollow<br>popular |  
+| bip_39_word_new_br11 | detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide<br>rival<br>argue<br>hollow<br>popular<br>giraffe |  
+| bip_39_word_new_br12 | detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide<br>rival<br>argue<br>hollow<br>popular<br>giraffe<br>again |  
+| bip_39_word_new_br2 | detect<br>gadget |  
+| bip_39_word_new_br3 | detect<br>gadget<br>tomorrow |  
+| bip_39_word_new_br4 | detect<br>gadget<br>tomorrow<br>coin |  
+| bip_39_word_new_br5 | detect<br>gadget<br>tomorrow<br>coin<br>hospital |  
+| bip_39_word_new_br6 | detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide |  
+| bip_39_word_new_br7 | detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide<br>rival |  
+| bip_39_word_new_br8 | detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide<br>rival<br>argue |  
+| bip_39_word_new_br9 | detect<br>gadget<br>tomorrow<br>coin<br>hospital<br>provide<br>rival<br>argue<br>hollow |  
+| bip_39_word_new_line1 | detect |  
+| bip_39_word_new_line10 | detect
+gadget
+tomorrow
+coin
+hospital
+provide
+rival
+argue
+hollow
+popular |  
+| bip_39_word_new_line11 | detect
+gadget
+tomorrow
+coin
+hospital
+provide
+rival
+argue
+hollow
+popular
+giraffe |  
+| bip_39_word_new_line12 | detect
+gadget
+tomorrow
+coin
+hospital
+provide
+rival
+argue
+hollow
+popular
+giraffe
+again |  
+| bip_39_word_new_line2 | detect
+gadget |  
+| bip_39_word_new_line3 | detect
+gadget
+tomorrow |  
+| bip_39_word_new_line4 | detect
+gadget
+tomorrow
+coin |  
+| bip_39_word_new_line5 | detect
+gadget
+tomorrow
+coin
+hospital |  
+| bip_39_word_new_line6 | detect
+gadget
+tomorrow
+coin
+hospital
+provide |  
+| bip_39_word_new_line7 | detect
+gadget
+tomorrow
+coin
+hospital
+provide
+rival |  
+| bip_39_word_new_line8 | detect
+gadget
+tomorrow
+coin
+hospital
+provide
+rival
+argue |  
+| bip_39_word_new_line9 | detect
+gadget
+tomorrow
+coin
+hospital
+provide
+rival
+argue
+hollow |  
+| bip_39_word_space_0 | ['detect', 'gadget', 'tomorrow', 'coin', 'hospital', 'provide', 'rival', 'argue', 'hollow', 'popular', 'giraffe', 'again'] |  
+| bip_39_word_space_1 | detect |  
+| bip_39_word_space_10 | detect gadget tomorrow coin hospital provide rival argue hollow popular |  
+| bip_39_word_space_11 | detect gadget tomorrow coin hospital provide rival argue hollow popular giraffe |  
+| bip_39_word_space_12 | detect gadget tomorrow coin hospital provide rival argue hollow popular giraffe again |  
+| bip_39_word_space_2 | detect gadget |  
+| bip_39_word_space_3 | detect gadget tomorrow |  
+| bip_39_word_space_4 | detect gadget tomorrow coin |  
+| bip_39_word_space_5 | detect gadget tomorrow coin hospital |  
+| bip_39_word_space_6 | detect gadget tomorrow coin hospital provide |  
+| bip_39_word_space_7 | detect gadget tomorrow coin hospital provide rival |  
+| bip_39_word_space_8 | detect gadget tomorrow coin hospital provide rival argue |  
+| bip_39_word_space_9 | detect gadget tomorrow coin hospital provide rival argue hollow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skin casual
+  * bip 39 word 3: skin casual length
+  * bip 39 word: skin casual length remove math stereo script hover shell explain average arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skin |  
+| bip_39_word_new_br10 | skin<br>casual<br>length<br>remove<br>math<br>stereo<br>script<br>hover<br>shell<br>explain |  
+| bip_39_word_new_br11 | skin<br>casual<br>length<br>remove<br>math<br>stereo<br>script<br>hover<br>shell<br>explain<br>average |  
+| bip_39_word_new_br12 | skin<br>casual<br>length<br>remove<br>math<br>stereo<br>script<br>hover<br>shell<br>explain<br>average<br>arrange |  
+| bip_39_word_new_br2 | skin<br>casual |  
+| bip_39_word_new_br3 | skin<br>casual<br>length |  
+| bip_39_word_new_br4 | skin<br>casual<br>length<br>remove |  
+| bip_39_word_new_br5 | skin<br>casual<br>length<br>remove<br>math |  
+| bip_39_word_new_br6 | skin<br>casual<br>length<br>remove<br>math<br>stereo |  
+| bip_39_word_new_br7 | skin<br>casual<br>length<br>remove<br>math<br>stereo<br>script |  
+| bip_39_word_new_br8 | skin<br>casual<br>length<br>remove<br>math<br>stereo<br>script<br>hover |  
+| bip_39_word_new_br9 | skin<br>casual<br>length<br>remove<br>math<br>stereo<br>script<br>hover<br>shell |  
+| bip_39_word_new_line1 | skin |  
+| bip_39_word_new_line10 | skin
+casual
+length
+remove
+math
+stereo
+script
+hover
+shell
+explain |  
+| bip_39_word_new_line11 | skin
+casual
+length
+remove
+math
+stereo
+script
+hover
+shell
+explain
+average |  
+| bip_39_word_new_line12 | skin
+casual
+length
+remove
+math
+stereo
+script
+hover
+shell
+explain
+average
+arrange |  
+| bip_39_word_new_line2 | skin
+casual |  
+| bip_39_word_new_line3 | skin
+casual
+length |  
+| bip_39_word_new_line4 | skin
+casual
+length
+remove |  
+| bip_39_word_new_line5 | skin
+casual
+length
+remove
+math |  
+| bip_39_word_new_line6 | skin
+casual
+length
+remove
+math
+stereo |  
+| bip_39_word_new_line7 | skin
+casual
+length
+remove
+math
+stereo
+script |  
+| bip_39_word_new_line8 | skin
+casual
+length
+remove
+math
+stereo
+script
+hover |  
+| bip_39_word_new_line9 | skin
+casual
+length
+remove
+math
+stereo
+script
+hover
+shell |  
+| bip_39_word_space_0 | ['skin', 'casual', 'length', 'remove', 'math', 'stereo', 'script', 'hover', 'shell', 'explain', 'average', 'arrange'] |  
+| bip_39_word_space_1 | skin |  
+| bip_39_word_space_10 | skin casual length remove math stereo script hover shell explain |  
+| bip_39_word_space_11 | skin casual length remove math stereo script hover shell explain average |  
+| bip_39_word_space_12 | skin casual length remove math stereo script hover shell explain average arrange |  
+| bip_39_word_space_2 | skin casual |  
+| bip_39_word_space_3 | skin casual length |  
+| bip_39_word_space_4 | skin casual length remove |  
+| bip_39_word_space_5 | skin casual length remove math |  
+| bip_39_word_space_6 | skin casual length remove math stereo |  
+| bip_39_word_space_7 | skin casual length remove math stereo script |  
+| bip_39_word_space_8 | skin casual length remove math stereo script hover |  
+| bip_39_word_space_9 | skin casual length remove math stereo script hover shell |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

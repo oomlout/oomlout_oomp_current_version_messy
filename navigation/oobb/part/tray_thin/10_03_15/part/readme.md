@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: print keep
+  * bip 39 word 3: print keep ivory
+  * bip 39 word: print keep ivory observe melody guilt bubble cash rapid peanut clog asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | print |  
+| bip_39_word_new_br10 | print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid<br>peanut |  
+| bip_39_word_new_br11 | print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid<br>peanut<br>clog |  
+| bip_39_word_new_br12 | print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid<br>peanut<br>clog<br>asthma |  
+| bip_39_word_new_br2 | print<br>keep |  
+| bip_39_word_new_br3 | print<br>keep<br>ivory |  
+| bip_39_word_new_br4 | print<br>keep<br>ivory<br>observe |  
+| bip_39_word_new_br5 | print<br>keep<br>ivory<br>observe<br>melody |  
+| bip_39_word_new_br6 | print<br>keep<br>ivory<br>observe<br>melody<br>guilt |  
+| bip_39_word_new_br7 | print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble |  
+| bip_39_word_new_br8 | print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash |  
+| bip_39_word_new_br9 | print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid |  
+| bip_39_word_new_line1 | print |  
+| bip_39_word_new_line10 | print
+keep
+ivory
+observe
+melody
+guilt
+bubble
+cash
+rapid
+peanut |  
+| bip_39_word_new_line11 | print
+keep
+ivory
+observe
+melody
+guilt
+bubble
+cash
+rapid
+peanut
+clog |  
+| bip_39_word_new_line12 | print
+keep
+ivory
+observe
+melody
+guilt
+bubble
+cash
+rapid
+peanut
+clog
+asthma |  
+| bip_39_word_new_line2 | print
+keep |  
+| bip_39_word_new_line3 | print
+keep
+ivory |  
+| bip_39_word_new_line4 | print
+keep
+ivory
+observe |  
+| bip_39_word_new_line5 | print
+keep
+ivory
+observe
+melody |  
+| bip_39_word_new_line6 | print
+keep
+ivory
+observe
+melody
+guilt |  
+| bip_39_word_new_line7 | print
+keep
+ivory
+observe
+melody
+guilt
+bubble |  
+| bip_39_word_new_line8 | print
+keep
+ivory
+observe
+melody
+guilt
+bubble
+cash |  
+| bip_39_word_new_line9 | print
+keep
+ivory
+observe
+melody
+guilt
+bubble
+cash
+rapid |  
+| bip_39_word_space_0 | ['print', 'keep', 'ivory', 'observe', 'melody', 'guilt', 'bubble', 'cash', 'rapid', 'peanut', 'clog', 'asthma'] |  
+| bip_39_word_space_1 | print |  
+| bip_39_word_space_10 | print keep ivory observe melody guilt bubble cash rapid peanut |  
+| bip_39_word_space_11 | print keep ivory observe melody guilt bubble cash rapid peanut clog |  
+| bip_39_word_space_12 | print keep ivory observe melody guilt bubble cash rapid peanut clog asthma |  
+| bip_39_word_space_2 | print keep |  
+| bip_39_word_space_3 | print keep ivory |  
+| bip_39_word_space_4 | print keep ivory observe |  
+| bip_39_word_space_5 | print keep ivory observe melody |  
+| bip_39_word_space_6 | print keep ivory observe melody guilt |  
+| bip_39_word_space_7 | print keep ivory observe melody guilt bubble |  
+| bip_39_word_space_8 | print keep ivory observe melody guilt bubble cash |  
+| bip_39_word_space_9 | print keep ivory observe melody guilt bubble cash rapid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

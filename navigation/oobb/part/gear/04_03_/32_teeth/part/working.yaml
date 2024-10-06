@@ -1,3 +1,186 @@
+bip_39_word_new_br1: circle
+bip_39_word_new_br10: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone<br>teach<br>twist<br>seek<br>obtain
+bip_39_word_new_br11: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone<br>teach<br>twist<br>seek<br>obtain<br>mother
+bip_39_word_new_br12: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone<br>teach<br>twist<br>seek<br>obtain<br>mother<br>adjust
+bip_39_word_new_br2: circle<br>purpose
+bip_39_word_new_br3: circle<br>purpose<br>shy
+bip_39_word_new_br4: circle<br>purpose<br>shy<br>kangaroo
+bip_39_word_new_br5: circle<br>purpose<br>shy<br>kangaroo<br>romance
+bip_39_word_new_br6: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone
+bip_39_word_new_br7: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone<br>teach
+bip_39_word_new_br8: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone<br>teach<br>twist
+bip_39_word_new_br9: circle<br>purpose<br>shy<br>kangaroo<br>romance<br>tone<br>teach<br>twist<br>seek
+bip_39_word_new_line1: circle
+bip_39_word_new_line10: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo
+
+  romance
+
+  tone
+
+  teach
+
+  twist
+
+  seek
+
+  obtain'
+bip_39_word_new_line11: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo
+
+  romance
+
+  tone
+
+  teach
+
+  twist
+
+  seek
+
+  obtain
+
+  mother'
+bip_39_word_new_line12: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo
+
+  romance
+
+  tone
+
+  teach
+
+  twist
+
+  seek
+
+  obtain
+
+  mother
+
+  adjust'
+bip_39_word_new_line2: 'circle
+
+  purpose'
+bip_39_word_new_line3: 'circle
+
+  purpose
+
+  shy'
+bip_39_word_new_line4: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo'
+bip_39_word_new_line5: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo
+
+  romance'
+bip_39_word_new_line6: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo
+
+  romance
+
+  tone'
+bip_39_word_new_line7: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo
+
+  romance
+
+  tone
+
+  teach'
+bip_39_word_new_line8: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo
+
+  romance
+
+  tone
+
+  teach
+
+  twist'
+bip_39_word_new_line9: 'circle
+
+  purpose
+
+  shy
+
+  kangaroo
+
+  romance
+
+  tone
+
+  teach
+
+  twist
+
+  seek'
+bip_39_word_space_0:
+- circle
+- purpose
+- shy
+- kangaroo
+- romance
+- tone
+- teach
+- twist
+- seek
+- obtain
+- mother
+- adjust
+bip_39_word_space_1: circle
+bip_39_word_space_10: circle purpose shy kangaroo romance tone teach twist seek obtain
+bip_39_word_space_11: circle purpose shy kangaroo romance tone teach twist seek obtain
+  mother
+bip_39_word_space_12: circle purpose shy kangaroo romance tone teach twist seek obtain
+  mother adjust
+bip_39_word_space_2: circle purpose
+bip_39_word_space_3: circle purpose shy
+bip_39_word_space_4: circle purpose shy kangaroo
+bip_39_word_space_5: circle purpose shy kangaroo romance
+bip_39_word_space_6: circle purpose shy kangaroo romance tone
+bip_39_word_space_7: circle purpose shy kangaroo romance tone teach
+bip_39_word_space_8: circle purpose shy kangaroo romance tone teach twist
+bip_39_word_space_9: circle purpose shy kangaroo romance tone teach twist seek
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

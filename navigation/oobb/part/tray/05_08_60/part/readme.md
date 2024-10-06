@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: entry height
+  * bip 39 word 3: entry height ghost
+  * bip 39 word: entry height ghost boss object scrub meat assault report fee viable asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | entry |  
+| bip_39_word_new_br10 | entry<br>height<br>ghost<br>boss<br>object<br>scrub<br>meat<br>assault<br>report<br>fee |  
+| bip_39_word_new_br11 | entry<br>height<br>ghost<br>boss<br>object<br>scrub<br>meat<br>assault<br>report<br>fee<br>viable |  
+| bip_39_word_new_br12 | entry<br>height<br>ghost<br>boss<br>object<br>scrub<br>meat<br>assault<br>report<br>fee<br>viable<br>asthma |  
+| bip_39_word_new_br2 | entry<br>height |  
+| bip_39_word_new_br3 | entry<br>height<br>ghost |  
+| bip_39_word_new_br4 | entry<br>height<br>ghost<br>boss |  
+| bip_39_word_new_br5 | entry<br>height<br>ghost<br>boss<br>object |  
+| bip_39_word_new_br6 | entry<br>height<br>ghost<br>boss<br>object<br>scrub |  
+| bip_39_word_new_br7 | entry<br>height<br>ghost<br>boss<br>object<br>scrub<br>meat |  
+| bip_39_word_new_br8 | entry<br>height<br>ghost<br>boss<br>object<br>scrub<br>meat<br>assault |  
+| bip_39_word_new_br9 | entry<br>height<br>ghost<br>boss<br>object<br>scrub<br>meat<br>assault<br>report |  
+| bip_39_word_new_line1 | entry |  
+| bip_39_word_new_line10 | entry
+height
+ghost
+boss
+object
+scrub
+meat
+assault
+report
+fee |  
+| bip_39_word_new_line11 | entry
+height
+ghost
+boss
+object
+scrub
+meat
+assault
+report
+fee
+viable |  
+| bip_39_word_new_line12 | entry
+height
+ghost
+boss
+object
+scrub
+meat
+assault
+report
+fee
+viable
+asthma |  
+| bip_39_word_new_line2 | entry
+height |  
+| bip_39_word_new_line3 | entry
+height
+ghost |  
+| bip_39_word_new_line4 | entry
+height
+ghost
+boss |  
+| bip_39_word_new_line5 | entry
+height
+ghost
+boss
+object |  
+| bip_39_word_new_line6 | entry
+height
+ghost
+boss
+object
+scrub |  
+| bip_39_word_new_line7 | entry
+height
+ghost
+boss
+object
+scrub
+meat |  
+| bip_39_word_new_line8 | entry
+height
+ghost
+boss
+object
+scrub
+meat
+assault |  
+| bip_39_word_new_line9 | entry
+height
+ghost
+boss
+object
+scrub
+meat
+assault
+report |  
+| bip_39_word_space_0 | ['entry', 'height', 'ghost', 'boss', 'object', 'scrub', 'meat', 'assault', 'report', 'fee', 'viable', 'asthma'] |  
+| bip_39_word_space_1 | entry |  
+| bip_39_word_space_10 | entry height ghost boss object scrub meat assault report fee |  
+| bip_39_word_space_11 | entry height ghost boss object scrub meat assault report fee viable |  
+| bip_39_word_space_12 | entry height ghost boss object scrub meat assault report fee viable asthma |  
+| bip_39_word_space_2 | entry height |  
+| bip_39_word_space_3 | entry height ghost |  
+| bip_39_word_space_4 | entry height ghost boss |  
+| bip_39_word_space_5 | entry height ghost boss object |  
+| bip_39_word_space_6 | entry height ghost boss object scrub |  
+| bip_39_word_space_7 | entry height ghost boss object scrub meat |  
+| bip_39_word_space_8 | entry height ghost boss object scrub meat assault |  
+| bip_39_word_space_9 | entry height ghost boss object scrub meat assault report |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

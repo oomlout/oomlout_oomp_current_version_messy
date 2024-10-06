@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dynamic dilemma
+  * bip 39 word 3: dynamic dilemma deposit
+  * bip 39 word: dynamic dilemma deposit mimic door cake travel foster into boost genuine apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dynamic |  
+| bip_39_word_new_br10 | dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake<br>travel<br>foster<br>into<br>boost |  
+| bip_39_word_new_br11 | dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake<br>travel<br>foster<br>into<br>boost<br>genuine |  
+| bip_39_word_new_br12 | dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake<br>travel<br>foster<br>into<br>boost<br>genuine<br>apple |  
+| bip_39_word_new_br2 | dynamic<br>dilemma |  
+| bip_39_word_new_br3 | dynamic<br>dilemma<br>deposit |  
+| bip_39_word_new_br4 | dynamic<br>dilemma<br>deposit<br>mimic |  
+| bip_39_word_new_br5 | dynamic<br>dilemma<br>deposit<br>mimic<br>door |  
+| bip_39_word_new_br6 | dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake |  
+| bip_39_word_new_br7 | dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake<br>travel |  
+| bip_39_word_new_br8 | dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake<br>travel<br>foster |  
+| bip_39_word_new_br9 | dynamic<br>dilemma<br>deposit<br>mimic<br>door<br>cake<br>travel<br>foster<br>into |  
+| bip_39_word_new_line1 | dynamic |  
+| bip_39_word_new_line10 | dynamic
+dilemma
+deposit
+mimic
+door
+cake
+travel
+foster
+into
+boost |  
+| bip_39_word_new_line11 | dynamic
+dilemma
+deposit
+mimic
+door
+cake
+travel
+foster
+into
+boost
+genuine |  
+| bip_39_word_new_line12 | dynamic
+dilemma
+deposit
+mimic
+door
+cake
+travel
+foster
+into
+boost
+genuine
+apple |  
+| bip_39_word_new_line2 | dynamic
+dilemma |  
+| bip_39_word_new_line3 | dynamic
+dilemma
+deposit |  
+| bip_39_word_new_line4 | dynamic
+dilemma
+deposit
+mimic |  
+| bip_39_word_new_line5 | dynamic
+dilemma
+deposit
+mimic
+door |  
+| bip_39_word_new_line6 | dynamic
+dilemma
+deposit
+mimic
+door
+cake |  
+| bip_39_word_new_line7 | dynamic
+dilemma
+deposit
+mimic
+door
+cake
+travel |  
+| bip_39_word_new_line8 | dynamic
+dilemma
+deposit
+mimic
+door
+cake
+travel
+foster |  
+| bip_39_word_new_line9 | dynamic
+dilemma
+deposit
+mimic
+door
+cake
+travel
+foster
+into |  
+| bip_39_word_space_0 | ['dynamic', 'dilemma', 'deposit', 'mimic', 'door', 'cake', 'travel', 'foster', 'into', 'boost', 'genuine', 'apple'] |  
+| bip_39_word_space_1 | dynamic |  
+| bip_39_word_space_10 | dynamic dilemma deposit mimic door cake travel foster into boost |  
+| bip_39_word_space_11 | dynamic dilemma deposit mimic door cake travel foster into boost genuine |  
+| bip_39_word_space_12 | dynamic dilemma deposit mimic door cake travel foster into boost genuine apple |  
+| bip_39_word_space_2 | dynamic dilemma |  
+| bip_39_word_space_3 | dynamic dilemma deposit |  
+| bip_39_word_space_4 | dynamic dilemma deposit mimic |  
+| bip_39_word_space_5 | dynamic dilemma deposit mimic door |  
+| bip_39_word_space_6 | dynamic dilemma deposit mimic door cake |  
+| bip_39_word_space_7 | dynamic dilemma deposit mimic door cake travel |  
+| bip_39_word_space_8 | dynamic dilemma deposit mimic door cake travel foster |  
+| bip_39_word_space_9 | dynamic dilemma deposit mimic door cake travel foster into |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

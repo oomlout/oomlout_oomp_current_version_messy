@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: asthma crush
+  * bip 39 word 3: asthma crush chat
+  * bip 39 word: asthma crush chat enjoy wage sleep try possible mountain debris today alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | asthma |  
+| bip_39_word_new_br10 | asthma<br>crush<br>chat<br>enjoy<br>wage<br>sleep<br>try<br>possible<br>mountain<br>debris |  
+| bip_39_word_new_br11 | asthma<br>crush<br>chat<br>enjoy<br>wage<br>sleep<br>try<br>possible<br>mountain<br>debris<br>today |  
+| bip_39_word_new_br12 | asthma<br>crush<br>chat<br>enjoy<br>wage<br>sleep<br>try<br>possible<br>mountain<br>debris<br>today<br>alien |  
+| bip_39_word_new_br2 | asthma<br>crush |  
+| bip_39_word_new_br3 | asthma<br>crush<br>chat |  
+| bip_39_word_new_br4 | asthma<br>crush<br>chat<br>enjoy |  
+| bip_39_word_new_br5 | asthma<br>crush<br>chat<br>enjoy<br>wage |  
+| bip_39_word_new_br6 | asthma<br>crush<br>chat<br>enjoy<br>wage<br>sleep |  
+| bip_39_word_new_br7 | asthma<br>crush<br>chat<br>enjoy<br>wage<br>sleep<br>try |  
+| bip_39_word_new_br8 | asthma<br>crush<br>chat<br>enjoy<br>wage<br>sleep<br>try<br>possible |  
+| bip_39_word_new_br9 | asthma<br>crush<br>chat<br>enjoy<br>wage<br>sleep<br>try<br>possible<br>mountain |  
+| bip_39_word_new_line1 | asthma |  
+| bip_39_word_new_line10 | asthma
+crush
+chat
+enjoy
+wage
+sleep
+try
+possible
+mountain
+debris |  
+| bip_39_word_new_line11 | asthma
+crush
+chat
+enjoy
+wage
+sleep
+try
+possible
+mountain
+debris
+today |  
+| bip_39_word_new_line12 | asthma
+crush
+chat
+enjoy
+wage
+sleep
+try
+possible
+mountain
+debris
+today
+alien |  
+| bip_39_word_new_line2 | asthma
+crush |  
+| bip_39_word_new_line3 | asthma
+crush
+chat |  
+| bip_39_word_new_line4 | asthma
+crush
+chat
+enjoy |  
+| bip_39_word_new_line5 | asthma
+crush
+chat
+enjoy
+wage |  
+| bip_39_word_new_line6 | asthma
+crush
+chat
+enjoy
+wage
+sleep |  
+| bip_39_word_new_line7 | asthma
+crush
+chat
+enjoy
+wage
+sleep
+try |  
+| bip_39_word_new_line8 | asthma
+crush
+chat
+enjoy
+wage
+sleep
+try
+possible |  
+| bip_39_word_new_line9 | asthma
+crush
+chat
+enjoy
+wage
+sleep
+try
+possible
+mountain |  
+| bip_39_word_space_0 | ['asthma', 'crush', 'chat', 'enjoy', 'wage', 'sleep', 'try', 'possible', 'mountain', 'debris', 'today', 'alien'] |  
+| bip_39_word_space_1 | asthma |  
+| bip_39_word_space_10 | asthma crush chat enjoy wage sleep try possible mountain debris |  
+| bip_39_word_space_11 | asthma crush chat enjoy wage sleep try possible mountain debris today |  
+| bip_39_word_space_12 | asthma crush chat enjoy wage sleep try possible mountain debris today alien |  
+| bip_39_word_space_2 | asthma crush |  
+| bip_39_word_space_3 | asthma crush chat |  
+| bip_39_word_space_4 | asthma crush chat enjoy |  
+| bip_39_word_space_5 | asthma crush chat enjoy wage |  
+| bip_39_word_space_6 | asthma crush chat enjoy wage sleep |  
+| bip_39_word_space_7 | asthma crush chat enjoy wage sleep try |  
+| bip_39_word_space_8 | asthma crush chat enjoy wage sleep try possible |  
+| bip_39_word_space_9 | asthma crush chat enjoy wage sleep try possible mountain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

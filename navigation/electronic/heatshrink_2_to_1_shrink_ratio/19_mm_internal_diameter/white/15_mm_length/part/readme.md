@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: misery diary
+  * bip 39 word 3: misery diary pen
+  * bip 39 word: misery diary pen beach manual subject desert toast spoil sugar tiny around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | misery |  
+| bip_39_word_new_br10 | misery<br>diary<br>pen<br>beach<br>manual<br>subject<br>desert<br>toast<br>spoil<br>sugar |  
+| bip_39_word_new_br11 | misery<br>diary<br>pen<br>beach<br>manual<br>subject<br>desert<br>toast<br>spoil<br>sugar<br>tiny |  
+| bip_39_word_new_br12 | misery<br>diary<br>pen<br>beach<br>manual<br>subject<br>desert<br>toast<br>spoil<br>sugar<br>tiny<br>around |  
+| bip_39_word_new_br2 | misery<br>diary |  
+| bip_39_word_new_br3 | misery<br>diary<br>pen |  
+| bip_39_word_new_br4 | misery<br>diary<br>pen<br>beach |  
+| bip_39_word_new_br5 | misery<br>diary<br>pen<br>beach<br>manual |  
+| bip_39_word_new_br6 | misery<br>diary<br>pen<br>beach<br>manual<br>subject |  
+| bip_39_word_new_br7 | misery<br>diary<br>pen<br>beach<br>manual<br>subject<br>desert |  
+| bip_39_word_new_br8 | misery<br>diary<br>pen<br>beach<br>manual<br>subject<br>desert<br>toast |  
+| bip_39_word_new_br9 | misery<br>diary<br>pen<br>beach<br>manual<br>subject<br>desert<br>toast<br>spoil |  
+| bip_39_word_new_line1 | misery |  
+| bip_39_word_new_line10 | misery
+diary
+pen
+beach
+manual
+subject
+desert
+toast
+spoil
+sugar |  
+| bip_39_word_new_line11 | misery
+diary
+pen
+beach
+manual
+subject
+desert
+toast
+spoil
+sugar
+tiny |  
+| bip_39_word_new_line12 | misery
+diary
+pen
+beach
+manual
+subject
+desert
+toast
+spoil
+sugar
+tiny
+around |  
+| bip_39_word_new_line2 | misery
+diary |  
+| bip_39_word_new_line3 | misery
+diary
+pen |  
+| bip_39_word_new_line4 | misery
+diary
+pen
+beach |  
+| bip_39_word_new_line5 | misery
+diary
+pen
+beach
+manual |  
+| bip_39_word_new_line6 | misery
+diary
+pen
+beach
+manual
+subject |  
+| bip_39_word_new_line7 | misery
+diary
+pen
+beach
+manual
+subject
+desert |  
+| bip_39_word_new_line8 | misery
+diary
+pen
+beach
+manual
+subject
+desert
+toast |  
+| bip_39_word_new_line9 | misery
+diary
+pen
+beach
+manual
+subject
+desert
+toast
+spoil |  
+| bip_39_word_space_0 | ['misery', 'diary', 'pen', 'beach', 'manual', 'subject', 'desert', 'toast', 'spoil', 'sugar', 'tiny', 'around'] |  
+| bip_39_word_space_1 | misery |  
+| bip_39_word_space_10 | misery diary pen beach manual subject desert toast spoil sugar |  
+| bip_39_word_space_11 | misery diary pen beach manual subject desert toast spoil sugar tiny |  
+| bip_39_word_space_12 | misery diary pen beach manual subject desert toast spoil sugar tiny around |  
+| bip_39_word_space_2 | misery diary |  
+| bip_39_word_space_3 | misery diary pen |  
+| bip_39_word_space_4 | misery diary pen beach |  
+| bip_39_word_space_5 | misery diary pen beach manual |  
+| bip_39_word_space_6 | misery diary pen beach manual subject |  
+| bip_39_word_space_7 | misery diary pen beach manual subject desert |  
+| bip_39_word_space_8 | misery diary pen beach manual subject desert toast |  
+| bip_39_word_space_9 | misery diary pen beach manual subject desert toast spoil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

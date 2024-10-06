@@ -1,3 +1,186 @@
+bip_39_word_new_br1: end
+bip_39_word_new_br10: end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon
+bip_39_word_new_br11: end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon<br>buyer
+bip_39_word_new_br12: end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve<br>abandon<br>buyer<br>admit
+bip_39_word_new_br2: end<br>odor
+bip_39_word_new_br3: end<br>odor<br>glory
+bip_39_word_new_br4: end<br>odor<br>glory<br>tumble
+bip_39_word_new_br5: end<br>odor<br>glory<br>tumble<br>program
+bip_39_word_new_br6: end<br>odor<br>glory<br>tumble<br>program<br>garage
+bip_39_word_new_br7: end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem
+bip_39_word_new_br8: end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp
+bip_39_word_new_br9: end<br>odor<br>glory<br>tumble<br>program<br>garage<br>stem<br>swamp<br>valve
+bip_39_word_new_line1: end
+bip_39_word_new_line10: 'end
+
+  odor
+
+  glory
+
+  tumble
+
+  program
+
+  garage
+
+  stem
+
+  swamp
+
+  valve
+
+  abandon'
+bip_39_word_new_line11: 'end
+
+  odor
+
+  glory
+
+  tumble
+
+  program
+
+  garage
+
+  stem
+
+  swamp
+
+  valve
+
+  abandon
+
+  buyer'
+bip_39_word_new_line12: 'end
+
+  odor
+
+  glory
+
+  tumble
+
+  program
+
+  garage
+
+  stem
+
+  swamp
+
+  valve
+
+  abandon
+
+  buyer
+
+  admit'
+bip_39_word_new_line2: 'end
+
+  odor'
+bip_39_word_new_line3: 'end
+
+  odor
+
+  glory'
+bip_39_word_new_line4: 'end
+
+  odor
+
+  glory
+
+  tumble'
+bip_39_word_new_line5: 'end
+
+  odor
+
+  glory
+
+  tumble
+
+  program'
+bip_39_word_new_line6: 'end
+
+  odor
+
+  glory
+
+  tumble
+
+  program
+
+  garage'
+bip_39_word_new_line7: 'end
+
+  odor
+
+  glory
+
+  tumble
+
+  program
+
+  garage
+
+  stem'
+bip_39_word_new_line8: 'end
+
+  odor
+
+  glory
+
+  tumble
+
+  program
+
+  garage
+
+  stem
+
+  swamp'
+bip_39_word_new_line9: 'end
+
+  odor
+
+  glory
+
+  tumble
+
+  program
+
+  garage
+
+  stem
+
+  swamp
+
+  valve'
+bip_39_word_space_0:
+- end
+- odor
+- glory
+- tumble
+- program
+- garage
+- stem
+- swamp
+- valve
+- abandon
+- buyer
+- admit
+bip_39_word_space_1: end
+bip_39_word_space_10: end odor glory tumble program garage stem swamp valve abandon
+bip_39_word_space_11: end odor glory tumble program garage stem swamp valve abandon
+  buyer
+bip_39_word_space_12: end odor glory tumble program garage stem swamp valve abandon
+  buyer admit
+bip_39_word_space_2: end odor
+bip_39_word_space_3: end odor glory
+bip_39_word_space_4: end odor glory tumble
+bip_39_word_space_5: end odor glory tumble program
+bip_39_word_space_6: end odor glory tumble program garage
+bip_39_word_space_7: end odor glory tumble program garage stem
+bip_39_word_space_8: end odor glory tumble program garage stem swamp
+bip_39_word_space_9: end odor glory tumble program garage stem swamp valve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

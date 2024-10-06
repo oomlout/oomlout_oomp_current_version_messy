@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pass
+bip_39_word_new_br10: pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword
+bip_39_word_new_br11: pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword<br>alcohol
+bip_39_word_new_br12: pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist<br>sword<br>alcohol<br>alcohol
+bip_39_word_new_br2: pass<br>million
+bip_39_word_new_br3: pass<br>million<br>female
+bip_39_word_new_br4: pass<br>million<br>female<br>parade
+bip_39_word_new_br5: pass<br>million<br>female<br>parade<br>library
+bip_39_word_new_br6: pass<br>million<br>female<br>parade<br>library<br>ribbon
+bip_39_word_new_br7: pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic
+bip_39_word_new_br8: pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock
+bip_39_word_new_br9: pass<br>million<br>female<br>parade<br>library<br>ribbon<br>aerobic<br>unlock<br>artist
+bip_39_word_new_line1: pass
+bip_39_word_new_line10: 'pass
+
+  million
+
+  female
+
+  parade
+
+  library
+
+  ribbon
+
+  aerobic
+
+  unlock
+
+  artist
+
+  sword'
+bip_39_word_new_line11: 'pass
+
+  million
+
+  female
+
+  parade
+
+  library
+
+  ribbon
+
+  aerobic
+
+  unlock
+
+  artist
+
+  sword
+
+  alcohol'
+bip_39_word_new_line12: 'pass
+
+  million
+
+  female
+
+  parade
+
+  library
+
+  ribbon
+
+  aerobic
+
+  unlock
+
+  artist
+
+  sword
+
+  alcohol
+
+  alcohol'
+bip_39_word_new_line2: 'pass
+
+  million'
+bip_39_word_new_line3: 'pass
+
+  million
+
+  female'
+bip_39_word_new_line4: 'pass
+
+  million
+
+  female
+
+  parade'
+bip_39_word_new_line5: 'pass
+
+  million
+
+  female
+
+  parade
+
+  library'
+bip_39_word_new_line6: 'pass
+
+  million
+
+  female
+
+  parade
+
+  library
+
+  ribbon'
+bip_39_word_new_line7: 'pass
+
+  million
+
+  female
+
+  parade
+
+  library
+
+  ribbon
+
+  aerobic'
+bip_39_word_new_line8: 'pass
+
+  million
+
+  female
+
+  parade
+
+  library
+
+  ribbon
+
+  aerobic
+
+  unlock'
+bip_39_word_new_line9: 'pass
+
+  million
+
+  female
+
+  parade
+
+  library
+
+  ribbon
+
+  aerobic
+
+  unlock
+
+  artist'
+bip_39_word_space_0:
+- pass
+- million
+- female
+- parade
+- library
+- ribbon
+- aerobic
+- unlock
+- artist
+- sword
+- alcohol
+- alcohol
+bip_39_word_space_1: pass
+bip_39_word_space_10: pass million female parade library ribbon aerobic unlock artist
+  sword
+bip_39_word_space_11: pass million female parade library ribbon aerobic unlock artist
+  sword alcohol
+bip_39_word_space_12: pass million female parade library ribbon aerobic unlock artist
+  sword alcohol alcohol
+bip_39_word_space_2: pass million
+bip_39_word_space_3: pass million female
+bip_39_word_space_4: pass million female parade
+bip_39_word_space_5: pass million female parade library
+bip_39_word_space_6: pass million female parade library ribbon
+bip_39_word_space_7: pass million female parade library ribbon aerobic
+bip_39_word_space_8: pass million female parade library ribbon aerobic unlock
+bip_39_word_space_9: pass million female parade library ribbon aerobic unlock artist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

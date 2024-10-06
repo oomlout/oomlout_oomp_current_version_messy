@@ -1,3 +1,187 @@
+bip_39_word_new_br1: surge
+bip_39_word_new_br10: surge<br>season<br>pupil<br>mosquito<br>barely<br>anxiety<br>essence<br>end<br>hurry<br>stock
+bip_39_word_new_br11: surge<br>season<br>pupil<br>mosquito<br>barely<br>anxiety<br>essence<br>end<br>hurry<br>stock<br>almost
+bip_39_word_new_br12: surge<br>season<br>pupil<br>mosquito<br>barely<br>anxiety<br>essence<br>end<br>hurry<br>stock<br>almost<br>apart
+bip_39_word_new_br2: surge<br>season
+bip_39_word_new_br3: surge<br>season<br>pupil
+bip_39_word_new_br4: surge<br>season<br>pupil<br>mosquito
+bip_39_word_new_br5: surge<br>season<br>pupil<br>mosquito<br>barely
+bip_39_word_new_br6: surge<br>season<br>pupil<br>mosquito<br>barely<br>anxiety
+bip_39_word_new_br7: surge<br>season<br>pupil<br>mosquito<br>barely<br>anxiety<br>essence
+bip_39_word_new_br8: surge<br>season<br>pupil<br>mosquito<br>barely<br>anxiety<br>essence<br>end
+bip_39_word_new_br9: surge<br>season<br>pupil<br>mosquito<br>barely<br>anxiety<br>essence<br>end<br>hurry
+bip_39_word_new_line1: surge
+bip_39_word_new_line10: 'surge
+
+  season
+
+  pupil
+
+  mosquito
+
+  barely
+
+  anxiety
+
+  essence
+
+  end
+
+  hurry
+
+  stock'
+bip_39_word_new_line11: 'surge
+
+  season
+
+  pupil
+
+  mosquito
+
+  barely
+
+  anxiety
+
+  essence
+
+  end
+
+  hurry
+
+  stock
+
+  almost'
+bip_39_word_new_line12: 'surge
+
+  season
+
+  pupil
+
+  mosquito
+
+  barely
+
+  anxiety
+
+  essence
+
+  end
+
+  hurry
+
+  stock
+
+  almost
+
+  apart'
+bip_39_word_new_line2: 'surge
+
+  season'
+bip_39_word_new_line3: 'surge
+
+  season
+
+  pupil'
+bip_39_word_new_line4: 'surge
+
+  season
+
+  pupil
+
+  mosquito'
+bip_39_word_new_line5: 'surge
+
+  season
+
+  pupil
+
+  mosquito
+
+  barely'
+bip_39_word_new_line6: 'surge
+
+  season
+
+  pupil
+
+  mosquito
+
+  barely
+
+  anxiety'
+bip_39_word_new_line7: 'surge
+
+  season
+
+  pupil
+
+  mosquito
+
+  barely
+
+  anxiety
+
+  essence'
+bip_39_word_new_line8: 'surge
+
+  season
+
+  pupil
+
+  mosquito
+
+  barely
+
+  anxiety
+
+  essence
+
+  end'
+bip_39_word_new_line9: 'surge
+
+  season
+
+  pupil
+
+  mosquito
+
+  barely
+
+  anxiety
+
+  essence
+
+  end
+
+  hurry'
+bip_39_word_space_0:
+- surge
+- season
+- pupil
+- mosquito
+- barely
+- anxiety
+- essence
+- end
+- hurry
+- stock
+- almost
+- apart
+bip_39_word_space_1: surge
+bip_39_word_space_10: surge season pupil mosquito barely anxiety essence end hurry
+  stock
+bip_39_word_space_11: surge season pupil mosquito barely anxiety essence end hurry
+  stock almost
+bip_39_word_space_12: surge season pupil mosquito barely anxiety essence end hurry
+  stock almost apart
+bip_39_word_space_2: surge season
+bip_39_word_space_3: surge season pupil
+bip_39_word_space_4: surge season pupil mosquito
+bip_39_word_space_5: surge season pupil mosquito barely
+bip_39_word_space_6: surge season pupil mosquito barely anxiety
+bip_39_word_space_7: surge season pupil mosquito barely anxiety essence
+bip_39_word_space_8: surge season pupil mosquito barely anxiety essence end
+bip_39_word_space_9: surge season pupil mosquito barely anxiety essence end hurry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

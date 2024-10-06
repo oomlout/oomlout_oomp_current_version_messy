@@ -1,3 +1,186 @@
+bip_39_word_new_br1: office
+bip_39_word_new_br10: office<br>wink<br>base<br>task<br>knife<br>choice<br>clock<br>pluck<br>volume<br>infant
+bip_39_word_new_br11: office<br>wink<br>base<br>task<br>knife<br>choice<br>clock<br>pluck<br>volume<br>infant<br>artwork
+bip_39_word_new_br12: office<br>wink<br>base<br>task<br>knife<br>choice<br>clock<br>pluck<br>volume<br>infant<br>artwork<br>aim
+bip_39_word_new_br2: office<br>wink
+bip_39_word_new_br3: office<br>wink<br>base
+bip_39_word_new_br4: office<br>wink<br>base<br>task
+bip_39_word_new_br5: office<br>wink<br>base<br>task<br>knife
+bip_39_word_new_br6: office<br>wink<br>base<br>task<br>knife<br>choice
+bip_39_word_new_br7: office<br>wink<br>base<br>task<br>knife<br>choice<br>clock
+bip_39_word_new_br8: office<br>wink<br>base<br>task<br>knife<br>choice<br>clock<br>pluck
+bip_39_word_new_br9: office<br>wink<br>base<br>task<br>knife<br>choice<br>clock<br>pluck<br>volume
+bip_39_word_new_line1: office
+bip_39_word_new_line10: 'office
+
+  wink
+
+  base
+
+  task
+
+  knife
+
+  choice
+
+  clock
+
+  pluck
+
+  volume
+
+  infant'
+bip_39_word_new_line11: 'office
+
+  wink
+
+  base
+
+  task
+
+  knife
+
+  choice
+
+  clock
+
+  pluck
+
+  volume
+
+  infant
+
+  artwork'
+bip_39_word_new_line12: 'office
+
+  wink
+
+  base
+
+  task
+
+  knife
+
+  choice
+
+  clock
+
+  pluck
+
+  volume
+
+  infant
+
+  artwork
+
+  aim'
+bip_39_word_new_line2: 'office
+
+  wink'
+bip_39_word_new_line3: 'office
+
+  wink
+
+  base'
+bip_39_word_new_line4: 'office
+
+  wink
+
+  base
+
+  task'
+bip_39_word_new_line5: 'office
+
+  wink
+
+  base
+
+  task
+
+  knife'
+bip_39_word_new_line6: 'office
+
+  wink
+
+  base
+
+  task
+
+  knife
+
+  choice'
+bip_39_word_new_line7: 'office
+
+  wink
+
+  base
+
+  task
+
+  knife
+
+  choice
+
+  clock'
+bip_39_word_new_line8: 'office
+
+  wink
+
+  base
+
+  task
+
+  knife
+
+  choice
+
+  clock
+
+  pluck'
+bip_39_word_new_line9: 'office
+
+  wink
+
+  base
+
+  task
+
+  knife
+
+  choice
+
+  clock
+
+  pluck
+
+  volume'
+bip_39_word_space_0:
+- office
+- wink
+- base
+- task
+- knife
+- choice
+- clock
+- pluck
+- volume
+- infant
+- artwork
+- aim
+bip_39_word_space_1: office
+bip_39_word_space_10: office wink base task knife choice clock pluck volume infant
+bip_39_word_space_11: office wink base task knife choice clock pluck volume infant
+  artwork
+bip_39_word_space_12: office wink base task knife choice clock pluck volume infant
+  artwork aim
+bip_39_word_space_2: office wink
+bip_39_word_space_3: office wink base
+bip_39_word_space_4: office wink base task
+bip_39_word_space_5: office wink base task knife
+bip_39_word_space_6: office wink base task knife choice
+bip_39_word_space_7: office wink base task knife choice clock
+bip_39_word_space_8: office wink base task knife choice clock pluck
+bip_39_word_space_9: office wink base task knife choice clock pluck volume
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

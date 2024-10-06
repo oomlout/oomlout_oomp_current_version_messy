@@ -1,3 +1,185 @@
+bip_39_word_new_br1: nurse
+bip_39_word_new_br10: nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee<br>wife<br>road<br>spare<br>cute
+bip_39_word_new_br11: nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee<br>wife<br>road<br>spare<br>cute<br>figure
+bip_39_word_new_br12: nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee<br>wife<br>road<br>spare<br>cute<br>figure<br>absurd
+bip_39_word_new_br2: nurse<br>pattern
+bip_39_word_new_br3: nurse<br>pattern<br>boat
+bip_39_word_new_br4: nurse<br>pattern<br>boat<br>sweet
+bip_39_word_new_br5: nurse<br>pattern<br>boat<br>sweet<br>cash
+bip_39_word_new_br6: nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee
+bip_39_word_new_br7: nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee<br>wife
+bip_39_word_new_br8: nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee<br>wife<br>road
+bip_39_word_new_br9: nurse<br>pattern<br>boat<br>sweet<br>cash<br>knee<br>wife<br>road<br>spare
+bip_39_word_new_line1: nurse
+bip_39_word_new_line10: 'nurse
+
+  pattern
+
+  boat
+
+  sweet
+
+  cash
+
+  knee
+
+  wife
+
+  road
+
+  spare
+
+  cute'
+bip_39_word_new_line11: 'nurse
+
+  pattern
+
+  boat
+
+  sweet
+
+  cash
+
+  knee
+
+  wife
+
+  road
+
+  spare
+
+  cute
+
+  figure'
+bip_39_word_new_line12: 'nurse
+
+  pattern
+
+  boat
+
+  sweet
+
+  cash
+
+  knee
+
+  wife
+
+  road
+
+  spare
+
+  cute
+
+  figure
+
+  absurd'
+bip_39_word_new_line2: 'nurse
+
+  pattern'
+bip_39_word_new_line3: 'nurse
+
+  pattern
+
+  boat'
+bip_39_word_new_line4: 'nurse
+
+  pattern
+
+  boat
+
+  sweet'
+bip_39_word_new_line5: 'nurse
+
+  pattern
+
+  boat
+
+  sweet
+
+  cash'
+bip_39_word_new_line6: 'nurse
+
+  pattern
+
+  boat
+
+  sweet
+
+  cash
+
+  knee'
+bip_39_word_new_line7: 'nurse
+
+  pattern
+
+  boat
+
+  sweet
+
+  cash
+
+  knee
+
+  wife'
+bip_39_word_new_line8: 'nurse
+
+  pattern
+
+  boat
+
+  sweet
+
+  cash
+
+  knee
+
+  wife
+
+  road'
+bip_39_word_new_line9: 'nurse
+
+  pattern
+
+  boat
+
+  sweet
+
+  cash
+
+  knee
+
+  wife
+
+  road
+
+  spare'
+bip_39_word_space_0:
+- nurse
+- pattern
+- boat
+- sweet
+- cash
+- knee
+- wife
+- road
+- spare
+- cute
+- figure
+- absurd
+bip_39_word_space_1: nurse
+bip_39_word_space_10: nurse pattern boat sweet cash knee wife road spare cute
+bip_39_word_space_11: nurse pattern boat sweet cash knee wife road spare cute figure
+bip_39_word_space_12: nurse pattern boat sweet cash knee wife road spare cute figure
+  absurd
+bip_39_word_space_2: nurse pattern
+bip_39_word_space_3: nurse pattern boat
+bip_39_word_space_4: nurse pattern boat sweet
+bip_39_word_space_5: nurse pattern boat sweet cash
+bip_39_word_space_6: nurse pattern boat sweet cash knee
+bip_39_word_space_7: nurse pattern boat sweet cash knee wife
+bip_39_word_space_8: nurse pattern boat sweet cash knee wife road
+bip_39_word_space_9: nurse pattern boat sweet cash knee wife road spare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

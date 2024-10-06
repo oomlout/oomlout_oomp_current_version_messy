@@ -1,3 +1,186 @@
+bip_39_word_new_br1: field
+bip_39_word_new_br10: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban<br>broken
+bip_39_word_new_br11: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban<br>broken<br>maximum
+bip_39_word_new_br12: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban<br>broken<br>maximum<br>arch
+bip_39_word_new_br2: field<br>reflect
+bip_39_word_new_br3: field<br>reflect<br>spirit
+bip_39_word_new_br4: field<br>reflect<br>spirit<br>latin
+bip_39_word_new_br5: field<br>reflect<br>spirit<br>latin<br>target
+bip_39_word_new_br6: field<br>reflect<br>spirit<br>latin<br>target<br>dinner
+bip_39_word_new_br7: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird
+bip_39_word_new_br8: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able
+bip_39_word_new_br9: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban
+bip_39_word_new_line1: field
+bip_39_word_new_line10: 'field
+
+  reflect
+
+  spirit
+
+  latin
+
+  target
+
+  dinner
+
+  weird
+
+  able
+
+  urban
+
+  broken'
+bip_39_word_new_line11: 'field
+
+  reflect
+
+  spirit
+
+  latin
+
+  target
+
+  dinner
+
+  weird
+
+  able
+
+  urban
+
+  broken
+
+  maximum'
+bip_39_word_new_line12: 'field
+
+  reflect
+
+  spirit
+
+  latin
+
+  target
+
+  dinner
+
+  weird
+
+  able
+
+  urban
+
+  broken
+
+  maximum
+
+  arch'
+bip_39_word_new_line2: 'field
+
+  reflect'
+bip_39_word_new_line3: 'field
+
+  reflect
+
+  spirit'
+bip_39_word_new_line4: 'field
+
+  reflect
+
+  spirit
+
+  latin'
+bip_39_word_new_line5: 'field
+
+  reflect
+
+  spirit
+
+  latin
+
+  target'
+bip_39_word_new_line6: 'field
+
+  reflect
+
+  spirit
+
+  latin
+
+  target
+
+  dinner'
+bip_39_word_new_line7: 'field
+
+  reflect
+
+  spirit
+
+  latin
+
+  target
+
+  dinner
+
+  weird'
+bip_39_word_new_line8: 'field
+
+  reflect
+
+  spirit
+
+  latin
+
+  target
+
+  dinner
+
+  weird
+
+  able'
+bip_39_word_new_line9: 'field
+
+  reflect
+
+  spirit
+
+  latin
+
+  target
+
+  dinner
+
+  weird
+
+  able
+
+  urban'
+bip_39_word_space_0:
+- field
+- reflect
+- spirit
+- latin
+- target
+- dinner
+- weird
+- able
+- urban
+- broken
+- maximum
+- arch
+bip_39_word_space_1: field
+bip_39_word_space_10: field reflect spirit latin target dinner weird able urban broken
+bip_39_word_space_11: field reflect spirit latin target dinner weird able urban broken
+  maximum
+bip_39_word_space_12: field reflect spirit latin target dinner weird able urban broken
+  maximum arch
+bip_39_word_space_2: field reflect
+bip_39_word_space_3: field reflect spirit
+bip_39_word_space_4: field reflect spirit latin
+bip_39_word_space_5: field reflect spirit latin target
+bip_39_word_space_6: field reflect spirit latin target dinner
+bip_39_word_space_7: field reflect spirit latin target dinner weird
+bip_39_word_space_8: field reflect spirit latin target dinner weird able
+bip_39_word_space_9: field reflect spirit latin target dinner weird able urban
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chalk
+bip_39_word_new_br10: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate<br>nose<br>code<br>advice<br>inflict
+bip_39_word_new_br11: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate<br>nose<br>code<br>advice<br>inflict<br>average
+bip_39_word_new_br12: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate<br>nose<br>code<br>advice<br>inflict<br>average<br>amazing
+bip_39_word_new_br2: chalk<br>describe
+bip_39_word_new_br3: chalk<br>describe<br>helmet
+bip_39_word_new_br4: chalk<br>describe<br>helmet<br>taste
+bip_39_word_new_br5: chalk<br>describe<br>helmet<br>taste<br>huge
+bip_39_word_new_br6: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate
+bip_39_word_new_br7: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate<br>nose
+bip_39_word_new_br8: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate<br>nose<br>code
+bip_39_word_new_br9: chalk<br>describe<br>helmet<br>taste<br>huge<br>indicate<br>nose<br>code<br>advice
+bip_39_word_new_line1: chalk
+bip_39_word_new_line10: 'chalk
+
+  describe
+
+  helmet
+
+  taste
+
+  huge
+
+  indicate
+
+  nose
+
+  code
+
+  advice
+
+  inflict'
+bip_39_word_new_line11: 'chalk
+
+  describe
+
+  helmet
+
+  taste
+
+  huge
+
+  indicate
+
+  nose
+
+  code
+
+  advice
+
+  inflict
+
+  average'
+bip_39_word_new_line12: 'chalk
+
+  describe
+
+  helmet
+
+  taste
+
+  huge
+
+  indicate
+
+  nose
+
+  code
+
+  advice
+
+  inflict
+
+  average
+
+  amazing'
+bip_39_word_new_line2: 'chalk
+
+  describe'
+bip_39_word_new_line3: 'chalk
+
+  describe
+
+  helmet'
+bip_39_word_new_line4: 'chalk
+
+  describe
+
+  helmet
+
+  taste'
+bip_39_word_new_line5: 'chalk
+
+  describe
+
+  helmet
+
+  taste
+
+  huge'
+bip_39_word_new_line6: 'chalk
+
+  describe
+
+  helmet
+
+  taste
+
+  huge
+
+  indicate'
+bip_39_word_new_line7: 'chalk
+
+  describe
+
+  helmet
+
+  taste
+
+  huge
+
+  indicate
+
+  nose'
+bip_39_word_new_line8: 'chalk
+
+  describe
+
+  helmet
+
+  taste
+
+  huge
+
+  indicate
+
+  nose
+
+  code'
+bip_39_word_new_line9: 'chalk
+
+  describe
+
+  helmet
+
+  taste
+
+  huge
+
+  indicate
+
+  nose
+
+  code
+
+  advice'
+bip_39_word_space_0:
+- chalk
+- describe
+- helmet
+- taste
+- huge
+- indicate
+- nose
+- code
+- advice
+- inflict
+- average
+- amazing
+bip_39_word_space_1: chalk
+bip_39_word_space_10: chalk describe helmet taste huge indicate nose code advice inflict
+bip_39_word_space_11: chalk describe helmet taste huge indicate nose code advice inflict
+  average
+bip_39_word_space_12: chalk describe helmet taste huge indicate nose code advice inflict
+  average amazing
+bip_39_word_space_2: chalk describe
+bip_39_word_space_3: chalk describe helmet
+bip_39_word_space_4: chalk describe helmet taste
+bip_39_word_space_5: chalk describe helmet taste huge
+bip_39_word_space_6: chalk describe helmet taste huge indicate
+bip_39_word_space_7: chalk describe helmet taste huge indicate nose
+bip_39_word_space_8: chalk describe helmet taste huge indicate nose code
+bip_39_word_space_9: chalk describe helmet taste huge indicate nose code advice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

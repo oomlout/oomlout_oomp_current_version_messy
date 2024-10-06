@@ -1,3 +1,185 @@
+bip_39_word_new_br1: coast
+bip_39_word_new_br10: coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger
+bip_39_word_new_br11: coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger<br>club
+bip_39_word_new_br12: coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip<br>ginger<br>club<br>afraid
+bip_39_word_new_br2: coast<br>gas
+bip_39_word_new_br3: coast<br>gas<br>bid
+bip_39_word_new_br4: coast<br>gas<br>bid<br>myth
+bip_39_word_new_br5: coast<br>gas<br>bid<br>myth<br>answer
+bip_39_word_new_br6: coast<br>gas<br>bid<br>myth<br>answer<br>waste
+bip_39_word_new_br7: coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese
+bip_39_word_new_br8: coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent
+bip_39_word_new_br9: coast<br>gas<br>bid<br>myth<br>answer<br>waste<br>cheese<br>tent<br>drip
+bip_39_word_new_line1: coast
+bip_39_word_new_line10: 'coast
+
+  gas
+
+  bid
+
+  myth
+
+  answer
+
+  waste
+
+  cheese
+
+  tent
+
+  drip
+
+  ginger'
+bip_39_word_new_line11: 'coast
+
+  gas
+
+  bid
+
+  myth
+
+  answer
+
+  waste
+
+  cheese
+
+  tent
+
+  drip
+
+  ginger
+
+  club'
+bip_39_word_new_line12: 'coast
+
+  gas
+
+  bid
+
+  myth
+
+  answer
+
+  waste
+
+  cheese
+
+  tent
+
+  drip
+
+  ginger
+
+  club
+
+  afraid'
+bip_39_word_new_line2: 'coast
+
+  gas'
+bip_39_word_new_line3: 'coast
+
+  gas
+
+  bid'
+bip_39_word_new_line4: 'coast
+
+  gas
+
+  bid
+
+  myth'
+bip_39_word_new_line5: 'coast
+
+  gas
+
+  bid
+
+  myth
+
+  answer'
+bip_39_word_new_line6: 'coast
+
+  gas
+
+  bid
+
+  myth
+
+  answer
+
+  waste'
+bip_39_word_new_line7: 'coast
+
+  gas
+
+  bid
+
+  myth
+
+  answer
+
+  waste
+
+  cheese'
+bip_39_word_new_line8: 'coast
+
+  gas
+
+  bid
+
+  myth
+
+  answer
+
+  waste
+
+  cheese
+
+  tent'
+bip_39_word_new_line9: 'coast
+
+  gas
+
+  bid
+
+  myth
+
+  answer
+
+  waste
+
+  cheese
+
+  tent
+
+  drip'
+bip_39_word_space_0:
+- coast
+- gas
+- bid
+- myth
+- answer
+- waste
+- cheese
+- tent
+- drip
+- ginger
+- club
+- afraid
+bip_39_word_space_1: coast
+bip_39_word_space_10: coast gas bid myth answer waste cheese tent drip ginger
+bip_39_word_space_11: coast gas bid myth answer waste cheese tent drip ginger club
+bip_39_word_space_12: coast gas bid myth answer waste cheese tent drip ginger club
+  afraid
+bip_39_word_space_2: coast gas
+bip_39_word_space_3: coast gas bid
+bip_39_word_space_4: coast gas bid myth
+bip_39_word_space_5: coast gas bid myth answer
+bip_39_word_space_6: coast gas bid myth answer waste
+bip_39_word_space_7: coast gas bid myth answer waste cheese
+bip_39_word_space_8: coast gas bid myth answer waste cheese tent
+bip_39_word_space_9: coast gas bid myth answer waste cheese tent drip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

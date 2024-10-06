@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stuff ghost
+  * bip 39 word 3: stuff ghost limit
+  * bip 39 word: stuff ghost limit bunker husband exclude erode design task perfect ecology advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stuff |  
+| bip_39_word_new_br10 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude<br>erode<br>design<br>task<br>perfect |  
+| bip_39_word_new_br11 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude<br>erode<br>design<br>task<br>perfect<br>ecology |  
+| bip_39_word_new_br12 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude<br>erode<br>design<br>task<br>perfect<br>ecology<br>advice |  
+| bip_39_word_new_br2 | stuff<br>ghost |  
+| bip_39_word_new_br3 | stuff<br>ghost<br>limit |  
+| bip_39_word_new_br4 | stuff<br>ghost<br>limit<br>bunker |  
+| bip_39_word_new_br5 | stuff<br>ghost<br>limit<br>bunker<br>husband |  
+| bip_39_word_new_br6 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude |  
+| bip_39_word_new_br7 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude<br>erode |  
+| bip_39_word_new_br8 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude<br>erode<br>design |  
+| bip_39_word_new_br9 | stuff<br>ghost<br>limit<br>bunker<br>husband<br>exclude<br>erode<br>design<br>task |  
+| bip_39_word_new_line1 | stuff |  
+| bip_39_word_new_line10 | stuff
+ghost
+limit
+bunker
+husband
+exclude
+erode
+design
+task
+perfect |  
+| bip_39_word_new_line11 | stuff
+ghost
+limit
+bunker
+husband
+exclude
+erode
+design
+task
+perfect
+ecology |  
+| bip_39_word_new_line12 | stuff
+ghost
+limit
+bunker
+husband
+exclude
+erode
+design
+task
+perfect
+ecology
+advice |  
+| bip_39_word_new_line2 | stuff
+ghost |  
+| bip_39_word_new_line3 | stuff
+ghost
+limit |  
+| bip_39_word_new_line4 | stuff
+ghost
+limit
+bunker |  
+| bip_39_word_new_line5 | stuff
+ghost
+limit
+bunker
+husband |  
+| bip_39_word_new_line6 | stuff
+ghost
+limit
+bunker
+husband
+exclude |  
+| bip_39_word_new_line7 | stuff
+ghost
+limit
+bunker
+husband
+exclude
+erode |  
+| bip_39_word_new_line8 | stuff
+ghost
+limit
+bunker
+husband
+exclude
+erode
+design |  
+| bip_39_word_new_line9 | stuff
+ghost
+limit
+bunker
+husband
+exclude
+erode
+design
+task |  
+| bip_39_word_space_0 | ['stuff', 'ghost', 'limit', 'bunker', 'husband', 'exclude', 'erode', 'design', 'task', 'perfect', 'ecology', 'advice'] |  
+| bip_39_word_space_1 | stuff |  
+| bip_39_word_space_10 | stuff ghost limit bunker husband exclude erode design task perfect |  
+| bip_39_word_space_11 | stuff ghost limit bunker husband exclude erode design task perfect ecology |  
+| bip_39_word_space_12 | stuff ghost limit bunker husband exclude erode design task perfect ecology advice |  
+| bip_39_word_space_2 | stuff ghost |  
+| bip_39_word_space_3 | stuff ghost limit |  
+| bip_39_word_space_4 | stuff ghost limit bunker |  
+| bip_39_word_space_5 | stuff ghost limit bunker husband |  
+| bip_39_word_space_6 | stuff ghost limit bunker husband exclude |  
+| bip_39_word_space_7 | stuff ghost limit bunker husband exclude erode |  
+| bip_39_word_space_8 | stuff ghost limit bunker husband exclude erode design |  
+| bip_39_word_space_9 | stuff ghost limit bunker husband exclude erode design task |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

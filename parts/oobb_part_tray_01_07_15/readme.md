@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: uniform cart
+  * bip 39 word 3: uniform cart express
+  * bip 39 word: uniform cart express solve nut have phrase sentence viable ramp live all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | uniform |  
+| bip_39_word_new_br10 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp |  
+| bip_39_word_new_br11 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp<br>live |  
+| bip_39_word_new_br12 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable<br>ramp<br>live<br>all |  
+| bip_39_word_new_br2 | uniform<br>cart |  
+| bip_39_word_new_br3 | uniform<br>cart<br>express |  
+| bip_39_word_new_br4 | uniform<br>cart<br>express<br>solve |  
+| bip_39_word_new_br5 | uniform<br>cart<br>express<br>solve<br>nut |  
+| bip_39_word_new_br6 | uniform<br>cart<br>express<br>solve<br>nut<br>have |  
+| bip_39_word_new_br7 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase |  
+| bip_39_word_new_br8 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence |  
+| bip_39_word_new_br9 | uniform<br>cart<br>express<br>solve<br>nut<br>have<br>phrase<br>sentence<br>viable |  
+| bip_39_word_new_line1 | uniform |  
+| bip_39_word_new_line10 | uniform
+cart
+express
+solve
+nut
+have
+phrase
+sentence
+viable
+ramp |  
+| bip_39_word_new_line11 | uniform
+cart
+express
+solve
+nut
+have
+phrase
+sentence
+viable
+ramp
+live |  
+| bip_39_word_new_line12 | uniform
+cart
+express
+solve
+nut
+have
+phrase
+sentence
+viable
+ramp
+live
+all |  
+| bip_39_word_new_line2 | uniform
+cart |  
+| bip_39_word_new_line3 | uniform
+cart
+express |  
+| bip_39_word_new_line4 | uniform
+cart
+express
+solve |  
+| bip_39_word_new_line5 | uniform
+cart
+express
+solve
+nut |  
+| bip_39_word_new_line6 | uniform
+cart
+express
+solve
+nut
+have |  
+| bip_39_word_new_line7 | uniform
+cart
+express
+solve
+nut
+have
+phrase |  
+| bip_39_word_new_line8 | uniform
+cart
+express
+solve
+nut
+have
+phrase
+sentence |  
+| bip_39_word_new_line9 | uniform
+cart
+express
+solve
+nut
+have
+phrase
+sentence
+viable |  
+| bip_39_word_space_0 | ['uniform', 'cart', 'express', 'solve', 'nut', 'have', 'phrase', 'sentence', 'viable', 'ramp', 'live', 'all'] |  
+| bip_39_word_space_1 | uniform |  
+| bip_39_word_space_10 | uniform cart express solve nut have phrase sentence viable ramp |  
+| bip_39_word_space_11 | uniform cart express solve nut have phrase sentence viable ramp live |  
+| bip_39_word_space_12 | uniform cart express solve nut have phrase sentence viable ramp live all |  
+| bip_39_word_space_2 | uniform cart |  
+| bip_39_word_space_3 | uniform cart express |  
+| bip_39_word_space_4 | uniform cart express solve |  
+| bip_39_word_space_5 | uniform cart express solve nut |  
+| bip_39_word_space_6 | uniform cart express solve nut have |  
+| bip_39_word_space_7 | uniform cart express solve nut have phrase |  
+| bip_39_word_space_8 | uniform cart express solve nut have phrase sentence |  
+| bip_39_word_space_9 | uniform cart express solve nut have phrase sentence viable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

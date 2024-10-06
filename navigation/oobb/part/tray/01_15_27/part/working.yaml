@@ -1,3 +1,187 @@
+bip_39_word_new_br1: village
+bip_39_word_new_br10: village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple
+bip_39_word_new_br11: village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple<br>fox
+bip_39_word_new_br12: village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic<br>ripple<br>fox<br>able
+bip_39_word_new_br2: village<br>february
+bip_39_word_new_br3: village<br>february<br>pretty
+bip_39_word_new_br4: village<br>february<br>pretty<br>raise
+bip_39_word_new_br5: village<br>february<br>pretty<br>raise<br>board
+bip_39_word_new_br6: village<br>february<br>pretty<br>raise<br>board<br>during
+bip_39_word_new_br7: village<br>february<br>pretty<br>raise<br>board<br>during<br>private
+bip_39_word_new_br8: village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite
+bip_39_word_new_br9: village<br>february<br>pretty<br>raise<br>board<br>during<br>private<br>kite<br>drastic
+bip_39_word_new_line1: village
+bip_39_word_new_line10: 'village
+
+  february
+
+  pretty
+
+  raise
+
+  board
+
+  during
+
+  private
+
+  kite
+
+  drastic
+
+  ripple'
+bip_39_word_new_line11: 'village
+
+  february
+
+  pretty
+
+  raise
+
+  board
+
+  during
+
+  private
+
+  kite
+
+  drastic
+
+  ripple
+
+  fox'
+bip_39_word_new_line12: 'village
+
+  february
+
+  pretty
+
+  raise
+
+  board
+
+  during
+
+  private
+
+  kite
+
+  drastic
+
+  ripple
+
+  fox
+
+  able'
+bip_39_word_new_line2: 'village
+
+  february'
+bip_39_word_new_line3: 'village
+
+  february
+
+  pretty'
+bip_39_word_new_line4: 'village
+
+  february
+
+  pretty
+
+  raise'
+bip_39_word_new_line5: 'village
+
+  february
+
+  pretty
+
+  raise
+
+  board'
+bip_39_word_new_line6: 'village
+
+  february
+
+  pretty
+
+  raise
+
+  board
+
+  during'
+bip_39_word_new_line7: 'village
+
+  february
+
+  pretty
+
+  raise
+
+  board
+
+  during
+
+  private'
+bip_39_word_new_line8: 'village
+
+  february
+
+  pretty
+
+  raise
+
+  board
+
+  during
+
+  private
+
+  kite'
+bip_39_word_new_line9: 'village
+
+  february
+
+  pretty
+
+  raise
+
+  board
+
+  during
+
+  private
+
+  kite
+
+  drastic'
+bip_39_word_space_0:
+- village
+- february
+- pretty
+- raise
+- board
+- during
+- private
+- kite
+- drastic
+- ripple
+- fox
+- able
+bip_39_word_space_1: village
+bip_39_word_space_10: village february pretty raise board during private kite drastic
+  ripple
+bip_39_word_space_11: village february pretty raise board during private kite drastic
+  ripple fox
+bip_39_word_space_12: village february pretty raise board during private kite drastic
+  ripple fox able
+bip_39_word_space_2: village february
+bip_39_word_space_3: village february pretty
+bip_39_word_space_4: village february pretty raise
+bip_39_word_space_5: village february pretty raise board
+bip_39_word_space_6: village february pretty raise board during
+bip_39_word_space_7: village february pretty raise board during private
+bip_39_word_space_8: village february pretty raise board during private kite
+bip_39_word_space_9: village february pretty raise board during private kite drastic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

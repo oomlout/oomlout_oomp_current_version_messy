@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: endorse ugly
+  * bip 39 word 3: endorse ugly clerk
+  * bip 39 word: endorse ugly clerk defense winter hedgehog suspect dog pigeon mirror rabbit armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | endorse |  
+| bip_39_word_new_br10 | endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog<br>pigeon<br>mirror |  
+| bip_39_word_new_br11 | endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog<br>pigeon<br>mirror<br>rabbit |  
+| bip_39_word_new_br12 | endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog<br>pigeon<br>mirror<br>rabbit<br>armor |  
+| bip_39_word_new_br2 | endorse<br>ugly |  
+| bip_39_word_new_br3 | endorse<br>ugly<br>clerk |  
+| bip_39_word_new_br4 | endorse<br>ugly<br>clerk<br>defense |  
+| bip_39_word_new_br5 | endorse<br>ugly<br>clerk<br>defense<br>winter |  
+| bip_39_word_new_br6 | endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog |  
+| bip_39_word_new_br7 | endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect |  
+| bip_39_word_new_br8 | endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog |  
+| bip_39_word_new_br9 | endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog<br>pigeon |  
+| bip_39_word_new_line1 | endorse |  
+| bip_39_word_new_line10 | endorse
+ugly
+clerk
+defense
+winter
+hedgehog
+suspect
+dog
+pigeon
+mirror |  
+| bip_39_word_new_line11 | endorse
+ugly
+clerk
+defense
+winter
+hedgehog
+suspect
+dog
+pigeon
+mirror
+rabbit |  
+| bip_39_word_new_line12 | endorse
+ugly
+clerk
+defense
+winter
+hedgehog
+suspect
+dog
+pigeon
+mirror
+rabbit
+armor |  
+| bip_39_word_new_line2 | endorse
+ugly |  
+| bip_39_word_new_line3 | endorse
+ugly
+clerk |  
+| bip_39_word_new_line4 | endorse
+ugly
+clerk
+defense |  
+| bip_39_word_new_line5 | endorse
+ugly
+clerk
+defense
+winter |  
+| bip_39_word_new_line6 | endorse
+ugly
+clerk
+defense
+winter
+hedgehog |  
+| bip_39_word_new_line7 | endorse
+ugly
+clerk
+defense
+winter
+hedgehog
+suspect |  
+| bip_39_word_new_line8 | endorse
+ugly
+clerk
+defense
+winter
+hedgehog
+suspect
+dog |  
+| bip_39_word_new_line9 | endorse
+ugly
+clerk
+defense
+winter
+hedgehog
+suspect
+dog
+pigeon |  
+| bip_39_word_space_0 | ['endorse', 'ugly', 'clerk', 'defense', 'winter', 'hedgehog', 'suspect', 'dog', 'pigeon', 'mirror', 'rabbit', 'armor'] |  
+| bip_39_word_space_1 | endorse |  
+| bip_39_word_space_10 | endorse ugly clerk defense winter hedgehog suspect dog pigeon mirror |  
+| bip_39_word_space_11 | endorse ugly clerk defense winter hedgehog suspect dog pigeon mirror rabbit |  
+| bip_39_word_space_12 | endorse ugly clerk defense winter hedgehog suspect dog pigeon mirror rabbit armor |  
+| bip_39_word_space_2 | endorse ugly |  
+| bip_39_word_space_3 | endorse ugly clerk |  
+| bip_39_word_space_4 | endorse ugly clerk defense |  
+| bip_39_word_space_5 | endorse ugly clerk defense winter |  
+| bip_39_word_space_6 | endorse ugly clerk defense winter hedgehog |  
+| bip_39_word_space_7 | endorse ugly clerk defense winter hedgehog suspect |  
+| bip_39_word_space_8 | endorse ugly clerk defense winter hedgehog suspect dog |  
+| bip_39_word_space_9 | endorse ugly clerk defense winter hedgehog suspect dog pigeon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

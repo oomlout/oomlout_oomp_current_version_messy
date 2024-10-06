@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remember actor
+  * bip 39 word 3: remember actor scorpion
+  * bip 39 word: remember actor scorpion need desert helmet bridge sing remain always old april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remember |  
+| bip_39_word_new_br10 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet<br>bridge<br>sing<br>remain<br>always |  
+| bip_39_word_new_br11 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet<br>bridge<br>sing<br>remain<br>always<br>old |  
+| bip_39_word_new_br12 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet<br>bridge<br>sing<br>remain<br>always<br>old<br>april |  
+| bip_39_word_new_br2 | remember<br>actor |  
+| bip_39_word_new_br3 | remember<br>actor<br>scorpion |  
+| bip_39_word_new_br4 | remember<br>actor<br>scorpion<br>need |  
+| bip_39_word_new_br5 | remember<br>actor<br>scorpion<br>need<br>desert |  
+| bip_39_word_new_br6 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet |  
+| bip_39_word_new_br7 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet<br>bridge |  
+| bip_39_word_new_br8 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet<br>bridge<br>sing |  
+| bip_39_word_new_br9 | remember<br>actor<br>scorpion<br>need<br>desert<br>helmet<br>bridge<br>sing<br>remain |  
+| bip_39_word_new_line1 | remember |  
+| bip_39_word_new_line10 | remember
+actor
+scorpion
+need
+desert
+helmet
+bridge
+sing
+remain
+always |  
+| bip_39_word_new_line11 | remember
+actor
+scorpion
+need
+desert
+helmet
+bridge
+sing
+remain
+always
+old |  
+| bip_39_word_new_line12 | remember
+actor
+scorpion
+need
+desert
+helmet
+bridge
+sing
+remain
+always
+old
+april |  
+| bip_39_word_new_line2 | remember
+actor |  
+| bip_39_word_new_line3 | remember
+actor
+scorpion |  
+| bip_39_word_new_line4 | remember
+actor
+scorpion
+need |  
+| bip_39_word_new_line5 | remember
+actor
+scorpion
+need
+desert |  
+| bip_39_word_new_line6 | remember
+actor
+scorpion
+need
+desert
+helmet |  
+| bip_39_word_new_line7 | remember
+actor
+scorpion
+need
+desert
+helmet
+bridge |  
+| bip_39_word_new_line8 | remember
+actor
+scorpion
+need
+desert
+helmet
+bridge
+sing |  
+| bip_39_word_new_line9 | remember
+actor
+scorpion
+need
+desert
+helmet
+bridge
+sing
+remain |  
+| bip_39_word_space_0 | ['remember', 'actor', 'scorpion', 'need', 'desert', 'helmet', 'bridge', 'sing', 'remain', 'always', 'old', 'april'] |  
+| bip_39_word_space_1 | remember |  
+| bip_39_word_space_10 | remember actor scorpion need desert helmet bridge sing remain always |  
+| bip_39_word_space_11 | remember actor scorpion need desert helmet bridge sing remain always old |  
+| bip_39_word_space_12 | remember actor scorpion need desert helmet bridge sing remain always old april |  
+| bip_39_word_space_2 | remember actor |  
+| bip_39_word_space_3 | remember actor scorpion |  
+| bip_39_word_space_4 | remember actor scorpion need |  
+| bip_39_word_space_5 | remember actor scorpion need desert |  
+| bip_39_word_space_6 | remember actor scorpion need desert helmet |  
+| bip_39_word_space_7 | remember actor scorpion need desert helmet bridge |  
+| bip_39_word_space_8 | remember actor scorpion need desert helmet bridge sing |  
+| bip_39_word_space_9 | remember actor scorpion need desert helmet bridge sing remain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

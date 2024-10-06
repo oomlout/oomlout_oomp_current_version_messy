@@ -1,3 +1,186 @@
+bip_39_word_new_br1: foam
+bip_39_word_new_br10: foam<br>opera<br>twelve<br>push<br>sunny<br>network<br>grow<br>clap<br>topple<br>canyon
+bip_39_word_new_br11: foam<br>opera<br>twelve<br>push<br>sunny<br>network<br>grow<br>clap<br>topple<br>canyon<br>broccoli
+bip_39_word_new_br12: foam<br>opera<br>twelve<br>push<br>sunny<br>network<br>grow<br>clap<br>topple<br>canyon<br>broccoli<br>apart
+bip_39_word_new_br2: foam<br>opera
+bip_39_word_new_br3: foam<br>opera<br>twelve
+bip_39_word_new_br4: foam<br>opera<br>twelve<br>push
+bip_39_word_new_br5: foam<br>opera<br>twelve<br>push<br>sunny
+bip_39_word_new_br6: foam<br>opera<br>twelve<br>push<br>sunny<br>network
+bip_39_word_new_br7: foam<br>opera<br>twelve<br>push<br>sunny<br>network<br>grow
+bip_39_word_new_br8: foam<br>opera<br>twelve<br>push<br>sunny<br>network<br>grow<br>clap
+bip_39_word_new_br9: foam<br>opera<br>twelve<br>push<br>sunny<br>network<br>grow<br>clap<br>topple
+bip_39_word_new_line1: foam
+bip_39_word_new_line10: 'foam
+
+  opera
+
+  twelve
+
+  push
+
+  sunny
+
+  network
+
+  grow
+
+  clap
+
+  topple
+
+  canyon'
+bip_39_word_new_line11: 'foam
+
+  opera
+
+  twelve
+
+  push
+
+  sunny
+
+  network
+
+  grow
+
+  clap
+
+  topple
+
+  canyon
+
+  broccoli'
+bip_39_word_new_line12: 'foam
+
+  opera
+
+  twelve
+
+  push
+
+  sunny
+
+  network
+
+  grow
+
+  clap
+
+  topple
+
+  canyon
+
+  broccoli
+
+  apart'
+bip_39_word_new_line2: 'foam
+
+  opera'
+bip_39_word_new_line3: 'foam
+
+  opera
+
+  twelve'
+bip_39_word_new_line4: 'foam
+
+  opera
+
+  twelve
+
+  push'
+bip_39_word_new_line5: 'foam
+
+  opera
+
+  twelve
+
+  push
+
+  sunny'
+bip_39_word_new_line6: 'foam
+
+  opera
+
+  twelve
+
+  push
+
+  sunny
+
+  network'
+bip_39_word_new_line7: 'foam
+
+  opera
+
+  twelve
+
+  push
+
+  sunny
+
+  network
+
+  grow'
+bip_39_word_new_line8: 'foam
+
+  opera
+
+  twelve
+
+  push
+
+  sunny
+
+  network
+
+  grow
+
+  clap'
+bip_39_word_new_line9: 'foam
+
+  opera
+
+  twelve
+
+  push
+
+  sunny
+
+  network
+
+  grow
+
+  clap
+
+  topple'
+bip_39_word_space_0:
+- foam
+- opera
+- twelve
+- push
+- sunny
+- network
+- grow
+- clap
+- topple
+- canyon
+- broccoli
+- apart
+bip_39_word_space_1: foam
+bip_39_word_space_10: foam opera twelve push sunny network grow clap topple canyon
+bip_39_word_space_11: foam opera twelve push sunny network grow clap topple canyon
+  broccoli
+bip_39_word_space_12: foam opera twelve push sunny network grow clap topple canyon
+  broccoli apart
+bip_39_word_space_2: foam opera
+bip_39_word_space_3: foam opera twelve
+bip_39_word_space_4: foam opera twelve push
+bip_39_word_space_5: foam opera twelve push sunny
+bip_39_word_space_6: foam opera twelve push sunny network
+bip_39_word_space_7: foam opera twelve push sunny network grow
+bip_39_word_space_8: foam opera twelve push sunny network grow clap
+bip_39_word_space_9: foam opera twelve push sunny network grow clap topple
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

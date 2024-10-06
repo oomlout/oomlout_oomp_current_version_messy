@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: smooth audit
+  * bip 39 word 3: smooth audit eight
+  * bip 39 word: smooth audit eight turtle human tortoise brass potato interest raise ball agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | smooth |  
+| bip_39_word_new_br10 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise<br>brass<br>potato<br>interest<br>raise |  
+| bip_39_word_new_br11 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise<br>brass<br>potato<br>interest<br>raise<br>ball |  
+| bip_39_word_new_br12 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise<br>brass<br>potato<br>interest<br>raise<br>ball<br>agent |  
+| bip_39_word_new_br2 | smooth<br>audit |  
+| bip_39_word_new_br3 | smooth<br>audit<br>eight |  
+| bip_39_word_new_br4 | smooth<br>audit<br>eight<br>turtle |  
+| bip_39_word_new_br5 | smooth<br>audit<br>eight<br>turtle<br>human |  
+| bip_39_word_new_br6 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise |  
+| bip_39_word_new_br7 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise<br>brass |  
+| bip_39_word_new_br8 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise<br>brass<br>potato |  
+| bip_39_word_new_br9 | smooth<br>audit<br>eight<br>turtle<br>human<br>tortoise<br>brass<br>potato<br>interest |  
+| bip_39_word_new_line1 | smooth |  
+| bip_39_word_new_line10 | smooth
+audit
+eight
+turtle
+human
+tortoise
+brass
+potato
+interest
+raise |  
+| bip_39_word_new_line11 | smooth
+audit
+eight
+turtle
+human
+tortoise
+brass
+potato
+interest
+raise
+ball |  
+| bip_39_word_new_line12 | smooth
+audit
+eight
+turtle
+human
+tortoise
+brass
+potato
+interest
+raise
+ball
+agent |  
+| bip_39_word_new_line2 | smooth
+audit |  
+| bip_39_word_new_line3 | smooth
+audit
+eight |  
+| bip_39_word_new_line4 | smooth
+audit
+eight
+turtle |  
+| bip_39_word_new_line5 | smooth
+audit
+eight
+turtle
+human |  
+| bip_39_word_new_line6 | smooth
+audit
+eight
+turtle
+human
+tortoise |  
+| bip_39_word_new_line7 | smooth
+audit
+eight
+turtle
+human
+tortoise
+brass |  
+| bip_39_word_new_line8 | smooth
+audit
+eight
+turtle
+human
+tortoise
+brass
+potato |  
+| bip_39_word_new_line9 | smooth
+audit
+eight
+turtle
+human
+tortoise
+brass
+potato
+interest |  
+| bip_39_word_space_0 | ['smooth', 'audit', 'eight', 'turtle', 'human', 'tortoise', 'brass', 'potato', 'interest', 'raise', 'ball', 'agent'] |  
+| bip_39_word_space_1 | smooth |  
+| bip_39_word_space_10 | smooth audit eight turtle human tortoise brass potato interest raise |  
+| bip_39_word_space_11 | smooth audit eight turtle human tortoise brass potato interest raise ball |  
+| bip_39_word_space_12 | smooth audit eight turtle human tortoise brass potato interest raise ball agent |  
+| bip_39_word_space_2 | smooth audit |  
+| bip_39_word_space_3 | smooth audit eight |  
+| bip_39_word_space_4 | smooth audit eight turtle |  
+| bip_39_word_space_5 | smooth audit eight turtle human |  
+| bip_39_word_space_6 | smooth audit eight turtle human tortoise |  
+| bip_39_word_space_7 | smooth audit eight turtle human tortoise brass |  
+| bip_39_word_space_8 | smooth audit eight turtle human tortoise brass potato |  
+| bip_39_word_space_9 | smooth audit eight turtle human tortoise brass potato interest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

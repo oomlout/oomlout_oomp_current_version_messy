@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: dupont
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sea into
+  * bip 39 word 3: sea into film
+  * bip 39 word: sea into film sustain arctic gravity empty twelve advice song biology analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sea |  
+| bip_39_word_new_br10 | sea<br>into<br>film<br>sustain<br>arctic<br>gravity<br>empty<br>twelve<br>advice<br>song |  
+| bip_39_word_new_br11 | sea<br>into<br>film<br>sustain<br>arctic<br>gravity<br>empty<br>twelve<br>advice<br>song<br>biology |  
+| bip_39_word_new_br12 | sea<br>into<br>film<br>sustain<br>arctic<br>gravity<br>empty<br>twelve<br>advice<br>song<br>biology<br>analyst |  
+| bip_39_word_new_br2 | sea<br>into |  
+| bip_39_word_new_br3 | sea<br>into<br>film |  
+| bip_39_word_new_br4 | sea<br>into<br>film<br>sustain |  
+| bip_39_word_new_br5 | sea<br>into<br>film<br>sustain<br>arctic |  
+| bip_39_word_new_br6 | sea<br>into<br>film<br>sustain<br>arctic<br>gravity |  
+| bip_39_word_new_br7 | sea<br>into<br>film<br>sustain<br>arctic<br>gravity<br>empty |  
+| bip_39_word_new_br8 | sea<br>into<br>film<br>sustain<br>arctic<br>gravity<br>empty<br>twelve |  
+| bip_39_word_new_br9 | sea<br>into<br>film<br>sustain<br>arctic<br>gravity<br>empty<br>twelve<br>advice |  
+| bip_39_word_new_line1 | sea |  
+| bip_39_word_new_line10 | sea
+into
+film
+sustain
+arctic
+gravity
+empty
+twelve
+advice
+song |  
+| bip_39_word_new_line11 | sea
+into
+film
+sustain
+arctic
+gravity
+empty
+twelve
+advice
+song
+biology |  
+| bip_39_word_new_line12 | sea
+into
+film
+sustain
+arctic
+gravity
+empty
+twelve
+advice
+song
+biology
+analyst |  
+| bip_39_word_new_line2 | sea
+into |  
+| bip_39_word_new_line3 | sea
+into
+film |  
+| bip_39_word_new_line4 | sea
+into
+film
+sustain |  
+| bip_39_word_new_line5 | sea
+into
+film
+sustain
+arctic |  
+| bip_39_word_new_line6 | sea
+into
+film
+sustain
+arctic
+gravity |  
+| bip_39_word_new_line7 | sea
+into
+film
+sustain
+arctic
+gravity
+empty |  
+| bip_39_word_new_line8 | sea
+into
+film
+sustain
+arctic
+gravity
+empty
+twelve |  
+| bip_39_word_new_line9 | sea
+into
+film
+sustain
+arctic
+gravity
+empty
+twelve
+advice |  
+| bip_39_word_space_0 | ['sea', 'into', 'film', 'sustain', 'arctic', 'gravity', 'empty', 'twelve', 'advice', 'song', 'biology', 'analyst'] |  
+| bip_39_word_space_1 | sea |  
+| bip_39_word_space_10 | sea into film sustain arctic gravity empty twelve advice song |  
+| bip_39_word_space_11 | sea into film sustain arctic gravity empty twelve advice song biology |  
+| bip_39_word_space_12 | sea into film sustain arctic gravity empty twelve advice song biology analyst |  
+| bip_39_word_space_2 | sea into |  
+| bip_39_word_space_3 | sea into film |  
+| bip_39_word_space_4 | sea into film sustain |  
+| bip_39_word_space_5 | sea into film sustain arctic |  
+| bip_39_word_space_6 | sea into film sustain arctic gravity |  
+| bip_39_word_space_7 | sea into film sustain arctic gravity empty |  
+| bip_39_word_space_8 | sea into film sustain arctic gravity empty twelve |  
+| bip_39_word_space_9 | sea into film sustain arctic gravity empty twelve advice |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_stepper_nema_17_flat_shifted_spacer_10_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: angry tribe
+  * bip 39 word 3: angry tribe version
+  * bip 39 word: angry tribe version intact insane avoid short bomb wage dynamic farm almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | angry |  
+| bip_39_word_new_br10 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic |  
+| bip_39_word_new_br11 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm |  
+| bip_39_word_new_br12 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm<br>almost |  
+| bip_39_word_new_br2 | angry<br>tribe |  
+| bip_39_word_new_br3 | angry<br>tribe<br>version |  
+| bip_39_word_new_br4 | angry<br>tribe<br>version<br>intact |  
+| bip_39_word_new_br5 | angry<br>tribe<br>version<br>intact<br>insane |  
+| bip_39_word_new_br6 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid |  
+| bip_39_word_new_br7 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short |  
+| bip_39_word_new_br8 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb |  
+| bip_39_word_new_br9 | angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage |  
+| bip_39_word_new_line1 | angry |  
+| bip_39_word_new_line10 | angry
+tribe
+version
+intact
+insane
+avoid
+short
+bomb
+wage
+dynamic |  
+| bip_39_word_new_line11 | angry
+tribe
+version
+intact
+insane
+avoid
+short
+bomb
+wage
+dynamic
+farm |  
+| bip_39_word_new_line12 | angry
+tribe
+version
+intact
+insane
+avoid
+short
+bomb
+wage
+dynamic
+farm
+almost |  
+| bip_39_word_new_line2 | angry
+tribe |  
+| bip_39_word_new_line3 | angry
+tribe
+version |  
+| bip_39_word_new_line4 | angry
+tribe
+version
+intact |  
+| bip_39_word_new_line5 | angry
+tribe
+version
+intact
+insane |  
+| bip_39_word_new_line6 | angry
+tribe
+version
+intact
+insane
+avoid |  
+| bip_39_word_new_line7 | angry
+tribe
+version
+intact
+insane
+avoid
+short |  
+| bip_39_word_new_line8 | angry
+tribe
+version
+intact
+insane
+avoid
+short
+bomb |  
+| bip_39_word_new_line9 | angry
+tribe
+version
+intact
+insane
+avoid
+short
+bomb
+wage |  
+| bip_39_word_space_0 | ['angry', 'tribe', 'version', 'intact', 'insane', 'avoid', 'short', 'bomb', 'wage', 'dynamic', 'farm', 'almost'] |  
+| bip_39_word_space_1 | angry |  
+| bip_39_word_space_10 | angry tribe version intact insane avoid short bomb wage dynamic |  
+| bip_39_word_space_11 | angry tribe version intact insane avoid short bomb wage dynamic farm |  
+| bip_39_word_space_12 | angry tribe version intact insane avoid short bomb wage dynamic farm almost |  
+| bip_39_word_space_2 | angry tribe |  
+| bip_39_word_space_3 | angry tribe version |  
+| bip_39_word_space_4 | angry tribe version intact |  
+| bip_39_word_space_5 | angry tribe version intact insane |  
+| bip_39_word_space_6 | angry tribe version intact insane avoid |  
+| bip_39_word_space_7 | angry tribe version intact insane avoid short |  
+| bip_39_word_space_8 | angry tribe version intact insane avoid short bomb |  
+| bip_39_word_space_9 | angry tribe version intact insane avoid short bomb wage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: toss
+bip_39_word_new_br10: toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune<br>edge<br>cabin<br>fetch<br>deputy
+bip_39_word_new_br11: toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune<br>edge<br>cabin<br>fetch<br>deputy<br>under
+bip_39_word_new_br12: toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune<br>edge<br>cabin<br>fetch<br>deputy<br>under<br>alter
+bip_39_word_new_br2: toss<br>tackle
+bip_39_word_new_br3: toss<br>tackle<br>evidence
+bip_39_word_new_br4: toss<br>tackle<br>evidence<br>guess
+bip_39_word_new_br5: toss<br>tackle<br>evidence<br>guess<br>vintage
+bip_39_word_new_br6: toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune
+bip_39_word_new_br7: toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune<br>edge
+bip_39_word_new_br8: toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune<br>edge<br>cabin
+bip_39_word_new_br9: toss<br>tackle<br>evidence<br>guess<br>vintage<br>dune<br>edge<br>cabin<br>fetch
+bip_39_word_new_line1: toss
+bip_39_word_new_line10: 'toss
+
+  tackle
+
+  evidence
+
+  guess
+
+  vintage
+
+  dune
+
+  edge
+
+  cabin
+
+  fetch
+
+  deputy'
+bip_39_word_new_line11: 'toss
+
+  tackle
+
+  evidence
+
+  guess
+
+  vintage
+
+  dune
+
+  edge
+
+  cabin
+
+  fetch
+
+  deputy
+
+  under'
+bip_39_word_new_line12: 'toss
+
+  tackle
+
+  evidence
+
+  guess
+
+  vintage
+
+  dune
+
+  edge
+
+  cabin
+
+  fetch
+
+  deputy
+
+  under
+
+  alter'
+bip_39_word_new_line2: 'toss
+
+  tackle'
+bip_39_word_new_line3: 'toss
+
+  tackle
+
+  evidence'
+bip_39_word_new_line4: 'toss
+
+  tackle
+
+  evidence
+
+  guess'
+bip_39_word_new_line5: 'toss
+
+  tackle
+
+  evidence
+
+  guess
+
+  vintage'
+bip_39_word_new_line6: 'toss
+
+  tackle
+
+  evidence
+
+  guess
+
+  vintage
+
+  dune'
+bip_39_word_new_line7: 'toss
+
+  tackle
+
+  evidence
+
+  guess
+
+  vintage
+
+  dune
+
+  edge'
+bip_39_word_new_line8: 'toss
+
+  tackle
+
+  evidence
+
+  guess
+
+  vintage
+
+  dune
+
+  edge
+
+  cabin'
+bip_39_word_new_line9: 'toss
+
+  tackle
+
+  evidence
+
+  guess
+
+  vintage
+
+  dune
+
+  edge
+
+  cabin
+
+  fetch'
+bip_39_word_space_0:
+- toss
+- tackle
+- evidence
+- guess
+- vintage
+- dune
+- edge
+- cabin
+- fetch
+- deputy
+- under
+- alter
+bip_39_word_space_1: toss
+bip_39_word_space_10: toss tackle evidence guess vintage dune edge cabin fetch deputy
+bip_39_word_space_11: toss tackle evidence guess vintage dune edge cabin fetch deputy
+  under
+bip_39_word_space_12: toss tackle evidence guess vintage dune edge cabin fetch deputy
+  under alter
+bip_39_word_space_2: toss tackle
+bip_39_word_space_3: toss tackle evidence
+bip_39_word_space_4: toss tackle evidence guess
+bip_39_word_space_5: toss tackle evidence guess vintage
+bip_39_word_space_6: toss tackle evidence guess vintage dune
+bip_39_word_space_7: toss tackle evidence guess vintage dune edge
+bip_39_word_space_8: toss tackle evidence guess vintage dune edge cabin
+bip_39_word_space_9: toss tackle evidence guess vintage dune edge cabin fetch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

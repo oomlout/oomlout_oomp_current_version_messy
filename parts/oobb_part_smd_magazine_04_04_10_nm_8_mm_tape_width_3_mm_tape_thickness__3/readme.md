@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jar network
+  * bip 39 word 3: jar network foot
+  * bip 39 word: jar network foot frog cereal service doctor response arena moment honey assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jar |  
+| bip_39_word_new_br10 | jar<br>network<br>foot<br>frog<br>cereal<br>service<br>doctor<br>response<br>arena<br>moment |  
+| bip_39_word_new_br11 | jar<br>network<br>foot<br>frog<br>cereal<br>service<br>doctor<br>response<br>arena<br>moment<br>honey |  
+| bip_39_word_new_br12 | jar<br>network<br>foot<br>frog<br>cereal<br>service<br>doctor<br>response<br>arena<br>moment<br>honey<br>assume |  
+| bip_39_word_new_br2 | jar<br>network |  
+| bip_39_word_new_br3 | jar<br>network<br>foot |  
+| bip_39_word_new_br4 | jar<br>network<br>foot<br>frog |  
+| bip_39_word_new_br5 | jar<br>network<br>foot<br>frog<br>cereal |  
+| bip_39_word_new_br6 | jar<br>network<br>foot<br>frog<br>cereal<br>service |  
+| bip_39_word_new_br7 | jar<br>network<br>foot<br>frog<br>cereal<br>service<br>doctor |  
+| bip_39_word_new_br8 | jar<br>network<br>foot<br>frog<br>cereal<br>service<br>doctor<br>response |  
+| bip_39_word_new_br9 | jar<br>network<br>foot<br>frog<br>cereal<br>service<br>doctor<br>response<br>arena |  
+| bip_39_word_new_line1 | jar |  
+| bip_39_word_new_line10 | jar
+network
+foot
+frog
+cereal
+service
+doctor
+response
+arena
+moment |  
+| bip_39_word_new_line11 | jar
+network
+foot
+frog
+cereal
+service
+doctor
+response
+arena
+moment
+honey |  
+| bip_39_word_new_line12 | jar
+network
+foot
+frog
+cereal
+service
+doctor
+response
+arena
+moment
+honey
+assume |  
+| bip_39_word_new_line2 | jar
+network |  
+| bip_39_word_new_line3 | jar
+network
+foot |  
+| bip_39_word_new_line4 | jar
+network
+foot
+frog |  
+| bip_39_word_new_line5 | jar
+network
+foot
+frog
+cereal |  
+| bip_39_word_new_line6 | jar
+network
+foot
+frog
+cereal
+service |  
+| bip_39_word_new_line7 | jar
+network
+foot
+frog
+cereal
+service
+doctor |  
+| bip_39_word_new_line8 | jar
+network
+foot
+frog
+cereal
+service
+doctor
+response |  
+| bip_39_word_new_line9 | jar
+network
+foot
+frog
+cereal
+service
+doctor
+response
+arena |  
+| bip_39_word_space_0 | ['jar', 'network', 'foot', 'frog', 'cereal', 'service', 'doctor', 'response', 'arena', 'moment', 'honey', 'assume'] |  
+| bip_39_word_space_1 | jar |  
+| bip_39_word_space_10 | jar network foot frog cereal service doctor response arena moment |  
+| bip_39_word_space_11 | jar network foot frog cereal service doctor response arena moment honey |  
+| bip_39_word_space_12 | jar network foot frog cereal service doctor response arena moment honey assume |  
+| bip_39_word_space_2 | jar network |  
+| bip_39_word_space_3 | jar network foot |  
+| bip_39_word_space_4 | jar network foot frog |  
+| bip_39_word_space_5 | jar network foot frog cereal |  
+| bip_39_word_space_6 | jar network foot frog cereal service |  
+| bip_39_word_space_7 | jar network foot frog cereal service doctor |  
+| bip_39_word_space_8 | jar network foot frog cereal service doctor response |  
+| bip_39_word_space_9 | jar network foot frog cereal service doctor response arena |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

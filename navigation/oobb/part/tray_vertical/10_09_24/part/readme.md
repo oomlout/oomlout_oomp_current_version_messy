@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trend walnut
+  * bip 39 word 3: trend walnut random
+  * bip 39 word: trend walnut random antique fall degree excess depart table horse ketchup average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trend |  
+| bip_39_word_new_br10 | trend<br>walnut<br>random<br>antique<br>fall<br>degree<br>excess<br>depart<br>table<br>horse |  
+| bip_39_word_new_br11 | trend<br>walnut<br>random<br>antique<br>fall<br>degree<br>excess<br>depart<br>table<br>horse<br>ketchup |  
+| bip_39_word_new_br12 | trend<br>walnut<br>random<br>antique<br>fall<br>degree<br>excess<br>depart<br>table<br>horse<br>ketchup<br>average |  
+| bip_39_word_new_br2 | trend<br>walnut |  
+| bip_39_word_new_br3 | trend<br>walnut<br>random |  
+| bip_39_word_new_br4 | trend<br>walnut<br>random<br>antique |  
+| bip_39_word_new_br5 | trend<br>walnut<br>random<br>antique<br>fall |  
+| bip_39_word_new_br6 | trend<br>walnut<br>random<br>antique<br>fall<br>degree |  
+| bip_39_word_new_br7 | trend<br>walnut<br>random<br>antique<br>fall<br>degree<br>excess |  
+| bip_39_word_new_br8 | trend<br>walnut<br>random<br>antique<br>fall<br>degree<br>excess<br>depart |  
+| bip_39_word_new_br9 | trend<br>walnut<br>random<br>antique<br>fall<br>degree<br>excess<br>depart<br>table |  
+| bip_39_word_new_line1 | trend |  
+| bip_39_word_new_line10 | trend
+walnut
+random
+antique
+fall
+degree
+excess
+depart
+table
+horse |  
+| bip_39_word_new_line11 | trend
+walnut
+random
+antique
+fall
+degree
+excess
+depart
+table
+horse
+ketchup |  
+| bip_39_word_new_line12 | trend
+walnut
+random
+antique
+fall
+degree
+excess
+depart
+table
+horse
+ketchup
+average |  
+| bip_39_word_new_line2 | trend
+walnut |  
+| bip_39_word_new_line3 | trend
+walnut
+random |  
+| bip_39_word_new_line4 | trend
+walnut
+random
+antique |  
+| bip_39_word_new_line5 | trend
+walnut
+random
+antique
+fall |  
+| bip_39_word_new_line6 | trend
+walnut
+random
+antique
+fall
+degree |  
+| bip_39_word_new_line7 | trend
+walnut
+random
+antique
+fall
+degree
+excess |  
+| bip_39_word_new_line8 | trend
+walnut
+random
+antique
+fall
+degree
+excess
+depart |  
+| bip_39_word_new_line9 | trend
+walnut
+random
+antique
+fall
+degree
+excess
+depart
+table |  
+| bip_39_word_space_0 | ['trend', 'walnut', 'random', 'antique', 'fall', 'degree', 'excess', 'depart', 'table', 'horse', 'ketchup', 'average'] |  
+| bip_39_word_space_1 | trend |  
+| bip_39_word_space_10 | trend walnut random antique fall degree excess depart table horse |  
+| bip_39_word_space_11 | trend walnut random antique fall degree excess depart table horse ketchup |  
+| bip_39_word_space_12 | trend walnut random antique fall degree excess depart table horse ketchup average |  
+| bip_39_word_space_2 | trend walnut |  
+| bip_39_word_space_3 | trend walnut random |  
+| bip_39_word_space_4 | trend walnut random antique |  
+| bip_39_word_space_5 | trend walnut random antique fall |  
+| bip_39_word_space_6 | trend walnut random antique fall degree |  
+| bip_39_word_space_7 | trend walnut random antique fall degree excess |  
+| bip_39_word_space_8 | trend walnut random antique fall degree excess depart |  
+| bip_39_word_space_9 | trend walnut random antique fall degree excess depart table |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: attack
+bip_39_word_new_br10: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment
+bip_39_word_new_br11: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment<br>follow
+bip_39_word_new_br12: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel<br>garment<br>follow<br>afford
+bip_39_word_new_br2: attack<br>mosquito
+bip_39_word_new_br3: attack<br>mosquito<br>hint
+bip_39_word_new_br4: attack<br>mosquito<br>hint<br>early
+bip_39_word_new_br5: attack<br>mosquito<br>hint<br>early<br>arrow
+bip_39_word_new_br6: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge
+bip_39_word_new_br7: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel
+bip_39_word_new_br8: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change
+bip_39_word_new_br9: attack<br>mosquito<br>hint<br>early<br>arrow<br>bridge<br>travel<br>change<br>hotel
+bip_39_word_new_line1: attack
+bip_39_word_new_line10: 'attack
+
+  mosquito
+
+  hint
+
+  early
+
+  arrow
+
+  bridge
+
+  travel
+
+  change
+
+  hotel
+
+  garment'
+bip_39_word_new_line11: 'attack
+
+  mosquito
+
+  hint
+
+  early
+
+  arrow
+
+  bridge
+
+  travel
+
+  change
+
+  hotel
+
+  garment
+
+  follow'
+bip_39_word_new_line12: 'attack
+
+  mosquito
+
+  hint
+
+  early
+
+  arrow
+
+  bridge
+
+  travel
+
+  change
+
+  hotel
+
+  garment
+
+  follow
+
+  afford'
+bip_39_word_new_line2: 'attack
+
+  mosquito'
+bip_39_word_new_line3: 'attack
+
+  mosquito
+
+  hint'
+bip_39_word_new_line4: 'attack
+
+  mosquito
+
+  hint
+
+  early'
+bip_39_word_new_line5: 'attack
+
+  mosquito
+
+  hint
+
+  early
+
+  arrow'
+bip_39_word_new_line6: 'attack
+
+  mosquito
+
+  hint
+
+  early
+
+  arrow
+
+  bridge'
+bip_39_word_new_line7: 'attack
+
+  mosquito
+
+  hint
+
+  early
+
+  arrow
+
+  bridge
+
+  travel'
+bip_39_word_new_line8: 'attack
+
+  mosquito
+
+  hint
+
+  early
+
+  arrow
+
+  bridge
+
+  travel
+
+  change'
+bip_39_word_new_line9: 'attack
+
+  mosquito
+
+  hint
+
+  early
+
+  arrow
+
+  bridge
+
+  travel
+
+  change
+
+  hotel'
+bip_39_word_space_0:
+- attack
+- mosquito
+- hint
+- early
+- arrow
+- bridge
+- travel
+- change
+- hotel
+- garment
+- follow
+- afford
+bip_39_word_space_1: attack
+bip_39_word_space_10: attack mosquito hint early arrow bridge travel change hotel
+  garment
+bip_39_word_space_11: attack mosquito hint early arrow bridge travel change hotel
+  garment follow
+bip_39_word_space_12: attack mosquito hint early arrow bridge travel change hotel
+  garment follow afford
+bip_39_word_space_2: attack mosquito
+bip_39_word_space_3: attack mosquito hint
+bip_39_word_space_4: attack mosquito hint early
+bip_39_word_space_5: attack mosquito hint early arrow
+bip_39_word_space_6: attack mosquito hint early arrow bridge
+bip_39_word_space_7: attack mosquito hint early arrow bridge travel
+bip_39_word_space_8: attack mosquito hint early arrow bridge travel change
+bip_39_word_space_9: attack mosquito hint early arrow bridge travel change hotel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

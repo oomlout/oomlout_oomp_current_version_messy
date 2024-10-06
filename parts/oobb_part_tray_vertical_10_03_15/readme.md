@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: antenna vicious
+  * bip 39 word 3: antenna vicious saddle
+  * bip 39 word: antenna vicious saddle spray paper benefit diary memory letter grape impulse armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | antenna |  
+| bip_39_word_new_br10 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit<br>diary<br>memory<br>letter<br>grape |  
+| bip_39_word_new_br11 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit<br>diary<br>memory<br>letter<br>grape<br>impulse |  
+| bip_39_word_new_br12 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit<br>diary<br>memory<br>letter<br>grape<br>impulse<br>armor |  
+| bip_39_word_new_br2 | antenna<br>vicious |  
+| bip_39_word_new_br3 | antenna<br>vicious<br>saddle |  
+| bip_39_word_new_br4 | antenna<br>vicious<br>saddle<br>spray |  
+| bip_39_word_new_br5 | antenna<br>vicious<br>saddle<br>spray<br>paper |  
+| bip_39_word_new_br6 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit |  
+| bip_39_word_new_br7 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit<br>diary |  
+| bip_39_word_new_br8 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit<br>diary<br>memory |  
+| bip_39_word_new_br9 | antenna<br>vicious<br>saddle<br>spray<br>paper<br>benefit<br>diary<br>memory<br>letter |  
+| bip_39_word_new_line1 | antenna |  
+| bip_39_word_new_line10 | antenna
+vicious
+saddle
+spray
+paper
+benefit
+diary
+memory
+letter
+grape |  
+| bip_39_word_new_line11 | antenna
+vicious
+saddle
+spray
+paper
+benefit
+diary
+memory
+letter
+grape
+impulse |  
+| bip_39_word_new_line12 | antenna
+vicious
+saddle
+spray
+paper
+benefit
+diary
+memory
+letter
+grape
+impulse
+armor |  
+| bip_39_word_new_line2 | antenna
+vicious |  
+| bip_39_word_new_line3 | antenna
+vicious
+saddle |  
+| bip_39_word_new_line4 | antenna
+vicious
+saddle
+spray |  
+| bip_39_word_new_line5 | antenna
+vicious
+saddle
+spray
+paper |  
+| bip_39_word_new_line6 | antenna
+vicious
+saddle
+spray
+paper
+benefit |  
+| bip_39_word_new_line7 | antenna
+vicious
+saddle
+spray
+paper
+benefit
+diary |  
+| bip_39_word_new_line8 | antenna
+vicious
+saddle
+spray
+paper
+benefit
+diary
+memory |  
+| bip_39_word_new_line9 | antenna
+vicious
+saddle
+spray
+paper
+benefit
+diary
+memory
+letter |  
+| bip_39_word_space_0 | ['antenna', 'vicious', 'saddle', 'spray', 'paper', 'benefit', 'diary', 'memory', 'letter', 'grape', 'impulse', 'armor'] |  
+| bip_39_word_space_1 | antenna |  
+| bip_39_word_space_10 | antenna vicious saddle spray paper benefit diary memory letter grape |  
+| bip_39_word_space_11 | antenna vicious saddle spray paper benefit diary memory letter grape impulse |  
+| bip_39_word_space_12 | antenna vicious saddle spray paper benefit diary memory letter grape impulse armor |  
+| bip_39_word_space_2 | antenna vicious |  
+| bip_39_word_space_3 | antenna vicious saddle |  
+| bip_39_word_space_4 | antenna vicious saddle spray |  
+| bip_39_word_space_5 | antenna vicious saddle spray paper |  
+| bip_39_word_space_6 | antenna vicious saddle spray paper benefit |  
+| bip_39_word_space_7 | antenna vicious saddle spray paper benefit diary |  
+| bip_39_word_space_8 | antenna vicious saddle spray paper benefit diary memory |  
+| bip_39_word_space_9 | antenna vicious saddle spray paper benefit diary memory letter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

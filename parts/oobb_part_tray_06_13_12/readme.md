@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ribbon negative
+  * bip 39 word 3: ribbon negative citizen
+  * bip 39 word: ribbon negative citizen torch lyrics tower fossil letter inquiry belt opera anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ribbon |  
+| bip_39_word_new_br10 | ribbon<br>negative<br>citizen<br>torch<br>lyrics<br>tower<br>fossil<br>letter<br>inquiry<br>belt |  
+| bip_39_word_new_br11 | ribbon<br>negative<br>citizen<br>torch<br>lyrics<br>tower<br>fossil<br>letter<br>inquiry<br>belt<br>opera |  
+| bip_39_word_new_br12 | ribbon<br>negative<br>citizen<br>torch<br>lyrics<br>tower<br>fossil<br>letter<br>inquiry<br>belt<br>opera<br>anchor |  
+| bip_39_word_new_br2 | ribbon<br>negative |  
+| bip_39_word_new_br3 | ribbon<br>negative<br>citizen |  
+| bip_39_word_new_br4 | ribbon<br>negative<br>citizen<br>torch |  
+| bip_39_word_new_br5 | ribbon<br>negative<br>citizen<br>torch<br>lyrics |  
+| bip_39_word_new_br6 | ribbon<br>negative<br>citizen<br>torch<br>lyrics<br>tower |  
+| bip_39_word_new_br7 | ribbon<br>negative<br>citizen<br>torch<br>lyrics<br>tower<br>fossil |  
+| bip_39_word_new_br8 | ribbon<br>negative<br>citizen<br>torch<br>lyrics<br>tower<br>fossil<br>letter |  
+| bip_39_word_new_br9 | ribbon<br>negative<br>citizen<br>torch<br>lyrics<br>tower<br>fossil<br>letter<br>inquiry |  
+| bip_39_word_new_line1 | ribbon |  
+| bip_39_word_new_line10 | ribbon
+negative
+citizen
+torch
+lyrics
+tower
+fossil
+letter
+inquiry
+belt |  
+| bip_39_word_new_line11 | ribbon
+negative
+citizen
+torch
+lyrics
+tower
+fossil
+letter
+inquiry
+belt
+opera |  
+| bip_39_word_new_line12 | ribbon
+negative
+citizen
+torch
+lyrics
+tower
+fossil
+letter
+inquiry
+belt
+opera
+anchor |  
+| bip_39_word_new_line2 | ribbon
+negative |  
+| bip_39_word_new_line3 | ribbon
+negative
+citizen |  
+| bip_39_word_new_line4 | ribbon
+negative
+citizen
+torch |  
+| bip_39_word_new_line5 | ribbon
+negative
+citizen
+torch
+lyrics |  
+| bip_39_word_new_line6 | ribbon
+negative
+citizen
+torch
+lyrics
+tower |  
+| bip_39_word_new_line7 | ribbon
+negative
+citizen
+torch
+lyrics
+tower
+fossil |  
+| bip_39_word_new_line8 | ribbon
+negative
+citizen
+torch
+lyrics
+tower
+fossil
+letter |  
+| bip_39_word_new_line9 | ribbon
+negative
+citizen
+torch
+lyrics
+tower
+fossil
+letter
+inquiry |  
+| bip_39_word_space_0 | ['ribbon', 'negative', 'citizen', 'torch', 'lyrics', 'tower', 'fossil', 'letter', 'inquiry', 'belt', 'opera', 'anchor'] |  
+| bip_39_word_space_1 | ribbon |  
+| bip_39_word_space_10 | ribbon negative citizen torch lyrics tower fossil letter inquiry belt |  
+| bip_39_word_space_11 | ribbon negative citizen torch lyrics tower fossil letter inquiry belt opera |  
+| bip_39_word_space_12 | ribbon negative citizen torch lyrics tower fossil letter inquiry belt opera anchor |  
+| bip_39_word_space_2 | ribbon negative |  
+| bip_39_word_space_3 | ribbon negative citizen |  
+| bip_39_word_space_4 | ribbon negative citizen torch |  
+| bip_39_word_space_5 | ribbon negative citizen torch lyrics |  
+| bip_39_word_space_6 | ribbon negative citizen torch lyrics tower |  
+| bip_39_word_space_7 | ribbon negative citizen torch lyrics tower fossil |  
+| bip_39_word_space_8 | ribbon negative citizen torch lyrics tower fossil letter |  
+| bip_39_word_space_9 | ribbon negative citizen torch lyrics tower fossil letter inquiry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

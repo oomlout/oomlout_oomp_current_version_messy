@@ -1,3 +1,186 @@
+bip_39_word_new_br1: relief
+bip_39_word_new_br10: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include
+bip_39_word_new_br11: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include<br>flame
+bip_39_word_new_br12: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond<br>include<br>flame<br>atom
+bip_39_word_new_br2: relief<br>time
+bip_39_word_new_br3: relief<br>time<br>curve
+bip_39_word_new_br4: relief<br>time<br>curve<br>keen
+bip_39_word_new_br5: relief<br>time<br>curve<br>keen<br>common
+bip_39_word_new_br6: relief<br>time<br>curve<br>keen<br>common<br>bargain
+bip_39_word_new_br7: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion
+bip_39_word_new_br8: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue
+bip_39_word_new_br9: relief<br>time<br>curve<br>keen<br>common<br>bargain<br>reunion<br>tongue<br>pond
+bip_39_word_new_line1: relief
+bip_39_word_new_line10: 'relief
+
+  time
+
+  curve
+
+  keen
+
+  common
+
+  bargain
+
+  reunion
+
+  tongue
+
+  pond
+
+  include'
+bip_39_word_new_line11: 'relief
+
+  time
+
+  curve
+
+  keen
+
+  common
+
+  bargain
+
+  reunion
+
+  tongue
+
+  pond
+
+  include
+
+  flame'
+bip_39_word_new_line12: 'relief
+
+  time
+
+  curve
+
+  keen
+
+  common
+
+  bargain
+
+  reunion
+
+  tongue
+
+  pond
+
+  include
+
+  flame
+
+  atom'
+bip_39_word_new_line2: 'relief
+
+  time'
+bip_39_word_new_line3: 'relief
+
+  time
+
+  curve'
+bip_39_word_new_line4: 'relief
+
+  time
+
+  curve
+
+  keen'
+bip_39_word_new_line5: 'relief
+
+  time
+
+  curve
+
+  keen
+
+  common'
+bip_39_word_new_line6: 'relief
+
+  time
+
+  curve
+
+  keen
+
+  common
+
+  bargain'
+bip_39_word_new_line7: 'relief
+
+  time
+
+  curve
+
+  keen
+
+  common
+
+  bargain
+
+  reunion'
+bip_39_word_new_line8: 'relief
+
+  time
+
+  curve
+
+  keen
+
+  common
+
+  bargain
+
+  reunion
+
+  tongue'
+bip_39_word_new_line9: 'relief
+
+  time
+
+  curve
+
+  keen
+
+  common
+
+  bargain
+
+  reunion
+
+  tongue
+
+  pond'
+bip_39_word_space_0:
+- relief
+- time
+- curve
+- keen
+- common
+- bargain
+- reunion
+- tongue
+- pond
+- include
+- flame
+- atom
+bip_39_word_space_1: relief
+bip_39_word_space_10: relief time curve keen common bargain reunion tongue pond include
+bip_39_word_space_11: relief time curve keen common bargain reunion tongue pond include
+  flame
+bip_39_word_space_12: relief time curve keen common bargain reunion tongue pond include
+  flame atom
+bip_39_word_space_2: relief time
+bip_39_word_space_3: relief time curve
+bip_39_word_space_4: relief time curve keen
+bip_39_word_space_5: relief time curve keen common
+bip_39_word_space_6: relief time curve keen common bargain
+bip_39_word_space_7: relief time curve keen common bargain reunion
+bip_39_word_space_8: relief time curve keen common bargain reunion tongue
+bip_39_word_space_9: relief time curve keen common bargain reunion tongue pond
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

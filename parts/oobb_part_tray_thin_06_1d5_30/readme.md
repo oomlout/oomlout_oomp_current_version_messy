@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: runway catalog
+  * bip 39 word 3: runway catalog exist
+  * bip 39 word: runway catalog exist obey enforce energy mistake wage frame egg awake actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | runway |  
+| bip_39_word_new_br10 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg |  
+| bip_39_word_new_br11 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg<br>awake |  
+| bip_39_word_new_br12 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame<br>egg<br>awake<br>actual |  
+| bip_39_word_new_br2 | runway<br>catalog |  
+| bip_39_word_new_br3 | runway<br>catalog<br>exist |  
+| bip_39_word_new_br4 | runway<br>catalog<br>exist<br>obey |  
+| bip_39_word_new_br5 | runway<br>catalog<br>exist<br>obey<br>enforce |  
+| bip_39_word_new_br6 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy |  
+| bip_39_word_new_br7 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake |  
+| bip_39_word_new_br8 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage |  
+| bip_39_word_new_br9 | runway<br>catalog<br>exist<br>obey<br>enforce<br>energy<br>mistake<br>wage<br>frame |  
+| bip_39_word_new_line1 | runway |  
+| bip_39_word_new_line10 | runway
+catalog
+exist
+obey
+enforce
+energy
+mistake
+wage
+frame
+egg |  
+| bip_39_word_new_line11 | runway
+catalog
+exist
+obey
+enforce
+energy
+mistake
+wage
+frame
+egg
+awake |  
+| bip_39_word_new_line12 | runway
+catalog
+exist
+obey
+enforce
+energy
+mistake
+wage
+frame
+egg
+awake
+actual |  
+| bip_39_word_new_line2 | runway
+catalog |  
+| bip_39_word_new_line3 | runway
+catalog
+exist |  
+| bip_39_word_new_line4 | runway
+catalog
+exist
+obey |  
+| bip_39_word_new_line5 | runway
+catalog
+exist
+obey
+enforce |  
+| bip_39_word_new_line6 | runway
+catalog
+exist
+obey
+enforce
+energy |  
+| bip_39_word_new_line7 | runway
+catalog
+exist
+obey
+enforce
+energy
+mistake |  
+| bip_39_word_new_line8 | runway
+catalog
+exist
+obey
+enforce
+energy
+mistake
+wage |  
+| bip_39_word_new_line9 | runway
+catalog
+exist
+obey
+enforce
+energy
+mistake
+wage
+frame |  
+| bip_39_word_space_0 | ['runway', 'catalog', 'exist', 'obey', 'enforce', 'energy', 'mistake', 'wage', 'frame', 'egg', 'awake', 'actual'] |  
+| bip_39_word_space_1 | runway |  
+| bip_39_word_space_10 | runway catalog exist obey enforce energy mistake wage frame egg |  
+| bip_39_word_space_11 | runway catalog exist obey enforce energy mistake wage frame egg awake |  
+| bip_39_word_space_12 | runway catalog exist obey enforce energy mistake wage frame egg awake actual |  
+| bip_39_word_space_2 | runway catalog |  
+| bip_39_word_space_3 | runway catalog exist |  
+| bip_39_word_space_4 | runway catalog exist obey |  
+| bip_39_word_space_5 | runway catalog exist obey enforce |  
+| bip_39_word_space_6 | runway catalog exist obey enforce energy |  
+| bip_39_word_space_7 | runway catalog exist obey enforce energy mistake |  
+| bip_39_word_space_8 | runway catalog exist obey enforce energy mistake wage |  
+| bip_39_word_space_9 | runway catalog exist obey enforce energy mistake wage frame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

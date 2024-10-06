@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 0
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: point siege
+  * bip 39 word 3: point siege pretty
+  * bip 39 word: point siege pretty evil damp noble extra vintage wedding over because auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | point |  
+| bip_39_word_new_br10 | point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding<br>over |  
+| bip_39_word_new_br11 | point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding<br>over<br>because |  
+| bip_39_word_new_br12 | point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding<br>over<br>because<br>auction |  
+| bip_39_word_new_br2 | point<br>siege |  
+| bip_39_word_new_br3 | point<br>siege<br>pretty |  
+| bip_39_word_new_br4 | point<br>siege<br>pretty<br>evil |  
+| bip_39_word_new_br5 | point<br>siege<br>pretty<br>evil<br>damp |  
+| bip_39_word_new_br6 | point<br>siege<br>pretty<br>evil<br>damp<br>noble |  
+| bip_39_word_new_br7 | point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra |  
+| bip_39_word_new_br8 | point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage |  
+| bip_39_word_new_br9 | point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding |  
+| bip_39_word_new_line1 | point |  
+| bip_39_word_new_line10 | point
+siege
+pretty
+evil
+damp
+noble
+extra
+vintage
+wedding
+over |  
+| bip_39_word_new_line11 | point
+siege
+pretty
+evil
+damp
+noble
+extra
+vintage
+wedding
+over
+because |  
+| bip_39_word_new_line12 | point
+siege
+pretty
+evil
+damp
+noble
+extra
+vintage
+wedding
+over
+because
+auction |  
+| bip_39_word_new_line2 | point
+siege |  
+| bip_39_word_new_line3 | point
+siege
+pretty |  
+| bip_39_word_new_line4 | point
+siege
+pretty
+evil |  
+| bip_39_word_new_line5 | point
+siege
+pretty
+evil
+damp |  
+| bip_39_word_new_line6 | point
+siege
+pretty
+evil
+damp
+noble |  
+| bip_39_word_new_line7 | point
+siege
+pretty
+evil
+damp
+noble
+extra |  
+| bip_39_word_new_line8 | point
+siege
+pretty
+evil
+damp
+noble
+extra
+vintage |  
+| bip_39_word_new_line9 | point
+siege
+pretty
+evil
+damp
+noble
+extra
+vintage
+wedding |  
+| bip_39_word_space_0 | ['point', 'siege', 'pretty', 'evil', 'damp', 'noble', 'extra', 'vintage', 'wedding', 'over', 'because', 'auction'] |  
+| bip_39_word_space_1 | point |  
+| bip_39_word_space_10 | point siege pretty evil damp noble extra vintage wedding over |  
+| bip_39_word_space_11 | point siege pretty evil damp noble extra vintage wedding over because |  
+| bip_39_word_space_12 | point siege pretty evil damp noble extra vintage wedding over because auction |  
+| bip_39_word_space_2 | point siege |  
+| bip_39_word_space_3 | point siege pretty |  
+| bip_39_word_space_4 | point siege pretty evil |  
+| bip_39_word_space_5 | point siege pretty evil damp |  
+| bip_39_word_space_6 | point siege pretty evil damp noble |  
+| bip_39_word_space_7 | point siege pretty evil damp noble extra |  
+| bip_39_word_space_8 | point siege pretty evil damp noble extra vintage |  
+| bip_39_word_space_9 | point siege pretty evil damp noble extra vintage wedding |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

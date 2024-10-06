@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: idle easy
+  * bip 39 word 3: idle easy vague
+  * bip 39 word: idle easy vague must mushroom promote size glare mistake danger reflect august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | idle |  
+| bip_39_word_new_br10 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote<br>size<br>glare<br>mistake<br>danger |  
+| bip_39_word_new_br11 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote<br>size<br>glare<br>mistake<br>danger<br>reflect |  
+| bip_39_word_new_br12 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote<br>size<br>glare<br>mistake<br>danger<br>reflect<br>august |  
+| bip_39_word_new_br2 | idle<br>easy |  
+| bip_39_word_new_br3 | idle<br>easy<br>vague |  
+| bip_39_word_new_br4 | idle<br>easy<br>vague<br>must |  
+| bip_39_word_new_br5 | idle<br>easy<br>vague<br>must<br>mushroom |  
+| bip_39_word_new_br6 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote |  
+| bip_39_word_new_br7 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote<br>size |  
+| bip_39_word_new_br8 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote<br>size<br>glare |  
+| bip_39_word_new_br9 | idle<br>easy<br>vague<br>must<br>mushroom<br>promote<br>size<br>glare<br>mistake |  
+| bip_39_word_new_line1 | idle |  
+| bip_39_word_new_line10 | idle
+easy
+vague
+must
+mushroom
+promote
+size
+glare
+mistake
+danger |  
+| bip_39_word_new_line11 | idle
+easy
+vague
+must
+mushroom
+promote
+size
+glare
+mistake
+danger
+reflect |  
+| bip_39_word_new_line12 | idle
+easy
+vague
+must
+mushroom
+promote
+size
+glare
+mistake
+danger
+reflect
+august |  
+| bip_39_word_new_line2 | idle
+easy |  
+| bip_39_word_new_line3 | idle
+easy
+vague |  
+| bip_39_word_new_line4 | idle
+easy
+vague
+must |  
+| bip_39_word_new_line5 | idle
+easy
+vague
+must
+mushroom |  
+| bip_39_word_new_line6 | idle
+easy
+vague
+must
+mushroom
+promote |  
+| bip_39_word_new_line7 | idle
+easy
+vague
+must
+mushroom
+promote
+size |  
+| bip_39_word_new_line8 | idle
+easy
+vague
+must
+mushroom
+promote
+size
+glare |  
+| bip_39_word_new_line9 | idle
+easy
+vague
+must
+mushroom
+promote
+size
+glare
+mistake |  
+| bip_39_word_space_0 | ['idle', 'easy', 'vague', 'must', 'mushroom', 'promote', 'size', 'glare', 'mistake', 'danger', 'reflect', 'august'] |  
+| bip_39_word_space_1 | idle |  
+| bip_39_word_space_10 | idle easy vague must mushroom promote size glare mistake danger |  
+| bip_39_word_space_11 | idle easy vague must mushroom promote size glare mistake danger reflect |  
+| bip_39_word_space_12 | idle easy vague must mushroom promote size glare mistake danger reflect august |  
+| bip_39_word_space_2 | idle easy |  
+| bip_39_word_space_3 | idle easy vague |  
+| bip_39_word_space_4 | idle easy vague must |  
+| bip_39_word_space_5 | idle easy vague must mushroom |  
+| bip_39_word_space_6 | idle easy vague must mushroom promote |  
+| bip_39_word_space_7 | idle easy vague must mushroom promote size |  
+| bip_39_word_space_8 | idle easy vague must mushroom promote size glare |  
+| bip_39_word_space_9 | idle easy vague must mushroom promote size glare mistake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

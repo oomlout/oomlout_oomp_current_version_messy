@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: super harvest
+  * bip 39 word 3: super harvest ramp
+  * bip 39 word: super harvest ramp process gaze resource glad blood strong thumb ready armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | super |  
+| bip_39_word_new_br10 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource<br>glad<br>blood<br>strong<br>thumb |  
+| bip_39_word_new_br11 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource<br>glad<br>blood<br>strong<br>thumb<br>ready |  
+| bip_39_word_new_br12 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource<br>glad<br>blood<br>strong<br>thumb<br>ready<br>armor |  
+| bip_39_word_new_br2 | super<br>harvest |  
+| bip_39_word_new_br3 | super<br>harvest<br>ramp |  
+| bip_39_word_new_br4 | super<br>harvest<br>ramp<br>process |  
+| bip_39_word_new_br5 | super<br>harvest<br>ramp<br>process<br>gaze |  
+| bip_39_word_new_br6 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource |  
+| bip_39_word_new_br7 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource<br>glad |  
+| bip_39_word_new_br8 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource<br>glad<br>blood |  
+| bip_39_word_new_br9 | super<br>harvest<br>ramp<br>process<br>gaze<br>resource<br>glad<br>blood<br>strong |  
+| bip_39_word_new_line1 | super |  
+| bip_39_word_new_line10 | super
+harvest
+ramp
+process
+gaze
+resource
+glad
+blood
+strong
+thumb |  
+| bip_39_word_new_line11 | super
+harvest
+ramp
+process
+gaze
+resource
+glad
+blood
+strong
+thumb
+ready |  
+| bip_39_word_new_line12 | super
+harvest
+ramp
+process
+gaze
+resource
+glad
+blood
+strong
+thumb
+ready
+armor |  
+| bip_39_word_new_line2 | super
+harvest |  
+| bip_39_word_new_line3 | super
+harvest
+ramp |  
+| bip_39_word_new_line4 | super
+harvest
+ramp
+process |  
+| bip_39_word_new_line5 | super
+harvest
+ramp
+process
+gaze |  
+| bip_39_word_new_line6 | super
+harvest
+ramp
+process
+gaze
+resource |  
+| bip_39_word_new_line7 | super
+harvest
+ramp
+process
+gaze
+resource
+glad |  
+| bip_39_word_new_line8 | super
+harvest
+ramp
+process
+gaze
+resource
+glad
+blood |  
+| bip_39_word_new_line9 | super
+harvest
+ramp
+process
+gaze
+resource
+glad
+blood
+strong |  
+| bip_39_word_space_0 | ['super', 'harvest', 'ramp', 'process', 'gaze', 'resource', 'glad', 'blood', 'strong', 'thumb', 'ready', 'armor'] |  
+| bip_39_word_space_1 | super |  
+| bip_39_word_space_10 | super harvest ramp process gaze resource glad blood strong thumb |  
+| bip_39_word_space_11 | super harvest ramp process gaze resource glad blood strong thumb ready |  
+| bip_39_word_space_12 | super harvest ramp process gaze resource glad blood strong thumb ready armor |  
+| bip_39_word_space_2 | super harvest |  
+| bip_39_word_space_3 | super harvest ramp |  
+| bip_39_word_space_4 | super harvest ramp process |  
+| bip_39_word_space_5 | super harvest ramp process gaze |  
+| bip_39_word_space_6 | super harvest ramp process gaze resource |  
+| bip_39_word_space_7 | super harvest ramp process gaze resource glad |  
+| bip_39_word_space_8 | super harvest ramp process gaze resource glad blood |  
+| bip_39_word_space_9 | super harvest ramp process gaze resource glad blood strong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

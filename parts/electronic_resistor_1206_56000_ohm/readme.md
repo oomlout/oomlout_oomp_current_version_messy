@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: protect skull
+  * bip 39 word 3: protect skull predict
+  * bip 39 word: protect skull predict always swarm train hard client quick soap seek acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | protect |  
+| bip_39_word_new_br10 | protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick<br>soap |  
+| bip_39_word_new_br11 | protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick<br>soap<br>seek |  
+| bip_39_word_new_br12 | protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick<br>soap<br>seek<br>acid |  
+| bip_39_word_new_br2 | protect<br>skull |  
+| bip_39_word_new_br3 | protect<br>skull<br>predict |  
+| bip_39_word_new_br4 | protect<br>skull<br>predict<br>always |  
+| bip_39_word_new_br5 | protect<br>skull<br>predict<br>always<br>swarm |  
+| bip_39_word_new_br6 | protect<br>skull<br>predict<br>always<br>swarm<br>train |  
+| bip_39_word_new_br7 | protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard |  
+| bip_39_word_new_br8 | protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client |  
+| bip_39_word_new_br9 | protect<br>skull<br>predict<br>always<br>swarm<br>train<br>hard<br>client<br>quick |  
+| bip_39_word_new_line1 | protect |  
+| bip_39_word_new_line10 | protect
+skull
+predict
+always
+swarm
+train
+hard
+client
+quick
+soap |  
+| bip_39_word_new_line11 | protect
+skull
+predict
+always
+swarm
+train
+hard
+client
+quick
+soap
+seek |  
+| bip_39_word_new_line12 | protect
+skull
+predict
+always
+swarm
+train
+hard
+client
+quick
+soap
+seek
+acid |  
+| bip_39_word_new_line2 | protect
+skull |  
+| bip_39_word_new_line3 | protect
+skull
+predict |  
+| bip_39_word_new_line4 | protect
+skull
+predict
+always |  
+| bip_39_word_new_line5 | protect
+skull
+predict
+always
+swarm |  
+| bip_39_word_new_line6 | protect
+skull
+predict
+always
+swarm
+train |  
+| bip_39_word_new_line7 | protect
+skull
+predict
+always
+swarm
+train
+hard |  
+| bip_39_word_new_line8 | protect
+skull
+predict
+always
+swarm
+train
+hard
+client |  
+| bip_39_word_new_line9 | protect
+skull
+predict
+always
+swarm
+train
+hard
+client
+quick |  
+| bip_39_word_space_0 | ['protect', 'skull', 'predict', 'always', 'swarm', 'train', 'hard', 'client', 'quick', 'soap', 'seek', 'acid'] |  
+| bip_39_word_space_1 | protect |  
+| bip_39_word_space_10 | protect skull predict always swarm train hard client quick soap |  
+| bip_39_word_space_11 | protect skull predict always swarm train hard client quick soap seek |  
+| bip_39_word_space_12 | protect skull predict always swarm train hard client quick soap seek acid |  
+| bip_39_word_space_2 | protect skull |  
+| bip_39_word_space_3 | protect skull predict |  
+| bip_39_word_space_4 | protect skull predict always |  
+| bip_39_word_space_5 | protect skull predict always swarm |  
+| bip_39_word_space_6 | protect skull predict always swarm train |  
+| bip_39_word_space_7 | protect skull predict always swarm train hard |  
+| bip_39_word_space_8 | protect skull predict always swarm train hard client |  
+| bip_39_word_space_9 | protect skull predict always swarm train hard client quick |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

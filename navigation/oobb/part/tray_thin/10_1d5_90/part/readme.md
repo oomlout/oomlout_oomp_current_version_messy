@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fence invite
+  * bip 39 word 3: fence invite thought
+  * bip 39 word: fence invite thought hip coral team afraid monitor large belt pole auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fence |  
+| bip_39_word_new_br10 | fence<br>invite<br>thought<br>hip<br>coral<br>team<br>afraid<br>monitor<br>large<br>belt |  
+| bip_39_word_new_br11 | fence<br>invite<br>thought<br>hip<br>coral<br>team<br>afraid<br>monitor<br>large<br>belt<br>pole |  
+| bip_39_word_new_br12 | fence<br>invite<br>thought<br>hip<br>coral<br>team<br>afraid<br>monitor<br>large<br>belt<br>pole<br>auto |  
+| bip_39_word_new_br2 | fence<br>invite |  
+| bip_39_word_new_br3 | fence<br>invite<br>thought |  
+| bip_39_word_new_br4 | fence<br>invite<br>thought<br>hip |  
+| bip_39_word_new_br5 | fence<br>invite<br>thought<br>hip<br>coral |  
+| bip_39_word_new_br6 | fence<br>invite<br>thought<br>hip<br>coral<br>team |  
+| bip_39_word_new_br7 | fence<br>invite<br>thought<br>hip<br>coral<br>team<br>afraid |  
+| bip_39_word_new_br8 | fence<br>invite<br>thought<br>hip<br>coral<br>team<br>afraid<br>monitor |  
+| bip_39_word_new_br9 | fence<br>invite<br>thought<br>hip<br>coral<br>team<br>afraid<br>monitor<br>large |  
+| bip_39_word_new_line1 | fence |  
+| bip_39_word_new_line10 | fence
+invite
+thought
+hip
+coral
+team
+afraid
+monitor
+large
+belt |  
+| bip_39_word_new_line11 | fence
+invite
+thought
+hip
+coral
+team
+afraid
+monitor
+large
+belt
+pole |  
+| bip_39_word_new_line12 | fence
+invite
+thought
+hip
+coral
+team
+afraid
+monitor
+large
+belt
+pole
+auto |  
+| bip_39_word_new_line2 | fence
+invite |  
+| bip_39_word_new_line3 | fence
+invite
+thought |  
+| bip_39_word_new_line4 | fence
+invite
+thought
+hip |  
+| bip_39_word_new_line5 | fence
+invite
+thought
+hip
+coral |  
+| bip_39_word_new_line6 | fence
+invite
+thought
+hip
+coral
+team |  
+| bip_39_word_new_line7 | fence
+invite
+thought
+hip
+coral
+team
+afraid |  
+| bip_39_word_new_line8 | fence
+invite
+thought
+hip
+coral
+team
+afraid
+monitor |  
+| bip_39_word_new_line9 | fence
+invite
+thought
+hip
+coral
+team
+afraid
+monitor
+large |  
+| bip_39_word_space_0 | ['fence', 'invite', 'thought', 'hip', 'coral', 'team', 'afraid', 'monitor', 'large', 'belt', 'pole', 'auto'] |  
+| bip_39_word_space_1 | fence |  
+| bip_39_word_space_10 | fence invite thought hip coral team afraid monitor large belt |  
+| bip_39_word_space_11 | fence invite thought hip coral team afraid monitor large belt pole |  
+| bip_39_word_space_12 | fence invite thought hip coral team afraid monitor large belt pole auto |  
+| bip_39_word_space_2 | fence invite |  
+| bip_39_word_space_3 | fence invite thought |  
+| bip_39_word_space_4 | fence invite thought hip |  
+| bip_39_word_space_5 | fence invite thought hip coral |  
+| bip_39_word_space_6 | fence invite thought hip coral team |  
+| bip_39_word_space_7 | fence invite thought hip coral team afraid |  
+| bip_39_word_space_8 | fence invite thought hip coral team afraid monitor |  
+| bip_39_word_space_9 | fence invite thought hip coral team afraid monitor large |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: erosion critic
+  * bip 39 word 3: erosion critic heart
+  * bip 39 word: erosion critic heart all asthma sting subject owner area goddess error angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | erosion |  
+| bip_39_word_new_br10 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting<br>subject<br>owner<br>area<br>goddess |  
+| bip_39_word_new_br11 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting<br>subject<br>owner<br>area<br>goddess<br>error |  
+| bip_39_word_new_br12 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting<br>subject<br>owner<br>area<br>goddess<br>error<br>angry |  
+| bip_39_word_new_br2 | erosion<br>critic |  
+| bip_39_word_new_br3 | erosion<br>critic<br>heart |  
+| bip_39_word_new_br4 | erosion<br>critic<br>heart<br>all |  
+| bip_39_word_new_br5 | erosion<br>critic<br>heart<br>all<br>asthma |  
+| bip_39_word_new_br6 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting |  
+| bip_39_word_new_br7 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting<br>subject |  
+| bip_39_word_new_br8 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting<br>subject<br>owner |  
+| bip_39_word_new_br9 | erosion<br>critic<br>heart<br>all<br>asthma<br>sting<br>subject<br>owner<br>area |  
+| bip_39_word_new_line1 | erosion |  
+| bip_39_word_new_line10 | erosion
+critic
+heart
+all
+asthma
+sting
+subject
+owner
+area
+goddess |  
+| bip_39_word_new_line11 | erosion
+critic
+heart
+all
+asthma
+sting
+subject
+owner
+area
+goddess
+error |  
+| bip_39_word_new_line12 | erosion
+critic
+heart
+all
+asthma
+sting
+subject
+owner
+area
+goddess
+error
+angry |  
+| bip_39_word_new_line2 | erosion
+critic |  
+| bip_39_word_new_line3 | erosion
+critic
+heart |  
+| bip_39_word_new_line4 | erosion
+critic
+heart
+all |  
+| bip_39_word_new_line5 | erosion
+critic
+heart
+all
+asthma |  
+| bip_39_word_new_line6 | erosion
+critic
+heart
+all
+asthma
+sting |  
+| bip_39_word_new_line7 | erosion
+critic
+heart
+all
+asthma
+sting
+subject |  
+| bip_39_word_new_line8 | erosion
+critic
+heart
+all
+asthma
+sting
+subject
+owner |  
+| bip_39_word_new_line9 | erosion
+critic
+heart
+all
+asthma
+sting
+subject
+owner
+area |  
+| bip_39_word_space_0 | ['erosion', 'critic', 'heart', 'all', 'asthma', 'sting', 'subject', 'owner', 'area', 'goddess', 'error', 'angry'] |  
+| bip_39_word_space_1 | erosion |  
+| bip_39_word_space_10 | erosion critic heart all asthma sting subject owner area goddess |  
+| bip_39_word_space_11 | erosion critic heart all asthma sting subject owner area goddess error |  
+| bip_39_word_space_12 | erosion critic heart all asthma sting subject owner area goddess error angry |  
+| bip_39_word_space_2 | erosion critic |  
+| bip_39_word_space_3 | erosion critic heart |  
+| bip_39_word_space_4 | erosion critic heart all |  
+| bip_39_word_space_5 | erosion critic heart all asthma |  
+| bip_39_word_space_6 | erosion critic heart all asthma sting |  
+| bip_39_word_space_7 | erosion critic heart all asthma sting subject |  
+| bip_39_word_space_8 | erosion critic heart all asthma sting subject owner |  
+| bip_39_word_space_9 | erosion critic heart all asthma sting subject owner area |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

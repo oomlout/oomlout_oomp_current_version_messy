@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: royal august
+  * bip 39 word 3: royal august expire
+  * bip 39 word: royal august expire keep hobby smile useful few hollow weasel scrap accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | royal |  
+| bip_39_word_new_br10 | royal<br>august<br>expire<br>keep<br>hobby<br>smile<br>useful<br>few<br>hollow<br>weasel |  
+| bip_39_word_new_br11 | royal<br>august<br>expire<br>keep<br>hobby<br>smile<br>useful<br>few<br>hollow<br>weasel<br>scrap |  
+| bip_39_word_new_br12 | royal<br>august<br>expire<br>keep<br>hobby<br>smile<br>useful<br>few<br>hollow<br>weasel<br>scrap<br>accuse |  
+| bip_39_word_new_br2 | royal<br>august |  
+| bip_39_word_new_br3 | royal<br>august<br>expire |  
+| bip_39_word_new_br4 | royal<br>august<br>expire<br>keep |  
+| bip_39_word_new_br5 | royal<br>august<br>expire<br>keep<br>hobby |  
+| bip_39_word_new_br6 | royal<br>august<br>expire<br>keep<br>hobby<br>smile |  
+| bip_39_word_new_br7 | royal<br>august<br>expire<br>keep<br>hobby<br>smile<br>useful |  
+| bip_39_word_new_br8 | royal<br>august<br>expire<br>keep<br>hobby<br>smile<br>useful<br>few |  
+| bip_39_word_new_br9 | royal<br>august<br>expire<br>keep<br>hobby<br>smile<br>useful<br>few<br>hollow |  
+| bip_39_word_new_line1 | royal |  
+| bip_39_word_new_line10 | royal
+august
+expire
+keep
+hobby
+smile
+useful
+few
+hollow
+weasel |  
+| bip_39_word_new_line11 | royal
+august
+expire
+keep
+hobby
+smile
+useful
+few
+hollow
+weasel
+scrap |  
+| bip_39_word_new_line12 | royal
+august
+expire
+keep
+hobby
+smile
+useful
+few
+hollow
+weasel
+scrap
+accuse |  
+| bip_39_word_new_line2 | royal
+august |  
+| bip_39_word_new_line3 | royal
+august
+expire |  
+| bip_39_word_new_line4 | royal
+august
+expire
+keep |  
+| bip_39_word_new_line5 | royal
+august
+expire
+keep
+hobby |  
+| bip_39_word_new_line6 | royal
+august
+expire
+keep
+hobby
+smile |  
+| bip_39_word_new_line7 | royal
+august
+expire
+keep
+hobby
+smile
+useful |  
+| bip_39_word_new_line8 | royal
+august
+expire
+keep
+hobby
+smile
+useful
+few |  
+| bip_39_word_new_line9 | royal
+august
+expire
+keep
+hobby
+smile
+useful
+few
+hollow |  
+| bip_39_word_space_0 | ['royal', 'august', 'expire', 'keep', 'hobby', 'smile', 'useful', 'few', 'hollow', 'weasel', 'scrap', 'accuse'] |  
+| bip_39_word_space_1 | royal |  
+| bip_39_word_space_10 | royal august expire keep hobby smile useful few hollow weasel |  
+| bip_39_word_space_11 | royal august expire keep hobby smile useful few hollow weasel scrap |  
+| bip_39_word_space_12 | royal august expire keep hobby smile useful few hollow weasel scrap accuse |  
+| bip_39_word_space_2 | royal august |  
+| bip_39_word_space_3 | royal august expire |  
+| bip_39_word_space_4 | royal august expire keep |  
+| bip_39_word_space_5 | royal august expire keep hobby |  
+| bip_39_word_space_6 | royal august expire keep hobby smile |  
+| bip_39_word_space_7 | royal august expire keep hobby smile useful |  
+| bip_39_word_space_8 | royal august expire keep hobby smile useful few |  
+| bip_39_word_space_9 | royal august expire keep hobby smile useful few hollow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

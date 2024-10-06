@@ -1,3 +1,187 @@
+bip_39_word_new_br1: nominee
+bip_39_word_new_br10: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss<br>ritual<br>primary<br>noodle<br>invest
+bip_39_word_new_br11: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss<br>ritual<br>primary<br>noodle<br>invest<br>tobacco
+bip_39_word_new_br12: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss<br>ritual<br>primary<br>noodle<br>invest<br>tobacco<br>apart
+bip_39_word_new_br2: nominee<br>hotel
+bip_39_word_new_br3: nominee<br>hotel<br>gravity
+bip_39_word_new_br4: nominee<br>hotel<br>gravity<br>any
+bip_39_word_new_br5: nominee<br>hotel<br>gravity<br>any<br>thumb
+bip_39_word_new_br6: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss
+bip_39_word_new_br7: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss<br>ritual
+bip_39_word_new_br8: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss<br>ritual<br>primary
+bip_39_word_new_br9: nominee<br>hotel<br>gravity<br>any<br>thumb<br>dismiss<br>ritual<br>primary<br>noodle
+bip_39_word_new_line1: nominee
+bip_39_word_new_line10: 'nominee
+
+  hotel
+
+  gravity
+
+  any
+
+  thumb
+
+  dismiss
+
+  ritual
+
+  primary
+
+  noodle
+
+  invest'
+bip_39_word_new_line11: 'nominee
+
+  hotel
+
+  gravity
+
+  any
+
+  thumb
+
+  dismiss
+
+  ritual
+
+  primary
+
+  noodle
+
+  invest
+
+  tobacco'
+bip_39_word_new_line12: 'nominee
+
+  hotel
+
+  gravity
+
+  any
+
+  thumb
+
+  dismiss
+
+  ritual
+
+  primary
+
+  noodle
+
+  invest
+
+  tobacco
+
+  apart'
+bip_39_word_new_line2: 'nominee
+
+  hotel'
+bip_39_word_new_line3: 'nominee
+
+  hotel
+
+  gravity'
+bip_39_word_new_line4: 'nominee
+
+  hotel
+
+  gravity
+
+  any'
+bip_39_word_new_line5: 'nominee
+
+  hotel
+
+  gravity
+
+  any
+
+  thumb'
+bip_39_word_new_line6: 'nominee
+
+  hotel
+
+  gravity
+
+  any
+
+  thumb
+
+  dismiss'
+bip_39_word_new_line7: 'nominee
+
+  hotel
+
+  gravity
+
+  any
+
+  thumb
+
+  dismiss
+
+  ritual'
+bip_39_word_new_line8: 'nominee
+
+  hotel
+
+  gravity
+
+  any
+
+  thumb
+
+  dismiss
+
+  ritual
+
+  primary'
+bip_39_word_new_line9: 'nominee
+
+  hotel
+
+  gravity
+
+  any
+
+  thumb
+
+  dismiss
+
+  ritual
+
+  primary
+
+  noodle'
+bip_39_word_space_0:
+- nominee
+- hotel
+- gravity
+- any
+- thumb
+- dismiss
+- ritual
+- primary
+- noodle
+- invest
+- tobacco
+- apart
+bip_39_word_space_1: nominee
+bip_39_word_space_10: nominee hotel gravity any thumb dismiss ritual primary noodle
+  invest
+bip_39_word_space_11: nominee hotel gravity any thumb dismiss ritual primary noodle
+  invest tobacco
+bip_39_word_space_12: nominee hotel gravity any thumb dismiss ritual primary noodle
+  invest tobacco apart
+bip_39_word_space_2: nominee hotel
+bip_39_word_space_3: nominee hotel gravity
+bip_39_word_space_4: nominee hotel gravity any
+bip_39_word_space_5: nominee hotel gravity any thumb
+bip_39_word_space_6: nominee hotel gravity any thumb dismiss
+bip_39_word_space_7: nominee hotel gravity any thumb dismiss ritual
+bip_39_word_space_8: nominee hotel gravity any thumb dismiss ritual primary
+bip_39_word_space_9: nominee hotel gravity any thumb dismiss ritual primary noodle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

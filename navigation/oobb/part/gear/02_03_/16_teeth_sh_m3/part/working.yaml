@@ -1,3 +1,186 @@
+bip_39_word_new_br1: item
+bip_39_word_new_br10: item<br>soccer<br>push<br>peanut<br>pizza<br>notable<br>abstract<br>claw<br>boil<br>appear
+bip_39_word_new_br11: item<br>soccer<br>push<br>peanut<br>pizza<br>notable<br>abstract<br>claw<br>boil<br>appear<br>vapor
+bip_39_word_new_br12: item<br>soccer<br>push<br>peanut<br>pizza<br>notable<br>abstract<br>claw<br>boil<br>appear<br>vapor<br>across
+bip_39_word_new_br2: item<br>soccer
+bip_39_word_new_br3: item<br>soccer<br>push
+bip_39_word_new_br4: item<br>soccer<br>push<br>peanut
+bip_39_word_new_br5: item<br>soccer<br>push<br>peanut<br>pizza
+bip_39_word_new_br6: item<br>soccer<br>push<br>peanut<br>pizza<br>notable
+bip_39_word_new_br7: item<br>soccer<br>push<br>peanut<br>pizza<br>notable<br>abstract
+bip_39_word_new_br8: item<br>soccer<br>push<br>peanut<br>pizza<br>notable<br>abstract<br>claw
+bip_39_word_new_br9: item<br>soccer<br>push<br>peanut<br>pizza<br>notable<br>abstract<br>claw<br>boil
+bip_39_word_new_line1: item
+bip_39_word_new_line10: 'item
+
+  soccer
+
+  push
+
+  peanut
+
+  pizza
+
+  notable
+
+  abstract
+
+  claw
+
+  boil
+
+  appear'
+bip_39_word_new_line11: 'item
+
+  soccer
+
+  push
+
+  peanut
+
+  pizza
+
+  notable
+
+  abstract
+
+  claw
+
+  boil
+
+  appear
+
+  vapor'
+bip_39_word_new_line12: 'item
+
+  soccer
+
+  push
+
+  peanut
+
+  pizza
+
+  notable
+
+  abstract
+
+  claw
+
+  boil
+
+  appear
+
+  vapor
+
+  across'
+bip_39_word_new_line2: 'item
+
+  soccer'
+bip_39_word_new_line3: 'item
+
+  soccer
+
+  push'
+bip_39_word_new_line4: 'item
+
+  soccer
+
+  push
+
+  peanut'
+bip_39_word_new_line5: 'item
+
+  soccer
+
+  push
+
+  peanut
+
+  pizza'
+bip_39_word_new_line6: 'item
+
+  soccer
+
+  push
+
+  peanut
+
+  pizza
+
+  notable'
+bip_39_word_new_line7: 'item
+
+  soccer
+
+  push
+
+  peanut
+
+  pizza
+
+  notable
+
+  abstract'
+bip_39_word_new_line8: 'item
+
+  soccer
+
+  push
+
+  peanut
+
+  pizza
+
+  notable
+
+  abstract
+
+  claw'
+bip_39_word_new_line9: 'item
+
+  soccer
+
+  push
+
+  peanut
+
+  pizza
+
+  notable
+
+  abstract
+
+  claw
+
+  boil'
+bip_39_word_space_0:
+- item
+- soccer
+- push
+- peanut
+- pizza
+- notable
+- abstract
+- claw
+- boil
+- appear
+- vapor
+- across
+bip_39_word_space_1: item
+bip_39_word_space_10: item soccer push peanut pizza notable abstract claw boil appear
+bip_39_word_space_11: item soccer push peanut pizza notable abstract claw boil appear
+  vapor
+bip_39_word_space_12: item soccer push peanut pizza notable abstract claw boil appear
+  vapor across
+bip_39_word_space_2: item soccer
+bip_39_word_space_3: item soccer push
+bip_39_word_space_4: item soccer push peanut
+bip_39_word_space_5: item soccer push peanut pizza
+bip_39_word_space_6: item soccer push peanut pizza notable
+bip_39_word_space_7: item soccer push peanut pizza notable abstract
+bip_39_word_space_8: item soccer push peanut pizza notable abstract claw
+bip_39_word_space_9: item soccer push peanut pizza notable abstract claw boil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

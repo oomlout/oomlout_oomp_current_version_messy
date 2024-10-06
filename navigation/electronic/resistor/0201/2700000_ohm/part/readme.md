@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: phrase ensure
+  * bip 39 word 3: phrase ensure spread
+  * bip 39 word: phrase ensure spread panic voice clarify woman pause affair cake hold among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | phrase |  
+| bip_39_word_new_br10 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair<br>cake |  
+| bip_39_word_new_br11 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair<br>cake<br>hold |  
+| bip_39_word_new_br12 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair<br>cake<br>hold<br>among |  
+| bip_39_word_new_br2 | phrase<br>ensure |  
+| bip_39_word_new_br3 | phrase<br>ensure<br>spread |  
+| bip_39_word_new_br4 | phrase<br>ensure<br>spread<br>panic |  
+| bip_39_word_new_br5 | phrase<br>ensure<br>spread<br>panic<br>voice |  
+| bip_39_word_new_br6 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify |  
+| bip_39_word_new_br7 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman |  
+| bip_39_word_new_br8 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause |  
+| bip_39_word_new_br9 | phrase<br>ensure<br>spread<br>panic<br>voice<br>clarify<br>woman<br>pause<br>affair |  
+| bip_39_word_new_line1 | phrase |  
+| bip_39_word_new_line10 | phrase
+ensure
+spread
+panic
+voice
+clarify
+woman
+pause
+affair
+cake |  
+| bip_39_word_new_line11 | phrase
+ensure
+spread
+panic
+voice
+clarify
+woman
+pause
+affair
+cake
+hold |  
+| bip_39_word_new_line12 | phrase
+ensure
+spread
+panic
+voice
+clarify
+woman
+pause
+affair
+cake
+hold
+among |  
+| bip_39_word_new_line2 | phrase
+ensure |  
+| bip_39_word_new_line3 | phrase
+ensure
+spread |  
+| bip_39_word_new_line4 | phrase
+ensure
+spread
+panic |  
+| bip_39_word_new_line5 | phrase
+ensure
+spread
+panic
+voice |  
+| bip_39_word_new_line6 | phrase
+ensure
+spread
+panic
+voice
+clarify |  
+| bip_39_word_new_line7 | phrase
+ensure
+spread
+panic
+voice
+clarify
+woman |  
+| bip_39_word_new_line8 | phrase
+ensure
+spread
+panic
+voice
+clarify
+woman
+pause |  
+| bip_39_word_new_line9 | phrase
+ensure
+spread
+panic
+voice
+clarify
+woman
+pause
+affair |  
+| bip_39_word_space_0 | ['phrase', 'ensure', 'spread', 'panic', 'voice', 'clarify', 'woman', 'pause', 'affair', 'cake', 'hold', 'among'] |  
+| bip_39_word_space_1 | phrase |  
+| bip_39_word_space_10 | phrase ensure spread panic voice clarify woman pause affair cake |  
+| bip_39_word_space_11 | phrase ensure spread panic voice clarify woman pause affair cake hold |  
+| bip_39_word_space_12 | phrase ensure spread panic voice clarify woman pause affair cake hold among |  
+| bip_39_word_space_2 | phrase ensure |  
+| bip_39_word_space_3 | phrase ensure spread |  
+| bip_39_word_space_4 | phrase ensure spread panic |  
+| bip_39_word_space_5 | phrase ensure spread panic voice |  
+| bip_39_word_space_6 | phrase ensure spread panic voice clarify |  
+| bip_39_word_space_7 | phrase ensure spread panic voice clarify woman |  
+| bip_39_word_space_8 | phrase ensure spread panic voice clarify woman pause |  
+| bip_39_word_space_9 | phrase ensure spread panic voice clarify woman pause affair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

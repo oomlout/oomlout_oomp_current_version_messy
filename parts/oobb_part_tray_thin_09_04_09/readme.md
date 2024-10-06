@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shop mean
+  * bip 39 word 3: shop mean curious
+  * bip 39 word: shop mean curious exotic inspire lend beyond violin crystal jaguar labor aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shop |  
+| bip_39_word_new_br10 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend<br>beyond<br>violin<br>crystal<br>jaguar |  
+| bip_39_word_new_br11 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend<br>beyond<br>violin<br>crystal<br>jaguar<br>labor |  
+| bip_39_word_new_br12 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend<br>beyond<br>violin<br>crystal<br>jaguar<br>labor<br>aunt |  
+| bip_39_word_new_br2 | shop<br>mean |  
+| bip_39_word_new_br3 | shop<br>mean<br>curious |  
+| bip_39_word_new_br4 | shop<br>mean<br>curious<br>exotic |  
+| bip_39_word_new_br5 | shop<br>mean<br>curious<br>exotic<br>inspire |  
+| bip_39_word_new_br6 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend |  
+| bip_39_word_new_br7 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend<br>beyond |  
+| bip_39_word_new_br8 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend<br>beyond<br>violin |  
+| bip_39_word_new_br9 | shop<br>mean<br>curious<br>exotic<br>inspire<br>lend<br>beyond<br>violin<br>crystal |  
+| bip_39_word_new_line1 | shop |  
+| bip_39_word_new_line10 | shop
+mean
+curious
+exotic
+inspire
+lend
+beyond
+violin
+crystal
+jaguar |  
+| bip_39_word_new_line11 | shop
+mean
+curious
+exotic
+inspire
+lend
+beyond
+violin
+crystal
+jaguar
+labor |  
+| bip_39_word_new_line12 | shop
+mean
+curious
+exotic
+inspire
+lend
+beyond
+violin
+crystal
+jaguar
+labor
+aunt |  
+| bip_39_word_new_line2 | shop
+mean |  
+| bip_39_word_new_line3 | shop
+mean
+curious |  
+| bip_39_word_new_line4 | shop
+mean
+curious
+exotic |  
+| bip_39_word_new_line5 | shop
+mean
+curious
+exotic
+inspire |  
+| bip_39_word_new_line6 | shop
+mean
+curious
+exotic
+inspire
+lend |  
+| bip_39_word_new_line7 | shop
+mean
+curious
+exotic
+inspire
+lend
+beyond |  
+| bip_39_word_new_line8 | shop
+mean
+curious
+exotic
+inspire
+lend
+beyond
+violin |  
+| bip_39_word_new_line9 | shop
+mean
+curious
+exotic
+inspire
+lend
+beyond
+violin
+crystal |  
+| bip_39_word_space_0 | ['shop', 'mean', 'curious', 'exotic', 'inspire', 'lend', 'beyond', 'violin', 'crystal', 'jaguar', 'labor', 'aunt'] |  
+| bip_39_word_space_1 | shop |  
+| bip_39_word_space_10 | shop mean curious exotic inspire lend beyond violin crystal jaguar |  
+| bip_39_word_space_11 | shop mean curious exotic inspire lend beyond violin crystal jaguar labor |  
+| bip_39_word_space_12 | shop mean curious exotic inspire lend beyond violin crystal jaguar labor aunt |  
+| bip_39_word_space_2 | shop mean |  
+| bip_39_word_space_3 | shop mean curious |  
+| bip_39_word_space_4 | shop mean curious exotic |  
+| bip_39_word_space_5 | shop mean curious exotic inspire |  
+| bip_39_word_space_6 | shop mean curious exotic inspire lend |  
+| bip_39_word_space_7 | shop mean curious exotic inspire lend beyond |  
+| bip_39_word_space_8 | shop mean curious exotic inspire lend beyond violin |  
+| bip_39_word_space_9 | shop mean curious exotic inspire lend beyond violin crystal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

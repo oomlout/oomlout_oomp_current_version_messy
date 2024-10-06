@@ -1,3 +1,187 @@
+bip_39_word_new_br1: wait
+bip_39_word_new_br10: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action
+bip_39_word_new_br11: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous
+bip_39_word_new_br12: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous<br>arch
+bip_39_word_new_br2: wait<br>chief
+bip_39_word_new_br3: wait<br>chief<br>flower
+bip_39_word_new_br4: wait<br>chief<br>flower<br>clutch
+bip_39_word_new_br5: wait<br>chief<br>flower<br>clutch<br>library
+bip_39_word_new_br6: wait<br>chief<br>flower<br>clutch<br>library<br>digital
+bip_39_word_new_br7: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother
+bip_39_word_new_br8: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor
+bip_39_word_new_br9: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain
+bip_39_word_new_line1: wait
+bip_39_word_new_line10: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor
+
+  grain
+
+  action'
+bip_39_word_new_line11: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor
+
+  grain
+
+  action
+
+  jealous'
+bip_39_word_new_line12: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor
+
+  grain
+
+  action
+
+  jealous
+
+  arch'
+bip_39_word_new_line2: 'wait
+
+  chief'
+bip_39_word_new_line3: 'wait
+
+  chief
+
+  flower'
+bip_39_word_new_line4: 'wait
+
+  chief
+
+  flower
+
+  clutch'
+bip_39_word_new_line5: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library'
+bip_39_word_new_line6: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital'
+bip_39_word_new_line7: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother'
+bip_39_word_new_line8: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor'
+bip_39_word_new_line9: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor
+
+  grain'
+bip_39_word_space_0:
+- wait
+- chief
+- flower
+- clutch
+- library
+- digital
+- mother
+- outdoor
+- grain
+- action
+- jealous
+- arch
+bip_39_word_space_1: wait
+bip_39_word_space_10: wait chief flower clutch library digital mother outdoor grain
+  action
+bip_39_word_space_11: wait chief flower clutch library digital mother outdoor grain
+  action jealous
+bip_39_word_space_12: wait chief flower clutch library digital mother outdoor grain
+  action jealous arch
+bip_39_word_space_2: wait chief
+bip_39_word_space_3: wait chief flower
+bip_39_word_space_4: wait chief flower clutch
+bip_39_word_space_5: wait chief flower clutch library
+bip_39_word_space_6: wait chief flower clutch library digital
+bip_39_word_space_7: wait chief flower clutch library digital mother
+bip_39_word_space_8: wait chief flower clutch library digital mother outdoor
+bip_39_word_space_9: wait chief flower clutch library digital mother outdoor grain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

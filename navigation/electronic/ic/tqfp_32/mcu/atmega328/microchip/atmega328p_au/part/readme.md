@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microchip
   * part_number: atmega328p_au
+  * bip 39 word 2: galaxy rebel
+  * bip 39 word 3: galaxy rebel youth
+  * bip 39 word: galaxy rebel youth silver eternal cruise cute razor tool salute arctic accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | galaxy |  
+| bip_39_word_new_br10 | galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor<br>tool<br>salute |  
+| bip_39_word_new_br11 | galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor<br>tool<br>salute<br>arctic |  
+| bip_39_word_new_br12 | galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor<br>tool<br>salute<br>arctic<br>accident |  
+| bip_39_word_new_br2 | galaxy<br>rebel |  
+| bip_39_word_new_br3 | galaxy<br>rebel<br>youth |  
+| bip_39_word_new_br4 | galaxy<br>rebel<br>youth<br>silver |  
+| bip_39_word_new_br5 | galaxy<br>rebel<br>youth<br>silver<br>eternal |  
+| bip_39_word_new_br6 | galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise |  
+| bip_39_word_new_br7 | galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute |  
+| bip_39_word_new_br8 | galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor |  
+| bip_39_word_new_br9 | galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor<br>tool |  
+| bip_39_word_new_line1 | galaxy |  
+| bip_39_word_new_line10 | galaxy
+rebel
+youth
+silver
+eternal
+cruise
+cute
+razor
+tool
+salute |  
+| bip_39_word_new_line11 | galaxy
+rebel
+youth
+silver
+eternal
+cruise
+cute
+razor
+tool
+salute
+arctic |  
+| bip_39_word_new_line12 | galaxy
+rebel
+youth
+silver
+eternal
+cruise
+cute
+razor
+tool
+salute
+arctic
+accident |  
+| bip_39_word_new_line2 | galaxy
+rebel |  
+| bip_39_word_new_line3 | galaxy
+rebel
+youth |  
+| bip_39_word_new_line4 | galaxy
+rebel
+youth
+silver |  
+| bip_39_word_new_line5 | galaxy
+rebel
+youth
+silver
+eternal |  
+| bip_39_word_new_line6 | galaxy
+rebel
+youth
+silver
+eternal
+cruise |  
+| bip_39_word_new_line7 | galaxy
+rebel
+youth
+silver
+eternal
+cruise
+cute |  
+| bip_39_word_new_line8 | galaxy
+rebel
+youth
+silver
+eternal
+cruise
+cute
+razor |  
+| bip_39_word_new_line9 | galaxy
+rebel
+youth
+silver
+eternal
+cruise
+cute
+razor
+tool |  
+| bip_39_word_space_0 | ['galaxy', 'rebel', 'youth', 'silver', 'eternal', 'cruise', 'cute', 'razor', 'tool', 'salute', 'arctic', 'accident'] |  
+| bip_39_word_space_1 | galaxy |  
+| bip_39_word_space_10 | galaxy rebel youth silver eternal cruise cute razor tool salute |  
+| bip_39_word_space_11 | galaxy rebel youth silver eternal cruise cute razor tool salute arctic |  
+| bip_39_word_space_12 | galaxy rebel youth silver eternal cruise cute razor tool salute arctic accident |  
+| bip_39_word_space_2 | galaxy rebel |  
+| bip_39_word_space_3 | galaxy rebel youth |  
+| bip_39_word_space_4 | galaxy rebel youth silver |  
+| bip_39_word_space_5 | galaxy rebel youth silver eternal |  
+| bip_39_word_space_6 | galaxy rebel youth silver eternal cruise |  
+| bip_39_word_space_7 | galaxy rebel youth silver eternal cruise cute |  
+| bip_39_word_space_8 | galaxy rebel youth silver eternal cruise cute razor |  
+| bip_39_word_space_9 | galaxy rebel youth silver eternal cruise cute razor tool |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

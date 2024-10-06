@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: syrup umbrella
+  * bip 39 word 3: syrup umbrella dice
+  * bip 39 word: syrup umbrella dice fiber duck consider jungle radio list apart twist ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | syrup |  
+| bip_39_word_new_br10 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider<br>jungle<br>radio<br>list<br>apart |  
+| bip_39_word_new_br11 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider<br>jungle<br>radio<br>list<br>apart<br>twist |  
+| bip_39_word_new_br12 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider<br>jungle<br>radio<br>list<br>apart<br>twist<br>ancient |  
+| bip_39_word_new_br2 | syrup<br>umbrella |  
+| bip_39_word_new_br3 | syrup<br>umbrella<br>dice |  
+| bip_39_word_new_br4 | syrup<br>umbrella<br>dice<br>fiber |  
+| bip_39_word_new_br5 | syrup<br>umbrella<br>dice<br>fiber<br>duck |  
+| bip_39_word_new_br6 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider |  
+| bip_39_word_new_br7 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider<br>jungle |  
+| bip_39_word_new_br8 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider<br>jungle<br>radio |  
+| bip_39_word_new_br9 | syrup<br>umbrella<br>dice<br>fiber<br>duck<br>consider<br>jungle<br>radio<br>list |  
+| bip_39_word_new_line1 | syrup |  
+| bip_39_word_new_line10 | syrup
+umbrella
+dice
+fiber
+duck
+consider
+jungle
+radio
+list
+apart |  
+| bip_39_word_new_line11 | syrup
+umbrella
+dice
+fiber
+duck
+consider
+jungle
+radio
+list
+apart
+twist |  
+| bip_39_word_new_line12 | syrup
+umbrella
+dice
+fiber
+duck
+consider
+jungle
+radio
+list
+apart
+twist
+ancient |  
+| bip_39_word_new_line2 | syrup
+umbrella |  
+| bip_39_word_new_line3 | syrup
+umbrella
+dice |  
+| bip_39_word_new_line4 | syrup
+umbrella
+dice
+fiber |  
+| bip_39_word_new_line5 | syrup
+umbrella
+dice
+fiber
+duck |  
+| bip_39_word_new_line6 | syrup
+umbrella
+dice
+fiber
+duck
+consider |  
+| bip_39_word_new_line7 | syrup
+umbrella
+dice
+fiber
+duck
+consider
+jungle |  
+| bip_39_word_new_line8 | syrup
+umbrella
+dice
+fiber
+duck
+consider
+jungle
+radio |  
+| bip_39_word_new_line9 | syrup
+umbrella
+dice
+fiber
+duck
+consider
+jungle
+radio
+list |  
+| bip_39_word_space_0 | ['syrup', 'umbrella', 'dice', 'fiber', 'duck', 'consider', 'jungle', 'radio', 'list', 'apart', 'twist', 'ancient'] |  
+| bip_39_word_space_1 | syrup |  
+| bip_39_word_space_10 | syrup umbrella dice fiber duck consider jungle radio list apart |  
+| bip_39_word_space_11 | syrup umbrella dice fiber duck consider jungle radio list apart twist |  
+| bip_39_word_space_12 | syrup umbrella dice fiber duck consider jungle radio list apart twist ancient |  
+| bip_39_word_space_2 | syrup umbrella |  
+| bip_39_word_space_3 | syrup umbrella dice |  
+| bip_39_word_space_4 | syrup umbrella dice fiber |  
+| bip_39_word_space_5 | syrup umbrella dice fiber duck |  
+| bip_39_word_space_6 | syrup umbrella dice fiber duck consider |  
+| bip_39_word_space_7 | syrup umbrella dice fiber duck consider jungle |  
+| bip_39_word_space_8 | syrup umbrella dice fiber duck consider jungle radio |  
+| bip_39_word_space_9 | syrup umbrella dice fiber duck consider jungle radio list |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

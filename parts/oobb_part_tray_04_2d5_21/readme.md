@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pilot trim
+  * bip 39 word 3: pilot trim eight
+  * bip 39 word: pilot trim eight robust pledge armor bulk canoe iron any culture address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pilot |  
+| bip_39_word_new_br10 | pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron<br>any |  
+| bip_39_word_new_br11 | pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron<br>any<br>culture |  
+| bip_39_word_new_br12 | pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron<br>any<br>culture<br>address |  
+| bip_39_word_new_br2 | pilot<br>trim |  
+| bip_39_word_new_br3 | pilot<br>trim<br>eight |  
+| bip_39_word_new_br4 | pilot<br>trim<br>eight<br>robust |  
+| bip_39_word_new_br5 | pilot<br>trim<br>eight<br>robust<br>pledge |  
+| bip_39_word_new_br6 | pilot<br>trim<br>eight<br>robust<br>pledge<br>armor |  
+| bip_39_word_new_br7 | pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk |  
+| bip_39_word_new_br8 | pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe |  
+| bip_39_word_new_br9 | pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron |  
+| bip_39_word_new_line1 | pilot |  
+| bip_39_word_new_line10 | pilot
+trim
+eight
+robust
+pledge
+armor
+bulk
+canoe
+iron
+any |  
+| bip_39_word_new_line11 | pilot
+trim
+eight
+robust
+pledge
+armor
+bulk
+canoe
+iron
+any
+culture |  
+| bip_39_word_new_line12 | pilot
+trim
+eight
+robust
+pledge
+armor
+bulk
+canoe
+iron
+any
+culture
+address |  
+| bip_39_word_new_line2 | pilot
+trim |  
+| bip_39_word_new_line3 | pilot
+trim
+eight |  
+| bip_39_word_new_line4 | pilot
+trim
+eight
+robust |  
+| bip_39_word_new_line5 | pilot
+trim
+eight
+robust
+pledge |  
+| bip_39_word_new_line6 | pilot
+trim
+eight
+robust
+pledge
+armor |  
+| bip_39_word_new_line7 | pilot
+trim
+eight
+robust
+pledge
+armor
+bulk |  
+| bip_39_word_new_line8 | pilot
+trim
+eight
+robust
+pledge
+armor
+bulk
+canoe |  
+| bip_39_word_new_line9 | pilot
+trim
+eight
+robust
+pledge
+armor
+bulk
+canoe
+iron |  
+| bip_39_word_space_0 | ['pilot', 'trim', 'eight', 'robust', 'pledge', 'armor', 'bulk', 'canoe', 'iron', 'any', 'culture', 'address'] |  
+| bip_39_word_space_1 | pilot |  
+| bip_39_word_space_10 | pilot trim eight robust pledge armor bulk canoe iron any |  
+| bip_39_word_space_11 | pilot trim eight robust pledge armor bulk canoe iron any culture |  
+| bip_39_word_space_12 | pilot trim eight robust pledge armor bulk canoe iron any culture address |  
+| bip_39_word_space_2 | pilot trim |  
+| bip_39_word_space_3 | pilot trim eight |  
+| bip_39_word_space_4 | pilot trim eight robust |  
+| bip_39_word_space_5 | pilot trim eight robust pledge |  
+| bip_39_word_space_6 | pilot trim eight robust pledge armor |  
+| bip_39_word_space_7 | pilot trim eight robust pledge armor bulk |  
+| bip_39_word_space_8 | pilot trim eight robust pledge armor bulk canoe |  
+| bip_39_word_space_9 | pilot trim eight robust pledge armor bulk canoe iron |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

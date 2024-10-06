@@ -1,3 +1,186 @@
+bip_39_word_new_br1: language
+bip_39_word_new_br10: language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug
+bip_39_word_new_br11: language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug<br>brick
+bip_39_word_new_br12: language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel<br>plug<br>brick<br>approve
+bip_39_word_new_br2: language<br>fabric
+bip_39_word_new_br3: language<br>fabric<br>tank
+bip_39_word_new_br4: language<br>fabric<br>tank<br>pudding
+bip_39_word_new_br5: language<br>fabric<br>tank<br>pudding<br>edit
+bip_39_word_new_br6: language<br>fabric<br>tank<br>pudding<br>edit<br>sing
+bip_39_word_new_br7: language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship
+bip_39_word_new_br8: language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used
+bip_39_word_new_br9: language<br>fabric<br>tank<br>pudding<br>edit<br>sing<br>ship<br>used<br>weasel
+bip_39_word_new_line1: language
+bip_39_word_new_line10: 'language
+
+  fabric
+
+  tank
+
+  pudding
+
+  edit
+
+  sing
+
+  ship
+
+  used
+
+  weasel
+
+  plug'
+bip_39_word_new_line11: 'language
+
+  fabric
+
+  tank
+
+  pudding
+
+  edit
+
+  sing
+
+  ship
+
+  used
+
+  weasel
+
+  plug
+
+  brick'
+bip_39_word_new_line12: 'language
+
+  fabric
+
+  tank
+
+  pudding
+
+  edit
+
+  sing
+
+  ship
+
+  used
+
+  weasel
+
+  plug
+
+  brick
+
+  approve'
+bip_39_word_new_line2: 'language
+
+  fabric'
+bip_39_word_new_line3: 'language
+
+  fabric
+
+  tank'
+bip_39_word_new_line4: 'language
+
+  fabric
+
+  tank
+
+  pudding'
+bip_39_word_new_line5: 'language
+
+  fabric
+
+  tank
+
+  pudding
+
+  edit'
+bip_39_word_new_line6: 'language
+
+  fabric
+
+  tank
+
+  pudding
+
+  edit
+
+  sing'
+bip_39_word_new_line7: 'language
+
+  fabric
+
+  tank
+
+  pudding
+
+  edit
+
+  sing
+
+  ship'
+bip_39_word_new_line8: 'language
+
+  fabric
+
+  tank
+
+  pudding
+
+  edit
+
+  sing
+
+  ship
+
+  used'
+bip_39_word_new_line9: 'language
+
+  fabric
+
+  tank
+
+  pudding
+
+  edit
+
+  sing
+
+  ship
+
+  used
+
+  weasel'
+bip_39_word_space_0:
+- language
+- fabric
+- tank
+- pudding
+- edit
+- sing
+- ship
+- used
+- weasel
+- plug
+- brick
+- approve
+bip_39_word_space_1: language
+bip_39_word_space_10: language fabric tank pudding edit sing ship used weasel plug
+bip_39_word_space_11: language fabric tank pudding edit sing ship used weasel plug
+  brick
+bip_39_word_space_12: language fabric tank pudding edit sing ship used weasel plug
+  brick approve
+bip_39_word_space_2: language fabric
+bip_39_word_space_3: language fabric tank
+bip_39_word_space_4: language fabric tank pudding
+bip_39_word_space_5: language fabric tank pudding edit
+bip_39_word_space_6: language fabric tank pudding edit sing
+bip_39_word_space_7: language fabric tank pudding edit sing ship
+bip_39_word_space_8: language fabric tank pudding edit sing ship used
+bip_39_word_space_9: language fabric tank pudding edit sing ship used weasel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: charge upgrade
+  * bip 39 word 3: charge upgrade neck
+  * bip 39 word: charge upgrade neck file oblige lucky advice grocery unit bargain such admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | charge |  
+| bip_39_word_new_br10 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain |  
+| bip_39_word_new_br11 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain<br>such |  
+| bip_39_word_new_br12 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit<br>bargain<br>such<br>admit |  
+| bip_39_word_new_br2 | charge<br>upgrade |  
+| bip_39_word_new_br3 | charge<br>upgrade<br>neck |  
+| bip_39_word_new_br4 | charge<br>upgrade<br>neck<br>file |  
+| bip_39_word_new_br5 | charge<br>upgrade<br>neck<br>file<br>oblige |  
+| bip_39_word_new_br6 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky |  
+| bip_39_word_new_br7 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice |  
+| bip_39_word_new_br8 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery |  
+| bip_39_word_new_br9 | charge<br>upgrade<br>neck<br>file<br>oblige<br>lucky<br>advice<br>grocery<br>unit |  
+| bip_39_word_new_line1 | charge |  
+| bip_39_word_new_line10 | charge
+upgrade
+neck
+file
+oblige
+lucky
+advice
+grocery
+unit
+bargain |  
+| bip_39_word_new_line11 | charge
+upgrade
+neck
+file
+oblige
+lucky
+advice
+grocery
+unit
+bargain
+such |  
+| bip_39_word_new_line12 | charge
+upgrade
+neck
+file
+oblige
+lucky
+advice
+grocery
+unit
+bargain
+such
+admit |  
+| bip_39_word_new_line2 | charge
+upgrade |  
+| bip_39_word_new_line3 | charge
+upgrade
+neck |  
+| bip_39_word_new_line4 | charge
+upgrade
+neck
+file |  
+| bip_39_word_new_line5 | charge
+upgrade
+neck
+file
+oblige |  
+| bip_39_word_new_line6 | charge
+upgrade
+neck
+file
+oblige
+lucky |  
+| bip_39_word_new_line7 | charge
+upgrade
+neck
+file
+oblige
+lucky
+advice |  
+| bip_39_word_new_line8 | charge
+upgrade
+neck
+file
+oblige
+lucky
+advice
+grocery |  
+| bip_39_word_new_line9 | charge
+upgrade
+neck
+file
+oblige
+lucky
+advice
+grocery
+unit |  
+| bip_39_word_space_0 | ['charge', 'upgrade', 'neck', 'file', 'oblige', 'lucky', 'advice', 'grocery', 'unit', 'bargain', 'such', 'admit'] |  
+| bip_39_word_space_1 | charge |  
+| bip_39_word_space_10 | charge upgrade neck file oblige lucky advice grocery unit bargain |  
+| bip_39_word_space_11 | charge upgrade neck file oblige lucky advice grocery unit bargain such |  
+| bip_39_word_space_12 | charge upgrade neck file oblige lucky advice grocery unit bargain such admit |  
+| bip_39_word_space_2 | charge upgrade |  
+| bip_39_word_space_3 | charge upgrade neck |  
+| bip_39_word_space_4 | charge upgrade neck file |  
+| bip_39_word_space_5 | charge upgrade neck file oblige |  
+| bip_39_word_space_6 | charge upgrade neck file oblige lucky |  
+| bip_39_word_space_7 | charge upgrade neck file oblige lucky advice |  
+| bip_39_word_space_8 | charge upgrade neck file oblige lucky advice grocery |  
+| bip_39_word_space_9 | charge upgrade neck file oblige lucky advice grocery unit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

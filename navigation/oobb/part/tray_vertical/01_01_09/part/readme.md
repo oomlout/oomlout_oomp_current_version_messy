@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inhale poet
+  * bip 39 word 3: inhale poet defense
+  * bip 39 word: inhale poet defense huge float dress knock invite smile online resist assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inhale |  
+| bip_39_word_new_br10 | inhale<br>poet<br>defense<br>huge<br>float<br>dress<br>knock<br>invite<br>smile<br>online |  
+| bip_39_word_new_br11 | inhale<br>poet<br>defense<br>huge<br>float<br>dress<br>knock<br>invite<br>smile<br>online<br>resist |  
+| bip_39_word_new_br12 | inhale<br>poet<br>defense<br>huge<br>float<br>dress<br>knock<br>invite<br>smile<br>online<br>resist<br>assume |  
+| bip_39_word_new_br2 | inhale<br>poet |  
+| bip_39_word_new_br3 | inhale<br>poet<br>defense |  
+| bip_39_word_new_br4 | inhale<br>poet<br>defense<br>huge |  
+| bip_39_word_new_br5 | inhale<br>poet<br>defense<br>huge<br>float |  
+| bip_39_word_new_br6 | inhale<br>poet<br>defense<br>huge<br>float<br>dress |  
+| bip_39_word_new_br7 | inhale<br>poet<br>defense<br>huge<br>float<br>dress<br>knock |  
+| bip_39_word_new_br8 | inhale<br>poet<br>defense<br>huge<br>float<br>dress<br>knock<br>invite |  
+| bip_39_word_new_br9 | inhale<br>poet<br>defense<br>huge<br>float<br>dress<br>knock<br>invite<br>smile |  
+| bip_39_word_new_line1 | inhale |  
+| bip_39_word_new_line10 | inhale
+poet
+defense
+huge
+float
+dress
+knock
+invite
+smile
+online |  
+| bip_39_word_new_line11 | inhale
+poet
+defense
+huge
+float
+dress
+knock
+invite
+smile
+online
+resist |  
+| bip_39_word_new_line12 | inhale
+poet
+defense
+huge
+float
+dress
+knock
+invite
+smile
+online
+resist
+assume |  
+| bip_39_word_new_line2 | inhale
+poet |  
+| bip_39_word_new_line3 | inhale
+poet
+defense |  
+| bip_39_word_new_line4 | inhale
+poet
+defense
+huge |  
+| bip_39_word_new_line5 | inhale
+poet
+defense
+huge
+float |  
+| bip_39_word_new_line6 | inhale
+poet
+defense
+huge
+float
+dress |  
+| bip_39_word_new_line7 | inhale
+poet
+defense
+huge
+float
+dress
+knock |  
+| bip_39_word_new_line8 | inhale
+poet
+defense
+huge
+float
+dress
+knock
+invite |  
+| bip_39_word_new_line9 | inhale
+poet
+defense
+huge
+float
+dress
+knock
+invite
+smile |  
+| bip_39_word_space_0 | ['inhale', 'poet', 'defense', 'huge', 'float', 'dress', 'knock', 'invite', 'smile', 'online', 'resist', 'assume'] |  
+| bip_39_word_space_1 | inhale |  
+| bip_39_word_space_10 | inhale poet defense huge float dress knock invite smile online |  
+| bip_39_word_space_11 | inhale poet defense huge float dress knock invite smile online resist |  
+| bip_39_word_space_12 | inhale poet defense huge float dress knock invite smile online resist assume |  
+| bip_39_word_space_2 | inhale poet |  
+| bip_39_word_space_3 | inhale poet defense |  
+| bip_39_word_space_4 | inhale poet defense huge |  
+| bip_39_word_space_5 | inhale poet defense huge float |  
+| bip_39_word_space_6 | inhale poet defense huge float dress |  
+| bip_39_word_space_7 | inhale poet defense huge float dress knock |  
+| bip_39_word_space_8 | inhale poet defense huge float dress knock invite |  
+| bip_39_word_space_9 | inhale poet defense huge float dress knock invite smile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

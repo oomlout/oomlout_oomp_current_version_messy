@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chase
+bip_39_word_new_br10: chase<br>portion<br>craft<br>stage<br>label<br>speak<br>before<br>trade<br>wage<br>busy
+bip_39_word_new_br11: chase<br>portion<br>craft<br>stage<br>label<br>speak<br>before<br>trade<br>wage<br>busy<br>noodle
+bip_39_word_new_br12: chase<br>portion<br>craft<br>stage<br>label<br>speak<br>before<br>trade<br>wage<br>busy<br>noodle<br>address
+bip_39_word_new_br2: chase<br>portion
+bip_39_word_new_br3: chase<br>portion<br>craft
+bip_39_word_new_br4: chase<br>portion<br>craft<br>stage
+bip_39_word_new_br5: chase<br>portion<br>craft<br>stage<br>label
+bip_39_word_new_br6: chase<br>portion<br>craft<br>stage<br>label<br>speak
+bip_39_word_new_br7: chase<br>portion<br>craft<br>stage<br>label<br>speak<br>before
+bip_39_word_new_br8: chase<br>portion<br>craft<br>stage<br>label<br>speak<br>before<br>trade
+bip_39_word_new_br9: chase<br>portion<br>craft<br>stage<br>label<br>speak<br>before<br>trade<br>wage
+bip_39_word_new_line1: chase
+bip_39_word_new_line10: 'chase
+
+  portion
+
+  craft
+
+  stage
+
+  label
+
+  speak
+
+  before
+
+  trade
+
+  wage
+
+  busy'
+bip_39_word_new_line11: 'chase
+
+  portion
+
+  craft
+
+  stage
+
+  label
+
+  speak
+
+  before
+
+  trade
+
+  wage
+
+  busy
+
+  noodle'
+bip_39_word_new_line12: 'chase
+
+  portion
+
+  craft
+
+  stage
+
+  label
+
+  speak
+
+  before
+
+  trade
+
+  wage
+
+  busy
+
+  noodle
+
+  address'
+bip_39_word_new_line2: 'chase
+
+  portion'
+bip_39_word_new_line3: 'chase
+
+  portion
+
+  craft'
+bip_39_word_new_line4: 'chase
+
+  portion
+
+  craft
+
+  stage'
+bip_39_word_new_line5: 'chase
+
+  portion
+
+  craft
+
+  stage
+
+  label'
+bip_39_word_new_line6: 'chase
+
+  portion
+
+  craft
+
+  stage
+
+  label
+
+  speak'
+bip_39_word_new_line7: 'chase
+
+  portion
+
+  craft
+
+  stage
+
+  label
+
+  speak
+
+  before'
+bip_39_word_new_line8: 'chase
+
+  portion
+
+  craft
+
+  stage
+
+  label
+
+  speak
+
+  before
+
+  trade'
+bip_39_word_new_line9: 'chase
+
+  portion
+
+  craft
+
+  stage
+
+  label
+
+  speak
+
+  before
+
+  trade
+
+  wage'
+bip_39_word_space_0:
+- chase
+- portion
+- craft
+- stage
+- label
+- speak
+- before
+- trade
+- wage
+- busy
+- noodle
+- address
+bip_39_word_space_1: chase
+bip_39_word_space_10: chase portion craft stage label speak before trade wage busy
+bip_39_word_space_11: chase portion craft stage label speak before trade wage busy
+  noodle
+bip_39_word_space_12: chase portion craft stage label speak before trade wage busy
+  noodle address
+bip_39_word_space_2: chase portion
+bip_39_word_space_3: chase portion craft
+bip_39_word_space_4: chase portion craft stage
+bip_39_word_space_5: chase portion craft stage label
+bip_39_word_space_6: chase portion craft stage label speak
+bip_39_word_space_7: chase portion craft stage label speak before
+bip_39_word_space_8: chase portion craft stage label speak before trade
+bip_39_word_space_9: chase portion craft stage label speak before trade wage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

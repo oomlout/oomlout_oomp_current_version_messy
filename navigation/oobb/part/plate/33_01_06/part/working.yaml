@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fame
+bip_39_word_new_br10: fame<br>wave<br>egg<br>lumber<br>brisk<br>cream<br>write<br>category<br>hill<br>example
+bip_39_word_new_br11: fame<br>wave<br>egg<br>lumber<br>brisk<br>cream<br>write<br>category<br>hill<br>example<br>pioneer
+bip_39_word_new_br12: fame<br>wave<br>egg<br>lumber<br>brisk<br>cream<br>write<br>category<br>hill<br>example<br>pioneer<br>april
+bip_39_word_new_br2: fame<br>wave
+bip_39_word_new_br3: fame<br>wave<br>egg
+bip_39_word_new_br4: fame<br>wave<br>egg<br>lumber
+bip_39_word_new_br5: fame<br>wave<br>egg<br>lumber<br>brisk
+bip_39_word_new_br6: fame<br>wave<br>egg<br>lumber<br>brisk<br>cream
+bip_39_word_new_br7: fame<br>wave<br>egg<br>lumber<br>brisk<br>cream<br>write
+bip_39_word_new_br8: fame<br>wave<br>egg<br>lumber<br>brisk<br>cream<br>write<br>category
+bip_39_word_new_br9: fame<br>wave<br>egg<br>lumber<br>brisk<br>cream<br>write<br>category<br>hill
+bip_39_word_new_line1: fame
+bip_39_word_new_line10: 'fame
+
+  wave
+
+  egg
+
+  lumber
+
+  brisk
+
+  cream
+
+  write
+
+  category
+
+  hill
+
+  example'
+bip_39_word_new_line11: 'fame
+
+  wave
+
+  egg
+
+  lumber
+
+  brisk
+
+  cream
+
+  write
+
+  category
+
+  hill
+
+  example
+
+  pioneer'
+bip_39_word_new_line12: 'fame
+
+  wave
+
+  egg
+
+  lumber
+
+  brisk
+
+  cream
+
+  write
+
+  category
+
+  hill
+
+  example
+
+  pioneer
+
+  april'
+bip_39_word_new_line2: 'fame
+
+  wave'
+bip_39_word_new_line3: 'fame
+
+  wave
+
+  egg'
+bip_39_word_new_line4: 'fame
+
+  wave
+
+  egg
+
+  lumber'
+bip_39_word_new_line5: 'fame
+
+  wave
+
+  egg
+
+  lumber
+
+  brisk'
+bip_39_word_new_line6: 'fame
+
+  wave
+
+  egg
+
+  lumber
+
+  brisk
+
+  cream'
+bip_39_word_new_line7: 'fame
+
+  wave
+
+  egg
+
+  lumber
+
+  brisk
+
+  cream
+
+  write'
+bip_39_word_new_line8: 'fame
+
+  wave
+
+  egg
+
+  lumber
+
+  brisk
+
+  cream
+
+  write
+
+  category'
+bip_39_word_new_line9: 'fame
+
+  wave
+
+  egg
+
+  lumber
+
+  brisk
+
+  cream
+
+  write
+
+  category
+
+  hill'
+bip_39_word_space_0:
+- fame
+- wave
+- egg
+- lumber
+- brisk
+- cream
+- write
+- category
+- hill
+- example
+- pioneer
+- april
+bip_39_word_space_1: fame
+bip_39_word_space_10: fame wave egg lumber brisk cream write category hill example
+bip_39_word_space_11: fame wave egg lumber brisk cream write category hill example
+  pioneer
+bip_39_word_space_12: fame wave egg lumber brisk cream write category hill example
+  pioneer april
+bip_39_word_space_2: fame wave
+bip_39_word_space_3: fame wave egg
+bip_39_word_space_4: fame wave egg lumber
+bip_39_word_space_5: fame wave egg lumber brisk
+bip_39_word_space_6: fame wave egg lumber brisk cream
+bip_39_word_space_7: fame wave egg lumber brisk cream write
+bip_39_word_space_8: fame wave egg lumber brisk cream write category
+bip_39_word_space_9: fame wave egg lumber brisk cream write category hill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

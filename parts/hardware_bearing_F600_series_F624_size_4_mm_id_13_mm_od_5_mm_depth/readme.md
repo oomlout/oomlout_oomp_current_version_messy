@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: net reform
+  * bip 39 word 3: net reform spring
+  * bip 39 word: net reform spring local nephew verify proud comfort drill shift whale aunt
 
 ### other_codes
 * short_code: brF624
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | net |  
+| bip_39_word_new_br10 | net<br>reform<br>spring<br>local<br>nephew<br>verify<br>proud<br>comfort<br>drill<br>shift |  
+| bip_39_word_new_br11 | net<br>reform<br>spring<br>local<br>nephew<br>verify<br>proud<br>comfort<br>drill<br>shift<br>whale |  
+| bip_39_word_new_br12 | net<br>reform<br>spring<br>local<br>nephew<br>verify<br>proud<br>comfort<br>drill<br>shift<br>whale<br>aunt |  
+| bip_39_word_new_br2 | net<br>reform |  
+| bip_39_word_new_br3 | net<br>reform<br>spring |  
+| bip_39_word_new_br4 | net<br>reform<br>spring<br>local |  
+| bip_39_word_new_br5 | net<br>reform<br>spring<br>local<br>nephew |  
+| bip_39_word_new_br6 | net<br>reform<br>spring<br>local<br>nephew<br>verify |  
+| bip_39_word_new_br7 | net<br>reform<br>spring<br>local<br>nephew<br>verify<br>proud |  
+| bip_39_word_new_br8 | net<br>reform<br>spring<br>local<br>nephew<br>verify<br>proud<br>comfort |  
+| bip_39_word_new_br9 | net<br>reform<br>spring<br>local<br>nephew<br>verify<br>proud<br>comfort<br>drill |  
+| bip_39_word_new_line1 | net |  
+| bip_39_word_new_line10 | net
+reform
+spring
+local
+nephew
+verify
+proud
+comfort
+drill
+shift |  
+| bip_39_word_new_line11 | net
+reform
+spring
+local
+nephew
+verify
+proud
+comfort
+drill
+shift
+whale |  
+| bip_39_word_new_line12 | net
+reform
+spring
+local
+nephew
+verify
+proud
+comfort
+drill
+shift
+whale
+aunt |  
+| bip_39_word_new_line2 | net
+reform |  
+| bip_39_word_new_line3 | net
+reform
+spring |  
+| bip_39_word_new_line4 | net
+reform
+spring
+local |  
+| bip_39_word_new_line5 | net
+reform
+spring
+local
+nephew |  
+| bip_39_word_new_line6 | net
+reform
+spring
+local
+nephew
+verify |  
+| bip_39_word_new_line7 | net
+reform
+spring
+local
+nephew
+verify
+proud |  
+| bip_39_word_new_line8 | net
+reform
+spring
+local
+nephew
+verify
+proud
+comfort |  
+| bip_39_word_new_line9 | net
+reform
+spring
+local
+nephew
+verify
+proud
+comfort
+drill |  
+| bip_39_word_space_0 | ['net', 'reform', 'spring', 'local', 'nephew', 'verify', 'proud', 'comfort', 'drill', 'shift', 'whale', 'aunt'] |  
+| bip_39_word_space_1 | net |  
+| bip_39_word_space_10 | net reform spring local nephew verify proud comfort drill shift |  
+| bip_39_word_space_11 | net reform spring local nephew verify proud comfort drill shift whale |  
+| bip_39_word_space_12 | net reform spring local nephew verify proud comfort drill shift whale aunt |  
+| bip_39_word_space_2 | net reform |  
+| bip_39_word_space_3 | net reform spring |  
+| bip_39_word_space_4 | net reform spring local |  
+| bip_39_word_space_5 | net reform spring local nephew |  
+| bip_39_word_space_6 | net reform spring local nephew verify |  
+| bip_39_word_space_7 | net reform spring local nephew verify proud |  
+| bip_39_word_space_8 | net reform spring local nephew verify proud comfort |  
+| bip_39_word_space_9 | net reform spring local nephew verify proud comfort drill |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

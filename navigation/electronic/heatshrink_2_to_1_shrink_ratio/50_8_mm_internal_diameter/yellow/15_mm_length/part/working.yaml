@@ -1,3 +1,186 @@
+bip_39_word_new_br1: three
+bip_39_word_new_br10: three<br>chef<br>fork<br>concert<br>shaft<br>vanish<br>elegant<br>fence<br>flush<br>hip
+bip_39_word_new_br11: three<br>chef<br>fork<br>concert<br>shaft<br>vanish<br>elegant<br>fence<br>flush<br>hip<br>quote
+bip_39_word_new_br12: three<br>chef<br>fork<br>concert<br>shaft<br>vanish<br>elegant<br>fence<br>flush<br>hip<br>quote<br>almost
+bip_39_word_new_br2: three<br>chef
+bip_39_word_new_br3: three<br>chef<br>fork
+bip_39_word_new_br4: three<br>chef<br>fork<br>concert
+bip_39_word_new_br5: three<br>chef<br>fork<br>concert<br>shaft
+bip_39_word_new_br6: three<br>chef<br>fork<br>concert<br>shaft<br>vanish
+bip_39_word_new_br7: three<br>chef<br>fork<br>concert<br>shaft<br>vanish<br>elegant
+bip_39_word_new_br8: three<br>chef<br>fork<br>concert<br>shaft<br>vanish<br>elegant<br>fence
+bip_39_word_new_br9: three<br>chef<br>fork<br>concert<br>shaft<br>vanish<br>elegant<br>fence<br>flush
+bip_39_word_new_line1: three
+bip_39_word_new_line10: 'three
+
+  chef
+
+  fork
+
+  concert
+
+  shaft
+
+  vanish
+
+  elegant
+
+  fence
+
+  flush
+
+  hip'
+bip_39_word_new_line11: 'three
+
+  chef
+
+  fork
+
+  concert
+
+  shaft
+
+  vanish
+
+  elegant
+
+  fence
+
+  flush
+
+  hip
+
+  quote'
+bip_39_word_new_line12: 'three
+
+  chef
+
+  fork
+
+  concert
+
+  shaft
+
+  vanish
+
+  elegant
+
+  fence
+
+  flush
+
+  hip
+
+  quote
+
+  almost'
+bip_39_word_new_line2: 'three
+
+  chef'
+bip_39_word_new_line3: 'three
+
+  chef
+
+  fork'
+bip_39_word_new_line4: 'three
+
+  chef
+
+  fork
+
+  concert'
+bip_39_word_new_line5: 'three
+
+  chef
+
+  fork
+
+  concert
+
+  shaft'
+bip_39_word_new_line6: 'three
+
+  chef
+
+  fork
+
+  concert
+
+  shaft
+
+  vanish'
+bip_39_word_new_line7: 'three
+
+  chef
+
+  fork
+
+  concert
+
+  shaft
+
+  vanish
+
+  elegant'
+bip_39_word_new_line8: 'three
+
+  chef
+
+  fork
+
+  concert
+
+  shaft
+
+  vanish
+
+  elegant
+
+  fence'
+bip_39_word_new_line9: 'three
+
+  chef
+
+  fork
+
+  concert
+
+  shaft
+
+  vanish
+
+  elegant
+
+  fence
+
+  flush'
+bip_39_word_space_0:
+- three
+- chef
+- fork
+- concert
+- shaft
+- vanish
+- elegant
+- fence
+- flush
+- hip
+- quote
+- almost
+bip_39_word_space_1: three
+bip_39_word_space_10: three chef fork concert shaft vanish elegant fence flush hip
+bip_39_word_space_11: three chef fork concert shaft vanish elegant fence flush hip
+  quote
+bip_39_word_space_12: three chef fork concert shaft vanish elegant fence flush hip
+  quote almost
+bip_39_word_space_2: three chef
+bip_39_word_space_3: three chef fork
+bip_39_word_space_4: three chef fork concert
+bip_39_word_space_5: three chef fork concert shaft
+bip_39_word_space_6: three chef fork concert shaft vanish
+bip_39_word_space_7: three chef fork concert shaft vanish elegant
+bip_39_word_space_8: three chef fork concert shaft vanish elegant fence
+bip_39_word_space_9: three chef fork concert shaft vanish elegant fence flush
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

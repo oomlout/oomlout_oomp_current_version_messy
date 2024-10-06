@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: envelope assist
+  * bip 39 word 3: envelope assist aim
+  * bip 39 word: envelope assist aim fish marine dove find april lion medal first angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | envelope |  
+| bip_39_word_new_br10 | envelope<br>assist<br>aim<br>fish<br>marine<br>dove<br>find<br>april<br>lion<br>medal |  
+| bip_39_word_new_br11 | envelope<br>assist<br>aim<br>fish<br>marine<br>dove<br>find<br>april<br>lion<br>medal<br>first |  
+| bip_39_word_new_br12 | envelope<br>assist<br>aim<br>fish<br>marine<br>dove<br>find<br>april<br>lion<br>medal<br>first<br>angry |  
+| bip_39_word_new_br2 | envelope<br>assist |  
+| bip_39_word_new_br3 | envelope<br>assist<br>aim |  
+| bip_39_word_new_br4 | envelope<br>assist<br>aim<br>fish |  
+| bip_39_word_new_br5 | envelope<br>assist<br>aim<br>fish<br>marine |  
+| bip_39_word_new_br6 | envelope<br>assist<br>aim<br>fish<br>marine<br>dove |  
+| bip_39_word_new_br7 | envelope<br>assist<br>aim<br>fish<br>marine<br>dove<br>find |  
+| bip_39_word_new_br8 | envelope<br>assist<br>aim<br>fish<br>marine<br>dove<br>find<br>april |  
+| bip_39_word_new_br9 | envelope<br>assist<br>aim<br>fish<br>marine<br>dove<br>find<br>april<br>lion |  
+| bip_39_word_new_line1 | envelope |  
+| bip_39_word_new_line10 | envelope
+assist
+aim
+fish
+marine
+dove
+find
+april
+lion
+medal |  
+| bip_39_word_new_line11 | envelope
+assist
+aim
+fish
+marine
+dove
+find
+april
+lion
+medal
+first |  
+| bip_39_word_new_line12 | envelope
+assist
+aim
+fish
+marine
+dove
+find
+april
+lion
+medal
+first
+angry |  
+| bip_39_word_new_line2 | envelope
+assist |  
+| bip_39_word_new_line3 | envelope
+assist
+aim |  
+| bip_39_word_new_line4 | envelope
+assist
+aim
+fish |  
+| bip_39_word_new_line5 | envelope
+assist
+aim
+fish
+marine |  
+| bip_39_word_new_line6 | envelope
+assist
+aim
+fish
+marine
+dove |  
+| bip_39_word_new_line7 | envelope
+assist
+aim
+fish
+marine
+dove
+find |  
+| bip_39_word_new_line8 | envelope
+assist
+aim
+fish
+marine
+dove
+find
+april |  
+| bip_39_word_new_line9 | envelope
+assist
+aim
+fish
+marine
+dove
+find
+april
+lion |  
+| bip_39_word_space_0 | ['envelope', 'assist', 'aim', 'fish', 'marine', 'dove', 'find', 'april', 'lion', 'medal', 'first', 'angry'] |  
+| bip_39_word_space_1 | envelope |  
+| bip_39_word_space_10 | envelope assist aim fish marine dove find april lion medal |  
+| bip_39_word_space_11 | envelope assist aim fish marine dove find april lion medal first |  
+| bip_39_word_space_12 | envelope assist aim fish marine dove find april lion medal first angry |  
+| bip_39_word_space_2 | envelope assist |  
+| bip_39_word_space_3 | envelope assist aim |  
+| bip_39_word_space_4 | envelope assist aim fish |  
+| bip_39_word_space_5 | envelope assist aim fish marine |  
+| bip_39_word_space_6 | envelope assist aim fish marine dove |  
+| bip_39_word_space_7 | envelope assist aim fish marine dove find |  
+| bip_39_word_space_8 | envelope assist aim fish marine dove find april |  
+| bip_39_word_space_9 | envelope assist aim fish marine dove find april lion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: toward
+bip_39_word_new_br10: toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage
+bip_39_word_new_br11: toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage<br>tilt
+bip_39_word_new_br12: toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding<br>usage<br>tilt<br>advance
+bip_39_word_new_br2: toward<br>robust
+bip_39_word_new_br3: toward<br>robust<br>soccer
+bip_39_word_new_br4: toward<br>robust<br>soccer<br>labor
+bip_39_word_new_br5: toward<br>robust<br>soccer<br>labor<br>stage
+bip_39_word_new_br6: toward<br>robust<br>soccer<br>labor<br>stage<br>street
+bip_39_word_new_br7: toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust
+bip_39_word_new_br8: toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay
+bip_39_word_new_br9: toward<br>robust<br>soccer<br>labor<br>stage<br>street<br>adjust<br>delay<br>pudding
+bip_39_word_new_line1: toward
+bip_39_word_new_line10: 'toward
+
+  robust
+
+  soccer
+
+  labor
+
+  stage
+
+  street
+
+  adjust
+
+  delay
+
+  pudding
+
+  usage'
+bip_39_word_new_line11: 'toward
+
+  robust
+
+  soccer
+
+  labor
+
+  stage
+
+  street
+
+  adjust
+
+  delay
+
+  pudding
+
+  usage
+
+  tilt'
+bip_39_word_new_line12: 'toward
+
+  robust
+
+  soccer
+
+  labor
+
+  stage
+
+  street
+
+  adjust
+
+  delay
+
+  pudding
+
+  usage
+
+  tilt
+
+  advance'
+bip_39_word_new_line2: 'toward
+
+  robust'
+bip_39_word_new_line3: 'toward
+
+  robust
+
+  soccer'
+bip_39_word_new_line4: 'toward
+
+  robust
+
+  soccer
+
+  labor'
+bip_39_word_new_line5: 'toward
+
+  robust
+
+  soccer
+
+  labor
+
+  stage'
+bip_39_word_new_line6: 'toward
+
+  robust
+
+  soccer
+
+  labor
+
+  stage
+
+  street'
+bip_39_word_new_line7: 'toward
+
+  robust
+
+  soccer
+
+  labor
+
+  stage
+
+  street
+
+  adjust'
+bip_39_word_new_line8: 'toward
+
+  robust
+
+  soccer
+
+  labor
+
+  stage
+
+  street
+
+  adjust
+
+  delay'
+bip_39_word_new_line9: 'toward
+
+  robust
+
+  soccer
+
+  labor
+
+  stage
+
+  street
+
+  adjust
+
+  delay
+
+  pudding'
+bip_39_word_space_0:
+- toward
+- robust
+- soccer
+- labor
+- stage
+- street
+- adjust
+- delay
+- pudding
+- usage
+- tilt
+- advance
+bip_39_word_space_1: toward
+bip_39_word_space_10: toward robust soccer labor stage street adjust delay pudding
+  usage
+bip_39_word_space_11: toward robust soccer labor stage street adjust delay pudding
+  usage tilt
+bip_39_word_space_12: toward robust soccer labor stage street adjust delay pudding
+  usage tilt advance
+bip_39_word_space_2: toward robust
+bip_39_word_space_3: toward robust soccer
+bip_39_word_space_4: toward robust soccer labor
+bip_39_word_space_5: toward robust soccer labor stage
+bip_39_word_space_6: toward robust soccer labor stage street
+bip_39_word_space_7: toward robust soccer labor stage street adjust
+bip_39_word_space_8: toward robust soccer labor stage street adjust delay
+bip_39_word_space_9: toward robust soccer labor stage street adjust delay pudding
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

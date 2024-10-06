@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rebel scale
+  * bip 39 word 3: rebel scale sail
+  * bip 39 word: rebel scale sail smile people minor fish mention measure midnight affair able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rebel |  
+| bip_39_word_new_br10 | rebel<br>scale<br>sail<br>smile<br>people<br>minor<br>fish<br>mention<br>measure<br>midnight |  
+| bip_39_word_new_br11 | rebel<br>scale<br>sail<br>smile<br>people<br>minor<br>fish<br>mention<br>measure<br>midnight<br>affair |  
+| bip_39_word_new_br12 | rebel<br>scale<br>sail<br>smile<br>people<br>minor<br>fish<br>mention<br>measure<br>midnight<br>affair<br>able |  
+| bip_39_word_new_br2 | rebel<br>scale |  
+| bip_39_word_new_br3 | rebel<br>scale<br>sail |  
+| bip_39_word_new_br4 | rebel<br>scale<br>sail<br>smile |  
+| bip_39_word_new_br5 | rebel<br>scale<br>sail<br>smile<br>people |  
+| bip_39_word_new_br6 | rebel<br>scale<br>sail<br>smile<br>people<br>minor |  
+| bip_39_word_new_br7 | rebel<br>scale<br>sail<br>smile<br>people<br>minor<br>fish |  
+| bip_39_word_new_br8 | rebel<br>scale<br>sail<br>smile<br>people<br>minor<br>fish<br>mention |  
+| bip_39_word_new_br9 | rebel<br>scale<br>sail<br>smile<br>people<br>minor<br>fish<br>mention<br>measure |  
+| bip_39_word_new_line1 | rebel |  
+| bip_39_word_new_line10 | rebel
+scale
+sail
+smile
+people
+minor
+fish
+mention
+measure
+midnight |  
+| bip_39_word_new_line11 | rebel
+scale
+sail
+smile
+people
+minor
+fish
+mention
+measure
+midnight
+affair |  
+| bip_39_word_new_line12 | rebel
+scale
+sail
+smile
+people
+minor
+fish
+mention
+measure
+midnight
+affair
+able |  
+| bip_39_word_new_line2 | rebel
+scale |  
+| bip_39_word_new_line3 | rebel
+scale
+sail |  
+| bip_39_word_new_line4 | rebel
+scale
+sail
+smile |  
+| bip_39_word_new_line5 | rebel
+scale
+sail
+smile
+people |  
+| bip_39_word_new_line6 | rebel
+scale
+sail
+smile
+people
+minor |  
+| bip_39_word_new_line7 | rebel
+scale
+sail
+smile
+people
+minor
+fish |  
+| bip_39_word_new_line8 | rebel
+scale
+sail
+smile
+people
+minor
+fish
+mention |  
+| bip_39_word_new_line9 | rebel
+scale
+sail
+smile
+people
+minor
+fish
+mention
+measure |  
+| bip_39_word_space_0 | ['rebel', 'scale', 'sail', 'smile', 'people', 'minor', 'fish', 'mention', 'measure', 'midnight', 'affair', 'able'] |  
+| bip_39_word_space_1 | rebel |  
+| bip_39_word_space_10 | rebel scale sail smile people minor fish mention measure midnight |  
+| bip_39_word_space_11 | rebel scale sail smile people minor fish mention measure midnight affair |  
+| bip_39_word_space_12 | rebel scale sail smile people minor fish mention measure midnight affair able |  
+| bip_39_word_space_2 | rebel scale |  
+| bip_39_word_space_3 | rebel scale sail |  
+| bip_39_word_space_4 | rebel scale sail smile |  
+| bip_39_word_space_5 | rebel scale sail smile people |  
+| bip_39_word_space_6 | rebel scale sail smile people minor |  
+| bip_39_word_space_7 | rebel scale sail smile people minor fish |  
+| bip_39_word_space_8 | rebel scale sail smile people minor fish mention |  
+| bip_39_word_space_9 | rebel scale sail smile people minor fish mention measure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

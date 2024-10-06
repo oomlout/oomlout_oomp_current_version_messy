@@ -1,3 +1,186 @@
+bip_39_word_new_br1: agree
+bip_39_word_new_br10: agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten
+bip_39_word_new_br11: agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten<br>flush
+bip_39_word_new_br12: agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan<br>ten<br>flush<br>absent
+bip_39_word_new_br2: agree<br>valid
+bip_39_word_new_br3: agree<br>valid<br>soda
+bip_39_word_new_br4: agree<br>valid<br>soda<br>unfair
+bip_39_word_new_br5: agree<br>valid<br>soda<br>unfair<br>giggle
+bip_39_word_new_br6: agree<br>valid<br>soda<br>unfair<br>giggle<br>illness
+bip_39_word_new_br7: agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow
+bip_39_word_new_br8: agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym
+bip_39_word_new_br9: agree<br>valid<br>soda<br>unfair<br>giggle<br>illness<br>swallow<br>gym<br>scan
+bip_39_word_new_line1: agree
+bip_39_word_new_line10: 'agree
+
+  valid
+
+  soda
+
+  unfair
+
+  giggle
+
+  illness
+
+  swallow
+
+  gym
+
+  scan
+
+  ten'
+bip_39_word_new_line11: 'agree
+
+  valid
+
+  soda
+
+  unfair
+
+  giggle
+
+  illness
+
+  swallow
+
+  gym
+
+  scan
+
+  ten
+
+  flush'
+bip_39_word_new_line12: 'agree
+
+  valid
+
+  soda
+
+  unfair
+
+  giggle
+
+  illness
+
+  swallow
+
+  gym
+
+  scan
+
+  ten
+
+  flush
+
+  absent'
+bip_39_word_new_line2: 'agree
+
+  valid'
+bip_39_word_new_line3: 'agree
+
+  valid
+
+  soda'
+bip_39_word_new_line4: 'agree
+
+  valid
+
+  soda
+
+  unfair'
+bip_39_word_new_line5: 'agree
+
+  valid
+
+  soda
+
+  unfair
+
+  giggle'
+bip_39_word_new_line6: 'agree
+
+  valid
+
+  soda
+
+  unfair
+
+  giggle
+
+  illness'
+bip_39_word_new_line7: 'agree
+
+  valid
+
+  soda
+
+  unfair
+
+  giggle
+
+  illness
+
+  swallow'
+bip_39_word_new_line8: 'agree
+
+  valid
+
+  soda
+
+  unfair
+
+  giggle
+
+  illness
+
+  swallow
+
+  gym'
+bip_39_word_new_line9: 'agree
+
+  valid
+
+  soda
+
+  unfair
+
+  giggle
+
+  illness
+
+  swallow
+
+  gym
+
+  scan'
+bip_39_word_space_0:
+- agree
+- valid
+- soda
+- unfair
+- giggle
+- illness
+- swallow
+- gym
+- scan
+- ten
+- flush
+- absent
+bip_39_word_space_1: agree
+bip_39_word_space_10: agree valid soda unfair giggle illness swallow gym scan ten
+bip_39_word_space_11: agree valid soda unfair giggle illness swallow gym scan ten
+  flush
+bip_39_word_space_12: agree valid soda unfair giggle illness swallow gym scan ten
+  flush absent
+bip_39_word_space_2: agree valid
+bip_39_word_space_3: agree valid soda
+bip_39_word_space_4: agree valid soda unfair
+bip_39_word_space_5: agree valid soda unfair giggle
+bip_39_word_space_6: agree valid soda unfair giggle illness
+bip_39_word_space_7: agree valid soda unfair giggle illness swallow
+bip_39_word_space_8: agree valid soda unfair giggle illness swallow gym
+bip_39_word_space_9: agree valid soda unfair giggle illness swallow gym scan
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: r
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: direct upper
+  * bip 39 word 3: direct upper horse
+  * bip 39 word: direct upper horse junk input tunnel balance theory bulk timber solar anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | direct |  
+| bip_39_word_new_br10 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel<br>balance<br>theory<br>bulk<br>timber |  
+| bip_39_word_new_br11 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel<br>balance<br>theory<br>bulk<br>timber<br>solar |  
+| bip_39_word_new_br12 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel<br>balance<br>theory<br>bulk<br>timber<br>solar<br>anxiety |  
+| bip_39_word_new_br2 | direct<br>upper |  
+| bip_39_word_new_br3 | direct<br>upper<br>horse |  
+| bip_39_word_new_br4 | direct<br>upper<br>horse<br>junk |  
+| bip_39_word_new_br5 | direct<br>upper<br>horse<br>junk<br>input |  
+| bip_39_word_new_br6 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel |  
+| bip_39_word_new_br7 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel<br>balance |  
+| bip_39_word_new_br8 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel<br>balance<br>theory |  
+| bip_39_word_new_br9 | direct<br>upper<br>horse<br>junk<br>input<br>tunnel<br>balance<br>theory<br>bulk |  
+| bip_39_word_new_line1 | direct |  
+| bip_39_word_new_line10 | direct
+upper
+horse
+junk
+input
+tunnel
+balance
+theory
+bulk
+timber |  
+| bip_39_word_new_line11 | direct
+upper
+horse
+junk
+input
+tunnel
+balance
+theory
+bulk
+timber
+solar |  
+| bip_39_word_new_line12 | direct
+upper
+horse
+junk
+input
+tunnel
+balance
+theory
+bulk
+timber
+solar
+anxiety |  
+| bip_39_word_new_line2 | direct
+upper |  
+| bip_39_word_new_line3 | direct
+upper
+horse |  
+| bip_39_word_new_line4 | direct
+upper
+horse
+junk |  
+| bip_39_word_new_line5 | direct
+upper
+horse
+junk
+input |  
+| bip_39_word_new_line6 | direct
+upper
+horse
+junk
+input
+tunnel |  
+| bip_39_word_new_line7 | direct
+upper
+horse
+junk
+input
+tunnel
+balance |  
+| bip_39_word_new_line8 | direct
+upper
+horse
+junk
+input
+tunnel
+balance
+theory |  
+| bip_39_word_new_line9 | direct
+upper
+horse
+junk
+input
+tunnel
+balance
+theory
+bulk |  
+| bip_39_word_space_0 | ['direct', 'upper', 'horse', 'junk', 'input', 'tunnel', 'balance', 'theory', 'bulk', 'timber', 'solar', 'anxiety'] |  
+| bip_39_word_space_1 | direct |  
+| bip_39_word_space_10 | direct upper horse junk input tunnel balance theory bulk timber |  
+| bip_39_word_space_11 | direct upper horse junk input tunnel balance theory bulk timber solar |  
+| bip_39_word_space_12 | direct upper horse junk input tunnel balance theory bulk timber solar anxiety |  
+| bip_39_word_space_2 | direct upper |  
+| bip_39_word_space_3 | direct upper horse |  
+| bip_39_word_space_4 | direct upper horse junk |  
+| bip_39_word_space_5 | direct upper horse junk input |  
+| bip_39_word_space_6 | direct upper horse junk input tunnel |  
+| bip_39_word_space_7 | direct upper horse junk input tunnel balance |  
+| bip_39_word_space_8 | direct upper horse junk input tunnel balance theory |  
+| bip_39_word_space_9 | direct upper horse junk input tunnel balance theory bulk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

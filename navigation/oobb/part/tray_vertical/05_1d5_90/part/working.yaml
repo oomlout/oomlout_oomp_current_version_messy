@@ -1,3 +1,186 @@
+bip_39_word_new_br1: absent
+bip_39_word_new_br10: absent<br>net<br>inject<br>valley<br>stamp<br>kiss<br>basket<br>glass<br>chase<br>monitor
+bip_39_word_new_br11: absent<br>net<br>inject<br>valley<br>stamp<br>kiss<br>basket<br>glass<br>chase<br>monitor<br>decline
+bip_39_word_new_br12: absent<br>net<br>inject<br>valley<br>stamp<br>kiss<br>basket<br>glass<br>chase<br>monitor<br>decline<br>ankle
+bip_39_word_new_br2: absent<br>net
+bip_39_word_new_br3: absent<br>net<br>inject
+bip_39_word_new_br4: absent<br>net<br>inject<br>valley
+bip_39_word_new_br5: absent<br>net<br>inject<br>valley<br>stamp
+bip_39_word_new_br6: absent<br>net<br>inject<br>valley<br>stamp<br>kiss
+bip_39_word_new_br7: absent<br>net<br>inject<br>valley<br>stamp<br>kiss<br>basket
+bip_39_word_new_br8: absent<br>net<br>inject<br>valley<br>stamp<br>kiss<br>basket<br>glass
+bip_39_word_new_br9: absent<br>net<br>inject<br>valley<br>stamp<br>kiss<br>basket<br>glass<br>chase
+bip_39_word_new_line1: absent
+bip_39_word_new_line10: 'absent
+
+  net
+
+  inject
+
+  valley
+
+  stamp
+
+  kiss
+
+  basket
+
+  glass
+
+  chase
+
+  monitor'
+bip_39_word_new_line11: 'absent
+
+  net
+
+  inject
+
+  valley
+
+  stamp
+
+  kiss
+
+  basket
+
+  glass
+
+  chase
+
+  monitor
+
+  decline'
+bip_39_word_new_line12: 'absent
+
+  net
+
+  inject
+
+  valley
+
+  stamp
+
+  kiss
+
+  basket
+
+  glass
+
+  chase
+
+  monitor
+
+  decline
+
+  ankle'
+bip_39_word_new_line2: 'absent
+
+  net'
+bip_39_word_new_line3: 'absent
+
+  net
+
+  inject'
+bip_39_word_new_line4: 'absent
+
+  net
+
+  inject
+
+  valley'
+bip_39_word_new_line5: 'absent
+
+  net
+
+  inject
+
+  valley
+
+  stamp'
+bip_39_word_new_line6: 'absent
+
+  net
+
+  inject
+
+  valley
+
+  stamp
+
+  kiss'
+bip_39_word_new_line7: 'absent
+
+  net
+
+  inject
+
+  valley
+
+  stamp
+
+  kiss
+
+  basket'
+bip_39_word_new_line8: 'absent
+
+  net
+
+  inject
+
+  valley
+
+  stamp
+
+  kiss
+
+  basket
+
+  glass'
+bip_39_word_new_line9: 'absent
+
+  net
+
+  inject
+
+  valley
+
+  stamp
+
+  kiss
+
+  basket
+
+  glass
+
+  chase'
+bip_39_word_space_0:
+- absent
+- net
+- inject
+- valley
+- stamp
+- kiss
+- basket
+- glass
+- chase
+- monitor
+- decline
+- ankle
+bip_39_word_space_1: absent
+bip_39_word_space_10: absent net inject valley stamp kiss basket glass chase monitor
+bip_39_word_space_11: absent net inject valley stamp kiss basket glass chase monitor
+  decline
+bip_39_word_space_12: absent net inject valley stamp kiss basket glass chase monitor
+  decline ankle
+bip_39_word_space_2: absent net
+bip_39_word_space_3: absent net inject
+bip_39_word_space_4: absent net inject valley
+bip_39_word_space_5: absent net inject valley stamp
+bip_39_word_space_6: absent net inject valley stamp kiss
+bip_39_word_space_7: absent net inject valley stamp kiss basket
+bip_39_word_space_8: absent net inject valley stamp kiss basket glass
+bip_39_word_space_9: absent net inject valley stamp kiss basket glass chase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

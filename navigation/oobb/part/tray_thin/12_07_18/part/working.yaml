@@ -1,3 +1,186 @@
+bip_39_word_new_br1: series
+bip_39_word_new_br10: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull
+bip_39_word_new_br11: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart
+bip_39_word_new_br12: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart<br>add
+bip_39_word_new_br2: series<br>stick
+bip_39_word_new_br3: series<br>stick<br>razor
+bip_39_word_new_br4: series<br>stick<br>razor<br>gas
+bip_39_word_new_br5: series<br>stick<br>razor<br>gas<br>easily
+bip_39_word_new_br6: series<br>stick<br>razor<br>gas<br>easily<br>tobacco
+bip_39_word_new_br7: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth
+bip_39_word_new_br8: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect
+bip_39_word_new_br9: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone
+bip_39_word_new_line1: series
+bip_39_word_new_line10: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect
+
+  tone
+
+  skull'
+bip_39_word_new_line11: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect
+
+  tone
+
+  skull
+
+  depart'
+bip_39_word_new_line12: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect
+
+  tone
+
+  skull
+
+  depart
+
+  add'
+bip_39_word_new_line2: 'series
+
+  stick'
+bip_39_word_new_line3: 'series
+
+  stick
+
+  razor'
+bip_39_word_new_line4: 'series
+
+  stick
+
+  razor
+
+  gas'
+bip_39_word_new_line5: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily'
+bip_39_word_new_line6: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco'
+bip_39_word_new_line7: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth'
+bip_39_word_new_line8: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect'
+bip_39_word_new_line9: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect
+
+  tone'
+bip_39_word_space_0:
+- series
+- stick
+- razor
+- gas
+- easily
+- tobacco
+- depth
+- perfect
+- tone
+- skull
+- depart
+- add
+bip_39_word_space_1: series
+bip_39_word_space_10: series stick razor gas easily tobacco depth perfect tone skull
+bip_39_word_space_11: series stick razor gas easily tobacco depth perfect tone skull
+  depart
+bip_39_word_space_12: series stick razor gas easily tobacco depth perfect tone skull
+  depart add
+bip_39_word_space_2: series stick
+bip_39_word_space_3: series stick razor
+bip_39_word_space_4: series stick razor gas
+bip_39_word_space_5: series stick razor gas easily
+bip_39_word_space_6: series stick razor gas easily tobacco
+bip_39_word_space_7: series stick razor gas easily tobacco depth
+bip_39_word_space_8: series stick razor gas easily tobacco depth perfect
+bip_39_word_space_9: series stick razor gas easily tobacco depth perfect tone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

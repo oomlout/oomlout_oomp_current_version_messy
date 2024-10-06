@@ -1,3 +1,185 @@
+bip_39_word_new_br1: release
+bip_39_word_new_br10: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform
+bip_39_word_new_br11: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket
+bip_39_word_new_br12: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket<br>adult
+bip_39_word_new_br2: release<br>evil
+bip_39_word_new_br3: release<br>evil<br>split
+bip_39_word_new_br4: release<br>evil<br>split<br>clog
+bip_39_word_new_br5: release<br>evil<br>split<br>clog<br>lift
+bip_39_word_new_br6: release<br>evil<br>split<br>clog<br>lift<br>sight
+bip_39_word_new_br7: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn
+bip_39_word_new_br8: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main
+bip_39_word_new_br9: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat
+bip_39_word_new_line1: release
+bip_39_word_new_line10: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main
+
+  meat
+
+  uniform'
+bip_39_word_new_line11: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main
+
+  meat
+
+  uniform
+
+  cricket'
+bip_39_word_new_line12: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main
+
+  meat
+
+  uniform
+
+  cricket
+
+  adult'
+bip_39_word_new_line2: 'release
+
+  evil'
+bip_39_word_new_line3: 'release
+
+  evil
+
+  split'
+bip_39_word_new_line4: 'release
+
+  evil
+
+  split
+
+  clog'
+bip_39_word_new_line5: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift'
+bip_39_word_new_line6: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight'
+bip_39_word_new_line7: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn'
+bip_39_word_new_line8: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main'
+bip_39_word_new_line9: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main
+
+  meat'
+bip_39_word_space_0:
+- release
+- evil
+- split
+- clog
+- lift
+- sight
+- earn
+- main
+- meat
+- uniform
+- cricket
+- adult
+bip_39_word_space_1: release
+bip_39_word_space_10: release evil split clog lift sight earn main meat uniform
+bip_39_word_space_11: release evil split clog lift sight earn main meat uniform cricket
+bip_39_word_space_12: release evil split clog lift sight earn main meat uniform cricket
+  adult
+bip_39_word_space_2: release evil
+bip_39_word_space_3: release evil split
+bip_39_word_space_4: release evil split clog
+bip_39_word_space_5: release evil split clog lift
+bip_39_word_space_6: release evil split clog lift sight
+bip_39_word_space_7: release evil split clog lift sight earn
+bip_39_word_space_8: release evil split clog lift sight earn main
+bip_39_word_space_9: release evil split clog lift sight earn main meat
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

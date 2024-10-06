@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: biology reflect
+  * bip 39 word 3: biology reflect cotton
+  * bip 39 word: biology reflect cotton column you abuse govern custom valid elder swarm ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | biology |  
+| bip_39_word_new_br10 | biology<br>reflect<br>cotton<br>column<br>you<br>abuse<br>govern<br>custom<br>valid<br>elder |  
+| bip_39_word_new_br11 | biology<br>reflect<br>cotton<br>column<br>you<br>abuse<br>govern<br>custom<br>valid<br>elder<br>swarm |  
+| bip_39_word_new_br12 | biology<br>reflect<br>cotton<br>column<br>you<br>abuse<br>govern<br>custom<br>valid<br>elder<br>swarm<br>ability |  
+| bip_39_word_new_br2 | biology<br>reflect |  
+| bip_39_word_new_br3 | biology<br>reflect<br>cotton |  
+| bip_39_word_new_br4 | biology<br>reflect<br>cotton<br>column |  
+| bip_39_word_new_br5 | biology<br>reflect<br>cotton<br>column<br>you |  
+| bip_39_word_new_br6 | biology<br>reflect<br>cotton<br>column<br>you<br>abuse |  
+| bip_39_word_new_br7 | biology<br>reflect<br>cotton<br>column<br>you<br>abuse<br>govern |  
+| bip_39_word_new_br8 | biology<br>reflect<br>cotton<br>column<br>you<br>abuse<br>govern<br>custom |  
+| bip_39_word_new_br9 | biology<br>reflect<br>cotton<br>column<br>you<br>abuse<br>govern<br>custom<br>valid |  
+| bip_39_word_new_line1 | biology |  
+| bip_39_word_new_line10 | biology
+reflect
+cotton
+column
+you
+abuse
+govern
+custom
+valid
+elder |  
+| bip_39_word_new_line11 | biology
+reflect
+cotton
+column
+you
+abuse
+govern
+custom
+valid
+elder
+swarm |  
+| bip_39_word_new_line12 | biology
+reflect
+cotton
+column
+you
+abuse
+govern
+custom
+valid
+elder
+swarm
+ability |  
+| bip_39_word_new_line2 | biology
+reflect |  
+| bip_39_word_new_line3 | biology
+reflect
+cotton |  
+| bip_39_word_new_line4 | biology
+reflect
+cotton
+column |  
+| bip_39_word_new_line5 | biology
+reflect
+cotton
+column
+you |  
+| bip_39_word_new_line6 | biology
+reflect
+cotton
+column
+you
+abuse |  
+| bip_39_word_new_line7 | biology
+reflect
+cotton
+column
+you
+abuse
+govern |  
+| bip_39_word_new_line8 | biology
+reflect
+cotton
+column
+you
+abuse
+govern
+custom |  
+| bip_39_word_new_line9 | biology
+reflect
+cotton
+column
+you
+abuse
+govern
+custom
+valid |  
+| bip_39_word_space_0 | ['biology', 'reflect', 'cotton', 'column', 'you', 'abuse', 'govern', 'custom', 'valid', 'elder', 'swarm', 'ability'] |  
+| bip_39_word_space_1 | biology |  
+| bip_39_word_space_10 | biology reflect cotton column you abuse govern custom valid elder |  
+| bip_39_word_space_11 | biology reflect cotton column you abuse govern custom valid elder swarm |  
+| bip_39_word_space_12 | biology reflect cotton column you abuse govern custom valid elder swarm ability |  
+| bip_39_word_space_2 | biology reflect |  
+| bip_39_word_space_3 | biology reflect cotton |  
+| bip_39_word_space_4 | biology reflect cotton column |  
+| bip_39_word_space_5 | biology reflect cotton column you |  
+| bip_39_word_space_6 | biology reflect cotton column you abuse |  
+| bip_39_word_space_7 | biology reflect cotton column you abuse govern |  
+| bip_39_word_space_8 | biology reflect cotton column you abuse govern custom |  
+| bip_39_word_space_9 | biology reflect cotton column you abuse govern custom valid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

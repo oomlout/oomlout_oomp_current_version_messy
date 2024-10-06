@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pave column
+  * bip 39 word 3: pave column sense
+  * bip 39 word: pave column sense key clay bundle obey over female unfold rubber alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pave |  
+| bip_39_word_new_br10 | pave<br>column<br>sense<br>key<br>clay<br>bundle<br>obey<br>over<br>female<br>unfold |  
+| bip_39_word_new_br11 | pave<br>column<br>sense<br>key<br>clay<br>bundle<br>obey<br>over<br>female<br>unfold<br>rubber |  
+| bip_39_word_new_br12 | pave<br>column<br>sense<br>key<br>clay<br>bundle<br>obey<br>over<br>female<br>unfold<br>rubber<br>alpha |  
+| bip_39_word_new_br2 | pave<br>column |  
+| bip_39_word_new_br3 | pave<br>column<br>sense |  
+| bip_39_word_new_br4 | pave<br>column<br>sense<br>key |  
+| bip_39_word_new_br5 | pave<br>column<br>sense<br>key<br>clay |  
+| bip_39_word_new_br6 | pave<br>column<br>sense<br>key<br>clay<br>bundle |  
+| bip_39_word_new_br7 | pave<br>column<br>sense<br>key<br>clay<br>bundle<br>obey |  
+| bip_39_word_new_br8 | pave<br>column<br>sense<br>key<br>clay<br>bundle<br>obey<br>over |  
+| bip_39_word_new_br9 | pave<br>column<br>sense<br>key<br>clay<br>bundle<br>obey<br>over<br>female |  
+| bip_39_word_new_line1 | pave |  
+| bip_39_word_new_line10 | pave
+column
+sense
+key
+clay
+bundle
+obey
+over
+female
+unfold |  
+| bip_39_word_new_line11 | pave
+column
+sense
+key
+clay
+bundle
+obey
+over
+female
+unfold
+rubber |  
+| bip_39_word_new_line12 | pave
+column
+sense
+key
+clay
+bundle
+obey
+over
+female
+unfold
+rubber
+alpha |  
+| bip_39_word_new_line2 | pave
+column |  
+| bip_39_word_new_line3 | pave
+column
+sense |  
+| bip_39_word_new_line4 | pave
+column
+sense
+key |  
+| bip_39_word_new_line5 | pave
+column
+sense
+key
+clay |  
+| bip_39_word_new_line6 | pave
+column
+sense
+key
+clay
+bundle |  
+| bip_39_word_new_line7 | pave
+column
+sense
+key
+clay
+bundle
+obey |  
+| bip_39_word_new_line8 | pave
+column
+sense
+key
+clay
+bundle
+obey
+over |  
+| bip_39_word_new_line9 | pave
+column
+sense
+key
+clay
+bundle
+obey
+over
+female |  
+| bip_39_word_space_0 | ['pave', 'column', 'sense', 'key', 'clay', 'bundle', 'obey', 'over', 'female', 'unfold', 'rubber', 'alpha'] |  
+| bip_39_word_space_1 | pave |  
+| bip_39_word_space_10 | pave column sense key clay bundle obey over female unfold |  
+| bip_39_word_space_11 | pave column sense key clay bundle obey over female unfold rubber |  
+| bip_39_word_space_12 | pave column sense key clay bundle obey over female unfold rubber alpha |  
+| bip_39_word_space_2 | pave column |  
+| bip_39_word_space_3 | pave column sense |  
+| bip_39_word_space_4 | pave column sense key |  
+| bip_39_word_space_5 | pave column sense key clay |  
+| bip_39_word_space_6 | pave column sense key clay bundle |  
+| bip_39_word_space_7 | pave column sense key clay bundle obey |  
+| bip_39_word_space_8 | pave column sense key clay bundle obey over |  
+| bip_39_word_space_9 | pave column sense key clay bundle obey over female |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

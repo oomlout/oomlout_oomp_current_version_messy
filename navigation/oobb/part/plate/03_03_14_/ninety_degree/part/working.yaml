@@ -1,3 +1,187 @@
+bip_39_word_new_br1: already
+bip_39_word_new_br10: already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid
+bip_39_word_new_br11: already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid<br>stamp
+bip_39_word_new_br12: already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold<br>hybrid<br>stamp<br>absorb
+bip_39_word_new_br2: already<br>account
+bip_39_word_new_br3: already<br>account<br>fish
+bip_39_word_new_br4: already<br>account<br>fish<br>bone
+bip_39_word_new_br5: already<br>account<br>fish<br>bone<br>prosper
+bip_39_word_new_br6: already<br>account<br>fish<br>bone<br>prosper<br>silver
+bip_39_word_new_br7: already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student
+bip_39_word_new_br8: already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete
+bip_39_word_new_br9: already<br>account<br>fish<br>bone<br>prosper<br>silver<br>student<br>athlete<br>unfold
+bip_39_word_new_line1: already
+bip_39_word_new_line10: 'already
+
+  account
+
+  fish
+
+  bone
+
+  prosper
+
+  silver
+
+  student
+
+  athlete
+
+  unfold
+
+  hybrid'
+bip_39_word_new_line11: 'already
+
+  account
+
+  fish
+
+  bone
+
+  prosper
+
+  silver
+
+  student
+
+  athlete
+
+  unfold
+
+  hybrid
+
+  stamp'
+bip_39_word_new_line12: 'already
+
+  account
+
+  fish
+
+  bone
+
+  prosper
+
+  silver
+
+  student
+
+  athlete
+
+  unfold
+
+  hybrid
+
+  stamp
+
+  absorb'
+bip_39_word_new_line2: 'already
+
+  account'
+bip_39_word_new_line3: 'already
+
+  account
+
+  fish'
+bip_39_word_new_line4: 'already
+
+  account
+
+  fish
+
+  bone'
+bip_39_word_new_line5: 'already
+
+  account
+
+  fish
+
+  bone
+
+  prosper'
+bip_39_word_new_line6: 'already
+
+  account
+
+  fish
+
+  bone
+
+  prosper
+
+  silver'
+bip_39_word_new_line7: 'already
+
+  account
+
+  fish
+
+  bone
+
+  prosper
+
+  silver
+
+  student'
+bip_39_word_new_line8: 'already
+
+  account
+
+  fish
+
+  bone
+
+  prosper
+
+  silver
+
+  student
+
+  athlete'
+bip_39_word_new_line9: 'already
+
+  account
+
+  fish
+
+  bone
+
+  prosper
+
+  silver
+
+  student
+
+  athlete
+
+  unfold'
+bip_39_word_space_0:
+- already
+- account
+- fish
+- bone
+- prosper
+- silver
+- student
+- athlete
+- unfold
+- hybrid
+- stamp
+- absorb
+bip_39_word_space_1: already
+bip_39_word_space_10: already account fish bone prosper silver student athlete unfold
+  hybrid
+bip_39_word_space_11: already account fish bone prosper silver student athlete unfold
+  hybrid stamp
+bip_39_word_space_12: already account fish bone prosper silver student athlete unfold
+  hybrid stamp absorb
+bip_39_word_space_2: already account
+bip_39_word_space_3: already account fish
+bip_39_word_space_4: already account fish bone
+bip_39_word_space_5: already account fish bone prosper
+bip_39_word_space_6: already account fish bone prosper silver
+bip_39_word_space_7: already account fish bone prosper silver student
+bip_39_word_space_8: already account fish bone prosper silver student athlete
+bip_39_word_space_9: already account fish bone prosper silver student athlete unfold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

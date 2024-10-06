@@ -1,3 +1,186 @@
+bip_39_word_new_br1: oppose
+bip_39_word_new_br10: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle<br>hope<br>train<br>modify<br>country
+bip_39_word_new_br11: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle<br>hope<br>train<br>modify<br>country<br>pair
+bip_39_word_new_br12: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle<br>hope<br>train<br>modify<br>country<br>pair<br>average
+bip_39_word_new_br2: oppose<br>stock
+bip_39_word_new_br3: oppose<br>stock<br>situate
+bip_39_word_new_br4: oppose<br>stock<br>situate<br>seek
+bip_39_word_new_br5: oppose<br>stock<br>situate<br>seek<br>mean
+bip_39_word_new_br6: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle
+bip_39_word_new_br7: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle<br>hope
+bip_39_word_new_br8: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle<br>hope<br>train
+bip_39_word_new_br9: oppose<br>stock<br>situate<br>seek<br>mean<br>rifle<br>hope<br>train<br>modify
+bip_39_word_new_line1: oppose
+bip_39_word_new_line10: 'oppose
+
+  stock
+
+  situate
+
+  seek
+
+  mean
+
+  rifle
+
+  hope
+
+  train
+
+  modify
+
+  country'
+bip_39_word_new_line11: 'oppose
+
+  stock
+
+  situate
+
+  seek
+
+  mean
+
+  rifle
+
+  hope
+
+  train
+
+  modify
+
+  country
+
+  pair'
+bip_39_word_new_line12: 'oppose
+
+  stock
+
+  situate
+
+  seek
+
+  mean
+
+  rifle
+
+  hope
+
+  train
+
+  modify
+
+  country
+
+  pair
+
+  average'
+bip_39_word_new_line2: 'oppose
+
+  stock'
+bip_39_word_new_line3: 'oppose
+
+  stock
+
+  situate'
+bip_39_word_new_line4: 'oppose
+
+  stock
+
+  situate
+
+  seek'
+bip_39_word_new_line5: 'oppose
+
+  stock
+
+  situate
+
+  seek
+
+  mean'
+bip_39_word_new_line6: 'oppose
+
+  stock
+
+  situate
+
+  seek
+
+  mean
+
+  rifle'
+bip_39_word_new_line7: 'oppose
+
+  stock
+
+  situate
+
+  seek
+
+  mean
+
+  rifle
+
+  hope'
+bip_39_word_new_line8: 'oppose
+
+  stock
+
+  situate
+
+  seek
+
+  mean
+
+  rifle
+
+  hope
+
+  train'
+bip_39_word_new_line9: 'oppose
+
+  stock
+
+  situate
+
+  seek
+
+  mean
+
+  rifle
+
+  hope
+
+  train
+
+  modify'
+bip_39_word_space_0:
+- oppose
+- stock
+- situate
+- seek
+- mean
+- rifle
+- hope
+- train
+- modify
+- country
+- pair
+- average
+bip_39_word_space_1: oppose
+bip_39_word_space_10: oppose stock situate seek mean rifle hope train modify country
+bip_39_word_space_11: oppose stock situate seek mean rifle hope train modify country
+  pair
+bip_39_word_space_12: oppose stock situate seek mean rifle hope train modify country
+  pair average
+bip_39_word_space_2: oppose stock
+bip_39_word_space_3: oppose stock situate
+bip_39_word_space_4: oppose stock situate seek
+bip_39_word_space_5: oppose stock situate seek mean
+bip_39_word_space_6: oppose stock situate seek mean rifle
+bip_39_word_space_7: oppose stock situate seek mean rifle hope
+bip_39_word_space_8: oppose stock situate seek mean rifle hope train
+bip_39_word_space_9: oppose stock situate seek mean rifle hope train modify
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

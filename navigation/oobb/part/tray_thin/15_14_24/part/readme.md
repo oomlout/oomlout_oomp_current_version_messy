@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: action crime
+  * bip 39 word 3: action crime mind
+  * bip 39 word: action crime mind name tip achieve hundred today movie staff traffic assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | action |  
+| bip_39_word_new_br10 | action<br>crime<br>mind<br>name<br>tip<br>achieve<br>hundred<br>today<br>movie<br>staff |  
+| bip_39_word_new_br11 | action<br>crime<br>mind<br>name<br>tip<br>achieve<br>hundred<br>today<br>movie<br>staff<br>traffic |  
+| bip_39_word_new_br12 | action<br>crime<br>mind<br>name<br>tip<br>achieve<br>hundred<br>today<br>movie<br>staff<br>traffic<br>assist |  
+| bip_39_word_new_br2 | action<br>crime |  
+| bip_39_word_new_br3 | action<br>crime<br>mind |  
+| bip_39_word_new_br4 | action<br>crime<br>mind<br>name |  
+| bip_39_word_new_br5 | action<br>crime<br>mind<br>name<br>tip |  
+| bip_39_word_new_br6 | action<br>crime<br>mind<br>name<br>tip<br>achieve |  
+| bip_39_word_new_br7 | action<br>crime<br>mind<br>name<br>tip<br>achieve<br>hundred |  
+| bip_39_word_new_br8 | action<br>crime<br>mind<br>name<br>tip<br>achieve<br>hundred<br>today |  
+| bip_39_word_new_br9 | action<br>crime<br>mind<br>name<br>tip<br>achieve<br>hundred<br>today<br>movie |  
+| bip_39_word_new_line1 | action |  
+| bip_39_word_new_line10 | action
+crime
+mind
+name
+tip
+achieve
+hundred
+today
+movie
+staff |  
+| bip_39_word_new_line11 | action
+crime
+mind
+name
+tip
+achieve
+hundred
+today
+movie
+staff
+traffic |  
+| bip_39_word_new_line12 | action
+crime
+mind
+name
+tip
+achieve
+hundred
+today
+movie
+staff
+traffic
+assist |  
+| bip_39_word_new_line2 | action
+crime |  
+| bip_39_word_new_line3 | action
+crime
+mind |  
+| bip_39_word_new_line4 | action
+crime
+mind
+name |  
+| bip_39_word_new_line5 | action
+crime
+mind
+name
+tip |  
+| bip_39_word_new_line6 | action
+crime
+mind
+name
+tip
+achieve |  
+| bip_39_word_new_line7 | action
+crime
+mind
+name
+tip
+achieve
+hundred |  
+| bip_39_word_new_line8 | action
+crime
+mind
+name
+tip
+achieve
+hundred
+today |  
+| bip_39_word_new_line9 | action
+crime
+mind
+name
+tip
+achieve
+hundred
+today
+movie |  
+| bip_39_word_space_0 | ['action', 'crime', 'mind', 'name', 'tip', 'achieve', 'hundred', 'today', 'movie', 'staff', 'traffic', 'assist'] |  
+| bip_39_word_space_1 | action |  
+| bip_39_word_space_10 | action crime mind name tip achieve hundred today movie staff |  
+| bip_39_word_space_11 | action crime mind name tip achieve hundred today movie staff traffic |  
+| bip_39_word_space_12 | action crime mind name tip achieve hundred today movie staff traffic assist |  
+| bip_39_word_space_2 | action crime |  
+| bip_39_word_space_3 | action crime mind |  
+| bip_39_word_space_4 | action crime mind name |  
+| bip_39_word_space_5 | action crime mind name tip |  
+| bip_39_word_space_6 | action crime mind name tip achieve |  
+| bip_39_word_space_7 | action crime mind name tip achieve hundred |  
+| bip_39_word_space_8 | action crime mind name tip achieve hundred today |  
+| bip_39_word_space_9 | action crime mind name tip achieve hundred today movie |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

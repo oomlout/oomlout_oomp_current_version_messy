@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fun then
+  * bip 39 word 3: fun then glide
+  * bip 39 word: fun then glide tower token shove city torch dose resemble still april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fun |  
+| bip_39_word_new_br10 | fun<br>then<br>glide<br>tower<br>token<br>shove<br>city<br>torch<br>dose<br>resemble |  
+| bip_39_word_new_br11 | fun<br>then<br>glide<br>tower<br>token<br>shove<br>city<br>torch<br>dose<br>resemble<br>still |  
+| bip_39_word_new_br12 | fun<br>then<br>glide<br>tower<br>token<br>shove<br>city<br>torch<br>dose<br>resemble<br>still<br>april |  
+| bip_39_word_new_br2 | fun<br>then |  
+| bip_39_word_new_br3 | fun<br>then<br>glide |  
+| bip_39_word_new_br4 | fun<br>then<br>glide<br>tower |  
+| bip_39_word_new_br5 | fun<br>then<br>glide<br>tower<br>token |  
+| bip_39_word_new_br6 | fun<br>then<br>glide<br>tower<br>token<br>shove |  
+| bip_39_word_new_br7 | fun<br>then<br>glide<br>tower<br>token<br>shove<br>city |  
+| bip_39_word_new_br8 | fun<br>then<br>glide<br>tower<br>token<br>shove<br>city<br>torch |  
+| bip_39_word_new_br9 | fun<br>then<br>glide<br>tower<br>token<br>shove<br>city<br>torch<br>dose |  
+| bip_39_word_new_line1 | fun |  
+| bip_39_word_new_line10 | fun
+then
+glide
+tower
+token
+shove
+city
+torch
+dose
+resemble |  
+| bip_39_word_new_line11 | fun
+then
+glide
+tower
+token
+shove
+city
+torch
+dose
+resemble
+still |  
+| bip_39_word_new_line12 | fun
+then
+glide
+tower
+token
+shove
+city
+torch
+dose
+resemble
+still
+april |  
+| bip_39_word_new_line2 | fun
+then |  
+| bip_39_word_new_line3 | fun
+then
+glide |  
+| bip_39_word_new_line4 | fun
+then
+glide
+tower |  
+| bip_39_word_new_line5 | fun
+then
+glide
+tower
+token |  
+| bip_39_word_new_line6 | fun
+then
+glide
+tower
+token
+shove |  
+| bip_39_word_new_line7 | fun
+then
+glide
+tower
+token
+shove
+city |  
+| bip_39_word_new_line8 | fun
+then
+glide
+tower
+token
+shove
+city
+torch |  
+| bip_39_word_new_line9 | fun
+then
+glide
+tower
+token
+shove
+city
+torch
+dose |  
+| bip_39_word_space_0 | ['fun', 'then', 'glide', 'tower', 'token', 'shove', 'city', 'torch', 'dose', 'resemble', 'still', 'april'] |  
+| bip_39_word_space_1 | fun |  
+| bip_39_word_space_10 | fun then glide tower token shove city torch dose resemble |  
+| bip_39_word_space_11 | fun then glide tower token shove city torch dose resemble still |  
+| bip_39_word_space_12 | fun then glide tower token shove city torch dose resemble still april |  
+| bip_39_word_space_2 | fun then |  
+| bip_39_word_space_3 | fun then glide |  
+| bip_39_word_space_4 | fun then glide tower |  
+| bip_39_word_space_5 | fun then glide tower token |  
+| bip_39_word_space_6 | fun then glide tower token shove |  
+| bip_39_word_space_7 | fun then glide tower token shove city |  
+| bip_39_word_space_8 | fun then glide tower token shove city torch |  
+| bip_39_word_space_9 | fun then glide tower token shove city torch dose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

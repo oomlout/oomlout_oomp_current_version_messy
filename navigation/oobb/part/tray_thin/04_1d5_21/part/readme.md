@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: side puppy
+  * bip 39 word 3: side puppy funny
+  * bip 39 word: side puppy funny where trigger erosion devote hand tourist believe love audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | side |  
+| bip_39_word_new_br10 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion<br>devote<br>hand<br>tourist<br>believe |  
+| bip_39_word_new_br11 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion<br>devote<br>hand<br>tourist<br>believe<br>love |  
+| bip_39_word_new_br12 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion<br>devote<br>hand<br>tourist<br>believe<br>love<br>audit |  
+| bip_39_word_new_br2 | side<br>puppy |  
+| bip_39_word_new_br3 | side<br>puppy<br>funny |  
+| bip_39_word_new_br4 | side<br>puppy<br>funny<br>where |  
+| bip_39_word_new_br5 | side<br>puppy<br>funny<br>where<br>trigger |  
+| bip_39_word_new_br6 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion |  
+| bip_39_word_new_br7 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion<br>devote |  
+| bip_39_word_new_br8 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion<br>devote<br>hand |  
+| bip_39_word_new_br9 | side<br>puppy<br>funny<br>where<br>trigger<br>erosion<br>devote<br>hand<br>tourist |  
+| bip_39_word_new_line1 | side |  
+| bip_39_word_new_line10 | side
+puppy
+funny
+where
+trigger
+erosion
+devote
+hand
+tourist
+believe |  
+| bip_39_word_new_line11 | side
+puppy
+funny
+where
+trigger
+erosion
+devote
+hand
+tourist
+believe
+love |  
+| bip_39_word_new_line12 | side
+puppy
+funny
+where
+trigger
+erosion
+devote
+hand
+tourist
+believe
+love
+audit |  
+| bip_39_word_new_line2 | side
+puppy |  
+| bip_39_word_new_line3 | side
+puppy
+funny |  
+| bip_39_word_new_line4 | side
+puppy
+funny
+where |  
+| bip_39_word_new_line5 | side
+puppy
+funny
+where
+trigger |  
+| bip_39_word_new_line6 | side
+puppy
+funny
+where
+trigger
+erosion |  
+| bip_39_word_new_line7 | side
+puppy
+funny
+where
+trigger
+erosion
+devote |  
+| bip_39_word_new_line8 | side
+puppy
+funny
+where
+trigger
+erosion
+devote
+hand |  
+| bip_39_word_new_line9 | side
+puppy
+funny
+where
+trigger
+erosion
+devote
+hand
+tourist |  
+| bip_39_word_space_0 | ['side', 'puppy', 'funny', 'where', 'trigger', 'erosion', 'devote', 'hand', 'tourist', 'believe', 'love', 'audit'] |  
+| bip_39_word_space_1 | side |  
+| bip_39_word_space_10 | side puppy funny where trigger erosion devote hand tourist believe |  
+| bip_39_word_space_11 | side puppy funny where trigger erosion devote hand tourist believe love |  
+| bip_39_word_space_12 | side puppy funny where trigger erosion devote hand tourist believe love audit |  
+| bip_39_word_space_2 | side puppy |  
+| bip_39_word_space_3 | side puppy funny |  
+| bip_39_word_space_4 | side puppy funny where |  
+| bip_39_word_space_5 | side puppy funny where trigger |  
+| bip_39_word_space_6 | side puppy funny where trigger erosion |  
+| bip_39_word_space_7 | side puppy funny where trigger erosion devote |  
+| bip_39_word_space_8 | side puppy funny where trigger erosion devote hand |  
+| bip_39_word_space_9 | side puppy funny where trigger erosion devote hand tourist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

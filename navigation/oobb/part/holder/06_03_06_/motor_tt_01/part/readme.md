@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shiver swallow
+  * bip 39 word 3: shiver swallow number
+  * bip 39 word: shiver swallow number enter day accuse horse reason bullet organ sibling attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shiver |  
+| bip_39_word_new_br10 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse<br>horse<br>reason<br>bullet<br>organ |  
+| bip_39_word_new_br11 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse<br>horse<br>reason<br>bullet<br>organ<br>sibling |  
+| bip_39_word_new_br12 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse<br>horse<br>reason<br>bullet<br>organ<br>sibling<br>attitude |  
+| bip_39_word_new_br2 | shiver<br>swallow |  
+| bip_39_word_new_br3 | shiver<br>swallow<br>number |  
+| bip_39_word_new_br4 | shiver<br>swallow<br>number<br>enter |  
+| bip_39_word_new_br5 | shiver<br>swallow<br>number<br>enter<br>day |  
+| bip_39_word_new_br6 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse |  
+| bip_39_word_new_br7 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse<br>horse |  
+| bip_39_word_new_br8 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse<br>horse<br>reason |  
+| bip_39_word_new_br9 | shiver<br>swallow<br>number<br>enter<br>day<br>accuse<br>horse<br>reason<br>bullet |  
+| bip_39_word_new_line1 | shiver |  
+| bip_39_word_new_line10 | shiver
+swallow
+number
+enter
+day
+accuse
+horse
+reason
+bullet
+organ |  
+| bip_39_word_new_line11 | shiver
+swallow
+number
+enter
+day
+accuse
+horse
+reason
+bullet
+organ
+sibling |  
+| bip_39_word_new_line12 | shiver
+swallow
+number
+enter
+day
+accuse
+horse
+reason
+bullet
+organ
+sibling
+attitude |  
+| bip_39_word_new_line2 | shiver
+swallow |  
+| bip_39_word_new_line3 | shiver
+swallow
+number |  
+| bip_39_word_new_line4 | shiver
+swallow
+number
+enter |  
+| bip_39_word_new_line5 | shiver
+swallow
+number
+enter
+day |  
+| bip_39_word_new_line6 | shiver
+swallow
+number
+enter
+day
+accuse |  
+| bip_39_word_new_line7 | shiver
+swallow
+number
+enter
+day
+accuse
+horse |  
+| bip_39_word_new_line8 | shiver
+swallow
+number
+enter
+day
+accuse
+horse
+reason |  
+| bip_39_word_new_line9 | shiver
+swallow
+number
+enter
+day
+accuse
+horse
+reason
+bullet |  
+| bip_39_word_space_0 | ['shiver', 'swallow', 'number', 'enter', 'day', 'accuse', 'horse', 'reason', 'bullet', 'organ', 'sibling', 'attitude'] |  
+| bip_39_word_space_1 | shiver |  
+| bip_39_word_space_10 | shiver swallow number enter day accuse horse reason bullet organ |  
+| bip_39_word_space_11 | shiver swallow number enter day accuse horse reason bullet organ sibling |  
+| bip_39_word_space_12 | shiver swallow number enter day accuse horse reason bullet organ sibling attitude |  
+| bip_39_word_space_2 | shiver swallow |  
+| bip_39_word_space_3 | shiver swallow number |  
+| bip_39_word_space_4 | shiver swallow number enter |  
+| bip_39_word_space_5 | shiver swallow number enter day |  
+| bip_39_word_space_6 | shiver swallow number enter day accuse |  
+| bip_39_word_space_7 | shiver swallow number enter day accuse horse |  
+| bip_39_word_space_8 | shiver swallow number enter day accuse horse reason |  
+| bip_39_word_space_9 | shiver swallow number enter day accuse horse reason bullet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

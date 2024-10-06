@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: claw rack
+  * bip 39 word 3: claw rack design
+  * bip 39 word: claw rack design load dress trip venue cable absent unveil earth adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | claw |  
+| bip_39_word_new_br10 | claw<br>rack<br>design<br>load<br>dress<br>trip<br>venue<br>cable<br>absent<br>unveil |  
+| bip_39_word_new_br11 | claw<br>rack<br>design<br>load<br>dress<br>trip<br>venue<br>cable<br>absent<br>unveil<br>earth |  
+| bip_39_word_new_br12 | claw<br>rack<br>design<br>load<br>dress<br>trip<br>venue<br>cable<br>absent<br>unveil<br>earth<br>adapt |  
+| bip_39_word_new_br2 | claw<br>rack |  
+| bip_39_word_new_br3 | claw<br>rack<br>design |  
+| bip_39_word_new_br4 | claw<br>rack<br>design<br>load |  
+| bip_39_word_new_br5 | claw<br>rack<br>design<br>load<br>dress |  
+| bip_39_word_new_br6 | claw<br>rack<br>design<br>load<br>dress<br>trip |  
+| bip_39_word_new_br7 | claw<br>rack<br>design<br>load<br>dress<br>trip<br>venue |  
+| bip_39_word_new_br8 | claw<br>rack<br>design<br>load<br>dress<br>trip<br>venue<br>cable |  
+| bip_39_word_new_br9 | claw<br>rack<br>design<br>load<br>dress<br>trip<br>venue<br>cable<br>absent |  
+| bip_39_word_new_line1 | claw |  
+| bip_39_word_new_line10 | claw
+rack
+design
+load
+dress
+trip
+venue
+cable
+absent
+unveil |  
+| bip_39_word_new_line11 | claw
+rack
+design
+load
+dress
+trip
+venue
+cable
+absent
+unveil
+earth |  
+| bip_39_word_new_line12 | claw
+rack
+design
+load
+dress
+trip
+venue
+cable
+absent
+unveil
+earth
+adapt |  
+| bip_39_word_new_line2 | claw
+rack |  
+| bip_39_word_new_line3 | claw
+rack
+design |  
+| bip_39_word_new_line4 | claw
+rack
+design
+load |  
+| bip_39_word_new_line5 | claw
+rack
+design
+load
+dress |  
+| bip_39_word_new_line6 | claw
+rack
+design
+load
+dress
+trip |  
+| bip_39_word_new_line7 | claw
+rack
+design
+load
+dress
+trip
+venue |  
+| bip_39_word_new_line8 | claw
+rack
+design
+load
+dress
+trip
+venue
+cable |  
+| bip_39_word_new_line9 | claw
+rack
+design
+load
+dress
+trip
+venue
+cable
+absent |  
+| bip_39_word_space_0 | ['claw', 'rack', 'design', 'load', 'dress', 'trip', 'venue', 'cable', 'absent', 'unveil', 'earth', 'adapt'] |  
+| bip_39_word_space_1 | claw |  
+| bip_39_word_space_10 | claw rack design load dress trip venue cable absent unveil |  
+| bip_39_word_space_11 | claw rack design load dress trip venue cable absent unveil earth |  
+| bip_39_word_space_12 | claw rack design load dress trip venue cable absent unveil earth adapt |  
+| bip_39_word_space_2 | claw rack |  
+| bip_39_word_space_3 | claw rack design |  
+| bip_39_word_space_4 | claw rack design load |  
+| bip_39_word_space_5 | claw rack design load dress |  
+| bip_39_word_space_6 | claw rack design load dress trip |  
+| bip_39_word_space_7 | claw rack design load dress trip venue |  
+| bip_39_word_space_8 | claw rack design load dress trip venue cable |  
+| bip_39_word_space_9 | claw rack design load dress trip venue cable absent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

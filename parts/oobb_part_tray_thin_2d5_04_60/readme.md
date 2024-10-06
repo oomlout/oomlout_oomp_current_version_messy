@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: price draft
+  * bip 39 word 3: price draft that
+  * bip 39 word: price draft that brown fringe bunker math risk guard weird mountain absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | price |  
+| bip_39_word_new_br10 | price<br>draft<br>that<br>brown<br>fringe<br>bunker<br>math<br>risk<br>guard<br>weird |  
+| bip_39_word_new_br11 | price<br>draft<br>that<br>brown<br>fringe<br>bunker<br>math<br>risk<br>guard<br>weird<br>mountain |  
+| bip_39_word_new_br12 | price<br>draft<br>that<br>brown<br>fringe<br>bunker<br>math<br>risk<br>guard<br>weird<br>mountain<br>absent |  
+| bip_39_word_new_br2 | price<br>draft |  
+| bip_39_word_new_br3 | price<br>draft<br>that |  
+| bip_39_word_new_br4 | price<br>draft<br>that<br>brown |  
+| bip_39_word_new_br5 | price<br>draft<br>that<br>brown<br>fringe |  
+| bip_39_word_new_br6 | price<br>draft<br>that<br>brown<br>fringe<br>bunker |  
+| bip_39_word_new_br7 | price<br>draft<br>that<br>brown<br>fringe<br>bunker<br>math |  
+| bip_39_word_new_br8 | price<br>draft<br>that<br>brown<br>fringe<br>bunker<br>math<br>risk |  
+| bip_39_word_new_br9 | price<br>draft<br>that<br>brown<br>fringe<br>bunker<br>math<br>risk<br>guard |  
+| bip_39_word_new_line1 | price |  
+| bip_39_word_new_line10 | price
+draft
+that
+brown
+fringe
+bunker
+math
+risk
+guard
+weird |  
+| bip_39_word_new_line11 | price
+draft
+that
+brown
+fringe
+bunker
+math
+risk
+guard
+weird
+mountain |  
+| bip_39_word_new_line12 | price
+draft
+that
+brown
+fringe
+bunker
+math
+risk
+guard
+weird
+mountain
+absent |  
+| bip_39_word_new_line2 | price
+draft |  
+| bip_39_word_new_line3 | price
+draft
+that |  
+| bip_39_word_new_line4 | price
+draft
+that
+brown |  
+| bip_39_word_new_line5 | price
+draft
+that
+brown
+fringe |  
+| bip_39_word_new_line6 | price
+draft
+that
+brown
+fringe
+bunker |  
+| bip_39_word_new_line7 | price
+draft
+that
+brown
+fringe
+bunker
+math |  
+| bip_39_word_new_line8 | price
+draft
+that
+brown
+fringe
+bunker
+math
+risk |  
+| bip_39_word_new_line9 | price
+draft
+that
+brown
+fringe
+bunker
+math
+risk
+guard |  
+| bip_39_word_space_0 | ['price', 'draft', 'that', 'brown', 'fringe', 'bunker', 'math', 'risk', 'guard', 'weird', 'mountain', 'absent'] |  
+| bip_39_word_space_1 | price |  
+| bip_39_word_space_10 | price draft that brown fringe bunker math risk guard weird |  
+| bip_39_word_space_11 | price draft that brown fringe bunker math risk guard weird mountain |  
+| bip_39_word_space_12 | price draft that brown fringe bunker math risk guard weird mountain absent |  
+| bip_39_word_space_2 | price draft |  
+| bip_39_word_space_3 | price draft that |  
+| bip_39_word_space_4 | price draft that brown |  
+| bip_39_word_space_5 | price draft that brown fringe |  
+| bip_39_word_space_6 | price draft that brown fringe bunker |  
+| bip_39_word_space_7 | price draft that brown fringe bunker math |  
+| bip_39_word_space_8 | price draft that brown fringe bunker math risk |  
+| bip_39_word_space_9 | price draft that brown fringe bunker math risk guard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: animal zebra
+  * bip 39 word 3: animal zebra copy
+  * bip 39 word: animal zebra copy journey deer reduce loop goddess roast enough rebel april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | animal |  
+| bip_39_word_new_br10 | animal<br>zebra<br>copy<br>journey<br>deer<br>reduce<br>loop<br>goddess<br>roast<br>enough |  
+| bip_39_word_new_br11 | animal<br>zebra<br>copy<br>journey<br>deer<br>reduce<br>loop<br>goddess<br>roast<br>enough<br>rebel |  
+| bip_39_word_new_br12 | animal<br>zebra<br>copy<br>journey<br>deer<br>reduce<br>loop<br>goddess<br>roast<br>enough<br>rebel<br>april |  
+| bip_39_word_new_br2 | animal<br>zebra |  
+| bip_39_word_new_br3 | animal<br>zebra<br>copy |  
+| bip_39_word_new_br4 | animal<br>zebra<br>copy<br>journey |  
+| bip_39_word_new_br5 | animal<br>zebra<br>copy<br>journey<br>deer |  
+| bip_39_word_new_br6 | animal<br>zebra<br>copy<br>journey<br>deer<br>reduce |  
+| bip_39_word_new_br7 | animal<br>zebra<br>copy<br>journey<br>deer<br>reduce<br>loop |  
+| bip_39_word_new_br8 | animal<br>zebra<br>copy<br>journey<br>deer<br>reduce<br>loop<br>goddess |  
+| bip_39_word_new_br9 | animal<br>zebra<br>copy<br>journey<br>deer<br>reduce<br>loop<br>goddess<br>roast |  
+| bip_39_word_new_line1 | animal |  
+| bip_39_word_new_line10 | animal
+zebra
+copy
+journey
+deer
+reduce
+loop
+goddess
+roast
+enough |  
+| bip_39_word_new_line11 | animal
+zebra
+copy
+journey
+deer
+reduce
+loop
+goddess
+roast
+enough
+rebel |  
+| bip_39_word_new_line12 | animal
+zebra
+copy
+journey
+deer
+reduce
+loop
+goddess
+roast
+enough
+rebel
+april |  
+| bip_39_word_new_line2 | animal
+zebra |  
+| bip_39_word_new_line3 | animal
+zebra
+copy |  
+| bip_39_word_new_line4 | animal
+zebra
+copy
+journey |  
+| bip_39_word_new_line5 | animal
+zebra
+copy
+journey
+deer |  
+| bip_39_word_new_line6 | animal
+zebra
+copy
+journey
+deer
+reduce |  
+| bip_39_word_new_line7 | animal
+zebra
+copy
+journey
+deer
+reduce
+loop |  
+| bip_39_word_new_line8 | animal
+zebra
+copy
+journey
+deer
+reduce
+loop
+goddess |  
+| bip_39_word_new_line9 | animal
+zebra
+copy
+journey
+deer
+reduce
+loop
+goddess
+roast |  
+| bip_39_word_space_0 | ['animal', 'zebra', 'copy', 'journey', 'deer', 'reduce', 'loop', 'goddess', 'roast', 'enough', 'rebel', 'april'] |  
+| bip_39_word_space_1 | animal |  
+| bip_39_word_space_10 | animal zebra copy journey deer reduce loop goddess roast enough |  
+| bip_39_word_space_11 | animal zebra copy journey deer reduce loop goddess roast enough rebel |  
+| bip_39_word_space_12 | animal zebra copy journey deer reduce loop goddess roast enough rebel april |  
+| bip_39_word_space_2 | animal zebra |  
+| bip_39_word_space_3 | animal zebra copy |  
+| bip_39_word_space_4 | animal zebra copy journey |  
+| bip_39_word_space_5 | animal zebra copy journey deer |  
+| bip_39_word_space_6 | animal zebra copy journey deer reduce |  
+| bip_39_word_space_7 | animal zebra copy journey deer reduce loop |  
+| bip_39_word_space_8 | animal zebra copy journey deer reduce loop goddess |  
+| bip_39_word_space_9 | animal zebra copy journey deer reduce loop goddess roast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

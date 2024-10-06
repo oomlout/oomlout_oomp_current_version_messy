@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: z
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chronic valley
+  * bip 39 word 3: chronic valley exist
+  * bip 39 word: chronic valley exist swarm suggest season sort glare jelly grunt trip alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chronic |  
+| bip_39_word_new_br10 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season<br>sort<br>glare<br>jelly<br>grunt |  
+| bip_39_word_new_br11 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season<br>sort<br>glare<br>jelly<br>grunt<br>trip |  
+| bip_39_word_new_br12 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season<br>sort<br>glare<br>jelly<br>grunt<br>trip<br>alone |  
+| bip_39_word_new_br2 | chronic<br>valley |  
+| bip_39_word_new_br3 | chronic<br>valley<br>exist |  
+| bip_39_word_new_br4 | chronic<br>valley<br>exist<br>swarm |  
+| bip_39_word_new_br5 | chronic<br>valley<br>exist<br>swarm<br>suggest |  
+| bip_39_word_new_br6 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season |  
+| bip_39_word_new_br7 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season<br>sort |  
+| bip_39_word_new_br8 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season<br>sort<br>glare |  
+| bip_39_word_new_br9 | chronic<br>valley<br>exist<br>swarm<br>suggest<br>season<br>sort<br>glare<br>jelly |  
+| bip_39_word_new_line1 | chronic |  
+| bip_39_word_new_line10 | chronic
+valley
+exist
+swarm
+suggest
+season
+sort
+glare
+jelly
+grunt |  
+| bip_39_word_new_line11 | chronic
+valley
+exist
+swarm
+suggest
+season
+sort
+glare
+jelly
+grunt
+trip |  
+| bip_39_word_new_line12 | chronic
+valley
+exist
+swarm
+suggest
+season
+sort
+glare
+jelly
+grunt
+trip
+alone |  
+| bip_39_word_new_line2 | chronic
+valley |  
+| bip_39_word_new_line3 | chronic
+valley
+exist |  
+| bip_39_word_new_line4 | chronic
+valley
+exist
+swarm |  
+| bip_39_word_new_line5 | chronic
+valley
+exist
+swarm
+suggest |  
+| bip_39_word_new_line6 | chronic
+valley
+exist
+swarm
+suggest
+season |  
+| bip_39_word_new_line7 | chronic
+valley
+exist
+swarm
+suggest
+season
+sort |  
+| bip_39_word_new_line8 | chronic
+valley
+exist
+swarm
+suggest
+season
+sort
+glare |  
+| bip_39_word_new_line9 | chronic
+valley
+exist
+swarm
+suggest
+season
+sort
+glare
+jelly |  
+| bip_39_word_space_0 | ['chronic', 'valley', 'exist', 'swarm', 'suggest', 'season', 'sort', 'glare', 'jelly', 'grunt', 'trip', 'alone'] |  
+| bip_39_word_space_1 | chronic |  
+| bip_39_word_space_10 | chronic valley exist swarm suggest season sort glare jelly grunt |  
+| bip_39_word_space_11 | chronic valley exist swarm suggest season sort glare jelly grunt trip |  
+| bip_39_word_space_12 | chronic valley exist swarm suggest season sort glare jelly grunt trip alone |  
+| bip_39_word_space_2 | chronic valley |  
+| bip_39_word_space_3 | chronic valley exist |  
+| bip_39_word_space_4 | chronic valley exist swarm |  
+| bip_39_word_space_5 | chronic valley exist swarm suggest |  
+| bip_39_word_space_6 | chronic valley exist swarm suggest season |  
+| bip_39_word_space_7 | chronic valley exist swarm suggest season sort |  
+| bip_39_word_space_8 | chronic valley exist swarm suggest season sort glare |  
+| bip_39_word_space_9 | chronic valley exist swarm suggest season sort glare jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

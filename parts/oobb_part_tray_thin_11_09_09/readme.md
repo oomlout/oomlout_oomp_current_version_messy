@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mango black
+  * bip 39 word 3: mango black dizzy
+  * bip 39 word: mango black dizzy broom crawl casual place apart dice boat room asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mango |  
+| bip_39_word_new_br10 | mango<br>black<br>dizzy<br>broom<br>crawl<br>casual<br>place<br>apart<br>dice<br>boat |  
+| bip_39_word_new_br11 | mango<br>black<br>dizzy<br>broom<br>crawl<br>casual<br>place<br>apart<br>dice<br>boat<br>room |  
+| bip_39_word_new_br12 | mango<br>black<br>dizzy<br>broom<br>crawl<br>casual<br>place<br>apart<br>dice<br>boat<br>room<br>asset |  
+| bip_39_word_new_br2 | mango<br>black |  
+| bip_39_word_new_br3 | mango<br>black<br>dizzy |  
+| bip_39_word_new_br4 | mango<br>black<br>dizzy<br>broom |  
+| bip_39_word_new_br5 | mango<br>black<br>dizzy<br>broom<br>crawl |  
+| bip_39_word_new_br6 | mango<br>black<br>dizzy<br>broom<br>crawl<br>casual |  
+| bip_39_word_new_br7 | mango<br>black<br>dizzy<br>broom<br>crawl<br>casual<br>place |  
+| bip_39_word_new_br8 | mango<br>black<br>dizzy<br>broom<br>crawl<br>casual<br>place<br>apart |  
+| bip_39_word_new_br9 | mango<br>black<br>dizzy<br>broom<br>crawl<br>casual<br>place<br>apart<br>dice |  
+| bip_39_word_new_line1 | mango |  
+| bip_39_word_new_line10 | mango
+black
+dizzy
+broom
+crawl
+casual
+place
+apart
+dice
+boat |  
+| bip_39_word_new_line11 | mango
+black
+dizzy
+broom
+crawl
+casual
+place
+apart
+dice
+boat
+room |  
+| bip_39_word_new_line12 | mango
+black
+dizzy
+broom
+crawl
+casual
+place
+apart
+dice
+boat
+room
+asset |  
+| bip_39_word_new_line2 | mango
+black |  
+| bip_39_word_new_line3 | mango
+black
+dizzy |  
+| bip_39_word_new_line4 | mango
+black
+dizzy
+broom |  
+| bip_39_word_new_line5 | mango
+black
+dizzy
+broom
+crawl |  
+| bip_39_word_new_line6 | mango
+black
+dizzy
+broom
+crawl
+casual |  
+| bip_39_word_new_line7 | mango
+black
+dizzy
+broom
+crawl
+casual
+place |  
+| bip_39_word_new_line8 | mango
+black
+dizzy
+broom
+crawl
+casual
+place
+apart |  
+| bip_39_word_new_line9 | mango
+black
+dizzy
+broom
+crawl
+casual
+place
+apart
+dice |  
+| bip_39_word_space_0 | ['mango', 'black', 'dizzy', 'broom', 'crawl', 'casual', 'place', 'apart', 'dice', 'boat', 'room', 'asset'] |  
+| bip_39_word_space_1 | mango |  
+| bip_39_word_space_10 | mango black dizzy broom crawl casual place apart dice boat |  
+| bip_39_word_space_11 | mango black dizzy broom crawl casual place apart dice boat room |  
+| bip_39_word_space_12 | mango black dizzy broom crawl casual place apart dice boat room asset |  
+| bip_39_word_space_2 | mango black |  
+| bip_39_word_space_3 | mango black dizzy |  
+| bip_39_word_space_4 | mango black dizzy broom |  
+| bip_39_word_space_5 | mango black dizzy broom crawl |  
+| bip_39_word_space_6 | mango black dizzy broom crawl casual |  
+| bip_39_word_space_7 | mango black dizzy broom crawl casual place |  
+| bip_39_word_space_8 | mango black dizzy broom crawl casual place apart |  
+| bip_39_word_space_9 | mango black dizzy broom crawl casual place apart dice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

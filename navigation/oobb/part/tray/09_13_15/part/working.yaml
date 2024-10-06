@@ -1,3 +1,186 @@
+bip_39_word_new_br1: juice
+bip_39_word_new_br10: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother
+bip_39_word_new_br11: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother<br>cool
+bip_39_word_new_br12: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse<br>brother<br>cool<br>action
+bip_39_word_new_br2: juice<br>august
+bip_39_word_new_br3: juice<br>august<br>voyage
+bip_39_word_new_br4: juice<br>august<br>voyage<br>visa
+bip_39_word_new_br5: juice<br>august<br>voyage<br>visa<br>raw
+bip_39_word_new_br6: juice<br>august<br>voyage<br>visa<br>raw<br>taste
+bip_39_word_new_br7: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license
+bip_39_word_new_br8: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace
+bip_39_word_new_br9: juice<br>august<br>voyage<br>visa<br>raw<br>taste<br>license<br>peace<br>excuse
+bip_39_word_new_line1: juice
+bip_39_word_new_line10: 'juice
+
+  august
+
+  voyage
+
+  visa
+
+  raw
+
+  taste
+
+  license
+
+  peace
+
+  excuse
+
+  brother'
+bip_39_word_new_line11: 'juice
+
+  august
+
+  voyage
+
+  visa
+
+  raw
+
+  taste
+
+  license
+
+  peace
+
+  excuse
+
+  brother
+
+  cool'
+bip_39_word_new_line12: 'juice
+
+  august
+
+  voyage
+
+  visa
+
+  raw
+
+  taste
+
+  license
+
+  peace
+
+  excuse
+
+  brother
+
+  cool
+
+  action'
+bip_39_word_new_line2: 'juice
+
+  august'
+bip_39_word_new_line3: 'juice
+
+  august
+
+  voyage'
+bip_39_word_new_line4: 'juice
+
+  august
+
+  voyage
+
+  visa'
+bip_39_word_new_line5: 'juice
+
+  august
+
+  voyage
+
+  visa
+
+  raw'
+bip_39_word_new_line6: 'juice
+
+  august
+
+  voyage
+
+  visa
+
+  raw
+
+  taste'
+bip_39_word_new_line7: 'juice
+
+  august
+
+  voyage
+
+  visa
+
+  raw
+
+  taste
+
+  license'
+bip_39_word_new_line8: 'juice
+
+  august
+
+  voyage
+
+  visa
+
+  raw
+
+  taste
+
+  license
+
+  peace'
+bip_39_word_new_line9: 'juice
+
+  august
+
+  voyage
+
+  visa
+
+  raw
+
+  taste
+
+  license
+
+  peace
+
+  excuse'
+bip_39_word_space_0:
+- juice
+- august
+- voyage
+- visa
+- raw
+- taste
+- license
+- peace
+- excuse
+- brother
+- cool
+- action
+bip_39_word_space_1: juice
+bip_39_word_space_10: juice august voyage visa raw taste license peace excuse brother
+bip_39_word_space_11: juice august voyage visa raw taste license peace excuse brother
+  cool
+bip_39_word_space_12: juice august voyage visa raw taste license peace excuse brother
+  cool action
+bip_39_word_space_2: juice august
+bip_39_word_space_3: juice august voyage
+bip_39_word_space_4: juice august voyage visa
+bip_39_word_space_5: juice august voyage visa raw
+bip_39_word_space_6: juice august voyage visa raw taste
+bip_39_word_space_7: juice august voyage visa raw taste license
+bip_39_word_space_8: juice august voyage visa raw taste license peace
+bip_39_word_space_9: juice august voyage visa raw taste license peace excuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

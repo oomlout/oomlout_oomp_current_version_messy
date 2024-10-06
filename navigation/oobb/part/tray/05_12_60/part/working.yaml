@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fault
+bip_39_word_new_br10: fault<br>light<br>garlic<br>roof<br>wealth<br>also<br>pulp<br>include<br>curve<br>indicate
+bip_39_word_new_br11: fault<br>light<br>garlic<br>roof<br>wealth<br>also<br>pulp<br>include<br>curve<br>indicate<br>drama
+bip_39_word_new_br12: fault<br>light<br>garlic<br>roof<br>wealth<br>also<br>pulp<br>include<br>curve<br>indicate<br>drama<br>attract
+bip_39_word_new_br2: fault<br>light
+bip_39_word_new_br3: fault<br>light<br>garlic
+bip_39_word_new_br4: fault<br>light<br>garlic<br>roof
+bip_39_word_new_br5: fault<br>light<br>garlic<br>roof<br>wealth
+bip_39_word_new_br6: fault<br>light<br>garlic<br>roof<br>wealth<br>also
+bip_39_word_new_br7: fault<br>light<br>garlic<br>roof<br>wealth<br>also<br>pulp
+bip_39_word_new_br8: fault<br>light<br>garlic<br>roof<br>wealth<br>also<br>pulp<br>include
+bip_39_word_new_br9: fault<br>light<br>garlic<br>roof<br>wealth<br>also<br>pulp<br>include<br>curve
+bip_39_word_new_line1: fault
+bip_39_word_new_line10: 'fault
+
+  light
+
+  garlic
+
+  roof
+
+  wealth
+
+  also
+
+  pulp
+
+  include
+
+  curve
+
+  indicate'
+bip_39_word_new_line11: 'fault
+
+  light
+
+  garlic
+
+  roof
+
+  wealth
+
+  also
+
+  pulp
+
+  include
+
+  curve
+
+  indicate
+
+  drama'
+bip_39_word_new_line12: 'fault
+
+  light
+
+  garlic
+
+  roof
+
+  wealth
+
+  also
+
+  pulp
+
+  include
+
+  curve
+
+  indicate
+
+  drama
+
+  attract'
+bip_39_word_new_line2: 'fault
+
+  light'
+bip_39_word_new_line3: 'fault
+
+  light
+
+  garlic'
+bip_39_word_new_line4: 'fault
+
+  light
+
+  garlic
+
+  roof'
+bip_39_word_new_line5: 'fault
+
+  light
+
+  garlic
+
+  roof
+
+  wealth'
+bip_39_word_new_line6: 'fault
+
+  light
+
+  garlic
+
+  roof
+
+  wealth
+
+  also'
+bip_39_word_new_line7: 'fault
+
+  light
+
+  garlic
+
+  roof
+
+  wealth
+
+  also
+
+  pulp'
+bip_39_word_new_line8: 'fault
+
+  light
+
+  garlic
+
+  roof
+
+  wealth
+
+  also
+
+  pulp
+
+  include'
+bip_39_word_new_line9: 'fault
+
+  light
+
+  garlic
+
+  roof
+
+  wealth
+
+  also
+
+  pulp
+
+  include
+
+  curve'
+bip_39_word_space_0:
+- fault
+- light
+- garlic
+- roof
+- wealth
+- also
+- pulp
+- include
+- curve
+- indicate
+- drama
+- attract
+bip_39_word_space_1: fault
+bip_39_word_space_10: fault light garlic roof wealth also pulp include curve indicate
+bip_39_word_space_11: fault light garlic roof wealth also pulp include curve indicate
+  drama
+bip_39_word_space_12: fault light garlic roof wealth also pulp include curve indicate
+  drama attract
+bip_39_word_space_2: fault light
+bip_39_word_space_3: fault light garlic
+bip_39_word_space_4: fault light garlic roof
+bip_39_word_space_5: fault light garlic roof wealth
+bip_39_word_space_6: fault light garlic roof wealth also
+bip_39_word_space_7: fault light garlic roof wealth also pulp
+bip_39_word_space_8: fault light garlic roof wealth also pulp include
+bip_39_word_space_9: fault light garlic roof wealth also pulp include curve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

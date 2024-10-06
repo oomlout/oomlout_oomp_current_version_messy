@@ -1,3 +1,186 @@
+bip_39_word_new_br1: adult
+bip_39_word_new_br10: adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell<br>there<br>prison<br>exchange<br>analyst
+bip_39_word_new_br11: adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell<br>there<br>prison<br>exchange<br>analyst<br>crazy
+bip_39_word_new_br12: adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell<br>there<br>prison<br>exchange<br>analyst<br>crazy<br>apart
+bip_39_word_new_br2: adult<br>erupt
+bip_39_word_new_br3: adult<br>erupt<br>gloom
+bip_39_word_new_br4: adult<br>erupt<br>gloom<br>glow
+bip_39_word_new_br5: adult<br>erupt<br>gloom<br>glow<br>awesome
+bip_39_word_new_br6: adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell
+bip_39_word_new_br7: adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell<br>there
+bip_39_word_new_br8: adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell<br>there<br>prison
+bip_39_word_new_br9: adult<br>erupt<br>gloom<br>glow<br>awesome<br>spell<br>there<br>prison<br>exchange
+bip_39_word_new_line1: adult
+bip_39_word_new_line10: 'adult
+
+  erupt
+
+  gloom
+
+  glow
+
+  awesome
+
+  spell
+
+  there
+
+  prison
+
+  exchange
+
+  analyst'
+bip_39_word_new_line11: 'adult
+
+  erupt
+
+  gloom
+
+  glow
+
+  awesome
+
+  spell
+
+  there
+
+  prison
+
+  exchange
+
+  analyst
+
+  crazy'
+bip_39_word_new_line12: 'adult
+
+  erupt
+
+  gloom
+
+  glow
+
+  awesome
+
+  spell
+
+  there
+
+  prison
+
+  exchange
+
+  analyst
+
+  crazy
+
+  apart'
+bip_39_word_new_line2: 'adult
+
+  erupt'
+bip_39_word_new_line3: 'adult
+
+  erupt
+
+  gloom'
+bip_39_word_new_line4: 'adult
+
+  erupt
+
+  gloom
+
+  glow'
+bip_39_word_new_line5: 'adult
+
+  erupt
+
+  gloom
+
+  glow
+
+  awesome'
+bip_39_word_new_line6: 'adult
+
+  erupt
+
+  gloom
+
+  glow
+
+  awesome
+
+  spell'
+bip_39_word_new_line7: 'adult
+
+  erupt
+
+  gloom
+
+  glow
+
+  awesome
+
+  spell
+
+  there'
+bip_39_word_new_line8: 'adult
+
+  erupt
+
+  gloom
+
+  glow
+
+  awesome
+
+  spell
+
+  there
+
+  prison'
+bip_39_word_new_line9: 'adult
+
+  erupt
+
+  gloom
+
+  glow
+
+  awesome
+
+  spell
+
+  there
+
+  prison
+
+  exchange'
+bip_39_word_space_0:
+- adult
+- erupt
+- gloom
+- glow
+- awesome
+- spell
+- there
+- prison
+- exchange
+- analyst
+- crazy
+- apart
+bip_39_word_space_1: adult
+bip_39_word_space_10: adult erupt gloom glow awesome spell there prison exchange analyst
+bip_39_word_space_11: adult erupt gloom glow awesome spell there prison exchange analyst
+  crazy
+bip_39_word_space_12: adult erupt gloom glow awesome spell there prison exchange analyst
+  crazy apart
+bip_39_word_space_2: adult erupt
+bip_39_word_space_3: adult erupt gloom
+bip_39_word_space_4: adult erupt gloom glow
+bip_39_word_space_5: adult erupt gloom glow awesome
+bip_39_word_space_6: adult erupt gloom glow awesome spell
+bip_39_word_space_7: adult erupt gloom glow awesome spell there
+bip_39_word_space_8: adult erupt gloom glow awesome spell there prison
+bip_39_word_space_9: adult erupt gloom glow awesome spell there prison exchange
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

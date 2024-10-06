@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: track garbage
+  * bip 39 word 3: track garbage blade
+  * bip 39 word: track garbage blade keen lock chalk concert moral shrimp involve emerge about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | track |  
+| bip_39_word_new_br10 | track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve |  
+| bip_39_word_new_br11 | track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve<br>emerge |  
+| bip_39_word_new_br12 | track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp<br>involve<br>emerge<br>about |  
+| bip_39_word_new_br2 | track<br>garbage |  
+| bip_39_word_new_br3 | track<br>garbage<br>blade |  
+| bip_39_word_new_br4 | track<br>garbage<br>blade<br>keen |  
+| bip_39_word_new_br5 | track<br>garbage<br>blade<br>keen<br>lock |  
+| bip_39_word_new_br6 | track<br>garbage<br>blade<br>keen<br>lock<br>chalk |  
+| bip_39_word_new_br7 | track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert |  
+| bip_39_word_new_br8 | track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral |  
+| bip_39_word_new_br9 | track<br>garbage<br>blade<br>keen<br>lock<br>chalk<br>concert<br>moral<br>shrimp |  
+| bip_39_word_new_line1 | track |  
+| bip_39_word_new_line10 | track
+garbage
+blade
+keen
+lock
+chalk
+concert
+moral
+shrimp
+involve |  
+| bip_39_word_new_line11 | track
+garbage
+blade
+keen
+lock
+chalk
+concert
+moral
+shrimp
+involve
+emerge |  
+| bip_39_word_new_line12 | track
+garbage
+blade
+keen
+lock
+chalk
+concert
+moral
+shrimp
+involve
+emerge
+about |  
+| bip_39_word_new_line2 | track
+garbage |  
+| bip_39_word_new_line3 | track
+garbage
+blade |  
+| bip_39_word_new_line4 | track
+garbage
+blade
+keen |  
+| bip_39_word_new_line5 | track
+garbage
+blade
+keen
+lock |  
+| bip_39_word_new_line6 | track
+garbage
+blade
+keen
+lock
+chalk |  
+| bip_39_word_new_line7 | track
+garbage
+blade
+keen
+lock
+chalk
+concert |  
+| bip_39_word_new_line8 | track
+garbage
+blade
+keen
+lock
+chalk
+concert
+moral |  
+| bip_39_word_new_line9 | track
+garbage
+blade
+keen
+lock
+chalk
+concert
+moral
+shrimp |  
+| bip_39_word_space_0 | ['track', 'garbage', 'blade', 'keen', 'lock', 'chalk', 'concert', 'moral', 'shrimp', 'involve', 'emerge', 'about'] |  
+| bip_39_word_space_1 | track |  
+| bip_39_word_space_10 | track garbage blade keen lock chalk concert moral shrimp involve |  
+| bip_39_word_space_11 | track garbage blade keen lock chalk concert moral shrimp involve emerge |  
+| bip_39_word_space_12 | track garbage blade keen lock chalk concert moral shrimp involve emerge about |  
+| bip_39_word_space_2 | track garbage |  
+| bip_39_word_space_3 | track garbage blade |  
+| bip_39_word_space_4 | track garbage blade keen |  
+| bip_39_word_space_5 | track garbage blade keen lock |  
+| bip_39_word_space_6 | track garbage blade keen lock chalk |  
+| bip_39_word_space_7 | track garbage blade keen lock chalk concert |  
+| bip_39_word_space_8 | track garbage blade keen lock chalk concert moral |  
+| bip_39_word_space_9 | track garbage blade keen lock chalk concert moral shrimp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

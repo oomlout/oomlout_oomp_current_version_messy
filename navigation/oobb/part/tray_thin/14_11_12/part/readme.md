@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vote ahead
+  * bip 39 word 3: vote ahead horse
+  * bip 39 word: vote ahead horse meadow black flee copper silver tide marble transfer arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vote |  
+| bip_39_word_new_br10 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee<br>copper<br>silver<br>tide<br>marble |  
+| bip_39_word_new_br11 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee<br>copper<br>silver<br>tide<br>marble<br>transfer |  
+| bip_39_word_new_br12 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee<br>copper<br>silver<br>tide<br>marble<br>transfer<br>arrest |  
+| bip_39_word_new_br2 | vote<br>ahead |  
+| bip_39_word_new_br3 | vote<br>ahead<br>horse |  
+| bip_39_word_new_br4 | vote<br>ahead<br>horse<br>meadow |  
+| bip_39_word_new_br5 | vote<br>ahead<br>horse<br>meadow<br>black |  
+| bip_39_word_new_br6 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee |  
+| bip_39_word_new_br7 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee<br>copper |  
+| bip_39_word_new_br8 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee<br>copper<br>silver |  
+| bip_39_word_new_br9 | vote<br>ahead<br>horse<br>meadow<br>black<br>flee<br>copper<br>silver<br>tide |  
+| bip_39_word_new_line1 | vote |  
+| bip_39_word_new_line10 | vote
+ahead
+horse
+meadow
+black
+flee
+copper
+silver
+tide
+marble |  
+| bip_39_word_new_line11 | vote
+ahead
+horse
+meadow
+black
+flee
+copper
+silver
+tide
+marble
+transfer |  
+| bip_39_word_new_line12 | vote
+ahead
+horse
+meadow
+black
+flee
+copper
+silver
+tide
+marble
+transfer
+arrest |  
+| bip_39_word_new_line2 | vote
+ahead |  
+| bip_39_word_new_line3 | vote
+ahead
+horse |  
+| bip_39_word_new_line4 | vote
+ahead
+horse
+meadow |  
+| bip_39_word_new_line5 | vote
+ahead
+horse
+meadow
+black |  
+| bip_39_word_new_line6 | vote
+ahead
+horse
+meadow
+black
+flee |  
+| bip_39_word_new_line7 | vote
+ahead
+horse
+meadow
+black
+flee
+copper |  
+| bip_39_word_new_line8 | vote
+ahead
+horse
+meadow
+black
+flee
+copper
+silver |  
+| bip_39_word_new_line9 | vote
+ahead
+horse
+meadow
+black
+flee
+copper
+silver
+tide |  
+| bip_39_word_space_0 | ['vote', 'ahead', 'horse', 'meadow', 'black', 'flee', 'copper', 'silver', 'tide', 'marble', 'transfer', 'arrest'] |  
+| bip_39_word_space_1 | vote |  
+| bip_39_word_space_10 | vote ahead horse meadow black flee copper silver tide marble |  
+| bip_39_word_space_11 | vote ahead horse meadow black flee copper silver tide marble transfer |  
+| bip_39_word_space_12 | vote ahead horse meadow black flee copper silver tide marble transfer arrest |  
+| bip_39_word_space_2 | vote ahead |  
+| bip_39_word_space_3 | vote ahead horse |  
+| bip_39_word_space_4 | vote ahead horse meadow |  
+| bip_39_word_space_5 | vote ahead horse meadow black |  
+| bip_39_word_space_6 | vote ahead horse meadow black flee |  
+| bip_39_word_space_7 | vote ahead horse meadow black flee copper |  
+| bip_39_word_space_8 | vote ahead horse meadow black flee copper silver |  
+| bip_39_word_space_9 | vote ahead horse meadow black flee copper silver tide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

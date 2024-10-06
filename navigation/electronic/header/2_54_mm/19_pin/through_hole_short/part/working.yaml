@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enforce
+bip_39_word_new_br10: enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease
+bip_39_word_new_br11: enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease<br>tornado
+bip_39_word_new_br12: enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride<br>decrease<br>tornado<br>antenna
+bip_39_word_new_br2: enforce<br>truly
+bip_39_word_new_br3: enforce<br>truly<br>sure
+bip_39_word_new_br4: enforce<br>truly<br>sure<br>flash
+bip_39_word_new_br5: enforce<br>truly<br>sure<br>flash<br>tortoise
+bip_39_word_new_br6: enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe
+bip_39_word_new_br7: enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order
+bip_39_word_new_br8: enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent
+bip_39_word_new_br9: enforce<br>truly<br>sure<br>flash<br>tortoise<br>pipe<br>order<br>absent<br>ride
+bip_39_word_new_line1: enforce
+bip_39_word_new_line10: 'enforce
+
+  truly
+
+  sure
+
+  flash
+
+  tortoise
+
+  pipe
+
+  order
+
+  absent
+
+  ride
+
+  decrease'
+bip_39_word_new_line11: 'enforce
+
+  truly
+
+  sure
+
+  flash
+
+  tortoise
+
+  pipe
+
+  order
+
+  absent
+
+  ride
+
+  decrease
+
+  tornado'
+bip_39_word_new_line12: 'enforce
+
+  truly
+
+  sure
+
+  flash
+
+  tortoise
+
+  pipe
+
+  order
+
+  absent
+
+  ride
+
+  decrease
+
+  tornado
+
+  antenna'
+bip_39_word_new_line2: 'enforce
+
+  truly'
+bip_39_word_new_line3: 'enforce
+
+  truly
+
+  sure'
+bip_39_word_new_line4: 'enforce
+
+  truly
+
+  sure
+
+  flash'
+bip_39_word_new_line5: 'enforce
+
+  truly
+
+  sure
+
+  flash
+
+  tortoise'
+bip_39_word_new_line6: 'enforce
+
+  truly
+
+  sure
+
+  flash
+
+  tortoise
+
+  pipe'
+bip_39_word_new_line7: 'enforce
+
+  truly
+
+  sure
+
+  flash
+
+  tortoise
+
+  pipe
+
+  order'
+bip_39_word_new_line8: 'enforce
+
+  truly
+
+  sure
+
+  flash
+
+  tortoise
+
+  pipe
+
+  order
+
+  absent'
+bip_39_word_new_line9: 'enforce
+
+  truly
+
+  sure
+
+  flash
+
+  tortoise
+
+  pipe
+
+  order
+
+  absent
+
+  ride'
+bip_39_word_space_0:
+- enforce
+- truly
+- sure
+- flash
+- tortoise
+- pipe
+- order
+- absent
+- ride
+- decrease
+- tornado
+- antenna
+bip_39_word_space_1: enforce
+bip_39_word_space_10: enforce truly sure flash tortoise pipe order absent ride decrease
+bip_39_word_space_11: enforce truly sure flash tortoise pipe order absent ride decrease
+  tornado
+bip_39_word_space_12: enforce truly sure flash tortoise pipe order absent ride decrease
+  tornado antenna
+bip_39_word_space_2: enforce truly
+bip_39_word_space_3: enforce truly sure
+bip_39_word_space_4: enforce truly sure flash
+bip_39_word_space_5: enforce truly sure flash tortoise
+bip_39_word_space_6: enforce truly sure flash tortoise pipe
+bip_39_word_space_7: enforce truly sure flash tortoise pipe order
+bip_39_word_space_8: enforce truly sure flash tortoise pipe order absent
+bip_39_word_space_9: enforce truly sure flash tortoise pipe order absent ride
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

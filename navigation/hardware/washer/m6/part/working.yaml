@@ -1,3 +1,187 @@
+bip_39_word_new_br1: display
+bip_39_word_new_br10: display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series
+bip_39_word_new_br11: display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series<br>inspire
+bip_39_word_new_br12: display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse<br>series<br>inspire<br>accuse
+bip_39_word_new_br2: display<br>churn
+bip_39_word_new_br3: display<br>churn<br>question
+bip_39_word_new_br4: display<br>churn<br>question<br>fit
+bip_39_word_new_br5: display<br>churn<br>question<br>fit<br>famous
+bip_39_word_new_br6: display<br>churn<br>question<br>fit<br>famous<br>nominee
+bip_39_word_new_br7: display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty
+bip_39_word_new_br8: display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy
+bip_39_word_new_br9: display<br>churn<br>question<br>fit<br>famous<br>nominee<br>poverty<br>shy<br>abuse
+bip_39_word_new_line1: display
+bip_39_word_new_line10: 'display
+
+  churn
+
+  question
+
+  fit
+
+  famous
+
+  nominee
+
+  poverty
+
+  shy
+
+  abuse
+
+  series'
+bip_39_word_new_line11: 'display
+
+  churn
+
+  question
+
+  fit
+
+  famous
+
+  nominee
+
+  poverty
+
+  shy
+
+  abuse
+
+  series
+
+  inspire'
+bip_39_word_new_line12: 'display
+
+  churn
+
+  question
+
+  fit
+
+  famous
+
+  nominee
+
+  poverty
+
+  shy
+
+  abuse
+
+  series
+
+  inspire
+
+  accuse'
+bip_39_word_new_line2: 'display
+
+  churn'
+bip_39_word_new_line3: 'display
+
+  churn
+
+  question'
+bip_39_word_new_line4: 'display
+
+  churn
+
+  question
+
+  fit'
+bip_39_word_new_line5: 'display
+
+  churn
+
+  question
+
+  fit
+
+  famous'
+bip_39_word_new_line6: 'display
+
+  churn
+
+  question
+
+  fit
+
+  famous
+
+  nominee'
+bip_39_word_new_line7: 'display
+
+  churn
+
+  question
+
+  fit
+
+  famous
+
+  nominee
+
+  poverty'
+bip_39_word_new_line8: 'display
+
+  churn
+
+  question
+
+  fit
+
+  famous
+
+  nominee
+
+  poverty
+
+  shy'
+bip_39_word_new_line9: 'display
+
+  churn
+
+  question
+
+  fit
+
+  famous
+
+  nominee
+
+  poverty
+
+  shy
+
+  abuse'
+bip_39_word_space_0:
+- display
+- churn
+- question
+- fit
+- famous
+- nominee
+- poverty
+- shy
+- abuse
+- series
+- inspire
+- accuse
+bip_39_word_space_1: display
+bip_39_word_space_10: display churn question fit famous nominee poverty shy abuse
+  series
+bip_39_word_space_11: display churn question fit famous nominee poverty shy abuse
+  series inspire
+bip_39_word_space_12: display churn question fit famous nominee poverty shy abuse
+  series inspire accuse
+bip_39_word_space_2: display churn
+bip_39_word_space_3: display churn question
+bip_39_word_space_4: display churn question fit
+bip_39_word_space_5: display churn question fit famous
+bip_39_word_space_6: display churn question fit famous nominee
+bip_39_word_space_7: display churn question fit famous nominee poverty
+bip_39_word_space_8: display churn question fit famous nominee poverty shy
+bip_39_word_space_9: display churn question fit famous nominee poverty shy abuse
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

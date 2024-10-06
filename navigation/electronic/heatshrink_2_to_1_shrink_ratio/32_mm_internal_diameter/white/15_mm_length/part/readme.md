@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: know second
+  * bip 39 word 3: know second view
+  * bip 39 word: know second view any dinner area hungry orange wage clinic claim artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | know |  
+| bip_39_word_new_br10 | know<br>second<br>view<br>any<br>dinner<br>area<br>hungry<br>orange<br>wage<br>clinic |  
+| bip_39_word_new_br11 | know<br>second<br>view<br>any<br>dinner<br>area<br>hungry<br>orange<br>wage<br>clinic<br>claim |  
+| bip_39_word_new_br12 | know<br>second<br>view<br>any<br>dinner<br>area<br>hungry<br>orange<br>wage<br>clinic<br>claim<br>artefact |  
+| bip_39_word_new_br2 | know<br>second |  
+| bip_39_word_new_br3 | know<br>second<br>view |  
+| bip_39_word_new_br4 | know<br>second<br>view<br>any |  
+| bip_39_word_new_br5 | know<br>second<br>view<br>any<br>dinner |  
+| bip_39_word_new_br6 | know<br>second<br>view<br>any<br>dinner<br>area |  
+| bip_39_word_new_br7 | know<br>second<br>view<br>any<br>dinner<br>area<br>hungry |  
+| bip_39_word_new_br8 | know<br>second<br>view<br>any<br>dinner<br>area<br>hungry<br>orange |  
+| bip_39_word_new_br9 | know<br>second<br>view<br>any<br>dinner<br>area<br>hungry<br>orange<br>wage |  
+| bip_39_word_new_line1 | know |  
+| bip_39_word_new_line10 | know
+second
+view
+any
+dinner
+area
+hungry
+orange
+wage
+clinic |  
+| bip_39_word_new_line11 | know
+second
+view
+any
+dinner
+area
+hungry
+orange
+wage
+clinic
+claim |  
+| bip_39_word_new_line12 | know
+second
+view
+any
+dinner
+area
+hungry
+orange
+wage
+clinic
+claim
+artefact |  
+| bip_39_word_new_line2 | know
+second |  
+| bip_39_word_new_line3 | know
+second
+view |  
+| bip_39_word_new_line4 | know
+second
+view
+any |  
+| bip_39_word_new_line5 | know
+second
+view
+any
+dinner |  
+| bip_39_word_new_line6 | know
+second
+view
+any
+dinner
+area |  
+| bip_39_word_new_line7 | know
+second
+view
+any
+dinner
+area
+hungry |  
+| bip_39_word_new_line8 | know
+second
+view
+any
+dinner
+area
+hungry
+orange |  
+| bip_39_word_new_line9 | know
+second
+view
+any
+dinner
+area
+hungry
+orange
+wage |  
+| bip_39_word_space_0 | ['know', 'second', 'view', 'any', 'dinner', 'area', 'hungry', 'orange', 'wage', 'clinic', 'claim', 'artefact'] |  
+| bip_39_word_space_1 | know |  
+| bip_39_word_space_10 | know second view any dinner area hungry orange wage clinic |  
+| bip_39_word_space_11 | know second view any dinner area hungry orange wage clinic claim |  
+| bip_39_word_space_12 | know second view any dinner area hungry orange wage clinic claim artefact |  
+| bip_39_word_space_2 | know second |  
+| bip_39_word_space_3 | know second view |  
+| bip_39_word_space_4 | know second view any |  
+| bip_39_word_space_5 | know second view any dinner |  
+| bip_39_word_space_6 | know second view any dinner area |  
+| bip_39_word_space_7 | know second view any dinner area hungry |  
+| bip_39_word_space_8 | know second view any dinner area hungry orange |  
+| bip_39_word_space_9 | know second view any dinner area hungry orange wage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

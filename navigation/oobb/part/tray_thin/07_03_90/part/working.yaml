@@ -1,3 +1,186 @@
+bip_39_word_new_br1: erode
+bip_39_word_new_br10: erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace
+bip_39_word_new_br11: erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace<br>vacant
+bip_39_word_new_br12: erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred<br>embrace<br>vacant<br>angry
+bip_39_word_new_br2: erode<br>aware
+bip_39_word_new_br3: erode<br>aware<br>whip
+bip_39_word_new_br4: erode<br>aware<br>whip<br>maximum
+bip_39_word_new_br5: erode<br>aware<br>whip<br>maximum<br>later
+bip_39_word_new_br6: erode<br>aware<br>whip<br>maximum<br>later<br>action
+bip_39_word_new_br7: erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology
+bip_39_word_new_br8: erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe
+bip_39_word_new_br9: erode<br>aware<br>whip<br>maximum<br>later<br>action<br>apology<br>safe<br>hundred
+bip_39_word_new_line1: erode
+bip_39_word_new_line10: 'erode
+
+  aware
+
+  whip
+
+  maximum
+
+  later
+
+  action
+
+  apology
+
+  safe
+
+  hundred
+
+  embrace'
+bip_39_word_new_line11: 'erode
+
+  aware
+
+  whip
+
+  maximum
+
+  later
+
+  action
+
+  apology
+
+  safe
+
+  hundred
+
+  embrace
+
+  vacant'
+bip_39_word_new_line12: 'erode
+
+  aware
+
+  whip
+
+  maximum
+
+  later
+
+  action
+
+  apology
+
+  safe
+
+  hundred
+
+  embrace
+
+  vacant
+
+  angry'
+bip_39_word_new_line2: 'erode
+
+  aware'
+bip_39_word_new_line3: 'erode
+
+  aware
+
+  whip'
+bip_39_word_new_line4: 'erode
+
+  aware
+
+  whip
+
+  maximum'
+bip_39_word_new_line5: 'erode
+
+  aware
+
+  whip
+
+  maximum
+
+  later'
+bip_39_word_new_line6: 'erode
+
+  aware
+
+  whip
+
+  maximum
+
+  later
+
+  action'
+bip_39_word_new_line7: 'erode
+
+  aware
+
+  whip
+
+  maximum
+
+  later
+
+  action
+
+  apology'
+bip_39_word_new_line8: 'erode
+
+  aware
+
+  whip
+
+  maximum
+
+  later
+
+  action
+
+  apology
+
+  safe'
+bip_39_word_new_line9: 'erode
+
+  aware
+
+  whip
+
+  maximum
+
+  later
+
+  action
+
+  apology
+
+  safe
+
+  hundred'
+bip_39_word_space_0:
+- erode
+- aware
+- whip
+- maximum
+- later
+- action
+- apology
+- safe
+- hundred
+- embrace
+- vacant
+- angry
+bip_39_word_space_1: erode
+bip_39_word_space_10: erode aware whip maximum later action apology safe hundred embrace
+bip_39_word_space_11: erode aware whip maximum later action apology safe hundred embrace
+  vacant
+bip_39_word_space_12: erode aware whip maximum later action apology safe hundred embrace
+  vacant angry
+bip_39_word_space_2: erode aware
+bip_39_word_space_3: erode aware whip
+bip_39_word_space_4: erode aware whip maximum
+bip_39_word_space_5: erode aware whip maximum later
+bip_39_word_space_6: erode aware whip maximum later action
+bip_39_word_space_7: erode aware whip maximum later action apology
+bip_39_word_space_8: erode aware whip maximum later action apology safe
+bip_39_word_space_9: erode aware whip maximum later action apology safe hundred
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

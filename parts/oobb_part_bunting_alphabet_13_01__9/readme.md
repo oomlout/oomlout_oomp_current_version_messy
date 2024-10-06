@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 9
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: color grit
+  * bip 39 word 3: color grit glow
+  * bip 39 word: color grit glow exclude equip pony steel extend tobacco fashion measure annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | color |  
+| bip_39_word_new_br10 | color<br>grit<br>glow<br>exclude<br>equip<br>pony<br>steel<br>extend<br>tobacco<br>fashion |  
+| bip_39_word_new_br11 | color<br>grit<br>glow<br>exclude<br>equip<br>pony<br>steel<br>extend<br>tobacco<br>fashion<br>measure |  
+| bip_39_word_new_br12 | color<br>grit<br>glow<br>exclude<br>equip<br>pony<br>steel<br>extend<br>tobacco<br>fashion<br>measure<br>annual |  
+| bip_39_word_new_br2 | color<br>grit |  
+| bip_39_word_new_br3 | color<br>grit<br>glow |  
+| bip_39_word_new_br4 | color<br>grit<br>glow<br>exclude |  
+| bip_39_word_new_br5 | color<br>grit<br>glow<br>exclude<br>equip |  
+| bip_39_word_new_br6 | color<br>grit<br>glow<br>exclude<br>equip<br>pony |  
+| bip_39_word_new_br7 | color<br>grit<br>glow<br>exclude<br>equip<br>pony<br>steel |  
+| bip_39_word_new_br8 | color<br>grit<br>glow<br>exclude<br>equip<br>pony<br>steel<br>extend |  
+| bip_39_word_new_br9 | color<br>grit<br>glow<br>exclude<br>equip<br>pony<br>steel<br>extend<br>tobacco |  
+| bip_39_word_new_line1 | color |  
+| bip_39_word_new_line10 | color
+grit
+glow
+exclude
+equip
+pony
+steel
+extend
+tobacco
+fashion |  
+| bip_39_word_new_line11 | color
+grit
+glow
+exclude
+equip
+pony
+steel
+extend
+tobacco
+fashion
+measure |  
+| bip_39_word_new_line12 | color
+grit
+glow
+exclude
+equip
+pony
+steel
+extend
+tobacco
+fashion
+measure
+annual |  
+| bip_39_word_new_line2 | color
+grit |  
+| bip_39_word_new_line3 | color
+grit
+glow |  
+| bip_39_word_new_line4 | color
+grit
+glow
+exclude |  
+| bip_39_word_new_line5 | color
+grit
+glow
+exclude
+equip |  
+| bip_39_word_new_line6 | color
+grit
+glow
+exclude
+equip
+pony |  
+| bip_39_word_new_line7 | color
+grit
+glow
+exclude
+equip
+pony
+steel |  
+| bip_39_word_new_line8 | color
+grit
+glow
+exclude
+equip
+pony
+steel
+extend |  
+| bip_39_word_new_line9 | color
+grit
+glow
+exclude
+equip
+pony
+steel
+extend
+tobacco |  
+| bip_39_word_space_0 | ['color', 'grit', 'glow', 'exclude', 'equip', 'pony', 'steel', 'extend', 'tobacco', 'fashion', 'measure', 'annual'] |  
+| bip_39_word_space_1 | color |  
+| bip_39_word_space_10 | color grit glow exclude equip pony steel extend tobacco fashion |  
+| bip_39_word_space_11 | color grit glow exclude equip pony steel extend tobacco fashion measure |  
+| bip_39_word_space_12 | color grit glow exclude equip pony steel extend tobacco fashion measure annual |  
+| bip_39_word_space_2 | color grit |  
+| bip_39_word_space_3 | color grit glow |  
+| bip_39_word_space_4 | color grit glow exclude |  
+| bip_39_word_space_5 | color grit glow exclude equip |  
+| bip_39_word_space_6 | color grit glow exclude equip pony |  
+| bip_39_word_space_7 | color grit glow exclude equip pony steel |  
+| bip_39_word_space_8 | color grit glow exclude equip pony steel extend |  
+| bip_39_word_space_9 | color grit glow exclude equip pony steel extend tobacco |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

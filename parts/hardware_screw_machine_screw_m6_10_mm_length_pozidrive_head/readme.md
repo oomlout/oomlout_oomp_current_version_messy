@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pause romance
+  * bip 39 word 3: pause romance wasp
+  * bip 39 word: 
 
 ### other_codes
 * short_code: ms6m10pz
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pause |  
+| bip_39_word_new_br10 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth<br>surge |  
+| bip_39_word_new_br11 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth<br>surge<br>rifle |  
+| bip_39_word_new_br2 | pause<br>romance |  
+| bip_39_word_new_br3 | pause<br>romance<br>wasp |  
+| bip_39_word_new_br4 | pause<br>romance<br>wasp<br>strategy |  
+| bip_39_word_new_br5 | pause<br>romance<br>wasp<br>strategy<br>poet |  
+| bip_39_word_new_br6 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow |  
+| bip_39_word_new_br7 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash |  
+| bip_39_word_new_br8 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm |  
+| bip_39_word_new_br9 | pause<br>romance<br>wasp<br>strategy<br>poet<br>narrow<br>wash<br>firm<br>cloth |  
+| bip_39_word_new_line1 | pause |  
+| bip_39_word_new_line10 | pause
+romance
+wasp
+strategy
+poet
+narrow
+wash
+firm
+cloth
+surge |  
+| bip_39_word_new_line11 | pause
+romance
+wasp
+strategy
+poet
+narrow
+wash
+firm
+cloth
+surge
+rifle |  
+| bip_39_word_new_line2 | pause
+romance |  
+| bip_39_word_new_line3 | pause
+romance
+wasp |  
+| bip_39_word_new_line4 | pause
+romance
+wasp
+strategy |  
+| bip_39_word_new_line5 | pause
+romance
+wasp
+strategy
+poet |  
+| bip_39_word_new_line6 | pause
+romance
+wasp
+strategy
+poet
+narrow |  
+| bip_39_word_new_line7 | pause
+romance
+wasp
+strategy
+poet
+narrow
+wash |  
+| bip_39_word_new_line8 | pause
+romance
+wasp
+strategy
+poet
+narrow
+wash
+firm |  
+| bip_39_word_new_line9 | pause
+romance
+wasp
+strategy
+poet
+narrow
+wash
+firm
+cloth |  
+| bip_39_word_space_0 | ['pause', 'romance', 'wasp', 'strategy', 'poet', 'narrow', 'wash', 'firm', 'cloth', 'surge', 'rifle'] |  
+| bip_39_word_space_1 | pause |  
+| bip_39_word_space_10 | pause romance wasp strategy poet narrow wash firm cloth surge |  
+| bip_39_word_space_11 | pause romance wasp strategy poet narrow wash firm cloth surge rifle |  
+| bip_39_word_space_2 | pause romance |  
+| bip_39_word_space_3 | pause romance wasp |  
+| bip_39_word_space_4 | pause romance wasp strategy |  
+| bip_39_word_space_5 | pause romance wasp strategy poet |  
+| bip_39_word_space_6 | pause romance wasp strategy poet narrow |  
+| bip_39_word_space_7 | pause romance wasp strategy poet narrow wash |  
+| bip_39_word_space_8 | pause romance wasp strategy poet narrow wash firm |  
+| bip_39_word_space_9 | pause romance wasp strategy poet narrow wash firm cloth |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chest
+bip_39_word_new_br10: chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel<br>capable<br>phrase<br>news<br>ordinary
+bip_39_word_new_br11: chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel<br>capable<br>phrase<br>news<br>ordinary<br>thank
+bip_39_word_new_br12: chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel<br>capable<br>phrase<br>news<br>ordinary<br>thank<br>august
+bip_39_word_new_br2: chest<br>stuff
+bip_39_word_new_br3: chest<br>stuff<br>debate
+bip_39_word_new_br4: chest<br>stuff<br>debate<br>vapor
+bip_39_word_new_br5: chest<br>stuff<br>debate<br>vapor<br>angle
+bip_39_word_new_br6: chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel
+bip_39_word_new_br7: chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel<br>capable
+bip_39_word_new_br8: chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel<br>capable<br>phrase
+bip_39_word_new_br9: chest<br>stuff<br>debate<br>vapor<br>angle<br>cancel<br>capable<br>phrase<br>news
+bip_39_word_new_line1: chest
+bip_39_word_new_line10: 'chest
+
+  stuff
+
+  debate
+
+  vapor
+
+  angle
+
+  cancel
+
+  capable
+
+  phrase
+
+  news
+
+  ordinary'
+bip_39_word_new_line11: 'chest
+
+  stuff
+
+  debate
+
+  vapor
+
+  angle
+
+  cancel
+
+  capable
+
+  phrase
+
+  news
+
+  ordinary
+
+  thank'
+bip_39_word_new_line12: 'chest
+
+  stuff
+
+  debate
+
+  vapor
+
+  angle
+
+  cancel
+
+  capable
+
+  phrase
+
+  news
+
+  ordinary
+
+  thank
+
+  august'
+bip_39_word_new_line2: 'chest
+
+  stuff'
+bip_39_word_new_line3: 'chest
+
+  stuff
+
+  debate'
+bip_39_word_new_line4: 'chest
+
+  stuff
+
+  debate
+
+  vapor'
+bip_39_word_new_line5: 'chest
+
+  stuff
+
+  debate
+
+  vapor
+
+  angle'
+bip_39_word_new_line6: 'chest
+
+  stuff
+
+  debate
+
+  vapor
+
+  angle
+
+  cancel'
+bip_39_word_new_line7: 'chest
+
+  stuff
+
+  debate
+
+  vapor
+
+  angle
+
+  cancel
+
+  capable'
+bip_39_word_new_line8: 'chest
+
+  stuff
+
+  debate
+
+  vapor
+
+  angle
+
+  cancel
+
+  capable
+
+  phrase'
+bip_39_word_new_line9: 'chest
+
+  stuff
+
+  debate
+
+  vapor
+
+  angle
+
+  cancel
+
+  capable
+
+  phrase
+
+  news'
+bip_39_word_space_0:
+- chest
+- stuff
+- debate
+- vapor
+- angle
+- cancel
+- capable
+- phrase
+- news
+- ordinary
+- thank
+- august
+bip_39_word_space_1: chest
+bip_39_word_space_10: chest stuff debate vapor angle cancel capable phrase news ordinary
+bip_39_word_space_11: chest stuff debate vapor angle cancel capable phrase news ordinary
+  thank
+bip_39_word_space_12: chest stuff debate vapor angle cancel capable phrase news ordinary
+  thank august
+bip_39_word_space_2: chest stuff
+bip_39_word_space_3: chest stuff debate
+bip_39_word_space_4: chest stuff debate vapor
+bip_39_word_space_5: chest stuff debate vapor angle
+bip_39_word_space_6: chest stuff debate vapor angle cancel
+bip_39_word_space_7: chest stuff debate vapor angle cancel capable
+bip_39_word_space_8: chest stuff debate vapor angle cancel capable phrase
+bip_39_word_space_9: chest stuff debate vapor angle cancel capable phrase news
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

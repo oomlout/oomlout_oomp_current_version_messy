@@ -1,3 +1,187 @@
+bip_39_word_new_br1: loyal
+bip_39_word_new_br10: loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican<br>atom<br>famous<br>glass<br>galaxy
+bip_39_word_new_br11: loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican<br>atom<br>famous<br>glass<br>galaxy<br>match
+bip_39_word_new_br12: loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican<br>atom<br>famous<br>glass<br>galaxy<br>match<br>average
+bip_39_word_new_br2: loyal<br>seven
+bip_39_word_new_br3: loyal<br>seven<br>mammal
+bip_39_word_new_br4: loyal<br>seven<br>mammal<br>tattoo
+bip_39_word_new_br5: loyal<br>seven<br>mammal<br>tattoo<br>wedding
+bip_39_word_new_br6: loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican
+bip_39_word_new_br7: loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican<br>atom
+bip_39_word_new_br8: loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican<br>atom<br>famous
+bip_39_word_new_br9: loyal<br>seven<br>mammal<br>tattoo<br>wedding<br>pelican<br>atom<br>famous<br>glass
+bip_39_word_new_line1: loyal
+bip_39_word_new_line10: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo
+
+  wedding
+
+  pelican
+
+  atom
+
+  famous
+
+  glass
+
+  galaxy'
+bip_39_word_new_line11: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo
+
+  wedding
+
+  pelican
+
+  atom
+
+  famous
+
+  glass
+
+  galaxy
+
+  match'
+bip_39_word_new_line12: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo
+
+  wedding
+
+  pelican
+
+  atom
+
+  famous
+
+  glass
+
+  galaxy
+
+  match
+
+  average'
+bip_39_word_new_line2: 'loyal
+
+  seven'
+bip_39_word_new_line3: 'loyal
+
+  seven
+
+  mammal'
+bip_39_word_new_line4: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo'
+bip_39_word_new_line5: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo
+
+  wedding'
+bip_39_word_new_line6: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo
+
+  wedding
+
+  pelican'
+bip_39_word_new_line7: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo
+
+  wedding
+
+  pelican
+
+  atom'
+bip_39_word_new_line8: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo
+
+  wedding
+
+  pelican
+
+  atom
+
+  famous'
+bip_39_word_new_line9: 'loyal
+
+  seven
+
+  mammal
+
+  tattoo
+
+  wedding
+
+  pelican
+
+  atom
+
+  famous
+
+  glass'
+bip_39_word_space_0:
+- loyal
+- seven
+- mammal
+- tattoo
+- wedding
+- pelican
+- atom
+- famous
+- glass
+- galaxy
+- match
+- average
+bip_39_word_space_1: loyal
+bip_39_word_space_10: loyal seven mammal tattoo wedding pelican atom famous glass
+  galaxy
+bip_39_word_space_11: loyal seven mammal tattoo wedding pelican atom famous glass
+  galaxy match
+bip_39_word_space_12: loyal seven mammal tattoo wedding pelican atom famous glass
+  galaxy match average
+bip_39_word_space_2: loyal seven
+bip_39_word_space_3: loyal seven mammal
+bip_39_word_space_4: loyal seven mammal tattoo
+bip_39_word_space_5: loyal seven mammal tattoo wedding
+bip_39_word_space_6: loyal seven mammal tattoo wedding pelican
+bip_39_word_space_7: loyal seven mammal tattoo wedding pelican atom
+bip_39_word_space_8: loyal seven mammal tattoo wedding pelican atom famous
+bip_39_word_space_9: loyal seven mammal tattoo wedding pelican atom famous glass
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

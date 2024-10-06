@@ -1,3 +1,187 @@
+bip_39_word_new_br1: resource
+bip_39_word_new_br10: resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric
+bip_39_word_new_br11: resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric<br>portion
+bip_39_word_new_br12: resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch<br>electric<br>portion<br>acid
+bip_39_word_new_br2: resource<br>gadget
+bip_39_word_new_br3: resource<br>gadget<br>popular
+bip_39_word_new_br4: resource<br>gadget<br>popular<br>unveil
+bip_39_word_new_br5: resource<br>gadget<br>popular<br>unveil<br>tissue
+bip_39_word_new_br6: resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst
+bip_39_word_new_br7: resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror
+bip_39_word_new_br8: resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area
+bip_39_word_new_br9: resource<br>gadget<br>popular<br>unveil<br>tissue<br>burst<br>mirror<br>area<br>pitch
+bip_39_word_new_line1: resource
+bip_39_word_new_line10: 'resource
+
+  gadget
+
+  popular
+
+  unveil
+
+  tissue
+
+  burst
+
+  mirror
+
+  area
+
+  pitch
+
+  electric'
+bip_39_word_new_line11: 'resource
+
+  gadget
+
+  popular
+
+  unveil
+
+  tissue
+
+  burst
+
+  mirror
+
+  area
+
+  pitch
+
+  electric
+
+  portion'
+bip_39_word_new_line12: 'resource
+
+  gadget
+
+  popular
+
+  unveil
+
+  tissue
+
+  burst
+
+  mirror
+
+  area
+
+  pitch
+
+  electric
+
+  portion
+
+  acid'
+bip_39_word_new_line2: 'resource
+
+  gadget'
+bip_39_word_new_line3: 'resource
+
+  gadget
+
+  popular'
+bip_39_word_new_line4: 'resource
+
+  gadget
+
+  popular
+
+  unveil'
+bip_39_word_new_line5: 'resource
+
+  gadget
+
+  popular
+
+  unveil
+
+  tissue'
+bip_39_word_new_line6: 'resource
+
+  gadget
+
+  popular
+
+  unveil
+
+  tissue
+
+  burst'
+bip_39_word_new_line7: 'resource
+
+  gadget
+
+  popular
+
+  unveil
+
+  tissue
+
+  burst
+
+  mirror'
+bip_39_word_new_line8: 'resource
+
+  gadget
+
+  popular
+
+  unveil
+
+  tissue
+
+  burst
+
+  mirror
+
+  area'
+bip_39_word_new_line9: 'resource
+
+  gadget
+
+  popular
+
+  unveil
+
+  tissue
+
+  burst
+
+  mirror
+
+  area
+
+  pitch'
+bip_39_word_space_0:
+- resource
+- gadget
+- popular
+- unveil
+- tissue
+- burst
+- mirror
+- area
+- pitch
+- electric
+- portion
+- acid
+bip_39_word_space_1: resource
+bip_39_word_space_10: resource gadget popular unveil tissue burst mirror area pitch
+  electric
+bip_39_word_space_11: resource gadget popular unveil tissue burst mirror area pitch
+  electric portion
+bip_39_word_space_12: resource gadget popular unveil tissue burst mirror area pitch
+  electric portion acid
+bip_39_word_space_2: resource gadget
+bip_39_word_space_3: resource gadget popular
+bip_39_word_space_4: resource gadget popular unveil
+bip_39_word_space_5: resource gadget popular unveil tissue
+bip_39_word_space_6: resource gadget popular unveil tissue burst
+bip_39_word_space_7: resource gadget popular unveil tissue burst mirror
+bip_39_word_space_8: resource gadget popular unveil tissue burst mirror area
+bip_39_word_space_9: resource gadget popular unveil tissue burst mirror area pitch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

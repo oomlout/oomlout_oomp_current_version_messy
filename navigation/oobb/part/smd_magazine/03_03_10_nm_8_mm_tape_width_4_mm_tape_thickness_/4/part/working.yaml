@@ -1,3 +1,187 @@
+bip_39_word_new_br1: marriage
+bip_39_word_new_br10: marriage<br>nephew<br>enrich<br>rival<br>economy<br>police<br>fantasy<br>custom<br>woman<br>garbage
+bip_39_word_new_br11: marriage<br>nephew<br>enrich<br>rival<br>economy<br>police<br>fantasy<br>custom<br>woman<br>garbage<br>tip
+bip_39_word_new_br12: marriage<br>nephew<br>enrich<br>rival<br>economy<br>police<br>fantasy<br>custom<br>woman<br>garbage<br>tip<br>army
+bip_39_word_new_br2: marriage<br>nephew
+bip_39_word_new_br3: marriage<br>nephew<br>enrich
+bip_39_word_new_br4: marriage<br>nephew<br>enrich<br>rival
+bip_39_word_new_br5: marriage<br>nephew<br>enrich<br>rival<br>economy
+bip_39_word_new_br6: marriage<br>nephew<br>enrich<br>rival<br>economy<br>police
+bip_39_word_new_br7: marriage<br>nephew<br>enrich<br>rival<br>economy<br>police<br>fantasy
+bip_39_word_new_br8: marriage<br>nephew<br>enrich<br>rival<br>economy<br>police<br>fantasy<br>custom
+bip_39_word_new_br9: marriage<br>nephew<br>enrich<br>rival<br>economy<br>police<br>fantasy<br>custom<br>woman
+bip_39_word_new_line1: marriage
+bip_39_word_new_line10: 'marriage
+
+  nephew
+
+  enrich
+
+  rival
+
+  economy
+
+  police
+
+  fantasy
+
+  custom
+
+  woman
+
+  garbage'
+bip_39_word_new_line11: 'marriage
+
+  nephew
+
+  enrich
+
+  rival
+
+  economy
+
+  police
+
+  fantasy
+
+  custom
+
+  woman
+
+  garbage
+
+  tip'
+bip_39_word_new_line12: 'marriage
+
+  nephew
+
+  enrich
+
+  rival
+
+  economy
+
+  police
+
+  fantasy
+
+  custom
+
+  woman
+
+  garbage
+
+  tip
+
+  army'
+bip_39_word_new_line2: 'marriage
+
+  nephew'
+bip_39_word_new_line3: 'marriage
+
+  nephew
+
+  enrich'
+bip_39_word_new_line4: 'marriage
+
+  nephew
+
+  enrich
+
+  rival'
+bip_39_word_new_line5: 'marriage
+
+  nephew
+
+  enrich
+
+  rival
+
+  economy'
+bip_39_word_new_line6: 'marriage
+
+  nephew
+
+  enrich
+
+  rival
+
+  economy
+
+  police'
+bip_39_word_new_line7: 'marriage
+
+  nephew
+
+  enrich
+
+  rival
+
+  economy
+
+  police
+
+  fantasy'
+bip_39_word_new_line8: 'marriage
+
+  nephew
+
+  enrich
+
+  rival
+
+  economy
+
+  police
+
+  fantasy
+
+  custom'
+bip_39_word_new_line9: 'marriage
+
+  nephew
+
+  enrich
+
+  rival
+
+  economy
+
+  police
+
+  fantasy
+
+  custom
+
+  woman'
+bip_39_word_space_0:
+- marriage
+- nephew
+- enrich
+- rival
+- economy
+- police
+- fantasy
+- custom
+- woman
+- garbage
+- tip
+- army
+bip_39_word_space_1: marriage
+bip_39_word_space_10: marriage nephew enrich rival economy police fantasy custom woman
+  garbage
+bip_39_word_space_11: marriage nephew enrich rival economy police fantasy custom woman
+  garbage tip
+bip_39_word_space_12: marriage nephew enrich rival economy police fantasy custom woman
+  garbage tip army
+bip_39_word_space_2: marriage nephew
+bip_39_word_space_3: marriage nephew enrich
+bip_39_word_space_4: marriage nephew enrich rival
+bip_39_word_space_5: marriage nephew enrich rival economy
+bip_39_word_space_6: marriage nephew enrich rival economy police
+bip_39_word_space_7: marriage nephew enrich rival economy police fantasy
+bip_39_word_space_8: marriage nephew enrich rival economy police fantasy custom
+bip_39_word_space_9: marriage nephew enrich rival economy police fantasy custom woman
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

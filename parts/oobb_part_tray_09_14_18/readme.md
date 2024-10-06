@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: middle one
+  * bip 39 word 3: middle one paper
+  * bip 39 word: middle one paper guide palm load doctor mutual erosion away pass account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | middle |  
+| bip_39_word_new_br10 | middle<br>one<br>paper<br>guide<br>palm<br>load<br>doctor<br>mutual<br>erosion<br>away |  
+| bip_39_word_new_br11 | middle<br>one<br>paper<br>guide<br>palm<br>load<br>doctor<br>mutual<br>erosion<br>away<br>pass |  
+| bip_39_word_new_br12 | middle<br>one<br>paper<br>guide<br>palm<br>load<br>doctor<br>mutual<br>erosion<br>away<br>pass<br>account |  
+| bip_39_word_new_br2 | middle<br>one |  
+| bip_39_word_new_br3 | middle<br>one<br>paper |  
+| bip_39_word_new_br4 | middle<br>one<br>paper<br>guide |  
+| bip_39_word_new_br5 | middle<br>one<br>paper<br>guide<br>palm |  
+| bip_39_word_new_br6 | middle<br>one<br>paper<br>guide<br>palm<br>load |  
+| bip_39_word_new_br7 | middle<br>one<br>paper<br>guide<br>palm<br>load<br>doctor |  
+| bip_39_word_new_br8 | middle<br>one<br>paper<br>guide<br>palm<br>load<br>doctor<br>mutual |  
+| bip_39_word_new_br9 | middle<br>one<br>paper<br>guide<br>palm<br>load<br>doctor<br>mutual<br>erosion |  
+| bip_39_word_new_line1 | middle |  
+| bip_39_word_new_line10 | middle
+one
+paper
+guide
+palm
+load
+doctor
+mutual
+erosion
+away |  
+| bip_39_word_new_line11 | middle
+one
+paper
+guide
+palm
+load
+doctor
+mutual
+erosion
+away
+pass |  
+| bip_39_word_new_line12 | middle
+one
+paper
+guide
+palm
+load
+doctor
+mutual
+erosion
+away
+pass
+account |  
+| bip_39_word_new_line2 | middle
+one |  
+| bip_39_word_new_line3 | middle
+one
+paper |  
+| bip_39_word_new_line4 | middle
+one
+paper
+guide |  
+| bip_39_word_new_line5 | middle
+one
+paper
+guide
+palm |  
+| bip_39_word_new_line6 | middle
+one
+paper
+guide
+palm
+load |  
+| bip_39_word_new_line7 | middle
+one
+paper
+guide
+palm
+load
+doctor |  
+| bip_39_word_new_line8 | middle
+one
+paper
+guide
+palm
+load
+doctor
+mutual |  
+| bip_39_word_new_line9 | middle
+one
+paper
+guide
+palm
+load
+doctor
+mutual
+erosion |  
+| bip_39_word_space_0 | ['middle', 'one', 'paper', 'guide', 'palm', 'load', 'doctor', 'mutual', 'erosion', 'away', 'pass', 'account'] |  
+| bip_39_word_space_1 | middle |  
+| bip_39_word_space_10 | middle one paper guide palm load doctor mutual erosion away |  
+| bip_39_word_space_11 | middle one paper guide palm load doctor mutual erosion away pass |  
+| bip_39_word_space_12 | middle one paper guide palm load doctor mutual erosion away pass account |  
+| bip_39_word_space_2 | middle one |  
+| bip_39_word_space_3 | middle one paper |  
+| bip_39_word_space_4 | middle one paper guide |  
+| bip_39_word_space_5 | middle one paper guide palm |  
+| bip_39_word_space_6 | middle one paper guide palm load |  
+| bip_39_word_space_7 | middle one paper guide palm load doctor |  
+| bip_39_word_space_8 | middle one paper guide palm load doctor mutual |  
+| bip_39_word_space_9 | middle one paper guide palm load doctor mutual erosion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

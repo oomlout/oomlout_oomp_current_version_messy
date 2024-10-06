@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: club action
+  * bip 39 word 3: club action slow
+  * bip 39 word: club action slow quote pupil lunch ecology memory jar language palm another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | club |  
+| bip_39_word_new_br10 | club<br>action<br>slow<br>quote<br>pupil<br>lunch<br>ecology<br>memory<br>jar<br>language |  
+| bip_39_word_new_br11 | club<br>action<br>slow<br>quote<br>pupil<br>lunch<br>ecology<br>memory<br>jar<br>language<br>palm |  
+| bip_39_word_new_br12 | club<br>action<br>slow<br>quote<br>pupil<br>lunch<br>ecology<br>memory<br>jar<br>language<br>palm<br>another |  
+| bip_39_word_new_br2 | club<br>action |  
+| bip_39_word_new_br3 | club<br>action<br>slow |  
+| bip_39_word_new_br4 | club<br>action<br>slow<br>quote |  
+| bip_39_word_new_br5 | club<br>action<br>slow<br>quote<br>pupil |  
+| bip_39_word_new_br6 | club<br>action<br>slow<br>quote<br>pupil<br>lunch |  
+| bip_39_word_new_br7 | club<br>action<br>slow<br>quote<br>pupil<br>lunch<br>ecology |  
+| bip_39_word_new_br8 | club<br>action<br>slow<br>quote<br>pupil<br>lunch<br>ecology<br>memory |  
+| bip_39_word_new_br9 | club<br>action<br>slow<br>quote<br>pupil<br>lunch<br>ecology<br>memory<br>jar |  
+| bip_39_word_new_line1 | club |  
+| bip_39_word_new_line10 | club
+action
+slow
+quote
+pupil
+lunch
+ecology
+memory
+jar
+language |  
+| bip_39_word_new_line11 | club
+action
+slow
+quote
+pupil
+lunch
+ecology
+memory
+jar
+language
+palm |  
+| bip_39_word_new_line12 | club
+action
+slow
+quote
+pupil
+lunch
+ecology
+memory
+jar
+language
+palm
+another |  
+| bip_39_word_new_line2 | club
+action |  
+| bip_39_word_new_line3 | club
+action
+slow |  
+| bip_39_word_new_line4 | club
+action
+slow
+quote |  
+| bip_39_word_new_line5 | club
+action
+slow
+quote
+pupil |  
+| bip_39_word_new_line6 | club
+action
+slow
+quote
+pupil
+lunch |  
+| bip_39_word_new_line7 | club
+action
+slow
+quote
+pupil
+lunch
+ecology |  
+| bip_39_word_new_line8 | club
+action
+slow
+quote
+pupil
+lunch
+ecology
+memory |  
+| bip_39_word_new_line9 | club
+action
+slow
+quote
+pupil
+lunch
+ecology
+memory
+jar |  
+| bip_39_word_space_0 | ['club', 'action', 'slow', 'quote', 'pupil', 'lunch', 'ecology', 'memory', 'jar', 'language', 'palm', 'another'] |  
+| bip_39_word_space_1 | club |  
+| bip_39_word_space_10 | club action slow quote pupil lunch ecology memory jar language |  
+| bip_39_word_space_11 | club action slow quote pupil lunch ecology memory jar language palm |  
+| bip_39_word_space_12 | club action slow quote pupil lunch ecology memory jar language palm another |  
+| bip_39_word_space_2 | club action |  
+| bip_39_word_space_3 | club action slow |  
+| bip_39_word_space_4 | club action slow quote |  
+| bip_39_word_space_5 | club action slow quote pupil |  
+| bip_39_word_space_6 | club action slow quote pupil lunch |  
+| bip_39_word_space_7 | club action slow quote pupil lunch ecology |  
+| bip_39_word_space_8 | club action slow quote pupil lunch ecology memory |  
+| bip_39_word_space_9 | club action slow quote pupil lunch ecology memory jar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fiscal
+bip_39_word_new_br10: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit
+bip_39_word_new_br11: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh
+bip_39_word_new_br12: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh<br>another
+bip_39_word_new_br2: fiscal<br>jealous
+bip_39_word_new_br3: fiscal<br>jealous<br>heart
+bip_39_word_new_br4: fiscal<br>jealous<br>heart<br>radar
+bip_39_word_new_br5: fiscal<br>jealous<br>heart<br>radar<br>tobacco
+bip_39_word_new_br6: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age
+bip_39_word_new_br7: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano
+bip_39_word_new_br8: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child
+bip_39_word_new_br9: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address
+bip_39_word_new_line1: fiscal
+bip_39_word_new_line10: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child
+
+  address
+
+  submit'
+bip_39_word_new_line11: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child
+
+  address
+
+  submit
+
+  mesh'
+bip_39_word_new_line12: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child
+
+  address
+
+  submit
+
+  mesh
+
+  another'
+bip_39_word_new_line2: 'fiscal
+
+  jealous'
+bip_39_word_new_line3: 'fiscal
+
+  jealous
+
+  heart'
+bip_39_word_new_line4: 'fiscal
+
+  jealous
+
+  heart
+
+  radar'
+bip_39_word_new_line5: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco'
+bip_39_word_new_line6: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age'
+bip_39_word_new_line7: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano'
+bip_39_word_new_line8: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child'
+bip_39_word_new_line9: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child
+
+  address'
+bip_39_word_space_0:
+- fiscal
+- jealous
+- heart
+- radar
+- tobacco
+- age
+- piano
+- child
+- address
+- submit
+- mesh
+- another
+bip_39_word_space_1: fiscal
+bip_39_word_space_10: fiscal jealous heart radar tobacco age piano child address submit
+bip_39_word_space_11: fiscal jealous heart radar tobacco age piano child address submit
+  mesh
+bip_39_word_space_12: fiscal jealous heart radar tobacco age piano child address submit
+  mesh another
+bip_39_word_space_2: fiscal jealous
+bip_39_word_space_3: fiscal jealous heart
+bip_39_word_space_4: fiscal jealous heart radar
+bip_39_word_space_5: fiscal jealous heart radar tobacco
+bip_39_word_space_6: fiscal jealous heart radar tobacco age
+bip_39_word_space_7: fiscal jealous heart radar tobacco age piano
+bip_39_word_space_8: fiscal jealous heart radar tobacco age piano child
+bip_39_word_space_9: fiscal jealous heart radar tobacco age piano child address
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

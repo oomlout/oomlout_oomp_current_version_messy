@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: accuse shy
+  * bip 39 word 3: accuse shy tenant
+  * bip 39 word: accuse shy tenant waste subject rural kitten release before again faint arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | accuse |  
+| bip_39_word_new_br10 | accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again |  
+| bip_39_word_new_br11 | accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again<br>faint |  
+| bip_39_word_new_br12 | accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before<br>again<br>faint<br>arrest |  
+| bip_39_word_new_br2 | accuse<br>shy |  
+| bip_39_word_new_br3 | accuse<br>shy<br>tenant |  
+| bip_39_word_new_br4 | accuse<br>shy<br>tenant<br>waste |  
+| bip_39_word_new_br5 | accuse<br>shy<br>tenant<br>waste<br>subject |  
+| bip_39_word_new_br6 | accuse<br>shy<br>tenant<br>waste<br>subject<br>rural |  
+| bip_39_word_new_br7 | accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten |  
+| bip_39_word_new_br8 | accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release |  
+| bip_39_word_new_br9 | accuse<br>shy<br>tenant<br>waste<br>subject<br>rural<br>kitten<br>release<br>before |  
+| bip_39_word_new_line1 | accuse |  
+| bip_39_word_new_line10 | accuse
+shy
+tenant
+waste
+subject
+rural
+kitten
+release
+before
+again |  
+| bip_39_word_new_line11 | accuse
+shy
+tenant
+waste
+subject
+rural
+kitten
+release
+before
+again
+faint |  
+| bip_39_word_new_line12 | accuse
+shy
+tenant
+waste
+subject
+rural
+kitten
+release
+before
+again
+faint
+arrest |  
+| bip_39_word_new_line2 | accuse
+shy |  
+| bip_39_word_new_line3 | accuse
+shy
+tenant |  
+| bip_39_word_new_line4 | accuse
+shy
+tenant
+waste |  
+| bip_39_word_new_line5 | accuse
+shy
+tenant
+waste
+subject |  
+| bip_39_word_new_line6 | accuse
+shy
+tenant
+waste
+subject
+rural |  
+| bip_39_word_new_line7 | accuse
+shy
+tenant
+waste
+subject
+rural
+kitten |  
+| bip_39_word_new_line8 | accuse
+shy
+tenant
+waste
+subject
+rural
+kitten
+release |  
+| bip_39_word_new_line9 | accuse
+shy
+tenant
+waste
+subject
+rural
+kitten
+release
+before |  
+| bip_39_word_space_0 | ['accuse', 'shy', 'tenant', 'waste', 'subject', 'rural', 'kitten', 'release', 'before', 'again', 'faint', 'arrest'] |  
+| bip_39_word_space_1 | accuse |  
+| bip_39_word_space_10 | accuse shy tenant waste subject rural kitten release before again |  
+| bip_39_word_space_11 | accuse shy tenant waste subject rural kitten release before again faint |  
+| bip_39_word_space_12 | accuse shy tenant waste subject rural kitten release before again faint arrest |  
+| bip_39_word_space_2 | accuse shy |  
+| bip_39_word_space_3 | accuse shy tenant |  
+| bip_39_word_space_4 | accuse shy tenant waste |  
+| bip_39_word_space_5 | accuse shy tenant waste subject |  
+| bip_39_word_space_6 | accuse shy tenant waste subject rural |  
+| bip_39_word_space_7 | accuse shy tenant waste subject rural kitten |  
+| bip_39_word_space_8 | accuse shy tenant waste subject rural kitten release |  
+| bip_39_word_space_9 | accuse shy tenant waste subject rural kitten release before |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

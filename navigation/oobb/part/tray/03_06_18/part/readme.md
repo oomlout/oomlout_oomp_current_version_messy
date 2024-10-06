@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bench acquire
+  * bip 39 word 3: bench acquire caught
+  * bip 39 word: bench acquire caught another autumn chunk oven tray organ joke vintage attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bench |  
+| bip_39_word_new_br10 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk<br>oven<br>tray<br>organ<br>joke |  
+| bip_39_word_new_br11 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk<br>oven<br>tray<br>organ<br>joke<br>vintage |  
+| bip_39_word_new_br12 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk<br>oven<br>tray<br>organ<br>joke<br>vintage<br>attend |  
+| bip_39_word_new_br2 | bench<br>acquire |  
+| bip_39_word_new_br3 | bench<br>acquire<br>caught |  
+| bip_39_word_new_br4 | bench<br>acquire<br>caught<br>another |  
+| bip_39_word_new_br5 | bench<br>acquire<br>caught<br>another<br>autumn |  
+| bip_39_word_new_br6 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk |  
+| bip_39_word_new_br7 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk<br>oven |  
+| bip_39_word_new_br8 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk<br>oven<br>tray |  
+| bip_39_word_new_br9 | bench<br>acquire<br>caught<br>another<br>autumn<br>chunk<br>oven<br>tray<br>organ |  
+| bip_39_word_new_line1 | bench |  
+| bip_39_word_new_line10 | bench
+acquire
+caught
+another
+autumn
+chunk
+oven
+tray
+organ
+joke |  
+| bip_39_word_new_line11 | bench
+acquire
+caught
+another
+autumn
+chunk
+oven
+tray
+organ
+joke
+vintage |  
+| bip_39_word_new_line12 | bench
+acquire
+caught
+another
+autumn
+chunk
+oven
+tray
+organ
+joke
+vintage
+attend |  
+| bip_39_word_new_line2 | bench
+acquire |  
+| bip_39_word_new_line3 | bench
+acquire
+caught |  
+| bip_39_word_new_line4 | bench
+acquire
+caught
+another |  
+| bip_39_word_new_line5 | bench
+acquire
+caught
+another
+autumn |  
+| bip_39_word_new_line6 | bench
+acquire
+caught
+another
+autumn
+chunk |  
+| bip_39_word_new_line7 | bench
+acquire
+caught
+another
+autumn
+chunk
+oven |  
+| bip_39_word_new_line8 | bench
+acquire
+caught
+another
+autumn
+chunk
+oven
+tray |  
+| bip_39_word_new_line9 | bench
+acquire
+caught
+another
+autumn
+chunk
+oven
+tray
+organ |  
+| bip_39_word_space_0 | ['bench', 'acquire', 'caught', 'another', 'autumn', 'chunk', 'oven', 'tray', 'organ', 'joke', 'vintage', 'attend'] |  
+| bip_39_word_space_1 | bench |  
+| bip_39_word_space_10 | bench acquire caught another autumn chunk oven tray organ joke |  
+| bip_39_word_space_11 | bench acquire caught another autumn chunk oven tray organ joke vintage |  
+| bip_39_word_space_12 | bench acquire caught another autumn chunk oven tray organ joke vintage attend |  
+| bip_39_word_space_2 | bench acquire |  
+| bip_39_word_space_3 | bench acquire caught |  
+| bip_39_word_space_4 | bench acquire caught another |  
+| bip_39_word_space_5 | bench acquire caught another autumn |  
+| bip_39_word_space_6 | bench acquire caught another autumn chunk |  
+| bip_39_word_space_7 | bench acquire caught another autumn chunk oven |  
+| bip_39_word_space_8 | bench acquire caught another autumn chunk oven tray |  
+| bip_39_word_space_9 | bench acquire caught another autumn chunk oven tray organ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

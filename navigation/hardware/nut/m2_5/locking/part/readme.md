@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: catalog banner
+  * bip 39 word 3: catalog banner leaf
+  * bip 39 word: catalog banner leaf alarm menu picnic exit absurd twenty priority grief agree
 
 ### other_codes
 * short_code: n2d5mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | catalog |  
+| bip_39_word_new_br10 | catalog<br>banner<br>leaf<br>alarm<br>menu<br>picnic<br>exit<br>absurd<br>twenty<br>priority |  
+| bip_39_word_new_br11 | catalog<br>banner<br>leaf<br>alarm<br>menu<br>picnic<br>exit<br>absurd<br>twenty<br>priority<br>grief |  
+| bip_39_word_new_br12 | catalog<br>banner<br>leaf<br>alarm<br>menu<br>picnic<br>exit<br>absurd<br>twenty<br>priority<br>grief<br>agree |  
+| bip_39_word_new_br2 | catalog<br>banner |  
+| bip_39_word_new_br3 | catalog<br>banner<br>leaf |  
+| bip_39_word_new_br4 | catalog<br>banner<br>leaf<br>alarm |  
+| bip_39_word_new_br5 | catalog<br>banner<br>leaf<br>alarm<br>menu |  
+| bip_39_word_new_br6 | catalog<br>banner<br>leaf<br>alarm<br>menu<br>picnic |  
+| bip_39_word_new_br7 | catalog<br>banner<br>leaf<br>alarm<br>menu<br>picnic<br>exit |  
+| bip_39_word_new_br8 | catalog<br>banner<br>leaf<br>alarm<br>menu<br>picnic<br>exit<br>absurd |  
+| bip_39_word_new_br9 | catalog<br>banner<br>leaf<br>alarm<br>menu<br>picnic<br>exit<br>absurd<br>twenty |  
+| bip_39_word_new_line1 | catalog |  
+| bip_39_word_new_line10 | catalog
+banner
+leaf
+alarm
+menu
+picnic
+exit
+absurd
+twenty
+priority |  
+| bip_39_word_new_line11 | catalog
+banner
+leaf
+alarm
+menu
+picnic
+exit
+absurd
+twenty
+priority
+grief |  
+| bip_39_word_new_line12 | catalog
+banner
+leaf
+alarm
+menu
+picnic
+exit
+absurd
+twenty
+priority
+grief
+agree |  
+| bip_39_word_new_line2 | catalog
+banner |  
+| bip_39_word_new_line3 | catalog
+banner
+leaf |  
+| bip_39_word_new_line4 | catalog
+banner
+leaf
+alarm |  
+| bip_39_word_new_line5 | catalog
+banner
+leaf
+alarm
+menu |  
+| bip_39_word_new_line6 | catalog
+banner
+leaf
+alarm
+menu
+picnic |  
+| bip_39_word_new_line7 | catalog
+banner
+leaf
+alarm
+menu
+picnic
+exit |  
+| bip_39_word_new_line8 | catalog
+banner
+leaf
+alarm
+menu
+picnic
+exit
+absurd |  
+| bip_39_word_new_line9 | catalog
+banner
+leaf
+alarm
+menu
+picnic
+exit
+absurd
+twenty |  
+| bip_39_word_space_0 | ['catalog', 'banner', 'leaf', 'alarm', 'menu', 'picnic', 'exit', 'absurd', 'twenty', 'priority', 'grief', 'agree'] |  
+| bip_39_word_space_1 | catalog |  
+| bip_39_word_space_10 | catalog banner leaf alarm menu picnic exit absurd twenty priority |  
+| bip_39_word_space_11 | catalog banner leaf alarm menu picnic exit absurd twenty priority grief |  
+| bip_39_word_space_12 | catalog banner leaf alarm menu picnic exit absurd twenty priority grief agree |  
+| bip_39_word_space_2 | catalog banner |  
+| bip_39_word_space_3 | catalog banner leaf |  
+| bip_39_word_space_4 | catalog banner leaf alarm |  
+| bip_39_word_space_5 | catalog banner leaf alarm menu |  
+| bip_39_word_space_6 | catalog banner leaf alarm menu picnic |  
+| bip_39_word_space_7 | catalog banner leaf alarm menu picnic exit |  
+| bip_39_word_space_8 | catalog banner leaf alarm menu picnic exit absurd |  
+| bip_39_word_space_9 | catalog banner leaf alarm menu picnic exit absurd twenty |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: screen place
+  * bip 39 word 3: screen place magic
+  * bip 39 word: screen place magic violin wish illegal furnace defense there program shoulder ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | screen |  
+| bip_39_word_new_br10 | screen<br>place<br>magic<br>violin<br>wish<br>illegal<br>furnace<br>defense<br>there<br>program |  
+| bip_39_word_new_br11 | screen<br>place<br>magic<br>violin<br>wish<br>illegal<br>furnace<br>defense<br>there<br>program<br>shoulder |  
+| bip_39_word_new_br12 | screen<br>place<br>magic<br>violin<br>wish<br>illegal<br>furnace<br>defense<br>there<br>program<br>shoulder<br>ankle |  
+| bip_39_word_new_br2 | screen<br>place |  
+| bip_39_word_new_br3 | screen<br>place<br>magic |  
+| bip_39_word_new_br4 | screen<br>place<br>magic<br>violin |  
+| bip_39_word_new_br5 | screen<br>place<br>magic<br>violin<br>wish |  
+| bip_39_word_new_br6 | screen<br>place<br>magic<br>violin<br>wish<br>illegal |  
+| bip_39_word_new_br7 | screen<br>place<br>magic<br>violin<br>wish<br>illegal<br>furnace |  
+| bip_39_word_new_br8 | screen<br>place<br>magic<br>violin<br>wish<br>illegal<br>furnace<br>defense |  
+| bip_39_word_new_br9 | screen<br>place<br>magic<br>violin<br>wish<br>illegal<br>furnace<br>defense<br>there |  
+| bip_39_word_new_line1 | screen |  
+| bip_39_word_new_line10 | screen
+place
+magic
+violin
+wish
+illegal
+furnace
+defense
+there
+program |  
+| bip_39_word_new_line11 | screen
+place
+magic
+violin
+wish
+illegal
+furnace
+defense
+there
+program
+shoulder |  
+| bip_39_word_new_line12 | screen
+place
+magic
+violin
+wish
+illegal
+furnace
+defense
+there
+program
+shoulder
+ankle |  
+| bip_39_word_new_line2 | screen
+place |  
+| bip_39_word_new_line3 | screen
+place
+magic |  
+| bip_39_word_new_line4 | screen
+place
+magic
+violin |  
+| bip_39_word_new_line5 | screen
+place
+magic
+violin
+wish |  
+| bip_39_word_new_line6 | screen
+place
+magic
+violin
+wish
+illegal |  
+| bip_39_word_new_line7 | screen
+place
+magic
+violin
+wish
+illegal
+furnace |  
+| bip_39_word_new_line8 | screen
+place
+magic
+violin
+wish
+illegal
+furnace
+defense |  
+| bip_39_word_new_line9 | screen
+place
+magic
+violin
+wish
+illegal
+furnace
+defense
+there |  
+| bip_39_word_space_0 | ['screen', 'place', 'magic', 'violin', 'wish', 'illegal', 'furnace', 'defense', 'there', 'program', 'shoulder', 'ankle'] |  
+| bip_39_word_space_1 | screen |  
+| bip_39_word_space_10 | screen place magic violin wish illegal furnace defense there program |  
+| bip_39_word_space_11 | screen place magic violin wish illegal furnace defense there program shoulder |  
+| bip_39_word_space_12 | screen place magic violin wish illegal furnace defense there program shoulder ankle |  
+| bip_39_word_space_2 | screen place |  
+| bip_39_word_space_3 | screen place magic |  
+| bip_39_word_space_4 | screen place magic violin |  
+| bip_39_word_space_5 | screen place magic violin wish |  
+| bip_39_word_space_6 | screen place magic violin wish illegal |  
+| bip_39_word_space_7 | screen place magic violin wish illegal furnace |  
+| bip_39_word_space_8 | screen place magic violin wish illegal furnace defense |  
+| bip_39_word_space_9 | screen place magic violin wish illegal furnace defense there |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

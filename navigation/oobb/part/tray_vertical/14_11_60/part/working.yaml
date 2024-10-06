@@ -1,3 +1,187 @@
+bip_39_word_new_br1: dwarf
+bip_39_word_new_br10: dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove
+bip_39_word_new_br11: dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove<br>street
+bip_39_word_new_br12: dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch<br>dove<br>street<br>artist
+bip_39_word_new_br2: dwarf<br>fragile
+bip_39_word_new_br3: dwarf<br>fragile<br>brush
+bip_39_word_new_br4: dwarf<br>fragile<br>brush<br>ketchup
+bip_39_word_new_br5: dwarf<br>fragile<br>brush<br>ketchup<br>shoulder
+bip_39_word_new_br6: dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall
+bip_39_word_new_br7: dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ
+bip_39_word_new_br8: dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag
+bip_39_word_new_br9: dwarf<br>fragile<br>brush<br>ketchup<br>shoulder<br>wall<br>employ<br>flag<br>patch
+bip_39_word_new_line1: dwarf
+bip_39_word_new_line10: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup
+
+  shoulder
+
+  wall
+
+  employ
+
+  flag
+
+  patch
+
+  dove'
+bip_39_word_new_line11: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup
+
+  shoulder
+
+  wall
+
+  employ
+
+  flag
+
+  patch
+
+  dove
+
+  street'
+bip_39_word_new_line12: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup
+
+  shoulder
+
+  wall
+
+  employ
+
+  flag
+
+  patch
+
+  dove
+
+  street
+
+  artist'
+bip_39_word_new_line2: 'dwarf
+
+  fragile'
+bip_39_word_new_line3: 'dwarf
+
+  fragile
+
+  brush'
+bip_39_word_new_line4: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup'
+bip_39_word_new_line5: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup
+
+  shoulder'
+bip_39_word_new_line6: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup
+
+  shoulder
+
+  wall'
+bip_39_word_new_line7: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup
+
+  shoulder
+
+  wall
+
+  employ'
+bip_39_word_new_line8: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup
+
+  shoulder
+
+  wall
+
+  employ
+
+  flag'
+bip_39_word_new_line9: 'dwarf
+
+  fragile
+
+  brush
+
+  ketchup
+
+  shoulder
+
+  wall
+
+  employ
+
+  flag
+
+  patch'
+bip_39_word_space_0:
+- dwarf
+- fragile
+- brush
+- ketchup
+- shoulder
+- wall
+- employ
+- flag
+- patch
+- dove
+- street
+- artist
+bip_39_word_space_1: dwarf
+bip_39_word_space_10: dwarf fragile brush ketchup shoulder wall employ flag patch
+  dove
+bip_39_word_space_11: dwarf fragile brush ketchup shoulder wall employ flag patch
+  dove street
+bip_39_word_space_12: dwarf fragile brush ketchup shoulder wall employ flag patch
+  dove street artist
+bip_39_word_space_2: dwarf fragile
+bip_39_word_space_3: dwarf fragile brush
+bip_39_word_space_4: dwarf fragile brush ketchup
+bip_39_word_space_5: dwarf fragile brush ketchup shoulder
+bip_39_word_space_6: dwarf fragile brush ketchup shoulder wall
+bip_39_word_space_7: dwarf fragile brush ketchup shoulder wall employ
+bip_39_word_space_8: dwarf fragile brush ketchup shoulder wall employ flag
+bip_39_word_space_9: dwarf fragile brush ketchup shoulder wall employ flag patch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

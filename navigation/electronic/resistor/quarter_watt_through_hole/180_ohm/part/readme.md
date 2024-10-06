@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: couple upgrade
+  * bip 39 word 3: couple upgrade trust
+  * bip 39 word: couple upgrade trust paper potato trouble desk great morning brick stumble airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | couple |  
+| bip_39_word_new_br10 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble<br>desk<br>great<br>morning<br>brick |  
+| bip_39_word_new_br11 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble<br>desk<br>great<br>morning<br>brick<br>stumble |  
+| bip_39_word_new_br12 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble<br>desk<br>great<br>morning<br>brick<br>stumble<br>airport |  
+| bip_39_word_new_br2 | couple<br>upgrade |  
+| bip_39_word_new_br3 | couple<br>upgrade<br>trust |  
+| bip_39_word_new_br4 | couple<br>upgrade<br>trust<br>paper |  
+| bip_39_word_new_br5 | couple<br>upgrade<br>trust<br>paper<br>potato |  
+| bip_39_word_new_br6 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble |  
+| bip_39_word_new_br7 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble<br>desk |  
+| bip_39_word_new_br8 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble<br>desk<br>great |  
+| bip_39_word_new_br9 | couple<br>upgrade<br>trust<br>paper<br>potato<br>trouble<br>desk<br>great<br>morning |  
+| bip_39_word_new_line1 | couple |  
+| bip_39_word_new_line10 | couple
+upgrade
+trust
+paper
+potato
+trouble
+desk
+great
+morning
+brick |  
+| bip_39_word_new_line11 | couple
+upgrade
+trust
+paper
+potato
+trouble
+desk
+great
+morning
+brick
+stumble |  
+| bip_39_word_new_line12 | couple
+upgrade
+trust
+paper
+potato
+trouble
+desk
+great
+morning
+brick
+stumble
+airport |  
+| bip_39_word_new_line2 | couple
+upgrade |  
+| bip_39_word_new_line3 | couple
+upgrade
+trust |  
+| bip_39_word_new_line4 | couple
+upgrade
+trust
+paper |  
+| bip_39_word_new_line5 | couple
+upgrade
+trust
+paper
+potato |  
+| bip_39_word_new_line6 | couple
+upgrade
+trust
+paper
+potato
+trouble |  
+| bip_39_word_new_line7 | couple
+upgrade
+trust
+paper
+potato
+trouble
+desk |  
+| bip_39_word_new_line8 | couple
+upgrade
+trust
+paper
+potato
+trouble
+desk
+great |  
+| bip_39_word_new_line9 | couple
+upgrade
+trust
+paper
+potato
+trouble
+desk
+great
+morning |  
+| bip_39_word_space_0 | ['couple', 'upgrade', 'trust', 'paper', 'potato', 'trouble', 'desk', 'great', 'morning', 'brick', 'stumble', 'airport'] |  
+| bip_39_word_space_1 | couple |  
+| bip_39_word_space_10 | couple upgrade trust paper potato trouble desk great morning brick |  
+| bip_39_word_space_11 | couple upgrade trust paper potato trouble desk great morning brick stumble |  
+| bip_39_word_space_12 | couple upgrade trust paper potato trouble desk great morning brick stumble airport |  
+| bip_39_word_space_2 | couple upgrade |  
+| bip_39_word_space_3 | couple upgrade trust |  
+| bip_39_word_space_4 | couple upgrade trust paper |  
+| bip_39_word_space_5 | couple upgrade trust paper potato |  
+| bip_39_word_space_6 | couple upgrade trust paper potato trouble |  
+| bip_39_word_space_7 | couple upgrade trust paper potato trouble desk |  
+| bip_39_word_space_8 | couple upgrade trust paper potato trouble desk great |  
+| bip_39_word_space_9 | couple upgrade trust paper potato trouble desk great morning |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

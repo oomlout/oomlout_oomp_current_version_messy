@@ -1,3 +1,185 @@
+bip_39_word_new_br1: bomb
+bip_39_word_new_br10: bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy
+bip_39_word_new_br11: bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy<br>anxiety
+bip_39_word_new_br12: bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast<br>mercy<br>anxiety<br>august
+bip_39_word_new_br2: bomb<br>gym
+bip_39_word_new_br3: bomb<br>gym<br>knee
+bip_39_word_new_br4: bomb<br>gym<br>knee<br>giggle
+bip_39_word_new_br5: bomb<br>gym<br>knee<br>giggle<br>know
+bip_39_word_new_br6: bomb<br>gym<br>knee<br>giggle<br>know<br>taste
+bip_39_word_new_br7: bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone
+bip_39_word_new_br8: bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel
+bip_39_word_new_br9: bomb<br>gym<br>knee<br>giggle<br>know<br>taste<br>someone<br>feel<br>coast
+bip_39_word_new_line1: bomb
+bip_39_word_new_line10: 'bomb
+
+  gym
+
+  knee
+
+  giggle
+
+  know
+
+  taste
+
+  someone
+
+  feel
+
+  coast
+
+  mercy'
+bip_39_word_new_line11: 'bomb
+
+  gym
+
+  knee
+
+  giggle
+
+  know
+
+  taste
+
+  someone
+
+  feel
+
+  coast
+
+  mercy
+
+  anxiety'
+bip_39_word_new_line12: 'bomb
+
+  gym
+
+  knee
+
+  giggle
+
+  know
+
+  taste
+
+  someone
+
+  feel
+
+  coast
+
+  mercy
+
+  anxiety
+
+  august'
+bip_39_word_new_line2: 'bomb
+
+  gym'
+bip_39_word_new_line3: 'bomb
+
+  gym
+
+  knee'
+bip_39_word_new_line4: 'bomb
+
+  gym
+
+  knee
+
+  giggle'
+bip_39_word_new_line5: 'bomb
+
+  gym
+
+  knee
+
+  giggle
+
+  know'
+bip_39_word_new_line6: 'bomb
+
+  gym
+
+  knee
+
+  giggle
+
+  know
+
+  taste'
+bip_39_word_new_line7: 'bomb
+
+  gym
+
+  knee
+
+  giggle
+
+  know
+
+  taste
+
+  someone'
+bip_39_word_new_line8: 'bomb
+
+  gym
+
+  knee
+
+  giggle
+
+  know
+
+  taste
+
+  someone
+
+  feel'
+bip_39_word_new_line9: 'bomb
+
+  gym
+
+  knee
+
+  giggle
+
+  know
+
+  taste
+
+  someone
+
+  feel
+
+  coast'
+bip_39_word_space_0:
+- bomb
+- gym
+- knee
+- giggle
+- know
+- taste
+- someone
+- feel
+- coast
+- mercy
+- anxiety
+- august
+bip_39_word_space_1: bomb
+bip_39_word_space_10: bomb gym knee giggle know taste someone feel coast mercy
+bip_39_word_space_11: bomb gym knee giggle know taste someone feel coast mercy anxiety
+bip_39_word_space_12: bomb gym knee giggle know taste someone feel coast mercy anxiety
+  august
+bip_39_word_space_2: bomb gym
+bip_39_word_space_3: bomb gym knee
+bip_39_word_space_4: bomb gym knee giggle
+bip_39_word_space_5: bomb gym knee giggle know
+bip_39_word_space_6: bomb gym knee giggle know taste
+bip_39_word_space_7: bomb gym knee giggle know taste someone
+bip_39_word_space_8: bomb gym knee giggle know taste someone feel
+bip_39_word_space_9: bomb gym knee giggle know taste someone feel coast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: federal salad
+  * bip 39 word 3: federal salad income
+  * bip 39 word: federal salad income path alarm bird bright later attack bubble seven aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | federal |  
+| bip_39_word_new_br10 | federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble |  
+| bip_39_word_new_br11 | federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble<br>seven |  
+| bip_39_word_new_br12 | federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack<br>bubble<br>seven<br>aspect |  
+| bip_39_word_new_br2 | federal<br>salad |  
+| bip_39_word_new_br3 | federal<br>salad<br>income |  
+| bip_39_word_new_br4 | federal<br>salad<br>income<br>path |  
+| bip_39_word_new_br5 | federal<br>salad<br>income<br>path<br>alarm |  
+| bip_39_word_new_br6 | federal<br>salad<br>income<br>path<br>alarm<br>bird |  
+| bip_39_word_new_br7 | federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright |  
+| bip_39_word_new_br8 | federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later |  
+| bip_39_word_new_br9 | federal<br>salad<br>income<br>path<br>alarm<br>bird<br>bright<br>later<br>attack |  
+| bip_39_word_new_line1 | federal |  
+| bip_39_word_new_line10 | federal
+salad
+income
+path
+alarm
+bird
+bright
+later
+attack
+bubble |  
+| bip_39_word_new_line11 | federal
+salad
+income
+path
+alarm
+bird
+bright
+later
+attack
+bubble
+seven |  
+| bip_39_word_new_line12 | federal
+salad
+income
+path
+alarm
+bird
+bright
+later
+attack
+bubble
+seven
+aspect |  
+| bip_39_word_new_line2 | federal
+salad |  
+| bip_39_word_new_line3 | federal
+salad
+income |  
+| bip_39_word_new_line4 | federal
+salad
+income
+path |  
+| bip_39_word_new_line5 | federal
+salad
+income
+path
+alarm |  
+| bip_39_word_new_line6 | federal
+salad
+income
+path
+alarm
+bird |  
+| bip_39_word_new_line7 | federal
+salad
+income
+path
+alarm
+bird
+bright |  
+| bip_39_word_new_line8 | federal
+salad
+income
+path
+alarm
+bird
+bright
+later |  
+| bip_39_word_new_line9 | federal
+salad
+income
+path
+alarm
+bird
+bright
+later
+attack |  
+| bip_39_word_space_0 | ['federal', 'salad', 'income', 'path', 'alarm', 'bird', 'bright', 'later', 'attack', 'bubble', 'seven', 'aspect'] |  
+| bip_39_word_space_1 | federal |  
+| bip_39_word_space_10 | federal salad income path alarm bird bright later attack bubble |  
+| bip_39_word_space_11 | federal salad income path alarm bird bright later attack bubble seven |  
+| bip_39_word_space_12 | federal salad income path alarm bird bright later attack bubble seven aspect |  
+| bip_39_word_space_2 | federal salad |  
+| bip_39_word_space_3 | federal salad income |  
+| bip_39_word_space_4 | federal salad income path |  
+| bip_39_word_space_5 | federal salad income path alarm |  
+| bip_39_word_space_6 | federal salad income path alarm bird |  
+| bip_39_word_space_7 | federal salad income path alarm bird bright |  
+| bip_39_word_space_8 | federal salad income path alarm bird bright later |  
+| bip_39_word_space_9 | federal salad income path alarm bird bright later attack |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

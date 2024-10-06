@@ -1,3 +1,187 @@
+bip_39_word_new_br1: arrange
+bip_39_word_new_br10: arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal
+bip_39_word_new_br11: arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal<br>transfer
+bip_39_word_new_br12: arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome<br>animal<br>transfer<br>addict
+bip_39_word_new_br2: arrange<br>divide
+bip_39_word_new_br3: arrange<br>divide<br>trigger
+bip_39_word_new_br4: arrange<br>divide<br>trigger<br>about
+bip_39_word_new_br5: arrange<br>divide<br>trigger<br>about<br>best
+bip_39_word_new_br6: arrange<br>divide<br>trigger<br>about<br>best<br>issue
+bip_39_word_new_br7: arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog
+bip_39_word_new_br8: arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory
+bip_39_word_new_br9: arrange<br>divide<br>trigger<br>about<br>best<br>issue<br>dog<br>victory<br>awesome
+bip_39_word_new_line1: arrange
+bip_39_word_new_line10: 'arrange
+
+  divide
+
+  trigger
+
+  about
+
+  best
+
+  issue
+
+  dog
+
+  victory
+
+  awesome
+
+  animal'
+bip_39_word_new_line11: 'arrange
+
+  divide
+
+  trigger
+
+  about
+
+  best
+
+  issue
+
+  dog
+
+  victory
+
+  awesome
+
+  animal
+
+  transfer'
+bip_39_word_new_line12: 'arrange
+
+  divide
+
+  trigger
+
+  about
+
+  best
+
+  issue
+
+  dog
+
+  victory
+
+  awesome
+
+  animal
+
+  transfer
+
+  addict'
+bip_39_word_new_line2: 'arrange
+
+  divide'
+bip_39_word_new_line3: 'arrange
+
+  divide
+
+  trigger'
+bip_39_word_new_line4: 'arrange
+
+  divide
+
+  trigger
+
+  about'
+bip_39_word_new_line5: 'arrange
+
+  divide
+
+  trigger
+
+  about
+
+  best'
+bip_39_word_new_line6: 'arrange
+
+  divide
+
+  trigger
+
+  about
+
+  best
+
+  issue'
+bip_39_word_new_line7: 'arrange
+
+  divide
+
+  trigger
+
+  about
+
+  best
+
+  issue
+
+  dog'
+bip_39_word_new_line8: 'arrange
+
+  divide
+
+  trigger
+
+  about
+
+  best
+
+  issue
+
+  dog
+
+  victory'
+bip_39_word_new_line9: 'arrange
+
+  divide
+
+  trigger
+
+  about
+
+  best
+
+  issue
+
+  dog
+
+  victory
+
+  awesome'
+bip_39_word_space_0:
+- arrange
+- divide
+- trigger
+- about
+- best
+- issue
+- dog
+- victory
+- awesome
+- animal
+- transfer
+- addict
+bip_39_word_space_1: arrange
+bip_39_word_space_10: arrange divide trigger about best issue dog victory awesome
+  animal
+bip_39_word_space_11: arrange divide trigger about best issue dog victory awesome
+  animal transfer
+bip_39_word_space_12: arrange divide trigger about best issue dog victory awesome
+  animal transfer addict
+bip_39_word_space_2: arrange divide
+bip_39_word_space_3: arrange divide trigger
+bip_39_word_space_4: arrange divide trigger about
+bip_39_word_space_5: arrange divide trigger about best
+bip_39_word_space_6: arrange divide trigger about best issue
+bip_39_word_space_7: arrange divide trigger about best issue dog
+bip_39_word_space_8: arrange divide trigger about best issue dog victory
+bip_39_word_space_9: arrange divide trigger about best issue dog victory awesome
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

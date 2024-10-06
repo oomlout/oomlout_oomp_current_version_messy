@@ -1,3 +1,186 @@
+bip_39_word_new_br1: virtual
+bip_39_word_new_br10: virtual<br>frequent<br>erosion<br>this<br>gun<br>wish<br>oppose<br>music<br>click<br>black
+bip_39_word_new_br11: virtual<br>frequent<br>erosion<br>this<br>gun<br>wish<br>oppose<br>music<br>click<br>black<br>vacuum
+bip_39_word_new_br12: virtual<br>frequent<br>erosion<br>this<br>gun<br>wish<br>oppose<br>music<br>click<br>black<br>vacuum<br>animal
+bip_39_word_new_br2: virtual<br>frequent
+bip_39_word_new_br3: virtual<br>frequent<br>erosion
+bip_39_word_new_br4: virtual<br>frequent<br>erosion<br>this
+bip_39_word_new_br5: virtual<br>frequent<br>erosion<br>this<br>gun
+bip_39_word_new_br6: virtual<br>frequent<br>erosion<br>this<br>gun<br>wish
+bip_39_word_new_br7: virtual<br>frequent<br>erosion<br>this<br>gun<br>wish<br>oppose
+bip_39_word_new_br8: virtual<br>frequent<br>erosion<br>this<br>gun<br>wish<br>oppose<br>music
+bip_39_word_new_br9: virtual<br>frequent<br>erosion<br>this<br>gun<br>wish<br>oppose<br>music<br>click
+bip_39_word_new_line1: virtual
+bip_39_word_new_line10: 'virtual
+
+  frequent
+
+  erosion
+
+  this
+
+  gun
+
+  wish
+
+  oppose
+
+  music
+
+  click
+
+  black'
+bip_39_word_new_line11: 'virtual
+
+  frequent
+
+  erosion
+
+  this
+
+  gun
+
+  wish
+
+  oppose
+
+  music
+
+  click
+
+  black
+
+  vacuum'
+bip_39_word_new_line12: 'virtual
+
+  frequent
+
+  erosion
+
+  this
+
+  gun
+
+  wish
+
+  oppose
+
+  music
+
+  click
+
+  black
+
+  vacuum
+
+  animal'
+bip_39_word_new_line2: 'virtual
+
+  frequent'
+bip_39_word_new_line3: 'virtual
+
+  frequent
+
+  erosion'
+bip_39_word_new_line4: 'virtual
+
+  frequent
+
+  erosion
+
+  this'
+bip_39_word_new_line5: 'virtual
+
+  frequent
+
+  erosion
+
+  this
+
+  gun'
+bip_39_word_new_line6: 'virtual
+
+  frequent
+
+  erosion
+
+  this
+
+  gun
+
+  wish'
+bip_39_word_new_line7: 'virtual
+
+  frequent
+
+  erosion
+
+  this
+
+  gun
+
+  wish
+
+  oppose'
+bip_39_word_new_line8: 'virtual
+
+  frequent
+
+  erosion
+
+  this
+
+  gun
+
+  wish
+
+  oppose
+
+  music'
+bip_39_word_new_line9: 'virtual
+
+  frequent
+
+  erosion
+
+  this
+
+  gun
+
+  wish
+
+  oppose
+
+  music
+
+  click'
+bip_39_word_space_0:
+- virtual
+- frequent
+- erosion
+- this
+- gun
+- wish
+- oppose
+- music
+- click
+- black
+- vacuum
+- animal
+bip_39_word_space_1: virtual
+bip_39_word_space_10: virtual frequent erosion this gun wish oppose music click black
+bip_39_word_space_11: virtual frequent erosion this gun wish oppose music click black
+  vacuum
+bip_39_word_space_12: virtual frequent erosion this gun wish oppose music click black
+  vacuum animal
+bip_39_word_space_2: virtual frequent
+bip_39_word_space_3: virtual frequent erosion
+bip_39_word_space_4: virtual frequent erosion this
+bip_39_word_space_5: virtual frequent erosion this gun
+bip_39_word_space_6: virtual frequent erosion this gun wish
+bip_39_word_space_7: virtual frequent erosion this gun wish oppose
+bip_39_word_space_8: virtual frequent erosion this gun wish oppose music
+bip_39_word_space_9: virtual frequent erosion this gun wish oppose music click
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

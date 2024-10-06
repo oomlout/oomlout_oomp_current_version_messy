@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: muffin guard
+  * bip 39 word 3: muffin guard giggle
+  * bip 39 word: muffin guard giggle cross alarm zebra lion cinnamon crazy february slab atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | muffin |  
+| bip_39_word_new_br10 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra<br>lion<br>cinnamon<br>crazy<br>february |  
+| bip_39_word_new_br11 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra<br>lion<br>cinnamon<br>crazy<br>february<br>slab |  
+| bip_39_word_new_br12 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra<br>lion<br>cinnamon<br>crazy<br>february<br>slab<br>atom |  
+| bip_39_word_new_br2 | muffin<br>guard |  
+| bip_39_word_new_br3 | muffin<br>guard<br>giggle |  
+| bip_39_word_new_br4 | muffin<br>guard<br>giggle<br>cross |  
+| bip_39_word_new_br5 | muffin<br>guard<br>giggle<br>cross<br>alarm |  
+| bip_39_word_new_br6 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra |  
+| bip_39_word_new_br7 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra<br>lion |  
+| bip_39_word_new_br8 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra<br>lion<br>cinnamon |  
+| bip_39_word_new_br9 | muffin<br>guard<br>giggle<br>cross<br>alarm<br>zebra<br>lion<br>cinnamon<br>crazy |  
+| bip_39_word_new_line1 | muffin |  
+| bip_39_word_new_line10 | muffin
+guard
+giggle
+cross
+alarm
+zebra
+lion
+cinnamon
+crazy
+february |  
+| bip_39_word_new_line11 | muffin
+guard
+giggle
+cross
+alarm
+zebra
+lion
+cinnamon
+crazy
+february
+slab |  
+| bip_39_word_new_line12 | muffin
+guard
+giggle
+cross
+alarm
+zebra
+lion
+cinnamon
+crazy
+february
+slab
+atom |  
+| bip_39_word_new_line2 | muffin
+guard |  
+| bip_39_word_new_line3 | muffin
+guard
+giggle |  
+| bip_39_word_new_line4 | muffin
+guard
+giggle
+cross |  
+| bip_39_word_new_line5 | muffin
+guard
+giggle
+cross
+alarm |  
+| bip_39_word_new_line6 | muffin
+guard
+giggle
+cross
+alarm
+zebra |  
+| bip_39_word_new_line7 | muffin
+guard
+giggle
+cross
+alarm
+zebra
+lion |  
+| bip_39_word_new_line8 | muffin
+guard
+giggle
+cross
+alarm
+zebra
+lion
+cinnamon |  
+| bip_39_word_new_line9 | muffin
+guard
+giggle
+cross
+alarm
+zebra
+lion
+cinnamon
+crazy |  
+| bip_39_word_space_0 | ['muffin', 'guard', 'giggle', 'cross', 'alarm', 'zebra', 'lion', 'cinnamon', 'crazy', 'february', 'slab', 'atom'] |  
+| bip_39_word_space_1 | muffin |  
+| bip_39_word_space_10 | muffin guard giggle cross alarm zebra lion cinnamon crazy february |  
+| bip_39_word_space_11 | muffin guard giggle cross alarm zebra lion cinnamon crazy february slab |  
+| bip_39_word_space_12 | muffin guard giggle cross alarm zebra lion cinnamon crazy february slab atom |  
+| bip_39_word_space_2 | muffin guard |  
+| bip_39_word_space_3 | muffin guard giggle |  
+| bip_39_word_space_4 | muffin guard giggle cross |  
+| bip_39_word_space_5 | muffin guard giggle cross alarm |  
+| bip_39_word_space_6 | muffin guard giggle cross alarm zebra |  
+| bip_39_word_space_7 | muffin guard giggle cross alarm zebra lion |  
+| bip_39_word_space_8 | muffin guard giggle cross alarm zebra lion cinnamon |  
+| bip_39_word_space_9 | muffin guard giggle cross alarm zebra lion cinnamon crazy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

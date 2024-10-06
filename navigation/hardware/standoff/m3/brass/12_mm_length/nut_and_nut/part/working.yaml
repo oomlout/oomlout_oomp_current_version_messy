@@ -1,3 +1,187 @@
+bip_39_word_new_br1: stable
+bip_39_word_new_br10: stable<br>claw<br>ecology<br>alcohol<br>behind<br>forest<br>round<br>million<br>excite<br>extend
+bip_39_word_new_br11: stable<br>claw<br>ecology<br>alcohol<br>behind<br>forest<br>round<br>million<br>excite<br>extend<br>soul
+bip_39_word_new_br12: stable<br>claw<br>ecology<br>alcohol<br>behind<br>forest<br>round<br>million<br>excite<br>extend<br>soul<br>annual
+bip_39_word_new_br2: stable<br>claw
+bip_39_word_new_br3: stable<br>claw<br>ecology
+bip_39_word_new_br4: stable<br>claw<br>ecology<br>alcohol
+bip_39_word_new_br5: stable<br>claw<br>ecology<br>alcohol<br>behind
+bip_39_word_new_br6: stable<br>claw<br>ecology<br>alcohol<br>behind<br>forest
+bip_39_word_new_br7: stable<br>claw<br>ecology<br>alcohol<br>behind<br>forest<br>round
+bip_39_word_new_br8: stable<br>claw<br>ecology<br>alcohol<br>behind<br>forest<br>round<br>million
+bip_39_word_new_br9: stable<br>claw<br>ecology<br>alcohol<br>behind<br>forest<br>round<br>million<br>excite
+bip_39_word_new_line1: stable
+bip_39_word_new_line10: 'stable
+
+  claw
+
+  ecology
+
+  alcohol
+
+  behind
+
+  forest
+
+  round
+
+  million
+
+  excite
+
+  extend'
+bip_39_word_new_line11: 'stable
+
+  claw
+
+  ecology
+
+  alcohol
+
+  behind
+
+  forest
+
+  round
+
+  million
+
+  excite
+
+  extend
+
+  soul'
+bip_39_word_new_line12: 'stable
+
+  claw
+
+  ecology
+
+  alcohol
+
+  behind
+
+  forest
+
+  round
+
+  million
+
+  excite
+
+  extend
+
+  soul
+
+  annual'
+bip_39_word_new_line2: 'stable
+
+  claw'
+bip_39_word_new_line3: 'stable
+
+  claw
+
+  ecology'
+bip_39_word_new_line4: 'stable
+
+  claw
+
+  ecology
+
+  alcohol'
+bip_39_word_new_line5: 'stable
+
+  claw
+
+  ecology
+
+  alcohol
+
+  behind'
+bip_39_word_new_line6: 'stable
+
+  claw
+
+  ecology
+
+  alcohol
+
+  behind
+
+  forest'
+bip_39_word_new_line7: 'stable
+
+  claw
+
+  ecology
+
+  alcohol
+
+  behind
+
+  forest
+
+  round'
+bip_39_word_new_line8: 'stable
+
+  claw
+
+  ecology
+
+  alcohol
+
+  behind
+
+  forest
+
+  round
+
+  million'
+bip_39_word_new_line9: 'stable
+
+  claw
+
+  ecology
+
+  alcohol
+
+  behind
+
+  forest
+
+  round
+
+  million
+
+  excite'
+bip_39_word_space_0:
+- stable
+- claw
+- ecology
+- alcohol
+- behind
+- forest
+- round
+- million
+- excite
+- extend
+- soul
+- annual
+bip_39_word_space_1: stable
+bip_39_word_space_10: stable claw ecology alcohol behind forest round million excite
+  extend
+bip_39_word_space_11: stable claw ecology alcohol behind forest round million excite
+  extend soul
+bip_39_word_space_12: stable claw ecology alcohol behind forest round million excite
+  extend soul annual
+bip_39_word_space_2: stable claw
+bip_39_word_space_3: stable claw ecology
+bip_39_word_space_4: stable claw ecology alcohol
+bip_39_word_space_5: stable claw ecology alcohol behind
+bip_39_word_space_6: stable claw ecology alcohol behind forest
+bip_39_word_space_7: stable claw ecology alcohol behind forest round
+bip_39_word_space_8: stable claw ecology alcohol behind forest round million
+bip_39_word_space_9: stable claw ecology alcohol behind forest round million excite
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

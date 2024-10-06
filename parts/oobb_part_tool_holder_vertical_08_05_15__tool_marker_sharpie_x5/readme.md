@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_marker_sharpie_x5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: that buzz
+  * bip 39 word 3: that buzz rotate
+  * bip 39 word: that buzz rotate magic blade absorb giraffe later twelve account cause attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | that |  
+| bip_39_word_new_br10 | that<br>buzz<br>rotate<br>magic<br>blade<br>absorb<br>giraffe<br>later<br>twelve<br>account |  
+| bip_39_word_new_br11 | that<br>buzz<br>rotate<br>magic<br>blade<br>absorb<br>giraffe<br>later<br>twelve<br>account<br>cause |  
+| bip_39_word_new_br12 | that<br>buzz<br>rotate<br>magic<br>blade<br>absorb<br>giraffe<br>later<br>twelve<br>account<br>cause<br>attend |  
+| bip_39_word_new_br2 | that<br>buzz |  
+| bip_39_word_new_br3 | that<br>buzz<br>rotate |  
+| bip_39_word_new_br4 | that<br>buzz<br>rotate<br>magic |  
+| bip_39_word_new_br5 | that<br>buzz<br>rotate<br>magic<br>blade |  
+| bip_39_word_new_br6 | that<br>buzz<br>rotate<br>magic<br>blade<br>absorb |  
+| bip_39_word_new_br7 | that<br>buzz<br>rotate<br>magic<br>blade<br>absorb<br>giraffe |  
+| bip_39_word_new_br8 | that<br>buzz<br>rotate<br>magic<br>blade<br>absorb<br>giraffe<br>later |  
+| bip_39_word_new_br9 | that<br>buzz<br>rotate<br>magic<br>blade<br>absorb<br>giraffe<br>later<br>twelve |  
+| bip_39_word_new_line1 | that |  
+| bip_39_word_new_line10 | that
+buzz
+rotate
+magic
+blade
+absorb
+giraffe
+later
+twelve
+account |  
+| bip_39_word_new_line11 | that
+buzz
+rotate
+magic
+blade
+absorb
+giraffe
+later
+twelve
+account
+cause |  
+| bip_39_word_new_line12 | that
+buzz
+rotate
+magic
+blade
+absorb
+giraffe
+later
+twelve
+account
+cause
+attend |  
+| bip_39_word_new_line2 | that
+buzz |  
+| bip_39_word_new_line3 | that
+buzz
+rotate |  
+| bip_39_word_new_line4 | that
+buzz
+rotate
+magic |  
+| bip_39_word_new_line5 | that
+buzz
+rotate
+magic
+blade |  
+| bip_39_word_new_line6 | that
+buzz
+rotate
+magic
+blade
+absorb |  
+| bip_39_word_new_line7 | that
+buzz
+rotate
+magic
+blade
+absorb
+giraffe |  
+| bip_39_word_new_line8 | that
+buzz
+rotate
+magic
+blade
+absorb
+giraffe
+later |  
+| bip_39_word_new_line9 | that
+buzz
+rotate
+magic
+blade
+absorb
+giraffe
+later
+twelve |  
+| bip_39_word_space_0 | ['that', 'buzz', 'rotate', 'magic', 'blade', 'absorb', 'giraffe', 'later', 'twelve', 'account', 'cause', 'attend'] |  
+| bip_39_word_space_1 | that |  
+| bip_39_word_space_10 | that buzz rotate magic blade absorb giraffe later twelve account |  
+| bip_39_word_space_11 | that buzz rotate magic blade absorb giraffe later twelve account cause |  
+| bip_39_word_space_12 | that buzz rotate magic blade absorb giraffe later twelve account cause attend |  
+| bip_39_word_space_2 | that buzz |  
+| bip_39_word_space_3 | that buzz rotate |  
+| bip_39_word_space_4 | that buzz rotate magic |  
+| bip_39_word_space_5 | that buzz rotate magic blade |  
+| bip_39_word_space_6 | that buzz rotate magic blade absorb |  
+| bip_39_word_space_7 | that buzz rotate magic blade absorb giraffe |  
+| bip_39_word_space_8 | that buzz rotate magic blade absorb giraffe later |  
+| bip_39_word_space_9 | that buzz rotate magic blade absorb giraffe later twelve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: attack
+bip_39_word_new_br10: attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room
+bip_39_word_new_br11: attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room<br>tired
+bip_39_word_new_br12: attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi<br>room<br>tired<br>athlete
+bip_39_word_new_br2: attack<br>deer
+bip_39_word_new_br3: attack<br>deer<br>glide
+bip_39_word_new_br4: attack<br>deer<br>glide<br>brisk
+bip_39_word_new_br5: attack<br>deer<br>glide<br>brisk<br>knife
+bip_39_word_new_br6: attack<br>deer<br>glide<br>brisk<br>knife<br>fire
+bip_39_word_new_br7: attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first
+bip_39_word_new_br8: attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow
+bip_39_word_new_br9: attack<br>deer<br>glide<br>brisk<br>knife<br>fire<br>first<br>glow<br>kiwi
+bip_39_word_new_line1: attack
+bip_39_word_new_line10: 'attack
+
+  deer
+
+  glide
+
+  brisk
+
+  knife
+
+  fire
+
+  first
+
+  glow
+
+  kiwi
+
+  room'
+bip_39_word_new_line11: 'attack
+
+  deer
+
+  glide
+
+  brisk
+
+  knife
+
+  fire
+
+  first
+
+  glow
+
+  kiwi
+
+  room
+
+  tired'
+bip_39_word_new_line12: 'attack
+
+  deer
+
+  glide
+
+  brisk
+
+  knife
+
+  fire
+
+  first
+
+  glow
+
+  kiwi
+
+  room
+
+  tired
+
+  athlete'
+bip_39_word_new_line2: 'attack
+
+  deer'
+bip_39_word_new_line3: 'attack
+
+  deer
+
+  glide'
+bip_39_word_new_line4: 'attack
+
+  deer
+
+  glide
+
+  brisk'
+bip_39_word_new_line5: 'attack
+
+  deer
+
+  glide
+
+  brisk
+
+  knife'
+bip_39_word_new_line6: 'attack
+
+  deer
+
+  glide
+
+  brisk
+
+  knife
+
+  fire'
+bip_39_word_new_line7: 'attack
+
+  deer
+
+  glide
+
+  brisk
+
+  knife
+
+  fire
+
+  first'
+bip_39_word_new_line8: 'attack
+
+  deer
+
+  glide
+
+  brisk
+
+  knife
+
+  fire
+
+  first
+
+  glow'
+bip_39_word_new_line9: 'attack
+
+  deer
+
+  glide
+
+  brisk
+
+  knife
+
+  fire
+
+  first
+
+  glow
+
+  kiwi'
+bip_39_word_space_0:
+- attack
+- deer
+- glide
+- brisk
+- knife
+- fire
+- first
+- glow
+- kiwi
+- room
+- tired
+- athlete
+bip_39_word_space_1: attack
+bip_39_word_space_10: attack deer glide brisk knife fire first glow kiwi room
+bip_39_word_space_11: attack deer glide brisk knife fire first glow kiwi room tired
+bip_39_word_space_12: attack deer glide brisk knife fire first glow kiwi room tired
+  athlete
+bip_39_word_space_2: attack deer
+bip_39_word_space_3: attack deer glide
+bip_39_word_space_4: attack deer glide brisk
+bip_39_word_space_5: attack deer glide brisk knife
+bip_39_word_space_6: attack deer glide brisk knife fire
+bip_39_word_space_7: attack deer glide brisk knife fire first
+bip_39_word_space_8: attack deer glide brisk knife fire first glow
+bip_39_word_space_9: attack deer glide brisk knife fire first glow kiwi
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

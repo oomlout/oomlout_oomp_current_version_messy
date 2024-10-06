@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: high reunion
+  * bip 39 word 3: high reunion taxi
+  * bip 39 word: high reunion taxi volume order good pond robot victory fruit bright analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | high |  
+| bip_39_word_new_br10 | high<br>reunion<br>taxi<br>volume<br>order<br>good<br>pond<br>robot<br>victory<br>fruit |  
+| bip_39_word_new_br11 | high<br>reunion<br>taxi<br>volume<br>order<br>good<br>pond<br>robot<br>victory<br>fruit<br>bright |  
+| bip_39_word_new_br12 | high<br>reunion<br>taxi<br>volume<br>order<br>good<br>pond<br>robot<br>victory<br>fruit<br>bright<br>analyst |  
+| bip_39_word_new_br2 | high<br>reunion |  
+| bip_39_word_new_br3 | high<br>reunion<br>taxi |  
+| bip_39_word_new_br4 | high<br>reunion<br>taxi<br>volume |  
+| bip_39_word_new_br5 | high<br>reunion<br>taxi<br>volume<br>order |  
+| bip_39_word_new_br6 | high<br>reunion<br>taxi<br>volume<br>order<br>good |  
+| bip_39_word_new_br7 | high<br>reunion<br>taxi<br>volume<br>order<br>good<br>pond |  
+| bip_39_word_new_br8 | high<br>reunion<br>taxi<br>volume<br>order<br>good<br>pond<br>robot |  
+| bip_39_word_new_br9 | high<br>reunion<br>taxi<br>volume<br>order<br>good<br>pond<br>robot<br>victory |  
+| bip_39_word_new_line1 | high |  
+| bip_39_word_new_line10 | high
+reunion
+taxi
+volume
+order
+good
+pond
+robot
+victory
+fruit |  
+| bip_39_word_new_line11 | high
+reunion
+taxi
+volume
+order
+good
+pond
+robot
+victory
+fruit
+bright |  
+| bip_39_word_new_line12 | high
+reunion
+taxi
+volume
+order
+good
+pond
+robot
+victory
+fruit
+bright
+analyst |  
+| bip_39_word_new_line2 | high
+reunion |  
+| bip_39_word_new_line3 | high
+reunion
+taxi |  
+| bip_39_word_new_line4 | high
+reunion
+taxi
+volume |  
+| bip_39_word_new_line5 | high
+reunion
+taxi
+volume
+order |  
+| bip_39_word_new_line6 | high
+reunion
+taxi
+volume
+order
+good |  
+| bip_39_word_new_line7 | high
+reunion
+taxi
+volume
+order
+good
+pond |  
+| bip_39_word_new_line8 | high
+reunion
+taxi
+volume
+order
+good
+pond
+robot |  
+| bip_39_word_new_line9 | high
+reunion
+taxi
+volume
+order
+good
+pond
+robot
+victory |  
+| bip_39_word_space_0 | ['high', 'reunion', 'taxi', 'volume', 'order', 'good', 'pond', 'robot', 'victory', 'fruit', 'bright', 'analyst'] |  
+| bip_39_word_space_1 | high |  
+| bip_39_word_space_10 | high reunion taxi volume order good pond robot victory fruit |  
+| bip_39_word_space_11 | high reunion taxi volume order good pond robot victory fruit bright |  
+| bip_39_word_space_12 | high reunion taxi volume order good pond robot victory fruit bright analyst |  
+| bip_39_word_space_2 | high reunion |  
+| bip_39_word_space_3 | high reunion taxi |  
+| bip_39_word_space_4 | high reunion taxi volume |  
+| bip_39_word_space_5 | high reunion taxi volume order |  
+| bip_39_word_space_6 | high reunion taxi volume order good |  
+| bip_39_word_space_7 | high reunion taxi volume order good pond |  
+| bip_39_word_space_8 | high reunion taxi volume order good pond robot |  
+| bip_39_word_space_9 | high reunion taxi volume order good pond robot victory |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

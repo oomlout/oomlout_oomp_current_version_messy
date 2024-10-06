@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tired ramp
+  * bip 39 word 3: tired ramp security
+  * bip 39 word: tired ramp security consider tumble royal fatal shaft toss autumn nest appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tired |  
+| bip_39_word_new_br10 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal<br>fatal<br>shaft<br>toss<br>autumn |  
+| bip_39_word_new_br11 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal<br>fatal<br>shaft<br>toss<br>autumn<br>nest |  
+| bip_39_word_new_br12 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal<br>fatal<br>shaft<br>toss<br>autumn<br>nest<br>appear |  
+| bip_39_word_new_br2 | tired<br>ramp |  
+| bip_39_word_new_br3 | tired<br>ramp<br>security |  
+| bip_39_word_new_br4 | tired<br>ramp<br>security<br>consider |  
+| bip_39_word_new_br5 | tired<br>ramp<br>security<br>consider<br>tumble |  
+| bip_39_word_new_br6 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal |  
+| bip_39_word_new_br7 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal<br>fatal |  
+| bip_39_word_new_br8 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal<br>fatal<br>shaft |  
+| bip_39_word_new_br9 | tired<br>ramp<br>security<br>consider<br>tumble<br>royal<br>fatal<br>shaft<br>toss |  
+| bip_39_word_new_line1 | tired |  
+| bip_39_word_new_line10 | tired
+ramp
+security
+consider
+tumble
+royal
+fatal
+shaft
+toss
+autumn |  
+| bip_39_word_new_line11 | tired
+ramp
+security
+consider
+tumble
+royal
+fatal
+shaft
+toss
+autumn
+nest |  
+| bip_39_word_new_line12 | tired
+ramp
+security
+consider
+tumble
+royal
+fatal
+shaft
+toss
+autumn
+nest
+appear |  
+| bip_39_word_new_line2 | tired
+ramp |  
+| bip_39_word_new_line3 | tired
+ramp
+security |  
+| bip_39_word_new_line4 | tired
+ramp
+security
+consider |  
+| bip_39_word_new_line5 | tired
+ramp
+security
+consider
+tumble |  
+| bip_39_word_new_line6 | tired
+ramp
+security
+consider
+tumble
+royal |  
+| bip_39_word_new_line7 | tired
+ramp
+security
+consider
+tumble
+royal
+fatal |  
+| bip_39_word_new_line8 | tired
+ramp
+security
+consider
+tumble
+royal
+fatal
+shaft |  
+| bip_39_word_new_line9 | tired
+ramp
+security
+consider
+tumble
+royal
+fatal
+shaft
+toss |  
+| bip_39_word_space_0 | ['tired', 'ramp', 'security', 'consider', 'tumble', 'royal', 'fatal', 'shaft', 'toss', 'autumn', 'nest', 'appear'] |  
+| bip_39_word_space_1 | tired |  
+| bip_39_word_space_10 | tired ramp security consider tumble royal fatal shaft toss autumn |  
+| bip_39_word_space_11 | tired ramp security consider tumble royal fatal shaft toss autumn nest |  
+| bip_39_word_space_12 | tired ramp security consider tumble royal fatal shaft toss autumn nest appear |  
+| bip_39_word_space_2 | tired ramp |  
+| bip_39_word_space_3 | tired ramp security |  
+| bip_39_word_space_4 | tired ramp security consider |  
+| bip_39_word_space_5 | tired ramp security consider tumble |  
+| bip_39_word_space_6 | tired ramp security consider tumble royal |  
+| bip_39_word_space_7 | tired ramp security consider tumble royal fatal |  
+| bip_39_word_space_8 | tired ramp security consider tumble royal fatal shaft |  
+| bip_39_word_space_9 | tired ramp security consider tumble royal fatal shaft toss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

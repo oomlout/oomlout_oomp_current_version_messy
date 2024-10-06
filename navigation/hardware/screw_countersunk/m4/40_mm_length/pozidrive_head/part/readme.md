@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remove verify
+  * bip 39 word 3: remove verify thunder
+  * bip 39 word: remove verify thunder salute desert armor cabin shop can bird tunnel add
 
 ### other_codes
 * short_code: cs4m40pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remove |  
+| bip_39_word_new_br10 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird |  
+| bip_39_word_new_br11 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird<br>tunnel |  
+| bip_39_word_new_br12 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can<br>bird<br>tunnel<br>add |  
+| bip_39_word_new_br2 | remove<br>verify |  
+| bip_39_word_new_br3 | remove<br>verify<br>thunder |  
+| bip_39_word_new_br4 | remove<br>verify<br>thunder<br>salute |  
+| bip_39_word_new_br5 | remove<br>verify<br>thunder<br>salute<br>desert |  
+| bip_39_word_new_br6 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor |  
+| bip_39_word_new_br7 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin |  
+| bip_39_word_new_br8 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop |  
+| bip_39_word_new_br9 | remove<br>verify<br>thunder<br>salute<br>desert<br>armor<br>cabin<br>shop<br>can |  
+| bip_39_word_new_line1 | remove |  
+| bip_39_word_new_line10 | remove
+verify
+thunder
+salute
+desert
+armor
+cabin
+shop
+can
+bird |  
+| bip_39_word_new_line11 | remove
+verify
+thunder
+salute
+desert
+armor
+cabin
+shop
+can
+bird
+tunnel |  
+| bip_39_word_new_line12 | remove
+verify
+thunder
+salute
+desert
+armor
+cabin
+shop
+can
+bird
+tunnel
+add |  
+| bip_39_word_new_line2 | remove
+verify |  
+| bip_39_word_new_line3 | remove
+verify
+thunder |  
+| bip_39_word_new_line4 | remove
+verify
+thunder
+salute |  
+| bip_39_word_new_line5 | remove
+verify
+thunder
+salute
+desert |  
+| bip_39_word_new_line6 | remove
+verify
+thunder
+salute
+desert
+armor |  
+| bip_39_word_new_line7 | remove
+verify
+thunder
+salute
+desert
+armor
+cabin |  
+| bip_39_word_new_line8 | remove
+verify
+thunder
+salute
+desert
+armor
+cabin
+shop |  
+| bip_39_word_new_line9 | remove
+verify
+thunder
+salute
+desert
+armor
+cabin
+shop
+can |  
+| bip_39_word_space_0 | ['remove', 'verify', 'thunder', 'salute', 'desert', 'armor', 'cabin', 'shop', 'can', 'bird', 'tunnel', 'add'] |  
+| bip_39_word_space_1 | remove |  
+| bip_39_word_space_10 | remove verify thunder salute desert armor cabin shop can bird |  
+| bip_39_word_space_11 | remove verify thunder salute desert armor cabin shop can bird tunnel |  
+| bip_39_word_space_12 | remove verify thunder salute desert armor cabin shop can bird tunnel add |  
+| bip_39_word_space_2 | remove verify |  
+| bip_39_word_space_3 | remove verify thunder |  
+| bip_39_word_space_4 | remove verify thunder salute |  
+| bip_39_word_space_5 | remove verify thunder salute desert |  
+| bip_39_word_space_6 | remove verify thunder salute desert armor |  
+| bip_39_word_space_7 | remove verify thunder salute desert armor cabin |  
+| bip_39_word_space_8 | remove verify thunder salute desert armor cabin shop |  
+| bip_39_word_space_9 | remove verify thunder salute desert armor cabin shop can |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

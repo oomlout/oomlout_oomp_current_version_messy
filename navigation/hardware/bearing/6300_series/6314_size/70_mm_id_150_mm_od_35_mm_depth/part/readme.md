@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: print actual
+  * bip 39 word 3: print actual enter
+  * bip 39 word: print actual enter mean october shadow own broken flower cinnamon choose actor
 
 ### other_codes
 * short_code: br6314
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | print |  
+| bip_39_word_new_br10 | print<br>actual<br>enter<br>mean<br>october<br>shadow<br>own<br>broken<br>flower<br>cinnamon |  
+| bip_39_word_new_br11 | print<br>actual<br>enter<br>mean<br>october<br>shadow<br>own<br>broken<br>flower<br>cinnamon<br>choose |  
+| bip_39_word_new_br12 | print<br>actual<br>enter<br>mean<br>october<br>shadow<br>own<br>broken<br>flower<br>cinnamon<br>choose<br>actor |  
+| bip_39_word_new_br2 | print<br>actual |  
+| bip_39_word_new_br3 | print<br>actual<br>enter |  
+| bip_39_word_new_br4 | print<br>actual<br>enter<br>mean |  
+| bip_39_word_new_br5 | print<br>actual<br>enter<br>mean<br>october |  
+| bip_39_word_new_br6 | print<br>actual<br>enter<br>mean<br>october<br>shadow |  
+| bip_39_word_new_br7 | print<br>actual<br>enter<br>mean<br>october<br>shadow<br>own |  
+| bip_39_word_new_br8 | print<br>actual<br>enter<br>mean<br>october<br>shadow<br>own<br>broken |  
+| bip_39_word_new_br9 | print<br>actual<br>enter<br>mean<br>october<br>shadow<br>own<br>broken<br>flower |  
+| bip_39_word_new_line1 | print |  
+| bip_39_word_new_line10 | print
+actual
+enter
+mean
+october
+shadow
+own
+broken
+flower
+cinnamon |  
+| bip_39_word_new_line11 | print
+actual
+enter
+mean
+october
+shadow
+own
+broken
+flower
+cinnamon
+choose |  
+| bip_39_word_new_line12 | print
+actual
+enter
+mean
+october
+shadow
+own
+broken
+flower
+cinnamon
+choose
+actor |  
+| bip_39_word_new_line2 | print
+actual |  
+| bip_39_word_new_line3 | print
+actual
+enter |  
+| bip_39_word_new_line4 | print
+actual
+enter
+mean |  
+| bip_39_word_new_line5 | print
+actual
+enter
+mean
+october |  
+| bip_39_word_new_line6 | print
+actual
+enter
+mean
+october
+shadow |  
+| bip_39_word_new_line7 | print
+actual
+enter
+mean
+october
+shadow
+own |  
+| bip_39_word_new_line8 | print
+actual
+enter
+mean
+october
+shadow
+own
+broken |  
+| bip_39_word_new_line9 | print
+actual
+enter
+mean
+october
+shadow
+own
+broken
+flower |  
+| bip_39_word_space_0 | ['print', 'actual', 'enter', 'mean', 'october', 'shadow', 'own', 'broken', 'flower', 'cinnamon', 'choose', 'actor'] |  
+| bip_39_word_space_1 | print |  
+| bip_39_word_space_10 | print actual enter mean october shadow own broken flower cinnamon |  
+| bip_39_word_space_11 | print actual enter mean october shadow own broken flower cinnamon choose |  
+| bip_39_word_space_12 | print actual enter mean october shadow own broken flower cinnamon choose actor |  
+| bip_39_word_space_2 | print actual |  
+| bip_39_word_space_3 | print actual enter |  
+| bip_39_word_space_4 | print actual enter mean |  
+| bip_39_word_space_5 | print actual enter mean october |  
+| bip_39_word_space_6 | print actual enter mean october shadow |  
+| bip_39_word_space_7 | print actual enter mean october shadow own |  
+| bip_39_word_space_8 | print actual enter mean october shadow own broken |  
+| bip_39_word_space_9 | print actual enter mean october shadow own broken flower |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

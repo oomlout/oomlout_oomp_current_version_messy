@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lounge vapor
+  * bip 39 word 3: lounge vapor stage
+  * bip 39 word: lounge vapor stage rude drift wine flash universe tunnel sad collect alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lounge |  
+| bip_39_word_new_br10 | lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe<br>tunnel<br>sad |  
+| bip_39_word_new_br11 | lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe<br>tunnel<br>sad<br>collect |  
+| bip_39_word_new_br12 | lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe<br>tunnel<br>sad<br>collect<br>alcohol |  
+| bip_39_word_new_br2 | lounge<br>vapor |  
+| bip_39_word_new_br3 | lounge<br>vapor<br>stage |  
+| bip_39_word_new_br4 | lounge<br>vapor<br>stage<br>rude |  
+| bip_39_word_new_br5 | lounge<br>vapor<br>stage<br>rude<br>drift |  
+| bip_39_word_new_br6 | lounge<br>vapor<br>stage<br>rude<br>drift<br>wine |  
+| bip_39_word_new_br7 | lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash |  
+| bip_39_word_new_br8 | lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe |  
+| bip_39_word_new_br9 | lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe<br>tunnel |  
+| bip_39_word_new_line1 | lounge |  
+| bip_39_word_new_line10 | lounge
+vapor
+stage
+rude
+drift
+wine
+flash
+universe
+tunnel
+sad |  
+| bip_39_word_new_line11 | lounge
+vapor
+stage
+rude
+drift
+wine
+flash
+universe
+tunnel
+sad
+collect |  
+| bip_39_word_new_line12 | lounge
+vapor
+stage
+rude
+drift
+wine
+flash
+universe
+tunnel
+sad
+collect
+alcohol |  
+| bip_39_word_new_line2 | lounge
+vapor |  
+| bip_39_word_new_line3 | lounge
+vapor
+stage |  
+| bip_39_word_new_line4 | lounge
+vapor
+stage
+rude |  
+| bip_39_word_new_line5 | lounge
+vapor
+stage
+rude
+drift |  
+| bip_39_word_new_line6 | lounge
+vapor
+stage
+rude
+drift
+wine |  
+| bip_39_word_new_line7 | lounge
+vapor
+stage
+rude
+drift
+wine
+flash |  
+| bip_39_word_new_line8 | lounge
+vapor
+stage
+rude
+drift
+wine
+flash
+universe |  
+| bip_39_word_new_line9 | lounge
+vapor
+stage
+rude
+drift
+wine
+flash
+universe
+tunnel |  
+| bip_39_word_space_0 | ['lounge', 'vapor', 'stage', 'rude', 'drift', 'wine', 'flash', 'universe', 'tunnel', 'sad', 'collect', 'alcohol'] |  
+| bip_39_word_space_1 | lounge |  
+| bip_39_word_space_10 | lounge vapor stage rude drift wine flash universe tunnel sad |  
+| bip_39_word_space_11 | lounge vapor stage rude drift wine flash universe tunnel sad collect |  
+| bip_39_word_space_12 | lounge vapor stage rude drift wine flash universe tunnel sad collect alcohol |  
+| bip_39_word_space_2 | lounge vapor |  
+| bip_39_word_space_3 | lounge vapor stage |  
+| bip_39_word_space_4 | lounge vapor stage rude |  
+| bip_39_word_space_5 | lounge vapor stage rude drift |  
+| bip_39_word_space_6 | lounge vapor stage rude drift wine |  
+| bip_39_word_space_7 | lounge vapor stage rude drift wine flash |  
+| bip_39_word_space_8 | lounge vapor stage rude drift wine flash universe |  
+| bip_39_word_space_9 | lounge vapor stage rude drift wine flash universe tunnel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lamp silk
+  * bip 39 word 3: lamp silk hand
+  * bip 39 word: lamp silk hand coil banana lawn cute tomorrow enough midnight square any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lamp |  
+| bip_39_word_new_br10 | lamp<br>silk<br>hand<br>coil<br>banana<br>lawn<br>cute<br>tomorrow<br>enough<br>midnight |  
+| bip_39_word_new_br11 | lamp<br>silk<br>hand<br>coil<br>banana<br>lawn<br>cute<br>tomorrow<br>enough<br>midnight<br>square |  
+| bip_39_word_new_br12 | lamp<br>silk<br>hand<br>coil<br>banana<br>lawn<br>cute<br>tomorrow<br>enough<br>midnight<br>square<br>any |  
+| bip_39_word_new_br2 | lamp<br>silk |  
+| bip_39_word_new_br3 | lamp<br>silk<br>hand |  
+| bip_39_word_new_br4 | lamp<br>silk<br>hand<br>coil |  
+| bip_39_word_new_br5 | lamp<br>silk<br>hand<br>coil<br>banana |  
+| bip_39_word_new_br6 | lamp<br>silk<br>hand<br>coil<br>banana<br>lawn |  
+| bip_39_word_new_br7 | lamp<br>silk<br>hand<br>coil<br>banana<br>lawn<br>cute |  
+| bip_39_word_new_br8 | lamp<br>silk<br>hand<br>coil<br>banana<br>lawn<br>cute<br>tomorrow |  
+| bip_39_word_new_br9 | lamp<br>silk<br>hand<br>coil<br>banana<br>lawn<br>cute<br>tomorrow<br>enough |  
+| bip_39_word_new_line1 | lamp |  
+| bip_39_word_new_line10 | lamp
+silk
+hand
+coil
+banana
+lawn
+cute
+tomorrow
+enough
+midnight |  
+| bip_39_word_new_line11 | lamp
+silk
+hand
+coil
+banana
+lawn
+cute
+tomorrow
+enough
+midnight
+square |  
+| bip_39_word_new_line12 | lamp
+silk
+hand
+coil
+banana
+lawn
+cute
+tomorrow
+enough
+midnight
+square
+any |  
+| bip_39_word_new_line2 | lamp
+silk |  
+| bip_39_word_new_line3 | lamp
+silk
+hand |  
+| bip_39_word_new_line4 | lamp
+silk
+hand
+coil |  
+| bip_39_word_new_line5 | lamp
+silk
+hand
+coil
+banana |  
+| bip_39_word_new_line6 | lamp
+silk
+hand
+coil
+banana
+lawn |  
+| bip_39_word_new_line7 | lamp
+silk
+hand
+coil
+banana
+lawn
+cute |  
+| bip_39_word_new_line8 | lamp
+silk
+hand
+coil
+banana
+lawn
+cute
+tomorrow |  
+| bip_39_word_new_line9 | lamp
+silk
+hand
+coil
+banana
+lawn
+cute
+tomorrow
+enough |  
+| bip_39_word_space_0 | ['lamp', 'silk', 'hand', 'coil', 'banana', 'lawn', 'cute', 'tomorrow', 'enough', 'midnight', 'square', 'any'] |  
+| bip_39_word_space_1 | lamp |  
+| bip_39_word_space_10 | lamp silk hand coil banana lawn cute tomorrow enough midnight |  
+| bip_39_word_space_11 | lamp silk hand coil banana lawn cute tomorrow enough midnight square |  
+| bip_39_word_space_12 | lamp silk hand coil banana lawn cute tomorrow enough midnight square any |  
+| bip_39_word_space_2 | lamp silk |  
+| bip_39_word_space_3 | lamp silk hand |  
+| bip_39_word_space_4 | lamp silk hand coil |  
+| bip_39_word_space_5 | lamp silk hand coil banana |  
+| bip_39_word_space_6 | lamp silk hand coil banana lawn |  
+| bip_39_word_space_7 | lamp silk hand coil banana lawn cute |  
+| bip_39_word_space_8 | lamp silk hand coil banana lawn cute tomorrow |  
+| bip_39_word_space_9 | lamp silk hand coil banana lawn cute tomorrow enough |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

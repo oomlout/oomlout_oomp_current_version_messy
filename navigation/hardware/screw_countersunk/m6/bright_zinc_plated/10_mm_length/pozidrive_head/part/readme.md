@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dolphin square
+  * bip 39 word 3: dolphin square title
+  * bip 39 word: dolphin square title humor dress crawl weasel upper unable solar then arrow
 
 ### other_codes
 * short_code: cs6bz10pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dolphin |  
+| bip_39_word_new_br10 | dolphin<br>square<br>title<br>humor<br>dress<br>crawl<br>weasel<br>upper<br>unable<br>solar |  
+| bip_39_word_new_br11 | dolphin<br>square<br>title<br>humor<br>dress<br>crawl<br>weasel<br>upper<br>unable<br>solar<br>then |  
+| bip_39_word_new_br12 | dolphin<br>square<br>title<br>humor<br>dress<br>crawl<br>weasel<br>upper<br>unable<br>solar<br>then<br>arrow |  
+| bip_39_word_new_br2 | dolphin<br>square |  
+| bip_39_word_new_br3 | dolphin<br>square<br>title |  
+| bip_39_word_new_br4 | dolphin<br>square<br>title<br>humor |  
+| bip_39_word_new_br5 | dolphin<br>square<br>title<br>humor<br>dress |  
+| bip_39_word_new_br6 | dolphin<br>square<br>title<br>humor<br>dress<br>crawl |  
+| bip_39_word_new_br7 | dolphin<br>square<br>title<br>humor<br>dress<br>crawl<br>weasel |  
+| bip_39_word_new_br8 | dolphin<br>square<br>title<br>humor<br>dress<br>crawl<br>weasel<br>upper |  
+| bip_39_word_new_br9 | dolphin<br>square<br>title<br>humor<br>dress<br>crawl<br>weasel<br>upper<br>unable |  
+| bip_39_word_new_line1 | dolphin |  
+| bip_39_word_new_line10 | dolphin
+square
+title
+humor
+dress
+crawl
+weasel
+upper
+unable
+solar |  
+| bip_39_word_new_line11 | dolphin
+square
+title
+humor
+dress
+crawl
+weasel
+upper
+unable
+solar
+then |  
+| bip_39_word_new_line12 | dolphin
+square
+title
+humor
+dress
+crawl
+weasel
+upper
+unable
+solar
+then
+arrow |  
+| bip_39_word_new_line2 | dolphin
+square |  
+| bip_39_word_new_line3 | dolphin
+square
+title |  
+| bip_39_word_new_line4 | dolphin
+square
+title
+humor |  
+| bip_39_word_new_line5 | dolphin
+square
+title
+humor
+dress |  
+| bip_39_word_new_line6 | dolphin
+square
+title
+humor
+dress
+crawl |  
+| bip_39_word_new_line7 | dolphin
+square
+title
+humor
+dress
+crawl
+weasel |  
+| bip_39_word_new_line8 | dolphin
+square
+title
+humor
+dress
+crawl
+weasel
+upper |  
+| bip_39_word_new_line9 | dolphin
+square
+title
+humor
+dress
+crawl
+weasel
+upper
+unable |  
+| bip_39_word_space_0 | ['dolphin', 'square', 'title', 'humor', 'dress', 'crawl', 'weasel', 'upper', 'unable', 'solar', 'then', 'arrow'] |  
+| bip_39_word_space_1 | dolphin |  
+| bip_39_word_space_10 | dolphin square title humor dress crawl weasel upper unable solar |  
+| bip_39_word_space_11 | dolphin square title humor dress crawl weasel upper unable solar then |  
+| bip_39_word_space_12 | dolphin square title humor dress crawl weasel upper unable solar then arrow |  
+| bip_39_word_space_2 | dolphin square |  
+| bip_39_word_space_3 | dolphin square title |  
+| bip_39_word_space_4 | dolphin square title humor |  
+| bip_39_word_space_5 | dolphin square title humor dress |  
+| bip_39_word_space_6 | dolphin square title humor dress crawl |  
+| bip_39_word_space_7 | dolphin square title humor dress crawl weasel |  
+| bip_39_word_space_8 | dolphin square title humor dress crawl weasel upper |  
+| bip_39_word_space_9 | dolphin square title humor dress crawl weasel upper unable |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

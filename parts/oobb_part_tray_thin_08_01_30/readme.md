@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: web win
+  * bip 39 word 3: web win acoustic
+  * bip 39 word: web win acoustic will hurry cement bamboo chronic current celery ready angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | web |  
+| bip_39_word_new_br10 | web<br>win<br>acoustic<br>will<br>hurry<br>cement<br>bamboo<br>chronic<br>current<br>celery |  
+| bip_39_word_new_br11 | web<br>win<br>acoustic<br>will<br>hurry<br>cement<br>bamboo<br>chronic<br>current<br>celery<br>ready |  
+| bip_39_word_new_br12 | web<br>win<br>acoustic<br>will<br>hurry<br>cement<br>bamboo<br>chronic<br>current<br>celery<br>ready<br>angry |  
+| bip_39_word_new_br2 | web<br>win |  
+| bip_39_word_new_br3 | web<br>win<br>acoustic |  
+| bip_39_word_new_br4 | web<br>win<br>acoustic<br>will |  
+| bip_39_word_new_br5 | web<br>win<br>acoustic<br>will<br>hurry |  
+| bip_39_word_new_br6 | web<br>win<br>acoustic<br>will<br>hurry<br>cement |  
+| bip_39_word_new_br7 | web<br>win<br>acoustic<br>will<br>hurry<br>cement<br>bamboo |  
+| bip_39_word_new_br8 | web<br>win<br>acoustic<br>will<br>hurry<br>cement<br>bamboo<br>chronic |  
+| bip_39_word_new_br9 | web<br>win<br>acoustic<br>will<br>hurry<br>cement<br>bamboo<br>chronic<br>current |  
+| bip_39_word_new_line1 | web |  
+| bip_39_word_new_line10 | web
+win
+acoustic
+will
+hurry
+cement
+bamboo
+chronic
+current
+celery |  
+| bip_39_word_new_line11 | web
+win
+acoustic
+will
+hurry
+cement
+bamboo
+chronic
+current
+celery
+ready |  
+| bip_39_word_new_line12 | web
+win
+acoustic
+will
+hurry
+cement
+bamboo
+chronic
+current
+celery
+ready
+angry |  
+| bip_39_word_new_line2 | web
+win |  
+| bip_39_word_new_line3 | web
+win
+acoustic |  
+| bip_39_word_new_line4 | web
+win
+acoustic
+will |  
+| bip_39_word_new_line5 | web
+win
+acoustic
+will
+hurry |  
+| bip_39_word_new_line6 | web
+win
+acoustic
+will
+hurry
+cement |  
+| bip_39_word_new_line7 | web
+win
+acoustic
+will
+hurry
+cement
+bamboo |  
+| bip_39_word_new_line8 | web
+win
+acoustic
+will
+hurry
+cement
+bamboo
+chronic |  
+| bip_39_word_new_line9 | web
+win
+acoustic
+will
+hurry
+cement
+bamboo
+chronic
+current |  
+| bip_39_word_space_0 | ['web', 'win', 'acoustic', 'will', 'hurry', 'cement', 'bamboo', 'chronic', 'current', 'celery', 'ready', 'angry'] |  
+| bip_39_word_space_1 | web |  
+| bip_39_word_space_10 | web win acoustic will hurry cement bamboo chronic current celery |  
+| bip_39_word_space_11 | web win acoustic will hurry cement bamboo chronic current celery ready |  
+| bip_39_word_space_12 | web win acoustic will hurry cement bamboo chronic current celery ready angry |  
+| bip_39_word_space_2 | web win |  
+| bip_39_word_space_3 | web win acoustic |  
+| bip_39_word_space_4 | web win acoustic will |  
+| bip_39_word_space_5 | web win acoustic will hurry |  
+| bip_39_word_space_6 | web win acoustic will hurry cement |  
+| bip_39_word_space_7 | web win acoustic will hurry cement bamboo |  
+| bip_39_word_space_8 | web win acoustic will hurry cement bamboo chronic |  
+| bip_39_word_space_9 | web win acoustic will hurry cement bamboo chronic current |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

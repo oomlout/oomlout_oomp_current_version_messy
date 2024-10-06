@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cabbage credit
+  * bip 39 word 3: cabbage credit key
+  * bip 39 word: cabbage credit key walnut blanket start edge ozone moral detail scheme account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cabbage |  
+| bip_39_word_new_br10 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail |  
+| bip_39_word_new_br11 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail<br>scheme |  
+| bip_39_word_new_br12 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral<br>detail<br>scheme<br>account |  
+| bip_39_word_new_br2 | cabbage<br>credit |  
+| bip_39_word_new_br3 | cabbage<br>credit<br>key |  
+| bip_39_word_new_br4 | cabbage<br>credit<br>key<br>walnut |  
+| bip_39_word_new_br5 | cabbage<br>credit<br>key<br>walnut<br>blanket |  
+| bip_39_word_new_br6 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start |  
+| bip_39_word_new_br7 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge |  
+| bip_39_word_new_br8 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone |  
+| bip_39_word_new_br9 | cabbage<br>credit<br>key<br>walnut<br>blanket<br>start<br>edge<br>ozone<br>moral |  
+| bip_39_word_new_line1 | cabbage |  
+| bip_39_word_new_line10 | cabbage
+credit
+key
+walnut
+blanket
+start
+edge
+ozone
+moral
+detail |  
+| bip_39_word_new_line11 | cabbage
+credit
+key
+walnut
+blanket
+start
+edge
+ozone
+moral
+detail
+scheme |  
+| bip_39_word_new_line12 | cabbage
+credit
+key
+walnut
+blanket
+start
+edge
+ozone
+moral
+detail
+scheme
+account |  
+| bip_39_word_new_line2 | cabbage
+credit |  
+| bip_39_word_new_line3 | cabbage
+credit
+key |  
+| bip_39_word_new_line4 | cabbage
+credit
+key
+walnut |  
+| bip_39_word_new_line5 | cabbage
+credit
+key
+walnut
+blanket |  
+| bip_39_word_new_line6 | cabbage
+credit
+key
+walnut
+blanket
+start |  
+| bip_39_word_new_line7 | cabbage
+credit
+key
+walnut
+blanket
+start
+edge |  
+| bip_39_word_new_line8 | cabbage
+credit
+key
+walnut
+blanket
+start
+edge
+ozone |  
+| bip_39_word_new_line9 | cabbage
+credit
+key
+walnut
+blanket
+start
+edge
+ozone
+moral |  
+| bip_39_word_space_0 | ['cabbage', 'credit', 'key', 'walnut', 'blanket', 'start', 'edge', 'ozone', 'moral', 'detail', 'scheme', 'account'] |  
+| bip_39_word_space_1 | cabbage |  
+| bip_39_word_space_10 | cabbage credit key walnut blanket start edge ozone moral detail |  
+| bip_39_word_space_11 | cabbage credit key walnut blanket start edge ozone moral detail scheme |  
+| bip_39_word_space_12 | cabbage credit key walnut blanket start edge ozone moral detail scheme account |  
+| bip_39_word_space_2 | cabbage credit |  
+| bip_39_word_space_3 | cabbage credit key |  
+| bip_39_word_space_4 | cabbage credit key walnut |  
+| bip_39_word_space_5 | cabbage credit key walnut blanket |  
+| bip_39_word_space_6 | cabbage credit key walnut blanket start |  
+| bip_39_word_space_7 | cabbage credit key walnut blanket start edge |  
+| bip_39_word_space_8 | cabbage credit key walnut blanket start edge ozone |  
+| bip_39_word_space_9 | cabbage credit key walnut blanket start edge ozone moral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: prize
+bip_39_word_new_br10: prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct
+bip_39_word_new_br11: prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct<br>couple
+bip_39_word_new_br12: prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat<br>conduct<br>couple<br>amused
+bip_39_word_new_br2: prize<br>donkey
+bip_39_word_new_br3: prize<br>donkey<br>scrub
+bip_39_word_new_br4: prize<br>donkey<br>scrub<br>media
+bip_39_word_new_br5: prize<br>donkey<br>scrub<br>media<br>degree
+bip_39_word_new_br6: prize<br>donkey<br>scrub<br>media<br>degree<br>manage
+bip_39_word_new_br7: prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow
+bip_39_word_new_br8: prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series
+bip_39_word_new_br9: prize<br>donkey<br>scrub<br>media<br>degree<br>manage<br>borrow<br>series<br>repeat
+bip_39_word_new_line1: prize
+bip_39_word_new_line10: 'prize
+
+  donkey
+
+  scrub
+
+  media
+
+  degree
+
+  manage
+
+  borrow
+
+  series
+
+  repeat
+
+  conduct'
+bip_39_word_new_line11: 'prize
+
+  donkey
+
+  scrub
+
+  media
+
+  degree
+
+  manage
+
+  borrow
+
+  series
+
+  repeat
+
+  conduct
+
+  couple'
+bip_39_word_new_line12: 'prize
+
+  donkey
+
+  scrub
+
+  media
+
+  degree
+
+  manage
+
+  borrow
+
+  series
+
+  repeat
+
+  conduct
+
+  couple
+
+  amused'
+bip_39_word_new_line2: 'prize
+
+  donkey'
+bip_39_word_new_line3: 'prize
+
+  donkey
+
+  scrub'
+bip_39_word_new_line4: 'prize
+
+  donkey
+
+  scrub
+
+  media'
+bip_39_word_new_line5: 'prize
+
+  donkey
+
+  scrub
+
+  media
+
+  degree'
+bip_39_word_new_line6: 'prize
+
+  donkey
+
+  scrub
+
+  media
+
+  degree
+
+  manage'
+bip_39_word_new_line7: 'prize
+
+  donkey
+
+  scrub
+
+  media
+
+  degree
+
+  manage
+
+  borrow'
+bip_39_word_new_line8: 'prize
+
+  donkey
+
+  scrub
+
+  media
+
+  degree
+
+  manage
+
+  borrow
+
+  series'
+bip_39_word_new_line9: 'prize
+
+  donkey
+
+  scrub
+
+  media
+
+  degree
+
+  manage
+
+  borrow
+
+  series
+
+  repeat'
+bip_39_word_space_0:
+- prize
+- donkey
+- scrub
+- media
+- degree
+- manage
+- borrow
+- series
+- repeat
+- conduct
+- couple
+- amused
+bip_39_word_space_1: prize
+bip_39_word_space_10: prize donkey scrub media degree manage borrow series repeat
+  conduct
+bip_39_word_space_11: prize donkey scrub media degree manage borrow series repeat
+  conduct couple
+bip_39_word_space_12: prize donkey scrub media degree manage borrow series repeat
+  conduct couple amused
+bip_39_word_space_2: prize donkey
+bip_39_word_space_3: prize donkey scrub
+bip_39_word_space_4: prize donkey scrub media
+bip_39_word_space_5: prize donkey scrub media degree
+bip_39_word_space_6: prize donkey scrub media degree manage
+bip_39_word_space_7: prize donkey scrub media degree manage borrow
+bip_39_word_space_8: prize donkey scrub media degree manage borrow series
+bip_39_word_space_9: prize donkey scrub media degree manage borrow series repeat
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trumpet tribe
+  * bip 39 word 3: trumpet tribe sibling
+  * bip 39 word: trumpet tribe sibling letter wire toward display slab decide fix session advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trumpet |  
+| bip_39_word_new_br10 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward<br>display<br>slab<br>decide<br>fix |  
+| bip_39_word_new_br11 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward<br>display<br>slab<br>decide<br>fix<br>session |  
+| bip_39_word_new_br12 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward<br>display<br>slab<br>decide<br>fix<br>session<br>advance |  
+| bip_39_word_new_br2 | trumpet<br>tribe |  
+| bip_39_word_new_br3 | trumpet<br>tribe<br>sibling |  
+| bip_39_word_new_br4 | trumpet<br>tribe<br>sibling<br>letter |  
+| bip_39_word_new_br5 | trumpet<br>tribe<br>sibling<br>letter<br>wire |  
+| bip_39_word_new_br6 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward |  
+| bip_39_word_new_br7 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward<br>display |  
+| bip_39_word_new_br8 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward<br>display<br>slab |  
+| bip_39_word_new_br9 | trumpet<br>tribe<br>sibling<br>letter<br>wire<br>toward<br>display<br>slab<br>decide |  
+| bip_39_word_new_line1 | trumpet |  
+| bip_39_word_new_line10 | trumpet
+tribe
+sibling
+letter
+wire
+toward
+display
+slab
+decide
+fix |  
+| bip_39_word_new_line11 | trumpet
+tribe
+sibling
+letter
+wire
+toward
+display
+slab
+decide
+fix
+session |  
+| bip_39_word_new_line12 | trumpet
+tribe
+sibling
+letter
+wire
+toward
+display
+slab
+decide
+fix
+session
+advance |  
+| bip_39_word_new_line2 | trumpet
+tribe |  
+| bip_39_word_new_line3 | trumpet
+tribe
+sibling |  
+| bip_39_word_new_line4 | trumpet
+tribe
+sibling
+letter |  
+| bip_39_word_new_line5 | trumpet
+tribe
+sibling
+letter
+wire |  
+| bip_39_word_new_line6 | trumpet
+tribe
+sibling
+letter
+wire
+toward |  
+| bip_39_word_new_line7 | trumpet
+tribe
+sibling
+letter
+wire
+toward
+display |  
+| bip_39_word_new_line8 | trumpet
+tribe
+sibling
+letter
+wire
+toward
+display
+slab |  
+| bip_39_word_new_line9 | trumpet
+tribe
+sibling
+letter
+wire
+toward
+display
+slab
+decide |  
+| bip_39_word_space_0 | ['trumpet', 'tribe', 'sibling', 'letter', 'wire', 'toward', 'display', 'slab', 'decide', 'fix', 'session', 'advance'] |  
+| bip_39_word_space_1 | trumpet |  
+| bip_39_word_space_10 | trumpet tribe sibling letter wire toward display slab decide fix |  
+| bip_39_word_space_11 | trumpet tribe sibling letter wire toward display slab decide fix session |  
+| bip_39_word_space_12 | trumpet tribe sibling letter wire toward display slab decide fix session advance |  
+| bip_39_word_space_2 | trumpet tribe |  
+| bip_39_word_space_3 | trumpet tribe sibling |  
+| bip_39_word_space_4 | trumpet tribe sibling letter |  
+| bip_39_word_space_5 | trumpet tribe sibling letter wire |  
+| bip_39_word_space_6 | trumpet tribe sibling letter wire toward |  
+| bip_39_word_space_7 | trumpet tribe sibling letter wire toward display |  
+| bip_39_word_space_8 | trumpet tribe sibling letter wire toward display slab |  
+| bip_39_word_space_9 | trumpet tribe sibling letter wire toward display slab decide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

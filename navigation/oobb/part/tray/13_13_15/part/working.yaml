@@ -1,3 +1,187 @@
+bip_39_word_new_br1: salt
+bip_39_word_new_br10: salt<br>noise<br>theory<br>agree<br>stumble<br>service<br>detect<br>current<br>stadium<br>squeeze
+bip_39_word_new_br11: salt<br>noise<br>theory<br>agree<br>stumble<br>service<br>detect<br>current<br>stadium<br>squeeze<br>emerge
+bip_39_word_new_br12: salt<br>noise<br>theory<br>agree<br>stumble<br>service<br>detect<br>current<br>stadium<br>squeeze<br>emerge<br>antenna
+bip_39_word_new_br2: salt<br>noise
+bip_39_word_new_br3: salt<br>noise<br>theory
+bip_39_word_new_br4: salt<br>noise<br>theory<br>agree
+bip_39_word_new_br5: salt<br>noise<br>theory<br>agree<br>stumble
+bip_39_word_new_br6: salt<br>noise<br>theory<br>agree<br>stumble<br>service
+bip_39_word_new_br7: salt<br>noise<br>theory<br>agree<br>stumble<br>service<br>detect
+bip_39_word_new_br8: salt<br>noise<br>theory<br>agree<br>stumble<br>service<br>detect<br>current
+bip_39_word_new_br9: salt<br>noise<br>theory<br>agree<br>stumble<br>service<br>detect<br>current<br>stadium
+bip_39_word_new_line1: salt
+bip_39_word_new_line10: 'salt
+
+  noise
+
+  theory
+
+  agree
+
+  stumble
+
+  service
+
+  detect
+
+  current
+
+  stadium
+
+  squeeze'
+bip_39_word_new_line11: 'salt
+
+  noise
+
+  theory
+
+  agree
+
+  stumble
+
+  service
+
+  detect
+
+  current
+
+  stadium
+
+  squeeze
+
+  emerge'
+bip_39_word_new_line12: 'salt
+
+  noise
+
+  theory
+
+  agree
+
+  stumble
+
+  service
+
+  detect
+
+  current
+
+  stadium
+
+  squeeze
+
+  emerge
+
+  antenna'
+bip_39_word_new_line2: 'salt
+
+  noise'
+bip_39_word_new_line3: 'salt
+
+  noise
+
+  theory'
+bip_39_word_new_line4: 'salt
+
+  noise
+
+  theory
+
+  agree'
+bip_39_word_new_line5: 'salt
+
+  noise
+
+  theory
+
+  agree
+
+  stumble'
+bip_39_word_new_line6: 'salt
+
+  noise
+
+  theory
+
+  agree
+
+  stumble
+
+  service'
+bip_39_word_new_line7: 'salt
+
+  noise
+
+  theory
+
+  agree
+
+  stumble
+
+  service
+
+  detect'
+bip_39_word_new_line8: 'salt
+
+  noise
+
+  theory
+
+  agree
+
+  stumble
+
+  service
+
+  detect
+
+  current'
+bip_39_word_new_line9: 'salt
+
+  noise
+
+  theory
+
+  agree
+
+  stumble
+
+  service
+
+  detect
+
+  current
+
+  stadium'
+bip_39_word_space_0:
+- salt
+- noise
+- theory
+- agree
+- stumble
+- service
+- detect
+- current
+- stadium
+- squeeze
+- emerge
+- antenna
+bip_39_word_space_1: salt
+bip_39_word_space_10: salt noise theory agree stumble service detect current stadium
+  squeeze
+bip_39_word_space_11: salt noise theory agree stumble service detect current stadium
+  squeeze emerge
+bip_39_word_space_12: salt noise theory agree stumble service detect current stadium
+  squeeze emerge antenna
+bip_39_word_space_2: salt noise
+bip_39_word_space_3: salt noise theory
+bip_39_word_space_4: salt noise theory agree
+bip_39_word_space_5: salt noise theory agree stumble
+bip_39_word_space_6: salt noise theory agree stumble service
+bip_39_word_space_7: salt noise theory agree stumble service detect
+bip_39_word_space_8: salt noise theory agree stumble service detect current
+bip_39_word_space_9: salt noise theory agree stumble service detect current stadium
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

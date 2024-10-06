@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: awake exact
+  * bip 39 word 3: awake exact govern
+  * bip 39 word: awake exact govern float feature car pepper lecture vanish captain drip ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | awake |  
+| bip_39_word_new_br10 | awake<br>exact<br>govern<br>float<br>feature<br>car<br>pepper<br>lecture<br>vanish<br>captain |  
+| bip_39_word_new_br11 | awake<br>exact<br>govern<br>float<br>feature<br>car<br>pepper<br>lecture<br>vanish<br>captain<br>drip |  
+| bip_39_word_new_br12 | awake<br>exact<br>govern<br>float<br>feature<br>car<br>pepper<br>lecture<br>vanish<br>captain<br>drip<br>ankle |  
+| bip_39_word_new_br2 | awake<br>exact |  
+| bip_39_word_new_br3 | awake<br>exact<br>govern |  
+| bip_39_word_new_br4 | awake<br>exact<br>govern<br>float |  
+| bip_39_word_new_br5 | awake<br>exact<br>govern<br>float<br>feature |  
+| bip_39_word_new_br6 | awake<br>exact<br>govern<br>float<br>feature<br>car |  
+| bip_39_word_new_br7 | awake<br>exact<br>govern<br>float<br>feature<br>car<br>pepper |  
+| bip_39_word_new_br8 | awake<br>exact<br>govern<br>float<br>feature<br>car<br>pepper<br>lecture |  
+| bip_39_word_new_br9 | awake<br>exact<br>govern<br>float<br>feature<br>car<br>pepper<br>lecture<br>vanish |  
+| bip_39_word_new_line1 | awake |  
+| bip_39_word_new_line10 | awake
+exact
+govern
+float
+feature
+car
+pepper
+lecture
+vanish
+captain |  
+| bip_39_word_new_line11 | awake
+exact
+govern
+float
+feature
+car
+pepper
+lecture
+vanish
+captain
+drip |  
+| bip_39_word_new_line12 | awake
+exact
+govern
+float
+feature
+car
+pepper
+lecture
+vanish
+captain
+drip
+ankle |  
+| bip_39_word_new_line2 | awake
+exact |  
+| bip_39_word_new_line3 | awake
+exact
+govern |  
+| bip_39_word_new_line4 | awake
+exact
+govern
+float |  
+| bip_39_word_new_line5 | awake
+exact
+govern
+float
+feature |  
+| bip_39_word_new_line6 | awake
+exact
+govern
+float
+feature
+car |  
+| bip_39_word_new_line7 | awake
+exact
+govern
+float
+feature
+car
+pepper |  
+| bip_39_word_new_line8 | awake
+exact
+govern
+float
+feature
+car
+pepper
+lecture |  
+| bip_39_word_new_line9 | awake
+exact
+govern
+float
+feature
+car
+pepper
+lecture
+vanish |  
+| bip_39_word_space_0 | ['awake', 'exact', 'govern', 'float', 'feature', 'car', 'pepper', 'lecture', 'vanish', 'captain', 'drip', 'ankle'] |  
+| bip_39_word_space_1 | awake |  
+| bip_39_word_space_10 | awake exact govern float feature car pepper lecture vanish captain |  
+| bip_39_word_space_11 | awake exact govern float feature car pepper lecture vanish captain drip |  
+| bip_39_word_space_12 | awake exact govern float feature car pepper lecture vanish captain drip ankle |  
+| bip_39_word_space_2 | awake exact |  
+| bip_39_word_space_3 | awake exact govern |  
+| bip_39_word_space_4 | awake exact govern float |  
+| bip_39_word_space_5 | awake exact govern float feature |  
+| bip_39_word_space_6 | awake exact govern float feature car |  
+| bip_39_word_space_7 | awake exact govern float feature car pepper |  
+| bip_39_word_space_8 | awake exact govern float feature car pepper lecture |  
+| bip_39_word_space_9 | awake exact govern float feature car pepper lecture vanish |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

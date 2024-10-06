@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: capital rain
+  * bip 39 word 3: capital rain bounce
+  * bip 39 word: capital rain bounce audit assist poet find poverty soul multiply swarm announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | capital |  
+| bip_39_word_new_br10 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply |  
+| bip_39_word_new_br11 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply<br>swarm |  
+| bip_39_word_new_br12 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul<br>multiply<br>swarm<br>announce |  
+| bip_39_word_new_br2 | capital<br>rain |  
+| bip_39_word_new_br3 | capital<br>rain<br>bounce |  
+| bip_39_word_new_br4 | capital<br>rain<br>bounce<br>audit |  
+| bip_39_word_new_br5 | capital<br>rain<br>bounce<br>audit<br>assist |  
+| bip_39_word_new_br6 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet |  
+| bip_39_word_new_br7 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find |  
+| bip_39_word_new_br8 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty |  
+| bip_39_word_new_br9 | capital<br>rain<br>bounce<br>audit<br>assist<br>poet<br>find<br>poverty<br>soul |  
+| bip_39_word_new_line1 | capital |  
+| bip_39_word_new_line10 | capital
+rain
+bounce
+audit
+assist
+poet
+find
+poverty
+soul
+multiply |  
+| bip_39_word_new_line11 | capital
+rain
+bounce
+audit
+assist
+poet
+find
+poverty
+soul
+multiply
+swarm |  
+| bip_39_word_new_line12 | capital
+rain
+bounce
+audit
+assist
+poet
+find
+poverty
+soul
+multiply
+swarm
+announce |  
+| bip_39_word_new_line2 | capital
+rain |  
+| bip_39_word_new_line3 | capital
+rain
+bounce |  
+| bip_39_word_new_line4 | capital
+rain
+bounce
+audit |  
+| bip_39_word_new_line5 | capital
+rain
+bounce
+audit
+assist |  
+| bip_39_word_new_line6 | capital
+rain
+bounce
+audit
+assist
+poet |  
+| bip_39_word_new_line7 | capital
+rain
+bounce
+audit
+assist
+poet
+find |  
+| bip_39_word_new_line8 | capital
+rain
+bounce
+audit
+assist
+poet
+find
+poverty |  
+| bip_39_word_new_line9 | capital
+rain
+bounce
+audit
+assist
+poet
+find
+poverty
+soul |  
+| bip_39_word_space_0 | ['capital', 'rain', 'bounce', 'audit', 'assist', 'poet', 'find', 'poverty', 'soul', 'multiply', 'swarm', 'announce'] |  
+| bip_39_word_space_1 | capital |  
+| bip_39_word_space_10 | capital rain bounce audit assist poet find poverty soul multiply |  
+| bip_39_word_space_11 | capital rain bounce audit assist poet find poverty soul multiply swarm |  
+| bip_39_word_space_12 | capital rain bounce audit assist poet find poverty soul multiply swarm announce |  
+| bip_39_word_space_2 | capital rain |  
+| bip_39_word_space_3 | capital rain bounce |  
+| bip_39_word_space_4 | capital rain bounce audit |  
+| bip_39_word_space_5 | capital rain bounce audit assist |  
+| bip_39_word_space_6 | capital rain bounce audit assist poet |  
+| bip_39_word_space_7 | capital rain bounce audit assist poet find |  
+| bip_39_word_space_8 | capital rain bounce audit assist poet find poverty |  
+| bip_39_word_space_9 | capital rain bounce audit assist poet find poverty soul |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

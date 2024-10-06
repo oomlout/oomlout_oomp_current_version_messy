@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pluck
+bip_39_word_new_br10: pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle
+bip_39_word_new_br11: pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle<br>rule
+bip_39_word_new_br12: pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide<br>cycle<br>rule<br>audit
+bip_39_word_new_br2: pluck<br>dutch
+bip_39_word_new_br3: pluck<br>dutch<br>idea
+bip_39_word_new_br4: pluck<br>dutch<br>idea<br>pretty
+bip_39_word_new_br5: pluck<br>dutch<br>idea<br>pretty<br>voyage
+bip_39_word_new_br6: pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double
+bip_39_word_new_br7: pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather
+bip_39_word_new_br8: pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury
+bip_39_word_new_br9: pluck<br>dutch<br>idea<br>pretty<br>voyage<br>double<br>rather<br>injury<br>provide
+bip_39_word_new_line1: pluck
+bip_39_word_new_line10: 'pluck
+
+  dutch
+
+  idea
+
+  pretty
+
+  voyage
+
+  double
+
+  rather
+
+  injury
+
+  provide
+
+  cycle'
+bip_39_word_new_line11: 'pluck
+
+  dutch
+
+  idea
+
+  pretty
+
+  voyage
+
+  double
+
+  rather
+
+  injury
+
+  provide
+
+  cycle
+
+  rule'
+bip_39_word_new_line12: 'pluck
+
+  dutch
+
+  idea
+
+  pretty
+
+  voyage
+
+  double
+
+  rather
+
+  injury
+
+  provide
+
+  cycle
+
+  rule
+
+  audit'
+bip_39_word_new_line2: 'pluck
+
+  dutch'
+bip_39_word_new_line3: 'pluck
+
+  dutch
+
+  idea'
+bip_39_word_new_line4: 'pluck
+
+  dutch
+
+  idea
+
+  pretty'
+bip_39_word_new_line5: 'pluck
+
+  dutch
+
+  idea
+
+  pretty
+
+  voyage'
+bip_39_word_new_line6: 'pluck
+
+  dutch
+
+  idea
+
+  pretty
+
+  voyage
+
+  double'
+bip_39_word_new_line7: 'pluck
+
+  dutch
+
+  idea
+
+  pretty
+
+  voyage
+
+  double
+
+  rather'
+bip_39_word_new_line8: 'pluck
+
+  dutch
+
+  idea
+
+  pretty
+
+  voyage
+
+  double
+
+  rather
+
+  injury'
+bip_39_word_new_line9: 'pluck
+
+  dutch
+
+  idea
+
+  pretty
+
+  voyage
+
+  double
+
+  rather
+
+  injury
+
+  provide'
+bip_39_word_space_0:
+- pluck
+- dutch
+- idea
+- pretty
+- voyage
+- double
+- rather
+- injury
+- provide
+- cycle
+- rule
+- audit
+bip_39_word_space_1: pluck
+bip_39_word_space_10: pluck dutch idea pretty voyage double rather injury provide
+  cycle
+bip_39_word_space_11: pluck dutch idea pretty voyage double rather injury provide
+  cycle rule
+bip_39_word_space_12: pluck dutch idea pretty voyage double rather injury provide
+  cycle rule audit
+bip_39_word_space_2: pluck dutch
+bip_39_word_space_3: pluck dutch idea
+bip_39_word_space_4: pluck dutch idea pretty
+bip_39_word_space_5: pluck dutch idea pretty voyage
+bip_39_word_space_6: pluck dutch idea pretty voyage double
+bip_39_word_space_7: pluck dutch idea pretty voyage double rather
+bip_39_word_space_8: pluck dutch idea pretty voyage double rather injury
+bip_39_word_space_9: pluck dutch idea pretty voyage double rather injury provide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

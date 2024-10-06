@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lonely
+bip_39_word_new_br10: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle
+bip_39_word_new_br11: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle<br>globe
+bip_39_word_new_br12: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle<br>globe<br>allow
+bip_39_word_new_br2: lonely<br>kangaroo
+bip_39_word_new_br3: lonely<br>kangaroo<br>farm
+bip_39_word_new_br4: lonely<br>kangaroo<br>farm<br>tackle
+bip_39_word_new_br5: lonely<br>kangaroo<br>farm<br>tackle<br>action
+bip_39_word_new_br6: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will
+bip_39_word_new_br7: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly
+bip_39_word_new_br8: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport
+bip_39_word_new_br9: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson
+bip_39_word_new_line1: lonely
+bip_39_word_new_line10: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport
+
+  lesson
+
+  miracle'
+bip_39_word_new_line11: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport
+
+  lesson
+
+  miracle
+
+  globe'
+bip_39_word_new_line12: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport
+
+  lesson
+
+  miracle
+
+  globe
+
+  allow'
+bip_39_word_new_line2: 'lonely
+
+  kangaroo'
+bip_39_word_new_line3: 'lonely
+
+  kangaroo
+
+  farm'
+bip_39_word_new_line4: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle'
+bip_39_word_new_line5: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action'
+bip_39_word_new_line6: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will'
+bip_39_word_new_line7: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly'
+bip_39_word_new_line8: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport'
+bip_39_word_new_line9: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport
+
+  lesson'
+bip_39_word_space_0:
+- lonely
+- kangaroo
+- farm
+- tackle
+- action
+- will
+- jelly
+- airport
+- lesson
+- miracle
+- globe
+- allow
+bip_39_word_space_1: lonely
+bip_39_word_space_10: lonely kangaroo farm tackle action will jelly airport lesson
+  miracle
+bip_39_word_space_11: lonely kangaroo farm tackle action will jelly airport lesson
+  miracle globe
+bip_39_word_space_12: lonely kangaroo farm tackle action will jelly airport lesson
+  miracle globe allow
+bip_39_word_space_2: lonely kangaroo
+bip_39_word_space_3: lonely kangaroo farm
+bip_39_word_space_4: lonely kangaroo farm tackle
+bip_39_word_space_5: lonely kangaroo farm tackle action
+bip_39_word_space_6: lonely kangaroo farm tackle action will
+bip_39_word_space_7: lonely kangaroo farm tackle action will jelly
+bip_39_word_space_8: lonely kangaroo farm tackle action will jelly airport
+bip_39_word_space_9: lonely kangaroo farm tackle action will jelly airport lesson
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

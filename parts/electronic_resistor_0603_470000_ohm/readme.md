@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: off another
+  * bip 39 word 3: off another arrest
+  * bip 39 word: off another arrest rebel trend common curtain spin retreat about cross autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | off |  
+| bip_39_word_new_br10 | off<br>another<br>arrest<br>rebel<br>trend<br>common<br>curtain<br>spin<br>retreat<br>about |  
+| bip_39_word_new_br11 | off<br>another<br>arrest<br>rebel<br>trend<br>common<br>curtain<br>spin<br>retreat<br>about<br>cross |  
+| bip_39_word_new_br12 | off<br>another<br>arrest<br>rebel<br>trend<br>common<br>curtain<br>spin<br>retreat<br>about<br>cross<br>autumn |  
+| bip_39_word_new_br2 | off<br>another |  
+| bip_39_word_new_br3 | off<br>another<br>arrest |  
+| bip_39_word_new_br4 | off<br>another<br>arrest<br>rebel |  
+| bip_39_word_new_br5 | off<br>another<br>arrest<br>rebel<br>trend |  
+| bip_39_word_new_br6 | off<br>another<br>arrest<br>rebel<br>trend<br>common |  
+| bip_39_word_new_br7 | off<br>another<br>arrest<br>rebel<br>trend<br>common<br>curtain |  
+| bip_39_word_new_br8 | off<br>another<br>arrest<br>rebel<br>trend<br>common<br>curtain<br>spin |  
+| bip_39_word_new_br9 | off<br>another<br>arrest<br>rebel<br>trend<br>common<br>curtain<br>spin<br>retreat |  
+| bip_39_word_new_line1 | off |  
+| bip_39_word_new_line10 | off
+another
+arrest
+rebel
+trend
+common
+curtain
+spin
+retreat
+about |  
+| bip_39_word_new_line11 | off
+another
+arrest
+rebel
+trend
+common
+curtain
+spin
+retreat
+about
+cross |  
+| bip_39_word_new_line12 | off
+another
+arrest
+rebel
+trend
+common
+curtain
+spin
+retreat
+about
+cross
+autumn |  
+| bip_39_word_new_line2 | off
+another |  
+| bip_39_word_new_line3 | off
+another
+arrest |  
+| bip_39_word_new_line4 | off
+another
+arrest
+rebel |  
+| bip_39_word_new_line5 | off
+another
+arrest
+rebel
+trend |  
+| bip_39_word_new_line6 | off
+another
+arrest
+rebel
+trend
+common |  
+| bip_39_word_new_line7 | off
+another
+arrest
+rebel
+trend
+common
+curtain |  
+| bip_39_word_new_line8 | off
+another
+arrest
+rebel
+trend
+common
+curtain
+spin |  
+| bip_39_word_new_line9 | off
+another
+arrest
+rebel
+trend
+common
+curtain
+spin
+retreat |  
+| bip_39_word_space_0 | ['off', 'another', 'arrest', 'rebel', 'trend', 'common', 'curtain', 'spin', 'retreat', 'about', 'cross', 'autumn'] |  
+| bip_39_word_space_1 | off |  
+| bip_39_word_space_10 | off another arrest rebel trend common curtain spin retreat about |  
+| bip_39_word_space_11 | off another arrest rebel trend common curtain spin retreat about cross |  
+| bip_39_word_space_12 | off another arrest rebel trend common curtain spin retreat about cross autumn |  
+| bip_39_word_space_2 | off another |  
+| bip_39_word_space_3 | off another arrest |  
+| bip_39_word_space_4 | off another arrest rebel |  
+| bip_39_word_space_5 | off another arrest rebel trend |  
+| bip_39_word_space_6 | off another arrest rebel trend common |  
+| bip_39_word_space_7 | off another arrest rebel trend common curtain |  
+| bip_39_word_space_8 | off another arrest rebel trend common curtain spin |  
+| bip_39_word_space_9 | off another arrest rebel trend common curtain spin retreat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

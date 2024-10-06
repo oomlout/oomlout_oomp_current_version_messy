@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: screw_tite_two
   * part_number: 488FY
+  * bip 39 word 2: radar double
+  * bip 39 word 3: radar double term
+  * bip 39 word: radar double term loud vapor better catch blouse cool bottom enlist apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | radar |  
+| bip_39_word_new_br10 | radar<br>double<br>term<br>loud<br>vapor<br>better<br>catch<br>blouse<br>cool<br>bottom |  
+| bip_39_word_new_br11 | radar<br>double<br>term<br>loud<br>vapor<br>better<br>catch<br>blouse<br>cool<br>bottom<br>enlist |  
+| bip_39_word_new_br12 | radar<br>double<br>term<br>loud<br>vapor<br>better<br>catch<br>blouse<br>cool<br>bottom<br>enlist<br>apple |  
+| bip_39_word_new_br2 | radar<br>double |  
+| bip_39_word_new_br3 | radar<br>double<br>term |  
+| bip_39_word_new_br4 | radar<br>double<br>term<br>loud |  
+| bip_39_word_new_br5 | radar<br>double<br>term<br>loud<br>vapor |  
+| bip_39_word_new_br6 | radar<br>double<br>term<br>loud<br>vapor<br>better |  
+| bip_39_word_new_br7 | radar<br>double<br>term<br>loud<br>vapor<br>better<br>catch |  
+| bip_39_word_new_br8 | radar<br>double<br>term<br>loud<br>vapor<br>better<br>catch<br>blouse |  
+| bip_39_word_new_br9 | radar<br>double<br>term<br>loud<br>vapor<br>better<br>catch<br>blouse<br>cool |  
+| bip_39_word_new_line1 | radar |  
+| bip_39_word_new_line10 | radar
+double
+term
+loud
+vapor
+better
+catch
+blouse
+cool
+bottom |  
+| bip_39_word_new_line11 | radar
+double
+term
+loud
+vapor
+better
+catch
+blouse
+cool
+bottom
+enlist |  
+| bip_39_word_new_line12 | radar
+double
+term
+loud
+vapor
+better
+catch
+blouse
+cool
+bottom
+enlist
+apple |  
+| bip_39_word_new_line2 | radar
+double |  
+| bip_39_word_new_line3 | radar
+double
+term |  
+| bip_39_word_new_line4 | radar
+double
+term
+loud |  
+| bip_39_word_new_line5 | radar
+double
+term
+loud
+vapor |  
+| bip_39_word_new_line6 | radar
+double
+term
+loud
+vapor
+better |  
+| bip_39_word_new_line7 | radar
+double
+term
+loud
+vapor
+better
+catch |  
+| bip_39_word_new_line8 | radar
+double
+term
+loud
+vapor
+better
+catch
+blouse |  
+| bip_39_word_new_line9 | radar
+double
+term
+loud
+vapor
+better
+catch
+blouse
+cool |  
+| bip_39_word_space_0 | ['radar', 'double', 'term', 'loud', 'vapor', 'better', 'catch', 'blouse', 'cool', 'bottom', 'enlist', 'apple'] |  
+| bip_39_word_space_1 | radar |  
+| bip_39_word_space_10 | radar double term loud vapor better catch blouse cool bottom |  
+| bip_39_word_space_11 | radar double term loud vapor better catch blouse cool bottom enlist |  
+| bip_39_word_space_12 | radar double term loud vapor better catch blouse cool bottom enlist apple |  
+| bip_39_word_space_2 | radar double |  
+| bip_39_word_space_3 | radar double term |  
+| bip_39_word_space_4 | radar double term loud |  
+| bip_39_word_space_5 | radar double term loud vapor |  
+| bip_39_word_space_6 | radar double term loud vapor better |  
+| bip_39_word_space_7 | radar double term loud vapor better catch |  
+| bip_39_word_space_8 | radar double term loud vapor better catch blouse |  
+| bip_39_word_space_9 | radar double term loud vapor better catch blouse cool |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

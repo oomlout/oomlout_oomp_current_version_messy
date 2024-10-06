@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chunk useful
+  * bip 39 word 3: chunk useful uniform
+  * bip 39 word: chunk useful uniform abstract derive sword chapter labor glimpse pair pig accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chunk |  
+| bip_39_word_new_br10 | chunk<br>useful<br>uniform<br>abstract<br>derive<br>sword<br>chapter<br>labor<br>glimpse<br>pair |  
+| bip_39_word_new_br11 | chunk<br>useful<br>uniform<br>abstract<br>derive<br>sword<br>chapter<br>labor<br>glimpse<br>pair<br>pig |  
+| bip_39_word_new_br12 | chunk<br>useful<br>uniform<br>abstract<br>derive<br>sword<br>chapter<br>labor<br>glimpse<br>pair<br>pig<br>accuse |  
+| bip_39_word_new_br2 | chunk<br>useful |  
+| bip_39_word_new_br3 | chunk<br>useful<br>uniform |  
+| bip_39_word_new_br4 | chunk<br>useful<br>uniform<br>abstract |  
+| bip_39_word_new_br5 | chunk<br>useful<br>uniform<br>abstract<br>derive |  
+| bip_39_word_new_br6 | chunk<br>useful<br>uniform<br>abstract<br>derive<br>sword |  
+| bip_39_word_new_br7 | chunk<br>useful<br>uniform<br>abstract<br>derive<br>sword<br>chapter |  
+| bip_39_word_new_br8 | chunk<br>useful<br>uniform<br>abstract<br>derive<br>sword<br>chapter<br>labor |  
+| bip_39_word_new_br9 | chunk<br>useful<br>uniform<br>abstract<br>derive<br>sword<br>chapter<br>labor<br>glimpse |  
+| bip_39_word_new_line1 | chunk |  
+| bip_39_word_new_line10 | chunk
+useful
+uniform
+abstract
+derive
+sword
+chapter
+labor
+glimpse
+pair |  
+| bip_39_word_new_line11 | chunk
+useful
+uniform
+abstract
+derive
+sword
+chapter
+labor
+glimpse
+pair
+pig |  
+| bip_39_word_new_line12 | chunk
+useful
+uniform
+abstract
+derive
+sword
+chapter
+labor
+glimpse
+pair
+pig
+accuse |  
+| bip_39_word_new_line2 | chunk
+useful |  
+| bip_39_word_new_line3 | chunk
+useful
+uniform |  
+| bip_39_word_new_line4 | chunk
+useful
+uniform
+abstract |  
+| bip_39_word_new_line5 | chunk
+useful
+uniform
+abstract
+derive |  
+| bip_39_word_new_line6 | chunk
+useful
+uniform
+abstract
+derive
+sword |  
+| bip_39_word_new_line7 | chunk
+useful
+uniform
+abstract
+derive
+sword
+chapter |  
+| bip_39_word_new_line8 | chunk
+useful
+uniform
+abstract
+derive
+sword
+chapter
+labor |  
+| bip_39_word_new_line9 | chunk
+useful
+uniform
+abstract
+derive
+sword
+chapter
+labor
+glimpse |  
+| bip_39_word_space_0 | ['chunk', 'useful', 'uniform', 'abstract', 'derive', 'sword', 'chapter', 'labor', 'glimpse', 'pair', 'pig', 'accuse'] |  
+| bip_39_word_space_1 | chunk |  
+| bip_39_word_space_10 | chunk useful uniform abstract derive sword chapter labor glimpse pair |  
+| bip_39_word_space_11 | chunk useful uniform abstract derive sword chapter labor glimpse pair pig |  
+| bip_39_word_space_12 | chunk useful uniform abstract derive sword chapter labor glimpse pair pig accuse |  
+| bip_39_word_space_2 | chunk useful |  
+| bip_39_word_space_3 | chunk useful uniform |  
+| bip_39_word_space_4 | chunk useful uniform abstract |  
+| bip_39_word_space_5 | chunk useful uniform abstract derive |  
+| bip_39_word_space_6 | chunk useful uniform abstract derive sword |  
+| bip_39_word_space_7 | chunk useful uniform abstract derive sword chapter |  
+| bip_39_word_space_8 | chunk useful uniform abstract derive sword chapter labor |  
+| bip_39_word_space_9 | chunk useful uniform abstract derive sword chapter labor glimpse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

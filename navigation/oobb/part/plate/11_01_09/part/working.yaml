@@ -1,3 +1,187 @@
+bip_39_word_new_br1: term
+bip_39_word_new_br10: term<br>behind<br>marriage<br>identify<br>velvet<br>clean<br>still<br>merge<br>pledge<br>vibrant
+bip_39_word_new_br11: term<br>behind<br>marriage<br>identify<br>velvet<br>clean<br>still<br>merge<br>pledge<br>vibrant<br>chef
+bip_39_word_new_br12: term<br>behind<br>marriage<br>identify<br>velvet<br>clean<br>still<br>merge<br>pledge<br>vibrant<br>chef<br>air
+bip_39_word_new_br2: term<br>behind
+bip_39_word_new_br3: term<br>behind<br>marriage
+bip_39_word_new_br4: term<br>behind<br>marriage<br>identify
+bip_39_word_new_br5: term<br>behind<br>marriage<br>identify<br>velvet
+bip_39_word_new_br6: term<br>behind<br>marriage<br>identify<br>velvet<br>clean
+bip_39_word_new_br7: term<br>behind<br>marriage<br>identify<br>velvet<br>clean<br>still
+bip_39_word_new_br8: term<br>behind<br>marriage<br>identify<br>velvet<br>clean<br>still<br>merge
+bip_39_word_new_br9: term<br>behind<br>marriage<br>identify<br>velvet<br>clean<br>still<br>merge<br>pledge
+bip_39_word_new_line1: term
+bip_39_word_new_line10: 'term
+
+  behind
+
+  marriage
+
+  identify
+
+  velvet
+
+  clean
+
+  still
+
+  merge
+
+  pledge
+
+  vibrant'
+bip_39_word_new_line11: 'term
+
+  behind
+
+  marriage
+
+  identify
+
+  velvet
+
+  clean
+
+  still
+
+  merge
+
+  pledge
+
+  vibrant
+
+  chef'
+bip_39_word_new_line12: 'term
+
+  behind
+
+  marriage
+
+  identify
+
+  velvet
+
+  clean
+
+  still
+
+  merge
+
+  pledge
+
+  vibrant
+
+  chef
+
+  air'
+bip_39_word_new_line2: 'term
+
+  behind'
+bip_39_word_new_line3: 'term
+
+  behind
+
+  marriage'
+bip_39_word_new_line4: 'term
+
+  behind
+
+  marriage
+
+  identify'
+bip_39_word_new_line5: 'term
+
+  behind
+
+  marriage
+
+  identify
+
+  velvet'
+bip_39_word_new_line6: 'term
+
+  behind
+
+  marriage
+
+  identify
+
+  velvet
+
+  clean'
+bip_39_word_new_line7: 'term
+
+  behind
+
+  marriage
+
+  identify
+
+  velvet
+
+  clean
+
+  still'
+bip_39_word_new_line8: 'term
+
+  behind
+
+  marriage
+
+  identify
+
+  velvet
+
+  clean
+
+  still
+
+  merge'
+bip_39_word_new_line9: 'term
+
+  behind
+
+  marriage
+
+  identify
+
+  velvet
+
+  clean
+
+  still
+
+  merge
+
+  pledge'
+bip_39_word_space_0:
+- term
+- behind
+- marriage
+- identify
+- velvet
+- clean
+- still
+- merge
+- pledge
+- vibrant
+- chef
+- air
+bip_39_word_space_1: term
+bip_39_word_space_10: term behind marriage identify velvet clean still merge pledge
+  vibrant
+bip_39_word_space_11: term behind marriage identify velvet clean still merge pledge
+  vibrant chef
+bip_39_word_space_12: term behind marriage identify velvet clean still merge pledge
+  vibrant chef air
+bip_39_word_space_2: term behind
+bip_39_word_space_3: term behind marriage
+bip_39_word_space_4: term behind marriage identify
+bip_39_word_space_5: term behind marriage identify velvet
+bip_39_word_space_6: term behind marriage identify velvet clean
+bip_39_word_space_7: term behind marriage identify velvet clean still
+bip_39_word_space_8: term behind marriage identify velvet clean still merge
+bip_39_word_space_9: term behind marriage identify velvet clean still merge pledge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

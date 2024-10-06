@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brand clinic
+  * bip 39 word 3: brand clinic expire
+  * bip 39 word: brand clinic expire retire athlete dragon silly still forget risk access air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brand |  
+| bip_39_word_new_br10 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon<br>silly<br>still<br>forget<br>risk |  
+| bip_39_word_new_br11 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon<br>silly<br>still<br>forget<br>risk<br>access |  
+| bip_39_word_new_br12 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon<br>silly<br>still<br>forget<br>risk<br>access<br>air |  
+| bip_39_word_new_br2 | brand<br>clinic |  
+| bip_39_word_new_br3 | brand<br>clinic<br>expire |  
+| bip_39_word_new_br4 | brand<br>clinic<br>expire<br>retire |  
+| bip_39_word_new_br5 | brand<br>clinic<br>expire<br>retire<br>athlete |  
+| bip_39_word_new_br6 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon |  
+| bip_39_word_new_br7 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon<br>silly |  
+| bip_39_word_new_br8 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon<br>silly<br>still |  
+| bip_39_word_new_br9 | brand<br>clinic<br>expire<br>retire<br>athlete<br>dragon<br>silly<br>still<br>forget |  
+| bip_39_word_new_line1 | brand |  
+| bip_39_word_new_line10 | brand
+clinic
+expire
+retire
+athlete
+dragon
+silly
+still
+forget
+risk |  
+| bip_39_word_new_line11 | brand
+clinic
+expire
+retire
+athlete
+dragon
+silly
+still
+forget
+risk
+access |  
+| bip_39_word_new_line12 | brand
+clinic
+expire
+retire
+athlete
+dragon
+silly
+still
+forget
+risk
+access
+air |  
+| bip_39_word_new_line2 | brand
+clinic |  
+| bip_39_word_new_line3 | brand
+clinic
+expire |  
+| bip_39_word_new_line4 | brand
+clinic
+expire
+retire |  
+| bip_39_word_new_line5 | brand
+clinic
+expire
+retire
+athlete |  
+| bip_39_word_new_line6 | brand
+clinic
+expire
+retire
+athlete
+dragon |  
+| bip_39_word_new_line7 | brand
+clinic
+expire
+retire
+athlete
+dragon
+silly |  
+| bip_39_word_new_line8 | brand
+clinic
+expire
+retire
+athlete
+dragon
+silly
+still |  
+| bip_39_word_new_line9 | brand
+clinic
+expire
+retire
+athlete
+dragon
+silly
+still
+forget |  
+| bip_39_word_space_0 | ['brand', 'clinic', 'expire', 'retire', 'athlete', 'dragon', 'silly', 'still', 'forget', 'risk', 'access', 'air'] |  
+| bip_39_word_space_1 | brand |  
+| bip_39_word_space_10 | brand clinic expire retire athlete dragon silly still forget risk |  
+| bip_39_word_space_11 | brand clinic expire retire athlete dragon silly still forget risk access |  
+| bip_39_word_space_12 | brand clinic expire retire athlete dragon silly still forget risk access air |  
+| bip_39_word_space_2 | brand clinic |  
+| bip_39_word_space_3 | brand clinic expire |  
+| bip_39_word_space_4 | brand clinic expire retire |  
+| bip_39_word_space_5 | brand clinic expire retire athlete |  
+| bip_39_word_space_6 | brand clinic expire retire athlete dragon |  
+| bip_39_word_space_7 | brand clinic expire retire athlete dragon silly |  
+| bip_39_word_space_8 | brand clinic expire retire athlete dragon silly still |  
+| bip_39_word_space_9 | brand clinic expire retire athlete dragon silly still forget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

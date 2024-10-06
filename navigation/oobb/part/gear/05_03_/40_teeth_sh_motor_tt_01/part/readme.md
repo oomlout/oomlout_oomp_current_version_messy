@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wolf dumb
+  * bip 39 word 3: wolf dumb film
+  * bip 39 word: wolf dumb film trend exercise buffalo afraid slight cargo drama humor artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wolf |  
+| bip_39_word_new_br10 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama |  
+| bip_39_word_new_br11 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama<br>humor |  
+| bip_39_word_new_br12 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo<br>drama<br>humor<br>artist |  
+| bip_39_word_new_br2 | wolf<br>dumb |  
+| bip_39_word_new_br3 | wolf<br>dumb<br>film |  
+| bip_39_word_new_br4 | wolf<br>dumb<br>film<br>trend |  
+| bip_39_word_new_br5 | wolf<br>dumb<br>film<br>trend<br>exercise |  
+| bip_39_word_new_br6 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo |  
+| bip_39_word_new_br7 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid |  
+| bip_39_word_new_br8 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight |  
+| bip_39_word_new_br9 | wolf<br>dumb<br>film<br>trend<br>exercise<br>buffalo<br>afraid<br>slight<br>cargo |  
+| bip_39_word_new_line1 | wolf |  
+| bip_39_word_new_line10 | wolf
+dumb
+film
+trend
+exercise
+buffalo
+afraid
+slight
+cargo
+drama |  
+| bip_39_word_new_line11 | wolf
+dumb
+film
+trend
+exercise
+buffalo
+afraid
+slight
+cargo
+drama
+humor |  
+| bip_39_word_new_line12 | wolf
+dumb
+film
+trend
+exercise
+buffalo
+afraid
+slight
+cargo
+drama
+humor
+artist |  
+| bip_39_word_new_line2 | wolf
+dumb |  
+| bip_39_word_new_line3 | wolf
+dumb
+film |  
+| bip_39_word_new_line4 | wolf
+dumb
+film
+trend |  
+| bip_39_word_new_line5 | wolf
+dumb
+film
+trend
+exercise |  
+| bip_39_word_new_line6 | wolf
+dumb
+film
+trend
+exercise
+buffalo |  
+| bip_39_word_new_line7 | wolf
+dumb
+film
+trend
+exercise
+buffalo
+afraid |  
+| bip_39_word_new_line8 | wolf
+dumb
+film
+trend
+exercise
+buffalo
+afraid
+slight |  
+| bip_39_word_new_line9 | wolf
+dumb
+film
+trend
+exercise
+buffalo
+afraid
+slight
+cargo |  
+| bip_39_word_space_0 | ['wolf', 'dumb', 'film', 'trend', 'exercise', 'buffalo', 'afraid', 'slight', 'cargo', 'drama', 'humor', 'artist'] |  
+| bip_39_word_space_1 | wolf |  
+| bip_39_word_space_10 | wolf dumb film trend exercise buffalo afraid slight cargo drama |  
+| bip_39_word_space_11 | wolf dumb film trend exercise buffalo afraid slight cargo drama humor |  
+| bip_39_word_space_12 | wolf dumb film trend exercise buffalo afraid slight cargo drama humor artist |  
+| bip_39_word_space_2 | wolf dumb |  
+| bip_39_word_space_3 | wolf dumb film |  
+| bip_39_word_space_4 | wolf dumb film trend |  
+| bip_39_word_space_5 | wolf dumb film trend exercise |  
+| bip_39_word_space_6 | wolf dumb film trend exercise buffalo |  
+| bip_39_word_space_7 | wolf dumb film trend exercise buffalo afraid |  
+| bip_39_word_space_8 | wolf dumb film trend exercise buffalo afraid slight |  
+| bip_39_word_space_9 | wolf dumb film trend exercise buffalo afraid slight cargo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

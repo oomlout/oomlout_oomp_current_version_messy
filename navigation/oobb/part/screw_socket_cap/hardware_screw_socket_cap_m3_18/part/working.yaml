@@ -1,3 +1,185 @@
+bip_39_word_new_br1: enough
+bip_39_word_new_br10: enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost
+bip_39_word_new_br11: enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost<br>unlock
+bip_39_word_new_br12: enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen<br>ghost<br>unlock<br>always
+bip_39_word_new_br2: enough<br>turn
+bip_39_word_new_br3: enough<br>turn<br>sting
+bip_39_word_new_br4: enough<br>turn<br>sting<br>noble
+bip_39_word_new_br5: enough<br>turn<br>sting<br>noble<br>rally
+bip_39_word_new_br6: enough<br>turn<br>sting<br>noble<br>rally<br>spirit
+bip_39_word_new_br7: enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief
+bip_39_word_new_br8: enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza
+bip_39_word_new_br9: enough<br>turn<br>sting<br>noble<br>rally<br>spirit<br>brief<br>pizza<br>hen
+bip_39_word_new_line1: enough
+bip_39_word_new_line10: 'enough
+
+  turn
+
+  sting
+
+  noble
+
+  rally
+
+  spirit
+
+  brief
+
+  pizza
+
+  hen
+
+  ghost'
+bip_39_word_new_line11: 'enough
+
+  turn
+
+  sting
+
+  noble
+
+  rally
+
+  spirit
+
+  brief
+
+  pizza
+
+  hen
+
+  ghost
+
+  unlock'
+bip_39_word_new_line12: 'enough
+
+  turn
+
+  sting
+
+  noble
+
+  rally
+
+  spirit
+
+  brief
+
+  pizza
+
+  hen
+
+  ghost
+
+  unlock
+
+  always'
+bip_39_word_new_line2: 'enough
+
+  turn'
+bip_39_word_new_line3: 'enough
+
+  turn
+
+  sting'
+bip_39_word_new_line4: 'enough
+
+  turn
+
+  sting
+
+  noble'
+bip_39_word_new_line5: 'enough
+
+  turn
+
+  sting
+
+  noble
+
+  rally'
+bip_39_word_new_line6: 'enough
+
+  turn
+
+  sting
+
+  noble
+
+  rally
+
+  spirit'
+bip_39_word_new_line7: 'enough
+
+  turn
+
+  sting
+
+  noble
+
+  rally
+
+  spirit
+
+  brief'
+bip_39_word_new_line8: 'enough
+
+  turn
+
+  sting
+
+  noble
+
+  rally
+
+  spirit
+
+  brief
+
+  pizza'
+bip_39_word_new_line9: 'enough
+
+  turn
+
+  sting
+
+  noble
+
+  rally
+
+  spirit
+
+  brief
+
+  pizza
+
+  hen'
+bip_39_word_space_0:
+- enough
+- turn
+- sting
+- noble
+- rally
+- spirit
+- brief
+- pizza
+- hen
+- ghost
+- unlock
+- always
+bip_39_word_space_1: enough
+bip_39_word_space_10: enough turn sting noble rally spirit brief pizza hen ghost
+bip_39_word_space_11: enough turn sting noble rally spirit brief pizza hen ghost unlock
+bip_39_word_space_12: enough turn sting noble rally spirit brief pizza hen ghost unlock
+  always
+bip_39_word_space_2: enough turn
+bip_39_word_space_3: enough turn sting
+bip_39_word_space_4: enough turn sting noble
+bip_39_word_space_5: enough turn sting noble rally
+bip_39_word_space_6: enough turn sting noble rally spirit
+bip_39_word_space_7: enough turn sting noble rally spirit brief
+bip_39_word_space_8: enough turn sting noble rally spirit brief pizza
+bip_39_word_space_9: enough turn sting noble rally spirit brief pizza hen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quiz unique
+  * bip 39 word 3: quiz unique volume
+  * bip 39 word: quiz unique volume napkin cousin display fiscal grant announce raven organ aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quiz |  
+| bip_39_word_new_br10 | quiz<br>unique<br>volume<br>napkin<br>cousin<br>display<br>fiscal<br>grant<br>announce<br>raven |  
+| bip_39_word_new_br11 | quiz<br>unique<br>volume<br>napkin<br>cousin<br>display<br>fiscal<br>grant<br>announce<br>raven<br>organ |  
+| bip_39_word_new_br12 | quiz<br>unique<br>volume<br>napkin<br>cousin<br>display<br>fiscal<br>grant<br>announce<br>raven<br>organ<br>aisle |  
+| bip_39_word_new_br2 | quiz<br>unique |  
+| bip_39_word_new_br3 | quiz<br>unique<br>volume |  
+| bip_39_word_new_br4 | quiz<br>unique<br>volume<br>napkin |  
+| bip_39_word_new_br5 | quiz<br>unique<br>volume<br>napkin<br>cousin |  
+| bip_39_word_new_br6 | quiz<br>unique<br>volume<br>napkin<br>cousin<br>display |  
+| bip_39_word_new_br7 | quiz<br>unique<br>volume<br>napkin<br>cousin<br>display<br>fiscal |  
+| bip_39_word_new_br8 | quiz<br>unique<br>volume<br>napkin<br>cousin<br>display<br>fiscal<br>grant |  
+| bip_39_word_new_br9 | quiz<br>unique<br>volume<br>napkin<br>cousin<br>display<br>fiscal<br>grant<br>announce |  
+| bip_39_word_new_line1 | quiz |  
+| bip_39_word_new_line10 | quiz
+unique
+volume
+napkin
+cousin
+display
+fiscal
+grant
+announce
+raven |  
+| bip_39_word_new_line11 | quiz
+unique
+volume
+napkin
+cousin
+display
+fiscal
+grant
+announce
+raven
+organ |  
+| bip_39_word_new_line12 | quiz
+unique
+volume
+napkin
+cousin
+display
+fiscal
+grant
+announce
+raven
+organ
+aisle |  
+| bip_39_word_new_line2 | quiz
+unique |  
+| bip_39_word_new_line3 | quiz
+unique
+volume |  
+| bip_39_word_new_line4 | quiz
+unique
+volume
+napkin |  
+| bip_39_word_new_line5 | quiz
+unique
+volume
+napkin
+cousin |  
+| bip_39_word_new_line6 | quiz
+unique
+volume
+napkin
+cousin
+display |  
+| bip_39_word_new_line7 | quiz
+unique
+volume
+napkin
+cousin
+display
+fiscal |  
+| bip_39_word_new_line8 | quiz
+unique
+volume
+napkin
+cousin
+display
+fiscal
+grant |  
+| bip_39_word_new_line9 | quiz
+unique
+volume
+napkin
+cousin
+display
+fiscal
+grant
+announce |  
+| bip_39_word_space_0 | ['quiz', 'unique', 'volume', 'napkin', 'cousin', 'display', 'fiscal', 'grant', 'announce', 'raven', 'organ', 'aisle'] |  
+| bip_39_word_space_1 | quiz |  
+| bip_39_word_space_10 | quiz unique volume napkin cousin display fiscal grant announce raven |  
+| bip_39_word_space_11 | quiz unique volume napkin cousin display fiscal grant announce raven organ |  
+| bip_39_word_space_12 | quiz unique volume napkin cousin display fiscal grant announce raven organ aisle |  
+| bip_39_word_space_2 | quiz unique |  
+| bip_39_word_space_3 | quiz unique volume |  
+| bip_39_word_space_4 | quiz unique volume napkin |  
+| bip_39_word_space_5 | quiz unique volume napkin cousin |  
+| bip_39_word_space_6 | quiz unique volume napkin cousin display |  
+| bip_39_word_space_7 | quiz unique volume napkin cousin display fiscal |  
+| bip_39_word_space_8 | quiz unique volume napkin cousin display fiscal grant |  
+| bip_39_word_space_9 | quiz unique volume napkin cousin display fiscal grant announce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

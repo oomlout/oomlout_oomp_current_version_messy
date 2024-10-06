@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: action laugh
+  * bip 39 word 3: action laugh panic
+  * bip 39 word: action laugh panic side text bread doll flag upset dismiss phone amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | action |  
+| bip_39_word_new_br10 | action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss |  
+| bip_39_word_new_br11 | action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss<br>phone |  
+| bip_39_word_new_br12 | action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset<br>dismiss<br>phone<br>amazing |  
+| bip_39_word_new_br2 | action<br>laugh |  
+| bip_39_word_new_br3 | action<br>laugh<br>panic |  
+| bip_39_word_new_br4 | action<br>laugh<br>panic<br>side |  
+| bip_39_word_new_br5 | action<br>laugh<br>panic<br>side<br>text |  
+| bip_39_word_new_br6 | action<br>laugh<br>panic<br>side<br>text<br>bread |  
+| bip_39_word_new_br7 | action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll |  
+| bip_39_word_new_br8 | action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag |  
+| bip_39_word_new_br9 | action<br>laugh<br>panic<br>side<br>text<br>bread<br>doll<br>flag<br>upset |  
+| bip_39_word_new_line1 | action |  
+| bip_39_word_new_line10 | action
+laugh
+panic
+side
+text
+bread
+doll
+flag
+upset
+dismiss |  
+| bip_39_word_new_line11 | action
+laugh
+panic
+side
+text
+bread
+doll
+flag
+upset
+dismiss
+phone |  
+| bip_39_word_new_line12 | action
+laugh
+panic
+side
+text
+bread
+doll
+flag
+upset
+dismiss
+phone
+amazing |  
+| bip_39_word_new_line2 | action
+laugh |  
+| bip_39_word_new_line3 | action
+laugh
+panic |  
+| bip_39_word_new_line4 | action
+laugh
+panic
+side |  
+| bip_39_word_new_line5 | action
+laugh
+panic
+side
+text |  
+| bip_39_word_new_line6 | action
+laugh
+panic
+side
+text
+bread |  
+| bip_39_word_new_line7 | action
+laugh
+panic
+side
+text
+bread
+doll |  
+| bip_39_word_new_line8 | action
+laugh
+panic
+side
+text
+bread
+doll
+flag |  
+| bip_39_word_new_line9 | action
+laugh
+panic
+side
+text
+bread
+doll
+flag
+upset |  
+| bip_39_word_space_0 | ['action', 'laugh', 'panic', 'side', 'text', 'bread', 'doll', 'flag', 'upset', 'dismiss', 'phone', 'amazing'] |  
+| bip_39_word_space_1 | action |  
+| bip_39_word_space_10 | action laugh panic side text bread doll flag upset dismiss |  
+| bip_39_word_space_11 | action laugh panic side text bread doll flag upset dismiss phone |  
+| bip_39_word_space_12 | action laugh panic side text bread doll flag upset dismiss phone amazing |  
+| bip_39_word_space_2 | action laugh |  
+| bip_39_word_space_3 | action laugh panic |  
+| bip_39_word_space_4 | action laugh panic side |  
+| bip_39_word_space_5 | action laugh panic side text |  
+| bip_39_word_space_6 | action laugh panic side text bread |  
+| bip_39_word_space_7 | action laugh panic side text bread doll |  
+| bip_39_word_space_8 | action laugh panic side text bread doll flag |  
+| bip_39_word_space_9 | action laugh panic side text bread doll flag upset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

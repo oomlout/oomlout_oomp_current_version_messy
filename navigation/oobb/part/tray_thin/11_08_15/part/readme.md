@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enforce swallow
+  * bip 39 word 3: enforce swallow category
+  * bip 39 word: enforce swallow category skull panther law hope federal teach noodle buzz actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enforce |  
+| bip_39_word_new_br10 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle |  
+| bip_39_word_new_br11 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle<br>buzz |  
+| bip_39_word_new_br12 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach<br>noodle<br>buzz<br>actress |  
+| bip_39_word_new_br2 | enforce<br>swallow |  
+| bip_39_word_new_br3 | enforce<br>swallow<br>category |  
+| bip_39_word_new_br4 | enforce<br>swallow<br>category<br>skull |  
+| bip_39_word_new_br5 | enforce<br>swallow<br>category<br>skull<br>panther |  
+| bip_39_word_new_br6 | enforce<br>swallow<br>category<br>skull<br>panther<br>law |  
+| bip_39_word_new_br7 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope |  
+| bip_39_word_new_br8 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal |  
+| bip_39_word_new_br9 | enforce<br>swallow<br>category<br>skull<br>panther<br>law<br>hope<br>federal<br>teach |  
+| bip_39_word_new_line1 | enforce |  
+| bip_39_word_new_line10 | enforce
+swallow
+category
+skull
+panther
+law
+hope
+federal
+teach
+noodle |  
+| bip_39_word_new_line11 | enforce
+swallow
+category
+skull
+panther
+law
+hope
+federal
+teach
+noodle
+buzz |  
+| bip_39_word_new_line12 | enforce
+swallow
+category
+skull
+panther
+law
+hope
+federal
+teach
+noodle
+buzz
+actress |  
+| bip_39_word_new_line2 | enforce
+swallow |  
+| bip_39_word_new_line3 | enforce
+swallow
+category |  
+| bip_39_word_new_line4 | enforce
+swallow
+category
+skull |  
+| bip_39_word_new_line5 | enforce
+swallow
+category
+skull
+panther |  
+| bip_39_word_new_line6 | enforce
+swallow
+category
+skull
+panther
+law |  
+| bip_39_word_new_line7 | enforce
+swallow
+category
+skull
+panther
+law
+hope |  
+| bip_39_word_new_line8 | enforce
+swallow
+category
+skull
+panther
+law
+hope
+federal |  
+| bip_39_word_new_line9 | enforce
+swallow
+category
+skull
+panther
+law
+hope
+federal
+teach |  
+| bip_39_word_space_0 | ['enforce', 'swallow', 'category', 'skull', 'panther', 'law', 'hope', 'federal', 'teach', 'noodle', 'buzz', 'actress'] |  
+| bip_39_word_space_1 | enforce |  
+| bip_39_word_space_10 | enforce swallow category skull panther law hope federal teach noodle |  
+| bip_39_word_space_11 | enforce swallow category skull panther law hope federal teach noodle buzz |  
+| bip_39_word_space_12 | enforce swallow category skull panther law hope federal teach noodle buzz actress |  
+| bip_39_word_space_2 | enforce swallow |  
+| bip_39_word_space_3 | enforce swallow category |  
+| bip_39_word_space_4 | enforce swallow category skull |  
+| bip_39_word_space_5 | enforce swallow category skull panther |  
+| bip_39_word_space_6 | enforce swallow category skull panther law |  
+| bip_39_word_space_7 | enforce swallow category skull panther law hope |  
+| bip_39_word_space_8 | enforce swallow category skull panther law hope federal |  
+| bip_39_word_space_9 | enforce swallow category skull panther law hope federal teach |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

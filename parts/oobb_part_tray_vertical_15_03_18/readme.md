@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: physical victory
+  * bip 39 word 3: physical victory impulse
+  * bip 39 word: physical victory impulse churn toe execute cliff wish echo slender disagree amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | physical |  
+| bip_39_word_new_br10 | physical<br>victory<br>impulse<br>churn<br>toe<br>execute<br>cliff<br>wish<br>echo<br>slender |  
+| bip_39_word_new_br11 | physical<br>victory<br>impulse<br>churn<br>toe<br>execute<br>cliff<br>wish<br>echo<br>slender<br>disagree |  
+| bip_39_word_new_br12 | physical<br>victory<br>impulse<br>churn<br>toe<br>execute<br>cliff<br>wish<br>echo<br>slender<br>disagree<br>amused |  
+| bip_39_word_new_br2 | physical<br>victory |  
+| bip_39_word_new_br3 | physical<br>victory<br>impulse |  
+| bip_39_word_new_br4 | physical<br>victory<br>impulse<br>churn |  
+| bip_39_word_new_br5 | physical<br>victory<br>impulse<br>churn<br>toe |  
+| bip_39_word_new_br6 | physical<br>victory<br>impulse<br>churn<br>toe<br>execute |  
+| bip_39_word_new_br7 | physical<br>victory<br>impulse<br>churn<br>toe<br>execute<br>cliff |  
+| bip_39_word_new_br8 | physical<br>victory<br>impulse<br>churn<br>toe<br>execute<br>cliff<br>wish |  
+| bip_39_word_new_br9 | physical<br>victory<br>impulse<br>churn<br>toe<br>execute<br>cliff<br>wish<br>echo |  
+| bip_39_word_new_line1 | physical |  
+| bip_39_word_new_line10 | physical
+victory
+impulse
+churn
+toe
+execute
+cliff
+wish
+echo
+slender |  
+| bip_39_word_new_line11 | physical
+victory
+impulse
+churn
+toe
+execute
+cliff
+wish
+echo
+slender
+disagree |  
+| bip_39_word_new_line12 | physical
+victory
+impulse
+churn
+toe
+execute
+cliff
+wish
+echo
+slender
+disagree
+amused |  
+| bip_39_word_new_line2 | physical
+victory |  
+| bip_39_word_new_line3 | physical
+victory
+impulse |  
+| bip_39_word_new_line4 | physical
+victory
+impulse
+churn |  
+| bip_39_word_new_line5 | physical
+victory
+impulse
+churn
+toe |  
+| bip_39_word_new_line6 | physical
+victory
+impulse
+churn
+toe
+execute |  
+| bip_39_word_new_line7 | physical
+victory
+impulse
+churn
+toe
+execute
+cliff |  
+| bip_39_word_new_line8 | physical
+victory
+impulse
+churn
+toe
+execute
+cliff
+wish |  
+| bip_39_word_new_line9 | physical
+victory
+impulse
+churn
+toe
+execute
+cliff
+wish
+echo |  
+| bip_39_word_space_0 | ['physical', 'victory', 'impulse', 'churn', 'toe', 'execute', 'cliff', 'wish', 'echo', 'slender', 'disagree', 'amused'] |  
+| bip_39_word_space_1 | physical |  
+| bip_39_word_space_10 | physical victory impulse churn toe execute cliff wish echo slender |  
+| bip_39_word_space_11 | physical victory impulse churn toe execute cliff wish echo slender disagree |  
+| bip_39_word_space_12 | physical victory impulse churn toe execute cliff wish echo slender disagree amused |  
+| bip_39_word_space_2 | physical victory |  
+| bip_39_word_space_3 | physical victory impulse |  
+| bip_39_word_space_4 | physical victory impulse churn |  
+| bip_39_word_space_5 | physical victory impulse churn toe |  
+| bip_39_word_space_6 | physical victory impulse churn toe execute |  
+| bip_39_word_space_7 | physical victory impulse churn toe execute cliff |  
+| bip_39_word_space_8 | physical victory impulse churn toe execute cliff wish |  
+| bip_39_word_space_9 | physical victory impulse churn toe execute cliff wish echo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

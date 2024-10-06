@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: library project
+  * bip 39 word 3: library project cattle
+  * bip 39 word: library project cattle patient video manual apple hospital senior total later another
 
 ### other_codes
 * short_code: so3nw12sn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | library |  
+| bip_39_word_new_br10 | library<br>project<br>cattle<br>patient<br>video<br>manual<br>apple<br>hospital<br>senior<br>total |  
+| bip_39_word_new_br11 | library<br>project<br>cattle<br>patient<br>video<br>manual<br>apple<br>hospital<br>senior<br>total<br>later |  
+| bip_39_word_new_br12 | library<br>project<br>cattle<br>patient<br>video<br>manual<br>apple<br>hospital<br>senior<br>total<br>later<br>another |  
+| bip_39_word_new_br2 | library<br>project |  
+| bip_39_word_new_br3 | library<br>project<br>cattle |  
+| bip_39_word_new_br4 | library<br>project<br>cattle<br>patient |  
+| bip_39_word_new_br5 | library<br>project<br>cattle<br>patient<br>video |  
+| bip_39_word_new_br6 | library<br>project<br>cattle<br>patient<br>video<br>manual |  
+| bip_39_word_new_br7 | library<br>project<br>cattle<br>patient<br>video<br>manual<br>apple |  
+| bip_39_word_new_br8 | library<br>project<br>cattle<br>patient<br>video<br>manual<br>apple<br>hospital |  
+| bip_39_word_new_br9 | library<br>project<br>cattle<br>patient<br>video<br>manual<br>apple<br>hospital<br>senior |  
+| bip_39_word_new_line1 | library |  
+| bip_39_word_new_line10 | library
+project
+cattle
+patient
+video
+manual
+apple
+hospital
+senior
+total |  
+| bip_39_word_new_line11 | library
+project
+cattle
+patient
+video
+manual
+apple
+hospital
+senior
+total
+later |  
+| bip_39_word_new_line12 | library
+project
+cattle
+patient
+video
+manual
+apple
+hospital
+senior
+total
+later
+another |  
+| bip_39_word_new_line2 | library
+project |  
+| bip_39_word_new_line3 | library
+project
+cattle |  
+| bip_39_word_new_line4 | library
+project
+cattle
+patient |  
+| bip_39_word_new_line5 | library
+project
+cattle
+patient
+video |  
+| bip_39_word_new_line6 | library
+project
+cattle
+patient
+video
+manual |  
+| bip_39_word_new_line7 | library
+project
+cattle
+patient
+video
+manual
+apple |  
+| bip_39_word_new_line8 | library
+project
+cattle
+patient
+video
+manual
+apple
+hospital |  
+| bip_39_word_new_line9 | library
+project
+cattle
+patient
+video
+manual
+apple
+hospital
+senior |  
+| bip_39_word_space_0 | ['library', 'project', 'cattle', 'patient', 'video', 'manual', 'apple', 'hospital', 'senior', 'total', 'later', 'another'] |  
+| bip_39_word_space_1 | library |  
+| bip_39_word_space_10 | library project cattle patient video manual apple hospital senior total |  
+| bip_39_word_space_11 | library project cattle patient video manual apple hospital senior total later |  
+| bip_39_word_space_12 | library project cattle patient video manual apple hospital senior total later another |  
+| bip_39_word_space_2 | library project |  
+| bip_39_word_space_3 | library project cattle |  
+| bip_39_word_space_4 | library project cattle patient |  
+| bip_39_word_space_5 | library project cattle patient video |  
+| bip_39_word_space_6 | library project cattle patient video manual |  
+| bip_39_word_space_7 | library project cattle patient video manual apple |  
+| bip_39_word_space_8 | library project cattle patient video manual apple hospital |  
+| bip_39_word_space_9 | library project cattle patient video manual apple hospital senior |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

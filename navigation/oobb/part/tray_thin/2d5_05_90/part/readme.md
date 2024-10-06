@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stay praise
+  * bip 39 word 3: stay praise image
+  * bip 39 word: stay praise image minor task magic axis grass table rubber garden accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stay |  
+| bip_39_word_new_br10 | stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table<br>rubber |  
+| bip_39_word_new_br11 | stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table<br>rubber<br>garden |  
+| bip_39_word_new_br12 | stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table<br>rubber<br>garden<br>accident |  
+| bip_39_word_new_br2 | stay<br>praise |  
+| bip_39_word_new_br3 | stay<br>praise<br>image |  
+| bip_39_word_new_br4 | stay<br>praise<br>image<br>minor |  
+| bip_39_word_new_br5 | stay<br>praise<br>image<br>minor<br>task |  
+| bip_39_word_new_br6 | stay<br>praise<br>image<br>minor<br>task<br>magic |  
+| bip_39_word_new_br7 | stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis |  
+| bip_39_word_new_br8 | stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass |  
+| bip_39_word_new_br9 | stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table |  
+| bip_39_word_new_line1 | stay |  
+| bip_39_word_new_line10 | stay
+praise
+image
+minor
+task
+magic
+axis
+grass
+table
+rubber |  
+| bip_39_word_new_line11 | stay
+praise
+image
+minor
+task
+magic
+axis
+grass
+table
+rubber
+garden |  
+| bip_39_word_new_line12 | stay
+praise
+image
+minor
+task
+magic
+axis
+grass
+table
+rubber
+garden
+accident |  
+| bip_39_word_new_line2 | stay
+praise |  
+| bip_39_word_new_line3 | stay
+praise
+image |  
+| bip_39_word_new_line4 | stay
+praise
+image
+minor |  
+| bip_39_word_new_line5 | stay
+praise
+image
+minor
+task |  
+| bip_39_word_new_line6 | stay
+praise
+image
+minor
+task
+magic |  
+| bip_39_word_new_line7 | stay
+praise
+image
+minor
+task
+magic
+axis |  
+| bip_39_word_new_line8 | stay
+praise
+image
+minor
+task
+magic
+axis
+grass |  
+| bip_39_word_new_line9 | stay
+praise
+image
+minor
+task
+magic
+axis
+grass
+table |  
+| bip_39_word_space_0 | ['stay', 'praise', 'image', 'minor', 'task', 'magic', 'axis', 'grass', 'table', 'rubber', 'garden', 'accident'] |  
+| bip_39_word_space_1 | stay |  
+| bip_39_word_space_10 | stay praise image minor task magic axis grass table rubber |  
+| bip_39_word_space_11 | stay praise image minor task magic axis grass table rubber garden |  
+| bip_39_word_space_12 | stay praise image minor task magic axis grass table rubber garden accident |  
+| bip_39_word_space_2 | stay praise |  
+| bip_39_word_space_3 | stay praise image |  
+| bip_39_word_space_4 | stay praise image minor |  
+| bip_39_word_space_5 | stay praise image minor task |  
+| bip_39_word_space_6 | stay praise image minor task magic |  
+| bip_39_word_space_7 | stay praise image minor task magic axis |  
+| bip_39_word_space_8 | stay praise image minor task magic axis grass |  
+| bip_39_word_space_9 | stay praise image minor task magic axis grass table |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ceiling decorate
+  * bip 39 word 3: ceiling decorate draw
+  * bip 39 word: ceiling decorate draw silly festival early boy female soap width collect another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ceiling |  
+| bip_39_word_new_br10 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early<br>boy<br>female<br>soap<br>width |  
+| bip_39_word_new_br11 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early<br>boy<br>female<br>soap<br>width<br>collect |  
+| bip_39_word_new_br12 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early<br>boy<br>female<br>soap<br>width<br>collect<br>another |  
+| bip_39_word_new_br2 | ceiling<br>decorate |  
+| bip_39_word_new_br3 | ceiling<br>decorate<br>draw |  
+| bip_39_word_new_br4 | ceiling<br>decorate<br>draw<br>silly |  
+| bip_39_word_new_br5 | ceiling<br>decorate<br>draw<br>silly<br>festival |  
+| bip_39_word_new_br6 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early |  
+| bip_39_word_new_br7 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early<br>boy |  
+| bip_39_word_new_br8 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early<br>boy<br>female |  
+| bip_39_word_new_br9 | ceiling<br>decorate<br>draw<br>silly<br>festival<br>early<br>boy<br>female<br>soap |  
+| bip_39_word_new_line1 | ceiling |  
+| bip_39_word_new_line10 | ceiling
+decorate
+draw
+silly
+festival
+early
+boy
+female
+soap
+width |  
+| bip_39_word_new_line11 | ceiling
+decorate
+draw
+silly
+festival
+early
+boy
+female
+soap
+width
+collect |  
+| bip_39_word_new_line12 | ceiling
+decorate
+draw
+silly
+festival
+early
+boy
+female
+soap
+width
+collect
+another |  
+| bip_39_word_new_line2 | ceiling
+decorate |  
+| bip_39_word_new_line3 | ceiling
+decorate
+draw |  
+| bip_39_word_new_line4 | ceiling
+decorate
+draw
+silly |  
+| bip_39_word_new_line5 | ceiling
+decorate
+draw
+silly
+festival |  
+| bip_39_word_new_line6 | ceiling
+decorate
+draw
+silly
+festival
+early |  
+| bip_39_word_new_line7 | ceiling
+decorate
+draw
+silly
+festival
+early
+boy |  
+| bip_39_word_new_line8 | ceiling
+decorate
+draw
+silly
+festival
+early
+boy
+female |  
+| bip_39_word_new_line9 | ceiling
+decorate
+draw
+silly
+festival
+early
+boy
+female
+soap |  
+| bip_39_word_space_0 | ['ceiling', 'decorate', 'draw', 'silly', 'festival', 'early', 'boy', 'female', 'soap', 'width', 'collect', 'another'] |  
+| bip_39_word_space_1 | ceiling |  
+| bip_39_word_space_10 | ceiling decorate draw silly festival early boy female soap width |  
+| bip_39_word_space_11 | ceiling decorate draw silly festival early boy female soap width collect |  
+| bip_39_word_space_12 | ceiling decorate draw silly festival early boy female soap width collect another |  
+| bip_39_word_space_2 | ceiling decorate |  
+| bip_39_word_space_3 | ceiling decorate draw |  
+| bip_39_word_space_4 | ceiling decorate draw silly |  
+| bip_39_word_space_5 | ceiling decorate draw silly festival |  
+| bip_39_word_space_6 | ceiling decorate draw silly festival early |  
+| bip_39_word_space_7 | ceiling decorate draw silly festival early boy |  
+| bip_39_word_space_8 | ceiling decorate draw silly festival early boy female |  
+| bip_39_word_space_9 | ceiling decorate draw silly festival early boy female soap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

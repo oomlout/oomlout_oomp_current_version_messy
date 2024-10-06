@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: height bronze
+  * bip 39 word 3: height bronze cross
+  * bip 39 word: height bronze cross now stem shiver father crouch scrub when install any
 
 ### other_codes
 * short_code: br6904
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | height |  
+| bip_39_word_new_br10 | height<br>bronze<br>cross<br>now<br>stem<br>shiver<br>father<br>crouch<br>scrub<br>when |  
+| bip_39_word_new_br11 | height<br>bronze<br>cross<br>now<br>stem<br>shiver<br>father<br>crouch<br>scrub<br>when<br>install |  
+| bip_39_word_new_br12 | height<br>bronze<br>cross<br>now<br>stem<br>shiver<br>father<br>crouch<br>scrub<br>when<br>install<br>any |  
+| bip_39_word_new_br2 | height<br>bronze |  
+| bip_39_word_new_br3 | height<br>bronze<br>cross |  
+| bip_39_word_new_br4 | height<br>bronze<br>cross<br>now |  
+| bip_39_word_new_br5 | height<br>bronze<br>cross<br>now<br>stem |  
+| bip_39_word_new_br6 | height<br>bronze<br>cross<br>now<br>stem<br>shiver |  
+| bip_39_word_new_br7 | height<br>bronze<br>cross<br>now<br>stem<br>shiver<br>father |  
+| bip_39_word_new_br8 | height<br>bronze<br>cross<br>now<br>stem<br>shiver<br>father<br>crouch |  
+| bip_39_word_new_br9 | height<br>bronze<br>cross<br>now<br>stem<br>shiver<br>father<br>crouch<br>scrub |  
+| bip_39_word_new_line1 | height |  
+| bip_39_word_new_line10 | height
+bronze
+cross
+now
+stem
+shiver
+father
+crouch
+scrub
+when |  
+| bip_39_word_new_line11 | height
+bronze
+cross
+now
+stem
+shiver
+father
+crouch
+scrub
+when
+install |  
+| bip_39_word_new_line12 | height
+bronze
+cross
+now
+stem
+shiver
+father
+crouch
+scrub
+when
+install
+any |  
+| bip_39_word_new_line2 | height
+bronze |  
+| bip_39_word_new_line3 | height
+bronze
+cross |  
+| bip_39_word_new_line4 | height
+bronze
+cross
+now |  
+| bip_39_word_new_line5 | height
+bronze
+cross
+now
+stem |  
+| bip_39_word_new_line6 | height
+bronze
+cross
+now
+stem
+shiver |  
+| bip_39_word_new_line7 | height
+bronze
+cross
+now
+stem
+shiver
+father |  
+| bip_39_word_new_line8 | height
+bronze
+cross
+now
+stem
+shiver
+father
+crouch |  
+| bip_39_word_new_line9 | height
+bronze
+cross
+now
+stem
+shiver
+father
+crouch
+scrub |  
+| bip_39_word_space_0 | ['height', 'bronze', 'cross', 'now', 'stem', 'shiver', 'father', 'crouch', 'scrub', 'when', 'install', 'any'] |  
+| bip_39_word_space_1 | height |  
+| bip_39_word_space_10 | height bronze cross now stem shiver father crouch scrub when |  
+| bip_39_word_space_11 | height bronze cross now stem shiver father crouch scrub when install |  
+| bip_39_word_space_12 | height bronze cross now stem shiver father crouch scrub when install any |  
+| bip_39_word_space_2 | height bronze |  
+| bip_39_word_space_3 | height bronze cross |  
+| bip_39_word_space_4 | height bronze cross now |  
+| bip_39_word_space_5 | height bronze cross now stem |  
+| bip_39_word_space_6 | height bronze cross now stem shiver |  
+| bip_39_word_space_7 | height bronze cross now stem shiver father |  
+| bip_39_word_space_8 | height bronze cross now stem shiver father crouch |  
+| bip_39_word_space_9 | height bronze cross now stem shiver father crouch scrub |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

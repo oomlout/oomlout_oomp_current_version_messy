@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flavor faith
+  * bip 39 word 3: flavor faith teach
+  * bip 39 word: flavor faith teach suspect peanut cabbage until warfare sport popular lawn august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flavor |  
+| bip_39_word_new_br10 | flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage<br>until<br>warfare<br>sport<br>popular |  
+| bip_39_word_new_br11 | flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage<br>until<br>warfare<br>sport<br>popular<br>lawn |  
+| bip_39_word_new_br12 | flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage<br>until<br>warfare<br>sport<br>popular<br>lawn<br>august |  
+| bip_39_word_new_br2 | flavor<br>faith |  
+| bip_39_word_new_br3 | flavor<br>faith<br>teach |  
+| bip_39_word_new_br4 | flavor<br>faith<br>teach<br>suspect |  
+| bip_39_word_new_br5 | flavor<br>faith<br>teach<br>suspect<br>peanut |  
+| bip_39_word_new_br6 | flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage |  
+| bip_39_word_new_br7 | flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage<br>until |  
+| bip_39_word_new_br8 | flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage<br>until<br>warfare |  
+| bip_39_word_new_br9 | flavor<br>faith<br>teach<br>suspect<br>peanut<br>cabbage<br>until<br>warfare<br>sport |  
+| bip_39_word_new_line1 | flavor |  
+| bip_39_word_new_line10 | flavor
+faith
+teach
+suspect
+peanut
+cabbage
+until
+warfare
+sport
+popular |  
+| bip_39_word_new_line11 | flavor
+faith
+teach
+suspect
+peanut
+cabbage
+until
+warfare
+sport
+popular
+lawn |  
+| bip_39_word_new_line12 | flavor
+faith
+teach
+suspect
+peanut
+cabbage
+until
+warfare
+sport
+popular
+lawn
+august |  
+| bip_39_word_new_line2 | flavor
+faith |  
+| bip_39_word_new_line3 | flavor
+faith
+teach |  
+| bip_39_word_new_line4 | flavor
+faith
+teach
+suspect |  
+| bip_39_word_new_line5 | flavor
+faith
+teach
+suspect
+peanut |  
+| bip_39_word_new_line6 | flavor
+faith
+teach
+suspect
+peanut
+cabbage |  
+| bip_39_word_new_line7 | flavor
+faith
+teach
+suspect
+peanut
+cabbage
+until |  
+| bip_39_word_new_line8 | flavor
+faith
+teach
+suspect
+peanut
+cabbage
+until
+warfare |  
+| bip_39_word_new_line9 | flavor
+faith
+teach
+suspect
+peanut
+cabbage
+until
+warfare
+sport |  
+| bip_39_word_space_0 | ['flavor', 'faith', 'teach', 'suspect', 'peanut', 'cabbage', 'until', 'warfare', 'sport', 'popular', 'lawn', 'august'] |  
+| bip_39_word_space_1 | flavor |  
+| bip_39_word_space_10 | flavor faith teach suspect peanut cabbage until warfare sport popular |  
+| bip_39_word_space_11 | flavor faith teach suspect peanut cabbage until warfare sport popular lawn |  
+| bip_39_word_space_12 | flavor faith teach suspect peanut cabbage until warfare sport popular lawn august |  
+| bip_39_word_space_2 | flavor faith |  
+| bip_39_word_space_3 | flavor faith teach |  
+| bip_39_word_space_4 | flavor faith teach suspect |  
+| bip_39_word_space_5 | flavor faith teach suspect peanut |  
+| bip_39_word_space_6 | flavor faith teach suspect peanut cabbage |  
+| bip_39_word_space_7 | flavor faith teach suspect peanut cabbage until |  
+| bip_39_word_space_8 | flavor faith teach suspect peanut cabbage until warfare |  
+| bip_39_word_space_9 | flavor faith teach suspect peanut cabbage until warfare sport |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sphere fury
+  * bip 39 word 3: sphere fury vapor
+  * bip 39 word: sphere fury vapor milk crew oxygen coach wood turtle animal horse arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sphere |  
+| bip_39_word_new_br10 | sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen<br>coach<br>wood<br>turtle<br>animal |  
+| bip_39_word_new_br11 | sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen<br>coach<br>wood<br>turtle<br>animal<br>horse |  
+| bip_39_word_new_br12 | sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen<br>coach<br>wood<br>turtle<br>animal<br>horse<br>arena |  
+| bip_39_word_new_br2 | sphere<br>fury |  
+| bip_39_word_new_br3 | sphere<br>fury<br>vapor |  
+| bip_39_word_new_br4 | sphere<br>fury<br>vapor<br>milk |  
+| bip_39_word_new_br5 | sphere<br>fury<br>vapor<br>milk<br>crew |  
+| bip_39_word_new_br6 | sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen |  
+| bip_39_word_new_br7 | sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen<br>coach |  
+| bip_39_word_new_br8 | sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen<br>coach<br>wood |  
+| bip_39_word_new_br9 | sphere<br>fury<br>vapor<br>milk<br>crew<br>oxygen<br>coach<br>wood<br>turtle |  
+| bip_39_word_new_line1 | sphere |  
+| bip_39_word_new_line10 | sphere
+fury
+vapor
+milk
+crew
+oxygen
+coach
+wood
+turtle
+animal |  
+| bip_39_word_new_line11 | sphere
+fury
+vapor
+milk
+crew
+oxygen
+coach
+wood
+turtle
+animal
+horse |  
+| bip_39_word_new_line12 | sphere
+fury
+vapor
+milk
+crew
+oxygen
+coach
+wood
+turtle
+animal
+horse
+arena |  
+| bip_39_word_new_line2 | sphere
+fury |  
+| bip_39_word_new_line3 | sphere
+fury
+vapor |  
+| bip_39_word_new_line4 | sphere
+fury
+vapor
+milk |  
+| bip_39_word_new_line5 | sphere
+fury
+vapor
+milk
+crew |  
+| bip_39_word_new_line6 | sphere
+fury
+vapor
+milk
+crew
+oxygen |  
+| bip_39_word_new_line7 | sphere
+fury
+vapor
+milk
+crew
+oxygen
+coach |  
+| bip_39_word_new_line8 | sphere
+fury
+vapor
+milk
+crew
+oxygen
+coach
+wood |  
+| bip_39_word_new_line9 | sphere
+fury
+vapor
+milk
+crew
+oxygen
+coach
+wood
+turtle |  
+| bip_39_word_space_0 | ['sphere', 'fury', 'vapor', 'milk', 'crew', 'oxygen', 'coach', 'wood', 'turtle', 'animal', 'horse', 'arena'] |  
+| bip_39_word_space_1 | sphere |  
+| bip_39_word_space_10 | sphere fury vapor milk crew oxygen coach wood turtle animal |  
+| bip_39_word_space_11 | sphere fury vapor milk crew oxygen coach wood turtle animal horse |  
+| bip_39_word_space_12 | sphere fury vapor milk crew oxygen coach wood turtle animal horse arena |  
+| bip_39_word_space_2 | sphere fury |  
+| bip_39_word_space_3 | sphere fury vapor |  
+| bip_39_word_space_4 | sphere fury vapor milk |  
+| bip_39_word_space_5 | sphere fury vapor milk crew |  
+| bip_39_word_space_6 | sphere fury vapor milk crew oxygen |  
+| bip_39_word_space_7 | sphere fury vapor milk crew oxygen coach |  
+| bip_39_word_space_8 | sphere fury vapor milk crew oxygen coach wood |  
+| bip_39_word_space_9 | sphere fury vapor milk crew oxygen coach wood turtle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: thrive apart
+  * bip 39 word 3: thrive apart bleak
+  * bip 39 word: thrive apart bleak nation duck snake engine arrest fluid unveil front attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | thrive |  
+| bip_39_word_new_br10 | thrive<br>apart<br>bleak<br>nation<br>duck<br>snake<br>engine<br>arrest<br>fluid<br>unveil |  
+| bip_39_word_new_br11 | thrive<br>apart<br>bleak<br>nation<br>duck<br>snake<br>engine<br>arrest<br>fluid<br>unveil<br>front |  
+| bip_39_word_new_br12 | thrive<br>apart<br>bleak<br>nation<br>duck<br>snake<br>engine<br>arrest<br>fluid<br>unveil<br>front<br>attend |  
+| bip_39_word_new_br2 | thrive<br>apart |  
+| bip_39_word_new_br3 | thrive<br>apart<br>bleak |  
+| bip_39_word_new_br4 | thrive<br>apart<br>bleak<br>nation |  
+| bip_39_word_new_br5 | thrive<br>apart<br>bleak<br>nation<br>duck |  
+| bip_39_word_new_br6 | thrive<br>apart<br>bleak<br>nation<br>duck<br>snake |  
+| bip_39_word_new_br7 | thrive<br>apart<br>bleak<br>nation<br>duck<br>snake<br>engine |  
+| bip_39_word_new_br8 | thrive<br>apart<br>bleak<br>nation<br>duck<br>snake<br>engine<br>arrest |  
+| bip_39_word_new_br9 | thrive<br>apart<br>bleak<br>nation<br>duck<br>snake<br>engine<br>arrest<br>fluid |  
+| bip_39_word_new_line1 | thrive |  
+| bip_39_word_new_line10 | thrive
+apart
+bleak
+nation
+duck
+snake
+engine
+arrest
+fluid
+unveil |  
+| bip_39_word_new_line11 | thrive
+apart
+bleak
+nation
+duck
+snake
+engine
+arrest
+fluid
+unveil
+front |  
+| bip_39_word_new_line12 | thrive
+apart
+bleak
+nation
+duck
+snake
+engine
+arrest
+fluid
+unveil
+front
+attend |  
+| bip_39_word_new_line2 | thrive
+apart |  
+| bip_39_word_new_line3 | thrive
+apart
+bleak |  
+| bip_39_word_new_line4 | thrive
+apart
+bleak
+nation |  
+| bip_39_word_new_line5 | thrive
+apart
+bleak
+nation
+duck |  
+| bip_39_word_new_line6 | thrive
+apart
+bleak
+nation
+duck
+snake |  
+| bip_39_word_new_line7 | thrive
+apart
+bleak
+nation
+duck
+snake
+engine |  
+| bip_39_word_new_line8 | thrive
+apart
+bleak
+nation
+duck
+snake
+engine
+arrest |  
+| bip_39_word_new_line9 | thrive
+apart
+bleak
+nation
+duck
+snake
+engine
+arrest
+fluid |  
+| bip_39_word_space_0 | ['thrive', 'apart', 'bleak', 'nation', 'duck', 'snake', 'engine', 'arrest', 'fluid', 'unveil', 'front', 'attend'] |  
+| bip_39_word_space_1 | thrive |  
+| bip_39_word_space_10 | thrive apart bleak nation duck snake engine arrest fluid unveil |  
+| bip_39_word_space_11 | thrive apart bleak nation duck snake engine arrest fluid unveil front |  
+| bip_39_word_space_12 | thrive apart bleak nation duck snake engine arrest fluid unveil front attend |  
+| bip_39_word_space_2 | thrive apart |  
+| bip_39_word_space_3 | thrive apart bleak |  
+| bip_39_word_space_4 | thrive apart bleak nation |  
+| bip_39_word_space_5 | thrive apart bleak nation duck |  
+| bip_39_word_space_6 | thrive apart bleak nation duck snake |  
+| bip_39_word_space_7 | thrive apart bleak nation duck snake engine |  
+| bip_39_word_space_8 | thrive apart bleak nation duck snake engine arrest |  
+| bip_39_word_space_9 | thrive apart bleak nation duck snake engine arrest fluid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

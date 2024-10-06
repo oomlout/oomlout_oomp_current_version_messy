@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kitten section
+  * bip 39 word 3: kitten section seven
+  * bip 39 word: kitten section seven omit advance globe ensure thrive whale glimpse census antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kitten |  
+| bip_39_word_new_br10 | kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale<br>glimpse |  
+| bip_39_word_new_br11 | kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale<br>glimpse<br>census |  
+| bip_39_word_new_br12 | kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale<br>glimpse<br>census<br>antique |  
+| bip_39_word_new_br2 | kitten<br>section |  
+| bip_39_word_new_br3 | kitten<br>section<br>seven |  
+| bip_39_word_new_br4 | kitten<br>section<br>seven<br>omit |  
+| bip_39_word_new_br5 | kitten<br>section<br>seven<br>omit<br>advance |  
+| bip_39_word_new_br6 | kitten<br>section<br>seven<br>omit<br>advance<br>globe |  
+| bip_39_word_new_br7 | kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure |  
+| bip_39_word_new_br8 | kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive |  
+| bip_39_word_new_br9 | kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale |  
+| bip_39_word_new_line1 | kitten |  
+| bip_39_word_new_line10 | kitten
+section
+seven
+omit
+advance
+globe
+ensure
+thrive
+whale
+glimpse |  
+| bip_39_word_new_line11 | kitten
+section
+seven
+omit
+advance
+globe
+ensure
+thrive
+whale
+glimpse
+census |  
+| bip_39_word_new_line12 | kitten
+section
+seven
+omit
+advance
+globe
+ensure
+thrive
+whale
+glimpse
+census
+antique |  
+| bip_39_word_new_line2 | kitten
+section |  
+| bip_39_word_new_line3 | kitten
+section
+seven |  
+| bip_39_word_new_line4 | kitten
+section
+seven
+omit |  
+| bip_39_word_new_line5 | kitten
+section
+seven
+omit
+advance |  
+| bip_39_word_new_line6 | kitten
+section
+seven
+omit
+advance
+globe |  
+| bip_39_word_new_line7 | kitten
+section
+seven
+omit
+advance
+globe
+ensure |  
+| bip_39_word_new_line8 | kitten
+section
+seven
+omit
+advance
+globe
+ensure
+thrive |  
+| bip_39_word_new_line9 | kitten
+section
+seven
+omit
+advance
+globe
+ensure
+thrive
+whale |  
+| bip_39_word_space_0 | ['kitten', 'section', 'seven', 'omit', 'advance', 'globe', 'ensure', 'thrive', 'whale', 'glimpse', 'census', 'antique'] |  
+| bip_39_word_space_1 | kitten |  
+| bip_39_word_space_10 | kitten section seven omit advance globe ensure thrive whale glimpse |  
+| bip_39_word_space_11 | kitten section seven omit advance globe ensure thrive whale glimpse census |  
+| bip_39_word_space_12 | kitten section seven omit advance globe ensure thrive whale glimpse census antique |  
+| bip_39_word_space_2 | kitten section |  
+| bip_39_word_space_3 | kitten section seven |  
+| bip_39_word_space_4 | kitten section seven omit |  
+| bip_39_word_space_5 | kitten section seven omit advance |  
+| bip_39_word_space_6 | kitten section seven omit advance globe |  
+| bip_39_word_space_7 | kitten section seven omit advance globe ensure |  
+| bip_39_word_space_8 | kitten section seven omit advance globe ensure thrive |  
+| bip_39_word_space_9 | kitten section seven omit advance globe ensure thrive whale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

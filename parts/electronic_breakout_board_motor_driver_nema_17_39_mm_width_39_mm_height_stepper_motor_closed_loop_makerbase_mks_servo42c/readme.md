@@ -18,6 +18,9 @@ A closed loop stepper motor controller
   * description_extra: closed_loop
   * manufacturer: makerbase
   * part_number: mks_servo42c
+  * bip 39 word 2: muscle stumble
+  * bip 39 word 3: muscle stumble palace
+  * bip 39 word: muscle stumble palace riot wash ritual supreme nominee judge capital donor artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ A closed loop stepper motor controller
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | muscle |  
+| bip_39_word_new_br10 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme<br>nominee<br>judge<br>capital |  
+| bip_39_word_new_br11 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme<br>nominee<br>judge<br>capital<br>donor |  
+| bip_39_word_new_br12 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme<br>nominee<br>judge<br>capital<br>donor<br>artwork |  
+| bip_39_word_new_br2 | muscle<br>stumble |  
+| bip_39_word_new_br3 | muscle<br>stumble<br>palace |  
+| bip_39_word_new_br4 | muscle<br>stumble<br>palace<br>riot |  
+| bip_39_word_new_br5 | muscle<br>stumble<br>palace<br>riot<br>wash |  
+| bip_39_word_new_br6 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual |  
+| bip_39_word_new_br7 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme |  
+| bip_39_word_new_br8 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme<br>nominee |  
+| bip_39_word_new_br9 | muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme<br>nominee<br>judge |  
+| bip_39_word_new_line1 | muscle |  
+| bip_39_word_new_line10 | muscle
+stumble
+palace
+riot
+wash
+ritual
+supreme
+nominee
+judge
+capital |  
+| bip_39_word_new_line11 | muscle
+stumble
+palace
+riot
+wash
+ritual
+supreme
+nominee
+judge
+capital
+donor |  
+| bip_39_word_new_line12 | muscle
+stumble
+palace
+riot
+wash
+ritual
+supreme
+nominee
+judge
+capital
+donor
+artwork |  
+| bip_39_word_new_line2 | muscle
+stumble |  
+| bip_39_word_new_line3 | muscle
+stumble
+palace |  
+| bip_39_word_new_line4 | muscle
+stumble
+palace
+riot |  
+| bip_39_word_new_line5 | muscle
+stumble
+palace
+riot
+wash |  
+| bip_39_word_new_line6 | muscle
+stumble
+palace
+riot
+wash
+ritual |  
+| bip_39_word_new_line7 | muscle
+stumble
+palace
+riot
+wash
+ritual
+supreme |  
+| bip_39_word_new_line8 | muscle
+stumble
+palace
+riot
+wash
+ritual
+supreme
+nominee |  
+| bip_39_word_new_line9 | muscle
+stumble
+palace
+riot
+wash
+ritual
+supreme
+nominee
+judge |  
+| bip_39_word_space_0 | ['muscle', 'stumble', 'palace', 'riot', 'wash', 'ritual', 'supreme', 'nominee', 'judge', 'capital', 'donor', 'artwork'] |  
+| bip_39_word_space_1 | muscle |  
+| bip_39_word_space_10 | muscle stumble palace riot wash ritual supreme nominee judge capital |  
+| bip_39_word_space_11 | muscle stumble palace riot wash ritual supreme nominee judge capital donor |  
+| bip_39_word_space_12 | muscle stumble palace riot wash ritual supreme nominee judge capital donor artwork |  
+| bip_39_word_space_2 | muscle stumble |  
+| bip_39_word_space_3 | muscle stumble palace |  
+| bip_39_word_space_4 | muscle stumble palace riot |  
+| bip_39_word_space_5 | muscle stumble palace riot wash |  
+| bip_39_word_space_6 | muscle stumble palace riot wash ritual |  
+| bip_39_word_space_7 | muscle stumble palace riot wash ritual supreme |  
+| bip_39_word_space_8 | muscle stumble palace riot wash ritual supreme nominee |  
+| bip_39_word_space_9 | muscle stumble palace riot wash ritual supreme nominee judge |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: provide mom
+  * bip 39 word 3: provide mom barrel
+  * bip 39 word: provide mom barrel pilot horror slogan unable female connect early occur alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | provide |  
+| bip_39_word_new_br10 | provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early |  
+| bip_39_word_new_br11 | provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early<br>occur |  
+| bip_39_word_new_br12 | provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect<br>early<br>occur<br>alter |  
+| bip_39_word_new_br2 | provide<br>mom |  
+| bip_39_word_new_br3 | provide<br>mom<br>barrel |  
+| bip_39_word_new_br4 | provide<br>mom<br>barrel<br>pilot |  
+| bip_39_word_new_br5 | provide<br>mom<br>barrel<br>pilot<br>horror |  
+| bip_39_word_new_br6 | provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan |  
+| bip_39_word_new_br7 | provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable |  
+| bip_39_word_new_br8 | provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female |  
+| bip_39_word_new_br9 | provide<br>mom<br>barrel<br>pilot<br>horror<br>slogan<br>unable<br>female<br>connect |  
+| bip_39_word_new_line1 | provide |  
+| bip_39_word_new_line10 | provide
+mom
+barrel
+pilot
+horror
+slogan
+unable
+female
+connect
+early |  
+| bip_39_word_new_line11 | provide
+mom
+barrel
+pilot
+horror
+slogan
+unable
+female
+connect
+early
+occur |  
+| bip_39_word_new_line12 | provide
+mom
+barrel
+pilot
+horror
+slogan
+unable
+female
+connect
+early
+occur
+alter |  
+| bip_39_word_new_line2 | provide
+mom |  
+| bip_39_word_new_line3 | provide
+mom
+barrel |  
+| bip_39_word_new_line4 | provide
+mom
+barrel
+pilot |  
+| bip_39_word_new_line5 | provide
+mom
+barrel
+pilot
+horror |  
+| bip_39_word_new_line6 | provide
+mom
+barrel
+pilot
+horror
+slogan |  
+| bip_39_word_new_line7 | provide
+mom
+barrel
+pilot
+horror
+slogan
+unable |  
+| bip_39_word_new_line8 | provide
+mom
+barrel
+pilot
+horror
+slogan
+unable
+female |  
+| bip_39_word_new_line9 | provide
+mom
+barrel
+pilot
+horror
+slogan
+unable
+female
+connect |  
+| bip_39_word_space_0 | ['provide', 'mom', 'barrel', 'pilot', 'horror', 'slogan', 'unable', 'female', 'connect', 'early', 'occur', 'alter'] |  
+| bip_39_word_space_1 | provide |  
+| bip_39_word_space_10 | provide mom barrel pilot horror slogan unable female connect early |  
+| bip_39_word_space_11 | provide mom barrel pilot horror slogan unable female connect early occur |  
+| bip_39_word_space_12 | provide mom barrel pilot horror slogan unable female connect early occur alter |  
+| bip_39_word_space_2 | provide mom |  
+| bip_39_word_space_3 | provide mom barrel |  
+| bip_39_word_space_4 | provide mom barrel pilot |  
+| bip_39_word_space_5 | provide mom barrel pilot horror |  
+| bip_39_word_space_6 | provide mom barrel pilot horror slogan |  
+| bip_39_word_space_7 | provide mom barrel pilot horror slogan unable |  
+| bip_39_word_space_8 | provide mom barrel pilot horror slogan unable female |  
+| bip_39_word_space_9 | provide mom barrel pilot horror slogan unable female connect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

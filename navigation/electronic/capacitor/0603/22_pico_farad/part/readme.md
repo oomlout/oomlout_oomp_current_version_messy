@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: when observe
+  * bip 39 word 3: when observe envelope
+  * bip 39 word: when observe envelope elevator target chuckle check scan tiny venue peanut attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | when |  
+| bip_39_word_new_br10 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue |  
+| bip_39_word_new_br11 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue<br>peanut |  
+| bip_39_word_new_br12 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny<br>venue<br>peanut<br>attract |  
+| bip_39_word_new_br2 | when<br>observe |  
+| bip_39_word_new_br3 | when<br>observe<br>envelope |  
+| bip_39_word_new_br4 | when<br>observe<br>envelope<br>elevator |  
+| bip_39_word_new_br5 | when<br>observe<br>envelope<br>elevator<br>target |  
+| bip_39_word_new_br6 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle |  
+| bip_39_word_new_br7 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check |  
+| bip_39_word_new_br8 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan |  
+| bip_39_word_new_br9 | when<br>observe<br>envelope<br>elevator<br>target<br>chuckle<br>check<br>scan<br>tiny |  
+| bip_39_word_new_line1 | when |  
+| bip_39_word_new_line10 | when
+observe
+envelope
+elevator
+target
+chuckle
+check
+scan
+tiny
+venue |  
+| bip_39_word_new_line11 | when
+observe
+envelope
+elevator
+target
+chuckle
+check
+scan
+tiny
+venue
+peanut |  
+| bip_39_word_new_line12 | when
+observe
+envelope
+elevator
+target
+chuckle
+check
+scan
+tiny
+venue
+peanut
+attract |  
+| bip_39_word_new_line2 | when
+observe |  
+| bip_39_word_new_line3 | when
+observe
+envelope |  
+| bip_39_word_new_line4 | when
+observe
+envelope
+elevator |  
+| bip_39_word_new_line5 | when
+observe
+envelope
+elevator
+target |  
+| bip_39_word_new_line6 | when
+observe
+envelope
+elevator
+target
+chuckle |  
+| bip_39_word_new_line7 | when
+observe
+envelope
+elevator
+target
+chuckle
+check |  
+| bip_39_word_new_line8 | when
+observe
+envelope
+elevator
+target
+chuckle
+check
+scan |  
+| bip_39_word_new_line9 | when
+observe
+envelope
+elevator
+target
+chuckle
+check
+scan
+tiny |  
+| bip_39_word_space_0 | ['when', 'observe', 'envelope', 'elevator', 'target', 'chuckle', 'check', 'scan', 'tiny', 'venue', 'peanut', 'attract'] |  
+| bip_39_word_space_1 | when |  
+| bip_39_word_space_10 | when observe envelope elevator target chuckle check scan tiny venue |  
+| bip_39_word_space_11 | when observe envelope elevator target chuckle check scan tiny venue peanut |  
+| bip_39_word_space_12 | when observe envelope elevator target chuckle check scan tiny venue peanut attract |  
+| bip_39_word_space_2 | when observe |  
+| bip_39_word_space_3 | when observe envelope |  
+| bip_39_word_space_4 | when observe envelope elevator |  
+| bip_39_word_space_5 | when observe envelope elevator target |  
+| bip_39_word_space_6 | when observe envelope elevator target chuckle |  
+| bip_39_word_space_7 | when observe envelope elevator target chuckle check |  
+| bip_39_word_space_8 | when observe envelope elevator target chuckle check scan |  
+| bip_39_word_space_9 | when observe envelope elevator target chuckle check scan tiny |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

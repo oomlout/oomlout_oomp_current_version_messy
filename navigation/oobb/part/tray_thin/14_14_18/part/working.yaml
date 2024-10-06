@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ritual
+bip_39_word_new_br10: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket
+bip_39_word_new_br11: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry
+bip_39_word_new_br12: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry<br>appear
+bip_39_word_new_br2: ritual<br>drink
+bip_39_word_new_br3: ritual<br>drink<br>burger
+bip_39_word_new_br4: ritual<br>drink<br>burger<br>today
+bip_39_word_new_br5: ritual<br>drink<br>burger<br>today<br>sustain
+bip_39_word_new_br6: ritual<br>drink<br>burger<br>today<br>sustain<br>dune
+bip_39_word_new_br7: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock
+bip_39_word_new_br8: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside
+bip_39_word_new_br9: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake
+bip_39_word_new_line1: ritual
+bip_39_word_new_line10: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside
+
+  snake
+
+  bracket'
+bip_39_word_new_line11: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside
+
+  snake
+
+  bracket
+
+  inquiry'
+bip_39_word_new_line12: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside
+
+  snake
+
+  bracket
+
+  inquiry
+
+  appear'
+bip_39_word_new_line2: 'ritual
+
+  drink'
+bip_39_word_new_line3: 'ritual
+
+  drink
+
+  burger'
+bip_39_word_new_line4: 'ritual
+
+  drink
+
+  burger
+
+  today'
+bip_39_word_new_line5: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain'
+bip_39_word_new_line6: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune'
+bip_39_word_new_line7: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock'
+bip_39_word_new_line8: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside'
+bip_39_word_new_line9: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside
+
+  snake'
+bip_39_word_space_0:
+- ritual
+- drink
+- burger
+- today
+- sustain
+- dune
+- knock
+- inside
+- snake
+- bracket
+- inquiry
+- appear
+bip_39_word_space_1: ritual
+bip_39_word_space_10: ritual drink burger today sustain dune knock inside snake bracket
+bip_39_word_space_11: ritual drink burger today sustain dune knock inside snake bracket
+  inquiry
+bip_39_word_space_12: ritual drink burger today sustain dune knock inside snake bracket
+  inquiry appear
+bip_39_word_space_2: ritual drink
+bip_39_word_space_3: ritual drink burger
+bip_39_word_space_4: ritual drink burger today
+bip_39_word_space_5: ritual drink burger today sustain
+bip_39_word_space_6: ritual drink burger today sustain dune
+bip_39_word_space_7: ritual drink burger today sustain dune knock
+bip_39_word_space_8: ritual drink burger today sustain dune knock inside
+bip_39_word_space_9: ritual drink burger today sustain dune knock inside snake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

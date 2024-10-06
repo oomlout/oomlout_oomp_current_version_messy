@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: practice digital
+  * bip 39 word 3: practice digital salon
+  * bip 39 word: practice digital salon kidney upset spike when gravity object dinner milk accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | practice |  
+| bip_39_word_new_br10 | practice<br>digital<br>salon<br>kidney<br>upset<br>spike<br>when<br>gravity<br>object<br>dinner |  
+| bip_39_word_new_br11 | practice<br>digital<br>salon<br>kidney<br>upset<br>spike<br>when<br>gravity<br>object<br>dinner<br>milk |  
+| bip_39_word_new_br12 | practice<br>digital<br>salon<br>kidney<br>upset<br>spike<br>when<br>gravity<br>object<br>dinner<br>milk<br>accuse |  
+| bip_39_word_new_br2 | practice<br>digital |  
+| bip_39_word_new_br3 | practice<br>digital<br>salon |  
+| bip_39_word_new_br4 | practice<br>digital<br>salon<br>kidney |  
+| bip_39_word_new_br5 | practice<br>digital<br>salon<br>kidney<br>upset |  
+| bip_39_word_new_br6 | practice<br>digital<br>salon<br>kidney<br>upset<br>spike |  
+| bip_39_word_new_br7 | practice<br>digital<br>salon<br>kidney<br>upset<br>spike<br>when |  
+| bip_39_word_new_br8 | practice<br>digital<br>salon<br>kidney<br>upset<br>spike<br>when<br>gravity |  
+| bip_39_word_new_br9 | practice<br>digital<br>salon<br>kidney<br>upset<br>spike<br>when<br>gravity<br>object |  
+| bip_39_word_new_line1 | practice |  
+| bip_39_word_new_line10 | practice
+digital
+salon
+kidney
+upset
+spike
+when
+gravity
+object
+dinner |  
+| bip_39_word_new_line11 | practice
+digital
+salon
+kidney
+upset
+spike
+when
+gravity
+object
+dinner
+milk |  
+| bip_39_word_new_line12 | practice
+digital
+salon
+kidney
+upset
+spike
+when
+gravity
+object
+dinner
+milk
+accuse |  
+| bip_39_word_new_line2 | practice
+digital |  
+| bip_39_word_new_line3 | practice
+digital
+salon |  
+| bip_39_word_new_line4 | practice
+digital
+salon
+kidney |  
+| bip_39_word_new_line5 | practice
+digital
+salon
+kidney
+upset |  
+| bip_39_word_new_line6 | practice
+digital
+salon
+kidney
+upset
+spike |  
+| bip_39_word_new_line7 | practice
+digital
+salon
+kidney
+upset
+spike
+when |  
+| bip_39_word_new_line8 | practice
+digital
+salon
+kidney
+upset
+spike
+when
+gravity |  
+| bip_39_word_new_line9 | practice
+digital
+salon
+kidney
+upset
+spike
+when
+gravity
+object |  
+| bip_39_word_space_0 | ['practice', 'digital', 'salon', 'kidney', 'upset', 'spike', 'when', 'gravity', 'object', 'dinner', 'milk', 'accuse'] |  
+| bip_39_word_space_1 | practice |  
+| bip_39_word_space_10 | practice digital salon kidney upset spike when gravity object dinner |  
+| bip_39_word_space_11 | practice digital salon kidney upset spike when gravity object dinner milk |  
+| bip_39_word_space_12 | practice digital salon kidney upset spike when gravity object dinner milk accuse |  
+| bip_39_word_space_2 | practice digital |  
+| bip_39_word_space_3 | practice digital salon |  
+| bip_39_word_space_4 | practice digital salon kidney |  
+| bip_39_word_space_5 | practice digital salon kidney upset |  
+| bip_39_word_space_6 | practice digital salon kidney upset spike |  
+| bip_39_word_space_7 | practice digital salon kidney upset spike when |  
+| bip_39_word_space_8 | practice digital salon kidney upset spike when gravity |  
+| bip_39_word_space_9 | practice digital salon kidney upset spike when gravity object |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

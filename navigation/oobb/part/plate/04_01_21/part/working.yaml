@@ -1,3 +1,186 @@
+bip_39_word_new_br1: prize
+bip_39_word_new_br10: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk
+bip_39_word_new_br11: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk<br>isolate
+bip_39_word_new_br12: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow<br>chalk<br>isolate<br>address
+bip_39_word_new_br2: prize<br>monitor
+bip_39_word_new_br3: prize<br>monitor<br>trip
+bip_39_word_new_br4: prize<br>monitor<br>trip<br>drastic
+bip_39_word_new_br5: prize<br>monitor<br>trip<br>drastic<br>mimic
+bip_39_word_new_br6: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine
+bip_39_word_new_br7: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral
+bip_39_word_new_br8: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train
+bip_39_word_new_br9: prize<br>monitor<br>trip<br>drastic<br>mimic<br>wine<br>coral<br>train<br>snow
+bip_39_word_new_line1: prize
+bip_39_word_new_line10: 'prize
+
+  monitor
+
+  trip
+
+  drastic
+
+  mimic
+
+  wine
+
+  coral
+
+  train
+
+  snow
+
+  chalk'
+bip_39_word_new_line11: 'prize
+
+  monitor
+
+  trip
+
+  drastic
+
+  mimic
+
+  wine
+
+  coral
+
+  train
+
+  snow
+
+  chalk
+
+  isolate'
+bip_39_word_new_line12: 'prize
+
+  monitor
+
+  trip
+
+  drastic
+
+  mimic
+
+  wine
+
+  coral
+
+  train
+
+  snow
+
+  chalk
+
+  isolate
+
+  address'
+bip_39_word_new_line2: 'prize
+
+  monitor'
+bip_39_word_new_line3: 'prize
+
+  monitor
+
+  trip'
+bip_39_word_new_line4: 'prize
+
+  monitor
+
+  trip
+
+  drastic'
+bip_39_word_new_line5: 'prize
+
+  monitor
+
+  trip
+
+  drastic
+
+  mimic'
+bip_39_word_new_line6: 'prize
+
+  monitor
+
+  trip
+
+  drastic
+
+  mimic
+
+  wine'
+bip_39_word_new_line7: 'prize
+
+  monitor
+
+  trip
+
+  drastic
+
+  mimic
+
+  wine
+
+  coral'
+bip_39_word_new_line8: 'prize
+
+  monitor
+
+  trip
+
+  drastic
+
+  mimic
+
+  wine
+
+  coral
+
+  train'
+bip_39_word_new_line9: 'prize
+
+  monitor
+
+  trip
+
+  drastic
+
+  mimic
+
+  wine
+
+  coral
+
+  train
+
+  snow'
+bip_39_word_space_0:
+- prize
+- monitor
+- trip
+- drastic
+- mimic
+- wine
+- coral
+- train
+- snow
+- chalk
+- isolate
+- address
+bip_39_word_space_1: prize
+bip_39_word_space_10: prize monitor trip drastic mimic wine coral train snow chalk
+bip_39_word_space_11: prize monitor trip drastic mimic wine coral train snow chalk
+  isolate
+bip_39_word_space_12: prize monitor trip drastic mimic wine coral train snow chalk
+  isolate address
+bip_39_word_space_2: prize monitor
+bip_39_word_space_3: prize monitor trip
+bip_39_word_space_4: prize monitor trip drastic
+bip_39_word_space_5: prize monitor trip drastic mimic
+bip_39_word_space_6: prize monitor trip drastic mimic wine
+bip_39_word_space_7: prize monitor trip drastic mimic wine coral
+bip_39_word_space_8: prize monitor trip drastic mimic wine coral train
+bip_39_word_space_9: prize monitor trip drastic mimic wine coral train snow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

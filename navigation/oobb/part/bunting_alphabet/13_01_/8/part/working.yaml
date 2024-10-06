@@ -1,3 +1,186 @@
+bip_39_word_new_br1: abandon
+bip_39_word_new_br10: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion
+bip_39_word_new_br11: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion<br>tube
+bip_39_word_new_br12: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver<br>scorpion<br>tube<br>attack
+bip_39_word_new_br2: abandon<br>belt
+bip_39_word_new_br3: abandon<br>belt<br>waste
+bip_39_word_new_br4: abandon<br>belt<br>waste<br>tape
+bip_39_word_new_br5: abandon<br>belt<br>waste<br>tape<br>alcohol
+bip_39_word_new_br6: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend
+bip_39_word_new_br7: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor
+bip_39_word_new_br8: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss
+bip_39_word_new_br9: abandon<br>belt<br>waste<br>tape<br>alcohol<br>friend<br>doctor<br>boss<br>deliver
+bip_39_word_new_line1: abandon
+bip_39_word_new_line10: 'abandon
+
+  belt
+
+  waste
+
+  tape
+
+  alcohol
+
+  friend
+
+  doctor
+
+  boss
+
+  deliver
+
+  scorpion'
+bip_39_word_new_line11: 'abandon
+
+  belt
+
+  waste
+
+  tape
+
+  alcohol
+
+  friend
+
+  doctor
+
+  boss
+
+  deliver
+
+  scorpion
+
+  tube'
+bip_39_word_new_line12: 'abandon
+
+  belt
+
+  waste
+
+  tape
+
+  alcohol
+
+  friend
+
+  doctor
+
+  boss
+
+  deliver
+
+  scorpion
+
+  tube
+
+  attack'
+bip_39_word_new_line2: 'abandon
+
+  belt'
+bip_39_word_new_line3: 'abandon
+
+  belt
+
+  waste'
+bip_39_word_new_line4: 'abandon
+
+  belt
+
+  waste
+
+  tape'
+bip_39_word_new_line5: 'abandon
+
+  belt
+
+  waste
+
+  tape
+
+  alcohol'
+bip_39_word_new_line6: 'abandon
+
+  belt
+
+  waste
+
+  tape
+
+  alcohol
+
+  friend'
+bip_39_word_new_line7: 'abandon
+
+  belt
+
+  waste
+
+  tape
+
+  alcohol
+
+  friend
+
+  doctor'
+bip_39_word_new_line8: 'abandon
+
+  belt
+
+  waste
+
+  tape
+
+  alcohol
+
+  friend
+
+  doctor
+
+  boss'
+bip_39_word_new_line9: 'abandon
+
+  belt
+
+  waste
+
+  tape
+
+  alcohol
+
+  friend
+
+  doctor
+
+  boss
+
+  deliver'
+bip_39_word_space_0:
+- abandon
+- belt
+- waste
+- tape
+- alcohol
+- friend
+- doctor
+- boss
+- deliver
+- scorpion
+- tube
+- attack
+bip_39_word_space_1: abandon
+bip_39_word_space_10: abandon belt waste tape alcohol friend doctor boss deliver scorpion
+bip_39_word_space_11: abandon belt waste tape alcohol friend doctor boss deliver scorpion
+  tube
+bip_39_word_space_12: abandon belt waste tape alcohol friend doctor boss deliver scorpion
+  tube attack
+bip_39_word_space_2: abandon belt
+bip_39_word_space_3: abandon belt waste
+bip_39_word_space_4: abandon belt waste tape
+bip_39_word_space_5: abandon belt waste tape alcohol
+bip_39_word_space_6: abandon belt waste tape alcohol friend
+bip_39_word_space_7: abandon belt waste tape alcohol friend doctor
+bip_39_word_space_8: abandon belt waste tape alcohol friend doctor boss
+bip_39_word_space_9: abandon belt waste tape alcohol friend doctor boss deliver
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

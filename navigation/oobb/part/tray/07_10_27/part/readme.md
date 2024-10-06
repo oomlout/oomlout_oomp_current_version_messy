@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cherry unfold
+  * bip 39 word 3: cherry unfold gospel
+  * bip 39 word: cherry unfold gospel artefact net eight narrow juice avocado talent craft argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cherry |  
+| bip_39_word_new_br10 | cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent |  
+| bip_39_word_new_br11 | cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent<br>craft |  
+| bip_39_word_new_br12 | cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado<br>talent<br>craft<br>argue |  
+| bip_39_word_new_br2 | cherry<br>unfold |  
+| bip_39_word_new_br3 | cherry<br>unfold<br>gospel |  
+| bip_39_word_new_br4 | cherry<br>unfold<br>gospel<br>artefact |  
+| bip_39_word_new_br5 | cherry<br>unfold<br>gospel<br>artefact<br>net |  
+| bip_39_word_new_br6 | cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight |  
+| bip_39_word_new_br7 | cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow |  
+| bip_39_word_new_br8 | cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice |  
+| bip_39_word_new_br9 | cherry<br>unfold<br>gospel<br>artefact<br>net<br>eight<br>narrow<br>juice<br>avocado |  
+| bip_39_word_new_line1 | cherry |  
+| bip_39_word_new_line10 | cherry
+unfold
+gospel
+artefact
+net
+eight
+narrow
+juice
+avocado
+talent |  
+| bip_39_word_new_line11 | cherry
+unfold
+gospel
+artefact
+net
+eight
+narrow
+juice
+avocado
+talent
+craft |  
+| bip_39_word_new_line12 | cherry
+unfold
+gospel
+artefact
+net
+eight
+narrow
+juice
+avocado
+talent
+craft
+argue |  
+| bip_39_word_new_line2 | cherry
+unfold |  
+| bip_39_word_new_line3 | cherry
+unfold
+gospel |  
+| bip_39_word_new_line4 | cherry
+unfold
+gospel
+artefact |  
+| bip_39_word_new_line5 | cherry
+unfold
+gospel
+artefact
+net |  
+| bip_39_word_new_line6 | cherry
+unfold
+gospel
+artefact
+net
+eight |  
+| bip_39_word_new_line7 | cherry
+unfold
+gospel
+artefact
+net
+eight
+narrow |  
+| bip_39_word_new_line8 | cherry
+unfold
+gospel
+artefact
+net
+eight
+narrow
+juice |  
+| bip_39_word_new_line9 | cherry
+unfold
+gospel
+artefact
+net
+eight
+narrow
+juice
+avocado |  
+| bip_39_word_space_0 | ['cherry', 'unfold', 'gospel', 'artefact', 'net', 'eight', 'narrow', 'juice', 'avocado', 'talent', 'craft', 'argue'] |  
+| bip_39_word_space_1 | cherry |  
+| bip_39_word_space_10 | cherry unfold gospel artefact net eight narrow juice avocado talent |  
+| bip_39_word_space_11 | cherry unfold gospel artefact net eight narrow juice avocado talent craft |  
+| bip_39_word_space_12 | cherry unfold gospel artefact net eight narrow juice avocado talent craft argue |  
+| bip_39_word_space_2 | cherry unfold |  
+| bip_39_word_space_3 | cherry unfold gospel |  
+| bip_39_word_space_4 | cherry unfold gospel artefact |  
+| bip_39_word_space_5 | cherry unfold gospel artefact net |  
+| bip_39_word_space_6 | cherry unfold gospel artefact net eight |  
+| bip_39_word_space_7 | cherry unfold gospel artefact net eight narrow |  
+| bip_39_word_space_8 | cherry unfold gospel artefact net eight narrow juice |  
+| bip_39_word_space_9 | cherry unfold gospel artefact net eight narrow juice avocado |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

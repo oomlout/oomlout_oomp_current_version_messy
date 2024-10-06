@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spy
+bip_39_word_new_br10: spy<br>fish<br>guess<br>front<br>east<br>kitchen<br>long<br>drive<br>gentle<br>control
+bip_39_word_new_br11: spy<br>fish<br>guess<br>front<br>east<br>kitchen<br>long<br>drive<br>gentle<br>control<br>peasant
+bip_39_word_new_br12: spy<br>fish<br>guess<br>front<br>east<br>kitchen<br>long<br>drive<br>gentle<br>control<br>peasant<br>acid
+bip_39_word_new_br2: spy<br>fish
+bip_39_word_new_br3: spy<br>fish<br>guess
+bip_39_word_new_br4: spy<br>fish<br>guess<br>front
+bip_39_word_new_br5: spy<br>fish<br>guess<br>front<br>east
+bip_39_word_new_br6: spy<br>fish<br>guess<br>front<br>east<br>kitchen
+bip_39_word_new_br7: spy<br>fish<br>guess<br>front<br>east<br>kitchen<br>long
+bip_39_word_new_br8: spy<br>fish<br>guess<br>front<br>east<br>kitchen<br>long<br>drive
+bip_39_word_new_br9: spy<br>fish<br>guess<br>front<br>east<br>kitchen<br>long<br>drive<br>gentle
+bip_39_word_new_line1: spy
+bip_39_word_new_line10: 'spy
+
+  fish
+
+  guess
+
+  front
+
+  east
+
+  kitchen
+
+  long
+
+  drive
+
+  gentle
+
+  control'
+bip_39_word_new_line11: 'spy
+
+  fish
+
+  guess
+
+  front
+
+  east
+
+  kitchen
+
+  long
+
+  drive
+
+  gentle
+
+  control
+
+  peasant'
+bip_39_word_new_line12: 'spy
+
+  fish
+
+  guess
+
+  front
+
+  east
+
+  kitchen
+
+  long
+
+  drive
+
+  gentle
+
+  control
+
+  peasant
+
+  acid'
+bip_39_word_new_line2: 'spy
+
+  fish'
+bip_39_word_new_line3: 'spy
+
+  fish
+
+  guess'
+bip_39_word_new_line4: 'spy
+
+  fish
+
+  guess
+
+  front'
+bip_39_word_new_line5: 'spy
+
+  fish
+
+  guess
+
+  front
+
+  east'
+bip_39_word_new_line6: 'spy
+
+  fish
+
+  guess
+
+  front
+
+  east
+
+  kitchen'
+bip_39_word_new_line7: 'spy
+
+  fish
+
+  guess
+
+  front
+
+  east
+
+  kitchen
+
+  long'
+bip_39_word_new_line8: 'spy
+
+  fish
+
+  guess
+
+  front
+
+  east
+
+  kitchen
+
+  long
+
+  drive'
+bip_39_word_new_line9: 'spy
+
+  fish
+
+  guess
+
+  front
+
+  east
+
+  kitchen
+
+  long
+
+  drive
+
+  gentle'
+bip_39_word_space_0:
+- spy
+- fish
+- guess
+- front
+- east
+- kitchen
+- long
+- drive
+- gentle
+- control
+- peasant
+- acid
+bip_39_word_space_1: spy
+bip_39_word_space_10: spy fish guess front east kitchen long drive gentle control
+bip_39_word_space_11: spy fish guess front east kitchen long drive gentle control
+  peasant
+bip_39_word_space_12: spy fish guess front east kitchen long drive gentle control
+  peasant acid
+bip_39_word_space_2: spy fish
+bip_39_word_space_3: spy fish guess
+bip_39_word_space_4: spy fish guess front
+bip_39_word_space_5: spy fish guess front east
+bip_39_word_space_6: spy fish guess front east kitchen
+bip_39_word_space_7: spy fish guess front east kitchen long
+bip_39_word_space_8: spy fish guess front east kitchen long drive
+bip_39_word_space_9: spy fish guess front east kitchen long drive gentle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

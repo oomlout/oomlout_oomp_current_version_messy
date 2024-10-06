@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mixed author
+  * bip 39 word 3: mixed author panel
+  * bip 39 word: mixed author panel carpet lady present always drum benefit grief treat acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mixed |  
+| bip_39_word_new_br10 | mixed<br>author<br>panel<br>carpet<br>lady<br>present<br>always<br>drum<br>benefit<br>grief |  
+| bip_39_word_new_br11 | mixed<br>author<br>panel<br>carpet<br>lady<br>present<br>always<br>drum<br>benefit<br>grief<br>treat |  
+| bip_39_word_new_br12 | mixed<br>author<br>panel<br>carpet<br>lady<br>present<br>always<br>drum<br>benefit<br>grief<br>treat<br>acoustic |  
+| bip_39_word_new_br2 | mixed<br>author |  
+| bip_39_word_new_br3 | mixed<br>author<br>panel |  
+| bip_39_word_new_br4 | mixed<br>author<br>panel<br>carpet |  
+| bip_39_word_new_br5 | mixed<br>author<br>panel<br>carpet<br>lady |  
+| bip_39_word_new_br6 | mixed<br>author<br>panel<br>carpet<br>lady<br>present |  
+| bip_39_word_new_br7 | mixed<br>author<br>panel<br>carpet<br>lady<br>present<br>always |  
+| bip_39_word_new_br8 | mixed<br>author<br>panel<br>carpet<br>lady<br>present<br>always<br>drum |  
+| bip_39_word_new_br9 | mixed<br>author<br>panel<br>carpet<br>lady<br>present<br>always<br>drum<br>benefit |  
+| bip_39_word_new_line1 | mixed |  
+| bip_39_word_new_line10 | mixed
+author
+panel
+carpet
+lady
+present
+always
+drum
+benefit
+grief |  
+| bip_39_word_new_line11 | mixed
+author
+panel
+carpet
+lady
+present
+always
+drum
+benefit
+grief
+treat |  
+| bip_39_word_new_line12 | mixed
+author
+panel
+carpet
+lady
+present
+always
+drum
+benefit
+grief
+treat
+acoustic |  
+| bip_39_word_new_line2 | mixed
+author |  
+| bip_39_word_new_line3 | mixed
+author
+panel |  
+| bip_39_word_new_line4 | mixed
+author
+panel
+carpet |  
+| bip_39_word_new_line5 | mixed
+author
+panel
+carpet
+lady |  
+| bip_39_word_new_line6 | mixed
+author
+panel
+carpet
+lady
+present |  
+| bip_39_word_new_line7 | mixed
+author
+panel
+carpet
+lady
+present
+always |  
+| bip_39_word_new_line8 | mixed
+author
+panel
+carpet
+lady
+present
+always
+drum |  
+| bip_39_word_new_line9 | mixed
+author
+panel
+carpet
+lady
+present
+always
+drum
+benefit |  
+| bip_39_word_space_0 | ['mixed', 'author', 'panel', 'carpet', 'lady', 'present', 'always', 'drum', 'benefit', 'grief', 'treat', 'acoustic'] |  
+| bip_39_word_space_1 | mixed |  
+| bip_39_word_space_10 | mixed author panel carpet lady present always drum benefit grief |  
+| bip_39_word_space_11 | mixed author panel carpet lady present always drum benefit grief treat |  
+| bip_39_word_space_12 | mixed author panel carpet lady present always drum benefit grief treat acoustic |  
+| bip_39_word_space_2 | mixed author |  
+| bip_39_word_space_3 | mixed author panel |  
+| bip_39_word_space_4 | mixed author panel carpet |  
+| bip_39_word_space_5 | mixed author panel carpet lady |  
+| bip_39_word_space_6 | mixed author panel carpet lady present |  
+| bip_39_word_space_7 | mixed author panel carpet lady present always |  
+| bip_39_word_space_8 | mixed author panel carpet lady present always drum |  
+| bip_39_word_space_9 | mixed author panel carpet lady present always drum benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

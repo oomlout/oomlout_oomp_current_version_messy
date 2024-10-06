@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sunset
+bip_39_word_new_br10: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media<br>clarify<br>toward<br>jacket<br>memory
+bip_39_word_new_br11: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media<br>clarify<br>toward<br>jacket<br>memory<br>toast
+bip_39_word_new_br12: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media<br>clarify<br>toward<br>jacket<br>memory<br>toast<br>around
+bip_39_word_new_br2: sunset<br>ginger
+bip_39_word_new_br3: sunset<br>ginger<br>equip
+bip_39_word_new_br4: sunset<br>ginger<br>equip<br>wolf
+bip_39_word_new_br5: sunset<br>ginger<br>equip<br>wolf<br>sand
+bip_39_word_new_br6: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media
+bip_39_word_new_br7: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media<br>clarify
+bip_39_word_new_br8: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media<br>clarify<br>toward
+bip_39_word_new_br9: sunset<br>ginger<br>equip<br>wolf<br>sand<br>media<br>clarify<br>toward<br>jacket
+bip_39_word_new_line1: sunset
+bip_39_word_new_line10: 'sunset
+
+  ginger
+
+  equip
+
+  wolf
+
+  sand
+
+  media
+
+  clarify
+
+  toward
+
+  jacket
+
+  memory'
+bip_39_word_new_line11: 'sunset
+
+  ginger
+
+  equip
+
+  wolf
+
+  sand
+
+  media
+
+  clarify
+
+  toward
+
+  jacket
+
+  memory
+
+  toast'
+bip_39_word_new_line12: 'sunset
+
+  ginger
+
+  equip
+
+  wolf
+
+  sand
+
+  media
+
+  clarify
+
+  toward
+
+  jacket
+
+  memory
+
+  toast
+
+  around'
+bip_39_word_new_line2: 'sunset
+
+  ginger'
+bip_39_word_new_line3: 'sunset
+
+  ginger
+
+  equip'
+bip_39_word_new_line4: 'sunset
+
+  ginger
+
+  equip
+
+  wolf'
+bip_39_word_new_line5: 'sunset
+
+  ginger
+
+  equip
+
+  wolf
+
+  sand'
+bip_39_word_new_line6: 'sunset
+
+  ginger
+
+  equip
+
+  wolf
+
+  sand
+
+  media'
+bip_39_word_new_line7: 'sunset
+
+  ginger
+
+  equip
+
+  wolf
+
+  sand
+
+  media
+
+  clarify'
+bip_39_word_new_line8: 'sunset
+
+  ginger
+
+  equip
+
+  wolf
+
+  sand
+
+  media
+
+  clarify
+
+  toward'
+bip_39_word_new_line9: 'sunset
+
+  ginger
+
+  equip
+
+  wolf
+
+  sand
+
+  media
+
+  clarify
+
+  toward
+
+  jacket'
+bip_39_word_space_0:
+- sunset
+- ginger
+- equip
+- wolf
+- sand
+- media
+- clarify
+- toward
+- jacket
+- memory
+- toast
+- around
+bip_39_word_space_1: sunset
+bip_39_word_space_10: sunset ginger equip wolf sand media clarify toward jacket memory
+bip_39_word_space_11: sunset ginger equip wolf sand media clarify toward jacket memory
+  toast
+bip_39_word_space_12: sunset ginger equip wolf sand media clarify toward jacket memory
+  toast around
+bip_39_word_space_2: sunset ginger
+bip_39_word_space_3: sunset ginger equip
+bip_39_word_space_4: sunset ginger equip wolf
+bip_39_word_space_5: sunset ginger equip wolf sand
+bip_39_word_space_6: sunset ginger equip wolf sand media
+bip_39_word_space_7: sunset ginger equip wolf sand media clarify
+bip_39_word_space_8: sunset ginger equip wolf sand media clarify toward
+bip_39_word_space_9: sunset ginger equip wolf sand media clarify toward jacket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: since
+bip_39_word_new_br10: since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact
+bip_39_word_new_br11: since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact<br>execute
+bip_39_word_new_br12: since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride<br>enact<br>execute<br>antique
+bip_39_word_new_br2: since<br>identify
+bip_39_word_new_br3: since<br>identify<br>toe
+bip_39_word_new_br4: since<br>identify<br>toe<br>trap
+bip_39_word_new_br5: since<br>identify<br>toe<br>trap<br>force
+bip_39_word_new_br6: since<br>identify<br>toe<br>trap<br>force<br>abstract
+bip_39_word_new_br7: since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow
+bip_39_word_new_br8: since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry
+bip_39_word_new_br9: since<br>identify<br>toe<br>trap<br>force<br>abstract<br>hollow<br>angry<br>pride
+bip_39_word_new_line1: since
+bip_39_word_new_line10: 'since
+
+  identify
+
+  toe
+
+  trap
+
+  force
+
+  abstract
+
+  hollow
+
+  angry
+
+  pride
+
+  enact'
+bip_39_word_new_line11: 'since
+
+  identify
+
+  toe
+
+  trap
+
+  force
+
+  abstract
+
+  hollow
+
+  angry
+
+  pride
+
+  enact
+
+  execute'
+bip_39_word_new_line12: 'since
+
+  identify
+
+  toe
+
+  trap
+
+  force
+
+  abstract
+
+  hollow
+
+  angry
+
+  pride
+
+  enact
+
+  execute
+
+  antique'
+bip_39_word_new_line2: 'since
+
+  identify'
+bip_39_word_new_line3: 'since
+
+  identify
+
+  toe'
+bip_39_word_new_line4: 'since
+
+  identify
+
+  toe
+
+  trap'
+bip_39_word_new_line5: 'since
+
+  identify
+
+  toe
+
+  trap
+
+  force'
+bip_39_word_new_line6: 'since
+
+  identify
+
+  toe
+
+  trap
+
+  force
+
+  abstract'
+bip_39_word_new_line7: 'since
+
+  identify
+
+  toe
+
+  trap
+
+  force
+
+  abstract
+
+  hollow'
+bip_39_word_new_line8: 'since
+
+  identify
+
+  toe
+
+  trap
+
+  force
+
+  abstract
+
+  hollow
+
+  angry'
+bip_39_word_new_line9: 'since
+
+  identify
+
+  toe
+
+  trap
+
+  force
+
+  abstract
+
+  hollow
+
+  angry
+
+  pride'
+bip_39_word_space_0:
+- since
+- identify
+- toe
+- trap
+- force
+- abstract
+- hollow
+- angry
+- pride
+- enact
+- execute
+- antique
+bip_39_word_space_1: since
+bip_39_word_space_10: since identify toe trap force abstract hollow angry pride enact
+bip_39_word_space_11: since identify toe trap force abstract hollow angry pride enact
+  execute
+bip_39_word_space_12: since identify toe trap force abstract hollow angry pride enact
+  execute antique
+bip_39_word_space_2: since identify
+bip_39_word_space_3: since identify toe
+bip_39_word_space_4: since identify toe trap
+bip_39_word_space_5: since identify toe trap force
+bip_39_word_space_6: since identify toe trap force abstract
+bip_39_word_space_7: since identify toe trap force abstract hollow
+bip_39_word_space_8: since identify toe trap force abstract hollow angry
+bip_39_word_space_9: since identify toe trap force abstract hollow angry pride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

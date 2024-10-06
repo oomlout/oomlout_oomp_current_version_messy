@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: world include
+  * bip 39 word 3: world include require
+  * bip 39 word: world include require survey radar deal decrease cinnamon brass scene stomach alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | world |  
+| bip_39_word_new_br10 | world<br>include<br>require<br>survey<br>radar<br>deal<br>decrease<br>cinnamon<br>brass<br>scene |  
+| bip_39_word_new_br11 | world<br>include<br>require<br>survey<br>radar<br>deal<br>decrease<br>cinnamon<br>brass<br>scene<br>stomach |  
+| bip_39_word_new_br12 | world<br>include<br>require<br>survey<br>radar<br>deal<br>decrease<br>cinnamon<br>brass<br>scene<br>stomach<br>alley |  
+| bip_39_word_new_br2 | world<br>include |  
+| bip_39_word_new_br3 | world<br>include<br>require |  
+| bip_39_word_new_br4 | world<br>include<br>require<br>survey |  
+| bip_39_word_new_br5 | world<br>include<br>require<br>survey<br>radar |  
+| bip_39_word_new_br6 | world<br>include<br>require<br>survey<br>radar<br>deal |  
+| bip_39_word_new_br7 | world<br>include<br>require<br>survey<br>radar<br>deal<br>decrease |  
+| bip_39_word_new_br8 | world<br>include<br>require<br>survey<br>radar<br>deal<br>decrease<br>cinnamon |  
+| bip_39_word_new_br9 | world<br>include<br>require<br>survey<br>radar<br>deal<br>decrease<br>cinnamon<br>brass |  
+| bip_39_word_new_line1 | world |  
+| bip_39_word_new_line10 | world
+include
+require
+survey
+radar
+deal
+decrease
+cinnamon
+brass
+scene |  
+| bip_39_word_new_line11 | world
+include
+require
+survey
+radar
+deal
+decrease
+cinnamon
+brass
+scene
+stomach |  
+| bip_39_word_new_line12 | world
+include
+require
+survey
+radar
+deal
+decrease
+cinnamon
+brass
+scene
+stomach
+alley |  
+| bip_39_word_new_line2 | world
+include |  
+| bip_39_word_new_line3 | world
+include
+require |  
+| bip_39_word_new_line4 | world
+include
+require
+survey |  
+| bip_39_word_new_line5 | world
+include
+require
+survey
+radar |  
+| bip_39_word_new_line6 | world
+include
+require
+survey
+radar
+deal |  
+| bip_39_word_new_line7 | world
+include
+require
+survey
+radar
+deal
+decrease |  
+| bip_39_word_new_line8 | world
+include
+require
+survey
+radar
+deal
+decrease
+cinnamon |  
+| bip_39_word_new_line9 | world
+include
+require
+survey
+radar
+deal
+decrease
+cinnamon
+brass |  
+| bip_39_word_space_0 | ['world', 'include', 'require', 'survey', 'radar', 'deal', 'decrease', 'cinnamon', 'brass', 'scene', 'stomach', 'alley'] |  
+| bip_39_word_space_1 | world |  
+| bip_39_word_space_10 | world include require survey radar deal decrease cinnamon brass scene |  
+| bip_39_word_space_11 | world include require survey radar deal decrease cinnamon brass scene stomach |  
+| bip_39_word_space_12 | world include require survey radar deal decrease cinnamon brass scene stomach alley |  
+| bip_39_word_space_2 | world include |  
+| bip_39_word_space_3 | world include require |  
+| bip_39_word_space_4 | world include require survey |  
+| bip_39_word_space_5 | world include require survey radar |  
+| bip_39_word_space_6 | world include require survey radar deal |  
+| bip_39_word_space_7 | world include require survey radar deal decrease |  
+| bip_39_word_space_8 | world include require survey radar deal decrease cinnamon |  
+| bip_39_word_space_9 | world include require survey radar deal decrease cinnamon brass |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

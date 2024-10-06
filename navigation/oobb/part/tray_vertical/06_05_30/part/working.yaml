@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sun
+bip_39_word_new_br10: sun<br>juice<br>suggest<br>pride<br>dream<br>sister<br>lab<br>area<br>cigar<br>sustain
+bip_39_word_new_br11: sun<br>juice<br>suggest<br>pride<br>dream<br>sister<br>lab<br>area<br>cigar<br>sustain<br>top
+bip_39_word_new_br12: sun<br>juice<br>suggest<br>pride<br>dream<br>sister<br>lab<br>area<br>cigar<br>sustain<br>top<br>actress
+bip_39_word_new_br2: sun<br>juice
+bip_39_word_new_br3: sun<br>juice<br>suggest
+bip_39_word_new_br4: sun<br>juice<br>suggest<br>pride
+bip_39_word_new_br5: sun<br>juice<br>suggest<br>pride<br>dream
+bip_39_word_new_br6: sun<br>juice<br>suggest<br>pride<br>dream<br>sister
+bip_39_word_new_br7: sun<br>juice<br>suggest<br>pride<br>dream<br>sister<br>lab
+bip_39_word_new_br8: sun<br>juice<br>suggest<br>pride<br>dream<br>sister<br>lab<br>area
+bip_39_word_new_br9: sun<br>juice<br>suggest<br>pride<br>dream<br>sister<br>lab<br>area<br>cigar
+bip_39_word_new_line1: sun
+bip_39_word_new_line10: 'sun
+
+  juice
+
+  suggest
+
+  pride
+
+  dream
+
+  sister
+
+  lab
+
+  area
+
+  cigar
+
+  sustain'
+bip_39_word_new_line11: 'sun
+
+  juice
+
+  suggest
+
+  pride
+
+  dream
+
+  sister
+
+  lab
+
+  area
+
+  cigar
+
+  sustain
+
+  top'
+bip_39_word_new_line12: 'sun
+
+  juice
+
+  suggest
+
+  pride
+
+  dream
+
+  sister
+
+  lab
+
+  area
+
+  cigar
+
+  sustain
+
+  top
+
+  actress'
+bip_39_word_new_line2: 'sun
+
+  juice'
+bip_39_word_new_line3: 'sun
+
+  juice
+
+  suggest'
+bip_39_word_new_line4: 'sun
+
+  juice
+
+  suggest
+
+  pride'
+bip_39_word_new_line5: 'sun
+
+  juice
+
+  suggest
+
+  pride
+
+  dream'
+bip_39_word_new_line6: 'sun
+
+  juice
+
+  suggest
+
+  pride
+
+  dream
+
+  sister'
+bip_39_word_new_line7: 'sun
+
+  juice
+
+  suggest
+
+  pride
+
+  dream
+
+  sister
+
+  lab'
+bip_39_word_new_line8: 'sun
+
+  juice
+
+  suggest
+
+  pride
+
+  dream
+
+  sister
+
+  lab
+
+  area'
+bip_39_word_new_line9: 'sun
+
+  juice
+
+  suggest
+
+  pride
+
+  dream
+
+  sister
+
+  lab
+
+  area
+
+  cigar'
+bip_39_word_space_0:
+- sun
+- juice
+- suggest
+- pride
+- dream
+- sister
+- lab
+- area
+- cigar
+- sustain
+- top
+- actress
+bip_39_word_space_1: sun
+bip_39_word_space_10: sun juice suggest pride dream sister lab area cigar sustain
+bip_39_word_space_11: sun juice suggest pride dream sister lab area cigar sustain
+  top
+bip_39_word_space_12: sun juice suggest pride dream sister lab area cigar sustain
+  top actress
+bip_39_word_space_2: sun juice
+bip_39_word_space_3: sun juice suggest
+bip_39_word_space_4: sun juice suggest pride
+bip_39_word_space_5: sun juice suggest pride dream
+bip_39_word_space_6: sun juice suggest pride dream sister
+bip_39_word_space_7: sun juice suggest pride dream sister lab
+bip_39_word_space_8: sun juice suggest pride dream sister lab area
+bip_39_word_space_9: sun juice suggest pride dream sister lab area cigar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

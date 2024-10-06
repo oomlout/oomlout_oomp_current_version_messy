@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sort grief
+  * bip 39 word 3: sort grief chaos
+  * bip 39 word: sort grief chaos harbor then deposit monkey ride can surface lift about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sort |  
+| bip_39_word_new_br10 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can<br>surface |  
+| bip_39_word_new_br11 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can<br>surface<br>lift |  
+| bip_39_word_new_br12 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can<br>surface<br>lift<br>about |  
+| bip_39_word_new_br2 | sort<br>grief |  
+| bip_39_word_new_br3 | sort<br>grief<br>chaos |  
+| bip_39_word_new_br4 | sort<br>grief<br>chaos<br>harbor |  
+| bip_39_word_new_br5 | sort<br>grief<br>chaos<br>harbor<br>then |  
+| bip_39_word_new_br6 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit |  
+| bip_39_word_new_br7 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey |  
+| bip_39_word_new_br8 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride |  
+| bip_39_word_new_br9 | sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can |  
+| bip_39_word_new_line1 | sort |  
+| bip_39_word_new_line10 | sort
+grief
+chaos
+harbor
+then
+deposit
+monkey
+ride
+can
+surface |  
+| bip_39_word_new_line11 | sort
+grief
+chaos
+harbor
+then
+deposit
+monkey
+ride
+can
+surface
+lift |  
+| bip_39_word_new_line12 | sort
+grief
+chaos
+harbor
+then
+deposit
+monkey
+ride
+can
+surface
+lift
+about |  
+| bip_39_word_new_line2 | sort
+grief |  
+| bip_39_word_new_line3 | sort
+grief
+chaos |  
+| bip_39_word_new_line4 | sort
+grief
+chaos
+harbor |  
+| bip_39_word_new_line5 | sort
+grief
+chaos
+harbor
+then |  
+| bip_39_word_new_line6 | sort
+grief
+chaos
+harbor
+then
+deposit |  
+| bip_39_word_new_line7 | sort
+grief
+chaos
+harbor
+then
+deposit
+monkey |  
+| bip_39_word_new_line8 | sort
+grief
+chaos
+harbor
+then
+deposit
+monkey
+ride |  
+| bip_39_word_new_line9 | sort
+grief
+chaos
+harbor
+then
+deposit
+monkey
+ride
+can |  
+| bip_39_word_space_0 | ['sort', 'grief', 'chaos', 'harbor', 'then', 'deposit', 'monkey', 'ride', 'can', 'surface', 'lift', 'about'] |  
+| bip_39_word_space_1 | sort |  
+| bip_39_word_space_10 | sort grief chaos harbor then deposit monkey ride can surface |  
+| bip_39_word_space_11 | sort grief chaos harbor then deposit monkey ride can surface lift |  
+| bip_39_word_space_12 | sort grief chaos harbor then deposit monkey ride can surface lift about |  
+| bip_39_word_space_2 | sort grief |  
+| bip_39_word_space_3 | sort grief chaos |  
+| bip_39_word_space_4 | sort grief chaos harbor |  
+| bip_39_word_space_5 | sort grief chaos harbor then |  
+| bip_39_word_space_6 | sort grief chaos harbor then deposit |  
+| bip_39_word_space_7 | sort grief chaos harbor then deposit monkey |  
+| bip_39_word_space_8 | sort grief chaos harbor then deposit monkey ride |  
+| bip_39_word_space_9 | sort grief chaos harbor then deposit monkey ride can |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

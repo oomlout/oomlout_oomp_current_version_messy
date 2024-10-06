@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quick toy
+  * bip 39 word 3: quick toy brief
+  * bip 39 word: quick toy brief brave fresh figure edge phone discover woman curve amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quick |  
+| bip_39_word_new_br10 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure<br>edge<br>phone<br>discover<br>woman |  
+| bip_39_word_new_br11 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure<br>edge<br>phone<br>discover<br>woman<br>curve |  
+| bip_39_word_new_br12 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure<br>edge<br>phone<br>discover<br>woman<br>curve<br>amused |  
+| bip_39_word_new_br2 | quick<br>toy |  
+| bip_39_word_new_br3 | quick<br>toy<br>brief |  
+| bip_39_word_new_br4 | quick<br>toy<br>brief<br>brave |  
+| bip_39_word_new_br5 | quick<br>toy<br>brief<br>brave<br>fresh |  
+| bip_39_word_new_br6 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure |  
+| bip_39_word_new_br7 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure<br>edge |  
+| bip_39_word_new_br8 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure<br>edge<br>phone |  
+| bip_39_word_new_br9 | quick<br>toy<br>brief<br>brave<br>fresh<br>figure<br>edge<br>phone<br>discover |  
+| bip_39_word_new_line1 | quick |  
+| bip_39_word_new_line10 | quick
+toy
+brief
+brave
+fresh
+figure
+edge
+phone
+discover
+woman |  
+| bip_39_word_new_line11 | quick
+toy
+brief
+brave
+fresh
+figure
+edge
+phone
+discover
+woman
+curve |  
+| bip_39_word_new_line12 | quick
+toy
+brief
+brave
+fresh
+figure
+edge
+phone
+discover
+woman
+curve
+amused |  
+| bip_39_word_new_line2 | quick
+toy |  
+| bip_39_word_new_line3 | quick
+toy
+brief |  
+| bip_39_word_new_line4 | quick
+toy
+brief
+brave |  
+| bip_39_word_new_line5 | quick
+toy
+brief
+brave
+fresh |  
+| bip_39_word_new_line6 | quick
+toy
+brief
+brave
+fresh
+figure |  
+| bip_39_word_new_line7 | quick
+toy
+brief
+brave
+fresh
+figure
+edge |  
+| bip_39_word_new_line8 | quick
+toy
+brief
+brave
+fresh
+figure
+edge
+phone |  
+| bip_39_word_new_line9 | quick
+toy
+brief
+brave
+fresh
+figure
+edge
+phone
+discover |  
+| bip_39_word_space_0 | ['quick', 'toy', 'brief', 'brave', 'fresh', 'figure', 'edge', 'phone', 'discover', 'woman', 'curve', 'amused'] |  
+| bip_39_word_space_1 | quick |  
+| bip_39_word_space_10 | quick toy brief brave fresh figure edge phone discover woman |  
+| bip_39_word_space_11 | quick toy brief brave fresh figure edge phone discover woman curve |  
+| bip_39_word_space_12 | quick toy brief brave fresh figure edge phone discover woman curve amused |  
+| bip_39_word_space_2 | quick toy |  
+| bip_39_word_space_3 | quick toy brief |  
+| bip_39_word_space_4 | quick toy brief brave |  
+| bip_39_word_space_5 | quick toy brief brave fresh |  
+| bip_39_word_space_6 | quick toy brief brave fresh figure |  
+| bip_39_word_space_7 | quick toy brief brave fresh figure edge |  
+| bip_39_word_space_8 | quick toy brief brave fresh figure edge phone |  
+| bip_39_word_space_9 | quick toy brief brave fresh figure edge phone discover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

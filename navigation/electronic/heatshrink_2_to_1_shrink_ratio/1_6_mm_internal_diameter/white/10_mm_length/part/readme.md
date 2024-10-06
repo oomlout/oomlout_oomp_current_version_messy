@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bullet mountain
+  * bip 39 word 3: bullet mountain stamp
+  * bip 39 word: bullet mountain stamp nice thing bargain defy category grunt height fantasy adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bullet |  
+| bip_39_word_new_br10 | bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain<br>defy<br>category<br>grunt<br>height |  
+| bip_39_word_new_br11 | bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain<br>defy<br>category<br>grunt<br>height<br>fantasy |  
+| bip_39_word_new_br12 | bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain<br>defy<br>category<br>grunt<br>height<br>fantasy<br>adapt |  
+| bip_39_word_new_br2 | bullet<br>mountain |  
+| bip_39_word_new_br3 | bullet<br>mountain<br>stamp |  
+| bip_39_word_new_br4 | bullet<br>mountain<br>stamp<br>nice |  
+| bip_39_word_new_br5 | bullet<br>mountain<br>stamp<br>nice<br>thing |  
+| bip_39_word_new_br6 | bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain |  
+| bip_39_word_new_br7 | bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain<br>defy |  
+| bip_39_word_new_br8 | bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain<br>defy<br>category |  
+| bip_39_word_new_br9 | bullet<br>mountain<br>stamp<br>nice<br>thing<br>bargain<br>defy<br>category<br>grunt |  
+| bip_39_word_new_line1 | bullet |  
+| bip_39_word_new_line10 | bullet
+mountain
+stamp
+nice
+thing
+bargain
+defy
+category
+grunt
+height |  
+| bip_39_word_new_line11 | bullet
+mountain
+stamp
+nice
+thing
+bargain
+defy
+category
+grunt
+height
+fantasy |  
+| bip_39_word_new_line12 | bullet
+mountain
+stamp
+nice
+thing
+bargain
+defy
+category
+grunt
+height
+fantasy
+adapt |  
+| bip_39_word_new_line2 | bullet
+mountain |  
+| bip_39_word_new_line3 | bullet
+mountain
+stamp |  
+| bip_39_word_new_line4 | bullet
+mountain
+stamp
+nice |  
+| bip_39_word_new_line5 | bullet
+mountain
+stamp
+nice
+thing |  
+| bip_39_word_new_line6 | bullet
+mountain
+stamp
+nice
+thing
+bargain |  
+| bip_39_word_new_line7 | bullet
+mountain
+stamp
+nice
+thing
+bargain
+defy |  
+| bip_39_word_new_line8 | bullet
+mountain
+stamp
+nice
+thing
+bargain
+defy
+category |  
+| bip_39_word_new_line9 | bullet
+mountain
+stamp
+nice
+thing
+bargain
+defy
+category
+grunt |  
+| bip_39_word_space_0 | ['bullet', 'mountain', 'stamp', 'nice', 'thing', 'bargain', 'defy', 'category', 'grunt', 'height', 'fantasy', 'adapt'] |  
+| bip_39_word_space_1 | bullet |  
+| bip_39_word_space_10 | bullet mountain stamp nice thing bargain defy category grunt height |  
+| bip_39_word_space_11 | bullet mountain stamp nice thing bargain defy category grunt height fantasy |  
+| bip_39_word_space_12 | bullet mountain stamp nice thing bargain defy category grunt height fantasy adapt |  
+| bip_39_word_space_2 | bullet mountain |  
+| bip_39_word_space_3 | bullet mountain stamp |  
+| bip_39_word_space_4 | bullet mountain stamp nice |  
+| bip_39_word_space_5 | bullet mountain stamp nice thing |  
+| bip_39_word_space_6 | bullet mountain stamp nice thing bargain |  
+| bip_39_word_space_7 | bullet mountain stamp nice thing bargain defy |  
+| bip_39_word_space_8 | bullet mountain stamp nice thing bargain defy category |  
+| bip_39_word_space_9 | bullet mountain stamp nice thing bargain defy category grunt |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

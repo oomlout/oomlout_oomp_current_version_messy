@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: van negative
+  * bip 39 word 3: van negative involve
+  * bip 39 word: van negative involve orphan canal unfold sustain useful deliver day admit addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | van |  
+| bip_39_word_new_br10 | van<br>negative<br>involve<br>orphan<br>canal<br>unfold<br>sustain<br>useful<br>deliver<br>day |  
+| bip_39_word_new_br11 | van<br>negative<br>involve<br>orphan<br>canal<br>unfold<br>sustain<br>useful<br>deliver<br>day<br>admit |  
+| bip_39_word_new_br12 | van<br>negative<br>involve<br>orphan<br>canal<br>unfold<br>sustain<br>useful<br>deliver<br>day<br>admit<br>addict |  
+| bip_39_word_new_br2 | van<br>negative |  
+| bip_39_word_new_br3 | van<br>negative<br>involve |  
+| bip_39_word_new_br4 | van<br>negative<br>involve<br>orphan |  
+| bip_39_word_new_br5 | van<br>negative<br>involve<br>orphan<br>canal |  
+| bip_39_word_new_br6 | van<br>negative<br>involve<br>orphan<br>canal<br>unfold |  
+| bip_39_word_new_br7 | van<br>negative<br>involve<br>orphan<br>canal<br>unfold<br>sustain |  
+| bip_39_word_new_br8 | van<br>negative<br>involve<br>orphan<br>canal<br>unfold<br>sustain<br>useful |  
+| bip_39_word_new_br9 | van<br>negative<br>involve<br>orphan<br>canal<br>unfold<br>sustain<br>useful<br>deliver |  
+| bip_39_word_new_line1 | van |  
+| bip_39_word_new_line10 | van
+negative
+involve
+orphan
+canal
+unfold
+sustain
+useful
+deliver
+day |  
+| bip_39_word_new_line11 | van
+negative
+involve
+orphan
+canal
+unfold
+sustain
+useful
+deliver
+day
+admit |  
+| bip_39_word_new_line12 | van
+negative
+involve
+orphan
+canal
+unfold
+sustain
+useful
+deliver
+day
+admit
+addict |  
+| bip_39_word_new_line2 | van
+negative |  
+| bip_39_word_new_line3 | van
+negative
+involve |  
+| bip_39_word_new_line4 | van
+negative
+involve
+orphan |  
+| bip_39_word_new_line5 | van
+negative
+involve
+orphan
+canal |  
+| bip_39_word_new_line6 | van
+negative
+involve
+orphan
+canal
+unfold |  
+| bip_39_word_new_line7 | van
+negative
+involve
+orphan
+canal
+unfold
+sustain |  
+| bip_39_word_new_line8 | van
+negative
+involve
+orphan
+canal
+unfold
+sustain
+useful |  
+| bip_39_word_new_line9 | van
+negative
+involve
+orphan
+canal
+unfold
+sustain
+useful
+deliver |  
+| bip_39_word_space_0 | ['van', 'negative', 'involve', 'orphan', 'canal', 'unfold', 'sustain', 'useful', 'deliver', 'day', 'admit', 'addict'] |  
+| bip_39_word_space_1 | van |  
+| bip_39_word_space_10 | van negative involve orphan canal unfold sustain useful deliver day |  
+| bip_39_word_space_11 | van negative involve orphan canal unfold sustain useful deliver day admit |  
+| bip_39_word_space_12 | van negative involve orphan canal unfold sustain useful deliver day admit addict |  
+| bip_39_word_space_2 | van negative |  
+| bip_39_word_space_3 | van negative involve |  
+| bip_39_word_space_4 | van negative involve orphan |  
+| bip_39_word_space_5 | van negative involve orphan canal |  
+| bip_39_word_space_6 | van negative involve orphan canal unfold |  
+| bip_39_word_space_7 | van negative involve orphan canal unfold sustain |  
+| bip_39_word_space_8 | van negative involve orphan canal unfold sustain useful |  
+| bip_39_word_space_9 | van negative involve orphan canal unfold sustain useful deliver |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

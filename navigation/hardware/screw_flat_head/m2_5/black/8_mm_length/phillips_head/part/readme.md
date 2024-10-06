@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stone element
+  * bip 39 word 3: stone element salt
+  * bip 39 word: stone element salt music admit off alley fancy catalog consider monkey ancient
 
 ### other_codes
 * short_code: fh2d5b8p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stone |  
+| bip_39_word_new_br10 | stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog<br>consider |  
+| bip_39_word_new_br11 | stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog<br>consider<br>monkey |  
+| bip_39_word_new_br12 | stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog<br>consider<br>monkey<br>ancient |  
+| bip_39_word_new_br2 | stone<br>element |  
+| bip_39_word_new_br3 | stone<br>element<br>salt |  
+| bip_39_word_new_br4 | stone<br>element<br>salt<br>music |  
+| bip_39_word_new_br5 | stone<br>element<br>salt<br>music<br>admit |  
+| bip_39_word_new_br6 | stone<br>element<br>salt<br>music<br>admit<br>off |  
+| bip_39_word_new_br7 | stone<br>element<br>salt<br>music<br>admit<br>off<br>alley |  
+| bip_39_word_new_br8 | stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy |  
+| bip_39_word_new_br9 | stone<br>element<br>salt<br>music<br>admit<br>off<br>alley<br>fancy<br>catalog |  
+| bip_39_word_new_line1 | stone |  
+| bip_39_word_new_line10 | stone
+element
+salt
+music
+admit
+off
+alley
+fancy
+catalog
+consider |  
+| bip_39_word_new_line11 | stone
+element
+salt
+music
+admit
+off
+alley
+fancy
+catalog
+consider
+monkey |  
+| bip_39_word_new_line12 | stone
+element
+salt
+music
+admit
+off
+alley
+fancy
+catalog
+consider
+monkey
+ancient |  
+| bip_39_word_new_line2 | stone
+element |  
+| bip_39_word_new_line3 | stone
+element
+salt |  
+| bip_39_word_new_line4 | stone
+element
+salt
+music |  
+| bip_39_word_new_line5 | stone
+element
+salt
+music
+admit |  
+| bip_39_word_new_line6 | stone
+element
+salt
+music
+admit
+off |  
+| bip_39_word_new_line7 | stone
+element
+salt
+music
+admit
+off
+alley |  
+| bip_39_word_new_line8 | stone
+element
+salt
+music
+admit
+off
+alley
+fancy |  
+| bip_39_word_new_line9 | stone
+element
+salt
+music
+admit
+off
+alley
+fancy
+catalog |  
+| bip_39_word_space_0 | ['stone', 'element', 'salt', 'music', 'admit', 'off', 'alley', 'fancy', 'catalog', 'consider', 'monkey', 'ancient'] |  
+| bip_39_word_space_1 | stone |  
+| bip_39_word_space_10 | stone element salt music admit off alley fancy catalog consider |  
+| bip_39_word_space_11 | stone element salt music admit off alley fancy catalog consider monkey |  
+| bip_39_word_space_12 | stone element salt music admit off alley fancy catalog consider monkey ancient |  
+| bip_39_word_space_2 | stone element |  
+| bip_39_word_space_3 | stone element salt |  
+| bip_39_word_space_4 | stone element salt music |  
+| bip_39_word_space_5 | stone element salt music admit |  
+| bip_39_word_space_6 | stone element salt music admit off |  
+| bip_39_word_space_7 | stone element salt music admit off alley |  
+| bip_39_word_space_8 | stone element salt music admit off alley fancy |  
+| bip_39_word_space_9 | stone element salt music admit off alley fancy catalog |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

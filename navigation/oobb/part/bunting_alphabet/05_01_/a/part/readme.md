@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: a
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: where vocal
+  * bip 39 word 3: where vocal hub
+  * bip 39 word: where vocal hub foam conduct staff uncover dirt motor also upset aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | where |  
+| bip_39_word_new_br10 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt<br>motor<br>also |  
+| bip_39_word_new_br11 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt<br>motor<br>also<br>upset |  
+| bip_39_word_new_br12 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt<br>motor<br>also<br>upset<br>aisle |  
+| bip_39_word_new_br2 | where<br>vocal |  
+| bip_39_word_new_br3 | where<br>vocal<br>hub |  
+| bip_39_word_new_br4 | where<br>vocal<br>hub<br>foam |  
+| bip_39_word_new_br5 | where<br>vocal<br>hub<br>foam<br>conduct |  
+| bip_39_word_new_br6 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff |  
+| bip_39_word_new_br7 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover |  
+| bip_39_word_new_br8 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt |  
+| bip_39_word_new_br9 | where<br>vocal<br>hub<br>foam<br>conduct<br>staff<br>uncover<br>dirt<br>motor |  
+| bip_39_word_new_line1 | where |  
+| bip_39_word_new_line10 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt
+motor
+also |  
+| bip_39_word_new_line11 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt
+motor
+also
+upset |  
+| bip_39_word_new_line12 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt
+motor
+also
+upset
+aisle |  
+| bip_39_word_new_line2 | where
+vocal |  
+| bip_39_word_new_line3 | where
+vocal
+hub |  
+| bip_39_word_new_line4 | where
+vocal
+hub
+foam |  
+| bip_39_word_new_line5 | where
+vocal
+hub
+foam
+conduct |  
+| bip_39_word_new_line6 | where
+vocal
+hub
+foam
+conduct
+staff |  
+| bip_39_word_new_line7 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover |  
+| bip_39_word_new_line8 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt |  
+| bip_39_word_new_line9 | where
+vocal
+hub
+foam
+conduct
+staff
+uncover
+dirt
+motor |  
+| bip_39_word_space_0 | ['where', 'vocal', 'hub', 'foam', 'conduct', 'staff', 'uncover', 'dirt', 'motor', 'also', 'upset', 'aisle'] |  
+| bip_39_word_space_1 | where |  
+| bip_39_word_space_10 | where vocal hub foam conduct staff uncover dirt motor also |  
+| bip_39_word_space_11 | where vocal hub foam conduct staff uncover dirt motor also upset |  
+| bip_39_word_space_12 | where vocal hub foam conduct staff uncover dirt motor also upset aisle |  
+| bip_39_word_space_2 | where vocal |  
+| bip_39_word_space_3 | where vocal hub |  
+| bip_39_word_space_4 | where vocal hub foam |  
+| bip_39_word_space_5 | where vocal hub foam conduct |  
+| bip_39_word_space_6 | where vocal hub foam conduct staff |  
+| bip_39_word_space_7 | where vocal hub foam conduct staff uncover |  
+| bip_39_word_space_8 | where vocal hub foam conduct staff uncover dirt |  
+| bip_39_word_space_9 | where vocal hub foam conduct staff uncover dirt motor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

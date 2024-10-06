@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drive fiber
+  * bip 39 word 3: drive fiber divide
+  * bip 39 word: drive fiber divide ceiling predict split mobile magic defy focus security also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drive |  
+| bip_39_word_new_br10 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus |  
+| bip_39_word_new_br11 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus<br>security |  
+| bip_39_word_new_br12 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy<br>focus<br>security<br>also |  
+| bip_39_word_new_br2 | drive<br>fiber |  
+| bip_39_word_new_br3 | drive<br>fiber<br>divide |  
+| bip_39_word_new_br4 | drive<br>fiber<br>divide<br>ceiling |  
+| bip_39_word_new_br5 | drive<br>fiber<br>divide<br>ceiling<br>predict |  
+| bip_39_word_new_br6 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split |  
+| bip_39_word_new_br7 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile |  
+| bip_39_word_new_br8 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic |  
+| bip_39_word_new_br9 | drive<br>fiber<br>divide<br>ceiling<br>predict<br>split<br>mobile<br>magic<br>defy |  
+| bip_39_word_new_line1 | drive |  
+| bip_39_word_new_line10 | drive
+fiber
+divide
+ceiling
+predict
+split
+mobile
+magic
+defy
+focus |  
+| bip_39_word_new_line11 | drive
+fiber
+divide
+ceiling
+predict
+split
+mobile
+magic
+defy
+focus
+security |  
+| bip_39_word_new_line12 | drive
+fiber
+divide
+ceiling
+predict
+split
+mobile
+magic
+defy
+focus
+security
+also |  
+| bip_39_word_new_line2 | drive
+fiber |  
+| bip_39_word_new_line3 | drive
+fiber
+divide |  
+| bip_39_word_new_line4 | drive
+fiber
+divide
+ceiling |  
+| bip_39_word_new_line5 | drive
+fiber
+divide
+ceiling
+predict |  
+| bip_39_word_new_line6 | drive
+fiber
+divide
+ceiling
+predict
+split |  
+| bip_39_word_new_line7 | drive
+fiber
+divide
+ceiling
+predict
+split
+mobile |  
+| bip_39_word_new_line8 | drive
+fiber
+divide
+ceiling
+predict
+split
+mobile
+magic |  
+| bip_39_word_new_line9 | drive
+fiber
+divide
+ceiling
+predict
+split
+mobile
+magic
+defy |  
+| bip_39_word_space_0 | ['drive', 'fiber', 'divide', 'ceiling', 'predict', 'split', 'mobile', 'magic', 'defy', 'focus', 'security', 'also'] |  
+| bip_39_word_space_1 | drive |  
+| bip_39_word_space_10 | drive fiber divide ceiling predict split mobile magic defy focus |  
+| bip_39_word_space_11 | drive fiber divide ceiling predict split mobile magic defy focus security |  
+| bip_39_word_space_12 | drive fiber divide ceiling predict split mobile magic defy focus security also |  
+| bip_39_word_space_2 | drive fiber |  
+| bip_39_word_space_3 | drive fiber divide |  
+| bip_39_word_space_4 | drive fiber divide ceiling |  
+| bip_39_word_space_5 | drive fiber divide ceiling predict |  
+| bip_39_word_space_6 | drive fiber divide ceiling predict split |  
+| bip_39_word_space_7 | drive fiber divide ceiling predict split mobile |  
+| bip_39_word_space_8 | drive fiber divide ceiling predict split mobile magic |  
+| bip_39_word_space_9 | drive fiber divide ceiling predict split mobile magic defy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

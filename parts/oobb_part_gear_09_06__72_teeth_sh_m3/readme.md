@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: doctor cruise
+  * bip 39 word 3: doctor cruise need
+  * bip 39 word: doctor cruise need glue exhibit physical culture crumble fun tank mountain alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | doctor |  
+| bip_39_word_new_br10 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical<br>culture<br>crumble<br>fun<br>tank |  
+| bip_39_word_new_br11 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical<br>culture<br>crumble<br>fun<br>tank<br>mountain |  
+| bip_39_word_new_br12 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical<br>culture<br>crumble<br>fun<br>tank<br>mountain<br>alpha |  
+| bip_39_word_new_br2 | doctor<br>cruise |  
+| bip_39_word_new_br3 | doctor<br>cruise<br>need |  
+| bip_39_word_new_br4 | doctor<br>cruise<br>need<br>glue |  
+| bip_39_word_new_br5 | doctor<br>cruise<br>need<br>glue<br>exhibit |  
+| bip_39_word_new_br6 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical |  
+| bip_39_word_new_br7 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical<br>culture |  
+| bip_39_word_new_br8 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical<br>culture<br>crumble |  
+| bip_39_word_new_br9 | doctor<br>cruise<br>need<br>glue<br>exhibit<br>physical<br>culture<br>crumble<br>fun |  
+| bip_39_word_new_line1 | doctor |  
+| bip_39_word_new_line10 | doctor
+cruise
+need
+glue
+exhibit
+physical
+culture
+crumble
+fun
+tank |  
+| bip_39_word_new_line11 | doctor
+cruise
+need
+glue
+exhibit
+physical
+culture
+crumble
+fun
+tank
+mountain |  
+| bip_39_word_new_line12 | doctor
+cruise
+need
+glue
+exhibit
+physical
+culture
+crumble
+fun
+tank
+mountain
+alpha |  
+| bip_39_word_new_line2 | doctor
+cruise |  
+| bip_39_word_new_line3 | doctor
+cruise
+need |  
+| bip_39_word_new_line4 | doctor
+cruise
+need
+glue |  
+| bip_39_word_new_line5 | doctor
+cruise
+need
+glue
+exhibit |  
+| bip_39_word_new_line6 | doctor
+cruise
+need
+glue
+exhibit
+physical |  
+| bip_39_word_new_line7 | doctor
+cruise
+need
+glue
+exhibit
+physical
+culture |  
+| bip_39_word_new_line8 | doctor
+cruise
+need
+glue
+exhibit
+physical
+culture
+crumble |  
+| bip_39_word_new_line9 | doctor
+cruise
+need
+glue
+exhibit
+physical
+culture
+crumble
+fun |  
+| bip_39_word_space_0 | ['doctor', 'cruise', 'need', 'glue', 'exhibit', 'physical', 'culture', 'crumble', 'fun', 'tank', 'mountain', 'alpha'] |  
+| bip_39_word_space_1 | doctor |  
+| bip_39_word_space_10 | doctor cruise need glue exhibit physical culture crumble fun tank |  
+| bip_39_word_space_11 | doctor cruise need glue exhibit physical culture crumble fun tank mountain |  
+| bip_39_word_space_12 | doctor cruise need glue exhibit physical culture crumble fun tank mountain alpha |  
+| bip_39_word_space_2 | doctor cruise |  
+| bip_39_word_space_3 | doctor cruise need |  
+| bip_39_word_space_4 | doctor cruise need glue |  
+| bip_39_word_space_5 | doctor cruise need glue exhibit |  
+| bip_39_word_space_6 | doctor cruise need glue exhibit physical |  
+| bip_39_word_space_7 | doctor cruise need glue exhibit physical culture |  
+| bip_39_word_space_8 | doctor cruise need glue exhibit physical culture crumble |  
+| bip_39_word_space_9 | doctor cruise need glue exhibit physical culture crumble fun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

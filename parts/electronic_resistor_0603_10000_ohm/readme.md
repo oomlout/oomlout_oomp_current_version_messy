@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: order federal
+  * bip 39 word 3: order federal valve
+  * bip 39 word: order federal valve action latin sport little leisure lottery churn friend another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | order |  
+| bip_39_word_new_br10 | order<br>federal<br>valve<br>action<br>latin<br>sport<br>little<br>leisure<br>lottery<br>churn |  
+| bip_39_word_new_br11 | order<br>federal<br>valve<br>action<br>latin<br>sport<br>little<br>leisure<br>lottery<br>churn<br>friend |  
+| bip_39_word_new_br12 | order<br>federal<br>valve<br>action<br>latin<br>sport<br>little<br>leisure<br>lottery<br>churn<br>friend<br>another |  
+| bip_39_word_new_br2 | order<br>federal |  
+| bip_39_word_new_br3 | order<br>federal<br>valve |  
+| bip_39_word_new_br4 | order<br>federal<br>valve<br>action |  
+| bip_39_word_new_br5 | order<br>federal<br>valve<br>action<br>latin |  
+| bip_39_word_new_br6 | order<br>federal<br>valve<br>action<br>latin<br>sport |  
+| bip_39_word_new_br7 | order<br>federal<br>valve<br>action<br>latin<br>sport<br>little |  
+| bip_39_word_new_br8 | order<br>federal<br>valve<br>action<br>latin<br>sport<br>little<br>leisure |  
+| bip_39_word_new_br9 | order<br>federal<br>valve<br>action<br>latin<br>sport<br>little<br>leisure<br>lottery |  
+| bip_39_word_new_line1 | order |  
+| bip_39_word_new_line10 | order
+federal
+valve
+action
+latin
+sport
+little
+leisure
+lottery
+churn |  
+| bip_39_word_new_line11 | order
+federal
+valve
+action
+latin
+sport
+little
+leisure
+lottery
+churn
+friend |  
+| bip_39_word_new_line12 | order
+federal
+valve
+action
+latin
+sport
+little
+leisure
+lottery
+churn
+friend
+another |  
+| bip_39_word_new_line2 | order
+federal |  
+| bip_39_word_new_line3 | order
+federal
+valve |  
+| bip_39_word_new_line4 | order
+federal
+valve
+action |  
+| bip_39_word_new_line5 | order
+federal
+valve
+action
+latin |  
+| bip_39_word_new_line6 | order
+federal
+valve
+action
+latin
+sport |  
+| bip_39_word_new_line7 | order
+federal
+valve
+action
+latin
+sport
+little |  
+| bip_39_word_new_line8 | order
+federal
+valve
+action
+latin
+sport
+little
+leisure |  
+| bip_39_word_new_line9 | order
+federal
+valve
+action
+latin
+sport
+little
+leisure
+lottery |  
+| bip_39_word_space_0 | ['order', 'federal', 'valve', 'action', 'latin', 'sport', 'little', 'leisure', 'lottery', 'churn', 'friend', 'another'] |  
+| bip_39_word_space_1 | order |  
+| bip_39_word_space_10 | order federal valve action latin sport little leisure lottery churn |  
+| bip_39_word_space_11 | order federal valve action latin sport little leisure lottery churn friend |  
+| bip_39_word_space_12 | order federal valve action latin sport little leisure lottery churn friend another |  
+| bip_39_word_space_2 | order federal |  
+| bip_39_word_space_3 | order federal valve |  
+| bip_39_word_space_4 | order federal valve action |  
+| bip_39_word_space_5 | order federal valve action latin |  
+| bip_39_word_space_6 | order federal valve action latin sport |  
+| bip_39_word_space_7 | order federal valve action latin sport little |  
+| bip_39_word_space_8 | order federal valve action latin sport little leisure |  
+| bip_39_word_space_9 | order federal valve action latin sport little leisure lottery |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

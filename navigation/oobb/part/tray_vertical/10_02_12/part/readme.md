@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: health way
+  * bip 39 word 3: health way student
+  * bip 39 word: health way student vintage situate dinner clarify minor rotate soft canoe artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | health |  
+| bip_39_word_new_br10 | health<br>way<br>student<br>vintage<br>situate<br>dinner<br>clarify<br>minor<br>rotate<br>soft |  
+| bip_39_word_new_br11 | health<br>way<br>student<br>vintage<br>situate<br>dinner<br>clarify<br>minor<br>rotate<br>soft<br>canoe |  
+| bip_39_word_new_br12 | health<br>way<br>student<br>vintage<br>situate<br>dinner<br>clarify<br>minor<br>rotate<br>soft<br>canoe<br>artefact |  
+| bip_39_word_new_br2 | health<br>way |  
+| bip_39_word_new_br3 | health<br>way<br>student |  
+| bip_39_word_new_br4 | health<br>way<br>student<br>vintage |  
+| bip_39_word_new_br5 | health<br>way<br>student<br>vintage<br>situate |  
+| bip_39_word_new_br6 | health<br>way<br>student<br>vintage<br>situate<br>dinner |  
+| bip_39_word_new_br7 | health<br>way<br>student<br>vintage<br>situate<br>dinner<br>clarify |  
+| bip_39_word_new_br8 | health<br>way<br>student<br>vintage<br>situate<br>dinner<br>clarify<br>minor |  
+| bip_39_word_new_br9 | health<br>way<br>student<br>vintage<br>situate<br>dinner<br>clarify<br>minor<br>rotate |  
+| bip_39_word_new_line1 | health |  
+| bip_39_word_new_line10 | health
+way
+student
+vintage
+situate
+dinner
+clarify
+minor
+rotate
+soft |  
+| bip_39_word_new_line11 | health
+way
+student
+vintage
+situate
+dinner
+clarify
+minor
+rotate
+soft
+canoe |  
+| bip_39_word_new_line12 | health
+way
+student
+vintage
+situate
+dinner
+clarify
+minor
+rotate
+soft
+canoe
+artefact |  
+| bip_39_word_new_line2 | health
+way |  
+| bip_39_word_new_line3 | health
+way
+student |  
+| bip_39_word_new_line4 | health
+way
+student
+vintage |  
+| bip_39_word_new_line5 | health
+way
+student
+vintage
+situate |  
+| bip_39_word_new_line6 | health
+way
+student
+vintage
+situate
+dinner |  
+| bip_39_word_new_line7 | health
+way
+student
+vintage
+situate
+dinner
+clarify |  
+| bip_39_word_new_line8 | health
+way
+student
+vintage
+situate
+dinner
+clarify
+minor |  
+| bip_39_word_new_line9 | health
+way
+student
+vintage
+situate
+dinner
+clarify
+minor
+rotate |  
+| bip_39_word_space_0 | ['health', 'way', 'student', 'vintage', 'situate', 'dinner', 'clarify', 'minor', 'rotate', 'soft', 'canoe', 'artefact'] |  
+| bip_39_word_space_1 | health |  
+| bip_39_word_space_10 | health way student vintage situate dinner clarify minor rotate soft |  
+| bip_39_word_space_11 | health way student vintage situate dinner clarify minor rotate soft canoe |  
+| bip_39_word_space_12 | health way student vintage situate dinner clarify minor rotate soft canoe artefact |  
+| bip_39_word_space_2 | health way |  
+| bip_39_word_space_3 | health way student |  
+| bip_39_word_space_4 | health way student vintage |  
+| bip_39_word_space_5 | health way student vintage situate |  
+| bip_39_word_space_6 | health way student vintage situate dinner |  
+| bip_39_word_space_7 | health way student vintage situate dinner clarify |  
+| bip_39_word_space_8 | health way student vintage situate dinner clarify minor |  
+| bip_39_word_space_9 | health way student vintage situate dinner clarify minor rotate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

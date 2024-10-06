@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: industry verify
+  * bip 39 word 3: industry verify net
+  * bip 39 word: industry verify net situate pig heavy large protect fine load check aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | industry |  
+| bip_39_word_new_br10 | industry<br>verify<br>net<br>situate<br>pig<br>heavy<br>large<br>protect<br>fine<br>load |  
+| bip_39_word_new_br11 | industry<br>verify<br>net<br>situate<br>pig<br>heavy<br>large<br>protect<br>fine<br>load<br>check |  
+| bip_39_word_new_br12 | industry<br>verify<br>net<br>situate<br>pig<br>heavy<br>large<br>protect<br>fine<br>load<br>check<br>aunt |  
+| bip_39_word_new_br2 | industry<br>verify |  
+| bip_39_word_new_br3 | industry<br>verify<br>net |  
+| bip_39_word_new_br4 | industry<br>verify<br>net<br>situate |  
+| bip_39_word_new_br5 | industry<br>verify<br>net<br>situate<br>pig |  
+| bip_39_word_new_br6 | industry<br>verify<br>net<br>situate<br>pig<br>heavy |  
+| bip_39_word_new_br7 | industry<br>verify<br>net<br>situate<br>pig<br>heavy<br>large |  
+| bip_39_word_new_br8 | industry<br>verify<br>net<br>situate<br>pig<br>heavy<br>large<br>protect |  
+| bip_39_word_new_br9 | industry<br>verify<br>net<br>situate<br>pig<br>heavy<br>large<br>protect<br>fine |  
+| bip_39_word_new_line1 | industry |  
+| bip_39_word_new_line10 | industry
+verify
+net
+situate
+pig
+heavy
+large
+protect
+fine
+load |  
+| bip_39_word_new_line11 | industry
+verify
+net
+situate
+pig
+heavy
+large
+protect
+fine
+load
+check |  
+| bip_39_word_new_line12 | industry
+verify
+net
+situate
+pig
+heavy
+large
+protect
+fine
+load
+check
+aunt |  
+| bip_39_word_new_line2 | industry
+verify |  
+| bip_39_word_new_line3 | industry
+verify
+net |  
+| bip_39_word_new_line4 | industry
+verify
+net
+situate |  
+| bip_39_word_new_line5 | industry
+verify
+net
+situate
+pig |  
+| bip_39_word_new_line6 | industry
+verify
+net
+situate
+pig
+heavy |  
+| bip_39_word_new_line7 | industry
+verify
+net
+situate
+pig
+heavy
+large |  
+| bip_39_word_new_line8 | industry
+verify
+net
+situate
+pig
+heavy
+large
+protect |  
+| bip_39_word_new_line9 | industry
+verify
+net
+situate
+pig
+heavy
+large
+protect
+fine |  
+| bip_39_word_space_0 | ['industry', 'verify', 'net', 'situate', 'pig', 'heavy', 'large', 'protect', 'fine', 'load', 'check', 'aunt'] |  
+| bip_39_word_space_1 | industry |  
+| bip_39_word_space_10 | industry verify net situate pig heavy large protect fine load |  
+| bip_39_word_space_11 | industry verify net situate pig heavy large protect fine load check |  
+| bip_39_word_space_12 | industry verify net situate pig heavy large protect fine load check aunt |  
+| bip_39_word_space_2 | industry verify |  
+| bip_39_word_space_3 | industry verify net |  
+| bip_39_word_space_4 | industry verify net situate |  
+| bip_39_word_space_5 | industry verify net situate pig |  
+| bip_39_word_space_6 | industry verify net situate pig heavy |  
+| bip_39_word_space_7 | industry verify net situate pig heavy large |  
+| bip_39_word_space_8 | industry verify net situate pig heavy large protect |  
+| bip_39_word_space_9 | industry verify net situate pig heavy large protect fine |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

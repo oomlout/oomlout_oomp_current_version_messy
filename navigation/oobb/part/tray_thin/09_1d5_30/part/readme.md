@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: curtain future
+  * bip 39 word 3: curtain future ice
+  * bip 39 word: curtain future ice assume eye shoulder found explain slim buzz chair ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | curtain |  
+| bip_39_word_new_br10 | curtain<br>future<br>ice<br>assume<br>eye<br>shoulder<br>found<br>explain<br>slim<br>buzz |  
+| bip_39_word_new_br11 | curtain<br>future<br>ice<br>assume<br>eye<br>shoulder<br>found<br>explain<br>slim<br>buzz<br>chair |  
+| bip_39_word_new_br12 | curtain<br>future<br>ice<br>assume<br>eye<br>shoulder<br>found<br>explain<br>slim<br>buzz<br>chair<br>ankle |  
+| bip_39_word_new_br2 | curtain<br>future |  
+| bip_39_word_new_br3 | curtain<br>future<br>ice |  
+| bip_39_word_new_br4 | curtain<br>future<br>ice<br>assume |  
+| bip_39_word_new_br5 | curtain<br>future<br>ice<br>assume<br>eye |  
+| bip_39_word_new_br6 | curtain<br>future<br>ice<br>assume<br>eye<br>shoulder |  
+| bip_39_word_new_br7 | curtain<br>future<br>ice<br>assume<br>eye<br>shoulder<br>found |  
+| bip_39_word_new_br8 | curtain<br>future<br>ice<br>assume<br>eye<br>shoulder<br>found<br>explain |  
+| bip_39_word_new_br9 | curtain<br>future<br>ice<br>assume<br>eye<br>shoulder<br>found<br>explain<br>slim |  
+| bip_39_word_new_line1 | curtain |  
+| bip_39_word_new_line10 | curtain
+future
+ice
+assume
+eye
+shoulder
+found
+explain
+slim
+buzz |  
+| bip_39_word_new_line11 | curtain
+future
+ice
+assume
+eye
+shoulder
+found
+explain
+slim
+buzz
+chair |  
+| bip_39_word_new_line12 | curtain
+future
+ice
+assume
+eye
+shoulder
+found
+explain
+slim
+buzz
+chair
+ankle |  
+| bip_39_word_new_line2 | curtain
+future |  
+| bip_39_word_new_line3 | curtain
+future
+ice |  
+| bip_39_word_new_line4 | curtain
+future
+ice
+assume |  
+| bip_39_word_new_line5 | curtain
+future
+ice
+assume
+eye |  
+| bip_39_word_new_line6 | curtain
+future
+ice
+assume
+eye
+shoulder |  
+| bip_39_word_new_line7 | curtain
+future
+ice
+assume
+eye
+shoulder
+found |  
+| bip_39_word_new_line8 | curtain
+future
+ice
+assume
+eye
+shoulder
+found
+explain |  
+| bip_39_word_new_line9 | curtain
+future
+ice
+assume
+eye
+shoulder
+found
+explain
+slim |  
+| bip_39_word_space_0 | ['curtain', 'future', 'ice', 'assume', 'eye', 'shoulder', 'found', 'explain', 'slim', 'buzz', 'chair', 'ankle'] |  
+| bip_39_word_space_1 | curtain |  
+| bip_39_word_space_10 | curtain future ice assume eye shoulder found explain slim buzz |  
+| bip_39_word_space_11 | curtain future ice assume eye shoulder found explain slim buzz chair |  
+| bip_39_word_space_12 | curtain future ice assume eye shoulder found explain slim buzz chair ankle |  
+| bip_39_word_space_2 | curtain future |  
+| bip_39_word_space_3 | curtain future ice |  
+| bip_39_word_space_4 | curtain future ice assume |  
+| bip_39_word_space_5 | curtain future ice assume eye |  
+| bip_39_word_space_6 | curtain future ice assume eye shoulder |  
+| bip_39_word_space_7 | curtain future ice assume eye shoulder found |  
+| bip_39_word_space_8 | curtain future ice assume eye shoulder found explain |  
+| bip_39_word_space_9 | curtain future ice assume eye shoulder found explain slim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: own
+bip_39_word_new_br10: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle<br>physical
+bip_39_word_new_br11: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle<br>physical<br>squirrel
+bip_39_word_new_br12: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle<br>physical<br>squirrel<br>autumn
+bip_39_word_new_br2: own<br>theme
+bip_39_word_new_br3: own<br>theme<br>trigger
+bip_39_word_new_br4: own<br>theme<br>trigger<br>cute
+bip_39_word_new_br5: own<br>theme<br>trigger<br>cute<br>kit
+bip_39_word_new_br6: own<br>theme<br>trigger<br>cute<br>kit<br>brown
+bip_39_word_new_br7: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble
+bip_39_word_new_br8: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly
+bip_39_word_new_br9: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle
+bip_39_word_new_line1: own
+bip_39_word_new_line10: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly
+
+  vehicle
+
+  physical'
+bip_39_word_new_line11: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly
+
+  vehicle
+
+  physical
+
+  squirrel'
+bip_39_word_new_line12: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly
+
+  vehicle
+
+  physical
+
+  squirrel
+
+  autumn'
+bip_39_word_new_line2: 'own
+
+  theme'
+bip_39_word_new_line3: 'own
+
+  theme
+
+  trigger'
+bip_39_word_new_line4: 'own
+
+  theme
+
+  trigger
+
+  cute'
+bip_39_word_new_line5: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit'
+bip_39_word_new_line6: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown'
+bip_39_word_new_line7: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble'
+bip_39_word_new_line8: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly'
+bip_39_word_new_line9: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly
+
+  vehicle'
+bip_39_word_space_0:
+- own
+- theme
+- trigger
+- cute
+- kit
+- brown
+- humble
+- truly
+- vehicle
+- physical
+- squirrel
+- autumn
+bip_39_word_space_1: own
+bip_39_word_space_10: own theme trigger cute kit brown humble truly vehicle physical
+bip_39_word_space_11: own theme trigger cute kit brown humble truly vehicle physical
+  squirrel
+bip_39_word_space_12: own theme trigger cute kit brown humble truly vehicle physical
+  squirrel autumn
+bip_39_word_space_2: own theme
+bip_39_word_space_3: own theme trigger
+bip_39_word_space_4: own theme trigger cute
+bip_39_word_space_5: own theme trigger cute kit
+bip_39_word_space_6: own theme trigger cute kit brown
+bip_39_word_space_7: own theme trigger cute kit brown humble
+bip_39_word_space_8: own theme trigger cute kit brown humble truly
+bip_39_word_space_9: own theme trigger cute kit brown humble truly vehicle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

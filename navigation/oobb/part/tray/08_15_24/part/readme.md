@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: old giant
+  * bip 39 word 3: old giant cushion
+  * bip 39 word: old giant cushion concert brown hair valley unit decline rocket reopen abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | old |  
+| bip_39_word_new_br10 | old<br>giant<br>cushion<br>concert<br>brown<br>hair<br>valley<br>unit<br>decline<br>rocket |  
+| bip_39_word_new_br11 | old<br>giant<br>cushion<br>concert<br>brown<br>hair<br>valley<br>unit<br>decline<br>rocket<br>reopen |  
+| bip_39_word_new_br12 | old<br>giant<br>cushion<br>concert<br>brown<br>hair<br>valley<br>unit<br>decline<br>rocket<br>reopen<br>abstract |  
+| bip_39_word_new_br2 | old<br>giant |  
+| bip_39_word_new_br3 | old<br>giant<br>cushion |  
+| bip_39_word_new_br4 | old<br>giant<br>cushion<br>concert |  
+| bip_39_word_new_br5 | old<br>giant<br>cushion<br>concert<br>brown |  
+| bip_39_word_new_br6 | old<br>giant<br>cushion<br>concert<br>brown<br>hair |  
+| bip_39_word_new_br7 | old<br>giant<br>cushion<br>concert<br>brown<br>hair<br>valley |  
+| bip_39_word_new_br8 | old<br>giant<br>cushion<br>concert<br>brown<br>hair<br>valley<br>unit |  
+| bip_39_word_new_br9 | old<br>giant<br>cushion<br>concert<br>brown<br>hair<br>valley<br>unit<br>decline |  
+| bip_39_word_new_line1 | old |  
+| bip_39_word_new_line10 | old
+giant
+cushion
+concert
+brown
+hair
+valley
+unit
+decline
+rocket |  
+| bip_39_word_new_line11 | old
+giant
+cushion
+concert
+brown
+hair
+valley
+unit
+decline
+rocket
+reopen |  
+| bip_39_word_new_line12 | old
+giant
+cushion
+concert
+brown
+hair
+valley
+unit
+decline
+rocket
+reopen
+abstract |  
+| bip_39_word_new_line2 | old
+giant |  
+| bip_39_word_new_line3 | old
+giant
+cushion |  
+| bip_39_word_new_line4 | old
+giant
+cushion
+concert |  
+| bip_39_word_new_line5 | old
+giant
+cushion
+concert
+brown |  
+| bip_39_word_new_line6 | old
+giant
+cushion
+concert
+brown
+hair |  
+| bip_39_word_new_line7 | old
+giant
+cushion
+concert
+brown
+hair
+valley |  
+| bip_39_word_new_line8 | old
+giant
+cushion
+concert
+brown
+hair
+valley
+unit |  
+| bip_39_word_new_line9 | old
+giant
+cushion
+concert
+brown
+hair
+valley
+unit
+decline |  
+| bip_39_word_space_0 | ['old', 'giant', 'cushion', 'concert', 'brown', 'hair', 'valley', 'unit', 'decline', 'rocket', 'reopen', 'abstract'] |  
+| bip_39_word_space_1 | old |  
+| bip_39_word_space_10 | old giant cushion concert brown hair valley unit decline rocket |  
+| bip_39_word_space_11 | old giant cushion concert brown hair valley unit decline rocket reopen |  
+| bip_39_word_space_12 | old giant cushion concert brown hair valley unit decline rocket reopen abstract |  
+| bip_39_word_space_2 | old giant |  
+| bip_39_word_space_3 | old giant cushion |  
+| bip_39_word_space_4 | old giant cushion concert |  
+| bip_39_word_space_5 | old giant cushion concert brown |  
+| bip_39_word_space_6 | old giant cushion concert brown hair |  
+| bip_39_word_space_7 | old giant cushion concert brown hair valley |  
+| bip_39_word_space_8 | old giant cushion concert brown hair valley unit |  
+| bip_39_word_space_9 | old giant cushion concert brown hair valley unit decline |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

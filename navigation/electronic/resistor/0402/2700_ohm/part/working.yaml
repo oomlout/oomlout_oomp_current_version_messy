@@ -1,3 +1,186 @@
+bip_39_word_new_br1: curve
+bip_39_word_new_br10: curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news
+bip_39_word_new_br11: curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news<br>soul
+bip_39_word_new_br12: curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork<br>news<br>soul<br>apology
+bip_39_word_new_br2: curve<br>mean
+bip_39_word_new_br3: curve<br>mean<br>oven
+bip_39_word_new_br4: curve<br>mean<br>oven<br>onion
+bip_39_word_new_br5: curve<br>mean<br>oven<br>onion<br>color
+bip_39_word_new_br6: curve<br>mean<br>oven<br>onion<br>color<br>source
+bip_39_word_new_br7: curve<br>mean<br>oven<br>onion<br>color<br>source<br>office
+bip_39_word_new_br8: curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half
+bip_39_word_new_br9: curve<br>mean<br>oven<br>onion<br>color<br>source<br>office<br>half<br>artwork
+bip_39_word_new_line1: curve
+bip_39_word_new_line10: 'curve
+
+  mean
+
+  oven
+
+  onion
+
+  color
+
+  source
+
+  office
+
+  half
+
+  artwork
+
+  news'
+bip_39_word_new_line11: 'curve
+
+  mean
+
+  oven
+
+  onion
+
+  color
+
+  source
+
+  office
+
+  half
+
+  artwork
+
+  news
+
+  soul'
+bip_39_word_new_line12: 'curve
+
+  mean
+
+  oven
+
+  onion
+
+  color
+
+  source
+
+  office
+
+  half
+
+  artwork
+
+  news
+
+  soul
+
+  apology'
+bip_39_word_new_line2: 'curve
+
+  mean'
+bip_39_word_new_line3: 'curve
+
+  mean
+
+  oven'
+bip_39_word_new_line4: 'curve
+
+  mean
+
+  oven
+
+  onion'
+bip_39_word_new_line5: 'curve
+
+  mean
+
+  oven
+
+  onion
+
+  color'
+bip_39_word_new_line6: 'curve
+
+  mean
+
+  oven
+
+  onion
+
+  color
+
+  source'
+bip_39_word_new_line7: 'curve
+
+  mean
+
+  oven
+
+  onion
+
+  color
+
+  source
+
+  office'
+bip_39_word_new_line8: 'curve
+
+  mean
+
+  oven
+
+  onion
+
+  color
+
+  source
+
+  office
+
+  half'
+bip_39_word_new_line9: 'curve
+
+  mean
+
+  oven
+
+  onion
+
+  color
+
+  source
+
+  office
+
+  half
+
+  artwork'
+bip_39_word_space_0:
+- curve
+- mean
+- oven
+- onion
+- color
+- source
+- office
+- half
+- artwork
+- news
+- soul
+- apology
+bip_39_word_space_1: curve
+bip_39_word_space_10: curve mean oven onion color source office half artwork news
+bip_39_word_space_11: curve mean oven onion color source office half artwork news
+  soul
+bip_39_word_space_12: curve mean oven onion color source office half artwork news
+  soul apology
+bip_39_word_space_2: curve mean
+bip_39_word_space_3: curve mean oven
+bip_39_word_space_4: curve mean oven onion
+bip_39_word_space_5: curve mean oven onion color
+bip_39_word_space_6: curve mean oven onion color source
+bip_39_word_space_7: curve mean oven onion color source office
+bip_39_word_space_8: curve mean oven onion color source office half
+bip_39_word_space_9: curve mean oven onion color source office half artwork
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

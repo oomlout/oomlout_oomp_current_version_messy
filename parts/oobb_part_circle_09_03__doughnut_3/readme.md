@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fringe cattle
+  * bip 39 word 3: fringe cattle hobby
+  * bip 39 word: fringe cattle hobby slim amazing dawn process cheese uphold wine blast asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fringe |  
+| bip_39_word_new_br10 | fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold<br>wine |  
+| bip_39_word_new_br11 | fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold<br>wine<br>blast |  
+| bip_39_word_new_br12 | fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold<br>wine<br>blast<br>asset |  
+| bip_39_word_new_br2 | fringe<br>cattle |  
+| bip_39_word_new_br3 | fringe<br>cattle<br>hobby |  
+| bip_39_word_new_br4 | fringe<br>cattle<br>hobby<br>slim |  
+| bip_39_word_new_br5 | fringe<br>cattle<br>hobby<br>slim<br>amazing |  
+| bip_39_word_new_br6 | fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn |  
+| bip_39_word_new_br7 | fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process |  
+| bip_39_word_new_br8 | fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese |  
+| bip_39_word_new_br9 | fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold |  
+| bip_39_word_new_line1 | fringe |  
+| bip_39_word_new_line10 | fringe
+cattle
+hobby
+slim
+amazing
+dawn
+process
+cheese
+uphold
+wine |  
+| bip_39_word_new_line11 | fringe
+cattle
+hobby
+slim
+amazing
+dawn
+process
+cheese
+uphold
+wine
+blast |  
+| bip_39_word_new_line12 | fringe
+cattle
+hobby
+slim
+amazing
+dawn
+process
+cheese
+uphold
+wine
+blast
+asset |  
+| bip_39_word_new_line2 | fringe
+cattle |  
+| bip_39_word_new_line3 | fringe
+cattle
+hobby |  
+| bip_39_word_new_line4 | fringe
+cattle
+hobby
+slim |  
+| bip_39_word_new_line5 | fringe
+cattle
+hobby
+slim
+amazing |  
+| bip_39_word_new_line6 | fringe
+cattle
+hobby
+slim
+amazing
+dawn |  
+| bip_39_word_new_line7 | fringe
+cattle
+hobby
+slim
+amazing
+dawn
+process |  
+| bip_39_word_new_line8 | fringe
+cattle
+hobby
+slim
+amazing
+dawn
+process
+cheese |  
+| bip_39_word_new_line9 | fringe
+cattle
+hobby
+slim
+amazing
+dawn
+process
+cheese
+uphold |  
+| bip_39_word_space_0 | ['fringe', 'cattle', 'hobby', 'slim', 'amazing', 'dawn', 'process', 'cheese', 'uphold', 'wine', 'blast', 'asset'] |  
+| bip_39_word_space_1 | fringe |  
+| bip_39_word_space_10 | fringe cattle hobby slim amazing dawn process cheese uphold wine |  
+| bip_39_word_space_11 | fringe cattle hobby slim amazing dawn process cheese uphold wine blast |  
+| bip_39_word_space_12 | fringe cattle hobby slim amazing dawn process cheese uphold wine blast asset |  
+| bip_39_word_space_2 | fringe cattle |  
+| bip_39_word_space_3 | fringe cattle hobby |  
+| bip_39_word_space_4 | fringe cattle hobby slim |  
+| bip_39_word_space_5 | fringe cattle hobby slim amazing |  
+| bip_39_word_space_6 | fringe cattle hobby slim amazing dawn |  
+| bip_39_word_space_7 | fringe cattle hobby slim amazing dawn process |  
+| bip_39_word_space_8 | fringe cattle hobby slim amazing dawn process cheese |  
+| bip_39_word_space_9 | fringe cattle hobby slim amazing dawn process cheese uphold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

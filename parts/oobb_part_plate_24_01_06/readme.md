@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: upset spy
+  * bip 39 word 3: upset spy hope
+  * bip 39 word: upset spy hope culture night chuckle apple perfect echo client focus audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | upset |  
+| bip_39_word_new_br10 | upset<br>spy<br>hope<br>culture<br>night<br>chuckle<br>apple<br>perfect<br>echo<br>client |  
+| bip_39_word_new_br11 | upset<br>spy<br>hope<br>culture<br>night<br>chuckle<br>apple<br>perfect<br>echo<br>client<br>focus |  
+| bip_39_word_new_br12 | upset<br>spy<br>hope<br>culture<br>night<br>chuckle<br>apple<br>perfect<br>echo<br>client<br>focus<br>audit |  
+| bip_39_word_new_br2 | upset<br>spy |  
+| bip_39_word_new_br3 | upset<br>spy<br>hope |  
+| bip_39_word_new_br4 | upset<br>spy<br>hope<br>culture |  
+| bip_39_word_new_br5 | upset<br>spy<br>hope<br>culture<br>night |  
+| bip_39_word_new_br6 | upset<br>spy<br>hope<br>culture<br>night<br>chuckle |  
+| bip_39_word_new_br7 | upset<br>spy<br>hope<br>culture<br>night<br>chuckle<br>apple |  
+| bip_39_word_new_br8 | upset<br>spy<br>hope<br>culture<br>night<br>chuckle<br>apple<br>perfect |  
+| bip_39_word_new_br9 | upset<br>spy<br>hope<br>culture<br>night<br>chuckle<br>apple<br>perfect<br>echo |  
+| bip_39_word_new_line1 | upset |  
+| bip_39_word_new_line10 | upset
+spy
+hope
+culture
+night
+chuckle
+apple
+perfect
+echo
+client |  
+| bip_39_word_new_line11 | upset
+spy
+hope
+culture
+night
+chuckle
+apple
+perfect
+echo
+client
+focus |  
+| bip_39_word_new_line12 | upset
+spy
+hope
+culture
+night
+chuckle
+apple
+perfect
+echo
+client
+focus
+audit |  
+| bip_39_word_new_line2 | upset
+spy |  
+| bip_39_word_new_line3 | upset
+spy
+hope |  
+| bip_39_word_new_line4 | upset
+spy
+hope
+culture |  
+| bip_39_word_new_line5 | upset
+spy
+hope
+culture
+night |  
+| bip_39_word_new_line6 | upset
+spy
+hope
+culture
+night
+chuckle |  
+| bip_39_word_new_line7 | upset
+spy
+hope
+culture
+night
+chuckle
+apple |  
+| bip_39_word_new_line8 | upset
+spy
+hope
+culture
+night
+chuckle
+apple
+perfect |  
+| bip_39_word_new_line9 | upset
+spy
+hope
+culture
+night
+chuckle
+apple
+perfect
+echo |  
+| bip_39_word_space_0 | ['upset', 'spy', 'hope', 'culture', 'night', 'chuckle', 'apple', 'perfect', 'echo', 'client', 'focus', 'audit'] |  
+| bip_39_word_space_1 | upset |  
+| bip_39_word_space_10 | upset spy hope culture night chuckle apple perfect echo client |  
+| bip_39_word_space_11 | upset spy hope culture night chuckle apple perfect echo client focus |  
+| bip_39_word_space_12 | upset spy hope culture night chuckle apple perfect echo client focus audit |  
+| bip_39_word_space_2 | upset spy |  
+| bip_39_word_space_3 | upset spy hope |  
+| bip_39_word_space_4 | upset spy hope culture |  
+| bip_39_word_space_5 | upset spy hope culture night |  
+| bip_39_word_space_6 | upset spy hope culture night chuckle |  
+| bip_39_word_space_7 | upset spy hope culture night chuckle apple |  
+| bip_39_word_space_8 | upset spy hope culture night chuckle apple perfect |  
+| bip_39_word_space_9 | upset spy hope culture night chuckle apple perfect echo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

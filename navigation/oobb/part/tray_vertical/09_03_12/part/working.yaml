@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mimic
+bip_39_word_new_br10: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution
+bip_39_word_new_br11: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution<br>donor
+bip_39_word_new_br12: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound<br>solution<br>donor<br>aim
+bip_39_word_new_br2: mimic<br>amount
+bip_39_word_new_br3: mimic<br>amount<br>point
+bip_39_word_new_br4: mimic<br>amount<br>point<br>confirm
+bip_39_word_new_br5: mimic<br>amount<br>point<br>confirm<br>decide
+bip_39_word_new_br6: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar
+bip_39_word_new_br7: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy
+bip_39_word_new_br8: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco
+bip_39_word_new_br9: mimic<br>amount<br>point<br>confirm<br>decide<br>cigar<br>spy<br>tobacco<br>sound
+bip_39_word_new_line1: mimic
+bip_39_word_new_line10: 'mimic
+
+  amount
+
+  point
+
+  confirm
+
+  decide
+
+  cigar
+
+  spy
+
+  tobacco
+
+  sound
+
+  solution'
+bip_39_word_new_line11: 'mimic
+
+  amount
+
+  point
+
+  confirm
+
+  decide
+
+  cigar
+
+  spy
+
+  tobacco
+
+  sound
+
+  solution
+
+  donor'
+bip_39_word_new_line12: 'mimic
+
+  amount
+
+  point
+
+  confirm
+
+  decide
+
+  cigar
+
+  spy
+
+  tobacco
+
+  sound
+
+  solution
+
+  donor
+
+  aim'
+bip_39_word_new_line2: 'mimic
+
+  amount'
+bip_39_word_new_line3: 'mimic
+
+  amount
+
+  point'
+bip_39_word_new_line4: 'mimic
+
+  amount
+
+  point
+
+  confirm'
+bip_39_word_new_line5: 'mimic
+
+  amount
+
+  point
+
+  confirm
+
+  decide'
+bip_39_word_new_line6: 'mimic
+
+  amount
+
+  point
+
+  confirm
+
+  decide
+
+  cigar'
+bip_39_word_new_line7: 'mimic
+
+  amount
+
+  point
+
+  confirm
+
+  decide
+
+  cigar
+
+  spy'
+bip_39_word_new_line8: 'mimic
+
+  amount
+
+  point
+
+  confirm
+
+  decide
+
+  cigar
+
+  spy
+
+  tobacco'
+bip_39_word_new_line9: 'mimic
+
+  amount
+
+  point
+
+  confirm
+
+  decide
+
+  cigar
+
+  spy
+
+  tobacco
+
+  sound'
+bip_39_word_space_0:
+- mimic
+- amount
+- point
+- confirm
+- decide
+- cigar
+- spy
+- tobacco
+- sound
+- solution
+- donor
+- aim
+bip_39_word_space_1: mimic
+bip_39_word_space_10: mimic amount point confirm decide cigar spy tobacco sound solution
+bip_39_word_space_11: mimic amount point confirm decide cigar spy tobacco sound solution
+  donor
+bip_39_word_space_12: mimic amount point confirm decide cigar spy tobacco sound solution
+  donor aim
+bip_39_word_space_2: mimic amount
+bip_39_word_space_3: mimic amount point
+bip_39_word_space_4: mimic amount point confirm
+bip_39_word_space_5: mimic amount point confirm decide
+bip_39_word_space_6: mimic amount point confirm decide cigar
+bip_39_word_space_7: mimic amount point confirm decide cigar spy
+bip_39_word_space_8: mimic amount point confirm decide cigar spy tobacco
+bip_39_word_space_9: mimic amount point confirm decide cigar spy tobacco sound
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

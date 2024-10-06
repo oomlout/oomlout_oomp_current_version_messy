@@ -1,3 +1,186 @@
+bip_39_word_new_br1: patch
+bip_39_word_new_br10: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment<br>pitch<br>post
+bip_39_word_new_br11: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment<br>pitch<br>post<br>antenna
+bip_39_word_new_br12: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment<br>pitch<br>post<br>antenna<br>alcohol
+bip_39_word_new_br2: patch<br>sniff
+bip_39_word_new_br3: patch<br>sniff<br>spare
+bip_39_word_new_br4: patch<br>sniff<br>spare<br>term
+bip_39_word_new_br5: patch<br>sniff<br>spare<br>term<br>start
+bip_39_word_new_br6: patch<br>sniff<br>spare<br>term<br>start<br>neither
+bip_39_word_new_br7: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write
+bip_39_word_new_br8: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment
+bip_39_word_new_br9: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment<br>pitch
+bip_39_word_new_line1: patch
+bip_39_word_new_line10: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment
+
+  pitch
+
+  post'
+bip_39_word_new_line11: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment
+
+  pitch
+
+  post
+
+  antenna'
+bip_39_word_new_line12: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment
+
+  pitch
+
+  post
+
+  antenna
+
+  alcohol'
+bip_39_word_new_line2: 'patch
+
+  sniff'
+bip_39_word_new_line3: 'patch
+
+  sniff
+
+  spare'
+bip_39_word_new_line4: 'patch
+
+  sniff
+
+  spare
+
+  term'
+bip_39_word_new_line5: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start'
+bip_39_word_new_line6: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither'
+bip_39_word_new_line7: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write'
+bip_39_word_new_line8: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment'
+bip_39_word_new_line9: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment
+
+  pitch'
+bip_39_word_space_0:
+- patch
+- sniff
+- spare
+- term
+- start
+- neither
+- write
+- garment
+- pitch
+- post
+- antenna
+- alcohol
+bip_39_word_space_1: patch
+bip_39_word_space_10: patch sniff spare term start neither write garment pitch post
+bip_39_word_space_11: patch sniff spare term start neither write garment pitch post
+  antenna
+bip_39_word_space_12: patch sniff spare term start neither write garment pitch post
+  antenna alcohol
+bip_39_word_space_2: patch sniff
+bip_39_word_space_3: patch sniff spare
+bip_39_word_space_4: patch sniff spare term
+bip_39_word_space_5: patch sniff spare term start
+bip_39_word_space_6: patch sniff spare term start neither
+bip_39_word_space_7: patch sniff spare term start neither write
+bip_39_word_space_8: patch sniff spare term start neither write garment
+bip_39_word_space_9: patch sniff spare term start neither write garment pitch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

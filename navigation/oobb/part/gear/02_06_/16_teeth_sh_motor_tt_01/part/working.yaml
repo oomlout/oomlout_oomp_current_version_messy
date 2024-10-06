@@ -1,3 +1,186 @@
+bip_39_word_new_br1: useful
+bip_39_word_new_br10: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main<br>jelly
+bip_39_word_new_br11: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main<br>jelly<br>uncover
+bip_39_word_new_br12: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main<br>jelly<br>uncover<br>adapt
+bip_39_word_new_br2: useful<br>cheap
+bip_39_word_new_br3: useful<br>cheap<br>oyster
+bip_39_word_new_br4: useful<br>cheap<br>oyster<br>behind
+bip_39_word_new_br5: useful<br>cheap<br>oyster<br>behind<br>memory
+bip_39_word_new_br6: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual
+bip_39_word_new_br7: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely
+bip_39_word_new_br8: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since
+bip_39_word_new_br9: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main
+bip_39_word_new_line1: useful
+bip_39_word_new_line10: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since
+
+  main
+
+  jelly'
+bip_39_word_new_line11: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since
+
+  main
+
+  jelly
+
+  uncover'
+bip_39_word_new_line12: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since
+
+  main
+
+  jelly
+
+  uncover
+
+  adapt'
+bip_39_word_new_line2: 'useful
+
+  cheap'
+bip_39_word_new_line3: 'useful
+
+  cheap
+
+  oyster'
+bip_39_word_new_line4: 'useful
+
+  cheap
+
+  oyster
+
+  behind'
+bip_39_word_new_line5: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory'
+bip_39_word_new_line6: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual'
+bip_39_word_new_line7: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely'
+bip_39_word_new_line8: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since'
+bip_39_word_new_line9: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since
+
+  main'
+bip_39_word_space_0:
+- useful
+- cheap
+- oyster
+- behind
+- memory
+- virtual
+- rely
+- since
+- main
+- jelly
+- uncover
+- adapt
+bip_39_word_space_1: useful
+bip_39_word_space_10: useful cheap oyster behind memory virtual rely since main jelly
+bip_39_word_space_11: useful cheap oyster behind memory virtual rely since main jelly
+  uncover
+bip_39_word_space_12: useful cheap oyster behind memory virtual rely since main jelly
+  uncover adapt
+bip_39_word_space_2: useful cheap
+bip_39_word_space_3: useful cheap oyster
+bip_39_word_space_4: useful cheap oyster behind
+bip_39_word_space_5: useful cheap oyster behind memory
+bip_39_word_space_6: useful cheap oyster behind memory virtual
+bip_39_word_space_7: useful cheap oyster behind memory virtual rely
+bip_39_word_space_8: useful cheap oyster behind memory virtual rely since
+bip_39_word_space_9: useful cheap oyster behind memory virtual rely since main
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

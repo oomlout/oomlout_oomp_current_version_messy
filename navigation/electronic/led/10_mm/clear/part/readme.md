@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tumble nose
+  * bip 39 word 3: tumble nose peasant
+  * bip 39 word: tumble nose peasant meat wear rose dirt glove crop seed slot able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tumble |  
+| bip_39_word_new_br10 | tumble<br>nose<br>peasant<br>meat<br>wear<br>rose<br>dirt<br>glove<br>crop<br>seed |  
+| bip_39_word_new_br11 | tumble<br>nose<br>peasant<br>meat<br>wear<br>rose<br>dirt<br>glove<br>crop<br>seed<br>slot |  
+| bip_39_word_new_br12 | tumble<br>nose<br>peasant<br>meat<br>wear<br>rose<br>dirt<br>glove<br>crop<br>seed<br>slot<br>able |  
+| bip_39_word_new_br2 | tumble<br>nose |  
+| bip_39_word_new_br3 | tumble<br>nose<br>peasant |  
+| bip_39_word_new_br4 | tumble<br>nose<br>peasant<br>meat |  
+| bip_39_word_new_br5 | tumble<br>nose<br>peasant<br>meat<br>wear |  
+| bip_39_word_new_br6 | tumble<br>nose<br>peasant<br>meat<br>wear<br>rose |  
+| bip_39_word_new_br7 | tumble<br>nose<br>peasant<br>meat<br>wear<br>rose<br>dirt |  
+| bip_39_word_new_br8 | tumble<br>nose<br>peasant<br>meat<br>wear<br>rose<br>dirt<br>glove |  
+| bip_39_word_new_br9 | tumble<br>nose<br>peasant<br>meat<br>wear<br>rose<br>dirt<br>glove<br>crop |  
+| bip_39_word_new_line1 | tumble |  
+| bip_39_word_new_line10 | tumble
+nose
+peasant
+meat
+wear
+rose
+dirt
+glove
+crop
+seed |  
+| bip_39_word_new_line11 | tumble
+nose
+peasant
+meat
+wear
+rose
+dirt
+glove
+crop
+seed
+slot |  
+| bip_39_word_new_line12 | tumble
+nose
+peasant
+meat
+wear
+rose
+dirt
+glove
+crop
+seed
+slot
+able |  
+| bip_39_word_new_line2 | tumble
+nose |  
+| bip_39_word_new_line3 | tumble
+nose
+peasant |  
+| bip_39_word_new_line4 | tumble
+nose
+peasant
+meat |  
+| bip_39_word_new_line5 | tumble
+nose
+peasant
+meat
+wear |  
+| bip_39_word_new_line6 | tumble
+nose
+peasant
+meat
+wear
+rose |  
+| bip_39_word_new_line7 | tumble
+nose
+peasant
+meat
+wear
+rose
+dirt |  
+| bip_39_word_new_line8 | tumble
+nose
+peasant
+meat
+wear
+rose
+dirt
+glove |  
+| bip_39_word_new_line9 | tumble
+nose
+peasant
+meat
+wear
+rose
+dirt
+glove
+crop |  
+| bip_39_word_space_0 | ['tumble', 'nose', 'peasant', 'meat', 'wear', 'rose', 'dirt', 'glove', 'crop', 'seed', 'slot', 'able'] |  
+| bip_39_word_space_1 | tumble |  
+| bip_39_word_space_10 | tumble nose peasant meat wear rose dirt glove crop seed |  
+| bip_39_word_space_11 | tumble nose peasant meat wear rose dirt glove crop seed slot |  
+| bip_39_word_space_12 | tumble nose peasant meat wear rose dirt glove crop seed slot able |  
+| bip_39_word_space_2 | tumble nose |  
+| bip_39_word_space_3 | tumble nose peasant |  
+| bip_39_word_space_4 | tumble nose peasant meat |  
+| bip_39_word_space_5 | tumble nose peasant meat wear |  
+| bip_39_word_space_6 | tumble nose peasant meat wear rose |  
+| bip_39_word_space_7 | tumble nose peasant meat wear rose dirt |  
+| bip_39_word_space_8 | tumble nose peasant meat wear rose dirt glove |  
+| bip_39_word_space_9 | tumble nose peasant meat wear rose dirt glove crop |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

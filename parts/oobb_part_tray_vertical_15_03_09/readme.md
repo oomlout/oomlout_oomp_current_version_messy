@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: purpose duck
+  * bip 39 word 3: purpose duck same
+  * bip 39 word: purpose duck same person moral action combine sniff history predict recycle armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | purpose |  
+| bip_39_word_new_br10 | purpose<br>duck<br>same<br>person<br>moral<br>action<br>combine<br>sniff<br>history<br>predict |  
+| bip_39_word_new_br11 | purpose<br>duck<br>same<br>person<br>moral<br>action<br>combine<br>sniff<br>history<br>predict<br>recycle |  
+| bip_39_word_new_br12 | purpose<br>duck<br>same<br>person<br>moral<br>action<br>combine<br>sniff<br>history<br>predict<br>recycle<br>armed |  
+| bip_39_word_new_br2 | purpose<br>duck |  
+| bip_39_word_new_br3 | purpose<br>duck<br>same |  
+| bip_39_word_new_br4 | purpose<br>duck<br>same<br>person |  
+| bip_39_word_new_br5 | purpose<br>duck<br>same<br>person<br>moral |  
+| bip_39_word_new_br6 | purpose<br>duck<br>same<br>person<br>moral<br>action |  
+| bip_39_word_new_br7 | purpose<br>duck<br>same<br>person<br>moral<br>action<br>combine |  
+| bip_39_word_new_br8 | purpose<br>duck<br>same<br>person<br>moral<br>action<br>combine<br>sniff |  
+| bip_39_word_new_br9 | purpose<br>duck<br>same<br>person<br>moral<br>action<br>combine<br>sniff<br>history |  
+| bip_39_word_new_line1 | purpose |  
+| bip_39_word_new_line10 | purpose
+duck
+same
+person
+moral
+action
+combine
+sniff
+history
+predict |  
+| bip_39_word_new_line11 | purpose
+duck
+same
+person
+moral
+action
+combine
+sniff
+history
+predict
+recycle |  
+| bip_39_word_new_line12 | purpose
+duck
+same
+person
+moral
+action
+combine
+sniff
+history
+predict
+recycle
+armed |  
+| bip_39_word_new_line2 | purpose
+duck |  
+| bip_39_word_new_line3 | purpose
+duck
+same |  
+| bip_39_word_new_line4 | purpose
+duck
+same
+person |  
+| bip_39_word_new_line5 | purpose
+duck
+same
+person
+moral |  
+| bip_39_word_new_line6 | purpose
+duck
+same
+person
+moral
+action |  
+| bip_39_word_new_line7 | purpose
+duck
+same
+person
+moral
+action
+combine |  
+| bip_39_word_new_line8 | purpose
+duck
+same
+person
+moral
+action
+combine
+sniff |  
+| bip_39_word_new_line9 | purpose
+duck
+same
+person
+moral
+action
+combine
+sniff
+history |  
+| bip_39_word_space_0 | ['purpose', 'duck', 'same', 'person', 'moral', 'action', 'combine', 'sniff', 'history', 'predict', 'recycle', 'armed'] |  
+| bip_39_word_space_1 | purpose |  
+| bip_39_word_space_10 | purpose duck same person moral action combine sniff history predict |  
+| bip_39_word_space_11 | purpose duck same person moral action combine sniff history predict recycle |  
+| bip_39_word_space_12 | purpose duck same person moral action combine sniff history predict recycle armed |  
+| bip_39_word_space_2 | purpose duck |  
+| bip_39_word_space_3 | purpose duck same |  
+| bip_39_word_space_4 | purpose duck same person |  
+| bip_39_word_space_5 | purpose duck same person moral |  
+| bip_39_word_space_6 | purpose duck same person moral action |  
+| bip_39_word_space_7 | purpose duck same person moral action combine |  
+| bip_39_word_space_8 | purpose duck same person moral action combine sniff |  
+| bip_39_word_space_9 | purpose duck same person moral action combine sniff history |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

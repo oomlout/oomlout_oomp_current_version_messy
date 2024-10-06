@@ -1,3 +1,185 @@
+bip_39_word_new_br1: venue
+bip_39_word_new_br10: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil
+bip_39_word_new_br11: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool
+bip_39_word_new_br12: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool<br>arch
+bip_39_word_new_br2: venue<br>since
+bip_39_word_new_br3: venue<br>since<br>avoid
+bip_39_word_new_br4: venue<br>since<br>avoid<br>exclude
+bip_39_word_new_br5: venue<br>since<br>avoid<br>exclude<br>minute
+bip_39_word_new_br6: venue<br>since<br>avoid<br>exclude<br>minute<br>used
+bip_39_word_new_br7: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew
+bip_39_word_new_br8: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet
+bip_39_word_new_br9: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live
+bip_39_word_new_line1: venue
+bip_39_word_new_line10: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet
+
+  live
+
+  foil'
+bip_39_word_new_line11: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet
+
+  live
+
+  foil
+
+  pool'
+bip_39_word_new_line12: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet
+
+  live
+
+  foil
+
+  pool
+
+  arch'
+bip_39_word_new_line2: 'venue
+
+  since'
+bip_39_word_new_line3: 'venue
+
+  since
+
+  avoid'
+bip_39_word_new_line4: 'venue
+
+  since
+
+  avoid
+
+  exclude'
+bip_39_word_new_line5: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute'
+bip_39_word_new_line6: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used'
+bip_39_word_new_line7: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew'
+bip_39_word_new_line8: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet'
+bip_39_word_new_line9: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet
+
+  live'
+bip_39_word_space_0:
+- venue
+- since
+- avoid
+- exclude
+- minute
+- used
+- crew
+- sweet
+- live
+- foil
+- pool
+- arch
+bip_39_word_space_1: venue
+bip_39_word_space_10: venue since avoid exclude minute used crew sweet live foil
+bip_39_word_space_11: venue since avoid exclude minute used crew sweet live foil pool
+bip_39_word_space_12: venue since avoid exclude minute used crew sweet live foil pool
+  arch
+bip_39_word_space_2: venue since
+bip_39_word_space_3: venue since avoid
+bip_39_word_space_4: venue since avoid exclude
+bip_39_word_space_5: venue since avoid exclude minute
+bip_39_word_space_6: venue since avoid exclude minute used
+bip_39_word_space_7: venue since avoid exclude minute used crew
+bip_39_word_space_8: venue since avoid exclude minute used crew sweet
+bip_39_word_space_9: venue since avoid exclude minute used crew sweet live
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

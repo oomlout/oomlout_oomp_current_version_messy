@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tackle
+bip_39_word_new_br10: tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick<br>opera<br>debate<br>brain<br>elite
+bip_39_word_new_br11: tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick<br>opera<br>debate<br>brain<br>elite<br>limb
+bip_39_word_new_br12: tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick<br>opera<br>debate<br>brain<br>elite<br>limb<br>assault
+bip_39_word_new_br2: tackle<br>bubble
+bip_39_word_new_br3: tackle<br>bubble<br>hundred
+bip_39_word_new_br4: tackle<br>bubble<br>hundred<br>trip
+bip_39_word_new_br5: tackle<br>bubble<br>hundred<br>trip<br>remain
+bip_39_word_new_br6: tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick
+bip_39_word_new_br7: tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick<br>opera
+bip_39_word_new_br8: tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick<br>opera<br>debate
+bip_39_word_new_br9: tackle<br>bubble<br>hundred<br>trip<br>remain<br>stick<br>opera<br>debate<br>brain
+bip_39_word_new_line1: tackle
+bip_39_word_new_line10: 'tackle
+
+  bubble
+
+  hundred
+
+  trip
+
+  remain
+
+  stick
+
+  opera
+
+  debate
+
+  brain
+
+  elite'
+bip_39_word_new_line11: 'tackle
+
+  bubble
+
+  hundred
+
+  trip
+
+  remain
+
+  stick
+
+  opera
+
+  debate
+
+  brain
+
+  elite
+
+  limb'
+bip_39_word_new_line12: 'tackle
+
+  bubble
+
+  hundred
+
+  trip
+
+  remain
+
+  stick
+
+  opera
+
+  debate
+
+  brain
+
+  elite
+
+  limb
+
+  assault'
+bip_39_word_new_line2: 'tackle
+
+  bubble'
+bip_39_word_new_line3: 'tackle
+
+  bubble
+
+  hundred'
+bip_39_word_new_line4: 'tackle
+
+  bubble
+
+  hundred
+
+  trip'
+bip_39_word_new_line5: 'tackle
+
+  bubble
+
+  hundred
+
+  trip
+
+  remain'
+bip_39_word_new_line6: 'tackle
+
+  bubble
+
+  hundred
+
+  trip
+
+  remain
+
+  stick'
+bip_39_word_new_line7: 'tackle
+
+  bubble
+
+  hundred
+
+  trip
+
+  remain
+
+  stick
+
+  opera'
+bip_39_word_new_line8: 'tackle
+
+  bubble
+
+  hundred
+
+  trip
+
+  remain
+
+  stick
+
+  opera
+
+  debate'
+bip_39_word_new_line9: 'tackle
+
+  bubble
+
+  hundred
+
+  trip
+
+  remain
+
+  stick
+
+  opera
+
+  debate
+
+  brain'
+bip_39_word_space_0:
+- tackle
+- bubble
+- hundred
+- trip
+- remain
+- stick
+- opera
+- debate
+- brain
+- elite
+- limb
+- assault
+bip_39_word_space_1: tackle
+bip_39_word_space_10: tackle bubble hundred trip remain stick opera debate brain elite
+bip_39_word_space_11: tackle bubble hundred trip remain stick opera debate brain elite
+  limb
+bip_39_word_space_12: tackle bubble hundred trip remain stick opera debate brain elite
+  limb assault
+bip_39_word_space_2: tackle bubble
+bip_39_word_space_3: tackle bubble hundred
+bip_39_word_space_4: tackle bubble hundred trip
+bip_39_word_space_5: tackle bubble hundred trip remain
+bip_39_word_space_6: tackle bubble hundred trip remain stick
+bip_39_word_space_7: tackle bubble hundred trip remain stick opera
+bip_39_word_space_8: tackle bubble hundred trip remain stick opera debate
+bip_39_word_space_9: tackle bubble hundred trip remain stick opera debate brain
 classification: company_oomlout
 classification_capital: Company Oomlout
 classification_first_letter: c

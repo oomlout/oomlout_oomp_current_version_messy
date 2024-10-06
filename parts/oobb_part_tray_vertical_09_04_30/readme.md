@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: victory boy
+  * bip 39 word 3: victory boy wisdom
+  * bip 39 word: victory boy wisdom other act youth check undo chunk mother usual across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | victory |  
+| bip_39_word_new_br10 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother |  
+| bip_39_word_new_br11 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother<br>usual |  
+| bip_39_word_new_br12 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk<br>mother<br>usual<br>across |  
+| bip_39_word_new_br2 | victory<br>boy |  
+| bip_39_word_new_br3 | victory<br>boy<br>wisdom |  
+| bip_39_word_new_br4 | victory<br>boy<br>wisdom<br>other |  
+| bip_39_word_new_br5 | victory<br>boy<br>wisdom<br>other<br>act |  
+| bip_39_word_new_br6 | victory<br>boy<br>wisdom<br>other<br>act<br>youth |  
+| bip_39_word_new_br7 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check |  
+| bip_39_word_new_br8 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo |  
+| bip_39_word_new_br9 | victory<br>boy<br>wisdom<br>other<br>act<br>youth<br>check<br>undo<br>chunk |  
+| bip_39_word_new_line1 | victory |  
+| bip_39_word_new_line10 | victory
+boy
+wisdom
+other
+act
+youth
+check
+undo
+chunk
+mother |  
+| bip_39_word_new_line11 | victory
+boy
+wisdom
+other
+act
+youth
+check
+undo
+chunk
+mother
+usual |  
+| bip_39_word_new_line12 | victory
+boy
+wisdom
+other
+act
+youth
+check
+undo
+chunk
+mother
+usual
+across |  
+| bip_39_word_new_line2 | victory
+boy |  
+| bip_39_word_new_line3 | victory
+boy
+wisdom |  
+| bip_39_word_new_line4 | victory
+boy
+wisdom
+other |  
+| bip_39_word_new_line5 | victory
+boy
+wisdom
+other
+act |  
+| bip_39_word_new_line6 | victory
+boy
+wisdom
+other
+act
+youth |  
+| bip_39_word_new_line7 | victory
+boy
+wisdom
+other
+act
+youth
+check |  
+| bip_39_word_new_line8 | victory
+boy
+wisdom
+other
+act
+youth
+check
+undo |  
+| bip_39_word_new_line9 | victory
+boy
+wisdom
+other
+act
+youth
+check
+undo
+chunk |  
+| bip_39_word_space_0 | ['victory', 'boy', 'wisdom', 'other', 'act', 'youth', 'check', 'undo', 'chunk', 'mother', 'usual', 'across'] |  
+| bip_39_word_space_1 | victory |  
+| bip_39_word_space_10 | victory boy wisdom other act youth check undo chunk mother |  
+| bip_39_word_space_11 | victory boy wisdom other act youth check undo chunk mother usual |  
+| bip_39_word_space_12 | victory boy wisdom other act youth check undo chunk mother usual across |  
+| bip_39_word_space_2 | victory boy |  
+| bip_39_word_space_3 | victory boy wisdom |  
+| bip_39_word_space_4 | victory boy wisdom other |  
+| bip_39_word_space_5 | victory boy wisdom other act |  
+| bip_39_word_space_6 | victory boy wisdom other act youth |  
+| bip_39_word_space_7 | victory boy wisdom other act youth check |  
+| bip_39_word_space_8 | victory boy wisdom other act youth check undo |  
+| bip_39_word_space_9 | victory boy wisdom other act youth check undo chunk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

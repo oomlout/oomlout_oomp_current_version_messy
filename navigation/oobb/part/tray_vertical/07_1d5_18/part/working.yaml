@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wool
+bip_39_word_new_br10: wool<br>access<br>choose<br>young<br>police<br>slight<br>drama<br>forest<br>depend<br>stuff
+bip_39_word_new_br11: wool<br>access<br>choose<br>young<br>police<br>slight<br>drama<br>forest<br>depend<br>stuff<br>sentence
+bip_39_word_new_br12: wool<br>access<br>choose<br>young<br>police<br>slight<br>drama<br>forest<br>depend<br>stuff<br>sentence<br>amused
+bip_39_word_new_br2: wool<br>access
+bip_39_word_new_br3: wool<br>access<br>choose
+bip_39_word_new_br4: wool<br>access<br>choose<br>young
+bip_39_word_new_br5: wool<br>access<br>choose<br>young<br>police
+bip_39_word_new_br6: wool<br>access<br>choose<br>young<br>police<br>slight
+bip_39_word_new_br7: wool<br>access<br>choose<br>young<br>police<br>slight<br>drama
+bip_39_word_new_br8: wool<br>access<br>choose<br>young<br>police<br>slight<br>drama<br>forest
+bip_39_word_new_br9: wool<br>access<br>choose<br>young<br>police<br>slight<br>drama<br>forest<br>depend
+bip_39_word_new_line1: wool
+bip_39_word_new_line10: 'wool
+
+  access
+
+  choose
+
+  young
+
+  police
+
+  slight
+
+  drama
+
+  forest
+
+  depend
+
+  stuff'
+bip_39_word_new_line11: 'wool
+
+  access
+
+  choose
+
+  young
+
+  police
+
+  slight
+
+  drama
+
+  forest
+
+  depend
+
+  stuff
+
+  sentence'
+bip_39_word_new_line12: 'wool
+
+  access
+
+  choose
+
+  young
+
+  police
+
+  slight
+
+  drama
+
+  forest
+
+  depend
+
+  stuff
+
+  sentence
+
+  amused'
+bip_39_word_new_line2: 'wool
+
+  access'
+bip_39_word_new_line3: 'wool
+
+  access
+
+  choose'
+bip_39_word_new_line4: 'wool
+
+  access
+
+  choose
+
+  young'
+bip_39_word_new_line5: 'wool
+
+  access
+
+  choose
+
+  young
+
+  police'
+bip_39_word_new_line6: 'wool
+
+  access
+
+  choose
+
+  young
+
+  police
+
+  slight'
+bip_39_word_new_line7: 'wool
+
+  access
+
+  choose
+
+  young
+
+  police
+
+  slight
+
+  drama'
+bip_39_word_new_line8: 'wool
+
+  access
+
+  choose
+
+  young
+
+  police
+
+  slight
+
+  drama
+
+  forest'
+bip_39_word_new_line9: 'wool
+
+  access
+
+  choose
+
+  young
+
+  police
+
+  slight
+
+  drama
+
+  forest
+
+  depend'
+bip_39_word_space_0:
+- wool
+- access
+- choose
+- young
+- police
+- slight
+- drama
+- forest
+- depend
+- stuff
+- sentence
+- amused
+bip_39_word_space_1: wool
+bip_39_word_space_10: wool access choose young police slight drama forest depend stuff
+bip_39_word_space_11: wool access choose young police slight drama forest depend stuff
+  sentence
+bip_39_word_space_12: wool access choose young police slight drama forest depend stuff
+  sentence amused
+bip_39_word_space_2: wool access
+bip_39_word_space_3: wool access choose
+bip_39_word_space_4: wool access choose young
+bip_39_word_space_5: wool access choose young police
+bip_39_word_space_6: wool access choose young police slight
+bip_39_word_space_7: wool access choose young police slight drama
+bip_39_word_space_8: wool access choose young police slight drama forest
+bip_39_word_space_9: wool access choose young police slight drama forest depend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

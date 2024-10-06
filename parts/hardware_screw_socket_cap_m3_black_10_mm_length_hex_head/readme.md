@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: question silk
+  * bip 39 word 3: question silk true
+  * bip 39 word: question silk true situate raw barrel suspect raw position round gift alcohol
 
 ### other_codes
 * short_code: sc3b10h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | question |  
+| bip_39_word_new_br10 | question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round |  
+| bip_39_word_new_br11 | question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift |  
+| bip_39_word_new_br12 | question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift<br>alcohol |  
+| bip_39_word_new_br2 | question<br>silk |  
+| bip_39_word_new_br3 | question<br>silk<br>true |  
+| bip_39_word_new_br4 | question<br>silk<br>true<br>situate |  
+| bip_39_word_new_br5 | question<br>silk<br>true<br>situate<br>raw |  
+| bip_39_word_new_br6 | question<br>silk<br>true<br>situate<br>raw<br>barrel |  
+| bip_39_word_new_br7 | question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect |  
+| bip_39_word_new_br8 | question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw |  
+| bip_39_word_new_br9 | question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position |  
+| bip_39_word_new_line1 | question |  
+| bip_39_word_new_line10 | question
+silk
+true
+situate
+raw
+barrel
+suspect
+raw
+position
+round |  
+| bip_39_word_new_line11 | question
+silk
+true
+situate
+raw
+barrel
+suspect
+raw
+position
+round
+gift |  
+| bip_39_word_new_line12 | question
+silk
+true
+situate
+raw
+barrel
+suspect
+raw
+position
+round
+gift
+alcohol |  
+| bip_39_word_new_line2 | question
+silk |  
+| bip_39_word_new_line3 | question
+silk
+true |  
+| bip_39_word_new_line4 | question
+silk
+true
+situate |  
+| bip_39_word_new_line5 | question
+silk
+true
+situate
+raw |  
+| bip_39_word_new_line6 | question
+silk
+true
+situate
+raw
+barrel |  
+| bip_39_word_new_line7 | question
+silk
+true
+situate
+raw
+barrel
+suspect |  
+| bip_39_word_new_line8 | question
+silk
+true
+situate
+raw
+barrel
+suspect
+raw |  
+| bip_39_word_new_line9 | question
+silk
+true
+situate
+raw
+barrel
+suspect
+raw
+position |  
+| bip_39_word_space_0 | ['question', 'silk', 'true', 'situate', 'raw', 'barrel', 'suspect', 'raw', 'position', 'round', 'gift', 'alcohol'] |  
+| bip_39_word_space_1 | question |  
+| bip_39_word_space_10 | question silk true situate raw barrel suspect raw position round |  
+| bip_39_word_space_11 | question silk true situate raw barrel suspect raw position round gift |  
+| bip_39_word_space_12 | question silk true situate raw barrel suspect raw position round gift alcohol |  
+| bip_39_word_space_2 | question silk |  
+| bip_39_word_space_3 | question silk true |  
+| bip_39_word_space_4 | question silk true situate |  
+| bip_39_word_space_5 | question silk true situate raw |  
+| bip_39_word_space_6 | question silk true situate raw barrel |  
+| bip_39_word_space_7 | question silk true situate raw barrel suspect |  
+| bip_39_word_space_8 | question silk true situate raw barrel suspect raw |  
+| bip_39_word_space_9 | question silk true situate raw barrel suspect raw position |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

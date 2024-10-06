@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tenant file
+  * bip 39 word 3: tenant file finish
+  * bip 39 word: tenant file finish pond buyer angry year invite fence suit common account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tenant |  
+| bip_39_word_new_br10 | tenant<br>file<br>finish<br>pond<br>buyer<br>angry<br>year<br>invite<br>fence<br>suit |  
+| bip_39_word_new_br11 | tenant<br>file<br>finish<br>pond<br>buyer<br>angry<br>year<br>invite<br>fence<br>suit<br>common |  
+| bip_39_word_new_br12 | tenant<br>file<br>finish<br>pond<br>buyer<br>angry<br>year<br>invite<br>fence<br>suit<br>common<br>account |  
+| bip_39_word_new_br2 | tenant<br>file |  
+| bip_39_word_new_br3 | tenant<br>file<br>finish |  
+| bip_39_word_new_br4 | tenant<br>file<br>finish<br>pond |  
+| bip_39_word_new_br5 | tenant<br>file<br>finish<br>pond<br>buyer |  
+| bip_39_word_new_br6 | tenant<br>file<br>finish<br>pond<br>buyer<br>angry |  
+| bip_39_word_new_br7 | tenant<br>file<br>finish<br>pond<br>buyer<br>angry<br>year |  
+| bip_39_word_new_br8 | tenant<br>file<br>finish<br>pond<br>buyer<br>angry<br>year<br>invite |  
+| bip_39_word_new_br9 | tenant<br>file<br>finish<br>pond<br>buyer<br>angry<br>year<br>invite<br>fence |  
+| bip_39_word_new_line1 | tenant |  
+| bip_39_word_new_line10 | tenant
+file
+finish
+pond
+buyer
+angry
+year
+invite
+fence
+suit |  
+| bip_39_word_new_line11 | tenant
+file
+finish
+pond
+buyer
+angry
+year
+invite
+fence
+suit
+common |  
+| bip_39_word_new_line12 | tenant
+file
+finish
+pond
+buyer
+angry
+year
+invite
+fence
+suit
+common
+account |  
+| bip_39_word_new_line2 | tenant
+file |  
+| bip_39_word_new_line3 | tenant
+file
+finish |  
+| bip_39_word_new_line4 | tenant
+file
+finish
+pond |  
+| bip_39_word_new_line5 | tenant
+file
+finish
+pond
+buyer |  
+| bip_39_word_new_line6 | tenant
+file
+finish
+pond
+buyer
+angry |  
+| bip_39_word_new_line7 | tenant
+file
+finish
+pond
+buyer
+angry
+year |  
+| bip_39_word_new_line8 | tenant
+file
+finish
+pond
+buyer
+angry
+year
+invite |  
+| bip_39_word_new_line9 | tenant
+file
+finish
+pond
+buyer
+angry
+year
+invite
+fence |  
+| bip_39_word_space_0 | ['tenant', 'file', 'finish', 'pond', 'buyer', 'angry', 'year', 'invite', 'fence', 'suit', 'common', 'account'] |  
+| bip_39_word_space_1 | tenant |  
+| bip_39_word_space_10 | tenant file finish pond buyer angry year invite fence suit |  
+| bip_39_word_space_11 | tenant file finish pond buyer angry year invite fence suit common |  
+| bip_39_word_space_12 | tenant file finish pond buyer angry year invite fence suit common account |  
+| bip_39_word_space_2 | tenant file |  
+| bip_39_word_space_3 | tenant file finish |  
+| bip_39_word_space_4 | tenant file finish pond |  
+| bip_39_word_space_5 | tenant file finish pond buyer |  
+| bip_39_word_space_6 | tenant file finish pond buyer angry |  
+| bip_39_word_space_7 | tenant file finish pond buyer angry year |  
+| bip_39_word_space_8 | tenant file finish pond buyer angry year invite |  
+| bip_39_word_space_9 | tenant file finish pond buyer angry year invite fence |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

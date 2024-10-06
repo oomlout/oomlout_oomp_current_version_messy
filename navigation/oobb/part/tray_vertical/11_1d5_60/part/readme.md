@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remove enrich
+  * bip 39 word 3: remove enrich hope
+  * bip 39 word: remove enrich hope mobile enemy spy ten melody upset fragile police author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remove |  
+| bip_39_word_new_br10 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy<br>ten<br>melody<br>upset<br>fragile |  
+| bip_39_word_new_br11 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy<br>ten<br>melody<br>upset<br>fragile<br>police |  
+| bip_39_word_new_br12 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy<br>ten<br>melody<br>upset<br>fragile<br>police<br>author |  
+| bip_39_word_new_br2 | remove<br>enrich |  
+| bip_39_word_new_br3 | remove<br>enrich<br>hope |  
+| bip_39_word_new_br4 | remove<br>enrich<br>hope<br>mobile |  
+| bip_39_word_new_br5 | remove<br>enrich<br>hope<br>mobile<br>enemy |  
+| bip_39_word_new_br6 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy |  
+| bip_39_word_new_br7 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy<br>ten |  
+| bip_39_word_new_br8 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy<br>ten<br>melody |  
+| bip_39_word_new_br9 | remove<br>enrich<br>hope<br>mobile<br>enemy<br>spy<br>ten<br>melody<br>upset |  
+| bip_39_word_new_line1 | remove |  
+| bip_39_word_new_line10 | remove
+enrich
+hope
+mobile
+enemy
+spy
+ten
+melody
+upset
+fragile |  
+| bip_39_word_new_line11 | remove
+enrich
+hope
+mobile
+enemy
+spy
+ten
+melody
+upset
+fragile
+police |  
+| bip_39_word_new_line12 | remove
+enrich
+hope
+mobile
+enemy
+spy
+ten
+melody
+upset
+fragile
+police
+author |  
+| bip_39_word_new_line2 | remove
+enrich |  
+| bip_39_word_new_line3 | remove
+enrich
+hope |  
+| bip_39_word_new_line4 | remove
+enrich
+hope
+mobile |  
+| bip_39_word_new_line5 | remove
+enrich
+hope
+mobile
+enemy |  
+| bip_39_word_new_line6 | remove
+enrich
+hope
+mobile
+enemy
+spy |  
+| bip_39_word_new_line7 | remove
+enrich
+hope
+mobile
+enemy
+spy
+ten |  
+| bip_39_word_new_line8 | remove
+enrich
+hope
+mobile
+enemy
+spy
+ten
+melody |  
+| bip_39_word_new_line9 | remove
+enrich
+hope
+mobile
+enemy
+spy
+ten
+melody
+upset |  
+| bip_39_word_space_0 | ['remove', 'enrich', 'hope', 'mobile', 'enemy', 'spy', 'ten', 'melody', 'upset', 'fragile', 'police', 'author'] |  
+| bip_39_word_space_1 | remove |  
+| bip_39_word_space_10 | remove enrich hope mobile enemy spy ten melody upset fragile |  
+| bip_39_word_space_11 | remove enrich hope mobile enemy spy ten melody upset fragile police |  
+| bip_39_word_space_12 | remove enrich hope mobile enemy spy ten melody upset fragile police author |  
+| bip_39_word_space_2 | remove enrich |  
+| bip_39_word_space_3 | remove enrich hope |  
+| bip_39_word_space_4 | remove enrich hope mobile |  
+| bip_39_word_space_5 | remove enrich hope mobile enemy |  
+| bip_39_word_space_6 | remove enrich hope mobile enemy spy |  
+| bip_39_word_space_7 | remove enrich hope mobile enemy spy ten |  
+| bip_39_word_space_8 | remove enrich hope mobile enemy spy ten melody |  
+| bip_39_word_space_9 | remove enrich hope mobile enemy spy ten melody upset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

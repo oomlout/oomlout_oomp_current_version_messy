@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raw rug
+  * bip 39 word 3: raw rug casino
+  * bip 39 word: raw rug casino weapon ahead pause stand squirrel lumber floor empower adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raw |  
+| bip_39_word_new_br10 | raw<br>rug<br>casino<br>weapon<br>ahead<br>pause<br>stand<br>squirrel<br>lumber<br>floor |  
+| bip_39_word_new_br11 | raw<br>rug<br>casino<br>weapon<br>ahead<br>pause<br>stand<br>squirrel<br>lumber<br>floor<br>empower |  
+| bip_39_word_new_br12 | raw<br>rug<br>casino<br>weapon<br>ahead<br>pause<br>stand<br>squirrel<br>lumber<br>floor<br>empower<br>adjust |  
+| bip_39_word_new_br2 | raw<br>rug |  
+| bip_39_word_new_br3 | raw<br>rug<br>casino |  
+| bip_39_word_new_br4 | raw<br>rug<br>casino<br>weapon |  
+| bip_39_word_new_br5 | raw<br>rug<br>casino<br>weapon<br>ahead |  
+| bip_39_word_new_br6 | raw<br>rug<br>casino<br>weapon<br>ahead<br>pause |  
+| bip_39_word_new_br7 | raw<br>rug<br>casino<br>weapon<br>ahead<br>pause<br>stand |  
+| bip_39_word_new_br8 | raw<br>rug<br>casino<br>weapon<br>ahead<br>pause<br>stand<br>squirrel |  
+| bip_39_word_new_br9 | raw<br>rug<br>casino<br>weapon<br>ahead<br>pause<br>stand<br>squirrel<br>lumber |  
+| bip_39_word_new_line1 | raw |  
+| bip_39_word_new_line10 | raw
+rug
+casino
+weapon
+ahead
+pause
+stand
+squirrel
+lumber
+floor |  
+| bip_39_word_new_line11 | raw
+rug
+casino
+weapon
+ahead
+pause
+stand
+squirrel
+lumber
+floor
+empower |  
+| bip_39_word_new_line12 | raw
+rug
+casino
+weapon
+ahead
+pause
+stand
+squirrel
+lumber
+floor
+empower
+adjust |  
+| bip_39_word_new_line2 | raw
+rug |  
+| bip_39_word_new_line3 | raw
+rug
+casino |  
+| bip_39_word_new_line4 | raw
+rug
+casino
+weapon |  
+| bip_39_word_new_line5 | raw
+rug
+casino
+weapon
+ahead |  
+| bip_39_word_new_line6 | raw
+rug
+casino
+weapon
+ahead
+pause |  
+| bip_39_word_new_line7 | raw
+rug
+casino
+weapon
+ahead
+pause
+stand |  
+| bip_39_word_new_line8 | raw
+rug
+casino
+weapon
+ahead
+pause
+stand
+squirrel |  
+| bip_39_word_new_line9 | raw
+rug
+casino
+weapon
+ahead
+pause
+stand
+squirrel
+lumber |  
+| bip_39_word_space_0 | ['raw', 'rug', 'casino', 'weapon', 'ahead', 'pause', 'stand', 'squirrel', 'lumber', 'floor', 'empower', 'adjust'] |  
+| bip_39_word_space_1 | raw |  
+| bip_39_word_space_10 | raw rug casino weapon ahead pause stand squirrel lumber floor |  
+| bip_39_word_space_11 | raw rug casino weapon ahead pause stand squirrel lumber floor empower |  
+| bip_39_word_space_12 | raw rug casino weapon ahead pause stand squirrel lumber floor empower adjust |  
+| bip_39_word_space_2 | raw rug |  
+| bip_39_word_space_3 | raw rug casino |  
+| bip_39_word_space_4 | raw rug casino weapon |  
+| bip_39_word_space_5 | raw rug casino weapon ahead |  
+| bip_39_word_space_6 | raw rug casino weapon ahead pause |  
+| bip_39_word_space_7 | raw rug casino weapon ahead pause stand |  
+| bip_39_word_space_8 | raw rug casino weapon ahead pause stand squirrel |  
+| bip_39_word_space_9 | raw rug casino weapon ahead pause stand squirrel lumber |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

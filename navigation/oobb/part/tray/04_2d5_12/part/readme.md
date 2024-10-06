@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: problem property
+  * bip 39 word 3: problem property excess
+  * bip 39 word: problem property excess daughter timber chat twice question liberty brown kiss alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | problem |  
+| bip_39_word_new_br10 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown |  
+| bip_39_word_new_br11 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown<br>kiss |  
+| bip_39_word_new_br12 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty<br>brown<br>kiss<br>alcohol |  
+| bip_39_word_new_br2 | problem<br>property |  
+| bip_39_word_new_br3 | problem<br>property<br>excess |  
+| bip_39_word_new_br4 | problem<br>property<br>excess<br>daughter |  
+| bip_39_word_new_br5 | problem<br>property<br>excess<br>daughter<br>timber |  
+| bip_39_word_new_br6 | problem<br>property<br>excess<br>daughter<br>timber<br>chat |  
+| bip_39_word_new_br7 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice |  
+| bip_39_word_new_br8 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question |  
+| bip_39_word_new_br9 | problem<br>property<br>excess<br>daughter<br>timber<br>chat<br>twice<br>question<br>liberty |  
+| bip_39_word_new_line1 | problem |  
+| bip_39_word_new_line10 | problem
+property
+excess
+daughter
+timber
+chat
+twice
+question
+liberty
+brown |  
+| bip_39_word_new_line11 | problem
+property
+excess
+daughter
+timber
+chat
+twice
+question
+liberty
+brown
+kiss |  
+| bip_39_word_new_line12 | problem
+property
+excess
+daughter
+timber
+chat
+twice
+question
+liberty
+brown
+kiss
+alcohol |  
+| bip_39_word_new_line2 | problem
+property |  
+| bip_39_word_new_line3 | problem
+property
+excess |  
+| bip_39_word_new_line4 | problem
+property
+excess
+daughter |  
+| bip_39_word_new_line5 | problem
+property
+excess
+daughter
+timber |  
+| bip_39_word_new_line6 | problem
+property
+excess
+daughter
+timber
+chat |  
+| bip_39_word_new_line7 | problem
+property
+excess
+daughter
+timber
+chat
+twice |  
+| bip_39_word_new_line8 | problem
+property
+excess
+daughter
+timber
+chat
+twice
+question |  
+| bip_39_word_new_line9 | problem
+property
+excess
+daughter
+timber
+chat
+twice
+question
+liberty |  
+| bip_39_word_space_0 | ['problem', 'property', 'excess', 'daughter', 'timber', 'chat', 'twice', 'question', 'liberty', 'brown', 'kiss', 'alcohol'] |  
+| bip_39_word_space_1 | problem |  
+| bip_39_word_space_10 | problem property excess daughter timber chat twice question liberty brown |  
+| bip_39_word_space_11 | problem property excess daughter timber chat twice question liberty brown kiss |  
+| bip_39_word_space_12 | problem property excess daughter timber chat twice question liberty brown kiss alcohol |  
+| bip_39_word_space_2 | problem property |  
+| bip_39_word_space_3 | problem property excess |  
+| bip_39_word_space_4 | problem property excess daughter |  
+| bip_39_word_space_5 | problem property excess daughter timber |  
+| bip_39_word_space_6 | problem property excess daughter timber chat |  
+| bip_39_word_space_7 | problem property excess daughter timber chat twice |  
+| bip_39_word_space_8 | problem property excess daughter timber chat twice question |  
+| bip_39_word_space_9 | problem property excess daughter timber chat twice question liberty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

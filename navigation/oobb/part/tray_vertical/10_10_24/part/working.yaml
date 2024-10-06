@@ -1,3 +1,186 @@
+bip_39_word_new_br1: human
+bip_39_word_new_br10: human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby
+bip_39_word_new_br11: human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby<br>daughter
+bip_39_word_new_br12: human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend<br>baby<br>daughter<br>acquire
+bip_39_word_new_br2: human<br>mechanic
+bip_39_word_new_br3: human<br>mechanic<br>ask
+bip_39_word_new_br4: human<br>mechanic<br>ask<br>armed
+bip_39_word_new_br5: human<br>mechanic<br>ask<br>armed<br>mixed
+bip_39_word_new_br6: human<br>mechanic<br>ask<br>armed<br>mixed<br>size
+bip_39_word_new_br7: human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name
+bip_39_word_new_br8: human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle
+bip_39_word_new_br9: human<br>mechanic<br>ask<br>armed<br>mixed<br>size<br>name<br>miracle<br>trend
+bip_39_word_new_line1: human
+bip_39_word_new_line10: 'human
+
+  mechanic
+
+  ask
+
+  armed
+
+  mixed
+
+  size
+
+  name
+
+  miracle
+
+  trend
+
+  baby'
+bip_39_word_new_line11: 'human
+
+  mechanic
+
+  ask
+
+  armed
+
+  mixed
+
+  size
+
+  name
+
+  miracle
+
+  trend
+
+  baby
+
+  daughter'
+bip_39_word_new_line12: 'human
+
+  mechanic
+
+  ask
+
+  armed
+
+  mixed
+
+  size
+
+  name
+
+  miracle
+
+  trend
+
+  baby
+
+  daughter
+
+  acquire'
+bip_39_word_new_line2: 'human
+
+  mechanic'
+bip_39_word_new_line3: 'human
+
+  mechanic
+
+  ask'
+bip_39_word_new_line4: 'human
+
+  mechanic
+
+  ask
+
+  armed'
+bip_39_word_new_line5: 'human
+
+  mechanic
+
+  ask
+
+  armed
+
+  mixed'
+bip_39_word_new_line6: 'human
+
+  mechanic
+
+  ask
+
+  armed
+
+  mixed
+
+  size'
+bip_39_word_new_line7: 'human
+
+  mechanic
+
+  ask
+
+  armed
+
+  mixed
+
+  size
+
+  name'
+bip_39_word_new_line8: 'human
+
+  mechanic
+
+  ask
+
+  armed
+
+  mixed
+
+  size
+
+  name
+
+  miracle'
+bip_39_word_new_line9: 'human
+
+  mechanic
+
+  ask
+
+  armed
+
+  mixed
+
+  size
+
+  name
+
+  miracle
+
+  trend'
+bip_39_word_space_0:
+- human
+- mechanic
+- ask
+- armed
+- mixed
+- size
+- name
+- miracle
+- trend
+- baby
+- daughter
+- acquire
+bip_39_word_space_1: human
+bip_39_word_space_10: human mechanic ask armed mixed size name miracle trend baby
+bip_39_word_space_11: human mechanic ask armed mixed size name miracle trend baby
+  daughter
+bip_39_word_space_12: human mechanic ask armed mixed size name miracle trend baby
+  daughter acquire
+bip_39_word_space_2: human mechanic
+bip_39_word_space_3: human mechanic ask
+bip_39_word_space_4: human mechanic ask armed
+bip_39_word_space_5: human mechanic ask armed mixed
+bip_39_word_space_6: human mechanic ask armed mixed size
+bip_39_word_space_7: human mechanic ask armed mixed size name
+bip_39_word_space_8: human mechanic ask armed mixed size name miracle
+bip_39_word_space_9: human mechanic ask armed mixed size name miracle trend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

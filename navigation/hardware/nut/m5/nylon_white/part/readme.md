@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: forward green
+  * bip 39 word 3: forward green robot
+  * bip 39 word: forward green robot tent february minute govern guilt symbol finish foam agent
 
 ### other_codes
 * short_code: n5nw
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | forward |  
+| bip_39_word_new_br10 | forward<br>green<br>robot<br>tent<br>february<br>minute<br>govern<br>guilt<br>symbol<br>finish |  
+| bip_39_word_new_br11 | forward<br>green<br>robot<br>tent<br>february<br>minute<br>govern<br>guilt<br>symbol<br>finish<br>foam |  
+| bip_39_word_new_br12 | forward<br>green<br>robot<br>tent<br>february<br>minute<br>govern<br>guilt<br>symbol<br>finish<br>foam<br>agent |  
+| bip_39_word_new_br2 | forward<br>green |  
+| bip_39_word_new_br3 | forward<br>green<br>robot |  
+| bip_39_word_new_br4 | forward<br>green<br>robot<br>tent |  
+| bip_39_word_new_br5 | forward<br>green<br>robot<br>tent<br>february |  
+| bip_39_word_new_br6 | forward<br>green<br>robot<br>tent<br>february<br>minute |  
+| bip_39_word_new_br7 | forward<br>green<br>robot<br>tent<br>february<br>minute<br>govern |  
+| bip_39_word_new_br8 | forward<br>green<br>robot<br>tent<br>february<br>minute<br>govern<br>guilt |  
+| bip_39_word_new_br9 | forward<br>green<br>robot<br>tent<br>february<br>minute<br>govern<br>guilt<br>symbol |  
+| bip_39_word_new_line1 | forward |  
+| bip_39_word_new_line10 | forward
+green
+robot
+tent
+february
+minute
+govern
+guilt
+symbol
+finish |  
+| bip_39_word_new_line11 | forward
+green
+robot
+tent
+february
+minute
+govern
+guilt
+symbol
+finish
+foam |  
+| bip_39_word_new_line12 | forward
+green
+robot
+tent
+february
+minute
+govern
+guilt
+symbol
+finish
+foam
+agent |  
+| bip_39_word_new_line2 | forward
+green |  
+| bip_39_word_new_line3 | forward
+green
+robot |  
+| bip_39_word_new_line4 | forward
+green
+robot
+tent |  
+| bip_39_word_new_line5 | forward
+green
+robot
+tent
+february |  
+| bip_39_word_new_line6 | forward
+green
+robot
+tent
+february
+minute |  
+| bip_39_word_new_line7 | forward
+green
+robot
+tent
+february
+minute
+govern |  
+| bip_39_word_new_line8 | forward
+green
+robot
+tent
+february
+minute
+govern
+guilt |  
+| bip_39_word_new_line9 | forward
+green
+robot
+tent
+february
+minute
+govern
+guilt
+symbol |  
+| bip_39_word_space_0 | ['forward', 'green', 'robot', 'tent', 'february', 'minute', 'govern', 'guilt', 'symbol', 'finish', 'foam', 'agent'] |  
+| bip_39_word_space_1 | forward |  
+| bip_39_word_space_10 | forward green robot tent february minute govern guilt symbol finish |  
+| bip_39_word_space_11 | forward green robot tent february minute govern guilt symbol finish foam |  
+| bip_39_word_space_12 | forward green robot tent february minute govern guilt symbol finish foam agent |  
+| bip_39_word_space_2 | forward green |  
+| bip_39_word_space_3 | forward green robot |  
+| bip_39_word_space_4 | forward green robot tent |  
+| bip_39_word_space_5 | forward green robot tent february |  
+| bip_39_word_space_6 | forward green robot tent february minute |  
+| bip_39_word_space_7 | forward green robot tent february minute govern |  
+| bip_39_word_space_8 | forward green robot tent february minute govern guilt |  
+| bip_39_word_space_9 | forward green robot tent february minute govern guilt symbol |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

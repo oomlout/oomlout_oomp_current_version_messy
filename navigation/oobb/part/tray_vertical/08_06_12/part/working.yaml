@@ -1,3 +1,186 @@
+bip_39_word_new_br1: repair
+bip_39_word_new_br10: repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack
+bip_39_word_new_br11: repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack<br>code
+bip_39_word_new_br12: repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used<br>attack<br>code<br>armed
+bip_39_word_new_br2: repair<br>shoe
+bip_39_word_new_br3: repair<br>shoe<br>blue
+bip_39_word_new_br4: repair<br>shoe<br>blue<br>blind
+bip_39_word_new_br5: repair<br>shoe<br>blue<br>blind<br>top
+bip_39_word_new_br6: repair<br>shoe<br>blue<br>blind<br>top<br>remember
+bip_39_word_new_br7: repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise
+bip_39_word_new_br8: repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor
+bip_39_word_new_br9: repair<br>shoe<br>blue<br>blind<br>top<br>remember<br>praise<br>indoor<br>used
+bip_39_word_new_line1: repair
+bip_39_word_new_line10: 'repair
+
+  shoe
+
+  blue
+
+  blind
+
+  top
+
+  remember
+
+  praise
+
+  indoor
+
+  used
+
+  attack'
+bip_39_word_new_line11: 'repair
+
+  shoe
+
+  blue
+
+  blind
+
+  top
+
+  remember
+
+  praise
+
+  indoor
+
+  used
+
+  attack
+
+  code'
+bip_39_word_new_line12: 'repair
+
+  shoe
+
+  blue
+
+  blind
+
+  top
+
+  remember
+
+  praise
+
+  indoor
+
+  used
+
+  attack
+
+  code
+
+  armed'
+bip_39_word_new_line2: 'repair
+
+  shoe'
+bip_39_word_new_line3: 'repair
+
+  shoe
+
+  blue'
+bip_39_word_new_line4: 'repair
+
+  shoe
+
+  blue
+
+  blind'
+bip_39_word_new_line5: 'repair
+
+  shoe
+
+  blue
+
+  blind
+
+  top'
+bip_39_word_new_line6: 'repair
+
+  shoe
+
+  blue
+
+  blind
+
+  top
+
+  remember'
+bip_39_word_new_line7: 'repair
+
+  shoe
+
+  blue
+
+  blind
+
+  top
+
+  remember
+
+  praise'
+bip_39_word_new_line8: 'repair
+
+  shoe
+
+  blue
+
+  blind
+
+  top
+
+  remember
+
+  praise
+
+  indoor'
+bip_39_word_new_line9: 'repair
+
+  shoe
+
+  blue
+
+  blind
+
+  top
+
+  remember
+
+  praise
+
+  indoor
+
+  used'
+bip_39_word_space_0:
+- repair
+- shoe
+- blue
+- blind
+- top
+- remember
+- praise
+- indoor
+- used
+- attack
+- code
+- armed
+bip_39_word_space_1: repair
+bip_39_word_space_10: repair shoe blue blind top remember praise indoor used attack
+bip_39_word_space_11: repair shoe blue blind top remember praise indoor used attack
+  code
+bip_39_word_space_12: repair shoe blue blind top remember praise indoor used attack
+  code armed
+bip_39_word_space_2: repair shoe
+bip_39_word_space_3: repair shoe blue
+bip_39_word_space_4: repair shoe blue blind
+bip_39_word_space_5: repair shoe blue blind top
+bip_39_word_space_6: repair shoe blue blind top remember
+bip_39_word_space_7: repair shoe blue blind top remember praise
+bip_39_word_space_8: repair shoe blue blind top remember praise indoor
+bip_39_word_space_9: repair shoe blue blind top remember praise indoor used
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

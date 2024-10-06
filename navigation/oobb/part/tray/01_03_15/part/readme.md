@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nature lumber
+  * bip 39 word 3: nature lumber outside
+  * bip 39 word: nature lumber outside innocent lawsuit empower gap sniff what naive distance argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nature |  
+| bip_39_word_new_br10 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower<br>gap<br>sniff<br>what<br>naive |  
+| bip_39_word_new_br11 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower<br>gap<br>sniff<br>what<br>naive<br>distance |  
+| bip_39_word_new_br12 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower<br>gap<br>sniff<br>what<br>naive<br>distance<br>argue |  
+| bip_39_word_new_br2 | nature<br>lumber |  
+| bip_39_word_new_br3 | nature<br>lumber<br>outside |  
+| bip_39_word_new_br4 | nature<br>lumber<br>outside<br>innocent |  
+| bip_39_word_new_br5 | nature<br>lumber<br>outside<br>innocent<br>lawsuit |  
+| bip_39_word_new_br6 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower |  
+| bip_39_word_new_br7 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower<br>gap |  
+| bip_39_word_new_br8 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower<br>gap<br>sniff |  
+| bip_39_word_new_br9 | nature<br>lumber<br>outside<br>innocent<br>lawsuit<br>empower<br>gap<br>sniff<br>what |  
+| bip_39_word_new_line1 | nature |  
+| bip_39_word_new_line10 | nature
+lumber
+outside
+innocent
+lawsuit
+empower
+gap
+sniff
+what
+naive |  
+| bip_39_word_new_line11 | nature
+lumber
+outside
+innocent
+lawsuit
+empower
+gap
+sniff
+what
+naive
+distance |  
+| bip_39_word_new_line12 | nature
+lumber
+outside
+innocent
+lawsuit
+empower
+gap
+sniff
+what
+naive
+distance
+argue |  
+| bip_39_word_new_line2 | nature
+lumber |  
+| bip_39_word_new_line3 | nature
+lumber
+outside |  
+| bip_39_word_new_line4 | nature
+lumber
+outside
+innocent |  
+| bip_39_word_new_line5 | nature
+lumber
+outside
+innocent
+lawsuit |  
+| bip_39_word_new_line6 | nature
+lumber
+outside
+innocent
+lawsuit
+empower |  
+| bip_39_word_new_line7 | nature
+lumber
+outside
+innocent
+lawsuit
+empower
+gap |  
+| bip_39_word_new_line8 | nature
+lumber
+outside
+innocent
+lawsuit
+empower
+gap
+sniff |  
+| bip_39_word_new_line9 | nature
+lumber
+outside
+innocent
+lawsuit
+empower
+gap
+sniff
+what |  
+| bip_39_word_space_0 | ['nature', 'lumber', 'outside', 'innocent', 'lawsuit', 'empower', 'gap', 'sniff', 'what', 'naive', 'distance', 'argue'] |  
+| bip_39_word_space_1 | nature |  
+| bip_39_word_space_10 | nature lumber outside innocent lawsuit empower gap sniff what naive |  
+| bip_39_word_space_11 | nature lumber outside innocent lawsuit empower gap sniff what naive distance |  
+| bip_39_word_space_12 | nature lumber outside innocent lawsuit empower gap sniff what naive distance argue |  
+| bip_39_word_space_2 | nature lumber |  
+| bip_39_word_space_3 | nature lumber outside |  
+| bip_39_word_space_4 | nature lumber outside innocent |  
+| bip_39_word_space_5 | nature lumber outside innocent lawsuit |  
+| bip_39_word_space_6 | nature lumber outside innocent lawsuit empower |  
+| bip_39_word_space_7 | nature lumber outside innocent lawsuit empower gap |  
+| bip_39_word_space_8 | nature lumber outside innocent lawsuit empower gap sniff |  
+| bip_39_word_space_9 | nature lumber outside innocent lawsuit empower gap sniff what |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

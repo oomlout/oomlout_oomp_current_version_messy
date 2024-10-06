@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrestle valve
+  * bip 39 word 3: wrestle valve home
+  * bip 39 word: wrestle valve home sustain where warfare under summer kiss much velvet athlete
 
 ### other_codes
 * short_code: ss5m12
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrestle |  
+| bip_39_word_new_br10 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much |  
+| bip_39_word_new_br11 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much<br>velvet |  
+| bip_39_word_new_br12 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss<br>much<br>velvet<br>athlete |  
+| bip_39_word_new_br2 | wrestle<br>valve |  
+| bip_39_word_new_br3 | wrestle<br>valve<br>home |  
+| bip_39_word_new_br4 | wrestle<br>valve<br>home<br>sustain |  
+| bip_39_word_new_br5 | wrestle<br>valve<br>home<br>sustain<br>where |  
+| bip_39_word_new_br6 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare |  
+| bip_39_word_new_br7 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under |  
+| bip_39_word_new_br8 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer |  
+| bip_39_word_new_br9 | wrestle<br>valve<br>home<br>sustain<br>where<br>warfare<br>under<br>summer<br>kiss |  
+| bip_39_word_new_line1 | wrestle |  
+| bip_39_word_new_line10 | wrestle
+valve
+home
+sustain
+where
+warfare
+under
+summer
+kiss
+much |  
+| bip_39_word_new_line11 | wrestle
+valve
+home
+sustain
+where
+warfare
+under
+summer
+kiss
+much
+velvet |  
+| bip_39_word_new_line12 | wrestle
+valve
+home
+sustain
+where
+warfare
+under
+summer
+kiss
+much
+velvet
+athlete |  
+| bip_39_word_new_line2 | wrestle
+valve |  
+| bip_39_word_new_line3 | wrestle
+valve
+home |  
+| bip_39_word_new_line4 | wrestle
+valve
+home
+sustain |  
+| bip_39_word_new_line5 | wrestle
+valve
+home
+sustain
+where |  
+| bip_39_word_new_line6 | wrestle
+valve
+home
+sustain
+where
+warfare |  
+| bip_39_word_new_line7 | wrestle
+valve
+home
+sustain
+where
+warfare
+under |  
+| bip_39_word_new_line8 | wrestle
+valve
+home
+sustain
+where
+warfare
+under
+summer |  
+| bip_39_word_new_line9 | wrestle
+valve
+home
+sustain
+where
+warfare
+under
+summer
+kiss |  
+| bip_39_word_space_0 | ['wrestle', 'valve', 'home', 'sustain', 'where', 'warfare', 'under', 'summer', 'kiss', 'much', 'velvet', 'athlete'] |  
+| bip_39_word_space_1 | wrestle |  
+| bip_39_word_space_10 | wrestle valve home sustain where warfare under summer kiss much |  
+| bip_39_word_space_11 | wrestle valve home sustain where warfare under summer kiss much velvet |  
+| bip_39_word_space_12 | wrestle valve home sustain where warfare under summer kiss much velvet athlete |  
+| bip_39_word_space_2 | wrestle valve |  
+| bip_39_word_space_3 | wrestle valve home |  
+| bip_39_word_space_4 | wrestle valve home sustain |  
+| bip_39_word_space_5 | wrestle valve home sustain where |  
+| bip_39_word_space_6 | wrestle valve home sustain where warfare |  
+| bip_39_word_space_7 | wrestle valve home sustain where warfare under |  
+| bip_39_word_space_8 | wrestle valve home sustain where warfare under summer |  
+| bip_39_word_space_9 | wrestle valve home sustain where warfare under summer kiss |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

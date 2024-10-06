@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: guitar place
+  * bip 39 word 3: guitar place predict
+  * bip 39 word: guitar place predict clump sand walnut student bird early chapter cupboard all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | guitar |  
+| bip_39_word_new_br10 | guitar<br>place<br>predict<br>clump<br>sand<br>walnut<br>student<br>bird<br>early<br>chapter |  
+| bip_39_word_new_br11 | guitar<br>place<br>predict<br>clump<br>sand<br>walnut<br>student<br>bird<br>early<br>chapter<br>cupboard |  
+| bip_39_word_new_br12 | guitar<br>place<br>predict<br>clump<br>sand<br>walnut<br>student<br>bird<br>early<br>chapter<br>cupboard<br>all |  
+| bip_39_word_new_br2 | guitar<br>place |  
+| bip_39_word_new_br3 | guitar<br>place<br>predict |  
+| bip_39_word_new_br4 | guitar<br>place<br>predict<br>clump |  
+| bip_39_word_new_br5 | guitar<br>place<br>predict<br>clump<br>sand |  
+| bip_39_word_new_br6 | guitar<br>place<br>predict<br>clump<br>sand<br>walnut |  
+| bip_39_word_new_br7 | guitar<br>place<br>predict<br>clump<br>sand<br>walnut<br>student |  
+| bip_39_word_new_br8 | guitar<br>place<br>predict<br>clump<br>sand<br>walnut<br>student<br>bird |  
+| bip_39_word_new_br9 | guitar<br>place<br>predict<br>clump<br>sand<br>walnut<br>student<br>bird<br>early |  
+| bip_39_word_new_line1 | guitar |  
+| bip_39_word_new_line10 | guitar
+place
+predict
+clump
+sand
+walnut
+student
+bird
+early
+chapter |  
+| bip_39_word_new_line11 | guitar
+place
+predict
+clump
+sand
+walnut
+student
+bird
+early
+chapter
+cupboard |  
+| bip_39_word_new_line12 | guitar
+place
+predict
+clump
+sand
+walnut
+student
+bird
+early
+chapter
+cupboard
+all |  
+| bip_39_word_new_line2 | guitar
+place |  
+| bip_39_word_new_line3 | guitar
+place
+predict |  
+| bip_39_word_new_line4 | guitar
+place
+predict
+clump |  
+| bip_39_word_new_line5 | guitar
+place
+predict
+clump
+sand |  
+| bip_39_word_new_line6 | guitar
+place
+predict
+clump
+sand
+walnut |  
+| bip_39_word_new_line7 | guitar
+place
+predict
+clump
+sand
+walnut
+student |  
+| bip_39_word_new_line8 | guitar
+place
+predict
+clump
+sand
+walnut
+student
+bird |  
+| bip_39_word_new_line9 | guitar
+place
+predict
+clump
+sand
+walnut
+student
+bird
+early |  
+| bip_39_word_space_0 | ['guitar', 'place', 'predict', 'clump', 'sand', 'walnut', 'student', 'bird', 'early', 'chapter', 'cupboard', 'all'] |  
+| bip_39_word_space_1 | guitar |  
+| bip_39_word_space_10 | guitar place predict clump sand walnut student bird early chapter |  
+| bip_39_word_space_11 | guitar place predict clump sand walnut student bird early chapter cupboard |  
+| bip_39_word_space_12 | guitar place predict clump sand walnut student bird early chapter cupboard all |  
+| bip_39_word_space_2 | guitar place |  
+| bip_39_word_space_3 | guitar place predict |  
+| bip_39_word_space_4 | guitar place predict clump |  
+| bip_39_word_space_5 | guitar place predict clump sand |  
+| bip_39_word_space_6 | guitar place predict clump sand walnut |  
+| bip_39_word_space_7 | guitar place predict clump sand walnut student |  
+| bip_39_word_space_8 | guitar place predict clump sand walnut student bird |  
+| bip_39_word_space_9 | guitar place predict clump sand walnut student bird early |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

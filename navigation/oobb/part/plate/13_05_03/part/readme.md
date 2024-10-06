@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ice pig
+  * bip 39 word 3: ice pig plunge
+  * bip 39 word: ice pig plunge ship armed weasel grace curious lobster tissue normal artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ice |  
+| bip_39_word_new_br10 | ice<br>pig<br>plunge<br>ship<br>armed<br>weasel<br>grace<br>curious<br>lobster<br>tissue |  
+| bip_39_word_new_br11 | ice<br>pig<br>plunge<br>ship<br>armed<br>weasel<br>grace<br>curious<br>lobster<br>tissue<br>normal |  
+| bip_39_word_new_br12 | ice<br>pig<br>plunge<br>ship<br>armed<br>weasel<br>grace<br>curious<br>lobster<br>tissue<br>normal<br>artist |  
+| bip_39_word_new_br2 | ice<br>pig |  
+| bip_39_word_new_br3 | ice<br>pig<br>plunge |  
+| bip_39_word_new_br4 | ice<br>pig<br>plunge<br>ship |  
+| bip_39_word_new_br5 | ice<br>pig<br>plunge<br>ship<br>armed |  
+| bip_39_word_new_br6 | ice<br>pig<br>plunge<br>ship<br>armed<br>weasel |  
+| bip_39_word_new_br7 | ice<br>pig<br>plunge<br>ship<br>armed<br>weasel<br>grace |  
+| bip_39_word_new_br8 | ice<br>pig<br>plunge<br>ship<br>armed<br>weasel<br>grace<br>curious |  
+| bip_39_word_new_br9 | ice<br>pig<br>plunge<br>ship<br>armed<br>weasel<br>grace<br>curious<br>lobster |  
+| bip_39_word_new_line1 | ice |  
+| bip_39_word_new_line10 | ice
+pig
+plunge
+ship
+armed
+weasel
+grace
+curious
+lobster
+tissue |  
+| bip_39_word_new_line11 | ice
+pig
+plunge
+ship
+armed
+weasel
+grace
+curious
+lobster
+tissue
+normal |  
+| bip_39_word_new_line12 | ice
+pig
+plunge
+ship
+armed
+weasel
+grace
+curious
+lobster
+tissue
+normal
+artist |  
+| bip_39_word_new_line2 | ice
+pig |  
+| bip_39_word_new_line3 | ice
+pig
+plunge |  
+| bip_39_word_new_line4 | ice
+pig
+plunge
+ship |  
+| bip_39_word_new_line5 | ice
+pig
+plunge
+ship
+armed |  
+| bip_39_word_new_line6 | ice
+pig
+plunge
+ship
+armed
+weasel |  
+| bip_39_word_new_line7 | ice
+pig
+plunge
+ship
+armed
+weasel
+grace |  
+| bip_39_word_new_line8 | ice
+pig
+plunge
+ship
+armed
+weasel
+grace
+curious |  
+| bip_39_word_new_line9 | ice
+pig
+plunge
+ship
+armed
+weasel
+grace
+curious
+lobster |  
+| bip_39_word_space_0 | ['ice', 'pig', 'plunge', 'ship', 'armed', 'weasel', 'grace', 'curious', 'lobster', 'tissue', 'normal', 'artist'] |  
+| bip_39_word_space_1 | ice |  
+| bip_39_word_space_10 | ice pig plunge ship armed weasel grace curious lobster tissue |  
+| bip_39_word_space_11 | ice pig plunge ship armed weasel grace curious lobster tissue normal |  
+| bip_39_word_space_12 | ice pig plunge ship armed weasel grace curious lobster tissue normal artist |  
+| bip_39_word_space_2 | ice pig |  
+| bip_39_word_space_3 | ice pig plunge |  
+| bip_39_word_space_4 | ice pig plunge ship |  
+| bip_39_word_space_5 | ice pig plunge ship armed |  
+| bip_39_word_space_6 | ice pig plunge ship armed weasel |  
+| bip_39_word_space_7 | ice pig plunge ship armed weasel grace |  
+| bip_39_word_space_8 | ice pig plunge ship armed weasel grace curious |  
+| bip_39_word_space_9 | ice pig plunge ship armed weasel grace curious lobster |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 800_mm_width_2020_mm_height_400_mm_depth
   * manufacturer: ikea
   * part_number: 904_019_32
+  * bip 39 word 2: dilemma screen
+  * bip 39 word 3: dilemma screen video
+  * bip 39 word: dilemma screen video wonder quit ability panda sphere setup clay foam around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dilemma |  
+| bip_39_word_new_br10 | dilemma<br>screen<br>video<br>wonder<br>quit<br>ability<br>panda<br>sphere<br>setup<br>clay |  
+| bip_39_word_new_br11 | dilemma<br>screen<br>video<br>wonder<br>quit<br>ability<br>panda<br>sphere<br>setup<br>clay<br>foam |  
+| bip_39_word_new_br12 | dilemma<br>screen<br>video<br>wonder<br>quit<br>ability<br>panda<br>sphere<br>setup<br>clay<br>foam<br>around |  
+| bip_39_word_new_br2 | dilemma<br>screen |  
+| bip_39_word_new_br3 | dilemma<br>screen<br>video |  
+| bip_39_word_new_br4 | dilemma<br>screen<br>video<br>wonder |  
+| bip_39_word_new_br5 | dilemma<br>screen<br>video<br>wonder<br>quit |  
+| bip_39_word_new_br6 | dilemma<br>screen<br>video<br>wonder<br>quit<br>ability |  
+| bip_39_word_new_br7 | dilemma<br>screen<br>video<br>wonder<br>quit<br>ability<br>panda |  
+| bip_39_word_new_br8 | dilemma<br>screen<br>video<br>wonder<br>quit<br>ability<br>panda<br>sphere |  
+| bip_39_word_new_br9 | dilemma<br>screen<br>video<br>wonder<br>quit<br>ability<br>panda<br>sphere<br>setup |  
+| bip_39_word_new_line1 | dilemma |  
+| bip_39_word_new_line10 | dilemma
+screen
+video
+wonder
+quit
+ability
+panda
+sphere
+setup
+clay |  
+| bip_39_word_new_line11 | dilemma
+screen
+video
+wonder
+quit
+ability
+panda
+sphere
+setup
+clay
+foam |  
+| bip_39_word_new_line12 | dilemma
+screen
+video
+wonder
+quit
+ability
+panda
+sphere
+setup
+clay
+foam
+around |  
+| bip_39_word_new_line2 | dilemma
+screen |  
+| bip_39_word_new_line3 | dilemma
+screen
+video |  
+| bip_39_word_new_line4 | dilemma
+screen
+video
+wonder |  
+| bip_39_word_new_line5 | dilemma
+screen
+video
+wonder
+quit |  
+| bip_39_word_new_line6 | dilemma
+screen
+video
+wonder
+quit
+ability |  
+| bip_39_word_new_line7 | dilemma
+screen
+video
+wonder
+quit
+ability
+panda |  
+| bip_39_word_new_line8 | dilemma
+screen
+video
+wonder
+quit
+ability
+panda
+sphere |  
+| bip_39_word_new_line9 | dilemma
+screen
+video
+wonder
+quit
+ability
+panda
+sphere
+setup |  
+| bip_39_word_space_0 | ['dilemma', 'screen', 'video', 'wonder', 'quit', 'ability', 'panda', 'sphere', 'setup', 'clay', 'foam', 'around'] |  
+| bip_39_word_space_1 | dilemma |  
+| bip_39_word_space_10 | dilemma screen video wonder quit ability panda sphere setup clay |  
+| bip_39_word_space_11 | dilemma screen video wonder quit ability panda sphere setup clay foam |  
+| bip_39_word_space_12 | dilemma screen video wonder quit ability panda sphere setup clay foam around |  
+| bip_39_word_space_2 | dilemma screen |  
+| bip_39_word_space_3 | dilemma screen video |  
+| bip_39_word_space_4 | dilemma screen video wonder |  
+| bip_39_word_space_5 | dilemma screen video wonder quit |  
+| bip_39_word_space_6 | dilemma screen video wonder quit ability |  
+| bip_39_word_space_7 | dilemma screen video wonder quit ability panda |  
+| bip_39_word_space_8 | dilemma screen video wonder quit ability panda sphere |  
+| bip_39_word_space_9 | dilemma screen video wonder quit ability panda sphere setup |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

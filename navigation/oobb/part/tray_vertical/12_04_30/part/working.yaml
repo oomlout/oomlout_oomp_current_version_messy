@@ -1,3 +1,186 @@
+bip_39_word_new_br1: absorb
+bip_39_word_new_br10: absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump
+bip_39_word_new_br11: absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump<br>stool
+bip_39_word_new_br12: absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse<br>clump<br>stool<br>anxiety
+bip_39_word_new_br2: absorb<br>jacket
+bip_39_word_new_br3: absorb<br>jacket<br>file
+bip_39_word_new_br4: absorb<br>jacket<br>file<br>worry
+bip_39_word_new_br5: absorb<br>jacket<br>file<br>worry<br>depart
+bip_39_word_new_br6: absorb<br>jacket<br>file<br>worry<br>depart<br>staff
+bip_39_word_new_br7: absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this
+bip_39_word_new_br8: absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse
+bip_39_word_new_br9: absorb<br>jacket<br>file<br>worry<br>depart<br>staff<br>this<br>pulse<br>purse
+bip_39_word_new_line1: absorb
+bip_39_word_new_line10: 'absorb
+
+  jacket
+
+  file
+
+  worry
+
+  depart
+
+  staff
+
+  this
+
+  pulse
+
+  purse
+
+  clump'
+bip_39_word_new_line11: 'absorb
+
+  jacket
+
+  file
+
+  worry
+
+  depart
+
+  staff
+
+  this
+
+  pulse
+
+  purse
+
+  clump
+
+  stool'
+bip_39_word_new_line12: 'absorb
+
+  jacket
+
+  file
+
+  worry
+
+  depart
+
+  staff
+
+  this
+
+  pulse
+
+  purse
+
+  clump
+
+  stool
+
+  anxiety'
+bip_39_word_new_line2: 'absorb
+
+  jacket'
+bip_39_word_new_line3: 'absorb
+
+  jacket
+
+  file'
+bip_39_word_new_line4: 'absorb
+
+  jacket
+
+  file
+
+  worry'
+bip_39_word_new_line5: 'absorb
+
+  jacket
+
+  file
+
+  worry
+
+  depart'
+bip_39_word_new_line6: 'absorb
+
+  jacket
+
+  file
+
+  worry
+
+  depart
+
+  staff'
+bip_39_word_new_line7: 'absorb
+
+  jacket
+
+  file
+
+  worry
+
+  depart
+
+  staff
+
+  this'
+bip_39_word_new_line8: 'absorb
+
+  jacket
+
+  file
+
+  worry
+
+  depart
+
+  staff
+
+  this
+
+  pulse'
+bip_39_word_new_line9: 'absorb
+
+  jacket
+
+  file
+
+  worry
+
+  depart
+
+  staff
+
+  this
+
+  pulse
+
+  purse'
+bip_39_word_space_0:
+- absorb
+- jacket
+- file
+- worry
+- depart
+- staff
+- this
+- pulse
+- purse
+- clump
+- stool
+- anxiety
+bip_39_word_space_1: absorb
+bip_39_word_space_10: absorb jacket file worry depart staff this pulse purse clump
+bip_39_word_space_11: absorb jacket file worry depart staff this pulse purse clump
+  stool
+bip_39_word_space_12: absorb jacket file worry depart staff this pulse purse clump
+  stool anxiety
+bip_39_word_space_2: absorb jacket
+bip_39_word_space_3: absorb jacket file
+bip_39_word_space_4: absorb jacket file worry
+bip_39_word_space_5: absorb jacket file worry depart
+bip_39_word_space_6: absorb jacket file worry depart staff
+bip_39_word_space_7: absorb jacket file worry depart staff this
+bip_39_word_space_8: absorb jacket file worry depart staff this pulse
+bip_39_word_space_9: absorb jacket file worry depart staff this pulse purse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

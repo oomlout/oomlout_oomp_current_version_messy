@@ -1,3 +1,186 @@
+bip_39_word_new_br1: moment
+bip_39_word_new_br10: moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo<br>crater<br>first<br>talk<br>exclude
+bip_39_word_new_br11: moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo<br>crater<br>first<br>talk<br>exclude<br>advance
+bip_39_word_new_br12: moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo<br>crater<br>first<br>talk<br>exclude<br>advance<br>armed
+bip_39_word_new_br2: moment<br>saddle
+bip_39_word_new_br3: moment<br>saddle<br>knife
+bip_39_word_new_br4: moment<br>saddle<br>knife<br>cupboard
+bip_39_word_new_br5: moment<br>saddle<br>knife<br>cupboard<br>barrel
+bip_39_word_new_br6: moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo
+bip_39_word_new_br7: moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo<br>crater
+bip_39_word_new_br8: moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo<br>crater<br>first
+bip_39_word_new_br9: moment<br>saddle<br>knife<br>cupboard<br>barrel<br>undo<br>crater<br>first<br>talk
+bip_39_word_new_line1: moment
+bip_39_word_new_line10: 'moment
+
+  saddle
+
+  knife
+
+  cupboard
+
+  barrel
+
+  undo
+
+  crater
+
+  first
+
+  talk
+
+  exclude'
+bip_39_word_new_line11: 'moment
+
+  saddle
+
+  knife
+
+  cupboard
+
+  barrel
+
+  undo
+
+  crater
+
+  first
+
+  talk
+
+  exclude
+
+  advance'
+bip_39_word_new_line12: 'moment
+
+  saddle
+
+  knife
+
+  cupboard
+
+  barrel
+
+  undo
+
+  crater
+
+  first
+
+  talk
+
+  exclude
+
+  advance
+
+  armed'
+bip_39_word_new_line2: 'moment
+
+  saddle'
+bip_39_word_new_line3: 'moment
+
+  saddle
+
+  knife'
+bip_39_word_new_line4: 'moment
+
+  saddle
+
+  knife
+
+  cupboard'
+bip_39_word_new_line5: 'moment
+
+  saddle
+
+  knife
+
+  cupboard
+
+  barrel'
+bip_39_word_new_line6: 'moment
+
+  saddle
+
+  knife
+
+  cupboard
+
+  barrel
+
+  undo'
+bip_39_word_new_line7: 'moment
+
+  saddle
+
+  knife
+
+  cupboard
+
+  barrel
+
+  undo
+
+  crater'
+bip_39_word_new_line8: 'moment
+
+  saddle
+
+  knife
+
+  cupboard
+
+  barrel
+
+  undo
+
+  crater
+
+  first'
+bip_39_word_new_line9: 'moment
+
+  saddle
+
+  knife
+
+  cupboard
+
+  barrel
+
+  undo
+
+  crater
+
+  first
+
+  talk'
+bip_39_word_space_0:
+- moment
+- saddle
+- knife
+- cupboard
+- barrel
+- undo
+- crater
+- first
+- talk
+- exclude
+- advance
+- armed
+bip_39_word_space_1: moment
+bip_39_word_space_10: moment saddle knife cupboard barrel undo crater first talk exclude
+bip_39_word_space_11: moment saddle knife cupboard barrel undo crater first talk exclude
+  advance
+bip_39_word_space_12: moment saddle knife cupboard barrel undo crater first talk exclude
+  advance armed
+bip_39_word_space_2: moment saddle
+bip_39_word_space_3: moment saddle knife
+bip_39_word_space_4: moment saddle knife cupboard
+bip_39_word_space_5: moment saddle knife cupboard barrel
+bip_39_word_space_6: moment saddle knife cupboard barrel undo
+bip_39_word_space_7: moment saddle knife cupboard barrel undo crater
+bip_39_word_space_8: moment saddle knife cupboard barrel undo crater first
+bip_39_word_space_9: moment saddle knife cupboard barrel undo crater first talk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

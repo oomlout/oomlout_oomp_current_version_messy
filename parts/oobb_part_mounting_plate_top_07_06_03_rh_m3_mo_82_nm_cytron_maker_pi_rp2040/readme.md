@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: resist wear
+  * bip 39 word 3: resist wear inmate
+  * bip 39 word: resist wear inmate hold number grab exact worry dash miracle absent asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resist |  
+| bip_39_word_new_br10 | resist<br>wear<br>inmate<br>hold<br>number<br>grab<br>exact<br>worry<br>dash<br>miracle |  
+| bip_39_word_new_br11 | resist<br>wear<br>inmate<br>hold<br>number<br>grab<br>exact<br>worry<br>dash<br>miracle<br>absent |  
+| bip_39_word_new_br12 | resist<br>wear<br>inmate<br>hold<br>number<br>grab<br>exact<br>worry<br>dash<br>miracle<br>absent<br>asthma |  
+| bip_39_word_new_br2 | resist<br>wear |  
+| bip_39_word_new_br3 | resist<br>wear<br>inmate |  
+| bip_39_word_new_br4 | resist<br>wear<br>inmate<br>hold |  
+| bip_39_word_new_br5 | resist<br>wear<br>inmate<br>hold<br>number |  
+| bip_39_word_new_br6 | resist<br>wear<br>inmate<br>hold<br>number<br>grab |  
+| bip_39_word_new_br7 | resist<br>wear<br>inmate<br>hold<br>number<br>grab<br>exact |  
+| bip_39_word_new_br8 | resist<br>wear<br>inmate<br>hold<br>number<br>grab<br>exact<br>worry |  
+| bip_39_word_new_br9 | resist<br>wear<br>inmate<br>hold<br>number<br>grab<br>exact<br>worry<br>dash |  
+| bip_39_word_new_line1 | resist |  
+| bip_39_word_new_line10 | resist
+wear
+inmate
+hold
+number
+grab
+exact
+worry
+dash
+miracle |  
+| bip_39_word_new_line11 | resist
+wear
+inmate
+hold
+number
+grab
+exact
+worry
+dash
+miracle
+absent |  
+| bip_39_word_new_line12 | resist
+wear
+inmate
+hold
+number
+grab
+exact
+worry
+dash
+miracle
+absent
+asthma |  
+| bip_39_word_new_line2 | resist
+wear |  
+| bip_39_word_new_line3 | resist
+wear
+inmate |  
+| bip_39_word_new_line4 | resist
+wear
+inmate
+hold |  
+| bip_39_word_new_line5 | resist
+wear
+inmate
+hold
+number |  
+| bip_39_word_new_line6 | resist
+wear
+inmate
+hold
+number
+grab |  
+| bip_39_word_new_line7 | resist
+wear
+inmate
+hold
+number
+grab
+exact |  
+| bip_39_word_new_line8 | resist
+wear
+inmate
+hold
+number
+grab
+exact
+worry |  
+| bip_39_word_new_line9 | resist
+wear
+inmate
+hold
+number
+grab
+exact
+worry
+dash |  
+| bip_39_word_space_0 | ['resist', 'wear', 'inmate', 'hold', 'number', 'grab', 'exact', 'worry', 'dash', 'miracle', 'absent', 'asthma'] |  
+| bip_39_word_space_1 | resist |  
+| bip_39_word_space_10 | resist wear inmate hold number grab exact worry dash miracle |  
+| bip_39_word_space_11 | resist wear inmate hold number grab exact worry dash miracle absent |  
+| bip_39_word_space_12 | resist wear inmate hold number grab exact worry dash miracle absent asthma |  
+| bip_39_word_space_2 | resist wear |  
+| bip_39_word_space_3 | resist wear inmate |  
+| bip_39_word_space_4 | resist wear inmate hold |  
+| bip_39_word_space_5 | resist wear inmate hold number |  
+| bip_39_word_space_6 | resist wear inmate hold number grab |  
+| bip_39_word_space_7 | resist wear inmate hold number grab exact |  
+| bip_39_word_space_8 | resist wear inmate hold number grab exact worry |  
+| bip_39_word_space_9 | resist wear inmate hold number grab exact worry dash |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lottery rotate
+  * bip 39 word 3: lottery rotate argue
+  * bip 39 word: lottery rotate argue youth robust tube note cake awful found gorilla assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lottery |  
+| bip_39_word_new_br10 | lottery<br>rotate<br>argue<br>youth<br>robust<br>tube<br>note<br>cake<br>awful<br>found |  
+| bip_39_word_new_br11 | lottery<br>rotate<br>argue<br>youth<br>robust<br>tube<br>note<br>cake<br>awful<br>found<br>gorilla |  
+| bip_39_word_new_br12 | lottery<br>rotate<br>argue<br>youth<br>robust<br>tube<br>note<br>cake<br>awful<br>found<br>gorilla<br>assist |  
+| bip_39_word_new_br2 | lottery<br>rotate |  
+| bip_39_word_new_br3 | lottery<br>rotate<br>argue |  
+| bip_39_word_new_br4 | lottery<br>rotate<br>argue<br>youth |  
+| bip_39_word_new_br5 | lottery<br>rotate<br>argue<br>youth<br>robust |  
+| bip_39_word_new_br6 | lottery<br>rotate<br>argue<br>youth<br>robust<br>tube |  
+| bip_39_word_new_br7 | lottery<br>rotate<br>argue<br>youth<br>robust<br>tube<br>note |  
+| bip_39_word_new_br8 | lottery<br>rotate<br>argue<br>youth<br>robust<br>tube<br>note<br>cake |  
+| bip_39_word_new_br9 | lottery<br>rotate<br>argue<br>youth<br>robust<br>tube<br>note<br>cake<br>awful |  
+| bip_39_word_new_line1 | lottery |  
+| bip_39_word_new_line10 | lottery
+rotate
+argue
+youth
+robust
+tube
+note
+cake
+awful
+found |  
+| bip_39_word_new_line11 | lottery
+rotate
+argue
+youth
+robust
+tube
+note
+cake
+awful
+found
+gorilla |  
+| bip_39_word_new_line12 | lottery
+rotate
+argue
+youth
+robust
+tube
+note
+cake
+awful
+found
+gorilla
+assist |  
+| bip_39_word_new_line2 | lottery
+rotate |  
+| bip_39_word_new_line3 | lottery
+rotate
+argue |  
+| bip_39_word_new_line4 | lottery
+rotate
+argue
+youth |  
+| bip_39_word_new_line5 | lottery
+rotate
+argue
+youth
+robust |  
+| bip_39_word_new_line6 | lottery
+rotate
+argue
+youth
+robust
+tube |  
+| bip_39_word_new_line7 | lottery
+rotate
+argue
+youth
+robust
+tube
+note |  
+| bip_39_word_new_line8 | lottery
+rotate
+argue
+youth
+robust
+tube
+note
+cake |  
+| bip_39_word_new_line9 | lottery
+rotate
+argue
+youth
+robust
+tube
+note
+cake
+awful |  
+| bip_39_word_space_0 | ['lottery', 'rotate', 'argue', 'youth', 'robust', 'tube', 'note', 'cake', 'awful', 'found', 'gorilla', 'assist'] |  
+| bip_39_word_space_1 | lottery |  
+| bip_39_word_space_10 | lottery rotate argue youth robust tube note cake awful found |  
+| bip_39_word_space_11 | lottery rotate argue youth robust tube note cake awful found gorilla |  
+| bip_39_word_space_12 | lottery rotate argue youth robust tube note cake awful found gorilla assist |  
+| bip_39_word_space_2 | lottery rotate |  
+| bip_39_word_space_3 | lottery rotate argue |  
+| bip_39_word_space_4 | lottery rotate argue youth |  
+| bip_39_word_space_5 | lottery rotate argue youth robust |  
+| bip_39_word_space_6 | lottery rotate argue youth robust tube |  
+| bip_39_word_space_7 | lottery rotate argue youth robust tube note |  
+| bip_39_word_space_8 | lottery rotate argue youth robust tube note cake |  
+| bip_39_word_space_9 | lottery rotate argue youth robust tube note cake awful |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

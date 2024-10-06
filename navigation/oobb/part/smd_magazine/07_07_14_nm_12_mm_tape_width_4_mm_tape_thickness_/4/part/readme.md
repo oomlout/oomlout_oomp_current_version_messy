@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: finish daughter
+  * bip 39 word 3: finish daughter mirror
+  * bip 39 word: finish daughter mirror father alert scrap memory slim exile barely busy amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | finish |  
+| bip_39_word_new_br10 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap<br>memory<br>slim<br>exile<br>barely |  
+| bip_39_word_new_br11 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap<br>memory<br>slim<br>exile<br>barely<br>busy |  
+| bip_39_word_new_br12 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap<br>memory<br>slim<br>exile<br>barely<br>busy<br>amateur |  
+| bip_39_word_new_br2 | finish<br>daughter |  
+| bip_39_word_new_br3 | finish<br>daughter<br>mirror |  
+| bip_39_word_new_br4 | finish<br>daughter<br>mirror<br>father |  
+| bip_39_word_new_br5 | finish<br>daughter<br>mirror<br>father<br>alert |  
+| bip_39_word_new_br6 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap |  
+| bip_39_word_new_br7 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap<br>memory |  
+| bip_39_word_new_br8 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap<br>memory<br>slim |  
+| bip_39_word_new_br9 | finish<br>daughter<br>mirror<br>father<br>alert<br>scrap<br>memory<br>slim<br>exile |  
+| bip_39_word_new_line1 | finish |  
+| bip_39_word_new_line10 | finish
+daughter
+mirror
+father
+alert
+scrap
+memory
+slim
+exile
+barely |  
+| bip_39_word_new_line11 | finish
+daughter
+mirror
+father
+alert
+scrap
+memory
+slim
+exile
+barely
+busy |  
+| bip_39_word_new_line12 | finish
+daughter
+mirror
+father
+alert
+scrap
+memory
+slim
+exile
+barely
+busy
+amateur |  
+| bip_39_word_new_line2 | finish
+daughter |  
+| bip_39_word_new_line3 | finish
+daughter
+mirror |  
+| bip_39_word_new_line4 | finish
+daughter
+mirror
+father |  
+| bip_39_word_new_line5 | finish
+daughter
+mirror
+father
+alert |  
+| bip_39_word_new_line6 | finish
+daughter
+mirror
+father
+alert
+scrap |  
+| bip_39_word_new_line7 | finish
+daughter
+mirror
+father
+alert
+scrap
+memory |  
+| bip_39_word_new_line8 | finish
+daughter
+mirror
+father
+alert
+scrap
+memory
+slim |  
+| bip_39_word_new_line9 | finish
+daughter
+mirror
+father
+alert
+scrap
+memory
+slim
+exile |  
+| bip_39_word_space_0 | ['finish', 'daughter', 'mirror', 'father', 'alert', 'scrap', 'memory', 'slim', 'exile', 'barely', 'busy', 'amateur'] |  
+| bip_39_word_space_1 | finish |  
+| bip_39_word_space_10 | finish daughter mirror father alert scrap memory slim exile barely |  
+| bip_39_word_space_11 | finish daughter mirror father alert scrap memory slim exile barely busy |  
+| bip_39_word_space_12 | finish daughter mirror father alert scrap memory slim exile barely busy amateur |  
+| bip_39_word_space_2 | finish daughter |  
+| bip_39_word_space_3 | finish daughter mirror |  
+| bip_39_word_space_4 | finish daughter mirror father |  
+| bip_39_word_space_5 | finish daughter mirror father alert |  
+| bip_39_word_space_6 | finish daughter mirror father alert scrap |  
+| bip_39_word_space_7 | finish daughter mirror father alert scrap memory |  
+| bip_39_word_space_8 | finish daughter mirror father alert scrap memory slim |  
+| bip_39_word_space_9 | finish daughter mirror father alert scrap memory slim exile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

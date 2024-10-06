@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: holiday female
+  * bip 39 word 3: holiday female funny
+  * bip 39 word: holiday female funny science fall hair venture day mountain damage crisp absent
 
 ### other_codes
 * short_code: ms5m20pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | holiday |  
+| bip_39_word_new_br10 | holiday<br>female<br>funny<br>science<br>fall<br>hair<br>venture<br>day<br>mountain<br>damage |  
+| bip_39_word_new_br11 | holiday<br>female<br>funny<br>science<br>fall<br>hair<br>venture<br>day<br>mountain<br>damage<br>crisp |  
+| bip_39_word_new_br12 | holiday<br>female<br>funny<br>science<br>fall<br>hair<br>venture<br>day<br>mountain<br>damage<br>crisp<br>absent |  
+| bip_39_word_new_br2 | holiday<br>female |  
+| bip_39_word_new_br3 | holiday<br>female<br>funny |  
+| bip_39_word_new_br4 | holiday<br>female<br>funny<br>science |  
+| bip_39_word_new_br5 | holiday<br>female<br>funny<br>science<br>fall |  
+| bip_39_word_new_br6 | holiday<br>female<br>funny<br>science<br>fall<br>hair |  
+| bip_39_word_new_br7 | holiday<br>female<br>funny<br>science<br>fall<br>hair<br>venture |  
+| bip_39_word_new_br8 | holiday<br>female<br>funny<br>science<br>fall<br>hair<br>venture<br>day |  
+| bip_39_word_new_br9 | holiday<br>female<br>funny<br>science<br>fall<br>hair<br>venture<br>day<br>mountain |  
+| bip_39_word_new_line1 | holiday |  
+| bip_39_word_new_line10 | holiday
+female
+funny
+science
+fall
+hair
+venture
+day
+mountain
+damage |  
+| bip_39_word_new_line11 | holiday
+female
+funny
+science
+fall
+hair
+venture
+day
+mountain
+damage
+crisp |  
+| bip_39_word_new_line12 | holiday
+female
+funny
+science
+fall
+hair
+venture
+day
+mountain
+damage
+crisp
+absent |  
+| bip_39_word_new_line2 | holiday
+female |  
+| bip_39_word_new_line3 | holiday
+female
+funny |  
+| bip_39_word_new_line4 | holiday
+female
+funny
+science |  
+| bip_39_word_new_line5 | holiday
+female
+funny
+science
+fall |  
+| bip_39_word_new_line6 | holiday
+female
+funny
+science
+fall
+hair |  
+| bip_39_word_new_line7 | holiday
+female
+funny
+science
+fall
+hair
+venture |  
+| bip_39_word_new_line8 | holiday
+female
+funny
+science
+fall
+hair
+venture
+day |  
+| bip_39_word_new_line9 | holiday
+female
+funny
+science
+fall
+hair
+venture
+day
+mountain |  
+| bip_39_word_space_0 | ['holiday', 'female', 'funny', 'science', 'fall', 'hair', 'venture', 'day', 'mountain', 'damage', 'crisp', 'absent'] |  
+| bip_39_word_space_1 | holiday |  
+| bip_39_word_space_10 | holiday female funny science fall hair venture day mountain damage |  
+| bip_39_word_space_11 | holiday female funny science fall hair venture day mountain damage crisp |  
+| bip_39_word_space_12 | holiday female funny science fall hair venture day mountain damage crisp absent |  
+| bip_39_word_space_2 | holiday female |  
+| bip_39_word_space_3 | holiday female funny |  
+| bip_39_word_space_4 | holiday female funny science |  
+| bip_39_word_space_5 | holiday female funny science fall |  
+| bip_39_word_space_6 | holiday female funny science fall hair |  
+| bip_39_word_space_7 | holiday female funny science fall hair venture |  
+| bip_39_word_space_8 | holiday female funny science fall hair venture day |  
+| bip_39_word_space_9 | holiday female funny science fall hair venture day mountain |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

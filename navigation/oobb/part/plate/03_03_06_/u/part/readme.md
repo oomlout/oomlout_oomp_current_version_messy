@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: garlic grid
+  * bip 39 word 3: garlic grid legend
+  * bip 39 word: garlic grid legend tool honey permit fog other palace devote reason already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | garlic |  
+| bip_39_word_new_br10 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit<br>fog<br>other<br>palace<br>devote |  
+| bip_39_word_new_br11 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit<br>fog<br>other<br>palace<br>devote<br>reason |  
+| bip_39_word_new_br12 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit<br>fog<br>other<br>palace<br>devote<br>reason<br>already |  
+| bip_39_word_new_br2 | garlic<br>grid |  
+| bip_39_word_new_br3 | garlic<br>grid<br>legend |  
+| bip_39_word_new_br4 | garlic<br>grid<br>legend<br>tool |  
+| bip_39_word_new_br5 | garlic<br>grid<br>legend<br>tool<br>honey |  
+| bip_39_word_new_br6 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit |  
+| bip_39_word_new_br7 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit<br>fog |  
+| bip_39_word_new_br8 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit<br>fog<br>other |  
+| bip_39_word_new_br9 | garlic<br>grid<br>legend<br>tool<br>honey<br>permit<br>fog<br>other<br>palace |  
+| bip_39_word_new_line1 | garlic |  
+| bip_39_word_new_line10 | garlic
+grid
+legend
+tool
+honey
+permit
+fog
+other
+palace
+devote |  
+| bip_39_word_new_line11 | garlic
+grid
+legend
+tool
+honey
+permit
+fog
+other
+palace
+devote
+reason |  
+| bip_39_word_new_line12 | garlic
+grid
+legend
+tool
+honey
+permit
+fog
+other
+palace
+devote
+reason
+already |  
+| bip_39_word_new_line2 | garlic
+grid |  
+| bip_39_word_new_line3 | garlic
+grid
+legend |  
+| bip_39_word_new_line4 | garlic
+grid
+legend
+tool |  
+| bip_39_word_new_line5 | garlic
+grid
+legend
+tool
+honey |  
+| bip_39_word_new_line6 | garlic
+grid
+legend
+tool
+honey
+permit |  
+| bip_39_word_new_line7 | garlic
+grid
+legend
+tool
+honey
+permit
+fog |  
+| bip_39_word_new_line8 | garlic
+grid
+legend
+tool
+honey
+permit
+fog
+other |  
+| bip_39_word_new_line9 | garlic
+grid
+legend
+tool
+honey
+permit
+fog
+other
+palace |  
+| bip_39_word_space_0 | ['garlic', 'grid', 'legend', 'tool', 'honey', 'permit', 'fog', 'other', 'palace', 'devote', 'reason', 'already'] |  
+| bip_39_word_space_1 | garlic |  
+| bip_39_word_space_10 | garlic grid legend tool honey permit fog other palace devote |  
+| bip_39_word_space_11 | garlic grid legend tool honey permit fog other palace devote reason |  
+| bip_39_word_space_12 | garlic grid legend tool honey permit fog other palace devote reason already |  
+| bip_39_word_space_2 | garlic grid |  
+| bip_39_word_space_3 | garlic grid legend |  
+| bip_39_word_space_4 | garlic grid legend tool |  
+| bip_39_word_space_5 | garlic grid legend tool honey |  
+| bip_39_word_space_6 | garlic grid legend tool honey permit |  
+| bip_39_word_space_7 | garlic grid legend tool honey permit fog |  
+| bip_39_word_space_8 | garlic grid legend tool honey permit fog other |  
+| bip_39_word_space_9 | garlic grid legend tool honey permit fog other palace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

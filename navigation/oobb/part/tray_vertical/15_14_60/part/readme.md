@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: solution tissue
+  * bip 39 word 3: solution tissue rescue
+  * bip 39 word: solution tissue rescue elegant lend cricket trade duty van share clinic affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | solution |  
+| bip_39_word_new_br10 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket<br>trade<br>duty<br>van<br>share |  
+| bip_39_word_new_br11 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket<br>trade<br>duty<br>van<br>share<br>clinic |  
+| bip_39_word_new_br12 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket<br>trade<br>duty<br>van<br>share<br>clinic<br>affair |  
+| bip_39_word_new_br2 | solution<br>tissue |  
+| bip_39_word_new_br3 | solution<br>tissue<br>rescue |  
+| bip_39_word_new_br4 | solution<br>tissue<br>rescue<br>elegant |  
+| bip_39_word_new_br5 | solution<br>tissue<br>rescue<br>elegant<br>lend |  
+| bip_39_word_new_br6 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket |  
+| bip_39_word_new_br7 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket<br>trade |  
+| bip_39_word_new_br8 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket<br>trade<br>duty |  
+| bip_39_word_new_br9 | solution<br>tissue<br>rescue<br>elegant<br>lend<br>cricket<br>trade<br>duty<br>van |  
+| bip_39_word_new_line1 | solution |  
+| bip_39_word_new_line10 | solution
+tissue
+rescue
+elegant
+lend
+cricket
+trade
+duty
+van
+share |  
+| bip_39_word_new_line11 | solution
+tissue
+rescue
+elegant
+lend
+cricket
+trade
+duty
+van
+share
+clinic |  
+| bip_39_word_new_line12 | solution
+tissue
+rescue
+elegant
+lend
+cricket
+trade
+duty
+van
+share
+clinic
+affair |  
+| bip_39_word_new_line2 | solution
+tissue |  
+| bip_39_word_new_line3 | solution
+tissue
+rescue |  
+| bip_39_word_new_line4 | solution
+tissue
+rescue
+elegant |  
+| bip_39_word_new_line5 | solution
+tissue
+rescue
+elegant
+lend |  
+| bip_39_word_new_line6 | solution
+tissue
+rescue
+elegant
+lend
+cricket |  
+| bip_39_word_new_line7 | solution
+tissue
+rescue
+elegant
+lend
+cricket
+trade |  
+| bip_39_word_new_line8 | solution
+tissue
+rescue
+elegant
+lend
+cricket
+trade
+duty |  
+| bip_39_word_new_line9 | solution
+tissue
+rescue
+elegant
+lend
+cricket
+trade
+duty
+van |  
+| bip_39_word_space_0 | ['solution', 'tissue', 'rescue', 'elegant', 'lend', 'cricket', 'trade', 'duty', 'van', 'share', 'clinic', 'affair'] |  
+| bip_39_word_space_1 | solution |  
+| bip_39_word_space_10 | solution tissue rescue elegant lend cricket trade duty van share |  
+| bip_39_word_space_11 | solution tissue rescue elegant lend cricket trade duty van share clinic |  
+| bip_39_word_space_12 | solution tissue rescue elegant lend cricket trade duty van share clinic affair |  
+| bip_39_word_space_2 | solution tissue |  
+| bip_39_word_space_3 | solution tissue rescue |  
+| bip_39_word_space_4 | solution tissue rescue elegant |  
+| bip_39_word_space_5 | solution tissue rescue elegant lend |  
+| bip_39_word_space_6 | solution tissue rescue elegant lend cricket |  
+| bip_39_word_space_7 | solution tissue rescue elegant lend cricket trade |  
+| bip_39_word_space_8 | solution tissue rescue elegant lend cricket trade duty |  
+| bip_39_word_space_9 | solution tissue rescue elegant lend cricket trade duty van |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

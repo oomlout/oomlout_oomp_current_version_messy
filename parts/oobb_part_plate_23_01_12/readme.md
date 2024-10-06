@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broken stove
+  * bip 39 word 3: broken stove market
+  * bip 39 word: broken stove market tackle there kingdom sort sail skill hundred member add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broken |  
+| bip_39_word_new_br10 | broken<br>stove<br>market<br>tackle<br>there<br>kingdom<br>sort<br>sail<br>skill<br>hundred |  
+| bip_39_word_new_br11 | broken<br>stove<br>market<br>tackle<br>there<br>kingdom<br>sort<br>sail<br>skill<br>hundred<br>member |  
+| bip_39_word_new_br12 | broken<br>stove<br>market<br>tackle<br>there<br>kingdom<br>sort<br>sail<br>skill<br>hundred<br>member<br>add |  
+| bip_39_word_new_br2 | broken<br>stove |  
+| bip_39_word_new_br3 | broken<br>stove<br>market |  
+| bip_39_word_new_br4 | broken<br>stove<br>market<br>tackle |  
+| bip_39_word_new_br5 | broken<br>stove<br>market<br>tackle<br>there |  
+| bip_39_word_new_br6 | broken<br>stove<br>market<br>tackle<br>there<br>kingdom |  
+| bip_39_word_new_br7 | broken<br>stove<br>market<br>tackle<br>there<br>kingdom<br>sort |  
+| bip_39_word_new_br8 | broken<br>stove<br>market<br>tackle<br>there<br>kingdom<br>sort<br>sail |  
+| bip_39_word_new_br9 | broken<br>stove<br>market<br>tackle<br>there<br>kingdom<br>sort<br>sail<br>skill |  
+| bip_39_word_new_line1 | broken |  
+| bip_39_word_new_line10 | broken
+stove
+market
+tackle
+there
+kingdom
+sort
+sail
+skill
+hundred |  
+| bip_39_word_new_line11 | broken
+stove
+market
+tackle
+there
+kingdom
+sort
+sail
+skill
+hundred
+member |  
+| bip_39_word_new_line12 | broken
+stove
+market
+tackle
+there
+kingdom
+sort
+sail
+skill
+hundred
+member
+add |  
+| bip_39_word_new_line2 | broken
+stove |  
+| bip_39_word_new_line3 | broken
+stove
+market |  
+| bip_39_word_new_line4 | broken
+stove
+market
+tackle |  
+| bip_39_word_new_line5 | broken
+stove
+market
+tackle
+there |  
+| bip_39_word_new_line6 | broken
+stove
+market
+tackle
+there
+kingdom |  
+| bip_39_word_new_line7 | broken
+stove
+market
+tackle
+there
+kingdom
+sort |  
+| bip_39_word_new_line8 | broken
+stove
+market
+tackle
+there
+kingdom
+sort
+sail |  
+| bip_39_word_new_line9 | broken
+stove
+market
+tackle
+there
+kingdom
+sort
+sail
+skill |  
+| bip_39_word_space_0 | ['broken', 'stove', 'market', 'tackle', 'there', 'kingdom', 'sort', 'sail', 'skill', 'hundred', 'member', 'add'] |  
+| bip_39_word_space_1 | broken |  
+| bip_39_word_space_10 | broken stove market tackle there kingdom sort sail skill hundred |  
+| bip_39_word_space_11 | broken stove market tackle there kingdom sort sail skill hundred member |  
+| bip_39_word_space_12 | broken stove market tackle there kingdom sort sail skill hundred member add |  
+| bip_39_word_space_2 | broken stove |  
+| bip_39_word_space_3 | broken stove market |  
+| bip_39_word_space_4 | broken stove market tackle |  
+| bip_39_word_space_5 | broken stove market tackle there |  
+| bip_39_word_space_6 | broken stove market tackle there kingdom |  
+| bip_39_word_space_7 | broken stove market tackle there kingdom sort |  
+| bip_39_word_space_8 | broken stove market tackle there kingdom sort sail |  
+| bip_39_word_space_9 | broken stove market tackle there kingdom sort sail skill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

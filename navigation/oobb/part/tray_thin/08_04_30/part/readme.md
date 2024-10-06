@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rural govern
+  * bip 39 word 3: rural govern company
+  * bip 39 word: rural govern company olive meadow rare jealous capital insect hurry excess agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rural |  
+| bip_39_word_new_br10 | rural<br>govern<br>company<br>olive<br>meadow<br>rare<br>jealous<br>capital<br>insect<br>hurry |  
+| bip_39_word_new_br11 | rural<br>govern<br>company<br>olive<br>meadow<br>rare<br>jealous<br>capital<br>insect<br>hurry<br>excess |  
+| bip_39_word_new_br12 | rural<br>govern<br>company<br>olive<br>meadow<br>rare<br>jealous<br>capital<br>insect<br>hurry<br>excess<br>agent |  
+| bip_39_word_new_br2 | rural<br>govern |  
+| bip_39_word_new_br3 | rural<br>govern<br>company |  
+| bip_39_word_new_br4 | rural<br>govern<br>company<br>olive |  
+| bip_39_word_new_br5 | rural<br>govern<br>company<br>olive<br>meadow |  
+| bip_39_word_new_br6 | rural<br>govern<br>company<br>olive<br>meadow<br>rare |  
+| bip_39_word_new_br7 | rural<br>govern<br>company<br>olive<br>meadow<br>rare<br>jealous |  
+| bip_39_word_new_br8 | rural<br>govern<br>company<br>olive<br>meadow<br>rare<br>jealous<br>capital |  
+| bip_39_word_new_br9 | rural<br>govern<br>company<br>olive<br>meadow<br>rare<br>jealous<br>capital<br>insect |  
+| bip_39_word_new_line1 | rural |  
+| bip_39_word_new_line10 | rural
+govern
+company
+olive
+meadow
+rare
+jealous
+capital
+insect
+hurry |  
+| bip_39_word_new_line11 | rural
+govern
+company
+olive
+meadow
+rare
+jealous
+capital
+insect
+hurry
+excess |  
+| bip_39_word_new_line12 | rural
+govern
+company
+olive
+meadow
+rare
+jealous
+capital
+insect
+hurry
+excess
+agent |  
+| bip_39_word_new_line2 | rural
+govern |  
+| bip_39_word_new_line3 | rural
+govern
+company |  
+| bip_39_word_new_line4 | rural
+govern
+company
+olive |  
+| bip_39_word_new_line5 | rural
+govern
+company
+olive
+meadow |  
+| bip_39_word_new_line6 | rural
+govern
+company
+olive
+meadow
+rare |  
+| bip_39_word_new_line7 | rural
+govern
+company
+olive
+meadow
+rare
+jealous |  
+| bip_39_word_new_line8 | rural
+govern
+company
+olive
+meadow
+rare
+jealous
+capital |  
+| bip_39_word_new_line9 | rural
+govern
+company
+olive
+meadow
+rare
+jealous
+capital
+insect |  
+| bip_39_word_space_0 | ['rural', 'govern', 'company', 'olive', 'meadow', 'rare', 'jealous', 'capital', 'insect', 'hurry', 'excess', 'agent'] |  
+| bip_39_word_space_1 | rural |  
+| bip_39_word_space_10 | rural govern company olive meadow rare jealous capital insect hurry |  
+| bip_39_word_space_11 | rural govern company olive meadow rare jealous capital insect hurry excess |  
+| bip_39_word_space_12 | rural govern company olive meadow rare jealous capital insect hurry excess agent |  
+| bip_39_word_space_2 | rural govern |  
+| bip_39_word_space_3 | rural govern company |  
+| bip_39_word_space_4 | rural govern company olive |  
+| bip_39_word_space_5 | rural govern company olive meadow |  
+| bip_39_word_space_6 | rural govern company olive meadow rare |  
+| bip_39_word_space_7 | rural govern company olive meadow rare jealous |  
+| bip_39_word_space_8 | rural govern company olive meadow rare jealous capital |  
+| bip_39_word_space_9 | rural govern company olive meadow rare jealous capital insect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

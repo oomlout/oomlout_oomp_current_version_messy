@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dance
+bip_39_word_new_br10: dance<br>depart<br>egg<br>rocket<br>siege<br>useless<br>cinnamon<br>rich<br>vote<br>width
+bip_39_word_new_br11: dance<br>depart<br>egg<br>rocket<br>siege<br>useless<br>cinnamon<br>rich<br>vote<br>width<br>awful
+bip_39_word_new_br12: dance<br>depart<br>egg<br>rocket<br>siege<br>useless<br>cinnamon<br>rich<br>vote<br>width<br>awful<br>appear
+bip_39_word_new_br2: dance<br>depart
+bip_39_word_new_br3: dance<br>depart<br>egg
+bip_39_word_new_br4: dance<br>depart<br>egg<br>rocket
+bip_39_word_new_br5: dance<br>depart<br>egg<br>rocket<br>siege
+bip_39_word_new_br6: dance<br>depart<br>egg<br>rocket<br>siege<br>useless
+bip_39_word_new_br7: dance<br>depart<br>egg<br>rocket<br>siege<br>useless<br>cinnamon
+bip_39_word_new_br8: dance<br>depart<br>egg<br>rocket<br>siege<br>useless<br>cinnamon<br>rich
+bip_39_word_new_br9: dance<br>depart<br>egg<br>rocket<br>siege<br>useless<br>cinnamon<br>rich<br>vote
+bip_39_word_new_line1: dance
+bip_39_word_new_line10: 'dance
+
+  depart
+
+  egg
+
+  rocket
+
+  siege
+
+  useless
+
+  cinnamon
+
+  rich
+
+  vote
+
+  width'
+bip_39_word_new_line11: 'dance
+
+  depart
+
+  egg
+
+  rocket
+
+  siege
+
+  useless
+
+  cinnamon
+
+  rich
+
+  vote
+
+  width
+
+  awful'
+bip_39_word_new_line12: 'dance
+
+  depart
+
+  egg
+
+  rocket
+
+  siege
+
+  useless
+
+  cinnamon
+
+  rich
+
+  vote
+
+  width
+
+  awful
+
+  appear'
+bip_39_word_new_line2: 'dance
+
+  depart'
+bip_39_word_new_line3: 'dance
+
+  depart
+
+  egg'
+bip_39_word_new_line4: 'dance
+
+  depart
+
+  egg
+
+  rocket'
+bip_39_word_new_line5: 'dance
+
+  depart
+
+  egg
+
+  rocket
+
+  siege'
+bip_39_word_new_line6: 'dance
+
+  depart
+
+  egg
+
+  rocket
+
+  siege
+
+  useless'
+bip_39_word_new_line7: 'dance
+
+  depart
+
+  egg
+
+  rocket
+
+  siege
+
+  useless
+
+  cinnamon'
+bip_39_word_new_line8: 'dance
+
+  depart
+
+  egg
+
+  rocket
+
+  siege
+
+  useless
+
+  cinnamon
+
+  rich'
+bip_39_word_new_line9: 'dance
+
+  depart
+
+  egg
+
+  rocket
+
+  siege
+
+  useless
+
+  cinnamon
+
+  rich
+
+  vote'
+bip_39_word_space_0:
+- dance
+- depart
+- egg
+- rocket
+- siege
+- useless
+- cinnamon
+- rich
+- vote
+- width
+- awful
+- appear
+bip_39_word_space_1: dance
+bip_39_word_space_10: dance depart egg rocket siege useless cinnamon rich vote width
+bip_39_word_space_11: dance depart egg rocket siege useless cinnamon rich vote width
+  awful
+bip_39_word_space_12: dance depart egg rocket siege useless cinnamon rich vote width
+  awful appear
+bip_39_word_space_2: dance depart
+bip_39_word_space_3: dance depart egg
+bip_39_word_space_4: dance depart egg rocket
+bip_39_word_space_5: dance depart egg rocket siege
+bip_39_word_space_6: dance depart egg rocket siege useless
+bip_39_word_space_7: dance depart egg rocket siege useless cinnamon
+bip_39_word_space_8: dance depart egg rocket siege useless cinnamon rich
+bip_39_word_space_9: dance depart egg rocket siege useless cinnamon rich vote
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dance success
+  * bip 39 word 3: dance success ask
+  * bip 39 word: dance success ask exotic cloth sunset scrub limb wrap myself spoil arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dance |  
+| bip_39_word_new_br10 | dance<br>success<br>ask<br>exotic<br>cloth<br>sunset<br>scrub<br>limb<br>wrap<br>myself |  
+| bip_39_word_new_br11 | dance<br>success<br>ask<br>exotic<br>cloth<br>sunset<br>scrub<br>limb<br>wrap<br>myself<br>spoil |  
+| bip_39_word_new_br12 | dance<br>success<br>ask<br>exotic<br>cloth<br>sunset<br>scrub<br>limb<br>wrap<br>myself<br>spoil<br>arch |  
+| bip_39_word_new_br2 | dance<br>success |  
+| bip_39_word_new_br3 | dance<br>success<br>ask |  
+| bip_39_word_new_br4 | dance<br>success<br>ask<br>exotic |  
+| bip_39_word_new_br5 | dance<br>success<br>ask<br>exotic<br>cloth |  
+| bip_39_word_new_br6 | dance<br>success<br>ask<br>exotic<br>cloth<br>sunset |  
+| bip_39_word_new_br7 | dance<br>success<br>ask<br>exotic<br>cloth<br>sunset<br>scrub |  
+| bip_39_word_new_br8 | dance<br>success<br>ask<br>exotic<br>cloth<br>sunset<br>scrub<br>limb |  
+| bip_39_word_new_br9 | dance<br>success<br>ask<br>exotic<br>cloth<br>sunset<br>scrub<br>limb<br>wrap |  
+| bip_39_word_new_line1 | dance |  
+| bip_39_word_new_line10 | dance
+success
+ask
+exotic
+cloth
+sunset
+scrub
+limb
+wrap
+myself |  
+| bip_39_word_new_line11 | dance
+success
+ask
+exotic
+cloth
+sunset
+scrub
+limb
+wrap
+myself
+spoil |  
+| bip_39_word_new_line12 | dance
+success
+ask
+exotic
+cloth
+sunset
+scrub
+limb
+wrap
+myself
+spoil
+arch |  
+| bip_39_word_new_line2 | dance
+success |  
+| bip_39_word_new_line3 | dance
+success
+ask |  
+| bip_39_word_new_line4 | dance
+success
+ask
+exotic |  
+| bip_39_word_new_line5 | dance
+success
+ask
+exotic
+cloth |  
+| bip_39_word_new_line6 | dance
+success
+ask
+exotic
+cloth
+sunset |  
+| bip_39_word_new_line7 | dance
+success
+ask
+exotic
+cloth
+sunset
+scrub |  
+| bip_39_word_new_line8 | dance
+success
+ask
+exotic
+cloth
+sunset
+scrub
+limb |  
+| bip_39_word_new_line9 | dance
+success
+ask
+exotic
+cloth
+sunset
+scrub
+limb
+wrap |  
+| bip_39_word_space_0 | ['dance', 'success', 'ask', 'exotic', 'cloth', 'sunset', 'scrub', 'limb', 'wrap', 'myself', 'spoil', 'arch'] |  
+| bip_39_word_space_1 | dance |  
+| bip_39_word_space_10 | dance success ask exotic cloth sunset scrub limb wrap myself |  
+| bip_39_word_space_11 | dance success ask exotic cloth sunset scrub limb wrap myself spoil |  
+| bip_39_word_space_12 | dance success ask exotic cloth sunset scrub limb wrap myself spoil arch |  
+| bip_39_word_space_2 | dance success |  
+| bip_39_word_space_3 | dance success ask |  
+| bip_39_word_space_4 | dance success ask exotic |  
+| bip_39_word_space_5 | dance success ask exotic cloth |  
+| bip_39_word_space_6 | dance success ask exotic cloth sunset |  
+| bip_39_word_space_7 | dance success ask exotic cloth sunset scrub |  
+| bip_39_word_space_8 | dance success ask exotic cloth sunset scrub limb |  
+| bip_39_word_space_9 | dance success ask exotic cloth sunset scrub limb wrap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

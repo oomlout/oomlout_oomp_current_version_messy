@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: oobb_wire
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pioneer lizard
+  * bip 39 word 3: pioneer lizard indicate
+  * bip 39 word: pioneer lizard indicate input where despair saddle antique fresh coffee employ author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pioneer |  
+| bip_39_word_new_br10 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair<br>saddle<br>antique<br>fresh<br>coffee |  
+| bip_39_word_new_br11 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair<br>saddle<br>antique<br>fresh<br>coffee<br>employ |  
+| bip_39_word_new_br12 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair<br>saddle<br>antique<br>fresh<br>coffee<br>employ<br>author |  
+| bip_39_word_new_br2 | pioneer<br>lizard |  
+| bip_39_word_new_br3 | pioneer<br>lizard<br>indicate |  
+| bip_39_word_new_br4 | pioneer<br>lizard<br>indicate<br>input |  
+| bip_39_word_new_br5 | pioneer<br>lizard<br>indicate<br>input<br>where |  
+| bip_39_word_new_br6 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair |  
+| bip_39_word_new_br7 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair<br>saddle |  
+| bip_39_word_new_br8 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair<br>saddle<br>antique |  
+| bip_39_word_new_br9 | pioneer<br>lizard<br>indicate<br>input<br>where<br>despair<br>saddle<br>antique<br>fresh |  
+| bip_39_word_new_line1 | pioneer |  
+| bip_39_word_new_line10 | pioneer
+lizard
+indicate
+input
+where
+despair
+saddle
+antique
+fresh
+coffee |  
+| bip_39_word_new_line11 | pioneer
+lizard
+indicate
+input
+where
+despair
+saddle
+antique
+fresh
+coffee
+employ |  
+| bip_39_word_new_line12 | pioneer
+lizard
+indicate
+input
+where
+despair
+saddle
+antique
+fresh
+coffee
+employ
+author |  
+| bip_39_word_new_line2 | pioneer
+lizard |  
+| bip_39_word_new_line3 | pioneer
+lizard
+indicate |  
+| bip_39_word_new_line4 | pioneer
+lizard
+indicate
+input |  
+| bip_39_word_new_line5 | pioneer
+lizard
+indicate
+input
+where |  
+| bip_39_word_new_line6 | pioneer
+lizard
+indicate
+input
+where
+despair |  
+| bip_39_word_new_line7 | pioneer
+lizard
+indicate
+input
+where
+despair
+saddle |  
+| bip_39_word_new_line8 | pioneer
+lizard
+indicate
+input
+where
+despair
+saddle
+antique |  
+| bip_39_word_new_line9 | pioneer
+lizard
+indicate
+input
+where
+despair
+saddle
+antique
+fresh |  
+| bip_39_word_space_0 | ['pioneer', 'lizard', 'indicate', 'input', 'where', 'despair', 'saddle', 'antique', 'fresh', 'coffee', 'employ', 'author'] |  
+| bip_39_word_space_1 | pioneer |  
+| bip_39_word_space_10 | pioneer lizard indicate input where despair saddle antique fresh coffee |  
+| bip_39_word_space_11 | pioneer lizard indicate input where despair saddle antique fresh coffee employ |  
+| bip_39_word_space_12 | pioneer lizard indicate input where despair saddle antique fresh coffee employ author |  
+| bip_39_word_space_2 | pioneer lizard |  
+| bip_39_word_space_3 | pioneer lizard indicate |  
+| bip_39_word_space_4 | pioneer lizard indicate input |  
+| bip_39_word_space_5 | pioneer lizard indicate input where |  
+| bip_39_word_space_6 | pioneer lizard indicate input where despair |  
+| bip_39_word_space_7 | pioneer lizard indicate input where despair saddle |  
+| bip_39_word_space_8 | pioneer lizard indicate input where despair saddle antique |  
+| bip_39_word_space_9 | pioneer lizard indicate input where despair saddle antique fresh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: razor model
+  * bip 39 word 3: razor model spike
+  * bip 39 word: razor model spike style abstract alien render media scrap ritual abstract also
 
 ### other_codes
 * short_code: br6707
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | razor |  
+| bip_39_word_new_br10 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual |  
+| bip_39_word_new_br11 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual<br>abstract |  
+| bip_39_word_new_br12 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap<br>ritual<br>abstract<br>also |  
+| bip_39_word_new_br2 | razor<br>model |  
+| bip_39_word_new_br3 | razor<br>model<br>spike |  
+| bip_39_word_new_br4 | razor<br>model<br>spike<br>style |  
+| bip_39_word_new_br5 | razor<br>model<br>spike<br>style<br>abstract |  
+| bip_39_word_new_br6 | razor<br>model<br>spike<br>style<br>abstract<br>alien |  
+| bip_39_word_new_br7 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render |  
+| bip_39_word_new_br8 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media |  
+| bip_39_word_new_br9 | razor<br>model<br>spike<br>style<br>abstract<br>alien<br>render<br>media<br>scrap |  
+| bip_39_word_new_line1 | razor |  
+| bip_39_word_new_line10 | razor
+model
+spike
+style
+abstract
+alien
+render
+media
+scrap
+ritual |  
+| bip_39_word_new_line11 | razor
+model
+spike
+style
+abstract
+alien
+render
+media
+scrap
+ritual
+abstract |  
+| bip_39_word_new_line12 | razor
+model
+spike
+style
+abstract
+alien
+render
+media
+scrap
+ritual
+abstract
+also |  
+| bip_39_word_new_line2 | razor
+model |  
+| bip_39_word_new_line3 | razor
+model
+spike |  
+| bip_39_word_new_line4 | razor
+model
+spike
+style |  
+| bip_39_word_new_line5 | razor
+model
+spike
+style
+abstract |  
+| bip_39_word_new_line6 | razor
+model
+spike
+style
+abstract
+alien |  
+| bip_39_word_new_line7 | razor
+model
+spike
+style
+abstract
+alien
+render |  
+| bip_39_word_new_line8 | razor
+model
+spike
+style
+abstract
+alien
+render
+media |  
+| bip_39_word_new_line9 | razor
+model
+spike
+style
+abstract
+alien
+render
+media
+scrap |  
+| bip_39_word_space_0 | ['razor', 'model', 'spike', 'style', 'abstract', 'alien', 'render', 'media', 'scrap', 'ritual', 'abstract', 'also'] |  
+| bip_39_word_space_1 | razor |  
+| bip_39_word_space_10 | razor model spike style abstract alien render media scrap ritual |  
+| bip_39_word_space_11 | razor model spike style abstract alien render media scrap ritual abstract |  
+| bip_39_word_space_12 | razor model spike style abstract alien render media scrap ritual abstract also |  
+| bip_39_word_space_2 | razor model |  
+| bip_39_word_space_3 | razor model spike |  
+| bip_39_word_space_4 | razor model spike style |  
+| bip_39_word_space_5 | razor model spike style abstract |  
+| bip_39_word_space_6 | razor model spike style abstract alien |  
+| bip_39_word_space_7 | razor model spike style abstract alien render |  
+| bip_39_word_space_8 | razor model spike style abstract alien render media |  
+| bip_39_word_space_9 | razor model spike style abstract alien render media scrap |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

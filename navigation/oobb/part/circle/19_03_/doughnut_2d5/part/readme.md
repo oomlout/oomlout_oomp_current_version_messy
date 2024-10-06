@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_2d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: owner elephant
+  * bip 39 word 3: owner elephant cargo
+  * bip 39 word: owner elephant cargo door embrace owner marine blanket glad swim tumble agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | owner |  
+| bip_39_word_new_br10 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner<br>marine<br>blanket<br>glad<br>swim |  
+| bip_39_word_new_br11 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner<br>marine<br>blanket<br>glad<br>swim<br>tumble |  
+| bip_39_word_new_br12 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner<br>marine<br>blanket<br>glad<br>swim<br>tumble<br>agree |  
+| bip_39_word_new_br2 | owner<br>elephant |  
+| bip_39_word_new_br3 | owner<br>elephant<br>cargo |  
+| bip_39_word_new_br4 | owner<br>elephant<br>cargo<br>door |  
+| bip_39_word_new_br5 | owner<br>elephant<br>cargo<br>door<br>embrace |  
+| bip_39_word_new_br6 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner |  
+| bip_39_word_new_br7 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner<br>marine |  
+| bip_39_word_new_br8 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner<br>marine<br>blanket |  
+| bip_39_word_new_br9 | owner<br>elephant<br>cargo<br>door<br>embrace<br>owner<br>marine<br>blanket<br>glad |  
+| bip_39_word_new_line1 | owner |  
+| bip_39_word_new_line10 | owner
+elephant
+cargo
+door
+embrace
+owner
+marine
+blanket
+glad
+swim |  
+| bip_39_word_new_line11 | owner
+elephant
+cargo
+door
+embrace
+owner
+marine
+blanket
+glad
+swim
+tumble |  
+| bip_39_word_new_line12 | owner
+elephant
+cargo
+door
+embrace
+owner
+marine
+blanket
+glad
+swim
+tumble
+agree |  
+| bip_39_word_new_line2 | owner
+elephant |  
+| bip_39_word_new_line3 | owner
+elephant
+cargo |  
+| bip_39_word_new_line4 | owner
+elephant
+cargo
+door |  
+| bip_39_word_new_line5 | owner
+elephant
+cargo
+door
+embrace |  
+| bip_39_word_new_line6 | owner
+elephant
+cargo
+door
+embrace
+owner |  
+| bip_39_word_new_line7 | owner
+elephant
+cargo
+door
+embrace
+owner
+marine |  
+| bip_39_word_new_line8 | owner
+elephant
+cargo
+door
+embrace
+owner
+marine
+blanket |  
+| bip_39_word_new_line9 | owner
+elephant
+cargo
+door
+embrace
+owner
+marine
+blanket
+glad |  
+| bip_39_word_space_0 | ['owner', 'elephant', 'cargo', 'door', 'embrace', 'owner', 'marine', 'blanket', 'glad', 'swim', 'tumble', 'agree'] |  
+| bip_39_word_space_1 | owner |  
+| bip_39_word_space_10 | owner elephant cargo door embrace owner marine blanket glad swim |  
+| bip_39_word_space_11 | owner elephant cargo door embrace owner marine blanket glad swim tumble |  
+| bip_39_word_space_12 | owner elephant cargo door embrace owner marine blanket glad swim tumble agree |  
+| bip_39_word_space_2 | owner elephant |  
+| bip_39_word_space_3 | owner elephant cargo |  
+| bip_39_word_space_4 | owner elephant cargo door |  
+| bip_39_word_space_5 | owner elephant cargo door embrace |  
+| bip_39_word_space_6 | owner elephant cargo door embrace owner |  
+| bip_39_word_space_7 | owner elephant cargo door embrace owner marine |  
+| bip_39_word_space_8 | owner elephant cargo door embrace owner marine blanket |  
+| bip_39_word_space_9 | owner elephant cargo door embrace owner marine blanket glad |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

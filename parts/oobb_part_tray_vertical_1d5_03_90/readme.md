@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: husband quick
+  * bip 39 word 3: husband quick piano
+  * bip 39 word: husband quick piano chair auction fuel jump giggle diet hawk keen access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | husband |  
+| bip_39_word_new_br10 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel<br>jump<br>giggle<br>diet<br>hawk |  
+| bip_39_word_new_br11 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel<br>jump<br>giggle<br>diet<br>hawk<br>keen |  
+| bip_39_word_new_br12 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel<br>jump<br>giggle<br>diet<br>hawk<br>keen<br>access |  
+| bip_39_word_new_br2 | husband<br>quick |  
+| bip_39_word_new_br3 | husband<br>quick<br>piano |  
+| bip_39_word_new_br4 | husband<br>quick<br>piano<br>chair |  
+| bip_39_word_new_br5 | husband<br>quick<br>piano<br>chair<br>auction |  
+| bip_39_word_new_br6 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel |  
+| bip_39_word_new_br7 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel<br>jump |  
+| bip_39_word_new_br8 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel<br>jump<br>giggle |  
+| bip_39_word_new_br9 | husband<br>quick<br>piano<br>chair<br>auction<br>fuel<br>jump<br>giggle<br>diet |  
+| bip_39_word_new_line1 | husband |  
+| bip_39_word_new_line10 | husband
+quick
+piano
+chair
+auction
+fuel
+jump
+giggle
+diet
+hawk |  
+| bip_39_word_new_line11 | husband
+quick
+piano
+chair
+auction
+fuel
+jump
+giggle
+diet
+hawk
+keen |  
+| bip_39_word_new_line12 | husband
+quick
+piano
+chair
+auction
+fuel
+jump
+giggle
+diet
+hawk
+keen
+access |  
+| bip_39_word_new_line2 | husband
+quick |  
+| bip_39_word_new_line3 | husband
+quick
+piano |  
+| bip_39_word_new_line4 | husband
+quick
+piano
+chair |  
+| bip_39_word_new_line5 | husband
+quick
+piano
+chair
+auction |  
+| bip_39_word_new_line6 | husband
+quick
+piano
+chair
+auction
+fuel |  
+| bip_39_word_new_line7 | husband
+quick
+piano
+chair
+auction
+fuel
+jump |  
+| bip_39_word_new_line8 | husband
+quick
+piano
+chair
+auction
+fuel
+jump
+giggle |  
+| bip_39_word_new_line9 | husband
+quick
+piano
+chair
+auction
+fuel
+jump
+giggle
+diet |  
+| bip_39_word_space_0 | ['husband', 'quick', 'piano', 'chair', 'auction', 'fuel', 'jump', 'giggle', 'diet', 'hawk', 'keen', 'access'] |  
+| bip_39_word_space_1 | husband |  
+| bip_39_word_space_10 | husband quick piano chair auction fuel jump giggle diet hawk |  
+| bip_39_word_space_11 | husband quick piano chair auction fuel jump giggle diet hawk keen |  
+| bip_39_word_space_12 | husband quick piano chair auction fuel jump giggle diet hawk keen access |  
+| bip_39_word_space_2 | husband quick |  
+| bip_39_word_space_3 | husband quick piano |  
+| bip_39_word_space_4 | husband quick piano chair |  
+| bip_39_word_space_5 | husband quick piano chair auction |  
+| bip_39_word_space_6 | husband quick piano chair auction fuel |  
+| bip_39_word_space_7 | husband quick piano chair auction fuel jump |  
+| bip_39_word_space_8 | husband quick piano chair auction fuel jump giggle |  
+| bip_39_word_space_9 | husband quick piano chair auction fuel jump giggle diet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

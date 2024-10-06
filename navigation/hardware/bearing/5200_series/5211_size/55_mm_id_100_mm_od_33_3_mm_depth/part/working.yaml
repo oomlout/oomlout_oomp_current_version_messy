@@ -1,3 +1,186 @@
+bip_39_word_new_br1: safe
+bip_39_word_new_br10: safe<br>trip<br>true<br>cousin<br>future<br>inherit<br>glory<br>cereal<br>alley<br>top
+bip_39_word_new_br11: safe<br>trip<br>true<br>cousin<br>future<br>inherit<br>glory<br>cereal<br>alley<br>top<br>sand
+bip_39_word_new_br12: safe<br>trip<br>true<br>cousin<br>future<br>inherit<br>glory<br>cereal<br>alley<br>top<br>sand<br>above
+bip_39_word_new_br2: safe<br>trip
+bip_39_word_new_br3: safe<br>trip<br>true
+bip_39_word_new_br4: safe<br>trip<br>true<br>cousin
+bip_39_word_new_br5: safe<br>trip<br>true<br>cousin<br>future
+bip_39_word_new_br6: safe<br>trip<br>true<br>cousin<br>future<br>inherit
+bip_39_word_new_br7: safe<br>trip<br>true<br>cousin<br>future<br>inherit<br>glory
+bip_39_word_new_br8: safe<br>trip<br>true<br>cousin<br>future<br>inherit<br>glory<br>cereal
+bip_39_word_new_br9: safe<br>trip<br>true<br>cousin<br>future<br>inherit<br>glory<br>cereal<br>alley
+bip_39_word_new_line1: safe
+bip_39_word_new_line10: 'safe
+
+  trip
+
+  true
+
+  cousin
+
+  future
+
+  inherit
+
+  glory
+
+  cereal
+
+  alley
+
+  top'
+bip_39_word_new_line11: 'safe
+
+  trip
+
+  true
+
+  cousin
+
+  future
+
+  inherit
+
+  glory
+
+  cereal
+
+  alley
+
+  top
+
+  sand'
+bip_39_word_new_line12: 'safe
+
+  trip
+
+  true
+
+  cousin
+
+  future
+
+  inherit
+
+  glory
+
+  cereal
+
+  alley
+
+  top
+
+  sand
+
+  above'
+bip_39_word_new_line2: 'safe
+
+  trip'
+bip_39_word_new_line3: 'safe
+
+  trip
+
+  true'
+bip_39_word_new_line4: 'safe
+
+  trip
+
+  true
+
+  cousin'
+bip_39_word_new_line5: 'safe
+
+  trip
+
+  true
+
+  cousin
+
+  future'
+bip_39_word_new_line6: 'safe
+
+  trip
+
+  true
+
+  cousin
+
+  future
+
+  inherit'
+bip_39_word_new_line7: 'safe
+
+  trip
+
+  true
+
+  cousin
+
+  future
+
+  inherit
+
+  glory'
+bip_39_word_new_line8: 'safe
+
+  trip
+
+  true
+
+  cousin
+
+  future
+
+  inherit
+
+  glory
+
+  cereal'
+bip_39_word_new_line9: 'safe
+
+  trip
+
+  true
+
+  cousin
+
+  future
+
+  inherit
+
+  glory
+
+  cereal
+
+  alley'
+bip_39_word_space_0:
+- safe
+- trip
+- 'true'
+- cousin
+- future
+- inherit
+- glory
+- cereal
+- alley
+- top
+- sand
+- above
+bip_39_word_space_1: safe
+bip_39_word_space_10: safe trip true cousin future inherit glory cereal alley top
+bip_39_word_space_11: safe trip true cousin future inherit glory cereal alley top
+  sand
+bip_39_word_space_12: safe trip true cousin future inherit glory cereal alley top
+  sand above
+bip_39_word_space_2: safe trip
+bip_39_word_space_3: safe trip true
+bip_39_word_space_4: safe trip true cousin
+bip_39_word_space_5: safe trip true cousin future
+bip_39_word_space_6: safe trip true cousin future inherit
+bip_39_word_space_7: safe trip true cousin future inherit glory
+bip_39_word_space_8: safe trip true cousin future inherit glory cereal
+bip_39_word_space_9: safe trip true cousin future inherit glory cereal alley
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

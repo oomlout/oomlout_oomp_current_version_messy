@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: friend view
+  * bip 39 word 3: friend view trim
+  * bip 39 word: friend view trim shallow leisure nerve beef knock exist breeze meadow argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | friend |  
+| bip_39_word_new_br10 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze |  
+| bip_39_word_new_br11 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze<br>meadow |  
+| bip_39_word_new_br12 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist<br>breeze<br>meadow<br>argue |  
+| bip_39_word_new_br2 | friend<br>view |  
+| bip_39_word_new_br3 | friend<br>view<br>trim |  
+| bip_39_word_new_br4 | friend<br>view<br>trim<br>shallow |  
+| bip_39_word_new_br5 | friend<br>view<br>trim<br>shallow<br>leisure |  
+| bip_39_word_new_br6 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve |  
+| bip_39_word_new_br7 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef |  
+| bip_39_word_new_br8 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock |  
+| bip_39_word_new_br9 | friend<br>view<br>trim<br>shallow<br>leisure<br>nerve<br>beef<br>knock<br>exist |  
+| bip_39_word_new_line1 | friend |  
+| bip_39_word_new_line10 | friend
+view
+trim
+shallow
+leisure
+nerve
+beef
+knock
+exist
+breeze |  
+| bip_39_word_new_line11 | friend
+view
+trim
+shallow
+leisure
+nerve
+beef
+knock
+exist
+breeze
+meadow |  
+| bip_39_word_new_line12 | friend
+view
+trim
+shallow
+leisure
+nerve
+beef
+knock
+exist
+breeze
+meadow
+argue |  
+| bip_39_word_new_line2 | friend
+view |  
+| bip_39_word_new_line3 | friend
+view
+trim |  
+| bip_39_word_new_line4 | friend
+view
+trim
+shallow |  
+| bip_39_word_new_line5 | friend
+view
+trim
+shallow
+leisure |  
+| bip_39_word_new_line6 | friend
+view
+trim
+shallow
+leisure
+nerve |  
+| bip_39_word_new_line7 | friend
+view
+trim
+shallow
+leisure
+nerve
+beef |  
+| bip_39_word_new_line8 | friend
+view
+trim
+shallow
+leisure
+nerve
+beef
+knock |  
+| bip_39_word_new_line9 | friend
+view
+trim
+shallow
+leisure
+nerve
+beef
+knock
+exist |  
+| bip_39_word_space_0 | ['friend', 'view', 'trim', 'shallow', 'leisure', 'nerve', 'beef', 'knock', 'exist', 'breeze', 'meadow', 'argue'] |  
+| bip_39_word_space_1 | friend |  
+| bip_39_word_space_10 | friend view trim shallow leisure nerve beef knock exist breeze |  
+| bip_39_word_space_11 | friend view trim shallow leisure nerve beef knock exist breeze meadow |  
+| bip_39_word_space_12 | friend view trim shallow leisure nerve beef knock exist breeze meadow argue |  
+| bip_39_word_space_2 | friend view |  
+| bip_39_word_space_3 | friend view trim |  
+| bip_39_word_space_4 | friend view trim shallow |  
+| bip_39_word_space_5 | friend view trim shallow leisure |  
+| bip_39_word_space_6 | friend view trim shallow leisure nerve |  
+| bip_39_word_space_7 | friend view trim shallow leisure nerve beef |  
+| bip_39_word_space_8 | friend view trim shallow leisure nerve beef knock |  
+| bip_39_word_space_9 | friend view trim shallow leisure nerve beef knock exist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

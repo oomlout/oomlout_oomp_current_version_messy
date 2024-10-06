@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ptfe_tube_holder_ninety_degree_sh_m6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: round add
+  * bip 39 word 3: round add truly
+  * bip 39 word: round add truly garlic zebra add follow spend bicycle photo topple agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | round |  
+| bip_39_word_new_br10 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo |  
+| bip_39_word_new_br11 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo<br>topple |  
+| bip_39_word_new_br12 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle<br>photo<br>topple<br>agree |  
+| bip_39_word_new_br2 | round<br>add |  
+| bip_39_word_new_br3 | round<br>add<br>truly |  
+| bip_39_word_new_br4 | round<br>add<br>truly<br>garlic |  
+| bip_39_word_new_br5 | round<br>add<br>truly<br>garlic<br>zebra |  
+| bip_39_word_new_br6 | round<br>add<br>truly<br>garlic<br>zebra<br>add |  
+| bip_39_word_new_br7 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow |  
+| bip_39_word_new_br8 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend |  
+| bip_39_word_new_br9 | round<br>add<br>truly<br>garlic<br>zebra<br>add<br>follow<br>spend<br>bicycle |  
+| bip_39_word_new_line1 | round |  
+| bip_39_word_new_line10 | round
+add
+truly
+garlic
+zebra
+add
+follow
+spend
+bicycle
+photo |  
+| bip_39_word_new_line11 | round
+add
+truly
+garlic
+zebra
+add
+follow
+spend
+bicycle
+photo
+topple |  
+| bip_39_word_new_line12 | round
+add
+truly
+garlic
+zebra
+add
+follow
+spend
+bicycle
+photo
+topple
+agree |  
+| bip_39_word_new_line2 | round
+add |  
+| bip_39_word_new_line3 | round
+add
+truly |  
+| bip_39_word_new_line4 | round
+add
+truly
+garlic |  
+| bip_39_word_new_line5 | round
+add
+truly
+garlic
+zebra |  
+| bip_39_word_new_line6 | round
+add
+truly
+garlic
+zebra
+add |  
+| bip_39_word_new_line7 | round
+add
+truly
+garlic
+zebra
+add
+follow |  
+| bip_39_word_new_line8 | round
+add
+truly
+garlic
+zebra
+add
+follow
+spend |  
+| bip_39_word_new_line9 | round
+add
+truly
+garlic
+zebra
+add
+follow
+spend
+bicycle |  
+| bip_39_word_space_0 | ['round', 'add', 'truly', 'garlic', 'zebra', 'add', 'follow', 'spend', 'bicycle', 'photo', 'topple', 'agree'] |  
+| bip_39_word_space_1 | round |  
+| bip_39_word_space_10 | round add truly garlic zebra add follow spend bicycle photo |  
+| bip_39_word_space_11 | round add truly garlic zebra add follow spend bicycle photo topple |  
+| bip_39_word_space_12 | round add truly garlic zebra add follow spend bicycle photo topple agree |  
+| bip_39_word_space_2 | round add |  
+| bip_39_word_space_3 | round add truly |  
+| bip_39_word_space_4 | round add truly garlic |  
+| bip_39_word_space_5 | round add truly garlic zebra |  
+| bip_39_word_space_6 | round add truly garlic zebra add |  
+| bip_39_word_space_7 | round add truly garlic zebra add follow |  
+| bip_39_word_space_8 | round add truly garlic zebra add follow spend |  
+| bip_39_word_space_9 | round add truly garlic zebra add follow spend bicycle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

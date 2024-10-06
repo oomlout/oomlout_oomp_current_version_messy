@@ -1,3 +1,186 @@
+bip_39_word_new_br1: magic
+bip_39_word_new_br10: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol
+bip_39_word_new_br11: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol<br>pole
+bip_39_word_new_br12: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause<br>symbol<br>pole<br>action
+bip_39_word_new_br2: magic<br>egg
+bip_39_word_new_br3: magic<br>egg<br>ketchup
+bip_39_word_new_br4: magic<br>egg<br>ketchup<br>turkey
+bip_39_word_new_br5: magic<br>egg<br>ketchup<br>turkey<br>glue
+bip_39_word_new_br6: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese
+bip_39_word_new_br7: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp
+bip_39_word_new_br8: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate
+bip_39_word_new_br9: magic<br>egg<br>ketchup<br>turkey<br>glue<br>cheese<br>damp<br>gate<br>cause
+bip_39_word_new_line1: magic
+bip_39_word_new_line10: 'magic
+
+  egg
+
+  ketchup
+
+  turkey
+
+  glue
+
+  cheese
+
+  damp
+
+  gate
+
+  cause
+
+  symbol'
+bip_39_word_new_line11: 'magic
+
+  egg
+
+  ketchup
+
+  turkey
+
+  glue
+
+  cheese
+
+  damp
+
+  gate
+
+  cause
+
+  symbol
+
+  pole'
+bip_39_word_new_line12: 'magic
+
+  egg
+
+  ketchup
+
+  turkey
+
+  glue
+
+  cheese
+
+  damp
+
+  gate
+
+  cause
+
+  symbol
+
+  pole
+
+  action'
+bip_39_word_new_line2: 'magic
+
+  egg'
+bip_39_word_new_line3: 'magic
+
+  egg
+
+  ketchup'
+bip_39_word_new_line4: 'magic
+
+  egg
+
+  ketchup
+
+  turkey'
+bip_39_word_new_line5: 'magic
+
+  egg
+
+  ketchup
+
+  turkey
+
+  glue'
+bip_39_word_new_line6: 'magic
+
+  egg
+
+  ketchup
+
+  turkey
+
+  glue
+
+  cheese'
+bip_39_word_new_line7: 'magic
+
+  egg
+
+  ketchup
+
+  turkey
+
+  glue
+
+  cheese
+
+  damp'
+bip_39_word_new_line8: 'magic
+
+  egg
+
+  ketchup
+
+  turkey
+
+  glue
+
+  cheese
+
+  damp
+
+  gate'
+bip_39_word_new_line9: 'magic
+
+  egg
+
+  ketchup
+
+  turkey
+
+  glue
+
+  cheese
+
+  damp
+
+  gate
+
+  cause'
+bip_39_word_space_0:
+- magic
+- egg
+- ketchup
+- turkey
+- glue
+- cheese
+- damp
+- gate
+- cause
+- symbol
+- pole
+- action
+bip_39_word_space_1: magic
+bip_39_word_space_10: magic egg ketchup turkey glue cheese damp gate cause symbol
+bip_39_word_space_11: magic egg ketchup turkey glue cheese damp gate cause symbol
+  pole
+bip_39_word_space_12: magic egg ketchup turkey glue cheese damp gate cause symbol
+  pole action
+bip_39_word_space_2: magic egg
+bip_39_word_space_3: magic egg ketchup
+bip_39_word_space_4: magic egg ketchup turkey
+bip_39_word_space_5: magic egg ketchup turkey glue
+bip_39_word_space_6: magic egg ketchup turkey glue cheese
+bip_39_word_space_7: magic egg ketchup turkey glue cheese damp
+bip_39_word_space_8: magic egg ketchup turkey glue cheese damp gate
+bip_39_word_space_9: magic egg ketchup turkey glue cheese damp gate cause
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

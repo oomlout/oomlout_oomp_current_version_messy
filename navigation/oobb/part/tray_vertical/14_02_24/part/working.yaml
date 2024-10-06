@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chunk
+bip_39_word_new_br10: chunk<br>trophy<br>ripple<br>oyster<br>jewel<br>ripple<br>crew<br>speak<br>rule<br>subject
+bip_39_word_new_br11: chunk<br>trophy<br>ripple<br>oyster<br>jewel<br>ripple<br>crew<br>speak<br>rule<br>subject<br>regret
+bip_39_word_new_br12: chunk<br>trophy<br>ripple<br>oyster<br>jewel<br>ripple<br>crew<br>speak<br>rule<br>subject<br>regret<br>ask
+bip_39_word_new_br2: chunk<br>trophy
+bip_39_word_new_br3: chunk<br>trophy<br>ripple
+bip_39_word_new_br4: chunk<br>trophy<br>ripple<br>oyster
+bip_39_word_new_br5: chunk<br>trophy<br>ripple<br>oyster<br>jewel
+bip_39_word_new_br6: chunk<br>trophy<br>ripple<br>oyster<br>jewel<br>ripple
+bip_39_word_new_br7: chunk<br>trophy<br>ripple<br>oyster<br>jewel<br>ripple<br>crew
+bip_39_word_new_br8: chunk<br>trophy<br>ripple<br>oyster<br>jewel<br>ripple<br>crew<br>speak
+bip_39_word_new_br9: chunk<br>trophy<br>ripple<br>oyster<br>jewel<br>ripple<br>crew<br>speak<br>rule
+bip_39_word_new_line1: chunk
+bip_39_word_new_line10: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster
+
+  jewel
+
+  ripple
+
+  crew
+
+  speak
+
+  rule
+
+  subject'
+bip_39_word_new_line11: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster
+
+  jewel
+
+  ripple
+
+  crew
+
+  speak
+
+  rule
+
+  subject
+
+  regret'
+bip_39_word_new_line12: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster
+
+  jewel
+
+  ripple
+
+  crew
+
+  speak
+
+  rule
+
+  subject
+
+  regret
+
+  ask'
+bip_39_word_new_line2: 'chunk
+
+  trophy'
+bip_39_word_new_line3: 'chunk
+
+  trophy
+
+  ripple'
+bip_39_word_new_line4: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster'
+bip_39_word_new_line5: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster
+
+  jewel'
+bip_39_word_new_line6: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster
+
+  jewel
+
+  ripple'
+bip_39_word_new_line7: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster
+
+  jewel
+
+  ripple
+
+  crew'
+bip_39_word_new_line8: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster
+
+  jewel
+
+  ripple
+
+  crew
+
+  speak'
+bip_39_word_new_line9: 'chunk
+
+  trophy
+
+  ripple
+
+  oyster
+
+  jewel
+
+  ripple
+
+  crew
+
+  speak
+
+  rule'
+bip_39_word_space_0:
+- chunk
+- trophy
+- ripple
+- oyster
+- jewel
+- ripple
+- crew
+- speak
+- rule
+- subject
+- regret
+- ask
+bip_39_word_space_1: chunk
+bip_39_word_space_10: chunk trophy ripple oyster jewel ripple crew speak rule subject
+bip_39_word_space_11: chunk trophy ripple oyster jewel ripple crew speak rule subject
+  regret
+bip_39_word_space_12: chunk trophy ripple oyster jewel ripple crew speak rule subject
+  regret ask
+bip_39_word_space_2: chunk trophy
+bip_39_word_space_3: chunk trophy ripple
+bip_39_word_space_4: chunk trophy ripple oyster
+bip_39_word_space_5: chunk trophy ripple oyster jewel
+bip_39_word_space_6: chunk trophy ripple oyster jewel ripple
+bip_39_word_space_7: chunk trophy ripple oyster jewel ripple crew
+bip_39_word_space_8: chunk trophy ripple oyster jewel ripple crew speak
+bip_39_word_space_9: chunk trophy ripple oyster jewel ripple crew speak rule
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

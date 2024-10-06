@@ -1,3 +1,187 @@
+bip_39_word_new_br1: blouse
+bip_39_word_new_br10: blouse<br>repair<br>special<br>icon<br>claim<br>identify<br>tooth<br>magnet<br>subject<br>squeeze
+bip_39_word_new_br11: blouse<br>repair<br>special<br>icon<br>claim<br>identify<br>tooth<br>magnet<br>subject<br>squeeze<br>interest
+bip_39_word_new_br12: blouse<br>repair<br>special<br>icon<br>claim<br>identify<br>tooth<br>magnet<br>subject<br>squeeze<br>interest<br>also
+bip_39_word_new_br2: blouse<br>repair
+bip_39_word_new_br3: blouse<br>repair<br>special
+bip_39_word_new_br4: blouse<br>repair<br>special<br>icon
+bip_39_word_new_br5: blouse<br>repair<br>special<br>icon<br>claim
+bip_39_word_new_br6: blouse<br>repair<br>special<br>icon<br>claim<br>identify
+bip_39_word_new_br7: blouse<br>repair<br>special<br>icon<br>claim<br>identify<br>tooth
+bip_39_word_new_br8: blouse<br>repair<br>special<br>icon<br>claim<br>identify<br>tooth<br>magnet
+bip_39_word_new_br9: blouse<br>repair<br>special<br>icon<br>claim<br>identify<br>tooth<br>magnet<br>subject
+bip_39_word_new_line1: blouse
+bip_39_word_new_line10: 'blouse
+
+  repair
+
+  special
+
+  icon
+
+  claim
+
+  identify
+
+  tooth
+
+  magnet
+
+  subject
+
+  squeeze'
+bip_39_word_new_line11: 'blouse
+
+  repair
+
+  special
+
+  icon
+
+  claim
+
+  identify
+
+  tooth
+
+  magnet
+
+  subject
+
+  squeeze
+
+  interest'
+bip_39_word_new_line12: 'blouse
+
+  repair
+
+  special
+
+  icon
+
+  claim
+
+  identify
+
+  tooth
+
+  magnet
+
+  subject
+
+  squeeze
+
+  interest
+
+  also'
+bip_39_word_new_line2: 'blouse
+
+  repair'
+bip_39_word_new_line3: 'blouse
+
+  repair
+
+  special'
+bip_39_word_new_line4: 'blouse
+
+  repair
+
+  special
+
+  icon'
+bip_39_word_new_line5: 'blouse
+
+  repair
+
+  special
+
+  icon
+
+  claim'
+bip_39_word_new_line6: 'blouse
+
+  repair
+
+  special
+
+  icon
+
+  claim
+
+  identify'
+bip_39_word_new_line7: 'blouse
+
+  repair
+
+  special
+
+  icon
+
+  claim
+
+  identify
+
+  tooth'
+bip_39_word_new_line8: 'blouse
+
+  repair
+
+  special
+
+  icon
+
+  claim
+
+  identify
+
+  tooth
+
+  magnet'
+bip_39_word_new_line9: 'blouse
+
+  repair
+
+  special
+
+  icon
+
+  claim
+
+  identify
+
+  tooth
+
+  magnet
+
+  subject'
+bip_39_word_space_0:
+- blouse
+- repair
+- special
+- icon
+- claim
+- identify
+- tooth
+- magnet
+- subject
+- squeeze
+- interest
+- also
+bip_39_word_space_1: blouse
+bip_39_word_space_10: blouse repair special icon claim identify tooth magnet subject
+  squeeze
+bip_39_word_space_11: blouse repair special icon claim identify tooth magnet subject
+  squeeze interest
+bip_39_word_space_12: blouse repair special icon claim identify tooth magnet subject
+  squeeze interest also
+bip_39_word_space_2: blouse repair
+bip_39_word_space_3: blouse repair special
+bip_39_word_space_4: blouse repair special icon
+bip_39_word_space_5: blouse repair special icon claim
+bip_39_word_space_6: blouse repair special icon claim identify
+bip_39_word_space_7: blouse repair special icon claim identify tooth
+bip_39_word_space_8: blouse repair special icon claim identify tooth magnet
+bip_39_word_space_9: blouse repair special icon claim identify tooth magnet subject
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

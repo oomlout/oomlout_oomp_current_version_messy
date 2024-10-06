@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: all orange
+  * bip 39 word 3: all orange foot
+  * bip 39 word: all orange foot wheat myself glance trigger cook feed adapt arrange announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | all |  
+| bip_39_word_new_br10 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt |  
+| bip_39_word_new_br11 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt<br>arrange |  
+| bip_39_word_new_br12 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed<br>adapt<br>arrange<br>announce |  
+| bip_39_word_new_br2 | all<br>orange |  
+| bip_39_word_new_br3 | all<br>orange<br>foot |  
+| bip_39_word_new_br4 | all<br>orange<br>foot<br>wheat |  
+| bip_39_word_new_br5 | all<br>orange<br>foot<br>wheat<br>myself |  
+| bip_39_word_new_br6 | all<br>orange<br>foot<br>wheat<br>myself<br>glance |  
+| bip_39_word_new_br7 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger |  
+| bip_39_word_new_br8 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook |  
+| bip_39_word_new_br9 | all<br>orange<br>foot<br>wheat<br>myself<br>glance<br>trigger<br>cook<br>feed |  
+| bip_39_word_new_line1 | all |  
+| bip_39_word_new_line10 | all
+orange
+foot
+wheat
+myself
+glance
+trigger
+cook
+feed
+adapt |  
+| bip_39_word_new_line11 | all
+orange
+foot
+wheat
+myself
+glance
+trigger
+cook
+feed
+adapt
+arrange |  
+| bip_39_word_new_line12 | all
+orange
+foot
+wheat
+myself
+glance
+trigger
+cook
+feed
+adapt
+arrange
+announce |  
+| bip_39_word_new_line2 | all
+orange |  
+| bip_39_word_new_line3 | all
+orange
+foot |  
+| bip_39_word_new_line4 | all
+orange
+foot
+wheat |  
+| bip_39_word_new_line5 | all
+orange
+foot
+wheat
+myself |  
+| bip_39_word_new_line6 | all
+orange
+foot
+wheat
+myself
+glance |  
+| bip_39_word_new_line7 | all
+orange
+foot
+wheat
+myself
+glance
+trigger |  
+| bip_39_word_new_line8 | all
+orange
+foot
+wheat
+myself
+glance
+trigger
+cook |  
+| bip_39_word_new_line9 | all
+orange
+foot
+wheat
+myself
+glance
+trigger
+cook
+feed |  
+| bip_39_word_space_0 | ['all', 'orange', 'foot', 'wheat', 'myself', 'glance', 'trigger', 'cook', 'feed', 'adapt', 'arrange', 'announce'] |  
+| bip_39_word_space_1 | all |  
+| bip_39_word_space_10 | all orange foot wheat myself glance trigger cook feed adapt |  
+| bip_39_word_space_11 | all orange foot wheat myself glance trigger cook feed adapt arrange |  
+| bip_39_word_space_12 | all orange foot wheat myself glance trigger cook feed adapt arrange announce |  
+| bip_39_word_space_2 | all orange |  
+| bip_39_word_space_3 | all orange foot |  
+| bip_39_word_space_4 | all orange foot wheat |  
+| bip_39_word_space_5 | all orange foot wheat myself |  
+| bip_39_word_space_6 | all orange foot wheat myself glance |  
+| bip_39_word_space_7 | all orange foot wheat myself glance trigger |  
+| bip_39_word_space_8 | all orange foot wheat myself glance trigger cook |  
+| bip_39_word_space_9 | all orange foot wheat myself glance trigger cook feed |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

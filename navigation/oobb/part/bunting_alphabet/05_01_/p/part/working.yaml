@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hat
+bip_39_word_new_br10: hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple
+bip_39_word_new_br11: hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple<br>lobster
+bip_39_word_new_br12: hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth<br>maple<br>lobster<br>aerobic
+bip_39_word_new_br2: hat<br>race
+bip_39_word_new_br3: hat<br>race<br>version
+bip_39_word_new_br4: hat<br>race<br>version<br>tackle
+bip_39_word_new_br5: hat<br>race<br>version<br>tackle<br>drama
+bip_39_word_new_br6: hat<br>race<br>version<br>tackle<br>drama<br>canyon
+bip_39_word_new_br7: hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady
+bip_39_word_new_br8: hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana
+bip_39_word_new_br9: hat<br>race<br>version<br>tackle<br>drama<br>canyon<br>lady<br>banana<br>earth
+bip_39_word_new_line1: hat
+bip_39_word_new_line10: 'hat
+
+  race
+
+  version
+
+  tackle
+
+  drama
+
+  canyon
+
+  lady
+
+  banana
+
+  earth
+
+  maple'
+bip_39_word_new_line11: 'hat
+
+  race
+
+  version
+
+  tackle
+
+  drama
+
+  canyon
+
+  lady
+
+  banana
+
+  earth
+
+  maple
+
+  lobster'
+bip_39_word_new_line12: 'hat
+
+  race
+
+  version
+
+  tackle
+
+  drama
+
+  canyon
+
+  lady
+
+  banana
+
+  earth
+
+  maple
+
+  lobster
+
+  aerobic'
+bip_39_word_new_line2: 'hat
+
+  race'
+bip_39_word_new_line3: 'hat
+
+  race
+
+  version'
+bip_39_word_new_line4: 'hat
+
+  race
+
+  version
+
+  tackle'
+bip_39_word_new_line5: 'hat
+
+  race
+
+  version
+
+  tackle
+
+  drama'
+bip_39_word_new_line6: 'hat
+
+  race
+
+  version
+
+  tackle
+
+  drama
+
+  canyon'
+bip_39_word_new_line7: 'hat
+
+  race
+
+  version
+
+  tackle
+
+  drama
+
+  canyon
+
+  lady'
+bip_39_word_new_line8: 'hat
+
+  race
+
+  version
+
+  tackle
+
+  drama
+
+  canyon
+
+  lady
+
+  banana'
+bip_39_word_new_line9: 'hat
+
+  race
+
+  version
+
+  tackle
+
+  drama
+
+  canyon
+
+  lady
+
+  banana
+
+  earth'
+bip_39_word_space_0:
+- hat
+- race
+- version
+- tackle
+- drama
+- canyon
+- lady
+- banana
+- earth
+- maple
+- lobster
+- aerobic
+bip_39_word_space_1: hat
+bip_39_word_space_10: hat race version tackle drama canyon lady banana earth maple
+bip_39_word_space_11: hat race version tackle drama canyon lady banana earth maple
+  lobster
+bip_39_word_space_12: hat race version tackle drama canyon lady banana earth maple
+  lobster aerobic
+bip_39_word_space_2: hat race
+bip_39_word_space_3: hat race version
+bip_39_word_space_4: hat race version tackle
+bip_39_word_space_5: hat race version tackle drama
+bip_39_word_space_6: hat race version tackle drama canyon
+bip_39_word_space_7: hat race version tackle drama canyon lady
+bip_39_word_space_8: hat race version tackle drama canyon lady banana
+bip_39_word_space_9: hat race version tackle drama canyon lady banana earth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

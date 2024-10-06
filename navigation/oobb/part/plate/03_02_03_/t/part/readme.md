@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: t
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: can tongue
+  * bip 39 word 3: can tongue rebuild
+  * bip 39 word: can tongue rebuild certain one opinion beyond belt rate silk deposit arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | can |  
+| bip_39_word_new_br10 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion<br>beyond<br>belt<br>rate<br>silk |  
+| bip_39_word_new_br11 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion<br>beyond<br>belt<br>rate<br>silk<br>deposit |  
+| bip_39_word_new_br12 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion<br>beyond<br>belt<br>rate<br>silk<br>deposit<br>arrest |  
+| bip_39_word_new_br2 | can<br>tongue |  
+| bip_39_word_new_br3 | can<br>tongue<br>rebuild |  
+| bip_39_word_new_br4 | can<br>tongue<br>rebuild<br>certain |  
+| bip_39_word_new_br5 | can<br>tongue<br>rebuild<br>certain<br>one |  
+| bip_39_word_new_br6 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion |  
+| bip_39_word_new_br7 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion<br>beyond |  
+| bip_39_word_new_br8 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion<br>beyond<br>belt |  
+| bip_39_word_new_br9 | can<br>tongue<br>rebuild<br>certain<br>one<br>opinion<br>beyond<br>belt<br>rate |  
+| bip_39_word_new_line1 | can |  
+| bip_39_word_new_line10 | can
+tongue
+rebuild
+certain
+one
+opinion
+beyond
+belt
+rate
+silk |  
+| bip_39_word_new_line11 | can
+tongue
+rebuild
+certain
+one
+opinion
+beyond
+belt
+rate
+silk
+deposit |  
+| bip_39_word_new_line12 | can
+tongue
+rebuild
+certain
+one
+opinion
+beyond
+belt
+rate
+silk
+deposit
+arrest |  
+| bip_39_word_new_line2 | can
+tongue |  
+| bip_39_word_new_line3 | can
+tongue
+rebuild |  
+| bip_39_word_new_line4 | can
+tongue
+rebuild
+certain |  
+| bip_39_word_new_line5 | can
+tongue
+rebuild
+certain
+one |  
+| bip_39_word_new_line6 | can
+tongue
+rebuild
+certain
+one
+opinion |  
+| bip_39_word_new_line7 | can
+tongue
+rebuild
+certain
+one
+opinion
+beyond |  
+| bip_39_word_new_line8 | can
+tongue
+rebuild
+certain
+one
+opinion
+beyond
+belt |  
+| bip_39_word_new_line9 | can
+tongue
+rebuild
+certain
+one
+opinion
+beyond
+belt
+rate |  
+| bip_39_word_space_0 | ['can', 'tongue', 'rebuild', 'certain', 'one', 'opinion', 'beyond', 'belt', 'rate', 'silk', 'deposit', 'arrest'] |  
+| bip_39_word_space_1 | can |  
+| bip_39_word_space_10 | can tongue rebuild certain one opinion beyond belt rate silk |  
+| bip_39_word_space_11 | can tongue rebuild certain one opinion beyond belt rate silk deposit |  
+| bip_39_word_space_12 | can tongue rebuild certain one opinion beyond belt rate silk deposit arrest |  
+| bip_39_word_space_2 | can tongue |  
+| bip_39_word_space_3 | can tongue rebuild |  
+| bip_39_word_space_4 | can tongue rebuild certain |  
+| bip_39_word_space_5 | can tongue rebuild certain one |  
+| bip_39_word_space_6 | can tongue rebuild certain one opinion |  
+| bip_39_word_space_7 | can tongue rebuild certain one opinion beyond |  
+| bip_39_word_space_8 | can tongue rebuild certain one opinion beyond belt |  
+| bip_39_word_space_9 | can tongue rebuild certain one opinion beyond belt rate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

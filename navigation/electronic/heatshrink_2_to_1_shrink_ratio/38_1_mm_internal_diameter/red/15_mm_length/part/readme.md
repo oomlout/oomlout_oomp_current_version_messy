@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sport style
+  * bip 39 word 3: sport style scout
+  * bip 39 word: sport style scout involve act embark benefit believe curve liberty toe agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sport |  
+| bip_39_word_new_br10 | sport<br>style<br>scout<br>involve<br>act<br>embark<br>benefit<br>believe<br>curve<br>liberty |  
+| bip_39_word_new_br11 | sport<br>style<br>scout<br>involve<br>act<br>embark<br>benefit<br>believe<br>curve<br>liberty<br>toe |  
+| bip_39_word_new_br12 | sport<br>style<br>scout<br>involve<br>act<br>embark<br>benefit<br>believe<br>curve<br>liberty<br>toe<br>agree |  
+| bip_39_word_new_br2 | sport<br>style |  
+| bip_39_word_new_br3 | sport<br>style<br>scout |  
+| bip_39_word_new_br4 | sport<br>style<br>scout<br>involve |  
+| bip_39_word_new_br5 | sport<br>style<br>scout<br>involve<br>act |  
+| bip_39_word_new_br6 | sport<br>style<br>scout<br>involve<br>act<br>embark |  
+| bip_39_word_new_br7 | sport<br>style<br>scout<br>involve<br>act<br>embark<br>benefit |  
+| bip_39_word_new_br8 | sport<br>style<br>scout<br>involve<br>act<br>embark<br>benefit<br>believe |  
+| bip_39_word_new_br9 | sport<br>style<br>scout<br>involve<br>act<br>embark<br>benefit<br>believe<br>curve |  
+| bip_39_word_new_line1 | sport |  
+| bip_39_word_new_line10 | sport
+style
+scout
+involve
+act
+embark
+benefit
+believe
+curve
+liberty |  
+| bip_39_word_new_line11 | sport
+style
+scout
+involve
+act
+embark
+benefit
+believe
+curve
+liberty
+toe |  
+| bip_39_word_new_line12 | sport
+style
+scout
+involve
+act
+embark
+benefit
+believe
+curve
+liberty
+toe
+agree |  
+| bip_39_word_new_line2 | sport
+style |  
+| bip_39_word_new_line3 | sport
+style
+scout |  
+| bip_39_word_new_line4 | sport
+style
+scout
+involve |  
+| bip_39_word_new_line5 | sport
+style
+scout
+involve
+act |  
+| bip_39_word_new_line6 | sport
+style
+scout
+involve
+act
+embark |  
+| bip_39_word_new_line7 | sport
+style
+scout
+involve
+act
+embark
+benefit |  
+| bip_39_word_new_line8 | sport
+style
+scout
+involve
+act
+embark
+benefit
+believe |  
+| bip_39_word_new_line9 | sport
+style
+scout
+involve
+act
+embark
+benefit
+believe
+curve |  
+| bip_39_word_space_0 | ['sport', 'style', 'scout', 'involve', 'act', 'embark', 'benefit', 'believe', 'curve', 'liberty', 'toe', 'agree'] |  
+| bip_39_word_space_1 | sport |  
+| bip_39_word_space_10 | sport style scout involve act embark benefit believe curve liberty |  
+| bip_39_word_space_11 | sport style scout involve act embark benefit believe curve liberty toe |  
+| bip_39_word_space_12 | sport style scout involve act embark benefit believe curve liberty toe agree |  
+| bip_39_word_space_2 | sport style |  
+| bip_39_word_space_3 | sport style scout |  
+| bip_39_word_space_4 | sport style scout involve |  
+| bip_39_word_space_5 | sport style scout involve act |  
+| bip_39_word_space_6 | sport style scout involve act embark |  
+| bip_39_word_space_7 | sport style scout involve act embark benefit |  
+| bip_39_word_space_8 | sport style scout involve act embark benefit believe |  
+| bip_39_word_space_9 | sport style scout involve act embark benefit believe curve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

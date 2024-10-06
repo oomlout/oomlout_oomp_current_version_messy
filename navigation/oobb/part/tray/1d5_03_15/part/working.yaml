@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sweet
+bip_39_word_new_br10: sweet<br>test<br>paddle<br>ceiling<br>define<br>inmate<br>program<br>era<br>law<br>trust
+bip_39_word_new_br11: sweet<br>test<br>paddle<br>ceiling<br>define<br>inmate<br>program<br>era<br>law<br>trust<br>plunge
+bip_39_word_new_br12: sweet<br>test<br>paddle<br>ceiling<br>define<br>inmate<br>program<br>era<br>law<br>trust<br>plunge<br>absurd
+bip_39_word_new_br2: sweet<br>test
+bip_39_word_new_br3: sweet<br>test<br>paddle
+bip_39_word_new_br4: sweet<br>test<br>paddle<br>ceiling
+bip_39_word_new_br5: sweet<br>test<br>paddle<br>ceiling<br>define
+bip_39_word_new_br6: sweet<br>test<br>paddle<br>ceiling<br>define<br>inmate
+bip_39_word_new_br7: sweet<br>test<br>paddle<br>ceiling<br>define<br>inmate<br>program
+bip_39_word_new_br8: sweet<br>test<br>paddle<br>ceiling<br>define<br>inmate<br>program<br>era
+bip_39_word_new_br9: sweet<br>test<br>paddle<br>ceiling<br>define<br>inmate<br>program<br>era<br>law
+bip_39_word_new_line1: sweet
+bip_39_word_new_line10: 'sweet
+
+  test
+
+  paddle
+
+  ceiling
+
+  define
+
+  inmate
+
+  program
+
+  era
+
+  law
+
+  trust'
+bip_39_word_new_line11: 'sweet
+
+  test
+
+  paddle
+
+  ceiling
+
+  define
+
+  inmate
+
+  program
+
+  era
+
+  law
+
+  trust
+
+  plunge'
+bip_39_word_new_line12: 'sweet
+
+  test
+
+  paddle
+
+  ceiling
+
+  define
+
+  inmate
+
+  program
+
+  era
+
+  law
+
+  trust
+
+  plunge
+
+  absurd'
+bip_39_word_new_line2: 'sweet
+
+  test'
+bip_39_word_new_line3: 'sweet
+
+  test
+
+  paddle'
+bip_39_word_new_line4: 'sweet
+
+  test
+
+  paddle
+
+  ceiling'
+bip_39_word_new_line5: 'sweet
+
+  test
+
+  paddle
+
+  ceiling
+
+  define'
+bip_39_word_new_line6: 'sweet
+
+  test
+
+  paddle
+
+  ceiling
+
+  define
+
+  inmate'
+bip_39_word_new_line7: 'sweet
+
+  test
+
+  paddle
+
+  ceiling
+
+  define
+
+  inmate
+
+  program'
+bip_39_word_new_line8: 'sweet
+
+  test
+
+  paddle
+
+  ceiling
+
+  define
+
+  inmate
+
+  program
+
+  era'
+bip_39_word_new_line9: 'sweet
+
+  test
+
+  paddle
+
+  ceiling
+
+  define
+
+  inmate
+
+  program
+
+  era
+
+  law'
+bip_39_word_space_0:
+- sweet
+- test
+- paddle
+- ceiling
+- define
+- inmate
+- program
+- era
+- law
+- trust
+- plunge
+- absurd
+bip_39_word_space_1: sweet
+bip_39_word_space_10: sweet test paddle ceiling define inmate program era law trust
+bip_39_word_space_11: sweet test paddle ceiling define inmate program era law trust
+  plunge
+bip_39_word_space_12: sweet test paddle ceiling define inmate program era law trust
+  plunge absurd
+bip_39_word_space_2: sweet test
+bip_39_word_space_3: sweet test paddle
+bip_39_word_space_4: sweet test paddle ceiling
+bip_39_word_space_5: sweet test paddle ceiling define
+bip_39_word_space_6: sweet test paddle ceiling define inmate
+bip_39_word_space_7: sweet test paddle ceiling define inmate program
+bip_39_word_space_8: sweet test paddle ceiling define inmate program era
+bip_39_word_space_9: sweet test paddle ceiling define inmate program era law
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

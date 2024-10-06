@@ -1,3 +1,187 @@
+bip_39_word_new_br1: desk
+bip_39_word_new_br10: desk<br>creek<br>release<br>disagree<br>dress<br>order<br>blame<br>industry<br>arrange<br>alley
+bip_39_word_new_br11: desk<br>creek<br>release<br>disagree<br>dress<br>order<br>blame<br>industry<br>arrange<br>alley<br>process
+bip_39_word_new_br12: desk<br>creek<br>release<br>disagree<br>dress<br>order<br>blame<br>industry<br>arrange<br>alley<br>process<br>asthma
+bip_39_word_new_br2: desk<br>creek
+bip_39_word_new_br3: desk<br>creek<br>release
+bip_39_word_new_br4: desk<br>creek<br>release<br>disagree
+bip_39_word_new_br5: desk<br>creek<br>release<br>disagree<br>dress
+bip_39_word_new_br6: desk<br>creek<br>release<br>disagree<br>dress<br>order
+bip_39_word_new_br7: desk<br>creek<br>release<br>disagree<br>dress<br>order<br>blame
+bip_39_word_new_br8: desk<br>creek<br>release<br>disagree<br>dress<br>order<br>blame<br>industry
+bip_39_word_new_br9: desk<br>creek<br>release<br>disagree<br>dress<br>order<br>blame<br>industry<br>arrange
+bip_39_word_new_line1: desk
+bip_39_word_new_line10: 'desk
+
+  creek
+
+  release
+
+  disagree
+
+  dress
+
+  order
+
+  blame
+
+  industry
+
+  arrange
+
+  alley'
+bip_39_word_new_line11: 'desk
+
+  creek
+
+  release
+
+  disagree
+
+  dress
+
+  order
+
+  blame
+
+  industry
+
+  arrange
+
+  alley
+
+  process'
+bip_39_word_new_line12: 'desk
+
+  creek
+
+  release
+
+  disagree
+
+  dress
+
+  order
+
+  blame
+
+  industry
+
+  arrange
+
+  alley
+
+  process
+
+  asthma'
+bip_39_word_new_line2: 'desk
+
+  creek'
+bip_39_word_new_line3: 'desk
+
+  creek
+
+  release'
+bip_39_word_new_line4: 'desk
+
+  creek
+
+  release
+
+  disagree'
+bip_39_word_new_line5: 'desk
+
+  creek
+
+  release
+
+  disagree
+
+  dress'
+bip_39_word_new_line6: 'desk
+
+  creek
+
+  release
+
+  disagree
+
+  dress
+
+  order'
+bip_39_word_new_line7: 'desk
+
+  creek
+
+  release
+
+  disagree
+
+  dress
+
+  order
+
+  blame'
+bip_39_word_new_line8: 'desk
+
+  creek
+
+  release
+
+  disagree
+
+  dress
+
+  order
+
+  blame
+
+  industry'
+bip_39_word_new_line9: 'desk
+
+  creek
+
+  release
+
+  disagree
+
+  dress
+
+  order
+
+  blame
+
+  industry
+
+  arrange'
+bip_39_word_space_0:
+- desk
+- creek
+- release
+- disagree
+- dress
+- order
+- blame
+- industry
+- arrange
+- alley
+- process
+- asthma
+bip_39_word_space_1: desk
+bip_39_word_space_10: desk creek release disagree dress order blame industry arrange
+  alley
+bip_39_word_space_11: desk creek release disagree dress order blame industry arrange
+  alley process
+bip_39_word_space_12: desk creek release disagree dress order blame industry arrange
+  alley process asthma
+bip_39_word_space_2: desk creek
+bip_39_word_space_3: desk creek release
+bip_39_word_space_4: desk creek release disagree
+bip_39_word_space_5: desk creek release disagree dress
+bip_39_word_space_6: desk creek release disagree dress order
+bip_39_word_space_7: desk creek release disagree dress order blame
+bip_39_word_space_8: desk creek release disagree dress order blame industry
+bip_39_word_space_9: desk creek release disagree dress order blame industry arrange
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

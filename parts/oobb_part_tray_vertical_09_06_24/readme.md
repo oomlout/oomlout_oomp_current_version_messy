@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plastic ranch
+  * bip 39 word 3: plastic ranch attitude
+  * bip 39 word: plastic ranch attitude rose fruit immune quit gather nation trick vacuum add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plastic |  
+| bip_39_word_new_br10 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune<br>quit<br>gather<br>nation<br>trick |  
+| bip_39_word_new_br11 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune<br>quit<br>gather<br>nation<br>trick<br>vacuum |  
+| bip_39_word_new_br12 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune<br>quit<br>gather<br>nation<br>trick<br>vacuum<br>add |  
+| bip_39_word_new_br2 | plastic<br>ranch |  
+| bip_39_word_new_br3 | plastic<br>ranch<br>attitude |  
+| bip_39_word_new_br4 | plastic<br>ranch<br>attitude<br>rose |  
+| bip_39_word_new_br5 | plastic<br>ranch<br>attitude<br>rose<br>fruit |  
+| bip_39_word_new_br6 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune |  
+| bip_39_word_new_br7 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune<br>quit |  
+| bip_39_word_new_br8 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune<br>quit<br>gather |  
+| bip_39_word_new_br9 | plastic<br>ranch<br>attitude<br>rose<br>fruit<br>immune<br>quit<br>gather<br>nation |  
+| bip_39_word_new_line1 | plastic |  
+| bip_39_word_new_line10 | plastic
+ranch
+attitude
+rose
+fruit
+immune
+quit
+gather
+nation
+trick |  
+| bip_39_word_new_line11 | plastic
+ranch
+attitude
+rose
+fruit
+immune
+quit
+gather
+nation
+trick
+vacuum |  
+| bip_39_word_new_line12 | plastic
+ranch
+attitude
+rose
+fruit
+immune
+quit
+gather
+nation
+trick
+vacuum
+add |  
+| bip_39_word_new_line2 | plastic
+ranch |  
+| bip_39_word_new_line3 | plastic
+ranch
+attitude |  
+| bip_39_word_new_line4 | plastic
+ranch
+attitude
+rose |  
+| bip_39_word_new_line5 | plastic
+ranch
+attitude
+rose
+fruit |  
+| bip_39_word_new_line6 | plastic
+ranch
+attitude
+rose
+fruit
+immune |  
+| bip_39_word_new_line7 | plastic
+ranch
+attitude
+rose
+fruit
+immune
+quit |  
+| bip_39_word_new_line8 | plastic
+ranch
+attitude
+rose
+fruit
+immune
+quit
+gather |  
+| bip_39_word_new_line9 | plastic
+ranch
+attitude
+rose
+fruit
+immune
+quit
+gather
+nation |  
+| bip_39_word_space_0 | ['plastic', 'ranch', 'attitude', 'rose', 'fruit', 'immune', 'quit', 'gather', 'nation', 'trick', 'vacuum', 'add'] |  
+| bip_39_word_space_1 | plastic |  
+| bip_39_word_space_10 | plastic ranch attitude rose fruit immune quit gather nation trick |  
+| bip_39_word_space_11 | plastic ranch attitude rose fruit immune quit gather nation trick vacuum |  
+| bip_39_word_space_12 | plastic ranch attitude rose fruit immune quit gather nation trick vacuum add |  
+| bip_39_word_space_2 | plastic ranch |  
+| bip_39_word_space_3 | plastic ranch attitude |  
+| bip_39_word_space_4 | plastic ranch attitude rose |  
+| bip_39_word_space_5 | plastic ranch attitude rose fruit |  
+| bip_39_word_space_6 | plastic ranch attitude rose fruit immune |  
+| bip_39_word_space_7 | plastic ranch attitude rose fruit immune quit |  
+| bip_39_word_space_8 | plastic ranch attitude rose fruit immune quit gather |  
+| bip_39_word_space_9 | plastic ranch attitude rose fruit immune quit gather nation |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

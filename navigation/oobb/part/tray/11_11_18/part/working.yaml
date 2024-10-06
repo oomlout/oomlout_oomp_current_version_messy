@@ -1,3 +1,185 @@
+bip_39_word_new_br1: creek
+bip_39_word_new_br10: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun
+bip_39_word_new_br11: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun<br>wheat
+bip_39_word_new_br12: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist<br>sun<br>wheat<br>artefact
+bip_39_word_new_br2: creek<br>solar
+bip_39_word_new_br3: creek<br>solar<br>gadget
+bip_39_word_new_br4: creek<br>solar<br>gadget<br>mixture
+bip_39_word_new_br5: creek<br>solar<br>gadget<br>mixture<br>gossip
+bip_39_word_new_br6: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg
+bip_39_word_new_br7: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute
+bip_39_word_new_br8: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want
+bip_39_word_new_br9: creek<br>solar<br>gadget<br>mixture<br>gossip<br>egg<br>cute<br>want<br>artist
+bip_39_word_new_line1: creek
+bip_39_word_new_line10: 'creek
+
+  solar
+
+  gadget
+
+  mixture
+
+  gossip
+
+  egg
+
+  cute
+
+  want
+
+  artist
+
+  sun'
+bip_39_word_new_line11: 'creek
+
+  solar
+
+  gadget
+
+  mixture
+
+  gossip
+
+  egg
+
+  cute
+
+  want
+
+  artist
+
+  sun
+
+  wheat'
+bip_39_word_new_line12: 'creek
+
+  solar
+
+  gadget
+
+  mixture
+
+  gossip
+
+  egg
+
+  cute
+
+  want
+
+  artist
+
+  sun
+
+  wheat
+
+  artefact'
+bip_39_word_new_line2: 'creek
+
+  solar'
+bip_39_word_new_line3: 'creek
+
+  solar
+
+  gadget'
+bip_39_word_new_line4: 'creek
+
+  solar
+
+  gadget
+
+  mixture'
+bip_39_word_new_line5: 'creek
+
+  solar
+
+  gadget
+
+  mixture
+
+  gossip'
+bip_39_word_new_line6: 'creek
+
+  solar
+
+  gadget
+
+  mixture
+
+  gossip
+
+  egg'
+bip_39_word_new_line7: 'creek
+
+  solar
+
+  gadget
+
+  mixture
+
+  gossip
+
+  egg
+
+  cute'
+bip_39_word_new_line8: 'creek
+
+  solar
+
+  gadget
+
+  mixture
+
+  gossip
+
+  egg
+
+  cute
+
+  want'
+bip_39_word_new_line9: 'creek
+
+  solar
+
+  gadget
+
+  mixture
+
+  gossip
+
+  egg
+
+  cute
+
+  want
+
+  artist'
+bip_39_word_space_0:
+- creek
+- solar
+- gadget
+- mixture
+- gossip
+- egg
+- cute
+- want
+- artist
+- sun
+- wheat
+- artefact
+bip_39_word_space_1: creek
+bip_39_word_space_10: creek solar gadget mixture gossip egg cute want artist sun
+bip_39_word_space_11: creek solar gadget mixture gossip egg cute want artist sun wheat
+bip_39_word_space_12: creek solar gadget mixture gossip egg cute want artist sun wheat
+  artefact
+bip_39_word_space_2: creek solar
+bip_39_word_space_3: creek solar gadget
+bip_39_word_space_4: creek solar gadget mixture
+bip_39_word_space_5: creek solar gadget mixture gossip
+bip_39_word_space_6: creek solar gadget mixture gossip egg
+bip_39_word_space_7: creek solar gadget mixture gossip egg cute
+bip_39_word_space_8: creek solar gadget mixture gossip egg cute want
+bip_39_word_space_9: creek solar gadget mixture gossip egg cute want artist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

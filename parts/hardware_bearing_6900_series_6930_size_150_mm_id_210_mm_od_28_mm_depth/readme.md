@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: salt second
+  * bip 39 word 3: salt second upset
+  * bip 39 word: salt second upset term jar forest barely divide kiwi parrot lucky arrow
 
 ### other_codes
 * short_code: br6930
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | salt |  
+| bip_39_word_new_br10 | salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide<br>kiwi<br>parrot |  
+| bip_39_word_new_br11 | salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide<br>kiwi<br>parrot<br>lucky |  
+| bip_39_word_new_br12 | salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide<br>kiwi<br>parrot<br>lucky<br>arrow |  
+| bip_39_word_new_br2 | salt<br>second |  
+| bip_39_word_new_br3 | salt<br>second<br>upset |  
+| bip_39_word_new_br4 | salt<br>second<br>upset<br>term |  
+| bip_39_word_new_br5 | salt<br>second<br>upset<br>term<br>jar |  
+| bip_39_word_new_br6 | salt<br>second<br>upset<br>term<br>jar<br>forest |  
+| bip_39_word_new_br7 | salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely |  
+| bip_39_word_new_br8 | salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide |  
+| bip_39_word_new_br9 | salt<br>second<br>upset<br>term<br>jar<br>forest<br>barely<br>divide<br>kiwi |  
+| bip_39_word_new_line1 | salt |  
+| bip_39_word_new_line10 | salt
+second
+upset
+term
+jar
+forest
+barely
+divide
+kiwi
+parrot |  
+| bip_39_word_new_line11 | salt
+second
+upset
+term
+jar
+forest
+barely
+divide
+kiwi
+parrot
+lucky |  
+| bip_39_word_new_line12 | salt
+second
+upset
+term
+jar
+forest
+barely
+divide
+kiwi
+parrot
+lucky
+arrow |  
+| bip_39_word_new_line2 | salt
+second |  
+| bip_39_word_new_line3 | salt
+second
+upset |  
+| bip_39_word_new_line4 | salt
+second
+upset
+term |  
+| bip_39_word_new_line5 | salt
+second
+upset
+term
+jar |  
+| bip_39_word_new_line6 | salt
+second
+upset
+term
+jar
+forest |  
+| bip_39_word_new_line7 | salt
+second
+upset
+term
+jar
+forest
+barely |  
+| bip_39_word_new_line8 | salt
+second
+upset
+term
+jar
+forest
+barely
+divide |  
+| bip_39_word_new_line9 | salt
+second
+upset
+term
+jar
+forest
+barely
+divide
+kiwi |  
+| bip_39_word_space_0 | ['salt', 'second', 'upset', 'term', 'jar', 'forest', 'barely', 'divide', 'kiwi', 'parrot', 'lucky', 'arrow'] |  
+| bip_39_word_space_1 | salt |  
+| bip_39_word_space_10 | salt second upset term jar forest barely divide kiwi parrot |  
+| bip_39_word_space_11 | salt second upset term jar forest barely divide kiwi parrot lucky |  
+| bip_39_word_space_12 | salt second upset term jar forest barely divide kiwi parrot lucky arrow |  
+| bip_39_word_space_2 | salt second |  
+| bip_39_word_space_3 | salt second upset |  
+| bip_39_word_space_4 | salt second upset term |  
+| bip_39_word_space_5 | salt second upset term jar |  
+| bip_39_word_space_6 | salt second upset term jar forest |  
+| bip_39_word_space_7 | salt second upset term jar forest barely |  
+| bip_39_word_space_8 | salt second upset term jar forest barely divide |  
+| bip_39_word_space_9 | salt second upset term jar forest barely divide kiwi |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

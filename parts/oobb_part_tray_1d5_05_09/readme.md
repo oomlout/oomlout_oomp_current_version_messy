@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: across hope
+  * bip 39 word 3: across hope network
+  * bip 39 word: across hope network bounce gauge index blast pyramid beef total raise also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | across |  
+| bip_39_word_new_br10 | across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef<br>total |  
+| bip_39_word_new_br11 | across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef<br>total<br>raise |  
+| bip_39_word_new_br12 | across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef<br>total<br>raise<br>also |  
+| bip_39_word_new_br2 | across<br>hope |  
+| bip_39_word_new_br3 | across<br>hope<br>network |  
+| bip_39_word_new_br4 | across<br>hope<br>network<br>bounce |  
+| bip_39_word_new_br5 | across<br>hope<br>network<br>bounce<br>gauge |  
+| bip_39_word_new_br6 | across<br>hope<br>network<br>bounce<br>gauge<br>index |  
+| bip_39_word_new_br7 | across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast |  
+| bip_39_word_new_br8 | across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid |  
+| bip_39_word_new_br9 | across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef |  
+| bip_39_word_new_line1 | across |  
+| bip_39_word_new_line10 | across
+hope
+network
+bounce
+gauge
+index
+blast
+pyramid
+beef
+total |  
+| bip_39_word_new_line11 | across
+hope
+network
+bounce
+gauge
+index
+blast
+pyramid
+beef
+total
+raise |  
+| bip_39_word_new_line12 | across
+hope
+network
+bounce
+gauge
+index
+blast
+pyramid
+beef
+total
+raise
+also |  
+| bip_39_word_new_line2 | across
+hope |  
+| bip_39_word_new_line3 | across
+hope
+network |  
+| bip_39_word_new_line4 | across
+hope
+network
+bounce |  
+| bip_39_word_new_line5 | across
+hope
+network
+bounce
+gauge |  
+| bip_39_word_new_line6 | across
+hope
+network
+bounce
+gauge
+index |  
+| bip_39_word_new_line7 | across
+hope
+network
+bounce
+gauge
+index
+blast |  
+| bip_39_word_new_line8 | across
+hope
+network
+bounce
+gauge
+index
+blast
+pyramid |  
+| bip_39_word_new_line9 | across
+hope
+network
+bounce
+gauge
+index
+blast
+pyramid
+beef |  
+| bip_39_word_space_0 | ['across', 'hope', 'network', 'bounce', 'gauge', 'index', 'blast', 'pyramid', 'beef', 'total', 'raise', 'also'] |  
+| bip_39_word_space_1 | across |  
+| bip_39_word_space_10 | across hope network bounce gauge index blast pyramid beef total |  
+| bip_39_word_space_11 | across hope network bounce gauge index blast pyramid beef total raise |  
+| bip_39_word_space_12 | across hope network bounce gauge index blast pyramid beef total raise also |  
+| bip_39_word_space_2 | across hope |  
+| bip_39_word_space_3 | across hope network |  
+| bip_39_word_space_4 | across hope network bounce |  
+| bip_39_word_space_5 | across hope network bounce gauge |  
+| bip_39_word_space_6 | across hope network bounce gauge index |  
+| bip_39_word_space_7 | across hope network bounce gauge index blast |  
+| bip_39_word_space_8 | across hope network bounce gauge index blast pyramid |  
+| bip_39_word_space_9 | across hope network bounce gauge index blast pyramid beef |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

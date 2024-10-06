@@ -1,3 +1,187 @@
+bip_39_word_new_br1: myself
+bip_39_word_new_br10: myself<br>grocery<br>follow<br>skin<br>taste<br>juice<br>december<br>celery<br>tiny<br>little
+bip_39_word_new_br11: myself<br>grocery<br>follow<br>skin<br>taste<br>juice<br>december<br>celery<br>tiny<br>little<br>soup
+bip_39_word_new_br12: myself<br>grocery<br>follow<br>skin<br>taste<br>juice<br>december<br>celery<br>tiny<br>little<br>soup<br>alpha
+bip_39_word_new_br2: myself<br>grocery
+bip_39_word_new_br3: myself<br>grocery<br>follow
+bip_39_word_new_br4: myself<br>grocery<br>follow<br>skin
+bip_39_word_new_br5: myself<br>grocery<br>follow<br>skin<br>taste
+bip_39_word_new_br6: myself<br>grocery<br>follow<br>skin<br>taste<br>juice
+bip_39_word_new_br7: myself<br>grocery<br>follow<br>skin<br>taste<br>juice<br>december
+bip_39_word_new_br8: myself<br>grocery<br>follow<br>skin<br>taste<br>juice<br>december<br>celery
+bip_39_word_new_br9: myself<br>grocery<br>follow<br>skin<br>taste<br>juice<br>december<br>celery<br>tiny
+bip_39_word_new_line1: myself
+bip_39_word_new_line10: 'myself
+
+  grocery
+
+  follow
+
+  skin
+
+  taste
+
+  juice
+
+  december
+
+  celery
+
+  tiny
+
+  little'
+bip_39_word_new_line11: 'myself
+
+  grocery
+
+  follow
+
+  skin
+
+  taste
+
+  juice
+
+  december
+
+  celery
+
+  tiny
+
+  little
+
+  soup'
+bip_39_word_new_line12: 'myself
+
+  grocery
+
+  follow
+
+  skin
+
+  taste
+
+  juice
+
+  december
+
+  celery
+
+  tiny
+
+  little
+
+  soup
+
+  alpha'
+bip_39_word_new_line2: 'myself
+
+  grocery'
+bip_39_word_new_line3: 'myself
+
+  grocery
+
+  follow'
+bip_39_word_new_line4: 'myself
+
+  grocery
+
+  follow
+
+  skin'
+bip_39_word_new_line5: 'myself
+
+  grocery
+
+  follow
+
+  skin
+
+  taste'
+bip_39_word_new_line6: 'myself
+
+  grocery
+
+  follow
+
+  skin
+
+  taste
+
+  juice'
+bip_39_word_new_line7: 'myself
+
+  grocery
+
+  follow
+
+  skin
+
+  taste
+
+  juice
+
+  december'
+bip_39_word_new_line8: 'myself
+
+  grocery
+
+  follow
+
+  skin
+
+  taste
+
+  juice
+
+  december
+
+  celery'
+bip_39_word_new_line9: 'myself
+
+  grocery
+
+  follow
+
+  skin
+
+  taste
+
+  juice
+
+  december
+
+  celery
+
+  tiny'
+bip_39_word_space_0:
+- myself
+- grocery
+- follow
+- skin
+- taste
+- juice
+- december
+- celery
+- tiny
+- little
+- soup
+- alpha
+bip_39_word_space_1: myself
+bip_39_word_space_10: myself grocery follow skin taste juice december celery tiny
+  little
+bip_39_word_space_11: myself grocery follow skin taste juice december celery tiny
+  little soup
+bip_39_word_space_12: myself grocery follow skin taste juice december celery tiny
+  little soup alpha
+bip_39_word_space_2: myself grocery
+bip_39_word_space_3: myself grocery follow
+bip_39_word_space_4: myself grocery follow skin
+bip_39_word_space_5: myself grocery follow skin taste
+bip_39_word_space_6: myself grocery follow skin taste juice
+bip_39_word_space_7: myself grocery follow skin taste juice december
+bip_39_word_space_8: myself grocery follow skin taste juice december celery
+bip_39_word_space_9: myself grocery follow skin taste juice december celery tiny
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrestle alert
+  * bip 39 word 3: wrestle alert repeat
+  * bip 39 word: wrestle alert repeat permit unaware wet home tip earth parade loud accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrestle |  
+| bip_39_word_new_br10 | wrestle<br>alert<br>repeat<br>permit<br>unaware<br>wet<br>home<br>tip<br>earth<br>parade |  
+| bip_39_word_new_br11 | wrestle<br>alert<br>repeat<br>permit<br>unaware<br>wet<br>home<br>tip<br>earth<br>parade<br>loud |  
+| bip_39_word_new_br12 | wrestle<br>alert<br>repeat<br>permit<br>unaware<br>wet<br>home<br>tip<br>earth<br>parade<br>loud<br>accident |  
+| bip_39_word_new_br2 | wrestle<br>alert |  
+| bip_39_word_new_br3 | wrestle<br>alert<br>repeat |  
+| bip_39_word_new_br4 | wrestle<br>alert<br>repeat<br>permit |  
+| bip_39_word_new_br5 | wrestle<br>alert<br>repeat<br>permit<br>unaware |  
+| bip_39_word_new_br6 | wrestle<br>alert<br>repeat<br>permit<br>unaware<br>wet |  
+| bip_39_word_new_br7 | wrestle<br>alert<br>repeat<br>permit<br>unaware<br>wet<br>home |  
+| bip_39_word_new_br8 | wrestle<br>alert<br>repeat<br>permit<br>unaware<br>wet<br>home<br>tip |  
+| bip_39_word_new_br9 | wrestle<br>alert<br>repeat<br>permit<br>unaware<br>wet<br>home<br>tip<br>earth |  
+| bip_39_word_new_line1 | wrestle |  
+| bip_39_word_new_line10 | wrestle
+alert
+repeat
+permit
+unaware
+wet
+home
+tip
+earth
+parade |  
+| bip_39_word_new_line11 | wrestle
+alert
+repeat
+permit
+unaware
+wet
+home
+tip
+earth
+parade
+loud |  
+| bip_39_word_new_line12 | wrestle
+alert
+repeat
+permit
+unaware
+wet
+home
+tip
+earth
+parade
+loud
+accident |  
+| bip_39_word_new_line2 | wrestle
+alert |  
+| bip_39_word_new_line3 | wrestle
+alert
+repeat |  
+| bip_39_word_new_line4 | wrestle
+alert
+repeat
+permit |  
+| bip_39_word_new_line5 | wrestle
+alert
+repeat
+permit
+unaware |  
+| bip_39_word_new_line6 | wrestle
+alert
+repeat
+permit
+unaware
+wet |  
+| bip_39_word_new_line7 | wrestle
+alert
+repeat
+permit
+unaware
+wet
+home |  
+| bip_39_word_new_line8 | wrestle
+alert
+repeat
+permit
+unaware
+wet
+home
+tip |  
+| bip_39_word_new_line9 | wrestle
+alert
+repeat
+permit
+unaware
+wet
+home
+tip
+earth |  
+| bip_39_word_space_0 | ['wrestle', 'alert', 'repeat', 'permit', 'unaware', 'wet', 'home', 'tip', 'earth', 'parade', 'loud', 'accident'] |  
+| bip_39_word_space_1 | wrestle |  
+| bip_39_word_space_10 | wrestle alert repeat permit unaware wet home tip earth parade |  
+| bip_39_word_space_11 | wrestle alert repeat permit unaware wet home tip earth parade loud |  
+| bip_39_word_space_12 | wrestle alert repeat permit unaware wet home tip earth parade loud accident |  
+| bip_39_word_space_2 | wrestle alert |  
+| bip_39_word_space_3 | wrestle alert repeat |  
+| bip_39_word_space_4 | wrestle alert repeat permit |  
+| bip_39_word_space_5 | wrestle alert repeat permit unaware |  
+| bip_39_word_space_6 | wrestle alert repeat permit unaware wet |  
+| bip_39_word_space_7 | wrestle alert repeat permit unaware wet home |  
+| bip_39_word_space_8 | wrestle alert repeat permit unaware wet home tip |  
+| bip_39_word_space_9 | wrestle alert repeat permit unaware wet home tip earth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

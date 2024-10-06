@@ -1,3 +1,185 @@
+bip_39_word_new_br1: iron
+bip_39_word_new_br10: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume<br>shop
+bip_39_word_new_br11: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume<br>shop<br>save
+bip_39_word_new_br12: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume<br>shop<br>save<br>alpha
+bip_39_word_new_br2: iron<br>lion
+bip_39_word_new_br3: iron<br>lion<br>impulse
+bip_39_word_new_br4: iron<br>lion<br>impulse<br>giggle
+bip_39_word_new_br5: iron<br>lion<br>impulse<br>giggle<br>hat
+bip_39_word_new_br6: iron<br>lion<br>impulse<br>giggle<br>hat<br>save
+bip_39_word_new_br7: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu
+bip_39_word_new_br8: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird
+bip_39_word_new_br9: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume
+bip_39_word_new_line1: iron
+bip_39_word_new_line10: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird
+
+  volume
+
+  shop'
+bip_39_word_new_line11: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird
+
+  volume
+
+  shop
+
+  save'
+bip_39_word_new_line12: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird
+
+  volume
+
+  shop
+
+  save
+
+  alpha'
+bip_39_word_new_line2: 'iron
+
+  lion'
+bip_39_word_new_line3: 'iron
+
+  lion
+
+  impulse'
+bip_39_word_new_line4: 'iron
+
+  lion
+
+  impulse
+
+  giggle'
+bip_39_word_new_line5: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat'
+bip_39_word_new_line6: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save'
+bip_39_word_new_line7: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu'
+bip_39_word_new_line8: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird'
+bip_39_word_new_line9: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird
+
+  volume'
+bip_39_word_space_0:
+- iron
+- lion
+- impulse
+- giggle
+- hat
+- save
+- menu
+- bird
+- volume
+- shop
+- save
+- alpha
+bip_39_word_space_1: iron
+bip_39_word_space_10: iron lion impulse giggle hat save menu bird volume shop
+bip_39_word_space_11: iron lion impulse giggle hat save menu bird volume shop save
+bip_39_word_space_12: iron lion impulse giggle hat save menu bird volume shop save
+  alpha
+bip_39_word_space_2: iron lion
+bip_39_word_space_3: iron lion impulse
+bip_39_word_space_4: iron lion impulse giggle
+bip_39_word_space_5: iron lion impulse giggle hat
+bip_39_word_space_6: iron lion impulse giggle hat save
+bip_39_word_space_7: iron lion impulse giggle hat save menu
+bip_39_word_space_8: iron lion impulse giggle hat save menu bird
+bip_39_word_space_9: iron lion impulse giggle hat save menu bird volume
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

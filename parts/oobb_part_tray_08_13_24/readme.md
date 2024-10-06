@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: seminar camp
+  * bip 39 word 3: seminar camp tortoise
+  * bip 39 word: seminar camp tortoise mechanic champion deer window oyster ahead coyote glove abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | seminar |  
+| bip_39_word_new_br10 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote |  
+| bip_39_word_new_br11 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote<br>glove |  
+| bip_39_word_new_br12 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead<br>coyote<br>glove<br>abuse |  
+| bip_39_word_new_br2 | seminar<br>camp |  
+| bip_39_word_new_br3 | seminar<br>camp<br>tortoise |  
+| bip_39_word_new_br4 | seminar<br>camp<br>tortoise<br>mechanic |  
+| bip_39_word_new_br5 | seminar<br>camp<br>tortoise<br>mechanic<br>champion |  
+| bip_39_word_new_br6 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer |  
+| bip_39_word_new_br7 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window |  
+| bip_39_word_new_br8 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster |  
+| bip_39_word_new_br9 | seminar<br>camp<br>tortoise<br>mechanic<br>champion<br>deer<br>window<br>oyster<br>ahead |  
+| bip_39_word_new_line1 | seminar |  
+| bip_39_word_new_line10 | seminar
+camp
+tortoise
+mechanic
+champion
+deer
+window
+oyster
+ahead
+coyote |  
+| bip_39_word_new_line11 | seminar
+camp
+tortoise
+mechanic
+champion
+deer
+window
+oyster
+ahead
+coyote
+glove |  
+| bip_39_word_new_line12 | seminar
+camp
+tortoise
+mechanic
+champion
+deer
+window
+oyster
+ahead
+coyote
+glove
+abuse |  
+| bip_39_word_new_line2 | seminar
+camp |  
+| bip_39_word_new_line3 | seminar
+camp
+tortoise |  
+| bip_39_word_new_line4 | seminar
+camp
+tortoise
+mechanic |  
+| bip_39_word_new_line5 | seminar
+camp
+tortoise
+mechanic
+champion |  
+| bip_39_word_new_line6 | seminar
+camp
+tortoise
+mechanic
+champion
+deer |  
+| bip_39_word_new_line7 | seminar
+camp
+tortoise
+mechanic
+champion
+deer
+window |  
+| bip_39_word_new_line8 | seminar
+camp
+tortoise
+mechanic
+champion
+deer
+window
+oyster |  
+| bip_39_word_new_line9 | seminar
+camp
+tortoise
+mechanic
+champion
+deer
+window
+oyster
+ahead |  
+| bip_39_word_space_0 | ['seminar', 'camp', 'tortoise', 'mechanic', 'champion', 'deer', 'window', 'oyster', 'ahead', 'coyote', 'glove', 'abuse'] |  
+| bip_39_word_space_1 | seminar |  
+| bip_39_word_space_10 | seminar camp tortoise mechanic champion deer window oyster ahead coyote |  
+| bip_39_word_space_11 | seminar camp tortoise mechanic champion deer window oyster ahead coyote glove |  
+| bip_39_word_space_12 | seminar camp tortoise mechanic champion deer window oyster ahead coyote glove abuse |  
+| bip_39_word_space_2 | seminar camp |  
+| bip_39_word_space_3 | seminar camp tortoise |  
+| bip_39_word_space_4 | seminar camp tortoise mechanic |  
+| bip_39_word_space_5 | seminar camp tortoise mechanic champion |  
+| bip_39_word_space_6 | seminar camp tortoise mechanic champion deer |  
+| bip_39_word_space_7 | seminar camp tortoise mechanic champion deer window |  
+| bip_39_word_space_8 | seminar camp tortoise mechanic champion deer window oyster |  
+| bip_39_word_space_9 | seminar camp tortoise mechanic champion deer window oyster ahead |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

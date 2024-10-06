@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bubble
+bip_39_word_new_br10: bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee
+bip_39_word_new_br11: bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee<br>garbage
+bip_39_word_new_br12: bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango<br>nominee<br>garbage<br>actor
+bip_39_word_new_br2: bubble<br>item
+bip_39_word_new_br3: bubble<br>item<br>cube
+bip_39_word_new_br4: bubble<br>item<br>cube<br>list
+bip_39_word_new_br5: bubble<br>item<br>cube<br>list<br>attend
+bip_39_word_new_br6: bubble<br>item<br>cube<br>list<br>attend<br>city
+bip_39_word_new_br7: bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate
+bip_39_word_new_br8: bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange
+bip_39_word_new_br9: bubble<br>item<br>cube<br>list<br>attend<br>city<br>imitate<br>exchange<br>mango
+bip_39_word_new_line1: bubble
+bip_39_word_new_line10: 'bubble
+
+  item
+
+  cube
+
+  list
+
+  attend
+
+  city
+
+  imitate
+
+  exchange
+
+  mango
+
+  nominee'
+bip_39_word_new_line11: 'bubble
+
+  item
+
+  cube
+
+  list
+
+  attend
+
+  city
+
+  imitate
+
+  exchange
+
+  mango
+
+  nominee
+
+  garbage'
+bip_39_word_new_line12: 'bubble
+
+  item
+
+  cube
+
+  list
+
+  attend
+
+  city
+
+  imitate
+
+  exchange
+
+  mango
+
+  nominee
+
+  garbage
+
+  actor'
+bip_39_word_new_line2: 'bubble
+
+  item'
+bip_39_word_new_line3: 'bubble
+
+  item
+
+  cube'
+bip_39_word_new_line4: 'bubble
+
+  item
+
+  cube
+
+  list'
+bip_39_word_new_line5: 'bubble
+
+  item
+
+  cube
+
+  list
+
+  attend'
+bip_39_word_new_line6: 'bubble
+
+  item
+
+  cube
+
+  list
+
+  attend
+
+  city'
+bip_39_word_new_line7: 'bubble
+
+  item
+
+  cube
+
+  list
+
+  attend
+
+  city
+
+  imitate'
+bip_39_word_new_line8: 'bubble
+
+  item
+
+  cube
+
+  list
+
+  attend
+
+  city
+
+  imitate
+
+  exchange'
+bip_39_word_new_line9: 'bubble
+
+  item
+
+  cube
+
+  list
+
+  attend
+
+  city
+
+  imitate
+
+  exchange
+
+  mango'
+bip_39_word_space_0:
+- bubble
+- item
+- cube
+- list
+- attend
+- city
+- imitate
+- exchange
+- mango
+- nominee
+- garbage
+- actor
+bip_39_word_space_1: bubble
+bip_39_word_space_10: bubble item cube list attend city imitate exchange mango nominee
+bip_39_word_space_11: bubble item cube list attend city imitate exchange mango nominee
+  garbage
+bip_39_word_space_12: bubble item cube list attend city imitate exchange mango nominee
+  garbage actor
+bip_39_word_space_2: bubble item
+bip_39_word_space_3: bubble item cube
+bip_39_word_space_4: bubble item cube list
+bip_39_word_space_5: bubble item cube list attend
+bip_39_word_space_6: bubble item cube list attend city
+bip_39_word_space_7: bubble item cube list attend city imitate
+bip_39_word_space_8: bubble item cube list attend city imitate exchange
+bip_39_word_space_9: bubble item cube list attend city imitate exchange mango
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

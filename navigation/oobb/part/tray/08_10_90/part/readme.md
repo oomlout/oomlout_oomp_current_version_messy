@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: modify pledge
+  * bip 39 word 3: modify pledge castle
+  * bip 39 word: modify pledge castle sphere crop elite cargo switch carpet muffin wisdom aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | modify |  
+| bip_39_word_new_br10 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite<br>cargo<br>switch<br>carpet<br>muffin |  
+| bip_39_word_new_br11 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite<br>cargo<br>switch<br>carpet<br>muffin<br>wisdom |  
+| bip_39_word_new_br12 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite<br>cargo<br>switch<br>carpet<br>muffin<br>wisdom<br>aim |  
+| bip_39_word_new_br2 | modify<br>pledge |  
+| bip_39_word_new_br3 | modify<br>pledge<br>castle |  
+| bip_39_word_new_br4 | modify<br>pledge<br>castle<br>sphere |  
+| bip_39_word_new_br5 | modify<br>pledge<br>castle<br>sphere<br>crop |  
+| bip_39_word_new_br6 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite |  
+| bip_39_word_new_br7 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite<br>cargo |  
+| bip_39_word_new_br8 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite<br>cargo<br>switch |  
+| bip_39_word_new_br9 | modify<br>pledge<br>castle<br>sphere<br>crop<br>elite<br>cargo<br>switch<br>carpet |  
+| bip_39_word_new_line1 | modify |  
+| bip_39_word_new_line10 | modify
+pledge
+castle
+sphere
+crop
+elite
+cargo
+switch
+carpet
+muffin |  
+| bip_39_word_new_line11 | modify
+pledge
+castle
+sphere
+crop
+elite
+cargo
+switch
+carpet
+muffin
+wisdom |  
+| bip_39_word_new_line12 | modify
+pledge
+castle
+sphere
+crop
+elite
+cargo
+switch
+carpet
+muffin
+wisdom
+aim |  
+| bip_39_word_new_line2 | modify
+pledge |  
+| bip_39_word_new_line3 | modify
+pledge
+castle |  
+| bip_39_word_new_line4 | modify
+pledge
+castle
+sphere |  
+| bip_39_word_new_line5 | modify
+pledge
+castle
+sphere
+crop |  
+| bip_39_word_new_line6 | modify
+pledge
+castle
+sphere
+crop
+elite |  
+| bip_39_word_new_line7 | modify
+pledge
+castle
+sphere
+crop
+elite
+cargo |  
+| bip_39_word_new_line8 | modify
+pledge
+castle
+sphere
+crop
+elite
+cargo
+switch |  
+| bip_39_word_new_line9 | modify
+pledge
+castle
+sphere
+crop
+elite
+cargo
+switch
+carpet |  
+| bip_39_word_space_0 | ['modify', 'pledge', 'castle', 'sphere', 'crop', 'elite', 'cargo', 'switch', 'carpet', 'muffin', 'wisdom', 'aim'] |  
+| bip_39_word_space_1 | modify |  
+| bip_39_word_space_10 | modify pledge castle sphere crop elite cargo switch carpet muffin |  
+| bip_39_word_space_11 | modify pledge castle sphere crop elite cargo switch carpet muffin wisdom |  
+| bip_39_word_space_12 | modify pledge castle sphere crop elite cargo switch carpet muffin wisdom aim |  
+| bip_39_word_space_2 | modify pledge |  
+| bip_39_word_space_3 | modify pledge castle |  
+| bip_39_word_space_4 | modify pledge castle sphere |  
+| bip_39_word_space_5 | modify pledge castle sphere crop |  
+| bip_39_word_space_6 | modify pledge castle sphere crop elite |  
+| bip_39_word_space_7 | modify pledge castle sphere crop elite cargo |  
+| bip_39_word_space_8 | modify pledge castle sphere crop elite cargo switch |  
+| bip_39_word_space_9 | modify pledge castle sphere crop elite cargo switch carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

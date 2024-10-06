@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gallery
+bip_39_word_new_br10: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play
+bip_39_word_new_br11: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play<br>toddler
+bip_39_word_new_br12: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk<br>play<br>toddler<br>artwork
+bip_39_word_new_br2: gallery<br>argue
+bip_39_word_new_br3: gallery<br>argue<br>raven
+bip_39_word_new_br4: gallery<br>argue<br>raven<br>dwarf
+bip_39_word_new_br5: gallery<br>argue<br>raven<br>dwarf<br>ethics
+bip_39_word_new_br6: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano
+bip_39_word_new_br7: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone
+bip_39_word_new_br8: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow
+bip_39_word_new_br9: gallery<br>argue<br>raven<br>dwarf<br>ethics<br>volcano<br>tone<br>grow<br>talk
+bip_39_word_new_line1: gallery
+bip_39_word_new_line10: 'gallery
+
+  argue
+
+  raven
+
+  dwarf
+
+  ethics
+
+  volcano
+
+  tone
+
+  grow
+
+  talk
+
+  play'
+bip_39_word_new_line11: 'gallery
+
+  argue
+
+  raven
+
+  dwarf
+
+  ethics
+
+  volcano
+
+  tone
+
+  grow
+
+  talk
+
+  play
+
+  toddler'
+bip_39_word_new_line12: 'gallery
+
+  argue
+
+  raven
+
+  dwarf
+
+  ethics
+
+  volcano
+
+  tone
+
+  grow
+
+  talk
+
+  play
+
+  toddler
+
+  artwork'
+bip_39_word_new_line2: 'gallery
+
+  argue'
+bip_39_word_new_line3: 'gallery
+
+  argue
+
+  raven'
+bip_39_word_new_line4: 'gallery
+
+  argue
+
+  raven
+
+  dwarf'
+bip_39_word_new_line5: 'gallery
+
+  argue
+
+  raven
+
+  dwarf
+
+  ethics'
+bip_39_word_new_line6: 'gallery
+
+  argue
+
+  raven
+
+  dwarf
+
+  ethics
+
+  volcano'
+bip_39_word_new_line7: 'gallery
+
+  argue
+
+  raven
+
+  dwarf
+
+  ethics
+
+  volcano
+
+  tone'
+bip_39_word_new_line8: 'gallery
+
+  argue
+
+  raven
+
+  dwarf
+
+  ethics
+
+  volcano
+
+  tone
+
+  grow'
+bip_39_word_new_line9: 'gallery
+
+  argue
+
+  raven
+
+  dwarf
+
+  ethics
+
+  volcano
+
+  tone
+
+  grow
+
+  talk'
+bip_39_word_space_0:
+- gallery
+- argue
+- raven
+- dwarf
+- ethics
+- volcano
+- tone
+- grow
+- talk
+- play
+- toddler
+- artwork
+bip_39_word_space_1: gallery
+bip_39_word_space_10: gallery argue raven dwarf ethics volcano tone grow talk play
+bip_39_word_space_11: gallery argue raven dwarf ethics volcano tone grow talk play
+  toddler
+bip_39_word_space_12: gallery argue raven dwarf ethics volcano tone grow talk play
+  toddler artwork
+bip_39_word_space_2: gallery argue
+bip_39_word_space_3: gallery argue raven
+bip_39_word_space_4: gallery argue raven dwarf
+bip_39_word_space_5: gallery argue raven dwarf ethics
+bip_39_word_space_6: gallery argue raven dwarf ethics volcano
+bip_39_word_space_7: gallery argue raven dwarf ethics volcano tone
+bip_39_word_space_8: gallery argue raven dwarf ethics volcano tone grow
+bip_39_word_space_9: gallery argue raven dwarf ethics volcano tone grow talk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

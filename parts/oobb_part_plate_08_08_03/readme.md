@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: middle decline
+  * bip 39 word 3: middle decline fringe
+  * bip 39 word: middle decline fringe present urge obscure bless unlock blind play click anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | middle |  
+| bip_39_word_new_br10 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure<br>bless<br>unlock<br>blind<br>play |  
+| bip_39_word_new_br11 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure<br>bless<br>unlock<br>blind<br>play<br>click |  
+| bip_39_word_new_br12 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure<br>bless<br>unlock<br>blind<br>play<br>click<br>anger |  
+| bip_39_word_new_br2 | middle<br>decline |  
+| bip_39_word_new_br3 | middle<br>decline<br>fringe |  
+| bip_39_word_new_br4 | middle<br>decline<br>fringe<br>present |  
+| bip_39_word_new_br5 | middle<br>decline<br>fringe<br>present<br>urge |  
+| bip_39_word_new_br6 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure |  
+| bip_39_word_new_br7 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure<br>bless |  
+| bip_39_word_new_br8 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure<br>bless<br>unlock |  
+| bip_39_word_new_br9 | middle<br>decline<br>fringe<br>present<br>urge<br>obscure<br>bless<br>unlock<br>blind |  
+| bip_39_word_new_line1 | middle |  
+| bip_39_word_new_line10 | middle
+decline
+fringe
+present
+urge
+obscure
+bless
+unlock
+blind
+play |  
+| bip_39_word_new_line11 | middle
+decline
+fringe
+present
+urge
+obscure
+bless
+unlock
+blind
+play
+click |  
+| bip_39_word_new_line12 | middle
+decline
+fringe
+present
+urge
+obscure
+bless
+unlock
+blind
+play
+click
+anger |  
+| bip_39_word_new_line2 | middle
+decline |  
+| bip_39_word_new_line3 | middle
+decline
+fringe |  
+| bip_39_word_new_line4 | middle
+decline
+fringe
+present |  
+| bip_39_word_new_line5 | middle
+decline
+fringe
+present
+urge |  
+| bip_39_word_new_line6 | middle
+decline
+fringe
+present
+urge
+obscure |  
+| bip_39_word_new_line7 | middle
+decline
+fringe
+present
+urge
+obscure
+bless |  
+| bip_39_word_new_line8 | middle
+decline
+fringe
+present
+urge
+obscure
+bless
+unlock |  
+| bip_39_word_new_line9 | middle
+decline
+fringe
+present
+urge
+obscure
+bless
+unlock
+blind |  
+| bip_39_word_space_0 | ['middle', 'decline', 'fringe', 'present', 'urge', 'obscure', 'bless', 'unlock', 'blind', 'play', 'click', 'anger'] |  
+| bip_39_word_space_1 | middle |  
+| bip_39_word_space_10 | middle decline fringe present urge obscure bless unlock blind play |  
+| bip_39_word_space_11 | middle decline fringe present urge obscure bless unlock blind play click |  
+| bip_39_word_space_12 | middle decline fringe present urge obscure bless unlock blind play click anger |  
+| bip_39_word_space_2 | middle decline |  
+| bip_39_word_space_3 | middle decline fringe |  
+| bip_39_word_space_4 | middle decline fringe present |  
+| bip_39_word_space_5 | middle decline fringe present urge |  
+| bip_39_word_space_6 | middle decline fringe present urge obscure |  
+| bip_39_word_space_7 | middle decline fringe present urge obscure bless |  
+| bip_39_word_space_8 | middle decline fringe present urge obscure bless unlock |  
+| bip_39_word_space_9 | middle decline fringe present urge obscure bless unlock blind |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

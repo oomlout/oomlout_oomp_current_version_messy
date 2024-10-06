@@ -1,3 +1,187 @@
+bip_39_word_new_br1: sister
+bip_39_word_new_br10: sister<br>amused<br>object<br>menu<br>moral<br>bread<br>surround<br>deliver<br>grab<br>marine
+bip_39_word_new_br11: sister<br>amused<br>object<br>menu<br>moral<br>bread<br>surround<br>deliver<br>grab<br>marine<br>spoil
+bip_39_word_new_br12: sister<br>amused<br>object<br>menu<br>moral<br>bread<br>surround<br>deliver<br>grab<br>marine<br>spoil<br>artist
+bip_39_word_new_br2: sister<br>amused
+bip_39_word_new_br3: sister<br>amused<br>object
+bip_39_word_new_br4: sister<br>amused<br>object<br>menu
+bip_39_word_new_br5: sister<br>amused<br>object<br>menu<br>moral
+bip_39_word_new_br6: sister<br>amused<br>object<br>menu<br>moral<br>bread
+bip_39_word_new_br7: sister<br>amused<br>object<br>menu<br>moral<br>bread<br>surround
+bip_39_word_new_br8: sister<br>amused<br>object<br>menu<br>moral<br>bread<br>surround<br>deliver
+bip_39_word_new_br9: sister<br>amused<br>object<br>menu<br>moral<br>bread<br>surround<br>deliver<br>grab
+bip_39_word_new_line1: sister
+bip_39_word_new_line10: 'sister
+
+  amused
+
+  object
+
+  menu
+
+  moral
+
+  bread
+
+  surround
+
+  deliver
+
+  grab
+
+  marine'
+bip_39_word_new_line11: 'sister
+
+  amused
+
+  object
+
+  menu
+
+  moral
+
+  bread
+
+  surround
+
+  deliver
+
+  grab
+
+  marine
+
+  spoil'
+bip_39_word_new_line12: 'sister
+
+  amused
+
+  object
+
+  menu
+
+  moral
+
+  bread
+
+  surround
+
+  deliver
+
+  grab
+
+  marine
+
+  spoil
+
+  artist'
+bip_39_word_new_line2: 'sister
+
+  amused'
+bip_39_word_new_line3: 'sister
+
+  amused
+
+  object'
+bip_39_word_new_line4: 'sister
+
+  amused
+
+  object
+
+  menu'
+bip_39_word_new_line5: 'sister
+
+  amused
+
+  object
+
+  menu
+
+  moral'
+bip_39_word_new_line6: 'sister
+
+  amused
+
+  object
+
+  menu
+
+  moral
+
+  bread'
+bip_39_word_new_line7: 'sister
+
+  amused
+
+  object
+
+  menu
+
+  moral
+
+  bread
+
+  surround'
+bip_39_word_new_line8: 'sister
+
+  amused
+
+  object
+
+  menu
+
+  moral
+
+  bread
+
+  surround
+
+  deliver'
+bip_39_word_new_line9: 'sister
+
+  amused
+
+  object
+
+  menu
+
+  moral
+
+  bread
+
+  surround
+
+  deliver
+
+  grab'
+bip_39_word_space_0:
+- sister
+- amused
+- object
+- menu
+- moral
+- bread
+- surround
+- deliver
+- grab
+- marine
+- spoil
+- artist
+bip_39_word_space_1: sister
+bip_39_word_space_10: sister amused object menu moral bread surround deliver grab
+  marine
+bip_39_word_space_11: sister amused object menu moral bread surround deliver grab
+  marine spoil
+bip_39_word_space_12: sister amused object menu moral bread surround deliver grab
+  marine spoil artist
+bip_39_word_space_2: sister amused
+bip_39_word_space_3: sister amused object
+bip_39_word_space_4: sister amused object menu
+bip_39_word_space_5: sister amused object menu moral
+bip_39_word_space_6: sister amused object menu moral bread
+bip_39_word_space_7: sister amused object menu moral bread surround
+bip_39_word_space_8: sister amused object menu moral bread surround deliver
+bip_39_word_space_9: sister amused object menu moral bread surround deliver grab
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

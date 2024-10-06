@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: accuse protect
+  * bip 39 word 3: accuse protect sight
+  * bip 39 word: accuse protect sight upper hour room debris tragic sugar legal fashion alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | accuse |  
+| bip_39_word_new_br10 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal |  
+| bip_39_word_new_br11 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal<br>fashion |  
+| bip_39_word_new_br12 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar<br>legal<br>fashion<br>alien |  
+| bip_39_word_new_br2 | accuse<br>protect |  
+| bip_39_word_new_br3 | accuse<br>protect<br>sight |  
+| bip_39_word_new_br4 | accuse<br>protect<br>sight<br>upper |  
+| bip_39_word_new_br5 | accuse<br>protect<br>sight<br>upper<br>hour |  
+| bip_39_word_new_br6 | accuse<br>protect<br>sight<br>upper<br>hour<br>room |  
+| bip_39_word_new_br7 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris |  
+| bip_39_word_new_br8 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic |  
+| bip_39_word_new_br9 | accuse<br>protect<br>sight<br>upper<br>hour<br>room<br>debris<br>tragic<br>sugar |  
+| bip_39_word_new_line1 | accuse |  
+| bip_39_word_new_line10 | accuse
+protect
+sight
+upper
+hour
+room
+debris
+tragic
+sugar
+legal |  
+| bip_39_word_new_line11 | accuse
+protect
+sight
+upper
+hour
+room
+debris
+tragic
+sugar
+legal
+fashion |  
+| bip_39_word_new_line12 | accuse
+protect
+sight
+upper
+hour
+room
+debris
+tragic
+sugar
+legal
+fashion
+alien |  
+| bip_39_word_new_line2 | accuse
+protect |  
+| bip_39_word_new_line3 | accuse
+protect
+sight |  
+| bip_39_word_new_line4 | accuse
+protect
+sight
+upper |  
+| bip_39_word_new_line5 | accuse
+protect
+sight
+upper
+hour |  
+| bip_39_word_new_line6 | accuse
+protect
+sight
+upper
+hour
+room |  
+| bip_39_word_new_line7 | accuse
+protect
+sight
+upper
+hour
+room
+debris |  
+| bip_39_word_new_line8 | accuse
+protect
+sight
+upper
+hour
+room
+debris
+tragic |  
+| bip_39_word_new_line9 | accuse
+protect
+sight
+upper
+hour
+room
+debris
+tragic
+sugar |  
+| bip_39_word_space_0 | ['accuse', 'protect', 'sight', 'upper', 'hour', 'room', 'debris', 'tragic', 'sugar', 'legal', 'fashion', 'alien'] |  
+| bip_39_word_space_1 | accuse |  
+| bip_39_word_space_10 | accuse protect sight upper hour room debris tragic sugar legal |  
+| bip_39_word_space_11 | accuse protect sight upper hour room debris tragic sugar legal fashion |  
+| bip_39_word_space_12 | accuse protect sight upper hour room debris tragic sugar legal fashion alien |  
+| bip_39_word_space_2 | accuse protect |  
+| bip_39_word_space_3 | accuse protect sight |  
+| bip_39_word_space_4 | accuse protect sight upper |  
+| bip_39_word_space_5 | accuse protect sight upper hour |  
+| bip_39_word_space_6 | accuse protect sight upper hour room |  
+| bip_39_word_space_7 | accuse protect sight upper hour room debris |  
+| bip_39_word_space_8 | accuse protect sight upper hour room debris tragic |  
+| bip_39_word_space_9 | accuse protect sight upper hour room debris tragic sugar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

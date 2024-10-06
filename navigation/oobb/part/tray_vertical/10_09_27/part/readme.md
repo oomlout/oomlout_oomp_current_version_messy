@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brief toilet
+  * bip 39 word 3: brief toilet charge
+  * bip 39 word: brief toilet charge core allow trigger grid mixture need exchange increase advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brief |  
+| bip_39_word_new_br10 | brief<br>toilet<br>charge<br>core<br>allow<br>trigger<br>grid<br>mixture<br>need<br>exchange |  
+| bip_39_word_new_br11 | brief<br>toilet<br>charge<br>core<br>allow<br>trigger<br>grid<br>mixture<br>need<br>exchange<br>increase |  
+| bip_39_word_new_br12 | brief<br>toilet<br>charge<br>core<br>allow<br>trigger<br>grid<br>mixture<br>need<br>exchange<br>increase<br>advice |  
+| bip_39_word_new_br2 | brief<br>toilet |  
+| bip_39_word_new_br3 | brief<br>toilet<br>charge |  
+| bip_39_word_new_br4 | brief<br>toilet<br>charge<br>core |  
+| bip_39_word_new_br5 | brief<br>toilet<br>charge<br>core<br>allow |  
+| bip_39_word_new_br6 | brief<br>toilet<br>charge<br>core<br>allow<br>trigger |  
+| bip_39_word_new_br7 | brief<br>toilet<br>charge<br>core<br>allow<br>trigger<br>grid |  
+| bip_39_word_new_br8 | brief<br>toilet<br>charge<br>core<br>allow<br>trigger<br>grid<br>mixture |  
+| bip_39_word_new_br9 | brief<br>toilet<br>charge<br>core<br>allow<br>trigger<br>grid<br>mixture<br>need |  
+| bip_39_word_new_line1 | brief |  
+| bip_39_word_new_line10 | brief
+toilet
+charge
+core
+allow
+trigger
+grid
+mixture
+need
+exchange |  
+| bip_39_word_new_line11 | brief
+toilet
+charge
+core
+allow
+trigger
+grid
+mixture
+need
+exchange
+increase |  
+| bip_39_word_new_line12 | brief
+toilet
+charge
+core
+allow
+trigger
+grid
+mixture
+need
+exchange
+increase
+advice |  
+| bip_39_word_new_line2 | brief
+toilet |  
+| bip_39_word_new_line3 | brief
+toilet
+charge |  
+| bip_39_word_new_line4 | brief
+toilet
+charge
+core |  
+| bip_39_word_new_line5 | brief
+toilet
+charge
+core
+allow |  
+| bip_39_word_new_line6 | brief
+toilet
+charge
+core
+allow
+trigger |  
+| bip_39_word_new_line7 | brief
+toilet
+charge
+core
+allow
+trigger
+grid |  
+| bip_39_word_new_line8 | brief
+toilet
+charge
+core
+allow
+trigger
+grid
+mixture |  
+| bip_39_word_new_line9 | brief
+toilet
+charge
+core
+allow
+trigger
+grid
+mixture
+need |  
+| bip_39_word_space_0 | ['brief', 'toilet', 'charge', 'core', 'allow', 'trigger', 'grid', 'mixture', 'need', 'exchange', 'increase', 'advice'] |  
+| bip_39_word_space_1 | brief |  
+| bip_39_word_space_10 | brief toilet charge core allow trigger grid mixture need exchange |  
+| bip_39_word_space_11 | brief toilet charge core allow trigger grid mixture need exchange increase |  
+| bip_39_word_space_12 | brief toilet charge core allow trigger grid mixture need exchange increase advice |  
+| bip_39_word_space_2 | brief toilet |  
+| bip_39_word_space_3 | brief toilet charge |  
+| bip_39_word_space_4 | brief toilet charge core |  
+| bip_39_word_space_5 | brief toilet charge core allow |  
+| bip_39_word_space_6 | brief toilet charge core allow trigger |  
+| bip_39_word_space_7 | brief toilet charge core allow trigger grid |  
+| bip_39_word_space_8 | brief toilet charge core allow trigger grid mixture |  
+| bip_39_word_space_9 | brief toilet charge core allow trigger grid mixture need |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

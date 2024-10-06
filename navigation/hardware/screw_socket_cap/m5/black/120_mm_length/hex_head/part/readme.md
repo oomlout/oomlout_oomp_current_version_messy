@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nature museum
+  * bip 39 word 3: nature museum cherry
+  * bip 39 word: nature museum cherry divorce pudding receive topple crouch require culture fragile attend
 
 ### other_codes
 * short_code: sc5b120h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nature |  
+| bip_39_word_new_br10 | nature<br>museum<br>cherry<br>divorce<br>pudding<br>receive<br>topple<br>crouch<br>require<br>culture |  
+| bip_39_word_new_br11 | nature<br>museum<br>cherry<br>divorce<br>pudding<br>receive<br>topple<br>crouch<br>require<br>culture<br>fragile |  
+| bip_39_word_new_br12 | nature<br>museum<br>cherry<br>divorce<br>pudding<br>receive<br>topple<br>crouch<br>require<br>culture<br>fragile<br>attend |  
+| bip_39_word_new_br2 | nature<br>museum |  
+| bip_39_word_new_br3 | nature<br>museum<br>cherry |  
+| bip_39_word_new_br4 | nature<br>museum<br>cherry<br>divorce |  
+| bip_39_word_new_br5 | nature<br>museum<br>cherry<br>divorce<br>pudding |  
+| bip_39_word_new_br6 | nature<br>museum<br>cherry<br>divorce<br>pudding<br>receive |  
+| bip_39_word_new_br7 | nature<br>museum<br>cherry<br>divorce<br>pudding<br>receive<br>topple |  
+| bip_39_word_new_br8 | nature<br>museum<br>cherry<br>divorce<br>pudding<br>receive<br>topple<br>crouch |  
+| bip_39_word_new_br9 | nature<br>museum<br>cherry<br>divorce<br>pudding<br>receive<br>topple<br>crouch<br>require |  
+| bip_39_word_new_line1 | nature |  
+| bip_39_word_new_line10 | nature
+museum
+cherry
+divorce
+pudding
+receive
+topple
+crouch
+require
+culture |  
+| bip_39_word_new_line11 | nature
+museum
+cherry
+divorce
+pudding
+receive
+topple
+crouch
+require
+culture
+fragile |  
+| bip_39_word_new_line12 | nature
+museum
+cherry
+divorce
+pudding
+receive
+topple
+crouch
+require
+culture
+fragile
+attend |  
+| bip_39_word_new_line2 | nature
+museum |  
+| bip_39_word_new_line3 | nature
+museum
+cherry |  
+| bip_39_word_new_line4 | nature
+museum
+cherry
+divorce |  
+| bip_39_word_new_line5 | nature
+museum
+cherry
+divorce
+pudding |  
+| bip_39_word_new_line6 | nature
+museum
+cherry
+divorce
+pudding
+receive |  
+| bip_39_word_new_line7 | nature
+museum
+cherry
+divorce
+pudding
+receive
+topple |  
+| bip_39_word_new_line8 | nature
+museum
+cherry
+divorce
+pudding
+receive
+topple
+crouch |  
+| bip_39_word_new_line9 | nature
+museum
+cherry
+divorce
+pudding
+receive
+topple
+crouch
+require |  
+| bip_39_word_space_0 | ['nature', 'museum', 'cherry', 'divorce', 'pudding', 'receive', 'topple', 'crouch', 'require', 'culture', 'fragile', 'attend'] |  
+| bip_39_word_space_1 | nature |  
+| bip_39_word_space_10 | nature museum cherry divorce pudding receive topple crouch require culture |  
+| bip_39_word_space_11 | nature museum cherry divorce pudding receive topple crouch require culture fragile |  
+| bip_39_word_space_12 | nature museum cherry divorce pudding receive topple crouch require culture fragile attend |  
+| bip_39_word_space_2 | nature museum |  
+| bip_39_word_space_3 | nature museum cherry |  
+| bip_39_word_space_4 | nature museum cherry divorce |  
+| bip_39_word_space_5 | nature museum cherry divorce pudding |  
+| bip_39_word_space_6 | nature museum cherry divorce pudding receive |  
+| bip_39_word_space_7 | nature museum cherry divorce pudding receive topple |  
+| bip_39_word_space_8 | nature museum cherry divorce pudding receive topple crouch |  
+| bip_39_word_space_9 | nature museum cherry divorce pudding receive topple crouch require |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toddler walnut
+  * bip 39 word 3: toddler walnut meadow
+  * bip 39 word: toddler walnut meadow brother stable food demise catch suggest acid public also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toddler |  
+| bip_39_word_new_br10 | toddler<br>walnut<br>meadow<br>brother<br>stable<br>food<br>demise<br>catch<br>suggest<br>acid |  
+| bip_39_word_new_br11 | toddler<br>walnut<br>meadow<br>brother<br>stable<br>food<br>demise<br>catch<br>suggest<br>acid<br>public |  
+| bip_39_word_new_br12 | toddler<br>walnut<br>meadow<br>brother<br>stable<br>food<br>demise<br>catch<br>suggest<br>acid<br>public<br>also |  
+| bip_39_word_new_br2 | toddler<br>walnut |  
+| bip_39_word_new_br3 | toddler<br>walnut<br>meadow |  
+| bip_39_word_new_br4 | toddler<br>walnut<br>meadow<br>brother |  
+| bip_39_word_new_br5 | toddler<br>walnut<br>meadow<br>brother<br>stable |  
+| bip_39_word_new_br6 | toddler<br>walnut<br>meadow<br>brother<br>stable<br>food |  
+| bip_39_word_new_br7 | toddler<br>walnut<br>meadow<br>brother<br>stable<br>food<br>demise |  
+| bip_39_word_new_br8 | toddler<br>walnut<br>meadow<br>brother<br>stable<br>food<br>demise<br>catch |  
+| bip_39_word_new_br9 | toddler<br>walnut<br>meadow<br>brother<br>stable<br>food<br>demise<br>catch<br>suggest |  
+| bip_39_word_new_line1 | toddler |  
+| bip_39_word_new_line10 | toddler
+walnut
+meadow
+brother
+stable
+food
+demise
+catch
+suggest
+acid |  
+| bip_39_word_new_line11 | toddler
+walnut
+meadow
+brother
+stable
+food
+demise
+catch
+suggest
+acid
+public |  
+| bip_39_word_new_line12 | toddler
+walnut
+meadow
+brother
+stable
+food
+demise
+catch
+suggest
+acid
+public
+also |  
+| bip_39_word_new_line2 | toddler
+walnut |  
+| bip_39_word_new_line3 | toddler
+walnut
+meadow |  
+| bip_39_word_new_line4 | toddler
+walnut
+meadow
+brother |  
+| bip_39_word_new_line5 | toddler
+walnut
+meadow
+brother
+stable |  
+| bip_39_word_new_line6 | toddler
+walnut
+meadow
+brother
+stable
+food |  
+| bip_39_word_new_line7 | toddler
+walnut
+meadow
+brother
+stable
+food
+demise |  
+| bip_39_word_new_line8 | toddler
+walnut
+meadow
+brother
+stable
+food
+demise
+catch |  
+| bip_39_word_new_line9 | toddler
+walnut
+meadow
+brother
+stable
+food
+demise
+catch
+suggest |  
+| bip_39_word_space_0 | ['toddler', 'walnut', 'meadow', 'brother', 'stable', 'food', 'demise', 'catch', 'suggest', 'acid', 'public', 'also'] |  
+| bip_39_word_space_1 | toddler |  
+| bip_39_word_space_10 | toddler walnut meadow brother stable food demise catch suggest acid |  
+| bip_39_word_space_11 | toddler walnut meadow brother stable food demise catch suggest acid public |  
+| bip_39_word_space_12 | toddler walnut meadow brother stable food demise catch suggest acid public also |  
+| bip_39_word_space_2 | toddler walnut |  
+| bip_39_word_space_3 | toddler walnut meadow |  
+| bip_39_word_space_4 | toddler walnut meadow brother |  
+| bip_39_word_space_5 | toddler walnut meadow brother stable |  
+| bip_39_word_space_6 | toddler walnut meadow brother stable food |  
+| bip_39_word_space_7 | toddler walnut meadow brother stable food demise |  
+| bip_39_word_space_8 | toddler walnut meadow brother stable food demise catch |  
+| bip_39_word_space_9 | toddler walnut meadow brother stable food demise catch suggest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

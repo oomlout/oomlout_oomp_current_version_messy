@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: table donor
+  * bip 39 word 3: table donor develop
+  * bip 39 word: table donor develop inform hand horn apology baby stock space arrest abuse
 
 ### other_codes
 * short_code: ss6m65
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | table |  
+| bip_39_word_new_br10 | table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby<br>stock<br>space |  
+| bip_39_word_new_br11 | table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby<br>stock<br>space<br>arrest |  
+| bip_39_word_new_br12 | table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby<br>stock<br>space<br>arrest<br>abuse |  
+| bip_39_word_new_br2 | table<br>donor |  
+| bip_39_word_new_br3 | table<br>donor<br>develop |  
+| bip_39_word_new_br4 | table<br>donor<br>develop<br>inform |  
+| bip_39_word_new_br5 | table<br>donor<br>develop<br>inform<br>hand |  
+| bip_39_word_new_br6 | table<br>donor<br>develop<br>inform<br>hand<br>horn |  
+| bip_39_word_new_br7 | table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology |  
+| bip_39_word_new_br8 | table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby |  
+| bip_39_word_new_br9 | table<br>donor<br>develop<br>inform<br>hand<br>horn<br>apology<br>baby<br>stock |  
+| bip_39_word_new_line1 | table |  
+| bip_39_word_new_line10 | table
+donor
+develop
+inform
+hand
+horn
+apology
+baby
+stock
+space |  
+| bip_39_word_new_line11 | table
+donor
+develop
+inform
+hand
+horn
+apology
+baby
+stock
+space
+arrest |  
+| bip_39_word_new_line12 | table
+donor
+develop
+inform
+hand
+horn
+apology
+baby
+stock
+space
+arrest
+abuse |  
+| bip_39_word_new_line2 | table
+donor |  
+| bip_39_word_new_line3 | table
+donor
+develop |  
+| bip_39_word_new_line4 | table
+donor
+develop
+inform |  
+| bip_39_word_new_line5 | table
+donor
+develop
+inform
+hand |  
+| bip_39_word_new_line6 | table
+donor
+develop
+inform
+hand
+horn |  
+| bip_39_word_new_line7 | table
+donor
+develop
+inform
+hand
+horn
+apology |  
+| bip_39_word_new_line8 | table
+donor
+develop
+inform
+hand
+horn
+apology
+baby |  
+| bip_39_word_new_line9 | table
+donor
+develop
+inform
+hand
+horn
+apology
+baby
+stock |  
+| bip_39_word_space_0 | ['table', 'donor', 'develop', 'inform', 'hand', 'horn', 'apology', 'baby', 'stock', 'space', 'arrest', 'abuse'] |  
+| bip_39_word_space_1 | table |  
+| bip_39_word_space_10 | table donor develop inform hand horn apology baby stock space |  
+| bip_39_word_space_11 | table donor develop inform hand horn apology baby stock space arrest |  
+| bip_39_word_space_12 | table donor develop inform hand horn apology baby stock space arrest abuse |  
+| bip_39_word_space_2 | table donor |  
+| bip_39_word_space_3 | table donor develop |  
+| bip_39_word_space_4 | table donor develop inform |  
+| bip_39_word_space_5 | table donor develop inform hand |  
+| bip_39_word_space_6 | table donor develop inform hand horn |  
+| bip_39_word_space_7 | table donor develop inform hand horn apology |  
+| bip_39_word_space_8 | table donor develop inform hand horn apology baby |  
+| bip_39_word_space_9 | table donor develop inform hand horn apology baby stock |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

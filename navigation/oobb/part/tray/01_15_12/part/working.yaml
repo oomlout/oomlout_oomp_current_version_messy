@@ -1,3 +1,187 @@
+bip_39_word_new_br1: issue
+bip_39_word_new_br10: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt<br>dignity<br>cricket<br>traffic<br>stem
+bip_39_word_new_br11: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt<br>dignity<br>cricket<br>traffic<br>stem<br>shoot
+bip_39_word_new_br12: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt<br>dignity<br>cricket<br>traffic<br>stem<br>shoot<br>all
+bip_39_word_new_br2: issue<br>uphold
+bip_39_word_new_br3: issue<br>uphold<br>siren
+bip_39_word_new_br4: issue<br>uphold<br>siren<br>auto
+bip_39_word_new_br5: issue<br>uphold<br>siren<br>auto<br>clever
+bip_39_word_new_br6: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt
+bip_39_word_new_br7: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt<br>dignity
+bip_39_word_new_br8: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt<br>dignity<br>cricket
+bip_39_word_new_br9: issue<br>uphold<br>siren<br>auto<br>clever<br>hurt<br>dignity<br>cricket<br>traffic
+bip_39_word_new_line1: issue
+bip_39_word_new_line10: 'issue
+
+  uphold
+
+  siren
+
+  auto
+
+  clever
+
+  hurt
+
+  dignity
+
+  cricket
+
+  traffic
+
+  stem'
+bip_39_word_new_line11: 'issue
+
+  uphold
+
+  siren
+
+  auto
+
+  clever
+
+  hurt
+
+  dignity
+
+  cricket
+
+  traffic
+
+  stem
+
+  shoot'
+bip_39_word_new_line12: 'issue
+
+  uphold
+
+  siren
+
+  auto
+
+  clever
+
+  hurt
+
+  dignity
+
+  cricket
+
+  traffic
+
+  stem
+
+  shoot
+
+  all'
+bip_39_word_new_line2: 'issue
+
+  uphold'
+bip_39_word_new_line3: 'issue
+
+  uphold
+
+  siren'
+bip_39_word_new_line4: 'issue
+
+  uphold
+
+  siren
+
+  auto'
+bip_39_word_new_line5: 'issue
+
+  uphold
+
+  siren
+
+  auto
+
+  clever'
+bip_39_word_new_line6: 'issue
+
+  uphold
+
+  siren
+
+  auto
+
+  clever
+
+  hurt'
+bip_39_word_new_line7: 'issue
+
+  uphold
+
+  siren
+
+  auto
+
+  clever
+
+  hurt
+
+  dignity'
+bip_39_word_new_line8: 'issue
+
+  uphold
+
+  siren
+
+  auto
+
+  clever
+
+  hurt
+
+  dignity
+
+  cricket'
+bip_39_word_new_line9: 'issue
+
+  uphold
+
+  siren
+
+  auto
+
+  clever
+
+  hurt
+
+  dignity
+
+  cricket
+
+  traffic'
+bip_39_word_space_0:
+- issue
+- uphold
+- siren
+- auto
+- clever
+- hurt
+- dignity
+- cricket
+- traffic
+- stem
+- shoot
+- all
+bip_39_word_space_1: issue
+bip_39_word_space_10: issue uphold siren auto clever hurt dignity cricket traffic
+  stem
+bip_39_word_space_11: issue uphold siren auto clever hurt dignity cricket traffic
+  stem shoot
+bip_39_word_space_12: issue uphold siren auto clever hurt dignity cricket traffic
+  stem shoot all
+bip_39_word_space_2: issue uphold
+bip_39_word_space_3: issue uphold siren
+bip_39_word_space_4: issue uphold siren auto
+bip_39_word_space_5: issue uphold siren auto clever
+bip_39_word_space_6: issue uphold siren auto clever hurt
+bip_39_word_space_7: issue uphold siren auto clever hurt dignity
+bip_39_word_space_8: issue uphold siren auto clever hurt dignity cricket
+bip_39_word_space_9: issue uphold siren auto clever hurt dignity cricket traffic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

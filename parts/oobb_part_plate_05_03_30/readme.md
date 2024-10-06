@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rebuild clog
+  * bip 39 word 3: rebuild clog cruise
+  * bip 39 word: rebuild clog cruise gentle cook midnight mistake swap finish cart office antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rebuild |  
+| bip_39_word_new_br10 | rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight<br>mistake<br>swap<br>finish<br>cart |  
+| bip_39_word_new_br11 | rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight<br>mistake<br>swap<br>finish<br>cart<br>office |  
+| bip_39_word_new_br12 | rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight<br>mistake<br>swap<br>finish<br>cart<br>office<br>antenna |  
+| bip_39_word_new_br2 | rebuild<br>clog |  
+| bip_39_word_new_br3 | rebuild<br>clog<br>cruise |  
+| bip_39_word_new_br4 | rebuild<br>clog<br>cruise<br>gentle |  
+| bip_39_word_new_br5 | rebuild<br>clog<br>cruise<br>gentle<br>cook |  
+| bip_39_word_new_br6 | rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight |  
+| bip_39_word_new_br7 | rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight<br>mistake |  
+| bip_39_word_new_br8 | rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight<br>mistake<br>swap |  
+| bip_39_word_new_br9 | rebuild<br>clog<br>cruise<br>gentle<br>cook<br>midnight<br>mistake<br>swap<br>finish |  
+| bip_39_word_new_line1 | rebuild |  
+| bip_39_word_new_line10 | rebuild
+clog
+cruise
+gentle
+cook
+midnight
+mistake
+swap
+finish
+cart |  
+| bip_39_word_new_line11 | rebuild
+clog
+cruise
+gentle
+cook
+midnight
+mistake
+swap
+finish
+cart
+office |  
+| bip_39_word_new_line12 | rebuild
+clog
+cruise
+gentle
+cook
+midnight
+mistake
+swap
+finish
+cart
+office
+antenna |  
+| bip_39_word_new_line2 | rebuild
+clog |  
+| bip_39_word_new_line3 | rebuild
+clog
+cruise |  
+| bip_39_word_new_line4 | rebuild
+clog
+cruise
+gentle |  
+| bip_39_word_new_line5 | rebuild
+clog
+cruise
+gentle
+cook |  
+| bip_39_word_new_line6 | rebuild
+clog
+cruise
+gentle
+cook
+midnight |  
+| bip_39_word_new_line7 | rebuild
+clog
+cruise
+gentle
+cook
+midnight
+mistake |  
+| bip_39_word_new_line8 | rebuild
+clog
+cruise
+gentle
+cook
+midnight
+mistake
+swap |  
+| bip_39_word_new_line9 | rebuild
+clog
+cruise
+gentle
+cook
+midnight
+mistake
+swap
+finish |  
+| bip_39_word_space_0 | ['rebuild', 'clog', 'cruise', 'gentle', 'cook', 'midnight', 'mistake', 'swap', 'finish', 'cart', 'office', 'antenna'] |  
+| bip_39_word_space_1 | rebuild |  
+| bip_39_word_space_10 | rebuild clog cruise gentle cook midnight mistake swap finish cart |  
+| bip_39_word_space_11 | rebuild clog cruise gentle cook midnight mistake swap finish cart office |  
+| bip_39_word_space_12 | rebuild clog cruise gentle cook midnight mistake swap finish cart office antenna |  
+| bip_39_word_space_2 | rebuild clog |  
+| bip_39_word_space_3 | rebuild clog cruise |  
+| bip_39_word_space_4 | rebuild clog cruise gentle |  
+| bip_39_word_space_5 | rebuild clog cruise gentle cook |  
+| bip_39_word_space_6 | rebuild clog cruise gentle cook midnight |  
+| bip_39_word_space_7 | rebuild clog cruise gentle cook midnight mistake |  
+| bip_39_word_space_8 | rebuild clog cruise gentle cook midnight mistake swap |  
+| bip_39_word_space_9 | rebuild clog cruise gentle cook midnight mistake swap finish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

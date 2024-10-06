@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: salt dignity
+  * bip 39 word 3: salt dignity stick
+  * bip 39 word: salt dignity stick alone question mesh connect open trim other shove aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | salt |  
+| bip_39_word_new_br10 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim<br>other |  
+| bip_39_word_new_br11 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim<br>other<br>shove |  
+| bip_39_word_new_br12 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim<br>other<br>shove<br>aisle |  
+| bip_39_word_new_br2 | salt<br>dignity |  
+| bip_39_word_new_br3 | salt<br>dignity<br>stick |  
+| bip_39_word_new_br4 | salt<br>dignity<br>stick<br>alone |  
+| bip_39_word_new_br5 | salt<br>dignity<br>stick<br>alone<br>question |  
+| bip_39_word_new_br6 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh |  
+| bip_39_word_new_br7 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect |  
+| bip_39_word_new_br8 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open |  
+| bip_39_word_new_br9 | salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim |  
+| bip_39_word_new_line1 | salt |  
+| bip_39_word_new_line10 | salt
+dignity
+stick
+alone
+question
+mesh
+connect
+open
+trim
+other |  
+| bip_39_word_new_line11 | salt
+dignity
+stick
+alone
+question
+mesh
+connect
+open
+trim
+other
+shove |  
+| bip_39_word_new_line12 | salt
+dignity
+stick
+alone
+question
+mesh
+connect
+open
+trim
+other
+shove
+aisle |  
+| bip_39_word_new_line2 | salt
+dignity |  
+| bip_39_word_new_line3 | salt
+dignity
+stick |  
+| bip_39_word_new_line4 | salt
+dignity
+stick
+alone |  
+| bip_39_word_new_line5 | salt
+dignity
+stick
+alone
+question |  
+| bip_39_word_new_line6 | salt
+dignity
+stick
+alone
+question
+mesh |  
+| bip_39_word_new_line7 | salt
+dignity
+stick
+alone
+question
+mesh
+connect |  
+| bip_39_word_new_line8 | salt
+dignity
+stick
+alone
+question
+mesh
+connect
+open |  
+| bip_39_word_new_line9 | salt
+dignity
+stick
+alone
+question
+mesh
+connect
+open
+trim |  
+| bip_39_word_space_0 | ['salt', 'dignity', 'stick', 'alone', 'question', 'mesh', 'connect', 'open', 'trim', 'other', 'shove', 'aisle'] |  
+| bip_39_word_space_1 | salt |  
+| bip_39_word_space_10 | salt dignity stick alone question mesh connect open trim other |  
+| bip_39_word_space_11 | salt dignity stick alone question mesh connect open trim other shove |  
+| bip_39_word_space_12 | salt dignity stick alone question mesh connect open trim other shove aisle |  
+| bip_39_word_space_2 | salt dignity |  
+| bip_39_word_space_3 | salt dignity stick |  
+| bip_39_word_space_4 | salt dignity stick alone |  
+| bip_39_word_space_5 | salt dignity stick alone question |  
+| bip_39_word_space_6 | salt dignity stick alone question mesh |  
+| bip_39_word_space_7 | salt dignity stick alone question mesh connect |  
+| bip_39_word_space_8 | salt dignity stick alone question mesh connect open |  
+| bip_39_word_space_9 | salt dignity stick alone question mesh connect open trim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

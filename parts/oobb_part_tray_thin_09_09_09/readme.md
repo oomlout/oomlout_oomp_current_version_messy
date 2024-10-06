@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: color rural
+  * bip 39 word 3: color rural helmet
+  * bip 39 word: color rural helmet wheel pill scatter obscure home rigid ability own arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | color |  
+| bip_39_word_new_br10 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability |  
+| bip_39_word_new_br11 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability<br>own |  
+| bip_39_word_new_br12 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid<br>ability<br>own<br>arm |  
+| bip_39_word_new_br2 | color<br>rural |  
+| bip_39_word_new_br3 | color<br>rural<br>helmet |  
+| bip_39_word_new_br4 | color<br>rural<br>helmet<br>wheel |  
+| bip_39_word_new_br5 | color<br>rural<br>helmet<br>wheel<br>pill |  
+| bip_39_word_new_br6 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter |  
+| bip_39_word_new_br7 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure |  
+| bip_39_word_new_br8 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home |  
+| bip_39_word_new_br9 | color<br>rural<br>helmet<br>wheel<br>pill<br>scatter<br>obscure<br>home<br>rigid |  
+| bip_39_word_new_line1 | color |  
+| bip_39_word_new_line10 | color
+rural
+helmet
+wheel
+pill
+scatter
+obscure
+home
+rigid
+ability |  
+| bip_39_word_new_line11 | color
+rural
+helmet
+wheel
+pill
+scatter
+obscure
+home
+rigid
+ability
+own |  
+| bip_39_word_new_line12 | color
+rural
+helmet
+wheel
+pill
+scatter
+obscure
+home
+rigid
+ability
+own
+arm |  
+| bip_39_word_new_line2 | color
+rural |  
+| bip_39_word_new_line3 | color
+rural
+helmet |  
+| bip_39_word_new_line4 | color
+rural
+helmet
+wheel |  
+| bip_39_word_new_line5 | color
+rural
+helmet
+wheel
+pill |  
+| bip_39_word_new_line6 | color
+rural
+helmet
+wheel
+pill
+scatter |  
+| bip_39_word_new_line7 | color
+rural
+helmet
+wheel
+pill
+scatter
+obscure |  
+| bip_39_word_new_line8 | color
+rural
+helmet
+wheel
+pill
+scatter
+obscure
+home |  
+| bip_39_word_new_line9 | color
+rural
+helmet
+wheel
+pill
+scatter
+obscure
+home
+rigid |  
+| bip_39_word_space_0 | ['color', 'rural', 'helmet', 'wheel', 'pill', 'scatter', 'obscure', 'home', 'rigid', 'ability', 'own', 'arm'] |  
+| bip_39_word_space_1 | color |  
+| bip_39_word_space_10 | color rural helmet wheel pill scatter obscure home rigid ability |  
+| bip_39_word_space_11 | color rural helmet wheel pill scatter obscure home rigid ability own |  
+| bip_39_word_space_12 | color rural helmet wheel pill scatter obscure home rigid ability own arm |  
+| bip_39_word_space_2 | color rural |  
+| bip_39_word_space_3 | color rural helmet |  
+| bip_39_word_space_4 | color rural helmet wheel |  
+| bip_39_word_space_5 | color rural helmet wheel pill |  
+| bip_39_word_space_6 | color rural helmet wheel pill scatter |  
+| bip_39_word_space_7 | color rural helmet wheel pill scatter obscure |  
+| bip_39_word_space_8 | color rural helmet wheel pill scatter obscure home |  
+| bip_39_word_space_9 | color rural helmet wheel pill scatter obscure home rigid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

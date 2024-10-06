@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: digital odor
+  * bip 39 word 3: digital odor chicken
+  * bip 39 word: digital odor chicken relax deliver spy question edge tongue seminar upgrade account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | digital |  
+| bip_39_word_new_br10 | digital<br>odor<br>chicken<br>relax<br>deliver<br>spy<br>question<br>edge<br>tongue<br>seminar |  
+| bip_39_word_new_br11 | digital<br>odor<br>chicken<br>relax<br>deliver<br>spy<br>question<br>edge<br>tongue<br>seminar<br>upgrade |  
+| bip_39_word_new_br12 | digital<br>odor<br>chicken<br>relax<br>deliver<br>spy<br>question<br>edge<br>tongue<br>seminar<br>upgrade<br>account |  
+| bip_39_word_new_br2 | digital<br>odor |  
+| bip_39_word_new_br3 | digital<br>odor<br>chicken |  
+| bip_39_word_new_br4 | digital<br>odor<br>chicken<br>relax |  
+| bip_39_word_new_br5 | digital<br>odor<br>chicken<br>relax<br>deliver |  
+| bip_39_word_new_br6 | digital<br>odor<br>chicken<br>relax<br>deliver<br>spy |  
+| bip_39_word_new_br7 | digital<br>odor<br>chicken<br>relax<br>deliver<br>spy<br>question |  
+| bip_39_word_new_br8 | digital<br>odor<br>chicken<br>relax<br>deliver<br>spy<br>question<br>edge |  
+| bip_39_word_new_br9 | digital<br>odor<br>chicken<br>relax<br>deliver<br>spy<br>question<br>edge<br>tongue |  
+| bip_39_word_new_line1 | digital |  
+| bip_39_word_new_line10 | digital
+odor
+chicken
+relax
+deliver
+spy
+question
+edge
+tongue
+seminar |  
+| bip_39_word_new_line11 | digital
+odor
+chicken
+relax
+deliver
+spy
+question
+edge
+tongue
+seminar
+upgrade |  
+| bip_39_word_new_line12 | digital
+odor
+chicken
+relax
+deliver
+spy
+question
+edge
+tongue
+seminar
+upgrade
+account |  
+| bip_39_word_new_line2 | digital
+odor |  
+| bip_39_word_new_line3 | digital
+odor
+chicken |  
+| bip_39_word_new_line4 | digital
+odor
+chicken
+relax |  
+| bip_39_word_new_line5 | digital
+odor
+chicken
+relax
+deliver |  
+| bip_39_word_new_line6 | digital
+odor
+chicken
+relax
+deliver
+spy |  
+| bip_39_word_new_line7 | digital
+odor
+chicken
+relax
+deliver
+spy
+question |  
+| bip_39_word_new_line8 | digital
+odor
+chicken
+relax
+deliver
+spy
+question
+edge |  
+| bip_39_word_new_line9 | digital
+odor
+chicken
+relax
+deliver
+spy
+question
+edge
+tongue |  
+| bip_39_word_space_0 | ['digital', 'odor', 'chicken', 'relax', 'deliver', 'spy', 'question', 'edge', 'tongue', 'seminar', 'upgrade', 'account'] |  
+| bip_39_word_space_1 | digital |  
+| bip_39_word_space_10 | digital odor chicken relax deliver spy question edge tongue seminar |  
+| bip_39_word_space_11 | digital odor chicken relax deliver spy question edge tongue seminar upgrade |  
+| bip_39_word_space_12 | digital odor chicken relax deliver spy question edge tongue seminar upgrade account |  
+| bip_39_word_space_2 | digital odor |  
+| bip_39_word_space_3 | digital odor chicken |  
+| bip_39_word_space_4 | digital odor chicken relax |  
+| bip_39_word_space_5 | digital odor chicken relax deliver |  
+| bip_39_word_space_6 | digital odor chicken relax deliver spy |  
+| bip_39_word_space_7 | digital odor chicken relax deliver spy question |  
+| bip_39_word_space_8 | digital odor chicken relax deliver spy question edge |  
+| bip_39_word_space_9 | digital odor chicken relax deliver spy question edge tongue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

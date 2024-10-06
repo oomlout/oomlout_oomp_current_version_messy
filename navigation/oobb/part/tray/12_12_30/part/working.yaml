@@ -1,3 +1,186 @@
+bip_39_word_new_br1: update
+bip_39_word_new_br10: update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female
+bip_39_word_new_br11: update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female<br>chalk
+bip_39_word_new_br12: update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken<br>female<br>chalk<br>autumn
+bip_39_word_new_br2: update<br>barely
+bip_39_word_new_br3: update<br>barely<br>east
+bip_39_word_new_br4: update<br>barely<br>east<br>sock
+bip_39_word_new_br5: update<br>barely<br>east<br>sock<br>radar
+bip_39_word_new_br6: update<br>barely<br>east<br>sock<br>radar<br>hand
+bip_39_word_new_br7: update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle
+bip_39_word_new_br8: update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial
+bip_39_word_new_br9: update<br>barely<br>east<br>sock<br>radar<br>hand<br>idle<br>crucial<br>chicken
+bip_39_word_new_line1: update
+bip_39_word_new_line10: 'update
+
+  barely
+
+  east
+
+  sock
+
+  radar
+
+  hand
+
+  idle
+
+  crucial
+
+  chicken
+
+  female'
+bip_39_word_new_line11: 'update
+
+  barely
+
+  east
+
+  sock
+
+  radar
+
+  hand
+
+  idle
+
+  crucial
+
+  chicken
+
+  female
+
+  chalk'
+bip_39_word_new_line12: 'update
+
+  barely
+
+  east
+
+  sock
+
+  radar
+
+  hand
+
+  idle
+
+  crucial
+
+  chicken
+
+  female
+
+  chalk
+
+  autumn'
+bip_39_word_new_line2: 'update
+
+  barely'
+bip_39_word_new_line3: 'update
+
+  barely
+
+  east'
+bip_39_word_new_line4: 'update
+
+  barely
+
+  east
+
+  sock'
+bip_39_word_new_line5: 'update
+
+  barely
+
+  east
+
+  sock
+
+  radar'
+bip_39_word_new_line6: 'update
+
+  barely
+
+  east
+
+  sock
+
+  radar
+
+  hand'
+bip_39_word_new_line7: 'update
+
+  barely
+
+  east
+
+  sock
+
+  radar
+
+  hand
+
+  idle'
+bip_39_word_new_line8: 'update
+
+  barely
+
+  east
+
+  sock
+
+  radar
+
+  hand
+
+  idle
+
+  crucial'
+bip_39_word_new_line9: 'update
+
+  barely
+
+  east
+
+  sock
+
+  radar
+
+  hand
+
+  idle
+
+  crucial
+
+  chicken'
+bip_39_word_space_0:
+- update
+- barely
+- east
+- sock
+- radar
+- hand
+- idle
+- crucial
+- chicken
+- female
+- chalk
+- autumn
+bip_39_word_space_1: update
+bip_39_word_space_10: update barely east sock radar hand idle crucial chicken female
+bip_39_word_space_11: update barely east sock radar hand idle crucial chicken female
+  chalk
+bip_39_word_space_12: update barely east sock radar hand idle crucial chicken female
+  chalk autumn
+bip_39_word_space_2: update barely
+bip_39_word_space_3: update barely east
+bip_39_word_space_4: update barely east sock
+bip_39_word_space_5: update barely east sock radar
+bip_39_word_space_6: update barely east sock radar hand
+bip_39_word_space_7: update barely east sock radar hand idle
+bip_39_word_space_8: update barely east sock radar hand idle crucial
+bip_39_word_space_9: update barely east sock radar hand idle crucial chicken
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

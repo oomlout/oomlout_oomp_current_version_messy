@@ -1,3 +1,185 @@
+bip_39_word_new_br1: split
+bip_39_word_new_br10: split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet
+bip_39_word_new_br11: split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet<br>tenant
+bip_39_word_new_br12: split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich<br>pet<br>tenant<br>antique
+bip_39_word_new_br2: split<br>demise
+bip_39_word_new_br3: split<br>demise<br>trap
+bip_39_word_new_br4: split<br>demise<br>trap<br>door
+bip_39_word_new_br5: split<br>demise<br>trap<br>door<br>else
+bip_39_word_new_br6: split<br>demise<br>trap<br>door<br>else<br>daughter
+bip_39_word_new_br7: split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest
+bip_39_word_new_br8: split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense
+bip_39_word_new_br9: split<br>demise<br>trap<br>door<br>else<br>daughter<br>forest<br>sense<br>rich
+bip_39_word_new_line1: split
+bip_39_word_new_line10: 'split
+
+  demise
+
+  trap
+
+  door
+
+  else
+
+  daughter
+
+  forest
+
+  sense
+
+  rich
+
+  pet'
+bip_39_word_new_line11: 'split
+
+  demise
+
+  trap
+
+  door
+
+  else
+
+  daughter
+
+  forest
+
+  sense
+
+  rich
+
+  pet
+
+  tenant'
+bip_39_word_new_line12: 'split
+
+  demise
+
+  trap
+
+  door
+
+  else
+
+  daughter
+
+  forest
+
+  sense
+
+  rich
+
+  pet
+
+  tenant
+
+  antique'
+bip_39_word_new_line2: 'split
+
+  demise'
+bip_39_word_new_line3: 'split
+
+  demise
+
+  trap'
+bip_39_word_new_line4: 'split
+
+  demise
+
+  trap
+
+  door'
+bip_39_word_new_line5: 'split
+
+  demise
+
+  trap
+
+  door
+
+  else'
+bip_39_word_new_line6: 'split
+
+  demise
+
+  trap
+
+  door
+
+  else
+
+  daughter'
+bip_39_word_new_line7: 'split
+
+  demise
+
+  trap
+
+  door
+
+  else
+
+  daughter
+
+  forest'
+bip_39_word_new_line8: 'split
+
+  demise
+
+  trap
+
+  door
+
+  else
+
+  daughter
+
+  forest
+
+  sense'
+bip_39_word_new_line9: 'split
+
+  demise
+
+  trap
+
+  door
+
+  else
+
+  daughter
+
+  forest
+
+  sense
+
+  rich'
+bip_39_word_space_0:
+- split
+- demise
+- trap
+- door
+- else
+- daughter
+- forest
+- sense
+- rich
+- pet
+- tenant
+- antique
+bip_39_word_space_1: split
+bip_39_word_space_10: split demise trap door else daughter forest sense rich pet
+bip_39_word_space_11: split demise trap door else daughter forest sense rich pet tenant
+bip_39_word_space_12: split demise trap door else daughter forest sense rich pet tenant
+  antique
+bip_39_word_space_2: split demise
+bip_39_word_space_3: split demise trap
+bip_39_word_space_4: split demise trap door
+bip_39_word_space_5: split demise trap door else
+bip_39_word_space_6: split demise trap door else daughter
+bip_39_word_space_7: split demise trap door else daughter forest
+bip_39_word_space_8: split demise trap door else daughter forest sense
+bip_39_word_space_9: split demise trap door else daughter forest sense rich
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

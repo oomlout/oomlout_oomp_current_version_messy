@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: history raven
+  * bip 39 word 3: history raven dilemma
+  * bip 39 word: history raven dilemma bridge zoo hollow muffin universe scare human scene anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | history |  
+| bip_39_word_new_br10 | history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow<br>muffin<br>universe<br>scare<br>human |  
+| bip_39_word_new_br11 | history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow<br>muffin<br>universe<br>scare<br>human<br>scene |  
+| bip_39_word_new_br12 | history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow<br>muffin<br>universe<br>scare<br>human<br>scene<br>anger |  
+| bip_39_word_new_br2 | history<br>raven |  
+| bip_39_word_new_br3 | history<br>raven<br>dilemma |  
+| bip_39_word_new_br4 | history<br>raven<br>dilemma<br>bridge |  
+| bip_39_word_new_br5 | history<br>raven<br>dilemma<br>bridge<br>zoo |  
+| bip_39_word_new_br6 | history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow |  
+| bip_39_word_new_br7 | history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow<br>muffin |  
+| bip_39_word_new_br8 | history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow<br>muffin<br>universe |  
+| bip_39_word_new_br9 | history<br>raven<br>dilemma<br>bridge<br>zoo<br>hollow<br>muffin<br>universe<br>scare |  
+| bip_39_word_new_line1 | history |  
+| bip_39_word_new_line10 | history
+raven
+dilemma
+bridge
+zoo
+hollow
+muffin
+universe
+scare
+human |  
+| bip_39_word_new_line11 | history
+raven
+dilemma
+bridge
+zoo
+hollow
+muffin
+universe
+scare
+human
+scene |  
+| bip_39_word_new_line12 | history
+raven
+dilemma
+bridge
+zoo
+hollow
+muffin
+universe
+scare
+human
+scene
+anger |  
+| bip_39_word_new_line2 | history
+raven |  
+| bip_39_word_new_line3 | history
+raven
+dilemma |  
+| bip_39_word_new_line4 | history
+raven
+dilemma
+bridge |  
+| bip_39_word_new_line5 | history
+raven
+dilemma
+bridge
+zoo |  
+| bip_39_word_new_line6 | history
+raven
+dilemma
+bridge
+zoo
+hollow |  
+| bip_39_word_new_line7 | history
+raven
+dilemma
+bridge
+zoo
+hollow
+muffin |  
+| bip_39_word_new_line8 | history
+raven
+dilemma
+bridge
+zoo
+hollow
+muffin
+universe |  
+| bip_39_word_new_line9 | history
+raven
+dilemma
+bridge
+zoo
+hollow
+muffin
+universe
+scare |  
+| bip_39_word_space_0 | ['history', 'raven', 'dilemma', 'bridge', 'zoo', 'hollow', 'muffin', 'universe', 'scare', 'human', 'scene', 'anger'] |  
+| bip_39_word_space_1 | history |  
+| bip_39_word_space_10 | history raven dilemma bridge zoo hollow muffin universe scare human |  
+| bip_39_word_space_11 | history raven dilemma bridge zoo hollow muffin universe scare human scene |  
+| bip_39_word_space_12 | history raven dilemma bridge zoo hollow muffin universe scare human scene anger |  
+| bip_39_word_space_2 | history raven |  
+| bip_39_word_space_3 | history raven dilemma |  
+| bip_39_word_space_4 | history raven dilemma bridge |  
+| bip_39_word_space_5 | history raven dilemma bridge zoo |  
+| bip_39_word_space_6 | history raven dilemma bridge zoo hollow |  
+| bip_39_word_space_7 | history raven dilemma bridge zoo hollow muffin |  
+| bip_39_word_space_8 | history raven dilemma bridge zoo hollow muffin universe |  
+| bip_39_word_space_9 | history raven dilemma bridge zoo hollow muffin universe scare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

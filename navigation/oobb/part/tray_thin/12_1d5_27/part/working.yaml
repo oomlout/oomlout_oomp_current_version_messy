@@ -1,3 +1,186 @@
+bip_39_word_new_br1: beauty
+bip_39_word_new_br10: beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp
+bip_39_word_new_br11: beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp<br>copy
+bip_39_word_new_br12: beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop<br>ramp<br>copy<br>arrive
+bip_39_word_new_br2: beauty<br>correct
+bip_39_word_new_br3: beauty<br>correct<br>horror
+bip_39_word_new_br4: beauty<br>correct<br>horror<br>damp
+bip_39_word_new_br5: beauty<br>correct<br>horror<br>damp<br>kitchen
+bip_39_word_new_br6: beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric
+bip_39_word_new_br7: beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense
+bip_39_word_new_br8: beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur
+bip_39_word_new_br9: beauty<br>correct<br>horror<br>damp<br>kitchen<br>fabric<br>sense<br>blur<br>loop
+bip_39_word_new_line1: beauty
+bip_39_word_new_line10: 'beauty
+
+  correct
+
+  horror
+
+  damp
+
+  kitchen
+
+  fabric
+
+  sense
+
+  blur
+
+  loop
+
+  ramp'
+bip_39_word_new_line11: 'beauty
+
+  correct
+
+  horror
+
+  damp
+
+  kitchen
+
+  fabric
+
+  sense
+
+  blur
+
+  loop
+
+  ramp
+
+  copy'
+bip_39_word_new_line12: 'beauty
+
+  correct
+
+  horror
+
+  damp
+
+  kitchen
+
+  fabric
+
+  sense
+
+  blur
+
+  loop
+
+  ramp
+
+  copy
+
+  arrive'
+bip_39_word_new_line2: 'beauty
+
+  correct'
+bip_39_word_new_line3: 'beauty
+
+  correct
+
+  horror'
+bip_39_word_new_line4: 'beauty
+
+  correct
+
+  horror
+
+  damp'
+bip_39_word_new_line5: 'beauty
+
+  correct
+
+  horror
+
+  damp
+
+  kitchen'
+bip_39_word_new_line6: 'beauty
+
+  correct
+
+  horror
+
+  damp
+
+  kitchen
+
+  fabric'
+bip_39_word_new_line7: 'beauty
+
+  correct
+
+  horror
+
+  damp
+
+  kitchen
+
+  fabric
+
+  sense'
+bip_39_word_new_line8: 'beauty
+
+  correct
+
+  horror
+
+  damp
+
+  kitchen
+
+  fabric
+
+  sense
+
+  blur'
+bip_39_word_new_line9: 'beauty
+
+  correct
+
+  horror
+
+  damp
+
+  kitchen
+
+  fabric
+
+  sense
+
+  blur
+
+  loop'
+bip_39_word_space_0:
+- beauty
+- correct
+- horror
+- damp
+- kitchen
+- fabric
+- sense
+- blur
+- loop
+- ramp
+- copy
+- arrive
+bip_39_word_space_1: beauty
+bip_39_word_space_10: beauty correct horror damp kitchen fabric sense blur loop ramp
+bip_39_word_space_11: beauty correct horror damp kitchen fabric sense blur loop ramp
+  copy
+bip_39_word_space_12: beauty correct horror damp kitchen fabric sense blur loop ramp
+  copy arrive
+bip_39_word_space_2: beauty correct
+bip_39_word_space_3: beauty correct horror
+bip_39_word_space_4: beauty correct horror damp
+bip_39_word_space_5: beauty correct horror damp kitchen
+bip_39_word_space_6: beauty correct horror damp kitchen fabric
+bip_39_word_space_7: beauty correct horror damp kitchen fabric sense
+bip_39_word_space_8: beauty correct horror damp kitchen fabric sense blur
+bip_39_word_space_9: beauty correct horror damp kitchen fabric sense blur loop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

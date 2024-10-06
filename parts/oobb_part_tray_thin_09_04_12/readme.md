@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ginger genre
+  * bip 39 word 3: ginger genre kind
+  * bip 39 word: ginger genre kind rice stock wood pair gun series creek pelican auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ginger |  
+| bip_39_word_new_br10 | ginger<br>genre<br>kind<br>rice<br>stock<br>wood<br>pair<br>gun<br>series<br>creek |  
+| bip_39_word_new_br11 | ginger<br>genre<br>kind<br>rice<br>stock<br>wood<br>pair<br>gun<br>series<br>creek<br>pelican |  
+| bip_39_word_new_br12 | ginger<br>genre<br>kind<br>rice<br>stock<br>wood<br>pair<br>gun<br>series<br>creek<br>pelican<br>auto |  
+| bip_39_word_new_br2 | ginger<br>genre |  
+| bip_39_word_new_br3 | ginger<br>genre<br>kind |  
+| bip_39_word_new_br4 | ginger<br>genre<br>kind<br>rice |  
+| bip_39_word_new_br5 | ginger<br>genre<br>kind<br>rice<br>stock |  
+| bip_39_word_new_br6 | ginger<br>genre<br>kind<br>rice<br>stock<br>wood |  
+| bip_39_word_new_br7 | ginger<br>genre<br>kind<br>rice<br>stock<br>wood<br>pair |  
+| bip_39_word_new_br8 | ginger<br>genre<br>kind<br>rice<br>stock<br>wood<br>pair<br>gun |  
+| bip_39_word_new_br9 | ginger<br>genre<br>kind<br>rice<br>stock<br>wood<br>pair<br>gun<br>series |  
+| bip_39_word_new_line1 | ginger |  
+| bip_39_word_new_line10 | ginger
+genre
+kind
+rice
+stock
+wood
+pair
+gun
+series
+creek |  
+| bip_39_word_new_line11 | ginger
+genre
+kind
+rice
+stock
+wood
+pair
+gun
+series
+creek
+pelican |  
+| bip_39_word_new_line12 | ginger
+genre
+kind
+rice
+stock
+wood
+pair
+gun
+series
+creek
+pelican
+auto |  
+| bip_39_word_new_line2 | ginger
+genre |  
+| bip_39_word_new_line3 | ginger
+genre
+kind |  
+| bip_39_word_new_line4 | ginger
+genre
+kind
+rice |  
+| bip_39_word_new_line5 | ginger
+genre
+kind
+rice
+stock |  
+| bip_39_word_new_line6 | ginger
+genre
+kind
+rice
+stock
+wood |  
+| bip_39_word_new_line7 | ginger
+genre
+kind
+rice
+stock
+wood
+pair |  
+| bip_39_word_new_line8 | ginger
+genre
+kind
+rice
+stock
+wood
+pair
+gun |  
+| bip_39_word_new_line9 | ginger
+genre
+kind
+rice
+stock
+wood
+pair
+gun
+series |  
+| bip_39_word_space_0 | ['ginger', 'genre', 'kind', 'rice', 'stock', 'wood', 'pair', 'gun', 'series', 'creek', 'pelican', 'auto'] |  
+| bip_39_word_space_1 | ginger |  
+| bip_39_word_space_10 | ginger genre kind rice stock wood pair gun series creek |  
+| bip_39_word_space_11 | ginger genre kind rice stock wood pair gun series creek pelican |  
+| bip_39_word_space_12 | ginger genre kind rice stock wood pair gun series creek pelican auto |  
+| bip_39_word_space_2 | ginger genre |  
+| bip_39_word_space_3 | ginger genre kind |  
+| bip_39_word_space_4 | ginger genre kind rice |  
+| bip_39_word_space_5 | ginger genre kind rice stock |  
+| bip_39_word_space_6 | ginger genre kind rice stock wood |  
+| bip_39_word_space_7 | ginger genre kind rice stock wood pair |  
+| bip_39_word_space_8 | ginger genre kind rice stock wood pair gun |  
+| bip_39_word_space_9 | ginger genre kind rice stock wood pair gun series |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

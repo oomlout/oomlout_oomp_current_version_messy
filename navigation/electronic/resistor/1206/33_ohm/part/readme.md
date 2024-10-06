@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: advance penalty
+  * bip 39 word 3: advance penalty buffalo
+  * bip 39 word: advance penalty buffalo curve athlete swear push endless eyebrow dune erupt attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | advance |  
+| bip_39_word_new_br10 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune |  
+| bip_39_word_new_br11 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune<br>erupt |  
+| bip_39_word_new_br12 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow<br>dune<br>erupt<br>attack |  
+| bip_39_word_new_br2 | advance<br>penalty |  
+| bip_39_word_new_br3 | advance<br>penalty<br>buffalo |  
+| bip_39_word_new_br4 | advance<br>penalty<br>buffalo<br>curve |  
+| bip_39_word_new_br5 | advance<br>penalty<br>buffalo<br>curve<br>athlete |  
+| bip_39_word_new_br6 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear |  
+| bip_39_word_new_br7 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push |  
+| bip_39_word_new_br8 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless |  
+| bip_39_word_new_br9 | advance<br>penalty<br>buffalo<br>curve<br>athlete<br>swear<br>push<br>endless<br>eyebrow |  
+| bip_39_word_new_line1 | advance |  
+| bip_39_word_new_line10 | advance
+penalty
+buffalo
+curve
+athlete
+swear
+push
+endless
+eyebrow
+dune |  
+| bip_39_word_new_line11 | advance
+penalty
+buffalo
+curve
+athlete
+swear
+push
+endless
+eyebrow
+dune
+erupt |  
+| bip_39_word_new_line12 | advance
+penalty
+buffalo
+curve
+athlete
+swear
+push
+endless
+eyebrow
+dune
+erupt
+attack |  
+| bip_39_word_new_line2 | advance
+penalty |  
+| bip_39_word_new_line3 | advance
+penalty
+buffalo |  
+| bip_39_word_new_line4 | advance
+penalty
+buffalo
+curve |  
+| bip_39_word_new_line5 | advance
+penalty
+buffalo
+curve
+athlete |  
+| bip_39_word_new_line6 | advance
+penalty
+buffalo
+curve
+athlete
+swear |  
+| bip_39_word_new_line7 | advance
+penalty
+buffalo
+curve
+athlete
+swear
+push |  
+| bip_39_word_new_line8 | advance
+penalty
+buffalo
+curve
+athlete
+swear
+push
+endless |  
+| bip_39_word_new_line9 | advance
+penalty
+buffalo
+curve
+athlete
+swear
+push
+endless
+eyebrow |  
+| bip_39_word_space_0 | ['advance', 'penalty', 'buffalo', 'curve', 'athlete', 'swear', 'push', 'endless', 'eyebrow', 'dune', 'erupt', 'attack'] |  
+| bip_39_word_space_1 | advance |  
+| bip_39_word_space_10 | advance penalty buffalo curve athlete swear push endless eyebrow dune |  
+| bip_39_word_space_11 | advance penalty buffalo curve athlete swear push endless eyebrow dune erupt |  
+| bip_39_word_space_12 | advance penalty buffalo curve athlete swear push endless eyebrow dune erupt attack |  
+| bip_39_word_space_2 | advance penalty |  
+| bip_39_word_space_3 | advance penalty buffalo |  
+| bip_39_word_space_4 | advance penalty buffalo curve |  
+| bip_39_word_space_5 | advance penalty buffalo curve athlete |  
+| bip_39_word_space_6 | advance penalty buffalo curve athlete swear |  
+| bip_39_word_space_7 | advance penalty buffalo curve athlete swear push |  
+| bip_39_word_space_8 | advance penalty buffalo curve athlete swear push endless |  
+| bip_39_word_space_9 | advance penalty buffalo curve athlete swear push endless eyebrow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

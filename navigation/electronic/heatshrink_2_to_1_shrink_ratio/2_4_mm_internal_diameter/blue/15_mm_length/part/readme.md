@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: impose yard
+  * bip 39 word 3: impose yard beauty
+  * bip 39 word: impose yard beauty indoor cook divert uncle sunset struggle finger fruit action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | impose |  
+| bip_39_word_new_br10 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert<br>uncle<br>sunset<br>struggle<br>finger |  
+| bip_39_word_new_br11 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert<br>uncle<br>sunset<br>struggle<br>finger<br>fruit |  
+| bip_39_word_new_br12 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert<br>uncle<br>sunset<br>struggle<br>finger<br>fruit<br>action |  
+| bip_39_word_new_br2 | impose<br>yard |  
+| bip_39_word_new_br3 | impose<br>yard<br>beauty |  
+| bip_39_word_new_br4 | impose<br>yard<br>beauty<br>indoor |  
+| bip_39_word_new_br5 | impose<br>yard<br>beauty<br>indoor<br>cook |  
+| bip_39_word_new_br6 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert |  
+| bip_39_word_new_br7 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert<br>uncle |  
+| bip_39_word_new_br8 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert<br>uncle<br>sunset |  
+| bip_39_word_new_br9 | impose<br>yard<br>beauty<br>indoor<br>cook<br>divert<br>uncle<br>sunset<br>struggle |  
+| bip_39_word_new_line1 | impose |  
+| bip_39_word_new_line10 | impose
+yard
+beauty
+indoor
+cook
+divert
+uncle
+sunset
+struggle
+finger |  
+| bip_39_word_new_line11 | impose
+yard
+beauty
+indoor
+cook
+divert
+uncle
+sunset
+struggle
+finger
+fruit |  
+| bip_39_word_new_line12 | impose
+yard
+beauty
+indoor
+cook
+divert
+uncle
+sunset
+struggle
+finger
+fruit
+action |  
+| bip_39_word_new_line2 | impose
+yard |  
+| bip_39_word_new_line3 | impose
+yard
+beauty |  
+| bip_39_word_new_line4 | impose
+yard
+beauty
+indoor |  
+| bip_39_word_new_line5 | impose
+yard
+beauty
+indoor
+cook |  
+| bip_39_word_new_line6 | impose
+yard
+beauty
+indoor
+cook
+divert |  
+| bip_39_word_new_line7 | impose
+yard
+beauty
+indoor
+cook
+divert
+uncle |  
+| bip_39_word_new_line8 | impose
+yard
+beauty
+indoor
+cook
+divert
+uncle
+sunset |  
+| bip_39_word_new_line9 | impose
+yard
+beauty
+indoor
+cook
+divert
+uncle
+sunset
+struggle |  
+| bip_39_word_space_0 | ['impose', 'yard', 'beauty', 'indoor', 'cook', 'divert', 'uncle', 'sunset', 'struggle', 'finger', 'fruit', 'action'] |  
+| bip_39_word_space_1 | impose |  
+| bip_39_word_space_10 | impose yard beauty indoor cook divert uncle sunset struggle finger |  
+| bip_39_word_space_11 | impose yard beauty indoor cook divert uncle sunset struggle finger fruit |  
+| bip_39_word_space_12 | impose yard beauty indoor cook divert uncle sunset struggle finger fruit action |  
+| bip_39_word_space_2 | impose yard |  
+| bip_39_word_space_3 | impose yard beauty |  
+| bip_39_word_space_4 | impose yard beauty indoor |  
+| bip_39_word_space_5 | impose yard beauty indoor cook |  
+| bip_39_word_space_6 | impose yard beauty indoor cook divert |  
+| bip_39_word_space_7 | impose yard beauty indoor cook divert uncle |  
+| bip_39_word_space_8 | impose yard beauty indoor cook divert uncle sunset |  
+| bip_39_word_space_9 | impose yard beauty indoor cook divert uncle sunset struggle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

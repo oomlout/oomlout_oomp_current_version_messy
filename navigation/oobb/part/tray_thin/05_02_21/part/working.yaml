@@ -1,3 +1,186 @@
+bip_39_word_new_br1: special
+bip_39_word_new_br10: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology
+bip_39_word_new_br11: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology<br>vague
+bip_39_word_new_br12: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien<br>apology<br>vague<br>arrow
+bip_39_word_new_br2: special<br>jump
+bip_39_word_new_br3: special<br>jump<br>cattle
+bip_39_word_new_br4: special<br>jump<br>cattle<br>wisdom
+bip_39_word_new_br5: special<br>jump<br>cattle<br>wisdom<br>hurry
+bip_39_word_new_br6: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna
+bip_39_word_new_br7: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant
+bip_39_word_new_br8: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe
+bip_39_word_new_br9: special<br>jump<br>cattle<br>wisdom<br>hurry<br>tuna<br>vacant<br>fringe<br>alien
+bip_39_word_new_line1: special
+bip_39_word_new_line10: 'special
+
+  jump
+
+  cattle
+
+  wisdom
+
+  hurry
+
+  tuna
+
+  vacant
+
+  fringe
+
+  alien
+
+  apology'
+bip_39_word_new_line11: 'special
+
+  jump
+
+  cattle
+
+  wisdom
+
+  hurry
+
+  tuna
+
+  vacant
+
+  fringe
+
+  alien
+
+  apology
+
+  vague'
+bip_39_word_new_line12: 'special
+
+  jump
+
+  cattle
+
+  wisdom
+
+  hurry
+
+  tuna
+
+  vacant
+
+  fringe
+
+  alien
+
+  apology
+
+  vague
+
+  arrow'
+bip_39_word_new_line2: 'special
+
+  jump'
+bip_39_word_new_line3: 'special
+
+  jump
+
+  cattle'
+bip_39_word_new_line4: 'special
+
+  jump
+
+  cattle
+
+  wisdom'
+bip_39_word_new_line5: 'special
+
+  jump
+
+  cattle
+
+  wisdom
+
+  hurry'
+bip_39_word_new_line6: 'special
+
+  jump
+
+  cattle
+
+  wisdom
+
+  hurry
+
+  tuna'
+bip_39_word_new_line7: 'special
+
+  jump
+
+  cattle
+
+  wisdom
+
+  hurry
+
+  tuna
+
+  vacant'
+bip_39_word_new_line8: 'special
+
+  jump
+
+  cattle
+
+  wisdom
+
+  hurry
+
+  tuna
+
+  vacant
+
+  fringe'
+bip_39_word_new_line9: 'special
+
+  jump
+
+  cattle
+
+  wisdom
+
+  hurry
+
+  tuna
+
+  vacant
+
+  fringe
+
+  alien'
+bip_39_word_space_0:
+- special
+- jump
+- cattle
+- wisdom
+- hurry
+- tuna
+- vacant
+- fringe
+- alien
+- apology
+- vague
+- arrow
+bip_39_word_space_1: special
+bip_39_word_space_10: special jump cattle wisdom hurry tuna vacant fringe alien apology
+bip_39_word_space_11: special jump cattle wisdom hurry tuna vacant fringe alien apology
+  vague
+bip_39_word_space_12: special jump cattle wisdom hurry tuna vacant fringe alien apology
+  vague arrow
+bip_39_word_space_2: special jump
+bip_39_word_space_3: special jump cattle
+bip_39_word_space_4: special jump cattle wisdom
+bip_39_word_space_5: special jump cattle wisdom hurry
+bip_39_word_space_6: special jump cattle wisdom hurry tuna
+bip_39_word_space_7: special jump cattle wisdom hurry tuna vacant
+bip_39_word_space_8: special jump cattle wisdom hurry tuna vacant fringe
+bip_39_word_space_9: special jump cattle wisdom hurry tuna vacant fringe alien
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

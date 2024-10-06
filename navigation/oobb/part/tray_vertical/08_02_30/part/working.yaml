@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sugar
+bip_39_word_new_br10: sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end
+bip_39_word_new_br11: sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end<br>dinner
+bip_39_word_new_br12: sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce<br>end<br>dinner<br>antique
+bip_39_word_new_br2: sugar<br>guard
+bip_39_word_new_br3: sugar<br>guard<br>glance
+bip_39_word_new_br4: sugar<br>guard<br>glance<br>sing
+bip_39_word_new_br5: sugar<br>guard<br>glance<br>sing<br>lonely
+bip_39_word_new_br6: sugar<br>guard<br>glance<br>sing<br>lonely<br>actress
+bip_39_word_new_br7: sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either
+bip_39_word_new_br8: sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt
+bip_39_word_new_br9: sugar<br>guard<br>glance<br>sing<br>lonely<br>actress<br>either<br>melt<br>sauce
+bip_39_word_new_line1: sugar
+bip_39_word_new_line10: 'sugar
+
+  guard
+
+  glance
+
+  sing
+
+  lonely
+
+  actress
+
+  either
+
+  melt
+
+  sauce
+
+  end'
+bip_39_word_new_line11: 'sugar
+
+  guard
+
+  glance
+
+  sing
+
+  lonely
+
+  actress
+
+  either
+
+  melt
+
+  sauce
+
+  end
+
+  dinner'
+bip_39_word_new_line12: 'sugar
+
+  guard
+
+  glance
+
+  sing
+
+  lonely
+
+  actress
+
+  either
+
+  melt
+
+  sauce
+
+  end
+
+  dinner
+
+  antique'
+bip_39_word_new_line2: 'sugar
+
+  guard'
+bip_39_word_new_line3: 'sugar
+
+  guard
+
+  glance'
+bip_39_word_new_line4: 'sugar
+
+  guard
+
+  glance
+
+  sing'
+bip_39_word_new_line5: 'sugar
+
+  guard
+
+  glance
+
+  sing
+
+  lonely'
+bip_39_word_new_line6: 'sugar
+
+  guard
+
+  glance
+
+  sing
+
+  lonely
+
+  actress'
+bip_39_word_new_line7: 'sugar
+
+  guard
+
+  glance
+
+  sing
+
+  lonely
+
+  actress
+
+  either'
+bip_39_word_new_line8: 'sugar
+
+  guard
+
+  glance
+
+  sing
+
+  lonely
+
+  actress
+
+  either
+
+  melt'
+bip_39_word_new_line9: 'sugar
+
+  guard
+
+  glance
+
+  sing
+
+  lonely
+
+  actress
+
+  either
+
+  melt
+
+  sauce'
+bip_39_word_space_0:
+- sugar
+- guard
+- glance
+- sing
+- lonely
+- actress
+- either
+- melt
+- sauce
+- end
+- dinner
+- antique
+bip_39_word_space_1: sugar
+bip_39_word_space_10: sugar guard glance sing lonely actress either melt sauce end
+bip_39_word_space_11: sugar guard glance sing lonely actress either melt sauce end
+  dinner
+bip_39_word_space_12: sugar guard glance sing lonely actress either melt sauce end
+  dinner antique
+bip_39_word_space_2: sugar guard
+bip_39_word_space_3: sugar guard glance
+bip_39_word_space_4: sugar guard glance sing
+bip_39_word_space_5: sugar guard glance sing lonely
+bip_39_word_space_6: sugar guard glance sing lonely actress
+bip_39_word_space_7: sugar guard glance sing lonely actress either
+bip_39_word_space_8: sugar guard glance sing lonely actress either melt
+bip_39_word_space_9: sugar guard glance sing lonely actress either melt sauce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

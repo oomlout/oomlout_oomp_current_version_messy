@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: myself reunion
+  * bip 39 word 3: myself reunion slab
+  * bip 39 word: myself reunion slab glory swim deny lake ski file child response agent
 
 ### other_codes
 * short_code: st1d2b3p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | myself |  
+| bip_39_word_new_br10 | myself<br>reunion<br>slab<br>glory<br>swim<br>deny<br>lake<br>ski<br>file<br>child |  
+| bip_39_word_new_br11 | myself<br>reunion<br>slab<br>glory<br>swim<br>deny<br>lake<br>ski<br>file<br>child<br>response |  
+| bip_39_word_new_br12 | myself<br>reunion<br>slab<br>glory<br>swim<br>deny<br>lake<br>ski<br>file<br>child<br>response<br>agent |  
+| bip_39_word_new_br2 | myself<br>reunion |  
+| bip_39_word_new_br3 | myself<br>reunion<br>slab |  
+| bip_39_word_new_br4 | myself<br>reunion<br>slab<br>glory |  
+| bip_39_word_new_br5 | myself<br>reunion<br>slab<br>glory<br>swim |  
+| bip_39_word_new_br6 | myself<br>reunion<br>slab<br>glory<br>swim<br>deny |  
+| bip_39_word_new_br7 | myself<br>reunion<br>slab<br>glory<br>swim<br>deny<br>lake |  
+| bip_39_word_new_br8 | myself<br>reunion<br>slab<br>glory<br>swim<br>deny<br>lake<br>ski |  
+| bip_39_word_new_br9 | myself<br>reunion<br>slab<br>glory<br>swim<br>deny<br>lake<br>ski<br>file |  
+| bip_39_word_new_line1 | myself |  
+| bip_39_word_new_line10 | myself
+reunion
+slab
+glory
+swim
+deny
+lake
+ski
+file
+child |  
+| bip_39_word_new_line11 | myself
+reunion
+slab
+glory
+swim
+deny
+lake
+ski
+file
+child
+response |  
+| bip_39_word_new_line12 | myself
+reunion
+slab
+glory
+swim
+deny
+lake
+ski
+file
+child
+response
+agent |  
+| bip_39_word_new_line2 | myself
+reunion |  
+| bip_39_word_new_line3 | myself
+reunion
+slab |  
+| bip_39_word_new_line4 | myself
+reunion
+slab
+glory |  
+| bip_39_word_new_line5 | myself
+reunion
+slab
+glory
+swim |  
+| bip_39_word_new_line6 | myself
+reunion
+slab
+glory
+swim
+deny |  
+| bip_39_word_new_line7 | myself
+reunion
+slab
+glory
+swim
+deny
+lake |  
+| bip_39_word_new_line8 | myself
+reunion
+slab
+glory
+swim
+deny
+lake
+ski |  
+| bip_39_word_new_line9 | myself
+reunion
+slab
+glory
+swim
+deny
+lake
+ski
+file |  
+| bip_39_word_space_0 | ['myself', 'reunion', 'slab', 'glory', 'swim', 'deny', 'lake', 'ski', 'file', 'child', 'response', 'agent'] |  
+| bip_39_word_space_1 | myself |  
+| bip_39_word_space_10 | myself reunion slab glory swim deny lake ski file child |  
+| bip_39_word_space_11 | myself reunion slab glory swim deny lake ski file child response |  
+| bip_39_word_space_12 | myself reunion slab glory swim deny lake ski file child response agent |  
+| bip_39_word_space_2 | myself reunion |  
+| bip_39_word_space_3 | myself reunion slab |  
+| bip_39_word_space_4 | myself reunion slab glory |  
+| bip_39_word_space_5 | myself reunion slab glory swim |  
+| bip_39_word_space_6 | myself reunion slab glory swim deny |  
+| bip_39_word_space_7 | myself reunion slab glory swim deny lake |  
+| bip_39_word_space_8 | myself reunion slab glory swim deny lake ski |  
+| bip_39_word_space_9 | myself reunion slab glory swim deny lake ski file |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

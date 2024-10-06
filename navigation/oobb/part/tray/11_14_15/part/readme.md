@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jelly peanut
+  * bip 39 word 3: jelly peanut basic
+  * bip 39 word: jelly peanut basic menu urban library cash robot drill board trigger addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jelly |  
+| bip_39_word_new_br10 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library<br>cash<br>robot<br>drill<br>board |  
+| bip_39_word_new_br11 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library<br>cash<br>robot<br>drill<br>board<br>trigger |  
+| bip_39_word_new_br12 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library<br>cash<br>robot<br>drill<br>board<br>trigger<br>addict |  
+| bip_39_word_new_br2 | jelly<br>peanut |  
+| bip_39_word_new_br3 | jelly<br>peanut<br>basic |  
+| bip_39_word_new_br4 | jelly<br>peanut<br>basic<br>menu |  
+| bip_39_word_new_br5 | jelly<br>peanut<br>basic<br>menu<br>urban |  
+| bip_39_word_new_br6 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library |  
+| bip_39_word_new_br7 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library<br>cash |  
+| bip_39_word_new_br8 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library<br>cash<br>robot |  
+| bip_39_word_new_br9 | jelly<br>peanut<br>basic<br>menu<br>urban<br>library<br>cash<br>robot<br>drill |  
+| bip_39_word_new_line1 | jelly |  
+| bip_39_word_new_line10 | jelly
+peanut
+basic
+menu
+urban
+library
+cash
+robot
+drill
+board |  
+| bip_39_word_new_line11 | jelly
+peanut
+basic
+menu
+urban
+library
+cash
+robot
+drill
+board
+trigger |  
+| bip_39_word_new_line12 | jelly
+peanut
+basic
+menu
+urban
+library
+cash
+robot
+drill
+board
+trigger
+addict |  
+| bip_39_word_new_line2 | jelly
+peanut |  
+| bip_39_word_new_line3 | jelly
+peanut
+basic |  
+| bip_39_word_new_line4 | jelly
+peanut
+basic
+menu |  
+| bip_39_word_new_line5 | jelly
+peanut
+basic
+menu
+urban |  
+| bip_39_word_new_line6 | jelly
+peanut
+basic
+menu
+urban
+library |  
+| bip_39_word_new_line7 | jelly
+peanut
+basic
+menu
+urban
+library
+cash |  
+| bip_39_word_new_line8 | jelly
+peanut
+basic
+menu
+urban
+library
+cash
+robot |  
+| bip_39_word_new_line9 | jelly
+peanut
+basic
+menu
+urban
+library
+cash
+robot
+drill |  
+| bip_39_word_space_0 | ['jelly', 'peanut', 'basic', 'menu', 'urban', 'library', 'cash', 'robot', 'drill', 'board', 'trigger', 'addict'] |  
+| bip_39_word_space_1 | jelly |  
+| bip_39_word_space_10 | jelly peanut basic menu urban library cash robot drill board |  
+| bip_39_word_space_11 | jelly peanut basic menu urban library cash robot drill board trigger |  
+| bip_39_word_space_12 | jelly peanut basic menu urban library cash robot drill board trigger addict |  
+| bip_39_word_space_2 | jelly peanut |  
+| bip_39_word_space_3 | jelly peanut basic |  
+| bip_39_word_space_4 | jelly peanut basic menu |  
+| bip_39_word_space_5 | jelly peanut basic menu urban |  
+| bip_39_word_space_6 | jelly peanut basic menu urban library |  
+| bip_39_word_space_7 | jelly peanut basic menu urban library cash |  
+| bip_39_word_space_8 | jelly peanut basic menu urban library cash robot |  
+| bip_39_word_space_9 | jelly peanut basic menu urban library cash robot drill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

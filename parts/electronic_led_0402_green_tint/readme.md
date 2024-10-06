@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exercise awesome
+  * bip 39 word 3: exercise awesome truth
+  * bip 39 word: exercise awesome truth awful finish claim solve trial wheat scorpion woman act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exercise |  
+| bip_39_word_new_br10 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat<br>scorpion |  
+| bip_39_word_new_br11 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat<br>scorpion<br>woman |  
+| bip_39_word_new_br12 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat<br>scorpion<br>woman<br>act |  
+| bip_39_word_new_br2 | exercise<br>awesome |  
+| bip_39_word_new_br3 | exercise<br>awesome<br>truth |  
+| bip_39_word_new_br4 | exercise<br>awesome<br>truth<br>awful |  
+| bip_39_word_new_br5 | exercise<br>awesome<br>truth<br>awful<br>finish |  
+| bip_39_word_new_br6 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim |  
+| bip_39_word_new_br7 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve |  
+| bip_39_word_new_br8 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial |  
+| bip_39_word_new_br9 | exercise<br>awesome<br>truth<br>awful<br>finish<br>claim<br>solve<br>trial<br>wheat |  
+| bip_39_word_new_line1 | exercise |  
+| bip_39_word_new_line10 | exercise
+awesome
+truth
+awful
+finish
+claim
+solve
+trial
+wheat
+scorpion |  
+| bip_39_word_new_line11 | exercise
+awesome
+truth
+awful
+finish
+claim
+solve
+trial
+wheat
+scorpion
+woman |  
+| bip_39_word_new_line12 | exercise
+awesome
+truth
+awful
+finish
+claim
+solve
+trial
+wheat
+scorpion
+woman
+act |  
+| bip_39_word_new_line2 | exercise
+awesome |  
+| bip_39_word_new_line3 | exercise
+awesome
+truth |  
+| bip_39_word_new_line4 | exercise
+awesome
+truth
+awful |  
+| bip_39_word_new_line5 | exercise
+awesome
+truth
+awful
+finish |  
+| bip_39_word_new_line6 | exercise
+awesome
+truth
+awful
+finish
+claim |  
+| bip_39_word_new_line7 | exercise
+awesome
+truth
+awful
+finish
+claim
+solve |  
+| bip_39_word_new_line8 | exercise
+awesome
+truth
+awful
+finish
+claim
+solve
+trial |  
+| bip_39_word_new_line9 | exercise
+awesome
+truth
+awful
+finish
+claim
+solve
+trial
+wheat |  
+| bip_39_word_space_0 | ['exercise', 'awesome', 'truth', 'awful', 'finish', 'claim', 'solve', 'trial', 'wheat', 'scorpion', 'woman', 'act'] |  
+| bip_39_word_space_1 | exercise |  
+| bip_39_word_space_10 | exercise awesome truth awful finish claim solve trial wheat scorpion |  
+| bip_39_word_space_11 | exercise awesome truth awful finish claim solve trial wheat scorpion woman |  
+| bip_39_word_space_12 | exercise awesome truth awful finish claim solve trial wheat scorpion woman act |  
+| bip_39_word_space_2 | exercise awesome |  
+| bip_39_word_space_3 | exercise awesome truth |  
+| bip_39_word_space_4 | exercise awesome truth awful |  
+| bip_39_word_space_5 | exercise awesome truth awful finish |  
+| bip_39_word_space_6 | exercise awesome truth awful finish claim |  
+| bip_39_word_space_7 | exercise awesome truth awful finish claim solve |  
+| bip_39_word_space_8 | exercise awesome truth awful finish claim solve trial |  
+| bip_39_word_space_9 | exercise awesome truth awful finish claim solve trial wheat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

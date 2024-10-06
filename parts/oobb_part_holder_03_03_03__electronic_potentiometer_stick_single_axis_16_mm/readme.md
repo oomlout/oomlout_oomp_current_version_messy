@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: electronic_potentiometer_stick_single_axis_16_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ask this
+  * bip 39 word 3: ask this satisfy
+  * bip 39 word: ask this satisfy flag base nurse crater physical long beyond feed act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ask |  
+| bip_39_word_new_br10 | ask<br>this<br>satisfy<br>flag<br>base<br>nurse<br>crater<br>physical<br>long<br>beyond |  
+| bip_39_word_new_br11 | ask<br>this<br>satisfy<br>flag<br>base<br>nurse<br>crater<br>physical<br>long<br>beyond<br>feed |  
+| bip_39_word_new_br12 | ask<br>this<br>satisfy<br>flag<br>base<br>nurse<br>crater<br>physical<br>long<br>beyond<br>feed<br>act |  
+| bip_39_word_new_br2 | ask<br>this |  
+| bip_39_word_new_br3 | ask<br>this<br>satisfy |  
+| bip_39_word_new_br4 | ask<br>this<br>satisfy<br>flag |  
+| bip_39_word_new_br5 | ask<br>this<br>satisfy<br>flag<br>base |  
+| bip_39_word_new_br6 | ask<br>this<br>satisfy<br>flag<br>base<br>nurse |  
+| bip_39_word_new_br7 | ask<br>this<br>satisfy<br>flag<br>base<br>nurse<br>crater |  
+| bip_39_word_new_br8 | ask<br>this<br>satisfy<br>flag<br>base<br>nurse<br>crater<br>physical |  
+| bip_39_word_new_br9 | ask<br>this<br>satisfy<br>flag<br>base<br>nurse<br>crater<br>physical<br>long |  
+| bip_39_word_new_line1 | ask |  
+| bip_39_word_new_line10 | ask
+this
+satisfy
+flag
+base
+nurse
+crater
+physical
+long
+beyond |  
+| bip_39_word_new_line11 | ask
+this
+satisfy
+flag
+base
+nurse
+crater
+physical
+long
+beyond
+feed |  
+| bip_39_word_new_line12 | ask
+this
+satisfy
+flag
+base
+nurse
+crater
+physical
+long
+beyond
+feed
+act |  
+| bip_39_word_new_line2 | ask
+this |  
+| bip_39_word_new_line3 | ask
+this
+satisfy |  
+| bip_39_word_new_line4 | ask
+this
+satisfy
+flag |  
+| bip_39_word_new_line5 | ask
+this
+satisfy
+flag
+base |  
+| bip_39_word_new_line6 | ask
+this
+satisfy
+flag
+base
+nurse |  
+| bip_39_word_new_line7 | ask
+this
+satisfy
+flag
+base
+nurse
+crater |  
+| bip_39_word_new_line8 | ask
+this
+satisfy
+flag
+base
+nurse
+crater
+physical |  
+| bip_39_word_new_line9 | ask
+this
+satisfy
+flag
+base
+nurse
+crater
+physical
+long |  
+| bip_39_word_space_0 | ['ask', 'this', 'satisfy', 'flag', 'base', 'nurse', 'crater', 'physical', 'long', 'beyond', 'feed', 'act'] |  
+| bip_39_word_space_1 | ask |  
+| bip_39_word_space_10 | ask this satisfy flag base nurse crater physical long beyond |  
+| bip_39_word_space_11 | ask this satisfy flag base nurse crater physical long beyond feed |  
+| bip_39_word_space_12 | ask this satisfy flag base nurse crater physical long beyond feed act |  
+| bip_39_word_space_2 | ask this |  
+| bip_39_word_space_3 | ask this satisfy |  
+| bip_39_word_space_4 | ask this satisfy flag |  
+| bip_39_word_space_5 | ask this satisfy flag base |  
+| bip_39_word_space_6 | ask this satisfy flag base nurse |  
+| bip_39_word_space_7 | ask this satisfy flag base nurse crater |  
+| bip_39_word_space_8 | ask this satisfy flag base nurse crater physical |  
+| bip_39_word_space_9 | ask this satisfy flag base nurse crater physical long |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

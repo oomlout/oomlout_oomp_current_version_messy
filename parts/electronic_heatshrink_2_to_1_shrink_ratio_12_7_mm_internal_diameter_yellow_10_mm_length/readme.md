@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: digital chimney
+  * bip 39 word 3: digital chimney license
+  * bip 39 word: digital chimney license creek near term industry extra target ostrich prefer airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | digital |  
+| bip_39_word_new_br10 | digital<br>chimney<br>license<br>creek<br>near<br>term<br>industry<br>extra<br>target<br>ostrich |  
+| bip_39_word_new_br11 | digital<br>chimney<br>license<br>creek<br>near<br>term<br>industry<br>extra<br>target<br>ostrich<br>prefer |  
+| bip_39_word_new_br12 | digital<br>chimney<br>license<br>creek<br>near<br>term<br>industry<br>extra<br>target<br>ostrich<br>prefer<br>airport |  
+| bip_39_word_new_br2 | digital<br>chimney |  
+| bip_39_word_new_br3 | digital<br>chimney<br>license |  
+| bip_39_word_new_br4 | digital<br>chimney<br>license<br>creek |  
+| bip_39_word_new_br5 | digital<br>chimney<br>license<br>creek<br>near |  
+| bip_39_word_new_br6 | digital<br>chimney<br>license<br>creek<br>near<br>term |  
+| bip_39_word_new_br7 | digital<br>chimney<br>license<br>creek<br>near<br>term<br>industry |  
+| bip_39_word_new_br8 | digital<br>chimney<br>license<br>creek<br>near<br>term<br>industry<br>extra |  
+| bip_39_word_new_br9 | digital<br>chimney<br>license<br>creek<br>near<br>term<br>industry<br>extra<br>target |  
+| bip_39_word_new_line1 | digital |  
+| bip_39_word_new_line10 | digital
+chimney
+license
+creek
+near
+term
+industry
+extra
+target
+ostrich |  
+| bip_39_word_new_line11 | digital
+chimney
+license
+creek
+near
+term
+industry
+extra
+target
+ostrich
+prefer |  
+| bip_39_word_new_line12 | digital
+chimney
+license
+creek
+near
+term
+industry
+extra
+target
+ostrich
+prefer
+airport |  
+| bip_39_word_new_line2 | digital
+chimney |  
+| bip_39_word_new_line3 | digital
+chimney
+license |  
+| bip_39_word_new_line4 | digital
+chimney
+license
+creek |  
+| bip_39_word_new_line5 | digital
+chimney
+license
+creek
+near |  
+| bip_39_word_new_line6 | digital
+chimney
+license
+creek
+near
+term |  
+| bip_39_word_new_line7 | digital
+chimney
+license
+creek
+near
+term
+industry |  
+| bip_39_word_new_line8 | digital
+chimney
+license
+creek
+near
+term
+industry
+extra |  
+| bip_39_word_new_line9 | digital
+chimney
+license
+creek
+near
+term
+industry
+extra
+target |  
+| bip_39_word_space_0 | ['digital', 'chimney', 'license', 'creek', 'near', 'term', 'industry', 'extra', 'target', 'ostrich', 'prefer', 'airport'] |  
+| bip_39_word_space_1 | digital |  
+| bip_39_word_space_10 | digital chimney license creek near term industry extra target ostrich |  
+| bip_39_word_space_11 | digital chimney license creek near term industry extra target ostrich prefer |  
+| bip_39_word_space_12 | digital chimney license creek near term industry extra target ostrich prefer airport |  
+| bip_39_word_space_2 | digital chimney |  
+| bip_39_word_space_3 | digital chimney license |  
+| bip_39_word_space_4 | digital chimney license creek |  
+| bip_39_word_space_5 | digital chimney license creek near |  
+| bip_39_word_space_6 | digital chimney license creek near term |  
+| bip_39_word_space_7 | digital chimney license creek near term industry |  
+| bip_39_word_space_8 | digital chimney license creek near term industry extra |  
+| bip_39_word_space_9 | digital chimney license creek near term industry extra target |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

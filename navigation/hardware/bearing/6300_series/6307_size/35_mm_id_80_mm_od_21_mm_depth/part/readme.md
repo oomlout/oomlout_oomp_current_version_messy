@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: image crouch
+  * bip 39 word 3: image crouch mother
+  * bip 39 word: image crouch mother fortune inspire average switch blood result awake mushroom annual
 
 ### other_codes
 * short_code: br6307
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | image |  
+| bip_39_word_new_br10 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result<br>awake |  
+| bip_39_word_new_br11 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result<br>awake<br>mushroom |  
+| bip_39_word_new_br12 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result<br>awake<br>mushroom<br>annual |  
+| bip_39_word_new_br2 | image<br>crouch |  
+| bip_39_word_new_br3 | image<br>crouch<br>mother |  
+| bip_39_word_new_br4 | image<br>crouch<br>mother<br>fortune |  
+| bip_39_word_new_br5 | image<br>crouch<br>mother<br>fortune<br>inspire |  
+| bip_39_word_new_br6 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average |  
+| bip_39_word_new_br7 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch |  
+| bip_39_word_new_br8 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood |  
+| bip_39_word_new_br9 | image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result |  
+| bip_39_word_new_line1 | image |  
+| bip_39_word_new_line10 | image
+crouch
+mother
+fortune
+inspire
+average
+switch
+blood
+result
+awake |  
+| bip_39_word_new_line11 | image
+crouch
+mother
+fortune
+inspire
+average
+switch
+blood
+result
+awake
+mushroom |  
+| bip_39_word_new_line12 | image
+crouch
+mother
+fortune
+inspire
+average
+switch
+blood
+result
+awake
+mushroom
+annual |  
+| bip_39_word_new_line2 | image
+crouch |  
+| bip_39_word_new_line3 | image
+crouch
+mother |  
+| bip_39_word_new_line4 | image
+crouch
+mother
+fortune |  
+| bip_39_word_new_line5 | image
+crouch
+mother
+fortune
+inspire |  
+| bip_39_word_new_line6 | image
+crouch
+mother
+fortune
+inspire
+average |  
+| bip_39_word_new_line7 | image
+crouch
+mother
+fortune
+inspire
+average
+switch |  
+| bip_39_word_new_line8 | image
+crouch
+mother
+fortune
+inspire
+average
+switch
+blood |  
+| bip_39_word_new_line9 | image
+crouch
+mother
+fortune
+inspire
+average
+switch
+blood
+result |  
+| bip_39_word_space_0 | ['image', 'crouch', 'mother', 'fortune', 'inspire', 'average', 'switch', 'blood', 'result', 'awake', 'mushroom', 'annual'] |  
+| bip_39_word_space_1 | image |  
+| bip_39_word_space_10 | image crouch mother fortune inspire average switch blood result awake |  
+| bip_39_word_space_11 | image crouch mother fortune inspire average switch blood result awake mushroom |  
+| bip_39_word_space_12 | image crouch mother fortune inspire average switch blood result awake mushroom annual |  
+| bip_39_word_space_2 | image crouch |  
+| bip_39_word_space_3 | image crouch mother |  
+| bip_39_word_space_4 | image crouch mother fortune |  
+| bip_39_word_space_5 | image crouch mother fortune inspire |  
+| bip_39_word_space_6 | image crouch mother fortune inspire average |  
+| bip_39_word_space_7 | image crouch mother fortune inspire average switch |  
+| bip_39_word_space_8 | image crouch mother fortune inspire average switch blood |  
+| bip_39_word_space_9 | image crouch mother fortune inspire average switch blood result |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

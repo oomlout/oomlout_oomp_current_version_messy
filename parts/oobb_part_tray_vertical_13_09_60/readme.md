@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: estate nose
+  * bip 39 word 3: estate nose scrap
+  * bip 39 word: estate nose scrap ritual invite depth climb helmet visit debate crater atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | estate |  
+| bip_39_word_new_br10 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate |  
+| bip_39_word_new_br11 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate<br>crater |  
+| bip_39_word_new_br12 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit<br>debate<br>crater<br>atom |  
+| bip_39_word_new_br2 | estate<br>nose |  
+| bip_39_word_new_br3 | estate<br>nose<br>scrap |  
+| bip_39_word_new_br4 | estate<br>nose<br>scrap<br>ritual |  
+| bip_39_word_new_br5 | estate<br>nose<br>scrap<br>ritual<br>invite |  
+| bip_39_word_new_br6 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth |  
+| bip_39_word_new_br7 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb |  
+| bip_39_word_new_br8 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet |  
+| bip_39_word_new_br9 | estate<br>nose<br>scrap<br>ritual<br>invite<br>depth<br>climb<br>helmet<br>visit |  
+| bip_39_word_new_line1 | estate |  
+| bip_39_word_new_line10 | estate
+nose
+scrap
+ritual
+invite
+depth
+climb
+helmet
+visit
+debate |  
+| bip_39_word_new_line11 | estate
+nose
+scrap
+ritual
+invite
+depth
+climb
+helmet
+visit
+debate
+crater |  
+| bip_39_word_new_line12 | estate
+nose
+scrap
+ritual
+invite
+depth
+climb
+helmet
+visit
+debate
+crater
+atom |  
+| bip_39_word_new_line2 | estate
+nose |  
+| bip_39_word_new_line3 | estate
+nose
+scrap |  
+| bip_39_word_new_line4 | estate
+nose
+scrap
+ritual |  
+| bip_39_word_new_line5 | estate
+nose
+scrap
+ritual
+invite |  
+| bip_39_word_new_line6 | estate
+nose
+scrap
+ritual
+invite
+depth |  
+| bip_39_word_new_line7 | estate
+nose
+scrap
+ritual
+invite
+depth
+climb |  
+| bip_39_word_new_line8 | estate
+nose
+scrap
+ritual
+invite
+depth
+climb
+helmet |  
+| bip_39_word_new_line9 | estate
+nose
+scrap
+ritual
+invite
+depth
+climb
+helmet
+visit |  
+| bip_39_word_space_0 | ['estate', 'nose', 'scrap', 'ritual', 'invite', 'depth', 'climb', 'helmet', 'visit', 'debate', 'crater', 'atom'] |  
+| bip_39_word_space_1 | estate |  
+| bip_39_word_space_10 | estate nose scrap ritual invite depth climb helmet visit debate |  
+| bip_39_word_space_11 | estate nose scrap ritual invite depth climb helmet visit debate crater |  
+| bip_39_word_space_12 | estate nose scrap ritual invite depth climb helmet visit debate crater atom |  
+| bip_39_word_space_2 | estate nose |  
+| bip_39_word_space_3 | estate nose scrap |  
+| bip_39_word_space_4 | estate nose scrap ritual |  
+| bip_39_word_space_5 | estate nose scrap ritual invite |  
+| bip_39_word_space_6 | estate nose scrap ritual invite depth |  
+| bip_39_word_space_7 | estate nose scrap ritual invite depth climb |  
+| bip_39_word_space_8 | estate nose scrap ritual invite depth climb helmet |  
+| bip_39_word_space_9 | estate nose scrap ritual invite depth climb helmet visit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

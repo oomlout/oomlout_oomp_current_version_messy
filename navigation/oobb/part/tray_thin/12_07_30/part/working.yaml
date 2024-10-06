@@ -1,3 +1,187 @@
+bip_39_word_new_br1: friend
+bip_39_word_new_br10: friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber<br>vapor<br>universe<br>border<br>kind
+bip_39_word_new_br11: friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber<br>vapor<br>universe<br>border<br>kind<br>affair
+bip_39_word_new_br12: friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber<br>vapor<br>universe<br>border<br>kind<br>affair<br>argue
+bip_39_word_new_br2: friend<br>degree
+bip_39_word_new_br3: friend<br>degree<br>orphan
+bip_39_word_new_br4: friend<br>degree<br>orphan<br>pottery
+bip_39_word_new_br5: friend<br>degree<br>orphan<br>pottery<br>someone
+bip_39_word_new_br6: friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber
+bip_39_word_new_br7: friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber<br>vapor
+bip_39_word_new_br8: friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber<br>vapor<br>universe
+bip_39_word_new_br9: friend<br>degree<br>orphan<br>pottery<br>someone<br>rubber<br>vapor<br>universe<br>border
+bip_39_word_new_line1: friend
+bip_39_word_new_line10: 'friend
+
+  degree
+
+  orphan
+
+  pottery
+
+  someone
+
+  rubber
+
+  vapor
+
+  universe
+
+  border
+
+  kind'
+bip_39_word_new_line11: 'friend
+
+  degree
+
+  orphan
+
+  pottery
+
+  someone
+
+  rubber
+
+  vapor
+
+  universe
+
+  border
+
+  kind
+
+  affair'
+bip_39_word_new_line12: 'friend
+
+  degree
+
+  orphan
+
+  pottery
+
+  someone
+
+  rubber
+
+  vapor
+
+  universe
+
+  border
+
+  kind
+
+  affair
+
+  argue'
+bip_39_word_new_line2: 'friend
+
+  degree'
+bip_39_word_new_line3: 'friend
+
+  degree
+
+  orphan'
+bip_39_word_new_line4: 'friend
+
+  degree
+
+  orphan
+
+  pottery'
+bip_39_word_new_line5: 'friend
+
+  degree
+
+  orphan
+
+  pottery
+
+  someone'
+bip_39_word_new_line6: 'friend
+
+  degree
+
+  orphan
+
+  pottery
+
+  someone
+
+  rubber'
+bip_39_word_new_line7: 'friend
+
+  degree
+
+  orphan
+
+  pottery
+
+  someone
+
+  rubber
+
+  vapor'
+bip_39_word_new_line8: 'friend
+
+  degree
+
+  orphan
+
+  pottery
+
+  someone
+
+  rubber
+
+  vapor
+
+  universe'
+bip_39_word_new_line9: 'friend
+
+  degree
+
+  orphan
+
+  pottery
+
+  someone
+
+  rubber
+
+  vapor
+
+  universe
+
+  border'
+bip_39_word_space_0:
+- friend
+- degree
+- orphan
+- pottery
+- someone
+- rubber
+- vapor
+- universe
+- border
+- kind
+- affair
+- argue
+bip_39_word_space_1: friend
+bip_39_word_space_10: friend degree orphan pottery someone rubber vapor universe border
+  kind
+bip_39_word_space_11: friend degree orphan pottery someone rubber vapor universe border
+  kind affair
+bip_39_word_space_12: friend degree orphan pottery someone rubber vapor universe border
+  kind affair argue
+bip_39_word_space_2: friend degree
+bip_39_word_space_3: friend degree orphan
+bip_39_word_space_4: friend degree orphan pottery
+bip_39_word_space_5: friend degree orphan pottery someone
+bip_39_word_space_6: friend degree orphan pottery someone rubber
+bip_39_word_space_7: friend degree orphan pottery someone rubber vapor
+bip_39_word_space_8: friend degree orphan pottery someone rubber vapor universe
+bip_39_word_space_9: friend degree orphan pottery someone rubber vapor universe border
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

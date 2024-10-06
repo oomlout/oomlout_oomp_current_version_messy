@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: news execute
+  * bip 39 word 3: news execute thumb
+  * bip 39 word: news execute thumb knee wood tunnel you found blush paper barrel avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | news |  
+| bip_39_word_new_br10 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel<br>you<br>found<br>blush<br>paper |  
+| bip_39_word_new_br11 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel<br>you<br>found<br>blush<br>paper<br>barrel |  
+| bip_39_word_new_br12 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel<br>you<br>found<br>blush<br>paper<br>barrel<br>avocado |  
+| bip_39_word_new_br2 | news<br>execute |  
+| bip_39_word_new_br3 | news<br>execute<br>thumb |  
+| bip_39_word_new_br4 | news<br>execute<br>thumb<br>knee |  
+| bip_39_word_new_br5 | news<br>execute<br>thumb<br>knee<br>wood |  
+| bip_39_word_new_br6 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel |  
+| bip_39_word_new_br7 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel<br>you |  
+| bip_39_word_new_br8 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel<br>you<br>found |  
+| bip_39_word_new_br9 | news<br>execute<br>thumb<br>knee<br>wood<br>tunnel<br>you<br>found<br>blush |  
+| bip_39_word_new_line1 | news |  
+| bip_39_word_new_line10 | news
+execute
+thumb
+knee
+wood
+tunnel
+you
+found
+blush
+paper |  
+| bip_39_word_new_line11 | news
+execute
+thumb
+knee
+wood
+tunnel
+you
+found
+blush
+paper
+barrel |  
+| bip_39_word_new_line12 | news
+execute
+thumb
+knee
+wood
+tunnel
+you
+found
+blush
+paper
+barrel
+avocado |  
+| bip_39_word_new_line2 | news
+execute |  
+| bip_39_word_new_line3 | news
+execute
+thumb |  
+| bip_39_word_new_line4 | news
+execute
+thumb
+knee |  
+| bip_39_word_new_line5 | news
+execute
+thumb
+knee
+wood |  
+| bip_39_word_new_line6 | news
+execute
+thumb
+knee
+wood
+tunnel |  
+| bip_39_word_new_line7 | news
+execute
+thumb
+knee
+wood
+tunnel
+you |  
+| bip_39_word_new_line8 | news
+execute
+thumb
+knee
+wood
+tunnel
+you
+found |  
+| bip_39_word_new_line9 | news
+execute
+thumb
+knee
+wood
+tunnel
+you
+found
+blush |  
+| bip_39_word_space_0 | ['news', 'execute', 'thumb', 'knee', 'wood', 'tunnel', 'you', 'found', 'blush', 'paper', 'barrel', 'avocado'] |  
+| bip_39_word_space_1 | news |  
+| bip_39_word_space_10 | news execute thumb knee wood tunnel you found blush paper |  
+| bip_39_word_space_11 | news execute thumb knee wood tunnel you found blush paper barrel |  
+| bip_39_word_space_12 | news execute thumb knee wood tunnel you found blush paper barrel avocado |  
+| bip_39_word_space_2 | news execute |  
+| bip_39_word_space_3 | news execute thumb |  
+| bip_39_word_space_4 | news execute thumb knee |  
+| bip_39_word_space_5 | news execute thumb knee wood |  
+| bip_39_word_space_6 | news execute thumb knee wood tunnel |  
+| bip_39_word_space_7 | news execute thumb knee wood tunnel you |  
+| bip_39_word_space_8 | news execute thumb knee wood tunnel you found |  
+| bip_39_word_space_9 | news execute thumb knee wood tunnel you found blush |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

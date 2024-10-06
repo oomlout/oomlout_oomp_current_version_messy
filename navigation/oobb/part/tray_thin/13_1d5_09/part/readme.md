@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: truly sight
+  * bip 39 word 3: truly sight erase
+  * bip 39 word: truly sight erase flock rabbit blast mass trash intact cancel put advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | truly |  
+| bip_39_word_new_br10 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel |  
+| bip_39_word_new_br11 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel<br>put |  
+| bip_39_word_new_br12 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact<br>cancel<br>put<br>advice |  
+| bip_39_word_new_br2 | truly<br>sight |  
+| bip_39_word_new_br3 | truly<br>sight<br>erase |  
+| bip_39_word_new_br4 | truly<br>sight<br>erase<br>flock |  
+| bip_39_word_new_br5 | truly<br>sight<br>erase<br>flock<br>rabbit |  
+| bip_39_word_new_br6 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast |  
+| bip_39_word_new_br7 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass |  
+| bip_39_word_new_br8 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash |  
+| bip_39_word_new_br9 | truly<br>sight<br>erase<br>flock<br>rabbit<br>blast<br>mass<br>trash<br>intact |  
+| bip_39_word_new_line1 | truly |  
+| bip_39_word_new_line10 | truly
+sight
+erase
+flock
+rabbit
+blast
+mass
+trash
+intact
+cancel |  
+| bip_39_word_new_line11 | truly
+sight
+erase
+flock
+rabbit
+blast
+mass
+trash
+intact
+cancel
+put |  
+| bip_39_word_new_line12 | truly
+sight
+erase
+flock
+rabbit
+blast
+mass
+trash
+intact
+cancel
+put
+advice |  
+| bip_39_word_new_line2 | truly
+sight |  
+| bip_39_word_new_line3 | truly
+sight
+erase |  
+| bip_39_word_new_line4 | truly
+sight
+erase
+flock |  
+| bip_39_word_new_line5 | truly
+sight
+erase
+flock
+rabbit |  
+| bip_39_word_new_line6 | truly
+sight
+erase
+flock
+rabbit
+blast |  
+| bip_39_word_new_line7 | truly
+sight
+erase
+flock
+rabbit
+blast
+mass |  
+| bip_39_word_new_line8 | truly
+sight
+erase
+flock
+rabbit
+blast
+mass
+trash |  
+| bip_39_word_new_line9 | truly
+sight
+erase
+flock
+rabbit
+blast
+mass
+trash
+intact |  
+| bip_39_word_space_0 | ['truly', 'sight', 'erase', 'flock', 'rabbit', 'blast', 'mass', 'trash', 'intact', 'cancel', 'put', 'advice'] |  
+| bip_39_word_space_1 | truly |  
+| bip_39_word_space_10 | truly sight erase flock rabbit blast mass trash intact cancel |  
+| bip_39_word_space_11 | truly sight erase flock rabbit blast mass trash intact cancel put |  
+| bip_39_word_space_12 | truly sight erase flock rabbit blast mass trash intact cancel put advice |  
+| bip_39_word_space_2 | truly sight |  
+| bip_39_word_space_3 | truly sight erase |  
+| bip_39_word_space_4 | truly sight erase flock |  
+| bip_39_word_space_5 | truly sight erase flock rabbit |  
+| bip_39_word_space_6 | truly sight erase flock rabbit blast |  
+| bip_39_word_space_7 | truly sight erase flock rabbit blast mass |  
+| bip_39_word_space_8 | truly sight erase flock rabbit blast mass trash |  
+| bip_39_word_space_9 | truly sight erase flock rabbit blast mass trash intact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

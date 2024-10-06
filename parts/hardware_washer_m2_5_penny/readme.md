@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ritual pair
+  * bip 39 word 3: ritual pair phone
+  * bip 39 word: ritual pair phone floor jazz emerge pattern rebuild moon rice win actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ritual |  
+| bip_39_word_new_br10 | ritual<br>pair<br>phone<br>floor<br>jazz<br>emerge<br>pattern<br>rebuild<br>moon<br>rice |  
+| bip_39_word_new_br11 | ritual<br>pair<br>phone<br>floor<br>jazz<br>emerge<br>pattern<br>rebuild<br>moon<br>rice<br>win |  
+| bip_39_word_new_br12 | ritual<br>pair<br>phone<br>floor<br>jazz<br>emerge<br>pattern<br>rebuild<br>moon<br>rice<br>win<br>actor |  
+| bip_39_word_new_br2 | ritual<br>pair |  
+| bip_39_word_new_br3 | ritual<br>pair<br>phone |  
+| bip_39_word_new_br4 | ritual<br>pair<br>phone<br>floor |  
+| bip_39_word_new_br5 | ritual<br>pair<br>phone<br>floor<br>jazz |  
+| bip_39_word_new_br6 | ritual<br>pair<br>phone<br>floor<br>jazz<br>emerge |  
+| bip_39_word_new_br7 | ritual<br>pair<br>phone<br>floor<br>jazz<br>emerge<br>pattern |  
+| bip_39_word_new_br8 | ritual<br>pair<br>phone<br>floor<br>jazz<br>emerge<br>pattern<br>rebuild |  
+| bip_39_word_new_br9 | ritual<br>pair<br>phone<br>floor<br>jazz<br>emerge<br>pattern<br>rebuild<br>moon |  
+| bip_39_word_new_line1 | ritual |  
+| bip_39_word_new_line10 | ritual
+pair
+phone
+floor
+jazz
+emerge
+pattern
+rebuild
+moon
+rice |  
+| bip_39_word_new_line11 | ritual
+pair
+phone
+floor
+jazz
+emerge
+pattern
+rebuild
+moon
+rice
+win |  
+| bip_39_word_new_line12 | ritual
+pair
+phone
+floor
+jazz
+emerge
+pattern
+rebuild
+moon
+rice
+win
+actor |  
+| bip_39_word_new_line2 | ritual
+pair |  
+| bip_39_word_new_line3 | ritual
+pair
+phone |  
+| bip_39_word_new_line4 | ritual
+pair
+phone
+floor |  
+| bip_39_word_new_line5 | ritual
+pair
+phone
+floor
+jazz |  
+| bip_39_word_new_line6 | ritual
+pair
+phone
+floor
+jazz
+emerge |  
+| bip_39_word_new_line7 | ritual
+pair
+phone
+floor
+jazz
+emerge
+pattern |  
+| bip_39_word_new_line8 | ritual
+pair
+phone
+floor
+jazz
+emerge
+pattern
+rebuild |  
+| bip_39_word_new_line9 | ritual
+pair
+phone
+floor
+jazz
+emerge
+pattern
+rebuild
+moon |  
+| bip_39_word_space_0 | ['ritual', 'pair', 'phone', 'floor', 'jazz', 'emerge', 'pattern', 'rebuild', 'moon', 'rice', 'win', 'actor'] |  
+| bip_39_word_space_1 | ritual |  
+| bip_39_word_space_10 | ritual pair phone floor jazz emerge pattern rebuild moon rice |  
+| bip_39_word_space_11 | ritual pair phone floor jazz emerge pattern rebuild moon rice win |  
+| bip_39_word_space_12 | ritual pair phone floor jazz emerge pattern rebuild moon rice win actor |  
+| bip_39_word_space_2 | ritual pair |  
+| bip_39_word_space_3 | ritual pair phone |  
+| bip_39_word_space_4 | ritual pair phone floor |  
+| bip_39_word_space_5 | ritual pair phone floor jazz |  
+| bip_39_word_space_6 | ritual pair phone floor jazz emerge |  
+| bip_39_word_space_7 | ritual pair phone floor jazz emerge pattern |  
+| bip_39_word_space_8 | ritual pair phone floor jazz emerge pattern rebuild |  
+| bip_39_word_space_9 | ritual pair phone floor jazz emerge pattern rebuild moon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

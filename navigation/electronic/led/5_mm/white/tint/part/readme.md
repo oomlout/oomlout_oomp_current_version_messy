@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tornado disease
+  * bip 39 word 3: tornado disease voice
+  * bip 39 word: tornado disease voice agree primary current index portion elder fever record almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tornado |  
+| bip_39_word_new_br10 | tornado<br>disease<br>voice<br>agree<br>primary<br>current<br>index<br>portion<br>elder<br>fever |  
+| bip_39_word_new_br11 | tornado<br>disease<br>voice<br>agree<br>primary<br>current<br>index<br>portion<br>elder<br>fever<br>record |  
+| bip_39_word_new_br12 | tornado<br>disease<br>voice<br>agree<br>primary<br>current<br>index<br>portion<br>elder<br>fever<br>record<br>almost |  
+| bip_39_word_new_br2 | tornado<br>disease |  
+| bip_39_word_new_br3 | tornado<br>disease<br>voice |  
+| bip_39_word_new_br4 | tornado<br>disease<br>voice<br>agree |  
+| bip_39_word_new_br5 | tornado<br>disease<br>voice<br>agree<br>primary |  
+| bip_39_word_new_br6 | tornado<br>disease<br>voice<br>agree<br>primary<br>current |  
+| bip_39_word_new_br7 | tornado<br>disease<br>voice<br>agree<br>primary<br>current<br>index |  
+| bip_39_word_new_br8 | tornado<br>disease<br>voice<br>agree<br>primary<br>current<br>index<br>portion |  
+| bip_39_word_new_br9 | tornado<br>disease<br>voice<br>agree<br>primary<br>current<br>index<br>portion<br>elder |  
+| bip_39_word_new_line1 | tornado |  
+| bip_39_word_new_line10 | tornado
+disease
+voice
+agree
+primary
+current
+index
+portion
+elder
+fever |  
+| bip_39_word_new_line11 | tornado
+disease
+voice
+agree
+primary
+current
+index
+portion
+elder
+fever
+record |  
+| bip_39_word_new_line12 | tornado
+disease
+voice
+agree
+primary
+current
+index
+portion
+elder
+fever
+record
+almost |  
+| bip_39_word_new_line2 | tornado
+disease |  
+| bip_39_word_new_line3 | tornado
+disease
+voice |  
+| bip_39_word_new_line4 | tornado
+disease
+voice
+agree |  
+| bip_39_word_new_line5 | tornado
+disease
+voice
+agree
+primary |  
+| bip_39_word_new_line6 | tornado
+disease
+voice
+agree
+primary
+current |  
+| bip_39_word_new_line7 | tornado
+disease
+voice
+agree
+primary
+current
+index |  
+| bip_39_word_new_line8 | tornado
+disease
+voice
+agree
+primary
+current
+index
+portion |  
+| bip_39_word_new_line9 | tornado
+disease
+voice
+agree
+primary
+current
+index
+portion
+elder |  
+| bip_39_word_space_0 | ['tornado', 'disease', 'voice', 'agree', 'primary', 'current', 'index', 'portion', 'elder', 'fever', 'record', 'almost'] |  
+| bip_39_word_space_1 | tornado |  
+| bip_39_word_space_10 | tornado disease voice agree primary current index portion elder fever |  
+| bip_39_word_space_11 | tornado disease voice agree primary current index portion elder fever record |  
+| bip_39_word_space_12 | tornado disease voice agree primary current index portion elder fever record almost |  
+| bip_39_word_space_2 | tornado disease |  
+| bip_39_word_space_3 | tornado disease voice |  
+| bip_39_word_space_4 | tornado disease voice agree |  
+| bip_39_word_space_5 | tornado disease voice agree primary |  
+| bip_39_word_space_6 | tornado disease voice agree primary current |  
+| bip_39_word_space_7 | tornado disease voice agree primary current index |  
+| bip_39_word_space_8 | tornado disease voice agree primary current index portion |  
+| bip_39_word_space_9 | tornado disease voice agree primary current index portion elder |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

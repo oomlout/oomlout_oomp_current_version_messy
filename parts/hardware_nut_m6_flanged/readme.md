@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exclude idle
+  * bip 39 word 3: exclude idle volcano
+  * bip 39 word: exclude idle volcano icon use exist energy elevator voyage asset language aspect
 
 ### other_codes
 * short_code: n6mfl
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exclude |  
+| bip_39_word_new_br10 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage<br>asset |  
+| bip_39_word_new_br11 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage<br>asset<br>language |  
+| bip_39_word_new_br12 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage<br>asset<br>language<br>aspect |  
+| bip_39_word_new_br2 | exclude<br>idle |  
+| bip_39_word_new_br3 | exclude<br>idle<br>volcano |  
+| bip_39_word_new_br4 | exclude<br>idle<br>volcano<br>icon |  
+| bip_39_word_new_br5 | exclude<br>idle<br>volcano<br>icon<br>use |  
+| bip_39_word_new_br6 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist |  
+| bip_39_word_new_br7 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy |  
+| bip_39_word_new_br8 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator |  
+| bip_39_word_new_br9 | exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage |  
+| bip_39_word_new_line1 | exclude |  
+| bip_39_word_new_line10 | exclude
+idle
+volcano
+icon
+use
+exist
+energy
+elevator
+voyage
+asset |  
+| bip_39_word_new_line11 | exclude
+idle
+volcano
+icon
+use
+exist
+energy
+elevator
+voyage
+asset
+language |  
+| bip_39_word_new_line12 | exclude
+idle
+volcano
+icon
+use
+exist
+energy
+elevator
+voyage
+asset
+language
+aspect |  
+| bip_39_word_new_line2 | exclude
+idle |  
+| bip_39_word_new_line3 | exclude
+idle
+volcano |  
+| bip_39_word_new_line4 | exclude
+idle
+volcano
+icon |  
+| bip_39_word_new_line5 | exclude
+idle
+volcano
+icon
+use |  
+| bip_39_word_new_line6 | exclude
+idle
+volcano
+icon
+use
+exist |  
+| bip_39_word_new_line7 | exclude
+idle
+volcano
+icon
+use
+exist
+energy |  
+| bip_39_word_new_line8 | exclude
+idle
+volcano
+icon
+use
+exist
+energy
+elevator |  
+| bip_39_word_new_line9 | exclude
+idle
+volcano
+icon
+use
+exist
+energy
+elevator
+voyage |  
+| bip_39_word_space_0 | ['exclude', 'idle', 'volcano', 'icon', 'use', 'exist', 'energy', 'elevator', 'voyage', 'asset', 'language', 'aspect'] |  
+| bip_39_word_space_1 | exclude |  
+| bip_39_word_space_10 | exclude idle volcano icon use exist energy elevator voyage asset |  
+| bip_39_word_space_11 | exclude idle volcano icon use exist energy elevator voyage asset language |  
+| bip_39_word_space_12 | exclude idle volcano icon use exist energy elevator voyage asset language aspect |  
+| bip_39_word_space_2 | exclude idle |  
+| bip_39_word_space_3 | exclude idle volcano |  
+| bip_39_word_space_4 | exclude idle volcano icon |  
+| bip_39_word_space_5 | exclude idle volcano icon use |  
+| bip_39_word_space_6 | exclude idle volcano icon use exist |  
+| bip_39_word_space_7 | exclude idle volcano icon use exist energy |  
+| bip_39_word_space_8 | exclude idle volcano icon use exist energy elevator |  
+| bip_39_word_space_9 | exclude idle volcano icon use exist energy elevator voyage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

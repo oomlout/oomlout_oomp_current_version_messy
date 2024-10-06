@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quarter easy
+  * bip 39 word 3: quarter easy capital
+  * bip 39 word: quarter easy capital rabbit leaf phrase sing roof craft maid loud arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quarter |  
+| bip_39_word_new_br10 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase<br>sing<br>roof<br>craft<br>maid |  
+| bip_39_word_new_br11 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase<br>sing<br>roof<br>craft<br>maid<br>loud |  
+| bip_39_word_new_br12 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase<br>sing<br>roof<br>craft<br>maid<br>loud<br>arrow |  
+| bip_39_word_new_br2 | quarter<br>easy |  
+| bip_39_word_new_br3 | quarter<br>easy<br>capital |  
+| bip_39_word_new_br4 | quarter<br>easy<br>capital<br>rabbit |  
+| bip_39_word_new_br5 | quarter<br>easy<br>capital<br>rabbit<br>leaf |  
+| bip_39_word_new_br6 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase |  
+| bip_39_word_new_br7 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase<br>sing |  
+| bip_39_word_new_br8 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase<br>sing<br>roof |  
+| bip_39_word_new_br9 | quarter<br>easy<br>capital<br>rabbit<br>leaf<br>phrase<br>sing<br>roof<br>craft |  
+| bip_39_word_new_line1 | quarter |  
+| bip_39_word_new_line10 | quarter
+easy
+capital
+rabbit
+leaf
+phrase
+sing
+roof
+craft
+maid |  
+| bip_39_word_new_line11 | quarter
+easy
+capital
+rabbit
+leaf
+phrase
+sing
+roof
+craft
+maid
+loud |  
+| bip_39_word_new_line12 | quarter
+easy
+capital
+rabbit
+leaf
+phrase
+sing
+roof
+craft
+maid
+loud
+arrow |  
+| bip_39_word_new_line2 | quarter
+easy |  
+| bip_39_word_new_line3 | quarter
+easy
+capital |  
+| bip_39_word_new_line4 | quarter
+easy
+capital
+rabbit |  
+| bip_39_word_new_line5 | quarter
+easy
+capital
+rabbit
+leaf |  
+| bip_39_word_new_line6 | quarter
+easy
+capital
+rabbit
+leaf
+phrase |  
+| bip_39_word_new_line7 | quarter
+easy
+capital
+rabbit
+leaf
+phrase
+sing |  
+| bip_39_word_new_line8 | quarter
+easy
+capital
+rabbit
+leaf
+phrase
+sing
+roof |  
+| bip_39_word_new_line9 | quarter
+easy
+capital
+rabbit
+leaf
+phrase
+sing
+roof
+craft |  
+| bip_39_word_space_0 | ['quarter', 'easy', 'capital', 'rabbit', 'leaf', 'phrase', 'sing', 'roof', 'craft', 'maid', 'loud', 'arrow'] |  
+| bip_39_word_space_1 | quarter |  
+| bip_39_word_space_10 | quarter easy capital rabbit leaf phrase sing roof craft maid |  
+| bip_39_word_space_11 | quarter easy capital rabbit leaf phrase sing roof craft maid loud |  
+| bip_39_word_space_12 | quarter easy capital rabbit leaf phrase sing roof craft maid loud arrow |  
+| bip_39_word_space_2 | quarter easy |  
+| bip_39_word_space_3 | quarter easy capital |  
+| bip_39_word_space_4 | quarter easy capital rabbit |  
+| bip_39_word_space_5 | quarter easy capital rabbit leaf |  
+| bip_39_word_space_6 | quarter easy capital rabbit leaf phrase |  
+| bip_39_word_space_7 | quarter easy capital rabbit leaf phrase sing |  
+| bip_39_word_space_8 | quarter easy capital rabbit leaf phrase sing roof |  
+| bip_39_word_space_9 | quarter easy capital rabbit leaf phrase sing roof craft |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

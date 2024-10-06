@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gym mystery
+  * bip 39 word 3: gym mystery what
+  * bip 39 word: gym mystery what upon airport spin bulk any arrow tail royal august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gym |  
+| bip_39_word_new_br10 | gym<br>mystery<br>what<br>upon<br>airport<br>spin<br>bulk<br>any<br>arrow<br>tail |  
+| bip_39_word_new_br11 | gym<br>mystery<br>what<br>upon<br>airport<br>spin<br>bulk<br>any<br>arrow<br>tail<br>royal |  
+| bip_39_word_new_br12 | gym<br>mystery<br>what<br>upon<br>airport<br>spin<br>bulk<br>any<br>arrow<br>tail<br>royal<br>august |  
+| bip_39_word_new_br2 | gym<br>mystery |  
+| bip_39_word_new_br3 | gym<br>mystery<br>what |  
+| bip_39_word_new_br4 | gym<br>mystery<br>what<br>upon |  
+| bip_39_word_new_br5 | gym<br>mystery<br>what<br>upon<br>airport |  
+| bip_39_word_new_br6 | gym<br>mystery<br>what<br>upon<br>airport<br>spin |  
+| bip_39_word_new_br7 | gym<br>mystery<br>what<br>upon<br>airport<br>spin<br>bulk |  
+| bip_39_word_new_br8 | gym<br>mystery<br>what<br>upon<br>airport<br>spin<br>bulk<br>any |  
+| bip_39_word_new_br9 | gym<br>mystery<br>what<br>upon<br>airport<br>spin<br>bulk<br>any<br>arrow |  
+| bip_39_word_new_line1 | gym |  
+| bip_39_word_new_line10 | gym
+mystery
+what
+upon
+airport
+spin
+bulk
+any
+arrow
+tail |  
+| bip_39_word_new_line11 | gym
+mystery
+what
+upon
+airport
+spin
+bulk
+any
+arrow
+tail
+royal |  
+| bip_39_word_new_line12 | gym
+mystery
+what
+upon
+airport
+spin
+bulk
+any
+arrow
+tail
+royal
+august |  
+| bip_39_word_new_line2 | gym
+mystery |  
+| bip_39_word_new_line3 | gym
+mystery
+what |  
+| bip_39_word_new_line4 | gym
+mystery
+what
+upon |  
+| bip_39_word_new_line5 | gym
+mystery
+what
+upon
+airport |  
+| bip_39_word_new_line6 | gym
+mystery
+what
+upon
+airport
+spin |  
+| bip_39_word_new_line7 | gym
+mystery
+what
+upon
+airport
+spin
+bulk |  
+| bip_39_word_new_line8 | gym
+mystery
+what
+upon
+airport
+spin
+bulk
+any |  
+| bip_39_word_new_line9 | gym
+mystery
+what
+upon
+airport
+spin
+bulk
+any
+arrow |  
+| bip_39_word_space_0 | ['gym', 'mystery', 'what', 'upon', 'airport', 'spin', 'bulk', 'any', 'arrow', 'tail', 'royal', 'august'] |  
+| bip_39_word_space_1 | gym |  
+| bip_39_word_space_10 | gym mystery what upon airport spin bulk any arrow tail |  
+| bip_39_word_space_11 | gym mystery what upon airport spin bulk any arrow tail royal |  
+| bip_39_word_space_12 | gym mystery what upon airport spin bulk any arrow tail royal august |  
+| bip_39_word_space_2 | gym mystery |  
+| bip_39_word_space_3 | gym mystery what |  
+| bip_39_word_space_4 | gym mystery what upon |  
+| bip_39_word_space_5 | gym mystery what upon airport |  
+| bip_39_word_space_6 | gym mystery what upon airport spin |  
+| bip_39_word_space_7 | gym mystery what upon airport spin bulk |  
+| bip_39_word_space_8 | gym mystery what upon airport spin bulk any |  
+| bip_39_word_space_9 | gym mystery what upon airport spin bulk any arrow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

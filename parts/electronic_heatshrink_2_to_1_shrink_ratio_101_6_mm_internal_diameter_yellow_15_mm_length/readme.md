@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: army object
+  * bip 39 word 3: army object dry
+  * bip 39 word: army object dry parent glue level fork shell extra father jelly armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | army |  
+| bip_39_word_new_br10 | army<br>object<br>dry<br>parent<br>glue<br>level<br>fork<br>shell<br>extra<br>father |  
+| bip_39_word_new_br11 | army<br>object<br>dry<br>parent<br>glue<br>level<br>fork<br>shell<br>extra<br>father<br>jelly |  
+| bip_39_word_new_br12 | army<br>object<br>dry<br>parent<br>glue<br>level<br>fork<br>shell<br>extra<br>father<br>jelly<br>armed |  
+| bip_39_word_new_br2 | army<br>object |  
+| bip_39_word_new_br3 | army<br>object<br>dry |  
+| bip_39_word_new_br4 | army<br>object<br>dry<br>parent |  
+| bip_39_word_new_br5 | army<br>object<br>dry<br>parent<br>glue |  
+| bip_39_word_new_br6 | army<br>object<br>dry<br>parent<br>glue<br>level |  
+| bip_39_word_new_br7 | army<br>object<br>dry<br>parent<br>glue<br>level<br>fork |  
+| bip_39_word_new_br8 | army<br>object<br>dry<br>parent<br>glue<br>level<br>fork<br>shell |  
+| bip_39_word_new_br9 | army<br>object<br>dry<br>parent<br>glue<br>level<br>fork<br>shell<br>extra |  
+| bip_39_word_new_line1 | army |  
+| bip_39_word_new_line10 | army
+object
+dry
+parent
+glue
+level
+fork
+shell
+extra
+father |  
+| bip_39_word_new_line11 | army
+object
+dry
+parent
+glue
+level
+fork
+shell
+extra
+father
+jelly |  
+| bip_39_word_new_line12 | army
+object
+dry
+parent
+glue
+level
+fork
+shell
+extra
+father
+jelly
+armed |  
+| bip_39_word_new_line2 | army
+object |  
+| bip_39_word_new_line3 | army
+object
+dry |  
+| bip_39_word_new_line4 | army
+object
+dry
+parent |  
+| bip_39_word_new_line5 | army
+object
+dry
+parent
+glue |  
+| bip_39_word_new_line6 | army
+object
+dry
+parent
+glue
+level |  
+| bip_39_word_new_line7 | army
+object
+dry
+parent
+glue
+level
+fork |  
+| bip_39_word_new_line8 | army
+object
+dry
+parent
+glue
+level
+fork
+shell |  
+| bip_39_word_new_line9 | army
+object
+dry
+parent
+glue
+level
+fork
+shell
+extra |  
+| bip_39_word_space_0 | ['army', 'object', 'dry', 'parent', 'glue', 'level', 'fork', 'shell', 'extra', 'father', 'jelly', 'armed'] |  
+| bip_39_word_space_1 | army |  
+| bip_39_word_space_10 | army object dry parent glue level fork shell extra father |  
+| bip_39_word_space_11 | army object dry parent glue level fork shell extra father jelly |  
+| bip_39_word_space_12 | army object dry parent glue level fork shell extra father jelly armed |  
+| bip_39_word_space_2 | army object |  
+| bip_39_word_space_3 | army object dry |  
+| bip_39_word_space_4 | army object dry parent |  
+| bip_39_word_space_5 | army object dry parent glue |  
+| bip_39_word_space_6 | army object dry parent glue level |  
+| bip_39_word_space_7 | army object dry parent glue level fork |  
+| bip_39_word_space_8 | army object dry parent glue level fork shell |  
+| bip_39_word_space_9 | army object dry parent glue level fork shell extra |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: space
+bip_39_word_new_br10: space<br>raise<br>device<br>kite<br>have<br>invite<br>wheel<br>lava<br>inner<br>buzz
+bip_39_word_new_br11: space<br>raise<br>device<br>kite<br>have<br>invite<br>wheel<br>lava<br>inner<br>buzz<br>link
+bip_39_word_new_br12: space<br>raise<br>device<br>kite<br>have<br>invite<br>wheel<br>lava<br>inner<br>buzz<br>link<br>audit
+bip_39_word_new_br2: space<br>raise
+bip_39_word_new_br3: space<br>raise<br>device
+bip_39_word_new_br4: space<br>raise<br>device<br>kite
+bip_39_word_new_br5: space<br>raise<br>device<br>kite<br>have
+bip_39_word_new_br6: space<br>raise<br>device<br>kite<br>have<br>invite
+bip_39_word_new_br7: space<br>raise<br>device<br>kite<br>have<br>invite<br>wheel
+bip_39_word_new_br8: space<br>raise<br>device<br>kite<br>have<br>invite<br>wheel<br>lava
+bip_39_word_new_br9: space<br>raise<br>device<br>kite<br>have<br>invite<br>wheel<br>lava<br>inner
+bip_39_word_new_line1: space
+bip_39_word_new_line10: 'space
+
+  raise
+
+  device
+
+  kite
+
+  have
+
+  invite
+
+  wheel
+
+  lava
+
+  inner
+
+  buzz'
+bip_39_word_new_line11: 'space
+
+  raise
+
+  device
+
+  kite
+
+  have
+
+  invite
+
+  wheel
+
+  lava
+
+  inner
+
+  buzz
+
+  link'
+bip_39_word_new_line12: 'space
+
+  raise
+
+  device
+
+  kite
+
+  have
+
+  invite
+
+  wheel
+
+  lava
+
+  inner
+
+  buzz
+
+  link
+
+  audit'
+bip_39_word_new_line2: 'space
+
+  raise'
+bip_39_word_new_line3: 'space
+
+  raise
+
+  device'
+bip_39_word_new_line4: 'space
+
+  raise
+
+  device
+
+  kite'
+bip_39_word_new_line5: 'space
+
+  raise
+
+  device
+
+  kite
+
+  have'
+bip_39_word_new_line6: 'space
+
+  raise
+
+  device
+
+  kite
+
+  have
+
+  invite'
+bip_39_word_new_line7: 'space
+
+  raise
+
+  device
+
+  kite
+
+  have
+
+  invite
+
+  wheel'
+bip_39_word_new_line8: 'space
+
+  raise
+
+  device
+
+  kite
+
+  have
+
+  invite
+
+  wheel
+
+  lava'
+bip_39_word_new_line9: 'space
+
+  raise
+
+  device
+
+  kite
+
+  have
+
+  invite
+
+  wheel
+
+  lava
+
+  inner'
+bip_39_word_space_0:
+- space
+- raise
+- device
+- kite
+- have
+- invite
+- wheel
+- lava
+- inner
+- buzz
+- link
+- audit
+bip_39_word_space_1: space
+bip_39_word_space_10: space raise device kite have invite wheel lava inner buzz
+bip_39_word_space_11: space raise device kite have invite wheel lava inner buzz link
+bip_39_word_space_12: space raise device kite have invite wheel lava inner buzz link
+  audit
+bip_39_word_space_2: space raise
+bip_39_word_space_3: space raise device
+bip_39_word_space_4: space raise device kite
+bip_39_word_space_5: space raise device kite have
+bip_39_word_space_6: space raise device kite have invite
+bip_39_word_space_7: space raise device kite have invite wheel
+bip_39_word_space_8: space raise device kite have invite wheel lava
+bip_39_word_space_9: space raise device kite have invite wheel lava inner
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

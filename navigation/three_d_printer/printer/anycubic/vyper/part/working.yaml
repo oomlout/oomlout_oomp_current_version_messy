@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dish
+bip_39_word_new_br10: dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join<br>much<br>slender<br>pride<br>little
+bip_39_word_new_br11: dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join<br>much<br>slender<br>pride<br>little<br>jazz
+bip_39_word_new_br12: dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join<br>much<br>slender<br>pride<br>little<br>jazz<br>angry
+bip_39_word_new_br2: dish<br>embrace
+bip_39_word_new_br3: dish<br>embrace<br>bachelor
+bip_39_word_new_br4: dish<br>embrace<br>bachelor<br>lab
+bip_39_word_new_br5: dish<br>embrace<br>bachelor<br>lab<br>daughter
+bip_39_word_new_br6: dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join
+bip_39_word_new_br7: dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join<br>much
+bip_39_word_new_br8: dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join<br>much<br>slender
+bip_39_word_new_br9: dish<br>embrace<br>bachelor<br>lab<br>daughter<br>join<br>much<br>slender<br>pride
+bip_39_word_new_line1: dish
+bip_39_word_new_line10: 'dish
+
+  embrace
+
+  bachelor
+
+  lab
+
+  daughter
+
+  join
+
+  much
+
+  slender
+
+  pride
+
+  little'
+bip_39_word_new_line11: 'dish
+
+  embrace
+
+  bachelor
+
+  lab
+
+  daughter
+
+  join
+
+  much
+
+  slender
+
+  pride
+
+  little
+
+  jazz'
+bip_39_word_new_line12: 'dish
+
+  embrace
+
+  bachelor
+
+  lab
+
+  daughter
+
+  join
+
+  much
+
+  slender
+
+  pride
+
+  little
+
+  jazz
+
+  angry'
+bip_39_word_new_line2: 'dish
+
+  embrace'
+bip_39_word_new_line3: 'dish
+
+  embrace
+
+  bachelor'
+bip_39_word_new_line4: 'dish
+
+  embrace
+
+  bachelor
+
+  lab'
+bip_39_word_new_line5: 'dish
+
+  embrace
+
+  bachelor
+
+  lab
+
+  daughter'
+bip_39_word_new_line6: 'dish
+
+  embrace
+
+  bachelor
+
+  lab
+
+  daughter
+
+  join'
+bip_39_word_new_line7: 'dish
+
+  embrace
+
+  bachelor
+
+  lab
+
+  daughter
+
+  join
+
+  much'
+bip_39_word_new_line8: 'dish
+
+  embrace
+
+  bachelor
+
+  lab
+
+  daughter
+
+  join
+
+  much
+
+  slender'
+bip_39_word_new_line9: 'dish
+
+  embrace
+
+  bachelor
+
+  lab
+
+  daughter
+
+  join
+
+  much
+
+  slender
+
+  pride'
+bip_39_word_space_0:
+- dish
+- embrace
+- bachelor
+- lab
+- daughter
+- join
+- much
+- slender
+- pride
+- little
+- jazz
+- angry
+bip_39_word_space_1: dish
+bip_39_word_space_10: dish embrace bachelor lab daughter join much slender pride little
+bip_39_word_space_11: dish embrace bachelor lab daughter join much slender pride little
+  jazz
+bip_39_word_space_12: dish embrace bachelor lab daughter join much slender pride little
+  jazz angry
+bip_39_word_space_2: dish embrace
+bip_39_word_space_3: dish embrace bachelor
+bip_39_word_space_4: dish embrace bachelor lab
+bip_39_word_space_5: dish embrace bachelor lab daughter
+bip_39_word_space_6: dish embrace bachelor lab daughter join
+bip_39_word_space_7: dish embrace bachelor lab daughter join much
+bip_39_word_space_8: dish embrace bachelor lab daughter join much slender
+bip_39_word_space_9: dish embrace bachelor lab daughter join much slender pride
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

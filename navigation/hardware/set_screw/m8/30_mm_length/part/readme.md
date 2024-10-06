@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: estate motion
+  * bip 39 word 3: estate motion equal
+  * bip 39 word: estate motion equal behind leader sea must believe wish example ball attend
 
 ### other_codes
 * short_code: ss8m30
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | estate |  
+| bip_39_word_new_br10 | estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish<br>example |  
+| bip_39_word_new_br11 | estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish<br>example<br>ball |  
+| bip_39_word_new_br12 | estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish<br>example<br>ball<br>attend |  
+| bip_39_word_new_br2 | estate<br>motion |  
+| bip_39_word_new_br3 | estate<br>motion<br>equal |  
+| bip_39_word_new_br4 | estate<br>motion<br>equal<br>behind |  
+| bip_39_word_new_br5 | estate<br>motion<br>equal<br>behind<br>leader |  
+| bip_39_word_new_br6 | estate<br>motion<br>equal<br>behind<br>leader<br>sea |  
+| bip_39_word_new_br7 | estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must |  
+| bip_39_word_new_br8 | estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe |  
+| bip_39_word_new_br9 | estate<br>motion<br>equal<br>behind<br>leader<br>sea<br>must<br>believe<br>wish |  
+| bip_39_word_new_line1 | estate |  
+| bip_39_word_new_line10 | estate
+motion
+equal
+behind
+leader
+sea
+must
+believe
+wish
+example |  
+| bip_39_word_new_line11 | estate
+motion
+equal
+behind
+leader
+sea
+must
+believe
+wish
+example
+ball |  
+| bip_39_word_new_line12 | estate
+motion
+equal
+behind
+leader
+sea
+must
+believe
+wish
+example
+ball
+attend |  
+| bip_39_word_new_line2 | estate
+motion |  
+| bip_39_word_new_line3 | estate
+motion
+equal |  
+| bip_39_word_new_line4 | estate
+motion
+equal
+behind |  
+| bip_39_word_new_line5 | estate
+motion
+equal
+behind
+leader |  
+| bip_39_word_new_line6 | estate
+motion
+equal
+behind
+leader
+sea |  
+| bip_39_word_new_line7 | estate
+motion
+equal
+behind
+leader
+sea
+must |  
+| bip_39_word_new_line8 | estate
+motion
+equal
+behind
+leader
+sea
+must
+believe |  
+| bip_39_word_new_line9 | estate
+motion
+equal
+behind
+leader
+sea
+must
+believe
+wish |  
+| bip_39_word_space_0 | ['estate', 'motion', 'equal', 'behind', 'leader', 'sea', 'must', 'believe', 'wish', 'example', 'ball', 'attend'] |  
+| bip_39_word_space_1 | estate |  
+| bip_39_word_space_10 | estate motion equal behind leader sea must believe wish example |  
+| bip_39_word_space_11 | estate motion equal behind leader sea must believe wish example ball |  
+| bip_39_word_space_12 | estate motion equal behind leader sea must believe wish example ball attend |  
+| bip_39_word_space_2 | estate motion |  
+| bip_39_word_space_3 | estate motion equal |  
+| bip_39_word_space_4 | estate motion equal behind |  
+| bip_39_word_space_5 | estate motion equal behind leader |  
+| bip_39_word_space_6 | estate motion equal behind leader sea |  
+| bip_39_word_space_7 | estate motion equal behind leader sea must |  
+| bip_39_word_space_8 | estate motion equal behind leader sea must believe |  
+| bip_39_word_space_9 | estate motion equal behind leader sea must believe wish |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

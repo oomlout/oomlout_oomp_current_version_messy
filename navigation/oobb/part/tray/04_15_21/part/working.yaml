@@ -1,3 +1,187 @@
+bip_39_word_new_br1: green
+bip_39_word_new_br10: green<br>umbrella<br>screen<br>hazard<br>music<br>bread<br>mirror<br>select<br>purpose<br>table
+bip_39_word_new_br11: green<br>umbrella<br>screen<br>hazard<br>music<br>bread<br>mirror<br>select<br>purpose<br>table<br>nasty
+bip_39_word_new_br12: green<br>umbrella<br>screen<br>hazard<br>music<br>bread<br>mirror<br>select<br>purpose<br>table<br>nasty<br>area
+bip_39_word_new_br2: green<br>umbrella
+bip_39_word_new_br3: green<br>umbrella<br>screen
+bip_39_word_new_br4: green<br>umbrella<br>screen<br>hazard
+bip_39_word_new_br5: green<br>umbrella<br>screen<br>hazard<br>music
+bip_39_word_new_br6: green<br>umbrella<br>screen<br>hazard<br>music<br>bread
+bip_39_word_new_br7: green<br>umbrella<br>screen<br>hazard<br>music<br>bread<br>mirror
+bip_39_word_new_br8: green<br>umbrella<br>screen<br>hazard<br>music<br>bread<br>mirror<br>select
+bip_39_word_new_br9: green<br>umbrella<br>screen<br>hazard<br>music<br>bread<br>mirror<br>select<br>purpose
+bip_39_word_new_line1: green
+bip_39_word_new_line10: 'green
+
+  umbrella
+
+  screen
+
+  hazard
+
+  music
+
+  bread
+
+  mirror
+
+  select
+
+  purpose
+
+  table'
+bip_39_word_new_line11: 'green
+
+  umbrella
+
+  screen
+
+  hazard
+
+  music
+
+  bread
+
+  mirror
+
+  select
+
+  purpose
+
+  table
+
+  nasty'
+bip_39_word_new_line12: 'green
+
+  umbrella
+
+  screen
+
+  hazard
+
+  music
+
+  bread
+
+  mirror
+
+  select
+
+  purpose
+
+  table
+
+  nasty
+
+  area'
+bip_39_word_new_line2: 'green
+
+  umbrella'
+bip_39_word_new_line3: 'green
+
+  umbrella
+
+  screen'
+bip_39_word_new_line4: 'green
+
+  umbrella
+
+  screen
+
+  hazard'
+bip_39_word_new_line5: 'green
+
+  umbrella
+
+  screen
+
+  hazard
+
+  music'
+bip_39_word_new_line6: 'green
+
+  umbrella
+
+  screen
+
+  hazard
+
+  music
+
+  bread'
+bip_39_word_new_line7: 'green
+
+  umbrella
+
+  screen
+
+  hazard
+
+  music
+
+  bread
+
+  mirror'
+bip_39_word_new_line8: 'green
+
+  umbrella
+
+  screen
+
+  hazard
+
+  music
+
+  bread
+
+  mirror
+
+  select'
+bip_39_word_new_line9: 'green
+
+  umbrella
+
+  screen
+
+  hazard
+
+  music
+
+  bread
+
+  mirror
+
+  select
+
+  purpose'
+bip_39_word_space_0:
+- green
+- umbrella
+- screen
+- hazard
+- music
+- bread
+- mirror
+- select
+- purpose
+- table
+- nasty
+- area
+bip_39_word_space_1: green
+bip_39_word_space_10: green umbrella screen hazard music bread mirror select purpose
+  table
+bip_39_word_space_11: green umbrella screen hazard music bread mirror select purpose
+  table nasty
+bip_39_word_space_12: green umbrella screen hazard music bread mirror select purpose
+  table nasty area
+bip_39_word_space_2: green umbrella
+bip_39_word_space_3: green umbrella screen
+bip_39_word_space_4: green umbrella screen hazard
+bip_39_word_space_5: green umbrella screen hazard music
+bip_39_word_space_6: green umbrella screen hazard music bread
+bip_39_word_space_7: green umbrella screen hazard music bread mirror
+bip_39_word_space_8: green umbrella screen hazard music bread mirror select
+bip_39_word_space_9: green umbrella screen hazard music bread mirror select purpose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

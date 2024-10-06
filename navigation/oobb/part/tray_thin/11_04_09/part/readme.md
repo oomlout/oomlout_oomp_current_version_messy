@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shadow wave
+  * bip 39 word 3: shadow wave onion
+  * bip 39 word: shadow wave onion hero bicycle ahead alarm raise motion scissors glass agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shadow |  
+| bip_39_word_new_br10 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead<br>alarm<br>raise<br>motion<br>scissors |  
+| bip_39_word_new_br11 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead<br>alarm<br>raise<br>motion<br>scissors<br>glass |  
+| bip_39_word_new_br12 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead<br>alarm<br>raise<br>motion<br>scissors<br>glass<br>agent |  
+| bip_39_word_new_br2 | shadow<br>wave |  
+| bip_39_word_new_br3 | shadow<br>wave<br>onion |  
+| bip_39_word_new_br4 | shadow<br>wave<br>onion<br>hero |  
+| bip_39_word_new_br5 | shadow<br>wave<br>onion<br>hero<br>bicycle |  
+| bip_39_word_new_br6 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead |  
+| bip_39_word_new_br7 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead<br>alarm |  
+| bip_39_word_new_br8 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead<br>alarm<br>raise |  
+| bip_39_word_new_br9 | shadow<br>wave<br>onion<br>hero<br>bicycle<br>ahead<br>alarm<br>raise<br>motion |  
+| bip_39_word_new_line1 | shadow |  
+| bip_39_word_new_line10 | shadow
+wave
+onion
+hero
+bicycle
+ahead
+alarm
+raise
+motion
+scissors |  
+| bip_39_word_new_line11 | shadow
+wave
+onion
+hero
+bicycle
+ahead
+alarm
+raise
+motion
+scissors
+glass |  
+| bip_39_word_new_line12 | shadow
+wave
+onion
+hero
+bicycle
+ahead
+alarm
+raise
+motion
+scissors
+glass
+agent |  
+| bip_39_word_new_line2 | shadow
+wave |  
+| bip_39_word_new_line3 | shadow
+wave
+onion |  
+| bip_39_word_new_line4 | shadow
+wave
+onion
+hero |  
+| bip_39_word_new_line5 | shadow
+wave
+onion
+hero
+bicycle |  
+| bip_39_word_new_line6 | shadow
+wave
+onion
+hero
+bicycle
+ahead |  
+| bip_39_word_new_line7 | shadow
+wave
+onion
+hero
+bicycle
+ahead
+alarm |  
+| bip_39_word_new_line8 | shadow
+wave
+onion
+hero
+bicycle
+ahead
+alarm
+raise |  
+| bip_39_word_new_line9 | shadow
+wave
+onion
+hero
+bicycle
+ahead
+alarm
+raise
+motion |  
+| bip_39_word_space_0 | ['shadow', 'wave', 'onion', 'hero', 'bicycle', 'ahead', 'alarm', 'raise', 'motion', 'scissors', 'glass', 'agent'] |  
+| bip_39_word_space_1 | shadow |  
+| bip_39_word_space_10 | shadow wave onion hero bicycle ahead alarm raise motion scissors |  
+| bip_39_word_space_11 | shadow wave onion hero bicycle ahead alarm raise motion scissors glass |  
+| bip_39_word_space_12 | shadow wave onion hero bicycle ahead alarm raise motion scissors glass agent |  
+| bip_39_word_space_2 | shadow wave |  
+| bip_39_word_space_3 | shadow wave onion |  
+| bip_39_word_space_4 | shadow wave onion hero |  
+| bip_39_word_space_5 | shadow wave onion hero bicycle |  
+| bip_39_word_space_6 | shadow wave onion hero bicycle ahead |  
+| bip_39_word_space_7 | shadow wave onion hero bicycle ahead alarm |  
+| bip_39_word_space_8 | shadow wave onion hero bicycle ahead alarm raise |  
+| bip_39_word_space_9 | shadow wave onion hero bicycle ahead alarm raise motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

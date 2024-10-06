@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chief swamp
+  * bip 39 word 3: chief swamp genre
+  * bip 39 word: chief swamp genre reduce inmate trade embrace right proud purpose demand artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chief |  
+| bip_39_word_new_br10 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade<br>embrace<br>right<br>proud<br>purpose |  
+| bip_39_word_new_br11 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade<br>embrace<br>right<br>proud<br>purpose<br>demand |  
+| bip_39_word_new_br12 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade<br>embrace<br>right<br>proud<br>purpose<br>demand<br>artist |  
+| bip_39_word_new_br2 | chief<br>swamp |  
+| bip_39_word_new_br3 | chief<br>swamp<br>genre |  
+| bip_39_word_new_br4 | chief<br>swamp<br>genre<br>reduce |  
+| bip_39_word_new_br5 | chief<br>swamp<br>genre<br>reduce<br>inmate |  
+| bip_39_word_new_br6 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade |  
+| bip_39_word_new_br7 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade<br>embrace |  
+| bip_39_word_new_br8 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade<br>embrace<br>right |  
+| bip_39_word_new_br9 | chief<br>swamp<br>genre<br>reduce<br>inmate<br>trade<br>embrace<br>right<br>proud |  
+| bip_39_word_new_line1 | chief |  
+| bip_39_word_new_line10 | chief
+swamp
+genre
+reduce
+inmate
+trade
+embrace
+right
+proud
+purpose |  
+| bip_39_word_new_line11 | chief
+swamp
+genre
+reduce
+inmate
+trade
+embrace
+right
+proud
+purpose
+demand |  
+| bip_39_word_new_line12 | chief
+swamp
+genre
+reduce
+inmate
+trade
+embrace
+right
+proud
+purpose
+demand
+artist |  
+| bip_39_word_new_line2 | chief
+swamp |  
+| bip_39_word_new_line3 | chief
+swamp
+genre |  
+| bip_39_word_new_line4 | chief
+swamp
+genre
+reduce |  
+| bip_39_word_new_line5 | chief
+swamp
+genre
+reduce
+inmate |  
+| bip_39_word_new_line6 | chief
+swamp
+genre
+reduce
+inmate
+trade |  
+| bip_39_word_new_line7 | chief
+swamp
+genre
+reduce
+inmate
+trade
+embrace |  
+| bip_39_word_new_line8 | chief
+swamp
+genre
+reduce
+inmate
+trade
+embrace
+right |  
+| bip_39_word_new_line9 | chief
+swamp
+genre
+reduce
+inmate
+trade
+embrace
+right
+proud |  
+| bip_39_word_space_0 | ['chief', 'swamp', 'genre', 'reduce', 'inmate', 'trade', 'embrace', 'right', 'proud', 'purpose', 'demand', 'artist'] |  
+| bip_39_word_space_1 | chief |  
+| bip_39_word_space_10 | chief swamp genre reduce inmate trade embrace right proud purpose |  
+| bip_39_word_space_11 | chief swamp genre reduce inmate trade embrace right proud purpose demand |  
+| bip_39_word_space_12 | chief swamp genre reduce inmate trade embrace right proud purpose demand artist |  
+| bip_39_word_space_2 | chief swamp |  
+| bip_39_word_space_3 | chief swamp genre |  
+| bip_39_word_space_4 | chief swamp genre reduce |  
+| bip_39_word_space_5 | chief swamp genre reduce inmate |  
+| bip_39_word_space_6 | chief swamp genre reduce inmate trade |  
+| bip_39_word_space_7 | chief swamp genre reduce inmate trade embrace |  
+| bip_39_word_space_8 | chief swamp genre reduce inmate trade embrace right |  
+| bip_39_word_space_9 | chief swamp genre reduce inmate trade embrace right proud |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

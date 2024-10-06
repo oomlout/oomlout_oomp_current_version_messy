@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monkey motor
+  * bip 39 word 3: monkey motor weather
+  * bip 39 word: monkey motor weather trigger subway bracket develop fix furnace nice left ask
 
 ### other_codes
 * short_code: br6701
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monkey |  
+| bip_39_word_new_br10 | monkey<br>motor<br>weather<br>trigger<br>subway<br>bracket<br>develop<br>fix<br>furnace<br>nice |  
+| bip_39_word_new_br11 | monkey<br>motor<br>weather<br>trigger<br>subway<br>bracket<br>develop<br>fix<br>furnace<br>nice<br>left |  
+| bip_39_word_new_br12 | monkey<br>motor<br>weather<br>trigger<br>subway<br>bracket<br>develop<br>fix<br>furnace<br>nice<br>left<br>ask |  
+| bip_39_word_new_br2 | monkey<br>motor |  
+| bip_39_word_new_br3 | monkey<br>motor<br>weather |  
+| bip_39_word_new_br4 | monkey<br>motor<br>weather<br>trigger |  
+| bip_39_word_new_br5 | monkey<br>motor<br>weather<br>trigger<br>subway |  
+| bip_39_word_new_br6 | monkey<br>motor<br>weather<br>trigger<br>subway<br>bracket |  
+| bip_39_word_new_br7 | monkey<br>motor<br>weather<br>trigger<br>subway<br>bracket<br>develop |  
+| bip_39_word_new_br8 | monkey<br>motor<br>weather<br>trigger<br>subway<br>bracket<br>develop<br>fix |  
+| bip_39_word_new_br9 | monkey<br>motor<br>weather<br>trigger<br>subway<br>bracket<br>develop<br>fix<br>furnace |  
+| bip_39_word_new_line1 | monkey |  
+| bip_39_word_new_line10 | monkey
+motor
+weather
+trigger
+subway
+bracket
+develop
+fix
+furnace
+nice |  
+| bip_39_word_new_line11 | monkey
+motor
+weather
+trigger
+subway
+bracket
+develop
+fix
+furnace
+nice
+left |  
+| bip_39_word_new_line12 | monkey
+motor
+weather
+trigger
+subway
+bracket
+develop
+fix
+furnace
+nice
+left
+ask |  
+| bip_39_word_new_line2 | monkey
+motor |  
+| bip_39_word_new_line3 | monkey
+motor
+weather |  
+| bip_39_word_new_line4 | monkey
+motor
+weather
+trigger |  
+| bip_39_word_new_line5 | monkey
+motor
+weather
+trigger
+subway |  
+| bip_39_word_new_line6 | monkey
+motor
+weather
+trigger
+subway
+bracket |  
+| bip_39_word_new_line7 | monkey
+motor
+weather
+trigger
+subway
+bracket
+develop |  
+| bip_39_word_new_line8 | monkey
+motor
+weather
+trigger
+subway
+bracket
+develop
+fix |  
+| bip_39_word_new_line9 | monkey
+motor
+weather
+trigger
+subway
+bracket
+develop
+fix
+furnace |  
+| bip_39_word_space_0 | ['monkey', 'motor', 'weather', 'trigger', 'subway', 'bracket', 'develop', 'fix', 'furnace', 'nice', 'left', 'ask'] |  
+| bip_39_word_space_1 | monkey |  
+| bip_39_word_space_10 | monkey motor weather trigger subway bracket develop fix furnace nice |  
+| bip_39_word_space_11 | monkey motor weather trigger subway bracket develop fix furnace nice left |  
+| bip_39_word_space_12 | monkey motor weather trigger subway bracket develop fix furnace nice left ask |  
+| bip_39_word_space_2 | monkey motor |  
+| bip_39_word_space_3 | monkey motor weather |  
+| bip_39_word_space_4 | monkey motor weather trigger |  
+| bip_39_word_space_5 | monkey motor weather trigger subway |  
+| bip_39_word_space_6 | monkey motor weather trigger subway bracket |  
+| bip_39_word_space_7 | monkey motor weather trigger subway bracket develop |  
+| bip_39_word_space_8 | monkey motor weather trigger subway bracket develop fix |  
+| bip_39_word_space_9 | monkey motor weather trigger subway bracket develop fix furnace |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

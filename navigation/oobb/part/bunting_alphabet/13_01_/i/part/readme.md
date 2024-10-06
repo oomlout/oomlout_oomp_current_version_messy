@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: i
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: attend have
+  * bip 39 word 3: attend have sustain
+  * bip 39 word: attend have sustain gadget there flat arrow churn inhale burst drop about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | attend |  
+| bip_39_word_new_br10 | attend<br>have<br>sustain<br>gadget<br>there<br>flat<br>arrow<br>churn<br>inhale<br>burst |  
+| bip_39_word_new_br11 | attend<br>have<br>sustain<br>gadget<br>there<br>flat<br>arrow<br>churn<br>inhale<br>burst<br>drop |  
+| bip_39_word_new_br12 | attend<br>have<br>sustain<br>gadget<br>there<br>flat<br>arrow<br>churn<br>inhale<br>burst<br>drop<br>about |  
+| bip_39_word_new_br2 | attend<br>have |  
+| bip_39_word_new_br3 | attend<br>have<br>sustain |  
+| bip_39_word_new_br4 | attend<br>have<br>sustain<br>gadget |  
+| bip_39_word_new_br5 | attend<br>have<br>sustain<br>gadget<br>there |  
+| bip_39_word_new_br6 | attend<br>have<br>sustain<br>gadget<br>there<br>flat |  
+| bip_39_word_new_br7 | attend<br>have<br>sustain<br>gadget<br>there<br>flat<br>arrow |  
+| bip_39_word_new_br8 | attend<br>have<br>sustain<br>gadget<br>there<br>flat<br>arrow<br>churn |  
+| bip_39_word_new_br9 | attend<br>have<br>sustain<br>gadget<br>there<br>flat<br>arrow<br>churn<br>inhale |  
+| bip_39_word_new_line1 | attend |  
+| bip_39_word_new_line10 | attend
+have
+sustain
+gadget
+there
+flat
+arrow
+churn
+inhale
+burst |  
+| bip_39_word_new_line11 | attend
+have
+sustain
+gadget
+there
+flat
+arrow
+churn
+inhale
+burst
+drop |  
+| bip_39_word_new_line12 | attend
+have
+sustain
+gadget
+there
+flat
+arrow
+churn
+inhale
+burst
+drop
+about |  
+| bip_39_word_new_line2 | attend
+have |  
+| bip_39_word_new_line3 | attend
+have
+sustain |  
+| bip_39_word_new_line4 | attend
+have
+sustain
+gadget |  
+| bip_39_word_new_line5 | attend
+have
+sustain
+gadget
+there |  
+| bip_39_word_new_line6 | attend
+have
+sustain
+gadget
+there
+flat |  
+| bip_39_word_new_line7 | attend
+have
+sustain
+gadget
+there
+flat
+arrow |  
+| bip_39_word_new_line8 | attend
+have
+sustain
+gadget
+there
+flat
+arrow
+churn |  
+| bip_39_word_new_line9 | attend
+have
+sustain
+gadget
+there
+flat
+arrow
+churn
+inhale |  
+| bip_39_word_space_0 | ['attend', 'have', 'sustain', 'gadget', 'there', 'flat', 'arrow', 'churn', 'inhale', 'burst', 'drop', 'about'] |  
+| bip_39_word_space_1 | attend |  
+| bip_39_word_space_10 | attend have sustain gadget there flat arrow churn inhale burst |  
+| bip_39_word_space_11 | attend have sustain gadget there flat arrow churn inhale burst drop |  
+| bip_39_word_space_12 | attend have sustain gadget there flat arrow churn inhale burst drop about |  
+| bip_39_word_space_2 | attend have |  
+| bip_39_word_space_3 | attend have sustain |  
+| bip_39_word_space_4 | attend have sustain gadget |  
+| bip_39_word_space_5 | attend have sustain gadget there |  
+| bip_39_word_space_6 | attend have sustain gadget there flat |  
+| bip_39_word_space_7 | attend have sustain gadget there flat arrow |  
+| bip_39_word_space_8 | attend have sustain gadget there flat arrow churn |  
+| bip_39_word_space_9 | attend have sustain gadget there flat arrow churn inhale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

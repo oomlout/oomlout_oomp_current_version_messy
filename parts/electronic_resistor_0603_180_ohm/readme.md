@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: liquid west
+  * bip 39 word 3: liquid west business
+  * bip 39 word: liquid west business size hub valid early impact target recycle cannon angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | liquid |  
+| bip_39_word_new_br10 | liquid<br>west<br>business<br>size<br>hub<br>valid<br>early<br>impact<br>target<br>recycle |  
+| bip_39_word_new_br11 | liquid<br>west<br>business<br>size<br>hub<br>valid<br>early<br>impact<br>target<br>recycle<br>cannon |  
+| bip_39_word_new_br12 | liquid<br>west<br>business<br>size<br>hub<br>valid<br>early<br>impact<br>target<br>recycle<br>cannon<br>angry |  
+| bip_39_word_new_br2 | liquid<br>west |  
+| bip_39_word_new_br3 | liquid<br>west<br>business |  
+| bip_39_word_new_br4 | liquid<br>west<br>business<br>size |  
+| bip_39_word_new_br5 | liquid<br>west<br>business<br>size<br>hub |  
+| bip_39_word_new_br6 | liquid<br>west<br>business<br>size<br>hub<br>valid |  
+| bip_39_word_new_br7 | liquid<br>west<br>business<br>size<br>hub<br>valid<br>early |  
+| bip_39_word_new_br8 | liquid<br>west<br>business<br>size<br>hub<br>valid<br>early<br>impact |  
+| bip_39_word_new_br9 | liquid<br>west<br>business<br>size<br>hub<br>valid<br>early<br>impact<br>target |  
+| bip_39_word_new_line1 | liquid |  
+| bip_39_word_new_line10 | liquid
+west
+business
+size
+hub
+valid
+early
+impact
+target
+recycle |  
+| bip_39_word_new_line11 | liquid
+west
+business
+size
+hub
+valid
+early
+impact
+target
+recycle
+cannon |  
+| bip_39_word_new_line12 | liquid
+west
+business
+size
+hub
+valid
+early
+impact
+target
+recycle
+cannon
+angry |  
+| bip_39_word_new_line2 | liquid
+west |  
+| bip_39_word_new_line3 | liquid
+west
+business |  
+| bip_39_word_new_line4 | liquid
+west
+business
+size |  
+| bip_39_word_new_line5 | liquid
+west
+business
+size
+hub |  
+| bip_39_word_new_line6 | liquid
+west
+business
+size
+hub
+valid |  
+| bip_39_word_new_line7 | liquid
+west
+business
+size
+hub
+valid
+early |  
+| bip_39_word_new_line8 | liquid
+west
+business
+size
+hub
+valid
+early
+impact |  
+| bip_39_word_new_line9 | liquid
+west
+business
+size
+hub
+valid
+early
+impact
+target |  
+| bip_39_word_space_0 | ['liquid', 'west', 'business', 'size', 'hub', 'valid', 'early', 'impact', 'target', 'recycle', 'cannon', 'angry'] |  
+| bip_39_word_space_1 | liquid |  
+| bip_39_word_space_10 | liquid west business size hub valid early impact target recycle |  
+| bip_39_word_space_11 | liquid west business size hub valid early impact target recycle cannon |  
+| bip_39_word_space_12 | liquid west business size hub valid early impact target recycle cannon angry |  
+| bip_39_word_space_2 | liquid west |  
+| bip_39_word_space_3 | liquid west business |  
+| bip_39_word_space_4 | liquid west business size |  
+| bip_39_word_space_5 | liquid west business size hub |  
+| bip_39_word_space_6 | liquid west business size hub valid |  
+| bip_39_word_space_7 | liquid west business size hub valid early |  
+| bip_39_word_space_8 | liquid west business size hub valid early impact |  
+| bip_39_word_space_9 | liquid west business size hub valid early impact target |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

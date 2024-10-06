@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: august practice
+  * bip 39 word 3: august practice tomorrow
+  * bip 39 word: august practice tomorrow author legal eagle rare narrow tribe ensure rib arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | august |  
+| bip_39_word_new_br10 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle<br>rare<br>narrow<br>tribe<br>ensure |  
+| bip_39_word_new_br11 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle<br>rare<br>narrow<br>tribe<br>ensure<br>rib |  
+| bip_39_word_new_br12 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle<br>rare<br>narrow<br>tribe<br>ensure<br>rib<br>arrange |  
+| bip_39_word_new_br2 | august<br>practice |  
+| bip_39_word_new_br3 | august<br>practice<br>tomorrow |  
+| bip_39_word_new_br4 | august<br>practice<br>tomorrow<br>author |  
+| bip_39_word_new_br5 | august<br>practice<br>tomorrow<br>author<br>legal |  
+| bip_39_word_new_br6 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle |  
+| bip_39_word_new_br7 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle<br>rare |  
+| bip_39_word_new_br8 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle<br>rare<br>narrow |  
+| bip_39_word_new_br9 | august<br>practice<br>tomorrow<br>author<br>legal<br>eagle<br>rare<br>narrow<br>tribe |  
+| bip_39_word_new_line1 | august |  
+| bip_39_word_new_line10 | august
+practice
+tomorrow
+author
+legal
+eagle
+rare
+narrow
+tribe
+ensure |  
+| bip_39_word_new_line11 | august
+practice
+tomorrow
+author
+legal
+eagle
+rare
+narrow
+tribe
+ensure
+rib |  
+| bip_39_word_new_line12 | august
+practice
+tomorrow
+author
+legal
+eagle
+rare
+narrow
+tribe
+ensure
+rib
+arrange |  
+| bip_39_word_new_line2 | august
+practice |  
+| bip_39_word_new_line3 | august
+practice
+tomorrow |  
+| bip_39_word_new_line4 | august
+practice
+tomorrow
+author |  
+| bip_39_word_new_line5 | august
+practice
+tomorrow
+author
+legal |  
+| bip_39_word_new_line6 | august
+practice
+tomorrow
+author
+legal
+eagle |  
+| bip_39_word_new_line7 | august
+practice
+tomorrow
+author
+legal
+eagle
+rare |  
+| bip_39_word_new_line8 | august
+practice
+tomorrow
+author
+legal
+eagle
+rare
+narrow |  
+| bip_39_word_new_line9 | august
+practice
+tomorrow
+author
+legal
+eagle
+rare
+narrow
+tribe |  
+| bip_39_word_space_0 | ['august', 'practice', 'tomorrow', 'author', 'legal', 'eagle', 'rare', 'narrow', 'tribe', 'ensure', 'rib', 'arrange'] |  
+| bip_39_word_space_1 | august |  
+| bip_39_word_space_10 | august practice tomorrow author legal eagle rare narrow tribe ensure |  
+| bip_39_word_space_11 | august practice tomorrow author legal eagle rare narrow tribe ensure rib |  
+| bip_39_word_space_12 | august practice tomorrow author legal eagle rare narrow tribe ensure rib arrange |  
+| bip_39_word_space_2 | august practice |  
+| bip_39_word_space_3 | august practice tomorrow |  
+| bip_39_word_space_4 | august practice tomorrow author |  
+| bip_39_word_space_5 | august practice tomorrow author legal |  
+| bip_39_word_space_6 | august practice tomorrow author legal eagle |  
+| bip_39_word_space_7 | august practice tomorrow author legal eagle rare |  
+| bip_39_word_space_8 | august practice tomorrow author legal eagle rare narrow |  
+| bip_39_word_space_9 | august practice tomorrow author legal eagle rare narrow tribe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

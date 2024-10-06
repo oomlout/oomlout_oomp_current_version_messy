@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dwarf refuse
+  * bip 39 word 3: dwarf refuse omit
+  * bip 39 word: dwarf refuse omit town damp artwork similar myth silly equip pretty arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dwarf |  
+| bip_39_word_new_br10 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork<br>similar<br>myth<br>silly<br>equip |  
+| bip_39_word_new_br11 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork<br>similar<br>myth<br>silly<br>equip<br>pretty |  
+| bip_39_word_new_br12 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork<br>similar<br>myth<br>silly<br>equip<br>pretty<br>arrive |  
+| bip_39_word_new_br2 | dwarf<br>refuse |  
+| bip_39_word_new_br3 | dwarf<br>refuse<br>omit |  
+| bip_39_word_new_br4 | dwarf<br>refuse<br>omit<br>town |  
+| bip_39_word_new_br5 | dwarf<br>refuse<br>omit<br>town<br>damp |  
+| bip_39_word_new_br6 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork |  
+| bip_39_word_new_br7 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork<br>similar |  
+| bip_39_word_new_br8 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork<br>similar<br>myth |  
+| bip_39_word_new_br9 | dwarf<br>refuse<br>omit<br>town<br>damp<br>artwork<br>similar<br>myth<br>silly |  
+| bip_39_word_new_line1 | dwarf |  
+| bip_39_word_new_line10 | dwarf
+refuse
+omit
+town
+damp
+artwork
+similar
+myth
+silly
+equip |  
+| bip_39_word_new_line11 | dwarf
+refuse
+omit
+town
+damp
+artwork
+similar
+myth
+silly
+equip
+pretty |  
+| bip_39_word_new_line12 | dwarf
+refuse
+omit
+town
+damp
+artwork
+similar
+myth
+silly
+equip
+pretty
+arrive |  
+| bip_39_word_new_line2 | dwarf
+refuse |  
+| bip_39_word_new_line3 | dwarf
+refuse
+omit |  
+| bip_39_word_new_line4 | dwarf
+refuse
+omit
+town |  
+| bip_39_word_new_line5 | dwarf
+refuse
+omit
+town
+damp |  
+| bip_39_word_new_line6 | dwarf
+refuse
+omit
+town
+damp
+artwork |  
+| bip_39_word_new_line7 | dwarf
+refuse
+omit
+town
+damp
+artwork
+similar |  
+| bip_39_word_new_line8 | dwarf
+refuse
+omit
+town
+damp
+artwork
+similar
+myth |  
+| bip_39_word_new_line9 | dwarf
+refuse
+omit
+town
+damp
+artwork
+similar
+myth
+silly |  
+| bip_39_word_space_0 | ['dwarf', 'refuse', 'omit', 'town', 'damp', 'artwork', 'similar', 'myth', 'silly', 'equip', 'pretty', 'arrive'] |  
+| bip_39_word_space_1 | dwarf |  
+| bip_39_word_space_10 | dwarf refuse omit town damp artwork similar myth silly equip |  
+| bip_39_word_space_11 | dwarf refuse omit town damp artwork similar myth silly equip pretty |  
+| bip_39_word_space_12 | dwarf refuse omit town damp artwork similar myth silly equip pretty arrive |  
+| bip_39_word_space_2 | dwarf refuse |  
+| bip_39_word_space_3 | dwarf refuse omit |  
+| bip_39_word_space_4 | dwarf refuse omit town |  
+| bip_39_word_space_5 | dwarf refuse omit town damp |  
+| bip_39_word_space_6 | dwarf refuse omit town damp artwork |  
+| bip_39_word_space_7 | dwarf refuse omit town damp artwork similar |  
+| bip_39_word_space_8 | dwarf refuse omit town damp artwork similar myth |  
+| bip_39_word_space_9 | dwarf refuse omit town damp artwork similar myth silly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

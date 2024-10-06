@@ -1,3 +1,186 @@
+bip_39_word_new_br1: leisure
+bip_39_word_new_br10: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop<br>aisle
+bip_39_word_new_br11: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop<br>aisle<br>exile
+bip_39_word_new_br12: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop<br>aisle<br>exile<br>addict
+bip_39_word_new_br2: leisure<br>evoke
+bip_39_word_new_br3: leisure<br>evoke<br>broken
+bip_39_word_new_br4: leisure<br>evoke<br>broken<br>faint
+bip_39_word_new_br5: leisure<br>evoke<br>broken<br>faint<br>flee
+bip_39_word_new_br6: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft
+bip_39_word_new_br7: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle
+bip_39_word_new_br8: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit
+bip_39_word_new_br9: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop
+bip_39_word_new_line1: leisure
+bip_39_word_new_line10: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit
+
+  develop
+
+  aisle'
+bip_39_word_new_line11: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit
+
+  develop
+
+  aisle
+
+  exile'
+bip_39_word_new_line12: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit
+
+  develop
+
+  aisle
+
+  exile
+
+  addict'
+bip_39_word_new_line2: 'leisure
+
+  evoke'
+bip_39_word_new_line3: 'leisure
+
+  evoke
+
+  broken'
+bip_39_word_new_line4: 'leisure
+
+  evoke
+
+  broken
+
+  faint'
+bip_39_word_new_line5: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee'
+bip_39_word_new_line6: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft'
+bip_39_word_new_line7: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle'
+bip_39_word_new_line8: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit'
+bip_39_word_new_line9: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit
+
+  develop'
+bip_39_word_space_0:
+- leisure
+- evoke
+- broken
+- faint
+- flee
+- soft
+- cradle
+- credit
+- develop
+- aisle
+- exile
+- addict
+bip_39_word_space_1: leisure
+bip_39_word_space_10: leisure evoke broken faint flee soft cradle credit develop aisle
+bip_39_word_space_11: leisure evoke broken faint flee soft cradle credit develop aisle
+  exile
+bip_39_word_space_12: leisure evoke broken faint flee soft cradle credit develop aisle
+  exile addict
+bip_39_word_space_2: leisure evoke
+bip_39_word_space_3: leisure evoke broken
+bip_39_word_space_4: leisure evoke broken faint
+bip_39_word_space_5: leisure evoke broken faint flee
+bip_39_word_space_6: leisure evoke broken faint flee soft
+bip_39_word_space_7: leisure evoke broken faint flee soft cradle
+bip_39_word_space_8: leisure evoke broken faint flee soft cradle credit
+bip_39_word_space_9: leisure evoke broken faint flee soft cradle credit develop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

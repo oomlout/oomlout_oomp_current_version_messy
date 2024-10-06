@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aunt rubber
+  * bip 39 word 3: aunt rubber pelican
+  * bip 39 word: aunt rubber pelican peasant unfold shove purchase size smile seven museum advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aunt |  
+| bip_39_word_new_br10 | aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile<br>seven |  
+| bip_39_word_new_br11 | aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile<br>seven<br>museum |  
+| bip_39_word_new_br12 | aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile<br>seven<br>museum<br>advance |  
+| bip_39_word_new_br2 | aunt<br>rubber |  
+| bip_39_word_new_br3 | aunt<br>rubber<br>pelican |  
+| bip_39_word_new_br4 | aunt<br>rubber<br>pelican<br>peasant |  
+| bip_39_word_new_br5 | aunt<br>rubber<br>pelican<br>peasant<br>unfold |  
+| bip_39_word_new_br6 | aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove |  
+| bip_39_word_new_br7 | aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase |  
+| bip_39_word_new_br8 | aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size |  
+| bip_39_word_new_br9 | aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile |  
+| bip_39_word_new_line1 | aunt |  
+| bip_39_word_new_line10 | aunt
+rubber
+pelican
+peasant
+unfold
+shove
+purchase
+size
+smile
+seven |  
+| bip_39_word_new_line11 | aunt
+rubber
+pelican
+peasant
+unfold
+shove
+purchase
+size
+smile
+seven
+museum |  
+| bip_39_word_new_line12 | aunt
+rubber
+pelican
+peasant
+unfold
+shove
+purchase
+size
+smile
+seven
+museum
+advance |  
+| bip_39_word_new_line2 | aunt
+rubber |  
+| bip_39_word_new_line3 | aunt
+rubber
+pelican |  
+| bip_39_word_new_line4 | aunt
+rubber
+pelican
+peasant |  
+| bip_39_word_new_line5 | aunt
+rubber
+pelican
+peasant
+unfold |  
+| bip_39_word_new_line6 | aunt
+rubber
+pelican
+peasant
+unfold
+shove |  
+| bip_39_word_new_line7 | aunt
+rubber
+pelican
+peasant
+unfold
+shove
+purchase |  
+| bip_39_word_new_line8 | aunt
+rubber
+pelican
+peasant
+unfold
+shove
+purchase
+size |  
+| bip_39_word_new_line9 | aunt
+rubber
+pelican
+peasant
+unfold
+shove
+purchase
+size
+smile |  
+| bip_39_word_space_0 | ['aunt', 'rubber', 'pelican', 'peasant', 'unfold', 'shove', 'purchase', 'size', 'smile', 'seven', 'museum', 'advance'] |  
+| bip_39_word_space_1 | aunt |  
+| bip_39_word_space_10 | aunt rubber pelican peasant unfold shove purchase size smile seven |  
+| bip_39_word_space_11 | aunt rubber pelican peasant unfold shove purchase size smile seven museum |  
+| bip_39_word_space_12 | aunt rubber pelican peasant unfold shove purchase size smile seven museum advance |  
+| bip_39_word_space_2 | aunt rubber |  
+| bip_39_word_space_3 | aunt rubber pelican |  
+| bip_39_word_space_4 | aunt rubber pelican peasant |  
+| bip_39_word_space_5 | aunt rubber pelican peasant unfold |  
+| bip_39_word_space_6 | aunt rubber pelican peasant unfold shove |  
+| bip_39_word_space_7 | aunt rubber pelican peasant unfold shove purchase |  
+| bip_39_word_space_8 | aunt rubber pelican peasant unfold shove purchase size |  
+| bip_39_word_space_9 | aunt rubber pelican peasant unfold shove purchase size smile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

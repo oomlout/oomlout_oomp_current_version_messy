@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: salt evidence
+  * bip 39 word 3: salt evidence margin
+  * bip 39 word: salt evidence margin canvas slender release kitten resource salute sunset jazz add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | salt |  
+| bip_39_word_new_br10 | salt<br>evidence<br>margin<br>canvas<br>slender<br>release<br>kitten<br>resource<br>salute<br>sunset |  
+| bip_39_word_new_br11 | salt<br>evidence<br>margin<br>canvas<br>slender<br>release<br>kitten<br>resource<br>salute<br>sunset<br>jazz |  
+| bip_39_word_new_br12 | salt<br>evidence<br>margin<br>canvas<br>slender<br>release<br>kitten<br>resource<br>salute<br>sunset<br>jazz<br>add |  
+| bip_39_word_new_br2 | salt<br>evidence |  
+| bip_39_word_new_br3 | salt<br>evidence<br>margin |  
+| bip_39_word_new_br4 | salt<br>evidence<br>margin<br>canvas |  
+| bip_39_word_new_br5 | salt<br>evidence<br>margin<br>canvas<br>slender |  
+| bip_39_word_new_br6 | salt<br>evidence<br>margin<br>canvas<br>slender<br>release |  
+| bip_39_word_new_br7 | salt<br>evidence<br>margin<br>canvas<br>slender<br>release<br>kitten |  
+| bip_39_word_new_br8 | salt<br>evidence<br>margin<br>canvas<br>slender<br>release<br>kitten<br>resource |  
+| bip_39_word_new_br9 | salt<br>evidence<br>margin<br>canvas<br>slender<br>release<br>kitten<br>resource<br>salute |  
+| bip_39_word_new_line1 | salt |  
+| bip_39_word_new_line10 | salt
+evidence
+margin
+canvas
+slender
+release
+kitten
+resource
+salute
+sunset |  
+| bip_39_word_new_line11 | salt
+evidence
+margin
+canvas
+slender
+release
+kitten
+resource
+salute
+sunset
+jazz |  
+| bip_39_word_new_line12 | salt
+evidence
+margin
+canvas
+slender
+release
+kitten
+resource
+salute
+sunset
+jazz
+add |  
+| bip_39_word_new_line2 | salt
+evidence |  
+| bip_39_word_new_line3 | salt
+evidence
+margin |  
+| bip_39_word_new_line4 | salt
+evidence
+margin
+canvas |  
+| bip_39_word_new_line5 | salt
+evidence
+margin
+canvas
+slender |  
+| bip_39_word_new_line6 | salt
+evidence
+margin
+canvas
+slender
+release |  
+| bip_39_word_new_line7 | salt
+evidence
+margin
+canvas
+slender
+release
+kitten |  
+| bip_39_word_new_line8 | salt
+evidence
+margin
+canvas
+slender
+release
+kitten
+resource |  
+| bip_39_word_new_line9 | salt
+evidence
+margin
+canvas
+slender
+release
+kitten
+resource
+salute |  
+| bip_39_word_space_0 | ['salt', 'evidence', 'margin', 'canvas', 'slender', 'release', 'kitten', 'resource', 'salute', 'sunset', 'jazz', 'add'] |  
+| bip_39_word_space_1 | salt |  
+| bip_39_word_space_10 | salt evidence margin canvas slender release kitten resource salute sunset |  
+| bip_39_word_space_11 | salt evidence margin canvas slender release kitten resource salute sunset jazz |  
+| bip_39_word_space_12 | salt evidence margin canvas slender release kitten resource salute sunset jazz add |  
+| bip_39_word_space_2 | salt evidence |  
+| bip_39_word_space_3 | salt evidence margin |  
+| bip_39_word_space_4 | salt evidence margin canvas |  
+| bip_39_word_space_5 | salt evidence margin canvas slender |  
+| bip_39_word_space_6 | salt evidence margin canvas slender release |  
+| bip_39_word_space_7 | salt evidence margin canvas slender release kitten |  
+| bip_39_word_space_8 | salt evidence margin canvas slender release kitten resource |  
+| bip_39_word_space_9 | salt evidence margin canvas slender release kitten resource salute |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: a
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hurry boil
+  * bip 39 word 3: hurry boil jeans
+  * bip 39 word: hurry boil jeans squeeze high empty blame bind trick finger monitor appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hurry |  
+| bip_39_word_new_br10 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty<br>blame<br>bind<br>trick<br>finger |  
+| bip_39_word_new_br11 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty<br>blame<br>bind<br>trick<br>finger<br>monitor |  
+| bip_39_word_new_br12 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty<br>blame<br>bind<br>trick<br>finger<br>monitor<br>appear |  
+| bip_39_word_new_br2 | hurry<br>boil |  
+| bip_39_word_new_br3 | hurry<br>boil<br>jeans |  
+| bip_39_word_new_br4 | hurry<br>boil<br>jeans<br>squeeze |  
+| bip_39_word_new_br5 | hurry<br>boil<br>jeans<br>squeeze<br>high |  
+| bip_39_word_new_br6 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty |  
+| bip_39_word_new_br7 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty<br>blame |  
+| bip_39_word_new_br8 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty<br>blame<br>bind |  
+| bip_39_word_new_br9 | hurry<br>boil<br>jeans<br>squeeze<br>high<br>empty<br>blame<br>bind<br>trick |  
+| bip_39_word_new_line1 | hurry |  
+| bip_39_word_new_line10 | hurry
+boil
+jeans
+squeeze
+high
+empty
+blame
+bind
+trick
+finger |  
+| bip_39_word_new_line11 | hurry
+boil
+jeans
+squeeze
+high
+empty
+blame
+bind
+trick
+finger
+monitor |  
+| bip_39_word_new_line12 | hurry
+boil
+jeans
+squeeze
+high
+empty
+blame
+bind
+trick
+finger
+monitor
+appear |  
+| bip_39_word_new_line2 | hurry
+boil |  
+| bip_39_word_new_line3 | hurry
+boil
+jeans |  
+| bip_39_word_new_line4 | hurry
+boil
+jeans
+squeeze |  
+| bip_39_word_new_line5 | hurry
+boil
+jeans
+squeeze
+high |  
+| bip_39_word_new_line6 | hurry
+boil
+jeans
+squeeze
+high
+empty |  
+| bip_39_word_new_line7 | hurry
+boil
+jeans
+squeeze
+high
+empty
+blame |  
+| bip_39_word_new_line8 | hurry
+boil
+jeans
+squeeze
+high
+empty
+blame
+bind |  
+| bip_39_word_new_line9 | hurry
+boil
+jeans
+squeeze
+high
+empty
+blame
+bind
+trick |  
+| bip_39_word_space_0 | ['hurry', 'boil', 'jeans', 'squeeze', 'high', 'empty', 'blame', 'bind', 'trick', 'finger', 'monitor', 'appear'] |  
+| bip_39_word_space_1 | hurry |  
+| bip_39_word_space_10 | hurry boil jeans squeeze high empty blame bind trick finger |  
+| bip_39_word_space_11 | hurry boil jeans squeeze high empty blame bind trick finger monitor |  
+| bip_39_word_space_12 | hurry boil jeans squeeze high empty blame bind trick finger monitor appear |  
+| bip_39_word_space_2 | hurry boil |  
+| bip_39_word_space_3 | hurry boil jeans |  
+| bip_39_word_space_4 | hurry boil jeans squeeze |  
+| bip_39_word_space_5 | hurry boil jeans squeeze high |  
+| bip_39_word_space_6 | hurry boil jeans squeeze high empty |  
+| bip_39_word_space_7 | hurry boil jeans squeeze high empty blame |  
+| bip_39_word_space_8 | hurry boil jeans squeeze high empty blame bind |  
+| bip_39_word_space_9 | hurry boil jeans squeeze high empty blame bind trick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

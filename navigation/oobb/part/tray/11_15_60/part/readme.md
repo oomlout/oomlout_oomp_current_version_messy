@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unique muffin
+  * bip 39 word 3: unique muffin boss
+  * bip 39 word: unique muffin boss involve embody giant boss discover arrow harsh setup author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unique |  
+| bip_39_word_new_br10 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh |  
+| bip_39_word_new_br11 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup |  
+| bip_39_word_new_br12 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup<br>author |  
+| bip_39_word_new_br2 | unique<br>muffin |  
+| bip_39_word_new_br3 | unique<br>muffin<br>boss |  
+| bip_39_word_new_br4 | unique<br>muffin<br>boss<br>involve |  
+| bip_39_word_new_br5 | unique<br>muffin<br>boss<br>involve<br>embody |  
+| bip_39_word_new_br6 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant |  
+| bip_39_word_new_br7 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss |  
+| bip_39_word_new_br8 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover |  
+| bip_39_word_new_br9 | unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow |  
+| bip_39_word_new_line1 | unique |  
+| bip_39_word_new_line10 | unique
+muffin
+boss
+involve
+embody
+giant
+boss
+discover
+arrow
+harsh |  
+| bip_39_word_new_line11 | unique
+muffin
+boss
+involve
+embody
+giant
+boss
+discover
+arrow
+harsh
+setup |  
+| bip_39_word_new_line12 | unique
+muffin
+boss
+involve
+embody
+giant
+boss
+discover
+arrow
+harsh
+setup
+author |  
+| bip_39_word_new_line2 | unique
+muffin |  
+| bip_39_word_new_line3 | unique
+muffin
+boss |  
+| bip_39_word_new_line4 | unique
+muffin
+boss
+involve |  
+| bip_39_word_new_line5 | unique
+muffin
+boss
+involve
+embody |  
+| bip_39_word_new_line6 | unique
+muffin
+boss
+involve
+embody
+giant |  
+| bip_39_word_new_line7 | unique
+muffin
+boss
+involve
+embody
+giant
+boss |  
+| bip_39_word_new_line8 | unique
+muffin
+boss
+involve
+embody
+giant
+boss
+discover |  
+| bip_39_word_new_line9 | unique
+muffin
+boss
+involve
+embody
+giant
+boss
+discover
+arrow |  
+| bip_39_word_space_0 | ['unique', 'muffin', 'boss', 'involve', 'embody', 'giant', 'boss', 'discover', 'arrow', 'harsh', 'setup', 'author'] |  
+| bip_39_word_space_1 | unique |  
+| bip_39_word_space_10 | unique muffin boss involve embody giant boss discover arrow harsh |  
+| bip_39_word_space_11 | unique muffin boss involve embody giant boss discover arrow harsh setup |  
+| bip_39_word_space_12 | unique muffin boss involve embody giant boss discover arrow harsh setup author |  
+| bip_39_word_space_2 | unique muffin |  
+| bip_39_word_space_3 | unique muffin boss |  
+| bip_39_word_space_4 | unique muffin boss involve |  
+| bip_39_word_space_5 | unique muffin boss involve embody |  
+| bip_39_word_space_6 | unique muffin boss involve embody giant |  
+| bip_39_word_space_7 | unique muffin boss involve embody giant boss |  
+| bip_39_word_space_8 | unique muffin boss involve embody giant boss discover |  
+| bip_39_word_space_9 | unique muffin boss involve embody giant boss discover arrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

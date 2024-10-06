@@ -1,3 +1,187 @@
+bip_39_word_new_br1: enhance
+bip_39_word_new_br10: enhance<br>bounce<br>cannon<br>predict<br>build<br>magic<br>drip<br>orbit<br>virtual<br>grape
+bip_39_word_new_br11: enhance<br>bounce<br>cannon<br>predict<br>build<br>magic<br>drip<br>orbit<br>virtual<br>grape<br>design
+bip_39_word_new_br12: enhance<br>bounce<br>cannon<br>predict<br>build<br>magic<br>drip<br>orbit<br>virtual<br>grape<br>design<br>attack
+bip_39_word_new_br2: enhance<br>bounce
+bip_39_word_new_br3: enhance<br>bounce<br>cannon
+bip_39_word_new_br4: enhance<br>bounce<br>cannon<br>predict
+bip_39_word_new_br5: enhance<br>bounce<br>cannon<br>predict<br>build
+bip_39_word_new_br6: enhance<br>bounce<br>cannon<br>predict<br>build<br>magic
+bip_39_word_new_br7: enhance<br>bounce<br>cannon<br>predict<br>build<br>magic<br>drip
+bip_39_word_new_br8: enhance<br>bounce<br>cannon<br>predict<br>build<br>magic<br>drip<br>orbit
+bip_39_word_new_br9: enhance<br>bounce<br>cannon<br>predict<br>build<br>magic<br>drip<br>orbit<br>virtual
+bip_39_word_new_line1: enhance
+bip_39_word_new_line10: 'enhance
+
+  bounce
+
+  cannon
+
+  predict
+
+  build
+
+  magic
+
+  drip
+
+  orbit
+
+  virtual
+
+  grape'
+bip_39_word_new_line11: 'enhance
+
+  bounce
+
+  cannon
+
+  predict
+
+  build
+
+  magic
+
+  drip
+
+  orbit
+
+  virtual
+
+  grape
+
+  design'
+bip_39_word_new_line12: 'enhance
+
+  bounce
+
+  cannon
+
+  predict
+
+  build
+
+  magic
+
+  drip
+
+  orbit
+
+  virtual
+
+  grape
+
+  design
+
+  attack'
+bip_39_word_new_line2: 'enhance
+
+  bounce'
+bip_39_word_new_line3: 'enhance
+
+  bounce
+
+  cannon'
+bip_39_word_new_line4: 'enhance
+
+  bounce
+
+  cannon
+
+  predict'
+bip_39_word_new_line5: 'enhance
+
+  bounce
+
+  cannon
+
+  predict
+
+  build'
+bip_39_word_new_line6: 'enhance
+
+  bounce
+
+  cannon
+
+  predict
+
+  build
+
+  magic'
+bip_39_word_new_line7: 'enhance
+
+  bounce
+
+  cannon
+
+  predict
+
+  build
+
+  magic
+
+  drip'
+bip_39_word_new_line8: 'enhance
+
+  bounce
+
+  cannon
+
+  predict
+
+  build
+
+  magic
+
+  drip
+
+  orbit'
+bip_39_word_new_line9: 'enhance
+
+  bounce
+
+  cannon
+
+  predict
+
+  build
+
+  magic
+
+  drip
+
+  orbit
+
+  virtual'
+bip_39_word_space_0:
+- enhance
+- bounce
+- cannon
+- predict
+- build
+- magic
+- drip
+- orbit
+- virtual
+- grape
+- design
+- attack
+bip_39_word_space_1: enhance
+bip_39_word_space_10: enhance bounce cannon predict build magic drip orbit virtual
+  grape
+bip_39_word_space_11: enhance bounce cannon predict build magic drip orbit virtual
+  grape design
+bip_39_word_space_12: enhance bounce cannon predict build magic drip orbit virtual
+  grape design attack
+bip_39_word_space_2: enhance bounce
+bip_39_word_space_3: enhance bounce cannon
+bip_39_word_space_4: enhance bounce cannon predict
+bip_39_word_space_5: enhance bounce cannon predict build
+bip_39_word_space_6: enhance bounce cannon predict build magic
+bip_39_word_space_7: enhance bounce cannon predict build magic drip
+bip_39_word_space_8: enhance bounce cannon predict build magic drip orbit
+bip_39_word_space_9: enhance bounce cannon predict build magic drip orbit virtual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

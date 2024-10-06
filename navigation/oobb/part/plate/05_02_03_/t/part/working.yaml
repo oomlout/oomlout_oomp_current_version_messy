@@ -1,3 +1,187 @@
+bip_39_word_new_br1: dial
+bip_39_word_new_br10: dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle
+bip_39_word_new_br11: dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle<br>science
+bip_39_word_new_br12: dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub<br>castle<br>science<br>army
+bip_39_word_new_br2: dial<br>embark
+bip_39_word_new_br3: dial<br>embark<br>number
+bip_39_word_new_br4: dial<br>embark<br>number<br>alert
+bip_39_word_new_br5: dial<br>embark<br>number<br>alert<br>nation
+bip_39_word_new_br6: dial<br>embark<br>number<br>alert<br>nation<br>winner
+bip_39_word_new_br7: dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village
+bip_39_word_new_br8: dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version
+bip_39_word_new_br9: dial<br>embark<br>number<br>alert<br>nation<br>winner<br>village<br>version<br>scrub
+bip_39_word_new_line1: dial
+bip_39_word_new_line10: 'dial
+
+  embark
+
+  number
+
+  alert
+
+  nation
+
+  winner
+
+  village
+
+  version
+
+  scrub
+
+  castle'
+bip_39_word_new_line11: 'dial
+
+  embark
+
+  number
+
+  alert
+
+  nation
+
+  winner
+
+  village
+
+  version
+
+  scrub
+
+  castle
+
+  science'
+bip_39_word_new_line12: 'dial
+
+  embark
+
+  number
+
+  alert
+
+  nation
+
+  winner
+
+  village
+
+  version
+
+  scrub
+
+  castle
+
+  science
+
+  army'
+bip_39_word_new_line2: 'dial
+
+  embark'
+bip_39_word_new_line3: 'dial
+
+  embark
+
+  number'
+bip_39_word_new_line4: 'dial
+
+  embark
+
+  number
+
+  alert'
+bip_39_word_new_line5: 'dial
+
+  embark
+
+  number
+
+  alert
+
+  nation'
+bip_39_word_new_line6: 'dial
+
+  embark
+
+  number
+
+  alert
+
+  nation
+
+  winner'
+bip_39_word_new_line7: 'dial
+
+  embark
+
+  number
+
+  alert
+
+  nation
+
+  winner
+
+  village'
+bip_39_word_new_line8: 'dial
+
+  embark
+
+  number
+
+  alert
+
+  nation
+
+  winner
+
+  village
+
+  version'
+bip_39_word_new_line9: 'dial
+
+  embark
+
+  number
+
+  alert
+
+  nation
+
+  winner
+
+  village
+
+  version
+
+  scrub'
+bip_39_word_space_0:
+- dial
+- embark
+- number
+- alert
+- nation
+- winner
+- village
+- version
+- scrub
+- castle
+- science
+- army
+bip_39_word_space_1: dial
+bip_39_word_space_10: dial embark number alert nation winner village version scrub
+  castle
+bip_39_word_space_11: dial embark number alert nation winner village version scrub
+  castle science
+bip_39_word_space_12: dial embark number alert nation winner village version scrub
+  castle science army
+bip_39_word_space_2: dial embark
+bip_39_word_space_3: dial embark number
+bip_39_word_space_4: dial embark number alert
+bip_39_word_space_5: dial embark number alert nation
+bip_39_word_space_6: dial embark number alert nation winner
+bip_39_word_space_7: dial embark number alert nation winner village
+bip_39_word_space_8: dial embark number alert nation winner village version
+bip_39_word_space_9: dial embark number alert nation winner village version scrub
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

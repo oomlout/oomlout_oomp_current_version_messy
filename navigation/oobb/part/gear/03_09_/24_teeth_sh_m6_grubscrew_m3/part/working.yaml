@@ -1,3 +1,186 @@
+bip_39_word_new_br1: umbrella
+bip_39_word_new_br10: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt<br>web
+bip_39_word_new_br11: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt<br>web<br>tonight
+bip_39_word_new_br12: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt<br>web<br>tonight<br>august
+bip_39_word_new_br2: umbrella<br>high
+bip_39_word_new_br3: umbrella<br>high<br>alter
+bip_39_word_new_br4: umbrella<br>high<br>alter<br>pulse
+bip_39_word_new_br5: umbrella<br>high<br>alter<br>pulse<br>expire
+bip_39_word_new_br6: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge
+bip_39_word_new_br7: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral
+bip_39_word_new_br8: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever
+bip_39_word_new_br9: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt
+bip_39_word_new_line1: umbrella
+bip_39_word_new_line10: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever
+
+  hurt
+
+  web'
+bip_39_word_new_line11: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever
+
+  hurt
+
+  web
+
+  tonight'
+bip_39_word_new_line12: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever
+
+  hurt
+
+  web
+
+  tonight
+
+  august'
+bip_39_word_new_line2: 'umbrella
+
+  high'
+bip_39_word_new_line3: 'umbrella
+
+  high
+
+  alter'
+bip_39_word_new_line4: 'umbrella
+
+  high
+
+  alter
+
+  pulse'
+bip_39_word_new_line5: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire'
+bip_39_word_new_line6: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge'
+bip_39_word_new_line7: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral'
+bip_39_word_new_line8: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever'
+bip_39_word_new_line9: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever
+
+  hurt'
+bip_39_word_space_0:
+- umbrella
+- high
+- alter
+- pulse
+- expire
+- surge
+- neutral
+- clever
+- hurt
+- web
+- tonight
+- august
+bip_39_word_space_1: umbrella
+bip_39_word_space_10: umbrella high alter pulse expire surge neutral clever hurt web
+bip_39_word_space_11: umbrella high alter pulse expire surge neutral clever hurt web
+  tonight
+bip_39_word_space_12: umbrella high alter pulse expire surge neutral clever hurt web
+  tonight august
+bip_39_word_space_2: umbrella high
+bip_39_word_space_3: umbrella high alter
+bip_39_word_space_4: umbrella high alter pulse
+bip_39_word_space_5: umbrella high alter pulse expire
+bip_39_word_space_6: umbrella high alter pulse expire surge
+bip_39_word_space_7: umbrella high alter pulse expire surge neutral
+bip_39_word_space_8: umbrella high alter pulse expire surge neutral clever
+bip_39_word_space_9: umbrella high alter pulse expire surge neutral clever hurt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

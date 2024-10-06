@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: first brain
+  * bip 39 word 3: first brain appear
+  * bip 39 word: first brain appear cinnamon hard produce drift bless tonight pass enrich achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | first |  
+| bip_39_word_new_br10 | first<br>brain<br>appear<br>cinnamon<br>hard<br>produce<br>drift<br>bless<br>tonight<br>pass |  
+| bip_39_word_new_br11 | first<br>brain<br>appear<br>cinnamon<br>hard<br>produce<br>drift<br>bless<br>tonight<br>pass<br>enrich |  
+| bip_39_word_new_br12 | first<br>brain<br>appear<br>cinnamon<br>hard<br>produce<br>drift<br>bless<br>tonight<br>pass<br>enrich<br>achieve |  
+| bip_39_word_new_br2 | first<br>brain |  
+| bip_39_word_new_br3 | first<br>brain<br>appear |  
+| bip_39_word_new_br4 | first<br>brain<br>appear<br>cinnamon |  
+| bip_39_word_new_br5 | first<br>brain<br>appear<br>cinnamon<br>hard |  
+| bip_39_word_new_br6 | first<br>brain<br>appear<br>cinnamon<br>hard<br>produce |  
+| bip_39_word_new_br7 | first<br>brain<br>appear<br>cinnamon<br>hard<br>produce<br>drift |  
+| bip_39_word_new_br8 | first<br>brain<br>appear<br>cinnamon<br>hard<br>produce<br>drift<br>bless |  
+| bip_39_word_new_br9 | first<br>brain<br>appear<br>cinnamon<br>hard<br>produce<br>drift<br>bless<br>tonight |  
+| bip_39_word_new_line1 | first |  
+| bip_39_word_new_line10 | first
+brain
+appear
+cinnamon
+hard
+produce
+drift
+bless
+tonight
+pass |  
+| bip_39_word_new_line11 | first
+brain
+appear
+cinnamon
+hard
+produce
+drift
+bless
+tonight
+pass
+enrich |  
+| bip_39_word_new_line12 | first
+brain
+appear
+cinnamon
+hard
+produce
+drift
+bless
+tonight
+pass
+enrich
+achieve |  
+| bip_39_word_new_line2 | first
+brain |  
+| bip_39_word_new_line3 | first
+brain
+appear |  
+| bip_39_word_new_line4 | first
+brain
+appear
+cinnamon |  
+| bip_39_word_new_line5 | first
+brain
+appear
+cinnamon
+hard |  
+| bip_39_word_new_line6 | first
+brain
+appear
+cinnamon
+hard
+produce |  
+| bip_39_word_new_line7 | first
+brain
+appear
+cinnamon
+hard
+produce
+drift |  
+| bip_39_word_new_line8 | first
+brain
+appear
+cinnamon
+hard
+produce
+drift
+bless |  
+| bip_39_word_new_line9 | first
+brain
+appear
+cinnamon
+hard
+produce
+drift
+bless
+tonight |  
+| bip_39_word_space_0 | ['first', 'brain', 'appear', 'cinnamon', 'hard', 'produce', 'drift', 'bless', 'tonight', 'pass', 'enrich', 'achieve'] |  
+| bip_39_word_space_1 | first |  
+| bip_39_word_space_10 | first brain appear cinnamon hard produce drift bless tonight pass |  
+| bip_39_word_space_11 | first brain appear cinnamon hard produce drift bless tonight pass enrich |  
+| bip_39_word_space_12 | first brain appear cinnamon hard produce drift bless tonight pass enrich achieve |  
+| bip_39_word_space_2 | first brain |  
+| bip_39_word_space_3 | first brain appear |  
+| bip_39_word_space_4 | first brain appear cinnamon |  
+| bip_39_word_space_5 | first brain appear cinnamon hard |  
+| bip_39_word_space_6 | first brain appear cinnamon hard produce |  
+| bip_39_word_space_7 | first brain appear cinnamon hard produce drift |  
+| bip_39_word_space_8 | first brain appear cinnamon hard produce drift bless |  
+| bip_39_word_space_9 | first brain appear cinnamon hard produce drift bless tonight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

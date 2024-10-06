@@ -1,3 +1,186 @@
+bip_39_word_new_br1: income
+bip_39_word_new_br10: income<br>climb<br>flower<br>pipe<br>melody<br>door<br>mixed<br>harbor<br>nasty<br>mix
+bip_39_word_new_br11: income<br>climb<br>flower<br>pipe<br>melody<br>door<br>mixed<br>harbor<br>nasty<br>mix<br>siren
+bip_39_word_new_br12: income<br>climb<br>flower<br>pipe<br>melody<br>door<br>mixed<br>harbor<br>nasty<br>mix<br>siren<br>advice
+bip_39_word_new_br2: income<br>climb
+bip_39_word_new_br3: income<br>climb<br>flower
+bip_39_word_new_br4: income<br>climb<br>flower<br>pipe
+bip_39_word_new_br5: income<br>climb<br>flower<br>pipe<br>melody
+bip_39_word_new_br6: income<br>climb<br>flower<br>pipe<br>melody<br>door
+bip_39_word_new_br7: income<br>climb<br>flower<br>pipe<br>melody<br>door<br>mixed
+bip_39_word_new_br8: income<br>climb<br>flower<br>pipe<br>melody<br>door<br>mixed<br>harbor
+bip_39_word_new_br9: income<br>climb<br>flower<br>pipe<br>melody<br>door<br>mixed<br>harbor<br>nasty
+bip_39_word_new_line1: income
+bip_39_word_new_line10: 'income
+
+  climb
+
+  flower
+
+  pipe
+
+  melody
+
+  door
+
+  mixed
+
+  harbor
+
+  nasty
+
+  mix'
+bip_39_word_new_line11: 'income
+
+  climb
+
+  flower
+
+  pipe
+
+  melody
+
+  door
+
+  mixed
+
+  harbor
+
+  nasty
+
+  mix
+
+  siren'
+bip_39_word_new_line12: 'income
+
+  climb
+
+  flower
+
+  pipe
+
+  melody
+
+  door
+
+  mixed
+
+  harbor
+
+  nasty
+
+  mix
+
+  siren
+
+  advice'
+bip_39_word_new_line2: 'income
+
+  climb'
+bip_39_word_new_line3: 'income
+
+  climb
+
+  flower'
+bip_39_word_new_line4: 'income
+
+  climb
+
+  flower
+
+  pipe'
+bip_39_word_new_line5: 'income
+
+  climb
+
+  flower
+
+  pipe
+
+  melody'
+bip_39_word_new_line6: 'income
+
+  climb
+
+  flower
+
+  pipe
+
+  melody
+
+  door'
+bip_39_word_new_line7: 'income
+
+  climb
+
+  flower
+
+  pipe
+
+  melody
+
+  door
+
+  mixed'
+bip_39_word_new_line8: 'income
+
+  climb
+
+  flower
+
+  pipe
+
+  melody
+
+  door
+
+  mixed
+
+  harbor'
+bip_39_word_new_line9: 'income
+
+  climb
+
+  flower
+
+  pipe
+
+  melody
+
+  door
+
+  mixed
+
+  harbor
+
+  nasty'
+bip_39_word_space_0:
+- income
+- climb
+- flower
+- pipe
+- melody
+- door
+- mixed
+- harbor
+- nasty
+- mix
+- siren
+- advice
+bip_39_word_space_1: income
+bip_39_word_space_10: income climb flower pipe melody door mixed harbor nasty mix
+bip_39_word_space_11: income climb flower pipe melody door mixed harbor nasty mix
+  siren
+bip_39_word_space_12: income climb flower pipe melody door mixed harbor nasty mix
+  siren advice
+bip_39_word_space_2: income climb
+bip_39_word_space_3: income climb flower
+bip_39_word_space_4: income climb flower pipe
+bip_39_word_space_5: income climb flower pipe melody
+bip_39_word_space_6: income climb flower pipe melody door
+bip_39_word_space_7: income climb flower pipe melody door mixed
+bip_39_word_space_8: income climb flower pipe melody door mixed harbor
+bip_39_word_space_9: income climb flower pipe melody door mixed harbor nasty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

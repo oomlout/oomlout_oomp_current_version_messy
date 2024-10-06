@@ -1,3 +1,186 @@
+bip_39_word_new_br1: theme
+bip_39_word_new_br10: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust
+bip_39_word_new_br11: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust<br>surround
+bip_39_word_new_br12: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral<br>adjust<br>surround<br>actual
+bip_39_word_new_br2: theme<br>hotel
+bip_39_word_new_br3: theme<br>hotel<br>toy
+bip_39_word_new_br4: theme<br>hotel<br>toy<br>suggest
+bip_39_word_new_br5: theme<br>hotel<br>toy<br>suggest<br>culture
+bip_39_word_new_br6: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense
+bip_39_word_new_br7: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid
+bip_39_word_new_br8: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim
+bip_39_word_new_br9: theme<br>hotel<br>toy<br>suggest<br>culture<br>immense<br>bid<br>slim<br>neutral
+bip_39_word_new_line1: theme
+bip_39_word_new_line10: 'theme
+
+  hotel
+
+  toy
+
+  suggest
+
+  culture
+
+  immense
+
+  bid
+
+  slim
+
+  neutral
+
+  adjust'
+bip_39_word_new_line11: 'theme
+
+  hotel
+
+  toy
+
+  suggest
+
+  culture
+
+  immense
+
+  bid
+
+  slim
+
+  neutral
+
+  adjust
+
+  surround'
+bip_39_word_new_line12: 'theme
+
+  hotel
+
+  toy
+
+  suggest
+
+  culture
+
+  immense
+
+  bid
+
+  slim
+
+  neutral
+
+  adjust
+
+  surround
+
+  actual'
+bip_39_word_new_line2: 'theme
+
+  hotel'
+bip_39_word_new_line3: 'theme
+
+  hotel
+
+  toy'
+bip_39_word_new_line4: 'theme
+
+  hotel
+
+  toy
+
+  suggest'
+bip_39_word_new_line5: 'theme
+
+  hotel
+
+  toy
+
+  suggest
+
+  culture'
+bip_39_word_new_line6: 'theme
+
+  hotel
+
+  toy
+
+  suggest
+
+  culture
+
+  immense'
+bip_39_word_new_line7: 'theme
+
+  hotel
+
+  toy
+
+  suggest
+
+  culture
+
+  immense
+
+  bid'
+bip_39_word_new_line8: 'theme
+
+  hotel
+
+  toy
+
+  suggest
+
+  culture
+
+  immense
+
+  bid
+
+  slim'
+bip_39_word_new_line9: 'theme
+
+  hotel
+
+  toy
+
+  suggest
+
+  culture
+
+  immense
+
+  bid
+
+  slim
+
+  neutral'
+bip_39_word_space_0:
+- theme
+- hotel
+- toy
+- suggest
+- culture
+- immense
+- bid
+- slim
+- neutral
+- adjust
+- surround
+- actual
+bip_39_word_space_1: theme
+bip_39_word_space_10: theme hotel toy suggest culture immense bid slim neutral adjust
+bip_39_word_space_11: theme hotel toy suggest culture immense bid slim neutral adjust
+  surround
+bip_39_word_space_12: theme hotel toy suggest culture immense bid slim neutral adjust
+  surround actual
+bip_39_word_space_2: theme hotel
+bip_39_word_space_3: theme hotel toy
+bip_39_word_space_4: theme hotel toy suggest
+bip_39_word_space_5: theme hotel toy suggest culture
+bip_39_word_space_6: theme hotel toy suggest culture immense
+bip_39_word_space_7: theme hotel toy suggest culture immense bid
+bip_39_word_space_8: theme hotel toy suggest culture immense bid slim
+bip_39_word_space_9: theme hotel toy suggest culture immense bid slim neutral
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

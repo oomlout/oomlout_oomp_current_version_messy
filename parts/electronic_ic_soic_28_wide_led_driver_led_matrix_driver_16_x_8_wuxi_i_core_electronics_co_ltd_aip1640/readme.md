@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: wuxi_i_core_electronics_co_ltd
   * part_number: aip1640
+  * bip 39 word 2: hip resource
+  * bip 39 word 3: hip resource sentence
+  * bip 39 word: hip resource sentence hawk gym hair victory online road coil lion abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hip |  
+| bip_39_word_new_br10 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory<br>online<br>road<br>coil |  
+| bip_39_word_new_br11 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory<br>online<br>road<br>coil<br>lion |  
+| bip_39_word_new_br12 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory<br>online<br>road<br>coil<br>lion<br>abstract |  
+| bip_39_word_new_br2 | hip<br>resource |  
+| bip_39_word_new_br3 | hip<br>resource<br>sentence |  
+| bip_39_word_new_br4 | hip<br>resource<br>sentence<br>hawk |  
+| bip_39_word_new_br5 | hip<br>resource<br>sentence<br>hawk<br>gym |  
+| bip_39_word_new_br6 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair |  
+| bip_39_word_new_br7 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory |  
+| bip_39_word_new_br8 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory<br>online |  
+| bip_39_word_new_br9 | hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory<br>online<br>road |  
+| bip_39_word_new_line1 | hip |  
+| bip_39_word_new_line10 | hip
+resource
+sentence
+hawk
+gym
+hair
+victory
+online
+road
+coil |  
+| bip_39_word_new_line11 | hip
+resource
+sentence
+hawk
+gym
+hair
+victory
+online
+road
+coil
+lion |  
+| bip_39_word_new_line12 | hip
+resource
+sentence
+hawk
+gym
+hair
+victory
+online
+road
+coil
+lion
+abstract |  
+| bip_39_word_new_line2 | hip
+resource |  
+| bip_39_word_new_line3 | hip
+resource
+sentence |  
+| bip_39_word_new_line4 | hip
+resource
+sentence
+hawk |  
+| bip_39_word_new_line5 | hip
+resource
+sentence
+hawk
+gym |  
+| bip_39_word_new_line6 | hip
+resource
+sentence
+hawk
+gym
+hair |  
+| bip_39_word_new_line7 | hip
+resource
+sentence
+hawk
+gym
+hair
+victory |  
+| bip_39_word_new_line8 | hip
+resource
+sentence
+hawk
+gym
+hair
+victory
+online |  
+| bip_39_word_new_line9 | hip
+resource
+sentence
+hawk
+gym
+hair
+victory
+online
+road |  
+| bip_39_word_space_0 | ['hip', 'resource', 'sentence', 'hawk', 'gym', 'hair', 'victory', 'online', 'road', 'coil', 'lion', 'abstract'] |  
+| bip_39_word_space_1 | hip |  
+| bip_39_word_space_10 | hip resource sentence hawk gym hair victory online road coil |  
+| bip_39_word_space_11 | hip resource sentence hawk gym hair victory online road coil lion |  
+| bip_39_word_space_12 | hip resource sentence hawk gym hair victory online road coil lion abstract |  
+| bip_39_word_space_2 | hip resource |  
+| bip_39_word_space_3 | hip resource sentence |  
+| bip_39_word_space_4 | hip resource sentence hawk |  
+| bip_39_word_space_5 | hip resource sentence hawk gym |  
+| bip_39_word_space_6 | hip resource sentence hawk gym hair |  
+| bip_39_word_space_7 | hip resource sentence hawk gym hair victory |  
+| bip_39_word_space_8 | hip resource sentence hawk gym hair victory online |  
+| bip_39_word_space_9 | hip resource sentence hawk gym hair victory online road |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

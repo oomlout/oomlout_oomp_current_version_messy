@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: marble shy
+  * bip 39 word 3: marble shy tomato
+  * bip 39 word: marble shy tomato toilet sleep round dress board ensure unique volume appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | marble |  
+| bip_39_word_new_br10 | marble<br>shy<br>tomato<br>toilet<br>sleep<br>round<br>dress<br>board<br>ensure<br>unique |  
+| bip_39_word_new_br11 | marble<br>shy<br>tomato<br>toilet<br>sleep<br>round<br>dress<br>board<br>ensure<br>unique<br>volume |  
+| bip_39_word_new_br12 | marble<br>shy<br>tomato<br>toilet<br>sleep<br>round<br>dress<br>board<br>ensure<br>unique<br>volume<br>appear |  
+| bip_39_word_new_br2 | marble<br>shy |  
+| bip_39_word_new_br3 | marble<br>shy<br>tomato |  
+| bip_39_word_new_br4 | marble<br>shy<br>tomato<br>toilet |  
+| bip_39_word_new_br5 | marble<br>shy<br>tomato<br>toilet<br>sleep |  
+| bip_39_word_new_br6 | marble<br>shy<br>tomato<br>toilet<br>sleep<br>round |  
+| bip_39_word_new_br7 | marble<br>shy<br>tomato<br>toilet<br>sleep<br>round<br>dress |  
+| bip_39_word_new_br8 | marble<br>shy<br>tomato<br>toilet<br>sleep<br>round<br>dress<br>board |  
+| bip_39_word_new_br9 | marble<br>shy<br>tomato<br>toilet<br>sleep<br>round<br>dress<br>board<br>ensure |  
+| bip_39_word_new_line1 | marble |  
+| bip_39_word_new_line10 | marble
+shy
+tomato
+toilet
+sleep
+round
+dress
+board
+ensure
+unique |  
+| bip_39_word_new_line11 | marble
+shy
+tomato
+toilet
+sleep
+round
+dress
+board
+ensure
+unique
+volume |  
+| bip_39_word_new_line12 | marble
+shy
+tomato
+toilet
+sleep
+round
+dress
+board
+ensure
+unique
+volume
+appear |  
+| bip_39_word_new_line2 | marble
+shy |  
+| bip_39_word_new_line3 | marble
+shy
+tomato |  
+| bip_39_word_new_line4 | marble
+shy
+tomato
+toilet |  
+| bip_39_word_new_line5 | marble
+shy
+tomato
+toilet
+sleep |  
+| bip_39_word_new_line6 | marble
+shy
+tomato
+toilet
+sleep
+round |  
+| bip_39_word_new_line7 | marble
+shy
+tomato
+toilet
+sleep
+round
+dress |  
+| bip_39_word_new_line8 | marble
+shy
+tomato
+toilet
+sleep
+round
+dress
+board |  
+| bip_39_word_new_line9 | marble
+shy
+tomato
+toilet
+sleep
+round
+dress
+board
+ensure |  
+| bip_39_word_space_0 | ['marble', 'shy', 'tomato', 'toilet', 'sleep', 'round', 'dress', 'board', 'ensure', 'unique', 'volume', 'appear'] |  
+| bip_39_word_space_1 | marble |  
+| bip_39_word_space_10 | marble shy tomato toilet sleep round dress board ensure unique |  
+| bip_39_word_space_11 | marble shy tomato toilet sleep round dress board ensure unique volume |  
+| bip_39_word_space_12 | marble shy tomato toilet sleep round dress board ensure unique volume appear |  
+| bip_39_word_space_2 | marble shy |  
+| bip_39_word_space_3 | marble shy tomato |  
+| bip_39_word_space_4 | marble shy tomato toilet |  
+| bip_39_word_space_5 | marble shy tomato toilet sleep |  
+| bip_39_word_space_6 | marble shy tomato toilet sleep round |  
+| bip_39_word_space_7 | marble shy tomato toilet sleep round dress |  
+| bip_39_word_space_8 | marble shy tomato toilet sleep round dress board |  
+| bip_39_word_space_9 | marble shy tomato toilet sleep round dress board ensure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

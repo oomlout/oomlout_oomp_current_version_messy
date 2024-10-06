@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: credit nation
+  * bip 39 word 3: credit nation ostrich
+  * bip 39 word: credit nation ostrich hole remind under switch main cupboard oak estate asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | credit |  
+| bip_39_word_new_br10 | credit<br>nation<br>ostrich<br>hole<br>remind<br>under<br>switch<br>main<br>cupboard<br>oak |  
+| bip_39_word_new_br11 | credit<br>nation<br>ostrich<br>hole<br>remind<br>under<br>switch<br>main<br>cupboard<br>oak<br>estate |  
+| bip_39_word_new_br12 | credit<br>nation<br>ostrich<br>hole<br>remind<br>under<br>switch<br>main<br>cupboard<br>oak<br>estate<br>asset |  
+| bip_39_word_new_br2 | credit<br>nation |  
+| bip_39_word_new_br3 | credit<br>nation<br>ostrich |  
+| bip_39_word_new_br4 | credit<br>nation<br>ostrich<br>hole |  
+| bip_39_word_new_br5 | credit<br>nation<br>ostrich<br>hole<br>remind |  
+| bip_39_word_new_br6 | credit<br>nation<br>ostrich<br>hole<br>remind<br>under |  
+| bip_39_word_new_br7 | credit<br>nation<br>ostrich<br>hole<br>remind<br>under<br>switch |  
+| bip_39_word_new_br8 | credit<br>nation<br>ostrich<br>hole<br>remind<br>under<br>switch<br>main |  
+| bip_39_word_new_br9 | credit<br>nation<br>ostrich<br>hole<br>remind<br>under<br>switch<br>main<br>cupboard |  
+| bip_39_word_new_line1 | credit |  
+| bip_39_word_new_line10 | credit
+nation
+ostrich
+hole
+remind
+under
+switch
+main
+cupboard
+oak |  
+| bip_39_word_new_line11 | credit
+nation
+ostrich
+hole
+remind
+under
+switch
+main
+cupboard
+oak
+estate |  
+| bip_39_word_new_line12 | credit
+nation
+ostrich
+hole
+remind
+under
+switch
+main
+cupboard
+oak
+estate
+asset |  
+| bip_39_word_new_line2 | credit
+nation |  
+| bip_39_word_new_line3 | credit
+nation
+ostrich |  
+| bip_39_word_new_line4 | credit
+nation
+ostrich
+hole |  
+| bip_39_word_new_line5 | credit
+nation
+ostrich
+hole
+remind |  
+| bip_39_word_new_line6 | credit
+nation
+ostrich
+hole
+remind
+under |  
+| bip_39_word_new_line7 | credit
+nation
+ostrich
+hole
+remind
+under
+switch |  
+| bip_39_word_new_line8 | credit
+nation
+ostrich
+hole
+remind
+under
+switch
+main |  
+| bip_39_word_new_line9 | credit
+nation
+ostrich
+hole
+remind
+under
+switch
+main
+cupboard |  
+| bip_39_word_space_0 | ['credit', 'nation', 'ostrich', 'hole', 'remind', 'under', 'switch', 'main', 'cupboard', 'oak', 'estate', 'asset'] |  
+| bip_39_word_space_1 | credit |  
+| bip_39_word_space_10 | credit nation ostrich hole remind under switch main cupboard oak |  
+| bip_39_word_space_11 | credit nation ostrich hole remind under switch main cupboard oak estate |  
+| bip_39_word_space_12 | credit nation ostrich hole remind under switch main cupboard oak estate asset |  
+| bip_39_word_space_2 | credit nation |  
+| bip_39_word_space_3 | credit nation ostrich |  
+| bip_39_word_space_4 | credit nation ostrich hole |  
+| bip_39_word_space_5 | credit nation ostrich hole remind |  
+| bip_39_word_space_6 | credit nation ostrich hole remind under |  
+| bip_39_word_space_7 | credit nation ostrich hole remind under switch |  
+| bip_39_word_space_8 | credit nation ostrich hole remind under switch main |  
+| bip_39_word_space_9 | credit nation ostrich hole remind under switch main cupboard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

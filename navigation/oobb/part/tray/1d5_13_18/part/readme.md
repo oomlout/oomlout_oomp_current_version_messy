@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spell manage
+  * bip 39 word 3: spell manage logic
+  * bip 39 word: spell manage logic ivory snap transfer tissue fluid work foil horse air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spell |  
+| bip_39_word_new_br10 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work<br>foil |  
+| bip_39_word_new_br11 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work<br>foil<br>horse |  
+| bip_39_word_new_br12 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work<br>foil<br>horse<br>air |  
+| bip_39_word_new_br2 | spell<br>manage |  
+| bip_39_word_new_br3 | spell<br>manage<br>logic |  
+| bip_39_word_new_br4 | spell<br>manage<br>logic<br>ivory |  
+| bip_39_word_new_br5 | spell<br>manage<br>logic<br>ivory<br>snap |  
+| bip_39_word_new_br6 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer |  
+| bip_39_word_new_br7 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue |  
+| bip_39_word_new_br8 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid |  
+| bip_39_word_new_br9 | spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work |  
+| bip_39_word_new_line1 | spell |  
+| bip_39_word_new_line10 | spell
+manage
+logic
+ivory
+snap
+transfer
+tissue
+fluid
+work
+foil |  
+| bip_39_word_new_line11 | spell
+manage
+logic
+ivory
+snap
+transfer
+tissue
+fluid
+work
+foil
+horse |  
+| bip_39_word_new_line12 | spell
+manage
+logic
+ivory
+snap
+transfer
+tissue
+fluid
+work
+foil
+horse
+air |  
+| bip_39_word_new_line2 | spell
+manage |  
+| bip_39_word_new_line3 | spell
+manage
+logic |  
+| bip_39_word_new_line4 | spell
+manage
+logic
+ivory |  
+| bip_39_word_new_line5 | spell
+manage
+logic
+ivory
+snap |  
+| bip_39_word_new_line6 | spell
+manage
+logic
+ivory
+snap
+transfer |  
+| bip_39_word_new_line7 | spell
+manage
+logic
+ivory
+snap
+transfer
+tissue |  
+| bip_39_word_new_line8 | spell
+manage
+logic
+ivory
+snap
+transfer
+tissue
+fluid |  
+| bip_39_word_new_line9 | spell
+manage
+logic
+ivory
+snap
+transfer
+tissue
+fluid
+work |  
+| bip_39_word_space_0 | ['spell', 'manage', 'logic', 'ivory', 'snap', 'transfer', 'tissue', 'fluid', 'work', 'foil', 'horse', 'air'] |  
+| bip_39_word_space_1 | spell |  
+| bip_39_word_space_10 | spell manage logic ivory snap transfer tissue fluid work foil |  
+| bip_39_word_space_11 | spell manage logic ivory snap transfer tissue fluid work foil horse |  
+| bip_39_word_space_12 | spell manage logic ivory snap transfer tissue fluid work foil horse air |  
+| bip_39_word_space_2 | spell manage |  
+| bip_39_word_space_3 | spell manage logic |  
+| bip_39_word_space_4 | spell manage logic ivory |  
+| bip_39_word_space_5 | spell manage logic ivory snap |  
+| bip_39_word_space_6 | spell manage logic ivory snap transfer |  
+| bip_39_word_space_7 | spell manage logic ivory snap transfer tissue |  
+| bip_39_word_space_8 | spell manage logic ivory snap transfer tissue fluid |  
+| bip_39_word_space_9 | spell manage logic ivory snap transfer tissue fluid work |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: replace tide
+  * bip 39 word 3: replace tide loan
+  * bip 39 word: replace tide loan assist false output song dry raven term shine autumn
 
 ### other_codes
 * short_code: cs2b10p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | replace |  
+| bip_39_word_new_br10 | replace<br>tide<br>loan<br>assist<br>false<br>output<br>song<br>dry<br>raven<br>term |  
+| bip_39_word_new_br11 | replace<br>tide<br>loan<br>assist<br>false<br>output<br>song<br>dry<br>raven<br>term<br>shine |  
+| bip_39_word_new_br12 | replace<br>tide<br>loan<br>assist<br>false<br>output<br>song<br>dry<br>raven<br>term<br>shine<br>autumn |  
+| bip_39_word_new_br2 | replace<br>tide |  
+| bip_39_word_new_br3 | replace<br>tide<br>loan |  
+| bip_39_word_new_br4 | replace<br>tide<br>loan<br>assist |  
+| bip_39_word_new_br5 | replace<br>tide<br>loan<br>assist<br>false |  
+| bip_39_word_new_br6 | replace<br>tide<br>loan<br>assist<br>false<br>output |  
+| bip_39_word_new_br7 | replace<br>tide<br>loan<br>assist<br>false<br>output<br>song |  
+| bip_39_word_new_br8 | replace<br>tide<br>loan<br>assist<br>false<br>output<br>song<br>dry |  
+| bip_39_word_new_br9 | replace<br>tide<br>loan<br>assist<br>false<br>output<br>song<br>dry<br>raven |  
+| bip_39_word_new_line1 | replace |  
+| bip_39_word_new_line10 | replace
+tide
+loan
+assist
+false
+output
+song
+dry
+raven
+term |  
+| bip_39_word_new_line11 | replace
+tide
+loan
+assist
+false
+output
+song
+dry
+raven
+term
+shine |  
+| bip_39_word_new_line12 | replace
+tide
+loan
+assist
+false
+output
+song
+dry
+raven
+term
+shine
+autumn |  
+| bip_39_word_new_line2 | replace
+tide |  
+| bip_39_word_new_line3 | replace
+tide
+loan |  
+| bip_39_word_new_line4 | replace
+tide
+loan
+assist |  
+| bip_39_word_new_line5 | replace
+tide
+loan
+assist
+false |  
+| bip_39_word_new_line6 | replace
+tide
+loan
+assist
+false
+output |  
+| bip_39_word_new_line7 | replace
+tide
+loan
+assist
+false
+output
+song |  
+| bip_39_word_new_line8 | replace
+tide
+loan
+assist
+false
+output
+song
+dry |  
+| bip_39_word_new_line9 | replace
+tide
+loan
+assist
+false
+output
+song
+dry
+raven |  
+| bip_39_word_space_0 | ['replace', 'tide', 'loan', 'assist', 'false', 'output', 'song', 'dry', 'raven', 'term', 'shine', 'autumn'] |  
+| bip_39_word_space_1 | replace |  
+| bip_39_word_space_10 | replace tide loan assist false output song dry raven term |  
+| bip_39_word_space_11 | replace tide loan assist false output song dry raven term shine |  
+| bip_39_word_space_12 | replace tide loan assist false output song dry raven term shine autumn |  
+| bip_39_word_space_2 | replace tide |  
+| bip_39_word_space_3 | replace tide loan |  
+| bip_39_word_space_4 | replace tide loan assist |  
+| bip_39_word_space_5 | replace tide loan assist false |  
+| bip_39_word_space_6 | replace tide loan assist false output |  
+| bip_39_word_space_7 | replace tide loan assist false output song |  
+| bip_39_word_space_8 | replace tide loan assist false output song dry |  
+| bip_39_word_space_9 | replace tide loan assist false output song dry raven |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

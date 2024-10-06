@@ -1,3 +1,187 @@
+bip_39_word_new_br1: nice
+bip_39_word_new_br10: nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble<br>leisure<br>smooth<br>prison<br>better
+bip_39_word_new_br11: nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble<br>leisure<br>smooth<br>prison<br>better<br>cash
+bip_39_word_new_br12: nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble<br>leisure<br>smooth<br>prison<br>better<br>cash<br>airport
+bip_39_word_new_br2: nice<br>dilemma
+bip_39_word_new_br3: nice<br>dilemma<br>drill
+bip_39_word_new_br4: nice<br>dilemma<br>drill<br>pilot
+bip_39_word_new_br5: nice<br>dilemma<br>drill<br>pilot<br>birth
+bip_39_word_new_br6: nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble
+bip_39_word_new_br7: nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble<br>leisure
+bip_39_word_new_br8: nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble<br>leisure<br>smooth
+bip_39_word_new_br9: nice<br>dilemma<br>drill<br>pilot<br>birth<br>humble<br>leisure<br>smooth<br>prison
+bip_39_word_new_line1: nice
+bip_39_word_new_line10: 'nice
+
+  dilemma
+
+  drill
+
+  pilot
+
+  birth
+
+  humble
+
+  leisure
+
+  smooth
+
+  prison
+
+  better'
+bip_39_word_new_line11: 'nice
+
+  dilemma
+
+  drill
+
+  pilot
+
+  birth
+
+  humble
+
+  leisure
+
+  smooth
+
+  prison
+
+  better
+
+  cash'
+bip_39_word_new_line12: 'nice
+
+  dilemma
+
+  drill
+
+  pilot
+
+  birth
+
+  humble
+
+  leisure
+
+  smooth
+
+  prison
+
+  better
+
+  cash
+
+  airport'
+bip_39_word_new_line2: 'nice
+
+  dilemma'
+bip_39_word_new_line3: 'nice
+
+  dilemma
+
+  drill'
+bip_39_word_new_line4: 'nice
+
+  dilemma
+
+  drill
+
+  pilot'
+bip_39_word_new_line5: 'nice
+
+  dilemma
+
+  drill
+
+  pilot
+
+  birth'
+bip_39_word_new_line6: 'nice
+
+  dilemma
+
+  drill
+
+  pilot
+
+  birth
+
+  humble'
+bip_39_word_new_line7: 'nice
+
+  dilemma
+
+  drill
+
+  pilot
+
+  birth
+
+  humble
+
+  leisure'
+bip_39_word_new_line8: 'nice
+
+  dilemma
+
+  drill
+
+  pilot
+
+  birth
+
+  humble
+
+  leisure
+
+  smooth'
+bip_39_word_new_line9: 'nice
+
+  dilemma
+
+  drill
+
+  pilot
+
+  birth
+
+  humble
+
+  leisure
+
+  smooth
+
+  prison'
+bip_39_word_space_0:
+- nice
+- dilemma
+- drill
+- pilot
+- birth
+- humble
+- leisure
+- smooth
+- prison
+- better
+- cash
+- airport
+bip_39_word_space_1: nice
+bip_39_word_space_10: nice dilemma drill pilot birth humble leisure smooth prison
+  better
+bip_39_word_space_11: nice dilemma drill pilot birth humble leisure smooth prison
+  better cash
+bip_39_word_space_12: nice dilemma drill pilot birth humble leisure smooth prison
+  better cash airport
+bip_39_word_space_2: nice dilemma
+bip_39_word_space_3: nice dilemma drill
+bip_39_word_space_4: nice dilemma drill pilot
+bip_39_word_space_5: nice dilemma drill pilot birth
+bip_39_word_space_6: nice dilemma drill pilot birth humble
+bip_39_word_space_7: nice dilemma drill pilot birth humble leisure
+bip_39_word_space_8: nice dilemma drill pilot birth humble leisure smooth
+bip_39_word_space_9: nice dilemma drill pilot birth humble leisure smooth prison
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

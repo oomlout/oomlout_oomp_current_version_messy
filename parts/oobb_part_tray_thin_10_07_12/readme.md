@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: system thumb
+  * bip 39 word 3: system thumb radio
+  * bip 39 word: system thumb radio element broken duck measure auto helmet pole above add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | system |  
+| bip_39_word_new_br10 | system<br>thumb<br>radio<br>element<br>broken<br>duck<br>measure<br>auto<br>helmet<br>pole |  
+| bip_39_word_new_br11 | system<br>thumb<br>radio<br>element<br>broken<br>duck<br>measure<br>auto<br>helmet<br>pole<br>above |  
+| bip_39_word_new_br12 | system<br>thumb<br>radio<br>element<br>broken<br>duck<br>measure<br>auto<br>helmet<br>pole<br>above<br>add |  
+| bip_39_word_new_br2 | system<br>thumb |  
+| bip_39_word_new_br3 | system<br>thumb<br>radio |  
+| bip_39_word_new_br4 | system<br>thumb<br>radio<br>element |  
+| bip_39_word_new_br5 | system<br>thumb<br>radio<br>element<br>broken |  
+| bip_39_word_new_br6 | system<br>thumb<br>radio<br>element<br>broken<br>duck |  
+| bip_39_word_new_br7 | system<br>thumb<br>radio<br>element<br>broken<br>duck<br>measure |  
+| bip_39_word_new_br8 | system<br>thumb<br>radio<br>element<br>broken<br>duck<br>measure<br>auto |  
+| bip_39_word_new_br9 | system<br>thumb<br>radio<br>element<br>broken<br>duck<br>measure<br>auto<br>helmet |  
+| bip_39_word_new_line1 | system |  
+| bip_39_word_new_line10 | system
+thumb
+radio
+element
+broken
+duck
+measure
+auto
+helmet
+pole |  
+| bip_39_word_new_line11 | system
+thumb
+radio
+element
+broken
+duck
+measure
+auto
+helmet
+pole
+above |  
+| bip_39_word_new_line12 | system
+thumb
+radio
+element
+broken
+duck
+measure
+auto
+helmet
+pole
+above
+add |  
+| bip_39_word_new_line2 | system
+thumb |  
+| bip_39_word_new_line3 | system
+thumb
+radio |  
+| bip_39_word_new_line4 | system
+thumb
+radio
+element |  
+| bip_39_word_new_line5 | system
+thumb
+radio
+element
+broken |  
+| bip_39_word_new_line6 | system
+thumb
+radio
+element
+broken
+duck |  
+| bip_39_word_new_line7 | system
+thumb
+radio
+element
+broken
+duck
+measure |  
+| bip_39_word_new_line8 | system
+thumb
+radio
+element
+broken
+duck
+measure
+auto |  
+| bip_39_word_new_line9 | system
+thumb
+radio
+element
+broken
+duck
+measure
+auto
+helmet |  
+| bip_39_word_space_0 | ['system', 'thumb', 'radio', 'element', 'broken', 'duck', 'measure', 'auto', 'helmet', 'pole', 'above', 'add'] |  
+| bip_39_word_space_1 | system |  
+| bip_39_word_space_10 | system thumb radio element broken duck measure auto helmet pole |  
+| bip_39_word_space_11 | system thumb radio element broken duck measure auto helmet pole above |  
+| bip_39_word_space_12 | system thumb radio element broken duck measure auto helmet pole above add |  
+| bip_39_word_space_2 | system thumb |  
+| bip_39_word_space_3 | system thumb radio |  
+| bip_39_word_space_4 | system thumb radio element |  
+| bip_39_word_space_5 | system thumb radio element broken |  
+| bip_39_word_space_6 | system thumb radio element broken duck |  
+| bip_39_word_space_7 | system thumb radio element broken duck measure |  
+| bip_39_word_space_8 | system thumb radio element broken duck measure auto |  
+| bip_39_word_space_9 | system thumb radio element broken duck measure auto helmet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

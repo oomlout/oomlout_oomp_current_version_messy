@@ -1,3 +1,185 @@
+bip_39_word_new_br1: siege
+bip_39_word_new_br10: siege<br>jazz<br>network<br>what<br>about<br>young<br>loop<br>wise<br>strike<br>lend
+bip_39_word_new_br11: siege<br>jazz<br>network<br>what<br>about<br>young<br>loop<br>wise<br>strike<br>lend<br>smooth
+bip_39_word_new_br12: siege<br>jazz<br>network<br>what<br>about<br>young<br>loop<br>wise<br>strike<br>lend<br>smooth<br>afford
+bip_39_word_new_br2: siege<br>jazz
+bip_39_word_new_br3: siege<br>jazz<br>network
+bip_39_word_new_br4: siege<br>jazz<br>network<br>what
+bip_39_word_new_br5: siege<br>jazz<br>network<br>what<br>about
+bip_39_word_new_br6: siege<br>jazz<br>network<br>what<br>about<br>young
+bip_39_word_new_br7: siege<br>jazz<br>network<br>what<br>about<br>young<br>loop
+bip_39_word_new_br8: siege<br>jazz<br>network<br>what<br>about<br>young<br>loop<br>wise
+bip_39_word_new_br9: siege<br>jazz<br>network<br>what<br>about<br>young<br>loop<br>wise<br>strike
+bip_39_word_new_line1: siege
+bip_39_word_new_line10: 'siege
+
+  jazz
+
+  network
+
+  what
+
+  about
+
+  young
+
+  loop
+
+  wise
+
+  strike
+
+  lend'
+bip_39_word_new_line11: 'siege
+
+  jazz
+
+  network
+
+  what
+
+  about
+
+  young
+
+  loop
+
+  wise
+
+  strike
+
+  lend
+
+  smooth'
+bip_39_word_new_line12: 'siege
+
+  jazz
+
+  network
+
+  what
+
+  about
+
+  young
+
+  loop
+
+  wise
+
+  strike
+
+  lend
+
+  smooth
+
+  afford'
+bip_39_word_new_line2: 'siege
+
+  jazz'
+bip_39_word_new_line3: 'siege
+
+  jazz
+
+  network'
+bip_39_word_new_line4: 'siege
+
+  jazz
+
+  network
+
+  what'
+bip_39_word_new_line5: 'siege
+
+  jazz
+
+  network
+
+  what
+
+  about'
+bip_39_word_new_line6: 'siege
+
+  jazz
+
+  network
+
+  what
+
+  about
+
+  young'
+bip_39_word_new_line7: 'siege
+
+  jazz
+
+  network
+
+  what
+
+  about
+
+  young
+
+  loop'
+bip_39_word_new_line8: 'siege
+
+  jazz
+
+  network
+
+  what
+
+  about
+
+  young
+
+  loop
+
+  wise'
+bip_39_word_new_line9: 'siege
+
+  jazz
+
+  network
+
+  what
+
+  about
+
+  young
+
+  loop
+
+  wise
+
+  strike'
+bip_39_word_space_0:
+- siege
+- jazz
+- network
+- what
+- about
+- young
+- loop
+- wise
+- strike
+- lend
+- smooth
+- afford
+bip_39_word_space_1: siege
+bip_39_word_space_10: siege jazz network what about young loop wise strike lend
+bip_39_word_space_11: siege jazz network what about young loop wise strike lend smooth
+bip_39_word_space_12: siege jazz network what about young loop wise strike lend smooth
+  afford
+bip_39_word_space_2: siege jazz
+bip_39_word_space_3: siege jazz network
+bip_39_word_space_4: siege jazz network what
+bip_39_word_space_5: siege jazz network what about
+bip_39_word_space_6: siege jazz network what about young
+bip_39_word_space_7: siege jazz network what about young loop
+bip_39_word_space_8: siege jazz network what about young loop wise
+bip_39_word_space_9: siege jazz network what about young loop wise strike
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

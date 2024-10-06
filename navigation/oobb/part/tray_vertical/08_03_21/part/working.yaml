@@ -1,3 +1,186 @@
+bip_39_word_new_br1: topic
+bip_39_word_new_br10: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo
+bip_39_word_new_br11: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo<br>matter
+bip_39_word_new_br12: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny<br>stereo<br>matter<br>arrive
+bip_39_word_new_br2: topic<br>whip
+bip_39_word_new_br3: topic<br>whip<br>denial
+bip_39_word_new_br4: topic<br>whip<br>denial<br>jeans
+bip_39_word_new_br5: topic<br>whip<br>denial<br>jeans<br>before
+bip_39_word_new_br6: topic<br>whip<br>denial<br>jeans<br>before<br>brain
+bip_39_word_new_br7: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar
+bip_39_word_new_br8: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic
+bip_39_word_new_br9: topic<br>whip<br>denial<br>jeans<br>before<br>brain<br>jar<br>tragic<br>tiny
+bip_39_word_new_line1: topic
+bip_39_word_new_line10: 'topic
+
+  whip
+
+  denial
+
+  jeans
+
+  before
+
+  brain
+
+  jar
+
+  tragic
+
+  tiny
+
+  stereo'
+bip_39_word_new_line11: 'topic
+
+  whip
+
+  denial
+
+  jeans
+
+  before
+
+  brain
+
+  jar
+
+  tragic
+
+  tiny
+
+  stereo
+
+  matter'
+bip_39_word_new_line12: 'topic
+
+  whip
+
+  denial
+
+  jeans
+
+  before
+
+  brain
+
+  jar
+
+  tragic
+
+  tiny
+
+  stereo
+
+  matter
+
+  arrive'
+bip_39_word_new_line2: 'topic
+
+  whip'
+bip_39_word_new_line3: 'topic
+
+  whip
+
+  denial'
+bip_39_word_new_line4: 'topic
+
+  whip
+
+  denial
+
+  jeans'
+bip_39_word_new_line5: 'topic
+
+  whip
+
+  denial
+
+  jeans
+
+  before'
+bip_39_word_new_line6: 'topic
+
+  whip
+
+  denial
+
+  jeans
+
+  before
+
+  brain'
+bip_39_word_new_line7: 'topic
+
+  whip
+
+  denial
+
+  jeans
+
+  before
+
+  brain
+
+  jar'
+bip_39_word_new_line8: 'topic
+
+  whip
+
+  denial
+
+  jeans
+
+  before
+
+  brain
+
+  jar
+
+  tragic'
+bip_39_word_new_line9: 'topic
+
+  whip
+
+  denial
+
+  jeans
+
+  before
+
+  brain
+
+  jar
+
+  tragic
+
+  tiny'
+bip_39_word_space_0:
+- topic
+- whip
+- denial
+- jeans
+- before
+- brain
+- jar
+- tragic
+- tiny
+- stereo
+- matter
+- arrive
+bip_39_word_space_1: topic
+bip_39_word_space_10: topic whip denial jeans before brain jar tragic tiny stereo
+bip_39_word_space_11: topic whip denial jeans before brain jar tragic tiny stereo
+  matter
+bip_39_word_space_12: topic whip denial jeans before brain jar tragic tiny stereo
+  matter arrive
+bip_39_word_space_2: topic whip
+bip_39_word_space_3: topic whip denial
+bip_39_word_space_4: topic whip denial jeans
+bip_39_word_space_5: topic whip denial jeans before
+bip_39_word_space_6: topic whip denial jeans before brain
+bip_39_word_space_7: topic whip denial jeans before brain jar
+bip_39_word_space_8: topic whip denial jeans before brain jar tragic
+bip_39_word_space_9: topic whip denial jeans before brain jar tragic tiny
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

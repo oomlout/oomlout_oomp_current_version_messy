@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: l
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: apart submit
+  * bip 39 word 3: apart submit cat
+  * bip 39 word: apart submit cat snake reveal excuse keep village clog absorb idle achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | apart |  
+| bip_39_word_new_br10 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse<br>keep<br>village<br>clog<br>absorb |  
+| bip_39_word_new_br11 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse<br>keep<br>village<br>clog<br>absorb<br>idle |  
+| bip_39_word_new_br12 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse<br>keep<br>village<br>clog<br>absorb<br>idle<br>achieve |  
+| bip_39_word_new_br2 | apart<br>submit |  
+| bip_39_word_new_br3 | apart<br>submit<br>cat |  
+| bip_39_word_new_br4 | apart<br>submit<br>cat<br>snake |  
+| bip_39_word_new_br5 | apart<br>submit<br>cat<br>snake<br>reveal |  
+| bip_39_word_new_br6 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse |  
+| bip_39_word_new_br7 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse<br>keep |  
+| bip_39_word_new_br8 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse<br>keep<br>village |  
+| bip_39_word_new_br9 | apart<br>submit<br>cat<br>snake<br>reveal<br>excuse<br>keep<br>village<br>clog |  
+| bip_39_word_new_line1 | apart |  
+| bip_39_word_new_line10 | apart
+submit
+cat
+snake
+reveal
+excuse
+keep
+village
+clog
+absorb |  
+| bip_39_word_new_line11 | apart
+submit
+cat
+snake
+reveal
+excuse
+keep
+village
+clog
+absorb
+idle |  
+| bip_39_word_new_line12 | apart
+submit
+cat
+snake
+reveal
+excuse
+keep
+village
+clog
+absorb
+idle
+achieve |  
+| bip_39_word_new_line2 | apart
+submit |  
+| bip_39_word_new_line3 | apart
+submit
+cat |  
+| bip_39_word_new_line4 | apart
+submit
+cat
+snake |  
+| bip_39_word_new_line5 | apart
+submit
+cat
+snake
+reveal |  
+| bip_39_word_new_line6 | apart
+submit
+cat
+snake
+reveal
+excuse |  
+| bip_39_word_new_line7 | apart
+submit
+cat
+snake
+reveal
+excuse
+keep |  
+| bip_39_word_new_line8 | apart
+submit
+cat
+snake
+reveal
+excuse
+keep
+village |  
+| bip_39_word_new_line9 | apart
+submit
+cat
+snake
+reveal
+excuse
+keep
+village
+clog |  
+| bip_39_word_space_0 | ['apart', 'submit', 'cat', 'snake', 'reveal', 'excuse', 'keep', 'village', 'clog', 'absorb', 'idle', 'achieve'] |  
+| bip_39_word_space_1 | apart |  
+| bip_39_word_space_10 | apart submit cat snake reveal excuse keep village clog absorb |  
+| bip_39_word_space_11 | apart submit cat snake reveal excuse keep village clog absorb idle |  
+| bip_39_word_space_12 | apart submit cat snake reveal excuse keep village clog absorb idle achieve |  
+| bip_39_word_space_2 | apart submit |  
+| bip_39_word_space_3 | apart submit cat |  
+| bip_39_word_space_4 | apart submit cat snake |  
+| bip_39_word_space_5 | apart submit cat snake reveal |  
+| bip_39_word_space_6 | apart submit cat snake reveal excuse |  
+| bip_39_word_space_7 | apart submit cat snake reveal excuse keep |  
+| bip_39_word_space_8 | apart submit cat snake reveal excuse keep village |  
+| bip_39_word_space_9 | apart submit cat snake reveal excuse keep village clog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

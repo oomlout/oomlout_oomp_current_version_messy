@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: carbon next
+  * bip 39 word 3: carbon next false
+  * bip 39 word: carbon next false insane attitude bacon ready hunt tent wonder dolphin absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | carbon |  
+| bip_39_word_new_br10 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder |  
+| bip_39_word_new_br11 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder<br>dolphin |  
+| bip_39_word_new_br12 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent<br>wonder<br>dolphin<br>absorb |  
+| bip_39_word_new_br2 | carbon<br>next |  
+| bip_39_word_new_br3 | carbon<br>next<br>false |  
+| bip_39_word_new_br4 | carbon<br>next<br>false<br>insane |  
+| bip_39_word_new_br5 | carbon<br>next<br>false<br>insane<br>attitude |  
+| bip_39_word_new_br6 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon |  
+| bip_39_word_new_br7 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready |  
+| bip_39_word_new_br8 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt |  
+| bip_39_word_new_br9 | carbon<br>next<br>false<br>insane<br>attitude<br>bacon<br>ready<br>hunt<br>tent |  
+| bip_39_word_new_line1 | carbon |  
+| bip_39_word_new_line10 | carbon
+next
+false
+insane
+attitude
+bacon
+ready
+hunt
+tent
+wonder |  
+| bip_39_word_new_line11 | carbon
+next
+false
+insane
+attitude
+bacon
+ready
+hunt
+tent
+wonder
+dolphin |  
+| bip_39_word_new_line12 | carbon
+next
+false
+insane
+attitude
+bacon
+ready
+hunt
+tent
+wonder
+dolphin
+absorb |  
+| bip_39_word_new_line2 | carbon
+next |  
+| bip_39_word_new_line3 | carbon
+next
+false |  
+| bip_39_word_new_line4 | carbon
+next
+false
+insane |  
+| bip_39_word_new_line5 | carbon
+next
+false
+insane
+attitude |  
+| bip_39_word_new_line6 | carbon
+next
+false
+insane
+attitude
+bacon |  
+| bip_39_word_new_line7 | carbon
+next
+false
+insane
+attitude
+bacon
+ready |  
+| bip_39_word_new_line8 | carbon
+next
+false
+insane
+attitude
+bacon
+ready
+hunt |  
+| bip_39_word_new_line9 | carbon
+next
+false
+insane
+attitude
+bacon
+ready
+hunt
+tent |  
+| bip_39_word_space_0 | ['carbon', 'next', 'false', 'insane', 'attitude', 'bacon', 'ready', 'hunt', 'tent', 'wonder', 'dolphin', 'absorb'] |  
+| bip_39_word_space_1 | carbon |  
+| bip_39_word_space_10 | carbon next false insane attitude bacon ready hunt tent wonder |  
+| bip_39_word_space_11 | carbon next false insane attitude bacon ready hunt tent wonder dolphin |  
+| bip_39_word_space_12 | carbon next false insane attitude bacon ready hunt tent wonder dolphin absorb |  
+| bip_39_word_space_2 | carbon next |  
+| bip_39_word_space_3 | carbon next false |  
+| bip_39_word_space_4 | carbon next false insane |  
+| bip_39_word_space_5 | carbon next false insane attitude |  
+| bip_39_word_space_6 | carbon next false insane attitude bacon |  
+| bip_39_word_space_7 | carbon next false insane attitude bacon ready |  
+| bip_39_word_space_8 | carbon next false insane attitude bacon ready hunt |  
+| bip_39_word_space_9 | carbon next false insane attitude bacon ready hunt tent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

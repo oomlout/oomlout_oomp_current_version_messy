@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stay flock
+  * bip 39 word 3: stay flock gold
+  * bip 39 word: stay flock gold dove carbon state nation coyote life remove advice absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stay |  
+| bip_39_word_new_br10 | stay<br>flock<br>gold<br>dove<br>carbon<br>state<br>nation<br>coyote<br>life<br>remove |  
+| bip_39_word_new_br11 | stay<br>flock<br>gold<br>dove<br>carbon<br>state<br>nation<br>coyote<br>life<br>remove<br>advice |  
+| bip_39_word_new_br12 | stay<br>flock<br>gold<br>dove<br>carbon<br>state<br>nation<br>coyote<br>life<br>remove<br>advice<br>absorb |  
+| bip_39_word_new_br2 | stay<br>flock |  
+| bip_39_word_new_br3 | stay<br>flock<br>gold |  
+| bip_39_word_new_br4 | stay<br>flock<br>gold<br>dove |  
+| bip_39_word_new_br5 | stay<br>flock<br>gold<br>dove<br>carbon |  
+| bip_39_word_new_br6 | stay<br>flock<br>gold<br>dove<br>carbon<br>state |  
+| bip_39_word_new_br7 | stay<br>flock<br>gold<br>dove<br>carbon<br>state<br>nation |  
+| bip_39_word_new_br8 | stay<br>flock<br>gold<br>dove<br>carbon<br>state<br>nation<br>coyote |  
+| bip_39_word_new_br9 | stay<br>flock<br>gold<br>dove<br>carbon<br>state<br>nation<br>coyote<br>life |  
+| bip_39_word_new_line1 | stay |  
+| bip_39_word_new_line10 | stay
+flock
+gold
+dove
+carbon
+state
+nation
+coyote
+life
+remove |  
+| bip_39_word_new_line11 | stay
+flock
+gold
+dove
+carbon
+state
+nation
+coyote
+life
+remove
+advice |  
+| bip_39_word_new_line12 | stay
+flock
+gold
+dove
+carbon
+state
+nation
+coyote
+life
+remove
+advice
+absorb |  
+| bip_39_word_new_line2 | stay
+flock |  
+| bip_39_word_new_line3 | stay
+flock
+gold |  
+| bip_39_word_new_line4 | stay
+flock
+gold
+dove |  
+| bip_39_word_new_line5 | stay
+flock
+gold
+dove
+carbon |  
+| bip_39_word_new_line6 | stay
+flock
+gold
+dove
+carbon
+state |  
+| bip_39_word_new_line7 | stay
+flock
+gold
+dove
+carbon
+state
+nation |  
+| bip_39_word_new_line8 | stay
+flock
+gold
+dove
+carbon
+state
+nation
+coyote |  
+| bip_39_word_new_line9 | stay
+flock
+gold
+dove
+carbon
+state
+nation
+coyote
+life |  
+| bip_39_word_space_0 | ['stay', 'flock', 'gold', 'dove', 'carbon', 'state', 'nation', 'coyote', 'life', 'remove', 'advice', 'absorb'] |  
+| bip_39_word_space_1 | stay |  
+| bip_39_word_space_10 | stay flock gold dove carbon state nation coyote life remove |  
+| bip_39_word_space_11 | stay flock gold dove carbon state nation coyote life remove advice |  
+| bip_39_word_space_12 | stay flock gold dove carbon state nation coyote life remove advice absorb |  
+| bip_39_word_space_2 | stay flock |  
+| bip_39_word_space_3 | stay flock gold |  
+| bip_39_word_space_4 | stay flock gold dove |  
+| bip_39_word_space_5 | stay flock gold dove carbon |  
+| bip_39_word_space_6 | stay flock gold dove carbon state |  
+| bip_39_word_space_7 | stay flock gold dove carbon state nation |  
+| bip_39_word_space_8 | stay flock gold dove carbon state nation coyote |  
+| bip_39_word_space_9 | stay flock gold dove carbon state nation coyote life |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

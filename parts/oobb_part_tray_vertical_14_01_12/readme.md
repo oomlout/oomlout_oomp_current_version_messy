@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: forest almost
+  * bip 39 word 3: forest almost debate
+  * bip 39 word: forest almost debate october burden hat dinosaur notable canyon bracket inquiry author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | forest |  
+| bip_39_word_new_br10 | forest<br>almost<br>debate<br>october<br>burden<br>hat<br>dinosaur<br>notable<br>canyon<br>bracket |  
+| bip_39_word_new_br11 | forest<br>almost<br>debate<br>october<br>burden<br>hat<br>dinosaur<br>notable<br>canyon<br>bracket<br>inquiry |  
+| bip_39_word_new_br12 | forest<br>almost<br>debate<br>october<br>burden<br>hat<br>dinosaur<br>notable<br>canyon<br>bracket<br>inquiry<br>author |  
+| bip_39_word_new_br2 | forest<br>almost |  
+| bip_39_word_new_br3 | forest<br>almost<br>debate |  
+| bip_39_word_new_br4 | forest<br>almost<br>debate<br>october |  
+| bip_39_word_new_br5 | forest<br>almost<br>debate<br>october<br>burden |  
+| bip_39_word_new_br6 | forest<br>almost<br>debate<br>october<br>burden<br>hat |  
+| bip_39_word_new_br7 | forest<br>almost<br>debate<br>october<br>burden<br>hat<br>dinosaur |  
+| bip_39_word_new_br8 | forest<br>almost<br>debate<br>october<br>burden<br>hat<br>dinosaur<br>notable |  
+| bip_39_word_new_br9 | forest<br>almost<br>debate<br>october<br>burden<br>hat<br>dinosaur<br>notable<br>canyon |  
+| bip_39_word_new_line1 | forest |  
+| bip_39_word_new_line10 | forest
+almost
+debate
+october
+burden
+hat
+dinosaur
+notable
+canyon
+bracket |  
+| bip_39_word_new_line11 | forest
+almost
+debate
+october
+burden
+hat
+dinosaur
+notable
+canyon
+bracket
+inquiry |  
+| bip_39_word_new_line12 | forest
+almost
+debate
+october
+burden
+hat
+dinosaur
+notable
+canyon
+bracket
+inquiry
+author |  
+| bip_39_word_new_line2 | forest
+almost |  
+| bip_39_word_new_line3 | forest
+almost
+debate |  
+| bip_39_word_new_line4 | forest
+almost
+debate
+october |  
+| bip_39_word_new_line5 | forest
+almost
+debate
+october
+burden |  
+| bip_39_word_new_line6 | forest
+almost
+debate
+october
+burden
+hat |  
+| bip_39_word_new_line7 | forest
+almost
+debate
+october
+burden
+hat
+dinosaur |  
+| bip_39_word_new_line8 | forest
+almost
+debate
+october
+burden
+hat
+dinosaur
+notable |  
+| bip_39_word_new_line9 | forest
+almost
+debate
+october
+burden
+hat
+dinosaur
+notable
+canyon |  
+| bip_39_word_space_0 | ['forest', 'almost', 'debate', 'october', 'burden', 'hat', 'dinosaur', 'notable', 'canyon', 'bracket', 'inquiry', 'author'] |  
+| bip_39_word_space_1 | forest |  
+| bip_39_word_space_10 | forest almost debate october burden hat dinosaur notable canyon bracket |  
+| bip_39_word_space_11 | forest almost debate october burden hat dinosaur notable canyon bracket inquiry |  
+| bip_39_word_space_12 | forest almost debate october burden hat dinosaur notable canyon bracket inquiry author |  
+| bip_39_word_space_2 | forest almost |  
+| bip_39_word_space_3 | forest almost debate |  
+| bip_39_word_space_4 | forest almost debate october |  
+| bip_39_word_space_5 | forest almost debate october burden |  
+| bip_39_word_space_6 | forest almost debate october burden hat |  
+| bip_39_word_space_7 | forest almost debate october burden hat dinosaur |  
+| bip_39_word_space_8 | forest almost debate october burden hat dinosaur notable |  
+| bip_39_word_space_9 | forest almost debate october burden hat dinosaur notable canyon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

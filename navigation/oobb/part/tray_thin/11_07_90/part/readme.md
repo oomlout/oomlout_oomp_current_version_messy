@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: will foot
+  * bip 39 word 3: will foot begin
+  * bip 39 word: will foot begin nasty prison despair mandate stamp bless region crazy ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | will |  
+| bip_39_word_new_br10 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region |  
+| bip_39_word_new_br11 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region<br>crazy |  
+| bip_39_word_new_br12 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region<br>crazy<br>ask |  
+| bip_39_word_new_br2 | will<br>foot |  
+| bip_39_word_new_br3 | will<br>foot<br>begin |  
+| bip_39_word_new_br4 | will<br>foot<br>begin<br>nasty |  
+| bip_39_word_new_br5 | will<br>foot<br>begin<br>nasty<br>prison |  
+| bip_39_word_new_br6 | will<br>foot<br>begin<br>nasty<br>prison<br>despair |  
+| bip_39_word_new_br7 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate |  
+| bip_39_word_new_br8 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp |  
+| bip_39_word_new_br9 | will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless |  
+| bip_39_word_new_line1 | will |  
+| bip_39_word_new_line10 | will
+foot
+begin
+nasty
+prison
+despair
+mandate
+stamp
+bless
+region |  
+| bip_39_word_new_line11 | will
+foot
+begin
+nasty
+prison
+despair
+mandate
+stamp
+bless
+region
+crazy |  
+| bip_39_word_new_line12 | will
+foot
+begin
+nasty
+prison
+despair
+mandate
+stamp
+bless
+region
+crazy
+ask |  
+| bip_39_word_new_line2 | will
+foot |  
+| bip_39_word_new_line3 | will
+foot
+begin |  
+| bip_39_word_new_line4 | will
+foot
+begin
+nasty |  
+| bip_39_word_new_line5 | will
+foot
+begin
+nasty
+prison |  
+| bip_39_word_new_line6 | will
+foot
+begin
+nasty
+prison
+despair |  
+| bip_39_word_new_line7 | will
+foot
+begin
+nasty
+prison
+despair
+mandate |  
+| bip_39_word_new_line8 | will
+foot
+begin
+nasty
+prison
+despair
+mandate
+stamp |  
+| bip_39_word_new_line9 | will
+foot
+begin
+nasty
+prison
+despair
+mandate
+stamp
+bless |  
+| bip_39_word_space_0 | ['will', 'foot', 'begin', 'nasty', 'prison', 'despair', 'mandate', 'stamp', 'bless', 'region', 'crazy', 'ask'] |  
+| bip_39_word_space_1 | will |  
+| bip_39_word_space_10 | will foot begin nasty prison despair mandate stamp bless region |  
+| bip_39_word_space_11 | will foot begin nasty prison despair mandate stamp bless region crazy |  
+| bip_39_word_space_12 | will foot begin nasty prison despair mandate stamp bless region crazy ask |  
+| bip_39_word_space_2 | will foot |  
+| bip_39_word_space_3 | will foot begin |  
+| bip_39_word_space_4 | will foot begin nasty |  
+| bip_39_word_space_5 | will foot begin nasty prison |  
+| bip_39_word_space_6 | will foot begin nasty prison despair |  
+| bip_39_word_space_7 | will foot begin nasty prison despair mandate |  
+| bip_39_word_space_8 | will foot begin nasty prison despair mandate stamp |  
+| bip_39_word_space_9 | will foot begin nasty prison despair mandate stamp bless |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

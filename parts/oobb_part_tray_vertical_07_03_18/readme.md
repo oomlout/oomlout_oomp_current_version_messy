@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: insect zone
+  * bip 39 word 3: insect zone churn
+  * bip 39 word: insect zone churn diagram model cradle hunt margin syrup bomb govern alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | insect |  
+| bip_39_word_new_br10 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle<br>hunt<br>margin<br>syrup<br>bomb |  
+| bip_39_word_new_br11 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle<br>hunt<br>margin<br>syrup<br>bomb<br>govern |  
+| bip_39_word_new_br12 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle<br>hunt<br>margin<br>syrup<br>bomb<br>govern<br>alpha |  
+| bip_39_word_new_br2 | insect<br>zone |  
+| bip_39_word_new_br3 | insect<br>zone<br>churn |  
+| bip_39_word_new_br4 | insect<br>zone<br>churn<br>diagram |  
+| bip_39_word_new_br5 | insect<br>zone<br>churn<br>diagram<br>model |  
+| bip_39_word_new_br6 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle |  
+| bip_39_word_new_br7 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle<br>hunt |  
+| bip_39_word_new_br8 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle<br>hunt<br>margin |  
+| bip_39_word_new_br9 | insect<br>zone<br>churn<br>diagram<br>model<br>cradle<br>hunt<br>margin<br>syrup |  
+| bip_39_word_new_line1 | insect |  
+| bip_39_word_new_line10 | insect
+zone
+churn
+diagram
+model
+cradle
+hunt
+margin
+syrup
+bomb |  
+| bip_39_word_new_line11 | insect
+zone
+churn
+diagram
+model
+cradle
+hunt
+margin
+syrup
+bomb
+govern |  
+| bip_39_word_new_line12 | insect
+zone
+churn
+diagram
+model
+cradle
+hunt
+margin
+syrup
+bomb
+govern
+alpha |  
+| bip_39_word_new_line2 | insect
+zone |  
+| bip_39_word_new_line3 | insect
+zone
+churn |  
+| bip_39_word_new_line4 | insect
+zone
+churn
+diagram |  
+| bip_39_word_new_line5 | insect
+zone
+churn
+diagram
+model |  
+| bip_39_word_new_line6 | insect
+zone
+churn
+diagram
+model
+cradle |  
+| bip_39_word_new_line7 | insect
+zone
+churn
+diagram
+model
+cradle
+hunt |  
+| bip_39_word_new_line8 | insect
+zone
+churn
+diagram
+model
+cradle
+hunt
+margin |  
+| bip_39_word_new_line9 | insect
+zone
+churn
+diagram
+model
+cradle
+hunt
+margin
+syrup |  
+| bip_39_word_space_0 | ['insect', 'zone', 'churn', 'diagram', 'model', 'cradle', 'hunt', 'margin', 'syrup', 'bomb', 'govern', 'alpha'] |  
+| bip_39_word_space_1 | insect |  
+| bip_39_word_space_10 | insect zone churn diagram model cradle hunt margin syrup bomb |  
+| bip_39_word_space_11 | insect zone churn diagram model cradle hunt margin syrup bomb govern |  
+| bip_39_word_space_12 | insect zone churn diagram model cradle hunt margin syrup bomb govern alpha |  
+| bip_39_word_space_2 | insect zone |  
+| bip_39_word_space_3 | insect zone churn |  
+| bip_39_word_space_4 | insect zone churn diagram |  
+| bip_39_word_space_5 | insect zone churn diagram model |  
+| bip_39_word_space_6 | insect zone churn diagram model cradle |  
+| bip_39_word_space_7 | insect zone churn diagram model cradle hunt |  
+| bip_39_word_space_8 | insect zone churn diagram model cradle hunt margin |  
+| bip_39_word_space_9 | insect zone churn diagram model cradle hunt margin syrup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

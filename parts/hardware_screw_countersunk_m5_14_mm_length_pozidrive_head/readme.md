@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: surface large
+  * bip 39 word 3: surface large unable
+  * bip 39 word: surface large unable subject capital person lunar praise toss horror hat amateur
 
 ### other_codes
 * short_code: cs5m14pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | surface |  
+| bip_39_word_new_br10 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror |  
+| bip_39_word_new_br11 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror<br>hat |  
+| bip_39_word_new_br12 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss<br>horror<br>hat<br>amateur |  
+| bip_39_word_new_br2 | surface<br>large |  
+| bip_39_word_new_br3 | surface<br>large<br>unable |  
+| bip_39_word_new_br4 | surface<br>large<br>unable<br>subject |  
+| bip_39_word_new_br5 | surface<br>large<br>unable<br>subject<br>capital |  
+| bip_39_word_new_br6 | surface<br>large<br>unable<br>subject<br>capital<br>person |  
+| bip_39_word_new_br7 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar |  
+| bip_39_word_new_br8 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise |  
+| bip_39_word_new_br9 | surface<br>large<br>unable<br>subject<br>capital<br>person<br>lunar<br>praise<br>toss |  
+| bip_39_word_new_line1 | surface |  
+| bip_39_word_new_line10 | surface
+large
+unable
+subject
+capital
+person
+lunar
+praise
+toss
+horror |  
+| bip_39_word_new_line11 | surface
+large
+unable
+subject
+capital
+person
+lunar
+praise
+toss
+horror
+hat |  
+| bip_39_word_new_line12 | surface
+large
+unable
+subject
+capital
+person
+lunar
+praise
+toss
+horror
+hat
+amateur |  
+| bip_39_word_new_line2 | surface
+large |  
+| bip_39_word_new_line3 | surface
+large
+unable |  
+| bip_39_word_new_line4 | surface
+large
+unable
+subject |  
+| bip_39_word_new_line5 | surface
+large
+unable
+subject
+capital |  
+| bip_39_word_new_line6 | surface
+large
+unable
+subject
+capital
+person |  
+| bip_39_word_new_line7 | surface
+large
+unable
+subject
+capital
+person
+lunar |  
+| bip_39_word_new_line8 | surface
+large
+unable
+subject
+capital
+person
+lunar
+praise |  
+| bip_39_word_new_line9 | surface
+large
+unable
+subject
+capital
+person
+lunar
+praise
+toss |  
+| bip_39_word_space_0 | ['surface', 'large', 'unable', 'subject', 'capital', 'person', 'lunar', 'praise', 'toss', 'horror', 'hat', 'amateur'] |  
+| bip_39_word_space_1 | surface |  
+| bip_39_word_space_10 | surface large unable subject capital person lunar praise toss horror |  
+| bip_39_word_space_11 | surface large unable subject capital person lunar praise toss horror hat |  
+| bip_39_word_space_12 | surface large unable subject capital person lunar praise toss horror hat amateur |  
+| bip_39_word_space_2 | surface large |  
+| bip_39_word_space_3 | surface large unable |  
+| bip_39_word_space_4 | surface large unable subject |  
+| bip_39_word_space_5 | surface large unable subject capital |  
+| bip_39_word_space_6 | surface large unable subject capital person |  
+| bip_39_word_space_7 | surface large unable subject capital person lunar |  
+| bip_39_word_space_8 | surface large unable subject capital person lunar praise |  
+| bip_39_word_space_9 | surface large unable subject capital person lunar praise toss |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: accuse
+bip_39_word_new_br10: accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull
+bip_39_word_new_br11: accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull<br>average
+bip_39_word_new_br12: accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad<br>pull<br>average<br>argue
+bip_39_word_new_br2: accuse<br>pride
+bip_39_word_new_br3: accuse<br>pride<br>jacket
+bip_39_word_new_br4: accuse<br>pride<br>jacket<br>cable
+bip_39_word_new_br5: accuse<br>pride<br>jacket<br>cable<br>umbrella
+bip_39_word_new_br6: accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble
+bip_39_word_new_br7: accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired
+bip_39_word_new_br8: accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car
+bip_39_word_new_br9: accuse<br>pride<br>jacket<br>cable<br>umbrella<br>marble<br>tired<br>car<br>sad
+bip_39_word_new_line1: accuse
+bip_39_word_new_line10: 'accuse
+
+  pride
+
+  jacket
+
+  cable
+
+  umbrella
+
+  marble
+
+  tired
+
+  car
+
+  sad
+
+  pull'
+bip_39_word_new_line11: 'accuse
+
+  pride
+
+  jacket
+
+  cable
+
+  umbrella
+
+  marble
+
+  tired
+
+  car
+
+  sad
+
+  pull
+
+  average'
+bip_39_word_new_line12: 'accuse
+
+  pride
+
+  jacket
+
+  cable
+
+  umbrella
+
+  marble
+
+  tired
+
+  car
+
+  sad
+
+  pull
+
+  average
+
+  argue'
+bip_39_word_new_line2: 'accuse
+
+  pride'
+bip_39_word_new_line3: 'accuse
+
+  pride
+
+  jacket'
+bip_39_word_new_line4: 'accuse
+
+  pride
+
+  jacket
+
+  cable'
+bip_39_word_new_line5: 'accuse
+
+  pride
+
+  jacket
+
+  cable
+
+  umbrella'
+bip_39_word_new_line6: 'accuse
+
+  pride
+
+  jacket
+
+  cable
+
+  umbrella
+
+  marble'
+bip_39_word_new_line7: 'accuse
+
+  pride
+
+  jacket
+
+  cable
+
+  umbrella
+
+  marble
+
+  tired'
+bip_39_word_new_line8: 'accuse
+
+  pride
+
+  jacket
+
+  cable
+
+  umbrella
+
+  marble
+
+  tired
+
+  car'
+bip_39_word_new_line9: 'accuse
+
+  pride
+
+  jacket
+
+  cable
+
+  umbrella
+
+  marble
+
+  tired
+
+  car
+
+  sad'
+bip_39_word_space_0:
+- accuse
+- pride
+- jacket
+- cable
+- umbrella
+- marble
+- tired
+- car
+- sad
+- pull
+- average
+- argue
+bip_39_word_space_1: accuse
+bip_39_word_space_10: accuse pride jacket cable umbrella marble tired car sad pull
+bip_39_word_space_11: accuse pride jacket cable umbrella marble tired car sad pull
+  average
+bip_39_word_space_12: accuse pride jacket cable umbrella marble tired car sad pull
+  average argue
+bip_39_word_space_2: accuse pride
+bip_39_word_space_3: accuse pride jacket
+bip_39_word_space_4: accuse pride jacket cable
+bip_39_word_space_5: accuse pride jacket cable umbrella
+bip_39_word_space_6: accuse pride jacket cable umbrella marble
+bip_39_word_space_7: accuse pride jacket cable umbrella marble tired
+bip_39_word_space_8: accuse pride jacket cable umbrella marble tired car
+bip_39_word_space_9: accuse pride jacket cable umbrella marble tired car sad
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

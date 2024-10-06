@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tiny coconut
+  * bip 39 word 3: tiny coconut delay
+  * bip 39 word: tiny coconut delay void double talk now own state floor split admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tiny |  
+| bip_39_word_new_br10 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor |  
+| bip_39_word_new_br11 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor<br>split |  
+| bip_39_word_new_br12 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state<br>floor<br>split<br>admit |  
+| bip_39_word_new_br2 | tiny<br>coconut |  
+| bip_39_word_new_br3 | tiny<br>coconut<br>delay |  
+| bip_39_word_new_br4 | tiny<br>coconut<br>delay<br>void |  
+| bip_39_word_new_br5 | tiny<br>coconut<br>delay<br>void<br>double |  
+| bip_39_word_new_br6 | tiny<br>coconut<br>delay<br>void<br>double<br>talk |  
+| bip_39_word_new_br7 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now |  
+| bip_39_word_new_br8 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own |  
+| bip_39_word_new_br9 | tiny<br>coconut<br>delay<br>void<br>double<br>talk<br>now<br>own<br>state |  
+| bip_39_word_new_line1 | tiny |  
+| bip_39_word_new_line10 | tiny
+coconut
+delay
+void
+double
+talk
+now
+own
+state
+floor |  
+| bip_39_word_new_line11 | tiny
+coconut
+delay
+void
+double
+talk
+now
+own
+state
+floor
+split |  
+| bip_39_word_new_line12 | tiny
+coconut
+delay
+void
+double
+talk
+now
+own
+state
+floor
+split
+admit |  
+| bip_39_word_new_line2 | tiny
+coconut |  
+| bip_39_word_new_line3 | tiny
+coconut
+delay |  
+| bip_39_word_new_line4 | tiny
+coconut
+delay
+void |  
+| bip_39_word_new_line5 | tiny
+coconut
+delay
+void
+double |  
+| bip_39_word_new_line6 | tiny
+coconut
+delay
+void
+double
+talk |  
+| bip_39_word_new_line7 | tiny
+coconut
+delay
+void
+double
+talk
+now |  
+| bip_39_word_new_line8 | tiny
+coconut
+delay
+void
+double
+talk
+now
+own |  
+| bip_39_word_new_line9 | tiny
+coconut
+delay
+void
+double
+talk
+now
+own
+state |  
+| bip_39_word_space_0 | ['tiny', 'coconut', 'delay', 'void', 'double', 'talk', 'now', 'own', 'state', 'floor', 'split', 'admit'] |  
+| bip_39_word_space_1 | tiny |  
+| bip_39_word_space_10 | tiny coconut delay void double talk now own state floor |  
+| bip_39_word_space_11 | tiny coconut delay void double talk now own state floor split |  
+| bip_39_word_space_12 | tiny coconut delay void double talk now own state floor split admit |  
+| bip_39_word_space_2 | tiny coconut |  
+| bip_39_word_space_3 | tiny coconut delay |  
+| bip_39_word_space_4 | tiny coconut delay void |  
+| bip_39_word_space_5 | tiny coconut delay void double |  
+| bip_39_word_space_6 | tiny coconut delay void double talk |  
+| bip_39_word_space_7 | tiny coconut delay void double talk now |  
+| bip_39_word_space_8 | tiny coconut delay void double talk now own |  
+| bip_39_word_space_9 | tiny coconut delay void double talk now own state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

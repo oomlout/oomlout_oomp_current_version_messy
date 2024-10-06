@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blame novel
+  * bip 39 word 3: blame novel space
+  * bip 39 word: blame novel space dinner awake access hedgehog cute verb dizzy assume across
 
 ### other_codes
 * short_code: ss3m12
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blame |  
+| bip_39_word_new_br10 | blame<br>novel<br>space<br>dinner<br>awake<br>access<br>hedgehog<br>cute<br>verb<br>dizzy |  
+| bip_39_word_new_br11 | blame<br>novel<br>space<br>dinner<br>awake<br>access<br>hedgehog<br>cute<br>verb<br>dizzy<br>assume |  
+| bip_39_word_new_br12 | blame<br>novel<br>space<br>dinner<br>awake<br>access<br>hedgehog<br>cute<br>verb<br>dizzy<br>assume<br>across |  
+| bip_39_word_new_br2 | blame<br>novel |  
+| bip_39_word_new_br3 | blame<br>novel<br>space |  
+| bip_39_word_new_br4 | blame<br>novel<br>space<br>dinner |  
+| bip_39_word_new_br5 | blame<br>novel<br>space<br>dinner<br>awake |  
+| bip_39_word_new_br6 | blame<br>novel<br>space<br>dinner<br>awake<br>access |  
+| bip_39_word_new_br7 | blame<br>novel<br>space<br>dinner<br>awake<br>access<br>hedgehog |  
+| bip_39_word_new_br8 | blame<br>novel<br>space<br>dinner<br>awake<br>access<br>hedgehog<br>cute |  
+| bip_39_word_new_br9 | blame<br>novel<br>space<br>dinner<br>awake<br>access<br>hedgehog<br>cute<br>verb |  
+| bip_39_word_new_line1 | blame |  
+| bip_39_word_new_line10 | blame
+novel
+space
+dinner
+awake
+access
+hedgehog
+cute
+verb
+dizzy |  
+| bip_39_word_new_line11 | blame
+novel
+space
+dinner
+awake
+access
+hedgehog
+cute
+verb
+dizzy
+assume |  
+| bip_39_word_new_line12 | blame
+novel
+space
+dinner
+awake
+access
+hedgehog
+cute
+verb
+dizzy
+assume
+across |  
+| bip_39_word_new_line2 | blame
+novel |  
+| bip_39_word_new_line3 | blame
+novel
+space |  
+| bip_39_word_new_line4 | blame
+novel
+space
+dinner |  
+| bip_39_word_new_line5 | blame
+novel
+space
+dinner
+awake |  
+| bip_39_word_new_line6 | blame
+novel
+space
+dinner
+awake
+access |  
+| bip_39_word_new_line7 | blame
+novel
+space
+dinner
+awake
+access
+hedgehog |  
+| bip_39_word_new_line8 | blame
+novel
+space
+dinner
+awake
+access
+hedgehog
+cute |  
+| bip_39_word_new_line9 | blame
+novel
+space
+dinner
+awake
+access
+hedgehog
+cute
+verb |  
+| bip_39_word_space_0 | ['blame', 'novel', 'space', 'dinner', 'awake', 'access', 'hedgehog', 'cute', 'verb', 'dizzy', 'assume', 'across'] |  
+| bip_39_word_space_1 | blame |  
+| bip_39_word_space_10 | blame novel space dinner awake access hedgehog cute verb dizzy |  
+| bip_39_word_space_11 | blame novel space dinner awake access hedgehog cute verb dizzy assume |  
+| bip_39_word_space_12 | blame novel space dinner awake access hedgehog cute verb dizzy assume across |  
+| bip_39_word_space_2 | blame novel |  
+| bip_39_word_space_3 | blame novel space |  
+| bip_39_word_space_4 | blame novel space dinner |  
+| bip_39_word_space_5 | blame novel space dinner awake |  
+| bip_39_word_space_6 | blame novel space dinner awake access |  
+| bip_39_word_space_7 | blame novel space dinner awake access hedgehog |  
+| bip_39_word_space_8 | blame novel space dinner awake access hedgehog cute |  
+| bip_39_word_space_9 | blame novel space dinner awake access hedgehog cute verb |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

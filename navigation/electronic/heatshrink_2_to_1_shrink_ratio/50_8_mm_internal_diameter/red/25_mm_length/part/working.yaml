@@ -1,3 +1,188 @@
+bip_39_word_new_br1: lucky
+bip_39_word_new_br10: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather
+bip_39_word_new_br11: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather<br>morning
+bip_39_word_new_br12: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless<br>gather<br>morning<br>alone
+bip_39_word_new_br2: lucky<br>ecology
+bip_39_word_new_br3: lucky<br>ecology<br>genius
+bip_39_word_new_br4: lucky<br>ecology<br>genius<br>favorite
+bip_39_word_new_br5: lucky<br>ecology<br>genius<br>favorite<br>oppose
+bip_39_word_new_br6: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve
+bip_39_word_new_br7: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface
+bip_39_word_new_br8: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate
+bip_39_word_new_br9: lucky<br>ecology<br>genius<br>favorite<br>oppose<br>involve<br>surface<br>situate<br>useless
+bip_39_word_new_line1: lucky
+bip_39_word_new_line10: 'lucky
+
+  ecology
+
+  genius
+
+  favorite
+
+  oppose
+
+  involve
+
+  surface
+
+  situate
+
+  useless
+
+  gather'
+bip_39_word_new_line11: 'lucky
+
+  ecology
+
+  genius
+
+  favorite
+
+  oppose
+
+  involve
+
+  surface
+
+  situate
+
+  useless
+
+  gather
+
+  morning'
+bip_39_word_new_line12: 'lucky
+
+  ecology
+
+  genius
+
+  favorite
+
+  oppose
+
+  involve
+
+  surface
+
+  situate
+
+  useless
+
+  gather
+
+  morning
+
+  alone'
+bip_39_word_new_line2: 'lucky
+
+  ecology'
+bip_39_word_new_line3: 'lucky
+
+  ecology
+
+  genius'
+bip_39_word_new_line4: 'lucky
+
+  ecology
+
+  genius
+
+  favorite'
+bip_39_word_new_line5: 'lucky
+
+  ecology
+
+  genius
+
+  favorite
+
+  oppose'
+bip_39_word_new_line6: 'lucky
+
+  ecology
+
+  genius
+
+  favorite
+
+  oppose
+
+  involve'
+bip_39_word_new_line7: 'lucky
+
+  ecology
+
+  genius
+
+  favorite
+
+  oppose
+
+  involve
+
+  surface'
+bip_39_word_new_line8: 'lucky
+
+  ecology
+
+  genius
+
+  favorite
+
+  oppose
+
+  involve
+
+  surface
+
+  situate'
+bip_39_word_new_line9: 'lucky
+
+  ecology
+
+  genius
+
+  favorite
+
+  oppose
+
+  involve
+
+  surface
+
+  situate
+
+  useless'
+bip_39_word_space_0:
+- lucky
+- ecology
+- genius
+- favorite
+- oppose
+- involve
+- surface
+- situate
+- useless
+- gather
+- morning
+- alone
+bip_39_word_space_1: lucky
+bip_39_word_space_10: lucky ecology genius favorite oppose involve surface situate
+  useless gather
+bip_39_word_space_11: lucky ecology genius favorite oppose involve surface situate
+  useless gather morning
+bip_39_word_space_12: lucky ecology genius favorite oppose involve surface situate
+  useless gather morning alone
+bip_39_word_space_2: lucky ecology
+bip_39_word_space_3: lucky ecology genius
+bip_39_word_space_4: lucky ecology genius favorite
+bip_39_word_space_5: lucky ecology genius favorite oppose
+bip_39_word_space_6: lucky ecology genius favorite oppose involve
+bip_39_word_space_7: lucky ecology genius favorite oppose involve surface
+bip_39_word_space_8: lucky ecology genius favorite oppose involve surface situate
+bip_39_word_space_9: lucky ecology genius favorite oppose involve surface situate
+  useless
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

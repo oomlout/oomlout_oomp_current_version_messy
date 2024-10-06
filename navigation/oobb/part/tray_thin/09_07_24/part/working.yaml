@@ -1,3 +1,187 @@
+bip_39_word_new_br1: escape
+bip_39_word_new_br10: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer<br>jar<br>resemble<br>blanket<br>old
+bip_39_word_new_br11: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer<br>jar<br>resemble<br>blanket<br>old<br>cousin
+bip_39_word_new_br12: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer<br>jar<br>resemble<br>blanket<br>old<br>cousin<br>assume
+bip_39_word_new_br2: escape<br>enroll
+bip_39_word_new_br3: escape<br>enroll<br>resemble
+bip_39_word_new_br4: escape<br>enroll<br>resemble<br>sight
+bip_39_word_new_br5: escape<br>enroll<br>resemble<br>sight<br>nephew
+bip_39_word_new_br6: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer
+bip_39_word_new_br7: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer<br>jar
+bip_39_word_new_br8: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer<br>jar<br>resemble
+bip_39_word_new_br9: escape<br>enroll<br>resemble<br>sight<br>nephew<br>answer<br>jar<br>resemble<br>blanket
+bip_39_word_new_line1: escape
+bip_39_word_new_line10: 'escape
+
+  enroll
+
+  resemble
+
+  sight
+
+  nephew
+
+  answer
+
+  jar
+
+  resemble
+
+  blanket
+
+  old'
+bip_39_word_new_line11: 'escape
+
+  enroll
+
+  resemble
+
+  sight
+
+  nephew
+
+  answer
+
+  jar
+
+  resemble
+
+  blanket
+
+  old
+
+  cousin'
+bip_39_word_new_line12: 'escape
+
+  enroll
+
+  resemble
+
+  sight
+
+  nephew
+
+  answer
+
+  jar
+
+  resemble
+
+  blanket
+
+  old
+
+  cousin
+
+  assume'
+bip_39_word_new_line2: 'escape
+
+  enroll'
+bip_39_word_new_line3: 'escape
+
+  enroll
+
+  resemble'
+bip_39_word_new_line4: 'escape
+
+  enroll
+
+  resemble
+
+  sight'
+bip_39_word_new_line5: 'escape
+
+  enroll
+
+  resemble
+
+  sight
+
+  nephew'
+bip_39_word_new_line6: 'escape
+
+  enroll
+
+  resemble
+
+  sight
+
+  nephew
+
+  answer'
+bip_39_word_new_line7: 'escape
+
+  enroll
+
+  resemble
+
+  sight
+
+  nephew
+
+  answer
+
+  jar'
+bip_39_word_new_line8: 'escape
+
+  enroll
+
+  resemble
+
+  sight
+
+  nephew
+
+  answer
+
+  jar
+
+  resemble'
+bip_39_word_new_line9: 'escape
+
+  enroll
+
+  resemble
+
+  sight
+
+  nephew
+
+  answer
+
+  jar
+
+  resemble
+
+  blanket'
+bip_39_word_space_0:
+- escape
+- enroll
+- resemble
+- sight
+- nephew
+- answer
+- jar
+- resemble
+- blanket
+- old
+- cousin
+- assume
+bip_39_word_space_1: escape
+bip_39_word_space_10: escape enroll resemble sight nephew answer jar resemble blanket
+  old
+bip_39_word_space_11: escape enroll resemble sight nephew answer jar resemble blanket
+  old cousin
+bip_39_word_space_12: escape enroll resemble sight nephew answer jar resemble blanket
+  old cousin assume
+bip_39_word_space_2: escape enroll
+bip_39_word_space_3: escape enroll resemble
+bip_39_word_space_4: escape enroll resemble sight
+bip_39_word_space_5: escape enroll resemble sight nephew
+bip_39_word_space_6: escape enroll resemble sight nephew answer
+bip_39_word_space_7: escape enroll resemble sight nephew answer jar
+bip_39_word_space_8: escape enroll resemble sight nephew answer jar resemble
+bip_39_word_space_9: escape enroll resemble sight nephew answer jar resemble blanket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

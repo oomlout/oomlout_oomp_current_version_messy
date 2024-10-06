@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: claim asset
+  * bip 39 word 3: claim asset panel
+  * bip 39 word: claim asset panel kitchen love march sick trust leader sister explain assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | claim |  
+| bip_39_word_new_br10 | claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader<br>sister |  
+| bip_39_word_new_br11 | claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader<br>sister<br>explain |  
+| bip_39_word_new_br12 | claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader<br>sister<br>explain<br>assist |  
+| bip_39_word_new_br2 | claim<br>asset |  
+| bip_39_word_new_br3 | claim<br>asset<br>panel |  
+| bip_39_word_new_br4 | claim<br>asset<br>panel<br>kitchen |  
+| bip_39_word_new_br5 | claim<br>asset<br>panel<br>kitchen<br>love |  
+| bip_39_word_new_br6 | claim<br>asset<br>panel<br>kitchen<br>love<br>march |  
+| bip_39_word_new_br7 | claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick |  
+| bip_39_word_new_br8 | claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust |  
+| bip_39_word_new_br9 | claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader |  
+| bip_39_word_new_line1 | claim |  
+| bip_39_word_new_line10 | claim
+asset
+panel
+kitchen
+love
+march
+sick
+trust
+leader
+sister |  
+| bip_39_word_new_line11 | claim
+asset
+panel
+kitchen
+love
+march
+sick
+trust
+leader
+sister
+explain |  
+| bip_39_word_new_line12 | claim
+asset
+panel
+kitchen
+love
+march
+sick
+trust
+leader
+sister
+explain
+assist |  
+| bip_39_word_new_line2 | claim
+asset |  
+| bip_39_word_new_line3 | claim
+asset
+panel |  
+| bip_39_word_new_line4 | claim
+asset
+panel
+kitchen |  
+| bip_39_word_new_line5 | claim
+asset
+panel
+kitchen
+love |  
+| bip_39_word_new_line6 | claim
+asset
+panel
+kitchen
+love
+march |  
+| bip_39_word_new_line7 | claim
+asset
+panel
+kitchen
+love
+march
+sick |  
+| bip_39_word_new_line8 | claim
+asset
+panel
+kitchen
+love
+march
+sick
+trust |  
+| bip_39_word_new_line9 | claim
+asset
+panel
+kitchen
+love
+march
+sick
+trust
+leader |  
+| bip_39_word_space_0 | ['claim', 'asset', 'panel', 'kitchen', 'love', 'march', 'sick', 'trust', 'leader', 'sister', 'explain', 'assist'] |  
+| bip_39_word_space_1 | claim |  
+| bip_39_word_space_10 | claim asset panel kitchen love march sick trust leader sister |  
+| bip_39_word_space_11 | claim asset panel kitchen love march sick trust leader sister explain |  
+| bip_39_word_space_12 | claim asset panel kitchen love march sick trust leader sister explain assist |  
+| bip_39_word_space_2 | claim asset |  
+| bip_39_word_space_3 | claim asset panel |  
+| bip_39_word_space_4 | claim asset panel kitchen |  
+| bip_39_word_space_5 | claim asset panel kitchen love |  
+| bip_39_word_space_6 | claim asset panel kitchen love march |  
+| bip_39_word_space_7 | claim asset panel kitchen love march sick |  
+| bip_39_word_space_8 | claim asset panel kitchen love march sick trust |  
+| bip_39_word_space_9 | claim asset panel kitchen love march sick trust leader |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

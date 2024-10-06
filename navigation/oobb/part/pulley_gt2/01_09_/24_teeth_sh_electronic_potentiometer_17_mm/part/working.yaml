@@ -1,3 +1,187 @@
+bip_39_word_new_br1: maximum
+bip_39_word_new_br10: maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory
+bip_39_word_new_br11: maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory<br>fire
+bip_39_word_new_br12: maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm<br>theory<br>fire<br>asset
+bip_39_word_new_br2: maximum<br>cricket
+bip_39_word_new_br3: maximum<br>cricket<br>impulse
+bip_39_word_new_br4: maximum<br>cricket<br>impulse<br>trade
+bip_39_word_new_br5: maximum<br>cricket<br>impulse<br>trade<br>casino
+bip_39_word_new_br6: maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch
+bip_39_word_new_br7: maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo
+bip_39_word_new_br8: maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left
+bip_39_word_new_br9: maximum<br>cricket<br>impulse<br>trade<br>casino<br>patch<br>buffalo<br>left<br>calm
+bip_39_word_new_line1: maximum
+bip_39_word_new_line10: 'maximum
+
+  cricket
+
+  impulse
+
+  trade
+
+  casino
+
+  patch
+
+  buffalo
+
+  left
+
+  calm
+
+  theory'
+bip_39_word_new_line11: 'maximum
+
+  cricket
+
+  impulse
+
+  trade
+
+  casino
+
+  patch
+
+  buffalo
+
+  left
+
+  calm
+
+  theory
+
+  fire'
+bip_39_word_new_line12: 'maximum
+
+  cricket
+
+  impulse
+
+  trade
+
+  casino
+
+  patch
+
+  buffalo
+
+  left
+
+  calm
+
+  theory
+
+  fire
+
+  asset'
+bip_39_word_new_line2: 'maximum
+
+  cricket'
+bip_39_word_new_line3: 'maximum
+
+  cricket
+
+  impulse'
+bip_39_word_new_line4: 'maximum
+
+  cricket
+
+  impulse
+
+  trade'
+bip_39_word_new_line5: 'maximum
+
+  cricket
+
+  impulse
+
+  trade
+
+  casino'
+bip_39_word_new_line6: 'maximum
+
+  cricket
+
+  impulse
+
+  trade
+
+  casino
+
+  patch'
+bip_39_word_new_line7: 'maximum
+
+  cricket
+
+  impulse
+
+  trade
+
+  casino
+
+  patch
+
+  buffalo'
+bip_39_word_new_line8: 'maximum
+
+  cricket
+
+  impulse
+
+  trade
+
+  casino
+
+  patch
+
+  buffalo
+
+  left'
+bip_39_word_new_line9: 'maximum
+
+  cricket
+
+  impulse
+
+  trade
+
+  casino
+
+  patch
+
+  buffalo
+
+  left
+
+  calm'
+bip_39_word_space_0:
+- maximum
+- cricket
+- impulse
+- trade
+- casino
+- patch
+- buffalo
+- left
+- calm
+- theory
+- fire
+- asset
+bip_39_word_space_1: maximum
+bip_39_word_space_10: maximum cricket impulse trade casino patch buffalo left calm
+  theory
+bip_39_word_space_11: maximum cricket impulse trade casino patch buffalo left calm
+  theory fire
+bip_39_word_space_12: maximum cricket impulse trade casino patch buffalo left calm
+  theory fire asset
+bip_39_word_space_2: maximum cricket
+bip_39_word_space_3: maximum cricket impulse
+bip_39_word_space_4: maximum cricket impulse trade
+bip_39_word_space_5: maximum cricket impulse trade casino
+bip_39_word_space_6: maximum cricket impulse trade casino patch
+bip_39_word_space_7: maximum cricket impulse trade casino patch buffalo
+bip_39_word_space_8: maximum cricket impulse trade casino patch buffalo left
+bip_39_word_space_9: maximum cricket impulse trade casino patch buffalo left calm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ordinary
+bip_39_word_new_br10: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter<br>lake<br>tuition<br>frequent<br>spray
+bip_39_word_new_br11: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter<br>lake<br>tuition<br>frequent<br>spray<br>smooth
+bip_39_word_new_br12: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter<br>lake<br>tuition<br>frequent<br>spray<br>smooth<br>arrange
+bip_39_word_new_br2: ordinary<br>type
+bip_39_word_new_br3: ordinary<br>type<br>sell
+bip_39_word_new_br4: ordinary<br>type<br>sell<br>tortoise
+bip_39_word_new_br5: ordinary<br>type<br>sell<br>tortoise<br>cat
+bip_39_word_new_br6: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter
+bip_39_word_new_br7: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter<br>lake
+bip_39_word_new_br8: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter<br>lake<br>tuition
+bip_39_word_new_br9: ordinary<br>type<br>sell<br>tortoise<br>cat<br>daughter<br>lake<br>tuition<br>frequent
+bip_39_word_new_line1: ordinary
+bip_39_word_new_line10: 'ordinary
+
+  type
+
+  sell
+
+  tortoise
+
+  cat
+
+  daughter
+
+  lake
+
+  tuition
+
+  frequent
+
+  spray'
+bip_39_word_new_line11: 'ordinary
+
+  type
+
+  sell
+
+  tortoise
+
+  cat
+
+  daughter
+
+  lake
+
+  tuition
+
+  frequent
+
+  spray
+
+  smooth'
+bip_39_word_new_line12: 'ordinary
+
+  type
+
+  sell
+
+  tortoise
+
+  cat
+
+  daughter
+
+  lake
+
+  tuition
+
+  frequent
+
+  spray
+
+  smooth
+
+  arrange'
+bip_39_word_new_line2: 'ordinary
+
+  type'
+bip_39_word_new_line3: 'ordinary
+
+  type
+
+  sell'
+bip_39_word_new_line4: 'ordinary
+
+  type
+
+  sell
+
+  tortoise'
+bip_39_word_new_line5: 'ordinary
+
+  type
+
+  sell
+
+  tortoise
+
+  cat'
+bip_39_word_new_line6: 'ordinary
+
+  type
+
+  sell
+
+  tortoise
+
+  cat
+
+  daughter'
+bip_39_word_new_line7: 'ordinary
+
+  type
+
+  sell
+
+  tortoise
+
+  cat
+
+  daughter
+
+  lake'
+bip_39_word_new_line8: 'ordinary
+
+  type
+
+  sell
+
+  tortoise
+
+  cat
+
+  daughter
+
+  lake
+
+  tuition'
+bip_39_word_new_line9: 'ordinary
+
+  type
+
+  sell
+
+  tortoise
+
+  cat
+
+  daughter
+
+  lake
+
+  tuition
+
+  frequent'
+bip_39_word_space_0:
+- ordinary
+- type
+- sell
+- tortoise
+- cat
+- daughter
+- lake
+- tuition
+- frequent
+- spray
+- smooth
+- arrange
+bip_39_word_space_1: ordinary
+bip_39_word_space_10: ordinary type sell tortoise cat daughter lake tuition frequent
+  spray
+bip_39_word_space_11: ordinary type sell tortoise cat daughter lake tuition frequent
+  spray smooth
+bip_39_word_space_12: ordinary type sell tortoise cat daughter lake tuition frequent
+  spray smooth arrange
+bip_39_word_space_2: ordinary type
+bip_39_word_space_3: ordinary type sell
+bip_39_word_space_4: ordinary type sell tortoise
+bip_39_word_space_5: ordinary type sell tortoise cat
+bip_39_word_space_6: ordinary type sell tortoise cat daughter
+bip_39_word_space_7: ordinary type sell tortoise cat daughter lake
+bip_39_word_space_8: ordinary type sell tortoise cat daughter lake tuition
+bip_39_word_space_9: ordinary type sell tortoise cat daughter lake tuition frequent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

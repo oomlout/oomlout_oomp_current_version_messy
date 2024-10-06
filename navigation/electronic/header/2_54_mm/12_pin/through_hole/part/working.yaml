@@ -1,3 +1,186 @@
+bip_39_word_new_br1: twenty
+bip_39_word_new_br10: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren
+bip_39_word_new_br11: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please
+bip_39_word_new_br12: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please<br>assume
+bip_39_word_new_br2: twenty<br>trim
+bip_39_word_new_br3: twenty<br>trim<br>turtle
+bip_39_word_new_br4: twenty<br>trim<br>turtle<br>spoon
+bip_39_word_new_br5: twenty<br>trim<br>turtle<br>spoon<br>stock
+bip_39_word_new_br6: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil
+bip_39_word_new_br7: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short
+bip_39_word_new_br8: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry
+bip_39_word_new_br9: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity
+bip_39_word_new_line1: twenty
+bip_39_word_new_line10: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry
+
+  dignity
+
+  siren'
+bip_39_word_new_line11: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry
+
+  dignity
+
+  siren
+
+  please'
+bip_39_word_new_line12: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry
+
+  dignity
+
+  siren
+
+  please
+
+  assume'
+bip_39_word_new_line2: 'twenty
+
+  trim'
+bip_39_word_new_line3: 'twenty
+
+  trim
+
+  turtle'
+bip_39_word_new_line4: 'twenty
+
+  trim
+
+  turtle
+
+  spoon'
+bip_39_word_new_line5: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock'
+bip_39_word_new_line6: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil'
+bip_39_word_new_line7: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short'
+bip_39_word_new_line8: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry'
+bip_39_word_new_line9: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry
+
+  dignity'
+bip_39_word_space_0:
+- twenty
+- trim
+- turtle
+- spoon
+- stock
+- evil
+- short
+- cry
+- dignity
+- siren
+- please
+- assume
+bip_39_word_space_1: twenty
+bip_39_word_space_10: twenty trim turtle spoon stock evil short cry dignity siren
+bip_39_word_space_11: twenty trim turtle spoon stock evil short cry dignity siren
+  please
+bip_39_word_space_12: twenty trim turtle spoon stock evil short cry dignity siren
+  please assume
+bip_39_word_space_2: twenty trim
+bip_39_word_space_3: twenty trim turtle
+bip_39_word_space_4: twenty trim turtle spoon
+bip_39_word_space_5: twenty trim turtle spoon stock
+bip_39_word_space_6: twenty trim turtle spoon stock evil
+bip_39_word_space_7: twenty trim turtle spoon stock evil short
+bip_39_word_space_8: twenty trim turtle spoon stock evil short cry
+bip_39_word_space_9: twenty trim turtle spoon stock evil short cry dignity
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

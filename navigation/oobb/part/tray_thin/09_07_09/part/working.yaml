@@ -1,3 +1,186 @@
+bip_39_word_new_br1: coast
+bip_39_word_new_br10: coast<br>cute<br>toss<br>gentle<br>banana<br>sock<br>kick<br>twelve<br>stomach<br>doll
+bip_39_word_new_br11: coast<br>cute<br>toss<br>gentle<br>banana<br>sock<br>kick<br>twelve<br>stomach<br>doll<br>token
+bip_39_word_new_br12: coast<br>cute<br>toss<br>gentle<br>banana<br>sock<br>kick<br>twelve<br>stomach<br>doll<br>token<br>asset
+bip_39_word_new_br2: coast<br>cute
+bip_39_word_new_br3: coast<br>cute<br>toss
+bip_39_word_new_br4: coast<br>cute<br>toss<br>gentle
+bip_39_word_new_br5: coast<br>cute<br>toss<br>gentle<br>banana
+bip_39_word_new_br6: coast<br>cute<br>toss<br>gentle<br>banana<br>sock
+bip_39_word_new_br7: coast<br>cute<br>toss<br>gentle<br>banana<br>sock<br>kick
+bip_39_word_new_br8: coast<br>cute<br>toss<br>gentle<br>banana<br>sock<br>kick<br>twelve
+bip_39_word_new_br9: coast<br>cute<br>toss<br>gentle<br>banana<br>sock<br>kick<br>twelve<br>stomach
+bip_39_word_new_line1: coast
+bip_39_word_new_line10: 'coast
+
+  cute
+
+  toss
+
+  gentle
+
+  banana
+
+  sock
+
+  kick
+
+  twelve
+
+  stomach
+
+  doll'
+bip_39_word_new_line11: 'coast
+
+  cute
+
+  toss
+
+  gentle
+
+  banana
+
+  sock
+
+  kick
+
+  twelve
+
+  stomach
+
+  doll
+
+  token'
+bip_39_word_new_line12: 'coast
+
+  cute
+
+  toss
+
+  gentle
+
+  banana
+
+  sock
+
+  kick
+
+  twelve
+
+  stomach
+
+  doll
+
+  token
+
+  asset'
+bip_39_word_new_line2: 'coast
+
+  cute'
+bip_39_word_new_line3: 'coast
+
+  cute
+
+  toss'
+bip_39_word_new_line4: 'coast
+
+  cute
+
+  toss
+
+  gentle'
+bip_39_word_new_line5: 'coast
+
+  cute
+
+  toss
+
+  gentle
+
+  banana'
+bip_39_word_new_line6: 'coast
+
+  cute
+
+  toss
+
+  gentle
+
+  banana
+
+  sock'
+bip_39_word_new_line7: 'coast
+
+  cute
+
+  toss
+
+  gentle
+
+  banana
+
+  sock
+
+  kick'
+bip_39_word_new_line8: 'coast
+
+  cute
+
+  toss
+
+  gentle
+
+  banana
+
+  sock
+
+  kick
+
+  twelve'
+bip_39_word_new_line9: 'coast
+
+  cute
+
+  toss
+
+  gentle
+
+  banana
+
+  sock
+
+  kick
+
+  twelve
+
+  stomach'
+bip_39_word_space_0:
+- coast
+- cute
+- toss
+- gentle
+- banana
+- sock
+- kick
+- twelve
+- stomach
+- doll
+- token
+- asset
+bip_39_word_space_1: coast
+bip_39_word_space_10: coast cute toss gentle banana sock kick twelve stomach doll
+bip_39_word_space_11: coast cute toss gentle banana sock kick twelve stomach doll
+  token
+bip_39_word_space_12: coast cute toss gentle banana sock kick twelve stomach doll
+  token asset
+bip_39_word_space_2: coast cute
+bip_39_word_space_3: coast cute toss
+bip_39_word_space_4: coast cute toss gentle
+bip_39_word_space_5: coast cute toss gentle banana
+bip_39_word_space_6: coast cute toss gentle banana sock
+bip_39_word_space_7: coast cute toss gentle banana sock kick
+bip_39_word_space_8: coast cute toss gentle banana sock kick twelve
+bip_39_word_space_9: coast cute toss gentle banana sock kick twelve stomach
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

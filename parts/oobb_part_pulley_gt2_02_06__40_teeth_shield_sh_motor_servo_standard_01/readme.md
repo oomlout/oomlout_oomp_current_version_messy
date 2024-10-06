@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fiction have
+  * bip 39 word 3: fiction have just
+  * bip 39 word: fiction have just word skin frown jungle yellow lawsuit push cheap animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fiction |  
+| bip_39_word_new_br10 | fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push |  
+| bip_39_word_new_br11 | fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push<br>cheap |  
+| bip_39_word_new_br12 | fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit<br>push<br>cheap<br>animal |  
+| bip_39_word_new_br2 | fiction<br>have |  
+| bip_39_word_new_br3 | fiction<br>have<br>just |  
+| bip_39_word_new_br4 | fiction<br>have<br>just<br>word |  
+| bip_39_word_new_br5 | fiction<br>have<br>just<br>word<br>skin |  
+| bip_39_word_new_br6 | fiction<br>have<br>just<br>word<br>skin<br>frown |  
+| bip_39_word_new_br7 | fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle |  
+| bip_39_word_new_br8 | fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow |  
+| bip_39_word_new_br9 | fiction<br>have<br>just<br>word<br>skin<br>frown<br>jungle<br>yellow<br>lawsuit |  
+| bip_39_word_new_line1 | fiction |  
+| bip_39_word_new_line10 | fiction
+have
+just
+word
+skin
+frown
+jungle
+yellow
+lawsuit
+push |  
+| bip_39_word_new_line11 | fiction
+have
+just
+word
+skin
+frown
+jungle
+yellow
+lawsuit
+push
+cheap |  
+| bip_39_word_new_line12 | fiction
+have
+just
+word
+skin
+frown
+jungle
+yellow
+lawsuit
+push
+cheap
+animal |  
+| bip_39_word_new_line2 | fiction
+have |  
+| bip_39_word_new_line3 | fiction
+have
+just |  
+| bip_39_word_new_line4 | fiction
+have
+just
+word |  
+| bip_39_word_new_line5 | fiction
+have
+just
+word
+skin |  
+| bip_39_word_new_line6 | fiction
+have
+just
+word
+skin
+frown |  
+| bip_39_word_new_line7 | fiction
+have
+just
+word
+skin
+frown
+jungle |  
+| bip_39_word_new_line8 | fiction
+have
+just
+word
+skin
+frown
+jungle
+yellow |  
+| bip_39_word_new_line9 | fiction
+have
+just
+word
+skin
+frown
+jungle
+yellow
+lawsuit |  
+| bip_39_word_space_0 | ['fiction', 'have', 'just', 'word', 'skin', 'frown', 'jungle', 'yellow', 'lawsuit', 'push', 'cheap', 'animal'] |  
+| bip_39_word_space_1 | fiction |  
+| bip_39_word_space_10 | fiction have just word skin frown jungle yellow lawsuit push |  
+| bip_39_word_space_11 | fiction have just word skin frown jungle yellow lawsuit push cheap |  
+| bip_39_word_space_12 | fiction have just word skin frown jungle yellow lawsuit push cheap animal |  
+| bip_39_word_space_2 | fiction have |  
+| bip_39_word_space_3 | fiction have just |  
+| bip_39_word_space_4 | fiction have just word |  
+| bip_39_word_space_5 | fiction have just word skin |  
+| bip_39_word_space_6 | fiction have just word skin frown |  
+| bip_39_word_space_7 | fiction have just word skin frown jungle |  
+| bip_39_word_space_8 | fiction have just word skin frown jungle yellow |  
+| bip_39_word_space_9 | fiction have just word skin frown jungle yellow lawsuit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

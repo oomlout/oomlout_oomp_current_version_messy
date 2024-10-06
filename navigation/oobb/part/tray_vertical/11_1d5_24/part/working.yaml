@@ -1,3 +1,187 @@
+bip_39_word_new_br1: cruise
+bip_39_word_new_br10: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb<br>chalk<br>arrive<br>someone<br>foster
+bip_39_word_new_br11: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb<br>chalk<br>arrive<br>someone<br>foster<br>rather
+bip_39_word_new_br12: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb<br>chalk<br>arrive<br>someone<br>foster<br>rather<br>animal
+bip_39_word_new_br2: cruise<br>version
+bip_39_word_new_br3: cruise<br>version<br>scare
+bip_39_word_new_br4: cruise<br>version<br>scare<br>hen
+bip_39_word_new_br5: cruise<br>version<br>scare<br>hen<br>glimpse
+bip_39_word_new_br6: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb
+bip_39_word_new_br7: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb<br>chalk
+bip_39_word_new_br8: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb<br>chalk<br>arrive
+bip_39_word_new_br9: cruise<br>version<br>scare<br>hen<br>glimpse<br>absorb<br>chalk<br>arrive<br>someone
+bip_39_word_new_line1: cruise
+bip_39_word_new_line10: 'cruise
+
+  version
+
+  scare
+
+  hen
+
+  glimpse
+
+  absorb
+
+  chalk
+
+  arrive
+
+  someone
+
+  foster'
+bip_39_word_new_line11: 'cruise
+
+  version
+
+  scare
+
+  hen
+
+  glimpse
+
+  absorb
+
+  chalk
+
+  arrive
+
+  someone
+
+  foster
+
+  rather'
+bip_39_word_new_line12: 'cruise
+
+  version
+
+  scare
+
+  hen
+
+  glimpse
+
+  absorb
+
+  chalk
+
+  arrive
+
+  someone
+
+  foster
+
+  rather
+
+  animal'
+bip_39_word_new_line2: 'cruise
+
+  version'
+bip_39_word_new_line3: 'cruise
+
+  version
+
+  scare'
+bip_39_word_new_line4: 'cruise
+
+  version
+
+  scare
+
+  hen'
+bip_39_word_new_line5: 'cruise
+
+  version
+
+  scare
+
+  hen
+
+  glimpse'
+bip_39_word_new_line6: 'cruise
+
+  version
+
+  scare
+
+  hen
+
+  glimpse
+
+  absorb'
+bip_39_word_new_line7: 'cruise
+
+  version
+
+  scare
+
+  hen
+
+  glimpse
+
+  absorb
+
+  chalk'
+bip_39_word_new_line8: 'cruise
+
+  version
+
+  scare
+
+  hen
+
+  glimpse
+
+  absorb
+
+  chalk
+
+  arrive'
+bip_39_word_new_line9: 'cruise
+
+  version
+
+  scare
+
+  hen
+
+  glimpse
+
+  absorb
+
+  chalk
+
+  arrive
+
+  someone'
+bip_39_word_space_0:
+- cruise
+- version
+- scare
+- hen
+- glimpse
+- absorb
+- chalk
+- arrive
+- someone
+- foster
+- rather
+- animal
+bip_39_word_space_1: cruise
+bip_39_word_space_10: cruise version scare hen glimpse absorb chalk arrive someone
+  foster
+bip_39_word_space_11: cruise version scare hen glimpse absorb chalk arrive someone
+  foster rather
+bip_39_word_space_12: cruise version scare hen glimpse absorb chalk arrive someone
+  foster rather animal
+bip_39_word_space_2: cruise version
+bip_39_word_space_3: cruise version scare
+bip_39_word_space_4: cruise version scare hen
+bip_39_word_space_5: cruise version scare hen glimpse
+bip_39_word_space_6: cruise version scare hen glimpse absorb
+bip_39_word_space_7: cruise version scare hen glimpse absorb chalk
+bip_39_word_space_8: cruise version scare hen glimpse absorb chalk arrive
+bip_39_word_space_9: cruise version scare hen glimpse absorb chalk arrive someone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

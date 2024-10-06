@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: march lend
+  * bip 39 word 3: march lend rug
+  * bip 39 word: march lend rug demise stock word work parrot hidden used smoke angle
 
 ### other_codes
 * short_code: br699
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | march |  
+| bip_39_word_new_br10 | march<br>lend<br>rug<br>demise<br>stock<br>word<br>work<br>parrot<br>hidden<br>used |  
+| bip_39_word_new_br11 | march<br>lend<br>rug<br>demise<br>stock<br>word<br>work<br>parrot<br>hidden<br>used<br>smoke |  
+| bip_39_word_new_br12 | march<br>lend<br>rug<br>demise<br>stock<br>word<br>work<br>parrot<br>hidden<br>used<br>smoke<br>angle |  
+| bip_39_word_new_br2 | march<br>lend |  
+| bip_39_word_new_br3 | march<br>lend<br>rug |  
+| bip_39_word_new_br4 | march<br>lend<br>rug<br>demise |  
+| bip_39_word_new_br5 | march<br>lend<br>rug<br>demise<br>stock |  
+| bip_39_word_new_br6 | march<br>lend<br>rug<br>demise<br>stock<br>word |  
+| bip_39_word_new_br7 | march<br>lend<br>rug<br>demise<br>stock<br>word<br>work |  
+| bip_39_word_new_br8 | march<br>lend<br>rug<br>demise<br>stock<br>word<br>work<br>parrot |  
+| bip_39_word_new_br9 | march<br>lend<br>rug<br>demise<br>stock<br>word<br>work<br>parrot<br>hidden |  
+| bip_39_word_new_line1 | march |  
+| bip_39_word_new_line10 | march
+lend
+rug
+demise
+stock
+word
+work
+parrot
+hidden
+used |  
+| bip_39_word_new_line11 | march
+lend
+rug
+demise
+stock
+word
+work
+parrot
+hidden
+used
+smoke |  
+| bip_39_word_new_line12 | march
+lend
+rug
+demise
+stock
+word
+work
+parrot
+hidden
+used
+smoke
+angle |  
+| bip_39_word_new_line2 | march
+lend |  
+| bip_39_word_new_line3 | march
+lend
+rug |  
+| bip_39_word_new_line4 | march
+lend
+rug
+demise |  
+| bip_39_word_new_line5 | march
+lend
+rug
+demise
+stock |  
+| bip_39_word_new_line6 | march
+lend
+rug
+demise
+stock
+word |  
+| bip_39_word_new_line7 | march
+lend
+rug
+demise
+stock
+word
+work |  
+| bip_39_word_new_line8 | march
+lend
+rug
+demise
+stock
+word
+work
+parrot |  
+| bip_39_word_new_line9 | march
+lend
+rug
+demise
+stock
+word
+work
+parrot
+hidden |  
+| bip_39_word_space_0 | ['march', 'lend', 'rug', 'demise', 'stock', 'word', 'work', 'parrot', 'hidden', 'used', 'smoke', 'angle'] |  
+| bip_39_word_space_1 | march |  
+| bip_39_word_space_10 | march lend rug demise stock word work parrot hidden used |  
+| bip_39_word_space_11 | march lend rug demise stock word work parrot hidden used smoke |  
+| bip_39_word_space_12 | march lend rug demise stock word work parrot hidden used smoke angle |  
+| bip_39_word_space_2 | march lend |  
+| bip_39_word_space_3 | march lend rug |  
+| bip_39_word_space_4 | march lend rug demise |  
+| bip_39_word_space_5 | march lend rug demise stock |  
+| bip_39_word_space_6 | march lend rug demise stock word |  
+| bip_39_word_space_7 | march lend rug demise stock word work |  
+| bip_39_word_space_8 | march lend rug demise stock word work parrot |  
+| bip_39_word_space_9 | march lend rug demise stock word work parrot hidden |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

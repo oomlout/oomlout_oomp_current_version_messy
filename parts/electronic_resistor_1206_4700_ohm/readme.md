@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nothing blouse
+  * bip 39 word 3: nothing blouse tube
+  * bip 39 word: nothing blouse tube drive coil trick decline green candy little already abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nothing |  
+| bip_39_word_new_br10 | nothing<br>blouse<br>tube<br>drive<br>coil<br>trick<br>decline<br>green<br>candy<br>little |  
+| bip_39_word_new_br11 | nothing<br>blouse<br>tube<br>drive<br>coil<br>trick<br>decline<br>green<br>candy<br>little<br>already |  
+| bip_39_word_new_br12 | nothing<br>blouse<br>tube<br>drive<br>coil<br>trick<br>decline<br>green<br>candy<br>little<br>already<br>abstract |  
+| bip_39_word_new_br2 | nothing<br>blouse |  
+| bip_39_word_new_br3 | nothing<br>blouse<br>tube |  
+| bip_39_word_new_br4 | nothing<br>blouse<br>tube<br>drive |  
+| bip_39_word_new_br5 | nothing<br>blouse<br>tube<br>drive<br>coil |  
+| bip_39_word_new_br6 | nothing<br>blouse<br>tube<br>drive<br>coil<br>trick |  
+| bip_39_word_new_br7 | nothing<br>blouse<br>tube<br>drive<br>coil<br>trick<br>decline |  
+| bip_39_word_new_br8 | nothing<br>blouse<br>tube<br>drive<br>coil<br>trick<br>decline<br>green |  
+| bip_39_word_new_br9 | nothing<br>blouse<br>tube<br>drive<br>coil<br>trick<br>decline<br>green<br>candy |  
+| bip_39_word_new_line1 | nothing |  
+| bip_39_word_new_line10 | nothing
+blouse
+tube
+drive
+coil
+trick
+decline
+green
+candy
+little |  
+| bip_39_word_new_line11 | nothing
+blouse
+tube
+drive
+coil
+trick
+decline
+green
+candy
+little
+already |  
+| bip_39_word_new_line12 | nothing
+blouse
+tube
+drive
+coil
+trick
+decline
+green
+candy
+little
+already
+abstract |  
+| bip_39_word_new_line2 | nothing
+blouse |  
+| bip_39_word_new_line3 | nothing
+blouse
+tube |  
+| bip_39_word_new_line4 | nothing
+blouse
+tube
+drive |  
+| bip_39_word_new_line5 | nothing
+blouse
+tube
+drive
+coil |  
+| bip_39_word_new_line6 | nothing
+blouse
+tube
+drive
+coil
+trick |  
+| bip_39_word_new_line7 | nothing
+blouse
+tube
+drive
+coil
+trick
+decline |  
+| bip_39_word_new_line8 | nothing
+blouse
+tube
+drive
+coil
+trick
+decline
+green |  
+| bip_39_word_new_line9 | nothing
+blouse
+tube
+drive
+coil
+trick
+decline
+green
+candy |  
+| bip_39_word_space_0 | ['nothing', 'blouse', 'tube', 'drive', 'coil', 'trick', 'decline', 'green', 'candy', 'little', 'already', 'abstract'] |  
+| bip_39_word_space_1 | nothing |  
+| bip_39_word_space_10 | nothing blouse tube drive coil trick decline green candy little |  
+| bip_39_word_space_11 | nothing blouse tube drive coil trick decline green candy little already |  
+| bip_39_word_space_12 | nothing blouse tube drive coil trick decline green candy little already abstract |  
+| bip_39_word_space_2 | nothing blouse |  
+| bip_39_word_space_3 | nothing blouse tube |  
+| bip_39_word_space_4 | nothing blouse tube drive |  
+| bip_39_word_space_5 | nothing blouse tube drive coil |  
+| bip_39_word_space_6 | nothing blouse tube drive coil trick |  
+| bip_39_word_space_7 | nothing blouse tube drive coil trick decline |  
+| bip_39_word_space_8 | nothing blouse tube drive coil trick decline green |  
+| bip_39_word_space_9 | nothing blouse tube drive coil trick decline green candy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

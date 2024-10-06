@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slogan pencil
+  * bip 39 word 3: slogan pencil shine
+  * bip 39 word: slogan pencil shine fit early chuckle shell gift quiz medal satisfy area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slogan |  
+| bip_39_word_new_br10 | slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift<br>quiz<br>medal |  
+| bip_39_word_new_br11 | slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift<br>quiz<br>medal<br>satisfy |  
+| bip_39_word_new_br12 | slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift<br>quiz<br>medal<br>satisfy<br>area |  
+| bip_39_word_new_br2 | slogan<br>pencil |  
+| bip_39_word_new_br3 | slogan<br>pencil<br>shine |  
+| bip_39_word_new_br4 | slogan<br>pencil<br>shine<br>fit |  
+| bip_39_word_new_br5 | slogan<br>pencil<br>shine<br>fit<br>early |  
+| bip_39_word_new_br6 | slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle |  
+| bip_39_word_new_br7 | slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell |  
+| bip_39_word_new_br8 | slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift |  
+| bip_39_word_new_br9 | slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift<br>quiz |  
+| bip_39_word_new_line1 | slogan |  
+| bip_39_word_new_line10 | slogan
+pencil
+shine
+fit
+early
+chuckle
+shell
+gift
+quiz
+medal |  
+| bip_39_word_new_line11 | slogan
+pencil
+shine
+fit
+early
+chuckle
+shell
+gift
+quiz
+medal
+satisfy |  
+| bip_39_word_new_line12 | slogan
+pencil
+shine
+fit
+early
+chuckle
+shell
+gift
+quiz
+medal
+satisfy
+area |  
+| bip_39_word_new_line2 | slogan
+pencil |  
+| bip_39_word_new_line3 | slogan
+pencil
+shine |  
+| bip_39_word_new_line4 | slogan
+pencil
+shine
+fit |  
+| bip_39_word_new_line5 | slogan
+pencil
+shine
+fit
+early |  
+| bip_39_word_new_line6 | slogan
+pencil
+shine
+fit
+early
+chuckle |  
+| bip_39_word_new_line7 | slogan
+pencil
+shine
+fit
+early
+chuckle
+shell |  
+| bip_39_word_new_line8 | slogan
+pencil
+shine
+fit
+early
+chuckle
+shell
+gift |  
+| bip_39_word_new_line9 | slogan
+pencil
+shine
+fit
+early
+chuckle
+shell
+gift
+quiz |  
+| bip_39_word_space_0 | ['slogan', 'pencil', 'shine', 'fit', 'early', 'chuckle', 'shell', 'gift', 'quiz', 'medal', 'satisfy', 'area'] |  
+| bip_39_word_space_1 | slogan |  
+| bip_39_word_space_10 | slogan pencil shine fit early chuckle shell gift quiz medal |  
+| bip_39_word_space_11 | slogan pencil shine fit early chuckle shell gift quiz medal satisfy |  
+| bip_39_word_space_12 | slogan pencil shine fit early chuckle shell gift quiz medal satisfy area |  
+| bip_39_word_space_2 | slogan pencil |  
+| bip_39_word_space_3 | slogan pencil shine |  
+| bip_39_word_space_4 | slogan pencil shine fit |  
+| bip_39_word_space_5 | slogan pencil shine fit early |  
+| bip_39_word_space_6 | slogan pencil shine fit early chuckle |  
+| bip_39_word_space_7 | slogan pencil shine fit early chuckle shell |  
+| bip_39_word_space_8 | slogan pencil shine fit early chuckle shell gift |  
+| bip_39_word_space_9 | slogan pencil shine fit early chuckle shell gift quiz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

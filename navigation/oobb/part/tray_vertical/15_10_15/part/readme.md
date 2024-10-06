@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: one sentence
+  * bip 39 word 3: one sentence announce
+  * bip 39 word: one sentence announce talent rebel waste fun gospel number please copy abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | one |  
+| bip_39_word_new_br10 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste<br>fun<br>gospel<br>number<br>please |  
+| bip_39_word_new_br11 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste<br>fun<br>gospel<br>number<br>please<br>copy |  
+| bip_39_word_new_br12 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste<br>fun<br>gospel<br>number<br>please<br>copy<br>abstract |  
+| bip_39_word_new_br2 | one<br>sentence |  
+| bip_39_word_new_br3 | one<br>sentence<br>announce |  
+| bip_39_word_new_br4 | one<br>sentence<br>announce<br>talent |  
+| bip_39_word_new_br5 | one<br>sentence<br>announce<br>talent<br>rebel |  
+| bip_39_word_new_br6 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste |  
+| bip_39_word_new_br7 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste<br>fun |  
+| bip_39_word_new_br8 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste<br>fun<br>gospel |  
+| bip_39_word_new_br9 | one<br>sentence<br>announce<br>talent<br>rebel<br>waste<br>fun<br>gospel<br>number |  
+| bip_39_word_new_line1 | one |  
+| bip_39_word_new_line10 | one
+sentence
+announce
+talent
+rebel
+waste
+fun
+gospel
+number
+please |  
+| bip_39_word_new_line11 | one
+sentence
+announce
+talent
+rebel
+waste
+fun
+gospel
+number
+please
+copy |  
+| bip_39_word_new_line12 | one
+sentence
+announce
+talent
+rebel
+waste
+fun
+gospel
+number
+please
+copy
+abstract |  
+| bip_39_word_new_line2 | one
+sentence |  
+| bip_39_word_new_line3 | one
+sentence
+announce |  
+| bip_39_word_new_line4 | one
+sentence
+announce
+talent |  
+| bip_39_word_new_line5 | one
+sentence
+announce
+talent
+rebel |  
+| bip_39_word_new_line6 | one
+sentence
+announce
+talent
+rebel
+waste |  
+| bip_39_word_new_line7 | one
+sentence
+announce
+talent
+rebel
+waste
+fun |  
+| bip_39_word_new_line8 | one
+sentence
+announce
+talent
+rebel
+waste
+fun
+gospel |  
+| bip_39_word_new_line9 | one
+sentence
+announce
+talent
+rebel
+waste
+fun
+gospel
+number |  
+| bip_39_word_space_0 | ['one', 'sentence', 'announce', 'talent', 'rebel', 'waste', 'fun', 'gospel', 'number', 'please', 'copy', 'abstract'] |  
+| bip_39_word_space_1 | one |  
+| bip_39_word_space_10 | one sentence announce talent rebel waste fun gospel number please |  
+| bip_39_word_space_11 | one sentence announce talent rebel waste fun gospel number please copy |  
+| bip_39_word_space_12 | one sentence announce talent rebel waste fun gospel number please copy abstract |  
+| bip_39_word_space_2 | one sentence |  
+| bip_39_word_space_3 | one sentence announce |  
+| bip_39_word_space_4 | one sentence announce talent |  
+| bip_39_word_space_5 | one sentence announce talent rebel |  
+| bip_39_word_space_6 | one sentence announce talent rebel waste |  
+| bip_39_word_space_7 | one sentence announce talent rebel waste fun |  
+| bip_39_word_space_8 | one sentence announce talent rebel waste fun gospel |  
+| bip_39_word_space_9 | one sentence announce talent rebel waste fun gospel number |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

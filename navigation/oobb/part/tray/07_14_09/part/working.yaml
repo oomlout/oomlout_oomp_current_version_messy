@@ -1,3 +1,186 @@
+bip_39_word_new_br1: age
+bip_39_word_new_br10: age<br>bicycle<br>fade<br>survey<br>change<br>helmet<br>math<br>grocery<br>color<br>fit
+bip_39_word_new_br11: age<br>bicycle<br>fade<br>survey<br>change<br>helmet<br>math<br>grocery<br>color<br>fit<br>series
+bip_39_word_new_br12: age<br>bicycle<br>fade<br>survey<br>change<br>helmet<br>math<br>grocery<br>color<br>fit<br>series<br>action
+bip_39_word_new_br2: age<br>bicycle
+bip_39_word_new_br3: age<br>bicycle<br>fade
+bip_39_word_new_br4: age<br>bicycle<br>fade<br>survey
+bip_39_word_new_br5: age<br>bicycle<br>fade<br>survey<br>change
+bip_39_word_new_br6: age<br>bicycle<br>fade<br>survey<br>change<br>helmet
+bip_39_word_new_br7: age<br>bicycle<br>fade<br>survey<br>change<br>helmet<br>math
+bip_39_word_new_br8: age<br>bicycle<br>fade<br>survey<br>change<br>helmet<br>math<br>grocery
+bip_39_word_new_br9: age<br>bicycle<br>fade<br>survey<br>change<br>helmet<br>math<br>grocery<br>color
+bip_39_word_new_line1: age
+bip_39_word_new_line10: 'age
+
+  bicycle
+
+  fade
+
+  survey
+
+  change
+
+  helmet
+
+  math
+
+  grocery
+
+  color
+
+  fit'
+bip_39_word_new_line11: 'age
+
+  bicycle
+
+  fade
+
+  survey
+
+  change
+
+  helmet
+
+  math
+
+  grocery
+
+  color
+
+  fit
+
+  series'
+bip_39_word_new_line12: 'age
+
+  bicycle
+
+  fade
+
+  survey
+
+  change
+
+  helmet
+
+  math
+
+  grocery
+
+  color
+
+  fit
+
+  series
+
+  action'
+bip_39_word_new_line2: 'age
+
+  bicycle'
+bip_39_word_new_line3: 'age
+
+  bicycle
+
+  fade'
+bip_39_word_new_line4: 'age
+
+  bicycle
+
+  fade
+
+  survey'
+bip_39_word_new_line5: 'age
+
+  bicycle
+
+  fade
+
+  survey
+
+  change'
+bip_39_word_new_line6: 'age
+
+  bicycle
+
+  fade
+
+  survey
+
+  change
+
+  helmet'
+bip_39_word_new_line7: 'age
+
+  bicycle
+
+  fade
+
+  survey
+
+  change
+
+  helmet
+
+  math'
+bip_39_word_new_line8: 'age
+
+  bicycle
+
+  fade
+
+  survey
+
+  change
+
+  helmet
+
+  math
+
+  grocery'
+bip_39_word_new_line9: 'age
+
+  bicycle
+
+  fade
+
+  survey
+
+  change
+
+  helmet
+
+  math
+
+  grocery
+
+  color'
+bip_39_word_space_0:
+- age
+- bicycle
+- fade
+- survey
+- change
+- helmet
+- math
+- grocery
+- color
+- fit
+- series
+- action
+bip_39_word_space_1: age
+bip_39_word_space_10: age bicycle fade survey change helmet math grocery color fit
+bip_39_word_space_11: age bicycle fade survey change helmet math grocery color fit
+  series
+bip_39_word_space_12: age bicycle fade survey change helmet math grocery color fit
+  series action
+bip_39_word_space_2: age bicycle
+bip_39_word_space_3: age bicycle fade
+bip_39_word_space_4: age bicycle fade survey
+bip_39_word_space_5: age bicycle fade survey change
+bip_39_word_space_6: age bicycle fade survey change helmet
+bip_39_word_space_7: age bicycle fade survey change helmet math
+bip_39_word_space_8: age bicycle fade survey change helmet math grocery
+bip_39_word_space_9: age bicycle fade survey change helmet math grocery color
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

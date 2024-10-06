@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boss display
+  * bip 39 word 3: boss display fuel
+  * bip 39 word: boss display fuel artwork artwork husband kingdom ice nose buffalo cup arctic
 
 ### other_codes
 * short_code: br61830
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boss |  
+| bip_39_word_new_br10 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo |  
+| bip_39_word_new_br11 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo<br>cup |  
+| bip_39_word_new_br12 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose<br>buffalo<br>cup<br>arctic |  
+| bip_39_word_new_br2 | boss<br>display |  
+| bip_39_word_new_br3 | boss<br>display<br>fuel |  
+| bip_39_word_new_br4 | boss<br>display<br>fuel<br>artwork |  
+| bip_39_word_new_br5 | boss<br>display<br>fuel<br>artwork<br>artwork |  
+| bip_39_word_new_br6 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband |  
+| bip_39_word_new_br7 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom |  
+| bip_39_word_new_br8 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice |  
+| bip_39_word_new_br9 | boss<br>display<br>fuel<br>artwork<br>artwork<br>husband<br>kingdom<br>ice<br>nose |  
+| bip_39_word_new_line1 | boss |  
+| bip_39_word_new_line10 | boss
+display
+fuel
+artwork
+artwork
+husband
+kingdom
+ice
+nose
+buffalo |  
+| bip_39_word_new_line11 | boss
+display
+fuel
+artwork
+artwork
+husband
+kingdom
+ice
+nose
+buffalo
+cup |  
+| bip_39_word_new_line12 | boss
+display
+fuel
+artwork
+artwork
+husband
+kingdom
+ice
+nose
+buffalo
+cup
+arctic |  
+| bip_39_word_new_line2 | boss
+display |  
+| bip_39_word_new_line3 | boss
+display
+fuel |  
+| bip_39_word_new_line4 | boss
+display
+fuel
+artwork |  
+| bip_39_word_new_line5 | boss
+display
+fuel
+artwork
+artwork |  
+| bip_39_word_new_line6 | boss
+display
+fuel
+artwork
+artwork
+husband |  
+| bip_39_word_new_line7 | boss
+display
+fuel
+artwork
+artwork
+husband
+kingdom |  
+| bip_39_word_new_line8 | boss
+display
+fuel
+artwork
+artwork
+husband
+kingdom
+ice |  
+| bip_39_word_new_line9 | boss
+display
+fuel
+artwork
+artwork
+husband
+kingdom
+ice
+nose |  
+| bip_39_word_space_0 | ['boss', 'display', 'fuel', 'artwork', 'artwork', 'husband', 'kingdom', 'ice', 'nose', 'buffalo', 'cup', 'arctic'] |  
+| bip_39_word_space_1 | boss |  
+| bip_39_word_space_10 | boss display fuel artwork artwork husband kingdom ice nose buffalo |  
+| bip_39_word_space_11 | boss display fuel artwork artwork husband kingdom ice nose buffalo cup |  
+| bip_39_word_space_12 | boss display fuel artwork artwork husband kingdom ice nose buffalo cup arctic |  
+| bip_39_word_space_2 | boss display |  
+| bip_39_word_space_3 | boss display fuel |  
+| bip_39_word_space_4 | boss display fuel artwork |  
+| bip_39_word_space_5 | boss display fuel artwork artwork |  
+| bip_39_word_space_6 | boss display fuel artwork artwork husband |  
+| bip_39_word_space_7 | boss display fuel artwork artwork husband kingdom |  
+| bip_39_word_space_8 | boss display fuel artwork artwork husband kingdom ice |  
+| bip_39_word_space_9 | boss display fuel artwork artwork husband kingdom ice nose |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

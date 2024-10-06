@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clay embark
+  * bip 39 word 3: clay embark item
+  * bip 39 word: clay embark item spray shoe analyst skull family letter gravity remember amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clay |  
+| bip_39_word_new_br10 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst<br>skull<br>family<br>letter<br>gravity |  
+| bip_39_word_new_br11 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst<br>skull<br>family<br>letter<br>gravity<br>remember |  
+| bip_39_word_new_br12 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst<br>skull<br>family<br>letter<br>gravity<br>remember<br>amazing |  
+| bip_39_word_new_br2 | clay<br>embark |  
+| bip_39_word_new_br3 | clay<br>embark<br>item |  
+| bip_39_word_new_br4 | clay<br>embark<br>item<br>spray |  
+| bip_39_word_new_br5 | clay<br>embark<br>item<br>spray<br>shoe |  
+| bip_39_word_new_br6 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst |  
+| bip_39_word_new_br7 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst<br>skull |  
+| bip_39_word_new_br8 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst<br>skull<br>family |  
+| bip_39_word_new_br9 | clay<br>embark<br>item<br>spray<br>shoe<br>analyst<br>skull<br>family<br>letter |  
+| bip_39_word_new_line1 | clay |  
+| bip_39_word_new_line10 | clay
+embark
+item
+spray
+shoe
+analyst
+skull
+family
+letter
+gravity |  
+| bip_39_word_new_line11 | clay
+embark
+item
+spray
+shoe
+analyst
+skull
+family
+letter
+gravity
+remember |  
+| bip_39_word_new_line12 | clay
+embark
+item
+spray
+shoe
+analyst
+skull
+family
+letter
+gravity
+remember
+amazing |  
+| bip_39_word_new_line2 | clay
+embark |  
+| bip_39_word_new_line3 | clay
+embark
+item |  
+| bip_39_word_new_line4 | clay
+embark
+item
+spray |  
+| bip_39_word_new_line5 | clay
+embark
+item
+spray
+shoe |  
+| bip_39_word_new_line6 | clay
+embark
+item
+spray
+shoe
+analyst |  
+| bip_39_word_new_line7 | clay
+embark
+item
+spray
+shoe
+analyst
+skull |  
+| bip_39_word_new_line8 | clay
+embark
+item
+spray
+shoe
+analyst
+skull
+family |  
+| bip_39_word_new_line9 | clay
+embark
+item
+spray
+shoe
+analyst
+skull
+family
+letter |  
+| bip_39_word_space_0 | ['clay', 'embark', 'item', 'spray', 'shoe', 'analyst', 'skull', 'family', 'letter', 'gravity', 'remember', 'amazing'] |  
+| bip_39_word_space_1 | clay |  
+| bip_39_word_space_10 | clay embark item spray shoe analyst skull family letter gravity |  
+| bip_39_word_space_11 | clay embark item spray shoe analyst skull family letter gravity remember |  
+| bip_39_word_space_12 | clay embark item spray shoe analyst skull family letter gravity remember amazing |  
+| bip_39_word_space_2 | clay embark |  
+| bip_39_word_space_3 | clay embark item |  
+| bip_39_word_space_4 | clay embark item spray |  
+| bip_39_word_space_5 | clay embark item spray shoe |  
+| bip_39_word_space_6 | clay embark item spray shoe analyst |  
+| bip_39_word_space_7 | clay embark item spray shoe analyst skull |  
+| bip_39_word_space_8 | clay embark item spray shoe analyst skull family |  
+| bip_39_word_space_9 | clay embark item spray shoe analyst skull family letter |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

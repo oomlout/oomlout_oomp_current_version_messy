@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: candy amazing
+  * bip 39 word 3: candy amazing mansion
+  * bip 39 word: candy amazing mansion still real stock caught wool burden boring exchange announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | candy |  
+| bip_39_word_new_br10 | candy<br>amazing<br>mansion<br>still<br>real<br>stock<br>caught<br>wool<br>burden<br>boring |  
+| bip_39_word_new_br11 | candy<br>amazing<br>mansion<br>still<br>real<br>stock<br>caught<br>wool<br>burden<br>boring<br>exchange |  
+| bip_39_word_new_br12 | candy<br>amazing<br>mansion<br>still<br>real<br>stock<br>caught<br>wool<br>burden<br>boring<br>exchange<br>announce |  
+| bip_39_word_new_br2 | candy<br>amazing |  
+| bip_39_word_new_br3 | candy<br>amazing<br>mansion |  
+| bip_39_word_new_br4 | candy<br>amazing<br>mansion<br>still |  
+| bip_39_word_new_br5 | candy<br>amazing<br>mansion<br>still<br>real |  
+| bip_39_word_new_br6 | candy<br>amazing<br>mansion<br>still<br>real<br>stock |  
+| bip_39_word_new_br7 | candy<br>amazing<br>mansion<br>still<br>real<br>stock<br>caught |  
+| bip_39_word_new_br8 | candy<br>amazing<br>mansion<br>still<br>real<br>stock<br>caught<br>wool |  
+| bip_39_word_new_br9 | candy<br>amazing<br>mansion<br>still<br>real<br>stock<br>caught<br>wool<br>burden |  
+| bip_39_word_new_line1 | candy |  
+| bip_39_word_new_line10 | candy
+amazing
+mansion
+still
+real
+stock
+caught
+wool
+burden
+boring |  
+| bip_39_word_new_line11 | candy
+amazing
+mansion
+still
+real
+stock
+caught
+wool
+burden
+boring
+exchange |  
+| bip_39_word_new_line12 | candy
+amazing
+mansion
+still
+real
+stock
+caught
+wool
+burden
+boring
+exchange
+announce |  
+| bip_39_word_new_line2 | candy
+amazing |  
+| bip_39_word_new_line3 | candy
+amazing
+mansion |  
+| bip_39_word_new_line4 | candy
+amazing
+mansion
+still |  
+| bip_39_word_new_line5 | candy
+amazing
+mansion
+still
+real |  
+| bip_39_word_new_line6 | candy
+amazing
+mansion
+still
+real
+stock |  
+| bip_39_word_new_line7 | candy
+amazing
+mansion
+still
+real
+stock
+caught |  
+| bip_39_word_new_line8 | candy
+amazing
+mansion
+still
+real
+stock
+caught
+wool |  
+| bip_39_word_new_line9 | candy
+amazing
+mansion
+still
+real
+stock
+caught
+wool
+burden |  
+| bip_39_word_space_0 | ['candy', 'amazing', 'mansion', 'still', 'real', 'stock', 'caught', 'wool', 'burden', 'boring', 'exchange', 'announce'] |  
+| bip_39_word_space_1 | candy |  
+| bip_39_word_space_10 | candy amazing mansion still real stock caught wool burden boring |  
+| bip_39_word_space_11 | candy amazing mansion still real stock caught wool burden boring exchange |  
+| bip_39_word_space_12 | candy amazing mansion still real stock caught wool burden boring exchange announce |  
+| bip_39_word_space_2 | candy amazing |  
+| bip_39_word_space_3 | candy amazing mansion |  
+| bip_39_word_space_4 | candy amazing mansion still |  
+| bip_39_word_space_5 | candy amazing mansion still real |  
+| bip_39_word_space_6 | candy amazing mansion still real stock |  
+| bip_39_word_space_7 | candy amazing mansion still real stock caught |  
+| bip_39_word_space_8 | candy amazing mansion still real stock caught wool |  
+| bip_39_word_space_9 | candy amazing mansion still real stock caught wool burden |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

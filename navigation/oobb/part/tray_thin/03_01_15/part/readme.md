@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: circle crouch
+  * bip 39 word 3: circle crouch gentle
+  * bip 39 word: circle crouch gentle error sleep seed fine panther path scare kitten almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | circle |  
+| bip_39_word_new_br10 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed<br>fine<br>panther<br>path<br>scare |  
+| bip_39_word_new_br11 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed<br>fine<br>panther<br>path<br>scare<br>kitten |  
+| bip_39_word_new_br12 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed<br>fine<br>panther<br>path<br>scare<br>kitten<br>almost |  
+| bip_39_word_new_br2 | circle<br>crouch |  
+| bip_39_word_new_br3 | circle<br>crouch<br>gentle |  
+| bip_39_word_new_br4 | circle<br>crouch<br>gentle<br>error |  
+| bip_39_word_new_br5 | circle<br>crouch<br>gentle<br>error<br>sleep |  
+| bip_39_word_new_br6 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed |  
+| bip_39_word_new_br7 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed<br>fine |  
+| bip_39_word_new_br8 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed<br>fine<br>panther |  
+| bip_39_word_new_br9 | circle<br>crouch<br>gentle<br>error<br>sleep<br>seed<br>fine<br>panther<br>path |  
+| bip_39_word_new_line1 | circle |  
+| bip_39_word_new_line10 | circle
+crouch
+gentle
+error
+sleep
+seed
+fine
+panther
+path
+scare |  
+| bip_39_word_new_line11 | circle
+crouch
+gentle
+error
+sleep
+seed
+fine
+panther
+path
+scare
+kitten |  
+| bip_39_word_new_line12 | circle
+crouch
+gentle
+error
+sleep
+seed
+fine
+panther
+path
+scare
+kitten
+almost |  
+| bip_39_word_new_line2 | circle
+crouch |  
+| bip_39_word_new_line3 | circle
+crouch
+gentle |  
+| bip_39_word_new_line4 | circle
+crouch
+gentle
+error |  
+| bip_39_word_new_line5 | circle
+crouch
+gentle
+error
+sleep |  
+| bip_39_word_new_line6 | circle
+crouch
+gentle
+error
+sleep
+seed |  
+| bip_39_word_new_line7 | circle
+crouch
+gentle
+error
+sleep
+seed
+fine |  
+| bip_39_word_new_line8 | circle
+crouch
+gentle
+error
+sleep
+seed
+fine
+panther |  
+| bip_39_word_new_line9 | circle
+crouch
+gentle
+error
+sleep
+seed
+fine
+panther
+path |  
+| bip_39_word_space_0 | ['circle', 'crouch', 'gentle', 'error', 'sleep', 'seed', 'fine', 'panther', 'path', 'scare', 'kitten', 'almost'] |  
+| bip_39_word_space_1 | circle |  
+| bip_39_word_space_10 | circle crouch gentle error sleep seed fine panther path scare |  
+| bip_39_word_space_11 | circle crouch gentle error sleep seed fine panther path scare kitten |  
+| bip_39_word_space_12 | circle crouch gentle error sleep seed fine panther path scare kitten almost |  
+| bip_39_word_space_2 | circle crouch |  
+| bip_39_word_space_3 | circle crouch gentle |  
+| bip_39_word_space_4 | circle crouch gentle error |  
+| bip_39_word_space_5 | circle crouch gentle error sleep |  
+| bip_39_word_space_6 | circle crouch gentle error sleep seed |  
+| bip_39_word_space_7 | circle crouch gentle error sleep seed fine |  
+| bip_39_word_space_8 | circle crouch gentle error sleep seed fine panther |  
+| bip_39_word_space_9 | circle crouch gentle error sleep seed fine panther path |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

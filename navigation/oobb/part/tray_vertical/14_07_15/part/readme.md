@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: steak consider
+  * bip 39 word 3: steak consider rhythm
+  * bip 39 word: steak consider rhythm endless unhappy tennis practice glimpse invest truth sleep artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | steak |  
+| bip_39_word_new_br10 | steak<br>consider<br>rhythm<br>endless<br>unhappy<br>tennis<br>practice<br>glimpse<br>invest<br>truth |  
+| bip_39_word_new_br11 | steak<br>consider<br>rhythm<br>endless<br>unhappy<br>tennis<br>practice<br>glimpse<br>invest<br>truth<br>sleep |  
+| bip_39_word_new_br12 | steak<br>consider<br>rhythm<br>endless<br>unhappy<br>tennis<br>practice<br>glimpse<br>invest<br>truth<br>sleep<br>artwork |  
+| bip_39_word_new_br2 | steak<br>consider |  
+| bip_39_word_new_br3 | steak<br>consider<br>rhythm |  
+| bip_39_word_new_br4 | steak<br>consider<br>rhythm<br>endless |  
+| bip_39_word_new_br5 | steak<br>consider<br>rhythm<br>endless<br>unhappy |  
+| bip_39_word_new_br6 | steak<br>consider<br>rhythm<br>endless<br>unhappy<br>tennis |  
+| bip_39_word_new_br7 | steak<br>consider<br>rhythm<br>endless<br>unhappy<br>tennis<br>practice |  
+| bip_39_word_new_br8 | steak<br>consider<br>rhythm<br>endless<br>unhappy<br>tennis<br>practice<br>glimpse |  
+| bip_39_word_new_br9 | steak<br>consider<br>rhythm<br>endless<br>unhappy<br>tennis<br>practice<br>glimpse<br>invest |  
+| bip_39_word_new_line1 | steak |  
+| bip_39_word_new_line10 | steak
+consider
+rhythm
+endless
+unhappy
+tennis
+practice
+glimpse
+invest
+truth |  
+| bip_39_word_new_line11 | steak
+consider
+rhythm
+endless
+unhappy
+tennis
+practice
+glimpse
+invest
+truth
+sleep |  
+| bip_39_word_new_line12 | steak
+consider
+rhythm
+endless
+unhappy
+tennis
+practice
+glimpse
+invest
+truth
+sleep
+artwork |  
+| bip_39_word_new_line2 | steak
+consider |  
+| bip_39_word_new_line3 | steak
+consider
+rhythm |  
+| bip_39_word_new_line4 | steak
+consider
+rhythm
+endless |  
+| bip_39_word_new_line5 | steak
+consider
+rhythm
+endless
+unhappy |  
+| bip_39_word_new_line6 | steak
+consider
+rhythm
+endless
+unhappy
+tennis |  
+| bip_39_word_new_line7 | steak
+consider
+rhythm
+endless
+unhappy
+tennis
+practice |  
+| bip_39_word_new_line8 | steak
+consider
+rhythm
+endless
+unhappy
+tennis
+practice
+glimpse |  
+| bip_39_word_new_line9 | steak
+consider
+rhythm
+endless
+unhappy
+tennis
+practice
+glimpse
+invest |  
+| bip_39_word_space_0 | ['steak', 'consider', 'rhythm', 'endless', 'unhappy', 'tennis', 'practice', 'glimpse', 'invest', 'truth', 'sleep', 'artwork'] |  
+| bip_39_word_space_1 | steak |  
+| bip_39_word_space_10 | steak consider rhythm endless unhappy tennis practice glimpse invest truth |  
+| bip_39_word_space_11 | steak consider rhythm endless unhappy tennis practice glimpse invest truth sleep |  
+| bip_39_word_space_12 | steak consider rhythm endless unhappy tennis practice glimpse invest truth sleep artwork |  
+| bip_39_word_space_2 | steak consider |  
+| bip_39_word_space_3 | steak consider rhythm |  
+| bip_39_word_space_4 | steak consider rhythm endless |  
+| bip_39_word_space_5 | steak consider rhythm endless unhappy |  
+| bip_39_word_space_6 | steak consider rhythm endless unhappy tennis |  
+| bip_39_word_space_7 | steak consider rhythm endless unhappy tennis practice |  
+| bip_39_word_space_8 | steak consider rhythm endless unhappy tennis practice glimpse |  
+| bip_39_word_space_9 | steak consider rhythm endless unhappy tennis practice glimpse invest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

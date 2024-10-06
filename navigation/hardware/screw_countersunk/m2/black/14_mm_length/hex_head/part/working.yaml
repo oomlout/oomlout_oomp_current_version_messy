@@ -1,3 +1,187 @@
+bip_39_word_new_br1: chair
+bip_39_word_new_br10: chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw
+bip_39_word_new_br11: chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw<br>warrior
+bip_39_word_new_br12: chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play<br>draw<br>warrior<br>able
+bip_39_word_new_br2: chair<br>mountain
+bip_39_word_new_br3: chair<br>mountain<br>west
+bip_39_word_new_br4: chair<br>mountain<br>west<br>pilot
+bip_39_word_new_br5: chair<br>mountain<br>west<br>pilot<br>certain
+bip_39_word_new_br6: chair<br>mountain<br>west<br>pilot<br>certain<br>sustain
+bip_39_word_new_br7: chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline
+bip_39_word_new_br8: chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology
+bip_39_word_new_br9: chair<br>mountain<br>west<br>pilot<br>certain<br>sustain<br>decline<br>ecology<br>play
+bip_39_word_new_line1: chair
+bip_39_word_new_line10: 'chair
+
+  mountain
+
+  west
+
+  pilot
+
+  certain
+
+  sustain
+
+  decline
+
+  ecology
+
+  play
+
+  draw'
+bip_39_word_new_line11: 'chair
+
+  mountain
+
+  west
+
+  pilot
+
+  certain
+
+  sustain
+
+  decline
+
+  ecology
+
+  play
+
+  draw
+
+  warrior'
+bip_39_word_new_line12: 'chair
+
+  mountain
+
+  west
+
+  pilot
+
+  certain
+
+  sustain
+
+  decline
+
+  ecology
+
+  play
+
+  draw
+
+  warrior
+
+  able'
+bip_39_word_new_line2: 'chair
+
+  mountain'
+bip_39_word_new_line3: 'chair
+
+  mountain
+
+  west'
+bip_39_word_new_line4: 'chair
+
+  mountain
+
+  west
+
+  pilot'
+bip_39_word_new_line5: 'chair
+
+  mountain
+
+  west
+
+  pilot
+
+  certain'
+bip_39_word_new_line6: 'chair
+
+  mountain
+
+  west
+
+  pilot
+
+  certain
+
+  sustain'
+bip_39_word_new_line7: 'chair
+
+  mountain
+
+  west
+
+  pilot
+
+  certain
+
+  sustain
+
+  decline'
+bip_39_word_new_line8: 'chair
+
+  mountain
+
+  west
+
+  pilot
+
+  certain
+
+  sustain
+
+  decline
+
+  ecology'
+bip_39_word_new_line9: 'chair
+
+  mountain
+
+  west
+
+  pilot
+
+  certain
+
+  sustain
+
+  decline
+
+  ecology
+
+  play'
+bip_39_word_space_0:
+- chair
+- mountain
+- west
+- pilot
+- certain
+- sustain
+- decline
+- ecology
+- play
+- draw
+- warrior
+- able
+bip_39_word_space_1: chair
+bip_39_word_space_10: chair mountain west pilot certain sustain decline ecology play
+  draw
+bip_39_word_space_11: chair mountain west pilot certain sustain decline ecology play
+  draw warrior
+bip_39_word_space_12: chair mountain west pilot certain sustain decline ecology play
+  draw warrior able
+bip_39_word_space_2: chair mountain
+bip_39_word_space_3: chair mountain west
+bip_39_word_space_4: chair mountain west pilot
+bip_39_word_space_5: chair mountain west pilot certain
+bip_39_word_space_6: chair mountain west pilot certain sustain
+bip_39_word_space_7: chair mountain west pilot certain sustain decline
+bip_39_word_space_8: chair mountain west pilot certain sustain decline ecology
+bip_39_word_space_9: chair mountain west pilot certain sustain decline ecology play
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: because category
+  * bip 39 word 3: because category slide
+  * bip 39 word: because category slide color pioneer work seed match limit cry kit almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | because |  
+| bip_39_word_new_br10 | because<br>category<br>slide<br>color<br>pioneer<br>work<br>seed<br>match<br>limit<br>cry |  
+| bip_39_word_new_br11 | because<br>category<br>slide<br>color<br>pioneer<br>work<br>seed<br>match<br>limit<br>cry<br>kit |  
+| bip_39_word_new_br12 | because<br>category<br>slide<br>color<br>pioneer<br>work<br>seed<br>match<br>limit<br>cry<br>kit<br>almost |  
+| bip_39_word_new_br2 | because<br>category |  
+| bip_39_word_new_br3 | because<br>category<br>slide |  
+| bip_39_word_new_br4 | because<br>category<br>slide<br>color |  
+| bip_39_word_new_br5 | because<br>category<br>slide<br>color<br>pioneer |  
+| bip_39_word_new_br6 | because<br>category<br>slide<br>color<br>pioneer<br>work |  
+| bip_39_word_new_br7 | because<br>category<br>slide<br>color<br>pioneer<br>work<br>seed |  
+| bip_39_word_new_br8 | because<br>category<br>slide<br>color<br>pioneer<br>work<br>seed<br>match |  
+| bip_39_word_new_br9 | because<br>category<br>slide<br>color<br>pioneer<br>work<br>seed<br>match<br>limit |  
+| bip_39_word_new_line1 | because |  
+| bip_39_word_new_line10 | because
+category
+slide
+color
+pioneer
+work
+seed
+match
+limit
+cry |  
+| bip_39_word_new_line11 | because
+category
+slide
+color
+pioneer
+work
+seed
+match
+limit
+cry
+kit |  
+| bip_39_word_new_line12 | because
+category
+slide
+color
+pioneer
+work
+seed
+match
+limit
+cry
+kit
+almost |  
+| bip_39_word_new_line2 | because
+category |  
+| bip_39_word_new_line3 | because
+category
+slide |  
+| bip_39_word_new_line4 | because
+category
+slide
+color |  
+| bip_39_word_new_line5 | because
+category
+slide
+color
+pioneer |  
+| bip_39_word_new_line6 | because
+category
+slide
+color
+pioneer
+work |  
+| bip_39_word_new_line7 | because
+category
+slide
+color
+pioneer
+work
+seed |  
+| bip_39_word_new_line8 | because
+category
+slide
+color
+pioneer
+work
+seed
+match |  
+| bip_39_word_new_line9 | because
+category
+slide
+color
+pioneer
+work
+seed
+match
+limit |  
+| bip_39_word_space_0 | ['because', 'category', 'slide', 'color', 'pioneer', 'work', 'seed', 'match', 'limit', 'cry', 'kit', 'almost'] |  
+| bip_39_word_space_1 | because |  
+| bip_39_word_space_10 | because category slide color pioneer work seed match limit cry |  
+| bip_39_word_space_11 | because category slide color pioneer work seed match limit cry kit |  
+| bip_39_word_space_12 | because category slide color pioneer work seed match limit cry kit almost |  
+| bip_39_word_space_2 | because category |  
+| bip_39_word_space_3 | because category slide |  
+| bip_39_word_space_4 | because category slide color |  
+| bip_39_word_space_5 | because category slide color pioneer |  
+| bip_39_word_space_6 | because category slide color pioneer work |  
+| bip_39_word_space_7 | because category slide color pioneer work seed |  
+| bip_39_word_space_8 | because category slide color pioneer work seed match |  
+| bip_39_word_space_9 | because category slide color pioneer work seed match limit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

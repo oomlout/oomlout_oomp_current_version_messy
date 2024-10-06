@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wet
+bip_39_word_new_br10: wet<br>gospel<br>victory<br>forward<br>ship<br>junior<br>yard<br>already<br>bleak<br>write
+bip_39_word_new_br11: wet<br>gospel<br>victory<br>forward<br>ship<br>junior<br>yard<br>already<br>bleak<br>write<br>essay
+bip_39_word_new_br12: wet<br>gospel<br>victory<br>forward<br>ship<br>junior<br>yard<br>already<br>bleak<br>write<br>essay<br>army
+bip_39_word_new_br2: wet<br>gospel
+bip_39_word_new_br3: wet<br>gospel<br>victory
+bip_39_word_new_br4: wet<br>gospel<br>victory<br>forward
+bip_39_word_new_br5: wet<br>gospel<br>victory<br>forward<br>ship
+bip_39_word_new_br6: wet<br>gospel<br>victory<br>forward<br>ship<br>junior
+bip_39_word_new_br7: wet<br>gospel<br>victory<br>forward<br>ship<br>junior<br>yard
+bip_39_word_new_br8: wet<br>gospel<br>victory<br>forward<br>ship<br>junior<br>yard<br>already
+bip_39_word_new_br9: wet<br>gospel<br>victory<br>forward<br>ship<br>junior<br>yard<br>already<br>bleak
+bip_39_word_new_line1: wet
+bip_39_word_new_line10: 'wet
+
+  gospel
+
+  victory
+
+  forward
+
+  ship
+
+  junior
+
+  yard
+
+  already
+
+  bleak
+
+  write'
+bip_39_word_new_line11: 'wet
+
+  gospel
+
+  victory
+
+  forward
+
+  ship
+
+  junior
+
+  yard
+
+  already
+
+  bleak
+
+  write
+
+  essay'
+bip_39_word_new_line12: 'wet
+
+  gospel
+
+  victory
+
+  forward
+
+  ship
+
+  junior
+
+  yard
+
+  already
+
+  bleak
+
+  write
+
+  essay
+
+  army'
+bip_39_word_new_line2: 'wet
+
+  gospel'
+bip_39_word_new_line3: 'wet
+
+  gospel
+
+  victory'
+bip_39_word_new_line4: 'wet
+
+  gospel
+
+  victory
+
+  forward'
+bip_39_word_new_line5: 'wet
+
+  gospel
+
+  victory
+
+  forward
+
+  ship'
+bip_39_word_new_line6: 'wet
+
+  gospel
+
+  victory
+
+  forward
+
+  ship
+
+  junior'
+bip_39_word_new_line7: 'wet
+
+  gospel
+
+  victory
+
+  forward
+
+  ship
+
+  junior
+
+  yard'
+bip_39_word_new_line8: 'wet
+
+  gospel
+
+  victory
+
+  forward
+
+  ship
+
+  junior
+
+  yard
+
+  already'
+bip_39_word_new_line9: 'wet
+
+  gospel
+
+  victory
+
+  forward
+
+  ship
+
+  junior
+
+  yard
+
+  already
+
+  bleak'
+bip_39_word_space_0:
+- wet
+- gospel
+- victory
+- forward
+- ship
+- junior
+- yard
+- already
+- bleak
+- write
+- essay
+- army
+bip_39_word_space_1: wet
+bip_39_word_space_10: wet gospel victory forward ship junior yard already bleak write
+bip_39_word_space_11: wet gospel victory forward ship junior yard already bleak write
+  essay
+bip_39_word_space_12: wet gospel victory forward ship junior yard already bleak write
+  essay army
+bip_39_word_space_2: wet gospel
+bip_39_word_space_3: wet gospel victory
+bip_39_word_space_4: wet gospel victory forward
+bip_39_word_space_5: wet gospel victory forward ship
+bip_39_word_space_6: wet gospel victory forward ship junior
+bip_39_word_space_7: wet gospel victory forward ship junior yard
+bip_39_word_space_8: wet gospel victory forward ship junior yard already
+bip_39_word_space_9: wet gospel victory forward ship junior yard already bleak
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

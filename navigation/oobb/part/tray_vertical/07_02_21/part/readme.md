@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: regret impose
+  * bip 39 word 3: regret impose nuclear
+  * bip 39 word: regret impose nuclear pretty feel appear mule world vibrant pony cigar arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | regret |  
+| bip_39_word_new_br10 | regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony |  
+| bip_39_word_new_br11 | regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony<br>cigar |  
+| bip_39_word_new_br12 | regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant<br>pony<br>cigar<br>arrow |  
+| bip_39_word_new_br2 | regret<br>impose |  
+| bip_39_word_new_br3 | regret<br>impose<br>nuclear |  
+| bip_39_word_new_br4 | regret<br>impose<br>nuclear<br>pretty |  
+| bip_39_word_new_br5 | regret<br>impose<br>nuclear<br>pretty<br>feel |  
+| bip_39_word_new_br6 | regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear |  
+| bip_39_word_new_br7 | regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule |  
+| bip_39_word_new_br8 | regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world |  
+| bip_39_word_new_br9 | regret<br>impose<br>nuclear<br>pretty<br>feel<br>appear<br>mule<br>world<br>vibrant |  
+| bip_39_word_new_line1 | regret |  
+| bip_39_word_new_line10 | regret
+impose
+nuclear
+pretty
+feel
+appear
+mule
+world
+vibrant
+pony |  
+| bip_39_word_new_line11 | regret
+impose
+nuclear
+pretty
+feel
+appear
+mule
+world
+vibrant
+pony
+cigar |  
+| bip_39_word_new_line12 | regret
+impose
+nuclear
+pretty
+feel
+appear
+mule
+world
+vibrant
+pony
+cigar
+arrow |  
+| bip_39_word_new_line2 | regret
+impose |  
+| bip_39_word_new_line3 | regret
+impose
+nuclear |  
+| bip_39_word_new_line4 | regret
+impose
+nuclear
+pretty |  
+| bip_39_word_new_line5 | regret
+impose
+nuclear
+pretty
+feel |  
+| bip_39_word_new_line6 | regret
+impose
+nuclear
+pretty
+feel
+appear |  
+| bip_39_word_new_line7 | regret
+impose
+nuclear
+pretty
+feel
+appear
+mule |  
+| bip_39_word_new_line8 | regret
+impose
+nuclear
+pretty
+feel
+appear
+mule
+world |  
+| bip_39_word_new_line9 | regret
+impose
+nuclear
+pretty
+feel
+appear
+mule
+world
+vibrant |  
+| bip_39_word_space_0 | ['regret', 'impose', 'nuclear', 'pretty', 'feel', 'appear', 'mule', 'world', 'vibrant', 'pony', 'cigar', 'arrow'] |  
+| bip_39_word_space_1 | regret |  
+| bip_39_word_space_10 | regret impose nuclear pretty feel appear mule world vibrant pony |  
+| bip_39_word_space_11 | regret impose nuclear pretty feel appear mule world vibrant pony cigar |  
+| bip_39_word_space_12 | regret impose nuclear pretty feel appear mule world vibrant pony cigar arrow |  
+| bip_39_word_space_2 | regret impose |  
+| bip_39_word_space_3 | regret impose nuclear |  
+| bip_39_word_space_4 | regret impose nuclear pretty |  
+| bip_39_word_space_5 | regret impose nuclear pretty feel |  
+| bip_39_word_space_6 | regret impose nuclear pretty feel appear |  
+| bip_39_word_space_7 | regret impose nuclear pretty feel appear mule |  
+| bip_39_word_space_8 | regret impose nuclear pretty feel appear mule world |  
+| bip_39_word_space_9 | regret impose nuclear pretty feel appear mule world vibrant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

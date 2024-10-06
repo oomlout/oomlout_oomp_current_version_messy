@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: t
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bird jaguar
+  * bip 39 word 3: bird jaguar pause
+  * bip 39 word: bird jaguar pause annual intact salon pole come garlic digital dog always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bird |  
+| bip_39_word_new_br10 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital |  
+| bip_39_word_new_br11 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital<br>dog |  
+| bip_39_word_new_br12 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic<br>digital<br>dog<br>always |  
+| bip_39_word_new_br2 | bird<br>jaguar |  
+| bip_39_word_new_br3 | bird<br>jaguar<br>pause |  
+| bip_39_word_new_br4 | bird<br>jaguar<br>pause<br>annual |  
+| bip_39_word_new_br5 | bird<br>jaguar<br>pause<br>annual<br>intact |  
+| bip_39_word_new_br6 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon |  
+| bip_39_word_new_br7 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole |  
+| bip_39_word_new_br8 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come |  
+| bip_39_word_new_br9 | bird<br>jaguar<br>pause<br>annual<br>intact<br>salon<br>pole<br>come<br>garlic |  
+| bip_39_word_new_line1 | bird |  
+| bip_39_word_new_line10 | bird
+jaguar
+pause
+annual
+intact
+salon
+pole
+come
+garlic
+digital |  
+| bip_39_word_new_line11 | bird
+jaguar
+pause
+annual
+intact
+salon
+pole
+come
+garlic
+digital
+dog |  
+| bip_39_word_new_line12 | bird
+jaguar
+pause
+annual
+intact
+salon
+pole
+come
+garlic
+digital
+dog
+always |  
+| bip_39_word_new_line2 | bird
+jaguar |  
+| bip_39_word_new_line3 | bird
+jaguar
+pause |  
+| bip_39_word_new_line4 | bird
+jaguar
+pause
+annual |  
+| bip_39_word_new_line5 | bird
+jaguar
+pause
+annual
+intact |  
+| bip_39_word_new_line6 | bird
+jaguar
+pause
+annual
+intact
+salon |  
+| bip_39_word_new_line7 | bird
+jaguar
+pause
+annual
+intact
+salon
+pole |  
+| bip_39_word_new_line8 | bird
+jaguar
+pause
+annual
+intact
+salon
+pole
+come |  
+| bip_39_word_new_line9 | bird
+jaguar
+pause
+annual
+intact
+salon
+pole
+come
+garlic |  
+| bip_39_word_space_0 | ['bird', 'jaguar', 'pause', 'annual', 'intact', 'salon', 'pole', 'come', 'garlic', 'digital', 'dog', 'always'] |  
+| bip_39_word_space_1 | bird |  
+| bip_39_word_space_10 | bird jaguar pause annual intact salon pole come garlic digital |  
+| bip_39_word_space_11 | bird jaguar pause annual intact salon pole come garlic digital dog |  
+| bip_39_word_space_12 | bird jaguar pause annual intact salon pole come garlic digital dog always |  
+| bip_39_word_space_2 | bird jaguar |  
+| bip_39_word_space_3 | bird jaguar pause |  
+| bip_39_word_space_4 | bird jaguar pause annual |  
+| bip_39_word_space_5 | bird jaguar pause annual intact |  
+| bip_39_word_space_6 | bird jaguar pause annual intact salon |  
+| bip_39_word_space_7 | bird jaguar pause annual intact salon pole |  
+| bip_39_word_space_8 | bird jaguar pause annual intact salon pole come |  
+| bip_39_word_space_9 | bird jaguar pause annual intact salon pole come garlic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

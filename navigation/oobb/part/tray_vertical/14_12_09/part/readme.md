@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: light enable
+  * bip 39 word 3: light enable empty
+  * bip 39 word: light enable empty copy spread club lawsuit rail host main mixed antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | light |  
+| bip_39_word_new_br10 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main |  
+| bip_39_word_new_br11 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main<br>mixed |  
+| bip_39_word_new_br12 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host<br>main<br>mixed<br>antenna |  
+| bip_39_word_new_br2 | light<br>enable |  
+| bip_39_word_new_br3 | light<br>enable<br>empty |  
+| bip_39_word_new_br4 | light<br>enable<br>empty<br>copy |  
+| bip_39_word_new_br5 | light<br>enable<br>empty<br>copy<br>spread |  
+| bip_39_word_new_br6 | light<br>enable<br>empty<br>copy<br>spread<br>club |  
+| bip_39_word_new_br7 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit |  
+| bip_39_word_new_br8 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail |  
+| bip_39_word_new_br9 | light<br>enable<br>empty<br>copy<br>spread<br>club<br>lawsuit<br>rail<br>host |  
+| bip_39_word_new_line1 | light |  
+| bip_39_word_new_line10 | light
+enable
+empty
+copy
+spread
+club
+lawsuit
+rail
+host
+main |  
+| bip_39_word_new_line11 | light
+enable
+empty
+copy
+spread
+club
+lawsuit
+rail
+host
+main
+mixed |  
+| bip_39_word_new_line12 | light
+enable
+empty
+copy
+spread
+club
+lawsuit
+rail
+host
+main
+mixed
+antenna |  
+| bip_39_word_new_line2 | light
+enable |  
+| bip_39_word_new_line3 | light
+enable
+empty |  
+| bip_39_word_new_line4 | light
+enable
+empty
+copy |  
+| bip_39_word_new_line5 | light
+enable
+empty
+copy
+spread |  
+| bip_39_word_new_line6 | light
+enable
+empty
+copy
+spread
+club |  
+| bip_39_word_new_line7 | light
+enable
+empty
+copy
+spread
+club
+lawsuit |  
+| bip_39_word_new_line8 | light
+enable
+empty
+copy
+spread
+club
+lawsuit
+rail |  
+| bip_39_word_new_line9 | light
+enable
+empty
+copy
+spread
+club
+lawsuit
+rail
+host |  
+| bip_39_word_space_0 | ['light', 'enable', 'empty', 'copy', 'spread', 'club', 'lawsuit', 'rail', 'host', 'main', 'mixed', 'antenna'] |  
+| bip_39_word_space_1 | light |  
+| bip_39_word_space_10 | light enable empty copy spread club lawsuit rail host main |  
+| bip_39_word_space_11 | light enable empty copy spread club lawsuit rail host main mixed |  
+| bip_39_word_space_12 | light enable empty copy spread club lawsuit rail host main mixed antenna |  
+| bip_39_word_space_2 | light enable |  
+| bip_39_word_space_3 | light enable empty |  
+| bip_39_word_space_4 | light enable empty copy |  
+| bip_39_word_space_5 | light enable empty copy spread |  
+| bip_39_word_space_6 | light enable empty copy spread club |  
+| bip_39_word_space_7 | light enable empty copy spread club lawsuit |  
+| bip_39_word_space_8 | light enable empty copy spread club lawsuit rail |  
+| bip_39_word_space_9 | light enable empty copy spread club lawsuit rail host |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

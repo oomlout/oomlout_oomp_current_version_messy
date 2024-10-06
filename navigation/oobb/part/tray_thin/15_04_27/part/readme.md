@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: barely lounge
+  * bip 39 word 3: barely lounge hotel
+  * bip 39 word: barely lounge hotel panther caught muffin reunion steak worth explain tail abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | barely |  
+| bip_39_word_new_br10 | barely<br>lounge<br>hotel<br>panther<br>caught<br>muffin<br>reunion<br>steak<br>worth<br>explain |  
+| bip_39_word_new_br11 | barely<br>lounge<br>hotel<br>panther<br>caught<br>muffin<br>reunion<br>steak<br>worth<br>explain<br>tail |  
+| bip_39_word_new_br12 | barely<br>lounge<br>hotel<br>panther<br>caught<br>muffin<br>reunion<br>steak<br>worth<br>explain<br>tail<br>abstract |  
+| bip_39_word_new_br2 | barely<br>lounge |  
+| bip_39_word_new_br3 | barely<br>lounge<br>hotel |  
+| bip_39_word_new_br4 | barely<br>lounge<br>hotel<br>panther |  
+| bip_39_word_new_br5 | barely<br>lounge<br>hotel<br>panther<br>caught |  
+| bip_39_word_new_br6 | barely<br>lounge<br>hotel<br>panther<br>caught<br>muffin |  
+| bip_39_word_new_br7 | barely<br>lounge<br>hotel<br>panther<br>caught<br>muffin<br>reunion |  
+| bip_39_word_new_br8 | barely<br>lounge<br>hotel<br>panther<br>caught<br>muffin<br>reunion<br>steak |  
+| bip_39_word_new_br9 | barely<br>lounge<br>hotel<br>panther<br>caught<br>muffin<br>reunion<br>steak<br>worth |  
+| bip_39_word_new_line1 | barely |  
+| bip_39_word_new_line10 | barely
+lounge
+hotel
+panther
+caught
+muffin
+reunion
+steak
+worth
+explain |  
+| bip_39_word_new_line11 | barely
+lounge
+hotel
+panther
+caught
+muffin
+reunion
+steak
+worth
+explain
+tail |  
+| bip_39_word_new_line12 | barely
+lounge
+hotel
+panther
+caught
+muffin
+reunion
+steak
+worth
+explain
+tail
+abstract |  
+| bip_39_word_new_line2 | barely
+lounge |  
+| bip_39_word_new_line3 | barely
+lounge
+hotel |  
+| bip_39_word_new_line4 | barely
+lounge
+hotel
+panther |  
+| bip_39_word_new_line5 | barely
+lounge
+hotel
+panther
+caught |  
+| bip_39_word_new_line6 | barely
+lounge
+hotel
+panther
+caught
+muffin |  
+| bip_39_word_new_line7 | barely
+lounge
+hotel
+panther
+caught
+muffin
+reunion |  
+| bip_39_word_new_line8 | barely
+lounge
+hotel
+panther
+caught
+muffin
+reunion
+steak |  
+| bip_39_word_new_line9 | barely
+lounge
+hotel
+panther
+caught
+muffin
+reunion
+steak
+worth |  
+| bip_39_word_space_0 | ['barely', 'lounge', 'hotel', 'panther', 'caught', 'muffin', 'reunion', 'steak', 'worth', 'explain', 'tail', 'abstract'] |  
+| bip_39_word_space_1 | barely |  
+| bip_39_word_space_10 | barely lounge hotel panther caught muffin reunion steak worth explain |  
+| bip_39_word_space_11 | barely lounge hotel panther caught muffin reunion steak worth explain tail |  
+| bip_39_word_space_12 | barely lounge hotel panther caught muffin reunion steak worth explain tail abstract |  
+| bip_39_word_space_2 | barely lounge |  
+| bip_39_word_space_3 | barely lounge hotel |  
+| bip_39_word_space_4 | barely lounge hotel panther |  
+| bip_39_word_space_5 | barely lounge hotel panther caught |  
+| bip_39_word_space_6 | barely lounge hotel panther caught muffin |  
+| bip_39_word_space_7 | barely lounge hotel panther caught muffin reunion |  
+| bip_39_word_space_8 | barely lounge hotel panther caught muffin reunion steak |  
+| bip_39_word_space_9 | barely lounge hotel panther caught muffin reunion steak worth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

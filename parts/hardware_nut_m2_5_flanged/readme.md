@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: phone chuckle
+  * bip 39 word 3: phone chuckle chase
+  * bip 39 word: phone chuckle chase zebra off tape coin nothing lecture glass gasp alley
 
 ### other_codes
 * short_code: n2d5mfl
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | phone |  
+| bip_39_word_new_br10 | phone<br>chuckle<br>chase<br>zebra<br>off<br>tape<br>coin<br>nothing<br>lecture<br>glass |  
+| bip_39_word_new_br11 | phone<br>chuckle<br>chase<br>zebra<br>off<br>tape<br>coin<br>nothing<br>lecture<br>glass<br>gasp |  
+| bip_39_word_new_br12 | phone<br>chuckle<br>chase<br>zebra<br>off<br>tape<br>coin<br>nothing<br>lecture<br>glass<br>gasp<br>alley |  
+| bip_39_word_new_br2 | phone<br>chuckle |  
+| bip_39_word_new_br3 | phone<br>chuckle<br>chase |  
+| bip_39_word_new_br4 | phone<br>chuckle<br>chase<br>zebra |  
+| bip_39_word_new_br5 | phone<br>chuckle<br>chase<br>zebra<br>off |  
+| bip_39_word_new_br6 | phone<br>chuckle<br>chase<br>zebra<br>off<br>tape |  
+| bip_39_word_new_br7 | phone<br>chuckle<br>chase<br>zebra<br>off<br>tape<br>coin |  
+| bip_39_word_new_br8 | phone<br>chuckle<br>chase<br>zebra<br>off<br>tape<br>coin<br>nothing |  
+| bip_39_word_new_br9 | phone<br>chuckle<br>chase<br>zebra<br>off<br>tape<br>coin<br>nothing<br>lecture |  
+| bip_39_word_new_line1 | phone |  
+| bip_39_word_new_line10 | phone
+chuckle
+chase
+zebra
+off
+tape
+coin
+nothing
+lecture
+glass |  
+| bip_39_word_new_line11 | phone
+chuckle
+chase
+zebra
+off
+tape
+coin
+nothing
+lecture
+glass
+gasp |  
+| bip_39_word_new_line12 | phone
+chuckle
+chase
+zebra
+off
+tape
+coin
+nothing
+lecture
+glass
+gasp
+alley |  
+| bip_39_word_new_line2 | phone
+chuckle |  
+| bip_39_word_new_line3 | phone
+chuckle
+chase |  
+| bip_39_word_new_line4 | phone
+chuckle
+chase
+zebra |  
+| bip_39_word_new_line5 | phone
+chuckle
+chase
+zebra
+off |  
+| bip_39_word_new_line6 | phone
+chuckle
+chase
+zebra
+off
+tape |  
+| bip_39_word_new_line7 | phone
+chuckle
+chase
+zebra
+off
+tape
+coin |  
+| bip_39_word_new_line8 | phone
+chuckle
+chase
+zebra
+off
+tape
+coin
+nothing |  
+| bip_39_word_new_line9 | phone
+chuckle
+chase
+zebra
+off
+tape
+coin
+nothing
+lecture |  
+| bip_39_word_space_0 | ['phone', 'chuckle', 'chase', 'zebra', 'off', 'tape', 'coin', 'nothing', 'lecture', 'glass', 'gasp', 'alley'] |  
+| bip_39_word_space_1 | phone |  
+| bip_39_word_space_10 | phone chuckle chase zebra off tape coin nothing lecture glass |  
+| bip_39_word_space_11 | phone chuckle chase zebra off tape coin nothing lecture glass gasp |  
+| bip_39_word_space_12 | phone chuckle chase zebra off tape coin nothing lecture glass gasp alley |  
+| bip_39_word_space_2 | phone chuckle |  
+| bip_39_word_space_3 | phone chuckle chase |  
+| bip_39_word_space_4 | phone chuckle chase zebra |  
+| bip_39_word_space_5 | phone chuckle chase zebra off |  
+| bip_39_word_space_6 | phone chuckle chase zebra off tape |  
+| bip_39_word_space_7 | phone chuckle chase zebra off tape coin |  
+| bip_39_word_space_8 | phone chuckle chase zebra off tape coin nothing |  
+| bip_39_word_space_9 | phone chuckle chase zebra off tape coin nothing lecture |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

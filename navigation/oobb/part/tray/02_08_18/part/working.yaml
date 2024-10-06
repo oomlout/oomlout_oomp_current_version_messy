@@ -1,3 +1,185 @@
+bip_39_word_new_br1: lounge
+bip_39_word_new_br10: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn<br>bundle
+bip_39_word_new_br11: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn<br>bundle<br>peace
+bip_39_word_new_br12: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn<br>bundle<br>peace<br>arrange
+bip_39_word_new_br2: lounge<br>hold
+bip_39_word_new_br3: lounge<br>hold<br>wise
+bip_39_word_new_br4: lounge<br>hold<br>wise<br>enact
+bip_39_word_new_br5: lounge<br>hold<br>wise<br>enact<br>mix
+bip_39_word_new_br6: lounge<br>hold<br>wise<br>enact<br>mix<br>empty
+bip_39_word_new_br7: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief
+bip_39_word_new_br8: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release
+bip_39_word_new_br9: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn
+bip_39_word_new_line1: lounge
+bip_39_word_new_line10: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release
+
+  lawn
+
+  bundle'
+bip_39_word_new_line11: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release
+
+  lawn
+
+  bundle
+
+  peace'
+bip_39_word_new_line12: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release
+
+  lawn
+
+  bundle
+
+  peace
+
+  arrange'
+bip_39_word_new_line2: 'lounge
+
+  hold'
+bip_39_word_new_line3: 'lounge
+
+  hold
+
+  wise'
+bip_39_word_new_line4: 'lounge
+
+  hold
+
+  wise
+
+  enact'
+bip_39_word_new_line5: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix'
+bip_39_word_new_line6: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty'
+bip_39_word_new_line7: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief'
+bip_39_word_new_line8: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release'
+bip_39_word_new_line9: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release
+
+  lawn'
+bip_39_word_space_0:
+- lounge
+- hold
+- wise
+- enact
+- mix
+- empty
+- brief
+- release
+- lawn
+- bundle
+- peace
+- arrange
+bip_39_word_space_1: lounge
+bip_39_word_space_10: lounge hold wise enact mix empty brief release lawn bundle
+bip_39_word_space_11: lounge hold wise enact mix empty brief release lawn bundle peace
+bip_39_word_space_12: lounge hold wise enact mix empty brief release lawn bundle peace
+  arrange
+bip_39_word_space_2: lounge hold
+bip_39_word_space_3: lounge hold wise
+bip_39_word_space_4: lounge hold wise enact
+bip_39_word_space_5: lounge hold wise enact mix
+bip_39_word_space_6: lounge hold wise enact mix empty
+bip_39_word_space_7: lounge hold wise enact mix empty brief
+bip_39_word_space_8: lounge hold wise enact mix empty brief release
+bip_39_word_space_9: lounge hold wise enact mix empty brief release lawn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

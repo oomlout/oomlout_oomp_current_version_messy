@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: galaxy theme
+  * bip 39 word 3: galaxy theme path
+  * bip 39 word: galaxy theme path kidney alley rival one human during alley glance assist
 
 ### other_codes
 * short_code: fh2b20p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | galaxy |  
+| bip_39_word_new_br10 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley |  
+| bip_39_word_new_br11 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley<br>glance |  
+| bip_39_word_new_br12 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during<br>alley<br>glance<br>assist |  
+| bip_39_word_new_br2 | galaxy<br>theme |  
+| bip_39_word_new_br3 | galaxy<br>theme<br>path |  
+| bip_39_word_new_br4 | galaxy<br>theme<br>path<br>kidney |  
+| bip_39_word_new_br5 | galaxy<br>theme<br>path<br>kidney<br>alley |  
+| bip_39_word_new_br6 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival |  
+| bip_39_word_new_br7 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one |  
+| bip_39_word_new_br8 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human |  
+| bip_39_word_new_br9 | galaxy<br>theme<br>path<br>kidney<br>alley<br>rival<br>one<br>human<br>during |  
+| bip_39_word_new_line1 | galaxy |  
+| bip_39_word_new_line10 | galaxy
+theme
+path
+kidney
+alley
+rival
+one
+human
+during
+alley |  
+| bip_39_word_new_line11 | galaxy
+theme
+path
+kidney
+alley
+rival
+one
+human
+during
+alley
+glance |  
+| bip_39_word_new_line12 | galaxy
+theme
+path
+kidney
+alley
+rival
+one
+human
+during
+alley
+glance
+assist |  
+| bip_39_word_new_line2 | galaxy
+theme |  
+| bip_39_word_new_line3 | galaxy
+theme
+path |  
+| bip_39_word_new_line4 | galaxy
+theme
+path
+kidney |  
+| bip_39_word_new_line5 | galaxy
+theme
+path
+kidney
+alley |  
+| bip_39_word_new_line6 | galaxy
+theme
+path
+kidney
+alley
+rival |  
+| bip_39_word_new_line7 | galaxy
+theme
+path
+kidney
+alley
+rival
+one |  
+| bip_39_word_new_line8 | galaxy
+theme
+path
+kidney
+alley
+rival
+one
+human |  
+| bip_39_word_new_line9 | galaxy
+theme
+path
+kidney
+alley
+rival
+one
+human
+during |  
+| bip_39_word_space_0 | ['galaxy', 'theme', 'path', 'kidney', 'alley', 'rival', 'one', 'human', 'during', 'alley', 'glance', 'assist'] |  
+| bip_39_word_space_1 | galaxy |  
+| bip_39_word_space_10 | galaxy theme path kidney alley rival one human during alley |  
+| bip_39_word_space_11 | galaxy theme path kidney alley rival one human during alley glance |  
+| bip_39_word_space_12 | galaxy theme path kidney alley rival one human during alley glance assist |  
+| bip_39_word_space_2 | galaxy theme |  
+| bip_39_word_space_3 | galaxy theme path |  
+| bip_39_word_space_4 | galaxy theme path kidney |  
+| bip_39_word_space_5 | galaxy theme path kidney alley |  
+| bip_39_word_space_6 | galaxy theme path kidney alley rival |  
+| bip_39_word_space_7 | galaxy theme path kidney alley rival one |  
+| bip_39_word_space_8 | galaxy theme path kidney alley rival one human |  
+| bip_39_word_space_9 | galaxy theme path kidney alley rival one human during |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

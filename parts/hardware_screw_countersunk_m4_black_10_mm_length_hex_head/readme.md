@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slogan tower
+  * bip 39 word 3: slogan tower consider
+  * bip 39 word: slogan tower consider tuna napkin jelly delay umbrella soon popular defy actor
 
 ### other_codes
 * short_code: cs4b10h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slogan |  
+| bip_39_word_new_br10 | slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly<br>delay<br>umbrella<br>soon<br>popular |  
+| bip_39_word_new_br11 | slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly<br>delay<br>umbrella<br>soon<br>popular<br>defy |  
+| bip_39_word_new_br12 | slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly<br>delay<br>umbrella<br>soon<br>popular<br>defy<br>actor |  
+| bip_39_word_new_br2 | slogan<br>tower |  
+| bip_39_word_new_br3 | slogan<br>tower<br>consider |  
+| bip_39_word_new_br4 | slogan<br>tower<br>consider<br>tuna |  
+| bip_39_word_new_br5 | slogan<br>tower<br>consider<br>tuna<br>napkin |  
+| bip_39_word_new_br6 | slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly |  
+| bip_39_word_new_br7 | slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly<br>delay |  
+| bip_39_word_new_br8 | slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly<br>delay<br>umbrella |  
+| bip_39_word_new_br9 | slogan<br>tower<br>consider<br>tuna<br>napkin<br>jelly<br>delay<br>umbrella<br>soon |  
+| bip_39_word_new_line1 | slogan |  
+| bip_39_word_new_line10 | slogan
+tower
+consider
+tuna
+napkin
+jelly
+delay
+umbrella
+soon
+popular |  
+| bip_39_word_new_line11 | slogan
+tower
+consider
+tuna
+napkin
+jelly
+delay
+umbrella
+soon
+popular
+defy |  
+| bip_39_word_new_line12 | slogan
+tower
+consider
+tuna
+napkin
+jelly
+delay
+umbrella
+soon
+popular
+defy
+actor |  
+| bip_39_word_new_line2 | slogan
+tower |  
+| bip_39_word_new_line3 | slogan
+tower
+consider |  
+| bip_39_word_new_line4 | slogan
+tower
+consider
+tuna |  
+| bip_39_word_new_line5 | slogan
+tower
+consider
+tuna
+napkin |  
+| bip_39_word_new_line6 | slogan
+tower
+consider
+tuna
+napkin
+jelly |  
+| bip_39_word_new_line7 | slogan
+tower
+consider
+tuna
+napkin
+jelly
+delay |  
+| bip_39_word_new_line8 | slogan
+tower
+consider
+tuna
+napkin
+jelly
+delay
+umbrella |  
+| bip_39_word_new_line9 | slogan
+tower
+consider
+tuna
+napkin
+jelly
+delay
+umbrella
+soon |  
+| bip_39_word_space_0 | ['slogan', 'tower', 'consider', 'tuna', 'napkin', 'jelly', 'delay', 'umbrella', 'soon', 'popular', 'defy', 'actor'] |  
+| bip_39_word_space_1 | slogan |  
+| bip_39_word_space_10 | slogan tower consider tuna napkin jelly delay umbrella soon popular |  
+| bip_39_word_space_11 | slogan tower consider tuna napkin jelly delay umbrella soon popular defy |  
+| bip_39_word_space_12 | slogan tower consider tuna napkin jelly delay umbrella soon popular defy actor |  
+| bip_39_word_space_2 | slogan tower |  
+| bip_39_word_space_3 | slogan tower consider |  
+| bip_39_word_space_4 | slogan tower consider tuna |  
+| bip_39_word_space_5 | slogan tower consider tuna napkin |  
+| bip_39_word_space_6 | slogan tower consider tuna napkin jelly |  
+| bip_39_word_space_7 | slogan tower consider tuna napkin jelly delay |  
+| bip_39_word_space_8 | slogan tower consider tuna napkin jelly delay umbrella |  
+| bip_39_word_space_9 | slogan tower consider tuna napkin jelly delay umbrella soon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: buddy
+bip_39_word_new_br10: buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise
+bip_39_word_new_br11: buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise<br>erode
+bip_39_word_new_br12: buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer<br>demise<br>erode<br>arrest
+bip_39_word_new_br2: buddy<br>danger
+bip_39_word_new_br3: buddy<br>danger<br>dignity
+bip_39_word_new_br4: buddy<br>danger<br>dignity<br>minute
+bip_39_word_new_br5: buddy<br>danger<br>dignity<br>minute<br>permit
+bip_39_word_new_br6: buddy<br>danger<br>dignity<br>minute<br>permit<br>seat
+bip_39_word_new_br7: buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage
+bip_39_word_new_br8: buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent
+bip_39_word_new_br9: buddy<br>danger<br>dignity<br>minute<br>permit<br>seat<br>cage<br>silent<br>answer
+bip_39_word_new_line1: buddy
+bip_39_word_new_line10: 'buddy
+
+  danger
+
+  dignity
+
+  minute
+
+  permit
+
+  seat
+
+  cage
+
+  silent
+
+  answer
+
+  demise'
+bip_39_word_new_line11: 'buddy
+
+  danger
+
+  dignity
+
+  minute
+
+  permit
+
+  seat
+
+  cage
+
+  silent
+
+  answer
+
+  demise
+
+  erode'
+bip_39_word_new_line12: 'buddy
+
+  danger
+
+  dignity
+
+  minute
+
+  permit
+
+  seat
+
+  cage
+
+  silent
+
+  answer
+
+  demise
+
+  erode
+
+  arrest'
+bip_39_word_new_line2: 'buddy
+
+  danger'
+bip_39_word_new_line3: 'buddy
+
+  danger
+
+  dignity'
+bip_39_word_new_line4: 'buddy
+
+  danger
+
+  dignity
+
+  minute'
+bip_39_word_new_line5: 'buddy
+
+  danger
+
+  dignity
+
+  minute
+
+  permit'
+bip_39_word_new_line6: 'buddy
+
+  danger
+
+  dignity
+
+  minute
+
+  permit
+
+  seat'
+bip_39_word_new_line7: 'buddy
+
+  danger
+
+  dignity
+
+  minute
+
+  permit
+
+  seat
+
+  cage'
+bip_39_word_new_line8: 'buddy
+
+  danger
+
+  dignity
+
+  minute
+
+  permit
+
+  seat
+
+  cage
+
+  silent'
+bip_39_word_new_line9: 'buddy
+
+  danger
+
+  dignity
+
+  minute
+
+  permit
+
+  seat
+
+  cage
+
+  silent
+
+  answer'
+bip_39_word_space_0:
+- buddy
+- danger
+- dignity
+- minute
+- permit
+- seat
+- cage
+- silent
+- answer
+- demise
+- erode
+- arrest
+bip_39_word_space_1: buddy
+bip_39_word_space_10: buddy danger dignity minute permit seat cage silent answer demise
+bip_39_word_space_11: buddy danger dignity minute permit seat cage silent answer demise
+  erode
+bip_39_word_space_12: buddy danger dignity minute permit seat cage silent answer demise
+  erode arrest
+bip_39_word_space_2: buddy danger
+bip_39_word_space_3: buddy danger dignity
+bip_39_word_space_4: buddy danger dignity minute
+bip_39_word_space_5: buddy danger dignity minute permit
+bip_39_word_space_6: buddy danger dignity minute permit seat
+bip_39_word_space_7: buddy danger dignity minute permit seat cage
+bip_39_word_space_8: buddy danger dignity minute permit seat cage silent
+bip_39_word_space_9: buddy danger dignity minute permit seat cage silent answer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

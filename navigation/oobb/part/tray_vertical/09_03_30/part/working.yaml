@@ -1,3 +1,187 @@
+bip_39_word_new_br1: provide
+bip_39_word_new_br10: provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep
+bip_39_word_new_br11: provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep<br>own
+bip_39_word_new_br12: provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust<br>sleep<br>own<br>ask
+bip_39_word_new_br2: provide<br>cruel
+bip_39_word_new_br3: provide<br>cruel<br>ancient
+bip_39_word_new_br4: provide<br>cruel<br>ancient<br>rocket
+bip_39_word_new_br5: provide<br>cruel<br>ancient<br>rocket<br>become
+bip_39_word_new_br6: provide<br>cruel<br>ancient<br>rocket<br>become<br>van
+bip_39_word_new_br7: provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture
+bip_39_word_new_br8: provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column
+bip_39_word_new_br9: provide<br>cruel<br>ancient<br>rocket<br>become<br>van<br>culture<br>column<br>dust
+bip_39_word_new_line1: provide
+bip_39_word_new_line10: 'provide
+
+  cruel
+
+  ancient
+
+  rocket
+
+  become
+
+  van
+
+  culture
+
+  column
+
+  dust
+
+  sleep'
+bip_39_word_new_line11: 'provide
+
+  cruel
+
+  ancient
+
+  rocket
+
+  become
+
+  van
+
+  culture
+
+  column
+
+  dust
+
+  sleep
+
+  own'
+bip_39_word_new_line12: 'provide
+
+  cruel
+
+  ancient
+
+  rocket
+
+  become
+
+  van
+
+  culture
+
+  column
+
+  dust
+
+  sleep
+
+  own
+
+  ask'
+bip_39_word_new_line2: 'provide
+
+  cruel'
+bip_39_word_new_line3: 'provide
+
+  cruel
+
+  ancient'
+bip_39_word_new_line4: 'provide
+
+  cruel
+
+  ancient
+
+  rocket'
+bip_39_word_new_line5: 'provide
+
+  cruel
+
+  ancient
+
+  rocket
+
+  become'
+bip_39_word_new_line6: 'provide
+
+  cruel
+
+  ancient
+
+  rocket
+
+  become
+
+  van'
+bip_39_word_new_line7: 'provide
+
+  cruel
+
+  ancient
+
+  rocket
+
+  become
+
+  van
+
+  culture'
+bip_39_word_new_line8: 'provide
+
+  cruel
+
+  ancient
+
+  rocket
+
+  become
+
+  van
+
+  culture
+
+  column'
+bip_39_word_new_line9: 'provide
+
+  cruel
+
+  ancient
+
+  rocket
+
+  become
+
+  van
+
+  culture
+
+  column
+
+  dust'
+bip_39_word_space_0:
+- provide
+- cruel
+- ancient
+- rocket
+- become
+- van
+- culture
+- column
+- dust
+- sleep
+- own
+- ask
+bip_39_word_space_1: provide
+bip_39_word_space_10: provide cruel ancient rocket become van culture column dust
+  sleep
+bip_39_word_space_11: provide cruel ancient rocket become van culture column dust
+  sleep own
+bip_39_word_space_12: provide cruel ancient rocket become van culture column dust
+  sleep own ask
+bip_39_word_space_2: provide cruel
+bip_39_word_space_3: provide cruel ancient
+bip_39_word_space_4: provide cruel ancient rocket
+bip_39_word_space_5: provide cruel ancient rocket become
+bip_39_word_space_6: provide cruel ancient rocket become van
+bip_39_word_space_7: provide cruel ancient rocket become van culture
+bip_39_word_space_8: provide cruel ancient rocket become van culture column
+bip_39_word_space_9: provide cruel ancient rocket become van culture column dust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

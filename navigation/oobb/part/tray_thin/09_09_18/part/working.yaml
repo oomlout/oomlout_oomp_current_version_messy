@@ -1,3 +1,187 @@
+bip_39_word_new_br1: loan
+bip_39_word_new_br10: loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come
+bip_39_word_new_br11: loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come<br>trigger
+bip_39_word_new_br12: loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset<br>come<br>trigger<br>absorb
+bip_39_word_new_br2: loan<br>minute
+bip_39_word_new_br3: loan<br>minute<br>session
+bip_39_word_new_br4: loan<br>minute<br>session<br>buyer
+bip_39_word_new_br5: loan<br>minute<br>session<br>buyer<br>typical
+bip_39_word_new_br6: loan<br>minute<br>session<br>buyer<br>typical<br>dentist
+bip_39_word_new_br7: loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject
+bip_39_word_new_br8: loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic
+bip_39_word_new_br9: loan<br>minute<br>session<br>buyer<br>typical<br>dentist<br>reject<br>picnic<br>sunset
+bip_39_word_new_line1: loan
+bip_39_word_new_line10: 'loan
+
+  minute
+
+  session
+
+  buyer
+
+  typical
+
+  dentist
+
+  reject
+
+  picnic
+
+  sunset
+
+  come'
+bip_39_word_new_line11: 'loan
+
+  minute
+
+  session
+
+  buyer
+
+  typical
+
+  dentist
+
+  reject
+
+  picnic
+
+  sunset
+
+  come
+
+  trigger'
+bip_39_word_new_line12: 'loan
+
+  minute
+
+  session
+
+  buyer
+
+  typical
+
+  dentist
+
+  reject
+
+  picnic
+
+  sunset
+
+  come
+
+  trigger
+
+  absorb'
+bip_39_word_new_line2: 'loan
+
+  minute'
+bip_39_word_new_line3: 'loan
+
+  minute
+
+  session'
+bip_39_word_new_line4: 'loan
+
+  minute
+
+  session
+
+  buyer'
+bip_39_word_new_line5: 'loan
+
+  minute
+
+  session
+
+  buyer
+
+  typical'
+bip_39_word_new_line6: 'loan
+
+  minute
+
+  session
+
+  buyer
+
+  typical
+
+  dentist'
+bip_39_word_new_line7: 'loan
+
+  minute
+
+  session
+
+  buyer
+
+  typical
+
+  dentist
+
+  reject'
+bip_39_word_new_line8: 'loan
+
+  minute
+
+  session
+
+  buyer
+
+  typical
+
+  dentist
+
+  reject
+
+  picnic'
+bip_39_word_new_line9: 'loan
+
+  minute
+
+  session
+
+  buyer
+
+  typical
+
+  dentist
+
+  reject
+
+  picnic
+
+  sunset'
+bip_39_word_space_0:
+- loan
+- minute
+- session
+- buyer
+- typical
+- dentist
+- reject
+- picnic
+- sunset
+- come
+- trigger
+- absorb
+bip_39_word_space_1: loan
+bip_39_word_space_10: loan minute session buyer typical dentist reject picnic sunset
+  come
+bip_39_word_space_11: loan minute session buyer typical dentist reject picnic sunset
+  come trigger
+bip_39_word_space_12: loan minute session buyer typical dentist reject picnic sunset
+  come trigger absorb
+bip_39_word_space_2: loan minute
+bip_39_word_space_3: loan minute session
+bip_39_word_space_4: loan minute session buyer
+bip_39_word_space_5: loan minute session buyer typical
+bip_39_word_space_6: loan minute session buyer typical dentist
+bip_39_word_space_7: loan minute session buyer typical dentist reject
+bip_39_word_space_8: loan minute session buyer typical dentist reject picnic
+bip_39_word_space_9: loan minute session buyer typical dentist reject picnic sunset
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

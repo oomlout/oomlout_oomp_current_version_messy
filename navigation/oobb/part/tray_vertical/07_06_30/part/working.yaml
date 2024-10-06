@@ -1,3 +1,186 @@
+bip_39_word_new_br1: supply
+bip_39_word_new_br10: supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar
+bip_39_word_new_br11: supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar<br>elephant
+bip_39_word_new_br12: supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite<br>guitar<br>elephant<br>adapt
+bip_39_word_new_br2: supply<br>cactus
+bip_39_word_new_br3: supply<br>cactus<br>off
+bip_39_word_new_br4: supply<br>cactus<br>off<br>across
+bip_39_word_new_br5: supply<br>cactus<br>off<br>across<br>game
+bip_39_word_new_br6: supply<br>cactus<br>off<br>across<br>game<br>dune
+bip_39_word_new_br7: supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo
+bip_39_word_new_br8: supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure
+bip_39_word_new_br9: supply<br>cactus<br>off<br>across<br>game<br>dune<br>kangaroo<br>ensure<br>elite
+bip_39_word_new_line1: supply
+bip_39_word_new_line10: 'supply
+
+  cactus
+
+  off
+
+  across
+
+  game
+
+  dune
+
+  kangaroo
+
+  ensure
+
+  elite
+
+  guitar'
+bip_39_word_new_line11: 'supply
+
+  cactus
+
+  off
+
+  across
+
+  game
+
+  dune
+
+  kangaroo
+
+  ensure
+
+  elite
+
+  guitar
+
+  elephant'
+bip_39_word_new_line12: 'supply
+
+  cactus
+
+  off
+
+  across
+
+  game
+
+  dune
+
+  kangaroo
+
+  ensure
+
+  elite
+
+  guitar
+
+  elephant
+
+  adapt'
+bip_39_word_new_line2: 'supply
+
+  cactus'
+bip_39_word_new_line3: 'supply
+
+  cactus
+
+  off'
+bip_39_word_new_line4: 'supply
+
+  cactus
+
+  off
+
+  across'
+bip_39_word_new_line5: 'supply
+
+  cactus
+
+  off
+
+  across
+
+  game'
+bip_39_word_new_line6: 'supply
+
+  cactus
+
+  off
+
+  across
+
+  game
+
+  dune'
+bip_39_word_new_line7: 'supply
+
+  cactus
+
+  off
+
+  across
+
+  game
+
+  dune
+
+  kangaroo'
+bip_39_word_new_line8: 'supply
+
+  cactus
+
+  off
+
+  across
+
+  game
+
+  dune
+
+  kangaroo
+
+  ensure'
+bip_39_word_new_line9: 'supply
+
+  cactus
+
+  off
+
+  across
+
+  game
+
+  dune
+
+  kangaroo
+
+  ensure
+
+  elite'
+bip_39_word_space_0:
+- supply
+- cactus
+- 'off'
+- across
+- game
+- dune
+- kangaroo
+- ensure
+- elite
+- guitar
+- elephant
+- adapt
+bip_39_word_space_1: supply
+bip_39_word_space_10: supply cactus off across game dune kangaroo ensure elite guitar
+bip_39_word_space_11: supply cactus off across game dune kangaroo ensure elite guitar
+  elephant
+bip_39_word_space_12: supply cactus off across game dune kangaroo ensure elite guitar
+  elephant adapt
+bip_39_word_space_2: supply cactus
+bip_39_word_space_3: supply cactus off
+bip_39_word_space_4: supply cactus off across
+bip_39_word_space_5: supply cactus off across game
+bip_39_word_space_6: supply cactus off across game dune
+bip_39_word_space_7: supply cactus off across game dune kangaroo
+bip_39_word_space_8: supply cactus off across game dune kangaroo ensure
+bip_39_word_space_9: supply cactus off across game dune kangaroo ensure elite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

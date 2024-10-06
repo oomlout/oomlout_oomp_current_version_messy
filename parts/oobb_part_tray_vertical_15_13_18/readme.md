@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unveil ability
+  * bip 39 word 3: unveil ability buzz
+  * bip 39 word: unveil ability buzz frequent camp rough park scene level miracle hire achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unveil |  
+| bip_39_word_new_br10 | unveil<br>ability<br>buzz<br>frequent<br>camp<br>rough<br>park<br>scene<br>level<br>miracle |  
+| bip_39_word_new_br11 | unveil<br>ability<br>buzz<br>frequent<br>camp<br>rough<br>park<br>scene<br>level<br>miracle<br>hire |  
+| bip_39_word_new_br12 | unveil<br>ability<br>buzz<br>frequent<br>camp<br>rough<br>park<br>scene<br>level<br>miracle<br>hire<br>achieve |  
+| bip_39_word_new_br2 | unveil<br>ability |  
+| bip_39_word_new_br3 | unveil<br>ability<br>buzz |  
+| bip_39_word_new_br4 | unveil<br>ability<br>buzz<br>frequent |  
+| bip_39_word_new_br5 | unveil<br>ability<br>buzz<br>frequent<br>camp |  
+| bip_39_word_new_br6 | unveil<br>ability<br>buzz<br>frequent<br>camp<br>rough |  
+| bip_39_word_new_br7 | unveil<br>ability<br>buzz<br>frequent<br>camp<br>rough<br>park |  
+| bip_39_word_new_br8 | unveil<br>ability<br>buzz<br>frequent<br>camp<br>rough<br>park<br>scene |  
+| bip_39_word_new_br9 | unveil<br>ability<br>buzz<br>frequent<br>camp<br>rough<br>park<br>scene<br>level |  
+| bip_39_word_new_line1 | unveil |  
+| bip_39_word_new_line10 | unveil
+ability
+buzz
+frequent
+camp
+rough
+park
+scene
+level
+miracle |  
+| bip_39_word_new_line11 | unveil
+ability
+buzz
+frequent
+camp
+rough
+park
+scene
+level
+miracle
+hire |  
+| bip_39_word_new_line12 | unveil
+ability
+buzz
+frequent
+camp
+rough
+park
+scene
+level
+miracle
+hire
+achieve |  
+| bip_39_word_new_line2 | unveil
+ability |  
+| bip_39_word_new_line3 | unveil
+ability
+buzz |  
+| bip_39_word_new_line4 | unveil
+ability
+buzz
+frequent |  
+| bip_39_word_new_line5 | unveil
+ability
+buzz
+frequent
+camp |  
+| bip_39_word_new_line6 | unveil
+ability
+buzz
+frequent
+camp
+rough |  
+| bip_39_word_new_line7 | unveil
+ability
+buzz
+frequent
+camp
+rough
+park |  
+| bip_39_word_new_line8 | unveil
+ability
+buzz
+frequent
+camp
+rough
+park
+scene |  
+| bip_39_word_new_line9 | unveil
+ability
+buzz
+frequent
+camp
+rough
+park
+scene
+level |  
+| bip_39_word_space_0 | ['unveil', 'ability', 'buzz', 'frequent', 'camp', 'rough', 'park', 'scene', 'level', 'miracle', 'hire', 'achieve'] |  
+| bip_39_word_space_1 | unveil |  
+| bip_39_word_space_10 | unveil ability buzz frequent camp rough park scene level miracle |  
+| bip_39_word_space_11 | unveil ability buzz frequent camp rough park scene level miracle hire |  
+| bip_39_word_space_12 | unveil ability buzz frequent camp rough park scene level miracle hire achieve |  
+| bip_39_word_space_2 | unveil ability |  
+| bip_39_word_space_3 | unveil ability buzz |  
+| bip_39_word_space_4 | unveil ability buzz frequent |  
+| bip_39_word_space_5 | unveil ability buzz frequent camp |  
+| bip_39_word_space_6 | unveil ability buzz frequent camp rough |  
+| bip_39_word_space_7 | unveil ability buzz frequent camp rough park |  
+| bip_39_word_space_8 | unveil ability buzz frequent camp rough park scene |  
+| bip_39_word_space_9 | unveil ability buzz frequent camp rough park scene level |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

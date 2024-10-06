@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: protect advance
+  * bip 39 word 3: protect advance flee
+  * bip 39 word: protect advance flee jaguar valley build ramp raccoon invest goddess panic afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | protect |  
+| bip_39_word_new_br10 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess |  
+| bip_39_word_new_br11 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess<br>panic |  
+| bip_39_word_new_br12 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest<br>goddess<br>panic<br>afraid |  
+| bip_39_word_new_br2 | protect<br>advance |  
+| bip_39_word_new_br3 | protect<br>advance<br>flee |  
+| bip_39_word_new_br4 | protect<br>advance<br>flee<br>jaguar |  
+| bip_39_word_new_br5 | protect<br>advance<br>flee<br>jaguar<br>valley |  
+| bip_39_word_new_br6 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build |  
+| bip_39_word_new_br7 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp |  
+| bip_39_word_new_br8 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon |  
+| bip_39_word_new_br9 | protect<br>advance<br>flee<br>jaguar<br>valley<br>build<br>ramp<br>raccoon<br>invest |  
+| bip_39_word_new_line1 | protect |  
+| bip_39_word_new_line10 | protect
+advance
+flee
+jaguar
+valley
+build
+ramp
+raccoon
+invest
+goddess |  
+| bip_39_word_new_line11 | protect
+advance
+flee
+jaguar
+valley
+build
+ramp
+raccoon
+invest
+goddess
+panic |  
+| bip_39_word_new_line12 | protect
+advance
+flee
+jaguar
+valley
+build
+ramp
+raccoon
+invest
+goddess
+panic
+afraid |  
+| bip_39_word_new_line2 | protect
+advance |  
+| bip_39_word_new_line3 | protect
+advance
+flee |  
+| bip_39_word_new_line4 | protect
+advance
+flee
+jaguar |  
+| bip_39_word_new_line5 | protect
+advance
+flee
+jaguar
+valley |  
+| bip_39_word_new_line6 | protect
+advance
+flee
+jaguar
+valley
+build |  
+| bip_39_word_new_line7 | protect
+advance
+flee
+jaguar
+valley
+build
+ramp |  
+| bip_39_word_new_line8 | protect
+advance
+flee
+jaguar
+valley
+build
+ramp
+raccoon |  
+| bip_39_word_new_line9 | protect
+advance
+flee
+jaguar
+valley
+build
+ramp
+raccoon
+invest |  
+| bip_39_word_space_0 | ['protect', 'advance', 'flee', 'jaguar', 'valley', 'build', 'ramp', 'raccoon', 'invest', 'goddess', 'panic', 'afraid'] |  
+| bip_39_word_space_1 | protect |  
+| bip_39_word_space_10 | protect advance flee jaguar valley build ramp raccoon invest goddess |  
+| bip_39_word_space_11 | protect advance flee jaguar valley build ramp raccoon invest goddess panic |  
+| bip_39_word_space_12 | protect advance flee jaguar valley build ramp raccoon invest goddess panic afraid |  
+| bip_39_word_space_2 | protect advance |  
+| bip_39_word_space_3 | protect advance flee |  
+| bip_39_word_space_4 | protect advance flee jaguar |  
+| bip_39_word_space_5 | protect advance flee jaguar valley |  
+| bip_39_word_space_6 | protect advance flee jaguar valley build |  
+| bip_39_word_space_7 | protect advance flee jaguar valley build ramp |  
+| bip_39_word_space_8 | protect advance flee jaguar valley build ramp raccoon |  
+| bip_39_word_space_9 | protect advance flee jaguar valley build ramp raccoon invest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

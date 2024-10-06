@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glue brother
+  * bip 39 word 3: glue brother ride
+  * bip 39 word: glue brother ride kidney apple retreat demand direct slot organ evoke assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glue |  
+| bip_39_word_new_br10 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ |  
+| bip_39_word_new_br11 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke |  
+| bip_39_word_new_br12 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke<br>assist |  
+| bip_39_word_new_br2 | glue<br>brother |  
+| bip_39_word_new_br3 | glue<br>brother<br>ride |  
+| bip_39_word_new_br4 | glue<br>brother<br>ride<br>kidney |  
+| bip_39_word_new_br5 | glue<br>brother<br>ride<br>kidney<br>apple |  
+| bip_39_word_new_br6 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat |  
+| bip_39_word_new_br7 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand |  
+| bip_39_word_new_br8 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct |  
+| bip_39_word_new_br9 | glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot |  
+| bip_39_word_new_line1 | glue |  
+| bip_39_word_new_line10 | glue
+brother
+ride
+kidney
+apple
+retreat
+demand
+direct
+slot
+organ |  
+| bip_39_word_new_line11 | glue
+brother
+ride
+kidney
+apple
+retreat
+demand
+direct
+slot
+organ
+evoke |  
+| bip_39_word_new_line12 | glue
+brother
+ride
+kidney
+apple
+retreat
+demand
+direct
+slot
+organ
+evoke
+assist |  
+| bip_39_word_new_line2 | glue
+brother |  
+| bip_39_word_new_line3 | glue
+brother
+ride |  
+| bip_39_word_new_line4 | glue
+brother
+ride
+kidney |  
+| bip_39_word_new_line5 | glue
+brother
+ride
+kidney
+apple |  
+| bip_39_word_new_line6 | glue
+brother
+ride
+kidney
+apple
+retreat |  
+| bip_39_word_new_line7 | glue
+brother
+ride
+kidney
+apple
+retreat
+demand |  
+| bip_39_word_new_line8 | glue
+brother
+ride
+kidney
+apple
+retreat
+demand
+direct |  
+| bip_39_word_new_line9 | glue
+brother
+ride
+kidney
+apple
+retreat
+demand
+direct
+slot |  
+| bip_39_word_space_0 | ['glue', 'brother', 'ride', 'kidney', 'apple', 'retreat', 'demand', 'direct', 'slot', 'organ', 'evoke', 'assist'] |  
+| bip_39_word_space_1 | glue |  
+| bip_39_word_space_10 | glue brother ride kidney apple retreat demand direct slot organ |  
+| bip_39_word_space_11 | glue brother ride kidney apple retreat demand direct slot organ evoke |  
+| bip_39_word_space_12 | glue brother ride kidney apple retreat demand direct slot organ evoke assist |  
+| bip_39_word_space_2 | glue brother |  
+| bip_39_word_space_3 | glue brother ride |  
+| bip_39_word_space_4 | glue brother ride kidney |  
+| bip_39_word_space_5 | glue brother ride kidney apple |  
+| bip_39_word_space_6 | glue brother ride kidney apple retreat |  
+| bip_39_word_space_7 | glue brother ride kidney apple retreat demand |  
+| bip_39_word_space_8 | glue brother ride kidney apple retreat demand direct |  
+| bip_39_word_space_9 | glue brother ride kidney apple retreat demand direct slot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

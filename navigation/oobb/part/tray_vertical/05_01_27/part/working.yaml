@@ -1,3 +1,187 @@
+bip_39_word_new_br1: chest
+bip_39_word_new_br10: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum<br>obscure<br>december<br>treat<br>until
+bip_39_word_new_br11: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum<br>obscure<br>december<br>treat<br>until<br>penalty
+bip_39_word_new_br12: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum<br>obscure<br>december<br>treat<br>until<br>penalty<br>artist
+bip_39_word_new_br2: chest<br>endless
+bip_39_word_new_br3: chest<br>endless<br>habit
+bip_39_word_new_br4: chest<br>endless<br>habit<br>quiz
+bip_39_word_new_br5: chest<br>endless<br>habit<br>quiz<br>ready
+bip_39_word_new_br6: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum
+bip_39_word_new_br7: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum<br>obscure
+bip_39_word_new_br8: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum<br>obscure<br>december
+bip_39_word_new_br9: chest<br>endless<br>habit<br>quiz<br>ready<br>minimum<br>obscure<br>december<br>treat
+bip_39_word_new_line1: chest
+bip_39_word_new_line10: 'chest
+
+  endless
+
+  habit
+
+  quiz
+
+  ready
+
+  minimum
+
+  obscure
+
+  december
+
+  treat
+
+  until'
+bip_39_word_new_line11: 'chest
+
+  endless
+
+  habit
+
+  quiz
+
+  ready
+
+  minimum
+
+  obscure
+
+  december
+
+  treat
+
+  until
+
+  penalty'
+bip_39_word_new_line12: 'chest
+
+  endless
+
+  habit
+
+  quiz
+
+  ready
+
+  minimum
+
+  obscure
+
+  december
+
+  treat
+
+  until
+
+  penalty
+
+  artist'
+bip_39_word_new_line2: 'chest
+
+  endless'
+bip_39_word_new_line3: 'chest
+
+  endless
+
+  habit'
+bip_39_word_new_line4: 'chest
+
+  endless
+
+  habit
+
+  quiz'
+bip_39_word_new_line5: 'chest
+
+  endless
+
+  habit
+
+  quiz
+
+  ready'
+bip_39_word_new_line6: 'chest
+
+  endless
+
+  habit
+
+  quiz
+
+  ready
+
+  minimum'
+bip_39_word_new_line7: 'chest
+
+  endless
+
+  habit
+
+  quiz
+
+  ready
+
+  minimum
+
+  obscure'
+bip_39_word_new_line8: 'chest
+
+  endless
+
+  habit
+
+  quiz
+
+  ready
+
+  minimum
+
+  obscure
+
+  december'
+bip_39_word_new_line9: 'chest
+
+  endless
+
+  habit
+
+  quiz
+
+  ready
+
+  minimum
+
+  obscure
+
+  december
+
+  treat'
+bip_39_word_space_0:
+- chest
+- endless
+- habit
+- quiz
+- ready
+- minimum
+- obscure
+- december
+- treat
+- until
+- penalty
+- artist
+bip_39_word_space_1: chest
+bip_39_word_space_10: chest endless habit quiz ready minimum obscure december treat
+  until
+bip_39_word_space_11: chest endless habit quiz ready minimum obscure december treat
+  until penalty
+bip_39_word_space_12: chest endless habit quiz ready minimum obscure december treat
+  until penalty artist
+bip_39_word_space_2: chest endless
+bip_39_word_space_3: chest endless habit
+bip_39_word_space_4: chest endless habit quiz
+bip_39_word_space_5: chest endless habit quiz ready
+bip_39_word_space_6: chest endless habit quiz ready minimum
+bip_39_word_space_7: chest endless habit quiz ready minimum obscure
+bip_39_word_space_8: chest endless habit quiz ready minimum obscure december
+bip_39_word_space_9: chest endless habit quiz ready minimum obscure december treat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

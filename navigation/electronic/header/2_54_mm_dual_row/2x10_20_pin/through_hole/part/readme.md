@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hobby hard
+  * bip 39 word 3: hobby hard resemble
+  * bip 39 word: hobby hard resemble lake nuclear sorry session fun toy math staff act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hobby |  
+| bip_39_word_new_br10 | hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy<br>math |  
+| bip_39_word_new_br11 | hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy<br>math<br>staff |  
+| bip_39_word_new_br12 | hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy<br>math<br>staff<br>act |  
+| bip_39_word_new_br2 | hobby<br>hard |  
+| bip_39_word_new_br3 | hobby<br>hard<br>resemble |  
+| bip_39_word_new_br4 | hobby<br>hard<br>resemble<br>lake |  
+| bip_39_word_new_br5 | hobby<br>hard<br>resemble<br>lake<br>nuclear |  
+| bip_39_word_new_br6 | hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry |  
+| bip_39_word_new_br7 | hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session |  
+| bip_39_word_new_br8 | hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun |  
+| bip_39_word_new_br9 | hobby<br>hard<br>resemble<br>lake<br>nuclear<br>sorry<br>session<br>fun<br>toy |  
+| bip_39_word_new_line1 | hobby |  
+| bip_39_word_new_line10 | hobby
+hard
+resemble
+lake
+nuclear
+sorry
+session
+fun
+toy
+math |  
+| bip_39_word_new_line11 | hobby
+hard
+resemble
+lake
+nuclear
+sorry
+session
+fun
+toy
+math
+staff |  
+| bip_39_word_new_line12 | hobby
+hard
+resemble
+lake
+nuclear
+sorry
+session
+fun
+toy
+math
+staff
+act |  
+| bip_39_word_new_line2 | hobby
+hard |  
+| bip_39_word_new_line3 | hobby
+hard
+resemble |  
+| bip_39_word_new_line4 | hobby
+hard
+resemble
+lake |  
+| bip_39_word_new_line5 | hobby
+hard
+resemble
+lake
+nuclear |  
+| bip_39_word_new_line6 | hobby
+hard
+resemble
+lake
+nuclear
+sorry |  
+| bip_39_word_new_line7 | hobby
+hard
+resemble
+lake
+nuclear
+sorry
+session |  
+| bip_39_word_new_line8 | hobby
+hard
+resemble
+lake
+nuclear
+sorry
+session
+fun |  
+| bip_39_word_new_line9 | hobby
+hard
+resemble
+lake
+nuclear
+sorry
+session
+fun
+toy |  
+| bip_39_word_space_0 | ['hobby', 'hard', 'resemble', 'lake', 'nuclear', 'sorry', 'session', 'fun', 'toy', 'math', 'staff', 'act'] |  
+| bip_39_word_space_1 | hobby |  
+| bip_39_word_space_10 | hobby hard resemble lake nuclear sorry session fun toy math |  
+| bip_39_word_space_11 | hobby hard resemble lake nuclear sorry session fun toy math staff |  
+| bip_39_word_space_12 | hobby hard resemble lake nuclear sorry session fun toy math staff act |  
+| bip_39_word_space_2 | hobby hard |  
+| bip_39_word_space_3 | hobby hard resemble |  
+| bip_39_word_space_4 | hobby hard resemble lake |  
+| bip_39_word_space_5 | hobby hard resemble lake nuclear |  
+| bip_39_word_space_6 | hobby hard resemble lake nuclear sorry |  
+| bip_39_word_space_7 | hobby hard resemble lake nuclear sorry session |  
+| bip_39_word_space_8 | hobby hard resemble lake nuclear sorry session fun |  
+| bip_39_word_space_9 | hobby hard resemble lake nuclear sorry session fun toy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: next
+bip_39_word_new_br10: next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct
+bip_39_word_new_br11: next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct<br>artefact
+bip_39_word_new_br12: next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect<br>correct<br>artefact<br>antique
+bip_39_word_new_br2: next<br>camera
+bip_39_word_new_br3: next<br>camera<br>focus
+bip_39_word_new_br4: next<br>camera<br>focus<br>cabin
+bip_39_word_new_br5: next<br>camera<br>focus<br>cabin<br>vault
+bip_39_word_new_br6: next<br>camera<br>focus<br>cabin<br>vault<br>hand
+bip_39_word_new_br7: next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder
+bip_39_word_new_br8: next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas
+bip_39_word_new_br9: next<br>camera<br>focus<br>cabin<br>vault<br>hand<br>ladder<br>canvas<br>insect
+bip_39_word_new_line1: next
+bip_39_word_new_line10: 'next
+
+  camera
+
+  focus
+
+  cabin
+
+  vault
+
+  hand
+
+  ladder
+
+  canvas
+
+  insect
+
+  correct'
+bip_39_word_new_line11: 'next
+
+  camera
+
+  focus
+
+  cabin
+
+  vault
+
+  hand
+
+  ladder
+
+  canvas
+
+  insect
+
+  correct
+
+  artefact'
+bip_39_word_new_line12: 'next
+
+  camera
+
+  focus
+
+  cabin
+
+  vault
+
+  hand
+
+  ladder
+
+  canvas
+
+  insect
+
+  correct
+
+  artefact
+
+  antique'
+bip_39_word_new_line2: 'next
+
+  camera'
+bip_39_word_new_line3: 'next
+
+  camera
+
+  focus'
+bip_39_word_new_line4: 'next
+
+  camera
+
+  focus
+
+  cabin'
+bip_39_word_new_line5: 'next
+
+  camera
+
+  focus
+
+  cabin
+
+  vault'
+bip_39_word_new_line6: 'next
+
+  camera
+
+  focus
+
+  cabin
+
+  vault
+
+  hand'
+bip_39_word_new_line7: 'next
+
+  camera
+
+  focus
+
+  cabin
+
+  vault
+
+  hand
+
+  ladder'
+bip_39_word_new_line8: 'next
+
+  camera
+
+  focus
+
+  cabin
+
+  vault
+
+  hand
+
+  ladder
+
+  canvas'
+bip_39_word_new_line9: 'next
+
+  camera
+
+  focus
+
+  cabin
+
+  vault
+
+  hand
+
+  ladder
+
+  canvas
+
+  insect'
+bip_39_word_space_0:
+- next
+- camera
+- focus
+- cabin
+- vault
+- hand
+- ladder
+- canvas
+- insect
+- correct
+- artefact
+- antique
+bip_39_word_space_1: next
+bip_39_word_space_10: next camera focus cabin vault hand ladder canvas insect correct
+bip_39_word_space_11: next camera focus cabin vault hand ladder canvas insect correct
+  artefact
+bip_39_word_space_12: next camera focus cabin vault hand ladder canvas insect correct
+  artefact antique
+bip_39_word_space_2: next camera
+bip_39_word_space_3: next camera focus
+bip_39_word_space_4: next camera focus cabin
+bip_39_word_space_5: next camera focus cabin vault
+bip_39_word_space_6: next camera focus cabin vault hand
+bip_39_word_space_7: next camera focus cabin vault hand ladder
+bip_39_word_space_8: next camera focus cabin vault hand ladder canvas
+bip_39_word_space_9: next camera focus cabin vault hand ladder canvas insect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

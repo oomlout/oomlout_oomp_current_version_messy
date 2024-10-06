@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decline swamp
+  * bip 39 word 3: decline swamp toast
+  * bip 39 word: decline swamp toast scene tooth hope sea book cover caution gesture amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decline |  
+| bip_39_word_new_br10 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution |  
+| bip_39_word_new_br11 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution<br>gesture |  
+| bip_39_word_new_br12 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover<br>caution<br>gesture<br>amused |  
+| bip_39_word_new_br2 | decline<br>swamp |  
+| bip_39_word_new_br3 | decline<br>swamp<br>toast |  
+| bip_39_word_new_br4 | decline<br>swamp<br>toast<br>scene |  
+| bip_39_word_new_br5 | decline<br>swamp<br>toast<br>scene<br>tooth |  
+| bip_39_word_new_br6 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope |  
+| bip_39_word_new_br7 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea |  
+| bip_39_word_new_br8 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book |  
+| bip_39_word_new_br9 | decline<br>swamp<br>toast<br>scene<br>tooth<br>hope<br>sea<br>book<br>cover |  
+| bip_39_word_new_line1 | decline |  
+| bip_39_word_new_line10 | decline
+swamp
+toast
+scene
+tooth
+hope
+sea
+book
+cover
+caution |  
+| bip_39_word_new_line11 | decline
+swamp
+toast
+scene
+tooth
+hope
+sea
+book
+cover
+caution
+gesture |  
+| bip_39_word_new_line12 | decline
+swamp
+toast
+scene
+tooth
+hope
+sea
+book
+cover
+caution
+gesture
+amused |  
+| bip_39_word_new_line2 | decline
+swamp |  
+| bip_39_word_new_line3 | decline
+swamp
+toast |  
+| bip_39_word_new_line4 | decline
+swamp
+toast
+scene |  
+| bip_39_word_new_line5 | decline
+swamp
+toast
+scene
+tooth |  
+| bip_39_word_new_line6 | decline
+swamp
+toast
+scene
+tooth
+hope |  
+| bip_39_word_new_line7 | decline
+swamp
+toast
+scene
+tooth
+hope
+sea |  
+| bip_39_word_new_line8 | decline
+swamp
+toast
+scene
+tooth
+hope
+sea
+book |  
+| bip_39_word_new_line9 | decline
+swamp
+toast
+scene
+tooth
+hope
+sea
+book
+cover |  
+| bip_39_word_space_0 | ['decline', 'swamp', 'toast', 'scene', 'tooth', 'hope', 'sea', 'book', 'cover', 'caution', 'gesture', 'amused'] |  
+| bip_39_word_space_1 | decline |  
+| bip_39_word_space_10 | decline swamp toast scene tooth hope sea book cover caution |  
+| bip_39_word_space_11 | decline swamp toast scene tooth hope sea book cover caution gesture |  
+| bip_39_word_space_12 | decline swamp toast scene tooth hope sea book cover caution gesture amused |  
+| bip_39_word_space_2 | decline swamp |  
+| bip_39_word_space_3 | decline swamp toast |  
+| bip_39_word_space_4 | decline swamp toast scene |  
+| bip_39_word_space_5 | decline swamp toast scene tooth |  
+| bip_39_word_space_6 | decline swamp toast scene tooth hope |  
+| bip_39_word_space_7 | decline swamp toast scene tooth hope sea |  
+| bip_39_word_space_8 | decline swamp toast scene tooth hope sea book |  
+| bip_39_word_space_9 | decline swamp toast scene tooth hope sea book cover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

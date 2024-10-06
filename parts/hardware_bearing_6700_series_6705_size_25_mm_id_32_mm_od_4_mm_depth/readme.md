@@ -20,6 +20,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: capable ticket
+  * bip 39 word 3: capable ticket ordinary
+  * bip 39 word: capable ticket ordinary summer pool little almost place okay edit asthma ahead
 
 ### other_codes
 * short_code: br6705
@@ -31,6 +34,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | capable |  
+| bip_39_word_new_br10 | capable<br>ticket<br>ordinary<br>summer<br>pool<br>little<br>almost<br>place<br>okay<br>edit |  
+| bip_39_word_new_br11 | capable<br>ticket<br>ordinary<br>summer<br>pool<br>little<br>almost<br>place<br>okay<br>edit<br>asthma |  
+| bip_39_word_new_br12 | capable<br>ticket<br>ordinary<br>summer<br>pool<br>little<br>almost<br>place<br>okay<br>edit<br>asthma<br>ahead |  
+| bip_39_word_new_br2 | capable<br>ticket |  
+| bip_39_word_new_br3 | capable<br>ticket<br>ordinary |  
+| bip_39_word_new_br4 | capable<br>ticket<br>ordinary<br>summer |  
+| bip_39_word_new_br5 | capable<br>ticket<br>ordinary<br>summer<br>pool |  
+| bip_39_word_new_br6 | capable<br>ticket<br>ordinary<br>summer<br>pool<br>little |  
+| bip_39_word_new_br7 | capable<br>ticket<br>ordinary<br>summer<br>pool<br>little<br>almost |  
+| bip_39_word_new_br8 | capable<br>ticket<br>ordinary<br>summer<br>pool<br>little<br>almost<br>place |  
+| bip_39_word_new_br9 | capable<br>ticket<br>ordinary<br>summer<br>pool<br>little<br>almost<br>place<br>okay |  
+| bip_39_word_new_line1 | capable |  
+| bip_39_word_new_line10 | capable
+ticket
+ordinary
+summer
+pool
+little
+almost
+place
+okay
+edit |  
+| bip_39_word_new_line11 | capable
+ticket
+ordinary
+summer
+pool
+little
+almost
+place
+okay
+edit
+asthma |  
+| bip_39_word_new_line12 | capable
+ticket
+ordinary
+summer
+pool
+little
+almost
+place
+okay
+edit
+asthma
+ahead |  
+| bip_39_word_new_line2 | capable
+ticket |  
+| bip_39_word_new_line3 | capable
+ticket
+ordinary |  
+| bip_39_word_new_line4 | capable
+ticket
+ordinary
+summer |  
+| bip_39_word_new_line5 | capable
+ticket
+ordinary
+summer
+pool |  
+| bip_39_word_new_line6 | capable
+ticket
+ordinary
+summer
+pool
+little |  
+| bip_39_word_new_line7 | capable
+ticket
+ordinary
+summer
+pool
+little
+almost |  
+| bip_39_word_new_line8 | capable
+ticket
+ordinary
+summer
+pool
+little
+almost
+place |  
+| bip_39_word_new_line9 | capable
+ticket
+ordinary
+summer
+pool
+little
+almost
+place
+okay |  
+| bip_39_word_space_0 | ['capable', 'ticket', 'ordinary', 'summer', 'pool', 'little', 'almost', 'place', 'okay', 'edit', 'asthma', 'ahead'] |  
+| bip_39_word_space_1 | capable |  
+| bip_39_word_space_10 | capable ticket ordinary summer pool little almost place okay edit |  
+| bip_39_word_space_11 | capable ticket ordinary summer pool little almost place okay edit asthma |  
+| bip_39_word_space_12 | capable ticket ordinary summer pool little almost place okay edit asthma ahead |  
+| bip_39_word_space_2 | capable ticket |  
+| bip_39_word_space_3 | capable ticket ordinary |  
+| bip_39_word_space_4 | capable ticket ordinary summer |  
+| bip_39_word_space_5 | capable ticket ordinary summer pool |  
+| bip_39_word_space_6 | capable ticket ordinary summer pool little |  
+| bip_39_word_space_7 | capable ticket ordinary summer pool little almost |  
+| bip_39_word_space_8 | capable ticket ordinary summer pool little almost place |  
+| bip_39_word_space_9 | capable ticket ordinary summer pool little almost place okay |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

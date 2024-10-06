@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: evoke couple
+  * bip 39 word 3: evoke couple rare
+  * bip 39 word: evoke couple rare face awesome click thought mosquito cloth gun neither artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | evoke |  
+| bip_39_word_new_br10 | evoke<br>couple<br>rare<br>face<br>awesome<br>click<br>thought<br>mosquito<br>cloth<br>gun |  
+| bip_39_word_new_br11 | evoke<br>couple<br>rare<br>face<br>awesome<br>click<br>thought<br>mosquito<br>cloth<br>gun<br>neither |  
+| bip_39_word_new_br12 | evoke<br>couple<br>rare<br>face<br>awesome<br>click<br>thought<br>mosquito<br>cloth<br>gun<br>neither<br>artefact |  
+| bip_39_word_new_br2 | evoke<br>couple |  
+| bip_39_word_new_br3 | evoke<br>couple<br>rare |  
+| bip_39_word_new_br4 | evoke<br>couple<br>rare<br>face |  
+| bip_39_word_new_br5 | evoke<br>couple<br>rare<br>face<br>awesome |  
+| bip_39_word_new_br6 | evoke<br>couple<br>rare<br>face<br>awesome<br>click |  
+| bip_39_word_new_br7 | evoke<br>couple<br>rare<br>face<br>awesome<br>click<br>thought |  
+| bip_39_word_new_br8 | evoke<br>couple<br>rare<br>face<br>awesome<br>click<br>thought<br>mosquito |  
+| bip_39_word_new_br9 | evoke<br>couple<br>rare<br>face<br>awesome<br>click<br>thought<br>mosquito<br>cloth |  
+| bip_39_word_new_line1 | evoke |  
+| bip_39_word_new_line10 | evoke
+couple
+rare
+face
+awesome
+click
+thought
+mosquito
+cloth
+gun |  
+| bip_39_word_new_line11 | evoke
+couple
+rare
+face
+awesome
+click
+thought
+mosquito
+cloth
+gun
+neither |  
+| bip_39_word_new_line12 | evoke
+couple
+rare
+face
+awesome
+click
+thought
+mosquito
+cloth
+gun
+neither
+artefact |  
+| bip_39_word_new_line2 | evoke
+couple |  
+| bip_39_word_new_line3 | evoke
+couple
+rare |  
+| bip_39_word_new_line4 | evoke
+couple
+rare
+face |  
+| bip_39_word_new_line5 | evoke
+couple
+rare
+face
+awesome |  
+| bip_39_word_new_line6 | evoke
+couple
+rare
+face
+awesome
+click |  
+| bip_39_word_new_line7 | evoke
+couple
+rare
+face
+awesome
+click
+thought |  
+| bip_39_word_new_line8 | evoke
+couple
+rare
+face
+awesome
+click
+thought
+mosquito |  
+| bip_39_word_new_line9 | evoke
+couple
+rare
+face
+awesome
+click
+thought
+mosquito
+cloth |  
+| bip_39_word_space_0 | ['evoke', 'couple', 'rare', 'face', 'awesome', 'click', 'thought', 'mosquito', 'cloth', 'gun', 'neither', 'artefact'] |  
+| bip_39_word_space_1 | evoke |  
+| bip_39_word_space_10 | evoke couple rare face awesome click thought mosquito cloth gun |  
+| bip_39_word_space_11 | evoke couple rare face awesome click thought mosquito cloth gun neither |  
+| bip_39_word_space_12 | evoke couple rare face awesome click thought mosquito cloth gun neither artefact |  
+| bip_39_word_space_2 | evoke couple |  
+| bip_39_word_space_3 | evoke couple rare |  
+| bip_39_word_space_4 | evoke couple rare face |  
+| bip_39_word_space_5 | evoke couple rare face awesome |  
+| bip_39_word_space_6 | evoke couple rare face awesome click |  
+| bip_39_word_space_7 | evoke couple rare face awesome click thought |  
+| bip_39_word_space_8 | evoke couple rare face awesome click thought mosquito |  
+| bip_39_word_space_9 | evoke couple rare face awesome click thought mosquito cloth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

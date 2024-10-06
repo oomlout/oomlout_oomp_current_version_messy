@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: old name
+  * bip 39 word 3: old name funny
+  * bip 39 word: old name funny wing make awesome trap clock food entry satisfy actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | old |  
+| bip_39_word_new_br10 | old<br>name<br>funny<br>wing<br>make<br>awesome<br>trap<br>clock<br>food<br>entry |  
+| bip_39_word_new_br11 | old<br>name<br>funny<br>wing<br>make<br>awesome<br>trap<br>clock<br>food<br>entry<br>satisfy |  
+| bip_39_word_new_br12 | old<br>name<br>funny<br>wing<br>make<br>awesome<br>trap<br>clock<br>food<br>entry<br>satisfy<br>actress |  
+| bip_39_word_new_br2 | old<br>name |  
+| bip_39_word_new_br3 | old<br>name<br>funny |  
+| bip_39_word_new_br4 | old<br>name<br>funny<br>wing |  
+| bip_39_word_new_br5 | old<br>name<br>funny<br>wing<br>make |  
+| bip_39_word_new_br6 | old<br>name<br>funny<br>wing<br>make<br>awesome |  
+| bip_39_word_new_br7 | old<br>name<br>funny<br>wing<br>make<br>awesome<br>trap |  
+| bip_39_word_new_br8 | old<br>name<br>funny<br>wing<br>make<br>awesome<br>trap<br>clock |  
+| bip_39_word_new_br9 | old<br>name<br>funny<br>wing<br>make<br>awesome<br>trap<br>clock<br>food |  
+| bip_39_word_new_line1 | old |  
+| bip_39_word_new_line10 | old
+name
+funny
+wing
+make
+awesome
+trap
+clock
+food
+entry |  
+| bip_39_word_new_line11 | old
+name
+funny
+wing
+make
+awesome
+trap
+clock
+food
+entry
+satisfy |  
+| bip_39_word_new_line12 | old
+name
+funny
+wing
+make
+awesome
+trap
+clock
+food
+entry
+satisfy
+actress |  
+| bip_39_word_new_line2 | old
+name |  
+| bip_39_word_new_line3 | old
+name
+funny |  
+| bip_39_word_new_line4 | old
+name
+funny
+wing |  
+| bip_39_word_new_line5 | old
+name
+funny
+wing
+make |  
+| bip_39_word_new_line6 | old
+name
+funny
+wing
+make
+awesome |  
+| bip_39_word_new_line7 | old
+name
+funny
+wing
+make
+awesome
+trap |  
+| bip_39_word_new_line8 | old
+name
+funny
+wing
+make
+awesome
+trap
+clock |  
+| bip_39_word_new_line9 | old
+name
+funny
+wing
+make
+awesome
+trap
+clock
+food |  
+| bip_39_word_space_0 | ['old', 'name', 'funny', 'wing', 'make', 'awesome', 'trap', 'clock', 'food', 'entry', 'satisfy', 'actress'] |  
+| bip_39_word_space_1 | old |  
+| bip_39_word_space_10 | old name funny wing make awesome trap clock food entry |  
+| bip_39_word_space_11 | old name funny wing make awesome trap clock food entry satisfy |  
+| bip_39_word_space_12 | old name funny wing make awesome trap clock food entry satisfy actress |  
+| bip_39_word_space_2 | old name |  
+| bip_39_word_space_3 | old name funny |  
+| bip_39_word_space_4 | old name funny wing |  
+| bip_39_word_space_5 | old name funny wing make |  
+| bip_39_word_space_6 | old name funny wing make awesome |  
+| bip_39_word_space_7 | old name funny wing make awesome trap |  
+| bip_39_word_space_8 | old name funny wing make awesome trap clock |  
+| bip_39_word_space_9 | old name funny wing make awesome trap clock food |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

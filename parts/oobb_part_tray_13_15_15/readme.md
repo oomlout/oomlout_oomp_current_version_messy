@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: miracle version
+  * bip 39 word 3: miracle version peanut
+  * bip 39 word: miracle version peanut sibling dress ability drop scheme tissue quote neck alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | miracle |  
+| bip_39_word_new_br10 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability<br>drop<br>scheme<br>tissue<br>quote |  
+| bip_39_word_new_br11 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability<br>drop<br>scheme<br>tissue<br>quote<br>neck |  
+| bip_39_word_new_br12 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability<br>drop<br>scheme<br>tissue<br>quote<br>neck<br>alone |  
+| bip_39_word_new_br2 | miracle<br>version |  
+| bip_39_word_new_br3 | miracle<br>version<br>peanut |  
+| bip_39_word_new_br4 | miracle<br>version<br>peanut<br>sibling |  
+| bip_39_word_new_br5 | miracle<br>version<br>peanut<br>sibling<br>dress |  
+| bip_39_word_new_br6 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability |  
+| bip_39_word_new_br7 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability<br>drop |  
+| bip_39_word_new_br8 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability<br>drop<br>scheme |  
+| bip_39_word_new_br9 | miracle<br>version<br>peanut<br>sibling<br>dress<br>ability<br>drop<br>scheme<br>tissue |  
+| bip_39_word_new_line1 | miracle |  
+| bip_39_word_new_line10 | miracle
+version
+peanut
+sibling
+dress
+ability
+drop
+scheme
+tissue
+quote |  
+| bip_39_word_new_line11 | miracle
+version
+peanut
+sibling
+dress
+ability
+drop
+scheme
+tissue
+quote
+neck |  
+| bip_39_word_new_line12 | miracle
+version
+peanut
+sibling
+dress
+ability
+drop
+scheme
+tissue
+quote
+neck
+alone |  
+| bip_39_word_new_line2 | miracle
+version |  
+| bip_39_word_new_line3 | miracle
+version
+peanut |  
+| bip_39_word_new_line4 | miracle
+version
+peanut
+sibling |  
+| bip_39_word_new_line5 | miracle
+version
+peanut
+sibling
+dress |  
+| bip_39_word_new_line6 | miracle
+version
+peanut
+sibling
+dress
+ability |  
+| bip_39_word_new_line7 | miracle
+version
+peanut
+sibling
+dress
+ability
+drop |  
+| bip_39_word_new_line8 | miracle
+version
+peanut
+sibling
+dress
+ability
+drop
+scheme |  
+| bip_39_word_new_line9 | miracle
+version
+peanut
+sibling
+dress
+ability
+drop
+scheme
+tissue |  
+| bip_39_word_space_0 | ['miracle', 'version', 'peanut', 'sibling', 'dress', 'ability', 'drop', 'scheme', 'tissue', 'quote', 'neck', 'alone'] |  
+| bip_39_word_space_1 | miracle |  
+| bip_39_word_space_10 | miracle version peanut sibling dress ability drop scheme tissue quote |  
+| bip_39_word_space_11 | miracle version peanut sibling dress ability drop scheme tissue quote neck |  
+| bip_39_word_space_12 | miracle version peanut sibling dress ability drop scheme tissue quote neck alone |  
+| bip_39_word_space_2 | miracle version |  
+| bip_39_word_space_3 | miracle version peanut |  
+| bip_39_word_space_4 | miracle version peanut sibling |  
+| bip_39_word_space_5 | miracle version peanut sibling dress |  
+| bip_39_word_space_6 | miracle version peanut sibling dress ability |  
+| bip_39_word_space_7 | miracle version peanut sibling dress ability drop |  
+| bip_39_word_space_8 | miracle version peanut sibling dress ability drop scheme |  
+| bip_39_word_space_9 | miracle version peanut sibling dress ability drop scheme tissue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

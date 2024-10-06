@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spice act
+  * bip 39 word 3: spice act unveil
+  * bip 39 word: spice act unveil grab disease famous erode draft response forward alert among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spice |  
+| bip_39_word_new_br10 | spice<br>act<br>unveil<br>grab<br>disease<br>famous<br>erode<br>draft<br>response<br>forward |  
+| bip_39_word_new_br11 | spice<br>act<br>unveil<br>grab<br>disease<br>famous<br>erode<br>draft<br>response<br>forward<br>alert |  
+| bip_39_word_new_br12 | spice<br>act<br>unveil<br>grab<br>disease<br>famous<br>erode<br>draft<br>response<br>forward<br>alert<br>among |  
+| bip_39_word_new_br2 | spice<br>act |  
+| bip_39_word_new_br3 | spice<br>act<br>unveil |  
+| bip_39_word_new_br4 | spice<br>act<br>unveil<br>grab |  
+| bip_39_word_new_br5 | spice<br>act<br>unveil<br>grab<br>disease |  
+| bip_39_word_new_br6 | spice<br>act<br>unveil<br>grab<br>disease<br>famous |  
+| bip_39_word_new_br7 | spice<br>act<br>unveil<br>grab<br>disease<br>famous<br>erode |  
+| bip_39_word_new_br8 | spice<br>act<br>unveil<br>grab<br>disease<br>famous<br>erode<br>draft |  
+| bip_39_word_new_br9 | spice<br>act<br>unveil<br>grab<br>disease<br>famous<br>erode<br>draft<br>response |  
+| bip_39_word_new_line1 | spice |  
+| bip_39_word_new_line10 | spice
+act
+unveil
+grab
+disease
+famous
+erode
+draft
+response
+forward |  
+| bip_39_word_new_line11 | spice
+act
+unveil
+grab
+disease
+famous
+erode
+draft
+response
+forward
+alert |  
+| bip_39_word_new_line12 | spice
+act
+unveil
+grab
+disease
+famous
+erode
+draft
+response
+forward
+alert
+among |  
+| bip_39_word_new_line2 | spice
+act |  
+| bip_39_word_new_line3 | spice
+act
+unveil |  
+| bip_39_word_new_line4 | spice
+act
+unveil
+grab |  
+| bip_39_word_new_line5 | spice
+act
+unveil
+grab
+disease |  
+| bip_39_word_new_line6 | spice
+act
+unveil
+grab
+disease
+famous |  
+| bip_39_word_new_line7 | spice
+act
+unveil
+grab
+disease
+famous
+erode |  
+| bip_39_word_new_line8 | spice
+act
+unveil
+grab
+disease
+famous
+erode
+draft |  
+| bip_39_word_new_line9 | spice
+act
+unveil
+grab
+disease
+famous
+erode
+draft
+response |  
+| bip_39_word_space_0 | ['spice', 'act', 'unveil', 'grab', 'disease', 'famous', 'erode', 'draft', 'response', 'forward', 'alert', 'among'] |  
+| bip_39_word_space_1 | spice |  
+| bip_39_word_space_10 | spice act unveil grab disease famous erode draft response forward |  
+| bip_39_word_space_11 | spice act unveil grab disease famous erode draft response forward alert |  
+| bip_39_word_space_12 | spice act unveil grab disease famous erode draft response forward alert among |  
+| bip_39_word_space_2 | spice act |  
+| bip_39_word_space_3 | spice act unveil |  
+| bip_39_word_space_4 | spice act unveil grab |  
+| bip_39_word_space_5 | spice act unveil grab disease |  
+| bip_39_word_space_6 | spice act unveil grab disease famous |  
+| bip_39_word_space_7 | spice act unveil grab disease famous erode |  
+| bip_39_word_space_8 | spice act unveil grab disease famous erode draft |  
+| bip_39_word_space_9 | spice act unveil grab disease famous erode draft response |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

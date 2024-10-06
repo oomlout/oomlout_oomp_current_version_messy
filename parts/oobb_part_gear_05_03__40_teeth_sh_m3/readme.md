@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: apple fine
+  * bip 39 word 3: apple fine opinion
+  * bip 39 word: apple fine opinion crisp market repair envelope danger old follow jelly aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | apple |  
+| bip_39_word_new_br10 | apple<br>fine<br>opinion<br>crisp<br>market<br>repair<br>envelope<br>danger<br>old<br>follow |  
+| bip_39_word_new_br11 | apple<br>fine<br>opinion<br>crisp<br>market<br>repair<br>envelope<br>danger<br>old<br>follow<br>jelly |  
+| bip_39_word_new_br12 | apple<br>fine<br>opinion<br>crisp<br>market<br>repair<br>envelope<br>danger<br>old<br>follow<br>jelly<br>aspect |  
+| bip_39_word_new_br2 | apple<br>fine |  
+| bip_39_word_new_br3 | apple<br>fine<br>opinion |  
+| bip_39_word_new_br4 | apple<br>fine<br>opinion<br>crisp |  
+| bip_39_word_new_br5 | apple<br>fine<br>opinion<br>crisp<br>market |  
+| bip_39_word_new_br6 | apple<br>fine<br>opinion<br>crisp<br>market<br>repair |  
+| bip_39_word_new_br7 | apple<br>fine<br>opinion<br>crisp<br>market<br>repair<br>envelope |  
+| bip_39_word_new_br8 | apple<br>fine<br>opinion<br>crisp<br>market<br>repair<br>envelope<br>danger |  
+| bip_39_word_new_br9 | apple<br>fine<br>opinion<br>crisp<br>market<br>repair<br>envelope<br>danger<br>old |  
+| bip_39_word_new_line1 | apple |  
+| bip_39_word_new_line10 | apple
+fine
+opinion
+crisp
+market
+repair
+envelope
+danger
+old
+follow |  
+| bip_39_word_new_line11 | apple
+fine
+opinion
+crisp
+market
+repair
+envelope
+danger
+old
+follow
+jelly |  
+| bip_39_word_new_line12 | apple
+fine
+opinion
+crisp
+market
+repair
+envelope
+danger
+old
+follow
+jelly
+aspect |  
+| bip_39_word_new_line2 | apple
+fine |  
+| bip_39_word_new_line3 | apple
+fine
+opinion |  
+| bip_39_word_new_line4 | apple
+fine
+opinion
+crisp |  
+| bip_39_word_new_line5 | apple
+fine
+opinion
+crisp
+market |  
+| bip_39_word_new_line6 | apple
+fine
+opinion
+crisp
+market
+repair |  
+| bip_39_word_new_line7 | apple
+fine
+opinion
+crisp
+market
+repair
+envelope |  
+| bip_39_word_new_line8 | apple
+fine
+opinion
+crisp
+market
+repair
+envelope
+danger |  
+| bip_39_word_new_line9 | apple
+fine
+opinion
+crisp
+market
+repair
+envelope
+danger
+old |  
+| bip_39_word_space_0 | ['apple', 'fine', 'opinion', 'crisp', 'market', 'repair', 'envelope', 'danger', 'old', 'follow', 'jelly', 'aspect'] |  
+| bip_39_word_space_1 | apple |  
+| bip_39_word_space_10 | apple fine opinion crisp market repair envelope danger old follow |  
+| bip_39_word_space_11 | apple fine opinion crisp market repair envelope danger old follow jelly |  
+| bip_39_word_space_12 | apple fine opinion crisp market repair envelope danger old follow jelly aspect |  
+| bip_39_word_space_2 | apple fine |  
+| bip_39_word_space_3 | apple fine opinion |  
+| bip_39_word_space_4 | apple fine opinion crisp |  
+| bip_39_word_space_5 | apple fine opinion crisp market |  
+| bip_39_word_space_6 | apple fine opinion crisp market repair |  
+| bip_39_word_space_7 | apple fine opinion crisp market repair envelope |  
+| bip_39_word_space_8 | apple fine opinion crisp market repair envelope danger |  
+| bip_39_word_space_9 | apple fine opinion crisp market repair envelope danger old |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

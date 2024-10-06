@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bulk invest
+  * bip 39 word 3: bulk invest that
+  * bip 39 word: bulk invest that neglect forest faith fashion method vague travel curtain admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bulk |  
+| bip_39_word_new_br10 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith<br>fashion<br>method<br>vague<br>travel |  
+| bip_39_word_new_br11 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith<br>fashion<br>method<br>vague<br>travel<br>curtain |  
+| bip_39_word_new_br12 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith<br>fashion<br>method<br>vague<br>travel<br>curtain<br>admit |  
+| bip_39_word_new_br2 | bulk<br>invest |  
+| bip_39_word_new_br3 | bulk<br>invest<br>that |  
+| bip_39_word_new_br4 | bulk<br>invest<br>that<br>neglect |  
+| bip_39_word_new_br5 | bulk<br>invest<br>that<br>neglect<br>forest |  
+| bip_39_word_new_br6 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith |  
+| bip_39_word_new_br7 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith<br>fashion |  
+| bip_39_word_new_br8 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith<br>fashion<br>method |  
+| bip_39_word_new_br9 | bulk<br>invest<br>that<br>neglect<br>forest<br>faith<br>fashion<br>method<br>vague |  
+| bip_39_word_new_line1 | bulk |  
+| bip_39_word_new_line10 | bulk
+invest
+that
+neglect
+forest
+faith
+fashion
+method
+vague
+travel |  
+| bip_39_word_new_line11 | bulk
+invest
+that
+neglect
+forest
+faith
+fashion
+method
+vague
+travel
+curtain |  
+| bip_39_word_new_line12 | bulk
+invest
+that
+neglect
+forest
+faith
+fashion
+method
+vague
+travel
+curtain
+admit |  
+| bip_39_word_new_line2 | bulk
+invest |  
+| bip_39_word_new_line3 | bulk
+invest
+that |  
+| bip_39_word_new_line4 | bulk
+invest
+that
+neglect |  
+| bip_39_word_new_line5 | bulk
+invest
+that
+neglect
+forest |  
+| bip_39_word_new_line6 | bulk
+invest
+that
+neglect
+forest
+faith |  
+| bip_39_word_new_line7 | bulk
+invest
+that
+neglect
+forest
+faith
+fashion |  
+| bip_39_word_new_line8 | bulk
+invest
+that
+neglect
+forest
+faith
+fashion
+method |  
+| bip_39_word_new_line9 | bulk
+invest
+that
+neglect
+forest
+faith
+fashion
+method
+vague |  
+| bip_39_word_space_0 | ['bulk', 'invest', 'that', 'neglect', 'forest', 'faith', 'fashion', 'method', 'vague', 'travel', 'curtain', 'admit'] |  
+| bip_39_word_space_1 | bulk |  
+| bip_39_word_space_10 | bulk invest that neglect forest faith fashion method vague travel |  
+| bip_39_word_space_11 | bulk invest that neglect forest faith fashion method vague travel curtain |  
+| bip_39_word_space_12 | bulk invest that neglect forest faith fashion method vague travel curtain admit |  
+| bip_39_word_space_2 | bulk invest |  
+| bip_39_word_space_3 | bulk invest that |  
+| bip_39_word_space_4 | bulk invest that neglect |  
+| bip_39_word_space_5 | bulk invest that neglect forest |  
+| bip_39_word_space_6 | bulk invest that neglect forest faith |  
+| bip_39_word_space_7 | bulk invest that neglect forest faith fashion |  
+| bip_39_word_space_8 | bulk invest that neglect forest faith fashion method |  
+| bip_39_word_space_9 | bulk invest that neglect forest faith fashion method vague |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: allow food
+  * bip 39 word 3: allow food ribbon
+  * bip 39 word: allow food ribbon mind tomorrow symptom pigeon fringe multiply island sleep actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | allow |  
+| bip_39_word_new_br10 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom<br>pigeon<br>fringe<br>multiply<br>island |  
+| bip_39_word_new_br11 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom<br>pigeon<br>fringe<br>multiply<br>island<br>sleep |  
+| bip_39_word_new_br12 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom<br>pigeon<br>fringe<br>multiply<br>island<br>sleep<br>actress |  
+| bip_39_word_new_br2 | allow<br>food |  
+| bip_39_word_new_br3 | allow<br>food<br>ribbon |  
+| bip_39_word_new_br4 | allow<br>food<br>ribbon<br>mind |  
+| bip_39_word_new_br5 | allow<br>food<br>ribbon<br>mind<br>tomorrow |  
+| bip_39_word_new_br6 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom |  
+| bip_39_word_new_br7 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom<br>pigeon |  
+| bip_39_word_new_br8 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom<br>pigeon<br>fringe |  
+| bip_39_word_new_br9 | allow<br>food<br>ribbon<br>mind<br>tomorrow<br>symptom<br>pigeon<br>fringe<br>multiply |  
+| bip_39_word_new_line1 | allow |  
+| bip_39_word_new_line10 | allow
+food
+ribbon
+mind
+tomorrow
+symptom
+pigeon
+fringe
+multiply
+island |  
+| bip_39_word_new_line11 | allow
+food
+ribbon
+mind
+tomorrow
+symptom
+pigeon
+fringe
+multiply
+island
+sleep |  
+| bip_39_word_new_line12 | allow
+food
+ribbon
+mind
+tomorrow
+symptom
+pigeon
+fringe
+multiply
+island
+sleep
+actress |  
+| bip_39_word_new_line2 | allow
+food |  
+| bip_39_word_new_line3 | allow
+food
+ribbon |  
+| bip_39_word_new_line4 | allow
+food
+ribbon
+mind |  
+| bip_39_word_new_line5 | allow
+food
+ribbon
+mind
+tomorrow |  
+| bip_39_word_new_line6 | allow
+food
+ribbon
+mind
+tomorrow
+symptom |  
+| bip_39_word_new_line7 | allow
+food
+ribbon
+mind
+tomorrow
+symptom
+pigeon |  
+| bip_39_word_new_line8 | allow
+food
+ribbon
+mind
+tomorrow
+symptom
+pigeon
+fringe |  
+| bip_39_word_new_line9 | allow
+food
+ribbon
+mind
+tomorrow
+symptom
+pigeon
+fringe
+multiply |  
+| bip_39_word_space_0 | ['allow', 'food', 'ribbon', 'mind', 'tomorrow', 'symptom', 'pigeon', 'fringe', 'multiply', 'island', 'sleep', 'actress'] |  
+| bip_39_word_space_1 | allow |  
+| bip_39_word_space_10 | allow food ribbon mind tomorrow symptom pigeon fringe multiply island |  
+| bip_39_word_space_11 | allow food ribbon mind tomorrow symptom pigeon fringe multiply island sleep |  
+| bip_39_word_space_12 | allow food ribbon mind tomorrow symptom pigeon fringe multiply island sleep actress |  
+| bip_39_word_space_2 | allow food |  
+| bip_39_word_space_3 | allow food ribbon |  
+| bip_39_word_space_4 | allow food ribbon mind |  
+| bip_39_word_space_5 | allow food ribbon mind tomorrow |  
+| bip_39_word_space_6 | allow food ribbon mind tomorrow symptom |  
+| bip_39_word_space_7 | allow food ribbon mind tomorrow symptom pigeon |  
+| bip_39_word_space_8 | allow food ribbon mind tomorrow symptom pigeon fringe |  
+| bip_39_word_space_9 | allow food ribbon mind tomorrow symptom pigeon fringe multiply |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

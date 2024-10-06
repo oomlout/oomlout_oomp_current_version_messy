@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monkey shine
+  * bip 39 word 3: monkey shine catalog
+  * bip 39 word: monkey shine catalog other below bottom grunt oil struggle brass wonder adapt
 
 ### other_codes
 * short_code: br695
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monkey |  
+| bip_39_word_new_br10 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom<br>grunt<br>oil<br>struggle<br>brass |  
+| bip_39_word_new_br11 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom<br>grunt<br>oil<br>struggle<br>brass<br>wonder |  
+| bip_39_word_new_br12 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom<br>grunt<br>oil<br>struggle<br>brass<br>wonder<br>adapt |  
+| bip_39_word_new_br2 | monkey<br>shine |  
+| bip_39_word_new_br3 | monkey<br>shine<br>catalog |  
+| bip_39_word_new_br4 | monkey<br>shine<br>catalog<br>other |  
+| bip_39_word_new_br5 | monkey<br>shine<br>catalog<br>other<br>below |  
+| bip_39_word_new_br6 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom |  
+| bip_39_word_new_br7 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom<br>grunt |  
+| bip_39_word_new_br8 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom<br>grunt<br>oil |  
+| bip_39_word_new_br9 | monkey<br>shine<br>catalog<br>other<br>below<br>bottom<br>grunt<br>oil<br>struggle |  
+| bip_39_word_new_line1 | monkey |  
+| bip_39_word_new_line10 | monkey
+shine
+catalog
+other
+below
+bottom
+grunt
+oil
+struggle
+brass |  
+| bip_39_word_new_line11 | monkey
+shine
+catalog
+other
+below
+bottom
+grunt
+oil
+struggle
+brass
+wonder |  
+| bip_39_word_new_line12 | monkey
+shine
+catalog
+other
+below
+bottom
+grunt
+oil
+struggle
+brass
+wonder
+adapt |  
+| bip_39_word_new_line2 | monkey
+shine |  
+| bip_39_word_new_line3 | monkey
+shine
+catalog |  
+| bip_39_word_new_line4 | monkey
+shine
+catalog
+other |  
+| bip_39_word_new_line5 | monkey
+shine
+catalog
+other
+below |  
+| bip_39_word_new_line6 | monkey
+shine
+catalog
+other
+below
+bottom |  
+| bip_39_word_new_line7 | monkey
+shine
+catalog
+other
+below
+bottom
+grunt |  
+| bip_39_word_new_line8 | monkey
+shine
+catalog
+other
+below
+bottom
+grunt
+oil |  
+| bip_39_word_new_line9 | monkey
+shine
+catalog
+other
+below
+bottom
+grunt
+oil
+struggle |  
+| bip_39_word_space_0 | ['monkey', 'shine', 'catalog', 'other', 'below', 'bottom', 'grunt', 'oil', 'struggle', 'brass', 'wonder', 'adapt'] |  
+| bip_39_word_space_1 | monkey |  
+| bip_39_word_space_10 | monkey shine catalog other below bottom grunt oil struggle brass |  
+| bip_39_word_space_11 | monkey shine catalog other below bottom grunt oil struggle brass wonder |  
+| bip_39_word_space_12 | monkey shine catalog other below bottom grunt oil struggle brass wonder adapt |  
+| bip_39_word_space_2 | monkey shine |  
+| bip_39_word_space_3 | monkey shine catalog |  
+| bip_39_word_space_4 | monkey shine catalog other |  
+| bip_39_word_space_5 | monkey shine catalog other below |  
+| bip_39_word_space_6 | monkey shine catalog other below bottom |  
+| bip_39_word_space_7 | monkey shine catalog other below bottom grunt |  
+| bip_39_word_space_8 | monkey shine catalog other below bottom grunt oil |  
+| bip_39_word_space_9 | monkey shine catalog other below bottom grunt oil struggle |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

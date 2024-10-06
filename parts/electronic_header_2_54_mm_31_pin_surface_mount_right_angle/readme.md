@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rocket enough
+  * bip 39 word 3: rocket enough mansion
+  * bip 39 word: rocket enough mansion mobile people include agree anxiety win aware thumb arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rocket |  
+| bip_39_word_new_br10 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include<br>agree<br>anxiety<br>win<br>aware |  
+| bip_39_word_new_br11 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include<br>agree<br>anxiety<br>win<br>aware<br>thumb |  
+| bip_39_word_new_br12 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include<br>agree<br>anxiety<br>win<br>aware<br>thumb<br>arrive |  
+| bip_39_word_new_br2 | rocket<br>enough |  
+| bip_39_word_new_br3 | rocket<br>enough<br>mansion |  
+| bip_39_word_new_br4 | rocket<br>enough<br>mansion<br>mobile |  
+| bip_39_word_new_br5 | rocket<br>enough<br>mansion<br>mobile<br>people |  
+| bip_39_word_new_br6 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include |  
+| bip_39_word_new_br7 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include<br>agree |  
+| bip_39_word_new_br8 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include<br>agree<br>anxiety |  
+| bip_39_word_new_br9 | rocket<br>enough<br>mansion<br>mobile<br>people<br>include<br>agree<br>anxiety<br>win |  
+| bip_39_word_new_line1 | rocket |  
+| bip_39_word_new_line10 | rocket
+enough
+mansion
+mobile
+people
+include
+agree
+anxiety
+win
+aware |  
+| bip_39_word_new_line11 | rocket
+enough
+mansion
+mobile
+people
+include
+agree
+anxiety
+win
+aware
+thumb |  
+| bip_39_word_new_line12 | rocket
+enough
+mansion
+mobile
+people
+include
+agree
+anxiety
+win
+aware
+thumb
+arrive |  
+| bip_39_word_new_line2 | rocket
+enough |  
+| bip_39_word_new_line3 | rocket
+enough
+mansion |  
+| bip_39_word_new_line4 | rocket
+enough
+mansion
+mobile |  
+| bip_39_word_new_line5 | rocket
+enough
+mansion
+mobile
+people |  
+| bip_39_word_new_line6 | rocket
+enough
+mansion
+mobile
+people
+include |  
+| bip_39_word_new_line7 | rocket
+enough
+mansion
+mobile
+people
+include
+agree |  
+| bip_39_word_new_line8 | rocket
+enough
+mansion
+mobile
+people
+include
+agree
+anxiety |  
+| bip_39_word_new_line9 | rocket
+enough
+mansion
+mobile
+people
+include
+agree
+anxiety
+win |  
+| bip_39_word_space_0 | ['rocket', 'enough', 'mansion', 'mobile', 'people', 'include', 'agree', 'anxiety', 'win', 'aware', 'thumb', 'arrive'] |  
+| bip_39_word_space_1 | rocket |  
+| bip_39_word_space_10 | rocket enough mansion mobile people include agree anxiety win aware |  
+| bip_39_word_space_11 | rocket enough mansion mobile people include agree anxiety win aware thumb |  
+| bip_39_word_space_12 | rocket enough mansion mobile people include agree anxiety win aware thumb arrive |  
+| bip_39_word_space_2 | rocket enough |  
+| bip_39_word_space_3 | rocket enough mansion |  
+| bip_39_word_space_4 | rocket enough mansion mobile |  
+| bip_39_word_space_5 | rocket enough mansion mobile people |  
+| bip_39_word_space_6 | rocket enough mansion mobile people include |  
+| bip_39_word_space_7 | rocket enough mansion mobile people include agree |  
+| bip_39_word_space_8 | rocket enough mansion mobile people include agree anxiety |  
+| bip_39_word_space_9 | rocket enough mansion mobile people include agree anxiety win |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

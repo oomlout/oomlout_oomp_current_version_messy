@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: heart fossil
+  * bip 39 word 3: heart fossil tone
+  * bip 39 word: heart fossil tone inspire fat echo bridge like ginger write resemble asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | heart |  
+| bip_39_word_new_br10 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo<br>bridge<br>like<br>ginger<br>write |  
+| bip_39_word_new_br11 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo<br>bridge<br>like<br>ginger<br>write<br>resemble |  
+| bip_39_word_new_br12 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo<br>bridge<br>like<br>ginger<br>write<br>resemble<br>asset |  
+| bip_39_word_new_br2 | heart<br>fossil |  
+| bip_39_word_new_br3 | heart<br>fossil<br>tone |  
+| bip_39_word_new_br4 | heart<br>fossil<br>tone<br>inspire |  
+| bip_39_word_new_br5 | heart<br>fossil<br>tone<br>inspire<br>fat |  
+| bip_39_word_new_br6 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo |  
+| bip_39_word_new_br7 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo<br>bridge |  
+| bip_39_word_new_br8 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo<br>bridge<br>like |  
+| bip_39_word_new_br9 | heart<br>fossil<br>tone<br>inspire<br>fat<br>echo<br>bridge<br>like<br>ginger |  
+| bip_39_word_new_line1 | heart |  
+| bip_39_word_new_line10 | heart
+fossil
+tone
+inspire
+fat
+echo
+bridge
+like
+ginger
+write |  
+| bip_39_word_new_line11 | heart
+fossil
+tone
+inspire
+fat
+echo
+bridge
+like
+ginger
+write
+resemble |  
+| bip_39_word_new_line12 | heart
+fossil
+tone
+inspire
+fat
+echo
+bridge
+like
+ginger
+write
+resemble
+asset |  
+| bip_39_word_new_line2 | heart
+fossil |  
+| bip_39_word_new_line3 | heart
+fossil
+tone |  
+| bip_39_word_new_line4 | heart
+fossil
+tone
+inspire |  
+| bip_39_word_new_line5 | heart
+fossil
+tone
+inspire
+fat |  
+| bip_39_word_new_line6 | heart
+fossil
+tone
+inspire
+fat
+echo |  
+| bip_39_word_new_line7 | heart
+fossil
+tone
+inspire
+fat
+echo
+bridge |  
+| bip_39_word_new_line8 | heart
+fossil
+tone
+inspire
+fat
+echo
+bridge
+like |  
+| bip_39_word_new_line9 | heart
+fossil
+tone
+inspire
+fat
+echo
+bridge
+like
+ginger |  
+| bip_39_word_space_0 | ['heart', 'fossil', 'tone', 'inspire', 'fat', 'echo', 'bridge', 'like', 'ginger', 'write', 'resemble', 'asset'] |  
+| bip_39_word_space_1 | heart |  
+| bip_39_word_space_10 | heart fossil tone inspire fat echo bridge like ginger write |  
+| bip_39_word_space_11 | heart fossil tone inspire fat echo bridge like ginger write resemble |  
+| bip_39_word_space_12 | heart fossil tone inspire fat echo bridge like ginger write resemble asset |  
+| bip_39_word_space_2 | heart fossil |  
+| bip_39_word_space_3 | heart fossil tone |  
+| bip_39_word_space_4 | heart fossil tone inspire |  
+| bip_39_word_space_5 | heart fossil tone inspire fat |  
+| bip_39_word_space_6 | heart fossil tone inspire fat echo |  
+| bip_39_word_space_7 | heart fossil tone inspire fat echo bridge |  
+| bip_39_word_space_8 | heart fossil tone inspire fat echo bridge like |  
+| bip_39_word_space_9 | heart fossil tone inspire fat echo bridge like ginger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

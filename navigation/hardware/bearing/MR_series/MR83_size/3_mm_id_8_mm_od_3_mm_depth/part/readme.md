@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scheme axis
+  * bip 39 word 3: scheme axis skin
+  * bip 39 word: scheme axis skin wild people universe element buddy chunk also arrest abuse
 
 ### other_codes
 * short_code: brMR83
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scheme |  
+| bip_39_word_new_br10 | scheme<br>axis<br>skin<br>wild<br>people<br>universe<br>element<br>buddy<br>chunk<br>also |  
+| bip_39_word_new_br11 | scheme<br>axis<br>skin<br>wild<br>people<br>universe<br>element<br>buddy<br>chunk<br>also<br>arrest |  
+| bip_39_word_new_br12 | scheme<br>axis<br>skin<br>wild<br>people<br>universe<br>element<br>buddy<br>chunk<br>also<br>arrest<br>abuse |  
+| bip_39_word_new_br2 | scheme<br>axis |  
+| bip_39_word_new_br3 | scheme<br>axis<br>skin |  
+| bip_39_word_new_br4 | scheme<br>axis<br>skin<br>wild |  
+| bip_39_word_new_br5 | scheme<br>axis<br>skin<br>wild<br>people |  
+| bip_39_word_new_br6 | scheme<br>axis<br>skin<br>wild<br>people<br>universe |  
+| bip_39_word_new_br7 | scheme<br>axis<br>skin<br>wild<br>people<br>universe<br>element |  
+| bip_39_word_new_br8 | scheme<br>axis<br>skin<br>wild<br>people<br>universe<br>element<br>buddy |  
+| bip_39_word_new_br9 | scheme<br>axis<br>skin<br>wild<br>people<br>universe<br>element<br>buddy<br>chunk |  
+| bip_39_word_new_line1 | scheme |  
+| bip_39_word_new_line10 | scheme
+axis
+skin
+wild
+people
+universe
+element
+buddy
+chunk
+also |  
+| bip_39_word_new_line11 | scheme
+axis
+skin
+wild
+people
+universe
+element
+buddy
+chunk
+also
+arrest |  
+| bip_39_word_new_line12 | scheme
+axis
+skin
+wild
+people
+universe
+element
+buddy
+chunk
+also
+arrest
+abuse |  
+| bip_39_word_new_line2 | scheme
+axis |  
+| bip_39_word_new_line3 | scheme
+axis
+skin |  
+| bip_39_word_new_line4 | scheme
+axis
+skin
+wild |  
+| bip_39_word_new_line5 | scheme
+axis
+skin
+wild
+people |  
+| bip_39_word_new_line6 | scheme
+axis
+skin
+wild
+people
+universe |  
+| bip_39_word_new_line7 | scheme
+axis
+skin
+wild
+people
+universe
+element |  
+| bip_39_word_new_line8 | scheme
+axis
+skin
+wild
+people
+universe
+element
+buddy |  
+| bip_39_word_new_line9 | scheme
+axis
+skin
+wild
+people
+universe
+element
+buddy
+chunk |  
+| bip_39_word_space_0 | ['scheme', 'axis', 'skin', 'wild', 'people', 'universe', 'element', 'buddy', 'chunk', 'also', 'arrest', 'abuse'] |  
+| bip_39_word_space_1 | scheme |  
+| bip_39_word_space_10 | scheme axis skin wild people universe element buddy chunk also |  
+| bip_39_word_space_11 | scheme axis skin wild people universe element buddy chunk also arrest |  
+| bip_39_word_space_12 | scheme axis skin wild people universe element buddy chunk also arrest abuse |  
+| bip_39_word_space_2 | scheme axis |  
+| bip_39_word_space_3 | scheme axis skin |  
+| bip_39_word_space_4 | scheme axis skin wild |  
+| bip_39_word_space_5 | scheme axis skin wild people |  
+| bip_39_word_space_6 | scheme axis skin wild people universe |  
+| bip_39_word_space_7 | scheme axis skin wild people universe element |  
+| bip_39_word_space_8 | scheme axis skin wild people universe element buddy |  
+| bip_39_word_space_9 | scheme axis skin wild people universe element buddy chunk |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lend group
+  * bip 39 word 3: lend group speed
+  * bip 39 word: lend group speed blush taste island exhaust cliff mobile ahead draft appear
 
 ### other_codes
 * short_code: br6924
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lend |  
+| bip_39_word_new_br10 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead |  
+| bip_39_word_new_br11 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead<br>draft |  
+| bip_39_word_new_br12 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile<br>ahead<br>draft<br>appear |  
+| bip_39_word_new_br2 | lend<br>group |  
+| bip_39_word_new_br3 | lend<br>group<br>speed |  
+| bip_39_word_new_br4 | lend<br>group<br>speed<br>blush |  
+| bip_39_word_new_br5 | lend<br>group<br>speed<br>blush<br>taste |  
+| bip_39_word_new_br6 | lend<br>group<br>speed<br>blush<br>taste<br>island |  
+| bip_39_word_new_br7 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust |  
+| bip_39_word_new_br8 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff |  
+| bip_39_word_new_br9 | lend<br>group<br>speed<br>blush<br>taste<br>island<br>exhaust<br>cliff<br>mobile |  
+| bip_39_word_new_line1 | lend |  
+| bip_39_word_new_line10 | lend
+group
+speed
+blush
+taste
+island
+exhaust
+cliff
+mobile
+ahead |  
+| bip_39_word_new_line11 | lend
+group
+speed
+blush
+taste
+island
+exhaust
+cliff
+mobile
+ahead
+draft |  
+| bip_39_word_new_line12 | lend
+group
+speed
+blush
+taste
+island
+exhaust
+cliff
+mobile
+ahead
+draft
+appear |  
+| bip_39_word_new_line2 | lend
+group |  
+| bip_39_word_new_line3 | lend
+group
+speed |  
+| bip_39_word_new_line4 | lend
+group
+speed
+blush |  
+| bip_39_word_new_line5 | lend
+group
+speed
+blush
+taste |  
+| bip_39_word_new_line6 | lend
+group
+speed
+blush
+taste
+island |  
+| bip_39_word_new_line7 | lend
+group
+speed
+blush
+taste
+island
+exhaust |  
+| bip_39_word_new_line8 | lend
+group
+speed
+blush
+taste
+island
+exhaust
+cliff |  
+| bip_39_word_new_line9 | lend
+group
+speed
+blush
+taste
+island
+exhaust
+cliff
+mobile |  
+| bip_39_word_space_0 | ['lend', 'group', 'speed', 'blush', 'taste', 'island', 'exhaust', 'cliff', 'mobile', 'ahead', 'draft', 'appear'] |  
+| bip_39_word_space_1 | lend |  
+| bip_39_word_space_10 | lend group speed blush taste island exhaust cliff mobile ahead |  
+| bip_39_word_space_11 | lend group speed blush taste island exhaust cliff mobile ahead draft |  
+| bip_39_word_space_12 | lend group speed blush taste island exhaust cliff mobile ahead draft appear |  
+| bip_39_word_space_2 | lend group |  
+| bip_39_word_space_3 | lend group speed |  
+| bip_39_word_space_4 | lend group speed blush |  
+| bip_39_word_space_5 | lend group speed blush taste |  
+| bip_39_word_space_6 | lend group speed blush taste island |  
+| bip_39_word_space_7 | lend group speed blush taste island exhaust |  
+| bip_39_word_space_8 | lend group speed blush taste island exhaust cliff |  
+| bip_39_word_space_9 | lend group speed blush taste island exhaust cliff mobile |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

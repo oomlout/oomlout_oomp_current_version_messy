@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: smart juice
+  * bip 39 word 3: smart juice prison
+  * bip 39 word: smart juice prison lunch illegal pony age bright action snap paper advance
 
 ### other_codes
 * short_code: n1d5m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | smart |  
+| bip_39_word_new_br10 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap |  
+| bip_39_word_new_br11 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap<br>paper |  
+| bip_39_word_new_br12 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action<br>snap<br>paper<br>advance |  
+| bip_39_word_new_br2 | smart<br>juice |  
+| bip_39_word_new_br3 | smart<br>juice<br>prison |  
+| bip_39_word_new_br4 | smart<br>juice<br>prison<br>lunch |  
+| bip_39_word_new_br5 | smart<br>juice<br>prison<br>lunch<br>illegal |  
+| bip_39_word_new_br6 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony |  
+| bip_39_word_new_br7 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age |  
+| bip_39_word_new_br8 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright |  
+| bip_39_word_new_br9 | smart<br>juice<br>prison<br>lunch<br>illegal<br>pony<br>age<br>bright<br>action |  
+| bip_39_word_new_line1 | smart |  
+| bip_39_word_new_line10 | smart
+juice
+prison
+lunch
+illegal
+pony
+age
+bright
+action
+snap |  
+| bip_39_word_new_line11 | smart
+juice
+prison
+lunch
+illegal
+pony
+age
+bright
+action
+snap
+paper |  
+| bip_39_word_new_line12 | smart
+juice
+prison
+lunch
+illegal
+pony
+age
+bright
+action
+snap
+paper
+advance |  
+| bip_39_word_new_line2 | smart
+juice |  
+| bip_39_word_new_line3 | smart
+juice
+prison |  
+| bip_39_word_new_line4 | smart
+juice
+prison
+lunch |  
+| bip_39_word_new_line5 | smart
+juice
+prison
+lunch
+illegal |  
+| bip_39_word_new_line6 | smart
+juice
+prison
+lunch
+illegal
+pony |  
+| bip_39_word_new_line7 | smart
+juice
+prison
+lunch
+illegal
+pony
+age |  
+| bip_39_word_new_line8 | smart
+juice
+prison
+lunch
+illegal
+pony
+age
+bright |  
+| bip_39_word_new_line9 | smart
+juice
+prison
+lunch
+illegal
+pony
+age
+bright
+action |  
+| bip_39_word_space_0 | ['smart', 'juice', 'prison', 'lunch', 'illegal', 'pony', 'age', 'bright', 'action', 'snap', 'paper', 'advance'] |  
+| bip_39_word_space_1 | smart |  
+| bip_39_word_space_10 | smart juice prison lunch illegal pony age bright action snap |  
+| bip_39_word_space_11 | smart juice prison lunch illegal pony age bright action snap paper |  
+| bip_39_word_space_12 | smart juice prison lunch illegal pony age bright action snap paper advance |  
+| bip_39_word_space_2 | smart juice |  
+| bip_39_word_space_3 | smart juice prison |  
+| bip_39_word_space_4 | smart juice prison lunch |  
+| bip_39_word_space_5 | smart juice prison lunch illegal |  
+| bip_39_word_space_6 | smart juice prison lunch illegal pony |  
+| bip_39_word_space_7 | smart juice prison lunch illegal pony age |  
+| bip_39_word_space_8 | smart juice prison lunch illegal pony age bright |  
+| bip_39_word_space_9 | smart juice prison lunch illegal pony age bright action |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

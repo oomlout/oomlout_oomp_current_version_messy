@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enroll come
+  * bip 39 word 3: enroll come energy
+  * bip 39 word: enroll come energy peace ramp tortoise acquire today steak snake world answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enroll |  
+| bip_39_word_new_br10 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise<br>acquire<br>today<br>steak<br>snake |  
+| bip_39_word_new_br11 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise<br>acquire<br>today<br>steak<br>snake<br>world |  
+| bip_39_word_new_br12 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise<br>acquire<br>today<br>steak<br>snake<br>world<br>answer |  
+| bip_39_word_new_br2 | enroll<br>come |  
+| bip_39_word_new_br3 | enroll<br>come<br>energy |  
+| bip_39_word_new_br4 | enroll<br>come<br>energy<br>peace |  
+| bip_39_word_new_br5 | enroll<br>come<br>energy<br>peace<br>ramp |  
+| bip_39_word_new_br6 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise |  
+| bip_39_word_new_br7 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise<br>acquire |  
+| bip_39_word_new_br8 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise<br>acquire<br>today |  
+| bip_39_word_new_br9 | enroll<br>come<br>energy<br>peace<br>ramp<br>tortoise<br>acquire<br>today<br>steak |  
+| bip_39_word_new_line1 | enroll |  
+| bip_39_word_new_line10 | enroll
+come
+energy
+peace
+ramp
+tortoise
+acquire
+today
+steak
+snake |  
+| bip_39_word_new_line11 | enroll
+come
+energy
+peace
+ramp
+tortoise
+acquire
+today
+steak
+snake
+world |  
+| bip_39_word_new_line12 | enroll
+come
+energy
+peace
+ramp
+tortoise
+acquire
+today
+steak
+snake
+world
+answer |  
+| bip_39_word_new_line2 | enroll
+come |  
+| bip_39_word_new_line3 | enroll
+come
+energy |  
+| bip_39_word_new_line4 | enroll
+come
+energy
+peace |  
+| bip_39_word_new_line5 | enroll
+come
+energy
+peace
+ramp |  
+| bip_39_word_new_line6 | enroll
+come
+energy
+peace
+ramp
+tortoise |  
+| bip_39_word_new_line7 | enroll
+come
+energy
+peace
+ramp
+tortoise
+acquire |  
+| bip_39_word_new_line8 | enroll
+come
+energy
+peace
+ramp
+tortoise
+acquire
+today |  
+| bip_39_word_new_line9 | enroll
+come
+energy
+peace
+ramp
+tortoise
+acquire
+today
+steak |  
+| bip_39_word_space_0 | ['enroll', 'come', 'energy', 'peace', 'ramp', 'tortoise', 'acquire', 'today', 'steak', 'snake', 'world', 'answer'] |  
+| bip_39_word_space_1 | enroll |  
+| bip_39_word_space_10 | enroll come energy peace ramp tortoise acquire today steak snake |  
+| bip_39_word_space_11 | enroll come energy peace ramp tortoise acquire today steak snake world |  
+| bip_39_word_space_12 | enroll come energy peace ramp tortoise acquire today steak snake world answer |  
+| bip_39_word_space_2 | enroll come |  
+| bip_39_word_space_3 | enroll come energy |  
+| bip_39_word_space_4 | enroll come energy peace |  
+| bip_39_word_space_5 | enroll come energy peace ramp |  
+| bip_39_word_space_6 | enroll come energy peace ramp tortoise |  
+| bip_39_word_space_7 | enroll come energy peace ramp tortoise acquire |  
+| bip_39_word_space_8 | enroll come energy peace ramp tortoise acquire today |  
+| bip_39_word_space_9 | enroll come energy peace ramp tortoise acquire today steak |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

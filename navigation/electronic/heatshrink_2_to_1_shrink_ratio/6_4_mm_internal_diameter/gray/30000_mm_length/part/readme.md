@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wise cool
+  * bip 39 word 3: wise cool appear
+  * bip 39 word: wise cool appear leave divert dirt alcohol daring parrot seat until any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wise |  
+| bip_39_word_new_br10 | wise<br>cool<br>appear<br>leave<br>divert<br>dirt<br>alcohol<br>daring<br>parrot<br>seat |  
+| bip_39_word_new_br11 | wise<br>cool<br>appear<br>leave<br>divert<br>dirt<br>alcohol<br>daring<br>parrot<br>seat<br>until |  
+| bip_39_word_new_br12 | wise<br>cool<br>appear<br>leave<br>divert<br>dirt<br>alcohol<br>daring<br>parrot<br>seat<br>until<br>any |  
+| bip_39_word_new_br2 | wise<br>cool |  
+| bip_39_word_new_br3 | wise<br>cool<br>appear |  
+| bip_39_word_new_br4 | wise<br>cool<br>appear<br>leave |  
+| bip_39_word_new_br5 | wise<br>cool<br>appear<br>leave<br>divert |  
+| bip_39_word_new_br6 | wise<br>cool<br>appear<br>leave<br>divert<br>dirt |  
+| bip_39_word_new_br7 | wise<br>cool<br>appear<br>leave<br>divert<br>dirt<br>alcohol |  
+| bip_39_word_new_br8 | wise<br>cool<br>appear<br>leave<br>divert<br>dirt<br>alcohol<br>daring |  
+| bip_39_word_new_br9 | wise<br>cool<br>appear<br>leave<br>divert<br>dirt<br>alcohol<br>daring<br>parrot |  
+| bip_39_word_new_line1 | wise |  
+| bip_39_word_new_line10 | wise
+cool
+appear
+leave
+divert
+dirt
+alcohol
+daring
+parrot
+seat |  
+| bip_39_word_new_line11 | wise
+cool
+appear
+leave
+divert
+dirt
+alcohol
+daring
+parrot
+seat
+until |  
+| bip_39_word_new_line12 | wise
+cool
+appear
+leave
+divert
+dirt
+alcohol
+daring
+parrot
+seat
+until
+any |  
+| bip_39_word_new_line2 | wise
+cool |  
+| bip_39_word_new_line3 | wise
+cool
+appear |  
+| bip_39_word_new_line4 | wise
+cool
+appear
+leave |  
+| bip_39_word_new_line5 | wise
+cool
+appear
+leave
+divert |  
+| bip_39_word_new_line6 | wise
+cool
+appear
+leave
+divert
+dirt |  
+| bip_39_word_new_line7 | wise
+cool
+appear
+leave
+divert
+dirt
+alcohol |  
+| bip_39_word_new_line8 | wise
+cool
+appear
+leave
+divert
+dirt
+alcohol
+daring |  
+| bip_39_word_new_line9 | wise
+cool
+appear
+leave
+divert
+dirt
+alcohol
+daring
+parrot |  
+| bip_39_word_space_0 | ['wise', 'cool', 'appear', 'leave', 'divert', 'dirt', 'alcohol', 'daring', 'parrot', 'seat', 'until', 'any'] |  
+| bip_39_word_space_1 | wise |  
+| bip_39_word_space_10 | wise cool appear leave divert dirt alcohol daring parrot seat |  
+| bip_39_word_space_11 | wise cool appear leave divert dirt alcohol daring parrot seat until |  
+| bip_39_word_space_12 | wise cool appear leave divert dirt alcohol daring parrot seat until any |  
+| bip_39_word_space_2 | wise cool |  
+| bip_39_word_space_3 | wise cool appear |  
+| bip_39_word_space_4 | wise cool appear leave |  
+| bip_39_word_space_5 | wise cool appear leave divert |  
+| bip_39_word_space_6 | wise cool appear leave divert dirt |  
+| bip_39_word_space_7 | wise cool appear leave divert dirt alcohol |  
+| bip_39_word_space_8 | wise cool appear leave divert dirt alcohol daring |  
+| bip_39_word_space_9 | wise cool appear leave divert dirt alcohol daring parrot |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

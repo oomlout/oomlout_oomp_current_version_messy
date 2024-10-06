@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: holiday tourist
+  * bip 39 word 3: holiday tourist valley
+  * bip 39 word: holiday tourist valley parent barely word stomach swarm cup oval record alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | holiday |  
+| bip_39_word_new_br10 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word<br>stomach<br>swarm<br>cup<br>oval |  
+| bip_39_word_new_br11 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word<br>stomach<br>swarm<br>cup<br>oval<br>record |  
+| bip_39_word_new_br12 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word<br>stomach<br>swarm<br>cup<br>oval<br>record<br>alley |  
+| bip_39_word_new_br2 | holiday<br>tourist |  
+| bip_39_word_new_br3 | holiday<br>tourist<br>valley |  
+| bip_39_word_new_br4 | holiday<br>tourist<br>valley<br>parent |  
+| bip_39_word_new_br5 | holiday<br>tourist<br>valley<br>parent<br>barely |  
+| bip_39_word_new_br6 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word |  
+| bip_39_word_new_br7 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word<br>stomach |  
+| bip_39_word_new_br8 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word<br>stomach<br>swarm |  
+| bip_39_word_new_br9 | holiday<br>tourist<br>valley<br>parent<br>barely<br>word<br>stomach<br>swarm<br>cup |  
+| bip_39_word_new_line1 | holiday |  
+| bip_39_word_new_line10 | holiday
+tourist
+valley
+parent
+barely
+word
+stomach
+swarm
+cup
+oval |  
+| bip_39_word_new_line11 | holiday
+tourist
+valley
+parent
+barely
+word
+stomach
+swarm
+cup
+oval
+record |  
+| bip_39_word_new_line12 | holiday
+tourist
+valley
+parent
+barely
+word
+stomach
+swarm
+cup
+oval
+record
+alley |  
+| bip_39_word_new_line2 | holiday
+tourist |  
+| bip_39_word_new_line3 | holiday
+tourist
+valley |  
+| bip_39_word_new_line4 | holiday
+tourist
+valley
+parent |  
+| bip_39_word_new_line5 | holiday
+tourist
+valley
+parent
+barely |  
+| bip_39_word_new_line6 | holiday
+tourist
+valley
+parent
+barely
+word |  
+| bip_39_word_new_line7 | holiday
+tourist
+valley
+parent
+barely
+word
+stomach |  
+| bip_39_word_new_line8 | holiday
+tourist
+valley
+parent
+barely
+word
+stomach
+swarm |  
+| bip_39_word_new_line9 | holiday
+tourist
+valley
+parent
+barely
+word
+stomach
+swarm
+cup |  
+| bip_39_word_space_0 | ['holiday', 'tourist', 'valley', 'parent', 'barely', 'word', 'stomach', 'swarm', 'cup', 'oval', 'record', 'alley'] |  
+| bip_39_word_space_1 | holiday |  
+| bip_39_word_space_10 | holiday tourist valley parent barely word stomach swarm cup oval |  
+| bip_39_word_space_11 | holiday tourist valley parent barely word stomach swarm cup oval record |  
+| bip_39_word_space_12 | holiday tourist valley parent barely word stomach swarm cup oval record alley |  
+| bip_39_word_space_2 | holiday tourist |  
+| bip_39_word_space_3 | holiday tourist valley |  
+| bip_39_word_space_4 | holiday tourist valley parent |  
+| bip_39_word_space_5 | holiday tourist valley parent barely |  
+| bip_39_word_space_6 | holiday tourist valley parent barely word |  
+| bip_39_word_space_7 | holiday tourist valley parent barely word stomach |  
+| bip_39_word_space_8 | holiday tourist valley parent barely word stomach swarm |  
+| bip_39_word_space_9 | holiday tourist valley parent barely word stomach swarm cup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

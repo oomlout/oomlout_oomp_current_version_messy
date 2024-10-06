@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raise shadow
+  * bip 39 word 3: raise shadow toilet
+  * bip 39 word: raise shadow toilet column ensure future crisp when stable enlist poet ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raise |  
+| bip_39_word_new_br10 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future<br>crisp<br>when<br>stable<br>enlist |  
+| bip_39_word_new_br11 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future<br>crisp<br>when<br>stable<br>enlist<br>poet |  
+| bip_39_word_new_br12 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future<br>crisp<br>when<br>stable<br>enlist<br>poet<br>ancient |  
+| bip_39_word_new_br2 | raise<br>shadow |  
+| bip_39_word_new_br3 | raise<br>shadow<br>toilet |  
+| bip_39_word_new_br4 | raise<br>shadow<br>toilet<br>column |  
+| bip_39_word_new_br5 | raise<br>shadow<br>toilet<br>column<br>ensure |  
+| bip_39_word_new_br6 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future |  
+| bip_39_word_new_br7 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future<br>crisp |  
+| bip_39_word_new_br8 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future<br>crisp<br>when |  
+| bip_39_word_new_br9 | raise<br>shadow<br>toilet<br>column<br>ensure<br>future<br>crisp<br>when<br>stable |  
+| bip_39_word_new_line1 | raise |  
+| bip_39_word_new_line10 | raise
+shadow
+toilet
+column
+ensure
+future
+crisp
+when
+stable
+enlist |  
+| bip_39_word_new_line11 | raise
+shadow
+toilet
+column
+ensure
+future
+crisp
+when
+stable
+enlist
+poet |  
+| bip_39_word_new_line12 | raise
+shadow
+toilet
+column
+ensure
+future
+crisp
+when
+stable
+enlist
+poet
+ancient |  
+| bip_39_word_new_line2 | raise
+shadow |  
+| bip_39_word_new_line3 | raise
+shadow
+toilet |  
+| bip_39_word_new_line4 | raise
+shadow
+toilet
+column |  
+| bip_39_word_new_line5 | raise
+shadow
+toilet
+column
+ensure |  
+| bip_39_word_new_line6 | raise
+shadow
+toilet
+column
+ensure
+future |  
+| bip_39_word_new_line7 | raise
+shadow
+toilet
+column
+ensure
+future
+crisp |  
+| bip_39_word_new_line8 | raise
+shadow
+toilet
+column
+ensure
+future
+crisp
+when |  
+| bip_39_word_new_line9 | raise
+shadow
+toilet
+column
+ensure
+future
+crisp
+when
+stable |  
+| bip_39_word_space_0 | ['raise', 'shadow', 'toilet', 'column', 'ensure', 'future', 'crisp', 'when', 'stable', 'enlist', 'poet', 'ancient'] |  
+| bip_39_word_space_1 | raise |  
+| bip_39_word_space_10 | raise shadow toilet column ensure future crisp when stable enlist |  
+| bip_39_word_space_11 | raise shadow toilet column ensure future crisp when stable enlist poet |  
+| bip_39_word_space_12 | raise shadow toilet column ensure future crisp when stable enlist poet ancient |  
+| bip_39_word_space_2 | raise shadow |  
+| bip_39_word_space_3 | raise shadow toilet |  
+| bip_39_word_space_4 | raise shadow toilet column |  
+| bip_39_word_space_5 | raise shadow toilet column ensure |  
+| bip_39_word_space_6 | raise shadow toilet column ensure future |  
+| bip_39_word_space_7 | raise shadow toilet column ensure future crisp |  
+| bip_39_word_space_8 | raise shadow toilet column ensure future crisp when |  
+| bip_39_word_space_9 | raise shadow toilet column ensure future crisp when stable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

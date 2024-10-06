@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: print scissors
+  * bip 39 word 3: print scissors enlist
+  * bip 39 word: print scissors enlist artwork move trophy roof top guard gospel west act
 
 ### other_codes
 * short_code: ss6m8
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | print |  
+| bip_39_word_new_br10 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel |  
+| bip_39_word_new_br11 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel<br>west |  
+| bip_39_word_new_br12 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard<br>gospel<br>west<br>act |  
+| bip_39_word_new_br2 | print<br>scissors |  
+| bip_39_word_new_br3 | print<br>scissors<br>enlist |  
+| bip_39_word_new_br4 | print<br>scissors<br>enlist<br>artwork |  
+| bip_39_word_new_br5 | print<br>scissors<br>enlist<br>artwork<br>move |  
+| bip_39_word_new_br6 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy |  
+| bip_39_word_new_br7 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof |  
+| bip_39_word_new_br8 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top |  
+| bip_39_word_new_br9 | print<br>scissors<br>enlist<br>artwork<br>move<br>trophy<br>roof<br>top<br>guard |  
+| bip_39_word_new_line1 | print |  
+| bip_39_word_new_line10 | print
+scissors
+enlist
+artwork
+move
+trophy
+roof
+top
+guard
+gospel |  
+| bip_39_word_new_line11 | print
+scissors
+enlist
+artwork
+move
+trophy
+roof
+top
+guard
+gospel
+west |  
+| bip_39_word_new_line12 | print
+scissors
+enlist
+artwork
+move
+trophy
+roof
+top
+guard
+gospel
+west
+act |  
+| bip_39_word_new_line2 | print
+scissors |  
+| bip_39_word_new_line3 | print
+scissors
+enlist |  
+| bip_39_word_new_line4 | print
+scissors
+enlist
+artwork |  
+| bip_39_word_new_line5 | print
+scissors
+enlist
+artwork
+move |  
+| bip_39_word_new_line6 | print
+scissors
+enlist
+artwork
+move
+trophy |  
+| bip_39_word_new_line7 | print
+scissors
+enlist
+artwork
+move
+trophy
+roof |  
+| bip_39_word_new_line8 | print
+scissors
+enlist
+artwork
+move
+trophy
+roof
+top |  
+| bip_39_word_new_line9 | print
+scissors
+enlist
+artwork
+move
+trophy
+roof
+top
+guard |  
+| bip_39_word_space_0 | ['print', 'scissors', 'enlist', 'artwork', 'move', 'trophy', 'roof', 'top', 'guard', 'gospel', 'west', 'act'] |  
+| bip_39_word_space_1 | print |  
+| bip_39_word_space_10 | print scissors enlist artwork move trophy roof top guard gospel |  
+| bip_39_word_space_11 | print scissors enlist artwork move trophy roof top guard gospel west |  
+| bip_39_word_space_12 | print scissors enlist artwork move trophy roof top guard gospel west act |  
+| bip_39_word_space_2 | print scissors |  
+| bip_39_word_space_3 | print scissors enlist |  
+| bip_39_word_space_4 | print scissors enlist artwork |  
+| bip_39_word_space_5 | print scissors enlist artwork move |  
+| bip_39_word_space_6 | print scissors enlist artwork move trophy |  
+| bip_39_word_space_7 | print scissors enlist artwork move trophy roof |  
+| bip_39_word_space_8 | print scissors enlist artwork move trophy roof top |  
+| bip_39_word_space_9 | print scissors enlist artwork move trophy roof top guard |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

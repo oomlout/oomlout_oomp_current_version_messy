@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mass
+bip_39_word_new_br10: mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal
+bip_39_word_new_br11: mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal<br>sleep
+bip_39_word_new_br12: mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck<br>mammal<br>sleep<br>auto
+bip_39_word_new_br2: mass<br>song
+bip_39_word_new_br3: mass<br>song<br>enforce
+bip_39_word_new_br4: mass<br>song<br>enforce<br>enemy
+bip_39_word_new_br5: mass<br>song<br>enforce<br>enemy<br>indicate
+bip_39_word_new_br6: mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt
+bip_39_word_new_br7: mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead
+bip_39_word_new_br8: mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input
+bip_39_word_new_br9: mass<br>song<br>enforce<br>enemy<br>indicate<br>erupt<br>ahead<br>input<br>truck
+bip_39_word_new_line1: mass
+bip_39_word_new_line10: 'mass
+
+  song
+
+  enforce
+
+  enemy
+
+  indicate
+
+  erupt
+
+  ahead
+
+  input
+
+  truck
+
+  mammal'
+bip_39_word_new_line11: 'mass
+
+  song
+
+  enforce
+
+  enemy
+
+  indicate
+
+  erupt
+
+  ahead
+
+  input
+
+  truck
+
+  mammal
+
+  sleep'
+bip_39_word_new_line12: 'mass
+
+  song
+
+  enforce
+
+  enemy
+
+  indicate
+
+  erupt
+
+  ahead
+
+  input
+
+  truck
+
+  mammal
+
+  sleep
+
+  auto'
+bip_39_word_new_line2: 'mass
+
+  song'
+bip_39_word_new_line3: 'mass
+
+  song
+
+  enforce'
+bip_39_word_new_line4: 'mass
+
+  song
+
+  enforce
+
+  enemy'
+bip_39_word_new_line5: 'mass
+
+  song
+
+  enforce
+
+  enemy
+
+  indicate'
+bip_39_word_new_line6: 'mass
+
+  song
+
+  enforce
+
+  enemy
+
+  indicate
+
+  erupt'
+bip_39_word_new_line7: 'mass
+
+  song
+
+  enforce
+
+  enemy
+
+  indicate
+
+  erupt
+
+  ahead'
+bip_39_word_new_line8: 'mass
+
+  song
+
+  enforce
+
+  enemy
+
+  indicate
+
+  erupt
+
+  ahead
+
+  input'
+bip_39_word_new_line9: 'mass
+
+  song
+
+  enforce
+
+  enemy
+
+  indicate
+
+  erupt
+
+  ahead
+
+  input
+
+  truck'
+bip_39_word_space_0:
+- mass
+- song
+- enforce
+- enemy
+- indicate
+- erupt
+- ahead
+- input
+- truck
+- mammal
+- sleep
+- auto
+bip_39_word_space_1: mass
+bip_39_word_space_10: mass song enforce enemy indicate erupt ahead input truck mammal
+bip_39_word_space_11: mass song enforce enemy indicate erupt ahead input truck mammal
+  sleep
+bip_39_word_space_12: mass song enforce enemy indicate erupt ahead input truck mammal
+  sleep auto
+bip_39_word_space_2: mass song
+bip_39_word_space_3: mass song enforce
+bip_39_word_space_4: mass song enforce enemy
+bip_39_word_space_5: mass song enforce enemy indicate
+bip_39_word_space_6: mass song enforce enemy indicate erupt
+bip_39_word_space_7: mass song enforce enemy indicate erupt ahead
+bip_39_word_space_8: mass song enforce enemy indicate erupt ahead input
+bip_39_word_space_9: mass song enforce enemy indicate erupt ahead input truck
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

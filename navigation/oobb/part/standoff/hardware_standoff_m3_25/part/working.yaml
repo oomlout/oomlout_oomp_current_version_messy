@@ -1,3 +1,186 @@
+bip_39_word_new_br1: impose
+bip_39_word_new_br10: impose<br>romance<br>essence<br>plug<br>bright<br>cash<br>direct<br>fix<br>provide<br>swarm
+bip_39_word_new_br11: impose<br>romance<br>essence<br>plug<br>bright<br>cash<br>direct<br>fix<br>provide<br>swarm<br>deliver
+bip_39_word_new_br12: impose<br>romance<br>essence<br>plug<br>bright<br>cash<br>direct<br>fix<br>provide<br>swarm<br>deliver<br>antenna
+bip_39_word_new_br2: impose<br>romance
+bip_39_word_new_br3: impose<br>romance<br>essence
+bip_39_word_new_br4: impose<br>romance<br>essence<br>plug
+bip_39_word_new_br5: impose<br>romance<br>essence<br>plug<br>bright
+bip_39_word_new_br6: impose<br>romance<br>essence<br>plug<br>bright<br>cash
+bip_39_word_new_br7: impose<br>romance<br>essence<br>plug<br>bright<br>cash<br>direct
+bip_39_word_new_br8: impose<br>romance<br>essence<br>plug<br>bright<br>cash<br>direct<br>fix
+bip_39_word_new_br9: impose<br>romance<br>essence<br>plug<br>bright<br>cash<br>direct<br>fix<br>provide
+bip_39_word_new_line1: impose
+bip_39_word_new_line10: 'impose
+
+  romance
+
+  essence
+
+  plug
+
+  bright
+
+  cash
+
+  direct
+
+  fix
+
+  provide
+
+  swarm'
+bip_39_word_new_line11: 'impose
+
+  romance
+
+  essence
+
+  plug
+
+  bright
+
+  cash
+
+  direct
+
+  fix
+
+  provide
+
+  swarm
+
+  deliver'
+bip_39_word_new_line12: 'impose
+
+  romance
+
+  essence
+
+  plug
+
+  bright
+
+  cash
+
+  direct
+
+  fix
+
+  provide
+
+  swarm
+
+  deliver
+
+  antenna'
+bip_39_word_new_line2: 'impose
+
+  romance'
+bip_39_word_new_line3: 'impose
+
+  romance
+
+  essence'
+bip_39_word_new_line4: 'impose
+
+  romance
+
+  essence
+
+  plug'
+bip_39_word_new_line5: 'impose
+
+  romance
+
+  essence
+
+  plug
+
+  bright'
+bip_39_word_new_line6: 'impose
+
+  romance
+
+  essence
+
+  plug
+
+  bright
+
+  cash'
+bip_39_word_new_line7: 'impose
+
+  romance
+
+  essence
+
+  plug
+
+  bright
+
+  cash
+
+  direct'
+bip_39_word_new_line8: 'impose
+
+  romance
+
+  essence
+
+  plug
+
+  bright
+
+  cash
+
+  direct
+
+  fix'
+bip_39_word_new_line9: 'impose
+
+  romance
+
+  essence
+
+  plug
+
+  bright
+
+  cash
+
+  direct
+
+  fix
+
+  provide'
+bip_39_word_space_0:
+- impose
+- romance
+- essence
+- plug
+- bright
+- cash
+- direct
+- fix
+- provide
+- swarm
+- deliver
+- antenna
+bip_39_word_space_1: impose
+bip_39_word_space_10: impose romance essence plug bright cash direct fix provide swarm
+bip_39_word_space_11: impose romance essence plug bright cash direct fix provide swarm
+  deliver
+bip_39_word_space_12: impose romance essence plug bright cash direct fix provide swarm
+  deliver antenna
+bip_39_word_space_2: impose romance
+bip_39_word_space_3: impose romance essence
+bip_39_word_space_4: impose romance essence plug
+bip_39_word_space_5: impose romance essence plug bright
+bip_39_word_space_6: impose romance essence plug bright cash
+bip_39_word_space_7: impose romance essence plug bright cash direct
+bip_39_word_space_8: impose romance essence plug bright cash direct fix
+bip_39_word_space_9: impose romance essence plug bright cash direct fix provide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

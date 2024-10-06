@@ -1,3 +1,185 @@
+bip_39_word_new_br1: item
+bip_39_word_new_br10: item<br>memory<br>best<br>agree<br>drip<br>voice<br>number<br>mercy<br>pass<br>soul
+bip_39_word_new_br11: item<br>memory<br>best<br>agree<br>drip<br>voice<br>number<br>mercy<br>pass<br>soul<br>margin
+bip_39_word_new_br12: item<br>memory<br>best<br>agree<br>drip<br>voice<br>number<br>mercy<br>pass<br>soul<br>margin<br>advice
+bip_39_word_new_br2: item<br>memory
+bip_39_word_new_br3: item<br>memory<br>best
+bip_39_word_new_br4: item<br>memory<br>best<br>agree
+bip_39_word_new_br5: item<br>memory<br>best<br>agree<br>drip
+bip_39_word_new_br6: item<br>memory<br>best<br>agree<br>drip<br>voice
+bip_39_word_new_br7: item<br>memory<br>best<br>agree<br>drip<br>voice<br>number
+bip_39_word_new_br8: item<br>memory<br>best<br>agree<br>drip<br>voice<br>number<br>mercy
+bip_39_word_new_br9: item<br>memory<br>best<br>agree<br>drip<br>voice<br>number<br>mercy<br>pass
+bip_39_word_new_line1: item
+bip_39_word_new_line10: 'item
+
+  memory
+
+  best
+
+  agree
+
+  drip
+
+  voice
+
+  number
+
+  mercy
+
+  pass
+
+  soul'
+bip_39_word_new_line11: 'item
+
+  memory
+
+  best
+
+  agree
+
+  drip
+
+  voice
+
+  number
+
+  mercy
+
+  pass
+
+  soul
+
+  margin'
+bip_39_word_new_line12: 'item
+
+  memory
+
+  best
+
+  agree
+
+  drip
+
+  voice
+
+  number
+
+  mercy
+
+  pass
+
+  soul
+
+  margin
+
+  advice'
+bip_39_word_new_line2: 'item
+
+  memory'
+bip_39_word_new_line3: 'item
+
+  memory
+
+  best'
+bip_39_word_new_line4: 'item
+
+  memory
+
+  best
+
+  agree'
+bip_39_word_new_line5: 'item
+
+  memory
+
+  best
+
+  agree
+
+  drip'
+bip_39_word_new_line6: 'item
+
+  memory
+
+  best
+
+  agree
+
+  drip
+
+  voice'
+bip_39_word_new_line7: 'item
+
+  memory
+
+  best
+
+  agree
+
+  drip
+
+  voice
+
+  number'
+bip_39_word_new_line8: 'item
+
+  memory
+
+  best
+
+  agree
+
+  drip
+
+  voice
+
+  number
+
+  mercy'
+bip_39_word_new_line9: 'item
+
+  memory
+
+  best
+
+  agree
+
+  drip
+
+  voice
+
+  number
+
+  mercy
+
+  pass'
+bip_39_word_space_0:
+- item
+- memory
+- best
+- agree
+- drip
+- voice
+- number
+- mercy
+- pass
+- soul
+- margin
+- advice
+bip_39_word_space_1: item
+bip_39_word_space_10: item memory best agree drip voice number mercy pass soul
+bip_39_word_space_11: item memory best agree drip voice number mercy pass soul margin
+bip_39_word_space_12: item memory best agree drip voice number mercy pass soul margin
+  advice
+bip_39_word_space_2: item memory
+bip_39_word_space_3: item memory best
+bip_39_word_space_4: item memory best agree
+bip_39_word_space_5: item memory best agree drip
+bip_39_word_space_6: item memory best agree drip voice
+bip_39_word_space_7: item memory best agree drip voice number
+bip_39_word_space_8: item memory best agree drip voice number mercy
+bip_39_word_space_9: item memory best agree drip voice number mercy pass
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

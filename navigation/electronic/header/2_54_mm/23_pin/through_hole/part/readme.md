@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: model recycle
+  * bip 39 word 3: model recycle law
+  * bip 39 word: model recycle law merit segment negative indicate virtual local rocket double author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | model |  
+| bip_39_word_new_br10 | model<br>recycle<br>law<br>merit<br>segment<br>negative<br>indicate<br>virtual<br>local<br>rocket |  
+| bip_39_word_new_br11 | model<br>recycle<br>law<br>merit<br>segment<br>negative<br>indicate<br>virtual<br>local<br>rocket<br>double |  
+| bip_39_word_new_br12 | model<br>recycle<br>law<br>merit<br>segment<br>negative<br>indicate<br>virtual<br>local<br>rocket<br>double<br>author |  
+| bip_39_word_new_br2 | model<br>recycle |  
+| bip_39_word_new_br3 | model<br>recycle<br>law |  
+| bip_39_word_new_br4 | model<br>recycle<br>law<br>merit |  
+| bip_39_word_new_br5 | model<br>recycle<br>law<br>merit<br>segment |  
+| bip_39_word_new_br6 | model<br>recycle<br>law<br>merit<br>segment<br>negative |  
+| bip_39_word_new_br7 | model<br>recycle<br>law<br>merit<br>segment<br>negative<br>indicate |  
+| bip_39_word_new_br8 | model<br>recycle<br>law<br>merit<br>segment<br>negative<br>indicate<br>virtual |  
+| bip_39_word_new_br9 | model<br>recycle<br>law<br>merit<br>segment<br>negative<br>indicate<br>virtual<br>local |  
+| bip_39_word_new_line1 | model |  
+| bip_39_word_new_line10 | model
+recycle
+law
+merit
+segment
+negative
+indicate
+virtual
+local
+rocket |  
+| bip_39_word_new_line11 | model
+recycle
+law
+merit
+segment
+negative
+indicate
+virtual
+local
+rocket
+double |  
+| bip_39_word_new_line12 | model
+recycle
+law
+merit
+segment
+negative
+indicate
+virtual
+local
+rocket
+double
+author |  
+| bip_39_word_new_line2 | model
+recycle |  
+| bip_39_word_new_line3 | model
+recycle
+law |  
+| bip_39_word_new_line4 | model
+recycle
+law
+merit |  
+| bip_39_word_new_line5 | model
+recycle
+law
+merit
+segment |  
+| bip_39_word_new_line6 | model
+recycle
+law
+merit
+segment
+negative |  
+| bip_39_word_new_line7 | model
+recycle
+law
+merit
+segment
+negative
+indicate |  
+| bip_39_word_new_line8 | model
+recycle
+law
+merit
+segment
+negative
+indicate
+virtual |  
+| bip_39_word_new_line9 | model
+recycle
+law
+merit
+segment
+negative
+indicate
+virtual
+local |  
+| bip_39_word_space_0 | ['model', 'recycle', 'law', 'merit', 'segment', 'negative', 'indicate', 'virtual', 'local', 'rocket', 'double', 'author'] |  
+| bip_39_word_space_1 | model |  
+| bip_39_word_space_10 | model recycle law merit segment negative indicate virtual local rocket |  
+| bip_39_word_space_11 | model recycle law merit segment negative indicate virtual local rocket double |  
+| bip_39_word_space_12 | model recycle law merit segment negative indicate virtual local rocket double author |  
+| bip_39_word_space_2 | model recycle |  
+| bip_39_word_space_3 | model recycle law |  
+| bip_39_word_space_4 | model recycle law merit |  
+| bip_39_word_space_5 | model recycle law merit segment |  
+| bip_39_word_space_6 | model recycle law merit segment negative |  
+| bip_39_word_space_7 | model recycle law merit segment negative indicate |  
+| bip_39_word_space_8 | model recycle law merit segment negative indicate virtual |  
+| bip_39_word_space_9 | model recycle law merit segment negative indicate virtual local |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

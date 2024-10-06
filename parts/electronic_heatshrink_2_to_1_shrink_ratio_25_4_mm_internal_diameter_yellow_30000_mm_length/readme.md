@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: usage credit
+  * bip 39 word 3: usage credit gather
+  * bip 39 word: usage credit gather rescue elite noodle park illegal sock science crime average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | usage |  
+| bip_39_word_new_br10 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle<br>park<br>illegal<br>sock<br>science |  
+| bip_39_word_new_br11 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle<br>park<br>illegal<br>sock<br>science<br>crime |  
+| bip_39_word_new_br12 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle<br>park<br>illegal<br>sock<br>science<br>crime<br>average |  
+| bip_39_word_new_br2 | usage<br>credit |  
+| bip_39_word_new_br3 | usage<br>credit<br>gather |  
+| bip_39_word_new_br4 | usage<br>credit<br>gather<br>rescue |  
+| bip_39_word_new_br5 | usage<br>credit<br>gather<br>rescue<br>elite |  
+| bip_39_word_new_br6 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle |  
+| bip_39_word_new_br7 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle<br>park |  
+| bip_39_word_new_br8 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle<br>park<br>illegal |  
+| bip_39_word_new_br9 | usage<br>credit<br>gather<br>rescue<br>elite<br>noodle<br>park<br>illegal<br>sock |  
+| bip_39_word_new_line1 | usage |  
+| bip_39_word_new_line10 | usage
+credit
+gather
+rescue
+elite
+noodle
+park
+illegal
+sock
+science |  
+| bip_39_word_new_line11 | usage
+credit
+gather
+rescue
+elite
+noodle
+park
+illegal
+sock
+science
+crime |  
+| bip_39_word_new_line12 | usage
+credit
+gather
+rescue
+elite
+noodle
+park
+illegal
+sock
+science
+crime
+average |  
+| bip_39_word_new_line2 | usage
+credit |  
+| bip_39_word_new_line3 | usage
+credit
+gather |  
+| bip_39_word_new_line4 | usage
+credit
+gather
+rescue |  
+| bip_39_word_new_line5 | usage
+credit
+gather
+rescue
+elite |  
+| bip_39_word_new_line6 | usage
+credit
+gather
+rescue
+elite
+noodle |  
+| bip_39_word_new_line7 | usage
+credit
+gather
+rescue
+elite
+noodle
+park |  
+| bip_39_word_new_line8 | usage
+credit
+gather
+rescue
+elite
+noodle
+park
+illegal |  
+| bip_39_word_new_line9 | usage
+credit
+gather
+rescue
+elite
+noodle
+park
+illegal
+sock |  
+| bip_39_word_space_0 | ['usage', 'credit', 'gather', 'rescue', 'elite', 'noodle', 'park', 'illegal', 'sock', 'science', 'crime', 'average'] |  
+| bip_39_word_space_1 | usage |  
+| bip_39_word_space_10 | usage credit gather rescue elite noodle park illegal sock science |  
+| bip_39_word_space_11 | usage credit gather rescue elite noodle park illegal sock science crime |  
+| bip_39_word_space_12 | usage credit gather rescue elite noodle park illegal sock science crime average |  
+| bip_39_word_space_2 | usage credit |  
+| bip_39_word_space_3 | usage credit gather |  
+| bip_39_word_space_4 | usage credit gather rescue |  
+| bip_39_word_space_5 | usage credit gather rescue elite |  
+| bip_39_word_space_6 | usage credit gather rescue elite noodle |  
+| bip_39_word_space_7 | usage credit gather rescue elite noodle park |  
+| bip_39_word_space_8 | usage credit gather rescue elite noodle park illegal |  
+| bip_39_word_space_9 | usage credit gather rescue elite noodle park illegal sock |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

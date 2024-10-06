@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monster omit
+  * bip 39 word 3: monster omit model
+  * bip 39 word: monster omit model toy advance episode noodle panther float behave silly area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monster |  
+| bip_39_word_new_br10 | monster<br>omit<br>model<br>toy<br>advance<br>episode<br>noodle<br>panther<br>float<br>behave |  
+| bip_39_word_new_br11 | monster<br>omit<br>model<br>toy<br>advance<br>episode<br>noodle<br>panther<br>float<br>behave<br>silly |  
+| bip_39_word_new_br12 | monster<br>omit<br>model<br>toy<br>advance<br>episode<br>noodle<br>panther<br>float<br>behave<br>silly<br>area |  
+| bip_39_word_new_br2 | monster<br>omit |  
+| bip_39_word_new_br3 | monster<br>omit<br>model |  
+| bip_39_word_new_br4 | monster<br>omit<br>model<br>toy |  
+| bip_39_word_new_br5 | monster<br>omit<br>model<br>toy<br>advance |  
+| bip_39_word_new_br6 | monster<br>omit<br>model<br>toy<br>advance<br>episode |  
+| bip_39_word_new_br7 | monster<br>omit<br>model<br>toy<br>advance<br>episode<br>noodle |  
+| bip_39_word_new_br8 | monster<br>omit<br>model<br>toy<br>advance<br>episode<br>noodle<br>panther |  
+| bip_39_word_new_br9 | monster<br>omit<br>model<br>toy<br>advance<br>episode<br>noodle<br>panther<br>float |  
+| bip_39_word_new_line1 | monster |  
+| bip_39_word_new_line10 | monster
+omit
+model
+toy
+advance
+episode
+noodle
+panther
+float
+behave |  
+| bip_39_word_new_line11 | monster
+omit
+model
+toy
+advance
+episode
+noodle
+panther
+float
+behave
+silly |  
+| bip_39_word_new_line12 | monster
+omit
+model
+toy
+advance
+episode
+noodle
+panther
+float
+behave
+silly
+area |  
+| bip_39_word_new_line2 | monster
+omit |  
+| bip_39_word_new_line3 | monster
+omit
+model |  
+| bip_39_word_new_line4 | monster
+omit
+model
+toy |  
+| bip_39_word_new_line5 | monster
+omit
+model
+toy
+advance |  
+| bip_39_word_new_line6 | monster
+omit
+model
+toy
+advance
+episode |  
+| bip_39_word_new_line7 | monster
+omit
+model
+toy
+advance
+episode
+noodle |  
+| bip_39_word_new_line8 | monster
+omit
+model
+toy
+advance
+episode
+noodle
+panther |  
+| bip_39_word_new_line9 | monster
+omit
+model
+toy
+advance
+episode
+noodle
+panther
+float |  
+| bip_39_word_space_0 | ['monster', 'omit', 'model', 'toy', 'advance', 'episode', 'noodle', 'panther', 'float', 'behave', 'silly', 'area'] |  
+| bip_39_word_space_1 | monster |  
+| bip_39_word_space_10 | monster omit model toy advance episode noodle panther float behave |  
+| bip_39_word_space_11 | monster omit model toy advance episode noodle panther float behave silly |  
+| bip_39_word_space_12 | monster omit model toy advance episode noodle panther float behave silly area |  
+| bip_39_word_space_2 | monster omit |  
+| bip_39_word_space_3 | monster omit model |  
+| bip_39_word_space_4 | monster omit model toy |  
+| bip_39_word_space_5 | monster omit model toy advance |  
+| bip_39_word_space_6 | monster omit model toy advance episode |  
+| bip_39_word_space_7 | monster omit model toy advance episode noodle |  
+| bip_39_word_space_8 | monster omit model toy advance episode noodle panther |  
+| bip_39_word_space_9 | monster omit model toy advance episode noodle panther float |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

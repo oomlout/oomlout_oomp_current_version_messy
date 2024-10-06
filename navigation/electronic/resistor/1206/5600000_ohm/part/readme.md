@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: daring visit
+  * bip 39 word 3: daring visit session
+  * bip 39 word: daring visit session bar chief tomorrow mom program tail jeans fish advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | daring |  
+| bip_39_word_new_br10 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow<br>mom<br>program<br>tail<br>jeans |  
+| bip_39_word_new_br11 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow<br>mom<br>program<br>tail<br>jeans<br>fish |  
+| bip_39_word_new_br12 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow<br>mom<br>program<br>tail<br>jeans<br>fish<br>advance |  
+| bip_39_word_new_br2 | daring<br>visit |  
+| bip_39_word_new_br3 | daring<br>visit<br>session |  
+| bip_39_word_new_br4 | daring<br>visit<br>session<br>bar |  
+| bip_39_word_new_br5 | daring<br>visit<br>session<br>bar<br>chief |  
+| bip_39_word_new_br6 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow |  
+| bip_39_word_new_br7 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow<br>mom |  
+| bip_39_word_new_br8 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow<br>mom<br>program |  
+| bip_39_word_new_br9 | daring<br>visit<br>session<br>bar<br>chief<br>tomorrow<br>mom<br>program<br>tail |  
+| bip_39_word_new_line1 | daring |  
+| bip_39_word_new_line10 | daring
+visit
+session
+bar
+chief
+tomorrow
+mom
+program
+tail
+jeans |  
+| bip_39_word_new_line11 | daring
+visit
+session
+bar
+chief
+tomorrow
+mom
+program
+tail
+jeans
+fish |  
+| bip_39_word_new_line12 | daring
+visit
+session
+bar
+chief
+tomorrow
+mom
+program
+tail
+jeans
+fish
+advance |  
+| bip_39_word_new_line2 | daring
+visit |  
+| bip_39_word_new_line3 | daring
+visit
+session |  
+| bip_39_word_new_line4 | daring
+visit
+session
+bar |  
+| bip_39_word_new_line5 | daring
+visit
+session
+bar
+chief |  
+| bip_39_word_new_line6 | daring
+visit
+session
+bar
+chief
+tomorrow |  
+| bip_39_word_new_line7 | daring
+visit
+session
+bar
+chief
+tomorrow
+mom |  
+| bip_39_word_new_line8 | daring
+visit
+session
+bar
+chief
+tomorrow
+mom
+program |  
+| bip_39_word_new_line9 | daring
+visit
+session
+bar
+chief
+tomorrow
+mom
+program
+tail |  
+| bip_39_word_space_0 | ['daring', 'visit', 'session', 'bar', 'chief', 'tomorrow', 'mom', 'program', 'tail', 'jeans', 'fish', 'advance'] |  
+| bip_39_word_space_1 | daring |  
+| bip_39_word_space_10 | daring visit session bar chief tomorrow mom program tail jeans |  
+| bip_39_word_space_11 | daring visit session bar chief tomorrow mom program tail jeans fish |  
+| bip_39_word_space_12 | daring visit session bar chief tomorrow mom program tail jeans fish advance |  
+| bip_39_word_space_2 | daring visit |  
+| bip_39_word_space_3 | daring visit session |  
+| bip_39_word_space_4 | daring visit session bar |  
+| bip_39_word_space_5 | daring visit session bar chief |  
+| bip_39_word_space_6 | daring visit session bar chief tomorrow |  
+| bip_39_word_space_7 | daring visit session bar chief tomorrow mom |  
+| bip_39_word_space_8 | daring visit session bar chief tomorrow mom program |  
+| bip_39_word_space_9 | daring visit session bar chief tomorrow mom program tail |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

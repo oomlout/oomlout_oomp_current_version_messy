@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ecology flag
+  * bip 39 word 3: ecology flag immune
+  * bip 39 word: ecology flag immune stool crane essence supply couch matrix social solar audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ecology |  
+| bip_39_word_new_br10 | ecology<br>flag<br>immune<br>stool<br>crane<br>essence<br>supply<br>couch<br>matrix<br>social |  
+| bip_39_word_new_br11 | ecology<br>flag<br>immune<br>stool<br>crane<br>essence<br>supply<br>couch<br>matrix<br>social<br>solar |  
+| bip_39_word_new_br12 | ecology<br>flag<br>immune<br>stool<br>crane<br>essence<br>supply<br>couch<br>matrix<br>social<br>solar<br>audit |  
+| bip_39_word_new_br2 | ecology<br>flag |  
+| bip_39_word_new_br3 | ecology<br>flag<br>immune |  
+| bip_39_word_new_br4 | ecology<br>flag<br>immune<br>stool |  
+| bip_39_word_new_br5 | ecology<br>flag<br>immune<br>stool<br>crane |  
+| bip_39_word_new_br6 | ecology<br>flag<br>immune<br>stool<br>crane<br>essence |  
+| bip_39_word_new_br7 | ecology<br>flag<br>immune<br>stool<br>crane<br>essence<br>supply |  
+| bip_39_word_new_br8 | ecology<br>flag<br>immune<br>stool<br>crane<br>essence<br>supply<br>couch |  
+| bip_39_word_new_br9 | ecology<br>flag<br>immune<br>stool<br>crane<br>essence<br>supply<br>couch<br>matrix |  
+| bip_39_word_new_line1 | ecology |  
+| bip_39_word_new_line10 | ecology
+flag
+immune
+stool
+crane
+essence
+supply
+couch
+matrix
+social |  
+| bip_39_word_new_line11 | ecology
+flag
+immune
+stool
+crane
+essence
+supply
+couch
+matrix
+social
+solar |  
+| bip_39_word_new_line12 | ecology
+flag
+immune
+stool
+crane
+essence
+supply
+couch
+matrix
+social
+solar
+audit |  
+| bip_39_word_new_line2 | ecology
+flag |  
+| bip_39_word_new_line3 | ecology
+flag
+immune |  
+| bip_39_word_new_line4 | ecology
+flag
+immune
+stool |  
+| bip_39_word_new_line5 | ecology
+flag
+immune
+stool
+crane |  
+| bip_39_word_new_line6 | ecology
+flag
+immune
+stool
+crane
+essence |  
+| bip_39_word_new_line7 | ecology
+flag
+immune
+stool
+crane
+essence
+supply |  
+| bip_39_word_new_line8 | ecology
+flag
+immune
+stool
+crane
+essence
+supply
+couch |  
+| bip_39_word_new_line9 | ecology
+flag
+immune
+stool
+crane
+essence
+supply
+couch
+matrix |  
+| bip_39_word_space_0 | ['ecology', 'flag', 'immune', 'stool', 'crane', 'essence', 'supply', 'couch', 'matrix', 'social', 'solar', 'audit'] |  
+| bip_39_word_space_1 | ecology |  
+| bip_39_word_space_10 | ecology flag immune stool crane essence supply couch matrix social |  
+| bip_39_word_space_11 | ecology flag immune stool crane essence supply couch matrix social solar |  
+| bip_39_word_space_12 | ecology flag immune stool crane essence supply couch matrix social solar audit |  
+| bip_39_word_space_2 | ecology flag |  
+| bip_39_word_space_3 | ecology flag immune |  
+| bip_39_word_space_4 | ecology flag immune stool |  
+| bip_39_word_space_5 | ecology flag immune stool crane |  
+| bip_39_word_space_6 | ecology flag immune stool crane essence |  
+| bip_39_word_space_7 | ecology flag immune stool crane essence supply |  
+| bip_39_word_space_8 | ecology flag immune stool crane essence supply couch |  
+| bip_39_word_space_9 | ecology flag immune stool crane essence supply couch matrix |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

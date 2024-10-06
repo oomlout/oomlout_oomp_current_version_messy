@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tell spray
+  * bip 39 word 3: tell spray define
+  * bip 39 word: tell spray define ribbon day oxygen feel repair just salon rival accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tell |  
+| bip_39_word_new_br10 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen<br>feel<br>repair<br>just<br>salon |  
+| bip_39_word_new_br11 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen<br>feel<br>repair<br>just<br>salon<br>rival |  
+| bip_39_word_new_br12 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen<br>feel<br>repair<br>just<br>salon<br>rival<br>accuse |  
+| bip_39_word_new_br2 | tell<br>spray |  
+| bip_39_word_new_br3 | tell<br>spray<br>define |  
+| bip_39_word_new_br4 | tell<br>spray<br>define<br>ribbon |  
+| bip_39_word_new_br5 | tell<br>spray<br>define<br>ribbon<br>day |  
+| bip_39_word_new_br6 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen |  
+| bip_39_word_new_br7 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen<br>feel |  
+| bip_39_word_new_br8 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen<br>feel<br>repair |  
+| bip_39_word_new_br9 | tell<br>spray<br>define<br>ribbon<br>day<br>oxygen<br>feel<br>repair<br>just |  
+| bip_39_word_new_line1 | tell |  
+| bip_39_word_new_line10 | tell
+spray
+define
+ribbon
+day
+oxygen
+feel
+repair
+just
+salon |  
+| bip_39_word_new_line11 | tell
+spray
+define
+ribbon
+day
+oxygen
+feel
+repair
+just
+salon
+rival |  
+| bip_39_word_new_line12 | tell
+spray
+define
+ribbon
+day
+oxygen
+feel
+repair
+just
+salon
+rival
+accuse |  
+| bip_39_word_new_line2 | tell
+spray |  
+| bip_39_word_new_line3 | tell
+spray
+define |  
+| bip_39_word_new_line4 | tell
+spray
+define
+ribbon |  
+| bip_39_word_new_line5 | tell
+spray
+define
+ribbon
+day |  
+| bip_39_word_new_line6 | tell
+spray
+define
+ribbon
+day
+oxygen |  
+| bip_39_word_new_line7 | tell
+spray
+define
+ribbon
+day
+oxygen
+feel |  
+| bip_39_word_new_line8 | tell
+spray
+define
+ribbon
+day
+oxygen
+feel
+repair |  
+| bip_39_word_new_line9 | tell
+spray
+define
+ribbon
+day
+oxygen
+feel
+repair
+just |  
+| bip_39_word_space_0 | ['tell', 'spray', 'define', 'ribbon', 'day', 'oxygen', 'feel', 'repair', 'just', 'salon', 'rival', 'accuse'] |  
+| bip_39_word_space_1 | tell |  
+| bip_39_word_space_10 | tell spray define ribbon day oxygen feel repair just salon |  
+| bip_39_word_space_11 | tell spray define ribbon day oxygen feel repair just salon rival |  
+| bip_39_word_space_12 | tell spray define ribbon day oxygen feel repair just salon rival accuse |  
+| bip_39_word_space_2 | tell spray |  
+| bip_39_word_space_3 | tell spray define |  
+| bip_39_word_space_4 | tell spray define ribbon |  
+| bip_39_word_space_5 | tell spray define ribbon day |  
+| bip_39_word_space_6 | tell spray define ribbon day oxygen |  
+| bip_39_word_space_7 | tell spray define ribbon day oxygen feel |  
+| bip_39_word_space_8 | tell spray define ribbon day oxygen feel repair |  
+| bip_39_word_space_9 | tell spray define ribbon day oxygen feel repair just |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

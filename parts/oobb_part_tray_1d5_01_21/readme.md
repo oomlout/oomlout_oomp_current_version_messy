@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: access food
+  * bip 39 word 3: access food digital
+  * bip 39 word: access food digital carry recycle horn enter super invest model dumb armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | access |  
+| bip_39_word_new_br10 | access<br>food<br>digital<br>carry<br>recycle<br>horn<br>enter<br>super<br>invest<br>model |  
+| bip_39_word_new_br11 | access<br>food<br>digital<br>carry<br>recycle<br>horn<br>enter<br>super<br>invest<br>model<br>dumb |  
+| bip_39_word_new_br12 | access<br>food<br>digital<br>carry<br>recycle<br>horn<br>enter<br>super<br>invest<br>model<br>dumb<br>armed |  
+| bip_39_word_new_br2 | access<br>food |  
+| bip_39_word_new_br3 | access<br>food<br>digital |  
+| bip_39_word_new_br4 | access<br>food<br>digital<br>carry |  
+| bip_39_word_new_br5 | access<br>food<br>digital<br>carry<br>recycle |  
+| bip_39_word_new_br6 | access<br>food<br>digital<br>carry<br>recycle<br>horn |  
+| bip_39_word_new_br7 | access<br>food<br>digital<br>carry<br>recycle<br>horn<br>enter |  
+| bip_39_word_new_br8 | access<br>food<br>digital<br>carry<br>recycle<br>horn<br>enter<br>super |  
+| bip_39_word_new_br9 | access<br>food<br>digital<br>carry<br>recycle<br>horn<br>enter<br>super<br>invest |  
+| bip_39_word_new_line1 | access |  
+| bip_39_word_new_line10 | access
+food
+digital
+carry
+recycle
+horn
+enter
+super
+invest
+model |  
+| bip_39_word_new_line11 | access
+food
+digital
+carry
+recycle
+horn
+enter
+super
+invest
+model
+dumb |  
+| bip_39_word_new_line12 | access
+food
+digital
+carry
+recycle
+horn
+enter
+super
+invest
+model
+dumb
+armed |  
+| bip_39_word_new_line2 | access
+food |  
+| bip_39_word_new_line3 | access
+food
+digital |  
+| bip_39_word_new_line4 | access
+food
+digital
+carry |  
+| bip_39_word_new_line5 | access
+food
+digital
+carry
+recycle |  
+| bip_39_word_new_line6 | access
+food
+digital
+carry
+recycle
+horn |  
+| bip_39_word_new_line7 | access
+food
+digital
+carry
+recycle
+horn
+enter |  
+| bip_39_word_new_line8 | access
+food
+digital
+carry
+recycle
+horn
+enter
+super |  
+| bip_39_word_new_line9 | access
+food
+digital
+carry
+recycle
+horn
+enter
+super
+invest |  
+| bip_39_word_space_0 | ['access', 'food', 'digital', 'carry', 'recycle', 'horn', 'enter', 'super', 'invest', 'model', 'dumb', 'armed'] |  
+| bip_39_word_space_1 | access |  
+| bip_39_word_space_10 | access food digital carry recycle horn enter super invest model |  
+| bip_39_word_space_11 | access food digital carry recycle horn enter super invest model dumb |  
+| bip_39_word_space_12 | access food digital carry recycle horn enter super invest model dumb armed |  
+| bip_39_word_space_2 | access food |  
+| bip_39_word_space_3 | access food digital |  
+| bip_39_word_space_4 | access food digital carry |  
+| bip_39_word_space_5 | access food digital carry recycle |  
+| bip_39_word_space_6 | access food digital carry recycle horn |  
+| bip_39_word_space_7 | access food digital carry recycle horn enter |  
+| bip_39_word_space_8 | access food digital carry recycle horn enter super |  
+| bip_39_word_space_9 | access food digital carry recycle horn enter super invest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

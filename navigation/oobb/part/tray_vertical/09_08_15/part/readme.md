@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: upon bottom
+  * bip 39 word 3: upon bottom icon
+  * bip 39 word: upon bottom icon flip skate double mansion flag animal icon deputy announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | upon |  
+| bip_39_word_new_br10 | upon<br>bottom<br>icon<br>flip<br>skate<br>double<br>mansion<br>flag<br>animal<br>icon |  
+| bip_39_word_new_br11 | upon<br>bottom<br>icon<br>flip<br>skate<br>double<br>mansion<br>flag<br>animal<br>icon<br>deputy |  
+| bip_39_word_new_br12 | upon<br>bottom<br>icon<br>flip<br>skate<br>double<br>mansion<br>flag<br>animal<br>icon<br>deputy<br>announce |  
+| bip_39_word_new_br2 | upon<br>bottom |  
+| bip_39_word_new_br3 | upon<br>bottom<br>icon |  
+| bip_39_word_new_br4 | upon<br>bottom<br>icon<br>flip |  
+| bip_39_word_new_br5 | upon<br>bottom<br>icon<br>flip<br>skate |  
+| bip_39_word_new_br6 | upon<br>bottom<br>icon<br>flip<br>skate<br>double |  
+| bip_39_word_new_br7 | upon<br>bottom<br>icon<br>flip<br>skate<br>double<br>mansion |  
+| bip_39_word_new_br8 | upon<br>bottom<br>icon<br>flip<br>skate<br>double<br>mansion<br>flag |  
+| bip_39_word_new_br9 | upon<br>bottom<br>icon<br>flip<br>skate<br>double<br>mansion<br>flag<br>animal |  
+| bip_39_word_new_line1 | upon |  
+| bip_39_word_new_line10 | upon
+bottom
+icon
+flip
+skate
+double
+mansion
+flag
+animal
+icon |  
+| bip_39_word_new_line11 | upon
+bottom
+icon
+flip
+skate
+double
+mansion
+flag
+animal
+icon
+deputy |  
+| bip_39_word_new_line12 | upon
+bottom
+icon
+flip
+skate
+double
+mansion
+flag
+animal
+icon
+deputy
+announce |  
+| bip_39_word_new_line2 | upon
+bottom |  
+| bip_39_word_new_line3 | upon
+bottom
+icon |  
+| bip_39_word_new_line4 | upon
+bottom
+icon
+flip |  
+| bip_39_word_new_line5 | upon
+bottom
+icon
+flip
+skate |  
+| bip_39_word_new_line6 | upon
+bottom
+icon
+flip
+skate
+double |  
+| bip_39_word_new_line7 | upon
+bottom
+icon
+flip
+skate
+double
+mansion |  
+| bip_39_word_new_line8 | upon
+bottom
+icon
+flip
+skate
+double
+mansion
+flag |  
+| bip_39_word_new_line9 | upon
+bottom
+icon
+flip
+skate
+double
+mansion
+flag
+animal |  
+| bip_39_word_space_0 | ['upon', 'bottom', 'icon', 'flip', 'skate', 'double', 'mansion', 'flag', 'animal', 'icon', 'deputy', 'announce'] |  
+| bip_39_word_space_1 | upon |  
+| bip_39_word_space_10 | upon bottom icon flip skate double mansion flag animal icon |  
+| bip_39_word_space_11 | upon bottom icon flip skate double mansion flag animal icon deputy |  
+| bip_39_word_space_12 | upon bottom icon flip skate double mansion flag animal icon deputy announce |  
+| bip_39_word_space_2 | upon bottom |  
+| bip_39_word_space_3 | upon bottom icon |  
+| bip_39_word_space_4 | upon bottom icon flip |  
+| bip_39_word_space_5 | upon bottom icon flip skate |  
+| bip_39_word_space_6 | upon bottom icon flip skate double |  
+| bip_39_word_space_7 | upon bottom icon flip skate double mansion |  
+| bip_39_word_space_8 | upon bottom icon flip skate double mansion flag |  
+| bip_39_word_space_9 | upon bottom icon flip skate double mansion flag animal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

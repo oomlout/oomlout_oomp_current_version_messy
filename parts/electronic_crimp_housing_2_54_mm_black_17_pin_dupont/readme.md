@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: dupont
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: region solution
+  * bip 39 word 3: region solution quiz
+  * bip 39 word: region solution quiz steel crucial across frost knee brush put language absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | region |  
+| bip_39_word_new_br10 | region<br>solution<br>quiz<br>steel<br>crucial<br>across<br>frost<br>knee<br>brush<br>put |  
+| bip_39_word_new_br11 | region<br>solution<br>quiz<br>steel<br>crucial<br>across<br>frost<br>knee<br>brush<br>put<br>language |  
+| bip_39_word_new_br12 | region<br>solution<br>quiz<br>steel<br>crucial<br>across<br>frost<br>knee<br>brush<br>put<br>language<br>absorb |  
+| bip_39_word_new_br2 | region<br>solution |  
+| bip_39_word_new_br3 | region<br>solution<br>quiz |  
+| bip_39_word_new_br4 | region<br>solution<br>quiz<br>steel |  
+| bip_39_word_new_br5 | region<br>solution<br>quiz<br>steel<br>crucial |  
+| bip_39_word_new_br6 | region<br>solution<br>quiz<br>steel<br>crucial<br>across |  
+| bip_39_word_new_br7 | region<br>solution<br>quiz<br>steel<br>crucial<br>across<br>frost |  
+| bip_39_word_new_br8 | region<br>solution<br>quiz<br>steel<br>crucial<br>across<br>frost<br>knee |  
+| bip_39_word_new_br9 | region<br>solution<br>quiz<br>steel<br>crucial<br>across<br>frost<br>knee<br>brush |  
+| bip_39_word_new_line1 | region |  
+| bip_39_word_new_line10 | region
+solution
+quiz
+steel
+crucial
+across
+frost
+knee
+brush
+put |  
+| bip_39_word_new_line11 | region
+solution
+quiz
+steel
+crucial
+across
+frost
+knee
+brush
+put
+language |  
+| bip_39_word_new_line12 | region
+solution
+quiz
+steel
+crucial
+across
+frost
+knee
+brush
+put
+language
+absorb |  
+| bip_39_word_new_line2 | region
+solution |  
+| bip_39_word_new_line3 | region
+solution
+quiz |  
+| bip_39_word_new_line4 | region
+solution
+quiz
+steel |  
+| bip_39_word_new_line5 | region
+solution
+quiz
+steel
+crucial |  
+| bip_39_word_new_line6 | region
+solution
+quiz
+steel
+crucial
+across |  
+| bip_39_word_new_line7 | region
+solution
+quiz
+steel
+crucial
+across
+frost |  
+| bip_39_word_new_line8 | region
+solution
+quiz
+steel
+crucial
+across
+frost
+knee |  
+| bip_39_word_new_line9 | region
+solution
+quiz
+steel
+crucial
+across
+frost
+knee
+brush |  
+| bip_39_word_space_0 | ['region', 'solution', 'quiz', 'steel', 'crucial', 'across', 'frost', 'knee', 'brush', 'put', 'language', 'absorb'] |  
+| bip_39_word_space_1 | region |  
+| bip_39_word_space_10 | region solution quiz steel crucial across frost knee brush put |  
+| bip_39_word_space_11 | region solution quiz steel crucial across frost knee brush put language |  
+| bip_39_word_space_12 | region solution quiz steel crucial across frost knee brush put language absorb |  
+| bip_39_word_space_2 | region solution |  
+| bip_39_word_space_3 | region solution quiz |  
+| bip_39_word_space_4 | region solution quiz steel |  
+| bip_39_word_space_5 | region solution quiz steel crucial |  
+| bip_39_word_space_6 | region solution quiz steel crucial across |  
+| bip_39_word_space_7 | region solution quiz steel crucial across frost |  
+| bip_39_word_space_8 | region solution quiz steel crucial across frost knee |  
+| bip_39_word_space_9 | region solution quiz steel crucial across frost knee brush |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

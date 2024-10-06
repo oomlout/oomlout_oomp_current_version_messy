@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: office recall
+  * bip 39 word 3: office recall drift
+  * bip 39 word: office recall drift banana zone phone toilet cement game never citizen ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | office |  
+| bip_39_word_new_br10 | office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement<br>game<br>never |  
+| bip_39_word_new_br11 | office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement<br>game<br>never<br>citizen |  
+| bip_39_word_new_br12 | office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement<br>game<br>never<br>citizen<br>ankle |  
+| bip_39_word_new_br2 | office<br>recall |  
+| bip_39_word_new_br3 | office<br>recall<br>drift |  
+| bip_39_word_new_br4 | office<br>recall<br>drift<br>banana |  
+| bip_39_word_new_br5 | office<br>recall<br>drift<br>banana<br>zone |  
+| bip_39_word_new_br6 | office<br>recall<br>drift<br>banana<br>zone<br>phone |  
+| bip_39_word_new_br7 | office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet |  
+| bip_39_word_new_br8 | office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement |  
+| bip_39_word_new_br9 | office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement<br>game |  
+| bip_39_word_new_line1 | office |  
+| bip_39_word_new_line10 | office
+recall
+drift
+banana
+zone
+phone
+toilet
+cement
+game
+never |  
+| bip_39_word_new_line11 | office
+recall
+drift
+banana
+zone
+phone
+toilet
+cement
+game
+never
+citizen |  
+| bip_39_word_new_line12 | office
+recall
+drift
+banana
+zone
+phone
+toilet
+cement
+game
+never
+citizen
+ankle |  
+| bip_39_word_new_line2 | office
+recall |  
+| bip_39_word_new_line3 | office
+recall
+drift |  
+| bip_39_word_new_line4 | office
+recall
+drift
+banana |  
+| bip_39_word_new_line5 | office
+recall
+drift
+banana
+zone |  
+| bip_39_word_new_line6 | office
+recall
+drift
+banana
+zone
+phone |  
+| bip_39_word_new_line7 | office
+recall
+drift
+banana
+zone
+phone
+toilet |  
+| bip_39_word_new_line8 | office
+recall
+drift
+banana
+zone
+phone
+toilet
+cement |  
+| bip_39_word_new_line9 | office
+recall
+drift
+banana
+zone
+phone
+toilet
+cement
+game |  
+| bip_39_word_space_0 | ['office', 'recall', 'drift', 'banana', 'zone', 'phone', 'toilet', 'cement', 'game', 'never', 'citizen', 'ankle'] |  
+| bip_39_word_space_1 | office |  
+| bip_39_word_space_10 | office recall drift banana zone phone toilet cement game never |  
+| bip_39_word_space_11 | office recall drift banana zone phone toilet cement game never citizen |  
+| bip_39_word_space_12 | office recall drift banana zone phone toilet cement game never citizen ankle |  
+| bip_39_word_space_2 | office recall |  
+| bip_39_word_space_3 | office recall drift |  
+| bip_39_word_space_4 | office recall drift banana |  
+| bip_39_word_space_5 | office recall drift banana zone |  
+| bip_39_word_space_6 | office recall drift banana zone phone |  
+| bip_39_word_space_7 | office recall drift banana zone phone toilet |  
+| bip_39_word_space_8 | office recall drift banana zone phone toilet cement |  
+| bip_39_word_space_9 | office recall drift banana zone phone toilet cement game |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

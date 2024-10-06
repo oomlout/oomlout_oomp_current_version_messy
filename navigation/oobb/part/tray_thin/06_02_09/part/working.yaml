@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pitch
+bip_39_word_new_br10: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon<br>you<br>jar<br>wreck<br>treat
+bip_39_word_new_br11: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon<br>you<br>jar<br>wreck<br>treat<br>hidden
+bip_39_word_new_br12: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon<br>you<br>jar<br>wreck<br>treat<br>hidden<br>armed
+bip_39_word_new_br2: pitch<br>guitar
+bip_39_word_new_br3: pitch<br>guitar<br>cluster
+bip_39_word_new_br4: pitch<br>guitar<br>cluster<br>biology
+bip_39_word_new_br5: pitch<br>guitar<br>cluster<br>biology<br>game
+bip_39_word_new_br6: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon
+bip_39_word_new_br7: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon<br>you
+bip_39_word_new_br8: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon<br>you<br>jar
+bip_39_word_new_br9: pitch<br>guitar<br>cluster<br>biology<br>game<br>pigeon<br>you<br>jar<br>wreck
+bip_39_word_new_line1: pitch
+bip_39_word_new_line10: 'pitch
+
+  guitar
+
+  cluster
+
+  biology
+
+  game
+
+  pigeon
+
+  you
+
+  jar
+
+  wreck
+
+  treat'
+bip_39_word_new_line11: 'pitch
+
+  guitar
+
+  cluster
+
+  biology
+
+  game
+
+  pigeon
+
+  you
+
+  jar
+
+  wreck
+
+  treat
+
+  hidden'
+bip_39_word_new_line12: 'pitch
+
+  guitar
+
+  cluster
+
+  biology
+
+  game
+
+  pigeon
+
+  you
+
+  jar
+
+  wreck
+
+  treat
+
+  hidden
+
+  armed'
+bip_39_word_new_line2: 'pitch
+
+  guitar'
+bip_39_word_new_line3: 'pitch
+
+  guitar
+
+  cluster'
+bip_39_word_new_line4: 'pitch
+
+  guitar
+
+  cluster
+
+  biology'
+bip_39_word_new_line5: 'pitch
+
+  guitar
+
+  cluster
+
+  biology
+
+  game'
+bip_39_word_new_line6: 'pitch
+
+  guitar
+
+  cluster
+
+  biology
+
+  game
+
+  pigeon'
+bip_39_word_new_line7: 'pitch
+
+  guitar
+
+  cluster
+
+  biology
+
+  game
+
+  pigeon
+
+  you'
+bip_39_word_new_line8: 'pitch
+
+  guitar
+
+  cluster
+
+  biology
+
+  game
+
+  pigeon
+
+  you
+
+  jar'
+bip_39_word_new_line9: 'pitch
+
+  guitar
+
+  cluster
+
+  biology
+
+  game
+
+  pigeon
+
+  you
+
+  jar
+
+  wreck'
+bip_39_word_space_0:
+- pitch
+- guitar
+- cluster
+- biology
+- game
+- pigeon
+- you
+- jar
+- wreck
+- treat
+- hidden
+- armed
+bip_39_word_space_1: pitch
+bip_39_word_space_10: pitch guitar cluster biology game pigeon you jar wreck treat
+bip_39_word_space_11: pitch guitar cluster biology game pigeon you jar wreck treat
+  hidden
+bip_39_word_space_12: pitch guitar cluster biology game pigeon you jar wreck treat
+  hidden armed
+bip_39_word_space_2: pitch guitar
+bip_39_word_space_3: pitch guitar cluster
+bip_39_word_space_4: pitch guitar cluster biology
+bip_39_word_space_5: pitch guitar cluster biology game
+bip_39_word_space_6: pitch guitar cluster biology game pigeon
+bip_39_word_space_7: pitch guitar cluster biology game pigeon you
+bip_39_word_space_8: pitch guitar cluster biology game pigeon you jar
+bip_39_word_space_9: pitch guitar cluster biology game pigeon you jar wreck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: olive improve
+  * bip 39 word 3: olive improve aisle
+  * bip 39 word: olive improve aisle patch response crisp ribbon horse orchard nut transfer acid
 
 ### other_codes
 * short_code: ms4m16pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | olive |  
+| bip_39_word_new_br10 | olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse<br>orchard<br>nut |  
+| bip_39_word_new_br11 | olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse<br>orchard<br>nut<br>transfer |  
+| bip_39_word_new_br12 | olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse<br>orchard<br>nut<br>transfer<br>acid |  
+| bip_39_word_new_br2 | olive<br>improve |  
+| bip_39_word_new_br3 | olive<br>improve<br>aisle |  
+| bip_39_word_new_br4 | olive<br>improve<br>aisle<br>patch |  
+| bip_39_word_new_br5 | olive<br>improve<br>aisle<br>patch<br>response |  
+| bip_39_word_new_br6 | olive<br>improve<br>aisle<br>patch<br>response<br>crisp |  
+| bip_39_word_new_br7 | olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon |  
+| bip_39_word_new_br8 | olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse |  
+| bip_39_word_new_br9 | olive<br>improve<br>aisle<br>patch<br>response<br>crisp<br>ribbon<br>horse<br>orchard |  
+| bip_39_word_new_line1 | olive |  
+| bip_39_word_new_line10 | olive
+improve
+aisle
+patch
+response
+crisp
+ribbon
+horse
+orchard
+nut |  
+| bip_39_word_new_line11 | olive
+improve
+aisle
+patch
+response
+crisp
+ribbon
+horse
+orchard
+nut
+transfer |  
+| bip_39_word_new_line12 | olive
+improve
+aisle
+patch
+response
+crisp
+ribbon
+horse
+orchard
+nut
+transfer
+acid |  
+| bip_39_word_new_line2 | olive
+improve |  
+| bip_39_word_new_line3 | olive
+improve
+aisle |  
+| bip_39_word_new_line4 | olive
+improve
+aisle
+patch |  
+| bip_39_word_new_line5 | olive
+improve
+aisle
+patch
+response |  
+| bip_39_word_new_line6 | olive
+improve
+aisle
+patch
+response
+crisp |  
+| bip_39_word_new_line7 | olive
+improve
+aisle
+patch
+response
+crisp
+ribbon |  
+| bip_39_word_new_line8 | olive
+improve
+aisle
+patch
+response
+crisp
+ribbon
+horse |  
+| bip_39_word_new_line9 | olive
+improve
+aisle
+patch
+response
+crisp
+ribbon
+horse
+orchard |  
+| bip_39_word_space_0 | ['olive', 'improve', 'aisle', 'patch', 'response', 'crisp', 'ribbon', 'horse', 'orchard', 'nut', 'transfer', 'acid'] |  
+| bip_39_word_space_1 | olive |  
+| bip_39_word_space_10 | olive improve aisle patch response crisp ribbon horse orchard nut |  
+| bip_39_word_space_11 | olive improve aisle patch response crisp ribbon horse orchard nut transfer |  
+| bip_39_word_space_12 | olive improve aisle patch response crisp ribbon horse orchard nut transfer acid |  
+| bip_39_word_space_2 | olive improve |  
+| bip_39_word_space_3 | olive improve aisle |  
+| bip_39_word_space_4 | olive improve aisle patch |  
+| bip_39_word_space_5 | olive improve aisle patch response |  
+| bip_39_word_space_6 | olive improve aisle patch response crisp |  
+| bip_39_word_space_7 | olive improve aisle patch response crisp ribbon |  
+| bip_39_word_space_8 | olive improve aisle patch response crisp ribbon horse |  
+| bip_39_word_space_9 | olive improve aisle patch response crisp ribbon horse orchard |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

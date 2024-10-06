@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pipe
+bip_39_word_new_br10: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab<br>alien<br>horse<br>setup<br>symptom
+bip_39_word_new_br11: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab<br>alien<br>horse<br>setup<br>symptom<br>carbon
+bip_39_word_new_br12: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab<br>alien<br>horse<br>setup<br>symptom<br>carbon<br>attitude
+bip_39_word_new_br2: pipe<br>fiction
+bip_39_word_new_br3: pipe<br>fiction<br>maze
+bip_39_word_new_br4: pipe<br>fiction<br>maze<br>alone
+bip_39_word_new_br5: pipe<br>fiction<br>maze<br>alone<br>ability
+bip_39_word_new_br6: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab
+bip_39_word_new_br7: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab<br>alien
+bip_39_word_new_br8: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab<br>alien<br>horse
+bip_39_word_new_br9: pipe<br>fiction<br>maze<br>alone<br>ability<br>grab<br>alien<br>horse<br>setup
+bip_39_word_new_line1: pipe
+bip_39_word_new_line10: 'pipe
+
+  fiction
+
+  maze
+
+  alone
+
+  ability
+
+  grab
+
+  alien
+
+  horse
+
+  setup
+
+  symptom'
+bip_39_word_new_line11: 'pipe
+
+  fiction
+
+  maze
+
+  alone
+
+  ability
+
+  grab
+
+  alien
+
+  horse
+
+  setup
+
+  symptom
+
+  carbon'
+bip_39_word_new_line12: 'pipe
+
+  fiction
+
+  maze
+
+  alone
+
+  ability
+
+  grab
+
+  alien
+
+  horse
+
+  setup
+
+  symptom
+
+  carbon
+
+  attitude'
+bip_39_word_new_line2: 'pipe
+
+  fiction'
+bip_39_word_new_line3: 'pipe
+
+  fiction
+
+  maze'
+bip_39_word_new_line4: 'pipe
+
+  fiction
+
+  maze
+
+  alone'
+bip_39_word_new_line5: 'pipe
+
+  fiction
+
+  maze
+
+  alone
+
+  ability'
+bip_39_word_new_line6: 'pipe
+
+  fiction
+
+  maze
+
+  alone
+
+  ability
+
+  grab'
+bip_39_word_new_line7: 'pipe
+
+  fiction
+
+  maze
+
+  alone
+
+  ability
+
+  grab
+
+  alien'
+bip_39_word_new_line8: 'pipe
+
+  fiction
+
+  maze
+
+  alone
+
+  ability
+
+  grab
+
+  alien
+
+  horse'
+bip_39_word_new_line9: 'pipe
+
+  fiction
+
+  maze
+
+  alone
+
+  ability
+
+  grab
+
+  alien
+
+  horse
+
+  setup'
+bip_39_word_space_0:
+- pipe
+- fiction
+- maze
+- alone
+- ability
+- grab
+- alien
+- horse
+- setup
+- symptom
+- carbon
+- attitude
+bip_39_word_space_1: pipe
+bip_39_word_space_10: pipe fiction maze alone ability grab alien horse setup symptom
+bip_39_word_space_11: pipe fiction maze alone ability grab alien horse setup symptom
+  carbon
+bip_39_word_space_12: pipe fiction maze alone ability grab alien horse setup symptom
+  carbon attitude
+bip_39_word_space_2: pipe fiction
+bip_39_word_space_3: pipe fiction maze
+bip_39_word_space_4: pipe fiction maze alone
+bip_39_word_space_5: pipe fiction maze alone ability
+bip_39_word_space_6: pipe fiction maze alone ability grab
+bip_39_word_space_7: pipe fiction maze alone ability grab alien
+bip_39_word_space_8: pipe fiction maze alone ability grab alien horse
+bip_39_word_space_9: pipe fiction maze alone ability grab alien horse setup
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

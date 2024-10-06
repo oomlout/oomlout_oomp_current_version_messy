@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: term recall
+  * bip 39 word 3: term recall lunar
+  * bip 39 word: term recall lunar vehicle market erase exact soda pony artist power angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | term |  
+| bip_39_word_new_br10 | term<br>recall<br>lunar<br>vehicle<br>market<br>erase<br>exact<br>soda<br>pony<br>artist |  
+| bip_39_word_new_br11 | term<br>recall<br>lunar<br>vehicle<br>market<br>erase<br>exact<br>soda<br>pony<br>artist<br>power |  
+| bip_39_word_new_br12 | term<br>recall<br>lunar<br>vehicle<br>market<br>erase<br>exact<br>soda<br>pony<br>artist<br>power<br>angle |  
+| bip_39_word_new_br2 | term<br>recall |  
+| bip_39_word_new_br3 | term<br>recall<br>lunar |  
+| bip_39_word_new_br4 | term<br>recall<br>lunar<br>vehicle |  
+| bip_39_word_new_br5 | term<br>recall<br>lunar<br>vehicle<br>market |  
+| bip_39_word_new_br6 | term<br>recall<br>lunar<br>vehicle<br>market<br>erase |  
+| bip_39_word_new_br7 | term<br>recall<br>lunar<br>vehicle<br>market<br>erase<br>exact |  
+| bip_39_word_new_br8 | term<br>recall<br>lunar<br>vehicle<br>market<br>erase<br>exact<br>soda |  
+| bip_39_word_new_br9 | term<br>recall<br>lunar<br>vehicle<br>market<br>erase<br>exact<br>soda<br>pony |  
+| bip_39_word_new_line1 | term |  
+| bip_39_word_new_line10 | term
+recall
+lunar
+vehicle
+market
+erase
+exact
+soda
+pony
+artist |  
+| bip_39_word_new_line11 | term
+recall
+lunar
+vehicle
+market
+erase
+exact
+soda
+pony
+artist
+power |  
+| bip_39_word_new_line12 | term
+recall
+lunar
+vehicle
+market
+erase
+exact
+soda
+pony
+artist
+power
+angle |  
+| bip_39_word_new_line2 | term
+recall |  
+| bip_39_word_new_line3 | term
+recall
+lunar |  
+| bip_39_word_new_line4 | term
+recall
+lunar
+vehicle |  
+| bip_39_word_new_line5 | term
+recall
+lunar
+vehicle
+market |  
+| bip_39_word_new_line6 | term
+recall
+lunar
+vehicle
+market
+erase |  
+| bip_39_word_new_line7 | term
+recall
+lunar
+vehicle
+market
+erase
+exact |  
+| bip_39_word_new_line8 | term
+recall
+lunar
+vehicle
+market
+erase
+exact
+soda |  
+| bip_39_word_new_line9 | term
+recall
+lunar
+vehicle
+market
+erase
+exact
+soda
+pony |  
+| bip_39_word_space_0 | ['term', 'recall', 'lunar', 'vehicle', 'market', 'erase', 'exact', 'soda', 'pony', 'artist', 'power', 'angle'] |  
+| bip_39_word_space_1 | term |  
+| bip_39_word_space_10 | term recall lunar vehicle market erase exact soda pony artist |  
+| bip_39_word_space_11 | term recall lunar vehicle market erase exact soda pony artist power |  
+| bip_39_word_space_12 | term recall lunar vehicle market erase exact soda pony artist power angle |  
+| bip_39_word_space_2 | term recall |  
+| bip_39_word_space_3 | term recall lunar |  
+| bip_39_word_space_4 | term recall lunar vehicle |  
+| bip_39_word_space_5 | term recall lunar vehicle market |  
+| bip_39_word_space_6 | term recall lunar vehicle market erase |  
+| bip_39_word_space_7 | term recall lunar vehicle market erase exact |  
+| bip_39_word_space_8 | term recall lunar vehicle market erase exact soda |  
+| bip_39_word_space_9 | term recall lunar vehicle market erase exact soda pony |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

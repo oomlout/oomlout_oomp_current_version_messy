@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brass clap
+  * bip 39 word 3: brass clap bean
+  * bip 39 word: brass clap bean mule ability canal demise kitten interest mind butter assist
 
 ### other_codes
 * short_code: st2d3b16p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brass |  
+| bip_39_word_new_br10 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind |  
+| bip_39_word_new_br11 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind<br>butter |  
+| bip_39_word_new_br12 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest<br>mind<br>butter<br>assist |  
+| bip_39_word_new_br2 | brass<br>clap |  
+| bip_39_word_new_br3 | brass<br>clap<br>bean |  
+| bip_39_word_new_br4 | brass<br>clap<br>bean<br>mule |  
+| bip_39_word_new_br5 | brass<br>clap<br>bean<br>mule<br>ability |  
+| bip_39_word_new_br6 | brass<br>clap<br>bean<br>mule<br>ability<br>canal |  
+| bip_39_word_new_br7 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise |  
+| bip_39_word_new_br8 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten |  
+| bip_39_word_new_br9 | brass<br>clap<br>bean<br>mule<br>ability<br>canal<br>demise<br>kitten<br>interest |  
+| bip_39_word_new_line1 | brass |  
+| bip_39_word_new_line10 | brass
+clap
+bean
+mule
+ability
+canal
+demise
+kitten
+interest
+mind |  
+| bip_39_word_new_line11 | brass
+clap
+bean
+mule
+ability
+canal
+demise
+kitten
+interest
+mind
+butter |  
+| bip_39_word_new_line12 | brass
+clap
+bean
+mule
+ability
+canal
+demise
+kitten
+interest
+mind
+butter
+assist |  
+| bip_39_word_new_line2 | brass
+clap |  
+| bip_39_word_new_line3 | brass
+clap
+bean |  
+| bip_39_word_new_line4 | brass
+clap
+bean
+mule |  
+| bip_39_word_new_line5 | brass
+clap
+bean
+mule
+ability |  
+| bip_39_word_new_line6 | brass
+clap
+bean
+mule
+ability
+canal |  
+| bip_39_word_new_line7 | brass
+clap
+bean
+mule
+ability
+canal
+demise |  
+| bip_39_word_new_line8 | brass
+clap
+bean
+mule
+ability
+canal
+demise
+kitten |  
+| bip_39_word_new_line9 | brass
+clap
+bean
+mule
+ability
+canal
+demise
+kitten
+interest |  
+| bip_39_word_space_0 | ['brass', 'clap', 'bean', 'mule', 'ability', 'canal', 'demise', 'kitten', 'interest', 'mind', 'butter', 'assist'] |  
+| bip_39_word_space_1 | brass |  
+| bip_39_word_space_10 | brass clap bean mule ability canal demise kitten interest mind |  
+| bip_39_word_space_11 | brass clap bean mule ability canal demise kitten interest mind butter |  
+| bip_39_word_space_12 | brass clap bean mule ability canal demise kitten interest mind butter assist |  
+| bip_39_word_space_2 | brass clap |  
+| bip_39_word_space_3 | brass clap bean |  
+| bip_39_word_space_4 | brass clap bean mule |  
+| bip_39_word_space_5 | brass clap bean mule ability |  
+| bip_39_word_space_6 | brass clap bean mule ability canal |  
+| bip_39_word_space_7 | brass clap bean mule ability canal demise |  
+| bip_39_word_space_8 | brass clap bean mule ability canal demise kitten |  
+| bip_39_word_space_9 | brass clap bean mule ability canal demise kitten interest |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

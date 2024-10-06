@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: entry bulb
+  * bip 39 word 3: entry bulb beyond
+  * bip 39 word: entry bulb beyond expire explain fine real pyramid coral deal play auto
 
 ### other_codes
 * short_code: n4m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | entry |  
+| bip_39_word_new_br10 | entry<br>bulb<br>beyond<br>expire<br>explain<br>fine<br>real<br>pyramid<br>coral<br>deal |  
+| bip_39_word_new_br11 | entry<br>bulb<br>beyond<br>expire<br>explain<br>fine<br>real<br>pyramid<br>coral<br>deal<br>play |  
+| bip_39_word_new_br12 | entry<br>bulb<br>beyond<br>expire<br>explain<br>fine<br>real<br>pyramid<br>coral<br>deal<br>play<br>auto |  
+| bip_39_word_new_br2 | entry<br>bulb |  
+| bip_39_word_new_br3 | entry<br>bulb<br>beyond |  
+| bip_39_word_new_br4 | entry<br>bulb<br>beyond<br>expire |  
+| bip_39_word_new_br5 | entry<br>bulb<br>beyond<br>expire<br>explain |  
+| bip_39_word_new_br6 | entry<br>bulb<br>beyond<br>expire<br>explain<br>fine |  
+| bip_39_word_new_br7 | entry<br>bulb<br>beyond<br>expire<br>explain<br>fine<br>real |  
+| bip_39_word_new_br8 | entry<br>bulb<br>beyond<br>expire<br>explain<br>fine<br>real<br>pyramid |  
+| bip_39_word_new_br9 | entry<br>bulb<br>beyond<br>expire<br>explain<br>fine<br>real<br>pyramid<br>coral |  
+| bip_39_word_new_line1 | entry |  
+| bip_39_word_new_line10 | entry
+bulb
+beyond
+expire
+explain
+fine
+real
+pyramid
+coral
+deal |  
+| bip_39_word_new_line11 | entry
+bulb
+beyond
+expire
+explain
+fine
+real
+pyramid
+coral
+deal
+play |  
+| bip_39_word_new_line12 | entry
+bulb
+beyond
+expire
+explain
+fine
+real
+pyramid
+coral
+deal
+play
+auto |  
+| bip_39_word_new_line2 | entry
+bulb |  
+| bip_39_word_new_line3 | entry
+bulb
+beyond |  
+| bip_39_word_new_line4 | entry
+bulb
+beyond
+expire |  
+| bip_39_word_new_line5 | entry
+bulb
+beyond
+expire
+explain |  
+| bip_39_word_new_line6 | entry
+bulb
+beyond
+expire
+explain
+fine |  
+| bip_39_word_new_line7 | entry
+bulb
+beyond
+expire
+explain
+fine
+real |  
+| bip_39_word_new_line8 | entry
+bulb
+beyond
+expire
+explain
+fine
+real
+pyramid |  
+| bip_39_word_new_line9 | entry
+bulb
+beyond
+expire
+explain
+fine
+real
+pyramid
+coral |  
+| bip_39_word_space_0 | ['entry', 'bulb', 'beyond', 'expire', 'explain', 'fine', 'real', 'pyramid', 'coral', 'deal', 'play', 'auto'] |  
+| bip_39_word_space_1 | entry |  
+| bip_39_word_space_10 | entry bulb beyond expire explain fine real pyramid coral deal |  
+| bip_39_word_space_11 | entry bulb beyond expire explain fine real pyramid coral deal play |  
+| bip_39_word_space_12 | entry bulb beyond expire explain fine real pyramid coral deal play auto |  
+| bip_39_word_space_2 | entry bulb |  
+| bip_39_word_space_3 | entry bulb beyond |  
+| bip_39_word_space_4 | entry bulb beyond expire |  
+| bip_39_word_space_5 | entry bulb beyond expire explain |  
+| bip_39_word_space_6 | entry bulb beyond expire explain fine |  
+| bip_39_word_space_7 | entry bulb beyond expire explain fine real |  
+| bip_39_word_space_8 | entry bulb beyond expire explain fine real pyramid |  
+| bip_39_word_space_9 | entry bulb beyond expire explain fine real pyramid coral |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

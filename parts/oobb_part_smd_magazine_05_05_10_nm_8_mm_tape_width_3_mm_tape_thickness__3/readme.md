@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrestle wife
+  * bip 39 word 3: wrestle wife series
+  * bip 39 word: wrestle wife series canal leader enhance ball nation real dawn almost ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrestle |  
+| bip_39_word_new_br10 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance<br>ball<br>nation<br>real<br>dawn |  
+| bip_39_word_new_br11 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance<br>ball<br>nation<br>real<br>dawn<br>almost |  
+| bip_39_word_new_br12 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance<br>ball<br>nation<br>real<br>dawn<br>almost<br>ability |  
+| bip_39_word_new_br2 | wrestle<br>wife |  
+| bip_39_word_new_br3 | wrestle<br>wife<br>series |  
+| bip_39_word_new_br4 | wrestle<br>wife<br>series<br>canal |  
+| bip_39_word_new_br5 | wrestle<br>wife<br>series<br>canal<br>leader |  
+| bip_39_word_new_br6 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance |  
+| bip_39_word_new_br7 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance<br>ball |  
+| bip_39_word_new_br8 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance<br>ball<br>nation |  
+| bip_39_word_new_br9 | wrestle<br>wife<br>series<br>canal<br>leader<br>enhance<br>ball<br>nation<br>real |  
+| bip_39_word_new_line1 | wrestle |  
+| bip_39_word_new_line10 | wrestle
+wife
+series
+canal
+leader
+enhance
+ball
+nation
+real
+dawn |  
+| bip_39_word_new_line11 | wrestle
+wife
+series
+canal
+leader
+enhance
+ball
+nation
+real
+dawn
+almost |  
+| bip_39_word_new_line12 | wrestle
+wife
+series
+canal
+leader
+enhance
+ball
+nation
+real
+dawn
+almost
+ability |  
+| bip_39_word_new_line2 | wrestle
+wife |  
+| bip_39_word_new_line3 | wrestle
+wife
+series |  
+| bip_39_word_new_line4 | wrestle
+wife
+series
+canal |  
+| bip_39_word_new_line5 | wrestle
+wife
+series
+canal
+leader |  
+| bip_39_word_new_line6 | wrestle
+wife
+series
+canal
+leader
+enhance |  
+| bip_39_word_new_line7 | wrestle
+wife
+series
+canal
+leader
+enhance
+ball |  
+| bip_39_word_new_line8 | wrestle
+wife
+series
+canal
+leader
+enhance
+ball
+nation |  
+| bip_39_word_new_line9 | wrestle
+wife
+series
+canal
+leader
+enhance
+ball
+nation
+real |  
+| bip_39_word_space_0 | ['wrestle', 'wife', 'series', 'canal', 'leader', 'enhance', 'ball', 'nation', 'real', 'dawn', 'almost', 'ability'] |  
+| bip_39_word_space_1 | wrestle |  
+| bip_39_word_space_10 | wrestle wife series canal leader enhance ball nation real dawn |  
+| bip_39_word_space_11 | wrestle wife series canal leader enhance ball nation real dawn almost |  
+| bip_39_word_space_12 | wrestle wife series canal leader enhance ball nation real dawn almost ability |  
+| bip_39_word_space_2 | wrestle wife |  
+| bip_39_word_space_3 | wrestle wife series |  
+| bip_39_word_space_4 | wrestle wife series canal |  
+| bip_39_word_space_5 | wrestle wife series canal leader |  
+| bip_39_word_space_6 | wrestle wife series canal leader enhance |  
+| bip_39_word_space_7 | wrestle wife series canal leader enhance ball |  
+| bip_39_word_space_8 | wrestle wife series canal leader enhance ball nation |  
+| bip_39_word_space_9 | wrestle wife series canal leader enhance ball nation real |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: poet advance
+  * bip 39 word 3: poet advance steel
+  * bip 39 word: poet advance steel toddler addict twice mountain catalog legend civil scout achieve
 
 ### other_codes
 * short_code: br62206
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | poet |  
+| bip_39_word_new_br10 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend<br>civil |  
+| bip_39_word_new_br11 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend<br>civil<br>scout |  
+| bip_39_word_new_br12 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend<br>civil<br>scout<br>achieve |  
+| bip_39_word_new_br2 | poet<br>advance |  
+| bip_39_word_new_br3 | poet<br>advance<br>steel |  
+| bip_39_word_new_br4 | poet<br>advance<br>steel<br>toddler |  
+| bip_39_word_new_br5 | poet<br>advance<br>steel<br>toddler<br>addict |  
+| bip_39_word_new_br6 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice |  
+| bip_39_word_new_br7 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain |  
+| bip_39_word_new_br8 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog |  
+| bip_39_word_new_br9 | poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend |  
+| bip_39_word_new_line1 | poet |  
+| bip_39_word_new_line10 | poet
+advance
+steel
+toddler
+addict
+twice
+mountain
+catalog
+legend
+civil |  
+| bip_39_word_new_line11 | poet
+advance
+steel
+toddler
+addict
+twice
+mountain
+catalog
+legend
+civil
+scout |  
+| bip_39_word_new_line12 | poet
+advance
+steel
+toddler
+addict
+twice
+mountain
+catalog
+legend
+civil
+scout
+achieve |  
+| bip_39_word_new_line2 | poet
+advance |  
+| bip_39_word_new_line3 | poet
+advance
+steel |  
+| bip_39_word_new_line4 | poet
+advance
+steel
+toddler |  
+| bip_39_word_new_line5 | poet
+advance
+steel
+toddler
+addict |  
+| bip_39_word_new_line6 | poet
+advance
+steel
+toddler
+addict
+twice |  
+| bip_39_word_new_line7 | poet
+advance
+steel
+toddler
+addict
+twice
+mountain |  
+| bip_39_word_new_line8 | poet
+advance
+steel
+toddler
+addict
+twice
+mountain
+catalog |  
+| bip_39_word_new_line9 | poet
+advance
+steel
+toddler
+addict
+twice
+mountain
+catalog
+legend |  
+| bip_39_word_space_0 | ['poet', 'advance', 'steel', 'toddler', 'addict', 'twice', 'mountain', 'catalog', 'legend', 'civil', 'scout', 'achieve'] |  
+| bip_39_word_space_1 | poet |  
+| bip_39_word_space_10 | poet advance steel toddler addict twice mountain catalog legend civil |  
+| bip_39_word_space_11 | poet advance steel toddler addict twice mountain catalog legend civil scout |  
+| bip_39_word_space_12 | poet advance steel toddler addict twice mountain catalog legend civil scout achieve |  
+| bip_39_word_space_2 | poet advance |  
+| bip_39_word_space_3 | poet advance steel |  
+| bip_39_word_space_4 | poet advance steel toddler |  
+| bip_39_word_space_5 | poet advance steel toddler addict |  
+| bip_39_word_space_6 | poet advance steel toddler addict twice |  
+| bip_39_word_space_7 | poet advance steel toddler addict twice mountain |  
+| bip_39_word_space_8 | poet advance steel toddler addict twice mountain catalog |  
+| bip_39_word_space_9 | poet advance steel toddler addict twice mountain catalog legend |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

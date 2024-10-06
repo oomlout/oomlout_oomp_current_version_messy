@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slice divert
+  * bip 39 word 3: slice divert school
+  * bip 39 word: slice divert school spoon blind tired multiply remain token budget dynamic armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slice |  
+| bip_39_word_new_br10 | slice<br>divert<br>school<br>spoon<br>blind<br>tired<br>multiply<br>remain<br>token<br>budget |  
+| bip_39_word_new_br11 | slice<br>divert<br>school<br>spoon<br>blind<br>tired<br>multiply<br>remain<br>token<br>budget<br>dynamic |  
+| bip_39_word_new_br12 | slice<br>divert<br>school<br>spoon<br>blind<br>tired<br>multiply<br>remain<br>token<br>budget<br>dynamic<br>armor |  
+| bip_39_word_new_br2 | slice<br>divert |  
+| bip_39_word_new_br3 | slice<br>divert<br>school |  
+| bip_39_word_new_br4 | slice<br>divert<br>school<br>spoon |  
+| bip_39_word_new_br5 | slice<br>divert<br>school<br>spoon<br>blind |  
+| bip_39_word_new_br6 | slice<br>divert<br>school<br>spoon<br>blind<br>tired |  
+| bip_39_word_new_br7 | slice<br>divert<br>school<br>spoon<br>blind<br>tired<br>multiply |  
+| bip_39_word_new_br8 | slice<br>divert<br>school<br>spoon<br>blind<br>tired<br>multiply<br>remain |  
+| bip_39_word_new_br9 | slice<br>divert<br>school<br>spoon<br>blind<br>tired<br>multiply<br>remain<br>token |  
+| bip_39_word_new_line1 | slice |  
+| bip_39_word_new_line10 | slice
+divert
+school
+spoon
+blind
+tired
+multiply
+remain
+token
+budget |  
+| bip_39_word_new_line11 | slice
+divert
+school
+spoon
+blind
+tired
+multiply
+remain
+token
+budget
+dynamic |  
+| bip_39_word_new_line12 | slice
+divert
+school
+spoon
+blind
+tired
+multiply
+remain
+token
+budget
+dynamic
+armor |  
+| bip_39_word_new_line2 | slice
+divert |  
+| bip_39_word_new_line3 | slice
+divert
+school |  
+| bip_39_word_new_line4 | slice
+divert
+school
+spoon |  
+| bip_39_word_new_line5 | slice
+divert
+school
+spoon
+blind |  
+| bip_39_word_new_line6 | slice
+divert
+school
+spoon
+blind
+tired |  
+| bip_39_word_new_line7 | slice
+divert
+school
+spoon
+blind
+tired
+multiply |  
+| bip_39_word_new_line8 | slice
+divert
+school
+spoon
+blind
+tired
+multiply
+remain |  
+| bip_39_word_new_line9 | slice
+divert
+school
+spoon
+blind
+tired
+multiply
+remain
+token |  
+| bip_39_word_space_0 | ['slice', 'divert', 'school', 'spoon', 'blind', 'tired', 'multiply', 'remain', 'token', 'budget', 'dynamic', 'armor'] |  
+| bip_39_word_space_1 | slice |  
+| bip_39_word_space_10 | slice divert school spoon blind tired multiply remain token budget |  
+| bip_39_word_space_11 | slice divert school spoon blind tired multiply remain token budget dynamic |  
+| bip_39_word_space_12 | slice divert school spoon blind tired multiply remain token budget dynamic armor |  
+| bip_39_word_space_2 | slice divert |  
+| bip_39_word_space_3 | slice divert school |  
+| bip_39_word_space_4 | slice divert school spoon |  
+| bip_39_word_space_5 | slice divert school spoon blind |  
+| bip_39_word_space_6 | slice divert school spoon blind tired |  
+| bip_39_word_space_7 | slice divert school spoon blind tired multiply |  
+| bip_39_word_space_8 | slice divert school spoon blind tired multiply remain |  
+| bip_39_word_space_9 | slice divert school spoon blind tired multiply remain token |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

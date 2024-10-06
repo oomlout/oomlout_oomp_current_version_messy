@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arrest orchard
+  * bip 39 word 3: arrest orchard legend
+  * bip 39 word: arrest orchard legend absurd soda husband hurt message nuclear alert north appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arrest |  
+| bip_39_word_new_br10 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband<br>hurt<br>message<br>nuclear<br>alert |  
+| bip_39_word_new_br11 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband<br>hurt<br>message<br>nuclear<br>alert<br>north |  
+| bip_39_word_new_br12 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband<br>hurt<br>message<br>nuclear<br>alert<br>north<br>appear |  
+| bip_39_word_new_br2 | arrest<br>orchard |  
+| bip_39_word_new_br3 | arrest<br>orchard<br>legend |  
+| bip_39_word_new_br4 | arrest<br>orchard<br>legend<br>absurd |  
+| bip_39_word_new_br5 | arrest<br>orchard<br>legend<br>absurd<br>soda |  
+| bip_39_word_new_br6 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband |  
+| bip_39_word_new_br7 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband<br>hurt |  
+| bip_39_word_new_br8 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband<br>hurt<br>message |  
+| bip_39_word_new_br9 | arrest<br>orchard<br>legend<br>absurd<br>soda<br>husband<br>hurt<br>message<br>nuclear |  
+| bip_39_word_new_line1 | arrest |  
+| bip_39_word_new_line10 | arrest
+orchard
+legend
+absurd
+soda
+husband
+hurt
+message
+nuclear
+alert |  
+| bip_39_word_new_line11 | arrest
+orchard
+legend
+absurd
+soda
+husband
+hurt
+message
+nuclear
+alert
+north |  
+| bip_39_word_new_line12 | arrest
+orchard
+legend
+absurd
+soda
+husband
+hurt
+message
+nuclear
+alert
+north
+appear |  
+| bip_39_word_new_line2 | arrest
+orchard |  
+| bip_39_word_new_line3 | arrest
+orchard
+legend |  
+| bip_39_word_new_line4 | arrest
+orchard
+legend
+absurd |  
+| bip_39_word_new_line5 | arrest
+orchard
+legend
+absurd
+soda |  
+| bip_39_word_new_line6 | arrest
+orchard
+legend
+absurd
+soda
+husband |  
+| bip_39_word_new_line7 | arrest
+orchard
+legend
+absurd
+soda
+husband
+hurt |  
+| bip_39_word_new_line8 | arrest
+orchard
+legend
+absurd
+soda
+husband
+hurt
+message |  
+| bip_39_word_new_line9 | arrest
+orchard
+legend
+absurd
+soda
+husband
+hurt
+message
+nuclear |  
+| bip_39_word_space_0 | ['arrest', 'orchard', 'legend', 'absurd', 'soda', 'husband', 'hurt', 'message', 'nuclear', 'alert', 'north', 'appear'] |  
+| bip_39_word_space_1 | arrest |  
+| bip_39_word_space_10 | arrest orchard legend absurd soda husband hurt message nuclear alert |  
+| bip_39_word_space_11 | arrest orchard legend absurd soda husband hurt message nuclear alert north |  
+| bip_39_word_space_12 | arrest orchard legend absurd soda husband hurt message nuclear alert north appear |  
+| bip_39_word_space_2 | arrest orchard |  
+| bip_39_word_space_3 | arrest orchard legend |  
+| bip_39_word_space_4 | arrest orchard legend absurd |  
+| bip_39_word_space_5 | arrest orchard legend absurd soda |  
+| bip_39_word_space_6 | arrest orchard legend absurd soda husband |  
+| bip_39_word_space_7 | arrest orchard legend absurd soda husband hurt |  
+| bip_39_word_space_8 | arrest orchard legend absurd soda husband hurt message |  
+| bip_39_word_space_9 | arrest orchard legend absurd soda husband hurt message nuclear |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

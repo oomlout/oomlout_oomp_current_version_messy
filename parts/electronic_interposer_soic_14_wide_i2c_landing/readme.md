@@ -18,6 +18,9 @@ An interposer between an i2c chip and a soic_14_wide package. This is the landin
   * description_extra: landing
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broccoli replace
+  * bip 39 word 3: broccoli replace pepper
+  * bip 39 word: broccoli replace pepper deposit regular syrup throw chest build kick kite adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ An interposer between an i2c chip and a soic_14_wide package. This is the landin
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broccoli |  
+| bip_39_word_new_br10 | broccoli<br>replace<br>pepper<br>deposit<br>regular<br>syrup<br>throw<br>chest<br>build<br>kick |  
+| bip_39_word_new_br11 | broccoli<br>replace<br>pepper<br>deposit<br>regular<br>syrup<br>throw<br>chest<br>build<br>kick<br>kite |  
+| bip_39_word_new_br12 | broccoli<br>replace<br>pepper<br>deposit<br>regular<br>syrup<br>throw<br>chest<br>build<br>kick<br>kite<br>adult |  
+| bip_39_word_new_br2 | broccoli<br>replace |  
+| bip_39_word_new_br3 | broccoli<br>replace<br>pepper |  
+| bip_39_word_new_br4 | broccoli<br>replace<br>pepper<br>deposit |  
+| bip_39_word_new_br5 | broccoli<br>replace<br>pepper<br>deposit<br>regular |  
+| bip_39_word_new_br6 | broccoli<br>replace<br>pepper<br>deposit<br>regular<br>syrup |  
+| bip_39_word_new_br7 | broccoli<br>replace<br>pepper<br>deposit<br>regular<br>syrup<br>throw |  
+| bip_39_word_new_br8 | broccoli<br>replace<br>pepper<br>deposit<br>regular<br>syrup<br>throw<br>chest |  
+| bip_39_word_new_br9 | broccoli<br>replace<br>pepper<br>deposit<br>regular<br>syrup<br>throw<br>chest<br>build |  
+| bip_39_word_new_line1 | broccoli |  
+| bip_39_word_new_line10 | broccoli
+replace
+pepper
+deposit
+regular
+syrup
+throw
+chest
+build
+kick |  
+| bip_39_word_new_line11 | broccoli
+replace
+pepper
+deposit
+regular
+syrup
+throw
+chest
+build
+kick
+kite |  
+| bip_39_word_new_line12 | broccoli
+replace
+pepper
+deposit
+regular
+syrup
+throw
+chest
+build
+kick
+kite
+adult |  
+| bip_39_word_new_line2 | broccoli
+replace |  
+| bip_39_word_new_line3 | broccoli
+replace
+pepper |  
+| bip_39_word_new_line4 | broccoli
+replace
+pepper
+deposit |  
+| bip_39_word_new_line5 | broccoli
+replace
+pepper
+deposit
+regular |  
+| bip_39_word_new_line6 | broccoli
+replace
+pepper
+deposit
+regular
+syrup |  
+| bip_39_word_new_line7 | broccoli
+replace
+pepper
+deposit
+regular
+syrup
+throw |  
+| bip_39_word_new_line8 | broccoli
+replace
+pepper
+deposit
+regular
+syrup
+throw
+chest |  
+| bip_39_word_new_line9 | broccoli
+replace
+pepper
+deposit
+regular
+syrup
+throw
+chest
+build |  
+| bip_39_word_space_0 | ['broccoli', 'replace', 'pepper', 'deposit', 'regular', 'syrup', 'throw', 'chest', 'build', 'kick', 'kite', 'adult'] |  
+| bip_39_word_space_1 | broccoli |  
+| bip_39_word_space_10 | broccoli replace pepper deposit regular syrup throw chest build kick |  
+| bip_39_word_space_11 | broccoli replace pepper deposit regular syrup throw chest build kick kite |  
+| bip_39_word_space_12 | broccoli replace pepper deposit regular syrup throw chest build kick kite adult |  
+| bip_39_word_space_2 | broccoli replace |  
+| bip_39_word_space_3 | broccoli replace pepper |  
+| bip_39_word_space_4 | broccoli replace pepper deposit |  
+| bip_39_word_space_5 | broccoli replace pepper deposit regular |  
+| bip_39_word_space_6 | broccoli replace pepper deposit regular syrup |  
+| bip_39_word_space_7 | broccoli replace pepper deposit regular syrup throw |  
+| bip_39_word_space_8 | broccoli replace pepper deposit regular syrup throw chest |  
+| bip_39_word_space_9 | broccoli replace pepper deposit regular syrup throw chest build |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

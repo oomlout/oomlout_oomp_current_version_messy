@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: benefit once
+  * bip 39 word 3: benefit once clog
+  * bip 39 word: benefit once clog hold move scale flame maple smooth project nice actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | benefit |  
+| bip_39_word_new_br10 | benefit<br>once<br>clog<br>hold<br>move<br>scale<br>flame<br>maple<br>smooth<br>project |  
+| bip_39_word_new_br11 | benefit<br>once<br>clog<br>hold<br>move<br>scale<br>flame<br>maple<br>smooth<br>project<br>nice |  
+| bip_39_word_new_br12 | benefit<br>once<br>clog<br>hold<br>move<br>scale<br>flame<br>maple<br>smooth<br>project<br>nice<br>actual |  
+| bip_39_word_new_br2 | benefit<br>once |  
+| bip_39_word_new_br3 | benefit<br>once<br>clog |  
+| bip_39_word_new_br4 | benefit<br>once<br>clog<br>hold |  
+| bip_39_word_new_br5 | benefit<br>once<br>clog<br>hold<br>move |  
+| bip_39_word_new_br6 | benefit<br>once<br>clog<br>hold<br>move<br>scale |  
+| bip_39_word_new_br7 | benefit<br>once<br>clog<br>hold<br>move<br>scale<br>flame |  
+| bip_39_word_new_br8 | benefit<br>once<br>clog<br>hold<br>move<br>scale<br>flame<br>maple |  
+| bip_39_word_new_br9 | benefit<br>once<br>clog<br>hold<br>move<br>scale<br>flame<br>maple<br>smooth |  
+| bip_39_word_new_line1 | benefit |  
+| bip_39_word_new_line10 | benefit
+once
+clog
+hold
+move
+scale
+flame
+maple
+smooth
+project |  
+| bip_39_word_new_line11 | benefit
+once
+clog
+hold
+move
+scale
+flame
+maple
+smooth
+project
+nice |  
+| bip_39_word_new_line12 | benefit
+once
+clog
+hold
+move
+scale
+flame
+maple
+smooth
+project
+nice
+actual |  
+| bip_39_word_new_line2 | benefit
+once |  
+| bip_39_word_new_line3 | benefit
+once
+clog |  
+| bip_39_word_new_line4 | benefit
+once
+clog
+hold |  
+| bip_39_word_new_line5 | benefit
+once
+clog
+hold
+move |  
+| bip_39_word_new_line6 | benefit
+once
+clog
+hold
+move
+scale |  
+| bip_39_word_new_line7 | benefit
+once
+clog
+hold
+move
+scale
+flame |  
+| bip_39_word_new_line8 | benefit
+once
+clog
+hold
+move
+scale
+flame
+maple |  
+| bip_39_word_new_line9 | benefit
+once
+clog
+hold
+move
+scale
+flame
+maple
+smooth |  
+| bip_39_word_space_0 | ['benefit', 'once', 'clog', 'hold', 'move', 'scale', 'flame', 'maple', 'smooth', 'project', 'nice', 'actual'] |  
+| bip_39_word_space_1 | benefit |  
+| bip_39_word_space_10 | benefit once clog hold move scale flame maple smooth project |  
+| bip_39_word_space_11 | benefit once clog hold move scale flame maple smooth project nice |  
+| bip_39_word_space_12 | benefit once clog hold move scale flame maple smooth project nice actual |  
+| bip_39_word_space_2 | benefit once |  
+| bip_39_word_space_3 | benefit once clog |  
+| bip_39_word_space_4 | benefit once clog hold |  
+| bip_39_word_space_5 | benefit once clog hold move |  
+| bip_39_word_space_6 | benefit once clog hold move scale |  
+| bip_39_word_space_7 | benefit once clog hold move scale flame |  
+| bip_39_word_space_8 | benefit once clog hold move scale flame maple |  
+| bip_39_word_space_9 | benefit once clog hold move scale flame maple smooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ski knock
+  * bip 39 word 3: ski knock wage
+  * bip 39 word: ski knock wage allow off direct attract accuse ivory eager seminar arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ski |  
+| bip_39_word_new_br10 | ski<br>knock<br>wage<br>allow<br>off<br>direct<br>attract<br>accuse<br>ivory<br>eager |  
+| bip_39_word_new_br11 | ski<br>knock<br>wage<br>allow<br>off<br>direct<br>attract<br>accuse<br>ivory<br>eager<br>seminar |  
+| bip_39_word_new_br12 | ski<br>knock<br>wage<br>allow<br>off<br>direct<br>attract<br>accuse<br>ivory<br>eager<br>seminar<br>arctic |  
+| bip_39_word_new_br2 | ski<br>knock |  
+| bip_39_word_new_br3 | ski<br>knock<br>wage |  
+| bip_39_word_new_br4 | ski<br>knock<br>wage<br>allow |  
+| bip_39_word_new_br5 | ski<br>knock<br>wage<br>allow<br>off |  
+| bip_39_word_new_br6 | ski<br>knock<br>wage<br>allow<br>off<br>direct |  
+| bip_39_word_new_br7 | ski<br>knock<br>wage<br>allow<br>off<br>direct<br>attract |  
+| bip_39_word_new_br8 | ski<br>knock<br>wage<br>allow<br>off<br>direct<br>attract<br>accuse |  
+| bip_39_word_new_br9 | ski<br>knock<br>wage<br>allow<br>off<br>direct<br>attract<br>accuse<br>ivory |  
+| bip_39_word_new_line1 | ski |  
+| bip_39_word_new_line10 | ski
+knock
+wage
+allow
+off
+direct
+attract
+accuse
+ivory
+eager |  
+| bip_39_word_new_line11 | ski
+knock
+wage
+allow
+off
+direct
+attract
+accuse
+ivory
+eager
+seminar |  
+| bip_39_word_new_line12 | ski
+knock
+wage
+allow
+off
+direct
+attract
+accuse
+ivory
+eager
+seminar
+arctic |  
+| bip_39_word_new_line2 | ski
+knock |  
+| bip_39_word_new_line3 | ski
+knock
+wage |  
+| bip_39_word_new_line4 | ski
+knock
+wage
+allow |  
+| bip_39_word_new_line5 | ski
+knock
+wage
+allow
+off |  
+| bip_39_word_new_line6 | ski
+knock
+wage
+allow
+off
+direct |  
+| bip_39_word_new_line7 | ski
+knock
+wage
+allow
+off
+direct
+attract |  
+| bip_39_word_new_line8 | ski
+knock
+wage
+allow
+off
+direct
+attract
+accuse |  
+| bip_39_word_new_line9 | ski
+knock
+wage
+allow
+off
+direct
+attract
+accuse
+ivory |  
+| bip_39_word_space_0 | ['ski', 'knock', 'wage', 'allow', 'off', 'direct', 'attract', 'accuse', 'ivory', 'eager', 'seminar', 'arctic'] |  
+| bip_39_word_space_1 | ski |  
+| bip_39_word_space_10 | ski knock wage allow off direct attract accuse ivory eager |  
+| bip_39_word_space_11 | ski knock wage allow off direct attract accuse ivory eager seminar |  
+| bip_39_word_space_12 | ski knock wage allow off direct attract accuse ivory eager seminar arctic |  
+| bip_39_word_space_2 | ski knock |  
+| bip_39_word_space_3 | ski knock wage |  
+| bip_39_word_space_4 | ski knock wage allow |  
+| bip_39_word_space_5 | ski knock wage allow off |  
+| bip_39_word_space_6 | ski knock wage allow off direct |  
+| bip_39_word_space_7 | ski knock wage allow off direct attract |  
+| bip_39_word_space_8 | ski knock wage allow off direct attract accuse |  
+| bip_39_word_space_9 | ski knock wage allow off direct attract accuse ivory |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trip supply
+  * bip 39 word 3: trip supply sport
+  * bip 39 word: trip supply sport under rapid agent notice category cheap dizzy scheme agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trip |  
+| bip_39_word_new_br10 | trip<br>supply<br>sport<br>under<br>rapid<br>agent<br>notice<br>category<br>cheap<br>dizzy |  
+| bip_39_word_new_br11 | trip<br>supply<br>sport<br>under<br>rapid<br>agent<br>notice<br>category<br>cheap<br>dizzy<br>scheme |  
+| bip_39_word_new_br12 | trip<br>supply<br>sport<br>under<br>rapid<br>agent<br>notice<br>category<br>cheap<br>dizzy<br>scheme<br>agree |  
+| bip_39_word_new_br2 | trip<br>supply |  
+| bip_39_word_new_br3 | trip<br>supply<br>sport |  
+| bip_39_word_new_br4 | trip<br>supply<br>sport<br>under |  
+| bip_39_word_new_br5 | trip<br>supply<br>sport<br>under<br>rapid |  
+| bip_39_word_new_br6 | trip<br>supply<br>sport<br>under<br>rapid<br>agent |  
+| bip_39_word_new_br7 | trip<br>supply<br>sport<br>under<br>rapid<br>agent<br>notice |  
+| bip_39_word_new_br8 | trip<br>supply<br>sport<br>under<br>rapid<br>agent<br>notice<br>category |  
+| bip_39_word_new_br9 | trip<br>supply<br>sport<br>under<br>rapid<br>agent<br>notice<br>category<br>cheap |  
+| bip_39_word_new_line1 | trip |  
+| bip_39_word_new_line10 | trip
+supply
+sport
+under
+rapid
+agent
+notice
+category
+cheap
+dizzy |  
+| bip_39_word_new_line11 | trip
+supply
+sport
+under
+rapid
+agent
+notice
+category
+cheap
+dizzy
+scheme |  
+| bip_39_word_new_line12 | trip
+supply
+sport
+under
+rapid
+agent
+notice
+category
+cheap
+dizzy
+scheme
+agree |  
+| bip_39_word_new_line2 | trip
+supply |  
+| bip_39_word_new_line3 | trip
+supply
+sport |  
+| bip_39_word_new_line4 | trip
+supply
+sport
+under |  
+| bip_39_word_new_line5 | trip
+supply
+sport
+under
+rapid |  
+| bip_39_word_new_line6 | trip
+supply
+sport
+under
+rapid
+agent |  
+| bip_39_word_new_line7 | trip
+supply
+sport
+under
+rapid
+agent
+notice |  
+| bip_39_word_new_line8 | trip
+supply
+sport
+under
+rapid
+agent
+notice
+category |  
+| bip_39_word_new_line9 | trip
+supply
+sport
+under
+rapid
+agent
+notice
+category
+cheap |  
+| bip_39_word_space_0 | ['trip', 'supply', 'sport', 'under', 'rapid', 'agent', 'notice', 'category', 'cheap', 'dizzy', 'scheme', 'agree'] |  
+| bip_39_word_space_1 | trip |  
+| bip_39_word_space_10 | trip supply sport under rapid agent notice category cheap dizzy |  
+| bip_39_word_space_11 | trip supply sport under rapid agent notice category cheap dizzy scheme |  
+| bip_39_word_space_12 | trip supply sport under rapid agent notice category cheap dizzy scheme agree |  
+| bip_39_word_space_2 | trip supply |  
+| bip_39_word_space_3 | trip supply sport |  
+| bip_39_word_space_4 | trip supply sport under |  
+| bip_39_word_space_5 | trip supply sport under rapid |  
+| bip_39_word_space_6 | trip supply sport under rapid agent |  
+| bip_39_word_space_7 | trip supply sport under rapid agent notice |  
+| bip_39_word_space_8 | trip supply sport under rapid agent notice category |  
+| bip_39_word_space_9 | trip supply sport under rapid agent notice category cheap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

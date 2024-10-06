@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hub ability
+  * bip 39 word 3: hub ability energy
+  * bip 39 word: hub ability energy lesson garage welcome private option expire bitter purpose account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hub |  
+| bip_39_word_new_br10 | hub<br>ability<br>energy<br>lesson<br>garage<br>welcome<br>private<br>option<br>expire<br>bitter |  
+| bip_39_word_new_br11 | hub<br>ability<br>energy<br>lesson<br>garage<br>welcome<br>private<br>option<br>expire<br>bitter<br>purpose |  
+| bip_39_word_new_br12 | hub<br>ability<br>energy<br>lesson<br>garage<br>welcome<br>private<br>option<br>expire<br>bitter<br>purpose<br>account |  
+| bip_39_word_new_br2 | hub<br>ability |  
+| bip_39_word_new_br3 | hub<br>ability<br>energy |  
+| bip_39_word_new_br4 | hub<br>ability<br>energy<br>lesson |  
+| bip_39_word_new_br5 | hub<br>ability<br>energy<br>lesson<br>garage |  
+| bip_39_word_new_br6 | hub<br>ability<br>energy<br>lesson<br>garage<br>welcome |  
+| bip_39_word_new_br7 | hub<br>ability<br>energy<br>lesson<br>garage<br>welcome<br>private |  
+| bip_39_word_new_br8 | hub<br>ability<br>energy<br>lesson<br>garage<br>welcome<br>private<br>option |  
+| bip_39_word_new_br9 | hub<br>ability<br>energy<br>lesson<br>garage<br>welcome<br>private<br>option<br>expire |  
+| bip_39_word_new_line1 | hub |  
+| bip_39_word_new_line10 | hub
+ability
+energy
+lesson
+garage
+welcome
+private
+option
+expire
+bitter |  
+| bip_39_word_new_line11 | hub
+ability
+energy
+lesson
+garage
+welcome
+private
+option
+expire
+bitter
+purpose |  
+| bip_39_word_new_line12 | hub
+ability
+energy
+lesson
+garage
+welcome
+private
+option
+expire
+bitter
+purpose
+account |  
+| bip_39_word_new_line2 | hub
+ability |  
+| bip_39_word_new_line3 | hub
+ability
+energy |  
+| bip_39_word_new_line4 | hub
+ability
+energy
+lesson |  
+| bip_39_word_new_line5 | hub
+ability
+energy
+lesson
+garage |  
+| bip_39_word_new_line6 | hub
+ability
+energy
+lesson
+garage
+welcome |  
+| bip_39_word_new_line7 | hub
+ability
+energy
+lesson
+garage
+welcome
+private |  
+| bip_39_word_new_line8 | hub
+ability
+energy
+lesson
+garage
+welcome
+private
+option |  
+| bip_39_word_new_line9 | hub
+ability
+energy
+lesson
+garage
+welcome
+private
+option
+expire |  
+| bip_39_word_space_0 | ['hub', 'ability', 'energy', 'lesson', 'garage', 'welcome', 'private', 'option', 'expire', 'bitter', 'purpose', 'account'] |  
+| bip_39_word_space_1 | hub |  
+| bip_39_word_space_10 | hub ability energy lesson garage welcome private option expire bitter |  
+| bip_39_word_space_11 | hub ability energy lesson garage welcome private option expire bitter purpose |  
+| bip_39_word_space_12 | hub ability energy lesson garage welcome private option expire bitter purpose account |  
+| bip_39_word_space_2 | hub ability |  
+| bip_39_word_space_3 | hub ability energy |  
+| bip_39_word_space_4 | hub ability energy lesson |  
+| bip_39_word_space_5 | hub ability energy lesson garage |  
+| bip_39_word_space_6 | hub ability energy lesson garage welcome |  
+| bip_39_word_space_7 | hub ability energy lesson garage welcome private |  
+| bip_39_word_space_8 | hub ability energy lesson garage welcome private option |  
+| bip_39_word_space_9 | hub ability energy lesson garage welcome private option expire |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

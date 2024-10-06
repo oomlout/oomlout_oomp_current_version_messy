@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fox opera
+  * bip 39 word 3: fox opera plastic
+  * bip 39 word: fox opera plastic odor tent occur increase local fog quiz local april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fox |  
+| bip_39_word_new_br10 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur<br>increase<br>local<br>fog<br>quiz |  
+| bip_39_word_new_br11 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur<br>increase<br>local<br>fog<br>quiz<br>local |  
+| bip_39_word_new_br12 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur<br>increase<br>local<br>fog<br>quiz<br>local<br>april |  
+| bip_39_word_new_br2 | fox<br>opera |  
+| bip_39_word_new_br3 | fox<br>opera<br>plastic |  
+| bip_39_word_new_br4 | fox<br>opera<br>plastic<br>odor |  
+| bip_39_word_new_br5 | fox<br>opera<br>plastic<br>odor<br>tent |  
+| bip_39_word_new_br6 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur |  
+| bip_39_word_new_br7 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur<br>increase |  
+| bip_39_word_new_br8 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur<br>increase<br>local |  
+| bip_39_word_new_br9 | fox<br>opera<br>plastic<br>odor<br>tent<br>occur<br>increase<br>local<br>fog |  
+| bip_39_word_new_line1 | fox |  
+| bip_39_word_new_line10 | fox
+opera
+plastic
+odor
+tent
+occur
+increase
+local
+fog
+quiz |  
+| bip_39_word_new_line11 | fox
+opera
+plastic
+odor
+tent
+occur
+increase
+local
+fog
+quiz
+local |  
+| bip_39_word_new_line12 | fox
+opera
+plastic
+odor
+tent
+occur
+increase
+local
+fog
+quiz
+local
+april |  
+| bip_39_word_new_line2 | fox
+opera |  
+| bip_39_word_new_line3 | fox
+opera
+plastic |  
+| bip_39_word_new_line4 | fox
+opera
+plastic
+odor |  
+| bip_39_word_new_line5 | fox
+opera
+plastic
+odor
+tent |  
+| bip_39_word_new_line6 | fox
+opera
+plastic
+odor
+tent
+occur |  
+| bip_39_word_new_line7 | fox
+opera
+plastic
+odor
+tent
+occur
+increase |  
+| bip_39_word_new_line8 | fox
+opera
+plastic
+odor
+tent
+occur
+increase
+local |  
+| bip_39_word_new_line9 | fox
+opera
+plastic
+odor
+tent
+occur
+increase
+local
+fog |  
+| bip_39_word_space_0 | ['fox', 'opera', 'plastic', 'odor', 'tent', 'occur', 'increase', 'local', 'fog', 'quiz', 'local', 'april'] |  
+| bip_39_word_space_1 | fox |  
+| bip_39_word_space_10 | fox opera plastic odor tent occur increase local fog quiz |  
+| bip_39_word_space_11 | fox opera plastic odor tent occur increase local fog quiz local |  
+| bip_39_word_space_12 | fox opera plastic odor tent occur increase local fog quiz local april |  
+| bip_39_word_space_2 | fox opera |  
+| bip_39_word_space_3 | fox opera plastic |  
+| bip_39_word_space_4 | fox opera plastic odor |  
+| bip_39_word_space_5 | fox opera plastic odor tent |  
+| bip_39_word_space_6 | fox opera plastic odor tent occur |  
+| bip_39_word_space_7 | fox opera plastic odor tent occur increase |  
+| bip_39_word_space_8 | fox opera plastic odor tent occur increase local |  
+| bip_39_word_space_9 | fox opera plastic odor tent occur increase local fog |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

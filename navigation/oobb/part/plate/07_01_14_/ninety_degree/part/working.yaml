@@ -1,3 +1,187 @@
+bip_39_word_new_br1: turtle
+bip_39_word_new_br10: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle<br>devote<br>tiger<br>wood<br>ride
+bip_39_word_new_br11: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle<br>devote<br>tiger<br>wood<br>ride<br>until
+bip_39_word_new_br12: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle<br>devote<br>tiger<br>wood<br>ride<br>until<br>area
+bip_39_word_new_br2: turtle<br>puzzle
+bip_39_word_new_br3: turtle<br>puzzle<br>price
+bip_39_word_new_br4: turtle<br>puzzle<br>price<br>mountain
+bip_39_word_new_br5: turtle<br>puzzle<br>price<br>mountain<br>liquid
+bip_39_word_new_br6: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle
+bip_39_word_new_br7: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle<br>devote
+bip_39_word_new_br8: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle<br>devote<br>tiger
+bip_39_word_new_br9: turtle<br>puzzle<br>price<br>mountain<br>liquid<br>cattle<br>devote<br>tiger<br>wood
+bip_39_word_new_line1: turtle
+bip_39_word_new_line10: 'turtle
+
+  puzzle
+
+  price
+
+  mountain
+
+  liquid
+
+  cattle
+
+  devote
+
+  tiger
+
+  wood
+
+  ride'
+bip_39_word_new_line11: 'turtle
+
+  puzzle
+
+  price
+
+  mountain
+
+  liquid
+
+  cattle
+
+  devote
+
+  tiger
+
+  wood
+
+  ride
+
+  until'
+bip_39_word_new_line12: 'turtle
+
+  puzzle
+
+  price
+
+  mountain
+
+  liquid
+
+  cattle
+
+  devote
+
+  tiger
+
+  wood
+
+  ride
+
+  until
+
+  area'
+bip_39_word_new_line2: 'turtle
+
+  puzzle'
+bip_39_word_new_line3: 'turtle
+
+  puzzle
+
+  price'
+bip_39_word_new_line4: 'turtle
+
+  puzzle
+
+  price
+
+  mountain'
+bip_39_word_new_line5: 'turtle
+
+  puzzle
+
+  price
+
+  mountain
+
+  liquid'
+bip_39_word_new_line6: 'turtle
+
+  puzzle
+
+  price
+
+  mountain
+
+  liquid
+
+  cattle'
+bip_39_word_new_line7: 'turtle
+
+  puzzle
+
+  price
+
+  mountain
+
+  liquid
+
+  cattle
+
+  devote'
+bip_39_word_new_line8: 'turtle
+
+  puzzle
+
+  price
+
+  mountain
+
+  liquid
+
+  cattle
+
+  devote
+
+  tiger'
+bip_39_word_new_line9: 'turtle
+
+  puzzle
+
+  price
+
+  mountain
+
+  liquid
+
+  cattle
+
+  devote
+
+  tiger
+
+  wood'
+bip_39_word_space_0:
+- turtle
+- puzzle
+- price
+- mountain
+- liquid
+- cattle
+- devote
+- tiger
+- wood
+- ride
+- until
+- area
+bip_39_word_space_1: turtle
+bip_39_word_space_10: turtle puzzle price mountain liquid cattle devote tiger wood
+  ride
+bip_39_word_space_11: turtle puzzle price mountain liquid cattle devote tiger wood
+  ride until
+bip_39_word_space_12: turtle puzzle price mountain liquid cattle devote tiger wood
+  ride until area
+bip_39_word_space_2: turtle puzzle
+bip_39_word_space_3: turtle puzzle price
+bip_39_word_space_4: turtle puzzle price mountain
+bip_39_word_space_5: turtle puzzle price mountain liquid
+bip_39_word_space_6: turtle puzzle price mountain liquid cattle
+bip_39_word_space_7: turtle puzzle price mountain liquid cattle devote
+bip_39_word_space_8: turtle puzzle price mountain liquid cattle devote tiger
+bip_39_word_space_9: turtle puzzle price mountain liquid cattle devote tiger wood
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: whisper
+bip_39_word_new_br10: whisper<br>metal<br>tiny<br>what<br>glue<br>treat<br>thing<br>session<br>detail<br>cargo
+bip_39_word_new_br11: whisper<br>metal<br>tiny<br>what<br>glue<br>treat<br>thing<br>session<br>detail<br>cargo<br>match
+bip_39_word_new_br12: whisper<br>metal<br>tiny<br>what<br>glue<br>treat<br>thing<br>session<br>detail<br>cargo<br>match<br>arm
+bip_39_word_new_br2: whisper<br>metal
+bip_39_word_new_br3: whisper<br>metal<br>tiny
+bip_39_word_new_br4: whisper<br>metal<br>tiny<br>what
+bip_39_word_new_br5: whisper<br>metal<br>tiny<br>what<br>glue
+bip_39_word_new_br6: whisper<br>metal<br>tiny<br>what<br>glue<br>treat
+bip_39_word_new_br7: whisper<br>metal<br>tiny<br>what<br>glue<br>treat<br>thing
+bip_39_word_new_br8: whisper<br>metal<br>tiny<br>what<br>glue<br>treat<br>thing<br>session
+bip_39_word_new_br9: whisper<br>metal<br>tiny<br>what<br>glue<br>treat<br>thing<br>session<br>detail
+bip_39_word_new_line1: whisper
+bip_39_word_new_line10: 'whisper
+
+  metal
+
+  tiny
+
+  what
+
+  glue
+
+  treat
+
+  thing
+
+  session
+
+  detail
+
+  cargo'
+bip_39_word_new_line11: 'whisper
+
+  metal
+
+  tiny
+
+  what
+
+  glue
+
+  treat
+
+  thing
+
+  session
+
+  detail
+
+  cargo
+
+  match'
+bip_39_word_new_line12: 'whisper
+
+  metal
+
+  tiny
+
+  what
+
+  glue
+
+  treat
+
+  thing
+
+  session
+
+  detail
+
+  cargo
+
+  match
+
+  arm'
+bip_39_word_new_line2: 'whisper
+
+  metal'
+bip_39_word_new_line3: 'whisper
+
+  metal
+
+  tiny'
+bip_39_word_new_line4: 'whisper
+
+  metal
+
+  tiny
+
+  what'
+bip_39_word_new_line5: 'whisper
+
+  metal
+
+  tiny
+
+  what
+
+  glue'
+bip_39_word_new_line6: 'whisper
+
+  metal
+
+  tiny
+
+  what
+
+  glue
+
+  treat'
+bip_39_word_new_line7: 'whisper
+
+  metal
+
+  tiny
+
+  what
+
+  glue
+
+  treat
+
+  thing'
+bip_39_word_new_line8: 'whisper
+
+  metal
+
+  tiny
+
+  what
+
+  glue
+
+  treat
+
+  thing
+
+  session'
+bip_39_word_new_line9: 'whisper
+
+  metal
+
+  tiny
+
+  what
+
+  glue
+
+  treat
+
+  thing
+
+  session
+
+  detail'
+bip_39_word_space_0:
+- whisper
+- metal
+- tiny
+- what
+- glue
+- treat
+- thing
+- session
+- detail
+- cargo
+- match
+- arm
+bip_39_word_space_1: whisper
+bip_39_word_space_10: whisper metal tiny what glue treat thing session detail cargo
+bip_39_word_space_11: whisper metal tiny what glue treat thing session detail cargo
+  match
+bip_39_word_space_12: whisper metal tiny what glue treat thing session detail cargo
+  match arm
+bip_39_word_space_2: whisper metal
+bip_39_word_space_3: whisper metal tiny
+bip_39_word_space_4: whisper metal tiny what
+bip_39_word_space_5: whisper metal tiny what glue
+bip_39_word_space_6: whisper metal tiny what glue treat
+bip_39_word_space_7: whisper metal tiny what glue treat thing
+bip_39_word_space_8: whisper metal tiny what glue treat thing session
+bip_39_word_space_9: whisper metal tiny what glue treat thing session detail
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

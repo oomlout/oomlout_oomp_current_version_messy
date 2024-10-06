@@ -1,3 +1,187 @@
+bip_39_word_new_br1: across
+bip_39_word_new_br10: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear
+bip_39_word_new_br11: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear<br>clump
+bip_39_word_new_br12: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan<br>pear<br>clump<br>arctic
+bip_39_word_new_br2: across<br>mushroom
+bip_39_word_new_br3: across<br>mushroom<br>taste
+bip_39_word_new_br4: across<br>mushroom<br>taste<br>survey
+bip_39_word_new_br5: across<br>mushroom<br>taste<br>survey<br>input
+bip_39_word_new_br6: across<br>mushroom<br>taste<br>survey<br>input<br>creek
+bip_39_word_new_br7: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic
+bip_39_word_new_br8: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself
+bip_39_word_new_br9: across<br>mushroom<br>taste<br>survey<br>input<br>creek<br>olympic<br>myself<br>slogan
+bip_39_word_new_line1: across
+bip_39_word_new_line10: 'across
+
+  mushroom
+
+  taste
+
+  survey
+
+  input
+
+  creek
+
+  olympic
+
+  myself
+
+  slogan
+
+  pear'
+bip_39_word_new_line11: 'across
+
+  mushroom
+
+  taste
+
+  survey
+
+  input
+
+  creek
+
+  olympic
+
+  myself
+
+  slogan
+
+  pear
+
+  clump'
+bip_39_word_new_line12: 'across
+
+  mushroom
+
+  taste
+
+  survey
+
+  input
+
+  creek
+
+  olympic
+
+  myself
+
+  slogan
+
+  pear
+
+  clump
+
+  arctic'
+bip_39_word_new_line2: 'across
+
+  mushroom'
+bip_39_word_new_line3: 'across
+
+  mushroom
+
+  taste'
+bip_39_word_new_line4: 'across
+
+  mushroom
+
+  taste
+
+  survey'
+bip_39_word_new_line5: 'across
+
+  mushroom
+
+  taste
+
+  survey
+
+  input'
+bip_39_word_new_line6: 'across
+
+  mushroom
+
+  taste
+
+  survey
+
+  input
+
+  creek'
+bip_39_word_new_line7: 'across
+
+  mushroom
+
+  taste
+
+  survey
+
+  input
+
+  creek
+
+  olympic'
+bip_39_word_new_line8: 'across
+
+  mushroom
+
+  taste
+
+  survey
+
+  input
+
+  creek
+
+  olympic
+
+  myself'
+bip_39_word_new_line9: 'across
+
+  mushroom
+
+  taste
+
+  survey
+
+  input
+
+  creek
+
+  olympic
+
+  myself
+
+  slogan'
+bip_39_word_space_0:
+- across
+- mushroom
+- taste
+- survey
+- input
+- creek
+- olympic
+- myself
+- slogan
+- pear
+- clump
+- arctic
+bip_39_word_space_1: across
+bip_39_word_space_10: across mushroom taste survey input creek olympic myself slogan
+  pear
+bip_39_word_space_11: across mushroom taste survey input creek olympic myself slogan
+  pear clump
+bip_39_word_space_12: across mushroom taste survey input creek olympic myself slogan
+  pear clump arctic
+bip_39_word_space_2: across mushroom
+bip_39_word_space_3: across mushroom taste
+bip_39_word_space_4: across mushroom taste survey
+bip_39_word_space_5: across mushroom taste survey input
+bip_39_word_space_6: across mushroom taste survey input creek
+bip_39_word_space_7: across mushroom taste survey input creek olympic
+bip_39_word_space_8: across mushroom taste survey input creek olympic myself
+bip_39_word_space_9: across mushroom taste survey input creek olympic myself slogan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

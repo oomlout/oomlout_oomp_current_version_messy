@@ -1,3 +1,186 @@
+bip_39_word_new_br1: always
+bip_39_word_new_br10: always<br>panel<br>select<br>vintage<br>rigid<br>friend<br>canoe<br>put<br>hurdle<br>render
+bip_39_word_new_br11: always<br>panel<br>select<br>vintage<br>rigid<br>friend<br>canoe<br>put<br>hurdle<br>render<br>bike
+bip_39_word_new_br12: always<br>panel<br>select<br>vintage<br>rigid<br>friend<br>canoe<br>put<br>hurdle<br>render<br>bike<br>antique
+bip_39_word_new_br2: always<br>panel
+bip_39_word_new_br3: always<br>panel<br>select
+bip_39_word_new_br4: always<br>panel<br>select<br>vintage
+bip_39_word_new_br5: always<br>panel<br>select<br>vintage<br>rigid
+bip_39_word_new_br6: always<br>panel<br>select<br>vintage<br>rigid<br>friend
+bip_39_word_new_br7: always<br>panel<br>select<br>vintage<br>rigid<br>friend<br>canoe
+bip_39_word_new_br8: always<br>panel<br>select<br>vintage<br>rigid<br>friend<br>canoe<br>put
+bip_39_word_new_br9: always<br>panel<br>select<br>vintage<br>rigid<br>friend<br>canoe<br>put<br>hurdle
+bip_39_word_new_line1: always
+bip_39_word_new_line10: 'always
+
+  panel
+
+  select
+
+  vintage
+
+  rigid
+
+  friend
+
+  canoe
+
+  put
+
+  hurdle
+
+  render'
+bip_39_word_new_line11: 'always
+
+  panel
+
+  select
+
+  vintage
+
+  rigid
+
+  friend
+
+  canoe
+
+  put
+
+  hurdle
+
+  render
+
+  bike'
+bip_39_word_new_line12: 'always
+
+  panel
+
+  select
+
+  vintage
+
+  rigid
+
+  friend
+
+  canoe
+
+  put
+
+  hurdle
+
+  render
+
+  bike
+
+  antique'
+bip_39_word_new_line2: 'always
+
+  panel'
+bip_39_word_new_line3: 'always
+
+  panel
+
+  select'
+bip_39_word_new_line4: 'always
+
+  panel
+
+  select
+
+  vintage'
+bip_39_word_new_line5: 'always
+
+  panel
+
+  select
+
+  vintage
+
+  rigid'
+bip_39_word_new_line6: 'always
+
+  panel
+
+  select
+
+  vintage
+
+  rigid
+
+  friend'
+bip_39_word_new_line7: 'always
+
+  panel
+
+  select
+
+  vintage
+
+  rigid
+
+  friend
+
+  canoe'
+bip_39_word_new_line8: 'always
+
+  panel
+
+  select
+
+  vintage
+
+  rigid
+
+  friend
+
+  canoe
+
+  put'
+bip_39_word_new_line9: 'always
+
+  panel
+
+  select
+
+  vintage
+
+  rigid
+
+  friend
+
+  canoe
+
+  put
+
+  hurdle'
+bip_39_word_space_0:
+- always
+- panel
+- select
+- vintage
+- rigid
+- friend
+- canoe
+- put
+- hurdle
+- render
+- bike
+- antique
+bip_39_word_space_1: always
+bip_39_word_space_10: always panel select vintage rigid friend canoe put hurdle render
+bip_39_word_space_11: always panel select vintage rigid friend canoe put hurdle render
+  bike
+bip_39_word_space_12: always panel select vintage rigid friend canoe put hurdle render
+  bike antique
+bip_39_word_space_2: always panel
+bip_39_word_space_3: always panel select
+bip_39_word_space_4: always panel select vintage
+bip_39_word_space_5: always panel select vintage rigid
+bip_39_word_space_6: always panel select vintage rigid friend
+bip_39_word_space_7: always panel select vintage rigid friend canoe
+bip_39_word_space_8: always panel select vintage rigid friend canoe put
+bip_39_word_space_9: always panel select vintage rigid friend canoe put hurdle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

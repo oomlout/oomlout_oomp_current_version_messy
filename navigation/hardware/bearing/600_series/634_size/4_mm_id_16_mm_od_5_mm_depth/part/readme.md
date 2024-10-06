@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: later actress
+  * bip 39 word 3: later actress social
+  * bip 39 word: later actress social sword biology hammer question surface find seat profit angry
 
 ### other_codes
 * short_code: br634
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | later |  
+| bip_39_word_new_br10 | later<br>actress<br>social<br>sword<br>biology<br>hammer<br>question<br>surface<br>find<br>seat |  
+| bip_39_word_new_br11 | later<br>actress<br>social<br>sword<br>biology<br>hammer<br>question<br>surface<br>find<br>seat<br>profit |  
+| bip_39_word_new_br12 | later<br>actress<br>social<br>sword<br>biology<br>hammer<br>question<br>surface<br>find<br>seat<br>profit<br>angry |  
+| bip_39_word_new_br2 | later<br>actress |  
+| bip_39_word_new_br3 | later<br>actress<br>social |  
+| bip_39_word_new_br4 | later<br>actress<br>social<br>sword |  
+| bip_39_word_new_br5 | later<br>actress<br>social<br>sword<br>biology |  
+| bip_39_word_new_br6 | later<br>actress<br>social<br>sword<br>biology<br>hammer |  
+| bip_39_word_new_br7 | later<br>actress<br>social<br>sword<br>biology<br>hammer<br>question |  
+| bip_39_word_new_br8 | later<br>actress<br>social<br>sword<br>biology<br>hammer<br>question<br>surface |  
+| bip_39_word_new_br9 | later<br>actress<br>social<br>sword<br>biology<br>hammer<br>question<br>surface<br>find |  
+| bip_39_word_new_line1 | later |  
+| bip_39_word_new_line10 | later
+actress
+social
+sword
+biology
+hammer
+question
+surface
+find
+seat |  
+| bip_39_word_new_line11 | later
+actress
+social
+sword
+biology
+hammer
+question
+surface
+find
+seat
+profit |  
+| bip_39_word_new_line12 | later
+actress
+social
+sword
+biology
+hammer
+question
+surface
+find
+seat
+profit
+angry |  
+| bip_39_word_new_line2 | later
+actress |  
+| bip_39_word_new_line3 | later
+actress
+social |  
+| bip_39_word_new_line4 | later
+actress
+social
+sword |  
+| bip_39_word_new_line5 | later
+actress
+social
+sword
+biology |  
+| bip_39_word_new_line6 | later
+actress
+social
+sword
+biology
+hammer |  
+| bip_39_word_new_line7 | later
+actress
+social
+sword
+biology
+hammer
+question |  
+| bip_39_word_new_line8 | later
+actress
+social
+sword
+biology
+hammer
+question
+surface |  
+| bip_39_word_new_line9 | later
+actress
+social
+sword
+biology
+hammer
+question
+surface
+find |  
+| bip_39_word_space_0 | ['later', 'actress', 'social', 'sword', 'biology', 'hammer', 'question', 'surface', 'find', 'seat', 'profit', 'angry'] |  
+| bip_39_word_space_1 | later |  
+| bip_39_word_space_10 | later actress social sword biology hammer question surface find seat |  
+| bip_39_word_space_11 | later actress social sword biology hammer question surface find seat profit |  
+| bip_39_word_space_12 | later actress social sword biology hammer question surface find seat profit angry |  
+| bip_39_word_space_2 | later actress |  
+| bip_39_word_space_3 | later actress social |  
+| bip_39_word_space_4 | later actress social sword |  
+| bip_39_word_space_5 | later actress social sword biology |  
+| bip_39_word_space_6 | later actress social sword biology hammer |  
+| bip_39_word_space_7 | later actress social sword biology hammer question |  
+| bip_39_word_space_8 | later actress social sword biology hammer question surface |  
+| bip_39_word_space_9 | later actress social sword biology hammer question surface find |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

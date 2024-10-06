@@ -1,3 +1,186 @@
+bip_39_word_new_br1: broken
+bip_39_word_new_br10: broken<br>job<br>error<br>flame<br>unveil<br>squirrel<br>diary<br>piece<br>outdoor<br>beyond
+bip_39_word_new_br11: broken<br>job<br>error<br>flame<br>unveil<br>squirrel<br>diary<br>piece<br>outdoor<br>beyond<br>cinnamon
+bip_39_word_new_br12: broken<br>job<br>error<br>flame<br>unveil<br>squirrel<br>diary<br>piece<br>outdoor<br>beyond<br>cinnamon<br>august
+bip_39_word_new_br2: broken<br>job
+bip_39_word_new_br3: broken<br>job<br>error
+bip_39_word_new_br4: broken<br>job<br>error<br>flame
+bip_39_word_new_br5: broken<br>job<br>error<br>flame<br>unveil
+bip_39_word_new_br6: broken<br>job<br>error<br>flame<br>unveil<br>squirrel
+bip_39_word_new_br7: broken<br>job<br>error<br>flame<br>unveil<br>squirrel<br>diary
+bip_39_word_new_br8: broken<br>job<br>error<br>flame<br>unveil<br>squirrel<br>diary<br>piece
+bip_39_word_new_br9: broken<br>job<br>error<br>flame<br>unveil<br>squirrel<br>diary<br>piece<br>outdoor
+bip_39_word_new_line1: broken
+bip_39_word_new_line10: 'broken
+
+  job
+
+  error
+
+  flame
+
+  unveil
+
+  squirrel
+
+  diary
+
+  piece
+
+  outdoor
+
+  beyond'
+bip_39_word_new_line11: 'broken
+
+  job
+
+  error
+
+  flame
+
+  unveil
+
+  squirrel
+
+  diary
+
+  piece
+
+  outdoor
+
+  beyond
+
+  cinnamon'
+bip_39_word_new_line12: 'broken
+
+  job
+
+  error
+
+  flame
+
+  unveil
+
+  squirrel
+
+  diary
+
+  piece
+
+  outdoor
+
+  beyond
+
+  cinnamon
+
+  august'
+bip_39_word_new_line2: 'broken
+
+  job'
+bip_39_word_new_line3: 'broken
+
+  job
+
+  error'
+bip_39_word_new_line4: 'broken
+
+  job
+
+  error
+
+  flame'
+bip_39_word_new_line5: 'broken
+
+  job
+
+  error
+
+  flame
+
+  unveil'
+bip_39_word_new_line6: 'broken
+
+  job
+
+  error
+
+  flame
+
+  unveil
+
+  squirrel'
+bip_39_word_new_line7: 'broken
+
+  job
+
+  error
+
+  flame
+
+  unveil
+
+  squirrel
+
+  diary'
+bip_39_word_new_line8: 'broken
+
+  job
+
+  error
+
+  flame
+
+  unveil
+
+  squirrel
+
+  diary
+
+  piece'
+bip_39_word_new_line9: 'broken
+
+  job
+
+  error
+
+  flame
+
+  unveil
+
+  squirrel
+
+  diary
+
+  piece
+
+  outdoor'
+bip_39_word_space_0:
+- broken
+- job
+- error
+- flame
+- unveil
+- squirrel
+- diary
+- piece
+- outdoor
+- beyond
+- cinnamon
+- august
+bip_39_word_space_1: broken
+bip_39_word_space_10: broken job error flame unveil squirrel diary piece outdoor beyond
+bip_39_word_space_11: broken job error flame unveil squirrel diary piece outdoor beyond
+  cinnamon
+bip_39_word_space_12: broken job error flame unveil squirrel diary piece outdoor beyond
+  cinnamon august
+bip_39_word_space_2: broken job
+bip_39_word_space_3: broken job error
+bip_39_word_space_4: broken job error flame
+bip_39_word_space_5: broken job error flame unveil
+bip_39_word_space_6: broken job error flame unveil squirrel
+bip_39_word_space_7: broken job error flame unveil squirrel diary
+bip_39_word_space_8: broken job error flame unveil squirrel diary piece
+bip_39_word_space_9: broken job error flame unveil squirrel diary piece outdoor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

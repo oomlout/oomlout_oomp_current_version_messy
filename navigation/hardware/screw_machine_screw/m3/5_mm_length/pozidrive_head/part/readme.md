@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: twin pepper
+  * bip 39 word 3: twin pepper seed
+  * bip 39 word: twin pepper seed museum riot candy jacket trouble rescue sentence cradle ask
 
 ### other_codes
 * short_code: ms3m5pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | twin |  
+| bip_39_word_new_br10 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy<br>jacket<br>trouble<br>rescue<br>sentence |  
+| bip_39_word_new_br11 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy<br>jacket<br>trouble<br>rescue<br>sentence<br>cradle |  
+| bip_39_word_new_br12 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy<br>jacket<br>trouble<br>rescue<br>sentence<br>cradle<br>ask |  
+| bip_39_word_new_br2 | twin<br>pepper |  
+| bip_39_word_new_br3 | twin<br>pepper<br>seed |  
+| bip_39_word_new_br4 | twin<br>pepper<br>seed<br>museum |  
+| bip_39_word_new_br5 | twin<br>pepper<br>seed<br>museum<br>riot |  
+| bip_39_word_new_br6 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy |  
+| bip_39_word_new_br7 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy<br>jacket |  
+| bip_39_word_new_br8 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy<br>jacket<br>trouble |  
+| bip_39_word_new_br9 | twin<br>pepper<br>seed<br>museum<br>riot<br>candy<br>jacket<br>trouble<br>rescue |  
+| bip_39_word_new_line1 | twin |  
+| bip_39_word_new_line10 | twin
+pepper
+seed
+museum
+riot
+candy
+jacket
+trouble
+rescue
+sentence |  
+| bip_39_word_new_line11 | twin
+pepper
+seed
+museum
+riot
+candy
+jacket
+trouble
+rescue
+sentence
+cradle |  
+| bip_39_word_new_line12 | twin
+pepper
+seed
+museum
+riot
+candy
+jacket
+trouble
+rescue
+sentence
+cradle
+ask |  
+| bip_39_word_new_line2 | twin
+pepper |  
+| bip_39_word_new_line3 | twin
+pepper
+seed |  
+| bip_39_word_new_line4 | twin
+pepper
+seed
+museum |  
+| bip_39_word_new_line5 | twin
+pepper
+seed
+museum
+riot |  
+| bip_39_word_new_line6 | twin
+pepper
+seed
+museum
+riot
+candy |  
+| bip_39_word_new_line7 | twin
+pepper
+seed
+museum
+riot
+candy
+jacket |  
+| bip_39_word_new_line8 | twin
+pepper
+seed
+museum
+riot
+candy
+jacket
+trouble |  
+| bip_39_word_new_line9 | twin
+pepper
+seed
+museum
+riot
+candy
+jacket
+trouble
+rescue |  
+| bip_39_word_space_0 | ['twin', 'pepper', 'seed', 'museum', 'riot', 'candy', 'jacket', 'trouble', 'rescue', 'sentence', 'cradle', 'ask'] |  
+| bip_39_word_space_1 | twin |  
+| bip_39_word_space_10 | twin pepper seed museum riot candy jacket trouble rescue sentence |  
+| bip_39_word_space_11 | twin pepper seed museum riot candy jacket trouble rescue sentence cradle |  
+| bip_39_word_space_12 | twin pepper seed museum riot candy jacket trouble rescue sentence cradle ask |  
+| bip_39_word_space_2 | twin pepper |  
+| bip_39_word_space_3 | twin pepper seed |  
+| bip_39_word_space_4 | twin pepper seed museum |  
+| bip_39_word_space_5 | twin pepper seed museum riot |  
+| bip_39_word_space_6 | twin pepper seed museum riot candy |  
+| bip_39_word_space_7 | twin pepper seed museum riot candy jacket |  
+| bip_39_word_space_8 | twin pepper seed museum riot candy jacket trouble |  
+| bip_39_word_space_9 | twin pepper seed museum riot candy jacket trouble rescue |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

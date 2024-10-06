@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faculty problem
+  * bip 39 word 3: faculty problem canyon
+  * bip 39 word: faculty problem canyon ring popular march version pioneer knife sun mule apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faculty |  
+| bip_39_word_new_br10 | faculty<br>problem<br>canyon<br>ring<br>popular<br>march<br>version<br>pioneer<br>knife<br>sun |  
+| bip_39_word_new_br11 | faculty<br>problem<br>canyon<br>ring<br>popular<br>march<br>version<br>pioneer<br>knife<br>sun<br>mule |  
+| bip_39_word_new_br12 | faculty<br>problem<br>canyon<br>ring<br>popular<br>march<br>version<br>pioneer<br>knife<br>sun<br>mule<br>apology |  
+| bip_39_word_new_br2 | faculty<br>problem |  
+| bip_39_word_new_br3 | faculty<br>problem<br>canyon |  
+| bip_39_word_new_br4 | faculty<br>problem<br>canyon<br>ring |  
+| bip_39_word_new_br5 | faculty<br>problem<br>canyon<br>ring<br>popular |  
+| bip_39_word_new_br6 | faculty<br>problem<br>canyon<br>ring<br>popular<br>march |  
+| bip_39_word_new_br7 | faculty<br>problem<br>canyon<br>ring<br>popular<br>march<br>version |  
+| bip_39_word_new_br8 | faculty<br>problem<br>canyon<br>ring<br>popular<br>march<br>version<br>pioneer |  
+| bip_39_word_new_br9 | faculty<br>problem<br>canyon<br>ring<br>popular<br>march<br>version<br>pioneer<br>knife |  
+| bip_39_word_new_line1 | faculty |  
+| bip_39_word_new_line10 | faculty
+problem
+canyon
+ring
+popular
+march
+version
+pioneer
+knife
+sun |  
+| bip_39_word_new_line11 | faculty
+problem
+canyon
+ring
+popular
+march
+version
+pioneer
+knife
+sun
+mule |  
+| bip_39_word_new_line12 | faculty
+problem
+canyon
+ring
+popular
+march
+version
+pioneer
+knife
+sun
+mule
+apology |  
+| bip_39_word_new_line2 | faculty
+problem |  
+| bip_39_word_new_line3 | faculty
+problem
+canyon |  
+| bip_39_word_new_line4 | faculty
+problem
+canyon
+ring |  
+| bip_39_word_new_line5 | faculty
+problem
+canyon
+ring
+popular |  
+| bip_39_word_new_line6 | faculty
+problem
+canyon
+ring
+popular
+march |  
+| bip_39_word_new_line7 | faculty
+problem
+canyon
+ring
+popular
+march
+version |  
+| bip_39_word_new_line8 | faculty
+problem
+canyon
+ring
+popular
+march
+version
+pioneer |  
+| bip_39_word_new_line9 | faculty
+problem
+canyon
+ring
+popular
+march
+version
+pioneer
+knife |  
+| bip_39_word_space_0 | ['faculty', 'problem', 'canyon', 'ring', 'popular', 'march', 'version', 'pioneer', 'knife', 'sun', 'mule', 'apology'] |  
+| bip_39_word_space_1 | faculty |  
+| bip_39_word_space_10 | faculty problem canyon ring popular march version pioneer knife sun |  
+| bip_39_word_space_11 | faculty problem canyon ring popular march version pioneer knife sun mule |  
+| bip_39_word_space_12 | faculty problem canyon ring popular march version pioneer knife sun mule apology |  
+| bip_39_word_space_2 | faculty problem |  
+| bip_39_word_space_3 | faculty problem canyon |  
+| bip_39_word_space_4 | faculty problem canyon ring |  
+| bip_39_word_space_5 | faculty problem canyon ring popular |  
+| bip_39_word_space_6 | faculty problem canyon ring popular march |  
+| bip_39_word_space_7 | faculty problem canyon ring popular march version |  
+| bip_39_word_space_8 | faculty problem canyon ring popular march version pioneer |  
+| bip_39_word_space_9 | faculty problem canyon ring popular march version pioneer knife |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

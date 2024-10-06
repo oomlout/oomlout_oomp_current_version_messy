@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: age picture
+  * bip 39 word 3: age picture scissors
+  * bip 39 word: age picture scissors bronze resemble baby trouble helmet barrel pill board august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | age |  
+| bip_39_word_new_br10 | age<br>picture<br>scissors<br>bronze<br>resemble<br>baby<br>trouble<br>helmet<br>barrel<br>pill |  
+| bip_39_word_new_br11 | age<br>picture<br>scissors<br>bronze<br>resemble<br>baby<br>trouble<br>helmet<br>barrel<br>pill<br>board |  
+| bip_39_word_new_br12 | age<br>picture<br>scissors<br>bronze<br>resemble<br>baby<br>trouble<br>helmet<br>barrel<br>pill<br>board<br>august |  
+| bip_39_word_new_br2 | age<br>picture |  
+| bip_39_word_new_br3 | age<br>picture<br>scissors |  
+| bip_39_word_new_br4 | age<br>picture<br>scissors<br>bronze |  
+| bip_39_word_new_br5 | age<br>picture<br>scissors<br>bronze<br>resemble |  
+| bip_39_word_new_br6 | age<br>picture<br>scissors<br>bronze<br>resemble<br>baby |  
+| bip_39_word_new_br7 | age<br>picture<br>scissors<br>bronze<br>resemble<br>baby<br>trouble |  
+| bip_39_word_new_br8 | age<br>picture<br>scissors<br>bronze<br>resemble<br>baby<br>trouble<br>helmet |  
+| bip_39_word_new_br9 | age<br>picture<br>scissors<br>bronze<br>resemble<br>baby<br>trouble<br>helmet<br>barrel |  
+| bip_39_word_new_line1 | age |  
+| bip_39_word_new_line10 | age
+picture
+scissors
+bronze
+resemble
+baby
+trouble
+helmet
+barrel
+pill |  
+| bip_39_word_new_line11 | age
+picture
+scissors
+bronze
+resemble
+baby
+trouble
+helmet
+barrel
+pill
+board |  
+| bip_39_word_new_line12 | age
+picture
+scissors
+bronze
+resemble
+baby
+trouble
+helmet
+barrel
+pill
+board
+august |  
+| bip_39_word_new_line2 | age
+picture |  
+| bip_39_word_new_line3 | age
+picture
+scissors |  
+| bip_39_word_new_line4 | age
+picture
+scissors
+bronze |  
+| bip_39_word_new_line5 | age
+picture
+scissors
+bronze
+resemble |  
+| bip_39_word_new_line6 | age
+picture
+scissors
+bronze
+resemble
+baby |  
+| bip_39_word_new_line7 | age
+picture
+scissors
+bronze
+resemble
+baby
+trouble |  
+| bip_39_word_new_line8 | age
+picture
+scissors
+bronze
+resemble
+baby
+trouble
+helmet |  
+| bip_39_word_new_line9 | age
+picture
+scissors
+bronze
+resemble
+baby
+trouble
+helmet
+barrel |  
+| bip_39_word_space_0 | ['age', 'picture', 'scissors', 'bronze', 'resemble', 'baby', 'trouble', 'helmet', 'barrel', 'pill', 'board', 'august'] |  
+| bip_39_word_space_1 | age |  
+| bip_39_word_space_10 | age picture scissors bronze resemble baby trouble helmet barrel pill |  
+| bip_39_word_space_11 | age picture scissors bronze resemble baby trouble helmet barrel pill board |  
+| bip_39_word_space_12 | age picture scissors bronze resemble baby trouble helmet barrel pill board august |  
+| bip_39_word_space_2 | age picture |  
+| bip_39_word_space_3 | age picture scissors |  
+| bip_39_word_space_4 | age picture scissors bronze |  
+| bip_39_word_space_5 | age picture scissors bronze resemble |  
+| bip_39_word_space_6 | age picture scissors bronze resemble baby |  
+| bip_39_word_space_7 | age picture scissors bronze resemble baby trouble |  
+| bip_39_word_space_8 | age picture scissors bronze resemble baby trouble helmet |  
+| bip_39_word_space_9 | age picture scissors bronze resemble baby trouble helmet barrel |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

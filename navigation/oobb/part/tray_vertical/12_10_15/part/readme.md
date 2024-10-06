@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: try almost
+  * bip 39 word 3: try almost distance
+  * bip 39 word: try almost distance sample sauce clay civil unhappy check account property arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | try |  
+| bip_39_word_new_br10 | try<br>almost<br>distance<br>sample<br>sauce<br>clay<br>civil<br>unhappy<br>check<br>account |  
+| bip_39_word_new_br11 | try<br>almost<br>distance<br>sample<br>sauce<br>clay<br>civil<br>unhappy<br>check<br>account<br>property |  
+| bip_39_word_new_br12 | try<br>almost<br>distance<br>sample<br>sauce<br>clay<br>civil<br>unhappy<br>check<br>account<br>property<br>arm |  
+| bip_39_word_new_br2 | try<br>almost |  
+| bip_39_word_new_br3 | try<br>almost<br>distance |  
+| bip_39_word_new_br4 | try<br>almost<br>distance<br>sample |  
+| bip_39_word_new_br5 | try<br>almost<br>distance<br>sample<br>sauce |  
+| bip_39_word_new_br6 | try<br>almost<br>distance<br>sample<br>sauce<br>clay |  
+| bip_39_word_new_br7 | try<br>almost<br>distance<br>sample<br>sauce<br>clay<br>civil |  
+| bip_39_word_new_br8 | try<br>almost<br>distance<br>sample<br>sauce<br>clay<br>civil<br>unhappy |  
+| bip_39_word_new_br9 | try<br>almost<br>distance<br>sample<br>sauce<br>clay<br>civil<br>unhappy<br>check |  
+| bip_39_word_new_line1 | try |  
+| bip_39_word_new_line10 | try
+almost
+distance
+sample
+sauce
+clay
+civil
+unhappy
+check
+account |  
+| bip_39_word_new_line11 | try
+almost
+distance
+sample
+sauce
+clay
+civil
+unhappy
+check
+account
+property |  
+| bip_39_word_new_line12 | try
+almost
+distance
+sample
+sauce
+clay
+civil
+unhappy
+check
+account
+property
+arm |  
+| bip_39_word_new_line2 | try
+almost |  
+| bip_39_word_new_line3 | try
+almost
+distance |  
+| bip_39_word_new_line4 | try
+almost
+distance
+sample |  
+| bip_39_word_new_line5 | try
+almost
+distance
+sample
+sauce |  
+| bip_39_word_new_line6 | try
+almost
+distance
+sample
+sauce
+clay |  
+| bip_39_word_new_line7 | try
+almost
+distance
+sample
+sauce
+clay
+civil |  
+| bip_39_word_new_line8 | try
+almost
+distance
+sample
+sauce
+clay
+civil
+unhappy |  
+| bip_39_word_new_line9 | try
+almost
+distance
+sample
+sauce
+clay
+civil
+unhappy
+check |  
+| bip_39_word_space_0 | ['try', 'almost', 'distance', 'sample', 'sauce', 'clay', 'civil', 'unhappy', 'check', 'account', 'property', 'arm'] |  
+| bip_39_word_space_1 | try |  
+| bip_39_word_space_10 | try almost distance sample sauce clay civil unhappy check account |  
+| bip_39_word_space_11 | try almost distance sample sauce clay civil unhappy check account property |  
+| bip_39_word_space_12 | try almost distance sample sauce clay civil unhappy check account property arm |  
+| bip_39_word_space_2 | try almost |  
+| bip_39_word_space_3 | try almost distance |  
+| bip_39_word_space_4 | try almost distance sample |  
+| bip_39_word_space_5 | try almost distance sample sauce |  
+| bip_39_word_space_6 | try almost distance sample sauce clay |  
+| bip_39_word_space_7 | try almost distance sample sauce clay civil |  
+| bip_39_word_space_8 | try almost distance sample sauce clay civil unhappy |  
+| bip_39_word_space_9 | try almost distance sample sauce clay civil unhappy check |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: short base
+  * bip 39 word 3: short base quiz
+  * bip 39 word: short base quiz enlist attack extra recipe answer water car wrap access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | short |  
+| bip_39_word_new_br10 | short<br>base<br>quiz<br>enlist<br>attack<br>extra<br>recipe<br>answer<br>water<br>car |  
+| bip_39_word_new_br11 | short<br>base<br>quiz<br>enlist<br>attack<br>extra<br>recipe<br>answer<br>water<br>car<br>wrap |  
+| bip_39_word_new_br12 | short<br>base<br>quiz<br>enlist<br>attack<br>extra<br>recipe<br>answer<br>water<br>car<br>wrap<br>access |  
+| bip_39_word_new_br2 | short<br>base |  
+| bip_39_word_new_br3 | short<br>base<br>quiz |  
+| bip_39_word_new_br4 | short<br>base<br>quiz<br>enlist |  
+| bip_39_word_new_br5 | short<br>base<br>quiz<br>enlist<br>attack |  
+| bip_39_word_new_br6 | short<br>base<br>quiz<br>enlist<br>attack<br>extra |  
+| bip_39_word_new_br7 | short<br>base<br>quiz<br>enlist<br>attack<br>extra<br>recipe |  
+| bip_39_word_new_br8 | short<br>base<br>quiz<br>enlist<br>attack<br>extra<br>recipe<br>answer |  
+| bip_39_word_new_br9 | short<br>base<br>quiz<br>enlist<br>attack<br>extra<br>recipe<br>answer<br>water |  
+| bip_39_word_new_line1 | short |  
+| bip_39_word_new_line10 | short
+base
+quiz
+enlist
+attack
+extra
+recipe
+answer
+water
+car |  
+| bip_39_word_new_line11 | short
+base
+quiz
+enlist
+attack
+extra
+recipe
+answer
+water
+car
+wrap |  
+| bip_39_word_new_line12 | short
+base
+quiz
+enlist
+attack
+extra
+recipe
+answer
+water
+car
+wrap
+access |  
+| bip_39_word_new_line2 | short
+base |  
+| bip_39_word_new_line3 | short
+base
+quiz |  
+| bip_39_word_new_line4 | short
+base
+quiz
+enlist |  
+| bip_39_word_new_line5 | short
+base
+quiz
+enlist
+attack |  
+| bip_39_word_new_line6 | short
+base
+quiz
+enlist
+attack
+extra |  
+| bip_39_word_new_line7 | short
+base
+quiz
+enlist
+attack
+extra
+recipe |  
+| bip_39_word_new_line8 | short
+base
+quiz
+enlist
+attack
+extra
+recipe
+answer |  
+| bip_39_word_new_line9 | short
+base
+quiz
+enlist
+attack
+extra
+recipe
+answer
+water |  
+| bip_39_word_space_0 | ['short', 'base', 'quiz', 'enlist', 'attack', 'extra', 'recipe', 'answer', 'water', 'car', 'wrap', 'access'] |  
+| bip_39_word_space_1 | short |  
+| bip_39_word_space_10 | short base quiz enlist attack extra recipe answer water car |  
+| bip_39_word_space_11 | short base quiz enlist attack extra recipe answer water car wrap |  
+| bip_39_word_space_12 | short base quiz enlist attack extra recipe answer water car wrap access |  
+| bip_39_word_space_2 | short base |  
+| bip_39_word_space_3 | short base quiz |  
+| bip_39_word_space_4 | short base quiz enlist |  
+| bip_39_word_space_5 | short base quiz enlist attack |  
+| bip_39_word_space_6 | short base quiz enlist attack extra |  
+| bip_39_word_space_7 | short base quiz enlist attack extra recipe |  
+| bip_39_word_space_8 | short base quiz enlist attack extra recipe answer |  
+| bip_39_word_space_9 | short base quiz enlist attack extra recipe answer water |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

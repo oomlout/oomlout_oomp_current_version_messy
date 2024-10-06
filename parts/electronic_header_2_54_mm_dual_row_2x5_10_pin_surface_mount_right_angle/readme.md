@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raccoon step
+  * bip 39 word 3: raccoon step spice
+  * bip 39 word: raccoon step spice use link crystal return small actual recall undo armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raccoon |  
+| bip_39_word_new_br10 | raccoon<br>step<br>spice<br>use<br>link<br>crystal<br>return<br>small<br>actual<br>recall |  
+| bip_39_word_new_br11 | raccoon<br>step<br>spice<br>use<br>link<br>crystal<br>return<br>small<br>actual<br>recall<br>undo |  
+| bip_39_word_new_br12 | raccoon<br>step<br>spice<br>use<br>link<br>crystal<br>return<br>small<br>actual<br>recall<br>undo<br>armor |  
+| bip_39_word_new_br2 | raccoon<br>step |  
+| bip_39_word_new_br3 | raccoon<br>step<br>spice |  
+| bip_39_word_new_br4 | raccoon<br>step<br>spice<br>use |  
+| bip_39_word_new_br5 | raccoon<br>step<br>spice<br>use<br>link |  
+| bip_39_word_new_br6 | raccoon<br>step<br>spice<br>use<br>link<br>crystal |  
+| bip_39_word_new_br7 | raccoon<br>step<br>spice<br>use<br>link<br>crystal<br>return |  
+| bip_39_word_new_br8 | raccoon<br>step<br>spice<br>use<br>link<br>crystal<br>return<br>small |  
+| bip_39_word_new_br9 | raccoon<br>step<br>spice<br>use<br>link<br>crystal<br>return<br>small<br>actual |  
+| bip_39_word_new_line1 | raccoon |  
+| bip_39_word_new_line10 | raccoon
+step
+spice
+use
+link
+crystal
+return
+small
+actual
+recall |  
+| bip_39_word_new_line11 | raccoon
+step
+spice
+use
+link
+crystal
+return
+small
+actual
+recall
+undo |  
+| bip_39_word_new_line12 | raccoon
+step
+spice
+use
+link
+crystal
+return
+small
+actual
+recall
+undo
+armor |  
+| bip_39_word_new_line2 | raccoon
+step |  
+| bip_39_word_new_line3 | raccoon
+step
+spice |  
+| bip_39_word_new_line4 | raccoon
+step
+spice
+use |  
+| bip_39_word_new_line5 | raccoon
+step
+spice
+use
+link |  
+| bip_39_word_new_line6 | raccoon
+step
+spice
+use
+link
+crystal |  
+| bip_39_word_new_line7 | raccoon
+step
+spice
+use
+link
+crystal
+return |  
+| bip_39_word_new_line8 | raccoon
+step
+spice
+use
+link
+crystal
+return
+small |  
+| bip_39_word_new_line9 | raccoon
+step
+spice
+use
+link
+crystal
+return
+small
+actual |  
+| bip_39_word_space_0 | ['raccoon', 'step', 'spice', 'use', 'link', 'crystal', 'return', 'small', 'actual', 'recall', 'undo', 'armor'] |  
+| bip_39_word_space_1 | raccoon |  
+| bip_39_word_space_10 | raccoon step spice use link crystal return small actual recall |  
+| bip_39_word_space_11 | raccoon step spice use link crystal return small actual recall undo |  
+| bip_39_word_space_12 | raccoon step spice use link crystal return small actual recall undo armor |  
+| bip_39_word_space_2 | raccoon step |  
+| bip_39_word_space_3 | raccoon step spice |  
+| bip_39_word_space_4 | raccoon step spice use |  
+| bip_39_word_space_5 | raccoon step spice use link |  
+| bip_39_word_space_6 | raccoon step spice use link crystal |  
+| bip_39_word_space_7 | raccoon step spice use link crystal return |  
+| bip_39_word_space_8 | raccoon step spice use link crystal return small |  
+| bip_39_word_space_9 | raccoon step spice use link crystal return small actual |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

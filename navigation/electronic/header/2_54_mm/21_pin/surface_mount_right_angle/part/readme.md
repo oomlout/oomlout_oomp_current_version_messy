@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: divorce section
+  * bip 39 word 3: divorce section unable
+  * bip 39 word: divorce section unable mosquito sentence nominee grace tornado laundry alone globe attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | divorce |  
+| bip_39_word_new_br10 | divorce<br>section<br>unable<br>mosquito<br>sentence<br>nominee<br>grace<br>tornado<br>laundry<br>alone |  
+| bip_39_word_new_br11 | divorce<br>section<br>unable<br>mosquito<br>sentence<br>nominee<br>grace<br>tornado<br>laundry<br>alone<br>globe |  
+| bip_39_word_new_br12 | divorce<br>section<br>unable<br>mosquito<br>sentence<br>nominee<br>grace<br>tornado<br>laundry<br>alone<br>globe<br>attitude |  
+| bip_39_word_new_br2 | divorce<br>section |  
+| bip_39_word_new_br3 | divorce<br>section<br>unable |  
+| bip_39_word_new_br4 | divorce<br>section<br>unable<br>mosquito |  
+| bip_39_word_new_br5 | divorce<br>section<br>unable<br>mosquito<br>sentence |  
+| bip_39_word_new_br6 | divorce<br>section<br>unable<br>mosquito<br>sentence<br>nominee |  
+| bip_39_word_new_br7 | divorce<br>section<br>unable<br>mosquito<br>sentence<br>nominee<br>grace |  
+| bip_39_word_new_br8 | divorce<br>section<br>unable<br>mosquito<br>sentence<br>nominee<br>grace<br>tornado |  
+| bip_39_word_new_br9 | divorce<br>section<br>unable<br>mosquito<br>sentence<br>nominee<br>grace<br>tornado<br>laundry |  
+| bip_39_word_new_line1 | divorce |  
+| bip_39_word_new_line10 | divorce
+section
+unable
+mosquito
+sentence
+nominee
+grace
+tornado
+laundry
+alone |  
+| bip_39_word_new_line11 | divorce
+section
+unable
+mosquito
+sentence
+nominee
+grace
+tornado
+laundry
+alone
+globe |  
+| bip_39_word_new_line12 | divorce
+section
+unable
+mosquito
+sentence
+nominee
+grace
+tornado
+laundry
+alone
+globe
+attitude |  
+| bip_39_word_new_line2 | divorce
+section |  
+| bip_39_word_new_line3 | divorce
+section
+unable |  
+| bip_39_word_new_line4 | divorce
+section
+unable
+mosquito |  
+| bip_39_word_new_line5 | divorce
+section
+unable
+mosquito
+sentence |  
+| bip_39_word_new_line6 | divorce
+section
+unable
+mosquito
+sentence
+nominee |  
+| bip_39_word_new_line7 | divorce
+section
+unable
+mosquito
+sentence
+nominee
+grace |  
+| bip_39_word_new_line8 | divorce
+section
+unable
+mosquito
+sentence
+nominee
+grace
+tornado |  
+| bip_39_word_new_line9 | divorce
+section
+unable
+mosquito
+sentence
+nominee
+grace
+tornado
+laundry |  
+| bip_39_word_space_0 | ['divorce', 'section', 'unable', 'mosquito', 'sentence', 'nominee', 'grace', 'tornado', 'laundry', 'alone', 'globe', 'attitude'] |  
+| bip_39_word_space_1 | divorce |  
+| bip_39_word_space_10 | divorce section unable mosquito sentence nominee grace tornado laundry alone |  
+| bip_39_word_space_11 | divorce section unable mosquito sentence nominee grace tornado laundry alone globe |  
+| bip_39_word_space_12 | divorce section unable mosquito sentence nominee grace tornado laundry alone globe attitude |  
+| bip_39_word_space_2 | divorce section |  
+| bip_39_word_space_3 | divorce section unable |  
+| bip_39_word_space_4 | divorce section unable mosquito |  
+| bip_39_word_space_5 | divorce section unable mosquito sentence |  
+| bip_39_word_space_6 | divorce section unable mosquito sentence nominee |  
+| bip_39_word_space_7 | divorce section unable mosquito sentence nominee grace |  
+| bip_39_word_space_8 | divorce section unable mosquito sentence nominee grace tornado |  
+| bip_39_word_space_9 | divorce section unable mosquito sentence nominee grace tornado laundry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dinner legal
+  * bip 39 word 3: dinner legal catalog
+  * bip 39 word: dinner legal catalog guitar gym bundle corn person stable board viable alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dinner |  
+| bip_39_word_new_br10 | dinner<br>legal<br>catalog<br>guitar<br>gym<br>bundle<br>corn<br>person<br>stable<br>board |  
+| bip_39_word_new_br11 | dinner<br>legal<br>catalog<br>guitar<br>gym<br>bundle<br>corn<br>person<br>stable<br>board<br>viable |  
+| bip_39_word_new_br12 | dinner<br>legal<br>catalog<br>guitar<br>gym<br>bundle<br>corn<br>person<br>stable<br>board<br>viable<br>alien |  
+| bip_39_word_new_br2 | dinner<br>legal |  
+| bip_39_word_new_br3 | dinner<br>legal<br>catalog |  
+| bip_39_word_new_br4 | dinner<br>legal<br>catalog<br>guitar |  
+| bip_39_word_new_br5 | dinner<br>legal<br>catalog<br>guitar<br>gym |  
+| bip_39_word_new_br6 | dinner<br>legal<br>catalog<br>guitar<br>gym<br>bundle |  
+| bip_39_word_new_br7 | dinner<br>legal<br>catalog<br>guitar<br>gym<br>bundle<br>corn |  
+| bip_39_word_new_br8 | dinner<br>legal<br>catalog<br>guitar<br>gym<br>bundle<br>corn<br>person |  
+| bip_39_word_new_br9 | dinner<br>legal<br>catalog<br>guitar<br>gym<br>bundle<br>corn<br>person<br>stable |  
+| bip_39_word_new_line1 | dinner |  
+| bip_39_word_new_line10 | dinner
+legal
+catalog
+guitar
+gym
+bundle
+corn
+person
+stable
+board |  
+| bip_39_word_new_line11 | dinner
+legal
+catalog
+guitar
+gym
+bundle
+corn
+person
+stable
+board
+viable |  
+| bip_39_word_new_line12 | dinner
+legal
+catalog
+guitar
+gym
+bundle
+corn
+person
+stable
+board
+viable
+alien |  
+| bip_39_word_new_line2 | dinner
+legal |  
+| bip_39_word_new_line3 | dinner
+legal
+catalog |  
+| bip_39_word_new_line4 | dinner
+legal
+catalog
+guitar |  
+| bip_39_word_new_line5 | dinner
+legal
+catalog
+guitar
+gym |  
+| bip_39_word_new_line6 | dinner
+legal
+catalog
+guitar
+gym
+bundle |  
+| bip_39_word_new_line7 | dinner
+legal
+catalog
+guitar
+gym
+bundle
+corn |  
+| bip_39_word_new_line8 | dinner
+legal
+catalog
+guitar
+gym
+bundle
+corn
+person |  
+| bip_39_word_new_line9 | dinner
+legal
+catalog
+guitar
+gym
+bundle
+corn
+person
+stable |  
+| bip_39_word_space_0 | ['dinner', 'legal', 'catalog', 'guitar', 'gym', 'bundle', 'corn', 'person', 'stable', 'board', 'viable', 'alien'] |  
+| bip_39_word_space_1 | dinner |  
+| bip_39_word_space_10 | dinner legal catalog guitar gym bundle corn person stable board |  
+| bip_39_word_space_11 | dinner legal catalog guitar gym bundle corn person stable board viable |  
+| bip_39_word_space_12 | dinner legal catalog guitar gym bundle corn person stable board viable alien |  
+| bip_39_word_space_2 | dinner legal |  
+| bip_39_word_space_3 | dinner legal catalog |  
+| bip_39_word_space_4 | dinner legal catalog guitar |  
+| bip_39_word_space_5 | dinner legal catalog guitar gym |  
+| bip_39_word_space_6 | dinner legal catalog guitar gym bundle |  
+| bip_39_word_space_7 | dinner legal catalog guitar gym bundle corn |  
+| bip_39_word_space_8 | dinner legal catalog guitar gym bundle corn person |  
+| bip_39_word_space_9 | dinner legal catalog guitar gym bundle corn person stable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

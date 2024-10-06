@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tongue legend
+  * bip 39 word 3: tongue legend enhance
+  * bip 39 word: tongue legend enhance laundry air dad talent order click tip glimpse agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tongue |  
+| bip_39_word_new_br10 | tongue<br>legend<br>enhance<br>laundry<br>air<br>dad<br>talent<br>order<br>click<br>tip |  
+| bip_39_word_new_br11 | tongue<br>legend<br>enhance<br>laundry<br>air<br>dad<br>talent<br>order<br>click<br>tip<br>glimpse |  
+| bip_39_word_new_br12 | tongue<br>legend<br>enhance<br>laundry<br>air<br>dad<br>talent<br>order<br>click<br>tip<br>glimpse<br>agree |  
+| bip_39_word_new_br2 | tongue<br>legend |  
+| bip_39_word_new_br3 | tongue<br>legend<br>enhance |  
+| bip_39_word_new_br4 | tongue<br>legend<br>enhance<br>laundry |  
+| bip_39_word_new_br5 | tongue<br>legend<br>enhance<br>laundry<br>air |  
+| bip_39_word_new_br6 | tongue<br>legend<br>enhance<br>laundry<br>air<br>dad |  
+| bip_39_word_new_br7 | tongue<br>legend<br>enhance<br>laundry<br>air<br>dad<br>talent |  
+| bip_39_word_new_br8 | tongue<br>legend<br>enhance<br>laundry<br>air<br>dad<br>talent<br>order |  
+| bip_39_word_new_br9 | tongue<br>legend<br>enhance<br>laundry<br>air<br>dad<br>talent<br>order<br>click |  
+| bip_39_word_new_line1 | tongue |  
+| bip_39_word_new_line10 | tongue
+legend
+enhance
+laundry
+air
+dad
+talent
+order
+click
+tip |  
+| bip_39_word_new_line11 | tongue
+legend
+enhance
+laundry
+air
+dad
+talent
+order
+click
+tip
+glimpse |  
+| bip_39_word_new_line12 | tongue
+legend
+enhance
+laundry
+air
+dad
+talent
+order
+click
+tip
+glimpse
+agree |  
+| bip_39_word_new_line2 | tongue
+legend |  
+| bip_39_word_new_line3 | tongue
+legend
+enhance |  
+| bip_39_word_new_line4 | tongue
+legend
+enhance
+laundry |  
+| bip_39_word_new_line5 | tongue
+legend
+enhance
+laundry
+air |  
+| bip_39_word_new_line6 | tongue
+legend
+enhance
+laundry
+air
+dad |  
+| bip_39_word_new_line7 | tongue
+legend
+enhance
+laundry
+air
+dad
+talent |  
+| bip_39_word_new_line8 | tongue
+legend
+enhance
+laundry
+air
+dad
+talent
+order |  
+| bip_39_word_new_line9 | tongue
+legend
+enhance
+laundry
+air
+dad
+talent
+order
+click |  
+| bip_39_word_space_0 | ['tongue', 'legend', 'enhance', 'laundry', 'air', 'dad', 'talent', 'order', 'click', 'tip', 'glimpse', 'agree'] |  
+| bip_39_word_space_1 | tongue |  
+| bip_39_word_space_10 | tongue legend enhance laundry air dad talent order click tip |  
+| bip_39_word_space_11 | tongue legend enhance laundry air dad talent order click tip glimpse |  
+| bip_39_word_space_12 | tongue legend enhance laundry air dad talent order click tip glimpse agree |  
+| bip_39_word_space_2 | tongue legend |  
+| bip_39_word_space_3 | tongue legend enhance |  
+| bip_39_word_space_4 | tongue legend enhance laundry |  
+| bip_39_word_space_5 | tongue legend enhance laundry air |  
+| bip_39_word_space_6 | tongue legend enhance laundry air dad |  
+| bip_39_word_space_7 | tongue legend enhance laundry air dad talent |  
+| bip_39_word_space_8 | tongue legend enhance laundry air dad talent order |  
+| bip_39_word_space_9 | tongue legend enhance laundry air dad talent order click |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

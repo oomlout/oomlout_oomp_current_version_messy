@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: canyon exercise
+  * bip 39 word 3: canyon exercise slam
+  * bip 39 word: canyon exercise slam margin bid arm spawn measure amazing scout reward armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | canyon |  
+| bip_39_word_new_br10 | canyon<br>exercise<br>slam<br>margin<br>bid<br>arm<br>spawn<br>measure<br>amazing<br>scout |  
+| bip_39_word_new_br11 | canyon<br>exercise<br>slam<br>margin<br>bid<br>arm<br>spawn<br>measure<br>amazing<br>scout<br>reward |  
+| bip_39_word_new_br12 | canyon<br>exercise<br>slam<br>margin<br>bid<br>arm<br>spawn<br>measure<br>amazing<br>scout<br>reward<br>armor |  
+| bip_39_word_new_br2 | canyon<br>exercise |  
+| bip_39_word_new_br3 | canyon<br>exercise<br>slam |  
+| bip_39_word_new_br4 | canyon<br>exercise<br>slam<br>margin |  
+| bip_39_word_new_br5 | canyon<br>exercise<br>slam<br>margin<br>bid |  
+| bip_39_word_new_br6 | canyon<br>exercise<br>slam<br>margin<br>bid<br>arm |  
+| bip_39_word_new_br7 | canyon<br>exercise<br>slam<br>margin<br>bid<br>arm<br>spawn |  
+| bip_39_word_new_br8 | canyon<br>exercise<br>slam<br>margin<br>bid<br>arm<br>spawn<br>measure |  
+| bip_39_word_new_br9 | canyon<br>exercise<br>slam<br>margin<br>bid<br>arm<br>spawn<br>measure<br>amazing |  
+| bip_39_word_new_line1 | canyon |  
+| bip_39_word_new_line10 | canyon
+exercise
+slam
+margin
+bid
+arm
+spawn
+measure
+amazing
+scout |  
+| bip_39_word_new_line11 | canyon
+exercise
+slam
+margin
+bid
+arm
+spawn
+measure
+amazing
+scout
+reward |  
+| bip_39_word_new_line12 | canyon
+exercise
+slam
+margin
+bid
+arm
+spawn
+measure
+amazing
+scout
+reward
+armor |  
+| bip_39_word_new_line2 | canyon
+exercise |  
+| bip_39_word_new_line3 | canyon
+exercise
+slam |  
+| bip_39_word_new_line4 | canyon
+exercise
+slam
+margin |  
+| bip_39_word_new_line5 | canyon
+exercise
+slam
+margin
+bid |  
+| bip_39_word_new_line6 | canyon
+exercise
+slam
+margin
+bid
+arm |  
+| bip_39_word_new_line7 | canyon
+exercise
+slam
+margin
+bid
+arm
+spawn |  
+| bip_39_word_new_line8 | canyon
+exercise
+slam
+margin
+bid
+arm
+spawn
+measure |  
+| bip_39_word_new_line9 | canyon
+exercise
+slam
+margin
+bid
+arm
+spawn
+measure
+amazing |  
+| bip_39_word_space_0 | ['canyon', 'exercise', 'slam', 'margin', 'bid', 'arm', 'spawn', 'measure', 'amazing', 'scout', 'reward', 'armor'] |  
+| bip_39_word_space_1 | canyon |  
+| bip_39_word_space_10 | canyon exercise slam margin bid arm spawn measure amazing scout |  
+| bip_39_word_space_11 | canyon exercise slam margin bid arm spawn measure amazing scout reward |  
+| bip_39_word_space_12 | canyon exercise slam margin bid arm spawn measure amazing scout reward armor |  
+| bip_39_word_space_2 | canyon exercise |  
+| bip_39_word_space_3 | canyon exercise slam |  
+| bip_39_word_space_4 | canyon exercise slam margin |  
+| bip_39_word_space_5 | canyon exercise slam margin bid |  
+| bip_39_word_space_6 | canyon exercise slam margin bid arm |  
+| bip_39_word_space_7 | canyon exercise slam margin bid arm spawn |  
+| bip_39_word_space_8 | canyon exercise slam margin bid arm spawn measure |  
+| bip_39_word_space_9 | canyon exercise slam margin bid arm spawn measure amazing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

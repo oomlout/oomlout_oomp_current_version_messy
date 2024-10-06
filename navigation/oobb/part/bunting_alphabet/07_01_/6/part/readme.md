@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skirt trick
+  * bip 39 word 3: skirt trick change
+  * bip 39 word: skirt trick change blind transfer foster topic smoke empty must sugar august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skirt |  
+| bip_39_word_new_br10 | skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty<br>must |  
+| bip_39_word_new_br11 | skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty<br>must<br>sugar |  
+| bip_39_word_new_br12 | skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty<br>must<br>sugar<br>august |  
+| bip_39_word_new_br2 | skirt<br>trick |  
+| bip_39_word_new_br3 | skirt<br>trick<br>change |  
+| bip_39_word_new_br4 | skirt<br>trick<br>change<br>blind |  
+| bip_39_word_new_br5 | skirt<br>trick<br>change<br>blind<br>transfer |  
+| bip_39_word_new_br6 | skirt<br>trick<br>change<br>blind<br>transfer<br>foster |  
+| bip_39_word_new_br7 | skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic |  
+| bip_39_word_new_br8 | skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke |  
+| bip_39_word_new_br9 | skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty |  
+| bip_39_word_new_line1 | skirt |  
+| bip_39_word_new_line10 | skirt
+trick
+change
+blind
+transfer
+foster
+topic
+smoke
+empty
+must |  
+| bip_39_word_new_line11 | skirt
+trick
+change
+blind
+transfer
+foster
+topic
+smoke
+empty
+must
+sugar |  
+| bip_39_word_new_line12 | skirt
+trick
+change
+blind
+transfer
+foster
+topic
+smoke
+empty
+must
+sugar
+august |  
+| bip_39_word_new_line2 | skirt
+trick |  
+| bip_39_word_new_line3 | skirt
+trick
+change |  
+| bip_39_word_new_line4 | skirt
+trick
+change
+blind |  
+| bip_39_word_new_line5 | skirt
+trick
+change
+blind
+transfer |  
+| bip_39_word_new_line6 | skirt
+trick
+change
+blind
+transfer
+foster |  
+| bip_39_word_new_line7 | skirt
+trick
+change
+blind
+transfer
+foster
+topic |  
+| bip_39_word_new_line8 | skirt
+trick
+change
+blind
+transfer
+foster
+topic
+smoke |  
+| bip_39_word_new_line9 | skirt
+trick
+change
+blind
+transfer
+foster
+topic
+smoke
+empty |  
+| bip_39_word_space_0 | ['skirt', 'trick', 'change', 'blind', 'transfer', 'foster', 'topic', 'smoke', 'empty', 'must', 'sugar', 'august'] |  
+| bip_39_word_space_1 | skirt |  
+| bip_39_word_space_10 | skirt trick change blind transfer foster topic smoke empty must |  
+| bip_39_word_space_11 | skirt trick change blind transfer foster topic smoke empty must sugar |  
+| bip_39_word_space_12 | skirt trick change blind transfer foster topic smoke empty must sugar august |  
+| bip_39_word_space_2 | skirt trick |  
+| bip_39_word_space_3 | skirt trick change |  
+| bip_39_word_space_4 | skirt trick change blind |  
+| bip_39_word_space_5 | skirt trick change blind transfer |  
+| bip_39_word_space_6 | skirt trick change blind transfer foster |  
+| bip_39_word_space_7 | skirt trick change blind transfer foster topic |  
+| bip_39_word_space_8 | skirt trick change blind transfer foster topic smoke |  
+| bip_39_word_space_9 | skirt trick change blind transfer foster topic smoke empty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

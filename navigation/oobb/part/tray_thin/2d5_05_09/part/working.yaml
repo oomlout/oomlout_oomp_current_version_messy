@@ -1,3 +1,186 @@
+bip_39_word_new_br1: potato
+bip_39_word_new_br10: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock<br>distance
+bip_39_word_new_br11: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock<br>distance<br>elbow
+bip_39_word_new_br12: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock<br>distance<br>elbow<br>amused
+bip_39_word_new_br2: potato<br>jump
+bip_39_word_new_br3: potato<br>jump<br>exercise
+bip_39_word_new_br4: potato<br>jump<br>exercise<br>adult
+bip_39_word_new_br5: potato<br>jump<br>exercise<br>adult<br>joy
+bip_39_word_new_br6: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon
+bip_39_word_new_br7: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal
+bip_39_word_new_br8: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog
+bip_39_word_new_br9: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock
+bip_39_word_new_line1: potato
+bip_39_word_new_line10: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog
+
+  clock
+
+  distance'
+bip_39_word_new_line11: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog
+
+  clock
+
+  distance
+
+  elbow'
+bip_39_word_new_line12: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog
+
+  clock
+
+  distance
+
+  elbow
+
+  amused'
+bip_39_word_new_line2: 'potato
+
+  jump'
+bip_39_word_new_line3: 'potato
+
+  jump
+
+  exercise'
+bip_39_word_new_line4: 'potato
+
+  jump
+
+  exercise
+
+  adult'
+bip_39_word_new_line5: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy'
+bip_39_word_new_line6: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon'
+bip_39_word_new_line7: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal'
+bip_39_word_new_line8: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog'
+bip_39_word_new_line9: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog
+
+  clock'
+bip_39_word_space_0:
+- potato
+- jump
+- exercise
+- adult
+- joy
+- abandon
+- crystal
+- dog
+- clock
+- distance
+- elbow
+- amused
+bip_39_word_space_1: potato
+bip_39_word_space_10: potato jump exercise adult joy abandon crystal dog clock distance
+bip_39_word_space_11: potato jump exercise adult joy abandon crystal dog clock distance
+  elbow
+bip_39_word_space_12: potato jump exercise adult joy abandon crystal dog clock distance
+  elbow amused
+bip_39_word_space_2: potato jump
+bip_39_word_space_3: potato jump exercise
+bip_39_word_space_4: potato jump exercise adult
+bip_39_word_space_5: potato jump exercise adult joy
+bip_39_word_space_6: potato jump exercise adult joy abandon
+bip_39_word_space_7: potato jump exercise adult joy abandon crystal
+bip_39_word_space_8: potato jump exercise adult joy abandon crystal dog
+bip_39_word_space_9: potato jump exercise adult joy abandon crystal dog clock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: simple account
+  * bip 39 word 3: simple account toddler
+  * bip 39 word: simple account toddler wisdom body dice reward potato near tennis inch alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | simple |  
+| bip_39_word_new_br10 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis |  
+| bip_39_word_new_br11 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis<br>inch |  
+| bip_39_word_new_br12 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near<br>tennis<br>inch<br>alcohol |  
+| bip_39_word_new_br2 | simple<br>account |  
+| bip_39_word_new_br3 | simple<br>account<br>toddler |  
+| bip_39_word_new_br4 | simple<br>account<br>toddler<br>wisdom |  
+| bip_39_word_new_br5 | simple<br>account<br>toddler<br>wisdom<br>body |  
+| bip_39_word_new_br6 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice |  
+| bip_39_word_new_br7 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward |  
+| bip_39_word_new_br8 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato |  
+| bip_39_word_new_br9 | simple<br>account<br>toddler<br>wisdom<br>body<br>dice<br>reward<br>potato<br>near |  
+| bip_39_word_new_line1 | simple |  
+| bip_39_word_new_line10 | simple
+account
+toddler
+wisdom
+body
+dice
+reward
+potato
+near
+tennis |  
+| bip_39_word_new_line11 | simple
+account
+toddler
+wisdom
+body
+dice
+reward
+potato
+near
+tennis
+inch |  
+| bip_39_word_new_line12 | simple
+account
+toddler
+wisdom
+body
+dice
+reward
+potato
+near
+tennis
+inch
+alcohol |  
+| bip_39_word_new_line2 | simple
+account |  
+| bip_39_word_new_line3 | simple
+account
+toddler |  
+| bip_39_word_new_line4 | simple
+account
+toddler
+wisdom |  
+| bip_39_word_new_line5 | simple
+account
+toddler
+wisdom
+body |  
+| bip_39_word_new_line6 | simple
+account
+toddler
+wisdom
+body
+dice |  
+| bip_39_word_new_line7 | simple
+account
+toddler
+wisdom
+body
+dice
+reward |  
+| bip_39_word_new_line8 | simple
+account
+toddler
+wisdom
+body
+dice
+reward
+potato |  
+| bip_39_word_new_line9 | simple
+account
+toddler
+wisdom
+body
+dice
+reward
+potato
+near |  
+| bip_39_word_space_0 | ['simple', 'account', 'toddler', 'wisdom', 'body', 'dice', 'reward', 'potato', 'near', 'tennis', 'inch', 'alcohol'] |  
+| bip_39_word_space_1 | simple |  
+| bip_39_word_space_10 | simple account toddler wisdom body dice reward potato near tennis |  
+| bip_39_word_space_11 | simple account toddler wisdom body dice reward potato near tennis inch |  
+| bip_39_word_space_12 | simple account toddler wisdom body dice reward potato near tennis inch alcohol |  
+| bip_39_word_space_2 | simple account |  
+| bip_39_word_space_3 | simple account toddler |  
+| bip_39_word_space_4 | simple account toddler wisdom |  
+| bip_39_word_space_5 | simple account toddler wisdom body |  
+| bip_39_word_space_6 | simple account toddler wisdom body dice |  
+| bip_39_word_space_7 | simple account toddler wisdom body dice reward |  
+| bip_39_word_space_8 | simple account toddler wisdom body dice reward potato |  
+| bip_39_word_space_9 | simple account toddler wisdom body dice reward potato near |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

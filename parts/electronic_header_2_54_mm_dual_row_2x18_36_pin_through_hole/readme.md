@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soon danger
+  * bip 39 word 3: soon danger aspect
+  * bip 39 word: soon danger aspect mom almost lecture shell north rose clog resist attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soon |  
+| bip_39_word_new_br10 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog |  
+| bip_39_word_new_br11 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog<br>resist |  
+| bip_39_word_new_br12 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose<br>clog<br>resist<br>attack |  
+| bip_39_word_new_br2 | soon<br>danger |  
+| bip_39_word_new_br3 | soon<br>danger<br>aspect |  
+| bip_39_word_new_br4 | soon<br>danger<br>aspect<br>mom |  
+| bip_39_word_new_br5 | soon<br>danger<br>aspect<br>mom<br>almost |  
+| bip_39_word_new_br6 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture |  
+| bip_39_word_new_br7 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell |  
+| bip_39_word_new_br8 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north |  
+| bip_39_word_new_br9 | soon<br>danger<br>aspect<br>mom<br>almost<br>lecture<br>shell<br>north<br>rose |  
+| bip_39_word_new_line1 | soon |  
+| bip_39_word_new_line10 | soon
+danger
+aspect
+mom
+almost
+lecture
+shell
+north
+rose
+clog |  
+| bip_39_word_new_line11 | soon
+danger
+aspect
+mom
+almost
+lecture
+shell
+north
+rose
+clog
+resist |  
+| bip_39_word_new_line12 | soon
+danger
+aspect
+mom
+almost
+lecture
+shell
+north
+rose
+clog
+resist
+attack |  
+| bip_39_word_new_line2 | soon
+danger |  
+| bip_39_word_new_line3 | soon
+danger
+aspect |  
+| bip_39_word_new_line4 | soon
+danger
+aspect
+mom |  
+| bip_39_word_new_line5 | soon
+danger
+aspect
+mom
+almost |  
+| bip_39_word_new_line6 | soon
+danger
+aspect
+mom
+almost
+lecture |  
+| bip_39_word_new_line7 | soon
+danger
+aspect
+mom
+almost
+lecture
+shell |  
+| bip_39_word_new_line8 | soon
+danger
+aspect
+mom
+almost
+lecture
+shell
+north |  
+| bip_39_word_new_line9 | soon
+danger
+aspect
+mom
+almost
+lecture
+shell
+north
+rose |  
+| bip_39_word_space_0 | ['soon', 'danger', 'aspect', 'mom', 'almost', 'lecture', 'shell', 'north', 'rose', 'clog', 'resist', 'attack'] |  
+| bip_39_word_space_1 | soon |  
+| bip_39_word_space_10 | soon danger aspect mom almost lecture shell north rose clog |  
+| bip_39_word_space_11 | soon danger aspect mom almost lecture shell north rose clog resist |  
+| bip_39_word_space_12 | soon danger aspect mom almost lecture shell north rose clog resist attack |  
+| bip_39_word_space_2 | soon danger |  
+| bip_39_word_space_3 | soon danger aspect |  
+| bip_39_word_space_4 | soon danger aspect mom |  
+| bip_39_word_space_5 | soon danger aspect mom almost |  
+| bip_39_word_space_6 | soon danger aspect mom almost lecture |  
+| bip_39_word_space_7 | soon danger aspect mom almost lecture shell |  
+| bip_39_word_space_8 | soon danger aspect mom almost lecture shell north |  
+| bip_39_word_space_9 | soon danger aspect mom almost lecture shell north rose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

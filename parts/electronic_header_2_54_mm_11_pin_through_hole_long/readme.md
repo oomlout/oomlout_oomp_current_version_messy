@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coral asthma
+  * bip 39 word 3: coral asthma either
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coral |  
+| bip_39_word_new_br10 | coral<br>asthma<br>either<br>reflect<br>analyst<br>world<br>tackle<br>upset<br>engage<br>brother |  
+| bip_39_word_new_br11 | coral<br>asthma<br>either<br>reflect<br>analyst<br>world<br>tackle<br>upset<br>engage<br>brother<br>penalty |  
+| bip_39_word_new_br2 | coral<br>asthma |  
+| bip_39_word_new_br3 | coral<br>asthma<br>either |  
+| bip_39_word_new_br4 | coral<br>asthma<br>either<br>reflect |  
+| bip_39_word_new_br5 | coral<br>asthma<br>either<br>reflect<br>analyst |  
+| bip_39_word_new_br6 | coral<br>asthma<br>either<br>reflect<br>analyst<br>world |  
+| bip_39_word_new_br7 | coral<br>asthma<br>either<br>reflect<br>analyst<br>world<br>tackle |  
+| bip_39_word_new_br8 | coral<br>asthma<br>either<br>reflect<br>analyst<br>world<br>tackle<br>upset |  
+| bip_39_word_new_br9 | coral<br>asthma<br>either<br>reflect<br>analyst<br>world<br>tackle<br>upset<br>engage |  
+| bip_39_word_new_line1 | coral |  
+| bip_39_word_new_line10 | coral
+asthma
+either
+reflect
+analyst
+world
+tackle
+upset
+engage
+brother |  
+| bip_39_word_new_line11 | coral
+asthma
+either
+reflect
+analyst
+world
+tackle
+upset
+engage
+brother
+penalty |  
+| bip_39_word_new_line2 | coral
+asthma |  
+| bip_39_word_new_line3 | coral
+asthma
+either |  
+| bip_39_word_new_line4 | coral
+asthma
+either
+reflect |  
+| bip_39_word_new_line5 | coral
+asthma
+either
+reflect
+analyst |  
+| bip_39_word_new_line6 | coral
+asthma
+either
+reflect
+analyst
+world |  
+| bip_39_word_new_line7 | coral
+asthma
+either
+reflect
+analyst
+world
+tackle |  
+| bip_39_word_new_line8 | coral
+asthma
+either
+reflect
+analyst
+world
+tackle
+upset |  
+| bip_39_word_new_line9 | coral
+asthma
+either
+reflect
+analyst
+world
+tackle
+upset
+engage |  
+| bip_39_word_space_0 | ['coral', 'asthma', 'either', 'reflect', 'analyst', 'world', 'tackle', 'upset', 'engage', 'brother', 'penalty'] |  
+| bip_39_word_space_1 | coral |  
+| bip_39_word_space_10 | coral asthma either reflect analyst world tackle upset engage brother |  
+| bip_39_word_space_11 | coral asthma either reflect analyst world tackle upset engage brother penalty |  
+| bip_39_word_space_2 | coral asthma |  
+| bip_39_word_space_3 | coral asthma either |  
+| bip_39_word_space_4 | coral asthma either reflect |  
+| bip_39_word_space_5 | coral asthma either reflect analyst |  
+| bip_39_word_space_6 | coral asthma either reflect analyst world |  
+| bip_39_word_space_7 | coral asthma either reflect analyst world tackle |  
+| bip_39_word_space_8 | coral asthma either reflect analyst world tackle upset |  
+| bip_39_word_space_9 | coral asthma either reflect analyst world tackle upset engage |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

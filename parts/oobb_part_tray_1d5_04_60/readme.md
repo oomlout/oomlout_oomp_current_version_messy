@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: century corn
+  * bip 39 word 3: century corn symbol
+  * bip 39 word: century corn symbol process retire real employ grass vicious stick motor attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | century |  
+| bip_39_word_new_br10 | century<br>corn<br>symbol<br>process<br>retire<br>real<br>employ<br>grass<br>vicious<br>stick |  
+| bip_39_word_new_br11 | century<br>corn<br>symbol<br>process<br>retire<br>real<br>employ<br>grass<br>vicious<br>stick<br>motor |  
+| bip_39_word_new_br12 | century<br>corn<br>symbol<br>process<br>retire<br>real<br>employ<br>grass<br>vicious<br>stick<br>motor<br>attack |  
+| bip_39_word_new_br2 | century<br>corn |  
+| bip_39_word_new_br3 | century<br>corn<br>symbol |  
+| bip_39_word_new_br4 | century<br>corn<br>symbol<br>process |  
+| bip_39_word_new_br5 | century<br>corn<br>symbol<br>process<br>retire |  
+| bip_39_word_new_br6 | century<br>corn<br>symbol<br>process<br>retire<br>real |  
+| bip_39_word_new_br7 | century<br>corn<br>symbol<br>process<br>retire<br>real<br>employ |  
+| bip_39_word_new_br8 | century<br>corn<br>symbol<br>process<br>retire<br>real<br>employ<br>grass |  
+| bip_39_word_new_br9 | century<br>corn<br>symbol<br>process<br>retire<br>real<br>employ<br>grass<br>vicious |  
+| bip_39_word_new_line1 | century |  
+| bip_39_word_new_line10 | century
+corn
+symbol
+process
+retire
+real
+employ
+grass
+vicious
+stick |  
+| bip_39_word_new_line11 | century
+corn
+symbol
+process
+retire
+real
+employ
+grass
+vicious
+stick
+motor |  
+| bip_39_word_new_line12 | century
+corn
+symbol
+process
+retire
+real
+employ
+grass
+vicious
+stick
+motor
+attack |  
+| bip_39_word_new_line2 | century
+corn |  
+| bip_39_word_new_line3 | century
+corn
+symbol |  
+| bip_39_word_new_line4 | century
+corn
+symbol
+process |  
+| bip_39_word_new_line5 | century
+corn
+symbol
+process
+retire |  
+| bip_39_word_new_line6 | century
+corn
+symbol
+process
+retire
+real |  
+| bip_39_word_new_line7 | century
+corn
+symbol
+process
+retire
+real
+employ |  
+| bip_39_word_new_line8 | century
+corn
+symbol
+process
+retire
+real
+employ
+grass |  
+| bip_39_word_new_line9 | century
+corn
+symbol
+process
+retire
+real
+employ
+grass
+vicious |  
+| bip_39_word_space_0 | ['century', 'corn', 'symbol', 'process', 'retire', 'real', 'employ', 'grass', 'vicious', 'stick', 'motor', 'attack'] |  
+| bip_39_word_space_1 | century |  
+| bip_39_word_space_10 | century corn symbol process retire real employ grass vicious stick |  
+| bip_39_word_space_11 | century corn symbol process retire real employ grass vicious stick motor |  
+| bip_39_word_space_12 | century corn symbol process retire real employ grass vicious stick motor attack |  
+| bip_39_word_space_2 | century corn |  
+| bip_39_word_space_3 | century corn symbol |  
+| bip_39_word_space_4 | century corn symbol process |  
+| bip_39_word_space_5 | century corn symbol process retire |  
+| bip_39_word_space_6 | century corn symbol process retire real |  
+| bip_39_word_space_7 | century corn symbol process retire real employ |  
+| bip_39_word_space_8 | century corn symbol process retire real employ grass |  
+| bip_39_word_space_9 | century corn symbol process retire real employ grass vicious |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

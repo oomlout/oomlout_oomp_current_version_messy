@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: food stove
+  * bip 39 word 3: food stove worry
+  * bip 39 word: food stove worry web globe canyon combine salmon length angle clean act
 
 ### other_codes
 * short_code: br5310
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | food |  
+| bip_39_word_new_br10 | food<br>stove<br>worry<br>web<br>globe<br>canyon<br>combine<br>salmon<br>length<br>angle |  
+| bip_39_word_new_br11 | food<br>stove<br>worry<br>web<br>globe<br>canyon<br>combine<br>salmon<br>length<br>angle<br>clean |  
+| bip_39_word_new_br12 | food<br>stove<br>worry<br>web<br>globe<br>canyon<br>combine<br>salmon<br>length<br>angle<br>clean<br>act |  
+| bip_39_word_new_br2 | food<br>stove |  
+| bip_39_word_new_br3 | food<br>stove<br>worry |  
+| bip_39_word_new_br4 | food<br>stove<br>worry<br>web |  
+| bip_39_word_new_br5 | food<br>stove<br>worry<br>web<br>globe |  
+| bip_39_word_new_br6 | food<br>stove<br>worry<br>web<br>globe<br>canyon |  
+| bip_39_word_new_br7 | food<br>stove<br>worry<br>web<br>globe<br>canyon<br>combine |  
+| bip_39_word_new_br8 | food<br>stove<br>worry<br>web<br>globe<br>canyon<br>combine<br>salmon |  
+| bip_39_word_new_br9 | food<br>stove<br>worry<br>web<br>globe<br>canyon<br>combine<br>salmon<br>length |  
+| bip_39_word_new_line1 | food |  
+| bip_39_word_new_line10 | food
+stove
+worry
+web
+globe
+canyon
+combine
+salmon
+length
+angle |  
+| bip_39_word_new_line11 | food
+stove
+worry
+web
+globe
+canyon
+combine
+salmon
+length
+angle
+clean |  
+| bip_39_word_new_line12 | food
+stove
+worry
+web
+globe
+canyon
+combine
+salmon
+length
+angle
+clean
+act |  
+| bip_39_word_new_line2 | food
+stove |  
+| bip_39_word_new_line3 | food
+stove
+worry |  
+| bip_39_word_new_line4 | food
+stove
+worry
+web |  
+| bip_39_word_new_line5 | food
+stove
+worry
+web
+globe |  
+| bip_39_word_new_line6 | food
+stove
+worry
+web
+globe
+canyon |  
+| bip_39_word_new_line7 | food
+stove
+worry
+web
+globe
+canyon
+combine |  
+| bip_39_word_new_line8 | food
+stove
+worry
+web
+globe
+canyon
+combine
+salmon |  
+| bip_39_word_new_line9 | food
+stove
+worry
+web
+globe
+canyon
+combine
+salmon
+length |  
+| bip_39_word_space_0 | ['food', 'stove', 'worry', 'web', 'globe', 'canyon', 'combine', 'salmon', 'length', 'angle', 'clean', 'act'] |  
+| bip_39_word_space_1 | food |  
+| bip_39_word_space_10 | food stove worry web globe canyon combine salmon length angle |  
+| bip_39_word_space_11 | food stove worry web globe canyon combine salmon length angle clean |  
+| bip_39_word_space_12 | food stove worry web globe canyon combine salmon length angle clean act |  
+| bip_39_word_space_2 | food stove |  
+| bip_39_word_space_3 | food stove worry |  
+| bip_39_word_space_4 | food stove worry web |  
+| bip_39_word_space_5 | food stove worry web globe |  
+| bip_39_word_space_6 | food stove worry web globe canyon |  
+| bip_39_word_space_7 | food stove worry web globe canyon combine |  
+| bip_39_word_space_8 | food stove worry web globe canyon combine salmon |  
+| bip_39_word_space_9 | food stove worry web globe canyon combine salmon length |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

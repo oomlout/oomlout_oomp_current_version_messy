@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gun detail
+  * bip 39 word 3: gun detail clock
+  * bip 39 word: gun detail clock dash walk damage surge link stairs tilt between aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gun |  
+| bip_39_word_new_br10 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt |  
+| bip_39_word_new_br11 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt<br>between |  
+| bip_39_word_new_br12 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs<br>tilt<br>between<br>aerobic |  
+| bip_39_word_new_br2 | gun<br>detail |  
+| bip_39_word_new_br3 | gun<br>detail<br>clock |  
+| bip_39_word_new_br4 | gun<br>detail<br>clock<br>dash |  
+| bip_39_word_new_br5 | gun<br>detail<br>clock<br>dash<br>walk |  
+| bip_39_word_new_br6 | gun<br>detail<br>clock<br>dash<br>walk<br>damage |  
+| bip_39_word_new_br7 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge |  
+| bip_39_word_new_br8 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link |  
+| bip_39_word_new_br9 | gun<br>detail<br>clock<br>dash<br>walk<br>damage<br>surge<br>link<br>stairs |  
+| bip_39_word_new_line1 | gun |  
+| bip_39_word_new_line10 | gun
+detail
+clock
+dash
+walk
+damage
+surge
+link
+stairs
+tilt |  
+| bip_39_word_new_line11 | gun
+detail
+clock
+dash
+walk
+damage
+surge
+link
+stairs
+tilt
+between |  
+| bip_39_word_new_line12 | gun
+detail
+clock
+dash
+walk
+damage
+surge
+link
+stairs
+tilt
+between
+aerobic |  
+| bip_39_word_new_line2 | gun
+detail |  
+| bip_39_word_new_line3 | gun
+detail
+clock |  
+| bip_39_word_new_line4 | gun
+detail
+clock
+dash |  
+| bip_39_word_new_line5 | gun
+detail
+clock
+dash
+walk |  
+| bip_39_word_new_line6 | gun
+detail
+clock
+dash
+walk
+damage |  
+| bip_39_word_new_line7 | gun
+detail
+clock
+dash
+walk
+damage
+surge |  
+| bip_39_word_new_line8 | gun
+detail
+clock
+dash
+walk
+damage
+surge
+link |  
+| bip_39_word_new_line9 | gun
+detail
+clock
+dash
+walk
+damage
+surge
+link
+stairs |  
+| bip_39_word_space_0 | ['gun', 'detail', 'clock', 'dash', 'walk', 'damage', 'surge', 'link', 'stairs', 'tilt', 'between', 'aerobic'] |  
+| bip_39_word_space_1 | gun |  
+| bip_39_word_space_10 | gun detail clock dash walk damage surge link stairs tilt |  
+| bip_39_word_space_11 | gun detail clock dash walk damage surge link stairs tilt between |  
+| bip_39_word_space_12 | gun detail clock dash walk damage surge link stairs tilt between aerobic |  
+| bip_39_word_space_2 | gun detail |  
+| bip_39_word_space_3 | gun detail clock |  
+| bip_39_word_space_4 | gun detail clock dash |  
+| bip_39_word_space_5 | gun detail clock dash walk |  
+| bip_39_word_space_6 | gun detail clock dash walk damage |  
+| bip_39_word_space_7 | gun detail clock dash walk damage surge |  
+| bip_39_word_space_8 | gun detail clock dash walk damage surge link |  
+| bip_39_word_space_9 | gun detail clock dash walk damage surge link stairs |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

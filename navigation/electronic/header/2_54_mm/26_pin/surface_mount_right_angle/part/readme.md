@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: check knock
+  * bip 39 word 3: check knock october
+  * bip 39 word: check knock october upon roof road uncle gold sample fiscal honey ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | check |  
+| bip_39_word_new_br10 | check<br>knock<br>october<br>upon<br>roof<br>road<br>uncle<br>gold<br>sample<br>fiscal |  
+| bip_39_word_new_br11 | check<br>knock<br>october<br>upon<br>roof<br>road<br>uncle<br>gold<br>sample<br>fiscal<br>honey |  
+| bip_39_word_new_br12 | check<br>knock<br>october<br>upon<br>roof<br>road<br>uncle<br>gold<br>sample<br>fiscal<br>honey<br>ability |  
+| bip_39_word_new_br2 | check<br>knock |  
+| bip_39_word_new_br3 | check<br>knock<br>october |  
+| bip_39_word_new_br4 | check<br>knock<br>october<br>upon |  
+| bip_39_word_new_br5 | check<br>knock<br>october<br>upon<br>roof |  
+| bip_39_word_new_br6 | check<br>knock<br>october<br>upon<br>roof<br>road |  
+| bip_39_word_new_br7 | check<br>knock<br>october<br>upon<br>roof<br>road<br>uncle |  
+| bip_39_word_new_br8 | check<br>knock<br>october<br>upon<br>roof<br>road<br>uncle<br>gold |  
+| bip_39_word_new_br9 | check<br>knock<br>october<br>upon<br>roof<br>road<br>uncle<br>gold<br>sample |  
+| bip_39_word_new_line1 | check |  
+| bip_39_word_new_line10 | check
+knock
+october
+upon
+roof
+road
+uncle
+gold
+sample
+fiscal |  
+| bip_39_word_new_line11 | check
+knock
+october
+upon
+roof
+road
+uncle
+gold
+sample
+fiscal
+honey |  
+| bip_39_word_new_line12 | check
+knock
+october
+upon
+roof
+road
+uncle
+gold
+sample
+fiscal
+honey
+ability |  
+| bip_39_word_new_line2 | check
+knock |  
+| bip_39_word_new_line3 | check
+knock
+october |  
+| bip_39_word_new_line4 | check
+knock
+october
+upon |  
+| bip_39_word_new_line5 | check
+knock
+october
+upon
+roof |  
+| bip_39_word_new_line6 | check
+knock
+october
+upon
+roof
+road |  
+| bip_39_word_new_line7 | check
+knock
+october
+upon
+roof
+road
+uncle |  
+| bip_39_word_new_line8 | check
+knock
+october
+upon
+roof
+road
+uncle
+gold |  
+| bip_39_word_new_line9 | check
+knock
+october
+upon
+roof
+road
+uncle
+gold
+sample |  
+| bip_39_word_space_0 | ['check', 'knock', 'october', 'upon', 'roof', 'road', 'uncle', 'gold', 'sample', 'fiscal', 'honey', 'ability'] |  
+| bip_39_word_space_1 | check |  
+| bip_39_word_space_10 | check knock october upon roof road uncle gold sample fiscal |  
+| bip_39_word_space_11 | check knock october upon roof road uncle gold sample fiscal honey |  
+| bip_39_word_space_12 | check knock october upon roof road uncle gold sample fiscal honey ability |  
+| bip_39_word_space_2 | check knock |  
+| bip_39_word_space_3 | check knock october |  
+| bip_39_word_space_4 | check knock october upon |  
+| bip_39_word_space_5 | check knock october upon roof |  
+| bip_39_word_space_6 | check knock october upon roof road |  
+| bip_39_word_space_7 | check knock october upon roof road uncle |  
+| bip_39_word_space_8 | check knock october upon roof road uncle gold |  
+| bip_39_word_space_9 | check knock october upon roof road uncle gold sample |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

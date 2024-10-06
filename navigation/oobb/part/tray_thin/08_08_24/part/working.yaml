@@ -1,3 +1,187 @@
+bip_39_word_new_br1: habit
+bip_39_word_new_br10: habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define
+bip_39_word_new_br11: habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define<br>sting
+bip_39_word_new_br12: habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge<br>define<br>sting<br>assume
+bip_39_word_new_br2: habit<br>immense
+bip_39_word_new_br3: habit<br>immense<br>space
+bip_39_word_new_br4: habit<br>immense<br>space<br>century
+bip_39_word_new_br5: habit<br>immense<br>space<br>century<br>develop
+bip_39_word_new_br6: habit<br>immense<br>space<br>century<br>develop<br>kit
+bip_39_word_new_br7: habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel
+bip_39_word_new_br8: habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant
+bip_39_word_new_br9: habit<br>immense<br>space<br>century<br>develop<br>kit<br>squirrel<br>vibrant<br>charge
+bip_39_word_new_line1: habit
+bip_39_word_new_line10: 'habit
+
+  immense
+
+  space
+
+  century
+
+  develop
+
+  kit
+
+  squirrel
+
+  vibrant
+
+  charge
+
+  define'
+bip_39_word_new_line11: 'habit
+
+  immense
+
+  space
+
+  century
+
+  develop
+
+  kit
+
+  squirrel
+
+  vibrant
+
+  charge
+
+  define
+
+  sting'
+bip_39_word_new_line12: 'habit
+
+  immense
+
+  space
+
+  century
+
+  develop
+
+  kit
+
+  squirrel
+
+  vibrant
+
+  charge
+
+  define
+
+  sting
+
+  assume'
+bip_39_word_new_line2: 'habit
+
+  immense'
+bip_39_word_new_line3: 'habit
+
+  immense
+
+  space'
+bip_39_word_new_line4: 'habit
+
+  immense
+
+  space
+
+  century'
+bip_39_word_new_line5: 'habit
+
+  immense
+
+  space
+
+  century
+
+  develop'
+bip_39_word_new_line6: 'habit
+
+  immense
+
+  space
+
+  century
+
+  develop
+
+  kit'
+bip_39_word_new_line7: 'habit
+
+  immense
+
+  space
+
+  century
+
+  develop
+
+  kit
+
+  squirrel'
+bip_39_word_new_line8: 'habit
+
+  immense
+
+  space
+
+  century
+
+  develop
+
+  kit
+
+  squirrel
+
+  vibrant'
+bip_39_word_new_line9: 'habit
+
+  immense
+
+  space
+
+  century
+
+  develop
+
+  kit
+
+  squirrel
+
+  vibrant
+
+  charge'
+bip_39_word_space_0:
+- habit
+- immense
+- space
+- century
+- develop
+- kit
+- squirrel
+- vibrant
+- charge
+- define
+- sting
+- assume
+bip_39_word_space_1: habit
+bip_39_word_space_10: habit immense space century develop kit squirrel vibrant charge
+  define
+bip_39_word_space_11: habit immense space century develop kit squirrel vibrant charge
+  define sting
+bip_39_word_space_12: habit immense space century develop kit squirrel vibrant charge
+  define sting assume
+bip_39_word_space_2: habit immense
+bip_39_word_space_3: habit immense space
+bip_39_word_space_4: habit immense space century
+bip_39_word_space_5: habit immense space century develop
+bip_39_word_space_6: habit immense space century develop kit
+bip_39_word_space_7: habit immense space century develop kit squirrel
+bip_39_word_space_8: habit immense space century develop kit squirrel vibrant
+bip_39_word_space_9: habit immense space century develop kit squirrel vibrant charge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

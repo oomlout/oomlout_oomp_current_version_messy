@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: citizen novel
+  * bip 39 word 3: citizen novel glide
+  * bip 39 word: citizen novel glide hollow system denial bubble boost rural protect system adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | citizen |  
+| bip_39_word_new_br10 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect |  
+| bip_39_word_new_br11 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect<br>system |  
+| bip_39_word_new_br12 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural<br>protect<br>system<br>adapt |  
+| bip_39_word_new_br2 | citizen<br>novel |  
+| bip_39_word_new_br3 | citizen<br>novel<br>glide |  
+| bip_39_word_new_br4 | citizen<br>novel<br>glide<br>hollow |  
+| bip_39_word_new_br5 | citizen<br>novel<br>glide<br>hollow<br>system |  
+| bip_39_word_new_br6 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial |  
+| bip_39_word_new_br7 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble |  
+| bip_39_word_new_br8 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost |  
+| bip_39_word_new_br9 | citizen<br>novel<br>glide<br>hollow<br>system<br>denial<br>bubble<br>boost<br>rural |  
+| bip_39_word_new_line1 | citizen |  
+| bip_39_word_new_line10 | citizen
+novel
+glide
+hollow
+system
+denial
+bubble
+boost
+rural
+protect |  
+| bip_39_word_new_line11 | citizen
+novel
+glide
+hollow
+system
+denial
+bubble
+boost
+rural
+protect
+system |  
+| bip_39_word_new_line12 | citizen
+novel
+glide
+hollow
+system
+denial
+bubble
+boost
+rural
+protect
+system
+adapt |  
+| bip_39_word_new_line2 | citizen
+novel |  
+| bip_39_word_new_line3 | citizen
+novel
+glide |  
+| bip_39_word_new_line4 | citizen
+novel
+glide
+hollow |  
+| bip_39_word_new_line5 | citizen
+novel
+glide
+hollow
+system |  
+| bip_39_word_new_line6 | citizen
+novel
+glide
+hollow
+system
+denial |  
+| bip_39_word_new_line7 | citizen
+novel
+glide
+hollow
+system
+denial
+bubble |  
+| bip_39_word_new_line8 | citizen
+novel
+glide
+hollow
+system
+denial
+bubble
+boost |  
+| bip_39_word_new_line9 | citizen
+novel
+glide
+hollow
+system
+denial
+bubble
+boost
+rural |  
+| bip_39_word_space_0 | ['citizen', 'novel', 'glide', 'hollow', 'system', 'denial', 'bubble', 'boost', 'rural', 'protect', 'system', 'adapt'] |  
+| bip_39_word_space_1 | citizen |  
+| bip_39_word_space_10 | citizen novel glide hollow system denial bubble boost rural protect |  
+| bip_39_word_space_11 | citizen novel glide hollow system denial bubble boost rural protect system |  
+| bip_39_word_space_12 | citizen novel glide hollow system denial bubble boost rural protect system adapt |  
+| bip_39_word_space_2 | citizen novel |  
+| bip_39_word_space_3 | citizen novel glide |  
+| bip_39_word_space_4 | citizen novel glide hollow |  
+| bip_39_word_space_5 | citizen novel glide hollow system |  
+| bip_39_word_space_6 | citizen novel glide hollow system denial |  
+| bip_39_word_space_7 | citizen novel glide hollow system denial bubble |  
+| bip_39_word_space_8 | citizen novel glide hollow system denial bubble boost |  
+| bip_39_word_space_9 | citizen novel glide hollow system denial bubble boost rural |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

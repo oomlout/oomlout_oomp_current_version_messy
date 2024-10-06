@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clever love
+  * bip 39 word 3: clever love develop
+  * bip 39 word: clever love develop bargain april arrow acoustic limit keen extra gaze afford
 
 ### other_codes
 * short_code: br6830
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clever |  
+| bip_39_word_new_br10 | clever<br>love<br>develop<br>bargain<br>april<br>arrow<br>acoustic<br>limit<br>keen<br>extra |  
+| bip_39_word_new_br11 | clever<br>love<br>develop<br>bargain<br>april<br>arrow<br>acoustic<br>limit<br>keen<br>extra<br>gaze |  
+| bip_39_word_new_br12 | clever<br>love<br>develop<br>bargain<br>april<br>arrow<br>acoustic<br>limit<br>keen<br>extra<br>gaze<br>afford |  
+| bip_39_word_new_br2 | clever<br>love |  
+| bip_39_word_new_br3 | clever<br>love<br>develop |  
+| bip_39_word_new_br4 | clever<br>love<br>develop<br>bargain |  
+| bip_39_word_new_br5 | clever<br>love<br>develop<br>bargain<br>april |  
+| bip_39_word_new_br6 | clever<br>love<br>develop<br>bargain<br>april<br>arrow |  
+| bip_39_word_new_br7 | clever<br>love<br>develop<br>bargain<br>april<br>arrow<br>acoustic |  
+| bip_39_word_new_br8 | clever<br>love<br>develop<br>bargain<br>april<br>arrow<br>acoustic<br>limit |  
+| bip_39_word_new_br9 | clever<br>love<br>develop<br>bargain<br>april<br>arrow<br>acoustic<br>limit<br>keen |  
+| bip_39_word_new_line1 | clever |  
+| bip_39_word_new_line10 | clever
+love
+develop
+bargain
+april
+arrow
+acoustic
+limit
+keen
+extra |  
+| bip_39_word_new_line11 | clever
+love
+develop
+bargain
+april
+arrow
+acoustic
+limit
+keen
+extra
+gaze |  
+| bip_39_word_new_line12 | clever
+love
+develop
+bargain
+april
+arrow
+acoustic
+limit
+keen
+extra
+gaze
+afford |  
+| bip_39_word_new_line2 | clever
+love |  
+| bip_39_word_new_line3 | clever
+love
+develop |  
+| bip_39_word_new_line4 | clever
+love
+develop
+bargain |  
+| bip_39_word_new_line5 | clever
+love
+develop
+bargain
+april |  
+| bip_39_word_new_line6 | clever
+love
+develop
+bargain
+april
+arrow |  
+| bip_39_word_new_line7 | clever
+love
+develop
+bargain
+april
+arrow
+acoustic |  
+| bip_39_word_new_line8 | clever
+love
+develop
+bargain
+april
+arrow
+acoustic
+limit |  
+| bip_39_word_new_line9 | clever
+love
+develop
+bargain
+april
+arrow
+acoustic
+limit
+keen |  
+| bip_39_word_space_0 | ['clever', 'love', 'develop', 'bargain', 'april', 'arrow', 'acoustic', 'limit', 'keen', 'extra', 'gaze', 'afford'] |  
+| bip_39_word_space_1 | clever |  
+| bip_39_word_space_10 | clever love develop bargain april arrow acoustic limit keen extra |  
+| bip_39_word_space_11 | clever love develop bargain april arrow acoustic limit keen extra gaze |  
+| bip_39_word_space_12 | clever love develop bargain april arrow acoustic limit keen extra gaze afford |  
+| bip_39_word_space_2 | clever love |  
+| bip_39_word_space_3 | clever love develop |  
+| bip_39_word_space_4 | clever love develop bargain |  
+| bip_39_word_space_5 | clever love develop bargain april |  
+| bip_39_word_space_6 | clever love develop bargain april arrow |  
+| bip_39_word_space_7 | clever love develop bargain april arrow acoustic |  
+| bip_39_word_space_8 | clever love develop bargain april arrow acoustic limit |  
+| bip_39_word_space_9 | clever love develop bargain april arrow acoustic limit keen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

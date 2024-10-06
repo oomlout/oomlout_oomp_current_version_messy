@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: identify cliff
+  * bip 39 word 3: identify cliff teach
+  * bip 39 word: identify cliff teach reduce arrange assist photo figure race love choice abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | identify |  
+| bip_39_word_new_br10 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love |  
+| bip_39_word_new_br11 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love<br>choice |  
+| bip_39_word_new_br12 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race<br>love<br>choice<br>abuse |  
+| bip_39_word_new_br2 | identify<br>cliff |  
+| bip_39_word_new_br3 | identify<br>cliff<br>teach |  
+| bip_39_word_new_br4 | identify<br>cliff<br>teach<br>reduce |  
+| bip_39_word_new_br5 | identify<br>cliff<br>teach<br>reduce<br>arrange |  
+| bip_39_word_new_br6 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist |  
+| bip_39_word_new_br7 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo |  
+| bip_39_word_new_br8 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure |  
+| bip_39_word_new_br9 | identify<br>cliff<br>teach<br>reduce<br>arrange<br>assist<br>photo<br>figure<br>race |  
+| bip_39_word_new_line1 | identify |  
+| bip_39_word_new_line10 | identify
+cliff
+teach
+reduce
+arrange
+assist
+photo
+figure
+race
+love |  
+| bip_39_word_new_line11 | identify
+cliff
+teach
+reduce
+arrange
+assist
+photo
+figure
+race
+love
+choice |  
+| bip_39_word_new_line12 | identify
+cliff
+teach
+reduce
+arrange
+assist
+photo
+figure
+race
+love
+choice
+abuse |  
+| bip_39_word_new_line2 | identify
+cliff |  
+| bip_39_word_new_line3 | identify
+cliff
+teach |  
+| bip_39_word_new_line4 | identify
+cliff
+teach
+reduce |  
+| bip_39_word_new_line5 | identify
+cliff
+teach
+reduce
+arrange |  
+| bip_39_word_new_line6 | identify
+cliff
+teach
+reduce
+arrange
+assist |  
+| bip_39_word_new_line7 | identify
+cliff
+teach
+reduce
+arrange
+assist
+photo |  
+| bip_39_word_new_line8 | identify
+cliff
+teach
+reduce
+arrange
+assist
+photo
+figure |  
+| bip_39_word_new_line9 | identify
+cliff
+teach
+reduce
+arrange
+assist
+photo
+figure
+race |  
+| bip_39_word_space_0 | ['identify', 'cliff', 'teach', 'reduce', 'arrange', 'assist', 'photo', 'figure', 'race', 'love', 'choice', 'abuse'] |  
+| bip_39_word_space_1 | identify |  
+| bip_39_word_space_10 | identify cliff teach reduce arrange assist photo figure race love |  
+| bip_39_word_space_11 | identify cliff teach reduce arrange assist photo figure race love choice |  
+| bip_39_word_space_12 | identify cliff teach reduce arrange assist photo figure race love choice abuse |  
+| bip_39_word_space_2 | identify cliff |  
+| bip_39_word_space_3 | identify cliff teach |  
+| bip_39_word_space_4 | identify cliff teach reduce |  
+| bip_39_word_space_5 | identify cliff teach reduce arrange |  
+| bip_39_word_space_6 | identify cliff teach reduce arrange assist |  
+| bip_39_word_space_7 | identify cliff teach reduce arrange assist photo |  
+| bip_39_word_space_8 | identify cliff teach reduce arrange assist photo figure |  
+| bip_39_word_space_9 | identify cliff teach reduce arrange assist photo figure race |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

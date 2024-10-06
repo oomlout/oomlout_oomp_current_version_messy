@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: layer recall
+  * bip 39 word 3: layer recall afraid
+  * bip 39 word: layer recall afraid dinosaur fee twelve swamp rule drift pulp west already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | layer |  
+| bip_39_word_new_br10 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve<br>swamp<br>rule<br>drift<br>pulp |  
+| bip_39_word_new_br11 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve<br>swamp<br>rule<br>drift<br>pulp<br>west |  
+| bip_39_word_new_br12 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve<br>swamp<br>rule<br>drift<br>pulp<br>west<br>already |  
+| bip_39_word_new_br2 | layer<br>recall |  
+| bip_39_word_new_br3 | layer<br>recall<br>afraid |  
+| bip_39_word_new_br4 | layer<br>recall<br>afraid<br>dinosaur |  
+| bip_39_word_new_br5 | layer<br>recall<br>afraid<br>dinosaur<br>fee |  
+| bip_39_word_new_br6 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve |  
+| bip_39_word_new_br7 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve<br>swamp |  
+| bip_39_word_new_br8 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve<br>swamp<br>rule |  
+| bip_39_word_new_br9 | layer<br>recall<br>afraid<br>dinosaur<br>fee<br>twelve<br>swamp<br>rule<br>drift |  
+| bip_39_word_new_line1 | layer |  
+| bip_39_word_new_line10 | layer
+recall
+afraid
+dinosaur
+fee
+twelve
+swamp
+rule
+drift
+pulp |  
+| bip_39_word_new_line11 | layer
+recall
+afraid
+dinosaur
+fee
+twelve
+swamp
+rule
+drift
+pulp
+west |  
+| bip_39_word_new_line12 | layer
+recall
+afraid
+dinosaur
+fee
+twelve
+swamp
+rule
+drift
+pulp
+west
+already |  
+| bip_39_word_new_line2 | layer
+recall |  
+| bip_39_word_new_line3 | layer
+recall
+afraid |  
+| bip_39_word_new_line4 | layer
+recall
+afraid
+dinosaur |  
+| bip_39_word_new_line5 | layer
+recall
+afraid
+dinosaur
+fee |  
+| bip_39_word_new_line6 | layer
+recall
+afraid
+dinosaur
+fee
+twelve |  
+| bip_39_word_new_line7 | layer
+recall
+afraid
+dinosaur
+fee
+twelve
+swamp |  
+| bip_39_word_new_line8 | layer
+recall
+afraid
+dinosaur
+fee
+twelve
+swamp
+rule |  
+| bip_39_word_new_line9 | layer
+recall
+afraid
+dinosaur
+fee
+twelve
+swamp
+rule
+drift |  
+| bip_39_word_space_0 | ['layer', 'recall', 'afraid', 'dinosaur', 'fee', 'twelve', 'swamp', 'rule', 'drift', 'pulp', 'west', 'already'] |  
+| bip_39_word_space_1 | layer |  
+| bip_39_word_space_10 | layer recall afraid dinosaur fee twelve swamp rule drift pulp |  
+| bip_39_word_space_11 | layer recall afraid dinosaur fee twelve swamp rule drift pulp west |  
+| bip_39_word_space_12 | layer recall afraid dinosaur fee twelve swamp rule drift pulp west already |  
+| bip_39_word_space_2 | layer recall |  
+| bip_39_word_space_3 | layer recall afraid |  
+| bip_39_word_space_4 | layer recall afraid dinosaur |  
+| bip_39_word_space_5 | layer recall afraid dinosaur fee |  
+| bip_39_word_space_6 | layer recall afraid dinosaur fee twelve |  
+| bip_39_word_space_7 | layer recall afraid dinosaur fee twelve swamp |  
+| bip_39_word_space_8 | layer recall afraid dinosaur fee twelve swamp rule |  
+| bip_39_word_space_9 | layer recall afraid dinosaur fee twelve swamp rule drift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: symptom coyote
+  * bip 39 word 3: symptom coyote pencil
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | symptom |  
+| bip_39_word_new_br10 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject<br>cable |  
+| bip_39_word_new_br11 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject<br>cable<br>phrase |  
+| bip_39_word_new_br2 | symptom<br>coyote |  
+| bip_39_word_new_br3 | symptom<br>coyote<br>pencil |  
+| bip_39_word_new_br4 | symptom<br>coyote<br>pencil<br>seminar |  
+| bip_39_word_new_br5 | symptom<br>coyote<br>pencil<br>seminar<br>tiny |  
+| bip_39_word_new_br6 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move |  
+| bip_39_word_new_br7 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis |  
+| bip_39_word_new_br8 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add |  
+| bip_39_word_new_br9 | symptom<br>coyote<br>pencil<br>seminar<br>tiny<br>move<br>axis<br>add<br>subject |  
+| bip_39_word_new_line1 | symptom |  
+| bip_39_word_new_line10 | symptom
+coyote
+pencil
+seminar
+tiny
+move
+axis
+add
+subject
+cable |  
+| bip_39_word_new_line11 | symptom
+coyote
+pencil
+seminar
+tiny
+move
+axis
+add
+subject
+cable
+phrase |  
+| bip_39_word_new_line2 | symptom
+coyote |  
+| bip_39_word_new_line3 | symptom
+coyote
+pencil |  
+| bip_39_word_new_line4 | symptom
+coyote
+pencil
+seminar |  
+| bip_39_word_new_line5 | symptom
+coyote
+pencil
+seminar
+tiny |  
+| bip_39_word_new_line6 | symptom
+coyote
+pencil
+seminar
+tiny
+move |  
+| bip_39_word_new_line7 | symptom
+coyote
+pencil
+seminar
+tiny
+move
+axis |  
+| bip_39_word_new_line8 | symptom
+coyote
+pencil
+seminar
+tiny
+move
+axis
+add |  
+| bip_39_word_new_line9 | symptom
+coyote
+pencil
+seminar
+tiny
+move
+axis
+add
+subject |  
+| bip_39_word_space_0 | ['symptom', 'coyote', 'pencil', 'seminar', 'tiny', 'move', 'axis', 'add', 'subject', 'cable', 'phrase'] |  
+| bip_39_word_space_1 | symptom |  
+| bip_39_word_space_10 | symptom coyote pencil seminar tiny move axis add subject cable |  
+| bip_39_word_space_11 | symptom coyote pencil seminar tiny move axis add subject cable phrase |  
+| bip_39_word_space_2 | symptom coyote |  
+| bip_39_word_space_3 | symptom coyote pencil |  
+| bip_39_word_space_4 | symptom coyote pencil seminar |  
+| bip_39_word_space_5 | symptom coyote pencil seminar tiny |  
+| bip_39_word_space_6 | symptom coyote pencil seminar tiny move |  
+| bip_39_word_space_7 | symptom coyote pencil seminar tiny move axis |  
+| bip_39_word_space_8 | symptom coyote pencil seminar tiny move axis add |  
+| bip_39_word_space_9 | symptom coyote pencil seminar tiny move axis add subject |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

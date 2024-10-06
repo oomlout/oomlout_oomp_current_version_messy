@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: private post
+  * bip 39 word 3: private post ethics
+  * bip 39 word: private post ethics vicious bird federal shove convince spread fame setup access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | private |  
+| bip_39_word_new_br10 | private<br>post<br>ethics<br>vicious<br>bird<br>federal<br>shove<br>convince<br>spread<br>fame |  
+| bip_39_word_new_br11 | private<br>post<br>ethics<br>vicious<br>bird<br>federal<br>shove<br>convince<br>spread<br>fame<br>setup |  
+| bip_39_word_new_br12 | private<br>post<br>ethics<br>vicious<br>bird<br>federal<br>shove<br>convince<br>spread<br>fame<br>setup<br>access |  
+| bip_39_word_new_br2 | private<br>post |  
+| bip_39_word_new_br3 | private<br>post<br>ethics |  
+| bip_39_word_new_br4 | private<br>post<br>ethics<br>vicious |  
+| bip_39_word_new_br5 | private<br>post<br>ethics<br>vicious<br>bird |  
+| bip_39_word_new_br6 | private<br>post<br>ethics<br>vicious<br>bird<br>federal |  
+| bip_39_word_new_br7 | private<br>post<br>ethics<br>vicious<br>bird<br>federal<br>shove |  
+| bip_39_word_new_br8 | private<br>post<br>ethics<br>vicious<br>bird<br>federal<br>shove<br>convince |  
+| bip_39_word_new_br9 | private<br>post<br>ethics<br>vicious<br>bird<br>federal<br>shove<br>convince<br>spread |  
+| bip_39_word_new_line1 | private |  
+| bip_39_word_new_line10 | private
+post
+ethics
+vicious
+bird
+federal
+shove
+convince
+spread
+fame |  
+| bip_39_word_new_line11 | private
+post
+ethics
+vicious
+bird
+federal
+shove
+convince
+spread
+fame
+setup |  
+| bip_39_word_new_line12 | private
+post
+ethics
+vicious
+bird
+federal
+shove
+convince
+spread
+fame
+setup
+access |  
+| bip_39_word_new_line2 | private
+post |  
+| bip_39_word_new_line3 | private
+post
+ethics |  
+| bip_39_word_new_line4 | private
+post
+ethics
+vicious |  
+| bip_39_word_new_line5 | private
+post
+ethics
+vicious
+bird |  
+| bip_39_word_new_line6 | private
+post
+ethics
+vicious
+bird
+federal |  
+| bip_39_word_new_line7 | private
+post
+ethics
+vicious
+bird
+federal
+shove |  
+| bip_39_word_new_line8 | private
+post
+ethics
+vicious
+bird
+federal
+shove
+convince |  
+| bip_39_word_new_line9 | private
+post
+ethics
+vicious
+bird
+federal
+shove
+convince
+spread |  
+| bip_39_word_space_0 | ['private', 'post', 'ethics', 'vicious', 'bird', 'federal', 'shove', 'convince', 'spread', 'fame', 'setup', 'access'] |  
+| bip_39_word_space_1 | private |  
+| bip_39_word_space_10 | private post ethics vicious bird federal shove convince spread fame |  
+| bip_39_word_space_11 | private post ethics vicious bird federal shove convince spread fame setup |  
+| bip_39_word_space_12 | private post ethics vicious bird federal shove convince spread fame setup access |  
+| bip_39_word_space_2 | private post |  
+| bip_39_word_space_3 | private post ethics |  
+| bip_39_word_space_4 | private post ethics vicious |  
+| bip_39_word_space_5 | private post ethics vicious bird |  
+| bip_39_word_space_6 | private post ethics vicious bird federal |  
+| bip_39_word_space_7 | private post ethics vicious bird federal shove |  
+| bip_39_word_space_8 | private post ethics vicious bird federal shove convince |  
+| bip_39_word_space_9 | private post ethics vicious bird federal shove convince spread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

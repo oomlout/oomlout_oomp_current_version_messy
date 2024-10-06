@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spike bridge
+  * bip 39 word 3: spike bridge dilemma
+  * bip 39 word: spike bridge dilemma wheat cable east safe famous crouch lobster business among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spike |  
+| bip_39_word_new_br10 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east<br>safe<br>famous<br>crouch<br>lobster |  
+| bip_39_word_new_br11 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east<br>safe<br>famous<br>crouch<br>lobster<br>business |  
+| bip_39_word_new_br12 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east<br>safe<br>famous<br>crouch<br>lobster<br>business<br>among |  
+| bip_39_word_new_br2 | spike<br>bridge |  
+| bip_39_word_new_br3 | spike<br>bridge<br>dilemma |  
+| bip_39_word_new_br4 | spike<br>bridge<br>dilemma<br>wheat |  
+| bip_39_word_new_br5 | spike<br>bridge<br>dilemma<br>wheat<br>cable |  
+| bip_39_word_new_br6 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east |  
+| bip_39_word_new_br7 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east<br>safe |  
+| bip_39_word_new_br8 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east<br>safe<br>famous |  
+| bip_39_word_new_br9 | spike<br>bridge<br>dilemma<br>wheat<br>cable<br>east<br>safe<br>famous<br>crouch |  
+| bip_39_word_new_line1 | spike |  
+| bip_39_word_new_line10 | spike
+bridge
+dilemma
+wheat
+cable
+east
+safe
+famous
+crouch
+lobster |  
+| bip_39_word_new_line11 | spike
+bridge
+dilemma
+wheat
+cable
+east
+safe
+famous
+crouch
+lobster
+business |  
+| bip_39_word_new_line12 | spike
+bridge
+dilemma
+wheat
+cable
+east
+safe
+famous
+crouch
+lobster
+business
+among |  
+| bip_39_word_new_line2 | spike
+bridge |  
+| bip_39_word_new_line3 | spike
+bridge
+dilemma |  
+| bip_39_word_new_line4 | spike
+bridge
+dilemma
+wheat |  
+| bip_39_word_new_line5 | spike
+bridge
+dilemma
+wheat
+cable |  
+| bip_39_word_new_line6 | spike
+bridge
+dilemma
+wheat
+cable
+east |  
+| bip_39_word_new_line7 | spike
+bridge
+dilemma
+wheat
+cable
+east
+safe |  
+| bip_39_word_new_line8 | spike
+bridge
+dilemma
+wheat
+cable
+east
+safe
+famous |  
+| bip_39_word_new_line9 | spike
+bridge
+dilemma
+wheat
+cable
+east
+safe
+famous
+crouch |  
+| bip_39_word_space_0 | ['spike', 'bridge', 'dilemma', 'wheat', 'cable', 'east', 'safe', 'famous', 'crouch', 'lobster', 'business', 'among'] |  
+| bip_39_word_space_1 | spike |  
+| bip_39_word_space_10 | spike bridge dilemma wheat cable east safe famous crouch lobster |  
+| bip_39_word_space_11 | spike bridge dilemma wheat cable east safe famous crouch lobster business |  
+| bip_39_word_space_12 | spike bridge dilemma wheat cable east safe famous crouch lobster business among |  
+| bip_39_word_space_2 | spike bridge |  
+| bip_39_word_space_3 | spike bridge dilemma |  
+| bip_39_word_space_4 | spike bridge dilemma wheat |  
+| bip_39_word_space_5 | spike bridge dilemma wheat cable |  
+| bip_39_word_space_6 | spike bridge dilemma wheat cable east |  
+| bip_39_word_space_7 | spike bridge dilemma wheat cable east safe |  
+| bip_39_word_space_8 | spike bridge dilemma wheat cable east safe famous |  
+| bip_39_word_space_9 | spike bridge dilemma wheat cable east safe famous crouch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

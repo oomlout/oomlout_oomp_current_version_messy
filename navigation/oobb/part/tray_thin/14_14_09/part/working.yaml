@@ -1,3 +1,187 @@
+bip_39_word_new_br1: parent
+bip_39_word_new_br10: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely
+bip_39_word_new_br11: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely<br>card
+bip_39_word_new_br12: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image<br>lonely<br>card<br>amazing
+bip_39_word_new_br2: parent<br>beach
+bip_39_word_new_br3: parent<br>beach<br>cancel
+bip_39_word_new_br4: parent<br>beach<br>cancel<br>leisure
+bip_39_word_new_br5: parent<br>beach<br>cancel<br>leisure<br>popular
+bip_39_word_new_br6: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg
+bip_39_word_new_br7: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security
+bip_39_word_new_br8: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur
+bip_39_word_new_br9: parent<br>beach<br>cancel<br>leisure<br>popular<br>egg<br>security<br>occur<br>image
+bip_39_word_new_line1: parent
+bip_39_word_new_line10: 'parent
+
+  beach
+
+  cancel
+
+  leisure
+
+  popular
+
+  egg
+
+  security
+
+  occur
+
+  image
+
+  lonely'
+bip_39_word_new_line11: 'parent
+
+  beach
+
+  cancel
+
+  leisure
+
+  popular
+
+  egg
+
+  security
+
+  occur
+
+  image
+
+  lonely
+
+  card'
+bip_39_word_new_line12: 'parent
+
+  beach
+
+  cancel
+
+  leisure
+
+  popular
+
+  egg
+
+  security
+
+  occur
+
+  image
+
+  lonely
+
+  card
+
+  amazing'
+bip_39_word_new_line2: 'parent
+
+  beach'
+bip_39_word_new_line3: 'parent
+
+  beach
+
+  cancel'
+bip_39_word_new_line4: 'parent
+
+  beach
+
+  cancel
+
+  leisure'
+bip_39_word_new_line5: 'parent
+
+  beach
+
+  cancel
+
+  leisure
+
+  popular'
+bip_39_word_new_line6: 'parent
+
+  beach
+
+  cancel
+
+  leisure
+
+  popular
+
+  egg'
+bip_39_word_new_line7: 'parent
+
+  beach
+
+  cancel
+
+  leisure
+
+  popular
+
+  egg
+
+  security'
+bip_39_word_new_line8: 'parent
+
+  beach
+
+  cancel
+
+  leisure
+
+  popular
+
+  egg
+
+  security
+
+  occur'
+bip_39_word_new_line9: 'parent
+
+  beach
+
+  cancel
+
+  leisure
+
+  popular
+
+  egg
+
+  security
+
+  occur
+
+  image'
+bip_39_word_space_0:
+- parent
+- beach
+- cancel
+- leisure
+- popular
+- egg
+- security
+- occur
+- image
+- lonely
+- card
+- amazing
+bip_39_word_space_1: parent
+bip_39_word_space_10: parent beach cancel leisure popular egg security occur image
+  lonely
+bip_39_word_space_11: parent beach cancel leisure popular egg security occur image
+  lonely card
+bip_39_word_space_12: parent beach cancel leisure popular egg security occur image
+  lonely card amazing
+bip_39_word_space_2: parent beach
+bip_39_word_space_3: parent beach cancel
+bip_39_word_space_4: parent beach cancel leisure
+bip_39_word_space_5: parent beach cancel leisure popular
+bip_39_word_space_6: parent beach cancel leisure popular egg
+bip_39_word_space_7: parent beach cancel leisure popular egg security
+bip_39_word_space_8: parent beach cancel leisure popular egg security occur
+bip_39_word_space_9: parent beach cancel leisure popular egg security occur image
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

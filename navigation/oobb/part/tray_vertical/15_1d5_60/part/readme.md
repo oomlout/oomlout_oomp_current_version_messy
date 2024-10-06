@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wreck help
+  * bip 39 word 3: wreck help quantum
+  * bip 39 word: wreck help quantum life level slow jazz uphold permit intact more approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wreck |  
+| bip_39_word_new_br10 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact |  
+| bip_39_word_new_br11 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact<br>more |  
+| bip_39_word_new_br12 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit<br>intact<br>more<br>approve |  
+| bip_39_word_new_br2 | wreck<br>help |  
+| bip_39_word_new_br3 | wreck<br>help<br>quantum |  
+| bip_39_word_new_br4 | wreck<br>help<br>quantum<br>life |  
+| bip_39_word_new_br5 | wreck<br>help<br>quantum<br>life<br>level |  
+| bip_39_word_new_br6 | wreck<br>help<br>quantum<br>life<br>level<br>slow |  
+| bip_39_word_new_br7 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz |  
+| bip_39_word_new_br8 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold |  
+| bip_39_word_new_br9 | wreck<br>help<br>quantum<br>life<br>level<br>slow<br>jazz<br>uphold<br>permit |  
+| bip_39_word_new_line1 | wreck |  
+| bip_39_word_new_line10 | wreck
+help
+quantum
+life
+level
+slow
+jazz
+uphold
+permit
+intact |  
+| bip_39_word_new_line11 | wreck
+help
+quantum
+life
+level
+slow
+jazz
+uphold
+permit
+intact
+more |  
+| bip_39_word_new_line12 | wreck
+help
+quantum
+life
+level
+slow
+jazz
+uphold
+permit
+intact
+more
+approve |  
+| bip_39_word_new_line2 | wreck
+help |  
+| bip_39_word_new_line3 | wreck
+help
+quantum |  
+| bip_39_word_new_line4 | wreck
+help
+quantum
+life |  
+| bip_39_word_new_line5 | wreck
+help
+quantum
+life
+level |  
+| bip_39_word_new_line6 | wreck
+help
+quantum
+life
+level
+slow |  
+| bip_39_word_new_line7 | wreck
+help
+quantum
+life
+level
+slow
+jazz |  
+| bip_39_word_new_line8 | wreck
+help
+quantum
+life
+level
+slow
+jazz
+uphold |  
+| bip_39_word_new_line9 | wreck
+help
+quantum
+life
+level
+slow
+jazz
+uphold
+permit |  
+| bip_39_word_space_0 | ['wreck', 'help', 'quantum', 'life', 'level', 'slow', 'jazz', 'uphold', 'permit', 'intact', 'more', 'approve'] |  
+| bip_39_word_space_1 | wreck |  
+| bip_39_word_space_10 | wreck help quantum life level slow jazz uphold permit intact |  
+| bip_39_word_space_11 | wreck help quantum life level slow jazz uphold permit intact more |  
+| bip_39_word_space_12 | wreck help quantum life level slow jazz uphold permit intact more approve |  
+| bip_39_word_space_2 | wreck help |  
+| bip_39_word_space_3 | wreck help quantum |  
+| bip_39_word_space_4 | wreck help quantum life |  
+| bip_39_word_space_5 | wreck help quantum life level |  
+| bip_39_word_space_6 | wreck help quantum life level slow |  
+| bip_39_word_space_7 | wreck help quantum life level slow jazz |  
+| bip_39_word_space_8 | wreck help quantum life level slow jazz uphold |  
+| bip_39_word_space_9 | wreck help quantum life level slow jazz uphold permit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

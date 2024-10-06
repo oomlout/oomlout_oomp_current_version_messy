@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: powder fan
+  * bip 39 word 3: powder fan fine
+  * bip 39 word: powder fan fine badge grant coral demise busy evoke plastic glance artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | powder |  
+| bip_39_word_new_br10 | powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke<br>plastic |  
+| bip_39_word_new_br11 | powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke<br>plastic<br>glance |  
+| bip_39_word_new_br12 | powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke<br>plastic<br>glance<br>artwork |  
+| bip_39_word_new_br2 | powder<br>fan |  
+| bip_39_word_new_br3 | powder<br>fan<br>fine |  
+| bip_39_word_new_br4 | powder<br>fan<br>fine<br>badge |  
+| bip_39_word_new_br5 | powder<br>fan<br>fine<br>badge<br>grant |  
+| bip_39_word_new_br6 | powder<br>fan<br>fine<br>badge<br>grant<br>coral |  
+| bip_39_word_new_br7 | powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise |  
+| bip_39_word_new_br8 | powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy |  
+| bip_39_word_new_br9 | powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke |  
+| bip_39_word_new_line1 | powder |  
+| bip_39_word_new_line10 | powder
+fan
+fine
+badge
+grant
+coral
+demise
+busy
+evoke
+plastic |  
+| bip_39_word_new_line11 | powder
+fan
+fine
+badge
+grant
+coral
+demise
+busy
+evoke
+plastic
+glance |  
+| bip_39_word_new_line12 | powder
+fan
+fine
+badge
+grant
+coral
+demise
+busy
+evoke
+plastic
+glance
+artwork |  
+| bip_39_word_new_line2 | powder
+fan |  
+| bip_39_word_new_line3 | powder
+fan
+fine |  
+| bip_39_word_new_line4 | powder
+fan
+fine
+badge |  
+| bip_39_word_new_line5 | powder
+fan
+fine
+badge
+grant |  
+| bip_39_word_new_line6 | powder
+fan
+fine
+badge
+grant
+coral |  
+| bip_39_word_new_line7 | powder
+fan
+fine
+badge
+grant
+coral
+demise |  
+| bip_39_word_new_line8 | powder
+fan
+fine
+badge
+grant
+coral
+demise
+busy |  
+| bip_39_word_new_line9 | powder
+fan
+fine
+badge
+grant
+coral
+demise
+busy
+evoke |  
+| bip_39_word_space_0 | ['powder', 'fan', 'fine', 'badge', 'grant', 'coral', 'demise', 'busy', 'evoke', 'plastic', 'glance', 'artwork'] |  
+| bip_39_word_space_1 | powder |  
+| bip_39_word_space_10 | powder fan fine badge grant coral demise busy evoke plastic |  
+| bip_39_word_space_11 | powder fan fine badge grant coral demise busy evoke plastic glance |  
+| bip_39_word_space_12 | powder fan fine badge grant coral demise busy evoke plastic glance artwork |  
+| bip_39_word_space_2 | powder fan |  
+| bip_39_word_space_3 | powder fan fine |  
+| bip_39_word_space_4 | powder fan fine badge |  
+| bip_39_word_space_5 | powder fan fine badge grant |  
+| bip_39_word_space_6 | powder fan fine badge grant coral |  
+| bip_39_word_space_7 | powder fan fine badge grant coral demise |  
+| bip_39_word_space_8 | powder fan fine badge grant coral demise busy |  
+| bip_39_word_space_9 | powder fan fine badge grant coral demise busy evoke |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deal system
+  * bip 39 word 3: deal system awful
+  * bip 39 word: deal system awful bone spend rack palace rhythm sand come actual adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deal |  
+| bip_39_word_new_br10 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come |  
+| bip_39_word_new_br11 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come<br>actual |  
+| bip_39_word_new_br12 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand<br>come<br>actual<br>adapt |  
+| bip_39_word_new_br2 | deal<br>system |  
+| bip_39_word_new_br3 | deal<br>system<br>awful |  
+| bip_39_word_new_br4 | deal<br>system<br>awful<br>bone |  
+| bip_39_word_new_br5 | deal<br>system<br>awful<br>bone<br>spend |  
+| bip_39_word_new_br6 | deal<br>system<br>awful<br>bone<br>spend<br>rack |  
+| bip_39_word_new_br7 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace |  
+| bip_39_word_new_br8 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm |  
+| bip_39_word_new_br9 | deal<br>system<br>awful<br>bone<br>spend<br>rack<br>palace<br>rhythm<br>sand |  
+| bip_39_word_new_line1 | deal |  
+| bip_39_word_new_line10 | deal
+system
+awful
+bone
+spend
+rack
+palace
+rhythm
+sand
+come |  
+| bip_39_word_new_line11 | deal
+system
+awful
+bone
+spend
+rack
+palace
+rhythm
+sand
+come
+actual |  
+| bip_39_word_new_line12 | deal
+system
+awful
+bone
+spend
+rack
+palace
+rhythm
+sand
+come
+actual
+adapt |  
+| bip_39_word_new_line2 | deal
+system |  
+| bip_39_word_new_line3 | deal
+system
+awful |  
+| bip_39_word_new_line4 | deal
+system
+awful
+bone |  
+| bip_39_word_new_line5 | deal
+system
+awful
+bone
+spend |  
+| bip_39_word_new_line6 | deal
+system
+awful
+bone
+spend
+rack |  
+| bip_39_word_new_line7 | deal
+system
+awful
+bone
+spend
+rack
+palace |  
+| bip_39_word_new_line8 | deal
+system
+awful
+bone
+spend
+rack
+palace
+rhythm |  
+| bip_39_word_new_line9 | deal
+system
+awful
+bone
+spend
+rack
+palace
+rhythm
+sand |  
+| bip_39_word_space_0 | ['deal', 'system', 'awful', 'bone', 'spend', 'rack', 'palace', 'rhythm', 'sand', 'come', 'actual', 'adapt'] |  
+| bip_39_word_space_1 | deal |  
+| bip_39_word_space_10 | deal system awful bone spend rack palace rhythm sand come |  
+| bip_39_word_space_11 | deal system awful bone spend rack palace rhythm sand come actual |  
+| bip_39_word_space_12 | deal system awful bone spend rack palace rhythm sand come actual adapt |  
+| bip_39_word_space_2 | deal system |  
+| bip_39_word_space_3 | deal system awful |  
+| bip_39_word_space_4 | deal system awful bone |  
+| bip_39_word_space_5 | deal system awful bone spend |  
+| bip_39_word_space_6 | deal system awful bone spend rack |  
+| bip_39_word_space_7 | deal system awful bone spend rack palace |  
+| bip_39_word_space_8 | deal system awful bone spend rack palace rhythm |  
+| bip_39_word_space_9 | deal system awful bone spend rack palace rhythm sand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

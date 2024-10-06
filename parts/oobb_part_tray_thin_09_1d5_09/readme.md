@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: photo north
+  * bip 39 word 3: photo north cream
+  * bip 39 word: photo north cream balcony neck glory inch already scan gain swallow auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | photo |  
+| bip_39_word_new_br10 | photo<br>north<br>cream<br>balcony<br>neck<br>glory<br>inch<br>already<br>scan<br>gain |  
+| bip_39_word_new_br11 | photo<br>north<br>cream<br>balcony<br>neck<br>glory<br>inch<br>already<br>scan<br>gain<br>swallow |  
+| bip_39_word_new_br12 | photo<br>north<br>cream<br>balcony<br>neck<br>glory<br>inch<br>already<br>scan<br>gain<br>swallow<br>auction |  
+| bip_39_word_new_br2 | photo<br>north |  
+| bip_39_word_new_br3 | photo<br>north<br>cream |  
+| bip_39_word_new_br4 | photo<br>north<br>cream<br>balcony |  
+| bip_39_word_new_br5 | photo<br>north<br>cream<br>balcony<br>neck |  
+| bip_39_word_new_br6 | photo<br>north<br>cream<br>balcony<br>neck<br>glory |  
+| bip_39_word_new_br7 | photo<br>north<br>cream<br>balcony<br>neck<br>glory<br>inch |  
+| bip_39_word_new_br8 | photo<br>north<br>cream<br>balcony<br>neck<br>glory<br>inch<br>already |  
+| bip_39_word_new_br9 | photo<br>north<br>cream<br>balcony<br>neck<br>glory<br>inch<br>already<br>scan |  
+| bip_39_word_new_line1 | photo |  
+| bip_39_word_new_line10 | photo
+north
+cream
+balcony
+neck
+glory
+inch
+already
+scan
+gain |  
+| bip_39_word_new_line11 | photo
+north
+cream
+balcony
+neck
+glory
+inch
+already
+scan
+gain
+swallow |  
+| bip_39_word_new_line12 | photo
+north
+cream
+balcony
+neck
+glory
+inch
+already
+scan
+gain
+swallow
+auction |  
+| bip_39_word_new_line2 | photo
+north |  
+| bip_39_word_new_line3 | photo
+north
+cream |  
+| bip_39_word_new_line4 | photo
+north
+cream
+balcony |  
+| bip_39_word_new_line5 | photo
+north
+cream
+balcony
+neck |  
+| bip_39_word_new_line6 | photo
+north
+cream
+balcony
+neck
+glory |  
+| bip_39_word_new_line7 | photo
+north
+cream
+balcony
+neck
+glory
+inch |  
+| bip_39_word_new_line8 | photo
+north
+cream
+balcony
+neck
+glory
+inch
+already |  
+| bip_39_word_new_line9 | photo
+north
+cream
+balcony
+neck
+glory
+inch
+already
+scan |  
+| bip_39_word_space_0 | ['photo', 'north', 'cream', 'balcony', 'neck', 'glory', 'inch', 'already', 'scan', 'gain', 'swallow', 'auction'] |  
+| bip_39_word_space_1 | photo |  
+| bip_39_word_space_10 | photo north cream balcony neck glory inch already scan gain |  
+| bip_39_word_space_11 | photo north cream balcony neck glory inch already scan gain swallow |  
+| bip_39_word_space_12 | photo north cream balcony neck glory inch already scan gain swallow auction |  
+| bip_39_word_space_2 | photo north |  
+| bip_39_word_space_3 | photo north cream |  
+| bip_39_word_space_4 | photo north cream balcony |  
+| bip_39_word_space_5 | photo north cream balcony neck |  
+| bip_39_word_space_6 | photo north cream balcony neck glory |  
+| bip_39_word_space_7 | photo north cream balcony neck glory inch |  
+| bip_39_word_space_8 | photo north cream balcony neck glory inch already |  
+| bip_39_word_space_9 | photo north cream balcony neck glory inch already scan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

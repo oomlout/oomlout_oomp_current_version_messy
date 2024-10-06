@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: huge choose
+  * bip 39 word 3: huge choose derive
+  * bip 39 word: huge choose derive seat absurd hope target net error change opera aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | huge |  
+| bip_39_word_new_br10 | huge<br>choose<br>derive<br>seat<br>absurd<br>hope<br>target<br>net<br>error<br>change |  
+| bip_39_word_new_br11 | huge<br>choose<br>derive<br>seat<br>absurd<br>hope<br>target<br>net<br>error<br>change<br>opera |  
+| bip_39_word_new_br12 | huge<br>choose<br>derive<br>seat<br>absurd<br>hope<br>target<br>net<br>error<br>change<br>opera<br>aisle |  
+| bip_39_word_new_br2 | huge<br>choose |  
+| bip_39_word_new_br3 | huge<br>choose<br>derive |  
+| bip_39_word_new_br4 | huge<br>choose<br>derive<br>seat |  
+| bip_39_word_new_br5 | huge<br>choose<br>derive<br>seat<br>absurd |  
+| bip_39_word_new_br6 | huge<br>choose<br>derive<br>seat<br>absurd<br>hope |  
+| bip_39_word_new_br7 | huge<br>choose<br>derive<br>seat<br>absurd<br>hope<br>target |  
+| bip_39_word_new_br8 | huge<br>choose<br>derive<br>seat<br>absurd<br>hope<br>target<br>net |  
+| bip_39_word_new_br9 | huge<br>choose<br>derive<br>seat<br>absurd<br>hope<br>target<br>net<br>error |  
+| bip_39_word_new_line1 | huge |  
+| bip_39_word_new_line10 | huge
+choose
+derive
+seat
+absurd
+hope
+target
+net
+error
+change |  
+| bip_39_word_new_line11 | huge
+choose
+derive
+seat
+absurd
+hope
+target
+net
+error
+change
+opera |  
+| bip_39_word_new_line12 | huge
+choose
+derive
+seat
+absurd
+hope
+target
+net
+error
+change
+opera
+aisle |  
+| bip_39_word_new_line2 | huge
+choose |  
+| bip_39_word_new_line3 | huge
+choose
+derive |  
+| bip_39_word_new_line4 | huge
+choose
+derive
+seat |  
+| bip_39_word_new_line5 | huge
+choose
+derive
+seat
+absurd |  
+| bip_39_word_new_line6 | huge
+choose
+derive
+seat
+absurd
+hope |  
+| bip_39_word_new_line7 | huge
+choose
+derive
+seat
+absurd
+hope
+target |  
+| bip_39_word_new_line8 | huge
+choose
+derive
+seat
+absurd
+hope
+target
+net |  
+| bip_39_word_new_line9 | huge
+choose
+derive
+seat
+absurd
+hope
+target
+net
+error |  
+| bip_39_word_space_0 | ['huge', 'choose', 'derive', 'seat', 'absurd', 'hope', 'target', 'net', 'error', 'change', 'opera', 'aisle'] |  
+| bip_39_word_space_1 | huge |  
+| bip_39_word_space_10 | huge choose derive seat absurd hope target net error change |  
+| bip_39_word_space_11 | huge choose derive seat absurd hope target net error change opera |  
+| bip_39_word_space_12 | huge choose derive seat absurd hope target net error change opera aisle |  
+| bip_39_word_space_2 | huge choose |  
+| bip_39_word_space_3 | huge choose derive |  
+| bip_39_word_space_4 | huge choose derive seat |  
+| bip_39_word_space_5 | huge choose derive seat absurd |  
+| bip_39_word_space_6 | huge choose derive seat absurd hope |  
+| bip_39_word_space_7 | huge choose derive seat absurd hope target |  
+| bip_39_word_space_8 | huge choose derive seat absurd hope target net |  
+| bip_39_word_space_9 | huge choose derive seat absurd hope target net error |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

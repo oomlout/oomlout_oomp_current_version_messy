@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: super speed
+  * bip 39 word 3: super speed chest
+  * bip 39 word: super speed chest column isolate sorry vanish book rather demand pet advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | super |  
+| bip_39_word_new_br10 | super<br>speed<br>chest<br>column<br>isolate<br>sorry<br>vanish<br>book<br>rather<br>demand |  
+| bip_39_word_new_br11 | super<br>speed<br>chest<br>column<br>isolate<br>sorry<br>vanish<br>book<br>rather<br>demand<br>pet |  
+| bip_39_word_new_br12 | super<br>speed<br>chest<br>column<br>isolate<br>sorry<br>vanish<br>book<br>rather<br>demand<br>pet<br>advice |  
+| bip_39_word_new_br2 | super<br>speed |  
+| bip_39_word_new_br3 | super<br>speed<br>chest |  
+| bip_39_word_new_br4 | super<br>speed<br>chest<br>column |  
+| bip_39_word_new_br5 | super<br>speed<br>chest<br>column<br>isolate |  
+| bip_39_word_new_br6 | super<br>speed<br>chest<br>column<br>isolate<br>sorry |  
+| bip_39_word_new_br7 | super<br>speed<br>chest<br>column<br>isolate<br>sorry<br>vanish |  
+| bip_39_word_new_br8 | super<br>speed<br>chest<br>column<br>isolate<br>sorry<br>vanish<br>book |  
+| bip_39_word_new_br9 | super<br>speed<br>chest<br>column<br>isolate<br>sorry<br>vanish<br>book<br>rather |  
+| bip_39_word_new_line1 | super |  
+| bip_39_word_new_line10 | super
+speed
+chest
+column
+isolate
+sorry
+vanish
+book
+rather
+demand |  
+| bip_39_word_new_line11 | super
+speed
+chest
+column
+isolate
+sorry
+vanish
+book
+rather
+demand
+pet |  
+| bip_39_word_new_line12 | super
+speed
+chest
+column
+isolate
+sorry
+vanish
+book
+rather
+demand
+pet
+advice |  
+| bip_39_word_new_line2 | super
+speed |  
+| bip_39_word_new_line3 | super
+speed
+chest |  
+| bip_39_word_new_line4 | super
+speed
+chest
+column |  
+| bip_39_word_new_line5 | super
+speed
+chest
+column
+isolate |  
+| bip_39_word_new_line6 | super
+speed
+chest
+column
+isolate
+sorry |  
+| bip_39_word_new_line7 | super
+speed
+chest
+column
+isolate
+sorry
+vanish |  
+| bip_39_word_new_line8 | super
+speed
+chest
+column
+isolate
+sorry
+vanish
+book |  
+| bip_39_word_new_line9 | super
+speed
+chest
+column
+isolate
+sorry
+vanish
+book
+rather |  
+| bip_39_word_space_0 | ['super', 'speed', 'chest', 'column', 'isolate', 'sorry', 'vanish', 'book', 'rather', 'demand', 'pet', 'advice'] |  
+| bip_39_word_space_1 | super |  
+| bip_39_word_space_10 | super speed chest column isolate sorry vanish book rather demand |  
+| bip_39_word_space_11 | super speed chest column isolate sorry vanish book rather demand pet |  
+| bip_39_word_space_12 | super speed chest column isolate sorry vanish book rather demand pet advice |  
+| bip_39_word_space_2 | super speed |  
+| bip_39_word_space_3 | super speed chest |  
+| bip_39_word_space_4 | super speed chest column |  
+| bip_39_word_space_5 | super speed chest column isolate |  
+| bip_39_word_space_6 | super speed chest column isolate sorry |  
+| bip_39_word_space_7 | super speed chest column isolate sorry vanish |  
+| bip_39_word_space_8 | super speed chest column isolate sorry vanish book |  
+| bip_39_word_space_9 | super speed chest column isolate sorry vanish book rather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

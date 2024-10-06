@@ -1,3 +1,185 @@
+bip_39_word_new_br1: click
+bip_39_word_new_br10: click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp
+bip_39_word_new_br11: click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp<br>head
+bip_39_word_new_br12: click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel<br>wasp<br>head<br>ahead
+bip_39_word_new_br2: click<br>luxury
+bip_39_word_new_br3: click<br>luxury<br>thrive
+bip_39_word_new_br4: click<br>luxury<br>thrive<br>rival
+bip_39_word_new_br5: click<br>luxury<br>thrive<br>rival<br>zoo
+bip_39_word_new_br6: click<br>luxury<br>thrive<br>rival<br>zoo<br>eye
+bip_39_word_new_br7: click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove
+bip_39_word_new_br8: click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve
+bip_39_word_new_br9: click<br>luxury<br>thrive<br>rival<br>zoo<br>eye<br>stove<br>approve<br>fuel
+bip_39_word_new_line1: click
+bip_39_word_new_line10: 'click
+
+  luxury
+
+  thrive
+
+  rival
+
+  zoo
+
+  eye
+
+  stove
+
+  approve
+
+  fuel
+
+  wasp'
+bip_39_word_new_line11: 'click
+
+  luxury
+
+  thrive
+
+  rival
+
+  zoo
+
+  eye
+
+  stove
+
+  approve
+
+  fuel
+
+  wasp
+
+  head'
+bip_39_word_new_line12: 'click
+
+  luxury
+
+  thrive
+
+  rival
+
+  zoo
+
+  eye
+
+  stove
+
+  approve
+
+  fuel
+
+  wasp
+
+  head
+
+  ahead'
+bip_39_word_new_line2: 'click
+
+  luxury'
+bip_39_word_new_line3: 'click
+
+  luxury
+
+  thrive'
+bip_39_word_new_line4: 'click
+
+  luxury
+
+  thrive
+
+  rival'
+bip_39_word_new_line5: 'click
+
+  luxury
+
+  thrive
+
+  rival
+
+  zoo'
+bip_39_word_new_line6: 'click
+
+  luxury
+
+  thrive
+
+  rival
+
+  zoo
+
+  eye'
+bip_39_word_new_line7: 'click
+
+  luxury
+
+  thrive
+
+  rival
+
+  zoo
+
+  eye
+
+  stove'
+bip_39_word_new_line8: 'click
+
+  luxury
+
+  thrive
+
+  rival
+
+  zoo
+
+  eye
+
+  stove
+
+  approve'
+bip_39_word_new_line9: 'click
+
+  luxury
+
+  thrive
+
+  rival
+
+  zoo
+
+  eye
+
+  stove
+
+  approve
+
+  fuel'
+bip_39_word_space_0:
+- click
+- luxury
+- thrive
+- rival
+- zoo
+- eye
+- stove
+- approve
+- fuel
+- wasp
+- head
+- ahead
+bip_39_word_space_1: click
+bip_39_word_space_10: click luxury thrive rival zoo eye stove approve fuel wasp
+bip_39_word_space_11: click luxury thrive rival zoo eye stove approve fuel wasp head
+bip_39_word_space_12: click luxury thrive rival zoo eye stove approve fuel wasp head
+  ahead
+bip_39_word_space_2: click luxury
+bip_39_word_space_3: click luxury thrive
+bip_39_word_space_4: click luxury thrive rival
+bip_39_word_space_5: click luxury thrive rival zoo
+bip_39_word_space_6: click luxury thrive rival zoo eye
+bip_39_word_space_7: click luxury thrive rival zoo eye stove
+bip_39_word_space_8: click luxury thrive rival zoo eye stove approve
+bip_39_word_space_9: click luxury thrive rival zoo eye stove approve fuel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

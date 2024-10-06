@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hold dice
+  * bip 39 word 3: hold dice ugly
+  * bip 39 word: hold dice ugly accuse awake all huge toward coach split order alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hold |  
+| bip_39_word_new_br10 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split |  
+| bip_39_word_new_br11 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split<br>order |  
+| bip_39_word_new_br12 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach<br>split<br>order<br>alpha |  
+| bip_39_word_new_br2 | hold<br>dice |  
+| bip_39_word_new_br3 | hold<br>dice<br>ugly |  
+| bip_39_word_new_br4 | hold<br>dice<br>ugly<br>accuse |  
+| bip_39_word_new_br5 | hold<br>dice<br>ugly<br>accuse<br>awake |  
+| bip_39_word_new_br6 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all |  
+| bip_39_word_new_br7 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge |  
+| bip_39_word_new_br8 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward |  
+| bip_39_word_new_br9 | hold<br>dice<br>ugly<br>accuse<br>awake<br>all<br>huge<br>toward<br>coach |  
+| bip_39_word_new_line1 | hold |  
+| bip_39_word_new_line10 | hold
+dice
+ugly
+accuse
+awake
+all
+huge
+toward
+coach
+split |  
+| bip_39_word_new_line11 | hold
+dice
+ugly
+accuse
+awake
+all
+huge
+toward
+coach
+split
+order |  
+| bip_39_word_new_line12 | hold
+dice
+ugly
+accuse
+awake
+all
+huge
+toward
+coach
+split
+order
+alpha |  
+| bip_39_word_new_line2 | hold
+dice |  
+| bip_39_word_new_line3 | hold
+dice
+ugly |  
+| bip_39_word_new_line4 | hold
+dice
+ugly
+accuse |  
+| bip_39_word_new_line5 | hold
+dice
+ugly
+accuse
+awake |  
+| bip_39_word_new_line6 | hold
+dice
+ugly
+accuse
+awake
+all |  
+| bip_39_word_new_line7 | hold
+dice
+ugly
+accuse
+awake
+all
+huge |  
+| bip_39_word_new_line8 | hold
+dice
+ugly
+accuse
+awake
+all
+huge
+toward |  
+| bip_39_word_new_line9 | hold
+dice
+ugly
+accuse
+awake
+all
+huge
+toward
+coach |  
+| bip_39_word_space_0 | ['hold', 'dice', 'ugly', 'accuse', 'awake', 'all', 'huge', 'toward', 'coach', 'split', 'order', 'alpha'] |  
+| bip_39_word_space_1 | hold |  
+| bip_39_word_space_10 | hold dice ugly accuse awake all huge toward coach split |  
+| bip_39_word_space_11 | hold dice ugly accuse awake all huge toward coach split order |  
+| bip_39_word_space_12 | hold dice ugly accuse awake all huge toward coach split order alpha |  
+| bip_39_word_space_2 | hold dice |  
+| bip_39_word_space_3 | hold dice ugly |  
+| bip_39_word_space_4 | hold dice ugly accuse |  
+| bip_39_word_space_5 | hold dice ugly accuse awake |  
+| bip_39_word_space_6 | hold dice ugly accuse awake all |  
+| bip_39_word_space_7 | hold dice ugly accuse awake all huge |  
+| bip_39_word_space_8 | hold dice ugly accuse awake all huge toward |  
+| bip_39_word_space_9 | hold dice ugly accuse awake all huge toward coach |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hat swim
+  * bip 39 word 3: hat swim sun
+  * bip 39 word: hat swim sun submit candy stumble asthma text embody guess vicious annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hat |  
+| bip_39_word_new_br10 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble<br>asthma<br>text<br>embody<br>guess |  
+| bip_39_word_new_br11 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble<br>asthma<br>text<br>embody<br>guess<br>vicious |  
+| bip_39_word_new_br12 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble<br>asthma<br>text<br>embody<br>guess<br>vicious<br>annual |  
+| bip_39_word_new_br2 | hat<br>swim |  
+| bip_39_word_new_br3 | hat<br>swim<br>sun |  
+| bip_39_word_new_br4 | hat<br>swim<br>sun<br>submit |  
+| bip_39_word_new_br5 | hat<br>swim<br>sun<br>submit<br>candy |  
+| bip_39_word_new_br6 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble |  
+| bip_39_word_new_br7 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble<br>asthma |  
+| bip_39_word_new_br8 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble<br>asthma<br>text |  
+| bip_39_word_new_br9 | hat<br>swim<br>sun<br>submit<br>candy<br>stumble<br>asthma<br>text<br>embody |  
+| bip_39_word_new_line1 | hat |  
+| bip_39_word_new_line10 | hat
+swim
+sun
+submit
+candy
+stumble
+asthma
+text
+embody
+guess |  
+| bip_39_word_new_line11 | hat
+swim
+sun
+submit
+candy
+stumble
+asthma
+text
+embody
+guess
+vicious |  
+| bip_39_word_new_line12 | hat
+swim
+sun
+submit
+candy
+stumble
+asthma
+text
+embody
+guess
+vicious
+annual |  
+| bip_39_word_new_line2 | hat
+swim |  
+| bip_39_word_new_line3 | hat
+swim
+sun |  
+| bip_39_word_new_line4 | hat
+swim
+sun
+submit |  
+| bip_39_word_new_line5 | hat
+swim
+sun
+submit
+candy |  
+| bip_39_word_new_line6 | hat
+swim
+sun
+submit
+candy
+stumble |  
+| bip_39_word_new_line7 | hat
+swim
+sun
+submit
+candy
+stumble
+asthma |  
+| bip_39_word_new_line8 | hat
+swim
+sun
+submit
+candy
+stumble
+asthma
+text |  
+| bip_39_word_new_line9 | hat
+swim
+sun
+submit
+candy
+stumble
+asthma
+text
+embody |  
+| bip_39_word_space_0 | ['hat', 'swim', 'sun', 'submit', 'candy', 'stumble', 'asthma', 'text', 'embody', 'guess', 'vicious', 'annual'] |  
+| bip_39_word_space_1 | hat |  
+| bip_39_word_space_10 | hat swim sun submit candy stumble asthma text embody guess |  
+| bip_39_word_space_11 | hat swim sun submit candy stumble asthma text embody guess vicious |  
+| bip_39_word_space_12 | hat swim sun submit candy stumble asthma text embody guess vicious annual |  
+| bip_39_word_space_2 | hat swim |  
+| bip_39_word_space_3 | hat swim sun |  
+| bip_39_word_space_4 | hat swim sun submit |  
+| bip_39_word_space_5 | hat swim sun submit candy |  
+| bip_39_word_space_6 | hat swim sun submit candy stumble |  
+| bip_39_word_space_7 | hat swim sun submit candy stumble asthma |  
+| bip_39_word_space_8 | hat swim sun submit candy stumble asthma text |  
+| bip_39_word_space_9 | hat swim sun submit candy stumble asthma text embody |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

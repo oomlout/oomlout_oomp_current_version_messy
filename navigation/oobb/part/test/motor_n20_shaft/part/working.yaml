@@ -1,3 +1,186 @@
+bip_39_word_new_br1: east
+bip_39_word_new_br10: east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage
+bip_39_word_new_br11: east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage<br>add
+bip_39_word_new_br12: east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute<br>manage<br>add<br>alone
+bip_39_word_new_br2: east<br>omit
+bip_39_word_new_br3: east<br>omit<br>column
+bip_39_word_new_br4: east<br>omit<br>column<br>lunch
+bip_39_word_new_br5: east<br>omit<br>column<br>lunch<br>fiscal
+bip_39_word_new_br6: east<br>omit<br>column<br>lunch<br>fiscal<br>direct
+bip_39_word_new_br7: east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust
+bip_39_word_new_br8: east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock
+bip_39_word_new_br9: east<br>omit<br>column<br>lunch<br>fiscal<br>direct<br>trust<br>sock<br>execute
+bip_39_word_new_line1: east
+bip_39_word_new_line10: 'east
+
+  omit
+
+  column
+
+  lunch
+
+  fiscal
+
+  direct
+
+  trust
+
+  sock
+
+  execute
+
+  manage'
+bip_39_word_new_line11: 'east
+
+  omit
+
+  column
+
+  lunch
+
+  fiscal
+
+  direct
+
+  trust
+
+  sock
+
+  execute
+
+  manage
+
+  add'
+bip_39_word_new_line12: 'east
+
+  omit
+
+  column
+
+  lunch
+
+  fiscal
+
+  direct
+
+  trust
+
+  sock
+
+  execute
+
+  manage
+
+  add
+
+  alone'
+bip_39_word_new_line2: 'east
+
+  omit'
+bip_39_word_new_line3: 'east
+
+  omit
+
+  column'
+bip_39_word_new_line4: 'east
+
+  omit
+
+  column
+
+  lunch'
+bip_39_word_new_line5: 'east
+
+  omit
+
+  column
+
+  lunch
+
+  fiscal'
+bip_39_word_new_line6: 'east
+
+  omit
+
+  column
+
+  lunch
+
+  fiscal
+
+  direct'
+bip_39_word_new_line7: 'east
+
+  omit
+
+  column
+
+  lunch
+
+  fiscal
+
+  direct
+
+  trust'
+bip_39_word_new_line8: 'east
+
+  omit
+
+  column
+
+  lunch
+
+  fiscal
+
+  direct
+
+  trust
+
+  sock'
+bip_39_word_new_line9: 'east
+
+  omit
+
+  column
+
+  lunch
+
+  fiscal
+
+  direct
+
+  trust
+
+  sock
+
+  execute'
+bip_39_word_space_0:
+- east
+- omit
+- column
+- lunch
+- fiscal
+- direct
+- trust
+- sock
+- execute
+- manage
+- add
+- alone
+bip_39_word_space_1: east
+bip_39_word_space_10: east omit column lunch fiscal direct trust sock execute manage
+bip_39_word_space_11: east omit column lunch fiscal direct trust sock execute manage
+  add
+bip_39_word_space_12: east omit column lunch fiscal direct trust sock execute manage
+  add alone
+bip_39_word_space_2: east omit
+bip_39_word_space_3: east omit column
+bip_39_word_space_4: east omit column lunch
+bip_39_word_space_5: east omit column lunch fiscal
+bip_39_word_space_6: east omit column lunch fiscal direct
+bip_39_word_space_7: east omit column lunch fiscal direct trust
+bip_39_word_space_8: east omit column lunch fiscal direct trust sock
+bip_39_word_space_9: east omit column lunch fiscal direct trust sock execute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

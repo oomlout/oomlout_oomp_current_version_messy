@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: l
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: move slim
+  * bip 39 word 3: move slim rice
+  * bip 39 word: move slim rice output network comfort uncover strong fatal drift dad all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | move |  
+| bip_39_word_new_br10 | move<br>slim<br>rice<br>output<br>network<br>comfort<br>uncover<br>strong<br>fatal<br>drift |  
+| bip_39_word_new_br11 | move<br>slim<br>rice<br>output<br>network<br>comfort<br>uncover<br>strong<br>fatal<br>drift<br>dad |  
+| bip_39_word_new_br12 | move<br>slim<br>rice<br>output<br>network<br>comfort<br>uncover<br>strong<br>fatal<br>drift<br>dad<br>all |  
+| bip_39_word_new_br2 | move<br>slim |  
+| bip_39_word_new_br3 | move<br>slim<br>rice |  
+| bip_39_word_new_br4 | move<br>slim<br>rice<br>output |  
+| bip_39_word_new_br5 | move<br>slim<br>rice<br>output<br>network |  
+| bip_39_word_new_br6 | move<br>slim<br>rice<br>output<br>network<br>comfort |  
+| bip_39_word_new_br7 | move<br>slim<br>rice<br>output<br>network<br>comfort<br>uncover |  
+| bip_39_word_new_br8 | move<br>slim<br>rice<br>output<br>network<br>comfort<br>uncover<br>strong |  
+| bip_39_word_new_br9 | move<br>slim<br>rice<br>output<br>network<br>comfort<br>uncover<br>strong<br>fatal |  
+| bip_39_word_new_line1 | move |  
+| bip_39_word_new_line10 | move
+slim
+rice
+output
+network
+comfort
+uncover
+strong
+fatal
+drift |  
+| bip_39_word_new_line11 | move
+slim
+rice
+output
+network
+comfort
+uncover
+strong
+fatal
+drift
+dad |  
+| bip_39_word_new_line12 | move
+slim
+rice
+output
+network
+comfort
+uncover
+strong
+fatal
+drift
+dad
+all |  
+| bip_39_word_new_line2 | move
+slim |  
+| bip_39_word_new_line3 | move
+slim
+rice |  
+| bip_39_word_new_line4 | move
+slim
+rice
+output |  
+| bip_39_word_new_line5 | move
+slim
+rice
+output
+network |  
+| bip_39_word_new_line6 | move
+slim
+rice
+output
+network
+comfort |  
+| bip_39_word_new_line7 | move
+slim
+rice
+output
+network
+comfort
+uncover |  
+| bip_39_word_new_line8 | move
+slim
+rice
+output
+network
+comfort
+uncover
+strong |  
+| bip_39_word_new_line9 | move
+slim
+rice
+output
+network
+comfort
+uncover
+strong
+fatal |  
+| bip_39_word_space_0 | ['move', 'slim', 'rice', 'output', 'network', 'comfort', 'uncover', 'strong', 'fatal', 'drift', 'dad', 'all'] |  
+| bip_39_word_space_1 | move |  
+| bip_39_word_space_10 | move slim rice output network comfort uncover strong fatal drift |  
+| bip_39_word_space_11 | move slim rice output network comfort uncover strong fatal drift dad |  
+| bip_39_word_space_12 | move slim rice output network comfort uncover strong fatal drift dad all |  
+| bip_39_word_space_2 | move slim |  
+| bip_39_word_space_3 | move slim rice |  
+| bip_39_word_space_4 | move slim rice output |  
+| bip_39_word_space_5 | move slim rice output network |  
+| bip_39_word_space_6 | move slim rice output network comfort |  
+| bip_39_word_space_7 | move slim rice output network comfort uncover |  
+| bip_39_word_space_8 | move slim rice output network comfort uncover strong |  
+| bip_39_word_space_9 | move slim rice output network comfort uncover strong fatal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

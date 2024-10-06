@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grief balance
+  * bip 39 word 3: grief balance city
+  * bip 39 word: grief balance city drastic eternal avoid chunk december main sentence swift album
 
 ### other_codes
 * short_code: n6mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grief |  
+| bip_39_word_new_br10 | grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main<br>sentence |  
+| bip_39_word_new_br11 | grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main<br>sentence<br>swift |  
+| bip_39_word_new_br12 | grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main<br>sentence<br>swift<br>album |  
+| bip_39_word_new_br2 | grief<br>balance |  
+| bip_39_word_new_br3 | grief<br>balance<br>city |  
+| bip_39_word_new_br4 | grief<br>balance<br>city<br>drastic |  
+| bip_39_word_new_br5 | grief<br>balance<br>city<br>drastic<br>eternal |  
+| bip_39_word_new_br6 | grief<br>balance<br>city<br>drastic<br>eternal<br>avoid |  
+| bip_39_word_new_br7 | grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk |  
+| bip_39_word_new_br8 | grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december |  
+| bip_39_word_new_br9 | grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main |  
+| bip_39_word_new_line1 | grief |  
+| bip_39_word_new_line10 | grief
+balance
+city
+drastic
+eternal
+avoid
+chunk
+december
+main
+sentence |  
+| bip_39_word_new_line11 | grief
+balance
+city
+drastic
+eternal
+avoid
+chunk
+december
+main
+sentence
+swift |  
+| bip_39_word_new_line12 | grief
+balance
+city
+drastic
+eternal
+avoid
+chunk
+december
+main
+sentence
+swift
+album |  
+| bip_39_word_new_line2 | grief
+balance |  
+| bip_39_word_new_line3 | grief
+balance
+city |  
+| bip_39_word_new_line4 | grief
+balance
+city
+drastic |  
+| bip_39_word_new_line5 | grief
+balance
+city
+drastic
+eternal |  
+| bip_39_word_new_line6 | grief
+balance
+city
+drastic
+eternal
+avoid |  
+| bip_39_word_new_line7 | grief
+balance
+city
+drastic
+eternal
+avoid
+chunk |  
+| bip_39_word_new_line8 | grief
+balance
+city
+drastic
+eternal
+avoid
+chunk
+december |  
+| bip_39_word_new_line9 | grief
+balance
+city
+drastic
+eternal
+avoid
+chunk
+december
+main |  
+| bip_39_word_space_0 | ['grief', 'balance', 'city', 'drastic', 'eternal', 'avoid', 'chunk', 'december', 'main', 'sentence', 'swift', 'album'] |  
+| bip_39_word_space_1 | grief |  
+| bip_39_word_space_10 | grief balance city drastic eternal avoid chunk december main sentence |  
+| bip_39_word_space_11 | grief balance city drastic eternal avoid chunk december main sentence swift |  
+| bip_39_word_space_12 | grief balance city drastic eternal avoid chunk december main sentence swift album |  
+| bip_39_word_space_2 | grief balance |  
+| bip_39_word_space_3 | grief balance city |  
+| bip_39_word_space_4 | grief balance city drastic |  
+| bip_39_word_space_5 | grief balance city drastic eternal |  
+| bip_39_word_space_6 | grief balance city drastic eternal avoid |  
+| bip_39_word_space_7 | grief balance city drastic eternal avoid chunk |  
+| bip_39_word_space_8 | grief balance city drastic eternal avoid chunk december |  
+| bip_39_word_space_9 | grief balance city drastic eternal avoid chunk december main |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

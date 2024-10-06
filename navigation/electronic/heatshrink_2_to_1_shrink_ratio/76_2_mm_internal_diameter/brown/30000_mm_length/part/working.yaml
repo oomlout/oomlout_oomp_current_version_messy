@@ -1,3 +1,186 @@
+bip_39_word_new_br1: move
+bip_39_word_new_br10: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse<br>fiscal<br>defy
+bip_39_word_new_br11: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse<br>fiscal<br>defy<br>achieve
+bip_39_word_new_br12: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse<br>fiscal<br>defy<br>achieve<br>answer
+bip_39_word_new_br2: move<br>example
+bip_39_word_new_br3: move<br>example<br>vapor
+bip_39_word_new_br4: move<br>example<br>vapor<br>head
+bip_39_word_new_br5: move<br>example<br>vapor<br>head<br>sting
+bip_39_word_new_br6: move<br>example<br>vapor<br>head<br>sting<br>aerobic
+bip_39_word_new_br7: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow
+bip_39_word_new_br8: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse
+bip_39_word_new_br9: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse<br>fiscal
+bip_39_word_new_line1: move
+bip_39_word_new_line10: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse
+
+  fiscal
+
+  defy'
+bip_39_word_new_line11: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse
+
+  fiscal
+
+  defy
+
+  achieve'
+bip_39_word_new_line12: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse
+
+  fiscal
+
+  defy
+
+  achieve
+
+  answer'
+bip_39_word_new_line2: 'move
+
+  example'
+bip_39_word_new_line3: 'move
+
+  example
+
+  vapor'
+bip_39_word_new_line4: 'move
+
+  example
+
+  vapor
+
+  head'
+bip_39_word_new_line5: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting'
+bip_39_word_new_line6: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic'
+bip_39_word_new_line7: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow'
+bip_39_word_new_line8: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse'
+bip_39_word_new_line9: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse
+
+  fiscal'
+bip_39_word_space_0:
+- move
+- example
+- vapor
+- head
+- sting
+- aerobic
+- arrow
+- impulse
+- fiscal
+- defy
+- achieve
+- answer
+bip_39_word_space_1: move
+bip_39_word_space_10: move example vapor head sting aerobic arrow impulse fiscal defy
+bip_39_word_space_11: move example vapor head sting aerobic arrow impulse fiscal defy
+  achieve
+bip_39_word_space_12: move example vapor head sting aerobic arrow impulse fiscal defy
+  achieve answer
+bip_39_word_space_2: move example
+bip_39_word_space_3: move example vapor
+bip_39_word_space_4: move example vapor head
+bip_39_word_space_5: move example vapor head sting
+bip_39_word_space_6: move example vapor head sting aerobic
+bip_39_word_space_7: move example vapor head sting aerobic arrow
+bip_39_word_space_8: move example vapor head sting aerobic arrow impulse
+bip_39_word_space_9: move example vapor head sting aerobic arrow impulse fiscal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

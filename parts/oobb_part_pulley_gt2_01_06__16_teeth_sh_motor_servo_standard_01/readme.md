@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stick matrix
+  * bip 39 word 3: stick matrix deny
+  * bip 39 word: stick matrix deny wing open wrap rib rare dwarf system sister armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stick |  
+| bip_39_word_new_br10 | stick<br>matrix<br>deny<br>wing<br>open<br>wrap<br>rib<br>rare<br>dwarf<br>system |  
+| bip_39_word_new_br11 | stick<br>matrix<br>deny<br>wing<br>open<br>wrap<br>rib<br>rare<br>dwarf<br>system<br>sister |  
+| bip_39_word_new_br12 | stick<br>matrix<br>deny<br>wing<br>open<br>wrap<br>rib<br>rare<br>dwarf<br>system<br>sister<br>armed |  
+| bip_39_word_new_br2 | stick<br>matrix |  
+| bip_39_word_new_br3 | stick<br>matrix<br>deny |  
+| bip_39_word_new_br4 | stick<br>matrix<br>deny<br>wing |  
+| bip_39_word_new_br5 | stick<br>matrix<br>deny<br>wing<br>open |  
+| bip_39_word_new_br6 | stick<br>matrix<br>deny<br>wing<br>open<br>wrap |  
+| bip_39_word_new_br7 | stick<br>matrix<br>deny<br>wing<br>open<br>wrap<br>rib |  
+| bip_39_word_new_br8 | stick<br>matrix<br>deny<br>wing<br>open<br>wrap<br>rib<br>rare |  
+| bip_39_word_new_br9 | stick<br>matrix<br>deny<br>wing<br>open<br>wrap<br>rib<br>rare<br>dwarf |  
+| bip_39_word_new_line1 | stick |  
+| bip_39_word_new_line10 | stick
+matrix
+deny
+wing
+open
+wrap
+rib
+rare
+dwarf
+system |  
+| bip_39_word_new_line11 | stick
+matrix
+deny
+wing
+open
+wrap
+rib
+rare
+dwarf
+system
+sister |  
+| bip_39_word_new_line12 | stick
+matrix
+deny
+wing
+open
+wrap
+rib
+rare
+dwarf
+system
+sister
+armed |  
+| bip_39_word_new_line2 | stick
+matrix |  
+| bip_39_word_new_line3 | stick
+matrix
+deny |  
+| bip_39_word_new_line4 | stick
+matrix
+deny
+wing |  
+| bip_39_word_new_line5 | stick
+matrix
+deny
+wing
+open |  
+| bip_39_word_new_line6 | stick
+matrix
+deny
+wing
+open
+wrap |  
+| bip_39_word_new_line7 | stick
+matrix
+deny
+wing
+open
+wrap
+rib |  
+| bip_39_word_new_line8 | stick
+matrix
+deny
+wing
+open
+wrap
+rib
+rare |  
+| bip_39_word_new_line9 | stick
+matrix
+deny
+wing
+open
+wrap
+rib
+rare
+dwarf |  
+| bip_39_word_space_0 | ['stick', 'matrix', 'deny', 'wing', 'open', 'wrap', 'rib', 'rare', 'dwarf', 'system', 'sister', 'armed'] |  
+| bip_39_word_space_1 | stick |  
+| bip_39_word_space_10 | stick matrix deny wing open wrap rib rare dwarf system |  
+| bip_39_word_space_11 | stick matrix deny wing open wrap rib rare dwarf system sister |  
+| bip_39_word_space_12 | stick matrix deny wing open wrap rib rare dwarf system sister armed |  
+| bip_39_word_space_2 | stick matrix |  
+| bip_39_word_space_3 | stick matrix deny |  
+| bip_39_word_space_4 | stick matrix deny wing |  
+| bip_39_word_space_5 | stick matrix deny wing open |  
+| bip_39_word_space_6 | stick matrix deny wing open wrap |  
+| bip_39_word_space_7 | stick matrix deny wing open wrap rib |  
+| bip_39_word_space_8 | stick matrix deny wing open wrap rib rare |  
+| bip_39_word_space_9 | stick matrix deny wing open wrap rib rare dwarf |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

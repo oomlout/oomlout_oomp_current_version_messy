@@ -1,3 +1,186 @@
+bip_39_word_new_br1: online
+bip_39_word_new_br10: online<br>flag<br>all<br>square<br>stairs<br>lady<br>paper<br>level<br>sister<br>artwork
+bip_39_word_new_br11: online<br>flag<br>all<br>square<br>stairs<br>lady<br>paper<br>level<br>sister<br>artwork<br>neck
+bip_39_word_new_br12: online<br>flag<br>all<br>square<br>stairs<br>lady<br>paper<br>level<br>sister<br>artwork<br>neck<br>artwork
+bip_39_word_new_br2: online<br>flag
+bip_39_word_new_br3: online<br>flag<br>all
+bip_39_word_new_br4: online<br>flag<br>all<br>square
+bip_39_word_new_br5: online<br>flag<br>all<br>square<br>stairs
+bip_39_word_new_br6: online<br>flag<br>all<br>square<br>stairs<br>lady
+bip_39_word_new_br7: online<br>flag<br>all<br>square<br>stairs<br>lady<br>paper
+bip_39_word_new_br8: online<br>flag<br>all<br>square<br>stairs<br>lady<br>paper<br>level
+bip_39_word_new_br9: online<br>flag<br>all<br>square<br>stairs<br>lady<br>paper<br>level<br>sister
+bip_39_word_new_line1: online
+bip_39_word_new_line10: 'online
+
+  flag
+
+  all
+
+  square
+
+  stairs
+
+  lady
+
+  paper
+
+  level
+
+  sister
+
+  artwork'
+bip_39_word_new_line11: 'online
+
+  flag
+
+  all
+
+  square
+
+  stairs
+
+  lady
+
+  paper
+
+  level
+
+  sister
+
+  artwork
+
+  neck'
+bip_39_word_new_line12: 'online
+
+  flag
+
+  all
+
+  square
+
+  stairs
+
+  lady
+
+  paper
+
+  level
+
+  sister
+
+  artwork
+
+  neck
+
+  artwork'
+bip_39_word_new_line2: 'online
+
+  flag'
+bip_39_word_new_line3: 'online
+
+  flag
+
+  all'
+bip_39_word_new_line4: 'online
+
+  flag
+
+  all
+
+  square'
+bip_39_word_new_line5: 'online
+
+  flag
+
+  all
+
+  square
+
+  stairs'
+bip_39_word_new_line6: 'online
+
+  flag
+
+  all
+
+  square
+
+  stairs
+
+  lady'
+bip_39_word_new_line7: 'online
+
+  flag
+
+  all
+
+  square
+
+  stairs
+
+  lady
+
+  paper'
+bip_39_word_new_line8: 'online
+
+  flag
+
+  all
+
+  square
+
+  stairs
+
+  lady
+
+  paper
+
+  level'
+bip_39_word_new_line9: 'online
+
+  flag
+
+  all
+
+  square
+
+  stairs
+
+  lady
+
+  paper
+
+  level
+
+  sister'
+bip_39_word_space_0:
+- online
+- flag
+- all
+- square
+- stairs
+- lady
+- paper
+- level
+- sister
+- artwork
+- neck
+- artwork
+bip_39_word_space_1: online
+bip_39_word_space_10: online flag all square stairs lady paper level sister artwork
+bip_39_word_space_11: online flag all square stairs lady paper level sister artwork
+  neck
+bip_39_word_space_12: online flag all square stairs lady paper level sister artwork
+  neck artwork
+bip_39_word_space_2: online flag
+bip_39_word_space_3: online flag all
+bip_39_word_space_4: online flag all square
+bip_39_word_space_5: online flag all square stairs
+bip_39_word_space_6: online flag all square stairs lady
+bip_39_word_space_7: online flag all square stairs lady paper
+bip_39_word_space_8: online flag all square stairs lady paper level
+bip_39_word_space_9: online flag all square stairs lady paper level sister
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

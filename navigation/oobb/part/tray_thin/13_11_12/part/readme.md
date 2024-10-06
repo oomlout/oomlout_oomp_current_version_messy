@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: write force
+  * bip 39 word 3: write force remember
+  * bip 39 word: write force remember property enjoy silent disorder already follow one problem alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | write |  
+| bip_39_word_new_br10 | write<br>force<br>remember<br>property<br>enjoy<br>silent<br>disorder<br>already<br>follow<br>one |  
+| bip_39_word_new_br11 | write<br>force<br>remember<br>property<br>enjoy<br>silent<br>disorder<br>already<br>follow<br>one<br>problem |  
+| bip_39_word_new_br12 | write<br>force<br>remember<br>property<br>enjoy<br>silent<br>disorder<br>already<br>follow<br>one<br>problem<br>alley |  
+| bip_39_word_new_br2 | write<br>force |  
+| bip_39_word_new_br3 | write<br>force<br>remember |  
+| bip_39_word_new_br4 | write<br>force<br>remember<br>property |  
+| bip_39_word_new_br5 | write<br>force<br>remember<br>property<br>enjoy |  
+| bip_39_word_new_br6 | write<br>force<br>remember<br>property<br>enjoy<br>silent |  
+| bip_39_word_new_br7 | write<br>force<br>remember<br>property<br>enjoy<br>silent<br>disorder |  
+| bip_39_word_new_br8 | write<br>force<br>remember<br>property<br>enjoy<br>silent<br>disorder<br>already |  
+| bip_39_word_new_br9 | write<br>force<br>remember<br>property<br>enjoy<br>silent<br>disorder<br>already<br>follow |  
+| bip_39_word_new_line1 | write |  
+| bip_39_word_new_line10 | write
+force
+remember
+property
+enjoy
+silent
+disorder
+already
+follow
+one |  
+| bip_39_word_new_line11 | write
+force
+remember
+property
+enjoy
+silent
+disorder
+already
+follow
+one
+problem |  
+| bip_39_word_new_line12 | write
+force
+remember
+property
+enjoy
+silent
+disorder
+already
+follow
+one
+problem
+alley |  
+| bip_39_word_new_line2 | write
+force |  
+| bip_39_word_new_line3 | write
+force
+remember |  
+| bip_39_word_new_line4 | write
+force
+remember
+property |  
+| bip_39_word_new_line5 | write
+force
+remember
+property
+enjoy |  
+| bip_39_word_new_line6 | write
+force
+remember
+property
+enjoy
+silent |  
+| bip_39_word_new_line7 | write
+force
+remember
+property
+enjoy
+silent
+disorder |  
+| bip_39_word_new_line8 | write
+force
+remember
+property
+enjoy
+silent
+disorder
+already |  
+| bip_39_word_new_line9 | write
+force
+remember
+property
+enjoy
+silent
+disorder
+already
+follow |  
+| bip_39_word_space_0 | ['write', 'force', 'remember', 'property', 'enjoy', 'silent', 'disorder', 'already', 'follow', 'one', 'problem', 'alley'] |  
+| bip_39_word_space_1 | write |  
+| bip_39_word_space_10 | write force remember property enjoy silent disorder already follow one |  
+| bip_39_word_space_11 | write force remember property enjoy silent disorder already follow one problem |  
+| bip_39_word_space_12 | write force remember property enjoy silent disorder already follow one problem alley |  
+| bip_39_word_space_2 | write force |  
+| bip_39_word_space_3 | write force remember |  
+| bip_39_word_space_4 | write force remember property |  
+| bip_39_word_space_5 | write force remember property enjoy |  
+| bip_39_word_space_6 | write force remember property enjoy silent |  
+| bip_39_word_space_7 | write force remember property enjoy silent disorder |  
+| bip_39_word_space_8 | write force remember property enjoy silent disorder already |  
+| bip_39_word_space_9 | write force remember property enjoy silent disorder already follow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

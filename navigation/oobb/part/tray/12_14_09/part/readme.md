@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ski practice
+  * bip 39 word 3: ski practice attack
+  * bip 39 word: ski practice attack purity ladder embrace calm panther blouse scrub permit adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ski |  
+| bip_39_word_new_br10 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace<br>calm<br>panther<br>blouse<br>scrub |  
+| bip_39_word_new_br11 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace<br>calm<br>panther<br>blouse<br>scrub<br>permit |  
+| bip_39_word_new_br12 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace<br>calm<br>panther<br>blouse<br>scrub<br>permit<br>adult |  
+| bip_39_word_new_br2 | ski<br>practice |  
+| bip_39_word_new_br3 | ski<br>practice<br>attack |  
+| bip_39_word_new_br4 | ski<br>practice<br>attack<br>purity |  
+| bip_39_word_new_br5 | ski<br>practice<br>attack<br>purity<br>ladder |  
+| bip_39_word_new_br6 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace |  
+| bip_39_word_new_br7 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace<br>calm |  
+| bip_39_word_new_br8 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace<br>calm<br>panther |  
+| bip_39_word_new_br9 | ski<br>practice<br>attack<br>purity<br>ladder<br>embrace<br>calm<br>panther<br>blouse |  
+| bip_39_word_new_line1 | ski |  
+| bip_39_word_new_line10 | ski
+practice
+attack
+purity
+ladder
+embrace
+calm
+panther
+blouse
+scrub |  
+| bip_39_word_new_line11 | ski
+practice
+attack
+purity
+ladder
+embrace
+calm
+panther
+blouse
+scrub
+permit |  
+| bip_39_word_new_line12 | ski
+practice
+attack
+purity
+ladder
+embrace
+calm
+panther
+blouse
+scrub
+permit
+adult |  
+| bip_39_word_new_line2 | ski
+practice |  
+| bip_39_word_new_line3 | ski
+practice
+attack |  
+| bip_39_word_new_line4 | ski
+practice
+attack
+purity |  
+| bip_39_word_new_line5 | ski
+practice
+attack
+purity
+ladder |  
+| bip_39_word_new_line6 | ski
+practice
+attack
+purity
+ladder
+embrace |  
+| bip_39_word_new_line7 | ski
+practice
+attack
+purity
+ladder
+embrace
+calm |  
+| bip_39_word_new_line8 | ski
+practice
+attack
+purity
+ladder
+embrace
+calm
+panther |  
+| bip_39_word_new_line9 | ski
+practice
+attack
+purity
+ladder
+embrace
+calm
+panther
+blouse |  
+| bip_39_word_space_0 | ['ski', 'practice', 'attack', 'purity', 'ladder', 'embrace', 'calm', 'panther', 'blouse', 'scrub', 'permit', 'adult'] |  
+| bip_39_word_space_1 | ski |  
+| bip_39_word_space_10 | ski practice attack purity ladder embrace calm panther blouse scrub |  
+| bip_39_word_space_11 | ski practice attack purity ladder embrace calm panther blouse scrub permit |  
+| bip_39_word_space_12 | ski practice attack purity ladder embrace calm panther blouse scrub permit adult |  
+| bip_39_word_space_2 | ski practice |  
+| bip_39_word_space_3 | ski practice attack |  
+| bip_39_word_space_4 | ski practice attack purity |  
+| bip_39_word_space_5 | ski practice attack purity ladder |  
+| bip_39_word_space_6 | ski practice attack purity ladder embrace |  
+| bip_39_word_space_7 | ski practice attack purity ladder embrace calm |  
+| bip_39_word_space_8 | ski practice attack purity ladder embrace calm panther |  
+| bip_39_word_space_9 | ski practice attack purity ladder embrace calm panther blouse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

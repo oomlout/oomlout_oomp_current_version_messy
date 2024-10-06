@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ensure
+bip_39_word_new_br10: ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll
+bip_39_word_new_br11: ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll<br>private
+bip_39_word_new_br12: ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn<br>doll<br>private<br>achieve
+bip_39_word_new_br2: ensure<br>happy
+bip_39_word_new_br3: ensure<br>happy<br>sting
+bip_39_word_new_br4: ensure<br>happy<br>sting<br>review
+bip_39_word_new_br5: ensure<br>happy<br>sting<br>review<br>guess
+bip_39_word_new_br6: ensure<br>happy<br>sting<br>review<br>guess<br>another
+bip_39_word_new_br7: ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon
+bip_39_word_new_br8: ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume
+bip_39_word_new_br9: ensure<br>happy<br>sting<br>review<br>guess<br>another<br>salon<br>volume<br>autumn
+bip_39_word_new_line1: ensure
+bip_39_word_new_line10: 'ensure
+
+  happy
+
+  sting
+
+  review
+
+  guess
+
+  another
+
+  salon
+
+  volume
+
+  autumn
+
+  doll'
+bip_39_word_new_line11: 'ensure
+
+  happy
+
+  sting
+
+  review
+
+  guess
+
+  another
+
+  salon
+
+  volume
+
+  autumn
+
+  doll
+
+  private'
+bip_39_word_new_line12: 'ensure
+
+  happy
+
+  sting
+
+  review
+
+  guess
+
+  another
+
+  salon
+
+  volume
+
+  autumn
+
+  doll
+
+  private
+
+  achieve'
+bip_39_word_new_line2: 'ensure
+
+  happy'
+bip_39_word_new_line3: 'ensure
+
+  happy
+
+  sting'
+bip_39_word_new_line4: 'ensure
+
+  happy
+
+  sting
+
+  review'
+bip_39_word_new_line5: 'ensure
+
+  happy
+
+  sting
+
+  review
+
+  guess'
+bip_39_word_new_line6: 'ensure
+
+  happy
+
+  sting
+
+  review
+
+  guess
+
+  another'
+bip_39_word_new_line7: 'ensure
+
+  happy
+
+  sting
+
+  review
+
+  guess
+
+  another
+
+  salon'
+bip_39_word_new_line8: 'ensure
+
+  happy
+
+  sting
+
+  review
+
+  guess
+
+  another
+
+  salon
+
+  volume'
+bip_39_word_new_line9: 'ensure
+
+  happy
+
+  sting
+
+  review
+
+  guess
+
+  another
+
+  salon
+
+  volume
+
+  autumn'
+bip_39_word_space_0:
+- ensure
+- happy
+- sting
+- review
+- guess
+- another
+- salon
+- volume
+- autumn
+- doll
+- private
+- achieve
+bip_39_word_space_1: ensure
+bip_39_word_space_10: ensure happy sting review guess another salon volume autumn
+  doll
+bip_39_word_space_11: ensure happy sting review guess another salon volume autumn
+  doll private
+bip_39_word_space_12: ensure happy sting review guess another salon volume autumn
+  doll private achieve
+bip_39_word_space_2: ensure happy
+bip_39_word_space_3: ensure happy sting
+bip_39_word_space_4: ensure happy sting review
+bip_39_word_space_5: ensure happy sting review guess
+bip_39_word_space_6: ensure happy sting review guess another
+bip_39_word_space_7: ensure happy sting review guess another salon
+bip_39_word_space_8: ensure happy sting review guess another salon volume
+bip_39_word_space_9: ensure happy sting review guess another salon volume autumn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

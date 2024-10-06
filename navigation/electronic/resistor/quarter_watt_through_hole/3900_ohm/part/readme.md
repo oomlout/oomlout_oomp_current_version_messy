@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frequent grit
+  * bip 39 word 3: frequent grit team
+  * bip 39 word: frequent grit team trumpet reward crash scorpion tool nose anchor tired anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frequent |  
+| bip_39_word_new_br10 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash<br>scorpion<br>tool<br>nose<br>anchor |  
+| bip_39_word_new_br11 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash<br>scorpion<br>tool<br>nose<br>anchor<br>tired |  
+| bip_39_word_new_br12 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash<br>scorpion<br>tool<br>nose<br>anchor<br>tired<br>anchor |  
+| bip_39_word_new_br2 | frequent<br>grit |  
+| bip_39_word_new_br3 | frequent<br>grit<br>team |  
+| bip_39_word_new_br4 | frequent<br>grit<br>team<br>trumpet |  
+| bip_39_word_new_br5 | frequent<br>grit<br>team<br>trumpet<br>reward |  
+| bip_39_word_new_br6 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash |  
+| bip_39_word_new_br7 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash<br>scorpion |  
+| bip_39_word_new_br8 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash<br>scorpion<br>tool |  
+| bip_39_word_new_br9 | frequent<br>grit<br>team<br>trumpet<br>reward<br>crash<br>scorpion<br>tool<br>nose |  
+| bip_39_word_new_line1 | frequent |  
+| bip_39_word_new_line10 | frequent
+grit
+team
+trumpet
+reward
+crash
+scorpion
+tool
+nose
+anchor |  
+| bip_39_word_new_line11 | frequent
+grit
+team
+trumpet
+reward
+crash
+scorpion
+tool
+nose
+anchor
+tired |  
+| bip_39_word_new_line12 | frequent
+grit
+team
+trumpet
+reward
+crash
+scorpion
+tool
+nose
+anchor
+tired
+anchor |  
+| bip_39_word_new_line2 | frequent
+grit |  
+| bip_39_word_new_line3 | frequent
+grit
+team |  
+| bip_39_word_new_line4 | frequent
+grit
+team
+trumpet |  
+| bip_39_word_new_line5 | frequent
+grit
+team
+trumpet
+reward |  
+| bip_39_word_new_line6 | frequent
+grit
+team
+trumpet
+reward
+crash |  
+| bip_39_word_new_line7 | frequent
+grit
+team
+trumpet
+reward
+crash
+scorpion |  
+| bip_39_word_new_line8 | frequent
+grit
+team
+trumpet
+reward
+crash
+scorpion
+tool |  
+| bip_39_word_new_line9 | frequent
+grit
+team
+trumpet
+reward
+crash
+scorpion
+tool
+nose |  
+| bip_39_word_space_0 | ['frequent', 'grit', 'team', 'trumpet', 'reward', 'crash', 'scorpion', 'tool', 'nose', 'anchor', 'tired', 'anchor'] |  
+| bip_39_word_space_1 | frequent |  
+| bip_39_word_space_10 | frequent grit team trumpet reward crash scorpion tool nose anchor |  
+| bip_39_word_space_11 | frequent grit team trumpet reward crash scorpion tool nose anchor tired |  
+| bip_39_word_space_12 | frequent grit team trumpet reward crash scorpion tool nose anchor tired anchor |  
+| bip_39_word_space_2 | frequent grit |  
+| bip_39_word_space_3 | frequent grit team |  
+| bip_39_word_space_4 | frequent grit team trumpet |  
+| bip_39_word_space_5 | frequent grit team trumpet reward |  
+| bip_39_word_space_6 | frequent grit team trumpet reward crash |  
+| bip_39_word_space_7 | frequent grit team trumpet reward crash scorpion |  
+| bip_39_word_space_8 | frequent grit team trumpet reward crash scorpion tool |  
+| bip_39_word_space_9 | frequent grit team trumpet reward crash scorpion tool nose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

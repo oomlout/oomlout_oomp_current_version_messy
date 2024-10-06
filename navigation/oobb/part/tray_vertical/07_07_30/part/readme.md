@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boat old
+  * bip 39 word 3: boat old giant
+  * bip 39 word: boat old giant bone bullet hour zone wool glare alcohol duck acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boat |  
+| bip_39_word_new_br10 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol |  
+| bip_39_word_new_br11 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol<br>duck |  
+| bip_39_word_new_br12 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare<br>alcohol<br>duck<br>acquire |  
+| bip_39_word_new_br2 | boat<br>old |  
+| bip_39_word_new_br3 | boat<br>old<br>giant |  
+| bip_39_word_new_br4 | boat<br>old<br>giant<br>bone |  
+| bip_39_word_new_br5 | boat<br>old<br>giant<br>bone<br>bullet |  
+| bip_39_word_new_br6 | boat<br>old<br>giant<br>bone<br>bullet<br>hour |  
+| bip_39_word_new_br7 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone |  
+| bip_39_word_new_br8 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool |  
+| bip_39_word_new_br9 | boat<br>old<br>giant<br>bone<br>bullet<br>hour<br>zone<br>wool<br>glare |  
+| bip_39_word_new_line1 | boat |  
+| bip_39_word_new_line10 | boat
+old
+giant
+bone
+bullet
+hour
+zone
+wool
+glare
+alcohol |  
+| bip_39_word_new_line11 | boat
+old
+giant
+bone
+bullet
+hour
+zone
+wool
+glare
+alcohol
+duck |  
+| bip_39_word_new_line12 | boat
+old
+giant
+bone
+bullet
+hour
+zone
+wool
+glare
+alcohol
+duck
+acquire |  
+| bip_39_word_new_line2 | boat
+old |  
+| bip_39_word_new_line3 | boat
+old
+giant |  
+| bip_39_word_new_line4 | boat
+old
+giant
+bone |  
+| bip_39_word_new_line5 | boat
+old
+giant
+bone
+bullet |  
+| bip_39_word_new_line6 | boat
+old
+giant
+bone
+bullet
+hour |  
+| bip_39_word_new_line7 | boat
+old
+giant
+bone
+bullet
+hour
+zone |  
+| bip_39_word_new_line8 | boat
+old
+giant
+bone
+bullet
+hour
+zone
+wool |  
+| bip_39_word_new_line9 | boat
+old
+giant
+bone
+bullet
+hour
+zone
+wool
+glare |  
+| bip_39_word_space_0 | ['boat', 'old', 'giant', 'bone', 'bullet', 'hour', 'zone', 'wool', 'glare', 'alcohol', 'duck', 'acquire'] |  
+| bip_39_word_space_1 | boat |  
+| bip_39_word_space_10 | boat old giant bone bullet hour zone wool glare alcohol |  
+| bip_39_word_space_11 | boat old giant bone bullet hour zone wool glare alcohol duck |  
+| bip_39_word_space_12 | boat old giant bone bullet hour zone wool glare alcohol duck acquire |  
+| bip_39_word_space_2 | boat old |  
+| bip_39_word_space_3 | boat old giant |  
+| bip_39_word_space_4 | boat old giant bone |  
+| bip_39_word_space_5 | boat old giant bone bullet |  
+| bip_39_word_space_6 | boat old giant bone bullet hour |  
+| bip_39_word_space_7 | boat old giant bone bullet hour zone |  
+| bip_39_word_space_8 | boat old giant bone bullet hour zone wool |  
+| bip_39_word_space_9 | boat old giant bone bullet hour zone wool glare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

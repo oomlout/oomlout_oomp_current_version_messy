@@ -1,3 +1,186 @@
+bip_39_word_new_br1: skirt
+bip_39_word_new_br10: skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front
+bip_39_word_new_br11: skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front<br>lazy
+bip_39_word_new_br12: skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil<br>front<br>lazy<br>apple
+bip_39_word_new_br2: skirt<br>rare
+bip_39_word_new_br3: skirt<br>rare<br>private
+bip_39_word_new_br4: skirt<br>rare<br>private<br>pretty
+bip_39_word_new_br5: skirt<br>rare<br>private<br>pretty<br>wave
+bip_39_word_new_br6: skirt<br>rare<br>private<br>pretty<br>wave<br>eight
+bip_39_word_new_br7: skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet
+bip_39_word_new_br8: skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast
+bip_39_word_new_br9: skirt<br>rare<br>private<br>pretty<br>wave<br>eight<br>velvet<br>coast<br>pupil
+bip_39_word_new_line1: skirt
+bip_39_word_new_line10: 'skirt
+
+  rare
+
+  private
+
+  pretty
+
+  wave
+
+  eight
+
+  velvet
+
+  coast
+
+  pupil
+
+  front'
+bip_39_word_new_line11: 'skirt
+
+  rare
+
+  private
+
+  pretty
+
+  wave
+
+  eight
+
+  velvet
+
+  coast
+
+  pupil
+
+  front
+
+  lazy'
+bip_39_word_new_line12: 'skirt
+
+  rare
+
+  private
+
+  pretty
+
+  wave
+
+  eight
+
+  velvet
+
+  coast
+
+  pupil
+
+  front
+
+  lazy
+
+  apple'
+bip_39_word_new_line2: 'skirt
+
+  rare'
+bip_39_word_new_line3: 'skirt
+
+  rare
+
+  private'
+bip_39_word_new_line4: 'skirt
+
+  rare
+
+  private
+
+  pretty'
+bip_39_word_new_line5: 'skirt
+
+  rare
+
+  private
+
+  pretty
+
+  wave'
+bip_39_word_new_line6: 'skirt
+
+  rare
+
+  private
+
+  pretty
+
+  wave
+
+  eight'
+bip_39_word_new_line7: 'skirt
+
+  rare
+
+  private
+
+  pretty
+
+  wave
+
+  eight
+
+  velvet'
+bip_39_word_new_line8: 'skirt
+
+  rare
+
+  private
+
+  pretty
+
+  wave
+
+  eight
+
+  velvet
+
+  coast'
+bip_39_word_new_line9: 'skirt
+
+  rare
+
+  private
+
+  pretty
+
+  wave
+
+  eight
+
+  velvet
+
+  coast
+
+  pupil'
+bip_39_word_space_0:
+- skirt
+- rare
+- private
+- pretty
+- wave
+- eight
+- velvet
+- coast
+- pupil
+- front
+- lazy
+- apple
+bip_39_word_space_1: skirt
+bip_39_word_space_10: skirt rare private pretty wave eight velvet coast pupil front
+bip_39_word_space_11: skirt rare private pretty wave eight velvet coast pupil front
+  lazy
+bip_39_word_space_12: skirt rare private pretty wave eight velvet coast pupil front
+  lazy apple
+bip_39_word_space_2: skirt rare
+bip_39_word_space_3: skirt rare private
+bip_39_word_space_4: skirt rare private pretty
+bip_39_word_space_5: skirt rare private pretty wave
+bip_39_word_space_6: skirt rare private pretty wave eight
+bip_39_word_space_7: skirt rare private pretty wave eight velvet
+bip_39_word_space_8: skirt rare private pretty wave eight velvet coast
+bip_39_word_space_9: skirt rare private pretty wave eight velvet coast pupil
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

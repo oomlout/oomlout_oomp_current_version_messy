@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: office save
+  * bip 39 word 3: office save indoor
+  * bip 39 word: office save indoor rocket cover wedding shiver people leopard unveil badge around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | office |  
+| bip_39_word_new_br10 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding<br>shiver<br>people<br>leopard<br>unveil |  
+| bip_39_word_new_br11 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding<br>shiver<br>people<br>leopard<br>unveil<br>badge |  
+| bip_39_word_new_br12 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding<br>shiver<br>people<br>leopard<br>unveil<br>badge<br>around |  
+| bip_39_word_new_br2 | office<br>save |  
+| bip_39_word_new_br3 | office<br>save<br>indoor |  
+| bip_39_word_new_br4 | office<br>save<br>indoor<br>rocket |  
+| bip_39_word_new_br5 | office<br>save<br>indoor<br>rocket<br>cover |  
+| bip_39_word_new_br6 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding |  
+| bip_39_word_new_br7 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding<br>shiver |  
+| bip_39_word_new_br8 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding<br>shiver<br>people |  
+| bip_39_word_new_br9 | office<br>save<br>indoor<br>rocket<br>cover<br>wedding<br>shiver<br>people<br>leopard |  
+| bip_39_word_new_line1 | office |  
+| bip_39_word_new_line10 | office
+save
+indoor
+rocket
+cover
+wedding
+shiver
+people
+leopard
+unveil |  
+| bip_39_word_new_line11 | office
+save
+indoor
+rocket
+cover
+wedding
+shiver
+people
+leopard
+unveil
+badge |  
+| bip_39_word_new_line12 | office
+save
+indoor
+rocket
+cover
+wedding
+shiver
+people
+leopard
+unveil
+badge
+around |  
+| bip_39_word_new_line2 | office
+save |  
+| bip_39_word_new_line3 | office
+save
+indoor |  
+| bip_39_word_new_line4 | office
+save
+indoor
+rocket |  
+| bip_39_word_new_line5 | office
+save
+indoor
+rocket
+cover |  
+| bip_39_word_new_line6 | office
+save
+indoor
+rocket
+cover
+wedding |  
+| bip_39_word_new_line7 | office
+save
+indoor
+rocket
+cover
+wedding
+shiver |  
+| bip_39_word_new_line8 | office
+save
+indoor
+rocket
+cover
+wedding
+shiver
+people |  
+| bip_39_word_new_line9 | office
+save
+indoor
+rocket
+cover
+wedding
+shiver
+people
+leopard |  
+| bip_39_word_space_0 | ['office', 'save', 'indoor', 'rocket', 'cover', 'wedding', 'shiver', 'people', 'leopard', 'unveil', 'badge', 'around'] |  
+| bip_39_word_space_1 | office |  
+| bip_39_word_space_10 | office save indoor rocket cover wedding shiver people leopard unveil |  
+| bip_39_word_space_11 | office save indoor rocket cover wedding shiver people leopard unveil badge |  
+| bip_39_word_space_12 | office save indoor rocket cover wedding shiver people leopard unveil badge around |  
+| bip_39_word_space_2 | office save |  
+| bip_39_word_space_3 | office save indoor |  
+| bip_39_word_space_4 | office save indoor rocket |  
+| bip_39_word_space_5 | office save indoor rocket cover |  
+| bip_39_word_space_6 | office save indoor rocket cover wedding |  
+| bip_39_word_space_7 | office save indoor rocket cover wedding shiver |  
+| bip_39_word_space_8 | office save indoor rocket cover wedding shiver people |  
+| bip_39_word_space_9 | office save indoor rocket cover wedding shiver people leopard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

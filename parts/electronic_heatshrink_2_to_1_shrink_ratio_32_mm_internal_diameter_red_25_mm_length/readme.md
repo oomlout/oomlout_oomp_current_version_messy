@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: media next
+  * bip 39 word 3: media next ill
+  * bip 39 word: media next ill portion cream blade gasp outside love please hub arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | media |  
+| bip_39_word_new_br10 | media<br>next<br>ill<br>portion<br>cream<br>blade<br>gasp<br>outside<br>love<br>please |  
+| bip_39_word_new_br11 | media<br>next<br>ill<br>portion<br>cream<br>blade<br>gasp<br>outside<br>love<br>please<br>hub |  
+| bip_39_word_new_br12 | media<br>next<br>ill<br>portion<br>cream<br>blade<br>gasp<br>outside<br>love<br>please<br>hub<br>arrest |  
+| bip_39_word_new_br2 | media<br>next |  
+| bip_39_word_new_br3 | media<br>next<br>ill |  
+| bip_39_word_new_br4 | media<br>next<br>ill<br>portion |  
+| bip_39_word_new_br5 | media<br>next<br>ill<br>portion<br>cream |  
+| bip_39_word_new_br6 | media<br>next<br>ill<br>portion<br>cream<br>blade |  
+| bip_39_word_new_br7 | media<br>next<br>ill<br>portion<br>cream<br>blade<br>gasp |  
+| bip_39_word_new_br8 | media<br>next<br>ill<br>portion<br>cream<br>blade<br>gasp<br>outside |  
+| bip_39_word_new_br9 | media<br>next<br>ill<br>portion<br>cream<br>blade<br>gasp<br>outside<br>love |  
+| bip_39_word_new_line1 | media |  
+| bip_39_word_new_line10 | media
+next
+ill
+portion
+cream
+blade
+gasp
+outside
+love
+please |  
+| bip_39_word_new_line11 | media
+next
+ill
+portion
+cream
+blade
+gasp
+outside
+love
+please
+hub |  
+| bip_39_word_new_line12 | media
+next
+ill
+portion
+cream
+blade
+gasp
+outside
+love
+please
+hub
+arrest |  
+| bip_39_word_new_line2 | media
+next |  
+| bip_39_word_new_line3 | media
+next
+ill |  
+| bip_39_word_new_line4 | media
+next
+ill
+portion |  
+| bip_39_word_new_line5 | media
+next
+ill
+portion
+cream |  
+| bip_39_word_new_line6 | media
+next
+ill
+portion
+cream
+blade |  
+| bip_39_word_new_line7 | media
+next
+ill
+portion
+cream
+blade
+gasp |  
+| bip_39_word_new_line8 | media
+next
+ill
+portion
+cream
+blade
+gasp
+outside |  
+| bip_39_word_new_line9 | media
+next
+ill
+portion
+cream
+blade
+gasp
+outside
+love |  
+| bip_39_word_space_0 | ['media', 'next', 'ill', 'portion', 'cream', 'blade', 'gasp', 'outside', 'love', 'please', 'hub', 'arrest'] |  
+| bip_39_word_space_1 | media |  
+| bip_39_word_space_10 | media next ill portion cream blade gasp outside love please |  
+| bip_39_word_space_11 | media next ill portion cream blade gasp outside love please hub |  
+| bip_39_word_space_12 | media next ill portion cream blade gasp outside love please hub arrest |  
+| bip_39_word_space_2 | media next |  
+| bip_39_word_space_3 | media next ill |  
+| bip_39_word_space_4 | media next ill portion |  
+| bip_39_word_space_5 | media next ill portion cream |  
+| bip_39_word_space_6 | media next ill portion cream blade |  
+| bip_39_word_space_7 | media next ill portion cream blade gasp |  
+| bip_39_word_space_8 | media next ill portion cream blade gasp outside |  
+| bip_39_word_space_9 | media next ill portion cream blade gasp outside love |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: output valid
+  * bip 39 word 3: output valid host
+  * bip 39 word: output valid host glow strike pulp actor click damp sing impulse appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | output |  
+| bip_39_word_new_br10 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing |  
+| bip_39_word_new_br11 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse |  
+| bip_39_word_new_br12 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse<br>appear |  
+| bip_39_word_new_br2 | output<br>valid |  
+| bip_39_word_new_br3 | output<br>valid<br>host |  
+| bip_39_word_new_br4 | output<br>valid<br>host<br>glow |  
+| bip_39_word_new_br5 | output<br>valid<br>host<br>glow<br>strike |  
+| bip_39_word_new_br6 | output<br>valid<br>host<br>glow<br>strike<br>pulp |  
+| bip_39_word_new_br7 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor |  
+| bip_39_word_new_br8 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click |  
+| bip_39_word_new_br9 | output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp |  
+| bip_39_word_new_line1 | output |  
+| bip_39_word_new_line10 | output
+valid
+host
+glow
+strike
+pulp
+actor
+click
+damp
+sing |  
+| bip_39_word_new_line11 | output
+valid
+host
+glow
+strike
+pulp
+actor
+click
+damp
+sing
+impulse |  
+| bip_39_word_new_line12 | output
+valid
+host
+glow
+strike
+pulp
+actor
+click
+damp
+sing
+impulse
+appear |  
+| bip_39_word_new_line2 | output
+valid |  
+| bip_39_word_new_line3 | output
+valid
+host |  
+| bip_39_word_new_line4 | output
+valid
+host
+glow |  
+| bip_39_word_new_line5 | output
+valid
+host
+glow
+strike |  
+| bip_39_word_new_line6 | output
+valid
+host
+glow
+strike
+pulp |  
+| bip_39_word_new_line7 | output
+valid
+host
+glow
+strike
+pulp
+actor |  
+| bip_39_word_new_line8 | output
+valid
+host
+glow
+strike
+pulp
+actor
+click |  
+| bip_39_word_new_line9 | output
+valid
+host
+glow
+strike
+pulp
+actor
+click
+damp |  
+| bip_39_word_space_0 | ['output', 'valid', 'host', 'glow', 'strike', 'pulp', 'actor', 'click', 'damp', 'sing', 'impulse', 'appear'] |  
+| bip_39_word_space_1 | output |  
+| bip_39_word_space_10 | output valid host glow strike pulp actor click damp sing |  
+| bip_39_word_space_11 | output valid host glow strike pulp actor click damp sing impulse |  
+| bip_39_word_space_12 | output valid host glow strike pulp actor click damp sing impulse appear |  
+| bip_39_word_space_2 | output valid |  
+| bip_39_word_space_3 | output valid host |  
+| bip_39_word_space_4 | output valid host glow |  
+| bip_39_word_space_5 | output valid host glow strike |  
+| bip_39_word_space_6 | output valid host glow strike pulp |  
+| bip_39_word_space_7 | output valid host glow strike pulp actor |  
+| bip_39_word_space_8 | output valid host glow strike pulp actor click |  
+| bip_39_word_space_9 | output valid host glow strike pulp actor click damp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

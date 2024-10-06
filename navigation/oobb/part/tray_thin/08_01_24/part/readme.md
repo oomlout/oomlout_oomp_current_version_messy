@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: approve culture
+  * bip 39 word 3: approve culture coral
+  * bip 39 word: approve culture coral tooth pelican unveil pig knock bracket ride bomb always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | approve |  
+| bip_39_word_new_br10 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket<br>ride |  
+| bip_39_word_new_br11 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket<br>ride<br>bomb |  
+| bip_39_word_new_br12 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket<br>ride<br>bomb<br>always |  
+| bip_39_word_new_br2 | approve<br>culture |  
+| bip_39_word_new_br3 | approve<br>culture<br>coral |  
+| bip_39_word_new_br4 | approve<br>culture<br>coral<br>tooth |  
+| bip_39_word_new_br5 | approve<br>culture<br>coral<br>tooth<br>pelican |  
+| bip_39_word_new_br6 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil |  
+| bip_39_word_new_br7 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig |  
+| bip_39_word_new_br8 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock |  
+| bip_39_word_new_br9 | approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket |  
+| bip_39_word_new_line1 | approve |  
+| bip_39_word_new_line10 | approve
+culture
+coral
+tooth
+pelican
+unveil
+pig
+knock
+bracket
+ride |  
+| bip_39_word_new_line11 | approve
+culture
+coral
+tooth
+pelican
+unveil
+pig
+knock
+bracket
+ride
+bomb |  
+| bip_39_word_new_line12 | approve
+culture
+coral
+tooth
+pelican
+unveil
+pig
+knock
+bracket
+ride
+bomb
+always |  
+| bip_39_word_new_line2 | approve
+culture |  
+| bip_39_word_new_line3 | approve
+culture
+coral |  
+| bip_39_word_new_line4 | approve
+culture
+coral
+tooth |  
+| bip_39_word_new_line5 | approve
+culture
+coral
+tooth
+pelican |  
+| bip_39_word_new_line6 | approve
+culture
+coral
+tooth
+pelican
+unveil |  
+| bip_39_word_new_line7 | approve
+culture
+coral
+tooth
+pelican
+unveil
+pig |  
+| bip_39_word_new_line8 | approve
+culture
+coral
+tooth
+pelican
+unveil
+pig
+knock |  
+| bip_39_word_new_line9 | approve
+culture
+coral
+tooth
+pelican
+unveil
+pig
+knock
+bracket |  
+| bip_39_word_space_0 | ['approve', 'culture', 'coral', 'tooth', 'pelican', 'unveil', 'pig', 'knock', 'bracket', 'ride', 'bomb', 'always'] |  
+| bip_39_word_space_1 | approve |  
+| bip_39_word_space_10 | approve culture coral tooth pelican unveil pig knock bracket ride |  
+| bip_39_word_space_11 | approve culture coral tooth pelican unveil pig knock bracket ride bomb |  
+| bip_39_word_space_12 | approve culture coral tooth pelican unveil pig knock bracket ride bomb always |  
+| bip_39_word_space_2 | approve culture |  
+| bip_39_word_space_3 | approve culture coral |  
+| bip_39_word_space_4 | approve culture coral tooth |  
+| bip_39_word_space_5 | approve culture coral tooth pelican |  
+| bip_39_word_space_6 | approve culture coral tooth pelican unveil |  
+| bip_39_word_space_7 | approve culture coral tooth pelican unveil pig |  
+| bip_39_word_space_8 | approve culture coral tooth pelican unveil pig knock |  
+| bip_39_word_space_9 | approve culture coral tooth pelican unveil pig knock bracket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

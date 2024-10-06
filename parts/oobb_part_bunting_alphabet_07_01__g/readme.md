@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: g
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: panda physical
+  * bip 39 word 3: panda physical balcony
+  * bip 39 word: panda physical balcony paper maze code yard valid endorse eager ritual arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | panda |  
+| bip_39_word_new_br10 | panda<br>physical<br>balcony<br>paper<br>maze<br>code<br>yard<br>valid<br>endorse<br>eager |  
+| bip_39_word_new_br11 | panda<br>physical<br>balcony<br>paper<br>maze<br>code<br>yard<br>valid<br>endorse<br>eager<br>ritual |  
+| bip_39_word_new_br12 | panda<br>physical<br>balcony<br>paper<br>maze<br>code<br>yard<br>valid<br>endorse<br>eager<br>ritual<br>arena |  
+| bip_39_word_new_br2 | panda<br>physical |  
+| bip_39_word_new_br3 | panda<br>physical<br>balcony |  
+| bip_39_word_new_br4 | panda<br>physical<br>balcony<br>paper |  
+| bip_39_word_new_br5 | panda<br>physical<br>balcony<br>paper<br>maze |  
+| bip_39_word_new_br6 | panda<br>physical<br>balcony<br>paper<br>maze<br>code |  
+| bip_39_word_new_br7 | panda<br>physical<br>balcony<br>paper<br>maze<br>code<br>yard |  
+| bip_39_word_new_br8 | panda<br>physical<br>balcony<br>paper<br>maze<br>code<br>yard<br>valid |  
+| bip_39_word_new_br9 | panda<br>physical<br>balcony<br>paper<br>maze<br>code<br>yard<br>valid<br>endorse |  
+| bip_39_word_new_line1 | panda |  
+| bip_39_word_new_line10 | panda
+physical
+balcony
+paper
+maze
+code
+yard
+valid
+endorse
+eager |  
+| bip_39_word_new_line11 | panda
+physical
+balcony
+paper
+maze
+code
+yard
+valid
+endorse
+eager
+ritual |  
+| bip_39_word_new_line12 | panda
+physical
+balcony
+paper
+maze
+code
+yard
+valid
+endorse
+eager
+ritual
+arena |  
+| bip_39_word_new_line2 | panda
+physical |  
+| bip_39_word_new_line3 | panda
+physical
+balcony |  
+| bip_39_word_new_line4 | panda
+physical
+balcony
+paper |  
+| bip_39_word_new_line5 | panda
+physical
+balcony
+paper
+maze |  
+| bip_39_word_new_line6 | panda
+physical
+balcony
+paper
+maze
+code |  
+| bip_39_word_new_line7 | panda
+physical
+balcony
+paper
+maze
+code
+yard |  
+| bip_39_word_new_line8 | panda
+physical
+balcony
+paper
+maze
+code
+yard
+valid |  
+| bip_39_word_new_line9 | panda
+physical
+balcony
+paper
+maze
+code
+yard
+valid
+endorse |  
+| bip_39_word_space_0 | ['panda', 'physical', 'balcony', 'paper', 'maze', 'code', 'yard', 'valid', 'endorse', 'eager', 'ritual', 'arena'] |  
+| bip_39_word_space_1 | panda |  
+| bip_39_word_space_10 | panda physical balcony paper maze code yard valid endorse eager |  
+| bip_39_word_space_11 | panda physical balcony paper maze code yard valid endorse eager ritual |  
+| bip_39_word_space_12 | panda physical balcony paper maze code yard valid endorse eager ritual arena |  
+| bip_39_word_space_2 | panda physical |  
+| bip_39_word_space_3 | panda physical balcony |  
+| bip_39_word_space_4 | panda physical balcony paper |  
+| bip_39_word_space_5 | panda physical balcony paper maze |  
+| bip_39_word_space_6 | panda physical balcony paper maze code |  
+| bip_39_word_space_7 | panda physical balcony paper maze code yard |  
+| bip_39_word_space_8 | panda physical balcony paper maze code yard valid |  
+| bip_39_word_space_9 | panda physical balcony paper maze code yard valid endorse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

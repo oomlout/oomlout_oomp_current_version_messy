@@ -1,3 +1,186 @@
+bip_39_word_new_br1: easily
+bip_39_word_new_br10: easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point
+bip_39_word_new_br11: easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point<br>harvest
+bip_39_word_new_br12: easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster<br>point<br>harvest<br>ask
+bip_39_word_new_br2: easily<br>often
+bip_39_word_new_br3: easily<br>often<br>dirt
+bip_39_word_new_br4: easily<br>often<br>dirt<br>become
+bip_39_word_new_br5: easily<br>often<br>dirt<br>become<br>entire
+bip_39_word_new_br6: easily<br>often<br>dirt<br>become<br>entire<br>obtain
+bip_39_word_new_br7: easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box
+bip_39_word_new_br8: easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant
+bip_39_word_new_br9: easily<br>often<br>dirt<br>become<br>entire<br>obtain<br>box<br>peasant<br>monster
+bip_39_word_new_line1: easily
+bip_39_word_new_line10: 'easily
+
+  often
+
+  dirt
+
+  become
+
+  entire
+
+  obtain
+
+  box
+
+  peasant
+
+  monster
+
+  point'
+bip_39_word_new_line11: 'easily
+
+  often
+
+  dirt
+
+  become
+
+  entire
+
+  obtain
+
+  box
+
+  peasant
+
+  monster
+
+  point
+
+  harvest'
+bip_39_word_new_line12: 'easily
+
+  often
+
+  dirt
+
+  become
+
+  entire
+
+  obtain
+
+  box
+
+  peasant
+
+  monster
+
+  point
+
+  harvest
+
+  ask'
+bip_39_word_new_line2: 'easily
+
+  often'
+bip_39_word_new_line3: 'easily
+
+  often
+
+  dirt'
+bip_39_word_new_line4: 'easily
+
+  often
+
+  dirt
+
+  become'
+bip_39_word_new_line5: 'easily
+
+  often
+
+  dirt
+
+  become
+
+  entire'
+bip_39_word_new_line6: 'easily
+
+  often
+
+  dirt
+
+  become
+
+  entire
+
+  obtain'
+bip_39_word_new_line7: 'easily
+
+  often
+
+  dirt
+
+  become
+
+  entire
+
+  obtain
+
+  box'
+bip_39_word_new_line8: 'easily
+
+  often
+
+  dirt
+
+  become
+
+  entire
+
+  obtain
+
+  box
+
+  peasant'
+bip_39_word_new_line9: 'easily
+
+  often
+
+  dirt
+
+  become
+
+  entire
+
+  obtain
+
+  box
+
+  peasant
+
+  monster'
+bip_39_word_space_0:
+- easily
+- often
+- dirt
+- become
+- entire
+- obtain
+- box
+- peasant
+- monster
+- point
+- harvest
+- ask
+bip_39_word_space_1: easily
+bip_39_word_space_10: easily often dirt become entire obtain box peasant monster point
+bip_39_word_space_11: easily often dirt become entire obtain box peasant monster point
+  harvest
+bip_39_word_space_12: easily often dirt become entire obtain box peasant monster point
+  harvest ask
+bip_39_word_space_2: easily often
+bip_39_word_space_3: easily often dirt
+bip_39_word_space_4: easily often dirt become
+bip_39_word_space_5: easily often dirt become entire
+bip_39_word_space_6: easily often dirt become entire obtain
+bip_39_word_space_7: easily often dirt become entire obtain box
+bip_39_word_space_8: easily often dirt become entire obtain box peasant
+bip_39_word_space_9: easily often dirt become entire obtain box peasant monster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

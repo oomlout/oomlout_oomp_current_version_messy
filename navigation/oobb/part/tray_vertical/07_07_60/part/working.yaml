@@ -1,3 +1,187 @@
+bip_39_word_new_br1: orbit
+bip_39_word_new_br10: orbit<br>survey<br>trash<br>govern<br>fence<br>chronic<br>rebel<br>fever<br>electric<br>connect
+bip_39_word_new_br11: orbit<br>survey<br>trash<br>govern<br>fence<br>chronic<br>rebel<br>fever<br>electric<br>connect<br>about
+bip_39_word_new_br12: orbit<br>survey<br>trash<br>govern<br>fence<br>chronic<br>rebel<br>fever<br>electric<br>connect<br>about<br>aerobic
+bip_39_word_new_br2: orbit<br>survey
+bip_39_word_new_br3: orbit<br>survey<br>trash
+bip_39_word_new_br4: orbit<br>survey<br>trash<br>govern
+bip_39_word_new_br5: orbit<br>survey<br>trash<br>govern<br>fence
+bip_39_word_new_br6: orbit<br>survey<br>trash<br>govern<br>fence<br>chronic
+bip_39_word_new_br7: orbit<br>survey<br>trash<br>govern<br>fence<br>chronic<br>rebel
+bip_39_word_new_br8: orbit<br>survey<br>trash<br>govern<br>fence<br>chronic<br>rebel<br>fever
+bip_39_word_new_br9: orbit<br>survey<br>trash<br>govern<br>fence<br>chronic<br>rebel<br>fever<br>electric
+bip_39_word_new_line1: orbit
+bip_39_word_new_line10: 'orbit
+
+  survey
+
+  trash
+
+  govern
+
+  fence
+
+  chronic
+
+  rebel
+
+  fever
+
+  electric
+
+  connect'
+bip_39_word_new_line11: 'orbit
+
+  survey
+
+  trash
+
+  govern
+
+  fence
+
+  chronic
+
+  rebel
+
+  fever
+
+  electric
+
+  connect
+
+  about'
+bip_39_word_new_line12: 'orbit
+
+  survey
+
+  trash
+
+  govern
+
+  fence
+
+  chronic
+
+  rebel
+
+  fever
+
+  electric
+
+  connect
+
+  about
+
+  aerobic'
+bip_39_word_new_line2: 'orbit
+
+  survey'
+bip_39_word_new_line3: 'orbit
+
+  survey
+
+  trash'
+bip_39_word_new_line4: 'orbit
+
+  survey
+
+  trash
+
+  govern'
+bip_39_word_new_line5: 'orbit
+
+  survey
+
+  trash
+
+  govern
+
+  fence'
+bip_39_word_new_line6: 'orbit
+
+  survey
+
+  trash
+
+  govern
+
+  fence
+
+  chronic'
+bip_39_word_new_line7: 'orbit
+
+  survey
+
+  trash
+
+  govern
+
+  fence
+
+  chronic
+
+  rebel'
+bip_39_word_new_line8: 'orbit
+
+  survey
+
+  trash
+
+  govern
+
+  fence
+
+  chronic
+
+  rebel
+
+  fever'
+bip_39_word_new_line9: 'orbit
+
+  survey
+
+  trash
+
+  govern
+
+  fence
+
+  chronic
+
+  rebel
+
+  fever
+
+  electric'
+bip_39_word_space_0:
+- orbit
+- survey
+- trash
+- govern
+- fence
+- chronic
+- rebel
+- fever
+- electric
+- connect
+- about
+- aerobic
+bip_39_word_space_1: orbit
+bip_39_word_space_10: orbit survey trash govern fence chronic rebel fever electric
+  connect
+bip_39_word_space_11: orbit survey trash govern fence chronic rebel fever electric
+  connect about
+bip_39_word_space_12: orbit survey trash govern fence chronic rebel fever electric
+  connect about aerobic
+bip_39_word_space_2: orbit survey
+bip_39_word_space_3: orbit survey trash
+bip_39_word_space_4: orbit survey trash govern
+bip_39_word_space_5: orbit survey trash govern fence
+bip_39_word_space_6: orbit survey trash govern fence chronic
+bip_39_word_space_7: orbit survey trash govern fence chronic rebel
+bip_39_word_space_8: orbit survey trash govern fence chronic rebel fever
+bip_39_word_space_9: orbit survey trash govern fence chronic rebel fever electric
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

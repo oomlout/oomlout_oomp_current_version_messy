@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: provide total
+  * bip 39 word 3: provide total digital
+  * bip 39 word: provide total digital one ordinary improve output sun galaxy tunnel grocery acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | provide |  
+| bip_39_word_new_br10 | provide<br>total<br>digital<br>one<br>ordinary<br>improve<br>output<br>sun<br>galaxy<br>tunnel |  
+| bip_39_word_new_br11 | provide<br>total<br>digital<br>one<br>ordinary<br>improve<br>output<br>sun<br>galaxy<br>tunnel<br>grocery |  
+| bip_39_word_new_br12 | provide<br>total<br>digital<br>one<br>ordinary<br>improve<br>output<br>sun<br>galaxy<br>tunnel<br>grocery<br>acquire |  
+| bip_39_word_new_br2 | provide<br>total |  
+| bip_39_word_new_br3 | provide<br>total<br>digital |  
+| bip_39_word_new_br4 | provide<br>total<br>digital<br>one |  
+| bip_39_word_new_br5 | provide<br>total<br>digital<br>one<br>ordinary |  
+| bip_39_word_new_br6 | provide<br>total<br>digital<br>one<br>ordinary<br>improve |  
+| bip_39_word_new_br7 | provide<br>total<br>digital<br>one<br>ordinary<br>improve<br>output |  
+| bip_39_word_new_br8 | provide<br>total<br>digital<br>one<br>ordinary<br>improve<br>output<br>sun |  
+| bip_39_word_new_br9 | provide<br>total<br>digital<br>one<br>ordinary<br>improve<br>output<br>sun<br>galaxy |  
+| bip_39_word_new_line1 | provide |  
+| bip_39_word_new_line10 | provide
+total
+digital
+one
+ordinary
+improve
+output
+sun
+galaxy
+tunnel |  
+| bip_39_word_new_line11 | provide
+total
+digital
+one
+ordinary
+improve
+output
+sun
+galaxy
+tunnel
+grocery |  
+| bip_39_word_new_line12 | provide
+total
+digital
+one
+ordinary
+improve
+output
+sun
+galaxy
+tunnel
+grocery
+acquire |  
+| bip_39_word_new_line2 | provide
+total |  
+| bip_39_word_new_line3 | provide
+total
+digital |  
+| bip_39_word_new_line4 | provide
+total
+digital
+one |  
+| bip_39_word_new_line5 | provide
+total
+digital
+one
+ordinary |  
+| bip_39_word_new_line6 | provide
+total
+digital
+one
+ordinary
+improve |  
+| bip_39_word_new_line7 | provide
+total
+digital
+one
+ordinary
+improve
+output |  
+| bip_39_word_new_line8 | provide
+total
+digital
+one
+ordinary
+improve
+output
+sun |  
+| bip_39_word_new_line9 | provide
+total
+digital
+one
+ordinary
+improve
+output
+sun
+galaxy |  
+| bip_39_word_space_0 | ['provide', 'total', 'digital', 'one', 'ordinary', 'improve', 'output', 'sun', 'galaxy', 'tunnel', 'grocery', 'acquire'] |  
+| bip_39_word_space_1 | provide |  
+| bip_39_word_space_10 | provide total digital one ordinary improve output sun galaxy tunnel |  
+| bip_39_word_space_11 | provide total digital one ordinary improve output sun galaxy tunnel grocery |  
+| bip_39_word_space_12 | provide total digital one ordinary improve output sun galaxy tunnel grocery acquire |  
+| bip_39_word_space_2 | provide total |  
+| bip_39_word_space_3 | provide total digital |  
+| bip_39_word_space_4 | provide total digital one |  
+| bip_39_word_space_5 | provide total digital one ordinary |  
+| bip_39_word_space_6 | provide total digital one ordinary improve |  
+| bip_39_word_space_7 | provide total digital one ordinary improve output |  
+| bip_39_word_space_8 | provide total digital one ordinary improve output sun |  
+| bip_39_word_space_9 | provide total digital one ordinary improve output sun galaxy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

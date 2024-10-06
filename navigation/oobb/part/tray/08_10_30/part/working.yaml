@@ -1,3 +1,186 @@
+bip_39_word_new_br1: expire
+bip_39_word_new_br10: expire<br>whale<br>narrow<br>alert<br>learn<br>demand<br>make<br>mass<br>build<br>rude
+bip_39_word_new_br11: expire<br>whale<br>narrow<br>alert<br>learn<br>demand<br>make<br>mass<br>build<br>rude<br>violin
+bip_39_word_new_br12: expire<br>whale<br>narrow<br>alert<br>learn<br>demand<br>make<br>mass<br>build<br>rude<br>violin<br>ability
+bip_39_word_new_br2: expire<br>whale
+bip_39_word_new_br3: expire<br>whale<br>narrow
+bip_39_word_new_br4: expire<br>whale<br>narrow<br>alert
+bip_39_word_new_br5: expire<br>whale<br>narrow<br>alert<br>learn
+bip_39_word_new_br6: expire<br>whale<br>narrow<br>alert<br>learn<br>demand
+bip_39_word_new_br7: expire<br>whale<br>narrow<br>alert<br>learn<br>demand<br>make
+bip_39_word_new_br8: expire<br>whale<br>narrow<br>alert<br>learn<br>demand<br>make<br>mass
+bip_39_word_new_br9: expire<br>whale<br>narrow<br>alert<br>learn<br>demand<br>make<br>mass<br>build
+bip_39_word_new_line1: expire
+bip_39_word_new_line10: 'expire
+
+  whale
+
+  narrow
+
+  alert
+
+  learn
+
+  demand
+
+  make
+
+  mass
+
+  build
+
+  rude'
+bip_39_word_new_line11: 'expire
+
+  whale
+
+  narrow
+
+  alert
+
+  learn
+
+  demand
+
+  make
+
+  mass
+
+  build
+
+  rude
+
+  violin'
+bip_39_word_new_line12: 'expire
+
+  whale
+
+  narrow
+
+  alert
+
+  learn
+
+  demand
+
+  make
+
+  mass
+
+  build
+
+  rude
+
+  violin
+
+  ability'
+bip_39_word_new_line2: 'expire
+
+  whale'
+bip_39_word_new_line3: 'expire
+
+  whale
+
+  narrow'
+bip_39_word_new_line4: 'expire
+
+  whale
+
+  narrow
+
+  alert'
+bip_39_word_new_line5: 'expire
+
+  whale
+
+  narrow
+
+  alert
+
+  learn'
+bip_39_word_new_line6: 'expire
+
+  whale
+
+  narrow
+
+  alert
+
+  learn
+
+  demand'
+bip_39_word_new_line7: 'expire
+
+  whale
+
+  narrow
+
+  alert
+
+  learn
+
+  demand
+
+  make'
+bip_39_word_new_line8: 'expire
+
+  whale
+
+  narrow
+
+  alert
+
+  learn
+
+  demand
+
+  make
+
+  mass'
+bip_39_word_new_line9: 'expire
+
+  whale
+
+  narrow
+
+  alert
+
+  learn
+
+  demand
+
+  make
+
+  mass
+
+  build'
+bip_39_word_space_0:
+- expire
+- whale
+- narrow
+- alert
+- learn
+- demand
+- make
+- mass
+- build
+- rude
+- violin
+- ability
+bip_39_word_space_1: expire
+bip_39_word_space_10: expire whale narrow alert learn demand make mass build rude
+bip_39_word_space_11: expire whale narrow alert learn demand make mass build rude
+  violin
+bip_39_word_space_12: expire whale narrow alert learn demand make mass build rude
+  violin ability
+bip_39_word_space_2: expire whale
+bip_39_word_space_3: expire whale narrow
+bip_39_word_space_4: expire whale narrow alert
+bip_39_word_space_5: expire whale narrow alert learn
+bip_39_word_space_6: expire whale narrow alert learn demand
+bip_39_word_space_7: expire whale narrow alert learn demand make
+bip_39_word_space_8: expire whale narrow alert learn demand make mass
+bip_39_word_space_9: expire whale narrow alert learn demand make mass build
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

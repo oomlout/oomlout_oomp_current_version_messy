@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arm pistol
+  * bip 39 word 3: arm pistol short
+  * bip 39 word: arm pistol short alpha possible father nice sense bracket expand ride ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arm |  
+| bip_39_word_new_br10 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand |  
+| bip_39_word_new_br11 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand<br>ride |  
+| bip_39_word_new_br12 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket<br>expand<br>ride<br>ankle |  
+| bip_39_word_new_br2 | arm<br>pistol |  
+| bip_39_word_new_br3 | arm<br>pistol<br>short |  
+| bip_39_word_new_br4 | arm<br>pistol<br>short<br>alpha |  
+| bip_39_word_new_br5 | arm<br>pistol<br>short<br>alpha<br>possible |  
+| bip_39_word_new_br6 | arm<br>pistol<br>short<br>alpha<br>possible<br>father |  
+| bip_39_word_new_br7 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice |  
+| bip_39_word_new_br8 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense |  
+| bip_39_word_new_br9 | arm<br>pistol<br>short<br>alpha<br>possible<br>father<br>nice<br>sense<br>bracket |  
+| bip_39_word_new_line1 | arm |  
+| bip_39_word_new_line10 | arm
+pistol
+short
+alpha
+possible
+father
+nice
+sense
+bracket
+expand |  
+| bip_39_word_new_line11 | arm
+pistol
+short
+alpha
+possible
+father
+nice
+sense
+bracket
+expand
+ride |  
+| bip_39_word_new_line12 | arm
+pistol
+short
+alpha
+possible
+father
+nice
+sense
+bracket
+expand
+ride
+ankle |  
+| bip_39_word_new_line2 | arm
+pistol |  
+| bip_39_word_new_line3 | arm
+pistol
+short |  
+| bip_39_word_new_line4 | arm
+pistol
+short
+alpha |  
+| bip_39_word_new_line5 | arm
+pistol
+short
+alpha
+possible |  
+| bip_39_word_new_line6 | arm
+pistol
+short
+alpha
+possible
+father |  
+| bip_39_word_new_line7 | arm
+pistol
+short
+alpha
+possible
+father
+nice |  
+| bip_39_word_new_line8 | arm
+pistol
+short
+alpha
+possible
+father
+nice
+sense |  
+| bip_39_word_new_line9 | arm
+pistol
+short
+alpha
+possible
+father
+nice
+sense
+bracket |  
+| bip_39_word_space_0 | ['arm', 'pistol', 'short', 'alpha', 'possible', 'father', 'nice', 'sense', 'bracket', 'expand', 'ride', 'ankle'] |  
+| bip_39_word_space_1 | arm |  
+| bip_39_word_space_10 | arm pistol short alpha possible father nice sense bracket expand |  
+| bip_39_word_space_11 | arm pistol short alpha possible father nice sense bracket expand ride |  
+| bip_39_word_space_12 | arm pistol short alpha possible father nice sense bracket expand ride ankle |  
+| bip_39_word_space_2 | arm pistol |  
+| bip_39_word_space_3 | arm pistol short |  
+| bip_39_word_space_4 | arm pistol short alpha |  
+| bip_39_word_space_5 | arm pistol short alpha possible |  
+| bip_39_word_space_6 | arm pistol short alpha possible father |  
+| bip_39_word_space_7 | arm pistol short alpha possible father nice |  
+| bip_39_word_space_8 | arm pistol short alpha possible father nice sense |  
+| bip_39_word_space_9 | arm pistol short alpha possible father nice sense bracket |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

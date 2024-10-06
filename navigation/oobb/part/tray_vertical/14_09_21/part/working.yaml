@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nut
+bip_39_word_new_br10: nut<br>erode<br>price<br>loud<br>earth<br>gorilla<br>cycle<br>mix<br>wrong<br>solution
+bip_39_word_new_br11: nut<br>erode<br>price<br>loud<br>earth<br>gorilla<br>cycle<br>mix<br>wrong<br>solution<br>seek
+bip_39_word_new_br12: nut<br>erode<br>price<br>loud<br>earth<br>gorilla<br>cycle<br>mix<br>wrong<br>solution<br>seek<br>alley
+bip_39_word_new_br2: nut<br>erode
+bip_39_word_new_br3: nut<br>erode<br>price
+bip_39_word_new_br4: nut<br>erode<br>price<br>loud
+bip_39_word_new_br5: nut<br>erode<br>price<br>loud<br>earth
+bip_39_word_new_br6: nut<br>erode<br>price<br>loud<br>earth<br>gorilla
+bip_39_word_new_br7: nut<br>erode<br>price<br>loud<br>earth<br>gorilla<br>cycle
+bip_39_word_new_br8: nut<br>erode<br>price<br>loud<br>earth<br>gorilla<br>cycle<br>mix
+bip_39_word_new_br9: nut<br>erode<br>price<br>loud<br>earth<br>gorilla<br>cycle<br>mix<br>wrong
+bip_39_word_new_line1: nut
+bip_39_word_new_line10: 'nut
+
+  erode
+
+  price
+
+  loud
+
+  earth
+
+  gorilla
+
+  cycle
+
+  mix
+
+  wrong
+
+  solution'
+bip_39_word_new_line11: 'nut
+
+  erode
+
+  price
+
+  loud
+
+  earth
+
+  gorilla
+
+  cycle
+
+  mix
+
+  wrong
+
+  solution
+
+  seek'
+bip_39_word_new_line12: 'nut
+
+  erode
+
+  price
+
+  loud
+
+  earth
+
+  gorilla
+
+  cycle
+
+  mix
+
+  wrong
+
+  solution
+
+  seek
+
+  alley'
+bip_39_word_new_line2: 'nut
+
+  erode'
+bip_39_word_new_line3: 'nut
+
+  erode
+
+  price'
+bip_39_word_new_line4: 'nut
+
+  erode
+
+  price
+
+  loud'
+bip_39_word_new_line5: 'nut
+
+  erode
+
+  price
+
+  loud
+
+  earth'
+bip_39_word_new_line6: 'nut
+
+  erode
+
+  price
+
+  loud
+
+  earth
+
+  gorilla'
+bip_39_word_new_line7: 'nut
+
+  erode
+
+  price
+
+  loud
+
+  earth
+
+  gorilla
+
+  cycle'
+bip_39_word_new_line8: 'nut
+
+  erode
+
+  price
+
+  loud
+
+  earth
+
+  gorilla
+
+  cycle
+
+  mix'
+bip_39_word_new_line9: 'nut
+
+  erode
+
+  price
+
+  loud
+
+  earth
+
+  gorilla
+
+  cycle
+
+  mix
+
+  wrong'
+bip_39_word_space_0:
+- nut
+- erode
+- price
+- loud
+- earth
+- gorilla
+- cycle
+- mix
+- wrong
+- solution
+- seek
+- alley
+bip_39_word_space_1: nut
+bip_39_word_space_10: nut erode price loud earth gorilla cycle mix wrong solution
+bip_39_word_space_11: nut erode price loud earth gorilla cycle mix wrong solution
+  seek
+bip_39_word_space_12: nut erode price loud earth gorilla cycle mix wrong solution
+  seek alley
+bip_39_word_space_2: nut erode
+bip_39_word_space_3: nut erode price
+bip_39_word_space_4: nut erode price loud
+bip_39_word_space_5: nut erode price loud earth
+bip_39_word_space_6: nut erode price loud earth gorilla
+bip_39_word_space_7: nut erode price loud earth gorilla cycle
+bip_39_word_space_8: nut erode price loud earth gorilla cycle mix
+bip_39_word_space_9: nut erode price loud earth gorilla cycle mix wrong
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

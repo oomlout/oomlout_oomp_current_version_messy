@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: method entire
+  * bip 39 word 3: method entire require
+  * bip 39 word: method entire require team hip robot indoor oppose siren kidney ivory all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | method |  
+| bip_39_word_new_br10 | method<br>entire<br>require<br>team<br>hip<br>robot<br>indoor<br>oppose<br>siren<br>kidney |  
+| bip_39_word_new_br11 | method<br>entire<br>require<br>team<br>hip<br>robot<br>indoor<br>oppose<br>siren<br>kidney<br>ivory |  
+| bip_39_word_new_br12 | method<br>entire<br>require<br>team<br>hip<br>robot<br>indoor<br>oppose<br>siren<br>kidney<br>ivory<br>all |  
+| bip_39_word_new_br2 | method<br>entire |  
+| bip_39_word_new_br3 | method<br>entire<br>require |  
+| bip_39_word_new_br4 | method<br>entire<br>require<br>team |  
+| bip_39_word_new_br5 | method<br>entire<br>require<br>team<br>hip |  
+| bip_39_word_new_br6 | method<br>entire<br>require<br>team<br>hip<br>robot |  
+| bip_39_word_new_br7 | method<br>entire<br>require<br>team<br>hip<br>robot<br>indoor |  
+| bip_39_word_new_br8 | method<br>entire<br>require<br>team<br>hip<br>robot<br>indoor<br>oppose |  
+| bip_39_word_new_br9 | method<br>entire<br>require<br>team<br>hip<br>robot<br>indoor<br>oppose<br>siren |  
+| bip_39_word_new_line1 | method |  
+| bip_39_word_new_line10 | method
+entire
+require
+team
+hip
+robot
+indoor
+oppose
+siren
+kidney |  
+| bip_39_word_new_line11 | method
+entire
+require
+team
+hip
+robot
+indoor
+oppose
+siren
+kidney
+ivory |  
+| bip_39_word_new_line12 | method
+entire
+require
+team
+hip
+robot
+indoor
+oppose
+siren
+kidney
+ivory
+all |  
+| bip_39_word_new_line2 | method
+entire |  
+| bip_39_word_new_line3 | method
+entire
+require |  
+| bip_39_word_new_line4 | method
+entire
+require
+team |  
+| bip_39_word_new_line5 | method
+entire
+require
+team
+hip |  
+| bip_39_word_new_line6 | method
+entire
+require
+team
+hip
+robot |  
+| bip_39_word_new_line7 | method
+entire
+require
+team
+hip
+robot
+indoor |  
+| bip_39_word_new_line8 | method
+entire
+require
+team
+hip
+robot
+indoor
+oppose |  
+| bip_39_word_new_line9 | method
+entire
+require
+team
+hip
+robot
+indoor
+oppose
+siren |  
+| bip_39_word_space_0 | ['method', 'entire', 'require', 'team', 'hip', 'robot', 'indoor', 'oppose', 'siren', 'kidney', 'ivory', 'all'] |  
+| bip_39_word_space_1 | method |  
+| bip_39_word_space_10 | method entire require team hip robot indoor oppose siren kidney |  
+| bip_39_word_space_11 | method entire require team hip robot indoor oppose siren kidney ivory |  
+| bip_39_word_space_12 | method entire require team hip robot indoor oppose siren kidney ivory all |  
+| bip_39_word_space_2 | method entire |  
+| bip_39_word_space_3 | method entire require |  
+| bip_39_word_space_4 | method entire require team |  
+| bip_39_word_space_5 | method entire require team hip |  
+| bip_39_word_space_6 | method entire require team hip robot |  
+| bip_39_word_space_7 | method entire require team hip robot indoor |  
+| bip_39_word_space_8 | method entire require team hip robot indoor oppose |  
+| bip_39_word_space_9 | method entire require team hip robot indoor oppose siren |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

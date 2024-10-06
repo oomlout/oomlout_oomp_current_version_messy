@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: share sound
+  * bip 39 word 3: share sound fiber
+  * bip 39 word: share sound fiber path shine wave alley avocado retreat glory satoshi arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | share |  
+| bip_39_word_new_br10 | share<br>sound<br>fiber<br>path<br>shine<br>wave<br>alley<br>avocado<br>retreat<br>glory |  
+| bip_39_word_new_br11 | share<br>sound<br>fiber<br>path<br>shine<br>wave<br>alley<br>avocado<br>retreat<br>glory<br>satoshi |  
+| bip_39_word_new_br12 | share<br>sound<br>fiber<br>path<br>shine<br>wave<br>alley<br>avocado<br>retreat<br>glory<br>satoshi<br>arm |  
+| bip_39_word_new_br2 | share<br>sound |  
+| bip_39_word_new_br3 | share<br>sound<br>fiber |  
+| bip_39_word_new_br4 | share<br>sound<br>fiber<br>path |  
+| bip_39_word_new_br5 | share<br>sound<br>fiber<br>path<br>shine |  
+| bip_39_word_new_br6 | share<br>sound<br>fiber<br>path<br>shine<br>wave |  
+| bip_39_word_new_br7 | share<br>sound<br>fiber<br>path<br>shine<br>wave<br>alley |  
+| bip_39_word_new_br8 | share<br>sound<br>fiber<br>path<br>shine<br>wave<br>alley<br>avocado |  
+| bip_39_word_new_br9 | share<br>sound<br>fiber<br>path<br>shine<br>wave<br>alley<br>avocado<br>retreat |  
+| bip_39_word_new_line1 | share |  
+| bip_39_word_new_line10 | share
+sound
+fiber
+path
+shine
+wave
+alley
+avocado
+retreat
+glory |  
+| bip_39_word_new_line11 | share
+sound
+fiber
+path
+shine
+wave
+alley
+avocado
+retreat
+glory
+satoshi |  
+| bip_39_word_new_line12 | share
+sound
+fiber
+path
+shine
+wave
+alley
+avocado
+retreat
+glory
+satoshi
+arm |  
+| bip_39_word_new_line2 | share
+sound |  
+| bip_39_word_new_line3 | share
+sound
+fiber |  
+| bip_39_word_new_line4 | share
+sound
+fiber
+path |  
+| bip_39_word_new_line5 | share
+sound
+fiber
+path
+shine |  
+| bip_39_word_new_line6 | share
+sound
+fiber
+path
+shine
+wave |  
+| bip_39_word_new_line7 | share
+sound
+fiber
+path
+shine
+wave
+alley |  
+| bip_39_word_new_line8 | share
+sound
+fiber
+path
+shine
+wave
+alley
+avocado |  
+| bip_39_word_new_line9 | share
+sound
+fiber
+path
+shine
+wave
+alley
+avocado
+retreat |  
+| bip_39_word_space_0 | ['share', 'sound', 'fiber', 'path', 'shine', 'wave', 'alley', 'avocado', 'retreat', 'glory', 'satoshi', 'arm'] |  
+| bip_39_word_space_1 | share |  
+| bip_39_word_space_10 | share sound fiber path shine wave alley avocado retreat glory |  
+| bip_39_word_space_11 | share sound fiber path shine wave alley avocado retreat glory satoshi |  
+| bip_39_word_space_12 | share sound fiber path shine wave alley avocado retreat glory satoshi arm |  
+| bip_39_word_space_2 | share sound |  
+| bip_39_word_space_3 | share sound fiber |  
+| bip_39_word_space_4 | share sound fiber path |  
+| bip_39_word_space_5 | share sound fiber path shine |  
+| bip_39_word_space_6 | share sound fiber path shine wave |  
+| bip_39_word_space_7 | share sound fiber path shine wave alley |  
+| bip_39_word_space_8 | share sound fiber path shine wave alley avocado |  
+| bip_39_word_space_9 | share sound fiber path shine wave alley avocado retreat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

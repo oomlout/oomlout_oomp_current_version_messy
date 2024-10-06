@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: dupont
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: move annual
+  * bip 39 word 3: move annual choice
+  * bip 39 word: move annual choice pulse oppose dad forest power ripple scare update again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | move |  
+| bip_39_word_new_br10 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad<br>forest<br>power<br>ripple<br>scare |  
+| bip_39_word_new_br11 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad<br>forest<br>power<br>ripple<br>scare<br>update |  
+| bip_39_word_new_br12 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad<br>forest<br>power<br>ripple<br>scare<br>update<br>again |  
+| bip_39_word_new_br2 | move<br>annual |  
+| bip_39_word_new_br3 | move<br>annual<br>choice |  
+| bip_39_word_new_br4 | move<br>annual<br>choice<br>pulse |  
+| bip_39_word_new_br5 | move<br>annual<br>choice<br>pulse<br>oppose |  
+| bip_39_word_new_br6 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad |  
+| bip_39_word_new_br7 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad<br>forest |  
+| bip_39_word_new_br8 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad<br>forest<br>power |  
+| bip_39_word_new_br9 | move<br>annual<br>choice<br>pulse<br>oppose<br>dad<br>forest<br>power<br>ripple |  
+| bip_39_word_new_line1 | move |  
+| bip_39_word_new_line10 | move
+annual
+choice
+pulse
+oppose
+dad
+forest
+power
+ripple
+scare |  
+| bip_39_word_new_line11 | move
+annual
+choice
+pulse
+oppose
+dad
+forest
+power
+ripple
+scare
+update |  
+| bip_39_word_new_line12 | move
+annual
+choice
+pulse
+oppose
+dad
+forest
+power
+ripple
+scare
+update
+again |  
+| bip_39_word_new_line2 | move
+annual |  
+| bip_39_word_new_line3 | move
+annual
+choice |  
+| bip_39_word_new_line4 | move
+annual
+choice
+pulse |  
+| bip_39_word_new_line5 | move
+annual
+choice
+pulse
+oppose |  
+| bip_39_word_new_line6 | move
+annual
+choice
+pulse
+oppose
+dad |  
+| bip_39_word_new_line7 | move
+annual
+choice
+pulse
+oppose
+dad
+forest |  
+| bip_39_word_new_line8 | move
+annual
+choice
+pulse
+oppose
+dad
+forest
+power |  
+| bip_39_word_new_line9 | move
+annual
+choice
+pulse
+oppose
+dad
+forest
+power
+ripple |  
+| bip_39_word_space_0 | ['move', 'annual', 'choice', 'pulse', 'oppose', 'dad', 'forest', 'power', 'ripple', 'scare', 'update', 'again'] |  
+| bip_39_word_space_1 | move |  
+| bip_39_word_space_10 | move annual choice pulse oppose dad forest power ripple scare |  
+| bip_39_word_space_11 | move annual choice pulse oppose dad forest power ripple scare update |  
+| bip_39_word_space_12 | move annual choice pulse oppose dad forest power ripple scare update again |  
+| bip_39_word_space_2 | move annual |  
+| bip_39_word_space_3 | move annual choice |  
+| bip_39_word_space_4 | move annual choice pulse |  
+| bip_39_word_space_5 | move annual choice pulse oppose |  
+| bip_39_word_space_6 | move annual choice pulse oppose dad |  
+| bip_39_word_space_7 | move annual choice pulse oppose dad forest |  
+| bip_39_word_space_8 | move annual choice pulse oppose dad forest power |  
+| bip_39_word_space_9 | move annual choice pulse oppose dad forest power ripple |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tank
+bip_39_word_new_br10: tank<br>setup<br>energy<br>virtual<br>feed<br>grain<br>wolf<br>robot<br>romance<br>concert
+bip_39_word_new_br11: tank<br>setup<br>energy<br>virtual<br>feed<br>grain<br>wolf<br>robot<br>romance<br>concert<br>exchange
+bip_39_word_new_br12: tank<br>setup<br>energy<br>virtual<br>feed<br>grain<br>wolf<br>robot<br>romance<br>concert<br>exchange<br>act
+bip_39_word_new_br2: tank<br>setup
+bip_39_word_new_br3: tank<br>setup<br>energy
+bip_39_word_new_br4: tank<br>setup<br>energy<br>virtual
+bip_39_word_new_br5: tank<br>setup<br>energy<br>virtual<br>feed
+bip_39_word_new_br6: tank<br>setup<br>energy<br>virtual<br>feed<br>grain
+bip_39_word_new_br7: tank<br>setup<br>energy<br>virtual<br>feed<br>grain<br>wolf
+bip_39_word_new_br8: tank<br>setup<br>energy<br>virtual<br>feed<br>grain<br>wolf<br>robot
+bip_39_word_new_br9: tank<br>setup<br>energy<br>virtual<br>feed<br>grain<br>wolf<br>robot<br>romance
+bip_39_word_new_line1: tank
+bip_39_word_new_line10: 'tank
+
+  setup
+
+  energy
+
+  virtual
+
+  feed
+
+  grain
+
+  wolf
+
+  robot
+
+  romance
+
+  concert'
+bip_39_word_new_line11: 'tank
+
+  setup
+
+  energy
+
+  virtual
+
+  feed
+
+  grain
+
+  wolf
+
+  robot
+
+  romance
+
+  concert
+
+  exchange'
+bip_39_word_new_line12: 'tank
+
+  setup
+
+  energy
+
+  virtual
+
+  feed
+
+  grain
+
+  wolf
+
+  robot
+
+  romance
+
+  concert
+
+  exchange
+
+  act'
+bip_39_word_new_line2: 'tank
+
+  setup'
+bip_39_word_new_line3: 'tank
+
+  setup
+
+  energy'
+bip_39_word_new_line4: 'tank
+
+  setup
+
+  energy
+
+  virtual'
+bip_39_word_new_line5: 'tank
+
+  setup
+
+  energy
+
+  virtual
+
+  feed'
+bip_39_word_new_line6: 'tank
+
+  setup
+
+  energy
+
+  virtual
+
+  feed
+
+  grain'
+bip_39_word_new_line7: 'tank
+
+  setup
+
+  energy
+
+  virtual
+
+  feed
+
+  grain
+
+  wolf'
+bip_39_word_new_line8: 'tank
+
+  setup
+
+  energy
+
+  virtual
+
+  feed
+
+  grain
+
+  wolf
+
+  robot'
+bip_39_word_new_line9: 'tank
+
+  setup
+
+  energy
+
+  virtual
+
+  feed
+
+  grain
+
+  wolf
+
+  robot
+
+  romance'
+bip_39_word_space_0:
+- tank
+- setup
+- energy
+- virtual
+- feed
+- grain
+- wolf
+- robot
+- romance
+- concert
+- exchange
+- act
+bip_39_word_space_1: tank
+bip_39_word_space_10: tank setup energy virtual feed grain wolf robot romance concert
+bip_39_word_space_11: tank setup energy virtual feed grain wolf robot romance concert
+  exchange
+bip_39_word_space_12: tank setup energy virtual feed grain wolf robot romance concert
+  exchange act
+bip_39_word_space_2: tank setup
+bip_39_word_space_3: tank setup energy
+bip_39_word_space_4: tank setup energy virtual
+bip_39_word_space_5: tank setup energy virtual feed
+bip_39_word_space_6: tank setup energy virtual feed grain
+bip_39_word_space_7: tank setup energy virtual feed grain wolf
+bip_39_word_space_8: tank setup energy virtual feed grain wolf robot
+bip_39_word_space_9: tank setup energy virtual feed grain wolf robot romance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

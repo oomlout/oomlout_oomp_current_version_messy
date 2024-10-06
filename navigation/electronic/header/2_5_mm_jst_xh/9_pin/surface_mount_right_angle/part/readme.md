@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glimpse claim
+  * bip 39 word 3: glimpse claim planet
+  * bip 39 word: glimpse claim planet neither cost announce elegant dish attitude slide version account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glimpse |  
+| bip_39_word_new_br10 | glimpse<br>claim<br>planet<br>neither<br>cost<br>announce<br>elegant<br>dish<br>attitude<br>slide |  
+| bip_39_word_new_br11 | glimpse<br>claim<br>planet<br>neither<br>cost<br>announce<br>elegant<br>dish<br>attitude<br>slide<br>version |  
+| bip_39_word_new_br12 | glimpse<br>claim<br>planet<br>neither<br>cost<br>announce<br>elegant<br>dish<br>attitude<br>slide<br>version<br>account |  
+| bip_39_word_new_br2 | glimpse<br>claim |  
+| bip_39_word_new_br3 | glimpse<br>claim<br>planet |  
+| bip_39_word_new_br4 | glimpse<br>claim<br>planet<br>neither |  
+| bip_39_word_new_br5 | glimpse<br>claim<br>planet<br>neither<br>cost |  
+| bip_39_word_new_br6 | glimpse<br>claim<br>planet<br>neither<br>cost<br>announce |  
+| bip_39_word_new_br7 | glimpse<br>claim<br>planet<br>neither<br>cost<br>announce<br>elegant |  
+| bip_39_word_new_br8 | glimpse<br>claim<br>planet<br>neither<br>cost<br>announce<br>elegant<br>dish |  
+| bip_39_word_new_br9 | glimpse<br>claim<br>planet<br>neither<br>cost<br>announce<br>elegant<br>dish<br>attitude |  
+| bip_39_word_new_line1 | glimpse |  
+| bip_39_word_new_line10 | glimpse
+claim
+planet
+neither
+cost
+announce
+elegant
+dish
+attitude
+slide |  
+| bip_39_word_new_line11 | glimpse
+claim
+planet
+neither
+cost
+announce
+elegant
+dish
+attitude
+slide
+version |  
+| bip_39_word_new_line12 | glimpse
+claim
+planet
+neither
+cost
+announce
+elegant
+dish
+attitude
+slide
+version
+account |  
+| bip_39_word_new_line2 | glimpse
+claim |  
+| bip_39_word_new_line3 | glimpse
+claim
+planet |  
+| bip_39_word_new_line4 | glimpse
+claim
+planet
+neither |  
+| bip_39_word_new_line5 | glimpse
+claim
+planet
+neither
+cost |  
+| bip_39_word_new_line6 | glimpse
+claim
+planet
+neither
+cost
+announce |  
+| bip_39_word_new_line7 | glimpse
+claim
+planet
+neither
+cost
+announce
+elegant |  
+| bip_39_word_new_line8 | glimpse
+claim
+planet
+neither
+cost
+announce
+elegant
+dish |  
+| bip_39_word_new_line9 | glimpse
+claim
+planet
+neither
+cost
+announce
+elegant
+dish
+attitude |  
+| bip_39_word_space_0 | ['glimpse', 'claim', 'planet', 'neither', 'cost', 'announce', 'elegant', 'dish', 'attitude', 'slide', 'version', 'account'] |  
+| bip_39_word_space_1 | glimpse |  
+| bip_39_word_space_10 | glimpse claim planet neither cost announce elegant dish attitude slide |  
+| bip_39_word_space_11 | glimpse claim planet neither cost announce elegant dish attitude slide version |  
+| bip_39_word_space_12 | glimpse claim planet neither cost announce elegant dish attitude slide version account |  
+| bip_39_word_space_2 | glimpse claim |  
+| bip_39_word_space_3 | glimpse claim planet |  
+| bip_39_word_space_4 | glimpse claim planet neither |  
+| bip_39_word_space_5 | glimpse claim planet neither cost |  
+| bip_39_word_space_6 | glimpse claim planet neither cost announce |  
+| bip_39_word_space_7 | glimpse claim planet neither cost announce elegant |  
+| bip_39_word_space_8 | glimpse claim planet neither cost announce elegant dish |  
+| bip_39_word_space_9 | glimpse claim planet neither cost announce elegant dish attitude |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

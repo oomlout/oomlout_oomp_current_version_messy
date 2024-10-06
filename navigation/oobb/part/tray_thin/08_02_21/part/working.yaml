@@ -1,3 +1,186 @@
+bip_39_word_new_br1: solution
+bip_39_word_new_br10: solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace
+bip_39_word_new_br11: solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace<br>discover
+bip_39_word_new_br12: solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna<br>embrace<br>discover<br>athlete
+bip_39_word_new_br2: solution<br>winner
+bip_39_word_new_br3: solution<br>winner<br>labor
+bip_39_word_new_br4: solution<br>winner<br>labor<br>profit
+bip_39_word_new_br5: solution<br>winner<br>labor<br>profit<br>over
+bip_39_word_new_br6: solution<br>winner<br>labor<br>profit<br>over<br>seed
+bip_39_word_new_br7: solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch
+bip_39_word_new_br8: solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor
+bip_39_word_new_br9: solution<br>winner<br>labor<br>profit<br>over<br>seed<br>crouch<br>sponsor<br>tuna
+bip_39_word_new_line1: solution
+bip_39_word_new_line10: 'solution
+
+  winner
+
+  labor
+
+  profit
+
+  over
+
+  seed
+
+  crouch
+
+  sponsor
+
+  tuna
+
+  embrace'
+bip_39_word_new_line11: 'solution
+
+  winner
+
+  labor
+
+  profit
+
+  over
+
+  seed
+
+  crouch
+
+  sponsor
+
+  tuna
+
+  embrace
+
+  discover'
+bip_39_word_new_line12: 'solution
+
+  winner
+
+  labor
+
+  profit
+
+  over
+
+  seed
+
+  crouch
+
+  sponsor
+
+  tuna
+
+  embrace
+
+  discover
+
+  athlete'
+bip_39_word_new_line2: 'solution
+
+  winner'
+bip_39_word_new_line3: 'solution
+
+  winner
+
+  labor'
+bip_39_word_new_line4: 'solution
+
+  winner
+
+  labor
+
+  profit'
+bip_39_word_new_line5: 'solution
+
+  winner
+
+  labor
+
+  profit
+
+  over'
+bip_39_word_new_line6: 'solution
+
+  winner
+
+  labor
+
+  profit
+
+  over
+
+  seed'
+bip_39_word_new_line7: 'solution
+
+  winner
+
+  labor
+
+  profit
+
+  over
+
+  seed
+
+  crouch'
+bip_39_word_new_line8: 'solution
+
+  winner
+
+  labor
+
+  profit
+
+  over
+
+  seed
+
+  crouch
+
+  sponsor'
+bip_39_word_new_line9: 'solution
+
+  winner
+
+  labor
+
+  profit
+
+  over
+
+  seed
+
+  crouch
+
+  sponsor
+
+  tuna'
+bip_39_word_space_0:
+- solution
+- winner
+- labor
+- profit
+- over
+- seed
+- crouch
+- sponsor
+- tuna
+- embrace
+- discover
+- athlete
+bip_39_word_space_1: solution
+bip_39_word_space_10: solution winner labor profit over seed crouch sponsor tuna embrace
+bip_39_word_space_11: solution winner labor profit over seed crouch sponsor tuna embrace
+  discover
+bip_39_word_space_12: solution winner labor profit over seed crouch sponsor tuna embrace
+  discover athlete
+bip_39_word_space_2: solution winner
+bip_39_word_space_3: solution winner labor
+bip_39_word_space_4: solution winner labor profit
+bip_39_word_space_5: solution winner labor profit over
+bip_39_word_space_6: solution winner labor profit over seed
+bip_39_word_space_7: solution winner labor profit over seed crouch
+bip_39_word_space_8: solution winner labor profit over seed crouch sponsor
+bip_39_word_space_9: solution winner labor profit over seed crouch sponsor tuna
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

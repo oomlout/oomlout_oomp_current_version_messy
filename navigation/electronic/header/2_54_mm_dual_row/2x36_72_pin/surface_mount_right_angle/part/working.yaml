@@ -1,3 +1,185 @@
+bip_39_word_new_br1: tool
+bip_39_word_new_br10: tool<br>siege<br>afraid<br>genre<br>modify<br>age<br>ill<br>sign<br>off<br>perfect
+bip_39_word_new_br11: tool<br>siege<br>afraid<br>genre<br>modify<br>age<br>ill<br>sign<br>off<br>perfect<br>language
+bip_39_word_new_br12: tool<br>siege<br>afraid<br>genre<br>modify<br>age<br>ill<br>sign<br>off<br>perfect<br>language<br>agree
+bip_39_word_new_br2: tool<br>siege
+bip_39_word_new_br3: tool<br>siege<br>afraid
+bip_39_word_new_br4: tool<br>siege<br>afraid<br>genre
+bip_39_word_new_br5: tool<br>siege<br>afraid<br>genre<br>modify
+bip_39_word_new_br6: tool<br>siege<br>afraid<br>genre<br>modify<br>age
+bip_39_word_new_br7: tool<br>siege<br>afraid<br>genre<br>modify<br>age<br>ill
+bip_39_word_new_br8: tool<br>siege<br>afraid<br>genre<br>modify<br>age<br>ill<br>sign
+bip_39_word_new_br9: tool<br>siege<br>afraid<br>genre<br>modify<br>age<br>ill<br>sign<br>off
+bip_39_word_new_line1: tool
+bip_39_word_new_line10: 'tool
+
+  siege
+
+  afraid
+
+  genre
+
+  modify
+
+  age
+
+  ill
+
+  sign
+
+  off
+
+  perfect'
+bip_39_word_new_line11: 'tool
+
+  siege
+
+  afraid
+
+  genre
+
+  modify
+
+  age
+
+  ill
+
+  sign
+
+  off
+
+  perfect
+
+  language'
+bip_39_word_new_line12: 'tool
+
+  siege
+
+  afraid
+
+  genre
+
+  modify
+
+  age
+
+  ill
+
+  sign
+
+  off
+
+  perfect
+
+  language
+
+  agree'
+bip_39_word_new_line2: 'tool
+
+  siege'
+bip_39_word_new_line3: 'tool
+
+  siege
+
+  afraid'
+bip_39_word_new_line4: 'tool
+
+  siege
+
+  afraid
+
+  genre'
+bip_39_word_new_line5: 'tool
+
+  siege
+
+  afraid
+
+  genre
+
+  modify'
+bip_39_word_new_line6: 'tool
+
+  siege
+
+  afraid
+
+  genre
+
+  modify
+
+  age'
+bip_39_word_new_line7: 'tool
+
+  siege
+
+  afraid
+
+  genre
+
+  modify
+
+  age
+
+  ill'
+bip_39_word_new_line8: 'tool
+
+  siege
+
+  afraid
+
+  genre
+
+  modify
+
+  age
+
+  ill
+
+  sign'
+bip_39_word_new_line9: 'tool
+
+  siege
+
+  afraid
+
+  genre
+
+  modify
+
+  age
+
+  ill
+
+  sign
+
+  off'
+bip_39_word_space_0:
+- tool
+- siege
+- afraid
+- genre
+- modify
+- age
+- ill
+- sign
+- 'off'
+- perfect
+- language
+- agree
+bip_39_word_space_1: tool
+bip_39_word_space_10: tool siege afraid genre modify age ill sign off perfect
+bip_39_word_space_11: tool siege afraid genre modify age ill sign off perfect language
+bip_39_word_space_12: tool siege afraid genre modify age ill sign off perfect language
+  agree
+bip_39_word_space_2: tool siege
+bip_39_word_space_3: tool siege afraid
+bip_39_word_space_4: tool siege afraid genre
+bip_39_word_space_5: tool siege afraid genre modify
+bip_39_word_space_6: tool siege afraid genre modify age
+bip_39_word_space_7: tool siege afraid genre modify age ill
+bip_39_word_space_8: tool siege afraid genre modify age ill sign
+bip_39_word_space_9: tool siege afraid genre modify age ill sign off
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

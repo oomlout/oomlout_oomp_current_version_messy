@@ -1,3 +1,186 @@
+bip_39_word_new_br1: despair
+bip_39_word_new_br10: despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid
+bip_39_word_new_br11: despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid<br>raccoon
+bip_39_word_new_br12: despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke<br>valid<br>raccoon<br>apology
+bip_39_word_new_br2: despair<br>oven
+bip_39_word_new_br3: despair<br>oven<br>slot
+bip_39_word_new_br4: despair<br>oven<br>slot<br>inherit
+bip_39_word_new_br5: despair<br>oven<br>slot<br>inherit<br>also
+bip_39_word_new_br6: despair<br>oven<br>slot<br>inherit<br>also<br>autumn
+bip_39_word_new_br7: despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior
+bip_39_word_new_br8: despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk
+bip_39_word_new_br9: despair<br>oven<br>slot<br>inherit<br>also<br>autumn<br>warrior<br>desk<br>evoke
+bip_39_word_new_line1: despair
+bip_39_word_new_line10: 'despair
+
+  oven
+
+  slot
+
+  inherit
+
+  also
+
+  autumn
+
+  warrior
+
+  desk
+
+  evoke
+
+  valid'
+bip_39_word_new_line11: 'despair
+
+  oven
+
+  slot
+
+  inherit
+
+  also
+
+  autumn
+
+  warrior
+
+  desk
+
+  evoke
+
+  valid
+
+  raccoon'
+bip_39_word_new_line12: 'despair
+
+  oven
+
+  slot
+
+  inherit
+
+  also
+
+  autumn
+
+  warrior
+
+  desk
+
+  evoke
+
+  valid
+
+  raccoon
+
+  apology'
+bip_39_word_new_line2: 'despair
+
+  oven'
+bip_39_word_new_line3: 'despair
+
+  oven
+
+  slot'
+bip_39_word_new_line4: 'despair
+
+  oven
+
+  slot
+
+  inherit'
+bip_39_word_new_line5: 'despair
+
+  oven
+
+  slot
+
+  inherit
+
+  also'
+bip_39_word_new_line6: 'despair
+
+  oven
+
+  slot
+
+  inherit
+
+  also
+
+  autumn'
+bip_39_word_new_line7: 'despair
+
+  oven
+
+  slot
+
+  inherit
+
+  also
+
+  autumn
+
+  warrior'
+bip_39_word_new_line8: 'despair
+
+  oven
+
+  slot
+
+  inherit
+
+  also
+
+  autumn
+
+  warrior
+
+  desk'
+bip_39_word_new_line9: 'despair
+
+  oven
+
+  slot
+
+  inherit
+
+  also
+
+  autumn
+
+  warrior
+
+  desk
+
+  evoke'
+bip_39_word_space_0:
+- despair
+- oven
+- slot
+- inherit
+- also
+- autumn
+- warrior
+- desk
+- evoke
+- valid
+- raccoon
+- apology
+bip_39_word_space_1: despair
+bip_39_word_space_10: despair oven slot inherit also autumn warrior desk evoke valid
+bip_39_word_space_11: despair oven slot inherit also autumn warrior desk evoke valid
+  raccoon
+bip_39_word_space_12: despair oven slot inherit also autumn warrior desk evoke valid
+  raccoon apology
+bip_39_word_space_2: despair oven
+bip_39_word_space_3: despair oven slot
+bip_39_word_space_4: despair oven slot inherit
+bip_39_word_space_5: despair oven slot inherit also
+bip_39_word_space_6: despair oven slot inherit also autumn
+bip_39_word_space_7: despair oven slot inherit also autumn warrior
+bip_39_word_space_8: despair oven slot inherit also autumn warrior desk
+bip_39_word_space_9: despair oven slot inherit also autumn warrior desk evoke
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

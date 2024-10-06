@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pen mobile
+  * bip 39 word 3: pen mobile media
+  * bip 39 word: pen mobile media visa ridge maid always amount clown hobby again argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pen |  
+| bip_39_word_new_br10 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby |  
+| bip_39_word_new_br11 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby<br>again |  
+| bip_39_word_new_br12 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown<br>hobby<br>again<br>argue |  
+| bip_39_word_new_br2 | pen<br>mobile |  
+| bip_39_word_new_br3 | pen<br>mobile<br>media |  
+| bip_39_word_new_br4 | pen<br>mobile<br>media<br>visa |  
+| bip_39_word_new_br5 | pen<br>mobile<br>media<br>visa<br>ridge |  
+| bip_39_word_new_br6 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid |  
+| bip_39_word_new_br7 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always |  
+| bip_39_word_new_br8 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount |  
+| bip_39_word_new_br9 | pen<br>mobile<br>media<br>visa<br>ridge<br>maid<br>always<br>amount<br>clown |  
+| bip_39_word_new_line1 | pen |  
+| bip_39_word_new_line10 | pen
+mobile
+media
+visa
+ridge
+maid
+always
+amount
+clown
+hobby |  
+| bip_39_word_new_line11 | pen
+mobile
+media
+visa
+ridge
+maid
+always
+amount
+clown
+hobby
+again |  
+| bip_39_word_new_line12 | pen
+mobile
+media
+visa
+ridge
+maid
+always
+amount
+clown
+hobby
+again
+argue |  
+| bip_39_word_new_line2 | pen
+mobile |  
+| bip_39_word_new_line3 | pen
+mobile
+media |  
+| bip_39_word_new_line4 | pen
+mobile
+media
+visa |  
+| bip_39_word_new_line5 | pen
+mobile
+media
+visa
+ridge |  
+| bip_39_word_new_line6 | pen
+mobile
+media
+visa
+ridge
+maid |  
+| bip_39_word_new_line7 | pen
+mobile
+media
+visa
+ridge
+maid
+always |  
+| bip_39_word_new_line8 | pen
+mobile
+media
+visa
+ridge
+maid
+always
+amount |  
+| bip_39_word_new_line9 | pen
+mobile
+media
+visa
+ridge
+maid
+always
+amount
+clown |  
+| bip_39_word_space_0 | ['pen', 'mobile', 'media', 'visa', 'ridge', 'maid', 'always', 'amount', 'clown', 'hobby', 'again', 'argue'] |  
+| bip_39_word_space_1 | pen |  
+| bip_39_word_space_10 | pen mobile media visa ridge maid always amount clown hobby |  
+| bip_39_word_space_11 | pen mobile media visa ridge maid always amount clown hobby again |  
+| bip_39_word_space_12 | pen mobile media visa ridge maid always amount clown hobby again argue |  
+| bip_39_word_space_2 | pen mobile |  
+| bip_39_word_space_3 | pen mobile media |  
+| bip_39_word_space_4 | pen mobile media visa |  
+| bip_39_word_space_5 | pen mobile media visa ridge |  
+| bip_39_word_space_6 | pen mobile media visa ridge maid |  
+| bip_39_word_space_7 | pen mobile media visa ridge maid always |  
+| bip_39_word_space_8 | pen mobile media visa ridge maid always amount |  
+| bip_39_word_space_9 | pen mobile media visa ridge maid always amount clown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

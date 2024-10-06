@@ -1,3 +1,186 @@
+bip_39_word_new_br1: theory
+bip_39_word_new_br10: theory<br>must<br>radio<br>spot<br>guide<br>scout<br>general<br>volume<br>rebel<br>dumb
+bip_39_word_new_br11: theory<br>must<br>radio<br>spot<br>guide<br>scout<br>general<br>volume<br>rebel<br>dumb<br>topple
+bip_39_word_new_br12: theory<br>must<br>radio<br>spot<br>guide<br>scout<br>general<br>volume<br>rebel<br>dumb<br>topple<br>all
+bip_39_word_new_br2: theory<br>must
+bip_39_word_new_br3: theory<br>must<br>radio
+bip_39_word_new_br4: theory<br>must<br>radio<br>spot
+bip_39_word_new_br5: theory<br>must<br>radio<br>spot<br>guide
+bip_39_word_new_br6: theory<br>must<br>radio<br>spot<br>guide<br>scout
+bip_39_word_new_br7: theory<br>must<br>radio<br>spot<br>guide<br>scout<br>general
+bip_39_word_new_br8: theory<br>must<br>radio<br>spot<br>guide<br>scout<br>general<br>volume
+bip_39_word_new_br9: theory<br>must<br>radio<br>spot<br>guide<br>scout<br>general<br>volume<br>rebel
+bip_39_word_new_line1: theory
+bip_39_word_new_line10: 'theory
+
+  must
+
+  radio
+
+  spot
+
+  guide
+
+  scout
+
+  general
+
+  volume
+
+  rebel
+
+  dumb'
+bip_39_word_new_line11: 'theory
+
+  must
+
+  radio
+
+  spot
+
+  guide
+
+  scout
+
+  general
+
+  volume
+
+  rebel
+
+  dumb
+
+  topple'
+bip_39_word_new_line12: 'theory
+
+  must
+
+  radio
+
+  spot
+
+  guide
+
+  scout
+
+  general
+
+  volume
+
+  rebel
+
+  dumb
+
+  topple
+
+  all'
+bip_39_word_new_line2: 'theory
+
+  must'
+bip_39_word_new_line3: 'theory
+
+  must
+
+  radio'
+bip_39_word_new_line4: 'theory
+
+  must
+
+  radio
+
+  spot'
+bip_39_word_new_line5: 'theory
+
+  must
+
+  radio
+
+  spot
+
+  guide'
+bip_39_word_new_line6: 'theory
+
+  must
+
+  radio
+
+  spot
+
+  guide
+
+  scout'
+bip_39_word_new_line7: 'theory
+
+  must
+
+  radio
+
+  spot
+
+  guide
+
+  scout
+
+  general'
+bip_39_word_new_line8: 'theory
+
+  must
+
+  radio
+
+  spot
+
+  guide
+
+  scout
+
+  general
+
+  volume'
+bip_39_word_new_line9: 'theory
+
+  must
+
+  radio
+
+  spot
+
+  guide
+
+  scout
+
+  general
+
+  volume
+
+  rebel'
+bip_39_word_space_0:
+- theory
+- must
+- radio
+- spot
+- guide
+- scout
+- general
+- volume
+- rebel
+- dumb
+- topple
+- all
+bip_39_word_space_1: theory
+bip_39_word_space_10: theory must radio spot guide scout general volume rebel dumb
+bip_39_word_space_11: theory must radio spot guide scout general volume rebel dumb
+  topple
+bip_39_word_space_12: theory must radio spot guide scout general volume rebel dumb
+  topple all
+bip_39_word_space_2: theory must
+bip_39_word_space_3: theory must radio
+bip_39_word_space_4: theory must radio spot
+bip_39_word_space_5: theory must radio spot guide
+bip_39_word_space_6: theory must radio spot guide scout
+bip_39_word_space_7: theory must radio spot guide scout general
+bip_39_word_space_8: theory must radio spot guide scout general volume
+bip_39_word_space_9: theory must radio spot guide scout general volume rebel
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: apology element
+  * bip 39 word 3: apology element spy
+  * bip 39 word: apology element spy entry spring cloth prison tongue unable occur shadow audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | apology |  
+| bip_39_word_new_br10 | apology<br>element<br>spy<br>entry<br>spring<br>cloth<br>prison<br>tongue<br>unable<br>occur |  
+| bip_39_word_new_br11 | apology<br>element<br>spy<br>entry<br>spring<br>cloth<br>prison<br>tongue<br>unable<br>occur<br>shadow |  
+| bip_39_word_new_br12 | apology<br>element<br>spy<br>entry<br>spring<br>cloth<br>prison<br>tongue<br>unable<br>occur<br>shadow<br>audit |  
+| bip_39_word_new_br2 | apology<br>element |  
+| bip_39_word_new_br3 | apology<br>element<br>spy |  
+| bip_39_word_new_br4 | apology<br>element<br>spy<br>entry |  
+| bip_39_word_new_br5 | apology<br>element<br>spy<br>entry<br>spring |  
+| bip_39_word_new_br6 | apology<br>element<br>spy<br>entry<br>spring<br>cloth |  
+| bip_39_word_new_br7 | apology<br>element<br>spy<br>entry<br>spring<br>cloth<br>prison |  
+| bip_39_word_new_br8 | apology<br>element<br>spy<br>entry<br>spring<br>cloth<br>prison<br>tongue |  
+| bip_39_word_new_br9 | apology<br>element<br>spy<br>entry<br>spring<br>cloth<br>prison<br>tongue<br>unable |  
+| bip_39_word_new_line1 | apology |  
+| bip_39_word_new_line10 | apology
+element
+spy
+entry
+spring
+cloth
+prison
+tongue
+unable
+occur |  
+| bip_39_word_new_line11 | apology
+element
+spy
+entry
+spring
+cloth
+prison
+tongue
+unable
+occur
+shadow |  
+| bip_39_word_new_line12 | apology
+element
+spy
+entry
+spring
+cloth
+prison
+tongue
+unable
+occur
+shadow
+audit |  
+| bip_39_word_new_line2 | apology
+element |  
+| bip_39_word_new_line3 | apology
+element
+spy |  
+| bip_39_word_new_line4 | apology
+element
+spy
+entry |  
+| bip_39_word_new_line5 | apology
+element
+spy
+entry
+spring |  
+| bip_39_word_new_line6 | apology
+element
+spy
+entry
+spring
+cloth |  
+| bip_39_word_new_line7 | apology
+element
+spy
+entry
+spring
+cloth
+prison |  
+| bip_39_word_new_line8 | apology
+element
+spy
+entry
+spring
+cloth
+prison
+tongue |  
+| bip_39_word_new_line9 | apology
+element
+spy
+entry
+spring
+cloth
+prison
+tongue
+unable |  
+| bip_39_word_space_0 | ['apology', 'element', 'spy', 'entry', 'spring', 'cloth', 'prison', 'tongue', 'unable', 'occur', 'shadow', 'audit'] |  
+| bip_39_word_space_1 | apology |  
+| bip_39_word_space_10 | apology element spy entry spring cloth prison tongue unable occur |  
+| bip_39_word_space_11 | apology element spy entry spring cloth prison tongue unable occur shadow |  
+| bip_39_word_space_12 | apology element spy entry spring cloth prison tongue unable occur shadow audit |  
+| bip_39_word_space_2 | apology element |  
+| bip_39_word_space_3 | apology element spy |  
+| bip_39_word_space_4 | apology element spy entry |  
+| bip_39_word_space_5 | apology element spy entry spring |  
+| bip_39_word_space_6 | apology element spy entry spring cloth |  
+| bip_39_word_space_7 | apology element spy entry spring cloth prison |  
+| bip_39_word_space_8 | apology element spy entry spring cloth prison tongue |  
+| bip_39_word_space_9 | apology element spy entry spring cloth prison tongue unable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

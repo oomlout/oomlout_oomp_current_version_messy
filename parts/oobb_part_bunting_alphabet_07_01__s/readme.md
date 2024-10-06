@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: s
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boost uncover
+  * bip 39 word 3: boost uncover mutual
+  * bip 39 word: boost uncover mutual view flame destroy rigid oval paper march umbrella appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boost |  
+| bip_39_word_new_br10 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper<br>march |  
+| bip_39_word_new_br11 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper<br>march<br>umbrella |  
+| bip_39_word_new_br12 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper<br>march<br>umbrella<br>appear |  
+| bip_39_word_new_br2 | boost<br>uncover |  
+| bip_39_word_new_br3 | boost<br>uncover<br>mutual |  
+| bip_39_word_new_br4 | boost<br>uncover<br>mutual<br>view |  
+| bip_39_word_new_br5 | boost<br>uncover<br>mutual<br>view<br>flame |  
+| bip_39_word_new_br6 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy |  
+| bip_39_word_new_br7 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid |  
+| bip_39_word_new_br8 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval |  
+| bip_39_word_new_br9 | boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper |  
+| bip_39_word_new_line1 | boost |  
+| bip_39_word_new_line10 | boost
+uncover
+mutual
+view
+flame
+destroy
+rigid
+oval
+paper
+march |  
+| bip_39_word_new_line11 | boost
+uncover
+mutual
+view
+flame
+destroy
+rigid
+oval
+paper
+march
+umbrella |  
+| bip_39_word_new_line12 | boost
+uncover
+mutual
+view
+flame
+destroy
+rigid
+oval
+paper
+march
+umbrella
+appear |  
+| bip_39_word_new_line2 | boost
+uncover |  
+| bip_39_word_new_line3 | boost
+uncover
+mutual |  
+| bip_39_word_new_line4 | boost
+uncover
+mutual
+view |  
+| bip_39_word_new_line5 | boost
+uncover
+mutual
+view
+flame |  
+| bip_39_word_new_line6 | boost
+uncover
+mutual
+view
+flame
+destroy |  
+| bip_39_word_new_line7 | boost
+uncover
+mutual
+view
+flame
+destroy
+rigid |  
+| bip_39_word_new_line8 | boost
+uncover
+mutual
+view
+flame
+destroy
+rigid
+oval |  
+| bip_39_word_new_line9 | boost
+uncover
+mutual
+view
+flame
+destroy
+rigid
+oval
+paper |  
+| bip_39_word_space_0 | ['boost', 'uncover', 'mutual', 'view', 'flame', 'destroy', 'rigid', 'oval', 'paper', 'march', 'umbrella', 'appear'] |  
+| bip_39_word_space_1 | boost |  
+| bip_39_word_space_10 | boost uncover mutual view flame destroy rigid oval paper march |  
+| bip_39_word_space_11 | boost uncover mutual view flame destroy rigid oval paper march umbrella |  
+| bip_39_word_space_12 | boost uncover mutual view flame destroy rigid oval paper march umbrella appear |  
+| bip_39_word_space_2 | boost uncover |  
+| bip_39_word_space_3 | boost uncover mutual |  
+| bip_39_word_space_4 | boost uncover mutual view |  
+| bip_39_word_space_5 | boost uncover mutual view flame |  
+| bip_39_word_space_6 | boost uncover mutual view flame destroy |  
+| bip_39_word_space_7 | boost uncover mutual view flame destroy rigid |  
+| bip_39_word_space_8 | boost uncover mutual view flame destroy rigid oval |  
+| bip_39_word_space_9 | boost uncover mutual view flame destroy rigid oval paper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

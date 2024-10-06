@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: now cradle
+  * bip 39 word 3: now cradle record
+  * bip 39 word: now cradle record inform affair boost tomato thing describe obey ride arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | now |  
+| bip_39_word_new_br10 | now<br>cradle<br>record<br>inform<br>affair<br>boost<br>tomato<br>thing<br>describe<br>obey |  
+| bip_39_word_new_br11 | now<br>cradle<br>record<br>inform<br>affair<br>boost<br>tomato<br>thing<br>describe<br>obey<br>ride |  
+| bip_39_word_new_br12 | now<br>cradle<br>record<br>inform<br>affair<br>boost<br>tomato<br>thing<br>describe<br>obey<br>ride<br>arrow |  
+| bip_39_word_new_br2 | now<br>cradle |  
+| bip_39_word_new_br3 | now<br>cradle<br>record |  
+| bip_39_word_new_br4 | now<br>cradle<br>record<br>inform |  
+| bip_39_word_new_br5 | now<br>cradle<br>record<br>inform<br>affair |  
+| bip_39_word_new_br6 | now<br>cradle<br>record<br>inform<br>affair<br>boost |  
+| bip_39_word_new_br7 | now<br>cradle<br>record<br>inform<br>affair<br>boost<br>tomato |  
+| bip_39_word_new_br8 | now<br>cradle<br>record<br>inform<br>affair<br>boost<br>tomato<br>thing |  
+| bip_39_word_new_br9 | now<br>cradle<br>record<br>inform<br>affair<br>boost<br>tomato<br>thing<br>describe |  
+| bip_39_word_new_line1 | now |  
+| bip_39_word_new_line10 | now
+cradle
+record
+inform
+affair
+boost
+tomato
+thing
+describe
+obey |  
+| bip_39_word_new_line11 | now
+cradle
+record
+inform
+affair
+boost
+tomato
+thing
+describe
+obey
+ride |  
+| bip_39_word_new_line12 | now
+cradle
+record
+inform
+affair
+boost
+tomato
+thing
+describe
+obey
+ride
+arrow |  
+| bip_39_word_new_line2 | now
+cradle |  
+| bip_39_word_new_line3 | now
+cradle
+record |  
+| bip_39_word_new_line4 | now
+cradle
+record
+inform |  
+| bip_39_word_new_line5 | now
+cradle
+record
+inform
+affair |  
+| bip_39_word_new_line6 | now
+cradle
+record
+inform
+affair
+boost |  
+| bip_39_word_new_line7 | now
+cradle
+record
+inform
+affair
+boost
+tomato |  
+| bip_39_word_new_line8 | now
+cradle
+record
+inform
+affair
+boost
+tomato
+thing |  
+| bip_39_word_new_line9 | now
+cradle
+record
+inform
+affair
+boost
+tomato
+thing
+describe |  
+| bip_39_word_space_0 | ['now', 'cradle', 'record', 'inform', 'affair', 'boost', 'tomato', 'thing', 'describe', 'obey', 'ride', 'arrow'] |  
+| bip_39_word_space_1 | now |  
+| bip_39_word_space_10 | now cradle record inform affair boost tomato thing describe obey |  
+| bip_39_word_space_11 | now cradle record inform affair boost tomato thing describe obey ride |  
+| bip_39_word_space_12 | now cradle record inform affair boost tomato thing describe obey ride arrow |  
+| bip_39_word_space_2 | now cradle |  
+| bip_39_word_space_3 | now cradle record |  
+| bip_39_word_space_4 | now cradle record inform |  
+| bip_39_word_space_5 | now cradle record inform affair |  
+| bip_39_word_space_6 | now cradle record inform affair boost |  
+| bip_39_word_space_7 | now cradle record inform affair boost tomato |  
+| bip_39_word_space_8 | now cradle record inform affair boost tomato thing |  
+| bip_39_word_space_9 | now cradle record inform affair boost tomato thing describe |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

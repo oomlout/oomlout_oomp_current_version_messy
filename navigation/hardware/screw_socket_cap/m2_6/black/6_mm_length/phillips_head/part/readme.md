@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: picnic style
+  * bip 39 word 3: picnic style short
+  * bip 39 word: picnic style short fetch explain hip fossil squeeze bike right outdoor amazing
 
 ### other_codes
 * short_code: sc2d6b6p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | picnic |  
+| bip_39_word_new_br10 | picnic<br>style<br>short<br>fetch<br>explain<br>hip<br>fossil<br>squeeze<br>bike<br>right |  
+| bip_39_word_new_br11 | picnic<br>style<br>short<br>fetch<br>explain<br>hip<br>fossil<br>squeeze<br>bike<br>right<br>outdoor |  
+| bip_39_word_new_br12 | picnic<br>style<br>short<br>fetch<br>explain<br>hip<br>fossil<br>squeeze<br>bike<br>right<br>outdoor<br>amazing |  
+| bip_39_word_new_br2 | picnic<br>style |  
+| bip_39_word_new_br3 | picnic<br>style<br>short |  
+| bip_39_word_new_br4 | picnic<br>style<br>short<br>fetch |  
+| bip_39_word_new_br5 | picnic<br>style<br>short<br>fetch<br>explain |  
+| bip_39_word_new_br6 | picnic<br>style<br>short<br>fetch<br>explain<br>hip |  
+| bip_39_word_new_br7 | picnic<br>style<br>short<br>fetch<br>explain<br>hip<br>fossil |  
+| bip_39_word_new_br8 | picnic<br>style<br>short<br>fetch<br>explain<br>hip<br>fossil<br>squeeze |  
+| bip_39_word_new_br9 | picnic<br>style<br>short<br>fetch<br>explain<br>hip<br>fossil<br>squeeze<br>bike |  
+| bip_39_word_new_line1 | picnic |  
+| bip_39_word_new_line10 | picnic
+style
+short
+fetch
+explain
+hip
+fossil
+squeeze
+bike
+right |  
+| bip_39_word_new_line11 | picnic
+style
+short
+fetch
+explain
+hip
+fossil
+squeeze
+bike
+right
+outdoor |  
+| bip_39_word_new_line12 | picnic
+style
+short
+fetch
+explain
+hip
+fossil
+squeeze
+bike
+right
+outdoor
+amazing |  
+| bip_39_word_new_line2 | picnic
+style |  
+| bip_39_word_new_line3 | picnic
+style
+short |  
+| bip_39_word_new_line4 | picnic
+style
+short
+fetch |  
+| bip_39_word_new_line5 | picnic
+style
+short
+fetch
+explain |  
+| bip_39_word_new_line6 | picnic
+style
+short
+fetch
+explain
+hip |  
+| bip_39_word_new_line7 | picnic
+style
+short
+fetch
+explain
+hip
+fossil |  
+| bip_39_word_new_line8 | picnic
+style
+short
+fetch
+explain
+hip
+fossil
+squeeze |  
+| bip_39_word_new_line9 | picnic
+style
+short
+fetch
+explain
+hip
+fossil
+squeeze
+bike |  
+| bip_39_word_space_0 | ['picnic', 'style', 'short', 'fetch', 'explain', 'hip', 'fossil', 'squeeze', 'bike', 'right', 'outdoor', 'amazing'] |  
+| bip_39_word_space_1 | picnic |  
+| bip_39_word_space_10 | picnic style short fetch explain hip fossil squeeze bike right |  
+| bip_39_word_space_11 | picnic style short fetch explain hip fossil squeeze bike right outdoor |  
+| bip_39_word_space_12 | picnic style short fetch explain hip fossil squeeze bike right outdoor amazing |  
+| bip_39_word_space_2 | picnic style |  
+| bip_39_word_space_3 | picnic style short |  
+| bip_39_word_space_4 | picnic style short fetch |  
+| bip_39_word_space_5 | picnic style short fetch explain |  
+| bip_39_word_space_6 | picnic style short fetch explain hip |  
+| bip_39_word_space_7 | picnic style short fetch explain hip fossil |  
+| bip_39_word_space_8 | picnic style short fetch explain hip fossil squeeze |  
+| bip_39_word_space_9 | picnic style short fetch explain hip fossil squeeze bike |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

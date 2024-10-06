@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fix sweet
+  * bip 39 word 3: fix sweet lonely
+  * bip 39 word: fix sweet lonely horror earn omit banner impact dad junior amateur also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fix |  
+| bip_39_word_new_br10 | fix<br>sweet<br>lonely<br>horror<br>earn<br>omit<br>banner<br>impact<br>dad<br>junior |  
+| bip_39_word_new_br11 | fix<br>sweet<br>lonely<br>horror<br>earn<br>omit<br>banner<br>impact<br>dad<br>junior<br>amateur |  
+| bip_39_word_new_br12 | fix<br>sweet<br>lonely<br>horror<br>earn<br>omit<br>banner<br>impact<br>dad<br>junior<br>amateur<br>also |  
+| bip_39_word_new_br2 | fix<br>sweet |  
+| bip_39_word_new_br3 | fix<br>sweet<br>lonely |  
+| bip_39_word_new_br4 | fix<br>sweet<br>lonely<br>horror |  
+| bip_39_word_new_br5 | fix<br>sweet<br>lonely<br>horror<br>earn |  
+| bip_39_word_new_br6 | fix<br>sweet<br>lonely<br>horror<br>earn<br>omit |  
+| bip_39_word_new_br7 | fix<br>sweet<br>lonely<br>horror<br>earn<br>omit<br>banner |  
+| bip_39_word_new_br8 | fix<br>sweet<br>lonely<br>horror<br>earn<br>omit<br>banner<br>impact |  
+| bip_39_word_new_br9 | fix<br>sweet<br>lonely<br>horror<br>earn<br>omit<br>banner<br>impact<br>dad |  
+| bip_39_word_new_line1 | fix |  
+| bip_39_word_new_line10 | fix
+sweet
+lonely
+horror
+earn
+omit
+banner
+impact
+dad
+junior |  
+| bip_39_word_new_line11 | fix
+sweet
+lonely
+horror
+earn
+omit
+banner
+impact
+dad
+junior
+amateur |  
+| bip_39_word_new_line12 | fix
+sweet
+lonely
+horror
+earn
+omit
+banner
+impact
+dad
+junior
+amateur
+also |  
+| bip_39_word_new_line2 | fix
+sweet |  
+| bip_39_word_new_line3 | fix
+sweet
+lonely |  
+| bip_39_word_new_line4 | fix
+sweet
+lonely
+horror |  
+| bip_39_word_new_line5 | fix
+sweet
+lonely
+horror
+earn |  
+| bip_39_word_new_line6 | fix
+sweet
+lonely
+horror
+earn
+omit |  
+| bip_39_word_new_line7 | fix
+sweet
+lonely
+horror
+earn
+omit
+banner |  
+| bip_39_word_new_line8 | fix
+sweet
+lonely
+horror
+earn
+omit
+banner
+impact |  
+| bip_39_word_new_line9 | fix
+sweet
+lonely
+horror
+earn
+omit
+banner
+impact
+dad |  
+| bip_39_word_space_0 | ['fix', 'sweet', 'lonely', 'horror', 'earn', 'omit', 'banner', 'impact', 'dad', 'junior', 'amateur', 'also'] |  
+| bip_39_word_space_1 | fix |  
+| bip_39_word_space_10 | fix sweet lonely horror earn omit banner impact dad junior |  
+| bip_39_word_space_11 | fix sweet lonely horror earn omit banner impact dad junior amateur |  
+| bip_39_word_space_12 | fix sweet lonely horror earn omit banner impact dad junior amateur also |  
+| bip_39_word_space_2 | fix sweet |  
+| bip_39_word_space_3 | fix sweet lonely |  
+| bip_39_word_space_4 | fix sweet lonely horror |  
+| bip_39_word_space_5 | fix sweet lonely horror earn |  
+| bip_39_word_space_6 | fix sweet lonely horror earn omit |  
+| bip_39_word_space_7 | fix sweet lonely horror earn omit banner |  
+| bip_39_word_space_8 | fix sweet lonely horror earn omit banner impact |  
+| bip_39_word_space_9 | fix sweet lonely horror earn omit banner impact dad |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

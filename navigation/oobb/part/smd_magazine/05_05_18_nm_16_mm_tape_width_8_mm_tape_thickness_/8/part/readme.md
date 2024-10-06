@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 8
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eye trade
+  * bip 39 word 3: eye trade electric
+  * bip 39 word: eye trade electric razor rescue smart trouble comfort absorb almost special animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eye |  
+| bip_39_word_new_br10 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost |  
+| bip_39_word_new_br11 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special |  
+| bip_39_word_new_br12 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special<br>animal |  
+| bip_39_word_new_br2 | eye<br>trade |  
+| bip_39_word_new_br3 | eye<br>trade<br>electric |  
+| bip_39_word_new_br4 | eye<br>trade<br>electric<br>razor |  
+| bip_39_word_new_br5 | eye<br>trade<br>electric<br>razor<br>rescue |  
+| bip_39_word_new_br6 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart |  
+| bip_39_word_new_br7 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble |  
+| bip_39_word_new_br8 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort |  
+| bip_39_word_new_br9 | eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb |  
+| bip_39_word_new_line1 | eye |  
+| bip_39_word_new_line10 | eye
+trade
+electric
+razor
+rescue
+smart
+trouble
+comfort
+absorb
+almost |  
+| bip_39_word_new_line11 | eye
+trade
+electric
+razor
+rescue
+smart
+trouble
+comfort
+absorb
+almost
+special |  
+| bip_39_word_new_line12 | eye
+trade
+electric
+razor
+rescue
+smart
+trouble
+comfort
+absorb
+almost
+special
+animal |  
+| bip_39_word_new_line2 | eye
+trade |  
+| bip_39_word_new_line3 | eye
+trade
+electric |  
+| bip_39_word_new_line4 | eye
+trade
+electric
+razor |  
+| bip_39_word_new_line5 | eye
+trade
+electric
+razor
+rescue |  
+| bip_39_word_new_line6 | eye
+trade
+electric
+razor
+rescue
+smart |  
+| bip_39_word_new_line7 | eye
+trade
+electric
+razor
+rescue
+smart
+trouble |  
+| bip_39_word_new_line8 | eye
+trade
+electric
+razor
+rescue
+smart
+trouble
+comfort |  
+| bip_39_word_new_line9 | eye
+trade
+electric
+razor
+rescue
+smart
+trouble
+comfort
+absorb |  
+| bip_39_word_space_0 | ['eye', 'trade', 'electric', 'razor', 'rescue', 'smart', 'trouble', 'comfort', 'absorb', 'almost', 'special', 'animal'] |  
+| bip_39_word_space_1 | eye |  
+| bip_39_word_space_10 | eye trade electric razor rescue smart trouble comfort absorb almost |  
+| bip_39_word_space_11 | eye trade electric razor rescue smart trouble comfort absorb almost special |  
+| bip_39_word_space_12 | eye trade electric razor rescue smart trouble comfort absorb almost special animal |  
+| bip_39_word_space_2 | eye trade |  
+| bip_39_word_space_3 | eye trade electric |  
+| bip_39_word_space_4 | eye trade electric razor |  
+| bip_39_word_space_5 | eye trade electric razor rescue |  
+| bip_39_word_space_6 | eye trade electric razor rescue smart |  
+| bip_39_word_space_7 | eye trade electric razor rescue smart trouble |  
+| bip_39_word_space_8 | eye trade electric razor rescue smart trouble comfort |  
+| bip_39_word_space_9 | eye trade electric razor rescue smart trouble comfort absorb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hour soup
+  * bip 39 word 3: hour soup tuna
+  * bip 39 word: hour soup tuna afford feel claim fame clown sun cage service another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hour |  
+| bip_39_word_new_br10 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim<br>fame<br>clown<br>sun<br>cage |  
+| bip_39_word_new_br11 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim<br>fame<br>clown<br>sun<br>cage<br>service |  
+| bip_39_word_new_br12 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim<br>fame<br>clown<br>sun<br>cage<br>service<br>another |  
+| bip_39_word_new_br2 | hour<br>soup |  
+| bip_39_word_new_br3 | hour<br>soup<br>tuna |  
+| bip_39_word_new_br4 | hour<br>soup<br>tuna<br>afford |  
+| bip_39_word_new_br5 | hour<br>soup<br>tuna<br>afford<br>feel |  
+| bip_39_word_new_br6 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim |  
+| bip_39_word_new_br7 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim<br>fame |  
+| bip_39_word_new_br8 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim<br>fame<br>clown |  
+| bip_39_word_new_br9 | hour<br>soup<br>tuna<br>afford<br>feel<br>claim<br>fame<br>clown<br>sun |  
+| bip_39_word_new_line1 | hour |  
+| bip_39_word_new_line10 | hour
+soup
+tuna
+afford
+feel
+claim
+fame
+clown
+sun
+cage |  
+| bip_39_word_new_line11 | hour
+soup
+tuna
+afford
+feel
+claim
+fame
+clown
+sun
+cage
+service |  
+| bip_39_word_new_line12 | hour
+soup
+tuna
+afford
+feel
+claim
+fame
+clown
+sun
+cage
+service
+another |  
+| bip_39_word_new_line2 | hour
+soup |  
+| bip_39_word_new_line3 | hour
+soup
+tuna |  
+| bip_39_word_new_line4 | hour
+soup
+tuna
+afford |  
+| bip_39_word_new_line5 | hour
+soup
+tuna
+afford
+feel |  
+| bip_39_word_new_line6 | hour
+soup
+tuna
+afford
+feel
+claim |  
+| bip_39_word_new_line7 | hour
+soup
+tuna
+afford
+feel
+claim
+fame |  
+| bip_39_word_new_line8 | hour
+soup
+tuna
+afford
+feel
+claim
+fame
+clown |  
+| bip_39_word_new_line9 | hour
+soup
+tuna
+afford
+feel
+claim
+fame
+clown
+sun |  
+| bip_39_word_space_0 | ['hour', 'soup', 'tuna', 'afford', 'feel', 'claim', 'fame', 'clown', 'sun', 'cage', 'service', 'another'] |  
+| bip_39_word_space_1 | hour |  
+| bip_39_word_space_10 | hour soup tuna afford feel claim fame clown sun cage |  
+| bip_39_word_space_11 | hour soup tuna afford feel claim fame clown sun cage service |  
+| bip_39_word_space_12 | hour soup tuna afford feel claim fame clown sun cage service another |  
+| bip_39_word_space_2 | hour soup |  
+| bip_39_word_space_3 | hour soup tuna |  
+| bip_39_word_space_4 | hour soup tuna afford |  
+| bip_39_word_space_5 | hour soup tuna afford feel |  
+| bip_39_word_space_6 | hour soup tuna afford feel claim |  
+| bip_39_word_space_7 | hour soup tuna afford feel claim fame |  
+| bip_39_word_space_8 | hour soup tuna afford feel claim fame clown |  
+| bip_39_word_space_9 | hour soup tuna afford feel claim fame clown sun |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

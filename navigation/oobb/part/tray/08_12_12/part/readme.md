@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excess agree
+  * bip 39 word 3: excess agree chair
+  * bip 39 word: excess agree chair report link energy wrestle team ignore deny side asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excess |  
+| bip_39_word_new_br10 | excess<br>agree<br>chair<br>report<br>link<br>energy<br>wrestle<br>team<br>ignore<br>deny |  
+| bip_39_word_new_br11 | excess<br>agree<br>chair<br>report<br>link<br>energy<br>wrestle<br>team<br>ignore<br>deny<br>side |  
+| bip_39_word_new_br12 | excess<br>agree<br>chair<br>report<br>link<br>energy<br>wrestle<br>team<br>ignore<br>deny<br>side<br>asset |  
+| bip_39_word_new_br2 | excess<br>agree |  
+| bip_39_word_new_br3 | excess<br>agree<br>chair |  
+| bip_39_word_new_br4 | excess<br>agree<br>chair<br>report |  
+| bip_39_word_new_br5 | excess<br>agree<br>chair<br>report<br>link |  
+| bip_39_word_new_br6 | excess<br>agree<br>chair<br>report<br>link<br>energy |  
+| bip_39_word_new_br7 | excess<br>agree<br>chair<br>report<br>link<br>energy<br>wrestle |  
+| bip_39_word_new_br8 | excess<br>agree<br>chair<br>report<br>link<br>energy<br>wrestle<br>team |  
+| bip_39_word_new_br9 | excess<br>agree<br>chair<br>report<br>link<br>energy<br>wrestle<br>team<br>ignore |  
+| bip_39_word_new_line1 | excess |  
+| bip_39_word_new_line10 | excess
+agree
+chair
+report
+link
+energy
+wrestle
+team
+ignore
+deny |  
+| bip_39_word_new_line11 | excess
+agree
+chair
+report
+link
+energy
+wrestle
+team
+ignore
+deny
+side |  
+| bip_39_word_new_line12 | excess
+agree
+chair
+report
+link
+energy
+wrestle
+team
+ignore
+deny
+side
+asset |  
+| bip_39_word_new_line2 | excess
+agree |  
+| bip_39_word_new_line3 | excess
+agree
+chair |  
+| bip_39_word_new_line4 | excess
+agree
+chair
+report |  
+| bip_39_word_new_line5 | excess
+agree
+chair
+report
+link |  
+| bip_39_word_new_line6 | excess
+agree
+chair
+report
+link
+energy |  
+| bip_39_word_new_line7 | excess
+agree
+chair
+report
+link
+energy
+wrestle |  
+| bip_39_word_new_line8 | excess
+agree
+chair
+report
+link
+energy
+wrestle
+team |  
+| bip_39_word_new_line9 | excess
+agree
+chair
+report
+link
+energy
+wrestle
+team
+ignore |  
+| bip_39_word_space_0 | ['excess', 'agree', 'chair', 'report', 'link', 'energy', 'wrestle', 'team', 'ignore', 'deny', 'side', 'asset'] |  
+| bip_39_word_space_1 | excess |  
+| bip_39_word_space_10 | excess agree chair report link energy wrestle team ignore deny |  
+| bip_39_word_space_11 | excess agree chair report link energy wrestle team ignore deny side |  
+| bip_39_word_space_12 | excess agree chair report link energy wrestle team ignore deny side asset |  
+| bip_39_word_space_2 | excess agree |  
+| bip_39_word_space_3 | excess agree chair |  
+| bip_39_word_space_4 | excess agree chair report |  
+| bip_39_word_space_5 | excess agree chair report link |  
+| bip_39_word_space_6 | excess agree chair report link energy |  
+| bip_39_word_space_7 | excess agree chair report link energy wrestle |  
+| bip_39_word_space_8 | excess agree chair report link energy wrestle team |  
+| bip_39_word_space_9 | excess agree chair report link energy wrestle team ignore |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

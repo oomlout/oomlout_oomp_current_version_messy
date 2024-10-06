@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exit call
+  * bip 39 word 3: exit call palace
+  * bip 39 word: exit call palace expose faint huge misery lock forest true ghost auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exit |  
+| bip_39_word_new_br10 | exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true |  
+| bip_39_word_new_br11 | exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true<br>ghost |  
+| bip_39_word_new_br12 | exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest<br>true<br>ghost<br>auto |  
+| bip_39_word_new_br2 | exit<br>call |  
+| bip_39_word_new_br3 | exit<br>call<br>palace |  
+| bip_39_word_new_br4 | exit<br>call<br>palace<br>expose |  
+| bip_39_word_new_br5 | exit<br>call<br>palace<br>expose<br>faint |  
+| bip_39_word_new_br6 | exit<br>call<br>palace<br>expose<br>faint<br>huge |  
+| bip_39_word_new_br7 | exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery |  
+| bip_39_word_new_br8 | exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock |  
+| bip_39_word_new_br9 | exit<br>call<br>palace<br>expose<br>faint<br>huge<br>misery<br>lock<br>forest |  
+| bip_39_word_new_line1 | exit |  
+| bip_39_word_new_line10 | exit
+call
+palace
+expose
+faint
+huge
+misery
+lock
+forest
+true |  
+| bip_39_word_new_line11 | exit
+call
+palace
+expose
+faint
+huge
+misery
+lock
+forest
+true
+ghost |  
+| bip_39_word_new_line12 | exit
+call
+palace
+expose
+faint
+huge
+misery
+lock
+forest
+true
+ghost
+auto |  
+| bip_39_word_new_line2 | exit
+call |  
+| bip_39_word_new_line3 | exit
+call
+palace |  
+| bip_39_word_new_line4 | exit
+call
+palace
+expose |  
+| bip_39_word_new_line5 | exit
+call
+palace
+expose
+faint |  
+| bip_39_word_new_line6 | exit
+call
+palace
+expose
+faint
+huge |  
+| bip_39_word_new_line7 | exit
+call
+palace
+expose
+faint
+huge
+misery |  
+| bip_39_word_new_line8 | exit
+call
+palace
+expose
+faint
+huge
+misery
+lock |  
+| bip_39_word_new_line9 | exit
+call
+palace
+expose
+faint
+huge
+misery
+lock
+forest |  
+| bip_39_word_space_0 | ['exit', 'call', 'palace', 'expose', 'faint', 'huge', 'misery', 'lock', 'forest', 'true', 'ghost', 'auto'] |  
+| bip_39_word_space_1 | exit |  
+| bip_39_word_space_10 | exit call palace expose faint huge misery lock forest true |  
+| bip_39_word_space_11 | exit call palace expose faint huge misery lock forest true ghost |  
+| bip_39_word_space_12 | exit call palace expose faint huge misery lock forest true ghost auto |  
+| bip_39_word_space_2 | exit call |  
+| bip_39_word_space_3 | exit call palace |  
+| bip_39_word_space_4 | exit call palace expose |  
+| bip_39_word_space_5 | exit call palace expose faint |  
+| bip_39_word_space_6 | exit call palace expose faint huge |  
+| bip_39_word_space_7 | exit call palace expose faint huge misery |  
+| bip_39_word_space_8 | exit call palace expose faint huge misery lock |  
+| bip_39_word_space_9 | exit call palace expose faint huge misery lock forest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

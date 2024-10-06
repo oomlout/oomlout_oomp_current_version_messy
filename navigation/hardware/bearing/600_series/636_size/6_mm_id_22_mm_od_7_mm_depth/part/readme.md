@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: noble glide
+  * bip 39 word 3: noble glide trumpet
+  * bip 39 word: noble glide trumpet horror endless more because list oval decade stage actress
 
 ### other_codes
 * short_code: br636
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | noble |  
+| bip_39_word_new_br10 | noble<br>glide<br>trumpet<br>horror<br>endless<br>more<br>because<br>list<br>oval<br>decade |  
+| bip_39_word_new_br11 | noble<br>glide<br>trumpet<br>horror<br>endless<br>more<br>because<br>list<br>oval<br>decade<br>stage |  
+| bip_39_word_new_br12 | noble<br>glide<br>trumpet<br>horror<br>endless<br>more<br>because<br>list<br>oval<br>decade<br>stage<br>actress |  
+| bip_39_word_new_br2 | noble<br>glide |  
+| bip_39_word_new_br3 | noble<br>glide<br>trumpet |  
+| bip_39_word_new_br4 | noble<br>glide<br>trumpet<br>horror |  
+| bip_39_word_new_br5 | noble<br>glide<br>trumpet<br>horror<br>endless |  
+| bip_39_word_new_br6 | noble<br>glide<br>trumpet<br>horror<br>endless<br>more |  
+| bip_39_word_new_br7 | noble<br>glide<br>trumpet<br>horror<br>endless<br>more<br>because |  
+| bip_39_word_new_br8 | noble<br>glide<br>trumpet<br>horror<br>endless<br>more<br>because<br>list |  
+| bip_39_word_new_br9 | noble<br>glide<br>trumpet<br>horror<br>endless<br>more<br>because<br>list<br>oval |  
+| bip_39_word_new_line1 | noble |  
+| bip_39_word_new_line10 | noble
+glide
+trumpet
+horror
+endless
+more
+because
+list
+oval
+decade |  
+| bip_39_word_new_line11 | noble
+glide
+trumpet
+horror
+endless
+more
+because
+list
+oval
+decade
+stage |  
+| bip_39_word_new_line12 | noble
+glide
+trumpet
+horror
+endless
+more
+because
+list
+oval
+decade
+stage
+actress |  
+| bip_39_word_new_line2 | noble
+glide |  
+| bip_39_word_new_line3 | noble
+glide
+trumpet |  
+| bip_39_word_new_line4 | noble
+glide
+trumpet
+horror |  
+| bip_39_word_new_line5 | noble
+glide
+trumpet
+horror
+endless |  
+| bip_39_word_new_line6 | noble
+glide
+trumpet
+horror
+endless
+more |  
+| bip_39_word_new_line7 | noble
+glide
+trumpet
+horror
+endless
+more
+because |  
+| bip_39_word_new_line8 | noble
+glide
+trumpet
+horror
+endless
+more
+because
+list |  
+| bip_39_word_new_line9 | noble
+glide
+trumpet
+horror
+endless
+more
+because
+list
+oval |  
+| bip_39_word_space_0 | ['noble', 'glide', 'trumpet', 'horror', 'endless', 'more', 'because', 'list', 'oval', 'decade', 'stage', 'actress'] |  
+| bip_39_word_space_1 | noble |  
+| bip_39_word_space_10 | noble glide trumpet horror endless more because list oval decade |  
+| bip_39_word_space_11 | noble glide trumpet horror endless more because list oval decade stage |  
+| bip_39_word_space_12 | noble glide trumpet horror endless more because list oval decade stage actress |  
+| bip_39_word_space_2 | noble glide |  
+| bip_39_word_space_3 | noble glide trumpet |  
+| bip_39_word_space_4 | noble glide trumpet horror |  
+| bip_39_word_space_5 | noble glide trumpet horror endless |  
+| bip_39_word_space_6 | noble glide trumpet horror endless more |  
+| bip_39_word_space_7 | noble glide trumpet horror endless more because |  
+| bip_39_word_space_8 | noble glide trumpet horror endless more because list |  
+| bip_39_word_space_9 | noble glide trumpet horror endless more because list oval |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: slender
+bip_39_word_new_br10: slender<br>velvet<br>switch<br>gadget<br>over<br>exotic<br>athlete<br>skull<br>city<br>morning
+bip_39_word_new_br11: slender<br>velvet<br>switch<br>gadget<br>over<br>exotic<br>athlete<br>skull<br>city<br>morning<br>peasant
+bip_39_word_new_br12: slender<br>velvet<br>switch<br>gadget<br>over<br>exotic<br>athlete<br>skull<br>city<br>morning<br>peasant<br>adult
+bip_39_word_new_br2: slender<br>velvet
+bip_39_word_new_br3: slender<br>velvet<br>switch
+bip_39_word_new_br4: slender<br>velvet<br>switch<br>gadget
+bip_39_word_new_br5: slender<br>velvet<br>switch<br>gadget<br>over
+bip_39_word_new_br6: slender<br>velvet<br>switch<br>gadget<br>over<br>exotic
+bip_39_word_new_br7: slender<br>velvet<br>switch<br>gadget<br>over<br>exotic<br>athlete
+bip_39_word_new_br8: slender<br>velvet<br>switch<br>gadget<br>over<br>exotic<br>athlete<br>skull
+bip_39_word_new_br9: slender<br>velvet<br>switch<br>gadget<br>over<br>exotic<br>athlete<br>skull<br>city
+bip_39_word_new_line1: slender
+bip_39_word_new_line10: 'slender
+
+  velvet
+
+  switch
+
+  gadget
+
+  over
+
+  exotic
+
+  athlete
+
+  skull
+
+  city
+
+  morning'
+bip_39_word_new_line11: 'slender
+
+  velvet
+
+  switch
+
+  gadget
+
+  over
+
+  exotic
+
+  athlete
+
+  skull
+
+  city
+
+  morning
+
+  peasant'
+bip_39_word_new_line12: 'slender
+
+  velvet
+
+  switch
+
+  gadget
+
+  over
+
+  exotic
+
+  athlete
+
+  skull
+
+  city
+
+  morning
+
+  peasant
+
+  adult'
+bip_39_word_new_line2: 'slender
+
+  velvet'
+bip_39_word_new_line3: 'slender
+
+  velvet
+
+  switch'
+bip_39_word_new_line4: 'slender
+
+  velvet
+
+  switch
+
+  gadget'
+bip_39_word_new_line5: 'slender
+
+  velvet
+
+  switch
+
+  gadget
+
+  over'
+bip_39_word_new_line6: 'slender
+
+  velvet
+
+  switch
+
+  gadget
+
+  over
+
+  exotic'
+bip_39_word_new_line7: 'slender
+
+  velvet
+
+  switch
+
+  gadget
+
+  over
+
+  exotic
+
+  athlete'
+bip_39_word_new_line8: 'slender
+
+  velvet
+
+  switch
+
+  gadget
+
+  over
+
+  exotic
+
+  athlete
+
+  skull'
+bip_39_word_new_line9: 'slender
+
+  velvet
+
+  switch
+
+  gadget
+
+  over
+
+  exotic
+
+  athlete
+
+  skull
+
+  city'
+bip_39_word_space_0:
+- slender
+- velvet
+- switch
+- gadget
+- over
+- exotic
+- athlete
+- skull
+- city
+- morning
+- peasant
+- adult
+bip_39_word_space_1: slender
+bip_39_word_space_10: slender velvet switch gadget over exotic athlete skull city
+  morning
+bip_39_word_space_11: slender velvet switch gadget over exotic athlete skull city
+  morning peasant
+bip_39_word_space_12: slender velvet switch gadget over exotic athlete skull city
+  morning peasant adult
+bip_39_word_space_2: slender velvet
+bip_39_word_space_3: slender velvet switch
+bip_39_word_space_4: slender velvet switch gadget
+bip_39_word_space_5: slender velvet switch gadget over
+bip_39_word_space_6: slender velvet switch gadget over exotic
+bip_39_word_space_7: slender velvet switch gadget over exotic athlete
+bip_39_word_space_8: slender velvet switch gadget over exotic athlete skull
+bip_39_word_space_9: slender velvet switch gadget over exotic athlete skull city
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

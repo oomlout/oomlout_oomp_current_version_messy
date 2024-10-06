@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exclude degree
+  * bip 39 word 3: exclude degree buddy
+  * bip 39 word: exclude degree buddy love adjust evil frame grocery manage swing young arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exclude |  
+| bip_39_word_new_br10 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing |  
+| bip_39_word_new_br11 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing<br>young |  
+| bip_39_word_new_br12 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage<br>swing<br>young<br>arm |  
+| bip_39_word_new_br2 | exclude<br>degree |  
+| bip_39_word_new_br3 | exclude<br>degree<br>buddy |  
+| bip_39_word_new_br4 | exclude<br>degree<br>buddy<br>love |  
+| bip_39_word_new_br5 | exclude<br>degree<br>buddy<br>love<br>adjust |  
+| bip_39_word_new_br6 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil |  
+| bip_39_word_new_br7 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame |  
+| bip_39_word_new_br8 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery |  
+| bip_39_word_new_br9 | exclude<br>degree<br>buddy<br>love<br>adjust<br>evil<br>frame<br>grocery<br>manage |  
+| bip_39_word_new_line1 | exclude |  
+| bip_39_word_new_line10 | exclude
+degree
+buddy
+love
+adjust
+evil
+frame
+grocery
+manage
+swing |  
+| bip_39_word_new_line11 | exclude
+degree
+buddy
+love
+adjust
+evil
+frame
+grocery
+manage
+swing
+young |  
+| bip_39_word_new_line12 | exclude
+degree
+buddy
+love
+adjust
+evil
+frame
+grocery
+manage
+swing
+young
+arm |  
+| bip_39_word_new_line2 | exclude
+degree |  
+| bip_39_word_new_line3 | exclude
+degree
+buddy |  
+| bip_39_word_new_line4 | exclude
+degree
+buddy
+love |  
+| bip_39_word_new_line5 | exclude
+degree
+buddy
+love
+adjust |  
+| bip_39_word_new_line6 | exclude
+degree
+buddy
+love
+adjust
+evil |  
+| bip_39_word_new_line7 | exclude
+degree
+buddy
+love
+adjust
+evil
+frame |  
+| bip_39_word_new_line8 | exclude
+degree
+buddy
+love
+adjust
+evil
+frame
+grocery |  
+| bip_39_word_new_line9 | exclude
+degree
+buddy
+love
+adjust
+evil
+frame
+grocery
+manage |  
+| bip_39_word_space_0 | ['exclude', 'degree', 'buddy', 'love', 'adjust', 'evil', 'frame', 'grocery', 'manage', 'swing', 'young', 'arm'] |  
+| bip_39_word_space_1 | exclude |  
+| bip_39_word_space_10 | exclude degree buddy love adjust evil frame grocery manage swing |  
+| bip_39_word_space_11 | exclude degree buddy love adjust evil frame grocery manage swing young |  
+| bip_39_word_space_12 | exclude degree buddy love adjust evil frame grocery manage swing young arm |  
+| bip_39_word_space_2 | exclude degree |  
+| bip_39_word_space_3 | exclude degree buddy |  
+| bip_39_word_space_4 | exclude degree buddy love |  
+| bip_39_word_space_5 | exclude degree buddy love adjust |  
+| bip_39_word_space_6 | exclude degree buddy love adjust evil |  
+| bip_39_word_space_7 | exclude degree buddy love adjust evil frame |  
+| bip_39_word_space_8 | exclude degree buddy love adjust evil frame grocery |  
+| bip_39_word_space_9 | exclude degree buddy love adjust evil frame grocery manage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

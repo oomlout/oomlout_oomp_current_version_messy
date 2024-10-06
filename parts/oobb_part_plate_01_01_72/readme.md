@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bar lift
+  * bip 39 word 3: bar lift control
+  * bip 39 word: bar lift control price social valid excuse bunker blast rotate moon aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bar |  
+| bip_39_word_new_br10 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate |  
+| bip_39_word_new_br11 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate<br>moon |  
+| bip_39_word_new_br12 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast<br>rotate<br>moon<br>aspect |  
+| bip_39_word_new_br2 | bar<br>lift |  
+| bip_39_word_new_br3 | bar<br>lift<br>control |  
+| bip_39_word_new_br4 | bar<br>lift<br>control<br>price |  
+| bip_39_word_new_br5 | bar<br>lift<br>control<br>price<br>social |  
+| bip_39_word_new_br6 | bar<br>lift<br>control<br>price<br>social<br>valid |  
+| bip_39_word_new_br7 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse |  
+| bip_39_word_new_br8 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker |  
+| bip_39_word_new_br9 | bar<br>lift<br>control<br>price<br>social<br>valid<br>excuse<br>bunker<br>blast |  
+| bip_39_word_new_line1 | bar |  
+| bip_39_word_new_line10 | bar
+lift
+control
+price
+social
+valid
+excuse
+bunker
+blast
+rotate |  
+| bip_39_word_new_line11 | bar
+lift
+control
+price
+social
+valid
+excuse
+bunker
+blast
+rotate
+moon |  
+| bip_39_word_new_line12 | bar
+lift
+control
+price
+social
+valid
+excuse
+bunker
+blast
+rotate
+moon
+aspect |  
+| bip_39_word_new_line2 | bar
+lift |  
+| bip_39_word_new_line3 | bar
+lift
+control |  
+| bip_39_word_new_line4 | bar
+lift
+control
+price |  
+| bip_39_word_new_line5 | bar
+lift
+control
+price
+social |  
+| bip_39_word_new_line6 | bar
+lift
+control
+price
+social
+valid |  
+| bip_39_word_new_line7 | bar
+lift
+control
+price
+social
+valid
+excuse |  
+| bip_39_word_new_line8 | bar
+lift
+control
+price
+social
+valid
+excuse
+bunker |  
+| bip_39_word_new_line9 | bar
+lift
+control
+price
+social
+valid
+excuse
+bunker
+blast |  
+| bip_39_word_space_0 | ['bar', 'lift', 'control', 'price', 'social', 'valid', 'excuse', 'bunker', 'blast', 'rotate', 'moon', 'aspect'] |  
+| bip_39_word_space_1 | bar |  
+| bip_39_word_space_10 | bar lift control price social valid excuse bunker blast rotate |  
+| bip_39_word_space_11 | bar lift control price social valid excuse bunker blast rotate moon |  
+| bip_39_word_space_12 | bar lift control price social valid excuse bunker blast rotate moon aspect |  
+| bip_39_word_space_2 | bar lift |  
+| bip_39_word_space_3 | bar lift control |  
+| bip_39_word_space_4 | bar lift control price |  
+| bip_39_word_space_5 | bar lift control price social |  
+| bip_39_word_space_6 | bar lift control price social valid |  
+| bip_39_word_space_7 | bar lift control price social valid excuse |  
+| bip_39_word_space_8 | bar lift control price social valid excuse bunker |  
+| bip_39_word_space_9 | bar lift control price social valid excuse bunker blast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

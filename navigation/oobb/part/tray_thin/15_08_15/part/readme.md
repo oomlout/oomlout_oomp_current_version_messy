@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: people fitness
+  * bip 39 word 3: people fitness snow
+  * bip 39 word: people fitness snow light ginger dinosaur section memory kid blue shrug antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | people |  
+| bip_39_word_new_br10 | people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid<br>blue |  
+| bip_39_word_new_br11 | people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid<br>blue<br>shrug |  
+| bip_39_word_new_br12 | people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid<br>blue<br>shrug<br>antenna |  
+| bip_39_word_new_br2 | people<br>fitness |  
+| bip_39_word_new_br3 | people<br>fitness<br>snow |  
+| bip_39_word_new_br4 | people<br>fitness<br>snow<br>light |  
+| bip_39_word_new_br5 | people<br>fitness<br>snow<br>light<br>ginger |  
+| bip_39_word_new_br6 | people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur |  
+| bip_39_word_new_br7 | people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section |  
+| bip_39_word_new_br8 | people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory |  
+| bip_39_word_new_br9 | people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid |  
+| bip_39_word_new_line1 | people |  
+| bip_39_word_new_line10 | people
+fitness
+snow
+light
+ginger
+dinosaur
+section
+memory
+kid
+blue |  
+| bip_39_word_new_line11 | people
+fitness
+snow
+light
+ginger
+dinosaur
+section
+memory
+kid
+blue
+shrug |  
+| bip_39_word_new_line12 | people
+fitness
+snow
+light
+ginger
+dinosaur
+section
+memory
+kid
+blue
+shrug
+antenna |  
+| bip_39_word_new_line2 | people
+fitness |  
+| bip_39_word_new_line3 | people
+fitness
+snow |  
+| bip_39_word_new_line4 | people
+fitness
+snow
+light |  
+| bip_39_word_new_line5 | people
+fitness
+snow
+light
+ginger |  
+| bip_39_word_new_line6 | people
+fitness
+snow
+light
+ginger
+dinosaur |  
+| bip_39_word_new_line7 | people
+fitness
+snow
+light
+ginger
+dinosaur
+section |  
+| bip_39_word_new_line8 | people
+fitness
+snow
+light
+ginger
+dinosaur
+section
+memory |  
+| bip_39_word_new_line9 | people
+fitness
+snow
+light
+ginger
+dinosaur
+section
+memory
+kid |  
+| bip_39_word_space_0 | ['people', 'fitness', 'snow', 'light', 'ginger', 'dinosaur', 'section', 'memory', 'kid', 'blue', 'shrug', 'antenna'] |  
+| bip_39_word_space_1 | people |  
+| bip_39_word_space_10 | people fitness snow light ginger dinosaur section memory kid blue |  
+| bip_39_word_space_11 | people fitness snow light ginger dinosaur section memory kid blue shrug |  
+| bip_39_word_space_12 | people fitness snow light ginger dinosaur section memory kid blue shrug antenna |  
+| bip_39_word_space_2 | people fitness |  
+| bip_39_word_space_3 | people fitness snow |  
+| bip_39_word_space_4 | people fitness snow light |  
+| bip_39_word_space_5 | people fitness snow light ginger |  
+| bip_39_word_space_6 | people fitness snow light ginger dinosaur |  
+| bip_39_word_space_7 | people fitness snow light ginger dinosaur section |  
+| bip_39_word_space_8 | people fitness snow light ginger dinosaur section memory |  
+| bip_39_word_space_9 | people fitness snow light ginger dinosaur section memory kid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

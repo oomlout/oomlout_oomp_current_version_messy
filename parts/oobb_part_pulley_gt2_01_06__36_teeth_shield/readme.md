@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: over taste
+  * bip 39 word 3: over taste damp
+  * bip 39 word: over taste damp lift draft great quality narrow alter knife record absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | over |  
+| bip_39_word_new_br10 | over<br>taste<br>damp<br>lift<br>draft<br>great<br>quality<br>narrow<br>alter<br>knife |  
+| bip_39_word_new_br11 | over<br>taste<br>damp<br>lift<br>draft<br>great<br>quality<br>narrow<br>alter<br>knife<br>record |  
+| bip_39_word_new_br12 | over<br>taste<br>damp<br>lift<br>draft<br>great<br>quality<br>narrow<br>alter<br>knife<br>record<br>absorb |  
+| bip_39_word_new_br2 | over<br>taste |  
+| bip_39_word_new_br3 | over<br>taste<br>damp |  
+| bip_39_word_new_br4 | over<br>taste<br>damp<br>lift |  
+| bip_39_word_new_br5 | over<br>taste<br>damp<br>lift<br>draft |  
+| bip_39_word_new_br6 | over<br>taste<br>damp<br>lift<br>draft<br>great |  
+| bip_39_word_new_br7 | over<br>taste<br>damp<br>lift<br>draft<br>great<br>quality |  
+| bip_39_word_new_br8 | over<br>taste<br>damp<br>lift<br>draft<br>great<br>quality<br>narrow |  
+| bip_39_word_new_br9 | over<br>taste<br>damp<br>lift<br>draft<br>great<br>quality<br>narrow<br>alter |  
+| bip_39_word_new_line1 | over |  
+| bip_39_word_new_line10 | over
+taste
+damp
+lift
+draft
+great
+quality
+narrow
+alter
+knife |  
+| bip_39_word_new_line11 | over
+taste
+damp
+lift
+draft
+great
+quality
+narrow
+alter
+knife
+record |  
+| bip_39_word_new_line12 | over
+taste
+damp
+lift
+draft
+great
+quality
+narrow
+alter
+knife
+record
+absorb |  
+| bip_39_word_new_line2 | over
+taste |  
+| bip_39_word_new_line3 | over
+taste
+damp |  
+| bip_39_word_new_line4 | over
+taste
+damp
+lift |  
+| bip_39_word_new_line5 | over
+taste
+damp
+lift
+draft |  
+| bip_39_word_new_line6 | over
+taste
+damp
+lift
+draft
+great |  
+| bip_39_word_new_line7 | over
+taste
+damp
+lift
+draft
+great
+quality |  
+| bip_39_word_new_line8 | over
+taste
+damp
+lift
+draft
+great
+quality
+narrow |  
+| bip_39_word_new_line9 | over
+taste
+damp
+lift
+draft
+great
+quality
+narrow
+alter |  
+| bip_39_word_space_0 | ['over', 'taste', 'damp', 'lift', 'draft', 'great', 'quality', 'narrow', 'alter', 'knife', 'record', 'absorb'] |  
+| bip_39_word_space_1 | over |  
+| bip_39_word_space_10 | over taste damp lift draft great quality narrow alter knife |  
+| bip_39_word_space_11 | over taste damp lift draft great quality narrow alter knife record |  
+| bip_39_word_space_12 | over taste damp lift draft great quality narrow alter knife record absorb |  
+| bip_39_word_space_2 | over taste |  
+| bip_39_word_space_3 | over taste damp |  
+| bip_39_word_space_4 | over taste damp lift |  
+| bip_39_word_space_5 | over taste damp lift draft |  
+| bip_39_word_space_6 | over taste damp lift draft great |  
+| bip_39_word_space_7 | over taste damp lift draft great quality |  
+| bip_39_word_space_8 | over taste damp lift draft great quality narrow |  
+| bip_39_word_space_9 | over taste damp lift draft great quality narrow alter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slide elder
+  * bip 39 word 3: slide elder verify
+  * bip 39 word: slide elder verify solar educate close gorilla audit math nerve farm arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slide |  
+| bip_39_word_new_br10 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve |  
+| bip_39_word_new_br11 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve<br>farm |  
+| bip_39_word_new_br12 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math<br>nerve<br>farm<br>arctic |  
+| bip_39_word_new_br2 | slide<br>elder |  
+| bip_39_word_new_br3 | slide<br>elder<br>verify |  
+| bip_39_word_new_br4 | slide<br>elder<br>verify<br>solar |  
+| bip_39_word_new_br5 | slide<br>elder<br>verify<br>solar<br>educate |  
+| bip_39_word_new_br6 | slide<br>elder<br>verify<br>solar<br>educate<br>close |  
+| bip_39_word_new_br7 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla |  
+| bip_39_word_new_br8 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit |  
+| bip_39_word_new_br9 | slide<br>elder<br>verify<br>solar<br>educate<br>close<br>gorilla<br>audit<br>math |  
+| bip_39_word_new_line1 | slide |  
+| bip_39_word_new_line10 | slide
+elder
+verify
+solar
+educate
+close
+gorilla
+audit
+math
+nerve |  
+| bip_39_word_new_line11 | slide
+elder
+verify
+solar
+educate
+close
+gorilla
+audit
+math
+nerve
+farm |  
+| bip_39_word_new_line12 | slide
+elder
+verify
+solar
+educate
+close
+gorilla
+audit
+math
+nerve
+farm
+arctic |  
+| bip_39_word_new_line2 | slide
+elder |  
+| bip_39_word_new_line3 | slide
+elder
+verify |  
+| bip_39_word_new_line4 | slide
+elder
+verify
+solar |  
+| bip_39_word_new_line5 | slide
+elder
+verify
+solar
+educate |  
+| bip_39_word_new_line6 | slide
+elder
+verify
+solar
+educate
+close |  
+| bip_39_word_new_line7 | slide
+elder
+verify
+solar
+educate
+close
+gorilla |  
+| bip_39_word_new_line8 | slide
+elder
+verify
+solar
+educate
+close
+gorilla
+audit |  
+| bip_39_word_new_line9 | slide
+elder
+verify
+solar
+educate
+close
+gorilla
+audit
+math |  
+| bip_39_word_space_0 | ['slide', 'elder', 'verify', 'solar', 'educate', 'close', 'gorilla', 'audit', 'math', 'nerve', 'farm', 'arctic'] |  
+| bip_39_word_space_1 | slide |  
+| bip_39_word_space_10 | slide elder verify solar educate close gorilla audit math nerve |  
+| bip_39_word_space_11 | slide elder verify solar educate close gorilla audit math nerve farm |  
+| bip_39_word_space_12 | slide elder verify solar educate close gorilla audit math nerve farm arctic |  
+| bip_39_word_space_2 | slide elder |  
+| bip_39_word_space_3 | slide elder verify |  
+| bip_39_word_space_4 | slide elder verify solar |  
+| bip_39_word_space_5 | slide elder verify solar educate |  
+| bip_39_word_space_6 | slide elder verify solar educate close |  
+| bip_39_word_space_7 | slide elder verify solar educate close gorilla |  
+| bip_39_word_space_8 | slide elder verify solar educate close gorilla audit |  
+| bip_39_word_space_9 | slide elder verify solar educate close gorilla audit math |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: seek size
+  * bip 39 word 3: seek size clay
+  * bip 39 word: seek size clay gravity educate space butter vague west edge clown august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | seek |  
+| bip_39_word_new_br10 | seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west<br>edge |  
+| bip_39_word_new_br11 | seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west<br>edge<br>clown |  
+| bip_39_word_new_br12 | seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west<br>edge<br>clown<br>august |  
+| bip_39_word_new_br2 | seek<br>size |  
+| bip_39_word_new_br3 | seek<br>size<br>clay |  
+| bip_39_word_new_br4 | seek<br>size<br>clay<br>gravity |  
+| bip_39_word_new_br5 | seek<br>size<br>clay<br>gravity<br>educate |  
+| bip_39_word_new_br6 | seek<br>size<br>clay<br>gravity<br>educate<br>space |  
+| bip_39_word_new_br7 | seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter |  
+| bip_39_word_new_br8 | seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague |  
+| bip_39_word_new_br9 | seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west |  
+| bip_39_word_new_line1 | seek |  
+| bip_39_word_new_line10 | seek
+size
+clay
+gravity
+educate
+space
+butter
+vague
+west
+edge |  
+| bip_39_word_new_line11 | seek
+size
+clay
+gravity
+educate
+space
+butter
+vague
+west
+edge
+clown |  
+| bip_39_word_new_line12 | seek
+size
+clay
+gravity
+educate
+space
+butter
+vague
+west
+edge
+clown
+august |  
+| bip_39_word_new_line2 | seek
+size |  
+| bip_39_word_new_line3 | seek
+size
+clay |  
+| bip_39_word_new_line4 | seek
+size
+clay
+gravity |  
+| bip_39_word_new_line5 | seek
+size
+clay
+gravity
+educate |  
+| bip_39_word_new_line6 | seek
+size
+clay
+gravity
+educate
+space |  
+| bip_39_word_new_line7 | seek
+size
+clay
+gravity
+educate
+space
+butter |  
+| bip_39_word_new_line8 | seek
+size
+clay
+gravity
+educate
+space
+butter
+vague |  
+| bip_39_word_new_line9 | seek
+size
+clay
+gravity
+educate
+space
+butter
+vague
+west |  
+| bip_39_word_space_0 | ['seek', 'size', 'clay', 'gravity', 'educate', 'space', 'butter', 'vague', 'west', 'edge', 'clown', 'august'] |  
+| bip_39_word_space_1 | seek |  
+| bip_39_word_space_10 | seek size clay gravity educate space butter vague west edge |  
+| bip_39_word_space_11 | seek size clay gravity educate space butter vague west edge clown |  
+| bip_39_word_space_12 | seek size clay gravity educate space butter vague west edge clown august |  
+| bip_39_word_space_2 | seek size |  
+| bip_39_word_space_3 | seek size clay |  
+| bip_39_word_space_4 | seek size clay gravity |  
+| bip_39_word_space_5 | seek size clay gravity educate |  
+| bip_39_word_space_6 | seek size clay gravity educate space |  
+| bip_39_word_space_7 | seek size clay gravity educate space butter |  
+| bip_39_word_space_8 | seek size clay gravity educate space butter vague |  
+| bip_39_word_space_9 | seek size clay gravity educate space butter vague west |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

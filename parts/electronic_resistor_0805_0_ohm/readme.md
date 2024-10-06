@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: answer clean
+  * bip 39 word 3: answer clean fatal
+  * bip 39 word: answer clean fatal nerve violin book stomach among stereo blush clog artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | answer |  
+| bip_39_word_new_br10 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book<br>stomach<br>among<br>stereo<br>blush |  
+| bip_39_word_new_br11 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book<br>stomach<br>among<br>stereo<br>blush<br>clog |  
+| bip_39_word_new_br12 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book<br>stomach<br>among<br>stereo<br>blush<br>clog<br>artwork |  
+| bip_39_word_new_br2 | answer<br>clean |  
+| bip_39_word_new_br3 | answer<br>clean<br>fatal |  
+| bip_39_word_new_br4 | answer<br>clean<br>fatal<br>nerve |  
+| bip_39_word_new_br5 | answer<br>clean<br>fatal<br>nerve<br>violin |  
+| bip_39_word_new_br6 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book |  
+| bip_39_word_new_br7 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book<br>stomach |  
+| bip_39_word_new_br8 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book<br>stomach<br>among |  
+| bip_39_word_new_br9 | answer<br>clean<br>fatal<br>nerve<br>violin<br>book<br>stomach<br>among<br>stereo |  
+| bip_39_word_new_line1 | answer |  
+| bip_39_word_new_line10 | answer
+clean
+fatal
+nerve
+violin
+book
+stomach
+among
+stereo
+blush |  
+| bip_39_word_new_line11 | answer
+clean
+fatal
+nerve
+violin
+book
+stomach
+among
+stereo
+blush
+clog |  
+| bip_39_word_new_line12 | answer
+clean
+fatal
+nerve
+violin
+book
+stomach
+among
+stereo
+blush
+clog
+artwork |  
+| bip_39_word_new_line2 | answer
+clean |  
+| bip_39_word_new_line3 | answer
+clean
+fatal |  
+| bip_39_word_new_line4 | answer
+clean
+fatal
+nerve |  
+| bip_39_word_new_line5 | answer
+clean
+fatal
+nerve
+violin |  
+| bip_39_word_new_line6 | answer
+clean
+fatal
+nerve
+violin
+book |  
+| bip_39_word_new_line7 | answer
+clean
+fatal
+nerve
+violin
+book
+stomach |  
+| bip_39_word_new_line8 | answer
+clean
+fatal
+nerve
+violin
+book
+stomach
+among |  
+| bip_39_word_new_line9 | answer
+clean
+fatal
+nerve
+violin
+book
+stomach
+among
+stereo |  
+| bip_39_word_space_0 | ['answer', 'clean', 'fatal', 'nerve', 'violin', 'book', 'stomach', 'among', 'stereo', 'blush', 'clog', 'artwork'] |  
+| bip_39_word_space_1 | answer |  
+| bip_39_word_space_10 | answer clean fatal nerve violin book stomach among stereo blush |  
+| bip_39_word_space_11 | answer clean fatal nerve violin book stomach among stereo blush clog |  
+| bip_39_word_space_12 | answer clean fatal nerve violin book stomach among stereo blush clog artwork |  
+| bip_39_word_space_2 | answer clean |  
+| bip_39_word_space_3 | answer clean fatal |  
+| bip_39_word_space_4 | answer clean fatal nerve |  
+| bip_39_word_space_5 | answer clean fatal nerve violin |  
+| bip_39_word_space_6 | answer clean fatal nerve violin book |  
+| bip_39_word_space_7 | answer clean fatal nerve violin book stomach |  
+| bip_39_word_space_8 | answer clean fatal nerve violin book stomach among |  
+| bip_39_word_space_9 | answer clean fatal nerve violin book stomach among stereo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

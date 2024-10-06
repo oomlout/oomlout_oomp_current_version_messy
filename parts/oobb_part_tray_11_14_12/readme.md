@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: call term
+  * bip 39 word 3: call term army
+  * bip 39 word: call term army clerk sphere oak fork old laugh ripple farm abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | call |  
+| bip_39_word_new_br10 | call<br>term<br>army<br>clerk<br>sphere<br>oak<br>fork<br>old<br>laugh<br>ripple |  
+| bip_39_word_new_br11 | call<br>term<br>army<br>clerk<br>sphere<br>oak<br>fork<br>old<br>laugh<br>ripple<br>farm |  
+| bip_39_word_new_br12 | call<br>term<br>army<br>clerk<br>sphere<br>oak<br>fork<br>old<br>laugh<br>ripple<br>farm<br>abuse |  
+| bip_39_word_new_br2 | call<br>term |  
+| bip_39_word_new_br3 | call<br>term<br>army |  
+| bip_39_word_new_br4 | call<br>term<br>army<br>clerk |  
+| bip_39_word_new_br5 | call<br>term<br>army<br>clerk<br>sphere |  
+| bip_39_word_new_br6 | call<br>term<br>army<br>clerk<br>sphere<br>oak |  
+| bip_39_word_new_br7 | call<br>term<br>army<br>clerk<br>sphere<br>oak<br>fork |  
+| bip_39_word_new_br8 | call<br>term<br>army<br>clerk<br>sphere<br>oak<br>fork<br>old |  
+| bip_39_word_new_br9 | call<br>term<br>army<br>clerk<br>sphere<br>oak<br>fork<br>old<br>laugh |  
+| bip_39_word_new_line1 | call |  
+| bip_39_word_new_line10 | call
+term
+army
+clerk
+sphere
+oak
+fork
+old
+laugh
+ripple |  
+| bip_39_word_new_line11 | call
+term
+army
+clerk
+sphere
+oak
+fork
+old
+laugh
+ripple
+farm |  
+| bip_39_word_new_line12 | call
+term
+army
+clerk
+sphere
+oak
+fork
+old
+laugh
+ripple
+farm
+abuse |  
+| bip_39_word_new_line2 | call
+term |  
+| bip_39_word_new_line3 | call
+term
+army |  
+| bip_39_word_new_line4 | call
+term
+army
+clerk |  
+| bip_39_word_new_line5 | call
+term
+army
+clerk
+sphere |  
+| bip_39_word_new_line6 | call
+term
+army
+clerk
+sphere
+oak |  
+| bip_39_word_new_line7 | call
+term
+army
+clerk
+sphere
+oak
+fork |  
+| bip_39_word_new_line8 | call
+term
+army
+clerk
+sphere
+oak
+fork
+old |  
+| bip_39_word_new_line9 | call
+term
+army
+clerk
+sphere
+oak
+fork
+old
+laugh |  
+| bip_39_word_space_0 | ['call', 'term', 'army', 'clerk', 'sphere', 'oak', 'fork', 'old', 'laugh', 'ripple', 'farm', 'abuse'] |  
+| bip_39_word_space_1 | call |  
+| bip_39_word_space_10 | call term army clerk sphere oak fork old laugh ripple |  
+| bip_39_word_space_11 | call term army clerk sphere oak fork old laugh ripple farm |  
+| bip_39_word_space_12 | call term army clerk sphere oak fork old laugh ripple farm abuse |  
+| bip_39_word_space_2 | call term |  
+| bip_39_word_space_3 | call term army |  
+| bip_39_word_space_4 | call term army clerk |  
+| bip_39_word_space_5 | call term army clerk sphere |  
+| bip_39_word_space_6 | call term army clerk sphere oak |  
+| bip_39_word_space_7 | call term army clerk sphere oak fork |  
+| bip_39_word_space_8 | call term army clerk sphere oak fork old |  
+| bip_39_word_space_9 | call term army clerk sphere oak fork old laugh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: excess omit
+  * bip 39 word 3: excess omit eye
+  * bip 39 word: excess omit eye drop inform essay gap remain lift tissue hamster antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | excess |  
+| bip_39_word_new_br10 | excess<br>omit<br>eye<br>drop<br>inform<br>essay<br>gap<br>remain<br>lift<br>tissue |  
+| bip_39_word_new_br11 | excess<br>omit<br>eye<br>drop<br>inform<br>essay<br>gap<br>remain<br>lift<br>tissue<br>hamster |  
+| bip_39_word_new_br12 | excess<br>omit<br>eye<br>drop<br>inform<br>essay<br>gap<br>remain<br>lift<br>tissue<br>hamster<br>antique |  
+| bip_39_word_new_br2 | excess<br>omit |  
+| bip_39_word_new_br3 | excess<br>omit<br>eye |  
+| bip_39_word_new_br4 | excess<br>omit<br>eye<br>drop |  
+| bip_39_word_new_br5 | excess<br>omit<br>eye<br>drop<br>inform |  
+| bip_39_word_new_br6 | excess<br>omit<br>eye<br>drop<br>inform<br>essay |  
+| bip_39_word_new_br7 | excess<br>omit<br>eye<br>drop<br>inform<br>essay<br>gap |  
+| bip_39_word_new_br8 | excess<br>omit<br>eye<br>drop<br>inform<br>essay<br>gap<br>remain |  
+| bip_39_word_new_br9 | excess<br>omit<br>eye<br>drop<br>inform<br>essay<br>gap<br>remain<br>lift |  
+| bip_39_word_new_line1 | excess |  
+| bip_39_word_new_line10 | excess
+omit
+eye
+drop
+inform
+essay
+gap
+remain
+lift
+tissue |  
+| bip_39_word_new_line11 | excess
+omit
+eye
+drop
+inform
+essay
+gap
+remain
+lift
+tissue
+hamster |  
+| bip_39_word_new_line12 | excess
+omit
+eye
+drop
+inform
+essay
+gap
+remain
+lift
+tissue
+hamster
+antique |  
+| bip_39_word_new_line2 | excess
+omit |  
+| bip_39_word_new_line3 | excess
+omit
+eye |  
+| bip_39_word_new_line4 | excess
+omit
+eye
+drop |  
+| bip_39_word_new_line5 | excess
+omit
+eye
+drop
+inform |  
+| bip_39_word_new_line6 | excess
+omit
+eye
+drop
+inform
+essay |  
+| bip_39_word_new_line7 | excess
+omit
+eye
+drop
+inform
+essay
+gap |  
+| bip_39_word_new_line8 | excess
+omit
+eye
+drop
+inform
+essay
+gap
+remain |  
+| bip_39_word_new_line9 | excess
+omit
+eye
+drop
+inform
+essay
+gap
+remain
+lift |  
+| bip_39_word_space_0 | ['excess', 'omit', 'eye', 'drop', 'inform', 'essay', 'gap', 'remain', 'lift', 'tissue', 'hamster', 'antique'] |  
+| bip_39_word_space_1 | excess |  
+| bip_39_word_space_10 | excess omit eye drop inform essay gap remain lift tissue |  
+| bip_39_word_space_11 | excess omit eye drop inform essay gap remain lift tissue hamster |  
+| bip_39_word_space_12 | excess omit eye drop inform essay gap remain lift tissue hamster antique |  
+| bip_39_word_space_2 | excess omit |  
+| bip_39_word_space_3 | excess omit eye |  
+| bip_39_word_space_4 | excess omit eye drop |  
+| bip_39_word_space_5 | excess omit eye drop inform |  
+| bip_39_word_space_6 | excess omit eye drop inform essay |  
+| bip_39_word_space_7 | excess omit eye drop inform essay gap |  
+| bip_39_word_space_8 | excess omit eye drop inform essay gap remain |  
+| bip_39_word_space_9 | excess omit eye drop inform essay gap remain lift |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

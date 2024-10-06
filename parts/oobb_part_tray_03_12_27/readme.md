@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crush wheat
+  * bip 39 word 3: crush wheat amateur
+  * bip 39 word: crush wheat amateur normal decorate dolphin elder today tourist scout sting amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crush |  
+| bip_39_word_new_br10 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin<br>elder<br>today<br>tourist<br>scout |  
+| bip_39_word_new_br11 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin<br>elder<br>today<br>tourist<br>scout<br>sting |  
+| bip_39_word_new_br12 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin<br>elder<br>today<br>tourist<br>scout<br>sting<br>amazing |  
+| bip_39_word_new_br2 | crush<br>wheat |  
+| bip_39_word_new_br3 | crush<br>wheat<br>amateur |  
+| bip_39_word_new_br4 | crush<br>wheat<br>amateur<br>normal |  
+| bip_39_word_new_br5 | crush<br>wheat<br>amateur<br>normal<br>decorate |  
+| bip_39_word_new_br6 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin |  
+| bip_39_word_new_br7 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin<br>elder |  
+| bip_39_word_new_br8 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin<br>elder<br>today |  
+| bip_39_word_new_br9 | crush<br>wheat<br>amateur<br>normal<br>decorate<br>dolphin<br>elder<br>today<br>tourist |  
+| bip_39_word_new_line1 | crush |  
+| bip_39_word_new_line10 | crush
+wheat
+amateur
+normal
+decorate
+dolphin
+elder
+today
+tourist
+scout |  
+| bip_39_word_new_line11 | crush
+wheat
+amateur
+normal
+decorate
+dolphin
+elder
+today
+tourist
+scout
+sting |  
+| bip_39_word_new_line12 | crush
+wheat
+amateur
+normal
+decorate
+dolphin
+elder
+today
+tourist
+scout
+sting
+amazing |  
+| bip_39_word_new_line2 | crush
+wheat |  
+| bip_39_word_new_line3 | crush
+wheat
+amateur |  
+| bip_39_word_new_line4 | crush
+wheat
+amateur
+normal |  
+| bip_39_word_new_line5 | crush
+wheat
+amateur
+normal
+decorate |  
+| bip_39_word_new_line6 | crush
+wheat
+amateur
+normal
+decorate
+dolphin |  
+| bip_39_word_new_line7 | crush
+wheat
+amateur
+normal
+decorate
+dolphin
+elder |  
+| bip_39_word_new_line8 | crush
+wheat
+amateur
+normal
+decorate
+dolphin
+elder
+today |  
+| bip_39_word_new_line9 | crush
+wheat
+amateur
+normal
+decorate
+dolphin
+elder
+today
+tourist |  
+| bip_39_word_space_0 | ['crush', 'wheat', 'amateur', 'normal', 'decorate', 'dolphin', 'elder', 'today', 'tourist', 'scout', 'sting', 'amazing'] |  
+| bip_39_word_space_1 | crush |  
+| bip_39_word_space_10 | crush wheat amateur normal decorate dolphin elder today tourist scout |  
+| bip_39_word_space_11 | crush wheat amateur normal decorate dolphin elder today tourist scout sting |  
+| bip_39_word_space_12 | crush wheat amateur normal decorate dolphin elder today tourist scout sting amazing |  
+| bip_39_word_space_2 | crush wheat |  
+| bip_39_word_space_3 | crush wheat amateur |  
+| bip_39_word_space_4 | crush wheat amateur normal |  
+| bip_39_word_space_5 | crush wheat amateur normal decorate |  
+| bip_39_word_space_6 | crush wheat amateur normal decorate dolphin |  
+| bip_39_word_space_7 | crush wheat amateur normal decorate dolphin elder |  
+| bip_39_word_space_8 | crush wheat amateur normal decorate dolphin elder today |  
+| bip_39_word_space_9 | crush wheat amateur normal decorate dolphin elder today tourist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gaze
+bip_39_word_new_br10: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder<br>shrimp
+bip_39_word_new_br11: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder<br>shrimp<br>mosquito
+bip_39_word_new_br12: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder<br>shrimp<br>mosquito<br>acoustic
+bip_39_word_new_br2: gaze<br>ignore
+bip_39_word_new_br3: gaze<br>ignore<br>home
+bip_39_word_new_br4: gaze<br>ignore<br>home<br>drink
+bip_39_word_new_br5: gaze<br>ignore<br>home<br>drink<br>toss
+bip_39_word_new_br6: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow
+bip_39_word_new_br7: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio
+bip_39_word_new_br8: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together
+bip_39_word_new_br9: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder
+bip_39_word_new_line1: gaze
+bip_39_word_new_line10: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together
+
+  elder
+
+  shrimp'
+bip_39_word_new_line11: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together
+
+  elder
+
+  shrimp
+
+  mosquito'
+bip_39_word_new_line12: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together
+
+  elder
+
+  shrimp
+
+  mosquito
+
+  acoustic'
+bip_39_word_new_line2: 'gaze
+
+  ignore'
+bip_39_word_new_line3: 'gaze
+
+  ignore
+
+  home'
+bip_39_word_new_line4: 'gaze
+
+  ignore
+
+  home
+
+  drink'
+bip_39_word_new_line5: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss'
+bip_39_word_new_line6: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow'
+bip_39_word_new_line7: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio'
+bip_39_word_new_line8: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together'
+bip_39_word_new_line9: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together
+
+  elder'
+bip_39_word_space_0:
+- gaze
+- ignore
+- home
+- drink
+- toss
+- meadow
+- radio
+- together
+- elder
+- shrimp
+- mosquito
+- acoustic
+bip_39_word_space_1: gaze
+bip_39_word_space_10: gaze ignore home drink toss meadow radio together elder shrimp
+bip_39_word_space_11: gaze ignore home drink toss meadow radio together elder shrimp
+  mosquito
+bip_39_word_space_12: gaze ignore home drink toss meadow radio together elder shrimp
+  mosquito acoustic
+bip_39_word_space_2: gaze ignore
+bip_39_word_space_3: gaze ignore home
+bip_39_word_space_4: gaze ignore home drink
+bip_39_word_space_5: gaze ignore home drink toss
+bip_39_word_space_6: gaze ignore home drink toss meadow
+bip_39_word_space_7: gaze ignore home drink toss meadow radio
+bip_39_word_space_8: gaze ignore home drink toss meadow radio together
+bip_39_word_space_9: gaze ignore home drink toss meadow radio together elder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

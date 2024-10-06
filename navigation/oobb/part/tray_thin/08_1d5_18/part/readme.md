@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: social carry
+  * bip 39 word 3: social carry envelope
+  * bip 39 word: social carry envelope april spy obey mouse melt advance goose mountain affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | social |  
+| bip_39_word_new_br10 | social<br>carry<br>envelope<br>april<br>spy<br>obey<br>mouse<br>melt<br>advance<br>goose |  
+| bip_39_word_new_br11 | social<br>carry<br>envelope<br>april<br>spy<br>obey<br>mouse<br>melt<br>advance<br>goose<br>mountain |  
+| bip_39_word_new_br12 | social<br>carry<br>envelope<br>april<br>spy<br>obey<br>mouse<br>melt<br>advance<br>goose<br>mountain<br>affair |  
+| bip_39_word_new_br2 | social<br>carry |  
+| bip_39_word_new_br3 | social<br>carry<br>envelope |  
+| bip_39_word_new_br4 | social<br>carry<br>envelope<br>april |  
+| bip_39_word_new_br5 | social<br>carry<br>envelope<br>april<br>spy |  
+| bip_39_word_new_br6 | social<br>carry<br>envelope<br>april<br>spy<br>obey |  
+| bip_39_word_new_br7 | social<br>carry<br>envelope<br>april<br>spy<br>obey<br>mouse |  
+| bip_39_word_new_br8 | social<br>carry<br>envelope<br>april<br>spy<br>obey<br>mouse<br>melt |  
+| bip_39_word_new_br9 | social<br>carry<br>envelope<br>april<br>spy<br>obey<br>mouse<br>melt<br>advance |  
+| bip_39_word_new_line1 | social |  
+| bip_39_word_new_line10 | social
+carry
+envelope
+april
+spy
+obey
+mouse
+melt
+advance
+goose |  
+| bip_39_word_new_line11 | social
+carry
+envelope
+april
+spy
+obey
+mouse
+melt
+advance
+goose
+mountain |  
+| bip_39_word_new_line12 | social
+carry
+envelope
+april
+spy
+obey
+mouse
+melt
+advance
+goose
+mountain
+affair |  
+| bip_39_word_new_line2 | social
+carry |  
+| bip_39_word_new_line3 | social
+carry
+envelope |  
+| bip_39_word_new_line4 | social
+carry
+envelope
+april |  
+| bip_39_word_new_line5 | social
+carry
+envelope
+april
+spy |  
+| bip_39_word_new_line6 | social
+carry
+envelope
+april
+spy
+obey |  
+| bip_39_word_new_line7 | social
+carry
+envelope
+april
+spy
+obey
+mouse |  
+| bip_39_word_new_line8 | social
+carry
+envelope
+april
+spy
+obey
+mouse
+melt |  
+| bip_39_word_new_line9 | social
+carry
+envelope
+april
+spy
+obey
+mouse
+melt
+advance |  
+| bip_39_word_space_0 | ['social', 'carry', 'envelope', 'april', 'spy', 'obey', 'mouse', 'melt', 'advance', 'goose', 'mountain', 'affair'] |  
+| bip_39_word_space_1 | social |  
+| bip_39_word_space_10 | social carry envelope april spy obey mouse melt advance goose |  
+| bip_39_word_space_11 | social carry envelope april spy obey mouse melt advance goose mountain |  
+| bip_39_word_space_12 | social carry envelope april spy obey mouse melt advance goose mountain affair |  
+| bip_39_word_space_2 | social carry |  
+| bip_39_word_space_3 | social carry envelope |  
+| bip_39_word_space_4 | social carry envelope april |  
+| bip_39_word_space_5 | social carry envelope april spy |  
+| bip_39_word_space_6 | social carry envelope april spy obey |  
+| bip_39_word_space_7 | social carry envelope april spy obey mouse |  
+| bip_39_word_space_8 | social carry envelope april spy obey mouse melt |  
+| bip_39_word_space_9 | social carry envelope april spy obey mouse melt advance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

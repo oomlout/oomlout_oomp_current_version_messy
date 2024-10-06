@@ -1,3 +1,187 @@
+bip_39_word_new_br1: hold
+bip_39_word_new_br10: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live
+bip_39_word_new_br11: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live<br>clay
+bip_39_word_new_br12: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render<br>live<br>clay<br>always
+bip_39_word_new_br2: hold<br>coffee
+bip_39_word_new_br3: hold<br>coffee<br>diamond
+bip_39_word_new_br4: hold<br>coffee<br>diamond<br>acoustic
+bip_39_word_new_br5: hold<br>coffee<br>diamond<br>acoustic<br>acquire
+bip_39_word_new_br6: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common
+bip_39_word_new_br7: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery
+bip_39_word_new_br8: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great
+bip_39_word_new_br9: hold<br>coffee<br>diamond<br>acoustic<br>acquire<br>common<br>lottery<br>great<br>render
+bip_39_word_new_line1: hold
+bip_39_word_new_line10: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic
+
+  acquire
+
+  common
+
+  lottery
+
+  great
+
+  render
+
+  live'
+bip_39_word_new_line11: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic
+
+  acquire
+
+  common
+
+  lottery
+
+  great
+
+  render
+
+  live
+
+  clay'
+bip_39_word_new_line12: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic
+
+  acquire
+
+  common
+
+  lottery
+
+  great
+
+  render
+
+  live
+
+  clay
+
+  always'
+bip_39_word_new_line2: 'hold
+
+  coffee'
+bip_39_word_new_line3: 'hold
+
+  coffee
+
+  diamond'
+bip_39_word_new_line4: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic'
+bip_39_word_new_line5: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic
+
+  acquire'
+bip_39_word_new_line6: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic
+
+  acquire
+
+  common'
+bip_39_word_new_line7: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic
+
+  acquire
+
+  common
+
+  lottery'
+bip_39_word_new_line8: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic
+
+  acquire
+
+  common
+
+  lottery
+
+  great'
+bip_39_word_new_line9: 'hold
+
+  coffee
+
+  diamond
+
+  acoustic
+
+  acquire
+
+  common
+
+  lottery
+
+  great
+
+  render'
+bip_39_word_space_0:
+- hold
+- coffee
+- diamond
+- acoustic
+- acquire
+- common
+- lottery
+- great
+- render
+- live
+- clay
+- always
+bip_39_word_space_1: hold
+bip_39_word_space_10: hold coffee diamond acoustic acquire common lottery great render
+  live
+bip_39_word_space_11: hold coffee diamond acoustic acquire common lottery great render
+  live clay
+bip_39_word_space_12: hold coffee diamond acoustic acquire common lottery great render
+  live clay always
+bip_39_word_space_2: hold coffee
+bip_39_word_space_3: hold coffee diamond
+bip_39_word_space_4: hold coffee diamond acoustic
+bip_39_word_space_5: hold coffee diamond acoustic acquire
+bip_39_word_space_6: hold coffee diamond acoustic acquire common
+bip_39_word_space_7: hold coffee diamond acoustic acquire common lottery
+bip_39_word_space_8: hold coffee diamond acoustic acquire common lottery great
+bip_39_word_space_9: hold coffee diamond acoustic acquire common lottery great render
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: barrel fog
+  * bip 39 word 3: barrel fog ribbon
+  * bip 39 word: barrel fog ribbon nephew nest pigeon blush depend myth copy print add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | barrel |  
+| bip_39_word_new_br10 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon<br>blush<br>depend<br>myth<br>copy |  
+| bip_39_word_new_br11 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon<br>blush<br>depend<br>myth<br>copy<br>print |  
+| bip_39_word_new_br12 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon<br>blush<br>depend<br>myth<br>copy<br>print<br>add |  
+| bip_39_word_new_br2 | barrel<br>fog |  
+| bip_39_word_new_br3 | barrel<br>fog<br>ribbon |  
+| bip_39_word_new_br4 | barrel<br>fog<br>ribbon<br>nephew |  
+| bip_39_word_new_br5 | barrel<br>fog<br>ribbon<br>nephew<br>nest |  
+| bip_39_word_new_br6 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon |  
+| bip_39_word_new_br7 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon<br>blush |  
+| bip_39_word_new_br8 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon<br>blush<br>depend |  
+| bip_39_word_new_br9 | barrel<br>fog<br>ribbon<br>nephew<br>nest<br>pigeon<br>blush<br>depend<br>myth |  
+| bip_39_word_new_line1 | barrel |  
+| bip_39_word_new_line10 | barrel
+fog
+ribbon
+nephew
+nest
+pigeon
+blush
+depend
+myth
+copy |  
+| bip_39_word_new_line11 | barrel
+fog
+ribbon
+nephew
+nest
+pigeon
+blush
+depend
+myth
+copy
+print |  
+| bip_39_word_new_line12 | barrel
+fog
+ribbon
+nephew
+nest
+pigeon
+blush
+depend
+myth
+copy
+print
+add |  
+| bip_39_word_new_line2 | barrel
+fog |  
+| bip_39_word_new_line3 | barrel
+fog
+ribbon |  
+| bip_39_word_new_line4 | barrel
+fog
+ribbon
+nephew |  
+| bip_39_word_new_line5 | barrel
+fog
+ribbon
+nephew
+nest |  
+| bip_39_word_new_line6 | barrel
+fog
+ribbon
+nephew
+nest
+pigeon |  
+| bip_39_word_new_line7 | barrel
+fog
+ribbon
+nephew
+nest
+pigeon
+blush |  
+| bip_39_word_new_line8 | barrel
+fog
+ribbon
+nephew
+nest
+pigeon
+blush
+depend |  
+| bip_39_word_new_line9 | barrel
+fog
+ribbon
+nephew
+nest
+pigeon
+blush
+depend
+myth |  
+| bip_39_word_space_0 | ['barrel', 'fog', 'ribbon', 'nephew', 'nest', 'pigeon', 'blush', 'depend', 'myth', 'copy', 'print', 'add'] |  
+| bip_39_word_space_1 | barrel |  
+| bip_39_word_space_10 | barrel fog ribbon nephew nest pigeon blush depend myth copy |  
+| bip_39_word_space_11 | barrel fog ribbon nephew nest pigeon blush depend myth copy print |  
+| bip_39_word_space_12 | barrel fog ribbon nephew nest pigeon blush depend myth copy print add |  
+| bip_39_word_space_2 | barrel fog |  
+| bip_39_word_space_3 | barrel fog ribbon |  
+| bip_39_word_space_4 | barrel fog ribbon nephew |  
+| bip_39_word_space_5 | barrel fog ribbon nephew nest |  
+| bip_39_word_space_6 | barrel fog ribbon nephew nest pigeon |  
+| bip_39_word_space_7 | barrel fog ribbon nephew nest pigeon blush |  
+| bip_39_word_space_8 | barrel fog ribbon nephew nest pigeon blush depend |  
+| bip_39_word_space_9 | barrel fog ribbon nephew nest pigeon blush depend myth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

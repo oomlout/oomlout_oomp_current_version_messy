@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: recall dinosaur
+  * bip 39 word 3: recall dinosaur wait
+  * bip 39 word: recall dinosaur wait fetch rich sentence repeat tuition mansion innocent convince adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | recall |  
+| bip_39_word_new_br10 | recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition<br>mansion<br>innocent |  
+| bip_39_word_new_br11 | recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition<br>mansion<br>innocent<br>convince |  
+| bip_39_word_new_br12 | recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition<br>mansion<br>innocent<br>convince<br>adjust |  
+| bip_39_word_new_br2 | recall<br>dinosaur |  
+| bip_39_word_new_br3 | recall<br>dinosaur<br>wait |  
+| bip_39_word_new_br4 | recall<br>dinosaur<br>wait<br>fetch |  
+| bip_39_word_new_br5 | recall<br>dinosaur<br>wait<br>fetch<br>rich |  
+| bip_39_word_new_br6 | recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence |  
+| bip_39_word_new_br7 | recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat |  
+| bip_39_word_new_br8 | recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition |  
+| bip_39_word_new_br9 | recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition<br>mansion |  
+| bip_39_word_new_line1 | recall |  
+| bip_39_word_new_line10 | recall
+dinosaur
+wait
+fetch
+rich
+sentence
+repeat
+tuition
+mansion
+innocent |  
+| bip_39_word_new_line11 | recall
+dinosaur
+wait
+fetch
+rich
+sentence
+repeat
+tuition
+mansion
+innocent
+convince |  
+| bip_39_word_new_line12 | recall
+dinosaur
+wait
+fetch
+rich
+sentence
+repeat
+tuition
+mansion
+innocent
+convince
+adjust |  
+| bip_39_word_new_line2 | recall
+dinosaur |  
+| bip_39_word_new_line3 | recall
+dinosaur
+wait |  
+| bip_39_word_new_line4 | recall
+dinosaur
+wait
+fetch |  
+| bip_39_word_new_line5 | recall
+dinosaur
+wait
+fetch
+rich |  
+| bip_39_word_new_line6 | recall
+dinosaur
+wait
+fetch
+rich
+sentence |  
+| bip_39_word_new_line7 | recall
+dinosaur
+wait
+fetch
+rich
+sentence
+repeat |  
+| bip_39_word_new_line8 | recall
+dinosaur
+wait
+fetch
+rich
+sentence
+repeat
+tuition |  
+| bip_39_word_new_line9 | recall
+dinosaur
+wait
+fetch
+rich
+sentence
+repeat
+tuition
+mansion |  
+| bip_39_word_space_0 | ['recall', 'dinosaur', 'wait', 'fetch', 'rich', 'sentence', 'repeat', 'tuition', 'mansion', 'innocent', 'convince', 'adjust'] |  
+| bip_39_word_space_1 | recall |  
+| bip_39_word_space_10 | recall dinosaur wait fetch rich sentence repeat tuition mansion innocent |  
+| bip_39_word_space_11 | recall dinosaur wait fetch rich sentence repeat tuition mansion innocent convince |  
+| bip_39_word_space_12 | recall dinosaur wait fetch rich sentence repeat tuition mansion innocent convince adjust |  
+| bip_39_word_space_2 | recall dinosaur |  
+| bip_39_word_space_3 | recall dinosaur wait |  
+| bip_39_word_space_4 | recall dinosaur wait fetch |  
+| bip_39_word_space_5 | recall dinosaur wait fetch rich |  
+| bip_39_word_space_6 | recall dinosaur wait fetch rich sentence |  
+| bip_39_word_space_7 | recall dinosaur wait fetch rich sentence repeat |  
+| bip_39_word_space_8 | recall dinosaur wait fetch rich sentence repeat tuition |  
+| bip_39_word_space_9 | recall dinosaur wait fetch rich sentence repeat tuition mansion |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

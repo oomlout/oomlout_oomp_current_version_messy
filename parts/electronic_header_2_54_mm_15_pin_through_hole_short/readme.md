@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lemon mystery
+  * bip 39 word 3: lemon mystery grid
+  * bip 39 word: lemon mystery grid brush attend make pipe turkey proof appear drum amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lemon |  
+| bip_39_word_new_br10 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof<br>appear |  
+| bip_39_word_new_br11 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof<br>appear<br>drum |  
+| bip_39_word_new_br12 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof<br>appear<br>drum<br>amateur |  
+| bip_39_word_new_br2 | lemon<br>mystery |  
+| bip_39_word_new_br3 | lemon<br>mystery<br>grid |  
+| bip_39_word_new_br4 | lemon<br>mystery<br>grid<br>brush |  
+| bip_39_word_new_br5 | lemon<br>mystery<br>grid<br>brush<br>attend |  
+| bip_39_word_new_br6 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make |  
+| bip_39_word_new_br7 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe |  
+| bip_39_word_new_br8 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey |  
+| bip_39_word_new_br9 | lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof |  
+| bip_39_word_new_line1 | lemon |  
+| bip_39_word_new_line10 | lemon
+mystery
+grid
+brush
+attend
+make
+pipe
+turkey
+proof
+appear |  
+| bip_39_word_new_line11 | lemon
+mystery
+grid
+brush
+attend
+make
+pipe
+turkey
+proof
+appear
+drum |  
+| bip_39_word_new_line12 | lemon
+mystery
+grid
+brush
+attend
+make
+pipe
+turkey
+proof
+appear
+drum
+amateur |  
+| bip_39_word_new_line2 | lemon
+mystery |  
+| bip_39_word_new_line3 | lemon
+mystery
+grid |  
+| bip_39_word_new_line4 | lemon
+mystery
+grid
+brush |  
+| bip_39_word_new_line5 | lemon
+mystery
+grid
+brush
+attend |  
+| bip_39_word_new_line6 | lemon
+mystery
+grid
+brush
+attend
+make |  
+| bip_39_word_new_line7 | lemon
+mystery
+grid
+brush
+attend
+make
+pipe |  
+| bip_39_word_new_line8 | lemon
+mystery
+grid
+brush
+attend
+make
+pipe
+turkey |  
+| bip_39_word_new_line9 | lemon
+mystery
+grid
+brush
+attend
+make
+pipe
+turkey
+proof |  
+| bip_39_word_space_0 | ['lemon', 'mystery', 'grid', 'brush', 'attend', 'make', 'pipe', 'turkey', 'proof', 'appear', 'drum', 'amateur'] |  
+| bip_39_word_space_1 | lemon |  
+| bip_39_word_space_10 | lemon mystery grid brush attend make pipe turkey proof appear |  
+| bip_39_word_space_11 | lemon mystery grid brush attend make pipe turkey proof appear drum |  
+| bip_39_word_space_12 | lemon mystery grid brush attend make pipe turkey proof appear drum amateur |  
+| bip_39_word_space_2 | lemon mystery |  
+| bip_39_word_space_3 | lemon mystery grid |  
+| bip_39_word_space_4 | lemon mystery grid brush |  
+| bip_39_word_space_5 | lemon mystery grid brush attend |  
+| bip_39_word_space_6 | lemon mystery grid brush attend make |  
+| bip_39_word_space_7 | lemon mystery grid brush attend make pipe |  
+| bip_39_word_space_8 | lemon mystery grid brush attend make pipe turkey |  
+| bip_39_word_space_9 | lemon mystery grid brush attend make pipe turkey proof |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: armed flavor
+  * bip 39 word 3: armed flavor brand
+  * bip 39 word: armed flavor brand humble drift mango ugly soda toy fire room account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | armed |  
+| bip_39_word_new_br10 | armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy<br>fire |  
+| bip_39_word_new_br11 | armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy<br>fire<br>room |  
+| bip_39_word_new_br12 | armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy<br>fire<br>room<br>account |  
+| bip_39_word_new_br2 | armed<br>flavor |  
+| bip_39_word_new_br3 | armed<br>flavor<br>brand |  
+| bip_39_word_new_br4 | armed<br>flavor<br>brand<br>humble |  
+| bip_39_word_new_br5 | armed<br>flavor<br>brand<br>humble<br>drift |  
+| bip_39_word_new_br6 | armed<br>flavor<br>brand<br>humble<br>drift<br>mango |  
+| bip_39_word_new_br7 | armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly |  
+| bip_39_word_new_br8 | armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda |  
+| bip_39_word_new_br9 | armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy |  
+| bip_39_word_new_line1 | armed |  
+| bip_39_word_new_line10 | armed
+flavor
+brand
+humble
+drift
+mango
+ugly
+soda
+toy
+fire |  
+| bip_39_word_new_line11 | armed
+flavor
+brand
+humble
+drift
+mango
+ugly
+soda
+toy
+fire
+room |  
+| bip_39_word_new_line12 | armed
+flavor
+brand
+humble
+drift
+mango
+ugly
+soda
+toy
+fire
+room
+account |  
+| bip_39_word_new_line2 | armed
+flavor |  
+| bip_39_word_new_line3 | armed
+flavor
+brand |  
+| bip_39_word_new_line4 | armed
+flavor
+brand
+humble |  
+| bip_39_word_new_line5 | armed
+flavor
+brand
+humble
+drift |  
+| bip_39_word_new_line6 | armed
+flavor
+brand
+humble
+drift
+mango |  
+| bip_39_word_new_line7 | armed
+flavor
+brand
+humble
+drift
+mango
+ugly |  
+| bip_39_word_new_line8 | armed
+flavor
+brand
+humble
+drift
+mango
+ugly
+soda |  
+| bip_39_word_new_line9 | armed
+flavor
+brand
+humble
+drift
+mango
+ugly
+soda
+toy |  
+| bip_39_word_space_0 | ['armed', 'flavor', 'brand', 'humble', 'drift', 'mango', 'ugly', 'soda', 'toy', 'fire', 'room', 'account'] |  
+| bip_39_word_space_1 | armed |  
+| bip_39_word_space_10 | armed flavor brand humble drift mango ugly soda toy fire |  
+| bip_39_word_space_11 | armed flavor brand humble drift mango ugly soda toy fire room |  
+| bip_39_word_space_12 | armed flavor brand humble drift mango ugly soda toy fire room account |  
+| bip_39_word_space_2 | armed flavor |  
+| bip_39_word_space_3 | armed flavor brand |  
+| bip_39_word_space_4 | armed flavor brand humble |  
+| bip_39_word_space_5 | armed flavor brand humble drift |  
+| bip_39_word_space_6 | armed flavor brand humble drift mango |  
+| bip_39_word_space_7 | armed flavor brand humble drift mango ugly |  
+| bip_39_word_space_8 | armed flavor brand humble drift mango ugly soda |  
+| bip_39_word_space_9 | armed flavor brand humble drift mango ugly soda toy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

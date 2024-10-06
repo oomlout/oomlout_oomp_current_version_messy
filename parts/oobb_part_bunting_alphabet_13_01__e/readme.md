@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: e
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: devote labor
+  * bip 39 word 3: devote labor excuse
+  * bip 39 word: devote labor excuse legend slogan reason message lawsuit exile game slogan add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | devote |  
+| bip_39_word_new_br10 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason<br>message<br>lawsuit<br>exile<br>game |  
+| bip_39_word_new_br11 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason<br>message<br>lawsuit<br>exile<br>game<br>slogan |  
+| bip_39_word_new_br12 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason<br>message<br>lawsuit<br>exile<br>game<br>slogan<br>add |  
+| bip_39_word_new_br2 | devote<br>labor |  
+| bip_39_word_new_br3 | devote<br>labor<br>excuse |  
+| bip_39_word_new_br4 | devote<br>labor<br>excuse<br>legend |  
+| bip_39_word_new_br5 | devote<br>labor<br>excuse<br>legend<br>slogan |  
+| bip_39_word_new_br6 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason |  
+| bip_39_word_new_br7 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason<br>message |  
+| bip_39_word_new_br8 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason<br>message<br>lawsuit |  
+| bip_39_word_new_br9 | devote<br>labor<br>excuse<br>legend<br>slogan<br>reason<br>message<br>lawsuit<br>exile |  
+| bip_39_word_new_line1 | devote |  
+| bip_39_word_new_line10 | devote
+labor
+excuse
+legend
+slogan
+reason
+message
+lawsuit
+exile
+game |  
+| bip_39_word_new_line11 | devote
+labor
+excuse
+legend
+slogan
+reason
+message
+lawsuit
+exile
+game
+slogan |  
+| bip_39_word_new_line12 | devote
+labor
+excuse
+legend
+slogan
+reason
+message
+lawsuit
+exile
+game
+slogan
+add |  
+| bip_39_word_new_line2 | devote
+labor |  
+| bip_39_word_new_line3 | devote
+labor
+excuse |  
+| bip_39_word_new_line4 | devote
+labor
+excuse
+legend |  
+| bip_39_word_new_line5 | devote
+labor
+excuse
+legend
+slogan |  
+| bip_39_word_new_line6 | devote
+labor
+excuse
+legend
+slogan
+reason |  
+| bip_39_word_new_line7 | devote
+labor
+excuse
+legend
+slogan
+reason
+message |  
+| bip_39_word_new_line8 | devote
+labor
+excuse
+legend
+slogan
+reason
+message
+lawsuit |  
+| bip_39_word_new_line9 | devote
+labor
+excuse
+legend
+slogan
+reason
+message
+lawsuit
+exile |  
+| bip_39_word_space_0 | ['devote', 'labor', 'excuse', 'legend', 'slogan', 'reason', 'message', 'lawsuit', 'exile', 'game', 'slogan', 'add'] |  
+| bip_39_word_space_1 | devote |  
+| bip_39_word_space_10 | devote labor excuse legend slogan reason message lawsuit exile game |  
+| bip_39_word_space_11 | devote labor excuse legend slogan reason message lawsuit exile game slogan |  
+| bip_39_word_space_12 | devote labor excuse legend slogan reason message lawsuit exile game slogan add |  
+| bip_39_word_space_2 | devote labor |  
+| bip_39_word_space_3 | devote labor excuse |  
+| bip_39_word_space_4 | devote labor excuse legend |  
+| bip_39_word_space_5 | devote labor excuse legend slogan |  
+| bip_39_word_space_6 | devote labor excuse legend slogan reason |  
+| bip_39_word_space_7 | devote labor excuse legend slogan reason message |  
+| bip_39_word_space_8 | devote labor excuse legend slogan reason message lawsuit |  
+| bip_39_word_space_9 | devote labor excuse legend slogan reason message lawsuit exile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

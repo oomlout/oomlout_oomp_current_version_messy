@@ -1,3 +1,186 @@
+bip_39_word_new_br1: input
+bip_39_word_new_br10: input<br>soap<br>dose<br>point<br>autumn<br>soccer<br>edge<br>cupboard<br>room<br>bonus
+bip_39_word_new_br11: input<br>soap<br>dose<br>point<br>autumn<br>soccer<br>edge<br>cupboard<br>room<br>bonus<br>sand
+bip_39_word_new_br12: input<br>soap<br>dose<br>point<br>autumn<br>soccer<br>edge<br>cupboard<br>room<br>bonus<br>sand<br>animal
+bip_39_word_new_br2: input<br>soap
+bip_39_word_new_br3: input<br>soap<br>dose
+bip_39_word_new_br4: input<br>soap<br>dose<br>point
+bip_39_word_new_br5: input<br>soap<br>dose<br>point<br>autumn
+bip_39_word_new_br6: input<br>soap<br>dose<br>point<br>autumn<br>soccer
+bip_39_word_new_br7: input<br>soap<br>dose<br>point<br>autumn<br>soccer<br>edge
+bip_39_word_new_br8: input<br>soap<br>dose<br>point<br>autumn<br>soccer<br>edge<br>cupboard
+bip_39_word_new_br9: input<br>soap<br>dose<br>point<br>autumn<br>soccer<br>edge<br>cupboard<br>room
+bip_39_word_new_line1: input
+bip_39_word_new_line10: 'input
+
+  soap
+
+  dose
+
+  point
+
+  autumn
+
+  soccer
+
+  edge
+
+  cupboard
+
+  room
+
+  bonus'
+bip_39_word_new_line11: 'input
+
+  soap
+
+  dose
+
+  point
+
+  autumn
+
+  soccer
+
+  edge
+
+  cupboard
+
+  room
+
+  bonus
+
+  sand'
+bip_39_word_new_line12: 'input
+
+  soap
+
+  dose
+
+  point
+
+  autumn
+
+  soccer
+
+  edge
+
+  cupboard
+
+  room
+
+  bonus
+
+  sand
+
+  animal'
+bip_39_word_new_line2: 'input
+
+  soap'
+bip_39_word_new_line3: 'input
+
+  soap
+
+  dose'
+bip_39_word_new_line4: 'input
+
+  soap
+
+  dose
+
+  point'
+bip_39_word_new_line5: 'input
+
+  soap
+
+  dose
+
+  point
+
+  autumn'
+bip_39_word_new_line6: 'input
+
+  soap
+
+  dose
+
+  point
+
+  autumn
+
+  soccer'
+bip_39_word_new_line7: 'input
+
+  soap
+
+  dose
+
+  point
+
+  autumn
+
+  soccer
+
+  edge'
+bip_39_word_new_line8: 'input
+
+  soap
+
+  dose
+
+  point
+
+  autumn
+
+  soccer
+
+  edge
+
+  cupboard'
+bip_39_word_new_line9: 'input
+
+  soap
+
+  dose
+
+  point
+
+  autumn
+
+  soccer
+
+  edge
+
+  cupboard
+
+  room'
+bip_39_word_space_0:
+- input
+- soap
+- dose
+- point
+- autumn
+- soccer
+- edge
+- cupboard
+- room
+- bonus
+- sand
+- animal
+bip_39_word_space_1: input
+bip_39_word_space_10: input soap dose point autumn soccer edge cupboard room bonus
+bip_39_word_space_11: input soap dose point autumn soccer edge cupboard room bonus
+  sand
+bip_39_word_space_12: input soap dose point autumn soccer edge cupboard room bonus
+  sand animal
+bip_39_word_space_2: input soap
+bip_39_word_space_3: input soap dose
+bip_39_word_space_4: input soap dose point
+bip_39_word_space_5: input soap dose point autumn
+bip_39_word_space_6: input soap dose point autumn soccer
+bip_39_word_space_7: input soap dose point autumn soccer edge
+bip_39_word_space_8: input soap dose point autumn soccer edge cupboard
+bip_39_word_space_9: input soap dose point autumn soccer edge cupboard room
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

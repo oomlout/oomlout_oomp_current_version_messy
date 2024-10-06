@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rely museum
+  * bip 39 word 3: rely museum broccoli
+  * bip 39 word: rely museum broccoli stable various doll bargain traffic gown document jacket arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rely |  
+| bip_39_word_new_br10 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document |  
+| bip_39_word_new_br11 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket |  
+| bip_39_word_new_br12 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket<br>arena |  
+| bip_39_word_new_br2 | rely<br>museum |  
+| bip_39_word_new_br3 | rely<br>museum<br>broccoli |  
+| bip_39_word_new_br4 | rely<br>museum<br>broccoli<br>stable |  
+| bip_39_word_new_br5 | rely<br>museum<br>broccoli<br>stable<br>various |  
+| bip_39_word_new_br6 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll |  
+| bip_39_word_new_br7 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain |  
+| bip_39_word_new_br8 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic |  
+| bip_39_word_new_br9 | rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown |  
+| bip_39_word_new_line1 | rely |  
+| bip_39_word_new_line10 | rely
+museum
+broccoli
+stable
+various
+doll
+bargain
+traffic
+gown
+document |  
+| bip_39_word_new_line11 | rely
+museum
+broccoli
+stable
+various
+doll
+bargain
+traffic
+gown
+document
+jacket |  
+| bip_39_word_new_line12 | rely
+museum
+broccoli
+stable
+various
+doll
+bargain
+traffic
+gown
+document
+jacket
+arena |  
+| bip_39_word_new_line2 | rely
+museum |  
+| bip_39_word_new_line3 | rely
+museum
+broccoli |  
+| bip_39_word_new_line4 | rely
+museum
+broccoli
+stable |  
+| bip_39_word_new_line5 | rely
+museum
+broccoli
+stable
+various |  
+| bip_39_word_new_line6 | rely
+museum
+broccoli
+stable
+various
+doll |  
+| bip_39_word_new_line7 | rely
+museum
+broccoli
+stable
+various
+doll
+bargain |  
+| bip_39_word_new_line8 | rely
+museum
+broccoli
+stable
+various
+doll
+bargain
+traffic |  
+| bip_39_word_new_line9 | rely
+museum
+broccoli
+stable
+various
+doll
+bargain
+traffic
+gown |  
+| bip_39_word_space_0 | ['rely', 'museum', 'broccoli', 'stable', 'various', 'doll', 'bargain', 'traffic', 'gown', 'document', 'jacket', 'arena'] |  
+| bip_39_word_space_1 | rely |  
+| bip_39_word_space_10 | rely museum broccoli stable various doll bargain traffic gown document |  
+| bip_39_word_space_11 | rely museum broccoli stable various doll bargain traffic gown document jacket |  
+| bip_39_word_space_12 | rely museum broccoli stable various doll bargain traffic gown document jacket arena |  
+| bip_39_word_space_2 | rely museum |  
+| bip_39_word_space_3 | rely museum broccoli |  
+| bip_39_word_space_4 | rely museum broccoli stable |  
+| bip_39_word_space_5 | rely museum broccoli stable various |  
+| bip_39_word_space_6 | rely museum broccoli stable various doll |  
+| bip_39_word_space_7 | rely museum broccoli stable various doll bargain |  
+| bip_39_word_space_8 | rely museum broccoli stable various doll bargain traffic |  
+| bip_39_word_space_9 | rely museum broccoli stable various doll bargain traffic gown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

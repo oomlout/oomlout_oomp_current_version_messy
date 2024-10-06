@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cage concert
+  * bip 39 word 3: cage concert layer
+  * bip 39 word: cage concert layer wrap stand bind extra obtain slogan boil law argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cage |  
+| bip_39_word_new_br10 | cage<br>concert<br>layer<br>wrap<br>stand<br>bind<br>extra<br>obtain<br>slogan<br>boil |  
+| bip_39_word_new_br11 | cage<br>concert<br>layer<br>wrap<br>stand<br>bind<br>extra<br>obtain<br>slogan<br>boil<br>law |  
+| bip_39_word_new_br12 | cage<br>concert<br>layer<br>wrap<br>stand<br>bind<br>extra<br>obtain<br>slogan<br>boil<br>law<br>argue |  
+| bip_39_word_new_br2 | cage<br>concert |  
+| bip_39_word_new_br3 | cage<br>concert<br>layer |  
+| bip_39_word_new_br4 | cage<br>concert<br>layer<br>wrap |  
+| bip_39_word_new_br5 | cage<br>concert<br>layer<br>wrap<br>stand |  
+| bip_39_word_new_br6 | cage<br>concert<br>layer<br>wrap<br>stand<br>bind |  
+| bip_39_word_new_br7 | cage<br>concert<br>layer<br>wrap<br>stand<br>bind<br>extra |  
+| bip_39_word_new_br8 | cage<br>concert<br>layer<br>wrap<br>stand<br>bind<br>extra<br>obtain |  
+| bip_39_word_new_br9 | cage<br>concert<br>layer<br>wrap<br>stand<br>bind<br>extra<br>obtain<br>slogan |  
+| bip_39_word_new_line1 | cage |  
+| bip_39_word_new_line10 | cage
+concert
+layer
+wrap
+stand
+bind
+extra
+obtain
+slogan
+boil |  
+| bip_39_word_new_line11 | cage
+concert
+layer
+wrap
+stand
+bind
+extra
+obtain
+slogan
+boil
+law |  
+| bip_39_word_new_line12 | cage
+concert
+layer
+wrap
+stand
+bind
+extra
+obtain
+slogan
+boil
+law
+argue |  
+| bip_39_word_new_line2 | cage
+concert |  
+| bip_39_word_new_line3 | cage
+concert
+layer |  
+| bip_39_word_new_line4 | cage
+concert
+layer
+wrap |  
+| bip_39_word_new_line5 | cage
+concert
+layer
+wrap
+stand |  
+| bip_39_word_new_line6 | cage
+concert
+layer
+wrap
+stand
+bind |  
+| bip_39_word_new_line7 | cage
+concert
+layer
+wrap
+stand
+bind
+extra |  
+| bip_39_word_new_line8 | cage
+concert
+layer
+wrap
+stand
+bind
+extra
+obtain |  
+| bip_39_word_new_line9 | cage
+concert
+layer
+wrap
+stand
+bind
+extra
+obtain
+slogan |  
+| bip_39_word_space_0 | ['cage', 'concert', 'layer', 'wrap', 'stand', 'bind', 'extra', 'obtain', 'slogan', 'boil', 'law', 'argue'] |  
+| bip_39_word_space_1 | cage |  
+| bip_39_word_space_10 | cage concert layer wrap stand bind extra obtain slogan boil |  
+| bip_39_word_space_11 | cage concert layer wrap stand bind extra obtain slogan boil law |  
+| bip_39_word_space_12 | cage concert layer wrap stand bind extra obtain slogan boil law argue |  
+| bip_39_word_space_2 | cage concert |  
+| bip_39_word_space_3 | cage concert layer |  
+| bip_39_word_space_4 | cage concert layer wrap |  
+| bip_39_word_space_5 | cage concert layer wrap stand |  
+| bip_39_word_space_6 | cage concert layer wrap stand bind |  
+| bip_39_word_space_7 | cage concert layer wrap stand bind extra |  
+| bip_39_word_space_8 | cage concert layer wrap stand bind extra obtain |  
+| bip_39_word_space_9 | cage concert layer wrap stand bind extra obtain slogan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

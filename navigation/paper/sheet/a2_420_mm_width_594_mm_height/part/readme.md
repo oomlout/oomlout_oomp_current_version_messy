@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: judge valid
+  * bip 39 word 3: judge valid betray
+  * bip 39 word: judge valid betray swap bench prison print extend ice faint brain add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | judge |  
+| bip_39_word_new_br10 | judge<br>valid<br>betray<br>swap<br>bench<br>prison<br>print<br>extend<br>ice<br>faint |  
+| bip_39_word_new_br11 | judge<br>valid<br>betray<br>swap<br>bench<br>prison<br>print<br>extend<br>ice<br>faint<br>brain |  
+| bip_39_word_new_br12 | judge<br>valid<br>betray<br>swap<br>bench<br>prison<br>print<br>extend<br>ice<br>faint<br>brain<br>add |  
+| bip_39_word_new_br2 | judge<br>valid |  
+| bip_39_word_new_br3 | judge<br>valid<br>betray |  
+| bip_39_word_new_br4 | judge<br>valid<br>betray<br>swap |  
+| bip_39_word_new_br5 | judge<br>valid<br>betray<br>swap<br>bench |  
+| bip_39_word_new_br6 | judge<br>valid<br>betray<br>swap<br>bench<br>prison |  
+| bip_39_word_new_br7 | judge<br>valid<br>betray<br>swap<br>bench<br>prison<br>print |  
+| bip_39_word_new_br8 | judge<br>valid<br>betray<br>swap<br>bench<br>prison<br>print<br>extend |  
+| bip_39_word_new_br9 | judge<br>valid<br>betray<br>swap<br>bench<br>prison<br>print<br>extend<br>ice |  
+| bip_39_word_new_line1 | judge |  
+| bip_39_word_new_line10 | judge
+valid
+betray
+swap
+bench
+prison
+print
+extend
+ice
+faint |  
+| bip_39_word_new_line11 | judge
+valid
+betray
+swap
+bench
+prison
+print
+extend
+ice
+faint
+brain |  
+| bip_39_word_new_line12 | judge
+valid
+betray
+swap
+bench
+prison
+print
+extend
+ice
+faint
+brain
+add |  
+| bip_39_word_new_line2 | judge
+valid |  
+| bip_39_word_new_line3 | judge
+valid
+betray |  
+| bip_39_word_new_line4 | judge
+valid
+betray
+swap |  
+| bip_39_word_new_line5 | judge
+valid
+betray
+swap
+bench |  
+| bip_39_word_new_line6 | judge
+valid
+betray
+swap
+bench
+prison |  
+| bip_39_word_new_line7 | judge
+valid
+betray
+swap
+bench
+prison
+print |  
+| bip_39_word_new_line8 | judge
+valid
+betray
+swap
+bench
+prison
+print
+extend |  
+| bip_39_word_new_line9 | judge
+valid
+betray
+swap
+bench
+prison
+print
+extend
+ice |  
+| bip_39_word_space_0 | ['judge', 'valid', 'betray', 'swap', 'bench', 'prison', 'print', 'extend', 'ice', 'faint', 'brain', 'add'] |  
+| bip_39_word_space_1 | judge |  
+| bip_39_word_space_10 | judge valid betray swap bench prison print extend ice faint |  
+| bip_39_word_space_11 | judge valid betray swap bench prison print extend ice faint brain |  
+| bip_39_word_space_12 | judge valid betray swap bench prison print extend ice faint brain add |  
+| bip_39_word_space_2 | judge valid |  
+| bip_39_word_space_3 | judge valid betray |  
+| bip_39_word_space_4 | judge valid betray swap |  
+| bip_39_word_space_5 | judge valid betray swap bench |  
+| bip_39_word_space_6 | judge valid betray swap bench prison |  
+| bip_39_word_space_7 | judge valid betray swap bench prison print |  
+| bip_39_word_space_8 | judge valid betray swap bench prison print extend |  
+| bip_39_word_space_9 | judge valid betray swap bench prison print extend ice |  
 | classification | paper |  
 | classification_capital | Paper |  
 | classification_first_letter | p |  

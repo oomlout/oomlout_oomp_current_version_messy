@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bean wool
+  * bip 39 word 3: bean wool relief
+  * bip 39 word: bean wool relief loan rebel category biology summer cloud black pigeon anxiety
 
 ### other_codes
 * short_code: st2b5p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bean |  
+| bip_39_word_new_br10 | bean<br>wool<br>relief<br>loan<br>rebel<br>category<br>biology<br>summer<br>cloud<br>black |  
+| bip_39_word_new_br11 | bean<br>wool<br>relief<br>loan<br>rebel<br>category<br>biology<br>summer<br>cloud<br>black<br>pigeon |  
+| bip_39_word_new_br12 | bean<br>wool<br>relief<br>loan<br>rebel<br>category<br>biology<br>summer<br>cloud<br>black<br>pigeon<br>anxiety |  
+| bip_39_word_new_br2 | bean<br>wool |  
+| bip_39_word_new_br3 | bean<br>wool<br>relief |  
+| bip_39_word_new_br4 | bean<br>wool<br>relief<br>loan |  
+| bip_39_word_new_br5 | bean<br>wool<br>relief<br>loan<br>rebel |  
+| bip_39_word_new_br6 | bean<br>wool<br>relief<br>loan<br>rebel<br>category |  
+| bip_39_word_new_br7 | bean<br>wool<br>relief<br>loan<br>rebel<br>category<br>biology |  
+| bip_39_word_new_br8 | bean<br>wool<br>relief<br>loan<br>rebel<br>category<br>biology<br>summer |  
+| bip_39_word_new_br9 | bean<br>wool<br>relief<br>loan<br>rebel<br>category<br>biology<br>summer<br>cloud |  
+| bip_39_word_new_line1 | bean |  
+| bip_39_word_new_line10 | bean
+wool
+relief
+loan
+rebel
+category
+biology
+summer
+cloud
+black |  
+| bip_39_word_new_line11 | bean
+wool
+relief
+loan
+rebel
+category
+biology
+summer
+cloud
+black
+pigeon |  
+| bip_39_word_new_line12 | bean
+wool
+relief
+loan
+rebel
+category
+biology
+summer
+cloud
+black
+pigeon
+anxiety |  
+| bip_39_word_new_line2 | bean
+wool |  
+| bip_39_word_new_line3 | bean
+wool
+relief |  
+| bip_39_word_new_line4 | bean
+wool
+relief
+loan |  
+| bip_39_word_new_line5 | bean
+wool
+relief
+loan
+rebel |  
+| bip_39_word_new_line6 | bean
+wool
+relief
+loan
+rebel
+category |  
+| bip_39_word_new_line7 | bean
+wool
+relief
+loan
+rebel
+category
+biology |  
+| bip_39_word_new_line8 | bean
+wool
+relief
+loan
+rebel
+category
+biology
+summer |  
+| bip_39_word_new_line9 | bean
+wool
+relief
+loan
+rebel
+category
+biology
+summer
+cloud |  
+| bip_39_word_space_0 | ['bean', 'wool', 'relief', 'loan', 'rebel', 'category', 'biology', 'summer', 'cloud', 'black', 'pigeon', 'anxiety'] |  
+| bip_39_word_space_1 | bean |  
+| bip_39_word_space_10 | bean wool relief loan rebel category biology summer cloud black |  
+| bip_39_word_space_11 | bean wool relief loan rebel category biology summer cloud black pigeon |  
+| bip_39_word_space_12 | bean wool relief loan rebel category biology summer cloud black pigeon anxiety |  
+| bip_39_word_space_2 | bean wool |  
+| bip_39_word_space_3 | bean wool relief |  
+| bip_39_word_space_4 | bean wool relief loan |  
+| bip_39_word_space_5 | bean wool relief loan rebel |  
+| bip_39_word_space_6 | bean wool relief loan rebel category |  
+| bip_39_word_space_7 | bean wool relief loan rebel category biology |  
+| bip_39_word_space_8 | bean wool relief loan rebel category biology summer |  
+| bip_39_word_space_9 | bean wool relief loan rebel category biology summer cloud |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: put mule
+  * bip 39 word 3: put mule myth
+  * bip 39 word: put mule myth plunge rib opera collect valley switch invest blur above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | put |  
+| bip_39_word_new_br10 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest |  
+| bip_39_word_new_br11 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest<br>blur |  
+| bip_39_word_new_br12 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch<br>invest<br>blur<br>above |  
+| bip_39_word_new_br2 | put<br>mule |  
+| bip_39_word_new_br3 | put<br>mule<br>myth |  
+| bip_39_word_new_br4 | put<br>mule<br>myth<br>plunge |  
+| bip_39_word_new_br5 | put<br>mule<br>myth<br>plunge<br>rib |  
+| bip_39_word_new_br6 | put<br>mule<br>myth<br>plunge<br>rib<br>opera |  
+| bip_39_word_new_br7 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect |  
+| bip_39_word_new_br8 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley |  
+| bip_39_word_new_br9 | put<br>mule<br>myth<br>plunge<br>rib<br>opera<br>collect<br>valley<br>switch |  
+| bip_39_word_new_line1 | put |  
+| bip_39_word_new_line10 | put
+mule
+myth
+plunge
+rib
+opera
+collect
+valley
+switch
+invest |  
+| bip_39_word_new_line11 | put
+mule
+myth
+plunge
+rib
+opera
+collect
+valley
+switch
+invest
+blur |  
+| bip_39_word_new_line12 | put
+mule
+myth
+plunge
+rib
+opera
+collect
+valley
+switch
+invest
+blur
+above |  
+| bip_39_word_new_line2 | put
+mule |  
+| bip_39_word_new_line3 | put
+mule
+myth |  
+| bip_39_word_new_line4 | put
+mule
+myth
+plunge |  
+| bip_39_word_new_line5 | put
+mule
+myth
+plunge
+rib |  
+| bip_39_word_new_line6 | put
+mule
+myth
+plunge
+rib
+opera |  
+| bip_39_word_new_line7 | put
+mule
+myth
+plunge
+rib
+opera
+collect |  
+| bip_39_word_new_line8 | put
+mule
+myth
+plunge
+rib
+opera
+collect
+valley |  
+| bip_39_word_new_line9 | put
+mule
+myth
+plunge
+rib
+opera
+collect
+valley
+switch |  
+| bip_39_word_space_0 | ['put', 'mule', 'myth', 'plunge', 'rib', 'opera', 'collect', 'valley', 'switch', 'invest', 'blur', 'above'] |  
+| bip_39_word_space_1 | put |  
+| bip_39_word_space_10 | put mule myth plunge rib opera collect valley switch invest |  
+| bip_39_word_space_11 | put mule myth plunge rib opera collect valley switch invest blur |  
+| bip_39_word_space_12 | put mule myth plunge rib opera collect valley switch invest blur above |  
+| bip_39_word_space_2 | put mule |  
+| bip_39_word_space_3 | put mule myth |  
+| bip_39_word_space_4 | put mule myth plunge |  
+| bip_39_word_space_5 | put mule myth plunge rib |  
+| bip_39_word_space_6 | put mule myth plunge rib opera |  
+| bip_39_word_space_7 | put mule myth plunge rib opera collect |  
+| bip_39_word_space_8 | put mule myth plunge rib opera collect valley |  
+| bip_39_word_space_9 | put mule myth plunge rib opera collect valley switch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

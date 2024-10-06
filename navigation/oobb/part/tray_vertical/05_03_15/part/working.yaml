@@ -1,3 +1,187 @@
+bip_39_word_new_br1: gallery
+bip_39_word_new_br10: gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade
+bip_39_word_new_br11: gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade<br>double
+bip_39_word_new_br12: gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze<br>trade<br>double<br>auction
+bip_39_word_new_br2: gallery<br>wolf
+bip_39_word_new_br3: gallery<br>wolf<br>until
+bip_39_word_new_br4: gallery<br>wolf<br>until<br>need
+bip_39_word_new_br5: gallery<br>wolf<br>until<br>need<br>banner
+bip_39_word_new_br6: gallery<br>wolf<br>until<br>need<br>banner<br>reunion
+bip_39_word_new_br7: gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle
+bip_39_word_new_br8: gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle
+bip_39_word_new_br9: gallery<br>wolf<br>until<br>need<br>banner<br>reunion<br>cattle<br>struggle<br>gaze
+bip_39_word_new_line1: gallery
+bip_39_word_new_line10: 'gallery
+
+  wolf
+
+  until
+
+  need
+
+  banner
+
+  reunion
+
+  cattle
+
+  struggle
+
+  gaze
+
+  trade'
+bip_39_word_new_line11: 'gallery
+
+  wolf
+
+  until
+
+  need
+
+  banner
+
+  reunion
+
+  cattle
+
+  struggle
+
+  gaze
+
+  trade
+
+  double'
+bip_39_word_new_line12: 'gallery
+
+  wolf
+
+  until
+
+  need
+
+  banner
+
+  reunion
+
+  cattle
+
+  struggle
+
+  gaze
+
+  trade
+
+  double
+
+  auction'
+bip_39_word_new_line2: 'gallery
+
+  wolf'
+bip_39_word_new_line3: 'gallery
+
+  wolf
+
+  until'
+bip_39_word_new_line4: 'gallery
+
+  wolf
+
+  until
+
+  need'
+bip_39_word_new_line5: 'gallery
+
+  wolf
+
+  until
+
+  need
+
+  banner'
+bip_39_word_new_line6: 'gallery
+
+  wolf
+
+  until
+
+  need
+
+  banner
+
+  reunion'
+bip_39_word_new_line7: 'gallery
+
+  wolf
+
+  until
+
+  need
+
+  banner
+
+  reunion
+
+  cattle'
+bip_39_word_new_line8: 'gallery
+
+  wolf
+
+  until
+
+  need
+
+  banner
+
+  reunion
+
+  cattle
+
+  struggle'
+bip_39_word_new_line9: 'gallery
+
+  wolf
+
+  until
+
+  need
+
+  banner
+
+  reunion
+
+  cattle
+
+  struggle
+
+  gaze'
+bip_39_word_space_0:
+- gallery
+- wolf
+- until
+- need
+- banner
+- reunion
+- cattle
+- struggle
+- gaze
+- trade
+- double
+- auction
+bip_39_word_space_1: gallery
+bip_39_word_space_10: gallery wolf until need banner reunion cattle struggle gaze
+  trade
+bip_39_word_space_11: gallery wolf until need banner reunion cattle struggle gaze
+  trade double
+bip_39_word_space_12: gallery wolf until need banner reunion cattle struggle gaze
+  trade double auction
+bip_39_word_space_2: gallery wolf
+bip_39_word_space_3: gallery wolf until
+bip_39_word_space_4: gallery wolf until need
+bip_39_word_space_5: gallery wolf until need banner
+bip_39_word_space_6: gallery wolf until need banner reunion
+bip_39_word_space_7: gallery wolf until need banner reunion cattle
+bip_39_word_space_8: gallery wolf until need banner reunion cattle struggle
+bip_39_word_space_9: gallery wolf until need banner reunion cattle struggle gaze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

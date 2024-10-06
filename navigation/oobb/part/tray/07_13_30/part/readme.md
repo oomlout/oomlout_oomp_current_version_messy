@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shine effort
+  * bip 39 word 3: shine effort equip
+  * bip 39 word: shine effort equip brave width alley mystery camera guess task voyage actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shine |  
+| bip_39_word_new_br10 | shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess<br>task |  
+| bip_39_word_new_br11 | shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess<br>task<br>voyage |  
+| bip_39_word_new_br12 | shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess<br>task<br>voyage<br>actual |  
+| bip_39_word_new_br2 | shine<br>effort |  
+| bip_39_word_new_br3 | shine<br>effort<br>equip |  
+| bip_39_word_new_br4 | shine<br>effort<br>equip<br>brave |  
+| bip_39_word_new_br5 | shine<br>effort<br>equip<br>brave<br>width |  
+| bip_39_word_new_br6 | shine<br>effort<br>equip<br>brave<br>width<br>alley |  
+| bip_39_word_new_br7 | shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery |  
+| bip_39_word_new_br8 | shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera |  
+| bip_39_word_new_br9 | shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess |  
+| bip_39_word_new_line1 | shine |  
+| bip_39_word_new_line10 | shine
+effort
+equip
+brave
+width
+alley
+mystery
+camera
+guess
+task |  
+| bip_39_word_new_line11 | shine
+effort
+equip
+brave
+width
+alley
+mystery
+camera
+guess
+task
+voyage |  
+| bip_39_word_new_line12 | shine
+effort
+equip
+brave
+width
+alley
+mystery
+camera
+guess
+task
+voyage
+actual |  
+| bip_39_word_new_line2 | shine
+effort |  
+| bip_39_word_new_line3 | shine
+effort
+equip |  
+| bip_39_word_new_line4 | shine
+effort
+equip
+brave |  
+| bip_39_word_new_line5 | shine
+effort
+equip
+brave
+width |  
+| bip_39_word_new_line6 | shine
+effort
+equip
+brave
+width
+alley |  
+| bip_39_word_new_line7 | shine
+effort
+equip
+brave
+width
+alley
+mystery |  
+| bip_39_word_new_line8 | shine
+effort
+equip
+brave
+width
+alley
+mystery
+camera |  
+| bip_39_word_new_line9 | shine
+effort
+equip
+brave
+width
+alley
+mystery
+camera
+guess |  
+| bip_39_word_space_0 | ['shine', 'effort', 'equip', 'brave', 'width', 'alley', 'mystery', 'camera', 'guess', 'task', 'voyage', 'actual'] |  
+| bip_39_word_space_1 | shine |  
+| bip_39_word_space_10 | shine effort equip brave width alley mystery camera guess task |  
+| bip_39_word_space_11 | shine effort equip brave width alley mystery camera guess task voyage |  
+| bip_39_word_space_12 | shine effort equip brave width alley mystery camera guess task voyage actual |  
+| bip_39_word_space_2 | shine effort |  
+| bip_39_word_space_3 | shine effort equip |  
+| bip_39_word_space_4 | shine effort equip brave |  
+| bip_39_word_space_5 | shine effort equip brave width |  
+| bip_39_word_space_6 | shine effort equip brave width alley |  
+| bip_39_word_space_7 | shine effort equip brave width alley mystery |  
+| bip_39_word_space_8 | shine effort equip brave width alley mystery camera |  
+| bip_39_word_space_9 | shine effort equip brave width alley mystery camera guess |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

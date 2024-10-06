@@ -1,3 +1,186 @@
+bip_39_word_new_br1: trap
+bip_39_word_new_br10: trap<br>aspect<br>gym<br>disagree<br>club<br>inspire<br>axis<br>pulse<br>beach<br>behind
+bip_39_word_new_br11: trap<br>aspect<br>gym<br>disagree<br>club<br>inspire<br>axis<br>pulse<br>beach<br>behind<br>sort
+bip_39_word_new_br12: trap<br>aspect<br>gym<br>disagree<br>club<br>inspire<br>axis<br>pulse<br>beach<br>behind<br>sort<br>accident
+bip_39_word_new_br2: trap<br>aspect
+bip_39_word_new_br3: trap<br>aspect<br>gym
+bip_39_word_new_br4: trap<br>aspect<br>gym<br>disagree
+bip_39_word_new_br5: trap<br>aspect<br>gym<br>disagree<br>club
+bip_39_word_new_br6: trap<br>aspect<br>gym<br>disagree<br>club<br>inspire
+bip_39_word_new_br7: trap<br>aspect<br>gym<br>disagree<br>club<br>inspire<br>axis
+bip_39_word_new_br8: trap<br>aspect<br>gym<br>disagree<br>club<br>inspire<br>axis<br>pulse
+bip_39_word_new_br9: trap<br>aspect<br>gym<br>disagree<br>club<br>inspire<br>axis<br>pulse<br>beach
+bip_39_word_new_line1: trap
+bip_39_word_new_line10: 'trap
+
+  aspect
+
+  gym
+
+  disagree
+
+  club
+
+  inspire
+
+  axis
+
+  pulse
+
+  beach
+
+  behind'
+bip_39_word_new_line11: 'trap
+
+  aspect
+
+  gym
+
+  disagree
+
+  club
+
+  inspire
+
+  axis
+
+  pulse
+
+  beach
+
+  behind
+
+  sort'
+bip_39_word_new_line12: 'trap
+
+  aspect
+
+  gym
+
+  disagree
+
+  club
+
+  inspire
+
+  axis
+
+  pulse
+
+  beach
+
+  behind
+
+  sort
+
+  accident'
+bip_39_word_new_line2: 'trap
+
+  aspect'
+bip_39_word_new_line3: 'trap
+
+  aspect
+
+  gym'
+bip_39_word_new_line4: 'trap
+
+  aspect
+
+  gym
+
+  disagree'
+bip_39_word_new_line5: 'trap
+
+  aspect
+
+  gym
+
+  disagree
+
+  club'
+bip_39_word_new_line6: 'trap
+
+  aspect
+
+  gym
+
+  disagree
+
+  club
+
+  inspire'
+bip_39_word_new_line7: 'trap
+
+  aspect
+
+  gym
+
+  disagree
+
+  club
+
+  inspire
+
+  axis'
+bip_39_word_new_line8: 'trap
+
+  aspect
+
+  gym
+
+  disagree
+
+  club
+
+  inspire
+
+  axis
+
+  pulse'
+bip_39_word_new_line9: 'trap
+
+  aspect
+
+  gym
+
+  disagree
+
+  club
+
+  inspire
+
+  axis
+
+  pulse
+
+  beach'
+bip_39_word_space_0:
+- trap
+- aspect
+- gym
+- disagree
+- club
+- inspire
+- axis
+- pulse
+- beach
+- behind
+- sort
+- accident
+bip_39_word_space_1: trap
+bip_39_word_space_10: trap aspect gym disagree club inspire axis pulse beach behind
+bip_39_word_space_11: trap aspect gym disagree club inspire axis pulse beach behind
+  sort
+bip_39_word_space_12: trap aspect gym disagree club inspire axis pulse beach behind
+  sort accident
+bip_39_word_space_2: trap aspect
+bip_39_word_space_3: trap aspect gym
+bip_39_word_space_4: trap aspect gym disagree
+bip_39_word_space_5: trap aspect gym disagree club
+bip_39_word_space_6: trap aspect gym disagree club inspire
+bip_39_word_space_7: trap aspect gym disagree club inspire axis
+bip_39_word_space_8: trap aspect gym disagree club inspire axis pulse
+bip_39_word_space_9: trap aspect gym disagree club inspire axis pulse beach
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

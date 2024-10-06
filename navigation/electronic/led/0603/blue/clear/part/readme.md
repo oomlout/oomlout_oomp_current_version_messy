@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: great then
+  * bip 39 word 3: great then base
+  * bip 39 word: great then base vessel aware brisk fat pass despair stick apology able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | great |  
+| bip_39_word_new_br10 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick |  
+| bip_39_word_new_br11 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick<br>apology |  
+| bip_39_word_new_br12 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair<br>stick<br>apology<br>able |  
+| bip_39_word_new_br2 | great<br>then |  
+| bip_39_word_new_br3 | great<br>then<br>base |  
+| bip_39_word_new_br4 | great<br>then<br>base<br>vessel |  
+| bip_39_word_new_br5 | great<br>then<br>base<br>vessel<br>aware |  
+| bip_39_word_new_br6 | great<br>then<br>base<br>vessel<br>aware<br>brisk |  
+| bip_39_word_new_br7 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat |  
+| bip_39_word_new_br8 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass |  
+| bip_39_word_new_br9 | great<br>then<br>base<br>vessel<br>aware<br>brisk<br>fat<br>pass<br>despair |  
+| bip_39_word_new_line1 | great |  
+| bip_39_word_new_line10 | great
+then
+base
+vessel
+aware
+brisk
+fat
+pass
+despair
+stick |  
+| bip_39_word_new_line11 | great
+then
+base
+vessel
+aware
+brisk
+fat
+pass
+despair
+stick
+apology |  
+| bip_39_word_new_line12 | great
+then
+base
+vessel
+aware
+brisk
+fat
+pass
+despair
+stick
+apology
+able |  
+| bip_39_word_new_line2 | great
+then |  
+| bip_39_word_new_line3 | great
+then
+base |  
+| bip_39_word_new_line4 | great
+then
+base
+vessel |  
+| bip_39_word_new_line5 | great
+then
+base
+vessel
+aware |  
+| bip_39_word_new_line6 | great
+then
+base
+vessel
+aware
+brisk |  
+| bip_39_word_new_line7 | great
+then
+base
+vessel
+aware
+brisk
+fat |  
+| bip_39_word_new_line8 | great
+then
+base
+vessel
+aware
+brisk
+fat
+pass |  
+| bip_39_word_new_line9 | great
+then
+base
+vessel
+aware
+brisk
+fat
+pass
+despair |  
+| bip_39_word_space_0 | ['great', 'then', 'base', 'vessel', 'aware', 'brisk', 'fat', 'pass', 'despair', 'stick', 'apology', 'able'] |  
+| bip_39_word_space_1 | great |  
+| bip_39_word_space_10 | great then base vessel aware brisk fat pass despair stick |  
+| bip_39_word_space_11 | great then base vessel aware brisk fat pass despair stick apology |  
+| bip_39_word_space_12 | great then base vessel aware brisk fat pass despair stick apology able |  
+| bip_39_word_space_2 | great then |  
+| bip_39_word_space_3 | great then base |  
+| bip_39_word_space_4 | great then base vessel |  
+| bip_39_word_space_5 | great then base vessel aware |  
+| bip_39_word_space_6 | great then base vessel aware brisk |  
+| bip_39_word_space_7 | great then base vessel aware brisk fat |  
+| bip_39_word_space_8 | great then base vessel aware brisk fat pass |  
+| bip_39_word_space_9 | great then base vessel aware brisk fat pass despair |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

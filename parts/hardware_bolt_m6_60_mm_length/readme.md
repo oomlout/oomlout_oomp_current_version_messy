@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: panic ill
+  * bip 39 word 3: panic ill tail
+  * bip 39 word: panic ill tail edge marine patrol type paddle tilt salon leader achieve
 
 ### other_codes
 * short_code: b6m60
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | panic |  
+| bip_39_word_new_br10 | panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle<br>tilt<br>salon |  
+| bip_39_word_new_br11 | panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle<br>tilt<br>salon<br>leader |  
+| bip_39_word_new_br12 | panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle<br>tilt<br>salon<br>leader<br>achieve |  
+| bip_39_word_new_br2 | panic<br>ill |  
+| bip_39_word_new_br3 | panic<br>ill<br>tail |  
+| bip_39_word_new_br4 | panic<br>ill<br>tail<br>edge |  
+| bip_39_word_new_br5 | panic<br>ill<br>tail<br>edge<br>marine |  
+| bip_39_word_new_br6 | panic<br>ill<br>tail<br>edge<br>marine<br>patrol |  
+| bip_39_word_new_br7 | panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type |  
+| bip_39_word_new_br8 | panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle |  
+| bip_39_word_new_br9 | panic<br>ill<br>tail<br>edge<br>marine<br>patrol<br>type<br>paddle<br>tilt |  
+| bip_39_word_new_line1 | panic |  
+| bip_39_word_new_line10 | panic
+ill
+tail
+edge
+marine
+patrol
+type
+paddle
+tilt
+salon |  
+| bip_39_word_new_line11 | panic
+ill
+tail
+edge
+marine
+patrol
+type
+paddle
+tilt
+salon
+leader |  
+| bip_39_word_new_line12 | panic
+ill
+tail
+edge
+marine
+patrol
+type
+paddle
+tilt
+salon
+leader
+achieve |  
+| bip_39_word_new_line2 | panic
+ill |  
+| bip_39_word_new_line3 | panic
+ill
+tail |  
+| bip_39_word_new_line4 | panic
+ill
+tail
+edge |  
+| bip_39_word_new_line5 | panic
+ill
+tail
+edge
+marine |  
+| bip_39_word_new_line6 | panic
+ill
+tail
+edge
+marine
+patrol |  
+| bip_39_word_new_line7 | panic
+ill
+tail
+edge
+marine
+patrol
+type |  
+| bip_39_word_new_line8 | panic
+ill
+tail
+edge
+marine
+patrol
+type
+paddle |  
+| bip_39_word_new_line9 | panic
+ill
+tail
+edge
+marine
+patrol
+type
+paddle
+tilt |  
+| bip_39_word_space_0 | ['panic', 'ill', 'tail', 'edge', 'marine', 'patrol', 'type', 'paddle', 'tilt', 'salon', 'leader', 'achieve'] |  
+| bip_39_word_space_1 | panic |  
+| bip_39_word_space_10 | panic ill tail edge marine patrol type paddle tilt salon |  
+| bip_39_word_space_11 | panic ill tail edge marine patrol type paddle tilt salon leader |  
+| bip_39_word_space_12 | panic ill tail edge marine patrol type paddle tilt salon leader achieve |  
+| bip_39_word_space_2 | panic ill |  
+| bip_39_word_space_3 | panic ill tail |  
+| bip_39_word_space_4 | panic ill tail edge |  
+| bip_39_word_space_5 | panic ill tail edge marine |  
+| bip_39_word_space_6 | panic ill tail edge marine patrol |  
+| bip_39_word_space_7 | panic ill tail edge marine patrol type |  
+| bip_39_word_space_8 | panic ill tail edge marine patrol type paddle |  
+| bip_39_word_space_9 | panic ill tail edge marine patrol type paddle tilt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

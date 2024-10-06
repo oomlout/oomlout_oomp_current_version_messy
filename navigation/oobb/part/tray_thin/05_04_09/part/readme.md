@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: penalty squeeze
+  * bip 39 word 3: penalty squeeze witness
+  * bip 39 word: penalty squeeze witness ensure veteran maid whale business critic index power avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | penalty |  
+| bip_39_word_new_br10 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index |  
+| bip_39_word_new_br11 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index<br>power |  
+| bip_39_word_new_br12 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic<br>index<br>power<br>avocado |  
+| bip_39_word_new_br2 | penalty<br>squeeze |  
+| bip_39_word_new_br3 | penalty<br>squeeze<br>witness |  
+| bip_39_word_new_br4 | penalty<br>squeeze<br>witness<br>ensure |  
+| bip_39_word_new_br5 | penalty<br>squeeze<br>witness<br>ensure<br>veteran |  
+| bip_39_word_new_br6 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid |  
+| bip_39_word_new_br7 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale |  
+| bip_39_word_new_br8 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business |  
+| bip_39_word_new_br9 | penalty<br>squeeze<br>witness<br>ensure<br>veteran<br>maid<br>whale<br>business<br>critic |  
+| bip_39_word_new_line1 | penalty |  
+| bip_39_word_new_line10 | penalty
+squeeze
+witness
+ensure
+veteran
+maid
+whale
+business
+critic
+index |  
+| bip_39_word_new_line11 | penalty
+squeeze
+witness
+ensure
+veteran
+maid
+whale
+business
+critic
+index
+power |  
+| bip_39_word_new_line12 | penalty
+squeeze
+witness
+ensure
+veteran
+maid
+whale
+business
+critic
+index
+power
+avocado |  
+| bip_39_word_new_line2 | penalty
+squeeze |  
+| bip_39_word_new_line3 | penalty
+squeeze
+witness |  
+| bip_39_word_new_line4 | penalty
+squeeze
+witness
+ensure |  
+| bip_39_word_new_line5 | penalty
+squeeze
+witness
+ensure
+veteran |  
+| bip_39_word_new_line6 | penalty
+squeeze
+witness
+ensure
+veteran
+maid |  
+| bip_39_word_new_line7 | penalty
+squeeze
+witness
+ensure
+veteran
+maid
+whale |  
+| bip_39_word_new_line8 | penalty
+squeeze
+witness
+ensure
+veteran
+maid
+whale
+business |  
+| bip_39_word_new_line9 | penalty
+squeeze
+witness
+ensure
+veteran
+maid
+whale
+business
+critic |  
+| bip_39_word_space_0 | ['penalty', 'squeeze', 'witness', 'ensure', 'veteran', 'maid', 'whale', 'business', 'critic', 'index', 'power', 'avocado'] |  
+| bip_39_word_space_1 | penalty |  
+| bip_39_word_space_10 | penalty squeeze witness ensure veteran maid whale business critic index |  
+| bip_39_word_space_11 | penalty squeeze witness ensure veteran maid whale business critic index power |  
+| bip_39_word_space_12 | penalty squeeze witness ensure veteran maid whale business critic index power avocado |  
+| bip_39_word_space_2 | penalty squeeze |  
+| bip_39_word_space_3 | penalty squeeze witness |  
+| bip_39_word_space_4 | penalty squeeze witness ensure |  
+| bip_39_word_space_5 | penalty squeeze witness ensure veteran |  
+| bip_39_word_space_6 | penalty squeeze witness ensure veteran maid |  
+| bip_39_word_space_7 | penalty squeeze witness ensure veteran maid whale |  
+| bip_39_word_space_8 | penalty squeeze witness ensure veteran maid whale business |  
+| bip_39_word_space_9 | penalty squeeze witness ensure veteran maid whale business critic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

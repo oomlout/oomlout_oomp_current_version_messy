@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: answer talent
+  * bip 39 word 3: answer talent cave
+  * bip 39 word: answer talent cave season stand gas frozen obtain hurdle apple cliff armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | answer |  
+| bip_39_word_new_br10 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple |  
+| bip_39_word_new_br11 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff |  
+| bip_39_word_new_br12 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff<br>armor |  
+| bip_39_word_new_br2 | answer<br>talent |  
+| bip_39_word_new_br3 | answer<br>talent<br>cave |  
+| bip_39_word_new_br4 | answer<br>talent<br>cave<br>season |  
+| bip_39_word_new_br5 | answer<br>talent<br>cave<br>season<br>stand |  
+| bip_39_word_new_br6 | answer<br>talent<br>cave<br>season<br>stand<br>gas |  
+| bip_39_word_new_br7 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen |  
+| bip_39_word_new_br8 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain |  
+| bip_39_word_new_br9 | answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle |  
+| bip_39_word_new_line1 | answer |  
+| bip_39_word_new_line10 | answer
+talent
+cave
+season
+stand
+gas
+frozen
+obtain
+hurdle
+apple |  
+| bip_39_word_new_line11 | answer
+talent
+cave
+season
+stand
+gas
+frozen
+obtain
+hurdle
+apple
+cliff |  
+| bip_39_word_new_line12 | answer
+talent
+cave
+season
+stand
+gas
+frozen
+obtain
+hurdle
+apple
+cliff
+armor |  
+| bip_39_word_new_line2 | answer
+talent |  
+| bip_39_word_new_line3 | answer
+talent
+cave |  
+| bip_39_word_new_line4 | answer
+talent
+cave
+season |  
+| bip_39_word_new_line5 | answer
+talent
+cave
+season
+stand |  
+| bip_39_word_new_line6 | answer
+talent
+cave
+season
+stand
+gas |  
+| bip_39_word_new_line7 | answer
+talent
+cave
+season
+stand
+gas
+frozen |  
+| bip_39_word_new_line8 | answer
+talent
+cave
+season
+stand
+gas
+frozen
+obtain |  
+| bip_39_word_new_line9 | answer
+talent
+cave
+season
+stand
+gas
+frozen
+obtain
+hurdle |  
+| bip_39_word_space_0 | ['answer', 'talent', 'cave', 'season', 'stand', 'gas', 'frozen', 'obtain', 'hurdle', 'apple', 'cliff', 'armor'] |  
+| bip_39_word_space_1 | answer |  
+| bip_39_word_space_10 | answer talent cave season stand gas frozen obtain hurdle apple |  
+| bip_39_word_space_11 | answer talent cave season stand gas frozen obtain hurdle apple cliff |  
+| bip_39_word_space_12 | answer talent cave season stand gas frozen obtain hurdle apple cliff armor |  
+| bip_39_word_space_2 | answer talent |  
+| bip_39_word_space_3 | answer talent cave |  
+| bip_39_word_space_4 | answer talent cave season |  
+| bip_39_word_space_5 | answer talent cave season stand |  
+| bip_39_word_space_6 | answer talent cave season stand gas |  
+| bip_39_word_space_7 | answer talent cave season stand gas frozen |  
+| bip_39_word_space_8 | answer talent cave season stand gas frozen obtain |  
+| bip_39_word_space_9 | answer talent cave season stand gas frozen obtain hurdle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

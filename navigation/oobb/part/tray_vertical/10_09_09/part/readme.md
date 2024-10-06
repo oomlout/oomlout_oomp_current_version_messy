@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: small buyer
+  * bip 39 word 3: small buyer useful
+  * bip 39 word: small buyer useful dinner despair service skill roast kangaroo boy jazz age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | small |  
+| bip_39_word_new_br10 | small<br>buyer<br>useful<br>dinner<br>despair<br>service<br>skill<br>roast<br>kangaroo<br>boy |  
+| bip_39_word_new_br11 | small<br>buyer<br>useful<br>dinner<br>despair<br>service<br>skill<br>roast<br>kangaroo<br>boy<br>jazz |  
+| bip_39_word_new_br12 | small<br>buyer<br>useful<br>dinner<br>despair<br>service<br>skill<br>roast<br>kangaroo<br>boy<br>jazz<br>age |  
+| bip_39_word_new_br2 | small<br>buyer |  
+| bip_39_word_new_br3 | small<br>buyer<br>useful |  
+| bip_39_word_new_br4 | small<br>buyer<br>useful<br>dinner |  
+| bip_39_word_new_br5 | small<br>buyer<br>useful<br>dinner<br>despair |  
+| bip_39_word_new_br6 | small<br>buyer<br>useful<br>dinner<br>despair<br>service |  
+| bip_39_word_new_br7 | small<br>buyer<br>useful<br>dinner<br>despair<br>service<br>skill |  
+| bip_39_word_new_br8 | small<br>buyer<br>useful<br>dinner<br>despair<br>service<br>skill<br>roast |  
+| bip_39_word_new_br9 | small<br>buyer<br>useful<br>dinner<br>despair<br>service<br>skill<br>roast<br>kangaroo |  
+| bip_39_word_new_line1 | small |  
+| bip_39_word_new_line10 | small
+buyer
+useful
+dinner
+despair
+service
+skill
+roast
+kangaroo
+boy |  
+| bip_39_word_new_line11 | small
+buyer
+useful
+dinner
+despair
+service
+skill
+roast
+kangaroo
+boy
+jazz |  
+| bip_39_word_new_line12 | small
+buyer
+useful
+dinner
+despair
+service
+skill
+roast
+kangaroo
+boy
+jazz
+age |  
+| bip_39_word_new_line2 | small
+buyer |  
+| bip_39_word_new_line3 | small
+buyer
+useful |  
+| bip_39_word_new_line4 | small
+buyer
+useful
+dinner |  
+| bip_39_word_new_line5 | small
+buyer
+useful
+dinner
+despair |  
+| bip_39_word_new_line6 | small
+buyer
+useful
+dinner
+despair
+service |  
+| bip_39_word_new_line7 | small
+buyer
+useful
+dinner
+despair
+service
+skill |  
+| bip_39_word_new_line8 | small
+buyer
+useful
+dinner
+despair
+service
+skill
+roast |  
+| bip_39_word_new_line9 | small
+buyer
+useful
+dinner
+despair
+service
+skill
+roast
+kangaroo |  
+| bip_39_word_space_0 | ['small', 'buyer', 'useful', 'dinner', 'despair', 'service', 'skill', 'roast', 'kangaroo', 'boy', 'jazz', 'age'] |  
+| bip_39_word_space_1 | small |  
+| bip_39_word_space_10 | small buyer useful dinner despair service skill roast kangaroo boy |  
+| bip_39_word_space_11 | small buyer useful dinner despair service skill roast kangaroo boy jazz |  
+| bip_39_word_space_12 | small buyer useful dinner despair service skill roast kangaroo boy jazz age |  
+| bip_39_word_space_2 | small buyer |  
+| bip_39_word_space_3 | small buyer useful |  
+| bip_39_word_space_4 | small buyer useful dinner |  
+| bip_39_word_space_5 | small buyer useful dinner despair |  
+| bip_39_word_space_6 | small buyer useful dinner despair service |  
+| bip_39_word_space_7 | small buyer useful dinner despair service skill |  
+| bip_39_word_space_8 | small buyer useful dinner despair service skill roast |  
+| bip_39_word_space_9 | small buyer useful dinner despair service skill roast kangaroo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

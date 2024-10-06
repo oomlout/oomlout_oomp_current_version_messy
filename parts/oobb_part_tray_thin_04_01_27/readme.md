@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hotel topple
+  * bip 39 word 3: hotel topple person
+  * bip 39 word: hotel topple person dog deliver van smoke differ ring wood address attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hotel |  
+| bip_39_word_new_br10 | hotel<br>topple<br>person<br>dog<br>deliver<br>van<br>smoke<br>differ<br>ring<br>wood |  
+| bip_39_word_new_br11 | hotel<br>topple<br>person<br>dog<br>deliver<br>van<br>smoke<br>differ<br>ring<br>wood<br>address |  
+| bip_39_word_new_br12 | hotel<br>topple<br>person<br>dog<br>deliver<br>van<br>smoke<br>differ<br>ring<br>wood<br>address<br>attract |  
+| bip_39_word_new_br2 | hotel<br>topple |  
+| bip_39_word_new_br3 | hotel<br>topple<br>person |  
+| bip_39_word_new_br4 | hotel<br>topple<br>person<br>dog |  
+| bip_39_word_new_br5 | hotel<br>topple<br>person<br>dog<br>deliver |  
+| bip_39_word_new_br6 | hotel<br>topple<br>person<br>dog<br>deliver<br>van |  
+| bip_39_word_new_br7 | hotel<br>topple<br>person<br>dog<br>deliver<br>van<br>smoke |  
+| bip_39_word_new_br8 | hotel<br>topple<br>person<br>dog<br>deliver<br>van<br>smoke<br>differ |  
+| bip_39_word_new_br9 | hotel<br>topple<br>person<br>dog<br>deliver<br>van<br>smoke<br>differ<br>ring |  
+| bip_39_word_new_line1 | hotel |  
+| bip_39_word_new_line10 | hotel
+topple
+person
+dog
+deliver
+van
+smoke
+differ
+ring
+wood |  
+| bip_39_word_new_line11 | hotel
+topple
+person
+dog
+deliver
+van
+smoke
+differ
+ring
+wood
+address |  
+| bip_39_word_new_line12 | hotel
+topple
+person
+dog
+deliver
+van
+smoke
+differ
+ring
+wood
+address
+attract |  
+| bip_39_word_new_line2 | hotel
+topple |  
+| bip_39_word_new_line3 | hotel
+topple
+person |  
+| bip_39_word_new_line4 | hotel
+topple
+person
+dog |  
+| bip_39_word_new_line5 | hotel
+topple
+person
+dog
+deliver |  
+| bip_39_word_new_line6 | hotel
+topple
+person
+dog
+deliver
+van |  
+| bip_39_word_new_line7 | hotel
+topple
+person
+dog
+deliver
+van
+smoke |  
+| bip_39_word_new_line8 | hotel
+topple
+person
+dog
+deliver
+van
+smoke
+differ |  
+| bip_39_word_new_line9 | hotel
+topple
+person
+dog
+deliver
+van
+smoke
+differ
+ring |  
+| bip_39_word_space_0 | ['hotel', 'topple', 'person', 'dog', 'deliver', 'van', 'smoke', 'differ', 'ring', 'wood', 'address', 'attract'] |  
+| bip_39_word_space_1 | hotel |  
+| bip_39_word_space_10 | hotel topple person dog deliver van smoke differ ring wood |  
+| bip_39_word_space_11 | hotel topple person dog deliver van smoke differ ring wood address |  
+| bip_39_word_space_12 | hotel topple person dog deliver van smoke differ ring wood address attract |  
+| bip_39_word_space_2 | hotel topple |  
+| bip_39_word_space_3 | hotel topple person |  
+| bip_39_word_space_4 | hotel topple person dog |  
+| bip_39_word_space_5 | hotel topple person dog deliver |  
+| bip_39_word_space_6 | hotel topple person dog deliver van |  
+| bip_39_word_space_7 | hotel topple person dog deliver van smoke |  
+| bip_39_word_space_8 | hotel topple person dog deliver van smoke differ |  
+| bip_39_word_space_9 | hotel topple person dog deliver van smoke differ ring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

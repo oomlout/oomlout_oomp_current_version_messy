@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: electronic_prototyping_breadboard_400_point
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: only dinosaur
+  * bip 39 word 3: only dinosaur enforce
+  * bip 39 word: only dinosaur enforce evolve away ridge kid novel addict boil fetch admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | only |  
+| bip_39_word_new_br10 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge<br>kid<br>novel<br>addict<br>boil |  
+| bip_39_word_new_br11 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge<br>kid<br>novel<br>addict<br>boil<br>fetch |  
+| bip_39_word_new_br12 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge<br>kid<br>novel<br>addict<br>boil<br>fetch<br>admit |  
+| bip_39_word_new_br2 | only<br>dinosaur |  
+| bip_39_word_new_br3 | only<br>dinosaur<br>enforce |  
+| bip_39_word_new_br4 | only<br>dinosaur<br>enforce<br>evolve |  
+| bip_39_word_new_br5 | only<br>dinosaur<br>enforce<br>evolve<br>away |  
+| bip_39_word_new_br6 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge |  
+| bip_39_word_new_br7 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge<br>kid |  
+| bip_39_word_new_br8 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge<br>kid<br>novel |  
+| bip_39_word_new_br9 | only<br>dinosaur<br>enforce<br>evolve<br>away<br>ridge<br>kid<br>novel<br>addict |  
+| bip_39_word_new_line1 | only |  
+| bip_39_word_new_line10 | only
+dinosaur
+enforce
+evolve
+away
+ridge
+kid
+novel
+addict
+boil |  
+| bip_39_word_new_line11 | only
+dinosaur
+enforce
+evolve
+away
+ridge
+kid
+novel
+addict
+boil
+fetch |  
+| bip_39_word_new_line12 | only
+dinosaur
+enforce
+evolve
+away
+ridge
+kid
+novel
+addict
+boil
+fetch
+admit |  
+| bip_39_word_new_line2 | only
+dinosaur |  
+| bip_39_word_new_line3 | only
+dinosaur
+enforce |  
+| bip_39_word_new_line4 | only
+dinosaur
+enforce
+evolve |  
+| bip_39_word_new_line5 | only
+dinosaur
+enforce
+evolve
+away |  
+| bip_39_word_new_line6 | only
+dinosaur
+enforce
+evolve
+away
+ridge |  
+| bip_39_word_new_line7 | only
+dinosaur
+enforce
+evolve
+away
+ridge
+kid |  
+| bip_39_word_new_line8 | only
+dinosaur
+enforce
+evolve
+away
+ridge
+kid
+novel |  
+| bip_39_word_new_line9 | only
+dinosaur
+enforce
+evolve
+away
+ridge
+kid
+novel
+addict |  
+| bip_39_word_space_0 | ['only', 'dinosaur', 'enforce', 'evolve', 'away', 'ridge', 'kid', 'novel', 'addict', 'boil', 'fetch', 'admit'] |  
+| bip_39_word_space_1 | only |  
+| bip_39_word_space_10 | only dinosaur enforce evolve away ridge kid novel addict boil |  
+| bip_39_word_space_11 | only dinosaur enforce evolve away ridge kid novel addict boil fetch |  
+| bip_39_word_space_12 | only dinosaur enforce evolve away ridge kid novel addict boil fetch admit |  
+| bip_39_word_space_2 | only dinosaur |  
+| bip_39_word_space_3 | only dinosaur enforce |  
+| bip_39_word_space_4 | only dinosaur enforce evolve |  
+| bip_39_word_space_5 | only dinosaur enforce evolve away |  
+| bip_39_word_space_6 | only dinosaur enforce evolve away ridge |  
+| bip_39_word_space_7 | only dinosaur enforce evolve away ridge kid |  
+| bip_39_word_space_8 | only dinosaur enforce evolve away ridge kid novel |  
+| bip_39_word_space_9 | only dinosaur enforce evolve away ridge kid novel addict |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

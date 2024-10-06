@@ -1,3 +1,185 @@
+bip_39_word_new_br1: audit
+bip_39_word_new_br10: audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream
+bip_39_word_new_br11: audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream<br>entire
+bip_39_word_new_br12: audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere<br>dream<br>entire<br>august
+bip_39_word_new_br2: audit<br>pole
+bip_39_word_new_br3: audit<br>pole<br>soccer
+bip_39_word_new_br4: audit<br>pole<br>soccer<br>broken
+bip_39_word_new_br5: audit<br>pole<br>soccer<br>broken<br>wet
+bip_39_word_new_br6: audit<br>pole<br>soccer<br>broken<br>wet<br>era
+bip_39_word_new_br7: audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur
+bip_39_word_new_br8: audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift
+bip_39_word_new_br9: audit<br>pole<br>soccer<br>broken<br>wet<br>era<br>blur<br>shift<br>sphere
+bip_39_word_new_line1: audit
+bip_39_word_new_line10: 'audit
+
+  pole
+
+  soccer
+
+  broken
+
+  wet
+
+  era
+
+  blur
+
+  shift
+
+  sphere
+
+  dream'
+bip_39_word_new_line11: 'audit
+
+  pole
+
+  soccer
+
+  broken
+
+  wet
+
+  era
+
+  blur
+
+  shift
+
+  sphere
+
+  dream
+
+  entire'
+bip_39_word_new_line12: 'audit
+
+  pole
+
+  soccer
+
+  broken
+
+  wet
+
+  era
+
+  blur
+
+  shift
+
+  sphere
+
+  dream
+
+  entire
+
+  august'
+bip_39_word_new_line2: 'audit
+
+  pole'
+bip_39_word_new_line3: 'audit
+
+  pole
+
+  soccer'
+bip_39_word_new_line4: 'audit
+
+  pole
+
+  soccer
+
+  broken'
+bip_39_word_new_line5: 'audit
+
+  pole
+
+  soccer
+
+  broken
+
+  wet'
+bip_39_word_new_line6: 'audit
+
+  pole
+
+  soccer
+
+  broken
+
+  wet
+
+  era'
+bip_39_word_new_line7: 'audit
+
+  pole
+
+  soccer
+
+  broken
+
+  wet
+
+  era
+
+  blur'
+bip_39_word_new_line8: 'audit
+
+  pole
+
+  soccer
+
+  broken
+
+  wet
+
+  era
+
+  blur
+
+  shift'
+bip_39_word_new_line9: 'audit
+
+  pole
+
+  soccer
+
+  broken
+
+  wet
+
+  era
+
+  blur
+
+  shift
+
+  sphere'
+bip_39_word_space_0:
+- audit
+- pole
+- soccer
+- broken
+- wet
+- era
+- blur
+- shift
+- sphere
+- dream
+- entire
+- august
+bip_39_word_space_1: audit
+bip_39_word_space_10: audit pole soccer broken wet era blur shift sphere dream
+bip_39_word_space_11: audit pole soccer broken wet era blur shift sphere dream entire
+bip_39_word_space_12: audit pole soccer broken wet era blur shift sphere dream entire
+  august
+bip_39_word_space_2: audit pole
+bip_39_word_space_3: audit pole soccer
+bip_39_word_space_4: audit pole soccer broken
+bip_39_word_space_5: audit pole soccer broken wet
+bip_39_word_space_6: audit pole soccer broken wet era
+bip_39_word_space_7: audit pole soccer broken wet era blur
+bip_39_word_space_8: audit pole soccer broken wet era blur shift
+bip_39_word_space_9: audit pole soccer broken wet era blur shift sphere
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

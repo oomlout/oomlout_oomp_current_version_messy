@@ -1,3 +1,186 @@
+bip_39_word_new_br1: october
+bip_39_word_new_br10: october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze
+bip_39_word_new_br11: october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze<br>table
+bip_39_word_new_br12: october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug<br>breeze<br>table<br>alley
+bip_39_word_new_br2: october<br>public
+bip_39_word_new_br3: october<br>public<br>oven
+bip_39_word_new_br4: october<br>public<br>oven<br>loop
+bip_39_word_new_br5: october<br>public<br>oven<br>loop<br>purse
+bip_39_word_new_br6: october<br>public<br>oven<br>loop<br>purse<br>guilt
+bip_39_word_new_br7: october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber
+bip_39_word_new_br8: october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing
+bip_39_word_new_br9: october<br>public<br>oven<br>loop<br>purse<br>guilt<br>fiber<br>amazing<br>rug
+bip_39_word_new_line1: october
+bip_39_word_new_line10: 'october
+
+  public
+
+  oven
+
+  loop
+
+  purse
+
+  guilt
+
+  fiber
+
+  amazing
+
+  rug
+
+  breeze'
+bip_39_word_new_line11: 'october
+
+  public
+
+  oven
+
+  loop
+
+  purse
+
+  guilt
+
+  fiber
+
+  amazing
+
+  rug
+
+  breeze
+
+  table'
+bip_39_word_new_line12: 'october
+
+  public
+
+  oven
+
+  loop
+
+  purse
+
+  guilt
+
+  fiber
+
+  amazing
+
+  rug
+
+  breeze
+
+  table
+
+  alley'
+bip_39_word_new_line2: 'october
+
+  public'
+bip_39_word_new_line3: 'october
+
+  public
+
+  oven'
+bip_39_word_new_line4: 'october
+
+  public
+
+  oven
+
+  loop'
+bip_39_word_new_line5: 'october
+
+  public
+
+  oven
+
+  loop
+
+  purse'
+bip_39_word_new_line6: 'october
+
+  public
+
+  oven
+
+  loop
+
+  purse
+
+  guilt'
+bip_39_word_new_line7: 'october
+
+  public
+
+  oven
+
+  loop
+
+  purse
+
+  guilt
+
+  fiber'
+bip_39_word_new_line8: 'october
+
+  public
+
+  oven
+
+  loop
+
+  purse
+
+  guilt
+
+  fiber
+
+  amazing'
+bip_39_word_new_line9: 'october
+
+  public
+
+  oven
+
+  loop
+
+  purse
+
+  guilt
+
+  fiber
+
+  amazing
+
+  rug'
+bip_39_word_space_0:
+- october
+- public
+- oven
+- loop
+- purse
+- guilt
+- fiber
+- amazing
+- rug
+- breeze
+- table
+- alley
+bip_39_word_space_1: october
+bip_39_word_space_10: october public oven loop purse guilt fiber amazing rug breeze
+bip_39_word_space_11: october public oven loop purse guilt fiber amazing rug breeze
+  table
+bip_39_word_space_12: october public oven loop purse guilt fiber amazing rug breeze
+  table alley
+bip_39_word_space_2: october public
+bip_39_word_space_3: october public oven
+bip_39_word_space_4: october public oven loop
+bip_39_word_space_5: october public oven loop purse
+bip_39_word_space_6: october public oven loop purse guilt
+bip_39_word_space_7: october public oven loop purse guilt fiber
+bip_39_word_space_8: october public oven loop purse guilt fiber amazing
+bip_39_word_space_9: october public oven loop purse guilt fiber amazing rug
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

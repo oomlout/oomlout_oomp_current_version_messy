@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crystal live
+  * bip 39 word 3: crystal live brick
+  * bip 39 word: crystal live brick city kingdom always genuine retreat obscure scrap canvas angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crystal |  
+| bip_39_word_new_br10 | crystal<br>live<br>brick<br>city<br>kingdom<br>always<br>genuine<br>retreat<br>obscure<br>scrap |  
+| bip_39_word_new_br11 | crystal<br>live<br>brick<br>city<br>kingdom<br>always<br>genuine<br>retreat<br>obscure<br>scrap<br>canvas |  
+| bip_39_word_new_br12 | crystal<br>live<br>brick<br>city<br>kingdom<br>always<br>genuine<br>retreat<br>obscure<br>scrap<br>canvas<br>angle |  
+| bip_39_word_new_br2 | crystal<br>live |  
+| bip_39_word_new_br3 | crystal<br>live<br>brick |  
+| bip_39_word_new_br4 | crystal<br>live<br>brick<br>city |  
+| bip_39_word_new_br5 | crystal<br>live<br>brick<br>city<br>kingdom |  
+| bip_39_word_new_br6 | crystal<br>live<br>brick<br>city<br>kingdom<br>always |  
+| bip_39_word_new_br7 | crystal<br>live<br>brick<br>city<br>kingdom<br>always<br>genuine |  
+| bip_39_word_new_br8 | crystal<br>live<br>brick<br>city<br>kingdom<br>always<br>genuine<br>retreat |  
+| bip_39_word_new_br9 | crystal<br>live<br>brick<br>city<br>kingdom<br>always<br>genuine<br>retreat<br>obscure |  
+| bip_39_word_new_line1 | crystal |  
+| bip_39_word_new_line10 | crystal
+live
+brick
+city
+kingdom
+always
+genuine
+retreat
+obscure
+scrap |  
+| bip_39_word_new_line11 | crystal
+live
+brick
+city
+kingdom
+always
+genuine
+retreat
+obscure
+scrap
+canvas |  
+| bip_39_word_new_line12 | crystal
+live
+brick
+city
+kingdom
+always
+genuine
+retreat
+obscure
+scrap
+canvas
+angle |  
+| bip_39_word_new_line2 | crystal
+live |  
+| bip_39_word_new_line3 | crystal
+live
+brick |  
+| bip_39_word_new_line4 | crystal
+live
+brick
+city |  
+| bip_39_word_new_line5 | crystal
+live
+brick
+city
+kingdom |  
+| bip_39_word_new_line6 | crystal
+live
+brick
+city
+kingdom
+always |  
+| bip_39_word_new_line7 | crystal
+live
+brick
+city
+kingdom
+always
+genuine |  
+| bip_39_word_new_line8 | crystal
+live
+brick
+city
+kingdom
+always
+genuine
+retreat |  
+| bip_39_word_new_line9 | crystal
+live
+brick
+city
+kingdom
+always
+genuine
+retreat
+obscure |  
+| bip_39_word_space_0 | ['crystal', 'live', 'brick', 'city', 'kingdom', 'always', 'genuine', 'retreat', 'obscure', 'scrap', 'canvas', 'angle'] |  
+| bip_39_word_space_1 | crystal |  
+| bip_39_word_space_10 | crystal live brick city kingdom always genuine retreat obscure scrap |  
+| bip_39_word_space_11 | crystal live brick city kingdom always genuine retreat obscure scrap canvas |  
+| bip_39_word_space_12 | crystal live brick city kingdom always genuine retreat obscure scrap canvas angle |  
+| bip_39_word_space_2 | crystal live |  
+| bip_39_word_space_3 | crystal live brick |  
+| bip_39_word_space_4 | crystal live brick city |  
+| bip_39_word_space_5 | crystal live brick city kingdom |  
+| bip_39_word_space_6 | crystal live brick city kingdom always |  
+| bip_39_word_space_7 | crystal live brick city kingdom always genuine |  
+| bip_39_word_space_8 | crystal live brick city kingdom always genuine retreat |  
+| bip_39_word_space_9 | crystal live brick city kingdom always genuine retreat obscure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

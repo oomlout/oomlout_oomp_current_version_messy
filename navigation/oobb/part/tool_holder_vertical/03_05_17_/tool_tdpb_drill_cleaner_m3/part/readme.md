@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_tdpb_drill_cleaner_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: venture nation
+  * bip 39 word 3: venture nation kit
+  * bip 39 word: venture nation kit defense swap head match october seek brisk unit army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | venture |  
+| bip_39_word_new_br10 | venture<br>nation<br>kit<br>defense<br>swap<br>head<br>match<br>october<br>seek<br>brisk |  
+| bip_39_word_new_br11 | venture<br>nation<br>kit<br>defense<br>swap<br>head<br>match<br>october<br>seek<br>brisk<br>unit |  
+| bip_39_word_new_br12 | venture<br>nation<br>kit<br>defense<br>swap<br>head<br>match<br>october<br>seek<br>brisk<br>unit<br>army |  
+| bip_39_word_new_br2 | venture<br>nation |  
+| bip_39_word_new_br3 | venture<br>nation<br>kit |  
+| bip_39_word_new_br4 | venture<br>nation<br>kit<br>defense |  
+| bip_39_word_new_br5 | venture<br>nation<br>kit<br>defense<br>swap |  
+| bip_39_word_new_br6 | venture<br>nation<br>kit<br>defense<br>swap<br>head |  
+| bip_39_word_new_br7 | venture<br>nation<br>kit<br>defense<br>swap<br>head<br>match |  
+| bip_39_word_new_br8 | venture<br>nation<br>kit<br>defense<br>swap<br>head<br>match<br>october |  
+| bip_39_word_new_br9 | venture<br>nation<br>kit<br>defense<br>swap<br>head<br>match<br>october<br>seek |  
+| bip_39_word_new_line1 | venture |  
+| bip_39_word_new_line10 | venture
+nation
+kit
+defense
+swap
+head
+match
+october
+seek
+brisk |  
+| bip_39_word_new_line11 | venture
+nation
+kit
+defense
+swap
+head
+match
+october
+seek
+brisk
+unit |  
+| bip_39_word_new_line12 | venture
+nation
+kit
+defense
+swap
+head
+match
+october
+seek
+brisk
+unit
+army |  
+| bip_39_word_new_line2 | venture
+nation |  
+| bip_39_word_new_line3 | venture
+nation
+kit |  
+| bip_39_word_new_line4 | venture
+nation
+kit
+defense |  
+| bip_39_word_new_line5 | venture
+nation
+kit
+defense
+swap |  
+| bip_39_word_new_line6 | venture
+nation
+kit
+defense
+swap
+head |  
+| bip_39_word_new_line7 | venture
+nation
+kit
+defense
+swap
+head
+match |  
+| bip_39_word_new_line8 | venture
+nation
+kit
+defense
+swap
+head
+match
+october |  
+| bip_39_word_new_line9 | venture
+nation
+kit
+defense
+swap
+head
+match
+october
+seek |  
+| bip_39_word_space_0 | ['venture', 'nation', 'kit', 'defense', 'swap', 'head', 'match', 'october', 'seek', 'brisk', 'unit', 'army'] |  
+| bip_39_word_space_1 | venture |  
+| bip_39_word_space_10 | venture nation kit defense swap head match october seek brisk |  
+| bip_39_word_space_11 | venture nation kit defense swap head match october seek brisk unit |  
+| bip_39_word_space_12 | venture nation kit defense swap head match october seek brisk unit army |  
+| bip_39_word_space_2 | venture nation |  
+| bip_39_word_space_3 | venture nation kit |  
+| bip_39_word_space_4 | venture nation kit defense |  
+| bip_39_word_space_5 | venture nation kit defense swap |  
+| bip_39_word_space_6 | venture nation kit defense swap head |  
+| bip_39_word_space_7 | venture nation kit defense swap head match |  
+| bip_39_word_space_8 | venture nation kit defense swap head match october |  
+| bip_39_word_space_9 | venture nation kit defense swap head match october seek |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

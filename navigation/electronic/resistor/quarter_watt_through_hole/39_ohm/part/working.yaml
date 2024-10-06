@@ -1,3 +1,186 @@
+bip_39_word_new_br1: woman
+bip_39_word_new_br10: woman<br>moon<br>bread<br>lava<br>method<br>potato<br>surface<br>caught<br>equal<br>eye
+bip_39_word_new_br11: woman<br>moon<br>bread<br>lava<br>method<br>potato<br>surface<br>caught<br>equal<br>eye<br>differ
+bip_39_word_new_br12: woman<br>moon<br>bread<br>lava<br>method<br>potato<br>surface<br>caught<br>equal<br>eye<br>differ<br>anxiety
+bip_39_word_new_br2: woman<br>moon
+bip_39_word_new_br3: woman<br>moon<br>bread
+bip_39_word_new_br4: woman<br>moon<br>bread<br>lava
+bip_39_word_new_br5: woman<br>moon<br>bread<br>lava<br>method
+bip_39_word_new_br6: woman<br>moon<br>bread<br>lava<br>method<br>potato
+bip_39_word_new_br7: woman<br>moon<br>bread<br>lava<br>method<br>potato<br>surface
+bip_39_word_new_br8: woman<br>moon<br>bread<br>lava<br>method<br>potato<br>surface<br>caught
+bip_39_word_new_br9: woman<br>moon<br>bread<br>lava<br>method<br>potato<br>surface<br>caught<br>equal
+bip_39_word_new_line1: woman
+bip_39_word_new_line10: 'woman
+
+  moon
+
+  bread
+
+  lava
+
+  method
+
+  potato
+
+  surface
+
+  caught
+
+  equal
+
+  eye'
+bip_39_word_new_line11: 'woman
+
+  moon
+
+  bread
+
+  lava
+
+  method
+
+  potato
+
+  surface
+
+  caught
+
+  equal
+
+  eye
+
+  differ'
+bip_39_word_new_line12: 'woman
+
+  moon
+
+  bread
+
+  lava
+
+  method
+
+  potato
+
+  surface
+
+  caught
+
+  equal
+
+  eye
+
+  differ
+
+  anxiety'
+bip_39_word_new_line2: 'woman
+
+  moon'
+bip_39_word_new_line3: 'woman
+
+  moon
+
+  bread'
+bip_39_word_new_line4: 'woman
+
+  moon
+
+  bread
+
+  lava'
+bip_39_word_new_line5: 'woman
+
+  moon
+
+  bread
+
+  lava
+
+  method'
+bip_39_word_new_line6: 'woman
+
+  moon
+
+  bread
+
+  lava
+
+  method
+
+  potato'
+bip_39_word_new_line7: 'woman
+
+  moon
+
+  bread
+
+  lava
+
+  method
+
+  potato
+
+  surface'
+bip_39_word_new_line8: 'woman
+
+  moon
+
+  bread
+
+  lava
+
+  method
+
+  potato
+
+  surface
+
+  caught'
+bip_39_word_new_line9: 'woman
+
+  moon
+
+  bread
+
+  lava
+
+  method
+
+  potato
+
+  surface
+
+  caught
+
+  equal'
+bip_39_word_space_0:
+- woman
+- moon
+- bread
+- lava
+- method
+- potato
+- surface
+- caught
+- equal
+- eye
+- differ
+- anxiety
+bip_39_word_space_1: woman
+bip_39_word_space_10: woman moon bread lava method potato surface caught equal eye
+bip_39_word_space_11: woman moon bread lava method potato surface caught equal eye
+  differ
+bip_39_word_space_12: woman moon bread lava method potato surface caught equal eye
+  differ anxiety
+bip_39_word_space_2: woman moon
+bip_39_word_space_3: woman moon bread
+bip_39_word_space_4: woman moon bread lava
+bip_39_word_space_5: woman moon bread lava method
+bip_39_word_space_6: woman moon bread lava method potato
+bip_39_word_space_7: woman moon bread lava method potato surface
+bip_39_word_space_8: woman moon bread lava method potato surface caught
+bip_39_word_space_9: woman moon bread lava method potato surface caught equal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

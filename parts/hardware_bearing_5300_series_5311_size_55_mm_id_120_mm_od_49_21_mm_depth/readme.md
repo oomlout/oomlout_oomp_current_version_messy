@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: odor bottom
+  * bip 39 word 3: odor bottom cause
+  * bip 39 word: odor bottom cause orange system imitate cube settle wear social melody air
 
 ### other_codes
 * short_code: br5311
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | odor |  
+| bip_39_word_new_br10 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube<br>settle<br>wear<br>social |  
+| bip_39_word_new_br11 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube<br>settle<br>wear<br>social<br>melody |  
+| bip_39_word_new_br12 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube<br>settle<br>wear<br>social<br>melody<br>air |  
+| bip_39_word_new_br2 | odor<br>bottom |  
+| bip_39_word_new_br3 | odor<br>bottom<br>cause |  
+| bip_39_word_new_br4 | odor<br>bottom<br>cause<br>orange |  
+| bip_39_word_new_br5 | odor<br>bottom<br>cause<br>orange<br>system |  
+| bip_39_word_new_br6 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate |  
+| bip_39_word_new_br7 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube |  
+| bip_39_word_new_br8 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube<br>settle |  
+| bip_39_word_new_br9 | odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube<br>settle<br>wear |  
+| bip_39_word_new_line1 | odor |  
+| bip_39_word_new_line10 | odor
+bottom
+cause
+orange
+system
+imitate
+cube
+settle
+wear
+social |  
+| bip_39_word_new_line11 | odor
+bottom
+cause
+orange
+system
+imitate
+cube
+settle
+wear
+social
+melody |  
+| bip_39_word_new_line12 | odor
+bottom
+cause
+orange
+system
+imitate
+cube
+settle
+wear
+social
+melody
+air |  
+| bip_39_word_new_line2 | odor
+bottom |  
+| bip_39_word_new_line3 | odor
+bottom
+cause |  
+| bip_39_word_new_line4 | odor
+bottom
+cause
+orange |  
+| bip_39_word_new_line5 | odor
+bottom
+cause
+orange
+system |  
+| bip_39_word_new_line6 | odor
+bottom
+cause
+orange
+system
+imitate |  
+| bip_39_word_new_line7 | odor
+bottom
+cause
+orange
+system
+imitate
+cube |  
+| bip_39_word_new_line8 | odor
+bottom
+cause
+orange
+system
+imitate
+cube
+settle |  
+| bip_39_word_new_line9 | odor
+bottom
+cause
+orange
+system
+imitate
+cube
+settle
+wear |  
+| bip_39_word_space_0 | ['odor', 'bottom', 'cause', 'orange', 'system', 'imitate', 'cube', 'settle', 'wear', 'social', 'melody', 'air'] |  
+| bip_39_word_space_1 | odor |  
+| bip_39_word_space_10 | odor bottom cause orange system imitate cube settle wear social |  
+| bip_39_word_space_11 | odor bottom cause orange system imitate cube settle wear social melody |  
+| bip_39_word_space_12 | odor bottom cause orange system imitate cube settle wear social melody air |  
+| bip_39_word_space_2 | odor bottom |  
+| bip_39_word_space_3 | odor bottom cause |  
+| bip_39_word_space_4 | odor bottom cause orange |  
+| bip_39_word_space_5 | odor bottom cause orange system |  
+| bip_39_word_space_6 | odor bottom cause orange system imitate |  
+| bip_39_word_space_7 | odor bottom cause orange system imitate cube |  
+| bip_39_word_space_8 | odor bottom cause orange system imitate cube settle |  
+| bip_39_word_space_9 | odor bottom cause orange system imitate cube settle wear |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

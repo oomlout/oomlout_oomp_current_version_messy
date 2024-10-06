@@ -1,3 +1,186 @@
+bip_39_word_new_br1: castle
+bip_39_word_new_br10: castle<br>party<br>best<br>file<br>scan<br>dwarf<br>stage<br>chimney<br>guide<br>input
+bip_39_word_new_br11: castle<br>party<br>best<br>file<br>scan<br>dwarf<br>stage<br>chimney<br>guide<br>input<br>scan
+bip_39_word_new_br12: castle<br>party<br>best<br>file<br>scan<br>dwarf<br>stage<br>chimney<br>guide<br>input<br>scan<br>ability
+bip_39_word_new_br2: castle<br>party
+bip_39_word_new_br3: castle<br>party<br>best
+bip_39_word_new_br4: castle<br>party<br>best<br>file
+bip_39_word_new_br5: castle<br>party<br>best<br>file<br>scan
+bip_39_word_new_br6: castle<br>party<br>best<br>file<br>scan<br>dwarf
+bip_39_word_new_br7: castle<br>party<br>best<br>file<br>scan<br>dwarf<br>stage
+bip_39_word_new_br8: castle<br>party<br>best<br>file<br>scan<br>dwarf<br>stage<br>chimney
+bip_39_word_new_br9: castle<br>party<br>best<br>file<br>scan<br>dwarf<br>stage<br>chimney<br>guide
+bip_39_word_new_line1: castle
+bip_39_word_new_line10: 'castle
+
+  party
+
+  best
+
+  file
+
+  scan
+
+  dwarf
+
+  stage
+
+  chimney
+
+  guide
+
+  input'
+bip_39_word_new_line11: 'castle
+
+  party
+
+  best
+
+  file
+
+  scan
+
+  dwarf
+
+  stage
+
+  chimney
+
+  guide
+
+  input
+
+  scan'
+bip_39_word_new_line12: 'castle
+
+  party
+
+  best
+
+  file
+
+  scan
+
+  dwarf
+
+  stage
+
+  chimney
+
+  guide
+
+  input
+
+  scan
+
+  ability'
+bip_39_word_new_line2: 'castle
+
+  party'
+bip_39_word_new_line3: 'castle
+
+  party
+
+  best'
+bip_39_word_new_line4: 'castle
+
+  party
+
+  best
+
+  file'
+bip_39_word_new_line5: 'castle
+
+  party
+
+  best
+
+  file
+
+  scan'
+bip_39_word_new_line6: 'castle
+
+  party
+
+  best
+
+  file
+
+  scan
+
+  dwarf'
+bip_39_word_new_line7: 'castle
+
+  party
+
+  best
+
+  file
+
+  scan
+
+  dwarf
+
+  stage'
+bip_39_word_new_line8: 'castle
+
+  party
+
+  best
+
+  file
+
+  scan
+
+  dwarf
+
+  stage
+
+  chimney'
+bip_39_word_new_line9: 'castle
+
+  party
+
+  best
+
+  file
+
+  scan
+
+  dwarf
+
+  stage
+
+  chimney
+
+  guide'
+bip_39_word_space_0:
+- castle
+- party
+- best
+- file
+- scan
+- dwarf
+- stage
+- chimney
+- guide
+- input
+- scan
+- ability
+bip_39_word_space_1: castle
+bip_39_word_space_10: castle party best file scan dwarf stage chimney guide input
+bip_39_word_space_11: castle party best file scan dwarf stage chimney guide input
+  scan
+bip_39_word_space_12: castle party best file scan dwarf stage chimney guide input
+  scan ability
+bip_39_word_space_2: castle party
+bip_39_word_space_3: castle party best
+bip_39_word_space_4: castle party best file
+bip_39_word_space_5: castle party best file scan
+bip_39_word_space_6: castle party best file scan dwarf
+bip_39_word_space_7: castle party best file scan dwarf stage
+bip_39_word_space_8: castle party best file scan dwarf stage chimney
+bip_39_word_space_9: castle party best file scan dwarf stage chimney guide
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

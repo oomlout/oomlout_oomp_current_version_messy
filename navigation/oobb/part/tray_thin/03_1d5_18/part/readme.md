@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bench laundry
+  * bip 39 word 3: bench laundry broccoli
+  * bip 39 word: bench laundry broccoli lion boat add category borrow same leopard slam adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bench |  
+| bip_39_word_new_br10 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add<br>category<br>borrow<br>same<br>leopard |  
+| bip_39_word_new_br11 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add<br>category<br>borrow<br>same<br>leopard<br>slam |  
+| bip_39_word_new_br12 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add<br>category<br>borrow<br>same<br>leopard<br>slam<br>adapt |  
+| bip_39_word_new_br2 | bench<br>laundry |  
+| bip_39_word_new_br3 | bench<br>laundry<br>broccoli |  
+| bip_39_word_new_br4 | bench<br>laundry<br>broccoli<br>lion |  
+| bip_39_word_new_br5 | bench<br>laundry<br>broccoli<br>lion<br>boat |  
+| bip_39_word_new_br6 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add |  
+| bip_39_word_new_br7 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add<br>category |  
+| bip_39_word_new_br8 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add<br>category<br>borrow |  
+| bip_39_word_new_br9 | bench<br>laundry<br>broccoli<br>lion<br>boat<br>add<br>category<br>borrow<br>same |  
+| bip_39_word_new_line1 | bench |  
+| bip_39_word_new_line10 | bench
+laundry
+broccoli
+lion
+boat
+add
+category
+borrow
+same
+leopard |  
+| bip_39_word_new_line11 | bench
+laundry
+broccoli
+lion
+boat
+add
+category
+borrow
+same
+leopard
+slam |  
+| bip_39_word_new_line12 | bench
+laundry
+broccoli
+lion
+boat
+add
+category
+borrow
+same
+leopard
+slam
+adapt |  
+| bip_39_word_new_line2 | bench
+laundry |  
+| bip_39_word_new_line3 | bench
+laundry
+broccoli |  
+| bip_39_word_new_line4 | bench
+laundry
+broccoli
+lion |  
+| bip_39_word_new_line5 | bench
+laundry
+broccoli
+lion
+boat |  
+| bip_39_word_new_line6 | bench
+laundry
+broccoli
+lion
+boat
+add |  
+| bip_39_word_new_line7 | bench
+laundry
+broccoli
+lion
+boat
+add
+category |  
+| bip_39_word_new_line8 | bench
+laundry
+broccoli
+lion
+boat
+add
+category
+borrow |  
+| bip_39_word_new_line9 | bench
+laundry
+broccoli
+lion
+boat
+add
+category
+borrow
+same |  
+| bip_39_word_space_0 | ['bench', 'laundry', 'broccoli', 'lion', 'boat', 'add', 'category', 'borrow', 'same', 'leopard', 'slam', 'adapt'] |  
+| bip_39_word_space_1 | bench |  
+| bip_39_word_space_10 | bench laundry broccoli lion boat add category borrow same leopard |  
+| bip_39_word_space_11 | bench laundry broccoli lion boat add category borrow same leopard slam |  
+| bip_39_word_space_12 | bench laundry broccoli lion boat add category borrow same leopard slam adapt |  
+| bip_39_word_space_2 | bench laundry |  
+| bip_39_word_space_3 | bench laundry broccoli |  
+| bip_39_word_space_4 | bench laundry broccoli lion |  
+| bip_39_word_space_5 | bench laundry broccoli lion boat |  
+| bip_39_word_space_6 | bench laundry broccoli lion boat add |  
+| bip_39_word_space_7 | bench laundry broccoli lion boat add category |  
+| bip_39_word_space_8 | bench laundry broccoli lion boat add category borrow |  
+| bip_39_word_space_9 | bench laundry broccoli lion boat add category borrow same |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

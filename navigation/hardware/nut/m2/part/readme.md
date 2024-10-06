@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: weasel fetch
+  * bip 39 word 3: weasel fetch breeze
+  * bip 39 word: weasel fetch breeze warm virus fox flower dad source exchange glad again
 
 ### other_codes
 * short_code: n2m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | weasel |  
+| bip_39_word_new_br10 | weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source<br>exchange |  
+| bip_39_word_new_br11 | weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source<br>exchange<br>glad |  
+| bip_39_word_new_br12 | weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source<br>exchange<br>glad<br>again |  
+| bip_39_word_new_br2 | weasel<br>fetch |  
+| bip_39_word_new_br3 | weasel<br>fetch<br>breeze |  
+| bip_39_word_new_br4 | weasel<br>fetch<br>breeze<br>warm |  
+| bip_39_word_new_br5 | weasel<br>fetch<br>breeze<br>warm<br>virus |  
+| bip_39_word_new_br6 | weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox |  
+| bip_39_word_new_br7 | weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower |  
+| bip_39_word_new_br8 | weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad |  
+| bip_39_word_new_br9 | weasel<br>fetch<br>breeze<br>warm<br>virus<br>fox<br>flower<br>dad<br>source |  
+| bip_39_word_new_line1 | weasel |  
+| bip_39_word_new_line10 | weasel
+fetch
+breeze
+warm
+virus
+fox
+flower
+dad
+source
+exchange |  
+| bip_39_word_new_line11 | weasel
+fetch
+breeze
+warm
+virus
+fox
+flower
+dad
+source
+exchange
+glad |  
+| bip_39_word_new_line12 | weasel
+fetch
+breeze
+warm
+virus
+fox
+flower
+dad
+source
+exchange
+glad
+again |  
+| bip_39_word_new_line2 | weasel
+fetch |  
+| bip_39_word_new_line3 | weasel
+fetch
+breeze |  
+| bip_39_word_new_line4 | weasel
+fetch
+breeze
+warm |  
+| bip_39_word_new_line5 | weasel
+fetch
+breeze
+warm
+virus |  
+| bip_39_word_new_line6 | weasel
+fetch
+breeze
+warm
+virus
+fox |  
+| bip_39_word_new_line7 | weasel
+fetch
+breeze
+warm
+virus
+fox
+flower |  
+| bip_39_word_new_line8 | weasel
+fetch
+breeze
+warm
+virus
+fox
+flower
+dad |  
+| bip_39_word_new_line9 | weasel
+fetch
+breeze
+warm
+virus
+fox
+flower
+dad
+source |  
+| bip_39_word_space_0 | ['weasel', 'fetch', 'breeze', 'warm', 'virus', 'fox', 'flower', 'dad', 'source', 'exchange', 'glad', 'again'] |  
+| bip_39_word_space_1 | weasel |  
+| bip_39_word_space_10 | weasel fetch breeze warm virus fox flower dad source exchange |  
+| bip_39_word_space_11 | weasel fetch breeze warm virus fox flower dad source exchange glad |  
+| bip_39_word_space_12 | weasel fetch breeze warm virus fox flower dad source exchange glad again |  
+| bip_39_word_space_2 | weasel fetch |  
+| bip_39_word_space_3 | weasel fetch breeze |  
+| bip_39_word_space_4 | weasel fetch breeze warm |  
+| bip_39_word_space_5 | weasel fetch breeze warm virus |  
+| bip_39_word_space_6 | weasel fetch breeze warm virus fox |  
+| bip_39_word_space_7 | weasel fetch breeze warm virus fox flower |  
+| bip_39_word_space_8 | weasel fetch breeze warm virus fox flower dad |  
+| bip_39_word_space_9 | weasel fetch breeze warm virus fox flower dad source |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

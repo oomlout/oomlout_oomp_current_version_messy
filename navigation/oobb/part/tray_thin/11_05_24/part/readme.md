@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: company safe
+  * bip 39 word 3: company safe indicate
+  * bip 39 word: company safe indicate spot glide custom pulse cool arm debate surface announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | company |  
+| bip_39_word_new_br10 | company<br>safe<br>indicate<br>spot<br>glide<br>custom<br>pulse<br>cool<br>arm<br>debate |  
+| bip_39_word_new_br11 | company<br>safe<br>indicate<br>spot<br>glide<br>custom<br>pulse<br>cool<br>arm<br>debate<br>surface |  
+| bip_39_word_new_br12 | company<br>safe<br>indicate<br>spot<br>glide<br>custom<br>pulse<br>cool<br>arm<br>debate<br>surface<br>announce |  
+| bip_39_word_new_br2 | company<br>safe |  
+| bip_39_word_new_br3 | company<br>safe<br>indicate |  
+| bip_39_word_new_br4 | company<br>safe<br>indicate<br>spot |  
+| bip_39_word_new_br5 | company<br>safe<br>indicate<br>spot<br>glide |  
+| bip_39_word_new_br6 | company<br>safe<br>indicate<br>spot<br>glide<br>custom |  
+| bip_39_word_new_br7 | company<br>safe<br>indicate<br>spot<br>glide<br>custom<br>pulse |  
+| bip_39_word_new_br8 | company<br>safe<br>indicate<br>spot<br>glide<br>custom<br>pulse<br>cool |  
+| bip_39_word_new_br9 | company<br>safe<br>indicate<br>spot<br>glide<br>custom<br>pulse<br>cool<br>arm |  
+| bip_39_word_new_line1 | company |  
+| bip_39_word_new_line10 | company
+safe
+indicate
+spot
+glide
+custom
+pulse
+cool
+arm
+debate |  
+| bip_39_word_new_line11 | company
+safe
+indicate
+spot
+glide
+custom
+pulse
+cool
+arm
+debate
+surface |  
+| bip_39_word_new_line12 | company
+safe
+indicate
+spot
+glide
+custom
+pulse
+cool
+arm
+debate
+surface
+announce |  
+| bip_39_word_new_line2 | company
+safe |  
+| bip_39_word_new_line3 | company
+safe
+indicate |  
+| bip_39_word_new_line4 | company
+safe
+indicate
+spot |  
+| bip_39_word_new_line5 | company
+safe
+indicate
+spot
+glide |  
+| bip_39_word_new_line6 | company
+safe
+indicate
+spot
+glide
+custom |  
+| bip_39_word_new_line7 | company
+safe
+indicate
+spot
+glide
+custom
+pulse |  
+| bip_39_word_new_line8 | company
+safe
+indicate
+spot
+glide
+custom
+pulse
+cool |  
+| bip_39_word_new_line9 | company
+safe
+indicate
+spot
+glide
+custom
+pulse
+cool
+arm |  
+| bip_39_word_space_0 | ['company', 'safe', 'indicate', 'spot', 'glide', 'custom', 'pulse', 'cool', 'arm', 'debate', 'surface', 'announce'] |  
+| bip_39_word_space_1 | company |  
+| bip_39_word_space_10 | company safe indicate spot glide custom pulse cool arm debate |  
+| bip_39_word_space_11 | company safe indicate spot glide custom pulse cool arm debate surface |  
+| bip_39_word_space_12 | company safe indicate spot glide custom pulse cool arm debate surface announce |  
+| bip_39_word_space_2 | company safe |  
+| bip_39_word_space_3 | company safe indicate |  
+| bip_39_word_space_4 | company safe indicate spot |  
+| bip_39_word_space_5 | company safe indicate spot glide |  
+| bip_39_word_space_6 | company safe indicate spot glide custom |  
+| bip_39_word_space_7 | company safe indicate spot glide custom pulse |  
+| bip_39_word_space_8 | company safe indicate spot glide custom pulse cool |  
+| bip_39_word_space_9 | company safe indicate spot glide custom pulse cool arm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

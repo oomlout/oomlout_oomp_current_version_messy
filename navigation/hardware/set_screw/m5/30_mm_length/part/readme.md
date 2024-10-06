@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: result feel
+  * bip 39 word 3: result feel pretty
+  * bip 39 word: result feel pretty calm bamboo enough clown champion pair cook fly all
 
 ### other_codes
 * short_code: ss5m30
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | result |  
+| bip_39_word_new_br10 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough<br>clown<br>champion<br>pair<br>cook |  
+| bip_39_word_new_br11 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough<br>clown<br>champion<br>pair<br>cook<br>fly |  
+| bip_39_word_new_br12 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough<br>clown<br>champion<br>pair<br>cook<br>fly<br>all |  
+| bip_39_word_new_br2 | result<br>feel |  
+| bip_39_word_new_br3 | result<br>feel<br>pretty |  
+| bip_39_word_new_br4 | result<br>feel<br>pretty<br>calm |  
+| bip_39_word_new_br5 | result<br>feel<br>pretty<br>calm<br>bamboo |  
+| bip_39_word_new_br6 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough |  
+| bip_39_word_new_br7 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough<br>clown |  
+| bip_39_word_new_br8 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough<br>clown<br>champion |  
+| bip_39_word_new_br9 | result<br>feel<br>pretty<br>calm<br>bamboo<br>enough<br>clown<br>champion<br>pair |  
+| bip_39_word_new_line1 | result |  
+| bip_39_word_new_line10 | result
+feel
+pretty
+calm
+bamboo
+enough
+clown
+champion
+pair
+cook |  
+| bip_39_word_new_line11 | result
+feel
+pretty
+calm
+bamboo
+enough
+clown
+champion
+pair
+cook
+fly |  
+| bip_39_word_new_line12 | result
+feel
+pretty
+calm
+bamboo
+enough
+clown
+champion
+pair
+cook
+fly
+all |  
+| bip_39_word_new_line2 | result
+feel |  
+| bip_39_word_new_line3 | result
+feel
+pretty |  
+| bip_39_word_new_line4 | result
+feel
+pretty
+calm |  
+| bip_39_word_new_line5 | result
+feel
+pretty
+calm
+bamboo |  
+| bip_39_word_new_line6 | result
+feel
+pretty
+calm
+bamboo
+enough |  
+| bip_39_word_new_line7 | result
+feel
+pretty
+calm
+bamboo
+enough
+clown |  
+| bip_39_word_new_line8 | result
+feel
+pretty
+calm
+bamboo
+enough
+clown
+champion |  
+| bip_39_word_new_line9 | result
+feel
+pretty
+calm
+bamboo
+enough
+clown
+champion
+pair |  
+| bip_39_word_space_0 | ['result', 'feel', 'pretty', 'calm', 'bamboo', 'enough', 'clown', 'champion', 'pair', 'cook', 'fly', 'all'] |  
+| bip_39_word_space_1 | result |  
+| bip_39_word_space_10 | result feel pretty calm bamboo enough clown champion pair cook |  
+| bip_39_word_space_11 | result feel pretty calm bamboo enough clown champion pair cook fly |  
+| bip_39_word_space_12 | result feel pretty calm bamboo enough clown champion pair cook fly all |  
+| bip_39_word_space_2 | result feel |  
+| bip_39_word_space_3 | result feel pretty |  
+| bip_39_word_space_4 | result feel pretty calm |  
+| bip_39_word_space_5 | result feel pretty calm bamboo |  
+| bip_39_word_space_6 | result feel pretty calm bamboo enough |  
+| bip_39_word_space_7 | result feel pretty calm bamboo enough clown |  
+| bip_39_word_space_8 | result feel pretty calm bamboo enough clown champion |  
+| bip_39_word_space_9 | result feel pretty calm bamboo enough clown champion pair |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

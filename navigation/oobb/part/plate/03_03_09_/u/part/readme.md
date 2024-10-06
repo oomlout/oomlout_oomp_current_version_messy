@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mobile long
+  * bip 39 word 3: mobile long pepper
+  * bip 39 word: mobile long pepper pave lock happy page length follow swing infant above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mobile |  
+| bip_39_word_new_br10 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing |  
+| bip_39_word_new_br11 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant |  
+| bip_39_word_new_br12 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant<br>above |  
+| bip_39_word_new_br2 | mobile<br>long |  
+| bip_39_word_new_br3 | mobile<br>long<br>pepper |  
+| bip_39_word_new_br4 | mobile<br>long<br>pepper<br>pave |  
+| bip_39_word_new_br5 | mobile<br>long<br>pepper<br>pave<br>lock |  
+| bip_39_word_new_br6 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy |  
+| bip_39_word_new_br7 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page |  
+| bip_39_word_new_br8 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length |  
+| bip_39_word_new_br9 | mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow |  
+| bip_39_word_new_line1 | mobile |  
+| bip_39_word_new_line10 | mobile
+long
+pepper
+pave
+lock
+happy
+page
+length
+follow
+swing |  
+| bip_39_word_new_line11 | mobile
+long
+pepper
+pave
+lock
+happy
+page
+length
+follow
+swing
+infant |  
+| bip_39_word_new_line12 | mobile
+long
+pepper
+pave
+lock
+happy
+page
+length
+follow
+swing
+infant
+above |  
+| bip_39_word_new_line2 | mobile
+long |  
+| bip_39_word_new_line3 | mobile
+long
+pepper |  
+| bip_39_word_new_line4 | mobile
+long
+pepper
+pave |  
+| bip_39_word_new_line5 | mobile
+long
+pepper
+pave
+lock |  
+| bip_39_word_new_line6 | mobile
+long
+pepper
+pave
+lock
+happy |  
+| bip_39_word_new_line7 | mobile
+long
+pepper
+pave
+lock
+happy
+page |  
+| bip_39_word_new_line8 | mobile
+long
+pepper
+pave
+lock
+happy
+page
+length |  
+| bip_39_word_new_line9 | mobile
+long
+pepper
+pave
+lock
+happy
+page
+length
+follow |  
+| bip_39_word_space_0 | ['mobile', 'long', 'pepper', 'pave', 'lock', 'happy', 'page', 'length', 'follow', 'swing', 'infant', 'above'] |  
+| bip_39_word_space_1 | mobile |  
+| bip_39_word_space_10 | mobile long pepper pave lock happy page length follow swing |  
+| bip_39_word_space_11 | mobile long pepper pave lock happy page length follow swing infant |  
+| bip_39_word_space_12 | mobile long pepper pave lock happy page length follow swing infant above |  
+| bip_39_word_space_2 | mobile long |  
+| bip_39_word_space_3 | mobile long pepper |  
+| bip_39_word_space_4 | mobile long pepper pave |  
+| bip_39_word_space_5 | mobile long pepper pave lock |  
+| bip_39_word_space_6 | mobile long pepper pave lock happy |  
+| bip_39_word_space_7 | mobile long pepper pave lock happy page |  
+| bip_39_word_space_8 | mobile long pepper pave lock happy page length |  
+| bip_39_word_space_9 | mobile long pepper pave lock happy page length follow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

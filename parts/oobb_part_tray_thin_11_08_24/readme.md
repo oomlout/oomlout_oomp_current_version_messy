@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: south modify
+  * bip 39 word 3: south modify focus
+  * bip 39 word: south modify focus decrease guess plug also blade lyrics cash feature ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | south |  
+| bip_39_word_new_br10 | south<br>modify<br>focus<br>decrease<br>guess<br>plug<br>also<br>blade<br>lyrics<br>cash |  
+| bip_39_word_new_br11 | south<br>modify<br>focus<br>decrease<br>guess<br>plug<br>also<br>blade<br>lyrics<br>cash<br>feature |  
+| bip_39_word_new_br12 | south<br>modify<br>focus<br>decrease<br>guess<br>plug<br>also<br>blade<br>lyrics<br>cash<br>feature<br>ancient |  
+| bip_39_word_new_br2 | south<br>modify |  
+| bip_39_word_new_br3 | south<br>modify<br>focus |  
+| bip_39_word_new_br4 | south<br>modify<br>focus<br>decrease |  
+| bip_39_word_new_br5 | south<br>modify<br>focus<br>decrease<br>guess |  
+| bip_39_word_new_br6 | south<br>modify<br>focus<br>decrease<br>guess<br>plug |  
+| bip_39_word_new_br7 | south<br>modify<br>focus<br>decrease<br>guess<br>plug<br>also |  
+| bip_39_word_new_br8 | south<br>modify<br>focus<br>decrease<br>guess<br>plug<br>also<br>blade |  
+| bip_39_word_new_br9 | south<br>modify<br>focus<br>decrease<br>guess<br>plug<br>also<br>blade<br>lyrics |  
+| bip_39_word_new_line1 | south |  
+| bip_39_word_new_line10 | south
+modify
+focus
+decrease
+guess
+plug
+also
+blade
+lyrics
+cash |  
+| bip_39_word_new_line11 | south
+modify
+focus
+decrease
+guess
+plug
+also
+blade
+lyrics
+cash
+feature |  
+| bip_39_word_new_line12 | south
+modify
+focus
+decrease
+guess
+plug
+also
+blade
+lyrics
+cash
+feature
+ancient |  
+| bip_39_word_new_line2 | south
+modify |  
+| bip_39_word_new_line3 | south
+modify
+focus |  
+| bip_39_word_new_line4 | south
+modify
+focus
+decrease |  
+| bip_39_word_new_line5 | south
+modify
+focus
+decrease
+guess |  
+| bip_39_word_new_line6 | south
+modify
+focus
+decrease
+guess
+plug |  
+| bip_39_word_new_line7 | south
+modify
+focus
+decrease
+guess
+plug
+also |  
+| bip_39_word_new_line8 | south
+modify
+focus
+decrease
+guess
+plug
+also
+blade |  
+| bip_39_word_new_line9 | south
+modify
+focus
+decrease
+guess
+plug
+also
+blade
+lyrics |  
+| bip_39_word_space_0 | ['south', 'modify', 'focus', 'decrease', 'guess', 'plug', 'also', 'blade', 'lyrics', 'cash', 'feature', 'ancient'] |  
+| bip_39_word_space_1 | south |  
+| bip_39_word_space_10 | south modify focus decrease guess plug also blade lyrics cash |  
+| bip_39_word_space_11 | south modify focus decrease guess plug also blade lyrics cash feature |  
+| bip_39_word_space_12 | south modify focus decrease guess plug also blade lyrics cash feature ancient |  
+| bip_39_word_space_2 | south modify |  
+| bip_39_word_space_3 | south modify focus |  
+| bip_39_word_space_4 | south modify focus decrease |  
+| bip_39_word_space_5 | south modify focus decrease guess |  
+| bip_39_word_space_6 | south modify focus decrease guess plug |  
+| bip_39_word_space_7 | south modify focus decrease guess plug also |  
+| bip_39_word_space_8 | south modify focus decrease guess plug also blade |  
+| bip_39_word_space_9 | south modify focus decrease guess plug also blade lyrics |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

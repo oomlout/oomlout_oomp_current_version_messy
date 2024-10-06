@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: engage evidence
+  * bip 39 word 3: engage evidence strong
+  * bip 39 word: engage evidence strong credit test agree rescue skull base member else aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | engage |  
+| bip_39_word_new_br10 | engage<br>evidence<br>strong<br>credit<br>test<br>agree<br>rescue<br>skull<br>base<br>member |  
+| bip_39_word_new_br11 | engage<br>evidence<br>strong<br>credit<br>test<br>agree<br>rescue<br>skull<br>base<br>member<br>else |  
+| bip_39_word_new_br12 | engage<br>evidence<br>strong<br>credit<br>test<br>agree<br>rescue<br>skull<br>base<br>member<br>else<br>aisle |  
+| bip_39_word_new_br2 | engage<br>evidence |  
+| bip_39_word_new_br3 | engage<br>evidence<br>strong |  
+| bip_39_word_new_br4 | engage<br>evidence<br>strong<br>credit |  
+| bip_39_word_new_br5 | engage<br>evidence<br>strong<br>credit<br>test |  
+| bip_39_word_new_br6 | engage<br>evidence<br>strong<br>credit<br>test<br>agree |  
+| bip_39_word_new_br7 | engage<br>evidence<br>strong<br>credit<br>test<br>agree<br>rescue |  
+| bip_39_word_new_br8 | engage<br>evidence<br>strong<br>credit<br>test<br>agree<br>rescue<br>skull |  
+| bip_39_word_new_br9 | engage<br>evidence<br>strong<br>credit<br>test<br>agree<br>rescue<br>skull<br>base |  
+| bip_39_word_new_line1 | engage |  
+| bip_39_word_new_line10 | engage
+evidence
+strong
+credit
+test
+agree
+rescue
+skull
+base
+member |  
+| bip_39_word_new_line11 | engage
+evidence
+strong
+credit
+test
+agree
+rescue
+skull
+base
+member
+else |  
+| bip_39_word_new_line12 | engage
+evidence
+strong
+credit
+test
+agree
+rescue
+skull
+base
+member
+else
+aisle |  
+| bip_39_word_new_line2 | engage
+evidence |  
+| bip_39_word_new_line3 | engage
+evidence
+strong |  
+| bip_39_word_new_line4 | engage
+evidence
+strong
+credit |  
+| bip_39_word_new_line5 | engage
+evidence
+strong
+credit
+test |  
+| bip_39_word_new_line6 | engage
+evidence
+strong
+credit
+test
+agree |  
+| bip_39_word_new_line7 | engage
+evidence
+strong
+credit
+test
+agree
+rescue |  
+| bip_39_word_new_line8 | engage
+evidence
+strong
+credit
+test
+agree
+rescue
+skull |  
+| bip_39_word_new_line9 | engage
+evidence
+strong
+credit
+test
+agree
+rescue
+skull
+base |  
+| bip_39_word_space_0 | ['engage', 'evidence', 'strong', 'credit', 'test', 'agree', 'rescue', 'skull', 'base', 'member', 'else', 'aisle'] |  
+| bip_39_word_space_1 | engage |  
+| bip_39_word_space_10 | engage evidence strong credit test agree rescue skull base member |  
+| bip_39_word_space_11 | engage evidence strong credit test agree rescue skull base member else |  
+| bip_39_word_space_12 | engage evidence strong credit test agree rescue skull base member else aisle |  
+| bip_39_word_space_2 | engage evidence |  
+| bip_39_word_space_3 | engage evidence strong |  
+| bip_39_word_space_4 | engage evidence strong credit |  
+| bip_39_word_space_5 | engage evidence strong credit test |  
+| bip_39_word_space_6 | engage evidence strong credit test agree |  
+| bip_39_word_space_7 | engage evidence strong credit test agree rescue |  
+| bip_39_word_space_8 | engage evidence strong credit test agree rescue skull |  
+| bip_39_word_space_9 | engage evidence strong credit test agree rescue skull base |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cereal water
+  * bip 39 word 3: cereal water fish
+  * bip 39 word: cereal water fish girl once shrug valid silly odor network oppose angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cereal |  
+| bip_39_word_new_br10 | cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network |  
+| bip_39_word_new_br11 | cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network<br>oppose |  
+| bip_39_word_new_br12 | cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor<br>network<br>oppose<br>angle |  
+| bip_39_word_new_br2 | cereal<br>water |  
+| bip_39_word_new_br3 | cereal<br>water<br>fish |  
+| bip_39_word_new_br4 | cereal<br>water<br>fish<br>girl |  
+| bip_39_word_new_br5 | cereal<br>water<br>fish<br>girl<br>once |  
+| bip_39_word_new_br6 | cereal<br>water<br>fish<br>girl<br>once<br>shrug |  
+| bip_39_word_new_br7 | cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid |  
+| bip_39_word_new_br8 | cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly |  
+| bip_39_word_new_br9 | cereal<br>water<br>fish<br>girl<br>once<br>shrug<br>valid<br>silly<br>odor |  
+| bip_39_word_new_line1 | cereal |  
+| bip_39_word_new_line10 | cereal
+water
+fish
+girl
+once
+shrug
+valid
+silly
+odor
+network |  
+| bip_39_word_new_line11 | cereal
+water
+fish
+girl
+once
+shrug
+valid
+silly
+odor
+network
+oppose |  
+| bip_39_word_new_line12 | cereal
+water
+fish
+girl
+once
+shrug
+valid
+silly
+odor
+network
+oppose
+angle |  
+| bip_39_word_new_line2 | cereal
+water |  
+| bip_39_word_new_line3 | cereal
+water
+fish |  
+| bip_39_word_new_line4 | cereal
+water
+fish
+girl |  
+| bip_39_word_new_line5 | cereal
+water
+fish
+girl
+once |  
+| bip_39_word_new_line6 | cereal
+water
+fish
+girl
+once
+shrug |  
+| bip_39_word_new_line7 | cereal
+water
+fish
+girl
+once
+shrug
+valid |  
+| bip_39_word_new_line8 | cereal
+water
+fish
+girl
+once
+shrug
+valid
+silly |  
+| bip_39_word_new_line9 | cereal
+water
+fish
+girl
+once
+shrug
+valid
+silly
+odor |  
+| bip_39_word_space_0 | ['cereal', 'water', 'fish', 'girl', 'once', 'shrug', 'valid', 'silly', 'odor', 'network', 'oppose', 'angle'] |  
+| bip_39_word_space_1 | cereal |  
+| bip_39_word_space_10 | cereal water fish girl once shrug valid silly odor network |  
+| bip_39_word_space_11 | cereal water fish girl once shrug valid silly odor network oppose |  
+| bip_39_word_space_12 | cereal water fish girl once shrug valid silly odor network oppose angle |  
+| bip_39_word_space_2 | cereal water |  
+| bip_39_word_space_3 | cereal water fish |  
+| bip_39_word_space_4 | cereal water fish girl |  
+| bip_39_word_space_5 | cereal water fish girl once |  
+| bip_39_word_space_6 | cereal water fish girl once shrug |  
+| bip_39_word_space_7 | cereal water fish girl once shrug valid |  
+| bip_39_word_space_8 | cereal water fish girl once shrug valid silly |  
+| bip_39_word_space_9 | cereal water fish girl once shrug valid silly odor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

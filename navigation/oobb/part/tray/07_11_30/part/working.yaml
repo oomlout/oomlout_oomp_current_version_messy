@@ -1,3 +1,187 @@
+bip_39_word_new_br1: awesome
+bip_39_word_new_br10: awesome<br>session<br>husband<br>silver<br>into<br>across<br>upper<br>lawn<br>absorb<br>turtle
+bip_39_word_new_br11: awesome<br>session<br>husband<br>silver<br>into<br>across<br>upper<br>lawn<br>absorb<br>turtle<br>cigar
+bip_39_word_new_br12: awesome<br>session<br>husband<br>silver<br>into<br>across<br>upper<br>lawn<br>absorb<br>turtle<br>cigar<br>ask
+bip_39_word_new_br2: awesome<br>session
+bip_39_word_new_br3: awesome<br>session<br>husband
+bip_39_word_new_br4: awesome<br>session<br>husband<br>silver
+bip_39_word_new_br5: awesome<br>session<br>husband<br>silver<br>into
+bip_39_word_new_br6: awesome<br>session<br>husband<br>silver<br>into<br>across
+bip_39_word_new_br7: awesome<br>session<br>husband<br>silver<br>into<br>across<br>upper
+bip_39_word_new_br8: awesome<br>session<br>husband<br>silver<br>into<br>across<br>upper<br>lawn
+bip_39_word_new_br9: awesome<br>session<br>husband<br>silver<br>into<br>across<br>upper<br>lawn<br>absorb
+bip_39_word_new_line1: awesome
+bip_39_word_new_line10: 'awesome
+
+  session
+
+  husband
+
+  silver
+
+  into
+
+  across
+
+  upper
+
+  lawn
+
+  absorb
+
+  turtle'
+bip_39_word_new_line11: 'awesome
+
+  session
+
+  husband
+
+  silver
+
+  into
+
+  across
+
+  upper
+
+  lawn
+
+  absorb
+
+  turtle
+
+  cigar'
+bip_39_word_new_line12: 'awesome
+
+  session
+
+  husband
+
+  silver
+
+  into
+
+  across
+
+  upper
+
+  lawn
+
+  absorb
+
+  turtle
+
+  cigar
+
+  ask'
+bip_39_word_new_line2: 'awesome
+
+  session'
+bip_39_word_new_line3: 'awesome
+
+  session
+
+  husband'
+bip_39_word_new_line4: 'awesome
+
+  session
+
+  husband
+
+  silver'
+bip_39_word_new_line5: 'awesome
+
+  session
+
+  husband
+
+  silver
+
+  into'
+bip_39_word_new_line6: 'awesome
+
+  session
+
+  husband
+
+  silver
+
+  into
+
+  across'
+bip_39_word_new_line7: 'awesome
+
+  session
+
+  husband
+
+  silver
+
+  into
+
+  across
+
+  upper'
+bip_39_word_new_line8: 'awesome
+
+  session
+
+  husband
+
+  silver
+
+  into
+
+  across
+
+  upper
+
+  lawn'
+bip_39_word_new_line9: 'awesome
+
+  session
+
+  husband
+
+  silver
+
+  into
+
+  across
+
+  upper
+
+  lawn
+
+  absorb'
+bip_39_word_space_0:
+- awesome
+- session
+- husband
+- silver
+- into
+- across
+- upper
+- lawn
+- absorb
+- turtle
+- cigar
+- ask
+bip_39_word_space_1: awesome
+bip_39_word_space_10: awesome session husband silver into across upper lawn absorb
+  turtle
+bip_39_word_space_11: awesome session husband silver into across upper lawn absorb
+  turtle cigar
+bip_39_word_space_12: awesome session husband silver into across upper lawn absorb
+  turtle cigar ask
+bip_39_word_space_2: awesome session
+bip_39_word_space_3: awesome session husband
+bip_39_word_space_4: awesome session husband silver
+bip_39_word_space_5: awesome session husband silver into
+bip_39_word_space_6: awesome session husband silver into across
+bip_39_word_space_7: awesome session husband silver into across upper
+bip_39_word_space_8: awesome session husband silver into across upper lawn
+bip_39_word_space_9: awesome session husband silver into across upper lawn absorb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

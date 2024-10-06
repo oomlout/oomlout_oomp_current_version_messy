@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vital harvest
+  * bip 39 word 3: vital harvest sort
+  * bip 39 word: vital harvest sort increase toddler edge judge dust slim fox caught accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vital |  
+| bip_39_word_new_br10 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox |  
+| bip_39_word_new_br11 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox<br>caught |  
+| bip_39_word_new_br12 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim<br>fox<br>caught<br>accuse |  
+| bip_39_word_new_br2 | vital<br>harvest |  
+| bip_39_word_new_br3 | vital<br>harvest<br>sort |  
+| bip_39_word_new_br4 | vital<br>harvest<br>sort<br>increase |  
+| bip_39_word_new_br5 | vital<br>harvest<br>sort<br>increase<br>toddler |  
+| bip_39_word_new_br6 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge |  
+| bip_39_word_new_br7 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge |  
+| bip_39_word_new_br8 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust |  
+| bip_39_word_new_br9 | vital<br>harvest<br>sort<br>increase<br>toddler<br>edge<br>judge<br>dust<br>slim |  
+| bip_39_word_new_line1 | vital |  
+| bip_39_word_new_line10 | vital
+harvest
+sort
+increase
+toddler
+edge
+judge
+dust
+slim
+fox |  
+| bip_39_word_new_line11 | vital
+harvest
+sort
+increase
+toddler
+edge
+judge
+dust
+slim
+fox
+caught |  
+| bip_39_word_new_line12 | vital
+harvest
+sort
+increase
+toddler
+edge
+judge
+dust
+slim
+fox
+caught
+accuse |  
+| bip_39_word_new_line2 | vital
+harvest |  
+| bip_39_word_new_line3 | vital
+harvest
+sort |  
+| bip_39_word_new_line4 | vital
+harvest
+sort
+increase |  
+| bip_39_word_new_line5 | vital
+harvest
+sort
+increase
+toddler |  
+| bip_39_word_new_line6 | vital
+harvest
+sort
+increase
+toddler
+edge |  
+| bip_39_word_new_line7 | vital
+harvest
+sort
+increase
+toddler
+edge
+judge |  
+| bip_39_word_new_line8 | vital
+harvest
+sort
+increase
+toddler
+edge
+judge
+dust |  
+| bip_39_word_new_line9 | vital
+harvest
+sort
+increase
+toddler
+edge
+judge
+dust
+slim |  
+| bip_39_word_space_0 | ['vital', 'harvest', 'sort', 'increase', 'toddler', 'edge', 'judge', 'dust', 'slim', 'fox', 'caught', 'accuse'] |  
+| bip_39_word_space_1 | vital |  
+| bip_39_word_space_10 | vital harvest sort increase toddler edge judge dust slim fox |  
+| bip_39_word_space_11 | vital harvest sort increase toddler edge judge dust slim fox caught |  
+| bip_39_word_space_12 | vital harvest sort increase toddler edge judge dust slim fox caught accuse |  
+| bip_39_word_space_2 | vital harvest |  
+| bip_39_word_space_3 | vital harvest sort |  
+| bip_39_word_space_4 | vital harvest sort increase |  
+| bip_39_word_space_5 | vital harvest sort increase toddler |  
+| bip_39_word_space_6 | vital harvest sort increase toddler edge |  
+| bip_39_word_space_7 | vital harvest sort increase toddler edge judge |  
+| bip_39_word_space_8 | vital harvest sort increase toddler edge judge dust |  
+| bip_39_word_space_9 | vital harvest sort increase toddler edge judge dust slim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

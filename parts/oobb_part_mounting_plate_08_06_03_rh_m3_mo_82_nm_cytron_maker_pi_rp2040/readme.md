@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stay ring
+  * bip 39 word 3: stay ring lumber
+  * bip 39 word: stay ring lumber swing turkey menu tail rail amateur ball dentist achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stay |  
+| bip_39_word_new_br10 | stay<br>ring<br>lumber<br>swing<br>turkey<br>menu<br>tail<br>rail<br>amateur<br>ball |  
+| bip_39_word_new_br11 | stay<br>ring<br>lumber<br>swing<br>turkey<br>menu<br>tail<br>rail<br>amateur<br>ball<br>dentist |  
+| bip_39_word_new_br12 | stay<br>ring<br>lumber<br>swing<br>turkey<br>menu<br>tail<br>rail<br>amateur<br>ball<br>dentist<br>achieve |  
+| bip_39_word_new_br2 | stay<br>ring |  
+| bip_39_word_new_br3 | stay<br>ring<br>lumber |  
+| bip_39_word_new_br4 | stay<br>ring<br>lumber<br>swing |  
+| bip_39_word_new_br5 | stay<br>ring<br>lumber<br>swing<br>turkey |  
+| bip_39_word_new_br6 | stay<br>ring<br>lumber<br>swing<br>turkey<br>menu |  
+| bip_39_word_new_br7 | stay<br>ring<br>lumber<br>swing<br>turkey<br>menu<br>tail |  
+| bip_39_word_new_br8 | stay<br>ring<br>lumber<br>swing<br>turkey<br>menu<br>tail<br>rail |  
+| bip_39_word_new_br9 | stay<br>ring<br>lumber<br>swing<br>turkey<br>menu<br>tail<br>rail<br>amateur |  
+| bip_39_word_new_line1 | stay |  
+| bip_39_word_new_line10 | stay
+ring
+lumber
+swing
+turkey
+menu
+tail
+rail
+amateur
+ball |  
+| bip_39_word_new_line11 | stay
+ring
+lumber
+swing
+turkey
+menu
+tail
+rail
+amateur
+ball
+dentist |  
+| bip_39_word_new_line12 | stay
+ring
+lumber
+swing
+turkey
+menu
+tail
+rail
+amateur
+ball
+dentist
+achieve |  
+| bip_39_word_new_line2 | stay
+ring |  
+| bip_39_word_new_line3 | stay
+ring
+lumber |  
+| bip_39_word_new_line4 | stay
+ring
+lumber
+swing |  
+| bip_39_word_new_line5 | stay
+ring
+lumber
+swing
+turkey |  
+| bip_39_word_new_line6 | stay
+ring
+lumber
+swing
+turkey
+menu |  
+| bip_39_word_new_line7 | stay
+ring
+lumber
+swing
+turkey
+menu
+tail |  
+| bip_39_word_new_line8 | stay
+ring
+lumber
+swing
+turkey
+menu
+tail
+rail |  
+| bip_39_word_new_line9 | stay
+ring
+lumber
+swing
+turkey
+menu
+tail
+rail
+amateur |  
+| bip_39_word_space_0 | ['stay', 'ring', 'lumber', 'swing', 'turkey', 'menu', 'tail', 'rail', 'amateur', 'ball', 'dentist', 'achieve'] |  
+| bip_39_word_space_1 | stay |  
+| bip_39_word_space_10 | stay ring lumber swing turkey menu tail rail amateur ball |  
+| bip_39_word_space_11 | stay ring lumber swing turkey menu tail rail amateur ball dentist |  
+| bip_39_word_space_12 | stay ring lumber swing turkey menu tail rail amateur ball dentist achieve |  
+| bip_39_word_space_2 | stay ring |  
+| bip_39_word_space_3 | stay ring lumber |  
+| bip_39_word_space_4 | stay ring lumber swing |  
+| bip_39_word_space_5 | stay ring lumber swing turkey |  
+| bip_39_word_space_6 | stay ring lumber swing turkey menu |  
+| bip_39_word_space_7 | stay ring lumber swing turkey menu tail |  
+| bip_39_word_space_8 | stay ring lumber swing turkey menu tail rail |  
+| bip_39_word_space_9 | stay ring lumber swing turkey menu tail rail amateur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

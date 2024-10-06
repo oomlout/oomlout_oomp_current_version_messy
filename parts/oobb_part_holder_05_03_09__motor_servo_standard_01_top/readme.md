@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_servo_standard_01_top
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flag baby
+  * bip 39 word 3: flag baby stem
+  * bip 39 word: flag baby stem face wood perfect connect spawn dinosaur bread benefit arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flag |  
+| bip_39_word_new_br10 | flag<br>baby<br>stem<br>face<br>wood<br>perfect<br>connect<br>spawn<br>dinosaur<br>bread |  
+| bip_39_word_new_br11 | flag<br>baby<br>stem<br>face<br>wood<br>perfect<br>connect<br>spawn<br>dinosaur<br>bread<br>benefit |  
+| bip_39_word_new_br12 | flag<br>baby<br>stem<br>face<br>wood<br>perfect<br>connect<br>spawn<br>dinosaur<br>bread<br>benefit<br>arch |  
+| bip_39_word_new_br2 | flag<br>baby |  
+| bip_39_word_new_br3 | flag<br>baby<br>stem |  
+| bip_39_word_new_br4 | flag<br>baby<br>stem<br>face |  
+| bip_39_word_new_br5 | flag<br>baby<br>stem<br>face<br>wood |  
+| bip_39_word_new_br6 | flag<br>baby<br>stem<br>face<br>wood<br>perfect |  
+| bip_39_word_new_br7 | flag<br>baby<br>stem<br>face<br>wood<br>perfect<br>connect |  
+| bip_39_word_new_br8 | flag<br>baby<br>stem<br>face<br>wood<br>perfect<br>connect<br>spawn |  
+| bip_39_word_new_br9 | flag<br>baby<br>stem<br>face<br>wood<br>perfect<br>connect<br>spawn<br>dinosaur |  
+| bip_39_word_new_line1 | flag |  
+| bip_39_word_new_line10 | flag
+baby
+stem
+face
+wood
+perfect
+connect
+spawn
+dinosaur
+bread |  
+| bip_39_word_new_line11 | flag
+baby
+stem
+face
+wood
+perfect
+connect
+spawn
+dinosaur
+bread
+benefit |  
+| bip_39_word_new_line12 | flag
+baby
+stem
+face
+wood
+perfect
+connect
+spawn
+dinosaur
+bread
+benefit
+arch |  
+| bip_39_word_new_line2 | flag
+baby |  
+| bip_39_word_new_line3 | flag
+baby
+stem |  
+| bip_39_word_new_line4 | flag
+baby
+stem
+face |  
+| bip_39_word_new_line5 | flag
+baby
+stem
+face
+wood |  
+| bip_39_word_new_line6 | flag
+baby
+stem
+face
+wood
+perfect |  
+| bip_39_word_new_line7 | flag
+baby
+stem
+face
+wood
+perfect
+connect |  
+| bip_39_word_new_line8 | flag
+baby
+stem
+face
+wood
+perfect
+connect
+spawn |  
+| bip_39_word_new_line9 | flag
+baby
+stem
+face
+wood
+perfect
+connect
+spawn
+dinosaur |  
+| bip_39_word_space_0 | ['flag', 'baby', 'stem', 'face', 'wood', 'perfect', 'connect', 'spawn', 'dinosaur', 'bread', 'benefit', 'arch'] |  
+| bip_39_word_space_1 | flag |  
+| bip_39_word_space_10 | flag baby stem face wood perfect connect spawn dinosaur bread |  
+| bip_39_word_space_11 | flag baby stem face wood perfect connect spawn dinosaur bread benefit |  
+| bip_39_word_space_12 | flag baby stem face wood perfect connect spawn dinosaur bread benefit arch |  
+| bip_39_word_space_2 | flag baby |  
+| bip_39_word_space_3 | flag baby stem |  
+| bip_39_word_space_4 | flag baby stem face |  
+| bip_39_word_space_5 | flag baby stem face wood |  
+| bip_39_word_space_6 | flag baby stem face wood perfect |  
+| bip_39_word_space_7 | flag baby stem face wood perfect connect |  
+| bip_39_word_space_8 | flag baby stem face wood perfect connect spawn |  
+| bip_39_word_space_9 | flag baby stem face wood perfect connect spawn dinosaur |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

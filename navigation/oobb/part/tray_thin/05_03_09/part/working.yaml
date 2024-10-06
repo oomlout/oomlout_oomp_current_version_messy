@@ -1,3 +1,186 @@
+bip_39_word_new_br1: urban
+bip_39_word_new_br10: urban<br>pig<br>again<br>switch<br>empty<br>result<br>dance<br>drift<br>subway<br>know
+bip_39_word_new_br11: urban<br>pig<br>again<br>switch<br>empty<br>result<br>dance<br>drift<br>subway<br>know<br>refuse
+bip_39_word_new_br12: urban<br>pig<br>again<br>switch<br>empty<br>result<br>dance<br>drift<br>subway<br>know<br>refuse<br>address
+bip_39_word_new_br2: urban<br>pig
+bip_39_word_new_br3: urban<br>pig<br>again
+bip_39_word_new_br4: urban<br>pig<br>again<br>switch
+bip_39_word_new_br5: urban<br>pig<br>again<br>switch<br>empty
+bip_39_word_new_br6: urban<br>pig<br>again<br>switch<br>empty<br>result
+bip_39_word_new_br7: urban<br>pig<br>again<br>switch<br>empty<br>result<br>dance
+bip_39_word_new_br8: urban<br>pig<br>again<br>switch<br>empty<br>result<br>dance<br>drift
+bip_39_word_new_br9: urban<br>pig<br>again<br>switch<br>empty<br>result<br>dance<br>drift<br>subway
+bip_39_word_new_line1: urban
+bip_39_word_new_line10: 'urban
+
+  pig
+
+  again
+
+  switch
+
+  empty
+
+  result
+
+  dance
+
+  drift
+
+  subway
+
+  know'
+bip_39_word_new_line11: 'urban
+
+  pig
+
+  again
+
+  switch
+
+  empty
+
+  result
+
+  dance
+
+  drift
+
+  subway
+
+  know
+
+  refuse'
+bip_39_word_new_line12: 'urban
+
+  pig
+
+  again
+
+  switch
+
+  empty
+
+  result
+
+  dance
+
+  drift
+
+  subway
+
+  know
+
+  refuse
+
+  address'
+bip_39_word_new_line2: 'urban
+
+  pig'
+bip_39_word_new_line3: 'urban
+
+  pig
+
+  again'
+bip_39_word_new_line4: 'urban
+
+  pig
+
+  again
+
+  switch'
+bip_39_word_new_line5: 'urban
+
+  pig
+
+  again
+
+  switch
+
+  empty'
+bip_39_word_new_line6: 'urban
+
+  pig
+
+  again
+
+  switch
+
+  empty
+
+  result'
+bip_39_word_new_line7: 'urban
+
+  pig
+
+  again
+
+  switch
+
+  empty
+
+  result
+
+  dance'
+bip_39_word_new_line8: 'urban
+
+  pig
+
+  again
+
+  switch
+
+  empty
+
+  result
+
+  dance
+
+  drift'
+bip_39_word_new_line9: 'urban
+
+  pig
+
+  again
+
+  switch
+
+  empty
+
+  result
+
+  dance
+
+  drift
+
+  subway'
+bip_39_word_space_0:
+- urban
+- pig
+- again
+- switch
+- empty
+- result
+- dance
+- drift
+- subway
+- know
+- refuse
+- address
+bip_39_word_space_1: urban
+bip_39_word_space_10: urban pig again switch empty result dance drift subway know
+bip_39_word_space_11: urban pig again switch empty result dance drift subway know
+  refuse
+bip_39_word_space_12: urban pig again switch empty result dance drift subway know
+  refuse address
+bip_39_word_space_2: urban pig
+bip_39_word_space_3: urban pig again
+bip_39_word_space_4: urban pig again switch
+bip_39_word_space_5: urban pig again switch empty
+bip_39_word_space_6: urban pig again switch empty result
+bip_39_word_space_7: urban pig again switch empty result dance
+bip_39_word_space_8: urban pig again switch empty result dance drift
+bip_39_word_space_9: urban pig again switch empty result dance drift subway
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

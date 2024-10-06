@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: novel orchard
+  * bip 39 word 3: novel orchard echo
+  * bip 39 word: novel orchard echo rhythm galaxy cool party brief improve wage stomach abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | novel |  
+| bip_39_word_new_br10 | novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool<br>party<br>brief<br>improve<br>wage |  
+| bip_39_word_new_br11 | novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool<br>party<br>brief<br>improve<br>wage<br>stomach |  
+| bip_39_word_new_br12 | novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool<br>party<br>brief<br>improve<br>wage<br>stomach<br>abstract |  
+| bip_39_word_new_br2 | novel<br>orchard |  
+| bip_39_word_new_br3 | novel<br>orchard<br>echo |  
+| bip_39_word_new_br4 | novel<br>orchard<br>echo<br>rhythm |  
+| bip_39_word_new_br5 | novel<br>orchard<br>echo<br>rhythm<br>galaxy |  
+| bip_39_word_new_br6 | novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool |  
+| bip_39_word_new_br7 | novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool<br>party |  
+| bip_39_word_new_br8 | novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool<br>party<br>brief |  
+| bip_39_word_new_br9 | novel<br>orchard<br>echo<br>rhythm<br>galaxy<br>cool<br>party<br>brief<br>improve |  
+| bip_39_word_new_line1 | novel |  
+| bip_39_word_new_line10 | novel
+orchard
+echo
+rhythm
+galaxy
+cool
+party
+brief
+improve
+wage |  
+| bip_39_word_new_line11 | novel
+orchard
+echo
+rhythm
+galaxy
+cool
+party
+brief
+improve
+wage
+stomach |  
+| bip_39_word_new_line12 | novel
+orchard
+echo
+rhythm
+galaxy
+cool
+party
+brief
+improve
+wage
+stomach
+abstract |  
+| bip_39_word_new_line2 | novel
+orchard |  
+| bip_39_word_new_line3 | novel
+orchard
+echo |  
+| bip_39_word_new_line4 | novel
+orchard
+echo
+rhythm |  
+| bip_39_word_new_line5 | novel
+orchard
+echo
+rhythm
+galaxy |  
+| bip_39_word_new_line6 | novel
+orchard
+echo
+rhythm
+galaxy
+cool |  
+| bip_39_word_new_line7 | novel
+orchard
+echo
+rhythm
+galaxy
+cool
+party |  
+| bip_39_word_new_line8 | novel
+orchard
+echo
+rhythm
+galaxy
+cool
+party
+brief |  
+| bip_39_word_new_line9 | novel
+orchard
+echo
+rhythm
+galaxy
+cool
+party
+brief
+improve |  
+| bip_39_word_space_0 | ['novel', 'orchard', 'echo', 'rhythm', 'galaxy', 'cool', 'party', 'brief', 'improve', 'wage', 'stomach', 'abstract'] |  
+| bip_39_word_space_1 | novel |  
+| bip_39_word_space_10 | novel orchard echo rhythm galaxy cool party brief improve wage |  
+| bip_39_word_space_11 | novel orchard echo rhythm galaxy cool party brief improve wage stomach |  
+| bip_39_word_space_12 | novel orchard echo rhythm galaxy cool party brief improve wage stomach abstract |  
+| bip_39_word_space_2 | novel orchard |  
+| bip_39_word_space_3 | novel orchard echo |  
+| bip_39_word_space_4 | novel orchard echo rhythm |  
+| bip_39_word_space_5 | novel orchard echo rhythm galaxy |  
+| bip_39_word_space_6 | novel orchard echo rhythm galaxy cool |  
+| bip_39_word_space_7 | novel orchard echo rhythm galaxy cool party |  
+| bip_39_word_space_8 | novel orchard echo rhythm galaxy cool party brief |  
+| bip_39_word_space_9 | novel orchard echo rhythm galaxy cool party brief improve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: purchase olympic
+  * bip 39 word 3: purchase olympic tent
+  * bip 39 word: purchase olympic tent fitness dice that physical fat morning trap bar artefact
 
 ### other_codes
 * short_code: sp3x7nw12
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | purchase |  
+| bip_39_word_new_br10 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that<br>physical<br>fat<br>morning<br>trap |  
+| bip_39_word_new_br11 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that<br>physical<br>fat<br>morning<br>trap<br>bar |  
+| bip_39_word_new_br12 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that<br>physical<br>fat<br>morning<br>trap<br>bar<br>artefact |  
+| bip_39_word_new_br2 | purchase<br>olympic |  
+| bip_39_word_new_br3 | purchase<br>olympic<br>tent |  
+| bip_39_word_new_br4 | purchase<br>olympic<br>tent<br>fitness |  
+| bip_39_word_new_br5 | purchase<br>olympic<br>tent<br>fitness<br>dice |  
+| bip_39_word_new_br6 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that |  
+| bip_39_word_new_br7 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that<br>physical |  
+| bip_39_word_new_br8 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that<br>physical<br>fat |  
+| bip_39_word_new_br9 | purchase<br>olympic<br>tent<br>fitness<br>dice<br>that<br>physical<br>fat<br>morning |  
+| bip_39_word_new_line1 | purchase |  
+| bip_39_word_new_line10 | purchase
+olympic
+tent
+fitness
+dice
+that
+physical
+fat
+morning
+trap |  
+| bip_39_word_new_line11 | purchase
+olympic
+tent
+fitness
+dice
+that
+physical
+fat
+morning
+trap
+bar |  
+| bip_39_word_new_line12 | purchase
+olympic
+tent
+fitness
+dice
+that
+physical
+fat
+morning
+trap
+bar
+artefact |  
+| bip_39_word_new_line2 | purchase
+olympic |  
+| bip_39_word_new_line3 | purchase
+olympic
+tent |  
+| bip_39_word_new_line4 | purchase
+olympic
+tent
+fitness |  
+| bip_39_word_new_line5 | purchase
+olympic
+tent
+fitness
+dice |  
+| bip_39_word_new_line6 | purchase
+olympic
+tent
+fitness
+dice
+that |  
+| bip_39_word_new_line7 | purchase
+olympic
+tent
+fitness
+dice
+that
+physical |  
+| bip_39_word_new_line8 | purchase
+olympic
+tent
+fitness
+dice
+that
+physical
+fat |  
+| bip_39_word_new_line9 | purchase
+olympic
+tent
+fitness
+dice
+that
+physical
+fat
+morning |  
+| bip_39_word_space_0 | ['purchase', 'olympic', 'tent', 'fitness', 'dice', 'that', 'physical', 'fat', 'morning', 'trap', 'bar', 'artefact'] |  
+| bip_39_word_space_1 | purchase |  
+| bip_39_word_space_10 | purchase olympic tent fitness dice that physical fat morning trap |  
+| bip_39_word_space_11 | purchase olympic tent fitness dice that physical fat morning trap bar |  
+| bip_39_word_space_12 | purchase olympic tent fitness dice that physical fat morning trap bar artefact |  
+| bip_39_word_space_2 | purchase olympic |  
+| bip_39_word_space_3 | purchase olympic tent |  
+| bip_39_word_space_4 | purchase olympic tent fitness |  
+| bip_39_word_space_5 | purchase olympic tent fitness dice |  
+| bip_39_word_space_6 | purchase olympic tent fitness dice that |  
+| bip_39_word_space_7 | purchase olympic tent fitness dice that physical |  
+| bip_39_word_space_8 | purchase olympic tent fitness dice that physical fat |  
+| bip_39_word_space_9 | purchase olympic tent fitness dice that physical fat morning |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kiwi rose
+  * bip 39 word 3: kiwi rose vehicle
+  * bip 39 word: kiwi rose vehicle trap shoulder sudden jungle valid monitor patrol theme answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kiwi |  
+| bip_39_word_new_br10 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden<br>jungle<br>valid<br>monitor<br>patrol |  
+| bip_39_word_new_br11 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden<br>jungle<br>valid<br>monitor<br>patrol<br>theme |  
+| bip_39_word_new_br12 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden<br>jungle<br>valid<br>monitor<br>patrol<br>theme<br>answer |  
+| bip_39_word_new_br2 | kiwi<br>rose |  
+| bip_39_word_new_br3 | kiwi<br>rose<br>vehicle |  
+| bip_39_word_new_br4 | kiwi<br>rose<br>vehicle<br>trap |  
+| bip_39_word_new_br5 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder |  
+| bip_39_word_new_br6 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden |  
+| bip_39_word_new_br7 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden<br>jungle |  
+| bip_39_word_new_br8 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden<br>jungle<br>valid |  
+| bip_39_word_new_br9 | kiwi<br>rose<br>vehicle<br>trap<br>shoulder<br>sudden<br>jungle<br>valid<br>monitor |  
+| bip_39_word_new_line1 | kiwi |  
+| bip_39_word_new_line10 | kiwi
+rose
+vehicle
+trap
+shoulder
+sudden
+jungle
+valid
+monitor
+patrol |  
+| bip_39_word_new_line11 | kiwi
+rose
+vehicle
+trap
+shoulder
+sudden
+jungle
+valid
+monitor
+patrol
+theme |  
+| bip_39_word_new_line12 | kiwi
+rose
+vehicle
+trap
+shoulder
+sudden
+jungle
+valid
+monitor
+patrol
+theme
+answer |  
+| bip_39_word_new_line2 | kiwi
+rose |  
+| bip_39_word_new_line3 | kiwi
+rose
+vehicle |  
+| bip_39_word_new_line4 | kiwi
+rose
+vehicle
+trap |  
+| bip_39_word_new_line5 | kiwi
+rose
+vehicle
+trap
+shoulder |  
+| bip_39_word_new_line6 | kiwi
+rose
+vehicle
+trap
+shoulder
+sudden |  
+| bip_39_word_new_line7 | kiwi
+rose
+vehicle
+trap
+shoulder
+sudden
+jungle |  
+| bip_39_word_new_line8 | kiwi
+rose
+vehicle
+trap
+shoulder
+sudden
+jungle
+valid |  
+| bip_39_word_new_line9 | kiwi
+rose
+vehicle
+trap
+shoulder
+sudden
+jungle
+valid
+monitor |  
+| bip_39_word_space_0 | ['kiwi', 'rose', 'vehicle', 'trap', 'shoulder', 'sudden', 'jungle', 'valid', 'monitor', 'patrol', 'theme', 'answer'] |  
+| bip_39_word_space_1 | kiwi |  
+| bip_39_word_space_10 | kiwi rose vehicle trap shoulder sudden jungle valid monitor patrol |  
+| bip_39_word_space_11 | kiwi rose vehicle trap shoulder sudden jungle valid monitor patrol theme |  
+| bip_39_word_space_12 | kiwi rose vehicle trap shoulder sudden jungle valid monitor patrol theme answer |  
+| bip_39_word_space_2 | kiwi rose |  
+| bip_39_word_space_3 | kiwi rose vehicle |  
+| bip_39_word_space_4 | kiwi rose vehicle trap |  
+| bip_39_word_space_5 | kiwi rose vehicle trap shoulder |  
+| bip_39_word_space_6 | kiwi rose vehicle trap shoulder sudden |  
+| bip_39_word_space_7 | kiwi rose vehicle trap shoulder sudden jungle |  
+| bip_39_word_space_8 | kiwi rose vehicle trap shoulder sudden jungle valid |  
+| bip_39_word_space_9 | kiwi rose vehicle trap shoulder sudden jungle valid monitor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

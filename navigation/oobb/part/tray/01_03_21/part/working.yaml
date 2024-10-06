@@ -1,3 +1,186 @@
+bip_39_word_new_br1: valid
+bip_39_word_new_br10: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail<br>opinion
+bip_39_word_new_br11: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail<br>opinion<br>venue
+bip_39_word_new_br12: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail<br>opinion<br>venue<br>atom
+bip_39_word_new_br2: valid<br>shove
+bip_39_word_new_br3: valid<br>shove<br>laundry
+bip_39_word_new_br4: valid<br>shove<br>laundry<br>provide
+bip_39_word_new_br5: valid<br>shove<br>laundry<br>provide<br>stick
+bip_39_word_new_br6: valid<br>shove<br>laundry<br>provide<br>stick<br>essay
+bip_39_word_new_br7: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap
+bip_39_word_new_br8: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma
+bip_39_word_new_br9: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail
+bip_39_word_new_line1: valid
+bip_39_word_new_line10: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma
+
+  mail
+
+  opinion'
+bip_39_word_new_line11: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma
+
+  mail
+
+  opinion
+
+  venue'
+bip_39_word_new_line12: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma
+
+  mail
+
+  opinion
+
+  venue
+
+  atom'
+bip_39_word_new_line2: 'valid
+
+  shove'
+bip_39_word_new_line3: 'valid
+
+  shove
+
+  laundry'
+bip_39_word_new_line4: 'valid
+
+  shove
+
+  laundry
+
+  provide'
+bip_39_word_new_line5: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick'
+bip_39_word_new_line6: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay'
+bip_39_word_new_line7: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap'
+bip_39_word_new_line8: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma'
+bip_39_word_new_line9: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma
+
+  mail'
+bip_39_word_space_0:
+- valid
+- shove
+- laundry
+- provide
+- stick
+- essay
+- cheap
+- dilemma
+- mail
+- opinion
+- venue
+- atom
+bip_39_word_space_1: valid
+bip_39_word_space_10: valid shove laundry provide stick essay cheap dilemma mail opinion
+bip_39_word_space_11: valid shove laundry provide stick essay cheap dilemma mail opinion
+  venue
+bip_39_word_space_12: valid shove laundry provide stick essay cheap dilemma mail opinion
+  venue atom
+bip_39_word_space_2: valid shove
+bip_39_word_space_3: valid shove laundry
+bip_39_word_space_4: valid shove laundry provide
+bip_39_word_space_5: valid shove laundry provide stick
+bip_39_word_space_6: valid shove laundry provide stick essay
+bip_39_word_space_7: valid shove laundry provide stick essay cheap
+bip_39_word_space_8: valid shove laundry provide stick essay cheap dilemma
+bip_39_word_space_9: valid shove laundry provide stick essay cheap dilemma mail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

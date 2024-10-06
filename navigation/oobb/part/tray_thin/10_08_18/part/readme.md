@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: success fun
+  * bip 39 word 3: success fun imitate
+  * bip 39 word: success fun imitate chat finish black album march pave inmate term april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | success |  
+| bip_39_word_new_br10 | success<br>fun<br>imitate<br>chat<br>finish<br>black<br>album<br>march<br>pave<br>inmate |  
+| bip_39_word_new_br11 | success<br>fun<br>imitate<br>chat<br>finish<br>black<br>album<br>march<br>pave<br>inmate<br>term |  
+| bip_39_word_new_br12 | success<br>fun<br>imitate<br>chat<br>finish<br>black<br>album<br>march<br>pave<br>inmate<br>term<br>april |  
+| bip_39_word_new_br2 | success<br>fun |  
+| bip_39_word_new_br3 | success<br>fun<br>imitate |  
+| bip_39_word_new_br4 | success<br>fun<br>imitate<br>chat |  
+| bip_39_word_new_br5 | success<br>fun<br>imitate<br>chat<br>finish |  
+| bip_39_word_new_br6 | success<br>fun<br>imitate<br>chat<br>finish<br>black |  
+| bip_39_word_new_br7 | success<br>fun<br>imitate<br>chat<br>finish<br>black<br>album |  
+| bip_39_word_new_br8 | success<br>fun<br>imitate<br>chat<br>finish<br>black<br>album<br>march |  
+| bip_39_word_new_br9 | success<br>fun<br>imitate<br>chat<br>finish<br>black<br>album<br>march<br>pave |  
+| bip_39_word_new_line1 | success |  
+| bip_39_word_new_line10 | success
+fun
+imitate
+chat
+finish
+black
+album
+march
+pave
+inmate |  
+| bip_39_word_new_line11 | success
+fun
+imitate
+chat
+finish
+black
+album
+march
+pave
+inmate
+term |  
+| bip_39_word_new_line12 | success
+fun
+imitate
+chat
+finish
+black
+album
+march
+pave
+inmate
+term
+april |  
+| bip_39_word_new_line2 | success
+fun |  
+| bip_39_word_new_line3 | success
+fun
+imitate |  
+| bip_39_word_new_line4 | success
+fun
+imitate
+chat |  
+| bip_39_word_new_line5 | success
+fun
+imitate
+chat
+finish |  
+| bip_39_word_new_line6 | success
+fun
+imitate
+chat
+finish
+black |  
+| bip_39_word_new_line7 | success
+fun
+imitate
+chat
+finish
+black
+album |  
+| bip_39_word_new_line8 | success
+fun
+imitate
+chat
+finish
+black
+album
+march |  
+| bip_39_word_new_line9 | success
+fun
+imitate
+chat
+finish
+black
+album
+march
+pave |  
+| bip_39_word_space_0 | ['success', 'fun', 'imitate', 'chat', 'finish', 'black', 'album', 'march', 'pave', 'inmate', 'term', 'april'] |  
+| bip_39_word_space_1 | success |  
+| bip_39_word_space_10 | success fun imitate chat finish black album march pave inmate |  
+| bip_39_word_space_11 | success fun imitate chat finish black album march pave inmate term |  
+| bip_39_word_space_12 | success fun imitate chat finish black album march pave inmate term april |  
+| bip_39_word_space_2 | success fun |  
+| bip_39_word_space_3 | success fun imitate |  
+| bip_39_word_space_4 | success fun imitate chat |  
+| bip_39_word_space_5 | success fun imitate chat finish |  
+| bip_39_word_space_6 | success fun imitate chat finish black |  
+| bip_39_word_space_7 | success fun imitate chat finish black album |  
+| bip_39_word_space_8 | success fun imitate chat finish black album march |  
+| bip_39_word_space_9 | success fun imitate chat finish black album march pave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: picnic
+bip_39_word_new_br10: picnic<br>april<br>climb<br>payment<br>involve<br>dragon<br>scale<br>choose<br>arch<br>sketch
+bip_39_word_new_br11: picnic<br>april<br>climb<br>payment<br>involve<br>dragon<br>scale<br>choose<br>arch<br>sketch<br>cradle
+bip_39_word_new_br12: picnic<br>april<br>climb<br>payment<br>involve<br>dragon<br>scale<br>choose<br>arch<br>sketch<br>cradle<br>armor
+bip_39_word_new_br2: picnic<br>april
+bip_39_word_new_br3: picnic<br>april<br>climb
+bip_39_word_new_br4: picnic<br>april<br>climb<br>payment
+bip_39_word_new_br5: picnic<br>april<br>climb<br>payment<br>involve
+bip_39_word_new_br6: picnic<br>april<br>climb<br>payment<br>involve<br>dragon
+bip_39_word_new_br7: picnic<br>april<br>climb<br>payment<br>involve<br>dragon<br>scale
+bip_39_word_new_br8: picnic<br>april<br>climb<br>payment<br>involve<br>dragon<br>scale<br>choose
+bip_39_word_new_br9: picnic<br>april<br>climb<br>payment<br>involve<br>dragon<br>scale<br>choose<br>arch
+bip_39_word_new_line1: picnic
+bip_39_word_new_line10: 'picnic
+
+  april
+
+  climb
+
+  payment
+
+  involve
+
+  dragon
+
+  scale
+
+  choose
+
+  arch
+
+  sketch'
+bip_39_word_new_line11: 'picnic
+
+  april
+
+  climb
+
+  payment
+
+  involve
+
+  dragon
+
+  scale
+
+  choose
+
+  arch
+
+  sketch
+
+  cradle'
+bip_39_word_new_line12: 'picnic
+
+  april
+
+  climb
+
+  payment
+
+  involve
+
+  dragon
+
+  scale
+
+  choose
+
+  arch
+
+  sketch
+
+  cradle
+
+  armor'
+bip_39_word_new_line2: 'picnic
+
+  april'
+bip_39_word_new_line3: 'picnic
+
+  april
+
+  climb'
+bip_39_word_new_line4: 'picnic
+
+  april
+
+  climb
+
+  payment'
+bip_39_word_new_line5: 'picnic
+
+  april
+
+  climb
+
+  payment
+
+  involve'
+bip_39_word_new_line6: 'picnic
+
+  april
+
+  climb
+
+  payment
+
+  involve
+
+  dragon'
+bip_39_word_new_line7: 'picnic
+
+  april
+
+  climb
+
+  payment
+
+  involve
+
+  dragon
+
+  scale'
+bip_39_word_new_line8: 'picnic
+
+  april
+
+  climb
+
+  payment
+
+  involve
+
+  dragon
+
+  scale
+
+  choose'
+bip_39_word_new_line9: 'picnic
+
+  april
+
+  climb
+
+  payment
+
+  involve
+
+  dragon
+
+  scale
+
+  choose
+
+  arch'
+bip_39_word_space_0:
+- picnic
+- april
+- climb
+- payment
+- involve
+- dragon
+- scale
+- choose
+- arch
+- sketch
+- cradle
+- armor
+bip_39_word_space_1: picnic
+bip_39_word_space_10: picnic april climb payment involve dragon scale choose arch
+  sketch
+bip_39_word_space_11: picnic april climb payment involve dragon scale choose arch
+  sketch cradle
+bip_39_word_space_12: picnic april climb payment involve dragon scale choose arch
+  sketch cradle armor
+bip_39_word_space_2: picnic april
+bip_39_word_space_3: picnic april climb
+bip_39_word_space_4: picnic april climb payment
+bip_39_word_space_5: picnic april climb payment involve
+bip_39_word_space_6: picnic april climb payment involve dragon
+bip_39_word_space_7: picnic april climb payment involve dragon scale
+bip_39_word_space_8: picnic april climb payment involve dragon scale choose
+bip_39_word_space_9: picnic april climb payment involve dragon scale choose arch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pistol crop
+  * bip 39 word 3: pistol crop episode
+  * bip 39 word: pistol crop episode offer thrive piano library drink corn file cruel apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pistol |  
+| bip_39_word_new_br10 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano<br>library<br>drink<br>corn<br>file |  
+| bip_39_word_new_br11 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano<br>library<br>drink<br>corn<br>file<br>cruel |  
+| bip_39_word_new_br12 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano<br>library<br>drink<br>corn<br>file<br>cruel<br>apple |  
+| bip_39_word_new_br2 | pistol<br>crop |  
+| bip_39_word_new_br3 | pistol<br>crop<br>episode |  
+| bip_39_word_new_br4 | pistol<br>crop<br>episode<br>offer |  
+| bip_39_word_new_br5 | pistol<br>crop<br>episode<br>offer<br>thrive |  
+| bip_39_word_new_br6 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano |  
+| bip_39_word_new_br7 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano<br>library |  
+| bip_39_word_new_br8 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano<br>library<br>drink |  
+| bip_39_word_new_br9 | pistol<br>crop<br>episode<br>offer<br>thrive<br>piano<br>library<br>drink<br>corn |  
+| bip_39_word_new_line1 | pistol |  
+| bip_39_word_new_line10 | pistol
+crop
+episode
+offer
+thrive
+piano
+library
+drink
+corn
+file |  
+| bip_39_word_new_line11 | pistol
+crop
+episode
+offer
+thrive
+piano
+library
+drink
+corn
+file
+cruel |  
+| bip_39_word_new_line12 | pistol
+crop
+episode
+offer
+thrive
+piano
+library
+drink
+corn
+file
+cruel
+apple |  
+| bip_39_word_new_line2 | pistol
+crop |  
+| bip_39_word_new_line3 | pistol
+crop
+episode |  
+| bip_39_word_new_line4 | pistol
+crop
+episode
+offer |  
+| bip_39_word_new_line5 | pistol
+crop
+episode
+offer
+thrive |  
+| bip_39_word_new_line6 | pistol
+crop
+episode
+offer
+thrive
+piano |  
+| bip_39_word_new_line7 | pistol
+crop
+episode
+offer
+thrive
+piano
+library |  
+| bip_39_word_new_line8 | pistol
+crop
+episode
+offer
+thrive
+piano
+library
+drink |  
+| bip_39_word_new_line9 | pistol
+crop
+episode
+offer
+thrive
+piano
+library
+drink
+corn |  
+| bip_39_word_space_0 | ['pistol', 'crop', 'episode', 'offer', 'thrive', 'piano', 'library', 'drink', 'corn', 'file', 'cruel', 'apple'] |  
+| bip_39_word_space_1 | pistol |  
+| bip_39_word_space_10 | pistol crop episode offer thrive piano library drink corn file |  
+| bip_39_word_space_11 | pistol crop episode offer thrive piano library drink corn file cruel |  
+| bip_39_word_space_12 | pistol crop episode offer thrive piano library drink corn file cruel apple |  
+| bip_39_word_space_2 | pistol crop |  
+| bip_39_word_space_3 | pistol crop episode |  
+| bip_39_word_space_4 | pistol crop episode offer |  
+| bip_39_word_space_5 | pistol crop episode offer thrive |  
+| bip_39_word_space_6 | pistol crop episode offer thrive piano |  
+| bip_39_word_space_7 | pistol crop episode offer thrive piano library |  
+| bip_39_word_space_8 | pistol crop episode offer thrive piano library drink |  
+| bip_39_word_space_9 | pistol crop episode offer thrive piano library drink corn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: board stage
+  * bip 39 word 3: board stage feed
+  * bip 39 word: board stage feed often silver tell economy siren large already judge allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | board |  
+| bip_39_word_new_br10 | board<br>stage<br>feed<br>often<br>silver<br>tell<br>economy<br>siren<br>large<br>already |  
+| bip_39_word_new_br11 | board<br>stage<br>feed<br>often<br>silver<br>tell<br>economy<br>siren<br>large<br>already<br>judge |  
+| bip_39_word_new_br12 | board<br>stage<br>feed<br>often<br>silver<br>tell<br>economy<br>siren<br>large<br>already<br>judge<br>allow |  
+| bip_39_word_new_br2 | board<br>stage |  
+| bip_39_word_new_br3 | board<br>stage<br>feed |  
+| bip_39_word_new_br4 | board<br>stage<br>feed<br>often |  
+| bip_39_word_new_br5 | board<br>stage<br>feed<br>often<br>silver |  
+| bip_39_word_new_br6 | board<br>stage<br>feed<br>often<br>silver<br>tell |  
+| bip_39_word_new_br7 | board<br>stage<br>feed<br>often<br>silver<br>tell<br>economy |  
+| bip_39_word_new_br8 | board<br>stage<br>feed<br>often<br>silver<br>tell<br>economy<br>siren |  
+| bip_39_word_new_br9 | board<br>stage<br>feed<br>often<br>silver<br>tell<br>economy<br>siren<br>large |  
+| bip_39_word_new_line1 | board |  
+| bip_39_word_new_line10 | board
+stage
+feed
+often
+silver
+tell
+economy
+siren
+large
+already |  
+| bip_39_word_new_line11 | board
+stage
+feed
+often
+silver
+tell
+economy
+siren
+large
+already
+judge |  
+| bip_39_word_new_line12 | board
+stage
+feed
+often
+silver
+tell
+economy
+siren
+large
+already
+judge
+allow |  
+| bip_39_word_new_line2 | board
+stage |  
+| bip_39_word_new_line3 | board
+stage
+feed |  
+| bip_39_word_new_line4 | board
+stage
+feed
+often |  
+| bip_39_word_new_line5 | board
+stage
+feed
+often
+silver |  
+| bip_39_word_new_line6 | board
+stage
+feed
+often
+silver
+tell |  
+| bip_39_word_new_line7 | board
+stage
+feed
+often
+silver
+tell
+economy |  
+| bip_39_word_new_line8 | board
+stage
+feed
+often
+silver
+tell
+economy
+siren |  
+| bip_39_word_new_line9 | board
+stage
+feed
+often
+silver
+tell
+economy
+siren
+large |  
+| bip_39_word_space_0 | ['board', 'stage', 'feed', 'often', 'silver', 'tell', 'economy', 'siren', 'large', 'already', 'judge', 'allow'] |  
+| bip_39_word_space_1 | board |  
+| bip_39_word_space_10 | board stage feed often silver tell economy siren large already |  
+| bip_39_word_space_11 | board stage feed often silver tell economy siren large already judge |  
+| bip_39_word_space_12 | board stage feed often silver tell economy siren large already judge allow |  
+| bip_39_word_space_2 | board stage |  
+| bip_39_word_space_3 | board stage feed |  
+| bip_39_word_space_4 | board stage feed often |  
+| bip_39_word_space_5 | board stage feed often silver |  
+| bip_39_word_space_6 | board stage feed often silver tell |  
+| bip_39_word_space_7 | board stage feed often silver tell economy |  
+| bip_39_word_space_8 | board stage feed often silver tell economy siren |  
+| bip_39_word_space_9 | board stage feed often silver tell economy siren large |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: until title
+  * bip 39 word 3: until title common
+  * bip 39 word: until title common dirt repeat toilet anchor chuckle castle brown enrich around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | until |  
+| bip_39_word_new_br10 | until<br>title<br>common<br>dirt<br>repeat<br>toilet<br>anchor<br>chuckle<br>castle<br>brown |  
+| bip_39_word_new_br11 | until<br>title<br>common<br>dirt<br>repeat<br>toilet<br>anchor<br>chuckle<br>castle<br>brown<br>enrich |  
+| bip_39_word_new_br12 | until<br>title<br>common<br>dirt<br>repeat<br>toilet<br>anchor<br>chuckle<br>castle<br>brown<br>enrich<br>around |  
+| bip_39_word_new_br2 | until<br>title |  
+| bip_39_word_new_br3 | until<br>title<br>common |  
+| bip_39_word_new_br4 | until<br>title<br>common<br>dirt |  
+| bip_39_word_new_br5 | until<br>title<br>common<br>dirt<br>repeat |  
+| bip_39_word_new_br6 | until<br>title<br>common<br>dirt<br>repeat<br>toilet |  
+| bip_39_word_new_br7 | until<br>title<br>common<br>dirt<br>repeat<br>toilet<br>anchor |  
+| bip_39_word_new_br8 | until<br>title<br>common<br>dirt<br>repeat<br>toilet<br>anchor<br>chuckle |  
+| bip_39_word_new_br9 | until<br>title<br>common<br>dirt<br>repeat<br>toilet<br>anchor<br>chuckle<br>castle |  
+| bip_39_word_new_line1 | until |  
+| bip_39_word_new_line10 | until
+title
+common
+dirt
+repeat
+toilet
+anchor
+chuckle
+castle
+brown |  
+| bip_39_word_new_line11 | until
+title
+common
+dirt
+repeat
+toilet
+anchor
+chuckle
+castle
+brown
+enrich |  
+| bip_39_word_new_line12 | until
+title
+common
+dirt
+repeat
+toilet
+anchor
+chuckle
+castle
+brown
+enrich
+around |  
+| bip_39_word_new_line2 | until
+title |  
+| bip_39_word_new_line3 | until
+title
+common |  
+| bip_39_word_new_line4 | until
+title
+common
+dirt |  
+| bip_39_word_new_line5 | until
+title
+common
+dirt
+repeat |  
+| bip_39_word_new_line6 | until
+title
+common
+dirt
+repeat
+toilet |  
+| bip_39_word_new_line7 | until
+title
+common
+dirt
+repeat
+toilet
+anchor |  
+| bip_39_word_new_line8 | until
+title
+common
+dirt
+repeat
+toilet
+anchor
+chuckle |  
+| bip_39_word_new_line9 | until
+title
+common
+dirt
+repeat
+toilet
+anchor
+chuckle
+castle |  
+| bip_39_word_space_0 | ['until', 'title', 'common', 'dirt', 'repeat', 'toilet', 'anchor', 'chuckle', 'castle', 'brown', 'enrich', 'around'] |  
+| bip_39_word_space_1 | until |  
+| bip_39_word_space_10 | until title common dirt repeat toilet anchor chuckle castle brown |  
+| bip_39_word_space_11 | until title common dirt repeat toilet anchor chuckle castle brown enrich |  
+| bip_39_word_space_12 | until title common dirt repeat toilet anchor chuckle castle brown enrich around |  
+| bip_39_word_space_2 | until title |  
+| bip_39_word_space_3 | until title common |  
+| bip_39_word_space_4 | until title common dirt |  
+| bip_39_word_space_5 | until title common dirt repeat |  
+| bip_39_word_space_6 | until title common dirt repeat toilet |  
+| bip_39_word_space_7 | until title common dirt repeat toilet anchor |  
+| bip_39_word_space_8 | until title common dirt repeat toilet anchor chuckle |  
+| bip_39_word_space_9 | until title common dirt repeat toilet anchor chuckle castle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

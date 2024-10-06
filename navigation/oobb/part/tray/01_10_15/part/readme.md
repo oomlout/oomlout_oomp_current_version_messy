@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cram hammer
+  * bip 39 word 3: cram hammer state
+  * bip 39 word: cram hammer state quiz donor news library reunion farm blast forum atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cram |  
+| bip_39_word_new_br10 | cram<br>hammer<br>state<br>quiz<br>donor<br>news<br>library<br>reunion<br>farm<br>blast |  
+| bip_39_word_new_br11 | cram<br>hammer<br>state<br>quiz<br>donor<br>news<br>library<br>reunion<br>farm<br>blast<br>forum |  
+| bip_39_word_new_br12 | cram<br>hammer<br>state<br>quiz<br>donor<br>news<br>library<br>reunion<br>farm<br>blast<br>forum<br>atom |  
+| bip_39_word_new_br2 | cram<br>hammer |  
+| bip_39_word_new_br3 | cram<br>hammer<br>state |  
+| bip_39_word_new_br4 | cram<br>hammer<br>state<br>quiz |  
+| bip_39_word_new_br5 | cram<br>hammer<br>state<br>quiz<br>donor |  
+| bip_39_word_new_br6 | cram<br>hammer<br>state<br>quiz<br>donor<br>news |  
+| bip_39_word_new_br7 | cram<br>hammer<br>state<br>quiz<br>donor<br>news<br>library |  
+| bip_39_word_new_br8 | cram<br>hammer<br>state<br>quiz<br>donor<br>news<br>library<br>reunion |  
+| bip_39_word_new_br9 | cram<br>hammer<br>state<br>quiz<br>donor<br>news<br>library<br>reunion<br>farm |  
+| bip_39_word_new_line1 | cram |  
+| bip_39_word_new_line10 | cram
+hammer
+state
+quiz
+donor
+news
+library
+reunion
+farm
+blast |  
+| bip_39_word_new_line11 | cram
+hammer
+state
+quiz
+donor
+news
+library
+reunion
+farm
+blast
+forum |  
+| bip_39_word_new_line12 | cram
+hammer
+state
+quiz
+donor
+news
+library
+reunion
+farm
+blast
+forum
+atom |  
+| bip_39_word_new_line2 | cram
+hammer |  
+| bip_39_word_new_line3 | cram
+hammer
+state |  
+| bip_39_word_new_line4 | cram
+hammer
+state
+quiz |  
+| bip_39_word_new_line5 | cram
+hammer
+state
+quiz
+donor |  
+| bip_39_word_new_line6 | cram
+hammer
+state
+quiz
+donor
+news |  
+| bip_39_word_new_line7 | cram
+hammer
+state
+quiz
+donor
+news
+library |  
+| bip_39_word_new_line8 | cram
+hammer
+state
+quiz
+donor
+news
+library
+reunion |  
+| bip_39_word_new_line9 | cram
+hammer
+state
+quiz
+donor
+news
+library
+reunion
+farm |  
+| bip_39_word_space_0 | ['cram', 'hammer', 'state', 'quiz', 'donor', 'news', 'library', 'reunion', 'farm', 'blast', 'forum', 'atom'] |  
+| bip_39_word_space_1 | cram |  
+| bip_39_word_space_10 | cram hammer state quiz donor news library reunion farm blast |  
+| bip_39_word_space_11 | cram hammer state quiz donor news library reunion farm blast forum |  
+| bip_39_word_space_12 | cram hammer state quiz donor news library reunion farm blast forum atom |  
+| bip_39_word_space_2 | cram hammer |  
+| bip_39_word_space_3 | cram hammer state |  
+| bip_39_word_space_4 | cram hammer state quiz |  
+| bip_39_word_space_5 | cram hammer state quiz donor |  
+| bip_39_word_space_6 | cram hammer state quiz donor news |  
+| bip_39_word_space_7 | cram hammer state quiz donor news library |  
+| bip_39_word_space_8 | cram hammer state quiz donor news library reunion |  
+| bip_39_word_space_9 | cram hammer state quiz donor news library reunion farm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brass ensure
+  * bip 39 word 3: brass ensure battle
+  * bip 39 word: brass ensure battle ladder crane nation junior hazard draft cinnamon razor auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brass |  
+| bip_39_word_new_br10 | brass<br>ensure<br>battle<br>ladder<br>crane<br>nation<br>junior<br>hazard<br>draft<br>cinnamon |  
+| bip_39_word_new_br11 | brass<br>ensure<br>battle<br>ladder<br>crane<br>nation<br>junior<br>hazard<br>draft<br>cinnamon<br>razor |  
+| bip_39_word_new_br12 | brass<br>ensure<br>battle<br>ladder<br>crane<br>nation<br>junior<br>hazard<br>draft<br>cinnamon<br>razor<br>auto |  
+| bip_39_word_new_br2 | brass<br>ensure |  
+| bip_39_word_new_br3 | brass<br>ensure<br>battle |  
+| bip_39_word_new_br4 | brass<br>ensure<br>battle<br>ladder |  
+| bip_39_word_new_br5 | brass<br>ensure<br>battle<br>ladder<br>crane |  
+| bip_39_word_new_br6 | brass<br>ensure<br>battle<br>ladder<br>crane<br>nation |  
+| bip_39_word_new_br7 | brass<br>ensure<br>battle<br>ladder<br>crane<br>nation<br>junior |  
+| bip_39_word_new_br8 | brass<br>ensure<br>battle<br>ladder<br>crane<br>nation<br>junior<br>hazard |  
+| bip_39_word_new_br9 | brass<br>ensure<br>battle<br>ladder<br>crane<br>nation<br>junior<br>hazard<br>draft |  
+| bip_39_word_new_line1 | brass |  
+| bip_39_word_new_line10 | brass
+ensure
+battle
+ladder
+crane
+nation
+junior
+hazard
+draft
+cinnamon |  
+| bip_39_word_new_line11 | brass
+ensure
+battle
+ladder
+crane
+nation
+junior
+hazard
+draft
+cinnamon
+razor |  
+| bip_39_word_new_line12 | brass
+ensure
+battle
+ladder
+crane
+nation
+junior
+hazard
+draft
+cinnamon
+razor
+auto |  
+| bip_39_word_new_line2 | brass
+ensure |  
+| bip_39_word_new_line3 | brass
+ensure
+battle |  
+| bip_39_word_new_line4 | brass
+ensure
+battle
+ladder |  
+| bip_39_word_new_line5 | brass
+ensure
+battle
+ladder
+crane |  
+| bip_39_word_new_line6 | brass
+ensure
+battle
+ladder
+crane
+nation |  
+| bip_39_word_new_line7 | brass
+ensure
+battle
+ladder
+crane
+nation
+junior |  
+| bip_39_word_new_line8 | brass
+ensure
+battle
+ladder
+crane
+nation
+junior
+hazard |  
+| bip_39_word_new_line9 | brass
+ensure
+battle
+ladder
+crane
+nation
+junior
+hazard
+draft |  
+| bip_39_word_space_0 | ['brass', 'ensure', 'battle', 'ladder', 'crane', 'nation', 'junior', 'hazard', 'draft', 'cinnamon', 'razor', 'auto'] |  
+| bip_39_word_space_1 | brass |  
+| bip_39_word_space_10 | brass ensure battle ladder crane nation junior hazard draft cinnamon |  
+| bip_39_word_space_11 | brass ensure battle ladder crane nation junior hazard draft cinnamon razor |  
+| bip_39_word_space_12 | brass ensure battle ladder crane nation junior hazard draft cinnamon razor auto |  
+| bip_39_word_space_2 | brass ensure |  
+| bip_39_word_space_3 | brass ensure battle |  
+| bip_39_word_space_4 | brass ensure battle ladder |  
+| bip_39_word_space_5 | brass ensure battle ladder crane |  
+| bip_39_word_space_6 | brass ensure battle ladder crane nation |  
+| bip_39_word_space_7 | brass ensure battle ladder crane nation junior |  
+| bip_39_word_space_8 | brass ensure battle ladder crane nation junior hazard |  
+| bip_39_word_space_9 | brass ensure battle ladder crane nation junior hazard draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

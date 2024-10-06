@@ -1,3 +1,186 @@
+bip_39_word_new_br1: toss
+bip_39_word_new_br10: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow<br>door<br>actress
+bip_39_word_new_br11: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow<br>door<br>actress<br>mimic
+bip_39_word_new_br12: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow<br>door<br>actress<br>mimic<br>artist
+bip_39_word_new_br2: toss<br>motion
+bip_39_word_new_br3: toss<br>motion<br>bracket
+bip_39_word_new_br4: toss<br>motion<br>bracket<br>traffic
+bip_39_word_new_br5: toss<br>motion<br>bracket<br>traffic<br>music
+bip_39_word_new_br6: toss<br>motion<br>bracket<br>traffic<br>music<br>own
+bip_39_word_new_br7: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy
+bip_39_word_new_br8: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow
+bip_39_word_new_br9: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow<br>door
+bip_39_word_new_line1: toss
+bip_39_word_new_line10: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow
+
+  door
+
+  actress'
+bip_39_word_new_line11: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow
+
+  door
+
+  actress
+
+  mimic'
+bip_39_word_new_line12: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow
+
+  door
+
+  actress
+
+  mimic
+
+  artist'
+bip_39_word_new_line2: 'toss
+
+  motion'
+bip_39_word_new_line3: 'toss
+
+  motion
+
+  bracket'
+bip_39_word_new_line4: 'toss
+
+  motion
+
+  bracket
+
+  traffic'
+bip_39_word_new_line5: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music'
+bip_39_word_new_line6: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own'
+bip_39_word_new_line7: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy'
+bip_39_word_new_line8: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow'
+bip_39_word_new_line9: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow
+
+  door'
+bip_39_word_space_0:
+- toss
+- motion
+- bracket
+- traffic
+- music
+- own
+- heavy
+- shadow
+- door
+- actress
+- mimic
+- artist
+bip_39_word_space_1: toss
+bip_39_word_space_10: toss motion bracket traffic music own heavy shadow door actress
+bip_39_word_space_11: toss motion bracket traffic music own heavy shadow door actress
+  mimic
+bip_39_word_space_12: toss motion bracket traffic music own heavy shadow door actress
+  mimic artist
+bip_39_word_space_2: toss motion
+bip_39_word_space_3: toss motion bracket
+bip_39_word_space_4: toss motion bracket traffic
+bip_39_word_space_5: toss motion bracket traffic music
+bip_39_word_space_6: toss motion bracket traffic music own
+bip_39_word_space_7: toss motion bracket traffic music own heavy
+bip_39_word_space_8: toss motion bracket traffic music own heavy shadow
+bip_39_word_space_9: toss motion bracket traffic music own heavy shadow door
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

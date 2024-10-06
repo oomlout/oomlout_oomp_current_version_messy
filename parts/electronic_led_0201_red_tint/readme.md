@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clip chimney
+  * bip 39 word 3: clip chimney envelope
+  * bip 39 word: clip chimney envelope material announce ocean unit ignore comfort doll pioneer announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clip |  
+| bip_39_word_new_br10 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean<br>unit<br>ignore<br>comfort<br>doll |  
+| bip_39_word_new_br11 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean<br>unit<br>ignore<br>comfort<br>doll<br>pioneer |  
+| bip_39_word_new_br12 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean<br>unit<br>ignore<br>comfort<br>doll<br>pioneer<br>announce |  
+| bip_39_word_new_br2 | clip<br>chimney |  
+| bip_39_word_new_br3 | clip<br>chimney<br>envelope |  
+| bip_39_word_new_br4 | clip<br>chimney<br>envelope<br>material |  
+| bip_39_word_new_br5 | clip<br>chimney<br>envelope<br>material<br>announce |  
+| bip_39_word_new_br6 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean |  
+| bip_39_word_new_br7 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean<br>unit |  
+| bip_39_word_new_br8 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean<br>unit<br>ignore |  
+| bip_39_word_new_br9 | clip<br>chimney<br>envelope<br>material<br>announce<br>ocean<br>unit<br>ignore<br>comfort |  
+| bip_39_word_new_line1 | clip |  
+| bip_39_word_new_line10 | clip
+chimney
+envelope
+material
+announce
+ocean
+unit
+ignore
+comfort
+doll |  
+| bip_39_word_new_line11 | clip
+chimney
+envelope
+material
+announce
+ocean
+unit
+ignore
+comfort
+doll
+pioneer |  
+| bip_39_word_new_line12 | clip
+chimney
+envelope
+material
+announce
+ocean
+unit
+ignore
+comfort
+doll
+pioneer
+announce |  
+| bip_39_word_new_line2 | clip
+chimney |  
+| bip_39_word_new_line3 | clip
+chimney
+envelope |  
+| bip_39_word_new_line4 | clip
+chimney
+envelope
+material |  
+| bip_39_word_new_line5 | clip
+chimney
+envelope
+material
+announce |  
+| bip_39_word_new_line6 | clip
+chimney
+envelope
+material
+announce
+ocean |  
+| bip_39_word_new_line7 | clip
+chimney
+envelope
+material
+announce
+ocean
+unit |  
+| bip_39_word_new_line8 | clip
+chimney
+envelope
+material
+announce
+ocean
+unit
+ignore |  
+| bip_39_word_new_line9 | clip
+chimney
+envelope
+material
+announce
+ocean
+unit
+ignore
+comfort |  
+| bip_39_word_space_0 | ['clip', 'chimney', 'envelope', 'material', 'announce', 'ocean', 'unit', 'ignore', 'comfort', 'doll', 'pioneer', 'announce'] |  
+| bip_39_word_space_1 | clip |  
+| bip_39_word_space_10 | clip chimney envelope material announce ocean unit ignore comfort doll |  
+| bip_39_word_space_11 | clip chimney envelope material announce ocean unit ignore comfort doll pioneer |  
+| bip_39_word_space_12 | clip chimney envelope material announce ocean unit ignore comfort doll pioneer announce |  
+| bip_39_word_space_2 | clip chimney |  
+| bip_39_word_space_3 | clip chimney envelope |  
+| bip_39_word_space_4 | clip chimney envelope material |  
+| bip_39_word_space_5 | clip chimney envelope material announce |  
+| bip_39_word_space_6 | clip chimney envelope material announce ocean |  
+| bip_39_word_space_7 | clip chimney envelope material announce ocean unit |  
+| bip_39_word_space_8 | clip chimney envelope material announce ocean unit ignore |  
+| bip_39_word_space_9 | clip chimney envelope material announce ocean unit ignore comfort |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

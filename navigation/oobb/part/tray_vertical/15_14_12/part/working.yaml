@@ -1,3 +1,186 @@
+bip_39_word_new_br1: else
+bip_39_word_new_br10: else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward
+bip_39_word_new_br11: else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward<br>speak
+bip_39_word_new_br12: else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral<br>toward<br>speak<br>afford
+bip_39_word_new_br2: else<br>age
+bip_39_word_new_br3: else<br>age<br>pony
+bip_39_word_new_br4: else<br>age<br>pony<br>peace
+bip_39_word_new_br5: else<br>age<br>pony<br>peace<br>light
+bip_39_word_new_br6: else<br>age<br>pony<br>peace<br>light<br>supply
+bip_39_word_new_br7: else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence
+bip_39_word_new_br8: else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool
+bip_39_word_new_br9: else<br>age<br>pony<br>peace<br>light<br>supply<br>evidence<br>cool<br>moral
+bip_39_word_new_line1: else
+bip_39_word_new_line10: 'else
+
+  age
+
+  pony
+
+  peace
+
+  light
+
+  supply
+
+  evidence
+
+  cool
+
+  moral
+
+  toward'
+bip_39_word_new_line11: 'else
+
+  age
+
+  pony
+
+  peace
+
+  light
+
+  supply
+
+  evidence
+
+  cool
+
+  moral
+
+  toward
+
+  speak'
+bip_39_word_new_line12: 'else
+
+  age
+
+  pony
+
+  peace
+
+  light
+
+  supply
+
+  evidence
+
+  cool
+
+  moral
+
+  toward
+
+  speak
+
+  afford'
+bip_39_word_new_line2: 'else
+
+  age'
+bip_39_word_new_line3: 'else
+
+  age
+
+  pony'
+bip_39_word_new_line4: 'else
+
+  age
+
+  pony
+
+  peace'
+bip_39_word_new_line5: 'else
+
+  age
+
+  pony
+
+  peace
+
+  light'
+bip_39_word_new_line6: 'else
+
+  age
+
+  pony
+
+  peace
+
+  light
+
+  supply'
+bip_39_word_new_line7: 'else
+
+  age
+
+  pony
+
+  peace
+
+  light
+
+  supply
+
+  evidence'
+bip_39_word_new_line8: 'else
+
+  age
+
+  pony
+
+  peace
+
+  light
+
+  supply
+
+  evidence
+
+  cool'
+bip_39_word_new_line9: 'else
+
+  age
+
+  pony
+
+  peace
+
+  light
+
+  supply
+
+  evidence
+
+  cool
+
+  moral'
+bip_39_word_space_0:
+- else
+- age
+- pony
+- peace
+- light
+- supply
+- evidence
+- cool
+- moral
+- toward
+- speak
+- afford
+bip_39_word_space_1: else
+bip_39_word_space_10: else age pony peace light supply evidence cool moral toward
+bip_39_word_space_11: else age pony peace light supply evidence cool moral toward
+  speak
+bip_39_word_space_12: else age pony peace light supply evidence cool moral toward
+  speak afford
+bip_39_word_space_2: else age
+bip_39_word_space_3: else age pony
+bip_39_word_space_4: else age pony peace
+bip_39_word_space_5: else age pony peace light
+bip_39_word_space_6: else age pony peace light supply
+bip_39_word_space_7: else age pony peace light supply evidence
+bip_39_word_space_8: else age pony peace light supply evidence cool
+bip_39_word_space_9: else age pony peace light supply evidence cool moral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

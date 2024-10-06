@@ -1,3 +1,186 @@
+bip_39_word_new_br1: east
+bip_39_word_new_br10: east<br>drip<br>picture<br>edge<br>appear<br>now<br>repeat<br>silly<br>demise<br>naive
+bip_39_word_new_br11: east<br>drip<br>picture<br>edge<br>appear<br>now<br>repeat<br>silly<br>demise<br>naive<br>seminar
+bip_39_word_new_br12: east<br>drip<br>picture<br>edge<br>appear<br>now<br>repeat<br>silly<br>demise<br>naive<br>seminar<br>adult
+bip_39_word_new_br2: east<br>drip
+bip_39_word_new_br3: east<br>drip<br>picture
+bip_39_word_new_br4: east<br>drip<br>picture<br>edge
+bip_39_word_new_br5: east<br>drip<br>picture<br>edge<br>appear
+bip_39_word_new_br6: east<br>drip<br>picture<br>edge<br>appear<br>now
+bip_39_word_new_br7: east<br>drip<br>picture<br>edge<br>appear<br>now<br>repeat
+bip_39_word_new_br8: east<br>drip<br>picture<br>edge<br>appear<br>now<br>repeat<br>silly
+bip_39_word_new_br9: east<br>drip<br>picture<br>edge<br>appear<br>now<br>repeat<br>silly<br>demise
+bip_39_word_new_line1: east
+bip_39_word_new_line10: 'east
+
+  drip
+
+  picture
+
+  edge
+
+  appear
+
+  now
+
+  repeat
+
+  silly
+
+  demise
+
+  naive'
+bip_39_word_new_line11: 'east
+
+  drip
+
+  picture
+
+  edge
+
+  appear
+
+  now
+
+  repeat
+
+  silly
+
+  demise
+
+  naive
+
+  seminar'
+bip_39_word_new_line12: 'east
+
+  drip
+
+  picture
+
+  edge
+
+  appear
+
+  now
+
+  repeat
+
+  silly
+
+  demise
+
+  naive
+
+  seminar
+
+  adult'
+bip_39_word_new_line2: 'east
+
+  drip'
+bip_39_word_new_line3: 'east
+
+  drip
+
+  picture'
+bip_39_word_new_line4: 'east
+
+  drip
+
+  picture
+
+  edge'
+bip_39_word_new_line5: 'east
+
+  drip
+
+  picture
+
+  edge
+
+  appear'
+bip_39_word_new_line6: 'east
+
+  drip
+
+  picture
+
+  edge
+
+  appear
+
+  now'
+bip_39_word_new_line7: 'east
+
+  drip
+
+  picture
+
+  edge
+
+  appear
+
+  now
+
+  repeat'
+bip_39_word_new_line8: 'east
+
+  drip
+
+  picture
+
+  edge
+
+  appear
+
+  now
+
+  repeat
+
+  silly'
+bip_39_word_new_line9: 'east
+
+  drip
+
+  picture
+
+  edge
+
+  appear
+
+  now
+
+  repeat
+
+  silly
+
+  demise'
+bip_39_word_space_0:
+- east
+- drip
+- picture
+- edge
+- appear
+- now
+- repeat
+- silly
+- demise
+- naive
+- seminar
+- adult
+bip_39_word_space_1: east
+bip_39_word_space_10: east drip picture edge appear now repeat silly demise naive
+bip_39_word_space_11: east drip picture edge appear now repeat silly demise naive
+  seminar
+bip_39_word_space_12: east drip picture edge appear now repeat silly demise naive
+  seminar adult
+bip_39_word_space_2: east drip
+bip_39_word_space_3: east drip picture
+bip_39_word_space_4: east drip picture edge
+bip_39_word_space_5: east drip picture edge appear
+bip_39_word_space_6: east drip picture edge appear now
+bip_39_word_space_7: east drip picture edge appear now repeat
+bip_39_word_space_8: east drip picture edge appear now repeat silly
+bip_39_word_space_9: east drip picture edge appear now repeat silly demise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: check
+bip_39_word_new_br10: check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit
+bip_39_word_new_br11: check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit<br>order
+bip_39_word_new_br12: check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner<br>permit<br>order<br>album
+bip_39_word_new_br2: check<br>artist
+bip_39_word_new_br3: check<br>artist<br>power
+bip_39_word_new_br4: check<br>artist<br>power<br>nose
+bip_39_word_new_br5: check<br>artist<br>power<br>nose<br>flower
+bip_39_word_new_br6: check<br>artist<br>power<br>nose<br>flower<br>panda
+bip_39_word_new_br7: check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit
+bip_39_word_new_br8: check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown
+bip_39_word_new_br9: check<br>artist<br>power<br>nose<br>flower<br>panda<br>submit<br>clown<br>owner
+bip_39_word_new_line1: check
+bip_39_word_new_line10: 'check
+
+  artist
+
+  power
+
+  nose
+
+  flower
+
+  panda
+
+  submit
+
+  clown
+
+  owner
+
+  permit'
+bip_39_word_new_line11: 'check
+
+  artist
+
+  power
+
+  nose
+
+  flower
+
+  panda
+
+  submit
+
+  clown
+
+  owner
+
+  permit
+
+  order'
+bip_39_word_new_line12: 'check
+
+  artist
+
+  power
+
+  nose
+
+  flower
+
+  panda
+
+  submit
+
+  clown
+
+  owner
+
+  permit
+
+  order
+
+  album'
+bip_39_word_new_line2: 'check
+
+  artist'
+bip_39_word_new_line3: 'check
+
+  artist
+
+  power'
+bip_39_word_new_line4: 'check
+
+  artist
+
+  power
+
+  nose'
+bip_39_word_new_line5: 'check
+
+  artist
+
+  power
+
+  nose
+
+  flower'
+bip_39_word_new_line6: 'check
+
+  artist
+
+  power
+
+  nose
+
+  flower
+
+  panda'
+bip_39_word_new_line7: 'check
+
+  artist
+
+  power
+
+  nose
+
+  flower
+
+  panda
+
+  submit'
+bip_39_word_new_line8: 'check
+
+  artist
+
+  power
+
+  nose
+
+  flower
+
+  panda
+
+  submit
+
+  clown'
+bip_39_word_new_line9: 'check
+
+  artist
+
+  power
+
+  nose
+
+  flower
+
+  panda
+
+  submit
+
+  clown
+
+  owner'
+bip_39_word_space_0:
+- check
+- artist
+- power
+- nose
+- flower
+- panda
+- submit
+- clown
+- owner
+- permit
+- order
+- album
+bip_39_word_space_1: check
+bip_39_word_space_10: check artist power nose flower panda submit clown owner permit
+bip_39_word_space_11: check artist power nose flower panda submit clown owner permit
+  order
+bip_39_word_space_12: check artist power nose flower panda submit clown owner permit
+  order album
+bip_39_word_space_2: check artist
+bip_39_word_space_3: check artist power
+bip_39_word_space_4: check artist power nose
+bip_39_word_space_5: check artist power nose flower
+bip_39_word_space_6: check artist power nose flower panda
+bip_39_word_space_7: check artist power nose flower panda submit
+bip_39_word_space_8: check artist power nose flower panda submit clown
+bip_39_word_space_9: check artist power nose flower panda submit clown owner
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

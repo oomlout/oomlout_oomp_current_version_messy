@@ -1,3 +1,187 @@
+bip_39_word_new_br1: crater
+bip_39_word_new_br10: crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm
+bip_39_word_new_br11: crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm<br>kid
+bip_39_word_new_br12: crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty<br>calm<br>kid<br>army
+bip_39_word_new_br2: crater<br>broccoli
+bip_39_word_new_br3: crater<br>broccoli<br>educate
+bip_39_word_new_br4: crater<br>broccoli<br>educate<br>sand
+bip_39_word_new_br5: crater<br>broccoli<br>educate<br>sand<br>antique
+bip_39_word_new_br6: crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort
+bip_39_word_new_br7: crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip
+bip_39_word_new_br8: crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge
+bip_39_word_new_br9: crater<br>broccoli<br>educate<br>sand<br>antique<br>comfort<br>whip<br>urge<br>duty
+bip_39_word_new_line1: crater
+bip_39_word_new_line10: 'crater
+
+  broccoli
+
+  educate
+
+  sand
+
+  antique
+
+  comfort
+
+  whip
+
+  urge
+
+  duty
+
+  calm'
+bip_39_word_new_line11: 'crater
+
+  broccoli
+
+  educate
+
+  sand
+
+  antique
+
+  comfort
+
+  whip
+
+  urge
+
+  duty
+
+  calm
+
+  kid'
+bip_39_word_new_line12: 'crater
+
+  broccoli
+
+  educate
+
+  sand
+
+  antique
+
+  comfort
+
+  whip
+
+  urge
+
+  duty
+
+  calm
+
+  kid
+
+  army'
+bip_39_word_new_line2: 'crater
+
+  broccoli'
+bip_39_word_new_line3: 'crater
+
+  broccoli
+
+  educate'
+bip_39_word_new_line4: 'crater
+
+  broccoli
+
+  educate
+
+  sand'
+bip_39_word_new_line5: 'crater
+
+  broccoli
+
+  educate
+
+  sand
+
+  antique'
+bip_39_word_new_line6: 'crater
+
+  broccoli
+
+  educate
+
+  sand
+
+  antique
+
+  comfort'
+bip_39_word_new_line7: 'crater
+
+  broccoli
+
+  educate
+
+  sand
+
+  antique
+
+  comfort
+
+  whip'
+bip_39_word_new_line8: 'crater
+
+  broccoli
+
+  educate
+
+  sand
+
+  antique
+
+  comfort
+
+  whip
+
+  urge'
+bip_39_word_new_line9: 'crater
+
+  broccoli
+
+  educate
+
+  sand
+
+  antique
+
+  comfort
+
+  whip
+
+  urge
+
+  duty'
+bip_39_word_space_0:
+- crater
+- broccoli
+- educate
+- sand
+- antique
+- comfort
+- whip
+- urge
+- duty
+- calm
+- kid
+- army
+bip_39_word_space_1: crater
+bip_39_word_space_10: crater broccoli educate sand antique comfort whip urge duty
+  calm
+bip_39_word_space_11: crater broccoli educate sand antique comfort whip urge duty
+  calm kid
+bip_39_word_space_12: crater broccoli educate sand antique comfort whip urge duty
+  calm kid army
+bip_39_word_space_2: crater broccoli
+bip_39_word_space_3: crater broccoli educate
+bip_39_word_space_4: crater broccoli educate sand
+bip_39_word_space_5: crater broccoli educate sand antique
+bip_39_word_space_6: crater broccoli educate sand antique comfort
+bip_39_word_space_7: crater broccoli educate sand antique comfort whip
+bip_39_word_space_8: crater broccoli educate sand antique comfort whip urge
+bip_39_word_space_9: crater broccoli educate sand antique comfort whip urge duty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

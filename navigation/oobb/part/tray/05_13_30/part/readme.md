@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: come yard
+  * bip 39 word 3: come yard source
+  * bip 39 word: come yard source win wreck wire cat credit ripple model turn again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | come |  
+| bip_39_word_new_br10 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model |  
+| bip_39_word_new_br11 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model<br>turn |  
+| bip_39_word_new_br12 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple<br>model<br>turn<br>again |  
+| bip_39_word_new_br2 | come<br>yard |  
+| bip_39_word_new_br3 | come<br>yard<br>source |  
+| bip_39_word_new_br4 | come<br>yard<br>source<br>win |  
+| bip_39_word_new_br5 | come<br>yard<br>source<br>win<br>wreck |  
+| bip_39_word_new_br6 | come<br>yard<br>source<br>win<br>wreck<br>wire |  
+| bip_39_word_new_br7 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat |  
+| bip_39_word_new_br8 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit |  
+| bip_39_word_new_br9 | come<br>yard<br>source<br>win<br>wreck<br>wire<br>cat<br>credit<br>ripple |  
+| bip_39_word_new_line1 | come |  
+| bip_39_word_new_line10 | come
+yard
+source
+win
+wreck
+wire
+cat
+credit
+ripple
+model |  
+| bip_39_word_new_line11 | come
+yard
+source
+win
+wreck
+wire
+cat
+credit
+ripple
+model
+turn |  
+| bip_39_word_new_line12 | come
+yard
+source
+win
+wreck
+wire
+cat
+credit
+ripple
+model
+turn
+again |  
+| bip_39_word_new_line2 | come
+yard |  
+| bip_39_word_new_line3 | come
+yard
+source |  
+| bip_39_word_new_line4 | come
+yard
+source
+win |  
+| bip_39_word_new_line5 | come
+yard
+source
+win
+wreck |  
+| bip_39_word_new_line6 | come
+yard
+source
+win
+wreck
+wire |  
+| bip_39_word_new_line7 | come
+yard
+source
+win
+wreck
+wire
+cat |  
+| bip_39_word_new_line8 | come
+yard
+source
+win
+wreck
+wire
+cat
+credit |  
+| bip_39_word_new_line9 | come
+yard
+source
+win
+wreck
+wire
+cat
+credit
+ripple |  
+| bip_39_word_space_0 | ['come', 'yard', 'source', 'win', 'wreck', 'wire', 'cat', 'credit', 'ripple', 'model', 'turn', 'again'] |  
+| bip_39_word_space_1 | come |  
+| bip_39_word_space_10 | come yard source win wreck wire cat credit ripple model |  
+| bip_39_word_space_11 | come yard source win wreck wire cat credit ripple model turn |  
+| bip_39_word_space_12 | come yard source win wreck wire cat credit ripple model turn again |  
+| bip_39_word_space_2 | come yard |  
+| bip_39_word_space_3 | come yard source |  
+| bip_39_word_space_4 | come yard source win |  
+| bip_39_word_space_5 | come yard source win wreck |  
+| bip_39_word_space_6 | come yard source win wreck wire |  
+| bip_39_word_space_7 | come yard source win wreck wire cat |  
+| bip_39_word_space_8 | come yard source win wreck wire cat credit |  
+| bip_39_word_space_9 | come yard source win wreck wire cat credit ripple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

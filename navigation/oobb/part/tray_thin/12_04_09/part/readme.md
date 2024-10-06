@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: visual hamster
+  * bip 39 word 3: visual hamster dust
+  * bip 39 word: visual hamster dust dynamic same notice story clap turtle hold always apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | visual |  
+| bip_39_word_new_br10 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold |  
+| bip_39_word_new_br11 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold<br>always |  
+| bip_39_word_new_br12 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle<br>hold<br>always<br>apart |  
+| bip_39_word_new_br2 | visual<br>hamster |  
+| bip_39_word_new_br3 | visual<br>hamster<br>dust |  
+| bip_39_word_new_br4 | visual<br>hamster<br>dust<br>dynamic |  
+| bip_39_word_new_br5 | visual<br>hamster<br>dust<br>dynamic<br>same |  
+| bip_39_word_new_br6 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice |  
+| bip_39_word_new_br7 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story |  
+| bip_39_word_new_br8 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap |  
+| bip_39_word_new_br9 | visual<br>hamster<br>dust<br>dynamic<br>same<br>notice<br>story<br>clap<br>turtle |  
+| bip_39_word_new_line1 | visual |  
+| bip_39_word_new_line10 | visual
+hamster
+dust
+dynamic
+same
+notice
+story
+clap
+turtle
+hold |  
+| bip_39_word_new_line11 | visual
+hamster
+dust
+dynamic
+same
+notice
+story
+clap
+turtle
+hold
+always |  
+| bip_39_word_new_line12 | visual
+hamster
+dust
+dynamic
+same
+notice
+story
+clap
+turtle
+hold
+always
+apart |  
+| bip_39_word_new_line2 | visual
+hamster |  
+| bip_39_word_new_line3 | visual
+hamster
+dust |  
+| bip_39_word_new_line4 | visual
+hamster
+dust
+dynamic |  
+| bip_39_word_new_line5 | visual
+hamster
+dust
+dynamic
+same |  
+| bip_39_word_new_line6 | visual
+hamster
+dust
+dynamic
+same
+notice |  
+| bip_39_word_new_line7 | visual
+hamster
+dust
+dynamic
+same
+notice
+story |  
+| bip_39_word_new_line8 | visual
+hamster
+dust
+dynamic
+same
+notice
+story
+clap |  
+| bip_39_word_new_line9 | visual
+hamster
+dust
+dynamic
+same
+notice
+story
+clap
+turtle |  
+| bip_39_word_space_0 | ['visual', 'hamster', 'dust', 'dynamic', 'same', 'notice', 'story', 'clap', 'turtle', 'hold', 'always', 'apart'] |  
+| bip_39_word_space_1 | visual |  
+| bip_39_word_space_10 | visual hamster dust dynamic same notice story clap turtle hold |  
+| bip_39_word_space_11 | visual hamster dust dynamic same notice story clap turtle hold always |  
+| bip_39_word_space_12 | visual hamster dust dynamic same notice story clap turtle hold always apart |  
+| bip_39_word_space_2 | visual hamster |  
+| bip_39_word_space_3 | visual hamster dust |  
+| bip_39_word_space_4 | visual hamster dust dynamic |  
+| bip_39_word_space_5 | visual hamster dust dynamic same |  
+| bip_39_word_space_6 | visual hamster dust dynamic same notice |  
+| bip_39_word_space_7 | visual hamster dust dynamic same notice story |  
+| bip_39_word_space_8 | visual hamster dust dynamic same notice story clap |  
+| bip_39_word_space_9 | visual hamster dust dynamic same notice story clap turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

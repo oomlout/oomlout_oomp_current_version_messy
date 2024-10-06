@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scale assume
+  * bip 39 word 3: scale assume benefit
+  * bip 39 word: scale assume benefit olive hidden ahead remain bullet shaft enter thought arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scale |  
+| bip_39_word_new_br10 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead<br>remain<br>bullet<br>shaft<br>enter |  
+| bip_39_word_new_br11 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead<br>remain<br>bullet<br>shaft<br>enter<br>thought |  
+| bip_39_word_new_br12 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead<br>remain<br>bullet<br>shaft<br>enter<br>thought<br>arm |  
+| bip_39_word_new_br2 | scale<br>assume |  
+| bip_39_word_new_br3 | scale<br>assume<br>benefit |  
+| bip_39_word_new_br4 | scale<br>assume<br>benefit<br>olive |  
+| bip_39_word_new_br5 | scale<br>assume<br>benefit<br>olive<br>hidden |  
+| bip_39_word_new_br6 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead |  
+| bip_39_word_new_br7 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead<br>remain |  
+| bip_39_word_new_br8 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead<br>remain<br>bullet |  
+| bip_39_word_new_br9 | scale<br>assume<br>benefit<br>olive<br>hidden<br>ahead<br>remain<br>bullet<br>shaft |  
+| bip_39_word_new_line1 | scale |  
+| bip_39_word_new_line10 | scale
+assume
+benefit
+olive
+hidden
+ahead
+remain
+bullet
+shaft
+enter |  
+| bip_39_word_new_line11 | scale
+assume
+benefit
+olive
+hidden
+ahead
+remain
+bullet
+shaft
+enter
+thought |  
+| bip_39_word_new_line12 | scale
+assume
+benefit
+olive
+hidden
+ahead
+remain
+bullet
+shaft
+enter
+thought
+arm |  
+| bip_39_word_new_line2 | scale
+assume |  
+| bip_39_word_new_line3 | scale
+assume
+benefit |  
+| bip_39_word_new_line4 | scale
+assume
+benefit
+olive |  
+| bip_39_word_new_line5 | scale
+assume
+benefit
+olive
+hidden |  
+| bip_39_word_new_line6 | scale
+assume
+benefit
+olive
+hidden
+ahead |  
+| bip_39_word_new_line7 | scale
+assume
+benefit
+olive
+hidden
+ahead
+remain |  
+| bip_39_word_new_line8 | scale
+assume
+benefit
+olive
+hidden
+ahead
+remain
+bullet |  
+| bip_39_word_new_line9 | scale
+assume
+benefit
+olive
+hidden
+ahead
+remain
+bullet
+shaft |  
+| bip_39_word_space_0 | ['scale', 'assume', 'benefit', 'olive', 'hidden', 'ahead', 'remain', 'bullet', 'shaft', 'enter', 'thought', 'arm'] |  
+| bip_39_word_space_1 | scale |  
+| bip_39_word_space_10 | scale assume benefit olive hidden ahead remain bullet shaft enter |  
+| bip_39_word_space_11 | scale assume benefit olive hidden ahead remain bullet shaft enter thought |  
+| bip_39_word_space_12 | scale assume benefit olive hidden ahead remain bullet shaft enter thought arm |  
+| bip_39_word_space_2 | scale assume |  
+| bip_39_word_space_3 | scale assume benefit |  
+| bip_39_word_space_4 | scale assume benefit olive |  
+| bip_39_word_space_5 | scale assume benefit olive hidden |  
+| bip_39_word_space_6 | scale assume benefit olive hidden ahead |  
+| bip_39_word_space_7 | scale assume benefit olive hidden ahead remain |  
+| bip_39_word_space_8 | scale assume benefit olive hidden ahead remain bullet |  
+| bip_39_word_space_9 | scale assume benefit olive hidden ahead remain bullet shaft |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

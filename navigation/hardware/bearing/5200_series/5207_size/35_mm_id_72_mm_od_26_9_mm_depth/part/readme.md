@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shallow dice
+  * bip 39 word 3: shallow dice deny
+  * bip 39 word: shallow dice deny feed tell layer corn supply unfair indoor arch almost
 
 ### other_codes
 * short_code: br5207
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shallow |  
+| bip_39_word_new_br10 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor |  
+| bip_39_word_new_br11 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor<br>arch |  
+| bip_39_word_new_br12 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair<br>indoor<br>arch<br>almost |  
+| bip_39_word_new_br2 | shallow<br>dice |  
+| bip_39_word_new_br3 | shallow<br>dice<br>deny |  
+| bip_39_word_new_br4 | shallow<br>dice<br>deny<br>feed |  
+| bip_39_word_new_br5 | shallow<br>dice<br>deny<br>feed<br>tell |  
+| bip_39_word_new_br6 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer |  
+| bip_39_word_new_br7 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn |  
+| bip_39_word_new_br8 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply |  
+| bip_39_word_new_br9 | shallow<br>dice<br>deny<br>feed<br>tell<br>layer<br>corn<br>supply<br>unfair |  
+| bip_39_word_new_line1 | shallow |  
+| bip_39_word_new_line10 | shallow
+dice
+deny
+feed
+tell
+layer
+corn
+supply
+unfair
+indoor |  
+| bip_39_word_new_line11 | shallow
+dice
+deny
+feed
+tell
+layer
+corn
+supply
+unfair
+indoor
+arch |  
+| bip_39_word_new_line12 | shallow
+dice
+deny
+feed
+tell
+layer
+corn
+supply
+unfair
+indoor
+arch
+almost |  
+| bip_39_word_new_line2 | shallow
+dice |  
+| bip_39_word_new_line3 | shallow
+dice
+deny |  
+| bip_39_word_new_line4 | shallow
+dice
+deny
+feed |  
+| bip_39_word_new_line5 | shallow
+dice
+deny
+feed
+tell |  
+| bip_39_word_new_line6 | shallow
+dice
+deny
+feed
+tell
+layer |  
+| bip_39_word_new_line7 | shallow
+dice
+deny
+feed
+tell
+layer
+corn |  
+| bip_39_word_new_line8 | shallow
+dice
+deny
+feed
+tell
+layer
+corn
+supply |  
+| bip_39_word_new_line9 | shallow
+dice
+deny
+feed
+tell
+layer
+corn
+supply
+unfair |  
+| bip_39_word_space_0 | ['shallow', 'dice', 'deny', 'feed', 'tell', 'layer', 'corn', 'supply', 'unfair', 'indoor', 'arch', 'almost'] |  
+| bip_39_word_space_1 | shallow |  
+| bip_39_word_space_10 | shallow dice deny feed tell layer corn supply unfair indoor |  
+| bip_39_word_space_11 | shallow dice deny feed tell layer corn supply unfair indoor arch |  
+| bip_39_word_space_12 | shallow dice deny feed tell layer corn supply unfair indoor arch almost |  
+| bip_39_word_space_2 | shallow dice |  
+| bip_39_word_space_3 | shallow dice deny |  
+| bip_39_word_space_4 | shallow dice deny feed |  
+| bip_39_word_space_5 | shallow dice deny feed tell |  
+| bip_39_word_space_6 | shallow dice deny feed tell layer |  
+| bip_39_word_space_7 | shallow dice deny feed tell layer corn |  
+| bip_39_word_space_8 | shallow dice deny feed tell layer corn supply |  
+| bip_39_word_space_9 | shallow dice deny feed tell layer corn supply unfair |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

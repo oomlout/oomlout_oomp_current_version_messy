@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: approve random
+  * bip 39 word 3: approve random ensure
+  * bip 39 word: approve random ensure mention certain that adult example vendor thank ritual almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | approve |  
+| bip_39_word_new_br10 | approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank |  
+| bip_39_word_new_br11 | approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank<br>ritual |  
+| bip_39_word_new_br12 | approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor<br>thank<br>ritual<br>almost |  
+| bip_39_word_new_br2 | approve<br>random |  
+| bip_39_word_new_br3 | approve<br>random<br>ensure |  
+| bip_39_word_new_br4 | approve<br>random<br>ensure<br>mention |  
+| bip_39_word_new_br5 | approve<br>random<br>ensure<br>mention<br>certain |  
+| bip_39_word_new_br6 | approve<br>random<br>ensure<br>mention<br>certain<br>that |  
+| bip_39_word_new_br7 | approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult |  
+| bip_39_word_new_br8 | approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example |  
+| bip_39_word_new_br9 | approve<br>random<br>ensure<br>mention<br>certain<br>that<br>adult<br>example<br>vendor |  
+| bip_39_word_new_line1 | approve |  
+| bip_39_word_new_line10 | approve
+random
+ensure
+mention
+certain
+that
+adult
+example
+vendor
+thank |  
+| bip_39_word_new_line11 | approve
+random
+ensure
+mention
+certain
+that
+adult
+example
+vendor
+thank
+ritual |  
+| bip_39_word_new_line12 | approve
+random
+ensure
+mention
+certain
+that
+adult
+example
+vendor
+thank
+ritual
+almost |  
+| bip_39_word_new_line2 | approve
+random |  
+| bip_39_word_new_line3 | approve
+random
+ensure |  
+| bip_39_word_new_line4 | approve
+random
+ensure
+mention |  
+| bip_39_word_new_line5 | approve
+random
+ensure
+mention
+certain |  
+| bip_39_word_new_line6 | approve
+random
+ensure
+mention
+certain
+that |  
+| bip_39_word_new_line7 | approve
+random
+ensure
+mention
+certain
+that
+adult |  
+| bip_39_word_new_line8 | approve
+random
+ensure
+mention
+certain
+that
+adult
+example |  
+| bip_39_word_new_line9 | approve
+random
+ensure
+mention
+certain
+that
+adult
+example
+vendor |  
+| bip_39_word_space_0 | ['approve', 'random', 'ensure', 'mention', 'certain', 'that', 'adult', 'example', 'vendor', 'thank', 'ritual', 'almost'] |  
+| bip_39_word_space_1 | approve |  
+| bip_39_word_space_10 | approve random ensure mention certain that adult example vendor thank |  
+| bip_39_word_space_11 | approve random ensure mention certain that adult example vendor thank ritual |  
+| bip_39_word_space_12 | approve random ensure mention certain that adult example vendor thank ritual almost |  
+| bip_39_word_space_2 | approve random |  
+| bip_39_word_space_3 | approve random ensure |  
+| bip_39_word_space_4 | approve random ensure mention |  
+| bip_39_word_space_5 | approve random ensure mention certain |  
+| bip_39_word_space_6 | approve random ensure mention certain that |  
+| bip_39_word_space_7 | approve random ensure mention certain that adult |  
+| bip_39_word_space_8 | approve random ensure mention certain that adult example |  
+| bip_39_word_space_9 | approve random ensure mention certain that adult example vendor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

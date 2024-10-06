@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coil security
+  * bip 39 word 3: coil security swear
+  * bip 39 word: coil security swear divide arrive rotate frown later voice peasant kingdom ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coil |  
+| bip_39_word_new_br10 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate<br>frown<br>later<br>voice<br>peasant |  
+| bip_39_word_new_br11 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate<br>frown<br>later<br>voice<br>peasant<br>kingdom |  
+| bip_39_word_new_br12 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate<br>frown<br>later<br>voice<br>peasant<br>kingdom<br>ankle |  
+| bip_39_word_new_br2 | coil<br>security |  
+| bip_39_word_new_br3 | coil<br>security<br>swear |  
+| bip_39_word_new_br4 | coil<br>security<br>swear<br>divide |  
+| bip_39_word_new_br5 | coil<br>security<br>swear<br>divide<br>arrive |  
+| bip_39_word_new_br6 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate |  
+| bip_39_word_new_br7 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate<br>frown |  
+| bip_39_word_new_br8 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate<br>frown<br>later |  
+| bip_39_word_new_br9 | coil<br>security<br>swear<br>divide<br>arrive<br>rotate<br>frown<br>later<br>voice |  
+| bip_39_word_new_line1 | coil |  
+| bip_39_word_new_line10 | coil
+security
+swear
+divide
+arrive
+rotate
+frown
+later
+voice
+peasant |  
+| bip_39_word_new_line11 | coil
+security
+swear
+divide
+arrive
+rotate
+frown
+later
+voice
+peasant
+kingdom |  
+| bip_39_word_new_line12 | coil
+security
+swear
+divide
+arrive
+rotate
+frown
+later
+voice
+peasant
+kingdom
+ankle |  
+| bip_39_word_new_line2 | coil
+security |  
+| bip_39_word_new_line3 | coil
+security
+swear |  
+| bip_39_word_new_line4 | coil
+security
+swear
+divide |  
+| bip_39_word_new_line5 | coil
+security
+swear
+divide
+arrive |  
+| bip_39_word_new_line6 | coil
+security
+swear
+divide
+arrive
+rotate |  
+| bip_39_word_new_line7 | coil
+security
+swear
+divide
+arrive
+rotate
+frown |  
+| bip_39_word_new_line8 | coil
+security
+swear
+divide
+arrive
+rotate
+frown
+later |  
+| bip_39_word_new_line9 | coil
+security
+swear
+divide
+arrive
+rotate
+frown
+later
+voice |  
+| bip_39_word_space_0 | ['coil', 'security', 'swear', 'divide', 'arrive', 'rotate', 'frown', 'later', 'voice', 'peasant', 'kingdom', 'ankle'] |  
+| bip_39_word_space_1 | coil |  
+| bip_39_word_space_10 | coil security swear divide arrive rotate frown later voice peasant |  
+| bip_39_word_space_11 | coil security swear divide arrive rotate frown later voice peasant kingdom |  
+| bip_39_word_space_12 | coil security swear divide arrive rotate frown later voice peasant kingdom ankle |  
+| bip_39_word_space_2 | coil security |  
+| bip_39_word_space_3 | coil security swear |  
+| bip_39_word_space_4 | coil security swear divide |  
+| bip_39_word_space_5 | coil security swear divide arrive |  
+| bip_39_word_space_6 | coil security swear divide arrive rotate |  
+| bip_39_word_space_7 | coil security swear divide arrive rotate frown |  
+| bip_39_word_space_8 | coil security swear divide arrive rotate frown later |  
+| bip_39_word_space_9 | coil security swear divide arrive rotate frown later voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arrow promote
+  * bip 39 word 3: arrow promote heavy
+  * bip 39 word: arrow promote heavy express high knife above one cactus either transfer anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arrow |  
+| bip_39_word_new_br10 | arrow<br>promote<br>heavy<br>express<br>high<br>knife<br>above<br>one<br>cactus<br>either |  
+| bip_39_word_new_br11 | arrow<br>promote<br>heavy<br>express<br>high<br>knife<br>above<br>one<br>cactus<br>either<br>transfer |  
+| bip_39_word_new_br12 | arrow<br>promote<br>heavy<br>express<br>high<br>knife<br>above<br>one<br>cactus<br>either<br>transfer<br>anchor |  
+| bip_39_word_new_br2 | arrow<br>promote |  
+| bip_39_word_new_br3 | arrow<br>promote<br>heavy |  
+| bip_39_word_new_br4 | arrow<br>promote<br>heavy<br>express |  
+| bip_39_word_new_br5 | arrow<br>promote<br>heavy<br>express<br>high |  
+| bip_39_word_new_br6 | arrow<br>promote<br>heavy<br>express<br>high<br>knife |  
+| bip_39_word_new_br7 | arrow<br>promote<br>heavy<br>express<br>high<br>knife<br>above |  
+| bip_39_word_new_br8 | arrow<br>promote<br>heavy<br>express<br>high<br>knife<br>above<br>one |  
+| bip_39_word_new_br9 | arrow<br>promote<br>heavy<br>express<br>high<br>knife<br>above<br>one<br>cactus |  
+| bip_39_word_new_line1 | arrow |  
+| bip_39_word_new_line10 | arrow
+promote
+heavy
+express
+high
+knife
+above
+one
+cactus
+either |  
+| bip_39_word_new_line11 | arrow
+promote
+heavy
+express
+high
+knife
+above
+one
+cactus
+either
+transfer |  
+| bip_39_word_new_line12 | arrow
+promote
+heavy
+express
+high
+knife
+above
+one
+cactus
+either
+transfer
+anchor |  
+| bip_39_word_new_line2 | arrow
+promote |  
+| bip_39_word_new_line3 | arrow
+promote
+heavy |  
+| bip_39_word_new_line4 | arrow
+promote
+heavy
+express |  
+| bip_39_word_new_line5 | arrow
+promote
+heavy
+express
+high |  
+| bip_39_word_new_line6 | arrow
+promote
+heavy
+express
+high
+knife |  
+| bip_39_word_new_line7 | arrow
+promote
+heavy
+express
+high
+knife
+above |  
+| bip_39_word_new_line8 | arrow
+promote
+heavy
+express
+high
+knife
+above
+one |  
+| bip_39_word_new_line9 | arrow
+promote
+heavy
+express
+high
+knife
+above
+one
+cactus |  
+| bip_39_word_space_0 | ['arrow', 'promote', 'heavy', 'express', 'high', 'knife', 'above', 'one', 'cactus', 'either', 'transfer', 'anchor'] |  
+| bip_39_word_space_1 | arrow |  
+| bip_39_word_space_10 | arrow promote heavy express high knife above one cactus either |  
+| bip_39_word_space_11 | arrow promote heavy express high knife above one cactus either transfer |  
+| bip_39_word_space_12 | arrow promote heavy express high knife above one cactus either transfer anchor |  
+| bip_39_word_space_2 | arrow promote |  
+| bip_39_word_space_3 | arrow promote heavy |  
+| bip_39_word_space_4 | arrow promote heavy express |  
+| bip_39_word_space_5 | arrow promote heavy express high |  
+| bip_39_word_space_6 | arrow promote heavy express high knife |  
+| bip_39_word_space_7 | arrow promote heavy express high knife above |  
+| bip_39_word_space_8 | arrow promote heavy express high knife above one |  
+| bip_39_word_space_9 | arrow promote heavy express high knife above one cactus |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

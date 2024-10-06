@@ -1,3 +1,187 @@
+bip_39_word_new_br1: theme
+bip_39_word_new_br10: theme<br>decorate<br>trigger<br>network<br>sign<br>margin<br>inside<br>trade<br>grain<br>auto
+bip_39_word_new_br11: theme<br>decorate<br>trigger<br>network<br>sign<br>margin<br>inside<br>trade<br>grain<br>auto<br>gaze
+bip_39_word_new_br12: theme<br>decorate<br>trigger<br>network<br>sign<br>margin<br>inside<br>trade<br>grain<br>auto<br>gaze<br>arrange
+bip_39_word_new_br2: theme<br>decorate
+bip_39_word_new_br3: theme<br>decorate<br>trigger
+bip_39_word_new_br4: theme<br>decorate<br>trigger<br>network
+bip_39_word_new_br5: theme<br>decorate<br>trigger<br>network<br>sign
+bip_39_word_new_br6: theme<br>decorate<br>trigger<br>network<br>sign<br>margin
+bip_39_word_new_br7: theme<br>decorate<br>trigger<br>network<br>sign<br>margin<br>inside
+bip_39_word_new_br8: theme<br>decorate<br>trigger<br>network<br>sign<br>margin<br>inside<br>trade
+bip_39_word_new_br9: theme<br>decorate<br>trigger<br>network<br>sign<br>margin<br>inside<br>trade<br>grain
+bip_39_word_new_line1: theme
+bip_39_word_new_line10: 'theme
+
+  decorate
+
+  trigger
+
+  network
+
+  sign
+
+  margin
+
+  inside
+
+  trade
+
+  grain
+
+  auto'
+bip_39_word_new_line11: 'theme
+
+  decorate
+
+  trigger
+
+  network
+
+  sign
+
+  margin
+
+  inside
+
+  trade
+
+  grain
+
+  auto
+
+  gaze'
+bip_39_word_new_line12: 'theme
+
+  decorate
+
+  trigger
+
+  network
+
+  sign
+
+  margin
+
+  inside
+
+  trade
+
+  grain
+
+  auto
+
+  gaze
+
+  arrange'
+bip_39_word_new_line2: 'theme
+
+  decorate'
+bip_39_word_new_line3: 'theme
+
+  decorate
+
+  trigger'
+bip_39_word_new_line4: 'theme
+
+  decorate
+
+  trigger
+
+  network'
+bip_39_word_new_line5: 'theme
+
+  decorate
+
+  trigger
+
+  network
+
+  sign'
+bip_39_word_new_line6: 'theme
+
+  decorate
+
+  trigger
+
+  network
+
+  sign
+
+  margin'
+bip_39_word_new_line7: 'theme
+
+  decorate
+
+  trigger
+
+  network
+
+  sign
+
+  margin
+
+  inside'
+bip_39_word_new_line8: 'theme
+
+  decorate
+
+  trigger
+
+  network
+
+  sign
+
+  margin
+
+  inside
+
+  trade'
+bip_39_word_new_line9: 'theme
+
+  decorate
+
+  trigger
+
+  network
+
+  sign
+
+  margin
+
+  inside
+
+  trade
+
+  grain'
+bip_39_word_space_0:
+- theme
+- decorate
+- trigger
+- network
+- sign
+- margin
+- inside
+- trade
+- grain
+- auto
+- gaze
+- arrange
+bip_39_word_space_1: theme
+bip_39_word_space_10: theme decorate trigger network sign margin inside trade grain
+  auto
+bip_39_word_space_11: theme decorate trigger network sign margin inside trade grain
+  auto gaze
+bip_39_word_space_12: theme decorate trigger network sign margin inside trade grain
+  auto gaze arrange
+bip_39_word_space_2: theme decorate
+bip_39_word_space_3: theme decorate trigger
+bip_39_word_space_4: theme decorate trigger network
+bip_39_word_space_5: theme decorate trigger network sign
+bip_39_word_space_6: theme decorate trigger network sign margin
+bip_39_word_space_7: theme decorate trigger network sign margin inside
+bip_39_word_space_8: theme decorate trigger network sign margin inside trade
+bip_39_word_space_9: theme decorate trigger network sign margin inside trade grain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

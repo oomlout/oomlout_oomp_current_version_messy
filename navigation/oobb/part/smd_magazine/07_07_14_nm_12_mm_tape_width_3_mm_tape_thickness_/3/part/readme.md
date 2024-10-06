@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: appear keen
+  * bip 39 word 3: appear keen party
+  * bip 39 word: appear keen party large define nurse chaos farm yard save foster alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | appear |  
+| bip_39_word_new_br10 | appear<br>keen<br>party<br>large<br>define<br>nurse<br>chaos<br>farm<br>yard<br>save |  
+| bip_39_word_new_br11 | appear<br>keen<br>party<br>large<br>define<br>nurse<br>chaos<br>farm<br>yard<br>save<br>foster |  
+| bip_39_word_new_br12 | appear<br>keen<br>party<br>large<br>define<br>nurse<br>chaos<br>farm<br>yard<br>save<br>foster<br>alien |  
+| bip_39_word_new_br2 | appear<br>keen |  
+| bip_39_word_new_br3 | appear<br>keen<br>party |  
+| bip_39_word_new_br4 | appear<br>keen<br>party<br>large |  
+| bip_39_word_new_br5 | appear<br>keen<br>party<br>large<br>define |  
+| bip_39_word_new_br6 | appear<br>keen<br>party<br>large<br>define<br>nurse |  
+| bip_39_word_new_br7 | appear<br>keen<br>party<br>large<br>define<br>nurse<br>chaos |  
+| bip_39_word_new_br8 | appear<br>keen<br>party<br>large<br>define<br>nurse<br>chaos<br>farm |  
+| bip_39_word_new_br9 | appear<br>keen<br>party<br>large<br>define<br>nurse<br>chaos<br>farm<br>yard |  
+| bip_39_word_new_line1 | appear |  
+| bip_39_word_new_line10 | appear
+keen
+party
+large
+define
+nurse
+chaos
+farm
+yard
+save |  
+| bip_39_word_new_line11 | appear
+keen
+party
+large
+define
+nurse
+chaos
+farm
+yard
+save
+foster |  
+| bip_39_word_new_line12 | appear
+keen
+party
+large
+define
+nurse
+chaos
+farm
+yard
+save
+foster
+alien |  
+| bip_39_word_new_line2 | appear
+keen |  
+| bip_39_word_new_line3 | appear
+keen
+party |  
+| bip_39_word_new_line4 | appear
+keen
+party
+large |  
+| bip_39_word_new_line5 | appear
+keen
+party
+large
+define |  
+| bip_39_word_new_line6 | appear
+keen
+party
+large
+define
+nurse |  
+| bip_39_word_new_line7 | appear
+keen
+party
+large
+define
+nurse
+chaos |  
+| bip_39_word_new_line8 | appear
+keen
+party
+large
+define
+nurse
+chaos
+farm |  
+| bip_39_word_new_line9 | appear
+keen
+party
+large
+define
+nurse
+chaos
+farm
+yard |  
+| bip_39_word_space_0 | ['appear', 'keen', 'party', 'large', 'define', 'nurse', 'chaos', 'farm', 'yard', 'save', 'foster', 'alien'] |  
+| bip_39_word_space_1 | appear |  
+| bip_39_word_space_10 | appear keen party large define nurse chaos farm yard save |  
+| bip_39_word_space_11 | appear keen party large define nurse chaos farm yard save foster |  
+| bip_39_word_space_12 | appear keen party large define nurse chaos farm yard save foster alien |  
+| bip_39_word_space_2 | appear keen |  
+| bip_39_word_space_3 | appear keen party |  
+| bip_39_word_space_4 | appear keen party large |  
+| bip_39_word_space_5 | appear keen party large define |  
+| bip_39_word_space_6 | appear keen party large define nurse |  
+| bip_39_word_space_7 | appear keen party large define nurse chaos |  
+| bip_39_word_space_8 | appear keen party large define nurse chaos farm |  
+| bip_39_word_space_9 | appear keen party large define nurse chaos farm yard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

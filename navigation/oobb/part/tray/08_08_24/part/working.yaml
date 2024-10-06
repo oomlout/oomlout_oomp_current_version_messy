@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rally
+bip_39_word_new_br10: rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion
+bip_39_word_new_br11: rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion<br>figure
+bip_39_word_new_br12: rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage<br>champion<br>figure<br>ankle
+bip_39_word_new_br2: rally<br>loud
+bip_39_word_new_br3: rally<br>loud<br>wash
+bip_39_word_new_br4: rally<br>loud<br>wash<br>bacon
+bip_39_word_new_br5: rally<br>loud<br>wash<br>bacon<br>lecture
+bip_39_word_new_br6: rally<br>loud<br>wash<br>bacon<br>lecture<br>spell
+bip_39_word_new_br7: rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit
+bip_39_word_new_br8: rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry
+bip_39_word_new_br9: rally<br>loud<br>wash<br>bacon<br>lecture<br>spell<br>omit<br>laundry<br>damage
+bip_39_word_new_line1: rally
+bip_39_word_new_line10: 'rally
+
+  loud
+
+  wash
+
+  bacon
+
+  lecture
+
+  spell
+
+  omit
+
+  laundry
+
+  damage
+
+  champion'
+bip_39_word_new_line11: 'rally
+
+  loud
+
+  wash
+
+  bacon
+
+  lecture
+
+  spell
+
+  omit
+
+  laundry
+
+  damage
+
+  champion
+
+  figure'
+bip_39_word_new_line12: 'rally
+
+  loud
+
+  wash
+
+  bacon
+
+  lecture
+
+  spell
+
+  omit
+
+  laundry
+
+  damage
+
+  champion
+
+  figure
+
+  ankle'
+bip_39_word_new_line2: 'rally
+
+  loud'
+bip_39_word_new_line3: 'rally
+
+  loud
+
+  wash'
+bip_39_word_new_line4: 'rally
+
+  loud
+
+  wash
+
+  bacon'
+bip_39_word_new_line5: 'rally
+
+  loud
+
+  wash
+
+  bacon
+
+  lecture'
+bip_39_word_new_line6: 'rally
+
+  loud
+
+  wash
+
+  bacon
+
+  lecture
+
+  spell'
+bip_39_word_new_line7: 'rally
+
+  loud
+
+  wash
+
+  bacon
+
+  lecture
+
+  spell
+
+  omit'
+bip_39_word_new_line8: 'rally
+
+  loud
+
+  wash
+
+  bacon
+
+  lecture
+
+  spell
+
+  omit
+
+  laundry'
+bip_39_word_new_line9: 'rally
+
+  loud
+
+  wash
+
+  bacon
+
+  lecture
+
+  spell
+
+  omit
+
+  laundry
+
+  damage'
+bip_39_word_space_0:
+- rally
+- loud
+- wash
+- bacon
+- lecture
+- spell
+- omit
+- laundry
+- damage
+- champion
+- figure
+- ankle
+bip_39_word_space_1: rally
+bip_39_word_space_10: rally loud wash bacon lecture spell omit laundry damage champion
+bip_39_word_space_11: rally loud wash bacon lecture spell omit laundry damage champion
+  figure
+bip_39_word_space_12: rally loud wash bacon lecture spell omit laundry damage champion
+  figure ankle
+bip_39_word_space_2: rally loud
+bip_39_word_space_3: rally loud wash
+bip_39_word_space_4: rally loud wash bacon
+bip_39_word_space_5: rally loud wash bacon lecture
+bip_39_word_space_6: rally loud wash bacon lecture spell
+bip_39_word_space_7: rally loud wash bacon lecture spell omit
+bip_39_word_space_8: rally loud wash bacon lecture spell omit laundry
+bip_39_word_space_9: rally loud wash bacon lecture spell omit laundry damage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

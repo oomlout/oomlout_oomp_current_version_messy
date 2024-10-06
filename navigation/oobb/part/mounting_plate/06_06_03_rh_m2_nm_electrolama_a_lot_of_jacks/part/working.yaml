@@ -1,3 +1,186 @@
+bip_39_word_new_br1: merry
+bip_39_word_new_br10: merry<br>topic<br>sick<br>monster<br>dress<br>heavy<br>grab<br>hurdle<br>wing<br>coffee
+bip_39_word_new_br11: merry<br>topic<br>sick<br>monster<br>dress<br>heavy<br>grab<br>hurdle<br>wing<br>coffee<br>number
+bip_39_word_new_br12: merry<br>topic<br>sick<br>monster<br>dress<br>heavy<br>grab<br>hurdle<br>wing<br>coffee<br>number<br>affair
+bip_39_word_new_br2: merry<br>topic
+bip_39_word_new_br3: merry<br>topic<br>sick
+bip_39_word_new_br4: merry<br>topic<br>sick<br>monster
+bip_39_word_new_br5: merry<br>topic<br>sick<br>monster<br>dress
+bip_39_word_new_br6: merry<br>topic<br>sick<br>monster<br>dress<br>heavy
+bip_39_word_new_br7: merry<br>topic<br>sick<br>monster<br>dress<br>heavy<br>grab
+bip_39_word_new_br8: merry<br>topic<br>sick<br>monster<br>dress<br>heavy<br>grab<br>hurdle
+bip_39_word_new_br9: merry<br>topic<br>sick<br>monster<br>dress<br>heavy<br>grab<br>hurdle<br>wing
+bip_39_word_new_line1: merry
+bip_39_word_new_line10: 'merry
+
+  topic
+
+  sick
+
+  monster
+
+  dress
+
+  heavy
+
+  grab
+
+  hurdle
+
+  wing
+
+  coffee'
+bip_39_word_new_line11: 'merry
+
+  topic
+
+  sick
+
+  monster
+
+  dress
+
+  heavy
+
+  grab
+
+  hurdle
+
+  wing
+
+  coffee
+
+  number'
+bip_39_word_new_line12: 'merry
+
+  topic
+
+  sick
+
+  monster
+
+  dress
+
+  heavy
+
+  grab
+
+  hurdle
+
+  wing
+
+  coffee
+
+  number
+
+  affair'
+bip_39_word_new_line2: 'merry
+
+  topic'
+bip_39_word_new_line3: 'merry
+
+  topic
+
+  sick'
+bip_39_word_new_line4: 'merry
+
+  topic
+
+  sick
+
+  monster'
+bip_39_word_new_line5: 'merry
+
+  topic
+
+  sick
+
+  monster
+
+  dress'
+bip_39_word_new_line6: 'merry
+
+  topic
+
+  sick
+
+  monster
+
+  dress
+
+  heavy'
+bip_39_word_new_line7: 'merry
+
+  topic
+
+  sick
+
+  monster
+
+  dress
+
+  heavy
+
+  grab'
+bip_39_word_new_line8: 'merry
+
+  topic
+
+  sick
+
+  monster
+
+  dress
+
+  heavy
+
+  grab
+
+  hurdle'
+bip_39_word_new_line9: 'merry
+
+  topic
+
+  sick
+
+  monster
+
+  dress
+
+  heavy
+
+  grab
+
+  hurdle
+
+  wing'
+bip_39_word_space_0:
+- merry
+- topic
+- sick
+- monster
+- dress
+- heavy
+- grab
+- hurdle
+- wing
+- coffee
+- number
+- affair
+bip_39_word_space_1: merry
+bip_39_word_space_10: merry topic sick monster dress heavy grab hurdle wing coffee
+bip_39_word_space_11: merry topic sick monster dress heavy grab hurdle wing coffee
+  number
+bip_39_word_space_12: merry topic sick monster dress heavy grab hurdle wing coffee
+  number affair
+bip_39_word_space_2: merry topic
+bip_39_word_space_3: merry topic sick
+bip_39_word_space_4: merry topic sick monster
+bip_39_word_space_5: merry topic sick monster dress
+bip_39_word_space_6: merry topic sick monster dress heavy
+bip_39_word_space_7: merry topic sick monster dress heavy grab
+bip_39_word_space_8: merry topic sick monster dress heavy grab hurdle
+bip_39_word_space_9: merry topic sick monster dress heavy grab hurdle wing
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

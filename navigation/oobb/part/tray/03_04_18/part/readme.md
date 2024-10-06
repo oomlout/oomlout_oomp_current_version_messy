@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sense nerve
+  * bip 39 word 3: sense nerve fade
+  * bip 39 word: sense nerve fade shock nice table maximum size duck sphere steel almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sense |  
+| bip_39_word_new_br10 | sense<br>nerve<br>fade<br>shock<br>nice<br>table<br>maximum<br>size<br>duck<br>sphere |  
+| bip_39_word_new_br11 | sense<br>nerve<br>fade<br>shock<br>nice<br>table<br>maximum<br>size<br>duck<br>sphere<br>steel |  
+| bip_39_word_new_br12 | sense<br>nerve<br>fade<br>shock<br>nice<br>table<br>maximum<br>size<br>duck<br>sphere<br>steel<br>almost |  
+| bip_39_word_new_br2 | sense<br>nerve |  
+| bip_39_word_new_br3 | sense<br>nerve<br>fade |  
+| bip_39_word_new_br4 | sense<br>nerve<br>fade<br>shock |  
+| bip_39_word_new_br5 | sense<br>nerve<br>fade<br>shock<br>nice |  
+| bip_39_word_new_br6 | sense<br>nerve<br>fade<br>shock<br>nice<br>table |  
+| bip_39_word_new_br7 | sense<br>nerve<br>fade<br>shock<br>nice<br>table<br>maximum |  
+| bip_39_word_new_br8 | sense<br>nerve<br>fade<br>shock<br>nice<br>table<br>maximum<br>size |  
+| bip_39_word_new_br9 | sense<br>nerve<br>fade<br>shock<br>nice<br>table<br>maximum<br>size<br>duck |  
+| bip_39_word_new_line1 | sense |  
+| bip_39_word_new_line10 | sense
+nerve
+fade
+shock
+nice
+table
+maximum
+size
+duck
+sphere |  
+| bip_39_word_new_line11 | sense
+nerve
+fade
+shock
+nice
+table
+maximum
+size
+duck
+sphere
+steel |  
+| bip_39_word_new_line12 | sense
+nerve
+fade
+shock
+nice
+table
+maximum
+size
+duck
+sphere
+steel
+almost |  
+| bip_39_word_new_line2 | sense
+nerve |  
+| bip_39_word_new_line3 | sense
+nerve
+fade |  
+| bip_39_word_new_line4 | sense
+nerve
+fade
+shock |  
+| bip_39_word_new_line5 | sense
+nerve
+fade
+shock
+nice |  
+| bip_39_word_new_line6 | sense
+nerve
+fade
+shock
+nice
+table |  
+| bip_39_word_new_line7 | sense
+nerve
+fade
+shock
+nice
+table
+maximum |  
+| bip_39_word_new_line8 | sense
+nerve
+fade
+shock
+nice
+table
+maximum
+size |  
+| bip_39_word_new_line9 | sense
+nerve
+fade
+shock
+nice
+table
+maximum
+size
+duck |  
+| bip_39_word_space_0 | ['sense', 'nerve', 'fade', 'shock', 'nice', 'table', 'maximum', 'size', 'duck', 'sphere', 'steel', 'almost'] |  
+| bip_39_word_space_1 | sense |  
+| bip_39_word_space_10 | sense nerve fade shock nice table maximum size duck sphere |  
+| bip_39_word_space_11 | sense nerve fade shock nice table maximum size duck sphere steel |  
+| bip_39_word_space_12 | sense nerve fade shock nice table maximum size duck sphere steel almost |  
+| bip_39_word_space_2 | sense nerve |  
+| bip_39_word_space_3 | sense nerve fade |  
+| bip_39_word_space_4 | sense nerve fade shock |  
+| bip_39_word_space_5 | sense nerve fade shock nice |  
+| bip_39_word_space_6 | sense nerve fade shock nice table |  
+| bip_39_word_space_7 | sense nerve fade shock nice table maximum |  
+| bip_39_word_space_8 | sense nerve fade shock nice table maximum size |  
+| bip_39_word_space_9 | sense nerve fade shock nice table maximum size duck |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ankle hurdle
+  * bip 39 word 3: ankle hurdle tuna
+  * bip 39 word: ankle hurdle tuna cash practice sniff apology surprise keen just winter author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ankle |  
+| bip_39_word_new_br10 | ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff<br>apology<br>surprise<br>keen<br>just |  
+| bip_39_word_new_br11 | ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff<br>apology<br>surprise<br>keen<br>just<br>winter |  
+| bip_39_word_new_br12 | ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff<br>apology<br>surprise<br>keen<br>just<br>winter<br>author |  
+| bip_39_word_new_br2 | ankle<br>hurdle |  
+| bip_39_word_new_br3 | ankle<br>hurdle<br>tuna |  
+| bip_39_word_new_br4 | ankle<br>hurdle<br>tuna<br>cash |  
+| bip_39_word_new_br5 | ankle<br>hurdle<br>tuna<br>cash<br>practice |  
+| bip_39_word_new_br6 | ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff |  
+| bip_39_word_new_br7 | ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff<br>apology |  
+| bip_39_word_new_br8 | ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff<br>apology<br>surprise |  
+| bip_39_word_new_br9 | ankle<br>hurdle<br>tuna<br>cash<br>practice<br>sniff<br>apology<br>surprise<br>keen |  
+| bip_39_word_new_line1 | ankle |  
+| bip_39_word_new_line10 | ankle
+hurdle
+tuna
+cash
+practice
+sniff
+apology
+surprise
+keen
+just |  
+| bip_39_word_new_line11 | ankle
+hurdle
+tuna
+cash
+practice
+sniff
+apology
+surprise
+keen
+just
+winter |  
+| bip_39_word_new_line12 | ankle
+hurdle
+tuna
+cash
+practice
+sniff
+apology
+surprise
+keen
+just
+winter
+author |  
+| bip_39_word_new_line2 | ankle
+hurdle |  
+| bip_39_word_new_line3 | ankle
+hurdle
+tuna |  
+| bip_39_word_new_line4 | ankle
+hurdle
+tuna
+cash |  
+| bip_39_word_new_line5 | ankle
+hurdle
+tuna
+cash
+practice |  
+| bip_39_word_new_line6 | ankle
+hurdle
+tuna
+cash
+practice
+sniff |  
+| bip_39_word_new_line7 | ankle
+hurdle
+tuna
+cash
+practice
+sniff
+apology |  
+| bip_39_word_new_line8 | ankle
+hurdle
+tuna
+cash
+practice
+sniff
+apology
+surprise |  
+| bip_39_word_new_line9 | ankle
+hurdle
+tuna
+cash
+practice
+sniff
+apology
+surprise
+keen |  
+| bip_39_word_space_0 | ['ankle', 'hurdle', 'tuna', 'cash', 'practice', 'sniff', 'apology', 'surprise', 'keen', 'just', 'winter', 'author'] |  
+| bip_39_word_space_1 | ankle |  
+| bip_39_word_space_10 | ankle hurdle tuna cash practice sniff apology surprise keen just |  
+| bip_39_word_space_11 | ankle hurdle tuna cash practice sniff apology surprise keen just winter |  
+| bip_39_word_space_12 | ankle hurdle tuna cash practice sniff apology surprise keen just winter author |  
+| bip_39_word_space_2 | ankle hurdle |  
+| bip_39_word_space_3 | ankle hurdle tuna |  
+| bip_39_word_space_4 | ankle hurdle tuna cash |  
+| bip_39_word_space_5 | ankle hurdle tuna cash practice |  
+| bip_39_word_space_6 | ankle hurdle tuna cash practice sniff |  
+| bip_39_word_space_7 | ankle hurdle tuna cash practice sniff apology |  
+| bip_39_word_space_8 | ankle hurdle tuna cash practice sniff apology surprise |  
+| bip_39_word_space_9 | ankle hurdle tuna cash practice sniff apology surprise keen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

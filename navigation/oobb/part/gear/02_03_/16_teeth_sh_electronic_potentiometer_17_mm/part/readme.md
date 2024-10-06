@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: expose cash
+  * bip 39 word 3: expose cash debris
+  * bip 39 word: expose cash debris drive hand success tail fame custom color follow amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | expose |  
+| bip_39_word_new_br10 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color |  
+| bip_39_word_new_br11 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color<br>follow |  
+| bip_39_word_new_br12 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom<br>color<br>follow<br>amateur |  
+| bip_39_word_new_br2 | expose<br>cash |  
+| bip_39_word_new_br3 | expose<br>cash<br>debris |  
+| bip_39_word_new_br4 | expose<br>cash<br>debris<br>drive |  
+| bip_39_word_new_br5 | expose<br>cash<br>debris<br>drive<br>hand |  
+| bip_39_word_new_br6 | expose<br>cash<br>debris<br>drive<br>hand<br>success |  
+| bip_39_word_new_br7 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail |  
+| bip_39_word_new_br8 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame |  
+| bip_39_word_new_br9 | expose<br>cash<br>debris<br>drive<br>hand<br>success<br>tail<br>fame<br>custom |  
+| bip_39_word_new_line1 | expose |  
+| bip_39_word_new_line10 | expose
+cash
+debris
+drive
+hand
+success
+tail
+fame
+custom
+color |  
+| bip_39_word_new_line11 | expose
+cash
+debris
+drive
+hand
+success
+tail
+fame
+custom
+color
+follow |  
+| bip_39_word_new_line12 | expose
+cash
+debris
+drive
+hand
+success
+tail
+fame
+custom
+color
+follow
+amateur |  
+| bip_39_word_new_line2 | expose
+cash |  
+| bip_39_word_new_line3 | expose
+cash
+debris |  
+| bip_39_word_new_line4 | expose
+cash
+debris
+drive |  
+| bip_39_word_new_line5 | expose
+cash
+debris
+drive
+hand |  
+| bip_39_word_new_line6 | expose
+cash
+debris
+drive
+hand
+success |  
+| bip_39_word_new_line7 | expose
+cash
+debris
+drive
+hand
+success
+tail |  
+| bip_39_word_new_line8 | expose
+cash
+debris
+drive
+hand
+success
+tail
+fame |  
+| bip_39_word_new_line9 | expose
+cash
+debris
+drive
+hand
+success
+tail
+fame
+custom |  
+| bip_39_word_space_0 | ['expose', 'cash', 'debris', 'drive', 'hand', 'success', 'tail', 'fame', 'custom', 'color', 'follow', 'amateur'] |  
+| bip_39_word_space_1 | expose |  
+| bip_39_word_space_10 | expose cash debris drive hand success tail fame custom color |  
+| bip_39_word_space_11 | expose cash debris drive hand success tail fame custom color follow |  
+| bip_39_word_space_12 | expose cash debris drive hand success tail fame custom color follow amateur |  
+| bip_39_word_space_2 | expose cash |  
+| bip_39_word_space_3 | expose cash debris |  
+| bip_39_word_space_4 | expose cash debris drive |  
+| bip_39_word_space_5 | expose cash debris drive hand |  
+| bip_39_word_space_6 | expose cash debris drive hand success |  
+| bip_39_word_space_7 | expose cash debris drive hand success tail |  
+| bip_39_word_space_8 | expose cash debris drive hand success tail fame |  
+| bip_39_word_space_9 | expose cash debris drive hand success tail fame custom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

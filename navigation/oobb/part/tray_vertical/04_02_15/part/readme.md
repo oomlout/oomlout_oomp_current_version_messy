@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spring domain
+  * bip 39 word 3: spring domain half
+  * bip 39 word: spring domain half bulb sword orient force glad figure bonus access alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spring |  
+| bip_39_word_new_br10 | spring<br>domain<br>half<br>bulb<br>sword<br>orient<br>force<br>glad<br>figure<br>bonus |  
+| bip_39_word_new_br11 | spring<br>domain<br>half<br>bulb<br>sword<br>orient<br>force<br>glad<br>figure<br>bonus<br>access |  
+| bip_39_word_new_br12 | spring<br>domain<br>half<br>bulb<br>sword<br>orient<br>force<br>glad<br>figure<br>bonus<br>access<br>alter |  
+| bip_39_word_new_br2 | spring<br>domain |  
+| bip_39_word_new_br3 | spring<br>domain<br>half |  
+| bip_39_word_new_br4 | spring<br>domain<br>half<br>bulb |  
+| bip_39_word_new_br5 | spring<br>domain<br>half<br>bulb<br>sword |  
+| bip_39_word_new_br6 | spring<br>domain<br>half<br>bulb<br>sword<br>orient |  
+| bip_39_word_new_br7 | spring<br>domain<br>half<br>bulb<br>sword<br>orient<br>force |  
+| bip_39_word_new_br8 | spring<br>domain<br>half<br>bulb<br>sword<br>orient<br>force<br>glad |  
+| bip_39_word_new_br9 | spring<br>domain<br>half<br>bulb<br>sword<br>orient<br>force<br>glad<br>figure |  
+| bip_39_word_new_line1 | spring |  
+| bip_39_word_new_line10 | spring
+domain
+half
+bulb
+sword
+orient
+force
+glad
+figure
+bonus |  
+| bip_39_word_new_line11 | spring
+domain
+half
+bulb
+sword
+orient
+force
+glad
+figure
+bonus
+access |  
+| bip_39_word_new_line12 | spring
+domain
+half
+bulb
+sword
+orient
+force
+glad
+figure
+bonus
+access
+alter |  
+| bip_39_word_new_line2 | spring
+domain |  
+| bip_39_word_new_line3 | spring
+domain
+half |  
+| bip_39_word_new_line4 | spring
+domain
+half
+bulb |  
+| bip_39_word_new_line5 | spring
+domain
+half
+bulb
+sword |  
+| bip_39_word_new_line6 | spring
+domain
+half
+bulb
+sword
+orient |  
+| bip_39_word_new_line7 | spring
+domain
+half
+bulb
+sword
+orient
+force |  
+| bip_39_word_new_line8 | spring
+domain
+half
+bulb
+sword
+orient
+force
+glad |  
+| bip_39_word_new_line9 | spring
+domain
+half
+bulb
+sword
+orient
+force
+glad
+figure |  
+| bip_39_word_space_0 | ['spring', 'domain', 'half', 'bulb', 'sword', 'orient', 'force', 'glad', 'figure', 'bonus', 'access', 'alter'] |  
+| bip_39_word_space_1 | spring |  
+| bip_39_word_space_10 | spring domain half bulb sword orient force glad figure bonus |  
+| bip_39_word_space_11 | spring domain half bulb sword orient force glad figure bonus access |  
+| bip_39_word_space_12 | spring domain half bulb sword orient force glad figure bonus access alter |  
+| bip_39_word_space_2 | spring domain |  
+| bip_39_word_space_3 | spring domain half |  
+| bip_39_word_space_4 | spring domain half bulb |  
+| bip_39_word_space_5 | spring domain half bulb sword |  
+| bip_39_word_space_6 | spring domain half bulb sword orient |  
+| bip_39_word_space_7 | spring domain half bulb sword orient force |  
+| bip_39_word_space_8 | spring domain half bulb sword orient force glad |  
+| bip_39_word_space_9 | spring domain half bulb sword orient force glad figure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

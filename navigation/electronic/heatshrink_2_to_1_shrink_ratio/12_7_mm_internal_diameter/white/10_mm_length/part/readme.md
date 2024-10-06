@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jewel expire
+  * bip 39 word 3: jewel expire piano
+  * bip 39 word: jewel expire piano team under method evidence pink between must track attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jewel |  
+| bip_39_word_new_br10 | jewel<br>expire<br>piano<br>team<br>under<br>method<br>evidence<br>pink<br>between<br>must |  
+| bip_39_word_new_br11 | jewel<br>expire<br>piano<br>team<br>under<br>method<br>evidence<br>pink<br>between<br>must<br>track |  
+| bip_39_word_new_br12 | jewel<br>expire<br>piano<br>team<br>under<br>method<br>evidence<br>pink<br>between<br>must<br>track<br>attitude |  
+| bip_39_word_new_br2 | jewel<br>expire |  
+| bip_39_word_new_br3 | jewel<br>expire<br>piano |  
+| bip_39_word_new_br4 | jewel<br>expire<br>piano<br>team |  
+| bip_39_word_new_br5 | jewel<br>expire<br>piano<br>team<br>under |  
+| bip_39_word_new_br6 | jewel<br>expire<br>piano<br>team<br>under<br>method |  
+| bip_39_word_new_br7 | jewel<br>expire<br>piano<br>team<br>under<br>method<br>evidence |  
+| bip_39_word_new_br8 | jewel<br>expire<br>piano<br>team<br>under<br>method<br>evidence<br>pink |  
+| bip_39_word_new_br9 | jewel<br>expire<br>piano<br>team<br>under<br>method<br>evidence<br>pink<br>between |  
+| bip_39_word_new_line1 | jewel |  
+| bip_39_word_new_line10 | jewel
+expire
+piano
+team
+under
+method
+evidence
+pink
+between
+must |  
+| bip_39_word_new_line11 | jewel
+expire
+piano
+team
+under
+method
+evidence
+pink
+between
+must
+track |  
+| bip_39_word_new_line12 | jewel
+expire
+piano
+team
+under
+method
+evidence
+pink
+between
+must
+track
+attitude |  
+| bip_39_word_new_line2 | jewel
+expire |  
+| bip_39_word_new_line3 | jewel
+expire
+piano |  
+| bip_39_word_new_line4 | jewel
+expire
+piano
+team |  
+| bip_39_word_new_line5 | jewel
+expire
+piano
+team
+under |  
+| bip_39_word_new_line6 | jewel
+expire
+piano
+team
+under
+method |  
+| bip_39_word_new_line7 | jewel
+expire
+piano
+team
+under
+method
+evidence |  
+| bip_39_word_new_line8 | jewel
+expire
+piano
+team
+under
+method
+evidence
+pink |  
+| bip_39_word_new_line9 | jewel
+expire
+piano
+team
+under
+method
+evidence
+pink
+between |  
+| bip_39_word_space_0 | ['jewel', 'expire', 'piano', 'team', 'under', 'method', 'evidence', 'pink', 'between', 'must', 'track', 'attitude'] |  
+| bip_39_word_space_1 | jewel |  
+| bip_39_word_space_10 | jewel expire piano team under method evidence pink between must |  
+| bip_39_word_space_11 | jewel expire piano team under method evidence pink between must track |  
+| bip_39_word_space_12 | jewel expire piano team under method evidence pink between must track attitude |  
+| bip_39_word_space_2 | jewel expire |  
+| bip_39_word_space_3 | jewel expire piano |  
+| bip_39_word_space_4 | jewel expire piano team |  
+| bip_39_word_space_5 | jewel expire piano team under |  
+| bip_39_word_space_6 | jewel expire piano team under method |  
+| bip_39_word_space_7 | jewel expire piano team under method evidence |  
+| bip_39_word_space_8 | jewel expire piano team under method evidence pink |  
+| bip_39_word_space_9 | jewel expire piano team under method evidence pink between |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

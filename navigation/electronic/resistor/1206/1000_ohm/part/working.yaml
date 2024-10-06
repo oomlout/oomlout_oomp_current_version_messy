@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tackle
+bip_39_word_new_br10: tackle<br>shine<br>pulse<br>peace<br>crawl<br>bubble<br>clay<br>ahead<br>patrol<br>accident
+bip_39_word_new_br11: tackle<br>shine<br>pulse<br>peace<br>crawl<br>bubble<br>clay<br>ahead<br>patrol<br>accident<br>voice
+bip_39_word_new_br12: tackle<br>shine<br>pulse<br>peace<br>crawl<br>bubble<br>clay<br>ahead<br>patrol<br>accident<br>voice<br>alone
+bip_39_word_new_br2: tackle<br>shine
+bip_39_word_new_br3: tackle<br>shine<br>pulse
+bip_39_word_new_br4: tackle<br>shine<br>pulse<br>peace
+bip_39_word_new_br5: tackle<br>shine<br>pulse<br>peace<br>crawl
+bip_39_word_new_br6: tackle<br>shine<br>pulse<br>peace<br>crawl<br>bubble
+bip_39_word_new_br7: tackle<br>shine<br>pulse<br>peace<br>crawl<br>bubble<br>clay
+bip_39_word_new_br8: tackle<br>shine<br>pulse<br>peace<br>crawl<br>bubble<br>clay<br>ahead
+bip_39_word_new_br9: tackle<br>shine<br>pulse<br>peace<br>crawl<br>bubble<br>clay<br>ahead<br>patrol
+bip_39_word_new_line1: tackle
+bip_39_word_new_line10: 'tackle
+
+  shine
+
+  pulse
+
+  peace
+
+  crawl
+
+  bubble
+
+  clay
+
+  ahead
+
+  patrol
+
+  accident'
+bip_39_word_new_line11: 'tackle
+
+  shine
+
+  pulse
+
+  peace
+
+  crawl
+
+  bubble
+
+  clay
+
+  ahead
+
+  patrol
+
+  accident
+
+  voice'
+bip_39_word_new_line12: 'tackle
+
+  shine
+
+  pulse
+
+  peace
+
+  crawl
+
+  bubble
+
+  clay
+
+  ahead
+
+  patrol
+
+  accident
+
+  voice
+
+  alone'
+bip_39_word_new_line2: 'tackle
+
+  shine'
+bip_39_word_new_line3: 'tackle
+
+  shine
+
+  pulse'
+bip_39_word_new_line4: 'tackle
+
+  shine
+
+  pulse
+
+  peace'
+bip_39_word_new_line5: 'tackle
+
+  shine
+
+  pulse
+
+  peace
+
+  crawl'
+bip_39_word_new_line6: 'tackle
+
+  shine
+
+  pulse
+
+  peace
+
+  crawl
+
+  bubble'
+bip_39_word_new_line7: 'tackle
+
+  shine
+
+  pulse
+
+  peace
+
+  crawl
+
+  bubble
+
+  clay'
+bip_39_word_new_line8: 'tackle
+
+  shine
+
+  pulse
+
+  peace
+
+  crawl
+
+  bubble
+
+  clay
+
+  ahead'
+bip_39_word_new_line9: 'tackle
+
+  shine
+
+  pulse
+
+  peace
+
+  crawl
+
+  bubble
+
+  clay
+
+  ahead
+
+  patrol'
+bip_39_word_space_0:
+- tackle
+- shine
+- pulse
+- peace
+- crawl
+- bubble
+- clay
+- ahead
+- patrol
+- accident
+- voice
+- alone
+bip_39_word_space_1: tackle
+bip_39_word_space_10: tackle shine pulse peace crawl bubble clay ahead patrol accident
+bip_39_word_space_11: tackle shine pulse peace crawl bubble clay ahead patrol accident
+  voice
+bip_39_word_space_12: tackle shine pulse peace crawl bubble clay ahead patrol accident
+  voice alone
+bip_39_word_space_2: tackle shine
+bip_39_word_space_3: tackle shine pulse
+bip_39_word_space_4: tackle shine pulse peace
+bip_39_word_space_5: tackle shine pulse peace crawl
+bip_39_word_space_6: tackle shine pulse peace crawl bubble
+bip_39_word_space_7: tackle shine pulse peace crawl bubble clay
+bip_39_word_space_8: tackle shine pulse peace crawl bubble clay ahead
+bip_39_word_space_9: tackle shine pulse peace crawl bubble clay ahead patrol
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

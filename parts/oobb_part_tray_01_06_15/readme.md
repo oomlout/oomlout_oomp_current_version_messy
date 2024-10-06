@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: poverty injury
+  * bip 39 word 3: poverty injury turtle
+  * bip 39 word: poverty injury turtle shoulder family tiger marble chronic private parrot wagon analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | poverty |  
+| bip_39_word_new_br10 | poverty<br>injury<br>turtle<br>shoulder<br>family<br>tiger<br>marble<br>chronic<br>private<br>parrot |  
+| bip_39_word_new_br11 | poverty<br>injury<br>turtle<br>shoulder<br>family<br>tiger<br>marble<br>chronic<br>private<br>parrot<br>wagon |  
+| bip_39_word_new_br12 | poverty<br>injury<br>turtle<br>shoulder<br>family<br>tiger<br>marble<br>chronic<br>private<br>parrot<br>wagon<br>analyst |  
+| bip_39_word_new_br2 | poverty<br>injury |  
+| bip_39_word_new_br3 | poverty<br>injury<br>turtle |  
+| bip_39_word_new_br4 | poverty<br>injury<br>turtle<br>shoulder |  
+| bip_39_word_new_br5 | poverty<br>injury<br>turtle<br>shoulder<br>family |  
+| bip_39_word_new_br6 | poverty<br>injury<br>turtle<br>shoulder<br>family<br>tiger |  
+| bip_39_word_new_br7 | poverty<br>injury<br>turtle<br>shoulder<br>family<br>tiger<br>marble |  
+| bip_39_word_new_br8 | poverty<br>injury<br>turtle<br>shoulder<br>family<br>tiger<br>marble<br>chronic |  
+| bip_39_word_new_br9 | poverty<br>injury<br>turtle<br>shoulder<br>family<br>tiger<br>marble<br>chronic<br>private |  
+| bip_39_word_new_line1 | poverty |  
+| bip_39_word_new_line10 | poverty
+injury
+turtle
+shoulder
+family
+tiger
+marble
+chronic
+private
+parrot |  
+| bip_39_word_new_line11 | poverty
+injury
+turtle
+shoulder
+family
+tiger
+marble
+chronic
+private
+parrot
+wagon |  
+| bip_39_word_new_line12 | poverty
+injury
+turtle
+shoulder
+family
+tiger
+marble
+chronic
+private
+parrot
+wagon
+analyst |  
+| bip_39_word_new_line2 | poverty
+injury |  
+| bip_39_word_new_line3 | poverty
+injury
+turtle |  
+| bip_39_word_new_line4 | poverty
+injury
+turtle
+shoulder |  
+| bip_39_word_new_line5 | poverty
+injury
+turtle
+shoulder
+family |  
+| bip_39_word_new_line6 | poverty
+injury
+turtle
+shoulder
+family
+tiger |  
+| bip_39_word_new_line7 | poverty
+injury
+turtle
+shoulder
+family
+tiger
+marble |  
+| bip_39_word_new_line8 | poverty
+injury
+turtle
+shoulder
+family
+tiger
+marble
+chronic |  
+| bip_39_word_new_line9 | poverty
+injury
+turtle
+shoulder
+family
+tiger
+marble
+chronic
+private |  
+| bip_39_word_space_0 | ['poverty', 'injury', 'turtle', 'shoulder', 'family', 'tiger', 'marble', 'chronic', 'private', 'parrot', 'wagon', 'analyst'] |  
+| bip_39_word_space_1 | poverty |  
+| bip_39_word_space_10 | poverty injury turtle shoulder family tiger marble chronic private parrot |  
+| bip_39_word_space_11 | poverty injury turtle shoulder family tiger marble chronic private parrot wagon |  
+| bip_39_word_space_12 | poverty injury turtle shoulder family tiger marble chronic private parrot wagon analyst |  
+| bip_39_word_space_2 | poverty injury |  
+| bip_39_word_space_3 | poverty injury turtle |  
+| bip_39_word_space_4 | poverty injury turtle shoulder |  
+| bip_39_word_space_5 | poverty injury turtle shoulder family |  
+| bip_39_word_space_6 | poverty injury turtle shoulder family tiger |  
+| bip_39_word_space_7 | poverty injury turtle shoulder family tiger marble |  
+| bip_39_word_space_8 | poverty injury turtle shoulder family tiger marble chronic |  
+| bip_39_word_space_9 | poverty injury turtle shoulder family tiger marble chronic private |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 56_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: patch echo
+  * bip 39 word 3: patch echo lens
+  * bip 39 word: patch echo lens choose float resource snow globe unveil luxury cup area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | patch |  
+| bip_39_word_new_br10 | patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil<br>luxury |  
+| bip_39_word_new_br11 | patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil<br>luxury<br>cup |  
+| bip_39_word_new_br12 | patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil<br>luxury<br>cup<br>area |  
+| bip_39_word_new_br2 | patch<br>echo |  
+| bip_39_word_new_br3 | patch<br>echo<br>lens |  
+| bip_39_word_new_br4 | patch<br>echo<br>lens<br>choose |  
+| bip_39_word_new_br5 | patch<br>echo<br>lens<br>choose<br>float |  
+| bip_39_word_new_br6 | patch<br>echo<br>lens<br>choose<br>float<br>resource |  
+| bip_39_word_new_br7 | patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow |  
+| bip_39_word_new_br8 | patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe |  
+| bip_39_word_new_br9 | patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil |  
+| bip_39_word_new_line1 | patch |  
+| bip_39_word_new_line10 | patch
+echo
+lens
+choose
+float
+resource
+snow
+globe
+unveil
+luxury |  
+| bip_39_word_new_line11 | patch
+echo
+lens
+choose
+float
+resource
+snow
+globe
+unveil
+luxury
+cup |  
+| bip_39_word_new_line12 | patch
+echo
+lens
+choose
+float
+resource
+snow
+globe
+unveil
+luxury
+cup
+area |  
+| bip_39_word_new_line2 | patch
+echo |  
+| bip_39_word_new_line3 | patch
+echo
+lens |  
+| bip_39_word_new_line4 | patch
+echo
+lens
+choose |  
+| bip_39_word_new_line5 | patch
+echo
+lens
+choose
+float |  
+| bip_39_word_new_line6 | patch
+echo
+lens
+choose
+float
+resource |  
+| bip_39_word_new_line7 | patch
+echo
+lens
+choose
+float
+resource
+snow |  
+| bip_39_word_new_line8 | patch
+echo
+lens
+choose
+float
+resource
+snow
+globe |  
+| bip_39_word_new_line9 | patch
+echo
+lens
+choose
+float
+resource
+snow
+globe
+unveil |  
+| bip_39_word_space_0 | ['patch', 'echo', 'lens', 'choose', 'float', 'resource', 'snow', 'globe', 'unveil', 'luxury', 'cup', 'area'] |  
+| bip_39_word_space_1 | patch |  
+| bip_39_word_space_10 | patch echo lens choose float resource snow globe unveil luxury |  
+| bip_39_word_space_11 | patch echo lens choose float resource snow globe unveil luxury cup |  
+| bip_39_word_space_12 | patch echo lens choose float resource snow globe unveil luxury cup area |  
+| bip_39_word_space_2 | patch echo |  
+| bip_39_word_space_3 | patch echo lens |  
+| bip_39_word_space_4 | patch echo lens choose |  
+| bip_39_word_space_5 | patch echo lens choose float |  
+| bip_39_word_space_6 | patch echo lens choose float resource |  
+| bip_39_word_space_7 | patch echo lens choose float resource snow |  
+| bip_39_word_space_8 | patch echo lens choose float resource snow globe |  
+| bip_39_word_space_9 | patch echo lens choose float resource snow globe unveil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: holiday anger
+  * bip 39 word 3: holiday anger easily
+  * bip 39 word: holiday anger easily thumb credit tree black tip decrease school pair add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | holiday |  
+| bip_39_word_new_br10 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree<br>black<br>tip<br>decrease<br>school |  
+| bip_39_word_new_br11 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree<br>black<br>tip<br>decrease<br>school<br>pair |  
+| bip_39_word_new_br12 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree<br>black<br>tip<br>decrease<br>school<br>pair<br>add |  
+| bip_39_word_new_br2 | holiday<br>anger |  
+| bip_39_word_new_br3 | holiday<br>anger<br>easily |  
+| bip_39_word_new_br4 | holiday<br>anger<br>easily<br>thumb |  
+| bip_39_word_new_br5 | holiday<br>anger<br>easily<br>thumb<br>credit |  
+| bip_39_word_new_br6 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree |  
+| bip_39_word_new_br7 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree<br>black |  
+| bip_39_word_new_br8 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree<br>black<br>tip |  
+| bip_39_word_new_br9 | holiday<br>anger<br>easily<br>thumb<br>credit<br>tree<br>black<br>tip<br>decrease |  
+| bip_39_word_new_line1 | holiday |  
+| bip_39_word_new_line10 | holiday
+anger
+easily
+thumb
+credit
+tree
+black
+tip
+decrease
+school |  
+| bip_39_word_new_line11 | holiday
+anger
+easily
+thumb
+credit
+tree
+black
+tip
+decrease
+school
+pair |  
+| bip_39_word_new_line12 | holiday
+anger
+easily
+thumb
+credit
+tree
+black
+tip
+decrease
+school
+pair
+add |  
+| bip_39_word_new_line2 | holiday
+anger |  
+| bip_39_word_new_line3 | holiday
+anger
+easily |  
+| bip_39_word_new_line4 | holiday
+anger
+easily
+thumb |  
+| bip_39_word_new_line5 | holiday
+anger
+easily
+thumb
+credit |  
+| bip_39_word_new_line6 | holiday
+anger
+easily
+thumb
+credit
+tree |  
+| bip_39_word_new_line7 | holiday
+anger
+easily
+thumb
+credit
+tree
+black |  
+| bip_39_word_new_line8 | holiday
+anger
+easily
+thumb
+credit
+tree
+black
+tip |  
+| bip_39_word_new_line9 | holiday
+anger
+easily
+thumb
+credit
+tree
+black
+tip
+decrease |  
+| bip_39_word_space_0 | ['holiday', 'anger', 'easily', 'thumb', 'credit', 'tree', 'black', 'tip', 'decrease', 'school', 'pair', 'add'] |  
+| bip_39_word_space_1 | holiday |  
+| bip_39_word_space_10 | holiday anger easily thumb credit tree black tip decrease school |  
+| bip_39_word_space_11 | holiday anger easily thumb credit tree black tip decrease school pair |  
+| bip_39_word_space_12 | holiday anger easily thumb credit tree black tip decrease school pair add |  
+| bip_39_word_space_2 | holiday anger |  
+| bip_39_word_space_3 | holiday anger easily |  
+| bip_39_word_space_4 | holiday anger easily thumb |  
+| bip_39_word_space_5 | holiday anger easily thumb credit |  
+| bip_39_word_space_6 | holiday anger easily thumb credit tree |  
+| bip_39_word_space_7 | holiday anger easily thumb credit tree black |  
+| bip_39_word_space_8 | holiday anger easily thumb credit tree black tip |  
+| bip_39_word_space_9 | holiday anger easily thumb credit tree black tip decrease |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

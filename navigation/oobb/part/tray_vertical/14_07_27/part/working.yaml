@@ -1,3 +1,186 @@
+bip_39_word_new_br1: buddy
+bip_39_word_new_br10: buddy<br>pull<br>decrease<br>used<br>humor<br>street<br>gold<br>venture<br>ugly<br>salad
+bip_39_word_new_br11: buddy<br>pull<br>decrease<br>used<br>humor<br>street<br>gold<br>venture<br>ugly<br>salad<br>bulb
+bip_39_word_new_br12: buddy<br>pull<br>decrease<br>used<br>humor<br>street<br>gold<br>venture<br>ugly<br>salad<br>bulb<br>army
+bip_39_word_new_br2: buddy<br>pull
+bip_39_word_new_br3: buddy<br>pull<br>decrease
+bip_39_word_new_br4: buddy<br>pull<br>decrease<br>used
+bip_39_word_new_br5: buddy<br>pull<br>decrease<br>used<br>humor
+bip_39_word_new_br6: buddy<br>pull<br>decrease<br>used<br>humor<br>street
+bip_39_word_new_br7: buddy<br>pull<br>decrease<br>used<br>humor<br>street<br>gold
+bip_39_word_new_br8: buddy<br>pull<br>decrease<br>used<br>humor<br>street<br>gold<br>venture
+bip_39_word_new_br9: buddy<br>pull<br>decrease<br>used<br>humor<br>street<br>gold<br>venture<br>ugly
+bip_39_word_new_line1: buddy
+bip_39_word_new_line10: 'buddy
+
+  pull
+
+  decrease
+
+  used
+
+  humor
+
+  street
+
+  gold
+
+  venture
+
+  ugly
+
+  salad'
+bip_39_word_new_line11: 'buddy
+
+  pull
+
+  decrease
+
+  used
+
+  humor
+
+  street
+
+  gold
+
+  venture
+
+  ugly
+
+  salad
+
+  bulb'
+bip_39_word_new_line12: 'buddy
+
+  pull
+
+  decrease
+
+  used
+
+  humor
+
+  street
+
+  gold
+
+  venture
+
+  ugly
+
+  salad
+
+  bulb
+
+  army'
+bip_39_word_new_line2: 'buddy
+
+  pull'
+bip_39_word_new_line3: 'buddy
+
+  pull
+
+  decrease'
+bip_39_word_new_line4: 'buddy
+
+  pull
+
+  decrease
+
+  used'
+bip_39_word_new_line5: 'buddy
+
+  pull
+
+  decrease
+
+  used
+
+  humor'
+bip_39_word_new_line6: 'buddy
+
+  pull
+
+  decrease
+
+  used
+
+  humor
+
+  street'
+bip_39_word_new_line7: 'buddy
+
+  pull
+
+  decrease
+
+  used
+
+  humor
+
+  street
+
+  gold'
+bip_39_word_new_line8: 'buddy
+
+  pull
+
+  decrease
+
+  used
+
+  humor
+
+  street
+
+  gold
+
+  venture'
+bip_39_word_new_line9: 'buddy
+
+  pull
+
+  decrease
+
+  used
+
+  humor
+
+  street
+
+  gold
+
+  venture
+
+  ugly'
+bip_39_word_space_0:
+- buddy
+- pull
+- decrease
+- used
+- humor
+- street
+- gold
+- venture
+- ugly
+- salad
+- bulb
+- army
+bip_39_word_space_1: buddy
+bip_39_word_space_10: buddy pull decrease used humor street gold venture ugly salad
+bip_39_word_space_11: buddy pull decrease used humor street gold venture ugly salad
+  bulb
+bip_39_word_space_12: buddy pull decrease used humor street gold venture ugly salad
+  bulb army
+bip_39_word_space_2: buddy pull
+bip_39_word_space_3: buddy pull decrease
+bip_39_word_space_4: buddy pull decrease used
+bip_39_word_space_5: buddy pull decrease used humor
+bip_39_word_space_6: buddy pull decrease used humor street
+bip_39_word_space_7: buddy pull decrease used humor street gold
+bip_39_word_space_8: buddy pull decrease used humor street gold venture
+bip_39_word_space_9: buddy pull decrease used humor street gold venture ugly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

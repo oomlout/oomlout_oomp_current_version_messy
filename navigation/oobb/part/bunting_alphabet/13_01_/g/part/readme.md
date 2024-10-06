@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: g
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nice popular
+  * bip 39 word 3: nice popular agent
+  * bip 39 word: nice popular agent must cause cage client air method syrup super august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nice |  
+| bip_39_word_new_br10 | nice<br>popular<br>agent<br>must<br>cause<br>cage<br>client<br>air<br>method<br>syrup |  
+| bip_39_word_new_br11 | nice<br>popular<br>agent<br>must<br>cause<br>cage<br>client<br>air<br>method<br>syrup<br>super |  
+| bip_39_word_new_br12 | nice<br>popular<br>agent<br>must<br>cause<br>cage<br>client<br>air<br>method<br>syrup<br>super<br>august |  
+| bip_39_word_new_br2 | nice<br>popular |  
+| bip_39_word_new_br3 | nice<br>popular<br>agent |  
+| bip_39_word_new_br4 | nice<br>popular<br>agent<br>must |  
+| bip_39_word_new_br5 | nice<br>popular<br>agent<br>must<br>cause |  
+| bip_39_word_new_br6 | nice<br>popular<br>agent<br>must<br>cause<br>cage |  
+| bip_39_word_new_br7 | nice<br>popular<br>agent<br>must<br>cause<br>cage<br>client |  
+| bip_39_word_new_br8 | nice<br>popular<br>agent<br>must<br>cause<br>cage<br>client<br>air |  
+| bip_39_word_new_br9 | nice<br>popular<br>agent<br>must<br>cause<br>cage<br>client<br>air<br>method |  
+| bip_39_word_new_line1 | nice |  
+| bip_39_word_new_line10 | nice
+popular
+agent
+must
+cause
+cage
+client
+air
+method
+syrup |  
+| bip_39_word_new_line11 | nice
+popular
+agent
+must
+cause
+cage
+client
+air
+method
+syrup
+super |  
+| bip_39_word_new_line12 | nice
+popular
+agent
+must
+cause
+cage
+client
+air
+method
+syrup
+super
+august |  
+| bip_39_word_new_line2 | nice
+popular |  
+| bip_39_word_new_line3 | nice
+popular
+agent |  
+| bip_39_word_new_line4 | nice
+popular
+agent
+must |  
+| bip_39_word_new_line5 | nice
+popular
+agent
+must
+cause |  
+| bip_39_word_new_line6 | nice
+popular
+agent
+must
+cause
+cage |  
+| bip_39_word_new_line7 | nice
+popular
+agent
+must
+cause
+cage
+client |  
+| bip_39_word_new_line8 | nice
+popular
+agent
+must
+cause
+cage
+client
+air |  
+| bip_39_word_new_line9 | nice
+popular
+agent
+must
+cause
+cage
+client
+air
+method |  
+| bip_39_word_space_0 | ['nice', 'popular', 'agent', 'must', 'cause', 'cage', 'client', 'air', 'method', 'syrup', 'super', 'august'] |  
+| bip_39_word_space_1 | nice |  
+| bip_39_word_space_10 | nice popular agent must cause cage client air method syrup |  
+| bip_39_word_space_11 | nice popular agent must cause cage client air method syrup super |  
+| bip_39_word_space_12 | nice popular agent must cause cage client air method syrup super august |  
+| bip_39_word_space_2 | nice popular |  
+| bip_39_word_space_3 | nice popular agent |  
+| bip_39_word_space_4 | nice popular agent must |  
+| bip_39_word_space_5 | nice popular agent must cause |  
+| bip_39_word_space_6 | nice popular agent must cause cage |  
+| bip_39_word_space_7 | nice popular agent must cause cage client |  
+| bip_39_word_space_8 | nice popular agent must cause cage client air |  
+| bip_39_word_space_9 | nice popular agent must cause cage client air method |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

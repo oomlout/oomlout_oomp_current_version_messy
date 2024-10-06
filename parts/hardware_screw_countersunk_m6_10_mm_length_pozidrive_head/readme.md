@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: space annual
+  * bip 39 word 3: space annual ability
+  * bip 39 word: space annual ability way spare fine episode trip cheap shift loop any
 
 ### other_codes
 * short_code: cs6m10pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | space |  
+| bip_39_word_new_br10 | space<br>annual<br>ability<br>way<br>spare<br>fine<br>episode<br>trip<br>cheap<br>shift |  
+| bip_39_word_new_br11 | space<br>annual<br>ability<br>way<br>spare<br>fine<br>episode<br>trip<br>cheap<br>shift<br>loop |  
+| bip_39_word_new_br12 | space<br>annual<br>ability<br>way<br>spare<br>fine<br>episode<br>trip<br>cheap<br>shift<br>loop<br>any |  
+| bip_39_word_new_br2 | space<br>annual |  
+| bip_39_word_new_br3 | space<br>annual<br>ability |  
+| bip_39_word_new_br4 | space<br>annual<br>ability<br>way |  
+| bip_39_word_new_br5 | space<br>annual<br>ability<br>way<br>spare |  
+| bip_39_word_new_br6 | space<br>annual<br>ability<br>way<br>spare<br>fine |  
+| bip_39_word_new_br7 | space<br>annual<br>ability<br>way<br>spare<br>fine<br>episode |  
+| bip_39_word_new_br8 | space<br>annual<br>ability<br>way<br>spare<br>fine<br>episode<br>trip |  
+| bip_39_word_new_br9 | space<br>annual<br>ability<br>way<br>spare<br>fine<br>episode<br>trip<br>cheap |  
+| bip_39_word_new_line1 | space |  
+| bip_39_word_new_line10 | space
+annual
+ability
+way
+spare
+fine
+episode
+trip
+cheap
+shift |  
+| bip_39_word_new_line11 | space
+annual
+ability
+way
+spare
+fine
+episode
+trip
+cheap
+shift
+loop |  
+| bip_39_word_new_line12 | space
+annual
+ability
+way
+spare
+fine
+episode
+trip
+cheap
+shift
+loop
+any |  
+| bip_39_word_new_line2 | space
+annual |  
+| bip_39_word_new_line3 | space
+annual
+ability |  
+| bip_39_word_new_line4 | space
+annual
+ability
+way |  
+| bip_39_word_new_line5 | space
+annual
+ability
+way
+spare |  
+| bip_39_word_new_line6 | space
+annual
+ability
+way
+spare
+fine |  
+| bip_39_word_new_line7 | space
+annual
+ability
+way
+spare
+fine
+episode |  
+| bip_39_word_new_line8 | space
+annual
+ability
+way
+spare
+fine
+episode
+trip |  
+| bip_39_word_new_line9 | space
+annual
+ability
+way
+spare
+fine
+episode
+trip
+cheap |  
+| bip_39_word_space_0 | ['space', 'annual', 'ability', 'way', 'spare', 'fine', 'episode', 'trip', 'cheap', 'shift', 'loop', 'any'] |  
+| bip_39_word_space_1 | space |  
+| bip_39_word_space_10 | space annual ability way spare fine episode trip cheap shift |  
+| bip_39_word_space_11 | space annual ability way spare fine episode trip cheap shift loop |  
+| bip_39_word_space_12 | space annual ability way spare fine episode trip cheap shift loop any |  
+| bip_39_word_space_2 | space annual |  
+| bip_39_word_space_3 | space annual ability |  
+| bip_39_word_space_4 | space annual ability way |  
+| bip_39_word_space_5 | space annual ability way spare |  
+| bip_39_word_space_6 | space annual ability way spare fine |  
+| bip_39_word_space_7 | space annual ability way spare fine episode |  
+| bip_39_word_space_8 | space annual ability way spare fine episode trip |  
+| bip_39_word_space_9 | space annual ability way spare fine episode trip cheap |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

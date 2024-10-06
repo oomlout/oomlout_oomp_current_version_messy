@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bulb medal
+  * bip 39 word 3: bulb medal crush
+  * bip 39 word: bulb medal crush scrap hockey shrug forum congress forget crater program almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bulb |  
+| bip_39_word_new_br10 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater |  
+| bip_39_word_new_br11 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater<br>program |  
+| bip_39_word_new_br12 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget<br>crater<br>program<br>almost |  
+| bip_39_word_new_br2 | bulb<br>medal |  
+| bip_39_word_new_br3 | bulb<br>medal<br>crush |  
+| bip_39_word_new_br4 | bulb<br>medal<br>crush<br>scrap |  
+| bip_39_word_new_br5 | bulb<br>medal<br>crush<br>scrap<br>hockey |  
+| bip_39_word_new_br6 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug |  
+| bip_39_word_new_br7 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum |  
+| bip_39_word_new_br8 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress |  
+| bip_39_word_new_br9 | bulb<br>medal<br>crush<br>scrap<br>hockey<br>shrug<br>forum<br>congress<br>forget |  
+| bip_39_word_new_line1 | bulb |  
+| bip_39_word_new_line10 | bulb
+medal
+crush
+scrap
+hockey
+shrug
+forum
+congress
+forget
+crater |  
+| bip_39_word_new_line11 | bulb
+medal
+crush
+scrap
+hockey
+shrug
+forum
+congress
+forget
+crater
+program |  
+| bip_39_word_new_line12 | bulb
+medal
+crush
+scrap
+hockey
+shrug
+forum
+congress
+forget
+crater
+program
+almost |  
+| bip_39_word_new_line2 | bulb
+medal |  
+| bip_39_word_new_line3 | bulb
+medal
+crush |  
+| bip_39_word_new_line4 | bulb
+medal
+crush
+scrap |  
+| bip_39_word_new_line5 | bulb
+medal
+crush
+scrap
+hockey |  
+| bip_39_word_new_line6 | bulb
+medal
+crush
+scrap
+hockey
+shrug |  
+| bip_39_word_new_line7 | bulb
+medal
+crush
+scrap
+hockey
+shrug
+forum |  
+| bip_39_word_new_line8 | bulb
+medal
+crush
+scrap
+hockey
+shrug
+forum
+congress |  
+| bip_39_word_new_line9 | bulb
+medal
+crush
+scrap
+hockey
+shrug
+forum
+congress
+forget |  
+| bip_39_word_space_0 | ['bulb', 'medal', 'crush', 'scrap', 'hockey', 'shrug', 'forum', 'congress', 'forget', 'crater', 'program', 'almost'] |  
+| bip_39_word_space_1 | bulb |  
+| bip_39_word_space_10 | bulb medal crush scrap hockey shrug forum congress forget crater |  
+| bip_39_word_space_11 | bulb medal crush scrap hockey shrug forum congress forget crater program |  
+| bip_39_word_space_12 | bulb medal crush scrap hockey shrug forum congress forget crater program almost |  
+| bip_39_word_space_2 | bulb medal |  
+| bip_39_word_space_3 | bulb medal crush |  
+| bip_39_word_space_4 | bulb medal crush scrap |  
+| bip_39_word_space_5 | bulb medal crush scrap hockey |  
+| bip_39_word_space_6 | bulb medal crush scrap hockey shrug |  
+| bip_39_word_space_7 | bulb medal crush scrap hockey shrug forum |  
+| bip_39_word_space_8 | bulb medal crush scrap hockey shrug forum congress |  
+| bip_39_word_space_9 | bulb medal crush scrap hockey shrug forum congress forget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

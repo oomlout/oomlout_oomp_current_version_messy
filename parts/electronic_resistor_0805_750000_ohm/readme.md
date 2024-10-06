@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amount rude
+  * bip 39 word 3: amount rude guard
+  * bip 39 word: amount rude guard real garbage kitten limb busy planet crawl street apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amount |  
+| bip_39_word_new_br10 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet<br>crawl |  
+| bip_39_word_new_br11 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet<br>crawl<br>street |  
+| bip_39_word_new_br12 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet<br>crawl<br>street<br>apology |  
+| bip_39_word_new_br2 | amount<br>rude |  
+| bip_39_word_new_br3 | amount<br>rude<br>guard |  
+| bip_39_word_new_br4 | amount<br>rude<br>guard<br>real |  
+| bip_39_word_new_br5 | amount<br>rude<br>guard<br>real<br>garbage |  
+| bip_39_word_new_br6 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten |  
+| bip_39_word_new_br7 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb |  
+| bip_39_word_new_br8 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy |  
+| bip_39_word_new_br9 | amount<br>rude<br>guard<br>real<br>garbage<br>kitten<br>limb<br>busy<br>planet |  
+| bip_39_word_new_line1 | amount |  
+| bip_39_word_new_line10 | amount
+rude
+guard
+real
+garbage
+kitten
+limb
+busy
+planet
+crawl |  
+| bip_39_word_new_line11 | amount
+rude
+guard
+real
+garbage
+kitten
+limb
+busy
+planet
+crawl
+street |  
+| bip_39_word_new_line12 | amount
+rude
+guard
+real
+garbage
+kitten
+limb
+busy
+planet
+crawl
+street
+apology |  
+| bip_39_word_new_line2 | amount
+rude |  
+| bip_39_word_new_line3 | amount
+rude
+guard |  
+| bip_39_word_new_line4 | amount
+rude
+guard
+real |  
+| bip_39_word_new_line5 | amount
+rude
+guard
+real
+garbage |  
+| bip_39_word_new_line6 | amount
+rude
+guard
+real
+garbage
+kitten |  
+| bip_39_word_new_line7 | amount
+rude
+guard
+real
+garbage
+kitten
+limb |  
+| bip_39_word_new_line8 | amount
+rude
+guard
+real
+garbage
+kitten
+limb
+busy |  
+| bip_39_word_new_line9 | amount
+rude
+guard
+real
+garbage
+kitten
+limb
+busy
+planet |  
+| bip_39_word_space_0 | ['amount', 'rude', 'guard', 'real', 'garbage', 'kitten', 'limb', 'busy', 'planet', 'crawl', 'street', 'apology'] |  
+| bip_39_word_space_1 | amount |  
+| bip_39_word_space_10 | amount rude guard real garbage kitten limb busy planet crawl |  
+| bip_39_word_space_11 | amount rude guard real garbage kitten limb busy planet crawl street |  
+| bip_39_word_space_12 | amount rude guard real garbage kitten limb busy planet crawl street apology |  
+| bip_39_word_space_2 | amount rude |  
+| bip_39_word_space_3 | amount rude guard |  
+| bip_39_word_space_4 | amount rude guard real |  
+| bip_39_word_space_5 | amount rude guard real garbage |  
+| bip_39_word_space_6 | amount rude guard real garbage kitten |  
+| bip_39_word_space_7 | amount rude guard real garbage kitten limb |  
+| bip_39_word_space_8 | amount rude guard real garbage kitten limb busy |  
+| bip_39_word_space_9 | amount rude guard real garbage kitten limb busy planet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

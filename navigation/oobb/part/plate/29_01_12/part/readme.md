@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: antenna goat
+  * bip 39 word 3: antenna goat drill
+  * bip 39 word: antenna goat drill iron faculty moon potato abuse effort case area anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | antenna |  
+| bip_39_word_new_br10 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon<br>potato<br>abuse<br>effort<br>case |  
+| bip_39_word_new_br11 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon<br>potato<br>abuse<br>effort<br>case<br>area |  
+| bip_39_word_new_br12 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon<br>potato<br>abuse<br>effort<br>case<br>area<br>anxiety |  
+| bip_39_word_new_br2 | antenna<br>goat |  
+| bip_39_word_new_br3 | antenna<br>goat<br>drill |  
+| bip_39_word_new_br4 | antenna<br>goat<br>drill<br>iron |  
+| bip_39_word_new_br5 | antenna<br>goat<br>drill<br>iron<br>faculty |  
+| bip_39_word_new_br6 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon |  
+| bip_39_word_new_br7 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon<br>potato |  
+| bip_39_word_new_br8 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon<br>potato<br>abuse |  
+| bip_39_word_new_br9 | antenna<br>goat<br>drill<br>iron<br>faculty<br>moon<br>potato<br>abuse<br>effort |  
+| bip_39_word_new_line1 | antenna |  
+| bip_39_word_new_line10 | antenna
+goat
+drill
+iron
+faculty
+moon
+potato
+abuse
+effort
+case |  
+| bip_39_word_new_line11 | antenna
+goat
+drill
+iron
+faculty
+moon
+potato
+abuse
+effort
+case
+area |  
+| bip_39_word_new_line12 | antenna
+goat
+drill
+iron
+faculty
+moon
+potato
+abuse
+effort
+case
+area
+anxiety |  
+| bip_39_word_new_line2 | antenna
+goat |  
+| bip_39_word_new_line3 | antenna
+goat
+drill |  
+| bip_39_word_new_line4 | antenna
+goat
+drill
+iron |  
+| bip_39_word_new_line5 | antenna
+goat
+drill
+iron
+faculty |  
+| bip_39_word_new_line6 | antenna
+goat
+drill
+iron
+faculty
+moon |  
+| bip_39_word_new_line7 | antenna
+goat
+drill
+iron
+faculty
+moon
+potato |  
+| bip_39_word_new_line8 | antenna
+goat
+drill
+iron
+faculty
+moon
+potato
+abuse |  
+| bip_39_word_new_line9 | antenna
+goat
+drill
+iron
+faculty
+moon
+potato
+abuse
+effort |  
+| bip_39_word_space_0 | ['antenna', 'goat', 'drill', 'iron', 'faculty', 'moon', 'potato', 'abuse', 'effort', 'case', 'area', 'anxiety'] |  
+| bip_39_word_space_1 | antenna |  
+| bip_39_word_space_10 | antenna goat drill iron faculty moon potato abuse effort case |  
+| bip_39_word_space_11 | antenna goat drill iron faculty moon potato abuse effort case area |  
+| bip_39_word_space_12 | antenna goat drill iron faculty moon potato abuse effort case area anxiety |  
+| bip_39_word_space_2 | antenna goat |  
+| bip_39_word_space_3 | antenna goat drill |  
+| bip_39_word_space_4 | antenna goat drill iron |  
+| bip_39_word_space_5 | antenna goat drill iron faculty |  
+| bip_39_word_space_6 | antenna goat drill iron faculty moon |  
+| bip_39_word_space_7 | antenna goat drill iron faculty moon potato |  
+| bip_39_word_space_8 | antenna goat drill iron faculty moon potato abuse |  
+| bip_39_word_space_9 | antenna goat drill iron faculty moon potato abuse effort |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

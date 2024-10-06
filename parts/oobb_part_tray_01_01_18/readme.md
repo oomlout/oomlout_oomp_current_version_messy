@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: absent agent
+  * bip 39 word 3: absent agent mouse
+  * bip 39 word: absent agent mouse net island hover cricket tornado expect add melody about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | absent |  
+| bip_39_word_new_br10 | absent<br>agent<br>mouse<br>net<br>island<br>hover<br>cricket<br>tornado<br>expect<br>add |  
+| bip_39_word_new_br11 | absent<br>agent<br>mouse<br>net<br>island<br>hover<br>cricket<br>tornado<br>expect<br>add<br>melody |  
+| bip_39_word_new_br12 | absent<br>agent<br>mouse<br>net<br>island<br>hover<br>cricket<br>tornado<br>expect<br>add<br>melody<br>about |  
+| bip_39_word_new_br2 | absent<br>agent |  
+| bip_39_word_new_br3 | absent<br>agent<br>mouse |  
+| bip_39_word_new_br4 | absent<br>agent<br>mouse<br>net |  
+| bip_39_word_new_br5 | absent<br>agent<br>mouse<br>net<br>island |  
+| bip_39_word_new_br6 | absent<br>agent<br>mouse<br>net<br>island<br>hover |  
+| bip_39_word_new_br7 | absent<br>agent<br>mouse<br>net<br>island<br>hover<br>cricket |  
+| bip_39_word_new_br8 | absent<br>agent<br>mouse<br>net<br>island<br>hover<br>cricket<br>tornado |  
+| bip_39_word_new_br9 | absent<br>agent<br>mouse<br>net<br>island<br>hover<br>cricket<br>tornado<br>expect |  
+| bip_39_word_new_line1 | absent |  
+| bip_39_word_new_line10 | absent
+agent
+mouse
+net
+island
+hover
+cricket
+tornado
+expect
+add |  
+| bip_39_word_new_line11 | absent
+agent
+mouse
+net
+island
+hover
+cricket
+tornado
+expect
+add
+melody |  
+| bip_39_word_new_line12 | absent
+agent
+mouse
+net
+island
+hover
+cricket
+tornado
+expect
+add
+melody
+about |  
+| bip_39_word_new_line2 | absent
+agent |  
+| bip_39_word_new_line3 | absent
+agent
+mouse |  
+| bip_39_word_new_line4 | absent
+agent
+mouse
+net |  
+| bip_39_word_new_line5 | absent
+agent
+mouse
+net
+island |  
+| bip_39_word_new_line6 | absent
+agent
+mouse
+net
+island
+hover |  
+| bip_39_word_new_line7 | absent
+agent
+mouse
+net
+island
+hover
+cricket |  
+| bip_39_word_new_line8 | absent
+agent
+mouse
+net
+island
+hover
+cricket
+tornado |  
+| bip_39_word_new_line9 | absent
+agent
+mouse
+net
+island
+hover
+cricket
+tornado
+expect |  
+| bip_39_word_space_0 | ['absent', 'agent', 'mouse', 'net', 'island', 'hover', 'cricket', 'tornado', 'expect', 'add', 'melody', 'about'] |  
+| bip_39_word_space_1 | absent |  
+| bip_39_word_space_10 | absent agent mouse net island hover cricket tornado expect add |  
+| bip_39_word_space_11 | absent agent mouse net island hover cricket tornado expect add melody |  
+| bip_39_word_space_12 | absent agent mouse net island hover cricket tornado expect add melody about |  
+| bip_39_word_space_2 | absent agent |  
+| bip_39_word_space_3 | absent agent mouse |  
+| bip_39_word_space_4 | absent agent mouse net |  
+| bip_39_word_space_5 | absent agent mouse net island |  
+| bip_39_word_space_6 | absent agent mouse net island hover |  
+| bip_39_word_space_7 | absent agent mouse net island hover cricket |  
+| bip_39_word_space_8 | absent agent mouse net island hover cricket tornado |  
+| bip_39_word_space_9 | absent agent mouse net island hover cricket tornado expect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

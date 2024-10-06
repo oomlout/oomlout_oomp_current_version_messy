@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: palace reflect
+  * bip 39 word 3: palace reflect limb
+  * bip 39 word: palace reflect limb ticket drink certain vessel minor web midnight jelly anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | palace |  
+| bip_39_word_new_br10 | palace<br>reflect<br>limb<br>ticket<br>drink<br>certain<br>vessel<br>minor<br>web<br>midnight |  
+| bip_39_word_new_br11 | palace<br>reflect<br>limb<br>ticket<br>drink<br>certain<br>vessel<br>minor<br>web<br>midnight<br>jelly |  
+| bip_39_word_new_br12 | palace<br>reflect<br>limb<br>ticket<br>drink<br>certain<br>vessel<br>minor<br>web<br>midnight<br>jelly<br>anxiety |  
+| bip_39_word_new_br2 | palace<br>reflect |  
+| bip_39_word_new_br3 | palace<br>reflect<br>limb |  
+| bip_39_word_new_br4 | palace<br>reflect<br>limb<br>ticket |  
+| bip_39_word_new_br5 | palace<br>reflect<br>limb<br>ticket<br>drink |  
+| bip_39_word_new_br6 | palace<br>reflect<br>limb<br>ticket<br>drink<br>certain |  
+| bip_39_word_new_br7 | palace<br>reflect<br>limb<br>ticket<br>drink<br>certain<br>vessel |  
+| bip_39_word_new_br8 | palace<br>reflect<br>limb<br>ticket<br>drink<br>certain<br>vessel<br>minor |  
+| bip_39_word_new_br9 | palace<br>reflect<br>limb<br>ticket<br>drink<br>certain<br>vessel<br>minor<br>web |  
+| bip_39_word_new_line1 | palace |  
+| bip_39_word_new_line10 | palace
+reflect
+limb
+ticket
+drink
+certain
+vessel
+minor
+web
+midnight |  
+| bip_39_word_new_line11 | palace
+reflect
+limb
+ticket
+drink
+certain
+vessel
+minor
+web
+midnight
+jelly |  
+| bip_39_word_new_line12 | palace
+reflect
+limb
+ticket
+drink
+certain
+vessel
+minor
+web
+midnight
+jelly
+anxiety |  
+| bip_39_word_new_line2 | palace
+reflect |  
+| bip_39_word_new_line3 | palace
+reflect
+limb |  
+| bip_39_word_new_line4 | palace
+reflect
+limb
+ticket |  
+| bip_39_word_new_line5 | palace
+reflect
+limb
+ticket
+drink |  
+| bip_39_word_new_line6 | palace
+reflect
+limb
+ticket
+drink
+certain |  
+| bip_39_word_new_line7 | palace
+reflect
+limb
+ticket
+drink
+certain
+vessel |  
+| bip_39_word_new_line8 | palace
+reflect
+limb
+ticket
+drink
+certain
+vessel
+minor |  
+| bip_39_word_new_line9 | palace
+reflect
+limb
+ticket
+drink
+certain
+vessel
+minor
+web |  
+| bip_39_word_space_0 | ['palace', 'reflect', 'limb', 'ticket', 'drink', 'certain', 'vessel', 'minor', 'web', 'midnight', 'jelly', 'anxiety'] |  
+| bip_39_word_space_1 | palace |  
+| bip_39_word_space_10 | palace reflect limb ticket drink certain vessel minor web midnight |  
+| bip_39_word_space_11 | palace reflect limb ticket drink certain vessel minor web midnight jelly |  
+| bip_39_word_space_12 | palace reflect limb ticket drink certain vessel minor web midnight jelly anxiety |  
+| bip_39_word_space_2 | palace reflect |  
+| bip_39_word_space_3 | palace reflect limb |  
+| bip_39_word_space_4 | palace reflect limb ticket |  
+| bip_39_word_space_5 | palace reflect limb ticket drink |  
+| bip_39_word_space_6 | palace reflect limb ticket drink certain |  
+| bip_39_word_space_7 | palace reflect limb ticket drink certain vessel |  
+| bip_39_word_space_8 | palace reflect limb ticket drink certain vessel minor |  
+| bip_39_word_space_9 | palace reflect limb ticket drink certain vessel minor web |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: office flash
+  * bip 39 word 3: office flash mask
+  * bip 39 word: office flash mask pioneer belt route corn squirrel dune trade finish adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | office |  
+| bip_39_word_new_br10 | office<br>flash<br>mask<br>pioneer<br>belt<br>route<br>corn<br>squirrel<br>dune<br>trade |  
+| bip_39_word_new_br11 | office<br>flash<br>mask<br>pioneer<br>belt<br>route<br>corn<br>squirrel<br>dune<br>trade<br>finish |  
+| bip_39_word_new_br12 | office<br>flash<br>mask<br>pioneer<br>belt<br>route<br>corn<br>squirrel<br>dune<br>trade<br>finish<br>adult |  
+| bip_39_word_new_br2 | office<br>flash |  
+| bip_39_word_new_br3 | office<br>flash<br>mask |  
+| bip_39_word_new_br4 | office<br>flash<br>mask<br>pioneer |  
+| bip_39_word_new_br5 | office<br>flash<br>mask<br>pioneer<br>belt |  
+| bip_39_word_new_br6 | office<br>flash<br>mask<br>pioneer<br>belt<br>route |  
+| bip_39_word_new_br7 | office<br>flash<br>mask<br>pioneer<br>belt<br>route<br>corn |  
+| bip_39_word_new_br8 | office<br>flash<br>mask<br>pioneer<br>belt<br>route<br>corn<br>squirrel |  
+| bip_39_word_new_br9 | office<br>flash<br>mask<br>pioneer<br>belt<br>route<br>corn<br>squirrel<br>dune |  
+| bip_39_word_new_line1 | office |  
+| bip_39_word_new_line10 | office
+flash
+mask
+pioneer
+belt
+route
+corn
+squirrel
+dune
+trade |  
+| bip_39_word_new_line11 | office
+flash
+mask
+pioneer
+belt
+route
+corn
+squirrel
+dune
+trade
+finish |  
+| bip_39_word_new_line12 | office
+flash
+mask
+pioneer
+belt
+route
+corn
+squirrel
+dune
+trade
+finish
+adult |  
+| bip_39_word_new_line2 | office
+flash |  
+| bip_39_word_new_line3 | office
+flash
+mask |  
+| bip_39_word_new_line4 | office
+flash
+mask
+pioneer |  
+| bip_39_word_new_line5 | office
+flash
+mask
+pioneer
+belt |  
+| bip_39_word_new_line6 | office
+flash
+mask
+pioneer
+belt
+route |  
+| bip_39_word_new_line7 | office
+flash
+mask
+pioneer
+belt
+route
+corn |  
+| bip_39_word_new_line8 | office
+flash
+mask
+pioneer
+belt
+route
+corn
+squirrel |  
+| bip_39_word_new_line9 | office
+flash
+mask
+pioneer
+belt
+route
+corn
+squirrel
+dune |  
+| bip_39_word_space_0 | ['office', 'flash', 'mask', 'pioneer', 'belt', 'route', 'corn', 'squirrel', 'dune', 'trade', 'finish', 'adult'] |  
+| bip_39_word_space_1 | office |  
+| bip_39_word_space_10 | office flash mask pioneer belt route corn squirrel dune trade |  
+| bip_39_word_space_11 | office flash mask pioneer belt route corn squirrel dune trade finish |  
+| bip_39_word_space_12 | office flash mask pioneer belt route corn squirrel dune trade finish adult |  
+| bip_39_word_space_2 | office flash |  
+| bip_39_word_space_3 | office flash mask |  
+| bip_39_word_space_4 | office flash mask pioneer |  
+| bip_39_word_space_5 | office flash mask pioneer belt |  
+| bip_39_word_space_6 | office flash mask pioneer belt route |  
+| bip_39_word_space_7 | office flash mask pioneer belt route corn |  
+| bip_39_word_space_8 | office flash mask pioneer belt route corn squirrel |  
+| bip_39_word_space_9 | office flash mask pioneer belt route corn squirrel dune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

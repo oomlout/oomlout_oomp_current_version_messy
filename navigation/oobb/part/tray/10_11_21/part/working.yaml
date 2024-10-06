@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vocal
+bip_39_word_new_br10: vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding
+bip_39_word_new_br11: vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding<br>own
+bip_39_word_new_br12: vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple<br>wedding<br>own<br>august
+bip_39_word_new_br2: vocal<br>report
+bip_39_word_new_br3: vocal<br>report<br>joy
+bip_39_word_new_br4: vocal<br>report<br>joy<br>chat
+bip_39_word_new_br5: vocal<br>report<br>joy<br>chat<br>canal
+bip_39_word_new_br6: vocal<br>report<br>joy<br>chat<br>canal<br>path
+bip_39_word_new_br7: vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt
+bip_39_word_new_br8: vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair
+bip_39_word_new_br9: vocal<br>report<br>joy<br>chat<br>canal<br>path<br>aunt<br>repair<br>topple
+bip_39_word_new_line1: vocal
+bip_39_word_new_line10: 'vocal
+
+  report
+
+  joy
+
+  chat
+
+  canal
+
+  path
+
+  aunt
+
+  repair
+
+  topple
+
+  wedding'
+bip_39_word_new_line11: 'vocal
+
+  report
+
+  joy
+
+  chat
+
+  canal
+
+  path
+
+  aunt
+
+  repair
+
+  topple
+
+  wedding
+
+  own'
+bip_39_word_new_line12: 'vocal
+
+  report
+
+  joy
+
+  chat
+
+  canal
+
+  path
+
+  aunt
+
+  repair
+
+  topple
+
+  wedding
+
+  own
+
+  august'
+bip_39_word_new_line2: 'vocal
+
+  report'
+bip_39_word_new_line3: 'vocal
+
+  report
+
+  joy'
+bip_39_word_new_line4: 'vocal
+
+  report
+
+  joy
+
+  chat'
+bip_39_word_new_line5: 'vocal
+
+  report
+
+  joy
+
+  chat
+
+  canal'
+bip_39_word_new_line6: 'vocal
+
+  report
+
+  joy
+
+  chat
+
+  canal
+
+  path'
+bip_39_word_new_line7: 'vocal
+
+  report
+
+  joy
+
+  chat
+
+  canal
+
+  path
+
+  aunt'
+bip_39_word_new_line8: 'vocal
+
+  report
+
+  joy
+
+  chat
+
+  canal
+
+  path
+
+  aunt
+
+  repair'
+bip_39_word_new_line9: 'vocal
+
+  report
+
+  joy
+
+  chat
+
+  canal
+
+  path
+
+  aunt
+
+  repair
+
+  topple'
+bip_39_word_space_0:
+- vocal
+- report
+- joy
+- chat
+- canal
+- path
+- aunt
+- repair
+- topple
+- wedding
+- own
+- august
+bip_39_word_space_1: vocal
+bip_39_word_space_10: vocal report joy chat canal path aunt repair topple wedding
+bip_39_word_space_11: vocal report joy chat canal path aunt repair topple wedding
+  own
+bip_39_word_space_12: vocal report joy chat canal path aunt repair topple wedding
+  own august
+bip_39_word_space_2: vocal report
+bip_39_word_space_3: vocal report joy
+bip_39_word_space_4: vocal report joy chat
+bip_39_word_space_5: vocal report joy chat canal
+bip_39_word_space_6: vocal report joy chat canal path
+bip_39_word_space_7: vocal report joy chat canal path aunt
+bip_39_word_space_8: vocal report joy chat canal path aunt repair
+bip_39_word_space_9: vocal report joy chat canal path aunt repair topple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

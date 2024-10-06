@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: egg cliff
+  * bip 39 word 3: egg cliff wool
+  * bip 39 word: egg cliff wool joy double between turn hint throw humble language aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | egg |  
+| bip_39_word_new_br10 | egg<br>cliff<br>wool<br>joy<br>double<br>between<br>turn<br>hint<br>throw<br>humble |  
+| bip_39_word_new_br11 | egg<br>cliff<br>wool<br>joy<br>double<br>between<br>turn<br>hint<br>throw<br>humble<br>language |  
+| bip_39_word_new_br12 | egg<br>cliff<br>wool<br>joy<br>double<br>between<br>turn<br>hint<br>throw<br>humble<br>language<br>aunt |  
+| bip_39_word_new_br2 | egg<br>cliff |  
+| bip_39_word_new_br3 | egg<br>cliff<br>wool |  
+| bip_39_word_new_br4 | egg<br>cliff<br>wool<br>joy |  
+| bip_39_word_new_br5 | egg<br>cliff<br>wool<br>joy<br>double |  
+| bip_39_word_new_br6 | egg<br>cliff<br>wool<br>joy<br>double<br>between |  
+| bip_39_word_new_br7 | egg<br>cliff<br>wool<br>joy<br>double<br>between<br>turn |  
+| bip_39_word_new_br8 | egg<br>cliff<br>wool<br>joy<br>double<br>between<br>turn<br>hint |  
+| bip_39_word_new_br9 | egg<br>cliff<br>wool<br>joy<br>double<br>between<br>turn<br>hint<br>throw |  
+| bip_39_word_new_line1 | egg |  
+| bip_39_word_new_line10 | egg
+cliff
+wool
+joy
+double
+between
+turn
+hint
+throw
+humble |  
+| bip_39_word_new_line11 | egg
+cliff
+wool
+joy
+double
+between
+turn
+hint
+throw
+humble
+language |  
+| bip_39_word_new_line12 | egg
+cliff
+wool
+joy
+double
+between
+turn
+hint
+throw
+humble
+language
+aunt |  
+| bip_39_word_new_line2 | egg
+cliff |  
+| bip_39_word_new_line3 | egg
+cliff
+wool |  
+| bip_39_word_new_line4 | egg
+cliff
+wool
+joy |  
+| bip_39_word_new_line5 | egg
+cliff
+wool
+joy
+double |  
+| bip_39_word_new_line6 | egg
+cliff
+wool
+joy
+double
+between |  
+| bip_39_word_new_line7 | egg
+cliff
+wool
+joy
+double
+between
+turn |  
+| bip_39_word_new_line8 | egg
+cliff
+wool
+joy
+double
+between
+turn
+hint |  
+| bip_39_word_new_line9 | egg
+cliff
+wool
+joy
+double
+between
+turn
+hint
+throw |  
+| bip_39_word_space_0 | ['egg', 'cliff', 'wool', 'joy', 'double', 'between', 'turn', 'hint', 'throw', 'humble', 'language', 'aunt'] |  
+| bip_39_word_space_1 | egg |  
+| bip_39_word_space_10 | egg cliff wool joy double between turn hint throw humble |  
+| bip_39_word_space_11 | egg cliff wool joy double between turn hint throw humble language |  
+| bip_39_word_space_12 | egg cliff wool joy double between turn hint throw humble language aunt |  
+| bip_39_word_space_2 | egg cliff |  
+| bip_39_word_space_3 | egg cliff wool |  
+| bip_39_word_space_4 | egg cliff wool joy |  
+| bip_39_word_space_5 | egg cliff wool joy double |  
+| bip_39_word_space_6 | egg cliff wool joy double between |  
+| bip_39_word_space_7 | egg cliff wool joy double between turn |  
+| bip_39_word_space_8 | egg cliff wool joy double between turn hint |  
+| bip_39_word_space_9 | egg cliff wool joy double between turn hint throw |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

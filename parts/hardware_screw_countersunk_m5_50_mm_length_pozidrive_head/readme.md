@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: try panther
+  * bip 39 word 3: try panther hood
+  * bip 39 word: try panther hood position tube sleep canvas key frost cousin water afraid
 
 ### other_codes
 * short_code: cs5m50pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | try |  
+| bip_39_word_new_br10 | try<br>panther<br>hood<br>position<br>tube<br>sleep<br>canvas<br>key<br>frost<br>cousin |  
+| bip_39_word_new_br11 | try<br>panther<br>hood<br>position<br>tube<br>sleep<br>canvas<br>key<br>frost<br>cousin<br>water |  
+| bip_39_word_new_br12 | try<br>panther<br>hood<br>position<br>tube<br>sleep<br>canvas<br>key<br>frost<br>cousin<br>water<br>afraid |  
+| bip_39_word_new_br2 | try<br>panther |  
+| bip_39_word_new_br3 | try<br>panther<br>hood |  
+| bip_39_word_new_br4 | try<br>panther<br>hood<br>position |  
+| bip_39_word_new_br5 | try<br>panther<br>hood<br>position<br>tube |  
+| bip_39_word_new_br6 | try<br>panther<br>hood<br>position<br>tube<br>sleep |  
+| bip_39_word_new_br7 | try<br>panther<br>hood<br>position<br>tube<br>sleep<br>canvas |  
+| bip_39_word_new_br8 | try<br>panther<br>hood<br>position<br>tube<br>sleep<br>canvas<br>key |  
+| bip_39_word_new_br9 | try<br>panther<br>hood<br>position<br>tube<br>sleep<br>canvas<br>key<br>frost |  
+| bip_39_word_new_line1 | try |  
+| bip_39_word_new_line10 | try
+panther
+hood
+position
+tube
+sleep
+canvas
+key
+frost
+cousin |  
+| bip_39_word_new_line11 | try
+panther
+hood
+position
+tube
+sleep
+canvas
+key
+frost
+cousin
+water |  
+| bip_39_word_new_line12 | try
+panther
+hood
+position
+tube
+sleep
+canvas
+key
+frost
+cousin
+water
+afraid |  
+| bip_39_word_new_line2 | try
+panther |  
+| bip_39_word_new_line3 | try
+panther
+hood |  
+| bip_39_word_new_line4 | try
+panther
+hood
+position |  
+| bip_39_word_new_line5 | try
+panther
+hood
+position
+tube |  
+| bip_39_word_new_line6 | try
+panther
+hood
+position
+tube
+sleep |  
+| bip_39_word_new_line7 | try
+panther
+hood
+position
+tube
+sleep
+canvas |  
+| bip_39_word_new_line8 | try
+panther
+hood
+position
+tube
+sleep
+canvas
+key |  
+| bip_39_word_new_line9 | try
+panther
+hood
+position
+tube
+sleep
+canvas
+key
+frost |  
+| bip_39_word_space_0 | ['try', 'panther', 'hood', 'position', 'tube', 'sleep', 'canvas', 'key', 'frost', 'cousin', 'water', 'afraid'] |  
+| bip_39_word_space_1 | try |  
+| bip_39_word_space_10 | try panther hood position tube sleep canvas key frost cousin |  
+| bip_39_word_space_11 | try panther hood position tube sleep canvas key frost cousin water |  
+| bip_39_word_space_12 | try panther hood position tube sleep canvas key frost cousin water afraid |  
+| bip_39_word_space_2 | try panther |  
+| bip_39_word_space_3 | try panther hood |  
+| bip_39_word_space_4 | try panther hood position |  
+| bip_39_word_space_5 | try panther hood position tube |  
+| bip_39_word_space_6 | try panther hood position tube sleep |  
+| bip_39_word_space_7 | try panther hood position tube sleep canvas |  
+| bip_39_word_space_8 | try panther hood position tube sleep canvas key |  
+| bip_39_word_space_9 | try panther hood position tube sleep canvas key frost |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

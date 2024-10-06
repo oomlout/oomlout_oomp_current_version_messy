@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: between forest
+  * bip 39 word 3: between forest hat
+  * bip 39 word: between forest hat organ welcome sword earth debris say more ability about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | between |  
+| bip_39_word_new_br10 | between<br>forest<br>hat<br>organ<br>welcome<br>sword<br>earth<br>debris<br>say<br>more |  
+| bip_39_word_new_br11 | between<br>forest<br>hat<br>organ<br>welcome<br>sword<br>earth<br>debris<br>say<br>more<br>ability |  
+| bip_39_word_new_br12 | between<br>forest<br>hat<br>organ<br>welcome<br>sword<br>earth<br>debris<br>say<br>more<br>ability<br>about |  
+| bip_39_word_new_br2 | between<br>forest |  
+| bip_39_word_new_br3 | between<br>forest<br>hat |  
+| bip_39_word_new_br4 | between<br>forest<br>hat<br>organ |  
+| bip_39_word_new_br5 | between<br>forest<br>hat<br>organ<br>welcome |  
+| bip_39_word_new_br6 | between<br>forest<br>hat<br>organ<br>welcome<br>sword |  
+| bip_39_word_new_br7 | between<br>forest<br>hat<br>organ<br>welcome<br>sword<br>earth |  
+| bip_39_word_new_br8 | between<br>forest<br>hat<br>organ<br>welcome<br>sword<br>earth<br>debris |  
+| bip_39_word_new_br9 | between<br>forest<br>hat<br>organ<br>welcome<br>sword<br>earth<br>debris<br>say |  
+| bip_39_word_new_line1 | between |  
+| bip_39_word_new_line10 | between
+forest
+hat
+organ
+welcome
+sword
+earth
+debris
+say
+more |  
+| bip_39_word_new_line11 | between
+forest
+hat
+organ
+welcome
+sword
+earth
+debris
+say
+more
+ability |  
+| bip_39_word_new_line12 | between
+forest
+hat
+organ
+welcome
+sword
+earth
+debris
+say
+more
+ability
+about |  
+| bip_39_word_new_line2 | between
+forest |  
+| bip_39_word_new_line3 | between
+forest
+hat |  
+| bip_39_word_new_line4 | between
+forest
+hat
+organ |  
+| bip_39_word_new_line5 | between
+forest
+hat
+organ
+welcome |  
+| bip_39_word_new_line6 | between
+forest
+hat
+organ
+welcome
+sword |  
+| bip_39_word_new_line7 | between
+forest
+hat
+organ
+welcome
+sword
+earth |  
+| bip_39_word_new_line8 | between
+forest
+hat
+organ
+welcome
+sword
+earth
+debris |  
+| bip_39_word_new_line9 | between
+forest
+hat
+organ
+welcome
+sword
+earth
+debris
+say |  
+| bip_39_word_space_0 | ['between', 'forest', 'hat', 'organ', 'welcome', 'sword', 'earth', 'debris', 'say', 'more', 'ability', 'about'] |  
+| bip_39_word_space_1 | between |  
+| bip_39_word_space_10 | between forest hat organ welcome sword earth debris say more |  
+| bip_39_word_space_11 | between forest hat organ welcome sword earth debris say more ability |  
+| bip_39_word_space_12 | between forest hat organ welcome sword earth debris say more ability about |  
+| bip_39_word_space_2 | between forest |  
+| bip_39_word_space_3 | between forest hat |  
+| bip_39_word_space_4 | between forest hat organ |  
+| bip_39_word_space_5 | between forest hat organ welcome |  
+| bip_39_word_space_6 | between forest hat organ welcome sword |  
+| bip_39_word_space_7 | between forest hat organ welcome sword earth |  
+| bip_39_word_space_8 | between forest hat organ welcome sword earth debris |  
+| bip_39_word_space_9 | between forest hat organ welcome sword earth debris say |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

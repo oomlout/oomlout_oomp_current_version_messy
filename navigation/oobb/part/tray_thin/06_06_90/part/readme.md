@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: save cannon
+  * bip 39 word 3: save cannon heart
+  * bip 39 word: save cannon heart zoo allow icon long gap memory invest radio arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | save |  
+| bip_39_word_new_br10 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest |  
+| bip_39_word_new_br11 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest<br>radio |  
+| bip_39_word_new_br12 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory<br>invest<br>radio<br>arrest |  
+| bip_39_word_new_br2 | save<br>cannon |  
+| bip_39_word_new_br3 | save<br>cannon<br>heart |  
+| bip_39_word_new_br4 | save<br>cannon<br>heart<br>zoo |  
+| bip_39_word_new_br5 | save<br>cannon<br>heart<br>zoo<br>allow |  
+| bip_39_word_new_br6 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon |  
+| bip_39_word_new_br7 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long |  
+| bip_39_word_new_br8 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap |  
+| bip_39_word_new_br9 | save<br>cannon<br>heart<br>zoo<br>allow<br>icon<br>long<br>gap<br>memory |  
+| bip_39_word_new_line1 | save |  
+| bip_39_word_new_line10 | save
+cannon
+heart
+zoo
+allow
+icon
+long
+gap
+memory
+invest |  
+| bip_39_word_new_line11 | save
+cannon
+heart
+zoo
+allow
+icon
+long
+gap
+memory
+invest
+radio |  
+| bip_39_word_new_line12 | save
+cannon
+heart
+zoo
+allow
+icon
+long
+gap
+memory
+invest
+radio
+arrest |  
+| bip_39_word_new_line2 | save
+cannon |  
+| bip_39_word_new_line3 | save
+cannon
+heart |  
+| bip_39_word_new_line4 | save
+cannon
+heart
+zoo |  
+| bip_39_word_new_line5 | save
+cannon
+heart
+zoo
+allow |  
+| bip_39_word_new_line6 | save
+cannon
+heart
+zoo
+allow
+icon |  
+| bip_39_word_new_line7 | save
+cannon
+heart
+zoo
+allow
+icon
+long |  
+| bip_39_word_new_line8 | save
+cannon
+heart
+zoo
+allow
+icon
+long
+gap |  
+| bip_39_word_new_line9 | save
+cannon
+heart
+zoo
+allow
+icon
+long
+gap
+memory |  
+| bip_39_word_space_0 | ['save', 'cannon', 'heart', 'zoo', 'allow', 'icon', 'long', 'gap', 'memory', 'invest', 'radio', 'arrest'] |  
+| bip_39_word_space_1 | save |  
+| bip_39_word_space_10 | save cannon heart zoo allow icon long gap memory invest |  
+| bip_39_word_space_11 | save cannon heart zoo allow icon long gap memory invest radio |  
+| bip_39_word_space_12 | save cannon heart zoo allow icon long gap memory invest radio arrest |  
+| bip_39_word_space_2 | save cannon |  
+| bip_39_word_space_3 | save cannon heart |  
+| bip_39_word_space_4 | save cannon heart zoo |  
+| bip_39_word_space_5 | save cannon heart zoo allow |  
+| bip_39_word_space_6 | save cannon heart zoo allow icon |  
+| bip_39_word_space_7 | save cannon heart zoo allow icon long |  
+| bip_39_word_space_8 | save cannon heart zoo allow icon long gap |  
+| bip_39_word_space_9 | save cannon heart zoo allow icon long gap memory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

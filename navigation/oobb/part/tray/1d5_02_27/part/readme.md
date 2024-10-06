@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frost attitude
+  * bip 39 word 3: frost attitude purity
+  * bip 39 word: frost attitude purity december pencil topple copy teach excuse treat truth acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frost |  
+| bip_39_word_new_br10 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse<br>treat |  
+| bip_39_word_new_br11 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse<br>treat<br>truth |  
+| bip_39_word_new_br12 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse<br>treat<br>truth<br>acquire |  
+| bip_39_word_new_br2 | frost<br>attitude |  
+| bip_39_word_new_br3 | frost<br>attitude<br>purity |  
+| bip_39_word_new_br4 | frost<br>attitude<br>purity<br>december |  
+| bip_39_word_new_br5 | frost<br>attitude<br>purity<br>december<br>pencil |  
+| bip_39_word_new_br6 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple |  
+| bip_39_word_new_br7 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy |  
+| bip_39_word_new_br8 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach |  
+| bip_39_word_new_br9 | frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse |  
+| bip_39_word_new_line1 | frost |  
+| bip_39_word_new_line10 | frost
+attitude
+purity
+december
+pencil
+topple
+copy
+teach
+excuse
+treat |  
+| bip_39_word_new_line11 | frost
+attitude
+purity
+december
+pencil
+topple
+copy
+teach
+excuse
+treat
+truth |  
+| bip_39_word_new_line12 | frost
+attitude
+purity
+december
+pencil
+topple
+copy
+teach
+excuse
+treat
+truth
+acquire |  
+| bip_39_word_new_line2 | frost
+attitude |  
+| bip_39_word_new_line3 | frost
+attitude
+purity |  
+| bip_39_word_new_line4 | frost
+attitude
+purity
+december |  
+| bip_39_word_new_line5 | frost
+attitude
+purity
+december
+pencil |  
+| bip_39_word_new_line6 | frost
+attitude
+purity
+december
+pencil
+topple |  
+| bip_39_word_new_line7 | frost
+attitude
+purity
+december
+pencil
+topple
+copy |  
+| bip_39_word_new_line8 | frost
+attitude
+purity
+december
+pencil
+topple
+copy
+teach |  
+| bip_39_word_new_line9 | frost
+attitude
+purity
+december
+pencil
+topple
+copy
+teach
+excuse |  
+| bip_39_word_space_0 | ['frost', 'attitude', 'purity', 'december', 'pencil', 'topple', 'copy', 'teach', 'excuse', 'treat', 'truth', 'acquire'] |  
+| bip_39_word_space_1 | frost |  
+| bip_39_word_space_10 | frost attitude purity december pencil topple copy teach excuse treat |  
+| bip_39_word_space_11 | frost attitude purity december pencil topple copy teach excuse treat truth |  
+| bip_39_word_space_12 | frost attitude purity december pencil topple copy teach excuse treat truth acquire |  
+| bip_39_word_space_2 | frost attitude |  
+| bip_39_word_space_3 | frost attitude purity |  
+| bip_39_word_space_4 | frost attitude purity december |  
+| bip_39_word_space_5 | frost attitude purity december pencil |  
+| bip_39_word_space_6 | frost attitude purity december pencil topple |  
+| bip_39_word_space_7 | frost attitude purity december pencil topple copy |  
+| bip_39_word_space_8 | frost attitude purity december pencil topple copy teach |  
+| bip_39_word_space_9 | frost attitude purity december pencil topple copy teach excuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

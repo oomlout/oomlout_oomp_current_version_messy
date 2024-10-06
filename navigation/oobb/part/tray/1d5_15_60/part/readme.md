@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reason region
+  * bip 39 word 3: reason region merge
+  * bip 39 word: reason region merge shine dash essence dice milk social tongue history afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reason |  
+| bip_39_word_new_br10 | reason<br>region<br>merge<br>shine<br>dash<br>essence<br>dice<br>milk<br>social<br>tongue |  
+| bip_39_word_new_br11 | reason<br>region<br>merge<br>shine<br>dash<br>essence<br>dice<br>milk<br>social<br>tongue<br>history |  
+| bip_39_word_new_br12 | reason<br>region<br>merge<br>shine<br>dash<br>essence<br>dice<br>milk<br>social<br>tongue<br>history<br>afford |  
+| bip_39_word_new_br2 | reason<br>region |  
+| bip_39_word_new_br3 | reason<br>region<br>merge |  
+| bip_39_word_new_br4 | reason<br>region<br>merge<br>shine |  
+| bip_39_word_new_br5 | reason<br>region<br>merge<br>shine<br>dash |  
+| bip_39_word_new_br6 | reason<br>region<br>merge<br>shine<br>dash<br>essence |  
+| bip_39_word_new_br7 | reason<br>region<br>merge<br>shine<br>dash<br>essence<br>dice |  
+| bip_39_word_new_br8 | reason<br>region<br>merge<br>shine<br>dash<br>essence<br>dice<br>milk |  
+| bip_39_word_new_br9 | reason<br>region<br>merge<br>shine<br>dash<br>essence<br>dice<br>milk<br>social |  
+| bip_39_word_new_line1 | reason |  
+| bip_39_word_new_line10 | reason
+region
+merge
+shine
+dash
+essence
+dice
+milk
+social
+tongue |  
+| bip_39_word_new_line11 | reason
+region
+merge
+shine
+dash
+essence
+dice
+milk
+social
+tongue
+history |  
+| bip_39_word_new_line12 | reason
+region
+merge
+shine
+dash
+essence
+dice
+milk
+social
+tongue
+history
+afford |  
+| bip_39_word_new_line2 | reason
+region |  
+| bip_39_word_new_line3 | reason
+region
+merge |  
+| bip_39_word_new_line4 | reason
+region
+merge
+shine |  
+| bip_39_word_new_line5 | reason
+region
+merge
+shine
+dash |  
+| bip_39_word_new_line6 | reason
+region
+merge
+shine
+dash
+essence |  
+| bip_39_word_new_line7 | reason
+region
+merge
+shine
+dash
+essence
+dice |  
+| bip_39_word_new_line8 | reason
+region
+merge
+shine
+dash
+essence
+dice
+milk |  
+| bip_39_word_new_line9 | reason
+region
+merge
+shine
+dash
+essence
+dice
+milk
+social |  
+| bip_39_word_space_0 | ['reason', 'region', 'merge', 'shine', 'dash', 'essence', 'dice', 'milk', 'social', 'tongue', 'history', 'afford'] |  
+| bip_39_word_space_1 | reason |  
+| bip_39_word_space_10 | reason region merge shine dash essence dice milk social tongue |  
+| bip_39_word_space_11 | reason region merge shine dash essence dice milk social tongue history |  
+| bip_39_word_space_12 | reason region merge shine dash essence dice milk social tongue history afford |  
+| bip_39_word_space_2 | reason region |  
+| bip_39_word_space_3 | reason region merge |  
+| bip_39_word_space_4 | reason region merge shine |  
+| bip_39_word_space_5 | reason region merge shine dash |  
+| bip_39_word_space_6 | reason region merge shine dash essence |  
+| bip_39_word_space_7 | reason region merge shine dash essence dice |  
+| bip_39_word_space_8 | reason region merge shine dash essence dice milk |  
+| bip_39_word_space_9 | reason region merge shine dash essence dice milk social |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

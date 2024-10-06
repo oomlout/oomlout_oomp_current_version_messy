@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: end focus
+  * bip 39 word 3: end focus pattern
+  * bip 39 word: end focus pattern grief save will chest silk length weekend step alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | end |  
+| bip_39_word_new_br10 | end<br>focus<br>pattern<br>grief<br>save<br>will<br>chest<br>silk<br>length<br>weekend |  
+| bip_39_word_new_br11 | end<br>focus<br>pattern<br>grief<br>save<br>will<br>chest<br>silk<br>length<br>weekend<br>step |  
+| bip_39_word_new_br12 | end<br>focus<br>pattern<br>grief<br>save<br>will<br>chest<br>silk<br>length<br>weekend<br>step<br>alley |  
+| bip_39_word_new_br2 | end<br>focus |  
+| bip_39_word_new_br3 | end<br>focus<br>pattern |  
+| bip_39_word_new_br4 | end<br>focus<br>pattern<br>grief |  
+| bip_39_word_new_br5 | end<br>focus<br>pattern<br>grief<br>save |  
+| bip_39_word_new_br6 | end<br>focus<br>pattern<br>grief<br>save<br>will |  
+| bip_39_word_new_br7 | end<br>focus<br>pattern<br>grief<br>save<br>will<br>chest |  
+| bip_39_word_new_br8 | end<br>focus<br>pattern<br>grief<br>save<br>will<br>chest<br>silk |  
+| bip_39_word_new_br9 | end<br>focus<br>pattern<br>grief<br>save<br>will<br>chest<br>silk<br>length |  
+| bip_39_word_new_line1 | end |  
+| bip_39_word_new_line10 | end
+focus
+pattern
+grief
+save
+will
+chest
+silk
+length
+weekend |  
+| bip_39_word_new_line11 | end
+focus
+pattern
+grief
+save
+will
+chest
+silk
+length
+weekend
+step |  
+| bip_39_word_new_line12 | end
+focus
+pattern
+grief
+save
+will
+chest
+silk
+length
+weekend
+step
+alley |  
+| bip_39_word_new_line2 | end
+focus |  
+| bip_39_word_new_line3 | end
+focus
+pattern |  
+| bip_39_word_new_line4 | end
+focus
+pattern
+grief |  
+| bip_39_word_new_line5 | end
+focus
+pattern
+grief
+save |  
+| bip_39_word_new_line6 | end
+focus
+pattern
+grief
+save
+will |  
+| bip_39_word_new_line7 | end
+focus
+pattern
+grief
+save
+will
+chest |  
+| bip_39_word_new_line8 | end
+focus
+pattern
+grief
+save
+will
+chest
+silk |  
+| bip_39_word_new_line9 | end
+focus
+pattern
+grief
+save
+will
+chest
+silk
+length |  
+| bip_39_word_space_0 | ['end', 'focus', 'pattern', 'grief', 'save', 'will', 'chest', 'silk', 'length', 'weekend', 'step', 'alley'] |  
+| bip_39_word_space_1 | end |  
+| bip_39_word_space_10 | end focus pattern grief save will chest silk length weekend |  
+| bip_39_word_space_11 | end focus pattern grief save will chest silk length weekend step |  
+| bip_39_word_space_12 | end focus pattern grief save will chest silk length weekend step alley |  
+| bip_39_word_space_2 | end focus |  
+| bip_39_word_space_3 | end focus pattern |  
+| bip_39_word_space_4 | end focus pattern grief |  
+| bip_39_word_space_5 | end focus pattern grief save |  
+| bip_39_word_space_6 | end focus pattern grief save will |  
+| bip_39_word_space_7 | end focus pattern grief save will chest |  
+| bip_39_word_space_8 | end focus pattern grief save will chest silk |  
+| bip_39_word_space_9 | end focus pattern grief save will chest silk length |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

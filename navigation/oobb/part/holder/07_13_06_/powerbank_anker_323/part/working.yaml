@@ -1,3 +1,186 @@
+bip_39_word_new_br1: giant
+bip_39_word_new_br10: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige<br>hub<br>group<br>twice<br>pair
+bip_39_word_new_br11: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige<br>hub<br>group<br>twice<br>pair<br>script
+bip_39_word_new_br12: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige<br>hub<br>group<br>twice<br>pair<br>script<br>angle
+bip_39_word_new_br2: giant<br>exercise
+bip_39_word_new_br3: giant<br>exercise<br>weasel
+bip_39_word_new_br4: giant<br>exercise<br>weasel<br>cinnamon
+bip_39_word_new_br5: giant<br>exercise<br>weasel<br>cinnamon<br>name
+bip_39_word_new_br6: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige
+bip_39_word_new_br7: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige<br>hub
+bip_39_word_new_br8: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige<br>hub<br>group
+bip_39_word_new_br9: giant<br>exercise<br>weasel<br>cinnamon<br>name<br>oblige<br>hub<br>group<br>twice
+bip_39_word_new_line1: giant
+bip_39_word_new_line10: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon
+
+  name
+
+  oblige
+
+  hub
+
+  group
+
+  twice
+
+  pair'
+bip_39_word_new_line11: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon
+
+  name
+
+  oblige
+
+  hub
+
+  group
+
+  twice
+
+  pair
+
+  script'
+bip_39_word_new_line12: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon
+
+  name
+
+  oblige
+
+  hub
+
+  group
+
+  twice
+
+  pair
+
+  script
+
+  angle'
+bip_39_word_new_line2: 'giant
+
+  exercise'
+bip_39_word_new_line3: 'giant
+
+  exercise
+
+  weasel'
+bip_39_word_new_line4: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon'
+bip_39_word_new_line5: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon
+
+  name'
+bip_39_word_new_line6: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon
+
+  name
+
+  oblige'
+bip_39_word_new_line7: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon
+
+  name
+
+  oblige
+
+  hub'
+bip_39_word_new_line8: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon
+
+  name
+
+  oblige
+
+  hub
+
+  group'
+bip_39_word_new_line9: 'giant
+
+  exercise
+
+  weasel
+
+  cinnamon
+
+  name
+
+  oblige
+
+  hub
+
+  group
+
+  twice'
+bip_39_word_space_0:
+- giant
+- exercise
+- weasel
+- cinnamon
+- name
+- oblige
+- hub
+- group
+- twice
+- pair
+- script
+- angle
+bip_39_word_space_1: giant
+bip_39_word_space_10: giant exercise weasel cinnamon name oblige hub group twice pair
+bip_39_word_space_11: giant exercise weasel cinnamon name oblige hub group twice pair
+  script
+bip_39_word_space_12: giant exercise weasel cinnamon name oblige hub group twice pair
+  script angle
+bip_39_word_space_2: giant exercise
+bip_39_word_space_3: giant exercise weasel
+bip_39_word_space_4: giant exercise weasel cinnamon
+bip_39_word_space_5: giant exercise weasel cinnamon name
+bip_39_word_space_6: giant exercise weasel cinnamon name oblige
+bip_39_word_space_7: giant exercise weasel cinnamon name oblige hub
+bip_39_word_space_8: giant exercise weasel cinnamon name oblige hub group
+bip_39_word_space_9: giant exercise weasel cinnamon name oblige hub group twice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

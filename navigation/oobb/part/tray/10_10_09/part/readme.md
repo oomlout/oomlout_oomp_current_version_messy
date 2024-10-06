@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: token describe
+  * bip 39 word 3: token describe athlete
+  * bip 39 word: token describe athlete satoshi there surprise vacuum head omit trouble opinion announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | token |  
+| bip_39_word_new_br10 | token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head<br>omit<br>trouble |  
+| bip_39_word_new_br11 | token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head<br>omit<br>trouble<br>opinion |  
+| bip_39_word_new_br12 | token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head<br>omit<br>trouble<br>opinion<br>announce |  
+| bip_39_word_new_br2 | token<br>describe |  
+| bip_39_word_new_br3 | token<br>describe<br>athlete |  
+| bip_39_word_new_br4 | token<br>describe<br>athlete<br>satoshi |  
+| bip_39_word_new_br5 | token<br>describe<br>athlete<br>satoshi<br>there |  
+| bip_39_word_new_br6 | token<br>describe<br>athlete<br>satoshi<br>there<br>surprise |  
+| bip_39_word_new_br7 | token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum |  
+| bip_39_word_new_br8 | token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head |  
+| bip_39_word_new_br9 | token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head<br>omit |  
+| bip_39_word_new_line1 | token |  
+| bip_39_word_new_line10 | token
+describe
+athlete
+satoshi
+there
+surprise
+vacuum
+head
+omit
+trouble |  
+| bip_39_word_new_line11 | token
+describe
+athlete
+satoshi
+there
+surprise
+vacuum
+head
+omit
+trouble
+opinion |  
+| bip_39_word_new_line12 | token
+describe
+athlete
+satoshi
+there
+surprise
+vacuum
+head
+omit
+trouble
+opinion
+announce |  
+| bip_39_word_new_line2 | token
+describe |  
+| bip_39_word_new_line3 | token
+describe
+athlete |  
+| bip_39_word_new_line4 | token
+describe
+athlete
+satoshi |  
+| bip_39_word_new_line5 | token
+describe
+athlete
+satoshi
+there |  
+| bip_39_word_new_line6 | token
+describe
+athlete
+satoshi
+there
+surprise |  
+| bip_39_word_new_line7 | token
+describe
+athlete
+satoshi
+there
+surprise
+vacuum |  
+| bip_39_word_new_line8 | token
+describe
+athlete
+satoshi
+there
+surprise
+vacuum
+head |  
+| bip_39_word_new_line9 | token
+describe
+athlete
+satoshi
+there
+surprise
+vacuum
+head
+omit |  
+| bip_39_word_space_0 | ['token', 'describe', 'athlete', 'satoshi', 'there', 'surprise', 'vacuum', 'head', 'omit', 'trouble', 'opinion', 'announce'] |  
+| bip_39_word_space_1 | token |  
+| bip_39_word_space_10 | token describe athlete satoshi there surprise vacuum head omit trouble |  
+| bip_39_word_space_11 | token describe athlete satoshi there surprise vacuum head omit trouble opinion |  
+| bip_39_word_space_12 | token describe athlete satoshi there surprise vacuum head omit trouble opinion announce |  
+| bip_39_word_space_2 | token describe |  
+| bip_39_word_space_3 | token describe athlete |  
+| bip_39_word_space_4 | token describe athlete satoshi |  
+| bip_39_word_space_5 | token describe athlete satoshi there |  
+| bip_39_word_space_6 | token describe athlete satoshi there surprise |  
+| bip_39_word_space_7 | token describe athlete satoshi there surprise vacuum |  
+| bip_39_word_space_8 | token describe athlete satoshi there surprise vacuum head |  
+| bip_39_word_space_9 | token describe athlete satoshi there surprise vacuum head omit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

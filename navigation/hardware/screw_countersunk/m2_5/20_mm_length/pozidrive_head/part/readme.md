@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: upper gain
+  * bip 39 word 3: upper gain grain
+  * bip 39 word: upper gain grain husband photo yellow medal skill hockey quantum hungry appear
 
 ### other_codes
 * short_code: cs2d5m20pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | upper |  
+| bip_39_word_new_br10 | upper<br>gain<br>grain<br>husband<br>photo<br>yellow<br>medal<br>skill<br>hockey<br>quantum |  
+| bip_39_word_new_br11 | upper<br>gain<br>grain<br>husband<br>photo<br>yellow<br>medal<br>skill<br>hockey<br>quantum<br>hungry |  
+| bip_39_word_new_br12 | upper<br>gain<br>grain<br>husband<br>photo<br>yellow<br>medal<br>skill<br>hockey<br>quantum<br>hungry<br>appear |  
+| bip_39_word_new_br2 | upper<br>gain |  
+| bip_39_word_new_br3 | upper<br>gain<br>grain |  
+| bip_39_word_new_br4 | upper<br>gain<br>grain<br>husband |  
+| bip_39_word_new_br5 | upper<br>gain<br>grain<br>husband<br>photo |  
+| bip_39_word_new_br6 | upper<br>gain<br>grain<br>husband<br>photo<br>yellow |  
+| bip_39_word_new_br7 | upper<br>gain<br>grain<br>husband<br>photo<br>yellow<br>medal |  
+| bip_39_word_new_br8 | upper<br>gain<br>grain<br>husband<br>photo<br>yellow<br>medal<br>skill |  
+| bip_39_word_new_br9 | upper<br>gain<br>grain<br>husband<br>photo<br>yellow<br>medal<br>skill<br>hockey |  
+| bip_39_word_new_line1 | upper |  
+| bip_39_word_new_line10 | upper
+gain
+grain
+husband
+photo
+yellow
+medal
+skill
+hockey
+quantum |  
+| bip_39_word_new_line11 | upper
+gain
+grain
+husband
+photo
+yellow
+medal
+skill
+hockey
+quantum
+hungry |  
+| bip_39_word_new_line12 | upper
+gain
+grain
+husband
+photo
+yellow
+medal
+skill
+hockey
+quantum
+hungry
+appear |  
+| bip_39_word_new_line2 | upper
+gain |  
+| bip_39_word_new_line3 | upper
+gain
+grain |  
+| bip_39_word_new_line4 | upper
+gain
+grain
+husband |  
+| bip_39_word_new_line5 | upper
+gain
+grain
+husband
+photo |  
+| bip_39_word_new_line6 | upper
+gain
+grain
+husband
+photo
+yellow |  
+| bip_39_word_new_line7 | upper
+gain
+grain
+husband
+photo
+yellow
+medal |  
+| bip_39_word_new_line8 | upper
+gain
+grain
+husband
+photo
+yellow
+medal
+skill |  
+| bip_39_word_new_line9 | upper
+gain
+grain
+husband
+photo
+yellow
+medal
+skill
+hockey |  
+| bip_39_word_space_0 | ['upper', 'gain', 'grain', 'husband', 'photo', 'yellow', 'medal', 'skill', 'hockey', 'quantum', 'hungry', 'appear'] |  
+| bip_39_word_space_1 | upper |  
+| bip_39_word_space_10 | upper gain grain husband photo yellow medal skill hockey quantum |  
+| bip_39_word_space_11 | upper gain grain husband photo yellow medal skill hockey quantum hungry |  
+| bip_39_word_space_12 | upper gain grain husband photo yellow medal skill hockey quantum hungry appear |  
+| bip_39_word_space_2 | upper gain |  
+| bip_39_word_space_3 | upper gain grain |  
+| bip_39_word_space_4 | upper gain grain husband |  
+| bip_39_word_space_5 | upper gain grain husband photo |  
+| bip_39_word_space_6 | upper gain grain husband photo yellow |  
+| bip_39_word_space_7 | upper gain grain husband photo yellow medal |  
+| bip_39_word_space_8 | upper gain grain husband photo yellow medal skill |  
+| bip_39_word_space_9 | upper gain grain husband photo yellow medal skill hockey |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

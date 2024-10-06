@@ -1,3 +1,186 @@
+bip_39_word_new_br1: zoo
+bip_39_word_new_br10: zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery
+bip_39_word_new_br11: zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery<br>blur
+bip_39_word_new_br12: zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium<br>celery<br>blur<br>another
+bip_39_word_new_br2: zoo<br>display
+bip_39_word_new_br3: zoo<br>display<br>nurse
+bip_39_word_new_br4: zoo<br>display<br>nurse<br>skate
+bip_39_word_new_br5: zoo<br>display<br>nurse<br>skate<br>normal
+bip_39_word_new_br6: zoo<br>display<br>nurse<br>skate<br>normal<br>own
+bip_39_word_new_br7: zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often
+bip_39_word_new_br8: zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual
+bip_39_word_new_br9: zoo<br>display<br>nurse<br>skate<br>normal<br>own<br>often<br>ritual<br>stadium
+bip_39_word_new_line1: zoo
+bip_39_word_new_line10: 'zoo
+
+  display
+
+  nurse
+
+  skate
+
+  normal
+
+  own
+
+  often
+
+  ritual
+
+  stadium
+
+  celery'
+bip_39_word_new_line11: 'zoo
+
+  display
+
+  nurse
+
+  skate
+
+  normal
+
+  own
+
+  often
+
+  ritual
+
+  stadium
+
+  celery
+
+  blur'
+bip_39_word_new_line12: 'zoo
+
+  display
+
+  nurse
+
+  skate
+
+  normal
+
+  own
+
+  often
+
+  ritual
+
+  stadium
+
+  celery
+
+  blur
+
+  another'
+bip_39_word_new_line2: 'zoo
+
+  display'
+bip_39_word_new_line3: 'zoo
+
+  display
+
+  nurse'
+bip_39_word_new_line4: 'zoo
+
+  display
+
+  nurse
+
+  skate'
+bip_39_word_new_line5: 'zoo
+
+  display
+
+  nurse
+
+  skate
+
+  normal'
+bip_39_word_new_line6: 'zoo
+
+  display
+
+  nurse
+
+  skate
+
+  normal
+
+  own'
+bip_39_word_new_line7: 'zoo
+
+  display
+
+  nurse
+
+  skate
+
+  normal
+
+  own
+
+  often'
+bip_39_word_new_line8: 'zoo
+
+  display
+
+  nurse
+
+  skate
+
+  normal
+
+  own
+
+  often
+
+  ritual'
+bip_39_word_new_line9: 'zoo
+
+  display
+
+  nurse
+
+  skate
+
+  normal
+
+  own
+
+  often
+
+  ritual
+
+  stadium'
+bip_39_word_space_0:
+- zoo
+- display
+- nurse
+- skate
+- normal
+- own
+- often
+- ritual
+- stadium
+- celery
+- blur
+- another
+bip_39_word_space_1: zoo
+bip_39_word_space_10: zoo display nurse skate normal own often ritual stadium celery
+bip_39_word_space_11: zoo display nurse skate normal own often ritual stadium celery
+  blur
+bip_39_word_space_12: zoo display nurse skate normal own often ritual stadium celery
+  blur another
+bip_39_word_space_2: zoo display
+bip_39_word_space_3: zoo display nurse
+bip_39_word_space_4: zoo display nurse skate
+bip_39_word_space_5: zoo display nurse skate normal
+bip_39_word_space_6: zoo display nurse skate normal own
+bip_39_word_space_7: zoo display nurse skate normal own often
+bip_39_word_space_8: zoo display nurse skate normal own often ritual
+bip_39_word_space_9: zoo display nurse skate normal own often ritual stadium
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

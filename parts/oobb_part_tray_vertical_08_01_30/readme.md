@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ring spare
+  * bip 39 word 3: ring spare outdoor
+  * bip 39 word: ring spare outdoor drive middle because spatial leg canoe super owner argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ring |  
+| bip_39_word_new_br10 | ring<br>spare<br>outdoor<br>drive<br>middle<br>because<br>spatial<br>leg<br>canoe<br>super |  
+| bip_39_word_new_br11 | ring<br>spare<br>outdoor<br>drive<br>middle<br>because<br>spatial<br>leg<br>canoe<br>super<br>owner |  
+| bip_39_word_new_br12 | ring<br>spare<br>outdoor<br>drive<br>middle<br>because<br>spatial<br>leg<br>canoe<br>super<br>owner<br>argue |  
+| bip_39_word_new_br2 | ring<br>spare |  
+| bip_39_word_new_br3 | ring<br>spare<br>outdoor |  
+| bip_39_word_new_br4 | ring<br>spare<br>outdoor<br>drive |  
+| bip_39_word_new_br5 | ring<br>spare<br>outdoor<br>drive<br>middle |  
+| bip_39_word_new_br6 | ring<br>spare<br>outdoor<br>drive<br>middle<br>because |  
+| bip_39_word_new_br7 | ring<br>spare<br>outdoor<br>drive<br>middle<br>because<br>spatial |  
+| bip_39_word_new_br8 | ring<br>spare<br>outdoor<br>drive<br>middle<br>because<br>spatial<br>leg |  
+| bip_39_word_new_br9 | ring<br>spare<br>outdoor<br>drive<br>middle<br>because<br>spatial<br>leg<br>canoe |  
+| bip_39_word_new_line1 | ring |  
+| bip_39_word_new_line10 | ring
+spare
+outdoor
+drive
+middle
+because
+spatial
+leg
+canoe
+super |  
+| bip_39_word_new_line11 | ring
+spare
+outdoor
+drive
+middle
+because
+spatial
+leg
+canoe
+super
+owner |  
+| bip_39_word_new_line12 | ring
+spare
+outdoor
+drive
+middle
+because
+spatial
+leg
+canoe
+super
+owner
+argue |  
+| bip_39_word_new_line2 | ring
+spare |  
+| bip_39_word_new_line3 | ring
+spare
+outdoor |  
+| bip_39_word_new_line4 | ring
+spare
+outdoor
+drive |  
+| bip_39_word_new_line5 | ring
+spare
+outdoor
+drive
+middle |  
+| bip_39_word_new_line6 | ring
+spare
+outdoor
+drive
+middle
+because |  
+| bip_39_word_new_line7 | ring
+spare
+outdoor
+drive
+middle
+because
+spatial |  
+| bip_39_word_new_line8 | ring
+spare
+outdoor
+drive
+middle
+because
+spatial
+leg |  
+| bip_39_word_new_line9 | ring
+spare
+outdoor
+drive
+middle
+because
+spatial
+leg
+canoe |  
+| bip_39_word_space_0 | ['ring', 'spare', 'outdoor', 'drive', 'middle', 'because', 'spatial', 'leg', 'canoe', 'super', 'owner', 'argue'] |  
+| bip_39_word_space_1 | ring |  
+| bip_39_word_space_10 | ring spare outdoor drive middle because spatial leg canoe super |  
+| bip_39_word_space_11 | ring spare outdoor drive middle because spatial leg canoe super owner |  
+| bip_39_word_space_12 | ring spare outdoor drive middle because spatial leg canoe super owner argue |  
+| bip_39_word_space_2 | ring spare |  
+| bip_39_word_space_3 | ring spare outdoor |  
+| bip_39_word_space_4 | ring spare outdoor drive |  
+| bip_39_word_space_5 | ring spare outdoor drive middle |  
+| bip_39_word_space_6 | ring spare outdoor drive middle because |  
+| bip_39_word_space_7 | ring spare outdoor drive middle because spatial |  
+| bip_39_word_space_8 | ring spare outdoor drive middle because spatial leg |  
+| bip_39_word_space_9 | ring spare outdoor drive middle because spatial leg canoe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

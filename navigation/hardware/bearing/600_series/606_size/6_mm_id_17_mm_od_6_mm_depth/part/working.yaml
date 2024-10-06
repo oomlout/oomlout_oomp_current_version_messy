@@ -1,3 +1,186 @@
+bip_39_word_new_br1: question
+bip_39_word_new_br10: question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine
+bip_39_word_new_br11: question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine<br>skull
+bip_39_word_new_br12: question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag<br>machine<br>skull<br>apology
+bip_39_word_new_br2: question<br>roof
+bip_39_word_new_br3: question<br>roof<br>coach
+bip_39_word_new_br4: question<br>roof<br>coach<br>myth
+bip_39_word_new_br5: question<br>roof<br>coach<br>myth<br>strategy
+bip_39_word_new_br6: question<br>roof<br>coach<br>myth<br>strategy<br>donkey
+bip_39_word_new_br7: question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width
+bip_39_word_new_br8: question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak
+bip_39_word_new_br9: question<br>roof<br>coach<br>myth<br>strategy<br>donkey<br>width<br>bleak<br>bag
+bip_39_word_new_line1: question
+bip_39_word_new_line10: 'question
+
+  roof
+
+  coach
+
+  myth
+
+  strategy
+
+  donkey
+
+  width
+
+  bleak
+
+  bag
+
+  machine'
+bip_39_word_new_line11: 'question
+
+  roof
+
+  coach
+
+  myth
+
+  strategy
+
+  donkey
+
+  width
+
+  bleak
+
+  bag
+
+  machine
+
+  skull'
+bip_39_word_new_line12: 'question
+
+  roof
+
+  coach
+
+  myth
+
+  strategy
+
+  donkey
+
+  width
+
+  bleak
+
+  bag
+
+  machine
+
+  skull
+
+  apology'
+bip_39_word_new_line2: 'question
+
+  roof'
+bip_39_word_new_line3: 'question
+
+  roof
+
+  coach'
+bip_39_word_new_line4: 'question
+
+  roof
+
+  coach
+
+  myth'
+bip_39_word_new_line5: 'question
+
+  roof
+
+  coach
+
+  myth
+
+  strategy'
+bip_39_word_new_line6: 'question
+
+  roof
+
+  coach
+
+  myth
+
+  strategy
+
+  donkey'
+bip_39_word_new_line7: 'question
+
+  roof
+
+  coach
+
+  myth
+
+  strategy
+
+  donkey
+
+  width'
+bip_39_word_new_line8: 'question
+
+  roof
+
+  coach
+
+  myth
+
+  strategy
+
+  donkey
+
+  width
+
+  bleak'
+bip_39_word_new_line9: 'question
+
+  roof
+
+  coach
+
+  myth
+
+  strategy
+
+  donkey
+
+  width
+
+  bleak
+
+  bag'
+bip_39_word_space_0:
+- question
+- roof
+- coach
+- myth
+- strategy
+- donkey
+- width
+- bleak
+- bag
+- machine
+- skull
+- apology
+bip_39_word_space_1: question
+bip_39_word_space_10: question roof coach myth strategy donkey width bleak bag machine
+bip_39_word_space_11: question roof coach myth strategy donkey width bleak bag machine
+  skull
+bip_39_word_space_12: question roof coach myth strategy donkey width bleak bag machine
+  skull apology
+bip_39_word_space_2: question roof
+bip_39_word_space_3: question roof coach
+bip_39_word_space_4: question roof coach myth
+bip_39_word_space_5: question roof coach myth strategy
+bip_39_word_space_6: question roof coach myth strategy donkey
+bip_39_word_space_7: question roof coach myth strategy donkey width
+bip_39_word_space_8: question roof coach myth strategy donkey width bleak
+bip_39_word_space_9: question roof coach myth strategy donkey width bleak bag
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

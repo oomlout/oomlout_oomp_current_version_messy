@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: charge link
+  * bip 39 word 3: charge link often
+  * bip 39 word: charge link often dry analyst grape wedding gauge surge giant garlic already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | charge |  
+| bip_39_word_new_br10 | charge<br>link<br>often<br>dry<br>analyst<br>grape<br>wedding<br>gauge<br>surge<br>giant |  
+| bip_39_word_new_br11 | charge<br>link<br>often<br>dry<br>analyst<br>grape<br>wedding<br>gauge<br>surge<br>giant<br>garlic |  
+| bip_39_word_new_br12 | charge<br>link<br>often<br>dry<br>analyst<br>grape<br>wedding<br>gauge<br>surge<br>giant<br>garlic<br>already |  
+| bip_39_word_new_br2 | charge<br>link |  
+| bip_39_word_new_br3 | charge<br>link<br>often |  
+| bip_39_word_new_br4 | charge<br>link<br>often<br>dry |  
+| bip_39_word_new_br5 | charge<br>link<br>often<br>dry<br>analyst |  
+| bip_39_word_new_br6 | charge<br>link<br>often<br>dry<br>analyst<br>grape |  
+| bip_39_word_new_br7 | charge<br>link<br>often<br>dry<br>analyst<br>grape<br>wedding |  
+| bip_39_word_new_br8 | charge<br>link<br>often<br>dry<br>analyst<br>grape<br>wedding<br>gauge |  
+| bip_39_word_new_br9 | charge<br>link<br>often<br>dry<br>analyst<br>grape<br>wedding<br>gauge<br>surge |  
+| bip_39_word_new_line1 | charge |  
+| bip_39_word_new_line10 | charge
+link
+often
+dry
+analyst
+grape
+wedding
+gauge
+surge
+giant |  
+| bip_39_word_new_line11 | charge
+link
+often
+dry
+analyst
+grape
+wedding
+gauge
+surge
+giant
+garlic |  
+| bip_39_word_new_line12 | charge
+link
+often
+dry
+analyst
+grape
+wedding
+gauge
+surge
+giant
+garlic
+already |  
+| bip_39_word_new_line2 | charge
+link |  
+| bip_39_word_new_line3 | charge
+link
+often |  
+| bip_39_word_new_line4 | charge
+link
+often
+dry |  
+| bip_39_word_new_line5 | charge
+link
+often
+dry
+analyst |  
+| bip_39_word_new_line6 | charge
+link
+often
+dry
+analyst
+grape |  
+| bip_39_word_new_line7 | charge
+link
+often
+dry
+analyst
+grape
+wedding |  
+| bip_39_word_new_line8 | charge
+link
+often
+dry
+analyst
+grape
+wedding
+gauge |  
+| bip_39_word_new_line9 | charge
+link
+often
+dry
+analyst
+grape
+wedding
+gauge
+surge |  
+| bip_39_word_space_0 | ['charge', 'link', 'often', 'dry', 'analyst', 'grape', 'wedding', 'gauge', 'surge', 'giant', 'garlic', 'already'] |  
+| bip_39_word_space_1 | charge |  
+| bip_39_word_space_10 | charge link often dry analyst grape wedding gauge surge giant |  
+| bip_39_word_space_11 | charge link often dry analyst grape wedding gauge surge giant garlic |  
+| bip_39_word_space_12 | charge link often dry analyst grape wedding gauge surge giant garlic already |  
+| bip_39_word_space_2 | charge link |  
+| bip_39_word_space_3 | charge link often |  
+| bip_39_word_space_4 | charge link often dry |  
+| bip_39_word_space_5 | charge link often dry analyst |  
+| bip_39_word_space_6 | charge link often dry analyst grape |  
+| bip_39_word_space_7 | charge link often dry analyst grape wedding |  
+| bip_39_word_space_8 | charge link often dry analyst grape wedding gauge |  
+| bip_39_word_space_9 | charge link often dry analyst grape wedding gauge surge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

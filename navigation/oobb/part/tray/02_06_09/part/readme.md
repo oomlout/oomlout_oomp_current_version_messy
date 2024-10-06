@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: super sketch
+  * bip 39 word 3: super sketch image
+  * bip 39 word: super sketch image review coconut unusual remind inside unique sphere author artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | super |  
+| bip_39_word_new_br10 | super<br>sketch<br>image<br>review<br>coconut<br>unusual<br>remind<br>inside<br>unique<br>sphere |  
+| bip_39_word_new_br11 | super<br>sketch<br>image<br>review<br>coconut<br>unusual<br>remind<br>inside<br>unique<br>sphere<br>author |  
+| bip_39_word_new_br12 | super<br>sketch<br>image<br>review<br>coconut<br>unusual<br>remind<br>inside<br>unique<br>sphere<br>author<br>artwork |  
+| bip_39_word_new_br2 | super<br>sketch |  
+| bip_39_word_new_br3 | super<br>sketch<br>image |  
+| bip_39_word_new_br4 | super<br>sketch<br>image<br>review |  
+| bip_39_word_new_br5 | super<br>sketch<br>image<br>review<br>coconut |  
+| bip_39_word_new_br6 | super<br>sketch<br>image<br>review<br>coconut<br>unusual |  
+| bip_39_word_new_br7 | super<br>sketch<br>image<br>review<br>coconut<br>unusual<br>remind |  
+| bip_39_word_new_br8 | super<br>sketch<br>image<br>review<br>coconut<br>unusual<br>remind<br>inside |  
+| bip_39_word_new_br9 | super<br>sketch<br>image<br>review<br>coconut<br>unusual<br>remind<br>inside<br>unique |  
+| bip_39_word_new_line1 | super |  
+| bip_39_word_new_line10 | super
+sketch
+image
+review
+coconut
+unusual
+remind
+inside
+unique
+sphere |  
+| bip_39_word_new_line11 | super
+sketch
+image
+review
+coconut
+unusual
+remind
+inside
+unique
+sphere
+author |  
+| bip_39_word_new_line12 | super
+sketch
+image
+review
+coconut
+unusual
+remind
+inside
+unique
+sphere
+author
+artwork |  
+| bip_39_word_new_line2 | super
+sketch |  
+| bip_39_word_new_line3 | super
+sketch
+image |  
+| bip_39_word_new_line4 | super
+sketch
+image
+review |  
+| bip_39_word_new_line5 | super
+sketch
+image
+review
+coconut |  
+| bip_39_word_new_line6 | super
+sketch
+image
+review
+coconut
+unusual |  
+| bip_39_word_new_line7 | super
+sketch
+image
+review
+coconut
+unusual
+remind |  
+| bip_39_word_new_line8 | super
+sketch
+image
+review
+coconut
+unusual
+remind
+inside |  
+| bip_39_word_new_line9 | super
+sketch
+image
+review
+coconut
+unusual
+remind
+inside
+unique |  
+| bip_39_word_space_0 | ['super', 'sketch', 'image', 'review', 'coconut', 'unusual', 'remind', 'inside', 'unique', 'sphere', 'author', 'artwork'] |  
+| bip_39_word_space_1 | super |  
+| bip_39_word_space_10 | super sketch image review coconut unusual remind inside unique sphere |  
+| bip_39_word_space_11 | super sketch image review coconut unusual remind inside unique sphere author |  
+| bip_39_word_space_12 | super sketch image review coconut unusual remind inside unique sphere author artwork |  
+| bip_39_word_space_2 | super sketch |  
+| bip_39_word_space_3 | super sketch image |  
+| bip_39_word_space_4 | super sketch image review |  
+| bip_39_word_space_5 | super sketch image review coconut |  
+| bip_39_word_space_6 | super sketch image review coconut unusual |  
+| bip_39_word_space_7 | super sketch image review coconut unusual remind |  
+| bip_39_word_space_8 | super sketch image review coconut unusual remind inside |  
+| bip_39_word_space_9 | super sketch image review coconut unusual remind inside unique |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

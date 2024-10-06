@@ -1,3 +1,186 @@
+bip_39_word_new_br1: obscure
+bip_39_word_new_br10: obscure<br>resist<br>slight<br>tank<br>unveil<br>news<br>daring<br>place<br>expect<br>tragic
+bip_39_word_new_br11: obscure<br>resist<br>slight<br>tank<br>unveil<br>news<br>daring<br>place<br>expect<br>tragic<br>already
+bip_39_word_new_br12: obscure<br>resist<br>slight<br>tank<br>unveil<br>news<br>daring<br>place<br>expect<br>tragic<br>already<br>already
+bip_39_word_new_br2: obscure<br>resist
+bip_39_word_new_br3: obscure<br>resist<br>slight
+bip_39_word_new_br4: obscure<br>resist<br>slight<br>tank
+bip_39_word_new_br5: obscure<br>resist<br>slight<br>tank<br>unveil
+bip_39_word_new_br6: obscure<br>resist<br>slight<br>tank<br>unveil<br>news
+bip_39_word_new_br7: obscure<br>resist<br>slight<br>tank<br>unveil<br>news<br>daring
+bip_39_word_new_br8: obscure<br>resist<br>slight<br>tank<br>unveil<br>news<br>daring<br>place
+bip_39_word_new_br9: obscure<br>resist<br>slight<br>tank<br>unveil<br>news<br>daring<br>place<br>expect
+bip_39_word_new_line1: obscure
+bip_39_word_new_line10: 'obscure
+
+  resist
+
+  slight
+
+  tank
+
+  unveil
+
+  news
+
+  daring
+
+  place
+
+  expect
+
+  tragic'
+bip_39_word_new_line11: 'obscure
+
+  resist
+
+  slight
+
+  tank
+
+  unveil
+
+  news
+
+  daring
+
+  place
+
+  expect
+
+  tragic
+
+  already'
+bip_39_word_new_line12: 'obscure
+
+  resist
+
+  slight
+
+  tank
+
+  unveil
+
+  news
+
+  daring
+
+  place
+
+  expect
+
+  tragic
+
+  already
+
+  already'
+bip_39_word_new_line2: 'obscure
+
+  resist'
+bip_39_word_new_line3: 'obscure
+
+  resist
+
+  slight'
+bip_39_word_new_line4: 'obscure
+
+  resist
+
+  slight
+
+  tank'
+bip_39_word_new_line5: 'obscure
+
+  resist
+
+  slight
+
+  tank
+
+  unveil'
+bip_39_word_new_line6: 'obscure
+
+  resist
+
+  slight
+
+  tank
+
+  unveil
+
+  news'
+bip_39_word_new_line7: 'obscure
+
+  resist
+
+  slight
+
+  tank
+
+  unveil
+
+  news
+
+  daring'
+bip_39_word_new_line8: 'obscure
+
+  resist
+
+  slight
+
+  tank
+
+  unveil
+
+  news
+
+  daring
+
+  place'
+bip_39_word_new_line9: 'obscure
+
+  resist
+
+  slight
+
+  tank
+
+  unveil
+
+  news
+
+  daring
+
+  place
+
+  expect'
+bip_39_word_space_0:
+- obscure
+- resist
+- slight
+- tank
+- unveil
+- news
+- daring
+- place
+- expect
+- tragic
+- already
+- already
+bip_39_word_space_1: obscure
+bip_39_word_space_10: obscure resist slight tank unveil news daring place expect tragic
+bip_39_word_space_11: obscure resist slight tank unveil news daring place expect tragic
+  already
+bip_39_word_space_12: obscure resist slight tank unveil news daring place expect tragic
+  already already
+bip_39_word_space_2: obscure resist
+bip_39_word_space_3: obscure resist slight
+bip_39_word_space_4: obscure resist slight tank
+bip_39_word_space_5: obscure resist slight tank unveil
+bip_39_word_space_6: obscure resist slight tank unveil news
+bip_39_word_space_7: obscure resist slight tank unveil news daring
+bip_39_word_space_8: obscure resist slight tank unveil news daring place
+bip_39_word_space_9: obscure resist slight tank unveil news daring place expect
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

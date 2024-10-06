@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dolphin night
+  * bip 39 word 3: dolphin night height
+  * bip 39 word: dolphin night height add victory spatial digital ahead high tumble off alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dolphin |  
+| bip_39_word_new_br10 | dolphin<br>night<br>height<br>add<br>victory<br>spatial<br>digital<br>ahead<br>high<br>tumble |  
+| bip_39_word_new_br11 | dolphin<br>night<br>height<br>add<br>victory<br>spatial<br>digital<br>ahead<br>high<br>tumble<br>off |  
+| bip_39_word_new_br12 | dolphin<br>night<br>height<br>add<br>victory<br>spatial<br>digital<br>ahead<br>high<br>tumble<br>off<br>alter |  
+| bip_39_word_new_br2 | dolphin<br>night |  
+| bip_39_word_new_br3 | dolphin<br>night<br>height |  
+| bip_39_word_new_br4 | dolphin<br>night<br>height<br>add |  
+| bip_39_word_new_br5 | dolphin<br>night<br>height<br>add<br>victory |  
+| bip_39_word_new_br6 | dolphin<br>night<br>height<br>add<br>victory<br>spatial |  
+| bip_39_word_new_br7 | dolphin<br>night<br>height<br>add<br>victory<br>spatial<br>digital |  
+| bip_39_word_new_br8 | dolphin<br>night<br>height<br>add<br>victory<br>spatial<br>digital<br>ahead |  
+| bip_39_word_new_br9 | dolphin<br>night<br>height<br>add<br>victory<br>spatial<br>digital<br>ahead<br>high |  
+| bip_39_word_new_line1 | dolphin |  
+| bip_39_word_new_line10 | dolphin
+night
+height
+add
+victory
+spatial
+digital
+ahead
+high
+tumble |  
+| bip_39_word_new_line11 | dolphin
+night
+height
+add
+victory
+spatial
+digital
+ahead
+high
+tumble
+off |  
+| bip_39_word_new_line12 | dolphin
+night
+height
+add
+victory
+spatial
+digital
+ahead
+high
+tumble
+off
+alter |  
+| bip_39_word_new_line2 | dolphin
+night |  
+| bip_39_word_new_line3 | dolphin
+night
+height |  
+| bip_39_word_new_line4 | dolphin
+night
+height
+add |  
+| bip_39_word_new_line5 | dolphin
+night
+height
+add
+victory |  
+| bip_39_word_new_line6 | dolphin
+night
+height
+add
+victory
+spatial |  
+| bip_39_word_new_line7 | dolphin
+night
+height
+add
+victory
+spatial
+digital |  
+| bip_39_word_new_line8 | dolphin
+night
+height
+add
+victory
+spatial
+digital
+ahead |  
+| bip_39_word_new_line9 | dolphin
+night
+height
+add
+victory
+spatial
+digital
+ahead
+high |  
+| bip_39_word_space_0 | ['dolphin', 'night', 'height', 'add', 'victory', 'spatial', 'digital', 'ahead', 'high', 'tumble', 'off', 'alter'] |  
+| bip_39_word_space_1 | dolphin |  
+| bip_39_word_space_10 | dolphin night height add victory spatial digital ahead high tumble |  
+| bip_39_word_space_11 | dolphin night height add victory spatial digital ahead high tumble off |  
+| bip_39_word_space_12 | dolphin night height add victory spatial digital ahead high tumble off alter |  
+| bip_39_word_space_2 | dolphin night |  
+| bip_39_word_space_3 | dolphin night height |  
+| bip_39_word_space_4 | dolphin night height add |  
+| bip_39_word_space_5 | dolphin night height add victory |  
+| bip_39_word_space_6 | dolphin night height add victory spatial |  
+| bip_39_word_space_7 | dolphin night height add victory spatial digital |  
+| bip_39_word_space_8 | dolphin night height add victory spatial digital ahead |  
+| bip_39_word_space_9 | dolphin night height add victory spatial digital ahead high |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

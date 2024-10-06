@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: region orchard
+  * bip 39 word 3: region orchard ghost
+  * bip 39 word: region orchard ghost body farm globe small update pride piano someone appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | region |  
+| bip_39_word_new_br10 | region<br>orchard<br>ghost<br>body<br>farm<br>globe<br>small<br>update<br>pride<br>piano |  
+| bip_39_word_new_br11 | region<br>orchard<br>ghost<br>body<br>farm<br>globe<br>small<br>update<br>pride<br>piano<br>someone |  
+| bip_39_word_new_br12 | region<br>orchard<br>ghost<br>body<br>farm<br>globe<br>small<br>update<br>pride<br>piano<br>someone<br>appear |  
+| bip_39_word_new_br2 | region<br>orchard |  
+| bip_39_word_new_br3 | region<br>orchard<br>ghost |  
+| bip_39_word_new_br4 | region<br>orchard<br>ghost<br>body |  
+| bip_39_word_new_br5 | region<br>orchard<br>ghost<br>body<br>farm |  
+| bip_39_word_new_br6 | region<br>orchard<br>ghost<br>body<br>farm<br>globe |  
+| bip_39_word_new_br7 | region<br>orchard<br>ghost<br>body<br>farm<br>globe<br>small |  
+| bip_39_word_new_br8 | region<br>orchard<br>ghost<br>body<br>farm<br>globe<br>small<br>update |  
+| bip_39_word_new_br9 | region<br>orchard<br>ghost<br>body<br>farm<br>globe<br>small<br>update<br>pride |  
+| bip_39_word_new_line1 | region |  
+| bip_39_word_new_line10 | region
+orchard
+ghost
+body
+farm
+globe
+small
+update
+pride
+piano |  
+| bip_39_word_new_line11 | region
+orchard
+ghost
+body
+farm
+globe
+small
+update
+pride
+piano
+someone |  
+| bip_39_word_new_line12 | region
+orchard
+ghost
+body
+farm
+globe
+small
+update
+pride
+piano
+someone
+appear |  
+| bip_39_word_new_line2 | region
+orchard |  
+| bip_39_word_new_line3 | region
+orchard
+ghost |  
+| bip_39_word_new_line4 | region
+orchard
+ghost
+body |  
+| bip_39_word_new_line5 | region
+orchard
+ghost
+body
+farm |  
+| bip_39_word_new_line6 | region
+orchard
+ghost
+body
+farm
+globe |  
+| bip_39_word_new_line7 | region
+orchard
+ghost
+body
+farm
+globe
+small |  
+| bip_39_word_new_line8 | region
+orchard
+ghost
+body
+farm
+globe
+small
+update |  
+| bip_39_word_new_line9 | region
+orchard
+ghost
+body
+farm
+globe
+small
+update
+pride |  
+| bip_39_word_space_0 | ['region', 'orchard', 'ghost', 'body', 'farm', 'globe', 'small', 'update', 'pride', 'piano', 'someone', 'appear'] |  
+| bip_39_word_space_1 | region |  
+| bip_39_word_space_10 | region orchard ghost body farm globe small update pride piano |  
+| bip_39_word_space_11 | region orchard ghost body farm globe small update pride piano someone |  
+| bip_39_word_space_12 | region orchard ghost body farm globe small update pride piano someone appear |  
+| bip_39_word_space_2 | region orchard |  
+| bip_39_word_space_3 | region orchard ghost |  
+| bip_39_word_space_4 | region orchard ghost body |  
+| bip_39_word_space_5 | region orchard ghost body farm |  
+| bip_39_word_space_6 | region orchard ghost body farm globe |  
+| bip_39_word_space_7 | region orchard ghost body farm globe small |  
+| bip_39_word_space_8 | region orchard ghost body farm globe small update |  
+| bip_39_word_space_9 | region orchard ghost body farm globe small update pride |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

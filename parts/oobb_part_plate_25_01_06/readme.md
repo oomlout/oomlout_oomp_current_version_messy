@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: labor virus
+  * bip 39 word 3: labor virus fancy
+  * bip 39 word: labor virus fancy gorilla side possible pyramid assault weasel zoo company analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | labor |  
+| bip_39_word_new_br10 | labor<br>virus<br>fancy<br>gorilla<br>side<br>possible<br>pyramid<br>assault<br>weasel<br>zoo |  
+| bip_39_word_new_br11 | labor<br>virus<br>fancy<br>gorilla<br>side<br>possible<br>pyramid<br>assault<br>weasel<br>zoo<br>company |  
+| bip_39_word_new_br12 | labor<br>virus<br>fancy<br>gorilla<br>side<br>possible<br>pyramid<br>assault<br>weasel<br>zoo<br>company<br>analyst |  
+| bip_39_word_new_br2 | labor<br>virus |  
+| bip_39_word_new_br3 | labor<br>virus<br>fancy |  
+| bip_39_word_new_br4 | labor<br>virus<br>fancy<br>gorilla |  
+| bip_39_word_new_br5 | labor<br>virus<br>fancy<br>gorilla<br>side |  
+| bip_39_word_new_br6 | labor<br>virus<br>fancy<br>gorilla<br>side<br>possible |  
+| bip_39_word_new_br7 | labor<br>virus<br>fancy<br>gorilla<br>side<br>possible<br>pyramid |  
+| bip_39_word_new_br8 | labor<br>virus<br>fancy<br>gorilla<br>side<br>possible<br>pyramid<br>assault |  
+| bip_39_word_new_br9 | labor<br>virus<br>fancy<br>gorilla<br>side<br>possible<br>pyramid<br>assault<br>weasel |  
+| bip_39_word_new_line1 | labor |  
+| bip_39_word_new_line10 | labor
+virus
+fancy
+gorilla
+side
+possible
+pyramid
+assault
+weasel
+zoo |  
+| bip_39_word_new_line11 | labor
+virus
+fancy
+gorilla
+side
+possible
+pyramid
+assault
+weasel
+zoo
+company |  
+| bip_39_word_new_line12 | labor
+virus
+fancy
+gorilla
+side
+possible
+pyramid
+assault
+weasel
+zoo
+company
+analyst |  
+| bip_39_word_new_line2 | labor
+virus |  
+| bip_39_word_new_line3 | labor
+virus
+fancy |  
+| bip_39_word_new_line4 | labor
+virus
+fancy
+gorilla |  
+| bip_39_word_new_line5 | labor
+virus
+fancy
+gorilla
+side |  
+| bip_39_word_new_line6 | labor
+virus
+fancy
+gorilla
+side
+possible |  
+| bip_39_word_new_line7 | labor
+virus
+fancy
+gorilla
+side
+possible
+pyramid |  
+| bip_39_word_new_line8 | labor
+virus
+fancy
+gorilla
+side
+possible
+pyramid
+assault |  
+| bip_39_word_new_line9 | labor
+virus
+fancy
+gorilla
+side
+possible
+pyramid
+assault
+weasel |  
+| bip_39_word_space_0 | ['labor', 'virus', 'fancy', 'gorilla', 'side', 'possible', 'pyramid', 'assault', 'weasel', 'zoo', 'company', 'analyst'] |  
+| bip_39_word_space_1 | labor |  
+| bip_39_word_space_10 | labor virus fancy gorilla side possible pyramid assault weasel zoo |  
+| bip_39_word_space_11 | labor virus fancy gorilla side possible pyramid assault weasel zoo company |  
+| bip_39_word_space_12 | labor virus fancy gorilla side possible pyramid assault weasel zoo company analyst |  
+| bip_39_word_space_2 | labor virus |  
+| bip_39_word_space_3 | labor virus fancy |  
+| bip_39_word_space_4 | labor virus fancy gorilla |  
+| bip_39_word_space_5 | labor virus fancy gorilla side |  
+| bip_39_word_space_6 | labor virus fancy gorilla side possible |  
+| bip_39_word_space_7 | labor virus fancy gorilla side possible pyramid |  
+| bip_39_word_space_8 | labor virus fancy gorilla side possible pyramid assault |  
+| bip_39_word_space_9 | labor virus fancy gorilla side possible pyramid assault weasel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

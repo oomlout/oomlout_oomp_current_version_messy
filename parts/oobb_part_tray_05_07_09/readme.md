@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: guess salute
+  * bip 39 word 3: guess salute picture
+  * bip 39 word: guess salute picture clay virus sound sport devote dust item above alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | guess |  
+| bip_39_word_new_br10 | guess<br>salute<br>picture<br>clay<br>virus<br>sound<br>sport<br>devote<br>dust<br>item |  
+| bip_39_word_new_br11 | guess<br>salute<br>picture<br>clay<br>virus<br>sound<br>sport<br>devote<br>dust<br>item<br>above |  
+| bip_39_word_new_br12 | guess<br>salute<br>picture<br>clay<br>virus<br>sound<br>sport<br>devote<br>dust<br>item<br>above<br>alone |  
+| bip_39_word_new_br2 | guess<br>salute |  
+| bip_39_word_new_br3 | guess<br>salute<br>picture |  
+| bip_39_word_new_br4 | guess<br>salute<br>picture<br>clay |  
+| bip_39_word_new_br5 | guess<br>salute<br>picture<br>clay<br>virus |  
+| bip_39_word_new_br6 | guess<br>salute<br>picture<br>clay<br>virus<br>sound |  
+| bip_39_word_new_br7 | guess<br>salute<br>picture<br>clay<br>virus<br>sound<br>sport |  
+| bip_39_word_new_br8 | guess<br>salute<br>picture<br>clay<br>virus<br>sound<br>sport<br>devote |  
+| bip_39_word_new_br9 | guess<br>salute<br>picture<br>clay<br>virus<br>sound<br>sport<br>devote<br>dust |  
+| bip_39_word_new_line1 | guess |  
+| bip_39_word_new_line10 | guess
+salute
+picture
+clay
+virus
+sound
+sport
+devote
+dust
+item |  
+| bip_39_word_new_line11 | guess
+salute
+picture
+clay
+virus
+sound
+sport
+devote
+dust
+item
+above |  
+| bip_39_word_new_line12 | guess
+salute
+picture
+clay
+virus
+sound
+sport
+devote
+dust
+item
+above
+alone |  
+| bip_39_word_new_line2 | guess
+salute |  
+| bip_39_word_new_line3 | guess
+salute
+picture |  
+| bip_39_word_new_line4 | guess
+salute
+picture
+clay |  
+| bip_39_word_new_line5 | guess
+salute
+picture
+clay
+virus |  
+| bip_39_word_new_line6 | guess
+salute
+picture
+clay
+virus
+sound |  
+| bip_39_word_new_line7 | guess
+salute
+picture
+clay
+virus
+sound
+sport |  
+| bip_39_word_new_line8 | guess
+salute
+picture
+clay
+virus
+sound
+sport
+devote |  
+| bip_39_word_new_line9 | guess
+salute
+picture
+clay
+virus
+sound
+sport
+devote
+dust |  
+| bip_39_word_space_0 | ['guess', 'salute', 'picture', 'clay', 'virus', 'sound', 'sport', 'devote', 'dust', 'item', 'above', 'alone'] |  
+| bip_39_word_space_1 | guess |  
+| bip_39_word_space_10 | guess salute picture clay virus sound sport devote dust item |  
+| bip_39_word_space_11 | guess salute picture clay virus sound sport devote dust item above |  
+| bip_39_word_space_12 | guess salute picture clay virus sound sport devote dust item above alone |  
+| bip_39_word_space_2 | guess salute |  
+| bip_39_word_space_3 | guess salute picture |  
+| bip_39_word_space_4 | guess salute picture clay |  
+| bip_39_word_space_5 | guess salute picture clay virus |  
+| bip_39_word_space_6 | guess salute picture clay virus sound |  
+| bip_39_word_space_7 | guess salute picture clay virus sound sport |  
+| bip_39_word_space_8 | guess salute picture clay virus sound sport devote |  
+| bip_39_word_space_9 | guess salute picture clay virus sound sport devote dust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

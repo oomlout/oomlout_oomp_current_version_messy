@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dad reflect
+  * bip 39 word 3: dad reflect analyst
+  * bip 39 word: dad reflect analyst fragile assume mouse retreat antenna answer case nominee amused
 
 ### other_codes
 * short_code: cs4b35h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dad |  
+| bip_39_word_new_br10 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse<br>retreat<br>antenna<br>answer<br>case |  
+| bip_39_word_new_br11 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse<br>retreat<br>antenna<br>answer<br>case<br>nominee |  
+| bip_39_word_new_br12 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse<br>retreat<br>antenna<br>answer<br>case<br>nominee<br>amused |  
+| bip_39_word_new_br2 | dad<br>reflect |  
+| bip_39_word_new_br3 | dad<br>reflect<br>analyst |  
+| bip_39_word_new_br4 | dad<br>reflect<br>analyst<br>fragile |  
+| bip_39_word_new_br5 | dad<br>reflect<br>analyst<br>fragile<br>assume |  
+| bip_39_word_new_br6 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse |  
+| bip_39_word_new_br7 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse<br>retreat |  
+| bip_39_word_new_br8 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse<br>retreat<br>antenna |  
+| bip_39_word_new_br9 | dad<br>reflect<br>analyst<br>fragile<br>assume<br>mouse<br>retreat<br>antenna<br>answer |  
+| bip_39_word_new_line1 | dad |  
+| bip_39_word_new_line10 | dad
+reflect
+analyst
+fragile
+assume
+mouse
+retreat
+antenna
+answer
+case |  
+| bip_39_word_new_line11 | dad
+reflect
+analyst
+fragile
+assume
+mouse
+retreat
+antenna
+answer
+case
+nominee |  
+| bip_39_word_new_line12 | dad
+reflect
+analyst
+fragile
+assume
+mouse
+retreat
+antenna
+answer
+case
+nominee
+amused |  
+| bip_39_word_new_line2 | dad
+reflect |  
+| bip_39_word_new_line3 | dad
+reflect
+analyst |  
+| bip_39_word_new_line4 | dad
+reflect
+analyst
+fragile |  
+| bip_39_word_new_line5 | dad
+reflect
+analyst
+fragile
+assume |  
+| bip_39_word_new_line6 | dad
+reflect
+analyst
+fragile
+assume
+mouse |  
+| bip_39_word_new_line7 | dad
+reflect
+analyst
+fragile
+assume
+mouse
+retreat |  
+| bip_39_word_new_line8 | dad
+reflect
+analyst
+fragile
+assume
+mouse
+retreat
+antenna |  
+| bip_39_word_new_line9 | dad
+reflect
+analyst
+fragile
+assume
+mouse
+retreat
+antenna
+answer |  
+| bip_39_word_space_0 | ['dad', 'reflect', 'analyst', 'fragile', 'assume', 'mouse', 'retreat', 'antenna', 'answer', 'case', 'nominee', 'amused'] |  
+| bip_39_word_space_1 | dad |  
+| bip_39_word_space_10 | dad reflect analyst fragile assume mouse retreat antenna answer case |  
+| bip_39_word_space_11 | dad reflect analyst fragile assume mouse retreat antenna answer case nominee |  
+| bip_39_word_space_12 | dad reflect analyst fragile assume mouse retreat antenna answer case nominee amused |  
+| bip_39_word_space_2 | dad reflect |  
+| bip_39_word_space_3 | dad reflect analyst |  
+| bip_39_word_space_4 | dad reflect analyst fragile |  
+| bip_39_word_space_5 | dad reflect analyst fragile assume |  
+| bip_39_word_space_6 | dad reflect analyst fragile assume mouse |  
+| bip_39_word_space_7 | dad reflect analyst fragile assume mouse retreat |  
+| bip_39_word_space_8 | dad reflect analyst fragile assume mouse retreat antenna |  
+| bip_39_word_space_9 | dad reflect analyst fragile assume mouse retreat antenna answer |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

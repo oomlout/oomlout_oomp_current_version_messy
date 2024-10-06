@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: letter spirit
+  * bip 39 word 3: letter spirit gold
+  * bip 39 word: letter spirit gold cook cupboard cabin rug destroy battle inform loyal achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | letter |  
+| bip_39_word_new_br10 | letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin<br>rug<br>destroy<br>battle<br>inform |  
+| bip_39_word_new_br11 | letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin<br>rug<br>destroy<br>battle<br>inform<br>loyal |  
+| bip_39_word_new_br12 | letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin<br>rug<br>destroy<br>battle<br>inform<br>loyal<br>achieve |  
+| bip_39_word_new_br2 | letter<br>spirit |  
+| bip_39_word_new_br3 | letter<br>spirit<br>gold |  
+| bip_39_word_new_br4 | letter<br>spirit<br>gold<br>cook |  
+| bip_39_word_new_br5 | letter<br>spirit<br>gold<br>cook<br>cupboard |  
+| bip_39_word_new_br6 | letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin |  
+| bip_39_word_new_br7 | letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin<br>rug |  
+| bip_39_word_new_br8 | letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin<br>rug<br>destroy |  
+| bip_39_word_new_br9 | letter<br>spirit<br>gold<br>cook<br>cupboard<br>cabin<br>rug<br>destroy<br>battle |  
+| bip_39_word_new_line1 | letter |  
+| bip_39_word_new_line10 | letter
+spirit
+gold
+cook
+cupboard
+cabin
+rug
+destroy
+battle
+inform |  
+| bip_39_word_new_line11 | letter
+spirit
+gold
+cook
+cupboard
+cabin
+rug
+destroy
+battle
+inform
+loyal |  
+| bip_39_word_new_line12 | letter
+spirit
+gold
+cook
+cupboard
+cabin
+rug
+destroy
+battle
+inform
+loyal
+achieve |  
+| bip_39_word_new_line2 | letter
+spirit |  
+| bip_39_word_new_line3 | letter
+spirit
+gold |  
+| bip_39_word_new_line4 | letter
+spirit
+gold
+cook |  
+| bip_39_word_new_line5 | letter
+spirit
+gold
+cook
+cupboard |  
+| bip_39_word_new_line6 | letter
+spirit
+gold
+cook
+cupboard
+cabin |  
+| bip_39_word_new_line7 | letter
+spirit
+gold
+cook
+cupboard
+cabin
+rug |  
+| bip_39_word_new_line8 | letter
+spirit
+gold
+cook
+cupboard
+cabin
+rug
+destroy |  
+| bip_39_word_new_line9 | letter
+spirit
+gold
+cook
+cupboard
+cabin
+rug
+destroy
+battle |  
+| bip_39_word_space_0 | ['letter', 'spirit', 'gold', 'cook', 'cupboard', 'cabin', 'rug', 'destroy', 'battle', 'inform', 'loyal', 'achieve'] |  
+| bip_39_word_space_1 | letter |  
+| bip_39_word_space_10 | letter spirit gold cook cupboard cabin rug destroy battle inform |  
+| bip_39_word_space_11 | letter spirit gold cook cupboard cabin rug destroy battle inform loyal |  
+| bip_39_word_space_12 | letter spirit gold cook cupboard cabin rug destroy battle inform loyal achieve |  
+| bip_39_word_space_2 | letter spirit |  
+| bip_39_word_space_3 | letter spirit gold |  
+| bip_39_word_space_4 | letter spirit gold cook |  
+| bip_39_word_space_5 | letter spirit gold cook cupboard |  
+| bip_39_word_space_6 | letter spirit gold cook cupboard cabin |  
+| bip_39_word_space_7 | letter spirit gold cook cupboard cabin rug |  
+| bip_39_word_space_8 | letter spirit gold cook cupboard cabin rug destroy |  
+| bip_39_word_space_9 | letter spirit gold cook cupboard cabin rug destroy battle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

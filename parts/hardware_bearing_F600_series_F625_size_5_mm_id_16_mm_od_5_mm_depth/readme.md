@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: version royal
+  * bip 39 word 3: version royal sort
+  * bip 39 word: version royal sort coast table abuse stage mom lamp people shine aunt
 
 ### other_codes
 * short_code: brF625
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | version |  
+| bip_39_word_new_br10 | version<br>royal<br>sort<br>coast<br>table<br>abuse<br>stage<br>mom<br>lamp<br>people |  
+| bip_39_word_new_br11 | version<br>royal<br>sort<br>coast<br>table<br>abuse<br>stage<br>mom<br>lamp<br>people<br>shine |  
+| bip_39_word_new_br12 | version<br>royal<br>sort<br>coast<br>table<br>abuse<br>stage<br>mom<br>lamp<br>people<br>shine<br>aunt |  
+| bip_39_word_new_br2 | version<br>royal |  
+| bip_39_word_new_br3 | version<br>royal<br>sort |  
+| bip_39_word_new_br4 | version<br>royal<br>sort<br>coast |  
+| bip_39_word_new_br5 | version<br>royal<br>sort<br>coast<br>table |  
+| bip_39_word_new_br6 | version<br>royal<br>sort<br>coast<br>table<br>abuse |  
+| bip_39_word_new_br7 | version<br>royal<br>sort<br>coast<br>table<br>abuse<br>stage |  
+| bip_39_word_new_br8 | version<br>royal<br>sort<br>coast<br>table<br>abuse<br>stage<br>mom |  
+| bip_39_word_new_br9 | version<br>royal<br>sort<br>coast<br>table<br>abuse<br>stage<br>mom<br>lamp |  
+| bip_39_word_new_line1 | version |  
+| bip_39_word_new_line10 | version
+royal
+sort
+coast
+table
+abuse
+stage
+mom
+lamp
+people |  
+| bip_39_word_new_line11 | version
+royal
+sort
+coast
+table
+abuse
+stage
+mom
+lamp
+people
+shine |  
+| bip_39_word_new_line12 | version
+royal
+sort
+coast
+table
+abuse
+stage
+mom
+lamp
+people
+shine
+aunt |  
+| bip_39_word_new_line2 | version
+royal |  
+| bip_39_word_new_line3 | version
+royal
+sort |  
+| bip_39_word_new_line4 | version
+royal
+sort
+coast |  
+| bip_39_word_new_line5 | version
+royal
+sort
+coast
+table |  
+| bip_39_word_new_line6 | version
+royal
+sort
+coast
+table
+abuse |  
+| bip_39_word_new_line7 | version
+royal
+sort
+coast
+table
+abuse
+stage |  
+| bip_39_word_new_line8 | version
+royal
+sort
+coast
+table
+abuse
+stage
+mom |  
+| bip_39_word_new_line9 | version
+royal
+sort
+coast
+table
+abuse
+stage
+mom
+lamp |  
+| bip_39_word_space_0 | ['version', 'royal', 'sort', 'coast', 'table', 'abuse', 'stage', 'mom', 'lamp', 'people', 'shine', 'aunt'] |  
+| bip_39_word_space_1 | version |  
+| bip_39_word_space_10 | version royal sort coast table abuse stage mom lamp people |  
+| bip_39_word_space_11 | version royal sort coast table abuse stage mom lamp people shine |  
+| bip_39_word_space_12 | version royal sort coast table abuse stage mom lamp people shine aunt |  
+| bip_39_word_space_2 | version royal |  
+| bip_39_word_space_3 | version royal sort |  
+| bip_39_word_space_4 | version royal sort coast |  
+| bip_39_word_space_5 | version royal sort coast table |  
+| bip_39_word_space_6 | version royal sort coast table abuse |  
+| bip_39_word_space_7 | version royal sort coast table abuse stage |  
+| bip_39_word_space_8 | version royal sort coast table abuse stage mom |  
+| bip_39_word_space_9 | version royal sort coast table abuse stage mom lamp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

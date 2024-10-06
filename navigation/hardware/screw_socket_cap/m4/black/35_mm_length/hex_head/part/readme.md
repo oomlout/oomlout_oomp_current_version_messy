@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chef novel
+  * bip 39 word 3: chef novel ticket
+  * bip 39 word: chef novel ticket sunny bridge early satisfy diesel climb train session appear
 
 ### other_codes
 * short_code: sc4b35h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chef |  
+| bip_39_word_new_br10 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early<br>satisfy<br>diesel<br>climb<br>train |  
+| bip_39_word_new_br11 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early<br>satisfy<br>diesel<br>climb<br>train<br>session |  
+| bip_39_word_new_br12 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early<br>satisfy<br>diesel<br>climb<br>train<br>session<br>appear |  
+| bip_39_word_new_br2 | chef<br>novel |  
+| bip_39_word_new_br3 | chef<br>novel<br>ticket |  
+| bip_39_word_new_br4 | chef<br>novel<br>ticket<br>sunny |  
+| bip_39_word_new_br5 | chef<br>novel<br>ticket<br>sunny<br>bridge |  
+| bip_39_word_new_br6 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early |  
+| bip_39_word_new_br7 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early<br>satisfy |  
+| bip_39_word_new_br8 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early<br>satisfy<br>diesel |  
+| bip_39_word_new_br9 | chef<br>novel<br>ticket<br>sunny<br>bridge<br>early<br>satisfy<br>diesel<br>climb |  
+| bip_39_word_new_line1 | chef |  
+| bip_39_word_new_line10 | chef
+novel
+ticket
+sunny
+bridge
+early
+satisfy
+diesel
+climb
+train |  
+| bip_39_word_new_line11 | chef
+novel
+ticket
+sunny
+bridge
+early
+satisfy
+diesel
+climb
+train
+session |  
+| bip_39_word_new_line12 | chef
+novel
+ticket
+sunny
+bridge
+early
+satisfy
+diesel
+climb
+train
+session
+appear |  
+| bip_39_word_new_line2 | chef
+novel |  
+| bip_39_word_new_line3 | chef
+novel
+ticket |  
+| bip_39_word_new_line4 | chef
+novel
+ticket
+sunny |  
+| bip_39_word_new_line5 | chef
+novel
+ticket
+sunny
+bridge |  
+| bip_39_word_new_line6 | chef
+novel
+ticket
+sunny
+bridge
+early |  
+| bip_39_word_new_line7 | chef
+novel
+ticket
+sunny
+bridge
+early
+satisfy |  
+| bip_39_word_new_line8 | chef
+novel
+ticket
+sunny
+bridge
+early
+satisfy
+diesel |  
+| bip_39_word_new_line9 | chef
+novel
+ticket
+sunny
+bridge
+early
+satisfy
+diesel
+climb |  
+| bip_39_word_space_0 | ['chef', 'novel', 'ticket', 'sunny', 'bridge', 'early', 'satisfy', 'diesel', 'climb', 'train', 'session', 'appear'] |  
+| bip_39_word_space_1 | chef |  
+| bip_39_word_space_10 | chef novel ticket sunny bridge early satisfy diesel climb train |  
+| bip_39_word_space_11 | chef novel ticket sunny bridge early satisfy diesel climb train session |  
+| bip_39_word_space_12 | chef novel ticket sunny bridge early satisfy diesel climb train session appear |  
+| bip_39_word_space_2 | chef novel |  
+| bip_39_word_space_3 | chef novel ticket |  
+| bip_39_word_space_4 | chef novel ticket sunny |  
+| bip_39_word_space_5 | chef novel ticket sunny bridge |  
+| bip_39_word_space_6 | chef novel ticket sunny bridge early |  
+| bip_39_word_space_7 | chef novel ticket sunny bridge early satisfy |  
+| bip_39_word_space_8 | chef novel ticket sunny bridge early satisfy diesel |  
+| bip_39_word_space_9 | chef novel ticket sunny bridge early satisfy diesel climb |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

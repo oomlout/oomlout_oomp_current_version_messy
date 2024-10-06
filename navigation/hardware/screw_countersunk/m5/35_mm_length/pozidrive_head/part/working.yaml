@@ -1,3 +1,186 @@
+bip_39_word_new_br1: twist
+bip_39_word_new_br10: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long<br>midnight<br>crush<br>album<br>course
+bip_39_word_new_br11: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long<br>midnight<br>crush<br>album<br>course<br>focus
+bip_39_word_new_br12: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long<br>midnight<br>crush<br>album<br>course<br>focus<br>amount
+bip_39_word_new_br2: twist<br>cousin
+bip_39_word_new_br3: twist<br>cousin<br>pilot
+bip_39_word_new_br4: twist<br>cousin<br>pilot<br>lion
+bip_39_word_new_br5: twist<br>cousin<br>pilot<br>lion<br>bridge
+bip_39_word_new_br6: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long
+bip_39_word_new_br7: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long<br>midnight
+bip_39_word_new_br8: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long<br>midnight<br>crush
+bip_39_word_new_br9: twist<br>cousin<br>pilot<br>lion<br>bridge<br>long<br>midnight<br>crush<br>album
+bip_39_word_new_line1: twist
+bip_39_word_new_line10: 'twist
+
+  cousin
+
+  pilot
+
+  lion
+
+  bridge
+
+  long
+
+  midnight
+
+  crush
+
+  album
+
+  course'
+bip_39_word_new_line11: 'twist
+
+  cousin
+
+  pilot
+
+  lion
+
+  bridge
+
+  long
+
+  midnight
+
+  crush
+
+  album
+
+  course
+
+  focus'
+bip_39_word_new_line12: 'twist
+
+  cousin
+
+  pilot
+
+  lion
+
+  bridge
+
+  long
+
+  midnight
+
+  crush
+
+  album
+
+  course
+
+  focus
+
+  amount'
+bip_39_word_new_line2: 'twist
+
+  cousin'
+bip_39_word_new_line3: 'twist
+
+  cousin
+
+  pilot'
+bip_39_word_new_line4: 'twist
+
+  cousin
+
+  pilot
+
+  lion'
+bip_39_word_new_line5: 'twist
+
+  cousin
+
+  pilot
+
+  lion
+
+  bridge'
+bip_39_word_new_line6: 'twist
+
+  cousin
+
+  pilot
+
+  lion
+
+  bridge
+
+  long'
+bip_39_word_new_line7: 'twist
+
+  cousin
+
+  pilot
+
+  lion
+
+  bridge
+
+  long
+
+  midnight'
+bip_39_word_new_line8: 'twist
+
+  cousin
+
+  pilot
+
+  lion
+
+  bridge
+
+  long
+
+  midnight
+
+  crush'
+bip_39_word_new_line9: 'twist
+
+  cousin
+
+  pilot
+
+  lion
+
+  bridge
+
+  long
+
+  midnight
+
+  crush
+
+  album'
+bip_39_word_space_0:
+- twist
+- cousin
+- pilot
+- lion
+- bridge
+- long
+- midnight
+- crush
+- album
+- course
+- focus
+- amount
+bip_39_word_space_1: twist
+bip_39_word_space_10: twist cousin pilot lion bridge long midnight crush album course
+bip_39_word_space_11: twist cousin pilot lion bridge long midnight crush album course
+  focus
+bip_39_word_space_12: twist cousin pilot lion bridge long midnight crush album course
+  focus amount
+bip_39_word_space_2: twist cousin
+bip_39_word_space_3: twist cousin pilot
+bip_39_word_space_4: twist cousin pilot lion
+bip_39_word_space_5: twist cousin pilot lion bridge
+bip_39_word_space_6: twist cousin pilot lion bridge long
+bip_39_word_space_7: twist cousin pilot lion bridge long midnight
+bip_39_word_space_8: twist cousin pilot lion bridge long midnight crush
+bip_39_word_space_9: twist cousin pilot lion bridge long midnight crush album
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

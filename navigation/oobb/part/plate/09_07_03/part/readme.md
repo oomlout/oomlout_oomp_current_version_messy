@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: result gentle
+  * bip 39 word 3: result gentle ignore
+  * bip 39 word: result gentle ignore fiction toe fury tooth tragic real scorpion enhance absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | result |  
+| bip_39_word_new_br10 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real<br>scorpion |  
+| bip_39_word_new_br11 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real<br>scorpion<br>enhance |  
+| bip_39_word_new_br12 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real<br>scorpion<br>enhance<br>absurd |  
+| bip_39_word_new_br2 | result<br>gentle |  
+| bip_39_word_new_br3 | result<br>gentle<br>ignore |  
+| bip_39_word_new_br4 | result<br>gentle<br>ignore<br>fiction |  
+| bip_39_word_new_br5 | result<br>gentle<br>ignore<br>fiction<br>toe |  
+| bip_39_word_new_br6 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury |  
+| bip_39_word_new_br7 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth |  
+| bip_39_word_new_br8 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic |  
+| bip_39_word_new_br9 | result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real |  
+| bip_39_word_new_line1 | result |  
+| bip_39_word_new_line10 | result
+gentle
+ignore
+fiction
+toe
+fury
+tooth
+tragic
+real
+scorpion |  
+| bip_39_word_new_line11 | result
+gentle
+ignore
+fiction
+toe
+fury
+tooth
+tragic
+real
+scorpion
+enhance |  
+| bip_39_word_new_line12 | result
+gentle
+ignore
+fiction
+toe
+fury
+tooth
+tragic
+real
+scorpion
+enhance
+absurd |  
+| bip_39_word_new_line2 | result
+gentle |  
+| bip_39_word_new_line3 | result
+gentle
+ignore |  
+| bip_39_word_new_line4 | result
+gentle
+ignore
+fiction |  
+| bip_39_word_new_line5 | result
+gentle
+ignore
+fiction
+toe |  
+| bip_39_word_new_line6 | result
+gentle
+ignore
+fiction
+toe
+fury |  
+| bip_39_word_new_line7 | result
+gentle
+ignore
+fiction
+toe
+fury
+tooth |  
+| bip_39_word_new_line8 | result
+gentle
+ignore
+fiction
+toe
+fury
+tooth
+tragic |  
+| bip_39_word_new_line9 | result
+gentle
+ignore
+fiction
+toe
+fury
+tooth
+tragic
+real |  
+| bip_39_word_space_0 | ['result', 'gentle', 'ignore', 'fiction', 'toe', 'fury', 'tooth', 'tragic', 'real', 'scorpion', 'enhance', 'absurd'] |  
+| bip_39_word_space_1 | result |  
+| bip_39_word_space_10 | result gentle ignore fiction toe fury tooth tragic real scorpion |  
+| bip_39_word_space_11 | result gentle ignore fiction toe fury tooth tragic real scorpion enhance |  
+| bip_39_word_space_12 | result gentle ignore fiction toe fury tooth tragic real scorpion enhance absurd |  
+| bip_39_word_space_2 | result gentle |  
+| bip_39_word_space_3 | result gentle ignore |  
+| bip_39_word_space_4 | result gentle ignore fiction |  
+| bip_39_word_space_5 | result gentle ignore fiction toe |  
+| bip_39_word_space_6 | result gentle ignore fiction toe fury |  
+| bip_39_word_space_7 | result gentle ignore fiction toe fury tooth |  
+| bip_39_word_space_8 | result gentle ignore fiction toe fury tooth tragic |  
+| bip_39_word_space_9 | result gentle ignore fiction toe fury tooth tragic real |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

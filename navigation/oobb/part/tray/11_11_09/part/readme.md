@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: carry insane
+  * bip 39 word 3: carry insane whisper
+  * bip 39 word: carry insane whisper lion foil clown boss naive together sunny boy allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | carry |  
+| bip_39_word_new_br10 | carry<br>insane<br>whisper<br>lion<br>foil<br>clown<br>boss<br>naive<br>together<br>sunny |  
+| bip_39_word_new_br11 | carry<br>insane<br>whisper<br>lion<br>foil<br>clown<br>boss<br>naive<br>together<br>sunny<br>boy |  
+| bip_39_word_new_br12 | carry<br>insane<br>whisper<br>lion<br>foil<br>clown<br>boss<br>naive<br>together<br>sunny<br>boy<br>allow |  
+| bip_39_word_new_br2 | carry<br>insane |  
+| bip_39_word_new_br3 | carry<br>insane<br>whisper |  
+| bip_39_word_new_br4 | carry<br>insane<br>whisper<br>lion |  
+| bip_39_word_new_br5 | carry<br>insane<br>whisper<br>lion<br>foil |  
+| bip_39_word_new_br6 | carry<br>insane<br>whisper<br>lion<br>foil<br>clown |  
+| bip_39_word_new_br7 | carry<br>insane<br>whisper<br>lion<br>foil<br>clown<br>boss |  
+| bip_39_word_new_br8 | carry<br>insane<br>whisper<br>lion<br>foil<br>clown<br>boss<br>naive |  
+| bip_39_word_new_br9 | carry<br>insane<br>whisper<br>lion<br>foil<br>clown<br>boss<br>naive<br>together |  
+| bip_39_word_new_line1 | carry |  
+| bip_39_word_new_line10 | carry
+insane
+whisper
+lion
+foil
+clown
+boss
+naive
+together
+sunny |  
+| bip_39_word_new_line11 | carry
+insane
+whisper
+lion
+foil
+clown
+boss
+naive
+together
+sunny
+boy |  
+| bip_39_word_new_line12 | carry
+insane
+whisper
+lion
+foil
+clown
+boss
+naive
+together
+sunny
+boy
+allow |  
+| bip_39_word_new_line2 | carry
+insane |  
+| bip_39_word_new_line3 | carry
+insane
+whisper |  
+| bip_39_word_new_line4 | carry
+insane
+whisper
+lion |  
+| bip_39_word_new_line5 | carry
+insane
+whisper
+lion
+foil |  
+| bip_39_word_new_line6 | carry
+insane
+whisper
+lion
+foil
+clown |  
+| bip_39_word_new_line7 | carry
+insane
+whisper
+lion
+foil
+clown
+boss |  
+| bip_39_word_new_line8 | carry
+insane
+whisper
+lion
+foil
+clown
+boss
+naive |  
+| bip_39_word_new_line9 | carry
+insane
+whisper
+lion
+foil
+clown
+boss
+naive
+together |  
+| bip_39_word_space_0 | ['carry', 'insane', 'whisper', 'lion', 'foil', 'clown', 'boss', 'naive', 'together', 'sunny', 'boy', 'allow'] |  
+| bip_39_word_space_1 | carry |  
+| bip_39_word_space_10 | carry insane whisper lion foil clown boss naive together sunny |  
+| bip_39_word_space_11 | carry insane whisper lion foil clown boss naive together sunny boy |  
+| bip_39_word_space_12 | carry insane whisper lion foil clown boss naive together sunny boy allow |  
+| bip_39_word_space_2 | carry insane |  
+| bip_39_word_space_3 | carry insane whisper |  
+| bip_39_word_space_4 | carry insane whisper lion |  
+| bip_39_word_space_5 | carry insane whisper lion foil |  
+| bip_39_word_space_6 | carry insane whisper lion foil clown |  
+| bip_39_word_space_7 | carry insane whisper lion foil clown boss |  
+| bip_39_word_space_8 | carry insane whisper lion foil clown boss naive |  
+| bip_39_word_space_9 | carry insane whisper lion foil clown boss naive together |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

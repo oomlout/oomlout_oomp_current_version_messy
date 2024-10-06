@@ -1,3 +1,185 @@
+bip_39_word_new_br1: session
+bip_39_word_new_br10: session<br>timber<br>net<br>trust<br>thing<br>benefit<br>mass<br>short<br>net<br>link
+bip_39_word_new_br11: session<br>timber<br>net<br>trust<br>thing<br>benefit<br>mass<br>short<br>net<br>link<br>trip
+bip_39_word_new_br12: session<br>timber<br>net<br>trust<br>thing<br>benefit<br>mass<br>short<br>net<br>link<br>trip<br>audit
+bip_39_word_new_br2: session<br>timber
+bip_39_word_new_br3: session<br>timber<br>net
+bip_39_word_new_br4: session<br>timber<br>net<br>trust
+bip_39_word_new_br5: session<br>timber<br>net<br>trust<br>thing
+bip_39_word_new_br6: session<br>timber<br>net<br>trust<br>thing<br>benefit
+bip_39_word_new_br7: session<br>timber<br>net<br>trust<br>thing<br>benefit<br>mass
+bip_39_word_new_br8: session<br>timber<br>net<br>trust<br>thing<br>benefit<br>mass<br>short
+bip_39_word_new_br9: session<br>timber<br>net<br>trust<br>thing<br>benefit<br>mass<br>short<br>net
+bip_39_word_new_line1: session
+bip_39_word_new_line10: 'session
+
+  timber
+
+  net
+
+  trust
+
+  thing
+
+  benefit
+
+  mass
+
+  short
+
+  net
+
+  link'
+bip_39_word_new_line11: 'session
+
+  timber
+
+  net
+
+  trust
+
+  thing
+
+  benefit
+
+  mass
+
+  short
+
+  net
+
+  link
+
+  trip'
+bip_39_word_new_line12: 'session
+
+  timber
+
+  net
+
+  trust
+
+  thing
+
+  benefit
+
+  mass
+
+  short
+
+  net
+
+  link
+
+  trip
+
+  audit'
+bip_39_word_new_line2: 'session
+
+  timber'
+bip_39_word_new_line3: 'session
+
+  timber
+
+  net'
+bip_39_word_new_line4: 'session
+
+  timber
+
+  net
+
+  trust'
+bip_39_word_new_line5: 'session
+
+  timber
+
+  net
+
+  trust
+
+  thing'
+bip_39_word_new_line6: 'session
+
+  timber
+
+  net
+
+  trust
+
+  thing
+
+  benefit'
+bip_39_word_new_line7: 'session
+
+  timber
+
+  net
+
+  trust
+
+  thing
+
+  benefit
+
+  mass'
+bip_39_word_new_line8: 'session
+
+  timber
+
+  net
+
+  trust
+
+  thing
+
+  benefit
+
+  mass
+
+  short'
+bip_39_word_new_line9: 'session
+
+  timber
+
+  net
+
+  trust
+
+  thing
+
+  benefit
+
+  mass
+
+  short
+
+  net'
+bip_39_word_space_0:
+- session
+- timber
+- net
+- trust
+- thing
+- benefit
+- mass
+- short
+- net
+- link
+- trip
+- audit
+bip_39_word_space_1: session
+bip_39_word_space_10: session timber net trust thing benefit mass short net link
+bip_39_word_space_11: session timber net trust thing benefit mass short net link trip
+bip_39_word_space_12: session timber net trust thing benefit mass short net link trip
+  audit
+bip_39_word_space_2: session timber
+bip_39_word_space_3: session timber net
+bip_39_word_space_4: session timber net trust
+bip_39_word_space_5: session timber net trust thing
+bip_39_word_space_6: session timber net trust thing benefit
+bip_39_word_space_7: session timber net trust thing benefit mass
+bip_39_word_space_8: session timber net trust thing benefit mass short
+bip_39_word_space_9: session timber net trust thing benefit mass short net
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

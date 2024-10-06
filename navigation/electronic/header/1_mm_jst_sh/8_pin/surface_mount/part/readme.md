@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kind travel
+  * bip 39 word 3: kind travel soda
+  * bip 39 word: kind travel soda hip blood winter cook vacant wild mandate obvious avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kind |  
+| bip_39_word_new_br10 | kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate |  
+| bip_39_word_new_br11 | kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate<br>obvious |  
+| bip_39_word_new_br12 | kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild<br>mandate<br>obvious<br>avocado |  
+| bip_39_word_new_br2 | kind<br>travel |  
+| bip_39_word_new_br3 | kind<br>travel<br>soda |  
+| bip_39_word_new_br4 | kind<br>travel<br>soda<br>hip |  
+| bip_39_word_new_br5 | kind<br>travel<br>soda<br>hip<br>blood |  
+| bip_39_word_new_br6 | kind<br>travel<br>soda<br>hip<br>blood<br>winter |  
+| bip_39_word_new_br7 | kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook |  
+| bip_39_word_new_br8 | kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant |  
+| bip_39_word_new_br9 | kind<br>travel<br>soda<br>hip<br>blood<br>winter<br>cook<br>vacant<br>wild |  
+| bip_39_word_new_line1 | kind |  
+| bip_39_word_new_line10 | kind
+travel
+soda
+hip
+blood
+winter
+cook
+vacant
+wild
+mandate |  
+| bip_39_word_new_line11 | kind
+travel
+soda
+hip
+blood
+winter
+cook
+vacant
+wild
+mandate
+obvious |  
+| bip_39_word_new_line12 | kind
+travel
+soda
+hip
+blood
+winter
+cook
+vacant
+wild
+mandate
+obvious
+avocado |  
+| bip_39_word_new_line2 | kind
+travel |  
+| bip_39_word_new_line3 | kind
+travel
+soda |  
+| bip_39_word_new_line4 | kind
+travel
+soda
+hip |  
+| bip_39_word_new_line5 | kind
+travel
+soda
+hip
+blood |  
+| bip_39_word_new_line6 | kind
+travel
+soda
+hip
+blood
+winter |  
+| bip_39_word_new_line7 | kind
+travel
+soda
+hip
+blood
+winter
+cook |  
+| bip_39_word_new_line8 | kind
+travel
+soda
+hip
+blood
+winter
+cook
+vacant |  
+| bip_39_word_new_line9 | kind
+travel
+soda
+hip
+blood
+winter
+cook
+vacant
+wild |  
+| bip_39_word_space_0 | ['kind', 'travel', 'soda', 'hip', 'blood', 'winter', 'cook', 'vacant', 'wild', 'mandate', 'obvious', 'avocado'] |  
+| bip_39_word_space_1 | kind |  
+| bip_39_word_space_10 | kind travel soda hip blood winter cook vacant wild mandate |  
+| bip_39_word_space_11 | kind travel soda hip blood winter cook vacant wild mandate obvious |  
+| bip_39_word_space_12 | kind travel soda hip blood winter cook vacant wild mandate obvious avocado |  
+| bip_39_word_space_2 | kind travel |  
+| bip_39_word_space_3 | kind travel soda |  
+| bip_39_word_space_4 | kind travel soda hip |  
+| bip_39_word_space_5 | kind travel soda hip blood |  
+| bip_39_word_space_6 | kind travel soda hip blood winter |  
+| bip_39_word_space_7 | kind travel soda hip blood winter cook |  
+| bip_39_word_space_8 | kind travel soda hip blood winter cook vacant |  
+| bip_39_word_space_9 | kind travel soda hip blood winter cook vacant wild |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

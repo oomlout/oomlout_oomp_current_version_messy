@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_shield_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: finger spoon
+  * bip 39 word 3: finger spoon blood
+  * bip 39 word: finger spoon blood talent scout salon arrive require apart napkin earth ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | finger |  
+| bip_39_word_new_br10 | finger<br>spoon<br>blood<br>talent<br>scout<br>salon<br>arrive<br>require<br>apart<br>napkin |  
+| bip_39_word_new_br11 | finger<br>spoon<br>blood<br>talent<br>scout<br>salon<br>arrive<br>require<br>apart<br>napkin<br>earth |  
+| bip_39_word_new_br12 | finger<br>spoon<br>blood<br>talent<br>scout<br>salon<br>arrive<br>require<br>apart<br>napkin<br>earth<br>ahead |  
+| bip_39_word_new_br2 | finger<br>spoon |  
+| bip_39_word_new_br3 | finger<br>spoon<br>blood |  
+| bip_39_word_new_br4 | finger<br>spoon<br>blood<br>talent |  
+| bip_39_word_new_br5 | finger<br>spoon<br>blood<br>talent<br>scout |  
+| bip_39_word_new_br6 | finger<br>spoon<br>blood<br>talent<br>scout<br>salon |  
+| bip_39_word_new_br7 | finger<br>spoon<br>blood<br>talent<br>scout<br>salon<br>arrive |  
+| bip_39_word_new_br8 | finger<br>spoon<br>blood<br>talent<br>scout<br>salon<br>arrive<br>require |  
+| bip_39_word_new_br9 | finger<br>spoon<br>blood<br>talent<br>scout<br>salon<br>arrive<br>require<br>apart |  
+| bip_39_word_new_line1 | finger |  
+| bip_39_word_new_line10 | finger
+spoon
+blood
+talent
+scout
+salon
+arrive
+require
+apart
+napkin |  
+| bip_39_word_new_line11 | finger
+spoon
+blood
+talent
+scout
+salon
+arrive
+require
+apart
+napkin
+earth |  
+| bip_39_word_new_line12 | finger
+spoon
+blood
+talent
+scout
+salon
+arrive
+require
+apart
+napkin
+earth
+ahead |  
+| bip_39_word_new_line2 | finger
+spoon |  
+| bip_39_word_new_line3 | finger
+spoon
+blood |  
+| bip_39_word_new_line4 | finger
+spoon
+blood
+talent |  
+| bip_39_word_new_line5 | finger
+spoon
+blood
+talent
+scout |  
+| bip_39_word_new_line6 | finger
+spoon
+blood
+talent
+scout
+salon |  
+| bip_39_word_new_line7 | finger
+spoon
+blood
+talent
+scout
+salon
+arrive |  
+| bip_39_word_new_line8 | finger
+spoon
+blood
+talent
+scout
+salon
+arrive
+require |  
+| bip_39_word_new_line9 | finger
+spoon
+blood
+talent
+scout
+salon
+arrive
+require
+apart |  
+| bip_39_word_space_0 | ['finger', 'spoon', 'blood', 'talent', 'scout', 'salon', 'arrive', 'require', 'apart', 'napkin', 'earth', 'ahead'] |  
+| bip_39_word_space_1 | finger |  
+| bip_39_word_space_10 | finger spoon blood talent scout salon arrive require apart napkin |  
+| bip_39_word_space_11 | finger spoon blood talent scout salon arrive require apart napkin earth |  
+| bip_39_word_space_12 | finger spoon blood talent scout salon arrive require apart napkin earth ahead |  
+| bip_39_word_space_2 | finger spoon |  
+| bip_39_word_space_3 | finger spoon blood |  
+| bip_39_word_space_4 | finger spoon blood talent |  
+| bip_39_word_space_5 | finger spoon blood talent scout |  
+| bip_39_word_space_6 | finger spoon blood talent scout salon |  
+| bip_39_word_space_7 | finger spoon blood talent scout salon arrive |  
+| bip_39_word_space_8 | finger spoon blood talent scout salon arrive require |  
+| bip_39_word_space_9 | finger spoon blood talent scout salon arrive require apart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

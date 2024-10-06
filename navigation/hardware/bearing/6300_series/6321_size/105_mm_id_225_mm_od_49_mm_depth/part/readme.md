@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broom photo
+  * bip 39 word 3: broom photo essay
+  * bip 39 word: broom photo essay inmate video access thought general tide never secret aim
 
 ### other_codes
 * short_code: br6321
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broom |  
+| bip_39_word_new_br10 | broom<br>photo<br>essay<br>inmate<br>video<br>access<br>thought<br>general<br>tide<br>never |  
+| bip_39_word_new_br11 | broom<br>photo<br>essay<br>inmate<br>video<br>access<br>thought<br>general<br>tide<br>never<br>secret |  
+| bip_39_word_new_br12 | broom<br>photo<br>essay<br>inmate<br>video<br>access<br>thought<br>general<br>tide<br>never<br>secret<br>aim |  
+| bip_39_word_new_br2 | broom<br>photo |  
+| bip_39_word_new_br3 | broom<br>photo<br>essay |  
+| bip_39_word_new_br4 | broom<br>photo<br>essay<br>inmate |  
+| bip_39_word_new_br5 | broom<br>photo<br>essay<br>inmate<br>video |  
+| bip_39_word_new_br6 | broom<br>photo<br>essay<br>inmate<br>video<br>access |  
+| bip_39_word_new_br7 | broom<br>photo<br>essay<br>inmate<br>video<br>access<br>thought |  
+| bip_39_word_new_br8 | broom<br>photo<br>essay<br>inmate<br>video<br>access<br>thought<br>general |  
+| bip_39_word_new_br9 | broom<br>photo<br>essay<br>inmate<br>video<br>access<br>thought<br>general<br>tide |  
+| bip_39_word_new_line1 | broom |  
+| bip_39_word_new_line10 | broom
+photo
+essay
+inmate
+video
+access
+thought
+general
+tide
+never |  
+| bip_39_word_new_line11 | broom
+photo
+essay
+inmate
+video
+access
+thought
+general
+tide
+never
+secret |  
+| bip_39_word_new_line12 | broom
+photo
+essay
+inmate
+video
+access
+thought
+general
+tide
+never
+secret
+aim |  
+| bip_39_word_new_line2 | broom
+photo |  
+| bip_39_word_new_line3 | broom
+photo
+essay |  
+| bip_39_word_new_line4 | broom
+photo
+essay
+inmate |  
+| bip_39_word_new_line5 | broom
+photo
+essay
+inmate
+video |  
+| bip_39_word_new_line6 | broom
+photo
+essay
+inmate
+video
+access |  
+| bip_39_word_new_line7 | broom
+photo
+essay
+inmate
+video
+access
+thought |  
+| bip_39_word_new_line8 | broom
+photo
+essay
+inmate
+video
+access
+thought
+general |  
+| bip_39_word_new_line9 | broom
+photo
+essay
+inmate
+video
+access
+thought
+general
+tide |  
+| bip_39_word_space_0 | ['broom', 'photo', 'essay', 'inmate', 'video', 'access', 'thought', 'general', 'tide', 'never', 'secret', 'aim'] |  
+| bip_39_word_space_1 | broom |  
+| bip_39_word_space_10 | broom photo essay inmate video access thought general tide never |  
+| bip_39_word_space_11 | broom photo essay inmate video access thought general tide never secret |  
+| bip_39_word_space_12 | broom photo essay inmate video access thought general tide never secret aim |  
+| bip_39_word_space_2 | broom photo |  
+| bip_39_word_space_3 | broom photo essay |  
+| bip_39_word_space_4 | broom photo essay inmate |  
+| bip_39_word_space_5 | broom photo essay inmate video |  
+| bip_39_word_space_6 | broom photo essay inmate video access |  
+| bip_39_word_space_7 | broom photo essay inmate video access thought |  
+| bip_39_word_space_8 | broom photo essay inmate video access thought general |  
+| bip_39_word_space_9 | broom photo essay inmate video access thought general tide |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

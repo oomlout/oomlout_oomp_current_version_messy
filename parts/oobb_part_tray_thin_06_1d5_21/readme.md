@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nominee thank
+  * bip 39 word 3: nominee thank off
+  * bip 39 word: nominee thank off vital decline oak already napkin bid wild candy art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nominee |  
+| bip_39_word_new_br10 | nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid<br>wild |  
+| bip_39_word_new_br11 | nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid<br>wild<br>candy |  
+| bip_39_word_new_br12 | nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid<br>wild<br>candy<br>art |  
+| bip_39_word_new_br2 | nominee<br>thank |  
+| bip_39_word_new_br3 | nominee<br>thank<br>off |  
+| bip_39_word_new_br4 | nominee<br>thank<br>off<br>vital |  
+| bip_39_word_new_br5 | nominee<br>thank<br>off<br>vital<br>decline |  
+| bip_39_word_new_br6 | nominee<br>thank<br>off<br>vital<br>decline<br>oak |  
+| bip_39_word_new_br7 | nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already |  
+| bip_39_word_new_br8 | nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin |  
+| bip_39_word_new_br9 | nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid |  
+| bip_39_word_new_line1 | nominee |  
+| bip_39_word_new_line10 | nominee
+thank
+off
+vital
+decline
+oak
+already
+napkin
+bid
+wild |  
+| bip_39_word_new_line11 | nominee
+thank
+off
+vital
+decline
+oak
+already
+napkin
+bid
+wild
+candy |  
+| bip_39_word_new_line12 | nominee
+thank
+off
+vital
+decline
+oak
+already
+napkin
+bid
+wild
+candy
+art |  
+| bip_39_word_new_line2 | nominee
+thank |  
+| bip_39_word_new_line3 | nominee
+thank
+off |  
+| bip_39_word_new_line4 | nominee
+thank
+off
+vital |  
+| bip_39_word_new_line5 | nominee
+thank
+off
+vital
+decline |  
+| bip_39_word_new_line6 | nominee
+thank
+off
+vital
+decline
+oak |  
+| bip_39_word_new_line7 | nominee
+thank
+off
+vital
+decline
+oak
+already |  
+| bip_39_word_new_line8 | nominee
+thank
+off
+vital
+decline
+oak
+already
+napkin |  
+| bip_39_word_new_line9 | nominee
+thank
+off
+vital
+decline
+oak
+already
+napkin
+bid |  
+| bip_39_word_space_0 | ['nominee', 'thank', 'off', 'vital', 'decline', 'oak', 'already', 'napkin', 'bid', 'wild', 'candy', 'art'] |  
+| bip_39_word_space_1 | nominee |  
+| bip_39_word_space_10 | nominee thank off vital decline oak already napkin bid wild |  
+| bip_39_word_space_11 | nominee thank off vital decline oak already napkin bid wild candy |  
+| bip_39_word_space_12 | nominee thank off vital decline oak already napkin bid wild candy art |  
+| bip_39_word_space_2 | nominee thank |  
+| bip_39_word_space_3 | nominee thank off |  
+| bip_39_word_space_4 | nominee thank off vital |  
+| bip_39_word_space_5 | nominee thank off vital decline |  
+| bip_39_word_space_6 | nominee thank off vital decline oak |  
+| bip_39_word_space_7 | nominee thank off vital decline oak already |  
+| bip_39_word_space_8 | nominee thank off vital decline oak already napkin |  
+| bip_39_word_space_9 | nominee thank off vital decline oak already napkin bid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

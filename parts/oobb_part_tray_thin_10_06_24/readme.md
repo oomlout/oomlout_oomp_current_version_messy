@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: job jelly
+  * bip 39 word 3: job jelly quantum
+  * bip 39 word: job jelly quantum knee time awful mimic current board exclude august audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | job |  
+| bip_39_word_new_br10 | job<br>jelly<br>quantum<br>knee<br>time<br>awful<br>mimic<br>current<br>board<br>exclude |  
+| bip_39_word_new_br11 | job<br>jelly<br>quantum<br>knee<br>time<br>awful<br>mimic<br>current<br>board<br>exclude<br>august |  
+| bip_39_word_new_br12 | job<br>jelly<br>quantum<br>knee<br>time<br>awful<br>mimic<br>current<br>board<br>exclude<br>august<br>audit |  
+| bip_39_word_new_br2 | job<br>jelly |  
+| bip_39_word_new_br3 | job<br>jelly<br>quantum |  
+| bip_39_word_new_br4 | job<br>jelly<br>quantum<br>knee |  
+| bip_39_word_new_br5 | job<br>jelly<br>quantum<br>knee<br>time |  
+| bip_39_word_new_br6 | job<br>jelly<br>quantum<br>knee<br>time<br>awful |  
+| bip_39_word_new_br7 | job<br>jelly<br>quantum<br>knee<br>time<br>awful<br>mimic |  
+| bip_39_word_new_br8 | job<br>jelly<br>quantum<br>knee<br>time<br>awful<br>mimic<br>current |  
+| bip_39_word_new_br9 | job<br>jelly<br>quantum<br>knee<br>time<br>awful<br>mimic<br>current<br>board |  
+| bip_39_word_new_line1 | job |  
+| bip_39_word_new_line10 | job
+jelly
+quantum
+knee
+time
+awful
+mimic
+current
+board
+exclude |  
+| bip_39_word_new_line11 | job
+jelly
+quantum
+knee
+time
+awful
+mimic
+current
+board
+exclude
+august |  
+| bip_39_word_new_line12 | job
+jelly
+quantum
+knee
+time
+awful
+mimic
+current
+board
+exclude
+august
+audit |  
+| bip_39_word_new_line2 | job
+jelly |  
+| bip_39_word_new_line3 | job
+jelly
+quantum |  
+| bip_39_word_new_line4 | job
+jelly
+quantum
+knee |  
+| bip_39_word_new_line5 | job
+jelly
+quantum
+knee
+time |  
+| bip_39_word_new_line6 | job
+jelly
+quantum
+knee
+time
+awful |  
+| bip_39_word_new_line7 | job
+jelly
+quantum
+knee
+time
+awful
+mimic |  
+| bip_39_word_new_line8 | job
+jelly
+quantum
+knee
+time
+awful
+mimic
+current |  
+| bip_39_word_new_line9 | job
+jelly
+quantum
+knee
+time
+awful
+mimic
+current
+board |  
+| bip_39_word_space_0 | ['job', 'jelly', 'quantum', 'knee', 'time', 'awful', 'mimic', 'current', 'board', 'exclude', 'august', 'audit'] |  
+| bip_39_word_space_1 | job |  
+| bip_39_word_space_10 | job jelly quantum knee time awful mimic current board exclude |  
+| bip_39_word_space_11 | job jelly quantum knee time awful mimic current board exclude august |  
+| bip_39_word_space_12 | job jelly quantum knee time awful mimic current board exclude august audit |  
+| bip_39_word_space_2 | job jelly |  
+| bip_39_word_space_3 | job jelly quantum |  
+| bip_39_word_space_4 | job jelly quantum knee |  
+| bip_39_word_space_5 | job jelly quantum knee time |  
+| bip_39_word_space_6 | job jelly quantum knee time awful |  
+| bip_39_word_space_7 | job jelly quantum knee time awful mimic |  
+| bip_39_word_space_8 | job jelly quantum knee time awful mimic current |  
+| bip_39_word_space_9 | job jelly quantum knee time awful mimic current board |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

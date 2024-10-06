@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: used silent
+  * bip 39 word 3: used silent feed
+  * bip 39 word: used silent feed stick sick police fox upgrade saddle gown arch attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | used |  
+| bip_39_word_new_br10 | used<br>silent<br>feed<br>stick<br>sick<br>police<br>fox<br>upgrade<br>saddle<br>gown |  
+| bip_39_word_new_br11 | used<br>silent<br>feed<br>stick<br>sick<br>police<br>fox<br>upgrade<br>saddle<br>gown<br>arch |  
+| bip_39_word_new_br12 | used<br>silent<br>feed<br>stick<br>sick<br>police<br>fox<br>upgrade<br>saddle<br>gown<br>arch<br>attack |  
+| bip_39_word_new_br2 | used<br>silent |  
+| bip_39_word_new_br3 | used<br>silent<br>feed |  
+| bip_39_word_new_br4 | used<br>silent<br>feed<br>stick |  
+| bip_39_word_new_br5 | used<br>silent<br>feed<br>stick<br>sick |  
+| bip_39_word_new_br6 | used<br>silent<br>feed<br>stick<br>sick<br>police |  
+| bip_39_word_new_br7 | used<br>silent<br>feed<br>stick<br>sick<br>police<br>fox |  
+| bip_39_word_new_br8 | used<br>silent<br>feed<br>stick<br>sick<br>police<br>fox<br>upgrade |  
+| bip_39_word_new_br9 | used<br>silent<br>feed<br>stick<br>sick<br>police<br>fox<br>upgrade<br>saddle |  
+| bip_39_word_new_line1 | used |  
+| bip_39_word_new_line10 | used
+silent
+feed
+stick
+sick
+police
+fox
+upgrade
+saddle
+gown |  
+| bip_39_word_new_line11 | used
+silent
+feed
+stick
+sick
+police
+fox
+upgrade
+saddle
+gown
+arch |  
+| bip_39_word_new_line12 | used
+silent
+feed
+stick
+sick
+police
+fox
+upgrade
+saddle
+gown
+arch
+attack |  
+| bip_39_word_new_line2 | used
+silent |  
+| bip_39_word_new_line3 | used
+silent
+feed |  
+| bip_39_word_new_line4 | used
+silent
+feed
+stick |  
+| bip_39_word_new_line5 | used
+silent
+feed
+stick
+sick |  
+| bip_39_word_new_line6 | used
+silent
+feed
+stick
+sick
+police |  
+| bip_39_word_new_line7 | used
+silent
+feed
+stick
+sick
+police
+fox |  
+| bip_39_word_new_line8 | used
+silent
+feed
+stick
+sick
+police
+fox
+upgrade |  
+| bip_39_word_new_line9 | used
+silent
+feed
+stick
+sick
+police
+fox
+upgrade
+saddle |  
+| bip_39_word_space_0 | ['used', 'silent', 'feed', 'stick', 'sick', 'police', 'fox', 'upgrade', 'saddle', 'gown', 'arch', 'attack'] |  
+| bip_39_word_space_1 | used |  
+| bip_39_word_space_10 | used silent feed stick sick police fox upgrade saddle gown |  
+| bip_39_word_space_11 | used silent feed stick sick police fox upgrade saddle gown arch |  
+| bip_39_word_space_12 | used silent feed stick sick police fox upgrade saddle gown arch attack |  
+| bip_39_word_space_2 | used silent |  
+| bip_39_word_space_3 | used silent feed |  
+| bip_39_word_space_4 | used silent feed stick |  
+| bip_39_word_space_5 | used silent feed stick sick |  
+| bip_39_word_space_6 | used silent feed stick sick police |  
+| bip_39_word_space_7 | used silent feed stick sick police fox |  
+| bip_39_word_space_8 | used silent feed stick sick police fox upgrade |  
+| bip_39_word_space_9 | used silent feed stick sick police fox upgrade saddle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

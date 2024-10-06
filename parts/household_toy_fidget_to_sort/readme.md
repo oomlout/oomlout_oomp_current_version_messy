@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mask coil
+  * bip 39 word 3: mask coil kiwi
+  * bip 39 word: mask coil kiwi daring company health short beyond diagram replace flame artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mask |  
+| bip_39_word_new_br10 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace |  
+| bip_39_word_new_br11 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace<br>flame |  
+| bip_39_word_new_br12 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram<br>replace<br>flame<br>artwork |  
+| bip_39_word_new_br2 | mask<br>coil |  
+| bip_39_word_new_br3 | mask<br>coil<br>kiwi |  
+| bip_39_word_new_br4 | mask<br>coil<br>kiwi<br>daring |  
+| bip_39_word_new_br5 | mask<br>coil<br>kiwi<br>daring<br>company |  
+| bip_39_word_new_br6 | mask<br>coil<br>kiwi<br>daring<br>company<br>health |  
+| bip_39_word_new_br7 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short |  
+| bip_39_word_new_br8 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond |  
+| bip_39_word_new_br9 | mask<br>coil<br>kiwi<br>daring<br>company<br>health<br>short<br>beyond<br>diagram |  
+| bip_39_word_new_line1 | mask |  
+| bip_39_word_new_line10 | mask
+coil
+kiwi
+daring
+company
+health
+short
+beyond
+diagram
+replace |  
+| bip_39_word_new_line11 | mask
+coil
+kiwi
+daring
+company
+health
+short
+beyond
+diagram
+replace
+flame |  
+| bip_39_word_new_line12 | mask
+coil
+kiwi
+daring
+company
+health
+short
+beyond
+diagram
+replace
+flame
+artwork |  
+| bip_39_word_new_line2 | mask
+coil |  
+| bip_39_word_new_line3 | mask
+coil
+kiwi |  
+| bip_39_word_new_line4 | mask
+coil
+kiwi
+daring |  
+| bip_39_word_new_line5 | mask
+coil
+kiwi
+daring
+company |  
+| bip_39_word_new_line6 | mask
+coil
+kiwi
+daring
+company
+health |  
+| bip_39_word_new_line7 | mask
+coil
+kiwi
+daring
+company
+health
+short |  
+| bip_39_word_new_line8 | mask
+coil
+kiwi
+daring
+company
+health
+short
+beyond |  
+| bip_39_word_new_line9 | mask
+coil
+kiwi
+daring
+company
+health
+short
+beyond
+diagram |  
+| bip_39_word_space_0 | ['mask', 'coil', 'kiwi', 'daring', 'company', 'health', 'short', 'beyond', 'diagram', 'replace', 'flame', 'artwork'] |  
+| bip_39_word_space_1 | mask |  
+| bip_39_word_space_10 | mask coil kiwi daring company health short beyond diagram replace |  
+| bip_39_word_space_11 | mask coil kiwi daring company health short beyond diagram replace flame |  
+| bip_39_word_space_12 | mask coil kiwi daring company health short beyond diagram replace flame artwork |  
+| bip_39_word_space_2 | mask coil |  
+| bip_39_word_space_3 | mask coil kiwi |  
+| bip_39_word_space_4 | mask coil kiwi daring |  
+| bip_39_word_space_5 | mask coil kiwi daring company |  
+| bip_39_word_space_6 | mask coil kiwi daring company health |  
+| bip_39_word_space_7 | mask coil kiwi daring company health short |  
+| bip_39_word_space_8 | mask coil kiwi daring company health short beyond |  
+| bip_39_word_space_9 | mask coil kiwi daring company health short beyond diagram |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: electronic_button_11_mm_panel_mount_x4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ability surface
+  * bip 39 word 3: ability surface quit
+  * bip 39 word: ability surface quit exit lake test unaware hedgehog click issue answer above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ability |  
+| bip_39_word_new_br10 | ability<br>surface<br>quit<br>exit<br>lake<br>test<br>unaware<br>hedgehog<br>click<br>issue |  
+| bip_39_word_new_br11 | ability<br>surface<br>quit<br>exit<br>lake<br>test<br>unaware<br>hedgehog<br>click<br>issue<br>answer |  
+| bip_39_word_new_br12 | ability<br>surface<br>quit<br>exit<br>lake<br>test<br>unaware<br>hedgehog<br>click<br>issue<br>answer<br>above |  
+| bip_39_word_new_br2 | ability<br>surface |  
+| bip_39_word_new_br3 | ability<br>surface<br>quit |  
+| bip_39_word_new_br4 | ability<br>surface<br>quit<br>exit |  
+| bip_39_word_new_br5 | ability<br>surface<br>quit<br>exit<br>lake |  
+| bip_39_word_new_br6 | ability<br>surface<br>quit<br>exit<br>lake<br>test |  
+| bip_39_word_new_br7 | ability<br>surface<br>quit<br>exit<br>lake<br>test<br>unaware |  
+| bip_39_word_new_br8 | ability<br>surface<br>quit<br>exit<br>lake<br>test<br>unaware<br>hedgehog |  
+| bip_39_word_new_br9 | ability<br>surface<br>quit<br>exit<br>lake<br>test<br>unaware<br>hedgehog<br>click |  
+| bip_39_word_new_line1 | ability |  
+| bip_39_word_new_line10 | ability
+surface
+quit
+exit
+lake
+test
+unaware
+hedgehog
+click
+issue |  
+| bip_39_word_new_line11 | ability
+surface
+quit
+exit
+lake
+test
+unaware
+hedgehog
+click
+issue
+answer |  
+| bip_39_word_new_line12 | ability
+surface
+quit
+exit
+lake
+test
+unaware
+hedgehog
+click
+issue
+answer
+above |  
+| bip_39_word_new_line2 | ability
+surface |  
+| bip_39_word_new_line3 | ability
+surface
+quit |  
+| bip_39_word_new_line4 | ability
+surface
+quit
+exit |  
+| bip_39_word_new_line5 | ability
+surface
+quit
+exit
+lake |  
+| bip_39_word_new_line6 | ability
+surface
+quit
+exit
+lake
+test |  
+| bip_39_word_new_line7 | ability
+surface
+quit
+exit
+lake
+test
+unaware |  
+| bip_39_word_new_line8 | ability
+surface
+quit
+exit
+lake
+test
+unaware
+hedgehog |  
+| bip_39_word_new_line9 | ability
+surface
+quit
+exit
+lake
+test
+unaware
+hedgehog
+click |  
+| bip_39_word_space_0 | ['ability', 'surface', 'quit', 'exit', 'lake', 'test', 'unaware', 'hedgehog', 'click', 'issue', 'answer', 'above'] |  
+| bip_39_word_space_1 | ability |  
+| bip_39_word_space_10 | ability surface quit exit lake test unaware hedgehog click issue |  
+| bip_39_word_space_11 | ability surface quit exit lake test unaware hedgehog click issue answer |  
+| bip_39_word_space_12 | ability surface quit exit lake test unaware hedgehog click issue answer above |  
+| bip_39_word_space_2 | ability surface |  
+| bip_39_word_space_3 | ability surface quit |  
+| bip_39_word_space_4 | ability surface quit exit |  
+| bip_39_word_space_5 | ability surface quit exit lake |  
+| bip_39_word_space_6 | ability surface quit exit lake test |  
+| bip_39_word_space_7 | ability surface quit exit lake test unaware |  
+| bip_39_word_space_8 | ability surface quit exit lake test unaware hedgehog |  
+| bip_39_word_space_9 | ability surface quit exit lake test unaware hedgehog click |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

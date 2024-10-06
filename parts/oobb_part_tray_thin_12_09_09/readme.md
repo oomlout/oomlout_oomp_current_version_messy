@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stool shy
+  * bip 39 word 3: stool shy outside
+  * bip 39 word: stool shy outside goat permit glance labor elder fade bus evolve annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stool |  
+| bip_39_word_new_br10 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus |  
+| bip_39_word_new_br11 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve |  
+| bip_39_word_new_br12 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve<br>annual |  
+| bip_39_word_new_br2 | stool<br>shy |  
+| bip_39_word_new_br3 | stool<br>shy<br>outside |  
+| bip_39_word_new_br4 | stool<br>shy<br>outside<br>goat |  
+| bip_39_word_new_br5 | stool<br>shy<br>outside<br>goat<br>permit |  
+| bip_39_word_new_br6 | stool<br>shy<br>outside<br>goat<br>permit<br>glance |  
+| bip_39_word_new_br7 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor |  
+| bip_39_word_new_br8 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder |  
+| bip_39_word_new_br9 | stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade |  
+| bip_39_word_new_line1 | stool |  
+| bip_39_word_new_line10 | stool
+shy
+outside
+goat
+permit
+glance
+labor
+elder
+fade
+bus |  
+| bip_39_word_new_line11 | stool
+shy
+outside
+goat
+permit
+glance
+labor
+elder
+fade
+bus
+evolve |  
+| bip_39_word_new_line12 | stool
+shy
+outside
+goat
+permit
+glance
+labor
+elder
+fade
+bus
+evolve
+annual |  
+| bip_39_word_new_line2 | stool
+shy |  
+| bip_39_word_new_line3 | stool
+shy
+outside |  
+| bip_39_word_new_line4 | stool
+shy
+outside
+goat |  
+| bip_39_word_new_line5 | stool
+shy
+outside
+goat
+permit |  
+| bip_39_word_new_line6 | stool
+shy
+outside
+goat
+permit
+glance |  
+| bip_39_word_new_line7 | stool
+shy
+outside
+goat
+permit
+glance
+labor |  
+| bip_39_word_new_line8 | stool
+shy
+outside
+goat
+permit
+glance
+labor
+elder |  
+| bip_39_word_new_line9 | stool
+shy
+outside
+goat
+permit
+glance
+labor
+elder
+fade |  
+| bip_39_word_space_0 | ['stool', 'shy', 'outside', 'goat', 'permit', 'glance', 'labor', 'elder', 'fade', 'bus', 'evolve', 'annual'] |  
+| bip_39_word_space_1 | stool |  
+| bip_39_word_space_10 | stool shy outside goat permit glance labor elder fade bus |  
+| bip_39_word_space_11 | stool shy outside goat permit glance labor elder fade bus evolve |  
+| bip_39_word_space_12 | stool shy outside goat permit glance labor elder fade bus evolve annual |  
+| bip_39_word_space_2 | stool shy |  
+| bip_39_word_space_3 | stool shy outside |  
+| bip_39_word_space_4 | stool shy outside goat |  
+| bip_39_word_space_5 | stool shy outside goat permit |  
+| bip_39_word_space_6 | stool shy outside goat permit glance |  
+| bip_39_word_space_7 | stool shy outside goat permit glance labor |  
+| bip_39_word_space_8 | stool shy outside goat permit glance labor elder |  
+| bip_39_word_space_9 | stool shy outside goat permit glance labor elder fade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

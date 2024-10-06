@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: paddle few
+  * bip 39 word 3: paddle few spatial
+  * bip 39 word: paddle few spatial scan episode tool client better sing ladder scan apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | paddle |  
+| bip_39_word_new_br10 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool<br>client<br>better<br>sing<br>ladder |  
+| bip_39_word_new_br11 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool<br>client<br>better<br>sing<br>ladder<br>scan |  
+| bip_39_word_new_br12 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool<br>client<br>better<br>sing<br>ladder<br>scan<br>apology |  
+| bip_39_word_new_br2 | paddle<br>few |  
+| bip_39_word_new_br3 | paddle<br>few<br>spatial |  
+| bip_39_word_new_br4 | paddle<br>few<br>spatial<br>scan |  
+| bip_39_word_new_br5 | paddle<br>few<br>spatial<br>scan<br>episode |  
+| bip_39_word_new_br6 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool |  
+| bip_39_word_new_br7 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool<br>client |  
+| bip_39_word_new_br8 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool<br>client<br>better |  
+| bip_39_word_new_br9 | paddle<br>few<br>spatial<br>scan<br>episode<br>tool<br>client<br>better<br>sing |  
+| bip_39_word_new_line1 | paddle |  
+| bip_39_word_new_line10 | paddle
+few
+spatial
+scan
+episode
+tool
+client
+better
+sing
+ladder |  
+| bip_39_word_new_line11 | paddle
+few
+spatial
+scan
+episode
+tool
+client
+better
+sing
+ladder
+scan |  
+| bip_39_word_new_line12 | paddle
+few
+spatial
+scan
+episode
+tool
+client
+better
+sing
+ladder
+scan
+apology |  
+| bip_39_word_new_line2 | paddle
+few |  
+| bip_39_word_new_line3 | paddle
+few
+spatial |  
+| bip_39_word_new_line4 | paddle
+few
+spatial
+scan |  
+| bip_39_word_new_line5 | paddle
+few
+spatial
+scan
+episode |  
+| bip_39_word_new_line6 | paddle
+few
+spatial
+scan
+episode
+tool |  
+| bip_39_word_new_line7 | paddle
+few
+spatial
+scan
+episode
+tool
+client |  
+| bip_39_word_new_line8 | paddle
+few
+spatial
+scan
+episode
+tool
+client
+better |  
+| bip_39_word_new_line9 | paddle
+few
+spatial
+scan
+episode
+tool
+client
+better
+sing |  
+| bip_39_word_space_0 | ['paddle', 'few', 'spatial', 'scan', 'episode', 'tool', 'client', 'better', 'sing', 'ladder', 'scan', 'apology'] |  
+| bip_39_word_space_1 | paddle |  
+| bip_39_word_space_10 | paddle few spatial scan episode tool client better sing ladder |  
+| bip_39_word_space_11 | paddle few spatial scan episode tool client better sing ladder scan |  
+| bip_39_word_space_12 | paddle few spatial scan episode tool client better sing ladder scan apology |  
+| bip_39_word_space_2 | paddle few |  
+| bip_39_word_space_3 | paddle few spatial |  
+| bip_39_word_space_4 | paddle few spatial scan |  
+| bip_39_word_space_5 | paddle few spatial scan episode |  
+| bip_39_word_space_6 | paddle few spatial scan episode tool |  
+| bip_39_word_space_7 | paddle few spatial scan episode tool client |  
+| bip_39_word_space_8 | paddle few spatial scan episode tool client better |  
+| bip_39_word_space_9 | paddle few spatial scan episode tool client better sing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

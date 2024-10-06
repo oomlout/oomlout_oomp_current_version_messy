@@ -1,3 +1,186 @@
+bip_39_word_new_br1: draft
+bip_39_word_new_br10: draft<br>draw<br>truck<br>angry<br>myself<br>dignity<br>disorder<br>file<br>april<br>cry
+bip_39_word_new_br11: draft<br>draw<br>truck<br>angry<br>myself<br>dignity<br>disorder<br>file<br>april<br>cry<br>floor
+bip_39_word_new_br12: draft<br>draw<br>truck<br>angry<br>myself<br>dignity<br>disorder<br>file<br>april<br>cry<br>floor<br>avocado
+bip_39_word_new_br2: draft<br>draw
+bip_39_word_new_br3: draft<br>draw<br>truck
+bip_39_word_new_br4: draft<br>draw<br>truck<br>angry
+bip_39_word_new_br5: draft<br>draw<br>truck<br>angry<br>myself
+bip_39_word_new_br6: draft<br>draw<br>truck<br>angry<br>myself<br>dignity
+bip_39_word_new_br7: draft<br>draw<br>truck<br>angry<br>myself<br>dignity<br>disorder
+bip_39_word_new_br8: draft<br>draw<br>truck<br>angry<br>myself<br>dignity<br>disorder<br>file
+bip_39_word_new_br9: draft<br>draw<br>truck<br>angry<br>myself<br>dignity<br>disorder<br>file<br>april
+bip_39_word_new_line1: draft
+bip_39_word_new_line10: 'draft
+
+  draw
+
+  truck
+
+  angry
+
+  myself
+
+  dignity
+
+  disorder
+
+  file
+
+  april
+
+  cry'
+bip_39_word_new_line11: 'draft
+
+  draw
+
+  truck
+
+  angry
+
+  myself
+
+  dignity
+
+  disorder
+
+  file
+
+  april
+
+  cry
+
+  floor'
+bip_39_word_new_line12: 'draft
+
+  draw
+
+  truck
+
+  angry
+
+  myself
+
+  dignity
+
+  disorder
+
+  file
+
+  april
+
+  cry
+
+  floor
+
+  avocado'
+bip_39_word_new_line2: 'draft
+
+  draw'
+bip_39_word_new_line3: 'draft
+
+  draw
+
+  truck'
+bip_39_word_new_line4: 'draft
+
+  draw
+
+  truck
+
+  angry'
+bip_39_word_new_line5: 'draft
+
+  draw
+
+  truck
+
+  angry
+
+  myself'
+bip_39_word_new_line6: 'draft
+
+  draw
+
+  truck
+
+  angry
+
+  myself
+
+  dignity'
+bip_39_word_new_line7: 'draft
+
+  draw
+
+  truck
+
+  angry
+
+  myself
+
+  dignity
+
+  disorder'
+bip_39_word_new_line8: 'draft
+
+  draw
+
+  truck
+
+  angry
+
+  myself
+
+  dignity
+
+  disorder
+
+  file'
+bip_39_word_new_line9: 'draft
+
+  draw
+
+  truck
+
+  angry
+
+  myself
+
+  dignity
+
+  disorder
+
+  file
+
+  april'
+bip_39_word_space_0:
+- draft
+- draw
+- truck
+- angry
+- myself
+- dignity
+- disorder
+- file
+- april
+- cry
+- floor
+- avocado
+bip_39_word_space_1: draft
+bip_39_word_space_10: draft draw truck angry myself dignity disorder file april cry
+bip_39_word_space_11: draft draw truck angry myself dignity disorder file april cry
+  floor
+bip_39_word_space_12: draft draw truck angry myself dignity disorder file april cry
+  floor avocado
+bip_39_word_space_2: draft draw
+bip_39_word_space_3: draft draw truck
+bip_39_word_space_4: draft draw truck angry
+bip_39_word_space_5: draft draw truck angry myself
+bip_39_word_space_6: draft draw truck angry myself dignity
+bip_39_word_space_7: draft draw truck angry myself dignity disorder
+bip_39_word_space_8: draft draw truck angry myself dignity disorder file
+bip_39_word_space_9: draft draw truck angry myself dignity disorder file april
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

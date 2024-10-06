@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: about top
+  * bip 39 word 3: about top spare
+  * bip 39 word: about top spare easy filter prosper window child swamp police cereal ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | about |  
+| bip_39_word_new_br10 | about<br>top<br>spare<br>easy<br>filter<br>prosper<br>window<br>child<br>swamp<br>police |  
+| bip_39_word_new_br11 | about<br>top<br>spare<br>easy<br>filter<br>prosper<br>window<br>child<br>swamp<br>police<br>cereal |  
+| bip_39_word_new_br12 | about<br>top<br>spare<br>easy<br>filter<br>prosper<br>window<br>child<br>swamp<br>police<br>cereal<br>ahead |  
+| bip_39_word_new_br2 | about<br>top |  
+| bip_39_word_new_br3 | about<br>top<br>spare |  
+| bip_39_word_new_br4 | about<br>top<br>spare<br>easy |  
+| bip_39_word_new_br5 | about<br>top<br>spare<br>easy<br>filter |  
+| bip_39_word_new_br6 | about<br>top<br>spare<br>easy<br>filter<br>prosper |  
+| bip_39_word_new_br7 | about<br>top<br>spare<br>easy<br>filter<br>prosper<br>window |  
+| bip_39_word_new_br8 | about<br>top<br>spare<br>easy<br>filter<br>prosper<br>window<br>child |  
+| bip_39_word_new_br9 | about<br>top<br>spare<br>easy<br>filter<br>prosper<br>window<br>child<br>swamp |  
+| bip_39_word_new_line1 | about |  
+| bip_39_word_new_line10 | about
+top
+spare
+easy
+filter
+prosper
+window
+child
+swamp
+police |  
+| bip_39_word_new_line11 | about
+top
+spare
+easy
+filter
+prosper
+window
+child
+swamp
+police
+cereal |  
+| bip_39_word_new_line12 | about
+top
+spare
+easy
+filter
+prosper
+window
+child
+swamp
+police
+cereal
+ahead |  
+| bip_39_word_new_line2 | about
+top |  
+| bip_39_word_new_line3 | about
+top
+spare |  
+| bip_39_word_new_line4 | about
+top
+spare
+easy |  
+| bip_39_word_new_line5 | about
+top
+spare
+easy
+filter |  
+| bip_39_word_new_line6 | about
+top
+spare
+easy
+filter
+prosper |  
+| bip_39_word_new_line7 | about
+top
+spare
+easy
+filter
+prosper
+window |  
+| bip_39_word_new_line8 | about
+top
+spare
+easy
+filter
+prosper
+window
+child |  
+| bip_39_word_new_line9 | about
+top
+spare
+easy
+filter
+prosper
+window
+child
+swamp |  
+| bip_39_word_space_0 | ['about', 'top', 'spare', 'easy', 'filter', 'prosper', 'window', 'child', 'swamp', 'police', 'cereal', 'ahead'] |  
+| bip_39_word_space_1 | about |  
+| bip_39_word_space_10 | about top spare easy filter prosper window child swamp police |  
+| bip_39_word_space_11 | about top spare easy filter prosper window child swamp police cereal |  
+| bip_39_word_space_12 | about top spare easy filter prosper window child swamp police cereal ahead |  
+| bip_39_word_space_2 | about top |  
+| bip_39_word_space_3 | about top spare |  
+| bip_39_word_space_4 | about top spare easy |  
+| bip_39_word_space_5 | about top spare easy filter |  
+| bip_39_word_space_6 | about top spare easy filter prosper |  
+| bip_39_word_space_7 | about top spare easy filter prosper window |  
+| bip_39_word_space_8 | about top spare easy filter prosper window child |  
+| bip_39_word_space_9 | about top spare easy filter prosper window child swamp |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

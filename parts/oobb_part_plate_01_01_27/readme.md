@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hospital ketchup
+  * bip 39 word 3: hospital ketchup cave
+  * bip 39 word: hospital ketchup cave distance toast engine claw strong own avoid weekend among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hospital |  
+| bip_39_word_new_br10 | hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong<br>own<br>avoid |  
+| bip_39_word_new_br11 | hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong<br>own<br>avoid<br>weekend |  
+| bip_39_word_new_br12 | hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong<br>own<br>avoid<br>weekend<br>among |  
+| bip_39_word_new_br2 | hospital<br>ketchup |  
+| bip_39_word_new_br3 | hospital<br>ketchup<br>cave |  
+| bip_39_word_new_br4 | hospital<br>ketchup<br>cave<br>distance |  
+| bip_39_word_new_br5 | hospital<br>ketchup<br>cave<br>distance<br>toast |  
+| bip_39_word_new_br6 | hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine |  
+| bip_39_word_new_br7 | hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw |  
+| bip_39_word_new_br8 | hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong |  
+| bip_39_word_new_br9 | hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong<br>own |  
+| bip_39_word_new_line1 | hospital |  
+| bip_39_word_new_line10 | hospital
+ketchup
+cave
+distance
+toast
+engine
+claw
+strong
+own
+avoid |  
+| bip_39_word_new_line11 | hospital
+ketchup
+cave
+distance
+toast
+engine
+claw
+strong
+own
+avoid
+weekend |  
+| bip_39_word_new_line12 | hospital
+ketchup
+cave
+distance
+toast
+engine
+claw
+strong
+own
+avoid
+weekend
+among |  
+| bip_39_word_new_line2 | hospital
+ketchup |  
+| bip_39_word_new_line3 | hospital
+ketchup
+cave |  
+| bip_39_word_new_line4 | hospital
+ketchup
+cave
+distance |  
+| bip_39_word_new_line5 | hospital
+ketchup
+cave
+distance
+toast |  
+| bip_39_word_new_line6 | hospital
+ketchup
+cave
+distance
+toast
+engine |  
+| bip_39_word_new_line7 | hospital
+ketchup
+cave
+distance
+toast
+engine
+claw |  
+| bip_39_word_new_line8 | hospital
+ketchup
+cave
+distance
+toast
+engine
+claw
+strong |  
+| bip_39_word_new_line9 | hospital
+ketchup
+cave
+distance
+toast
+engine
+claw
+strong
+own |  
+| bip_39_word_space_0 | ['hospital', 'ketchup', 'cave', 'distance', 'toast', 'engine', 'claw', 'strong', 'own', 'avoid', 'weekend', 'among'] |  
+| bip_39_word_space_1 | hospital |  
+| bip_39_word_space_10 | hospital ketchup cave distance toast engine claw strong own avoid |  
+| bip_39_word_space_11 | hospital ketchup cave distance toast engine claw strong own avoid weekend |  
+| bip_39_word_space_12 | hospital ketchup cave distance toast engine claw strong own avoid weekend among |  
+| bip_39_word_space_2 | hospital ketchup |  
+| bip_39_word_space_3 | hospital ketchup cave |  
+| bip_39_word_space_4 | hospital ketchup cave distance |  
+| bip_39_word_space_5 | hospital ketchup cave distance toast |  
+| bip_39_word_space_6 | hospital ketchup cave distance toast engine |  
+| bip_39_word_space_7 | hospital ketchup cave distance toast engine claw |  
+| bip_39_word_space_8 | hospital ketchup cave distance toast engine claw strong |  
+| bip_39_word_space_9 | hospital ketchup cave distance toast engine claw strong own |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

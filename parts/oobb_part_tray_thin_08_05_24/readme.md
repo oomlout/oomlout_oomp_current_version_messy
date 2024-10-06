@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brown talent
+  * bip 39 word 3: brown talent awesome
+  * bip 39 word: brown talent awesome drama photo combine blast trend thank filter fine artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brown |  
+| bip_39_word_new_br10 | brown<br>talent<br>awesome<br>drama<br>photo<br>combine<br>blast<br>trend<br>thank<br>filter |  
+| bip_39_word_new_br11 | brown<br>talent<br>awesome<br>drama<br>photo<br>combine<br>blast<br>trend<br>thank<br>filter<br>fine |  
+| bip_39_word_new_br12 | brown<br>talent<br>awesome<br>drama<br>photo<br>combine<br>blast<br>trend<br>thank<br>filter<br>fine<br>artefact |  
+| bip_39_word_new_br2 | brown<br>talent |  
+| bip_39_word_new_br3 | brown<br>talent<br>awesome |  
+| bip_39_word_new_br4 | brown<br>talent<br>awesome<br>drama |  
+| bip_39_word_new_br5 | brown<br>talent<br>awesome<br>drama<br>photo |  
+| bip_39_word_new_br6 | brown<br>talent<br>awesome<br>drama<br>photo<br>combine |  
+| bip_39_word_new_br7 | brown<br>talent<br>awesome<br>drama<br>photo<br>combine<br>blast |  
+| bip_39_word_new_br8 | brown<br>talent<br>awesome<br>drama<br>photo<br>combine<br>blast<br>trend |  
+| bip_39_word_new_br9 | brown<br>talent<br>awesome<br>drama<br>photo<br>combine<br>blast<br>trend<br>thank |  
+| bip_39_word_new_line1 | brown |  
+| bip_39_word_new_line10 | brown
+talent
+awesome
+drama
+photo
+combine
+blast
+trend
+thank
+filter |  
+| bip_39_word_new_line11 | brown
+talent
+awesome
+drama
+photo
+combine
+blast
+trend
+thank
+filter
+fine |  
+| bip_39_word_new_line12 | brown
+talent
+awesome
+drama
+photo
+combine
+blast
+trend
+thank
+filter
+fine
+artefact |  
+| bip_39_word_new_line2 | brown
+talent |  
+| bip_39_word_new_line3 | brown
+talent
+awesome |  
+| bip_39_word_new_line4 | brown
+talent
+awesome
+drama |  
+| bip_39_word_new_line5 | brown
+talent
+awesome
+drama
+photo |  
+| bip_39_word_new_line6 | brown
+talent
+awesome
+drama
+photo
+combine |  
+| bip_39_word_new_line7 | brown
+talent
+awesome
+drama
+photo
+combine
+blast |  
+| bip_39_word_new_line8 | brown
+talent
+awesome
+drama
+photo
+combine
+blast
+trend |  
+| bip_39_word_new_line9 | brown
+talent
+awesome
+drama
+photo
+combine
+blast
+trend
+thank |  
+| bip_39_word_space_0 | ['brown', 'talent', 'awesome', 'drama', 'photo', 'combine', 'blast', 'trend', 'thank', 'filter', 'fine', 'artefact'] |  
+| bip_39_word_space_1 | brown |  
+| bip_39_word_space_10 | brown talent awesome drama photo combine blast trend thank filter |  
+| bip_39_word_space_11 | brown talent awesome drama photo combine blast trend thank filter fine |  
+| bip_39_word_space_12 | brown talent awesome drama photo combine blast trend thank filter fine artefact |  
+| bip_39_word_space_2 | brown talent |  
+| bip_39_word_space_3 | brown talent awesome |  
+| bip_39_word_space_4 | brown talent awesome drama |  
+| bip_39_word_space_5 | brown talent awesome drama photo |  
+| bip_39_word_space_6 | brown talent awesome drama photo combine |  
+| bip_39_word_space_7 | brown talent awesome drama photo combine blast |  
+| bip_39_word_space_8 | brown talent awesome drama photo combine blast trend |  
+| bip_39_word_space_9 | brown talent awesome drama photo combine blast trend thank |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

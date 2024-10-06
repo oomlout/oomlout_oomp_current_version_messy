@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bullet leave
+  * bip 39 word 3: bullet leave midnight
+  * bip 39 word: bullet leave midnight toddler clean depart original calm mistake endless penalty alone
 
 ### other_codes
 * short_code: ss6m75
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bullet |  
+| bip_39_word_new_br10 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless |  
+| bip_39_word_new_br11 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless<br>penalty |  
+| bip_39_word_new_br12 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake<br>endless<br>penalty<br>alone |  
+| bip_39_word_new_br2 | bullet<br>leave |  
+| bip_39_word_new_br3 | bullet<br>leave<br>midnight |  
+| bip_39_word_new_br4 | bullet<br>leave<br>midnight<br>toddler |  
+| bip_39_word_new_br5 | bullet<br>leave<br>midnight<br>toddler<br>clean |  
+| bip_39_word_new_br6 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart |  
+| bip_39_word_new_br7 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original |  
+| bip_39_word_new_br8 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm |  
+| bip_39_word_new_br9 | bullet<br>leave<br>midnight<br>toddler<br>clean<br>depart<br>original<br>calm<br>mistake |  
+| bip_39_word_new_line1 | bullet |  
+| bip_39_word_new_line10 | bullet
+leave
+midnight
+toddler
+clean
+depart
+original
+calm
+mistake
+endless |  
+| bip_39_word_new_line11 | bullet
+leave
+midnight
+toddler
+clean
+depart
+original
+calm
+mistake
+endless
+penalty |  
+| bip_39_word_new_line12 | bullet
+leave
+midnight
+toddler
+clean
+depart
+original
+calm
+mistake
+endless
+penalty
+alone |  
+| bip_39_word_new_line2 | bullet
+leave |  
+| bip_39_word_new_line3 | bullet
+leave
+midnight |  
+| bip_39_word_new_line4 | bullet
+leave
+midnight
+toddler |  
+| bip_39_word_new_line5 | bullet
+leave
+midnight
+toddler
+clean |  
+| bip_39_word_new_line6 | bullet
+leave
+midnight
+toddler
+clean
+depart |  
+| bip_39_word_new_line7 | bullet
+leave
+midnight
+toddler
+clean
+depart
+original |  
+| bip_39_word_new_line8 | bullet
+leave
+midnight
+toddler
+clean
+depart
+original
+calm |  
+| bip_39_word_new_line9 | bullet
+leave
+midnight
+toddler
+clean
+depart
+original
+calm
+mistake |  
+| bip_39_word_space_0 | ['bullet', 'leave', 'midnight', 'toddler', 'clean', 'depart', 'original', 'calm', 'mistake', 'endless', 'penalty', 'alone'] |  
+| bip_39_word_space_1 | bullet |  
+| bip_39_word_space_10 | bullet leave midnight toddler clean depart original calm mistake endless |  
+| bip_39_word_space_11 | bullet leave midnight toddler clean depart original calm mistake endless penalty |  
+| bip_39_word_space_12 | bullet leave midnight toddler clean depart original calm mistake endless penalty alone |  
+| bip_39_word_space_2 | bullet leave |  
+| bip_39_word_space_3 | bullet leave midnight |  
+| bip_39_word_space_4 | bullet leave midnight toddler |  
+| bip_39_word_space_5 | bullet leave midnight toddler clean |  
+| bip_39_word_space_6 | bullet leave midnight toddler clean depart |  
+| bip_39_word_space_7 | bullet leave midnight toddler clean depart original |  
+| bip_39_word_space_8 | bullet leave midnight toddler clean depart original calm |  
+| bip_39_word_space_9 | bullet leave midnight toddler clean depart original calm mistake |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

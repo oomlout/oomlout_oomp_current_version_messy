@@ -1,3 +1,187 @@
+bip_39_word_new_br1: health
+bip_39_word_new_br10: health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy
+bip_39_word_new_br11: health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy<br>keen
+bip_39_word_new_br12: health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member<br>puppy<br>keen<br>approve
+bip_39_word_new_br2: health<br>frog
+bip_39_word_new_br3: health<br>frog<br>flee
+bip_39_word_new_br4: health<br>frog<br>flee<br>endorse
+bip_39_word_new_br5: health<br>frog<br>flee<br>endorse<br>empower
+bip_39_word_new_br6: health<br>frog<br>flee<br>endorse<br>empower<br>speak
+bip_39_word_new_br7: health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer
+bip_39_word_new_br8: health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen
+bip_39_word_new_br9: health<br>frog<br>flee<br>endorse<br>empower<br>speak<br>soccer<br>kitchen<br>member
+bip_39_word_new_line1: health
+bip_39_word_new_line10: 'health
+
+  frog
+
+  flee
+
+  endorse
+
+  empower
+
+  speak
+
+  soccer
+
+  kitchen
+
+  member
+
+  puppy'
+bip_39_word_new_line11: 'health
+
+  frog
+
+  flee
+
+  endorse
+
+  empower
+
+  speak
+
+  soccer
+
+  kitchen
+
+  member
+
+  puppy
+
+  keen'
+bip_39_word_new_line12: 'health
+
+  frog
+
+  flee
+
+  endorse
+
+  empower
+
+  speak
+
+  soccer
+
+  kitchen
+
+  member
+
+  puppy
+
+  keen
+
+  approve'
+bip_39_word_new_line2: 'health
+
+  frog'
+bip_39_word_new_line3: 'health
+
+  frog
+
+  flee'
+bip_39_word_new_line4: 'health
+
+  frog
+
+  flee
+
+  endorse'
+bip_39_word_new_line5: 'health
+
+  frog
+
+  flee
+
+  endorse
+
+  empower'
+bip_39_word_new_line6: 'health
+
+  frog
+
+  flee
+
+  endorse
+
+  empower
+
+  speak'
+bip_39_word_new_line7: 'health
+
+  frog
+
+  flee
+
+  endorse
+
+  empower
+
+  speak
+
+  soccer'
+bip_39_word_new_line8: 'health
+
+  frog
+
+  flee
+
+  endorse
+
+  empower
+
+  speak
+
+  soccer
+
+  kitchen'
+bip_39_word_new_line9: 'health
+
+  frog
+
+  flee
+
+  endorse
+
+  empower
+
+  speak
+
+  soccer
+
+  kitchen
+
+  member'
+bip_39_word_space_0:
+- health
+- frog
+- flee
+- endorse
+- empower
+- speak
+- soccer
+- kitchen
+- member
+- puppy
+- keen
+- approve
+bip_39_word_space_1: health
+bip_39_word_space_10: health frog flee endorse empower speak soccer kitchen member
+  puppy
+bip_39_word_space_11: health frog flee endorse empower speak soccer kitchen member
+  puppy keen
+bip_39_word_space_12: health frog flee endorse empower speak soccer kitchen member
+  puppy keen approve
+bip_39_word_space_2: health frog
+bip_39_word_space_3: health frog flee
+bip_39_word_space_4: health frog flee endorse
+bip_39_word_space_5: health frog flee endorse empower
+bip_39_word_space_6: health frog flee endorse empower speak
+bip_39_word_space_7: health frog flee endorse empower speak soccer
+bip_39_word_space_8: health frog flee endorse empower speak soccer kitchen
+bip_39_word_space_9: health frog flee endorse empower speak soccer kitchen member
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

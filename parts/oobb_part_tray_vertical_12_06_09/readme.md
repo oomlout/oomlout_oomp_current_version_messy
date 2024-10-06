@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hen endorse
+  * bip 39 word 3: hen endorse color
+  * bip 39 word: hen endorse color add mobile blouse crunch tell inner trigger drive ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hen |  
+| bip_39_word_new_br10 | hen<br>endorse<br>color<br>add<br>mobile<br>blouse<br>crunch<br>tell<br>inner<br>trigger |  
+| bip_39_word_new_br11 | hen<br>endorse<br>color<br>add<br>mobile<br>blouse<br>crunch<br>tell<br>inner<br>trigger<br>drive |  
+| bip_39_word_new_br12 | hen<br>endorse<br>color<br>add<br>mobile<br>blouse<br>crunch<br>tell<br>inner<br>trigger<br>drive<br>ask |  
+| bip_39_word_new_br2 | hen<br>endorse |  
+| bip_39_word_new_br3 | hen<br>endorse<br>color |  
+| bip_39_word_new_br4 | hen<br>endorse<br>color<br>add |  
+| bip_39_word_new_br5 | hen<br>endorse<br>color<br>add<br>mobile |  
+| bip_39_word_new_br6 | hen<br>endorse<br>color<br>add<br>mobile<br>blouse |  
+| bip_39_word_new_br7 | hen<br>endorse<br>color<br>add<br>mobile<br>blouse<br>crunch |  
+| bip_39_word_new_br8 | hen<br>endorse<br>color<br>add<br>mobile<br>blouse<br>crunch<br>tell |  
+| bip_39_word_new_br9 | hen<br>endorse<br>color<br>add<br>mobile<br>blouse<br>crunch<br>tell<br>inner |  
+| bip_39_word_new_line1 | hen |  
+| bip_39_word_new_line10 | hen
+endorse
+color
+add
+mobile
+blouse
+crunch
+tell
+inner
+trigger |  
+| bip_39_word_new_line11 | hen
+endorse
+color
+add
+mobile
+blouse
+crunch
+tell
+inner
+trigger
+drive |  
+| bip_39_word_new_line12 | hen
+endorse
+color
+add
+mobile
+blouse
+crunch
+tell
+inner
+trigger
+drive
+ask |  
+| bip_39_word_new_line2 | hen
+endorse |  
+| bip_39_word_new_line3 | hen
+endorse
+color |  
+| bip_39_word_new_line4 | hen
+endorse
+color
+add |  
+| bip_39_word_new_line5 | hen
+endorse
+color
+add
+mobile |  
+| bip_39_word_new_line6 | hen
+endorse
+color
+add
+mobile
+blouse |  
+| bip_39_word_new_line7 | hen
+endorse
+color
+add
+mobile
+blouse
+crunch |  
+| bip_39_word_new_line8 | hen
+endorse
+color
+add
+mobile
+blouse
+crunch
+tell |  
+| bip_39_word_new_line9 | hen
+endorse
+color
+add
+mobile
+blouse
+crunch
+tell
+inner |  
+| bip_39_word_space_0 | ['hen', 'endorse', 'color', 'add', 'mobile', 'blouse', 'crunch', 'tell', 'inner', 'trigger', 'drive', 'ask'] |  
+| bip_39_word_space_1 | hen |  
+| bip_39_word_space_10 | hen endorse color add mobile blouse crunch tell inner trigger |  
+| bip_39_word_space_11 | hen endorse color add mobile blouse crunch tell inner trigger drive |  
+| bip_39_word_space_12 | hen endorse color add mobile blouse crunch tell inner trigger drive ask |  
+| bip_39_word_space_2 | hen endorse |  
+| bip_39_word_space_3 | hen endorse color |  
+| bip_39_word_space_4 | hen endorse color add |  
+| bip_39_word_space_5 | hen endorse color add mobile |  
+| bip_39_word_space_6 | hen endorse color add mobile blouse |  
+| bip_39_word_space_7 | hen endorse color add mobile blouse crunch |  
+| bip_39_word_space_8 | hen endorse color add mobile blouse crunch tell |  
+| bip_39_word_space_9 | hen endorse color add mobile blouse crunch tell inner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

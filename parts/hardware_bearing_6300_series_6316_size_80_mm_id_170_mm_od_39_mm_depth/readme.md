@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spider fall
+  * bip 39 word 3: spider fall swear
+  * bip 39 word: spider fall swear surge near inhale pattern target walk antenna try amused
 
 ### other_codes
 * short_code: br6316
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spider |  
+| bip_39_word_new_br10 | spider<br>fall<br>swear<br>surge<br>near<br>inhale<br>pattern<br>target<br>walk<br>antenna |  
+| bip_39_word_new_br11 | spider<br>fall<br>swear<br>surge<br>near<br>inhale<br>pattern<br>target<br>walk<br>antenna<br>try |  
+| bip_39_word_new_br12 | spider<br>fall<br>swear<br>surge<br>near<br>inhale<br>pattern<br>target<br>walk<br>antenna<br>try<br>amused |  
+| bip_39_word_new_br2 | spider<br>fall |  
+| bip_39_word_new_br3 | spider<br>fall<br>swear |  
+| bip_39_word_new_br4 | spider<br>fall<br>swear<br>surge |  
+| bip_39_word_new_br5 | spider<br>fall<br>swear<br>surge<br>near |  
+| bip_39_word_new_br6 | spider<br>fall<br>swear<br>surge<br>near<br>inhale |  
+| bip_39_word_new_br7 | spider<br>fall<br>swear<br>surge<br>near<br>inhale<br>pattern |  
+| bip_39_word_new_br8 | spider<br>fall<br>swear<br>surge<br>near<br>inhale<br>pattern<br>target |  
+| bip_39_word_new_br9 | spider<br>fall<br>swear<br>surge<br>near<br>inhale<br>pattern<br>target<br>walk |  
+| bip_39_word_new_line1 | spider |  
+| bip_39_word_new_line10 | spider
+fall
+swear
+surge
+near
+inhale
+pattern
+target
+walk
+antenna |  
+| bip_39_word_new_line11 | spider
+fall
+swear
+surge
+near
+inhale
+pattern
+target
+walk
+antenna
+try |  
+| bip_39_word_new_line12 | spider
+fall
+swear
+surge
+near
+inhale
+pattern
+target
+walk
+antenna
+try
+amused |  
+| bip_39_word_new_line2 | spider
+fall |  
+| bip_39_word_new_line3 | spider
+fall
+swear |  
+| bip_39_word_new_line4 | spider
+fall
+swear
+surge |  
+| bip_39_word_new_line5 | spider
+fall
+swear
+surge
+near |  
+| bip_39_word_new_line6 | spider
+fall
+swear
+surge
+near
+inhale |  
+| bip_39_word_new_line7 | spider
+fall
+swear
+surge
+near
+inhale
+pattern |  
+| bip_39_word_new_line8 | spider
+fall
+swear
+surge
+near
+inhale
+pattern
+target |  
+| bip_39_word_new_line9 | spider
+fall
+swear
+surge
+near
+inhale
+pattern
+target
+walk |  
+| bip_39_word_space_0 | ['spider', 'fall', 'swear', 'surge', 'near', 'inhale', 'pattern', 'target', 'walk', 'antenna', 'try', 'amused'] |  
+| bip_39_word_space_1 | spider |  
+| bip_39_word_space_10 | spider fall swear surge near inhale pattern target walk antenna |  
+| bip_39_word_space_11 | spider fall swear surge near inhale pattern target walk antenna try |  
+| bip_39_word_space_12 | spider fall swear surge near inhale pattern target walk antenna try amused |  
+| bip_39_word_space_2 | spider fall |  
+| bip_39_word_space_3 | spider fall swear |  
+| bip_39_word_space_4 | spider fall swear surge |  
+| bip_39_word_space_5 | spider fall swear surge near |  
+| bip_39_word_space_6 | spider fall swear surge near inhale |  
+| bip_39_word_space_7 | spider fall swear surge near inhale pattern |  
+| bip_39_word_space_8 | spider fall swear surge near inhale pattern target |  
+| bip_39_word_space_9 | spider fall swear surge near inhale pattern target walk |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

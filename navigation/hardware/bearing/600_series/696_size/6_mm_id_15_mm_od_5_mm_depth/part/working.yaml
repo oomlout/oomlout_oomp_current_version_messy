@@ -1,3 +1,187 @@
+bip_39_word_new_br1: crucial
+bip_39_word_new_br10: crucial<br>scatter<br>liquid<br>ivory<br>express<br>joke<br>genre<br>trouble<br>enable<br>profit
+bip_39_word_new_br11: crucial<br>scatter<br>liquid<br>ivory<br>express<br>joke<br>genre<br>trouble<br>enable<br>profit<br>input
+bip_39_word_new_br12: crucial<br>scatter<br>liquid<br>ivory<br>express<br>joke<br>genre<br>trouble<br>enable<br>profit<br>input<br>amazing
+bip_39_word_new_br2: crucial<br>scatter
+bip_39_word_new_br3: crucial<br>scatter<br>liquid
+bip_39_word_new_br4: crucial<br>scatter<br>liquid<br>ivory
+bip_39_word_new_br5: crucial<br>scatter<br>liquid<br>ivory<br>express
+bip_39_word_new_br6: crucial<br>scatter<br>liquid<br>ivory<br>express<br>joke
+bip_39_word_new_br7: crucial<br>scatter<br>liquid<br>ivory<br>express<br>joke<br>genre
+bip_39_word_new_br8: crucial<br>scatter<br>liquid<br>ivory<br>express<br>joke<br>genre<br>trouble
+bip_39_word_new_br9: crucial<br>scatter<br>liquid<br>ivory<br>express<br>joke<br>genre<br>trouble<br>enable
+bip_39_word_new_line1: crucial
+bip_39_word_new_line10: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory
+
+  express
+
+  joke
+
+  genre
+
+  trouble
+
+  enable
+
+  profit'
+bip_39_word_new_line11: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory
+
+  express
+
+  joke
+
+  genre
+
+  trouble
+
+  enable
+
+  profit
+
+  input'
+bip_39_word_new_line12: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory
+
+  express
+
+  joke
+
+  genre
+
+  trouble
+
+  enable
+
+  profit
+
+  input
+
+  amazing'
+bip_39_word_new_line2: 'crucial
+
+  scatter'
+bip_39_word_new_line3: 'crucial
+
+  scatter
+
+  liquid'
+bip_39_word_new_line4: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory'
+bip_39_word_new_line5: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory
+
+  express'
+bip_39_word_new_line6: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory
+
+  express
+
+  joke'
+bip_39_word_new_line7: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory
+
+  express
+
+  joke
+
+  genre'
+bip_39_word_new_line8: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory
+
+  express
+
+  joke
+
+  genre
+
+  trouble'
+bip_39_word_new_line9: 'crucial
+
+  scatter
+
+  liquid
+
+  ivory
+
+  express
+
+  joke
+
+  genre
+
+  trouble
+
+  enable'
+bip_39_word_space_0:
+- crucial
+- scatter
+- liquid
+- ivory
+- express
+- joke
+- genre
+- trouble
+- enable
+- profit
+- input
+- amazing
+bip_39_word_space_1: crucial
+bip_39_word_space_10: crucial scatter liquid ivory express joke genre trouble enable
+  profit
+bip_39_word_space_11: crucial scatter liquid ivory express joke genre trouble enable
+  profit input
+bip_39_word_space_12: crucial scatter liquid ivory express joke genre trouble enable
+  profit input amazing
+bip_39_word_space_2: crucial scatter
+bip_39_word_space_3: crucial scatter liquid
+bip_39_word_space_4: crucial scatter liquid ivory
+bip_39_word_space_5: crucial scatter liquid ivory express
+bip_39_word_space_6: crucial scatter liquid ivory express joke
+bip_39_word_space_7: crucial scatter liquid ivory express joke genre
+bip_39_word_space_8: crucial scatter liquid ivory express joke genre trouble
+bip_39_word_space_9: crucial scatter liquid ivory express joke genre trouble enable
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

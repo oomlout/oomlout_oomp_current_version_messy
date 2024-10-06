@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ask
+bip_39_word_new_br10: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size<br>amount
+bip_39_word_new_br11: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size<br>amount<br>invest
+bip_39_word_new_br12: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size<br>amount<br>invest<br>antique
+bip_39_word_new_br2: ask<br>scout
+bip_39_word_new_br3: ask<br>scout<br>taxi
+bip_39_word_new_br4: ask<br>scout<br>taxi<br>include
+bip_39_word_new_br5: ask<br>scout<br>taxi<br>include<br>rhythm
+bip_39_word_new_br6: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip
+bip_39_word_new_br7: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican
+bip_39_word_new_br8: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse
+bip_39_word_new_br9: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size
+bip_39_word_new_line1: ask
+bip_39_word_new_line10: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse
+
+  size
+
+  amount'
+bip_39_word_new_line11: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse
+
+  size
+
+  amount
+
+  invest'
+bip_39_word_new_line12: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse
+
+  size
+
+  amount
+
+  invest
+
+  antique'
+bip_39_word_new_line2: 'ask
+
+  scout'
+bip_39_word_new_line3: 'ask
+
+  scout
+
+  taxi'
+bip_39_word_new_line4: 'ask
+
+  scout
+
+  taxi
+
+  include'
+bip_39_word_new_line5: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm'
+bip_39_word_new_line6: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip'
+bip_39_word_new_line7: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican'
+bip_39_word_new_line8: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse'
+bip_39_word_new_line9: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse
+
+  size'
+bip_39_word_space_0:
+- ask
+- scout
+- taxi
+- include
+- rhythm
+- flip
+- pelican
+- blouse
+- size
+- amount
+- invest
+- antique
+bip_39_word_space_1: ask
+bip_39_word_space_10: ask scout taxi include rhythm flip pelican blouse size amount
+bip_39_word_space_11: ask scout taxi include rhythm flip pelican blouse size amount
+  invest
+bip_39_word_space_12: ask scout taxi include rhythm flip pelican blouse size amount
+  invest antique
+bip_39_word_space_2: ask scout
+bip_39_word_space_3: ask scout taxi
+bip_39_word_space_4: ask scout taxi include
+bip_39_word_space_5: ask scout taxi include rhythm
+bip_39_word_space_6: ask scout taxi include rhythm flip
+bip_39_word_space_7: ask scout taxi include rhythm flip pelican
+bip_39_word_space_8: ask scout taxi include rhythm flip pelican blouse
+bip_39_word_space_9: ask scout taxi include rhythm flip pelican blouse size
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: r
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: goose orient
+  * bip 39 word 3: goose orient report
+  * bip 39 word: goose orient report blind claim copper similar betray color pair copy analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | goose |  
+| bip_39_word_new_br10 | goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color<br>pair |  
+| bip_39_word_new_br11 | goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color<br>pair<br>copy |  
+| bip_39_word_new_br12 | goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color<br>pair<br>copy<br>analyst |  
+| bip_39_word_new_br2 | goose<br>orient |  
+| bip_39_word_new_br3 | goose<br>orient<br>report |  
+| bip_39_word_new_br4 | goose<br>orient<br>report<br>blind |  
+| bip_39_word_new_br5 | goose<br>orient<br>report<br>blind<br>claim |  
+| bip_39_word_new_br6 | goose<br>orient<br>report<br>blind<br>claim<br>copper |  
+| bip_39_word_new_br7 | goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar |  
+| bip_39_word_new_br8 | goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray |  
+| bip_39_word_new_br9 | goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color |  
+| bip_39_word_new_line1 | goose |  
+| bip_39_word_new_line10 | goose
+orient
+report
+blind
+claim
+copper
+similar
+betray
+color
+pair |  
+| bip_39_word_new_line11 | goose
+orient
+report
+blind
+claim
+copper
+similar
+betray
+color
+pair
+copy |  
+| bip_39_word_new_line12 | goose
+orient
+report
+blind
+claim
+copper
+similar
+betray
+color
+pair
+copy
+analyst |  
+| bip_39_word_new_line2 | goose
+orient |  
+| bip_39_word_new_line3 | goose
+orient
+report |  
+| bip_39_word_new_line4 | goose
+orient
+report
+blind |  
+| bip_39_word_new_line5 | goose
+orient
+report
+blind
+claim |  
+| bip_39_word_new_line6 | goose
+orient
+report
+blind
+claim
+copper |  
+| bip_39_word_new_line7 | goose
+orient
+report
+blind
+claim
+copper
+similar |  
+| bip_39_word_new_line8 | goose
+orient
+report
+blind
+claim
+copper
+similar
+betray |  
+| bip_39_word_new_line9 | goose
+orient
+report
+blind
+claim
+copper
+similar
+betray
+color |  
+| bip_39_word_space_0 | ['goose', 'orient', 'report', 'blind', 'claim', 'copper', 'similar', 'betray', 'color', 'pair', 'copy', 'analyst'] |  
+| bip_39_word_space_1 | goose |  
+| bip_39_word_space_10 | goose orient report blind claim copper similar betray color pair |  
+| bip_39_word_space_11 | goose orient report blind claim copper similar betray color pair copy |  
+| bip_39_word_space_12 | goose orient report blind claim copper similar betray color pair copy analyst |  
+| bip_39_word_space_2 | goose orient |  
+| bip_39_word_space_3 | goose orient report |  
+| bip_39_word_space_4 | goose orient report blind |  
+| bip_39_word_space_5 | goose orient report blind claim |  
+| bip_39_word_space_6 | goose orient report blind claim copper |  
+| bip_39_word_space_7 | goose orient report blind claim copper similar |  
+| bip_39_word_space_8 | goose orient report blind claim copper similar betray |  
+| bip_39_word_space_9 | goose orient report blind claim copper similar betray color |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

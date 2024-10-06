@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toward seat
+  * bip 39 word 3: toward seat clarify
+  * bip 39 word: toward seat clarify steak into enjoy critic love topic exhibit help also
 
 ### other_codes
 * short_code: br6211
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toward |  
+| bip_39_word_new_br10 | toward<br>seat<br>clarify<br>steak<br>into<br>enjoy<br>critic<br>love<br>topic<br>exhibit |  
+| bip_39_word_new_br11 | toward<br>seat<br>clarify<br>steak<br>into<br>enjoy<br>critic<br>love<br>topic<br>exhibit<br>help |  
+| bip_39_word_new_br12 | toward<br>seat<br>clarify<br>steak<br>into<br>enjoy<br>critic<br>love<br>topic<br>exhibit<br>help<br>also |  
+| bip_39_word_new_br2 | toward<br>seat |  
+| bip_39_word_new_br3 | toward<br>seat<br>clarify |  
+| bip_39_word_new_br4 | toward<br>seat<br>clarify<br>steak |  
+| bip_39_word_new_br5 | toward<br>seat<br>clarify<br>steak<br>into |  
+| bip_39_word_new_br6 | toward<br>seat<br>clarify<br>steak<br>into<br>enjoy |  
+| bip_39_word_new_br7 | toward<br>seat<br>clarify<br>steak<br>into<br>enjoy<br>critic |  
+| bip_39_word_new_br8 | toward<br>seat<br>clarify<br>steak<br>into<br>enjoy<br>critic<br>love |  
+| bip_39_word_new_br9 | toward<br>seat<br>clarify<br>steak<br>into<br>enjoy<br>critic<br>love<br>topic |  
+| bip_39_word_new_line1 | toward |  
+| bip_39_word_new_line10 | toward
+seat
+clarify
+steak
+into
+enjoy
+critic
+love
+topic
+exhibit |  
+| bip_39_word_new_line11 | toward
+seat
+clarify
+steak
+into
+enjoy
+critic
+love
+topic
+exhibit
+help |  
+| bip_39_word_new_line12 | toward
+seat
+clarify
+steak
+into
+enjoy
+critic
+love
+topic
+exhibit
+help
+also |  
+| bip_39_word_new_line2 | toward
+seat |  
+| bip_39_word_new_line3 | toward
+seat
+clarify |  
+| bip_39_word_new_line4 | toward
+seat
+clarify
+steak |  
+| bip_39_word_new_line5 | toward
+seat
+clarify
+steak
+into |  
+| bip_39_word_new_line6 | toward
+seat
+clarify
+steak
+into
+enjoy |  
+| bip_39_word_new_line7 | toward
+seat
+clarify
+steak
+into
+enjoy
+critic |  
+| bip_39_word_new_line8 | toward
+seat
+clarify
+steak
+into
+enjoy
+critic
+love |  
+| bip_39_word_new_line9 | toward
+seat
+clarify
+steak
+into
+enjoy
+critic
+love
+topic |  
+| bip_39_word_space_0 | ['toward', 'seat', 'clarify', 'steak', 'into', 'enjoy', 'critic', 'love', 'topic', 'exhibit', 'help', 'also'] |  
+| bip_39_word_space_1 | toward |  
+| bip_39_word_space_10 | toward seat clarify steak into enjoy critic love topic exhibit |  
+| bip_39_word_space_11 | toward seat clarify steak into enjoy critic love topic exhibit help |  
+| bip_39_word_space_12 | toward seat clarify steak into enjoy critic love topic exhibit help also |  
+| bip_39_word_space_2 | toward seat |  
+| bip_39_word_space_3 | toward seat clarify |  
+| bip_39_word_space_4 | toward seat clarify steak |  
+| bip_39_word_space_5 | toward seat clarify steak into |  
+| bip_39_word_space_6 | toward seat clarify steak into enjoy |  
+| bip_39_word_space_7 | toward seat clarify steak into enjoy critic |  
+| bip_39_word_space_8 | toward seat clarify steak into enjoy critic love |  
+| bip_39_word_space_9 | toward seat clarify steak into enjoy critic love topic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

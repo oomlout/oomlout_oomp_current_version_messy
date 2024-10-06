@@ -1,3 +1,186 @@
+bip_39_word_new_br1: viable
+bip_39_word_new_br10: viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble
+bip_39_word_new_br11: viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble<br>tomato
+bip_39_word_new_br12: viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber<br>trouble<br>tomato<br>armed
+bip_39_word_new_br2: viable<br>vague
+bip_39_word_new_br3: viable<br>vague<br>media
+bip_39_word_new_br4: viable<br>vague<br>media<br>orient
+bip_39_word_new_br5: viable<br>vague<br>media<br>orient<br>rule
+bip_39_word_new_br6: viable<br>vague<br>media<br>orient<br>rule<br>regular
+bip_39_word_new_br7: viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt
+bip_39_word_new_br8: viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough
+bip_39_word_new_br9: viable<br>vague<br>media<br>orient<br>rule<br>regular<br>dirt<br>enough<br>timber
+bip_39_word_new_line1: viable
+bip_39_word_new_line10: 'viable
+
+  vague
+
+  media
+
+  orient
+
+  rule
+
+  regular
+
+  dirt
+
+  enough
+
+  timber
+
+  trouble'
+bip_39_word_new_line11: 'viable
+
+  vague
+
+  media
+
+  orient
+
+  rule
+
+  regular
+
+  dirt
+
+  enough
+
+  timber
+
+  trouble
+
+  tomato'
+bip_39_word_new_line12: 'viable
+
+  vague
+
+  media
+
+  orient
+
+  rule
+
+  regular
+
+  dirt
+
+  enough
+
+  timber
+
+  trouble
+
+  tomato
+
+  armed'
+bip_39_word_new_line2: 'viable
+
+  vague'
+bip_39_word_new_line3: 'viable
+
+  vague
+
+  media'
+bip_39_word_new_line4: 'viable
+
+  vague
+
+  media
+
+  orient'
+bip_39_word_new_line5: 'viable
+
+  vague
+
+  media
+
+  orient
+
+  rule'
+bip_39_word_new_line6: 'viable
+
+  vague
+
+  media
+
+  orient
+
+  rule
+
+  regular'
+bip_39_word_new_line7: 'viable
+
+  vague
+
+  media
+
+  orient
+
+  rule
+
+  regular
+
+  dirt'
+bip_39_word_new_line8: 'viable
+
+  vague
+
+  media
+
+  orient
+
+  rule
+
+  regular
+
+  dirt
+
+  enough'
+bip_39_word_new_line9: 'viable
+
+  vague
+
+  media
+
+  orient
+
+  rule
+
+  regular
+
+  dirt
+
+  enough
+
+  timber'
+bip_39_word_space_0:
+- viable
+- vague
+- media
+- orient
+- rule
+- regular
+- dirt
+- enough
+- timber
+- trouble
+- tomato
+- armed
+bip_39_word_space_1: viable
+bip_39_word_space_10: viable vague media orient rule regular dirt enough timber trouble
+bip_39_word_space_11: viable vague media orient rule regular dirt enough timber trouble
+  tomato
+bip_39_word_space_12: viable vague media orient rule regular dirt enough timber trouble
+  tomato armed
+bip_39_word_space_2: viable vague
+bip_39_word_space_3: viable vague media
+bip_39_word_space_4: viable vague media orient
+bip_39_word_space_5: viable vague media orient rule
+bip_39_word_space_6: viable vague media orient rule regular
+bip_39_word_space_7: viable vague media orient rule regular dirt
+bip_39_word_space_8: viable vague media orient rule regular dirt enough
+bip_39_word_space_9: viable vague media orient rule regular dirt enough timber
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

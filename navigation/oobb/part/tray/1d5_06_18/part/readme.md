@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cliff uphold
+  * bip 39 word 3: cliff uphold aim
+  * bip 39 word: cliff uphold aim relief drive engine dilemma pencil bachelor wet muscle absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cliff |  
+| bip_39_word_new_br10 | cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor<br>wet |  
+| bip_39_word_new_br11 | cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor<br>wet<br>muscle |  
+| bip_39_word_new_br12 | cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor<br>wet<br>muscle<br>absurd |  
+| bip_39_word_new_br2 | cliff<br>uphold |  
+| bip_39_word_new_br3 | cliff<br>uphold<br>aim |  
+| bip_39_word_new_br4 | cliff<br>uphold<br>aim<br>relief |  
+| bip_39_word_new_br5 | cliff<br>uphold<br>aim<br>relief<br>drive |  
+| bip_39_word_new_br6 | cliff<br>uphold<br>aim<br>relief<br>drive<br>engine |  
+| bip_39_word_new_br7 | cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma |  
+| bip_39_word_new_br8 | cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil |  
+| bip_39_word_new_br9 | cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor |  
+| bip_39_word_new_line1 | cliff |  
+| bip_39_word_new_line10 | cliff
+uphold
+aim
+relief
+drive
+engine
+dilemma
+pencil
+bachelor
+wet |  
+| bip_39_word_new_line11 | cliff
+uphold
+aim
+relief
+drive
+engine
+dilemma
+pencil
+bachelor
+wet
+muscle |  
+| bip_39_word_new_line12 | cliff
+uphold
+aim
+relief
+drive
+engine
+dilemma
+pencil
+bachelor
+wet
+muscle
+absurd |  
+| bip_39_word_new_line2 | cliff
+uphold |  
+| bip_39_word_new_line3 | cliff
+uphold
+aim |  
+| bip_39_word_new_line4 | cliff
+uphold
+aim
+relief |  
+| bip_39_word_new_line5 | cliff
+uphold
+aim
+relief
+drive |  
+| bip_39_word_new_line6 | cliff
+uphold
+aim
+relief
+drive
+engine |  
+| bip_39_word_new_line7 | cliff
+uphold
+aim
+relief
+drive
+engine
+dilemma |  
+| bip_39_word_new_line8 | cliff
+uphold
+aim
+relief
+drive
+engine
+dilemma
+pencil |  
+| bip_39_word_new_line9 | cliff
+uphold
+aim
+relief
+drive
+engine
+dilemma
+pencil
+bachelor |  
+| bip_39_word_space_0 | ['cliff', 'uphold', 'aim', 'relief', 'drive', 'engine', 'dilemma', 'pencil', 'bachelor', 'wet', 'muscle', 'absurd'] |  
+| bip_39_word_space_1 | cliff |  
+| bip_39_word_space_10 | cliff uphold aim relief drive engine dilemma pencil bachelor wet |  
+| bip_39_word_space_11 | cliff uphold aim relief drive engine dilemma pencil bachelor wet muscle |  
+| bip_39_word_space_12 | cliff uphold aim relief drive engine dilemma pencil bachelor wet muscle absurd |  
+| bip_39_word_space_2 | cliff uphold |  
+| bip_39_word_space_3 | cliff uphold aim |  
+| bip_39_word_space_4 | cliff uphold aim relief |  
+| bip_39_word_space_5 | cliff uphold aim relief drive |  
+| bip_39_word_space_6 | cliff uphold aim relief drive engine |  
+| bip_39_word_space_7 | cliff uphold aim relief drive engine dilemma |  
+| bip_39_word_space_8 | cliff uphold aim relief drive engine dilemma pencil |  
+| bip_39_word_space_9 | cliff uphold aim relief drive engine dilemma pencil bachelor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

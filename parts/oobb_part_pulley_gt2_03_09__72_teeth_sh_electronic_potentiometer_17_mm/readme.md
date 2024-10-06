@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: doctor elephant
+  * bip 39 word 3: doctor elephant quote
+  * bip 39 word: doctor elephant quote leopard cherry kite reopen error buffalo lunar find asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | doctor |  
+| bip_39_word_new_br10 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite<br>reopen<br>error<br>buffalo<br>lunar |  
+| bip_39_word_new_br11 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite<br>reopen<br>error<br>buffalo<br>lunar<br>find |  
+| bip_39_word_new_br12 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite<br>reopen<br>error<br>buffalo<br>lunar<br>find<br>asthma |  
+| bip_39_word_new_br2 | doctor<br>elephant |  
+| bip_39_word_new_br3 | doctor<br>elephant<br>quote |  
+| bip_39_word_new_br4 | doctor<br>elephant<br>quote<br>leopard |  
+| bip_39_word_new_br5 | doctor<br>elephant<br>quote<br>leopard<br>cherry |  
+| bip_39_word_new_br6 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite |  
+| bip_39_word_new_br7 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite<br>reopen |  
+| bip_39_word_new_br8 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite<br>reopen<br>error |  
+| bip_39_word_new_br9 | doctor<br>elephant<br>quote<br>leopard<br>cherry<br>kite<br>reopen<br>error<br>buffalo |  
+| bip_39_word_new_line1 | doctor |  
+| bip_39_word_new_line10 | doctor
+elephant
+quote
+leopard
+cherry
+kite
+reopen
+error
+buffalo
+lunar |  
+| bip_39_word_new_line11 | doctor
+elephant
+quote
+leopard
+cherry
+kite
+reopen
+error
+buffalo
+lunar
+find |  
+| bip_39_word_new_line12 | doctor
+elephant
+quote
+leopard
+cherry
+kite
+reopen
+error
+buffalo
+lunar
+find
+asthma |  
+| bip_39_word_new_line2 | doctor
+elephant |  
+| bip_39_word_new_line3 | doctor
+elephant
+quote |  
+| bip_39_word_new_line4 | doctor
+elephant
+quote
+leopard |  
+| bip_39_word_new_line5 | doctor
+elephant
+quote
+leopard
+cherry |  
+| bip_39_word_new_line6 | doctor
+elephant
+quote
+leopard
+cherry
+kite |  
+| bip_39_word_new_line7 | doctor
+elephant
+quote
+leopard
+cherry
+kite
+reopen |  
+| bip_39_word_new_line8 | doctor
+elephant
+quote
+leopard
+cherry
+kite
+reopen
+error |  
+| bip_39_word_new_line9 | doctor
+elephant
+quote
+leopard
+cherry
+kite
+reopen
+error
+buffalo |  
+| bip_39_word_space_0 | ['doctor', 'elephant', 'quote', 'leopard', 'cherry', 'kite', 'reopen', 'error', 'buffalo', 'lunar', 'find', 'asthma'] |  
+| bip_39_word_space_1 | doctor |  
+| bip_39_word_space_10 | doctor elephant quote leopard cherry kite reopen error buffalo lunar |  
+| bip_39_word_space_11 | doctor elephant quote leopard cherry kite reopen error buffalo lunar find |  
+| bip_39_word_space_12 | doctor elephant quote leopard cherry kite reopen error buffalo lunar find asthma |  
+| bip_39_word_space_2 | doctor elephant |  
+| bip_39_word_space_3 | doctor elephant quote |  
+| bip_39_word_space_4 | doctor elephant quote leopard |  
+| bip_39_word_space_5 | doctor elephant quote leopard cherry |  
+| bip_39_word_space_6 | doctor elephant quote leopard cherry kite |  
+| bip_39_word_space_7 | doctor elephant quote leopard cherry kite reopen |  
+| bip_39_word_space_8 | doctor elephant quote leopard cherry kite reopen error |  
+| bip_39_word_space_9 | doctor elephant quote leopard cherry kite reopen error buffalo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

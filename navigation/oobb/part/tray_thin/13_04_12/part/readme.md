@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: front shock
+  * bip 39 word 3: front shock duty
+  * bip 39 word: front shock duty capital nerve situate price involve raven coin diary art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | front |  
+| bip_39_word_new_br10 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin |  
+| bip_39_word_new_br11 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin<br>diary |  
+| bip_39_word_new_br12 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven<br>coin<br>diary<br>art |  
+| bip_39_word_new_br2 | front<br>shock |  
+| bip_39_word_new_br3 | front<br>shock<br>duty |  
+| bip_39_word_new_br4 | front<br>shock<br>duty<br>capital |  
+| bip_39_word_new_br5 | front<br>shock<br>duty<br>capital<br>nerve |  
+| bip_39_word_new_br6 | front<br>shock<br>duty<br>capital<br>nerve<br>situate |  
+| bip_39_word_new_br7 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price |  
+| bip_39_word_new_br8 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve |  
+| bip_39_word_new_br9 | front<br>shock<br>duty<br>capital<br>nerve<br>situate<br>price<br>involve<br>raven |  
+| bip_39_word_new_line1 | front |  
+| bip_39_word_new_line10 | front
+shock
+duty
+capital
+nerve
+situate
+price
+involve
+raven
+coin |  
+| bip_39_word_new_line11 | front
+shock
+duty
+capital
+nerve
+situate
+price
+involve
+raven
+coin
+diary |  
+| bip_39_word_new_line12 | front
+shock
+duty
+capital
+nerve
+situate
+price
+involve
+raven
+coin
+diary
+art |  
+| bip_39_word_new_line2 | front
+shock |  
+| bip_39_word_new_line3 | front
+shock
+duty |  
+| bip_39_word_new_line4 | front
+shock
+duty
+capital |  
+| bip_39_word_new_line5 | front
+shock
+duty
+capital
+nerve |  
+| bip_39_word_new_line6 | front
+shock
+duty
+capital
+nerve
+situate |  
+| bip_39_word_new_line7 | front
+shock
+duty
+capital
+nerve
+situate
+price |  
+| bip_39_word_new_line8 | front
+shock
+duty
+capital
+nerve
+situate
+price
+involve |  
+| bip_39_word_new_line9 | front
+shock
+duty
+capital
+nerve
+situate
+price
+involve
+raven |  
+| bip_39_word_space_0 | ['front', 'shock', 'duty', 'capital', 'nerve', 'situate', 'price', 'involve', 'raven', 'coin', 'diary', 'art'] |  
+| bip_39_word_space_1 | front |  
+| bip_39_word_space_10 | front shock duty capital nerve situate price involve raven coin |  
+| bip_39_word_space_11 | front shock duty capital nerve situate price involve raven coin diary |  
+| bip_39_word_space_12 | front shock duty capital nerve situate price involve raven coin diary art |  
+| bip_39_word_space_2 | front shock |  
+| bip_39_word_space_3 | front shock duty |  
+| bip_39_word_space_4 | front shock duty capital |  
+| bip_39_word_space_5 | front shock duty capital nerve |  
+| bip_39_word_space_6 | front shock duty capital nerve situate |  
+| bip_39_word_space_7 | front shock duty capital nerve situate price |  
+| bip_39_word_space_8 | front shock duty capital nerve situate price involve |  
+| bip_39_word_space_9 | front shock duty capital nerve situate price involve raven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

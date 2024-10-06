@@ -1,3 +1,186 @@
+bip_39_word_new_br1: story
+bip_39_word_new_br10: story<br>possible<br>fix<br>lumber<br>antenna<br>advice<br>wonder<br>index<br>obey<br>wet
+bip_39_word_new_br11: story<br>possible<br>fix<br>lumber<br>antenna<br>advice<br>wonder<br>index<br>obey<br>wet<br>fee
+bip_39_word_new_br12: story<br>possible<br>fix<br>lumber<br>antenna<br>advice<br>wonder<br>index<br>obey<br>wet<br>fee<br>artwork
+bip_39_word_new_br2: story<br>possible
+bip_39_word_new_br3: story<br>possible<br>fix
+bip_39_word_new_br4: story<br>possible<br>fix<br>lumber
+bip_39_word_new_br5: story<br>possible<br>fix<br>lumber<br>antenna
+bip_39_word_new_br6: story<br>possible<br>fix<br>lumber<br>antenna<br>advice
+bip_39_word_new_br7: story<br>possible<br>fix<br>lumber<br>antenna<br>advice<br>wonder
+bip_39_word_new_br8: story<br>possible<br>fix<br>lumber<br>antenna<br>advice<br>wonder<br>index
+bip_39_word_new_br9: story<br>possible<br>fix<br>lumber<br>antenna<br>advice<br>wonder<br>index<br>obey
+bip_39_word_new_line1: story
+bip_39_word_new_line10: 'story
+
+  possible
+
+  fix
+
+  lumber
+
+  antenna
+
+  advice
+
+  wonder
+
+  index
+
+  obey
+
+  wet'
+bip_39_word_new_line11: 'story
+
+  possible
+
+  fix
+
+  lumber
+
+  antenna
+
+  advice
+
+  wonder
+
+  index
+
+  obey
+
+  wet
+
+  fee'
+bip_39_word_new_line12: 'story
+
+  possible
+
+  fix
+
+  lumber
+
+  antenna
+
+  advice
+
+  wonder
+
+  index
+
+  obey
+
+  wet
+
+  fee
+
+  artwork'
+bip_39_word_new_line2: 'story
+
+  possible'
+bip_39_word_new_line3: 'story
+
+  possible
+
+  fix'
+bip_39_word_new_line4: 'story
+
+  possible
+
+  fix
+
+  lumber'
+bip_39_word_new_line5: 'story
+
+  possible
+
+  fix
+
+  lumber
+
+  antenna'
+bip_39_word_new_line6: 'story
+
+  possible
+
+  fix
+
+  lumber
+
+  antenna
+
+  advice'
+bip_39_word_new_line7: 'story
+
+  possible
+
+  fix
+
+  lumber
+
+  antenna
+
+  advice
+
+  wonder'
+bip_39_word_new_line8: 'story
+
+  possible
+
+  fix
+
+  lumber
+
+  antenna
+
+  advice
+
+  wonder
+
+  index'
+bip_39_word_new_line9: 'story
+
+  possible
+
+  fix
+
+  lumber
+
+  antenna
+
+  advice
+
+  wonder
+
+  index
+
+  obey'
+bip_39_word_space_0:
+- story
+- possible
+- fix
+- lumber
+- antenna
+- advice
+- wonder
+- index
+- obey
+- wet
+- fee
+- artwork
+bip_39_word_space_1: story
+bip_39_word_space_10: story possible fix lumber antenna advice wonder index obey wet
+bip_39_word_space_11: story possible fix lumber antenna advice wonder index obey wet
+  fee
+bip_39_word_space_12: story possible fix lumber antenna advice wonder index obey wet
+  fee artwork
+bip_39_word_space_2: story possible
+bip_39_word_space_3: story possible fix
+bip_39_word_space_4: story possible fix lumber
+bip_39_word_space_5: story possible fix lumber antenna
+bip_39_word_space_6: story possible fix lumber antenna advice
+bip_39_word_space_7: story possible fix lumber antenna advice wonder
+bip_39_word_space_8: story possible fix lumber antenna advice wonder index
+bip_39_word_space_9: story possible fix lumber antenna advice wonder index obey
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

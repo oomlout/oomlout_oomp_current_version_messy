@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pudding
+bip_39_word_new_br10: pudding<br>absent<br>family<br>asthma<br>cigar<br>matter<br>discover<br>ten<br>tip<br>favorite
+bip_39_word_new_br11: pudding<br>absent<br>family<br>asthma<br>cigar<br>matter<br>discover<br>ten<br>tip<br>favorite<br>injury
+bip_39_word_new_br12: pudding<br>absent<br>family<br>asthma<br>cigar<br>matter<br>discover<br>ten<br>tip<br>favorite<br>injury<br>all
+bip_39_word_new_br2: pudding<br>absent
+bip_39_word_new_br3: pudding<br>absent<br>family
+bip_39_word_new_br4: pudding<br>absent<br>family<br>asthma
+bip_39_word_new_br5: pudding<br>absent<br>family<br>asthma<br>cigar
+bip_39_word_new_br6: pudding<br>absent<br>family<br>asthma<br>cigar<br>matter
+bip_39_word_new_br7: pudding<br>absent<br>family<br>asthma<br>cigar<br>matter<br>discover
+bip_39_word_new_br8: pudding<br>absent<br>family<br>asthma<br>cigar<br>matter<br>discover<br>ten
+bip_39_word_new_br9: pudding<br>absent<br>family<br>asthma<br>cigar<br>matter<br>discover<br>ten<br>tip
+bip_39_word_new_line1: pudding
+bip_39_word_new_line10: 'pudding
+
+  absent
+
+  family
+
+  asthma
+
+  cigar
+
+  matter
+
+  discover
+
+  ten
+
+  tip
+
+  favorite'
+bip_39_word_new_line11: 'pudding
+
+  absent
+
+  family
+
+  asthma
+
+  cigar
+
+  matter
+
+  discover
+
+  ten
+
+  tip
+
+  favorite
+
+  injury'
+bip_39_word_new_line12: 'pudding
+
+  absent
+
+  family
+
+  asthma
+
+  cigar
+
+  matter
+
+  discover
+
+  ten
+
+  tip
+
+  favorite
+
+  injury
+
+  all'
+bip_39_word_new_line2: 'pudding
+
+  absent'
+bip_39_word_new_line3: 'pudding
+
+  absent
+
+  family'
+bip_39_word_new_line4: 'pudding
+
+  absent
+
+  family
+
+  asthma'
+bip_39_word_new_line5: 'pudding
+
+  absent
+
+  family
+
+  asthma
+
+  cigar'
+bip_39_word_new_line6: 'pudding
+
+  absent
+
+  family
+
+  asthma
+
+  cigar
+
+  matter'
+bip_39_word_new_line7: 'pudding
+
+  absent
+
+  family
+
+  asthma
+
+  cigar
+
+  matter
+
+  discover'
+bip_39_word_new_line8: 'pudding
+
+  absent
+
+  family
+
+  asthma
+
+  cigar
+
+  matter
+
+  discover
+
+  ten'
+bip_39_word_new_line9: 'pudding
+
+  absent
+
+  family
+
+  asthma
+
+  cigar
+
+  matter
+
+  discover
+
+  ten
+
+  tip'
+bip_39_word_space_0:
+- pudding
+- absent
+- family
+- asthma
+- cigar
+- matter
+- discover
+- ten
+- tip
+- favorite
+- injury
+- all
+bip_39_word_space_1: pudding
+bip_39_word_space_10: pudding absent family asthma cigar matter discover ten tip favorite
+bip_39_word_space_11: pudding absent family asthma cigar matter discover ten tip favorite
+  injury
+bip_39_word_space_12: pudding absent family asthma cigar matter discover ten tip favorite
+  injury all
+bip_39_word_space_2: pudding absent
+bip_39_word_space_3: pudding absent family
+bip_39_word_space_4: pudding absent family asthma
+bip_39_word_space_5: pudding absent family asthma cigar
+bip_39_word_space_6: pudding absent family asthma cigar matter
+bip_39_word_space_7: pudding absent family asthma cigar matter discover
+bip_39_word_space_8: pudding absent family asthma cigar matter discover ten
+bip_39_word_space_9: pudding absent family asthma cigar matter discover ten tip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

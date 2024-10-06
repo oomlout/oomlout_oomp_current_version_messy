@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nature priority
+  * bip 39 word 3: nature priority multiply
+  * bip 39 word: nature priority multiply wide creek acoustic dream frame cable valley year acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nature |  
+| bip_39_word_new_br10 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic<br>dream<br>frame<br>cable<br>valley |  
+| bip_39_word_new_br11 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic<br>dream<br>frame<br>cable<br>valley<br>year |  
+| bip_39_word_new_br12 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic<br>dream<br>frame<br>cable<br>valley<br>year<br>acoustic |  
+| bip_39_word_new_br2 | nature<br>priority |  
+| bip_39_word_new_br3 | nature<br>priority<br>multiply |  
+| bip_39_word_new_br4 | nature<br>priority<br>multiply<br>wide |  
+| bip_39_word_new_br5 | nature<br>priority<br>multiply<br>wide<br>creek |  
+| bip_39_word_new_br6 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic |  
+| bip_39_word_new_br7 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic<br>dream |  
+| bip_39_word_new_br8 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic<br>dream<br>frame |  
+| bip_39_word_new_br9 | nature<br>priority<br>multiply<br>wide<br>creek<br>acoustic<br>dream<br>frame<br>cable |  
+| bip_39_word_new_line1 | nature |  
+| bip_39_word_new_line10 | nature
+priority
+multiply
+wide
+creek
+acoustic
+dream
+frame
+cable
+valley |  
+| bip_39_word_new_line11 | nature
+priority
+multiply
+wide
+creek
+acoustic
+dream
+frame
+cable
+valley
+year |  
+| bip_39_word_new_line12 | nature
+priority
+multiply
+wide
+creek
+acoustic
+dream
+frame
+cable
+valley
+year
+acoustic |  
+| bip_39_word_new_line2 | nature
+priority |  
+| bip_39_word_new_line3 | nature
+priority
+multiply |  
+| bip_39_word_new_line4 | nature
+priority
+multiply
+wide |  
+| bip_39_word_new_line5 | nature
+priority
+multiply
+wide
+creek |  
+| bip_39_word_new_line6 | nature
+priority
+multiply
+wide
+creek
+acoustic |  
+| bip_39_word_new_line7 | nature
+priority
+multiply
+wide
+creek
+acoustic
+dream |  
+| bip_39_word_new_line8 | nature
+priority
+multiply
+wide
+creek
+acoustic
+dream
+frame |  
+| bip_39_word_new_line9 | nature
+priority
+multiply
+wide
+creek
+acoustic
+dream
+frame
+cable |  
+| bip_39_word_space_0 | ['nature', 'priority', 'multiply', 'wide', 'creek', 'acoustic', 'dream', 'frame', 'cable', 'valley', 'year', 'acoustic'] |  
+| bip_39_word_space_1 | nature |  
+| bip_39_word_space_10 | nature priority multiply wide creek acoustic dream frame cable valley |  
+| bip_39_word_space_11 | nature priority multiply wide creek acoustic dream frame cable valley year |  
+| bip_39_word_space_12 | nature priority multiply wide creek acoustic dream frame cable valley year acoustic |  
+| bip_39_word_space_2 | nature priority |  
+| bip_39_word_space_3 | nature priority multiply |  
+| bip_39_word_space_4 | nature priority multiply wide |  
+| bip_39_word_space_5 | nature priority multiply wide creek |  
+| bip_39_word_space_6 | nature priority multiply wide creek acoustic |  
+| bip_39_word_space_7 | nature priority multiply wide creek acoustic dream |  
+| bip_39_word_space_8 | nature priority multiply wide creek acoustic dream frame |  
+| bip_39_word_space_9 | nature priority multiply wide creek acoustic dream frame cable |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

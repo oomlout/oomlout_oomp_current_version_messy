@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: loud leave
+  * bip 39 word 3: loud leave alcohol
+  * bip 39 word: loud leave alcohol ahead live taxi floor brief fee kangaroo leopard assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | loud |  
+| bip_39_word_new_br10 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi<br>floor<br>brief<br>fee<br>kangaroo |  
+| bip_39_word_new_br11 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi<br>floor<br>brief<br>fee<br>kangaroo<br>leopard |  
+| bip_39_word_new_br12 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi<br>floor<br>brief<br>fee<br>kangaroo<br>leopard<br>assume |  
+| bip_39_word_new_br2 | loud<br>leave |  
+| bip_39_word_new_br3 | loud<br>leave<br>alcohol |  
+| bip_39_word_new_br4 | loud<br>leave<br>alcohol<br>ahead |  
+| bip_39_word_new_br5 | loud<br>leave<br>alcohol<br>ahead<br>live |  
+| bip_39_word_new_br6 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi |  
+| bip_39_word_new_br7 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi<br>floor |  
+| bip_39_word_new_br8 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi<br>floor<br>brief |  
+| bip_39_word_new_br9 | loud<br>leave<br>alcohol<br>ahead<br>live<br>taxi<br>floor<br>brief<br>fee |  
+| bip_39_word_new_line1 | loud |  
+| bip_39_word_new_line10 | loud
+leave
+alcohol
+ahead
+live
+taxi
+floor
+brief
+fee
+kangaroo |  
+| bip_39_word_new_line11 | loud
+leave
+alcohol
+ahead
+live
+taxi
+floor
+brief
+fee
+kangaroo
+leopard |  
+| bip_39_word_new_line12 | loud
+leave
+alcohol
+ahead
+live
+taxi
+floor
+brief
+fee
+kangaroo
+leopard
+assume |  
+| bip_39_word_new_line2 | loud
+leave |  
+| bip_39_word_new_line3 | loud
+leave
+alcohol |  
+| bip_39_word_new_line4 | loud
+leave
+alcohol
+ahead |  
+| bip_39_word_new_line5 | loud
+leave
+alcohol
+ahead
+live |  
+| bip_39_word_new_line6 | loud
+leave
+alcohol
+ahead
+live
+taxi |  
+| bip_39_word_new_line7 | loud
+leave
+alcohol
+ahead
+live
+taxi
+floor |  
+| bip_39_word_new_line8 | loud
+leave
+alcohol
+ahead
+live
+taxi
+floor
+brief |  
+| bip_39_word_new_line9 | loud
+leave
+alcohol
+ahead
+live
+taxi
+floor
+brief
+fee |  
+| bip_39_word_space_0 | ['loud', 'leave', 'alcohol', 'ahead', 'live', 'taxi', 'floor', 'brief', 'fee', 'kangaroo', 'leopard', 'assume'] |  
+| bip_39_word_space_1 | loud |  
+| bip_39_word_space_10 | loud leave alcohol ahead live taxi floor brief fee kangaroo |  
+| bip_39_word_space_11 | loud leave alcohol ahead live taxi floor brief fee kangaroo leopard |  
+| bip_39_word_space_12 | loud leave alcohol ahead live taxi floor brief fee kangaroo leopard assume |  
+| bip_39_word_space_2 | loud leave |  
+| bip_39_word_space_3 | loud leave alcohol |  
+| bip_39_word_space_4 | loud leave alcohol ahead |  
+| bip_39_word_space_5 | loud leave alcohol ahead live |  
+| bip_39_word_space_6 | loud leave alcohol ahead live taxi |  
+| bip_39_word_space_7 | loud leave alcohol ahead live taxi floor |  
+| bip_39_word_space_8 | loud leave alcohol ahead live taxi floor brief |  
+| bip_39_word_space_9 | loud leave alcohol ahead live taxi floor brief fee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

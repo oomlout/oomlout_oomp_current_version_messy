@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mouse
+bip_39_word_new_br10: mouse<br>category<br>empower<br>material<br>near<br>silly<br>super<br>start<br>fuel<br>solution
+bip_39_word_new_br11: mouse<br>category<br>empower<br>material<br>near<br>silly<br>super<br>start<br>fuel<br>solution<br>hold
+bip_39_word_new_br12: mouse<br>category<br>empower<br>material<br>near<br>silly<br>super<br>start<br>fuel<br>solution<br>hold<br>aisle
+bip_39_word_new_br2: mouse<br>category
+bip_39_word_new_br3: mouse<br>category<br>empower
+bip_39_word_new_br4: mouse<br>category<br>empower<br>material
+bip_39_word_new_br5: mouse<br>category<br>empower<br>material<br>near
+bip_39_word_new_br6: mouse<br>category<br>empower<br>material<br>near<br>silly
+bip_39_word_new_br7: mouse<br>category<br>empower<br>material<br>near<br>silly<br>super
+bip_39_word_new_br8: mouse<br>category<br>empower<br>material<br>near<br>silly<br>super<br>start
+bip_39_word_new_br9: mouse<br>category<br>empower<br>material<br>near<br>silly<br>super<br>start<br>fuel
+bip_39_word_new_line1: mouse
+bip_39_word_new_line10: 'mouse
+
+  category
+
+  empower
+
+  material
+
+  near
+
+  silly
+
+  super
+
+  start
+
+  fuel
+
+  solution'
+bip_39_word_new_line11: 'mouse
+
+  category
+
+  empower
+
+  material
+
+  near
+
+  silly
+
+  super
+
+  start
+
+  fuel
+
+  solution
+
+  hold'
+bip_39_word_new_line12: 'mouse
+
+  category
+
+  empower
+
+  material
+
+  near
+
+  silly
+
+  super
+
+  start
+
+  fuel
+
+  solution
+
+  hold
+
+  aisle'
+bip_39_word_new_line2: 'mouse
+
+  category'
+bip_39_word_new_line3: 'mouse
+
+  category
+
+  empower'
+bip_39_word_new_line4: 'mouse
+
+  category
+
+  empower
+
+  material'
+bip_39_word_new_line5: 'mouse
+
+  category
+
+  empower
+
+  material
+
+  near'
+bip_39_word_new_line6: 'mouse
+
+  category
+
+  empower
+
+  material
+
+  near
+
+  silly'
+bip_39_word_new_line7: 'mouse
+
+  category
+
+  empower
+
+  material
+
+  near
+
+  silly
+
+  super'
+bip_39_word_new_line8: 'mouse
+
+  category
+
+  empower
+
+  material
+
+  near
+
+  silly
+
+  super
+
+  start'
+bip_39_word_new_line9: 'mouse
+
+  category
+
+  empower
+
+  material
+
+  near
+
+  silly
+
+  super
+
+  start
+
+  fuel'
+bip_39_word_space_0:
+- mouse
+- category
+- empower
+- material
+- near
+- silly
+- super
+- start
+- fuel
+- solution
+- hold
+- aisle
+bip_39_word_space_1: mouse
+bip_39_word_space_10: mouse category empower material near silly super start fuel
+  solution
+bip_39_word_space_11: mouse category empower material near silly super start fuel
+  solution hold
+bip_39_word_space_12: mouse category empower material near silly super start fuel
+  solution hold aisle
+bip_39_word_space_2: mouse category
+bip_39_word_space_3: mouse category empower
+bip_39_word_space_4: mouse category empower material
+bip_39_word_space_5: mouse category empower material near
+bip_39_word_space_6: mouse category empower material near silly
+bip_39_word_space_7: mouse category empower material near silly super
+bip_39_word_space_8: mouse category empower material near silly super start
+bip_39_word_space_9: mouse category empower material near silly super start fuel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: reward
+bip_39_word_new_br10: reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato
+bip_39_word_new_br11: reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato<br>win
+bip_39_word_new_br12: reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless<br>potato<br>win<br>autumn
+bip_39_word_new_br2: reward<br>share
+bip_39_word_new_br3: reward<br>share<br>stairs
+bip_39_word_new_br4: reward<br>share<br>stairs<br>hungry
+bip_39_word_new_br5: reward<br>share<br>stairs<br>hungry<br>cry
+bip_39_word_new_br6: reward<br>share<br>stairs<br>hungry<br>cry<br>olympic
+bip_39_word_new_br7: reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch
+bip_39_word_new_br8: reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday
+bip_39_word_new_br9: reward<br>share<br>stairs<br>hungry<br>cry<br>olympic<br>fetch<br>holiday<br>endless
+bip_39_word_new_line1: reward
+bip_39_word_new_line10: 'reward
+
+  share
+
+  stairs
+
+  hungry
+
+  cry
+
+  olympic
+
+  fetch
+
+  holiday
+
+  endless
+
+  potato'
+bip_39_word_new_line11: 'reward
+
+  share
+
+  stairs
+
+  hungry
+
+  cry
+
+  olympic
+
+  fetch
+
+  holiday
+
+  endless
+
+  potato
+
+  win'
+bip_39_word_new_line12: 'reward
+
+  share
+
+  stairs
+
+  hungry
+
+  cry
+
+  olympic
+
+  fetch
+
+  holiday
+
+  endless
+
+  potato
+
+  win
+
+  autumn'
+bip_39_word_new_line2: 'reward
+
+  share'
+bip_39_word_new_line3: 'reward
+
+  share
+
+  stairs'
+bip_39_word_new_line4: 'reward
+
+  share
+
+  stairs
+
+  hungry'
+bip_39_word_new_line5: 'reward
+
+  share
+
+  stairs
+
+  hungry
+
+  cry'
+bip_39_word_new_line6: 'reward
+
+  share
+
+  stairs
+
+  hungry
+
+  cry
+
+  olympic'
+bip_39_word_new_line7: 'reward
+
+  share
+
+  stairs
+
+  hungry
+
+  cry
+
+  olympic
+
+  fetch'
+bip_39_word_new_line8: 'reward
+
+  share
+
+  stairs
+
+  hungry
+
+  cry
+
+  olympic
+
+  fetch
+
+  holiday'
+bip_39_word_new_line9: 'reward
+
+  share
+
+  stairs
+
+  hungry
+
+  cry
+
+  olympic
+
+  fetch
+
+  holiday
+
+  endless'
+bip_39_word_space_0:
+- reward
+- share
+- stairs
+- hungry
+- cry
+- olympic
+- fetch
+- holiday
+- endless
+- potato
+- win
+- autumn
+bip_39_word_space_1: reward
+bip_39_word_space_10: reward share stairs hungry cry olympic fetch holiday endless
+  potato
+bip_39_word_space_11: reward share stairs hungry cry olympic fetch holiday endless
+  potato win
+bip_39_word_space_12: reward share stairs hungry cry olympic fetch holiday endless
+  potato win autumn
+bip_39_word_space_2: reward share
+bip_39_word_space_3: reward share stairs
+bip_39_word_space_4: reward share stairs hungry
+bip_39_word_space_5: reward share stairs hungry cry
+bip_39_word_space_6: reward share stairs hungry cry olympic
+bip_39_word_space_7: reward share stairs hungry cry olympic fetch
+bip_39_word_space_8: reward share stairs hungry cry olympic fetch holiday
+bip_39_word_space_9: reward share stairs hungry cry olympic fetch holiday endless
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

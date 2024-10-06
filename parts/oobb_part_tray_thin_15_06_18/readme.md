@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: repeat news
+  * bip 39 word 3: repeat news habit
+  * bip 39 word: repeat news habit awkward digital cook clock rifle subject duck kitchen always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | repeat |  
+| bip_39_word_new_br10 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck |  
+| bip_39_word_new_br11 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck<br>kitchen |  
+| bip_39_word_new_br12 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject<br>duck<br>kitchen<br>always |  
+| bip_39_word_new_br2 | repeat<br>news |  
+| bip_39_word_new_br3 | repeat<br>news<br>habit |  
+| bip_39_word_new_br4 | repeat<br>news<br>habit<br>awkward |  
+| bip_39_word_new_br5 | repeat<br>news<br>habit<br>awkward<br>digital |  
+| bip_39_word_new_br6 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook |  
+| bip_39_word_new_br7 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock |  
+| bip_39_word_new_br8 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle |  
+| bip_39_word_new_br9 | repeat<br>news<br>habit<br>awkward<br>digital<br>cook<br>clock<br>rifle<br>subject |  
+| bip_39_word_new_line1 | repeat |  
+| bip_39_word_new_line10 | repeat
+news
+habit
+awkward
+digital
+cook
+clock
+rifle
+subject
+duck |  
+| bip_39_word_new_line11 | repeat
+news
+habit
+awkward
+digital
+cook
+clock
+rifle
+subject
+duck
+kitchen |  
+| bip_39_word_new_line12 | repeat
+news
+habit
+awkward
+digital
+cook
+clock
+rifle
+subject
+duck
+kitchen
+always |  
+| bip_39_word_new_line2 | repeat
+news |  
+| bip_39_word_new_line3 | repeat
+news
+habit |  
+| bip_39_word_new_line4 | repeat
+news
+habit
+awkward |  
+| bip_39_word_new_line5 | repeat
+news
+habit
+awkward
+digital |  
+| bip_39_word_new_line6 | repeat
+news
+habit
+awkward
+digital
+cook |  
+| bip_39_word_new_line7 | repeat
+news
+habit
+awkward
+digital
+cook
+clock |  
+| bip_39_word_new_line8 | repeat
+news
+habit
+awkward
+digital
+cook
+clock
+rifle |  
+| bip_39_word_new_line9 | repeat
+news
+habit
+awkward
+digital
+cook
+clock
+rifle
+subject |  
+| bip_39_word_space_0 | ['repeat', 'news', 'habit', 'awkward', 'digital', 'cook', 'clock', 'rifle', 'subject', 'duck', 'kitchen', 'always'] |  
+| bip_39_word_space_1 | repeat |  
+| bip_39_word_space_10 | repeat news habit awkward digital cook clock rifle subject duck |  
+| bip_39_word_space_11 | repeat news habit awkward digital cook clock rifle subject duck kitchen |  
+| bip_39_word_space_12 | repeat news habit awkward digital cook clock rifle subject duck kitchen always |  
+| bip_39_word_space_2 | repeat news |  
+| bip_39_word_space_3 | repeat news habit |  
+| bip_39_word_space_4 | repeat news habit awkward |  
+| bip_39_word_space_5 | repeat news habit awkward digital |  
+| bip_39_word_space_6 | repeat news habit awkward digital cook |  
+| bip_39_word_space_7 | repeat news habit awkward digital cook clock |  
+| bip_39_word_space_8 | repeat news habit awkward digital cook clock rifle |  
+| bip_39_word_space_9 | repeat news habit awkward digital cook clock rifle subject |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

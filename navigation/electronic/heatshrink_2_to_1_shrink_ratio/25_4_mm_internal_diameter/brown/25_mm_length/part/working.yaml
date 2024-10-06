@@ -1,3 +1,186 @@
+bip_39_word_new_br1: orient
+bip_39_word_new_br10: orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit
+bip_39_word_new_br11: orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit<br>claw
+bip_39_word_new_br12: orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random<br>submit<br>claw<br>allow
+bip_39_word_new_br2: orient<br>clap
+bip_39_word_new_br3: orient<br>clap<br>extend
+bip_39_word_new_br4: orient<br>clap<br>extend<br>empower
+bip_39_word_new_br5: orient<br>clap<br>extend<br>empower<br>earn
+bip_39_word_new_br6: orient<br>clap<br>extend<br>empower<br>earn<br>fat
+bip_39_word_new_br7: orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle
+bip_39_word_new_br8: orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna
+bip_39_word_new_br9: orient<br>clap<br>extend<br>empower<br>earn<br>fat<br>ankle<br>antenna<br>random
+bip_39_word_new_line1: orient
+bip_39_word_new_line10: 'orient
+
+  clap
+
+  extend
+
+  empower
+
+  earn
+
+  fat
+
+  ankle
+
+  antenna
+
+  random
+
+  submit'
+bip_39_word_new_line11: 'orient
+
+  clap
+
+  extend
+
+  empower
+
+  earn
+
+  fat
+
+  ankle
+
+  antenna
+
+  random
+
+  submit
+
+  claw'
+bip_39_word_new_line12: 'orient
+
+  clap
+
+  extend
+
+  empower
+
+  earn
+
+  fat
+
+  ankle
+
+  antenna
+
+  random
+
+  submit
+
+  claw
+
+  allow'
+bip_39_word_new_line2: 'orient
+
+  clap'
+bip_39_word_new_line3: 'orient
+
+  clap
+
+  extend'
+bip_39_word_new_line4: 'orient
+
+  clap
+
+  extend
+
+  empower'
+bip_39_word_new_line5: 'orient
+
+  clap
+
+  extend
+
+  empower
+
+  earn'
+bip_39_word_new_line6: 'orient
+
+  clap
+
+  extend
+
+  empower
+
+  earn
+
+  fat'
+bip_39_word_new_line7: 'orient
+
+  clap
+
+  extend
+
+  empower
+
+  earn
+
+  fat
+
+  ankle'
+bip_39_word_new_line8: 'orient
+
+  clap
+
+  extend
+
+  empower
+
+  earn
+
+  fat
+
+  ankle
+
+  antenna'
+bip_39_word_new_line9: 'orient
+
+  clap
+
+  extend
+
+  empower
+
+  earn
+
+  fat
+
+  ankle
+
+  antenna
+
+  random'
+bip_39_word_space_0:
+- orient
+- clap
+- extend
+- empower
+- earn
+- fat
+- ankle
+- antenna
+- random
+- submit
+- claw
+- allow
+bip_39_word_space_1: orient
+bip_39_word_space_10: orient clap extend empower earn fat ankle antenna random submit
+bip_39_word_space_11: orient clap extend empower earn fat ankle antenna random submit
+  claw
+bip_39_word_space_12: orient clap extend empower earn fat ankle antenna random submit
+  claw allow
+bip_39_word_space_2: orient clap
+bip_39_word_space_3: orient clap extend
+bip_39_word_space_4: orient clap extend empower
+bip_39_word_space_5: orient clap extend empower earn
+bip_39_word_space_6: orient clap extend empower earn fat
+bip_39_word_space_7: orient clap extend empower earn fat ankle
+bip_39_word_space_8: orient clap extend empower earn fat ankle antenna
+bip_39_word_space_9: orient clap extend empower earn fat ankle antenna random
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

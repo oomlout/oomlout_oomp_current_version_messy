@@ -1,3 +1,187 @@
+bip_39_word_new_br1: jeans
+bip_39_word_new_br10: jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact<br>similar<br>project<br>note<br>scan
+bip_39_word_new_br11: jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact<br>similar<br>project<br>note<br>scan<br>flash
+bip_39_word_new_br12: jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact<br>similar<br>project<br>note<br>scan<br>flash<br>advice
+bip_39_word_new_br2: jeans<br>joke
+bip_39_word_new_br3: jeans<br>joke<br>material
+bip_39_word_new_br4: jeans<br>joke<br>material<br>crucial
+bip_39_word_new_br5: jeans<br>joke<br>material<br>crucial<br>sponsor
+bip_39_word_new_br6: jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact
+bip_39_word_new_br7: jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact<br>similar
+bip_39_word_new_br8: jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact<br>similar<br>project
+bip_39_word_new_br9: jeans<br>joke<br>material<br>crucial<br>sponsor<br>pact<br>similar<br>project<br>note
+bip_39_word_new_line1: jeans
+bip_39_word_new_line10: 'jeans
+
+  joke
+
+  material
+
+  crucial
+
+  sponsor
+
+  pact
+
+  similar
+
+  project
+
+  note
+
+  scan'
+bip_39_word_new_line11: 'jeans
+
+  joke
+
+  material
+
+  crucial
+
+  sponsor
+
+  pact
+
+  similar
+
+  project
+
+  note
+
+  scan
+
+  flash'
+bip_39_word_new_line12: 'jeans
+
+  joke
+
+  material
+
+  crucial
+
+  sponsor
+
+  pact
+
+  similar
+
+  project
+
+  note
+
+  scan
+
+  flash
+
+  advice'
+bip_39_word_new_line2: 'jeans
+
+  joke'
+bip_39_word_new_line3: 'jeans
+
+  joke
+
+  material'
+bip_39_word_new_line4: 'jeans
+
+  joke
+
+  material
+
+  crucial'
+bip_39_word_new_line5: 'jeans
+
+  joke
+
+  material
+
+  crucial
+
+  sponsor'
+bip_39_word_new_line6: 'jeans
+
+  joke
+
+  material
+
+  crucial
+
+  sponsor
+
+  pact'
+bip_39_word_new_line7: 'jeans
+
+  joke
+
+  material
+
+  crucial
+
+  sponsor
+
+  pact
+
+  similar'
+bip_39_word_new_line8: 'jeans
+
+  joke
+
+  material
+
+  crucial
+
+  sponsor
+
+  pact
+
+  similar
+
+  project'
+bip_39_word_new_line9: 'jeans
+
+  joke
+
+  material
+
+  crucial
+
+  sponsor
+
+  pact
+
+  similar
+
+  project
+
+  note'
+bip_39_word_space_0:
+- jeans
+- joke
+- material
+- crucial
+- sponsor
+- pact
+- similar
+- project
+- note
+- scan
+- flash
+- advice
+bip_39_word_space_1: jeans
+bip_39_word_space_10: jeans joke material crucial sponsor pact similar project note
+  scan
+bip_39_word_space_11: jeans joke material crucial sponsor pact similar project note
+  scan flash
+bip_39_word_space_12: jeans joke material crucial sponsor pact similar project note
+  scan flash advice
+bip_39_word_space_2: jeans joke
+bip_39_word_space_3: jeans joke material
+bip_39_word_space_4: jeans joke material crucial
+bip_39_word_space_5: jeans joke material crucial sponsor
+bip_39_word_space_6: jeans joke material crucial sponsor pact
+bip_39_word_space_7: jeans joke material crucial sponsor pact similar
+bip_39_word_space_8: jeans joke material crucial sponsor pact similar project
+bip_39_word_space_9: jeans joke material crucial sponsor pact similar project note
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

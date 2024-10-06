@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mind insane
+  * bip 39 word 3: mind insane scene
+  * bip 39 word: mind insane scene captain chicken unable now aspect voice planet hat act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mind |  
+| bip_39_word_new_br10 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet |  
+| bip_39_word_new_br11 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet<br>hat |  
+| bip_39_word_new_br12 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice<br>planet<br>hat<br>act |  
+| bip_39_word_new_br2 | mind<br>insane |  
+| bip_39_word_new_br3 | mind<br>insane<br>scene |  
+| bip_39_word_new_br4 | mind<br>insane<br>scene<br>captain |  
+| bip_39_word_new_br5 | mind<br>insane<br>scene<br>captain<br>chicken |  
+| bip_39_word_new_br6 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable |  
+| bip_39_word_new_br7 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now |  
+| bip_39_word_new_br8 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect |  
+| bip_39_word_new_br9 | mind<br>insane<br>scene<br>captain<br>chicken<br>unable<br>now<br>aspect<br>voice |  
+| bip_39_word_new_line1 | mind |  
+| bip_39_word_new_line10 | mind
+insane
+scene
+captain
+chicken
+unable
+now
+aspect
+voice
+planet |  
+| bip_39_word_new_line11 | mind
+insane
+scene
+captain
+chicken
+unable
+now
+aspect
+voice
+planet
+hat |  
+| bip_39_word_new_line12 | mind
+insane
+scene
+captain
+chicken
+unable
+now
+aspect
+voice
+planet
+hat
+act |  
+| bip_39_word_new_line2 | mind
+insane |  
+| bip_39_word_new_line3 | mind
+insane
+scene |  
+| bip_39_word_new_line4 | mind
+insane
+scene
+captain |  
+| bip_39_word_new_line5 | mind
+insane
+scene
+captain
+chicken |  
+| bip_39_word_new_line6 | mind
+insane
+scene
+captain
+chicken
+unable |  
+| bip_39_word_new_line7 | mind
+insane
+scene
+captain
+chicken
+unable
+now |  
+| bip_39_word_new_line8 | mind
+insane
+scene
+captain
+chicken
+unable
+now
+aspect |  
+| bip_39_word_new_line9 | mind
+insane
+scene
+captain
+chicken
+unable
+now
+aspect
+voice |  
+| bip_39_word_space_0 | ['mind', 'insane', 'scene', 'captain', 'chicken', 'unable', 'now', 'aspect', 'voice', 'planet', 'hat', 'act'] |  
+| bip_39_word_space_1 | mind |  
+| bip_39_word_space_10 | mind insane scene captain chicken unable now aspect voice planet |  
+| bip_39_word_space_11 | mind insane scene captain chicken unable now aspect voice planet hat |  
+| bip_39_word_space_12 | mind insane scene captain chicken unable now aspect voice planet hat act |  
+| bip_39_word_space_2 | mind insane |  
+| bip_39_word_space_3 | mind insane scene |  
+| bip_39_word_space_4 | mind insane scene captain |  
+| bip_39_word_space_5 | mind insane scene captain chicken |  
+| bip_39_word_space_6 | mind insane scene captain chicken unable |  
+| bip_39_word_space_7 | mind insane scene captain chicken unable now |  
+| bip_39_word_space_8 | mind insane scene captain chicken unable now aspect |  
+| bip_39_word_space_9 | mind insane scene captain chicken unable now aspect voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

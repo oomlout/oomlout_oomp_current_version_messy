@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cluster surprise
+  * bip 39 word 3: cluster surprise balance
+  * bip 39 word: cluster surprise balance consider census share mountain plastic bottom strong fabric arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cluster |  
+| bip_39_word_new_br10 | cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain<br>plastic<br>bottom<br>strong |  
+| bip_39_word_new_br11 | cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain<br>plastic<br>bottom<br>strong<br>fabric |  
+| bip_39_word_new_br12 | cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain<br>plastic<br>bottom<br>strong<br>fabric<br>arrive |  
+| bip_39_word_new_br2 | cluster<br>surprise |  
+| bip_39_word_new_br3 | cluster<br>surprise<br>balance |  
+| bip_39_word_new_br4 | cluster<br>surprise<br>balance<br>consider |  
+| bip_39_word_new_br5 | cluster<br>surprise<br>balance<br>consider<br>census |  
+| bip_39_word_new_br6 | cluster<br>surprise<br>balance<br>consider<br>census<br>share |  
+| bip_39_word_new_br7 | cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain |  
+| bip_39_word_new_br8 | cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain<br>plastic |  
+| bip_39_word_new_br9 | cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain<br>plastic<br>bottom |  
+| bip_39_word_new_line1 | cluster |  
+| bip_39_word_new_line10 | cluster
+surprise
+balance
+consider
+census
+share
+mountain
+plastic
+bottom
+strong |  
+| bip_39_word_new_line11 | cluster
+surprise
+balance
+consider
+census
+share
+mountain
+plastic
+bottom
+strong
+fabric |  
+| bip_39_word_new_line12 | cluster
+surprise
+balance
+consider
+census
+share
+mountain
+plastic
+bottom
+strong
+fabric
+arrive |  
+| bip_39_word_new_line2 | cluster
+surprise |  
+| bip_39_word_new_line3 | cluster
+surprise
+balance |  
+| bip_39_word_new_line4 | cluster
+surprise
+balance
+consider |  
+| bip_39_word_new_line5 | cluster
+surprise
+balance
+consider
+census |  
+| bip_39_word_new_line6 | cluster
+surprise
+balance
+consider
+census
+share |  
+| bip_39_word_new_line7 | cluster
+surprise
+balance
+consider
+census
+share
+mountain |  
+| bip_39_word_new_line8 | cluster
+surprise
+balance
+consider
+census
+share
+mountain
+plastic |  
+| bip_39_word_new_line9 | cluster
+surprise
+balance
+consider
+census
+share
+mountain
+plastic
+bottom |  
+| bip_39_word_space_0 | ['cluster', 'surprise', 'balance', 'consider', 'census', 'share', 'mountain', 'plastic', 'bottom', 'strong', 'fabric', 'arrive'] |  
+| bip_39_word_space_1 | cluster |  
+| bip_39_word_space_10 | cluster surprise balance consider census share mountain plastic bottom strong |  
+| bip_39_word_space_11 | cluster surprise balance consider census share mountain plastic bottom strong fabric |  
+| bip_39_word_space_12 | cluster surprise balance consider census share mountain plastic bottom strong fabric arrive |  
+| bip_39_word_space_2 | cluster surprise |  
+| bip_39_word_space_3 | cluster surprise balance |  
+| bip_39_word_space_4 | cluster surprise balance consider |  
+| bip_39_word_space_5 | cluster surprise balance consider census |  
+| bip_39_word_space_6 | cluster surprise balance consider census share |  
+| bip_39_word_space_7 | cluster surprise balance consider census share mountain |  
+| bip_39_word_space_8 | cluster surprise balance consider census share mountain plastic |  
+| bip_39_word_space_9 | cluster surprise balance consider census share mountain plastic bottom |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

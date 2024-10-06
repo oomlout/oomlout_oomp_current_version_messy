@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: critic oppose
+  * bip 39 word 3: critic oppose zoo
+  * bip 39 word: critic oppose zoo situate reform cost kit card beef absent priority armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | critic |  
+| bip_39_word_new_br10 | critic<br>oppose<br>zoo<br>situate<br>reform<br>cost<br>kit<br>card<br>beef<br>absent |  
+| bip_39_word_new_br11 | critic<br>oppose<br>zoo<br>situate<br>reform<br>cost<br>kit<br>card<br>beef<br>absent<br>priority |  
+| bip_39_word_new_br12 | critic<br>oppose<br>zoo<br>situate<br>reform<br>cost<br>kit<br>card<br>beef<br>absent<br>priority<br>armed |  
+| bip_39_word_new_br2 | critic<br>oppose |  
+| bip_39_word_new_br3 | critic<br>oppose<br>zoo |  
+| bip_39_word_new_br4 | critic<br>oppose<br>zoo<br>situate |  
+| bip_39_word_new_br5 | critic<br>oppose<br>zoo<br>situate<br>reform |  
+| bip_39_word_new_br6 | critic<br>oppose<br>zoo<br>situate<br>reform<br>cost |  
+| bip_39_word_new_br7 | critic<br>oppose<br>zoo<br>situate<br>reform<br>cost<br>kit |  
+| bip_39_word_new_br8 | critic<br>oppose<br>zoo<br>situate<br>reform<br>cost<br>kit<br>card |  
+| bip_39_word_new_br9 | critic<br>oppose<br>zoo<br>situate<br>reform<br>cost<br>kit<br>card<br>beef |  
+| bip_39_word_new_line1 | critic |  
+| bip_39_word_new_line10 | critic
+oppose
+zoo
+situate
+reform
+cost
+kit
+card
+beef
+absent |  
+| bip_39_word_new_line11 | critic
+oppose
+zoo
+situate
+reform
+cost
+kit
+card
+beef
+absent
+priority |  
+| bip_39_word_new_line12 | critic
+oppose
+zoo
+situate
+reform
+cost
+kit
+card
+beef
+absent
+priority
+armed |  
+| bip_39_word_new_line2 | critic
+oppose |  
+| bip_39_word_new_line3 | critic
+oppose
+zoo |  
+| bip_39_word_new_line4 | critic
+oppose
+zoo
+situate |  
+| bip_39_word_new_line5 | critic
+oppose
+zoo
+situate
+reform |  
+| bip_39_word_new_line6 | critic
+oppose
+zoo
+situate
+reform
+cost |  
+| bip_39_word_new_line7 | critic
+oppose
+zoo
+situate
+reform
+cost
+kit |  
+| bip_39_word_new_line8 | critic
+oppose
+zoo
+situate
+reform
+cost
+kit
+card |  
+| bip_39_word_new_line9 | critic
+oppose
+zoo
+situate
+reform
+cost
+kit
+card
+beef |  
+| bip_39_word_space_0 | ['critic', 'oppose', 'zoo', 'situate', 'reform', 'cost', 'kit', 'card', 'beef', 'absent', 'priority', 'armed'] |  
+| bip_39_word_space_1 | critic |  
+| bip_39_word_space_10 | critic oppose zoo situate reform cost kit card beef absent |  
+| bip_39_word_space_11 | critic oppose zoo situate reform cost kit card beef absent priority |  
+| bip_39_word_space_12 | critic oppose zoo situate reform cost kit card beef absent priority armed |  
+| bip_39_word_space_2 | critic oppose |  
+| bip_39_word_space_3 | critic oppose zoo |  
+| bip_39_word_space_4 | critic oppose zoo situate |  
+| bip_39_word_space_5 | critic oppose zoo situate reform |  
+| bip_39_word_space_6 | critic oppose zoo situate reform cost |  
+| bip_39_word_space_7 | critic oppose zoo situate reform cost kit |  
+| bip_39_word_space_8 | critic oppose zoo situate reform cost kit card |  
+| bip_39_word_space_9 | critic oppose zoo situate reform cost kit card beef |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

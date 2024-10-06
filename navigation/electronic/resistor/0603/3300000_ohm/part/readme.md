@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: doll nephew
+  * bip 39 word 3: doll nephew juice
+  * bip 39 word: doll nephew juice rebuild thank search leader load anger very culture agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | doll |  
+| bip_39_word_new_br10 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very |  
+| bip_39_word_new_br11 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very<br>culture |  
+| bip_39_word_new_br12 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger<br>very<br>culture<br>agent |  
+| bip_39_word_new_br2 | doll<br>nephew |  
+| bip_39_word_new_br3 | doll<br>nephew<br>juice |  
+| bip_39_word_new_br4 | doll<br>nephew<br>juice<br>rebuild |  
+| bip_39_word_new_br5 | doll<br>nephew<br>juice<br>rebuild<br>thank |  
+| bip_39_word_new_br6 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search |  
+| bip_39_word_new_br7 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader |  
+| bip_39_word_new_br8 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load |  
+| bip_39_word_new_br9 | doll<br>nephew<br>juice<br>rebuild<br>thank<br>search<br>leader<br>load<br>anger |  
+| bip_39_word_new_line1 | doll |  
+| bip_39_word_new_line10 | doll
+nephew
+juice
+rebuild
+thank
+search
+leader
+load
+anger
+very |  
+| bip_39_word_new_line11 | doll
+nephew
+juice
+rebuild
+thank
+search
+leader
+load
+anger
+very
+culture |  
+| bip_39_word_new_line12 | doll
+nephew
+juice
+rebuild
+thank
+search
+leader
+load
+anger
+very
+culture
+agent |  
+| bip_39_word_new_line2 | doll
+nephew |  
+| bip_39_word_new_line3 | doll
+nephew
+juice |  
+| bip_39_word_new_line4 | doll
+nephew
+juice
+rebuild |  
+| bip_39_word_new_line5 | doll
+nephew
+juice
+rebuild
+thank |  
+| bip_39_word_new_line6 | doll
+nephew
+juice
+rebuild
+thank
+search |  
+| bip_39_word_new_line7 | doll
+nephew
+juice
+rebuild
+thank
+search
+leader |  
+| bip_39_word_new_line8 | doll
+nephew
+juice
+rebuild
+thank
+search
+leader
+load |  
+| bip_39_word_new_line9 | doll
+nephew
+juice
+rebuild
+thank
+search
+leader
+load
+anger |  
+| bip_39_word_space_0 | ['doll', 'nephew', 'juice', 'rebuild', 'thank', 'search', 'leader', 'load', 'anger', 'very', 'culture', 'agent'] |  
+| bip_39_word_space_1 | doll |  
+| bip_39_word_space_10 | doll nephew juice rebuild thank search leader load anger very |  
+| bip_39_word_space_11 | doll nephew juice rebuild thank search leader load anger very culture |  
+| bip_39_word_space_12 | doll nephew juice rebuild thank search leader load anger very culture agent |  
+| bip_39_word_space_2 | doll nephew |  
+| bip_39_word_space_3 | doll nephew juice |  
+| bip_39_word_space_4 | doll nephew juice rebuild |  
+| bip_39_word_space_5 | doll nephew juice rebuild thank |  
+| bip_39_word_space_6 | doll nephew juice rebuild thank search |  
+| bip_39_word_space_7 | doll nephew juice rebuild thank search leader |  
+| bip_39_word_space_8 | doll nephew juice rebuild thank search leader load |  
+| bip_39_word_space_9 | doll nephew juice rebuild thank search leader load anger |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

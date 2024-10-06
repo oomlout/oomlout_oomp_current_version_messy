@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exhibit fatal
+  * bip 39 word 3: exhibit fatal fade
+  * bip 39 word: exhibit fatal fade confirm melody film toss exile fade hat sunset ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exhibit |  
+| bip_39_word_new_br10 | exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film<br>toss<br>exile<br>fade<br>hat |  
+| bip_39_word_new_br11 | exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film<br>toss<br>exile<br>fade<br>hat<br>sunset |  
+| bip_39_word_new_br12 | exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film<br>toss<br>exile<br>fade<br>hat<br>sunset<br>ask |  
+| bip_39_word_new_br2 | exhibit<br>fatal |  
+| bip_39_word_new_br3 | exhibit<br>fatal<br>fade |  
+| bip_39_word_new_br4 | exhibit<br>fatal<br>fade<br>confirm |  
+| bip_39_word_new_br5 | exhibit<br>fatal<br>fade<br>confirm<br>melody |  
+| bip_39_word_new_br6 | exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film |  
+| bip_39_word_new_br7 | exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film<br>toss |  
+| bip_39_word_new_br8 | exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film<br>toss<br>exile |  
+| bip_39_word_new_br9 | exhibit<br>fatal<br>fade<br>confirm<br>melody<br>film<br>toss<br>exile<br>fade |  
+| bip_39_word_new_line1 | exhibit |  
+| bip_39_word_new_line10 | exhibit
+fatal
+fade
+confirm
+melody
+film
+toss
+exile
+fade
+hat |  
+| bip_39_word_new_line11 | exhibit
+fatal
+fade
+confirm
+melody
+film
+toss
+exile
+fade
+hat
+sunset |  
+| bip_39_word_new_line12 | exhibit
+fatal
+fade
+confirm
+melody
+film
+toss
+exile
+fade
+hat
+sunset
+ask |  
+| bip_39_word_new_line2 | exhibit
+fatal |  
+| bip_39_word_new_line3 | exhibit
+fatal
+fade |  
+| bip_39_word_new_line4 | exhibit
+fatal
+fade
+confirm |  
+| bip_39_word_new_line5 | exhibit
+fatal
+fade
+confirm
+melody |  
+| bip_39_word_new_line6 | exhibit
+fatal
+fade
+confirm
+melody
+film |  
+| bip_39_word_new_line7 | exhibit
+fatal
+fade
+confirm
+melody
+film
+toss |  
+| bip_39_word_new_line8 | exhibit
+fatal
+fade
+confirm
+melody
+film
+toss
+exile |  
+| bip_39_word_new_line9 | exhibit
+fatal
+fade
+confirm
+melody
+film
+toss
+exile
+fade |  
+| bip_39_word_space_0 | ['exhibit', 'fatal', 'fade', 'confirm', 'melody', 'film', 'toss', 'exile', 'fade', 'hat', 'sunset', 'ask'] |  
+| bip_39_word_space_1 | exhibit |  
+| bip_39_word_space_10 | exhibit fatal fade confirm melody film toss exile fade hat |  
+| bip_39_word_space_11 | exhibit fatal fade confirm melody film toss exile fade hat sunset |  
+| bip_39_word_space_12 | exhibit fatal fade confirm melody film toss exile fade hat sunset ask |  
+| bip_39_word_space_2 | exhibit fatal |  
+| bip_39_word_space_3 | exhibit fatal fade |  
+| bip_39_word_space_4 | exhibit fatal fade confirm |  
+| bip_39_word_space_5 | exhibit fatal fade confirm melody |  
+| bip_39_word_space_6 | exhibit fatal fade confirm melody film |  
+| bip_39_word_space_7 | exhibit fatal fade confirm melody film toss |  
+| bip_39_word_space_8 | exhibit fatal fade confirm melody film toss exile |  
+| bip_39_word_space_9 | exhibit fatal fade confirm melody film toss exile fade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

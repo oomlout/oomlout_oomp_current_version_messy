@@ -1,3 +1,185 @@
+bip_39_word_new_br1: that
+bip_39_word_new_br10: that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal
+bip_39_word_new_br11: that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal<br>actual
+bip_39_word_new_br12: that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay<br>mammal<br>actual<br>also
+bip_39_word_new_br2: that<br>pave
+bip_39_word_new_br3: that<br>pave<br>diamond
+bip_39_word_new_br4: that<br>pave<br>diamond<br>budget
+bip_39_word_new_br5: that<br>pave<br>diamond<br>budget<br>add
+bip_39_word_new_br6: that<br>pave<br>diamond<br>budget<br>add<br>coach
+bip_39_word_new_br7: that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk
+bip_39_word_new_br8: that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself
+bip_39_word_new_br9: that<br>pave<br>diamond<br>budget<br>add<br>coach<br>silk<br>myself<br>clay
+bip_39_word_new_line1: that
+bip_39_word_new_line10: 'that
+
+  pave
+
+  diamond
+
+  budget
+
+  add
+
+  coach
+
+  silk
+
+  myself
+
+  clay
+
+  mammal'
+bip_39_word_new_line11: 'that
+
+  pave
+
+  diamond
+
+  budget
+
+  add
+
+  coach
+
+  silk
+
+  myself
+
+  clay
+
+  mammal
+
+  actual'
+bip_39_word_new_line12: 'that
+
+  pave
+
+  diamond
+
+  budget
+
+  add
+
+  coach
+
+  silk
+
+  myself
+
+  clay
+
+  mammal
+
+  actual
+
+  also'
+bip_39_word_new_line2: 'that
+
+  pave'
+bip_39_word_new_line3: 'that
+
+  pave
+
+  diamond'
+bip_39_word_new_line4: 'that
+
+  pave
+
+  diamond
+
+  budget'
+bip_39_word_new_line5: 'that
+
+  pave
+
+  diamond
+
+  budget
+
+  add'
+bip_39_word_new_line6: 'that
+
+  pave
+
+  diamond
+
+  budget
+
+  add
+
+  coach'
+bip_39_word_new_line7: 'that
+
+  pave
+
+  diamond
+
+  budget
+
+  add
+
+  coach
+
+  silk'
+bip_39_word_new_line8: 'that
+
+  pave
+
+  diamond
+
+  budget
+
+  add
+
+  coach
+
+  silk
+
+  myself'
+bip_39_word_new_line9: 'that
+
+  pave
+
+  diamond
+
+  budget
+
+  add
+
+  coach
+
+  silk
+
+  myself
+
+  clay'
+bip_39_word_space_0:
+- that
+- pave
+- diamond
+- budget
+- add
+- coach
+- silk
+- myself
+- clay
+- mammal
+- actual
+- also
+bip_39_word_space_1: that
+bip_39_word_space_10: that pave diamond budget add coach silk myself clay mammal
+bip_39_word_space_11: that pave diamond budget add coach silk myself clay mammal actual
+bip_39_word_space_12: that pave diamond budget add coach silk myself clay mammal actual
+  also
+bip_39_word_space_2: that pave
+bip_39_word_space_3: that pave diamond
+bip_39_word_space_4: that pave diamond budget
+bip_39_word_space_5: that pave diamond budget add
+bip_39_word_space_6: that pave diamond budget add coach
+bip_39_word_space_7: that pave diamond budget add coach silk
+bip_39_word_space_8: that pave diamond budget add coach silk myself
+bip_39_word_space_9: that pave diamond budget add coach silk myself clay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

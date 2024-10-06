@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bounce pond
+  * bip 39 word 3: bounce pond strike
+  * bip 39 word: bounce pond strike script glory educate will bring crater grunt inside amount
 
 ### other_codes
 * short_code: br6218
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bounce |  
+| bip_39_word_new_br10 | bounce<br>pond<br>strike<br>script<br>glory<br>educate<br>will<br>bring<br>crater<br>grunt |  
+| bip_39_word_new_br11 | bounce<br>pond<br>strike<br>script<br>glory<br>educate<br>will<br>bring<br>crater<br>grunt<br>inside |  
+| bip_39_word_new_br12 | bounce<br>pond<br>strike<br>script<br>glory<br>educate<br>will<br>bring<br>crater<br>grunt<br>inside<br>amount |  
+| bip_39_word_new_br2 | bounce<br>pond |  
+| bip_39_word_new_br3 | bounce<br>pond<br>strike |  
+| bip_39_word_new_br4 | bounce<br>pond<br>strike<br>script |  
+| bip_39_word_new_br5 | bounce<br>pond<br>strike<br>script<br>glory |  
+| bip_39_word_new_br6 | bounce<br>pond<br>strike<br>script<br>glory<br>educate |  
+| bip_39_word_new_br7 | bounce<br>pond<br>strike<br>script<br>glory<br>educate<br>will |  
+| bip_39_word_new_br8 | bounce<br>pond<br>strike<br>script<br>glory<br>educate<br>will<br>bring |  
+| bip_39_word_new_br9 | bounce<br>pond<br>strike<br>script<br>glory<br>educate<br>will<br>bring<br>crater |  
+| bip_39_word_new_line1 | bounce |  
+| bip_39_word_new_line10 | bounce
+pond
+strike
+script
+glory
+educate
+will
+bring
+crater
+grunt |  
+| bip_39_word_new_line11 | bounce
+pond
+strike
+script
+glory
+educate
+will
+bring
+crater
+grunt
+inside |  
+| bip_39_word_new_line12 | bounce
+pond
+strike
+script
+glory
+educate
+will
+bring
+crater
+grunt
+inside
+amount |  
+| bip_39_word_new_line2 | bounce
+pond |  
+| bip_39_word_new_line3 | bounce
+pond
+strike |  
+| bip_39_word_new_line4 | bounce
+pond
+strike
+script |  
+| bip_39_word_new_line5 | bounce
+pond
+strike
+script
+glory |  
+| bip_39_word_new_line6 | bounce
+pond
+strike
+script
+glory
+educate |  
+| bip_39_word_new_line7 | bounce
+pond
+strike
+script
+glory
+educate
+will |  
+| bip_39_word_new_line8 | bounce
+pond
+strike
+script
+glory
+educate
+will
+bring |  
+| bip_39_word_new_line9 | bounce
+pond
+strike
+script
+glory
+educate
+will
+bring
+crater |  
+| bip_39_word_space_0 | ['bounce', 'pond', 'strike', 'script', 'glory', 'educate', 'will', 'bring', 'crater', 'grunt', 'inside', 'amount'] |  
+| bip_39_word_space_1 | bounce |  
+| bip_39_word_space_10 | bounce pond strike script glory educate will bring crater grunt |  
+| bip_39_word_space_11 | bounce pond strike script glory educate will bring crater grunt inside |  
+| bip_39_word_space_12 | bounce pond strike script glory educate will bring crater grunt inside amount |  
+| bip_39_word_space_2 | bounce pond |  
+| bip_39_word_space_3 | bounce pond strike |  
+| bip_39_word_space_4 | bounce pond strike script |  
+| bip_39_word_space_5 | bounce pond strike script glory |  
+| bip_39_word_space_6 | bounce pond strike script glory educate |  
+| bip_39_word_space_7 | bounce pond strike script glory educate will |  
+| bip_39_word_space_8 | bounce pond strike script glory educate will bring |  
+| bip_39_word_space_9 | bounce pond strike script glory educate will bring crater |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

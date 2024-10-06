@@ -1,3 +1,186 @@
+bip_39_word_new_br1: used
+bip_39_word_new_br10: used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow
+bip_39_word_new_br11: used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow<br>birth
+bip_39_word_new_br12: used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly<br>hollow<br>birth<br>actor
+bip_39_word_new_br2: used<br>soap
+bip_39_word_new_br3: used<br>soap<br>ketchup
+bip_39_word_new_br4: used<br>soap<br>ketchup<br>rare
+bip_39_word_new_br5: used<br>soap<br>ketchup<br>rare<br>total
+bip_39_word_new_br6: used<br>soap<br>ketchup<br>rare<br>total<br>gravity
+bip_39_word_new_br7: used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property
+bip_39_word_new_br8: used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session
+bip_39_word_new_br9: used<br>soap<br>ketchup<br>rare<br>total<br>gravity<br>property<br>session<br>ugly
+bip_39_word_new_line1: used
+bip_39_word_new_line10: 'used
+
+  soap
+
+  ketchup
+
+  rare
+
+  total
+
+  gravity
+
+  property
+
+  session
+
+  ugly
+
+  hollow'
+bip_39_word_new_line11: 'used
+
+  soap
+
+  ketchup
+
+  rare
+
+  total
+
+  gravity
+
+  property
+
+  session
+
+  ugly
+
+  hollow
+
+  birth'
+bip_39_word_new_line12: 'used
+
+  soap
+
+  ketchup
+
+  rare
+
+  total
+
+  gravity
+
+  property
+
+  session
+
+  ugly
+
+  hollow
+
+  birth
+
+  actor'
+bip_39_word_new_line2: 'used
+
+  soap'
+bip_39_word_new_line3: 'used
+
+  soap
+
+  ketchup'
+bip_39_word_new_line4: 'used
+
+  soap
+
+  ketchup
+
+  rare'
+bip_39_word_new_line5: 'used
+
+  soap
+
+  ketchup
+
+  rare
+
+  total'
+bip_39_word_new_line6: 'used
+
+  soap
+
+  ketchup
+
+  rare
+
+  total
+
+  gravity'
+bip_39_word_new_line7: 'used
+
+  soap
+
+  ketchup
+
+  rare
+
+  total
+
+  gravity
+
+  property'
+bip_39_word_new_line8: 'used
+
+  soap
+
+  ketchup
+
+  rare
+
+  total
+
+  gravity
+
+  property
+
+  session'
+bip_39_word_new_line9: 'used
+
+  soap
+
+  ketchup
+
+  rare
+
+  total
+
+  gravity
+
+  property
+
+  session
+
+  ugly'
+bip_39_word_space_0:
+- used
+- soap
+- ketchup
+- rare
+- total
+- gravity
+- property
+- session
+- ugly
+- hollow
+- birth
+- actor
+bip_39_word_space_1: used
+bip_39_word_space_10: used soap ketchup rare total gravity property session ugly hollow
+bip_39_word_space_11: used soap ketchup rare total gravity property session ugly hollow
+  birth
+bip_39_word_space_12: used soap ketchup rare total gravity property session ugly hollow
+  birth actor
+bip_39_word_space_2: used soap
+bip_39_word_space_3: used soap ketchup
+bip_39_word_space_4: used soap ketchup rare
+bip_39_word_space_5: used soap ketchup rare total
+bip_39_word_space_6: used soap ketchup rare total gravity
+bip_39_word_space_7: used soap ketchup rare total gravity property
+bip_39_word_space_8: used soap ketchup rare total gravity property session
+bip_39_word_space_9: used soap ketchup rare total gravity property session ugly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

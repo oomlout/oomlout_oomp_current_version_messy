@@ -1,3 +1,185 @@
+bip_39_word_new_br1: unhappy
+bip_39_word_new_br10: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz<br>mouse<br>cargo<br>love<br>law
+bip_39_word_new_br11: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz<br>mouse<br>cargo<br>love<br>law<br>tumble
+bip_39_word_new_br12: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz<br>mouse<br>cargo<br>love<br>law<br>tumble<br>arrive
+bip_39_word_new_br2: unhappy<br>unhappy
+bip_39_word_new_br3: unhappy<br>unhappy<br>carbon
+bip_39_word_new_br4: unhappy<br>unhappy<br>carbon<br>fly
+bip_39_word_new_br5: unhappy<br>unhappy<br>carbon<br>fly<br>dutch
+bip_39_word_new_br6: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz
+bip_39_word_new_br7: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz<br>mouse
+bip_39_word_new_br8: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz<br>mouse<br>cargo
+bip_39_word_new_br9: unhappy<br>unhappy<br>carbon<br>fly<br>dutch<br>quiz<br>mouse<br>cargo<br>love
+bip_39_word_new_line1: unhappy
+bip_39_word_new_line10: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly
+
+  dutch
+
+  quiz
+
+  mouse
+
+  cargo
+
+  love
+
+  law'
+bip_39_word_new_line11: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly
+
+  dutch
+
+  quiz
+
+  mouse
+
+  cargo
+
+  love
+
+  law
+
+  tumble'
+bip_39_word_new_line12: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly
+
+  dutch
+
+  quiz
+
+  mouse
+
+  cargo
+
+  love
+
+  law
+
+  tumble
+
+  arrive'
+bip_39_word_new_line2: 'unhappy
+
+  unhappy'
+bip_39_word_new_line3: 'unhappy
+
+  unhappy
+
+  carbon'
+bip_39_word_new_line4: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly'
+bip_39_word_new_line5: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly
+
+  dutch'
+bip_39_word_new_line6: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly
+
+  dutch
+
+  quiz'
+bip_39_word_new_line7: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly
+
+  dutch
+
+  quiz
+
+  mouse'
+bip_39_word_new_line8: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly
+
+  dutch
+
+  quiz
+
+  mouse
+
+  cargo'
+bip_39_word_new_line9: 'unhappy
+
+  unhappy
+
+  carbon
+
+  fly
+
+  dutch
+
+  quiz
+
+  mouse
+
+  cargo
+
+  love'
+bip_39_word_space_0:
+- unhappy
+- unhappy
+- carbon
+- fly
+- dutch
+- quiz
+- mouse
+- cargo
+- love
+- law
+- tumble
+- arrive
+bip_39_word_space_1: unhappy
+bip_39_word_space_10: unhappy unhappy carbon fly dutch quiz mouse cargo love law
+bip_39_word_space_11: unhappy unhappy carbon fly dutch quiz mouse cargo love law tumble
+bip_39_word_space_12: unhappy unhappy carbon fly dutch quiz mouse cargo love law tumble
+  arrive
+bip_39_word_space_2: unhappy unhappy
+bip_39_word_space_3: unhappy unhappy carbon
+bip_39_word_space_4: unhappy unhappy carbon fly
+bip_39_word_space_5: unhappy unhappy carbon fly dutch
+bip_39_word_space_6: unhappy unhappy carbon fly dutch quiz
+bip_39_word_space_7: unhappy unhappy carbon fly dutch quiz mouse
+bip_39_word_space_8: unhappy unhappy carbon fly dutch quiz mouse cargo
+bip_39_word_space_9: unhappy unhappy carbon fly dutch quiz mouse cargo love
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

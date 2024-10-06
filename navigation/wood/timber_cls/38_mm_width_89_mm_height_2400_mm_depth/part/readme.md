@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amazing play
+  * bip 39 word 3: amazing play inhale
+  * bip 39 word: amazing play inhale south response sniff neck twenty mountain hunt rifle also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amazing |  
+| bip_39_word_new_br10 | amazing<br>play<br>inhale<br>south<br>response<br>sniff<br>neck<br>twenty<br>mountain<br>hunt |  
+| bip_39_word_new_br11 | amazing<br>play<br>inhale<br>south<br>response<br>sniff<br>neck<br>twenty<br>mountain<br>hunt<br>rifle |  
+| bip_39_word_new_br12 | amazing<br>play<br>inhale<br>south<br>response<br>sniff<br>neck<br>twenty<br>mountain<br>hunt<br>rifle<br>also |  
+| bip_39_word_new_br2 | amazing<br>play |  
+| bip_39_word_new_br3 | amazing<br>play<br>inhale |  
+| bip_39_word_new_br4 | amazing<br>play<br>inhale<br>south |  
+| bip_39_word_new_br5 | amazing<br>play<br>inhale<br>south<br>response |  
+| bip_39_word_new_br6 | amazing<br>play<br>inhale<br>south<br>response<br>sniff |  
+| bip_39_word_new_br7 | amazing<br>play<br>inhale<br>south<br>response<br>sniff<br>neck |  
+| bip_39_word_new_br8 | amazing<br>play<br>inhale<br>south<br>response<br>sniff<br>neck<br>twenty |  
+| bip_39_word_new_br9 | amazing<br>play<br>inhale<br>south<br>response<br>sniff<br>neck<br>twenty<br>mountain |  
+| bip_39_word_new_line1 | amazing |  
+| bip_39_word_new_line10 | amazing
+play
+inhale
+south
+response
+sniff
+neck
+twenty
+mountain
+hunt |  
+| bip_39_word_new_line11 | amazing
+play
+inhale
+south
+response
+sniff
+neck
+twenty
+mountain
+hunt
+rifle |  
+| bip_39_word_new_line12 | amazing
+play
+inhale
+south
+response
+sniff
+neck
+twenty
+mountain
+hunt
+rifle
+also |  
+| bip_39_word_new_line2 | amazing
+play |  
+| bip_39_word_new_line3 | amazing
+play
+inhale |  
+| bip_39_word_new_line4 | amazing
+play
+inhale
+south |  
+| bip_39_word_new_line5 | amazing
+play
+inhale
+south
+response |  
+| bip_39_word_new_line6 | amazing
+play
+inhale
+south
+response
+sniff |  
+| bip_39_word_new_line7 | amazing
+play
+inhale
+south
+response
+sniff
+neck |  
+| bip_39_word_new_line8 | amazing
+play
+inhale
+south
+response
+sniff
+neck
+twenty |  
+| bip_39_word_new_line9 | amazing
+play
+inhale
+south
+response
+sniff
+neck
+twenty
+mountain |  
+| bip_39_word_space_0 | ['amazing', 'play', 'inhale', 'south', 'response', 'sniff', 'neck', 'twenty', 'mountain', 'hunt', 'rifle', 'also'] |  
+| bip_39_word_space_1 | amazing |  
+| bip_39_word_space_10 | amazing play inhale south response sniff neck twenty mountain hunt |  
+| bip_39_word_space_11 | amazing play inhale south response sniff neck twenty mountain hunt rifle |  
+| bip_39_word_space_12 | amazing play inhale south response sniff neck twenty mountain hunt rifle also |  
+| bip_39_word_space_2 | amazing play |  
+| bip_39_word_space_3 | amazing play inhale |  
+| bip_39_word_space_4 | amazing play inhale south |  
+| bip_39_word_space_5 | amazing play inhale south response |  
+| bip_39_word_space_6 | amazing play inhale south response sniff |  
+| bip_39_word_space_7 | amazing play inhale south response sniff neck |  
+| bip_39_word_space_8 | amazing play inhale south response sniff neck twenty |  
+| bip_39_word_space_9 | amazing play inhale south response sniff neck twenty mountain |  
 | classification | wood |  
 | classification_capital | Wood |  
 | classification_first_letter | w |  

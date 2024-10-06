@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: forget evolve
+  * bip 39 word 3: forget evolve benefit
+  * bip 39 word: forget evolve benefit session chalk vessel end weekend smile mirror girl aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | forget |  
+| bip_39_word_new_br10 | forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel<br>end<br>weekend<br>smile<br>mirror |  
+| bip_39_word_new_br11 | forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel<br>end<br>weekend<br>smile<br>mirror<br>girl |  
+| bip_39_word_new_br12 | forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel<br>end<br>weekend<br>smile<br>mirror<br>girl<br>aisle |  
+| bip_39_word_new_br2 | forget<br>evolve |  
+| bip_39_word_new_br3 | forget<br>evolve<br>benefit |  
+| bip_39_word_new_br4 | forget<br>evolve<br>benefit<br>session |  
+| bip_39_word_new_br5 | forget<br>evolve<br>benefit<br>session<br>chalk |  
+| bip_39_word_new_br6 | forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel |  
+| bip_39_word_new_br7 | forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel<br>end |  
+| bip_39_word_new_br8 | forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel<br>end<br>weekend |  
+| bip_39_word_new_br9 | forget<br>evolve<br>benefit<br>session<br>chalk<br>vessel<br>end<br>weekend<br>smile |  
+| bip_39_word_new_line1 | forget |  
+| bip_39_word_new_line10 | forget
+evolve
+benefit
+session
+chalk
+vessel
+end
+weekend
+smile
+mirror |  
+| bip_39_word_new_line11 | forget
+evolve
+benefit
+session
+chalk
+vessel
+end
+weekend
+smile
+mirror
+girl |  
+| bip_39_word_new_line12 | forget
+evolve
+benefit
+session
+chalk
+vessel
+end
+weekend
+smile
+mirror
+girl
+aisle |  
+| bip_39_word_new_line2 | forget
+evolve |  
+| bip_39_word_new_line3 | forget
+evolve
+benefit |  
+| bip_39_word_new_line4 | forget
+evolve
+benefit
+session |  
+| bip_39_word_new_line5 | forget
+evolve
+benefit
+session
+chalk |  
+| bip_39_word_new_line6 | forget
+evolve
+benefit
+session
+chalk
+vessel |  
+| bip_39_word_new_line7 | forget
+evolve
+benefit
+session
+chalk
+vessel
+end |  
+| bip_39_word_new_line8 | forget
+evolve
+benefit
+session
+chalk
+vessel
+end
+weekend |  
+| bip_39_word_new_line9 | forget
+evolve
+benefit
+session
+chalk
+vessel
+end
+weekend
+smile |  
+| bip_39_word_space_0 | ['forget', 'evolve', 'benefit', 'session', 'chalk', 'vessel', 'end', 'weekend', 'smile', 'mirror', 'girl', 'aisle'] |  
+| bip_39_word_space_1 | forget |  
+| bip_39_word_space_10 | forget evolve benefit session chalk vessel end weekend smile mirror |  
+| bip_39_word_space_11 | forget evolve benefit session chalk vessel end weekend smile mirror girl |  
+| bip_39_word_space_12 | forget evolve benefit session chalk vessel end weekend smile mirror girl aisle |  
+| bip_39_word_space_2 | forget evolve |  
+| bip_39_word_space_3 | forget evolve benefit |  
+| bip_39_word_space_4 | forget evolve benefit session |  
+| bip_39_word_space_5 | forget evolve benefit session chalk |  
+| bip_39_word_space_6 | forget evolve benefit session chalk vessel |  
+| bip_39_word_space_7 | forget evolve benefit session chalk vessel end |  
+| bip_39_word_space_8 | forget evolve benefit session chalk vessel end weekend |  
+| bip_39_word_space_9 | forget evolve benefit session chalk vessel end weekend smile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

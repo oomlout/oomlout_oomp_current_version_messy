@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: else tourist
+  * bip 39 word 3: else tourist tide
+  * bip 39 word: else tourist tide sense clap brother cousin blur fox grass again aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | else |  
+| bip_39_word_new_br10 | else<br>tourist<br>tide<br>sense<br>clap<br>brother<br>cousin<br>blur<br>fox<br>grass |  
+| bip_39_word_new_br11 | else<br>tourist<br>tide<br>sense<br>clap<br>brother<br>cousin<br>blur<br>fox<br>grass<br>again |  
+| bip_39_word_new_br12 | else<br>tourist<br>tide<br>sense<br>clap<br>brother<br>cousin<br>blur<br>fox<br>grass<br>again<br>aunt |  
+| bip_39_word_new_br2 | else<br>tourist |  
+| bip_39_word_new_br3 | else<br>tourist<br>tide |  
+| bip_39_word_new_br4 | else<br>tourist<br>tide<br>sense |  
+| bip_39_word_new_br5 | else<br>tourist<br>tide<br>sense<br>clap |  
+| bip_39_word_new_br6 | else<br>tourist<br>tide<br>sense<br>clap<br>brother |  
+| bip_39_word_new_br7 | else<br>tourist<br>tide<br>sense<br>clap<br>brother<br>cousin |  
+| bip_39_word_new_br8 | else<br>tourist<br>tide<br>sense<br>clap<br>brother<br>cousin<br>blur |  
+| bip_39_word_new_br9 | else<br>tourist<br>tide<br>sense<br>clap<br>brother<br>cousin<br>blur<br>fox |  
+| bip_39_word_new_line1 | else |  
+| bip_39_word_new_line10 | else
+tourist
+tide
+sense
+clap
+brother
+cousin
+blur
+fox
+grass |  
+| bip_39_word_new_line11 | else
+tourist
+tide
+sense
+clap
+brother
+cousin
+blur
+fox
+grass
+again |  
+| bip_39_word_new_line12 | else
+tourist
+tide
+sense
+clap
+brother
+cousin
+blur
+fox
+grass
+again
+aunt |  
+| bip_39_word_new_line2 | else
+tourist |  
+| bip_39_word_new_line3 | else
+tourist
+tide |  
+| bip_39_word_new_line4 | else
+tourist
+tide
+sense |  
+| bip_39_word_new_line5 | else
+tourist
+tide
+sense
+clap |  
+| bip_39_word_new_line6 | else
+tourist
+tide
+sense
+clap
+brother |  
+| bip_39_word_new_line7 | else
+tourist
+tide
+sense
+clap
+brother
+cousin |  
+| bip_39_word_new_line8 | else
+tourist
+tide
+sense
+clap
+brother
+cousin
+blur |  
+| bip_39_word_new_line9 | else
+tourist
+tide
+sense
+clap
+brother
+cousin
+blur
+fox |  
+| bip_39_word_space_0 | ['else', 'tourist', 'tide', 'sense', 'clap', 'brother', 'cousin', 'blur', 'fox', 'grass', 'again', 'aunt'] |  
+| bip_39_word_space_1 | else |  
+| bip_39_word_space_10 | else tourist tide sense clap brother cousin blur fox grass |  
+| bip_39_word_space_11 | else tourist tide sense clap brother cousin blur fox grass again |  
+| bip_39_word_space_12 | else tourist tide sense clap brother cousin blur fox grass again aunt |  
+| bip_39_word_space_2 | else tourist |  
+| bip_39_word_space_3 | else tourist tide |  
+| bip_39_word_space_4 | else tourist tide sense |  
+| bip_39_word_space_5 | else tourist tide sense clap |  
+| bip_39_word_space_6 | else tourist tide sense clap brother |  
+| bip_39_word_space_7 | else tourist tide sense clap brother cousin |  
+| bip_39_word_space_8 | else tourist tide sense clap brother cousin blur |  
+| bip_39_word_space_9 | else tourist tide sense clap brother cousin blur fox |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

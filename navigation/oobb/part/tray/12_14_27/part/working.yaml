@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spatial
+bip_39_word_new_br10: spatial<br>grit<br>still<br>little<br>toe<br>flush<br>casino<br>purse<br>potato<br>acquire
+bip_39_word_new_br11: spatial<br>grit<br>still<br>little<br>toe<br>flush<br>casino<br>purse<br>potato<br>acquire<br>circle
+bip_39_word_new_br12: spatial<br>grit<br>still<br>little<br>toe<br>flush<br>casino<br>purse<br>potato<br>acquire<br>circle<br>appear
+bip_39_word_new_br2: spatial<br>grit
+bip_39_word_new_br3: spatial<br>grit<br>still
+bip_39_word_new_br4: spatial<br>grit<br>still<br>little
+bip_39_word_new_br5: spatial<br>grit<br>still<br>little<br>toe
+bip_39_word_new_br6: spatial<br>grit<br>still<br>little<br>toe<br>flush
+bip_39_word_new_br7: spatial<br>grit<br>still<br>little<br>toe<br>flush<br>casino
+bip_39_word_new_br8: spatial<br>grit<br>still<br>little<br>toe<br>flush<br>casino<br>purse
+bip_39_word_new_br9: spatial<br>grit<br>still<br>little<br>toe<br>flush<br>casino<br>purse<br>potato
+bip_39_word_new_line1: spatial
+bip_39_word_new_line10: 'spatial
+
+  grit
+
+  still
+
+  little
+
+  toe
+
+  flush
+
+  casino
+
+  purse
+
+  potato
+
+  acquire'
+bip_39_word_new_line11: 'spatial
+
+  grit
+
+  still
+
+  little
+
+  toe
+
+  flush
+
+  casino
+
+  purse
+
+  potato
+
+  acquire
+
+  circle'
+bip_39_word_new_line12: 'spatial
+
+  grit
+
+  still
+
+  little
+
+  toe
+
+  flush
+
+  casino
+
+  purse
+
+  potato
+
+  acquire
+
+  circle
+
+  appear'
+bip_39_word_new_line2: 'spatial
+
+  grit'
+bip_39_word_new_line3: 'spatial
+
+  grit
+
+  still'
+bip_39_word_new_line4: 'spatial
+
+  grit
+
+  still
+
+  little'
+bip_39_word_new_line5: 'spatial
+
+  grit
+
+  still
+
+  little
+
+  toe'
+bip_39_word_new_line6: 'spatial
+
+  grit
+
+  still
+
+  little
+
+  toe
+
+  flush'
+bip_39_word_new_line7: 'spatial
+
+  grit
+
+  still
+
+  little
+
+  toe
+
+  flush
+
+  casino'
+bip_39_word_new_line8: 'spatial
+
+  grit
+
+  still
+
+  little
+
+  toe
+
+  flush
+
+  casino
+
+  purse'
+bip_39_word_new_line9: 'spatial
+
+  grit
+
+  still
+
+  little
+
+  toe
+
+  flush
+
+  casino
+
+  purse
+
+  potato'
+bip_39_word_space_0:
+- spatial
+- grit
+- still
+- little
+- toe
+- flush
+- casino
+- purse
+- potato
+- acquire
+- circle
+- appear
+bip_39_word_space_1: spatial
+bip_39_word_space_10: spatial grit still little toe flush casino purse potato acquire
+bip_39_word_space_11: spatial grit still little toe flush casino purse potato acquire
+  circle
+bip_39_word_space_12: spatial grit still little toe flush casino purse potato acquire
+  circle appear
+bip_39_word_space_2: spatial grit
+bip_39_word_space_3: spatial grit still
+bip_39_word_space_4: spatial grit still little
+bip_39_word_space_5: spatial grit still little toe
+bip_39_word_space_6: spatial grit still little toe flush
+bip_39_word_space_7: spatial grit still little toe flush casino
+bip_39_word_space_8: spatial grit still little toe flush casino purse
+bip_39_word_space_9: spatial grit still little toe flush casino purse potato
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

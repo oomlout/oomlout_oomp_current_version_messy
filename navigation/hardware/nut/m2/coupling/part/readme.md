@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: turkey roof
+  * bip 39 word 3: turkey roof pole
+  * bip 39 word: turkey roof pole wife differ father arch letter quit enhance inspire actual
 
 ### other_codes
 * short_code: n2m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | turkey |  
+| bip_39_word_new_br10 | turkey<br>roof<br>pole<br>wife<br>differ<br>father<br>arch<br>letter<br>quit<br>enhance |  
+| bip_39_word_new_br11 | turkey<br>roof<br>pole<br>wife<br>differ<br>father<br>arch<br>letter<br>quit<br>enhance<br>inspire |  
+| bip_39_word_new_br12 | turkey<br>roof<br>pole<br>wife<br>differ<br>father<br>arch<br>letter<br>quit<br>enhance<br>inspire<br>actual |  
+| bip_39_word_new_br2 | turkey<br>roof |  
+| bip_39_word_new_br3 | turkey<br>roof<br>pole |  
+| bip_39_word_new_br4 | turkey<br>roof<br>pole<br>wife |  
+| bip_39_word_new_br5 | turkey<br>roof<br>pole<br>wife<br>differ |  
+| bip_39_word_new_br6 | turkey<br>roof<br>pole<br>wife<br>differ<br>father |  
+| bip_39_word_new_br7 | turkey<br>roof<br>pole<br>wife<br>differ<br>father<br>arch |  
+| bip_39_word_new_br8 | turkey<br>roof<br>pole<br>wife<br>differ<br>father<br>arch<br>letter |  
+| bip_39_word_new_br9 | turkey<br>roof<br>pole<br>wife<br>differ<br>father<br>arch<br>letter<br>quit |  
+| bip_39_word_new_line1 | turkey |  
+| bip_39_word_new_line10 | turkey
+roof
+pole
+wife
+differ
+father
+arch
+letter
+quit
+enhance |  
+| bip_39_word_new_line11 | turkey
+roof
+pole
+wife
+differ
+father
+arch
+letter
+quit
+enhance
+inspire |  
+| bip_39_word_new_line12 | turkey
+roof
+pole
+wife
+differ
+father
+arch
+letter
+quit
+enhance
+inspire
+actual |  
+| bip_39_word_new_line2 | turkey
+roof |  
+| bip_39_word_new_line3 | turkey
+roof
+pole |  
+| bip_39_word_new_line4 | turkey
+roof
+pole
+wife |  
+| bip_39_word_new_line5 | turkey
+roof
+pole
+wife
+differ |  
+| bip_39_word_new_line6 | turkey
+roof
+pole
+wife
+differ
+father |  
+| bip_39_word_new_line7 | turkey
+roof
+pole
+wife
+differ
+father
+arch |  
+| bip_39_word_new_line8 | turkey
+roof
+pole
+wife
+differ
+father
+arch
+letter |  
+| bip_39_word_new_line9 | turkey
+roof
+pole
+wife
+differ
+father
+arch
+letter
+quit |  
+| bip_39_word_space_0 | ['turkey', 'roof', 'pole', 'wife', 'differ', 'father', 'arch', 'letter', 'quit', 'enhance', 'inspire', 'actual'] |  
+| bip_39_word_space_1 | turkey |  
+| bip_39_word_space_10 | turkey roof pole wife differ father arch letter quit enhance |  
+| bip_39_word_space_11 | turkey roof pole wife differ father arch letter quit enhance inspire |  
+| bip_39_word_space_12 | turkey roof pole wife differ father arch letter quit enhance inspire actual |  
+| bip_39_word_space_2 | turkey roof |  
+| bip_39_word_space_3 | turkey roof pole |  
+| bip_39_word_space_4 | turkey roof pole wife |  
+| bip_39_word_space_5 | turkey roof pole wife differ |  
+| bip_39_word_space_6 | turkey roof pole wife differ father |  
+| bip_39_word_space_7 | turkey roof pole wife differ father arch |  
+| bip_39_word_space_8 | turkey roof pole wife differ father arch letter |  
+| bip_39_word_space_9 | turkey roof pole wife differ father arch letter quit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

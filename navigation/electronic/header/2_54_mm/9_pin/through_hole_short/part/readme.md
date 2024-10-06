@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: west unhappy
+  * bip 39 word 3: west unhappy appear
+  * bip 39 word: west unhappy appear betray food entry exact such sweet romance original achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | west |  
+| bip_39_word_new_br10 | west<br>unhappy<br>appear<br>betray<br>food<br>entry<br>exact<br>such<br>sweet<br>romance |  
+| bip_39_word_new_br11 | west<br>unhappy<br>appear<br>betray<br>food<br>entry<br>exact<br>such<br>sweet<br>romance<br>original |  
+| bip_39_word_new_br12 | west<br>unhappy<br>appear<br>betray<br>food<br>entry<br>exact<br>such<br>sweet<br>romance<br>original<br>achieve |  
+| bip_39_word_new_br2 | west<br>unhappy |  
+| bip_39_word_new_br3 | west<br>unhappy<br>appear |  
+| bip_39_word_new_br4 | west<br>unhappy<br>appear<br>betray |  
+| bip_39_word_new_br5 | west<br>unhappy<br>appear<br>betray<br>food |  
+| bip_39_word_new_br6 | west<br>unhappy<br>appear<br>betray<br>food<br>entry |  
+| bip_39_word_new_br7 | west<br>unhappy<br>appear<br>betray<br>food<br>entry<br>exact |  
+| bip_39_word_new_br8 | west<br>unhappy<br>appear<br>betray<br>food<br>entry<br>exact<br>such |  
+| bip_39_word_new_br9 | west<br>unhappy<br>appear<br>betray<br>food<br>entry<br>exact<br>such<br>sweet |  
+| bip_39_word_new_line1 | west |  
+| bip_39_word_new_line10 | west
+unhappy
+appear
+betray
+food
+entry
+exact
+such
+sweet
+romance |  
+| bip_39_word_new_line11 | west
+unhappy
+appear
+betray
+food
+entry
+exact
+such
+sweet
+romance
+original |  
+| bip_39_word_new_line12 | west
+unhappy
+appear
+betray
+food
+entry
+exact
+such
+sweet
+romance
+original
+achieve |  
+| bip_39_word_new_line2 | west
+unhappy |  
+| bip_39_word_new_line3 | west
+unhappy
+appear |  
+| bip_39_word_new_line4 | west
+unhappy
+appear
+betray |  
+| bip_39_word_new_line5 | west
+unhappy
+appear
+betray
+food |  
+| bip_39_word_new_line6 | west
+unhappy
+appear
+betray
+food
+entry |  
+| bip_39_word_new_line7 | west
+unhappy
+appear
+betray
+food
+entry
+exact |  
+| bip_39_word_new_line8 | west
+unhappy
+appear
+betray
+food
+entry
+exact
+such |  
+| bip_39_word_new_line9 | west
+unhappy
+appear
+betray
+food
+entry
+exact
+such
+sweet |  
+| bip_39_word_space_0 | ['west', 'unhappy', 'appear', 'betray', 'food', 'entry', 'exact', 'such', 'sweet', 'romance', 'original', 'achieve'] |  
+| bip_39_word_space_1 | west |  
+| bip_39_word_space_10 | west unhappy appear betray food entry exact such sweet romance |  
+| bip_39_word_space_11 | west unhappy appear betray food entry exact such sweet romance original |  
+| bip_39_word_space_12 | west unhappy appear betray food entry exact such sweet romance original achieve |  
+| bip_39_word_space_2 | west unhappy |  
+| bip_39_word_space_3 | west unhappy appear |  
+| bip_39_word_space_4 | west unhappy appear betray |  
+| bip_39_word_space_5 | west unhappy appear betray food |  
+| bip_39_word_space_6 | west unhappy appear betray food entry |  
+| bip_39_word_space_7 | west unhappy appear betray food entry exact |  
+| bip_39_word_space_8 | west unhappy appear betray food entry exact such |  
+| bip_39_word_space_9 | west unhappy appear betray food entry exact such sweet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

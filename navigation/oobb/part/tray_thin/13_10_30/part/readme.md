@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dice shell
+  * bip 39 word 3: dice shell print
+  * bip 39 word: dice shell print situate switch twin athlete someone win amused scrub assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dice |  
+| bip_39_word_new_br10 | dice<br>shell<br>print<br>situate<br>switch<br>twin<br>athlete<br>someone<br>win<br>amused |  
+| bip_39_word_new_br11 | dice<br>shell<br>print<br>situate<br>switch<br>twin<br>athlete<br>someone<br>win<br>amused<br>scrub |  
+| bip_39_word_new_br12 | dice<br>shell<br>print<br>situate<br>switch<br>twin<br>athlete<br>someone<br>win<br>amused<br>scrub<br>assault |  
+| bip_39_word_new_br2 | dice<br>shell |  
+| bip_39_word_new_br3 | dice<br>shell<br>print |  
+| bip_39_word_new_br4 | dice<br>shell<br>print<br>situate |  
+| bip_39_word_new_br5 | dice<br>shell<br>print<br>situate<br>switch |  
+| bip_39_word_new_br6 | dice<br>shell<br>print<br>situate<br>switch<br>twin |  
+| bip_39_word_new_br7 | dice<br>shell<br>print<br>situate<br>switch<br>twin<br>athlete |  
+| bip_39_word_new_br8 | dice<br>shell<br>print<br>situate<br>switch<br>twin<br>athlete<br>someone |  
+| bip_39_word_new_br9 | dice<br>shell<br>print<br>situate<br>switch<br>twin<br>athlete<br>someone<br>win |  
+| bip_39_word_new_line1 | dice |  
+| bip_39_word_new_line10 | dice
+shell
+print
+situate
+switch
+twin
+athlete
+someone
+win
+amused |  
+| bip_39_word_new_line11 | dice
+shell
+print
+situate
+switch
+twin
+athlete
+someone
+win
+amused
+scrub |  
+| bip_39_word_new_line12 | dice
+shell
+print
+situate
+switch
+twin
+athlete
+someone
+win
+amused
+scrub
+assault |  
+| bip_39_word_new_line2 | dice
+shell |  
+| bip_39_word_new_line3 | dice
+shell
+print |  
+| bip_39_word_new_line4 | dice
+shell
+print
+situate |  
+| bip_39_word_new_line5 | dice
+shell
+print
+situate
+switch |  
+| bip_39_word_new_line6 | dice
+shell
+print
+situate
+switch
+twin |  
+| bip_39_word_new_line7 | dice
+shell
+print
+situate
+switch
+twin
+athlete |  
+| bip_39_word_new_line8 | dice
+shell
+print
+situate
+switch
+twin
+athlete
+someone |  
+| bip_39_word_new_line9 | dice
+shell
+print
+situate
+switch
+twin
+athlete
+someone
+win |  
+| bip_39_word_space_0 | ['dice', 'shell', 'print', 'situate', 'switch', 'twin', 'athlete', 'someone', 'win', 'amused', 'scrub', 'assault'] |  
+| bip_39_word_space_1 | dice |  
+| bip_39_word_space_10 | dice shell print situate switch twin athlete someone win amused |  
+| bip_39_word_space_11 | dice shell print situate switch twin athlete someone win amused scrub |  
+| bip_39_word_space_12 | dice shell print situate switch twin athlete someone win amused scrub assault |  
+| bip_39_word_space_2 | dice shell |  
+| bip_39_word_space_3 | dice shell print |  
+| bip_39_word_space_4 | dice shell print situate |  
+| bip_39_word_space_5 | dice shell print situate switch |  
+| bip_39_word_space_6 | dice shell print situate switch twin |  
+| bip_39_word_space_7 | dice shell print situate switch twin athlete |  
+| bip_39_word_space_8 | dice shell print situate switch twin athlete someone |  
+| bip_39_word_space_9 | dice shell print situate switch twin athlete someone win |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

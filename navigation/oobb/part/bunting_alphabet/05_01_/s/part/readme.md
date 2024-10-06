@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: s
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trap bleak
+  * bip 39 word 3: trap bleak bomb
+  * bip 39 word: trap bleak bomb orient warm satoshi pigeon attitude remain sword energy alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trap |  
+| bip_39_word_new_br10 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi<br>pigeon<br>attitude<br>remain<br>sword |  
+| bip_39_word_new_br11 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi<br>pigeon<br>attitude<br>remain<br>sword<br>energy |  
+| bip_39_word_new_br12 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi<br>pigeon<br>attitude<br>remain<br>sword<br>energy<br>alone |  
+| bip_39_word_new_br2 | trap<br>bleak |  
+| bip_39_word_new_br3 | trap<br>bleak<br>bomb |  
+| bip_39_word_new_br4 | trap<br>bleak<br>bomb<br>orient |  
+| bip_39_word_new_br5 | trap<br>bleak<br>bomb<br>orient<br>warm |  
+| bip_39_word_new_br6 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi |  
+| bip_39_word_new_br7 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi<br>pigeon |  
+| bip_39_word_new_br8 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi<br>pigeon<br>attitude |  
+| bip_39_word_new_br9 | trap<br>bleak<br>bomb<br>orient<br>warm<br>satoshi<br>pigeon<br>attitude<br>remain |  
+| bip_39_word_new_line1 | trap |  
+| bip_39_word_new_line10 | trap
+bleak
+bomb
+orient
+warm
+satoshi
+pigeon
+attitude
+remain
+sword |  
+| bip_39_word_new_line11 | trap
+bleak
+bomb
+orient
+warm
+satoshi
+pigeon
+attitude
+remain
+sword
+energy |  
+| bip_39_word_new_line12 | trap
+bleak
+bomb
+orient
+warm
+satoshi
+pigeon
+attitude
+remain
+sword
+energy
+alone |  
+| bip_39_word_new_line2 | trap
+bleak |  
+| bip_39_word_new_line3 | trap
+bleak
+bomb |  
+| bip_39_word_new_line4 | trap
+bleak
+bomb
+orient |  
+| bip_39_word_new_line5 | trap
+bleak
+bomb
+orient
+warm |  
+| bip_39_word_new_line6 | trap
+bleak
+bomb
+orient
+warm
+satoshi |  
+| bip_39_word_new_line7 | trap
+bleak
+bomb
+orient
+warm
+satoshi
+pigeon |  
+| bip_39_word_new_line8 | trap
+bleak
+bomb
+orient
+warm
+satoshi
+pigeon
+attitude |  
+| bip_39_word_new_line9 | trap
+bleak
+bomb
+orient
+warm
+satoshi
+pigeon
+attitude
+remain |  
+| bip_39_word_space_0 | ['trap', 'bleak', 'bomb', 'orient', 'warm', 'satoshi', 'pigeon', 'attitude', 'remain', 'sword', 'energy', 'alone'] |  
+| bip_39_word_space_1 | trap |  
+| bip_39_word_space_10 | trap bleak bomb orient warm satoshi pigeon attitude remain sword |  
+| bip_39_word_space_11 | trap bleak bomb orient warm satoshi pigeon attitude remain sword energy |  
+| bip_39_word_space_12 | trap bleak bomb orient warm satoshi pigeon attitude remain sword energy alone |  
+| bip_39_word_space_2 | trap bleak |  
+| bip_39_word_space_3 | trap bleak bomb |  
+| bip_39_word_space_4 | trap bleak bomb orient |  
+| bip_39_word_space_5 | trap bleak bomb orient warm |  
+| bip_39_word_space_6 | trap bleak bomb orient warm satoshi |  
+| bip_39_word_space_7 | trap bleak bomb orient warm satoshi pigeon |  
+| bip_39_word_space_8 | trap bleak bomb orient warm satoshi pigeon attitude |  
+| bip_39_word_space_9 | trap bleak bomb orient warm satoshi pigeon attitude remain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

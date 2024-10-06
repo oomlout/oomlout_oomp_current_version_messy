@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: behave kitchen
+  * bip 39 word 3: behave kitchen camp
+  * bip 39 word: behave kitchen camp during rib rule rebuild rib fabric rescue margin ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | behave |  
+| bip_39_word_new_br10 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule<br>rebuild<br>rib<br>fabric<br>rescue |  
+| bip_39_word_new_br11 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule<br>rebuild<br>rib<br>fabric<br>rescue<br>margin |  
+| bip_39_word_new_br12 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule<br>rebuild<br>rib<br>fabric<br>rescue<br>margin<br>ability |  
+| bip_39_word_new_br2 | behave<br>kitchen |  
+| bip_39_word_new_br3 | behave<br>kitchen<br>camp |  
+| bip_39_word_new_br4 | behave<br>kitchen<br>camp<br>during |  
+| bip_39_word_new_br5 | behave<br>kitchen<br>camp<br>during<br>rib |  
+| bip_39_word_new_br6 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule |  
+| bip_39_word_new_br7 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule<br>rebuild |  
+| bip_39_word_new_br8 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule<br>rebuild<br>rib |  
+| bip_39_word_new_br9 | behave<br>kitchen<br>camp<br>during<br>rib<br>rule<br>rebuild<br>rib<br>fabric |  
+| bip_39_word_new_line1 | behave |  
+| bip_39_word_new_line10 | behave
+kitchen
+camp
+during
+rib
+rule
+rebuild
+rib
+fabric
+rescue |  
+| bip_39_word_new_line11 | behave
+kitchen
+camp
+during
+rib
+rule
+rebuild
+rib
+fabric
+rescue
+margin |  
+| bip_39_word_new_line12 | behave
+kitchen
+camp
+during
+rib
+rule
+rebuild
+rib
+fabric
+rescue
+margin
+ability |  
+| bip_39_word_new_line2 | behave
+kitchen |  
+| bip_39_word_new_line3 | behave
+kitchen
+camp |  
+| bip_39_word_new_line4 | behave
+kitchen
+camp
+during |  
+| bip_39_word_new_line5 | behave
+kitchen
+camp
+during
+rib |  
+| bip_39_word_new_line6 | behave
+kitchen
+camp
+during
+rib
+rule |  
+| bip_39_word_new_line7 | behave
+kitchen
+camp
+during
+rib
+rule
+rebuild |  
+| bip_39_word_new_line8 | behave
+kitchen
+camp
+during
+rib
+rule
+rebuild
+rib |  
+| bip_39_word_new_line9 | behave
+kitchen
+camp
+during
+rib
+rule
+rebuild
+rib
+fabric |  
+| bip_39_word_space_0 | ['behave', 'kitchen', 'camp', 'during', 'rib', 'rule', 'rebuild', 'rib', 'fabric', 'rescue', 'margin', 'ability'] |  
+| bip_39_word_space_1 | behave |  
+| bip_39_word_space_10 | behave kitchen camp during rib rule rebuild rib fabric rescue |  
+| bip_39_word_space_11 | behave kitchen camp during rib rule rebuild rib fabric rescue margin |  
+| bip_39_word_space_12 | behave kitchen camp during rib rule rebuild rib fabric rescue margin ability |  
+| bip_39_word_space_2 | behave kitchen |  
+| bip_39_word_space_3 | behave kitchen camp |  
+| bip_39_word_space_4 | behave kitchen camp during |  
+| bip_39_word_space_5 | behave kitchen camp during rib |  
+| bip_39_word_space_6 | behave kitchen camp during rib rule |  
+| bip_39_word_space_7 | behave kitchen camp during rib rule rebuild |  
+| bip_39_word_space_8 | behave kitchen camp during rib rule rebuild rib |  
+| bip_39_word_space_9 | behave kitchen camp during rib rule rebuild rib fabric |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

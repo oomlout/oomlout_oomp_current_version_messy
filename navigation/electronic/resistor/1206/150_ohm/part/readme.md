@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: menu term
+  * bip 39 word 3: menu term ship
+  * bip 39 word: menu term ship student aim acid visual same mad firm found anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | menu |  
+| bip_39_word_new_br10 | menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad<br>firm |  
+| bip_39_word_new_br11 | menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad<br>firm<br>found |  
+| bip_39_word_new_br12 | menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad<br>firm<br>found<br>anxiety |  
+| bip_39_word_new_br2 | menu<br>term |  
+| bip_39_word_new_br3 | menu<br>term<br>ship |  
+| bip_39_word_new_br4 | menu<br>term<br>ship<br>student |  
+| bip_39_word_new_br5 | menu<br>term<br>ship<br>student<br>aim |  
+| bip_39_word_new_br6 | menu<br>term<br>ship<br>student<br>aim<br>acid |  
+| bip_39_word_new_br7 | menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual |  
+| bip_39_word_new_br8 | menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same |  
+| bip_39_word_new_br9 | menu<br>term<br>ship<br>student<br>aim<br>acid<br>visual<br>same<br>mad |  
+| bip_39_word_new_line1 | menu |  
+| bip_39_word_new_line10 | menu
+term
+ship
+student
+aim
+acid
+visual
+same
+mad
+firm |  
+| bip_39_word_new_line11 | menu
+term
+ship
+student
+aim
+acid
+visual
+same
+mad
+firm
+found |  
+| bip_39_word_new_line12 | menu
+term
+ship
+student
+aim
+acid
+visual
+same
+mad
+firm
+found
+anxiety |  
+| bip_39_word_new_line2 | menu
+term |  
+| bip_39_word_new_line3 | menu
+term
+ship |  
+| bip_39_word_new_line4 | menu
+term
+ship
+student |  
+| bip_39_word_new_line5 | menu
+term
+ship
+student
+aim |  
+| bip_39_word_new_line6 | menu
+term
+ship
+student
+aim
+acid |  
+| bip_39_word_new_line7 | menu
+term
+ship
+student
+aim
+acid
+visual |  
+| bip_39_word_new_line8 | menu
+term
+ship
+student
+aim
+acid
+visual
+same |  
+| bip_39_word_new_line9 | menu
+term
+ship
+student
+aim
+acid
+visual
+same
+mad |  
+| bip_39_word_space_0 | ['menu', 'term', 'ship', 'student', 'aim', 'acid', 'visual', 'same', 'mad', 'firm', 'found', 'anxiety'] |  
+| bip_39_word_space_1 | menu |  
+| bip_39_word_space_10 | menu term ship student aim acid visual same mad firm |  
+| bip_39_word_space_11 | menu term ship student aim acid visual same mad firm found |  
+| bip_39_word_space_12 | menu term ship student aim acid visual same mad firm found anxiety |  
+| bip_39_word_space_2 | menu term |  
+| bip_39_word_space_3 | menu term ship |  
+| bip_39_word_space_4 | menu term ship student |  
+| bip_39_word_space_5 | menu term ship student aim |  
+| bip_39_word_space_6 | menu term ship student aim acid |  
+| bip_39_word_space_7 | menu term ship student aim acid visual |  
+| bip_39_word_space_8 | menu term ship student aim acid visual same |  
+| bip_39_word_space_9 | menu term ship student aim acid visual same mad |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

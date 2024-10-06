@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quit street
+  * bip 39 word 3: quit street twice
+  * bip 39 word: quit street twice cushion opera educate build carpet social music aware action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quit |  
+| bip_39_word_new_br10 | quit<br>street<br>twice<br>cushion<br>opera<br>educate<br>build<br>carpet<br>social<br>music |  
+| bip_39_word_new_br11 | quit<br>street<br>twice<br>cushion<br>opera<br>educate<br>build<br>carpet<br>social<br>music<br>aware |  
+| bip_39_word_new_br12 | quit<br>street<br>twice<br>cushion<br>opera<br>educate<br>build<br>carpet<br>social<br>music<br>aware<br>action |  
+| bip_39_word_new_br2 | quit<br>street |  
+| bip_39_word_new_br3 | quit<br>street<br>twice |  
+| bip_39_word_new_br4 | quit<br>street<br>twice<br>cushion |  
+| bip_39_word_new_br5 | quit<br>street<br>twice<br>cushion<br>opera |  
+| bip_39_word_new_br6 | quit<br>street<br>twice<br>cushion<br>opera<br>educate |  
+| bip_39_word_new_br7 | quit<br>street<br>twice<br>cushion<br>opera<br>educate<br>build |  
+| bip_39_word_new_br8 | quit<br>street<br>twice<br>cushion<br>opera<br>educate<br>build<br>carpet |  
+| bip_39_word_new_br9 | quit<br>street<br>twice<br>cushion<br>opera<br>educate<br>build<br>carpet<br>social |  
+| bip_39_word_new_line1 | quit |  
+| bip_39_word_new_line10 | quit
+street
+twice
+cushion
+opera
+educate
+build
+carpet
+social
+music |  
+| bip_39_word_new_line11 | quit
+street
+twice
+cushion
+opera
+educate
+build
+carpet
+social
+music
+aware |  
+| bip_39_word_new_line12 | quit
+street
+twice
+cushion
+opera
+educate
+build
+carpet
+social
+music
+aware
+action |  
+| bip_39_word_new_line2 | quit
+street |  
+| bip_39_word_new_line3 | quit
+street
+twice |  
+| bip_39_word_new_line4 | quit
+street
+twice
+cushion |  
+| bip_39_word_new_line5 | quit
+street
+twice
+cushion
+opera |  
+| bip_39_word_new_line6 | quit
+street
+twice
+cushion
+opera
+educate |  
+| bip_39_word_new_line7 | quit
+street
+twice
+cushion
+opera
+educate
+build |  
+| bip_39_word_new_line8 | quit
+street
+twice
+cushion
+opera
+educate
+build
+carpet |  
+| bip_39_word_new_line9 | quit
+street
+twice
+cushion
+opera
+educate
+build
+carpet
+social |  
+| bip_39_word_space_0 | ['quit', 'street', 'twice', 'cushion', 'opera', 'educate', 'build', 'carpet', 'social', 'music', 'aware', 'action'] |  
+| bip_39_word_space_1 | quit |  
+| bip_39_word_space_10 | quit street twice cushion opera educate build carpet social music |  
+| bip_39_word_space_11 | quit street twice cushion opera educate build carpet social music aware |  
+| bip_39_word_space_12 | quit street twice cushion opera educate build carpet social music aware action |  
+| bip_39_word_space_2 | quit street |  
+| bip_39_word_space_3 | quit street twice |  
+| bip_39_word_space_4 | quit street twice cushion |  
+| bip_39_word_space_5 | quit street twice cushion opera |  
+| bip_39_word_space_6 | quit street twice cushion opera educate |  
+| bip_39_word_space_7 | quit street twice cushion opera educate build |  
+| bip_39_word_space_8 | quit street twice cushion opera educate build carpet |  
+| bip_39_word_space_9 | quit street twice cushion opera educate build carpet social |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

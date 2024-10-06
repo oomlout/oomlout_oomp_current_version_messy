@@ -1,3 +1,186 @@
+bip_39_word_new_br1: legend
+bip_39_word_new_br10: legend<br>dress<br>boil<br>salute<br>bargain<br>chuckle<br>tank<br>carbon<br>photo<br>hundred
+bip_39_word_new_br11: legend<br>dress<br>boil<br>salute<br>bargain<br>chuckle<br>tank<br>carbon<br>photo<br>hundred<br>science
+bip_39_word_new_br12: legend<br>dress<br>boil<br>salute<br>bargain<br>chuckle<br>tank<br>carbon<br>photo<br>hundred<br>science<br>assault
+bip_39_word_new_br2: legend<br>dress
+bip_39_word_new_br3: legend<br>dress<br>boil
+bip_39_word_new_br4: legend<br>dress<br>boil<br>salute
+bip_39_word_new_br5: legend<br>dress<br>boil<br>salute<br>bargain
+bip_39_word_new_br6: legend<br>dress<br>boil<br>salute<br>bargain<br>chuckle
+bip_39_word_new_br7: legend<br>dress<br>boil<br>salute<br>bargain<br>chuckle<br>tank
+bip_39_word_new_br8: legend<br>dress<br>boil<br>salute<br>bargain<br>chuckle<br>tank<br>carbon
+bip_39_word_new_br9: legend<br>dress<br>boil<br>salute<br>bargain<br>chuckle<br>tank<br>carbon<br>photo
+bip_39_word_new_line1: legend
+bip_39_word_new_line10: 'legend
+
+  dress
+
+  boil
+
+  salute
+
+  bargain
+
+  chuckle
+
+  tank
+
+  carbon
+
+  photo
+
+  hundred'
+bip_39_word_new_line11: 'legend
+
+  dress
+
+  boil
+
+  salute
+
+  bargain
+
+  chuckle
+
+  tank
+
+  carbon
+
+  photo
+
+  hundred
+
+  science'
+bip_39_word_new_line12: 'legend
+
+  dress
+
+  boil
+
+  salute
+
+  bargain
+
+  chuckle
+
+  tank
+
+  carbon
+
+  photo
+
+  hundred
+
+  science
+
+  assault'
+bip_39_word_new_line2: 'legend
+
+  dress'
+bip_39_word_new_line3: 'legend
+
+  dress
+
+  boil'
+bip_39_word_new_line4: 'legend
+
+  dress
+
+  boil
+
+  salute'
+bip_39_word_new_line5: 'legend
+
+  dress
+
+  boil
+
+  salute
+
+  bargain'
+bip_39_word_new_line6: 'legend
+
+  dress
+
+  boil
+
+  salute
+
+  bargain
+
+  chuckle'
+bip_39_word_new_line7: 'legend
+
+  dress
+
+  boil
+
+  salute
+
+  bargain
+
+  chuckle
+
+  tank'
+bip_39_word_new_line8: 'legend
+
+  dress
+
+  boil
+
+  salute
+
+  bargain
+
+  chuckle
+
+  tank
+
+  carbon'
+bip_39_word_new_line9: 'legend
+
+  dress
+
+  boil
+
+  salute
+
+  bargain
+
+  chuckle
+
+  tank
+
+  carbon
+
+  photo'
+bip_39_word_space_0:
+- legend
+- dress
+- boil
+- salute
+- bargain
+- chuckle
+- tank
+- carbon
+- photo
+- hundred
+- science
+- assault
+bip_39_word_space_1: legend
+bip_39_word_space_10: legend dress boil salute bargain chuckle tank carbon photo hundred
+bip_39_word_space_11: legend dress boil salute bargain chuckle tank carbon photo hundred
+  science
+bip_39_word_space_12: legend dress boil salute bargain chuckle tank carbon photo hundred
+  science assault
+bip_39_word_space_2: legend dress
+bip_39_word_space_3: legend dress boil
+bip_39_word_space_4: legend dress boil salute
+bip_39_word_space_5: legend dress boil salute bargain
+bip_39_word_space_6: legend dress boil salute bargain chuckle
+bip_39_word_space_7: legend dress boil salute bargain chuckle tank
+bip_39_word_space_8: legend dress boil salute bargain chuckle tank carbon
+bip_39_word_space_9: legend dress boil salute bargain chuckle tank carbon photo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

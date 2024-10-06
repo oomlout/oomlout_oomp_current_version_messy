@@ -1,3 +1,186 @@
+bip_39_word_new_br1: good
+bip_39_word_new_br10: good<br>double<br>grace<br>stadium<br>dizzy<br>cannon<br>lottery<br>plate<br>blush<br>sleep
+bip_39_word_new_br11: good<br>double<br>grace<br>stadium<br>dizzy<br>cannon<br>lottery<br>plate<br>blush<br>sleep<br>spray
+bip_39_word_new_br12: good<br>double<br>grace<br>stadium<br>dizzy<br>cannon<br>lottery<br>plate<br>blush<br>sleep<br>spray<br>also
+bip_39_word_new_br2: good<br>double
+bip_39_word_new_br3: good<br>double<br>grace
+bip_39_word_new_br4: good<br>double<br>grace<br>stadium
+bip_39_word_new_br5: good<br>double<br>grace<br>stadium<br>dizzy
+bip_39_word_new_br6: good<br>double<br>grace<br>stadium<br>dizzy<br>cannon
+bip_39_word_new_br7: good<br>double<br>grace<br>stadium<br>dizzy<br>cannon<br>lottery
+bip_39_word_new_br8: good<br>double<br>grace<br>stadium<br>dizzy<br>cannon<br>lottery<br>plate
+bip_39_word_new_br9: good<br>double<br>grace<br>stadium<br>dizzy<br>cannon<br>lottery<br>plate<br>blush
+bip_39_word_new_line1: good
+bip_39_word_new_line10: 'good
+
+  double
+
+  grace
+
+  stadium
+
+  dizzy
+
+  cannon
+
+  lottery
+
+  plate
+
+  blush
+
+  sleep'
+bip_39_word_new_line11: 'good
+
+  double
+
+  grace
+
+  stadium
+
+  dizzy
+
+  cannon
+
+  lottery
+
+  plate
+
+  blush
+
+  sleep
+
+  spray'
+bip_39_word_new_line12: 'good
+
+  double
+
+  grace
+
+  stadium
+
+  dizzy
+
+  cannon
+
+  lottery
+
+  plate
+
+  blush
+
+  sleep
+
+  spray
+
+  also'
+bip_39_word_new_line2: 'good
+
+  double'
+bip_39_word_new_line3: 'good
+
+  double
+
+  grace'
+bip_39_word_new_line4: 'good
+
+  double
+
+  grace
+
+  stadium'
+bip_39_word_new_line5: 'good
+
+  double
+
+  grace
+
+  stadium
+
+  dizzy'
+bip_39_word_new_line6: 'good
+
+  double
+
+  grace
+
+  stadium
+
+  dizzy
+
+  cannon'
+bip_39_word_new_line7: 'good
+
+  double
+
+  grace
+
+  stadium
+
+  dizzy
+
+  cannon
+
+  lottery'
+bip_39_word_new_line8: 'good
+
+  double
+
+  grace
+
+  stadium
+
+  dizzy
+
+  cannon
+
+  lottery
+
+  plate'
+bip_39_word_new_line9: 'good
+
+  double
+
+  grace
+
+  stadium
+
+  dizzy
+
+  cannon
+
+  lottery
+
+  plate
+
+  blush'
+bip_39_word_space_0:
+- good
+- double
+- grace
+- stadium
+- dizzy
+- cannon
+- lottery
+- plate
+- blush
+- sleep
+- spray
+- also
+bip_39_word_space_1: good
+bip_39_word_space_10: good double grace stadium dizzy cannon lottery plate blush sleep
+bip_39_word_space_11: good double grace stadium dizzy cannon lottery plate blush sleep
+  spray
+bip_39_word_space_12: good double grace stadium dizzy cannon lottery plate blush sleep
+  spray also
+bip_39_word_space_2: good double
+bip_39_word_space_3: good double grace
+bip_39_word_space_4: good double grace stadium
+bip_39_word_space_5: good double grace stadium dizzy
+bip_39_word_space_6: good double grace stadium dizzy cannon
+bip_39_word_space_7: good double grace stadium dizzy cannon lottery
+bip_39_word_space_8: good double grace stadium dizzy cannon lottery plate
+bip_39_word_space_9: good double grace stadium dizzy cannon lottery plate blush
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

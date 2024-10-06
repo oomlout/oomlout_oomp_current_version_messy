@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lazy hospital
+  * bip 39 word 3: lazy hospital copper
+  * bip 39 word: lazy hospital copper session raccoon inquiry impact village quiz shock frog anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lazy |  
+| bip_39_word_new_br10 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry<br>impact<br>village<br>quiz<br>shock |  
+| bip_39_word_new_br11 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry<br>impact<br>village<br>quiz<br>shock<br>frog |  
+| bip_39_word_new_br12 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry<br>impact<br>village<br>quiz<br>shock<br>frog<br>anger |  
+| bip_39_word_new_br2 | lazy<br>hospital |  
+| bip_39_word_new_br3 | lazy<br>hospital<br>copper |  
+| bip_39_word_new_br4 | lazy<br>hospital<br>copper<br>session |  
+| bip_39_word_new_br5 | lazy<br>hospital<br>copper<br>session<br>raccoon |  
+| bip_39_word_new_br6 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry |  
+| bip_39_word_new_br7 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry<br>impact |  
+| bip_39_word_new_br8 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry<br>impact<br>village |  
+| bip_39_word_new_br9 | lazy<br>hospital<br>copper<br>session<br>raccoon<br>inquiry<br>impact<br>village<br>quiz |  
+| bip_39_word_new_line1 | lazy |  
+| bip_39_word_new_line10 | lazy
+hospital
+copper
+session
+raccoon
+inquiry
+impact
+village
+quiz
+shock |  
+| bip_39_word_new_line11 | lazy
+hospital
+copper
+session
+raccoon
+inquiry
+impact
+village
+quiz
+shock
+frog |  
+| bip_39_word_new_line12 | lazy
+hospital
+copper
+session
+raccoon
+inquiry
+impact
+village
+quiz
+shock
+frog
+anger |  
+| bip_39_word_new_line2 | lazy
+hospital |  
+| bip_39_word_new_line3 | lazy
+hospital
+copper |  
+| bip_39_word_new_line4 | lazy
+hospital
+copper
+session |  
+| bip_39_word_new_line5 | lazy
+hospital
+copper
+session
+raccoon |  
+| bip_39_word_new_line6 | lazy
+hospital
+copper
+session
+raccoon
+inquiry |  
+| bip_39_word_new_line7 | lazy
+hospital
+copper
+session
+raccoon
+inquiry
+impact |  
+| bip_39_word_new_line8 | lazy
+hospital
+copper
+session
+raccoon
+inquiry
+impact
+village |  
+| bip_39_word_new_line9 | lazy
+hospital
+copper
+session
+raccoon
+inquiry
+impact
+village
+quiz |  
+| bip_39_word_space_0 | ['lazy', 'hospital', 'copper', 'session', 'raccoon', 'inquiry', 'impact', 'village', 'quiz', 'shock', 'frog', 'anger'] |  
+| bip_39_word_space_1 | lazy |  
+| bip_39_word_space_10 | lazy hospital copper session raccoon inquiry impact village quiz shock |  
+| bip_39_word_space_11 | lazy hospital copper session raccoon inquiry impact village quiz shock frog |  
+| bip_39_word_space_12 | lazy hospital copper session raccoon inquiry impact village quiz shock frog anger |  
+| bip_39_word_space_2 | lazy hospital |  
+| bip_39_word_space_3 | lazy hospital copper |  
+| bip_39_word_space_4 | lazy hospital copper session |  
+| bip_39_word_space_5 | lazy hospital copper session raccoon |  
+| bip_39_word_space_6 | lazy hospital copper session raccoon inquiry |  
+| bip_39_word_space_7 | lazy hospital copper session raccoon inquiry impact |  
+| bip_39_word_space_8 | lazy hospital copper session raccoon inquiry impact village |  
+| bip_39_word_space_9 | lazy hospital copper session raccoon inquiry impact village quiz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

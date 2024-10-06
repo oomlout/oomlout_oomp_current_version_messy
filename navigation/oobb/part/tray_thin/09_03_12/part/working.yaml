@@ -1,3 +1,186 @@
+bip_39_word_new_br1: actor
+bip_39_word_new_br10: actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business
+bip_39_word_new_br11: actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business<br>able
+bip_39_word_new_br12: actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase<br>business<br>able<br>alpha
+bip_39_word_new_br2: actor<br>favorite
+bip_39_word_new_br3: actor<br>favorite<br>loop
+bip_39_word_new_br4: actor<br>favorite<br>loop<br>term
+bip_39_word_new_br5: actor<br>favorite<br>loop<br>term<br>liquid
+bip_39_word_new_br6: actor<br>favorite<br>loop<br>term<br>liquid<br>truly
+bip_39_word_new_br7: actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty
+bip_39_word_new_br8: actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time
+bip_39_word_new_br9: actor<br>favorite<br>loop<br>term<br>liquid<br>truly<br>nasty<br>time<br>phrase
+bip_39_word_new_line1: actor
+bip_39_word_new_line10: 'actor
+
+  favorite
+
+  loop
+
+  term
+
+  liquid
+
+  truly
+
+  nasty
+
+  time
+
+  phrase
+
+  business'
+bip_39_word_new_line11: 'actor
+
+  favorite
+
+  loop
+
+  term
+
+  liquid
+
+  truly
+
+  nasty
+
+  time
+
+  phrase
+
+  business
+
+  able'
+bip_39_word_new_line12: 'actor
+
+  favorite
+
+  loop
+
+  term
+
+  liquid
+
+  truly
+
+  nasty
+
+  time
+
+  phrase
+
+  business
+
+  able
+
+  alpha'
+bip_39_word_new_line2: 'actor
+
+  favorite'
+bip_39_word_new_line3: 'actor
+
+  favorite
+
+  loop'
+bip_39_word_new_line4: 'actor
+
+  favorite
+
+  loop
+
+  term'
+bip_39_word_new_line5: 'actor
+
+  favorite
+
+  loop
+
+  term
+
+  liquid'
+bip_39_word_new_line6: 'actor
+
+  favorite
+
+  loop
+
+  term
+
+  liquid
+
+  truly'
+bip_39_word_new_line7: 'actor
+
+  favorite
+
+  loop
+
+  term
+
+  liquid
+
+  truly
+
+  nasty'
+bip_39_word_new_line8: 'actor
+
+  favorite
+
+  loop
+
+  term
+
+  liquid
+
+  truly
+
+  nasty
+
+  time'
+bip_39_word_new_line9: 'actor
+
+  favorite
+
+  loop
+
+  term
+
+  liquid
+
+  truly
+
+  nasty
+
+  time
+
+  phrase'
+bip_39_word_space_0:
+- actor
+- favorite
+- loop
+- term
+- liquid
+- truly
+- nasty
+- time
+- phrase
+- business
+- able
+- alpha
+bip_39_word_space_1: actor
+bip_39_word_space_10: actor favorite loop term liquid truly nasty time phrase business
+bip_39_word_space_11: actor favorite loop term liquid truly nasty time phrase business
+  able
+bip_39_word_space_12: actor favorite loop term liquid truly nasty time phrase business
+  able alpha
+bip_39_word_space_2: actor favorite
+bip_39_word_space_3: actor favorite loop
+bip_39_word_space_4: actor favorite loop term
+bip_39_word_space_5: actor favorite loop term liquid
+bip_39_word_space_6: actor favorite loop term liquid truly
+bip_39_word_space_7: actor favorite loop term liquid truly nasty
+bip_39_word_space_8: actor favorite loop term liquid truly nasty time
+bip_39_word_space_9: actor favorite loop term liquid truly nasty time phrase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

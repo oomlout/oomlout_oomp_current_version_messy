@@ -1,3 +1,185 @@
+bip_39_word_new_br1: marble
+bip_39_word_new_br10: marble<br>corn<br>black<br>tiger<br>cube<br>dress<br>grass<br>young<br>filter<br>high
+bip_39_word_new_br11: marble<br>corn<br>black<br>tiger<br>cube<br>dress<br>grass<br>young<br>filter<br>high<br>more
+bip_39_word_new_br12: marble<br>corn<br>black<br>tiger<br>cube<br>dress<br>grass<br>young<br>filter<br>high<br>more<br>angle
+bip_39_word_new_br2: marble<br>corn
+bip_39_word_new_br3: marble<br>corn<br>black
+bip_39_word_new_br4: marble<br>corn<br>black<br>tiger
+bip_39_word_new_br5: marble<br>corn<br>black<br>tiger<br>cube
+bip_39_word_new_br6: marble<br>corn<br>black<br>tiger<br>cube<br>dress
+bip_39_word_new_br7: marble<br>corn<br>black<br>tiger<br>cube<br>dress<br>grass
+bip_39_word_new_br8: marble<br>corn<br>black<br>tiger<br>cube<br>dress<br>grass<br>young
+bip_39_word_new_br9: marble<br>corn<br>black<br>tiger<br>cube<br>dress<br>grass<br>young<br>filter
+bip_39_word_new_line1: marble
+bip_39_word_new_line10: 'marble
+
+  corn
+
+  black
+
+  tiger
+
+  cube
+
+  dress
+
+  grass
+
+  young
+
+  filter
+
+  high'
+bip_39_word_new_line11: 'marble
+
+  corn
+
+  black
+
+  tiger
+
+  cube
+
+  dress
+
+  grass
+
+  young
+
+  filter
+
+  high
+
+  more'
+bip_39_word_new_line12: 'marble
+
+  corn
+
+  black
+
+  tiger
+
+  cube
+
+  dress
+
+  grass
+
+  young
+
+  filter
+
+  high
+
+  more
+
+  angle'
+bip_39_word_new_line2: 'marble
+
+  corn'
+bip_39_word_new_line3: 'marble
+
+  corn
+
+  black'
+bip_39_word_new_line4: 'marble
+
+  corn
+
+  black
+
+  tiger'
+bip_39_word_new_line5: 'marble
+
+  corn
+
+  black
+
+  tiger
+
+  cube'
+bip_39_word_new_line6: 'marble
+
+  corn
+
+  black
+
+  tiger
+
+  cube
+
+  dress'
+bip_39_word_new_line7: 'marble
+
+  corn
+
+  black
+
+  tiger
+
+  cube
+
+  dress
+
+  grass'
+bip_39_word_new_line8: 'marble
+
+  corn
+
+  black
+
+  tiger
+
+  cube
+
+  dress
+
+  grass
+
+  young'
+bip_39_word_new_line9: 'marble
+
+  corn
+
+  black
+
+  tiger
+
+  cube
+
+  dress
+
+  grass
+
+  young
+
+  filter'
+bip_39_word_space_0:
+- marble
+- corn
+- black
+- tiger
+- cube
+- dress
+- grass
+- young
+- filter
+- high
+- more
+- angle
+bip_39_word_space_1: marble
+bip_39_word_space_10: marble corn black tiger cube dress grass young filter high
+bip_39_word_space_11: marble corn black tiger cube dress grass young filter high more
+bip_39_word_space_12: marble corn black tiger cube dress grass young filter high more
+  angle
+bip_39_word_space_2: marble corn
+bip_39_word_space_3: marble corn black
+bip_39_word_space_4: marble corn black tiger
+bip_39_word_space_5: marble corn black tiger cube
+bip_39_word_space_6: marble corn black tiger cube dress
+bip_39_word_space_7: marble corn black tiger cube dress grass
+bip_39_word_space_8: marble corn black tiger cube dress grass young
+bip_39_word_space_9: marble corn black tiger cube dress grass young filter
 classification: tool
 classification_capital: Tool
 classification_first_letter: t

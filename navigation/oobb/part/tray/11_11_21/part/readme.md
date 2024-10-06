@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: segment north
+  * bip 39 word 3: segment north people
+  * bip 39 word: segment north people blast link muffin mouse borrow dinner search illness alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | segment |  
+| bip_39_word_new_br10 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search |  
+| bip_39_word_new_br11 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search<br>illness |  
+| bip_39_word_new_br12 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner<br>search<br>illness<br>alarm |  
+| bip_39_word_new_br2 | segment<br>north |  
+| bip_39_word_new_br3 | segment<br>north<br>people |  
+| bip_39_word_new_br4 | segment<br>north<br>people<br>blast |  
+| bip_39_word_new_br5 | segment<br>north<br>people<br>blast<br>link |  
+| bip_39_word_new_br6 | segment<br>north<br>people<br>blast<br>link<br>muffin |  
+| bip_39_word_new_br7 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse |  
+| bip_39_word_new_br8 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow |  
+| bip_39_word_new_br9 | segment<br>north<br>people<br>blast<br>link<br>muffin<br>mouse<br>borrow<br>dinner |  
+| bip_39_word_new_line1 | segment |  
+| bip_39_word_new_line10 | segment
+north
+people
+blast
+link
+muffin
+mouse
+borrow
+dinner
+search |  
+| bip_39_word_new_line11 | segment
+north
+people
+blast
+link
+muffin
+mouse
+borrow
+dinner
+search
+illness |  
+| bip_39_word_new_line12 | segment
+north
+people
+blast
+link
+muffin
+mouse
+borrow
+dinner
+search
+illness
+alarm |  
+| bip_39_word_new_line2 | segment
+north |  
+| bip_39_word_new_line3 | segment
+north
+people |  
+| bip_39_word_new_line4 | segment
+north
+people
+blast |  
+| bip_39_word_new_line5 | segment
+north
+people
+blast
+link |  
+| bip_39_word_new_line6 | segment
+north
+people
+blast
+link
+muffin |  
+| bip_39_word_new_line7 | segment
+north
+people
+blast
+link
+muffin
+mouse |  
+| bip_39_word_new_line8 | segment
+north
+people
+blast
+link
+muffin
+mouse
+borrow |  
+| bip_39_word_new_line9 | segment
+north
+people
+blast
+link
+muffin
+mouse
+borrow
+dinner |  
+| bip_39_word_space_0 | ['segment', 'north', 'people', 'blast', 'link', 'muffin', 'mouse', 'borrow', 'dinner', 'search', 'illness', 'alarm'] |  
+| bip_39_word_space_1 | segment |  
+| bip_39_word_space_10 | segment north people blast link muffin mouse borrow dinner search |  
+| bip_39_word_space_11 | segment north people blast link muffin mouse borrow dinner search illness |  
+| bip_39_word_space_12 | segment north people blast link muffin mouse borrow dinner search illness alarm |  
+| bip_39_word_space_2 | segment north |  
+| bip_39_word_space_3 | segment north people |  
+| bip_39_word_space_4 | segment north people blast |  
+| bip_39_word_space_5 | segment north people blast link |  
+| bip_39_word_space_6 | segment north people blast link muffin |  
+| bip_39_word_space_7 | segment north people blast link muffin mouse |  
+| bip_39_word_space_8 | segment north people blast link muffin mouse borrow |  
+| bip_39_word_space_9 | segment north people blast link muffin mouse borrow dinner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

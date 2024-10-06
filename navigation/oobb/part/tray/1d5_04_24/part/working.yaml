@@ -1,3 +1,187 @@
+bip_39_word_new_br1: hour
+bip_39_word_new_br10: hour<br>birth<br>kitten<br>goose<br>antenna<br>embody<br>neither<br>attend<br>empower<br>elder
+bip_39_word_new_br11: hour<br>birth<br>kitten<br>goose<br>antenna<br>embody<br>neither<br>attend<br>empower<br>elder<br>settle
+bip_39_word_new_br12: hour<br>birth<br>kitten<br>goose<br>antenna<br>embody<br>neither<br>attend<br>empower<br>elder<br>settle<br>alien
+bip_39_word_new_br2: hour<br>birth
+bip_39_word_new_br3: hour<br>birth<br>kitten
+bip_39_word_new_br4: hour<br>birth<br>kitten<br>goose
+bip_39_word_new_br5: hour<br>birth<br>kitten<br>goose<br>antenna
+bip_39_word_new_br6: hour<br>birth<br>kitten<br>goose<br>antenna<br>embody
+bip_39_word_new_br7: hour<br>birth<br>kitten<br>goose<br>antenna<br>embody<br>neither
+bip_39_word_new_br8: hour<br>birth<br>kitten<br>goose<br>antenna<br>embody<br>neither<br>attend
+bip_39_word_new_br9: hour<br>birth<br>kitten<br>goose<br>antenna<br>embody<br>neither<br>attend<br>empower
+bip_39_word_new_line1: hour
+bip_39_word_new_line10: 'hour
+
+  birth
+
+  kitten
+
+  goose
+
+  antenna
+
+  embody
+
+  neither
+
+  attend
+
+  empower
+
+  elder'
+bip_39_word_new_line11: 'hour
+
+  birth
+
+  kitten
+
+  goose
+
+  antenna
+
+  embody
+
+  neither
+
+  attend
+
+  empower
+
+  elder
+
+  settle'
+bip_39_word_new_line12: 'hour
+
+  birth
+
+  kitten
+
+  goose
+
+  antenna
+
+  embody
+
+  neither
+
+  attend
+
+  empower
+
+  elder
+
+  settle
+
+  alien'
+bip_39_word_new_line2: 'hour
+
+  birth'
+bip_39_word_new_line3: 'hour
+
+  birth
+
+  kitten'
+bip_39_word_new_line4: 'hour
+
+  birth
+
+  kitten
+
+  goose'
+bip_39_word_new_line5: 'hour
+
+  birth
+
+  kitten
+
+  goose
+
+  antenna'
+bip_39_word_new_line6: 'hour
+
+  birth
+
+  kitten
+
+  goose
+
+  antenna
+
+  embody'
+bip_39_word_new_line7: 'hour
+
+  birth
+
+  kitten
+
+  goose
+
+  antenna
+
+  embody
+
+  neither'
+bip_39_word_new_line8: 'hour
+
+  birth
+
+  kitten
+
+  goose
+
+  antenna
+
+  embody
+
+  neither
+
+  attend'
+bip_39_word_new_line9: 'hour
+
+  birth
+
+  kitten
+
+  goose
+
+  antenna
+
+  embody
+
+  neither
+
+  attend
+
+  empower'
+bip_39_word_space_0:
+- hour
+- birth
+- kitten
+- goose
+- antenna
+- embody
+- neither
+- attend
+- empower
+- elder
+- settle
+- alien
+bip_39_word_space_1: hour
+bip_39_word_space_10: hour birth kitten goose antenna embody neither attend empower
+  elder
+bip_39_word_space_11: hour birth kitten goose antenna embody neither attend empower
+  elder settle
+bip_39_word_space_12: hour birth kitten goose antenna embody neither attend empower
+  elder settle alien
+bip_39_word_space_2: hour birth
+bip_39_word_space_3: hour birth kitten
+bip_39_word_space_4: hour birth kitten goose
+bip_39_word_space_5: hour birth kitten goose antenna
+bip_39_word_space_6: hour birth kitten goose antenna embody
+bip_39_word_space_7: hour birth kitten goose antenna embody neither
+bip_39_word_space_8: hour birth kitten goose antenna embody neither attend
+bip_39_word_space_9: hour birth kitten goose antenna embody neither attend empower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

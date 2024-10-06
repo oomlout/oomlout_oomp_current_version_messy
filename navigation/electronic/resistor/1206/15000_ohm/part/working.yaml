@@ -1,3 +1,187 @@
+bip_39_word_new_br1: boss
+bip_39_word_new_br10: boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward
+bip_39_word_new_br11: boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward<br>east
+bip_39_word_new_br12: boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render<br>reward<br>east<br>another
+bip_39_word_new_br2: boss<br>laundry
+bip_39_word_new_br3: boss<br>laundry<br>vibrant
+bip_39_word_new_br4: boss<br>laundry<br>vibrant<br>gossip
+bip_39_word_new_br5: boss<br>laundry<br>vibrant<br>gossip<br>odor
+bip_39_word_new_br6: boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread
+bip_39_word_new_br7: boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie
+bip_39_word_new_br8: boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge
+bip_39_word_new_br9: boss<br>laundry<br>vibrant<br>gossip<br>odor<br>spread<br>rookie<br>judge<br>render
+bip_39_word_new_line1: boss
+bip_39_word_new_line10: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip
+
+  odor
+
+  spread
+
+  rookie
+
+  judge
+
+  render
+
+  reward'
+bip_39_word_new_line11: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip
+
+  odor
+
+  spread
+
+  rookie
+
+  judge
+
+  render
+
+  reward
+
+  east'
+bip_39_word_new_line12: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip
+
+  odor
+
+  spread
+
+  rookie
+
+  judge
+
+  render
+
+  reward
+
+  east
+
+  another'
+bip_39_word_new_line2: 'boss
+
+  laundry'
+bip_39_word_new_line3: 'boss
+
+  laundry
+
+  vibrant'
+bip_39_word_new_line4: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip'
+bip_39_word_new_line5: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip
+
+  odor'
+bip_39_word_new_line6: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip
+
+  odor
+
+  spread'
+bip_39_word_new_line7: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip
+
+  odor
+
+  spread
+
+  rookie'
+bip_39_word_new_line8: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip
+
+  odor
+
+  spread
+
+  rookie
+
+  judge'
+bip_39_word_new_line9: 'boss
+
+  laundry
+
+  vibrant
+
+  gossip
+
+  odor
+
+  spread
+
+  rookie
+
+  judge
+
+  render'
+bip_39_word_space_0:
+- boss
+- laundry
+- vibrant
+- gossip
+- odor
+- spread
+- rookie
+- judge
+- render
+- reward
+- east
+- another
+bip_39_word_space_1: boss
+bip_39_word_space_10: boss laundry vibrant gossip odor spread rookie judge render
+  reward
+bip_39_word_space_11: boss laundry vibrant gossip odor spread rookie judge render
+  reward east
+bip_39_word_space_12: boss laundry vibrant gossip odor spread rookie judge render
+  reward east another
+bip_39_word_space_2: boss laundry
+bip_39_word_space_3: boss laundry vibrant
+bip_39_word_space_4: boss laundry vibrant gossip
+bip_39_word_space_5: boss laundry vibrant gossip odor
+bip_39_word_space_6: boss laundry vibrant gossip odor spread
+bip_39_word_space_7: boss laundry vibrant gossip odor spread rookie
+bip_39_word_space_8: boss laundry vibrant gossip odor spread rookie judge
+bip_39_word_space_9: boss laundry vibrant gossip odor spread rookie judge render
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

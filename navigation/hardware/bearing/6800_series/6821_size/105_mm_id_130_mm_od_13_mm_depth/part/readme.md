@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spell winter
+  * bip 39 word 3: spell winter ocean
+  * bip 39 word: spell winter ocean assault use security chalk zoo jeans program flock angry
 
 ### other_codes
 * short_code: br6821
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spell |  
+| bip_39_word_new_br10 | spell<br>winter<br>ocean<br>assault<br>use<br>security<br>chalk<br>zoo<br>jeans<br>program |  
+| bip_39_word_new_br11 | spell<br>winter<br>ocean<br>assault<br>use<br>security<br>chalk<br>zoo<br>jeans<br>program<br>flock |  
+| bip_39_word_new_br12 | spell<br>winter<br>ocean<br>assault<br>use<br>security<br>chalk<br>zoo<br>jeans<br>program<br>flock<br>angry |  
+| bip_39_word_new_br2 | spell<br>winter |  
+| bip_39_word_new_br3 | spell<br>winter<br>ocean |  
+| bip_39_word_new_br4 | spell<br>winter<br>ocean<br>assault |  
+| bip_39_word_new_br5 | spell<br>winter<br>ocean<br>assault<br>use |  
+| bip_39_word_new_br6 | spell<br>winter<br>ocean<br>assault<br>use<br>security |  
+| bip_39_word_new_br7 | spell<br>winter<br>ocean<br>assault<br>use<br>security<br>chalk |  
+| bip_39_word_new_br8 | spell<br>winter<br>ocean<br>assault<br>use<br>security<br>chalk<br>zoo |  
+| bip_39_word_new_br9 | spell<br>winter<br>ocean<br>assault<br>use<br>security<br>chalk<br>zoo<br>jeans |  
+| bip_39_word_new_line1 | spell |  
+| bip_39_word_new_line10 | spell
+winter
+ocean
+assault
+use
+security
+chalk
+zoo
+jeans
+program |  
+| bip_39_word_new_line11 | spell
+winter
+ocean
+assault
+use
+security
+chalk
+zoo
+jeans
+program
+flock |  
+| bip_39_word_new_line12 | spell
+winter
+ocean
+assault
+use
+security
+chalk
+zoo
+jeans
+program
+flock
+angry |  
+| bip_39_word_new_line2 | spell
+winter |  
+| bip_39_word_new_line3 | spell
+winter
+ocean |  
+| bip_39_word_new_line4 | spell
+winter
+ocean
+assault |  
+| bip_39_word_new_line5 | spell
+winter
+ocean
+assault
+use |  
+| bip_39_word_new_line6 | spell
+winter
+ocean
+assault
+use
+security |  
+| bip_39_word_new_line7 | spell
+winter
+ocean
+assault
+use
+security
+chalk |  
+| bip_39_word_new_line8 | spell
+winter
+ocean
+assault
+use
+security
+chalk
+zoo |  
+| bip_39_word_new_line9 | spell
+winter
+ocean
+assault
+use
+security
+chalk
+zoo
+jeans |  
+| bip_39_word_space_0 | ['spell', 'winter', 'ocean', 'assault', 'use', 'security', 'chalk', 'zoo', 'jeans', 'program', 'flock', 'angry'] |  
+| bip_39_word_space_1 | spell |  
+| bip_39_word_space_10 | spell winter ocean assault use security chalk zoo jeans program |  
+| bip_39_word_space_11 | spell winter ocean assault use security chalk zoo jeans program flock |  
+| bip_39_word_space_12 | spell winter ocean assault use security chalk zoo jeans program flock angry |  
+| bip_39_word_space_2 | spell winter |  
+| bip_39_word_space_3 | spell winter ocean |  
+| bip_39_word_space_4 | spell winter ocean assault |  
+| bip_39_word_space_5 | spell winter ocean assault use |  
+| bip_39_word_space_6 | spell winter ocean assault use security |  
+| bip_39_word_space_7 | spell winter ocean assault use security chalk |  
+| bip_39_word_space_8 | spell winter ocean assault use security chalk zoo |  
+| bip_39_word_space_9 | spell winter ocean assault use security chalk zoo jeans |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

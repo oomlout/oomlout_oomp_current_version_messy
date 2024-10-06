@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: author gloom
+  * bip 39 word 3: author gloom sleep
+  * bip 39 word: author gloom sleep pitch load fortune gospel fabric alley owner bronze anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | author |  
+| bip_39_word_new_br10 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune<br>gospel<br>fabric<br>alley<br>owner |  
+| bip_39_word_new_br11 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune<br>gospel<br>fabric<br>alley<br>owner<br>bronze |  
+| bip_39_word_new_br12 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune<br>gospel<br>fabric<br>alley<br>owner<br>bronze<br>anchor |  
+| bip_39_word_new_br2 | author<br>gloom |  
+| bip_39_word_new_br3 | author<br>gloom<br>sleep |  
+| bip_39_word_new_br4 | author<br>gloom<br>sleep<br>pitch |  
+| bip_39_word_new_br5 | author<br>gloom<br>sleep<br>pitch<br>load |  
+| bip_39_word_new_br6 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune |  
+| bip_39_word_new_br7 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune<br>gospel |  
+| bip_39_word_new_br8 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune<br>gospel<br>fabric |  
+| bip_39_word_new_br9 | author<br>gloom<br>sleep<br>pitch<br>load<br>fortune<br>gospel<br>fabric<br>alley |  
+| bip_39_word_new_line1 | author |  
+| bip_39_word_new_line10 | author
+gloom
+sleep
+pitch
+load
+fortune
+gospel
+fabric
+alley
+owner |  
+| bip_39_word_new_line11 | author
+gloom
+sleep
+pitch
+load
+fortune
+gospel
+fabric
+alley
+owner
+bronze |  
+| bip_39_word_new_line12 | author
+gloom
+sleep
+pitch
+load
+fortune
+gospel
+fabric
+alley
+owner
+bronze
+anchor |  
+| bip_39_word_new_line2 | author
+gloom |  
+| bip_39_word_new_line3 | author
+gloom
+sleep |  
+| bip_39_word_new_line4 | author
+gloom
+sleep
+pitch |  
+| bip_39_word_new_line5 | author
+gloom
+sleep
+pitch
+load |  
+| bip_39_word_new_line6 | author
+gloom
+sleep
+pitch
+load
+fortune |  
+| bip_39_word_new_line7 | author
+gloom
+sleep
+pitch
+load
+fortune
+gospel |  
+| bip_39_word_new_line8 | author
+gloom
+sleep
+pitch
+load
+fortune
+gospel
+fabric |  
+| bip_39_word_new_line9 | author
+gloom
+sleep
+pitch
+load
+fortune
+gospel
+fabric
+alley |  
+| bip_39_word_space_0 | ['author', 'gloom', 'sleep', 'pitch', 'load', 'fortune', 'gospel', 'fabric', 'alley', 'owner', 'bronze', 'anchor'] |  
+| bip_39_word_space_1 | author |  
+| bip_39_word_space_10 | author gloom sleep pitch load fortune gospel fabric alley owner |  
+| bip_39_word_space_11 | author gloom sleep pitch load fortune gospel fabric alley owner bronze |  
+| bip_39_word_space_12 | author gloom sleep pitch load fortune gospel fabric alley owner bronze anchor |  
+| bip_39_word_space_2 | author gloom |  
+| bip_39_word_space_3 | author gloom sleep |  
+| bip_39_word_space_4 | author gloom sleep pitch |  
+| bip_39_word_space_5 | author gloom sleep pitch load |  
+| bip_39_word_space_6 | author gloom sleep pitch load fortune |  
+| bip_39_word_space_7 | author gloom sleep pitch load fortune gospel |  
+| bip_39_word_space_8 | author gloom sleep pitch load fortune gospel fabric |  
+| bip_39_word_space_9 | author gloom sleep pitch load fortune gospel fabric alley |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

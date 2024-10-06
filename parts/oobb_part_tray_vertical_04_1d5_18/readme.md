@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: edit appear
+  * bip 39 word 3: edit appear trumpet
+  * bip 39 word: edit appear trumpet acquire capital skate foil catalog solid gather day asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | edit |  
+| bip_39_word_new_br10 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather |  
+| bip_39_word_new_br11 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather<br>day |  
+| bip_39_word_new_br12 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid<br>gather<br>day<br>asthma |  
+| bip_39_word_new_br2 | edit<br>appear |  
+| bip_39_word_new_br3 | edit<br>appear<br>trumpet |  
+| bip_39_word_new_br4 | edit<br>appear<br>trumpet<br>acquire |  
+| bip_39_word_new_br5 | edit<br>appear<br>trumpet<br>acquire<br>capital |  
+| bip_39_word_new_br6 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate |  
+| bip_39_word_new_br7 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil |  
+| bip_39_word_new_br8 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog |  
+| bip_39_word_new_br9 | edit<br>appear<br>trumpet<br>acquire<br>capital<br>skate<br>foil<br>catalog<br>solid |  
+| bip_39_word_new_line1 | edit |  
+| bip_39_word_new_line10 | edit
+appear
+trumpet
+acquire
+capital
+skate
+foil
+catalog
+solid
+gather |  
+| bip_39_word_new_line11 | edit
+appear
+trumpet
+acquire
+capital
+skate
+foil
+catalog
+solid
+gather
+day |  
+| bip_39_word_new_line12 | edit
+appear
+trumpet
+acquire
+capital
+skate
+foil
+catalog
+solid
+gather
+day
+asthma |  
+| bip_39_word_new_line2 | edit
+appear |  
+| bip_39_word_new_line3 | edit
+appear
+trumpet |  
+| bip_39_word_new_line4 | edit
+appear
+trumpet
+acquire |  
+| bip_39_word_new_line5 | edit
+appear
+trumpet
+acquire
+capital |  
+| bip_39_word_new_line6 | edit
+appear
+trumpet
+acquire
+capital
+skate |  
+| bip_39_word_new_line7 | edit
+appear
+trumpet
+acquire
+capital
+skate
+foil |  
+| bip_39_word_new_line8 | edit
+appear
+trumpet
+acquire
+capital
+skate
+foil
+catalog |  
+| bip_39_word_new_line9 | edit
+appear
+trumpet
+acquire
+capital
+skate
+foil
+catalog
+solid |  
+| bip_39_word_space_0 | ['edit', 'appear', 'trumpet', 'acquire', 'capital', 'skate', 'foil', 'catalog', 'solid', 'gather', 'day', 'asthma'] |  
+| bip_39_word_space_1 | edit |  
+| bip_39_word_space_10 | edit appear trumpet acquire capital skate foil catalog solid gather |  
+| bip_39_word_space_11 | edit appear trumpet acquire capital skate foil catalog solid gather day |  
+| bip_39_word_space_12 | edit appear trumpet acquire capital skate foil catalog solid gather day asthma |  
+| bip_39_word_space_2 | edit appear |  
+| bip_39_word_space_3 | edit appear trumpet |  
+| bip_39_word_space_4 | edit appear trumpet acquire |  
+| bip_39_word_space_5 | edit appear trumpet acquire capital |  
+| bip_39_word_space_6 | edit appear trumpet acquire capital skate |  
+| bip_39_word_space_7 | edit appear trumpet acquire capital skate foil |  
+| bip_39_word_space_8 | edit appear trumpet acquire capital skate foil catalog |  
+| bip_39_word_space_9 | edit appear trumpet acquire capital skate foil catalog solid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

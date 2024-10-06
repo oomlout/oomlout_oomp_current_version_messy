@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ramp
+bip_39_word_new_br10: ramp<br>round<br>harbor<br>one<br>patient<br>bar<br>middle<br>tonight<br>pitch<br>visual
+bip_39_word_new_br11: ramp<br>round<br>harbor<br>one<br>patient<br>bar<br>middle<br>tonight<br>pitch<br>visual<br>chase
+bip_39_word_new_br12: ramp<br>round<br>harbor<br>one<br>patient<br>bar<br>middle<br>tonight<br>pitch<br>visual<br>chase<br>alpha
+bip_39_word_new_br2: ramp<br>round
+bip_39_word_new_br3: ramp<br>round<br>harbor
+bip_39_word_new_br4: ramp<br>round<br>harbor<br>one
+bip_39_word_new_br5: ramp<br>round<br>harbor<br>one<br>patient
+bip_39_word_new_br6: ramp<br>round<br>harbor<br>one<br>patient<br>bar
+bip_39_word_new_br7: ramp<br>round<br>harbor<br>one<br>patient<br>bar<br>middle
+bip_39_word_new_br8: ramp<br>round<br>harbor<br>one<br>patient<br>bar<br>middle<br>tonight
+bip_39_word_new_br9: ramp<br>round<br>harbor<br>one<br>patient<br>bar<br>middle<br>tonight<br>pitch
+bip_39_word_new_line1: ramp
+bip_39_word_new_line10: 'ramp
+
+  round
+
+  harbor
+
+  one
+
+  patient
+
+  bar
+
+  middle
+
+  tonight
+
+  pitch
+
+  visual'
+bip_39_word_new_line11: 'ramp
+
+  round
+
+  harbor
+
+  one
+
+  patient
+
+  bar
+
+  middle
+
+  tonight
+
+  pitch
+
+  visual
+
+  chase'
+bip_39_word_new_line12: 'ramp
+
+  round
+
+  harbor
+
+  one
+
+  patient
+
+  bar
+
+  middle
+
+  tonight
+
+  pitch
+
+  visual
+
+  chase
+
+  alpha'
+bip_39_word_new_line2: 'ramp
+
+  round'
+bip_39_word_new_line3: 'ramp
+
+  round
+
+  harbor'
+bip_39_word_new_line4: 'ramp
+
+  round
+
+  harbor
+
+  one'
+bip_39_word_new_line5: 'ramp
+
+  round
+
+  harbor
+
+  one
+
+  patient'
+bip_39_word_new_line6: 'ramp
+
+  round
+
+  harbor
+
+  one
+
+  patient
+
+  bar'
+bip_39_word_new_line7: 'ramp
+
+  round
+
+  harbor
+
+  one
+
+  patient
+
+  bar
+
+  middle'
+bip_39_word_new_line8: 'ramp
+
+  round
+
+  harbor
+
+  one
+
+  patient
+
+  bar
+
+  middle
+
+  tonight'
+bip_39_word_new_line9: 'ramp
+
+  round
+
+  harbor
+
+  one
+
+  patient
+
+  bar
+
+  middle
+
+  tonight
+
+  pitch'
+bip_39_word_space_0:
+- ramp
+- round
+- harbor
+- one
+- patient
+- bar
+- middle
+- tonight
+- pitch
+- visual
+- chase
+- alpha
+bip_39_word_space_1: ramp
+bip_39_word_space_10: ramp round harbor one patient bar middle tonight pitch visual
+bip_39_word_space_11: ramp round harbor one patient bar middle tonight pitch visual
+  chase
+bip_39_word_space_12: ramp round harbor one patient bar middle tonight pitch visual
+  chase alpha
+bip_39_word_space_2: ramp round
+bip_39_word_space_3: ramp round harbor
+bip_39_word_space_4: ramp round harbor one
+bip_39_word_space_5: ramp round harbor one patient
+bip_39_word_space_6: ramp round harbor one patient bar
+bip_39_word_space_7: ramp round harbor one patient bar middle
+bip_39_word_space_8: ramp round harbor one patient bar middle tonight
+bip_39_word_space_9: ramp round harbor one patient bar middle tonight pitch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

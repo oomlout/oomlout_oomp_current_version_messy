@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: upset april
+  * bip 39 word 3: upset april ginger
+  * bip 39 word: upset april ginger mountain employ choose image indicate hurdle work element auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | upset |  
+| bip_39_word_new_br10 | upset<br>april<br>ginger<br>mountain<br>employ<br>choose<br>image<br>indicate<br>hurdle<br>work |  
+| bip_39_word_new_br11 | upset<br>april<br>ginger<br>mountain<br>employ<br>choose<br>image<br>indicate<br>hurdle<br>work<br>element |  
+| bip_39_word_new_br12 | upset<br>april<br>ginger<br>mountain<br>employ<br>choose<br>image<br>indicate<br>hurdle<br>work<br>element<br>auto |  
+| bip_39_word_new_br2 | upset<br>april |  
+| bip_39_word_new_br3 | upset<br>april<br>ginger |  
+| bip_39_word_new_br4 | upset<br>april<br>ginger<br>mountain |  
+| bip_39_word_new_br5 | upset<br>april<br>ginger<br>mountain<br>employ |  
+| bip_39_word_new_br6 | upset<br>april<br>ginger<br>mountain<br>employ<br>choose |  
+| bip_39_word_new_br7 | upset<br>april<br>ginger<br>mountain<br>employ<br>choose<br>image |  
+| bip_39_word_new_br8 | upset<br>april<br>ginger<br>mountain<br>employ<br>choose<br>image<br>indicate |  
+| bip_39_word_new_br9 | upset<br>april<br>ginger<br>mountain<br>employ<br>choose<br>image<br>indicate<br>hurdle |  
+| bip_39_word_new_line1 | upset |  
+| bip_39_word_new_line10 | upset
+april
+ginger
+mountain
+employ
+choose
+image
+indicate
+hurdle
+work |  
+| bip_39_word_new_line11 | upset
+april
+ginger
+mountain
+employ
+choose
+image
+indicate
+hurdle
+work
+element |  
+| bip_39_word_new_line12 | upset
+april
+ginger
+mountain
+employ
+choose
+image
+indicate
+hurdle
+work
+element
+auto |  
+| bip_39_word_new_line2 | upset
+april |  
+| bip_39_word_new_line3 | upset
+april
+ginger |  
+| bip_39_word_new_line4 | upset
+april
+ginger
+mountain |  
+| bip_39_word_new_line5 | upset
+april
+ginger
+mountain
+employ |  
+| bip_39_word_new_line6 | upset
+april
+ginger
+mountain
+employ
+choose |  
+| bip_39_word_new_line7 | upset
+april
+ginger
+mountain
+employ
+choose
+image |  
+| bip_39_word_new_line8 | upset
+april
+ginger
+mountain
+employ
+choose
+image
+indicate |  
+| bip_39_word_new_line9 | upset
+april
+ginger
+mountain
+employ
+choose
+image
+indicate
+hurdle |  
+| bip_39_word_space_0 | ['upset', 'april', 'ginger', 'mountain', 'employ', 'choose', 'image', 'indicate', 'hurdle', 'work', 'element', 'auto'] |  
+| bip_39_word_space_1 | upset |  
+| bip_39_word_space_10 | upset april ginger mountain employ choose image indicate hurdle work |  
+| bip_39_word_space_11 | upset april ginger mountain employ choose image indicate hurdle work element |  
+| bip_39_word_space_12 | upset april ginger mountain employ choose image indicate hurdle work element auto |  
+| bip_39_word_space_2 | upset april |  
+| bip_39_word_space_3 | upset april ginger |  
+| bip_39_word_space_4 | upset april ginger mountain |  
+| bip_39_word_space_5 | upset april ginger mountain employ |  
+| bip_39_word_space_6 | upset april ginger mountain employ choose |  
+| bip_39_word_space_7 | upset april ginger mountain employ choose image |  
+| bip_39_word_space_8 | upset april ginger mountain employ choose image indicate |  
+| bip_39_word_space_9 | upset april ginger mountain employ choose image indicate hurdle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

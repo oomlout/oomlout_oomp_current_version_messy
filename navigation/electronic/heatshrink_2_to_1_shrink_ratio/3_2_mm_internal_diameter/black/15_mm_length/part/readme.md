@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ignore field
+  * bip 39 word 3: ignore field bid
+  * bip 39 word: ignore field bid allow bunker harbor theme middle result affair fence around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ignore |  
+| bip_39_word_new_br10 | ignore<br>field<br>bid<br>allow<br>bunker<br>harbor<br>theme<br>middle<br>result<br>affair |  
+| bip_39_word_new_br11 | ignore<br>field<br>bid<br>allow<br>bunker<br>harbor<br>theme<br>middle<br>result<br>affair<br>fence |  
+| bip_39_word_new_br12 | ignore<br>field<br>bid<br>allow<br>bunker<br>harbor<br>theme<br>middle<br>result<br>affair<br>fence<br>around |  
+| bip_39_word_new_br2 | ignore<br>field |  
+| bip_39_word_new_br3 | ignore<br>field<br>bid |  
+| bip_39_word_new_br4 | ignore<br>field<br>bid<br>allow |  
+| bip_39_word_new_br5 | ignore<br>field<br>bid<br>allow<br>bunker |  
+| bip_39_word_new_br6 | ignore<br>field<br>bid<br>allow<br>bunker<br>harbor |  
+| bip_39_word_new_br7 | ignore<br>field<br>bid<br>allow<br>bunker<br>harbor<br>theme |  
+| bip_39_word_new_br8 | ignore<br>field<br>bid<br>allow<br>bunker<br>harbor<br>theme<br>middle |  
+| bip_39_word_new_br9 | ignore<br>field<br>bid<br>allow<br>bunker<br>harbor<br>theme<br>middle<br>result |  
+| bip_39_word_new_line1 | ignore |  
+| bip_39_word_new_line10 | ignore
+field
+bid
+allow
+bunker
+harbor
+theme
+middle
+result
+affair |  
+| bip_39_word_new_line11 | ignore
+field
+bid
+allow
+bunker
+harbor
+theme
+middle
+result
+affair
+fence |  
+| bip_39_word_new_line12 | ignore
+field
+bid
+allow
+bunker
+harbor
+theme
+middle
+result
+affair
+fence
+around |  
+| bip_39_word_new_line2 | ignore
+field |  
+| bip_39_word_new_line3 | ignore
+field
+bid |  
+| bip_39_word_new_line4 | ignore
+field
+bid
+allow |  
+| bip_39_word_new_line5 | ignore
+field
+bid
+allow
+bunker |  
+| bip_39_word_new_line6 | ignore
+field
+bid
+allow
+bunker
+harbor |  
+| bip_39_word_new_line7 | ignore
+field
+bid
+allow
+bunker
+harbor
+theme |  
+| bip_39_word_new_line8 | ignore
+field
+bid
+allow
+bunker
+harbor
+theme
+middle |  
+| bip_39_word_new_line9 | ignore
+field
+bid
+allow
+bunker
+harbor
+theme
+middle
+result |  
+| bip_39_word_space_0 | ['ignore', 'field', 'bid', 'allow', 'bunker', 'harbor', 'theme', 'middle', 'result', 'affair', 'fence', 'around'] |  
+| bip_39_word_space_1 | ignore |  
+| bip_39_word_space_10 | ignore field bid allow bunker harbor theme middle result affair |  
+| bip_39_word_space_11 | ignore field bid allow bunker harbor theme middle result affair fence |  
+| bip_39_word_space_12 | ignore field bid allow bunker harbor theme middle result affair fence around |  
+| bip_39_word_space_2 | ignore field |  
+| bip_39_word_space_3 | ignore field bid |  
+| bip_39_word_space_4 | ignore field bid allow |  
+| bip_39_word_space_5 | ignore field bid allow bunker |  
+| bip_39_word_space_6 | ignore field bid allow bunker harbor |  
+| bip_39_word_space_7 | ignore field bid allow bunker harbor theme |  
+| bip_39_word_space_8 | ignore field bid allow bunker harbor theme middle |  
+| bip_39_word_space_9 | ignore field bid allow bunker harbor theme middle result |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

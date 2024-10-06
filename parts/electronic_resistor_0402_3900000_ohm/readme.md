@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mouse tennis
+  * bip 39 word 3: mouse tennis own
+  * bip 39 word: mouse tennis own car glimpse volcano possible reason wood tragic pottery abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mouse |  
+| bip_39_word_new_br10 | mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano<br>possible<br>reason<br>wood<br>tragic |  
+| bip_39_word_new_br11 | mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano<br>possible<br>reason<br>wood<br>tragic<br>pottery |  
+| bip_39_word_new_br12 | mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano<br>possible<br>reason<br>wood<br>tragic<br>pottery<br>abuse |  
+| bip_39_word_new_br2 | mouse<br>tennis |  
+| bip_39_word_new_br3 | mouse<br>tennis<br>own |  
+| bip_39_word_new_br4 | mouse<br>tennis<br>own<br>car |  
+| bip_39_word_new_br5 | mouse<br>tennis<br>own<br>car<br>glimpse |  
+| bip_39_word_new_br6 | mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano |  
+| bip_39_word_new_br7 | mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano<br>possible |  
+| bip_39_word_new_br8 | mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano<br>possible<br>reason |  
+| bip_39_word_new_br9 | mouse<br>tennis<br>own<br>car<br>glimpse<br>volcano<br>possible<br>reason<br>wood |  
+| bip_39_word_new_line1 | mouse |  
+| bip_39_word_new_line10 | mouse
+tennis
+own
+car
+glimpse
+volcano
+possible
+reason
+wood
+tragic |  
+| bip_39_word_new_line11 | mouse
+tennis
+own
+car
+glimpse
+volcano
+possible
+reason
+wood
+tragic
+pottery |  
+| bip_39_word_new_line12 | mouse
+tennis
+own
+car
+glimpse
+volcano
+possible
+reason
+wood
+tragic
+pottery
+abuse |  
+| bip_39_word_new_line2 | mouse
+tennis |  
+| bip_39_word_new_line3 | mouse
+tennis
+own |  
+| bip_39_word_new_line4 | mouse
+tennis
+own
+car |  
+| bip_39_word_new_line5 | mouse
+tennis
+own
+car
+glimpse |  
+| bip_39_word_new_line6 | mouse
+tennis
+own
+car
+glimpse
+volcano |  
+| bip_39_word_new_line7 | mouse
+tennis
+own
+car
+glimpse
+volcano
+possible |  
+| bip_39_word_new_line8 | mouse
+tennis
+own
+car
+glimpse
+volcano
+possible
+reason |  
+| bip_39_word_new_line9 | mouse
+tennis
+own
+car
+glimpse
+volcano
+possible
+reason
+wood |  
+| bip_39_word_space_0 | ['mouse', 'tennis', 'own', 'car', 'glimpse', 'volcano', 'possible', 'reason', 'wood', 'tragic', 'pottery', 'abuse'] |  
+| bip_39_word_space_1 | mouse |  
+| bip_39_word_space_10 | mouse tennis own car glimpse volcano possible reason wood tragic |  
+| bip_39_word_space_11 | mouse tennis own car glimpse volcano possible reason wood tragic pottery |  
+| bip_39_word_space_12 | mouse tennis own car glimpse volcano possible reason wood tragic pottery abuse |  
+| bip_39_word_space_2 | mouse tennis |  
+| bip_39_word_space_3 | mouse tennis own |  
+| bip_39_word_space_4 | mouse tennis own car |  
+| bip_39_word_space_5 | mouse tennis own car glimpse |  
+| bip_39_word_space_6 | mouse tennis own car glimpse volcano |  
+| bip_39_word_space_7 | mouse tennis own car glimpse volcano possible |  
+| bip_39_word_space_8 | mouse tennis own car glimpse volcano possible reason |  
+| bip_39_word_space_9 | mouse tennis own car glimpse volcano possible reason wood |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

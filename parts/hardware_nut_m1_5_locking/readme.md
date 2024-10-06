@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: left mountain
+  * bip 39 word 3: left mountain top
+  * bip 39 word: left mountain top evoke sort wash cannon uncle satoshi unaware crew already
 
 ### other_codes
 * short_code: n1d5mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | left |  
+| bip_39_word_new_br10 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware |  
+| bip_39_word_new_br11 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware<br>crew |  
+| bip_39_word_new_br12 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi<br>unaware<br>crew<br>already |  
+| bip_39_word_new_br2 | left<br>mountain |  
+| bip_39_word_new_br3 | left<br>mountain<br>top |  
+| bip_39_word_new_br4 | left<br>mountain<br>top<br>evoke |  
+| bip_39_word_new_br5 | left<br>mountain<br>top<br>evoke<br>sort |  
+| bip_39_word_new_br6 | left<br>mountain<br>top<br>evoke<br>sort<br>wash |  
+| bip_39_word_new_br7 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon |  
+| bip_39_word_new_br8 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle |  
+| bip_39_word_new_br9 | left<br>mountain<br>top<br>evoke<br>sort<br>wash<br>cannon<br>uncle<br>satoshi |  
+| bip_39_word_new_line1 | left |  
+| bip_39_word_new_line10 | left
+mountain
+top
+evoke
+sort
+wash
+cannon
+uncle
+satoshi
+unaware |  
+| bip_39_word_new_line11 | left
+mountain
+top
+evoke
+sort
+wash
+cannon
+uncle
+satoshi
+unaware
+crew |  
+| bip_39_word_new_line12 | left
+mountain
+top
+evoke
+sort
+wash
+cannon
+uncle
+satoshi
+unaware
+crew
+already |  
+| bip_39_word_new_line2 | left
+mountain |  
+| bip_39_word_new_line3 | left
+mountain
+top |  
+| bip_39_word_new_line4 | left
+mountain
+top
+evoke |  
+| bip_39_word_new_line5 | left
+mountain
+top
+evoke
+sort |  
+| bip_39_word_new_line6 | left
+mountain
+top
+evoke
+sort
+wash |  
+| bip_39_word_new_line7 | left
+mountain
+top
+evoke
+sort
+wash
+cannon |  
+| bip_39_word_new_line8 | left
+mountain
+top
+evoke
+sort
+wash
+cannon
+uncle |  
+| bip_39_word_new_line9 | left
+mountain
+top
+evoke
+sort
+wash
+cannon
+uncle
+satoshi |  
+| bip_39_word_space_0 | ['left', 'mountain', 'top', 'evoke', 'sort', 'wash', 'cannon', 'uncle', 'satoshi', 'unaware', 'crew', 'already'] |  
+| bip_39_word_space_1 | left |  
+| bip_39_word_space_10 | left mountain top evoke sort wash cannon uncle satoshi unaware |  
+| bip_39_word_space_11 | left mountain top evoke sort wash cannon uncle satoshi unaware crew |  
+| bip_39_word_space_12 | left mountain top evoke sort wash cannon uncle satoshi unaware crew already |  
+| bip_39_word_space_2 | left mountain |  
+| bip_39_word_space_3 | left mountain top |  
+| bip_39_word_space_4 | left mountain top evoke |  
+| bip_39_word_space_5 | left mountain top evoke sort |  
+| bip_39_word_space_6 | left mountain top evoke sort wash |  
+| bip_39_word_space_7 | left mountain top evoke sort wash cannon |  
+| bip_39_word_space_8 | left mountain top evoke sort wash cannon uncle |  
+| bip_39_word_space_9 | left mountain top evoke sort wash cannon uncle satoshi |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

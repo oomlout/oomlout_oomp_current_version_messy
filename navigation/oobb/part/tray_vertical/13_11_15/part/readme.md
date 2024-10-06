@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: squirrel before
+  * bip 39 word 3: squirrel before alter
+  * bip 39 word: squirrel before alter process net wheel order alone mother neutral deny august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | squirrel |  
+| bip_39_word_new_br10 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral |  
+| bip_39_word_new_br11 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral<br>deny |  
+| bip_39_word_new_br12 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother<br>neutral<br>deny<br>august |  
+| bip_39_word_new_br2 | squirrel<br>before |  
+| bip_39_word_new_br3 | squirrel<br>before<br>alter |  
+| bip_39_word_new_br4 | squirrel<br>before<br>alter<br>process |  
+| bip_39_word_new_br5 | squirrel<br>before<br>alter<br>process<br>net |  
+| bip_39_word_new_br6 | squirrel<br>before<br>alter<br>process<br>net<br>wheel |  
+| bip_39_word_new_br7 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order |  
+| bip_39_word_new_br8 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone |  
+| bip_39_word_new_br9 | squirrel<br>before<br>alter<br>process<br>net<br>wheel<br>order<br>alone<br>mother |  
+| bip_39_word_new_line1 | squirrel |  
+| bip_39_word_new_line10 | squirrel
+before
+alter
+process
+net
+wheel
+order
+alone
+mother
+neutral |  
+| bip_39_word_new_line11 | squirrel
+before
+alter
+process
+net
+wheel
+order
+alone
+mother
+neutral
+deny |  
+| bip_39_word_new_line12 | squirrel
+before
+alter
+process
+net
+wheel
+order
+alone
+mother
+neutral
+deny
+august |  
+| bip_39_word_new_line2 | squirrel
+before |  
+| bip_39_word_new_line3 | squirrel
+before
+alter |  
+| bip_39_word_new_line4 | squirrel
+before
+alter
+process |  
+| bip_39_word_new_line5 | squirrel
+before
+alter
+process
+net |  
+| bip_39_word_new_line6 | squirrel
+before
+alter
+process
+net
+wheel |  
+| bip_39_word_new_line7 | squirrel
+before
+alter
+process
+net
+wheel
+order |  
+| bip_39_word_new_line8 | squirrel
+before
+alter
+process
+net
+wheel
+order
+alone |  
+| bip_39_word_new_line9 | squirrel
+before
+alter
+process
+net
+wheel
+order
+alone
+mother |  
+| bip_39_word_space_0 | ['squirrel', 'before', 'alter', 'process', 'net', 'wheel', 'order', 'alone', 'mother', 'neutral', 'deny', 'august'] |  
+| bip_39_word_space_1 | squirrel |  
+| bip_39_word_space_10 | squirrel before alter process net wheel order alone mother neutral |  
+| bip_39_word_space_11 | squirrel before alter process net wheel order alone mother neutral deny |  
+| bip_39_word_space_12 | squirrel before alter process net wheel order alone mother neutral deny august |  
+| bip_39_word_space_2 | squirrel before |  
+| bip_39_word_space_3 | squirrel before alter |  
+| bip_39_word_space_4 | squirrel before alter process |  
+| bip_39_word_space_5 | squirrel before alter process net |  
+| bip_39_word_space_6 | squirrel before alter process net wheel |  
+| bip_39_word_space_7 | squirrel before alter process net wheel order |  
+| bip_39_word_space_8 | squirrel before alter process net wheel order alone |  
+| bip_39_word_space_9 | squirrel before alter process net wheel order alone mother |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

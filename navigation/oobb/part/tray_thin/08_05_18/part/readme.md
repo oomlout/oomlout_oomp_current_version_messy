@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: today dance
+  * bip 39 word 3: today dance agree
+  * bip 39 word: today dance agree glimpse ice dentist rule fury possible group fossil addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | today |  
+| bip_39_word_new_br10 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist<br>rule<br>fury<br>possible<br>group |  
+| bip_39_word_new_br11 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist<br>rule<br>fury<br>possible<br>group<br>fossil |  
+| bip_39_word_new_br12 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist<br>rule<br>fury<br>possible<br>group<br>fossil<br>addict |  
+| bip_39_word_new_br2 | today<br>dance |  
+| bip_39_word_new_br3 | today<br>dance<br>agree |  
+| bip_39_word_new_br4 | today<br>dance<br>agree<br>glimpse |  
+| bip_39_word_new_br5 | today<br>dance<br>agree<br>glimpse<br>ice |  
+| bip_39_word_new_br6 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist |  
+| bip_39_word_new_br7 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist<br>rule |  
+| bip_39_word_new_br8 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist<br>rule<br>fury |  
+| bip_39_word_new_br9 | today<br>dance<br>agree<br>glimpse<br>ice<br>dentist<br>rule<br>fury<br>possible |  
+| bip_39_word_new_line1 | today |  
+| bip_39_word_new_line10 | today
+dance
+agree
+glimpse
+ice
+dentist
+rule
+fury
+possible
+group |  
+| bip_39_word_new_line11 | today
+dance
+agree
+glimpse
+ice
+dentist
+rule
+fury
+possible
+group
+fossil |  
+| bip_39_word_new_line12 | today
+dance
+agree
+glimpse
+ice
+dentist
+rule
+fury
+possible
+group
+fossil
+addict |  
+| bip_39_word_new_line2 | today
+dance |  
+| bip_39_word_new_line3 | today
+dance
+agree |  
+| bip_39_word_new_line4 | today
+dance
+agree
+glimpse |  
+| bip_39_word_new_line5 | today
+dance
+agree
+glimpse
+ice |  
+| bip_39_word_new_line6 | today
+dance
+agree
+glimpse
+ice
+dentist |  
+| bip_39_word_new_line7 | today
+dance
+agree
+glimpse
+ice
+dentist
+rule |  
+| bip_39_word_new_line8 | today
+dance
+agree
+glimpse
+ice
+dentist
+rule
+fury |  
+| bip_39_word_new_line9 | today
+dance
+agree
+glimpse
+ice
+dentist
+rule
+fury
+possible |  
+| bip_39_word_space_0 | ['today', 'dance', 'agree', 'glimpse', 'ice', 'dentist', 'rule', 'fury', 'possible', 'group', 'fossil', 'addict'] |  
+| bip_39_word_space_1 | today |  
+| bip_39_word_space_10 | today dance agree glimpse ice dentist rule fury possible group |  
+| bip_39_word_space_11 | today dance agree glimpse ice dentist rule fury possible group fossil |  
+| bip_39_word_space_12 | today dance agree glimpse ice dentist rule fury possible group fossil addict |  
+| bip_39_word_space_2 | today dance |  
+| bip_39_word_space_3 | today dance agree |  
+| bip_39_word_space_4 | today dance agree glimpse |  
+| bip_39_word_space_5 | today dance agree glimpse ice |  
+| bip_39_word_space_6 | today dance agree glimpse ice dentist |  
+| bip_39_word_space_7 | today dance agree glimpse ice dentist rule |  
+| bip_39_word_space_8 | today dance agree glimpse ice dentist rule fury |  
+| bip_39_word_space_9 | today dance agree glimpse ice dentist rule fury possible |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

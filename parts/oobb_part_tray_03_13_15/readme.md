@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: valid stomach
+  * bip 39 word 3: valid stomach injury
+  * bip 39 word: valid stomach injury middle pause fragile time mom talk enable scan alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | valid |  
+| bip_39_word_new_br10 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk<br>enable |  
+| bip_39_word_new_br11 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk<br>enable<br>scan |  
+| bip_39_word_new_br12 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk<br>enable<br>scan<br>alpha |  
+| bip_39_word_new_br2 | valid<br>stomach |  
+| bip_39_word_new_br3 | valid<br>stomach<br>injury |  
+| bip_39_word_new_br4 | valid<br>stomach<br>injury<br>middle |  
+| bip_39_word_new_br5 | valid<br>stomach<br>injury<br>middle<br>pause |  
+| bip_39_word_new_br6 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile |  
+| bip_39_word_new_br7 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time |  
+| bip_39_word_new_br8 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom |  
+| bip_39_word_new_br9 | valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk |  
+| bip_39_word_new_line1 | valid |  
+| bip_39_word_new_line10 | valid
+stomach
+injury
+middle
+pause
+fragile
+time
+mom
+talk
+enable |  
+| bip_39_word_new_line11 | valid
+stomach
+injury
+middle
+pause
+fragile
+time
+mom
+talk
+enable
+scan |  
+| bip_39_word_new_line12 | valid
+stomach
+injury
+middle
+pause
+fragile
+time
+mom
+talk
+enable
+scan
+alpha |  
+| bip_39_word_new_line2 | valid
+stomach |  
+| bip_39_word_new_line3 | valid
+stomach
+injury |  
+| bip_39_word_new_line4 | valid
+stomach
+injury
+middle |  
+| bip_39_word_new_line5 | valid
+stomach
+injury
+middle
+pause |  
+| bip_39_word_new_line6 | valid
+stomach
+injury
+middle
+pause
+fragile |  
+| bip_39_word_new_line7 | valid
+stomach
+injury
+middle
+pause
+fragile
+time |  
+| bip_39_word_new_line8 | valid
+stomach
+injury
+middle
+pause
+fragile
+time
+mom |  
+| bip_39_word_new_line9 | valid
+stomach
+injury
+middle
+pause
+fragile
+time
+mom
+talk |  
+| bip_39_word_space_0 | ['valid', 'stomach', 'injury', 'middle', 'pause', 'fragile', 'time', 'mom', 'talk', 'enable', 'scan', 'alpha'] |  
+| bip_39_word_space_1 | valid |  
+| bip_39_word_space_10 | valid stomach injury middle pause fragile time mom talk enable |  
+| bip_39_word_space_11 | valid stomach injury middle pause fragile time mom talk enable scan |  
+| bip_39_word_space_12 | valid stomach injury middle pause fragile time mom talk enable scan alpha |  
+| bip_39_word_space_2 | valid stomach |  
+| bip_39_word_space_3 | valid stomach injury |  
+| bip_39_word_space_4 | valid stomach injury middle |  
+| bip_39_word_space_5 | valid stomach injury middle pause |  
+| bip_39_word_space_6 | valid stomach injury middle pause fragile |  
+| bip_39_word_space_7 | valid stomach injury middle pause fragile time |  
+| bip_39_word_space_8 | valid stomach injury middle pause fragile time mom |  
+| bip_39_word_space_9 | valid stomach injury middle pause fragile time mom talk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

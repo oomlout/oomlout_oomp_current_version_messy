@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: youth tube
+  * bip 39 word 3: youth tube betray
+  * bip 39 word: youth tube betray rabbit lawsuit ship adapt fold canal hover clarify always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | youth |  
+| bip_39_word_new_br10 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship<br>adapt<br>fold<br>canal<br>hover |  
+| bip_39_word_new_br11 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship<br>adapt<br>fold<br>canal<br>hover<br>clarify |  
+| bip_39_word_new_br12 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship<br>adapt<br>fold<br>canal<br>hover<br>clarify<br>always |  
+| bip_39_word_new_br2 | youth<br>tube |  
+| bip_39_word_new_br3 | youth<br>tube<br>betray |  
+| bip_39_word_new_br4 | youth<br>tube<br>betray<br>rabbit |  
+| bip_39_word_new_br5 | youth<br>tube<br>betray<br>rabbit<br>lawsuit |  
+| bip_39_word_new_br6 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship |  
+| bip_39_word_new_br7 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship<br>adapt |  
+| bip_39_word_new_br8 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship<br>adapt<br>fold |  
+| bip_39_word_new_br9 | youth<br>tube<br>betray<br>rabbit<br>lawsuit<br>ship<br>adapt<br>fold<br>canal |  
+| bip_39_word_new_line1 | youth |  
+| bip_39_word_new_line10 | youth
+tube
+betray
+rabbit
+lawsuit
+ship
+adapt
+fold
+canal
+hover |  
+| bip_39_word_new_line11 | youth
+tube
+betray
+rabbit
+lawsuit
+ship
+adapt
+fold
+canal
+hover
+clarify |  
+| bip_39_word_new_line12 | youth
+tube
+betray
+rabbit
+lawsuit
+ship
+adapt
+fold
+canal
+hover
+clarify
+always |  
+| bip_39_word_new_line2 | youth
+tube |  
+| bip_39_word_new_line3 | youth
+tube
+betray |  
+| bip_39_word_new_line4 | youth
+tube
+betray
+rabbit |  
+| bip_39_word_new_line5 | youth
+tube
+betray
+rabbit
+lawsuit |  
+| bip_39_word_new_line6 | youth
+tube
+betray
+rabbit
+lawsuit
+ship |  
+| bip_39_word_new_line7 | youth
+tube
+betray
+rabbit
+lawsuit
+ship
+adapt |  
+| bip_39_word_new_line8 | youth
+tube
+betray
+rabbit
+lawsuit
+ship
+adapt
+fold |  
+| bip_39_word_new_line9 | youth
+tube
+betray
+rabbit
+lawsuit
+ship
+adapt
+fold
+canal |  
+| bip_39_word_space_0 | ['youth', 'tube', 'betray', 'rabbit', 'lawsuit', 'ship', 'adapt', 'fold', 'canal', 'hover', 'clarify', 'always'] |  
+| bip_39_word_space_1 | youth |  
+| bip_39_word_space_10 | youth tube betray rabbit lawsuit ship adapt fold canal hover |  
+| bip_39_word_space_11 | youth tube betray rabbit lawsuit ship adapt fold canal hover clarify |  
+| bip_39_word_space_12 | youth tube betray rabbit lawsuit ship adapt fold canal hover clarify always |  
+| bip_39_word_space_2 | youth tube |  
+| bip_39_word_space_3 | youth tube betray |  
+| bip_39_word_space_4 | youth tube betray rabbit |  
+| bip_39_word_space_5 | youth tube betray rabbit lawsuit |  
+| bip_39_word_space_6 | youth tube betray rabbit lawsuit ship |  
+| bip_39_word_space_7 | youth tube betray rabbit lawsuit ship adapt |  
+| bip_39_word_space_8 | youth tube betray rabbit lawsuit ship adapt fold |  
+| bip_39_word_space_9 | youth tube betray rabbit lawsuit ship adapt fold canal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alert embrace
+  * bip 39 word 3: alert embrace arrest
+  * bip 39 word: alert embrace arrest meadow liberty panel quick warfare sure quote zoo always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alert |  
+| bip_39_word_new_br10 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote |  
+| bip_39_word_new_br11 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote<br>zoo |  
+| bip_39_word_new_br12 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure<br>quote<br>zoo<br>always |  
+| bip_39_word_new_br2 | alert<br>embrace |  
+| bip_39_word_new_br3 | alert<br>embrace<br>arrest |  
+| bip_39_word_new_br4 | alert<br>embrace<br>arrest<br>meadow |  
+| bip_39_word_new_br5 | alert<br>embrace<br>arrest<br>meadow<br>liberty |  
+| bip_39_word_new_br6 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel |  
+| bip_39_word_new_br7 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick |  
+| bip_39_word_new_br8 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare |  
+| bip_39_word_new_br9 | alert<br>embrace<br>arrest<br>meadow<br>liberty<br>panel<br>quick<br>warfare<br>sure |  
+| bip_39_word_new_line1 | alert |  
+| bip_39_word_new_line10 | alert
+embrace
+arrest
+meadow
+liberty
+panel
+quick
+warfare
+sure
+quote |  
+| bip_39_word_new_line11 | alert
+embrace
+arrest
+meadow
+liberty
+panel
+quick
+warfare
+sure
+quote
+zoo |  
+| bip_39_word_new_line12 | alert
+embrace
+arrest
+meadow
+liberty
+panel
+quick
+warfare
+sure
+quote
+zoo
+always |  
+| bip_39_word_new_line2 | alert
+embrace |  
+| bip_39_word_new_line3 | alert
+embrace
+arrest |  
+| bip_39_word_new_line4 | alert
+embrace
+arrest
+meadow |  
+| bip_39_word_new_line5 | alert
+embrace
+arrest
+meadow
+liberty |  
+| bip_39_word_new_line6 | alert
+embrace
+arrest
+meadow
+liberty
+panel |  
+| bip_39_word_new_line7 | alert
+embrace
+arrest
+meadow
+liberty
+panel
+quick |  
+| bip_39_word_new_line8 | alert
+embrace
+arrest
+meadow
+liberty
+panel
+quick
+warfare |  
+| bip_39_word_new_line9 | alert
+embrace
+arrest
+meadow
+liberty
+panel
+quick
+warfare
+sure |  
+| bip_39_word_space_0 | ['alert', 'embrace', 'arrest', 'meadow', 'liberty', 'panel', 'quick', 'warfare', 'sure', 'quote', 'zoo', 'always'] |  
+| bip_39_word_space_1 | alert |  
+| bip_39_word_space_10 | alert embrace arrest meadow liberty panel quick warfare sure quote |  
+| bip_39_word_space_11 | alert embrace arrest meadow liberty panel quick warfare sure quote zoo |  
+| bip_39_word_space_12 | alert embrace arrest meadow liberty panel quick warfare sure quote zoo always |  
+| bip_39_word_space_2 | alert embrace |  
+| bip_39_word_space_3 | alert embrace arrest |  
+| bip_39_word_space_4 | alert embrace arrest meadow |  
+| bip_39_word_space_5 | alert embrace arrest meadow liberty |  
+| bip_39_word_space_6 | alert embrace arrest meadow liberty panel |  
+| bip_39_word_space_7 | alert embrace arrest meadow liberty panel quick |  
+| bip_39_word_space_8 | alert embrace arrest meadow liberty panel quick warfare |  
+| bip_39_word_space_9 | alert embrace arrest meadow liberty panel quick warfare sure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

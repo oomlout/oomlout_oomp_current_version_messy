@@ -1,3 +1,186 @@
+bip_39_word_new_br1: exit
+bip_39_word_new_br10: exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject
+bip_39_word_new_br11: exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject<br>modify
+bip_39_word_new_br12: exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact<br>reject<br>modify<br>almost
+bip_39_word_new_br2: exit<br>outer
+bip_39_word_new_br3: exit<br>outer<br>obey
+bip_39_word_new_br4: exit<br>outer<br>obey<br>suit
+bip_39_word_new_br5: exit<br>outer<br>obey<br>suit<br>update
+bip_39_word_new_br6: exit<br>outer<br>obey<br>suit<br>update<br>swallow
+bip_39_word_new_br7: exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil
+bip_39_word_new_br8: exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little
+bip_39_word_new_br9: exit<br>outer<br>obey<br>suit<br>update<br>swallow<br>oil<br>little<br>enact
+bip_39_word_new_line1: exit
+bip_39_word_new_line10: 'exit
+
+  outer
+
+  obey
+
+  suit
+
+  update
+
+  swallow
+
+  oil
+
+  little
+
+  enact
+
+  reject'
+bip_39_word_new_line11: 'exit
+
+  outer
+
+  obey
+
+  suit
+
+  update
+
+  swallow
+
+  oil
+
+  little
+
+  enact
+
+  reject
+
+  modify'
+bip_39_word_new_line12: 'exit
+
+  outer
+
+  obey
+
+  suit
+
+  update
+
+  swallow
+
+  oil
+
+  little
+
+  enact
+
+  reject
+
+  modify
+
+  almost'
+bip_39_word_new_line2: 'exit
+
+  outer'
+bip_39_word_new_line3: 'exit
+
+  outer
+
+  obey'
+bip_39_word_new_line4: 'exit
+
+  outer
+
+  obey
+
+  suit'
+bip_39_word_new_line5: 'exit
+
+  outer
+
+  obey
+
+  suit
+
+  update'
+bip_39_word_new_line6: 'exit
+
+  outer
+
+  obey
+
+  suit
+
+  update
+
+  swallow'
+bip_39_word_new_line7: 'exit
+
+  outer
+
+  obey
+
+  suit
+
+  update
+
+  swallow
+
+  oil'
+bip_39_word_new_line8: 'exit
+
+  outer
+
+  obey
+
+  suit
+
+  update
+
+  swallow
+
+  oil
+
+  little'
+bip_39_word_new_line9: 'exit
+
+  outer
+
+  obey
+
+  suit
+
+  update
+
+  swallow
+
+  oil
+
+  little
+
+  enact'
+bip_39_word_space_0:
+- exit
+- outer
+- obey
+- suit
+- update
+- swallow
+- oil
+- little
+- enact
+- reject
+- modify
+- almost
+bip_39_word_space_1: exit
+bip_39_word_space_10: exit outer obey suit update swallow oil little enact reject
+bip_39_word_space_11: exit outer obey suit update swallow oil little enact reject
+  modify
+bip_39_word_space_12: exit outer obey suit update swallow oil little enact reject
+  modify almost
+bip_39_word_space_2: exit outer
+bip_39_word_space_3: exit outer obey
+bip_39_word_space_4: exit outer obey suit
+bip_39_word_space_5: exit outer obey suit update
+bip_39_word_space_6: exit outer obey suit update swallow
+bip_39_word_space_7: exit outer obey suit update swallow oil
+bip_39_word_space_8: exit outer obey suit update swallow oil little
+bip_39_word_space_9: exit outer obey suit update swallow oil little enact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

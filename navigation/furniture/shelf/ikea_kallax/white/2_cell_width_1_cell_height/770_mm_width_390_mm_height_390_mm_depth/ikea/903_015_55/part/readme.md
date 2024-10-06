@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 770_mm_width_390_mm_height_390_mm_depth
   * manufacturer: ikea
   * part_number: 903_015_55
+  * bip 39 word 2: inmate repair
+  * bip 39 word 3: inmate repair hold
+  * bip 39 word: inmate repair hold regular habit borrow december damage narrow maze aisle alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inmate |  
+| bip_39_word_new_br10 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze |  
+| bip_39_word_new_br11 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze<br>aisle |  
+| bip_39_word_new_br12 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow<br>maze<br>aisle<br>alpha |  
+| bip_39_word_new_br2 | inmate<br>repair |  
+| bip_39_word_new_br3 | inmate<br>repair<br>hold |  
+| bip_39_word_new_br4 | inmate<br>repair<br>hold<br>regular |  
+| bip_39_word_new_br5 | inmate<br>repair<br>hold<br>regular<br>habit |  
+| bip_39_word_new_br6 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow |  
+| bip_39_word_new_br7 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december |  
+| bip_39_word_new_br8 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage |  
+| bip_39_word_new_br9 | inmate<br>repair<br>hold<br>regular<br>habit<br>borrow<br>december<br>damage<br>narrow |  
+| bip_39_word_new_line1 | inmate |  
+| bip_39_word_new_line10 | inmate
+repair
+hold
+regular
+habit
+borrow
+december
+damage
+narrow
+maze |  
+| bip_39_word_new_line11 | inmate
+repair
+hold
+regular
+habit
+borrow
+december
+damage
+narrow
+maze
+aisle |  
+| bip_39_word_new_line12 | inmate
+repair
+hold
+regular
+habit
+borrow
+december
+damage
+narrow
+maze
+aisle
+alpha |  
+| bip_39_word_new_line2 | inmate
+repair |  
+| bip_39_word_new_line3 | inmate
+repair
+hold |  
+| bip_39_word_new_line4 | inmate
+repair
+hold
+regular |  
+| bip_39_word_new_line5 | inmate
+repair
+hold
+regular
+habit |  
+| bip_39_word_new_line6 | inmate
+repair
+hold
+regular
+habit
+borrow |  
+| bip_39_word_new_line7 | inmate
+repair
+hold
+regular
+habit
+borrow
+december |  
+| bip_39_word_new_line8 | inmate
+repair
+hold
+regular
+habit
+borrow
+december
+damage |  
+| bip_39_word_new_line9 | inmate
+repair
+hold
+regular
+habit
+borrow
+december
+damage
+narrow |  
+| bip_39_word_space_0 | ['inmate', 'repair', 'hold', 'regular', 'habit', 'borrow', 'december', 'damage', 'narrow', 'maze', 'aisle', 'alpha'] |  
+| bip_39_word_space_1 | inmate |  
+| bip_39_word_space_10 | inmate repair hold regular habit borrow december damage narrow maze |  
+| bip_39_word_space_11 | inmate repair hold regular habit borrow december damage narrow maze aisle |  
+| bip_39_word_space_12 | inmate repair hold regular habit borrow december damage narrow maze aisle alpha |  
+| bip_39_word_space_2 | inmate repair |  
+| bip_39_word_space_3 | inmate repair hold |  
+| bip_39_word_space_4 | inmate repair hold regular |  
+| bip_39_word_space_5 | inmate repair hold regular habit |  
+| bip_39_word_space_6 | inmate repair hold regular habit borrow |  
+| bip_39_word_space_7 | inmate repair hold regular habit borrow december |  
+| bip_39_word_space_8 | inmate repair hold regular habit borrow december damage |  
+| bip_39_word_space_9 | inmate repair hold regular habit borrow december damage narrow |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

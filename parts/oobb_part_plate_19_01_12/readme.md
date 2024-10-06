@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: easy sister
+  * bip 39 word 3: easy sister like
+  * bip 39 word: easy sister like utility dynamic element violin swing jewel urban begin amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | easy |  
+| bip_39_word_new_br10 | easy<br>sister<br>like<br>utility<br>dynamic<br>element<br>violin<br>swing<br>jewel<br>urban |  
+| bip_39_word_new_br11 | easy<br>sister<br>like<br>utility<br>dynamic<br>element<br>violin<br>swing<br>jewel<br>urban<br>begin |  
+| bip_39_word_new_br12 | easy<br>sister<br>like<br>utility<br>dynamic<br>element<br>violin<br>swing<br>jewel<br>urban<br>begin<br>amateur |  
+| bip_39_word_new_br2 | easy<br>sister |  
+| bip_39_word_new_br3 | easy<br>sister<br>like |  
+| bip_39_word_new_br4 | easy<br>sister<br>like<br>utility |  
+| bip_39_word_new_br5 | easy<br>sister<br>like<br>utility<br>dynamic |  
+| bip_39_word_new_br6 | easy<br>sister<br>like<br>utility<br>dynamic<br>element |  
+| bip_39_word_new_br7 | easy<br>sister<br>like<br>utility<br>dynamic<br>element<br>violin |  
+| bip_39_word_new_br8 | easy<br>sister<br>like<br>utility<br>dynamic<br>element<br>violin<br>swing |  
+| bip_39_word_new_br9 | easy<br>sister<br>like<br>utility<br>dynamic<br>element<br>violin<br>swing<br>jewel |  
+| bip_39_word_new_line1 | easy |  
+| bip_39_word_new_line10 | easy
+sister
+like
+utility
+dynamic
+element
+violin
+swing
+jewel
+urban |  
+| bip_39_word_new_line11 | easy
+sister
+like
+utility
+dynamic
+element
+violin
+swing
+jewel
+urban
+begin |  
+| bip_39_word_new_line12 | easy
+sister
+like
+utility
+dynamic
+element
+violin
+swing
+jewel
+urban
+begin
+amateur |  
+| bip_39_word_new_line2 | easy
+sister |  
+| bip_39_word_new_line3 | easy
+sister
+like |  
+| bip_39_word_new_line4 | easy
+sister
+like
+utility |  
+| bip_39_word_new_line5 | easy
+sister
+like
+utility
+dynamic |  
+| bip_39_word_new_line6 | easy
+sister
+like
+utility
+dynamic
+element |  
+| bip_39_word_new_line7 | easy
+sister
+like
+utility
+dynamic
+element
+violin |  
+| bip_39_word_new_line8 | easy
+sister
+like
+utility
+dynamic
+element
+violin
+swing |  
+| bip_39_word_new_line9 | easy
+sister
+like
+utility
+dynamic
+element
+violin
+swing
+jewel |  
+| bip_39_word_space_0 | ['easy', 'sister', 'like', 'utility', 'dynamic', 'element', 'violin', 'swing', 'jewel', 'urban', 'begin', 'amateur'] |  
+| bip_39_word_space_1 | easy |  
+| bip_39_word_space_10 | easy sister like utility dynamic element violin swing jewel urban |  
+| bip_39_word_space_11 | easy sister like utility dynamic element violin swing jewel urban begin |  
+| bip_39_word_space_12 | easy sister like utility dynamic element violin swing jewel urban begin amateur |  
+| bip_39_word_space_2 | easy sister |  
+| bip_39_word_space_3 | easy sister like |  
+| bip_39_word_space_4 | easy sister like utility |  
+| bip_39_word_space_5 | easy sister like utility dynamic |  
+| bip_39_word_space_6 | easy sister like utility dynamic element |  
+| bip_39_word_space_7 | easy sister like utility dynamic element violin |  
+| bip_39_word_space_8 | easy sister like utility dynamic element violin swing |  
+| bip_39_word_space_9 | easy sister like utility dynamic element violin swing jewel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

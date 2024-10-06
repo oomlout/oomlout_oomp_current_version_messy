@@ -1,3 +1,187 @@
+bip_39_word_new_br1: flat
+bip_39_word_new_br10: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil
+bip_39_word_new_br11: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil<br>garbage
+bip_39_word_new_br12: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target<br>unveil<br>garbage<br>around
+bip_39_word_new_br2: flat<br>doctor
+bip_39_word_new_br3: flat<br>doctor<br>ability
+bip_39_word_new_br4: flat<br>doctor<br>ability<br>regret
+bip_39_word_new_br5: flat<br>doctor<br>ability<br>regret<br>time
+bip_39_word_new_br6: flat<br>doctor<br>ability<br>regret<br>time<br>card
+bip_39_word_new_br7: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin
+bip_39_word_new_br8: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent
+bip_39_word_new_br9: flat<br>doctor<br>ability<br>regret<br>time<br>card<br>napkin<br>frequent<br>target
+bip_39_word_new_line1: flat
+bip_39_word_new_line10: 'flat
+
+  doctor
+
+  ability
+
+  regret
+
+  time
+
+  card
+
+  napkin
+
+  frequent
+
+  target
+
+  unveil'
+bip_39_word_new_line11: 'flat
+
+  doctor
+
+  ability
+
+  regret
+
+  time
+
+  card
+
+  napkin
+
+  frequent
+
+  target
+
+  unveil
+
+  garbage'
+bip_39_word_new_line12: 'flat
+
+  doctor
+
+  ability
+
+  regret
+
+  time
+
+  card
+
+  napkin
+
+  frequent
+
+  target
+
+  unveil
+
+  garbage
+
+  around'
+bip_39_word_new_line2: 'flat
+
+  doctor'
+bip_39_word_new_line3: 'flat
+
+  doctor
+
+  ability'
+bip_39_word_new_line4: 'flat
+
+  doctor
+
+  ability
+
+  regret'
+bip_39_word_new_line5: 'flat
+
+  doctor
+
+  ability
+
+  regret
+
+  time'
+bip_39_word_new_line6: 'flat
+
+  doctor
+
+  ability
+
+  regret
+
+  time
+
+  card'
+bip_39_word_new_line7: 'flat
+
+  doctor
+
+  ability
+
+  regret
+
+  time
+
+  card
+
+  napkin'
+bip_39_word_new_line8: 'flat
+
+  doctor
+
+  ability
+
+  regret
+
+  time
+
+  card
+
+  napkin
+
+  frequent'
+bip_39_word_new_line9: 'flat
+
+  doctor
+
+  ability
+
+  regret
+
+  time
+
+  card
+
+  napkin
+
+  frequent
+
+  target'
+bip_39_word_space_0:
+- flat
+- doctor
+- ability
+- regret
+- time
+- card
+- napkin
+- frequent
+- target
+- unveil
+- garbage
+- around
+bip_39_word_space_1: flat
+bip_39_word_space_10: flat doctor ability regret time card napkin frequent target
+  unveil
+bip_39_word_space_11: flat doctor ability regret time card napkin frequent target
+  unveil garbage
+bip_39_word_space_12: flat doctor ability regret time card napkin frequent target
+  unveil garbage around
+bip_39_word_space_2: flat doctor
+bip_39_word_space_3: flat doctor ability
+bip_39_word_space_4: flat doctor ability regret
+bip_39_word_space_5: flat doctor ability regret time
+bip_39_word_space_6: flat doctor ability regret time card
+bip_39_word_space_7: flat doctor ability regret time card napkin
+bip_39_word_space_8: flat doctor ability regret time card napkin frequent
+bip_39_word_space_9: flat doctor ability regret time card napkin frequent target
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

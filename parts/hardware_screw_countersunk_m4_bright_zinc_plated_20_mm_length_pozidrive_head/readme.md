@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raise tunnel
+  * bip 39 word 3: raise tunnel nice
+  * bip 39 word: raise tunnel nice evolve spend remove gap eagle share shove use asset
 
 ### other_codes
 * short_code: cs4bz20pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raise |  
+| bip_39_word_new_br10 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove |  
+| bip_39_word_new_br11 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove<br>use |  
+| bip_39_word_new_br12 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share<br>shove<br>use<br>asset |  
+| bip_39_word_new_br2 | raise<br>tunnel |  
+| bip_39_word_new_br3 | raise<br>tunnel<br>nice |  
+| bip_39_word_new_br4 | raise<br>tunnel<br>nice<br>evolve |  
+| bip_39_word_new_br5 | raise<br>tunnel<br>nice<br>evolve<br>spend |  
+| bip_39_word_new_br6 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove |  
+| bip_39_word_new_br7 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap |  
+| bip_39_word_new_br8 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle |  
+| bip_39_word_new_br9 | raise<br>tunnel<br>nice<br>evolve<br>spend<br>remove<br>gap<br>eagle<br>share |  
+| bip_39_word_new_line1 | raise |  
+| bip_39_word_new_line10 | raise
+tunnel
+nice
+evolve
+spend
+remove
+gap
+eagle
+share
+shove |  
+| bip_39_word_new_line11 | raise
+tunnel
+nice
+evolve
+spend
+remove
+gap
+eagle
+share
+shove
+use |  
+| bip_39_word_new_line12 | raise
+tunnel
+nice
+evolve
+spend
+remove
+gap
+eagle
+share
+shove
+use
+asset |  
+| bip_39_word_new_line2 | raise
+tunnel |  
+| bip_39_word_new_line3 | raise
+tunnel
+nice |  
+| bip_39_word_new_line4 | raise
+tunnel
+nice
+evolve |  
+| bip_39_word_new_line5 | raise
+tunnel
+nice
+evolve
+spend |  
+| bip_39_word_new_line6 | raise
+tunnel
+nice
+evolve
+spend
+remove |  
+| bip_39_word_new_line7 | raise
+tunnel
+nice
+evolve
+spend
+remove
+gap |  
+| bip_39_word_new_line8 | raise
+tunnel
+nice
+evolve
+spend
+remove
+gap
+eagle |  
+| bip_39_word_new_line9 | raise
+tunnel
+nice
+evolve
+spend
+remove
+gap
+eagle
+share |  
+| bip_39_word_space_0 | ['raise', 'tunnel', 'nice', 'evolve', 'spend', 'remove', 'gap', 'eagle', 'share', 'shove', 'use', 'asset'] |  
+| bip_39_word_space_1 | raise |  
+| bip_39_word_space_10 | raise tunnel nice evolve spend remove gap eagle share shove |  
+| bip_39_word_space_11 | raise tunnel nice evolve spend remove gap eagle share shove use |  
+| bip_39_word_space_12 | raise tunnel nice evolve spend remove gap eagle share shove use asset |  
+| bip_39_word_space_2 | raise tunnel |  
+| bip_39_word_space_3 | raise tunnel nice |  
+| bip_39_word_space_4 | raise tunnel nice evolve |  
+| bip_39_word_space_5 | raise tunnel nice evolve spend |  
+| bip_39_word_space_6 | raise tunnel nice evolve spend remove |  
+| bip_39_word_space_7 | raise tunnel nice evolve spend remove gap |  
+| bip_39_word_space_8 | raise tunnel nice evolve spend remove gap eagle |  
+| bip_39_word_space_9 | raise tunnel nice evolve spend remove gap eagle share |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

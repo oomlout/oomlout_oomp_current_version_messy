@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wedding erupt
+  * bip 39 word 3: wedding erupt portion
+  * bip 39 word: wedding erupt portion shine warrior turtle gather ring tomato rifle guard artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wedding |  
+| bip_39_word_new_br10 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle<br>gather<br>ring<br>tomato<br>rifle |  
+| bip_39_word_new_br11 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle<br>gather<br>ring<br>tomato<br>rifle<br>guard |  
+| bip_39_word_new_br12 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle<br>gather<br>ring<br>tomato<br>rifle<br>guard<br>artist |  
+| bip_39_word_new_br2 | wedding<br>erupt |  
+| bip_39_word_new_br3 | wedding<br>erupt<br>portion |  
+| bip_39_word_new_br4 | wedding<br>erupt<br>portion<br>shine |  
+| bip_39_word_new_br5 | wedding<br>erupt<br>portion<br>shine<br>warrior |  
+| bip_39_word_new_br6 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle |  
+| bip_39_word_new_br7 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle<br>gather |  
+| bip_39_word_new_br8 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle<br>gather<br>ring |  
+| bip_39_word_new_br9 | wedding<br>erupt<br>portion<br>shine<br>warrior<br>turtle<br>gather<br>ring<br>tomato |  
+| bip_39_word_new_line1 | wedding |  
+| bip_39_word_new_line10 | wedding
+erupt
+portion
+shine
+warrior
+turtle
+gather
+ring
+tomato
+rifle |  
+| bip_39_word_new_line11 | wedding
+erupt
+portion
+shine
+warrior
+turtle
+gather
+ring
+tomato
+rifle
+guard |  
+| bip_39_word_new_line12 | wedding
+erupt
+portion
+shine
+warrior
+turtle
+gather
+ring
+tomato
+rifle
+guard
+artist |  
+| bip_39_word_new_line2 | wedding
+erupt |  
+| bip_39_word_new_line3 | wedding
+erupt
+portion |  
+| bip_39_word_new_line4 | wedding
+erupt
+portion
+shine |  
+| bip_39_word_new_line5 | wedding
+erupt
+portion
+shine
+warrior |  
+| bip_39_word_new_line6 | wedding
+erupt
+portion
+shine
+warrior
+turtle |  
+| bip_39_word_new_line7 | wedding
+erupt
+portion
+shine
+warrior
+turtle
+gather |  
+| bip_39_word_new_line8 | wedding
+erupt
+portion
+shine
+warrior
+turtle
+gather
+ring |  
+| bip_39_word_new_line9 | wedding
+erupt
+portion
+shine
+warrior
+turtle
+gather
+ring
+tomato |  
+| bip_39_word_space_0 | ['wedding', 'erupt', 'portion', 'shine', 'warrior', 'turtle', 'gather', 'ring', 'tomato', 'rifle', 'guard', 'artist'] |  
+| bip_39_word_space_1 | wedding |  
+| bip_39_word_space_10 | wedding erupt portion shine warrior turtle gather ring tomato rifle |  
+| bip_39_word_space_11 | wedding erupt portion shine warrior turtle gather ring tomato rifle guard |  
+| bip_39_word_space_12 | wedding erupt portion shine warrior turtle gather ring tomato rifle guard artist |  
+| bip_39_word_space_2 | wedding erupt |  
+| bip_39_word_space_3 | wedding erupt portion |  
+| bip_39_word_space_4 | wedding erupt portion shine |  
+| bip_39_word_space_5 | wedding erupt portion shine warrior |  
+| bip_39_word_space_6 | wedding erupt portion shine warrior turtle |  
+| bip_39_word_space_7 | wedding erupt portion shine warrior turtle gather |  
+| bip_39_word_space_8 | wedding erupt portion shine warrior turtle gather ring |  
+| bip_39_word_space_9 | wedding erupt portion shine warrior turtle gather ring tomato |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: drastic dumb
+  * bip 39 word 3: drastic dumb humor
+  * bip 39 word: drastic dumb humor humor detail dilemma lyrics output smooth apology genius act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | drastic |  
+| bip_39_word_new_br10 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma<br>lyrics<br>output<br>smooth<br>apology |  
+| bip_39_word_new_br11 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma<br>lyrics<br>output<br>smooth<br>apology<br>genius |  
+| bip_39_word_new_br12 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma<br>lyrics<br>output<br>smooth<br>apology<br>genius<br>act |  
+| bip_39_word_new_br2 | drastic<br>dumb |  
+| bip_39_word_new_br3 | drastic<br>dumb<br>humor |  
+| bip_39_word_new_br4 | drastic<br>dumb<br>humor<br>humor |  
+| bip_39_word_new_br5 | drastic<br>dumb<br>humor<br>humor<br>detail |  
+| bip_39_word_new_br6 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma |  
+| bip_39_word_new_br7 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma<br>lyrics |  
+| bip_39_word_new_br8 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma<br>lyrics<br>output |  
+| bip_39_word_new_br9 | drastic<br>dumb<br>humor<br>humor<br>detail<br>dilemma<br>lyrics<br>output<br>smooth |  
+| bip_39_word_new_line1 | drastic |  
+| bip_39_word_new_line10 | drastic
+dumb
+humor
+humor
+detail
+dilemma
+lyrics
+output
+smooth
+apology |  
+| bip_39_word_new_line11 | drastic
+dumb
+humor
+humor
+detail
+dilemma
+lyrics
+output
+smooth
+apology
+genius |  
+| bip_39_word_new_line12 | drastic
+dumb
+humor
+humor
+detail
+dilemma
+lyrics
+output
+smooth
+apology
+genius
+act |  
+| bip_39_word_new_line2 | drastic
+dumb |  
+| bip_39_word_new_line3 | drastic
+dumb
+humor |  
+| bip_39_word_new_line4 | drastic
+dumb
+humor
+humor |  
+| bip_39_word_new_line5 | drastic
+dumb
+humor
+humor
+detail |  
+| bip_39_word_new_line6 | drastic
+dumb
+humor
+humor
+detail
+dilemma |  
+| bip_39_word_new_line7 | drastic
+dumb
+humor
+humor
+detail
+dilemma
+lyrics |  
+| bip_39_word_new_line8 | drastic
+dumb
+humor
+humor
+detail
+dilemma
+lyrics
+output |  
+| bip_39_word_new_line9 | drastic
+dumb
+humor
+humor
+detail
+dilemma
+lyrics
+output
+smooth |  
+| bip_39_word_space_0 | ['drastic', 'dumb', 'humor', 'humor', 'detail', 'dilemma', 'lyrics', 'output', 'smooth', 'apology', 'genius', 'act'] |  
+| bip_39_word_space_1 | drastic |  
+| bip_39_word_space_10 | drastic dumb humor humor detail dilemma lyrics output smooth apology |  
+| bip_39_word_space_11 | drastic dumb humor humor detail dilemma lyrics output smooth apology genius |  
+| bip_39_word_space_12 | drastic dumb humor humor detail dilemma lyrics output smooth apology genius act |  
+| bip_39_word_space_2 | drastic dumb |  
+| bip_39_word_space_3 | drastic dumb humor |  
+| bip_39_word_space_4 | drastic dumb humor humor |  
+| bip_39_word_space_5 | drastic dumb humor humor detail |  
+| bip_39_word_space_6 | drastic dumb humor humor detail dilemma |  
+| bip_39_word_space_7 | drastic dumb humor humor detail dilemma lyrics |  
+| bip_39_word_space_8 | drastic dumb humor humor detail dilemma lyrics output |  
+| bip_39_word_space_9 | drastic dumb humor humor detail dilemma lyrics output smooth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

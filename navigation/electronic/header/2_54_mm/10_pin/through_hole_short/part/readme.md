@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: extend provide
+  * bip 39 word 3: extend provide observe
+  * bip 39 word: extend provide observe educate verb floor august weather stool print usage admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | extend |  
+| bip_39_word_new_br10 | extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool<br>print |  
+| bip_39_word_new_br11 | extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool<br>print<br>usage |  
+| bip_39_word_new_br12 | extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool<br>print<br>usage<br>admit |  
+| bip_39_word_new_br2 | extend<br>provide |  
+| bip_39_word_new_br3 | extend<br>provide<br>observe |  
+| bip_39_word_new_br4 | extend<br>provide<br>observe<br>educate |  
+| bip_39_word_new_br5 | extend<br>provide<br>observe<br>educate<br>verb |  
+| bip_39_word_new_br6 | extend<br>provide<br>observe<br>educate<br>verb<br>floor |  
+| bip_39_word_new_br7 | extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august |  
+| bip_39_word_new_br8 | extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather |  
+| bip_39_word_new_br9 | extend<br>provide<br>observe<br>educate<br>verb<br>floor<br>august<br>weather<br>stool |  
+| bip_39_word_new_line1 | extend |  
+| bip_39_word_new_line10 | extend
+provide
+observe
+educate
+verb
+floor
+august
+weather
+stool
+print |  
+| bip_39_word_new_line11 | extend
+provide
+observe
+educate
+verb
+floor
+august
+weather
+stool
+print
+usage |  
+| bip_39_word_new_line12 | extend
+provide
+observe
+educate
+verb
+floor
+august
+weather
+stool
+print
+usage
+admit |  
+| bip_39_word_new_line2 | extend
+provide |  
+| bip_39_word_new_line3 | extend
+provide
+observe |  
+| bip_39_word_new_line4 | extend
+provide
+observe
+educate |  
+| bip_39_word_new_line5 | extend
+provide
+observe
+educate
+verb |  
+| bip_39_word_new_line6 | extend
+provide
+observe
+educate
+verb
+floor |  
+| bip_39_word_new_line7 | extend
+provide
+observe
+educate
+verb
+floor
+august |  
+| bip_39_word_new_line8 | extend
+provide
+observe
+educate
+verb
+floor
+august
+weather |  
+| bip_39_word_new_line9 | extend
+provide
+observe
+educate
+verb
+floor
+august
+weather
+stool |  
+| bip_39_word_space_0 | ['extend', 'provide', 'observe', 'educate', 'verb', 'floor', 'august', 'weather', 'stool', 'print', 'usage', 'admit'] |  
+| bip_39_word_space_1 | extend |  
+| bip_39_word_space_10 | extend provide observe educate verb floor august weather stool print |  
+| bip_39_word_space_11 | extend provide observe educate verb floor august weather stool print usage |  
+| bip_39_word_space_12 | extend provide observe educate verb floor august weather stool print usage admit |  
+| bip_39_word_space_2 | extend provide |  
+| bip_39_word_space_3 | extend provide observe |  
+| bip_39_word_space_4 | extend provide observe educate |  
+| bip_39_word_space_5 | extend provide observe educate verb |  
+| bip_39_word_space_6 | extend provide observe educate verb floor |  
+| bip_39_word_space_7 | extend provide observe educate verb floor august |  
+| bip_39_word_space_8 | extend provide observe educate verb floor august weather |  
+| bip_39_word_space_9 | extend provide observe educate verb floor august weather stool |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

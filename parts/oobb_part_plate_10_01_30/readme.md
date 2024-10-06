@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: define type
+  * bip 39 word 3: define type demise
+  * bip 39 word: define type demise stone bleak quality ready access jazz loyal gap actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | define |  
+| bip_39_word_new_br10 | define<br>type<br>demise<br>stone<br>bleak<br>quality<br>ready<br>access<br>jazz<br>loyal |  
+| bip_39_word_new_br11 | define<br>type<br>demise<br>stone<br>bleak<br>quality<br>ready<br>access<br>jazz<br>loyal<br>gap |  
+| bip_39_word_new_br12 | define<br>type<br>demise<br>stone<br>bleak<br>quality<br>ready<br>access<br>jazz<br>loyal<br>gap<br>actress |  
+| bip_39_word_new_br2 | define<br>type |  
+| bip_39_word_new_br3 | define<br>type<br>demise |  
+| bip_39_word_new_br4 | define<br>type<br>demise<br>stone |  
+| bip_39_word_new_br5 | define<br>type<br>demise<br>stone<br>bleak |  
+| bip_39_word_new_br6 | define<br>type<br>demise<br>stone<br>bleak<br>quality |  
+| bip_39_word_new_br7 | define<br>type<br>demise<br>stone<br>bleak<br>quality<br>ready |  
+| bip_39_word_new_br8 | define<br>type<br>demise<br>stone<br>bleak<br>quality<br>ready<br>access |  
+| bip_39_word_new_br9 | define<br>type<br>demise<br>stone<br>bleak<br>quality<br>ready<br>access<br>jazz |  
+| bip_39_word_new_line1 | define |  
+| bip_39_word_new_line10 | define
+type
+demise
+stone
+bleak
+quality
+ready
+access
+jazz
+loyal |  
+| bip_39_word_new_line11 | define
+type
+demise
+stone
+bleak
+quality
+ready
+access
+jazz
+loyal
+gap |  
+| bip_39_word_new_line12 | define
+type
+demise
+stone
+bleak
+quality
+ready
+access
+jazz
+loyal
+gap
+actress |  
+| bip_39_word_new_line2 | define
+type |  
+| bip_39_word_new_line3 | define
+type
+demise |  
+| bip_39_word_new_line4 | define
+type
+demise
+stone |  
+| bip_39_word_new_line5 | define
+type
+demise
+stone
+bleak |  
+| bip_39_word_new_line6 | define
+type
+demise
+stone
+bleak
+quality |  
+| bip_39_word_new_line7 | define
+type
+demise
+stone
+bleak
+quality
+ready |  
+| bip_39_word_new_line8 | define
+type
+demise
+stone
+bleak
+quality
+ready
+access |  
+| bip_39_word_new_line9 | define
+type
+demise
+stone
+bleak
+quality
+ready
+access
+jazz |  
+| bip_39_word_space_0 | ['define', 'type', 'demise', 'stone', 'bleak', 'quality', 'ready', 'access', 'jazz', 'loyal', 'gap', 'actress'] |  
+| bip_39_word_space_1 | define |  
+| bip_39_word_space_10 | define type demise stone bleak quality ready access jazz loyal |  
+| bip_39_word_space_11 | define type demise stone bleak quality ready access jazz loyal gap |  
+| bip_39_word_space_12 | define type demise stone bleak quality ready access jazz loyal gap actress |  
+| bip_39_word_space_2 | define type |  
+| bip_39_word_space_3 | define type demise |  
+| bip_39_word_space_4 | define type demise stone |  
+| bip_39_word_space_5 | define type demise stone bleak |  
+| bip_39_word_space_6 | define type demise stone bleak quality |  
+| bip_39_word_space_7 | define type demise stone bleak quality ready |  
+| bip_39_word_space_8 | define type demise stone bleak quality ready access |  
+| bip_39_word_space_9 | define type demise stone bleak quality ready access jazz |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

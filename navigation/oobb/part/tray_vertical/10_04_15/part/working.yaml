@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hazard
+bip_39_word_new_br10: hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim
+bip_39_word_new_br11: hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim<br>print
+bip_39_word_new_br12: hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily<br>swim<br>print<br>april
+bip_39_word_new_br2: hazard<br>kind
+bip_39_word_new_br3: hazard<br>kind<br>print
+bip_39_word_new_br4: hazard<br>kind<br>print<br>cactus
+bip_39_word_new_br5: hazard<br>kind<br>print<br>cactus<br>ignore
+bip_39_word_new_br6: hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal
+bip_39_word_new_br7: hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely
+bip_39_word_new_br8: hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk
+bip_39_word_new_br9: hazard<br>kind<br>print<br>cactus<br>ignore<br>fatal<br>barely<br>silk<br>easily
+bip_39_word_new_line1: hazard
+bip_39_word_new_line10: 'hazard
+
+  kind
+
+  print
+
+  cactus
+
+  ignore
+
+  fatal
+
+  barely
+
+  silk
+
+  easily
+
+  swim'
+bip_39_word_new_line11: 'hazard
+
+  kind
+
+  print
+
+  cactus
+
+  ignore
+
+  fatal
+
+  barely
+
+  silk
+
+  easily
+
+  swim
+
+  print'
+bip_39_word_new_line12: 'hazard
+
+  kind
+
+  print
+
+  cactus
+
+  ignore
+
+  fatal
+
+  barely
+
+  silk
+
+  easily
+
+  swim
+
+  print
+
+  april'
+bip_39_word_new_line2: 'hazard
+
+  kind'
+bip_39_word_new_line3: 'hazard
+
+  kind
+
+  print'
+bip_39_word_new_line4: 'hazard
+
+  kind
+
+  print
+
+  cactus'
+bip_39_word_new_line5: 'hazard
+
+  kind
+
+  print
+
+  cactus
+
+  ignore'
+bip_39_word_new_line6: 'hazard
+
+  kind
+
+  print
+
+  cactus
+
+  ignore
+
+  fatal'
+bip_39_word_new_line7: 'hazard
+
+  kind
+
+  print
+
+  cactus
+
+  ignore
+
+  fatal
+
+  barely'
+bip_39_word_new_line8: 'hazard
+
+  kind
+
+  print
+
+  cactus
+
+  ignore
+
+  fatal
+
+  barely
+
+  silk'
+bip_39_word_new_line9: 'hazard
+
+  kind
+
+  print
+
+  cactus
+
+  ignore
+
+  fatal
+
+  barely
+
+  silk
+
+  easily'
+bip_39_word_space_0:
+- hazard
+- kind
+- print
+- cactus
+- ignore
+- fatal
+- barely
+- silk
+- easily
+- swim
+- print
+- april
+bip_39_word_space_1: hazard
+bip_39_word_space_10: hazard kind print cactus ignore fatal barely silk easily swim
+bip_39_word_space_11: hazard kind print cactus ignore fatal barely silk easily swim
+  print
+bip_39_word_space_12: hazard kind print cactus ignore fatal barely silk easily swim
+  print april
+bip_39_word_space_2: hazard kind
+bip_39_word_space_3: hazard kind print
+bip_39_word_space_4: hazard kind print cactus
+bip_39_word_space_5: hazard kind print cactus ignore
+bip_39_word_space_6: hazard kind print cactus ignore fatal
+bip_39_word_space_7: hazard kind print cactus ignore fatal barely
+bip_39_word_space_8: hazard kind print cactus ignore fatal barely silk
+bip_39_word_space_9: hazard kind print cactus ignore fatal barely silk easily
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: point image
+  * bip 39 word 3: point image glow
+  * bip 39 word: point image glow sting boy inflict stand cradle employ top outdoor athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | point |  
+| bip_39_word_new_br10 | point<br>image<br>glow<br>sting<br>boy<br>inflict<br>stand<br>cradle<br>employ<br>top |  
+| bip_39_word_new_br11 | point<br>image<br>glow<br>sting<br>boy<br>inflict<br>stand<br>cradle<br>employ<br>top<br>outdoor |  
+| bip_39_word_new_br12 | point<br>image<br>glow<br>sting<br>boy<br>inflict<br>stand<br>cradle<br>employ<br>top<br>outdoor<br>athlete |  
+| bip_39_word_new_br2 | point<br>image |  
+| bip_39_word_new_br3 | point<br>image<br>glow |  
+| bip_39_word_new_br4 | point<br>image<br>glow<br>sting |  
+| bip_39_word_new_br5 | point<br>image<br>glow<br>sting<br>boy |  
+| bip_39_word_new_br6 | point<br>image<br>glow<br>sting<br>boy<br>inflict |  
+| bip_39_word_new_br7 | point<br>image<br>glow<br>sting<br>boy<br>inflict<br>stand |  
+| bip_39_word_new_br8 | point<br>image<br>glow<br>sting<br>boy<br>inflict<br>stand<br>cradle |  
+| bip_39_word_new_br9 | point<br>image<br>glow<br>sting<br>boy<br>inflict<br>stand<br>cradle<br>employ |  
+| bip_39_word_new_line1 | point |  
+| bip_39_word_new_line10 | point
+image
+glow
+sting
+boy
+inflict
+stand
+cradle
+employ
+top |  
+| bip_39_word_new_line11 | point
+image
+glow
+sting
+boy
+inflict
+stand
+cradle
+employ
+top
+outdoor |  
+| bip_39_word_new_line12 | point
+image
+glow
+sting
+boy
+inflict
+stand
+cradle
+employ
+top
+outdoor
+athlete |  
+| bip_39_word_new_line2 | point
+image |  
+| bip_39_word_new_line3 | point
+image
+glow |  
+| bip_39_word_new_line4 | point
+image
+glow
+sting |  
+| bip_39_word_new_line5 | point
+image
+glow
+sting
+boy |  
+| bip_39_word_new_line6 | point
+image
+glow
+sting
+boy
+inflict |  
+| bip_39_word_new_line7 | point
+image
+glow
+sting
+boy
+inflict
+stand |  
+| bip_39_word_new_line8 | point
+image
+glow
+sting
+boy
+inflict
+stand
+cradle |  
+| bip_39_word_new_line9 | point
+image
+glow
+sting
+boy
+inflict
+stand
+cradle
+employ |  
+| bip_39_word_space_0 | ['point', 'image', 'glow', 'sting', 'boy', 'inflict', 'stand', 'cradle', 'employ', 'top', 'outdoor', 'athlete'] |  
+| bip_39_word_space_1 | point |  
+| bip_39_word_space_10 | point image glow sting boy inflict stand cradle employ top |  
+| bip_39_word_space_11 | point image glow sting boy inflict stand cradle employ top outdoor |  
+| bip_39_word_space_12 | point image glow sting boy inflict stand cradle employ top outdoor athlete |  
+| bip_39_word_space_2 | point image |  
+| bip_39_word_space_3 | point image glow |  
+| bip_39_word_space_4 | point image glow sting |  
+| bip_39_word_space_5 | point image glow sting boy |  
+| bip_39_word_space_6 | point image glow sting boy inflict |  
+| bip_39_word_space_7 | point image glow sting boy inflict stand |  
+| bip_39_word_space_8 | point image glow sting boy inflict stand cradle |  
+| bip_39_word_space_9 | point image glow sting boy inflict stand cradle employ |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

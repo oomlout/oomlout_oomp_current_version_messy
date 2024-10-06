@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arctic ride
+  * bip 39 word 3: arctic ride token
+  * bip 39 word: arctic ride token balance skirt protect member fire vault course treat account
 
 ### other_codes
 * short_code: cs2b22h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arctic |  
+| bip_39_word_new_br10 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect<br>member<br>fire<br>vault<br>course |  
+| bip_39_word_new_br11 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect<br>member<br>fire<br>vault<br>course<br>treat |  
+| bip_39_word_new_br12 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect<br>member<br>fire<br>vault<br>course<br>treat<br>account |  
+| bip_39_word_new_br2 | arctic<br>ride |  
+| bip_39_word_new_br3 | arctic<br>ride<br>token |  
+| bip_39_word_new_br4 | arctic<br>ride<br>token<br>balance |  
+| bip_39_word_new_br5 | arctic<br>ride<br>token<br>balance<br>skirt |  
+| bip_39_word_new_br6 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect |  
+| bip_39_word_new_br7 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect<br>member |  
+| bip_39_word_new_br8 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect<br>member<br>fire |  
+| bip_39_word_new_br9 | arctic<br>ride<br>token<br>balance<br>skirt<br>protect<br>member<br>fire<br>vault |  
+| bip_39_word_new_line1 | arctic |  
+| bip_39_word_new_line10 | arctic
+ride
+token
+balance
+skirt
+protect
+member
+fire
+vault
+course |  
+| bip_39_word_new_line11 | arctic
+ride
+token
+balance
+skirt
+protect
+member
+fire
+vault
+course
+treat |  
+| bip_39_word_new_line12 | arctic
+ride
+token
+balance
+skirt
+protect
+member
+fire
+vault
+course
+treat
+account |  
+| bip_39_word_new_line2 | arctic
+ride |  
+| bip_39_word_new_line3 | arctic
+ride
+token |  
+| bip_39_word_new_line4 | arctic
+ride
+token
+balance |  
+| bip_39_word_new_line5 | arctic
+ride
+token
+balance
+skirt |  
+| bip_39_word_new_line6 | arctic
+ride
+token
+balance
+skirt
+protect |  
+| bip_39_word_new_line7 | arctic
+ride
+token
+balance
+skirt
+protect
+member |  
+| bip_39_word_new_line8 | arctic
+ride
+token
+balance
+skirt
+protect
+member
+fire |  
+| bip_39_word_new_line9 | arctic
+ride
+token
+balance
+skirt
+protect
+member
+fire
+vault |  
+| bip_39_word_space_0 | ['arctic', 'ride', 'token', 'balance', 'skirt', 'protect', 'member', 'fire', 'vault', 'course', 'treat', 'account'] |  
+| bip_39_word_space_1 | arctic |  
+| bip_39_word_space_10 | arctic ride token balance skirt protect member fire vault course |  
+| bip_39_word_space_11 | arctic ride token balance skirt protect member fire vault course treat |  
+| bip_39_word_space_12 | arctic ride token balance skirt protect member fire vault course treat account |  
+| bip_39_word_space_2 | arctic ride |  
+| bip_39_word_space_3 | arctic ride token |  
+| bip_39_word_space_4 | arctic ride token balance |  
+| bip_39_word_space_5 | arctic ride token balance skirt |  
+| bip_39_word_space_6 | arctic ride token balance skirt protect |  
+| bip_39_word_space_7 | arctic ride token balance skirt protect member |  
+| bip_39_word_space_8 | arctic ride token balance skirt protect member fire |  
+| bip_39_word_space_9 | arctic ride token balance skirt protect member fire vault |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: matter excuse
+  * bip 39 word 3: matter excuse metal
+  * bip 39 word: matter excuse metal guilt jeans crumble rely erode ivory neither kidney athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | matter |  
+| bip_39_word_new_br10 | matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble<br>rely<br>erode<br>ivory<br>neither |  
+| bip_39_word_new_br11 | matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble<br>rely<br>erode<br>ivory<br>neither<br>kidney |  
+| bip_39_word_new_br12 | matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble<br>rely<br>erode<br>ivory<br>neither<br>kidney<br>athlete |  
+| bip_39_word_new_br2 | matter<br>excuse |  
+| bip_39_word_new_br3 | matter<br>excuse<br>metal |  
+| bip_39_word_new_br4 | matter<br>excuse<br>metal<br>guilt |  
+| bip_39_word_new_br5 | matter<br>excuse<br>metal<br>guilt<br>jeans |  
+| bip_39_word_new_br6 | matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble |  
+| bip_39_word_new_br7 | matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble<br>rely |  
+| bip_39_word_new_br8 | matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble<br>rely<br>erode |  
+| bip_39_word_new_br9 | matter<br>excuse<br>metal<br>guilt<br>jeans<br>crumble<br>rely<br>erode<br>ivory |  
+| bip_39_word_new_line1 | matter |  
+| bip_39_word_new_line10 | matter
+excuse
+metal
+guilt
+jeans
+crumble
+rely
+erode
+ivory
+neither |  
+| bip_39_word_new_line11 | matter
+excuse
+metal
+guilt
+jeans
+crumble
+rely
+erode
+ivory
+neither
+kidney |  
+| bip_39_word_new_line12 | matter
+excuse
+metal
+guilt
+jeans
+crumble
+rely
+erode
+ivory
+neither
+kidney
+athlete |  
+| bip_39_word_new_line2 | matter
+excuse |  
+| bip_39_word_new_line3 | matter
+excuse
+metal |  
+| bip_39_word_new_line4 | matter
+excuse
+metal
+guilt |  
+| bip_39_word_new_line5 | matter
+excuse
+metal
+guilt
+jeans |  
+| bip_39_word_new_line6 | matter
+excuse
+metal
+guilt
+jeans
+crumble |  
+| bip_39_word_new_line7 | matter
+excuse
+metal
+guilt
+jeans
+crumble
+rely |  
+| bip_39_word_new_line8 | matter
+excuse
+metal
+guilt
+jeans
+crumble
+rely
+erode |  
+| bip_39_word_new_line9 | matter
+excuse
+metal
+guilt
+jeans
+crumble
+rely
+erode
+ivory |  
+| bip_39_word_space_0 | ['matter', 'excuse', 'metal', 'guilt', 'jeans', 'crumble', 'rely', 'erode', 'ivory', 'neither', 'kidney', 'athlete'] |  
+| bip_39_word_space_1 | matter |  
+| bip_39_word_space_10 | matter excuse metal guilt jeans crumble rely erode ivory neither |  
+| bip_39_word_space_11 | matter excuse metal guilt jeans crumble rely erode ivory neither kidney |  
+| bip_39_word_space_12 | matter excuse metal guilt jeans crumble rely erode ivory neither kidney athlete |  
+| bip_39_word_space_2 | matter excuse |  
+| bip_39_word_space_3 | matter excuse metal |  
+| bip_39_word_space_4 | matter excuse metal guilt |  
+| bip_39_word_space_5 | matter excuse metal guilt jeans |  
+| bip_39_word_space_6 | matter excuse metal guilt jeans crumble |  
+| bip_39_word_space_7 | matter excuse metal guilt jeans crumble rely |  
+| bip_39_word_space_8 | matter excuse metal guilt jeans crumble rely erode |  
+| bip_39_word_space_9 | matter excuse metal guilt jeans crumble rely erode ivory |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

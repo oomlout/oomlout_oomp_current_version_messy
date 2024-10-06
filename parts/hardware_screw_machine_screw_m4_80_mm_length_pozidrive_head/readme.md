@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: violin penalty
+  * bip 39 word 3: violin penalty call
+  * bip 39 word: violin penalty call end disagree kiss ordinary release fly junk sign acquire
 
 ### other_codes
 * short_code: ms4m80pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | violin |  
+| bip_39_word_new_br10 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly<br>junk |  
+| bip_39_word_new_br11 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly<br>junk<br>sign |  
+| bip_39_word_new_br12 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly<br>junk<br>sign<br>acquire |  
+| bip_39_word_new_br2 | violin<br>penalty |  
+| bip_39_word_new_br3 | violin<br>penalty<br>call |  
+| bip_39_word_new_br4 | violin<br>penalty<br>call<br>end |  
+| bip_39_word_new_br5 | violin<br>penalty<br>call<br>end<br>disagree |  
+| bip_39_word_new_br6 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss |  
+| bip_39_word_new_br7 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary |  
+| bip_39_word_new_br8 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release |  
+| bip_39_word_new_br9 | violin<br>penalty<br>call<br>end<br>disagree<br>kiss<br>ordinary<br>release<br>fly |  
+| bip_39_word_new_line1 | violin |  
+| bip_39_word_new_line10 | violin
+penalty
+call
+end
+disagree
+kiss
+ordinary
+release
+fly
+junk |  
+| bip_39_word_new_line11 | violin
+penalty
+call
+end
+disagree
+kiss
+ordinary
+release
+fly
+junk
+sign |  
+| bip_39_word_new_line12 | violin
+penalty
+call
+end
+disagree
+kiss
+ordinary
+release
+fly
+junk
+sign
+acquire |  
+| bip_39_word_new_line2 | violin
+penalty |  
+| bip_39_word_new_line3 | violin
+penalty
+call |  
+| bip_39_word_new_line4 | violin
+penalty
+call
+end |  
+| bip_39_word_new_line5 | violin
+penalty
+call
+end
+disagree |  
+| bip_39_word_new_line6 | violin
+penalty
+call
+end
+disagree
+kiss |  
+| bip_39_word_new_line7 | violin
+penalty
+call
+end
+disagree
+kiss
+ordinary |  
+| bip_39_word_new_line8 | violin
+penalty
+call
+end
+disagree
+kiss
+ordinary
+release |  
+| bip_39_word_new_line9 | violin
+penalty
+call
+end
+disagree
+kiss
+ordinary
+release
+fly |  
+| bip_39_word_space_0 | ['violin', 'penalty', 'call', 'end', 'disagree', 'kiss', 'ordinary', 'release', 'fly', 'junk', 'sign', 'acquire'] |  
+| bip_39_word_space_1 | violin |  
+| bip_39_word_space_10 | violin penalty call end disagree kiss ordinary release fly junk |  
+| bip_39_word_space_11 | violin penalty call end disagree kiss ordinary release fly junk sign |  
+| bip_39_word_space_12 | violin penalty call end disagree kiss ordinary release fly junk sign acquire |  
+| bip_39_word_space_2 | violin penalty |  
+| bip_39_word_space_3 | violin penalty call |  
+| bip_39_word_space_4 | violin penalty call end |  
+| bip_39_word_space_5 | violin penalty call end disagree |  
+| bip_39_word_space_6 | violin penalty call end disagree kiss |  
+| bip_39_word_space_7 | violin penalty call end disagree kiss ordinary |  
+| bip_39_word_space_8 | violin penalty call end disagree kiss ordinary release |  
+| bip_39_word_space_9 | violin penalty call end disagree kiss ordinary release fly |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

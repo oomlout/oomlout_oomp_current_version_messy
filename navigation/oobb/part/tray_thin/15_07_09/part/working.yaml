@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wait
+bip_39_word_new_br10: wait<br>lion<br>all<br>state<br>march<br>unhappy<br>cruise<br>jelly<br>punch<br>ribbon
+bip_39_word_new_br11: wait<br>lion<br>all<br>state<br>march<br>unhappy<br>cruise<br>jelly<br>punch<br>ribbon<br>text
+bip_39_word_new_br12: wait<br>lion<br>all<br>state<br>march<br>unhappy<br>cruise<br>jelly<br>punch<br>ribbon<br>text<br>achieve
+bip_39_word_new_br2: wait<br>lion
+bip_39_word_new_br3: wait<br>lion<br>all
+bip_39_word_new_br4: wait<br>lion<br>all<br>state
+bip_39_word_new_br5: wait<br>lion<br>all<br>state<br>march
+bip_39_word_new_br6: wait<br>lion<br>all<br>state<br>march<br>unhappy
+bip_39_word_new_br7: wait<br>lion<br>all<br>state<br>march<br>unhappy<br>cruise
+bip_39_word_new_br8: wait<br>lion<br>all<br>state<br>march<br>unhappy<br>cruise<br>jelly
+bip_39_word_new_br9: wait<br>lion<br>all<br>state<br>march<br>unhappy<br>cruise<br>jelly<br>punch
+bip_39_word_new_line1: wait
+bip_39_word_new_line10: 'wait
+
+  lion
+
+  all
+
+  state
+
+  march
+
+  unhappy
+
+  cruise
+
+  jelly
+
+  punch
+
+  ribbon'
+bip_39_word_new_line11: 'wait
+
+  lion
+
+  all
+
+  state
+
+  march
+
+  unhappy
+
+  cruise
+
+  jelly
+
+  punch
+
+  ribbon
+
+  text'
+bip_39_word_new_line12: 'wait
+
+  lion
+
+  all
+
+  state
+
+  march
+
+  unhappy
+
+  cruise
+
+  jelly
+
+  punch
+
+  ribbon
+
+  text
+
+  achieve'
+bip_39_word_new_line2: 'wait
+
+  lion'
+bip_39_word_new_line3: 'wait
+
+  lion
+
+  all'
+bip_39_word_new_line4: 'wait
+
+  lion
+
+  all
+
+  state'
+bip_39_word_new_line5: 'wait
+
+  lion
+
+  all
+
+  state
+
+  march'
+bip_39_word_new_line6: 'wait
+
+  lion
+
+  all
+
+  state
+
+  march
+
+  unhappy'
+bip_39_word_new_line7: 'wait
+
+  lion
+
+  all
+
+  state
+
+  march
+
+  unhappy
+
+  cruise'
+bip_39_word_new_line8: 'wait
+
+  lion
+
+  all
+
+  state
+
+  march
+
+  unhappy
+
+  cruise
+
+  jelly'
+bip_39_word_new_line9: 'wait
+
+  lion
+
+  all
+
+  state
+
+  march
+
+  unhappy
+
+  cruise
+
+  jelly
+
+  punch'
+bip_39_word_space_0:
+- wait
+- lion
+- all
+- state
+- march
+- unhappy
+- cruise
+- jelly
+- punch
+- ribbon
+- text
+- achieve
+bip_39_word_space_1: wait
+bip_39_word_space_10: wait lion all state march unhappy cruise jelly punch ribbon
+bip_39_word_space_11: wait lion all state march unhappy cruise jelly punch ribbon
+  text
+bip_39_word_space_12: wait lion all state march unhappy cruise jelly punch ribbon
+  text achieve
+bip_39_word_space_2: wait lion
+bip_39_word_space_3: wait lion all
+bip_39_word_space_4: wait lion all state
+bip_39_word_space_5: wait lion all state march
+bip_39_word_space_6: wait lion all state march unhappy
+bip_39_word_space_7: wait lion all state march unhappy cruise
+bip_39_word_space_8: wait lion all state march unhappy cruise jelly
+bip_39_word_space_9: wait lion all state march unhappy cruise jelly punch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

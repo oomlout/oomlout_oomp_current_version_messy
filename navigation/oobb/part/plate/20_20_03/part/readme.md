@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pluck lunar
+  * bip 39 word 3: pluck lunar anger
+  * bip 39 word: pluck lunar anger tourist final voyage funny sand panel soft symbol adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pluck |  
+| bip_39_word_new_br10 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft |  
+| bip_39_word_new_br11 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft<br>symbol |  
+| bip_39_word_new_br12 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel<br>soft<br>symbol<br>adapt |  
+| bip_39_word_new_br2 | pluck<br>lunar |  
+| bip_39_word_new_br3 | pluck<br>lunar<br>anger |  
+| bip_39_word_new_br4 | pluck<br>lunar<br>anger<br>tourist |  
+| bip_39_word_new_br5 | pluck<br>lunar<br>anger<br>tourist<br>final |  
+| bip_39_word_new_br6 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage |  
+| bip_39_word_new_br7 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny |  
+| bip_39_word_new_br8 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand |  
+| bip_39_word_new_br9 | pluck<br>lunar<br>anger<br>tourist<br>final<br>voyage<br>funny<br>sand<br>panel |  
+| bip_39_word_new_line1 | pluck |  
+| bip_39_word_new_line10 | pluck
+lunar
+anger
+tourist
+final
+voyage
+funny
+sand
+panel
+soft |  
+| bip_39_word_new_line11 | pluck
+lunar
+anger
+tourist
+final
+voyage
+funny
+sand
+panel
+soft
+symbol |  
+| bip_39_word_new_line12 | pluck
+lunar
+anger
+tourist
+final
+voyage
+funny
+sand
+panel
+soft
+symbol
+adapt |  
+| bip_39_word_new_line2 | pluck
+lunar |  
+| bip_39_word_new_line3 | pluck
+lunar
+anger |  
+| bip_39_word_new_line4 | pluck
+lunar
+anger
+tourist |  
+| bip_39_word_new_line5 | pluck
+lunar
+anger
+tourist
+final |  
+| bip_39_word_new_line6 | pluck
+lunar
+anger
+tourist
+final
+voyage |  
+| bip_39_word_new_line7 | pluck
+lunar
+anger
+tourist
+final
+voyage
+funny |  
+| bip_39_word_new_line8 | pluck
+lunar
+anger
+tourist
+final
+voyage
+funny
+sand |  
+| bip_39_word_new_line9 | pluck
+lunar
+anger
+tourist
+final
+voyage
+funny
+sand
+panel |  
+| bip_39_word_space_0 | ['pluck', 'lunar', 'anger', 'tourist', 'final', 'voyage', 'funny', 'sand', 'panel', 'soft', 'symbol', 'adapt'] |  
+| bip_39_word_space_1 | pluck |  
+| bip_39_word_space_10 | pluck lunar anger tourist final voyage funny sand panel soft |  
+| bip_39_word_space_11 | pluck lunar anger tourist final voyage funny sand panel soft symbol |  
+| bip_39_word_space_12 | pluck lunar anger tourist final voyage funny sand panel soft symbol adapt |  
+| bip_39_word_space_2 | pluck lunar |  
+| bip_39_word_space_3 | pluck lunar anger |  
+| bip_39_word_space_4 | pluck lunar anger tourist |  
+| bip_39_word_space_5 | pluck lunar anger tourist final |  
+| bip_39_word_space_6 | pluck lunar anger tourist final voyage |  
+| bip_39_word_space_7 | pluck lunar anger tourist final voyage funny |  
+| bip_39_word_space_8 | pluck lunar anger tourist final voyage funny sand |  
+| bip_39_word_space_9 | pluck lunar anger tourist final voyage funny sand panel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

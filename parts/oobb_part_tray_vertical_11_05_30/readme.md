@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diet science
+  * bip 39 word 3: diet science session
+  * bip 39 word: diet science session violin broccoli lottery enact rabbit peanut purity section assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diet |  
+| bip_39_word_new_br10 | diet<br>science<br>session<br>violin<br>broccoli<br>lottery<br>enact<br>rabbit<br>peanut<br>purity |  
+| bip_39_word_new_br11 | diet<br>science<br>session<br>violin<br>broccoli<br>lottery<br>enact<br>rabbit<br>peanut<br>purity<br>section |  
+| bip_39_word_new_br12 | diet<br>science<br>session<br>violin<br>broccoli<br>lottery<br>enact<br>rabbit<br>peanut<br>purity<br>section<br>assume |  
+| bip_39_word_new_br2 | diet<br>science |  
+| bip_39_word_new_br3 | diet<br>science<br>session |  
+| bip_39_word_new_br4 | diet<br>science<br>session<br>violin |  
+| bip_39_word_new_br5 | diet<br>science<br>session<br>violin<br>broccoli |  
+| bip_39_word_new_br6 | diet<br>science<br>session<br>violin<br>broccoli<br>lottery |  
+| bip_39_word_new_br7 | diet<br>science<br>session<br>violin<br>broccoli<br>lottery<br>enact |  
+| bip_39_word_new_br8 | diet<br>science<br>session<br>violin<br>broccoli<br>lottery<br>enact<br>rabbit |  
+| bip_39_word_new_br9 | diet<br>science<br>session<br>violin<br>broccoli<br>lottery<br>enact<br>rabbit<br>peanut |  
+| bip_39_word_new_line1 | diet |  
+| bip_39_word_new_line10 | diet
+science
+session
+violin
+broccoli
+lottery
+enact
+rabbit
+peanut
+purity |  
+| bip_39_word_new_line11 | diet
+science
+session
+violin
+broccoli
+lottery
+enact
+rabbit
+peanut
+purity
+section |  
+| bip_39_word_new_line12 | diet
+science
+session
+violin
+broccoli
+lottery
+enact
+rabbit
+peanut
+purity
+section
+assume |  
+| bip_39_word_new_line2 | diet
+science |  
+| bip_39_word_new_line3 | diet
+science
+session |  
+| bip_39_word_new_line4 | diet
+science
+session
+violin |  
+| bip_39_word_new_line5 | diet
+science
+session
+violin
+broccoli |  
+| bip_39_word_new_line6 | diet
+science
+session
+violin
+broccoli
+lottery |  
+| bip_39_word_new_line7 | diet
+science
+session
+violin
+broccoli
+lottery
+enact |  
+| bip_39_word_new_line8 | diet
+science
+session
+violin
+broccoli
+lottery
+enact
+rabbit |  
+| bip_39_word_new_line9 | diet
+science
+session
+violin
+broccoli
+lottery
+enact
+rabbit
+peanut |  
+| bip_39_word_space_0 | ['diet', 'science', 'session', 'violin', 'broccoli', 'lottery', 'enact', 'rabbit', 'peanut', 'purity', 'section', 'assume'] |  
+| bip_39_word_space_1 | diet |  
+| bip_39_word_space_10 | diet science session violin broccoli lottery enact rabbit peanut purity |  
+| bip_39_word_space_11 | diet science session violin broccoli lottery enact rabbit peanut purity section |  
+| bip_39_word_space_12 | diet science session violin broccoli lottery enact rabbit peanut purity section assume |  
+| bip_39_word_space_2 | diet science |  
+| bip_39_word_space_3 | diet science session |  
+| bip_39_word_space_4 | diet science session violin |  
+| bip_39_word_space_5 | diet science session violin broccoli |  
+| bip_39_word_space_6 | diet science session violin broccoli lottery |  
+| bip_39_word_space_7 | diet science session violin broccoli lottery enact |  
+| bip_39_word_space_8 | diet science session violin broccoli lottery enact rabbit |  
+| bip_39_word_space_9 | diet science session violin broccoli lottery enact rabbit peanut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

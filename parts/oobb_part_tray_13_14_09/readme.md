@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: post duty
+  * bip 39 word 3: post duty awesome
+  * bip 39 word: post duty awesome cinnamon gentle foster exhaust rival stamp that gravity apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | post |  
+| bip_39_word_new_br10 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster<br>exhaust<br>rival<br>stamp<br>that |  
+| bip_39_word_new_br11 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster<br>exhaust<br>rival<br>stamp<br>that<br>gravity |  
+| bip_39_word_new_br12 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster<br>exhaust<br>rival<br>stamp<br>that<br>gravity<br>apart |  
+| bip_39_word_new_br2 | post<br>duty |  
+| bip_39_word_new_br3 | post<br>duty<br>awesome |  
+| bip_39_word_new_br4 | post<br>duty<br>awesome<br>cinnamon |  
+| bip_39_word_new_br5 | post<br>duty<br>awesome<br>cinnamon<br>gentle |  
+| bip_39_word_new_br6 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster |  
+| bip_39_word_new_br7 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster<br>exhaust |  
+| bip_39_word_new_br8 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster<br>exhaust<br>rival |  
+| bip_39_word_new_br9 | post<br>duty<br>awesome<br>cinnamon<br>gentle<br>foster<br>exhaust<br>rival<br>stamp |  
+| bip_39_word_new_line1 | post |  
+| bip_39_word_new_line10 | post
+duty
+awesome
+cinnamon
+gentle
+foster
+exhaust
+rival
+stamp
+that |  
+| bip_39_word_new_line11 | post
+duty
+awesome
+cinnamon
+gentle
+foster
+exhaust
+rival
+stamp
+that
+gravity |  
+| bip_39_word_new_line12 | post
+duty
+awesome
+cinnamon
+gentle
+foster
+exhaust
+rival
+stamp
+that
+gravity
+apart |  
+| bip_39_word_new_line2 | post
+duty |  
+| bip_39_word_new_line3 | post
+duty
+awesome |  
+| bip_39_word_new_line4 | post
+duty
+awesome
+cinnamon |  
+| bip_39_word_new_line5 | post
+duty
+awesome
+cinnamon
+gentle |  
+| bip_39_word_new_line6 | post
+duty
+awesome
+cinnamon
+gentle
+foster |  
+| bip_39_word_new_line7 | post
+duty
+awesome
+cinnamon
+gentle
+foster
+exhaust |  
+| bip_39_word_new_line8 | post
+duty
+awesome
+cinnamon
+gentle
+foster
+exhaust
+rival |  
+| bip_39_word_new_line9 | post
+duty
+awesome
+cinnamon
+gentle
+foster
+exhaust
+rival
+stamp |  
+| bip_39_word_space_0 | ['post', 'duty', 'awesome', 'cinnamon', 'gentle', 'foster', 'exhaust', 'rival', 'stamp', 'that', 'gravity', 'apart'] |  
+| bip_39_word_space_1 | post |  
+| bip_39_word_space_10 | post duty awesome cinnamon gentle foster exhaust rival stamp that |  
+| bip_39_word_space_11 | post duty awesome cinnamon gentle foster exhaust rival stamp that gravity |  
+| bip_39_word_space_12 | post duty awesome cinnamon gentle foster exhaust rival stamp that gravity apart |  
+| bip_39_word_space_2 | post duty |  
+| bip_39_word_space_3 | post duty awesome |  
+| bip_39_word_space_4 | post duty awesome cinnamon |  
+| bip_39_word_space_5 | post duty awesome cinnamon gentle |  
+| bip_39_word_space_6 | post duty awesome cinnamon gentle foster |  
+| bip_39_word_space_7 | post duty awesome cinnamon gentle foster exhaust |  
+| bip_39_word_space_8 | post duty awesome cinnamon gentle foster exhaust rival |  
+| bip_39_word_space_9 | post duty awesome cinnamon gentle foster exhaust rival stamp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

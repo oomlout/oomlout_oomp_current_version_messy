@@ -1,3 +1,186 @@
+bip_39_word_new_br1: soup
+bip_39_word_new_br10: soup<br>palace<br>middle<br>tape<br>ketchup<br>piece<br>husband<br>traffic<br>half<br>hub
+bip_39_word_new_br11: soup<br>palace<br>middle<br>tape<br>ketchup<br>piece<br>husband<br>traffic<br>half<br>hub<br>describe
+bip_39_word_new_br12: soup<br>palace<br>middle<br>tape<br>ketchup<br>piece<br>husband<br>traffic<br>half<br>hub<br>describe<br>autumn
+bip_39_word_new_br2: soup<br>palace
+bip_39_word_new_br3: soup<br>palace<br>middle
+bip_39_word_new_br4: soup<br>palace<br>middle<br>tape
+bip_39_word_new_br5: soup<br>palace<br>middle<br>tape<br>ketchup
+bip_39_word_new_br6: soup<br>palace<br>middle<br>tape<br>ketchup<br>piece
+bip_39_word_new_br7: soup<br>palace<br>middle<br>tape<br>ketchup<br>piece<br>husband
+bip_39_word_new_br8: soup<br>palace<br>middle<br>tape<br>ketchup<br>piece<br>husband<br>traffic
+bip_39_word_new_br9: soup<br>palace<br>middle<br>tape<br>ketchup<br>piece<br>husband<br>traffic<br>half
+bip_39_word_new_line1: soup
+bip_39_word_new_line10: 'soup
+
+  palace
+
+  middle
+
+  tape
+
+  ketchup
+
+  piece
+
+  husband
+
+  traffic
+
+  half
+
+  hub'
+bip_39_word_new_line11: 'soup
+
+  palace
+
+  middle
+
+  tape
+
+  ketchup
+
+  piece
+
+  husband
+
+  traffic
+
+  half
+
+  hub
+
+  describe'
+bip_39_word_new_line12: 'soup
+
+  palace
+
+  middle
+
+  tape
+
+  ketchup
+
+  piece
+
+  husband
+
+  traffic
+
+  half
+
+  hub
+
+  describe
+
+  autumn'
+bip_39_word_new_line2: 'soup
+
+  palace'
+bip_39_word_new_line3: 'soup
+
+  palace
+
+  middle'
+bip_39_word_new_line4: 'soup
+
+  palace
+
+  middle
+
+  tape'
+bip_39_word_new_line5: 'soup
+
+  palace
+
+  middle
+
+  tape
+
+  ketchup'
+bip_39_word_new_line6: 'soup
+
+  palace
+
+  middle
+
+  tape
+
+  ketchup
+
+  piece'
+bip_39_word_new_line7: 'soup
+
+  palace
+
+  middle
+
+  tape
+
+  ketchup
+
+  piece
+
+  husband'
+bip_39_word_new_line8: 'soup
+
+  palace
+
+  middle
+
+  tape
+
+  ketchup
+
+  piece
+
+  husband
+
+  traffic'
+bip_39_word_new_line9: 'soup
+
+  palace
+
+  middle
+
+  tape
+
+  ketchup
+
+  piece
+
+  husband
+
+  traffic
+
+  half'
+bip_39_word_space_0:
+- soup
+- palace
+- middle
+- tape
+- ketchup
+- piece
+- husband
+- traffic
+- half
+- hub
+- describe
+- autumn
+bip_39_word_space_1: soup
+bip_39_word_space_10: soup palace middle tape ketchup piece husband traffic half hub
+bip_39_word_space_11: soup palace middle tape ketchup piece husband traffic half hub
+  describe
+bip_39_word_space_12: soup palace middle tape ketchup piece husband traffic half hub
+  describe autumn
+bip_39_word_space_2: soup palace
+bip_39_word_space_3: soup palace middle
+bip_39_word_space_4: soup palace middle tape
+bip_39_word_space_5: soup palace middle tape ketchup
+bip_39_word_space_6: soup palace middle tape ketchup piece
+bip_39_word_space_7: soup palace middle tape ketchup piece husband
+bip_39_word_space_8: soup palace middle tape ketchup piece husband traffic
+bip_39_word_space_9: soup palace middle tape ketchup piece husband traffic half
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

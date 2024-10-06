@@ -1,3 +1,185 @@
+bip_39_word_new_br1: melt
+bip_39_word_new_br10: melt<br>check<br>code<br>loyal<br>solid<br>estate<br>pig<br>hover<br>valid<br>summer
+bip_39_word_new_br11: melt<br>check<br>code<br>loyal<br>solid<br>estate<br>pig<br>hover<br>valid<br>summer<br>stuff
+bip_39_word_new_br12: melt<br>check<br>code<br>loyal<br>solid<br>estate<br>pig<br>hover<br>valid<br>summer<br>stuff<br>aunt
+bip_39_word_new_br2: melt<br>check
+bip_39_word_new_br3: melt<br>check<br>code
+bip_39_word_new_br4: melt<br>check<br>code<br>loyal
+bip_39_word_new_br5: melt<br>check<br>code<br>loyal<br>solid
+bip_39_word_new_br6: melt<br>check<br>code<br>loyal<br>solid<br>estate
+bip_39_word_new_br7: melt<br>check<br>code<br>loyal<br>solid<br>estate<br>pig
+bip_39_word_new_br8: melt<br>check<br>code<br>loyal<br>solid<br>estate<br>pig<br>hover
+bip_39_word_new_br9: melt<br>check<br>code<br>loyal<br>solid<br>estate<br>pig<br>hover<br>valid
+bip_39_word_new_line1: melt
+bip_39_word_new_line10: 'melt
+
+  check
+
+  code
+
+  loyal
+
+  solid
+
+  estate
+
+  pig
+
+  hover
+
+  valid
+
+  summer'
+bip_39_word_new_line11: 'melt
+
+  check
+
+  code
+
+  loyal
+
+  solid
+
+  estate
+
+  pig
+
+  hover
+
+  valid
+
+  summer
+
+  stuff'
+bip_39_word_new_line12: 'melt
+
+  check
+
+  code
+
+  loyal
+
+  solid
+
+  estate
+
+  pig
+
+  hover
+
+  valid
+
+  summer
+
+  stuff
+
+  aunt'
+bip_39_word_new_line2: 'melt
+
+  check'
+bip_39_word_new_line3: 'melt
+
+  check
+
+  code'
+bip_39_word_new_line4: 'melt
+
+  check
+
+  code
+
+  loyal'
+bip_39_word_new_line5: 'melt
+
+  check
+
+  code
+
+  loyal
+
+  solid'
+bip_39_word_new_line6: 'melt
+
+  check
+
+  code
+
+  loyal
+
+  solid
+
+  estate'
+bip_39_word_new_line7: 'melt
+
+  check
+
+  code
+
+  loyal
+
+  solid
+
+  estate
+
+  pig'
+bip_39_word_new_line8: 'melt
+
+  check
+
+  code
+
+  loyal
+
+  solid
+
+  estate
+
+  pig
+
+  hover'
+bip_39_word_new_line9: 'melt
+
+  check
+
+  code
+
+  loyal
+
+  solid
+
+  estate
+
+  pig
+
+  hover
+
+  valid'
+bip_39_word_space_0:
+- melt
+- check
+- code
+- loyal
+- solid
+- estate
+- pig
+- hover
+- valid
+- summer
+- stuff
+- aunt
+bip_39_word_space_1: melt
+bip_39_word_space_10: melt check code loyal solid estate pig hover valid summer
+bip_39_word_space_11: melt check code loyal solid estate pig hover valid summer stuff
+bip_39_word_space_12: melt check code loyal solid estate pig hover valid summer stuff
+  aunt
+bip_39_word_space_2: melt check
+bip_39_word_space_3: melt check code
+bip_39_word_space_4: melt check code loyal
+bip_39_word_space_5: melt check code loyal solid
+bip_39_word_space_6: melt check code loyal solid estate
+bip_39_word_space_7: melt check code loyal solid estate pig
+bip_39_word_space_8: melt check code loyal solid estate pig hover
+bip_39_word_space_9: melt check code loyal solid estate pig hover valid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

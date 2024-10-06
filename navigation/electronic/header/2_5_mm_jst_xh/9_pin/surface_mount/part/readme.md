@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mistake neck
+  * bip 39 word 3: mistake neck fame
+  * bip 39 word: mistake neck fame boil oil dream book group pipe inch wise august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mistake |  
+| bip_39_word_new_br10 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream<br>book<br>group<br>pipe<br>inch |  
+| bip_39_word_new_br11 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream<br>book<br>group<br>pipe<br>inch<br>wise |  
+| bip_39_word_new_br12 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream<br>book<br>group<br>pipe<br>inch<br>wise<br>august |  
+| bip_39_word_new_br2 | mistake<br>neck |  
+| bip_39_word_new_br3 | mistake<br>neck<br>fame |  
+| bip_39_word_new_br4 | mistake<br>neck<br>fame<br>boil |  
+| bip_39_word_new_br5 | mistake<br>neck<br>fame<br>boil<br>oil |  
+| bip_39_word_new_br6 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream |  
+| bip_39_word_new_br7 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream<br>book |  
+| bip_39_word_new_br8 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream<br>book<br>group |  
+| bip_39_word_new_br9 | mistake<br>neck<br>fame<br>boil<br>oil<br>dream<br>book<br>group<br>pipe |  
+| bip_39_word_new_line1 | mistake |  
+| bip_39_word_new_line10 | mistake
+neck
+fame
+boil
+oil
+dream
+book
+group
+pipe
+inch |  
+| bip_39_word_new_line11 | mistake
+neck
+fame
+boil
+oil
+dream
+book
+group
+pipe
+inch
+wise |  
+| bip_39_word_new_line12 | mistake
+neck
+fame
+boil
+oil
+dream
+book
+group
+pipe
+inch
+wise
+august |  
+| bip_39_word_new_line2 | mistake
+neck |  
+| bip_39_word_new_line3 | mistake
+neck
+fame |  
+| bip_39_word_new_line4 | mistake
+neck
+fame
+boil |  
+| bip_39_word_new_line5 | mistake
+neck
+fame
+boil
+oil |  
+| bip_39_word_new_line6 | mistake
+neck
+fame
+boil
+oil
+dream |  
+| bip_39_word_new_line7 | mistake
+neck
+fame
+boil
+oil
+dream
+book |  
+| bip_39_word_new_line8 | mistake
+neck
+fame
+boil
+oil
+dream
+book
+group |  
+| bip_39_word_new_line9 | mistake
+neck
+fame
+boil
+oil
+dream
+book
+group
+pipe |  
+| bip_39_word_space_0 | ['mistake', 'neck', 'fame', 'boil', 'oil', 'dream', 'book', 'group', 'pipe', 'inch', 'wise', 'august'] |  
+| bip_39_word_space_1 | mistake |  
+| bip_39_word_space_10 | mistake neck fame boil oil dream book group pipe inch |  
+| bip_39_word_space_11 | mistake neck fame boil oil dream book group pipe inch wise |  
+| bip_39_word_space_12 | mistake neck fame boil oil dream book group pipe inch wise august |  
+| bip_39_word_space_2 | mistake neck |  
+| bip_39_word_space_3 | mistake neck fame |  
+| bip_39_word_space_4 | mistake neck fame boil |  
+| bip_39_word_space_5 | mistake neck fame boil oil |  
+| bip_39_word_space_6 | mistake neck fame boil oil dream |  
+| bip_39_word_space_7 | mistake neck fame boil oil dream book |  
+| bip_39_word_space_8 | mistake neck fame boil oil dream book group |  
+| bip_39_word_space_9 | mistake neck fame boil oil dream book group pipe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

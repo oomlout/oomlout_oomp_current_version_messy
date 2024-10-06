@@ -1,3 +1,186 @@
+bip_39_word_new_br1: session
+bip_39_word_new_br10: session<br>torch<br>crater<br>undo<br>birth<br>sound<br>cloud<br>boy<br>blossom<br>issue
+bip_39_word_new_br11: session<br>torch<br>crater<br>undo<br>birth<br>sound<br>cloud<br>boy<br>blossom<br>issue<br>remember
+bip_39_word_new_br12: session<br>torch<br>crater<br>undo<br>birth<br>sound<br>cloud<br>boy<br>blossom<br>issue<br>remember<br>affair
+bip_39_word_new_br2: session<br>torch
+bip_39_word_new_br3: session<br>torch<br>crater
+bip_39_word_new_br4: session<br>torch<br>crater<br>undo
+bip_39_word_new_br5: session<br>torch<br>crater<br>undo<br>birth
+bip_39_word_new_br6: session<br>torch<br>crater<br>undo<br>birth<br>sound
+bip_39_word_new_br7: session<br>torch<br>crater<br>undo<br>birth<br>sound<br>cloud
+bip_39_word_new_br8: session<br>torch<br>crater<br>undo<br>birth<br>sound<br>cloud<br>boy
+bip_39_word_new_br9: session<br>torch<br>crater<br>undo<br>birth<br>sound<br>cloud<br>boy<br>blossom
+bip_39_word_new_line1: session
+bip_39_word_new_line10: 'session
+
+  torch
+
+  crater
+
+  undo
+
+  birth
+
+  sound
+
+  cloud
+
+  boy
+
+  blossom
+
+  issue'
+bip_39_word_new_line11: 'session
+
+  torch
+
+  crater
+
+  undo
+
+  birth
+
+  sound
+
+  cloud
+
+  boy
+
+  blossom
+
+  issue
+
+  remember'
+bip_39_word_new_line12: 'session
+
+  torch
+
+  crater
+
+  undo
+
+  birth
+
+  sound
+
+  cloud
+
+  boy
+
+  blossom
+
+  issue
+
+  remember
+
+  affair'
+bip_39_word_new_line2: 'session
+
+  torch'
+bip_39_word_new_line3: 'session
+
+  torch
+
+  crater'
+bip_39_word_new_line4: 'session
+
+  torch
+
+  crater
+
+  undo'
+bip_39_word_new_line5: 'session
+
+  torch
+
+  crater
+
+  undo
+
+  birth'
+bip_39_word_new_line6: 'session
+
+  torch
+
+  crater
+
+  undo
+
+  birth
+
+  sound'
+bip_39_word_new_line7: 'session
+
+  torch
+
+  crater
+
+  undo
+
+  birth
+
+  sound
+
+  cloud'
+bip_39_word_new_line8: 'session
+
+  torch
+
+  crater
+
+  undo
+
+  birth
+
+  sound
+
+  cloud
+
+  boy'
+bip_39_word_new_line9: 'session
+
+  torch
+
+  crater
+
+  undo
+
+  birth
+
+  sound
+
+  cloud
+
+  boy
+
+  blossom'
+bip_39_word_space_0:
+- session
+- torch
+- crater
+- undo
+- birth
+- sound
+- cloud
+- boy
+- blossom
+- issue
+- remember
+- affair
+bip_39_word_space_1: session
+bip_39_word_space_10: session torch crater undo birth sound cloud boy blossom issue
+bip_39_word_space_11: session torch crater undo birth sound cloud boy blossom issue
+  remember
+bip_39_word_space_12: session torch crater undo birth sound cloud boy blossom issue
+  remember affair
+bip_39_word_space_2: session torch
+bip_39_word_space_3: session torch crater
+bip_39_word_space_4: session torch crater undo
+bip_39_word_space_5: session torch crater undo birth
+bip_39_word_space_6: session torch crater undo birth sound
+bip_39_word_space_7: session torch crater undo birth sound cloud
+bip_39_word_space_8: session torch crater undo birth sound cloud boy
+bip_39_word_space_9: session torch crater undo birth sound cloud boy blossom
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

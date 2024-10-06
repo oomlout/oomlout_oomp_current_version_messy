@@ -1,3 +1,186 @@
+bip_39_word_new_br1: canal
+bip_39_word_new_br10: canal<br>echo<br>sleep<br>adult<br>argue<br>odor<br>chronic<br>neck<br>state<br>benefit
+bip_39_word_new_br11: canal<br>echo<br>sleep<br>adult<br>argue<br>odor<br>chronic<br>neck<br>state<br>benefit<br>demand
+bip_39_word_new_br12: canal<br>echo<br>sleep<br>adult<br>argue<br>odor<br>chronic<br>neck<br>state<br>benefit<br>demand<br>actress
+bip_39_word_new_br2: canal<br>echo
+bip_39_word_new_br3: canal<br>echo<br>sleep
+bip_39_word_new_br4: canal<br>echo<br>sleep<br>adult
+bip_39_word_new_br5: canal<br>echo<br>sleep<br>adult<br>argue
+bip_39_word_new_br6: canal<br>echo<br>sleep<br>adult<br>argue<br>odor
+bip_39_word_new_br7: canal<br>echo<br>sleep<br>adult<br>argue<br>odor<br>chronic
+bip_39_word_new_br8: canal<br>echo<br>sleep<br>adult<br>argue<br>odor<br>chronic<br>neck
+bip_39_word_new_br9: canal<br>echo<br>sleep<br>adult<br>argue<br>odor<br>chronic<br>neck<br>state
+bip_39_word_new_line1: canal
+bip_39_word_new_line10: 'canal
+
+  echo
+
+  sleep
+
+  adult
+
+  argue
+
+  odor
+
+  chronic
+
+  neck
+
+  state
+
+  benefit'
+bip_39_word_new_line11: 'canal
+
+  echo
+
+  sleep
+
+  adult
+
+  argue
+
+  odor
+
+  chronic
+
+  neck
+
+  state
+
+  benefit
+
+  demand'
+bip_39_word_new_line12: 'canal
+
+  echo
+
+  sleep
+
+  adult
+
+  argue
+
+  odor
+
+  chronic
+
+  neck
+
+  state
+
+  benefit
+
+  demand
+
+  actress'
+bip_39_word_new_line2: 'canal
+
+  echo'
+bip_39_word_new_line3: 'canal
+
+  echo
+
+  sleep'
+bip_39_word_new_line4: 'canal
+
+  echo
+
+  sleep
+
+  adult'
+bip_39_word_new_line5: 'canal
+
+  echo
+
+  sleep
+
+  adult
+
+  argue'
+bip_39_word_new_line6: 'canal
+
+  echo
+
+  sleep
+
+  adult
+
+  argue
+
+  odor'
+bip_39_word_new_line7: 'canal
+
+  echo
+
+  sleep
+
+  adult
+
+  argue
+
+  odor
+
+  chronic'
+bip_39_word_new_line8: 'canal
+
+  echo
+
+  sleep
+
+  adult
+
+  argue
+
+  odor
+
+  chronic
+
+  neck'
+bip_39_word_new_line9: 'canal
+
+  echo
+
+  sleep
+
+  adult
+
+  argue
+
+  odor
+
+  chronic
+
+  neck
+
+  state'
+bip_39_word_space_0:
+- canal
+- echo
+- sleep
+- adult
+- argue
+- odor
+- chronic
+- neck
+- state
+- benefit
+- demand
+- actress
+bip_39_word_space_1: canal
+bip_39_word_space_10: canal echo sleep adult argue odor chronic neck state benefit
+bip_39_word_space_11: canal echo sleep adult argue odor chronic neck state benefit
+  demand
+bip_39_word_space_12: canal echo sleep adult argue odor chronic neck state benefit
+  demand actress
+bip_39_word_space_2: canal echo
+bip_39_word_space_3: canal echo sleep
+bip_39_word_space_4: canal echo sleep adult
+bip_39_word_space_5: canal echo sleep adult argue
+bip_39_word_space_6: canal echo sleep adult argue odor
+bip_39_word_space_7: canal echo sleep adult argue odor chronic
+bip_39_word_space_8: canal echo sleep adult argue odor chronic neck
+bip_39_word_space_9: canal echo sleep adult argue odor chronic neck state
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

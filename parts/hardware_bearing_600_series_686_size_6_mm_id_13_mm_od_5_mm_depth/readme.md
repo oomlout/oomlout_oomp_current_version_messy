@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: piano grant
+  * bip 39 word 3: piano grant when
+  * bip 39 word: piano grant when fortune cherry canvas sweet suspect bronze april end ahead
 
 ### other_codes
 * short_code: br686
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | piano |  
+| bip_39_word_new_br10 | piano<br>grant<br>when<br>fortune<br>cherry<br>canvas<br>sweet<br>suspect<br>bronze<br>april |  
+| bip_39_word_new_br11 | piano<br>grant<br>when<br>fortune<br>cherry<br>canvas<br>sweet<br>suspect<br>bronze<br>april<br>end |  
+| bip_39_word_new_br12 | piano<br>grant<br>when<br>fortune<br>cherry<br>canvas<br>sweet<br>suspect<br>bronze<br>april<br>end<br>ahead |  
+| bip_39_word_new_br2 | piano<br>grant |  
+| bip_39_word_new_br3 | piano<br>grant<br>when |  
+| bip_39_word_new_br4 | piano<br>grant<br>when<br>fortune |  
+| bip_39_word_new_br5 | piano<br>grant<br>when<br>fortune<br>cherry |  
+| bip_39_word_new_br6 | piano<br>grant<br>when<br>fortune<br>cherry<br>canvas |  
+| bip_39_word_new_br7 | piano<br>grant<br>when<br>fortune<br>cherry<br>canvas<br>sweet |  
+| bip_39_word_new_br8 | piano<br>grant<br>when<br>fortune<br>cherry<br>canvas<br>sweet<br>suspect |  
+| bip_39_word_new_br9 | piano<br>grant<br>when<br>fortune<br>cherry<br>canvas<br>sweet<br>suspect<br>bronze |  
+| bip_39_word_new_line1 | piano |  
+| bip_39_word_new_line10 | piano
+grant
+when
+fortune
+cherry
+canvas
+sweet
+suspect
+bronze
+april |  
+| bip_39_word_new_line11 | piano
+grant
+when
+fortune
+cherry
+canvas
+sweet
+suspect
+bronze
+april
+end |  
+| bip_39_word_new_line12 | piano
+grant
+when
+fortune
+cherry
+canvas
+sweet
+suspect
+bronze
+april
+end
+ahead |  
+| bip_39_word_new_line2 | piano
+grant |  
+| bip_39_word_new_line3 | piano
+grant
+when |  
+| bip_39_word_new_line4 | piano
+grant
+when
+fortune |  
+| bip_39_word_new_line5 | piano
+grant
+when
+fortune
+cherry |  
+| bip_39_word_new_line6 | piano
+grant
+when
+fortune
+cherry
+canvas |  
+| bip_39_word_new_line7 | piano
+grant
+when
+fortune
+cherry
+canvas
+sweet |  
+| bip_39_word_new_line8 | piano
+grant
+when
+fortune
+cherry
+canvas
+sweet
+suspect |  
+| bip_39_word_new_line9 | piano
+grant
+when
+fortune
+cherry
+canvas
+sweet
+suspect
+bronze |  
+| bip_39_word_space_0 | ['piano', 'grant', 'when', 'fortune', 'cherry', 'canvas', 'sweet', 'suspect', 'bronze', 'april', 'end', 'ahead'] |  
+| bip_39_word_space_1 | piano |  
+| bip_39_word_space_10 | piano grant when fortune cherry canvas sweet suspect bronze april |  
+| bip_39_word_space_11 | piano grant when fortune cherry canvas sweet suspect bronze april end |  
+| bip_39_word_space_12 | piano grant when fortune cherry canvas sweet suspect bronze april end ahead |  
+| bip_39_word_space_2 | piano grant |  
+| bip_39_word_space_3 | piano grant when |  
+| bip_39_word_space_4 | piano grant when fortune |  
+| bip_39_word_space_5 | piano grant when fortune cherry |  
+| bip_39_word_space_6 | piano grant when fortune cherry canvas |  
+| bip_39_word_space_7 | piano grant when fortune cherry canvas sweet |  
+| bip_39_word_space_8 | piano grant when fortune cherry canvas sweet suspect |  
+| bip_39_word_space_9 | piano grant when fortune cherry canvas sweet suspect bronze |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

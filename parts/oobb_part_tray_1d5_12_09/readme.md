@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reflect there
+  * bip 39 word 3: reflect there evolve
+  * bip 39 word: reflect there evolve reveal wait engine mango rent great knee gloom abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reflect |  
+| bip_39_word_new_br10 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine<br>mango<br>rent<br>great<br>knee |  
+| bip_39_word_new_br11 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine<br>mango<br>rent<br>great<br>knee<br>gloom |  
+| bip_39_word_new_br12 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine<br>mango<br>rent<br>great<br>knee<br>gloom<br>abstract |  
+| bip_39_word_new_br2 | reflect<br>there |  
+| bip_39_word_new_br3 | reflect<br>there<br>evolve |  
+| bip_39_word_new_br4 | reflect<br>there<br>evolve<br>reveal |  
+| bip_39_word_new_br5 | reflect<br>there<br>evolve<br>reveal<br>wait |  
+| bip_39_word_new_br6 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine |  
+| bip_39_word_new_br7 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine<br>mango |  
+| bip_39_word_new_br8 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine<br>mango<br>rent |  
+| bip_39_word_new_br9 | reflect<br>there<br>evolve<br>reveal<br>wait<br>engine<br>mango<br>rent<br>great |  
+| bip_39_word_new_line1 | reflect |  
+| bip_39_word_new_line10 | reflect
+there
+evolve
+reveal
+wait
+engine
+mango
+rent
+great
+knee |  
+| bip_39_word_new_line11 | reflect
+there
+evolve
+reveal
+wait
+engine
+mango
+rent
+great
+knee
+gloom |  
+| bip_39_word_new_line12 | reflect
+there
+evolve
+reveal
+wait
+engine
+mango
+rent
+great
+knee
+gloom
+abstract |  
+| bip_39_word_new_line2 | reflect
+there |  
+| bip_39_word_new_line3 | reflect
+there
+evolve |  
+| bip_39_word_new_line4 | reflect
+there
+evolve
+reveal |  
+| bip_39_word_new_line5 | reflect
+there
+evolve
+reveal
+wait |  
+| bip_39_word_new_line6 | reflect
+there
+evolve
+reveal
+wait
+engine |  
+| bip_39_word_new_line7 | reflect
+there
+evolve
+reveal
+wait
+engine
+mango |  
+| bip_39_word_new_line8 | reflect
+there
+evolve
+reveal
+wait
+engine
+mango
+rent |  
+| bip_39_word_new_line9 | reflect
+there
+evolve
+reveal
+wait
+engine
+mango
+rent
+great |  
+| bip_39_word_space_0 | ['reflect', 'there', 'evolve', 'reveal', 'wait', 'engine', 'mango', 'rent', 'great', 'knee', 'gloom', 'abstract'] |  
+| bip_39_word_space_1 | reflect |  
+| bip_39_word_space_10 | reflect there evolve reveal wait engine mango rent great knee |  
+| bip_39_word_space_11 | reflect there evolve reveal wait engine mango rent great knee gloom |  
+| bip_39_word_space_12 | reflect there evolve reveal wait engine mango rent great knee gloom abstract |  
+| bip_39_word_space_2 | reflect there |  
+| bip_39_word_space_3 | reflect there evolve |  
+| bip_39_word_space_4 | reflect there evolve reveal |  
+| bip_39_word_space_5 | reflect there evolve reveal wait |  
+| bip_39_word_space_6 | reflect there evolve reveal wait engine |  
+| bip_39_word_space_7 | reflect there evolve reveal wait engine mango |  
+| bip_39_word_space_8 | reflect there evolve reveal wait engine mango rent |  
+| bip_39_word_space_9 | reflect there evolve reveal wait engine mango rent great |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

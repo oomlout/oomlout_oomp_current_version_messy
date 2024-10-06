@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faint injury
+  * bip 39 word 3: faint injury radio
+  * bip 39 word: faint injury radio era love junior toward broom error exile army art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faint |  
+| bip_39_word_new_br10 | faint<br>injury<br>radio<br>era<br>love<br>junior<br>toward<br>broom<br>error<br>exile |  
+| bip_39_word_new_br11 | faint<br>injury<br>radio<br>era<br>love<br>junior<br>toward<br>broom<br>error<br>exile<br>army |  
+| bip_39_word_new_br12 | faint<br>injury<br>radio<br>era<br>love<br>junior<br>toward<br>broom<br>error<br>exile<br>army<br>art |  
+| bip_39_word_new_br2 | faint<br>injury |  
+| bip_39_word_new_br3 | faint<br>injury<br>radio |  
+| bip_39_word_new_br4 | faint<br>injury<br>radio<br>era |  
+| bip_39_word_new_br5 | faint<br>injury<br>radio<br>era<br>love |  
+| bip_39_word_new_br6 | faint<br>injury<br>radio<br>era<br>love<br>junior |  
+| bip_39_word_new_br7 | faint<br>injury<br>radio<br>era<br>love<br>junior<br>toward |  
+| bip_39_word_new_br8 | faint<br>injury<br>radio<br>era<br>love<br>junior<br>toward<br>broom |  
+| bip_39_word_new_br9 | faint<br>injury<br>radio<br>era<br>love<br>junior<br>toward<br>broom<br>error |  
+| bip_39_word_new_line1 | faint |  
+| bip_39_word_new_line10 | faint
+injury
+radio
+era
+love
+junior
+toward
+broom
+error
+exile |  
+| bip_39_word_new_line11 | faint
+injury
+radio
+era
+love
+junior
+toward
+broom
+error
+exile
+army |  
+| bip_39_word_new_line12 | faint
+injury
+radio
+era
+love
+junior
+toward
+broom
+error
+exile
+army
+art |  
+| bip_39_word_new_line2 | faint
+injury |  
+| bip_39_word_new_line3 | faint
+injury
+radio |  
+| bip_39_word_new_line4 | faint
+injury
+radio
+era |  
+| bip_39_word_new_line5 | faint
+injury
+radio
+era
+love |  
+| bip_39_word_new_line6 | faint
+injury
+radio
+era
+love
+junior |  
+| bip_39_word_new_line7 | faint
+injury
+radio
+era
+love
+junior
+toward |  
+| bip_39_word_new_line8 | faint
+injury
+radio
+era
+love
+junior
+toward
+broom |  
+| bip_39_word_new_line9 | faint
+injury
+radio
+era
+love
+junior
+toward
+broom
+error |  
+| bip_39_word_space_0 | ['faint', 'injury', 'radio', 'era', 'love', 'junior', 'toward', 'broom', 'error', 'exile', 'army', 'art'] |  
+| bip_39_word_space_1 | faint |  
+| bip_39_word_space_10 | faint injury radio era love junior toward broom error exile |  
+| bip_39_word_space_11 | faint injury radio era love junior toward broom error exile army |  
+| bip_39_word_space_12 | faint injury radio era love junior toward broom error exile army art |  
+| bip_39_word_space_2 | faint injury |  
+| bip_39_word_space_3 | faint injury radio |  
+| bip_39_word_space_4 | faint injury radio era |  
+| bip_39_word_space_5 | faint injury radio era love |  
+| bip_39_word_space_6 | faint injury radio era love junior |  
+| bip_39_word_space_7 | faint injury radio era love junior toward |  
+| bip_39_word_space_8 | faint injury radio era love junior toward broom |  
+| bip_39_word_space_9 | faint injury radio era love junior toward broom error |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

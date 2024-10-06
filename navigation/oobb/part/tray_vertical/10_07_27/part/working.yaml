@@ -1,3 +1,185 @@
+bip_39_word_new_br1: dial
+bip_39_word_new_br10: dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt
+bip_39_word_new_br11: dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt<br>agree
+bip_39_word_new_br12: dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail<br>grunt<br>agree<br>april
+bip_39_word_new_br2: dial<br>main
+bip_39_word_new_br3: dial<br>main<br>ill
+bip_39_word_new_br4: dial<br>main<br>ill<br>panda
+bip_39_word_new_br5: dial<br>main<br>ill<br>panda<br>super
+bip_39_word_new_br6: dial<br>main<br>ill<br>panda<br>super<br>betray
+bip_39_word_new_br7: dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot
+bip_39_word_new_br8: dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure
+bip_39_word_new_br9: dial<br>main<br>ill<br>panda<br>super<br>betray<br>foot<br>figure<br>sail
+bip_39_word_new_line1: dial
+bip_39_word_new_line10: 'dial
+
+  main
+
+  ill
+
+  panda
+
+  super
+
+  betray
+
+  foot
+
+  figure
+
+  sail
+
+  grunt'
+bip_39_word_new_line11: 'dial
+
+  main
+
+  ill
+
+  panda
+
+  super
+
+  betray
+
+  foot
+
+  figure
+
+  sail
+
+  grunt
+
+  agree'
+bip_39_word_new_line12: 'dial
+
+  main
+
+  ill
+
+  panda
+
+  super
+
+  betray
+
+  foot
+
+  figure
+
+  sail
+
+  grunt
+
+  agree
+
+  april'
+bip_39_word_new_line2: 'dial
+
+  main'
+bip_39_word_new_line3: 'dial
+
+  main
+
+  ill'
+bip_39_word_new_line4: 'dial
+
+  main
+
+  ill
+
+  panda'
+bip_39_word_new_line5: 'dial
+
+  main
+
+  ill
+
+  panda
+
+  super'
+bip_39_word_new_line6: 'dial
+
+  main
+
+  ill
+
+  panda
+
+  super
+
+  betray'
+bip_39_word_new_line7: 'dial
+
+  main
+
+  ill
+
+  panda
+
+  super
+
+  betray
+
+  foot'
+bip_39_word_new_line8: 'dial
+
+  main
+
+  ill
+
+  panda
+
+  super
+
+  betray
+
+  foot
+
+  figure'
+bip_39_word_new_line9: 'dial
+
+  main
+
+  ill
+
+  panda
+
+  super
+
+  betray
+
+  foot
+
+  figure
+
+  sail'
+bip_39_word_space_0:
+- dial
+- main
+- ill
+- panda
+- super
+- betray
+- foot
+- figure
+- sail
+- grunt
+- agree
+- april
+bip_39_word_space_1: dial
+bip_39_word_space_10: dial main ill panda super betray foot figure sail grunt
+bip_39_word_space_11: dial main ill panda super betray foot figure sail grunt agree
+bip_39_word_space_12: dial main ill panda super betray foot figure sail grunt agree
+  april
+bip_39_word_space_2: dial main
+bip_39_word_space_3: dial main ill
+bip_39_word_space_4: dial main ill panda
+bip_39_word_space_5: dial main ill panda super
+bip_39_word_space_6: dial main ill panda super betray
+bip_39_word_space_7: dial main ill panda super betray foot
+bip_39_word_space_8: dial main ill panda super betray foot figure
+bip_39_word_space_9: dial main ill panda super betray foot figure sail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

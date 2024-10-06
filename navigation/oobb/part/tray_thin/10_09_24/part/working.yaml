@@ -1,3 +1,187 @@
+bip_39_word_new_br1: term
+bip_39_word_new_br10: term<br>bubble<br>slab<br>outdoor<br>route<br>credit<br>mushroom<br>vital<br>salmon<br>culture
+bip_39_word_new_br11: term<br>bubble<br>slab<br>outdoor<br>route<br>credit<br>mushroom<br>vital<br>salmon<br>culture<br>squeeze
+bip_39_word_new_br12: term<br>bubble<br>slab<br>outdoor<br>route<br>credit<br>mushroom<br>vital<br>salmon<br>culture<br>squeeze<br>antenna
+bip_39_word_new_br2: term<br>bubble
+bip_39_word_new_br3: term<br>bubble<br>slab
+bip_39_word_new_br4: term<br>bubble<br>slab<br>outdoor
+bip_39_word_new_br5: term<br>bubble<br>slab<br>outdoor<br>route
+bip_39_word_new_br6: term<br>bubble<br>slab<br>outdoor<br>route<br>credit
+bip_39_word_new_br7: term<br>bubble<br>slab<br>outdoor<br>route<br>credit<br>mushroom
+bip_39_word_new_br8: term<br>bubble<br>slab<br>outdoor<br>route<br>credit<br>mushroom<br>vital
+bip_39_word_new_br9: term<br>bubble<br>slab<br>outdoor<br>route<br>credit<br>mushroom<br>vital<br>salmon
+bip_39_word_new_line1: term
+bip_39_word_new_line10: 'term
+
+  bubble
+
+  slab
+
+  outdoor
+
+  route
+
+  credit
+
+  mushroom
+
+  vital
+
+  salmon
+
+  culture'
+bip_39_word_new_line11: 'term
+
+  bubble
+
+  slab
+
+  outdoor
+
+  route
+
+  credit
+
+  mushroom
+
+  vital
+
+  salmon
+
+  culture
+
+  squeeze'
+bip_39_word_new_line12: 'term
+
+  bubble
+
+  slab
+
+  outdoor
+
+  route
+
+  credit
+
+  mushroom
+
+  vital
+
+  salmon
+
+  culture
+
+  squeeze
+
+  antenna'
+bip_39_word_new_line2: 'term
+
+  bubble'
+bip_39_word_new_line3: 'term
+
+  bubble
+
+  slab'
+bip_39_word_new_line4: 'term
+
+  bubble
+
+  slab
+
+  outdoor'
+bip_39_word_new_line5: 'term
+
+  bubble
+
+  slab
+
+  outdoor
+
+  route'
+bip_39_word_new_line6: 'term
+
+  bubble
+
+  slab
+
+  outdoor
+
+  route
+
+  credit'
+bip_39_word_new_line7: 'term
+
+  bubble
+
+  slab
+
+  outdoor
+
+  route
+
+  credit
+
+  mushroom'
+bip_39_word_new_line8: 'term
+
+  bubble
+
+  slab
+
+  outdoor
+
+  route
+
+  credit
+
+  mushroom
+
+  vital'
+bip_39_word_new_line9: 'term
+
+  bubble
+
+  slab
+
+  outdoor
+
+  route
+
+  credit
+
+  mushroom
+
+  vital
+
+  salmon'
+bip_39_word_space_0:
+- term
+- bubble
+- slab
+- outdoor
+- route
+- credit
+- mushroom
+- vital
+- salmon
+- culture
+- squeeze
+- antenna
+bip_39_word_space_1: term
+bip_39_word_space_10: term bubble slab outdoor route credit mushroom vital salmon
+  culture
+bip_39_word_space_11: term bubble slab outdoor route credit mushroom vital salmon
+  culture squeeze
+bip_39_word_space_12: term bubble slab outdoor route credit mushroom vital salmon
+  culture squeeze antenna
+bip_39_word_space_2: term bubble
+bip_39_word_space_3: term bubble slab
+bip_39_word_space_4: term bubble slab outdoor
+bip_39_word_space_5: term bubble slab outdoor route
+bip_39_word_space_6: term bubble slab outdoor route credit
+bip_39_word_space_7: term bubble slab outdoor route credit mushroom
+bip_39_word_space_8: term bubble slab outdoor route credit mushroom vital
+bip_39_word_space_9: term bubble slab outdoor route credit mushroom vital salmon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

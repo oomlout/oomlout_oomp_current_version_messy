@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hedgehog fault
+  * bip 39 word 3: hedgehog fault portion
+  * bip 39 word: hedgehog fault portion depth island perfect soul hole maid please top advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hedgehog |  
+| bip_39_word_new_br10 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect<br>soul<br>hole<br>maid<br>please |  
+| bip_39_word_new_br11 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect<br>soul<br>hole<br>maid<br>please<br>top |  
+| bip_39_word_new_br12 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect<br>soul<br>hole<br>maid<br>please<br>top<br>advice |  
+| bip_39_word_new_br2 | hedgehog<br>fault |  
+| bip_39_word_new_br3 | hedgehog<br>fault<br>portion |  
+| bip_39_word_new_br4 | hedgehog<br>fault<br>portion<br>depth |  
+| bip_39_word_new_br5 | hedgehog<br>fault<br>portion<br>depth<br>island |  
+| bip_39_word_new_br6 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect |  
+| bip_39_word_new_br7 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect<br>soul |  
+| bip_39_word_new_br8 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect<br>soul<br>hole |  
+| bip_39_word_new_br9 | hedgehog<br>fault<br>portion<br>depth<br>island<br>perfect<br>soul<br>hole<br>maid |  
+| bip_39_word_new_line1 | hedgehog |  
+| bip_39_word_new_line10 | hedgehog
+fault
+portion
+depth
+island
+perfect
+soul
+hole
+maid
+please |  
+| bip_39_word_new_line11 | hedgehog
+fault
+portion
+depth
+island
+perfect
+soul
+hole
+maid
+please
+top |  
+| bip_39_word_new_line12 | hedgehog
+fault
+portion
+depth
+island
+perfect
+soul
+hole
+maid
+please
+top
+advice |  
+| bip_39_word_new_line2 | hedgehog
+fault |  
+| bip_39_word_new_line3 | hedgehog
+fault
+portion |  
+| bip_39_word_new_line4 | hedgehog
+fault
+portion
+depth |  
+| bip_39_word_new_line5 | hedgehog
+fault
+portion
+depth
+island |  
+| bip_39_word_new_line6 | hedgehog
+fault
+portion
+depth
+island
+perfect |  
+| bip_39_word_new_line7 | hedgehog
+fault
+portion
+depth
+island
+perfect
+soul |  
+| bip_39_word_new_line8 | hedgehog
+fault
+portion
+depth
+island
+perfect
+soul
+hole |  
+| bip_39_word_new_line9 | hedgehog
+fault
+portion
+depth
+island
+perfect
+soul
+hole
+maid |  
+| bip_39_word_space_0 | ['hedgehog', 'fault', 'portion', 'depth', 'island', 'perfect', 'soul', 'hole', 'maid', 'please', 'top', 'advice'] |  
+| bip_39_word_space_1 | hedgehog |  
+| bip_39_word_space_10 | hedgehog fault portion depth island perfect soul hole maid please |  
+| bip_39_word_space_11 | hedgehog fault portion depth island perfect soul hole maid please top |  
+| bip_39_word_space_12 | hedgehog fault portion depth island perfect soul hole maid please top advice |  
+| bip_39_word_space_2 | hedgehog fault |  
+| bip_39_word_space_3 | hedgehog fault portion |  
+| bip_39_word_space_4 | hedgehog fault portion depth |  
+| bip_39_word_space_5 | hedgehog fault portion depth island |  
+| bip_39_word_space_6 | hedgehog fault portion depth island perfect |  
+| bip_39_word_space_7 | hedgehog fault portion depth island perfect soul |  
+| bip_39_word_space_8 | hedgehog fault portion depth island perfect soul hole |  
+| bip_39_word_space_9 | hedgehog fault portion depth island perfect soul hole maid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

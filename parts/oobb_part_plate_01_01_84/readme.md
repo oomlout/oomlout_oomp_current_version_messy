@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: armor release
+  * bip 39 word 3: armor release wish
+  * bip 39 word: armor release wish job always notable round source vast velvet random alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | armor |  
+| bip_39_word_new_br10 | armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source<br>vast<br>velvet |  
+| bip_39_word_new_br11 | armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source<br>vast<br>velvet<br>random |  
+| bip_39_word_new_br12 | armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source<br>vast<br>velvet<br>random<br>alter |  
+| bip_39_word_new_br2 | armor<br>release |  
+| bip_39_word_new_br3 | armor<br>release<br>wish |  
+| bip_39_word_new_br4 | armor<br>release<br>wish<br>job |  
+| bip_39_word_new_br5 | armor<br>release<br>wish<br>job<br>always |  
+| bip_39_word_new_br6 | armor<br>release<br>wish<br>job<br>always<br>notable |  
+| bip_39_word_new_br7 | armor<br>release<br>wish<br>job<br>always<br>notable<br>round |  
+| bip_39_word_new_br8 | armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source |  
+| bip_39_word_new_br9 | armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source<br>vast |  
+| bip_39_word_new_line1 | armor |  
+| bip_39_word_new_line10 | armor
+release
+wish
+job
+always
+notable
+round
+source
+vast
+velvet |  
+| bip_39_word_new_line11 | armor
+release
+wish
+job
+always
+notable
+round
+source
+vast
+velvet
+random |  
+| bip_39_word_new_line12 | armor
+release
+wish
+job
+always
+notable
+round
+source
+vast
+velvet
+random
+alter |  
+| bip_39_word_new_line2 | armor
+release |  
+| bip_39_word_new_line3 | armor
+release
+wish |  
+| bip_39_word_new_line4 | armor
+release
+wish
+job |  
+| bip_39_word_new_line5 | armor
+release
+wish
+job
+always |  
+| bip_39_word_new_line6 | armor
+release
+wish
+job
+always
+notable |  
+| bip_39_word_new_line7 | armor
+release
+wish
+job
+always
+notable
+round |  
+| bip_39_word_new_line8 | armor
+release
+wish
+job
+always
+notable
+round
+source |  
+| bip_39_word_new_line9 | armor
+release
+wish
+job
+always
+notable
+round
+source
+vast |  
+| bip_39_word_space_0 | ['armor', 'release', 'wish', 'job', 'always', 'notable', 'round', 'source', 'vast', 'velvet', 'random', 'alter'] |  
+| bip_39_word_space_1 | armor |  
+| bip_39_word_space_10 | armor release wish job always notable round source vast velvet |  
+| bip_39_word_space_11 | armor release wish job always notable round source vast velvet random |  
+| bip_39_word_space_12 | armor release wish job always notable round source vast velvet random alter |  
+| bip_39_word_space_2 | armor release |  
+| bip_39_word_space_3 | armor release wish |  
+| bip_39_word_space_4 | armor release wish job |  
+| bip_39_word_space_5 | armor release wish job always |  
+| bip_39_word_space_6 | armor release wish job always notable |  
+| bip_39_word_space_7 | armor release wish job always notable round |  
+| bip_39_word_space_8 | armor release wish job always notable round source |  
+| bip_39_word_space_9 | armor release wish job always notable round source vast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

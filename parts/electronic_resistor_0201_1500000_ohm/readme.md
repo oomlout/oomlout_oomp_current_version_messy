@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: filter bright
+  * bip 39 word 3: filter bright ripple
+  * bip 39 word: filter bright ripple educate agent tent course absorb lecture army spy amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | filter |  
+| bip_39_word_new_br10 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture<br>army |  
+| bip_39_word_new_br11 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture<br>army<br>spy |  
+| bip_39_word_new_br12 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture<br>army<br>spy<br>amused |  
+| bip_39_word_new_br2 | filter<br>bright |  
+| bip_39_word_new_br3 | filter<br>bright<br>ripple |  
+| bip_39_word_new_br4 | filter<br>bright<br>ripple<br>educate |  
+| bip_39_word_new_br5 | filter<br>bright<br>ripple<br>educate<br>agent |  
+| bip_39_word_new_br6 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent |  
+| bip_39_word_new_br7 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course |  
+| bip_39_word_new_br8 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb |  
+| bip_39_word_new_br9 | filter<br>bright<br>ripple<br>educate<br>agent<br>tent<br>course<br>absorb<br>lecture |  
+| bip_39_word_new_line1 | filter |  
+| bip_39_word_new_line10 | filter
+bright
+ripple
+educate
+agent
+tent
+course
+absorb
+lecture
+army |  
+| bip_39_word_new_line11 | filter
+bright
+ripple
+educate
+agent
+tent
+course
+absorb
+lecture
+army
+spy |  
+| bip_39_word_new_line12 | filter
+bright
+ripple
+educate
+agent
+tent
+course
+absorb
+lecture
+army
+spy
+amused |  
+| bip_39_word_new_line2 | filter
+bright |  
+| bip_39_word_new_line3 | filter
+bright
+ripple |  
+| bip_39_word_new_line4 | filter
+bright
+ripple
+educate |  
+| bip_39_word_new_line5 | filter
+bright
+ripple
+educate
+agent |  
+| bip_39_word_new_line6 | filter
+bright
+ripple
+educate
+agent
+tent |  
+| bip_39_word_new_line7 | filter
+bright
+ripple
+educate
+agent
+tent
+course |  
+| bip_39_word_new_line8 | filter
+bright
+ripple
+educate
+agent
+tent
+course
+absorb |  
+| bip_39_word_new_line9 | filter
+bright
+ripple
+educate
+agent
+tent
+course
+absorb
+lecture |  
+| bip_39_word_space_0 | ['filter', 'bright', 'ripple', 'educate', 'agent', 'tent', 'course', 'absorb', 'lecture', 'army', 'spy', 'amused'] |  
+| bip_39_word_space_1 | filter |  
+| bip_39_word_space_10 | filter bright ripple educate agent tent course absorb lecture army |  
+| bip_39_word_space_11 | filter bright ripple educate agent tent course absorb lecture army spy |  
+| bip_39_word_space_12 | filter bright ripple educate agent tent course absorb lecture army spy amused |  
+| bip_39_word_space_2 | filter bright |  
+| bip_39_word_space_3 | filter bright ripple |  
+| bip_39_word_space_4 | filter bright ripple educate |  
+| bip_39_word_space_5 | filter bright ripple educate agent |  
+| bip_39_word_space_6 | filter bright ripple educate agent tent |  
+| bip_39_word_space_7 | filter bright ripple educate agent tent course |  
+| bip_39_word_space_8 | filter bright ripple educate agent tent course absorb |  
+| bip_39_word_space_9 | filter bright ripple educate agent tent course absorb lecture |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

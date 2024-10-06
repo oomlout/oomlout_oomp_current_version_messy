@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pen flee
+  * bip 39 word 3: pen flee rally
+  * bip 39 word: pen flee rally trash scrap begin myself armed actor meadow puppy aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pen |  
+| bip_39_word_new_br10 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow |  
+| bip_39_word_new_br11 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy |  
+| bip_39_word_new_br12 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy<br>aerobic |  
+| bip_39_word_new_br2 | pen<br>flee |  
+| bip_39_word_new_br3 | pen<br>flee<br>rally |  
+| bip_39_word_new_br4 | pen<br>flee<br>rally<br>trash |  
+| bip_39_word_new_br5 | pen<br>flee<br>rally<br>trash<br>scrap |  
+| bip_39_word_new_br6 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin |  
+| bip_39_word_new_br7 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself |  
+| bip_39_word_new_br8 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed |  
+| bip_39_word_new_br9 | pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor |  
+| bip_39_word_new_line1 | pen |  
+| bip_39_word_new_line10 | pen
+flee
+rally
+trash
+scrap
+begin
+myself
+armed
+actor
+meadow |  
+| bip_39_word_new_line11 | pen
+flee
+rally
+trash
+scrap
+begin
+myself
+armed
+actor
+meadow
+puppy |  
+| bip_39_word_new_line12 | pen
+flee
+rally
+trash
+scrap
+begin
+myself
+armed
+actor
+meadow
+puppy
+aerobic |  
+| bip_39_word_new_line2 | pen
+flee |  
+| bip_39_word_new_line3 | pen
+flee
+rally |  
+| bip_39_word_new_line4 | pen
+flee
+rally
+trash |  
+| bip_39_word_new_line5 | pen
+flee
+rally
+trash
+scrap |  
+| bip_39_word_new_line6 | pen
+flee
+rally
+trash
+scrap
+begin |  
+| bip_39_word_new_line7 | pen
+flee
+rally
+trash
+scrap
+begin
+myself |  
+| bip_39_word_new_line8 | pen
+flee
+rally
+trash
+scrap
+begin
+myself
+armed |  
+| bip_39_word_new_line9 | pen
+flee
+rally
+trash
+scrap
+begin
+myself
+armed
+actor |  
+| bip_39_word_space_0 | ['pen', 'flee', 'rally', 'trash', 'scrap', 'begin', 'myself', 'armed', 'actor', 'meadow', 'puppy', 'aerobic'] |  
+| bip_39_word_space_1 | pen |  
+| bip_39_word_space_10 | pen flee rally trash scrap begin myself armed actor meadow |  
+| bip_39_word_space_11 | pen flee rally trash scrap begin myself armed actor meadow puppy |  
+| bip_39_word_space_12 | pen flee rally trash scrap begin myself armed actor meadow puppy aerobic |  
+| bip_39_word_space_2 | pen flee |  
+| bip_39_word_space_3 | pen flee rally |  
+| bip_39_word_space_4 | pen flee rally trash |  
+| bip_39_word_space_5 | pen flee rally trash scrap |  
+| bip_39_word_space_6 | pen flee rally trash scrap begin |  
+| bip_39_word_space_7 | pen flee rally trash scrap begin myself |  
+| bip_39_word_space_8 | pen flee rally trash scrap begin myself armed |  
+| bip_39_word_space_9 | pen flee rally trash scrap begin myself armed actor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

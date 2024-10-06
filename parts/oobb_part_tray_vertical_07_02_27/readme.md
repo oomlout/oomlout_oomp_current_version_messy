@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: draw multiply
+  * bip 39 word 3: draw multiply sadness
+  * bip 39 word: draw multiply sadness section situate insect prison sport web doll tip antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | draw |  
+| bip_39_word_new_br10 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect<br>prison<br>sport<br>web<br>doll |  
+| bip_39_word_new_br11 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect<br>prison<br>sport<br>web<br>doll<br>tip |  
+| bip_39_word_new_br12 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect<br>prison<br>sport<br>web<br>doll<br>tip<br>antique |  
+| bip_39_word_new_br2 | draw<br>multiply |  
+| bip_39_word_new_br3 | draw<br>multiply<br>sadness |  
+| bip_39_word_new_br4 | draw<br>multiply<br>sadness<br>section |  
+| bip_39_word_new_br5 | draw<br>multiply<br>sadness<br>section<br>situate |  
+| bip_39_word_new_br6 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect |  
+| bip_39_word_new_br7 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect<br>prison |  
+| bip_39_word_new_br8 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect<br>prison<br>sport |  
+| bip_39_word_new_br9 | draw<br>multiply<br>sadness<br>section<br>situate<br>insect<br>prison<br>sport<br>web |  
+| bip_39_word_new_line1 | draw |  
+| bip_39_word_new_line10 | draw
+multiply
+sadness
+section
+situate
+insect
+prison
+sport
+web
+doll |  
+| bip_39_word_new_line11 | draw
+multiply
+sadness
+section
+situate
+insect
+prison
+sport
+web
+doll
+tip |  
+| bip_39_word_new_line12 | draw
+multiply
+sadness
+section
+situate
+insect
+prison
+sport
+web
+doll
+tip
+antique |  
+| bip_39_word_new_line2 | draw
+multiply |  
+| bip_39_word_new_line3 | draw
+multiply
+sadness |  
+| bip_39_word_new_line4 | draw
+multiply
+sadness
+section |  
+| bip_39_word_new_line5 | draw
+multiply
+sadness
+section
+situate |  
+| bip_39_word_new_line6 | draw
+multiply
+sadness
+section
+situate
+insect |  
+| bip_39_word_new_line7 | draw
+multiply
+sadness
+section
+situate
+insect
+prison |  
+| bip_39_word_new_line8 | draw
+multiply
+sadness
+section
+situate
+insect
+prison
+sport |  
+| bip_39_word_new_line9 | draw
+multiply
+sadness
+section
+situate
+insect
+prison
+sport
+web |  
+| bip_39_word_space_0 | ['draw', 'multiply', 'sadness', 'section', 'situate', 'insect', 'prison', 'sport', 'web', 'doll', 'tip', 'antique'] |  
+| bip_39_word_space_1 | draw |  
+| bip_39_word_space_10 | draw multiply sadness section situate insect prison sport web doll |  
+| bip_39_word_space_11 | draw multiply sadness section situate insect prison sport web doll tip |  
+| bip_39_word_space_12 | draw multiply sadness section situate insect prison sport web doll tip antique |  
+| bip_39_word_space_2 | draw multiply |  
+| bip_39_word_space_3 | draw multiply sadness |  
+| bip_39_word_space_4 | draw multiply sadness section |  
+| bip_39_word_space_5 | draw multiply sadness section situate |  
+| bip_39_word_space_6 | draw multiply sadness section situate insect |  
+| bip_39_word_space_7 | draw multiply sadness section situate insect prison |  
+| bip_39_word_space_8 | draw multiply sadness section situate insect prison sport |  
+| bip_39_word_space_9 | draw multiply sadness section situate insect prison sport web |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

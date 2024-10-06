@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cash middle
+  * bip 39 word 3: cash middle success
+  * bip 39 word: cash middle success news hockey miss night clump food letter dress ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cash |  
+| bip_39_word_new_br10 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter |  
+| bip_39_word_new_br11 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter<br>dress |  
+| bip_39_word_new_br12 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food<br>letter<br>dress<br>ankle |  
+| bip_39_word_new_br2 | cash<br>middle |  
+| bip_39_word_new_br3 | cash<br>middle<br>success |  
+| bip_39_word_new_br4 | cash<br>middle<br>success<br>news |  
+| bip_39_word_new_br5 | cash<br>middle<br>success<br>news<br>hockey |  
+| bip_39_word_new_br6 | cash<br>middle<br>success<br>news<br>hockey<br>miss |  
+| bip_39_word_new_br7 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night |  
+| bip_39_word_new_br8 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump |  
+| bip_39_word_new_br9 | cash<br>middle<br>success<br>news<br>hockey<br>miss<br>night<br>clump<br>food |  
+| bip_39_word_new_line1 | cash |  
+| bip_39_word_new_line10 | cash
+middle
+success
+news
+hockey
+miss
+night
+clump
+food
+letter |  
+| bip_39_word_new_line11 | cash
+middle
+success
+news
+hockey
+miss
+night
+clump
+food
+letter
+dress |  
+| bip_39_word_new_line12 | cash
+middle
+success
+news
+hockey
+miss
+night
+clump
+food
+letter
+dress
+ankle |  
+| bip_39_word_new_line2 | cash
+middle |  
+| bip_39_word_new_line3 | cash
+middle
+success |  
+| bip_39_word_new_line4 | cash
+middle
+success
+news |  
+| bip_39_word_new_line5 | cash
+middle
+success
+news
+hockey |  
+| bip_39_word_new_line6 | cash
+middle
+success
+news
+hockey
+miss |  
+| bip_39_word_new_line7 | cash
+middle
+success
+news
+hockey
+miss
+night |  
+| bip_39_word_new_line8 | cash
+middle
+success
+news
+hockey
+miss
+night
+clump |  
+| bip_39_word_new_line9 | cash
+middle
+success
+news
+hockey
+miss
+night
+clump
+food |  
+| bip_39_word_space_0 | ['cash', 'middle', 'success', 'news', 'hockey', 'miss', 'night', 'clump', 'food', 'letter', 'dress', 'ankle'] |  
+| bip_39_word_space_1 | cash |  
+| bip_39_word_space_10 | cash middle success news hockey miss night clump food letter |  
+| bip_39_word_space_11 | cash middle success news hockey miss night clump food letter dress |  
+| bip_39_word_space_12 | cash middle success news hockey miss night clump food letter dress ankle |  
+| bip_39_word_space_2 | cash middle |  
+| bip_39_word_space_3 | cash middle success |  
+| bip_39_word_space_4 | cash middle success news |  
+| bip_39_word_space_5 | cash middle success news hockey |  
+| bip_39_word_space_6 | cash middle success news hockey miss |  
+| bip_39_word_space_7 | cash middle success news hockey miss night |  
+| bip_39_word_space_8 | cash middle success news hockey miss night clump |  
+| bip_39_word_space_9 | cash middle success news hockey miss night clump food |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

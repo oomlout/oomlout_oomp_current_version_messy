@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toddler grape
+  * bip 39 word 3: toddler grape huge
+  * bip 39 word: toddler grape huge tag cover imitate hospital shield sadness mix display actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toddler |  
+| bip_39_word_new_br10 | toddler<br>grape<br>huge<br>tag<br>cover<br>imitate<br>hospital<br>shield<br>sadness<br>mix |  
+| bip_39_word_new_br11 | toddler<br>grape<br>huge<br>tag<br>cover<br>imitate<br>hospital<br>shield<br>sadness<br>mix<br>display |  
+| bip_39_word_new_br12 | toddler<br>grape<br>huge<br>tag<br>cover<br>imitate<br>hospital<br>shield<br>sadness<br>mix<br>display<br>actress |  
+| bip_39_word_new_br2 | toddler<br>grape |  
+| bip_39_word_new_br3 | toddler<br>grape<br>huge |  
+| bip_39_word_new_br4 | toddler<br>grape<br>huge<br>tag |  
+| bip_39_word_new_br5 | toddler<br>grape<br>huge<br>tag<br>cover |  
+| bip_39_word_new_br6 | toddler<br>grape<br>huge<br>tag<br>cover<br>imitate |  
+| bip_39_word_new_br7 | toddler<br>grape<br>huge<br>tag<br>cover<br>imitate<br>hospital |  
+| bip_39_word_new_br8 | toddler<br>grape<br>huge<br>tag<br>cover<br>imitate<br>hospital<br>shield |  
+| bip_39_word_new_br9 | toddler<br>grape<br>huge<br>tag<br>cover<br>imitate<br>hospital<br>shield<br>sadness |  
+| bip_39_word_new_line1 | toddler |  
+| bip_39_word_new_line10 | toddler
+grape
+huge
+tag
+cover
+imitate
+hospital
+shield
+sadness
+mix |  
+| bip_39_word_new_line11 | toddler
+grape
+huge
+tag
+cover
+imitate
+hospital
+shield
+sadness
+mix
+display |  
+| bip_39_word_new_line12 | toddler
+grape
+huge
+tag
+cover
+imitate
+hospital
+shield
+sadness
+mix
+display
+actress |  
+| bip_39_word_new_line2 | toddler
+grape |  
+| bip_39_word_new_line3 | toddler
+grape
+huge |  
+| bip_39_word_new_line4 | toddler
+grape
+huge
+tag |  
+| bip_39_word_new_line5 | toddler
+grape
+huge
+tag
+cover |  
+| bip_39_word_new_line6 | toddler
+grape
+huge
+tag
+cover
+imitate |  
+| bip_39_word_new_line7 | toddler
+grape
+huge
+tag
+cover
+imitate
+hospital |  
+| bip_39_word_new_line8 | toddler
+grape
+huge
+tag
+cover
+imitate
+hospital
+shield |  
+| bip_39_word_new_line9 | toddler
+grape
+huge
+tag
+cover
+imitate
+hospital
+shield
+sadness |  
+| bip_39_word_space_0 | ['toddler', 'grape', 'huge', 'tag', 'cover', 'imitate', 'hospital', 'shield', 'sadness', 'mix', 'display', 'actress'] |  
+| bip_39_word_space_1 | toddler |  
+| bip_39_word_space_10 | toddler grape huge tag cover imitate hospital shield sadness mix |  
+| bip_39_word_space_11 | toddler grape huge tag cover imitate hospital shield sadness mix display |  
+| bip_39_word_space_12 | toddler grape huge tag cover imitate hospital shield sadness mix display actress |  
+| bip_39_word_space_2 | toddler grape |  
+| bip_39_word_space_3 | toddler grape huge |  
+| bip_39_word_space_4 | toddler grape huge tag |  
+| bip_39_word_space_5 | toddler grape huge tag cover |  
+| bip_39_word_space_6 | toddler grape huge tag cover imitate |  
+| bip_39_word_space_7 | toddler grape huge tag cover imitate hospital |  
+| bip_39_word_space_8 | toddler grape huge tag cover imitate hospital shield |  
+| bip_39_word_space_9 | toddler grape huge tag cover imitate hospital shield sadness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: also display
+  * bip 39 word 3: also display lonely
+  * bip 39 word: also display lonely equip debate boss secret evoke oval parade wife arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | also |  
+| bip_39_word_new_br10 | also<br>display<br>lonely<br>equip<br>debate<br>boss<br>secret<br>evoke<br>oval<br>parade |  
+| bip_39_word_new_br11 | also<br>display<br>lonely<br>equip<br>debate<br>boss<br>secret<br>evoke<br>oval<br>parade<br>wife |  
+| bip_39_word_new_br12 | also<br>display<br>lonely<br>equip<br>debate<br>boss<br>secret<br>evoke<br>oval<br>parade<br>wife<br>arctic |  
+| bip_39_word_new_br2 | also<br>display |  
+| bip_39_word_new_br3 | also<br>display<br>lonely |  
+| bip_39_word_new_br4 | also<br>display<br>lonely<br>equip |  
+| bip_39_word_new_br5 | also<br>display<br>lonely<br>equip<br>debate |  
+| bip_39_word_new_br6 | also<br>display<br>lonely<br>equip<br>debate<br>boss |  
+| bip_39_word_new_br7 | also<br>display<br>lonely<br>equip<br>debate<br>boss<br>secret |  
+| bip_39_word_new_br8 | also<br>display<br>lonely<br>equip<br>debate<br>boss<br>secret<br>evoke |  
+| bip_39_word_new_br9 | also<br>display<br>lonely<br>equip<br>debate<br>boss<br>secret<br>evoke<br>oval |  
+| bip_39_word_new_line1 | also |  
+| bip_39_word_new_line10 | also
+display
+lonely
+equip
+debate
+boss
+secret
+evoke
+oval
+parade |  
+| bip_39_word_new_line11 | also
+display
+lonely
+equip
+debate
+boss
+secret
+evoke
+oval
+parade
+wife |  
+| bip_39_word_new_line12 | also
+display
+lonely
+equip
+debate
+boss
+secret
+evoke
+oval
+parade
+wife
+arctic |  
+| bip_39_word_new_line2 | also
+display |  
+| bip_39_word_new_line3 | also
+display
+lonely |  
+| bip_39_word_new_line4 | also
+display
+lonely
+equip |  
+| bip_39_word_new_line5 | also
+display
+lonely
+equip
+debate |  
+| bip_39_word_new_line6 | also
+display
+lonely
+equip
+debate
+boss |  
+| bip_39_word_new_line7 | also
+display
+lonely
+equip
+debate
+boss
+secret |  
+| bip_39_word_new_line8 | also
+display
+lonely
+equip
+debate
+boss
+secret
+evoke |  
+| bip_39_word_new_line9 | also
+display
+lonely
+equip
+debate
+boss
+secret
+evoke
+oval |  
+| bip_39_word_space_0 | ['also', 'display', 'lonely', 'equip', 'debate', 'boss', 'secret', 'evoke', 'oval', 'parade', 'wife', 'arctic'] |  
+| bip_39_word_space_1 | also |  
+| bip_39_word_space_10 | also display lonely equip debate boss secret evoke oval parade |  
+| bip_39_word_space_11 | also display lonely equip debate boss secret evoke oval parade wife |  
+| bip_39_word_space_12 | also display lonely equip debate boss secret evoke oval parade wife arctic |  
+| bip_39_word_space_2 | also display |  
+| bip_39_word_space_3 | also display lonely |  
+| bip_39_word_space_4 | also display lonely equip |  
+| bip_39_word_space_5 | also display lonely equip debate |  
+| bip_39_word_space_6 | also display lonely equip debate boss |  
+| bip_39_word_space_7 | also display lonely equip debate boss secret |  
+| bip_39_word_space_8 | also display lonely equip debate boss secret evoke |  
+| bip_39_word_space_9 | also display lonely equip debate boss secret evoke oval |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

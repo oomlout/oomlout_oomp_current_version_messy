@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wink physical
+  * bip 39 word 3: wink physical empty
+  * bip 39 word: wink physical empty pond physical bundle indoor velvet walk violin trust army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wink |  
+| bip_39_word_new_br10 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk<br>violin |  
+| bip_39_word_new_br11 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk<br>violin<br>trust |  
+| bip_39_word_new_br12 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk<br>violin<br>trust<br>army |  
+| bip_39_word_new_br2 | wink<br>physical |  
+| bip_39_word_new_br3 | wink<br>physical<br>empty |  
+| bip_39_word_new_br4 | wink<br>physical<br>empty<br>pond |  
+| bip_39_word_new_br5 | wink<br>physical<br>empty<br>pond<br>physical |  
+| bip_39_word_new_br6 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle |  
+| bip_39_word_new_br7 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor |  
+| bip_39_word_new_br8 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet |  
+| bip_39_word_new_br9 | wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk |  
+| bip_39_word_new_line1 | wink |  
+| bip_39_word_new_line10 | wink
+physical
+empty
+pond
+physical
+bundle
+indoor
+velvet
+walk
+violin |  
+| bip_39_word_new_line11 | wink
+physical
+empty
+pond
+physical
+bundle
+indoor
+velvet
+walk
+violin
+trust |  
+| bip_39_word_new_line12 | wink
+physical
+empty
+pond
+physical
+bundle
+indoor
+velvet
+walk
+violin
+trust
+army |  
+| bip_39_word_new_line2 | wink
+physical |  
+| bip_39_word_new_line3 | wink
+physical
+empty |  
+| bip_39_word_new_line4 | wink
+physical
+empty
+pond |  
+| bip_39_word_new_line5 | wink
+physical
+empty
+pond
+physical |  
+| bip_39_word_new_line6 | wink
+physical
+empty
+pond
+physical
+bundle |  
+| bip_39_word_new_line7 | wink
+physical
+empty
+pond
+physical
+bundle
+indoor |  
+| bip_39_word_new_line8 | wink
+physical
+empty
+pond
+physical
+bundle
+indoor
+velvet |  
+| bip_39_word_new_line9 | wink
+physical
+empty
+pond
+physical
+bundle
+indoor
+velvet
+walk |  
+| bip_39_word_space_0 | ['wink', 'physical', 'empty', 'pond', 'physical', 'bundle', 'indoor', 'velvet', 'walk', 'violin', 'trust', 'army'] |  
+| bip_39_word_space_1 | wink |  
+| bip_39_word_space_10 | wink physical empty pond physical bundle indoor velvet walk violin |  
+| bip_39_word_space_11 | wink physical empty pond physical bundle indoor velvet walk violin trust |  
+| bip_39_word_space_12 | wink physical empty pond physical bundle indoor velvet walk violin trust army |  
+| bip_39_word_space_2 | wink physical |  
+| bip_39_word_space_3 | wink physical empty |  
+| bip_39_word_space_4 | wink physical empty pond |  
+| bip_39_word_space_5 | wink physical empty pond physical |  
+| bip_39_word_space_6 | wink physical empty pond physical bundle |  
+| bip_39_word_space_7 | wink physical empty pond physical bundle indoor |  
+| bip_39_word_space_8 | wink physical empty pond physical bundle indoor velvet |  
+| bip_39_word_space_9 | wink physical empty pond physical bundle indoor velvet walk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

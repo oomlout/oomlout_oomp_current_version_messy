@@ -1,3 +1,188 @@
+bip_39_word_new_br1: gravity
+bip_39_word_new_br10: gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale<br>history<br>insane<br>measure<br>salad
+bip_39_word_new_br11: gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale<br>history<br>insane<br>measure<br>salad<br>supply
+bip_39_word_new_br12: gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale<br>history<br>insane<br>measure<br>salad<br>supply<br>add
+bip_39_word_new_br2: gravity<br>practice
+bip_39_word_new_br3: gravity<br>practice<br>winter
+bip_39_word_new_br4: gravity<br>practice<br>winter<br>dolphin
+bip_39_word_new_br5: gravity<br>practice<br>winter<br>dolphin<br>digital
+bip_39_word_new_br6: gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale
+bip_39_word_new_br7: gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale<br>history
+bip_39_word_new_br8: gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale<br>history<br>insane
+bip_39_word_new_br9: gravity<br>practice<br>winter<br>dolphin<br>digital<br>whale<br>history<br>insane<br>measure
+bip_39_word_new_line1: gravity
+bip_39_word_new_line10: 'gravity
+
+  practice
+
+  winter
+
+  dolphin
+
+  digital
+
+  whale
+
+  history
+
+  insane
+
+  measure
+
+  salad'
+bip_39_word_new_line11: 'gravity
+
+  practice
+
+  winter
+
+  dolphin
+
+  digital
+
+  whale
+
+  history
+
+  insane
+
+  measure
+
+  salad
+
+  supply'
+bip_39_word_new_line12: 'gravity
+
+  practice
+
+  winter
+
+  dolphin
+
+  digital
+
+  whale
+
+  history
+
+  insane
+
+  measure
+
+  salad
+
+  supply
+
+  add'
+bip_39_word_new_line2: 'gravity
+
+  practice'
+bip_39_word_new_line3: 'gravity
+
+  practice
+
+  winter'
+bip_39_word_new_line4: 'gravity
+
+  practice
+
+  winter
+
+  dolphin'
+bip_39_word_new_line5: 'gravity
+
+  practice
+
+  winter
+
+  dolphin
+
+  digital'
+bip_39_word_new_line6: 'gravity
+
+  practice
+
+  winter
+
+  dolphin
+
+  digital
+
+  whale'
+bip_39_word_new_line7: 'gravity
+
+  practice
+
+  winter
+
+  dolphin
+
+  digital
+
+  whale
+
+  history'
+bip_39_word_new_line8: 'gravity
+
+  practice
+
+  winter
+
+  dolphin
+
+  digital
+
+  whale
+
+  history
+
+  insane'
+bip_39_word_new_line9: 'gravity
+
+  practice
+
+  winter
+
+  dolphin
+
+  digital
+
+  whale
+
+  history
+
+  insane
+
+  measure'
+bip_39_word_space_0:
+- gravity
+- practice
+- winter
+- dolphin
+- digital
+- whale
+- history
+- insane
+- measure
+- salad
+- supply
+- add
+bip_39_word_space_1: gravity
+bip_39_word_space_10: gravity practice winter dolphin digital whale history insane
+  measure salad
+bip_39_word_space_11: gravity practice winter dolphin digital whale history insane
+  measure salad supply
+bip_39_word_space_12: gravity practice winter dolphin digital whale history insane
+  measure salad supply add
+bip_39_word_space_2: gravity practice
+bip_39_word_space_3: gravity practice winter
+bip_39_word_space_4: gravity practice winter dolphin
+bip_39_word_space_5: gravity practice winter dolphin digital
+bip_39_word_space_6: gravity practice winter dolphin digital whale
+bip_39_word_space_7: gravity practice winter dolphin digital whale history
+bip_39_word_space_8: gravity practice winter dolphin digital whale history insane
+bip_39_word_space_9: gravity practice winter dolphin digital whale history insane
+  measure
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

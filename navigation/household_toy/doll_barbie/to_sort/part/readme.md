@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: warrior crush
+  * bip 39 word 3: warrior crush fiscal
+  * bip 39 word: warrior crush fiscal dog relax race wide expand film dynamic record aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | warrior |  
+| bip_39_word_new_br10 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic |  
+| bip_39_word_new_br11 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic<br>record |  
+| bip_39_word_new_br12 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film<br>dynamic<br>record<br>aspect |  
+| bip_39_word_new_br2 | warrior<br>crush |  
+| bip_39_word_new_br3 | warrior<br>crush<br>fiscal |  
+| bip_39_word_new_br4 | warrior<br>crush<br>fiscal<br>dog |  
+| bip_39_word_new_br5 | warrior<br>crush<br>fiscal<br>dog<br>relax |  
+| bip_39_word_new_br6 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race |  
+| bip_39_word_new_br7 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide |  
+| bip_39_word_new_br8 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand |  
+| bip_39_word_new_br9 | warrior<br>crush<br>fiscal<br>dog<br>relax<br>race<br>wide<br>expand<br>film |  
+| bip_39_word_new_line1 | warrior |  
+| bip_39_word_new_line10 | warrior
+crush
+fiscal
+dog
+relax
+race
+wide
+expand
+film
+dynamic |  
+| bip_39_word_new_line11 | warrior
+crush
+fiscal
+dog
+relax
+race
+wide
+expand
+film
+dynamic
+record |  
+| bip_39_word_new_line12 | warrior
+crush
+fiscal
+dog
+relax
+race
+wide
+expand
+film
+dynamic
+record
+aspect |  
+| bip_39_word_new_line2 | warrior
+crush |  
+| bip_39_word_new_line3 | warrior
+crush
+fiscal |  
+| bip_39_word_new_line4 | warrior
+crush
+fiscal
+dog |  
+| bip_39_word_new_line5 | warrior
+crush
+fiscal
+dog
+relax |  
+| bip_39_word_new_line6 | warrior
+crush
+fiscal
+dog
+relax
+race |  
+| bip_39_word_new_line7 | warrior
+crush
+fiscal
+dog
+relax
+race
+wide |  
+| bip_39_word_new_line8 | warrior
+crush
+fiscal
+dog
+relax
+race
+wide
+expand |  
+| bip_39_word_new_line9 | warrior
+crush
+fiscal
+dog
+relax
+race
+wide
+expand
+film |  
+| bip_39_word_space_0 | ['warrior', 'crush', 'fiscal', 'dog', 'relax', 'race', 'wide', 'expand', 'film', 'dynamic', 'record', 'aspect'] |  
+| bip_39_word_space_1 | warrior |  
+| bip_39_word_space_10 | warrior crush fiscal dog relax race wide expand film dynamic |  
+| bip_39_word_space_11 | warrior crush fiscal dog relax race wide expand film dynamic record |  
+| bip_39_word_space_12 | warrior crush fiscal dog relax race wide expand film dynamic record aspect |  
+| bip_39_word_space_2 | warrior crush |  
+| bip_39_word_space_3 | warrior crush fiscal |  
+| bip_39_word_space_4 | warrior crush fiscal dog |  
+| bip_39_word_space_5 | warrior crush fiscal dog relax |  
+| bip_39_word_space_6 | warrior crush fiscal dog relax race |  
+| bip_39_word_space_7 | warrior crush fiscal dog relax race wide |  
+| bip_39_word_space_8 | warrior crush fiscal dog relax race wide expand |  
+| bip_39_word_space_9 | warrior crush fiscal dog relax race wide expand film |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

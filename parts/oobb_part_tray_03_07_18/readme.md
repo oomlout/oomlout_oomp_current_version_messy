@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dish snake
+  * bip 39 word 3: dish snake zero
+  * bip 39 word: dish snake zero absent eight jacket piece review fringe wink orchard admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dish |  
+| bip_39_word_new_br10 | dish<br>snake<br>zero<br>absent<br>eight<br>jacket<br>piece<br>review<br>fringe<br>wink |  
+| bip_39_word_new_br11 | dish<br>snake<br>zero<br>absent<br>eight<br>jacket<br>piece<br>review<br>fringe<br>wink<br>orchard |  
+| bip_39_word_new_br12 | dish<br>snake<br>zero<br>absent<br>eight<br>jacket<br>piece<br>review<br>fringe<br>wink<br>orchard<br>admit |  
+| bip_39_word_new_br2 | dish<br>snake |  
+| bip_39_word_new_br3 | dish<br>snake<br>zero |  
+| bip_39_word_new_br4 | dish<br>snake<br>zero<br>absent |  
+| bip_39_word_new_br5 | dish<br>snake<br>zero<br>absent<br>eight |  
+| bip_39_word_new_br6 | dish<br>snake<br>zero<br>absent<br>eight<br>jacket |  
+| bip_39_word_new_br7 | dish<br>snake<br>zero<br>absent<br>eight<br>jacket<br>piece |  
+| bip_39_word_new_br8 | dish<br>snake<br>zero<br>absent<br>eight<br>jacket<br>piece<br>review |  
+| bip_39_word_new_br9 | dish<br>snake<br>zero<br>absent<br>eight<br>jacket<br>piece<br>review<br>fringe |  
+| bip_39_word_new_line1 | dish |  
+| bip_39_word_new_line10 | dish
+snake
+zero
+absent
+eight
+jacket
+piece
+review
+fringe
+wink |  
+| bip_39_word_new_line11 | dish
+snake
+zero
+absent
+eight
+jacket
+piece
+review
+fringe
+wink
+orchard |  
+| bip_39_word_new_line12 | dish
+snake
+zero
+absent
+eight
+jacket
+piece
+review
+fringe
+wink
+orchard
+admit |  
+| bip_39_word_new_line2 | dish
+snake |  
+| bip_39_word_new_line3 | dish
+snake
+zero |  
+| bip_39_word_new_line4 | dish
+snake
+zero
+absent |  
+| bip_39_word_new_line5 | dish
+snake
+zero
+absent
+eight |  
+| bip_39_word_new_line6 | dish
+snake
+zero
+absent
+eight
+jacket |  
+| bip_39_word_new_line7 | dish
+snake
+zero
+absent
+eight
+jacket
+piece |  
+| bip_39_word_new_line8 | dish
+snake
+zero
+absent
+eight
+jacket
+piece
+review |  
+| bip_39_word_new_line9 | dish
+snake
+zero
+absent
+eight
+jacket
+piece
+review
+fringe |  
+| bip_39_word_space_0 | ['dish', 'snake', 'zero', 'absent', 'eight', 'jacket', 'piece', 'review', 'fringe', 'wink', 'orchard', 'admit'] |  
+| bip_39_word_space_1 | dish |  
+| bip_39_word_space_10 | dish snake zero absent eight jacket piece review fringe wink |  
+| bip_39_word_space_11 | dish snake zero absent eight jacket piece review fringe wink orchard |  
+| bip_39_word_space_12 | dish snake zero absent eight jacket piece review fringe wink orchard admit |  
+| bip_39_word_space_2 | dish snake |  
+| bip_39_word_space_3 | dish snake zero |  
+| bip_39_word_space_4 | dish snake zero absent |  
+| bip_39_word_space_5 | dish snake zero absent eight |  
+| bip_39_word_space_6 | dish snake zero absent eight jacket |  
+| bip_39_word_space_7 | dish snake zero absent eight jacket piece |  
+| bip_39_word_space_8 | dish snake zero absent eight jacket piece review |  
+| bip_39_word_space_9 | dish snake zero absent eight jacket piece review fringe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

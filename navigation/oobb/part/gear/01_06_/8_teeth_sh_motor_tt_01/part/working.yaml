@@ -1,3 +1,187 @@
+bip_39_word_new_br1: broom
+bip_39_word_new_br10: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave<br>install
+bip_39_word_new_br11: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave<br>install<br>fall
+bip_39_word_new_br12: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave<br>install<br>fall<br>aim
+bip_39_word_new_br2: broom<br>grace
+bip_39_word_new_br3: broom<br>grace<br>topple
+bip_39_word_new_br4: broom<br>grace<br>topple<br>gallery
+bip_39_word_new_br5: broom<br>grace<br>topple<br>gallery<br>secret
+bip_39_word_new_br6: broom<br>grace<br>topple<br>gallery<br>secret<br>letter
+bip_39_word_new_br7: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar
+bip_39_word_new_br8: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic
+bip_39_word_new_br9: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave
+bip_39_word_new_line1: broom
+bip_39_word_new_line10: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic
+
+  wave
+
+  install'
+bip_39_word_new_line11: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic
+
+  wave
+
+  install
+
+  fall'
+bip_39_word_new_line12: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic
+
+  wave
+
+  install
+
+  fall
+
+  aim'
+bip_39_word_new_line2: 'broom
+
+  grace'
+bip_39_word_new_line3: 'broom
+
+  grace
+
+  topple'
+bip_39_word_new_line4: 'broom
+
+  grace
+
+  topple
+
+  gallery'
+bip_39_word_new_line5: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret'
+bip_39_word_new_line6: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter'
+bip_39_word_new_line7: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar'
+bip_39_word_new_line8: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic'
+bip_39_word_new_line9: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic
+
+  wave'
+bip_39_word_space_0:
+- broom
+- grace
+- topple
+- gallery
+- secret
+- letter
+- guitar
+- plastic
+- wave
+- install
+- fall
+- aim
+bip_39_word_space_1: broom
+bip_39_word_space_10: broom grace topple gallery secret letter guitar plastic wave
+  install
+bip_39_word_space_11: broom grace topple gallery secret letter guitar plastic wave
+  install fall
+bip_39_word_space_12: broom grace topple gallery secret letter guitar plastic wave
+  install fall aim
+bip_39_word_space_2: broom grace
+bip_39_word_space_3: broom grace topple
+bip_39_word_space_4: broom grace topple gallery
+bip_39_word_space_5: broom grace topple gallery secret
+bip_39_word_space_6: broom grace topple gallery secret letter
+bip_39_word_space_7: broom grace topple gallery secret letter guitar
+bip_39_word_space_8: broom grace topple gallery secret letter guitar plastic
+bip_39_word_space_9: broom grace topple gallery secret letter guitar plastic wave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

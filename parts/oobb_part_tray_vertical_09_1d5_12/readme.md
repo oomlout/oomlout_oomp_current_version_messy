@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: member coyote
+  * bip 39 word 3: member coyote liar
+  * bip 39 word: member coyote liar choose brief olive custom inquiry sorry network unlock ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | member |  
+| bip_39_word_new_br10 | member<br>coyote<br>liar<br>choose<br>brief<br>olive<br>custom<br>inquiry<br>sorry<br>network |  
+| bip_39_word_new_br11 | member<br>coyote<br>liar<br>choose<br>brief<br>olive<br>custom<br>inquiry<br>sorry<br>network<br>unlock |  
+| bip_39_word_new_br12 | member<br>coyote<br>liar<br>choose<br>brief<br>olive<br>custom<br>inquiry<br>sorry<br>network<br>unlock<br>ankle |  
+| bip_39_word_new_br2 | member<br>coyote |  
+| bip_39_word_new_br3 | member<br>coyote<br>liar |  
+| bip_39_word_new_br4 | member<br>coyote<br>liar<br>choose |  
+| bip_39_word_new_br5 | member<br>coyote<br>liar<br>choose<br>brief |  
+| bip_39_word_new_br6 | member<br>coyote<br>liar<br>choose<br>brief<br>olive |  
+| bip_39_word_new_br7 | member<br>coyote<br>liar<br>choose<br>brief<br>olive<br>custom |  
+| bip_39_word_new_br8 | member<br>coyote<br>liar<br>choose<br>brief<br>olive<br>custom<br>inquiry |  
+| bip_39_word_new_br9 | member<br>coyote<br>liar<br>choose<br>brief<br>olive<br>custom<br>inquiry<br>sorry |  
+| bip_39_word_new_line1 | member |  
+| bip_39_word_new_line10 | member
+coyote
+liar
+choose
+brief
+olive
+custom
+inquiry
+sorry
+network |  
+| bip_39_word_new_line11 | member
+coyote
+liar
+choose
+brief
+olive
+custom
+inquiry
+sorry
+network
+unlock |  
+| bip_39_word_new_line12 | member
+coyote
+liar
+choose
+brief
+olive
+custom
+inquiry
+sorry
+network
+unlock
+ankle |  
+| bip_39_word_new_line2 | member
+coyote |  
+| bip_39_word_new_line3 | member
+coyote
+liar |  
+| bip_39_word_new_line4 | member
+coyote
+liar
+choose |  
+| bip_39_word_new_line5 | member
+coyote
+liar
+choose
+brief |  
+| bip_39_word_new_line6 | member
+coyote
+liar
+choose
+brief
+olive |  
+| bip_39_word_new_line7 | member
+coyote
+liar
+choose
+brief
+olive
+custom |  
+| bip_39_word_new_line8 | member
+coyote
+liar
+choose
+brief
+olive
+custom
+inquiry |  
+| bip_39_word_new_line9 | member
+coyote
+liar
+choose
+brief
+olive
+custom
+inquiry
+sorry |  
+| bip_39_word_space_0 | ['member', 'coyote', 'liar', 'choose', 'brief', 'olive', 'custom', 'inquiry', 'sorry', 'network', 'unlock', 'ankle'] |  
+| bip_39_word_space_1 | member |  
+| bip_39_word_space_10 | member coyote liar choose brief olive custom inquiry sorry network |  
+| bip_39_word_space_11 | member coyote liar choose brief olive custom inquiry sorry network unlock |  
+| bip_39_word_space_12 | member coyote liar choose brief olive custom inquiry sorry network unlock ankle |  
+| bip_39_word_space_2 | member coyote |  
+| bip_39_word_space_3 | member coyote liar |  
+| bip_39_word_space_4 | member coyote liar choose |  
+| bip_39_word_space_5 | member coyote liar choose brief |  
+| bip_39_word_space_6 | member coyote liar choose brief olive |  
+| bip_39_word_space_7 | member coyote liar choose brief olive custom |  
+| bip_39_word_space_8 | member coyote liar choose brief olive custom inquiry |  
+| bip_39_word_space_9 | member coyote liar choose brief olive custom inquiry sorry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

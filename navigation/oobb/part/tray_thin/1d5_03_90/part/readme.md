@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jazz movie
+  * bip 39 word 3: jazz movie despair
+  * bip 39 word: jazz movie despair include blast raccoon guard keep find frown smoke about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jazz |  
+| bip_39_word_new_br10 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon<br>guard<br>keep<br>find<br>frown |  
+| bip_39_word_new_br11 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon<br>guard<br>keep<br>find<br>frown<br>smoke |  
+| bip_39_word_new_br12 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon<br>guard<br>keep<br>find<br>frown<br>smoke<br>about |  
+| bip_39_word_new_br2 | jazz<br>movie |  
+| bip_39_word_new_br3 | jazz<br>movie<br>despair |  
+| bip_39_word_new_br4 | jazz<br>movie<br>despair<br>include |  
+| bip_39_word_new_br5 | jazz<br>movie<br>despair<br>include<br>blast |  
+| bip_39_word_new_br6 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon |  
+| bip_39_word_new_br7 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon<br>guard |  
+| bip_39_word_new_br8 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon<br>guard<br>keep |  
+| bip_39_word_new_br9 | jazz<br>movie<br>despair<br>include<br>blast<br>raccoon<br>guard<br>keep<br>find |  
+| bip_39_word_new_line1 | jazz |  
+| bip_39_word_new_line10 | jazz
+movie
+despair
+include
+blast
+raccoon
+guard
+keep
+find
+frown |  
+| bip_39_word_new_line11 | jazz
+movie
+despair
+include
+blast
+raccoon
+guard
+keep
+find
+frown
+smoke |  
+| bip_39_word_new_line12 | jazz
+movie
+despair
+include
+blast
+raccoon
+guard
+keep
+find
+frown
+smoke
+about |  
+| bip_39_word_new_line2 | jazz
+movie |  
+| bip_39_word_new_line3 | jazz
+movie
+despair |  
+| bip_39_word_new_line4 | jazz
+movie
+despair
+include |  
+| bip_39_word_new_line5 | jazz
+movie
+despair
+include
+blast |  
+| bip_39_word_new_line6 | jazz
+movie
+despair
+include
+blast
+raccoon |  
+| bip_39_word_new_line7 | jazz
+movie
+despair
+include
+blast
+raccoon
+guard |  
+| bip_39_word_new_line8 | jazz
+movie
+despair
+include
+blast
+raccoon
+guard
+keep |  
+| bip_39_word_new_line9 | jazz
+movie
+despair
+include
+blast
+raccoon
+guard
+keep
+find |  
+| bip_39_word_space_0 | ['jazz', 'movie', 'despair', 'include', 'blast', 'raccoon', 'guard', 'keep', 'find', 'frown', 'smoke', 'about'] |  
+| bip_39_word_space_1 | jazz |  
+| bip_39_word_space_10 | jazz movie despair include blast raccoon guard keep find frown |  
+| bip_39_word_space_11 | jazz movie despair include blast raccoon guard keep find frown smoke |  
+| bip_39_word_space_12 | jazz movie despair include blast raccoon guard keep find frown smoke about |  
+| bip_39_word_space_2 | jazz movie |  
+| bip_39_word_space_3 | jazz movie despair |  
+| bip_39_word_space_4 | jazz movie despair include |  
+| bip_39_word_space_5 | jazz movie despair include blast |  
+| bip_39_word_space_6 | jazz movie despair include blast raccoon |  
+| bip_39_word_space_7 | jazz movie despair include blast raccoon guard |  
+| bip_39_word_space_8 | jazz movie despair include blast raccoon guard keep |  
+| bip_39_word_space_9 | jazz movie despair include blast raccoon guard keep find |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

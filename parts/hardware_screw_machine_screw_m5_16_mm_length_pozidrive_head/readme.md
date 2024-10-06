@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reunion art
+  * bip 39 word 3: reunion art fee
+  * bip 39 word: reunion art fee caught sadness lazy early dutch swallow dignity people actor
 
 ### other_codes
 * short_code: ms5m16pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reunion |  
+| bip_39_word_new_br10 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy<br>early<br>dutch<br>swallow<br>dignity |  
+| bip_39_word_new_br11 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy<br>early<br>dutch<br>swallow<br>dignity<br>people |  
+| bip_39_word_new_br12 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy<br>early<br>dutch<br>swallow<br>dignity<br>people<br>actor |  
+| bip_39_word_new_br2 | reunion<br>art |  
+| bip_39_word_new_br3 | reunion<br>art<br>fee |  
+| bip_39_word_new_br4 | reunion<br>art<br>fee<br>caught |  
+| bip_39_word_new_br5 | reunion<br>art<br>fee<br>caught<br>sadness |  
+| bip_39_word_new_br6 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy |  
+| bip_39_word_new_br7 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy<br>early |  
+| bip_39_word_new_br8 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy<br>early<br>dutch |  
+| bip_39_word_new_br9 | reunion<br>art<br>fee<br>caught<br>sadness<br>lazy<br>early<br>dutch<br>swallow |  
+| bip_39_word_new_line1 | reunion |  
+| bip_39_word_new_line10 | reunion
+art
+fee
+caught
+sadness
+lazy
+early
+dutch
+swallow
+dignity |  
+| bip_39_word_new_line11 | reunion
+art
+fee
+caught
+sadness
+lazy
+early
+dutch
+swallow
+dignity
+people |  
+| bip_39_word_new_line12 | reunion
+art
+fee
+caught
+sadness
+lazy
+early
+dutch
+swallow
+dignity
+people
+actor |  
+| bip_39_word_new_line2 | reunion
+art |  
+| bip_39_word_new_line3 | reunion
+art
+fee |  
+| bip_39_word_new_line4 | reunion
+art
+fee
+caught |  
+| bip_39_word_new_line5 | reunion
+art
+fee
+caught
+sadness |  
+| bip_39_word_new_line6 | reunion
+art
+fee
+caught
+sadness
+lazy |  
+| bip_39_word_new_line7 | reunion
+art
+fee
+caught
+sadness
+lazy
+early |  
+| bip_39_word_new_line8 | reunion
+art
+fee
+caught
+sadness
+lazy
+early
+dutch |  
+| bip_39_word_new_line9 | reunion
+art
+fee
+caught
+sadness
+lazy
+early
+dutch
+swallow |  
+| bip_39_word_space_0 | ['reunion', 'art', 'fee', 'caught', 'sadness', 'lazy', 'early', 'dutch', 'swallow', 'dignity', 'people', 'actor'] |  
+| bip_39_word_space_1 | reunion |  
+| bip_39_word_space_10 | reunion art fee caught sadness lazy early dutch swallow dignity |  
+| bip_39_word_space_11 | reunion art fee caught sadness lazy early dutch swallow dignity people |  
+| bip_39_word_space_12 | reunion art fee caught sadness lazy early dutch swallow dignity people actor |  
+| bip_39_word_space_2 | reunion art |  
+| bip_39_word_space_3 | reunion art fee |  
+| bip_39_word_space_4 | reunion art fee caught |  
+| bip_39_word_space_5 | reunion art fee caught sadness |  
+| bip_39_word_space_6 | reunion art fee caught sadness lazy |  
+| bip_39_word_space_7 | reunion art fee caught sadness lazy early |  
+| bip_39_word_space_8 | reunion art fee caught sadness lazy early dutch |  
+| bip_39_word_space_9 | reunion art fee caught sadness lazy early dutch swallow |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brother skin
+  * bip 39 word 3: brother skin alpha
+  * bip 39 word: brother skin alpha scare swamp present silk damp floor skirt globe addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brother |  
+| bip_39_word_new_br10 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present<br>silk<br>damp<br>floor<br>skirt |  
+| bip_39_word_new_br11 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present<br>silk<br>damp<br>floor<br>skirt<br>globe |  
+| bip_39_word_new_br12 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present<br>silk<br>damp<br>floor<br>skirt<br>globe<br>addict |  
+| bip_39_word_new_br2 | brother<br>skin |  
+| bip_39_word_new_br3 | brother<br>skin<br>alpha |  
+| bip_39_word_new_br4 | brother<br>skin<br>alpha<br>scare |  
+| bip_39_word_new_br5 | brother<br>skin<br>alpha<br>scare<br>swamp |  
+| bip_39_word_new_br6 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present |  
+| bip_39_word_new_br7 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present<br>silk |  
+| bip_39_word_new_br8 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present<br>silk<br>damp |  
+| bip_39_word_new_br9 | brother<br>skin<br>alpha<br>scare<br>swamp<br>present<br>silk<br>damp<br>floor |  
+| bip_39_word_new_line1 | brother |  
+| bip_39_word_new_line10 | brother
+skin
+alpha
+scare
+swamp
+present
+silk
+damp
+floor
+skirt |  
+| bip_39_word_new_line11 | brother
+skin
+alpha
+scare
+swamp
+present
+silk
+damp
+floor
+skirt
+globe |  
+| bip_39_word_new_line12 | brother
+skin
+alpha
+scare
+swamp
+present
+silk
+damp
+floor
+skirt
+globe
+addict |  
+| bip_39_word_new_line2 | brother
+skin |  
+| bip_39_word_new_line3 | brother
+skin
+alpha |  
+| bip_39_word_new_line4 | brother
+skin
+alpha
+scare |  
+| bip_39_word_new_line5 | brother
+skin
+alpha
+scare
+swamp |  
+| bip_39_word_new_line6 | brother
+skin
+alpha
+scare
+swamp
+present |  
+| bip_39_word_new_line7 | brother
+skin
+alpha
+scare
+swamp
+present
+silk |  
+| bip_39_word_new_line8 | brother
+skin
+alpha
+scare
+swamp
+present
+silk
+damp |  
+| bip_39_word_new_line9 | brother
+skin
+alpha
+scare
+swamp
+present
+silk
+damp
+floor |  
+| bip_39_word_space_0 | ['brother', 'skin', 'alpha', 'scare', 'swamp', 'present', 'silk', 'damp', 'floor', 'skirt', 'globe', 'addict'] |  
+| bip_39_word_space_1 | brother |  
+| bip_39_word_space_10 | brother skin alpha scare swamp present silk damp floor skirt |  
+| bip_39_word_space_11 | brother skin alpha scare swamp present silk damp floor skirt globe |  
+| bip_39_word_space_12 | brother skin alpha scare swamp present silk damp floor skirt globe addict |  
+| bip_39_word_space_2 | brother skin |  
+| bip_39_word_space_3 | brother skin alpha |  
+| bip_39_word_space_4 | brother skin alpha scare |  
+| bip_39_word_space_5 | brother skin alpha scare swamp |  
+| bip_39_word_space_6 | brother skin alpha scare swamp present |  
+| bip_39_word_space_7 | brother skin alpha scare swamp present silk |  
+| bip_39_word_space_8 | brother skin alpha scare swamp present silk damp |  
+| bip_39_word_space_9 | brother skin alpha scare swamp present silk damp floor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

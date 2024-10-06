@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_wrench_m10_x2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: animal hockey
+  * bip 39 word 3: animal hockey nut
+  * bip 39 word: animal hockey nut shell discover cover ugly slow battle can reason accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | animal |  
+| bip_39_word_new_br10 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can |  
+| bip_39_word_new_br11 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can<br>reason |  
+| bip_39_word_new_br12 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle<br>can<br>reason<br>accuse |  
+| bip_39_word_new_br2 | animal<br>hockey |  
+| bip_39_word_new_br3 | animal<br>hockey<br>nut |  
+| bip_39_word_new_br4 | animal<br>hockey<br>nut<br>shell |  
+| bip_39_word_new_br5 | animal<br>hockey<br>nut<br>shell<br>discover |  
+| bip_39_word_new_br6 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover |  
+| bip_39_word_new_br7 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly |  
+| bip_39_word_new_br8 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow |  
+| bip_39_word_new_br9 | animal<br>hockey<br>nut<br>shell<br>discover<br>cover<br>ugly<br>slow<br>battle |  
+| bip_39_word_new_line1 | animal |  
+| bip_39_word_new_line10 | animal
+hockey
+nut
+shell
+discover
+cover
+ugly
+slow
+battle
+can |  
+| bip_39_word_new_line11 | animal
+hockey
+nut
+shell
+discover
+cover
+ugly
+slow
+battle
+can
+reason |  
+| bip_39_word_new_line12 | animal
+hockey
+nut
+shell
+discover
+cover
+ugly
+slow
+battle
+can
+reason
+accuse |  
+| bip_39_word_new_line2 | animal
+hockey |  
+| bip_39_word_new_line3 | animal
+hockey
+nut |  
+| bip_39_word_new_line4 | animal
+hockey
+nut
+shell |  
+| bip_39_word_new_line5 | animal
+hockey
+nut
+shell
+discover |  
+| bip_39_word_new_line6 | animal
+hockey
+nut
+shell
+discover
+cover |  
+| bip_39_word_new_line7 | animal
+hockey
+nut
+shell
+discover
+cover
+ugly |  
+| bip_39_word_new_line8 | animal
+hockey
+nut
+shell
+discover
+cover
+ugly
+slow |  
+| bip_39_word_new_line9 | animal
+hockey
+nut
+shell
+discover
+cover
+ugly
+slow
+battle |  
+| bip_39_word_space_0 | ['animal', 'hockey', 'nut', 'shell', 'discover', 'cover', 'ugly', 'slow', 'battle', 'can', 'reason', 'accuse'] |  
+| bip_39_word_space_1 | animal |  
+| bip_39_word_space_10 | animal hockey nut shell discover cover ugly slow battle can |  
+| bip_39_word_space_11 | animal hockey nut shell discover cover ugly slow battle can reason |  
+| bip_39_word_space_12 | animal hockey nut shell discover cover ugly slow battle can reason accuse |  
+| bip_39_word_space_2 | animal hockey |  
+| bip_39_word_space_3 | animal hockey nut |  
+| bip_39_word_space_4 | animal hockey nut shell |  
+| bip_39_word_space_5 | animal hockey nut shell discover |  
+| bip_39_word_space_6 | animal hockey nut shell discover cover |  
+| bip_39_word_space_7 | animal hockey nut shell discover cover ugly |  
+| bip_39_word_space_8 | animal hockey nut shell discover cover ugly slow |  
+| bip_39_word_space_9 | animal hockey nut shell discover cover ugly slow battle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

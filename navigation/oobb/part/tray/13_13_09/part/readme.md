@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: humble bone
+  * bip 39 word 3: humble bone shock
+  * bip 39 word: humble bone shock fringe evolve coil duty train sunset judge call animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | humble |  
+| bip_39_word_new_br10 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil<br>duty<br>train<br>sunset<br>judge |  
+| bip_39_word_new_br11 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil<br>duty<br>train<br>sunset<br>judge<br>call |  
+| bip_39_word_new_br12 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil<br>duty<br>train<br>sunset<br>judge<br>call<br>animal |  
+| bip_39_word_new_br2 | humble<br>bone |  
+| bip_39_word_new_br3 | humble<br>bone<br>shock |  
+| bip_39_word_new_br4 | humble<br>bone<br>shock<br>fringe |  
+| bip_39_word_new_br5 | humble<br>bone<br>shock<br>fringe<br>evolve |  
+| bip_39_word_new_br6 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil |  
+| bip_39_word_new_br7 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil<br>duty |  
+| bip_39_word_new_br8 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil<br>duty<br>train |  
+| bip_39_word_new_br9 | humble<br>bone<br>shock<br>fringe<br>evolve<br>coil<br>duty<br>train<br>sunset |  
+| bip_39_word_new_line1 | humble |  
+| bip_39_word_new_line10 | humble
+bone
+shock
+fringe
+evolve
+coil
+duty
+train
+sunset
+judge |  
+| bip_39_word_new_line11 | humble
+bone
+shock
+fringe
+evolve
+coil
+duty
+train
+sunset
+judge
+call |  
+| bip_39_word_new_line12 | humble
+bone
+shock
+fringe
+evolve
+coil
+duty
+train
+sunset
+judge
+call
+animal |  
+| bip_39_word_new_line2 | humble
+bone |  
+| bip_39_word_new_line3 | humble
+bone
+shock |  
+| bip_39_word_new_line4 | humble
+bone
+shock
+fringe |  
+| bip_39_word_new_line5 | humble
+bone
+shock
+fringe
+evolve |  
+| bip_39_word_new_line6 | humble
+bone
+shock
+fringe
+evolve
+coil |  
+| bip_39_word_new_line7 | humble
+bone
+shock
+fringe
+evolve
+coil
+duty |  
+| bip_39_word_new_line8 | humble
+bone
+shock
+fringe
+evolve
+coil
+duty
+train |  
+| bip_39_word_new_line9 | humble
+bone
+shock
+fringe
+evolve
+coil
+duty
+train
+sunset |  
+| bip_39_word_space_0 | ['humble', 'bone', 'shock', 'fringe', 'evolve', 'coil', 'duty', 'train', 'sunset', 'judge', 'call', 'animal'] |  
+| bip_39_word_space_1 | humble |  
+| bip_39_word_space_10 | humble bone shock fringe evolve coil duty train sunset judge |  
+| bip_39_word_space_11 | humble bone shock fringe evolve coil duty train sunset judge call |  
+| bip_39_word_space_12 | humble bone shock fringe evolve coil duty train sunset judge call animal |  
+| bip_39_word_space_2 | humble bone |  
+| bip_39_word_space_3 | humble bone shock |  
+| bip_39_word_space_4 | humble bone shock fringe |  
+| bip_39_word_space_5 | humble bone shock fringe evolve |  
+| bip_39_word_space_6 | humble bone shock fringe evolve coil |  
+| bip_39_word_space_7 | humble bone shock fringe evolve coil duty |  
+| bip_39_word_space_8 | humble bone shock fringe evolve coil duty train |  
+| bip_39_word_space_9 | humble bone shock fringe evolve coil duty train sunset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

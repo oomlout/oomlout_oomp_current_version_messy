@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: x
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fox harbor
+  * bip 39 word 3: fox harbor relief
+  * bip 39 word: fox harbor relief tennis hill abandon cluster major maid tag orient add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fox |  
+| bip_39_word_new_br10 | fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon<br>cluster<br>major<br>maid<br>tag |  
+| bip_39_word_new_br11 | fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon<br>cluster<br>major<br>maid<br>tag<br>orient |  
+| bip_39_word_new_br12 | fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon<br>cluster<br>major<br>maid<br>tag<br>orient<br>add |  
+| bip_39_word_new_br2 | fox<br>harbor |  
+| bip_39_word_new_br3 | fox<br>harbor<br>relief |  
+| bip_39_word_new_br4 | fox<br>harbor<br>relief<br>tennis |  
+| bip_39_word_new_br5 | fox<br>harbor<br>relief<br>tennis<br>hill |  
+| bip_39_word_new_br6 | fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon |  
+| bip_39_word_new_br7 | fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon<br>cluster |  
+| bip_39_word_new_br8 | fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon<br>cluster<br>major |  
+| bip_39_word_new_br9 | fox<br>harbor<br>relief<br>tennis<br>hill<br>abandon<br>cluster<br>major<br>maid |  
+| bip_39_word_new_line1 | fox |  
+| bip_39_word_new_line10 | fox
+harbor
+relief
+tennis
+hill
+abandon
+cluster
+major
+maid
+tag |  
+| bip_39_word_new_line11 | fox
+harbor
+relief
+tennis
+hill
+abandon
+cluster
+major
+maid
+tag
+orient |  
+| bip_39_word_new_line12 | fox
+harbor
+relief
+tennis
+hill
+abandon
+cluster
+major
+maid
+tag
+orient
+add |  
+| bip_39_word_new_line2 | fox
+harbor |  
+| bip_39_word_new_line3 | fox
+harbor
+relief |  
+| bip_39_word_new_line4 | fox
+harbor
+relief
+tennis |  
+| bip_39_word_new_line5 | fox
+harbor
+relief
+tennis
+hill |  
+| bip_39_word_new_line6 | fox
+harbor
+relief
+tennis
+hill
+abandon |  
+| bip_39_word_new_line7 | fox
+harbor
+relief
+tennis
+hill
+abandon
+cluster |  
+| bip_39_word_new_line8 | fox
+harbor
+relief
+tennis
+hill
+abandon
+cluster
+major |  
+| bip_39_word_new_line9 | fox
+harbor
+relief
+tennis
+hill
+abandon
+cluster
+major
+maid |  
+| bip_39_word_space_0 | ['fox', 'harbor', 'relief', 'tennis', 'hill', 'abandon', 'cluster', 'major', 'maid', 'tag', 'orient', 'add'] |  
+| bip_39_word_space_1 | fox |  
+| bip_39_word_space_10 | fox harbor relief tennis hill abandon cluster major maid tag |  
+| bip_39_word_space_11 | fox harbor relief tennis hill abandon cluster major maid tag orient |  
+| bip_39_word_space_12 | fox harbor relief tennis hill abandon cluster major maid tag orient add |  
+| bip_39_word_space_2 | fox harbor |  
+| bip_39_word_space_3 | fox harbor relief |  
+| bip_39_word_space_4 | fox harbor relief tennis |  
+| bip_39_word_space_5 | fox harbor relief tennis hill |  
+| bip_39_word_space_6 | fox harbor relief tennis hill abandon |  
+| bip_39_word_space_7 | fox harbor relief tennis hill abandon cluster |  
+| bip_39_word_space_8 | fox harbor relief tennis hill abandon cluster major |  
+| bip_39_word_space_9 | fox harbor relief tennis hill abandon cluster major maid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

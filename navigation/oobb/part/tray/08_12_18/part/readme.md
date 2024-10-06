@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tuition dry
+  * bip 39 word 3: tuition dry neutral
+  * bip 39 word: tuition dry neutral assume fortune anger dentist timber consider food flower act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tuition |  
+| bip_39_word_new_br10 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger<br>dentist<br>timber<br>consider<br>food |  
+| bip_39_word_new_br11 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger<br>dentist<br>timber<br>consider<br>food<br>flower |  
+| bip_39_word_new_br12 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger<br>dentist<br>timber<br>consider<br>food<br>flower<br>act |  
+| bip_39_word_new_br2 | tuition<br>dry |  
+| bip_39_word_new_br3 | tuition<br>dry<br>neutral |  
+| bip_39_word_new_br4 | tuition<br>dry<br>neutral<br>assume |  
+| bip_39_word_new_br5 | tuition<br>dry<br>neutral<br>assume<br>fortune |  
+| bip_39_word_new_br6 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger |  
+| bip_39_word_new_br7 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger<br>dentist |  
+| bip_39_word_new_br8 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger<br>dentist<br>timber |  
+| bip_39_word_new_br9 | tuition<br>dry<br>neutral<br>assume<br>fortune<br>anger<br>dentist<br>timber<br>consider |  
+| bip_39_word_new_line1 | tuition |  
+| bip_39_word_new_line10 | tuition
+dry
+neutral
+assume
+fortune
+anger
+dentist
+timber
+consider
+food |  
+| bip_39_word_new_line11 | tuition
+dry
+neutral
+assume
+fortune
+anger
+dentist
+timber
+consider
+food
+flower |  
+| bip_39_word_new_line12 | tuition
+dry
+neutral
+assume
+fortune
+anger
+dentist
+timber
+consider
+food
+flower
+act |  
+| bip_39_word_new_line2 | tuition
+dry |  
+| bip_39_word_new_line3 | tuition
+dry
+neutral |  
+| bip_39_word_new_line4 | tuition
+dry
+neutral
+assume |  
+| bip_39_word_new_line5 | tuition
+dry
+neutral
+assume
+fortune |  
+| bip_39_word_new_line6 | tuition
+dry
+neutral
+assume
+fortune
+anger |  
+| bip_39_word_new_line7 | tuition
+dry
+neutral
+assume
+fortune
+anger
+dentist |  
+| bip_39_word_new_line8 | tuition
+dry
+neutral
+assume
+fortune
+anger
+dentist
+timber |  
+| bip_39_word_new_line9 | tuition
+dry
+neutral
+assume
+fortune
+anger
+dentist
+timber
+consider |  
+| bip_39_word_space_0 | ['tuition', 'dry', 'neutral', 'assume', 'fortune', 'anger', 'dentist', 'timber', 'consider', 'food', 'flower', 'act'] |  
+| bip_39_word_space_1 | tuition |  
+| bip_39_word_space_10 | tuition dry neutral assume fortune anger dentist timber consider food |  
+| bip_39_word_space_11 | tuition dry neutral assume fortune anger dentist timber consider food flower |  
+| bip_39_word_space_12 | tuition dry neutral assume fortune anger dentist timber consider food flower act |  
+| bip_39_word_space_2 | tuition dry |  
+| bip_39_word_space_3 | tuition dry neutral |  
+| bip_39_word_space_4 | tuition dry neutral assume |  
+| bip_39_word_space_5 | tuition dry neutral assume fortune |  
+| bip_39_word_space_6 | tuition dry neutral assume fortune anger |  
+| bip_39_word_space_7 | tuition dry neutral assume fortune anger dentist |  
+| bip_39_word_space_8 | tuition dry neutral assume fortune anger dentist timber |  
+| bip_39_word_space_9 | tuition dry neutral assume fortune anger dentist timber consider |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: engine
+bip_39_word_new_br10: engine<br>toy<br>lyrics<br>urge<br>onion<br>bus<br>wedding<br>great<br>panda<br>useless
+bip_39_word_new_br11: engine<br>toy<br>lyrics<br>urge<br>onion<br>bus<br>wedding<br>great<br>panda<br>useless<br>work
+bip_39_word_new_br12: engine<br>toy<br>lyrics<br>urge<br>onion<br>bus<br>wedding<br>great<br>panda<br>useless<br>work<br>actual
+bip_39_word_new_br2: engine<br>toy
+bip_39_word_new_br3: engine<br>toy<br>lyrics
+bip_39_word_new_br4: engine<br>toy<br>lyrics<br>urge
+bip_39_word_new_br5: engine<br>toy<br>lyrics<br>urge<br>onion
+bip_39_word_new_br6: engine<br>toy<br>lyrics<br>urge<br>onion<br>bus
+bip_39_word_new_br7: engine<br>toy<br>lyrics<br>urge<br>onion<br>bus<br>wedding
+bip_39_word_new_br8: engine<br>toy<br>lyrics<br>urge<br>onion<br>bus<br>wedding<br>great
+bip_39_word_new_br9: engine<br>toy<br>lyrics<br>urge<br>onion<br>bus<br>wedding<br>great<br>panda
+bip_39_word_new_line1: engine
+bip_39_word_new_line10: 'engine
+
+  toy
+
+  lyrics
+
+  urge
+
+  onion
+
+  bus
+
+  wedding
+
+  great
+
+  panda
+
+  useless'
+bip_39_word_new_line11: 'engine
+
+  toy
+
+  lyrics
+
+  urge
+
+  onion
+
+  bus
+
+  wedding
+
+  great
+
+  panda
+
+  useless
+
+  work'
+bip_39_word_new_line12: 'engine
+
+  toy
+
+  lyrics
+
+  urge
+
+  onion
+
+  bus
+
+  wedding
+
+  great
+
+  panda
+
+  useless
+
+  work
+
+  actual'
+bip_39_word_new_line2: 'engine
+
+  toy'
+bip_39_word_new_line3: 'engine
+
+  toy
+
+  lyrics'
+bip_39_word_new_line4: 'engine
+
+  toy
+
+  lyrics
+
+  urge'
+bip_39_word_new_line5: 'engine
+
+  toy
+
+  lyrics
+
+  urge
+
+  onion'
+bip_39_word_new_line6: 'engine
+
+  toy
+
+  lyrics
+
+  urge
+
+  onion
+
+  bus'
+bip_39_word_new_line7: 'engine
+
+  toy
+
+  lyrics
+
+  urge
+
+  onion
+
+  bus
+
+  wedding'
+bip_39_word_new_line8: 'engine
+
+  toy
+
+  lyrics
+
+  urge
+
+  onion
+
+  bus
+
+  wedding
+
+  great'
+bip_39_word_new_line9: 'engine
+
+  toy
+
+  lyrics
+
+  urge
+
+  onion
+
+  bus
+
+  wedding
+
+  great
+
+  panda'
+bip_39_word_space_0:
+- engine
+- toy
+- lyrics
+- urge
+- onion
+- bus
+- wedding
+- great
+- panda
+- useless
+- work
+- actual
+bip_39_word_space_1: engine
+bip_39_word_space_10: engine toy lyrics urge onion bus wedding great panda useless
+bip_39_word_space_11: engine toy lyrics urge onion bus wedding great panda useless
+  work
+bip_39_word_space_12: engine toy lyrics urge onion bus wedding great panda useless
+  work actual
+bip_39_word_space_2: engine toy
+bip_39_word_space_3: engine toy lyrics
+bip_39_word_space_4: engine toy lyrics urge
+bip_39_word_space_5: engine toy lyrics urge onion
+bip_39_word_space_6: engine toy lyrics urge onion bus
+bip_39_word_space_7: engine toy lyrics urge onion bus wedding
+bip_39_word_space_8: engine toy lyrics urge onion bus wedding great
+bip_39_word_space_9: engine toy lyrics urge onion bus wedding great panda
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

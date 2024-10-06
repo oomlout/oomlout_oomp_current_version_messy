@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: double aim
+  * bip 39 word 3: double aim differ
+  * bip 39 word: double aim differ say mimic bread advice uniform expand siege syrup already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | double |  
+| bip_39_word_new_br10 | double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand<br>siege |  
+| bip_39_word_new_br11 | double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand<br>siege<br>syrup |  
+| bip_39_word_new_br12 | double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand<br>siege<br>syrup<br>already |  
+| bip_39_word_new_br2 | double<br>aim |  
+| bip_39_word_new_br3 | double<br>aim<br>differ |  
+| bip_39_word_new_br4 | double<br>aim<br>differ<br>say |  
+| bip_39_word_new_br5 | double<br>aim<br>differ<br>say<br>mimic |  
+| bip_39_word_new_br6 | double<br>aim<br>differ<br>say<br>mimic<br>bread |  
+| bip_39_word_new_br7 | double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice |  
+| bip_39_word_new_br8 | double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform |  
+| bip_39_word_new_br9 | double<br>aim<br>differ<br>say<br>mimic<br>bread<br>advice<br>uniform<br>expand |  
+| bip_39_word_new_line1 | double |  
+| bip_39_word_new_line10 | double
+aim
+differ
+say
+mimic
+bread
+advice
+uniform
+expand
+siege |  
+| bip_39_word_new_line11 | double
+aim
+differ
+say
+mimic
+bread
+advice
+uniform
+expand
+siege
+syrup |  
+| bip_39_word_new_line12 | double
+aim
+differ
+say
+mimic
+bread
+advice
+uniform
+expand
+siege
+syrup
+already |  
+| bip_39_word_new_line2 | double
+aim |  
+| bip_39_word_new_line3 | double
+aim
+differ |  
+| bip_39_word_new_line4 | double
+aim
+differ
+say |  
+| bip_39_word_new_line5 | double
+aim
+differ
+say
+mimic |  
+| bip_39_word_new_line6 | double
+aim
+differ
+say
+mimic
+bread |  
+| bip_39_word_new_line7 | double
+aim
+differ
+say
+mimic
+bread
+advice |  
+| bip_39_word_new_line8 | double
+aim
+differ
+say
+mimic
+bread
+advice
+uniform |  
+| bip_39_word_new_line9 | double
+aim
+differ
+say
+mimic
+bread
+advice
+uniform
+expand |  
+| bip_39_word_space_0 | ['double', 'aim', 'differ', 'say', 'mimic', 'bread', 'advice', 'uniform', 'expand', 'siege', 'syrup', 'already'] |  
+| bip_39_word_space_1 | double |  
+| bip_39_word_space_10 | double aim differ say mimic bread advice uniform expand siege |  
+| bip_39_word_space_11 | double aim differ say mimic bread advice uniform expand siege syrup |  
+| bip_39_word_space_12 | double aim differ say mimic bread advice uniform expand siege syrup already |  
+| bip_39_word_space_2 | double aim |  
+| bip_39_word_space_3 | double aim differ |  
+| bip_39_word_space_4 | double aim differ say |  
+| bip_39_word_space_5 | double aim differ say mimic |  
+| bip_39_word_space_6 | double aim differ say mimic bread |  
+| bip_39_word_space_7 | double aim differ say mimic bread advice |  
+| bip_39_word_space_8 | double aim differ say mimic bread advice uniform |  
+| bip_39_word_space_9 | double aim differ say mimic bread advice uniform expand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

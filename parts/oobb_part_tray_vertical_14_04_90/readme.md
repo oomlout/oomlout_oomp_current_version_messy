@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: issue air
+  * bip 39 word 3: issue air exclude
+  * bip 39 word: issue air exclude tuna tackle gospel unfair option draft quit luggage act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | issue |  
+| bip_39_word_new_br10 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel<br>unfair<br>option<br>draft<br>quit |  
+| bip_39_word_new_br11 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel<br>unfair<br>option<br>draft<br>quit<br>luggage |  
+| bip_39_word_new_br12 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel<br>unfair<br>option<br>draft<br>quit<br>luggage<br>act |  
+| bip_39_word_new_br2 | issue<br>air |  
+| bip_39_word_new_br3 | issue<br>air<br>exclude |  
+| bip_39_word_new_br4 | issue<br>air<br>exclude<br>tuna |  
+| bip_39_word_new_br5 | issue<br>air<br>exclude<br>tuna<br>tackle |  
+| bip_39_word_new_br6 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel |  
+| bip_39_word_new_br7 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel<br>unfair |  
+| bip_39_word_new_br8 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel<br>unfair<br>option |  
+| bip_39_word_new_br9 | issue<br>air<br>exclude<br>tuna<br>tackle<br>gospel<br>unfair<br>option<br>draft |  
+| bip_39_word_new_line1 | issue |  
+| bip_39_word_new_line10 | issue
+air
+exclude
+tuna
+tackle
+gospel
+unfair
+option
+draft
+quit |  
+| bip_39_word_new_line11 | issue
+air
+exclude
+tuna
+tackle
+gospel
+unfair
+option
+draft
+quit
+luggage |  
+| bip_39_word_new_line12 | issue
+air
+exclude
+tuna
+tackle
+gospel
+unfair
+option
+draft
+quit
+luggage
+act |  
+| bip_39_word_new_line2 | issue
+air |  
+| bip_39_word_new_line3 | issue
+air
+exclude |  
+| bip_39_word_new_line4 | issue
+air
+exclude
+tuna |  
+| bip_39_word_new_line5 | issue
+air
+exclude
+tuna
+tackle |  
+| bip_39_word_new_line6 | issue
+air
+exclude
+tuna
+tackle
+gospel |  
+| bip_39_word_new_line7 | issue
+air
+exclude
+tuna
+tackle
+gospel
+unfair |  
+| bip_39_word_new_line8 | issue
+air
+exclude
+tuna
+tackle
+gospel
+unfair
+option |  
+| bip_39_word_new_line9 | issue
+air
+exclude
+tuna
+tackle
+gospel
+unfair
+option
+draft |  
+| bip_39_word_space_0 | ['issue', 'air', 'exclude', 'tuna', 'tackle', 'gospel', 'unfair', 'option', 'draft', 'quit', 'luggage', 'act'] |  
+| bip_39_word_space_1 | issue |  
+| bip_39_word_space_10 | issue air exclude tuna tackle gospel unfair option draft quit |  
+| bip_39_word_space_11 | issue air exclude tuna tackle gospel unfair option draft quit luggage |  
+| bip_39_word_space_12 | issue air exclude tuna tackle gospel unfair option draft quit luggage act |  
+| bip_39_word_space_2 | issue air |  
+| bip_39_word_space_3 | issue air exclude |  
+| bip_39_word_space_4 | issue air exclude tuna |  
+| bip_39_word_space_5 | issue air exclude tuna tackle |  
+| bip_39_word_space_6 | issue air exclude tuna tackle gospel |  
+| bip_39_word_space_7 | issue air exclude tuna tackle gospel unfair |  
+| bip_39_word_space_8 | issue air exclude tuna tackle gospel unfair option |  
+| bip_39_word_space_9 | issue air exclude tuna tackle gospel unfair option draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

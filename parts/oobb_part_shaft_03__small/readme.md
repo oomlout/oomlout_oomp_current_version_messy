@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rigid notice
+  * bip 39 word 3: rigid notice devote
+  * bip 39 word: rigid notice devote wealth caught total orient parent still gossip abstract about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rigid |  
+| bip_39_word_new_br10 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip |  
+| bip_39_word_new_br11 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip<br>abstract |  
+| bip_39_word_new_br12 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still<br>gossip<br>abstract<br>about |  
+| bip_39_word_new_br2 | rigid<br>notice |  
+| bip_39_word_new_br3 | rigid<br>notice<br>devote |  
+| bip_39_word_new_br4 | rigid<br>notice<br>devote<br>wealth |  
+| bip_39_word_new_br5 | rigid<br>notice<br>devote<br>wealth<br>caught |  
+| bip_39_word_new_br6 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total |  
+| bip_39_word_new_br7 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient |  
+| bip_39_word_new_br8 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent |  
+| bip_39_word_new_br9 | rigid<br>notice<br>devote<br>wealth<br>caught<br>total<br>orient<br>parent<br>still |  
+| bip_39_word_new_line1 | rigid |  
+| bip_39_word_new_line10 | rigid
+notice
+devote
+wealth
+caught
+total
+orient
+parent
+still
+gossip |  
+| bip_39_word_new_line11 | rigid
+notice
+devote
+wealth
+caught
+total
+orient
+parent
+still
+gossip
+abstract |  
+| bip_39_word_new_line12 | rigid
+notice
+devote
+wealth
+caught
+total
+orient
+parent
+still
+gossip
+abstract
+about |  
+| bip_39_word_new_line2 | rigid
+notice |  
+| bip_39_word_new_line3 | rigid
+notice
+devote |  
+| bip_39_word_new_line4 | rigid
+notice
+devote
+wealth |  
+| bip_39_word_new_line5 | rigid
+notice
+devote
+wealth
+caught |  
+| bip_39_word_new_line6 | rigid
+notice
+devote
+wealth
+caught
+total |  
+| bip_39_word_new_line7 | rigid
+notice
+devote
+wealth
+caught
+total
+orient |  
+| bip_39_word_new_line8 | rigid
+notice
+devote
+wealth
+caught
+total
+orient
+parent |  
+| bip_39_word_new_line9 | rigid
+notice
+devote
+wealth
+caught
+total
+orient
+parent
+still |  
+| bip_39_word_space_0 | ['rigid', 'notice', 'devote', 'wealth', 'caught', 'total', 'orient', 'parent', 'still', 'gossip', 'abstract', 'about'] |  
+| bip_39_word_space_1 | rigid |  
+| bip_39_word_space_10 | rigid notice devote wealth caught total orient parent still gossip |  
+| bip_39_word_space_11 | rigid notice devote wealth caught total orient parent still gossip abstract |  
+| bip_39_word_space_12 | rigid notice devote wealth caught total orient parent still gossip abstract about |  
+| bip_39_word_space_2 | rigid notice |  
+| bip_39_word_space_3 | rigid notice devote |  
+| bip_39_word_space_4 | rigid notice devote wealth |  
+| bip_39_word_space_5 | rigid notice devote wealth caught |  
+| bip_39_word_space_6 | rigid notice devote wealth caught total |  
+| bip_39_word_space_7 | rigid notice devote wealth caught total orient |  
+| bip_39_word_space_8 | rigid notice devote wealth caught total orient parent |  
+| bip_39_word_space_9 | rigid notice devote wealth caught total orient parent still |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: assume
+bip_39_word_new_br10: assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight<br>suggest<br>dinner<br>theme<br>repeat
+bip_39_word_new_br11: assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight<br>suggest<br>dinner<br>theme<br>repeat<br>decide
+bip_39_word_new_br12: assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight<br>suggest<br>dinner<br>theme<br>repeat<br>decide<br>abuse
+bip_39_word_new_br2: assume<br>weasel
+bip_39_word_new_br3: assume<br>weasel<br>modify
+bip_39_word_new_br4: assume<br>weasel<br>modify<br>wet
+bip_39_word_new_br5: assume<br>weasel<br>modify<br>wet<br>ordinary
+bip_39_word_new_br6: assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight
+bip_39_word_new_br7: assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight<br>suggest
+bip_39_word_new_br8: assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight<br>suggest<br>dinner
+bip_39_word_new_br9: assume<br>weasel<br>modify<br>wet<br>ordinary<br>eight<br>suggest<br>dinner<br>theme
+bip_39_word_new_line1: assume
+bip_39_word_new_line10: 'assume
+
+  weasel
+
+  modify
+
+  wet
+
+  ordinary
+
+  eight
+
+  suggest
+
+  dinner
+
+  theme
+
+  repeat'
+bip_39_word_new_line11: 'assume
+
+  weasel
+
+  modify
+
+  wet
+
+  ordinary
+
+  eight
+
+  suggest
+
+  dinner
+
+  theme
+
+  repeat
+
+  decide'
+bip_39_word_new_line12: 'assume
+
+  weasel
+
+  modify
+
+  wet
+
+  ordinary
+
+  eight
+
+  suggest
+
+  dinner
+
+  theme
+
+  repeat
+
+  decide
+
+  abuse'
+bip_39_word_new_line2: 'assume
+
+  weasel'
+bip_39_word_new_line3: 'assume
+
+  weasel
+
+  modify'
+bip_39_word_new_line4: 'assume
+
+  weasel
+
+  modify
+
+  wet'
+bip_39_word_new_line5: 'assume
+
+  weasel
+
+  modify
+
+  wet
+
+  ordinary'
+bip_39_word_new_line6: 'assume
+
+  weasel
+
+  modify
+
+  wet
+
+  ordinary
+
+  eight'
+bip_39_word_new_line7: 'assume
+
+  weasel
+
+  modify
+
+  wet
+
+  ordinary
+
+  eight
+
+  suggest'
+bip_39_word_new_line8: 'assume
+
+  weasel
+
+  modify
+
+  wet
+
+  ordinary
+
+  eight
+
+  suggest
+
+  dinner'
+bip_39_word_new_line9: 'assume
+
+  weasel
+
+  modify
+
+  wet
+
+  ordinary
+
+  eight
+
+  suggest
+
+  dinner
+
+  theme'
+bip_39_word_space_0:
+- assume
+- weasel
+- modify
+- wet
+- ordinary
+- eight
+- suggest
+- dinner
+- theme
+- repeat
+- decide
+- abuse
+bip_39_word_space_1: assume
+bip_39_word_space_10: assume weasel modify wet ordinary eight suggest dinner theme
+  repeat
+bip_39_word_space_11: assume weasel modify wet ordinary eight suggest dinner theme
+  repeat decide
+bip_39_word_space_12: assume weasel modify wet ordinary eight suggest dinner theme
+  repeat decide abuse
+bip_39_word_space_2: assume weasel
+bip_39_word_space_3: assume weasel modify
+bip_39_word_space_4: assume weasel modify wet
+bip_39_word_space_5: assume weasel modify wet ordinary
+bip_39_word_space_6: assume weasel modify wet ordinary eight
+bip_39_word_space_7: assume weasel modify wet ordinary eight suggest
+bip_39_word_space_8: assume weasel modify wet ordinary eight suggest dinner
+bip_39_word_space_9: assume weasel modify wet ordinary eight suggest dinner theme
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

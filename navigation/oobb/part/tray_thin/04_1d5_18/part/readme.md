@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: idea broom
+  * bip 39 word 3: idea broom hair
+  * bip 39 word: idea broom hair shrimp weasel voyage pole tray angle walnut snack alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | idea |  
+| bip_39_word_new_br10 | idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle<br>walnut |  
+| bip_39_word_new_br11 | idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle<br>walnut<br>snack |  
+| bip_39_word_new_br12 | idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle<br>walnut<br>snack<br>alarm |  
+| bip_39_word_new_br2 | idea<br>broom |  
+| bip_39_word_new_br3 | idea<br>broom<br>hair |  
+| bip_39_word_new_br4 | idea<br>broom<br>hair<br>shrimp |  
+| bip_39_word_new_br5 | idea<br>broom<br>hair<br>shrimp<br>weasel |  
+| bip_39_word_new_br6 | idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage |  
+| bip_39_word_new_br7 | idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole |  
+| bip_39_word_new_br8 | idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray |  
+| bip_39_word_new_br9 | idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle |  
+| bip_39_word_new_line1 | idea |  
+| bip_39_word_new_line10 | idea
+broom
+hair
+shrimp
+weasel
+voyage
+pole
+tray
+angle
+walnut |  
+| bip_39_word_new_line11 | idea
+broom
+hair
+shrimp
+weasel
+voyage
+pole
+tray
+angle
+walnut
+snack |  
+| bip_39_word_new_line12 | idea
+broom
+hair
+shrimp
+weasel
+voyage
+pole
+tray
+angle
+walnut
+snack
+alarm |  
+| bip_39_word_new_line2 | idea
+broom |  
+| bip_39_word_new_line3 | idea
+broom
+hair |  
+| bip_39_word_new_line4 | idea
+broom
+hair
+shrimp |  
+| bip_39_word_new_line5 | idea
+broom
+hair
+shrimp
+weasel |  
+| bip_39_word_new_line6 | idea
+broom
+hair
+shrimp
+weasel
+voyage |  
+| bip_39_word_new_line7 | idea
+broom
+hair
+shrimp
+weasel
+voyage
+pole |  
+| bip_39_word_new_line8 | idea
+broom
+hair
+shrimp
+weasel
+voyage
+pole
+tray |  
+| bip_39_word_new_line9 | idea
+broom
+hair
+shrimp
+weasel
+voyage
+pole
+tray
+angle |  
+| bip_39_word_space_0 | ['idea', 'broom', 'hair', 'shrimp', 'weasel', 'voyage', 'pole', 'tray', 'angle', 'walnut', 'snack', 'alarm'] |  
+| bip_39_word_space_1 | idea |  
+| bip_39_word_space_10 | idea broom hair shrimp weasel voyage pole tray angle walnut |  
+| bip_39_word_space_11 | idea broom hair shrimp weasel voyage pole tray angle walnut snack |  
+| bip_39_word_space_12 | idea broom hair shrimp weasel voyage pole tray angle walnut snack alarm |  
+| bip_39_word_space_2 | idea broom |  
+| bip_39_word_space_3 | idea broom hair |  
+| bip_39_word_space_4 | idea broom hair shrimp |  
+| bip_39_word_space_5 | idea broom hair shrimp weasel |  
+| bip_39_word_space_6 | idea broom hair shrimp weasel voyage |  
+| bip_39_word_space_7 | idea broom hair shrimp weasel voyage pole |  
+| bip_39_word_space_8 | idea broom hair shrimp weasel voyage pole tray |  
+| bip_39_word_space_9 | idea broom hair shrimp weasel voyage pole tray angle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

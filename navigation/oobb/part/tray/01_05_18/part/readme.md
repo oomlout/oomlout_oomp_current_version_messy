@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: original country
+  * bip 39 word 3: original country fresh
+  * bip 39 word: original country fresh glance liar outdoor two vintage danger remain country around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | original |  
+| bip_39_word_new_br10 | original<br>country<br>fresh<br>glance<br>liar<br>outdoor<br>two<br>vintage<br>danger<br>remain |  
+| bip_39_word_new_br11 | original<br>country<br>fresh<br>glance<br>liar<br>outdoor<br>two<br>vintage<br>danger<br>remain<br>country |  
+| bip_39_word_new_br12 | original<br>country<br>fresh<br>glance<br>liar<br>outdoor<br>two<br>vintage<br>danger<br>remain<br>country<br>around |  
+| bip_39_word_new_br2 | original<br>country |  
+| bip_39_word_new_br3 | original<br>country<br>fresh |  
+| bip_39_word_new_br4 | original<br>country<br>fresh<br>glance |  
+| bip_39_word_new_br5 | original<br>country<br>fresh<br>glance<br>liar |  
+| bip_39_word_new_br6 | original<br>country<br>fresh<br>glance<br>liar<br>outdoor |  
+| bip_39_word_new_br7 | original<br>country<br>fresh<br>glance<br>liar<br>outdoor<br>two |  
+| bip_39_word_new_br8 | original<br>country<br>fresh<br>glance<br>liar<br>outdoor<br>two<br>vintage |  
+| bip_39_word_new_br9 | original<br>country<br>fresh<br>glance<br>liar<br>outdoor<br>two<br>vintage<br>danger |  
+| bip_39_word_new_line1 | original |  
+| bip_39_word_new_line10 | original
+country
+fresh
+glance
+liar
+outdoor
+two
+vintage
+danger
+remain |  
+| bip_39_word_new_line11 | original
+country
+fresh
+glance
+liar
+outdoor
+two
+vintage
+danger
+remain
+country |  
+| bip_39_word_new_line12 | original
+country
+fresh
+glance
+liar
+outdoor
+two
+vintage
+danger
+remain
+country
+around |  
+| bip_39_word_new_line2 | original
+country |  
+| bip_39_word_new_line3 | original
+country
+fresh |  
+| bip_39_word_new_line4 | original
+country
+fresh
+glance |  
+| bip_39_word_new_line5 | original
+country
+fresh
+glance
+liar |  
+| bip_39_word_new_line6 | original
+country
+fresh
+glance
+liar
+outdoor |  
+| bip_39_word_new_line7 | original
+country
+fresh
+glance
+liar
+outdoor
+two |  
+| bip_39_word_new_line8 | original
+country
+fresh
+glance
+liar
+outdoor
+two
+vintage |  
+| bip_39_word_new_line9 | original
+country
+fresh
+glance
+liar
+outdoor
+two
+vintage
+danger |  
+| bip_39_word_space_0 | ['original', 'country', 'fresh', 'glance', 'liar', 'outdoor', 'two', 'vintage', 'danger', 'remain', 'country', 'around'] |  
+| bip_39_word_space_1 | original |  
+| bip_39_word_space_10 | original country fresh glance liar outdoor two vintage danger remain |  
+| bip_39_word_space_11 | original country fresh glance liar outdoor two vintage danger remain country |  
+| bip_39_word_space_12 | original country fresh glance liar outdoor two vintage danger remain country around |  
+| bip_39_word_space_2 | original country |  
+| bip_39_word_space_3 | original country fresh |  
+| bip_39_word_space_4 | original country fresh glance |  
+| bip_39_word_space_5 | original country fresh glance liar |  
+| bip_39_word_space_6 | original country fresh glance liar outdoor |  
+| bip_39_word_space_7 | original country fresh glance liar outdoor two |  
+| bip_39_word_space_8 | original country fresh glance liar outdoor two vintage |  
+| bip_39_word_space_9 | original country fresh glance liar outdoor two vintage danger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hen turtle
+  * bip 39 word 3: hen turtle dash
+  * bip 39 word: hen turtle dash jump crater slide spread farm weekend wrestle caution artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hen |  
+| bip_39_word_new_br10 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide<br>spread<br>farm<br>weekend<br>wrestle |  
+| bip_39_word_new_br11 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide<br>spread<br>farm<br>weekend<br>wrestle<br>caution |  
+| bip_39_word_new_br12 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide<br>spread<br>farm<br>weekend<br>wrestle<br>caution<br>artist |  
+| bip_39_word_new_br2 | hen<br>turtle |  
+| bip_39_word_new_br3 | hen<br>turtle<br>dash |  
+| bip_39_word_new_br4 | hen<br>turtle<br>dash<br>jump |  
+| bip_39_word_new_br5 | hen<br>turtle<br>dash<br>jump<br>crater |  
+| bip_39_word_new_br6 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide |  
+| bip_39_word_new_br7 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide<br>spread |  
+| bip_39_word_new_br8 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide<br>spread<br>farm |  
+| bip_39_word_new_br9 | hen<br>turtle<br>dash<br>jump<br>crater<br>slide<br>spread<br>farm<br>weekend |  
+| bip_39_word_new_line1 | hen |  
+| bip_39_word_new_line10 | hen
+turtle
+dash
+jump
+crater
+slide
+spread
+farm
+weekend
+wrestle |  
+| bip_39_word_new_line11 | hen
+turtle
+dash
+jump
+crater
+slide
+spread
+farm
+weekend
+wrestle
+caution |  
+| bip_39_word_new_line12 | hen
+turtle
+dash
+jump
+crater
+slide
+spread
+farm
+weekend
+wrestle
+caution
+artist |  
+| bip_39_word_new_line2 | hen
+turtle |  
+| bip_39_word_new_line3 | hen
+turtle
+dash |  
+| bip_39_word_new_line4 | hen
+turtle
+dash
+jump |  
+| bip_39_word_new_line5 | hen
+turtle
+dash
+jump
+crater |  
+| bip_39_word_new_line6 | hen
+turtle
+dash
+jump
+crater
+slide |  
+| bip_39_word_new_line7 | hen
+turtle
+dash
+jump
+crater
+slide
+spread |  
+| bip_39_word_new_line8 | hen
+turtle
+dash
+jump
+crater
+slide
+spread
+farm |  
+| bip_39_word_new_line9 | hen
+turtle
+dash
+jump
+crater
+slide
+spread
+farm
+weekend |  
+| bip_39_word_space_0 | ['hen', 'turtle', 'dash', 'jump', 'crater', 'slide', 'spread', 'farm', 'weekend', 'wrestle', 'caution', 'artist'] |  
+| bip_39_word_space_1 | hen |  
+| bip_39_word_space_10 | hen turtle dash jump crater slide spread farm weekend wrestle |  
+| bip_39_word_space_11 | hen turtle dash jump crater slide spread farm weekend wrestle caution |  
+| bip_39_word_space_12 | hen turtle dash jump crater slide spread farm weekend wrestle caution artist |  
+| bip_39_word_space_2 | hen turtle |  
+| bip_39_word_space_3 | hen turtle dash |  
+| bip_39_word_space_4 | hen turtle dash jump |  
+| bip_39_word_space_5 | hen turtle dash jump crater |  
+| bip_39_word_space_6 | hen turtle dash jump crater slide |  
+| bip_39_word_space_7 | hen turtle dash jump crater slide spread |  
+| bip_39_word_space_8 | hen turtle dash jump crater slide spread farm |  
+| bip_39_word_space_9 | hen turtle dash jump crater slide spread farm weekend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

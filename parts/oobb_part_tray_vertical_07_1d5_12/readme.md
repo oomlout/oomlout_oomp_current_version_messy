@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tube orient
+  * bip 39 word 3: tube orient involve
+  * bip 39 word: tube orient involve pizza drill human blur brand denial grain hair apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tube |  
+| bip_39_word_new_br10 | tube<br>orient<br>involve<br>pizza<br>drill<br>human<br>blur<br>brand<br>denial<br>grain |  
+| bip_39_word_new_br11 | tube<br>orient<br>involve<br>pizza<br>drill<br>human<br>blur<br>brand<br>denial<br>grain<br>hair |  
+| bip_39_word_new_br12 | tube<br>orient<br>involve<br>pizza<br>drill<br>human<br>blur<br>brand<br>denial<br>grain<br>hair<br>apart |  
+| bip_39_word_new_br2 | tube<br>orient |  
+| bip_39_word_new_br3 | tube<br>orient<br>involve |  
+| bip_39_word_new_br4 | tube<br>orient<br>involve<br>pizza |  
+| bip_39_word_new_br5 | tube<br>orient<br>involve<br>pizza<br>drill |  
+| bip_39_word_new_br6 | tube<br>orient<br>involve<br>pizza<br>drill<br>human |  
+| bip_39_word_new_br7 | tube<br>orient<br>involve<br>pizza<br>drill<br>human<br>blur |  
+| bip_39_word_new_br8 | tube<br>orient<br>involve<br>pizza<br>drill<br>human<br>blur<br>brand |  
+| bip_39_word_new_br9 | tube<br>orient<br>involve<br>pizza<br>drill<br>human<br>blur<br>brand<br>denial |  
+| bip_39_word_new_line1 | tube |  
+| bip_39_word_new_line10 | tube
+orient
+involve
+pizza
+drill
+human
+blur
+brand
+denial
+grain |  
+| bip_39_word_new_line11 | tube
+orient
+involve
+pizza
+drill
+human
+blur
+brand
+denial
+grain
+hair |  
+| bip_39_word_new_line12 | tube
+orient
+involve
+pizza
+drill
+human
+blur
+brand
+denial
+grain
+hair
+apart |  
+| bip_39_word_new_line2 | tube
+orient |  
+| bip_39_word_new_line3 | tube
+orient
+involve |  
+| bip_39_word_new_line4 | tube
+orient
+involve
+pizza |  
+| bip_39_word_new_line5 | tube
+orient
+involve
+pizza
+drill |  
+| bip_39_word_new_line6 | tube
+orient
+involve
+pizza
+drill
+human |  
+| bip_39_word_new_line7 | tube
+orient
+involve
+pizza
+drill
+human
+blur |  
+| bip_39_word_new_line8 | tube
+orient
+involve
+pizza
+drill
+human
+blur
+brand |  
+| bip_39_word_new_line9 | tube
+orient
+involve
+pizza
+drill
+human
+blur
+brand
+denial |  
+| bip_39_word_space_0 | ['tube', 'orient', 'involve', 'pizza', 'drill', 'human', 'blur', 'brand', 'denial', 'grain', 'hair', 'apart'] |  
+| bip_39_word_space_1 | tube |  
+| bip_39_word_space_10 | tube orient involve pizza drill human blur brand denial grain |  
+| bip_39_word_space_11 | tube orient involve pizza drill human blur brand denial grain hair |  
+| bip_39_word_space_12 | tube orient involve pizza drill human blur brand denial grain hair apart |  
+| bip_39_word_space_2 | tube orient |  
+| bip_39_word_space_3 | tube orient involve |  
+| bip_39_word_space_4 | tube orient involve pizza |  
+| bip_39_word_space_5 | tube orient involve pizza drill |  
+| bip_39_word_space_6 | tube orient involve pizza drill human |  
+| bip_39_word_space_7 | tube orient involve pizza drill human blur |  
+| bip_39_word_space_8 | tube orient involve pizza drill human blur brand |  
+| bip_39_word_space_9 | tube orient involve pizza drill human blur brand denial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fresh spin
+  * bip 39 word 3: fresh spin whale
+  * bip 39 word: fresh spin whale reunion oblige armor always master report whale dove absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fresh |  
+| bip_39_word_new_br10 | fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor<br>always<br>master<br>report<br>whale |  
+| bip_39_word_new_br11 | fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor<br>always<br>master<br>report<br>whale<br>dove |  
+| bip_39_word_new_br12 | fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor<br>always<br>master<br>report<br>whale<br>dove<br>absent |  
+| bip_39_word_new_br2 | fresh<br>spin |  
+| bip_39_word_new_br3 | fresh<br>spin<br>whale |  
+| bip_39_word_new_br4 | fresh<br>spin<br>whale<br>reunion |  
+| bip_39_word_new_br5 | fresh<br>spin<br>whale<br>reunion<br>oblige |  
+| bip_39_word_new_br6 | fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor |  
+| bip_39_word_new_br7 | fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor<br>always |  
+| bip_39_word_new_br8 | fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor<br>always<br>master |  
+| bip_39_word_new_br9 | fresh<br>spin<br>whale<br>reunion<br>oblige<br>armor<br>always<br>master<br>report |  
+| bip_39_word_new_line1 | fresh |  
+| bip_39_word_new_line10 | fresh
+spin
+whale
+reunion
+oblige
+armor
+always
+master
+report
+whale |  
+| bip_39_word_new_line11 | fresh
+spin
+whale
+reunion
+oblige
+armor
+always
+master
+report
+whale
+dove |  
+| bip_39_word_new_line12 | fresh
+spin
+whale
+reunion
+oblige
+armor
+always
+master
+report
+whale
+dove
+absent |  
+| bip_39_word_new_line2 | fresh
+spin |  
+| bip_39_word_new_line3 | fresh
+spin
+whale |  
+| bip_39_word_new_line4 | fresh
+spin
+whale
+reunion |  
+| bip_39_word_new_line5 | fresh
+spin
+whale
+reunion
+oblige |  
+| bip_39_word_new_line6 | fresh
+spin
+whale
+reunion
+oblige
+armor |  
+| bip_39_word_new_line7 | fresh
+spin
+whale
+reunion
+oblige
+armor
+always |  
+| bip_39_word_new_line8 | fresh
+spin
+whale
+reunion
+oblige
+armor
+always
+master |  
+| bip_39_word_new_line9 | fresh
+spin
+whale
+reunion
+oblige
+armor
+always
+master
+report |  
+| bip_39_word_space_0 | ['fresh', 'spin', 'whale', 'reunion', 'oblige', 'armor', 'always', 'master', 'report', 'whale', 'dove', 'absent'] |  
+| bip_39_word_space_1 | fresh |  
+| bip_39_word_space_10 | fresh spin whale reunion oblige armor always master report whale |  
+| bip_39_word_space_11 | fresh spin whale reunion oblige armor always master report whale dove |  
+| bip_39_word_space_12 | fresh spin whale reunion oblige armor always master report whale dove absent |  
+| bip_39_word_space_2 | fresh spin |  
+| bip_39_word_space_3 | fresh spin whale |  
+| bip_39_word_space_4 | fresh spin whale reunion |  
+| bip_39_word_space_5 | fresh spin whale reunion oblige |  
+| bip_39_word_space_6 | fresh spin whale reunion oblige armor |  
+| bip_39_word_space_7 | fresh spin whale reunion oblige armor always |  
+| bip_39_word_space_8 | fresh spin whale reunion oblige armor always master |  
+| bip_39_word_space_9 | fresh spin whale reunion oblige armor always master report |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

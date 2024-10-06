@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: runway humor
+  * bip 39 word 3: runway humor above
+  * bip 39 word: runway humor above pistol inside spoil solve govern armor keep render above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | runway |  
+| bip_39_word_new_br10 | runway<br>humor<br>above<br>pistol<br>inside<br>spoil<br>solve<br>govern<br>armor<br>keep |  
+| bip_39_word_new_br11 | runway<br>humor<br>above<br>pistol<br>inside<br>spoil<br>solve<br>govern<br>armor<br>keep<br>render |  
+| bip_39_word_new_br12 | runway<br>humor<br>above<br>pistol<br>inside<br>spoil<br>solve<br>govern<br>armor<br>keep<br>render<br>above |  
+| bip_39_word_new_br2 | runway<br>humor |  
+| bip_39_word_new_br3 | runway<br>humor<br>above |  
+| bip_39_word_new_br4 | runway<br>humor<br>above<br>pistol |  
+| bip_39_word_new_br5 | runway<br>humor<br>above<br>pistol<br>inside |  
+| bip_39_word_new_br6 | runway<br>humor<br>above<br>pistol<br>inside<br>spoil |  
+| bip_39_word_new_br7 | runway<br>humor<br>above<br>pistol<br>inside<br>spoil<br>solve |  
+| bip_39_word_new_br8 | runway<br>humor<br>above<br>pistol<br>inside<br>spoil<br>solve<br>govern |  
+| bip_39_word_new_br9 | runway<br>humor<br>above<br>pistol<br>inside<br>spoil<br>solve<br>govern<br>armor |  
+| bip_39_word_new_line1 | runway |  
+| bip_39_word_new_line10 | runway
+humor
+above
+pistol
+inside
+spoil
+solve
+govern
+armor
+keep |  
+| bip_39_word_new_line11 | runway
+humor
+above
+pistol
+inside
+spoil
+solve
+govern
+armor
+keep
+render |  
+| bip_39_word_new_line12 | runway
+humor
+above
+pistol
+inside
+spoil
+solve
+govern
+armor
+keep
+render
+above |  
+| bip_39_word_new_line2 | runway
+humor |  
+| bip_39_word_new_line3 | runway
+humor
+above |  
+| bip_39_word_new_line4 | runway
+humor
+above
+pistol |  
+| bip_39_word_new_line5 | runway
+humor
+above
+pistol
+inside |  
+| bip_39_word_new_line6 | runway
+humor
+above
+pistol
+inside
+spoil |  
+| bip_39_word_new_line7 | runway
+humor
+above
+pistol
+inside
+spoil
+solve |  
+| bip_39_word_new_line8 | runway
+humor
+above
+pistol
+inside
+spoil
+solve
+govern |  
+| bip_39_word_new_line9 | runway
+humor
+above
+pistol
+inside
+spoil
+solve
+govern
+armor |  
+| bip_39_word_space_0 | ['runway', 'humor', 'above', 'pistol', 'inside', 'spoil', 'solve', 'govern', 'armor', 'keep', 'render', 'above'] |  
+| bip_39_word_space_1 | runway |  
+| bip_39_word_space_10 | runway humor above pistol inside spoil solve govern armor keep |  
+| bip_39_word_space_11 | runway humor above pistol inside spoil solve govern armor keep render |  
+| bip_39_word_space_12 | runway humor above pistol inside spoil solve govern armor keep render above |  
+| bip_39_word_space_2 | runway humor |  
+| bip_39_word_space_3 | runway humor above |  
+| bip_39_word_space_4 | runway humor above pistol |  
+| bip_39_word_space_5 | runway humor above pistol inside |  
+| bip_39_word_space_6 | runway humor above pistol inside spoil |  
+| bip_39_word_space_7 | runway humor above pistol inside spoil solve |  
+| bip_39_word_space_8 | runway humor above pistol inside spoil solve govern |  
+| bip_39_word_space_9 | runway humor above pistol inside spoil solve govern armor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

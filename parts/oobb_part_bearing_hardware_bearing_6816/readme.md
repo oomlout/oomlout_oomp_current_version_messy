@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gentle merit
+  * bip 39 word 3: gentle merit local
+  * bip 39 word: gentle merit local winter mask video pepper bright inquiry few mechanic acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gentle |  
+| bip_39_word_new_br10 | gentle<br>merit<br>local<br>winter<br>mask<br>video<br>pepper<br>bright<br>inquiry<br>few |  
+| bip_39_word_new_br11 | gentle<br>merit<br>local<br>winter<br>mask<br>video<br>pepper<br>bright<br>inquiry<br>few<br>mechanic |  
+| bip_39_word_new_br12 | gentle<br>merit<br>local<br>winter<br>mask<br>video<br>pepper<br>bright<br>inquiry<br>few<br>mechanic<br>acoustic |  
+| bip_39_word_new_br2 | gentle<br>merit |  
+| bip_39_word_new_br3 | gentle<br>merit<br>local |  
+| bip_39_word_new_br4 | gentle<br>merit<br>local<br>winter |  
+| bip_39_word_new_br5 | gentle<br>merit<br>local<br>winter<br>mask |  
+| bip_39_word_new_br6 | gentle<br>merit<br>local<br>winter<br>mask<br>video |  
+| bip_39_word_new_br7 | gentle<br>merit<br>local<br>winter<br>mask<br>video<br>pepper |  
+| bip_39_word_new_br8 | gentle<br>merit<br>local<br>winter<br>mask<br>video<br>pepper<br>bright |  
+| bip_39_word_new_br9 | gentle<br>merit<br>local<br>winter<br>mask<br>video<br>pepper<br>bright<br>inquiry |  
+| bip_39_word_new_line1 | gentle |  
+| bip_39_word_new_line10 | gentle
+merit
+local
+winter
+mask
+video
+pepper
+bright
+inquiry
+few |  
+| bip_39_word_new_line11 | gentle
+merit
+local
+winter
+mask
+video
+pepper
+bright
+inquiry
+few
+mechanic |  
+| bip_39_word_new_line12 | gentle
+merit
+local
+winter
+mask
+video
+pepper
+bright
+inquiry
+few
+mechanic
+acoustic |  
+| bip_39_word_new_line2 | gentle
+merit |  
+| bip_39_word_new_line3 | gentle
+merit
+local |  
+| bip_39_word_new_line4 | gentle
+merit
+local
+winter |  
+| bip_39_word_new_line5 | gentle
+merit
+local
+winter
+mask |  
+| bip_39_word_new_line6 | gentle
+merit
+local
+winter
+mask
+video |  
+| bip_39_word_new_line7 | gentle
+merit
+local
+winter
+mask
+video
+pepper |  
+| bip_39_word_new_line8 | gentle
+merit
+local
+winter
+mask
+video
+pepper
+bright |  
+| bip_39_word_new_line9 | gentle
+merit
+local
+winter
+mask
+video
+pepper
+bright
+inquiry |  
+| bip_39_word_space_0 | ['gentle', 'merit', 'local', 'winter', 'mask', 'video', 'pepper', 'bright', 'inquiry', 'few', 'mechanic', 'acoustic'] |  
+| bip_39_word_space_1 | gentle |  
+| bip_39_word_space_10 | gentle merit local winter mask video pepper bright inquiry few |  
+| bip_39_word_space_11 | gentle merit local winter mask video pepper bright inquiry few mechanic |  
+| bip_39_word_space_12 | gentle merit local winter mask video pepper bright inquiry few mechanic acoustic |  
+| bip_39_word_space_2 | gentle merit |  
+| bip_39_word_space_3 | gentle merit local |  
+| bip_39_word_space_4 | gentle merit local winter |  
+| bip_39_word_space_5 | gentle merit local winter mask |  
+| bip_39_word_space_6 | gentle merit local winter mask video |  
+| bip_39_word_space_7 | gentle merit local winter mask video pepper |  
+| bip_39_word_space_8 | gentle merit local winter mask video pepper bright |  
+| bip_39_word_space_9 | gentle merit local winter mask video pepper bright inquiry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

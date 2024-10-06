@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: good weapon
+  * bip 39 word 3: good weapon medal
+  * bip 39 word: good weapon medal pond blossom prefer shallow fitness plunge gold cousin about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | good |  
+| bip_39_word_new_br10 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer<br>shallow<br>fitness<br>plunge<br>gold |  
+| bip_39_word_new_br11 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer<br>shallow<br>fitness<br>plunge<br>gold<br>cousin |  
+| bip_39_word_new_br12 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer<br>shallow<br>fitness<br>plunge<br>gold<br>cousin<br>about |  
+| bip_39_word_new_br2 | good<br>weapon |  
+| bip_39_word_new_br3 | good<br>weapon<br>medal |  
+| bip_39_word_new_br4 | good<br>weapon<br>medal<br>pond |  
+| bip_39_word_new_br5 | good<br>weapon<br>medal<br>pond<br>blossom |  
+| bip_39_word_new_br6 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer |  
+| bip_39_word_new_br7 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer<br>shallow |  
+| bip_39_word_new_br8 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer<br>shallow<br>fitness |  
+| bip_39_word_new_br9 | good<br>weapon<br>medal<br>pond<br>blossom<br>prefer<br>shallow<br>fitness<br>plunge |  
+| bip_39_word_new_line1 | good |  
+| bip_39_word_new_line10 | good
+weapon
+medal
+pond
+blossom
+prefer
+shallow
+fitness
+plunge
+gold |  
+| bip_39_word_new_line11 | good
+weapon
+medal
+pond
+blossom
+prefer
+shallow
+fitness
+plunge
+gold
+cousin |  
+| bip_39_word_new_line12 | good
+weapon
+medal
+pond
+blossom
+prefer
+shallow
+fitness
+plunge
+gold
+cousin
+about |  
+| bip_39_word_new_line2 | good
+weapon |  
+| bip_39_word_new_line3 | good
+weapon
+medal |  
+| bip_39_word_new_line4 | good
+weapon
+medal
+pond |  
+| bip_39_word_new_line5 | good
+weapon
+medal
+pond
+blossom |  
+| bip_39_word_new_line6 | good
+weapon
+medal
+pond
+blossom
+prefer |  
+| bip_39_word_new_line7 | good
+weapon
+medal
+pond
+blossom
+prefer
+shallow |  
+| bip_39_word_new_line8 | good
+weapon
+medal
+pond
+blossom
+prefer
+shallow
+fitness |  
+| bip_39_word_new_line9 | good
+weapon
+medal
+pond
+blossom
+prefer
+shallow
+fitness
+plunge |  
+| bip_39_word_space_0 | ['good', 'weapon', 'medal', 'pond', 'blossom', 'prefer', 'shallow', 'fitness', 'plunge', 'gold', 'cousin', 'about'] |  
+| bip_39_word_space_1 | good |  
+| bip_39_word_space_10 | good weapon medal pond blossom prefer shallow fitness plunge gold |  
+| bip_39_word_space_11 | good weapon medal pond blossom prefer shallow fitness plunge gold cousin |  
+| bip_39_word_space_12 | good weapon medal pond blossom prefer shallow fitness plunge gold cousin about |  
+| bip_39_word_space_2 | good weapon |  
+| bip_39_word_space_3 | good weapon medal |  
+| bip_39_word_space_4 | good weapon medal pond |  
+| bip_39_word_space_5 | good weapon medal pond blossom |  
+| bip_39_word_space_6 | good weapon medal pond blossom prefer |  
+| bip_39_word_space_7 | good weapon medal pond blossom prefer shallow |  
+| bip_39_word_space_8 | good weapon medal pond blossom prefer shallow fitness |  
+| bip_39_word_space_9 | good weapon medal pond blossom prefer shallow fitness plunge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

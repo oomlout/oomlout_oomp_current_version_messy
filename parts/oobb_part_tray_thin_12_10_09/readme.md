@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: merge above
+  * bip 39 word 3: merge above verb
+  * bip 39 word: merge above verb decrease bread awful chest upset dial detail window account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | merge |  
+| bip_39_word_new_br10 | merge<br>above<br>verb<br>decrease<br>bread<br>awful<br>chest<br>upset<br>dial<br>detail |  
+| bip_39_word_new_br11 | merge<br>above<br>verb<br>decrease<br>bread<br>awful<br>chest<br>upset<br>dial<br>detail<br>window |  
+| bip_39_word_new_br12 | merge<br>above<br>verb<br>decrease<br>bread<br>awful<br>chest<br>upset<br>dial<br>detail<br>window<br>account |  
+| bip_39_word_new_br2 | merge<br>above |  
+| bip_39_word_new_br3 | merge<br>above<br>verb |  
+| bip_39_word_new_br4 | merge<br>above<br>verb<br>decrease |  
+| bip_39_word_new_br5 | merge<br>above<br>verb<br>decrease<br>bread |  
+| bip_39_word_new_br6 | merge<br>above<br>verb<br>decrease<br>bread<br>awful |  
+| bip_39_word_new_br7 | merge<br>above<br>verb<br>decrease<br>bread<br>awful<br>chest |  
+| bip_39_word_new_br8 | merge<br>above<br>verb<br>decrease<br>bread<br>awful<br>chest<br>upset |  
+| bip_39_word_new_br9 | merge<br>above<br>verb<br>decrease<br>bread<br>awful<br>chest<br>upset<br>dial |  
+| bip_39_word_new_line1 | merge |  
+| bip_39_word_new_line10 | merge
+above
+verb
+decrease
+bread
+awful
+chest
+upset
+dial
+detail |  
+| bip_39_word_new_line11 | merge
+above
+verb
+decrease
+bread
+awful
+chest
+upset
+dial
+detail
+window |  
+| bip_39_word_new_line12 | merge
+above
+verb
+decrease
+bread
+awful
+chest
+upset
+dial
+detail
+window
+account |  
+| bip_39_word_new_line2 | merge
+above |  
+| bip_39_word_new_line3 | merge
+above
+verb |  
+| bip_39_word_new_line4 | merge
+above
+verb
+decrease |  
+| bip_39_word_new_line5 | merge
+above
+verb
+decrease
+bread |  
+| bip_39_word_new_line6 | merge
+above
+verb
+decrease
+bread
+awful |  
+| bip_39_word_new_line7 | merge
+above
+verb
+decrease
+bread
+awful
+chest |  
+| bip_39_word_new_line8 | merge
+above
+verb
+decrease
+bread
+awful
+chest
+upset |  
+| bip_39_word_new_line9 | merge
+above
+verb
+decrease
+bread
+awful
+chest
+upset
+dial |  
+| bip_39_word_space_0 | ['merge', 'above', 'verb', 'decrease', 'bread', 'awful', 'chest', 'upset', 'dial', 'detail', 'window', 'account'] |  
+| bip_39_word_space_1 | merge |  
+| bip_39_word_space_10 | merge above verb decrease bread awful chest upset dial detail |  
+| bip_39_word_space_11 | merge above verb decrease bread awful chest upset dial detail window |  
+| bip_39_word_space_12 | merge above verb decrease bread awful chest upset dial detail window account |  
+| bip_39_word_space_2 | merge above |  
+| bip_39_word_space_3 | merge above verb |  
+| bip_39_word_space_4 | merge above verb decrease |  
+| bip_39_word_space_5 | merge above verb decrease bread |  
+| bip_39_word_space_6 | merge above verb decrease bread awful |  
+| bip_39_word_space_7 | merge above verb decrease bread awful chest |  
+| bip_39_word_space_8 | merge above verb decrease bread awful chest upset |  
+| bip_39_word_space_9 | merge above verb decrease bread awful chest upset dial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

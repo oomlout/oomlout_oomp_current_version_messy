@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sentence bamboo
+  * bip 39 word 3: sentence bamboo staff
+  * bip 39 word: sentence bamboo staff zero length economy snake neither pause table result analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sentence |  
+| bip_39_word_new_br10 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table |  
+| bip_39_word_new_br11 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result |  
+| bip_39_word_new_br12 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result<br>analyst |  
+| bip_39_word_new_br2 | sentence<br>bamboo |  
+| bip_39_word_new_br3 | sentence<br>bamboo<br>staff |  
+| bip_39_word_new_br4 | sentence<br>bamboo<br>staff<br>zero |  
+| bip_39_word_new_br5 | sentence<br>bamboo<br>staff<br>zero<br>length |  
+| bip_39_word_new_br6 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy |  
+| bip_39_word_new_br7 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake |  
+| bip_39_word_new_br8 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither |  
+| bip_39_word_new_br9 | sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause |  
+| bip_39_word_new_line1 | sentence |  
+| bip_39_word_new_line10 | sentence
+bamboo
+staff
+zero
+length
+economy
+snake
+neither
+pause
+table |  
+| bip_39_word_new_line11 | sentence
+bamboo
+staff
+zero
+length
+economy
+snake
+neither
+pause
+table
+result |  
+| bip_39_word_new_line12 | sentence
+bamboo
+staff
+zero
+length
+economy
+snake
+neither
+pause
+table
+result
+analyst |  
+| bip_39_word_new_line2 | sentence
+bamboo |  
+| bip_39_word_new_line3 | sentence
+bamboo
+staff |  
+| bip_39_word_new_line4 | sentence
+bamboo
+staff
+zero |  
+| bip_39_word_new_line5 | sentence
+bamboo
+staff
+zero
+length |  
+| bip_39_word_new_line6 | sentence
+bamboo
+staff
+zero
+length
+economy |  
+| bip_39_word_new_line7 | sentence
+bamboo
+staff
+zero
+length
+economy
+snake |  
+| bip_39_word_new_line8 | sentence
+bamboo
+staff
+zero
+length
+economy
+snake
+neither |  
+| bip_39_word_new_line9 | sentence
+bamboo
+staff
+zero
+length
+economy
+snake
+neither
+pause |  
+| bip_39_word_space_0 | ['sentence', 'bamboo', 'staff', 'zero', 'length', 'economy', 'snake', 'neither', 'pause', 'table', 'result', 'analyst'] |  
+| bip_39_word_space_1 | sentence |  
+| bip_39_word_space_10 | sentence bamboo staff zero length economy snake neither pause table |  
+| bip_39_word_space_11 | sentence bamboo staff zero length economy snake neither pause table result |  
+| bip_39_word_space_12 | sentence bamboo staff zero length economy snake neither pause table result analyst |  
+| bip_39_word_space_2 | sentence bamboo |  
+| bip_39_word_space_3 | sentence bamboo staff |  
+| bip_39_word_space_4 | sentence bamboo staff zero |  
+| bip_39_word_space_5 | sentence bamboo staff zero length |  
+| bip_39_word_space_6 | sentence bamboo staff zero length economy |  
+| bip_39_word_space_7 | sentence bamboo staff zero length economy snake |  
+| bip_39_word_space_8 | sentence bamboo staff zero length economy snake neither |  
+| bip_39_word_space_9 | sentence bamboo staff zero length economy snake neither pause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cruise ice
+  * bip 39 word 3: cruise ice glue
+  * bip 39 word: cruise ice glue code shield mind gold joke horn fabric round any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cruise |  
+| bip_39_word_new_br10 | cruise<br>ice<br>glue<br>code<br>shield<br>mind<br>gold<br>joke<br>horn<br>fabric |  
+| bip_39_word_new_br11 | cruise<br>ice<br>glue<br>code<br>shield<br>mind<br>gold<br>joke<br>horn<br>fabric<br>round |  
+| bip_39_word_new_br12 | cruise<br>ice<br>glue<br>code<br>shield<br>mind<br>gold<br>joke<br>horn<br>fabric<br>round<br>any |  
+| bip_39_word_new_br2 | cruise<br>ice |  
+| bip_39_word_new_br3 | cruise<br>ice<br>glue |  
+| bip_39_word_new_br4 | cruise<br>ice<br>glue<br>code |  
+| bip_39_word_new_br5 | cruise<br>ice<br>glue<br>code<br>shield |  
+| bip_39_word_new_br6 | cruise<br>ice<br>glue<br>code<br>shield<br>mind |  
+| bip_39_word_new_br7 | cruise<br>ice<br>glue<br>code<br>shield<br>mind<br>gold |  
+| bip_39_word_new_br8 | cruise<br>ice<br>glue<br>code<br>shield<br>mind<br>gold<br>joke |  
+| bip_39_word_new_br9 | cruise<br>ice<br>glue<br>code<br>shield<br>mind<br>gold<br>joke<br>horn |  
+| bip_39_word_new_line1 | cruise |  
+| bip_39_word_new_line10 | cruise
+ice
+glue
+code
+shield
+mind
+gold
+joke
+horn
+fabric |  
+| bip_39_word_new_line11 | cruise
+ice
+glue
+code
+shield
+mind
+gold
+joke
+horn
+fabric
+round |  
+| bip_39_word_new_line12 | cruise
+ice
+glue
+code
+shield
+mind
+gold
+joke
+horn
+fabric
+round
+any |  
+| bip_39_word_new_line2 | cruise
+ice |  
+| bip_39_word_new_line3 | cruise
+ice
+glue |  
+| bip_39_word_new_line4 | cruise
+ice
+glue
+code |  
+| bip_39_word_new_line5 | cruise
+ice
+glue
+code
+shield |  
+| bip_39_word_new_line6 | cruise
+ice
+glue
+code
+shield
+mind |  
+| bip_39_word_new_line7 | cruise
+ice
+glue
+code
+shield
+mind
+gold |  
+| bip_39_word_new_line8 | cruise
+ice
+glue
+code
+shield
+mind
+gold
+joke |  
+| bip_39_word_new_line9 | cruise
+ice
+glue
+code
+shield
+mind
+gold
+joke
+horn |  
+| bip_39_word_space_0 | ['cruise', 'ice', 'glue', 'code', 'shield', 'mind', 'gold', 'joke', 'horn', 'fabric', 'round', 'any'] |  
+| bip_39_word_space_1 | cruise |  
+| bip_39_word_space_10 | cruise ice glue code shield mind gold joke horn fabric |  
+| bip_39_word_space_11 | cruise ice glue code shield mind gold joke horn fabric round |  
+| bip_39_word_space_12 | cruise ice glue code shield mind gold joke horn fabric round any |  
+| bip_39_word_space_2 | cruise ice |  
+| bip_39_word_space_3 | cruise ice glue |  
+| bip_39_word_space_4 | cruise ice glue code |  
+| bip_39_word_space_5 | cruise ice glue code shield |  
+| bip_39_word_space_6 | cruise ice glue code shield mind |  
+| bip_39_word_space_7 | cruise ice glue code shield mind gold |  
+| bip_39_word_space_8 | cruise ice glue code shield mind gold joke |  
+| bip_39_word_space_9 | cruise ice glue code shield mind gold joke horn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

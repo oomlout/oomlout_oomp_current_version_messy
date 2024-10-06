@@ -1,3 +1,186 @@
+bip_39_word_new_br1: survey
+bip_39_word_new_br10: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between<br>bulb
+bip_39_word_new_br11: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between<br>bulb<br>play
+bip_39_word_new_br12: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between<br>bulb<br>play<br>animal
+bip_39_word_new_br2: survey<br>brush
+bip_39_word_new_br3: survey<br>brush<br>copper
+bip_39_word_new_br4: survey<br>brush<br>copper<br>payment
+bip_39_word_new_br5: survey<br>brush<br>copper<br>payment<br>oil
+bip_39_word_new_br6: survey<br>brush<br>copper<br>payment<br>oil<br>lion
+bip_39_word_new_br7: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive
+bip_39_word_new_br8: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth
+bip_39_word_new_br9: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between
+bip_39_word_new_line1: survey
+bip_39_word_new_line10: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth
+
+  between
+
+  bulb'
+bip_39_word_new_line11: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth
+
+  between
+
+  bulb
+
+  play'
+bip_39_word_new_line12: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth
+
+  between
+
+  bulb
+
+  play
+
+  animal'
+bip_39_word_new_line2: 'survey
+
+  brush'
+bip_39_word_new_line3: 'survey
+
+  brush
+
+  copper'
+bip_39_word_new_line4: 'survey
+
+  brush
+
+  copper
+
+  payment'
+bip_39_word_new_line5: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil'
+bip_39_word_new_line6: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion'
+bip_39_word_new_line7: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive'
+bip_39_word_new_line8: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth'
+bip_39_word_new_line9: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth
+
+  between'
+bip_39_word_space_0:
+- survey
+- brush
+- copper
+- payment
+- oil
+- lion
+- receive
+- tooth
+- between
+- bulb
+- play
+- animal
+bip_39_word_space_1: survey
+bip_39_word_space_10: survey brush copper payment oil lion receive tooth between bulb
+bip_39_word_space_11: survey brush copper payment oil lion receive tooth between bulb
+  play
+bip_39_word_space_12: survey brush copper payment oil lion receive tooth between bulb
+  play animal
+bip_39_word_space_2: survey brush
+bip_39_word_space_3: survey brush copper
+bip_39_word_space_4: survey brush copper payment
+bip_39_word_space_5: survey brush copper payment oil
+bip_39_word_space_6: survey brush copper payment oil lion
+bip_39_word_space_7: survey brush copper payment oil lion receive
+bip_39_word_space_8: survey brush copper payment oil lion receive tooth
+bip_39_word_space_9: survey brush copper payment oil lion receive tooth between
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

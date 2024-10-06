@@ -1,3 +1,187 @@
+bip_39_word_new_br1: member
+bip_39_word_new_br10: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado
+bip_39_word_new_br11: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado<br>exhaust
+bip_39_word_new_br12: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado<br>exhaust<br>acoustic
+bip_39_word_new_br2: member<br>strike
+bip_39_word_new_br3: member<br>strike<br>choice
+bip_39_word_new_br4: member<br>strike<br>choice<br>orbit
+bip_39_word_new_br5: member<br>strike<br>choice<br>orbit<br>seminar
+bip_39_word_new_br6: member<br>strike<br>choice<br>orbit<br>seminar<br>until
+bip_39_word_new_br7: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple
+bip_39_word_new_br8: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income
+bip_39_word_new_br9: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack
+bip_39_word_new_line1: member
+bip_39_word_new_line10: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income
+
+  crack
+
+  avocado'
+bip_39_word_new_line11: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income
+
+  crack
+
+  avocado
+
+  exhaust'
+bip_39_word_new_line12: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income
+
+  crack
+
+  avocado
+
+  exhaust
+
+  acoustic'
+bip_39_word_new_line2: 'member
+
+  strike'
+bip_39_word_new_line3: 'member
+
+  strike
+
+  choice'
+bip_39_word_new_line4: 'member
+
+  strike
+
+  choice
+
+  orbit'
+bip_39_word_new_line5: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar'
+bip_39_word_new_line6: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until'
+bip_39_word_new_line7: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple'
+bip_39_word_new_line8: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income'
+bip_39_word_new_line9: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income
+
+  crack'
+bip_39_word_space_0:
+- member
+- strike
+- choice
+- orbit
+- seminar
+- until
+- couple
+- income
+- crack
+- avocado
+- exhaust
+- acoustic
+bip_39_word_space_1: member
+bip_39_word_space_10: member strike choice orbit seminar until couple income crack
+  avocado
+bip_39_word_space_11: member strike choice orbit seminar until couple income crack
+  avocado exhaust
+bip_39_word_space_12: member strike choice orbit seminar until couple income crack
+  avocado exhaust acoustic
+bip_39_word_space_2: member strike
+bip_39_word_space_3: member strike choice
+bip_39_word_space_4: member strike choice orbit
+bip_39_word_space_5: member strike choice orbit seminar
+bip_39_word_space_6: member strike choice orbit seminar until
+bip_39_word_space_7: member strike choice orbit seminar until couple
+bip_39_word_space_8: member strike choice orbit seminar until couple income
+bip_39_word_space_9: member strike choice orbit seminar until couple income crack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

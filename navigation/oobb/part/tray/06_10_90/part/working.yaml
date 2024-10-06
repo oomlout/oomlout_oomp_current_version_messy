@@ -1,3 +1,187 @@
+bip_39_word_new_br1: visit
+bip_39_word_new_br10: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle<br>universe<br>physical<br>raven<br>hockey
+bip_39_word_new_br11: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle<br>universe<br>physical<br>raven<br>hockey<br>address
+bip_39_word_new_br12: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle<br>universe<br>physical<br>raven<br>hockey<br>address<br>admit
+bip_39_word_new_br2: visit<br>pigeon
+bip_39_word_new_br3: visit<br>pigeon<br>museum
+bip_39_word_new_br4: visit<br>pigeon<br>museum<br>talent
+bip_39_word_new_br5: visit<br>pigeon<br>museum<br>talent<br>chapter
+bip_39_word_new_br6: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle
+bip_39_word_new_br7: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle<br>universe
+bip_39_word_new_br8: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle<br>universe<br>physical
+bip_39_word_new_br9: visit<br>pigeon<br>museum<br>talent<br>chapter<br>middle<br>universe<br>physical<br>raven
+bip_39_word_new_line1: visit
+bip_39_word_new_line10: 'visit
+
+  pigeon
+
+  museum
+
+  talent
+
+  chapter
+
+  middle
+
+  universe
+
+  physical
+
+  raven
+
+  hockey'
+bip_39_word_new_line11: 'visit
+
+  pigeon
+
+  museum
+
+  talent
+
+  chapter
+
+  middle
+
+  universe
+
+  physical
+
+  raven
+
+  hockey
+
+  address'
+bip_39_word_new_line12: 'visit
+
+  pigeon
+
+  museum
+
+  talent
+
+  chapter
+
+  middle
+
+  universe
+
+  physical
+
+  raven
+
+  hockey
+
+  address
+
+  admit'
+bip_39_word_new_line2: 'visit
+
+  pigeon'
+bip_39_word_new_line3: 'visit
+
+  pigeon
+
+  museum'
+bip_39_word_new_line4: 'visit
+
+  pigeon
+
+  museum
+
+  talent'
+bip_39_word_new_line5: 'visit
+
+  pigeon
+
+  museum
+
+  talent
+
+  chapter'
+bip_39_word_new_line6: 'visit
+
+  pigeon
+
+  museum
+
+  talent
+
+  chapter
+
+  middle'
+bip_39_word_new_line7: 'visit
+
+  pigeon
+
+  museum
+
+  talent
+
+  chapter
+
+  middle
+
+  universe'
+bip_39_word_new_line8: 'visit
+
+  pigeon
+
+  museum
+
+  talent
+
+  chapter
+
+  middle
+
+  universe
+
+  physical'
+bip_39_word_new_line9: 'visit
+
+  pigeon
+
+  museum
+
+  talent
+
+  chapter
+
+  middle
+
+  universe
+
+  physical
+
+  raven'
+bip_39_word_space_0:
+- visit
+- pigeon
+- museum
+- talent
+- chapter
+- middle
+- universe
+- physical
+- raven
+- hockey
+- address
+- admit
+bip_39_word_space_1: visit
+bip_39_word_space_10: visit pigeon museum talent chapter middle universe physical
+  raven hockey
+bip_39_word_space_11: visit pigeon museum talent chapter middle universe physical
+  raven hockey address
+bip_39_word_space_12: visit pigeon museum talent chapter middle universe physical
+  raven hockey address admit
+bip_39_word_space_2: visit pigeon
+bip_39_word_space_3: visit pigeon museum
+bip_39_word_space_4: visit pigeon museum talent
+bip_39_word_space_5: visit pigeon museum talent chapter
+bip_39_word_space_6: visit pigeon museum talent chapter middle
+bip_39_word_space_7: visit pigeon museum talent chapter middle universe
+bip_39_word_space_8: visit pigeon museum talent chapter middle universe physical
+bip_39_word_space_9: visit pigeon museum talent chapter middle universe physical raven
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

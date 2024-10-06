@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: model pen
+  * bip 39 word 3: model pen alley
+  * bip 39 word: model pen alley sheriff media eye mixed output struggle film book august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | model |  
+| bip_39_word_new_br10 | model<br>pen<br>alley<br>sheriff<br>media<br>eye<br>mixed<br>output<br>struggle<br>film |  
+| bip_39_word_new_br11 | model<br>pen<br>alley<br>sheriff<br>media<br>eye<br>mixed<br>output<br>struggle<br>film<br>book |  
+| bip_39_word_new_br12 | model<br>pen<br>alley<br>sheriff<br>media<br>eye<br>mixed<br>output<br>struggle<br>film<br>book<br>august |  
+| bip_39_word_new_br2 | model<br>pen |  
+| bip_39_word_new_br3 | model<br>pen<br>alley |  
+| bip_39_word_new_br4 | model<br>pen<br>alley<br>sheriff |  
+| bip_39_word_new_br5 | model<br>pen<br>alley<br>sheriff<br>media |  
+| bip_39_word_new_br6 | model<br>pen<br>alley<br>sheriff<br>media<br>eye |  
+| bip_39_word_new_br7 | model<br>pen<br>alley<br>sheriff<br>media<br>eye<br>mixed |  
+| bip_39_word_new_br8 | model<br>pen<br>alley<br>sheriff<br>media<br>eye<br>mixed<br>output |  
+| bip_39_word_new_br9 | model<br>pen<br>alley<br>sheriff<br>media<br>eye<br>mixed<br>output<br>struggle |  
+| bip_39_word_new_line1 | model |  
+| bip_39_word_new_line10 | model
+pen
+alley
+sheriff
+media
+eye
+mixed
+output
+struggle
+film |  
+| bip_39_word_new_line11 | model
+pen
+alley
+sheriff
+media
+eye
+mixed
+output
+struggle
+film
+book |  
+| bip_39_word_new_line12 | model
+pen
+alley
+sheriff
+media
+eye
+mixed
+output
+struggle
+film
+book
+august |  
+| bip_39_word_new_line2 | model
+pen |  
+| bip_39_word_new_line3 | model
+pen
+alley |  
+| bip_39_word_new_line4 | model
+pen
+alley
+sheriff |  
+| bip_39_word_new_line5 | model
+pen
+alley
+sheriff
+media |  
+| bip_39_word_new_line6 | model
+pen
+alley
+sheriff
+media
+eye |  
+| bip_39_word_new_line7 | model
+pen
+alley
+sheriff
+media
+eye
+mixed |  
+| bip_39_word_new_line8 | model
+pen
+alley
+sheriff
+media
+eye
+mixed
+output |  
+| bip_39_word_new_line9 | model
+pen
+alley
+sheriff
+media
+eye
+mixed
+output
+struggle |  
+| bip_39_word_space_0 | ['model', 'pen', 'alley', 'sheriff', 'media', 'eye', 'mixed', 'output', 'struggle', 'film', 'book', 'august'] |  
+| bip_39_word_space_1 | model |  
+| bip_39_word_space_10 | model pen alley sheriff media eye mixed output struggle film |  
+| bip_39_word_space_11 | model pen alley sheriff media eye mixed output struggle film book |  
+| bip_39_word_space_12 | model pen alley sheriff media eye mixed output struggle film book august |  
+| bip_39_word_space_2 | model pen |  
+| bip_39_word_space_3 | model pen alley |  
+| bip_39_word_space_4 | model pen alley sheriff |  
+| bip_39_word_space_5 | model pen alley sheriff media |  
+| bip_39_word_space_6 | model pen alley sheriff media eye |  
+| bip_39_word_space_7 | model pen alley sheriff media eye mixed |  
+| bip_39_word_space_8 | model pen alley sheriff media eye mixed output |  
+| bip_39_word_space_9 | model pen alley sheriff media eye mixed output struggle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

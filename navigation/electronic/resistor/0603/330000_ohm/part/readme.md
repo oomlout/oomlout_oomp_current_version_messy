@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: setup decade
+  * bip 39 word 3: setup decade corn
+  * bip 39 word: setup decade corn burden flush busy bullet will tumble arctic gossip artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | setup |  
+| bip_39_word_new_br10 | setup<br>decade<br>corn<br>burden<br>flush<br>busy<br>bullet<br>will<br>tumble<br>arctic |  
+| bip_39_word_new_br11 | setup<br>decade<br>corn<br>burden<br>flush<br>busy<br>bullet<br>will<br>tumble<br>arctic<br>gossip |  
+| bip_39_word_new_br12 | setup<br>decade<br>corn<br>burden<br>flush<br>busy<br>bullet<br>will<br>tumble<br>arctic<br>gossip<br>artwork |  
+| bip_39_word_new_br2 | setup<br>decade |  
+| bip_39_word_new_br3 | setup<br>decade<br>corn |  
+| bip_39_word_new_br4 | setup<br>decade<br>corn<br>burden |  
+| bip_39_word_new_br5 | setup<br>decade<br>corn<br>burden<br>flush |  
+| bip_39_word_new_br6 | setup<br>decade<br>corn<br>burden<br>flush<br>busy |  
+| bip_39_word_new_br7 | setup<br>decade<br>corn<br>burden<br>flush<br>busy<br>bullet |  
+| bip_39_word_new_br8 | setup<br>decade<br>corn<br>burden<br>flush<br>busy<br>bullet<br>will |  
+| bip_39_word_new_br9 | setup<br>decade<br>corn<br>burden<br>flush<br>busy<br>bullet<br>will<br>tumble |  
+| bip_39_word_new_line1 | setup |  
+| bip_39_word_new_line10 | setup
+decade
+corn
+burden
+flush
+busy
+bullet
+will
+tumble
+arctic |  
+| bip_39_word_new_line11 | setup
+decade
+corn
+burden
+flush
+busy
+bullet
+will
+tumble
+arctic
+gossip |  
+| bip_39_word_new_line12 | setup
+decade
+corn
+burden
+flush
+busy
+bullet
+will
+tumble
+arctic
+gossip
+artwork |  
+| bip_39_word_new_line2 | setup
+decade |  
+| bip_39_word_new_line3 | setup
+decade
+corn |  
+| bip_39_word_new_line4 | setup
+decade
+corn
+burden |  
+| bip_39_word_new_line5 | setup
+decade
+corn
+burden
+flush |  
+| bip_39_word_new_line6 | setup
+decade
+corn
+burden
+flush
+busy |  
+| bip_39_word_new_line7 | setup
+decade
+corn
+burden
+flush
+busy
+bullet |  
+| bip_39_word_new_line8 | setup
+decade
+corn
+burden
+flush
+busy
+bullet
+will |  
+| bip_39_word_new_line9 | setup
+decade
+corn
+burden
+flush
+busy
+bullet
+will
+tumble |  
+| bip_39_word_space_0 | ['setup', 'decade', 'corn', 'burden', 'flush', 'busy', 'bullet', 'will', 'tumble', 'arctic', 'gossip', 'artwork'] |  
+| bip_39_word_space_1 | setup |  
+| bip_39_word_space_10 | setup decade corn burden flush busy bullet will tumble arctic |  
+| bip_39_word_space_11 | setup decade corn burden flush busy bullet will tumble arctic gossip |  
+| bip_39_word_space_12 | setup decade corn burden flush busy bullet will tumble arctic gossip artwork |  
+| bip_39_word_space_2 | setup decade |  
+| bip_39_word_space_3 | setup decade corn |  
+| bip_39_word_space_4 | setup decade corn burden |  
+| bip_39_word_space_5 | setup decade corn burden flush |  
+| bip_39_word_space_6 | setup decade corn burden flush busy |  
+| bip_39_word_space_7 | setup decade corn burden flush busy bullet |  
+| bip_39_word_space_8 | setup decade corn burden flush busy bullet will |  
+| bip_39_word_space_9 | setup decade corn burden flush busy bullet will tumble |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

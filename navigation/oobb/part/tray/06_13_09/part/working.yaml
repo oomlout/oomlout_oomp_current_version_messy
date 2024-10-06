@@ -1,3 +1,187 @@
+bip_39_word_new_br1: truck
+bip_39_word_new_br10: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream
+bip_39_word_new_br11: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock
+bip_39_word_new_br12: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock<br>antenna
+bip_39_word_new_br2: truck<br>judge
+bip_39_word_new_br3: truck<br>judge<br>diary
+bip_39_word_new_br4: truck<br>judge<br>diary<br>tumble
+bip_39_word_new_br5: truck<br>judge<br>diary<br>tumble<br>disorder
+bip_39_word_new_br6: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet
+bip_39_word_new_br7: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony
+bip_39_word_new_br8: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity
+bip_39_word_new_br9: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison
+bip_39_word_new_line1: truck
+bip_39_word_new_line10: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity
+
+  prison
+
+  dream'
+bip_39_word_new_line11: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity
+
+  prison
+
+  dream
+
+  stock'
+bip_39_word_new_line12: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity
+
+  prison
+
+  dream
+
+  stock
+
+  antenna'
+bip_39_word_new_line2: 'truck
+
+  judge'
+bip_39_word_new_line3: 'truck
+
+  judge
+
+  diary'
+bip_39_word_new_line4: 'truck
+
+  judge
+
+  diary
+
+  tumble'
+bip_39_word_new_line5: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder'
+bip_39_word_new_line6: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet'
+bip_39_word_new_line7: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony'
+bip_39_word_new_line8: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity'
+bip_39_word_new_line9: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity
+
+  prison'
+bip_39_word_space_0:
+- truck
+- judge
+- diary
+- tumble
+- disorder
+- trumpet
+- pony
+- purity
+- prison
+- dream
+- stock
+- antenna
+bip_39_word_space_1: truck
+bip_39_word_space_10: truck judge diary tumble disorder trumpet pony purity prison
+  dream
+bip_39_word_space_11: truck judge diary tumble disorder trumpet pony purity prison
+  dream stock
+bip_39_word_space_12: truck judge diary tumble disorder trumpet pony purity prison
+  dream stock antenna
+bip_39_word_space_2: truck judge
+bip_39_word_space_3: truck judge diary
+bip_39_word_space_4: truck judge diary tumble
+bip_39_word_space_5: truck judge diary tumble disorder
+bip_39_word_space_6: truck judge diary tumble disorder trumpet
+bip_39_word_space_7: truck judge diary tumble disorder trumpet pony
+bip_39_word_space_8: truck judge diary tumble disorder trumpet pony purity
+bip_39_word_space_9: truck judge diary tumble disorder trumpet pony purity prison
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

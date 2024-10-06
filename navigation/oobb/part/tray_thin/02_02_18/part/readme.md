@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: round member
+  * bip 39 word 3: round member melody
+  * bip 39 word: round member melody amazing what allow still artist social smart turn accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | round |  
+| bip_39_word_new_br10 | round<br>member<br>melody<br>amazing<br>what<br>allow<br>still<br>artist<br>social<br>smart |  
+| bip_39_word_new_br11 | round<br>member<br>melody<br>amazing<br>what<br>allow<br>still<br>artist<br>social<br>smart<br>turn |  
+| bip_39_word_new_br12 | round<br>member<br>melody<br>amazing<br>what<br>allow<br>still<br>artist<br>social<br>smart<br>turn<br>accuse |  
+| bip_39_word_new_br2 | round<br>member |  
+| bip_39_word_new_br3 | round<br>member<br>melody |  
+| bip_39_word_new_br4 | round<br>member<br>melody<br>amazing |  
+| bip_39_word_new_br5 | round<br>member<br>melody<br>amazing<br>what |  
+| bip_39_word_new_br6 | round<br>member<br>melody<br>amazing<br>what<br>allow |  
+| bip_39_word_new_br7 | round<br>member<br>melody<br>amazing<br>what<br>allow<br>still |  
+| bip_39_word_new_br8 | round<br>member<br>melody<br>amazing<br>what<br>allow<br>still<br>artist |  
+| bip_39_word_new_br9 | round<br>member<br>melody<br>amazing<br>what<br>allow<br>still<br>artist<br>social |  
+| bip_39_word_new_line1 | round |  
+| bip_39_word_new_line10 | round
+member
+melody
+amazing
+what
+allow
+still
+artist
+social
+smart |  
+| bip_39_word_new_line11 | round
+member
+melody
+amazing
+what
+allow
+still
+artist
+social
+smart
+turn |  
+| bip_39_word_new_line12 | round
+member
+melody
+amazing
+what
+allow
+still
+artist
+social
+smart
+turn
+accuse |  
+| bip_39_word_new_line2 | round
+member |  
+| bip_39_word_new_line3 | round
+member
+melody |  
+| bip_39_word_new_line4 | round
+member
+melody
+amazing |  
+| bip_39_word_new_line5 | round
+member
+melody
+amazing
+what |  
+| bip_39_word_new_line6 | round
+member
+melody
+amazing
+what
+allow |  
+| bip_39_word_new_line7 | round
+member
+melody
+amazing
+what
+allow
+still |  
+| bip_39_word_new_line8 | round
+member
+melody
+amazing
+what
+allow
+still
+artist |  
+| bip_39_word_new_line9 | round
+member
+melody
+amazing
+what
+allow
+still
+artist
+social |  
+| bip_39_word_space_0 | ['round', 'member', 'melody', 'amazing', 'what', 'allow', 'still', 'artist', 'social', 'smart', 'turn', 'accuse'] |  
+| bip_39_word_space_1 | round |  
+| bip_39_word_space_10 | round member melody amazing what allow still artist social smart |  
+| bip_39_word_space_11 | round member melody amazing what allow still artist social smart turn |  
+| bip_39_word_space_12 | round member melody amazing what allow still artist social smart turn accuse |  
+| bip_39_word_space_2 | round member |  
+| bip_39_word_space_3 | round member melody |  
+| bip_39_word_space_4 | round member melody amazing |  
+| bip_39_word_space_5 | round member melody amazing what |  
+| bip_39_word_space_6 | round member melody amazing what allow |  
+| bip_39_word_space_7 | round member melody amazing what allow still |  
+| bip_39_word_space_8 | round member melody amazing what allow still artist |  
+| bip_39_word_space_9 | round member melody amazing what allow still artist social |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

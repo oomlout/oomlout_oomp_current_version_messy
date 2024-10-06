@@ -1,3 +1,186 @@
+bip_39_word_new_br1: decorate
+bip_39_word_new_br10: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp
+bip_39_word_new_br11: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze
+bip_39_word_new_br12: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze<br>abstract
+bip_39_word_new_br2: decorate<br>layer
+bip_39_word_new_br3: decorate<br>layer<br>fog
+bip_39_word_new_br4: decorate<br>layer<br>fog<br>glimpse
+bip_39_word_new_br5: decorate<br>layer<br>fog<br>glimpse<br>enemy
+bip_39_word_new_br6: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze
+bip_39_word_new_br7: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk
+bip_39_word_new_br8: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo
+bip_39_word_new_br9: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift
+bip_39_word_new_line1: decorate
+bip_39_word_new_line10: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo
+
+  drift
+
+  crisp'
+bip_39_word_new_line11: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo
+
+  drift
+
+  crisp
+
+  squeeze'
+bip_39_word_new_line12: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo
+
+  drift
+
+  crisp
+
+  squeeze
+
+  abstract'
+bip_39_word_new_line2: 'decorate
+
+  layer'
+bip_39_word_new_line3: 'decorate
+
+  layer
+
+  fog'
+bip_39_word_new_line4: 'decorate
+
+  layer
+
+  fog
+
+  glimpse'
+bip_39_word_new_line5: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy'
+bip_39_word_new_line6: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze'
+bip_39_word_new_line7: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk'
+bip_39_word_new_line8: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo'
+bip_39_word_new_line9: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo
+
+  drift'
+bip_39_word_space_0:
+- decorate
+- layer
+- fog
+- glimpse
+- enemy
+- gaze
+- walk
+- tattoo
+- drift
+- crisp
+- squeeze
+- abstract
+bip_39_word_space_1: decorate
+bip_39_word_space_10: decorate layer fog glimpse enemy gaze walk tattoo drift crisp
+bip_39_word_space_11: decorate layer fog glimpse enemy gaze walk tattoo drift crisp
+  squeeze
+bip_39_word_space_12: decorate layer fog glimpse enemy gaze walk tattoo drift crisp
+  squeeze abstract
+bip_39_word_space_2: decorate layer
+bip_39_word_space_3: decorate layer fog
+bip_39_word_space_4: decorate layer fog glimpse
+bip_39_word_space_5: decorate layer fog glimpse enemy
+bip_39_word_space_6: decorate layer fog glimpse enemy gaze
+bip_39_word_space_7: decorate layer fog glimpse enemy gaze walk
+bip_39_word_space_8: decorate layer fog glimpse enemy gaze walk tattoo
+bip_39_word_space_9: decorate layer fog glimpse enemy gaze walk tattoo drift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

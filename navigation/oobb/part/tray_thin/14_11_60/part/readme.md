@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: require course
+  * bip 39 word 3: require course shine
+  * bip 39 word: require course shine spin escape loan breeze beauty install monster step amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | require |  
+| bip_39_word_new_br10 | require<br>course<br>shine<br>spin<br>escape<br>loan<br>breeze<br>beauty<br>install<br>monster |  
+| bip_39_word_new_br11 | require<br>course<br>shine<br>spin<br>escape<br>loan<br>breeze<br>beauty<br>install<br>monster<br>step |  
+| bip_39_word_new_br12 | require<br>course<br>shine<br>spin<br>escape<br>loan<br>breeze<br>beauty<br>install<br>monster<br>step<br>amount |  
+| bip_39_word_new_br2 | require<br>course |  
+| bip_39_word_new_br3 | require<br>course<br>shine |  
+| bip_39_word_new_br4 | require<br>course<br>shine<br>spin |  
+| bip_39_word_new_br5 | require<br>course<br>shine<br>spin<br>escape |  
+| bip_39_word_new_br6 | require<br>course<br>shine<br>spin<br>escape<br>loan |  
+| bip_39_word_new_br7 | require<br>course<br>shine<br>spin<br>escape<br>loan<br>breeze |  
+| bip_39_word_new_br8 | require<br>course<br>shine<br>spin<br>escape<br>loan<br>breeze<br>beauty |  
+| bip_39_word_new_br9 | require<br>course<br>shine<br>spin<br>escape<br>loan<br>breeze<br>beauty<br>install |  
+| bip_39_word_new_line1 | require |  
+| bip_39_word_new_line10 | require
+course
+shine
+spin
+escape
+loan
+breeze
+beauty
+install
+monster |  
+| bip_39_word_new_line11 | require
+course
+shine
+spin
+escape
+loan
+breeze
+beauty
+install
+monster
+step |  
+| bip_39_word_new_line12 | require
+course
+shine
+spin
+escape
+loan
+breeze
+beauty
+install
+monster
+step
+amount |  
+| bip_39_word_new_line2 | require
+course |  
+| bip_39_word_new_line3 | require
+course
+shine |  
+| bip_39_word_new_line4 | require
+course
+shine
+spin |  
+| bip_39_word_new_line5 | require
+course
+shine
+spin
+escape |  
+| bip_39_word_new_line6 | require
+course
+shine
+spin
+escape
+loan |  
+| bip_39_word_new_line7 | require
+course
+shine
+spin
+escape
+loan
+breeze |  
+| bip_39_word_new_line8 | require
+course
+shine
+spin
+escape
+loan
+breeze
+beauty |  
+| bip_39_word_new_line9 | require
+course
+shine
+spin
+escape
+loan
+breeze
+beauty
+install |  
+| bip_39_word_space_0 | ['require', 'course', 'shine', 'spin', 'escape', 'loan', 'breeze', 'beauty', 'install', 'monster', 'step', 'amount'] |  
+| bip_39_word_space_1 | require |  
+| bip_39_word_space_10 | require course shine spin escape loan breeze beauty install monster |  
+| bip_39_word_space_11 | require course shine spin escape loan breeze beauty install monster step |  
+| bip_39_word_space_12 | require course shine spin escape loan breeze beauty install monster step amount |  
+| bip_39_word_space_2 | require course |  
+| bip_39_word_space_3 | require course shine |  
+| bip_39_word_space_4 | require course shine spin |  
+| bip_39_word_space_5 | require course shine spin escape |  
+| bip_39_word_space_6 | require course shine spin escape loan |  
+| bip_39_word_space_7 | require course shine spin escape loan breeze |  
+| bip_39_word_space_8 | require course shine spin escape loan breeze beauty |  
+| bip_39_word_space_9 | require course shine spin escape loan breeze beauty install |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

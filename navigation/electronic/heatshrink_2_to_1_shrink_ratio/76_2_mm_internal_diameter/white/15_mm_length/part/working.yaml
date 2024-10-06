@@ -1,3 +1,186 @@
+bip_39_word_new_br1: thrive
+bip_39_word_new_br10: thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab
+bip_39_word_new_br11: thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab<br>slot
+bip_39_word_new_br12: thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second<br>grab<br>slot<br>age
+bip_39_word_new_br2: thrive<br>shine
+bip_39_word_new_br3: thrive<br>shine<br>bar
+bip_39_word_new_br4: thrive<br>shine<br>bar<br>miracle
+bip_39_word_new_br5: thrive<br>shine<br>bar<br>miracle<br>snack
+bip_39_word_new_br6: thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch
+bip_39_word_new_br7: thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report
+bip_39_word_new_br8: thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master
+bip_39_word_new_br9: thrive<br>shine<br>bar<br>miracle<br>snack<br>clutch<br>report<br>master<br>second
+bip_39_word_new_line1: thrive
+bip_39_word_new_line10: 'thrive
+
+  shine
+
+  bar
+
+  miracle
+
+  snack
+
+  clutch
+
+  report
+
+  master
+
+  second
+
+  grab'
+bip_39_word_new_line11: 'thrive
+
+  shine
+
+  bar
+
+  miracle
+
+  snack
+
+  clutch
+
+  report
+
+  master
+
+  second
+
+  grab
+
+  slot'
+bip_39_word_new_line12: 'thrive
+
+  shine
+
+  bar
+
+  miracle
+
+  snack
+
+  clutch
+
+  report
+
+  master
+
+  second
+
+  grab
+
+  slot
+
+  age'
+bip_39_word_new_line2: 'thrive
+
+  shine'
+bip_39_word_new_line3: 'thrive
+
+  shine
+
+  bar'
+bip_39_word_new_line4: 'thrive
+
+  shine
+
+  bar
+
+  miracle'
+bip_39_word_new_line5: 'thrive
+
+  shine
+
+  bar
+
+  miracle
+
+  snack'
+bip_39_word_new_line6: 'thrive
+
+  shine
+
+  bar
+
+  miracle
+
+  snack
+
+  clutch'
+bip_39_word_new_line7: 'thrive
+
+  shine
+
+  bar
+
+  miracle
+
+  snack
+
+  clutch
+
+  report'
+bip_39_word_new_line8: 'thrive
+
+  shine
+
+  bar
+
+  miracle
+
+  snack
+
+  clutch
+
+  report
+
+  master'
+bip_39_word_new_line9: 'thrive
+
+  shine
+
+  bar
+
+  miracle
+
+  snack
+
+  clutch
+
+  report
+
+  master
+
+  second'
+bip_39_word_space_0:
+- thrive
+- shine
+- bar
+- miracle
+- snack
+- clutch
+- report
+- master
+- second
+- grab
+- slot
+- age
+bip_39_word_space_1: thrive
+bip_39_word_space_10: thrive shine bar miracle snack clutch report master second grab
+bip_39_word_space_11: thrive shine bar miracle snack clutch report master second grab
+  slot
+bip_39_word_space_12: thrive shine bar miracle snack clutch report master second grab
+  slot age
+bip_39_word_space_2: thrive shine
+bip_39_word_space_3: thrive shine bar
+bip_39_word_space_4: thrive shine bar miracle
+bip_39_word_space_5: thrive shine bar miracle snack
+bip_39_word_space_6: thrive shine bar miracle snack clutch
+bip_39_word_space_7: thrive shine bar miracle snack clutch report
+bip_39_word_space_8: thrive shine bar miracle snack clutch report master
+bip_39_word_space_9: thrive shine bar miracle snack clutch report master second
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

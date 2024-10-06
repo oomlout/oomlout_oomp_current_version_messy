@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: axis waste
+  * bip 39 word 3: axis waste clay
+  * bip 39 word: axis waste clay tilt thing hover option kid earn curious parent angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | axis |  
+| bip_39_word_new_br10 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover<br>option<br>kid<br>earn<br>curious |  
+| bip_39_word_new_br11 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover<br>option<br>kid<br>earn<br>curious<br>parent |  
+| bip_39_word_new_br12 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover<br>option<br>kid<br>earn<br>curious<br>parent<br>angry |  
+| bip_39_word_new_br2 | axis<br>waste |  
+| bip_39_word_new_br3 | axis<br>waste<br>clay |  
+| bip_39_word_new_br4 | axis<br>waste<br>clay<br>tilt |  
+| bip_39_word_new_br5 | axis<br>waste<br>clay<br>tilt<br>thing |  
+| bip_39_word_new_br6 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover |  
+| bip_39_word_new_br7 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover<br>option |  
+| bip_39_word_new_br8 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover<br>option<br>kid |  
+| bip_39_word_new_br9 | axis<br>waste<br>clay<br>tilt<br>thing<br>hover<br>option<br>kid<br>earn |  
+| bip_39_word_new_line1 | axis |  
+| bip_39_word_new_line10 | axis
+waste
+clay
+tilt
+thing
+hover
+option
+kid
+earn
+curious |  
+| bip_39_word_new_line11 | axis
+waste
+clay
+tilt
+thing
+hover
+option
+kid
+earn
+curious
+parent |  
+| bip_39_word_new_line12 | axis
+waste
+clay
+tilt
+thing
+hover
+option
+kid
+earn
+curious
+parent
+angry |  
+| bip_39_word_new_line2 | axis
+waste |  
+| bip_39_word_new_line3 | axis
+waste
+clay |  
+| bip_39_word_new_line4 | axis
+waste
+clay
+tilt |  
+| bip_39_word_new_line5 | axis
+waste
+clay
+tilt
+thing |  
+| bip_39_word_new_line6 | axis
+waste
+clay
+tilt
+thing
+hover |  
+| bip_39_word_new_line7 | axis
+waste
+clay
+tilt
+thing
+hover
+option |  
+| bip_39_word_new_line8 | axis
+waste
+clay
+tilt
+thing
+hover
+option
+kid |  
+| bip_39_word_new_line9 | axis
+waste
+clay
+tilt
+thing
+hover
+option
+kid
+earn |  
+| bip_39_word_space_0 | ['axis', 'waste', 'clay', 'tilt', 'thing', 'hover', 'option', 'kid', 'earn', 'curious', 'parent', 'angry'] |  
+| bip_39_word_space_1 | axis |  
+| bip_39_word_space_10 | axis waste clay tilt thing hover option kid earn curious |  
+| bip_39_word_space_11 | axis waste clay tilt thing hover option kid earn curious parent |  
+| bip_39_word_space_12 | axis waste clay tilt thing hover option kid earn curious parent angry |  
+| bip_39_word_space_2 | axis waste |  
+| bip_39_word_space_3 | axis waste clay |  
+| bip_39_word_space_4 | axis waste clay tilt |  
+| bip_39_word_space_5 | axis waste clay tilt thing |  
+| bip_39_word_space_6 | axis waste clay tilt thing hover |  
+| bip_39_word_space_7 | axis waste clay tilt thing hover option |  
+| bip_39_word_space_8 | axis waste clay tilt thing hover option kid |  
+| bip_39_word_space_9 | axis waste clay tilt thing hover option kid earn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

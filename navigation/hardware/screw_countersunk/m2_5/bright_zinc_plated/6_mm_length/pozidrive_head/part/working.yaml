@@ -1,3 +1,187 @@
+bip_39_word_new_br1: fire
+bip_39_word_new_br10: fire<br>enforce<br>bridge<br>floor<br>garden<br>exact<br>retreat<br>practice<br>camp<br>limit
+bip_39_word_new_br11: fire<br>enforce<br>bridge<br>floor<br>garden<br>exact<br>retreat<br>practice<br>camp<br>limit<br>pact
+bip_39_word_new_br12: fire<br>enforce<br>bridge<br>floor<br>garden<br>exact<br>retreat<br>practice<br>camp<br>limit<br>pact<br>arena
+bip_39_word_new_br2: fire<br>enforce
+bip_39_word_new_br3: fire<br>enforce<br>bridge
+bip_39_word_new_br4: fire<br>enforce<br>bridge<br>floor
+bip_39_word_new_br5: fire<br>enforce<br>bridge<br>floor<br>garden
+bip_39_word_new_br6: fire<br>enforce<br>bridge<br>floor<br>garden<br>exact
+bip_39_word_new_br7: fire<br>enforce<br>bridge<br>floor<br>garden<br>exact<br>retreat
+bip_39_word_new_br8: fire<br>enforce<br>bridge<br>floor<br>garden<br>exact<br>retreat<br>practice
+bip_39_word_new_br9: fire<br>enforce<br>bridge<br>floor<br>garden<br>exact<br>retreat<br>practice<br>camp
+bip_39_word_new_line1: fire
+bip_39_word_new_line10: 'fire
+
+  enforce
+
+  bridge
+
+  floor
+
+  garden
+
+  exact
+
+  retreat
+
+  practice
+
+  camp
+
+  limit'
+bip_39_word_new_line11: 'fire
+
+  enforce
+
+  bridge
+
+  floor
+
+  garden
+
+  exact
+
+  retreat
+
+  practice
+
+  camp
+
+  limit
+
+  pact'
+bip_39_word_new_line12: 'fire
+
+  enforce
+
+  bridge
+
+  floor
+
+  garden
+
+  exact
+
+  retreat
+
+  practice
+
+  camp
+
+  limit
+
+  pact
+
+  arena'
+bip_39_word_new_line2: 'fire
+
+  enforce'
+bip_39_word_new_line3: 'fire
+
+  enforce
+
+  bridge'
+bip_39_word_new_line4: 'fire
+
+  enforce
+
+  bridge
+
+  floor'
+bip_39_word_new_line5: 'fire
+
+  enforce
+
+  bridge
+
+  floor
+
+  garden'
+bip_39_word_new_line6: 'fire
+
+  enforce
+
+  bridge
+
+  floor
+
+  garden
+
+  exact'
+bip_39_word_new_line7: 'fire
+
+  enforce
+
+  bridge
+
+  floor
+
+  garden
+
+  exact
+
+  retreat'
+bip_39_word_new_line8: 'fire
+
+  enforce
+
+  bridge
+
+  floor
+
+  garden
+
+  exact
+
+  retreat
+
+  practice'
+bip_39_word_new_line9: 'fire
+
+  enforce
+
+  bridge
+
+  floor
+
+  garden
+
+  exact
+
+  retreat
+
+  practice
+
+  camp'
+bip_39_word_space_0:
+- fire
+- enforce
+- bridge
+- floor
+- garden
+- exact
+- retreat
+- practice
+- camp
+- limit
+- pact
+- arena
+bip_39_word_space_1: fire
+bip_39_word_space_10: fire enforce bridge floor garden exact retreat practice camp
+  limit
+bip_39_word_space_11: fire enforce bridge floor garden exact retreat practice camp
+  limit pact
+bip_39_word_space_12: fire enforce bridge floor garden exact retreat practice camp
+  limit pact arena
+bip_39_word_space_2: fire enforce
+bip_39_word_space_3: fire enforce bridge
+bip_39_word_space_4: fire enforce bridge floor
+bip_39_word_space_5: fire enforce bridge floor garden
+bip_39_word_space_6: fire enforce bridge floor garden exact
+bip_39_word_space_7: fire enforce bridge floor garden exact retreat
+bip_39_word_space_8: fire enforce bridge floor garden exact retreat practice
+bip_39_word_space_9: fire enforce bridge floor garden exact retreat practice camp
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

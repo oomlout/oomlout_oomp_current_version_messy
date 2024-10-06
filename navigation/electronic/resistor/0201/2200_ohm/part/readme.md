@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: series will
+  * bip 39 word 3: series will system
+  * bip 39 word: series will system bracket airport ship battle giraffe oil number chair act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | series |  
+| bip_39_word_new_br10 | series<br>will<br>system<br>bracket<br>airport<br>ship<br>battle<br>giraffe<br>oil<br>number |  
+| bip_39_word_new_br11 | series<br>will<br>system<br>bracket<br>airport<br>ship<br>battle<br>giraffe<br>oil<br>number<br>chair |  
+| bip_39_word_new_br12 | series<br>will<br>system<br>bracket<br>airport<br>ship<br>battle<br>giraffe<br>oil<br>number<br>chair<br>act |  
+| bip_39_word_new_br2 | series<br>will |  
+| bip_39_word_new_br3 | series<br>will<br>system |  
+| bip_39_word_new_br4 | series<br>will<br>system<br>bracket |  
+| bip_39_word_new_br5 | series<br>will<br>system<br>bracket<br>airport |  
+| bip_39_word_new_br6 | series<br>will<br>system<br>bracket<br>airport<br>ship |  
+| bip_39_word_new_br7 | series<br>will<br>system<br>bracket<br>airport<br>ship<br>battle |  
+| bip_39_word_new_br8 | series<br>will<br>system<br>bracket<br>airport<br>ship<br>battle<br>giraffe |  
+| bip_39_word_new_br9 | series<br>will<br>system<br>bracket<br>airport<br>ship<br>battle<br>giraffe<br>oil |  
+| bip_39_word_new_line1 | series |  
+| bip_39_word_new_line10 | series
+will
+system
+bracket
+airport
+ship
+battle
+giraffe
+oil
+number |  
+| bip_39_word_new_line11 | series
+will
+system
+bracket
+airport
+ship
+battle
+giraffe
+oil
+number
+chair |  
+| bip_39_word_new_line12 | series
+will
+system
+bracket
+airport
+ship
+battle
+giraffe
+oil
+number
+chair
+act |  
+| bip_39_word_new_line2 | series
+will |  
+| bip_39_word_new_line3 | series
+will
+system |  
+| bip_39_word_new_line4 | series
+will
+system
+bracket |  
+| bip_39_word_new_line5 | series
+will
+system
+bracket
+airport |  
+| bip_39_word_new_line6 | series
+will
+system
+bracket
+airport
+ship |  
+| bip_39_word_new_line7 | series
+will
+system
+bracket
+airport
+ship
+battle |  
+| bip_39_word_new_line8 | series
+will
+system
+bracket
+airport
+ship
+battle
+giraffe |  
+| bip_39_word_new_line9 | series
+will
+system
+bracket
+airport
+ship
+battle
+giraffe
+oil |  
+| bip_39_word_space_0 | ['series', 'will', 'system', 'bracket', 'airport', 'ship', 'battle', 'giraffe', 'oil', 'number', 'chair', 'act'] |  
+| bip_39_word_space_1 | series |  
+| bip_39_word_space_10 | series will system bracket airport ship battle giraffe oil number |  
+| bip_39_word_space_11 | series will system bracket airport ship battle giraffe oil number chair |  
+| bip_39_word_space_12 | series will system bracket airport ship battle giraffe oil number chair act |  
+| bip_39_word_space_2 | series will |  
+| bip_39_word_space_3 | series will system |  
+| bip_39_word_space_4 | series will system bracket |  
+| bip_39_word_space_5 | series will system bracket airport |  
+| bip_39_word_space_6 | series will system bracket airport ship |  
+| bip_39_word_space_7 | series will system bracket airport ship battle |  
+| bip_39_word_space_8 | series will system bracket airport ship battle giraffe |  
+| bip_39_word_space_9 | series will system bracket airport ship battle giraffe oil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

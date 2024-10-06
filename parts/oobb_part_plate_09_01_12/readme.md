@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wife bundle
+  * bip 39 word 3: wife bundle silk
+  * bip 39 word: wife bundle silk luxury bean radio behind into lens voyage dry also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wife |  
+| bip_39_word_new_br10 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens<br>voyage |  
+| bip_39_word_new_br11 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens<br>voyage<br>dry |  
+| bip_39_word_new_br12 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens<br>voyage<br>dry<br>also |  
+| bip_39_word_new_br2 | wife<br>bundle |  
+| bip_39_word_new_br3 | wife<br>bundle<br>silk |  
+| bip_39_word_new_br4 | wife<br>bundle<br>silk<br>luxury |  
+| bip_39_word_new_br5 | wife<br>bundle<br>silk<br>luxury<br>bean |  
+| bip_39_word_new_br6 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio |  
+| bip_39_word_new_br7 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind |  
+| bip_39_word_new_br8 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into |  
+| bip_39_word_new_br9 | wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens |  
+| bip_39_word_new_line1 | wife |  
+| bip_39_word_new_line10 | wife
+bundle
+silk
+luxury
+bean
+radio
+behind
+into
+lens
+voyage |  
+| bip_39_word_new_line11 | wife
+bundle
+silk
+luxury
+bean
+radio
+behind
+into
+lens
+voyage
+dry |  
+| bip_39_word_new_line12 | wife
+bundle
+silk
+luxury
+bean
+radio
+behind
+into
+lens
+voyage
+dry
+also |  
+| bip_39_word_new_line2 | wife
+bundle |  
+| bip_39_word_new_line3 | wife
+bundle
+silk |  
+| bip_39_word_new_line4 | wife
+bundle
+silk
+luxury |  
+| bip_39_word_new_line5 | wife
+bundle
+silk
+luxury
+bean |  
+| bip_39_word_new_line6 | wife
+bundle
+silk
+luxury
+bean
+radio |  
+| bip_39_word_new_line7 | wife
+bundle
+silk
+luxury
+bean
+radio
+behind |  
+| bip_39_word_new_line8 | wife
+bundle
+silk
+luxury
+bean
+radio
+behind
+into |  
+| bip_39_word_new_line9 | wife
+bundle
+silk
+luxury
+bean
+radio
+behind
+into
+lens |  
+| bip_39_word_space_0 | ['wife', 'bundle', 'silk', 'luxury', 'bean', 'radio', 'behind', 'into', 'lens', 'voyage', 'dry', 'also'] |  
+| bip_39_word_space_1 | wife |  
+| bip_39_word_space_10 | wife bundle silk luxury bean radio behind into lens voyage |  
+| bip_39_word_space_11 | wife bundle silk luxury bean radio behind into lens voyage dry |  
+| bip_39_word_space_12 | wife bundle silk luxury bean radio behind into lens voyage dry also |  
+| bip_39_word_space_2 | wife bundle |  
+| bip_39_word_space_3 | wife bundle silk |  
+| bip_39_word_space_4 | wife bundle silk luxury |  
+| bip_39_word_space_5 | wife bundle silk luxury bean |  
+| bip_39_word_space_6 | wife bundle silk luxury bean radio |  
+| bip_39_word_space_7 | wife bundle silk luxury bean radio behind |  
+| bip_39_word_space_8 | wife bundle silk luxury bean radio behind into |  
+| bip_39_word_space_9 | wife bundle silk luxury bean radio behind into lens |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: blossom
+bip_39_word_new_br10: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place<br>science<br>smile<br>lazy<br>jeans
+bip_39_word_new_br11: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place<br>science<br>smile<br>lazy<br>jeans<br>museum
+bip_39_word_new_br12: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place<br>science<br>smile<br>lazy<br>jeans<br>museum<br>above
+bip_39_word_new_br2: blossom<br>kidney
+bip_39_word_new_br3: blossom<br>kidney<br>bleak
+bip_39_word_new_br4: blossom<br>kidney<br>bleak<br>bag
+bip_39_word_new_br5: blossom<br>kidney<br>bleak<br>bag<br>leave
+bip_39_word_new_br6: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place
+bip_39_word_new_br7: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place<br>science
+bip_39_word_new_br8: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place<br>science<br>smile
+bip_39_word_new_br9: blossom<br>kidney<br>bleak<br>bag<br>leave<br>place<br>science<br>smile<br>lazy
+bip_39_word_new_line1: blossom
+bip_39_word_new_line10: 'blossom
+
+  kidney
+
+  bleak
+
+  bag
+
+  leave
+
+  place
+
+  science
+
+  smile
+
+  lazy
+
+  jeans'
+bip_39_word_new_line11: 'blossom
+
+  kidney
+
+  bleak
+
+  bag
+
+  leave
+
+  place
+
+  science
+
+  smile
+
+  lazy
+
+  jeans
+
+  museum'
+bip_39_word_new_line12: 'blossom
+
+  kidney
+
+  bleak
+
+  bag
+
+  leave
+
+  place
+
+  science
+
+  smile
+
+  lazy
+
+  jeans
+
+  museum
+
+  above'
+bip_39_word_new_line2: 'blossom
+
+  kidney'
+bip_39_word_new_line3: 'blossom
+
+  kidney
+
+  bleak'
+bip_39_word_new_line4: 'blossom
+
+  kidney
+
+  bleak
+
+  bag'
+bip_39_word_new_line5: 'blossom
+
+  kidney
+
+  bleak
+
+  bag
+
+  leave'
+bip_39_word_new_line6: 'blossom
+
+  kidney
+
+  bleak
+
+  bag
+
+  leave
+
+  place'
+bip_39_word_new_line7: 'blossom
+
+  kidney
+
+  bleak
+
+  bag
+
+  leave
+
+  place
+
+  science'
+bip_39_word_new_line8: 'blossom
+
+  kidney
+
+  bleak
+
+  bag
+
+  leave
+
+  place
+
+  science
+
+  smile'
+bip_39_word_new_line9: 'blossom
+
+  kidney
+
+  bleak
+
+  bag
+
+  leave
+
+  place
+
+  science
+
+  smile
+
+  lazy'
+bip_39_word_space_0:
+- blossom
+- kidney
+- bleak
+- bag
+- leave
+- place
+- science
+- smile
+- lazy
+- jeans
+- museum
+- above
+bip_39_word_space_1: blossom
+bip_39_word_space_10: blossom kidney bleak bag leave place science smile lazy jeans
+bip_39_word_space_11: blossom kidney bleak bag leave place science smile lazy jeans
+  museum
+bip_39_word_space_12: blossom kidney bleak bag leave place science smile lazy jeans
+  museum above
+bip_39_word_space_2: blossom kidney
+bip_39_word_space_3: blossom kidney bleak
+bip_39_word_space_4: blossom kidney bleak bag
+bip_39_word_space_5: blossom kidney bleak bag leave
+bip_39_word_space_6: blossom kidney bleak bag leave place
+bip_39_word_space_7: blossom kidney bleak bag leave place science
+bip_39_word_space_8: blossom kidney bleak bag leave place science smile
+bip_39_word_space_9: blossom kidney bleak bag leave place science smile lazy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

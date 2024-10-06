@@ -1,3 +1,186 @@
+bip_39_word_new_br1: strong
+bip_39_word_new_br10: strong<br>spoon<br>there<br>ship<br>tumble<br>search<br>witness<br>diary<br>choose<br>skill
+bip_39_word_new_br11: strong<br>spoon<br>there<br>ship<br>tumble<br>search<br>witness<br>diary<br>choose<br>skill<br>pioneer
+bip_39_word_new_br12: strong<br>spoon<br>there<br>ship<br>tumble<br>search<br>witness<br>diary<br>choose<br>skill<br>pioneer<br>access
+bip_39_word_new_br2: strong<br>spoon
+bip_39_word_new_br3: strong<br>spoon<br>there
+bip_39_word_new_br4: strong<br>spoon<br>there<br>ship
+bip_39_word_new_br5: strong<br>spoon<br>there<br>ship<br>tumble
+bip_39_word_new_br6: strong<br>spoon<br>there<br>ship<br>tumble<br>search
+bip_39_word_new_br7: strong<br>spoon<br>there<br>ship<br>tumble<br>search<br>witness
+bip_39_word_new_br8: strong<br>spoon<br>there<br>ship<br>tumble<br>search<br>witness<br>diary
+bip_39_word_new_br9: strong<br>spoon<br>there<br>ship<br>tumble<br>search<br>witness<br>diary<br>choose
+bip_39_word_new_line1: strong
+bip_39_word_new_line10: 'strong
+
+  spoon
+
+  there
+
+  ship
+
+  tumble
+
+  search
+
+  witness
+
+  diary
+
+  choose
+
+  skill'
+bip_39_word_new_line11: 'strong
+
+  spoon
+
+  there
+
+  ship
+
+  tumble
+
+  search
+
+  witness
+
+  diary
+
+  choose
+
+  skill
+
+  pioneer'
+bip_39_word_new_line12: 'strong
+
+  spoon
+
+  there
+
+  ship
+
+  tumble
+
+  search
+
+  witness
+
+  diary
+
+  choose
+
+  skill
+
+  pioneer
+
+  access'
+bip_39_word_new_line2: 'strong
+
+  spoon'
+bip_39_word_new_line3: 'strong
+
+  spoon
+
+  there'
+bip_39_word_new_line4: 'strong
+
+  spoon
+
+  there
+
+  ship'
+bip_39_word_new_line5: 'strong
+
+  spoon
+
+  there
+
+  ship
+
+  tumble'
+bip_39_word_new_line6: 'strong
+
+  spoon
+
+  there
+
+  ship
+
+  tumble
+
+  search'
+bip_39_word_new_line7: 'strong
+
+  spoon
+
+  there
+
+  ship
+
+  tumble
+
+  search
+
+  witness'
+bip_39_word_new_line8: 'strong
+
+  spoon
+
+  there
+
+  ship
+
+  tumble
+
+  search
+
+  witness
+
+  diary'
+bip_39_word_new_line9: 'strong
+
+  spoon
+
+  there
+
+  ship
+
+  tumble
+
+  search
+
+  witness
+
+  diary
+
+  choose'
+bip_39_word_space_0:
+- strong
+- spoon
+- there
+- ship
+- tumble
+- search
+- witness
+- diary
+- choose
+- skill
+- pioneer
+- access
+bip_39_word_space_1: strong
+bip_39_word_space_10: strong spoon there ship tumble search witness diary choose skill
+bip_39_word_space_11: strong spoon there ship tumble search witness diary choose skill
+  pioneer
+bip_39_word_space_12: strong spoon there ship tumble search witness diary choose skill
+  pioneer access
+bip_39_word_space_2: strong spoon
+bip_39_word_space_3: strong spoon there
+bip_39_word_space_4: strong spoon there ship
+bip_39_word_space_5: strong spoon there ship tumble
+bip_39_word_space_6: strong spoon there ship tumble search
+bip_39_word_space_7: strong spoon there ship tumble search witness
+bip_39_word_space_8: strong spoon there ship tumble search witness diary
+bip_39_word_space_9: strong spoon there ship tumble search witness diary choose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

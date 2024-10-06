@@ -1,3 +1,186 @@
+bip_39_word_new_br1: juice
+bip_39_word_new_br10: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase
+bip_39_word_new_br11: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase<br>amateur
+bip_39_word_new_br12: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet<br>erase<br>amateur<br>apart
+bip_39_word_new_br2: juice<br>pioneer
+bip_39_word_new_br3: juice<br>pioneer<br>knife
+bip_39_word_new_br4: juice<br>pioneer<br>knife<br>coast
+bip_39_word_new_br5: juice<br>pioneer<br>knife<br>coast<br>time
+bip_39_word_new_br6: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff
+bip_39_word_new_br7: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash
+bip_39_word_new_br8: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault
+bip_39_word_new_br9: juice<br>pioneer<br>knife<br>coast<br>time<br>stuff<br>flash<br>fault<br>bullet
+bip_39_word_new_line1: juice
+bip_39_word_new_line10: 'juice
+
+  pioneer
+
+  knife
+
+  coast
+
+  time
+
+  stuff
+
+  flash
+
+  fault
+
+  bullet
+
+  erase'
+bip_39_word_new_line11: 'juice
+
+  pioneer
+
+  knife
+
+  coast
+
+  time
+
+  stuff
+
+  flash
+
+  fault
+
+  bullet
+
+  erase
+
+  amateur'
+bip_39_word_new_line12: 'juice
+
+  pioneer
+
+  knife
+
+  coast
+
+  time
+
+  stuff
+
+  flash
+
+  fault
+
+  bullet
+
+  erase
+
+  amateur
+
+  apart'
+bip_39_word_new_line2: 'juice
+
+  pioneer'
+bip_39_word_new_line3: 'juice
+
+  pioneer
+
+  knife'
+bip_39_word_new_line4: 'juice
+
+  pioneer
+
+  knife
+
+  coast'
+bip_39_word_new_line5: 'juice
+
+  pioneer
+
+  knife
+
+  coast
+
+  time'
+bip_39_word_new_line6: 'juice
+
+  pioneer
+
+  knife
+
+  coast
+
+  time
+
+  stuff'
+bip_39_word_new_line7: 'juice
+
+  pioneer
+
+  knife
+
+  coast
+
+  time
+
+  stuff
+
+  flash'
+bip_39_word_new_line8: 'juice
+
+  pioneer
+
+  knife
+
+  coast
+
+  time
+
+  stuff
+
+  flash
+
+  fault'
+bip_39_word_new_line9: 'juice
+
+  pioneer
+
+  knife
+
+  coast
+
+  time
+
+  stuff
+
+  flash
+
+  fault
+
+  bullet'
+bip_39_word_space_0:
+- juice
+- pioneer
+- knife
+- coast
+- time
+- stuff
+- flash
+- fault
+- bullet
+- erase
+- amateur
+- apart
+bip_39_word_space_1: juice
+bip_39_word_space_10: juice pioneer knife coast time stuff flash fault bullet erase
+bip_39_word_space_11: juice pioneer knife coast time stuff flash fault bullet erase
+  amateur
+bip_39_word_space_12: juice pioneer knife coast time stuff flash fault bullet erase
+  amateur apart
+bip_39_word_space_2: juice pioneer
+bip_39_word_space_3: juice pioneer knife
+bip_39_word_space_4: juice pioneer knife coast
+bip_39_word_space_5: juice pioneer knife coast time
+bip_39_word_space_6: juice pioneer knife coast time stuff
+bip_39_word_space_7: juice pioneer knife coast time stuff flash
+bip_39_word_space_8: juice pioneer knife coast time stuff flash fault
+bip_39_word_space_9: juice pioneer knife coast time stuff flash fault bullet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

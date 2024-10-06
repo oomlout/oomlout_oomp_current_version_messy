@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sand
+bip_39_word_new_br10: sand<br>quarter<br>tent<br>acoustic<br>despair<br>dash<br>harsh<br>desk<br>flame<br>apart
+bip_39_word_new_br11: sand<br>quarter<br>tent<br>acoustic<br>despair<br>dash<br>harsh<br>desk<br>flame<br>apart<br>sight
+bip_39_word_new_br12: sand<br>quarter<br>tent<br>acoustic<br>despair<br>dash<br>harsh<br>desk<br>flame<br>apart<br>sight<br>animal
+bip_39_word_new_br2: sand<br>quarter
+bip_39_word_new_br3: sand<br>quarter<br>tent
+bip_39_word_new_br4: sand<br>quarter<br>tent<br>acoustic
+bip_39_word_new_br5: sand<br>quarter<br>tent<br>acoustic<br>despair
+bip_39_word_new_br6: sand<br>quarter<br>tent<br>acoustic<br>despair<br>dash
+bip_39_word_new_br7: sand<br>quarter<br>tent<br>acoustic<br>despair<br>dash<br>harsh
+bip_39_word_new_br8: sand<br>quarter<br>tent<br>acoustic<br>despair<br>dash<br>harsh<br>desk
+bip_39_word_new_br9: sand<br>quarter<br>tent<br>acoustic<br>despair<br>dash<br>harsh<br>desk<br>flame
+bip_39_word_new_line1: sand
+bip_39_word_new_line10: 'sand
+
+  quarter
+
+  tent
+
+  acoustic
+
+  despair
+
+  dash
+
+  harsh
+
+  desk
+
+  flame
+
+  apart'
+bip_39_word_new_line11: 'sand
+
+  quarter
+
+  tent
+
+  acoustic
+
+  despair
+
+  dash
+
+  harsh
+
+  desk
+
+  flame
+
+  apart
+
+  sight'
+bip_39_word_new_line12: 'sand
+
+  quarter
+
+  tent
+
+  acoustic
+
+  despair
+
+  dash
+
+  harsh
+
+  desk
+
+  flame
+
+  apart
+
+  sight
+
+  animal'
+bip_39_word_new_line2: 'sand
+
+  quarter'
+bip_39_word_new_line3: 'sand
+
+  quarter
+
+  tent'
+bip_39_word_new_line4: 'sand
+
+  quarter
+
+  tent
+
+  acoustic'
+bip_39_word_new_line5: 'sand
+
+  quarter
+
+  tent
+
+  acoustic
+
+  despair'
+bip_39_word_new_line6: 'sand
+
+  quarter
+
+  tent
+
+  acoustic
+
+  despair
+
+  dash'
+bip_39_word_new_line7: 'sand
+
+  quarter
+
+  tent
+
+  acoustic
+
+  despair
+
+  dash
+
+  harsh'
+bip_39_word_new_line8: 'sand
+
+  quarter
+
+  tent
+
+  acoustic
+
+  despair
+
+  dash
+
+  harsh
+
+  desk'
+bip_39_word_new_line9: 'sand
+
+  quarter
+
+  tent
+
+  acoustic
+
+  despair
+
+  dash
+
+  harsh
+
+  desk
+
+  flame'
+bip_39_word_space_0:
+- sand
+- quarter
+- tent
+- acoustic
+- despair
+- dash
+- harsh
+- desk
+- flame
+- apart
+- sight
+- animal
+bip_39_word_space_1: sand
+bip_39_word_space_10: sand quarter tent acoustic despair dash harsh desk flame apart
+bip_39_word_space_11: sand quarter tent acoustic despair dash harsh desk flame apart
+  sight
+bip_39_word_space_12: sand quarter tent acoustic despair dash harsh desk flame apart
+  sight animal
+bip_39_word_space_2: sand quarter
+bip_39_word_space_3: sand quarter tent
+bip_39_word_space_4: sand quarter tent acoustic
+bip_39_word_space_5: sand quarter tent acoustic despair
+bip_39_word_space_6: sand quarter tent acoustic despair dash
+bip_39_word_space_7: sand quarter tent acoustic despair dash harsh
+bip_39_word_space_8: sand quarter tent acoustic despair dash harsh desk
+bip_39_word_space_9: sand quarter tent acoustic despair dash harsh desk flame
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

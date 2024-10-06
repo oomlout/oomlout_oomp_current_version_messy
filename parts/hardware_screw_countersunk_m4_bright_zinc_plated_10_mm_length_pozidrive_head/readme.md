@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: picture best
+  * bip 39 word 3: picture best year
+  * bip 39 word: picture best year water mango post album lamp ostrich exhaust rifle absorb
 
 ### other_codes
 * short_code: cs4bz10pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | picture |  
+| bip_39_word_new_br10 | picture<br>best<br>year<br>water<br>mango<br>post<br>album<br>lamp<br>ostrich<br>exhaust |  
+| bip_39_word_new_br11 | picture<br>best<br>year<br>water<br>mango<br>post<br>album<br>lamp<br>ostrich<br>exhaust<br>rifle |  
+| bip_39_word_new_br12 | picture<br>best<br>year<br>water<br>mango<br>post<br>album<br>lamp<br>ostrich<br>exhaust<br>rifle<br>absorb |  
+| bip_39_word_new_br2 | picture<br>best |  
+| bip_39_word_new_br3 | picture<br>best<br>year |  
+| bip_39_word_new_br4 | picture<br>best<br>year<br>water |  
+| bip_39_word_new_br5 | picture<br>best<br>year<br>water<br>mango |  
+| bip_39_word_new_br6 | picture<br>best<br>year<br>water<br>mango<br>post |  
+| bip_39_word_new_br7 | picture<br>best<br>year<br>water<br>mango<br>post<br>album |  
+| bip_39_word_new_br8 | picture<br>best<br>year<br>water<br>mango<br>post<br>album<br>lamp |  
+| bip_39_word_new_br9 | picture<br>best<br>year<br>water<br>mango<br>post<br>album<br>lamp<br>ostrich |  
+| bip_39_word_new_line1 | picture |  
+| bip_39_word_new_line10 | picture
+best
+year
+water
+mango
+post
+album
+lamp
+ostrich
+exhaust |  
+| bip_39_word_new_line11 | picture
+best
+year
+water
+mango
+post
+album
+lamp
+ostrich
+exhaust
+rifle |  
+| bip_39_word_new_line12 | picture
+best
+year
+water
+mango
+post
+album
+lamp
+ostrich
+exhaust
+rifle
+absorb |  
+| bip_39_word_new_line2 | picture
+best |  
+| bip_39_word_new_line3 | picture
+best
+year |  
+| bip_39_word_new_line4 | picture
+best
+year
+water |  
+| bip_39_word_new_line5 | picture
+best
+year
+water
+mango |  
+| bip_39_word_new_line6 | picture
+best
+year
+water
+mango
+post |  
+| bip_39_word_new_line7 | picture
+best
+year
+water
+mango
+post
+album |  
+| bip_39_word_new_line8 | picture
+best
+year
+water
+mango
+post
+album
+lamp |  
+| bip_39_word_new_line9 | picture
+best
+year
+water
+mango
+post
+album
+lamp
+ostrich |  
+| bip_39_word_space_0 | ['picture', 'best', 'year', 'water', 'mango', 'post', 'album', 'lamp', 'ostrich', 'exhaust', 'rifle', 'absorb'] |  
+| bip_39_word_space_1 | picture |  
+| bip_39_word_space_10 | picture best year water mango post album lamp ostrich exhaust |  
+| bip_39_word_space_11 | picture best year water mango post album lamp ostrich exhaust rifle |  
+| bip_39_word_space_12 | picture best year water mango post album lamp ostrich exhaust rifle absorb |  
+| bip_39_word_space_2 | picture best |  
+| bip_39_word_space_3 | picture best year |  
+| bip_39_word_space_4 | picture best year water |  
+| bip_39_word_space_5 | picture best year water mango |  
+| bip_39_word_space_6 | picture best year water mango post |  
+| bip_39_word_space_7 | picture best year water mango post album |  
+| bip_39_word_space_8 | picture best year water mango post album lamp |  
+| bip_39_word_space_9 | picture best year water mango post album lamp ostrich |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fruit
+bip_39_word_new_br10: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue
+bip_39_word_new_br11: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue<br>bounce
+bip_39_word_new_br12: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom<br>issue<br>bounce<br>arctic
+bip_39_word_new_br2: fruit<br>lizard
+bip_39_word_new_br3: fruit<br>lizard<br>chunk
+bip_39_word_new_br4: fruit<br>lizard<br>chunk<br>asset
+bip_39_word_new_br5: fruit<br>lizard<br>chunk<br>asset<br>rubber
+bip_39_word_new_br6: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy
+bip_39_word_new_br7: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh
+bip_39_word_new_br8: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond
+bip_39_word_new_br9: fruit<br>lizard<br>chunk<br>asset<br>rubber<br>shy<br>mesh<br>pond<br>mom
+bip_39_word_new_line1: fruit
+bip_39_word_new_line10: 'fruit
+
+  lizard
+
+  chunk
+
+  asset
+
+  rubber
+
+  shy
+
+  mesh
+
+  pond
+
+  mom
+
+  issue'
+bip_39_word_new_line11: 'fruit
+
+  lizard
+
+  chunk
+
+  asset
+
+  rubber
+
+  shy
+
+  mesh
+
+  pond
+
+  mom
+
+  issue
+
+  bounce'
+bip_39_word_new_line12: 'fruit
+
+  lizard
+
+  chunk
+
+  asset
+
+  rubber
+
+  shy
+
+  mesh
+
+  pond
+
+  mom
+
+  issue
+
+  bounce
+
+  arctic'
+bip_39_word_new_line2: 'fruit
+
+  lizard'
+bip_39_word_new_line3: 'fruit
+
+  lizard
+
+  chunk'
+bip_39_word_new_line4: 'fruit
+
+  lizard
+
+  chunk
+
+  asset'
+bip_39_word_new_line5: 'fruit
+
+  lizard
+
+  chunk
+
+  asset
+
+  rubber'
+bip_39_word_new_line6: 'fruit
+
+  lizard
+
+  chunk
+
+  asset
+
+  rubber
+
+  shy'
+bip_39_word_new_line7: 'fruit
+
+  lizard
+
+  chunk
+
+  asset
+
+  rubber
+
+  shy
+
+  mesh'
+bip_39_word_new_line8: 'fruit
+
+  lizard
+
+  chunk
+
+  asset
+
+  rubber
+
+  shy
+
+  mesh
+
+  pond'
+bip_39_word_new_line9: 'fruit
+
+  lizard
+
+  chunk
+
+  asset
+
+  rubber
+
+  shy
+
+  mesh
+
+  pond
+
+  mom'
+bip_39_word_space_0:
+- fruit
+- lizard
+- chunk
+- asset
+- rubber
+- shy
+- mesh
+- pond
+- mom
+- issue
+- bounce
+- arctic
+bip_39_word_space_1: fruit
+bip_39_word_space_10: fruit lizard chunk asset rubber shy mesh pond mom issue
+bip_39_word_space_11: fruit lizard chunk asset rubber shy mesh pond mom issue bounce
+bip_39_word_space_12: fruit lizard chunk asset rubber shy mesh pond mom issue bounce
+  arctic
+bip_39_word_space_2: fruit lizard
+bip_39_word_space_3: fruit lizard chunk
+bip_39_word_space_4: fruit lizard chunk asset
+bip_39_word_space_5: fruit lizard chunk asset rubber
+bip_39_word_space_6: fruit lizard chunk asset rubber shy
+bip_39_word_space_7: fruit lizard chunk asset rubber shy mesh
+bip_39_word_space_8: fruit lizard chunk asset rubber shy mesh pond
+bip_39_word_space_9: fruit lizard chunk asset rubber shy mesh pond mom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

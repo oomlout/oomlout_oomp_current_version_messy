@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ask
+bip_39_word_new_br10: ask<br>aisle<br>ridge<br>muscle<br>tooth<br>salad<br>twenty<br>symbol<br>feature<br>must
+bip_39_word_new_br11: ask<br>aisle<br>ridge<br>muscle<br>tooth<br>salad<br>twenty<br>symbol<br>feature<br>must<br>abuse
+bip_39_word_new_br12: ask<br>aisle<br>ridge<br>muscle<br>tooth<br>salad<br>twenty<br>symbol<br>feature<br>must<br>abuse<br>august
+bip_39_word_new_br2: ask<br>aisle
+bip_39_word_new_br3: ask<br>aisle<br>ridge
+bip_39_word_new_br4: ask<br>aisle<br>ridge<br>muscle
+bip_39_word_new_br5: ask<br>aisle<br>ridge<br>muscle<br>tooth
+bip_39_word_new_br6: ask<br>aisle<br>ridge<br>muscle<br>tooth<br>salad
+bip_39_word_new_br7: ask<br>aisle<br>ridge<br>muscle<br>tooth<br>salad<br>twenty
+bip_39_word_new_br8: ask<br>aisle<br>ridge<br>muscle<br>tooth<br>salad<br>twenty<br>symbol
+bip_39_word_new_br9: ask<br>aisle<br>ridge<br>muscle<br>tooth<br>salad<br>twenty<br>symbol<br>feature
+bip_39_word_new_line1: ask
+bip_39_word_new_line10: 'ask
+
+  aisle
+
+  ridge
+
+  muscle
+
+  tooth
+
+  salad
+
+  twenty
+
+  symbol
+
+  feature
+
+  must'
+bip_39_word_new_line11: 'ask
+
+  aisle
+
+  ridge
+
+  muscle
+
+  tooth
+
+  salad
+
+  twenty
+
+  symbol
+
+  feature
+
+  must
+
+  abuse'
+bip_39_word_new_line12: 'ask
+
+  aisle
+
+  ridge
+
+  muscle
+
+  tooth
+
+  salad
+
+  twenty
+
+  symbol
+
+  feature
+
+  must
+
+  abuse
+
+  august'
+bip_39_word_new_line2: 'ask
+
+  aisle'
+bip_39_word_new_line3: 'ask
+
+  aisle
+
+  ridge'
+bip_39_word_new_line4: 'ask
+
+  aisle
+
+  ridge
+
+  muscle'
+bip_39_word_new_line5: 'ask
+
+  aisle
+
+  ridge
+
+  muscle
+
+  tooth'
+bip_39_word_new_line6: 'ask
+
+  aisle
+
+  ridge
+
+  muscle
+
+  tooth
+
+  salad'
+bip_39_word_new_line7: 'ask
+
+  aisle
+
+  ridge
+
+  muscle
+
+  tooth
+
+  salad
+
+  twenty'
+bip_39_word_new_line8: 'ask
+
+  aisle
+
+  ridge
+
+  muscle
+
+  tooth
+
+  salad
+
+  twenty
+
+  symbol'
+bip_39_word_new_line9: 'ask
+
+  aisle
+
+  ridge
+
+  muscle
+
+  tooth
+
+  salad
+
+  twenty
+
+  symbol
+
+  feature'
+bip_39_word_space_0:
+- ask
+- aisle
+- ridge
+- muscle
+- tooth
+- salad
+- twenty
+- symbol
+- feature
+- must
+- abuse
+- august
+bip_39_word_space_1: ask
+bip_39_word_space_10: ask aisle ridge muscle tooth salad twenty symbol feature must
+bip_39_word_space_11: ask aisle ridge muscle tooth salad twenty symbol feature must
+  abuse
+bip_39_word_space_12: ask aisle ridge muscle tooth salad twenty symbol feature must
+  abuse august
+bip_39_word_space_2: ask aisle
+bip_39_word_space_3: ask aisle ridge
+bip_39_word_space_4: ask aisle ridge muscle
+bip_39_word_space_5: ask aisle ridge muscle tooth
+bip_39_word_space_6: ask aisle ridge muscle tooth salad
+bip_39_word_space_7: ask aisle ridge muscle tooth salad twenty
+bip_39_word_space_8: ask aisle ridge muscle tooth salad twenty symbol
+bip_39_word_space_9: ask aisle ridge muscle tooth salad twenty symbol feature
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

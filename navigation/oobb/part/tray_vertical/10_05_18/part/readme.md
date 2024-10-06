@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: garment soccer
+  * bip 39 word 3: garment soccer repeat
+  * bip 39 word: garment soccer repeat ripple slab actor accident harbor solid fun screen affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | garment |  
+| bip_39_word_new_br10 | garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun |  
+| bip_39_word_new_br11 | garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun<br>screen |  
+| bip_39_word_new_br12 | garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid<br>fun<br>screen<br>affair |  
+| bip_39_word_new_br2 | garment<br>soccer |  
+| bip_39_word_new_br3 | garment<br>soccer<br>repeat |  
+| bip_39_word_new_br4 | garment<br>soccer<br>repeat<br>ripple |  
+| bip_39_word_new_br5 | garment<br>soccer<br>repeat<br>ripple<br>slab |  
+| bip_39_word_new_br6 | garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor |  
+| bip_39_word_new_br7 | garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident |  
+| bip_39_word_new_br8 | garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor |  
+| bip_39_word_new_br9 | garment<br>soccer<br>repeat<br>ripple<br>slab<br>actor<br>accident<br>harbor<br>solid |  
+| bip_39_word_new_line1 | garment |  
+| bip_39_word_new_line10 | garment
+soccer
+repeat
+ripple
+slab
+actor
+accident
+harbor
+solid
+fun |  
+| bip_39_word_new_line11 | garment
+soccer
+repeat
+ripple
+slab
+actor
+accident
+harbor
+solid
+fun
+screen |  
+| bip_39_word_new_line12 | garment
+soccer
+repeat
+ripple
+slab
+actor
+accident
+harbor
+solid
+fun
+screen
+affair |  
+| bip_39_word_new_line2 | garment
+soccer |  
+| bip_39_word_new_line3 | garment
+soccer
+repeat |  
+| bip_39_word_new_line4 | garment
+soccer
+repeat
+ripple |  
+| bip_39_word_new_line5 | garment
+soccer
+repeat
+ripple
+slab |  
+| bip_39_word_new_line6 | garment
+soccer
+repeat
+ripple
+slab
+actor |  
+| bip_39_word_new_line7 | garment
+soccer
+repeat
+ripple
+slab
+actor
+accident |  
+| bip_39_word_new_line8 | garment
+soccer
+repeat
+ripple
+slab
+actor
+accident
+harbor |  
+| bip_39_word_new_line9 | garment
+soccer
+repeat
+ripple
+slab
+actor
+accident
+harbor
+solid |  
+| bip_39_word_space_0 | ['garment', 'soccer', 'repeat', 'ripple', 'slab', 'actor', 'accident', 'harbor', 'solid', 'fun', 'screen', 'affair'] |  
+| bip_39_word_space_1 | garment |  
+| bip_39_word_space_10 | garment soccer repeat ripple slab actor accident harbor solid fun |  
+| bip_39_word_space_11 | garment soccer repeat ripple slab actor accident harbor solid fun screen |  
+| bip_39_word_space_12 | garment soccer repeat ripple slab actor accident harbor solid fun screen affair |  
+| bip_39_word_space_2 | garment soccer |  
+| bip_39_word_space_3 | garment soccer repeat |  
+| bip_39_word_space_4 | garment soccer repeat ripple |  
+| bip_39_word_space_5 | garment soccer repeat ripple slab |  
+| bip_39_word_space_6 | garment soccer repeat ripple slab actor |  
+| bip_39_word_space_7 | garment soccer repeat ripple slab actor accident |  
+| bip_39_word_space_8 | garment soccer repeat ripple slab actor accident harbor |  
+| bip_39_word_space_9 | garment soccer repeat ripple slab actor accident harbor solid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

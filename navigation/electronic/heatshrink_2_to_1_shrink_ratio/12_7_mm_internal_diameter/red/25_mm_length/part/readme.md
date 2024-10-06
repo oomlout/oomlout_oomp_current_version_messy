@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: season menu
+  * bip 39 word 3: season menu rent
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | season |  
+| bip_39_word_new_br10 | season<br>menu<br>rent<br>old<br>bag<br>bomb<br>into<br>fortune<br>describe<br>child |  
+| bip_39_word_new_br11 | season<br>menu<br>rent<br>old<br>bag<br>bomb<br>into<br>fortune<br>describe<br>child<br>ordinary |  
+| bip_39_word_new_br2 | season<br>menu |  
+| bip_39_word_new_br3 | season<br>menu<br>rent |  
+| bip_39_word_new_br4 | season<br>menu<br>rent<br>old |  
+| bip_39_word_new_br5 | season<br>menu<br>rent<br>old<br>bag |  
+| bip_39_word_new_br6 | season<br>menu<br>rent<br>old<br>bag<br>bomb |  
+| bip_39_word_new_br7 | season<br>menu<br>rent<br>old<br>bag<br>bomb<br>into |  
+| bip_39_word_new_br8 | season<br>menu<br>rent<br>old<br>bag<br>bomb<br>into<br>fortune |  
+| bip_39_word_new_br9 | season<br>menu<br>rent<br>old<br>bag<br>bomb<br>into<br>fortune<br>describe |  
+| bip_39_word_new_line1 | season |  
+| bip_39_word_new_line10 | season
+menu
+rent
+old
+bag
+bomb
+into
+fortune
+describe
+child |  
+| bip_39_word_new_line11 | season
+menu
+rent
+old
+bag
+bomb
+into
+fortune
+describe
+child
+ordinary |  
+| bip_39_word_new_line2 | season
+menu |  
+| bip_39_word_new_line3 | season
+menu
+rent |  
+| bip_39_word_new_line4 | season
+menu
+rent
+old |  
+| bip_39_word_new_line5 | season
+menu
+rent
+old
+bag |  
+| bip_39_word_new_line6 | season
+menu
+rent
+old
+bag
+bomb |  
+| bip_39_word_new_line7 | season
+menu
+rent
+old
+bag
+bomb
+into |  
+| bip_39_word_new_line8 | season
+menu
+rent
+old
+bag
+bomb
+into
+fortune |  
+| bip_39_word_new_line9 | season
+menu
+rent
+old
+bag
+bomb
+into
+fortune
+describe |  
+| bip_39_word_space_0 | ['season', 'menu', 'rent', 'old', 'bag', 'bomb', 'into', 'fortune', 'describe', 'child', 'ordinary'] |  
+| bip_39_word_space_1 | season |  
+| bip_39_word_space_10 | season menu rent old bag bomb into fortune describe child |  
+| bip_39_word_space_11 | season menu rent old bag bomb into fortune describe child ordinary |  
+| bip_39_word_space_2 | season menu |  
+| bip_39_word_space_3 | season menu rent |  
+| bip_39_word_space_4 | season menu rent old |  
+| bip_39_word_space_5 | season menu rent old bag |  
+| bip_39_word_space_6 | season menu rent old bag bomb |  
+| bip_39_word_space_7 | season menu rent old bag bomb into |  
+| bip_39_word_space_8 | season menu rent old bag bomb into fortune |  
+| bip_39_word_space_9 | season menu rent old bag bomb into fortune describe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

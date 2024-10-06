@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shield scale
+  * bip 39 word 3: shield scale school
+  * bip 39 word: shield scale school tree cross reflect engine alley ugly hazard toward adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shield |  
+| bip_39_word_new_br10 | shield<br>scale<br>school<br>tree<br>cross<br>reflect<br>engine<br>alley<br>ugly<br>hazard |  
+| bip_39_word_new_br11 | shield<br>scale<br>school<br>tree<br>cross<br>reflect<br>engine<br>alley<br>ugly<br>hazard<br>toward |  
+| bip_39_word_new_br12 | shield<br>scale<br>school<br>tree<br>cross<br>reflect<br>engine<br>alley<br>ugly<br>hazard<br>toward<br>adult |  
+| bip_39_word_new_br2 | shield<br>scale |  
+| bip_39_word_new_br3 | shield<br>scale<br>school |  
+| bip_39_word_new_br4 | shield<br>scale<br>school<br>tree |  
+| bip_39_word_new_br5 | shield<br>scale<br>school<br>tree<br>cross |  
+| bip_39_word_new_br6 | shield<br>scale<br>school<br>tree<br>cross<br>reflect |  
+| bip_39_word_new_br7 | shield<br>scale<br>school<br>tree<br>cross<br>reflect<br>engine |  
+| bip_39_word_new_br8 | shield<br>scale<br>school<br>tree<br>cross<br>reflect<br>engine<br>alley |  
+| bip_39_word_new_br9 | shield<br>scale<br>school<br>tree<br>cross<br>reflect<br>engine<br>alley<br>ugly |  
+| bip_39_word_new_line1 | shield |  
+| bip_39_word_new_line10 | shield
+scale
+school
+tree
+cross
+reflect
+engine
+alley
+ugly
+hazard |  
+| bip_39_word_new_line11 | shield
+scale
+school
+tree
+cross
+reflect
+engine
+alley
+ugly
+hazard
+toward |  
+| bip_39_word_new_line12 | shield
+scale
+school
+tree
+cross
+reflect
+engine
+alley
+ugly
+hazard
+toward
+adult |  
+| bip_39_word_new_line2 | shield
+scale |  
+| bip_39_word_new_line3 | shield
+scale
+school |  
+| bip_39_word_new_line4 | shield
+scale
+school
+tree |  
+| bip_39_word_new_line5 | shield
+scale
+school
+tree
+cross |  
+| bip_39_word_new_line6 | shield
+scale
+school
+tree
+cross
+reflect |  
+| bip_39_word_new_line7 | shield
+scale
+school
+tree
+cross
+reflect
+engine |  
+| bip_39_word_new_line8 | shield
+scale
+school
+tree
+cross
+reflect
+engine
+alley |  
+| bip_39_word_new_line9 | shield
+scale
+school
+tree
+cross
+reflect
+engine
+alley
+ugly |  
+| bip_39_word_space_0 | ['shield', 'scale', 'school', 'tree', 'cross', 'reflect', 'engine', 'alley', 'ugly', 'hazard', 'toward', 'adult'] |  
+| bip_39_word_space_1 | shield |  
+| bip_39_word_space_10 | shield scale school tree cross reflect engine alley ugly hazard |  
+| bip_39_word_space_11 | shield scale school tree cross reflect engine alley ugly hazard toward |  
+| bip_39_word_space_12 | shield scale school tree cross reflect engine alley ugly hazard toward adult |  
+| bip_39_word_space_2 | shield scale |  
+| bip_39_word_space_3 | shield scale school |  
+| bip_39_word_space_4 | shield scale school tree |  
+| bip_39_word_space_5 | shield scale school tree cross |  
+| bip_39_word_space_6 | shield scale school tree cross reflect |  
+| bip_39_word_space_7 | shield scale school tree cross reflect engine |  
+| bip_39_word_space_8 | shield scale school tree cross reflect engine alley |  
+| bip_39_word_space_9 | shield scale school tree cross reflect engine alley ugly |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

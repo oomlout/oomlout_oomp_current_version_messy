@@ -1,3 +1,186 @@
+bip_39_word_new_br1: recall
+bip_39_word_new_br10: recall<br>sibling<br>extra<br>party<br>million<br>camp<br>olive<br>have<br>world<br>title
+bip_39_word_new_br11: recall<br>sibling<br>extra<br>party<br>million<br>camp<br>olive<br>have<br>world<br>title<br>virtual
+bip_39_word_new_br12: recall<br>sibling<br>extra<br>party<br>million<br>camp<br>olive<br>have<br>world<br>title<br>virtual<br>actual
+bip_39_word_new_br2: recall<br>sibling
+bip_39_word_new_br3: recall<br>sibling<br>extra
+bip_39_word_new_br4: recall<br>sibling<br>extra<br>party
+bip_39_word_new_br5: recall<br>sibling<br>extra<br>party<br>million
+bip_39_word_new_br6: recall<br>sibling<br>extra<br>party<br>million<br>camp
+bip_39_word_new_br7: recall<br>sibling<br>extra<br>party<br>million<br>camp<br>olive
+bip_39_word_new_br8: recall<br>sibling<br>extra<br>party<br>million<br>camp<br>olive<br>have
+bip_39_word_new_br9: recall<br>sibling<br>extra<br>party<br>million<br>camp<br>olive<br>have<br>world
+bip_39_word_new_line1: recall
+bip_39_word_new_line10: 'recall
+
+  sibling
+
+  extra
+
+  party
+
+  million
+
+  camp
+
+  olive
+
+  have
+
+  world
+
+  title'
+bip_39_word_new_line11: 'recall
+
+  sibling
+
+  extra
+
+  party
+
+  million
+
+  camp
+
+  olive
+
+  have
+
+  world
+
+  title
+
+  virtual'
+bip_39_word_new_line12: 'recall
+
+  sibling
+
+  extra
+
+  party
+
+  million
+
+  camp
+
+  olive
+
+  have
+
+  world
+
+  title
+
+  virtual
+
+  actual'
+bip_39_word_new_line2: 'recall
+
+  sibling'
+bip_39_word_new_line3: 'recall
+
+  sibling
+
+  extra'
+bip_39_word_new_line4: 'recall
+
+  sibling
+
+  extra
+
+  party'
+bip_39_word_new_line5: 'recall
+
+  sibling
+
+  extra
+
+  party
+
+  million'
+bip_39_word_new_line6: 'recall
+
+  sibling
+
+  extra
+
+  party
+
+  million
+
+  camp'
+bip_39_word_new_line7: 'recall
+
+  sibling
+
+  extra
+
+  party
+
+  million
+
+  camp
+
+  olive'
+bip_39_word_new_line8: 'recall
+
+  sibling
+
+  extra
+
+  party
+
+  million
+
+  camp
+
+  olive
+
+  have'
+bip_39_word_new_line9: 'recall
+
+  sibling
+
+  extra
+
+  party
+
+  million
+
+  camp
+
+  olive
+
+  have
+
+  world'
+bip_39_word_space_0:
+- recall
+- sibling
+- extra
+- party
+- million
+- camp
+- olive
+- have
+- world
+- title
+- virtual
+- actual
+bip_39_word_space_1: recall
+bip_39_word_space_10: recall sibling extra party million camp olive have world title
+bip_39_word_space_11: recall sibling extra party million camp olive have world title
+  virtual
+bip_39_word_space_12: recall sibling extra party million camp olive have world title
+  virtual actual
+bip_39_word_space_2: recall sibling
+bip_39_word_space_3: recall sibling extra
+bip_39_word_space_4: recall sibling extra party
+bip_39_word_space_5: recall sibling extra party million
+bip_39_word_space_6: recall sibling extra party million camp
+bip_39_word_space_7: recall sibling extra party million camp olive
+bip_39_word_space_8: recall sibling extra party million camp olive have
+bip_39_word_space_9: recall sibling extra party million camp olive have world
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

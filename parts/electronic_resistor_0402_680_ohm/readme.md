@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: valley bacon
+  * bip 39 word 3: valley bacon diesel
+  * bip 39 word: valley bacon diesel love fashion later fantasy craft word lumber toward amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | valley |  
+| bip_39_word_new_br10 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy<br>craft<br>word<br>lumber |  
+| bip_39_word_new_br11 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy<br>craft<br>word<br>lumber<br>toward |  
+| bip_39_word_new_br12 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy<br>craft<br>word<br>lumber<br>toward<br>amateur |  
+| bip_39_word_new_br2 | valley<br>bacon |  
+| bip_39_word_new_br3 | valley<br>bacon<br>diesel |  
+| bip_39_word_new_br4 | valley<br>bacon<br>diesel<br>love |  
+| bip_39_word_new_br5 | valley<br>bacon<br>diesel<br>love<br>fashion |  
+| bip_39_word_new_br6 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later |  
+| bip_39_word_new_br7 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy |  
+| bip_39_word_new_br8 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy<br>craft |  
+| bip_39_word_new_br9 | valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy<br>craft<br>word |  
+| bip_39_word_new_line1 | valley |  
+| bip_39_word_new_line10 | valley
+bacon
+diesel
+love
+fashion
+later
+fantasy
+craft
+word
+lumber |  
+| bip_39_word_new_line11 | valley
+bacon
+diesel
+love
+fashion
+later
+fantasy
+craft
+word
+lumber
+toward |  
+| bip_39_word_new_line12 | valley
+bacon
+diesel
+love
+fashion
+later
+fantasy
+craft
+word
+lumber
+toward
+amateur |  
+| bip_39_word_new_line2 | valley
+bacon |  
+| bip_39_word_new_line3 | valley
+bacon
+diesel |  
+| bip_39_word_new_line4 | valley
+bacon
+diesel
+love |  
+| bip_39_word_new_line5 | valley
+bacon
+diesel
+love
+fashion |  
+| bip_39_word_new_line6 | valley
+bacon
+diesel
+love
+fashion
+later |  
+| bip_39_word_new_line7 | valley
+bacon
+diesel
+love
+fashion
+later
+fantasy |  
+| bip_39_word_new_line8 | valley
+bacon
+diesel
+love
+fashion
+later
+fantasy
+craft |  
+| bip_39_word_new_line9 | valley
+bacon
+diesel
+love
+fashion
+later
+fantasy
+craft
+word |  
+| bip_39_word_space_0 | ['valley', 'bacon', 'diesel', 'love', 'fashion', 'later', 'fantasy', 'craft', 'word', 'lumber', 'toward', 'amateur'] |  
+| bip_39_word_space_1 | valley |  
+| bip_39_word_space_10 | valley bacon diesel love fashion later fantasy craft word lumber |  
+| bip_39_word_space_11 | valley bacon diesel love fashion later fantasy craft word lumber toward |  
+| bip_39_word_space_12 | valley bacon diesel love fashion later fantasy craft word lumber toward amateur |  
+| bip_39_word_space_2 | valley bacon |  
+| bip_39_word_space_3 | valley bacon diesel |  
+| bip_39_word_space_4 | valley bacon diesel love |  
+| bip_39_word_space_5 | valley bacon diesel love fashion |  
+| bip_39_word_space_6 | valley bacon diesel love fashion later |  
+| bip_39_word_space_7 | valley bacon diesel love fashion later fantasy |  
+| bip_39_word_space_8 | valley bacon diesel love fashion later fantasy craft |  
+| bip_39_word_space_9 | valley bacon diesel love fashion later fantasy craft word |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

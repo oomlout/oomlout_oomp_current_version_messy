@@ -1,3 +1,186 @@
+bip_39_word_new_br1: jazz
+bip_39_word_new_br10: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence<br>invite
+bip_39_word_new_br11: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence<br>invite<br>admit
+bip_39_word_new_br12: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence<br>invite<br>admit<br>all
+bip_39_word_new_br2: jazz<br>summer
+bip_39_word_new_br3: jazz<br>summer<br>upgrade
+bip_39_word_new_br4: jazz<br>summer<br>upgrade<br>cruel
+bip_39_word_new_br5: jazz<br>summer<br>upgrade<br>cruel<br>top
+bip_39_word_new_br6: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy
+bip_39_word_new_br7: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot
+bip_39_word_new_br8: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private
+bip_39_word_new_br9: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence
+bip_39_word_new_line1: jazz
+bip_39_word_new_line10: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private
+
+  fence
+
+  invite'
+bip_39_word_new_line11: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private
+
+  fence
+
+  invite
+
+  admit'
+bip_39_word_new_line12: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private
+
+  fence
+
+  invite
+
+  admit
+
+  all'
+bip_39_word_new_line2: 'jazz
+
+  summer'
+bip_39_word_new_line3: 'jazz
+
+  summer
+
+  upgrade'
+bip_39_word_new_line4: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel'
+bip_39_word_new_line5: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top'
+bip_39_word_new_line6: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy'
+bip_39_word_new_line7: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot'
+bip_39_word_new_line8: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private'
+bip_39_word_new_line9: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private
+
+  fence'
+bip_39_word_space_0:
+- jazz
+- summer
+- upgrade
+- cruel
+- top
+- unhappy
+- pilot
+- private
+- fence
+- invite
+- admit
+- all
+bip_39_word_space_1: jazz
+bip_39_word_space_10: jazz summer upgrade cruel top unhappy pilot private fence invite
+bip_39_word_space_11: jazz summer upgrade cruel top unhappy pilot private fence invite
+  admit
+bip_39_word_space_12: jazz summer upgrade cruel top unhappy pilot private fence invite
+  admit all
+bip_39_word_space_2: jazz summer
+bip_39_word_space_3: jazz summer upgrade
+bip_39_word_space_4: jazz summer upgrade cruel
+bip_39_word_space_5: jazz summer upgrade cruel top
+bip_39_word_space_6: jazz summer upgrade cruel top unhappy
+bip_39_word_space_7: jazz summer upgrade cruel top unhappy pilot
+bip_39_word_space_8: jazz summer upgrade cruel top unhappy pilot private
+bip_39_word_space_9: jazz summer upgrade cruel top unhappy pilot private fence
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

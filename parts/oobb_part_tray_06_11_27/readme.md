@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prize lock
+  * bip 39 word 3: prize lock pulp
+  * bip 39 word: prize lock pulp aware rug twelve midnight general input emotion bless all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prize |  
+| bip_39_word_new_br10 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve<br>midnight<br>general<br>input<br>emotion |  
+| bip_39_word_new_br11 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve<br>midnight<br>general<br>input<br>emotion<br>bless |  
+| bip_39_word_new_br12 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve<br>midnight<br>general<br>input<br>emotion<br>bless<br>all |  
+| bip_39_word_new_br2 | prize<br>lock |  
+| bip_39_word_new_br3 | prize<br>lock<br>pulp |  
+| bip_39_word_new_br4 | prize<br>lock<br>pulp<br>aware |  
+| bip_39_word_new_br5 | prize<br>lock<br>pulp<br>aware<br>rug |  
+| bip_39_word_new_br6 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve |  
+| bip_39_word_new_br7 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve<br>midnight |  
+| bip_39_word_new_br8 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve<br>midnight<br>general |  
+| bip_39_word_new_br9 | prize<br>lock<br>pulp<br>aware<br>rug<br>twelve<br>midnight<br>general<br>input |  
+| bip_39_word_new_line1 | prize |  
+| bip_39_word_new_line10 | prize
+lock
+pulp
+aware
+rug
+twelve
+midnight
+general
+input
+emotion |  
+| bip_39_word_new_line11 | prize
+lock
+pulp
+aware
+rug
+twelve
+midnight
+general
+input
+emotion
+bless |  
+| bip_39_word_new_line12 | prize
+lock
+pulp
+aware
+rug
+twelve
+midnight
+general
+input
+emotion
+bless
+all |  
+| bip_39_word_new_line2 | prize
+lock |  
+| bip_39_word_new_line3 | prize
+lock
+pulp |  
+| bip_39_word_new_line4 | prize
+lock
+pulp
+aware |  
+| bip_39_word_new_line5 | prize
+lock
+pulp
+aware
+rug |  
+| bip_39_word_new_line6 | prize
+lock
+pulp
+aware
+rug
+twelve |  
+| bip_39_word_new_line7 | prize
+lock
+pulp
+aware
+rug
+twelve
+midnight |  
+| bip_39_word_new_line8 | prize
+lock
+pulp
+aware
+rug
+twelve
+midnight
+general |  
+| bip_39_word_new_line9 | prize
+lock
+pulp
+aware
+rug
+twelve
+midnight
+general
+input |  
+| bip_39_word_space_0 | ['prize', 'lock', 'pulp', 'aware', 'rug', 'twelve', 'midnight', 'general', 'input', 'emotion', 'bless', 'all'] |  
+| bip_39_word_space_1 | prize |  
+| bip_39_word_space_10 | prize lock pulp aware rug twelve midnight general input emotion |  
+| bip_39_word_space_11 | prize lock pulp aware rug twelve midnight general input emotion bless |  
+| bip_39_word_space_12 | prize lock pulp aware rug twelve midnight general input emotion bless all |  
+| bip_39_word_space_2 | prize lock |  
+| bip_39_word_space_3 | prize lock pulp |  
+| bip_39_word_space_4 | prize lock pulp aware |  
+| bip_39_word_space_5 | prize lock pulp aware rug |  
+| bip_39_word_space_6 | prize lock pulp aware rug twelve |  
+| bip_39_word_space_7 | prize lock pulp aware rug twelve midnight |  
+| bip_39_word_space_8 | prize lock pulp aware rug twelve midnight general |  
+| bip_39_word_space_9 | prize lock pulp aware rug twelve midnight general input |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

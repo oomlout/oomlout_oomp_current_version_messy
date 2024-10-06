@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: second observe
+  * bip 39 word 3: second observe inmate
+  * bip 39 word: second observe inmate woman acoustic season voyage blouse rail wait evidence artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | second |  
+| bip_39_word_new_br10 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season<br>voyage<br>blouse<br>rail<br>wait |  
+| bip_39_word_new_br11 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season<br>voyage<br>blouse<br>rail<br>wait<br>evidence |  
+| bip_39_word_new_br12 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season<br>voyage<br>blouse<br>rail<br>wait<br>evidence<br>artist |  
+| bip_39_word_new_br2 | second<br>observe |  
+| bip_39_word_new_br3 | second<br>observe<br>inmate |  
+| bip_39_word_new_br4 | second<br>observe<br>inmate<br>woman |  
+| bip_39_word_new_br5 | second<br>observe<br>inmate<br>woman<br>acoustic |  
+| bip_39_word_new_br6 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season |  
+| bip_39_word_new_br7 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season<br>voyage |  
+| bip_39_word_new_br8 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season<br>voyage<br>blouse |  
+| bip_39_word_new_br9 | second<br>observe<br>inmate<br>woman<br>acoustic<br>season<br>voyage<br>blouse<br>rail |  
+| bip_39_word_new_line1 | second |  
+| bip_39_word_new_line10 | second
+observe
+inmate
+woman
+acoustic
+season
+voyage
+blouse
+rail
+wait |  
+| bip_39_word_new_line11 | second
+observe
+inmate
+woman
+acoustic
+season
+voyage
+blouse
+rail
+wait
+evidence |  
+| bip_39_word_new_line12 | second
+observe
+inmate
+woman
+acoustic
+season
+voyage
+blouse
+rail
+wait
+evidence
+artist |  
+| bip_39_word_new_line2 | second
+observe |  
+| bip_39_word_new_line3 | second
+observe
+inmate |  
+| bip_39_word_new_line4 | second
+observe
+inmate
+woman |  
+| bip_39_word_new_line5 | second
+observe
+inmate
+woman
+acoustic |  
+| bip_39_word_new_line6 | second
+observe
+inmate
+woman
+acoustic
+season |  
+| bip_39_word_new_line7 | second
+observe
+inmate
+woman
+acoustic
+season
+voyage |  
+| bip_39_word_new_line8 | second
+observe
+inmate
+woman
+acoustic
+season
+voyage
+blouse |  
+| bip_39_word_new_line9 | second
+observe
+inmate
+woman
+acoustic
+season
+voyage
+blouse
+rail |  
+| bip_39_word_space_0 | ['second', 'observe', 'inmate', 'woman', 'acoustic', 'season', 'voyage', 'blouse', 'rail', 'wait', 'evidence', 'artist'] |  
+| bip_39_word_space_1 | second |  
+| bip_39_word_space_10 | second observe inmate woman acoustic season voyage blouse rail wait |  
+| bip_39_word_space_11 | second observe inmate woman acoustic season voyage blouse rail wait evidence |  
+| bip_39_word_space_12 | second observe inmate woman acoustic season voyage blouse rail wait evidence artist |  
+| bip_39_word_space_2 | second observe |  
+| bip_39_word_space_3 | second observe inmate |  
+| bip_39_word_space_4 | second observe inmate woman |  
+| bip_39_word_space_5 | second observe inmate woman acoustic |  
+| bip_39_word_space_6 | second observe inmate woman acoustic season |  
+| bip_39_word_space_7 | second observe inmate woman acoustic season voyage |  
+| bip_39_word_space_8 | second observe inmate woman acoustic season voyage blouse |  
+| bip_39_word_space_9 | second observe inmate woman acoustic season voyage blouse rail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

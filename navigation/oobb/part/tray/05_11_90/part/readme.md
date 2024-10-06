@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: turtle decrease
+  * bip 39 word 3: turtle decrease option
+  * bip 39 word: turtle decrease option punch unfair invest caught hazard art equal power acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | turtle |  
+| bip_39_word_new_br10 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal |  
+| bip_39_word_new_br11 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal<br>power |  
+| bip_39_word_new_br12 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art<br>equal<br>power<br>acquire |  
+| bip_39_word_new_br2 | turtle<br>decrease |  
+| bip_39_word_new_br3 | turtle<br>decrease<br>option |  
+| bip_39_word_new_br4 | turtle<br>decrease<br>option<br>punch |  
+| bip_39_word_new_br5 | turtle<br>decrease<br>option<br>punch<br>unfair |  
+| bip_39_word_new_br6 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest |  
+| bip_39_word_new_br7 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught |  
+| bip_39_word_new_br8 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard |  
+| bip_39_word_new_br9 | turtle<br>decrease<br>option<br>punch<br>unfair<br>invest<br>caught<br>hazard<br>art |  
+| bip_39_word_new_line1 | turtle |  
+| bip_39_word_new_line10 | turtle
+decrease
+option
+punch
+unfair
+invest
+caught
+hazard
+art
+equal |  
+| bip_39_word_new_line11 | turtle
+decrease
+option
+punch
+unfair
+invest
+caught
+hazard
+art
+equal
+power |  
+| bip_39_word_new_line12 | turtle
+decrease
+option
+punch
+unfair
+invest
+caught
+hazard
+art
+equal
+power
+acquire |  
+| bip_39_word_new_line2 | turtle
+decrease |  
+| bip_39_word_new_line3 | turtle
+decrease
+option |  
+| bip_39_word_new_line4 | turtle
+decrease
+option
+punch |  
+| bip_39_word_new_line5 | turtle
+decrease
+option
+punch
+unfair |  
+| bip_39_word_new_line6 | turtle
+decrease
+option
+punch
+unfair
+invest |  
+| bip_39_word_new_line7 | turtle
+decrease
+option
+punch
+unfair
+invest
+caught |  
+| bip_39_word_new_line8 | turtle
+decrease
+option
+punch
+unfair
+invest
+caught
+hazard |  
+| bip_39_word_new_line9 | turtle
+decrease
+option
+punch
+unfair
+invest
+caught
+hazard
+art |  
+| bip_39_word_space_0 | ['turtle', 'decrease', 'option', 'punch', 'unfair', 'invest', 'caught', 'hazard', 'art', 'equal', 'power', 'acquire'] |  
+| bip_39_word_space_1 | turtle |  
+| bip_39_word_space_10 | turtle decrease option punch unfair invest caught hazard art equal |  
+| bip_39_word_space_11 | turtle decrease option punch unfair invest caught hazard art equal power |  
+| bip_39_word_space_12 | turtle decrease option punch unfair invest caught hazard art equal power acquire |  
+| bip_39_word_space_2 | turtle decrease |  
+| bip_39_word_space_3 | turtle decrease option |  
+| bip_39_word_space_4 | turtle decrease option punch |  
+| bip_39_word_space_5 | turtle decrease option punch unfair |  
+| bip_39_word_space_6 | turtle decrease option punch unfair invest |  
+| bip_39_word_space_7 | turtle decrease option punch unfair invest caught |  
+| bip_39_word_space_8 | turtle decrease option punch unfair invest caught hazard |  
+| bip_39_word_space_9 | turtle decrease option punch unfair invest caught hazard art |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

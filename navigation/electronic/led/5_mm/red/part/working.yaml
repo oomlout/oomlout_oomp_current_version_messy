@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ladder
+bip_39_word_new_br10: ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime
+bip_39_word_new_br11: ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime<br>cloth
+bip_39_word_new_br12: ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust<br>crime<br>cloth<br>adapt
+bip_39_word_new_br2: ladder<br>great
+bip_39_word_new_br3: ladder<br>great<br>code
+bip_39_word_new_br4: ladder<br>great<br>code<br>host
+bip_39_word_new_br5: ladder<br>great<br>code<br>host<br>damage
+bip_39_word_new_br6: ladder<br>great<br>code<br>host<br>damage<br>balance
+bip_39_word_new_br7: ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower
+bip_39_word_new_br8: ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle
+bip_39_word_new_br9: ladder<br>great<br>code<br>host<br>damage<br>balance<br>empower<br>turtle<br>exhaust
+bip_39_word_new_line1: ladder
+bip_39_word_new_line10: 'ladder
+
+  great
+
+  code
+
+  host
+
+  damage
+
+  balance
+
+  empower
+
+  turtle
+
+  exhaust
+
+  crime'
+bip_39_word_new_line11: 'ladder
+
+  great
+
+  code
+
+  host
+
+  damage
+
+  balance
+
+  empower
+
+  turtle
+
+  exhaust
+
+  crime
+
+  cloth'
+bip_39_word_new_line12: 'ladder
+
+  great
+
+  code
+
+  host
+
+  damage
+
+  balance
+
+  empower
+
+  turtle
+
+  exhaust
+
+  crime
+
+  cloth
+
+  adapt'
+bip_39_word_new_line2: 'ladder
+
+  great'
+bip_39_word_new_line3: 'ladder
+
+  great
+
+  code'
+bip_39_word_new_line4: 'ladder
+
+  great
+
+  code
+
+  host'
+bip_39_word_new_line5: 'ladder
+
+  great
+
+  code
+
+  host
+
+  damage'
+bip_39_word_new_line6: 'ladder
+
+  great
+
+  code
+
+  host
+
+  damage
+
+  balance'
+bip_39_word_new_line7: 'ladder
+
+  great
+
+  code
+
+  host
+
+  damage
+
+  balance
+
+  empower'
+bip_39_word_new_line8: 'ladder
+
+  great
+
+  code
+
+  host
+
+  damage
+
+  balance
+
+  empower
+
+  turtle'
+bip_39_word_new_line9: 'ladder
+
+  great
+
+  code
+
+  host
+
+  damage
+
+  balance
+
+  empower
+
+  turtle
+
+  exhaust'
+bip_39_word_space_0:
+- ladder
+- great
+- code
+- host
+- damage
+- balance
+- empower
+- turtle
+- exhaust
+- crime
+- cloth
+- adapt
+bip_39_word_space_1: ladder
+bip_39_word_space_10: ladder great code host damage balance empower turtle exhaust
+  crime
+bip_39_word_space_11: ladder great code host damage balance empower turtle exhaust
+  crime cloth
+bip_39_word_space_12: ladder great code host damage balance empower turtle exhaust
+  crime cloth adapt
+bip_39_word_space_2: ladder great
+bip_39_word_space_3: ladder great code
+bip_39_word_space_4: ladder great code host
+bip_39_word_space_5: ladder great code host damage
+bip_39_word_space_6: ladder great code host damage balance
+bip_39_word_space_7: ladder great code host damage balance empower
+bip_39_word_space_8: ladder great code host damage balance empower turtle
+bip_39_word_space_9: ladder great code host damage balance empower turtle exhaust
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

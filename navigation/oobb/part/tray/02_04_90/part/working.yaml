@@ -1,3 +1,185 @@
+bip_39_word_new_br1: spin
+bip_39_word_new_br10: spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual
+bip_39_word_new_br11: spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual<br>ball
+bip_39_word_new_br12: spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run<br>virtual<br>ball<br>about
+bip_39_word_new_br2: spin<br>coffee
+bip_39_word_new_br3: spin<br>coffee<br>delay
+bip_39_word_new_br4: spin<br>coffee<br>delay<br>salute
+bip_39_word_new_br5: spin<br>coffee<br>delay<br>salute<br>music
+bip_39_word_new_br6: spin<br>coffee<br>delay<br>salute<br>music<br>clay
+bip_39_word_new_br7: spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick
+bip_39_word_new_br8: spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck
+bip_39_word_new_br9: spin<br>coffee<br>delay<br>salute<br>music<br>clay<br>kick<br>truck<br>run
+bip_39_word_new_line1: spin
+bip_39_word_new_line10: 'spin
+
+  coffee
+
+  delay
+
+  salute
+
+  music
+
+  clay
+
+  kick
+
+  truck
+
+  run
+
+  virtual'
+bip_39_word_new_line11: 'spin
+
+  coffee
+
+  delay
+
+  salute
+
+  music
+
+  clay
+
+  kick
+
+  truck
+
+  run
+
+  virtual
+
+  ball'
+bip_39_word_new_line12: 'spin
+
+  coffee
+
+  delay
+
+  salute
+
+  music
+
+  clay
+
+  kick
+
+  truck
+
+  run
+
+  virtual
+
+  ball
+
+  about'
+bip_39_word_new_line2: 'spin
+
+  coffee'
+bip_39_word_new_line3: 'spin
+
+  coffee
+
+  delay'
+bip_39_word_new_line4: 'spin
+
+  coffee
+
+  delay
+
+  salute'
+bip_39_word_new_line5: 'spin
+
+  coffee
+
+  delay
+
+  salute
+
+  music'
+bip_39_word_new_line6: 'spin
+
+  coffee
+
+  delay
+
+  salute
+
+  music
+
+  clay'
+bip_39_word_new_line7: 'spin
+
+  coffee
+
+  delay
+
+  salute
+
+  music
+
+  clay
+
+  kick'
+bip_39_word_new_line8: 'spin
+
+  coffee
+
+  delay
+
+  salute
+
+  music
+
+  clay
+
+  kick
+
+  truck'
+bip_39_word_new_line9: 'spin
+
+  coffee
+
+  delay
+
+  salute
+
+  music
+
+  clay
+
+  kick
+
+  truck
+
+  run'
+bip_39_word_space_0:
+- spin
+- coffee
+- delay
+- salute
+- music
+- clay
+- kick
+- truck
+- run
+- virtual
+- ball
+- about
+bip_39_word_space_1: spin
+bip_39_word_space_10: spin coffee delay salute music clay kick truck run virtual
+bip_39_word_space_11: spin coffee delay salute music clay kick truck run virtual ball
+bip_39_word_space_12: spin coffee delay salute music clay kick truck run virtual ball
+  about
+bip_39_word_space_2: spin coffee
+bip_39_word_space_3: spin coffee delay
+bip_39_word_space_4: spin coffee delay salute
+bip_39_word_space_5: spin coffee delay salute music
+bip_39_word_space_6: spin coffee delay salute music clay
+bip_39_word_space_7: spin coffee delay salute music clay kick
+bip_39_word_space_8: spin coffee delay salute music clay kick truck
+bip_39_word_space_9: spin coffee delay salute music clay kick truck run
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

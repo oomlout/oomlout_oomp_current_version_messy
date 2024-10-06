@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: liquid actual
+  * bip 39 word 3: liquid actual essay
+  * bip 39 word: liquid actual essay birth adjust that grass cake laugh shiver digital aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | liquid |  
+| bip_39_word_new_br10 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that<br>grass<br>cake<br>laugh<br>shiver |  
+| bip_39_word_new_br11 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that<br>grass<br>cake<br>laugh<br>shiver<br>digital |  
+| bip_39_word_new_br12 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that<br>grass<br>cake<br>laugh<br>shiver<br>digital<br>aerobic |  
+| bip_39_word_new_br2 | liquid<br>actual |  
+| bip_39_word_new_br3 | liquid<br>actual<br>essay |  
+| bip_39_word_new_br4 | liquid<br>actual<br>essay<br>birth |  
+| bip_39_word_new_br5 | liquid<br>actual<br>essay<br>birth<br>adjust |  
+| bip_39_word_new_br6 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that |  
+| bip_39_word_new_br7 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that<br>grass |  
+| bip_39_word_new_br8 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that<br>grass<br>cake |  
+| bip_39_word_new_br9 | liquid<br>actual<br>essay<br>birth<br>adjust<br>that<br>grass<br>cake<br>laugh |  
+| bip_39_word_new_line1 | liquid |  
+| bip_39_word_new_line10 | liquid
+actual
+essay
+birth
+adjust
+that
+grass
+cake
+laugh
+shiver |  
+| bip_39_word_new_line11 | liquid
+actual
+essay
+birth
+adjust
+that
+grass
+cake
+laugh
+shiver
+digital |  
+| bip_39_word_new_line12 | liquid
+actual
+essay
+birth
+adjust
+that
+grass
+cake
+laugh
+shiver
+digital
+aerobic |  
+| bip_39_word_new_line2 | liquid
+actual |  
+| bip_39_word_new_line3 | liquid
+actual
+essay |  
+| bip_39_word_new_line4 | liquid
+actual
+essay
+birth |  
+| bip_39_word_new_line5 | liquid
+actual
+essay
+birth
+adjust |  
+| bip_39_word_new_line6 | liquid
+actual
+essay
+birth
+adjust
+that |  
+| bip_39_word_new_line7 | liquid
+actual
+essay
+birth
+adjust
+that
+grass |  
+| bip_39_word_new_line8 | liquid
+actual
+essay
+birth
+adjust
+that
+grass
+cake |  
+| bip_39_word_new_line9 | liquid
+actual
+essay
+birth
+adjust
+that
+grass
+cake
+laugh |  
+| bip_39_word_space_0 | ['liquid', 'actual', 'essay', 'birth', 'adjust', 'that', 'grass', 'cake', 'laugh', 'shiver', 'digital', 'aerobic'] |  
+| bip_39_word_space_1 | liquid |  
+| bip_39_word_space_10 | liquid actual essay birth adjust that grass cake laugh shiver |  
+| bip_39_word_space_11 | liquid actual essay birth adjust that grass cake laugh shiver digital |  
+| bip_39_word_space_12 | liquid actual essay birth adjust that grass cake laugh shiver digital aerobic |  
+| bip_39_word_space_2 | liquid actual |  
+| bip_39_word_space_3 | liquid actual essay |  
+| bip_39_word_space_4 | liquid actual essay birth |  
+| bip_39_word_space_5 | liquid actual essay birth adjust |  
+| bip_39_word_space_6 | liquid actual essay birth adjust that |  
+| bip_39_word_space_7 | liquid actual essay birth adjust that grass |  
+| bip_39_word_space_8 | liquid actual essay birth adjust that grass cake |  
+| bip_39_word_space_9 | liquid actual essay birth adjust that grass cake laugh |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

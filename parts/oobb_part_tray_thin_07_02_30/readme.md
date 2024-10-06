@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: opera sheriff
+  * bip 39 word 3: opera sheriff brief
+  * bip 39 word: opera sheriff brief snap cancel badge custom speed turtle trade whisper alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | opera |  
+| bip_39_word_new_br10 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle<br>trade |  
+| bip_39_word_new_br11 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle<br>trade<br>whisper |  
+| bip_39_word_new_br12 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle<br>trade<br>whisper<br>alter |  
+| bip_39_word_new_br2 | opera<br>sheriff |  
+| bip_39_word_new_br3 | opera<br>sheriff<br>brief |  
+| bip_39_word_new_br4 | opera<br>sheriff<br>brief<br>snap |  
+| bip_39_word_new_br5 | opera<br>sheriff<br>brief<br>snap<br>cancel |  
+| bip_39_word_new_br6 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge |  
+| bip_39_word_new_br7 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom |  
+| bip_39_word_new_br8 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed |  
+| bip_39_word_new_br9 | opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle |  
+| bip_39_word_new_line1 | opera |  
+| bip_39_word_new_line10 | opera
+sheriff
+brief
+snap
+cancel
+badge
+custom
+speed
+turtle
+trade |  
+| bip_39_word_new_line11 | opera
+sheriff
+brief
+snap
+cancel
+badge
+custom
+speed
+turtle
+trade
+whisper |  
+| bip_39_word_new_line12 | opera
+sheriff
+brief
+snap
+cancel
+badge
+custom
+speed
+turtle
+trade
+whisper
+alter |  
+| bip_39_word_new_line2 | opera
+sheriff |  
+| bip_39_word_new_line3 | opera
+sheriff
+brief |  
+| bip_39_word_new_line4 | opera
+sheriff
+brief
+snap |  
+| bip_39_word_new_line5 | opera
+sheriff
+brief
+snap
+cancel |  
+| bip_39_word_new_line6 | opera
+sheriff
+brief
+snap
+cancel
+badge |  
+| bip_39_word_new_line7 | opera
+sheriff
+brief
+snap
+cancel
+badge
+custom |  
+| bip_39_word_new_line8 | opera
+sheriff
+brief
+snap
+cancel
+badge
+custom
+speed |  
+| bip_39_word_new_line9 | opera
+sheriff
+brief
+snap
+cancel
+badge
+custom
+speed
+turtle |  
+| bip_39_word_space_0 | ['opera', 'sheriff', 'brief', 'snap', 'cancel', 'badge', 'custom', 'speed', 'turtle', 'trade', 'whisper', 'alter'] |  
+| bip_39_word_space_1 | opera |  
+| bip_39_word_space_10 | opera sheriff brief snap cancel badge custom speed turtle trade |  
+| bip_39_word_space_11 | opera sheriff brief snap cancel badge custom speed turtle trade whisper |  
+| bip_39_word_space_12 | opera sheriff brief snap cancel badge custom speed turtle trade whisper alter |  
+| bip_39_word_space_2 | opera sheriff |  
+| bip_39_word_space_3 | opera sheriff brief |  
+| bip_39_word_space_4 | opera sheriff brief snap |  
+| bip_39_word_space_5 | opera sheriff brief snap cancel |  
+| bip_39_word_space_6 | opera sheriff brief snap cancel badge |  
+| bip_39_word_space_7 | opera sheriff brief snap cancel badge custom |  
+| bip_39_word_space_8 | opera sheriff brief snap cancel badge custom speed |  
+| bip_39_word_space_9 | opera sheriff brief snap cancel badge custom speed turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: puppy combine
+  * bip 39 word 3: puppy combine member
+  * bip 39 word: puppy combine member morning parent sorry gossip menu uncover parent today appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | puppy |  
+| bip_39_word_new_br10 | puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover<br>parent |  
+| bip_39_word_new_br11 | puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover<br>parent<br>today |  
+| bip_39_word_new_br12 | puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover<br>parent<br>today<br>appear |  
+| bip_39_word_new_br2 | puppy<br>combine |  
+| bip_39_word_new_br3 | puppy<br>combine<br>member |  
+| bip_39_word_new_br4 | puppy<br>combine<br>member<br>morning |  
+| bip_39_word_new_br5 | puppy<br>combine<br>member<br>morning<br>parent |  
+| bip_39_word_new_br6 | puppy<br>combine<br>member<br>morning<br>parent<br>sorry |  
+| bip_39_word_new_br7 | puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip |  
+| bip_39_word_new_br8 | puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu |  
+| bip_39_word_new_br9 | puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover |  
+| bip_39_word_new_line1 | puppy |  
+| bip_39_word_new_line10 | puppy
+combine
+member
+morning
+parent
+sorry
+gossip
+menu
+uncover
+parent |  
+| bip_39_word_new_line11 | puppy
+combine
+member
+morning
+parent
+sorry
+gossip
+menu
+uncover
+parent
+today |  
+| bip_39_word_new_line12 | puppy
+combine
+member
+morning
+parent
+sorry
+gossip
+menu
+uncover
+parent
+today
+appear |  
+| bip_39_word_new_line2 | puppy
+combine |  
+| bip_39_word_new_line3 | puppy
+combine
+member |  
+| bip_39_word_new_line4 | puppy
+combine
+member
+morning |  
+| bip_39_word_new_line5 | puppy
+combine
+member
+morning
+parent |  
+| bip_39_word_new_line6 | puppy
+combine
+member
+morning
+parent
+sorry |  
+| bip_39_word_new_line7 | puppy
+combine
+member
+morning
+parent
+sorry
+gossip |  
+| bip_39_word_new_line8 | puppy
+combine
+member
+morning
+parent
+sorry
+gossip
+menu |  
+| bip_39_word_new_line9 | puppy
+combine
+member
+morning
+parent
+sorry
+gossip
+menu
+uncover |  
+| bip_39_word_space_0 | ['puppy', 'combine', 'member', 'morning', 'parent', 'sorry', 'gossip', 'menu', 'uncover', 'parent', 'today', 'appear'] |  
+| bip_39_word_space_1 | puppy |  
+| bip_39_word_space_10 | puppy combine member morning parent sorry gossip menu uncover parent |  
+| bip_39_word_space_11 | puppy combine member morning parent sorry gossip menu uncover parent today |  
+| bip_39_word_space_12 | puppy combine member morning parent sorry gossip menu uncover parent today appear |  
+| bip_39_word_space_2 | puppy combine |  
+| bip_39_word_space_3 | puppy combine member |  
+| bip_39_word_space_4 | puppy combine member morning |  
+| bip_39_word_space_5 | puppy combine member morning parent |  
+| bip_39_word_space_6 | puppy combine member morning parent sorry |  
+| bip_39_word_space_7 | puppy combine member morning parent sorry gossip |  
+| bip_39_word_space_8 | puppy combine member morning parent sorry gossip menu |  
+| bip_39_word_space_9 | puppy combine member morning parent sorry gossip menu uncover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

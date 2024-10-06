@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: a
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: neglect hen
+  * bip 39 word 3: neglect hen labor
+  * bip 39 word: neglect hen labor alert train column stay glow sting stay wish album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | neglect |  
+| bip_39_word_new_br10 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay |  
+| bip_39_word_new_br11 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay<br>wish |  
+| bip_39_word_new_br12 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting<br>stay<br>wish<br>album |  
+| bip_39_word_new_br2 | neglect<br>hen |  
+| bip_39_word_new_br3 | neglect<br>hen<br>labor |  
+| bip_39_word_new_br4 | neglect<br>hen<br>labor<br>alert |  
+| bip_39_word_new_br5 | neglect<br>hen<br>labor<br>alert<br>train |  
+| bip_39_word_new_br6 | neglect<br>hen<br>labor<br>alert<br>train<br>column |  
+| bip_39_word_new_br7 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay |  
+| bip_39_word_new_br8 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow |  
+| bip_39_word_new_br9 | neglect<br>hen<br>labor<br>alert<br>train<br>column<br>stay<br>glow<br>sting |  
+| bip_39_word_new_line1 | neglect |  
+| bip_39_word_new_line10 | neglect
+hen
+labor
+alert
+train
+column
+stay
+glow
+sting
+stay |  
+| bip_39_word_new_line11 | neglect
+hen
+labor
+alert
+train
+column
+stay
+glow
+sting
+stay
+wish |  
+| bip_39_word_new_line12 | neglect
+hen
+labor
+alert
+train
+column
+stay
+glow
+sting
+stay
+wish
+album |  
+| bip_39_word_new_line2 | neglect
+hen |  
+| bip_39_word_new_line3 | neglect
+hen
+labor |  
+| bip_39_word_new_line4 | neglect
+hen
+labor
+alert |  
+| bip_39_word_new_line5 | neglect
+hen
+labor
+alert
+train |  
+| bip_39_word_new_line6 | neglect
+hen
+labor
+alert
+train
+column |  
+| bip_39_word_new_line7 | neglect
+hen
+labor
+alert
+train
+column
+stay |  
+| bip_39_word_new_line8 | neglect
+hen
+labor
+alert
+train
+column
+stay
+glow |  
+| bip_39_word_new_line9 | neglect
+hen
+labor
+alert
+train
+column
+stay
+glow
+sting |  
+| bip_39_word_space_0 | ['neglect', 'hen', 'labor', 'alert', 'train', 'column', 'stay', 'glow', 'sting', 'stay', 'wish', 'album'] |  
+| bip_39_word_space_1 | neglect |  
+| bip_39_word_space_10 | neglect hen labor alert train column stay glow sting stay |  
+| bip_39_word_space_11 | neglect hen labor alert train column stay glow sting stay wish |  
+| bip_39_word_space_12 | neglect hen labor alert train column stay glow sting stay wish album |  
+| bip_39_word_space_2 | neglect hen |  
+| bip_39_word_space_3 | neglect hen labor |  
+| bip_39_word_space_4 | neglect hen labor alert |  
+| bip_39_word_space_5 | neglect hen labor alert train |  
+| bip_39_word_space_6 | neglect hen labor alert train column |  
+| bip_39_word_space_7 | neglect hen labor alert train column stay |  
+| bip_39_word_space_8 | neglect hen labor alert train column stay glow |  
+| bip_39_word_space_9 | neglect hen labor alert train column stay glow sting |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

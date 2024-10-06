@@ -1,3 +1,187 @@
+bip_39_word_new_br1: text
+bip_39_word_new_br10: text<br>ripple<br>major<br>little<br>group<br>timber<br>scatter<br>explain<br>retreat<br>express
+bip_39_word_new_br11: text<br>ripple<br>major<br>little<br>group<br>timber<br>scatter<br>explain<br>retreat<br>express<br>hunt
+bip_39_word_new_br12: text<br>ripple<br>major<br>little<br>group<br>timber<br>scatter<br>explain<br>retreat<br>express<br>hunt<br>arctic
+bip_39_word_new_br2: text<br>ripple
+bip_39_word_new_br3: text<br>ripple<br>major
+bip_39_word_new_br4: text<br>ripple<br>major<br>little
+bip_39_word_new_br5: text<br>ripple<br>major<br>little<br>group
+bip_39_word_new_br6: text<br>ripple<br>major<br>little<br>group<br>timber
+bip_39_word_new_br7: text<br>ripple<br>major<br>little<br>group<br>timber<br>scatter
+bip_39_word_new_br8: text<br>ripple<br>major<br>little<br>group<br>timber<br>scatter<br>explain
+bip_39_word_new_br9: text<br>ripple<br>major<br>little<br>group<br>timber<br>scatter<br>explain<br>retreat
+bip_39_word_new_line1: text
+bip_39_word_new_line10: 'text
+
+  ripple
+
+  major
+
+  little
+
+  group
+
+  timber
+
+  scatter
+
+  explain
+
+  retreat
+
+  express'
+bip_39_word_new_line11: 'text
+
+  ripple
+
+  major
+
+  little
+
+  group
+
+  timber
+
+  scatter
+
+  explain
+
+  retreat
+
+  express
+
+  hunt'
+bip_39_word_new_line12: 'text
+
+  ripple
+
+  major
+
+  little
+
+  group
+
+  timber
+
+  scatter
+
+  explain
+
+  retreat
+
+  express
+
+  hunt
+
+  arctic'
+bip_39_word_new_line2: 'text
+
+  ripple'
+bip_39_word_new_line3: 'text
+
+  ripple
+
+  major'
+bip_39_word_new_line4: 'text
+
+  ripple
+
+  major
+
+  little'
+bip_39_word_new_line5: 'text
+
+  ripple
+
+  major
+
+  little
+
+  group'
+bip_39_word_new_line6: 'text
+
+  ripple
+
+  major
+
+  little
+
+  group
+
+  timber'
+bip_39_word_new_line7: 'text
+
+  ripple
+
+  major
+
+  little
+
+  group
+
+  timber
+
+  scatter'
+bip_39_word_new_line8: 'text
+
+  ripple
+
+  major
+
+  little
+
+  group
+
+  timber
+
+  scatter
+
+  explain'
+bip_39_word_new_line9: 'text
+
+  ripple
+
+  major
+
+  little
+
+  group
+
+  timber
+
+  scatter
+
+  explain
+
+  retreat'
+bip_39_word_space_0:
+- text
+- ripple
+- major
+- little
+- group
+- timber
+- scatter
+- explain
+- retreat
+- express
+- hunt
+- arctic
+bip_39_word_space_1: text
+bip_39_word_space_10: text ripple major little group timber scatter explain retreat
+  express
+bip_39_word_space_11: text ripple major little group timber scatter explain retreat
+  express hunt
+bip_39_word_space_12: text ripple major little group timber scatter explain retreat
+  express hunt arctic
+bip_39_word_space_2: text ripple
+bip_39_word_space_3: text ripple major
+bip_39_word_space_4: text ripple major little
+bip_39_word_space_5: text ripple major little group
+bip_39_word_space_6: text ripple major little group timber
+bip_39_word_space_7: text ripple major little group timber scatter
+bip_39_word_space_8: text ripple major little group timber scatter explain
+bip_39_word_space_9: text ripple major little group timber scatter explain retreat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

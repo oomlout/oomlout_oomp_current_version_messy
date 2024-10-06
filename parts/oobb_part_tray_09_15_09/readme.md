@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toilet horror
+  * bip 39 word 3: toilet horror tongue
+  * bip 39 word: toilet horror tongue shell brick force fence black inherit exist stage adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toilet |  
+| bip_39_word_new_br10 | toilet<br>horror<br>tongue<br>shell<br>brick<br>force<br>fence<br>black<br>inherit<br>exist |  
+| bip_39_word_new_br11 | toilet<br>horror<br>tongue<br>shell<br>brick<br>force<br>fence<br>black<br>inherit<br>exist<br>stage |  
+| bip_39_word_new_br12 | toilet<br>horror<br>tongue<br>shell<br>brick<br>force<br>fence<br>black<br>inherit<br>exist<br>stage<br>adjust |  
+| bip_39_word_new_br2 | toilet<br>horror |  
+| bip_39_word_new_br3 | toilet<br>horror<br>tongue |  
+| bip_39_word_new_br4 | toilet<br>horror<br>tongue<br>shell |  
+| bip_39_word_new_br5 | toilet<br>horror<br>tongue<br>shell<br>brick |  
+| bip_39_word_new_br6 | toilet<br>horror<br>tongue<br>shell<br>brick<br>force |  
+| bip_39_word_new_br7 | toilet<br>horror<br>tongue<br>shell<br>brick<br>force<br>fence |  
+| bip_39_word_new_br8 | toilet<br>horror<br>tongue<br>shell<br>brick<br>force<br>fence<br>black |  
+| bip_39_word_new_br9 | toilet<br>horror<br>tongue<br>shell<br>brick<br>force<br>fence<br>black<br>inherit |  
+| bip_39_word_new_line1 | toilet |  
+| bip_39_word_new_line10 | toilet
+horror
+tongue
+shell
+brick
+force
+fence
+black
+inherit
+exist |  
+| bip_39_word_new_line11 | toilet
+horror
+tongue
+shell
+brick
+force
+fence
+black
+inherit
+exist
+stage |  
+| bip_39_word_new_line12 | toilet
+horror
+tongue
+shell
+brick
+force
+fence
+black
+inherit
+exist
+stage
+adjust |  
+| bip_39_word_new_line2 | toilet
+horror |  
+| bip_39_word_new_line3 | toilet
+horror
+tongue |  
+| bip_39_word_new_line4 | toilet
+horror
+tongue
+shell |  
+| bip_39_word_new_line5 | toilet
+horror
+tongue
+shell
+brick |  
+| bip_39_word_new_line6 | toilet
+horror
+tongue
+shell
+brick
+force |  
+| bip_39_word_new_line7 | toilet
+horror
+tongue
+shell
+brick
+force
+fence |  
+| bip_39_word_new_line8 | toilet
+horror
+tongue
+shell
+brick
+force
+fence
+black |  
+| bip_39_word_new_line9 | toilet
+horror
+tongue
+shell
+brick
+force
+fence
+black
+inherit |  
+| bip_39_word_space_0 | ['toilet', 'horror', 'tongue', 'shell', 'brick', 'force', 'fence', 'black', 'inherit', 'exist', 'stage', 'adjust'] |  
+| bip_39_word_space_1 | toilet |  
+| bip_39_word_space_10 | toilet horror tongue shell brick force fence black inherit exist |  
+| bip_39_word_space_11 | toilet horror tongue shell brick force fence black inherit exist stage |  
+| bip_39_word_space_12 | toilet horror tongue shell brick force fence black inherit exist stage adjust |  
+| bip_39_word_space_2 | toilet horror |  
+| bip_39_word_space_3 | toilet horror tongue |  
+| bip_39_word_space_4 | toilet horror tongue shell |  
+| bip_39_word_space_5 | toilet horror tongue shell brick |  
+| bip_39_word_space_6 | toilet horror tongue shell brick force |  
+| bip_39_word_space_7 | toilet horror tongue shell brick force fence |  
+| bip_39_word_space_8 | toilet horror tongue shell brick force fence black |  
+| bip_39_word_space_9 | toilet horror tongue shell brick force fence black inherit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

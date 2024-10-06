@@ -1,3 +1,187 @@
+bip_39_word_new_br1: rifle
+bip_39_word_new_br10: rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume
+bip_39_word_new_br11: rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume<br>duck
+bip_39_word_new_br12: rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable<br>assume<br>duck<br>admit
+bip_39_word_new_br2: rifle<br>village
+bip_39_word_new_br3: rifle<br>village<br>harsh
+bip_39_word_new_br4: rifle<br>village<br>harsh<br>call
+bip_39_word_new_br5: rifle<br>village<br>harsh<br>call<br>cancel
+bip_39_word_new_br6: rifle<br>village<br>harsh<br>call<br>cancel<br>swim
+bip_39_word_new_br7: rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island
+bip_39_word_new_br8: rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense
+bip_39_word_new_br9: rifle<br>village<br>harsh<br>call<br>cancel<br>swim<br>island<br>defense<br>capable
+bip_39_word_new_line1: rifle
+bip_39_word_new_line10: 'rifle
+
+  village
+
+  harsh
+
+  call
+
+  cancel
+
+  swim
+
+  island
+
+  defense
+
+  capable
+
+  assume'
+bip_39_word_new_line11: 'rifle
+
+  village
+
+  harsh
+
+  call
+
+  cancel
+
+  swim
+
+  island
+
+  defense
+
+  capable
+
+  assume
+
+  duck'
+bip_39_word_new_line12: 'rifle
+
+  village
+
+  harsh
+
+  call
+
+  cancel
+
+  swim
+
+  island
+
+  defense
+
+  capable
+
+  assume
+
+  duck
+
+  admit'
+bip_39_word_new_line2: 'rifle
+
+  village'
+bip_39_word_new_line3: 'rifle
+
+  village
+
+  harsh'
+bip_39_word_new_line4: 'rifle
+
+  village
+
+  harsh
+
+  call'
+bip_39_word_new_line5: 'rifle
+
+  village
+
+  harsh
+
+  call
+
+  cancel'
+bip_39_word_new_line6: 'rifle
+
+  village
+
+  harsh
+
+  call
+
+  cancel
+
+  swim'
+bip_39_word_new_line7: 'rifle
+
+  village
+
+  harsh
+
+  call
+
+  cancel
+
+  swim
+
+  island'
+bip_39_word_new_line8: 'rifle
+
+  village
+
+  harsh
+
+  call
+
+  cancel
+
+  swim
+
+  island
+
+  defense'
+bip_39_word_new_line9: 'rifle
+
+  village
+
+  harsh
+
+  call
+
+  cancel
+
+  swim
+
+  island
+
+  defense
+
+  capable'
+bip_39_word_space_0:
+- rifle
+- village
+- harsh
+- call
+- cancel
+- swim
+- island
+- defense
+- capable
+- assume
+- duck
+- admit
+bip_39_word_space_1: rifle
+bip_39_word_space_10: rifle village harsh call cancel swim island defense capable
+  assume
+bip_39_word_space_11: rifle village harsh call cancel swim island defense capable
+  assume duck
+bip_39_word_space_12: rifle village harsh call cancel swim island defense capable
+  assume duck admit
+bip_39_word_space_2: rifle village
+bip_39_word_space_3: rifle village harsh
+bip_39_word_space_4: rifle village harsh call
+bip_39_word_space_5: rifle village harsh call cancel
+bip_39_word_space_6: rifle village harsh call cancel swim
+bip_39_word_space_7: rifle village harsh call cancel swim island
+bip_39_word_space_8: rifle village harsh call cancel swim island defense
+bip_39_word_space_9: rifle village harsh call cancel swim island defense capable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

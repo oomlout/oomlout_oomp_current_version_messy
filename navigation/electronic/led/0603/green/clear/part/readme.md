@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sniff venue
+  * bip 39 word 3: sniff venue emotion
+  * bip 39 word: sniff venue emotion arrow someone viable crop shoot flame mean come antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sniff |  
+| bip_39_word_new_br10 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable<br>crop<br>shoot<br>flame<br>mean |  
+| bip_39_word_new_br11 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable<br>crop<br>shoot<br>flame<br>mean<br>come |  
+| bip_39_word_new_br12 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable<br>crop<br>shoot<br>flame<br>mean<br>come<br>antenna |  
+| bip_39_word_new_br2 | sniff<br>venue |  
+| bip_39_word_new_br3 | sniff<br>venue<br>emotion |  
+| bip_39_word_new_br4 | sniff<br>venue<br>emotion<br>arrow |  
+| bip_39_word_new_br5 | sniff<br>venue<br>emotion<br>arrow<br>someone |  
+| bip_39_word_new_br6 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable |  
+| bip_39_word_new_br7 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable<br>crop |  
+| bip_39_word_new_br8 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable<br>crop<br>shoot |  
+| bip_39_word_new_br9 | sniff<br>venue<br>emotion<br>arrow<br>someone<br>viable<br>crop<br>shoot<br>flame |  
+| bip_39_word_new_line1 | sniff |  
+| bip_39_word_new_line10 | sniff
+venue
+emotion
+arrow
+someone
+viable
+crop
+shoot
+flame
+mean |  
+| bip_39_word_new_line11 | sniff
+venue
+emotion
+arrow
+someone
+viable
+crop
+shoot
+flame
+mean
+come |  
+| bip_39_word_new_line12 | sniff
+venue
+emotion
+arrow
+someone
+viable
+crop
+shoot
+flame
+mean
+come
+antenna |  
+| bip_39_word_new_line2 | sniff
+venue |  
+| bip_39_word_new_line3 | sniff
+venue
+emotion |  
+| bip_39_word_new_line4 | sniff
+venue
+emotion
+arrow |  
+| bip_39_word_new_line5 | sniff
+venue
+emotion
+arrow
+someone |  
+| bip_39_word_new_line6 | sniff
+venue
+emotion
+arrow
+someone
+viable |  
+| bip_39_word_new_line7 | sniff
+venue
+emotion
+arrow
+someone
+viable
+crop |  
+| bip_39_word_new_line8 | sniff
+venue
+emotion
+arrow
+someone
+viable
+crop
+shoot |  
+| bip_39_word_new_line9 | sniff
+venue
+emotion
+arrow
+someone
+viable
+crop
+shoot
+flame |  
+| bip_39_word_space_0 | ['sniff', 'venue', 'emotion', 'arrow', 'someone', 'viable', 'crop', 'shoot', 'flame', 'mean', 'come', 'antenna'] |  
+| bip_39_word_space_1 | sniff |  
+| bip_39_word_space_10 | sniff venue emotion arrow someone viable crop shoot flame mean |  
+| bip_39_word_space_11 | sniff venue emotion arrow someone viable crop shoot flame mean come |  
+| bip_39_word_space_12 | sniff venue emotion arrow someone viable crop shoot flame mean come antenna |  
+| bip_39_word_space_2 | sniff venue |  
+| bip_39_word_space_3 | sniff venue emotion |  
+| bip_39_word_space_4 | sniff venue emotion arrow |  
+| bip_39_word_space_5 | sniff venue emotion arrow someone |  
+| bip_39_word_space_6 | sniff venue emotion arrow someone viable |  
+| bip_39_word_space_7 | sniff venue emotion arrow someone viable crop |  
+| bip_39_word_space_8 | sniff venue emotion arrow someone viable crop shoot |  
+| bip_39_word_space_9 | sniff venue emotion arrow someone viable crop shoot flame |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

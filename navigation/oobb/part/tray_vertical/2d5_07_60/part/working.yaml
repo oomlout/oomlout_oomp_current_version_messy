@@ -1,3 +1,186 @@
+bip_39_word_new_br1: trophy
+bip_39_word_new_br10: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review
+bip_39_word_new_br11: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review<br>sample
+bip_39_word_new_br12: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab<br>review<br>sample<br>add
+bip_39_word_new_br2: trophy<br>know
+bip_39_word_new_br3: trophy<br>know<br>guitar
+bip_39_word_new_br4: trophy<br>know<br>guitar<br>angle
+bip_39_word_new_br5: trophy<br>know<br>guitar<br>angle<br>accident
+bip_39_word_new_br6: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon
+bip_39_word_new_br7: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog
+bip_39_word_new_br8: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart
+bip_39_word_new_br9: trophy<br>know<br>guitar<br>angle<br>accident<br>wagon<br>fog<br>heart<br>grab
+bip_39_word_new_line1: trophy
+bip_39_word_new_line10: 'trophy
+
+  know
+
+  guitar
+
+  angle
+
+  accident
+
+  wagon
+
+  fog
+
+  heart
+
+  grab
+
+  review'
+bip_39_word_new_line11: 'trophy
+
+  know
+
+  guitar
+
+  angle
+
+  accident
+
+  wagon
+
+  fog
+
+  heart
+
+  grab
+
+  review
+
+  sample'
+bip_39_word_new_line12: 'trophy
+
+  know
+
+  guitar
+
+  angle
+
+  accident
+
+  wagon
+
+  fog
+
+  heart
+
+  grab
+
+  review
+
+  sample
+
+  add'
+bip_39_word_new_line2: 'trophy
+
+  know'
+bip_39_word_new_line3: 'trophy
+
+  know
+
+  guitar'
+bip_39_word_new_line4: 'trophy
+
+  know
+
+  guitar
+
+  angle'
+bip_39_word_new_line5: 'trophy
+
+  know
+
+  guitar
+
+  angle
+
+  accident'
+bip_39_word_new_line6: 'trophy
+
+  know
+
+  guitar
+
+  angle
+
+  accident
+
+  wagon'
+bip_39_word_new_line7: 'trophy
+
+  know
+
+  guitar
+
+  angle
+
+  accident
+
+  wagon
+
+  fog'
+bip_39_word_new_line8: 'trophy
+
+  know
+
+  guitar
+
+  angle
+
+  accident
+
+  wagon
+
+  fog
+
+  heart'
+bip_39_word_new_line9: 'trophy
+
+  know
+
+  guitar
+
+  angle
+
+  accident
+
+  wagon
+
+  fog
+
+  heart
+
+  grab'
+bip_39_word_space_0:
+- trophy
+- know
+- guitar
+- angle
+- accident
+- wagon
+- fog
+- heart
+- grab
+- review
+- sample
+- add
+bip_39_word_space_1: trophy
+bip_39_word_space_10: trophy know guitar angle accident wagon fog heart grab review
+bip_39_word_space_11: trophy know guitar angle accident wagon fog heart grab review
+  sample
+bip_39_word_space_12: trophy know guitar angle accident wagon fog heart grab review
+  sample add
+bip_39_word_space_2: trophy know
+bip_39_word_space_3: trophy know guitar
+bip_39_word_space_4: trophy know guitar angle
+bip_39_word_space_5: trophy know guitar angle accident
+bip_39_word_space_6: trophy know guitar angle accident wagon
+bip_39_word_space_7: trophy know guitar angle accident wagon fog
+bip_39_word_space_8: trophy know guitar angle accident wagon fog heart
+bip_39_word_space_9: trophy know guitar angle accident wagon fog heart grab
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

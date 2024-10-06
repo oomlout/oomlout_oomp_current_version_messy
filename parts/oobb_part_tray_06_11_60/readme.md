@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: welcome chronic
+  * bip 39 word 3: welcome chronic inform
+  * bip 39 word: welcome chronic inform rug record royal harvest thank caught push inquiry across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | welcome |  
+| bip_39_word_new_br10 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push |  
+| bip_39_word_new_br11 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push<br>inquiry |  
+| bip_39_word_new_br12 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught<br>push<br>inquiry<br>across |  
+| bip_39_word_new_br2 | welcome<br>chronic |  
+| bip_39_word_new_br3 | welcome<br>chronic<br>inform |  
+| bip_39_word_new_br4 | welcome<br>chronic<br>inform<br>rug |  
+| bip_39_word_new_br5 | welcome<br>chronic<br>inform<br>rug<br>record |  
+| bip_39_word_new_br6 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal |  
+| bip_39_word_new_br7 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest |  
+| bip_39_word_new_br8 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank |  
+| bip_39_word_new_br9 | welcome<br>chronic<br>inform<br>rug<br>record<br>royal<br>harvest<br>thank<br>caught |  
+| bip_39_word_new_line1 | welcome |  
+| bip_39_word_new_line10 | welcome
+chronic
+inform
+rug
+record
+royal
+harvest
+thank
+caught
+push |  
+| bip_39_word_new_line11 | welcome
+chronic
+inform
+rug
+record
+royal
+harvest
+thank
+caught
+push
+inquiry |  
+| bip_39_word_new_line12 | welcome
+chronic
+inform
+rug
+record
+royal
+harvest
+thank
+caught
+push
+inquiry
+across |  
+| bip_39_word_new_line2 | welcome
+chronic |  
+| bip_39_word_new_line3 | welcome
+chronic
+inform |  
+| bip_39_word_new_line4 | welcome
+chronic
+inform
+rug |  
+| bip_39_word_new_line5 | welcome
+chronic
+inform
+rug
+record |  
+| bip_39_word_new_line6 | welcome
+chronic
+inform
+rug
+record
+royal |  
+| bip_39_word_new_line7 | welcome
+chronic
+inform
+rug
+record
+royal
+harvest |  
+| bip_39_word_new_line8 | welcome
+chronic
+inform
+rug
+record
+royal
+harvest
+thank |  
+| bip_39_word_new_line9 | welcome
+chronic
+inform
+rug
+record
+royal
+harvest
+thank
+caught |  
+| bip_39_word_space_0 | ['welcome', 'chronic', 'inform', 'rug', 'record', 'royal', 'harvest', 'thank', 'caught', 'push', 'inquiry', 'across'] |  
+| bip_39_word_space_1 | welcome |  
+| bip_39_word_space_10 | welcome chronic inform rug record royal harvest thank caught push |  
+| bip_39_word_space_11 | welcome chronic inform rug record royal harvest thank caught push inquiry |  
+| bip_39_word_space_12 | welcome chronic inform rug record royal harvest thank caught push inquiry across |  
+| bip_39_word_space_2 | welcome chronic |  
+| bip_39_word_space_3 | welcome chronic inform |  
+| bip_39_word_space_4 | welcome chronic inform rug |  
+| bip_39_word_space_5 | welcome chronic inform rug record |  
+| bip_39_word_space_6 | welcome chronic inform rug record royal |  
+| bip_39_word_space_7 | welcome chronic inform rug record royal harvest |  
+| bip_39_word_space_8 | welcome chronic inform rug record royal harvest thank |  
+| bip_39_word_space_9 | welcome chronic inform rug record royal harvest thank caught |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

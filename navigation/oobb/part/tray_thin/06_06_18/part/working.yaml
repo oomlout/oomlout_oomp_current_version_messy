@@ -1,3 +1,186 @@
+bip_39_word_new_br1: umbrella
+bip_39_word_new_br10: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when<br>when<br>find<br>discover<br>fog
+bip_39_word_new_br11: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when<br>when<br>find<br>discover<br>fog<br>connect
+bip_39_word_new_br12: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when<br>when<br>find<br>discover<br>fog<br>connect<br>advance
+bip_39_word_new_br2: umbrella<br>scheme
+bip_39_word_new_br3: umbrella<br>scheme<br>swing
+bip_39_word_new_br4: umbrella<br>scheme<br>swing<br>hill
+bip_39_word_new_br5: umbrella<br>scheme<br>swing<br>hill<br>happy
+bip_39_word_new_br6: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when
+bip_39_word_new_br7: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when<br>when
+bip_39_word_new_br8: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when<br>when<br>find
+bip_39_word_new_br9: umbrella<br>scheme<br>swing<br>hill<br>happy<br>when<br>when<br>find<br>discover
+bip_39_word_new_line1: umbrella
+bip_39_word_new_line10: 'umbrella
+
+  scheme
+
+  swing
+
+  hill
+
+  happy
+
+  when
+
+  when
+
+  find
+
+  discover
+
+  fog'
+bip_39_word_new_line11: 'umbrella
+
+  scheme
+
+  swing
+
+  hill
+
+  happy
+
+  when
+
+  when
+
+  find
+
+  discover
+
+  fog
+
+  connect'
+bip_39_word_new_line12: 'umbrella
+
+  scheme
+
+  swing
+
+  hill
+
+  happy
+
+  when
+
+  when
+
+  find
+
+  discover
+
+  fog
+
+  connect
+
+  advance'
+bip_39_word_new_line2: 'umbrella
+
+  scheme'
+bip_39_word_new_line3: 'umbrella
+
+  scheme
+
+  swing'
+bip_39_word_new_line4: 'umbrella
+
+  scheme
+
+  swing
+
+  hill'
+bip_39_word_new_line5: 'umbrella
+
+  scheme
+
+  swing
+
+  hill
+
+  happy'
+bip_39_word_new_line6: 'umbrella
+
+  scheme
+
+  swing
+
+  hill
+
+  happy
+
+  when'
+bip_39_word_new_line7: 'umbrella
+
+  scheme
+
+  swing
+
+  hill
+
+  happy
+
+  when
+
+  when'
+bip_39_word_new_line8: 'umbrella
+
+  scheme
+
+  swing
+
+  hill
+
+  happy
+
+  when
+
+  when
+
+  find'
+bip_39_word_new_line9: 'umbrella
+
+  scheme
+
+  swing
+
+  hill
+
+  happy
+
+  when
+
+  when
+
+  find
+
+  discover'
+bip_39_word_space_0:
+- umbrella
+- scheme
+- swing
+- hill
+- happy
+- when
+- when
+- find
+- discover
+- fog
+- connect
+- advance
+bip_39_word_space_1: umbrella
+bip_39_word_space_10: umbrella scheme swing hill happy when when find discover fog
+bip_39_word_space_11: umbrella scheme swing hill happy when when find discover fog
+  connect
+bip_39_word_space_12: umbrella scheme swing hill happy when when find discover fog
+  connect advance
+bip_39_word_space_2: umbrella scheme
+bip_39_word_space_3: umbrella scheme swing
+bip_39_word_space_4: umbrella scheme swing hill
+bip_39_word_space_5: umbrella scheme swing hill happy
+bip_39_word_space_6: umbrella scheme swing hill happy when
+bip_39_word_space_7: umbrella scheme swing hill happy when when
+bip_39_word_space_8: umbrella scheme swing hill happy when when find
+bip_39_word_space_9: umbrella scheme swing hill happy when when find discover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: camera gold
+  * bip 39 word 3: camera gold elder
+  * bip 39 word: camera gold elder mail park spoil industry sun direct actress ball artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | camera |  
+| bip_39_word_new_br10 | camera<br>gold<br>elder<br>mail<br>park<br>spoil<br>industry<br>sun<br>direct<br>actress |  
+| bip_39_word_new_br11 | camera<br>gold<br>elder<br>mail<br>park<br>spoil<br>industry<br>sun<br>direct<br>actress<br>ball |  
+| bip_39_word_new_br12 | camera<br>gold<br>elder<br>mail<br>park<br>spoil<br>industry<br>sun<br>direct<br>actress<br>ball<br>artefact |  
+| bip_39_word_new_br2 | camera<br>gold |  
+| bip_39_word_new_br3 | camera<br>gold<br>elder |  
+| bip_39_word_new_br4 | camera<br>gold<br>elder<br>mail |  
+| bip_39_word_new_br5 | camera<br>gold<br>elder<br>mail<br>park |  
+| bip_39_word_new_br6 | camera<br>gold<br>elder<br>mail<br>park<br>spoil |  
+| bip_39_word_new_br7 | camera<br>gold<br>elder<br>mail<br>park<br>spoil<br>industry |  
+| bip_39_word_new_br8 | camera<br>gold<br>elder<br>mail<br>park<br>spoil<br>industry<br>sun |  
+| bip_39_word_new_br9 | camera<br>gold<br>elder<br>mail<br>park<br>spoil<br>industry<br>sun<br>direct |  
+| bip_39_word_new_line1 | camera |  
+| bip_39_word_new_line10 | camera
+gold
+elder
+mail
+park
+spoil
+industry
+sun
+direct
+actress |  
+| bip_39_word_new_line11 | camera
+gold
+elder
+mail
+park
+spoil
+industry
+sun
+direct
+actress
+ball |  
+| bip_39_word_new_line12 | camera
+gold
+elder
+mail
+park
+spoil
+industry
+sun
+direct
+actress
+ball
+artefact |  
+| bip_39_word_new_line2 | camera
+gold |  
+| bip_39_word_new_line3 | camera
+gold
+elder |  
+| bip_39_word_new_line4 | camera
+gold
+elder
+mail |  
+| bip_39_word_new_line5 | camera
+gold
+elder
+mail
+park |  
+| bip_39_word_new_line6 | camera
+gold
+elder
+mail
+park
+spoil |  
+| bip_39_word_new_line7 | camera
+gold
+elder
+mail
+park
+spoil
+industry |  
+| bip_39_word_new_line8 | camera
+gold
+elder
+mail
+park
+spoil
+industry
+sun |  
+| bip_39_word_new_line9 | camera
+gold
+elder
+mail
+park
+spoil
+industry
+sun
+direct |  
+| bip_39_word_space_0 | ['camera', 'gold', 'elder', 'mail', 'park', 'spoil', 'industry', 'sun', 'direct', 'actress', 'ball', 'artefact'] |  
+| bip_39_word_space_1 | camera |  
+| bip_39_word_space_10 | camera gold elder mail park spoil industry sun direct actress |  
+| bip_39_word_space_11 | camera gold elder mail park spoil industry sun direct actress ball |  
+| bip_39_word_space_12 | camera gold elder mail park spoil industry sun direct actress ball artefact |  
+| bip_39_word_space_2 | camera gold |  
+| bip_39_word_space_3 | camera gold elder |  
+| bip_39_word_space_4 | camera gold elder mail |  
+| bip_39_word_space_5 | camera gold elder mail park |  
+| bip_39_word_space_6 | camera gold elder mail park spoil |  
+| bip_39_word_space_7 | camera gold elder mail park spoil industry |  
+| bip_39_word_space_8 | camera gold elder mail park spoil industry sun |  
+| bip_39_word_space_9 | camera gold elder mail park spoil industry sun direct |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

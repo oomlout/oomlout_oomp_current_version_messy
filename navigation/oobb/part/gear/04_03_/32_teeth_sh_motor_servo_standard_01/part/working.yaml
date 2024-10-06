@@ -1,3 +1,186 @@
+bip_39_word_new_br1: citizen
+bip_39_word_new_br10: citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect<br>hen<br>couch<br>saddle<br>alone
+bip_39_word_new_br11: citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect<br>hen<br>couch<br>saddle<br>alone<br>payment
+bip_39_word_new_br12: citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect<br>hen<br>couch<br>saddle<br>alone<br>payment<br>angle
+bip_39_word_new_br2: citizen<br>trumpet
+bip_39_word_new_br3: citizen<br>trumpet<br>cherry
+bip_39_word_new_br4: citizen<br>trumpet<br>cherry<br>tag
+bip_39_word_new_br5: citizen<br>trumpet<br>cherry<br>tag<br>sweet
+bip_39_word_new_br6: citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect
+bip_39_word_new_br7: citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect<br>hen
+bip_39_word_new_br8: citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect<br>hen<br>couch
+bip_39_word_new_br9: citizen<br>trumpet<br>cherry<br>tag<br>sweet<br>collect<br>hen<br>couch<br>saddle
+bip_39_word_new_line1: citizen
+bip_39_word_new_line10: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag
+
+  sweet
+
+  collect
+
+  hen
+
+  couch
+
+  saddle
+
+  alone'
+bip_39_word_new_line11: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag
+
+  sweet
+
+  collect
+
+  hen
+
+  couch
+
+  saddle
+
+  alone
+
+  payment'
+bip_39_word_new_line12: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag
+
+  sweet
+
+  collect
+
+  hen
+
+  couch
+
+  saddle
+
+  alone
+
+  payment
+
+  angle'
+bip_39_word_new_line2: 'citizen
+
+  trumpet'
+bip_39_word_new_line3: 'citizen
+
+  trumpet
+
+  cherry'
+bip_39_word_new_line4: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag'
+bip_39_word_new_line5: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag
+
+  sweet'
+bip_39_word_new_line6: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag
+
+  sweet
+
+  collect'
+bip_39_word_new_line7: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag
+
+  sweet
+
+  collect
+
+  hen'
+bip_39_word_new_line8: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag
+
+  sweet
+
+  collect
+
+  hen
+
+  couch'
+bip_39_word_new_line9: 'citizen
+
+  trumpet
+
+  cherry
+
+  tag
+
+  sweet
+
+  collect
+
+  hen
+
+  couch
+
+  saddle'
+bip_39_word_space_0:
+- citizen
+- trumpet
+- cherry
+- tag
+- sweet
+- collect
+- hen
+- couch
+- saddle
+- alone
+- payment
+- angle
+bip_39_word_space_1: citizen
+bip_39_word_space_10: citizen trumpet cherry tag sweet collect hen couch saddle alone
+bip_39_word_space_11: citizen trumpet cherry tag sweet collect hen couch saddle alone
+  payment
+bip_39_word_space_12: citizen trumpet cherry tag sweet collect hen couch saddle alone
+  payment angle
+bip_39_word_space_2: citizen trumpet
+bip_39_word_space_3: citizen trumpet cherry
+bip_39_word_space_4: citizen trumpet cherry tag
+bip_39_word_space_5: citizen trumpet cherry tag sweet
+bip_39_word_space_6: citizen trumpet cherry tag sweet collect
+bip_39_word_space_7: citizen trumpet cherry tag sweet collect hen
+bip_39_word_space_8: citizen trumpet cherry tag sweet collect hen couch
+bip_39_word_space_9: citizen trumpet cherry tag sweet collect hen couch saddle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: help check
+  * bip 39 word 3: help check derive
+  * bip 39 word: help check derive token stove since pulse steel degree involve unusual address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | help |  
+| bip_39_word_new_br10 | help<br>check<br>derive<br>token<br>stove<br>since<br>pulse<br>steel<br>degree<br>involve |  
+| bip_39_word_new_br11 | help<br>check<br>derive<br>token<br>stove<br>since<br>pulse<br>steel<br>degree<br>involve<br>unusual |  
+| bip_39_word_new_br12 | help<br>check<br>derive<br>token<br>stove<br>since<br>pulse<br>steel<br>degree<br>involve<br>unusual<br>address |  
+| bip_39_word_new_br2 | help<br>check |  
+| bip_39_word_new_br3 | help<br>check<br>derive |  
+| bip_39_word_new_br4 | help<br>check<br>derive<br>token |  
+| bip_39_word_new_br5 | help<br>check<br>derive<br>token<br>stove |  
+| bip_39_word_new_br6 | help<br>check<br>derive<br>token<br>stove<br>since |  
+| bip_39_word_new_br7 | help<br>check<br>derive<br>token<br>stove<br>since<br>pulse |  
+| bip_39_word_new_br8 | help<br>check<br>derive<br>token<br>stove<br>since<br>pulse<br>steel |  
+| bip_39_word_new_br9 | help<br>check<br>derive<br>token<br>stove<br>since<br>pulse<br>steel<br>degree |  
+| bip_39_word_new_line1 | help |  
+| bip_39_word_new_line10 | help
+check
+derive
+token
+stove
+since
+pulse
+steel
+degree
+involve |  
+| bip_39_word_new_line11 | help
+check
+derive
+token
+stove
+since
+pulse
+steel
+degree
+involve
+unusual |  
+| bip_39_word_new_line12 | help
+check
+derive
+token
+stove
+since
+pulse
+steel
+degree
+involve
+unusual
+address |  
+| bip_39_word_new_line2 | help
+check |  
+| bip_39_word_new_line3 | help
+check
+derive |  
+| bip_39_word_new_line4 | help
+check
+derive
+token |  
+| bip_39_word_new_line5 | help
+check
+derive
+token
+stove |  
+| bip_39_word_new_line6 | help
+check
+derive
+token
+stove
+since |  
+| bip_39_word_new_line7 | help
+check
+derive
+token
+stove
+since
+pulse |  
+| bip_39_word_new_line8 | help
+check
+derive
+token
+stove
+since
+pulse
+steel |  
+| bip_39_word_new_line9 | help
+check
+derive
+token
+stove
+since
+pulse
+steel
+degree |  
+| bip_39_word_space_0 | ['help', 'check', 'derive', 'token', 'stove', 'since', 'pulse', 'steel', 'degree', 'involve', 'unusual', 'address'] |  
+| bip_39_word_space_1 | help |  
+| bip_39_word_space_10 | help check derive token stove since pulse steel degree involve |  
+| bip_39_word_space_11 | help check derive token stove since pulse steel degree involve unusual |  
+| bip_39_word_space_12 | help check derive token stove since pulse steel degree involve unusual address |  
+| bip_39_word_space_2 | help check |  
+| bip_39_word_space_3 | help check derive |  
+| bip_39_word_space_4 | help check derive token |  
+| bip_39_word_space_5 | help check derive token stove |  
+| bip_39_word_space_6 | help check derive token stove since |  
+| bip_39_word_space_7 | help check derive token stove since pulse |  
+| bip_39_word_space_8 | help check derive token stove since pulse steel |  
+| bip_39_word_space_9 | help check derive token stove since pulse steel degree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ribbon
+bip_39_word_new_br10: ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop
+bip_39_word_new_br11: ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop<br>pottery
+bip_39_word_new_br12: ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw<br>develop<br>pottery<br>among
+bip_39_word_new_br2: ribbon<br>style
+bip_39_word_new_br3: ribbon<br>style<br>apart
+bip_39_word_new_br4: ribbon<br>style<br>apart<br>void
+bip_39_word_new_br5: ribbon<br>style<br>apart<br>void<br>side
+bip_39_word_new_br6: ribbon<br>style<br>apart<br>void<br>side<br>thrive
+bip_39_word_new_br7: ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual
+bip_39_word_new_br8: ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect
+bip_39_word_new_br9: ribbon<br>style<br>apart<br>void<br>side<br>thrive<br>visual<br>insect<br>raw
+bip_39_word_new_line1: ribbon
+bip_39_word_new_line10: 'ribbon
+
+  style
+
+  apart
+
+  void
+
+  side
+
+  thrive
+
+  visual
+
+  insect
+
+  raw
+
+  develop'
+bip_39_word_new_line11: 'ribbon
+
+  style
+
+  apart
+
+  void
+
+  side
+
+  thrive
+
+  visual
+
+  insect
+
+  raw
+
+  develop
+
+  pottery'
+bip_39_word_new_line12: 'ribbon
+
+  style
+
+  apart
+
+  void
+
+  side
+
+  thrive
+
+  visual
+
+  insect
+
+  raw
+
+  develop
+
+  pottery
+
+  among'
+bip_39_word_new_line2: 'ribbon
+
+  style'
+bip_39_word_new_line3: 'ribbon
+
+  style
+
+  apart'
+bip_39_word_new_line4: 'ribbon
+
+  style
+
+  apart
+
+  void'
+bip_39_word_new_line5: 'ribbon
+
+  style
+
+  apart
+
+  void
+
+  side'
+bip_39_word_new_line6: 'ribbon
+
+  style
+
+  apart
+
+  void
+
+  side
+
+  thrive'
+bip_39_word_new_line7: 'ribbon
+
+  style
+
+  apart
+
+  void
+
+  side
+
+  thrive
+
+  visual'
+bip_39_word_new_line8: 'ribbon
+
+  style
+
+  apart
+
+  void
+
+  side
+
+  thrive
+
+  visual
+
+  insect'
+bip_39_word_new_line9: 'ribbon
+
+  style
+
+  apart
+
+  void
+
+  side
+
+  thrive
+
+  visual
+
+  insect
+
+  raw'
+bip_39_word_space_0:
+- ribbon
+- style
+- apart
+- void
+- side
+- thrive
+- visual
+- insect
+- raw
+- develop
+- pottery
+- among
+bip_39_word_space_1: ribbon
+bip_39_word_space_10: ribbon style apart void side thrive visual insect raw develop
+bip_39_word_space_11: ribbon style apart void side thrive visual insect raw develop
+  pottery
+bip_39_word_space_12: ribbon style apart void side thrive visual insect raw develop
+  pottery among
+bip_39_word_space_2: ribbon style
+bip_39_word_space_3: ribbon style apart
+bip_39_word_space_4: ribbon style apart void
+bip_39_word_space_5: ribbon style apart void side
+bip_39_word_space_6: ribbon style apart void side thrive
+bip_39_word_space_7: ribbon style apart void side thrive visual
+bip_39_word_space_8: ribbon style apart void side thrive visual insect
+bip_39_word_space_9: ribbon style apart void side thrive visual insect raw
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

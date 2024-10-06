@@ -1,3 +1,185 @@
+bip_39_word_new_br1: joy
+bip_39_word_new_br10: joy<br>west<br>razor<br>stone<br>example<br>uncle<br>region<br>swift<br>kiwi<br>brave
+bip_39_word_new_br11: joy<br>west<br>razor<br>stone<br>example<br>uncle<br>region<br>swift<br>kiwi<br>brave<br>garage
+bip_39_word_new_br12: joy<br>west<br>razor<br>stone<br>example<br>uncle<br>region<br>swift<br>kiwi<br>brave<br>garage<br>asset
+bip_39_word_new_br2: joy<br>west
+bip_39_word_new_br3: joy<br>west<br>razor
+bip_39_word_new_br4: joy<br>west<br>razor<br>stone
+bip_39_word_new_br5: joy<br>west<br>razor<br>stone<br>example
+bip_39_word_new_br6: joy<br>west<br>razor<br>stone<br>example<br>uncle
+bip_39_word_new_br7: joy<br>west<br>razor<br>stone<br>example<br>uncle<br>region
+bip_39_word_new_br8: joy<br>west<br>razor<br>stone<br>example<br>uncle<br>region<br>swift
+bip_39_word_new_br9: joy<br>west<br>razor<br>stone<br>example<br>uncle<br>region<br>swift<br>kiwi
+bip_39_word_new_line1: joy
+bip_39_word_new_line10: 'joy
+
+  west
+
+  razor
+
+  stone
+
+  example
+
+  uncle
+
+  region
+
+  swift
+
+  kiwi
+
+  brave'
+bip_39_word_new_line11: 'joy
+
+  west
+
+  razor
+
+  stone
+
+  example
+
+  uncle
+
+  region
+
+  swift
+
+  kiwi
+
+  brave
+
+  garage'
+bip_39_word_new_line12: 'joy
+
+  west
+
+  razor
+
+  stone
+
+  example
+
+  uncle
+
+  region
+
+  swift
+
+  kiwi
+
+  brave
+
+  garage
+
+  asset'
+bip_39_word_new_line2: 'joy
+
+  west'
+bip_39_word_new_line3: 'joy
+
+  west
+
+  razor'
+bip_39_word_new_line4: 'joy
+
+  west
+
+  razor
+
+  stone'
+bip_39_word_new_line5: 'joy
+
+  west
+
+  razor
+
+  stone
+
+  example'
+bip_39_word_new_line6: 'joy
+
+  west
+
+  razor
+
+  stone
+
+  example
+
+  uncle'
+bip_39_word_new_line7: 'joy
+
+  west
+
+  razor
+
+  stone
+
+  example
+
+  uncle
+
+  region'
+bip_39_word_new_line8: 'joy
+
+  west
+
+  razor
+
+  stone
+
+  example
+
+  uncle
+
+  region
+
+  swift'
+bip_39_word_new_line9: 'joy
+
+  west
+
+  razor
+
+  stone
+
+  example
+
+  uncle
+
+  region
+
+  swift
+
+  kiwi'
+bip_39_word_space_0:
+- joy
+- west
+- razor
+- stone
+- example
+- uncle
+- region
+- swift
+- kiwi
+- brave
+- garage
+- asset
+bip_39_word_space_1: joy
+bip_39_word_space_10: joy west razor stone example uncle region swift kiwi brave
+bip_39_word_space_11: joy west razor stone example uncle region swift kiwi brave garage
+bip_39_word_space_12: joy west razor stone example uncle region swift kiwi brave garage
+  asset
+bip_39_word_space_2: joy west
+bip_39_word_space_3: joy west razor
+bip_39_word_space_4: joy west razor stone
+bip_39_word_space_5: joy west razor stone example
+bip_39_word_space_6: joy west razor stone example uncle
+bip_39_word_space_7: joy west razor stone example uncle region
+bip_39_word_space_8: joy west razor stone example uncle region swift
+bip_39_word_space_9: joy west razor stone example uncle region swift kiwi
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

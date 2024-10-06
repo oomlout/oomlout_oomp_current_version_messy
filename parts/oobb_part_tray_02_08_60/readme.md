@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: that analyst
+  * bip 39 word 3: that analyst web
+  * bip 39 word: that analyst web bone piece crash shiver art home motor monkey agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | that |  
+| bip_39_word_new_br10 | that<br>analyst<br>web<br>bone<br>piece<br>crash<br>shiver<br>art<br>home<br>motor |  
+| bip_39_word_new_br11 | that<br>analyst<br>web<br>bone<br>piece<br>crash<br>shiver<br>art<br>home<br>motor<br>monkey |  
+| bip_39_word_new_br12 | that<br>analyst<br>web<br>bone<br>piece<br>crash<br>shiver<br>art<br>home<br>motor<br>monkey<br>agent |  
+| bip_39_word_new_br2 | that<br>analyst |  
+| bip_39_word_new_br3 | that<br>analyst<br>web |  
+| bip_39_word_new_br4 | that<br>analyst<br>web<br>bone |  
+| bip_39_word_new_br5 | that<br>analyst<br>web<br>bone<br>piece |  
+| bip_39_word_new_br6 | that<br>analyst<br>web<br>bone<br>piece<br>crash |  
+| bip_39_word_new_br7 | that<br>analyst<br>web<br>bone<br>piece<br>crash<br>shiver |  
+| bip_39_word_new_br8 | that<br>analyst<br>web<br>bone<br>piece<br>crash<br>shiver<br>art |  
+| bip_39_word_new_br9 | that<br>analyst<br>web<br>bone<br>piece<br>crash<br>shiver<br>art<br>home |  
+| bip_39_word_new_line1 | that |  
+| bip_39_word_new_line10 | that
+analyst
+web
+bone
+piece
+crash
+shiver
+art
+home
+motor |  
+| bip_39_word_new_line11 | that
+analyst
+web
+bone
+piece
+crash
+shiver
+art
+home
+motor
+monkey |  
+| bip_39_word_new_line12 | that
+analyst
+web
+bone
+piece
+crash
+shiver
+art
+home
+motor
+monkey
+agent |  
+| bip_39_word_new_line2 | that
+analyst |  
+| bip_39_word_new_line3 | that
+analyst
+web |  
+| bip_39_word_new_line4 | that
+analyst
+web
+bone |  
+| bip_39_word_new_line5 | that
+analyst
+web
+bone
+piece |  
+| bip_39_word_new_line6 | that
+analyst
+web
+bone
+piece
+crash |  
+| bip_39_word_new_line7 | that
+analyst
+web
+bone
+piece
+crash
+shiver |  
+| bip_39_word_new_line8 | that
+analyst
+web
+bone
+piece
+crash
+shiver
+art |  
+| bip_39_word_new_line9 | that
+analyst
+web
+bone
+piece
+crash
+shiver
+art
+home |  
+| bip_39_word_space_0 | ['that', 'analyst', 'web', 'bone', 'piece', 'crash', 'shiver', 'art', 'home', 'motor', 'monkey', 'agent'] |  
+| bip_39_word_space_1 | that |  
+| bip_39_word_space_10 | that analyst web bone piece crash shiver art home motor |  
+| bip_39_word_space_11 | that analyst web bone piece crash shiver art home motor monkey |  
+| bip_39_word_space_12 | that analyst web bone piece crash shiver art home motor monkey agent |  
+| bip_39_word_space_2 | that analyst |  
+| bip_39_word_space_3 | that analyst web |  
+| bip_39_word_space_4 | that analyst web bone |  
+| bip_39_word_space_5 | that analyst web bone piece |  
+| bip_39_word_space_6 | that analyst web bone piece crash |  
+| bip_39_word_space_7 | that analyst web bone piece crash shiver |  
+| bip_39_word_space_8 | that analyst web bone piece crash shiver art |  
+| bip_39_word_space_9 | that analyst web bone piece crash shiver art home |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

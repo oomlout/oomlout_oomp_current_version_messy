@@ -1,3 +1,186 @@
+bip_39_word_new_br1: humor
+bip_39_word_new_br10: humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused
+bip_39_word_new_br11: humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused<br>canoe
+bip_39_word_new_br12: humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally<br>amused<br>canoe<br>anger
+bip_39_word_new_br2: humor<br>list
+bip_39_word_new_br3: humor<br>list<br>blame
+bip_39_word_new_br4: humor<br>list<br>blame<br>machine
+bip_39_word_new_br5: humor<br>list<br>blame<br>machine<br>drive
+bip_39_word_new_br6: humor<br>list<br>blame<br>machine<br>drive<br>comfort
+bip_39_word_new_br7: humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk
+bip_39_word_new_br8: humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow
+bip_39_word_new_br9: humor<br>list<br>blame<br>machine<br>drive<br>comfort<br>clerk<br>yellow<br>rally
+bip_39_word_new_line1: humor
+bip_39_word_new_line10: 'humor
+
+  list
+
+  blame
+
+  machine
+
+  drive
+
+  comfort
+
+  clerk
+
+  yellow
+
+  rally
+
+  amused'
+bip_39_word_new_line11: 'humor
+
+  list
+
+  blame
+
+  machine
+
+  drive
+
+  comfort
+
+  clerk
+
+  yellow
+
+  rally
+
+  amused
+
+  canoe'
+bip_39_word_new_line12: 'humor
+
+  list
+
+  blame
+
+  machine
+
+  drive
+
+  comfort
+
+  clerk
+
+  yellow
+
+  rally
+
+  amused
+
+  canoe
+
+  anger'
+bip_39_word_new_line2: 'humor
+
+  list'
+bip_39_word_new_line3: 'humor
+
+  list
+
+  blame'
+bip_39_word_new_line4: 'humor
+
+  list
+
+  blame
+
+  machine'
+bip_39_word_new_line5: 'humor
+
+  list
+
+  blame
+
+  machine
+
+  drive'
+bip_39_word_new_line6: 'humor
+
+  list
+
+  blame
+
+  machine
+
+  drive
+
+  comfort'
+bip_39_word_new_line7: 'humor
+
+  list
+
+  blame
+
+  machine
+
+  drive
+
+  comfort
+
+  clerk'
+bip_39_word_new_line8: 'humor
+
+  list
+
+  blame
+
+  machine
+
+  drive
+
+  comfort
+
+  clerk
+
+  yellow'
+bip_39_word_new_line9: 'humor
+
+  list
+
+  blame
+
+  machine
+
+  drive
+
+  comfort
+
+  clerk
+
+  yellow
+
+  rally'
+bip_39_word_space_0:
+- humor
+- list
+- blame
+- machine
+- drive
+- comfort
+- clerk
+- yellow
+- rally
+- amused
+- canoe
+- anger
+bip_39_word_space_1: humor
+bip_39_word_space_10: humor list blame machine drive comfort clerk yellow rally amused
+bip_39_word_space_11: humor list blame machine drive comfort clerk yellow rally amused
+  canoe
+bip_39_word_space_12: humor list blame machine drive comfort clerk yellow rally amused
+  canoe anger
+bip_39_word_space_2: humor list
+bip_39_word_space_3: humor list blame
+bip_39_word_space_4: humor list blame machine
+bip_39_word_space_5: humor list blame machine drive
+bip_39_word_space_6: humor list blame machine drive comfort
+bip_39_word_space_7: humor list blame machine drive comfort clerk
+bip_39_word_space_8: humor list blame machine drive comfort clerk yellow
+bip_39_word_space_9: humor list blame machine drive comfort clerk yellow rally
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

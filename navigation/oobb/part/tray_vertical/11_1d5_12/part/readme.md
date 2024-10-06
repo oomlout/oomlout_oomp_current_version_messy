@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: iron nation
+  * bip 39 word 3: iron nation apology
+  * bip 39 word: iron nation apology coil net inmate loyal novel video dish middle arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | iron |  
+| bip_39_word_new_br10 | iron<br>nation<br>apology<br>coil<br>net<br>inmate<br>loyal<br>novel<br>video<br>dish |  
+| bip_39_word_new_br11 | iron<br>nation<br>apology<br>coil<br>net<br>inmate<br>loyal<br>novel<br>video<br>dish<br>middle |  
+| bip_39_word_new_br12 | iron<br>nation<br>apology<br>coil<br>net<br>inmate<br>loyal<br>novel<br>video<br>dish<br>middle<br>arrive |  
+| bip_39_word_new_br2 | iron<br>nation |  
+| bip_39_word_new_br3 | iron<br>nation<br>apology |  
+| bip_39_word_new_br4 | iron<br>nation<br>apology<br>coil |  
+| bip_39_word_new_br5 | iron<br>nation<br>apology<br>coil<br>net |  
+| bip_39_word_new_br6 | iron<br>nation<br>apology<br>coil<br>net<br>inmate |  
+| bip_39_word_new_br7 | iron<br>nation<br>apology<br>coil<br>net<br>inmate<br>loyal |  
+| bip_39_word_new_br8 | iron<br>nation<br>apology<br>coil<br>net<br>inmate<br>loyal<br>novel |  
+| bip_39_word_new_br9 | iron<br>nation<br>apology<br>coil<br>net<br>inmate<br>loyal<br>novel<br>video |  
+| bip_39_word_new_line1 | iron |  
+| bip_39_word_new_line10 | iron
+nation
+apology
+coil
+net
+inmate
+loyal
+novel
+video
+dish |  
+| bip_39_word_new_line11 | iron
+nation
+apology
+coil
+net
+inmate
+loyal
+novel
+video
+dish
+middle |  
+| bip_39_word_new_line12 | iron
+nation
+apology
+coil
+net
+inmate
+loyal
+novel
+video
+dish
+middle
+arrive |  
+| bip_39_word_new_line2 | iron
+nation |  
+| bip_39_word_new_line3 | iron
+nation
+apology |  
+| bip_39_word_new_line4 | iron
+nation
+apology
+coil |  
+| bip_39_word_new_line5 | iron
+nation
+apology
+coil
+net |  
+| bip_39_word_new_line6 | iron
+nation
+apology
+coil
+net
+inmate |  
+| bip_39_word_new_line7 | iron
+nation
+apology
+coil
+net
+inmate
+loyal |  
+| bip_39_word_new_line8 | iron
+nation
+apology
+coil
+net
+inmate
+loyal
+novel |  
+| bip_39_word_new_line9 | iron
+nation
+apology
+coil
+net
+inmate
+loyal
+novel
+video |  
+| bip_39_word_space_0 | ['iron', 'nation', 'apology', 'coil', 'net', 'inmate', 'loyal', 'novel', 'video', 'dish', 'middle', 'arrive'] |  
+| bip_39_word_space_1 | iron |  
+| bip_39_word_space_10 | iron nation apology coil net inmate loyal novel video dish |  
+| bip_39_word_space_11 | iron nation apology coil net inmate loyal novel video dish middle |  
+| bip_39_word_space_12 | iron nation apology coil net inmate loyal novel video dish middle arrive |  
+| bip_39_word_space_2 | iron nation |  
+| bip_39_word_space_3 | iron nation apology |  
+| bip_39_word_space_4 | iron nation apology coil |  
+| bip_39_word_space_5 | iron nation apology coil net |  
+| bip_39_word_space_6 | iron nation apology coil net inmate |  
+| bip_39_word_space_7 | iron nation apology coil net inmate loyal |  
+| bip_39_word_space_8 | iron nation apology coil net inmate loyal novel |  
+| bip_39_word_space_9 | iron nation apology coil net inmate loyal novel video |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

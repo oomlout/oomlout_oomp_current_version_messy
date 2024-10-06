@@ -1,3 +1,187 @@
+bip_39_word_new_br1: silent
+bip_39_word_new_br10: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public
+bip_39_word_new_br11: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public<br>volume
+bip_39_word_new_br12: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge<br>public<br>volume<br>arch
+bip_39_word_new_br2: silent<br>waste
+bip_39_word_new_br3: silent<br>waste<br>patrol
+bip_39_word_new_br4: silent<br>waste<br>patrol<br>oxygen
+bip_39_word_new_br5: silent<br>waste<br>patrol<br>oxygen<br>eager
+bip_39_word_new_br6: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify
+bip_39_word_new_br7: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat
+bip_39_word_new_br8: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february
+bip_39_word_new_br9: silent<br>waste<br>patrol<br>oxygen<br>eager<br>verify<br>retreat<br>february<br>badge
+bip_39_word_new_line1: silent
+bip_39_word_new_line10: 'silent
+
+  waste
+
+  patrol
+
+  oxygen
+
+  eager
+
+  verify
+
+  retreat
+
+  february
+
+  badge
+
+  public'
+bip_39_word_new_line11: 'silent
+
+  waste
+
+  patrol
+
+  oxygen
+
+  eager
+
+  verify
+
+  retreat
+
+  february
+
+  badge
+
+  public
+
+  volume'
+bip_39_word_new_line12: 'silent
+
+  waste
+
+  patrol
+
+  oxygen
+
+  eager
+
+  verify
+
+  retreat
+
+  february
+
+  badge
+
+  public
+
+  volume
+
+  arch'
+bip_39_word_new_line2: 'silent
+
+  waste'
+bip_39_word_new_line3: 'silent
+
+  waste
+
+  patrol'
+bip_39_word_new_line4: 'silent
+
+  waste
+
+  patrol
+
+  oxygen'
+bip_39_word_new_line5: 'silent
+
+  waste
+
+  patrol
+
+  oxygen
+
+  eager'
+bip_39_word_new_line6: 'silent
+
+  waste
+
+  patrol
+
+  oxygen
+
+  eager
+
+  verify'
+bip_39_word_new_line7: 'silent
+
+  waste
+
+  patrol
+
+  oxygen
+
+  eager
+
+  verify
+
+  retreat'
+bip_39_word_new_line8: 'silent
+
+  waste
+
+  patrol
+
+  oxygen
+
+  eager
+
+  verify
+
+  retreat
+
+  february'
+bip_39_word_new_line9: 'silent
+
+  waste
+
+  patrol
+
+  oxygen
+
+  eager
+
+  verify
+
+  retreat
+
+  february
+
+  badge'
+bip_39_word_space_0:
+- silent
+- waste
+- patrol
+- oxygen
+- eager
+- verify
+- retreat
+- february
+- badge
+- public
+- volume
+- arch
+bip_39_word_space_1: silent
+bip_39_word_space_10: silent waste patrol oxygen eager verify retreat february badge
+  public
+bip_39_word_space_11: silent waste patrol oxygen eager verify retreat february badge
+  public volume
+bip_39_word_space_12: silent waste patrol oxygen eager verify retreat february badge
+  public volume arch
+bip_39_word_space_2: silent waste
+bip_39_word_space_3: silent waste patrol
+bip_39_word_space_4: silent waste patrol oxygen
+bip_39_word_space_5: silent waste patrol oxygen eager
+bip_39_word_space_6: silent waste patrol oxygen eager verify
+bip_39_word_space_7: silent waste patrol oxygen eager verify retreat
+bip_39_word_space_8: silent waste patrol oxygen eager verify retreat february
+bip_39_word_space_9: silent waste patrol oxygen eager verify retreat february badge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

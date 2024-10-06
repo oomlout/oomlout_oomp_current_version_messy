@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: little trust
+  * bip 39 word 3: little trust phrase
+  * bip 39 word: little trust phrase index execute canvas fine supreme talk smart bottom adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | little |  
+| bip_39_word_new_br10 | little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk<br>smart |  
+| bip_39_word_new_br11 | little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk<br>smart<br>bottom |  
+| bip_39_word_new_br12 | little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk<br>smart<br>bottom<br>adjust |  
+| bip_39_word_new_br2 | little<br>trust |  
+| bip_39_word_new_br3 | little<br>trust<br>phrase |  
+| bip_39_word_new_br4 | little<br>trust<br>phrase<br>index |  
+| bip_39_word_new_br5 | little<br>trust<br>phrase<br>index<br>execute |  
+| bip_39_word_new_br6 | little<br>trust<br>phrase<br>index<br>execute<br>canvas |  
+| bip_39_word_new_br7 | little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine |  
+| bip_39_word_new_br8 | little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme |  
+| bip_39_word_new_br9 | little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk |  
+| bip_39_word_new_line1 | little |  
+| bip_39_word_new_line10 | little
+trust
+phrase
+index
+execute
+canvas
+fine
+supreme
+talk
+smart |  
+| bip_39_word_new_line11 | little
+trust
+phrase
+index
+execute
+canvas
+fine
+supreme
+talk
+smart
+bottom |  
+| bip_39_word_new_line12 | little
+trust
+phrase
+index
+execute
+canvas
+fine
+supreme
+talk
+smart
+bottom
+adjust |  
+| bip_39_word_new_line2 | little
+trust |  
+| bip_39_word_new_line3 | little
+trust
+phrase |  
+| bip_39_word_new_line4 | little
+trust
+phrase
+index |  
+| bip_39_word_new_line5 | little
+trust
+phrase
+index
+execute |  
+| bip_39_word_new_line6 | little
+trust
+phrase
+index
+execute
+canvas |  
+| bip_39_word_new_line7 | little
+trust
+phrase
+index
+execute
+canvas
+fine |  
+| bip_39_word_new_line8 | little
+trust
+phrase
+index
+execute
+canvas
+fine
+supreme |  
+| bip_39_word_new_line9 | little
+trust
+phrase
+index
+execute
+canvas
+fine
+supreme
+talk |  
+| bip_39_word_space_0 | ['little', 'trust', 'phrase', 'index', 'execute', 'canvas', 'fine', 'supreme', 'talk', 'smart', 'bottom', 'adjust'] |  
+| bip_39_word_space_1 | little |  
+| bip_39_word_space_10 | little trust phrase index execute canvas fine supreme talk smart |  
+| bip_39_word_space_11 | little trust phrase index execute canvas fine supreme talk smart bottom |  
+| bip_39_word_space_12 | little trust phrase index execute canvas fine supreme talk smart bottom adjust |  
+| bip_39_word_space_2 | little trust |  
+| bip_39_word_space_3 | little trust phrase |  
+| bip_39_word_space_4 | little trust phrase index |  
+| bip_39_word_space_5 | little trust phrase index execute |  
+| bip_39_word_space_6 | little trust phrase index execute canvas |  
+| bip_39_word_space_7 | little trust phrase index execute canvas fine |  
+| bip_39_word_space_8 | little trust phrase index execute canvas fine supreme |  
+| bip_39_word_space_9 | little trust phrase index execute canvas fine supreme talk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

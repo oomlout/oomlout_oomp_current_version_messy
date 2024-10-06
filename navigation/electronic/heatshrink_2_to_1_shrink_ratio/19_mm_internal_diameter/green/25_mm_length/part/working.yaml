@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dilemma
+bip_39_word_new_br10: dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy
+bip_39_word_new_br11: dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy<br>odor
+bip_39_word_new_br12: dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy<br>spy<br>odor<br>already
+bip_39_word_new_br2: dilemma<br>hurry
+bip_39_word_new_br3: dilemma<br>hurry<br>olive
+bip_39_word_new_br4: dilemma<br>hurry<br>olive<br>salon
+bip_39_word_new_br5: dilemma<br>hurry<br>olive<br>salon<br>remain
+bip_39_word_new_br6: dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself
+bip_39_word_new_br7: dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount
+bip_39_word_new_br8: dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule
+bip_39_word_new_br9: dilemma<br>hurry<br>olive<br>salon<br>remain<br>myself<br>amount<br>mule<br>enemy
+bip_39_word_new_line1: dilemma
+bip_39_word_new_line10: 'dilemma
+
+  hurry
+
+  olive
+
+  salon
+
+  remain
+
+  myself
+
+  amount
+
+  mule
+
+  enemy
+
+  spy'
+bip_39_word_new_line11: 'dilemma
+
+  hurry
+
+  olive
+
+  salon
+
+  remain
+
+  myself
+
+  amount
+
+  mule
+
+  enemy
+
+  spy
+
+  odor'
+bip_39_word_new_line12: 'dilemma
+
+  hurry
+
+  olive
+
+  salon
+
+  remain
+
+  myself
+
+  amount
+
+  mule
+
+  enemy
+
+  spy
+
+  odor
+
+  already'
+bip_39_word_new_line2: 'dilemma
+
+  hurry'
+bip_39_word_new_line3: 'dilemma
+
+  hurry
+
+  olive'
+bip_39_word_new_line4: 'dilemma
+
+  hurry
+
+  olive
+
+  salon'
+bip_39_word_new_line5: 'dilemma
+
+  hurry
+
+  olive
+
+  salon
+
+  remain'
+bip_39_word_new_line6: 'dilemma
+
+  hurry
+
+  olive
+
+  salon
+
+  remain
+
+  myself'
+bip_39_word_new_line7: 'dilemma
+
+  hurry
+
+  olive
+
+  salon
+
+  remain
+
+  myself
+
+  amount'
+bip_39_word_new_line8: 'dilemma
+
+  hurry
+
+  olive
+
+  salon
+
+  remain
+
+  myself
+
+  amount
+
+  mule'
+bip_39_word_new_line9: 'dilemma
+
+  hurry
+
+  olive
+
+  salon
+
+  remain
+
+  myself
+
+  amount
+
+  mule
+
+  enemy'
+bip_39_word_space_0:
+- dilemma
+- hurry
+- olive
+- salon
+- remain
+- myself
+- amount
+- mule
+- enemy
+- spy
+- odor
+- already
+bip_39_word_space_1: dilemma
+bip_39_word_space_10: dilemma hurry olive salon remain myself amount mule enemy spy
+bip_39_word_space_11: dilemma hurry olive salon remain myself amount mule enemy spy
+  odor
+bip_39_word_space_12: dilemma hurry olive salon remain myself amount mule enemy spy
+  odor already
+bip_39_word_space_2: dilemma hurry
+bip_39_word_space_3: dilemma hurry olive
+bip_39_word_space_4: dilemma hurry olive salon
+bip_39_word_space_5: dilemma hurry olive salon remain
+bip_39_word_space_6: dilemma hurry olive salon remain myself
+bip_39_word_space_7: dilemma hurry olive salon remain myself amount
+bip_39_word_space_8: dilemma hurry olive salon remain myself amount mule
+bip_39_word_space_9: dilemma hurry olive salon remain myself amount mule enemy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

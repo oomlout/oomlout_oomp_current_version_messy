@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: correct army
+  * bip 39 word 3: correct army nerve
+  * bip 39 word: correct army nerve letter margin risk legal poet inmate gown equal annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | correct |  
+| bip_39_word_new_br10 | correct<br>army<br>nerve<br>letter<br>margin<br>risk<br>legal<br>poet<br>inmate<br>gown |  
+| bip_39_word_new_br11 | correct<br>army<br>nerve<br>letter<br>margin<br>risk<br>legal<br>poet<br>inmate<br>gown<br>equal |  
+| bip_39_word_new_br12 | correct<br>army<br>nerve<br>letter<br>margin<br>risk<br>legal<br>poet<br>inmate<br>gown<br>equal<br>annual |  
+| bip_39_word_new_br2 | correct<br>army |  
+| bip_39_word_new_br3 | correct<br>army<br>nerve |  
+| bip_39_word_new_br4 | correct<br>army<br>nerve<br>letter |  
+| bip_39_word_new_br5 | correct<br>army<br>nerve<br>letter<br>margin |  
+| bip_39_word_new_br6 | correct<br>army<br>nerve<br>letter<br>margin<br>risk |  
+| bip_39_word_new_br7 | correct<br>army<br>nerve<br>letter<br>margin<br>risk<br>legal |  
+| bip_39_word_new_br8 | correct<br>army<br>nerve<br>letter<br>margin<br>risk<br>legal<br>poet |  
+| bip_39_word_new_br9 | correct<br>army<br>nerve<br>letter<br>margin<br>risk<br>legal<br>poet<br>inmate |  
+| bip_39_word_new_line1 | correct |  
+| bip_39_word_new_line10 | correct
+army
+nerve
+letter
+margin
+risk
+legal
+poet
+inmate
+gown |  
+| bip_39_word_new_line11 | correct
+army
+nerve
+letter
+margin
+risk
+legal
+poet
+inmate
+gown
+equal |  
+| bip_39_word_new_line12 | correct
+army
+nerve
+letter
+margin
+risk
+legal
+poet
+inmate
+gown
+equal
+annual |  
+| bip_39_word_new_line2 | correct
+army |  
+| bip_39_word_new_line3 | correct
+army
+nerve |  
+| bip_39_word_new_line4 | correct
+army
+nerve
+letter |  
+| bip_39_word_new_line5 | correct
+army
+nerve
+letter
+margin |  
+| bip_39_word_new_line6 | correct
+army
+nerve
+letter
+margin
+risk |  
+| bip_39_word_new_line7 | correct
+army
+nerve
+letter
+margin
+risk
+legal |  
+| bip_39_word_new_line8 | correct
+army
+nerve
+letter
+margin
+risk
+legal
+poet |  
+| bip_39_word_new_line9 | correct
+army
+nerve
+letter
+margin
+risk
+legal
+poet
+inmate |  
+| bip_39_word_space_0 | ['correct', 'army', 'nerve', 'letter', 'margin', 'risk', 'legal', 'poet', 'inmate', 'gown', 'equal', 'annual'] |  
+| bip_39_word_space_1 | correct |  
+| bip_39_word_space_10 | correct army nerve letter margin risk legal poet inmate gown |  
+| bip_39_word_space_11 | correct army nerve letter margin risk legal poet inmate gown equal |  
+| bip_39_word_space_12 | correct army nerve letter margin risk legal poet inmate gown equal annual |  
+| bip_39_word_space_2 | correct army |  
+| bip_39_word_space_3 | correct army nerve |  
+| bip_39_word_space_4 | correct army nerve letter |  
+| bip_39_word_space_5 | correct army nerve letter margin |  
+| bip_39_word_space_6 | correct army nerve letter margin risk |  
+| bip_39_word_space_7 | correct army nerve letter margin risk legal |  
+| bip_39_word_space_8 | correct army nerve letter margin risk legal poet |  
+| bip_39_word_space_9 | correct army nerve letter margin risk legal poet inmate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

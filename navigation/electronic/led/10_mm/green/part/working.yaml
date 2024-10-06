@@ -1,3 +1,186 @@
+bip_39_word_new_br1: leg
+bip_39_word_new_br10: leg<br>stomach<br>acoustic<br>lake<br>seek<br>guide<br>usage<br>rent<br>nominee<br>nut
+bip_39_word_new_br11: leg<br>stomach<br>acoustic<br>lake<br>seek<br>guide<br>usage<br>rent<br>nominee<br>nut<br>raw
+bip_39_word_new_br12: leg<br>stomach<br>acoustic<br>lake<br>seek<br>guide<br>usage<br>rent<br>nominee<br>nut<br>raw<br>album
+bip_39_word_new_br2: leg<br>stomach
+bip_39_word_new_br3: leg<br>stomach<br>acoustic
+bip_39_word_new_br4: leg<br>stomach<br>acoustic<br>lake
+bip_39_word_new_br5: leg<br>stomach<br>acoustic<br>lake<br>seek
+bip_39_word_new_br6: leg<br>stomach<br>acoustic<br>lake<br>seek<br>guide
+bip_39_word_new_br7: leg<br>stomach<br>acoustic<br>lake<br>seek<br>guide<br>usage
+bip_39_word_new_br8: leg<br>stomach<br>acoustic<br>lake<br>seek<br>guide<br>usage<br>rent
+bip_39_word_new_br9: leg<br>stomach<br>acoustic<br>lake<br>seek<br>guide<br>usage<br>rent<br>nominee
+bip_39_word_new_line1: leg
+bip_39_word_new_line10: 'leg
+
+  stomach
+
+  acoustic
+
+  lake
+
+  seek
+
+  guide
+
+  usage
+
+  rent
+
+  nominee
+
+  nut'
+bip_39_word_new_line11: 'leg
+
+  stomach
+
+  acoustic
+
+  lake
+
+  seek
+
+  guide
+
+  usage
+
+  rent
+
+  nominee
+
+  nut
+
+  raw'
+bip_39_word_new_line12: 'leg
+
+  stomach
+
+  acoustic
+
+  lake
+
+  seek
+
+  guide
+
+  usage
+
+  rent
+
+  nominee
+
+  nut
+
+  raw
+
+  album'
+bip_39_word_new_line2: 'leg
+
+  stomach'
+bip_39_word_new_line3: 'leg
+
+  stomach
+
+  acoustic'
+bip_39_word_new_line4: 'leg
+
+  stomach
+
+  acoustic
+
+  lake'
+bip_39_word_new_line5: 'leg
+
+  stomach
+
+  acoustic
+
+  lake
+
+  seek'
+bip_39_word_new_line6: 'leg
+
+  stomach
+
+  acoustic
+
+  lake
+
+  seek
+
+  guide'
+bip_39_word_new_line7: 'leg
+
+  stomach
+
+  acoustic
+
+  lake
+
+  seek
+
+  guide
+
+  usage'
+bip_39_word_new_line8: 'leg
+
+  stomach
+
+  acoustic
+
+  lake
+
+  seek
+
+  guide
+
+  usage
+
+  rent'
+bip_39_word_new_line9: 'leg
+
+  stomach
+
+  acoustic
+
+  lake
+
+  seek
+
+  guide
+
+  usage
+
+  rent
+
+  nominee'
+bip_39_word_space_0:
+- leg
+- stomach
+- acoustic
+- lake
+- seek
+- guide
+- usage
+- rent
+- nominee
+- nut
+- raw
+- album
+bip_39_word_space_1: leg
+bip_39_word_space_10: leg stomach acoustic lake seek guide usage rent nominee nut
+bip_39_word_space_11: leg stomach acoustic lake seek guide usage rent nominee nut
+  raw
+bip_39_word_space_12: leg stomach acoustic lake seek guide usage rent nominee nut
+  raw album
+bip_39_word_space_2: leg stomach
+bip_39_word_space_3: leg stomach acoustic
+bip_39_word_space_4: leg stomach acoustic lake
+bip_39_word_space_5: leg stomach acoustic lake seek
+bip_39_word_space_6: leg stomach acoustic lake seek guide
+bip_39_word_space_7: leg stomach acoustic lake seek guide usage
+bip_39_word_space_8: leg stomach acoustic lake seek guide usage rent
+bip_39_word_space_9: leg stomach acoustic lake seek guide usage rent nominee
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

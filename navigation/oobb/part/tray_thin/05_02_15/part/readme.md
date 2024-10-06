@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: atom dismiss
+  * bip 39 word 3: atom dismiss three
+  * bip 39 word: atom dismiss three avocado dice topple alter split gallery shoot parrot arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | atom |  
+| bip_39_word_new_br10 | atom<br>dismiss<br>three<br>avocado<br>dice<br>topple<br>alter<br>split<br>gallery<br>shoot |  
+| bip_39_word_new_br11 | atom<br>dismiss<br>three<br>avocado<br>dice<br>topple<br>alter<br>split<br>gallery<br>shoot<br>parrot |  
+| bip_39_word_new_br12 | atom<br>dismiss<br>three<br>avocado<br>dice<br>topple<br>alter<br>split<br>gallery<br>shoot<br>parrot<br>arena |  
+| bip_39_word_new_br2 | atom<br>dismiss |  
+| bip_39_word_new_br3 | atom<br>dismiss<br>three |  
+| bip_39_word_new_br4 | atom<br>dismiss<br>three<br>avocado |  
+| bip_39_word_new_br5 | atom<br>dismiss<br>three<br>avocado<br>dice |  
+| bip_39_word_new_br6 | atom<br>dismiss<br>three<br>avocado<br>dice<br>topple |  
+| bip_39_word_new_br7 | atom<br>dismiss<br>three<br>avocado<br>dice<br>topple<br>alter |  
+| bip_39_word_new_br8 | atom<br>dismiss<br>three<br>avocado<br>dice<br>topple<br>alter<br>split |  
+| bip_39_word_new_br9 | atom<br>dismiss<br>three<br>avocado<br>dice<br>topple<br>alter<br>split<br>gallery |  
+| bip_39_word_new_line1 | atom |  
+| bip_39_word_new_line10 | atom
+dismiss
+three
+avocado
+dice
+topple
+alter
+split
+gallery
+shoot |  
+| bip_39_word_new_line11 | atom
+dismiss
+three
+avocado
+dice
+topple
+alter
+split
+gallery
+shoot
+parrot |  
+| bip_39_word_new_line12 | atom
+dismiss
+three
+avocado
+dice
+topple
+alter
+split
+gallery
+shoot
+parrot
+arena |  
+| bip_39_word_new_line2 | atom
+dismiss |  
+| bip_39_word_new_line3 | atom
+dismiss
+three |  
+| bip_39_word_new_line4 | atom
+dismiss
+three
+avocado |  
+| bip_39_word_new_line5 | atom
+dismiss
+three
+avocado
+dice |  
+| bip_39_word_new_line6 | atom
+dismiss
+three
+avocado
+dice
+topple |  
+| bip_39_word_new_line7 | atom
+dismiss
+three
+avocado
+dice
+topple
+alter |  
+| bip_39_word_new_line8 | atom
+dismiss
+three
+avocado
+dice
+topple
+alter
+split |  
+| bip_39_word_new_line9 | atom
+dismiss
+three
+avocado
+dice
+topple
+alter
+split
+gallery |  
+| bip_39_word_space_0 | ['atom', 'dismiss', 'three', 'avocado', 'dice', 'topple', 'alter', 'split', 'gallery', 'shoot', 'parrot', 'arena'] |  
+| bip_39_word_space_1 | atom |  
+| bip_39_word_space_10 | atom dismiss three avocado dice topple alter split gallery shoot |  
+| bip_39_word_space_11 | atom dismiss three avocado dice topple alter split gallery shoot parrot |  
+| bip_39_word_space_12 | atom dismiss three avocado dice topple alter split gallery shoot parrot arena |  
+| bip_39_word_space_2 | atom dismiss |  
+| bip_39_word_space_3 | atom dismiss three |  
+| bip_39_word_space_4 | atom dismiss three avocado |  
+| bip_39_word_space_5 | atom dismiss three avocado dice |  
+| bip_39_word_space_6 | atom dismiss three avocado dice topple |  
+| bip_39_word_space_7 | atom dismiss three avocado dice topple alter |  
+| bip_39_word_space_8 | atom dismiss three avocado dice topple alter split |  
+| bip_39_word_space_9 | atom dismiss three avocado dice topple alter split gallery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

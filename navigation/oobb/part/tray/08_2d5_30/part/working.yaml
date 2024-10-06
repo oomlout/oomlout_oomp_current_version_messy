@@ -1,3 +1,185 @@
+bip_39_word_new_br1: brisk
+bip_39_word_new_br10: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial
+bip_39_word_new_br11: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial<br>cement
+bip_39_word_new_br12: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit<br>initial<br>cement<br>actor
+bip_39_word_new_br2: brisk<br>ship
+bip_39_word_new_br3: brisk<br>ship<br>usual
+bip_39_word_new_br4: brisk<br>ship<br>usual<br>reward
+bip_39_word_new_br5: brisk<br>ship<br>usual<br>reward<br>cup
+bip_39_word_new_br6: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb
+bip_39_word_new_br7: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide
+bip_39_word_new_br8: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive
+bip_39_word_new_br9: brisk<br>ship<br>usual<br>reward<br>cup<br>bomb<br>slide<br>drive<br>orbit
+bip_39_word_new_line1: brisk
+bip_39_word_new_line10: 'brisk
+
+  ship
+
+  usual
+
+  reward
+
+  cup
+
+  bomb
+
+  slide
+
+  drive
+
+  orbit
+
+  initial'
+bip_39_word_new_line11: 'brisk
+
+  ship
+
+  usual
+
+  reward
+
+  cup
+
+  bomb
+
+  slide
+
+  drive
+
+  orbit
+
+  initial
+
+  cement'
+bip_39_word_new_line12: 'brisk
+
+  ship
+
+  usual
+
+  reward
+
+  cup
+
+  bomb
+
+  slide
+
+  drive
+
+  orbit
+
+  initial
+
+  cement
+
+  actor'
+bip_39_word_new_line2: 'brisk
+
+  ship'
+bip_39_word_new_line3: 'brisk
+
+  ship
+
+  usual'
+bip_39_word_new_line4: 'brisk
+
+  ship
+
+  usual
+
+  reward'
+bip_39_word_new_line5: 'brisk
+
+  ship
+
+  usual
+
+  reward
+
+  cup'
+bip_39_word_new_line6: 'brisk
+
+  ship
+
+  usual
+
+  reward
+
+  cup
+
+  bomb'
+bip_39_word_new_line7: 'brisk
+
+  ship
+
+  usual
+
+  reward
+
+  cup
+
+  bomb
+
+  slide'
+bip_39_word_new_line8: 'brisk
+
+  ship
+
+  usual
+
+  reward
+
+  cup
+
+  bomb
+
+  slide
+
+  drive'
+bip_39_word_new_line9: 'brisk
+
+  ship
+
+  usual
+
+  reward
+
+  cup
+
+  bomb
+
+  slide
+
+  drive
+
+  orbit'
+bip_39_word_space_0:
+- brisk
+- ship
+- usual
+- reward
+- cup
+- bomb
+- slide
+- drive
+- orbit
+- initial
+- cement
+- actor
+bip_39_word_space_1: brisk
+bip_39_word_space_10: brisk ship usual reward cup bomb slide drive orbit initial
+bip_39_word_space_11: brisk ship usual reward cup bomb slide drive orbit initial cement
+bip_39_word_space_12: brisk ship usual reward cup bomb slide drive orbit initial cement
+  actor
+bip_39_word_space_2: brisk ship
+bip_39_word_space_3: brisk ship usual
+bip_39_word_space_4: brisk ship usual reward
+bip_39_word_space_5: brisk ship usual reward cup
+bip_39_word_space_6: brisk ship usual reward cup bomb
+bip_39_word_space_7: brisk ship usual reward cup bomb slide
+bip_39_word_space_8: brisk ship usual reward cup bomb slide drive
+bip_39_word_space_9: brisk ship usual reward cup bomb slide drive orbit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

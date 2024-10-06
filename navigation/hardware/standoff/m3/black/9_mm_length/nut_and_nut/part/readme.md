@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: give student
+  * bip 39 word 3: give student glad
+  * bip 39 word: give student glad page leg eight note vault host domain fashion assist
 
 ### other_codes
 * short_code: so3b9nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | give |  
+| bip_39_word_new_br10 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain |  
+| bip_39_word_new_br11 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain<br>fashion |  
+| bip_39_word_new_br12 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host<br>domain<br>fashion<br>assist |  
+| bip_39_word_new_br2 | give<br>student |  
+| bip_39_word_new_br3 | give<br>student<br>glad |  
+| bip_39_word_new_br4 | give<br>student<br>glad<br>page |  
+| bip_39_word_new_br5 | give<br>student<br>glad<br>page<br>leg |  
+| bip_39_word_new_br6 | give<br>student<br>glad<br>page<br>leg<br>eight |  
+| bip_39_word_new_br7 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note |  
+| bip_39_word_new_br8 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault |  
+| bip_39_word_new_br9 | give<br>student<br>glad<br>page<br>leg<br>eight<br>note<br>vault<br>host |  
+| bip_39_word_new_line1 | give |  
+| bip_39_word_new_line10 | give
+student
+glad
+page
+leg
+eight
+note
+vault
+host
+domain |  
+| bip_39_word_new_line11 | give
+student
+glad
+page
+leg
+eight
+note
+vault
+host
+domain
+fashion |  
+| bip_39_word_new_line12 | give
+student
+glad
+page
+leg
+eight
+note
+vault
+host
+domain
+fashion
+assist |  
+| bip_39_word_new_line2 | give
+student |  
+| bip_39_word_new_line3 | give
+student
+glad |  
+| bip_39_word_new_line4 | give
+student
+glad
+page |  
+| bip_39_word_new_line5 | give
+student
+glad
+page
+leg |  
+| bip_39_word_new_line6 | give
+student
+glad
+page
+leg
+eight |  
+| bip_39_word_new_line7 | give
+student
+glad
+page
+leg
+eight
+note |  
+| bip_39_word_new_line8 | give
+student
+glad
+page
+leg
+eight
+note
+vault |  
+| bip_39_word_new_line9 | give
+student
+glad
+page
+leg
+eight
+note
+vault
+host |  
+| bip_39_word_space_0 | ['give', 'student', 'glad', 'page', 'leg', 'eight', 'note', 'vault', 'host', 'domain', 'fashion', 'assist'] |  
+| bip_39_word_space_1 | give |  
+| bip_39_word_space_10 | give student glad page leg eight note vault host domain |  
+| bip_39_word_space_11 | give student glad page leg eight note vault host domain fashion |  
+| bip_39_word_space_12 | give student glad page leg eight note vault host domain fashion assist |  
+| bip_39_word_space_2 | give student |  
+| bip_39_word_space_3 | give student glad |  
+| bip_39_word_space_4 | give student glad page |  
+| bip_39_word_space_5 | give student glad page leg |  
+| bip_39_word_space_6 | give student glad page leg eight |  
+| bip_39_word_space_7 | give student glad page leg eight note |  
+| bip_39_word_space_8 | give student glad page leg eight note vault |  
+| bip_39_word_space_9 | give student glad page leg eight note vault host |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

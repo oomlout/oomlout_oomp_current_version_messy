@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grab zebra
+  * bip 39 word 3: grab zebra milk
+  * bip 39 word: grab zebra milk cruel fine wasp omit pencil market leopard fitness arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grab |  
+| bip_39_word_new_br10 | grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market<br>leopard |  
+| bip_39_word_new_br11 | grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market<br>leopard<br>fitness |  
+| bip_39_word_new_br12 | grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market<br>leopard<br>fitness<br>arrow |  
+| bip_39_word_new_br2 | grab<br>zebra |  
+| bip_39_word_new_br3 | grab<br>zebra<br>milk |  
+| bip_39_word_new_br4 | grab<br>zebra<br>milk<br>cruel |  
+| bip_39_word_new_br5 | grab<br>zebra<br>milk<br>cruel<br>fine |  
+| bip_39_word_new_br6 | grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp |  
+| bip_39_word_new_br7 | grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit |  
+| bip_39_word_new_br8 | grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil |  
+| bip_39_word_new_br9 | grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market |  
+| bip_39_word_new_line1 | grab |  
+| bip_39_word_new_line10 | grab
+zebra
+milk
+cruel
+fine
+wasp
+omit
+pencil
+market
+leopard |  
+| bip_39_word_new_line11 | grab
+zebra
+milk
+cruel
+fine
+wasp
+omit
+pencil
+market
+leopard
+fitness |  
+| bip_39_word_new_line12 | grab
+zebra
+milk
+cruel
+fine
+wasp
+omit
+pencil
+market
+leopard
+fitness
+arrow |  
+| bip_39_word_new_line2 | grab
+zebra |  
+| bip_39_word_new_line3 | grab
+zebra
+milk |  
+| bip_39_word_new_line4 | grab
+zebra
+milk
+cruel |  
+| bip_39_word_new_line5 | grab
+zebra
+milk
+cruel
+fine |  
+| bip_39_word_new_line6 | grab
+zebra
+milk
+cruel
+fine
+wasp |  
+| bip_39_word_new_line7 | grab
+zebra
+milk
+cruel
+fine
+wasp
+omit |  
+| bip_39_word_new_line8 | grab
+zebra
+milk
+cruel
+fine
+wasp
+omit
+pencil |  
+| bip_39_word_new_line9 | grab
+zebra
+milk
+cruel
+fine
+wasp
+omit
+pencil
+market |  
+| bip_39_word_space_0 | ['grab', 'zebra', 'milk', 'cruel', 'fine', 'wasp', 'omit', 'pencil', 'market', 'leopard', 'fitness', 'arrow'] |  
+| bip_39_word_space_1 | grab |  
+| bip_39_word_space_10 | grab zebra milk cruel fine wasp omit pencil market leopard |  
+| bip_39_word_space_11 | grab zebra milk cruel fine wasp omit pencil market leopard fitness |  
+| bip_39_word_space_12 | grab zebra milk cruel fine wasp omit pencil market leopard fitness arrow |  
+| bip_39_word_space_2 | grab zebra |  
+| bip_39_word_space_3 | grab zebra milk |  
+| bip_39_word_space_4 | grab zebra milk cruel |  
+| bip_39_word_space_5 | grab zebra milk cruel fine |  
+| bip_39_word_space_6 | grab zebra milk cruel fine wasp |  
+| bip_39_word_space_7 | grab zebra milk cruel fine wasp omit |  
+| bip_39_word_space_8 | grab zebra milk cruel fine wasp omit pencil |  
+| bip_39_word_space_9 | grab zebra milk cruel fine wasp omit pencil market |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

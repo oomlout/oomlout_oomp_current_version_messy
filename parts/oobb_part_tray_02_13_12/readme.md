@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: begin green
+  * bip 39 word 3: begin green beauty
+  * bip 39 word: begin green beauty session toe trip whale danger forest yard short arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | begin |  
+| bip_39_word_new_br10 | begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard |  
+| bip_39_word_new_br11 | begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard<br>short |  
+| bip_39_word_new_br12 | begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest<br>yard<br>short<br>arrange |  
+| bip_39_word_new_br2 | begin<br>green |  
+| bip_39_word_new_br3 | begin<br>green<br>beauty |  
+| bip_39_word_new_br4 | begin<br>green<br>beauty<br>session |  
+| bip_39_word_new_br5 | begin<br>green<br>beauty<br>session<br>toe |  
+| bip_39_word_new_br6 | begin<br>green<br>beauty<br>session<br>toe<br>trip |  
+| bip_39_word_new_br7 | begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale |  
+| bip_39_word_new_br8 | begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger |  
+| bip_39_word_new_br9 | begin<br>green<br>beauty<br>session<br>toe<br>trip<br>whale<br>danger<br>forest |  
+| bip_39_word_new_line1 | begin |  
+| bip_39_word_new_line10 | begin
+green
+beauty
+session
+toe
+trip
+whale
+danger
+forest
+yard |  
+| bip_39_word_new_line11 | begin
+green
+beauty
+session
+toe
+trip
+whale
+danger
+forest
+yard
+short |  
+| bip_39_word_new_line12 | begin
+green
+beauty
+session
+toe
+trip
+whale
+danger
+forest
+yard
+short
+arrange |  
+| bip_39_word_new_line2 | begin
+green |  
+| bip_39_word_new_line3 | begin
+green
+beauty |  
+| bip_39_word_new_line4 | begin
+green
+beauty
+session |  
+| bip_39_word_new_line5 | begin
+green
+beauty
+session
+toe |  
+| bip_39_word_new_line6 | begin
+green
+beauty
+session
+toe
+trip |  
+| bip_39_word_new_line7 | begin
+green
+beauty
+session
+toe
+trip
+whale |  
+| bip_39_word_new_line8 | begin
+green
+beauty
+session
+toe
+trip
+whale
+danger |  
+| bip_39_word_new_line9 | begin
+green
+beauty
+session
+toe
+trip
+whale
+danger
+forest |  
+| bip_39_word_space_0 | ['begin', 'green', 'beauty', 'session', 'toe', 'trip', 'whale', 'danger', 'forest', 'yard', 'short', 'arrange'] |  
+| bip_39_word_space_1 | begin |  
+| bip_39_word_space_10 | begin green beauty session toe trip whale danger forest yard |  
+| bip_39_word_space_11 | begin green beauty session toe trip whale danger forest yard short |  
+| bip_39_word_space_12 | begin green beauty session toe trip whale danger forest yard short arrange |  
+| bip_39_word_space_2 | begin green |  
+| bip_39_word_space_3 | begin green beauty |  
+| bip_39_word_space_4 | begin green beauty session |  
+| bip_39_word_space_5 | begin green beauty session toe |  
+| bip_39_word_space_6 | begin green beauty session toe trip |  
+| bip_39_word_space_7 | begin green beauty session toe trip whale |  
+| bip_39_word_space_8 | begin green beauty session toe trip whale danger |  
+| bip_39_word_space_9 | begin green beauty session toe trip whale danger forest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

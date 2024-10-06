@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: conduct flee
+  * bip 39 word 3: conduct flee rule
+  * bip 39 word: conduct flee rule gadget mother hip limb license winner olive ugly afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | conduct |  
+| bip_39_word_new_br10 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner<br>olive |  
+| bip_39_word_new_br11 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner<br>olive<br>ugly |  
+| bip_39_word_new_br12 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner<br>olive<br>ugly<br>afford |  
+| bip_39_word_new_br2 | conduct<br>flee |  
+| bip_39_word_new_br3 | conduct<br>flee<br>rule |  
+| bip_39_word_new_br4 | conduct<br>flee<br>rule<br>gadget |  
+| bip_39_word_new_br5 | conduct<br>flee<br>rule<br>gadget<br>mother |  
+| bip_39_word_new_br6 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip |  
+| bip_39_word_new_br7 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb |  
+| bip_39_word_new_br8 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license |  
+| bip_39_word_new_br9 | conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner |  
+| bip_39_word_new_line1 | conduct |  
+| bip_39_word_new_line10 | conduct
+flee
+rule
+gadget
+mother
+hip
+limb
+license
+winner
+olive |  
+| bip_39_word_new_line11 | conduct
+flee
+rule
+gadget
+mother
+hip
+limb
+license
+winner
+olive
+ugly |  
+| bip_39_word_new_line12 | conduct
+flee
+rule
+gadget
+mother
+hip
+limb
+license
+winner
+olive
+ugly
+afford |  
+| bip_39_word_new_line2 | conduct
+flee |  
+| bip_39_word_new_line3 | conduct
+flee
+rule |  
+| bip_39_word_new_line4 | conduct
+flee
+rule
+gadget |  
+| bip_39_word_new_line5 | conduct
+flee
+rule
+gadget
+mother |  
+| bip_39_word_new_line6 | conduct
+flee
+rule
+gadget
+mother
+hip |  
+| bip_39_word_new_line7 | conduct
+flee
+rule
+gadget
+mother
+hip
+limb |  
+| bip_39_word_new_line8 | conduct
+flee
+rule
+gadget
+mother
+hip
+limb
+license |  
+| bip_39_word_new_line9 | conduct
+flee
+rule
+gadget
+mother
+hip
+limb
+license
+winner |  
+| bip_39_word_space_0 | ['conduct', 'flee', 'rule', 'gadget', 'mother', 'hip', 'limb', 'license', 'winner', 'olive', 'ugly', 'afford'] |  
+| bip_39_word_space_1 | conduct |  
+| bip_39_word_space_10 | conduct flee rule gadget mother hip limb license winner olive |  
+| bip_39_word_space_11 | conduct flee rule gadget mother hip limb license winner olive ugly |  
+| bip_39_word_space_12 | conduct flee rule gadget mother hip limb license winner olive ugly afford |  
+| bip_39_word_space_2 | conduct flee |  
+| bip_39_word_space_3 | conduct flee rule |  
+| bip_39_word_space_4 | conduct flee rule gadget |  
+| bip_39_word_space_5 | conduct flee rule gadget mother |  
+| bip_39_word_space_6 | conduct flee rule gadget mother hip |  
+| bip_39_word_space_7 | conduct flee rule gadget mother hip limb |  
+| bip_39_word_space_8 | conduct flee rule gadget mother hip limb license |  
+| bip_39_word_space_9 | conduct flee rule gadget mother hip limb license winner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

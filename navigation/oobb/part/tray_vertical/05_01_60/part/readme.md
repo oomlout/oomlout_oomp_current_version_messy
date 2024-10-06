@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: powder scheme
+  * bip 39 word 3: powder scheme giggle
+  * bip 39 word: powder scheme giggle green result long distance right arm amused analyst afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | powder |  
+| bip_39_word_new_br10 | powder<br>scheme<br>giggle<br>green<br>result<br>long<br>distance<br>right<br>arm<br>amused |  
+| bip_39_word_new_br11 | powder<br>scheme<br>giggle<br>green<br>result<br>long<br>distance<br>right<br>arm<br>amused<br>analyst |  
+| bip_39_word_new_br12 | powder<br>scheme<br>giggle<br>green<br>result<br>long<br>distance<br>right<br>arm<br>amused<br>analyst<br>afraid |  
+| bip_39_word_new_br2 | powder<br>scheme |  
+| bip_39_word_new_br3 | powder<br>scheme<br>giggle |  
+| bip_39_word_new_br4 | powder<br>scheme<br>giggle<br>green |  
+| bip_39_word_new_br5 | powder<br>scheme<br>giggle<br>green<br>result |  
+| bip_39_word_new_br6 | powder<br>scheme<br>giggle<br>green<br>result<br>long |  
+| bip_39_word_new_br7 | powder<br>scheme<br>giggle<br>green<br>result<br>long<br>distance |  
+| bip_39_word_new_br8 | powder<br>scheme<br>giggle<br>green<br>result<br>long<br>distance<br>right |  
+| bip_39_word_new_br9 | powder<br>scheme<br>giggle<br>green<br>result<br>long<br>distance<br>right<br>arm |  
+| bip_39_word_new_line1 | powder |  
+| bip_39_word_new_line10 | powder
+scheme
+giggle
+green
+result
+long
+distance
+right
+arm
+amused |  
+| bip_39_word_new_line11 | powder
+scheme
+giggle
+green
+result
+long
+distance
+right
+arm
+amused
+analyst |  
+| bip_39_word_new_line12 | powder
+scheme
+giggle
+green
+result
+long
+distance
+right
+arm
+amused
+analyst
+afraid |  
+| bip_39_word_new_line2 | powder
+scheme |  
+| bip_39_word_new_line3 | powder
+scheme
+giggle |  
+| bip_39_word_new_line4 | powder
+scheme
+giggle
+green |  
+| bip_39_word_new_line5 | powder
+scheme
+giggle
+green
+result |  
+| bip_39_word_new_line6 | powder
+scheme
+giggle
+green
+result
+long |  
+| bip_39_word_new_line7 | powder
+scheme
+giggle
+green
+result
+long
+distance |  
+| bip_39_word_new_line8 | powder
+scheme
+giggle
+green
+result
+long
+distance
+right |  
+| bip_39_word_new_line9 | powder
+scheme
+giggle
+green
+result
+long
+distance
+right
+arm |  
+| bip_39_word_space_0 | ['powder', 'scheme', 'giggle', 'green', 'result', 'long', 'distance', 'right', 'arm', 'amused', 'analyst', 'afraid'] |  
+| bip_39_word_space_1 | powder |  
+| bip_39_word_space_10 | powder scheme giggle green result long distance right arm amused |  
+| bip_39_word_space_11 | powder scheme giggle green result long distance right arm amused analyst |  
+| bip_39_word_space_12 | powder scheme giggle green result long distance right arm amused analyst afraid |  
+| bip_39_word_space_2 | powder scheme |  
+| bip_39_word_space_3 | powder scheme giggle |  
+| bip_39_word_space_4 | powder scheme giggle green |  
+| bip_39_word_space_5 | powder scheme giggle green result |  
+| bip_39_word_space_6 | powder scheme giggle green result long |  
+| bip_39_word_space_7 | powder scheme giggle green result long distance |  
+| bip_39_word_space_8 | powder scheme giggle green result long distance right |  
+| bip_39_word_space_9 | powder scheme giggle green result long distance right arm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

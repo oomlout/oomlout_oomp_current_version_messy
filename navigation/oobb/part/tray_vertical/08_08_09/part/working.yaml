@@ -1,3 +1,184 @@
+bip_39_word_new_br1: idea
+bip_39_word_new_br10: idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case
+bip_39_word_new_br11: idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case<br>ramp
+bip_39_word_new_br12: idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle<br>case<br>ramp<br>about
+bip_39_word_new_br2: idea<br>weird
+bip_39_word_new_br3: idea<br>weird<br>pink
+bip_39_word_new_br4: idea<br>weird<br>pink<br>blame
+bip_39_word_new_br5: idea<br>weird<br>pink<br>blame<br>ghost
+bip_39_word_new_br6: idea<br>weird<br>pink<br>blame<br>ghost<br>trip
+bip_39_word_new_br7: idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt
+bip_39_word_new_br8: idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next
+bip_39_word_new_br9: idea<br>weird<br>pink<br>blame<br>ghost<br>trip<br>salt<br>next<br>aisle
+bip_39_word_new_line1: idea
+bip_39_word_new_line10: 'idea
+
+  weird
+
+  pink
+
+  blame
+
+  ghost
+
+  trip
+
+  salt
+
+  next
+
+  aisle
+
+  case'
+bip_39_word_new_line11: 'idea
+
+  weird
+
+  pink
+
+  blame
+
+  ghost
+
+  trip
+
+  salt
+
+  next
+
+  aisle
+
+  case
+
+  ramp'
+bip_39_word_new_line12: 'idea
+
+  weird
+
+  pink
+
+  blame
+
+  ghost
+
+  trip
+
+  salt
+
+  next
+
+  aisle
+
+  case
+
+  ramp
+
+  about'
+bip_39_word_new_line2: 'idea
+
+  weird'
+bip_39_word_new_line3: 'idea
+
+  weird
+
+  pink'
+bip_39_word_new_line4: 'idea
+
+  weird
+
+  pink
+
+  blame'
+bip_39_word_new_line5: 'idea
+
+  weird
+
+  pink
+
+  blame
+
+  ghost'
+bip_39_word_new_line6: 'idea
+
+  weird
+
+  pink
+
+  blame
+
+  ghost
+
+  trip'
+bip_39_word_new_line7: 'idea
+
+  weird
+
+  pink
+
+  blame
+
+  ghost
+
+  trip
+
+  salt'
+bip_39_word_new_line8: 'idea
+
+  weird
+
+  pink
+
+  blame
+
+  ghost
+
+  trip
+
+  salt
+
+  next'
+bip_39_word_new_line9: 'idea
+
+  weird
+
+  pink
+
+  blame
+
+  ghost
+
+  trip
+
+  salt
+
+  next
+
+  aisle'
+bip_39_word_space_0:
+- idea
+- weird
+- pink
+- blame
+- ghost
+- trip
+- salt
+- next
+- aisle
+- case
+- ramp
+- about
+bip_39_word_space_1: idea
+bip_39_word_space_10: idea weird pink blame ghost trip salt next aisle case
+bip_39_word_space_11: idea weird pink blame ghost trip salt next aisle case ramp
+bip_39_word_space_12: idea weird pink blame ghost trip salt next aisle case ramp about
+bip_39_word_space_2: idea weird
+bip_39_word_space_3: idea weird pink
+bip_39_word_space_4: idea weird pink blame
+bip_39_word_space_5: idea weird pink blame ghost
+bip_39_word_space_6: idea weird pink blame ghost trip
+bip_39_word_space_7: idea weird pink blame ghost trip salt
+bip_39_word_space_8: idea weird pink blame ghost trip salt next
+bip_39_word_space_9: idea weird pink blame ghost trip salt next aisle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

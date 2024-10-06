@@ -1,3 +1,186 @@
+bip_39_word_new_br1: scrap
+bip_39_word_new_br10: scrap<br>hair<br>danger<br>story<br>catch<br>crash<br>demand<br>survey<br>equal<br>glimpse
+bip_39_word_new_br11: scrap<br>hair<br>danger<br>story<br>catch<br>crash<br>demand<br>survey<br>equal<br>glimpse<br>view
+bip_39_word_new_br12: scrap<br>hair<br>danger<br>story<br>catch<br>crash<br>demand<br>survey<br>equal<br>glimpse<br>view<br>abstract
+bip_39_word_new_br2: scrap<br>hair
+bip_39_word_new_br3: scrap<br>hair<br>danger
+bip_39_word_new_br4: scrap<br>hair<br>danger<br>story
+bip_39_word_new_br5: scrap<br>hair<br>danger<br>story<br>catch
+bip_39_word_new_br6: scrap<br>hair<br>danger<br>story<br>catch<br>crash
+bip_39_word_new_br7: scrap<br>hair<br>danger<br>story<br>catch<br>crash<br>demand
+bip_39_word_new_br8: scrap<br>hair<br>danger<br>story<br>catch<br>crash<br>demand<br>survey
+bip_39_word_new_br9: scrap<br>hair<br>danger<br>story<br>catch<br>crash<br>demand<br>survey<br>equal
+bip_39_word_new_line1: scrap
+bip_39_word_new_line10: 'scrap
+
+  hair
+
+  danger
+
+  story
+
+  catch
+
+  crash
+
+  demand
+
+  survey
+
+  equal
+
+  glimpse'
+bip_39_word_new_line11: 'scrap
+
+  hair
+
+  danger
+
+  story
+
+  catch
+
+  crash
+
+  demand
+
+  survey
+
+  equal
+
+  glimpse
+
+  view'
+bip_39_word_new_line12: 'scrap
+
+  hair
+
+  danger
+
+  story
+
+  catch
+
+  crash
+
+  demand
+
+  survey
+
+  equal
+
+  glimpse
+
+  view
+
+  abstract'
+bip_39_word_new_line2: 'scrap
+
+  hair'
+bip_39_word_new_line3: 'scrap
+
+  hair
+
+  danger'
+bip_39_word_new_line4: 'scrap
+
+  hair
+
+  danger
+
+  story'
+bip_39_word_new_line5: 'scrap
+
+  hair
+
+  danger
+
+  story
+
+  catch'
+bip_39_word_new_line6: 'scrap
+
+  hair
+
+  danger
+
+  story
+
+  catch
+
+  crash'
+bip_39_word_new_line7: 'scrap
+
+  hair
+
+  danger
+
+  story
+
+  catch
+
+  crash
+
+  demand'
+bip_39_word_new_line8: 'scrap
+
+  hair
+
+  danger
+
+  story
+
+  catch
+
+  crash
+
+  demand
+
+  survey'
+bip_39_word_new_line9: 'scrap
+
+  hair
+
+  danger
+
+  story
+
+  catch
+
+  crash
+
+  demand
+
+  survey
+
+  equal'
+bip_39_word_space_0:
+- scrap
+- hair
+- danger
+- story
+- catch
+- crash
+- demand
+- survey
+- equal
+- glimpse
+- view
+- abstract
+bip_39_word_space_1: scrap
+bip_39_word_space_10: scrap hair danger story catch crash demand survey equal glimpse
+bip_39_word_space_11: scrap hair danger story catch crash demand survey equal glimpse
+  view
+bip_39_word_space_12: scrap hair danger story catch crash demand survey equal glimpse
+  view abstract
+bip_39_word_space_2: scrap hair
+bip_39_word_space_3: scrap hair danger
+bip_39_word_space_4: scrap hair danger story
+bip_39_word_space_5: scrap hair danger story catch
+bip_39_word_space_6: scrap hair danger story catch crash
+bip_39_word_space_7: scrap hair danger story catch crash demand
+bip_39_word_space_8: scrap hair danger story catch crash demand survey
+bip_39_word_space_9: scrap hair danger story catch crash demand survey equal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

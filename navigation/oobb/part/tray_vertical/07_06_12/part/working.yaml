@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lemon
+bip_39_word_new_br10: lemon<br>father<br>piano<br>floor<br>stage<br>become<br>stove<br>car<br>phrase<br>wrestle
+bip_39_word_new_br11: lemon<br>father<br>piano<br>floor<br>stage<br>become<br>stove<br>car<br>phrase<br>wrestle<br>fault
+bip_39_word_new_br12: lemon<br>father<br>piano<br>floor<br>stage<br>become<br>stove<br>car<br>phrase<br>wrestle<br>fault<br>access
+bip_39_word_new_br2: lemon<br>father
+bip_39_word_new_br3: lemon<br>father<br>piano
+bip_39_word_new_br4: lemon<br>father<br>piano<br>floor
+bip_39_word_new_br5: lemon<br>father<br>piano<br>floor<br>stage
+bip_39_word_new_br6: lemon<br>father<br>piano<br>floor<br>stage<br>become
+bip_39_word_new_br7: lemon<br>father<br>piano<br>floor<br>stage<br>become<br>stove
+bip_39_word_new_br8: lemon<br>father<br>piano<br>floor<br>stage<br>become<br>stove<br>car
+bip_39_word_new_br9: lemon<br>father<br>piano<br>floor<br>stage<br>become<br>stove<br>car<br>phrase
+bip_39_word_new_line1: lemon
+bip_39_word_new_line10: 'lemon
+
+  father
+
+  piano
+
+  floor
+
+  stage
+
+  become
+
+  stove
+
+  car
+
+  phrase
+
+  wrestle'
+bip_39_word_new_line11: 'lemon
+
+  father
+
+  piano
+
+  floor
+
+  stage
+
+  become
+
+  stove
+
+  car
+
+  phrase
+
+  wrestle
+
+  fault'
+bip_39_word_new_line12: 'lemon
+
+  father
+
+  piano
+
+  floor
+
+  stage
+
+  become
+
+  stove
+
+  car
+
+  phrase
+
+  wrestle
+
+  fault
+
+  access'
+bip_39_word_new_line2: 'lemon
+
+  father'
+bip_39_word_new_line3: 'lemon
+
+  father
+
+  piano'
+bip_39_word_new_line4: 'lemon
+
+  father
+
+  piano
+
+  floor'
+bip_39_word_new_line5: 'lemon
+
+  father
+
+  piano
+
+  floor
+
+  stage'
+bip_39_word_new_line6: 'lemon
+
+  father
+
+  piano
+
+  floor
+
+  stage
+
+  become'
+bip_39_word_new_line7: 'lemon
+
+  father
+
+  piano
+
+  floor
+
+  stage
+
+  become
+
+  stove'
+bip_39_word_new_line8: 'lemon
+
+  father
+
+  piano
+
+  floor
+
+  stage
+
+  become
+
+  stove
+
+  car'
+bip_39_word_new_line9: 'lemon
+
+  father
+
+  piano
+
+  floor
+
+  stage
+
+  become
+
+  stove
+
+  car
+
+  phrase'
+bip_39_word_space_0:
+- lemon
+- father
+- piano
+- floor
+- stage
+- become
+- stove
+- car
+- phrase
+- wrestle
+- fault
+- access
+bip_39_word_space_1: lemon
+bip_39_word_space_10: lemon father piano floor stage become stove car phrase wrestle
+bip_39_word_space_11: lemon father piano floor stage become stove car phrase wrestle
+  fault
+bip_39_word_space_12: lemon father piano floor stage become stove car phrase wrestle
+  fault access
+bip_39_word_space_2: lemon father
+bip_39_word_space_3: lemon father piano
+bip_39_word_space_4: lemon father piano floor
+bip_39_word_space_5: lemon father piano floor stage
+bip_39_word_space_6: lemon father piano floor stage become
+bip_39_word_space_7: lemon father piano floor stage become stove
+bip_39_word_space_8: lemon father piano floor stage become stove car
+bip_39_word_space_9: lemon father piano floor stage become stove car phrase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

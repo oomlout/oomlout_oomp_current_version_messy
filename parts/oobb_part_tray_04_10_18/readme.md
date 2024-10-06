@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tree wagon
+  * bip 39 word 3: tree wagon siren
+  * bip 39 word: tree wagon siren observe bicycle chapter zebra sibling whisper elite lounge auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tree |  
+| bip_39_word_new_br10 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper<br>elite |  
+| bip_39_word_new_br11 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper<br>elite<br>lounge |  
+| bip_39_word_new_br12 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper<br>elite<br>lounge<br>auction |  
+| bip_39_word_new_br2 | tree<br>wagon |  
+| bip_39_word_new_br3 | tree<br>wagon<br>siren |  
+| bip_39_word_new_br4 | tree<br>wagon<br>siren<br>observe |  
+| bip_39_word_new_br5 | tree<br>wagon<br>siren<br>observe<br>bicycle |  
+| bip_39_word_new_br6 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter |  
+| bip_39_word_new_br7 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra |  
+| bip_39_word_new_br8 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling |  
+| bip_39_word_new_br9 | tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper |  
+| bip_39_word_new_line1 | tree |  
+| bip_39_word_new_line10 | tree
+wagon
+siren
+observe
+bicycle
+chapter
+zebra
+sibling
+whisper
+elite |  
+| bip_39_word_new_line11 | tree
+wagon
+siren
+observe
+bicycle
+chapter
+zebra
+sibling
+whisper
+elite
+lounge |  
+| bip_39_word_new_line12 | tree
+wagon
+siren
+observe
+bicycle
+chapter
+zebra
+sibling
+whisper
+elite
+lounge
+auction |  
+| bip_39_word_new_line2 | tree
+wagon |  
+| bip_39_word_new_line3 | tree
+wagon
+siren |  
+| bip_39_word_new_line4 | tree
+wagon
+siren
+observe |  
+| bip_39_word_new_line5 | tree
+wagon
+siren
+observe
+bicycle |  
+| bip_39_word_new_line6 | tree
+wagon
+siren
+observe
+bicycle
+chapter |  
+| bip_39_word_new_line7 | tree
+wagon
+siren
+observe
+bicycle
+chapter
+zebra |  
+| bip_39_word_new_line8 | tree
+wagon
+siren
+observe
+bicycle
+chapter
+zebra
+sibling |  
+| bip_39_word_new_line9 | tree
+wagon
+siren
+observe
+bicycle
+chapter
+zebra
+sibling
+whisper |  
+| bip_39_word_space_0 | ['tree', 'wagon', 'siren', 'observe', 'bicycle', 'chapter', 'zebra', 'sibling', 'whisper', 'elite', 'lounge', 'auction'] |  
+| bip_39_word_space_1 | tree |  
+| bip_39_word_space_10 | tree wagon siren observe bicycle chapter zebra sibling whisper elite |  
+| bip_39_word_space_11 | tree wagon siren observe bicycle chapter zebra sibling whisper elite lounge |  
+| bip_39_word_space_12 | tree wagon siren observe bicycle chapter zebra sibling whisper elite lounge auction |  
+| bip_39_word_space_2 | tree wagon |  
+| bip_39_word_space_3 | tree wagon siren |  
+| bip_39_word_space_4 | tree wagon siren observe |  
+| bip_39_word_space_5 | tree wagon siren observe bicycle |  
+| bip_39_word_space_6 | tree wagon siren observe bicycle chapter |  
+| bip_39_word_space_7 | tree wagon siren observe bicycle chapter zebra |  
+| bip_39_word_space_8 | tree wagon siren observe bicycle chapter zebra sibling |  
+| bip_39_word_space_9 | tree wagon siren observe bicycle chapter zebra sibling whisper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

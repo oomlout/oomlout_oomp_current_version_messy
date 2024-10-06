@@ -1,3 +1,185 @@
+bip_39_word_new_br1: obtain
+bip_39_word_new_br10: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle
+bip_39_word_new_br11: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit
+bip_39_word_new_br12: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit<br>answer
+bip_39_word_new_br2: obtain<br>foil
+bip_39_word_new_br3: obtain<br>foil<br>jewel
+bip_39_word_new_br4: obtain<br>foil<br>jewel<br>try
+bip_39_word_new_br5: obtain<br>foil<br>jewel<br>try<br>predict
+bip_39_word_new_br6: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor
+bip_39_word_new_br7: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb
+bip_39_word_new_br8: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek
+bip_39_word_new_br9: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon
+bip_39_word_new_line1: obtain
+bip_39_word_new_line10: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek
+
+  upon
+
+  cycle'
+bip_39_word_new_line11: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek
+
+  upon
+
+  cycle
+
+  audit'
+bip_39_word_new_line12: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek
+
+  upon
+
+  cycle
+
+  audit
+
+  answer'
+bip_39_word_new_line2: 'obtain
+
+  foil'
+bip_39_word_new_line3: 'obtain
+
+  foil
+
+  jewel'
+bip_39_word_new_line4: 'obtain
+
+  foil
+
+  jewel
+
+  try'
+bip_39_word_new_line5: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict'
+bip_39_word_new_line6: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor'
+bip_39_word_new_line7: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb'
+bip_39_word_new_line8: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek'
+bip_39_word_new_line9: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek
+
+  upon'
+bip_39_word_space_0:
+- obtain
+- foil
+- jewel
+- try
+- predict
+- vendor
+- dumb
+- seek
+- upon
+- cycle
+- audit
+- answer
+bip_39_word_space_1: obtain
+bip_39_word_space_10: obtain foil jewel try predict vendor dumb seek upon cycle
+bip_39_word_space_11: obtain foil jewel try predict vendor dumb seek upon cycle audit
+bip_39_word_space_12: obtain foil jewel try predict vendor dumb seek upon cycle audit
+  answer
+bip_39_word_space_2: obtain foil
+bip_39_word_space_3: obtain foil jewel
+bip_39_word_space_4: obtain foil jewel try
+bip_39_word_space_5: obtain foil jewel try predict
+bip_39_word_space_6: obtain foil jewel try predict vendor
+bip_39_word_space_7: obtain foil jewel try predict vendor dumb
+bip_39_word_space_8: obtain foil jewel try predict vendor dumb seek
+bip_39_word_space_9: obtain foil jewel try predict vendor dumb seek upon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

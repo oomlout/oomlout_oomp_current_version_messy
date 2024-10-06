@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: render whip
+  * bip 39 word 3: render whip spatial
+  * bip 39 word: render whip spatial box acid fashion parent move tide egg excess anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | render |  
+| bip_39_word_new_br10 | render<br>whip<br>spatial<br>box<br>acid<br>fashion<br>parent<br>move<br>tide<br>egg |  
+| bip_39_word_new_br11 | render<br>whip<br>spatial<br>box<br>acid<br>fashion<br>parent<br>move<br>tide<br>egg<br>excess |  
+| bip_39_word_new_br12 | render<br>whip<br>spatial<br>box<br>acid<br>fashion<br>parent<br>move<br>tide<br>egg<br>excess<br>anchor |  
+| bip_39_word_new_br2 | render<br>whip |  
+| bip_39_word_new_br3 | render<br>whip<br>spatial |  
+| bip_39_word_new_br4 | render<br>whip<br>spatial<br>box |  
+| bip_39_word_new_br5 | render<br>whip<br>spatial<br>box<br>acid |  
+| bip_39_word_new_br6 | render<br>whip<br>spatial<br>box<br>acid<br>fashion |  
+| bip_39_word_new_br7 | render<br>whip<br>spatial<br>box<br>acid<br>fashion<br>parent |  
+| bip_39_word_new_br8 | render<br>whip<br>spatial<br>box<br>acid<br>fashion<br>parent<br>move |  
+| bip_39_word_new_br9 | render<br>whip<br>spatial<br>box<br>acid<br>fashion<br>parent<br>move<br>tide |  
+| bip_39_word_new_line1 | render |  
+| bip_39_word_new_line10 | render
+whip
+spatial
+box
+acid
+fashion
+parent
+move
+tide
+egg |  
+| bip_39_word_new_line11 | render
+whip
+spatial
+box
+acid
+fashion
+parent
+move
+tide
+egg
+excess |  
+| bip_39_word_new_line12 | render
+whip
+spatial
+box
+acid
+fashion
+parent
+move
+tide
+egg
+excess
+anchor |  
+| bip_39_word_new_line2 | render
+whip |  
+| bip_39_word_new_line3 | render
+whip
+spatial |  
+| bip_39_word_new_line4 | render
+whip
+spatial
+box |  
+| bip_39_word_new_line5 | render
+whip
+spatial
+box
+acid |  
+| bip_39_word_new_line6 | render
+whip
+spatial
+box
+acid
+fashion |  
+| bip_39_word_new_line7 | render
+whip
+spatial
+box
+acid
+fashion
+parent |  
+| bip_39_word_new_line8 | render
+whip
+spatial
+box
+acid
+fashion
+parent
+move |  
+| bip_39_word_new_line9 | render
+whip
+spatial
+box
+acid
+fashion
+parent
+move
+tide |  
+| bip_39_word_space_0 | ['render', 'whip', 'spatial', 'box', 'acid', 'fashion', 'parent', 'move', 'tide', 'egg', 'excess', 'anchor'] |  
+| bip_39_word_space_1 | render |  
+| bip_39_word_space_10 | render whip spatial box acid fashion parent move tide egg |  
+| bip_39_word_space_11 | render whip spatial box acid fashion parent move tide egg excess |  
+| bip_39_word_space_12 | render whip spatial box acid fashion parent move tide egg excess anchor |  
+| bip_39_word_space_2 | render whip |  
+| bip_39_word_space_3 | render whip spatial |  
+| bip_39_word_space_4 | render whip spatial box |  
+| bip_39_word_space_5 | render whip spatial box acid |  
+| bip_39_word_space_6 | render whip spatial box acid fashion |  
+| bip_39_word_space_7 | render whip spatial box acid fashion parent |  
+| bip_39_word_space_8 | render whip spatial box acid fashion parent move |  
+| bip_39_word_space_9 | render whip spatial box acid fashion parent move tide |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

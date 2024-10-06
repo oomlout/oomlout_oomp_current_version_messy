@@ -1,3 +1,187 @@
+bip_39_word_new_br1: fashion
+bip_39_word_new_br10: fashion<br>second<br>plastic<br>spoon<br>confirm<br>spend<br>toss<br>twelve<br>spot<br>invite
+bip_39_word_new_br11: fashion<br>second<br>plastic<br>spoon<br>confirm<br>spend<br>toss<br>twelve<br>spot<br>invite<br>hair
+bip_39_word_new_br12: fashion<br>second<br>plastic<br>spoon<br>confirm<br>spend<br>toss<br>twelve<br>spot<br>invite<br>hair<br>almost
+bip_39_word_new_br2: fashion<br>second
+bip_39_word_new_br3: fashion<br>second<br>plastic
+bip_39_word_new_br4: fashion<br>second<br>plastic<br>spoon
+bip_39_word_new_br5: fashion<br>second<br>plastic<br>spoon<br>confirm
+bip_39_word_new_br6: fashion<br>second<br>plastic<br>spoon<br>confirm<br>spend
+bip_39_word_new_br7: fashion<br>second<br>plastic<br>spoon<br>confirm<br>spend<br>toss
+bip_39_word_new_br8: fashion<br>second<br>plastic<br>spoon<br>confirm<br>spend<br>toss<br>twelve
+bip_39_word_new_br9: fashion<br>second<br>plastic<br>spoon<br>confirm<br>spend<br>toss<br>twelve<br>spot
+bip_39_word_new_line1: fashion
+bip_39_word_new_line10: 'fashion
+
+  second
+
+  plastic
+
+  spoon
+
+  confirm
+
+  spend
+
+  toss
+
+  twelve
+
+  spot
+
+  invite'
+bip_39_word_new_line11: 'fashion
+
+  second
+
+  plastic
+
+  spoon
+
+  confirm
+
+  spend
+
+  toss
+
+  twelve
+
+  spot
+
+  invite
+
+  hair'
+bip_39_word_new_line12: 'fashion
+
+  second
+
+  plastic
+
+  spoon
+
+  confirm
+
+  spend
+
+  toss
+
+  twelve
+
+  spot
+
+  invite
+
+  hair
+
+  almost'
+bip_39_word_new_line2: 'fashion
+
+  second'
+bip_39_word_new_line3: 'fashion
+
+  second
+
+  plastic'
+bip_39_word_new_line4: 'fashion
+
+  second
+
+  plastic
+
+  spoon'
+bip_39_word_new_line5: 'fashion
+
+  second
+
+  plastic
+
+  spoon
+
+  confirm'
+bip_39_word_new_line6: 'fashion
+
+  second
+
+  plastic
+
+  spoon
+
+  confirm
+
+  spend'
+bip_39_word_new_line7: 'fashion
+
+  second
+
+  plastic
+
+  spoon
+
+  confirm
+
+  spend
+
+  toss'
+bip_39_word_new_line8: 'fashion
+
+  second
+
+  plastic
+
+  spoon
+
+  confirm
+
+  spend
+
+  toss
+
+  twelve'
+bip_39_word_new_line9: 'fashion
+
+  second
+
+  plastic
+
+  spoon
+
+  confirm
+
+  spend
+
+  toss
+
+  twelve
+
+  spot'
+bip_39_word_space_0:
+- fashion
+- second
+- plastic
+- spoon
+- confirm
+- spend
+- toss
+- twelve
+- spot
+- invite
+- hair
+- almost
+bip_39_word_space_1: fashion
+bip_39_word_space_10: fashion second plastic spoon confirm spend toss twelve spot
+  invite
+bip_39_word_space_11: fashion second plastic spoon confirm spend toss twelve spot
+  invite hair
+bip_39_word_space_12: fashion second plastic spoon confirm spend toss twelve spot
+  invite hair almost
+bip_39_word_space_2: fashion second
+bip_39_word_space_3: fashion second plastic
+bip_39_word_space_4: fashion second plastic spoon
+bip_39_word_space_5: fashion second plastic spoon confirm
+bip_39_word_space_6: fashion second plastic spoon confirm spend
+bip_39_word_space_7: fashion second plastic spoon confirm spend toss
+bip_39_word_space_8: fashion second plastic spoon confirm spend toss twelve
+bip_39_word_space_9: fashion second plastic spoon confirm spend toss twelve spot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

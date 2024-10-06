@@ -1,3 +1,187 @@
+bip_39_word_new_br1: shove
+bip_39_word_new_br10: shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid<br>logic<br>attitude<br>finger<br>power
+bip_39_word_new_br11: shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid<br>logic<br>attitude<br>finger<br>power<br>hello
+bip_39_word_new_br12: shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid<br>logic<br>attitude<br>finger<br>power<br>hello<br>able
+bip_39_word_new_br2: shove<br>nominee
+bip_39_word_new_br3: shove<br>nominee<br>decrease
+bip_39_word_new_br4: shove<br>nominee<br>decrease<br>giraffe
+bip_39_word_new_br5: shove<br>nominee<br>decrease<br>giraffe<br>collect
+bip_39_word_new_br6: shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid
+bip_39_word_new_br7: shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid<br>logic
+bip_39_word_new_br8: shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid<br>logic<br>attitude
+bip_39_word_new_br9: shove<br>nominee<br>decrease<br>giraffe<br>collect<br>acid<br>logic<br>attitude<br>finger
+bip_39_word_new_line1: shove
+bip_39_word_new_line10: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe
+
+  collect
+
+  acid
+
+  logic
+
+  attitude
+
+  finger
+
+  power'
+bip_39_word_new_line11: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe
+
+  collect
+
+  acid
+
+  logic
+
+  attitude
+
+  finger
+
+  power
+
+  hello'
+bip_39_word_new_line12: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe
+
+  collect
+
+  acid
+
+  logic
+
+  attitude
+
+  finger
+
+  power
+
+  hello
+
+  able'
+bip_39_word_new_line2: 'shove
+
+  nominee'
+bip_39_word_new_line3: 'shove
+
+  nominee
+
+  decrease'
+bip_39_word_new_line4: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe'
+bip_39_word_new_line5: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe
+
+  collect'
+bip_39_word_new_line6: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe
+
+  collect
+
+  acid'
+bip_39_word_new_line7: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe
+
+  collect
+
+  acid
+
+  logic'
+bip_39_word_new_line8: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe
+
+  collect
+
+  acid
+
+  logic
+
+  attitude'
+bip_39_word_new_line9: 'shove
+
+  nominee
+
+  decrease
+
+  giraffe
+
+  collect
+
+  acid
+
+  logic
+
+  attitude
+
+  finger'
+bip_39_word_space_0:
+- shove
+- nominee
+- decrease
+- giraffe
+- collect
+- acid
+- logic
+- attitude
+- finger
+- power
+- hello
+- able
+bip_39_word_space_1: shove
+bip_39_word_space_10: shove nominee decrease giraffe collect acid logic attitude finger
+  power
+bip_39_word_space_11: shove nominee decrease giraffe collect acid logic attitude finger
+  power hello
+bip_39_word_space_12: shove nominee decrease giraffe collect acid logic attitude finger
+  power hello able
+bip_39_word_space_2: shove nominee
+bip_39_word_space_3: shove nominee decrease
+bip_39_word_space_4: shove nominee decrease giraffe
+bip_39_word_space_5: shove nominee decrease giraffe collect
+bip_39_word_space_6: shove nominee decrease giraffe collect acid
+bip_39_word_space_7: shove nominee decrease giraffe collect acid logic
+bip_39_word_space_8: shove nominee decrease giraffe collect acid logic attitude
+bip_39_word_space_9: shove nominee decrease giraffe collect acid logic attitude finger
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

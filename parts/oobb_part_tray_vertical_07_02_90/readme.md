@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: combine response
+  * bip 39 word 3: combine response fat
+  * bip 39 word: combine response fat rebel pudding drive disagree priority obvious rotate flavor april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | combine |  
+| bip_39_word_new_br10 | combine<br>response<br>fat<br>rebel<br>pudding<br>drive<br>disagree<br>priority<br>obvious<br>rotate |  
+| bip_39_word_new_br11 | combine<br>response<br>fat<br>rebel<br>pudding<br>drive<br>disagree<br>priority<br>obvious<br>rotate<br>flavor |  
+| bip_39_word_new_br12 | combine<br>response<br>fat<br>rebel<br>pudding<br>drive<br>disagree<br>priority<br>obvious<br>rotate<br>flavor<br>april |  
+| bip_39_word_new_br2 | combine<br>response |  
+| bip_39_word_new_br3 | combine<br>response<br>fat |  
+| bip_39_word_new_br4 | combine<br>response<br>fat<br>rebel |  
+| bip_39_word_new_br5 | combine<br>response<br>fat<br>rebel<br>pudding |  
+| bip_39_word_new_br6 | combine<br>response<br>fat<br>rebel<br>pudding<br>drive |  
+| bip_39_word_new_br7 | combine<br>response<br>fat<br>rebel<br>pudding<br>drive<br>disagree |  
+| bip_39_word_new_br8 | combine<br>response<br>fat<br>rebel<br>pudding<br>drive<br>disagree<br>priority |  
+| bip_39_word_new_br9 | combine<br>response<br>fat<br>rebel<br>pudding<br>drive<br>disagree<br>priority<br>obvious |  
+| bip_39_word_new_line1 | combine |  
+| bip_39_word_new_line10 | combine
+response
+fat
+rebel
+pudding
+drive
+disagree
+priority
+obvious
+rotate |  
+| bip_39_word_new_line11 | combine
+response
+fat
+rebel
+pudding
+drive
+disagree
+priority
+obvious
+rotate
+flavor |  
+| bip_39_word_new_line12 | combine
+response
+fat
+rebel
+pudding
+drive
+disagree
+priority
+obvious
+rotate
+flavor
+april |  
+| bip_39_word_new_line2 | combine
+response |  
+| bip_39_word_new_line3 | combine
+response
+fat |  
+| bip_39_word_new_line4 | combine
+response
+fat
+rebel |  
+| bip_39_word_new_line5 | combine
+response
+fat
+rebel
+pudding |  
+| bip_39_word_new_line6 | combine
+response
+fat
+rebel
+pudding
+drive |  
+| bip_39_word_new_line7 | combine
+response
+fat
+rebel
+pudding
+drive
+disagree |  
+| bip_39_word_new_line8 | combine
+response
+fat
+rebel
+pudding
+drive
+disagree
+priority |  
+| bip_39_word_new_line9 | combine
+response
+fat
+rebel
+pudding
+drive
+disagree
+priority
+obvious |  
+| bip_39_word_space_0 | ['combine', 'response', 'fat', 'rebel', 'pudding', 'drive', 'disagree', 'priority', 'obvious', 'rotate', 'flavor', 'april'] |  
+| bip_39_word_space_1 | combine |  
+| bip_39_word_space_10 | combine response fat rebel pudding drive disagree priority obvious rotate |  
+| bip_39_word_space_11 | combine response fat rebel pudding drive disagree priority obvious rotate flavor |  
+| bip_39_word_space_12 | combine response fat rebel pudding drive disagree priority obvious rotate flavor april |  
+| bip_39_word_space_2 | combine response |  
+| bip_39_word_space_3 | combine response fat |  
+| bip_39_word_space_4 | combine response fat rebel |  
+| bip_39_word_space_5 | combine response fat rebel pudding |  
+| bip_39_word_space_6 | combine response fat rebel pudding drive |  
+| bip_39_word_space_7 | combine response fat rebel pudding drive disagree |  
+| bip_39_word_space_8 | combine response fat rebel pudding drive disagree priority |  
+| bip_39_word_space_9 | combine response fat rebel pudding drive disagree priority obvious |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

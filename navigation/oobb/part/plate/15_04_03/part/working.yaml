@@ -1,3 +1,186 @@
+bip_39_word_new_br1: advice
+bip_39_word_new_br10: advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle
+bip_39_word_new_br11: advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle<br>dish
+bip_39_word_new_br12: advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip<br>uncle<br>dish<br>avocado
+bip_39_word_new_br2: advice<br>tail
+bip_39_word_new_br3: advice<br>tail<br>enforce
+bip_39_word_new_br4: advice<br>tail<br>enforce<br>gospel
+bip_39_word_new_br5: advice<br>tail<br>enforce<br>gospel<br>cost
+bip_39_word_new_br6: advice<br>tail<br>enforce<br>gospel<br>cost<br>noble
+bip_39_word_new_br7: advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car
+bip_39_word_new_br8: advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange
+bip_39_word_new_br9: advice<br>tail<br>enforce<br>gospel<br>cost<br>noble<br>car<br>arrange<br>gossip
+bip_39_word_new_line1: advice
+bip_39_word_new_line10: 'advice
+
+  tail
+
+  enforce
+
+  gospel
+
+  cost
+
+  noble
+
+  car
+
+  arrange
+
+  gossip
+
+  uncle'
+bip_39_word_new_line11: 'advice
+
+  tail
+
+  enforce
+
+  gospel
+
+  cost
+
+  noble
+
+  car
+
+  arrange
+
+  gossip
+
+  uncle
+
+  dish'
+bip_39_word_new_line12: 'advice
+
+  tail
+
+  enforce
+
+  gospel
+
+  cost
+
+  noble
+
+  car
+
+  arrange
+
+  gossip
+
+  uncle
+
+  dish
+
+  avocado'
+bip_39_word_new_line2: 'advice
+
+  tail'
+bip_39_word_new_line3: 'advice
+
+  tail
+
+  enforce'
+bip_39_word_new_line4: 'advice
+
+  tail
+
+  enforce
+
+  gospel'
+bip_39_word_new_line5: 'advice
+
+  tail
+
+  enforce
+
+  gospel
+
+  cost'
+bip_39_word_new_line6: 'advice
+
+  tail
+
+  enforce
+
+  gospel
+
+  cost
+
+  noble'
+bip_39_word_new_line7: 'advice
+
+  tail
+
+  enforce
+
+  gospel
+
+  cost
+
+  noble
+
+  car'
+bip_39_word_new_line8: 'advice
+
+  tail
+
+  enforce
+
+  gospel
+
+  cost
+
+  noble
+
+  car
+
+  arrange'
+bip_39_word_new_line9: 'advice
+
+  tail
+
+  enforce
+
+  gospel
+
+  cost
+
+  noble
+
+  car
+
+  arrange
+
+  gossip'
+bip_39_word_space_0:
+- advice
+- tail
+- enforce
+- gospel
+- cost
+- noble
+- car
+- arrange
+- gossip
+- uncle
+- dish
+- avocado
+bip_39_word_space_1: advice
+bip_39_word_space_10: advice tail enforce gospel cost noble car arrange gossip uncle
+bip_39_word_space_11: advice tail enforce gospel cost noble car arrange gossip uncle
+  dish
+bip_39_word_space_12: advice tail enforce gospel cost noble car arrange gossip uncle
+  dish avocado
+bip_39_word_space_2: advice tail
+bip_39_word_space_3: advice tail enforce
+bip_39_word_space_4: advice tail enforce gospel
+bip_39_word_space_5: advice tail enforce gospel cost
+bip_39_word_space_6: advice tail enforce gospel cost noble
+bip_39_word_space_7: advice tail enforce gospel cost noble car
+bip_39_word_space_8: advice tail enforce gospel cost noble car arrange
+bip_39_word_space_9: advice tail enforce gospel cost noble car arrange gossip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

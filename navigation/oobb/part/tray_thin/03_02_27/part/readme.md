@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plunge gas
+  * bip 39 word 3: plunge gas travel
+  * bip 39 word: plunge gas travel network expose benefit walk lobster orchard flock allow alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plunge |  
+| bip_39_word_new_br10 | plunge<br>gas<br>travel<br>network<br>expose<br>benefit<br>walk<br>lobster<br>orchard<br>flock |  
+| bip_39_word_new_br11 | plunge<br>gas<br>travel<br>network<br>expose<br>benefit<br>walk<br>lobster<br>orchard<br>flock<br>allow |  
+| bip_39_word_new_br12 | plunge<br>gas<br>travel<br>network<br>expose<br>benefit<br>walk<br>lobster<br>orchard<br>flock<br>allow<br>alone |  
+| bip_39_word_new_br2 | plunge<br>gas |  
+| bip_39_word_new_br3 | plunge<br>gas<br>travel |  
+| bip_39_word_new_br4 | plunge<br>gas<br>travel<br>network |  
+| bip_39_word_new_br5 | plunge<br>gas<br>travel<br>network<br>expose |  
+| bip_39_word_new_br6 | plunge<br>gas<br>travel<br>network<br>expose<br>benefit |  
+| bip_39_word_new_br7 | plunge<br>gas<br>travel<br>network<br>expose<br>benefit<br>walk |  
+| bip_39_word_new_br8 | plunge<br>gas<br>travel<br>network<br>expose<br>benefit<br>walk<br>lobster |  
+| bip_39_word_new_br9 | plunge<br>gas<br>travel<br>network<br>expose<br>benefit<br>walk<br>lobster<br>orchard |  
+| bip_39_word_new_line1 | plunge |  
+| bip_39_word_new_line10 | plunge
+gas
+travel
+network
+expose
+benefit
+walk
+lobster
+orchard
+flock |  
+| bip_39_word_new_line11 | plunge
+gas
+travel
+network
+expose
+benefit
+walk
+lobster
+orchard
+flock
+allow |  
+| bip_39_word_new_line12 | plunge
+gas
+travel
+network
+expose
+benefit
+walk
+lobster
+orchard
+flock
+allow
+alone |  
+| bip_39_word_new_line2 | plunge
+gas |  
+| bip_39_word_new_line3 | plunge
+gas
+travel |  
+| bip_39_word_new_line4 | plunge
+gas
+travel
+network |  
+| bip_39_word_new_line5 | plunge
+gas
+travel
+network
+expose |  
+| bip_39_word_new_line6 | plunge
+gas
+travel
+network
+expose
+benefit |  
+| bip_39_word_new_line7 | plunge
+gas
+travel
+network
+expose
+benefit
+walk |  
+| bip_39_word_new_line8 | plunge
+gas
+travel
+network
+expose
+benefit
+walk
+lobster |  
+| bip_39_word_new_line9 | plunge
+gas
+travel
+network
+expose
+benefit
+walk
+lobster
+orchard |  
+| bip_39_word_space_0 | ['plunge', 'gas', 'travel', 'network', 'expose', 'benefit', 'walk', 'lobster', 'orchard', 'flock', 'allow', 'alone'] |  
+| bip_39_word_space_1 | plunge |  
+| bip_39_word_space_10 | plunge gas travel network expose benefit walk lobster orchard flock |  
+| bip_39_word_space_11 | plunge gas travel network expose benefit walk lobster orchard flock allow |  
+| bip_39_word_space_12 | plunge gas travel network expose benefit walk lobster orchard flock allow alone |  
+| bip_39_word_space_2 | plunge gas |  
+| bip_39_word_space_3 | plunge gas travel |  
+| bip_39_word_space_4 | plunge gas travel network |  
+| bip_39_word_space_5 | plunge gas travel network expose |  
+| bip_39_word_space_6 | plunge gas travel network expose benefit |  
+| bip_39_word_space_7 | plunge gas travel network expose benefit walk |  
+| bip_39_word_space_8 | plunge gas travel network expose benefit walk lobster |  
+| bip_39_word_space_9 | plunge gas travel network expose benefit walk lobster orchard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

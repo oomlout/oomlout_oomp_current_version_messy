@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: juice story
+  * bip 39 word 3: juice story between
+  * bip 39 word: juice story between grow grow charge capable nuclear census trend sister artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | juice |  
+| bip_39_word_new_br10 | juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend |  
+| bip_39_word_new_br11 | juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend<br>sister |  
+| bip_39_word_new_br12 | juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census<br>trend<br>sister<br>artwork |  
+| bip_39_word_new_br2 | juice<br>story |  
+| bip_39_word_new_br3 | juice<br>story<br>between |  
+| bip_39_word_new_br4 | juice<br>story<br>between<br>grow |  
+| bip_39_word_new_br5 | juice<br>story<br>between<br>grow<br>grow |  
+| bip_39_word_new_br6 | juice<br>story<br>between<br>grow<br>grow<br>charge |  
+| bip_39_word_new_br7 | juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable |  
+| bip_39_word_new_br8 | juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear |  
+| bip_39_word_new_br9 | juice<br>story<br>between<br>grow<br>grow<br>charge<br>capable<br>nuclear<br>census |  
+| bip_39_word_new_line1 | juice |  
+| bip_39_word_new_line10 | juice
+story
+between
+grow
+grow
+charge
+capable
+nuclear
+census
+trend |  
+| bip_39_word_new_line11 | juice
+story
+between
+grow
+grow
+charge
+capable
+nuclear
+census
+trend
+sister |  
+| bip_39_word_new_line12 | juice
+story
+between
+grow
+grow
+charge
+capable
+nuclear
+census
+trend
+sister
+artwork |  
+| bip_39_word_new_line2 | juice
+story |  
+| bip_39_word_new_line3 | juice
+story
+between |  
+| bip_39_word_new_line4 | juice
+story
+between
+grow |  
+| bip_39_word_new_line5 | juice
+story
+between
+grow
+grow |  
+| bip_39_word_new_line6 | juice
+story
+between
+grow
+grow
+charge |  
+| bip_39_word_new_line7 | juice
+story
+between
+grow
+grow
+charge
+capable |  
+| bip_39_word_new_line8 | juice
+story
+between
+grow
+grow
+charge
+capable
+nuclear |  
+| bip_39_word_new_line9 | juice
+story
+between
+grow
+grow
+charge
+capable
+nuclear
+census |  
+| bip_39_word_space_0 | ['juice', 'story', 'between', 'grow', 'grow', 'charge', 'capable', 'nuclear', 'census', 'trend', 'sister', 'artwork'] |  
+| bip_39_word_space_1 | juice |  
+| bip_39_word_space_10 | juice story between grow grow charge capable nuclear census trend |  
+| bip_39_word_space_11 | juice story between grow grow charge capable nuclear census trend sister |  
+| bip_39_word_space_12 | juice story between grow grow charge capable nuclear census trend sister artwork |  
+| bip_39_word_space_2 | juice story |  
+| bip_39_word_space_3 | juice story between |  
+| bip_39_word_space_4 | juice story between grow |  
+| bip_39_word_space_5 | juice story between grow grow |  
+| bip_39_word_space_6 | juice story between grow grow charge |  
+| bip_39_word_space_7 | juice story between grow grow charge capable |  
+| bip_39_word_space_8 | juice story between grow grow charge capable nuclear |  
+| bip_39_word_space_9 | juice story between grow grow charge capable nuclear census |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

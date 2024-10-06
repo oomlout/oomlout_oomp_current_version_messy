@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: turn differ
+  * bip 39 word 3: turn differ sunny
+  * bip 39 word: turn differ sunny young account leave square dash wood dry ask aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | turn |  
+| bip_39_word_new_br10 | turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry |  
+| bip_39_word_new_br11 | turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry<br>ask |  
+| bip_39_word_new_br12 | turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood<br>dry<br>ask<br>aerobic |  
+| bip_39_word_new_br2 | turn<br>differ |  
+| bip_39_word_new_br3 | turn<br>differ<br>sunny |  
+| bip_39_word_new_br4 | turn<br>differ<br>sunny<br>young |  
+| bip_39_word_new_br5 | turn<br>differ<br>sunny<br>young<br>account |  
+| bip_39_word_new_br6 | turn<br>differ<br>sunny<br>young<br>account<br>leave |  
+| bip_39_word_new_br7 | turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square |  
+| bip_39_word_new_br8 | turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash |  
+| bip_39_word_new_br9 | turn<br>differ<br>sunny<br>young<br>account<br>leave<br>square<br>dash<br>wood |  
+| bip_39_word_new_line1 | turn |  
+| bip_39_word_new_line10 | turn
+differ
+sunny
+young
+account
+leave
+square
+dash
+wood
+dry |  
+| bip_39_word_new_line11 | turn
+differ
+sunny
+young
+account
+leave
+square
+dash
+wood
+dry
+ask |  
+| bip_39_word_new_line12 | turn
+differ
+sunny
+young
+account
+leave
+square
+dash
+wood
+dry
+ask
+aerobic |  
+| bip_39_word_new_line2 | turn
+differ |  
+| bip_39_word_new_line3 | turn
+differ
+sunny |  
+| bip_39_word_new_line4 | turn
+differ
+sunny
+young |  
+| bip_39_word_new_line5 | turn
+differ
+sunny
+young
+account |  
+| bip_39_word_new_line6 | turn
+differ
+sunny
+young
+account
+leave |  
+| bip_39_word_new_line7 | turn
+differ
+sunny
+young
+account
+leave
+square |  
+| bip_39_word_new_line8 | turn
+differ
+sunny
+young
+account
+leave
+square
+dash |  
+| bip_39_word_new_line9 | turn
+differ
+sunny
+young
+account
+leave
+square
+dash
+wood |  
+| bip_39_word_space_0 | ['turn', 'differ', 'sunny', 'young', 'account', 'leave', 'square', 'dash', 'wood', 'dry', 'ask', 'aerobic'] |  
+| bip_39_word_space_1 | turn |  
+| bip_39_word_space_10 | turn differ sunny young account leave square dash wood dry |  
+| bip_39_word_space_11 | turn differ sunny young account leave square dash wood dry ask |  
+| bip_39_word_space_12 | turn differ sunny young account leave square dash wood dry ask aerobic |  
+| bip_39_word_space_2 | turn differ |  
+| bip_39_word_space_3 | turn differ sunny |  
+| bip_39_word_space_4 | turn differ sunny young |  
+| bip_39_word_space_5 | turn differ sunny young account |  
+| bip_39_word_space_6 | turn differ sunny young account leave |  
+| bip_39_word_space_7 | turn differ sunny young account leave square |  
+| bip_39_word_space_8 | turn differ sunny young account leave square dash |  
+| bip_39_word_space_9 | turn differ sunny young account leave square dash wood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

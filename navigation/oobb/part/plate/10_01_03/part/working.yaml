@@ -1,3 +1,186 @@
+bip_39_word_new_br1: curious
+bip_39_word_new_br10: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art<br>party<br>advice<br>gentle<br>artwork
+bip_39_word_new_br11: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art<br>party<br>advice<br>gentle<br>artwork<br>lab
+bip_39_word_new_br12: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art<br>party<br>advice<br>gentle<br>artwork<br>lab<br>anger
+bip_39_word_new_br2: curious<br>aerobic
+bip_39_word_new_br3: curious<br>aerobic<br>dress
+bip_39_word_new_br4: curious<br>aerobic<br>dress<br>spirit
+bip_39_word_new_br5: curious<br>aerobic<br>dress<br>spirit<br>erode
+bip_39_word_new_br6: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art
+bip_39_word_new_br7: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art<br>party
+bip_39_word_new_br8: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art<br>party<br>advice
+bip_39_word_new_br9: curious<br>aerobic<br>dress<br>spirit<br>erode<br>art<br>party<br>advice<br>gentle
+bip_39_word_new_line1: curious
+bip_39_word_new_line10: 'curious
+
+  aerobic
+
+  dress
+
+  spirit
+
+  erode
+
+  art
+
+  party
+
+  advice
+
+  gentle
+
+  artwork'
+bip_39_word_new_line11: 'curious
+
+  aerobic
+
+  dress
+
+  spirit
+
+  erode
+
+  art
+
+  party
+
+  advice
+
+  gentle
+
+  artwork
+
+  lab'
+bip_39_word_new_line12: 'curious
+
+  aerobic
+
+  dress
+
+  spirit
+
+  erode
+
+  art
+
+  party
+
+  advice
+
+  gentle
+
+  artwork
+
+  lab
+
+  anger'
+bip_39_word_new_line2: 'curious
+
+  aerobic'
+bip_39_word_new_line3: 'curious
+
+  aerobic
+
+  dress'
+bip_39_word_new_line4: 'curious
+
+  aerobic
+
+  dress
+
+  spirit'
+bip_39_word_new_line5: 'curious
+
+  aerobic
+
+  dress
+
+  spirit
+
+  erode'
+bip_39_word_new_line6: 'curious
+
+  aerobic
+
+  dress
+
+  spirit
+
+  erode
+
+  art'
+bip_39_word_new_line7: 'curious
+
+  aerobic
+
+  dress
+
+  spirit
+
+  erode
+
+  art
+
+  party'
+bip_39_word_new_line8: 'curious
+
+  aerobic
+
+  dress
+
+  spirit
+
+  erode
+
+  art
+
+  party
+
+  advice'
+bip_39_word_new_line9: 'curious
+
+  aerobic
+
+  dress
+
+  spirit
+
+  erode
+
+  art
+
+  party
+
+  advice
+
+  gentle'
+bip_39_word_space_0:
+- curious
+- aerobic
+- dress
+- spirit
+- erode
+- art
+- party
+- advice
+- gentle
+- artwork
+- lab
+- anger
+bip_39_word_space_1: curious
+bip_39_word_space_10: curious aerobic dress spirit erode art party advice gentle artwork
+bip_39_word_space_11: curious aerobic dress spirit erode art party advice gentle artwork
+  lab
+bip_39_word_space_12: curious aerobic dress spirit erode art party advice gentle artwork
+  lab anger
+bip_39_word_space_2: curious aerobic
+bip_39_word_space_3: curious aerobic dress
+bip_39_word_space_4: curious aerobic dress spirit
+bip_39_word_space_5: curious aerobic dress spirit erode
+bip_39_word_space_6: curious aerobic dress spirit erode art
+bip_39_word_space_7: curious aerobic dress spirit erode art party
+bip_39_word_space_8: curious aerobic dress spirit erode art party advice
+bip_39_word_space_9: curious aerobic dress spirit erode art party advice gentle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: model
+bip_39_word_new_br10: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous<br>matrix
+bip_39_word_new_br11: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous<br>matrix<br>blade
+bip_39_word_new_br12: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous<br>matrix<br>blade<br>autumn
+bip_39_word_new_br2: model<br>staff
+bip_39_word_new_br3: model<br>staff<br>music
+bip_39_word_new_br4: model<br>staff<br>music<br>there
+bip_39_word_new_br5: model<br>staff<br>music<br>there<br>wheat
+bip_39_word_new_br6: model<br>staff<br>music<br>there<br>wheat<br>orient
+bip_39_word_new_br7: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse
+bip_39_word_new_br8: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test
+bip_39_word_new_br9: model<br>staff<br>music<br>there<br>wheat<br>orient<br>blouse<br>test<br>famous
+bip_39_word_new_line1: model
+bip_39_word_new_line10: 'model
+
+  staff
+
+  music
+
+  there
+
+  wheat
+
+  orient
+
+  blouse
+
+  test
+
+  famous
+
+  matrix'
+bip_39_word_new_line11: 'model
+
+  staff
+
+  music
+
+  there
+
+  wheat
+
+  orient
+
+  blouse
+
+  test
+
+  famous
+
+  matrix
+
+  blade'
+bip_39_word_new_line12: 'model
+
+  staff
+
+  music
+
+  there
+
+  wheat
+
+  orient
+
+  blouse
+
+  test
+
+  famous
+
+  matrix
+
+  blade
+
+  autumn'
+bip_39_word_new_line2: 'model
+
+  staff'
+bip_39_word_new_line3: 'model
+
+  staff
+
+  music'
+bip_39_word_new_line4: 'model
+
+  staff
+
+  music
+
+  there'
+bip_39_word_new_line5: 'model
+
+  staff
+
+  music
+
+  there
+
+  wheat'
+bip_39_word_new_line6: 'model
+
+  staff
+
+  music
+
+  there
+
+  wheat
+
+  orient'
+bip_39_word_new_line7: 'model
+
+  staff
+
+  music
+
+  there
+
+  wheat
+
+  orient
+
+  blouse'
+bip_39_word_new_line8: 'model
+
+  staff
+
+  music
+
+  there
+
+  wheat
+
+  orient
+
+  blouse
+
+  test'
+bip_39_word_new_line9: 'model
+
+  staff
+
+  music
+
+  there
+
+  wheat
+
+  orient
+
+  blouse
+
+  test
+
+  famous'
+bip_39_word_space_0:
+- model
+- staff
+- music
+- there
+- wheat
+- orient
+- blouse
+- test
+- famous
+- matrix
+- blade
+- autumn
+bip_39_word_space_1: model
+bip_39_word_space_10: model staff music there wheat orient blouse test famous matrix
+bip_39_word_space_11: model staff music there wheat orient blouse test famous matrix
+  blade
+bip_39_word_space_12: model staff music there wheat orient blouse test famous matrix
+  blade autumn
+bip_39_word_space_2: model staff
+bip_39_word_space_3: model staff music
+bip_39_word_space_4: model staff music there
+bip_39_word_space_5: model staff music there wheat
+bip_39_word_space_6: model staff music there wheat orient
+bip_39_word_space_7: model staff music there wheat orient blouse
+bip_39_word_space_8: model staff music there wheat orient blouse test
+bip_39_word_space_9: model staff music there wheat orient blouse test famous
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hammer kiss
+  * bip 39 word 3: hammer kiss acid
+  * bip 39 word: hammer kiss acid crush shine myth require beyond cabin outdoor stable anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hammer |  
+| bip_39_word_new_br10 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth<br>require<br>beyond<br>cabin<br>outdoor |  
+| bip_39_word_new_br11 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth<br>require<br>beyond<br>cabin<br>outdoor<br>stable |  
+| bip_39_word_new_br12 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth<br>require<br>beyond<br>cabin<br>outdoor<br>stable<br>anchor |  
+| bip_39_word_new_br2 | hammer<br>kiss |  
+| bip_39_word_new_br3 | hammer<br>kiss<br>acid |  
+| bip_39_word_new_br4 | hammer<br>kiss<br>acid<br>crush |  
+| bip_39_word_new_br5 | hammer<br>kiss<br>acid<br>crush<br>shine |  
+| bip_39_word_new_br6 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth |  
+| bip_39_word_new_br7 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth<br>require |  
+| bip_39_word_new_br8 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth<br>require<br>beyond |  
+| bip_39_word_new_br9 | hammer<br>kiss<br>acid<br>crush<br>shine<br>myth<br>require<br>beyond<br>cabin |  
+| bip_39_word_new_line1 | hammer |  
+| bip_39_word_new_line10 | hammer
+kiss
+acid
+crush
+shine
+myth
+require
+beyond
+cabin
+outdoor |  
+| bip_39_word_new_line11 | hammer
+kiss
+acid
+crush
+shine
+myth
+require
+beyond
+cabin
+outdoor
+stable |  
+| bip_39_word_new_line12 | hammer
+kiss
+acid
+crush
+shine
+myth
+require
+beyond
+cabin
+outdoor
+stable
+anchor |  
+| bip_39_word_new_line2 | hammer
+kiss |  
+| bip_39_word_new_line3 | hammer
+kiss
+acid |  
+| bip_39_word_new_line4 | hammer
+kiss
+acid
+crush |  
+| bip_39_word_new_line5 | hammer
+kiss
+acid
+crush
+shine |  
+| bip_39_word_new_line6 | hammer
+kiss
+acid
+crush
+shine
+myth |  
+| bip_39_word_new_line7 | hammer
+kiss
+acid
+crush
+shine
+myth
+require |  
+| bip_39_word_new_line8 | hammer
+kiss
+acid
+crush
+shine
+myth
+require
+beyond |  
+| bip_39_word_new_line9 | hammer
+kiss
+acid
+crush
+shine
+myth
+require
+beyond
+cabin |  
+| bip_39_word_space_0 | ['hammer', 'kiss', 'acid', 'crush', 'shine', 'myth', 'require', 'beyond', 'cabin', 'outdoor', 'stable', 'anchor'] |  
+| bip_39_word_space_1 | hammer |  
+| bip_39_word_space_10 | hammer kiss acid crush shine myth require beyond cabin outdoor |  
+| bip_39_word_space_11 | hammer kiss acid crush shine myth require beyond cabin outdoor stable |  
+| bip_39_word_space_12 | hammer kiss acid crush shine myth require beyond cabin outdoor stable anchor |  
+| bip_39_word_space_2 | hammer kiss |  
+| bip_39_word_space_3 | hammer kiss acid |  
+| bip_39_word_space_4 | hammer kiss acid crush |  
+| bip_39_word_space_5 | hammer kiss acid crush shine |  
+| bip_39_word_space_6 | hammer kiss acid crush shine myth |  
+| bip_39_word_space_7 | hammer kiss acid crush shine myth require |  
+| bip_39_word_space_8 | hammer kiss acid crush shine myth require beyond |  
+| bip_39_word_space_9 | hammer kiss acid crush shine myth require beyond cabin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

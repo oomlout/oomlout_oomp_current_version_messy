@@ -1,3 +1,187 @@
+bip_39_word_new_br1: negative
+bip_39_word_new_br10: negative<br>extra<br>poem<br>walnut<br>upon<br>build<br>patient<br>blood<br>antenna<br>deny
+bip_39_word_new_br11: negative<br>extra<br>poem<br>walnut<br>upon<br>build<br>patient<br>blood<br>antenna<br>deny<br>trend
+bip_39_word_new_br12: negative<br>extra<br>poem<br>walnut<br>upon<br>build<br>patient<br>blood<br>antenna<br>deny<br>trend<br>assault
+bip_39_word_new_br2: negative<br>extra
+bip_39_word_new_br3: negative<br>extra<br>poem
+bip_39_word_new_br4: negative<br>extra<br>poem<br>walnut
+bip_39_word_new_br5: negative<br>extra<br>poem<br>walnut<br>upon
+bip_39_word_new_br6: negative<br>extra<br>poem<br>walnut<br>upon<br>build
+bip_39_word_new_br7: negative<br>extra<br>poem<br>walnut<br>upon<br>build<br>patient
+bip_39_word_new_br8: negative<br>extra<br>poem<br>walnut<br>upon<br>build<br>patient<br>blood
+bip_39_word_new_br9: negative<br>extra<br>poem<br>walnut<br>upon<br>build<br>patient<br>blood<br>antenna
+bip_39_word_new_line1: negative
+bip_39_word_new_line10: 'negative
+
+  extra
+
+  poem
+
+  walnut
+
+  upon
+
+  build
+
+  patient
+
+  blood
+
+  antenna
+
+  deny'
+bip_39_word_new_line11: 'negative
+
+  extra
+
+  poem
+
+  walnut
+
+  upon
+
+  build
+
+  patient
+
+  blood
+
+  antenna
+
+  deny
+
+  trend'
+bip_39_word_new_line12: 'negative
+
+  extra
+
+  poem
+
+  walnut
+
+  upon
+
+  build
+
+  patient
+
+  blood
+
+  antenna
+
+  deny
+
+  trend
+
+  assault'
+bip_39_word_new_line2: 'negative
+
+  extra'
+bip_39_word_new_line3: 'negative
+
+  extra
+
+  poem'
+bip_39_word_new_line4: 'negative
+
+  extra
+
+  poem
+
+  walnut'
+bip_39_word_new_line5: 'negative
+
+  extra
+
+  poem
+
+  walnut
+
+  upon'
+bip_39_word_new_line6: 'negative
+
+  extra
+
+  poem
+
+  walnut
+
+  upon
+
+  build'
+bip_39_word_new_line7: 'negative
+
+  extra
+
+  poem
+
+  walnut
+
+  upon
+
+  build
+
+  patient'
+bip_39_word_new_line8: 'negative
+
+  extra
+
+  poem
+
+  walnut
+
+  upon
+
+  build
+
+  patient
+
+  blood'
+bip_39_word_new_line9: 'negative
+
+  extra
+
+  poem
+
+  walnut
+
+  upon
+
+  build
+
+  patient
+
+  blood
+
+  antenna'
+bip_39_word_space_0:
+- negative
+- extra
+- poem
+- walnut
+- upon
+- build
+- patient
+- blood
+- antenna
+- deny
+- trend
+- assault
+bip_39_word_space_1: negative
+bip_39_word_space_10: negative extra poem walnut upon build patient blood antenna
+  deny
+bip_39_word_space_11: negative extra poem walnut upon build patient blood antenna
+  deny trend
+bip_39_word_space_12: negative extra poem walnut upon build patient blood antenna
+  deny trend assault
+bip_39_word_space_2: negative extra
+bip_39_word_space_3: negative extra poem
+bip_39_word_space_4: negative extra poem walnut
+bip_39_word_space_5: negative extra poem walnut upon
+bip_39_word_space_6: negative extra poem walnut upon build
+bip_39_word_space_7: negative extra poem walnut upon build patient
+bip_39_word_space_8: negative extra poem walnut upon build patient blood
+bip_39_word_space_9: negative extra poem walnut upon build patient blood antenna
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

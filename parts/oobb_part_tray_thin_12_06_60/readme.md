@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: merit sentence
+  * bip 39 word 3: merit sentence frog
+  * bip 39 word: merit sentence frog pretty sorry opinion pumpkin polar core trick differ above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | merit |  
+| bip_39_word_new_br10 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core<br>trick |  
+| bip_39_word_new_br11 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core<br>trick<br>differ |  
+| bip_39_word_new_br12 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core<br>trick<br>differ<br>above |  
+| bip_39_word_new_br2 | merit<br>sentence |  
+| bip_39_word_new_br3 | merit<br>sentence<br>frog |  
+| bip_39_word_new_br4 | merit<br>sentence<br>frog<br>pretty |  
+| bip_39_word_new_br5 | merit<br>sentence<br>frog<br>pretty<br>sorry |  
+| bip_39_word_new_br6 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion |  
+| bip_39_word_new_br7 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin |  
+| bip_39_word_new_br8 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar |  
+| bip_39_word_new_br9 | merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core |  
+| bip_39_word_new_line1 | merit |  
+| bip_39_word_new_line10 | merit
+sentence
+frog
+pretty
+sorry
+opinion
+pumpkin
+polar
+core
+trick |  
+| bip_39_word_new_line11 | merit
+sentence
+frog
+pretty
+sorry
+opinion
+pumpkin
+polar
+core
+trick
+differ |  
+| bip_39_word_new_line12 | merit
+sentence
+frog
+pretty
+sorry
+opinion
+pumpkin
+polar
+core
+trick
+differ
+above |  
+| bip_39_word_new_line2 | merit
+sentence |  
+| bip_39_word_new_line3 | merit
+sentence
+frog |  
+| bip_39_word_new_line4 | merit
+sentence
+frog
+pretty |  
+| bip_39_word_new_line5 | merit
+sentence
+frog
+pretty
+sorry |  
+| bip_39_word_new_line6 | merit
+sentence
+frog
+pretty
+sorry
+opinion |  
+| bip_39_word_new_line7 | merit
+sentence
+frog
+pretty
+sorry
+opinion
+pumpkin |  
+| bip_39_word_new_line8 | merit
+sentence
+frog
+pretty
+sorry
+opinion
+pumpkin
+polar |  
+| bip_39_word_new_line9 | merit
+sentence
+frog
+pretty
+sorry
+opinion
+pumpkin
+polar
+core |  
+| bip_39_word_space_0 | ['merit', 'sentence', 'frog', 'pretty', 'sorry', 'opinion', 'pumpkin', 'polar', 'core', 'trick', 'differ', 'above'] |  
+| bip_39_word_space_1 | merit |  
+| bip_39_word_space_10 | merit sentence frog pretty sorry opinion pumpkin polar core trick |  
+| bip_39_word_space_11 | merit sentence frog pretty sorry opinion pumpkin polar core trick differ |  
+| bip_39_word_space_12 | merit sentence frog pretty sorry opinion pumpkin polar core trick differ above |  
+| bip_39_word_space_2 | merit sentence |  
+| bip_39_word_space_3 | merit sentence frog |  
+| bip_39_word_space_4 | merit sentence frog pretty |  
+| bip_39_word_space_5 | merit sentence frog pretty sorry |  
+| bip_39_word_space_6 | merit sentence frog pretty sorry opinion |  
+| bip_39_word_space_7 | merit sentence frog pretty sorry opinion pumpkin |  
+| bip_39_word_space_8 | merit sentence frog pretty sorry opinion pumpkin polar |  
+| bip_39_word_space_9 | merit sentence frog pretty sorry opinion pumpkin polar core |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

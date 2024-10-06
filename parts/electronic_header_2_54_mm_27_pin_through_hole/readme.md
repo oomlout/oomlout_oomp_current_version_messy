@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dutch equip
+  * bip 39 word 3: dutch equip tribe
+  * bip 39 word: dutch equip tribe enough doll sort pony gather oak pave prefer accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dutch |  
+| bip_39_word_new_br10 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort<br>pony<br>gather<br>oak<br>pave |  
+| bip_39_word_new_br11 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort<br>pony<br>gather<br>oak<br>pave<br>prefer |  
+| bip_39_word_new_br12 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort<br>pony<br>gather<br>oak<br>pave<br>prefer<br>accident |  
+| bip_39_word_new_br2 | dutch<br>equip |  
+| bip_39_word_new_br3 | dutch<br>equip<br>tribe |  
+| bip_39_word_new_br4 | dutch<br>equip<br>tribe<br>enough |  
+| bip_39_word_new_br5 | dutch<br>equip<br>tribe<br>enough<br>doll |  
+| bip_39_word_new_br6 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort |  
+| bip_39_word_new_br7 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort<br>pony |  
+| bip_39_word_new_br8 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort<br>pony<br>gather |  
+| bip_39_word_new_br9 | dutch<br>equip<br>tribe<br>enough<br>doll<br>sort<br>pony<br>gather<br>oak |  
+| bip_39_word_new_line1 | dutch |  
+| bip_39_word_new_line10 | dutch
+equip
+tribe
+enough
+doll
+sort
+pony
+gather
+oak
+pave |  
+| bip_39_word_new_line11 | dutch
+equip
+tribe
+enough
+doll
+sort
+pony
+gather
+oak
+pave
+prefer |  
+| bip_39_word_new_line12 | dutch
+equip
+tribe
+enough
+doll
+sort
+pony
+gather
+oak
+pave
+prefer
+accident |  
+| bip_39_word_new_line2 | dutch
+equip |  
+| bip_39_word_new_line3 | dutch
+equip
+tribe |  
+| bip_39_word_new_line4 | dutch
+equip
+tribe
+enough |  
+| bip_39_word_new_line5 | dutch
+equip
+tribe
+enough
+doll |  
+| bip_39_word_new_line6 | dutch
+equip
+tribe
+enough
+doll
+sort |  
+| bip_39_word_new_line7 | dutch
+equip
+tribe
+enough
+doll
+sort
+pony |  
+| bip_39_word_new_line8 | dutch
+equip
+tribe
+enough
+doll
+sort
+pony
+gather |  
+| bip_39_word_new_line9 | dutch
+equip
+tribe
+enough
+doll
+sort
+pony
+gather
+oak |  
+| bip_39_word_space_0 | ['dutch', 'equip', 'tribe', 'enough', 'doll', 'sort', 'pony', 'gather', 'oak', 'pave', 'prefer', 'accident'] |  
+| bip_39_word_space_1 | dutch |  
+| bip_39_word_space_10 | dutch equip tribe enough doll sort pony gather oak pave |  
+| bip_39_word_space_11 | dutch equip tribe enough doll sort pony gather oak pave prefer |  
+| bip_39_word_space_12 | dutch equip tribe enough doll sort pony gather oak pave prefer accident |  
+| bip_39_word_space_2 | dutch equip |  
+| bip_39_word_space_3 | dutch equip tribe |  
+| bip_39_word_space_4 | dutch equip tribe enough |  
+| bip_39_word_space_5 | dutch equip tribe enough doll |  
+| bip_39_word_space_6 | dutch equip tribe enough doll sort |  
+| bip_39_word_space_7 | dutch equip tribe enough doll sort pony |  
+| bip_39_word_space_8 | dutch equip tribe enough doll sort pony gather |  
+| bip_39_word_space_9 | dutch equip tribe enough doll sort pony gather oak |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

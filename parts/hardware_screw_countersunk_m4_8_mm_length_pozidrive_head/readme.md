@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sniff squeeze
+  * bip 39 word 3: sniff squeeze news
+  * bip 39 word: sniff squeeze news nuclear matter together dolphin number crisp damage wash afraid
 
 ### other_codes
 * short_code: cs4m8pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sniff |  
+| bip_39_word_new_br10 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage |  
+| bip_39_word_new_br11 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage<br>wash |  
+| bip_39_word_new_br12 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp<br>damage<br>wash<br>afraid |  
+| bip_39_word_new_br2 | sniff<br>squeeze |  
+| bip_39_word_new_br3 | sniff<br>squeeze<br>news |  
+| bip_39_word_new_br4 | sniff<br>squeeze<br>news<br>nuclear |  
+| bip_39_word_new_br5 | sniff<br>squeeze<br>news<br>nuclear<br>matter |  
+| bip_39_word_new_br6 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together |  
+| bip_39_word_new_br7 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin |  
+| bip_39_word_new_br8 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number |  
+| bip_39_word_new_br9 | sniff<br>squeeze<br>news<br>nuclear<br>matter<br>together<br>dolphin<br>number<br>crisp |  
+| bip_39_word_new_line1 | sniff |  
+| bip_39_word_new_line10 | sniff
+squeeze
+news
+nuclear
+matter
+together
+dolphin
+number
+crisp
+damage |  
+| bip_39_word_new_line11 | sniff
+squeeze
+news
+nuclear
+matter
+together
+dolphin
+number
+crisp
+damage
+wash |  
+| bip_39_word_new_line12 | sniff
+squeeze
+news
+nuclear
+matter
+together
+dolphin
+number
+crisp
+damage
+wash
+afraid |  
+| bip_39_word_new_line2 | sniff
+squeeze |  
+| bip_39_word_new_line3 | sniff
+squeeze
+news |  
+| bip_39_word_new_line4 | sniff
+squeeze
+news
+nuclear |  
+| bip_39_word_new_line5 | sniff
+squeeze
+news
+nuclear
+matter |  
+| bip_39_word_new_line6 | sniff
+squeeze
+news
+nuclear
+matter
+together |  
+| bip_39_word_new_line7 | sniff
+squeeze
+news
+nuclear
+matter
+together
+dolphin |  
+| bip_39_word_new_line8 | sniff
+squeeze
+news
+nuclear
+matter
+together
+dolphin
+number |  
+| bip_39_word_new_line9 | sniff
+squeeze
+news
+nuclear
+matter
+together
+dolphin
+number
+crisp |  
+| bip_39_word_space_0 | ['sniff', 'squeeze', 'news', 'nuclear', 'matter', 'together', 'dolphin', 'number', 'crisp', 'damage', 'wash', 'afraid'] |  
+| bip_39_word_space_1 | sniff |  
+| bip_39_word_space_10 | sniff squeeze news nuclear matter together dolphin number crisp damage |  
+| bip_39_word_space_11 | sniff squeeze news nuclear matter together dolphin number crisp damage wash |  
+| bip_39_word_space_12 | sniff squeeze news nuclear matter together dolphin number crisp damage wash afraid |  
+| bip_39_word_space_2 | sniff squeeze |  
+| bip_39_word_space_3 | sniff squeeze news |  
+| bip_39_word_space_4 | sniff squeeze news nuclear |  
+| bip_39_word_space_5 | sniff squeeze news nuclear matter |  
+| bip_39_word_space_6 | sniff squeeze news nuclear matter together |  
+| bip_39_word_space_7 | sniff squeeze news nuclear matter together dolphin |  
+| bip_39_word_space_8 | sniff squeeze news nuclear matter together dolphin number |  
+| bip_39_word_space_9 | sniff squeeze news nuclear matter together dolphin number crisp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

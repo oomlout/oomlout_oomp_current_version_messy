@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wonder
+bip_39_word_new_br10: wonder<br>sing<br>life<br>swift<br>border<br>chaos<br>salad<br>use<br>sibling<br>receive
+bip_39_word_new_br11: wonder<br>sing<br>life<br>swift<br>border<br>chaos<br>salad<br>use<br>sibling<br>receive<br>curve
+bip_39_word_new_br12: wonder<br>sing<br>life<br>swift<br>border<br>chaos<br>salad<br>use<br>sibling<br>receive<br>curve<br>april
+bip_39_word_new_br2: wonder<br>sing
+bip_39_word_new_br3: wonder<br>sing<br>life
+bip_39_word_new_br4: wonder<br>sing<br>life<br>swift
+bip_39_word_new_br5: wonder<br>sing<br>life<br>swift<br>border
+bip_39_word_new_br6: wonder<br>sing<br>life<br>swift<br>border<br>chaos
+bip_39_word_new_br7: wonder<br>sing<br>life<br>swift<br>border<br>chaos<br>salad
+bip_39_word_new_br8: wonder<br>sing<br>life<br>swift<br>border<br>chaos<br>salad<br>use
+bip_39_word_new_br9: wonder<br>sing<br>life<br>swift<br>border<br>chaos<br>salad<br>use<br>sibling
+bip_39_word_new_line1: wonder
+bip_39_word_new_line10: 'wonder
+
+  sing
+
+  life
+
+  swift
+
+  border
+
+  chaos
+
+  salad
+
+  use
+
+  sibling
+
+  receive'
+bip_39_word_new_line11: 'wonder
+
+  sing
+
+  life
+
+  swift
+
+  border
+
+  chaos
+
+  salad
+
+  use
+
+  sibling
+
+  receive
+
+  curve'
+bip_39_word_new_line12: 'wonder
+
+  sing
+
+  life
+
+  swift
+
+  border
+
+  chaos
+
+  salad
+
+  use
+
+  sibling
+
+  receive
+
+  curve
+
+  april'
+bip_39_word_new_line2: 'wonder
+
+  sing'
+bip_39_word_new_line3: 'wonder
+
+  sing
+
+  life'
+bip_39_word_new_line4: 'wonder
+
+  sing
+
+  life
+
+  swift'
+bip_39_word_new_line5: 'wonder
+
+  sing
+
+  life
+
+  swift
+
+  border'
+bip_39_word_new_line6: 'wonder
+
+  sing
+
+  life
+
+  swift
+
+  border
+
+  chaos'
+bip_39_word_new_line7: 'wonder
+
+  sing
+
+  life
+
+  swift
+
+  border
+
+  chaos
+
+  salad'
+bip_39_word_new_line8: 'wonder
+
+  sing
+
+  life
+
+  swift
+
+  border
+
+  chaos
+
+  salad
+
+  use'
+bip_39_word_new_line9: 'wonder
+
+  sing
+
+  life
+
+  swift
+
+  border
+
+  chaos
+
+  salad
+
+  use
+
+  sibling'
+bip_39_word_space_0:
+- wonder
+- sing
+- life
+- swift
+- border
+- chaos
+- salad
+- use
+- sibling
+- receive
+- curve
+- april
+bip_39_word_space_1: wonder
+bip_39_word_space_10: wonder sing life swift border chaos salad use sibling receive
+bip_39_word_space_11: wonder sing life swift border chaos salad use sibling receive
+  curve
+bip_39_word_space_12: wonder sing life swift border chaos salad use sibling receive
+  curve april
+bip_39_word_space_2: wonder sing
+bip_39_word_space_3: wonder sing life
+bip_39_word_space_4: wonder sing life swift
+bip_39_word_space_5: wonder sing life swift border
+bip_39_word_space_6: wonder sing life swift border chaos
+bip_39_word_space_7: wonder sing life swift border chaos salad
+bip_39_word_space_8: wonder sing life swift border chaos salad use
+bip_39_word_space_9: wonder sing life swift border chaos salad use sibling
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

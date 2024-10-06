@@ -1,3 +1,159 @@
+bip_39_word_new_br1: good
+bip_39_word_new_br10: good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major<br>report
+bip_39_word_new_br11: good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major<br>report<br>lucky
+bip_39_word_new_br2: good<br>carry
+bip_39_word_new_br3: good<br>carry<br>adjust
+bip_39_word_new_br4: good<br>carry<br>adjust<br>soldier
+bip_39_word_new_br5: good<br>carry<br>adjust<br>soldier<br>under
+bip_39_word_new_br6: good<br>carry<br>adjust<br>soldier<br>under<br>churn
+bip_39_word_new_br7: good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type
+bip_39_word_new_br8: good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare
+bip_39_word_new_br9: good<br>carry<br>adjust<br>soldier<br>under<br>churn<br>type<br>prepare<br>major
+bip_39_word_new_line1: good
+bip_39_word_new_line10: 'good
+
+  carry
+
+  adjust
+
+  soldier
+
+  under
+
+  churn
+
+  type
+
+  prepare
+
+  major
+
+  report'
+bip_39_word_new_line11: 'good
+
+  carry
+
+  adjust
+
+  soldier
+
+  under
+
+  churn
+
+  type
+
+  prepare
+
+  major
+
+  report
+
+  lucky'
+bip_39_word_new_line2: 'good
+
+  carry'
+bip_39_word_new_line3: 'good
+
+  carry
+
+  adjust'
+bip_39_word_new_line4: 'good
+
+  carry
+
+  adjust
+
+  soldier'
+bip_39_word_new_line5: 'good
+
+  carry
+
+  adjust
+
+  soldier
+
+  under'
+bip_39_word_new_line6: 'good
+
+  carry
+
+  adjust
+
+  soldier
+
+  under
+
+  churn'
+bip_39_word_new_line7: 'good
+
+  carry
+
+  adjust
+
+  soldier
+
+  under
+
+  churn
+
+  type'
+bip_39_word_new_line8: 'good
+
+  carry
+
+  adjust
+
+  soldier
+
+  under
+
+  churn
+
+  type
+
+  prepare'
+bip_39_word_new_line9: 'good
+
+  carry
+
+  adjust
+
+  soldier
+
+  under
+
+  churn
+
+  type
+
+  prepare
+
+  major'
+bip_39_word_space_0:
+- good
+- carry
+- adjust
+- soldier
+- under
+- churn
+- type
+- prepare
+- major
+- report
+- lucky
+bip_39_word_space_1: good
+bip_39_word_space_10: good carry adjust soldier under churn type prepare major report
+bip_39_word_space_11: good carry adjust soldier under churn type prepare major report
+  lucky
+bip_39_word_space_2: good carry
+bip_39_word_space_3: good carry adjust
+bip_39_word_space_4: good carry adjust soldier
+bip_39_word_space_5: good carry adjust soldier under
+bip_39_word_space_6: good carry adjust soldier under churn
+bip_39_word_space_7: good carry adjust soldier under churn type
+bip_39_word_space_8: good carry adjust soldier under churn type prepare
+bip_39_word_space_9: good carry adjust soldier under churn type prepare major
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

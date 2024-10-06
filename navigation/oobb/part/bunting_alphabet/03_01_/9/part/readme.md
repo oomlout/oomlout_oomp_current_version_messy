@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 9
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rent whisper
+  * bip 39 word 3: rent whisper ladder
+  * bip 39 word: rent whisper ladder taste defense chase lawn fork quote cram regret air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rent |  
+| bip_39_word_new_br10 | rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote<br>cram |  
+| bip_39_word_new_br11 | rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote<br>cram<br>regret |  
+| bip_39_word_new_br12 | rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote<br>cram<br>regret<br>air |  
+| bip_39_word_new_br2 | rent<br>whisper |  
+| bip_39_word_new_br3 | rent<br>whisper<br>ladder |  
+| bip_39_word_new_br4 | rent<br>whisper<br>ladder<br>taste |  
+| bip_39_word_new_br5 | rent<br>whisper<br>ladder<br>taste<br>defense |  
+| bip_39_word_new_br6 | rent<br>whisper<br>ladder<br>taste<br>defense<br>chase |  
+| bip_39_word_new_br7 | rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn |  
+| bip_39_word_new_br8 | rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork |  
+| bip_39_word_new_br9 | rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote |  
+| bip_39_word_new_line1 | rent |  
+| bip_39_word_new_line10 | rent
+whisper
+ladder
+taste
+defense
+chase
+lawn
+fork
+quote
+cram |  
+| bip_39_word_new_line11 | rent
+whisper
+ladder
+taste
+defense
+chase
+lawn
+fork
+quote
+cram
+regret |  
+| bip_39_word_new_line12 | rent
+whisper
+ladder
+taste
+defense
+chase
+lawn
+fork
+quote
+cram
+regret
+air |  
+| bip_39_word_new_line2 | rent
+whisper |  
+| bip_39_word_new_line3 | rent
+whisper
+ladder |  
+| bip_39_word_new_line4 | rent
+whisper
+ladder
+taste |  
+| bip_39_word_new_line5 | rent
+whisper
+ladder
+taste
+defense |  
+| bip_39_word_new_line6 | rent
+whisper
+ladder
+taste
+defense
+chase |  
+| bip_39_word_new_line7 | rent
+whisper
+ladder
+taste
+defense
+chase
+lawn |  
+| bip_39_word_new_line8 | rent
+whisper
+ladder
+taste
+defense
+chase
+lawn
+fork |  
+| bip_39_word_new_line9 | rent
+whisper
+ladder
+taste
+defense
+chase
+lawn
+fork
+quote |  
+| bip_39_word_space_0 | ['rent', 'whisper', 'ladder', 'taste', 'defense', 'chase', 'lawn', 'fork', 'quote', 'cram', 'regret', 'air'] |  
+| bip_39_word_space_1 | rent |  
+| bip_39_word_space_10 | rent whisper ladder taste defense chase lawn fork quote cram |  
+| bip_39_word_space_11 | rent whisper ladder taste defense chase lawn fork quote cram regret |  
+| bip_39_word_space_12 | rent whisper ladder taste defense chase lawn fork quote cram regret air |  
+| bip_39_word_space_2 | rent whisper |  
+| bip_39_word_space_3 | rent whisper ladder |  
+| bip_39_word_space_4 | rent whisper ladder taste |  
+| bip_39_word_space_5 | rent whisper ladder taste defense |  
+| bip_39_word_space_6 | rent whisper ladder taste defense chase |  
+| bip_39_word_space_7 | rent whisper ladder taste defense chase lawn |  
+| bip_39_word_space_8 | rent whisper ladder taste defense chase lawn fork |  
+| bip_39_word_space_9 | rent whisper ladder taste defense chase lawn fork quote |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faint acid
+  * bip 39 word 3: faint acid double
+  * bip 39 word: faint acid double gasp tube rural million hunt friend crop snack aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faint |  
+| bip_39_word_new_br10 | faint<br>acid<br>double<br>gasp<br>tube<br>rural<br>million<br>hunt<br>friend<br>crop |  
+| bip_39_word_new_br11 | faint<br>acid<br>double<br>gasp<br>tube<br>rural<br>million<br>hunt<br>friend<br>crop<br>snack |  
+| bip_39_word_new_br12 | faint<br>acid<br>double<br>gasp<br>tube<br>rural<br>million<br>hunt<br>friend<br>crop<br>snack<br>aerobic |  
+| bip_39_word_new_br2 | faint<br>acid |  
+| bip_39_word_new_br3 | faint<br>acid<br>double |  
+| bip_39_word_new_br4 | faint<br>acid<br>double<br>gasp |  
+| bip_39_word_new_br5 | faint<br>acid<br>double<br>gasp<br>tube |  
+| bip_39_word_new_br6 | faint<br>acid<br>double<br>gasp<br>tube<br>rural |  
+| bip_39_word_new_br7 | faint<br>acid<br>double<br>gasp<br>tube<br>rural<br>million |  
+| bip_39_word_new_br8 | faint<br>acid<br>double<br>gasp<br>tube<br>rural<br>million<br>hunt |  
+| bip_39_word_new_br9 | faint<br>acid<br>double<br>gasp<br>tube<br>rural<br>million<br>hunt<br>friend |  
+| bip_39_word_new_line1 | faint |  
+| bip_39_word_new_line10 | faint
+acid
+double
+gasp
+tube
+rural
+million
+hunt
+friend
+crop |  
+| bip_39_word_new_line11 | faint
+acid
+double
+gasp
+tube
+rural
+million
+hunt
+friend
+crop
+snack |  
+| bip_39_word_new_line12 | faint
+acid
+double
+gasp
+tube
+rural
+million
+hunt
+friend
+crop
+snack
+aerobic |  
+| bip_39_word_new_line2 | faint
+acid |  
+| bip_39_word_new_line3 | faint
+acid
+double |  
+| bip_39_word_new_line4 | faint
+acid
+double
+gasp |  
+| bip_39_word_new_line5 | faint
+acid
+double
+gasp
+tube |  
+| bip_39_word_new_line6 | faint
+acid
+double
+gasp
+tube
+rural |  
+| bip_39_word_new_line7 | faint
+acid
+double
+gasp
+tube
+rural
+million |  
+| bip_39_word_new_line8 | faint
+acid
+double
+gasp
+tube
+rural
+million
+hunt |  
+| bip_39_word_new_line9 | faint
+acid
+double
+gasp
+tube
+rural
+million
+hunt
+friend |  
+| bip_39_word_space_0 | ['faint', 'acid', 'double', 'gasp', 'tube', 'rural', 'million', 'hunt', 'friend', 'crop', 'snack', 'aerobic'] |  
+| bip_39_word_space_1 | faint |  
+| bip_39_word_space_10 | faint acid double gasp tube rural million hunt friend crop |  
+| bip_39_word_space_11 | faint acid double gasp tube rural million hunt friend crop snack |  
+| bip_39_word_space_12 | faint acid double gasp tube rural million hunt friend crop snack aerobic |  
+| bip_39_word_space_2 | faint acid |  
+| bip_39_word_space_3 | faint acid double |  
+| bip_39_word_space_4 | faint acid double gasp |  
+| bip_39_word_space_5 | faint acid double gasp tube |  
+| bip_39_word_space_6 | faint acid double gasp tube rural |  
+| bip_39_word_space_7 | faint acid double gasp tube rural million |  
+| bip_39_word_space_8 | faint acid double gasp tube rural million hunt |  
+| bip_39_word_space_9 | faint acid double gasp tube rural million hunt friend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

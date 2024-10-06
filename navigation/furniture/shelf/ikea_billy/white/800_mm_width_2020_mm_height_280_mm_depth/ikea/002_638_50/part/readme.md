@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 800_mm_width_2020_mm_height_280_mm_depth
   * manufacturer: ikea
   * part_number: 002_638_50
+  * bip 39 word 2: display purse
+  * bip 39 word 3: display purse fee
+  * bip 39 word: display purse fee afraid riot very again scissors depart intact hover address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | display |  
+| bip_39_word_new_br10 | display<br>purse<br>fee<br>afraid<br>riot<br>very<br>again<br>scissors<br>depart<br>intact |  
+| bip_39_word_new_br11 | display<br>purse<br>fee<br>afraid<br>riot<br>very<br>again<br>scissors<br>depart<br>intact<br>hover |  
+| bip_39_word_new_br12 | display<br>purse<br>fee<br>afraid<br>riot<br>very<br>again<br>scissors<br>depart<br>intact<br>hover<br>address |  
+| bip_39_word_new_br2 | display<br>purse |  
+| bip_39_word_new_br3 | display<br>purse<br>fee |  
+| bip_39_word_new_br4 | display<br>purse<br>fee<br>afraid |  
+| bip_39_word_new_br5 | display<br>purse<br>fee<br>afraid<br>riot |  
+| bip_39_word_new_br6 | display<br>purse<br>fee<br>afraid<br>riot<br>very |  
+| bip_39_word_new_br7 | display<br>purse<br>fee<br>afraid<br>riot<br>very<br>again |  
+| bip_39_word_new_br8 | display<br>purse<br>fee<br>afraid<br>riot<br>very<br>again<br>scissors |  
+| bip_39_word_new_br9 | display<br>purse<br>fee<br>afraid<br>riot<br>very<br>again<br>scissors<br>depart |  
+| bip_39_word_new_line1 | display |  
+| bip_39_word_new_line10 | display
+purse
+fee
+afraid
+riot
+very
+again
+scissors
+depart
+intact |  
+| bip_39_word_new_line11 | display
+purse
+fee
+afraid
+riot
+very
+again
+scissors
+depart
+intact
+hover |  
+| bip_39_word_new_line12 | display
+purse
+fee
+afraid
+riot
+very
+again
+scissors
+depart
+intact
+hover
+address |  
+| bip_39_word_new_line2 | display
+purse |  
+| bip_39_word_new_line3 | display
+purse
+fee |  
+| bip_39_word_new_line4 | display
+purse
+fee
+afraid |  
+| bip_39_word_new_line5 | display
+purse
+fee
+afraid
+riot |  
+| bip_39_word_new_line6 | display
+purse
+fee
+afraid
+riot
+very |  
+| bip_39_word_new_line7 | display
+purse
+fee
+afraid
+riot
+very
+again |  
+| bip_39_word_new_line8 | display
+purse
+fee
+afraid
+riot
+very
+again
+scissors |  
+| bip_39_word_new_line9 | display
+purse
+fee
+afraid
+riot
+very
+again
+scissors
+depart |  
+| bip_39_word_space_0 | ['display', 'purse', 'fee', 'afraid', 'riot', 'very', 'again', 'scissors', 'depart', 'intact', 'hover', 'address'] |  
+| bip_39_word_space_1 | display |  
+| bip_39_word_space_10 | display purse fee afraid riot very again scissors depart intact |  
+| bip_39_word_space_11 | display purse fee afraid riot very again scissors depart intact hover |  
+| bip_39_word_space_12 | display purse fee afraid riot very again scissors depart intact hover address |  
+| bip_39_word_space_2 | display purse |  
+| bip_39_word_space_3 | display purse fee |  
+| bip_39_word_space_4 | display purse fee afraid |  
+| bip_39_word_space_5 | display purse fee afraid riot |  
+| bip_39_word_space_6 | display purse fee afraid riot very |  
+| bip_39_word_space_7 | display purse fee afraid riot very again |  
+| bip_39_word_space_8 | display purse fee afraid riot very again scissors |  
+| bip_39_word_space_9 | display purse fee afraid riot very again scissors depart |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: systempak
   * part_number: 2026
+  * bip 39 word 2: type educate
+  * bip 39 word 3: type educate stumble
+  * bip 39 word: type educate stumble hobby trophy like abandon intact clean scale column able
 
 ### other_codes
 * short_code: tcc1000
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | type |  
+| bip_39_word_new_br10 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean<br>scale |  
+| bip_39_word_new_br11 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean<br>scale<br>column |  
+| bip_39_word_new_br12 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean<br>scale<br>column<br>able |  
+| bip_39_word_new_br2 | type<br>educate |  
+| bip_39_word_new_br3 | type<br>educate<br>stumble |  
+| bip_39_word_new_br4 | type<br>educate<br>stumble<br>hobby |  
+| bip_39_word_new_br5 | type<br>educate<br>stumble<br>hobby<br>trophy |  
+| bip_39_word_new_br6 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like |  
+| bip_39_word_new_br7 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon |  
+| bip_39_word_new_br8 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact |  
+| bip_39_word_new_br9 | type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean |  
+| bip_39_word_new_line1 | type |  
+| bip_39_word_new_line10 | type
+educate
+stumble
+hobby
+trophy
+like
+abandon
+intact
+clean
+scale |  
+| bip_39_word_new_line11 | type
+educate
+stumble
+hobby
+trophy
+like
+abandon
+intact
+clean
+scale
+column |  
+| bip_39_word_new_line12 | type
+educate
+stumble
+hobby
+trophy
+like
+abandon
+intact
+clean
+scale
+column
+able |  
+| bip_39_word_new_line2 | type
+educate |  
+| bip_39_word_new_line3 | type
+educate
+stumble |  
+| bip_39_word_new_line4 | type
+educate
+stumble
+hobby |  
+| bip_39_word_new_line5 | type
+educate
+stumble
+hobby
+trophy |  
+| bip_39_word_new_line6 | type
+educate
+stumble
+hobby
+trophy
+like |  
+| bip_39_word_new_line7 | type
+educate
+stumble
+hobby
+trophy
+like
+abandon |  
+| bip_39_word_new_line8 | type
+educate
+stumble
+hobby
+trophy
+like
+abandon
+intact |  
+| bip_39_word_new_line9 | type
+educate
+stumble
+hobby
+trophy
+like
+abandon
+intact
+clean |  
+| bip_39_word_space_0 | ['type', 'educate', 'stumble', 'hobby', 'trophy', 'like', 'abandon', 'intact', 'clean', 'scale', 'column', 'able'] |  
+| bip_39_word_space_1 | type |  
+| bip_39_word_space_10 | type educate stumble hobby trophy like abandon intact clean scale |  
+| bip_39_word_space_11 | type educate stumble hobby trophy like abandon intact clean scale column |  
+| bip_39_word_space_12 | type educate stumble hobby trophy like abandon intact clean scale column able |  
+| bip_39_word_space_2 | type educate |  
+| bip_39_word_space_3 | type educate stumble |  
+| bip_39_word_space_4 | type educate stumble hobby |  
+| bip_39_word_space_5 | type educate stumble hobby trophy |  
+| bip_39_word_space_6 | type educate stumble hobby trophy like |  
+| bip_39_word_space_7 | type educate stumble hobby trophy like abandon |  
+| bip_39_word_space_8 | type educate stumble hobby trophy like abandon intact |  
+| bip_39_word_space_9 | type educate stumble hobby trophy like abandon intact clean |  
 | box_quantity | 197 |  
 | classification | packaging |  
 | classification_capital | Packaging |  

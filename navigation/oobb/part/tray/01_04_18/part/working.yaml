@@ -1,3 +1,186 @@
+bip_39_word_new_br1: library
+bip_39_word_new_br10: library<br>oak<br>teach<br>mail<br>slab<br>biology<br>vague<br>skirt<br>educate<br>rude
+bip_39_word_new_br11: library<br>oak<br>teach<br>mail<br>slab<br>biology<br>vague<br>skirt<br>educate<br>rude<br>length
+bip_39_word_new_br12: library<br>oak<br>teach<br>mail<br>slab<br>biology<br>vague<br>skirt<br>educate<br>rude<br>length<br>accident
+bip_39_word_new_br2: library<br>oak
+bip_39_word_new_br3: library<br>oak<br>teach
+bip_39_word_new_br4: library<br>oak<br>teach<br>mail
+bip_39_word_new_br5: library<br>oak<br>teach<br>mail<br>slab
+bip_39_word_new_br6: library<br>oak<br>teach<br>mail<br>slab<br>biology
+bip_39_word_new_br7: library<br>oak<br>teach<br>mail<br>slab<br>biology<br>vague
+bip_39_word_new_br8: library<br>oak<br>teach<br>mail<br>slab<br>biology<br>vague<br>skirt
+bip_39_word_new_br9: library<br>oak<br>teach<br>mail<br>slab<br>biology<br>vague<br>skirt<br>educate
+bip_39_word_new_line1: library
+bip_39_word_new_line10: 'library
+
+  oak
+
+  teach
+
+  mail
+
+  slab
+
+  biology
+
+  vague
+
+  skirt
+
+  educate
+
+  rude'
+bip_39_word_new_line11: 'library
+
+  oak
+
+  teach
+
+  mail
+
+  slab
+
+  biology
+
+  vague
+
+  skirt
+
+  educate
+
+  rude
+
+  length'
+bip_39_word_new_line12: 'library
+
+  oak
+
+  teach
+
+  mail
+
+  slab
+
+  biology
+
+  vague
+
+  skirt
+
+  educate
+
+  rude
+
+  length
+
+  accident'
+bip_39_word_new_line2: 'library
+
+  oak'
+bip_39_word_new_line3: 'library
+
+  oak
+
+  teach'
+bip_39_word_new_line4: 'library
+
+  oak
+
+  teach
+
+  mail'
+bip_39_word_new_line5: 'library
+
+  oak
+
+  teach
+
+  mail
+
+  slab'
+bip_39_word_new_line6: 'library
+
+  oak
+
+  teach
+
+  mail
+
+  slab
+
+  biology'
+bip_39_word_new_line7: 'library
+
+  oak
+
+  teach
+
+  mail
+
+  slab
+
+  biology
+
+  vague'
+bip_39_word_new_line8: 'library
+
+  oak
+
+  teach
+
+  mail
+
+  slab
+
+  biology
+
+  vague
+
+  skirt'
+bip_39_word_new_line9: 'library
+
+  oak
+
+  teach
+
+  mail
+
+  slab
+
+  biology
+
+  vague
+
+  skirt
+
+  educate'
+bip_39_word_space_0:
+- library
+- oak
+- teach
+- mail
+- slab
+- biology
+- vague
+- skirt
+- educate
+- rude
+- length
+- accident
+bip_39_word_space_1: library
+bip_39_word_space_10: library oak teach mail slab biology vague skirt educate rude
+bip_39_word_space_11: library oak teach mail slab biology vague skirt educate rude
+  length
+bip_39_word_space_12: library oak teach mail slab biology vague skirt educate rude
+  length accident
+bip_39_word_space_2: library oak
+bip_39_word_space_3: library oak teach
+bip_39_word_space_4: library oak teach mail
+bip_39_word_space_5: library oak teach mail slab
+bip_39_word_space_6: library oak teach mail slab biology
+bip_39_word_space_7: library oak teach mail slab biology vague
+bip_39_word_space_8: library oak teach mail slab biology vague skirt
+bip_39_word_space_9: library oak teach mail slab biology vague skirt educate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

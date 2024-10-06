@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: turtle jar
+  * bip 39 word 3: turtle jar start
+  * bip 39 word: turtle jar start reward mandate view taste roast fluid riot danger attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | turtle |  
+| bip_39_word_new_br10 | turtle<br>jar<br>start<br>reward<br>mandate<br>view<br>taste<br>roast<br>fluid<br>riot |  
+| bip_39_word_new_br11 | turtle<br>jar<br>start<br>reward<br>mandate<br>view<br>taste<br>roast<br>fluid<br>riot<br>danger |  
+| bip_39_word_new_br12 | turtle<br>jar<br>start<br>reward<br>mandate<br>view<br>taste<br>roast<br>fluid<br>riot<br>danger<br>attend |  
+| bip_39_word_new_br2 | turtle<br>jar |  
+| bip_39_word_new_br3 | turtle<br>jar<br>start |  
+| bip_39_word_new_br4 | turtle<br>jar<br>start<br>reward |  
+| bip_39_word_new_br5 | turtle<br>jar<br>start<br>reward<br>mandate |  
+| bip_39_word_new_br6 | turtle<br>jar<br>start<br>reward<br>mandate<br>view |  
+| bip_39_word_new_br7 | turtle<br>jar<br>start<br>reward<br>mandate<br>view<br>taste |  
+| bip_39_word_new_br8 | turtle<br>jar<br>start<br>reward<br>mandate<br>view<br>taste<br>roast |  
+| bip_39_word_new_br9 | turtle<br>jar<br>start<br>reward<br>mandate<br>view<br>taste<br>roast<br>fluid |  
+| bip_39_word_new_line1 | turtle |  
+| bip_39_word_new_line10 | turtle
+jar
+start
+reward
+mandate
+view
+taste
+roast
+fluid
+riot |  
+| bip_39_word_new_line11 | turtle
+jar
+start
+reward
+mandate
+view
+taste
+roast
+fluid
+riot
+danger |  
+| bip_39_word_new_line12 | turtle
+jar
+start
+reward
+mandate
+view
+taste
+roast
+fluid
+riot
+danger
+attend |  
+| bip_39_word_new_line2 | turtle
+jar |  
+| bip_39_word_new_line3 | turtle
+jar
+start |  
+| bip_39_word_new_line4 | turtle
+jar
+start
+reward |  
+| bip_39_word_new_line5 | turtle
+jar
+start
+reward
+mandate |  
+| bip_39_word_new_line6 | turtle
+jar
+start
+reward
+mandate
+view |  
+| bip_39_word_new_line7 | turtle
+jar
+start
+reward
+mandate
+view
+taste |  
+| bip_39_word_new_line8 | turtle
+jar
+start
+reward
+mandate
+view
+taste
+roast |  
+| bip_39_word_new_line9 | turtle
+jar
+start
+reward
+mandate
+view
+taste
+roast
+fluid |  
+| bip_39_word_space_0 | ['turtle', 'jar', 'start', 'reward', 'mandate', 'view', 'taste', 'roast', 'fluid', 'riot', 'danger', 'attend'] |  
+| bip_39_word_space_1 | turtle |  
+| bip_39_word_space_10 | turtle jar start reward mandate view taste roast fluid riot |  
+| bip_39_word_space_11 | turtle jar start reward mandate view taste roast fluid riot danger |  
+| bip_39_word_space_12 | turtle jar start reward mandate view taste roast fluid riot danger attend |  
+| bip_39_word_space_2 | turtle jar |  
+| bip_39_word_space_3 | turtle jar start |  
+| bip_39_word_space_4 | turtle jar start reward |  
+| bip_39_word_space_5 | turtle jar start reward mandate |  
+| bip_39_word_space_6 | turtle jar start reward mandate view |  
+| bip_39_word_space_7 | turtle jar start reward mandate view taste |  
+| bip_39_word_space_8 | turtle jar start reward mandate view taste roast |  
+| bip_39_word_space_9 | turtle jar start reward mandate view taste roast fluid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

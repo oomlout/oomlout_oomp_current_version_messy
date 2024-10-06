@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kingdom barrel
+  * bip 39 word 3: kingdom barrel trial
+  * bip 39 word: kingdom barrel trial urge mountain saddle alien empty copper hello truly armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kingdom |  
+| bip_39_word_new_br10 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle<br>alien<br>empty<br>copper<br>hello |  
+| bip_39_word_new_br11 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle<br>alien<br>empty<br>copper<br>hello<br>truly |  
+| bip_39_word_new_br12 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle<br>alien<br>empty<br>copper<br>hello<br>truly<br>armor |  
+| bip_39_word_new_br2 | kingdom<br>barrel |  
+| bip_39_word_new_br3 | kingdom<br>barrel<br>trial |  
+| bip_39_word_new_br4 | kingdom<br>barrel<br>trial<br>urge |  
+| bip_39_word_new_br5 | kingdom<br>barrel<br>trial<br>urge<br>mountain |  
+| bip_39_word_new_br6 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle |  
+| bip_39_word_new_br7 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle<br>alien |  
+| bip_39_word_new_br8 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle<br>alien<br>empty |  
+| bip_39_word_new_br9 | kingdom<br>barrel<br>trial<br>urge<br>mountain<br>saddle<br>alien<br>empty<br>copper |  
+| bip_39_word_new_line1 | kingdom |  
+| bip_39_word_new_line10 | kingdom
+barrel
+trial
+urge
+mountain
+saddle
+alien
+empty
+copper
+hello |  
+| bip_39_word_new_line11 | kingdom
+barrel
+trial
+urge
+mountain
+saddle
+alien
+empty
+copper
+hello
+truly |  
+| bip_39_word_new_line12 | kingdom
+barrel
+trial
+urge
+mountain
+saddle
+alien
+empty
+copper
+hello
+truly
+armor |  
+| bip_39_word_new_line2 | kingdom
+barrel |  
+| bip_39_word_new_line3 | kingdom
+barrel
+trial |  
+| bip_39_word_new_line4 | kingdom
+barrel
+trial
+urge |  
+| bip_39_word_new_line5 | kingdom
+barrel
+trial
+urge
+mountain |  
+| bip_39_word_new_line6 | kingdom
+barrel
+trial
+urge
+mountain
+saddle |  
+| bip_39_word_new_line7 | kingdom
+barrel
+trial
+urge
+mountain
+saddle
+alien |  
+| bip_39_word_new_line8 | kingdom
+barrel
+trial
+urge
+mountain
+saddle
+alien
+empty |  
+| bip_39_word_new_line9 | kingdom
+barrel
+trial
+urge
+mountain
+saddle
+alien
+empty
+copper |  
+| bip_39_word_space_0 | ['kingdom', 'barrel', 'trial', 'urge', 'mountain', 'saddle', 'alien', 'empty', 'copper', 'hello', 'truly', 'armor'] |  
+| bip_39_word_space_1 | kingdom |  
+| bip_39_word_space_10 | kingdom barrel trial urge mountain saddle alien empty copper hello |  
+| bip_39_word_space_11 | kingdom barrel trial urge mountain saddle alien empty copper hello truly |  
+| bip_39_word_space_12 | kingdom barrel trial urge mountain saddle alien empty copper hello truly armor |  
+| bip_39_word_space_2 | kingdom barrel |  
+| bip_39_word_space_3 | kingdom barrel trial |  
+| bip_39_word_space_4 | kingdom barrel trial urge |  
+| bip_39_word_space_5 | kingdom barrel trial urge mountain |  
+| bip_39_word_space_6 | kingdom barrel trial urge mountain saddle |  
+| bip_39_word_space_7 | kingdom barrel trial urge mountain saddle alien |  
+| bip_39_word_space_8 | kingdom barrel trial urge mountain saddle alien empty |  
+| bip_39_word_space_9 | kingdom barrel trial urge mountain saddle alien empty copper |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

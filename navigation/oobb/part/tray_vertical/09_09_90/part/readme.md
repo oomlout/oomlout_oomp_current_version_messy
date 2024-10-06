@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pilot sing
+  * bip 39 word 3: pilot sing bulb
+  * bip 39 word: pilot sing bulb book bike never garage odor lemon twenty deny amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pilot |  
+| bip_39_word_new_br10 | pilot<br>sing<br>bulb<br>book<br>bike<br>never<br>garage<br>odor<br>lemon<br>twenty |  
+| bip_39_word_new_br11 | pilot<br>sing<br>bulb<br>book<br>bike<br>never<br>garage<br>odor<br>lemon<br>twenty<br>deny |  
+| bip_39_word_new_br12 | pilot<br>sing<br>bulb<br>book<br>bike<br>never<br>garage<br>odor<br>lemon<br>twenty<br>deny<br>amazing |  
+| bip_39_word_new_br2 | pilot<br>sing |  
+| bip_39_word_new_br3 | pilot<br>sing<br>bulb |  
+| bip_39_word_new_br4 | pilot<br>sing<br>bulb<br>book |  
+| bip_39_word_new_br5 | pilot<br>sing<br>bulb<br>book<br>bike |  
+| bip_39_word_new_br6 | pilot<br>sing<br>bulb<br>book<br>bike<br>never |  
+| bip_39_word_new_br7 | pilot<br>sing<br>bulb<br>book<br>bike<br>never<br>garage |  
+| bip_39_word_new_br8 | pilot<br>sing<br>bulb<br>book<br>bike<br>never<br>garage<br>odor |  
+| bip_39_word_new_br9 | pilot<br>sing<br>bulb<br>book<br>bike<br>never<br>garage<br>odor<br>lemon |  
+| bip_39_word_new_line1 | pilot |  
+| bip_39_word_new_line10 | pilot
+sing
+bulb
+book
+bike
+never
+garage
+odor
+lemon
+twenty |  
+| bip_39_word_new_line11 | pilot
+sing
+bulb
+book
+bike
+never
+garage
+odor
+lemon
+twenty
+deny |  
+| bip_39_word_new_line12 | pilot
+sing
+bulb
+book
+bike
+never
+garage
+odor
+lemon
+twenty
+deny
+amazing |  
+| bip_39_word_new_line2 | pilot
+sing |  
+| bip_39_word_new_line3 | pilot
+sing
+bulb |  
+| bip_39_word_new_line4 | pilot
+sing
+bulb
+book |  
+| bip_39_word_new_line5 | pilot
+sing
+bulb
+book
+bike |  
+| bip_39_word_new_line6 | pilot
+sing
+bulb
+book
+bike
+never |  
+| bip_39_word_new_line7 | pilot
+sing
+bulb
+book
+bike
+never
+garage |  
+| bip_39_word_new_line8 | pilot
+sing
+bulb
+book
+bike
+never
+garage
+odor |  
+| bip_39_word_new_line9 | pilot
+sing
+bulb
+book
+bike
+never
+garage
+odor
+lemon |  
+| bip_39_word_space_0 | ['pilot', 'sing', 'bulb', 'book', 'bike', 'never', 'garage', 'odor', 'lemon', 'twenty', 'deny', 'amazing'] |  
+| bip_39_word_space_1 | pilot |  
+| bip_39_word_space_10 | pilot sing bulb book bike never garage odor lemon twenty |  
+| bip_39_word_space_11 | pilot sing bulb book bike never garage odor lemon twenty deny |  
+| bip_39_word_space_12 | pilot sing bulb book bike never garage odor lemon twenty deny amazing |  
+| bip_39_word_space_2 | pilot sing |  
+| bip_39_word_space_3 | pilot sing bulb |  
+| bip_39_word_space_4 | pilot sing bulb book |  
+| bip_39_word_space_5 | pilot sing bulb book bike |  
+| bip_39_word_space_6 | pilot sing bulb book bike never |  
+| bip_39_word_space_7 | pilot sing bulb book bike never garage |  
+| bip_39_word_space_8 | pilot sing bulb book bike never garage odor |  
+| bip_39_word_space_9 | pilot sing bulb book bike never garage odor lemon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

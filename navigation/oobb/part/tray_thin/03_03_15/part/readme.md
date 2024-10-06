@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: october deliver
+  * bip 39 word 3: october deliver mad
+  * bip 39 word: october deliver mad card toward palace silk park rural file agent angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | october |  
+| bip_39_word_new_br10 | october<br>deliver<br>mad<br>card<br>toward<br>palace<br>silk<br>park<br>rural<br>file |  
+| bip_39_word_new_br11 | october<br>deliver<br>mad<br>card<br>toward<br>palace<br>silk<br>park<br>rural<br>file<br>agent |  
+| bip_39_word_new_br12 | october<br>deliver<br>mad<br>card<br>toward<br>palace<br>silk<br>park<br>rural<br>file<br>agent<br>angry |  
+| bip_39_word_new_br2 | october<br>deliver |  
+| bip_39_word_new_br3 | october<br>deliver<br>mad |  
+| bip_39_word_new_br4 | october<br>deliver<br>mad<br>card |  
+| bip_39_word_new_br5 | october<br>deliver<br>mad<br>card<br>toward |  
+| bip_39_word_new_br6 | october<br>deliver<br>mad<br>card<br>toward<br>palace |  
+| bip_39_word_new_br7 | october<br>deliver<br>mad<br>card<br>toward<br>palace<br>silk |  
+| bip_39_word_new_br8 | october<br>deliver<br>mad<br>card<br>toward<br>palace<br>silk<br>park |  
+| bip_39_word_new_br9 | october<br>deliver<br>mad<br>card<br>toward<br>palace<br>silk<br>park<br>rural |  
+| bip_39_word_new_line1 | october |  
+| bip_39_word_new_line10 | october
+deliver
+mad
+card
+toward
+palace
+silk
+park
+rural
+file |  
+| bip_39_word_new_line11 | october
+deliver
+mad
+card
+toward
+palace
+silk
+park
+rural
+file
+agent |  
+| bip_39_word_new_line12 | october
+deliver
+mad
+card
+toward
+palace
+silk
+park
+rural
+file
+agent
+angry |  
+| bip_39_word_new_line2 | october
+deliver |  
+| bip_39_word_new_line3 | october
+deliver
+mad |  
+| bip_39_word_new_line4 | october
+deliver
+mad
+card |  
+| bip_39_word_new_line5 | october
+deliver
+mad
+card
+toward |  
+| bip_39_word_new_line6 | october
+deliver
+mad
+card
+toward
+palace |  
+| bip_39_word_new_line7 | october
+deliver
+mad
+card
+toward
+palace
+silk |  
+| bip_39_word_new_line8 | october
+deliver
+mad
+card
+toward
+palace
+silk
+park |  
+| bip_39_word_new_line9 | october
+deliver
+mad
+card
+toward
+palace
+silk
+park
+rural |  
+| bip_39_word_space_0 | ['october', 'deliver', 'mad', 'card', 'toward', 'palace', 'silk', 'park', 'rural', 'file', 'agent', 'angry'] |  
+| bip_39_word_space_1 | october |  
+| bip_39_word_space_10 | october deliver mad card toward palace silk park rural file |  
+| bip_39_word_space_11 | october deliver mad card toward palace silk park rural file agent |  
+| bip_39_word_space_12 | october deliver mad card toward palace silk park rural file agent angry |  
+| bip_39_word_space_2 | october deliver |  
+| bip_39_word_space_3 | october deliver mad |  
+| bip_39_word_space_4 | october deliver mad card |  
+| bip_39_word_space_5 | october deliver mad card toward |  
+| bip_39_word_space_6 | october deliver mad card toward palace |  
+| bip_39_word_space_7 | october deliver mad card toward palace silk |  
+| bip_39_word_space_8 | october deliver mad card toward palace silk park |  
+| bip_39_word_space_9 | october deliver mad card toward palace silk park rural |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

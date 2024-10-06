@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tower better
+  * bip 39 word 3: tower better sheriff
+  * bip 39 word: tower better sheriff blue mesh ecology review possible creek high scout again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tower |  
+| bip_39_word_new_br10 | tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology<br>review<br>possible<br>creek<br>high |  
+| bip_39_word_new_br11 | tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology<br>review<br>possible<br>creek<br>high<br>scout |  
+| bip_39_word_new_br12 | tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology<br>review<br>possible<br>creek<br>high<br>scout<br>again |  
+| bip_39_word_new_br2 | tower<br>better |  
+| bip_39_word_new_br3 | tower<br>better<br>sheriff |  
+| bip_39_word_new_br4 | tower<br>better<br>sheriff<br>blue |  
+| bip_39_word_new_br5 | tower<br>better<br>sheriff<br>blue<br>mesh |  
+| bip_39_word_new_br6 | tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology |  
+| bip_39_word_new_br7 | tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology<br>review |  
+| bip_39_word_new_br8 | tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology<br>review<br>possible |  
+| bip_39_word_new_br9 | tower<br>better<br>sheriff<br>blue<br>mesh<br>ecology<br>review<br>possible<br>creek |  
+| bip_39_word_new_line1 | tower |  
+| bip_39_word_new_line10 | tower
+better
+sheriff
+blue
+mesh
+ecology
+review
+possible
+creek
+high |  
+| bip_39_word_new_line11 | tower
+better
+sheriff
+blue
+mesh
+ecology
+review
+possible
+creek
+high
+scout |  
+| bip_39_word_new_line12 | tower
+better
+sheriff
+blue
+mesh
+ecology
+review
+possible
+creek
+high
+scout
+again |  
+| bip_39_word_new_line2 | tower
+better |  
+| bip_39_word_new_line3 | tower
+better
+sheriff |  
+| bip_39_word_new_line4 | tower
+better
+sheriff
+blue |  
+| bip_39_word_new_line5 | tower
+better
+sheriff
+blue
+mesh |  
+| bip_39_word_new_line6 | tower
+better
+sheriff
+blue
+mesh
+ecology |  
+| bip_39_word_new_line7 | tower
+better
+sheriff
+blue
+mesh
+ecology
+review |  
+| bip_39_word_new_line8 | tower
+better
+sheriff
+blue
+mesh
+ecology
+review
+possible |  
+| bip_39_word_new_line9 | tower
+better
+sheriff
+blue
+mesh
+ecology
+review
+possible
+creek |  
+| bip_39_word_space_0 | ['tower', 'better', 'sheriff', 'blue', 'mesh', 'ecology', 'review', 'possible', 'creek', 'high', 'scout', 'again'] |  
+| bip_39_word_space_1 | tower |  
+| bip_39_word_space_10 | tower better sheriff blue mesh ecology review possible creek high |  
+| bip_39_word_space_11 | tower better sheriff blue mesh ecology review possible creek high scout |  
+| bip_39_word_space_12 | tower better sheriff blue mesh ecology review possible creek high scout again |  
+| bip_39_word_space_2 | tower better |  
+| bip_39_word_space_3 | tower better sheriff |  
+| bip_39_word_space_4 | tower better sheriff blue |  
+| bip_39_word_space_5 | tower better sheriff blue mesh |  
+| bip_39_word_space_6 | tower better sheriff blue mesh ecology |  
+| bip_39_word_space_7 | tower better sheriff blue mesh ecology review |  
+| bip_39_word_space_8 | tower better sheriff blue mesh ecology review possible |  
+| bip_39_word_space_9 | tower better sheriff blue mesh ecology review possible creek |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: remove
+bip_39_word_new_br10: remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind
+bip_39_word_new_br11: remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind<br>corn
+bip_39_word_new_br12: remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator<br>blind<br>corn<br>aunt
+bip_39_word_new_br2: remove<br>input
+bip_39_word_new_br3: remove<br>input<br>powder
+bip_39_word_new_br4: remove<br>input<br>powder<br>goose
+bip_39_word_new_br5: remove<br>input<br>powder<br>goose<br>fork
+bip_39_word_new_br6: remove<br>input<br>powder<br>goose<br>fork<br>pluck
+bip_39_word_new_br7: remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow
+bip_39_word_new_br8: remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final
+bip_39_word_new_br9: remove<br>input<br>powder<br>goose<br>fork<br>pluck<br>meadow<br>final<br>elevator
+bip_39_word_new_line1: remove
+bip_39_word_new_line10: 'remove
+
+  input
+
+  powder
+
+  goose
+
+  fork
+
+  pluck
+
+  meadow
+
+  final
+
+  elevator
+
+  blind'
+bip_39_word_new_line11: 'remove
+
+  input
+
+  powder
+
+  goose
+
+  fork
+
+  pluck
+
+  meadow
+
+  final
+
+  elevator
+
+  blind
+
+  corn'
+bip_39_word_new_line12: 'remove
+
+  input
+
+  powder
+
+  goose
+
+  fork
+
+  pluck
+
+  meadow
+
+  final
+
+  elevator
+
+  blind
+
+  corn
+
+  aunt'
+bip_39_word_new_line2: 'remove
+
+  input'
+bip_39_word_new_line3: 'remove
+
+  input
+
+  powder'
+bip_39_word_new_line4: 'remove
+
+  input
+
+  powder
+
+  goose'
+bip_39_word_new_line5: 'remove
+
+  input
+
+  powder
+
+  goose
+
+  fork'
+bip_39_word_new_line6: 'remove
+
+  input
+
+  powder
+
+  goose
+
+  fork
+
+  pluck'
+bip_39_word_new_line7: 'remove
+
+  input
+
+  powder
+
+  goose
+
+  fork
+
+  pluck
+
+  meadow'
+bip_39_word_new_line8: 'remove
+
+  input
+
+  powder
+
+  goose
+
+  fork
+
+  pluck
+
+  meadow
+
+  final'
+bip_39_word_new_line9: 'remove
+
+  input
+
+  powder
+
+  goose
+
+  fork
+
+  pluck
+
+  meadow
+
+  final
+
+  elevator'
+bip_39_word_space_0:
+- remove
+- input
+- powder
+- goose
+- fork
+- pluck
+- meadow
+- final
+- elevator
+- blind
+- corn
+- aunt
+bip_39_word_space_1: remove
+bip_39_word_space_10: remove input powder goose fork pluck meadow final elevator blind
+bip_39_word_space_11: remove input powder goose fork pluck meadow final elevator blind
+  corn
+bip_39_word_space_12: remove input powder goose fork pluck meadow final elevator blind
+  corn aunt
+bip_39_word_space_2: remove input
+bip_39_word_space_3: remove input powder
+bip_39_word_space_4: remove input powder goose
+bip_39_word_space_5: remove input powder goose fork
+bip_39_word_space_6: remove input powder goose fork pluck
+bip_39_word_space_7: remove input powder goose fork pluck meadow
+bip_39_word_space_8: remove input powder goose fork pluck meadow final
+bip_39_word_space_9: remove input powder goose fork pluck meadow final elevator
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

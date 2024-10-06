@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: immense grace
+  * bip 39 word 3: immense grace museum
+  * bip 39 word: immense grace museum merry sun plastic retreat alert kit logic credit abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | immense |  
+| bip_39_word_new_br10 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic<br>retreat<br>alert<br>kit<br>logic |  
+| bip_39_word_new_br11 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic<br>retreat<br>alert<br>kit<br>logic<br>credit |  
+| bip_39_word_new_br12 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic<br>retreat<br>alert<br>kit<br>logic<br>credit<br>abstract |  
+| bip_39_word_new_br2 | immense<br>grace |  
+| bip_39_word_new_br3 | immense<br>grace<br>museum |  
+| bip_39_word_new_br4 | immense<br>grace<br>museum<br>merry |  
+| bip_39_word_new_br5 | immense<br>grace<br>museum<br>merry<br>sun |  
+| bip_39_word_new_br6 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic |  
+| bip_39_word_new_br7 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic<br>retreat |  
+| bip_39_word_new_br8 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic<br>retreat<br>alert |  
+| bip_39_word_new_br9 | immense<br>grace<br>museum<br>merry<br>sun<br>plastic<br>retreat<br>alert<br>kit |  
+| bip_39_word_new_line1 | immense |  
+| bip_39_word_new_line10 | immense
+grace
+museum
+merry
+sun
+plastic
+retreat
+alert
+kit
+logic |  
+| bip_39_word_new_line11 | immense
+grace
+museum
+merry
+sun
+plastic
+retreat
+alert
+kit
+logic
+credit |  
+| bip_39_word_new_line12 | immense
+grace
+museum
+merry
+sun
+plastic
+retreat
+alert
+kit
+logic
+credit
+abstract |  
+| bip_39_word_new_line2 | immense
+grace |  
+| bip_39_word_new_line3 | immense
+grace
+museum |  
+| bip_39_word_new_line4 | immense
+grace
+museum
+merry |  
+| bip_39_word_new_line5 | immense
+grace
+museum
+merry
+sun |  
+| bip_39_word_new_line6 | immense
+grace
+museum
+merry
+sun
+plastic |  
+| bip_39_word_new_line7 | immense
+grace
+museum
+merry
+sun
+plastic
+retreat |  
+| bip_39_word_new_line8 | immense
+grace
+museum
+merry
+sun
+plastic
+retreat
+alert |  
+| bip_39_word_new_line9 | immense
+grace
+museum
+merry
+sun
+plastic
+retreat
+alert
+kit |  
+| bip_39_word_space_0 | ['immense', 'grace', 'museum', 'merry', 'sun', 'plastic', 'retreat', 'alert', 'kit', 'logic', 'credit', 'abstract'] |  
+| bip_39_word_space_1 | immense |  
+| bip_39_word_space_10 | immense grace museum merry sun plastic retreat alert kit logic |  
+| bip_39_word_space_11 | immense grace museum merry sun plastic retreat alert kit logic credit |  
+| bip_39_word_space_12 | immense grace museum merry sun plastic retreat alert kit logic credit abstract |  
+| bip_39_word_space_2 | immense grace |  
+| bip_39_word_space_3 | immense grace museum |  
+| bip_39_word_space_4 | immense grace museum merry |  
+| bip_39_word_space_5 | immense grace museum merry sun |  
+| bip_39_word_space_6 | immense grace museum merry sun plastic |  
+| bip_39_word_space_7 | immense grace museum merry sun plastic retreat |  
+| bip_39_word_space_8 | immense grace museum merry sun plastic retreat alert |  
+| bip_39_word_space_9 | immense grace museum merry sun plastic retreat alert kit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

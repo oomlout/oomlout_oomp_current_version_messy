@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lyrics drop
+  * bip 39 word 3: lyrics drop drop
+  * bip 39 word: lyrics drop drop sentence faint duty ridge manage culture accident govern address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lyrics |  
+| bip_39_word_new_br10 | lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty<br>ridge<br>manage<br>culture<br>accident |  
+| bip_39_word_new_br11 | lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty<br>ridge<br>manage<br>culture<br>accident<br>govern |  
+| bip_39_word_new_br12 | lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty<br>ridge<br>manage<br>culture<br>accident<br>govern<br>address |  
+| bip_39_word_new_br2 | lyrics<br>drop |  
+| bip_39_word_new_br3 | lyrics<br>drop<br>drop |  
+| bip_39_word_new_br4 | lyrics<br>drop<br>drop<br>sentence |  
+| bip_39_word_new_br5 | lyrics<br>drop<br>drop<br>sentence<br>faint |  
+| bip_39_word_new_br6 | lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty |  
+| bip_39_word_new_br7 | lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty<br>ridge |  
+| bip_39_word_new_br8 | lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty<br>ridge<br>manage |  
+| bip_39_word_new_br9 | lyrics<br>drop<br>drop<br>sentence<br>faint<br>duty<br>ridge<br>manage<br>culture |  
+| bip_39_word_new_line1 | lyrics |  
+| bip_39_word_new_line10 | lyrics
+drop
+drop
+sentence
+faint
+duty
+ridge
+manage
+culture
+accident |  
+| bip_39_word_new_line11 | lyrics
+drop
+drop
+sentence
+faint
+duty
+ridge
+manage
+culture
+accident
+govern |  
+| bip_39_word_new_line12 | lyrics
+drop
+drop
+sentence
+faint
+duty
+ridge
+manage
+culture
+accident
+govern
+address |  
+| bip_39_word_new_line2 | lyrics
+drop |  
+| bip_39_word_new_line3 | lyrics
+drop
+drop |  
+| bip_39_word_new_line4 | lyrics
+drop
+drop
+sentence |  
+| bip_39_word_new_line5 | lyrics
+drop
+drop
+sentence
+faint |  
+| bip_39_word_new_line6 | lyrics
+drop
+drop
+sentence
+faint
+duty |  
+| bip_39_word_new_line7 | lyrics
+drop
+drop
+sentence
+faint
+duty
+ridge |  
+| bip_39_word_new_line8 | lyrics
+drop
+drop
+sentence
+faint
+duty
+ridge
+manage |  
+| bip_39_word_new_line9 | lyrics
+drop
+drop
+sentence
+faint
+duty
+ridge
+manage
+culture |  
+| bip_39_word_space_0 | ['lyrics', 'drop', 'drop', 'sentence', 'faint', 'duty', 'ridge', 'manage', 'culture', 'accident', 'govern', 'address'] |  
+| bip_39_word_space_1 | lyrics |  
+| bip_39_word_space_10 | lyrics drop drop sentence faint duty ridge manage culture accident |  
+| bip_39_word_space_11 | lyrics drop drop sentence faint duty ridge manage culture accident govern |  
+| bip_39_word_space_12 | lyrics drop drop sentence faint duty ridge manage culture accident govern address |  
+| bip_39_word_space_2 | lyrics drop |  
+| bip_39_word_space_3 | lyrics drop drop |  
+| bip_39_word_space_4 | lyrics drop drop sentence |  
+| bip_39_word_space_5 | lyrics drop drop sentence faint |  
+| bip_39_word_space_6 | lyrics drop drop sentence faint duty |  
+| bip_39_word_space_7 | lyrics drop drop sentence faint duty ridge |  
+| bip_39_word_space_8 | lyrics drop drop sentence faint duty ridge manage |  
+| bip_39_word_space_9 | lyrics drop drop sentence faint duty ridge manage culture |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

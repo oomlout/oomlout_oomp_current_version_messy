@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: animal draft
+  * bip 39 word 3: animal draft warrior
+  * bip 39 word: animal draft warrior grape luxury carry business great valid scorpion dad annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | animal |  
+| bip_39_word_new_br10 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry<br>business<br>great<br>valid<br>scorpion |  
+| bip_39_word_new_br11 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry<br>business<br>great<br>valid<br>scorpion<br>dad |  
+| bip_39_word_new_br12 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry<br>business<br>great<br>valid<br>scorpion<br>dad<br>annual |  
+| bip_39_word_new_br2 | animal<br>draft |  
+| bip_39_word_new_br3 | animal<br>draft<br>warrior |  
+| bip_39_word_new_br4 | animal<br>draft<br>warrior<br>grape |  
+| bip_39_word_new_br5 | animal<br>draft<br>warrior<br>grape<br>luxury |  
+| bip_39_word_new_br6 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry |  
+| bip_39_word_new_br7 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry<br>business |  
+| bip_39_word_new_br8 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry<br>business<br>great |  
+| bip_39_word_new_br9 | animal<br>draft<br>warrior<br>grape<br>luxury<br>carry<br>business<br>great<br>valid |  
+| bip_39_word_new_line1 | animal |  
+| bip_39_word_new_line10 | animal
+draft
+warrior
+grape
+luxury
+carry
+business
+great
+valid
+scorpion |  
+| bip_39_word_new_line11 | animal
+draft
+warrior
+grape
+luxury
+carry
+business
+great
+valid
+scorpion
+dad |  
+| bip_39_word_new_line12 | animal
+draft
+warrior
+grape
+luxury
+carry
+business
+great
+valid
+scorpion
+dad
+annual |  
+| bip_39_word_new_line2 | animal
+draft |  
+| bip_39_word_new_line3 | animal
+draft
+warrior |  
+| bip_39_word_new_line4 | animal
+draft
+warrior
+grape |  
+| bip_39_word_new_line5 | animal
+draft
+warrior
+grape
+luxury |  
+| bip_39_word_new_line6 | animal
+draft
+warrior
+grape
+luxury
+carry |  
+| bip_39_word_new_line7 | animal
+draft
+warrior
+grape
+luxury
+carry
+business |  
+| bip_39_word_new_line8 | animal
+draft
+warrior
+grape
+luxury
+carry
+business
+great |  
+| bip_39_word_new_line9 | animal
+draft
+warrior
+grape
+luxury
+carry
+business
+great
+valid |  
+| bip_39_word_space_0 | ['animal', 'draft', 'warrior', 'grape', 'luxury', 'carry', 'business', 'great', 'valid', 'scorpion', 'dad', 'annual'] |  
+| bip_39_word_space_1 | animal |  
+| bip_39_word_space_10 | animal draft warrior grape luxury carry business great valid scorpion |  
+| bip_39_word_space_11 | animal draft warrior grape luxury carry business great valid scorpion dad |  
+| bip_39_word_space_12 | animal draft warrior grape luxury carry business great valid scorpion dad annual |  
+| bip_39_word_space_2 | animal draft |  
+| bip_39_word_space_3 | animal draft warrior |  
+| bip_39_word_space_4 | animal draft warrior grape |  
+| bip_39_word_space_5 | animal draft warrior grape luxury |  
+| bip_39_word_space_6 | animal draft warrior grape luxury carry |  
+| bip_39_word_space_7 | animal draft warrior grape luxury carry business |  
+| bip_39_word_space_8 | animal draft warrior grape luxury carry business great |  
+| bip_39_word_space_9 | animal draft warrior grape luxury carry business great valid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

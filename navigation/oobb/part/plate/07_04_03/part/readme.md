@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brisk sight
+  * bip 39 word 3: brisk sight struggle
+  * bip 39 word: brisk sight struggle mutual roast lazy enough infant risk solid cliff amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brisk |  
+| bip_39_word_new_br10 | brisk<br>sight<br>struggle<br>mutual<br>roast<br>lazy<br>enough<br>infant<br>risk<br>solid |  
+| bip_39_word_new_br11 | brisk<br>sight<br>struggle<br>mutual<br>roast<br>lazy<br>enough<br>infant<br>risk<br>solid<br>cliff |  
+| bip_39_word_new_br12 | brisk<br>sight<br>struggle<br>mutual<br>roast<br>lazy<br>enough<br>infant<br>risk<br>solid<br>cliff<br>amateur |  
+| bip_39_word_new_br2 | brisk<br>sight |  
+| bip_39_word_new_br3 | brisk<br>sight<br>struggle |  
+| bip_39_word_new_br4 | brisk<br>sight<br>struggle<br>mutual |  
+| bip_39_word_new_br5 | brisk<br>sight<br>struggle<br>mutual<br>roast |  
+| bip_39_word_new_br6 | brisk<br>sight<br>struggle<br>mutual<br>roast<br>lazy |  
+| bip_39_word_new_br7 | brisk<br>sight<br>struggle<br>mutual<br>roast<br>lazy<br>enough |  
+| bip_39_word_new_br8 | brisk<br>sight<br>struggle<br>mutual<br>roast<br>lazy<br>enough<br>infant |  
+| bip_39_word_new_br9 | brisk<br>sight<br>struggle<br>mutual<br>roast<br>lazy<br>enough<br>infant<br>risk |  
+| bip_39_word_new_line1 | brisk |  
+| bip_39_word_new_line10 | brisk
+sight
+struggle
+mutual
+roast
+lazy
+enough
+infant
+risk
+solid |  
+| bip_39_word_new_line11 | brisk
+sight
+struggle
+mutual
+roast
+lazy
+enough
+infant
+risk
+solid
+cliff |  
+| bip_39_word_new_line12 | brisk
+sight
+struggle
+mutual
+roast
+lazy
+enough
+infant
+risk
+solid
+cliff
+amateur |  
+| bip_39_word_new_line2 | brisk
+sight |  
+| bip_39_word_new_line3 | brisk
+sight
+struggle |  
+| bip_39_word_new_line4 | brisk
+sight
+struggle
+mutual |  
+| bip_39_word_new_line5 | brisk
+sight
+struggle
+mutual
+roast |  
+| bip_39_word_new_line6 | brisk
+sight
+struggle
+mutual
+roast
+lazy |  
+| bip_39_word_new_line7 | brisk
+sight
+struggle
+mutual
+roast
+lazy
+enough |  
+| bip_39_word_new_line8 | brisk
+sight
+struggle
+mutual
+roast
+lazy
+enough
+infant |  
+| bip_39_word_new_line9 | brisk
+sight
+struggle
+mutual
+roast
+lazy
+enough
+infant
+risk |  
+| bip_39_word_space_0 | ['brisk', 'sight', 'struggle', 'mutual', 'roast', 'lazy', 'enough', 'infant', 'risk', 'solid', 'cliff', 'amateur'] |  
+| bip_39_word_space_1 | brisk |  
+| bip_39_word_space_10 | brisk sight struggle mutual roast lazy enough infant risk solid |  
+| bip_39_word_space_11 | brisk sight struggle mutual roast lazy enough infant risk solid cliff |  
+| bip_39_word_space_12 | brisk sight struggle mutual roast lazy enough infant risk solid cliff amateur |  
+| bip_39_word_space_2 | brisk sight |  
+| bip_39_word_space_3 | brisk sight struggle |  
+| bip_39_word_space_4 | brisk sight struggle mutual |  
+| bip_39_word_space_5 | brisk sight struggle mutual roast |  
+| bip_39_word_space_6 | brisk sight struggle mutual roast lazy |  
+| bip_39_word_space_7 | brisk sight struggle mutual roast lazy enough |  
+| bip_39_word_space_8 | brisk sight struggle mutual roast lazy enough infant |  
+| bip_39_word_space_9 | brisk sight struggle mutual roast lazy enough infant risk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

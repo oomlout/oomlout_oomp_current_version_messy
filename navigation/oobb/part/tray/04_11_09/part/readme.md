@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: keep hope
+  * bip 39 word 3: keep hope claim
+  * bip 39 word: keep hope claim ginger immense lamp quiz scorpion quarter property island airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | keep |  
+| bip_39_word_new_br10 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property |  
+| bip_39_word_new_br11 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property<br>island |  
+| bip_39_word_new_br12 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter<br>property<br>island<br>airport |  
+| bip_39_word_new_br2 | keep<br>hope |  
+| bip_39_word_new_br3 | keep<br>hope<br>claim |  
+| bip_39_word_new_br4 | keep<br>hope<br>claim<br>ginger |  
+| bip_39_word_new_br5 | keep<br>hope<br>claim<br>ginger<br>immense |  
+| bip_39_word_new_br6 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp |  
+| bip_39_word_new_br7 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz |  
+| bip_39_word_new_br8 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion |  
+| bip_39_word_new_br9 | keep<br>hope<br>claim<br>ginger<br>immense<br>lamp<br>quiz<br>scorpion<br>quarter |  
+| bip_39_word_new_line1 | keep |  
+| bip_39_word_new_line10 | keep
+hope
+claim
+ginger
+immense
+lamp
+quiz
+scorpion
+quarter
+property |  
+| bip_39_word_new_line11 | keep
+hope
+claim
+ginger
+immense
+lamp
+quiz
+scorpion
+quarter
+property
+island |  
+| bip_39_word_new_line12 | keep
+hope
+claim
+ginger
+immense
+lamp
+quiz
+scorpion
+quarter
+property
+island
+airport |  
+| bip_39_word_new_line2 | keep
+hope |  
+| bip_39_word_new_line3 | keep
+hope
+claim |  
+| bip_39_word_new_line4 | keep
+hope
+claim
+ginger |  
+| bip_39_word_new_line5 | keep
+hope
+claim
+ginger
+immense |  
+| bip_39_word_new_line6 | keep
+hope
+claim
+ginger
+immense
+lamp |  
+| bip_39_word_new_line7 | keep
+hope
+claim
+ginger
+immense
+lamp
+quiz |  
+| bip_39_word_new_line8 | keep
+hope
+claim
+ginger
+immense
+lamp
+quiz
+scorpion |  
+| bip_39_word_new_line9 | keep
+hope
+claim
+ginger
+immense
+lamp
+quiz
+scorpion
+quarter |  
+| bip_39_word_space_0 | ['keep', 'hope', 'claim', 'ginger', 'immense', 'lamp', 'quiz', 'scorpion', 'quarter', 'property', 'island', 'airport'] |  
+| bip_39_word_space_1 | keep |  
+| bip_39_word_space_10 | keep hope claim ginger immense lamp quiz scorpion quarter property |  
+| bip_39_word_space_11 | keep hope claim ginger immense lamp quiz scorpion quarter property island |  
+| bip_39_word_space_12 | keep hope claim ginger immense lamp quiz scorpion quarter property island airport |  
+| bip_39_word_space_2 | keep hope |  
+| bip_39_word_space_3 | keep hope claim |  
+| bip_39_word_space_4 | keep hope claim ginger |  
+| bip_39_word_space_5 | keep hope claim ginger immense |  
+| bip_39_word_space_6 | keep hope claim ginger immense lamp |  
+| bip_39_word_space_7 | keep hope claim ginger immense lamp quiz |  
+| bip_39_word_space_8 | keep hope claim ginger immense lamp quiz scorpion |  
+| bip_39_word_space_9 | keep hope claim ginger immense lamp quiz scorpion quarter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

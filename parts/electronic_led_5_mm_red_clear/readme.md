@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: room shed
+  * bip 39 word 3: room shed box
+  * bip 39 word: room shed box bracket turtle adjust dust february interest goose various armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | room |  
+| bip_39_word_new_br10 | room<br>shed<br>box<br>bracket<br>turtle<br>adjust<br>dust<br>february<br>interest<br>goose |  
+| bip_39_word_new_br11 | room<br>shed<br>box<br>bracket<br>turtle<br>adjust<br>dust<br>february<br>interest<br>goose<br>various |  
+| bip_39_word_new_br12 | room<br>shed<br>box<br>bracket<br>turtle<br>adjust<br>dust<br>february<br>interest<br>goose<br>various<br>armed |  
+| bip_39_word_new_br2 | room<br>shed |  
+| bip_39_word_new_br3 | room<br>shed<br>box |  
+| bip_39_word_new_br4 | room<br>shed<br>box<br>bracket |  
+| bip_39_word_new_br5 | room<br>shed<br>box<br>bracket<br>turtle |  
+| bip_39_word_new_br6 | room<br>shed<br>box<br>bracket<br>turtle<br>adjust |  
+| bip_39_word_new_br7 | room<br>shed<br>box<br>bracket<br>turtle<br>adjust<br>dust |  
+| bip_39_word_new_br8 | room<br>shed<br>box<br>bracket<br>turtle<br>adjust<br>dust<br>february |  
+| bip_39_word_new_br9 | room<br>shed<br>box<br>bracket<br>turtle<br>adjust<br>dust<br>february<br>interest |  
+| bip_39_word_new_line1 | room |  
+| bip_39_word_new_line10 | room
+shed
+box
+bracket
+turtle
+adjust
+dust
+february
+interest
+goose |  
+| bip_39_word_new_line11 | room
+shed
+box
+bracket
+turtle
+adjust
+dust
+february
+interest
+goose
+various |  
+| bip_39_word_new_line12 | room
+shed
+box
+bracket
+turtle
+adjust
+dust
+february
+interest
+goose
+various
+armed |  
+| bip_39_word_new_line2 | room
+shed |  
+| bip_39_word_new_line3 | room
+shed
+box |  
+| bip_39_word_new_line4 | room
+shed
+box
+bracket |  
+| bip_39_word_new_line5 | room
+shed
+box
+bracket
+turtle |  
+| bip_39_word_new_line6 | room
+shed
+box
+bracket
+turtle
+adjust |  
+| bip_39_word_new_line7 | room
+shed
+box
+bracket
+turtle
+adjust
+dust |  
+| bip_39_word_new_line8 | room
+shed
+box
+bracket
+turtle
+adjust
+dust
+february |  
+| bip_39_word_new_line9 | room
+shed
+box
+bracket
+turtle
+adjust
+dust
+february
+interest |  
+| bip_39_word_space_0 | ['room', 'shed', 'box', 'bracket', 'turtle', 'adjust', 'dust', 'february', 'interest', 'goose', 'various', 'armed'] |  
+| bip_39_word_space_1 | room |  
+| bip_39_word_space_10 | room shed box bracket turtle adjust dust february interest goose |  
+| bip_39_word_space_11 | room shed box bracket turtle adjust dust february interest goose various |  
+| bip_39_word_space_12 | room shed box bracket turtle adjust dust february interest goose various armed |  
+| bip_39_word_space_2 | room shed |  
+| bip_39_word_space_3 | room shed box |  
+| bip_39_word_space_4 | room shed box bracket |  
+| bip_39_word_space_5 | room shed box bracket turtle |  
+| bip_39_word_space_6 | room shed box bracket turtle adjust |  
+| bip_39_word_space_7 | room shed box bracket turtle adjust dust |  
+| bip_39_word_space_8 | room shed box bracket turtle adjust dust february |  
+| bip_39_word_space_9 | room shed box bracket turtle adjust dust february interest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

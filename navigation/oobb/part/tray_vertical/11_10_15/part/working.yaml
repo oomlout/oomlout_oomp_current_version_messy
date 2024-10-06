@@ -1,3 +1,185 @@
+bip_39_word_new_br1: athlete
+bip_39_word_new_br10: athlete<br>jelly<br>dizzy<br>copy<br>top<br>weasel<br>vote<br>once<br>ask<br>metal
+bip_39_word_new_br11: athlete<br>jelly<br>dizzy<br>copy<br>top<br>weasel<br>vote<br>once<br>ask<br>metal<br>great
+bip_39_word_new_br12: athlete<br>jelly<br>dizzy<br>copy<br>top<br>weasel<br>vote<br>once<br>ask<br>metal<br>great<br>agent
+bip_39_word_new_br2: athlete<br>jelly
+bip_39_word_new_br3: athlete<br>jelly<br>dizzy
+bip_39_word_new_br4: athlete<br>jelly<br>dizzy<br>copy
+bip_39_word_new_br5: athlete<br>jelly<br>dizzy<br>copy<br>top
+bip_39_word_new_br6: athlete<br>jelly<br>dizzy<br>copy<br>top<br>weasel
+bip_39_word_new_br7: athlete<br>jelly<br>dizzy<br>copy<br>top<br>weasel<br>vote
+bip_39_word_new_br8: athlete<br>jelly<br>dizzy<br>copy<br>top<br>weasel<br>vote<br>once
+bip_39_word_new_br9: athlete<br>jelly<br>dizzy<br>copy<br>top<br>weasel<br>vote<br>once<br>ask
+bip_39_word_new_line1: athlete
+bip_39_word_new_line10: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy
+
+  top
+
+  weasel
+
+  vote
+
+  once
+
+  ask
+
+  metal'
+bip_39_word_new_line11: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy
+
+  top
+
+  weasel
+
+  vote
+
+  once
+
+  ask
+
+  metal
+
+  great'
+bip_39_word_new_line12: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy
+
+  top
+
+  weasel
+
+  vote
+
+  once
+
+  ask
+
+  metal
+
+  great
+
+  agent'
+bip_39_word_new_line2: 'athlete
+
+  jelly'
+bip_39_word_new_line3: 'athlete
+
+  jelly
+
+  dizzy'
+bip_39_word_new_line4: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy'
+bip_39_word_new_line5: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy
+
+  top'
+bip_39_word_new_line6: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy
+
+  top
+
+  weasel'
+bip_39_word_new_line7: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy
+
+  top
+
+  weasel
+
+  vote'
+bip_39_word_new_line8: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy
+
+  top
+
+  weasel
+
+  vote
+
+  once'
+bip_39_word_new_line9: 'athlete
+
+  jelly
+
+  dizzy
+
+  copy
+
+  top
+
+  weasel
+
+  vote
+
+  once
+
+  ask'
+bip_39_word_space_0:
+- athlete
+- jelly
+- dizzy
+- copy
+- top
+- weasel
+- vote
+- once
+- ask
+- metal
+- great
+- agent
+bip_39_word_space_1: athlete
+bip_39_word_space_10: athlete jelly dizzy copy top weasel vote once ask metal
+bip_39_word_space_11: athlete jelly dizzy copy top weasel vote once ask metal great
+bip_39_word_space_12: athlete jelly dizzy copy top weasel vote once ask metal great
+  agent
+bip_39_word_space_2: athlete jelly
+bip_39_word_space_3: athlete jelly dizzy
+bip_39_word_space_4: athlete jelly dizzy copy
+bip_39_word_space_5: athlete jelly dizzy copy top
+bip_39_word_space_6: athlete jelly dizzy copy top weasel
+bip_39_word_space_7: athlete jelly dizzy copy top weasel vote
+bip_39_word_space_8: athlete jelly dizzy copy top weasel vote once
+bip_39_word_space_9: athlete jelly dizzy copy top weasel vote once ask
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

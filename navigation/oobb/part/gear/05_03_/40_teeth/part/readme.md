@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grid insane
+  * bip 39 word 3: grid insane egg
+  * bip 39 word: grid insane egg spend tired moment smooth soda orphan connect sustain any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grid |  
+| bip_39_word_new_br10 | grid<br>insane<br>egg<br>spend<br>tired<br>moment<br>smooth<br>soda<br>orphan<br>connect |  
+| bip_39_word_new_br11 | grid<br>insane<br>egg<br>spend<br>tired<br>moment<br>smooth<br>soda<br>orphan<br>connect<br>sustain |  
+| bip_39_word_new_br12 | grid<br>insane<br>egg<br>spend<br>tired<br>moment<br>smooth<br>soda<br>orphan<br>connect<br>sustain<br>any |  
+| bip_39_word_new_br2 | grid<br>insane |  
+| bip_39_word_new_br3 | grid<br>insane<br>egg |  
+| bip_39_word_new_br4 | grid<br>insane<br>egg<br>spend |  
+| bip_39_word_new_br5 | grid<br>insane<br>egg<br>spend<br>tired |  
+| bip_39_word_new_br6 | grid<br>insane<br>egg<br>spend<br>tired<br>moment |  
+| bip_39_word_new_br7 | grid<br>insane<br>egg<br>spend<br>tired<br>moment<br>smooth |  
+| bip_39_word_new_br8 | grid<br>insane<br>egg<br>spend<br>tired<br>moment<br>smooth<br>soda |  
+| bip_39_word_new_br9 | grid<br>insane<br>egg<br>spend<br>tired<br>moment<br>smooth<br>soda<br>orphan |  
+| bip_39_word_new_line1 | grid |  
+| bip_39_word_new_line10 | grid
+insane
+egg
+spend
+tired
+moment
+smooth
+soda
+orphan
+connect |  
+| bip_39_word_new_line11 | grid
+insane
+egg
+spend
+tired
+moment
+smooth
+soda
+orphan
+connect
+sustain |  
+| bip_39_word_new_line12 | grid
+insane
+egg
+spend
+tired
+moment
+smooth
+soda
+orphan
+connect
+sustain
+any |  
+| bip_39_word_new_line2 | grid
+insane |  
+| bip_39_word_new_line3 | grid
+insane
+egg |  
+| bip_39_word_new_line4 | grid
+insane
+egg
+spend |  
+| bip_39_word_new_line5 | grid
+insane
+egg
+spend
+tired |  
+| bip_39_word_new_line6 | grid
+insane
+egg
+spend
+tired
+moment |  
+| bip_39_word_new_line7 | grid
+insane
+egg
+spend
+tired
+moment
+smooth |  
+| bip_39_word_new_line8 | grid
+insane
+egg
+spend
+tired
+moment
+smooth
+soda |  
+| bip_39_word_new_line9 | grid
+insane
+egg
+spend
+tired
+moment
+smooth
+soda
+orphan |  
+| bip_39_word_space_0 | ['grid', 'insane', 'egg', 'spend', 'tired', 'moment', 'smooth', 'soda', 'orphan', 'connect', 'sustain', 'any'] |  
+| bip_39_word_space_1 | grid |  
+| bip_39_word_space_10 | grid insane egg spend tired moment smooth soda orphan connect |  
+| bip_39_word_space_11 | grid insane egg spend tired moment smooth soda orphan connect sustain |  
+| bip_39_word_space_12 | grid insane egg spend tired moment smooth soda orphan connect sustain any |  
+| bip_39_word_space_2 | grid insane |  
+| bip_39_word_space_3 | grid insane egg |  
+| bip_39_word_space_4 | grid insane egg spend |  
+| bip_39_word_space_5 | grid insane egg spend tired |  
+| bip_39_word_space_6 | grid insane egg spend tired moment |  
+| bip_39_word_space_7 | grid insane egg spend tired moment smooth |  
+| bip_39_word_space_8 | grid insane egg spend tired moment smooth soda |  
+| bip_39_word_space_9 | grid insane egg spend tired moment smooth soda orphan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

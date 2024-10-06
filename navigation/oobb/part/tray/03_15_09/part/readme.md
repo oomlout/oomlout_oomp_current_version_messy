@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ordinary morning
+  * bip 39 word 3: ordinary morning cube
+  * bip 39 word: ordinary morning cube engine clever work observe whip dizzy book author album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ordinary |  
+| bip_39_word_new_br10 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work<br>observe<br>whip<br>dizzy<br>book |  
+| bip_39_word_new_br11 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work<br>observe<br>whip<br>dizzy<br>book<br>author |  
+| bip_39_word_new_br12 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work<br>observe<br>whip<br>dizzy<br>book<br>author<br>album |  
+| bip_39_word_new_br2 | ordinary<br>morning |  
+| bip_39_word_new_br3 | ordinary<br>morning<br>cube |  
+| bip_39_word_new_br4 | ordinary<br>morning<br>cube<br>engine |  
+| bip_39_word_new_br5 | ordinary<br>morning<br>cube<br>engine<br>clever |  
+| bip_39_word_new_br6 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work |  
+| bip_39_word_new_br7 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work<br>observe |  
+| bip_39_word_new_br8 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work<br>observe<br>whip |  
+| bip_39_word_new_br9 | ordinary<br>morning<br>cube<br>engine<br>clever<br>work<br>observe<br>whip<br>dizzy |  
+| bip_39_word_new_line1 | ordinary |  
+| bip_39_word_new_line10 | ordinary
+morning
+cube
+engine
+clever
+work
+observe
+whip
+dizzy
+book |  
+| bip_39_word_new_line11 | ordinary
+morning
+cube
+engine
+clever
+work
+observe
+whip
+dizzy
+book
+author |  
+| bip_39_word_new_line12 | ordinary
+morning
+cube
+engine
+clever
+work
+observe
+whip
+dizzy
+book
+author
+album |  
+| bip_39_word_new_line2 | ordinary
+morning |  
+| bip_39_word_new_line3 | ordinary
+morning
+cube |  
+| bip_39_word_new_line4 | ordinary
+morning
+cube
+engine |  
+| bip_39_word_new_line5 | ordinary
+morning
+cube
+engine
+clever |  
+| bip_39_word_new_line6 | ordinary
+morning
+cube
+engine
+clever
+work |  
+| bip_39_word_new_line7 | ordinary
+morning
+cube
+engine
+clever
+work
+observe |  
+| bip_39_word_new_line8 | ordinary
+morning
+cube
+engine
+clever
+work
+observe
+whip |  
+| bip_39_word_new_line9 | ordinary
+morning
+cube
+engine
+clever
+work
+observe
+whip
+dizzy |  
+| bip_39_word_space_0 | ['ordinary', 'morning', 'cube', 'engine', 'clever', 'work', 'observe', 'whip', 'dizzy', 'book', 'author', 'album'] |  
+| bip_39_word_space_1 | ordinary |  
+| bip_39_word_space_10 | ordinary morning cube engine clever work observe whip dizzy book |  
+| bip_39_word_space_11 | ordinary morning cube engine clever work observe whip dizzy book author |  
+| bip_39_word_space_12 | ordinary morning cube engine clever work observe whip dizzy book author album |  
+| bip_39_word_space_2 | ordinary morning |  
+| bip_39_word_space_3 | ordinary morning cube |  
+| bip_39_word_space_4 | ordinary morning cube engine |  
+| bip_39_word_space_5 | ordinary morning cube engine clever |  
+| bip_39_word_space_6 | ordinary morning cube engine clever work |  
+| bip_39_word_space_7 | ordinary morning cube engine clever work observe |  
+| bip_39_word_space_8 | ordinary morning cube engine clever work observe whip |  
+| bip_39_word_space_9 | ordinary morning cube engine clever work observe whip dizzy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

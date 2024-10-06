@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: organ resource
+  * bip 39 word 3: organ resource success
+  * bip 39 word: organ resource success negative host own type home arena juice seat arrive
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | organ |  
+| bip_39_word_new_br10 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice |  
+| bip_39_word_new_br11 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice<br>seat |  
+| bip_39_word_new_br12 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena<br>juice<br>seat<br>arrive |  
+| bip_39_word_new_br2 | organ<br>resource |  
+| bip_39_word_new_br3 | organ<br>resource<br>success |  
+| bip_39_word_new_br4 | organ<br>resource<br>success<br>negative |  
+| bip_39_word_new_br5 | organ<br>resource<br>success<br>negative<br>host |  
+| bip_39_word_new_br6 | organ<br>resource<br>success<br>negative<br>host<br>own |  
+| bip_39_word_new_br7 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type |  
+| bip_39_word_new_br8 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home |  
+| bip_39_word_new_br9 | organ<br>resource<br>success<br>negative<br>host<br>own<br>type<br>home<br>arena |  
+| bip_39_word_new_line1 | organ |  
+| bip_39_word_new_line10 | organ
+resource
+success
+negative
+host
+own
+type
+home
+arena
+juice |  
+| bip_39_word_new_line11 | organ
+resource
+success
+negative
+host
+own
+type
+home
+arena
+juice
+seat |  
+| bip_39_word_new_line12 | organ
+resource
+success
+negative
+host
+own
+type
+home
+arena
+juice
+seat
+arrive |  
+| bip_39_word_new_line2 | organ
+resource |  
+| bip_39_word_new_line3 | organ
+resource
+success |  
+| bip_39_word_new_line4 | organ
+resource
+success
+negative |  
+| bip_39_word_new_line5 | organ
+resource
+success
+negative
+host |  
+| bip_39_word_new_line6 | organ
+resource
+success
+negative
+host
+own |  
+| bip_39_word_new_line7 | organ
+resource
+success
+negative
+host
+own
+type |  
+| bip_39_word_new_line8 | organ
+resource
+success
+negative
+host
+own
+type
+home |  
+| bip_39_word_new_line9 | organ
+resource
+success
+negative
+host
+own
+type
+home
+arena |  
+| bip_39_word_space_0 | ['organ', 'resource', 'success', 'negative', 'host', 'own', 'type', 'home', 'arena', 'juice', 'seat', 'arrive'] |  
+| bip_39_word_space_1 | organ |  
+| bip_39_word_space_10 | organ resource success negative host own type home arena juice |  
+| bip_39_word_space_11 | organ resource success negative host own type home arena juice seat |  
+| bip_39_word_space_12 | organ resource success negative host own type home arena juice seat arrive |  
+| bip_39_word_space_2 | organ resource |  
+| bip_39_word_space_3 | organ resource success |  
+| bip_39_word_space_4 | organ resource success negative |  
+| bip_39_word_space_5 | organ resource success negative host |  
+| bip_39_word_space_6 | organ resource success negative host own |  
+| bip_39_word_space_7 | organ resource success negative host own type |  
+| bip_39_word_space_8 | organ resource success negative host own type home |  
+| bip_39_word_space_9 | organ resource success negative host own type home arena |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

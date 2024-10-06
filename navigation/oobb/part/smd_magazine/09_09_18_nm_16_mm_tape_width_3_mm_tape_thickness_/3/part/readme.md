@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swamp inspire
+  * bip 39 word 3: swamp inspire hour
+  * bip 39 word: swamp inspire hour actual plunge stand into point region ladder bulk above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swamp |  
+| bip_39_word_new_br10 | swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder |  
+| bip_39_word_new_br11 | swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder<br>bulk |  
+| bip_39_word_new_br12 | swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region<br>ladder<br>bulk<br>above |  
+| bip_39_word_new_br2 | swamp<br>inspire |  
+| bip_39_word_new_br3 | swamp<br>inspire<br>hour |  
+| bip_39_word_new_br4 | swamp<br>inspire<br>hour<br>actual |  
+| bip_39_word_new_br5 | swamp<br>inspire<br>hour<br>actual<br>plunge |  
+| bip_39_word_new_br6 | swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand |  
+| bip_39_word_new_br7 | swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into |  
+| bip_39_word_new_br8 | swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point |  
+| bip_39_word_new_br9 | swamp<br>inspire<br>hour<br>actual<br>plunge<br>stand<br>into<br>point<br>region |  
+| bip_39_word_new_line1 | swamp |  
+| bip_39_word_new_line10 | swamp
+inspire
+hour
+actual
+plunge
+stand
+into
+point
+region
+ladder |  
+| bip_39_word_new_line11 | swamp
+inspire
+hour
+actual
+plunge
+stand
+into
+point
+region
+ladder
+bulk |  
+| bip_39_word_new_line12 | swamp
+inspire
+hour
+actual
+plunge
+stand
+into
+point
+region
+ladder
+bulk
+above |  
+| bip_39_word_new_line2 | swamp
+inspire |  
+| bip_39_word_new_line3 | swamp
+inspire
+hour |  
+| bip_39_word_new_line4 | swamp
+inspire
+hour
+actual |  
+| bip_39_word_new_line5 | swamp
+inspire
+hour
+actual
+plunge |  
+| bip_39_word_new_line6 | swamp
+inspire
+hour
+actual
+plunge
+stand |  
+| bip_39_word_new_line7 | swamp
+inspire
+hour
+actual
+plunge
+stand
+into |  
+| bip_39_word_new_line8 | swamp
+inspire
+hour
+actual
+plunge
+stand
+into
+point |  
+| bip_39_word_new_line9 | swamp
+inspire
+hour
+actual
+plunge
+stand
+into
+point
+region |  
+| bip_39_word_space_0 | ['swamp', 'inspire', 'hour', 'actual', 'plunge', 'stand', 'into', 'point', 'region', 'ladder', 'bulk', 'above'] |  
+| bip_39_word_space_1 | swamp |  
+| bip_39_word_space_10 | swamp inspire hour actual plunge stand into point region ladder |  
+| bip_39_word_space_11 | swamp inspire hour actual plunge stand into point region ladder bulk |  
+| bip_39_word_space_12 | swamp inspire hour actual plunge stand into point region ladder bulk above |  
+| bip_39_word_space_2 | swamp inspire |  
+| bip_39_word_space_3 | swamp inspire hour |  
+| bip_39_word_space_4 | swamp inspire hour actual |  
+| bip_39_word_space_5 | swamp inspire hour actual plunge |  
+| bip_39_word_space_6 | swamp inspire hour actual plunge stand |  
+| bip_39_word_space_7 | swamp inspire hour actual plunge stand into |  
+| bip_39_word_space_8 | swamp inspire hour actual plunge stand into point |  
+| bip_39_word_space_9 | swamp inspire hour actual plunge stand into point region |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

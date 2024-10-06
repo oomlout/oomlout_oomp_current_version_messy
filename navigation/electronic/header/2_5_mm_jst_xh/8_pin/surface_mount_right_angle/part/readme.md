@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: airport gauge
+  * bip 39 word 3: airport gauge main
+  * bip 39 word: airport gauge main label salmon north movie winter saddle miracle winner alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | airport |  
+| bip_39_word_new_br10 | airport<br>gauge<br>main<br>label<br>salmon<br>north<br>movie<br>winter<br>saddle<br>miracle |  
+| bip_39_word_new_br11 | airport<br>gauge<br>main<br>label<br>salmon<br>north<br>movie<br>winter<br>saddle<br>miracle<br>winner |  
+| bip_39_word_new_br12 | airport<br>gauge<br>main<br>label<br>salmon<br>north<br>movie<br>winter<br>saddle<br>miracle<br>winner<br>alone |  
+| bip_39_word_new_br2 | airport<br>gauge |  
+| bip_39_word_new_br3 | airport<br>gauge<br>main |  
+| bip_39_word_new_br4 | airport<br>gauge<br>main<br>label |  
+| bip_39_word_new_br5 | airport<br>gauge<br>main<br>label<br>salmon |  
+| bip_39_word_new_br6 | airport<br>gauge<br>main<br>label<br>salmon<br>north |  
+| bip_39_word_new_br7 | airport<br>gauge<br>main<br>label<br>salmon<br>north<br>movie |  
+| bip_39_word_new_br8 | airport<br>gauge<br>main<br>label<br>salmon<br>north<br>movie<br>winter |  
+| bip_39_word_new_br9 | airport<br>gauge<br>main<br>label<br>salmon<br>north<br>movie<br>winter<br>saddle |  
+| bip_39_word_new_line1 | airport |  
+| bip_39_word_new_line10 | airport
+gauge
+main
+label
+salmon
+north
+movie
+winter
+saddle
+miracle |  
+| bip_39_word_new_line11 | airport
+gauge
+main
+label
+salmon
+north
+movie
+winter
+saddle
+miracle
+winner |  
+| bip_39_word_new_line12 | airport
+gauge
+main
+label
+salmon
+north
+movie
+winter
+saddle
+miracle
+winner
+alone |  
+| bip_39_word_new_line2 | airport
+gauge |  
+| bip_39_word_new_line3 | airport
+gauge
+main |  
+| bip_39_word_new_line4 | airport
+gauge
+main
+label |  
+| bip_39_word_new_line5 | airport
+gauge
+main
+label
+salmon |  
+| bip_39_word_new_line6 | airport
+gauge
+main
+label
+salmon
+north |  
+| bip_39_word_new_line7 | airport
+gauge
+main
+label
+salmon
+north
+movie |  
+| bip_39_word_new_line8 | airport
+gauge
+main
+label
+salmon
+north
+movie
+winter |  
+| bip_39_word_new_line9 | airport
+gauge
+main
+label
+salmon
+north
+movie
+winter
+saddle |  
+| bip_39_word_space_0 | ['airport', 'gauge', 'main', 'label', 'salmon', 'north', 'movie', 'winter', 'saddle', 'miracle', 'winner', 'alone'] |  
+| bip_39_word_space_1 | airport |  
+| bip_39_word_space_10 | airport gauge main label salmon north movie winter saddle miracle |  
+| bip_39_word_space_11 | airport gauge main label salmon north movie winter saddle miracle winner |  
+| bip_39_word_space_12 | airport gauge main label salmon north movie winter saddle miracle winner alone |  
+| bip_39_word_space_2 | airport gauge |  
+| bip_39_word_space_3 | airport gauge main |  
+| bip_39_word_space_4 | airport gauge main label |  
+| bip_39_word_space_5 | airport gauge main label salmon |  
+| bip_39_word_space_6 | airport gauge main label salmon north |  
+| bip_39_word_space_7 | airport gauge main label salmon north movie |  
+| bip_39_word_space_8 | airport gauge main label salmon north movie winter |  
+| bip_39_word_space_9 | airport gauge main label salmon north movie winter saddle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

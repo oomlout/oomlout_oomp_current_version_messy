@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enlist
+bip_39_word_new_br10: enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon
+bip_39_word_new_br11: enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon<br>shed
+bip_39_word_new_br12: enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size<br>abandon<br>shed<br>avocado
+bip_39_word_new_br2: enlist<br>borrow
+bip_39_word_new_br3: enlist<br>borrow<br>yard
+bip_39_word_new_br4: enlist<br>borrow<br>yard<br>glide
+bip_39_word_new_br5: enlist<br>borrow<br>yard<br>glide<br>click
+bip_39_word_new_br6: enlist<br>borrow<br>yard<br>glide<br>click<br>once
+bip_39_word_new_br7: enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf
+bip_39_word_new_br8: enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor
+bip_39_word_new_br9: enlist<br>borrow<br>yard<br>glide<br>click<br>once<br>dwarf<br>donor<br>size
+bip_39_word_new_line1: enlist
+bip_39_word_new_line10: 'enlist
+
+  borrow
+
+  yard
+
+  glide
+
+  click
+
+  once
+
+  dwarf
+
+  donor
+
+  size
+
+  abandon'
+bip_39_word_new_line11: 'enlist
+
+  borrow
+
+  yard
+
+  glide
+
+  click
+
+  once
+
+  dwarf
+
+  donor
+
+  size
+
+  abandon
+
+  shed'
+bip_39_word_new_line12: 'enlist
+
+  borrow
+
+  yard
+
+  glide
+
+  click
+
+  once
+
+  dwarf
+
+  donor
+
+  size
+
+  abandon
+
+  shed
+
+  avocado'
+bip_39_word_new_line2: 'enlist
+
+  borrow'
+bip_39_word_new_line3: 'enlist
+
+  borrow
+
+  yard'
+bip_39_word_new_line4: 'enlist
+
+  borrow
+
+  yard
+
+  glide'
+bip_39_word_new_line5: 'enlist
+
+  borrow
+
+  yard
+
+  glide
+
+  click'
+bip_39_word_new_line6: 'enlist
+
+  borrow
+
+  yard
+
+  glide
+
+  click
+
+  once'
+bip_39_word_new_line7: 'enlist
+
+  borrow
+
+  yard
+
+  glide
+
+  click
+
+  once
+
+  dwarf'
+bip_39_word_new_line8: 'enlist
+
+  borrow
+
+  yard
+
+  glide
+
+  click
+
+  once
+
+  dwarf
+
+  donor'
+bip_39_word_new_line9: 'enlist
+
+  borrow
+
+  yard
+
+  glide
+
+  click
+
+  once
+
+  dwarf
+
+  donor
+
+  size'
+bip_39_word_space_0:
+- enlist
+- borrow
+- yard
+- glide
+- click
+- once
+- dwarf
+- donor
+- size
+- abandon
+- shed
+- avocado
+bip_39_word_space_1: enlist
+bip_39_word_space_10: enlist borrow yard glide click once dwarf donor size abandon
+bip_39_word_space_11: enlist borrow yard glide click once dwarf donor size abandon
+  shed
+bip_39_word_space_12: enlist borrow yard glide click once dwarf donor size abandon
+  shed avocado
+bip_39_word_space_2: enlist borrow
+bip_39_word_space_3: enlist borrow yard
+bip_39_word_space_4: enlist borrow yard glide
+bip_39_word_space_5: enlist borrow yard glide click
+bip_39_word_space_6: enlist borrow yard glide click once
+bip_39_word_space_7: enlist borrow yard glide click once dwarf
+bip_39_word_space_8: enlist borrow yard glide click once dwarf donor
+bip_39_word_space_9: enlist borrow yard glide click once dwarf donor size
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

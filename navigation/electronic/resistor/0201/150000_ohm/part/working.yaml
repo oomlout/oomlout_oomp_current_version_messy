@@ -1,3 +1,185 @@
+bip_39_word_new_br1: syrup
+bip_39_word_new_br10: syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn<br>cart<br>cart<br>blouse<br>wine
+bip_39_word_new_br11: syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn<br>cart<br>cart<br>blouse<br>wine<br>glass
+bip_39_word_new_br12: syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn<br>cart<br>cart<br>blouse<br>wine<br>glass<br>alien
+bip_39_word_new_br2: syrup<br>zone
+bip_39_word_new_br3: syrup<br>zone<br>shadow
+bip_39_word_new_br4: syrup<br>zone<br>shadow<br>zoo
+bip_39_word_new_br5: syrup<br>zone<br>shadow<br>zoo<br>option
+bip_39_word_new_br6: syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn
+bip_39_word_new_br7: syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn<br>cart
+bip_39_word_new_br8: syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn<br>cart<br>cart
+bip_39_word_new_br9: syrup<br>zone<br>shadow<br>zoo<br>option<br>autumn<br>cart<br>cart<br>blouse
+bip_39_word_new_line1: syrup
+bip_39_word_new_line10: 'syrup
+
+  zone
+
+  shadow
+
+  zoo
+
+  option
+
+  autumn
+
+  cart
+
+  cart
+
+  blouse
+
+  wine'
+bip_39_word_new_line11: 'syrup
+
+  zone
+
+  shadow
+
+  zoo
+
+  option
+
+  autumn
+
+  cart
+
+  cart
+
+  blouse
+
+  wine
+
+  glass'
+bip_39_word_new_line12: 'syrup
+
+  zone
+
+  shadow
+
+  zoo
+
+  option
+
+  autumn
+
+  cart
+
+  cart
+
+  blouse
+
+  wine
+
+  glass
+
+  alien'
+bip_39_word_new_line2: 'syrup
+
+  zone'
+bip_39_word_new_line3: 'syrup
+
+  zone
+
+  shadow'
+bip_39_word_new_line4: 'syrup
+
+  zone
+
+  shadow
+
+  zoo'
+bip_39_word_new_line5: 'syrup
+
+  zone
+
+  shadow
+
+  zoo
+
+  option'
+bip_39_word_new_line6: 'syrup
+
+  zone
+
+  shadow
+
+  zoo
+
+  option
+
+  autumn'
+bip_39_word_new_line7: 'syrup
+
+  zone
+
+  shadow
+
+  zoo
+
+  option
+
+  autumn
+
+  cart'
+bip_39_word_new_line8: 'syrup
+
+  zone
+
+  shadow
+
+  zoo
+
+  option
+
+  autumn
+
+  cart
+
+  cart'
+bip_39_word_new_line9: 'syrup
+
+  zone
+
+  shadow
+
+  zoo
+
+  option
+
+  autumn
+
+  cart
+
+  cart
+
+  blouse'
+bip_39_word_space_0:
+- syrup
+- zone
+- shadow
+- zoo
+- option
+- autumn
+- cart
+- cart
+- blouse
+- wine
+- glass
+- alien
+bip_39_word_space_1: syrup
+bip_39_word_space_10: syrup zone shadow zoo option autumn cart cart blouse wine
+bip_39_word_space_11: syrup zone shadow zoo option autumn cart cart blouse wine glass
+bip_39_word_space_12: syrup zone shadow zoo option autumn cart cart blouse wine glass
+  alien
+bip_39_word_space_2: syrup zone
+bip_39_word_space_3: syrup zone shadow
+bip_39_word_space_4: syrup zone shadow zoo
+bip_39_word_space_5: syrup zone shadow zoo option
+bip_39_word_space_6: syrup zone shadow zoo option autumn
+bip_39_word_space_7: syrup zone shadow zoo option autumn cart
+bip_39_word_space_8: syrup zone shadow zoo option autumn cart cart
+bip_39_word_space_9: syrup zone shadow zoo option autumn cart cart blouse
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

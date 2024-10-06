@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fold say
+  * bip 39 word 3: fold say yard
+  * bip 39 word: fold say yard permit excess decrease caution foil spatial main version august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fold |  
+| bip_39_word_new_br10 | fold<br>say<br>yard<br>permit<br>excess<br>decrease<br>caution<br>foil<br>spatial<br>main |  
+| bip_39_word_new_br11 | fold<br>say<br>yard<br>permit<br>excess<br>decrease<br>caution<br>foil<br>spatial<br>main<br>version |  
+| bip_39_word_new_br12 | fold<br>say<br>yard<br>permit<br>excess<br>decrease<br>caution<br>foil<br>spatial<br>main<br>version<br>august |  
+| bip_39_word_new_br2 | fold<br>say |  
+| bip_39_word_new_br3 | fold<br>say<br>yard |  
+| bip_39_word_new_br4 | fold<br>say<br>yard<br>permit |  
+| bip_39_word_new_br5 | fold<br>say<br>yard<br>permit<br>excess |  
+| bip_39_word_new_br6 | fold<br>say<br>yard<br>permit<br>excess<br>decrease |  
+| bip_39_word_new_br7 | fold<br>say<br>yard<br>permit<br>excess<br>decrease<br>caution |  
+| bip_39_word_new_br8 | fold<br>say<br>yard<br>permit<br>excess<br>decrease<br>caution<br>foil |  
+| bip_39_word_new_br9 | fold<br>say<br>yard<br>permit<br>excess<br>decrease<br>caution<br>foil<br>spatial |  
+| bip_39_word_new_line1 | fold |  
+| bip_39_word_new_line10 | fold
+say
+yard
+permit
+excess
+decrease
+caution
+foil
+spatial
+main |  
+| bip_39_word_new_line11 | fold
+say
+yard
+permit
+excess
+decrease
+caution
+foil
+spatial
+main
+version |  
+| bip_39_word_new_line12 | fold
+say
+yard
+permit
+excess
+decrease
+caution
+foil
+spatial
+main
+version
+august |  
+| bip_39_word_new_line2 | fold
+say |  
+| bip_39_word_new_line3 | fold
+say
+yard |  
+| bip_39_word_new_line4 | fold
+say
+yard
+permit |  
+| bip_39_word_new_line5 | fold
+say
+yard
+permit
+excess |  
+| bip_39_word_new_line6 | fold
+say
+yard
+permit
+excess
+decrease |  
+| bip_39_word_new_line7 | fold
+say
+yard
+permit
+excess
+decrease
+caution |  
+| bip_39_word_new_line8 | fold
+say
+yard
+permit
+excess
+decrease
+caution
+foil |  
+| bip_39_word_new_line9 | fold
+say
+yard
+permit
+excess
+decrease
+caution
+foil
+spatial |  
+| bip_39_word_space_0 | ['fold', 'say', 'yard', 'permit', 'excess', 'decrease', 'caution', 'foil', 'spatial', 'main', 'version', 'august'] |  
+| bip_39_word_space_1 | fold |  
+| bip_39_word_space_10 | fold say yard permit excess decrease caution foil spatial main |  
+| bip_39_word_space_11 | fold say yard permit excess decrease caution foil spatial main version |  
+| bip_39_word_space_12 | fold say yard permit excess decrease caution foil spatial main version august |  
+| bip_39_word_space_2 | fold say |  
+| bip_39_word_space_3 | fold say yard |  
+| bip_39_word_space_4 | fold say yard permit |  
+| bip_39_word_space_5 | fold say yard permit excess |  
+| bip_39_word_space_6 | fold say yard permit excess decrease |  
+| bip_39_word_space_7 | fold say yard permit excess decrease caution |  
+| bip_39_word_space_8 | fold say yard permit excess decrease caution foil |  
+| bip_39_word_space_9 | fold say yard permit excess decrease caution foil spatial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

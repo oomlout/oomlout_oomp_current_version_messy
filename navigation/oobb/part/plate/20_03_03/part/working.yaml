@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sing
+bip_39_word_new_br10: sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor
+bip_39_word_new_br11: sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor<br>fruit
+bip_39_word_new_br12: sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight<br>monitor<br>fruit<br>area
+bip_39_word_new_br2: sing<br>aisle
+bip_39_word_new_br3: sing<br>aisle<br>repair
+bip_39_word_new_br4: sing<br>aisle<br>repair<br>stool
+bip_39_word_new_br5: sing<br>aisle<br>repair<br>stool<br>summer
+bip_39_word_new_br6: sing<br>aisle<br>repair<br>stool<br>summer<br>grit
+bip_39_word_new_br7: sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic
+bip_39_word_new_br8: sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside
+bip_39_word_new_br9: sing<br>aisle<br>repair<br>stool<br>summer<br>grit<br>basic<br>inside<br>midnight
+bip_39_word_new_line1: sing
+bip_39_word_new_line10: 'sing
+
+  aisle
+
+  repair
+
+  stool
+
+  summer
+
+  grit
+
+  basic
+
+  inside
+
+  midnight
+
+  monitor'
+bip_39_word_new_line11: 'sing
+
+  aisle
+
+  repair
+
+  stool
+
+  summer
+
+  grit
+
+  basic
+
+  inside
+
+  midnight
+
+  monitor
+
+  fruit'
+bip_39_word_new_line12: 'sing
+
+  aisle
+
+  repair
+
+  stool
+
+  summer
+
+  grit
+
+  basic
+
+  inside
+
+  midnight
+
+  monitor
+
+  fruit
+
+  area'
+bip_39_word_new_line2: 'sing
+
+  aisle'
+bip_39_word_new_line3: 'sing
+
+  aisle
+
+  repair'
+bip_39_word_new_line4: 'sing
+
+  aisle
+
+  repair
+
+  stool'
+bip_39_word_new_line5: 'sing
+
+  aisle
+
+  repair
+
+  stool
+
+  summer'
+bip_39_word_new_line6: 'sing
+
+  aisle
+
+  repair
+
+  stool
+
+  summer
+
+  grit'
+bip_39_word_new_line7: 'sing
+
+  aisle
+
+  repair
+
+  stool
+
+  summer
+
+  grit
+
+  basic'
+bip_39_word_new_line8: 'sing
+
+  aisle
+
+  repair
+
+  stool
+
+  summer
+
+  grit
+
+  basic
+
+  inside'
+bip_39_word_new_line9: 'sing
+
+  aisle
+
+  repair
+
+  stool
+
+  summer
+
+  grit
+
+  basic
+
+  inside
+
+  midnight'
+bip_39_word_space_0:
+- sing
+- aisle
+- repair
+- stool
+- summer
+- grit
+- basic
+- inside
+- midnight
+- monitor
+- fruit
+- area
+bip_39_word_space_1: sing
+bip_39_word_space_10: sing aisle repair stool summer grit basic inside midnight monitor
+bip_39_word_space_11: sing aisle repair stool summer grit basic inside midnight monitor
+  fruit
+bip_39_word_space_12: sing aisle repair stool summer grit basic inside midnight monitor
+  fruit area
+bip_39_word_space_2: sing aisle
+bip_39_word_space_3: sing aisle repair
+bip_39_word_space_4: sing aisle repair stool
+bip_39_word_space_5: sing aisle repair stool summer
+bip_39_word_space_6: sing aisle repair stool summer grit
+bip_39_word_space_7: sing aisle repair stool summer grit basic
+bip_39_word_space_8: sing aisle repair stool summer grit basic inside
+bip_39_word_space_9: sing aisle repair stool summer grit basic inside midnight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

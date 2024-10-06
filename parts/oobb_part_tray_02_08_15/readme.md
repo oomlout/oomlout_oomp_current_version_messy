@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cousin spoon
+  * bip 39 word 3: cousin spoon belt
+  * bip 39 word: cousin spoon belt record possible flag heavy paddle below slow myth afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cousin |  
+| bip_39_word_new_br10 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag<br>heavy<br>paddle<br>below<br>slow |  
+| bip_39_word_new_br11 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag<br>heavy<br>paddle<br>below<br>slow<br>myth |  
+| bip_39_word_new_br12 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag<br>heavy<br>paddle<br>below<br>slow<br>myth<br>afraid |  
+| bip_39_word_new_br2 | cousin<br>spoon |  
+| bip_39_word_new_br3 | cousin<br>spoon<br>belt |  
+| bip_39_word_new_br4 | cousin<br>spoon<br>belt<br>record |  
+| bip_39_word_new_br5 | cousin<br>spoon<br>belt<br>record<br>possible |  
+| bip_39_word_new_br6 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag |  
+| bip_39_word_new_br7 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag<br>heavy |  
+| bip_39_word_new_br8 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag<br>heavy<br>paddle |  
+| bip_39_word_new_br9 | cousin<br>spoon<br>belt<br>record<br>possible<br>flag<br>heavy<br>paddle<br>below |  
+| bip_39_word_new_line1 | cousin |  
+| bip_39_word_new_line10 | cousin
+spoon
+belt
+record
+possible
+flag
+heavy
+paddle
+below
+slow |  
+| bip_39_word_new_line11 | cousin
+spoon
+belt
+record
+possible
+flag
+heavy
+paddle
+below
+slow
+myth |  
+| bip_39_word_new_line12 | cousin
+spoon
+belt
+record
+possible
+flag
+heavy
+paddle
+below
+slow
+myth
+afraid |  
+| bip_39_word_new_line2 | cousin
+spoon |  
+| bip_39_word_new_line3 | cousin
+spoon
+belt |  
+| bip_39_word_new_line4 | cousin
+spoon
+belt
+record |  
+| bip_39_word_new_line5 | cousin
+spoon
+belt
+record
+possible |  
+| bip_39_word_new_line6 | cousin
+spoon
+belt
+record
+possible
+flag |  
+| bip_39_word_new_line7 | cousin
+spoon
+belt
+record
+possible
+flag
+heavy |  
+| bip_39_word_new_line8 | cousin
+spoon
+belt
+record
+possible
+flag
+heavy
+paddle |  
+| bip_39_word_new_line9 | cousin
+spoon
+belt
+record
+possible
+flag
+heavy
+paddle
+below |  
+| bip_39_word_space_0 | ['cousin', 'spoon', 'belt', 'record', 'possible', 'flag', 'heavy', 'paddle', 'below', 'slow', 'myth', 'afraid'] |  
+| bip_39_word_space_1 | cousin |  
+| bip_39_word_space_10 | cousin spoon belt record possible flag heavy paddle below slow |  
+| bip_39_word_space_11 | cousin spoon belt record possible flag heavy paddle below slow myth |  
+| bip_39_word_space_12 | cousin spoon belt record possible flag heavy paddle below slow myth afraid |  
+| bip_39_word_space_2 | cousin spoon |  
+| bip_39_word_space_3 | cousin spoon belt |  
+| bip_39_word_space_4 | cousin spoon belt record |  
+| bip_39_word_space_5 | cousin spoon belt record possible |  
+| bip_39_word_space_6 | cousin spoon belt record possible flag |  
+| bip_39_word_space_7 | cousin spoon belt record possible flag heavy |  
+| bip_39_word_space_8 | cousin spoon belt record possible flag heavy paddle |  
+| bip_39_word_space_9 | cousin spoon belt record possible flag heavy paddle below |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: omit
+bip_39_word_new_br10: omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic
+bip_39_word_new_br11: omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic<br>betray
+bip_39_word_new_br12: omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science<br>drastic<br>betray<br>antenna
+bip_39_word_new_br2: omit<br>pride
+bip_39_word_new_br3: omit<br>pride<br>novel
+bip_39_word_new_br4: omit<br>pride<br>novel<br>panel
+bip_39_word_new_br5: omit<br>pride<br>novel<br>panel<br>bottom
+bip_39_word_new_br6: omit<br>pride<br>novel<br>panel<br>bottom<br>glare
+bip_39_word_new_br7: omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic
+bip_39_word_new_br8: omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large
+bip_39_word_new_br9: omit<br>pride<br>novel<br>panel<br>bottom<br>glare<br>basic<br>large<br>science
+bip_39_word_new_line1: omit
+bip_39_word_new_line10: 'omit
+
+  pride
+
+  novel
+
+  panel
+
+  bottom
+
+  glare
+
+  basic
+
+  large
+
+  science
+
+  drastic'
+bip_39_word_new_line11: 'omit
+
+  pride
+
+  novel
+
+  panel
+
+  bottom
+
+  glare
+
+  basic
+
+  large
+
+  science
+
+  drastic
+
+  betray'
+bip_39_word_new_line12: 'omit
+
+  pride
+
+  novel
+
+  panel
+
+  bottom
+
+  glare
+
+  basic
+
+  large
+
+  science
+
+  drastic
+
+  betray
+
+  antenna'
+bip_39_word_new_line2: 'omit
+
+  pride'
+bip_39_word_new_line3: 'omit
+
+  pride
+
+  novel'
+bip_39_word_new_line4: 'omit
+
+  pride
+
+  novel
+
+  panel'
+bip_39_word_new_line5: 'omit
+
+  pride
+
+  novel
+
+  panel
+
+  bottom'
+bip_39_word_new_line6: 'omit
+
+  pride
+
+  novel
+
+  panel
+
+  bottom
+
+  glare'
+bip_39_word_new_line7: 'omit
+
+  pride
+
+  novel
+
+  panel
+
+  bottom
+
+  glare
+
+  basic'
+bip_39_word_new_line8: 'omit
+
+  pride
+
+  novel
+
+  panel
+
+  bottom
+
+  glare
+
+  basic
+
+  large'
+bip_39_word_new_line9: 'omit
+
+  pride
+
+  novel
+
+  panel
+
+  bottom
+
+  glare
+
+  basic
+
+  large
+
+  science'
+bip_39_word_space_0:
+- omit
+- pride
+- novel
+- panel
+- bottom
+- glare
+- basic
+- large
+- science
+- drastic
+- betray
+- antenna
+bip_39_word_space_1: omit
+bip_39_word_space_10: omit pride novel panel bottom glare basic large science drastic
+bip_39_word_space_11: omit pride novel panel bottom glare basic large science drastic
+  betray
+bip_39_word_space_12: omit pride novel panel bottom glare basic large science drastic
+  betray antenna
+bip_39_word_space_2: omit pride
+bip_39_word_space_3: omit pride novel
+bip_39_word_space_4: omit pride novel panel
+bip_39_word_space_5: omit pride novel panel bottom
+bip_39_word_space_6: omit pride novel panel bottom glare
+bip_39_word_space_7: omit pride novel panel bottom glare basic
+bip_39_word_space_8: omit pride novel panel bottom glare basic large
+bip_39_word_space_9: omit pride novel panel bottom glare basic large science
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

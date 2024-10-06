@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sugar
+bip_39_word_new_br10: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual<br>label<br>alone<br>little<br>pink
+bip_39_word_new_br11: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual<br>label<br>alone<br>little<br>pink<br>cup
+bip_39_word_new_br12: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual<br>label<br>alone<br>little<br>pink<br>cup<br>all
+bip_39_word_new_br2: sugar<br>blanket
+bip_39_word_new_br3: sugar<br>blanket<br>solar
+bip_39_word_new_br4: sugar<br>blanket<br>solar<br>gauge
+bip_39_word_new_br5: sugar<br>blanket<br>solar<br>gauge<br>because
+bip_39_word_new_br6: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual
+bip_39_word_new_br7: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual<br>label
+bip_39_word_new_br8: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual<br>label<br>alone
+bip_39_word_new_br9: sugar<br>blanket<br>solar<br>gauge<br>because<br>usual<br>label<br>alone<br>little
+bip_39_word_new_line1: sugar
+bip_39_word_new_line10: 'sugar
+
+  blanket
+
+  solar
+
+  gauge
+
+  because
+
+  usual
+
+  label
+
+  alone
+
+  little
+
+  pink'
+bip_39_word_new_line11: 'sugar
+
+  blanket
+
+  solar
+
+  gauge
+
+  because
+
+  usual
+
+  label
+
+  alone
+
+  little
+
+  pink
+
+  cup'
+bip_39_word_new_line12: 'sugar
+
+  blanket
+
+  solar
+
+  gauge
+
+  because
+
+  usual
+
+  label
+
+  alone
+
+  little
+
+  pink
+
+  cup
+
+  all'
+bip_39_word_new_line2: 'sugar
+
+  blanket'
+bip_39_word_new_line3: 'sugar
+
+  blanket
+
+  solar'
+bip_39_word_new_line4: 'sugar
+
+  blanket
+
+  solar
+
+  gauge'
+bip_39_word_new_line5: 'sugar
+
+  blanket
+
+  solar
+
+  gauge
+
+  because'
+bip_39_word_new_line6: 'sugar
+
+  blanket
+
+  solar
+
+  gauge
+
+  because
+
+  usual'
+bip_39_word_new_line7: 'sugar
+
+  blanket
+
+  solar
+
+  gauge
+
+  because
+
+  usual
+
+  label'
+bip_39_word_new_line8: 'sugar
+
+  blanket
+
+  solar
+
+  gauge
+
+  because
+
+  usual
+
+  label
+
+  alone'
+bip_39_word_new_line9: 'sugar
+
+  blanket
+
+  solar
+
+  gauge
+
+  because
+
+  usual
+
+  label
+
+  alone
+
+  little'
+bip_39_word_space_0:
+- sugar
+- blanket
+- solar
+- gauge
+- because
+- usual
+- label
+- alone
+- little
+- pink
+- cup
+- all
+bip_39_word_space_1: sugar
+bip_39_word_space_10: sugar blanket solar gauge because usual label alone little pink
+bip_39_word_space_11: sugar blanket solar gauge because usual label alone little pink
+  cup
+bip_39_word_space_12: sugar blanket solar gauge because usual label alone little pink
+  cup all
+bip_39_word_space_2: sugar blanket
+bip_39_word_space_3: sugar blanket solar
+bip_39_word_space_4: sugar blanket solar gauge
+bip_39_word_space_5: sugar blanket solar gauge because
+bip_39_word_space_6: sugar blanket solar gauge because usual
+bip_39_word_space_7: sugar blanket solar gauge because usual label
+bip_39_word_space_8: sugar blanket solar gauge because usual label alone
+bip_39_word_space_9: sugar blanket solar gauge because usual label alone little
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

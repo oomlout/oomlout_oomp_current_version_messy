@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: family brain
+  * bip 39 word 3: family brain churn
+  * bip 39 word: family brain churn vintage visit veteran number usual under squeeze payment action
 
 ### other_codes
 * short_code: brF698
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | family |  
+| bip_39_word_new_br10 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze |  
+| bip_39_word_new_br11 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze<br>payment |  
+| bip_39_word_new_br12 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under<br>squeeze<br>payment<br>action |  
+| bip_39_word_new_br2 | family<br>brain |  
+| bip_39_word_new_br3 | family<br>brain<br>churn |  
+| bip_39_word_new_br4 | family<br>brain<br>churn<br>vintage |  
+| bip_39_word_new_br5 | family<br>brain<br>churn<br>vintage<br>visit |  
+| bip_39_word_new_br6 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran |  
+| bip_39_word_new_br7 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number |  
+| bip_39_word_new_br8 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual |  
+| bip_39_word_new_br9 | family<br>brain<br>churn<br>vintage<br>visit<br>veteran<br>number<br>usual<br>under |  
+| bip_39_word_new_line1 | family |  
+| bip_39_word_new_line10 | family
+brain
+churn
+vintage
+visit
+veteran
+number
+usual
+under
+squeeze |  
+| bip_39_word_new_line11 | family
+brain
+churn
+vintage
+visit
+veteran
+number
+usual
+under
+squeeze
+payment |  
+| bip_39_word_new_line12 | family
+brain
+churn
+vintage
+visit
+veteran
+number
+usual
+under
+squeeze
+payment
+action |  
+| bip_39_word_new_line2 | family
+brain |  
+| bip_39_word_new_line3 | family
+brain
+churn |  
+| bip_39_word_new_line4 | family
+brain
+churn
+vintage |  
+| bip_39_word_new_line5 | family
+brain
+churn
+vintage
+visit |  
+| bip_39_word_new_line6 | family
+brain
+churn
+vintage
+visit
+veteran |  
+| bip_39_word_new_line7 | family
+brain
+churn
+vintage
+visit
+veteran
+number |  
+| bip_39_word_new_line8 | family
+brain
+churn
+vintage
+visit
+veteran
+number
+usual |  
+| bip_39_word_new_line9 | family
+brain
+churn
+vintage
+visit
+veteran
+number
+usual
+under |  
+| bip_39_word_space_0 | ['family', 'brain', 'churn', 'vintage', 'visit', 'veteran', 'number', 'usual', 'under', 'squeeze', 'payment', 'action'] |  
+| bip_39_word_space_1 | family |  
+| bip_39_word_space_10 | family brain churn vintage visit veteran number usual under squeeze |  
+| bip_39_word_space_11 | family brain churn vintage visit veteran number usual under squeeze payment |  
+| bip_39_word_space_12 | family brain churn vintage visit veteran number usual under squeeze payment action |  
+| bip_39_word_space_2 | family brain |  
+| bip_39_word_space_3 | family brain churn |  
+| bip_39_word_space_4 | family brain churn vintage |  
+| bip_39_word_space_5 | family brain churn vintage visit |  
+| bip_39_word_space_6 | family brain churn vintage visit veteran |  
+| bip_39_word_space_7 | family brain churn vintage visit veteran number |  
+| bip_39_word_space_8 | family brain churn vintage visit veteran number usual |  
+| bip_39_word_space_9 | family brain churn vintage visit veteran number usual under |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

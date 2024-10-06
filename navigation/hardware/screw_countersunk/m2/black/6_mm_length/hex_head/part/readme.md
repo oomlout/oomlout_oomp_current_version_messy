@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: guilt asset
+  * bip 39 word 3: guilt asset laundry
+  * bip 39 word: guilt asset laundry stage tip tomorrow act chapter hen draw flee april
 
 ### other_codes
 * short_code: cs2b6h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | guilt |  
+| bip_39_word_new_br10 | guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter<br>hen<br>draw |  
+| bip_39_word_new_br11 | guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter<br>hen<br>draw<br>flee |  
+| bip_39_word_new_br12 | guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter<br>hen<br>draw<br>flee<br>april |  
+| bip_39_word_new_br2 | guilt<br>asset |  
+| bip_39_word_new_br3 | guilt<br>asset<br>laundry |  
+| bip_39_word_new_br4 | guilt<br>asset<br>laundry<br>stage |  
+| bip_39_word_new_br5 | guilt<br>asset<br>laundry<br>stage<br>tip |  
+| bip_39_word_new_br6 | guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow |  
+| bip_39_word_new_br7 | guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act |  
+| bip_39_word_new_br8 | guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter |  
+| bip_39_word_new_br9 | guilt<br>asset<br>laundry<br>stage<br>tip<br>tomorrow<br>act<br>chapter<br>hen |  
+| bip_39_word_new_line1 | guilt |  
+| bip_39_word_new_line10 | guilt
+asset
+laundry
+stage
+tip
+tomorrow
+act
+chapter
+hen
+draw |  
+| bip_39_word_new_line11 | guilt
+asset
+laundry
+stage
+tip
+tomorrow
+act
+chapter
+hen
+draw
+flee |  
+| bip_39_word_new_line12 | guilt
+asset
+laundry
+stage
+tip
+tomorrow
+act
+chapter
+hen
+draw
+flee
+april |  
+| bip_39_word_new_line2 | guilt
+asset |  
+| bip_39_word_new_line3 | guilt
+asset
+laundry |  
+| bip_39_word_new_line4 | guilt
+asset
+laundry
+stage |  
+| bip_39_word_new_line5 | guilt
+asset
+laundry
+stage
+tip |  
+| bip_39_word_new_line6 | guilt
+asset
+laundry
+stage
+tip
+tomorrow |  
+| bip_39_word_new_line7 | guilt
+asset
+laundry
+stage
+tip
+tomorrow
+act |  
+| bip_39_word_new_line8 | guilt
+asset
+laundry
+stage
+tip
+tomorrow
+act
+chapter |  
+| bip_39_word_new_line9 | guilt
+asset
+laundry
+stage
+tip
+tomorrow
+act
+chapter
+hen |  
+| bip_39_word_space_0 | ['guilt', 'asset', 'laundry', 'stage', 'tip', 'tomorrow', 'act', 'chapter', 'hen', 'draw', 'flee', 'april'] |  
+| bip_39_word_space_1 | guilt |  
+| bip_39_word_space_10 | guilt asset laundry stage tip tomorrow act chapter hen draw |  
+| bip_39_word_space_11 | guilt asset laundry stage tip tomorrow act chapter hen draw flee |  
+| bip_39_word_space_12 | guilt asset laundry stage tip tomorrow act chapter hen draw flee april |  
+| bip_39_word_space_2 | guilt asset |  
+| bip_39_word_space_3 | guilt asset laundry |  
+| bip_39_word_space_4 | guilt asset laundry stage |  
+| bip_39_word_space_5 | guilt asset laundry stage tip |  
+| bip_39_word_space_6 | guilt asset laundry stage tip tomorrow |  
+| bip_39_word_space_7 | guilt asset laundry stage tip tomorrow act |  
+| bip_39_word_space_8 | guilt asset laundry stage tip tomorrow act chapter |  
+| bip_39_word_space_9 | guilt asset laundry stage tip tomorrow act chapter hen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

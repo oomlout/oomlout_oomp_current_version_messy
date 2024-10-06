@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lesson
+bip_39_word_new_br10: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter<br>apple<br>rival
+bip_39_word_new_br11: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter<br>apple<br>rival<br>skill
+bip_39_word_new_br12: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter<br>apple<br>rival<br>skill<br>aspect
+bip_39_word_new_br2: lesson<br>credit
+bip_39_word_new_br3: lesson<br>credit<br>gun
+bip_39_word_new_br4: lesson<br>credit<br>gun<br>voyage
+bip_39_word_new_br5: lesson<br>credit<br>gun<br>voyage<br>vendor
+bip_39_word_new_br6: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client
+bip_39_word_new_br7: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject
+bip_39_word_new_br8: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter
+bip_39_word_new_br9: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter<br>apple
+bip_39_word_new_line1: lesson
+bip_39_word_new_line10: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter
+
+  apple
+
+  rival'
+bip_39_word_new_line11: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter
+
+  apple
+
+  rival
+
+  skill'
+bip_39_word_new_line12: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter
+
+  apple
+
+  rival
+
+  skill
+
+  aspect'
+bip_39_word_new_line2: 'lesson
+
+  credit'
+bip_39_word_new_line3: 'lesson
+
+  credit
+
+  gun'
+bip_39_word_new_line4: 'lesson
+
+  credit
+
+  gun
+
+  voyage'
+bip_39_word_new_line5: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor'
+bip_39_word_new_line6: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client'
+bip_39_word_new_line7: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject'
+bip_39_word_new_line8: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter'
+bip_39_word_new_line9: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter
+
+  apple'
+bip_39_word_space_0:
+- lesson
+- credit
+- gun
+- voyage
+- vendor
+- client
+- subject
+- alter
+- apple
+- rival
+- skill
+- aspect
+bip_39_word_space_1: lesson
+bip_39_word_space_10: lesson credit gun voyage vendor client subject alter apple rival
+bip_39_word_space_11: lesson credit gun voyage vendor client subject alter apple rival
+  skill
+bip_39_word_space_12: lesson credit gun voyage vendor client subject alter apple rival
+  skill aspect
+bip_39_word_space_2: lesson credit
+bip_39_word_space_3: lesson credit gun
+bip_39_word_space_4: lesson credit gun voyage
+bip_39_word_space_5: lesson credit gun voyage vendor
+bip_39_word_space_6: lesson credit gun voyage vendor client
+bip_39_word_space_7: lesson credit gun voyage vendor client subject
+bip_39_word_space_8: lesson credit gun voyage vendor client subject alter
+bip_39_word_space_9: lesson credit gun voyage vendor client subject alter apple
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

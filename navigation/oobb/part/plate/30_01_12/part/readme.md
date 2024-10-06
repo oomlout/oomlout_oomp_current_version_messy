@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ring jealous
+  * bip 39 word 3: ring jealous improve
+  * bip 39 word: ring jealous improve flame forward donkey girl act question teach close adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ring |  
+| bip_39_word_new_br10 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey<br>girl<br>act<br>question<br>teach |  
+| bip_39_word_new_br11 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey<br>girl<br>act<br>question<br>teach<br>close |  
+| bip_39_word_new_br12 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey<br>girl<br>act<br>question<br>teach<br>close<br>adult |  
+| bip_39_word_new_br2 | ring<br>jealous |  
+| bip_39_word_new_br3 | ring<br>jealous<br>improve |  
+| bip_39_word_new_br4 | ring<br>jealous<br>improve<br>flame |  
+| bip_39_word_new_br5 | ring<br>jealous<br>improve<br>flame<br>forward |  
+| bip_39_word_new_br6 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey |  
+| bip_39_word_new_br7 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey<br>girl |  
+| bip_39_word_new_br8 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey<br>girl<br>act |  
+| bip_39_word_new_br9 | ring<br>jealous<br>improve<br>flame<br>forward<br>donkey<br>girl<br>act<br>question |  
+| bip_39_word_new_line1 | ring |  
+| bip_39_word_new_line10 | ring
+jealous
+improve
+flame
+forward
+donkey
+girl
+act
+question
+teach |  
+| bip_39_word_new_line11 | ring
+jealous
+improve
+flame
+forward
+donkey
+girl
+act
+question
+teach
+close |  
+| bip_39_word_new_line12 | ring
+jealous
+improve
+flame
+forward
+donkey
+girl
+act
+question
+teach
+close
+adult |  
+| bip_39_word_new_line2 | ring
+jealous |  
+| bip_39_word_new_line3 | ring
+jealous
+improve |  
+| bip_39_word_new_line4 | ring
+jealous
+improve
+flame |  
+| bip_39_word_new_line5 | ring
+jealous
+improve
+flame
+forward |  
+| bip_39_word_new_line6 | ring
+jealous
+improve
+flame
+forward
+donkey |  
+| bip_39_word_new_line7 | ring
+jealous
+improve
+flame
+forward
+donkey
+girl |  
+| bip_39_word_new_line8 | ring
+jealous
+improve
+flame
+forward
+donkey
+girl
+act |  
+| bip_39_word_new_line9 | ring
+jealous
+improve
+flame
+forward
+donkey
+girl
+act
+question |  
+| bip_39_word_space_0 | ['ring', 'jealous', 'improve', 'flame', 'forward', 'donkey', 'girl', 'act', 'question', 'teach', 'close', 'adult'] |  
+| bip_39_word_space_1 | ring |  
+| bip_39_word_space_10 | ring jealous improve flame forward donkey girl act question teach |  
+| bip_39_word_space_11 | ring jealous improve flame forward donkey girl act question teach close |  
+| bip_39_word_space_12 | ring jealous improve flame forward donkey girl act question teach close adult |  
+| bip_39_word_space_2 | ring jealous |  
+| bip_39_word_space_3 | ring jealous improve |  
+| bip_39_word_space_4 | ring jealous improve flame |  
+| bip_39_word_space_5 | ring jealous improve flame forward |  
+| bip_39_word_space_6 | ring jealous improve flame forward donkey |  
+| bip_39_word_space_7 | ring jealous improve flame forward donkey girl |  
+| bip_39_word_space_8 | ring jealous improve flame forward donkey girl act |  
+| bip_39_word_space_9 | ring jealous improve flame forward donkey girl act question |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

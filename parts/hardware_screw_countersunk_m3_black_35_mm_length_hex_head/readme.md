@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: abstract physical
+  * bip 39 word 3: abstract physical mean
+  * bip 39 word: abstract physical mean short gesture fetch shadow know slot come rigid acquire
 
 ### other_codes
 * short_code: cs3b35h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | abstract |  
+| bip_39_word_new_br10 | abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot<br>come |  
+| bip_39_word_new_br11 | abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot<br>come<br>rigid |  
+| bip_39_word_new_br12 | abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot<br>come<br>rigid<br>acquire |  
+| bip_39_word_new_br2 | abstract<br>physical |  
+| bip_39_word_new_br3 | abstract<br>physical<br>mean |  
+| bip_39_word_new_br4 | abstract<br>physical<br>mean<br>short |  
+| bip_39_word_new_br5 | abstract<br>physical<br>mean<br>short<br>gesture |  
+| bip_39_word_new_br6 | abstract<br>physical<br>mean<br>short<br>gesture<br>fetch |  
+| bip_39_word_new_br7 | abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow |  
+| bip_39_word_new_br8 | abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know |  
+| bip_39_word_new_br9 | abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot |  
+| bip_39_word_new_line1 | abstract |  
+| bip_39_word_new_line10 | abstract
+physical
+mean
+short
+gesture
+fetch
+shadow
+know
+slot
+come |  
+| bip_39_word_new_line11 | abstract
+physical
+mean
+short
+gesture
+fetch
+shadow
+know
+slot
+come
+rigid |  
+| bip_39_word_new_line12 | abstract
+physical
+mean
+short
+gesture
+fetch
+shadow
+know
+slot
+come
+rigid
+acquire |  
+| bip_39_word_new_line2 | abstract
+physical |  
+| bip_39_word_new_line3 | abstract
+physical
+mean |  
+| bip_39_word_new_line4 | abstract
+physical
+mean
+short |  
+| bip_39_word_new_line5 | abstract
+physical
+mean
+short
+gesture |  
+| bip_39_word_new_line6 | abstract
+physical
+mean
+short
+gesture
+fetch |  
+| bip_39_word_new_line7 | abstract
+physical
+mean
+short
+gesture
+fetch
+shadow |  
+| bip_39_word_new_line8 | abstract
+physical
+mean
+short
+gesture
+fetch
+shadow
+know |  
+| bip_39_word_new_line9 | abstract
+physical
+mean
+short
+gesture
+fetch
+shadow
+know
+slot |  
+| bip_39_word_space_0 | ['abstract', 'physical', 'mean', 'short', 'gesture', 'fetch', 'shadow', 'know', 'slot', 'come', 'rigid', 'acquire'] |  
+| bip_39_word_space_1 | abstract |  
+| bip_39_word_space_10 | abstract physical mean short gesture fetch shadow know slot come |  
+| bip_39_word_space_11 | abstract physical mean short gesture fetch shadow know slot come rigid |  
+| bip_39_word_space_12 | abstract physical mean short gesture fetch shadow know slot come rigid acquire |  
+| bip_39_word_space_2 | abstract physical |  
+| bip_39_word_space_3 | abstract physical mean |  
+| bip_39_word_space_4 | abstract physical mean short |  
+| bip_39_word_space_5 | abstract physical mean short gesture |  
+| bip_39_word_space_6 | abstract physical mean short gesture fetch |  
+| bip_39_word_space_7 | abstract physical mean short gesture fetch shadow |  
+| bip_39_word_space_8 | abstract physical mean short gesture fetch shadow know |  
+| bip_39_word_space_9 | abstract physical mean short gesture fetch shadow know slot |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

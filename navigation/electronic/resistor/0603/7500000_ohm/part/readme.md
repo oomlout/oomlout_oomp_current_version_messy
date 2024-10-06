@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: poverty angry
+  * bip 39 word 3: poverty angry upon
+  * bip 39 word: poverty angry upon open later swap live vapor crop pulse hybrid account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | poverty |  
+| bip_39_word_new_br10 | poverty<br>angry<br>upon<br>open<br>later<br>swap<br>live<br>vapor<br>crop<br>pulse |  
+| bip_39_word_new_br11 | poverty<br>angry<br>upon<br>open<br>later<br>swap<br>live<br>vapor<br>crop<br>pulse<br>hybrid |  
+| bip_39_word_new_br12 | poverty<br>angry<br>upon<br>open<br>later<br>swap<br>live<br>vapor<br>crop<br>pulse<br>hybrid<br>account |  
+| bip_39_word_new_br2 | poverty<br>angry |  
+| bip_39_word_new_br3 | poverty<br>angry<br>upon |  
+| bip_39_word_new_br4 | poverty<br>angry<br>upon<br>open |  
+| bip_39_word_new_br5 | poverty<br>angry<br>upon<br>open<br>later |  
+| bip_39_word_new_br6 | poverty<br>angry<br>upon<br>open<br>later<br>swap |  
+| bip_39_word_new_br7 | poverty<br>angry<br>upon<br>open<br>later<br>swap<br>live |  
+| bip_39_word_new_br8 | poverty<br>angry<br>upon<br>open<br>later<br>swap<br>live<br>vapor |  
+| bip_39_word_new_br9 | poverty<br>angry<br>upon<br>open<br>later<br>swap<br>live<br>vapor<br>crop |  
+| bip_39_word_new_line1 | poverty |  
+| bip_39_word_new_line10 | poverty
+angry
+upon
+open
+later
+swap
+live
+vapor
+crop
+pulse |  
+| bip_39_word_new_line11 | poverty
+angry
+upon
+open
+later
+swap
+live
+vapor
+crop
+pulse
+hybrid |  
+| bip_39_word_new_line12 | poverty
+angry
+upon
+open
+later
+swap
+live
+vapor
+crop
+pulse
+hybrid
+account |  
+| bip_39_word_new_line2 | poverty
+angry |  
+| bip_39_word_new_line3 | poverty
+angry
+upon |  
+| bip_39_word_new_line4 | poverty
+angry
+upon
+open |  
+| bip_39_word_new_line5 | poverty
+angry
+upon
+open
+later |  
+| bip_39_word_new_line6 | poverty
+angry
+upon
+open
+later
+swap |  
+| bip_39_word_new_line7 | poverty
+angry
+upon
+open
+later
+swap
+live |  
+| bip_39_word_new_line8 | poverty
+angry
+upon
+open
+later
+swap
+live
+vapor |  
+| bip_39_word_new_line9 | poverty
+angry
+upon
+open
+later
+swap
+live
+vapor
+crop |  
+| bip_39_word_space_0 | ['poverty', 'angry', 'upon', 'open', 'later', 'swap', 'live', 'vapor', 'crop', 'pulse', 'hybrid', 'account'] |  
+| bip_39_word_space_1 | poverty |  
+| bip_39_word_space_10 | poverty angry upon open later swap live vapor crop pulse |  
+| bip_39_word_space_11 | poverty angry upon open later swap live vapor crop pulse hybrid |  
+| bip_39_word_space_12 | poverty angry upon open later swap live vapor crop pulse hybrid account |  
+| bip_39_word_space_2 | poverty angry |  
+| bip_39_word_space_3 | poverty angry upon |  
+| bip_39_word_space_4 | poverty angry upon open |  
+| bip_39_word_space_5 | poverty angry upon open later |  
+| bip_39_word_space_6 | poverty angry upon open later swap |  
+| bip_39_word_space_7 | poverty angry upon open later swap live |  
+| bip_39_word_space_8 | poverty angry upon open later swap live vapor |  
+| bip_39_word_space_9 | poverty angry upon open later swap live vapor crop |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

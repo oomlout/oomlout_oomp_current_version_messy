@@ -1,3 +1,187 @@
+bip_39_word_new_br1: saddle
+bip_39_word_new_br10: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment<br>chunk
+bip_39_word_new_br11: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment<br>chunk<br>endorse
+bip_39_word_new_br12: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment<br>chunk<br>endorse<br>able
+bip_39_word_new_br2: saddle<br>kid
+bip_39_word_new_br3: saddle<br>kid<br>birth
+bip_39_word_new_br4: saddle<br>kid<br>birth<br>tumble
+bip_39_word_new_br5: saddle<br>kid<br>birth<br>tumble<br>poverty
+bip_39_word_new_br6: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall
+bip_39_word_new_br7: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost
+bip_39_word_new_br8: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert
+bip_39_word_new_br9: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment
+bip_39_word_new_line1: saddle
+bip_39_word_new_line10: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert
+
+  segment
+
+  chunk'
+bip_39_word_new_line11: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert
+
+  segment
+
+  chunk
+
+  endorse'
+bip_39_word_new_line12: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert
+
+  segment
+
+  chunk
+
+  endorse
+
+  able'
+bip_39_word_new_line2: 'saddle
+
+  kid'
+bip_39_word_new_line3: 'saddle
+
+  kid
+
+  birth'
+bip_39_word_new_line4: 'saddle
+
+  kid
+
+  birth
+
+  tumble'
+bip_39_word_new_line5: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty'
+bip_39_word_new_line6: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall'
+bip_39_word_new_line7: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost'
+bip_39_word_new_line8: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert'
+bip_39_word_new_line9: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert
+
+  segment'
+bip_39_word_space_0:
+- saddle
+- kid
+- birth
+- tumble
+- poverty
+- wall
+- almost
+- concert
+- segment
+- chunk
+- endorse
+- able
+bip_39_word_space_1: saddle
+bip_39_word_space_10: saddle kid birth tumble poverty wall almost concert segment
+  chunk
+bip_39_word_space_11: saddle kid birth tumble poverty wall almost concert segment
+  chunk endorse
+bip_39_word_space_12: saddle kid birth tumble poverty wall almost concert segment
+  chunk endorse able
+bip_39_word_space_2: saddle kid
+bip_39_word_space_3: saddle kid birth
+bip_39_word_space_4: saddle kid birth tumble
+bip_39_word_space_5: saddle kid birth tumble poverty
+bip_39_word_space_6: saddle kid birth tumble poverty wall
+bip_39_word_space_7: saddle kid birth tumble poverty wall almost
+bip_39_word_space_8: saddle kid birth tumble poverty wall almost concert
+bip_39_word_space_9: saddle kid birth tumble poverty wall almost concert segment
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

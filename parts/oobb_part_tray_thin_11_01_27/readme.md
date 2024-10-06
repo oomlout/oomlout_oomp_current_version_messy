@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: icon able
+  * bip 39 word 3: icon able flight
+  * bip 39 word: icon able flight orange scrap lens emotion float toddler topple famous animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | icon |  
+| bip_39_word_new_br10 | icon<br>able<br>flight<br>orange<br>scrap<br>lens<br>emotion<br>float<br>toddler<br>topple |  
+| bip_39_word_new_br11 | icon<br>able<br>flight<br>orange<br>scrap<br>lens<br>emotion<br>float<br>toddler<br>topple<br>famous |  
+| bip_39_word_new_br12 | icon<br>able<br>flight<br>orange<br>scrap<br>lens<br>emotion<br>float<br>toddler<br>topple<br>famous<br>animal |  
+| bip_39_word_new_br2 | icon<br>able |  
+| bip_39_word_new_br3 | icon<br>able<br>flight |  
+| bip_39_word_new_br4 | icon<br>able<br>flight<br>orange |  
+| bip_39_word_new_br5 | icon<br>able<br>flight<br>orange<br>scrap |  
+| bip_39_word_new_br6 | icon<br>able<br>flight<br>orange<br>scrap<br>lens |  
+| bip_39_word_new_br7 | icon<br>able<br>flight<br>orange<br>scrap<br>lens<br>emotion |  
+| bip_39_word_new_br8 | icon<br>able<br>flight<br>orange<br>scrap<br>lens<br>emotion<br>float |  
+| bip_39_word_new_br9 | icon<br>able<br>flight<br>orange<br>scrap<br>lens<br>emotion<br>float<br>toddler |  
+| bip_39_word_new_line1 | icon |  
+| bip_39_word_new_line10 | icon
+able
+flight
+orange
+scrap
+lens
+emotion
+float
+toddler
+topple |  
+| bip_39_word_new_line11 | icon
+able
+flight
+orange
+scrap
+lens
+emotion
+float
+toddler
+topple
+famous |  
+| bip_39_word_new_line12 | icon
+able
+flight
+orange
+scrap
+lens
+emotion
+float
+toddler
+topple
+famous
+animal |  
+| bip_39_word_new_line2 | icon
+able |  
+| bip_39_word_new_line3 | icon
+able
+flight |  
+| bip_39_word_new_line4 | icon
+able
+flight
+orange |  
+| bip_39_word_new_line5 | icon
+able
+flight
+orange
+scrap |  
+| bip_39_word_new_line6 | icon
+able
+flight
+orange
+scrap
+lens |  
+| bip_39_word_new_line7 | icon
+able
+flight
+orange
+scrap
+lens
+emotion |  
+| bip_39_word_new_line8 | icon
+able
+flight
+orange
+scrap
+lens
+emotion
+float |  
+| bip_39_word_new_line9 | icon
+able
+flight
+orange
+scrap
+lens
+emotion
+float
+toddler |  
+| bip_39_word_space_0 | ['icon', 'able', 'flight', 'orange', 'scrap', 'lens', 'emotion', 'float', 'toddler', 'topple', 'famous', 'animal'] |  
+| bip_39_word_space_1 | icon |  
+| bip_39_word_space_10 | icon able flight orange scrap lens emotion float toddler topple |  
+| bip_39_word_space_11 | icon able flight orange scrap lens emotion float toddler topple famous |  
+| bip_39_word_space_12 | icon able flight orange scrap lens emotion float toddler topple famous animal |  
+| bip_39_word_space_2 | icon able |  
+| bip_39_word_space_3 | icon able flight |  
+| bip_39_word_space_4 | icon able flight orange |  
+| bip_39_word_space_5 | icon able flight orange scrap |  
+| bip_39_word_space_6 | icon able flight orange scrap lens |  
+| bip_39_word_space_7 | icon able flight orange scrap lens emotion |  
+| bip_39_word_space_8 | icon able flight orange scrap lens emotion float |  
+| bip_39_word_space_9 | icon able flight orange scrap lens emotion float toddler |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: attitude
+bip_39_word_new_br10: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth<br>valley<br>garden<br>mystery<br>oxygen
+bip_39_word_new_br11: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth<br>valley<br>garden<br>mystery<br>oxygen<br>special
+bip_39_word_new_br12: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth<br>valley<br>garden<br>mystery<br>oxygen<br>special<br>accuse
+bip_39_word_new_br2: attitude<br>advice
+bip_39_word_new_br3: attitude<br>advice<br>toddler
+bip_39_word_new_br4: attitude<br>advice<br>toddler<br>attend
+bip_39_word_new_br5: attitude<br>advice<br>toddler<br>attend<br>govern
+bip_39_word_new_br6: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth
+bip_39_word_new_br7: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth<br>valley
+bip_39_word_new_br8: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth<br>valley<br>garden
+bip_39_word_new_br9: attitude<br>advice<br>toddler<br>attend<br>govern<br>wealth<br>valley<br>garden<br>mystery
+bip_39_word_new_line1: attitude
+bip_39_word_new_line10: 'attitude
+
+  advice
+
+  toddler
+
+  attend
+
+  govern
+
+  wealth
+
+  valley
+
+  garden
+
+  mystery
+
+  oxygen'
+bip_39_word_new_line11: 'attitude
+
+  advice
+
+  toddler
+
+  attend
+
+  govern
+
+  wealth
+
+  valley
+
+  garden
+
+  mystery
+
+  oxygen
+
+  special'
+bip_39_word_new_line12: 'attitude
+
+  advice
+
+  toddler
+
+  attend
+
+  govern
+
+  wealth
+
+  valley
+
+  garden
+
+  mystery
+
+  oxygen
+
+  special
+
+  accuse'
+bip_39_word_new_line2: 'attitude
+
+  advice'
+bip_39_word_new_line3: 'attitude
+
+  advice
+
+  toddler'
+bip_39_word_new_line4: 'attitude
+
+  advice
+
+  toddler
+
+  attend'
+bip_39_word_new_line5: 'attitude
+
+  advice
+
+  toddler
+
+  attend
+
+  govern'
+bip_39_word_new_line6: 'attitude
+
+  advice
+
+  toddler
+
+  attend
+
+  govern
+
+  wealth'
+bip_39_word_new_line7: 'attitude
+
+  advice
+
+  toddler
+
+  attend
+
+  govern
+
+  wealth
+
+  valley'
+bip_39_word_new_line8: 'attitude
+
+  advice
+
+  toddler
+
+  attend
+
+  govern
+
+  wealth
+
+  valley
+
+  garden'
+bip_39_word_new_line9: 'attitude
+
+  advice
+
+  toddler
+
+  attend
+
+  govern
+
+  wealth
+
+  valley
+
+  garden
+
+  mystery'
+bip_39_word_space_0:
+- attitude
+- advice
+- toddler
+- attend
+- govern
+- wealth
+- valley
+- garden
+- mystery
+- oxygen
+- special
+- accuse
+bip_39_word_space_1: attitude
+bip_39_word_space_10: attitude advice toddler attend govern wealth valley garden mystery
+  oxygen
+bip_39_word_space_11: attitude advice toddler attend govern wealth valley garden mystery
+  oxygen special
+bip_39_word_space_12: attitude advice toddler attend govern wealth valley garden mystery
+  oxygen special accuse
+bip_39_word_space_2: attitude advice
+bip_39_word_space_3: attitude advice toddler
+bip_39_word_space_4: attitude advice toddler attend
+bip_39_word_space_5: attitude advice toddler attend govern
+bip_39_word_space_6: attitude advice toddler attend govern wealth
+bip_39_word_space_7: attitude advice toddler attend govern wealth valley
+bip_39_word_space_8: attitude advice toddler attend govern wealth valley garden
+bip_39_word_space_9: attitude advice toddler attend govern wealth valley garden mystery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

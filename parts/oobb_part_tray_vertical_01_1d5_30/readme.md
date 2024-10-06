@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: worry ignore
+  * bip 39 word 3: worry ignore huge
+  * bip 39 word: worry ignore huge agree broccoli latin voice orange flavor siren kid annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | worry |  
+| bip_39_word_new_br10 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin<br>voice<br>orange<br>flavor<br>siren |  
+| bip_39_word_new_br11 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin<br>voice<br>orange<br>flavor<br>siren<br>kid |  
+| bip_39_word_new_br12 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin<br>voice<br>orange<br>flavor<br>siren<br>kid<br>annual |  
+| bip_39_word_new_br2 | worry<br>ignore |  
+| bip_39_word_new_br3 | worry<br>ignore<br>huge |  
+| bip_39_word_new_br4 | worry<br>ignore<br>huge<br>agree |  
+| bip_39_word_new_br5 | worry<br>ignore<br>huge<br>agree<br>broccoli |  
+| bip_39_word_new_br6 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin |  
+| bip_39_word_new_br7 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin<br>voice |  
+| bip_39_word_new_br8 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin<br>voice<br>orange |  
+| bip_39_word_new_br9 | worry<br>ignore<br>huge<br>agree<br>broccoli<br>latin<br>voice<br>orange<br>flavor |  
+| bip_39_word_new_line1 | worry |  
+| bip_39_word_new_line10 | worry
+ignore
+huge
+agree
+broccoli
+latin
+voice
+orange
+flavor
+siren |  
+| bip_39_word_new_line11 | worry
+ignore
+huge
+agree
+broccoli
+latin
+voice
+orange
+flavor
+siren
+kid |  
+| bip_39_word_new_line12 | worry
+ignore
+huge
+agree
+broccoli
+latin
+voice
+orange
+flavor
+siren
+kid
+annual |  
+| bip_39_word_new_line2 | worry
+ignore |  
+| bip_39_word_new_line3 | worry
+ignore
+huge |  
+| bip_39_word_new_line4 | worry
+ignore
+huge
+agree |  
+| bip_39_word_new_line5 | worry
+ignore
+huge
+agree
+broccoli |  
+| bip_39_word_new_line6 | worry
+ignore
+huge
+agree
+broccoli
+latin |  
+| bip_39_word_new_line7 | worry
+ignore
+huge
+agree
+broccoli
+latin
+voice |  
+| bip_39_word_new_line8 | worry
+ignore
+huge
+agree
+broccoli
+latin
+voice
+orange |  
+| bip_39_word_new_line9 | worry
+ignore
+huge
+agree
+broccoli
+latin
+voice
+orange
+flavor |  
+| bip_39_word_space_0 | ['worry', 'ignore', 'huge', 'agree', 'broccoli', 'latin', 'voice', 'orange', 'flavor', 'siren', 'kid', 'annual'] |  
+| bip_39_word_space_1 | worry |  
+| bip_39_word_space_10 | worry ignore huge agree broccoli latin voice orange flavor siren |  
+| bip_39_word_space_11 | worry ignore huge agree broccoli latin voice orange flavor siren kid |  
+| bip_39_word_space_12 | worry ignore huge agree broccoli latin voice orange flavor siren kid annual |  
+| bip_39_word_space_2 | worry ignore |  
+| bip_39_word_space_3 | worry ignore huge |  
+| bip_39_word_space_4 | worry ignore huge agree |  
+| bip_39_word_space_5 | worry ignore huge agree broccoli |  
+| bip_39_word_space_6 | worry ignore huge agree broccoli latin |  
+| bip_39_word_space_7 | worry ignore huge agree broccoli latin voice |  
+| bip_39_word_space_8 | worry ignore huge agree broccoli latin voice orange |  
+| bip_39_word_space_9 | worry ignore huge agree broccoli latin voice orange flavor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

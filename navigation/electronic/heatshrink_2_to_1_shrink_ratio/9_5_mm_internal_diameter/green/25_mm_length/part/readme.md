@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trial visual
+  * bip 39 word 3: trial visual immense
+  * bip 39 word: trial visual immense dry dad dish lock garlic capital bubble bonus alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trial |  
+| bip_39_word_new_br10 | trial<br>visual<br>immense<br>dry<br>dad<br>dish<br>lock<br>garlic<br>capital<br>bubble |  
+| bip_39_word_new_br11 | trial<br>visual<br>immense<br>dry<br>dad<br>dish<br>lock<br>garlic<br>capital<br>bubble<br>bonus |  
+| bip_39_word_new_br12 | trial<br>visual<br>immense<br>dry<br>dad<br>dish<br>lock<br>garlic<br>capital<br>bubble<br>bonus<br>alcohol |  
+| bip_39_word_new_br2 | trial<br>visual |  
+| bip_39_word_new_br3 | trial<br>visual<br>immense |  
+| bip_39_word_new_br4 | trial<br>visual<br>immense<br>dry |  
+| bip_39_word_new_br5 | trial<br>visual<br>immense<br>dry<br>dad |  
+| bip_39_word_new_br6 | trial<br>visual<br>immense<br>dry<br>dad<br>dish |  
+| bip_39_word_new_br7 | trial<br>visual<br>immense<br>dry<br>dad<br>dish<br>lock |  
+| bip_39_word_new_br8 | trial<br>visual<br>immense<br>dry<br>dad<br>dish<br>lock<br>garlic |  
+| bip_39_word_new_br9 | trial<br>visual<br>immense<br>dry<br>dad<br>dish<br>lock<br>garlic<br>capital |  
+| bip_39_word_new_line1 | trial |  
+| bip_39_word_new_line10 | trial
+visual
+immense
+dry
+dad
+dish
+lock
+garlic
+capital
+bubble |  
+| bip_39_word_new_line11 | trial
+visual
+immense
+dry
+dad
+dish
+lock
+garlic
+capital
+bubble
+bonus |  
+| bip_39_word_new_line12 | trial
+visual
+immense
+dry
+dad
+dish
+lock
+garlic
+capital
+bubble
+bonus
+alcohol |  
+| bip_39_word_new_line2 | trial
+visual |  
+| bip_39_word_new_line3 | trial
+visual
+immense |  
+| bip_39_word_new_line4 | trial
+visual
+immense
+dry |  
+| bip_39_word_new_line5 | trial
+visual
+immense
+dry
+dad |  
+| bip_39_word_new_line6 | trial
+visual
+immense
+dry
+dad
+dish |  
+| bip_39_word_new_line7 | trial
+visual
+immense
+dry
+dad
+dish
+lock |  
+| bip_39_word_new_line8 | trial
+visual
+immense
+dry
+dad
+dish
+lock
+garlic |  
+| bip_39_word_new_line9 | trial
+visual
+immense
+dry
+dad
+dish
+lock
+garlic
+capital |  
+| bip_39_word_space_0 | ['trial', 'visual', 'immense', 'dry', 'dad', 'dish', 'lock', 'garlic', 'capital', 'bubble', 'bonus', 'alcohol'] |  
+| bip_39_word_space_1 | trial |  
+| bip_39_word_space_10 | trial visual immense dry dad dish lock garlic capital bubble |  
+| bip_39_word_space_11 | trial visual immense dry dad dish lock garlic capital bubble bonus |  
+| bip_39_word_space_12 | trial visual immense dry dad dish lock garlic capital bubble bonus alcohol |  
+| bip_39_word_space_2 | trial visual |  
+| bip_39_word_space_3 | trial visual immense |  
+| bip_39_word_space_4 | trial visual immense dry |  
+| bip_39_word_space_5 | trial visual immense dry dad |  
+| bip_39_word_space_6 | trial visual immense dry dad dish |  
+| bip_39_word_space_7 | trial visual immense dry dad dish lock |  
+| bip_39_word_space_8 | trial visual immense dry dad dish lock garlic |  
+| bip_39_word_space_9 | trial visual immense dry dad dish lock garlic capital |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

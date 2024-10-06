@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: next glow
+  * bip 39 word 3: next glow trophy
+  * bip 39 word: next glow trophy borrow already print sponsor mansion pause rabbit clog about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | next |  
+| bip_39_word_new_br10 | next<br>glow<br>trophy<br>borrow<br>already<br>print<br>sponsor<br>mansion<br>pause<br>rabbit |  
+| bip_39_word_new_br11 | next<br>glow<br>trophy<br>borrow<br>already<br>print<br>sponsor<br>mansion<br>pause<br>rabbit<br>clog |  
+| bip_39_word_new_br12 | next<br>glow<br>trophy<br>borrow<br>already<br>print<br>sponsor<br>mansion<br>pause<br>rabbit<br>clog<br>about |  
+| bip_39_word_new_br2 | next<br>glow |  
+| bip_39_word_new_br3 | next<br>glow<br>trophy |  
+| bip_39_word_new_br4 | next<br>glow<br>trophy<br>borrow |  
+| bip_39_word_new_br5 | next<br>glow<br>trophy<br>borrow<br>already |  
+| bip_39_word_new_br6 | next<br>glow<br>trophy<br>borrow<br>already<br>print |  
+| bip_39_word_new_br7 | next<br>glow<br>trophy<br>borrow<br>already<br>print<br>sponsor |  
+| bip_39_word_new_br8 | next<br>glow<br>trophy<br>borrow<br>already<br>print<br>sponsor<br>mansion |  
+| bip_39_word_new_br9 | next<br>glow<br>trophy<br>borrow<br>already<br>print<br>sponsor<br>mansion<br>pause |  
+| bip_39_word_new_line1 | next |  
+| bip_39_word_new_line10 | next
+glow
+trophy
+borrow
+already
+print
+sponsor
+mansion
+pause
+rabbit |  
+| bip_39_word_new_line11 | next
+glow
+trophy
+borrow
+already
+print
+sponsor
+mansion
+pause
+rabbit
+clog |  
+| bip_39_word_new_line12 | next
+glow
+trophy
+borrow
+already
+print
+sponsor
+mansion
+pause
+rabbit
+clog
+about |  
+| bip_39_word_new_line2 | next
+glow |  
+| bip_39_word_new_line3 | next
+glow
+trophy |  
+| bip_39_word_new_line4 | next
+glow
+trophy
+borrow |  
+| bip_39_word_new_line5 | next
+glow
+trophy
+borrow
+already |  
+| bip_39_word_new_line6 | next
+glow
+trophy
+borrow
+already
+print |  
+| bip_39_word_new_line7 | next
+glow
+trophy
+borrow
+already
+print
+sponsor |  
+| bip_39_word_new_line8 | next
+glow
+trophy
+borrow
+already
+print
+sponsor
+mansion |  
+| bip_39_word_new_line9 | next
+glow
+trophy
+borrow
+already
+print
+sponsor
+mansion
+pause |  
+| bip_39_word_space_0 | ['next', 'glow', 'trophy', 'borrow', 'already', 'print', 'sponsor', 'mansion', 'pause', 'rabbit', 'clog', 'about'] |  
+| bip_39_word_space_1 | next |  
+| bip_39_word_space_10 | next glow trophy borrow already print sponsor mansion pause rabbit |  
+| bip_39_word_space_11 | next glow trophy borrow already print sponsor mansion pause rabbit clog |  
+| bip_39_word_space_12 | next glow trophy borrow already print sponsor mansion pause rabbit clog about |  
+| bip_39_word_space_2 | next glow |  
+| bip_39_word_space_3 | next glow trophy |  
+| bip_39_word_space_4 | next glow trophy borrow |  
+| bip_39_word_space_5 | next glow trophy borrow already |  
+| bip_39_word_space_6 | next glow trophy borrow already print |  
+| bip_39_word_space_7 | next glow trophy borrow already print sponsor |  
+| bip_39_word_space_8 | next glow trophy borrow already print sponsor mansion |  
+| bip_39_word_space_9 | next glow trophy borrow already print sponsor mansion pause |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

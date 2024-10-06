@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microsoft
   * part_number: 1661
+  * bip 39 word 2: process entry
+  * bip 39 word 3: process entry extend
+  * bip 39 word: process entry extend hedgehog similar own army dial penalty cactus hello act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | process |  
+| bip_39_word_new_br10 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own<br>army<br>dial<br>penalty<br>cactus |  
+| bip_39_word_new_br11 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own<br>army<br>dial<br>penalty<br>cactus<br>hello |  
+| bip_39_word_new_br12 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own<br>army<br>dial<br>penalty<br>cactus<br>hello<br>act |  
+| bip_39_word_new_br2 | process<br>entry |  
+| bip_39_word_new_br3 | process<br>entry<br>extend |  
+| bip_39_word_new_br4 | process<br>entry<br>extend<br>hedgehog |  
+| bip_39_word_new_br5 | process<br>entry<br>extend<br>hedgehog<br>similar |  
+| bip_39_word_new_br6 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own |  
+| bip_39_word_new_br7 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own<br>army |  
+| bip_39_word_new_br8 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own<br>army<br>dial |  
+| bip_39_word_new_br9 | process<br>entry<br>extend<br>hedgehog<br>similar<br>own<br>army<br>dial<br>penalty |  
+| bip_39_word_new_line1 | process |  
+| bip_39_word_new_line10 | process
+entry
+extend
+hedgehog
+similar
+own
+army
+dial
+penalty
+cactus |  
+| bip_39_word_new_line11 | process
+entry
+extend
+hedgehog
+similar
+own
+army
+dial
+penalty
+cactus
+hello |  
+| bip_39_word_new_line12 | process
+entry
+extend
+hedgehog
+similar
+own
+army
+dial
+penalty
+cactus
+hello
+act |  
+| bip_39_word_new_line2 | process
+entry |  
+| bip_39_word_new_line3 | process
+entry
+extend |  
+| bip_39_word_new_line4 | process
+entry
+extend
+hedgehog |  
+| bip_39_word_new_line5 | process
+entry
+extend
+hedgehog
+similar |  
+| bip_39_word_new_line6 | process
+entry
+extend
+hedgehog
+similar
+own |  
+| bip_39_word_new_line7 | process
+entry
+extend
+hedgehog
+similar
+own
+army |  
+| bip_39_word_new_line8 | process
+entry
+extend
+hedgehog
+similar
+own
+army
+dial |  
+| bip_39_word_new_line9 | process
+entry
+extend
+hedgehog
+similar
+own
+army
+dial
+penalty |  
+| bip_39_word_space_0 | ['process', 'entry', 'extend', 'hedgehog', 'similar', 'own', 'army', 'dial', 'penalty', 'cactus', 'hello', 'act'] |  
+| bip_39_word_space_1 | process |  
+| bip_39_word_space_10 | process entry extend hedgehog similar own army dial penalty cactus |  
+| bip_39_word_space_11 | process entry extend hedgehog similar own army dial penalty cactus hello |  
+| bip_39_word_space_12 | process entry extend hedgehog similar own army dial penalty cactus hello act |  
+| bip_39_word_space_2 | process entry |  
+| bip_39_word_space_3 | process entry extend |  
+| bip_39_word_space_4 | process entry extend hedgehog |  
+| bip_39_word_space_5 | process entry extend hedgehog similar |  
+| bip_39_word_space_6 | process entry extend hedgehog similar own |  
+| bip_39_word_space_7 | process entry extend hedgehog similar own army |  
+| bip_39_word_space_8 | process entry extend hedgehog similar own army dial |  
+| bip_39_word_space_9 | process entry extend hedgehog similar own army dial penalty |  
 | classification | computer |  
 | classification_capital | Computer |  
 | classification_first_letter | c |  

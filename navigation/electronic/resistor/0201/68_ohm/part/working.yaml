@@ -1,3 +1,185 @@
+bip_39_word_new_br1: owner
+bip_39_word_new_br10: owner<br>float<br>wrap<br>split<br>marine<br>choice<br>belt<br>price<br>suit<br>oval
+bip_39_word_new_br11: owner<br>float<br>wrap<br>split<br>marine<br>choice<br>belt<br>price<br>suit<br>oval<br>provide
+bip_39_word_new_br12: owner<br>float<br>wrap<br>split<br>marine<br>choice<br>belt<br>price<br>suit<br>oval<br>provide<br>annual
+bip_39_word_new_br2: owner<br>float
+bip_39_word_new_br3: owner<br>float<br>wrap
+bip_39_word_new_br4: owner<br>float<br>wrap<br>split
+bip_39_word_new_br5: owner<br>float<br>wrap<br>split<br>marine
+bip_39_word_new_br6: owner<br>float<br>wrap<br>split<br>marine<br>choice
+bip_39_word_new_br7: owner<br>float<br>wrap<br>split<br>marine<br>choice<br>belt
+bip_39_word_new_br8: owner<br>float<br>wrap<br>split<br>marine<br>choice<br>belt<br>price
+bip_39_word_new_br9: owner<br>float<br>wrap<br>split<br>marine<br>choice<br>belt<br>price<br>suit
+bip_39_word_new_line1: owner
+bip_39_word_new_line10: 'owner
+
+  float
+
+  wrap
+
+  split
+
+  marine
+
+  choice
+
+  belt
+
+  price
+
+  suit
+
+  oval'
+bip_39_word_new_line11: 'owner
+
+  float
+
+  wrap
+
+  split
+
+  marine
+
+  choice
+
+  belt
+
+  price
+
+  suit
+
+  oval
+
+  provide'
+bip_39_word_new_line12: 'owner
+
+  float
+
+  wrap
+
+  split
+
+  marine
+
+  choice
+
+  belt
+
+  price
+
+  suit
+
+  oval
+
+  provide
+
+  annual'
+bip_39_word_new_line2: 'owner
+
+  float'
+bip_39_word_new_line3: 'owner
+
+  float
+
+  wrap'
+bip_39_word_new_line4: 'owner
+
+  float
+
+  wrap
+
+  split'
+bip_39_word_new_line5: 'owner
+
+  float
+
+  wrap
+
+  split
+
+  marine'
+bip_39_word_new_line6: 'owner
+
+  float
+
+  wrap
+
+  split
+
+  marine
+
+  choice'
+bip_39_word_new_line7: 'owner
+
+  float
+
+  wrap
+
+  split
+
+  marine
+
+  choice
+
+  belt'
+bip_39_word_new_line8: 'owner
+
+  float
+
+  wrap
+
+  split
+
+  marine
+
+  choice
+
+  belt
+
+  price'
+bip_39_word_new_line9: 'owner
+
+  float
+
+  wrap
+
+  split
+
+  marine
+
+  choice
+
+  belt
+
+  price
+
+  suit'
+bip_39_word_space_0:
+- owner
+- float
+- wrap
+- split
+- marine
+- choice
+- belt
+- price
+- suit
+- oval
+- provide
+- annual
+bip_39_word_space_1: owner
+bip_39_word_space_10: owner float wrap split marine choice belt price suit oval
+bip_39_word_space_11: owner float wrap split marine choice belt price suit oval provide
+bip_39_word_space_12: owner float wrap split marine choice belt price suit oval provide
+  annual
+bip_39_word_space_2: owner float
+bip_39_word_space_3: owner float wrap
+bip_39_word_space_4: owner float wrap split
+bip_39_word_space_5: owner float wrap split marine
+bip_39_word_space_6: owner float wrap split marine choice
+bip_39_word_space_7: owner float wrap split marine choice belt
+bip_39_word_space_8: owner float wrap split marine choice belt price
+bip_39_word_space_9: owner float wrap split marine choice belt price suit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

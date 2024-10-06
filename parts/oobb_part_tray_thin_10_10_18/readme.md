@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: goat unknown
+  * bip 39 word 3: goat unknown era
+  * bip 39 word: goat unknown era grace regret craft marble flee theme update host acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | goat |  
+| bip_39_word_new_br10 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update |  
+| bip_39_word_new_br11 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update<br>host |  
+| bip_39_word_new_br12 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme<br>update<br>host<br>acid |  
+| bip_39_word_new_br2 | goat<br>unknown |  
+| bip_39_word_new_br3 | goat<br>unknown<br>era |  
+| bip_39_word_new_br4 | goat<br>unknown<br>era<br>grace |  
+| bip_39_word_new_br5 | goat<br>unknown<br>era<br>grace<br>regret |  
+| bip_39_word_new_br6 | goat<br>unknown<br>era<br>grace<br>regret<br>craft |  
+| bip_39_word_new_br7 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble |  
+| bip_39_word_new_br8 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee |  
+| bip_39_word_new_br9 | goat<br>unknown<br>era<br>grace<br>regret<br>craft<br>marble<br>flee<br>theme |  
+| bip_39_word_new_line1 | goat |  
+| bip_39_word_new_line10 | goat
+unknown
+era
+grace
+regret
+craft
+marble
+flee
+theme
+update |  
+| bip_39_word_new_line11 | goat
+unknown
+era
+grace
+regret
+craft
+marble
+flee
+theme
+update
+host |  
+| bip_39_word_new_line12 | goat
+unknown
+era
+grace
+regret
+craft
+marble
+flee
+theme
+update
+host
+acid |  
+| bip_39_word_new_line2 | goat
+unknown |  
+| bip_39_word_new_line3 | goat
+unknown
+era |  
+| bip_39_word_new_line4 | goat
+unknown
+era
+grace |  
+| bip_39_word_new_line5 | goat
+unknown
+era
+grace
+regret |  
+| bip_39_word_new_line6 | goat
+unknown
+era
+grace
+regret
+craft |  
+| bip_39_word_new_line7 | goat
+unknown
+era
+grace
+regret
+craft
+marble |  
+| bip_39_word_new_line8 | goat
+unknown
+era
+grace
+regret
+craft
+marble
+flee |  
+| bip_39_word_new_line9 | goat
+unknown
+era
+grace
+regret
+craft
+marble
+flee
+theme |  
+| bip_39_word_space_0 | ['goat', 'unknown', 'era', 'grace', 'regret', 'craft', 'marble', 'flee', 'theme', 'update', 'host', 'acid'] |  
+| bip_39_word_space_1 | goat |  
+| bip_39_word_space_10 | goat unknown era grace regret craft marble flee theme update |  
+| bip_39_word_space_11 | goat unknown era grace regret craft marble flee theme update host |  
+| bip_39_word_space_12 | goat unknown era grace regret craft marble flee theme update host acid |  
+| bip_39_word_space_2 | goat unknown |  
+| bip_39_word_space_3 | goat unknown era |  
+| bip_39_word_space_4 | goat unknown era grace |  
+| bip_39_word_space_5 | goat unknown era grace regret |  
+| bip_39_word_space_6 | goat unknown era grace regret craft |  
+| bip_39_word_space_7 | goat unknown era grace regret craft marble |  
+| bip_39_word_space_8 | goat unknown era grace regret craft marble flee |  
+| bip_39_word_space_9 | goat unknown era grace regret craft marble flee theme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

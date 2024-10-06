@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: witness tent
+  * bip 39 word 3: witness tent rapid
+  * bip 39 word: witness tent rapid black library tired mushroom material rare upset beef around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | witness |  
+| bip_39_word_new_br10 | witness<br>tent<br>rapid<br>black<br>library<br>tired<br>mushroom<br>material<br>rare<br>upset |  
+| bip_39_word_new_br11 | witness<br>tent<br>rapid<br>black<br>library<br>tired<br>mushroom<br>material<br>rare<br>upset<br>beef |  
+| bip_39_word_new_br12 | witness<br>tent<br>rapid<br>black<br>library<br>tired<br>mushroom<br>material<br>rare<br>upset<br>beef<br>around |  
+| bip_39_word_new_br2 | witness<br>tent |  
+| bip_39_word_new_br3 | witness<br>tent<br>rapid |  
+| bip_39_word_new_br4 | witness<br>tent<br>rapid<br>black |  
+| bip_39_word_new_br5 | witness<br>tent<br>rapid<br>black<br>library |  
+| bip_39_word_new_br6 | witness<br>tent<br>rapid<br>black<br>library<br>tired |  
+| bip_39_word_new_br7 | witness<br>tent<br>rapid<br>black<br>library<br>tired<br>mushroom |  
+| bip_39_word_new_br8 | witness<br>tent<br>rapid<br>black<br>library<br>tired<br>mushroom<br>material |  
+| bip_39_word_new_br9 | witness<br>tent<br>rapid<br>black<br>library<br>tired<br>mushroom<br>material<br>rare |  
+| bip_39_word_new_line1 | witness |  
+| bip_39_word_new_line10 | witness
+tent
+rapid
+black
+library
+tired
+mushroom
+material
+rare
+upset |  
+| bip_39_word_new_line11 | witness
+tent
+rapid
+black
+library
+tired
+mushroom
+material
+rare
+upset
+beef |  
+| bip_39_word_new_line12 | witness
+tent
+rapid
+black
+library
+tired
+mushroom
+material
+rare
+upset
+beef
+around |  
+| bip_39_word_new_line2 | witness
+tent |  
+| bip_39_word_new_line3 | witness
+tent
+rapid |  
+| bip_39_word_new_line4 | witness
+tent
+rapid
+black |  
+| bip_39_word_new_line5 | witness
+tent
+rapid
+black
+library |  
+| bip_39_word_new_line6 | witness
+tent
+rapid
+black
+library
+tired |  
+| bip_39_word_new_line7 | witness
+tent
+rapid
+black
+library
+tired
+mushroom |  
+| bip_39_word_new_line8 | witness
+tent
+rapid
+black
+library
+tired
+mushroom
+material |  
+| bip_39_word_new_line9 | witness
+tent
+rapid
+black
+library
+tired
+mushroom
+material
+rare |  
+| bip_39_word_space_0 | ['witness', 'tent', 'rapid', 'black', 'library', 'tired', 'mushroom', 'material', 'rare', 'upset', 'beef', 'around'] |  
+| bip_39_word_space_1 | witness |  
+| bip_39_word_space_10 | witness tent rapid black library tired mushroom material rare upset |  
+| bip_39_word_space_11 | witness tent rapid black library tired mushroom material rare upset beef |  
+| bip_39_word_space_12 | witness tent rapid black library tired mushroom material rare upset beef around |  
+| bip_39_word_space_2 | witness tent |  
+| bip_39_word_space_3 | witness tent rapid |  
+| bip_39_word_space_4 | witness tent rapid black |  
+| bip_39_word_space_5 | witness tent rapid black library |  
+| bip_39_word_space_6 | witness tent rapid black library tired |  
+| bip_39_word_space_7 | witness tent rapid black library tired mushroom |  
+| bip_39_word_space_8 | witness tent rapid black library tired mushroom material |  
+| bip_39_word_space_9 | witness tent rapid black library tired mushroom material rare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

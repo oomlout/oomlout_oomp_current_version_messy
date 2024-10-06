@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: citizen eye
+  * bip 39 word 3: citizen eye kitten
+  * bip 39 word: citizen eye kitten flavor paddle drastic addict umbrella relax crane day address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | citizen |  
+| bip_39_word_new_br10 | citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella<br>relax<br>crane |  
+| bip_39_word_new_br11 | citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella<br>relax<br>crane<br>day |  
+| bip_39_word_new_br12 | citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella<br>relax<br>crane<br>day<br>address |  
+| bip_39_word_new_br2 | citizen<br>eye |  
+| bip_39_word_new_br3 | citizen<br>eye<br>kitten |  
+| bip_39_word_new_br4 | citizen<br>eye<br>kitten<br>flavor |  
+| bip_39_word_new_br5 | citizen<br>eye<br>kitten<br>flavor<br>paddle |  
+| bip_39_word_new_br6 | citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic |  
+| bip_39_word_new_br7 | citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict |  
+| bip_39_word_new_br8 | citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella |  
+| bip_39_word_new_br9 | citizen<br>eye<br>kitten<br>flavor<br>paddle<br>drastic<br>addict<br>umbrella<br>relax |  
+| bip_39_word_new_line1 | citizen |  
+| bip_39_word_new_line10 | citizen
+eye
+kitten
+flavor
+paddle
+drastic
+addict
+umbrella
+relax
+crane |  
+| bip_39_word_new_line11 | citizen
+eye
+kitten
+flavor
+paddle
+drastic
+addict
+umbrella
+relax
+crane
+day |  
+| bip_39_word_new_line12 | citizen
+eye
+kitten
+flavor
+paddle
+drastic
+addict
+umbrella
+relax
+crane
+day
+address |  
+| bip_39_word_new_line2 | citizen
+eye |  
+| bip_39_word_new_line3 | citizen
+eye
+kitten |  
+| bip_39_word_new_line4 | citizen
+eye
+kitten
+flavor |  
+| bip_39_word_new_line5 | citizen
+eye
+kitten
+flavor
+paddle |  
+| bip_39_word_new_line6 | citizen
+eye
+kitten
+flavor
+paddle
+drastic |  
+| bip_39_word_new_line7 | citizen
+eye
+kitten
+flavor
+paddle
+drastic
+addict |  
+| bip_39_word_new_line8 | citizen
+eye
+kitten
+flavor
+paddle
+drastic
+addict
+umbrella |  
+| bip_39_word_new_line9 | citizen
+eye
+kitten
+flavor
+paddle
+drastic
+addict
+umbrella
+relax |  
+| bip_39_word_space_0 | ['citizen', 'eye', 'kitten', 'flavor', 'paddle', 'drastic', 'addict', 'umbrella', 'relax', 'crane', 'day', 'address'] |  
+| bip_39_word_space_1 | citizen |  
+| bip_39_word_space_10 | citizen eye kitten flavor paddle drastic addict umbrella relax crane |  
+| bip_39_word_space_11 | citizen eye kitten flavor paddle drastic addict umbrella relax crane day |  
+| bip_39_word_space_12 | citizen eye kitten flavor paddle drastic addict umbrella relax crane day address |  
+| bip_39_word_space_2 | citizen eye |  
+| bip_39_word_space_3 | citizen eye kitten |  
+| bip_39_word_space_4 | citizen eye kitten flavor |  
+| bip_39_word_space_5 | citizen eye kitten flavor paddle |  
+| bip_39_word_space_6 | citizen eye kitten flavor paddle drastic |  
+| bip_39_word_space_7 | citizen eye kitten flavor paddle drastic addict |  
+| bip_39_word_space_8 | citizen eye kitten flavor paddle drastic addict umbrella |  
+| bip_39_word_space_9 | citizen eye kitten flavor paddle drastic addict umbrella relax |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

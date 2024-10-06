@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: situate urge
+  * bip 39 word 3: situate urge truck
+  * bip 39 word: situate urge truck during link decrease decline puppy cream agent april attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | situate |  
+| bip_39_word_new_br10 | situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent |  
+| bip_39_word_new_br11 | situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent<br>april |  
+| bip_39_word_new_br12 | situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream<br>agent<br>april<br>attack |  
+| bip_39_word_new_br2 | situate<br>urge |  
+| bip_39_word_new_br3 | situate<br>urge<br>truck |  
+| bip_39_word_new_br4 | situate<br>urge<br>truck<br>during |  
+| bip_39_word_new_br5 | situate<br>urge<br>truck<br>during<br>link |  
+| bip_39_word_new_br6 | situate<br>urge<br>truck<br>during<br>link<br>decrease |  
+| bip_39_word_new_br7 | situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline |  
+| bip_39_word_new_br8 | situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy |  
+| bip_39_word_new_br9 | situate<br>urge<br>truck<br>during<br>link<br>decrease<br>decline<br>puppy<br>cream |  
+| bip_39_word_new_line1 | situate |  
+| bip_39_word_new_line10 | situate
+urge
+truck
+during
+link
+decrease
+decline
+puppy
+cream
+agent |  
+| bip_39_word_new_line11 | situate
+urge
+truck
+during
+link
+decrease
+decline
+puppy
+cream
+agent
+april |  
+| bip_39_word_new_line12 | situate
+urge
+truck
+during
+link
+decrease
+decline
+puppy
+cream
+agent
+april
+attack |  
+| bip_39_word_new_line2 | situate
+urge |  
+| bip_39_word_new_line3 | situate
+urge
+truck |  
+| bip_39_word_new_line4 | situate
+urge
+truck
+during |  
+| bip_39_word_new_line5 | situate
+urge
+truck
+during
+link |  
+| bip_39_word_new_line6 | situate
+urge
+truck
+during
+link
+decrease |  
+| bip_39_word_new_line7 | situate
+urge
+truck
+during
+link
+decrease
+decline |  
+| bip_39_word_new_line8 | situate
+urge
+truck
+during
+link
+decrease
+decline
+puppy |  
+| bip_39_word_new_line9 | situate
+urge
+truck
+during
+link
+decrease
+decline
+puppy
+cream |  
+| bip_39_word_space_0 | ['situate', 'urge', 'truck', 'during', 'link', 'decrease', 'decline', 'puppy', 'cream', 'agent', 'april', 'attack'] |  
+| bip_39_word_space_1 | situate |  
+| bip_39_word_space_10 | situate urge truck during link decrease decline puppy cream agent |  
+| bip_39_word_space_11 | situate urge truck during link decrease decline puppy cream agent april |  
+| bip_39_word_space_12 | situate urge truck during link decrease decline puppy cream agent april attack |  
+| bip_39_word_space_2 | situate urge |  
+| bip_39_word_space_3 | situate urge truck |  
+| bip_39_word_space_4 | situate urge truck during |  
+| bip_39_word_space_5 | situate urge truck during link |  
+| bip_39_word_space_6 | situate urge truck during link decrease |  
+| bip_39_word_space_7 | situate urge truck during link decrease decline |  
+| bip_39_word_space_8 | situate urge truck during link decrease decline puppy |  
+| bip_39_word_space_9 | situate urge truck during link decrease decline puppy cream |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

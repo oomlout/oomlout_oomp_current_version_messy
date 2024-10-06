@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: object chief
+  * bip 39 word 3: object chief spatial
+  * bip 39 word: object chief spatial spatial mechanic object country planet scrap bid test attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | object |  
+| bip_39_word_new_br10 | object<br>chief<br>spatial<br>spatial<br>mechanic<br>object<br>country<br>planet<br>scrap<br>bid |  
+| bip_39_word_new_br11 | object<br>chief<br>spatial<br>spatial<br>mechanic<br>object<br>country<br>planet<br>scrap<br>bid<br>test |  
+| bip_39_word_new_br12 | object<br>chief<br>spatial<br>spatial<br>mechanic<br>object<br>country<br>planet<br>scrap<br>bid<br>test<br>attitude |  
+| bip_39_word_new_br2 | object<br>chief |  
+| bip_39_word_new_br3 | object<br>chief<br>spatial |  
+| bip_39_word_new_br4 | object<br>chief<br>spatial<br>spatial |  
+| bip_39_word_new_br5 | object<br>chief<br>spatial<br>spatial<br>mechanic |  
+| bip_39_word_new_br6 | object<br>chief<br>spatial<br>spatial<br>mechanic<br>object |  
+| bip_39_word_new_br7 | object<br>chief<br>spatial<br>spatial<br>mechanic<br>object<br>country |  
+| bip_39_word_new_br8 | object<br>chief<br>spatial<br>spatial<br>mechanic<br>object<br>country<br>planet |  
+| bip_39_word_new_br9 | object<br>chief<br>spatial<br>spatial<br>mechanic<br>object<br>country<br>planet<br>scrap |  
+| bip_39_word_new_line1 | object |  
+| bip_39_word_new_line10 | object
+chief
+spatial
+spatial
+mechanic
+object
+country
+planet
+scrap
+bid |  
+| bip_39_word_new_line11 | object
+chief
+spatial
+spatial
+mechanic
+object
+country
+planet
+scrap
+bid
+test |  
+| bip_39_word_new_line12 | object
+chief
+spatial
+spatial
+mechanic
+object
+country
+planet
+scrap
+bid
+test
+attitude |  
+| bip_39_word_new_line2 | object
+chief |  
+| bip_39_word_new_line3 | object
+chief
+spatial |  
+| bip_39_word_new_line4 | object
+chief
+spatial
+spatial |  
+| bip_39_word_new_line5 | object
+chief
+spatial
+spatial
+mechanic |  
+| bip_39_word_new_line6 | object
+chief
+spatial
+spatial
+mechanic
+object |  
+| bip_39_word_new_line7 | object
+chief
+spatial
+spatial
+mechanic
+object
+country |  
+| bip_39_word_new_line8 | object
+chief
+spatial
+spatial
+mechanic
+object
+country
+planet |  
+| bip_39_word_new_line9 | object
+chief
+spatial
+spatial
+mechanic
+object
+country
+planet
+scrap |  
+| bip_39_word_space_0 | ['object', 'chief', 'spatial', 'spatial', 'mechanic', 'object', 'country', 'planet', 'scrap', 'bid', 'test', 'attitude'] |  
+| bip_39_word_space_1 | object |  
+| bip_39_word_space_10 | object chief spatial spatial mechanic object country planet scrap bid |  
+| bip_39_word_space_11 | object chief spatial spatial mechanic object country planet scrap bid test |  
+| bip_39_word_space_12 | object chief spatial spatial mechanic object country planet scrap bid test attitude |  
+| bip_39_word_space_2 | object chief |  
+| bip_39_word_space_3 | object chief spatial |  
+| bip_39_word_space_4 | object chief spatial spatial |  
+| bip_39_word_space_5 | object chief spatial spatial mechanic |  
+| bip_39_word_space_6 | object chief spatial spatial mechanic object |  
+| bip_39_word_space_7 | object chief spatial spatial mechanic object country |  
+| bip_39_word_space_8 | object chief spatial spatial mechanic object country planet |  
+| bip_39_word_space_9 | object chief spatial spatial mechanic object country planet scrap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

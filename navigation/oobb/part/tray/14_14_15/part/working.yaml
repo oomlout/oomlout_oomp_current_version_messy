@@ -1,3 +1,186 @@
+bip_39_word_new_br1: response
+bip_39_word_new_br10: response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit
+bip_39_word_new_br11: response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit<br>oval
+bip_39_word_new_br12: response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture<br>admit<br>oval<br>add
+bip_39_word_new_br2: response<br>build
+bip_39_word_new_br3: response<br>build<br>logic
+bip_39_word_new_br4: response<br>build<br>logic<br>erase
+bip_39_word_new_br5: response<br>build<br>logic<br>erase<br>dismiss
+bip_39_word_new_br6: response<br>build<br>logic<br>erase<br>dismiss<br>match
+bip_39_word_new_br7: response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet
+bip_39_word_new_br8: response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn
+bip_39_word_new_br9: response<br>build<br>logic<br>erase<br>dismiss<br>match<br>wet<br>lawn<br>lecture
+bip_39_word_new_line1: response
+bip_39_word_new_line10: 'response
+
+  build
+
+  logic
+
+  erase
+
+  dismiss
+
+  match
+
+  wet
+
+  lawn
+
+  lecture
+
+  admit'
+bip_39_word_new_line11: 'response
+
+  build
+
+  logic
+
+  erase
+
+  dismiss
+
+  match
+
+  wet
+
+  lawn
+
+  lecture
+
+  admit
+
+  oval'
+bip_39_word_new_line12: 'response
+
+  build
+
+  logic
+
+  erase
+
+  dismiss
+
+  match
+
+  wet
+
+  lawn
+
+  lecture
+
+  admit
+
+  oval
+
+  add'
+bip_39_word_new_line2: 'response
+
+  build'
+bip_39_word_new_line3: 'response
+
+  build
+
+  logic'
+bip_39_word_new_line4: 'response
+
+  build
+
+  logic
+
+  erase'
+bip_39_word_new_line5: 'response
+
+  build
+
+  logic
+
+  erase
+
+  dismiss'
+bip_39_word_new_line6: 'response
+
+  build
+
+  logic
+
+  erase
+
+  dismiss
+
+  match'
+bip_39_word_new_line7: 'response
+
+  build
+
+  logic
+
+  erase
+
+  dismiss
+
+  match
+
+  wet'
+bip_39_word_new_line8: 'response
+
+  build
+
+  logic
+
+  erase
+
+  dismiss
+
+  match
+
+  wet
+
+  lawn'
+bip_39_word_new_line9: 'response
+
+  build
+
+  logic
+
+  erase
+
+  dismiss
+
+  match
+
+  wet
+
+  lawn
+
+  lecture'
+bip_39_word_space_0:
+- response
+- build
+- logic
+- erase
+- dismiss
+- match
+- wet
+- lawn
+- lecture
+- admit
+- oval
+- add
+bip_39_word_space_1: response
+bip_39_word_space_10: response build logic erase dismiss match wet lawn lecture admit
+bip_39_word_space_11: response build logic erase dismiss match wet lawn lecture admit
+  oval
+bip_39_word_space_12: response build logic erase dismiss match wet lawn lecture admit
+  oval add
+bip_39_word_space_2: response build
+bip_39_word_space_3: response build logic
+bip_39_word_space_4: response build logic erase
+bip_39_word_space_5: response build logic erase dismiss
+bip_39_word_space_6: response build logic erase dismiss match
+bip_39_word_space_7: response build logic erase dismiss match wet
+bip_39_word_space_8: response build logic erase dismiss match wet lawn
+bip_39_word_space_9: response build logic erase dismiss match wet lawn lecture
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

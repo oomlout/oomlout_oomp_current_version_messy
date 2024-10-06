@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: correct engine
+  * bip 39 word 3: correct engine monster
+  * bip 39 word: correct engine monster fall ordinary file gentle rug guide palm caution another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | correct |  
+| bip_39_word_new_br10 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm |  
+| bip_39_word_new_br11 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm<br>caution |  
+| bip_39_word_new_br12 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide<br>palm<br>caution<br>another |  
+| bip_39_word_new_br2 | correct<br>engine |  
+| bip_39_word_new_br3 | correct<br>engine<br>monster |  
+| bip_39_word_new_br4 | correct<br>engine<br>monster<br>fall |  
+| bip_39_word_new_br5 | correct<br>engine<br>monster<br>fall<br>ordinary |  
+| bip_39_word_new_br6 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file |  
+| bip_39_word_new_br7 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle |  
+| bip_39_word_new_br8 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug |  
+| bip_39_word_new_br9 | correct<br>engine<br>monster<br>fall<br>ordinary<br>file<br>gentle<br>rug<br>guide |  
+| bip_39_word_new_line1 | correct |  
+| bip_39_word_new_line10 | correct
+engine
+monster
+fall
+ordinary
+file
+gentle
+rug
+guide
+palm |  
+| bip_39_word_new_line11 | correct
+engine
+monster
+fall
+ordinary
+file
+gentle
+rug
+guide
+palm
+caution |  
+| bip_39_word_new_line12 | correct
+engine
+monster
+fall
+ordinary
+file
+gentle
+rug
+guide
+palm
+caution
+another |  
+| bip_39_word_new_line2 | correct
+engine |  
+| bip_39_word_new_line3 | correct
+engine
+monster |  
+| bip_39_word_new_line4 | correct
+engine
+monster
+fall |  
+| bip_39_word_new_line5 | correct
+engine
+monster
+fall
+ordinary |  
+| bip_39_word_new_line6 | correct
+engine
+monster
+fall
+ordinary
+file |  
+| bip_39_word_new_line7 | correct
+engine
+monster
+fall
+ordinary
+file
+gentle |  
+| bip_39_word_new_line8 | correct
+engine
+monster
+fall
+ordinary
+file
+gentle
+rug |  
+| bip_39_word_new_line9 | correct
+engine
+monster
+fall
+ordinary
+file
+gentle
+rug
+guide |  
+| bip_39_word_space_0 | ['correct', 'engine', 'monster', 'fall', 'ordinary', 'file', 'gentle', 'rug', 'guide', 'palm', 'caution', 'another'] |  
+| bip_39_word_space_1 | correct |  
+| bip_39_word_space_10 | correct engine monster fall ordinary file gentle rug guide palm |  
+| bip_39_word_space_11 | correct engine monster fall ordinary file gentle rug guide palm caution |  
+| bip_39_word_space_12 | correct engine monster fall ordinary file gentle rug guide palm caution another |  
+| bip_39_word_space_2 | correct engine |  
+| bip_39_word_space_3 | correct engine monster |  
+| bip_39_word_space_4 | correct engine monster fall |  
+| bip_39_word_space_5 | correct engine monster fall ordinary |  
+| bip_39_word_space_6 | correct engine monster fall ordinary file |  
+| bip_39_word_space_7 | correct engine monster fall ordinary file gentle |  
+| bip_39_word_space_8 | correct engine monster fall ordinary file gentle rug |  
+| bip_39_word_space_9 | correct engine monster fall ordinary file gentle rug guide |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

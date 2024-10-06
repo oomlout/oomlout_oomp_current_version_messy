@@ -1,3 +1,186 @@
+bip_39_word_new_br1: praise
+bip_39_word_new_br10: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid
+bip_39_word_new_br11: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice
+bip_39_word_new_br12: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice<br>accident
+bip_39_word_new_br2: praise<br>insect
+bip_39_word_new_br3: praise<br>insect<br>lady
+bip_39_word_new_br4: praise<br>insect<br>lady<br>invest
+bip_39_word_new_br5: praise<br>insect<br>lady<br>invest<br>vacuum
+bip_39_word_new_br6: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed
+bip_39_word_new_br7: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly
+bip_39_word_new_br8: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story
+bip_39_word_new_br9: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance
+bip_39_word_new_line1: praise
+bip_39_word_new_line10: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story
+
+  balance
+
+  hybrid'
+bip_39_word_new_line11: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story
+
+  balance
+
+  hybrid
+
+  spice'
+bip_39_word_new_line12: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story
+
+  balance
+
+  hybrid
+
+  spice
+
+  accident'
+bip_39_word_new_line2: 'praise
+
+  insect'
+bip_39_word_new_line3: 'praise
+
+  insect
+
+  lady'
+bip_39_word_new_line4: 'praise
+
+  insect
+
+  lady
+
+  invest'
+bip_39_word_new_line5: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum'
+bip_39_word_new_line6: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed'
+bip_39_word_new_line7: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly'
+bip_39_word_new_line8: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story'
+bip_39_word_new_line9: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story
+
+  balance'
+bip_39_word_space_0:
+- praise
+- insect
+- lady
+- invest
+- vacuum
+- armed
+- truly
+- story
+- balance
+- hybrid
+- spice
+- accident
+bip_39_word_space_1: praise
+bip_39_word_space_10: praise insect lady invest vacuum armed truly story balance hybrid
+bip_39_word_space_11: praise insect lady invest vacuum armed truly story balance hybrid
+  spice
+bip_39_word_space_12: praise insect lady invest vacuum armed truly story balance hybrid
+  spice accident
+bip_39_word_space_2: praise insect
+bip_39_word_space_3: praise insect lady
+bip_39_word_space_4: praise insect lady invest
+bip_39_word_space_5: praise insect lady invest vacuum
+bip_39_word_space_6: praise insect lady invest vacuum armed
+bip_39_word_space_7: praise insect lady invest vacuum armed truly
+bip_39_word_space_8: praise insect lady invest vacuum armed truly story
+bip_39_word_space_9: praise insect lady invest vacuum armed truly story balance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

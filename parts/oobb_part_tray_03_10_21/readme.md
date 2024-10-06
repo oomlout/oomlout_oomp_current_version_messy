@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shock essence
+  * bip 39 word 3: shock essence scout
+  * bip 39 word: shock essence scout best prosper garment riot spatial remember wheat scatter access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shock |  
+| bip_39_word_new_br10 | shock<br>essence<br>scout<br>best<br>prosper<br>garment<br>riot<br>spatial<br>remember<br>wheat |  
+| bip_39_word_new_br11 | shock<br>essence<br>scout<br>best<br>prosper<br>garment<br>riot<br>spatial<br>remember<br>wheat<br>scatter |  
+| bip_39_word_new_br12 | shock<br>essence<br>scout<br>best<br>prosper<br>garment<br>riot<br>spatial<br>remember<br>wheat<br>scatter<br>access |  
+| bip_39_word_new_br2 | shock<br>essence |  
+| bip_39_word_new_br3 | shock<br>essence<br>scout |  
+| bip_39_word_new_br4 | shock<br>essence<br>scout<br>best |  
+| bip_39_word_new_br5 | shock<br>essence<br>scout<br>best<br>prosper |  
+| bip_39_word_new_br6 | shock<br>essence<br>scout<br>best<br>prosper<br>garment |  
+| bip_39_word_new_br7 | shock<br>essence<br>scout<br>best<br>prosper<br>garment<br>riot |  
+| bip_39_word_new_br8 | shock<br>essence<br>scout<br>best<br>prosper<br>garment<br>riot<br>spatial |  
+| bip_39_word_new_br9 | shock<br>essence<br>scout<br>best<br>prosper<br>garment<br>riot<br>spatial<br>remember |  
+| bip_39_word_new_line1 | shock |  
+| bip_39_word_new_line10 | shock
+essence
+scout
+best
+prosper
+garment
+riot
+spatial
+remember
+wheat |  
+| bip_39_word_new_line11 | shock
+essence
+scout
+best
+prosper
+garment
+riot
+spatial
+remember
+wheat
+scatter |  
+| bip_39_word_new_line12 | shock
+essence
+scout
+best
+prosper
+garment
+riot
+spatial
+remember
+wheat
+scatter
+access |  
+| bip_39_word_new_line2 | shock
+essence |  
+| bip_39_word_new_line3 | shock
+essence
+scout |  
+| bip_39_word_new_line4 | shock
+essence
+scout
+best |  
+| bip_39_word_new_line5 | shock
+essence
+scout
+best
+prosper |  
+| bip_39_word_new_line6 | shock
+essence
+scout
+best
+prosper
+garment |  
+| bip_39_word_new_line7 | shock
+essence
+scout
+best
+prosper
+garment
+riot |  
+| bip_39_word_new_line8 | shock
+essence
+scout
+best
+prosper
+garment
+riot
+spatial |  
+| bip_39_word_new_line9 | shock
+essence
+scout
+best
+prosper
+garment
+riot
+spatial
+remember |  
+| bip_39_word_space_0 | ['shock', 'essence', 'scout', 'best', 'prosper', 'garment', 'riot', 'spatial', 'remember', 'wheat', 'scatter', 'access'] |  
+| bip_39_word_space_1 | shock |  
+| bip_39_word_space_10 | shock essence scout best prosper garment riot spatial remember wheat |  
+| bip_39_word_space_11 | shock essence scout best prosper garment riot spatial remember wheat scatter |  
+| bip_39_word_space_12 | shock essence scout best prosper garment riot spatial remember wheat scatter access |  
+| bip_39_word_space_2 | shock essence |  
+| bip_39_word_space_3 | shock essence scout |  
+| bip_39_word_space_4 | shock essence scout best |  
+| bip_39_word_space_5 | shock essence scout best prosper |  
+| bip_39_word_space_6 | shock essence scout best prosper garment |  
+| bip_39_word_space_7 | shock essence scout best prosper garment riot |  
+| bip_39_word_space_8 | shock essence scout best prosper garment riot spatial |  
+| bip_39_word_space_9 | shock essence scout best prosper garment riot spatial remember |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

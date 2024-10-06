@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coach art
+  * bip 39 word 3: coach art update
+  * bip 39 word: coach art update echo dance half shoot shrimp half term glove actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coach |  
+| bip_39_word_new_br10 | coach<br>art<br>update<br>echo<br>dance<br>half<br>shoot<br>shrimp<br>half<br>term |  
+| bip_39_word_new_br11 | coach<br>art<br>update<br>echo<br>dance<br>half<br>shoot<br>shrimp<br>half<br>term<br>glove |  
+| bip_39_word_new_br12 | coach<br>art<br>update<br>echo<br>dance<br>half<br>shoot<br>shrimp<br>half<br>term<br>glove<br>actress |  
+| bip_39_word_new_br2 | coach<br>art |  
+| bip_39_word_new_br3 | coach<br>art<br>update |  
+| bip_39_word_new_br4 | coach<br>art<br>update<br>echo |  
+| bip_39_word_new_br5 | coach<br>art<br>update<br>echo<br>dance |  
+| bip_39_word_new_br6 | coach<br>art<br>update<br>echo<br>dance<br>half |  
+| bip_39_word_new_br7 | coach<br>art<br>update<br>echo<br>dance<br>half<br>shoot |  
+| bip_39_word_new_br8 | coach<br>art<br>update<br>echo<br>dance<br>half<br>shoot<br>shrimp |  
+| bip_39_word_new_br9 | coach<br>art<br>update<br>echo<br>dance<br>half<br>shoot<br>shrimp<br>half |  
+| bip_39_word_new_line1 | coach |  
+| bip_39_word_new_line10 | coach
+art
+update
+echo
+dance
+half
+shoot
+shrimp
+half
+term |  
+| bip_39_word_new_line11 | coach
+art
+update
+echo
+dance
+half
+shoot
+shrimp
+half
+term
+glove |  
+| bip_39_word_new_line12 | coach
+art
+update
+echo
+dance
+half
+shoot
+shrimp
+half
+term
+glove
+actress |  
+| bip_39_word_new_line2 | coach
+art |  
+| bip_39_word_new_line3 | coach
+art
+update |  
+| bip_39_word_new_line4 | coach
+art
+update
+echo |  
+| bip_39_word_new_line5 | coach
+art
+update
+echo
+dance |  
+| bip_39_word_new_line6 | coach
+art
+update
+echo
+dance
+half |  
+| bip_39_word_new_line7 | coach
+art
+update
+echo
+dance
+half
+shoot |  
+| bip_39_word_new_line8 | coach
+art
+update
+echo
+dance
+half
+shoot
+shrimp |  
+| bip_39_word_new_line9 | coach
+art
+update
+echo
+dance
+half
+shoot
+shrimp
+half |  
+| bip_39_word_space_0 | ['coach', 'art', 'update', 'echo', 'dance', 'half', 'shoot', 'shrimp', 'half', 'term', 'glove', 'actress'] |  
+| bip_39_word_space_1 | coach |  
+| bip_39_word_space_10 | coach art update echo dance half shoot shrimp half term |  
+| bip_39_word_space_11 | coach art update echo dance half shoot shrimp half term glove |  
+| bip_39_word_space_12 | coach art update echo dance half shoot shrimp half term glove actress |  
+| bip_39_word_space_2 | coach art |  
+| bip_39_word_space_3 | coach art update |  
+| bip_39_word_space_4 | coach art update echo |  
+| bip_39_word_space_5 | coach art update echo dance |  
+| bip_39_word_space_6 | coach art update echo dance half |  
+| bip_39_word_space_7 | coach art update echo dance half shoot |  
+| bip_39_word_space_8 | coach art update echo dance half shoot shrimp |  
+| bip_39_word_space_9 | coach art update echo dance half shoot shrimp half |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

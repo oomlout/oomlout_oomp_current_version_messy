@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bind unhappy
+  * bip 39 word 3: bind unhappy mountain
+  * bip 39 word: bind unhappy mountain bulb misery enjoy daring dawn shallow decline velvet affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bind |  
+| bip_39_word_new_br10 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy<br>daring<br>dawn<br>shallow<br>decline |  
+| bip_39_word_new_br11 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy<br>daring<br>dawn<br>shallow<br>decline<br>velvet |  
+| bip_39_word_new_br12 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy<br>daring<br>dawn<br>shallow<br>decline<br>velvet<br>affair |  
+| bip_39_word_new_br2 | bind<br>unhappy |  
+| bip_39_word_new_br3 | bind<br>unhappy<br>mountain |  
+| bip_39_word_new_br4 | bind<br>unhappy<br>mountain<br>bulb |  
+| bip_39_word_new_br5 | bind<br>unhappy<br>mountain<br>bulb<br>misery |  
+| bip_39_word_new_br6 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy |  
+| bip_39_word_new_br7 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy<br>daring |  
+| bip_39_word_new_br8 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy<br>daring<br>dawn |  
+| bip_39_word_new_br9 | bind<br>unhappy<br>mountain<br>bulb<br>misery<br>enjoy<br>daring<br>dawn<br>shallow |  
+| bip_39_word_new_line1 | bind |  
+| bip_39_word_new_line10 | bind
+unhappy
+mountain
+bulb
+misery
+enjoy
+daring
+dawn
+shallow
+decline |  
+| bip_39_word_new_line11 | bind
+unhappy
+mountain
+bulb
+misery
+enjoy
+daring
+dawn
+shallow
+decline
+velvet |  
+| bip_39_word_new_line12 | bind
+unhappy
+mountain
+bulb
+misery
+enjoy
+daring
+dawn
+shallow
+decline
+velvet
+affair |  
+| bip_39_word_new_line2 | bind
+unhappy |  
+| bip_39_word_new_line3 | bind
+unhappy
+mountain |  
+| bip_39_word_new_line4 | bind
+unhappy
+mountain
+bulb |  
+| bip_39_word_new_line5 | bind
+unhappy
+mountain
+bulb
+misery |  
+| bip_39_word_new_line6 | bind
+unhappy
+mountain
+bulb
+misery
+enjoy |  
+| bip_39_word_new_line7 | bind
+unhappy
+mountain
+bulb
+misery
+enjoy
+daring |  
+| bip_39_word_new_line8 | bind
+unhappy
+mountain
+bulb
+misery
+enjoy
+daring
+dawn |  
+| bip_39_word_new_line9 | bind
+unhappy
+mountain
+bulb
+misery
+enjoy
+daring
+dawn
+shallow |  
+| bip_39_word_space_0 | ['bind', 'unhappy', 'mountain', 'bulb', 'misery', 'enjoy', 'daring', 'dawn', 'shallow', 'decline', 'velvet', 'affair'] |  
+| bip_39_word_space_1 | bind |  
+| bip_39_word_space_10 | bind unhappy mountain bulb misery enjoy daring dawn shallow decline |  
+| bip_39_word_space_11 | bind unhappy mountain bulb misery enjoy daring dawn shallow decline velvet |  
+| bip_39_word_space_12 | bind unhappy mountain bulb misery enjoy daring dawn shallow decline velvet affair |  
+| bip_39_word_space_2 | bind unhappy |  
+| bip_39_word_space_3 | bind unhappy mountain |  
+| bip_39_word_space_4 | bind unhappy mountain bulb |  
+| bip_39_word_space_5 | bind unhappy mountain bulb misery |  
+| bip_39_word_space_6 | bind unhappy mountain bulb misery enjoy |  
+| bip_39_word_space_7 | bind unhappy mountain bulb misery enjoy daring |  
+| bip_39_word_space_8 | bind unhappy mountain bulb misery enjoy daring dawn |  
+| bip_39_word_space_9 | bind unhappy mountain bulb misery enjoy daring dawn shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

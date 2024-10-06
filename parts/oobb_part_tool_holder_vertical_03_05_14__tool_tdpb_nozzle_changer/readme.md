@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_tdpb_nozzle_changer
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: erase empty
+  * bip 39 word 3: erase empty glove
+  * bip 39 word: erase empty glove jealous abandon adjust plate story turtle pyramid soda agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | erase |  
+| bip_39_word_new_br10 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust<br>plate<br>story<br>turtle<br>pyramid |  
+| bip_39_word_new_br11 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust<br>plate<br>story<br>turtle<br>pyramid<br>soda |  
+| bip_39_word_new_br12 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust<br>plate<br>story<br>turtle<br>pyramid<br>soda<br>agent |  
+| bip_39_word_new_br2 | erase<br>empty |  
+| bip_39_word_new_br3 | erase<br>empty<br>glove |  
+| bip_39_word_new_br4 | erase<br>empty<br>glove<br>jealous |  
+| bip_39_word_new_br5 | erase<br>empty<br>glove<br>jealous<br>abandon |  
+| bip_39_word_new_br6 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust |  
+| bip_39_word_new_br7 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust<br>plate |  
+| bip_39_word_new_br8 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust<br>plate<br>story |  
+| bip_39_word_new_br9 | erase<br>empty<br>glove<br>jealous<br>abandon<br>adjust<br>plate<br>story<br>turtle |  
+| bip_39_word_new_line1 | erase |  
+| bip_39_word_new_line10 | erase
+empty
+glove
+jealous
+abandon
+adjust
+plate
+story
+turtle
+pyramid |  
+| bip_39_word_new_line11 | erase
+empty
+glove
+jealous
+abandon
+adjust
+plate
+story
+turtle
+pyramid
+soda |  
+| bip_39_word_new_line12 | erase
+empty
+glove
+jealous
+abandon
+adjust
+plate
+story
+turtle
+pyramid
+soda
+agent |  
+| bip_39_word_new_line2 | erase
+empty |  
+| bip_39_word_new_line3 | erase
+empty
+glove |  
+| bip_39_word_new_line4 | erase
+empty
+glove
+jealous |  
+| bip_39_word_new_line5 | erase
+empty
+glove
+jealous
+abandon |  
+| bip_39_word_new_line6 | erase
+empty
+glove
+jealous
+abandon
+adjust |  
+| bip_39_word_new_line7 | erase
+empty
+glove
+jealous
+abandon
+adjust
+plate |  
+| bip_39_word_new_line8 | erase
+empty
+glove
+jealous
+abandon
+adjust
+plate
+story |  
+| bip_39_word_new_line9 | erase
+empty
+glove
+jealous
+abandon
+adjust
+plate
+story
+turtle |  
+| bip_39_word_space_0 | ['erase', 'empty', 'glove', 'jealous', 'abandon', 'adjust', 'plate', 'story', 'turtle', 'pyramid', 'soda', 'agent'] |  
+| bip_39_word_space_1 | erase |  
+| bip_39_word_space_10 | erase empty glove jealous abandon adjust plate story turtle pyramid |  
+| bip_39_word_space_11 | erase empty glove jealous abandon adjust plate story turtle pyramid soda |  
+| bip_39_word_space_12 | erase empty glove jealous abandon adjust plate story turtle pyramid soda agent |  
+| bip_39_word_space_2 | erase empty |  
+| bip_39_word_space_3 | erase empty glove |  
+| bip_39_word_space_4 | erase empty glove jealous |  
+| bip_39_word_space_5 | erase empty glove jealous abandon |  
+| bip_39_word_space_6 | erase empty glove jealous abandon adjust |  
+| bip_39_word_space_7 | erase empty glove jealous abandon adjust plate |  
+| bip_39_word_space_8 | erase empty glove jealous abandon adjust plate story |  
+| bip_39_word_space_9 | erase empty glove jealous abandon adjust plate story turtle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

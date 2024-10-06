@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cliff supreme
+  * bip 39 word 3: cliff supreme relax
+  * bip 39 word: cliff supreme relax before outdoor obvious erode match reject creek trash artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cliff |  
+| bip_39_word_new_br10 | cliff<br>supreme<br>relax<br>before<br>outdoor<br>obvious<br>erode<br>match<br>reject<br>creek |  
+| bip_39_word_new_br11 | cliff<br>supreme<br>relax<br>before<br>outdoor<br>obvious<br>erode<br>match<br>reject<br>creek<br>trash |  
+| bip_39_word_new_br12 | cliff<br>supreme<br>relax<br>before<br>outdoor<br>obvious<br>erode<br>match<br>reject<br>creek<br>trash<br>artwork |  
+| bip_39_word_new_br2 | cliff<br>supreme |  
+| bip_39_word_new_br3 | cliff<br>supreme<br>relax |  
+| bip_39_word_new_br4 | cliff<br>supreme<br>relax<br>before |  
+| bip_39_word_new_br5 | cliff<br>supreme<br>relax<br>before<br>outdoor |  
+| bip_39_word_new_br6 | cliff<br>supreme<br>relax<br>before<br>outdoor<br>obvious |  
+| bip_39_word_new_br7 | cliff<br>supreme<br>relax<br>before<br>outdoor<br>obvious<br>erode |  
+| bip_39_word_new_br8 | cliff<br>supreme<br>relax<br>before<br>outdoor<br>obvious<br>erode<br>match |  
+| bip_39_word_new_br9 | cliff<br>supreme<br>relax<br>before<br>outdoor<br>obvious<br>erode<br>match<br>reject |  
+| bip_39_word_new_line1 | cliff |  
+| bip_39_word_new_line10 | cliff
+supreme
+relax
+before
+outdoor
+obvious
+erode
+match
+reject
+creek |  
+| bip_39_word_new_line11 | cliff
+supreme
+relax
+before
+outdoor
+obvious
+erode
+match
+reject
+creek
+trash |  
+| bip_39_word_new_line12 | cliff
+supreme
+relax
+before
+outdoor
+obvious
+erode
+match
+reject
+creek
+trash
+artwork |  
+| bip_39_word_new_line2 | cliff
+supreme |  
+| bip_39_word_new_line3 | cliff
+supreme
+relax |  
+| bip_39_word_new_line4 | cliff
+supreme
+relax
+before |  
+| bip_39_word_new_line5 | cliff
+supreme
+relax
+before
+outdoor |  
+| bip_39_word_new_line6 | cliff
+supreme
+relax
+before
+outdoor
+obvious |  
+| bip_39_word_new_line7 | cliff
+supreme
+relax
+before
+outdoor
+obvious
+erode |  
+| bip_39_word_new_line8 | cliff
+supreme
+relax
+before
+outdoor
+obvious
+erode
+match |  
+| bip_39_word_new_line9 | cliff
+supreme
+relax
+before
+outdoor
+obvious
+erode
+match
+reject |  
+| bip_39_word_space_0 | ['cliff', 'supreme', 'relax', 'before', 'outdoor', 'obvious', 'erode', 'match', 'reject', 'creek', 'trash', 'artwork'] |  
+| bip_39_word_space_1 | cliff |  
+| bip_39_word_space_10 | cliff supreme relax before outdoor obvious erode match reject creek |  
+| bip_39_word_space_11 | cliff supreme relax before outdoor obvious erode match reject creek trash |  
+| bip_39_word_space_12 | cliff supreme relax before outdoor obvious erode match reject creek trash artwork |  
+| bip_39_word_space_2 | cliff supreme |  
+| bip_39_word_space_3 | cliff supreme relax |  
+| bip_39_word_space_4 | cliff supreme relax before |  
+| bip_39_word_space_5 | cliff supreme relax before outdoor |  
+| bip_39_word_space_6 | cliff supreme relax before outdoor obvious |  
+| bip_39_word_space_7 | cliff supreme relax before outdoor obvious erode |  
+| bip_39_word_space_8 | cliff supreme relax before outdoor obvious erode match |  
+| bip_39_word_space_9 | cliff supreme relax before outdoor obvious erode match reject |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

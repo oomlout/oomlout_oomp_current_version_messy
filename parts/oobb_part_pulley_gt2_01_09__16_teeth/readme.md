@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: habit sunset
+  * bip 39 word 3: habit sunset cup
+  * bip 39 word: habit sunset cup occur high celery olive guess upset garlic hurry anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | habit |  
+| bip_39_word_new_br10 | habit<br>sunset<br>cup<br>occur<br>high<br>celery<br>olive<br>guess<br>upset<br>garlic |  
+| bip_39_word_new_br11 | habit<br>sunset<br>cup<br>occur<br>high<br>celery<br>olive<br>guess<br>upset<br>garlic<br>hurry |  
+| bip_39_word_new_br12 | habit<br>sunset<br>cup<br>occur<br>high<br>celery<br>olive<br>guess<br>upset<br>garlic<br>hurry<br>anger |  
+| bip_39_word_new_br2 | habit<br>sunset |  
+| bip_39_word_new_br3 | habit<br>sunset<br>cup |  
+| bip_39_word_new_br4 | habit<br>sunset<br>cup<br>occur |  
+| bip_39_word_new_br5 | habit<br>sunset<br>cup<br>occur<br>high |  
+| bip_39_word_new_br6 | habit<br>sunset<br>cup<br>occur<br>high<br>celery |  
+| bip_39_word_new_br7 | habit<br>sunset<br>cup<br>occur<br>high<br>celery<br>olive |  
+| bip_39_word_new_br8 | habit<br>sunset<br>cup<br>occur<br>high<br>celery<br>olive<br>guess |  
+| bip_39_word_new_br9 | habit<br>sunset<br>cup<br>occur<br>high<br>celery<br>olive<br>guess<br>upset |  
+| bip_39_word_new_line1 | habit |  
+| bip_39_word_new_line10 | habit
+sunset
+cup
+occur
+high
+celery
+olive
+guess
+upset
+garlic |  
+| bip_39_word_new_line11 | habit
+sunset
+cup
+occur
+high
+celery
+olive
+guess
+upset
+garlic
+hurry |  
+| bip_39_word_new_line12 | habit
+sunset
+cup
+occur
+high
+celery
+olive
+guess
+upset
+garlic
+hurry
+anger |  
+| bip_39_word_new_line2 | habit
+sunset |  
+| bip_39_word_new_line3 | habit
+sunset
+cup |  
+| bip_39_word_new_line4 | habit
+sunset
+cup
+occur |  
+| bip_39_word_new_line5 | habit
+sunset
+cup
+occur
+high |  
+| bip_39_word_new_line6 | habit
+sunset
+cup
+occur
+high
+celery |  
+| bip_39_word_new_line7 | habit
+sunset
+cup
+occur
+high
+celery
+olive |  
+| bip_39_word_new_line8 | habit
+sunset
+cup
+occur
+high
+celery
+olive
+guess |  
+| bip_39_word_new_line9 | habit
+sunset
+cup
+occur
+high
+celery
+olive
+guess
+upset |  
+| bip_39_word_space_0 | ['habit', 'sunset', 'cup', 'occur', 'high', 'celery', 'olive', 'guess', 'upset', 'garlic', 'hurry', 'anger'] |  
+| bip_39_word_space_1 | habit |  
+| bip_39_word_space_10 | habit sunset cup occur high celery olive guess upset garlic |  
+| bip_39_word_space_11 | habit sunset cup occur high celery olive guess upset garlic hurry |  
+| bip_39_word_space_12 | habit sunset cup occur high celery olive guess upset garlic hurry anger |  
+| bip_39_word_space_2 | habit sunset |  
+| bip_39_word_space_3 | habit sunset cup |  
+| bip_39_word_space_4 | habit sunset cup occur |  
+| bip_39_word_space_5 | habit sunset cup occur high |  
+| bip_39_word_space_6 | habit sunset cup occur high celery |  
+| bip_39_word_space_7 | habit sunset cup occur high celery olive |  
+| bip_39_word_space_8 | habit sunset cup occur high celery olive guess |  
+| bip_39_word_space_9 | habit sunset cup occur high celery olive guess upset |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

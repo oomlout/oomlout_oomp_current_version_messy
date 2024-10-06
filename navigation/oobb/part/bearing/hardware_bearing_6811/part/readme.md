@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: once cabin
+  * bip 39 word 3: once cabin quote
+  * bip 39 word: once cabin quote noise leave cycle effort caution toss fiction shoot art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | once |  
+| bip_39_word_new_br10 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle<br>effort<br>caution<br>toss<br>fiction |  
+| bip_39_word_new_br11 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle<br>effort<br>caution<br>toss<br>fiction<br>shoot |  
+| bip_39_word_new_br12 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle<br>effort<br>caution<br>toss<br>fiction<br>shoot<br>art |  
+| bip_39_word_new_br2 | once<br>cabin |  
+| bip_39_word_new_br3 | once<br>cabin<br>quote |  
+| bip_39_word_new_br4 | once<br>cabin<br>quote<br>noise |  
+| bip_39_word_new_br5 | once<br>cabin<br>quote<br>noise<br>leave |  
+| bip_39_word_new_br6 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle |  
+| bip_39_word_new_br7 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle<br>effort |  
+| bip_39_word_new_br8 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle<br>effort<br>caution |  
+| bip_39_word_new_br9 | once<br>cabin<br>quote<br>noise<br>leave<br>cycle<br>effort<br>caution<br>toss |  
+| bip_39_word_new_line1 | once |  
+| bip_39_word_new_line10 | once
+cabin
+quote
+noise
+leave
+cycle
+effort
+caution
+toss
+fiction |  
+| bip_39_word_new_line11 | once
+cabin
+quote
+noise
+leave
+cycle
+effort
+caution
+toss
+fiction
+shoot |  
+| bip_39_word_new_line12 | once
+cabin
+quote
+noise
+leave
+cycle
+effort
+caution
+toss
+fiction
+shoot
+art |  
+| bip_39_word_new_line2 | once
+cabin |  
+| bip_39_word_new_line3 | once
+cabin
+quote |  
+| bip_39_word_new_line4 | once
+cabin
+quote
+noise |  
+| bip_39_word_new_line5 | once
+cabin
+quote
+noise
+leave |  
+| bip_39_word_new_line6 | once
+cabin
+quote
+noise
+leave
+cycle |  
+| bip_39_word_new_line7 | once
+cabin
+quote
+noise
+leave
+cycle
+effort |  
+| bip_39_word_new_line8 | once
+cabin
+quote
+noise
+leave
+cycle
+effort
+caution |  
+| bip_39_word_new_line9 | once
+cabin
+quote
+noise
+leave
+cycle
+effort
+caution
+toss |  
+| bip_39_word_space_0 | ['once', 'cabin', 'quote', 'noise', 'leave', 'cycle', 'effort', 'caution', 'toss', 'fiction', 'shoot', 'art'] |  
+| bip_39_word_space_1 | once |  
+| bip_39_word_space_10 | once cabin quote noise leave cycle effort caution toss fiction |  
+| bip_39_word_space_11 | once cabin quote noise leave cycle effort caution toss fiction shoot |  
+| bip_39_word_space_12 | once cabin quote noise leave cycle effort caution toss fiction shoot art |  
+| bip_39_word_space_2 | once cabin |  
+| bip_39_word_space_3 | once cabin quote |  
+| bip_39_word_space_4 | once cabin quote noise |  
+| bip_39_word_space_5 | once cabin quote noise leave |  
+| bip_39_word_space_6 | once cabin quote noise leave cycle |  
+| bip_39_word_space_7 | once cabin quote noise leave cycle effort |  
+| bip_39_word_space_8 | once cabin quote noise leave cycle effort caution |  
+| bip_39_word_space_9 | once cabin quote noise leave cycle effort caution toss |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crazy fame
+  * bip 39 word 3: crazy fame practice
+  * bip 39 word: crazy fame practice room sun section since hospital dust entire improve april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crazy |  
+| bip_39_word_new_br10 | crazy<br>fame<br>practice<br>room<br>sun<br>section<br>since<br>hospital<br>dust<br>entire |  
+| bip_39_word_new_br11 | crazy<br>fame<br>practice<br>room<br>sun<br>section<br>since<br>hospital<br>dust<br>entire<br>improve |  
+| bip_39_word_new_br12 | crazy<br>fame<br>practice<br>room<br>sun<br>section<br>since<br>hospital<br>dust<br>entire<br>improve<br>april |  
+| bip_39_word_new_br2 | crazy<br>fame |  
+| bip_39_word_new_br3 | crazy<br>fame<br>practice |  
+| bip_39_word_new_br4 | crazy<br>fame<br>practice<br>room |  
+| bip_39_word_new_br5 | crazy<br>fame<br>practice<br>room<br>sun |  
+| bip_39_word_new_br6 | crazy<br>fame<br>practice<br>room<br>sun<br>section |  
+| bip_39_word_new_br7 | crazy<br>fame<br>practice<br>room<br>sun<br>section<br>since |  
+| bip_39_word_new_br8 | crazy<br>fame<br>practice<br>room<br>sun<br>section<br>since<br>hospital |  
+| bip_39_word_new_br9 | crazy<br>fame<br>practice<br>room<br>sun<br>section<br>since<br>hospital<br>dust |  
+| bip_39_word_new_line1 | crazy |  
+| bip_39_word_new_line10 | crazy
+fame
+practice
+room
+sun
+section
+since
+hospital
+dust
+entire |  
+| bip_39_word_new_line11 | crazy
+fame
+practice
+room
+sun
+section
+since
+hospital
+dust
+entire
+improve |  
+| bip_39_word_new_line12 | crazy
+fame
+practice
+room
+sun
+section
+since
+hospital
+dust
+entire
+improve
+april |  
+| bip_39_word_new_line2 | crazy
+fame |  
+| bip_39_word_new_line3 | crazy
+fame
+practice |  
+| bip_39_word_new_line4 | crazy
+fame
+practice
+room |  
+| bip_39_word_new_line5 | crazy
+fame
+practice
+room
+sun |  
+| bip_39_word_new_line6 | crazy
+fame
+practice
+room
+sun
+section |  
+| bip_39_word_new_line7 | crazy
+fame
+practice
+room
+sun
+section
+since |  
+| bip_39_word_new_line8 | crazy
+fame
+practice
+room
+sun
+section
+since
+hospital |  
+| bip_39_word_new_line9 | crazy
+fame
+practice
+room
+sun
+section
+since
+hospital
+dust |  
+| bip_39_word_space_0 | ['crazy', 'fame', 'practice', 'room', 'sun', 'section', 'since', 'hospital', 'dust', 'entire', 'improve', 'april'] |  
+| bip_39_word_space_1 | crazy |  
+| bip_39_word_space_10 | crazy fame practice room sun section since hospital dust entire |  
+| bip_39_word_space_11 | crazy fame practice room sun section since hospital dust entire improve |  
+| bip_39_word_space_12 | crazy fame practice room sun section since hospital dust entire improve april |  
+| bip_39_word_space_2 | crazy fame |  
+| bip_39_word_space_3 | crazy fame practice |  
+| bip_39_word_space_4 | crazy fame practice room |  
+| bip_39_word_space_5 | crazy fame practice room sun |  
+| bip_39_word_space_6 | crazy fame practice room sun section |  
+| bip_39_word_space_7 | crazy fame practice room sun section since |  
+| bip_39_word_space_8 | crazy fame practice room sun section since hospital |  
+| bip_39_word_space_9 | crazy fame practice room sun section since hospital dust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

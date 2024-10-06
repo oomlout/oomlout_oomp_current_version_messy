@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: asthma tissue
+  * bip 39 word 3: asthma tissue vanish
+  * bip 39 word: asthma tissue vanish wreck rubber multiply tuna giraffe vibrant fancy cloth art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | asthma |  
+| bip_39_word_new_br10 | asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply<br>tuna<br>giraffe<br>vibrant<br>fancy |  
+| bip_39_word_new_br11 | asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply<br>tuna<br>giraffe<br>vibrant<br>fancy<br>cloth |  
+| bip_39_word_new_br12 | asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply<br>tuna<br>giraffe<br>vibrant<br>fancy<br>cloth<br>art |  
+| bip_39_word_new_br2 | asthma<br>tissue |  
+| bip_39_word_new_br3 | asthma<br>tissue<br>vanish |  
+| bip_39_word_new_br4 | asthma<br>tissue<br>vanish<br>wreck |  
+| bip_39_word_new_br5 | asthma<br>tissue<br>vanish<br>wreck<br>rubber |  
+| bip_39_word_new_br6 | asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply |  
+| bip_39_word_new_br7 | asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply<br>tuna |  
+| bip_39_word_new_br8 | asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply<br>tuna<br>giraffe |  
+| bip_39_word_new_br9 | asthma<br>tissue<br>vanish<br>wreck<br>rubber<br>multiply<br>tuna<br>giraffe<br>vibrant |  
+| bip_39_word_new_line1 | asthma |  
+| bip_39_word_new_line10 | asthma
+tissue
+vanish
+wreck
+rubber
+multiply
+tuna
+giraffe
+vibrant
+fancy |  
+| bip_39_word_new_line11 | asthma
+tissue
+vanish
+wreck
+rubber
+multiply
+tuna
+giraffe
+vibrant
+fancy
+cloth |  
+| bip_39_word_new_line12 | asthma
+tissue
+vanish
+wreck
+rubber
+multiply
+tuna
+giraffe
+vibrant
+fancy
+cloth
+art |  
+| bip_39_word_new_line2 | asthma
+tissue |  
+| bip_39_word_new_line3 | asthma
+tissue
+vanish |  
+| bip_39_word_new_line4 | asthma
+tissue
+vanish
+wreck |  
+| bip_39_word_new_line5 | asthma
+tissue
+vanish
+wreck
+rubber |  
+| bip_39_word_new_line6 | asthma
+tissue
+vanish
+wreck
+rubber
+multiply |  
+| bip_39_word_new_line7 | asthma
+tissue
+vanish
+wreck
+rubber
+multiply
+tuna |  
+| bip_39_word_new_line8 | asthma
+tissue
+vanish
+wreck
+rubber
+multiply
+tuna
+giraffe |  
+| bip_39_word_new_line9 | asthma
+tissue
+vanish
+wreck
+rubber
+multiply
+tuna
+giraffe
+vibrant |  
+| bip_39_word_space_0 | ['asthma', 'tissue', 'vanish', 'wreck', 'rubber', 'multiply', 'tuna', 'giraffe', 'vibrant', 'fancy', 'cloth', 'art'] |  
+| bip_39_word_space_1 | asthma |  
+| bip_39_word_space_10 | asthma tissue vanish wreck rubber multiply tuna giraffe vibrant fancy |  
+| bip_39_word_space_11 | asthma tissue vanish wreck rubber multiply tuna giraffe vibrant fancy cloth |  
+| bip_39_word_space_12 | asthma tissue vanish wreck rubber multiply tuna giraffe vibrant fancy cloth art |  
+| bip_39_word_space_2 | asthma tissue |  
+| bip_39_word_space_3 | asthma tissue vanish |  
+| bip_39_word_space_4 | asthma tissue vanish wreck |  
+| bip_39_word_space_5 | asthma tissue vanish wreck rubber |  
+| bip_39_word_space_6 | asthma tissue vanish wreck rubber multiply |  
+| bip_39_word_space_7 | asthma tissue vanish wreck rubber multiply tuna |  
+| bip_39_word_space_8 | asthma tissue vanish wreck rubber multiply tuna giraffe |  
+| bip_39_word_space_9 | asthma tissue vanish wreck rubber multiply tuna giraffe vibrant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

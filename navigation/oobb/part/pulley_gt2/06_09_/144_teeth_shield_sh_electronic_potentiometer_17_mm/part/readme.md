@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_shield_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: window occur
+  * bip 39 word 3: window occur hour
+  * bip 39 word: window occur hour network bargain bounce key common sick grain grant adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | window |  
+| bip_39_word_new_br10 | window<br>occur<br>hour<br>network<br>bargain<br>bounce<br>key<br>common<br>sick<br>grain |  
+| bip_39_word_new_br11 | window<br>occur<br>hour<br>network<br>bargain<br>bounce<br>key<br>common<br>sick<br>grain<br>grant |  
+| bip_39_word_new_br12 | window<br>occur<br>hour<br>network<br>bargain<br>bounce<br>key<br>common<br>sick<br>grain<br>grant<br>adjust |  
+| bip_39_word_new_br2 | window<br>occur |  
+| bip_39_word_new_br3 | window<br>occur<br>hour |  
+| bip_39_word_new_br4 | window<br>occur<br>hour<br>network |  
+| bip_39_word_new_br5 | window<br>occur<br>hour<br>network<br>bargain |  
+| bip_39_word_new_br6 | window<br>occur<br>hour<br>network<br>bargain<br>bounce |  
+| bip_39_word_new_br7 | window<br>occur<br>hour<br>network<br>bargain<br>bounce<br>key |  
+| bip_39_word_new_br8 | window<br>occur<br>hour<br>network<br>bargain<br>bounce<br>key<br>common |  
+| bip_39_word_new_br9 | window<br>occur<br>hour<br>network<br>bargain<br>bounce<br>key<br>common<br>sick |  
+| bip_39_word_new_line1 | window |  
+| bip_39_word_new_line10 | window
+occur
+hour
+network
+bargain
+bounce
+key
+common
+sick
+grain |  
+| bip_39_word_new_line11 | window
+occur
+hour
+network
+bargain
+bounce
+key
+common
+sick
+grain
+grant |  
+| bip_39_word_new_line12 | window
+occur
+hour
+network
+bargain
+bounce
+key
+common
+sick
+grain
+grant
+adjust |  
+| bip_39_word_new_line2 | window
+occur |  
+| bip_39_word_new_line3 | window
+occur
+hour |  
+| bip_39_word_new_line4 | window
+occur
+hour
+network |  
+| bip_39_word_new_line5 | window
+occur
+hour
+network
+bargain |  
+| bip_39_word_new_line6 | window
+occur
+hour
+network
+bargain
+bounce |  
+| bip_39_word_new_line7 | window
+occur
+hour
+network
+bargain
+bounce
+key |  
+| bip_39_word_new_line8 | window
+occur
+hour
+network
+bargain
+bounce
+key
+common |  
+| bip_39_word_new_line9 | window
+occur
+hour
+network
+bargain
+bounce
+key
+common
+sick |  
+| bip_39_word_space_0 | ['window', 'occur', 'hour', 'network', 'bargain', 'bounce', 'key', 'common', 'sick', 'grain', 'grant', 'adjust'] |  
+| bip_39_word_space_1 | window |  
+| bip_39_word_space_10 | window occur hour network bargain bounce key common sick grain |  
+| bip_39_word_space_11 | window occur hour network bargain bounce key common sick grain grant |  
+| bip_39_word_space_12 | window occur hour network bargain bounce key common sick grain grant adjust |  
+| bip_39_word_space_2 | window occur |  
+| bip_39_word_space_3 | window occur hour |  
+| bip_39_word_space_4 | window occur hour network |  
+| bip_39_word_space_5 | window occur hour network bargain |  
+| bip_39_word_space_6 | window occur hour network bargain bounce |  
+| bip_39_word_space_7 | window occur hour network bargain bounce key |  
+| bip_39_word_space_8 | window occur hour network bargain bounce key common |  
+| bip_39_word_space_9 | window occur hour network bargain bounce key common sick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

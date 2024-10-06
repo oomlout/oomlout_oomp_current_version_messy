@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oyster crystal
+  * bip 39 word 3: oyster crystal jelly
+  * bip 39 word: oyster crystal jelly elder brand air alien million casual have sister argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oyster |  
+| bip_39_word_new_br10 | oyster<br>crystal<br>jelly<br>elder<br>brand<br>air<br>alien<br>million<br>casual<br>have |  
+| bip_39_word_new_br11 | oyster<br>crystal<br>jelly<br>elder<br>brand<br>air<br>alien<br>million<br>casual<br>have<br>sister |  
+| bip_39_word_new_br12 | oyster<br>crystal<br>jelly<br>elder<br>brand<br>air<br>alien<br>million<br>casual<br>have<br>sister<br>argue |  
+| bip_39_word_new_br2 | oyster<br>crystal |  
+| bip_39_word_new_br3 | oyster<br>crystal<br>jelly |  
+| bip_39_word_new_br4 | oyster<br>crystal<br>jelly<br>elder |  
+| bip_39_word_new_br5 | oyster<br>crystal<br>jelly<br>elder<br>brand |  
+| bip_39_word_new_br6 | oyster<br>crystal<br>jelly<br>elder<br>brand<br>air |  
+| bip_39_word_new_br7 | oyster<br>crystal<br>jelly<br>elder<br>brand<br>air<br>alien |  
+| bip_39_word_new_br8 | oyster<br>crystal<br>jelly<br>elder<br>brand<br>air<br>alien<br>million |  
+| bip_39_word_new_br9 | oyster<br>crystal<br>jelly<br>elder<br>brand<br>air<br>alien<br>million<br>casual |  
+| bip_39_word_new_line1 | oyster |  
+| bip_39_word_new_line10 | oyster
+crystal
+jelly
+elder
+brand
+air
+alien
+million
+casual
+have |  
+| bip_39_word_new_line11 | oyster
+crystal
+jelly
+elder
+brand
+air
+alien
+million
+casual
+have
+sister |  
+| bip_39_word_new_line12 | oyster
+crystal
+jelly
+elder
+brand
+air
+alien
+million
+casual
+have
+sister
+argue |  
+| bip_39_word_new_line2 | oyster
+crystal |  
+| bip_39_word_new_line3 | oyster
+crystal
+jelly |  
+| bip_39_word_new_line4 | oyster
+crystal
+jelly
+elder |  
+| bip_39_word_new_line5 | oyster
+crystal
+jelly
+elder
+brand |  
+| bip_39_word_new_line6 | oyster
+crystal
+jelly
+elder
+brand
+air |  
+| bip_39_word_new_line7 | oyster
+crystal
+jelly
+elder
+brand
+air
+alien |  
+| bip_39_word_new_line8 | oyster
+crystal
+jelly
+elder
+brand
+air
+alien
+million |  
+| bip_39_word_new_line9 | oyster
+crystal
+jelly
+elder
+brand
+air
+alien
+million
+casual |  
+| bip_39_word_space_0 | ['oyster', 'crystal', 'jelly', 'elder', 'brand', 'air', 'alien', 'million', 'casual', 'have', 'sister', 'argue'] |  
+| bip_39_word_space_1 | oyster |  
+| bip_39_word_space_10 | oyster crystal jelly elder brand air alien million casual have |  
+| bip_39_word_space_11 | oyster crystal jelly elder brand air alien million casual have sister |  
+| bip_39_word_space_12 | oyster crystal jelly elder brand air alien million casual have sister argue |  
+| bip_39_word_space_2 | oyster crystal |  
+| bip_39_word_space_3 | oyster crystal jelly |  
+| bip_39_word_space_4 | oyster crystal jelly elder |  
+| bip_39_word_space_5 | oyster crystal jelly elder brand |  
+| bip_39_word_space_6 | oyster crystal jelly elder brand air |  
+| bip_39_word_space_7 | oyster crystal jelly elder brand air alien |  
+| bip_39_word_space_8 | oyster crystal jelly elder brand air alien million |  
+| bip_39_word_space_9 | oyster crystal jelly elder brand air alien million casual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

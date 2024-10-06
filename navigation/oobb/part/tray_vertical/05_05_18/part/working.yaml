@@ -1,3 +1,185 @@
+bip_39_word_new_br1: ten
+bip_39_word_new_br10: ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know
+bip_39_word_new_br11: ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know<br>fade
+bip_39_word_new_br12: ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell<br>know<br>fade<br>ask
+bip_39_word_new_br2: ten<br>found
+bip_39_word_new_br3: ten<br>found<br>ivory
+bip_39_word_new_br4: ten<br>found<br>ivory<br>vast
+bip_39_word_new_br5: ten<br>found<br>ivory<br>vast<br>reunion
+bip_39_word_new_br6: ten<br>found<br>ivory<br>vast<br>reunion<br>slight
+bip_39_word_new_br7: ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt
+bip_39_word_new_br8: ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep
+bip_39_word_new_br9: ten<br>found<br>ivory<br>vast<br>reunion<br>slight<br>belt<br>sleep<br>shell
+bip_39_word_new_line1: ten
+bip_39_word_new_line10: 'ten
+
+  found
+
+  ivory
+
+  vast
+
+  reunion
+
+  slight
+
+  belt
+
+  sleep
+
+  shell
+
+  know'
+bip_39_word_new_line11: 'ten
+
+  found
+
+  ivory
+
+  vast
+
+  reunion
+
+  slight
+
+  belt
+
+  sleep
+
+  shell
+
+  know
+
+  fade'
+bip_39_word_new_line12: 'ten
+
+  found
+
+  ivory
+
+  vast
+
+  reunion
+
+  slight
+
+  belt
+
+  sleep
+
+  shell
+
+  know
+
+  fade
+
+  ask'
+bip_39_word_new_line2: 'ten
+
+  found'
+bip_39_word_new_line3: 'ten
+
+  found
+
+  ivory'
+bip_39_word_new_line4: 'ten
+
+  found
+
+  ivory
+
+  vast'
+bip_39_word_new_line5: 'ten
+
+  found
+
+  ivory
+
+  vast
+
+  reunion'
+bip_39_word_new_line6: 'ten
+
+  found
+
+  ivory
+
+  vast
+
+  reunion
+
+  slight'
+bip_39_word_new_line7: 'ten
+
+  found
+
+  ivory
+
+  vast
+
+  reunion
+
+  slight
+
+  belt'
+bip_39_word_new_line8: 'ten
+
+  found
+
+  ivory
+
+  vast
+
+  reunion
+
+  slight
+
+  belt
+
+  sleep'
+bip_39_word_new_line9: 'ten
+
+  found
+
+  ivory
+
+  vast
+
+  reunion
+
+  slight
+
+  belt
+
+  sleep
+
+  shell'
+bip_39_word_space_0:
+- ten
+- found
+- ivory
+- vast
+- reunion
+- slight
+- belt
+- sleep
+- shell
+- know
+- fade
+- ask
+bip_39_word_space_1: ten
+bip_39_word_space_10: ten found ivory vast reunion slight belt sleep shell know
+bip_39_word_space_11: ten found ivory vast reunion slight belt sleep shell know fade
+bip_39_word_space_12: ten found ivory vast reunion slight belt sleep shell know fade
+  ask
+bip_39_word_space_2: ten found
+bip_39_word_space_3: ten found ivory
+bip_39_word_space_4: ten found ivory vast
+bip_39_word_space_5: ten found ivory vast reunion
+bip_39_word_space_6: ten found ivory vast reunion slight
+bip_39_word_space_7: ten found ivory vast reunion slight belt
+bip_39_word_space_8: ten found ivory vast reunion slight belt sleep
+bip_39_word_space_9: ten found ivory vast reunion slight belt sleep shell
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

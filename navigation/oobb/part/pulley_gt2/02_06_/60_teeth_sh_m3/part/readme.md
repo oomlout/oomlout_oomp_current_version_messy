@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: judge option
+  * bip 39 word 3: judge option hint
+  * bip 39 word: judge option hint sell fix list notice ecology various better broccoli announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | judge |  
+| bip_39_word_new_br10 | judge<br>option<br>hint<br>sell<br>fix<br>list<br>notice<br>ecology<br>various<br>better |  
+| bip_39_word_new_br11 | judge<br>option<br>hint<br>sell<br>fix<br>list<br>notice<br>ecology<br>various<br>better<br>broccoli |  
+| bip_39_word_new_br12 | judge<br>option<br>hint<br>sell<br>fix<br>list<br>notice<br>ecology<br>various<br>better<br>broccoli<br>announce |  
+| bip_39_word_new_br2 | judge<br>option |  
+| bip_39_word_new_br3 | judge<br>option<br>hint |  
+| bip_39_word_new_br4 | judge<br>option<br>hint<br>sell |  
+| bip_39_word_new_br5 | judge<br>option<br>hint<br>sell<br>fix |  
+| bip_39_word_new_br6 | judge<br>option<br>hint<br>sell<br>fix<br>list |  
+| bip_39_word_new_br7 | judge<br>option<br>hint<br>sell<br>fix<br>list<br>notice |  
+| bip_39_word_new_br8 | judge<br>option<br>hint<br>sell<br>fix<br>list<br>notice<br>ecology |  
+| bip_39_word_new_br9 | judge<br>option<br>hint<br>sell<br>fix<br>list<br>notice<br>ecology<br>various |  
+| bip_39_word_new_line1 | judge |  
+| bip_39_word_new_line10 | judge
+option
+hint
+sell
+fix
+list
+notice
+ecology
+various
+better |  
+| bip_39_word_new_line11 | judge
+option
+hint
+sell
+fix
+list
+notice
+ecology
+various
+better
+broccoli |  
+| bip_39_word_new_line12 | judge
+option
+hint
+sell
+fix
+list
+notice
+ecology
+various
+better
+broccoli
+announce |  
+| bip_39_word_new_line2 | judge
+option |  
+| bip_39_word_new_line3 | judge
+option
+hint |  
+| bip_39_word_new_line4 | judge
+option
+hint
+sell |  
+| bip_39_word_new_line5 | judge
+option
+hint
+sell
+fix |  
+| bip_39_word_new_line6 | judge
+option
+hint
+sell
+fix
+list |  
+| bip_39_word_new_line7 | judge
+option
+hint
+sell
+fix
+list
+notice |  
+| bip_39_word_new_line8 | judge
+option
+hint
+sell
+fix
+list
+notice
+ecology |  
+| bip_39_word_new_line9 | judge
+option
+hint
+sell
+fix
+list
+notice
+ecology
+various |  
+| bip_39_word_space_0 | ['judge', 'option', 'hint', 'sell', 'fix', 'list', 'notice', 'ecology', 'various', 'better', 'broccoli', 'announce'] |  
+| bip_39_word_space_1 | judge |  
+| bip_39_word_space_10 | judge option hint sell fix list notice ecology various better |  
+| bip_39_word_space_11 | judge option hint sell fix list notice ecology various better broccoli |  
+| bip_39_word_space_12 | judge option hint sell fix list notice ecology various better broccoli announce |  
+| bip_39_word_space_2 | judge option |  
+| bip_39_word_space_3 | judge option hint |  
+| bip_39_word_space_4 | judge option hint sell |  
+| bip_39_word_space_5 | judge option hint sell fix |  
+| bip_39_word_space_6 | judge option hint sell fix list |  
+| bip_39_word_space_7 | judge option hint sell fix list notice |  
+| bip_39_word_space_8 | judge option hint sell fix list notice ecology |  
+| bip_39_word_space_9 | judge option hint sell fix list notice ecology various |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

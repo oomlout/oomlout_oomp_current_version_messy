@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coach practice
+  * bip 39 word 3: coach practice season
+  * bip 39 word: coach practice season capital need bronze elite tonight survey hold typical access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coach |  
+| bip_39_word_new_br10 | coach<br>practice<br>season<br>capital<br>need<br>bronze<br>elite<br>tonight<br>survey<br>hold |  
+| bip_39_word_new_br11 | coach<br>practice<br>season<br>capital<br>need<br>bronze<br>elite<br>tonight<br>survey<br>hold<br>typical |  
+| bip_39_word_new_br12 | coach<br>practice<br>season<br>capital<br>need<br>bronze<br>elite<br>tonight<br>survey<br>hold<br>typical<br>access |  
+| bip_39_word_new_br2 | coach<br>practice |  
+| bip_39_word_new_br3 | coach<br>practice<br>season |  
+| bip_39_word_new_br4 | coach<br>practice<br>season<br>capital |  
+| bip_39_word_new_br5 | coach<br>practice<br>season<br>capital<br>need |  
+| bip_39_word_new_br6 | coach<br>practice<br>season<br>capital<br>need<br>bronze |  
+| bip_39_word_new_br7 | coach<br>practice<br>season<br>capital<br>need<br>bronze<br>elite |  
+| bip_39_word_new_br8 | coach<br>practice<br>season<br>capital<br>need<br>bronze<br>elite<br>tonight |  
+| bip_39_word_new_br9 | coach<br>practice<br>season<br>capital<br>need<br>bronze<br>elite<br>tonight<br>survey |  
+| bip_39_word_new_line1 | coach |  
+| bip_39_word_new_line10 | coach
+practice
+season
+capital
+need
+bronze
+elite
+tonight
+survey
+hold |  
+| bip_39_word_new_line11 | coach
+practice
+season
+capital
+need
+bronze
+elite
+tonight
+survey
+hold
+typical |  
+| bip_39_word_new_line12 | coach
+practice
+season
+capital
+need
+bronze
+elite
+tonight
+survey
+hold
+typical
+access |  
+| bip_39_word_new_line2 | coach
+practice |  
+| bip_39_word_new_line3 | coach
+practice
+season |  
+| bip_39_word_new_line4 | coach
+practice
+season
+capital |  
+| bip_39_word_new_line5 | coach
+practice
+season
+capital
+need |  
+| bip_39_word_new_line6 | coach
+practice
+season
+capital
+need
+bronze |  
+| bip_39_word_new_line7 | coach
+practice
+season
+capital
+need
+bronze
+elite |  
+| bip_39_word_new_line8 | coach
+practice
+season
+capital
+need
+bronze
+elite
+tonight |  
+| bip_39_word_new_line9 | coach
+practice
+season
+capital
+need
+bronze
+elite
+tonight
+survey |  
+| bip_39_word_space_0 | ['coach', 'practice', 'season', 'capital', 'need', 'bronze', 'elite', 'tonight', 'survey', 'hold', 'typical', 'access'] |  
+| bip_39_word_space_1 | coach |  
+| bip_39_word_space_10 | coach practice season capital need bronze elite tonight survey hold |  
+| bip_39_word_space_11 | coach practice season capital need bronze elite tonight survey hold typical |  
+| bip_39_word_space_12 | coach practice season capital need bronze elite tonight survey hold typical access |  
+| bip_39_word_space_2 | coach practice |  
+| bip_39_word_space_3 | coach practice season |  
+| bip_39_word_space_4 | coach practice season capital |  
+| bip_39_word_space_5 | coach practice season capital need |  
+| bip_39_word_space_6 | coach practice season capital need bronze |  
+| bip_39_word_space_7 | coach practice season capital need bronze elite |  
+| bip_39_word_space_8 | coach practice season capital need bronze elite tonight |  
+| bip_39_word_space_9 | coach practice season capital need bronze elite tonight survey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

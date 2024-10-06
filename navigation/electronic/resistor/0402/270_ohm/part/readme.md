@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: heart advance
+  * bip 39 word 3: heart advance dog
+  * bip 39 word: heart advance dog capital repair unhappy spatial zoo code trap brave argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | heart |  
+| bip_39_word_new_br10 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy<br>spatial<br>zoo<br>code<br>trap |  
+| bip_39_word_new_br11 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy<br>spatial<br>zoo<br>code<br>trap<br>brave |  
+| bip_39_word_new_br12 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy<br>spatial<br>zoo<br>code<br>trap<br>brave<br>argue |  
+| bip_39_word_new_br2 | heart<br>advance |  
+| bip_39_word_new_br3 | heart<br>advance<br>dog |  
+| bip_39_word_new_br4 | heart<br>advance<br>dog<br>capital |  
+| bip_39_word_new_br5 | heart<br>advance<br>dog<br>capital<br>repair |  
+| bip_39_word_new_br6 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy |  
+| bip_39_word_new_br7 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy<br>spatial |  
+| bip_39_word_new_br8 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy<br>spatial<br>zoo |  
+| bip_39_word_new_br9 | heart<br>advance<br>dog<br>capital<br>repair<br>unhappy<br>spatial<br>zoo<br>code |  
+| bip_39_word_new_line1 | heart |  
+| bip_39_word_new_line10 | heart
+advance
+dog
+capital
+repair
+unhappy
+spatial
+zoo
+code
+trap |  
+| bip_39_word_new_line11 | heart
+advance
+dog
+capital
+repair
+unhappy
+spatial
+zoo
+code
+trap
+brave |  
+| bip_39_word_new_line12 | heart
+advance
+dog
+capital
+repair
+unhappy
+spatial
+zoo
+code
+trap
+brave
+argue |  
+| bip_39_word_new_line2 | heart
+advance |  
+| bip_39_word_new_line3 | heart
+advance
+dog |  
+| bip_39_word_new_line4 | heart
+advance
+dog
+capital |  
+| bip_39_word_new_line5 | heart
+advance
+dog
+capital
+repair |  
+| bip_39_word_new_line6 | heart
+advance
+dog
+capital
+repair
+unhappy |  
+| bip_39_word_new_line7 | heart
+advance
+dog
+capital
+repair
+unhappy
+spatial |  
+| bip_39_word_new_line8 | heart
+advance
+dog
+capital
+repair
+unhappy
+spatial
+zoo |  
+| bip_39_word_new_line9 | heart
+advance
+dog
+capital
+repair
+unhappy
+spatial
+zoo
+code |  
+| bip_39_word_space_0 | ['heart', 'advance', 'dog', 'capital', 'repair', 'unhappy', 'spatial', 'zoo', 'code', 'trap', 'brave', 'argue'] |  
+| bip_39_word_space_1 | heart |  
+| bip_39_word_space_10 | heart advance dog capital repair unhappy spatial zoo code trap |  
+| bip_39_word_space_11 | heart advance dog capital repair unhappy spatial zoo code trap brave |  
+| bip_39_word_space_12 | heart advance dog capital repair unhappy spatial zoo code trap brave argue |  
+| bip_39_word_space_2 | heart advance |  
+| bip_39_word_space_3 | heart advance dog |  
+| bip_39_word_space_4 | heart advance dog capital |  
+| bip_39_word_space_5 | heart advance dog capital repair |  
+| bip_39_word_space_6 | heart advance dog capital repair unhappy |  
+| bip_39_word_space_7 | heart advance dog capital repair unhappy spatial |  
+| bip_39_word_space_8 | heart advance dog capital repair unhappy spatial zoo |  
+| bip_39_word_space_9 | heart advance dog capital repair unhappy spatial zoo code |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exhibit scout
+  * bip 39 word 3: exhibit scout scale
+  * bip 39 word: exhibit scout scale cereal endorse stable urge cricket join legend panel airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exhibit |  
+| bip_39_word_new_br10 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable<br>urge<br>cricket<br>join<br>legend |  
+| bip_39_word_new_br11 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable<br>urge<br>cricket<br>join<br>legend<br>panel |  
+| bip_39_word_new_br12 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable<br>urge<br>cricket<br>join<br>legend<br>panel<br>airport |  
+| bip_39_word_new_br2 | exhibit<br>scout |  
+| bip_39_word_new_br3 | exhibit<br>scout<br>scale |  
+| bip_39_word_new_br4 | exhibit<br>scout<br>scale<br>cereal |  
+| bip_39_word_new_br5 | exhibit<br>scout<br>scale<br>cereal<br>endorse |  
+| bip_39_word_new_br6 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable |  
+| bip_39_word_new_br7 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable<br>urge |  
+| bip_39_word_new_br8 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable<br>urge<br>cricket |  
+| bip_39_word_new_br9 | exhibit<br>scout<br>scale<br>cereal<br>endorse<br>stable<br>urge<br>cricket<br>join |  
+| bip_39_word_new_line1 | exhibit |  
+| bip_39_word_new_line10 | exhibit
+scout
+scale
+cereal
+endorse
+stable
+urge
+cricket
+join
+legend |  
+| bip_39_word_new_line11 | exhibit
+scout
+scale
+cereal
+endorse
+stable
+urge
+cricket
+join
+legend
+panel |  
+| bip_39_word_new_line12 | exhibit
+scout
+scale
+cereal
+endorse
+stable
+urge
+cricket
+join
+legend
+panel
+airport |  
+| bip_39_word_new_line2 | exhibit
+scout |  
+| bip_39_word_new_line3 | exhibit
+scout
+scale |  
+| bip_39_word_new_line4 | exhibit
+scout
+scale
+cereal |  
+| bip_39_word_new_line5 | exhibit
+scout
+scale
+cereal
+endorse |  
+| bip_39_word_new_line6 | exhibit
+scout
+scale
+cereal
+endorse
+stable |  
+| bip_39_word_new_line7 | exhibit
+scout
+scale
+cereal
+endorse
+stable
+urge |  
+| bip_39_word_new_line8 | exhibit
+scout
+scale
+cereal
+endorse
+stable
+urge
+cricket |  
+| bip_39_word_new_line9 | exhibit
+scout
+scale
+cereal
+endorse
+stable
+urge
+cricket
+join |  
+| bip_39_word_space_0 | ['exhibit', 'scout', 'scale', 'cereal', 'endorse', 'stable', 'urge', 'cricket', 'join', 'legend', 'panel', 'airport'] |  
+| bip_39_word_space_1 | exhibit |  
+| bip_39_word_space_10 | exhibit scout scale cereal endorse stable urge cricket join legend |  
+| bip_39_word_space_11 | exhibit scout scale cereal endorse stable urge cricket join legend panel |  
+| bip_39_word_space_12 | exhibit scout scale cereal endorse stable urge cricket join legend panel airport |  
+| bip_39_word_space_2 | exhibit scout |  
+| bip_39_word_space_3 | exhibit scout scale |  
+| bip_39_word_space_4 | exhibit scout scale cereal |  
+| bip_39_word_space_5 | exhibit scout scale cereal endorse |  
+| bip_39_word_space_6 | exhibit scout scale cereal endorse stable |  
+| bip_39_word_space_7 | exhibit scout scale cereal endorse stable urge |  
+| bip_39_word_space_8 | exhibit scout scale cereal endorse stable urge cricket |  
+| bip_39_word_space_9 | exhibit scout scale cereal endorse stable urge cricket join |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

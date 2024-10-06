@@ -1,3 +1,186 @@
+bip_39_word_new_br1: field
+bip_39_word_new_br10: field<br>skin<br>popular<br>inform<br>print<br>post<br>report<br>sister<br>rescue<br>south
+bip_39_word_new_br11: field<br>skin<br>popular<br>inform<br>print<br>post<br>report<br>sister<br>rescue<br>south<br>noise
+bip_39_word_new_br12: field<br>skin<br>popular<br>inform<br>print<br>post<br>report<br>sister<br>rescue<br>south<br>noise<br>acoustic
+bip_39_word_new_br2: field<br>skin
+bip_39_word_new_br3: field<br>skin<br>popular
+bip_39_word_new_br4: field<br>skin<br>popular<br>inform
+bip_39_word_new_br5: field<br>skin<br>popular<br>inform<br>print
+bip_39_word_new_br6: field<br>skin<br>popular<br>inform<br>print<br>post
+bip_39_word_new_br7: field<br>skin<br>popular<br>inform<br>print<br>post<br>report
+bip_39_word_new_br8: field<br>skin<br>popular<br>inform<br>print<br>post<br>report<br>sister
+bip_39_word_new_br9: field<br>skin<br>popular<br>inform<br>print<br>post<br>report<br>sister<br>rescue
+bip_39_word_new_line1: field
+bip_39_word_new_line10: 'field
+
+  skin
+
+  popular
+
+  inform
+
+  print
+
+  post
+
+  report
+
+  sister
+
+  rescue
+
+  south'
+bip_39_word_new_line11: 'field
+
+  skin
+
+  popular
+
+  inform
+
+  print
+
+  post
+
+  report
+
+  sister
+
+  rescue
+
+  south
+
+  noise'
+bip_39_word_new_line12: 'field
+
+  skin
+
+  popular
+
+  inform
+
+  print
+
+  post
+
+  report
+
+  sister
+
+  rescue
+
+  south
+
+  noise
+
+  acoustic'
+bip_39_word_new_line2: 'field
+
+  skin'
+bip_39_word_new_line3: 'field
+
+  skin
+
+  popular'
+bip_39_word_new_line4: 'field
+
+  skin
+
+  popular
+
+  inform'
+bip_39_word_new_line5: 'field
+
+  skin
+
+  popular
+
+  inform
+
+  print'
+bip_39_word_new_line6: 'field
+
+  skin
+
+  popular
+
+  inform
+
+  print
+
+  post'
+bip_39_word_new_line7: 'field
+
+  skin
+
+  popular
+
+  inform
+
+  print
+
+  post
+
+  report'
+bip_39_word_new_line8: 'field
+
+  skin
+
+  popular
+
+  inform
+
+  print
+
+  post
+
+  report
+
+  sister'
+bip_39_word_new_line9: 'field
+
+  skin
+
+  popular
+
+  inform
+
+  print
+
+  post
+
+  report
+
+  sister
+
+  rescue'
+bip_39_word_space_0:
+- field
+- skin
+- popular
+- inform
+- print
+- post
+- report
+- sister
+- rescue
+- south
+- noise
+- acoustic
+bip_39_word_space_1: field
+bip_39_word_space_10: field skin popular inform print post report sister rescue south
+bip_39_word_space_11: field skin popular inform print post report sister rescue south
+  noise
+bip_39_word_space_12: field skin popular inform print post report sister rescue south
+  noise acoustic
+bip_39_word_space_2: field skin
+bip_39_word_space_3: field skin popular
+bip_39_word_space_4: field skin popular inform
+bip_39_word_space_5: field skin popular inform print
+bip_39_word_space_6: field skin popular inform print post
+bip_39_word_space_7: field skin popular inform print post report
+bip_39_word_space_8: field skin popular inform print post report sister
+bip_39_word_space_9: field skin popular inform print post report sister rescue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: rigid
+bip_39_word_new_br10: rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt<br>lock<br>slight<br>panel<br>purse
+bip_39_word_new_br11: rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt<br>lock<br>slight<br>panel<br>purse<br>mammal
+bip_39_word_new_br12: rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt<br>lock<br>slight<br>panel<br>purse<br>mammal<br>account
+bip_39_word_new_br2: rigid<br>dirt
+bip_39_word_new_br3: rigid<br>dirt<br>trim
+bip_39_word_new_br4: rigid<br>dirt<br>trim<br>upper
+bip_39_word_new_br5: rigid<br>dirt<br>trim<br>upper<br>inmate
+bip_39_word_new_br6: rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt
+bip_39_word_new_br7: rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt<br>lock
+bip_39_word_new_br8: rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt<br>lock<br>slight
+bip_39_word_new_br9: rigid<br>dirt<br>trim<br>upper<br>inmate<br>hurt<br>lock<br>slight<br>panel
+bip_39_word_new_line1: rigid
+bip_39_word_new_line10: 'rigid
+
+  dirt
+
+  trim
+
+  upper
+
+  inmate
+
+  hurt
+
+  lock
+
+  slight
+
+  panel
+
+  purse'
+bip_39_word_new_line11: 'rigid
+
+  dirt
+
+  trim
+
+  upper
+
+  inmate
+
+  hurt
+
+  lock
+
+  slight
+
+  panel
+
+  purse
+
+  mammal'
+bip_39_word_new_line12: 'rigid
+
+  dirt
+
+  trim
+
+  upper
+
+  inmate
+
+  hurt
+
+  lock
+
+  slight
+
+  panel
+
+  purse
+
+  mammal
+
+  account'
+bip_39_word_new_line2: 'rigid
+
+  dirt'
+bip_39_word_new_line3: 'rigid
+
+  dirt
+
+  trim'
+bip_39_word_new_line4: 'rigid
+
+  dirt
+
+  trim
+
+  upper'
+bip_39_word_new_line5: 'rigid
+
+  dirt
+
+  trim
+
+  upper
+
+  inmate'
+bip_39_word_new_line6: 'rigid
+
+  dirt
+
+  trim
+
+  upper
+
+  inmate
+
+  hurt'
+bip_39_word_new_line7: 'rigid
+
+  dirt
+
+  trim
+
+  upper
+
+  inmate
+
+  hurt
+
+  lock'
+bip_39_word_new_line8: 'rigid
+
+  dirt
+
+  trim
+
+  upper
+
+  inmate
+
+  hurt
+
+  lock
+
+  slight'
+bip_39_word_new_line9: 'rigid
+
+  dirt
+
+  trim
+
+  upper
+
+  inmate
+
+  hurt
+
+  lock
+
+  slight
+
+  panel'
+bip_39_word_space_0:
+- rigid
+- dirt
+- trim
+- upper
+- inmate
+- hurt
+- lock
+- slight
+- panel
+- purse
+- mammal
+- account
+bip_39_word_space_1: rigid
+bip_39_word_space_10: rigid dirt trim upper inmate hurt lock slight panel purse
+bip_39_word_space_11: rigid dirt trim upper inmate hurt lock slight panel purse mammal
+bip_39_word_space_12: rigid dirt trim upper inmate hurt lock slight panel purse mammal
+  account
+bip_39_word_space_2: rigid dirt
+bip_39_word_space_3: rigid dirt trim
+bip_39_word_space_4: rigid dirt trim upper
+bip_39_word_space_5: rigid dirt trim upper inmate
+bip_39_word_space_6: rigid dirt trim upper inmate hurt
+bip_39_word_space_7: rigid dirt trim upper inmate hurt lock
+bip_39_word_space_8: rigid dirt trim upper inmate hurt lock slight
+bip_39_word_space_9: rigid dirt trim upper inmate hurt lock slight panel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

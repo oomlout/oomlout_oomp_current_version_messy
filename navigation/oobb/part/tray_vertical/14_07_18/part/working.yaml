@@ -1,3 +1,187 @@
+bip_39_word_new_br1: soft
+bip_39_word_new_br10: soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude
+bip_39_word_new_br11: soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude<br>kiss
+bip_39_word_new_br12: soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition<br>attitude<br>kiss<br>again
+bip_39_word_new_br2: soft<br>million
+bip_39_word_new_br3: soft<br>million<br>uncover
+bip_39_word_new_br4: soft<br>million<br>uncover<br>admit
+bip_39_word_new_br5: soft<br>million<br>uncover<br>admit<br>birth
+bip_39_word_new_br6: soft<br>million<br>uncover<br>admit<br>birth<br>siren
+bip_39_word_new_br7: soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame
+bip_39_word_new_br8: soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle
+bip_39_word_new_br9: soft<br>million<br>uncover<br>admit<br>birth<br>siren<br>blame<br>shuffle<br>tuition
+bip_39_word_new_line1: soft
+bip_39_word_new_line10: 'soft
+
+  million
+
+  uncover
+
+  admit
+
+  birth
+
+  siren
+
+  blame
+
+  shuffle
+
+  tuition
+
+  attitude'
+bip_39_word_new_line11: 'soft
+
+  million
+
+  uncover
+
+  admit
+
+  birth
+
+  siren
+
+  blame
+
+  shuffle
+
+  tuition
+
+  attitude
+
+  kiss'
+bip_39_word_new_line12: 'soft
+
+  million
+
+  uncover
+
+  admit
+
+  birth
+
+  siren
+
+  blame
+
+  shuffle
+
+  tuition
+
+  attitude
+
+  kiss
+
+  again'
+bip_39_word_new_line2: 'soft
+
+  million'
+bip_39_word_new_line3: 'soft
+
+  million
+
+  uncover'
+bip_39_word_new_line4: 'soft
+
+  million
+
+  uncover
+
+  admit'
+bip_39_word_new_line5: 'soft
+
+  million
+
+  uncover
+
+  admit
+
+  birth'
+bip_39_word_new_line6: 'soft
+
+  million
+
+  uncover
+
+  admit
+
+  birth
+
+  siren'
+bip_39_word_new_line7: 'soft
+
+  million
+
+  uncover
+
+  admit
+
+  birth
+
+  siren
+
+  blame'
+bip_39_word_new_line8: 'soft
+
+  million
+
+  uncover
+
+  admit
+
+  birth
+
+  siren
+
+  blame
+
+  shuffle'
+bip_39_word_new_line9: 'soft
+
+  million
+
+  uncover
+
+  admit
+
+  birth
+
+  siren
+
+  blame
+
+  shuffle
+
+  tuition'
+bip_39_word_space_0:
+- soft
+- million
+- uncover
+- admit
+- birth
+- siren
+- blame
+- shuffle
+- tuition
+- attitude
+- kiss
+- again
+bip_39_word_space_1: soft
+bip_39_word_space_10: soft million uncover admit birth siren blame shuffle tuition
+  attitude
+bip_39_word_space_11: soft million uncover admit birth siren blame shuffle tuition
+  attitude kiss
+bip_39_word_space_12: soft million uncover admit birth siren blame shuffle tuition
+  attitude kiss again
+bip_39_word_space_2: soft million
+bip_39_word_space_3: soft million uncover
+bip_39_word_space_4: soft million uncover admit
+bip_39_word_space_5: soft million uncover admit birth
+bip_39_word_space_6: soft million uncover admit birth siren
+bip_39_word_space_7: soft million uncover admit birth siren blame
+bip_39_word_space_8: soft million uncover admit birth siren blame shuffle
+bip_39_word_space_9: soft million uncover admit birth siren blame shuffle tuition
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

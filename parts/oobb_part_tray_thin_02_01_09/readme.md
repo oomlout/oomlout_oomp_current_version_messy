@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: climb sponsor
+  * bip 39 word 3: climb sponsor weekend
+  * bip 39 word: climb sponsor weekend bundle shoe slim fortune knife ring poem leader act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | climb |  
+| bip_39_word_new_br10 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim<br>fortune<br>knife<br>ring<br>poem |  
+| bip_39_word_new_br11 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim<br>fortune<br>knife<br>ring<br>poem<br>leader |  
+| bip_39_word_new_br12 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim<br>fortune<br>knife<br>ring<br>poem<br>leader<br>act |  
+| bip_39_word_new_br2 | climb<br>sponsor |  
+| bip_39_word_new_br3 | climb<br>sponsor<br>weekend |  
+| bip_39_word_new_br4 | climb<br>sponsor<br>weekend<br>bundle |  
+| bip_39_word_new_br5 | climb<br>sponsor<br>weekend<br>bundle<br>shoe |  
+| bip_39_word_new_br6 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim |  
+| bip_39_word_new_br7 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim<br>fortune |  
+| bip_39_word_new_br8 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim<br>fortune<br>knife |  
+| bip_39_word_new_br9 | climb<br>sponsor<br>weekend<br>bundle<br>shoe<br>slim<br>fortune<br>knife<br>ring |  
+| bip_39_word_new_line1 | climb |  
+| bip_39_word_new_line10 | climb
+sponsor
+weekend
+bundle
+shoe
+slim
+fortune
+knife
+ring
+poem |  
+| bip_39_word_new_line11 | climb
+sponsor
+weekend
+bundle
+shoe
+slim
+fortune
+knife
+ring
+poem
+leader |  
+| bip_39_word_new_line12 | climb
+sponsor
+weekend
+bundle
+shoe
+slim
+fortune
+knife
+ring
+poem
+leader
+act |  
+| bip_39_word_new_line2 | climb
+sponsor |  
+| bip_39_word_new_line3 | climb
+sponsor
+weekend |  
+| bip_39_word_new_line4 | climb
+sponsor
+weekend
+bundle |  
+| bip_39_word_new_line5 | climb
+sponsor
+weekend
+bundle
+shoe |  
+| bip_39_word_new_line6 | climb
+sponsor
+weekend
+bundle
+shoe
+slim |  
+| bip_39_word_new_line7 | climb
+sponsor
+weekend
+bundle
+shoe
+slim
+fortune |  
+| bip_39_word_new_line8 | climb
+sponsor
+weekend
+bundle
+shoe
+slim
+fortune
+knife |  
+| bip_39_word_new_line9 | climb
+sponsor
+weekend
+bundle
+shoe
+slim
+fortune
+knife
+ring |  
+| bip_39_word_space_0 | ['climb', 'sponsor', 'weekend', 'bundle', 'shoe', 'slim', 'fortune', 'knife', 'ring', 'poem', 'leader', 'act'] |  
+| bip_39_word_space_1 | climb |  
+| bip_39_word_space_10 | climb sponsor weekend bundle shoe slim fortune knife ring poem |  
+| bip_39_word_space_11 | climb sponsor weekend bundle shoe slim fortune knife ring poem leader |  
+| bip_39_word_space_12 | climb sponsor weekend bundle shoe slim fortune knife ring poem leader act |  
+| bip_39_word_space_2 | climb sponsor |  
+| bip_39_word_space_3 | climb sponsor weekend |  
+| bip_39_word_space_4 | climb sponsor weekend bundle |  
+| bip_39_word_space_5 | climb sponsor weekend bundle shoe |  
+| bip_39_word_space_6 | climb sponsor weekend bundle shoe slim |  
+| bip_39_word_space_7 | climb sponsor weekend bundle shoe slim fortune |  
+| bip_39_word_space_8 | climb sponsor weekend bundle shoe slim fortune knife |  
+| bip_39_word_space_9 | climb sponsor weekend bundle shoe slim fortune knife ring |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

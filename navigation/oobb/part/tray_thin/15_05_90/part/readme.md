@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: duck purse
+  * bip 39 word 3: duck purse battle
+  * bip 39 word: duck purse battle predict surge obtain dune valve vital dinner organ actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | duck |  
+| bip_39_word_new_br10 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain<br>dune<br>valve<br>vital<br>dinner |  
+| bip_39_word_new_br11 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain<br>dune<br>valve<br>vital<br>dinner<br>organ |  
+| bip_39_word_new_br12 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain<br>dune<br>valve<br>vital<br>dinner<br>organ<br>actress |  
+| bip_39_word_new_br2 | duck<br>purse |  
+| bip_39_word_new_br3 | duck<br>purse<br>battle |  
+| bip_39_word_new_br4 | duck<br>purse<br>battle<br>predict |  
+| bip_39_word_new_br5 | duck<br>purse<br>battle<br>predict<br>surge |  
+| bip_39_word_new_br6 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain |  
+| bip_39_word_new_br7 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain<br>dune |  
+| bip_39_word_new_br8 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain<br>dune<br>valve |  
+| bip_39_word_new_br9 | duck<br>purse<br>battle<br>predict<br>surge<br>obtain<br>dune<br>valve<br>vital |  
+| bip_39_word_new_line1 | duck |  
+| bip_39_word_new_line10 | duck
+purse
+battle
+predict
+surge
+obtain
+dune
+valve
+vital
+dinner |  
+| bip_39_word_new_line11 | duck
+purse
+battle
+predict
+surge
+obtain
+dune
+valve
+vital
+dinner
+organ |  
+| bip_39_word_new_line12 | duck
+purse
+battle
+predict
+surge
+obtain
+dune
+valve
+vital
+dinner
+organ
+actress |  
+| bip_39_word_new_line2 | duck
+purse |  
+| bip_39_word_new_line3 | duck
+purse
+battle |  
+| bip_39_word_new_line4 | duck
+purse
+battle
+predict |  
+| bip_39_word_new_line5 | duck
+purse
+battle
+predict
+surge |  
+| bip_39_word_new_line6 | duck
+purse
+battle
+predict
+surge
+obtain |  
+| bip_39_word_new_line7 | duck
+purse
+battle
+predict
+surge
+obtain
+dune |  
+| bip_39_word_new_line8 | duck
+purse
+battle
+predict
+surge
+obtain
+dune
+valve |  
+| bip_39_word_new_line9 | duck
+purse
+battle
+predict
+surge
+obtain
+dune
+valve
+vital |  
+| bip_39_word_space_0 | ['duck', 'purse', 'battle', 'predict', 'surge', 'obtain', 'dune', 'valve', 'vital', 'dinner', 'organ', 'actress'] |  
+| bip_39_word_space_1 | duck |  
+| bip_39_word_space_10 | duck purse battle predict surge obtain dune valve vital dinner |  
+| bip_39_word_space_11 | duck purse battle predict surge obtain dune valve vital dinner organ |  
+| bip_39_word_space_12 | duck purse battle predict surge obtain dune valve vital dinner organ actress |  
+| bip_39_word_space_2 | duck purse |  
+| bip_39_word_space_3 | duck purse battle |  
+| bip_39_word_space_4 | duck purse battle predict |  
+| bip_39_word_space_5 | duck purse battle predict surge |  
+| bip_39_word_space_6 | duck purse battle predict surge obtain |  
+| bip_39_word_space_7 | duck purse battle predict surge obtain dune |  
+| bip_39_word_space_8 | duck purse battle predict surge obtain dune valve |  
+| bip_39_word_space_9 | duck purse battle predict surge obtain dune valve vital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

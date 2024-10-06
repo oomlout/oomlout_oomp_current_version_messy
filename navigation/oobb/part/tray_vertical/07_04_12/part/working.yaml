@@ -1,3 +1,186 @@
+bip_39_word_new_br1: first
+bip_39_word_new_br10: first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion
+bip_39_word_new_br11: first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion<br>key
+bip_39_word_new_br12: first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat<br>fashion<br>key<br>album
+bip_39_word_new_br2: first<br>vehicle
+bip_39_word_new_br3: first<br>vehicle<br>zebra
+bip_39_word_new_br4: first<br>vehicle<br>zebra<br>buddy
+bip_39_word_new_br5: first<br>vehicle<br>zebra<br>buddy<br>shy
+bip_39_word_new_br6: first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory
+bip_39_word_new_br7: first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber
+bip_39_word_new_br8: first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip
+bip_39_word_new_br9: first<br>vehicle<br>zebra<br>buddy<br>shy<br>glory<br>lumber<br>whip<br>goat
+bip_39_word_new_line1: first
+bip_39_word_new_line10: 'first
+
+  vehicle
+
+  zebra
+
+  buddy
+
+  shy
+
+  glory
+
+  lumber
+
+  whip
+
+  goat
+
+  fashion'
+bip_39_word_new_line11: 'first
+
+  vehicle
+
+  zebra
+
+  buddy
+
+  shy
+
+  glory
+
+  lumber
+
+  whip
+
+  goat
+
+  fashion
+
+  key'
+bip_39_word_new_line12: 'first
+
+  vehicle
+
+  zebra
+
+  buddy
+
+  shy
+
+  glory
+
+  lumber
+
+  whip
+
+  goat
+
+  fashion
+
+  key
+
+  album'
+bip_39_word_new_line2: 'first
+
+  vehicle'
+bip_39_word_new_line3: 'first
+
+  vehicle
+
+  zebra'
+bip_39_word_new_line4: 'first
+
+  vehicle
+
+  zebra
+
+  buddy'
+bip_39_word_new_line5: 'first
+
+  vehicle
+
+  zebra
+
+  buddy
+
+  shy'
+bip_39_word_new_line6: 'first
+
+  vehicle
+
+  zebra
+
+  buddy
+
+  shy
+
+  glory'
+bip_39_word_new_line7: 'first
+
+  vehicle
+
+  zebra
+
+  buddy
+
+  shy
+
+  glory
+
+  lumber'
+bip_39_word_new_line8: 'first
+
+  vehicle
+
+  zebra
+
+  buddy
+
+  shy
+
+  glory
+
+  lumber
+
+  whip'
+bip_39_word_new_line9: 'first
+
+  vehicle
+
+  zebra
+
+  buddy
+
+  shy
+
+  glory
+
+  lumber
+
+  whip
+
+  goat'
+bip_39_word_space_0:
+- first
+- vehicle
+- zebra
+- buddy
+- shy
+- glory
+- lumber
+- whip
+- goat
+- fashion
+- key
+- album
+bip_39_word_space_1: first
+bip_39_word_space_10: first vehicle zebra buddy shy glory lumber whip goat fashion
+bip_39_word_space_11: first vehicle zebra buddy shy glory lumber whip goat fashion
+  key
+bip_39_word_space_12: first vehicle zebra buddy shy glory lumber whip goat fashion
+  key album
+bip_39_word_space_2: first vehicle
+bip_39_word_space_3: first vehicle zebra
+bip_39_word_space_4: first vehicle zebra buddy
+bip_39_word_space_5: first vehicle zebra buddy shy
+bip_39_word_space_6: first vehicle zebra buddy shy glory
+bip_39_word_space_7: first vehicle zebra buddy shy glory lumber
+bip_39_word_space_8: first vehicle zebra buddy shy glory lumber whip
+bip_39_word_space_9: first vehicle zebra buddy shy glory lumber whip goat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

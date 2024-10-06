@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: camp carry
+  * bip 39 word 3: camp carry code
+  * bip 39 word: camp carry code chuckle myself feature wonder animal pulp badge palace aisle
 
 ### other_codes
 * short_code: sc5b40h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | camp |  
+| bip_39_word_new_br10 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature<br>wonder<br>animal<br>pulp<br>badge |  
+| bip_39_word_new_br11 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature<br>wonder<br>animal<br>pulp<br>badge<br>palace |  
+| bip_39_word_new_br12 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature<br>wonder<br>animal<br>pulp<br>badge<br>palace<br>aisle |  
+| bip_39_word_new_br2 | camp<br>carry |  
+| bip_39_word_new_br3 | camp<br>carry<br>code |  
+| bip_39_word_new_br4 | camp<br>carry<br>code<br>chuckle |  
+| bip_39_word_new_br5 | camp<br>carry<br>code<br>chuckle<br>myself |  
+| bip_39_word_new_br6 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature |  
+| bip_39_word_new_br7 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature<br>wonder |  
+| bip_39_word_new_br8 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature<br>wonder<br>animal |  
+| bip_39_word_new_br9 | camp<br>carry<br>code<br>chuckle<br>myself<br>feature<br>wonder<br>animal<br>pulp |  
+| bip_39_word_new_line1 | camp |  
+| bip_39_word_new_line10 | camp
+carry
+code
+chuckle
+myself
+feature
+wonder
+animal
+pulp
+badge |  
+| bip_39_word_new_line11 | camp
+carry
+code
+chuckle
+myself
+feature
+wonder
+animal
+pulp
+badge
+palace |  
+| bip_39_word_new_line12 | camp
+carry
+code
+chuckle
+myself
+feature
+wonder
+animal
+pulp
+badge
+palace
+aisle |  
+| bip_39_word_new_line2 | camp
+carry |  
+| bip_39_word_new_line3 | camp
+carry
+code |  
+| bip_39_word_new_line4 | camp
+carry
+code
+chuckle |  
+| bip_39_word_new_line5 | camp
+carry
+code
+chuckle
+myself |  
+| bip_39_word_new_line6 | camp
+carry
+code
+chuckle
+myself
+feature |  
+| bip_39_word_new_line7 | camp
+carry
+code
+chuckle
+myself
+feature
+wonder |  
+| bip_39_word_new_line8 | camp
+carry
+code
+chuckle
+myself
+feature
+wonder
+animal |  
+| bip_39_word_new_line9 | camp
+carry
+code
+chuckle
+myself
+feature
+wonder
+animal
+pulp |  
+| bip_39_word_space_0 | ['camp', 'carry', 'code', 'chuckle', 'myself', 'feature', 'wonder', 'animal', 'pulp', 'badge', 'palace', 'aisle'] |  
+| bip_39_word_space_1 | camp |  
+| bip_39_word_space_10 | camp carry code chuckle myself feature wonder animal pulp badge |  
+| bip_39_word_space_11 | camp carry code chuckle myself feature wonder animal pulp badge palace |  
+| bip_39_word_space_12 | camp carry code chuckle myself feature wonder animal pulp badge palace aisle |  
+| bip_39_word_space_2 | camp carry |  
+| bip_39_word_space_3 | camp carry code |  
+| bip_39_word_space_4 | camp carry code chuckle |  
+| bip_39_word_space_5 | camp carry code chuckle myself |  
+| bip_39_word_space_6 | camp carry code chuckle myself feature |  
+| bip_39_word_space_7 | camp carry code chuckle myself feature wonder |  
+| bip_39_word_space_8 | camp carry code chuckle myself feature wonder animal |  
+| bip_39_word_space_9 | camp carry code chuckle myself feature wonder animal pulp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

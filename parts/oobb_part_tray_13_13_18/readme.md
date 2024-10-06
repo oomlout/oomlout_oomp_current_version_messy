@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rule fat
+  * bip 39 word 3: rule fat bread
+  * bip 39 word: rule fat bread ginger denial stem crowd brave select left team antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rule |  
+| bip_39_word_new_br10 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem<br>crowd<br>brave<br>select<br>left |  
+| bip_39_word_new_br11 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem<br>crowd<br>brave<br>select<br>left<br>team |  
+| bip_39_word_new_br12 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem<br>crowd<br>brave<br>select<br>left<br>team<br>antique |  
+| bip_39_word_new_br2 | rule<br>fat |  
+| bip_39_word_new_br3 | rule<br>fat<br>bread |  
+| bip_39_word_new_br4 | rule<br>fat<br>bread<br>ginger |  
+| bip_39_word_new_br5 | rule<br>fat<br>bread<br>ginger<br>denial |  
+| bip_39_word_new_br6 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem |  
+| bip_39_word_new_br7 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem<br>crowd |  
+| bip_39_word_new_br8 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem<br>crowd<br>brave |  
+| bip_39_word_new_br9 | rule<br>fat<br>bread<br>ginger<br>denial<br>stem<br>crowd<br>brave<br>select |  
+| bip_39_word_new_line1 | rule |  
+| bip_39_word_new_line10 | rule
+fat
+bread
+ginger
+denial
+stem
+crowd
+brave
+select
+left |  
+| bip_39_word_new_line11 | rule
+fat
+bread
+ginger
+denial
+stem
+crowd
+brave
+select
+left
+team |  
+| bip_39_word_new_line12 | rule
+fat
+bread
+ginger
+denial
+stem
+crowd
+brave
+select
+left
+team
+antique |  
+| bip_39_word_new_line2 | rule
+fat |  
+| bip_39_word_new_line3 | rule
+fat
+bread |  
+| bip_39_word_new_line4 | rule
+fat
+bread
+ginger |  
+| bip_39_word_new_line5 | rule
+fat
+bread
+ginger
+denial |  
+| bip_39_word_new_line6 | rule
+fat
+bread
+ginger
+denial
+stem |  
+| bip_39_word_new_line7 | rule
+fat
+bread
+ginger
+denial
+stem
+crowd |  
+| bip_39_word_new_line8 | rule
+fat
+bread
+ginger
+denial
+stem
+crowd
+brave |  
+| bip_39_word_new_line9 | rule
+fat
+bread
+ginger
+denial
+stem
+crowd
+brave
+select |  
+| bip_39_word_space_0 | ['rule', 'fat', 'bread', 'ginger', 'denial', 'stem', 'crowd', 'brave', 'select', 'left', 'team', 'antique'] |  
+| bip_39_word_space_1 | rule |  
+| bip_39_word_space_10 | rule fat bread ginger denial stem crowd brave select left |  
+| bip_39_word_space_11 | rule fat bread ginger denial stem crowd brave select left team |  
+| bip_39_word_space_12 | rule fat bread ginger denial stem crowd brave select left team antique |  
+| bip_39_word_space_2 | rule fat |  
+| bip_39_word_space_3 | rule fat bread |  
+| bip_39_word_space_4 | rule fat bread ginger |  
+| bip_39_word_space_5 | rule fat bread ginger denial |  
+| bip_39_word_space_6 | rule fat bread ginger denial stem |  
+| bip_39_word_space_7 | rule fat bread ginger denial stem crowd |  
+| bip_39_word_space_8 | rule fat bread ginger denial stem crowd brave |  
+| bip_39_word_space_9 | rule fat bread ginger denial stem crowd brave select |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

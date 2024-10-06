@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boy soldier
+  * bip 39 word 3: boy soldier scrap
+  * bip 39 word: boy soldier scrap damp furnace barely jeans belt unfold spoil potato angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boy |  
+| bip_39_word_new_br10 | boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely<br>jeans<br>belt<br>unfold<br>spoil |  
+| bip_39_word_new_br11 | boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely<br>jeans<br>belt<br>unfold<br>spoil<br>potato |  
+| bip_39_word_new_br12 | boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely<br>jeans<br>belt<br>unfold<br>spoil<br>potato<br>angry |  
+| bip_39_word_new_br2 | boy<br>soldier |  
+| bip_39_word_new_br3 | boy<br>soldier<br>scrap |  
+| bip_39_word_new_br4 | boy<br>soldier<br>scrap<br>damp |  
+| bip_39_word_new_br5 | boy<br>soldier<br>scrap<br>damp<br>furnace |  
+| bip_39_word_new_br6 | boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely |  
+| bip_39_word_new_br7 | boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely<br>jeans |  
+| bip_39_word_new_br8 | boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely<br>jeans<br>belt |  
+| bip_39_word_new_br9 | boy<br>soldier<br>scrap<br>damp<br>furnace<br>barely<br>jeans<br>belt<br>unfold |  
+| bip_39_word_new_line1 | boy |  
+| bip_39_word_new_line10 | boy
+soldier
+scrap
+damp
+furnace
+barely
+jeans
+belt
+unfold
+spoil |  
+| bip_39_word_new_line11 | boy
+soldier
+scrap
+damp
+furnace
+barely
+jeans
+belt
+unfold
+spoil
+potato |  
+| bip_39_word_new_line12 | boy
+soldier
+scrap
+damp
+furnace
+barely
+jeans
+belt
+unfold
+spoil
+potato
+angry |  
+| bip_39_word_new_line2 | boy
+soldier |  
+| bip_39_word_new_line3 | boy
+soldier
+scrap |  
+| bip_39_word_new_line4 | boy
+soldier
+scrap
+damp |  
+| bip_39_word_new_line5 | boy
+soldier
+scrap
+damp
+furnace |  
+| bip_39_word_new_line6 | boy
+soldier
+scrap
+damp
+furnace
+barely |  
+| bip_39_word_new_line7 | boy
+soldier
+scrap
+damp
+furnace
+barely
+jeans |  
+| bip_39_word_new_line8 | boy
+soldier
+scrap
+damp
+furnace
+barely
+jeans
+belt |  
+| bip_39_word_new_line9 | boy
+soldier
+scrap
+damp
+furnace
+barely
+jeans
+belt
+unfold |  
+| bip_39_word_space_0 | ['boy', 'soldier', 'scrap', 'damp', 'furnace', 'barely', 'jeans', 'belt', 'unfold', 'spoil', 'potato', 'angry'] |  
+| bip_39_word_space_1 | boy |  
+| bip_39_word_space_10 | boy soldier scrap damp furnace barely jeans belt unfold spoil |  
+| bip_39_word_space_11 | boy soldier scrap damp furnace barely jeans belt unfold spoil potato |  
+| bip_39_word_space_12 | boy soldier scrap damp furnace barely jeans belt unfold spoil potato angry |  
+| bip_39_word_space_2 | boy soldier |  
+| bip_39_word_space_3 | boy soldier scrap |  
+| bip_39_word_space_4 | boy soldier scrap damp |  
+| bip_39_word_space_5 | boy soldier scrap damp furnace |  
+| bip_39_word_space_6 | boy soldier scrap damp furnace barely |  
+| bip_39_word_space_7 | boy soldier scrap damp furnace barely jeans |  
+| bip_39_word_space_8 | boy soldier scrap damp furnace barely jeans belt |  
+| bip_39_word_space_9 | boy soldier scrap damp furnace barely jeans belt unfold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

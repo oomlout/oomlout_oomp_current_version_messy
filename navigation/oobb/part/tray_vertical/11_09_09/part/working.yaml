@@ -1,3 +1,186 @@
+bip_39_word_new_br1: exile
+bip_39_word_new_br10: exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight
+bip_39_word_new_br11: exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight<br>vehicle
+bip_39_word_new_br12: exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space<br>midnight<br>vehicle<br>absent
+bip_39_word_new_br2: exile<br>dust
+bip_39_word_new_br3: exile<br>dust<br>eager
+bip_39_word_new_br4: exile<br>dust<br>eager<br>start
+bip_39_word_new_br5: exile<br>dust<br>eager<br>start<br>illegal
+bip_39_word_new_br6: exile<br>dust<br>eager<br>start<br>illegal<br>round
+bip_39_word_new_br7: exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen
+bip_39_word_new_br8: exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely
+bip_39_word_new_br9: exile<br>dust<br>eager<br>start<br>illegal<br>round<br>reopen<br>rely<br>space
+bip_39_word_new_line1: exile
+bip_39_word_new_line10: 'exile
+
+  dust
+
+  eager
+
+  start
+
+  illegal
+
+  round
+
+  reopen
+
+  rely
+
+  space
+
+  midnight'
+bip_39_word_new_line11: 'exile
+
+  dust
+
+  eager
+
+  start
+
+  illegal
+
+  round
+
+  reopen
+
+  rely
+
+  space
+
+  midnight
+
+  vehicle'
+bip_39_word_new_line12: 'exile
+
+  dust
+
+  eager
+
+  start
+
+  illegal
+
+  round
+
+  reopen
+
+  rely
+
+  space
+
+  midnight
+
+  vehicle
+
+  absent'
+bip_39_word_new_line2: 'exile
+
+  dust'
+bip_39_word_new_line3: 'exile
+
+  dust
+
+  eager'
+bip_39_word_new_line4: 'exile
+
+  dust
+
+  eager
+
+  start'
+bip_39_word_new_line5: 'exile
+
+  dust
+
+  eager
+
+  start
+
+  illegal'
+bip_39_word_new_line6: 'exile
+
+  dust
+
+  eager
+
+  start
+
+  illegal
+
+  round'
+bip_39_word_new_line7: 'exile
+
+  dust
+
+  eager
+
+  start
+
+  illegal
+
+  round
+
+  reopen'
+bip_39_word_new_line8: 'exile
+
+  dust
+
+  eager
+
+  start
+
+  illegal
+
+  round
+
+  reopen
+
+  rely'
+bip_39_word_new_line9: 'exile
+
+  dust
+
+  eager
+
+  start
+
+  illegal
+
+  round
+
+  reopen
+
+  rely
+
+  space'
+bip_39_word_space_0:
+- exile
+- dust
+- eager
+- start
+- illegal
+- round
+- reopen
+- rely
+- space
+- midnight
+- vehicle
+- absent
+bip_39_word_space_1: exile
+bip_39_word_space_10: exile dust eager start illegal round reopen rely space midnight
+bip_39_word_space_11: exile dust eager start illegal round reopen rely space midnight
+  vehicle
+bip_39_word_space_12: exile dust eager start illegal round reopen rely space midnight
+  vehicle absent
+bip_39_word_space_2: exile dust
+bip_39_word_space_3: exile dust eager
+bip_39_word_space_4: exile dust eager start
+bip_39_word_space_5: exile dust eager start illegal
+bip_39_word_space_6: exile dust eager start illegal round
+bip_39_word_space_7: exile dust eager start illegal round reopen
+bip_39_word_space_8: exile dust eager start illegal round reopen rely
+bip_39_word_space_9: exile dust eager start illegal round reopen rely space
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

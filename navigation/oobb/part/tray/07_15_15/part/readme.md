@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: embark stage
+  * bip 39 word 3: embark stage daughter
+  * bip 39 word: embark stage daughter average decorate air enrich orphan ugly edit hour angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | embark |  
+| bip_39_word_new_br10 | embark<br>stage<br>daughter<br>average<br>decorate<br>air<br>enrich<br>orphan<br>ugly<br>edit |  
+| bip_39_word_new_br11 | embark<br>stage<br>daughter<br>average<br>decorate<br>air<br>enrich<br>orphan<br>ugly<br>edit<br>hour |  
+| bip_39_word_new_br12 | embark<br>stage<br>daughter<br>average<br>decorate<br>air<br>enrich<br>orphan<br>ugly<br>edit<br>hour<br>angle |  
+| bip_39_word_new_br2 | embark<br>stage |  
+| bip_39_word_new_br3 | embark<br>stage<br>daughter |  
+| bip_39_word_new_br4 | embark<br>stage<br>daughter<br>average |  
+| bip_39_word_new_br5 | embark<br>stage<br>daughter<br>average<br>decorate |  
+| bip_39_word_new_br6 | embark<br>stage<br>daughter<br>average<br>decorate<br>air |  
+| bip_39_word_new_br7 | embark<br>stage<br>daughter<br>average<br>decorate<br>air<br>enrich |  
+| bip_39_word_new_br8 | embark<br>stage<br>daughter<br>average<br>decorate<br>air<br>enrich<br>orphan |  
+| bip_39_word_new_br9 | embark<br>stage<br>daughter<br>average<br>decorate<br>air<br>enrich<br>orphan<br>ugly |  
+| bip_39_word_new_line1 | embark |  
+| bip_39_word_new_line10 | embark
+stage
+daughter
+average
+decorate
+air
+enrich
+orphan
+ugly
+edit |  
+| bip_39_word_new_line11 | embark
+stage
+daughter
+average
+decorate
+air
+enrich
+orphan
+ugly
+edit
+hour |  
+| bip_39_word_new_line12 | embark
+stage
+daughter
+average
+decorate
+air
+enrich
+orphan
+ugly
+edit
+hour
+angle |  
+| bip_39_word_new_line2 | embark
+stage |  
+| bip_39_word_new_line3 | embark
+stage
+daughter |  
+| bip_39_word_new_line4 | embark
+stage
+daughter
+average |  
+| bip_39_word_new_line5 | embark
+stage
+daughter
+average
+decorate |  
+| bip_39_word_new_line6 | embark
+stage
+daughter
+average
+decorate
+air |  
+| bip_39_word_new_line7 | embark
+stage
+daughter
+average
+decorate
+air
+enrich |  
+| bip_39_word_new_line8 | embark
+stage
+daughter
+average
+decorate
+air
+enrich
+orphan |  
+| bip_39_word_new_line9 | embark
+stage
+daughter
+average
+decorate
+air
+enrich
+orphan
+ugly |  
+| bip_39_word_space_0 | ['embark', 'stage', 'daughter', 'average', 'decorate', 'air', 'enrich', 'orphan', 'ugly', 'edit', 'hour', 'angle'] |  
+| bip_39_word_space_1 | embark |  
+| bip_39_word_space_10 | embark stage daughter average decorate air enrich orphan ugly edit |  
+| bip_39_word_space_11 | embark stage daughter average decorate air enrich orphan ugly edit hour |  
+| bip_39_word_space_12 | embark stage daughter average decorate air enrich orphan ugly edit hour angle |  
+| bip_39_word_space_2 | embark stage |  
+| bip_39_word_space_3 | embark stage daughter |  
+| bip_39_word_space_4 | embark stage daughter average |  
+| bip_39_word_space_5 | embark stage daughter average decorate |  
+| bip_39_word_space_6 | embark stage daughter average decorate air |  
+| bip_39_word_space_7 | embark stage daughter average decorate air enrich |  
+| bip_39_word_space_8 | embark stage daughter average decorate air enrich orphan |  
+| bip_39_word_space_9 | embark stage daughter average decorate air enrich orphan ugly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

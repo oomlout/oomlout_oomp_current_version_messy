@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: update funny
+  * bip 39 word 3: update funny direct
+  * bip 39 word: update funny direct old deer concert faith myself wild slender pulse act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | update |  
+| bip_39_word_new_br10 | update<br>funny<br>direct<br>old<br>deer<br>concert<br>faith<br>myself<br>wild<br>slender |  
+| bip_39_word_new_br11 | update<br>funny<br>direct<br>old<br>deer<br>concert<br>faith<br>myself<br>wild<br>slender<br>pulse |  
+| bip_39_word_new_br12 | update<br>funny<br>direct<br>old<br>deer<br>concert<br>faith<br>myself<br>wild<br>slender<br>pulse<br>act |  
+| bip_39_word_new_br2 | update<br>funny |  
+| bip_39_word_new_br3 | update<br>funny<br>direct |  
+| bip_39_word_new_br4 | update<br>funny<br>direct<br>old |  
+| bip_39_word_new_br5 | update<br>funny<br>direct<br>old<br>deer |  
+| bip_39_word_new_br6 | update<br>funny<br>direct<br>old<br>deer<br>concert |  
+| bip_39_word_new_br7 | update<br>funny<br>direct<br>old<br>deer<br>concert<br>faith |  
+| bip_39_word_new_br8 | update<br>funny<br>direct<br>old<br>deer<br>concert<br>faith<br>myself |  
+| bip_39_word_new_br9 | update<br>funny<br>direct<br>old<br>deer<br>concert<br>faith<br>myself<br>wild |  
+| bip_39_word_new_line1 | update |  
+| bip_39_word_new_line10 | update
+funny
+direct
+old
+deer
+concert
+faith
+myself
+wild
+slender |  
+| bip_39_word_new_line11 | update
+funny
+direct
+old
+deer
+concert
+faith
+myself
+wild
+slender
+pulse |  
+| bip_39_word_new_line12 | update
+funny
+direct
+old
+deer
+concert
+faith
+myself
+wild
+slender
+pulse
+act |  
+| bip_39_word_new_line2 | update
+funny |  
+| bip_39_word_new_line3 | update
+funny
+direct |  
+| bip_39_word_new_line4 | update
+funny
+direct
+old |  
+| bip_39_word_new_line5 | update
+funny
+direct
+old
+deer |  
+| bip_39_word_new_line6 | update
+funny
+direct
+old
+deer
+concert |  
+| bip_39_word_new_line7 | update
+funny
+direct
+old
+deer
+concert
+faith |  
+| bip_39_word_new_line8 | update
+funny
+direct
+old
+deer
+concert
+faith
+myself |  
+| bip_39_word_new_line9 | update
+funny
+direct
+old
+deer
+concert
+faith
+myself
+wild |  
+| bip_39_word_space_0 | ['update', 'funny', 'direct', 'old', 'deer', 'concert', 'faith', 'myself', 'wild', 'slender', 'pulse', 'act'] |  
+| bip_39_word_space_1 | update |  
+| bip_39_word_space_10 | update funny direct old deer concert faith myself wild slender |  
+| bip_39_word_space_11 | update funny direct old deer concert faith myself wild slender pulse |  
+| bip_39_word_space_12 | update funny direct old deer concert faith myself wild slender pulse act |  
+| bip_39_word_space_2 | update funny |  
+| bip_39_word_space_3 | update funny direct |  
+| bip_39_word_space_4 | update funny direct old |  
+| bip_39_word_space_5 | update funny direct old deer |  
+| bip_39_word_space_6 | update funny direct old deer concert |  
+| bip_39_word_space_7 | update funny direct old deer concert faith |  
+| bip_39_word_space_8 | update funny direct old deer concert faith myself |  
+| bip_39_word_space_9 | update funny direct old deer concert faith myself wild |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

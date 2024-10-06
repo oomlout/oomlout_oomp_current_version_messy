@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exist giraffe
+  * bip 39 word 3: exist giraffe chicken
+  * bip 39 word: exist giraffe chicken arrive swamp wool name moment artist miss notable area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exist |  
+| bip_39_word_new_br10 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool<br>name<br>moment<br>artist<br>miss |  
+| bip_39_word_new_br11 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool<br>name<br>moment<br>artist<br>miss<br>notable |  
+| bip_39_word_new_br12 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool<br>name<br>moment<br>artist<br>miss<br>notable<br>area |  
+| bip_39_word_new_br2 | exist<br>giraffe |  
+| bip_39_word_new_br3 | exist<br>giraffe<br>chicken |  
+| bip_39_word_new_br4 | exist<br>giraffe<br>chicken<br>arrive |  
+| bip_39_word_new_br5 | exist<br>giraffe<br>chicken<br>arrive<br>swamp |  
+| bip_39_word_new_br6 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool |  
+| bip_39_word_new_br7 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool<br>name |  
+| bip_39_word_new_br8 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool<br>name<br>moment |  
+| bip_39_word_new_br9 | exist<br>giraffe<br>chicken<br>arrive<br>swamp<br>wool<br>name<br>moment<br>artist |  
+| bip_39_word_new_line1 | exist |  
+| bip_39_word_new_line10 | exist
+giraffe
+chicken
+arrive
+swamp
+wool
+name
+moment
+artist
+miss |  
+| bip_39_word_new_line11 | exist
+giraffe
+chicken
+arrive
+swamp
+wool
+name
+moment
+artist
+miss
+notable |  
+| bip_39_word_new_line12 | exist
+giraffe
+chicken
+arrive
+swamp
+wool
+name
+moment
+artist
+miss
+notable
+area |  
+| bip_39_word_new_line2 | exist
+giraffe |  
+| bip_39_word_new_line3 | exist
+giraffe
+chicken |  
+| bip_39_word_new_line4 | exist
+giraffe
+chicken
+arrive |  
+| bip_39_word_new_line5 | exist
+giraffe
+chicken
+arrive
+swamp |  
+| bip_39_word_new_line6 | exist
+giraffe
+chicken
+arrive
+swamp
+wool |  
+| bip_39_word_new_line7 | exist
+giraffe
+chicken
+arrive
+swamp
+wool
+name |  
+| bip_39_word_new_line8 | exist
+giraffe
+chicken
+arrive
+swamp
+wool
+name
+moment |  
+| bip_39_word_new_line9 | exist
+giraffe
+chicken
+arrive
+swamp
+wool
+name
+moment
+artist |  
+| bip_39_word_space_0 | ['exist', 'giraffe', 'chicken', 'arrive', 'swamp', 'wool', 'name', 'moment', 'artist', 'miss', 'notable', 'area'] |  
+| bip_39_word_space_1 | exist |  
+| bip_39_word_space_10 | exist giraffe chicken arrive swamp wool name moment artist miss |  
+| bip_39_word_space_11 | exist giraffe chicken arrive swamp wool name moment artist miss notable |  
+| bip_39_word_space_12 | exist giraffe chicken arrive swamp wool name moment artist miss notable area |  
+| bip_39_word_space_2 | exist giraffe |  
+| bip_39_word_space_3 | exist giraffe chicken |  
+| bip_39_word_space_4 | exist giraffe chicken arrive |  
+| bip_39_word_space_5 | exist giraffe chicken arrive swamp |  
+| bip_39_word_space_6 | exist giraffe chicken arrive swamp wool |  
+| bip_39_word_space_7 | exist giraffe chicken arrive swamp wool name |  
+| bip_39_word_space_8 | exist giraffe chicken arrive swamp wool name moment |  
+| bip_39_word_space_9 | exist giraffe chicken arrive swamp wool name moment artist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

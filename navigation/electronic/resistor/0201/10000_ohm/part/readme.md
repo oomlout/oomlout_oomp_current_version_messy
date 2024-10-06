@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: curious drive
+  * bip 39 word 3: curious drive finger
+  * bip 39 word: curious drive finger inform minimum turn cup term cigar grid cable afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | curious |  
+| bip_39_word_new_br10 | curious<br>drive<br>finger<br>inform<br>minimum<br>turn<br>cup<br>term<br>cigar<br>grid |  
+| bip_39_word_new_br11 | curious<br>drive<br>finger<br>inform<br>minimum<br>turn<br>cup<br>term<br>cigar<br>grid<br>cable |  
+| bip_39_word_new_br12 | curious<br>drive<br>finger<br>inform<br>minimum<br>turn<br>cup<br>term<br>cigar<br>grid<br>cable<br>afraid |  
+| bip_39_word_new_br2 | curious<br>drive |  
+| bip_39_word_new_br3 | curious<br>drive<br>finger |  
+| bip_39_word_new_br4 | curious<br>drive<br>finger<br>inform |  
+| bip_39_word_new_br5 | curious<br>drive<br>finger<br>inform<br>minimum |  
+| bip_39_word_new_br6 | curious<br>drive<br>finger<br>inform<br>minimum<br>turn |  
+| bip_39_word_new_br7 | curious<br>drive<br>finger<br>inform<br>minimum<br>turn<br>cup |  
+| bip_39_word_new_br8 | curious<br>drive<br>finger<br>inform<br>minimum<br>turn<br>cup<br>term |  
+| bip_39_word_new_br9 | curious<br>drive<br>finger<br>inform<br>minimum<br>turn<br>cup<br>term<br>cigar |  
+| bip_39_word_new_line1 | curious |  
+| bip_39_word_new_line10 | curious
+drive
+finger
+inform
+minimum
+turn
+cup
+term
+cigar
+grid |  
+| bip_39_word_new_line11 | curious
+drive
+finger
+inform
+minimum
+turn
+cup
+term
+cigar
+grid
+cable |  
+| bip_39_word_new_line12 | curious
+drive
+finger
+inform
+minimum
+turn
+cup
+term
+cigar
+grid
+cable
+afraid |  
+| bip_39_word_new_line2 | curious
+drive |  
+| bip_39_word_new_line3 | curious
+drive
+finger |  
+| bip_39_word_new_line4 | curious
+drive
+finger
+inform |  
+| bip_39_word_new_line5 | curious
+drive
+finger
+inform
+minimum |  
+| bip_39_word_new_line6 | curious
+drive
+finger
+inform
+minimum
+turn |  
+| bip_39_word_new_line7 | curious
+drive
+finger
+inform
+minimum
+turn
+cup |  
+| bip_39_word_new_line8 | curious
+drive
+finger
+inform
+minimum
+turn
+cup
+term |  
+| bip_39_word_new_line9 | curious
+drive
+finger
+inform
+minimum
+turn
+cup
+term
+cigar |  
+| bip_39_word_space_0 | ['curious', 'drive', 'finger', 'inform', 'minimum', 'turn', 'cup', 'term', 'cigar', 'grid', 'cable', 'afraid'] |  
+| bip_39_word_space_1 | curious |  
+| bip_39_word_space_10 | curious drive finger inform minimum turn cup term cigar grid |  
+| bip_39_word_space_11 | curious drive finger inform minimum turn cup term cigar grid cable |  
+| bip_39_word_space_12 | curious drive finger inform minimum turn cup term cigar grid cable afraid |  
+| bip_39_word_space_2 | curious drive |  
+| bip_39_word_space_3 | curious drive finger |  
+| bip_39_word_space_4 | curious drive finger inform |  
+| bip_39_word_space_5 | curious drive finger inform minimum |  
+| bip_39_word_space_6 | curious drive finger inform minimum turn |  
+| bip_39_word_space_7 | curious drive finger inform minimum turn cup |  
+| bip_39_word_space_8 | curious drive finger inform minimum turn cup term |  
+| bip_39_word_space_9 | curious drive finger inform minimum turn cup term cigar |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

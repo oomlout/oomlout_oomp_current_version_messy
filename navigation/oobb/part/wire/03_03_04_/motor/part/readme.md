@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: desk output
+  * bip 39 word 3: desk output boil
+  * bip 39 word: desk output boil attitude powder office right frequent mansion ridge vessel among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | desk |  
+| bip_39_word_new_br10 | desk<br>output<br>boil<br>attitude<br>powder<br>office<br>right<br>frequent<br>mansion<br>ridge |  
+| bip_39_word_new_br11 | desk<br>output<br>boil<br>attitude<br>powder<br>office<br>right<br>frequent<br>mansion<br>ridge<br>vessel |  
+| bip_39_word_new_br12 | desk<br>output<br>boil<br>attitude<br>powder<br>office<br>right<br>frequent<br>mansion<br>ridge<br>vessel<br>among |  
+| bip_39_word_new_br2 | desk<br>output |  
+| bip_39_word_new_br3 | desk<br>output<br>boil |  
+| bip_39_word_new_br4 | desk<br>output<br>boil<br>attitude |  
+| bip_39_word_new_br5 | desk<br>output<br>boil<br>attitude<br>powder |  
+| bip_39_word_new_br6 | desk<br>output<br>boil<br>attitude<br>powder<br>office |  
+| bip_39_word_new_br7 | desk<br>output<br>boil<br>attitude<br>powder<br>office<br>right |  
+| bip_39_word_new_br8 | desk<br>output<br>boil<br>attitude<br>powder<br>office<br>right<br>frequent |  
+| bip_39_word_new_br9 | desk<br>output<br>boil<br>attitude<br>powder<br>office<br>right<br>frequent<br>mansion |  
+| bip_39_word_new_line1 | desk |  
+| bip_39_word_new_line10 | desk
+output
+boil
+attitude
+powder
+office
+right
+frequent
+mansion
+ridge |  
+| bip_39_word_new_line11 | desk
+output
+boil
+attitude
+powder
+office
+right
+frequent
+mansion
+ridge
+vessel |  
+| bip_39_word_new_line12 | desk
+output
+boil
+attitude
+powder
+office
+right
+frequent
+mansion
+ridge
+vessel
+among |  
+| bip_39_word_new_line2 | desk
+output |  
+| bip_39_word_new_line3 | desk
+output
+boil |  
+| bip_39_word_new_line4 | desk
+output
+boil
+attitude |  
+| bip_39_word_new_line5 | desk
+output
+boil
+attitude
+powder |  
+| bip_39_word_new_line6 | desk
+output
+boil
+attitude
+powder
+office |  
+| bip_39_word_new_line7 | desk
+output
+boil
+attitude
+powder
+office
+right |  
+| bip_39_word_new_line8 | desk
+output
+boil
+attitude
+powder
+office
+right
+frequent |  
+| bip_39_word_new_line9 | desk
+output
+boil
+attitude
+powder
+office
+right
+frequent
+mansion |  
+| bip_39_word_space_0 | ['desk', 'output', 'boil', 'attitude', 'powder', 'office', 'right', 'frequent', 'mansion', 'ridge', 'vessel', 'among'] |  
+| bip_39_word_space_1 | desk |  
+| bip_39_word_space_10 | desk output boil attitude powder office right frequent mansion ridge |  
+| bip_39_word_space_11 | desk output boil attitude powder office right frequent mansion ridge vessel |  
+| bip_39_word_space_12 | desk output boil attitude powder office right frequent mansion ridge vessel among |  
+| bip_39_word_space_2 | desk output |  
+| bip_39_word_space_3 | desk output boil |  
+| bip_39_word_space_4 | desk output boil attitude |  
+| bip_39_word_space_5 | desk output boil attitude powder |  
+| bip_39_word_space_6 | desk output boil attitude powder office |  
+| bip_39_word_space_7 | desk output boil attitude powder office right |  
+| bip_39_word_space_8 | desk output boil attitude powder office right frequent |  
+| bip_39_word_space_9 | desk output boil attitude powder office right frequent mansion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

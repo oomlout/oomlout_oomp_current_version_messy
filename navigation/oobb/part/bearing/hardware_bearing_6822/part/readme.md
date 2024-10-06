@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: knee month
+  * bip 39 word 3: knee month coffee
+  * bip 39 word: knee month coffee rail turkey across hold woman rubber primary unveil amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | knee |  
+| bip_39_word_new_br10 | knee<br>month<br>coffee<br>rail<br>turkey<br>across<br>hold<br>woman<br>rubber<br>primary |  
+| bip_39_word_new_br11 | knee<br>month<br>coffee<br>rail<br>turkey<br>across<br>hold<br>woman<br>rubber<br>primary<br>unveil |  
+| bip_39_word_new_br12 | knee<br>month<br>coffee<br>rail<br>turkey<br>across<br>hold<br>woman<br>rubber<br>primary<br>unveil<br>amateur |  
+| bip_39_word_new_br2 | knee<br>month |  
+| bip_39_word_new_br3 | knee<br>month<br>coffee |  
+| bip_39_word_new_br4 | knee<br>month<br>coffee<br>rail |  
+| bip_39_word_new_br5 | knee<br>month<br>coffee<br>rail<br>turkey |  
+| bip_39_word_new_br6 | knee<br>month<br>coffee<br>rail<br>turkey<br>across |  
+| bip_39_word_new_br7 | knee<br>month<br>coffee<br>rail<br>turkey<br>across<br>hold |  
+| bip_39_word_new_br8 | knee<br>month<br>coffee<br>rail<br>turkey<br>across<br>hold<br>woman |  
+| bip_39_word_new_br9 | knee<br>month<br>coffee<br>rail<br>turkey<br>across<br>hold<br>woman<br>rubber |  
+| bip_39_word_new_line1 | knee |  
+| bip_39_word_new_line10 | knee
+month
+coffee
+rail
+turkey
+across
+hold
+woman
+rubber
+primary |  
+| bip_39_word_new_line11 | knee
+month
+coffee
+rail
+turkey
+across
+hold
+woman
+rubber
+primary
+unveil |  
+| bip_39_word_new_line12 | knee
+month
+coffee
+rail
+turkey
+across
+hold
+woman
+rubber
+primary
+unveil
+amateur |  
+| bip_39_word_new_line2 | knee
+month |  
+| bip_39_word_new_line3 | knee
+month
+coffee |  
+| bip_39_word_new_line4 | knee
+month
+coffee
+rail |  
+| bip_39_word_new_line5 | knee
+month
+coffee
+rail
+turkey |  
+| bip_39_word_new_line6 | knee
+month
+coffee
+rail
+turkey
+across |  
+| bip_39_word_new_line7 | knee
+month
+coffee
+rail
+turkey
+across
+hold |  
+| bip_39_word_new_line8 | knee
+month
+coffee
+rail
+turkey
+across
+hold
+woman |  
+| bip_39_word_new_line9 | knee
+month
+coffee
+rail
+turkey
+across
+hold
+woman
+rubber |  
+| bip_39_word_space_0 | ['knee', 'month', 'coffee', 'rail', 'turkey', 'across', 'hold', 'woman', 'rubber', 'primary', 'unveil', 'amateur'] |  
+| bip_39_word_space_1 | knee |  
+| bip_39_word_space_10 | knee month coffee rail turkey across hold woman rubber primary |  
+| bip_39_word_space_11 | knee month coffee rail turkey across hold woman rubber primary unveil |  
+| bip_39_word_space_12 | knee month coffee rail turkey across hold woman rubber primary unveil amateur |  
+| bip_39_word_space_2 | knee month |  
+| bip_39_word_space_3 | knee month coffee |  
+| bip_39_word_space_4 | knee month coffee rail |  
+| bip_39_word_space_5 | knee month coffee rail turkey |  
+| bip_39_word_space_6 | knee month coffee rail turkey across |  
+| bip_39_word_space_7 | knee month coffee rail turkey across hold |  
+| bip_39_word_space_8 | knee month coffee rail turkey across hold woman |  
+| bip_39_word_space_9 | knee month coffee rail turkey across hold woman rubber |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

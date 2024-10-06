@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arctic strategy
+  * bip 39 word 3: arctic strategy arm
+  * bip 39 word: arctic strategy arm forward valve make hen field muffin shaft spice autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arctic |  
+| bip_39_word_new_br10 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make<br>hen<br>field<br>muffin<br>shaft |  
+| bip_39_word_new_br11 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make<br>hen<br>field<br>muffin<br>shaft<br>spice |  
+| bip_39_word_new_br12 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make<br>hen<br>field<br>muffin<br>shaft<br>spice<br>autumn |  
+| bip_39_word_new_br2 | arctic<br>strategy |  
+| bip_39_word_new_br3 | arctic<br>strategy<br>arm |  
+| bip_39_word_new_br4 | arctic<br>strategy<br>arm<br>forward |  
+| bip_39_word_new_br5 | arctic<br>strategy<br>arm<br>forward<br>valve |  
+| bip_39_word_new_br6 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make |  
+| bip_39_word_new_br7 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make<br>hen |  
+| bip_39_word_new_br8 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make<br>hen<br>field |  
+| bip_39_word_new_br9 | arctic<br>strategy<br>arm<br>forward<br>valve<br>make<br>hen<br>field<br>muffin |  
+| bip_39_word_new_line1 | arctic |  
+| bip_39_word_new_line10 | arctic
+strategy
+arm
+forward
+valve
+make
+hen
+field
+muffin
+shaft |  
+| bip_39_word_new_line11 | arctic
+strategy
+arm
+forward
+valve
+make
+hen
+field
+muffin
+shaft
+spice |  
+| bip_39_word_new_line12 | arctic
+strategy
+arm
+forward
+valve
+make
+hen
+field
+muffin
+shaft
+spice
+autumn |  
+| bip_39_word_new_line2 | arctic
+strategy |  
+| bip_39_word_new_line3 | arctic
+strategy
+arm |  
+| bip_39_word_new_line4 | arctic
+strategy
+arm
+forward |  
+| bip_39_word_new_line5 | arctic
+strategy
+arm
+forward
+valve |  
+| bip_39_word_new_line6 | arctic
+strategy
+arm
+forward
+valve
+make |  
+| bip_39_word_new_line7 | arctic
+strategy
+arm
+forward
+valve
+make
+hen |  
+| bip_39_word_new_line8 | arctic
+strategy
+arm
+forward
+valve
+make
+hen
+field |  
+| bip_39_word_new_line9 | arctic
+strategy
+arm
+forward
+valve
+make
+hen
+field
+muffin |  
+| bip_39_word_space_0 | ['arctic', 'strategy', 'arm', 'forward', 'valve', 'make', 'hen', 'field', 'muffin', 'shaft', 'spice', 'autumn'] |  
+| bip_39_word_space_1 | arctic |  
+| bip_39_word_space_10 | arctic strategy arm forward valve make hen field muffin shaft |  
+| bip_39_word_space_11 | arctic strategy arm forward valve make hen field muffin shaft spice |  
+| bip_39_word_space_12 | arctic strategy arm forward valve make hen field muffin shaft spice autumn |  
+| bip_39_word_space_2 | arctic strategy |  
+| bip_39_word_space_3 | arctic strategy arm |  
+| bip_39_word_space_4 | arctic strategy arm forward |  
+| bip_39_word_space_5 | arctic strategy arm forward valve |  
+| bip_39_word_space_6 | arctic strategy arm forward valve make |  
+| bip_39_word_space_7 | arctic strategy arm forward valve make hen |  
+| bip_39_word_space_8 | arctic strategy arm forward valve make hen field |  
+| bip_39_word_space_9 | arctic strategy arm forward valve make hen field muffin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

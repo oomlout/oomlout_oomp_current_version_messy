@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: poverty there
+  * bip 39 word 3: poverty there undo
+  * bip 39 word: poverty there undo picture reflect found garment elevator mask flame depart alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | poverty |  
+| bip_39_word_new_br10 | poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask<br>flame |  
+| bip_39_word_new_br11 | poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask<br>flame<br>depart |  
+| bip_39_word_new_br12 | poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask<br>flame<br>depart<br>alpha |  
+| bip_39_word_new_br2 | poverty<br>there |  
+| bip_39_word_new_br3 | poverty<br>there<br>undo |  
+| bip_39_word_new_br4 | poverty<br>there<br>undo<br>picture |  
+| bip_39_word_new_br5 | poverty<br>there<br>undo<br>picture<br>reflect |  
+| bip_39_word_new_br6 | poverty<br>there<br>undo<br>picture<br>reflect<br>found |  
+| bip_39_word_new_br7 | poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment |  
+| bip_39_word_new_br8 | poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator |  
+| bip_39_word_new_br9 | poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask |  
+| bip_39_word_new_line1 | poverty |  
+| bip_39_word_new_line10 | poverty
+there
+undo
+picture
+reflect
+found
+garment
+elevator
+mask
+flame |  
+| bip_39_word_new_line11 | poverty
+there
+undo
+picture
+reflect
+found
+garment
+elevator
+mask
+flame
+depart |  
+| bip_39_word_new_line12 | poverty
+there
+undo
+picture
+reflect
+found
+garment
+elevator
+mask
+flame
+depart
+alpha |  
+| bip_39_word_new_line2 | poverty
+there |  
+| bip_39_word_new_line3 | poverty
+there
+undo |  
+| bip_39_word_new_line4 | poverty
+there
+undo
+picture |  
+| bip_39_word_new_line5 | poverty
+there
+undo
+picture
+reflect |  
+| bip_39_word_new_line6 | poverty
+there
+undo
+picture
+reflect
+found |  
+| bip_39_word_new_line7 | poverty
+there
+undo
+picture
+reflect
+found
+garment |  
+| bip_39_word_new_line8 | poverty
+there
+undo
+picture
+reflect
+found
+garment
+elevator |  
+| bip_39_word_new_line9 | poverty
+there
+undo
+picture
+reflect
+found
+garment
+elevator
+mask |  
+| bip_39_word_space_0 | ['poverty', 'there', 'undo', 'picture', 'reflect', 'found', 'garment', 'elevator', 'mask', 'flame', 'depart', 'alpha'] |  
+| bip_39_word_space_1 | poverty |  
+| bip_39_word_space_10 | poverty there undo picture reflect found garment elevator mask flame |  
+| bip_39_word_space_11 | poverty there undo picture reflect found garment elevator mask flame depart |  
+| bip_39_word_space_12 | poverty there undo picture reflect found garment elevator mask flame depart alpha |  
+| bip_39_word_space_2 | poverty there |  
+| bip_39_word_space_3 | poverty there undo |  
+| bip_39_word_space_4 | poverty there undo picture |  
+| bip_39_word_space_5 | poverty there undo picture reflect |  
+| bip_39_word_space_6 | poverty there undo picture reflect found |  
+| bip_39_word_space_7 | poverty there undo picture reflect found garment |  
+| bip_39_word_space_8 | poverty there undo picture reflect found garment elevator |  
+| bip_39_word_space_9 | poverty there undo picture reflect found garment elevator mask |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

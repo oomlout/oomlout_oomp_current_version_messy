@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flower nurse
+  * bip 39 word 3: flower nurse large
+  * bip 39 word: flower nurse large stumble action draft warfare behind depart pigeon hint actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flower |  
+| bip_39_word_new_br10 | flower<br>nurse<br>large<br>stumble<br>action<br>draft<br>warfare<br>behind<br>depart<br>pigeon |  
+| bip_39_word_new_br11 | flower<br>nurse<br>large<br>stumble<br>action<br>draft<br>warfare<br>behind<br>depart<br>pigeon<br>hint |  
+| bip_39_word_new_br12 | flower<br>nurse<br>large<br>stumble<br>action<br>draft<br>warfare<br>behind<br>depart<br>pigeon<br>hint<br>actress |  
+| bip_39_word_new_br2 | flower<br>nurse |  
+| bip_39_word_new_br3 | flower<br>nurse<br>large |  
+| bip_39_word_new_br4 | flower<br>nurse<br>large<br>stumble |  
+| bip_39_word_new_br5 | flower<br>nurse<br>large<br>stumble<br>action |  
+| bip_39_word_new_br6 | flower<br>nurse<br>large<br>stumble<br>action<br>draft |  
+| bip_39_word_new_br7 | flower<br>nurse<br>large<br>stumble<br>action<br>draft<br>warfare |  
+| bip_39_word_new_br8 | flower<br>nurse<br>large<br>stumble<br>action<br>draft<br>warfare<br>behind |  
+| bip_39_word_new_br9 | flower<br>nurse<br>large<br>stumble<br>action<br>draft<br>warfare<br>behind<br>depart |  
+| bip_39_word_new_line1 | flower |  
+| bip_39_word_new_line10 | flower
+nurse
+large
+stumble
+action
+draft
+warfare
+behind
+depart
+pigeon |  
+| bip_39_word_new_line11 | flower
+nurse
+large
+stumble
+action
+draft
+warfare
+behind
+depart
+pigeon
+hint |  
+| bip_39_word_new_line12 | flower
+nurse
+large
+stumble
+action
+draft
+warfare
+behind
+depart
+pigeon
+hint
+actress |  
+| bip_39_word_new_line2 | flower
+nurse |  
+| bip_39_word_new_line3 | flower
+nurse
+large |  
+| bip_39_word_new_line4 | flower
+nurse
+large
+stumble |  
+| bip_39_word_new_line5 | flower
+nurse
+large
+stumble
+action |  
+| bip_39_word_new_line6 | flower
+nurse
+large
+stumble
+action
+draft |  
+| bip_39_word_new_line7 | flower
+nurse
+large
+stumble
+action
+draft
+warfare |  
+| bip_39_word_new_line8 | flower
+nurse
+large
+stumble
+action
+draft
+warfare
+behind |  
+| bip_39_word_new_line9 | flower
+nurse
+large
+stumble
+action
+draft
+warfare
+behind
+depart |  
+| bip_39_word_space_0 | ['flower', 'nurse', 'large', 'stumble', 'action', 'draft', 'warfare', 'behind', 'depart', 'pigeon', 'hint', 'actress'] |  
+| bip_39_word_space_1 | flower |  
+| bip_39_word_space_10 | flower nurse large stumble action draft warfare behind depart pigeon |  
+| bip_39_word_space_11 | flower nurse large stumble action draft warfare behind depart pigeon hint |  
+| bip_39_word_space_12 | flower nurse large stumble action draft warfare behind depart pigeon hint actress |  
+| bip_39_word_space_2 | flower nurse |  
+| bip_39_word_space_3 | flower nurse large |  
+| bip_39_word_space_4 | flower nurse large stumble |  
+| bip_39_word_space_5 | flower nurse large stumble action |  
+| bip_39_word_space_6 | flower nurse large stumble action draft |  
+| bip_39_word_space_7 | flower nurse large stumble action draft warfare |  
+| bip_39_word_space_8 | flower nurse large stumble action draft warfare behind |  
+| bip_39_word_space_9 | flower nurse large stumble action draft warfare behind depart |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

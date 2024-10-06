@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stove issue
+  * bip 39 word 3: stove issue own
+  * bip 39 word: stove issue own amazing toddler peace coral boss float submit crouch abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stove |  
+| bip_39_word_new_br10 | stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss<br>float<br>submit |  
+| bip_39_word_new_br11 | stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss<br>float<br>submit<br>crouch |  
+| bip_39_word_new_br12 | stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss<br>float<br>submit<br>crouch<br>abuse |  
+| bip_39_word_new_br2 | stove<br>issue |  
+| bip_39_word_new_br3 | stove<br>issue<br>own |  
+| bip_39_word_new_br4 | stove<br>issue<br>own<br>amazing |  
+| bip_39_word_new_br5 | stove<br>issue<br>own<br>amazing<br>toddler |  
+| bip_39_word_new_br6 | stove<br>issue<br>own<br>amazing<br>toddler<br>peace |  
+| bip_39_word_new_br7 | stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral |  
+| bip_39_word_new_br8 | stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss |  
+| bip_39_word_new_br9 | stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss<br>float |  
+| bip_39_word_new_line1 | stove |  
+| bip_39_word_new_line10 | stove
+issue
+own
+amazing
+toddler
+peace
+coral
+boss
+float
+submit |  
+| bip_39_word_new_line11 | stove
+issue
+own
+amazing
+toddler
+peace
+coral
+boss
+float
+submit
+crouch |  
+| bip_39_word_new_line12 | stove
+issue
+own
+amazing
+toddler
+peace
+coral
+boss
+float
+submit
+crouch
+abuse |  
+| bip_39_word_new_line2 | stove
+issue |  
+| bip_39_word_new_line3 | stove
+issue
+own |  
+| bip_39_word_new_line4 | stove
+issue
+own
+amazing |  
+| bip_39_word_new_line5 | stove
+issue
+own
+amazing
+toddler |  
+| bip_39_word_new_line6 | stove
+issue
+own
+amazing
+toddler
+peace |  
+| bip_39_word_new_line7 | stove
+issue
+own
+amazing
+toddler
+peace
+coral |  
+| bip_39_word_new_line8 | stove
+issue
+own
+amazing
+toddler
+peace
+coral
+boss |  
+| bip_39_word_new_line9 | stove
+issue
+own
+amazing
+toddler
+peace
+coral
+boss
+float |  
+| bip_39_word_space_0 | ['stove', 'issue', 'own', 'amazing', 'toddler', 'peace', 'coral', 'boss', 'float', 'submit', 'crouch', 'abuse'] |  
+| bip_39_word_space_1 | stove |  
+| bip_39_word_space_10 | stove issue own amazing toddler peace coral boss float submit |  
+| bip_39_word_space_11 | stove issue own amazing toddler peace coral boss float submit crouch |  
+| bip_39_word_space_12 | stove issue own amazing toddler peace coral boss float submit crouch abuse |  
+| bip_39_word_space_2 | stove issue |  
+| bip_39_word_space_3 | stove issue own |  
+| bip_39_word_space_4 | stove issue own amazing |  
+| bip_39_word_space_5 | stove issue own amazing toddler |  
+| bip_39_word_space_6 | stove issue own amazing toddler peace |  
+| bip_39_word_space_7 | stove issue own amazing toddler peace coral |  
+| bip_39_word_space_8 | stove issue own amazing toddler peace coral boss |  
+| bip_39_word_space_9 | stove issue own amazing toddler peace coral boss float |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

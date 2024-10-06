@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: aliexpress
   * part_number: jewelry_scale
+  * bip 39 word 2: response change
+  * bip 39 word 3: response change record
+  * bip 39 word: response change record output minimum width suspect food cloud drama come antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | response |  
+| bip_39_word_new_br10 | response<br>change<br>record<br>output<br>minimum<br>width<br>suspect<br>food<br>cloud<br>drama |  
+| bip_39_word_new_br11 | response<br>change<br>record<br>output<br>minimum<br>width<br>suspect<br>food<br>cloud<br>drama<br>come |  
+| bip_39_word_new_br12 | response<br>change<br>record<br>output<br>minimum<br>width<br>suspect<br>food<br>cloud<br>drama<br>come<br>antenna |  
+| bip_39_word_new_br2 | response<br>change |  
+| bip_39_word_new_br3 | response<br>change<br>record |  
+| bip_39_word_new_br4 | response<br>change<br>record<br>output |  
+| bip_39_word_new_br5 | response<br>change<br>record<br>output<br>minimum |  
+| bip_39_word_new_br6 | response<br>change<br>record<br>output<br>minimum<br>width |  
+| bip_39_word_new_br7 | response<br>change<br>record<br>output<br>minimum<br>width<br>suspect |  
+| bip_39_word_new_br8 | response<br>change<br>record<br>output<br>minimum<br>width<br>suspect<br>food |  
+| bip_39_word_new_br9 | response<br>change<br>record<br>output<br>minimum<br>width<br>suspect<br>food<br>cloud |  
+| bip_39_word_new_line1 | response |  
+| bip_39_word_new_line10 | response
+change
+record
+output
+minimum
+width
+suspect
+food
+cloud
+drama |  
+| bip_39_word_new_line11 | response
+change
+record
+output
+minimum
+width
+suspect
+food
+cloud
+drama
+come |  
+| bip_39_word_new_line12 | response
+change
+record
+output
+minimum
+width
+suspect
+food
+cloud
+drama
+come
+antenna |  
+| bip_39_word_new_line2 | response
+change |  
+| bip_39_word_new_line3 | response
+change
+record |  
+| bip_39_word_new_line4 | response
+change
+record
+output |  
+| bip_39_word_new_line5 | response
+change
+record
+output
+minimum |  
+| bip_39_word_new_line6 | response
+change
+record
+output
+minimum
+width |  
+| bip_39_word_new_line7 | response
+change
+record
+output
+minimum
+width
+suspect |  
+| bip_39_word_new_line8 | response
+change
+record
+output
+minimum
+width
+suspect
+food |  
+| bip_39_word_new_line9 | response
+change
+record
+output
+minimum
+width
+suspect
+food
+cloud |  
+| bip_39_word_space_0 | ['response', 'change', 'record', 'output', 'minimum', 'width', 'suspect', 'food', 'cloud', 'drama', 'come', 'antenna'] |  
+| bip_39_word_space_1 | response |  
+| bip_39_word_space_10 | response change record output minimum width suspect food cloud drama |  
+| bip_39_word_space_11 | response change record output minimum width suspect food cloud drama come |  
+| bip_39_word_space_12 | response change record output minimum width suspect food cloud drama come antenna |  
+| bip_39_word_space_2 | response change |  
+| bip_39_word_space_3 | response change record |  
+| bip_39_word_space_4 | response change record output |  
+| bip_39_word_space_5 | response change record output minimum |  
+| bip_39_word_space_6 | response change record output minimum width |  
+| bip_39_word_space_7 | response change record output minimum width suspect |  
+| bip_39_word_space_8 | response change record output minimum width suspect food |  
+| bip_39_word_space_9 | response change record output minimum width suspect food cloud |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

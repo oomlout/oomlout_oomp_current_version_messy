@@ -1,3 +1,187 @@
+bip_39_word_new_br1: focus
+bip_39_word_new_br10: focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple
+bip_39_word_new_br11: focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple<br>old
+bip_39_word_new_br12: focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident<br>ripple<br>old<br>adjust
+bip_39_word_new_br2: focus<br>reveal
+bip_39_word_new_br3: focus<br>reveal<br>combine
+bip_39_word_new_br4: focus<br>reveal<br>combine<br>cruel
+bip_39_word_new_br5: focus<br>reveal<br>combine<br>cruel<br>apple
+bip_39_word_new_br6: focus<br>reveal<br>combine<br>cruel<br>apple<br>announce
+bip_39_word_new_br7: focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle
+bip_39_word_new_br8: focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify
+bip_39_word_new_br9: focus<br>reveal<br>combine<br>cruel<br>apple<br>announce<br>uncle<br>clarify<br>accident
+bip_39_word_new_line1: focus
+bip_39_word_new_line10: 'focus
+
+  reveal
+
+  combine
+
+  cruel
+
+  apple
+
+  announce
+
+  uncle
+
+  clarify
+
+  accident
+
+  ripple'
+bip_39_word_new_line11: 'focus
+
+  reveal
+
+  combine
+
+  cruel
+
+  apple
+
+  announce
+
+  uncle
+
+  clarify
+
+  accident
+
+  ripple
+
+  old'
+bip_39_word_new_line12: 'focus
+
+  reveal
+
+  combine
+
+  cruel
+
+  apple
+
+  announce
+
+  uncle
+
+  clarify
+
+  accident
+
+  ripple
+
+  old
+
+  adjust'
+bip_39_word_new_line2: 'focus
+
+  reveal'
+bip_39_word_new_line3: 'focus
+
+  reveal
+
+  combine'
+bip_39_word_new_line4: 'focus
+
+  reveal
+
+  combine
+
+  cruel'
+bip_39_word_new_line5: 'focus
+
+  reveal
+
+  combine
+
+  cruel
+
+  apple'
+bip_39_word_new_line6: 'focus
+
+  reveal
+
+  combine
+
+  cruel
+
+  apple
+
+  announce'
+bip_39_word_new_line7: 'focus
+
+  reveal
+
+  combine
+
+  cruel
+
+  apple
+
+  announce
+
+  uncle'
+bip_39_word_new_line8: 'focus
+
+  reveal
+
+  combine
+
+  cruel
+
+  apple
+
+  announce
+
+  uncle
+
+  clarify'
+bip_39_word_new_line9: 'focus
+
+  reveal
+
+  combine
+
+  cruel
+
+  apple
+
+  announce
+
+  uncle
+
+  clarify
+
+  accident'
+bip_39_word_space_0:
+- focus
+- reveal
+- combine
+- cruel
+- apple
+- announce
+- uncle
+- clarify
+- accident
+- ripple
+- old
+- adjust
+bip_39_word_space_1: focus
+bip_39_word_space_10: focus reveal combine cruel apple announce uncle clarify accident
+  ripple
+bip_39_word_space_11: focus reveal combine cruel apple announce uncle clarify accident
+  ripple old
+bip_39_word_space_12: focus reveal combine cruel apple announce uncle clarify accident
+  ripple old adjust
+bip_39_word_space_2: focus reveal
+bip_39_word_space_3: focus reveal combine
+bip_39_word_space_4: focus reveal combine cruel
+bip_39_word_space_5: focus reveal combine cruel apple
+bip_39_word_space_6: focus reveal combine cruel apple announce
+bip_39_word_space_7: focus reveal combine cruel apple announce uncle
+bip_39_word_space_8: focus reveal combine cruel apple announce uncle clarify
+bip_39_word_space_9: focus reveal combine cruel apple announce uncle clarify accident
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h

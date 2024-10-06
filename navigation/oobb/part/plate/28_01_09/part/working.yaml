@@ -1,3 +1,186 @@
+bip_39_word_new_br1: beauty
+bip_39_word_new_br10: beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect
+bip_39_word_new_br11: beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect<br>impulse
+bip_39_word_new_br12: beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry<br>neglect<br>impulse<br>advice
+bip_39_word_new_br2: beauty<br>choose
+bip_39_word_new_br3: beauty<br>choose<br>ill
+bip_39_word_new_br4: beauty<br>choose<br>ill<br>embrace
+bip_39_word_new_br5: beauty<br>choose<br>ill<br>embrace<br>garment
+bip_39_word_new_br6: beauty<br>choose<br>ill<br>embrace<br>garment<br>dial
+bip_39_word_new_br7: beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version
+bip_39_word_new_br8: beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube
+bip_39_word_new_br9: beauty<br>choose<br>ill<br>embrace<br>garment<br>dial<br>version<br>cube<br>sorry
+bip_39_word_new_line1: beauty
+bip_39_word_new_line10: 'beauty
+
+  choose
+
+  ill
+
+  embrace
+
+  garment
+
+  dial
+
+  version
+
+  cube
+
+  sorry
+
+  neglect'
+bip_39_word_new_line11: 'beauty
+
+  choose
+
+  ill
+
+  embrace
+
+  garment
+
+  dial
+
+  version
+
+  cube
+
+  sorry
+
+  neglect
+
+  impulse'
+bip_39_word_new_line12: 'beauty
+
+  choose
+
+  ill
+
+  embrace
+
+  garment
+
+  dial
+
+  version
+
+  cube
+
+  sorry
+
+  neglect
+
+  impulse
+
+  advice'
+bip_39_word_new_line2: 'beauty
+
+  choose'
+bip_39_word_new_line3: 'beauty
+
+  choose
+
+  ill'
+bip_39_word_new_line4: 'beauty
+
+  choose
+
+  ill
+
+  embrace'
+bip_39_word_new_line5: 'beauty
+
+  choose
+
+  ill
+
+  embrace
+
+  garment'
+bip_39_word_new_line6: 'beauty
+
+  choose
+
+  ill
+
+  embrace
+
+  garment
+
+  dial'
+bip_39_word_new_line7: 'beauty
+
+  choose
+
+  ill
+
+  embrace
+
+  garment
+
+  dial
+
+  version'
+bip_39_word_new_line8: 'beauty
+
+  choose
+
+  ill
+
+  embrace
+
+  garment
+
+  dial
+
+  version
+
+  cube'
+bip_39_word_new_line9: 'beauty
+
+  choose
+
+  ill
+
+  embrace
+
+  garment
+
+  dial
+
+  version
+
+  cube
+
+  sorry'
+bip_39_word_space_0:
+- beauty
+- choose
+- ill
+- embrace
+- garment
+- dial
+- version
+- cube
+- sorry
+- neglect
+- impulse
+- advice
+bip_39_word_space_1: beauty
+bip_39_word_space_10: beauty choose ill embrace garment dial version cube sorry neglect
+bip_39_word_space_11: beauty choose ill embrace garment dial version cube sorry neglect
+  impulse
+bip_39_word_space_12: beauty choose ill embrace garment dial version cube sorry neglect
+  impulse advice
+bip_39_word_space_2: beauty choose
+bip_39_word_space_3: beauty choose ill
+bip_39_word_space_4: beauty choose ill embrace
+bip_39_word_space_5: beauty choose ill embrace garment
+bip_39_word_space_6: beauty choose ill embrace garment dial
+bip_39_word_space_7: beauty choose ill embrace garment dial version
+bip_39_word_space_8: beauty choose ill embrace garment dial version cube
+bip_39_word_space_9: beauty choose ill embrace garment dial version cube sorry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

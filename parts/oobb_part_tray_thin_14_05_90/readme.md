@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feature fork
+  * bip 39 word 3: feature fork wing
+  * bip 39 word: feature fork wing banner nothing village thrive reform derive toe derive adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feature |  
+| bip_39_word_new_br10 | feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive<br>toe |  
+| bip_39_word_new_br11 | feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive<br>toe<br>derive |  
+| bip_39_word_new_br12 | feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive<br>toe<br>derive<br>adjust |  
+| bip_39_word_new_br2 | feature<br>fork |  
+| bip_39_word_new_br3 | feature<br>fork<br>wing |  
+| bip_39_word_new_br4 | feature<br>fork<br>wing<br>banner |  
+| bip_39_word_new_br5 | feature<br>fork<br>wing<br>banner<br>nothing |  
+| bip_39_word_new_br6 | feature<br>fork<br>wing<br>banner<br>nothing<br>village |  
+| bip_39_word_new_br7 | feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive |  
+| bip_39_word_new_br8 | feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform |  
+| bip_39_word_new_br9 | feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive |  
+| bip_39_word_new_line1 | feature |  
+| bip_39_word_new_line10 | feature
+fork
+wing
+banner
+nothing
+village
+thrive
+reform
+derive
+toe |  
+| bip_39_word_new_line11 | feature
+fork
+wing
+banner
+nothing
+village
+thrive
+reform
+derive
+toe
+derive |  
+| bip_39_word_new_line12 | feature
+fork
+wing
+banner
+nothing
+village
+thrive
+reform
+derive
+toe
+derive
+adjust |  
+| bip_39_word_new_line2 | feature
+fork |  
+| bip_39_word_new_line3 | feature
+fork
+wing |  
+| bip_39_word_new_line4 | feature
+fork
+wing
+banner |  
+| bip_39_word_new_line5 | feature
+fork
+wing
+banner
+nothing |  
+| bip_39_word_new_line6 | feature
+fork
+wing
+banner
+nothing
+village |  
+| bip_39_word_new_line7 | feature
+fork
+wing
+banner
+nothing
+village
+thrive |  
+| bip_39_word_new_line8 | feature
+fork
+wing
+banner
+nothing
+village
+thrive
+reform |  
+| bip_39_word_new_line9 | feature
+fork
+wing
+banner
+nothing
+village
+thrive
+reform
+derive |  
+| bip_39_word_space_0 | ['feature', 'fork', 'wing', 'banner', 'nothing', 'village', 'thrive', 'reform', 'derive', 'toe', 'derive', 'adjust'] |  
+| bip_39_word_space_1 | feature |  
+| bip_39_word_space_10 | feature fork wing banner nothing village thrive reform derive toe |  
+| bip_39_word_space_11 | feature fork wing banner nothing village thrive reform derive toe derive |  
+| bip_39_word_space_12 | feature fork wing banner nothing village thrive reform derive toe derive adjust |  
+| bip_39_word_space_2 | feature fork |  
+| bip_39_word_space_3 | feature fork wing |  
+| bip_39_word_space_4 | feature fork wing banner |  
+| bip_39_word_space_5 | feature fork wing banner nothing |  
+| bip_39_word_space_6 | feature fork wing banner nothing village |  
+| bip_39_word_space_7 | feature fork wing banner nothing village thrive |  
+| bip_39_word_space_8 | feature fork wing banner nothing village thrive reform |  
+| bip_39_word_space_9 | feature fork wing banner nothing village thrive reform derive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

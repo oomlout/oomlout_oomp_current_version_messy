@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rude shove
+  * bip 39 word 3: rude shove advance
+  * bip 39 word: rude shove advance script twin bundle bid fee true afford volcano attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rude |  
+| bip_39_word_new_br10 | rude<br>shove<br>advance<br>script<br>twin<br>bundle<br>bid<br>fee<br>true<br>afford |  
+| bip_39_word_new_br11 | rude<br>shove<br>advance<br>script<br>twin<br>bundle<br>bid<br>fee<br>true<br>afford<br>volcano |  
+| bip_39_word_new_br12 | rude<br>shove<br>advance<br>script<br>twin<br>bundle<br>bid<br>fee<br>true<br>afford<br>volcano<br>attack |  
+| bip_39_word_new_br2 | rude<br>shove |  
+| bip_39_word_new_br3 | rude<br>shove<br>advance |  
+| bip_39_word_new_br4 | rude<br>shove<br>advance<br>script |  
+| bip_39_word_new_br5 | rude<br>shove<br>advance<br>script<br>twin |  
+| bip_39_word_new_br6 | rude<br>shove<br>advance<br>script<br>twin<br>bundle |  
+| bip_39_word_new_br7 | rude<br>shove<br>advance<br>script<br>twin<br>bundle<br>bid |  
+| bip_39_word_new_br8 | rude<br>shove<br>advance<br>script<br>twin<br>bundle<br>bid<br>fee |  
+| bip_39_word_new_br9 | rude<br>shove<br>advance<br>script<br>twin<br>bundle<br>bid<br>fee<br>true |  
+| bip_39_word_new_line1 | rude |  
+| bip_39_word_new_line10 | rude
+shove
+advance
+script
+twin
+bundle
+bid
+fee
+true
+afford |  
+| bip_39_word_new_line11 | rude
+shove
+advance
+script
+twin
+bundle
+bid
+fee
+true
+afford
+volcano |  
+| bip_39_word_new_line12 | rude
+shove
+advance
+script
+twin
+bundle
+bid
+fee
+true
+afford
+volcano
+attack |  
+| bip_39_word_new_line2 | rude
+shove |  
+| bip_39_word_new_line3 | rude
+shove
+advance |  
+| bip_39_word_new_line4 | rude
+shove
+advance
+script |  
+| bip_39_word_new_line5 | rude
+shove
+advance
+script
+twin |  
+| bip_39_word_new_line6 | rude
+shove
+advance
+script
+twin
+bundle |  
+| bip_39_word_new_line7 | rude
+shove
+advance
+script
+twin
+bundle
+bid |  
+| bip_39_word_new_line8 | rude
+shove
+advance
+script
+twin
+bundle
+bid
+fee |  
+| bip_39_word_new_line9 | rude
+shove
+advance
+script
+twin
+bundle
+bid
+fee
+true |  
+| bip_39_word_space_0 | ['rude', 'shove', 'advance', 'script', 'twin', 'bundle', 'bid', 'fee', 'true', 'afford', 'volcano', 'attack'] |  
+| bip_39_word_space_1 | rude |  
+| bip_39_word_space_10 | rude shove advance script twin bundle bid fee true afford |  
+| bip_39_word_space_11 | rude shove advance script twin bundle bid fee true afford volcano |  
+| bip_39_word_space_12 | rude shove advance script twin bundle bid fee true afford volcano attack |  
+| bip_39_word_space_2 | rude shove |  
+| bip_39_word_space_3 | rude shove advance |  
+| bip_39_word_space_4 | rude shove advance script |  
+| bip_39_word_space_5 | rude shove advance script twin |  
+| bip_39_word_space_6 | rude shove advance script twin bundle |  
+| bip_39_word_space_7 | rude shove advance script twin bundle bid |  
+| bip_39_word_space_8 | rude shove advance script twin bundle bid fee |  
+| bip_39_word_space_9 | rude shove advance script twin bundle bid fee true |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

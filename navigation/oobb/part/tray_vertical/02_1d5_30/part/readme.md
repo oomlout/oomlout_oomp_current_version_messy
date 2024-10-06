@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: net dust
+  * bip 39 word 3: net dust source
+  * bip 39 word: net dust source twist supreme wave fault quiz fall canyon shoulder atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | net |  
+| bip_39_word_new_br10 | net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall<br>canyon |  
+| bip_39_word_new_br11 | net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall<br>canyon<br>shoulder |  
+| bip_39_word_new_br12 | net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall<br>canyon<br>shoulder<br>atom |  
+| bip_39_word_new_br2 | net<br>dust |  
+| bip_39_word_new_br3 | net<br>dust<br>source |  
+| bip_39_word_new_br4 | net<br>dust<br>source<br>twist |  
+| bip_39_word_new_br5 | net<br>dust<br>source<br>twist<br>supreme |  
+| bip_39_word_new_br6 | net<br>dust<br>source<br>twist<br>supreme<br>wave |  
+| bip_39_word_new_br7 | net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault |  
+| bip_39_word_new_br8 | net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz |  
+| bip_39_word_new_br9 | net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall |  
+| bip_39_word_new_line1 | net |  
+| bip_39_word_new_line10 | net
+dust
+source
+twist
+supreme
+wave
+fault
+quiz
+fall
+canyon |  
+| bip_39_word_new_line11 | net
+dust
+source
+twist
+supreme
+wave
+fault
+quiz
+fall
+canyon
+shoulder |  
+| bip_39_word_new_line12 | net
+dust
+source
+twist
+supreme
+wave
+fault
+quiz
+fall
+canyon
+shoulder
+atom |  
+| bip_39_word_new_line2 | net
+dust |  
+| bip_39_word_new_line3 | net
+dust
+source |  
+| bip_39_word_new_line4 | net
+dust
+source
+twist |  
+| bip_39_word_new_line5 | net
+dust
+source
+twist
+supreme |  
+| bip_39_word_new_line6 | net
+dust
+source
+twist
+supreme
+wave |  
+| bip_39_word_new_line7 | net
+dust
+source
+twist
+supreme
+wave
+fault |  
+| bip_39_word_new_line8 | net
+dust
+source
+twist
+supreme
+wave
+fault
+quiz |  
+| bip_39_word_new_line9 | net
+dust
+source
+twist
+supreme
+wave
+fault
+quiz
+fall |  
+| bip_39_word_space_0 | ['net', 'dust', 'source', 'twist', 'supreme', 'wave', 'fault', 'quiz', 'fall', 'canyon', 'shoulder', 'atom'] |  
+| bip_39_word_space_1 | net |  
+| bip_39_word_space_10 | net dust source twist supreme wave fault quiz fall canyon |  
+| bip_39_word_space_11 | net dust source twist supreme wave fault quiz fall canyon shoulder |  
+| bip_39_word_space_12 | net dust source twist supreme wave fault quiz fall canyon shoulder atom |  
+| bip_39_word_space_2 | net dust |  
+| bip_39_word_space_3 | net dust source |  
+| bip_39_word_space_4 | net dust source twist |  
+| bip_39_word_space_5 | net dust source twist supreme |  
+| bip_39_word_space_6 | net dust source twist supreme wave |  
+| bip_39_word_space_7 | net dust source twist supreme wave fault |  
+| bip_39_word_space_8 | net dust source twist supreme wave fault quiz |  
+| bip_39_word_space_9 | net dust source twist supreme wave fault quiz fall |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

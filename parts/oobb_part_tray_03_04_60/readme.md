@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flee card
+  * bip 39 word 3: flee card retreat
+  * bip 39 word: flee card retreat issue jelly sunny lottery craft effort knife analyst air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flee |  
+| bip_39_word_new_br10 | flee<br>card<br>retreat<br>issue<br>jelly<br>sunny<br>lottery<br>craft<br>effort<br>knife |  
+| bip_39_word_new_br11 | flee<br>card<br>retreat<br>issue<br>jelly<br>sunny<br>lottery<br>craft<br>effort<br>knife<br>analyst |  
+| bip_39_word_new_br12 | flee<br>card<br>retreat<br>issue<br>jelly<br>sunny<br>lottery<br>craft<br>effort<br>knife<br>analyst<br>air |  
+| bip_39_word_new_br2 | flee<br>card |  
+| bip_39_word_new_br3 | flee<br>card<br>retreat |  
+| bip_39_word_new_br4 | flee<br>card<br>retreat<br>issue |  
+| bip_39_word_new_br5 | flee<br>card<br>retreat<br>issue<br>jelly |  
+| bip_39_word_new_br6 | flee<br>card<br>retreat<br>issue<br>jelly<br>sunny |  
+| bip_39_word_new_br7 | flee<br>card<br>retreat<br>issue<br>jelly<br>sunny<br>lottery |  
+| bip_39_word_new_br8 | flee<br>card<br>retreat<br>issue<br>jelly<br>sunny<br>lottery<br>craft |  
+| bip_39_word_new_br9 | flee<br>card<br>retreat<br>issue<br>jelly<br>sunny<br>lottery<br>craft<br>effort |  
+| bip_39_word_new_line1 | flee |  
+| bip_39_word_new_line10 | flee
+card
+retreat
+issue
+jelly
+sunny
+lottery
+craft
+effort
+knife |  
+| bip_39_word_new_line11 | flee
+card
+retreat
+issue
+jelly
+sunny
+lottery
+craft
+effort
+knife
+analyst |  
+| bip_39_word_new_line12 | flee
+card
+retreat
+issue
+jelly
+sunny
+lottery
+craft
+effort
+knife
+analyst
+air |  
+| bip_39_word_new_line2 | flee
+card |  
+| bip_39_word_new_line3 | flee
+card
+retreat |  
+| bip_39_word_new_line4 | flee
+card
+retreat
+issue |  
+| bip_39_word_new_line5 | flee
+card
+retreat
+issue
+jelly |  
+| bip_39_word_new_line6 | flee
+card
+retreat
+issue
+jelly
+sunny |  
+| bip_39_word_new_line7 | flee
+card
+retreat
+issue
+jelly
+sunny
+lottery |  
+| bip_39_word_new_line8 | flee
+card
+retreat
+issue
+jelly
+sunny
+lottery
+craft |  
+| bip_39_word_new_line9 | flee
+card
+retreat
+issue
+jelly
+sunny
+lottery
+craft
+effort |  
+| bip_39_word_space_0 | ['flee', 'card', 'retreat', 'issue', 'jelly', 'sunny', 'lottery', 'craft', 'effort', 'knife', 'analyst', 'air'] |  
+| bip_39_word_space_1 | flee |  
+| bip_39_word_space_10 | flee card retreat issue jelly sunny lottery craft effort knife |  
+| bip_39_word_space_11 | flee card retreat issue jelly sunny lottery craft effort knife analyst |  
+| bip_39_word_space_12 | flee card retreat issue jelly sunny lottery craft effort knife analyst air |  
+| bip_39_word_space_2 | flee card |  
+| bip_39_word_space_3 | flee card retreat |  
+| bip_39_word_space_4 | flee card retreat issue |  
+| bip_39_word_space_5 | flee card retreat issue jelly |  
+| bip_39_word_space_6 | flee card retreat issue jelly sunny |  
+| bip_39_word_space_7 | flee card retreat issue jelly sunny lottery |  
+| bip_39_word_space_8 | flee card retreat issue jelly sunny lottery craft |  
+| bip_39_word_space_9 | flee card retreat issue jelly sunny lottery craft effort |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

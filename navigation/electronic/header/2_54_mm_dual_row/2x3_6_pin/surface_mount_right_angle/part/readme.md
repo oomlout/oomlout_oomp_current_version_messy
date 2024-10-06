@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spice stock
+  * bip 39 word 3: spice stock route
+  * bip 39 word: spice stock route expose deny cave survey tag giraffe flag sample attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spice |  
+| bip_39_word_new_br10 | spice<br>stock<br>route<br>expose<br>deny<br>cave<br>survey<br>tag<br>giraffe<br>flag |  
+| bip_39_word_new_br11 | spice<br>stock<br>route<br>expose<br>deny<br>cave<br>survey<br>tag<br>giraffe<br>flag<br>sample |  
+| bip_39_word_new_br12 | spice<br>stock<br>route<br>expose<br>deny<br>cave<br>survey<br>tag<br>giraffe<br>flag<br>sample<br>attend |  
+| bip_39_word_new_br2 | spice<br>stock |  
+| bip_39_word_new_br3 | spice<br>stock<br>route |  
+| bip_39_word_new_br4 | spice<br>stock<br>route<br>expose |  
+| bip_39_word_new_br5 | spice<br>stock<br>route<br>expose<br>deny |  
+| bip_39_word_new_br6 | spice<br>stock<br>route<br>expose<br>deny<br>cave |  
+| bip_39_word_new_br7 | spice<br>stock<br>route<br>expose<br>deny<br>cave<br>survey |  
+| bip_39_word_new_br8 | spice<br>stock<br>route<br>expose<br>deny<br>cave<br>survey<br>tag |  
+| bip_39_word_new_br9 | spice<br>stock<br>route<br>expose<br>deny<br>cave<br>survey<br>tag<br>giraffe |  
+| bip_39_word_new_line1 | spice |  
+| bip_39_word_new_line10 | spice
+stock
+route
+expose
+deny
+cave
+survey
+tag
+giraffe
+flag |  
+| bip_39_word_new_line11 | spice
+stock
+route
+expose
+deny
+cave
+survey
+tag
+giraffe
+flag
+sample |  
+| bip_39_word_new_line12 | spice
+stock
+route
+expose
+deny
+cave
+survey
+tag
+giraffe
+flag
+sample
+attend |  
+| bip_39_word_new_line2 | spice
+stock |  
+| bip_39_word_new_line3 | spice
+stock
+route |  
+| bip_39_word_new_line4 | spice
+stock
+route
+expose |  
+| bip_39_word_new_line5 | spice
+stock
+route
+expose
+deny |  
+| bip_39_word_new_line6 | spice
+stock
+route
+expose
+deny
+cave |  
+| bip_39_word_new_line7 | spice
+stock
+route
+expose
+deny
+cave
+survey |  
+| bip_39_word_new_line8 | spice
+stock
+route
+expose
+deny
+cave
+survey
+tag |  
+| bip_39_word_new_line9 | spice
+stock
+route
+expose
+deny
+cave
+survey
+tag
+giraffe |  
+| bip_39_word_space_0 | ['spice', 'stock', 'route', 'expose', 'deny', 'cave', 'survey', 'tag', 'giraffe', 'flag', 'sample', 'attend'] |  
+| bip_39_word_space_1 | spice |  
+| bip_39_word_space_10 | spice stock route expose deny cave survey tag giraffe flag |  
+| bip_39_word_space_11 | spice stock route expose deny cave survey tag giraffe flag sample |  
+| bip_39_word_space_12 | spice stock route expose deny cave survey tag giraffe flag sample attend |  
+| bip_39_word_space_2 | spice stock |  
+| bip_39_word_space_3 | spice stock route |  
+| bip_39_word_space_4 | spice stock route expose |  
+| bip_39_word_space_5 | spice stock route expose deny |  
+| bip_39_word_space_6 | spice stock route expose deny cave |  
+| bip_39_word_space_7 | spice stock route expose deny cave survey |  
+| bip_39_word_space_8 | spice stock route expose deny cave survey tag |  
+| bip_39_word_space_9 | spice stock route expose deny cave survey tag giraffe |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

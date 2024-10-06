@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crew idle
+  * bip 39 word 3: crew idle medal
+  * bip 39 word: crew idle medal void park ball quick rifle language acoustic alien another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crew |  
+| bip_39_word_new_br10 | crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language<br>acoustic |  
+| bip_39_word_new_br11 | crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language<br>acoustic<br>alien |  
+| bip_39_word_new_br12 | crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language<br>acoustic<br>alien<br>another |  
+| bip_39_word_new_br2 | crew<br>idle |  
+| bip_39_word_new_br3 | crew<br>idle<br>medal |  
+| bip_39_word_new_br4 | crew<br>idle<br>medal<br>void |  
+| bip_39_word_new_br5 | crew<br>idle<br>medal<br>void<br>park |  
+| bip_39_word_new_br6 | crew<br>idle<br>medal<br>void<br>park<br>ball |  
+| bip_39_word_new_br7 | crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick |  
+| bip_39_word_new_br8 | crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle |  
+| bip_39_word_new_br9 | crew<br>idle<br>medal<br>void<br>park<br>ball<br>quick<br>rifle<br>language |  
+| bip_39_word_new_line1 | crew |  
+| bip_39_word_new_line10 | crew
+idle
+medal
+void
+park
+ball
+quick
+rifle
+language
+acoustic |  
+| bip_39_word_new_line11 | crew
+idle
+medal
+void
+park
+ball
+quick
+rifle
+language
+acoustic
+alien |  
+| bip_39_word_new_line12 | crew
+idle
+medal
+void
+park
+ball
+quick
+rifle
+language
+acoustic
+alien
+another |  
+| bip_39_word_new_line2 | crew
+idle |  
+| bip_39_word_new_line3 | crew
+idle
+medal |  
+| bip_39_word_new_line4 | crew
+idle
+medal
+void |  
+| bip_39_word_new_line5 | crew
+idle
+medal
+void
+park |  
+| bip_39_word_new_line6 | crew
+idle
+medal
+void
+park
+ball |  
+| bip_39_word_new_line7 | crew
+idle
+medal
+void
+park
+ball
+quick |  
+| bip_39_word_new_line8 | crew
+idle
+medal
+void
+park
+ball
+quick
+rifle |  
+| bip_39_word_new_line9 | crew
+idle
+medal
+void
+park
+ball
+quick
+rifle
+language |  
+| bip_39_word_space_0 | ['crew', 'idle', 'medal', 'void', 'park', 'ball', 'quick', 'rifle', 'language', 'acoustic', 'alien', 'another'] |  
+| bip_39_word_space_1 | crew |  
+| bip_39_word_space_10 | crew idle medal void park ball quick rifle language acoustic |  
+| bip_39_word_space_11 | crew idle medal void park ball quick rifle language acoustic alien |  
+| bip_39_word_space_12 | crew idle medal void park ball quick rifle language acoustic alien another |  
+| bip_39_word_space_2 | crew idle |  
+| bip_39_word_space_3 | crew idle medal |  
+| bip_39_word_space_4 | crew idle medal void |  
+| bip_39_word_space_5 | crew idle medal void park |  
+| bip_39_word_space_6 | crew idle medal void park ball |  
+| bip_39_word_space_7 | crew idle medal void park ball quick |  
+| bip_39_word_space_8 | crew idle medal void park ball quick rifle |  
+| bip_39_word_space_9 | crew idle medal void park ball quick rifle language |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

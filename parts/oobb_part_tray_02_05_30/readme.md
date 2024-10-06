@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: elite cherry
+  * bip 39 word 3: elite cherry drive
+  * bip 39 word: elite cherry drive mandate alarm mosquito thought ship tattoo solid shield apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | elite |  
+| bip_39_word_new_br10 | elite<br>cherry<br>drive<br>mandate<br>alarm<br>mosquito<br>thought<br>ship<br>tattoo<br>solid |  
+| bip_39_word_new_br11 | elite<br>cherry<br>drive<br>mandate<br>alarm<br>mosquito<br>thought<br>ship<br>tattoo<br>solid<br>shield |  
+| bip_39_word_new_br12 | elite<br>cherry<br>drive<br>mandate<br>alarm<br>mosquito<br>thought<br>ship<br>tattoo<br>solid<br>shield<br>apology |  
+| bip_39_word_new_br2 | elite<br>cherry |  
+| bip_39_word_new_br3 | elite<br>cherry<br>drive |  
+| bip_39_word_new_br4 | elite<br>cherry<br>drive<br>mandate |  
+| bip_39_word_new_br5 | elite<br>cherry<br>drive<br>mandate<br>alarm |  
+| bip_39_word_new_br6 | elite<br>cherry<br>drive<br>mandate<br>alarm<br>mosquito |  
+| bip_39_word_new_br7 | elite<br>cherry<br>drive<br>mandate<br>alarm<br>mosquito<br>thought |  
+| bip_39_word_new_br8 | elite<br>cherry<br>drive<br>mandate<br>alarm<br>mosquito<br>thought<br>ship |  
+| bip_39_word_new_br9 | elite<br>cherry<br>drive<br>mandate<br>alarm<br>mosquito<br>thought<br>ship<br>tattoo |  
+| bip_39_word_new_line1 | elite |  
+| bip_39_word_new_line10 | elite
+cherry
+drive
+mandate
+alarm
+mosquito
+thought
+ship
+tattoo
+solid |  
+| bip_39_word_new_line11 | elite
+cherry
+drive
+mandate
+alarm
+mosquito
+thought
+ship
+tattoo
+solid
+shield |  
+| bip_39_word_new_line12 | elite
+cherry
+drive
+mandate
+alarm
+mosquito
+thought
+ship
+tattoo
+solid
+shield
+apology |  
+| bip_39_word_new_line2 | elite
+cherry |  
+| bip_39_word_new_line3 | elite
+cherry
+drive |  
+| bip_39_word_new_line4 | elite
+cherry
+drive
+mandate |  
+| bip_39_word_new_line5 | elite
+cherry
+drive
+mandate
+alarm |  
+| bip_39_word_new_line6 | elite
+cherry
+drive
+mandate
+alarm
+mosquito |  
+| bip_39_word_new_line7 | elite
+cherry
+drive
+mandate
+alarm
+mosquito
+thought |  
+| bip_39_word_new_line8 | elite
+cherry
+drive
+mandate
+alarm
+mosquito
+thought
+ship |  
+| bip_39_word_new_line9 | elite
+cherry
+drive
+mandate
+alarm
+mosquito
+thought
+ship
+tattoo |  
+| bip_39_word_space_0 | ['elite', 'cherry', 'drive', 'mandate', 'alarm', 'mosquito', 'thought', 'ship', 'tattoo', 'solid', 'shield', 'apology'] |  
+| bip_39_word_space_1 | elite |  
+| bip_39_word_space_10 | elite cherry drive mandate alarm mosquito thought ship tattoo solid |  
+| bip_39_word_space_11 | elite cherry drive mandate alarm mosquito thought ship tattoo solid shield |  
+| bip_39_word_space_12 | elite cherry drive mandate alarm mosquito thought ship tattoo solid shield apology |  
+| bip_39_word_space_2 | elite cherry |  
+| bip_39_word_space_3 | elite cherry drive |  
+| bip_39_word_space_4 | elite cherry drive mandate |  
+| bip_39_word_space_5 | elite cherry drive mandate alarm |  
+| bip_39_word_space_6 | elite cherry drive mandate alarm mosquito |  
+| bip_39_word_space_7 | elite cherry drive mandate alarm mosquito thought |  
+| bip_39_word_space_8 | elite cherry drive mandate alarm mosquito thought ship |  
+| bip_39_word_space_9 | elite cherry drive mandate alarm mosquito thought ship tattoo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

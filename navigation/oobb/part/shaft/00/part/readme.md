@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: word fortune
+  * bip 39 word 3: word fortune eyebrow
+  * bip 39 word: word fortune eyebrow dentist check where edit dish satisfy initial flame add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | word |  
+| bip_39_word_new_br10 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy<br>initial |  
+| bip_39_word_new_br11 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy<br>initial<br>flame |  
+| bip_39_word_new_br12 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy<br>initial<br>flame<br>add |  
+| bip_39_word_new_br2 | word<br>fortune |  
+| bip_39_word_new_br3 | word<br>fortune<br>eyebrow |  
+| bip_39_word_new_br4 | word<br>fortune<br>eyebrow<br>dentist |  
+| bip_39_word_new_br5 | word<br>fortune<br>eyebrow<br>dentist<br>check |  
+| bip_39_word_new_br6 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where |  
+| bip_39_word_new_br7 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit |  
+| bip_39_word_new_br8 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish |  
+| bip_39_word_new_br9 | word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy |  
+| bip_39_word_new_line1 | word |  
+| bip_39_word_new_line10 | word
+fortune
+eyebrow
+dentist
+check
+where
+edit
+dish
+satisfy
+initial |  
+| bip_39_word_new_line11 | word
+fortune
+eyebrow
+dentist
+check
+where
+edit
+dish
+satisfy
+initial
+flame |  
+| bip_39_word_new_line12 | word
+fortune
+eyebrow
+dentist
+check
+where
+edit
+dish
+satisfy
+initial
+flame
+add |  
+| bip_39_word_new_line2 | word
+fortune |  
+| bip_39_word_new_line3 | word
+fortune
+eyebrow |  
+| bip_39_word_new_line4 | word
+fortune
+eyebrow
+dentist |  
+| bip_39_word_new_line5 | word
+fortune
+eyebrow
+dentist
+check |  
+| bip_39_word_new_line6 | word
+fortune
+eyebrow
+dentist
+check
+where |  
+| bip_39_word_new_line7 | word
+fortune
+eyebrow
+dentist
+check
+where
+edit |  
+| bip_39_word_new_line8 | word
+fortune
+eyebrow
+dentist
+check
+where
+edit
+dish |  
+| bip_39_word_new_line9 | word
+fortune
+eyebrow
+dentist
+check
+where
+edit
+dish
+satisfy |  
+| bip_39_word_space_0 | ['word', 'fortune', 'eyebrow', 'dentist', 'check', 'where', 'edit', 'dish', 'satisfy', 'initial', 'flame', 'add'] |  
+| bip_39_word_space_1 | word |  
+| bip_39_word_space_10 | word fortune eyebrow dentist check where edit dish satisfy initial |  
+| bip_39_word_space_11 | word fortune eyebrow dentist check where edit dish satisfy initial flame |  
+| bip_39_word_space_12 | word fortune eyebrow dentist check where edit dish satisfy initial flame add |  
+| bip_39_word_space_2 | word fortune |  
+| bip_39_word_space_3 | word fortune eyebrow |  
+| bip_39_word_space_4 | word fortune eyebrow dentist |  
+| bip_39_word_space_5 | word fortune eyebrow dentist check |  
+| bip_39_word_space_6 | word fortune eyebrow dentist check where |  
+| bip_39_word_space_7 | word fortune eyebrow dentist check where edit |  
+| bip_39_word_space_8 | word fortune eyebrow dentist check where edit dish |  
+| bip_39_word_space_9 | word fortune eyebrow dentist check where edit dish satisfy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

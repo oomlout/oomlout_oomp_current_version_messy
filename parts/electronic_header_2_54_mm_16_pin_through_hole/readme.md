@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scheme add
+  * bip 39 word 3: scheme add leave
+  * bip 39 word: scheme add leave shift mobile pledge foam lab decade spray element alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scheme |  
+| bip_39_word_new_br10 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge<br>foam<br>lab<br>decade<br>spray |  
+| bip_39_word_new_br11 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge<br>foam<br>lab<br>decade<br>spray<br>element |  
+| bip_39_word_new_br12 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge<br>foam<br>lab<br>decade<br>spray<br>element<br>alert |  
+| bip_39_word_new_br2 | scheme<br>add |  
+| bip_39_word_new_br3 | scheme<br>add<br>leave |  
+| bip_39_word_new_br4 | scheme<br>add<br>leave<br>shift |  
+| bip_39_word_new_br5 | scheme<br>add<br>leave<br>shift<br>mobile |  
+| bip_39_word_new_br6 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge |  
+| bip_39_word_new_br7 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge<br>foam |  
+| bip_39_word_new_br8 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge<br>foam<br>lab |  
+| bip_39_word_new_br9 | scheme<br>add<br>leave<br>shift<br>mobile<br>pledge<br>foam<br>lab<br>decade |  
+| bip_39_word_new_line1 | scheme |  
+| bip_39_word_new_line10 | scheme
+add
+leave
+shift
+mobile
+pledge
+foam
+lab
+decade
+spray |  
+| bip_39_word_new_line11 | scheme
+add
+leave
+shift
+mobile
+pledge
+foam
+lab
+decade
+spray
+element |  
+| bip_39_word_new_line12 | scheme
+add
+leave
+shift
+mobile
+pledge
+foam
+lab
+decade
+spray
+element
+alert |  
+| bip_39_word_new_line2 | scheme
+add |  
+| bip_39_word_new_line3 | scheme
+add
+leave |  
+| bip_39_word_new_line4 | scheme
+add
+leave
+shift |  
+| bip_39_word_new_line5 | scheme
+add
+leave
+shift
+mobile |  
+| bip_39_word_new_line6 | scheme
+add
+leave
+shift
+mobile
+pledge |  
+| bip_39_word_new_line7 | scheme
+add
+leave
+shift
+mobile
+pledge
+foam |  
+| bip_39_word_new_line8 | scheme
+add
+leave
+shift
+mobile
+pledge
+foam
+lab |  
+| bip_39_word_new_line9 | scheme
+add
+leave
+shift
+mobile
+pledge
+foam
+lab
+decade |  
+| bip_39_word_space_0 | ['scheme', 'add', 'leave', 'shift', 'mobile', 'pledge', 'foam', 'lab', 'decade', 'spray', 'element', 'alert'] |  
+| bip_39_word_space_1 | scheme |  
+| bip_39_word_space_10 | scheme add leave shift mobile pledge foam lab decade spray |  
+| bip_39_word_space_11 | scheme add leave shift mobile pledge foam lab decade spray element |  
+| bip_39_word_space_12 | scheme add leave shift mobile pledge foam lab decade spray element alert |  
+| bip_39_word_space_2 | scheme add |  
+| bip_39_word_space_3 | scheme add leave |  
+| bip_39_word_space_4 | scheme add leave shift |  
+| bip_39_word_space_5 | scheme add leave shift mobile |  
+| bip_39_word_space_6 | scheme add leave shift mobile pledge |  
+| bip_39_word_space_7 | scheme add leave shift mobile pledge foam |  
+| bip_39_word_space_8 | scheme add leave shift mobile pledge foam lab |  
+| bip_39_word_space_9 | scheme add leave shift mobile pledge foam lab decade |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

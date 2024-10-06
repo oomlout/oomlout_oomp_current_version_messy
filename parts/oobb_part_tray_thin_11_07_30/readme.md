@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: genuine attend
+  * bip 39 word 3: genuine attend sad
+  * bip 39 word: genuine attend sad delay need opinion fog defy atom marble car any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | genuine |  
+| bip_39_word_new_br10 | genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble |  
+| bip_39_word_new_br11 | genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble<br>car |  
+| bip_39_word_new_br12 | genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom<br>marble<br>car<br>any |  
+| bip_39_word_new_br2 | genuine<br>attend |  
+| bip_39_word_new_br3 | genuine<br>attend<br>sad |  
+| bip_39_word_new_br4 | genuine<br>attend<br>sad<br>delay |  
+| bip_39_word_new_br5 | genuine<br>attend<br>sad<br>delay<br>need |  
+| bip_39_word_new_br6 | genuine<br>attend<br>sad<br>delay<br>need<br>opinion |  
+| bip_39_word_new_br7 | genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog |  
+| bip_39_word_new_br8 | genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy |  
+| bip_39_word_new_br9 | genuine<br>attend<br>sad<br>delay<br>need<br>opinion<br>fog<br>defy<br>atom |  
+| bip_39_word_new_line1 | genuine |  
+| bip_39_word_new_line10 | genuine
+attend
+sad
+delay
+need
+opinion
+fog
+defy
+atom
+marble |  
+| bip_39_word_new_line11 | genuine
+attend
+sad
+delay
+need
+opinion
+fog
+defy
+atom
+marble
+car |  
+| bip_39_word_new_line12 | genuine
+attend
+sad
+delay
+need
+opinion
+fog
+defy
+atom
+marble
+car
+any |  
+| bip_39_word_new_line2 | genuine
+attend |  
+| bip_39_word_new_line3 | genuine
+attend
+sad |  
+| bip_39_word_new_line4 | genuine
+attend
+sad
+delay |  
+| bip_39_word_new_line5 | genuine
+attend
+sad
+delay
+need |  
+| bip_39_word_new_line6 | genuine
+attend
+sad
+delay
+need
+opinion |  
+| bip_39_word_new_line7 | genuine
+attend
+sad
+delay
+need
+opinion
+fog |  
+| bip_39_word_new_line8 | genuine
+attend
+sad
+delay
+need
+opinion
+fog
+defy |  
+| bip_39_word_new_line9 | genuine
+attend
+sad
+delay
+need
+opinion
+fog
+defy
+atom |  
+| bip_39_word_space_0 | ['genuine', 'attend', 'sad', 'delay', 'need', 'opinion', 'fog', 'defy', 'atom', 'marble', 'car', 'any'] |  
+| bip_39_word_space_1 | genuine |  
+| bip_39_word_space_10 | genuine attend sad delay need opinion fog defy atom marble |  
+| bip_39_word_space_11 | genuine attend sad delay need opinion fog defy atom marble car |  
+| bip_39_word_space_12 | genuine attend sad delay need opinion fog defy atom marble car any |  
+| bip_39_word_space_2 | genuine attend |  
+| bip_39_word_space_3 | genuine attend sad |  
+| bip_39_word_space_4 | genuine attend sad delay |  
+| bip_39_word_space_5 | genuine attend sad delay need |  
+| bip_39_word_space_6 | genuine attend sad delay need opinion |  
+| bip_39_word_space_7 | genuine attend sad delay need opinion fog |  
+| bip_39_word_space_8 | genuine attend sad delay need opinion fog defy |  
+| bip_39_word_space_9 | genuine attend sad delay need opinion fog defy atom |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

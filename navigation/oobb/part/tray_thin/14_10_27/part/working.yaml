@@ -1,3 +1,187 @@
+bip_39_word_new_br1: drastic
+bip_39_word_new_br10: drastic<br>remember<br>soda<br>fever<br>cancel<br>shop<br>problem<br>gesture<br>carpet<br>glad
+bip_39_word_new_br11: drastic<br>remember<br>soda<br>fever<br>cancel<br>shop<br>problem<br>gesture<br>carpet<br>glad<br>trust
+bip_39_word_new_br12: drastic<br>remember<br>soda<br>fever<br>cancel<br>shop<br>problem<br>gesture<br>carpet<br>glad<br>trust<br>arm
+bip_39_word_new_br2: drastic<br>remember
+bip_39_word_new_br3: drastic<br>remember<br>soda
+bip_39_word_new_br4: drastic<br>remember<br>soda<br>fever
+bip_39_word_new_br5: drastic<br>remember<br>soda<br>fever<br>cancel
+bip_39_word_new_br6: drastic<br>remember<br>soda<br>fever<br>cancel<br>shop
+bip_39_word_new_br7: drastic<br>remember<br>soda<br>fever<br>cancel<br>shop<br>problem
+bip_39_word_new_br8: drastic<br>remember<br>soda<br>fever<br>cancel<br>shop<br>problem<br>gesture
+bip_39_word_new_br9: drastic<br>remember<br>soda<br>fever<br>cancel<br>shop<br>problem<br>gesture<br>carpet
+bip_39_word_new_line1: drastic
+bip_39_word_new_line10: 'drastic
+
+  remember
+
+  soda
+
+  fever
+
+  cancel
+
+  shop
+
+  problem
+
+  gesture
+
+  carpet
+
+  glad'
+bip_39_word_new_line11: 'drastic
+
+  remember
+
+  soda
+
+  fever
+
+  cancel
+
+  shop
+
+  problem
+
+  gesture
+
+  carpet
+
+  glad
+
+  trust'
+bip_39_word_new_line12: 'drastic
+
+  remember
+
+  soda
+
+  fever
+
+  cancel
+
+  shop
+
+  problem
+
+  gesture
+
+  carpet
+
+  glad
+
+  trust
+
+  arm'
+bip_39_word_new_line2: 'drastic
+
+  remember'
+bip_39_word_new_line3: 'drastic
+
+  remember
+
+  soda'
+bip_39_word_new_line4: 'drastic
+
+  remember
+
+  soda
+
+  fever'
+bip_39_word_new_line5: 'drastic
+
+  remember
+
+  soda
+
+  fever
+
+  cancel'
+bip_39_word_new_line6: 'drastic
+
+  remember
+
+  soda
+
+  fever
+
+  cancel
+
+  shop'
+bip_39_word_new_line7: 'drastic
+
+  remember
+
+  soda
+
+  fever
+
+  cancel
+
+  shop
+
+  problem'
+bip_39_word_new_line8: 'drastic
+
+  remember
+
+  soda
+
+  fever
+
+  cancel
+
+  shop
+
+  problem
+
+  gesture'
+bip_39_word_new_line9: 'drastic
+
+  remember
+
+  soda
+
+  fever
+
+  cancel
+
+  shop
+
+  problem
+
+  gesture
+
+  carpet'
+bip_39_word_space_0:
+- drastic
+- remember
+- soda
+- fever
+- cancel
+- shop
+- problem
+- gesture
+- carpet
+- glad
+- trust
+- arm
+bip_39_word_space_1: drastic
+bip_39_word_space_10: drastic remember soda fever cancel shop problem gesture carpet
+  glad
+bip_39_word_space_11: drastic remember soda fever cancel shop problem gesture carpet
+  glad trust
+bip_39_word_space_12: drastic remember soda fever cancel shop problem gesture carpet
+  glad trust arm
+bip_39_word_space_2: drastic remember
+bip_39_word_space_3: drastic remember soda
+bip_39_word_space_4: drastic remember soda fever
+bip_39_word_space_5: drastic remember soda fever cancel
+bip_39_word_space_6: drastic remember soda fever cancel shop
+bip_39_word_space_7: drastic remember soda fever cancel shop problem
+bip_39_word_space_8: drastic remember soda fever cancel shop problem gesture
+bip_39_word_space_9: drastic remember soda fever cancel shop problem gesture carpet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

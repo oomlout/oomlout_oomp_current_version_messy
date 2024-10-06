@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: snow vote
+  * bip 39 word 3: snow vote merry
+  * bip 39 word: snow vote merry ski chimney harbor mobile hazard traffic game version auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | snow |  
+| bip_39_word_new_br10 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor<br>mobile<br>hazard<br>traffic<br>game |  
+| bip_39_word_new_br11 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor<br>mobile<br>hazard<br>traffic<br>game<br>version |  
+| bip_39_word_new_br12 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor<br>mobile<br>hazard<br>traffic<br>game<br>version<br>auction |  
+| bip_39_word_new_br2 | snow<br>vote |  
+| bip_39_word_new_br3 | snow<br>vote<br>merry |  
+| bip_39_word_new_br4 | snow<br>vote<br>merry<br>ski |  
+| bip_39_word_new_br5 | snow<br>vote<br>merry<br>ski<br>chimney |  
+| bip_39_word_new_br6 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor |  
+| bip_39_word_new_br7 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor<br>mobile |  
+| bip_39_word_new_br8 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor<br>mobile<br>hazard |  
+| bip_39_word_new_br9 | snow<br>vote<br>merry<br>ski<br>chimney<br>harbor<br>mobile<br>hazard<br>traffic |  
+| bip_39_word_new_line1 | snow |  
+| bip_39_word_new_line10 | snow
+vote
+merry
+ski
+chimney
+harbor
+mobile
+hazard
+traffic
+game |  
+| bip_39_word_new_line11 | snow
+vote
+merry
+ski
+chimney
+harbor
+mobile
+hazard
+traffic
+game
+version |  
+| bip_39_word_new_line12 | snow
+vote
+merry
+ski
+chimney
+harbor
+mobile
+hazard
+traffic
+game
+version
+auction |  
+| bip_39_word_new_line2 | snow
+vote |  
+| bip_39_word_new_line3 | snow
+vote
+merry |  
+| bip_39_word_new_line4 | snow
+vote
+merry
+ski |  
+| bip_39_word_new_line5 | snow
+vote
+merry
+ski
+chimney |  
+| bip_39_word_new_line6 | snow
+vote
+merry
+ski
+chimney
+harbor |  
+| bip_39_word_new_line7 | snow
+vote
+merry
+ski
+chimney
+harbor
+mobile |  
+| bip_39_word_new_line8 | snow
+vote
+merry
+ski
+chimney
+harbor
+mobile
+hazard |  
+| bip_39_word_new_line9 | snow
+vote
+merry
+ski
+chimney
+harbor
+mobile
+hazard
+traffic |  
+| bip_39_word_space_0 | ['snow', 'vote', 'merry', 'ski', 'chimney', 'harbor', 'mobile', 'hazard', 'traffic', 'game', 'version', 'auction'] |  
+| bip_39_word_space_1 | snow |  
+| bip_39_word_space_10 | snow vote merry ski chimney harbor mobile hazard traffic game |  
+| bip_39_word_space_11 | snow vote merry ski chimney harbor mobile hazard traffic game version |  
+| bip_39_word_space_12 | snow vote merry ski chimney harbor mobile hazard traffic game version auction |  
+| bip_39_word_space_2 | snow vote |  
+| bip_39_word_space_3 | snow vote merry |  
+| bip_39_word_space_4 | snow vote merry ski |  
+| bip_39_word_space_5 | snow vote merry ski chimney |  
+| bip_39_word_space_6 | snow vote merry ski chimney harbor |  
+| bip_39_word_space_7 | snow vote merry ski chimney harbor mobile |  
+| bip_39_word_space_8 | snow vote merry ski chimney harbor mobile hazard |  
+| bip_39_word_space_9 | snow vote merry ski chimney harbor mobile hazard traffic |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

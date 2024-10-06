@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: bearing_twenty_twenty_aluminium_extrusion
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: finger analyst
+  * bip 39 word 3: finger analyst fiscal
+  * bip 39 word: finger analyst fiscal stand ribbon snack laugh virtual lawsuit west champion arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | finger |  
+| bip_39_word_new_br10 | finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack<br>laugh<br>virtual<br>lawsuit<br>west |  
+| bip_39_word_new_br11 | finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack<br>laugh<br>virtual<br>lawsuit<br>west<br>champion |  
+| bip_39_word_new_br12 | finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack<br>laugh<br>virtual<br>lawsuit<br>west<br>champion<br>arrest |  
+| bip_39_word_new_br2 | finger<br>analyst |  
+| bip_39_word_new_br3 | finger<br>analyst<br>fiscal |  
+| bip_39_word_new_br4 | finger<br>analyst<br>fiscal<br>stand |  
+| bip_39_word_new_br5 | finger<br>analyst<br>fiscal<br>stand<br>ribbon |  
+| bip_39_word_new_br6 | finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack |  
+| bip_39_word_new_br7 | finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack<br>laugh |  
+| bip_39_word_new_br8 | finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack<br>laugh<br>virtual |  
+| bip_39_word_new_br9 | finger<br>analyst<br>fiscal<br>stand<br>ribbon<br>snack<br>laugh<br>virtual<br>lawsuit |  
+| bip_39_word_new_line1 | finger |  
+| bip_39_word_new_line10 | finger
+analyst
+fiscal
+stand
+ribbon
+snack
+laugh
+virtual
+lawsuit
+west |  
+| bip_39_word_new_line11 | finger
+analyst
+fiscal
+stand
+ribbon
+snack
+laugh
+virtual
+lawsuit
+west
+champion |  
+| bip_39_word_new_line12 | finger
+analyst
+fiscal
+stand
+ribbon
+snack
+laugh
+virtual
+lawsuit
+west
+champion
+arrest |  
+| bip_39_word_new_line2 | finger
+analyst |  
+| bip_39_word_new_line3 | finger
+analyst
+fiscal |  
+| bip_39_word_new_line4 | finger
+analyst
+fiscal
+stand |  
+| bip_39_word_new_line5 | finger
+analyst
+fiscal
+stand
+ribbon |  
+| bip_39_word_new_line6 | finger
+analyst
+fiscal
+stand
+ribbon
+snack |  
+| bip_39_word_new_line7 | finger
+analyst
+fiscal
+stand
+ribbon
+snack
+laugh |  
+| bip_39_word_new_line8 | finger
+analyst
+fiscal
+stand
+ribbon
+snack
+laugh
+virtual |  
+| bip_39_word_new_line9 | finger
+analyst
+fiscal
+stand
+ribbon
+snack
+laugh
+virtual
+lawsuit |  
+| bip_39_word_space_0 | ['finger', 'analyst', 'fiscal', 'stand', 'ribbon', 'snack', 'laugh', 'virtual', 'lawsuit', 'west', 'champion', 'arrest'] |  
+| bip_39_word_space_1 | finger |  
+| bip_39_word_space_10 | finger analyst fiscal stand ribbon snack laugh virtual lawsuit west |  
+| bip_39_word_space_11 | finger analyst fiscal stand ribbon snack laugh virtual lawsuit west champion |  
+| bip_39_word_space_12 | finger analyst fiscal stand ribbon snack laugh virtual lawsuit west champion arrest |  
+| bip_39_word_space_2 | finger analyst |  
+| bip_39_word_space_3 | finger analyst fiscal |  
+| bip_39_word_space_4 | finger analyst fiscal stand |  
+| bip_39_word_space_5 | finger analyst fiscal stand ribbon |  
+| bip_39_word_space_6 | finger analyst fiscal stand ribbon snack |  
+| bip_39_word_space_7 | finger analyst fiscal stand ribbon snack laugh |  
+| bip_39_word_space_8 | finger analyst fiscal stand ribbon snack laugh virtual |  
+| bip_39_word_space_9 | finger analyst fiscal stand ribbon snack laugh virtual lawsuit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

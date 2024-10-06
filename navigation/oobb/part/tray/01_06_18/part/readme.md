@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: captain loan
+  * bip 39 word 3: captain loan recipe
+  * bip 39 word: captain loan recipe deny harbor bitter cream shaft turkey between urban agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | captain |  
+| bip_39_word_new_br10 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter<br>cream<br>shaft<br>turkey<br>between |  
+| bip_39_word_new_br11 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter<br>cream<br>shaft<br>turkey<br>between<br>urban |  
+| bip_39_word_new_br12 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter<br>cream<br>shaft<br>turkey<br>between<br>urban<br>agree |  
+| bip_39_word_new_br2 | captain<br>loan |  
+| bip_39_word_new_br3 | captain<br>loan<br>recipe |  
+| bip_39_word_new_br4 | captain<br>loan<br>recipe<br>deny |  
+| bip_39_word_new_br5 | captain<br>loan<br>recipe<br>deny<br>harbor |  
+| bip_39_word_new_br6 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter |  
+| bip_39_word_new_br7 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter<br>cream |  
+| bip_39_word_new_br8 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter<br>cream<br>shaft |  
+| bip_39_word_new_br9 | captain<br>loan<br>recipe<br>deny<br>harbor<br>bitter<br>cream<br>shaft<br>turkey |  
+| bip_39_word_new_line1 | captain |  
+| bip_39_word_new_line10 | captain
+loan
+recipe
+deny
+harbor
+bitter
+cream
+shaft
+turkey
+between |  
+| bip_39_word_new_line11 | captain
+loan
+recipe
+deny
+harbor
+bitter
+cream
+shaft
+turkey
+between
+urban |  
+| bip_39_word_new_line12 | captain
+loan
+recipe
+deny
+harbor
+bitter
+cream
+shaft
+turkey
+between
+urban
+agree |  
+| bip_39_word_new_line2 | captain
+loan |  
+| bip_39_word_new_line3 | captain
+loan
+recipe |  
+| bip_39_word_new_line4 | captain
+loan
+recipe
+deny |  
+| bip_39_word_new_line5 | captain
+loan
+recipe
+deny
+harbor |  
+| bip_39_word_new_line6 | captain
+loan
+recipe
+deny
+harbor
+bitter |  
+| bip_39_word_new_line7 | captain
+loan
+recipe
+deny
+harbor
+bitter
+cream |  
+| bip_39_word_new_line8 | captain
+loan
+recipe
+deny
+harbor
+bitter
+cream
+shaft |  
+| bip_39_word_new_line9 | captain
+loan
+recipe
+deny
+harbor
+bitter
+cream
+shaft
+turkey |  
+| bip_39_word_space_0 | ['captain', 'loan', 'recipe', 'deny', 'harbor', 'bitter', 'cream', 'shaft', 'turkey', 'between', 'urban', 'agree'] |  
+| bip_39_word_space_1 | captain |  
+| bip_39_word_space_10 | captain loan recipe deny harbor bitter cream shaft turkey between |  
+| bip_39_word_space_11 | captain loan recipe deny harbor bitter cream shaft turkey between urban |  
+| bip_39_word_space_12 | captain loan recipe deny harbor bitter cream shaft turkey between urban agree |  
+| bip_39_word_space_2 | captain loan |  
+| bip_39_word_space_3 | captain loan recipe |  
+| bip_39_word_space_4 | captain loan recipe deny |  
+| bip_39_word_space_5 | captain loan recipe deny harbor |  
+| bip_39_word_space_6 | captain loan recipe deny harbor bitter |  
+| bip_39_word_space_7 | captain loan recipe deny harbor bitter cream |  
+| bip_39_word_space_8 | captain loan recipe deny harbor bitter cream shaft |  
+| bip_39_word_space_9 | captain loan recipe deny harbor bitter cream shaft turkey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

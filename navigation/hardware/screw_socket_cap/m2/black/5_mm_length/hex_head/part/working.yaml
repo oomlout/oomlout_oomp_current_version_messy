@@ -1,3 +1,187 @@
+bip_39_word_new_br1: giggle
+bip_39_word_new_br10: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk
+bip_39_word_new_br11: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk<br>fault
+bip_39_word_new_br12: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire<br>silk<br>fault<br>aim
+bip_39_word_new_br2: giggle<br>truck
+bip_39_word_new_br3: giggle<br>truck<br>potato
+bip_39_word_new_br4: giggle<br>truck<br>potato<br>scrap
+bip_39_word_new_br5: giggle<br>truck<br>potato<br>scrap<br>satisfy
+bip_39_word_new_br6: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property
+bip_39_word_new_br7: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory
+bip_39_word_new_br8: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade
+bip_39_word_new_br9: giggle<br>truck<br>potato<br>scrap<br>satisfy<br>property<br>victory<br>decade<br>retire
+bip_39_word_new_line1: giggle
+bip_39_word_new_line10: 'giggle
+
+  truck
+
+  potato
+
+  scrap
+
+  satisfy
+
+  property
+
+  victory
+
+  decade
+
+  retire
+
+  silk'
+bip_39_word_new_line11: 'giggle
+
+  truck
+
+  potato
+
+  scrap
+
+  satisfy
+
+  property
+
+  victory
+
+  decade
+
+  retire
+
+  silk
+
+  fault'
+bip_39_word_new_line12: 'giggle
+
+  truck
+
+  potato
+
+  scrap
+
+  satisfy
+
+  property
+
+  victory
+
+  decade
+
+  retire
+
+  silk
+
+  fault
+
+  aim'
+bip_39_word_new_line2: 'giggle
+
+  truck'
+bip_39_word_new_line3: 'giggle
+
+  truck
+
+  potato'
+bip_39_word_new_line4: 'giggle
+
+  truck
+
+  potato
+
+  scrap'
+bip_39_word_new_line5: 'giggle
+
+  truck
+
+  potato
+
+  scrap
+
+  satisfy'
+bip_39_word_new_line6: 'giggle
+
+  truck
+
+  potato
+
+  scrap
+
+  satisfy
+
+  property'
+bip_39_word_new_line7: 'giggle
+
+  truck
+
+  potato
+
+  scrap
+
+  satisfy
+
+  property
+
+  victory'
+bip_39_word_new_line8: 'giggle
+
+  truck
+
+  potato
+
+  scrap
+
+  satisfy
+
+  property
+
+  victory
+
+  decade'
+bip_39_word_new_line9: 'giggle
+
+  truck
+
+  potato
+
+  scrap
+
+  satisfy
+
+  property
+
+  victory
+
+  decade
+
+  retire'
+bip_39_word_space_0:
+- giggle
+- truck
+- potato
+- scrap
+- satisfy
+- property
+- victory
+- decade
+- retire
+- silk
+- fault
+- aim
+bip_39_word_space_1: giggle
+bip_39_word_space_10: giggle truck potato scrap satisfy property victory decade retire
+  silk
+bip_39_word_space_11: giggle truck potato scrap satisfy property victory decade retire
+  silk fault
+bip_39_word_space_12: giggle truck potato scrap satisfy property victory decade retire
+  silk fault aim
+bip_39_word_space_2: giggle truck
+bip_39_word_space_3: giggle truck potato
+bip_39_word_space_4: giggle truck potato scrap
+bip_39_word_space_5: giggle truck potato scrap satisfy
+bip_39_word_space_6: giggle truck potato scrap satisfy property
+bip_39_word_space_7: giggle truck potato scrap satisfy property victory
+bip_39_word_space_8: giggle truck potato scrap satisfy property victory decade
+bip_39_word_space_9: giggle truck potato scrap satisfy property victory decade retire
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

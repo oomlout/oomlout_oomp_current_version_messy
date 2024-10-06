@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: congress just
+  * bip 39 word 3: congress just super
+  * bip 39 word: congress just super pool code fever there maid process entire fetch afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | congress |  
+| bip_39_word_new_br10 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire |  
+| bip_39_word_new_br11 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire<br>fetch |  
+| bip_39_word_new_br12 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process<br>entire<br>fetch<br>afraid |  
+| bip_39_word_new_br2 | congress<br>just |  
+| bip_39_word_new_br3 | congress<br>just<br>super |  
+| bip_39_word_new_br4 | congress<br>just<br>super<br>pool |  
+| bip_39_word_new_br5 | congress<br>just<br>super<br>pool<br>code |  
+| bip_39_word_new_br6 | congress<br>just<br>super<br>pool<br>code<br>fever |  
+| bip_39_word_new_br7 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there |  
+| bip_39_word_new_br8 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid |  
+| bip_39_word_new_br9 | congress<br>just<br>super<br>pool<br>code<br>fever<br>there<br>maid<br>process |  
+| bip_39_word_new_line1 | congress |  
+| bip_39_word_new_line10 | congress
+just
+super
+pool
+code
+fever
+there
+maid
+process
+entire |  
+| bip_39_word_new_line11 | congress
+just
+super
+pool
+code
+fever
+there
+maid
+process
+entire
+fetch |  
+| bip_39_word_new_line12 | congress
+just
+super
+pool
+code
+fever
+there
+maid
+process
+entire
+fetch
+afraid |  
+| bip_39_word_new_line2 | congress
+just |  
+| bip_39_word_new_line3 | congress
+just
+super |  
+| bip_39_word_new_line4 | congress
+just
+super
+pool |  
+| bip_39_word_new_line5 | congress
+just
+super
+pool
+code |  
+| bip_39_word_new_line6 | congress
+just
+super
+pool
+code
+fever |  
+| bip_39_word_new_line7 | congress
+just
+super
+pool
+code
+fever
+there |  
+| bip_39_word_new_line8 | congress
+just
+super
+pool
+code
+fever
+there
+maid |  
+| bip_39_word_new_line9 | congress
+just
+super
+pool
+code
+fever
+there
+maid
+process |  
+| bip_39_word_space_0 | ['congress', 'just', 'super', 'pool', 'code', 'fever', 'there', 'maid', 'process', 'entire', 'fetch', 'afraid'] |  
+| bip_39_word_space_1 | congress |  
+| bip_39_word_space_10 | congress just super pool code fever there maid process entire |  
+| bip_39_word_space_11 | congress just super pool code fever there maid process entire fetch |  
+| bip_39_word_space_12 | congress just super pool code fever there maid process entire fetch afraid |  
+| bip_39_word_space_2 | congress just |  
+| bip_39_word_space_3 | congress just super |  
+| bip_39_word_space_4 | congress just super pool |  
+| bip_39_word_space_5 | congress just super pool code |  
+| bip_39_word_space_6 | congress just super pool code fever |  
+| bip_39_word_space_7 | congress just super pool code fever there |  
+| bip_39_word_space_8 | congress just super pool code fever there maid |  
+| bip_39_word_space_9 | congress just super pool code fever there maid process |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

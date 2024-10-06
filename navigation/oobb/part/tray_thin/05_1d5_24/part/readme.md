@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cactus keen
+  * bip 39 word 3: cactus keen govern
+  * bip 39 word: cactus keen govern blue scrap company hotel someone alter level drive afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cactus |  
+| bip_39_word_new_br10 | cactus<br>keen<br>govern<br>blue<br>scrap<br>company<br>hotel<br>someone<br>alter<br>level |  
+| bip_39_word_new_br11 | cactus<br>keen<br>govern<br>blue<br>scrap<br>company<br>hotel<br>someone<br>alter<br>level<br>drive |  
+| bip_39_word_new_br12 | cactus<br>keen<br>govern<br>blue<br>scrap<br>company<br>hotel<br>someone<br>alter<br>level<br>drive<br>afraid |  
+| bip_39_word_new_br2 | cactus<br>keen |  
+| bip_39_word_new_br3 | cactus<br>keen<br>govern |  
+| bip_39_word_new_br4 | cactus<br>keen<br>govern<br>blue |  
+| bip_39_word_new_br5 | cactus<br>keen<br>govern<br>blue<br>scrap |  
+| bip_39_word_new_br6 | cactus<br>keen<br>govern<br>blue<br>scrap<br>company |  
+| bip_39_word_new_br7 | cactus<br>keen<br>govern<br>blue<br>scrap<br>company<br>hotel |  
+| bip_39_word_new_br8 | cactus<br>keen<br>govern<br>blue<br>scrap<br>company<br>hotel<br>someone |  
+| bip_39_word_new_br9 | cactus<br>keen<br>govern<br>blue<br>scrap<br>company<br>hotel<br>someone<br>alter |  
+| bip_39_word_new_line1 | cactus |  
+| bip_39_word_new_line10 | cactus
+keen
+govern
+blue
+scrap
+company
+hotel
+someone
+alter
+level |  
+| bip_39_word_new_line11 | cactus
+keen
+govern
+blue
+scrap
+company
+hotel
+someone
+alter
+level
+drive |  
+| bip_39_word_new_line12 | cactus
+keen
+govern
+blue
+scrap
+company
+hotel
+someone
+alter
+level
+drive
+afraid |  
+| bip_39_word_new_line2 | cactus
+keen |  
+| bip_39_word_new_line3 | cactus
+keen
+govern |  
+| bip_39_word_new_line4 | cactus
+keen
+govern
+blue |  
+| bip_39_word_new_line5 | cactus
+keen
+govern
+blue
+scrap |  
+| bip_39_word_new_line6 | cactus
+keen
+govern
+blue
+scrap
+company |  
+| bip_39_word_new_line7 | cactus
+keen
+govern
+blue
+scrap
+company
+hotel |  
+| bip_39_word_new_line8 | cactus
+keen
+govern
+blue
+scrap
+company
+hotel
+someone |  
+| bip_39_word_new_line9 | cactus
+keen
+govern
+blue
+scrap
+company
+hotel
+someone
+alter |  
+| bip_39_word_space_0 | ['cactus', 'keen', 'govern', 'blue', 'scrap', 'company', 'hotel', 'someone', 'alter', 'level', 'drive', 'afraid'] |  
+| bip_39_word_space_1 | cactus |  
+| bip_39_word_space_10 | cactus keen govern blue scrap company hotel someone alter level |  
+| bip_39_word_space_11 | cactus keen govern blue scrap company hotel someone alter level drive |  
+| bip_39_word_space_12 | cactus keen govern blue scrap company hotel someone alter level drive afraid |  
+| bip_39_word_space_2 | cactus keen |  
+| bip_39_word_space_3 | cactus keen govern |  
+| bip_39_word_space_4 | cactus keen govern blue |  
+| bip_39_word_space_5 | cactus keen govern blue scrap |  
+| bip_39_word_space_6 | cactus keen govern blue scrap company |  
+| bip_39_word_space_7 | cactus keen govern blue scrap company hotel |  
+| bip_39_word_space_8 | cactus keen govern blue scrap company hotel someone |  
+| bip_39_word_space_9 | cactus keen govern blue scrap company hotel someone alter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

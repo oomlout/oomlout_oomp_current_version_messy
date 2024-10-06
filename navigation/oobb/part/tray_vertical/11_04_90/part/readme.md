@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: only bench
+  * bip 39 word 3: only bench dolphin
+  * bip 39 word: only bench dolphin clarify basic thrive voice melody key caution nerve around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | only |  
+| bip_39_word_new_br10 | only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive<br>voice<br>melody<br>key<br>caution |  
+| bip_39_word_new_br11 | only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive<br>voice<br>melody<br>key<br>caution<br>nerve |  
+| bip_39_word_new_br12 | only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive<br>voice<br>melody<br>key<br>caution<br>nerve<br>around |  
+| bip_39_word_new_br2 | only<br>bench |  
+| bip_39_word_new_br3 | only<br>bench<br>dolphin |  
+| bip_39_word_new_br4 | only<br>bench<br>dolphin<br>clarify |  
+| bip_39_word_new_br5 | only<br>bench<br>dolphin<br>clarify<br>basic |  
+| bip_39_word_new_br6 | only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive |  
+| bip_39_word_new_br7 | only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive<br>voice |  
+| bip_39_word_new_br8 | only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive<br>voice<br>melody |  
+| bip_39_word_new_br9 | only<br>bench<br>dolphin<br>clarify<br>basic<br>thrive<br>voice<br>melody<br>key |  
+| bip_39_word_new_line1 | only |  
+| bip_39_word_new_line10 | only
+bench
+dolphin
+clarify
+basic
+thrive
+voice
+melody
+key
+caution |  
+| bip_39_word_new_line11 | only
+bench
+dolphin
+clarify
+basic
+thrive
+voice
+melody
+key
+caution
+nerve |  
+| bip_39_word_new_line12 | only
+bench
+dolphin
+clarify
+basic
+thrive
+voice
+melody
+key
+caution
+nerve
+around |  
+| bip_39_word_new_line2 | only
+bench |  
+| bip_39_word_new_line3 | only
+bench
+dolphin |  
+| bip_39_word_new_line4 | only
+bench
+dolphin
+clarify |  
+| bip_39_word_new_line5 | only
+bench
+dolphin
+clarify
+basic |  
+| bip_39_word_new_line6 | only
+bench
+dolphin
+clarify
+basic
+thrive |  
+| bip_39_word_new_line7 | only
+bench
+dolphin
+clarify
+basic
+thrive
+voice |  
+| bip_39_word_new_line8 | only
+bench
+dolphin
+clarify
+basic
+thrive
+voice
+melody |  
+| bip_39_word_new_line9 | only
+bench
+dolphin
+clarify
+basic
+thrive
+voice
+melody
+key |  
+| bip_39_word_space_0 | ['only', 'bench', 'dolphin', 'clarify', 'basic', 'thrive', 'voice', 'melody', 'key', 'caution', 'nerve', 'around'] |  
+| bip_39_word_space_1 | only |  
+| bip_39_word_space_10 | only bench dolphin clarify basic thrive voice melody key caution |  
+| bip_39_word_space_11 | only bench dolphin clarify basic thrive voice melody key caution nerve |  
+| bip_39_word_space_12 | only bench dolphin clarify basic thrive voice melody key caution nerve around |  
+| bip_39_word_space_2 | only bench |  
+| bip_39_word_space_3 | only bench dolphin |  
+| bip_39_word_space_4 | only bench dolphin clarify |  
+| bip_39_word_space_5 | only bench dolphin clarify basic |  
+| bip_39_word_space_6 | only bench dolphin clarify basic thrive |  
+| bip_39_word_space_7 | only bench dolphin clarify basic thrive voice |  
+| bip_39_word_space_8 | only bench dolphin clarify basic thrive voice melody |  
+| bip_39_word_space_9 | only bench dolphin clarify basic thrive voice melody key |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

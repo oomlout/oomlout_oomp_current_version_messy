@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: document oxygen
+  * bip 39 word 3: document oxygen about
+  * bip 39 word: document oxygen about snap frequent muffin romance bone bench pave diagram apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | document |  
+| bip_39_word_new_br10 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin<br>romance<br>bone<br>bench<br>pave |  
+| bip_39_word_new_br11 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin<br>romance<br>bone<br>bench<br>pave<br>diagram |  
+| bip_39_word_new_br12 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin<br>romance<br>bone<br>bench<br>pave<br>diagram<br>apology |  
+| bip_39_word_new_br2 | document<br>oxygen |  
+| bip_39_word_new_br3 | document<br>oxygen<br>about |  
+| bip_39_word_new_br4 | document<br>oxygen<br>about<br>snap |  
+| bip_39_word_new_br5 | document<br>oxygen<br>about<br>snap<br>frequent |  
+| bip_39_word_new_br6 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin |  
+| bip_39_word_new_br7 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin<br>romance |  
+| bip_39_word_new_br8 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin<br>romance<br>bone |  
+| bip_39_word_new_br9 | document<br>oxygen<br>about<br>snap<br>frequent<br>muffin<br>romance<br>bone<br>bench |  
+| bip_39_word_new_line1 | document |  
+| bip_39_word_new_line10 | document
+oxygen
+about
+snap
+frequent
+muffin
+romance
+bone
+bench
+pave |  
+| bip_39_word_new_line11 | document
+oxygen
+about
+snap
+frequent
+muffin
+romance
+bone
+bench
+pave
+diagram |  
+| bip_39_word_new_line12 | document
+oxygen
+about
+snap
+frequent
+muffin
+romance
+bone
+bench
+pave
+diagram
+apology |  
+| bip_39_word_new_line2 | document
+oxygen |  
+| bip_39_word_new_line3 | document
+oxygen
+about |  
+| bip_39_word_new_line4 | document
+oxygen
+about
+snap |  
+| bip_39_word_new_line5 | document
+oxygen
+about
+snap
+frequent |  
+| bip_39_word_new_line6 | document
+oxygen
+about
+snap
+frequent
+muffin |  
+| bip_39_word_new_line7 | document
+oxygen
+about
+snap
+frequent
+muffin
+romance |  
+| bip_39_word_new_line8 | document
+oxygen
+about
+snap
+frequent
+muffin
+romance
+bone |  
+| bip_39_word_new_line9 | document
+oxygen
+about
+snap
+frequent
+muffin
+romance
+bone
+bench |  
+| bip_39_word_space_0 | ['document', 'oxygen', 'about', 'snap', 'frequent', 'muffin', 'romance', 'bone', 'bench', 'pave', 'diagram', 'apology'] |  
+| bip_39_word_space_1 | document |  
+| bip_39_word_space_10 | document oxygen about snap frequent muffin romance bone bench pave |  
+| bip_39_word_space_11 | document oxygen about snap frequent muffin romance bone bench pave diagram |  
+| bip_39_word_space_12 | document oxygen about snap frequent muffin romance bone bench pave diagram apology |  
+| bip_39_word_space_2 | document oxygen |  
+| bip_39_word_space_3 | document oxygen about |  
+| bip_39_word_space_4 | document oxygen about snap |  
+| bip_39_word_space_5 | document oxygen about snap frequent |  
+| bip_39_word_space_6 | document oxygen about snap frequent muffin |  
+| bip_39_word_space_7 | document oxygen about snap frequent muffin romance |  
+| bip_39_word_space_8 | document oxygen about snap frequent muffin romance bone |  
+| bip_39_word_space_9 | document oxygen about snap frequent muffin romance bone bench |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

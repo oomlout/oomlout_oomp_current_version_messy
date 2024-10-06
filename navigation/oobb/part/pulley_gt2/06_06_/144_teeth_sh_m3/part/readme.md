@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: you target
+  * bip 39 word 3: you target style
+  * bip 39 word: you target style waste camera surprise swim earth ripple curve crouch accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | you |  
+| bip_39_word_new_br10 | you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth<br>ripple<br>curve |  
+| bip_39_word_new_br11 | you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth<br>ripple<br>curve<br>crouch |  
+| bip_39_word_new_br12 | you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth<br>ripple<br>curve<br>crouch<br>accuse |  
+| bip_39_word_new_br2 | you<br>target |  
+| bip_39_word_new_br3 | you<br>target<br>style |  
+| bip_39_word_new_br4 | you<br>target<br>style<br>waste |  
+| bip_39_word_new_br5 | you<br>target<br>style<br>waste<br>camera |  
+| bip_39_word_new_br6 | you<br>target<br>style<br>waste<br>camera<br>surprise |  
+| bip_39_word_new_br7 | you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim |  
+| bip_39_word_new_br8 | you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth |  
+| bip_39_word_new_br9 | you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth<br>ripple |  
+| bip_39_word_new_line1 | you |  
+| bip_39_word_new_line10 | you
+target
+style
+waste
+camera
+surprise
+swim
+earth
+ripple
+curve |  
+| bip_39_word_new_line11 | you
+target
+style
+waste
+camera
+surprise
+swim
+earth
+ripple
+curve
+crouch |  
+| bip_39_word_new_line12 | you
+target
+style
+waste
+camera
+surprise
+swim
+earth
+ripple
+curve
+crouch
+accuse |  
+| bip_39_word_new_line2 | you
+target |  
+| bip_39_word_new_line3 | you
+target
+style |  
+| bip_39_word_new_line4 | you
+target
+style
+waste |  
+| bip_39_word_new_line5 | you
+target
+style
+waste
+camera |  
+| bip_39_word_new_line6 | you
+target
+style
+waste
+camera
+surprise |  
+| bip_39_word_new_line7 | you
+target
+style
+waste
+camera
+surprise
+swim |  
+| bip_39_word_new_line8 | you
+target
+style
+waste
+camera
+surprise
+swim
+earth |  
+| bip_39_word_new_line9 | you
+target
+style
+waste
+camera
+surprise
+swim
+earth
+ripple |  
+| bip_39_word_space_0 | ['you', 'target', 'style', 'waste', 'camera', 'surprise', 'swim', 'earth', 'ripple', 'curve', 'crouch', 'accuse'] |  
+| bip_39_word_space_1 | you |  
+| bip_39_word_space_10 | you target style waste camera surprise swim earth ripple curve |  
+| bip_39_word_space_11 | you target style waste camera surprise swim earth ripple curve crouch |  
+| bip_39_word_space_12 | you target style waste camera surprise swim earth ripple curve crouch accuse |  
+| bip_39_word_space_2 | you target |  
+| bip_39_word_space_3 | you target style |  
+| bip_39_word_space_4 | you target style waste |  
+| bip_39_word_space_5 | you target style waste camera |  
+| bip_39_word_space_6 | you target style waste camera surprise |  
+| bip_39_word_space_7 | you target style waste camera surprise swim |  
+| bip_39_word_space_8 | you target style waste camera surprise swim earth |  
+| bip_39_word_space_9 | you target style waste camera surprise swim earth ripple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

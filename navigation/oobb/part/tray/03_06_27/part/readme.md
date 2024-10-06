@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: across lottery
+  * bip 39 word 3: across lottery engage
+  * bip 39 word: across lottery engage evil device chaos hobby zebra print keep level accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | across |  
+| bip_39_word_new_br10 | across<br>lottery<br>engage<br>evil<br>device<br>chaos<br>hobby<br>zebra<br>print<br>keep |  
+| bip_39_word_new_br11 | across<br>lottery<br>engage<br>evil<br>device<br>chaos<br>hobby<br>zebra<br>print<br>keep<br>level |  
+| bip_39_word_new_br12 | across<br>lottery<br>engage<br>evil<br>device<br>chaos<br>hobby<br>zebra<br>print<br>keep<br>level<br>accuse |  
+| bip_39_word_new_br2 | across<br>lottery |  
+| bip_39_word_new_br3 | across<br>lottery<br>engage |  
+| bip_39_word_new_br4 | across<br>lottery<br>engage<br>evil |  
+| bip_39_word_new_br5 | across<br>lottery<br>engage<br>evil<br>device |  
+| bip_39_word_new_br6 | across<br>lottery<br>engage<br>evil<br>device<br>chaos |  
+| bip_39_word_new_br7 | across<br>lottery<br>engage<br>evil<br>device<br>chaos<br>hobby |  
+| bip_39_word_new_br8 | across<br>lottery<br>engage<br>evil<br>device<br>chaos<br>hobby<br>zebra |  
+| bip_39_word_new_br9 | across<br>lottery<br>engage<br>evil<br>device<br>chaos<br>hobby<br>zebra<br>print |  
+| bip_39_word_new_line1 | across |  
+| bip_39_word_new_line10 | across
+lottery
+engage
+evil
+device
+chaos
+hobby
+zebra
+print
+keep |  
+| bip_39_word_new_line11 | across
+lottery
+engage
+evil
+device
+chaos
+hobby
+zebra
+print
+keep
+level |  
+| bip_39_word_new_line12 | across
+lottery
+engage
+evil
+device
+chaos
+hobby
+zebra
+print
+keep
+level
+accuse |  
+| bip_39_word_new_line2 | across
+lottery |  
+| bip_39_word_new_line3 | across
+lottery
+engage |  
+| bip_39_word_new_line4 | across
+lottery
+engage
+evil |  
+| bip_39_word_new_line5 | across
+lottery
+engage
+evil
+device |  
+| bip_39_word_new_line6 | across
+lottery
+engage
+evil
+device
+chaos |  
+| bip_39_word_new_line7 | across
+lottery
+engage
+evil
+device
+chaos
+hobby |  
+| bip_39_word_new_line8 | across
+lottery
+engage
+evil
+device
+chaos
+hobby
+zebra |  
+| bip_39_word_new_line9 | across
+lottery
+engage
+evil
+device
+chaos
+hobby
+zebra
+print |  
+| bip_39_word_space_0 | ['across', 'lottery', 'engage', 'evil', 'device', 'chaos', 'hobby', 'zebra', 'print', 'keep', 'level', 'accuse'] |  
+| bip_39_word_space_1 | across |  
+| bip_39_word_space_10 | across lottery engage evil device chaos hobby zebra print keep |  
+| bip_39_word_space_11 | across lottery engage evil device chaos hobby zebra print keep level |  
+| bip_39_word_space_12 | across lottery engage evil device chaos hobby zebra print keep level accuse |  
+| bip_39_word_space_2 | across lottery |  
+| bip_39_word_space_3 | across lottery engage |  
+| bip_39_word_space_4 | across lottery engage evil |  
+| bip_39_word_space_5 | across lottery engage evil device |  
+| bip_39_word_space_6 | across lottery engage evil device chaos |  
+| bip_39_word_space_7 | across lottery engage evil device chaos hobby |  
+| bip_39_word_space_8 | across lottery engage evil device chaos hobby zebra |  
+| bip_39_word_space_9 | across lottery engage evil device chaos hobby zebra print |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: detect muscle
+  * bip 39 word 3: detect muscle young
+  * bip 39 word: detect muscle young enforce hospital visit twice rival float elegant bonus afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | detect |  
+| bip_39_word_new_br10 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit<br>twice<br>rival<br>float<br>elegant |  
+| bip_39_word_new_br11 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit<br>twice<br>rival<br>float<br>elegant<br>bonus |  
+| bip_39_word_new_br12 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit<br>twice<br>rival<br>float<br>elegant<br>bonus<br>afraid |  
+| bip_39_word_new_br2 | detect<br>muscle |  
+| bip_39_word_new_br3 | detect<br>muscle<br>young |  
+| bip_39_word_new_br4 | detect<br>muscle<br>young<br>enforce |  
+| bip_39_word_new_br5 | detect<br>muscle<br>young<br>enforce<br>hospital |  
+| bip_39_word_new_br6 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit |  
+| bip_39_word_new_br7 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit<br>twice |  
+| bip_39_word_new_br8 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit<br>twice<br>rival |  
+| bip_39_word_new_br9 | detect<br>muscle<br>young<br>enforce<br>hospital<br>visit<br>twice<br>rival<br>float |  
+| bip_39_word_new_line1 | detect |  
+| bip_39_word_new_line10 | detect
+muscle
+young
+enforce
+hospital
+visit
+twice
+rival
+float
+elegant |  
+| bip_39_word_new_line11 | detect
+muscle
+young
+enforce
+hospital
+visit
+twice
+rival
+float
+elegant
+bonus |  
+| bip_39_word_new_line12 | detect
+muscle
+young
+enforce
+hospital
+visit
+twice
+rival
+float
+elegant
+bonus
+afraid |  
+| bip_39_word_new_line2 | detect
+muscle |  
+| bip_39_word_new_line3 | detect
+muscle
+young |  
+| bip_39_word_new_line4 | detect
+muscle
+young
+enforce |  
+| bip_39_word_new_line5 | detect
+muscle
+young
+enforce
+hospital |  
+| bip_39_word_new_line6 | detect
+muscle
+young
+enforce
+hospital
+visit |  
+| bip_39_word_new_line7 | detect
+muscle
+young
+enforce
+hospital
+visit
+twice |  
+| bip_39_word_new_line8 | detect
+muscle
+young
+enforce
+hospital
+visit
+twice
+rival |  
+| bip_39_word_new_line9 | detect
+muscle
+young
+enforce
+hospital
+visit
+twice
+rival
+float |  
+| bip_39_word_space_0 | ['detect', 'muscle', 'young', 'enforce', 'hospital', 'visit', 'twice', 'rival', 'float', 'elegant', 'bonus', 'afraid'] |  
+| bip_39_word_space_1 | detect |  
+| bip_39_word_space_10 | detect muscle young enforce hospital visit twice rival float elegant |  
+| bip_39_word_space_11 | detect muscle young enforce hospital visit twice rival float elegant bonus |  
+| bip_39_word_space_12 | detect muscle young enforce hospital visit twice rival float elegant bonus afraid |  
+| bip_39_word_space_2 | detect muscle |  
+| bip_39_word_space_3 | detect muscle young |  
+| bip_39_word_space_4 | detect muscle young enforce |  
+| bip_39_word_space_5 | detect muscle young enforce hospital |  
+| bip_39_word_space_6 | detect muscle young enforce hospital visit |  
+| bip_39_word_space_7 | detect muscle young enforce hospital visit twice |  
+| bip_39_word_space_8 | detect muscle young enforce hospital visit twice rival |  
+| bip_39_word_space_9 | detect muscle young enforce hospital visit twice rival float |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

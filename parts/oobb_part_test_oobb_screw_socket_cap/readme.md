@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: oobb_screw_socket_cap
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: select example
+  * bip 39 word 3: select example east
+  * bip 39 word: select example east salon dry letter hint gesture dragon peasant intact arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | select |  
+| bip_39_word_new_br10 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant |  
+| bip_39_word_new_br11 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact |  
+| bip_39_word_new_br12 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact<br>arrest |  
+| bip_39_word_new_br2 | select<br>example |  
+| bip_39_word_new_br3 | select<br>example<br>east |  
+| bip_39_word_new_br4 | select<br>example<br>east<br>salon |  
+| bip_39_word_new_br5 | select<br>example<br>east<br>salon<br>dry |  
+| bip_39_word_new_br6 | select<br>example<br>east<br>salon<br>dry<br>letter |  
+| bip_39_word_new_br7 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint |  
+| bip_39_word_new_br8 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture |  
+| bip_39_word_new_br9 | select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon |  
+| bip_39_word_new_line1 | select |  
+| bip_39_word_new_line10 | select
+example
+east
+salon
+dry
+letter
+hint
+gesture
+dragon
+peasant |  
+| bip_39_word_new_line11 | select
+example
+east
+salon
+dry
+letter
+hint
+gesture
+dragon
+peasant
+intact |  
+| bip_39_word_new_line12 | select
+example
+east
+salon
+dry
+letter
+hint
+gesture
+dragon
+peasant
+intact
+arrest |  
+| bip_39_word_new_line2 | select
+example |  
+| bip_39_word_new_line3 | select
+example
+east |  
+| bip_39_word_new_line4 | select
+example
+east
+salon |  
+| bip_39_word_new_line5 | select
+example
+east
+salon
+dry |  
+| bip_39_word_new_line6 | select
+example
+east
+salon
+dry
+letter |  
+| bip_39_word_new_line7 | select
+example
+east
+salon
+dry
+letter
+hint |  
+| bip_39_word_new_line8 | select
+example
+east
+salon
+dry
+letter
+hint
+gesture |  
+| bip_39_word_new_line9 | select
+example
+east
+salon
+dry
+letter
+hint
+gesture
+dragon |  
+| bip_39_word_space_0 | ['select', 'example', 'east', 'salon', 'dry', 'letter', 'hint', 'gesture', 'dragon', 'peasant', 'intact', 'arrest'] |  
+| bip_39_word_space_1 | select |  
+| bip_39_word_space_10 | select example east salon dry letter hint gesture dragon peasant |  
+| bip_39_word_space_11 | select example east salon dry letter hint gesture dragon peasant intact |  
+| bip_39_word_space_12 | select example east salon dry letter hint gesture dragon peasant intact arrest |  
+| bip_39_word_space_2 | select example |  
+| bip_39_word_space_3 | select example east |  
+| bip_39_word_space_4 | select example east salon |  
+| bip_39_word_space_5 | select example east salon dry |  
+| bip_39_word_space_6 | select example east salon dry letter |  
+| bip_39_word_space_7 | select example east salon dry letter hint |  
+| bip_39_word_space_8 | select example east salon dry letter hint gesture |  
+| bip_39_word_space_9 | select example east salon dry letter hint gesture dragon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

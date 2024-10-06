@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: obvious lake
+  * bip 39 word 3: obvious lake fuel
+  * bip 39 word: obvious lake fuel media column oven logic enter render say purchase adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | obvious |  
+| bip_39_word_new_br10 | obvious<br>lake<br>fuel<br>media<br>column<br>oven<br>logic<br>enter<br>render<br>say |  
+| bip_39_word_new_br11 | obvious<br>lake<br>fuel<br>media<br>column<br>oven<br>logic<br>enter<br>render<br>say<br>purchase |  
+| bip_39_word_new_br12 | obvious<br>lake<br>fuel<br>media<br>column<br>oven<br>logic<br>enter<br>render<br>say<br>purchase<br>adjust |  
+| bip_39_word_new_br2 | obvious<br>lake |  
+| bip_39_word_new_br3 | obvious<br>lake<br>fuel |  
+| bip_39_word_new_br4 | obvious<br>lake<br>fuel<br>media |  
+| bip_39_word_new_br5 | obvious<br>lake<br>fuel<br>media<br>column |  
+| bip_39_word_new_br6 | obvious<br>lake<br>fuel<br>media<br>column<br>oven |  
+| bip_39_word_new_br7 | obvious<br>lake<br>fuel<br>media<br>column<br>oven<br>logic |  
+| bip_39_word_new_br8 | obvious<br>lake<br>fuel<br>media<br>column<br>oven<br>logic<br>enter |  
+| bip_39_word_new_br9 | obvious<br>lake<br>fuel<br>media<br>column<br>oven<br>logic<br>enter<br>render |  
+| bip_39_word_new_line1 | obvious |  
+| bip_39_word_new_line10 | obvious
+lake
+fuel
+media
+column
+oven
+logic
+enter
+render
+say |  
+| bip_39_word_new_line11 | obvious
+lake
+fuel
+media
+column
+oven
+logic
+enter
+render
+say
+purchase |  
+| bip_39_word_new_line12 | obvious
+lake
+fuel
+media
+column
+oven
+logic
+enter
+render
+say
+purchase
+adjust |  
+| bip_39_word_new_line2 | obvious
+lake |  
+| bip_39_word_new_line3 | obvious
+lake
+fuel |  
+| bip_39_word_new_line4 | obvious
+lake
+fuel
+media |  
+| bip_39_word_new_line5 | obvious
+lake
+fuel
+media
+column |  
+| bip_39_word_new_line6 | obvious
+lake
+fuel
+media
+column
+oven |  
+| bip_39_word_new_line7 | obvious
+lake
+fuel
+media
+column
+oven
+logic |  
+| bip_39_word_new_line8 | obvious
+lake
+fuel
+media
+column
+oven
+logic
+enter |  
+| bip_39_word_new_line9 | obvious
+lake
+fuel
+media
+column
+oven
+logic
+enter
+render |  
+| bip_39_word_space_0 | ['obvious', 'lake', 'fuel', 'media', 'column', 'oven', 'logic', 'enter', 'render', 'say', 'purchase', 'adjust'] |  
+| bip_39_word_space_1 | obvious |  
+| bip_39_word_space_10 | obvious lake fuel media column oven logic enter render say |  
+| bip_39_word_space_11 | obvious lake fuel media column oven logic enter render say purchase |  
+| bip_39_word_space_12 | obvious lake fuel media column oven logic enter render say purchase adjust |  
+| bip_39_word_space_2 | obvious lake |  
+| bip_39_word_space_3 | obvious lake fuel |  
+| bip_39_word_space_4 | obvious lake fuel media |  
+| bip_39_word_space_5 | obvious lake fuel media column |  
+| bip_39_word_space_6 | obvious lake fuel media column oven |  
+| bip_39_word_space_7 | obvious lake fuel media column oven logic |  
+| bip_39_word_space_8 | obvious lake fuel media column oven logic enter |  
+| bip_39_word_space_9 | obvious lake fuel media column oven logic enter render |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

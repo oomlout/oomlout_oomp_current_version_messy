@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: twenty entry
+  * bip 39 word 3: twenty entry modify
+  * bip 39 word: twenty entry modify ice lesson jump sick hurt flip sniff easily able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | twenty |  
+| bip_39_word_new_br10 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump<br>sick<br>hurt<br>flip<br>sniff |  
+| bip_39_word_new_br11 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump<br>sick<br>hurt<br>flip<br>sniff<br>easily |  
+| bip_39_word_new_br12 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump<br>sick<br>hurt<br>flip<br>sniff<br>easily<br>able |  
+| bip_39_word_new_br2 | twenty<br>entry |  
+| bip_39_word_new_br3 | twenty<br>entry<br>modify |  
+| bip_39_word_new_br4 | twenty<br>entry<br>modify<br>ice |  
+| bip_39_word_new_br5 | twenty<br>entry<br>modify<br>ice<br>lesson |  
+| bip_39_word_new_br6 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump |  
+| bip_39_word_new_br7 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump<br>sick |  
+| bip_39_word_new_br8 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump<br>sick<br>hurt |  
+| bip_39_word_new_br9 | twenty<br>entry<br>modify<br>ice<br>lesson<br>jump<br>sick<br>hurt<br>flip |  
+| bip_39_word_new_line1 | twenty |  
+| bip_39_word_new_line10 | twenty
+entry
+modify
+ice
+lesson
+jump
+sick
+hurt
+flip
+sniff |  
+| bip_39_word_new_line11 | twenty
+entry
+modify
+ice
+lesson
+jump
+sick
+hurt
+flip
+sniff
+easily |  
+| bip_39_word_new_line12 | twenty
+entry
+modify
+ice
+lesson
+jump
+sick
+hurt
+flip
+sniff
+easily
+able |  
+| bip_39_word_new_line2 | twenty
+entry |  
+| bip_39_word_new_line3 | twenty
+entry
+modify |  
+| bip_39_word_new_line4 | twenty
+entry
+modify
+ice |  
+| bip_39_word_new_line5 | twenty
+entry
+modify
+ice
+lesson |  
+| bip_39_word_new_line6 | twenty
+entry
+modify
+ice
+lesson
+jump |  
+| bip_39_word_new_line7 | twenty
+entry
+modify
+ice
+lesson
+jump
+sick |  
+| bip_39_word_new_line8 | twenty
+entry
+modify
+ice
+lesson
+jump
+sick
+hurt |  
+| bip_39_word_new_line9 | twenty
+entry
+modify
+ice
+lesson
+jump
+sick
+hurt
+flip |  
+| bip_39_word_space_0 | ['twenty', 'entry', 'modify', 'ice', 'lesson', 'jump', 'sick', 'hurt', 'flip', 'sniff', 'easily', 'able'] |  
+| bip_39_word_space_1 | twenty |  
+| bip_39_word_space_10 | twenty entry modify ice lesson jump sick hurt flip sniff |  
+| bip_39_word_space_11 | twenty entry modify ice lesson jump sick hurt flip sniff easily |  
+| bip_39_word_space_12 | twenty entry modify ice lesson jump sick hurt flip sniff easily able |  
+| bip_39_word_space_2 | twenty entry |  
+| bip_39_word_space_3 | twenty entry modify |  
+| bip_39_word_space_4 | twenty entry modify ice |  
+| bip_39_word_space_5 | twenty entry modify ice lesson |  
+| bip_39_word_space_6 | twenty entry modify ice lesson jump |  
+| bip_39_word_space_7 | twenty entry modify ice lesson jump sick |  
+| bip_39_word_space_8 | twenty entry modify ice lesson jump sick hurt |  
+| bip_39_word_space_9 | twenty entry modify ice lesson jump sick hurt flip |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

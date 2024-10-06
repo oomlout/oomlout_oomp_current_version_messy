@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cool proud
+  * bip 39 word 3: cool proud double
+  * bip 39 word: cool proud double saddle want anchor endless debate educate fiscal grass air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cool |  
+| bip_39_word_new_br10 | cool<br>proud<br>double<br>saddle<br>want<br>anchor<br>endless<br>debate<br>educate<br>fiscal |  
+| bip_39_word_new_br11 | cool<br>proud<br>double<br>saddle<br>want<br>anchor<br>endless<br>debate<br>educate<br>fiscal<br>grass |  
+| bip_39_word_new_br12 | cool<br>proud<br>double<br>saddle<br>want<br>anchor<br>endless<br>debate<br>educate<br>fiscal<br>grass<br>air |  
+| bip_39_word_new_br2 | cool<br>proud |  
+| bip_39_word_new_br3 | cool<br>proud<br>double |  
+| bip_39_word_new_br4 | cool<br>proud<br>double<br>saddle |  
+| bip_39_word_new_br5 | cool<br>proud<br>double<br>saddle<br>want |  
+| bip_39_word_new_br6 | cool<br>proud<br>double<br>saddle<br>want<br>anchor |  
+| bip_39_word_new_br7 | cool<br>proud<br>double<br>saddle<br>want<br>anchor<br>endless |  
+| bip_39_word_new_br8 | cool<br>proud<br>double<br>saddle<br>want<br>anchor<br>endless<br>debate |  
+| bip_39_word_new_br9 | cool<br>proud<br>double<br>saddle<br>want<br>anchor<br>endless<br>debate<br>educate |  
+| bip_39_word_new_line1 | cool |  
+| bip_39_word_new_line10 | cool
+proud
+double
+saddle
+want
+anchor
+endless
+debate
+educate
+fiscal |  
+| bip_39_word_new_line11 | cool
+proud
+double
+saddle
+want
+anchor
+endless
+debate
+educate
+fiscal
+grass |  
+| bip_39_word_new_line12 | cool
+proud
+double
+saddle
+want
+anchor
+endless
+debate
+educate
+fiscal
+grass
+air |  
+| bip_39_word_new_line2 | cool
+proud |  
+| bip_39_word_new_line3 | cool
+proud
+double |  
+| bip_39_word_new_line4 | cool
+proud
+double
+saddle |  
+| bip_39_word_new_line5 | cool
+proud
+double
+saddle
+want |  
+| bip_39_word_new_line6 | cool
+proud
+double
+saddle
+want
+anchor |  
+| bip_39_word_new_line7 | cool
+proud
+double
+saddle
+want
+anchor
+endless |  
+| bip_39_word_new_line8 | cool
+proud
+double
+saddle
+want
+anchor
+endless
+debate |  
+| bip_39_word_new_line9 | cool
+proud
+double
+saddle
+want
+anchor
+endless
+debate
+educate |  
+| bip_39_word_space_0 | ['cool', 'proud', 'double', 'saddle', 'want', 'anchor', 'endless', 'debate', 'educate', 'fiscal', 'grass', 'air'] |  
+| bip_39_word_space_1 | cool |  
+| bip_39_word_space_10 | cool proud double saddle want anchor endless debate educate fiscal |  
+| bip_39_word_space_11 | cool proud double saddle want anchor endless debate educate fiscal grass |  
+| bip_39_word_space_12 | cool proud double saddle want anchor endless debate educate fiscal grass air |  
+| bip_39_word_space_2 | cool proud |  
+| bip_39_word_space_3 | cool proud double |  
+| bip_39_word_space_4 | cool proud double saddle |  
+| bip_39_word_space_5 | cool proud double saddle want |  
+| bip_39_word_space_6 | cool proud double saddle want anchor |  
+| bip_39_word_space_7 | cool proud double saddle want anchor endless |  
+| bip_39_word_space_8 | cool proud double saddle want anchor endless debate |  
+| bip_39_word_space_9 | cool proud double saddle want anchor endless debate educate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

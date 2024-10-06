@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: battle door
+  * bip 39 word 3: battle door afraid
+  * bip 39 word: battle door afraid success film aisle patch toe couple coyote canvas alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | battle |  
+| bip_39_word_new_br10 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote |  
+| bip_39_word_new_br11 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas |  
+| bip_39_word_new_br12 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas<br>alpha |  
+| bip_39_word_new_br2 | battle<br>door |  
+| bip_39_word_new_br3 | battle<br>door<br>afraid |  
+| bip_39_word_new_br4 | battle<br>door<br>afraid<br>success |  
+| bip_39_word_new_br5 | battle<br>door<br>afraid<br>success<br>film |  
+| bip_39_word_new_br6 | battle<br>door<br>afraid<br>success<br>film<br>aisle |  
+| bip_39_word_new_br7 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch |  
+| bip_39_word_new_br8 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe |  
+| bip_39_word_new_br9 | battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple |  
+| bip_39_word_new_line1 | battle |  
+| bip_39_word_new_line10 | battle
+door
+afraid
+success
+film
+aisle
+patch
+toe
+couple
+coyote |  
+| bip_39_word_new_line11 | battle
+door
+afraid
+success
+film
+aisle
+patch
+toe
+couple
+coyote
+canvas |  
+| bip_39_word_new_line12 | battle
+door
+afraid
+success
+film
+aisle
+patch
+toe
+couple
+coyote
+canvas
+alpha |  
+| bip_39_word_new_line2 | battle
+door |  
+| bip_39_word_new_line3 | battle
+door
+afraid |  
+| bip_39_word_new_line4 | battle
+door
+afraid
+success |  
+| bip_39_word_new_line5 | battle
+door
+afraid
+success
+film |  
+| bip_39_word_new_line6 | battle
+door
+afraid
+success
+film
+aisle |  
+| bip_39_word_new_line7 | battle
+door
+afraid
+success
+film
+aisle
+patch |  
+| bip_39_word_new_line8 | battle
+door
+afraid
+success
+film
+aisle
+patch
+toe |  
+| bip_39_word_new_line9 | battle
+door
+afraid
+success
+film
+aisle
+patch
+toe
+couple |  
+| bip_39_word_space_0 | ['battle', 'door', 'afraid', 'success', 'film', 'aisle', 'patch', 'toe', 'couple', 'coyote', 'canvas', 'alpha'] |  
+| bip_39_word_space_1 | battle |  
+| bip_39_word_space_10 | battle door afraid success film aisle patch toe couple coyote |  
+| bip_39_word_space_11 | battle door afraid success film aisle patch toe couple coyote canvas |  
+| bip_39_word_space_12 | battle door afraid success film aisle patch toe couple coyote canvas alpha |  
+| bip_39_word_space_2 | battle door |  
+| bip_39_word_space_3 | battle door afraid |  
+| bip_39_word_space_4 | battle door afraid success |  
+| bip_39_word_space_5 | battle door afraid success film |  
+| bip_39_word_space_6 | battle door afraid success film aisle |  
+| bip_39_word_space_7 | battle door afraid success film aisle patch |  
+| bip_39_word_space_8 | battle door afraid success film aisle patch toe |  
+| bip_39_word_space_9 | battle door afraid success film aisle patch toe couple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

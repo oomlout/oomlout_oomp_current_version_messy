@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: leaf shallow
+  * bip 39 word 3: leaf shallow biology
+  * bip 39 word: leaf shallow biology muffin version horror actress hamster wait lizard spike auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | leaf |  
+| bip_39_word_new_br10 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror<br>actress<br>hamster<br>wait<br>lizard |  
+| bip_39_word_new_br11 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror<br>actress<br>hamster<br>wait<br>lizard<br>spike |  
+| bip_39_word_new_br12 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror<br>actress<br>hamster<br>wait<br>lizard<br>spike<br>auction |  
+| bip_39_word_new_br2 | leaf<br>shallow |  
+| bip_39_word_new_br3 | leaf<br>shallow<br>biology |  
+| bip_39_word_new_br4 | leaf<br>shallow<br>biology<br>muffin |  
+| bip_39_word_new_br5 | leaf<br>shallow<br>biology<br>muffin<br>version |  
+| bip_39_word_new_br6 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror |  
+| bip_39_word_new_br7 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror<br>actress |  
+| bip_39_word_new_br8 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror<br>actress<br>hamster |  
+| bip_39_word_new_br9 | leaf<br>shallow<br>biology<br>muffin<br>version<br>horror<br>actress<br>hamster<br>wait |  
+| bip_39_word_new_line1 | leaf |  
+| bip_39_word_new_line10 | leaf
+shallow
+biology
+muffin
+version
+horror
+actress
+hamster
+wait
+lizard |  
+| bip_39_word_new_line11 | leaf
+shallow
+biology
+muffin
+version
+horror
+actress
+hamster
+wait
+lizard
+spike |  
+| bip_39_word_new_line12 | leaf
+shallow
+biology
+muffin
+version
+horror
+actress
+hamster
+wait
+lizard
+spike
+auction |  
+| bip_39_word_new_line2 | leaf
+shallow |  
+| bip_39_word_new_line3 | leaf
+shallow
+biology |  
+| bip_39_word_new_line4 | leaf
+shallow
+biology
+muffin |  
+| bip_39_word_new_line5 | leaf
+shallow
+biology
+muffin
+version |  
+| bip_39_word_new_line6 | leaf
+shallow
+biology
+muffin
+version
+horror |  
+| bip_39_word_new_line7 | leaf
+shallow
+biology
+muffin
+version
+horror
+actress |  
+| bip_39_word_new_line8 | leaf
+shallow
+biology
+muffin
+version
+horror
+actress
+hamster |  
+| bip_39_word_new_line9 | leaf
+shallow
+biology
+muffin
+version
+horror
+actress
+hamster
+wait |  
+| bip_39_word_space_0 | ['leaf', 'shallow', 'biology', 'muffin', 'version', 'horror', 'actress', 'hamster', 'wait', 'lizard', 'spike', 'auction'] |  
+| bip_39_word_space_1 | leaf |  
+| bip_39_word_space_10 | leaf shallow biology muffin version horror actress hamster wait lizard |  
+| bip_39_word_space_11 | leaf shallow biology muffin version horror actress hamster wait lizard spike |  
+| bip_39_word_space_12 | leaf shallow biology muffin version horror actress hamster wait lizard spike auction |  
+| bip_39_word_space_2 | leaf shallow |  
+| bip_39_word_space_3 | leaf shallow biology |  
+| bip_39_word_space_4 | leaf shallow biology muffin |  
+| bip_39_word_space_5 | leaf shallow biology muffin version |  
+| bip_39_word_space_6 | leaf shallow biology muffin version horror |  
+| bip_39_word_space_7 | leaf shallow biology muffin version horror actress |  
+| bip_39_word_space_8 | leaf shallow biology muffin version horror actress hamster |  
+| bip_39_word_space_9 | leaf shallow biology muffin version horror actress hamster wait |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

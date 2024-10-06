@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slab save
+  * bip 39 word 3: slab save still
+  * bip 39 word: slab save still swamp blast tourist cattle abandon side garlic eye access
 
 ### other_codes
 * short_code: br6010
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slab |  
+| bip_39_word_new_br10 | slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon<br>side<br>garlic |  
+| bip_39_word_new_br11 | slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon<br>side<br>garlic<br>eye |  
+| bip_39_word_new_br12 | slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon<br>side<br>garlic<br>eye<br>access |  
+| bip_39_word_new_br2 | slab<br>save |  
+| bip_39_word_new_br3 | slab<br>save<br>still |  
+| bip_39_word_new_br4 | slab<br>save<br>still<br>swamp |  
+| bip_39_word_new_br5 | slab<br>save<br>still<br>swamp<br>blast |  
+| bip_39_word_new_br6 | slab<br>save<br>still<br>swamp<br>blast<br>tourist |  
+| bip_39_word_new_br7 | slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle |  
+| bip_39_word_new_br8 | slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon |  
+| bip_39_word_new_br9 | slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon<br>side |  
+| bip_39_word_new_line1 | slab |  
+| bip_39_word_new_line10 | slab
+save
+still
+swamp
+blast
+tourist
+cattle
+abandon
+side
+garlic |  
+| bip_39_word_new_line11 | slab
+save
+still
+swamp
+blast
+tourist
+cattle
+abandon
+side
+garlic
+eye |  
+| bip_39_word_new_line12 | slab
+save
+still
+swamp
+blast
+tourist
+cattle
+abandon
+side
+garlic
+eye
+access |  
+| bip_39_word_new_line2 | slab
+save |  
+| bip_39_word_new_line3 | slab
+save
+still |  
+| bip_39_word_new_line4 | slab
+save
+still
+swamp |  
+| bip_39_word_new_line5 | slab
+save
+still
+swamp
+blast |  
+| bip_39_word_new_line6 | slab
+save
+still
+swamp
+blast
+tourist |  
+| bip_39_word_new_line7 | slab
+save
+still
+swamp
+blast
+tourist
+cattle |  
+| bip_39_word_new_line8 | slab
+save
+still
+swamp
+blast
+tourist
+cattle
+abandon |  
+| bip_39_word_new_line9 | slab
+save
+still
+swamp
+blast
+tourist
+cattle
+abandon
+side |  
+| bip_39_word_space_0 | ['slab', 'save', 'still', 'swamp', 'blast', 'tourist', 'cattle', 'abandon', 'side', 'garlic', 'eye', 'access'] |  
+| bip_39_word_space_1 | slab |  
+| bip_39_word_space_10 | slab save still swamp blast tourist cattle abandon side garlic |  
+| bip_39_word_space_11 | slab save still swamp blast tourist cattle abandon side garlic eye |  
+| bip_39_word_space_12 | slab save still swamp blast tourist cattle abandon side garlic eye access |  
+| bip_39_word_space_2 | slab save |  
+| bip_39_word_space_3 | slab save still |  
+| bip_39_word_space_4 | slab save still swamp |  
+| bip_39_word_space_5 | slab save still swamp blast |  
+| bip_39_word_space_6 | slab save still swamp blast tourist |  
+| bip_39_word_space_7 | slab save still swamp blast tourist cattle |  
+| bip_39_word_space_8 | slab save still swamp blast tourist cattle abandon |  
+| bip_39_word_space_9 | slab save still swamp blast tourist cattle abandon side |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

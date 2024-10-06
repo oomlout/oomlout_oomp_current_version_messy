@@ -1,3 +1,186 @@
+bip_39_word_new_br1: barely
+bip_39_word_new_br10: barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best
+bip_39_word_new_br11: barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best<br>deputy
+bip_39_word_new_br12: barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any<br>best<br>deputy<br>account
+bip_39_word_new_br2: barely<br>supreme
+bip_39_word_new_br3: barely<br>supreme<br>sign
+bip_39_word_new_br4: barely<br>supreme<br>sign<br>analyst
+bip_39_word_new_br5: barely<br>supreme<br>sign<br>analyst<br>adapt
+bip_39_word_new_br6: barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature
+bip_39_word_new_br7: barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause
+bip_39_word_new_br8: barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail
+bip_39_word_new_br9: barely<br>supreme<br>sign<br>analyst<br>adapt<br>nature<br>cause<br>mail<br>any
+bip_39_word_new_line1: barely
+bip_39_word_new_line10: 'barely
+
+  supreme
+
+  sign
+
+  analyst
+
+  adapt
+
+  nature
+
+  cause
+
+  mail
+
+  any
+
+  best'
+bip_39_word_new_line11: 'barely
+
+  supreme
+
+  sign
+
+  analyst
+
+  adapt
+
+  nature
+
+  cause
+
+  mail
+
+  any
+
+  best
+
+  deputy'
+bip_39_word_new_line12: 'barely
+
+  supreme
+
+  sign
+
+  analyst
+
+  adapt
+
+  nature
+
+  cause
+
+  mail
+
+  any
+
+  best
+
+  deputy
+
+  account'
+bip_39_word_new_line2: 'barely
+
+  supreme'
+bip_39_word_new_line3: 'barely
+
+  supreme
+
+  sign'
+bip_39_word_new_line4: 'barely
+
+  supreme
+
+  sign
+
+  analyst'
+bip_39_word_new_line5: 'barely
+
+  supreme
+
+  sign
+
+  analyst
+
+  adapt'
+bip_39_word_new_line6: 'barely
+
+  supreme
+
+  sign
+
+  analyst
+
+  adapt
+
+  nature'
+bip_39_word_new_line7: 'barely
+
+  supreme
+
+  sign
+
+  analyst
+
+  adapt
+
+  nature
+
+  cause'
+bip_39_word_new_line8: 'barely
+
+  supreme
+
+  sign
+
+  analyst
+
+  adapt
+
+  nature
+
+  cause
+
+  mail'
+bip_39_word_new_line9: 'barely
+
+  supreme
+
+  sign
+
+  analyst
+
+  adapt
+
+  nature
+
+  cause
+
+  mail
+
+  any'
+bip_39_word_space_0:
+- barely
+- supreme
+- sign
+- analyst
+- adapt
+- nature
+- cause
+- mail
+- any
+- best
+- deputy
+- account
+bip_39_word_space_1: barely
+bip_39_word_space_10: barely supreme sign analyst adapt nature cause mail any best
+bip_39_word_space_11: barely supreme sign analyst adapt nature cause mail any best
+  deputy
+bip_39_word_space_12: barely supreme sign analyst adapt nature cause mail any best
+  deputy account
+bip_39_word_space_2: barely supreme
+bip_39_word_space_3: barely supreme sign
+bip_39_word_space_4: barely supreme sign analyst
+bip_39_word_space_5: barely supreme sign analyst adapt
+bip_39_word_space_6: barely supreme sign analyst adapt nature
+bip_39_word_space_7: barely supreme sign analyst adapt nature cause
+bip_39_word_space_8: barely supreme sign analyst adapt nature cause mail
+bip_39_word_space_9: barely supreme sign analyst adapt nature cause mail any
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

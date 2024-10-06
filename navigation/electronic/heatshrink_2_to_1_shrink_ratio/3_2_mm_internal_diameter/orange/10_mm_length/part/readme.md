@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soda pool
+  * bip 39 word 3: soda pool never
+  * bip 39 word: soda pool never dune brisk fruit hamster pony reward reflect maple advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soda |  
+| bip_39_word_new_br10 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit<br>hamster<br>pony<br>reward<br>reflect |  
+| bip_39_word_new_br11 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit<br>hamster<br>pony<br>reward<br>reflect<br>maple |  
+| bip_39_word_new_br12 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit<br>hamster<br>pony<br>reward<br>reflect<br>maple<br>advice |  
+| bip_39_word_new_br2 | soda<br>pool |  
+| bip_39_word_new_br3 | soda<br>pool<br>never |  
+| bip_39_word_new_br4 | soda<br>pool<br>never<br>dune |  
+| bip_39_word_new_br5 | soda<br>pool<br>never<br>dune<br>brisk |  
+| bip_39_word_new_br6 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit |  
+| bip_39_word_new_br7 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit<br>hamster |  
+| bip_39_word_new_br8 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit<br>hamster<br>pony |  
+| bip_39_word_new_br9 | soda<br>pool<br>never<br>dune<br>brisk<br>fruit<br>hamster<br>pony<br>reward |  
+| bip_39_word_new_line1 | soda |  
+| bip_39_word_new_line10 | soda
+pool
+never
+dune
+brisk
+fruit
+hamster
+pony
+reward
+reflect |  
+| bip_39_word_new_line11 | soda
+pool
+never
+dune
+brisk
+fruit
+hamster
+pony
+reward
+reflect
+maple |  
+| bip_39_word_new_line12 | soda
+pool
+never
+dune
+brisk
+fruit
+hamster
+pony
+reward
+reflect
+maple
+advice |  
+| bip_39_word_new_line2 | soda
+pool |  
+| bip_39_word_new_line3 | soda
+pool
+never |  
+| bip_39_word_new_line4 | soda
+pool
+never
+dune |  
+| bip_39_word_new_line5 | soda
+pool
+never
+dune
+brisk |  
+| bip_39_word_new_line6 | soda
+pool
+never
+dune
+brisk
+fruit |  
+| bip_39_word_new_line7 | soda
+pool
+never
+dune
+brisk
+fruit
+hamster |  
+| bip_39_word_new_line8 | soda
+pool
+never
+dune
+brisk
+fruit
+hamster
+pony |  
+| bip_39_word_new_line9 | soda
+pool
+never
+dune
+brisk
+fruit
+hamster
+pony
+reward |  
+| bip_39_word_space_0 | ['soda', 'pool', 'never', 'dune', 'brisk', 'fruit', 'hamster', 'pony', 'reward', 'reflect', 'maple', 'advice'] |  
+| bip_39_word_space_1 | soda |  
+| bip_39_word_space_10 | soda pool never dune brisk fruit hamster pony reward reflect |  
+| bip_39_word_space_11 | soda pool never dune brisk fruit hamster pony reward reflect maple |  
+| bip_39_word_space_12 | soda pool never dune brisk fruit hamster pony reward reflect maple advice |  
+| bip_39_word_space_2 | soda pool |  
+| bip_39_word_space_3 | soda pool never |  
+| bip_39_word_space_4 | soda pool never dune |  
+| bip_39_word_space_5 | soda pool never dune brisk |  
+| bip_39_word_space_6 | soda pool never dune brisk fruit |  
+| bip_39_word_space_7 | soda pool never dune brisk fruit hamster |  
+| bip_39_word_space_8 | soda pool never dune brisk fruit hamster pony |  
+| bip_39_word_space_9 | soda pool never dune brisk fruit hamster pony reward |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: stick
+bip_39_word_new_br10: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave<br>token
+bip_39_word_new_br11: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave<br>token<br>corn
+bip_39_word_new_br12: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave<br>token<br>corn<br>athlete
+bip_39_word_new_br2: stick<br>canvas
+bip_39_word_new_br3: stick<br>canvas<br>lyrics
+bip_39_word_new_br4: stick<br>canvas<br>lyrics<br>dumb
+bip_39_word_new_br5: stick<br>canvas<br>lyrics<br>dumb<br>unveil
+bip_39_word_new_br6: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon
+bip_39_word_new_br7: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad
+bip_39_word_new_br8: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open
+bip_39_word_new_br9: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave
+bip_39_word_new_line1: stick
+bip_39_word_new_line10: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open
+
+  brave
+
+  token'
+bip_39_word_new_line11: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open
+
+  brave
+
+  token
+
+  corn'
+bip_39_word_new_line12: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open
+
+  brave
+
+  token
+
+  corn
+
+  athlete'
+bip_39_word_new_line2: 'stick
+
+  canvas'
+bip_39_word_new_line3: 'stick
+
+  canvas
+
+  lyrics'
+bip_39_word_new_line4: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb'
+bip_39_word_new_line5: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil'
+bip_39_word_new_line6: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon'
+bip_39_word_new_line7: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad'
+bip_39_word_new_line8: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open'
+bip_39_word_new_line9: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open
+
+  brave'
+bip_39_word_space_0:
+- stick
+- canvas
+- lyrics
+- dumb
+- unveil
+- lemon
+- salad
+- open
+- brave
+- token
+- corn
+- athlete
+bip_39_word_space_1: stick
+bip_39_word_space_10: stick canvas lyrics dumb unveil lemon salad open brave token
+bip_39_word_space_11: stick canvas lyrics dumb unveil lemon salad open brave token
+  corn
+bip_39_word_space_12: stick canvas lyrics dumb unveil lemon salad open brave token
+  corn athlete
+bip_39_word_space_2: stick canvas
+bip_39_word_space_3: stick canvas lyrics
+bip_39_word_space_4: stick canvas lyrics dumb
+bip_39_word_space_5: stick canvas lyrics dumb unveil
+bip_39_word_space_6: stick canvas lyrics dumb unveil lemon
+bip_39_word_space_7: stick canvas lyrics dumb unveil lemon salad
+bip_39_word_space_8: stick canvas lyrics dumb unveil lemon salad open
+bip_39_word_space_9: stick canvas lyrics dumb unveil lemon salad open brave
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

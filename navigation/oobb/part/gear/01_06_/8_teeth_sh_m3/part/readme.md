@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 8_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flower poet
+  * bip 39 word 3: flower poet claw
+  * bip 39 word: flower poet claw afraid front ancient height virtual ignore six flavor able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flower |  
+| bip_39_word_new_br10 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient<br>height<br>virtual<br>ignore<br>six |  
+| bip_39_word_new_br11 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient<br>height<br>virtual<br>ignore<br>six<br>flavor |  
+| bip_39_word_new_br12 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient<br>height<br>virtual<br>ignore<br>six<br>flavor<br>able |  
+| bip_39_word_new_br2 | flower<br>poet |  
+| bip_39_word_new_br3 | flower<br>poet<br>claw |  
+| bip_39_word_new_br4 | flower<br>poet<br>claw<br>afraid |  
+| bip_39_word_new_br5 | flower<br>poet<br>claw<br>afraid<br>front |  
+| bip_39_word_new_br6 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient |  
+| bip_39_word_new_br7 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient<br>height |  
+| bip_39_word_new_br8 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient<br>height<br>virtual |  
+| bip_39_word_new_br9 | flower<br>poet<br>claw<br>afraid<br>front<br>ancient<br>height<br>virtual<br>ignore |  
+| bip_39_word_new_line1 | flower |  
+| bip_39_word_new_line10 | flower
+poet
+claw
+afraid
+front
+ancient
+height
+virtual
+ignore
+six |  
+| bip_39_word_new_line11 | flower
+poet
+claw
+afraid
+front
+ancient
+height
+virtual
+ignore
+six
+flavor |  
+| bip_39_word_new_line12 | flower
+poet
+claw
+afraid
+front
+ancient
+height
+virtual
+ignore
+six
+flavor
+able |  
+| bip_39_word_new_line2 | flower
+poet |  
+| bip_39_word_new_line3 | flower
+poet
+claw |  
+| bip_39_word_new_line4 | flower
+poet
+claw
+afraid |  
+| bip_39_word_new_line5 | flower
+poet
+claw
+afraid
+front |  
+| bip_39_word_new_line6 | flower
+poet
+claw
+afraid
+front
+ancient |  
+| bip_39_word_new_line7 | flower
+poet
+claw
+afraid
+front
+ancient
+height |  
+| bip_39_word_new_line8 | flower
+poet
+claw
+afraid
+front
+ancient
+height
+virtual |  
+| bip_39_word_new_line9 | flower
+poet
+claw
+afraid
+front
+ancient
+height
+virtual
+ignore |  
+| bip_39_word_space_0 | ['flower', 'poet', 'claw', 'afraid', 'front', 'ancient', 'height', 'virtual', 'ignore', 'six', 'flavor', 'able'] |  
+| bip_39_word_space_1 | flower |  
+| bip_39_word_space_10 | flower poet claw afraid front ancient height virtual ignore six |  
+| bip_39_word_space_11 | flower poet claw afraid front ancient height virtual ignore six flavor |  
+| bip_39_word_space_12 | flower poet claw afraid front ancient height virtual ignore six flavor able |  
+| bip_39_word_space_2 | flower poet |  
+| bip_39_word_space_3 | flower poet claw |  
+| bip_39_word_space_4 | flower poet claw afraid |  
+| bip_39_word_space_5 | flower poet claw afraid front |  
+| bip_39_word_space_6 | flower poet claw afraid front ancient |  
+| bip_39_word_space_7 | flower poet claw afraid front ancient height |  
+| bip_39_word_space_8 | flower poet claw afraid front ancient height virtual |  
+| bip_39_word_space_9 | flower poet claw afraid front ancient height virtual ignore |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

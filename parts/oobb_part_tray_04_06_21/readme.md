@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: edit tone
+  * bip 39 word 3: edit tone gap
+  * bip 39 word: edit tone gap fog initial fiction cable blind rough bike inner armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | edit |  
+| bip_39_word_new_br10 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike |  
+| bip_39_word_new_br11 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike<br>inner |  
+| bip_39_word_new_br12 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough<br>bike<br>inner<br>armor |  
+| bip_39_word_new_br2 | edit<br>tone |  
+| bip_39_word_new_br3 | edit<br>tone<br>gap |  
+| bip_39_word_new_br4 | edit<br>tone<br>gap<br>fog |  
+| bip_39_word_new_br5 | edit<br>tone<br>gap<br>fog<br>initial |  
+| bip_39_word_new_br6 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction |  
+| bip_39_word_new_br7 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable |  
+| bip_39_word_new_br8 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind |  
+| bip_39_word_new_br9 | edit<br>tone<br>gap<br>fog<br>initial<br>fiction<br>cable<br>blind<br>rough |  
+| bip_39_word_new_line1 | edit |  
+| bip_39_word_new_line10 | edit
+tone
+gap
+fog
+initial
+fiction
+cable
+blind
+rough
+bike |  
+| bip_39_word_new_line11 | edit
+tone
+gap
+fog
+initial
+fiction
+cable
+blind
+rough
+bike
+inner |  
+| bip_39_word_new_line12 | edit
+tone
+gap
+fog
+initial
+fiction
+cable
+blind
+rough
+bike
+inner
+armor |  
+| bip_39_word_new_line2 | edit
+tone |  
+| bip_39_word_new_line3 | edit
+tone
+gap |  
+| bip_39_word_new_line4 | edit
+tone
+gap
+fog |  
+| bip_39_word_new_line5 | edit
+tone
+gap
+fog
+initial |  
+| bip_39_word_new_line6 | edit
+tone
+gap
+fog
+initial
+fiction |  
+| bip_39_word_new_line7 | edit
+tone
+gap
+fog
+initial
+fiction
+cable |  
+| bip_39_word_new_line8 | edit
+tone
+gap
+fog
+initial
+fiction
+cable
+blind |  
+| bip_39_word_new_line9 | edit
+tone
+gap
+fog
+initial
+fiction
+cable
+blind
+rough |  
+| bip_39_word_space_0 | ['edit', 'tone', 'gap', 'fog', 'initial', 'fiction', 'cable', 'blind', 'rough', 'bike', 'inner', 'armor'] |  
+| bip_39_word_space_1 | edit |  
+| bip_39_word_space_10 | edit tone gap fog initial fiction cable blind rough bike |  
+| bip_39_word_space_11 | edit tone gap fog initial fiction cable blind rough bike inner |  
+| bip_39_word_space_12 | edit tone gap fog initial fiction cable blind rough bike inner armor |  
+| bip_39_word_space_2 | edit tone |  
+| bip_39_word_space_3 | edit tone gap |  
+| bip_39_word_space_4 | edit tone gap fog |  
+| bip_39_word_space_5 | edit tone gap fog initial |  
+| bip_39_word_space_6 | edit tone gap fog initial fiction |  
+| bip_39_word_space_7 | edit tone gap fog initial fiction cable |  
+| bip_39_word_space_8 | edit tone gap fog initial fiction cable blind |  
+| bip_39_word_space_9 | edit tone gap fog initial fiction cable blind rough |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

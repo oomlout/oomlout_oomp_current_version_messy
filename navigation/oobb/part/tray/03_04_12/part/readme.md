@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: setup symbol
+  * bip 39 word 3: setup symbol reflect
+  * bip 39 word: setup symbol reflect impose gap rookie goddess logic head shed north aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | setup |  
+| bip_39_word_new_br10 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head<br>shed |  
+| bip_39_word_new_br11 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head<br>shed<br>north |  
+| bip_39_word_new_br12 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head<br>shed<br>north<br>aspect |  
+| bip_39_word_new_br2 | setup<br>symbol |  
+| bip_39_word_new_br3 | setup<br>symbol<br>reflect |  
+| bip_39_word_new_br4 | setup<br>symbol<br>reflect<br>impose |  
+| bip_39_word_new_br5 | setup<br>symbol<br>reflect<br>impose<br>gap |  
+| bip_39_word_new_br6 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie |  
+| bip_39_word_new_br7 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess |  
+| bip_39_word_new_br8 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic |  
+| bip_39_word_new_br9 | setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head |  
+| bip_39_word_new_line1 | setup |  
+| bip_39_word_new_line10 | setup
+symbol
+reflect
+impose
+gap
+rookie
+goddess
+logic
+head
+shed |  
+| bip_39_word_new_line11 | setup
+symbol
+reflect
+impose
+gap
+rookie
+goddess
+logic
+head
+shed
+north |  
+| bip_39_word_new_line12 | setup
+symbol
+reflect
+impose
+gap
+rookie
+goddess
+logic
+head
+shed
+north
+aspect |  
+| bip_39_word_new_line2 | setup
+symbol |  
+| bip_39_word_new_line3 | setup
+symbol
+reflect |  
+| bip_39_word_new_line4 | setup
+symbol
+reflect
+impose |  
+| bip_39_word_new_line5 | setup
+symbol
+reflect
+impose
+gap |  
+| bip_39_word_new_line6 | setup
+symbol
+reflect
+impose
+gap
+rookie |  
+| bip_39_word_new_line7 | setup
+symbol
+reflect
+impose
+gap
+rookie
+goddess |  
+| bip_39_word_new_line8 | setup
+symbol
+reflect
+impose
+gap
+rookie
+goddess
+logic |  
+| bip_39_word_new_line9 | setup
+symbol
+reflect
+impose
+gap
+rookie
+goddess
+logic
+head |  
+| bip_39_word_space_0 | ['setup', 'symbol', 'reflect', 'impose', 'gap', 'rookie', 'goddess', 'logic', 'head', 'shed', 'north', 'aspect'] |  
+| bip_39_word_space_1 | setup |  
+| bip_39_word_space_10 | setup symbol reflect impose gap rookie goddess logic head shed |  
+| bip_39_word_space_11 | setup symbol reflect impose gap rookie goddess logic head shed north |  
+| bip_39_word_space_12 | setup symbol reflect impose gap rookie goddess logic head shed north aspect |  
+| bip_39_word_space_2 | setup symbol |  
+| bip_39_word_space_3 | setup symbol reflect |  
+| bip_39_word_space_4 | setup symbol reflect impose |  
+| bip_39_word_space_5 | setup symbol reflect impose gap |  
+| bip_39_word_space_6 | setup symbol reflect impose gap rookie |  
+| bip_39_word_space_7 | setup symbol reflect impose gap rookie goddess |  
+| bip_39_word_space_8 | setup symbol reflect impose gap rookie goddess logic |  
+| bip_39_word_space_9 | setup symbol reflect impose gap rookie goddess logic head |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

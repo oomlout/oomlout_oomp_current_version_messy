@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bonus warfare
+  * bip 39 word 3: bonus warfare erosion
+  * bip 39 word: bonus warfare erosion charge blush nurse equal limb hill protect odor arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bonus |  
+| bip_39_word_new_br10 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill<br>protect |  
+| bip_39_word_new_br11 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill<br>protect<br>odor |  
+| bip_39_word_new_br12 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill<br>protect<br>odor<br>arctic |  
+| bip_39_word_new_br2 | bonus<br>warfare |  
+| bip_39_word_new_br3 | bonus<br>warfare<br>erosion |  
+| bip_39_word_new_br4 | bonus<br>warfare<br>erosion<br>charge |  
+| bip_39_word_new_br5 | bonus<br>warfare<br>erosion<br>charge<br>blush |  
+| bip_39_word_new_br6 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse |  
+| bip_39_word_new_br7 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal |  
+| bip_39_word_new_br8 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb |  
+| bip_39_word_new_br9 | bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill |  
+| bip_39_word_new_line1 | bonus |  
+| bip_39_word_new_line10 | bonus
+warfare
+erosion
+charge
+blush
+nurse
+equal
+limb
+hill
+protect |  
+| bip_39_word_new_line11 | bonus
+warfare
+erosion
+charge
+blush
+nurse
+equal
+limb
+hill
+protect
+odor |  
+| bip_39_word_new_line12 | bonus
+warfare
+erosion
+charge
+blush
+nurse
+equal
+limb
+hill
+protect
+odor
+arctic |  
+| bip_39_word_new_line2 | bonus
+warfare |  
+| bip_39_word_new_line3 | bonus
+warfare
+erosion |  
+| bip_39_word_new_line4 | bonus
+warfare
+erosion
+charge |  
+| bip_39_word_new_line5 | bonus
+warfare
+erosion
+charge
+blush |  
+| bip_39_word_new_line6 | bonus
+warfare
+erosion
+charge
+blush
+nurse |  
+| bip_39_word_new_line7 | bonus
+warfare
+erosion
+charge
+blush
+nurse
+equal |  
+| bip_39_word_new_line8 | bonus
+warfare
+erosion
+charge
+blush
+nurse
+equal
+limb |  
+| bip_39_word_new_line9 | bonus
+warfare
+erosion
+charge
+blush
+nurse
+equal
+limb
+hill |  
+| bip_39_word_space_0 | ['bonus', 'warfare', 'erosion', 'charge', 'blush', 'nurse', 'equal', 'limb', 'hill', 'protect', 'odor', 'arctic'] |  
+| bip_39_word_space_1 | bonus |  
+| bip_39_word_space_10 | bonus warfare erosion charge blush nurse equal limb hill protect |  
+| bip_39_word_space_11 | bonus warfare erosion charge blush nurse equal limb hill protect odor |  
+| bip_39_word_space_12 | bonus warfare erosion charge blush nurse equal limb hill protect odor arctic |  
+| bip_39_word_space_2 | bonus warfare |  
+| bip_39_word_space_3 | bonus warfare erosion |  
+| bip_39_word_space_4 | bonus warfare erosion charge |  
+| bip_39_word_space_5 | bonus warfare erosion charge blush |  
+| bip_39_word_space_6 | bonus warfare erosion charge blush nurse |  
+| bip_39_word_space_7 | bonus warfare erosion charge blush nurse equal |  
+| bip_39_word_space_8 | bonus warfare erosion charge blush nurse equal limb |  
+| bip_39_word_space_9 | bonus warfare erosion charge blush nurse equal limb hill |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

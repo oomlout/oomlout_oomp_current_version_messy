@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrong hour
+  * bip 39 word 3: wrong hour material
+  * bip 39 word: wrong hour material menu decorate blind hurdle tank visual deputy slight acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrong |  
+| bip_39_word_new_br10 | wrong<br>hour<br>material<br>menu<br>decorate<br>blind<br>hurdle<br>tank<br>visual<br>deputy |  
+| bip_39_word_new_br11 | wrong<br>hour<br>material<br>menu<br>decorate<br>blind<br>hurdle<br>tank<br>visual<br>deputy<br>slight |  
+| bip_39_word_new_br12 | wrong<br>hour<br>material<br>menu<br>decorate<br>blind<br>hurdle<br>tank<br>visual<br>deputy<br>slight<br>acid |  
+| bip_39_word_new_br2 | wrong<br>hour |  
+| bip_39_word_new_br3 | wrong<br>hour<br>material |  
+| bip_39_word_new_br4 | wrong<br>hour<br>material<br>menu |  
+| bip_39_word_new_br5 | wrong<br>hour<br>material<br>menu<br>decorate |  
+| bip_39_word_new_br6 | wrong<br>hour<br>material<br>menu<br>decorate<br>blind |  
+| bip_39_word_new_br7 | wrong<br>hour<br>material<br>menu<br>decorate<br>blind<br>hurdle |  
+| bip_39_word_new_br8 | wrong<br>hour<br>material<br>menu<br>decorate<br>blind<br>hurdle<br>tank |  
+| bip_39_word_new_br9 | wrong<br>hour<br>material<br>menu<br>decorate<br>blind<br>hurdle<br>tank<br>visual |  
+| bip_39_word_new_line1 | wrong |  
+| bip_39_word_new_line10 | wrong
+hour
+material
+menu
+decorate
+blind
+hurdle
+tank
+visual
+deputy |  
+| bip_39_word_new_line11 | wrong
+hour
+material
+menu
+decorate
+blind
+hurdle
+tank
+visual
+deputy
+slight |  
+| bip_39_word_new_line12 | wrong
+hour
+material
+menu
+decorate
+blind
+hurdle
+tank
+visual
+deputy
+slight
+acid |  
+| bip_39_word_new_line2 | wrong
+hour |  
+| bip_39_word_new_line3 | wrong
+hour
+material |  
+| bip_39_word_new_line4 | wrong
+hour
+material
+menu |  
+| bip_39_word_new_line5 | wrong
+hour
+material
+menu
+decorate |  
+| bip_39_word_new_line6 | wrong
+hour
+material
+menu
+decorate
+blind |  
+| bip_39_word_new_line7 | wrong
+hour
+material
+menu
+decorate
+blind
+hurdle |  
+| bip_39_word_new_line8 | wrong
+hour
+material
+menu
+decorate
+blind
+hurdle
+tank |  
+| bip_39_word_new_line9 | wrong
+hour
+material
+menu
+decorate
+blind
+hurdle
+tank
+visual |  
+| bip_39_word_space_0 | ['wrong', 'hour', 'material', 'menu', 'decorate', 'blind', 'hurdle', 'tank', 'visual', 'deputy', 'slight', 'acid'] |  
+| bip_39_word_space_1 | wrong |  
+| bip_39_word_space_10 | wrong hour material menu decorate blind hurdle tank visual deputy |  
+| bip_39_word_space_11 | wrong hour material menu decorate blind hurdle tank visual deputy slight |  
+| bip_39_word_space_12 | wrong hour material menu decorate blind hurdle tank visual deputy slight acid |  
+| bip_39_word_space_2 | wrong hour |  
+| bip_39_word_space_3 | wrong hour material |  
+| bip_39_word_space_4 | wrong hour material menu |  
+| bip_39_word_space_5 | wrong hour material menu decorate |  
+| bip_39_word_space_6 | wrong hour material menu decorate blind |  
+| bip_39_word_space_7 | wrong hour material menu decorate blind hurdle |  
+| bip_39_word_space_8 | wrong hour material menu decorate blind hurdle tank |  
+| bip_39_word_space_9 | wrong hour material menu decorate blind hurdle tank visual |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

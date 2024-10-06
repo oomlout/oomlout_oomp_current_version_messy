@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: write gossip
+  * bip 39 word 3: write gossip nominee
+  * bip 39 word: write gossip nominee secret skirt laundry food glue print lawsuit surprise age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | write |  
+| bip_39_word_new_br10 | write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry<br>food<br>glue<br>print<br>lawsuit |  
+| bip_39_word_new_br11 | write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry<br>food<br>glue<br>print<br>lawsuit<br>surprise |  
+| bip_39_word_new_br12 | write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry<br>food<br>glue<br>print<br>lawsuit<br>surprise<br>age |  
+| bip_39_word_new_br2 | write<br>gossip |  
+| bip_39_word_new_br3 | write<br>gossip<br>nominee |  
+| bip_39_word_new_br4 | write<br>gossip<br>nominee<br>secret |  
+| bip_39_word_new_br5 | write<br>gossip<br>nominee<br>secret<br>skirt |  
+| bip_39_word_new_br6 | write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry |  
+| bip_39_word_new_br7 | write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry<br>food |  
+| bip_39_word_new_br8 | write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry<br>food<br>glue |  
+| bip_39_word_new_br9 | write<br>gossip<br>nominee<br>secret<br>skirt<br>laundry<br>food<br>glue<br>print |  
+| bip_39_word_new_line1 | write |  
+| bip_39_word_new_line10 | write
+gossip
+nominee
+secret
+skirt
+laundry
+food
+glue
+print
+lawsuit |  
+| bip_39_word_new_line11 | write
+gossip
+nominee
+secret
+skirt
+laundry
+food
+glue
+print
+lawsuit
+surprise |  
+| bip_39_word_new_line12 | write
+gossip
+nominee
+secret
+skirt
+laundry
+food
+glue
+print
+lawsuit
+surprise
+age |  
+| bip_39_word_new_line2 | write
+gossip |  
+| bip_39_word_new_line3 | write
+gossip
+nominee |  
+| bip_39_word_new_line4 | write
+gossip
+nominee
+secret |  
+| bip_39_word_new_line5 | write
+gossip
+nominee
+secret
+skirt |  
+| bip_39_word_new_line6 | write
+gossip
+nominee
+secret
+skirt
+laundry |  
+| bip_39_word_new_line7 | write
+gossip
+nominee
+secret
+skirt
+laundry
+food |  
+| bip_39_word_new_line8 | write
+gossip
+nominee
+secret
+skirt
+laundry
+food
+glue |  
+| bip_39_word_new_line9 | write
+gossip
+nominee
+secret
+skirt
+laundry
+food
+glue
+print |  
+| bip_39_word_space_0 | ['write', 'gossip', 'nominee', 'secret', 'skirt', 'laundry', 'food', 'glue', 'print', 'lawsuit', 'surprise', 'age'] |  
+| bip_39_word_space_1 | write |  
+| bip_39_word_space_10 | write gossip nominee secret skirt laundry food glue print lawsuit |  
+| bip_39_word_space_11 | write gossip nominee secret skirt laundry food glue print lawsuit surprise |  
+| bip_39_word_space_12 | write gossip nominee secret skirt laundry food glue print lawsuit surprise age |  
+| bip_39_word_space_2 | write gossip |  
+| bip_39_word_space_3 | write gossip nominee |  
+| bip_39_word_space_4 | write gossip nominee secret |  
+| bip_39_word_space_5 | write gossip nominee secret skirt |  
+| bip_39_word_space_6 | write gossip nominee secret skirt laundry |  
+| bip_39_word_space_7 | write gossip nominee secret skirt laundry food |  
+| bip_39_word_space_8 | write gossip nominee secret skirt laundry food glue |  
+| bip_39_word_space_9 | write gossip nominee secret skirt laundry food glue print |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

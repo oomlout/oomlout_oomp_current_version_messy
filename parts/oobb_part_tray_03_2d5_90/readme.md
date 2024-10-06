@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: original they
+  * bip 39 word 3: original they defy
+  * bip 39 word: original they defy wedding endless palm absorb symbol blood expect prison animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | original |  
+| bip_39_word_new_br10 | original<br>they<br>defy<br>wedding<br>endless<br>palm<br>absorb<br>symbol<br>blood<br>expect |  
+| bip_39_word_new_br11 | original<br>they<br>defy<br>wedding<br>endless<br>palm<br>absorb<br>symbol<br>blood<br>expect<br>prison |  
+| bip_39_word_new_br12 | original<br>they<br>defy<br>wedding<br>endless<br>palm<br>absorb<br>symbol<br>blood<br>expect<br>prison<br>animal |  
+| bip_39_word_new_br2 | original<br>they |  
+| bip_39_word_new_br3 | original<br>they<br>defy |  
+| bip_39_word_new_br4 | original<br>they<br>defy<br>wedding |  
+| bip_39_word_new_br5 | original<br>they<br>defy<br>wedding<br>endless |  
+| bip_39_word_new_br6 | original<br>they<br>defy<br>wedding<br>endless<br>palm |  
+| bip_39_word_new_br7 | original<br>they<br>defy<br>wedding<br>endless<br>palm<br>absorb |  
+| bip_39_word_new_br8 | original<br>they<br>defy<br>wedding<br>endless<br>palm<br>absorb<br>symbol |  
+| bip_39_word_new_br9 | original<br>they<br>defy<br>wedding<br>endless<br>palm<br>absorb<br>symbol<br>blood |  
+| bip_39_word_new_line1 | original |  
+| bip_39_word_new_line10 | original
+they
+defy
+wedding
+endless
+palm
+absorb
+symbol
+blood
+expect |  
+| bip_39_word_new_line11 | original
+they
+defy
+wedding
+endless
+palm
+absorb
+symbol
+blood
+expect
+prison |  
+| bip_39_word_new_line12 | original
+they
+defy
+wedding
+endless
+palm
+absorb
+symbol
+blood
+expect
+prison
+animal |  
+| bip_39_word_new_line2 | original
+they |  
+| bip_39_word_new_line3 | original
+they
+defy |  
+| bip_39_word_new_line4 | original
+they
+defy
+wedding |  
+| bip_39_word_new_line5 | original
+they
+defy
+wedding
+endless |  
+| bip_39_word_new_line6 | original
+they
+defy
+wedding
+endless
+palm |  
+| bip_39_word_new_line7 | original
+they
+defy
+wedding
+endless
+palm
+absorb |  
+| bip_39_word_new_line8 | original
+they
+defy
+wedding
+endless
+palm
+absorb
+symbol |  
+| bip_39_word_new_line9 | original
+they
+defy
+wedding
+endless
+palm
+absorb
+symbol
+blood |  
+| bip_39_word_space_0 | ['original', 'they', 'defy', 'wedding', 'endless', 'palm', 'absorb', 'symbol', 'blood', 'expect', 'prison', 'animal'] |  
+| bip_39_word_space_1 | original |  
+| bip_39_word_space_10 | original they defy wedding endless palm absorb symbol blood expect |  
+| bip_39_word_space_11 | original they defy wedding endless palm absorb symbol blood expect prison |  
+| bip_39_word_space_12 | original they defy wedding endless palm absorb symbol blood expect prison animal |  
+| bip_39_word_space_2 | original they |  
+| bip_39_word_space_3 | original they defy |  
+| bip_39_word_space_4 | original they defy wedding |  
+| bip_39_word_space_5 | original they defy wedding endless |  
+| bip_39_word_space_6 | original they defy wedding endless palm |  
+| bip_39_word_space_7 | original they defy wedding endless palm absorb |  
+| bip_39_word_space_8 | original they defy wedding endless palm absorb symbol |  
+| bip_39_word_space_9 | original they defy wedding endless palm absorb symbol blood |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

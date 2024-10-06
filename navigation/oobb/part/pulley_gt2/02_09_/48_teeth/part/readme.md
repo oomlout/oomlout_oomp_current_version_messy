@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: air candy
+  * bip 39 word 3: air candy great
+  * bip 39 word: air candy great rain crucial toward peanut bread nasty slender case admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | air |  
+| bip_39_word_new_br10 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender |  
+| bip_39_word_new_br11 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case |  
+| bip_39_word_new_br12 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case<br>admit |  
+| bip_39_word_new_br2 | air<br>candy |  
+| bip_39_word_new_br3 | air<br>candy<br>great |  
+| bip_39_word_new_br4 | air<br>candy<br>great<br>rain |  
+| bip_39_word_new_br5 | air<br>candy<br>great<br>rain<br>crucial |  
+| bip_39_word_new_br6 | air<br>candy<br>great<br>rain<br>crucial<br>toward |  
+| bip_39_word_new_br7 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut |  
+| bip_39_word_new_br8 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread |  
+| bip_39_word_new_br9 | air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty |  
+| bip_39_word_new_line1 | air |  
+| bip_39_word_new_line10 | air
+candy
+great
+rain
+crucial
+toward
+peanut
+bread
+nasty
+slender |  
+| bip_39_word_new_line11 | air
+candy
+great
+rain
+crucial
+toward
+peanut
+bread
+nasty
+slender
+case |  
+| bip_39_word_new_line12 | air
+candy
+great
+rain
+crucial
+toward
+peanut
+bread
+nasty
+slender
+case
+admit |  
+| bip_39_word_new_line2 | air
+candy |  
+| bip_39_word_new_line3 | air
+candy
+great |  
+| bip_39_word_new_line4 | air
+candy
+great
+rain |  
+| bip_39_word_new_line5 | air
+candy
+great
+rain
+crucial |  
+| bip_39_word_new_line6 | air
+candy
+great
+rain
+crucial
+toward |  
+| bip_39_word_new_line7 | air
+candy
+great
+rain
+crucial
+toward
+peanut |  
+| bip_39_word_new_line8 | air
+candy
+great
+rain
+crucial
+toward
+peanut
+bread |  
+| bip_39_word_new_line9 | air
+candy
+great
+rain
+crucial
+toward
+peanut
+bread
+nasty |  
+| bip_39_word_space_0 | ['air', 'candy', 'great', 'rain', 'crucial', 'toward', 'peanut', 'bread', 'nasty', 'slender', 'case', 'admit'] |  
+| bip_39_word_space_1 | air |  
+| bip_39_word_space_10 | air candy great rain crucial toward peanut bread nasty slender |  
+| bip_39_word_space_11 | air candy great rain crucial toward peanut bread nasty slender case |  
+| bip_39_word_space_12 | air candy great rain crucial toward peanut bread nasty slender case admit |  
+| bip_39_word_space_2 | air candy |  
+| bip_39_word_space_3 | air candy great |  
+| bip_39_word_space_4 | air candy great rain |  
+| bip_39_word_space_5 | air candy great rain crucial |  
+| bip_39_word_space_6 | air candy great rain crucial toward |  
+| bip_39_word_space_7 | air candy great rain crucial toward peanut |  
+| bip_39_word_space_8 | air candy great rain crucial toward peanut bread |  
+| bip_39_word_space_9 | air candy great rain crucial toward peanut bread nasty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

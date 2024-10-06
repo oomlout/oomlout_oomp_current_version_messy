@@ -1,3 +1,186 @@
+bip_39_word_new_br1: crouch
+bip_39_word_new_br10: crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans<br>toe<br>salute<br>host<br>seek
+bip_39_word_new_br11: crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans<br>toe<br>salute<br>host<br>seek<br>roof
+bip_39_word_new_br12: crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans<br>toe<br>salute<br>host<br>seek<br>roof<br>able
+bip_39_word_new_br2: crouch<br>pumpkin
+bip_39_word_new_br3: crouch<br>pumpkin<br>scrub
+bip_39_word_new_br4: crouch<br>pumpkin<br>scrub<br>sister
+bip_39_word_new_br5: crouch<br>pumpkin<br>scrub<br>sister<br>sniff
+bip_39_word_new_br6: crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans
+bip_39_word_new_br7: crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans<br>toe
+bip_39_word_new_br8: crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans<br>toe<br>salute
+bip_39_word_new_br9: crouch<br>pumpkin<br>scrub<br>sister<br>sniff<br>jeans<br>toe<br>salute<br>host
+bip_39_word_new_line1: crouch
+bip_39_word_new_line10: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister
+
+  sniff
+
+  jeans
+
+  toe
+
+  salute
+
+  host
+
+  seek'
+bip_39_word_new_line11: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister
+
+  sniff
+
+  jeans
+
+  toe
+
+  salute
+
+  host
+
+  seek
+
+  roof'
+bip_39_word_new_line12: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister
+
+  sniff
+
+  jeans
+
+  toe
+
+  salute
+
+  host
+
+  seek
+
+  roof
+
+  able'
+bip_39_word_new_line2: 'crouch
+
+  pumpkin'
+bip_39_word_new_line3: 'crouch
+
+  pumpkin
+
+  scrub'
+bip_39_word_new_line4: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister'
+bip_39_word_new_line5: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister
+
+  sniff'
+bip_39_word_new_line6: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister
+
+  sniff
+
+  jeans'
+bip_39_word_new_line7: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister
+
+  sniff
+
+  jeans
+
+  toe'
+bip_39_word_new_line8: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister
+
+  sniff
+
+  jeans
+
+  toe
+
+  salute'
+bip_39_word_new_line9: 'crouch
+
+  pumpkin
+
+  scrub
+
+  sister
+
+  sniff
+
+  jeans
+
+  toe
+
+  salute
+
+  host'
+bip_39_word_space_0:
+- crouch
+- pumpkin
+- scrub
+- sister
+- sniff
+- jeans
+- toe
+- salute
+- host
+- seek
+- roof
+- able
+bip_39_word_space_1: crouch
+bip_39_word_space_10: crouch pumpkin scrub sister sniff jeans toe salute host seek
+bip_39_word_space_11: crouch pumpkin scrub sister sniff jeans toe salute host seek
+  roof
+bip_39_word_space_12: crouch pumpkin scrub sister sniff jeans toe salute host seek
+  roof able
+bip_39_word_space_2: crouch pumpkin
+bip_39_word_space_3: crouch pumpkin scrub
+bip_39_word_space_4: crouch pumpkin scrub sister
+bip_39_word_space_5: crouch pumpkin scrub sister sniff
+bip_39_word_space_6: crouch pumpkin scrub sister sniff jeans
+bip_39_word_space_7: crouch pumpkin scrub sister sniff jeans toe
+bip_39_word_space_8: crouch pumpkin scrub sister sniff jeans toe salute
+bip_39_word_space_9: crouch pumpkin scrub sister sniff jeans toe salute host
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

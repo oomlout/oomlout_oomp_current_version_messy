@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amazing trouble
+  * bip 39 word 3: amazing trouble above
+  * bip 39 word: amazing trouble above oxygen must welcome conduct will crucial grid credit angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amazing |  
+| bip_39_word_new_br10 | amazing<br>trouble<br>above<br>oxygen<br>must<br>welcome<br>conduct<br>will<br>crucial<br>grid |  
+| bip_39_word_new_br11 | amazing<br>trouble<br>above<br>oxygen<br>must<br>welcome<br>conduct<br>will<br>crucial<br>grid<br>credit |  
+| bip_39_word_new_br12 | amazing<br>trouble<br>above<br>oxygen<br>must<br>welcome<br>conduct<br>will<br>crucial<br>grid<br>credit<br>angry |  
+| bip_39_word_new_br2 | amazing<br>trouble |  
+| bip_39_word_new_br3 | amazing<br>trouble<br>above |  
+| bip_39_word_new_br4 | amazing<br>trouble<br>above<br>oxygen |  
+| bip_39_word_new_br5 | amazing<br>trouble<br>above<br>oxygen<br>must |  
+| bip_39_word_new_br6 | amazing<br>trouble<br>above<br>oxygen<br>must<br>welcome |  
+| bip_39_word_new_br7 | amazing<br>trouble<br>above<br>oxygen<br>must<br>welcome<br>conduct |  
+| bip_39_word_new_br8 | amazing<br>trouble<br>above<br>oxygen<br>must<br>welcome<br>conduct<br>will |  
+| bip_39_word_new_br9 | amazing<br>trouble<br>above<br>oxygen<br>must<br>welcome<br>conduct<br>will<br>crucial |  
+| bip_39_word_new_line1 | amazing |  
+| bip_39_word_new_line10 | amazing
+trouble
+above
+oxygen
+must
+welcome
+conduct
+will
+crucial
+grid |  
+| bip_39_word_new_line11 | amazing
+trouble
+above
+oxygen
+must
+welcome
+conduct
+will
+crucial
+grid
+credit |  
+| bip_39_word_new_line12 | amazing
+trouble
+above
+oxygen
+must
+welcome
+conduct
+will
+crucial
+grid
+credit
+angry |  
+| bip_39_word_new_line2 | amazing
+trouble |  
+| bip_39_word_new_line3 | amazing
+trouble
+above |  
+| bip_39_word_new_line4 | amazing
+trouble
+above
+oxygen |  
+| bip_39_word_new_line5 | amazing
+trouble
+above
+oxygen
+must |  
+| bip_39_word_new_line6 | amazing
+trouble
+above
+oxygen
+must
+welcome |  
+| bip_39_word_new_line7 | amazing
+trouble
+above
+oxygen
+must
+welcome
+conduct |  
+| bip_39_word_new_line8 | amazing
+trouble
+above
+oxygen
+must
+welcome
+conduct
+will |  
+| bip_39_word_new_line9 | amazing
+trouble
+above
+oxygen
+must
+welcome
+conduct
+will
+crucial |  
+| bip_39_word_space_0 | ['amazing', 'trouble', 'above', 'oxygen', 'must', 'welcome', 'conduct', 'will', 'crucial', 'grid', 'credit', 'angry'] |  
+| bip_39_word_space_1 | amazing |  
+| bip_39_word_space_10 | amazing trouble above oxygen must welcome conduct will crucial grid |  
+| bip_39_word_space_11 | amazing trouble above oxygen must welcome conduct will crucial grid credit |  
+| bip_39_word_space_12 | amazing trouble above oxygen must welcome conduct will crucial grid credit angry |  
+| bip_39_word_space_2 | amazing trouble |  
+| bip_39_word_space_3 | amazing trouble above |  
+| bip_39_word_space_4 | amazing trouble above oxygen |  
+| bip_39_word_space_5 | amazing trouble above oxygen must |  
+| bip_39_word_space_6 | amazing trouble above oxygen must welcome |  
+| bip_39_word_space_7 | amazing trouble above oxygen must welcome conduct |  
+| bip_39_word_space_8 | amazing trouble above oxygen must welcome conduct will |  
+| bip_39_word_space_9 | amazing trouble above oxygen must welcome conduct will crucial |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

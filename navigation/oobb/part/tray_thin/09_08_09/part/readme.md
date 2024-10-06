@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: praise frog
+  * bip 39 word 3: praise frog domain
+  * bip 39 word: praise frog domain scan safe whale situate fiscal entry kick daughter animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | praise |  
+| bip_39_word_new_br10 | praise<br>frog<br>domain<br>scan<br>safe<br>whale<br>situate<br>fiscal<br>entry<br>kick |  
+| bip_39_word_new_br11 | praise<br>frog<br>domain<br>scan<br>safe<br>whale<br>situate<br>fiscal<br>entry<br>kick<br>daughter |  
+| bip_39_word_new_br12 | praise<br>frog<br>domain<br>scan<br>safe<br>whale<br>situate<br>fiscal<br>entry<br>kick<br>daughter<br>animal |  
+| bip_39_word_new_br2 | praise<br>frog |  
+| bip_39_word_new_br3 | praise<br>frog<br>domain |  
+| bip_39_word_new_br4 | praise<br>frog<br>domain<br>scan |  
+| bip_39_word_new_br5 | praise<br>frog<br>domain<br>scan<br>safe |  
+| bip_39_word_new_br6 | praise<br>frog<br>domain<br>scan<br>safe<br>whale |  
+| bip_39_word_new_br7 | praise<br>frog<br>domain<br>scan<br>safe<br>whale<br>situate |  
+| bip_39_word_new_br8 | praise<br>frog<br>domain<br>scan<br>safe<br>whale<br>situate<br>fiscal |  
+| bip_39_word_new_br9 | praise<br>frog<br>domain<br>scan<br>safe<br>whale<br>situate<br>fiscal<br>entry |  
+| bip_39_word_new_line1 | praise |  
+| bip_39_word_new_line10 | praise
+frog
+domain
+scan
+safe
+whale
+situate
+fiscal
+entry
+kick |  
+| bip_39_word_new_line11 | praise
+frog
+domain
+scan
+safe
+whale
+situate
+fiscal
+entry
+kick
+daughter |  
+| bip_39_word_new_line12 | praise
+frog
+domain
+scan
+safe
+whale
+situate
+fiscal
+entry
+kick
+daughter
+animal |  
+| bip_39_word_new_line2 | praise
+frog |  
+| bip_39_word_new_line3 | praise
+frog
+domain |  
+| bip_39_word_new_line4 | praise
+frog
+domain
+scan |  
+| bip_39_word_new_line5 | praise
+frog
+domain
+scan
+safe |  
+| bip_39_word_new_line6 | praise
+frog
+domain
+scan
+safe
+whale |  
+| bip_39_word_new_line7 | praise
+frog
+domain
+scan
+safe
+whale
+situate |  
+| bip_39_word_new_line8 | praise
+frog
+domain
+scan
+safe
+whale
+situate
+fiscal |  
+| bip_39_word_new_line9 | praise
+frog
+domain
+scan
+safe
+whale
+situate
+fiscal
+entry |  
+| bip_39_word_space_0 | ['praise', 'frog', 'domain', 'scan', 'safe', 'whale', 'situate', 'fiscal', 'entry', 'kick', 'daughter', 'animal'] |  
+| bip_39_word_space_1 | praise |  
+| bip_39_word_space_10 | praise frog domain scan safe whale situate fiscal entry kick |  
+| bip_39_word_space_11 | praise frog domain scan safe whale situate fiscal entry kick daughter |  
+| bip_39_word_space_12 | praise frog domain scan safe whale situate fiscal entry kick daughter animal |  
+| bip_39_word_space_2 | praise frog |  
+| bip_39_word_space_3 | praise frog domain |  
+| bip_39_word_space_4 | praise frog domain scan |  
+| bip_39_word_space_5 | praise frog domain scan safe |  
+| bip_39_word_space_6 | praise frog domain scan safe whale |  
+| bip_39_word_space_7 | praise frog domain scan safe whale situate |  
+| bip_39_word_space_8 | praise frog domain scan safe whale situate fiscal |  
+| bip_39_word_space_9 | praise frog domain scan safe whale situate fiscal entry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

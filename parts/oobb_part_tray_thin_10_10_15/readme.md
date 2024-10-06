@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: perfect answer
+  * bip 39 word 3: perfect answer odor
+  * bip 39 word: perfect answer odor insane rose town basket cube spoil earth extra afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | perfect |  
+| bip_39_word_new_br10 | perfect<br>answer<br>odor<br>insane<br>rose<br>town<br>basket<br>cube<br>spoil<br>earth |  
+| bip_39_word_new_br11 | perfect<br>answer<br>odor<br>insane<br>rose<br>town<br>basket<br>cube<br>spoil<br>earth<br>extra |  
+| bip_39_word_new_br12 | perfect<br>answer<br>odor<br>insane<br>rose<br>town<br>basket<br>cube<br>spoil<br>earth<br>extra<br>afraid |  
+| bip_39_word_new_br2 | perfect<br>answer |  
+| bip_39_word_new_br3 | perfect<br>answer<br>odor |  
+| bip_39_word_new_br4 | perfect<br>answer<br>odor<br>insane |  
+| bip_39_word_new_br5 | perfect<br>answer<br>odor<br>insane<br>rose |  
+| bip_39_word_new_br6 | perfect<br>answer<br>odor<br>insane<br>rose<br>town |  
+| bip_39_word_new_br7 | perfect<br>answer<br>odor<br>insane<br>rose<br>town<br>basket |  
+| bip_39_word_new_br8 | perfect<br>answer<br>odor<br>insane<br>rose<br>town<br>basket<br>cube |  
+| bip_39_word_new_br9 | perfect<br>answer<br>odor<br>insane<br>rose<br>town<br>basket<br>cube<br>spoil |  
+| bip_39_word_new_line1 | perfect |  
+| bip_39_word_new_line10 | perfect
+answer
+odor
+insane
+rose
+town
+basket
+cube
+spoil
+earth |  
+| bip_39_word_new_line11 | perfect
+answer
+odor
+insane
+rose
+town
+basket
+cube
+spoil
+earth
+extra |  
+| bip_39_word_new_line12 | perfect
+answer
+odor
+insane
+rose
+town
+basket
+cube
+spoil
+earth
+extra
+afraid |  
+| bip_39_word_new_line2 | perfect
+answer |  
+| bip_39_word_new_line3 | perfect
+answer
+odor |  
+| bip_39_word_new_line4 | perfect
+answer
+odor
+insane |  
+| bip_39_word_new_line5 | perfect
+answer
+odor
+insane
+rose |  
+| bip_39_word_new_line6 | perfect
+answer
+odor
+insane
+rose
+town |  
+| bip_39_word_new_line7 | perfect
+answer
+odor
+insane
+rose
+town
+basket |  
+| bip_39_word_new_line8 | perfect
+answer
+odor
+insane
+rose
+town
+basket
+cube |  
+| bip_39_word_new_line9 | perfect
+answer
+odor
+insane
+rose
+town
+basket
+cube
+spoil |  
+| bip_39_word_space_0 | ['perfect', 'answer', 'odor', 'insane', 'rose', 'town', 'basket', 'cube', 'spoil', 'earth', 'extra', 'afraid'] |  
+| bip_39_word_space_1 | perfect |  
+| bip_39_word_space_10 | perfect answer odor insane rose town basket cube spoil earth |  
+| bip_39_word_space_11 | perfect answer odor insane rose town basket cube spoil earth extra |  
+| bip_39_word_space_12 | perfect answer odor insane rose town basket cube spoil earth extra afraid |  
+| bip_39_word_space_2 | perfect answer |  
+| bip_39_word_space_3 | perfect answer odor |  
+| bip_39_word_space_4 | perfect answer odor insane |  
+| bip_39_word_space_5 | perfect answer odor insane rose |  
+| bip_39_word_space_6 | perfect answer odor insane rose town |  
+| bip_39_word_space_7 | perfect answer odor insane rose town basket |  
+| bip_39_word_space_8 | perfect answer odor insane rose town basket cube |  
+| bip_39_word_space_9 | perfect answer odor insane rose town basket cube spoil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

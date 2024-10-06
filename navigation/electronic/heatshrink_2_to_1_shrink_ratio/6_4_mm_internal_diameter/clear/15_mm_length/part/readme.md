@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slot soul
+  * bip 39 word 3: slot soul payment
+  * bip 39 word: slot soul payment wreck skate lonely slam aunt artefact engage wall army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slot |  
+| bip_39_word_new_br10 | slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage |  
+| bip_39_word_new_br11 | slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage<br>wall |  
+| bip_39_word_new_br12 | slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact<br>engage<br>wall<br>army |  
+| bip_39_word_new_br2 | slot<br>soul |  
+| bip_39_word_new_br3 | slot<br>soul<br>payment |  
+| bip_39_word_new_br4 | slot<br>soul<br>payment<br>wreck |  
+| bip_39_word_new_br5 | slot<br>soul<br>payment<br>wreck<br>skate |  
+| bip_39_word_new_br6 | slot<br>soul<br>payment<br>wreck<br>skate<br>lonely |  
+| bip_39_word_new_br7 | slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam |  
+| bip_39_word_new_br8 | slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt |  
+| bip_39_word_new_br9 | slot<br>soul<br>payment<br>wreck<br>skate<br>lonely<br>slam<br>aunt<br>artefact |  
+| bip_39_word_new_line1 | slot |  
+| bip_39_word_new_line10 | slot
+soul
+payment
+wreck
+skate
+lonely
+slam
+aunt
+artefact
+engage |  
+| bip_39_word_new_line11 | slot
+soul
+payment
+wreck
+skate
+lonely
+slam
+aunt
+artefact
+engage
+wall |  
+| bip_39_word_new_line12 | slot
+soul
+payment
+wreck
+skate
+lonely
+slam
+aunt
+artefact
+engage
+wall
+army |  
+| bip_39_word_new_line2 | slot
+soul |  
+| bip_39_word_new_line3 | slot
+soul
+payment |  
+| bip_39_word_new_line4 | slot
+soul
+payment
+wreck |  
+| bip_39_word_new_line5 | slot
+soul
+payment
+wreck
+skate |  
+| bip_39_word_new_line6 | slot
+soul
+payment
+wreck
+skate
+lonely |  
+| bip_39_word_new_line7 | slot
+soul
+payment
+wreck
+skate
+lonely
+slam |  
+| bip_39_word_new_line8 | slot
+soul
+payment
+wreck
+skate
+lonely
+slam
+aunt |  
+| bip_39_word_new_line9 | slot
+soul
+payment
+wreck
+skate
+lonely
+slam
+aunt
+artefact |  
+| bip_39_word_space_0 | ['slot', 'soul', 'payment', 'wreck', 'skate', 'lonely', 'slam', 'aunt', 'artefact', 'engage', 'wall', 'army'] |  
+| bip_39_word_space_1 | slot |  
+| bip_39_word_space_10 | slot soul payment wreck skate lonely slam aunt artefact engage |  
+| bip_39_word_space_11 | slot soul payment wreck skate lonely slam aunt artefact engage wall |  
+| bip_39_word_space_12 | slot soul payment wreck skate lonely slam aunt artefact engage wall army |  
+| bip_39_word_space_2 | slot soul |  
+| bip_39_word_space_3 | slot soul payment |  
+| bip_39_word_space_4 | slot soul payment wreck |  
+| bip_39_word_space_5 | slot soul payment wreck skate |  
+| bip_39_word_space_6 | slot soul payment wreck skate lonely |  
+| bip_39_word_space_7 | slot soul payment wreck skate lonely slam |  
+| bip_39_word_space_8 | slot soul payment wreck skate lonely slam aunt |  
+| bip_39_word_space_9 | slot soul payment wreck skate lonely slam aunt artefact |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: repair antique
+  * bip 39 word 3: repair antique pelican
+  * bip 39 word: repair antique pelican fiction short early sea butter cheese stool ten air
 
 ### other_codes
 * short_code: br6326
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | repair |  
+| bip_39_word_new_br10 | repair<br>antique<br>pelican<br>fiction<br>short<br>early<br>sea<br>butter<br>cheese<br>stool |  
+| bip_39_word_new_br11 | repair<br>antique<br>pelican<br>fiction<br>short<br>early<br>sea<br>butter<br>cheese<br>stool<br>ten |  
+| bip_39_word_new_br12 | repair<br>antique<br>pelican<br>fiction<br>short<br>early<br>sea<br>butter<br>cheese<br>stool<br>ten<br>air |  
+| bip_39_word_new_br2 | repair<br>antique |  
+| bip_39_word_new_br3 | repair<br>antique<br>pelican |  
+| bip_39_word_new_br4 | repair<br>antique<br>pelican<br>fiction |  
+| bip_39_word_new_br5 | repair<br>antique<br>pelican<br>fiction<br>short |  
+| bip_39_word_new_br6 | repair<br>antique<br>pelican<br>fiction<br>short<br>early |  
+| bip_39_word_new_br7 | repair<br>antique<br>pelican<br>fiction<br>short<br>early<br>sea |  
+| bip_39_word_new_br8 | repair<br>antique<br>pelican<br>fiction<br>short<br>early<br>sea<br>butter |  
+| bip_39_word_new_br9 | repair<br>antique<br>pelican<br>fiction<br>short<br>early<br>sea<br>butter<br>cheese |  
+| bip_39_word_new_line1 | repair |  
+| bip_39_word_new_line10 | repair
+antique
+pelican
+fiction
+short
+early
+sea
+butter
+cheese
+stool |  
+| bip_39_word_new_line11 | repair
+antique
+pelican
+fiction
+short
+early
+sea
+butter
+cheese
+stool
+ten |  
+| bip_39_word_new_line12 | repair
+antique
+pelican
+fiction
+short
+early
+sea
+butter
+cheese
+stool
+ten
+air |  
+| bip_39_word_new_line2 | repair
+antique |  
+| bip_39_word_new_line3 | repair
+antique
+pelican |  
+| bip_39_word_new_line4 | repair
+antique
+pelican
+fiction |  
+| bip_39_word_new_line5 | repair
+antique
+pelican
+fiction
+short |  
+| bip_39_word_new_line6 | repair
+antique
+pelican
+fiction
+short
+early |  
+| bip_39_word_new_line7 | repair
+antique
+pelican
+fiction
+short
+early
+sea |  
+| bip_39_word_new_line8 | repair
+antique
+pelican
+fiction
+short
+early
+sea
+butter |  
+| bip_39_word_new_line9 | repair
+antique
+pelican
+fiction
+short
+early
+sea
+butter
+cheese |  
+| bip_39_word_space_0 | ['repair', 'antique', 'pelican', 'fiction', 'short', 'early', 'sea', 'butter', 'cheese', 'stool', 'ten', 'air'] |  
+| bip_39_word_space_1 | repair |  
+| bip_39_word_space_10 | repair antique pelican fiction short early sea butter cheese stool |  
+| bip_39_word_space_11 | repair antique pelican fiction short early sea butter cheese stool ten |  
+| bip_39_word_space_12 | repair antique pelican fiction short early sea butter cheese stool ten air |  
+| bip_39_word_space_2 | repair antique |  
+| bip_39_word_space_3 | repair antique pelican |  
+| bip_39_word_space_4 | repair antique pelican fiction |  
+| bip_39_word_space_5 | repair antique pelican fiction short |  
+| bip_39_word_space_6 | repair antique pelican fiction short early |  
+| bip_39_word_space_7 | repair antique pelican fiction short early sea |  
+| bip_39_word_space_8 | repair antique pelican fiction short early sea butter |  
+| bip_39_word_space_9 | repair antique pelican fiction short early sea butter cheese |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

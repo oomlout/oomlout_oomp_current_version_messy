@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plunge dwarf
+  * bip 39 word 3: plunge dwarf box
+  * bip 39 word: plunge dwarf box during kidney tell pulse chronic tortoise lab sand agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plunge |  
+| bip_39_word_new_br10 | plunge<br>dwarf<br>box<br>during<br>kidney<br>tell<br>pulse<br>chronic<br>tortoise<br>lab |  
+| bip_39_word_new_br11 | plunge<br>dwarf<br>box<br>during<br>kidney<br>tell<br>pulse<br>chronic<br>tortoise<br>lab<br>sand |  
+| bip_39_word_new_br12 | plunge<br>dwarf<br>box<br>during<br>kidney<br>tell<br>pulse<br>chronic<br>tortoise<br>lab<br>sand<br>agent |  
+| bip_39_word_new_br2 | plunge<br>dwarf |  
+| bip_39_word_new_br3 | plunge<br>dwarf<br>box |  
+| bip_39_word_new_br4 | plunge<br>dwarf<br>box<br>during |  
+| bip_39_word_new_br5 | plunge<br>dwarf<br>box<br>during<br>kidney |  
+| bip_39_word_new_br6 | plunge<br>dwarf<br>box<br>during<br>kidney<br>tell |  
+| bip_39_word_new_br7 | plunge<br>dwarf<br>box<br>during<br>kidney<br>tell<br>pulse |  
+| bip_39_word_new_br8 | plunge<br>dwarf<br>box<br>during<br>kidney<br>tell<br>pulse<br>chronic |  
+| bip_39_word_new_br9 | plunge<br>dwarf<br>box<br>during<br>kidney<br>tell<br>pulse<br>chronic<br>tortoise |  
+| bip_39_word_new_line1 | plunge |  
+| bip_39_word_new_line10 | plunge
+dwarf
+box
+during
+kidney
+tell
+pulse
+chronic
+tortoise
+lab |  
+| bip_39_word_new_line11 | plunge
+dwarf
+box
+during
+kidney
+tell
+pulse
+chronic
+tortoise
+lab
+sand |  
+| bip_39_word_new_line12 | plunge
+dwarf
+box
+during
+kidney
+tell
+pulse
+chronic
+tortoise
+lab
+sand
+agent |  
+| bip_39_word_new_line2 | plunge
+dwarf |  
+| bip_39_word_new_line3 | plunge
+dwarf
+box |  
+| bip_39_word_new_line4 | plunge
+dwarf
+box
+during |  
+| bip_39_word_new_line5 | plunge
+dwarf
+box
+during
+kidney |  
+| bip_39_word_new_line6 | plunge
+dwarf
+box
+during
+kidney
+tell |  
+| bip_39_word_new_line7 | plunge
+dwarf
+box
+during
+kidney
+tell
+pulse |  
+| bip_39_word_new_line8 | plunge
+dwarf
+box
+during
+kidney
+tell
+pulse
+chronic |  
+| bip_39_word_new_line9 | plunge
+dwarf
+box
+during
+kidney
+tell
+pulse
+chronic
+tortoise |  
+| bip_39_word_space_0 | ['plunge', 'dwarf', 'box', 'during', 'kidney', 'tell', 'pulse', 'chronic', 'tortoise', 'lab', 'sand', 'agent'] |  
+| bip_39_word_space_1 | plunge |  
+| bip_39_word_space_10 | plunge dwarf box during kidney tell pulse chronic tortoise lab |  
+| bip_39_word_space_11 | plunge dwarf box during kidney tell pulse chronic tortoise lab sand |  
+| bip_39_word_space_12 | plunge dwarf box during kidney tell pulse chronic tortoise lab sand agent |  
+| bip_39_word_space_2 | plunge dwarf |  
+| bip_39_word_space_3 | plunge dwarf box |  
+| bip_39_word_space_4 | plunge dwarf box during |  
+| bip_39_word_space_5 | plunge dwarf box during kidney |  
+| bip_39_word_space_6 | plunge dwarf box during kidney tell |  
+| bip_39_word_space_7 | plunge dwarf box during kidney tell pulse |  
+| bip_39_word_space_8 | plunge dwarf box during kidney tell pulse chronic |  
+| bip_39_word_space_9 | plunge dwarf box during kidney tell pulse chronic tortoise |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

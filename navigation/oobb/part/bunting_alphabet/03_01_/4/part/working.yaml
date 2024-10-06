@@ -1,3 +1,187 @@
+bip_39_word_new_br1: discover
+bip_39_word_new_br10: discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text
+bip_39_word_new_br11: discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text<br>birth
+bip_39_word_new_br12: discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider<br>text<br>birth<br>alone
+bip_39_word_new_br2: discover<br>deputy
+bip_39_word_new_br3: discover<br>deputy<br>bronze
+bip_39_word_new_br4: discover<br>deputy<br>bronze<br>judge
+bip_39_word_new_br5: discover<br>deputy<br>bronze<br>judge<br>promote
+bip_39_word_new_br6: discover<br>deputy<br>bronze<br>judge<br>promote<br>memory
+bip_39_word_new_br7: discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss
+bip_39_word_new_br8: discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive
+bip_39_word_new_br9: discover<br>deputy<br>bronze<br>judge<br>promote<br>memory<br>boss<br>drive<br>consider
+bip_39_word_new_line1: discover
+bip_39_word_new_line10: 'discover
+
+  deputy
+
+  bronze
+
+  judge
+
+  promote
+
+  memory
+
+  boss
+
+  drive
+
+  consider
+
+  text'
+bip_39_word_new_line11: 'discover
+
+  deputy
+
+  bronze
+
+  judge
+
+  promote
+
+  memory
+
+  boss
+
+  drive
+
+  consider
+
+  text
+
+  birth'
+bip_39_word_new_line12: 'discover
+
+  deputy
+
+  bronze
+
+  judge
+
+  promote
+
+  memory
+
+  boss
+
+  drive
+
+  consider
+
+  text
+
+  birth
+
+  alone'
+bip_39_word_new_line2: 'discover
+
+  deputy'
+bip_39_word_new_line3: 'discover
+
+  deputy
+
+  bronze'
+bip_39_word_new_line4: 'discover
+
+  deputy
+
+  bronze
+
+  judge'
+bip_39_word_new_line5: 'discover
+
+  deputy
+
+  bronze
+
+  judge
+
+  promote'
+bip_39_word_new_line6: 'discover
+
+  deputy
+
+  bronze
+
+  judge
+
+  promote
+
+  memory'
+bip_39_word_new_line7: 'discover
+
+  deputy
+
+  bronze
+
+  judge
+
+  promote
+
+  memory
+
+  boss'
+bip_39_word_new_line8: 'discover
+
+  deputy
+
+  bronze
+
+  judge
+
+  promote
+
+  memory
+
+  boss
+
+  drive'
+bip_39_word_new_line9: 'discover
+
+  deputy
+
+  bronze
+
+  judge
+
+  promote
+
+  memory
+
+  boss
+
+  drive
+
+  consider'
+bip_39_word_space_0:
+- discover
+- deputy
+- bronze
+- judge
+- promote
+- memory
+- boss
+- drive
+- consider
+- text
+- birth
+- alone
+bip_39_word_space_1: discover
+bip_39_word_space_10: discover deputy bronze judge promote memory boss drive consider
+  text
+bip_39_word_space_11: discover deputy bronze judge promote memory boss drive consider
+  text birth
+bip_39_word_space_12: discover deputy bronze judge promote memory boss drive consider
+  text birth alone
+bip_39_word_space_2: discover deputy
+bip_39_word_space_3: discover deputy bronze
+bip_39_word_space_4: discover deputy bronze judge
+bip_39_word_space_5: discover deputy bronze judge promote
+bip_39_word_space_6: discover deputy bronze judge promote memory
+bip_39_word_space_7: discover deputy bronze judge promote memory boss
+bip_39_word_space_8: discover deputy bronze judge promote memory boss drive
+bip_39_word_space_9: discover deputy bronze judge promote memory boss drive consider
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

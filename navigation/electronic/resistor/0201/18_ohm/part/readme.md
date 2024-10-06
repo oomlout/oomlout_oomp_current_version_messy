@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trash adult
+  * bip 39 word 3: trash adult point
+  * bip 39 word: trash adult point fever know boy husband loyal helmet priority slight attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trash |  
+| bip_39_word_new_br10 | trash<br>adult<br>point<br>fever<br>know<br>boy<br>husband<br>loyal<br>helmet<br>priority |  
+| bip_39_word_new_br11 | trash<br>adult<br>point<br>fever<br>know<br>boy<br>husband<br>loyal<br>helmet<br>priority<br>slight |  
+| bip_39_word_new_br12 | trash<br>adult<br>point<br>fever<br>know<br>boy<br>husband<br>loyal<br>helmet<br>priority<br>slight<br>attitude |  
+| bip_39_word_new_br2 | trash<br>adult |  
+| bip_39_word_new_br3 | trash<br>adult<br>point |  
+| bip_39_word_new_br4 | trash<br>adult<br>point<br>fever |  
+| bip_39_word_new_br5 | trash<br>adult<br>point<br>fever<br>know |  
+| bip_39_word_new_br6 | trash<br>adult<br>point<br>fever<br>know<br>boy |  
+| bip_39_word_new_br7 | trash<br>adult<br>point<br>fever<br>know<br>boy<br>husband |  
+| bip_39_word_new_br8 | trash<br>adult<br>point<br>fever<br>know<br>boy<br>husband<br>loyal |  
+| bip_39_word_new_br9 | trash<br>adult<br>point<br>fever<br>know<br>boy<br>husband<br>loyal<br>helmet |  
+| bip_39_word_new_line1 | trash |  
+| bip_39_word_new_line10 | trash
+adult
+point
+fever
+know
+boy
+husband
+loyal
+helmet
+priority |  
+| bip_39_word_new_line11 | trash
+adult
+point
+fever
+know
+boy
+husband
+loyal
+helmet
+priority
+slight |  
+| bip_39_word_new_line12 | trash
+adult
+point
+fever
+know
+boy
+husband
+loyal
+helmet
+priority
+slight
+attitude |  
+| bip_39_word_new_line2 | trash
+adult |  
+| bip_39_word_new_line3 | trash
+adult
+point |  
+| bip_39_word_new_line4 | trash
+adult
+point
+fever |  
+| bip_39_word_new_line5 | trash
+adult
+point
+fever
+know |  
+| bip_39_word_new_line6 | trash
+adult
+point
+fever
+know
+boy |  
+| bip_39_word_new_line7 | trash
+adult
+point
+fever
+know
+boy
+husband |  
+| bip_39_word_new_line8 | trash
+adult
+point
+fever
+know
+boy
+husband
+loyal |  
+| bip_39_word_new_line9 | trash
+adult
+point
+fever
+know
+boy
+husband
+loyal
+helmet |  
+| bip_39_word_space_0 | ['trash', 'adult', 'point', 'fever', 'know', 'boy', 'husband', 'loyal', 'helmet', 'priority', 'slight', 'attitude'] |  
+| bip_39_word_space_1 | trash |  
+| bip_39_word_space_10 | trash adult point fever know boy husband loyal helmet priority |  
+| bip_39_word_space_11 | trash adult point fever know boy husband loyal helmet priority slight |  
+| bip_39_word_space_12 | trash adult point fever know boy husband loyal helmet priority slight attitude |  
+| bip_39_word_space_2 | trash adult |  
+| bip_39_word_space_3 | trash adult point |  
+| bip_39_word_space_4 | trash adult point fever |  
+| bip_39_word_space_5 | trash adult point fever know |  
+| bip_39_word_space_6 | trash adult point fever know boy |  
+| bip_39_word_space_7 | trash adult point fever know boy husband |  
+| bip_39_word_space_8 | trash adult point fever know boy husband loyal |  
+| bip_39_word_space_9 | trash adult point fever know boy husband loyal helmet |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

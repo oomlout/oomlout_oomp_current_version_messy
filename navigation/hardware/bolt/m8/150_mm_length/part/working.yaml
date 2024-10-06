@@ -1,3 +1,186 @@
+bip_39_word_new_br1: over
+bip_39_word_new_br10: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket
+bip_39_word_new_br11: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket<br>february
+bip_39_word_new_br12: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside<br>basket<br>february<br>advice
+bip_39_word_new_br2: over<br>myth
+bip_39_word_new_br3: over<br>myth<br>size
+bip_39_word_new_br4: over<br>myth<br>size<br>burden
+bip_39_word_new_br5: over<br>myth<br>size<br>burden<br>blade
+bip_39_word_new_br6: over<br>myth<br>size<br>burden<br>blade<br>brand
+bip_39_word_new_br7: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil
+bip_39_word_new_br8: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style
+bip_39_word_new_br9: over<br>myth<br>size<br>burden<br>blade<br>brand<br>pencil<br>style<br>outside
+bip_39_word_new_line1: over
+bip_39_word_new_line10: 'over
+
+  myth
+
+  size
+
+  burden
+
+  blade
+
+  brand
+
+  pencil
+
+  style
+
+  outside
+
+  basket'
+bip_39_word_new_line11: 'over
+
+  myth
+
+  size
+
+  burden
+
+  blade
+
+  brand
+
+  pencil
+
+  style
+
+  outside
+
+  basket
+
+  february'
+bip_39_word_new_line12: 'over
+
+  myth
+
+  size
+
+  burden
+
+  blade
+
+  brand
+
+  pencil
+
+  style
+
+  outside
+
+  basket
+
+  february
+
+  advice'
+bip_39_word_new_line2: 'over
+
+  myth'
+bip_39_word_new_line3: 'over
+
+  myth
+
+  size'
+bip_39_word_new_line4: 'over
+
+  myth
+
+  size
+
+  burden'
+bip_39_word_new_line5: 'over
+
+  myth
+
+  size
+
+  burden
+
+  blade'
+bip_39_word_new_line6: 'over
+
+  myth
+
+  size
+
+  burden
+
+  blade
+
+  brand'
+bip_39_word_new_line7: 'over
+
+  myth
+
+  size
+
+  burden
+
+  blade
+
+  brand
+
+  pencil'
+bip_39_word_new_line8: 'over
+
+  myth
+
+  size
+
+  burden
+
+  blade
+
+  brand
+
+  pencil
+
+  style'
+bip_39_word_new_line9: 'over
+
+  myth
+
+  size
+
+  burden
+
+  blade
+
+  brand
+
+  pencil
+
+  style
+
+  outside'
+bip_39_word_space_0:
+- over
+- myth
+- size
+- burden
+- blade
+- brand
+- pencil
+- style
+- outside
+- basket
+- february
+- advice
+bip_39_word_space_1: over
+bip_39_word_space_10: over myth size burden blade brand pencil style outside basket
+bip_39_word_space_11: over myth size burden blade brand pencil style outside basket
+  february
+bip_39_word_space_12: over myth size burden blade brand pencil style outside basket
+  february advice
+bip_39_word_space_2: over myth
+bip_39_word_space_3: over myth size
+bip_39_word_space_4: over myth size burden
+bip_39_word_space_5: over myth size burden blade
+bip_39_word_space_6: over myth size burden blade brand
+bip_39_word_space_7: over myth size burden blade brand pencil
+bip_39_word_space_8: over myth size burden blade brand pencil style
+bip_39_word_space_9: over myth size burden blade brand pencil style outside
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

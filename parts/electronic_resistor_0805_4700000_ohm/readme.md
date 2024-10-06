@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: erosion offer
+  * bip 39 word 3: erosion offer federal
+  * bip 39 word: erosion offer federal horror sign subject pipe antenna school six abandon animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | erosion |  
+| bip_39_word_new_br10 | erosion<br>offer<br>federal<br>horror<br>sign<br>subject<br>pipe<br>antenna<br>school<br>six |  
+| bip_39_word_new_br11 | erosion<br>offer<br>federal<br>horror<br>sign<br>subject<br>pipe<br>antenna<br>school<br>six<br>abandon |  
+| bip_39_word_new_br12 | erosion<br>offer<br>federal<br>horror<br>sign<br>subject<br>pipe<br>antenna<br>school<br>six<br>abandon<br>animal |  
+| bip_39_word_new_br2 | erosion<br>offer |  
+| bip_39_word_new_br3 | erosion<br>offer<br>federal |  
+| bip_39_word_new_br4 | erosion<br>offer<br>federal<br>horror |  
+| bip_39_word_new_br5 | erosion<br>offer<br>federal<br>horror<br>sign |  
+| bip_39_word_new_br6 | erosion<br>offer<br>federal<br>horror<br>sign<br>subject |  
+| bip_39_word_new_br7 | erosion<br>offer<br>federal<br>horror<br>sign<br>subject<br>pipe |  
+| bip_39_word_new_br8 | erosion<br>offer<br>federal<br>horror<br>sign<br>subject<br>pipe<br>antenna |  
+| bip_39_word_new_br9 | erosion<br>offer<br>federal<br>horror<br>sign<br>subject<br>pipe<br>antenna<br>school |  
+| bip_39_word_new_line1 | erosion |  
+| bip_39_word_new_line10 | erosion
+offer
+federal
+horror
+sign
+subject
+pipe
+antenna
+school
+six |  
+| bip_39_word_new_line11 | erosion
+offer
+federal
+horror
+sign
+subject
+pipe
+antenna
+school
+six
+abandon |  
+| bip_39_word_new_line12 | erosion
+offer
+federal
+horror
+sign
+subject
+pipe
+antenna
+school
+six
+abandon
+animal |  
+| bip_39_word_new_line2 | erosion
+offer |  
+| bip_39_word_new_line3 | erosion
+offer
+federal |  
+| bip_39_word_new_line4 | erosion
+offer
+federal
+horror |  
+| bip_39_word_new_line5 | erosion
+offer
+federal
+horror
+sign |  
+| bip_39_word_new_line6 | erosion
+offer
+federal
+horror
+sign
+subject |  
+| bip_39_word_new_line7 | erosion
+offer
+federal
+horror
+sign
+subject
+pipe |  
+| bip_39_word_new_line8 | erosion
+offer
+federal
+horror
+sign
+subject
+pipe
+antenna |  
+| bip_39_word_new_line9 | erosion
+offer
+federal
+horror
+sign
+subject
+pipe
+antenna
+school |  
+| bip_39_word_space_0 | ['erosion', 'offer', 'federal', 'horror', 'sign', 'subject', 'pipe', 'antenna', 'school', 'six', 'abandon', 'animal'] |  
+| bip_39_word_space_1 | erosion |  
+| bip_39_word_space_10 | erosion offer federal horror sign subject pipe antenna school six |  
+| bip_39_word_space_11 | erosion offer federal horror sign subject pipe antenna school six abandon |  
+| bip_39_word_space_12 | erosion offer federal horror sign subject pipe antenna school six abandon animal |  
+| bip_39_word_space_2 | erosion offer |  
+| bip_39_word_space_3 | erosion offer federal |  
+| bip_39_word_space_4 | erosion offer federal horror |  
+| bip_39_word_space_5 | erosion offer federal horror sign |  
+| bip_39_word_space_6 | erosion offer federal horror sign subject |  
+| bip_39_word_space_7 | erosion offer federal horror sign subject pipe |  
+| bip_39_word_space_8 | erosion offer federal horror sign subject pipe antenna |  
+| bip_39_word_space_9 | erosion offer federal horror sign subject pipe antenna school |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

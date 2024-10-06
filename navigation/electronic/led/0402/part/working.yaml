@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wagon
+bip_39_word_new_br10: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one<br>word<br>innocent<br>eyebrow<br>mutual
+bip_39_word_new_br11: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one<br>word<br>innocent<br>eyebrow<br>mutual<br>oval
+bip_39_word_new_br12: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one<br>word<br>innocent<br>eyebrow<br>mutual<br>oval<br>artwork
+bip_39_word_new_br2: wagon<br>boring
+bip_39_word_new_br3: wagon<br>boring<br>rabbit
+bip_39_word_new_br4: wagon<br>boring<br>rabbit<br>enter
+bip_39_word_new_br5: wagon<br>boring<br>rabbit<br>enter<br>crunch
+bip_39_word_new_br6: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one
+bip_39_word_new_br7: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one<br>word
+bip_39_word_new_br8: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one<br>word<br>innocent
+bip_39_word_new_br9: wagon<br>boring<br>rabbit<br>enter<br>crunch<br>one<br>word<br>innocent<br>eyebrow
+bip_39_word_new_line1: wagon
+bip_39_word_new_line10: 'wagon
+
+  boring
+
+  rabbit
+
+  enter
+
+  crunch
+
+  one
+
+  word
+
+  innocent
+
+  eyebrow
+
+  mutual'
+bip_39_word_new_line11: 'wagon
+
+  boring
+
+  rabbit
+
+  enter
+
+  crunch
+
+  one
+
+  word
+
+  innocent
+
+  eyebrow
+
+  mutual
+
+  oval'
+bip_39_word_new_line12: 'wagon
+
+  boring
+
+  rabbit
+
+  enter
+
+  crunch
+
+  one
+
+  word
+
+  innocent
+
+  eyebrow
+
+  mutual
+
+  oval
+
+  artwork'
+bip_39_word_new_line2: 'wagon
+
+  boring'
+bip_39_word_new_line3: 'wagon
+
+  boring
+
+  rabbit'
+bip_39_word_new_line4: 'wagon
+
+  boring
+
+  rabbit
+
+  enter'
+bip_39_word_new_line5: 'wagon
+
+  boring
+
+  rabbit
+
+  enter
+
+  crunch'
+bip_39_word_new_line6: 'wagon
+
+  boring
+
+  rabbit
+
+  enter
+
+  crunch
+
+  one'
+bip_39_word_new_line7: 'wagon
+
+  boring
+
+  rabbit
+
+  enter
+
+  crunch
+
+  one
+
+  word'
+bip_39_word_new_line8: 'wagon
+
+  boring
+
+  rabbit
+
+  enter
+
+  crunch
+
+  one
+
+  word
+
+  innocent'
+bip_39_word_new_line9: 'wagon
+
+  boring
+
+  rabbit
+
+  enter
+
+  crunch
+
+  one
+
+  word
+
+  innocent
+
+  eyebrow'
+bip_39_word_space_0:
+- wagon
+- boring
+- rabbit
+- enter
+- crunch
+- one
+- word
+- innocent
+- eyebrow
+- mutual
+- oval
+- artwork
+bip_39_word_space_1: wagon
+bip_39_word_space_10: wagon boring rabbit enter crunch one word innocent eyebrow mutual
+bip_39_word_space_11: wagon boring rabbit enter crunch one word innocent eyebrow mutual
+  oval
+bip_39_word_space_12: wagon boring rabbit enter crunch one word innocent eyebrow mutual
+  oval artwork
+bip_39_word_space_2: wagon boring
+bip_39_word_space_3: wagon boring rabbit
+bip_39_word_space_4: wagon boring rabbit enter
+bip_39_word_space_5: wagon boring rabbit enter crunch
+bip_39_word_space_6: wagon boring rabbit enter crunch one
+bip_39_word_space_7: wagon boring rabbit enter crunch one word
+bip_39_word_space_8: wagon boring rabbit enter crunch one word innocent
+bip_39_word_space_9: wagon boring rabbit enter crunch one word innocent eyebrow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: valid frozen
+  * bip 39 word 3: valid frozen hospital
+  * bip 39 word: valid frozen hospital task horn sudden law mirror hello boost suggest admit
 
 ### other_codes
 * short_code: n2d7m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | valid |  
+| bip_39_word_new_br10 | valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost |  
+| bip_39_word_new_br11 | valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost<br>suggest |  
+| bip_39_word_new_br12 | valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost<br>suggest<br>admit |  
+| bip_39_word_new_br2 | valid<br>frozen |  
+| bip_39_word_new_br3 | valid<br>frozen<br>hospital |  
+| bip_39_word_new_br4 | valid<br>frozen<br>hospital<br>task |  
+| bip_39_word_new_br5 | valid<br>frozen<br>hospital<br>task<br>horn |  
+| bip_39_word_new_br6 | valid<br>frozen<br>hospital<br>task<br>horn<br>sudden |  
+| bip_39_word_new_br7 | valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law |  
+| bip_39_word_new_br8 | valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror |  
+| bip_39_word_new_br9 | valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello |  
+| bip_39_word_new_line1 | valid |  
+| bip_39_word_new_line10 | valid
+frozen
+hospital
+task
+horn
+sudden
+law
+mirror
+hello
+boost |  
+| bip_39_word_new_line11 | valid
+frozen
+hospital
+task
+horn
+sudden
+law
+mirror
+hello
+boost
+suggest |  
+| bip_39_word_new_line12 | valid
+frozen
+hospital
+task
+horn
+sudden
+law
+mirror
+hello
+boost
+suggest
+admit |  
+| bip_39_word_new_line2 | valid
+frozen |  
+| bip_39_word_new_line3 | valid
+frozen
+hospital |  
+| bip_39_word_new_line4 | valid
+frozen
+hospital
+task |  
+| bip_39_word_new_line5 | valid
+frozen
+hospital
+task
+horn |  
+| bip_39_word_new_line6 | valid
+frozen
+hospital
+task
+horn
+sudden |  
+| bip_39_word_new_line7 | valid
+frozen
+hospital
+task
+horn
+sudden
+law |  
+| bip_39_word_new_line8 | valid
+frozen
+hospital
+task
+horn
+sudden
+law
+mirror |  
+| bip_39_word_new_line9 | valid
+frozen
+hospital
+task
+horn
+sudden
+law
+mirror
+hello |  
+| bip_39_word_space_0 | ['valid', 'frozen', 'hospital', 'task', 'horn', 'sudden', 'law', 'mirror', 'hello', 'boost', 'suggest', 'admit'] |  
+| bip_39_word_space_1 | valid |  
+| bip_39_word_space_10 | valid frozen hospital task horn sudden law mirror hello boost |  
+| bip_39_word_space_11 | valid frozen hospital task horn sudden law mirror hello boost suggest |  
+| bip_39_word_space_12 | valid frozen hospital task horn sudden law mirror hello boost suggest admit |  
+| bip_39_word_space_2 | valid frozen |  
+| bip_39_word_space_3 | valid frozen hospital |  
+| bip_39_word_space_4 | valid frozen hospital task |  
+| bip_39_word_space_5 | valid frozen hospital task horn |  
+| bip_39_word_space_6 | valid frozen hospital task horn sudden |  
+| bip_39_word_space_7 | valid frozen hospital task horn sudden law |  
+| bip_39_word_space_8 | valid frozen hospital task horn sudden law mirror |  
+| bip_39_word_space_9 | valid frozen hospital task horn sudden law mirror hello |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

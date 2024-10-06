@@ -1,3 +1,187 @@
+bip_39_word_new_br1: record
+bip_39_word_new_br10: record<br>butter<br>keen<br>federal<br>choice<br>guilt<br>welcome<br>float<br>affair<br>because
+bip_39_word_new_br11: record<br>butter<br>keen<br>federal<br>choice<br>guilt<br>welcome<br>float<br>affair<br>because<br>crash
+bip_39_word_new_br12: record<br>butter<br>keen<br>federal<br>choice<br>guilt<br>welcome<br>float<br>affair<br>because<br>crash<br>attitude
+bip_39_word_new_br2: record<br>butter
+bip_39_word_new_br3: record<br>butter<br>keen
+bip_39_word_new_br4: record<br>butter<br>keen<br>federal
+bip_39_word_new_br5: record<br>butter<br>keen<br>federal<br>choice
+bip_39_word_new_br6: record<br>butter<br>keen<br>federal<br>choice<br>guilt
+bip_39_word_new_br7: record<br>butter<br>keen<br>federal<br>choice<br>guilt<br>welcome
+bip_39_word_new_br8: record<br>butter<br>keen<br>federal<br>choice<br>guilt<br>welcome<br>float
+bip_39_word_new_br9: record<br>butter<br>keen<br>federal<br>choice<br>guilt<br>welcome<br>float<br>affair
+bip_39_word_new_line1: record
+bip_39_word_new_line10: 'record
+
+  butter
+
+  keen
+
+  federal
+
+  choice
+
+  guilt
+
+  welcome
+
+  float
+
+  affair
+
+  because'
+bip_39_word_new_line11: 'record
+
+  butter
+
+  keen
+
+  federal
+
+  choice
+
+  guilt
+
+  welcome
+
+  float
+
+  affair
+
+  because
+
+  crash'
+bip_39_word_new_line12: 'record
+
+  butter
+
+  keen
+
+  federal
+
+  choice
+
+  guilt
+
+  welcome
+
+  float
+
+  affair
+
+  because
+
+  crash
+
+  attitude'
+bip_39_word_new_line2: 'record
+
+  butter'
+bip_39_word_new_line3: 'record
+
+  butter
+
+  keen'
+bip_39_word_new_line4: 'record
+
+  butter
+
+  keen
+
+  federal'
+bip_39_word_new_line5: 'record
+
+  butter
+
+  keen
+
+  federal
+
+  choice'
+bip_39_word_new_line6: 'record
+
+  butter
+
+  keen
+
+  federal
+
+  choice
+
+  guilt'
+bip_39_word_new_line7: 'record
+
+  butter
+
+  keen
+
+  federal
+
+  choice
+
+  guilt
+
+  welcome'
+bip_39_word_new_line8: 'record
+
+  butter
+
+  keen
+
+  federal
+
+  choice
+
+  guilt
+
+  welcome
+
+  float'
+bip_39_word_new_line9: 'record
+
+  butter
+
+  keen
+
+  federal
+
+  choice
+
+  guilt
+
+  welcome
+
+  float
+
+  affair'
+bip_39_word_space_0:
+- record
+- butter
+- keen
+- federal
+- choice
+- guilt
+- welcome
+- float
+- affair
+- because
+- crash
+- attitude
+bip_39_word_space_1: record
+bip_39_word_space_10: record butter keen federal choice guilt welcome float affair
+  because
+bip_39_word_space_11: record butter keen federal choice guilt welcome float affair
+  because crash
+bip_39_word_space_12: record butter keen federal choice guilt welcome float affair
+  because crash attitude
+bip_39_word_space_2: record butter
+bip_39_word_space_3: record butter keen
+bip_39_word_space_4: record butter keen federal
+bip_39_word_space_5: record butter keen federal choice
+bip_39_word_space_6: record butter keen federal choice guilt
+bip_39_word_space_7: record butter keen federal choice guilt welcome
+bip_39_word_space_8: record butter keen federal choice guilt welcome float
+bip_39_word_space_9: record butter keen federal choice guilt welcome float affair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

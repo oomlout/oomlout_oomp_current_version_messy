@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dance song
+  * bip 39 word 3: dance song pause
+  * bip 39 word: dance song pause beyond radar eight cricket rhythm thought casual quiz always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dance |  
+| bip_39_word_new_br10 | dance<br>song<br>pause<br>beyond<br>radar<br>eight<br>cricket<br>rhythm<br>thought<br>casual |  
+| bip_39_word_new_br11 | dance<br>song<br>pause<br>beyond<br>radar<br>eight<br>cricket<br>rhythm<br>thought<br>casual<br>quiz |  
+| bip_39_word_new_br12 | dance<br>song<br>pause<br>beyond<br>radar<br>eight<br>cricket<br>rhythm<br>thought<br>casual<br>quiz<br>always |  
+| bip_39_word_new_br2 | dance<br>song |  
+| bip_39_word_new_br3 | dance<br>song<br>pause |  
+| bip_39_word_new_br4 | dance<br>song<br>pause<br>beyond |  
+| bip_39_word_new_br5 | dance<br>song<br>pause<br>beyond<br>radar |  
+| bip_39_word_new_br6 | dance<br>song<br>pause<br>beyond<br>radar<br>eight |  
+| bip_39_word_new_br7 | dance<br>song<br>pause<br>beyond<br>radar<br>eight<br>cricket |  
+| bip_39_word_new_br8 | dance<br>song<br>pause<br>beyond<br>radar<br>eight<br>cricket<br>rhythm |  
+| bip_39_word_new_br9 | dance<br>song<br>pause<br>beyond<br>radar<br>eight<br>cricket<br>rhythm<br>thought |  
+| bip_39_word_new_line1 | dance |  
+| bip_39_word_new_line10 | dance
+song
+pause
+beyond
+radar
+eight
+cricket
+rhythm
+thought
+casual |  
+| bip_39_word_new_line11 | dance
+song
+pause
+beyond
+radar
+eight
+cricket
+rhythm
+thought
+casual
+quiz |  
+| bip_39_word_new_line12 | dance
+song
+pause
+beyond
+radar
+eight
+cricket
+rhythm
+thought
+casual
+quiz
+always |  
+| bip_39_word_new_line2 | dance
+song |  
+| bip_39_word_new_line3 | dance
+song
+pause |  
+| bip_39_word_new_line4 | dance
+song
+pause
+beyond |  
+| bip_39_word_new_line5 | dance
+song
+pause
+beyond
+radar |  
+| bip_39_word_new_line6 | dance
+song
+pause
+beyond
+radar
+eight |  
+| bip_39_word_new_line7 | dance
+song
+pause
+beyond
+radar
+eight
+cricket |  
+| bip_39_word_new_line8 | dance
+song
+pause
+beyond
+radar
+eight
+cricket
+rhythm |  
+| bip_39_word_new_line9 | dance
+song
+pause
+beyond
+radar
+eight
+cricket
+rhythm
+thought |  
+| bip_39_word_space_0 | ['dance', 'song', 'pause', 'beyond', 'radar', 'eight', 'cricket', 'rhythm', 'thought', 'casual', 'quiz', 'always'] |  
+| bip_39_word_space_1 | dance |  
+| bip_39_word_space_10 | dance song pause beyond radar eight cricket rhythm thought casual |  
+| bip_39_word_space_11 | dance song pause beyond radar eight cricket rhythm thought casual quiz |  
+| bip_39_word_space_12 | dance song pause beyond radar eight cricket rhythm thought casual quiz always |  
+| bip_39_word_space_2 | dance song |  
+| bip_39_word_space_3 | dance song pause |  
+| bip_39_word_space_4 | dance song pause beyond |  
+| bip_39_word_space_5 | dance song pause beyond radar |  
+| bip_39_word_space_6 | dance song pause beyond radar eight |  
+| bip_39_word_space_7 | dance song pause beyond radar eight cricket |  
+| bip_39_word_space_8 | dance song pause beyond radar eight cricket rhythm |  
+| bip_39_word_space_9 | dance song pause beyond radar eight cricket rhythm thought |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: visit
+bip_39_word_new_br10: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update
+bip_39_word_new_br11: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update<br>found
+bip_39_word_new_br12: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west<br>update<br>found<br>amateur
+bip_39_word_new_br2: visit<br>crunch
+bip_39_word_new_br3: visit<br>crunch<br>grunt
+bip_39_word_new_br4: visit<br>crunch<br>grunt<br>parade
+bip_39_word_new_br5: visit<br>crunch<br>grunt<br>parade<br>torch
+bip_39_word_new_br6: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose
+bip_39_word_new_br7: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial
+bip_39_word_new_br8: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty
+bip_39_word_new_br9: visit<br>crunch<br>grunt<br>parade<br>torch<br>nose<br>initial<br>nasty<br>west
+bip_39_word_new_line1: visit
+bip_39_word_new_line10: 'visit
+
+  crunch
+
+  grunt
+
+  parade
+
+  torch
+
+  nose
+
+  initial
+
+  nasty
+
+  west
+
+  update'
+bip_39_word_new_line11: 'visit
+
+  crunch
+
+  grunt
+
+  parade
+
+  torch
+
+  nose
+
+  initial
+
+  nasty
+
+  west
+
+  update
+
+  found'
+bip_39_word_new_line12: 'visit
+
+  crunch
+
+  grunt
+
+  parade
+
+  torch
+
+  nose
+
+  initial
+
+  nasty
+
+  west
+
+  update
+
+  found
+
+  amateur'
+bip_39_word_new_line2: 'visit
+
+  crunch'
+bip_39_word_new_line3: 'visit
+
+  crunch
+
+  grunt'
+bip_39_word_new_line4: 'visit
+
+  crunch
+
+  grunt
+
+  parade'
+bip_39_word_new_line5: 'visit
+
+  crunch
+
+  grunt
+
+  parade
+
+  torch'
+bip_39_word_new_line6: 'visit
+
+  crunch
+
+  grunt
+
+  parade
+
+  torch
+
+  nose'
+bip_39_word_new_line7: 'visit
+
+  crunch
+
+  grunt
+
+  parade
+
+  torch
+
+  nose
+
+  initial'
+bip_39_word_new_line8: 'visit
+
+  crunch
+
+  grunt
+
+  parade
+
+  torch
+
+  nose
+
+  initial
+
+  nasty'
+bip_39_word_new_line9: 'visit
+
+  crunch
+
+  grunt
+
+  parade
+
+  torch
+
+  nose
+
+  initial
+
+  nasty
+
+  west'
+bip_39_word_space_0:
+- visit
+- crunch
+- grunt
+- parade
+- torch
+- nose
+- initial
+- nasty
+- west
+- update
+- found
+- amateur
+bip_39_word_space_1: visit
+bip_39_word_space_10: visit crunch grunt parade torch nose initial nasty west update
+bip_39_word_space_11: visit crunch grunt parade torch nose initial nasty west update
+  found
+bip_39_word_space_12: visit crunch grunt parade torch nose initial nasty west update
+  found amateur
+bip_39_word_space_2: visit crunch
+bip_39_word_space_3: visit crunch grunt
+bip_39_word_space_4: visit crunch grunt parade
+bip_39_word_space_5: visit crunch grunt parade torch
+bip_39_word_space_6: visit crunch grunt parade torch nose
+bip_39_word_space_7: visit crunch grunt parade torch nose initial
+bip_39_word_space_8: visit crunch grunt parade torch nose initial nasty
+bip_39_word_space_9: visit crunch grunt parade torch nose initial nasty west
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

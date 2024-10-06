@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plate door
+  * bip 39 word 3: plate door evoke
+  * bip 39 word: plate door evoke twin index post mesh mixture brown idea blouse angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plate |  
+| bip_39_word_new_br10 | plate<br>door<br>evoke<br>twin<br>index<br>post<br>mesh<br>mixture<br>brown<br>idea |  
+| bip_39_word_new_br11 | plate<br>door<br>evoke<br>twin<br>index<br>post<br>mesh<br>mixture<br>brown<br>idea<br>blouse |  
+| bip_39_word_new_br12 | plate<br>door<br>evoke<br>twin<br>index<br>post<br>mesh<br>mixture<br>brown<br>idea<br>blouse<br>angry |  
+| bip_39_word_new_br2 | plate<br>door |  
+| bip_39_word_new_br3 | plate<br>door<br>evoke |  
+| bip_39_word_new_br4 | plate<br>door<br>evoke<br>twin |  
+| bip_39_word_new_br5 | plate<br>door<br>evoke<br>twin<br>index |  
+| bip_39_word_new_br6 | plate<br>door<br>evoke<br>twin<br>index<br>post |  
+| bip_39_word_new_br7 | plate<br>door<br>evoke<br>twin<br>index<br>post<br>mesh |  
+| bip_39_word_new_br8 | plate<br>door<br>evoke<br>twin<br>index<br>post<br>mesh<br>mixture |  
+| bip_39_word_new_br9 | plate<br>door<br>evoke<br>twin<br>index<br>post<br>mesh<br>mixture<br>brown |  
+| bip_39_word_new_line1 | plate |  
+| bip_39_word_new_line10 | plate
+door
+evoke
+twin
+index
+post
+mesh
+mixture
+brown
+idea |  
+| bip_39_word_new_line11 | plate
+door
+evoke
+twin
+index
+post
+mesh
+mixture
+brown
+idea
+blouse |  
+| bip_39_word_new_line12 | plate
+door
+evoke
+twin
+index
+post
+mesh
+mixture
+brown
+idea
+blouse
+angry |  
+| bip_39_word_new_line2 | plate
+door |  
+| bip_39_word_new_line3 | plate
+door
+evoke |  
+| bip_39_word_new_line4 | plate
+door
+evoke
+twin |  
+| bip_39_word_new_line5 | plate
+door
+evoke
+twin
+index |  
+| bip_39_word_new_line6 | plate
+door
+evoke
+twin
+index
+post |  
+| bip_39_word_new_line7 | plate
+door
+evoke
+twin
+index
+post
+mesh |  
+| bip_39_word_new_line8 | plate
+door
+evoke
+twin
+index
+post
+mesh
+mixture |  
+| bip_39_word_new_line9 | plate
+door
+evoke
+twin
+index
+post
+mesh
+mixture
+brown |  
+| bip_39_word_space_0 | ['plate', 'door', 'evoke', 'twin', 'index', 'post', 'mesh', 'mixture', 'brown', 'idea', 'blouse', 'angry'] |  
+| bip_39_word_space_1 | plate |  
+| bip_39_word_space_10 | plate door evoke twin index post mesh mixture brown idea |  
+| bip_39_word_space_11 | plate door evoke twin index post mesh mixture brown idea blouse |  
+| bip_39_word_space_12 | plate door evoke twin index post mesh mixture brown idea blouse angry |  
+| bip_39_word_space_2 | plate door |  
+| bip_39_word_space_3 | plate door evoke |  
+| bip_39_word_space_4 | plate door evoke twin |  
+| bip_39_word_space_5 | plate door evoke twin index |  
+| bip_39_word_space_6 | plate door evoke twin index post |  
+| bip_39_word_space_7 | plate door evoke twin index post mesh |  
+| bip_39_word_space_8 | plate door evoke twin index post mesh mixture |  
+| bip_39_word_space_9 | plate door evoke twin index post mesh mixture brown |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

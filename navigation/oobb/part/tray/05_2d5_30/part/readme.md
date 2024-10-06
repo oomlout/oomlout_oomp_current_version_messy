@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: key recipe
+  * bip 39 word 3: key recipe enlist
+  * bip 39 word: key recipe enlist suspect health twelve canoe address chunk farm burger account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | key |  
+| bip_39_word_new_br10 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve<br>canoe<br>address<br>chunk<br>farm |  
+| bip_39_word_new_br11 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve<br>canoe<br>address<br>chunk<br>farm<br>burger |  
+| bip_39_word_new_br12 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve<br>canoe<br>address<br>chunk<br>farm<br>burger<br>account |  
+| bip_39_word_new_br2 | key<br>recipe |  
+| bip_39_word_new_br3 | key<br>recipe<br>enlist |  
+| bip_39_word_new_br4 | key<br>recipe<br>enlist<br>suspect |  
+| bip_39_word_new_br5 | key<br>recipe<br>enlist<br>suspect<br>health |  
+| bip_39_word_new_br6 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve |  
+| bip_39_word_new_br7 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve<br>canoe |  
+| bip_39_word_new_br8 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve<br>canoe<br>address |  
+| bip_39_word_new_br9 | key<br>recipe<br>enlist<br>suspect<br>health<br>twelve<br>canoe<br>address<br>chunk |  
+| bip_39_word_new_line1 | key |  
+| bip_39_word_new_line10 | key
+recipe
+enlist
+suspect
+health
+twelve
+canoe
+address
+chunk
+farm |  
+| bip_39_word_new_line11 | key
+recipe
+enlist
+suspect
+health
+twelve
+canoe
+address
+chunk
+farm
+burger |  
+| bip_39_word_new_line12 | key
+recipe
+enlist
+suspect
+health
+twelve
+canoe
+address
+chunk
+farm
+burger
+account |  
+| bip_39_word_new_line2 | key
+recipe |  
+| bip_39_word_new_line3 | key
+recipe
+enlist |  
+| bip_39_word_new_line4 | key
+recipe
+enlist
+suspect |  
+| bip_39_word_new_line5 | key
+recipe
+enlist
+suspect
+health |  
+| bip_39_word_new_line6 | key
+recipe
+enlist
+suspect
+health
+twelve |  
+| bip_39_word_new_line7 | key
+recipe
+enlist
+suspect
+health
+twelve
+canoe |  
+| bip_39_word_new_line8 | key
+recipe
+enlist
+suspect
+health
+twelve
+canoe
+address |  
+| bip_39_word_new_line9 | key
+recipe
+enlist
+suspect
+health
+twelve
+canoe
+address
+chunk |  
+| bip_39_word_space_0 | ['key', 'recipe', 'enlist', 'suspect', 'health', 'twelve', 'canoe', 'address', 'chunk', 'farm', 'burger', 'account'] |  
+| bip_39_word_space_1 | key |  
+| bip_39_word_space_10 | key recipe enlist suspect health twelve canoe address chunk farm |  
+| bip_39_word_space_11 | key recipe enlist suspect health twelve canoe address chunk farm burger |  
+| bip_39_word_space_12 | key recipe enlist suspect health twelve canoe address chunk farm burger account |  
+| bip_39_word_space_2 | key recipe |  
+| bip_39_word_space_3 | key recipe enlist |  
+| bip_39_word_space_4 | key recipe enlist suspect |  
+| bip_39_word_space_5 | key recipe enlist suspect health |  
+| bip_39_word_space_6 | key recipe enlist suspect health twelve |  
+| bip_39_word_space_7 | key recipe enlist suspect health twelve canoe |  
+| bip_39_word_space_8 | key recipe enlist suspect health twelve canoe address |  
+| bip_39_word_space_9 | key recipe enlist suspect health twelve canoe address chunk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

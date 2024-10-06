@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: weird crawl
+  * bip 39 word 3: weird crawl oil
+  * bip 39 word: weird crawl oil thank shock mouse scatter violin middle risk situate amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | weird |  
+| bip_39_word_new_br10 | weird<br>crawl<br>oil<br>thank<br>shock<br>mouse<br>scatter<br>violin<br>middle<br>risk |  
+| bip_39_word_new_br11 | weird<br>crawl<br>oil<br>thank<br>shock<br>mouse<br>scatter<br>violin<br>middle<br>risk<br>situate |  
+| bip_39_word_new_br12 | weird<br>crawl<br>oil<br>thank<br>shock<br>mouse<br>scatter<br>violin<br>middle<br>risk<br>situate<br>amount |  
+| bip_39_word_new_br2 | weird<br>crawl |  
+| bip_39_word_new_br3 | weird<br>crawl<br>oil |  
+| bip_39_word_new_br4 | weird<br>crawl<br>oil<br>thank |  
+| bip_39_word_new_br5 | weird<br>crawl<br>oil<br>thank<br>shock |  
+| bip_39_word_new_br6 | weird<br>crawl<br>oil<br>thank<br>shock<br>mouse |  
+| bip_39_word_new_br7 | weird<br>crawl<br>oil<br>thank<br>shock<br>mouse<br>scatter |  
+| bip_39_word_new_br8 | weird<br>crawl<br>oil<br>thank<br>shock<br>mouse<br>scatter<br>violin |  
+| bip_39_word_new_br9 | weird<br>crawl<br>oil<br>thank<br>shock<br>mouse<br>scatter<br>violin<br>middle |  
+| bip_39_word_new_line1 | weird |  
+| bip_39_word_new_line10 | weird
+crawl
+oil
+thank
+shock
+mouse
+scatter
+violin
+middle
+risk |  
+| bip_39_word_new_line11 | weird
+crawl
+oil
+thank
+shock
+mouse
+scatter
+violin
+middle
+risk
+situate |  
+| bip_39_word_new_line12 | weird
+crawl
+oil
+thank
+shock
+mouse
+scatter
+violin
+middle
+risk
+situate
+amount |  
+| bip_39_word_new_line2 | weird
+crawl |  
+| bip_39_word_new_line3 | weird
+crawl
+oil |  
+| bip_39_word_new_line4 | weird
+crawl
+oil
+thank |  
+| bip_39_word_new_line5 | weird
+crawl
+oil
+thank
+shock |  
+| bip_39_word_new_line6 | weird
+crawl
+oil
+thank
+shock
+mouse |  
+| bip_39_word_new_line7 | weird
+crawl
+oil
+thank
+shock
+mouse
+scatter |  
+| bip_39_word_new_line8 | weird
+crawl
+oil
+thank
+shock
+mouse
+scatter
+violin |  
+| bip_39_word_new_line9 | weird
+crawl
+oil
+thank
+shock
+mouse
+scatter
+violin
+middle |  
+| bip_39_word_space_0 | ['weird', 'crawl', 'oil', 'thank', 'shock', 'mouse', 'scatter', 'violin', 'middle', 'risk', 'situate', 'amount'] |  
+| bip_39_word_space_1 | weird |  
+| bip_39_word_space_10 | weird crawl oil thank shock mouse scatter violin middle risk |  
+| bip_39_word_space_11 | weird crawl oil thank shock mouse scatter violin middle risk situate |  
+| bip_39_word_space_12 | weird crawl oil thank shock mouse scatter violin middle risk situate amount |  
+| bip_39_word_space_2 | weird crawl |  
+| bip_39_word_space_3 | weird crawl oil |  
+| bip_39_word_space_4 | weird crawl oil thank |  
+| bip_39_word_space_5 | weird crawl oil thank shock |  
+| bip_39_word_space_6 | weird crawl oil thank shock mouse |  
+| bip_39_word_space_7 | weird crawl oil thank shock mouse scatter |  
+| bip_39_word_space_8 | weird crawl oil thank shock mouse scatter violin |  
+| bip_39_word_space_9 | weird crawl oil thank shock mouse scatter violin middle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

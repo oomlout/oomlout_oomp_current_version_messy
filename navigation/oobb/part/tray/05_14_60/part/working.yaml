@@ -1,3 +1,186 @@
+bip_39_word_new_br1: useful
+bip_39_word_new_br10: useful<br>butter<br>escape<br>glow<br>gadget<br>father<br>gas<br>able<br>common<br>drastic
+bip_39_word_new_br11: useful<br>butter<br>escape<br>glow<br>gadget<br>father<br>gas<br>able<br>common<br>drastic<br>now
+bip_39_word_new_br12: useful<br>butter<br>escape<br>glow<br>gadget<br>father<br>gas<br>able<br>common<br>drastic<br>now<br>announce
+bip_39_word_new_br2: useful<br>butter
+bip_39_word_new_br3: useful<br>butter<br>escape
+bip_39_word_new_br4: useful<br>butter<br>escape<br>glow
+bip_39_word_new_br5: useful<br>butter<br>escape<br>glow<br>gadget
+bip_39_word_new_br6: useful<br>butter<br>escape<br>glow<br>gadget<br>father
+bip_39_word_new_br7: useful<br>butter<br>escape<br>glow<br>gadget<br>father<br>gas
+bip_39_word_new_br8: useful<br>butter<br>escape<br>glow<br>gadget<br>father<br>gas<br>able
+bip_39_word_new_br9: useful<br>butter<br>escape<br>glow<br>gadget<br>father<br>gas<br>able<br>common
+bip_39_word_new_line1: useful
+bip_39_word_new_line10: 'useful
+
+  butter
+
+  escape
+
+  glow
+
+  gadget
+
+  father
+
+  gas
+
+  able
+
+  common
+
+  drastic'
+bip_39_word_new_line11: 'useful
+
+  butter
+
+  escape
+
+  glow
+
+  gadget
+
+  father
+
+  gas
+
+  able
+
+  common
+
+  drastic
+
+  now'
+bip_39_word_new_line12: 'useful
+
+  butter
+
+  escape
+
+  glow
+
+  gadget
+
+  father
+
+  gas
+
+  able
+
+  common
+
+  drastic
+
+  now
+
+  announce'
+bip_39_word_new_line2: 'useful
+
+  butter'
+bip_39_word_new_line3: 'useful
+
+  butter
+
+  escape'
+bip_39_word_new_line4: 'useful
+
+  butter
+
+  escape
+
+  glow'
+bip_39_word_new_line5: 'useful
+
+  butter
+
+  escape
+
+  glow
+
+  gadget'
+bip_39_word_new_line6: 'useful
+
+  butter
+
+  escape
+
+  glow
+
+  gadget
+
+  father'
+bip_39_word_new_line7: 'useful
+
+  butter
+
+  escape
+
+  glow
+
+  gadget
+
+  father
+
+  gas'
+bip_39_word_new_line8: 'useful
+
+  butter
+
+  escape
+
+  glow
+
+  gadget
+
+  father
+
+  gas
+
+  able'
+bip_39_word_new_line9: 'useful
+
+  butter
+
+  escape
+
+  glow
+
+  gadget
+
+  father
+
+  gas
+
+  able
+
+  common'
+bip_39_word_space_0:
+- useful
+- butter
+- escape
+- glow
+- gadget
+- father
+- gas
+- able
+- common
+- drastic
+- now
+- announce
+bip_39_word_space_1: useful
+bip_39_word_space_10: useful butter escape glow gadget father gas able common drastic
+bip_39_word_space_11: useful butter escape glow gadget father gas able common drastic
+  now
+bip_39_word_space_12: useful butter escape glow gadget father gas able common drastic
+  now announce
+bip_39_word_space_2: useful butter
+bip_39_word_space_3: useful butter escape
+bip_39_word_space_4: useful butter escape glow
+bip_39_word_space_5: useful butter escape glow gadget
+bip_39_word_space_6: useful butter escape glow gadget father
+bip_39_word_space_7: useful butter escape glow gadget father gas
+bip_39_word_space_8: useful butter escape glow gadget father gas able
+bip_39_word_space_9: useful butter escape glow gadget father gas able common
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

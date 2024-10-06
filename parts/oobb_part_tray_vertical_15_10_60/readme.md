@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clap mean
+  * bip 39 word 3: clap mean like
+  * bip 39 word: clap mean like problem pair idea purity practice thank author unit antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clap |  
+| bip_39_word_new_br10 | clap<br>mean<br>like<br>problem<br>pair<br>idea<br>purity<br>practice<br>thank<br>author |  
+| bip_39_word_new_br11 | clap<br>mean<br>like<br>problem<br>pair<br>idea<br>purity<br>practice<br>thank<br>author<br>unit |  
+| bip_39_word_new_br12 | clap<br>mean<br>like<br>problem<br>pair<br>idea<br>purity<br>practice<br>thank<br>author<br>unit<br>antenna |  
+| bip_39_word_new_br2 | clap<br>mean |  
+| bip_39_word_new_br3 | clap<br>mean<br>like |  
+| bip_39_word_new_br4 | clap<br>mean<br>like<br>problem |  
+| bip_39_word_new_br5 | clap<br>mean<br>like<br>problem<br>pair |  
+| bip_39_word_new_br6 | clap<br>mean<br>like<br>problem<br>pair<br>idea |  
+| bip_39_word_new_br7 | clap<br>mean<br>like<br>problem<br>pair<br>idea<br>purity |  
+| bip_39_word_new_br8 | clap<br>mean<br>like<br>problem<br>pair<br>idea<br>purity<br>practice |  
+| bip_39_word_new_br9 | clap<br>mean<br>like<br>problem<br>pair<br>idea<br>purity<br>practice<br>thank |  
+| bip_39_word_new_line1 | clap |  
+| bip_39_word_new_line10 | clap
+mean
+like
+problem
+pair
+idea
+purity
+practice
+thank
+author |  
+| bip_39_word_new_line11 | clap
+mean
+like
+problem
+pair
+idea
+purity
+practice
+thank
+author
+unit |  
+| bip_39_word_new_line12 | clap
+mean
+like
+problem
+pair
+idea
+purity
+practice
+thank
+author
+unit
+antenna |  
+| bip_39_word_new_line2 | clap
+mean |  
+| bip_39_word_new_line3 | clap
+mean
+like |  
+| bip_39_word_new_line4 | clap
+mean
+like
+problem |  
+| bip_39_word_new_line5 | clap
+mean
+like
+problem
+pair |  
+| bip_39_word_new_line6 | clap
+mean
+like
+problem
+pair
+idea |  
+| bip_39_word_new_line7 | clap
+mean
+like
+problem
+pair
+idea
+purity |  
+| bip_39_word_new_line8 | clap
+mean
+like
+problem
+pair
+idea
+purity
+practice |  
+| bip_39_word_new_line9 | clap
+mean
+like
+problem
+pair
+idea
+purity
+practice
+thank |  
+| bip_39_word_space_0 | ['clap', 'mean', 'like', 'problem', 'pair', 'idea', 'purity', 'practice', 'thank', 'author', 'unit', 'antenna'] |  
+| bip_39_word_space_1 | clap |  
+| bip_39_word_space_10 | clap mean like problem pair idea purity practice thank author |  
+| bip_39_word_space_11 | clap mean like problem pair idea purity practice thank author unit |  
+| bip_39_word_space_12 | clap mean like problem pair idea purity practice thank author unit antenna |  
+| bip_39_word_space_2 | clap mean |  
+| bip_39_word_space_3 | clap mean like |  
+| bip_39_word_space_4 | clap mean like problem |  
+| bip_39_word_space_5 | clap mean like problem pair |  
+| bip_39_word_space_6 | clap mean like problem pair idea |  
+| bip_39_word_space_7 | clap mean like problem pair idea purity |  
+| bip_39_word_space_8 | clap mean like problem pair idea purity practice |  
+| bip_39_word_space_9 | clap mean like problem pair idea purity practice thank |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

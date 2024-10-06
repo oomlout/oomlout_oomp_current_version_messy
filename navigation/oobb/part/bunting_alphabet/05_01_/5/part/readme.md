@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hip fancy
+  * bip 39 word 3: hip fancy chapter
+  * bip 39 word: hip fancy chapter merit gift napkin mammal vapor frozen minimum snack all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hip |  
+| bip_39_word_new_br10 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin<br>mammal<br>vapor<br>frozen<br>minimum |  
+| bip_39_word_new_br11 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin<br>mammal<br>vapor<br>frozen<br>minimum<br>snack |  
+| bip_39_word_new_br12 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin<br>mammal<br>vapor<br>frozen<br>minimum<br>snack<br>all |  
+| bip_39_word_new_br2 | hip<br>fancy |  
+| bip_39_word_new_br3 | hip<br>fancy<br>chapter |  
+| bip_39_word_new_br4 | hip<br>fancy<br>chapter<br>merit |  
+| bip_39_word_new_br5 | hip<br>fancy<br>chapter<br>merit<br>gift |  
+| bip_39_word_new_br6 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin |  
+| bip_39_word_new_br7 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin<br>mammal |  
+| bip_39_word_new_br8 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin<br>mammal<br>vapor |  
+| bip_39_word_new_br9 | hip<br>fancy<br>chapter<br>merit<br>gift<br>napkin<br>mammal<br>vapor<br>frozen |  
+| bip_39_word_new_line1 | hip |  
+| bip_39_word_new_line10 | hip
+fancy
+chapter
+merit
+gift
+napkin
+mammal
+vapor
+frozen
+minimum |  
+| bip_39_word_new_line11 | hip
+fancy
+chapter
+merit
+gift
+napkin
+mammal
+vapor
+frozen
+minimum
+snack |  
+| bip_39_word_new_line12 | hip
+fancy
+chapter
+merit
+gift
+napkin
+mammal
+vapor
+frozen
+minimum
+snack
+all |  
+| bip_39_word_new_line2 | hip
+fancy |  
+| bip_39_word_new_line3 | hip
+fancy
+chapter |  
+| bip_39_word_new_line4 | hip
+fancy
+chapter
+merit |  
+| bip_39_word_new_line5 | hip
+fancy
+chapter
+merit
+gift |  
+| bip_39_word_new_line6 | hip
+fancy
+chapter
+merit
+gift
+napkin |  
+| bip_39_word_new_line7 | hip
+fancy
+chapter
+merit
+gift
+napkin
+mammal |  
+| bip_39_word_new_line8 | hip
+fancy
+chapter
+merit
+gift
+napkin
+mammal
+vapor |  
+| bip_39_word_new_line9 | hip
+fancy
+chapter
+merit
+gift
+napkin
+mammal
+vapor
+frozen |  
+| bip_39_word_space_0 | ['hip', 'fancy', 'chapter', 'merit', 'gift', 'napkin', 'mammal', 'vapor', 'frozen', 'minimum', 'snack', 'all'] |  
+| bip_39_word_space_1 | hip |  
+| bip_39_word_space_10 | hip fancy chapter merit gift napkin mammal vapor frozen minimum |  
+| bip_39_word_space_11 | hip fancy chapter merit gift napkin mammal vapor frozen minimum snack |  
+| bip_39_word_space_12 | hip fancy chapter merit gift napkin mammal vapor frozen minimum snack all |  
+| bip_39_word_space_2 | hip fancy |  
+| bip_39_word_space_3 | hip fancy chapter |  
+| bip_39_word_space_4 | hip fancy chapter merit |  
+| bip_39_word_space_5 | hip fancy chapter merit gift |  
+| bip_39_word_space_6 | hip fancy chapter merit gift napkin |  
+| bip_39_word_space_7 | hip fancy chapter merit gift napkin mammal |  
+| bip_39_word_space_8 | hip fancy chapter merit gift napkin mammal vapor |  
+| bip_39_word_space_9 | hip fancy chapter merit gift napkin mammal vapor frozen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

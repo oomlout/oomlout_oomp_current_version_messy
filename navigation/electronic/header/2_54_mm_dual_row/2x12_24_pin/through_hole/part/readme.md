@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: creek twin
+  * bip 39 word 3: creek twin dwarf
+  * bip 39 word: creek twin dwarf young circle tomorrow arrive cool auction all bamboo area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | creek |  
+| bip_39_word_new_br10 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow<br>arrive<br>cool<br>auction<br>all |  
+| bip_39_word_new_br11 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow<br>arrive<br>cool<br>auction<br>all<br>bamboo |  
+| bip_39_word_new_br12 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow<br>arrive<br>cool<br>auction<br>all<br>bamboo<br>area |  
+| bip_39_word_new_br2 | creek<br>twin |  
+| bip_39_word_new_br3 | creek<br>twin<br>dwarf |  
+| bip_39_word_new_br4 | creek<br>twin<br>dwarf<br>young |  
+| bip_39_word_new_br5 | creek<br>twin<br>dwarf<br>young<br>circle |  
+| bip_39_word_new_br6 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow |  
+| bip_39_word_new_br7 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow<br>arrive |  
+| bip_39_word_new_br8 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow<br>arrive<br>cool |  
+| bip_39_word_new_br9 | creek<br>twin<br>dwarf<br>young<br>circle<br>tomorrow<br>arrive<br>cool<br>auction |  
+| bip_39_word_new_line1 | creek |  
+| bip_39_word_new_line10 | creek
+twin
+dwarf
+young
+circle
+tomorrow
+arrive
+cool
+auction
+all |  
+| bip_39_word_new_line11 | creek
+twin
+dwarf
+young
+circle
+tomorrow
+arrive
+cool
+auction
+all
+bamboo |  
+| bip_39_word_new_line12 | creek
+twin
+dwarf
+young
+circle
+tomorrow
+arrive
+cool
+auction
+all
+bamboo
+area |  
+| bip_39_word_new_line2 | creek
+twin |  
+| bip_39_word_new_line3 | creek
+twin
+dwarf |  
+| bip_39_word_new_line4 | creek
+twin
+dwarf
+young |  
+| bip_39_word_new_line5 | creek
+twin
+dwarf
+young
+circle |  
+| bip_39_word_new_line6 | creek
+twin
+dwarf
+young
+circle
+tomorrow |  
+| bip_39_word_new_line7 | creek
+twin
+dwarf
+young
+circle
+tomorrow
+arrive |  
+| bip_39_word_new_line8 | creek
+twin
+dwarf
+young
+circle
+tomorrow
+arrive
+cool |  
+| bip_39_word_new_line9 | creek
+twin
+dwarf
+young
+circle
+tomorrow
+arrive
+cool
+auction |  
+| bip_39_word_space_0 | ['creek', 'twin', 'dwarf', 'young', 'circle', 'tomorrow', 'arrive', 'cool', 'auction', 'all', 'bamboo', 'area'] |  
+| bip_39_word_space_1 | creek |  
+| bip_39_word_space_10 | creek twin dwarf young circle tomorrow arrive cool auction all |  
+| bip_39_word_space_11 | creek twin dwarf young circle tomorrow arrive cool auction all bamboo |  
+| bip_39_word_space_12 | creek twin dwarf young circle tomorrow arrive cool auction all bamboo area |  
+| bip_39_word_space_2 | creek twin |  
+| bip_39_word_space_3 | creek twin dwarf |  
+| bip_39_word_space_4 | creek twin dwarf young |  
+| bip_39_word_space_5 | creek twin dwarf young circle |  
+| bip_39_word_space_6 | creek twin dwarf young circle tomorrow |  
+| bip_39_word_space_7 | creek twin dwarf young circle tomorrow arrive |  
+| bip_39_word_space_8 | creek twin dwarf young circle tomorrow arrive cool |  
+| bip_39_word_space_9 | creek twin dwarf young circle tomorrow arrive cool auction |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

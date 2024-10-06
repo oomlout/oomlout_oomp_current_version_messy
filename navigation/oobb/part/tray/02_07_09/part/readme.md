@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fossil coyote
+  * bip 39 word 3: fossil coyote response
+  * bip 39 word: fossil coyote response record dynamic piece fine useful shaft master middle asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fossil |  
+| bip_39_word_new_br10 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece<br>fine<br>useful<br>shaft<br>master |  
+| bip_39_word_new_br11 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece<br>fine<br>useful<br>shaft<br>master<br>middle |  
+| bip_39_word_new_br12 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece<br>fine<br>useful<br>shaft<br>master<br>middle<br>asthma |  
+| bip_39_word_new_br2 | fossil<br>coyote |  
+| bip_39_word_new_br3 | fossil<br>coyote<br>response |  
+| bip_39_word_new_br4 | fossil<br>coyote<br>response<br>record |  
+| bip_39_word_new_br5 | fossil<br>coyote<br>response<br>record<br>dynamic |  
+| bip_39_word_new_br6 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece |  
+| bip_39_word_new_br7 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece<br>fine |  
+| bip_39_word_new_br8 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece<br>fine<br>useful |  
+| bip_39_word_new_br9 | fossil<br>coyote<br>response<br>record<br>dynamic<br>piece<br>fine<br>useful<br>shaft |  
+| bip_39_word_new_line1 | fossil |  
+| bip_39_word_new_line10 | fossil
+coyote
+response
+record
+dynamic
+piece
+fine
+useful
+shaft
+master |  
+| bip_39_word_new_line11 | fossil
+coyote
+response
+record
+dynamic
+piece
+fine
+useful
+shaft
+master
+middle |  
+| bip_39_word_new_line12 | fossil
+coyote
+response
+record
+dynamic
+piece
+fine
+useful
+shaft
+master
+middle
+asthma |  
+| bip_39_word_new_line2 | fossil
+coyote |  
+| bip_39_word_new_line3 | fossil
+coyote
+response |  
+| bip_39_word_new_line4 | fossil
+coyote
+response
+record |  
+| bip_39_word_new_line5 | fossil
+coyote
+response
+record
+dynamic |  
+| bip_39_word_new_line6 | fossil
+coyote
+response
+record
+dynamic
+piece |  
+| bip_39_word_new_line7 | fossil
+coyote
+response
+record
+dynamic
+piece
+fine |  
+| bip_39_word_new_line8 | fossil
+coyote
+response
+record
+dynamic
+piece
+fine
+useful |  
+| bip_39_word_new_line9 | fossil
+coyote
+response
+record
+dynamic
+piece
+fine
+useful
+shaft |  
+| bip_39_word_space_0 | ['fossil', 'coyote', 'response', 'record', 'dynamic', 'piece', 'fine', 'useful', 'shaft', 'master', 'middle', 'asthma'] |  
+| bip_39_word_space_1 | fossil |  
+| bip_39_word_space_10 | fossil coyote response record dynamic piece fine useful shaft master |  
+| bip_39_word_space_11 | fossil coyote response record dynamic piece fine useful shaft master middle |  
+| bip_39_word_space_12 | fossil coyote response record dynamic piece fine useful shaft master middle asthma |  
+| bip_39_word_space_2 | fossil coyote |  
+| bip_39_word_space_3 | fossil coyote response |  
+| bip_39_word_space_4 | fossil coyote response record |  
+| bip_39_word_space_5 | fossil coyote response record dynamic |  
+| bip_39_word_space_6 | fossil coyote response record dynamic piece |  
+| bip_39_word_space_7 | fossil coyote response record dynamic piece fine |  
+| bip_39_word_space_8 | fossil coyote response record dynamic piece fine useful |  
+| bip_39_word_space_9 | fossil coyote response record dynamic piece fine useful shaft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

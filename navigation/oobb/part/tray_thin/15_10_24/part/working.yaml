@@ -1,3 +1,186 @@
+bip_39_word_new_br1: chair
+bip_39_word_new_br10: chair<br>grant<br>ketchup<br>ring<br>smart<br>agree<br>pulse<br>legal<br>shallow<br>cage
+bip_39_word_new_br11: chair<br>grant<br>ketchup<br>ring<br>smart<br>agree<br>pulse<br>legal<br>shallow<br>cage<br>morning
+bip_39_word_new_br12: chair<br>grant<br>ketchup<br>ring<br>smart<br>agree<br>pulse<br>legal<br>shallow<br>cage<br>morning<br>alcohol
+bip_39_word_new_br2: chair<br>grant
+bip_39_word_new_br3: chair<br>grant<br>ketchup
+bip_39_word_new_br4: chair<br>grant<br>ketchup<br>ring
+bip_39_word_new_br5: chair<br>grant<br>ketchup<br>ring<br>smart
+bip_39_word_new_br6: chair<br>grant<br>ketchup<br>ring<br>smart<br>agree
+bip_39_word_new_br7: chair<br>grant<br>ketchup<br>ring<br>smart<br>agree<br>pulse
+bip_39_word_new_br8: chair<br>grant<br>ketchup<br>ring<br>smart<br>agree<br>pulse<br>legal
+bip_39_word_new_br9: chair<br>grant<br>ketchup<br>ring<br>smart<br>agree<br>pulse<br>legal<br>shallow
+bip_39_word_new_line1: chair
+bip_39_word_new_line10: 'chair
+
+  grant
+
+  ketchup
+
+  ring
+
+  smart
+
+  agree
+
+  pulse
+
+  legal
+
+  shallow
+
+  cage'
+bip_39_word_new_line11: 'chair
+
+  grant
+
+  ketchup
+
+  ring
+
+  smart
+
+  agree
+
+  pulse
+
+  legal
+
+  shallow
+
+  cage
+
+  morning'
+bip_39_word_new_line12: 'chair
+
+  grant
+
+  ketchup
+
+  ring
+
+  smart
+
+  agree
+
+  pulse
+
+  legal
+
+  shallow
+
+  cage
+
+  morning
+
+  alcohol'
+bip_39_word_new_line2: 'chair
+
+  grant'
+bip_39_word_new_line3: 'chair
+
+  grant
+
+  ketchup'
+bip_39_word_new_line4: 'chair
+
+  grant
+
+  ketchup
+
+  ring'
+bip_39_word_new_line5: 'chair
+
+  grant
+
+  ketchup
+
+  ring
+
+  smart'
+bip_39_word_new_line6: 'chair
+
+  grant
+
+  ketchup
+
+  ring
+
+  smart
+
+  agree'
+bip_39_word_new_line7: 'chair
+
+  grant
+
+  ketchup
+
+  ring
+
+  smart
+
+  agree
+
+  pulse'
+bip_39_word_new_line8: 'chair
+
+  grant
+
+  ketchup
+
+  ring
+
+  smart
+
+  agree
+
+  pulse
+
+  legal'
+bip_39_word_new_line9: 'chair
+
+  grant
+
+  ketchup
+
+  ring
+
+  smart
+
+  agree
+
+  pulse
+
+  legal
+
+  shallow'
+bip_39_word_space_0:
+- chair
+- grant
+- ketchup
+- ring
+- smart
+- agree
+- pulse
+- legal
+- shallow
+- cage
+- morning
+- alcohol
+bip_39_word_space_1: chair
+bip_39_word_space_10: chair grant ketchup ring smart agree pulse legal shallow cage
+bip_39_word_space_11: chair grant ketchup ring smart agree pulse legal shallow cage
+  morning
+bip_39_word_space_12: chair grant ketchup ring smart agree pulse legal shallow cage
+  morning alcohol
+bip_39_word_space_2: chair grant
+bip_39_word_space_3: chair grant ketchup
+bip_39_word_space_4: chair grant ketchup ring
+bip_39_word_space_5: chair grant ketchup ring smart
+bip_39_word_space_6: chair grant ketchup ring smart agree
+bip_39_word_space_7: chair grant ketchup ring smart agree pulse
+bip_39_word_space_8: chair grant ketchup ring smart agree pulse legal
+bip_39_word_space_9: chair grant ketchup ring smart agree pulse legal shallow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

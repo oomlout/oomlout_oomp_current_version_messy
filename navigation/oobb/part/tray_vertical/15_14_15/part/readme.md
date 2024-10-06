@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prosper habit
+  * bip 39 word 3: prosper habit all
+  * bip 39 word: prosper habit all dry leg web female today gospel hedgehog almost addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prosper |  
+| bip_39_word_new_br10 | prosper<br>habit<br>all<br>dry<br>leg<br>web<br>female<br>today<br>gospel<br>hedgehog |  
+| bip_39_word_new_br11 | prosper<br>habit<br>all<br>dry<br>leg<br>web<br>female<br>today<br>gospel<br>hedgehog<br>almost |  
+| bip_39_word_new_br12 | prosper<br>habit<br>all<br>dry<br>leg<br>web<br>female<br>today<br>gospel<br>hedgehog<br>almost<br>addict |  
+| bip_39_word_new_br2 | prosper<br>habit |  
+| bip_39_word_new_br3 | prosper<br>habit<br>all |  
+| bip_39_word_new_br4 | prosper<br>habit<br>all<br>dry |  
+| bip_39_word_new_br5 | prosper<br>habit<br>all<br>dry<br>leg |  
+| bip_39_word_new_br6 | prosper<br>habit<br>all<br>dry<br>leg<br>web |  
+| bip_39_word_new_br7 | prosper<br>habit<br>all<br>dry<br>leg<br>web<br>female |  
+| bip_39_word_new_br8 | prosper<br>habit<br>all<br>dry<br>leg<br>web<br>female<br>today |  
+| bip_39_word_new_br9 | prosper<br>habit<br>all<br>dry<br>leg<br>web<br>female<br>today<br>gospel |  
+| bip_39_word_new_line1 | prosper |  
+| bip_39_word_new_line10 | prosper
+habit
+all
+dry
+leg
+web
+female
+today
+gospel
+hedgehog |  
+| bip_39_word_new_line11 | prosper
+habit
+all
+dry
+leg
+web
+female
+today
+gospel
+hedgehog
+almost |  
+| bip_39_word_new_line12 | prosper
+habit
+all
+dry
+leg
+web
+female
+today
+gospel
+hedgehog
+almost
+addict |  
+| bip_39_word_new_line2 | prosper
+habit |  
+| bip_39_word_new_line3 | prosper
+habit
+all |  
+| bip_39_word_new_line4 | prosper
+habit
+all
+dry |  
+| bip_39_word_new_line5 | prosper
+habit
+all
+dry
+leg |  
+| bip_39_word_new_line6 | prosper
+habit
+all
+dry
+leg
+web |  
+| bip_39_word_new_line7 | prosper
+habit
+all
+dry
+leg
+web
+female |  
+| bip_39_word_new_line8 | prosper
+habit
+all
+dry
+leg
+web
+female
+today |  
+| bip_39_word_new_line9 | prosper
+habit
+all
+dry
+leg
+web
+female
+today
+gospel |  
+| bip_39_word_space_0 | ['prosper', 'habit', 'all', 'dry', 'leg', 'web', 'female', 'today', 'gospel', 'hedgehog', 'almost', 'addict'] |  
+| bip_39_word_space_1 | prosper |  
+| bip_39_word_space_10 | prosper habit all dry leg web female today gospel hedgehog |  
+| bip_39_word_space_11 | prosper habit all dry leg web female today gospel hedgehog almost |  
+| bip_39_word_space_12 | prosper habit all dry leg web female today gospel hedgehog almost addict |  
+| bip_39_word_space_2 | prosper habit |  
+| bip_39_word_space_3 | prosper habit all |  
+| bip_39_word_space_4 | prosper habit all dry |  
+| bip_39_word_space_5 | prosper habit all dry leg |  
+| bip_39_word_space_6 | prosper habit all dry leg web |  
+| bip_39_word_space_7 | prosper habit all dry leg web female |  
+| bip_39_word_space_8 | prosper habit all dry leg web female today |  
+| bip_39_word_space_9 | prosper habit all dry leg web female today gospel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

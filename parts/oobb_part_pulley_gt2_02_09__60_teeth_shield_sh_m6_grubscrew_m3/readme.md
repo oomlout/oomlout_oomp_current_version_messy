@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_shield_sh_m6_grubscrew_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: snake hollow
+  * bip 39 word 3: snake hollow initial
+  * bip 39 word: snake hollow initial stick bird wet learn program share useless switch ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | snake |  
+| bip_39_word_new_br10 | snake<br>hollow<br>initial<br>stick<br>bird<br>wet<br>learn<br>program<br>share<br>useless |  
+| bip_39_word_new_br11 | snake<br>hollow<br>initial<br>stick<br>bird<br>wet<br>learn<br>program<br>share<br>useless<br>switch |  
+| bip_39_word_new_br12 | snake<br>hollow<br>initial<br>stick<br>bird<br>wet<br>learn<br>program<br>share<br>useless<br>switch<br>ankle |  
+| bip_39_word_new_br2 | snake<br>hollow |  
+| bip_39_word_new_br3 | snake<br>hollow<br>initial |  
+| bip_39_word_new_br4 | snake<br>hollow<br>initial<br>stick |  
+| bip_39_word_new_br5 | snake<br>hollow<br>initial<br>stick<br>bird |  
+| bip_39_word_new_br6 | snake<br>hollow<br>initial<br>stick<br>bird<br>wet |  
+| bip_39_word_new_br7 | snake<br>hollow<br>initial<br>stick<br>bird<br>wet<br>learn |  
+| bip_39_word_new_br8 | snake<br>hollow<br>initial<br>stick<br>bird<br>wet<br>learn<br>program |  
+| bip_39_word_new_br9 | snake<br>hollow<br>initial<br>stick<br>bird<br>wet<br>learn<br>program<br>share |  
+| bip_39_word_new_line1 | snake |  
+| bip_39_word_new_line10 | snake
+hollow
+initial
+stick
+bird
+wet
+learn
+program
+share
+useless |  
+| bip_39_word_new_line11 | snake
+hollow
+initial
+stick
+bird
+wet
+learn
+program
+share
+useless
+switch |  
+| bip_39_word_new_line12 | snake
+hollow
+initial
+stick
+bird
+wet
+learn
+program
+share
+useless
+switch
+ankle |  
+| bip_39_word_new_line2 | snake
+hollow |  
+| bip_39_word_new_line3 | snake
+hollow
+initial |  
+| bip_39_word_new_line4 | snake
+hollow
+initial
+stick |  
+| bip_39_word_new_line5 | snake
+hollow
+initial
+stick
+bird |  
+| bip_39_word_new_line6 | snake
+hollow
+initial
+stick
+bird
+wet |  
+| bip_39_word_new_line7 | snake
+hollow
+initial
+stick
+bird
+wet
+learn |  
+| bip_39_word_new_line8 | snake
+hollow
+initial
+stick
+bird
+wet
+learn
+program |  
+| bip_39_word_new_line9 | snake
+hollow
+initial
+stick
+bird
+wet
+learn
+program
+share |  
+| bip_39_word_space_0 | ['snake', 'hollow', 'initial', 'stick', 'bird', 'wet', 'learn', 'program', 'share', 'useless', 'switch', 'ankle'] |  
+| bip_39_word_space_1 | snake |  
+| bip_39_word_space_10 | snake hollow initial stick bird wet learn program share useless |  
+| bip_39_word_space_11 | snake hollow initial stick bird wet learn program share useless switch |  
+| bip_39_word_space_12 | snake hollow initial stick bird wet learn program share useless switch ankle |  
+| bip_39_word_space_2 | snake hollow |  
+| bip_39_word_space_3 | snake hollow initial |  
+| bip_39_word_space_4 | snake hollow initial stick |  
+| bip_39_word_space_5 | snake hollow initial stick bird |  
+| bip_39_word_space_6 | snake hollow initial stick bird wet |  
+| bip_39_word_space_7 | snake hollow initial stick bird wet learn |  
+| bip_39_word_space_8 | snake hollow initial stick bird wet learn program |  
+| bip_39_word_space_9 | snake hollow initial stick bird wet learn program share |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

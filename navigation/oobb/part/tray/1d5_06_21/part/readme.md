@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: click only
+  * bip 39 word 3: click only glimpse
+  * bip 39 word: click only glimpse delay wood leisure noble split close staff glory audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | click |  
+| bip_39_word_new_br10 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure<br>noble<br>split<br>close<br>staff |  
+| bip_39_word_new_br11 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure<br>noble<br>split<br>close<br>staff<br>glory |  
+| bip_39_word_new_br12 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure<br>noble<br>split<br>close<br>staff<br>glory<br>audit |  
+| bip_39_word_new_br2 | click<br>only |  
+| bip_39_word_new_br3 | click<br>only<br>glimpse |  
+| bip_39_word_new_br4 | click<br>only<br>glimpse<br>delay |  
+| bip_39_word_new_br5 | click<br>only<br>glimpse<br>delay<br>wood |  
+| bip_39_word_new_br6 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure |  
+| bip_39_word_new_br7 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure<br>noble |  
+| bip_39_word_new_br8 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure<br>noble<br>split |  
+| bip_39_word_new_br9 | click<br>only<br>glimpse<br>delay<br>wood<br>leisure<br>noble<br>split<br>close |  
+| bip_39_word_new_line1 | click |  
+| bip_39_word_new_line10 | click
+only
+glimpse
+delay
+wood
+leisure
+noble
+split
+close
+staff |  
+| bip_39_word_new_line11 | click
+only
+glimpse
+delay
+wood
+leisure
+noble
+split
+close
+staff
+glory |  
+| bip_39_word_new_line12 | click
+only
+glimpse
+delay
+wood
+leisure
+noble
+split
+close
+staff
+glory
+audit |  
+| bip_39_word_new_line2 | click
+only |  
+| bip_39_word_new_line3 | click
+only
+glimpse |  
+| bip_39_word_new_line4 | click
+only
+glimpse
+delay |  
+| bip_39_word_new_line5 | click
+only
+glimpse
+delay
+wood |  
+| bip_39_word_new_line6 | click
+only
+glimpse
+delay
+wood
+leisure |  
+| bip_39_word_new_line7 | click
+only
+glimpse
+delay
+wood
+leisure
+noble |  
+| bip_39_word_new_line8 | click
+only
+glimpse
+delay
+wood
+leisure
+noble
+split |  
+| bip_39_word_new_line9 | click
+only
+glimpse
+delay
+wood
+leisure
+noble
+split
+close |  
+| bip_39_word_space_0 | ['click', 'only', 'glimpse', 'delay', 'wood', 'leisure', 'noble', 'split', 'close', 'staff', 'glory', 'audit'] |  
+| bip_39_word_space_1 | click |  
+| bip_39_word_space_10 | click only glimpse delay wood leisure noble split close staff |  
+| bip_39_word_space_11 | click only glimpse delay wood leisure noble split close staff glory |  
+| bip_39_word_space_12 | click only glimpse delay wood leisure noble split close staff glory audit |  
+| bip_39_word_space_2 | click only |  
+| bip_39_word_space_3 | click only glimpse |  
+| bip_39_word_space_4 | click only glimpse delay |  
+| bip_39_word_space_5 | click only glimpse delay wood |  
+| bip_39_word_space_6 | click only glimpse delay wood leisure |  
+| bip_39_word_space_7 | click only glimpse delay wood leisure noble |  
+| bip_39_word_space_8 | click only glimpse delay wood leisure noble split |  
+| bip_39_word_space_9 | click only glimpse delay wood leisure noble split close |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: acid flock
+  * bip 39 word 3: acid flock nuclear
+  * bip 39 word: acid flock nuclear rich city mobile stage casino case pitch satisfy add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | acid |  
+| bip_39_word_new_br10 | acid<br>flock<br>nuclear<br>rich<br>city<br>mobile<br>stage<br>casino<br>case<br>pitch |  
+| bip_39_word_new_br11 | acid<br>flock<br>nuclear<br>rich<br>city<br>mobile<br>stage<br>casino<br>case<br>pitch<br>satisfy |  
+| bip_39_word_new_br12 | acid<br>flock<br>nuclear<br>rich<br>city<br>mobile<br>stage<br>casino<br>case<br>pitch<br>satisfy<br>add |  
+| bip_39_word_new_br2 | acid<br>flock |  
+| bip_39_word_new_br3 | acid<br>flock<br>nuclear |  
+| bip_39_word_new_br4 | acid<br>flock<br>nuclear<br>rich |  
+| bip_39_word_new_br5 | acid<br>flock<br>nuclear<br>rich<br>city |  
+| bip_39_word_new_br6 | acid<br>flock<br>nuclear<br>rich<br>city<br>mobile |  
+| bip_39_word_new_br7 | acid<br>flock<br>nuclear<br>rich<br>city<br>mobile<br>stage |  
+| bip_39_word_new_br8 | acid<br>flock<br>nuclear<br>rich<br>city<br>mobile<br>stage<br>casino |  
+| bip_39_word_new_br9 | acid<br>flock<br>nuclear<br>rich<br>city<br>mobile<br>stage<br>casino<br>case |  
+| bip_39_word_new_line1 | acid |  
+| bip_39_word_new_line10 | acid
+flock
+nuclear
+rich
+city
+mobile
+stage
+casino
+case
+pitch |  
+| bip_39_word_new_line11 | acid
+flock
+nuclear
+rich
+city
+mobile
+stage
+casino
+case
+pitch
+satisfy |  
+| bip_39_word_new_line12 | acid
+flock
+nuclear
+rich
+city
+mobile
+stage
+casino
+case
+pitch
+satisfy
+add |  
+| bip_39_word_new_line2 | acid
+flock |  
+| bip_39_word_new_line3 | acid
+flock
+nuclear |  
+| bip_39_word_new_line4 | acid
+flock
+nuclear
+rich |  
+| bip_39_word_new_line5 | acid
+flock
+nuclear
+rich
+city |  
+| bip_39_word_new_line6 | acid
+flock
+nuclear
+rich
+city
+mobile |  
+| bip_39_word_new_line7 | acid
+flock
+nuclear
+rich
+city
+mobile
+stage |  
+| bip_39_word_new_line8 | acid
+flock
+nuclear
+rich
+city
+mobile
+stage
+casino |  
+| bip_39_word_new_line9 | acid
+flock
+nuclear
+rich
+city
+mobile
+stage
+casino
+case |  
+| bip_39_word_space_0 | ['acid', 'flock', 'nuclear', 'rich', 'city', 'mobile', 'stage', 'casino', 'case', 'pitch', 'satisfy', 'add'] |  
+| bip_39_word_space_1 | acid |  
+| bip_39_word_space_10 | acid flock nuclear rich city mobile stage casino case pitch |  
+| bip_39_word_space_11 | acid flock nuclear rich city mobile stage casino case pitch satisfy |  
+| bip_39_word_space_12 | acid flock nuclear rich city mobile stage casino case pitch satisfy add |  
+| bip_39_word_space_2 | acid flock |  
+| bip_39_word_space_3 | acid flock nuclear |  
+| bip_39_word_space_4 | acid flock nuclear rich |  
+| bip_39_word_space_5 | acid flock nuclear rich city |  
+| bip_39_word_space_6 | acid flock nuclear rich city mobile |  
+| bip_39_word_space_7 | acid flock nuclear rich city mobile stage |  
+| bip_39_word_space_8 | acid flock nuclear rich city mobile stage casino |  
+| bip_39_word_space_9 | acid flock nuclear rich city mobile stage casino case |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

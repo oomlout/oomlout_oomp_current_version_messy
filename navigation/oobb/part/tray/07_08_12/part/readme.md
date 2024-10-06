@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: print giggle
+  * bip 39 word 3: print giggle genius
+  * bip 39 word: print giggle genius thing bargain buzz bench flee suggest pride grunt absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | print |  
+| bip_39_word_new_br10 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride |  
+| bip_39_word_new_br11 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride<br>grunt |  
+| bip_39_word_new_br12 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest<br>pride<br>grunt<br>absorb |  
+| bip_39_word_new_br2 | print<br>giggle |  
+| bip_39_word_new_br3 | print<br>giggle<br>genius |  
+| bip_39_word_new_br4 | print<br>giggle<br>genius<br>thing |  
+| bip_39_word_new_br5 | print<br>giggle<br>genius<br>thing<br>bargain |  
+| bip_39_word_new_br6 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz |  
+| bip_39_word_new_br7 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench |  
+| bip_39_word_new_br8 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee |  
+| bip_39_word_new_br9 | print<br>giggle<br>genius<br>thing<br>bargain<br>buzz<br>bench<br>flee<br>suggest |  
+| bip_39_word_new_line1 | print |  
+| bip_39_word_new_line10 | print
+giggle
+genius
+thing
+bargain
+buzz
+bench
+flee
+suggest
+pride |  
+| bip_39_word_new_line11 | print
+giggle
+genius
+thing
+bargain
+buzz
+bench
+flee
+suggest
+pride
+grunt |  
+| bip_39_word_new_line12 | print
+giggle
+genius
+thing
+bargain
+buzz
+bench
+flee
+suggest
+pride
+grunt
+absorb |  
+| bip_39_word_new_line2 | print
+giggle |  
+| bip_39_word_new_line3 | print
+giggle
+genius |  
+| bip_39_word_new_line4 | print
+giggle
+genius
+thing |  
+| bip_39_word_new_line5 | print
+giggle
+genius
+thing
+bargain |  
+| bip_39_word_new_line6 | print
+giggle
+genius
+thing
+bargain
+buzz |  
+| bip_39_word_new_line7 | print
+giggle
+genius
+thing
+bargain
+buzz
+bench |  
+| bip_39_word_new_line8 | print
+giggle
+genius
+thing
+bargain
+buzz
+bench
+flee |  
+| bip_39_word_new_line9 | print
+giggle
+genius
+thing
+bargain
+buzz
+bench
+flee
+suggest |  
+| bip_39_word_space_0 | ['print', 'giggle', 'genius', 'thing', 'bargain', 'buzz', 'bench', 'flee', 'suggest', 'pride', 'grunt', 'absorb'] |  
+| bip_39_word_space_1 | print |  
+| bip_39_word_space_10 | print giggle genius thing bargain buzz bench flee suggest pride |  
+| bip_39_word_space_11 | print giggle genius thing bargain buzz bench flee suggest pride grunt |  
+| bip_39_word_space_12 | print giggle genius thing bargain buzz bench flee suggest pride grunt absorb |  
+| bip_39_word_space_2 | print giggle |  
+| bip_39_word_space_3 | print giggle genius |  
+| bip_39_word_space_4 | print giggle genius thing |  
+| bip_39_word_space_5 | print giggle genius thing bargain |  
+| bip_39_word_space_6 | print giggle genius thing bargain buzz |  
+| bip_39_word_space_7 | print giggle genius thing bargain buzz bench |  
+| bip_39_word_space_8 | print giggle genius thing bargain buzz bench flee |  
+| bip_39_word_space_9 | print giggle genius thing bargain buzz bench flee suggest |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

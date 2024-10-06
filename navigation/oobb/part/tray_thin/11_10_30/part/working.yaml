@@ -1,3 +1,186 @@
+bip_39_word_new_br1: naive
+bip_39_word_new_br10: naive<br>thank<br>danger<br>business<br>cave<br>music<br>fiscal<br>zoo<br>critic<br>warm
+bip_39_word_new_br11: naive<br>thank<br>danger<br>business<br>cave<br>music<br>fiscal<br>zoo<br>critic<br>warm<br>polar
+bip_39_word_new_br12: naive<br>thank<br>danger<br>business<br>cave<br>music<br>fiscal<br>zoo<br>critic<br>warm<br>polar<br>alcohol
+bip_39_word_new_br2: naive<br>thank
+bip_39_word_new_br3: naive<br>thank<br>danger
+bip_39_word_new_br4: naive<br>thank<br>danger<br>business
+bip_39_word_new_br5: naive<br>thank<br>danger<br>business<br>cave
+bip_39_word_new_br6: naive<br>thank<br>danger<br>business<br>cave<br>music
+bip_39_word_new_br7: naive<br>thank<br>danger<br>business<br>cave<br>music<br>fiscal
+bip_39_word_new_br8: naive<br>thank<br>danger<br>business<br>cave<br>music<br>fiscal<br>zoo
+bip_39_word_new_br9: naive<br>thank<br>danger<br>business<br>cave<br>music<br>fiscal<br>zoo<br>critic
+bip_39_word_new_line1: naive
+bip_39_word_new_line10: 'naive
+
+  thank
+
+  danger
+
+  business
+
+  cave
+
+  music
+
+  fiscal
+
+  zoo
+
+  critic
+
+  warm'
+bip_39_word_new_line11: 'naive
+
+  thank
+
+  danger
+
+  business
+
+  cave
+
+  music
+
+  fiscal
+
+  zoo
+
+  critic
+
+  warm
+
+  polar'
+bip_39_word_new_line12: 'naive
+
+  thank
+
+  danger
+
+  business
+
+  cave
+
+  music
+
+  fiscal
+
+  zoo
+
+  critic
+
+  warm
+
+  polar
+
+  alcohol'
+bip_39_word_new_line2: 'naive
+
+  thank'
+bip_39_word_new_line3: 'naive
+
+  thank
+
+  danger'
+bip_39_word_new_line4: 'naive
+
+  thank
+
+  danger
+
+  business'
+bip_39_word_new_line5: 'naive
+
+  thank
+
+  danger
+
+  business
+
+  cave'
+bip_39_word_new_line6: 'naive
+
+  thank
+
+  danger
+
+  business
+
+  cave
+
+  music'
+bip_39_word_new_line7: 'naive
+
+  thank
+
+  danger
+
+  business
+
+  cave
+
+  music
+
+  fiscal'
+bip_39_word_new_line8: 'naive
+
+  thank
+
+  danger
+
+  business
+
+  cave
+
+  music
+
+  fiscal
+
+  zoo'
+bip_39_word_new_line9: 'naive
+
+  thank
+
+  danger
+
+  business
+
+  cave
+
+  music
+
+  fiscal
+
+  zoo
+
+  critic'
+bip_39_word_space_0:
+- naive
+- thank
+- danger
+- business
+- cave
+- music
+- fiscal
+- zoo
+- critic
+- warm
+- polar
+- alcohol
+bip_39_word_space_1: naive
+bip_39_word_space_10: naive thank danger business cave music fiscal zoo critic warm
+bip_39_word_space_11: naive thank danger business cave music fiscal zoo critic warm
+  polar
+bip_39_word_space_12: naive thank danger business cave music fiscal zoo critic warm
+  polar alcohol
+bip_39_word_space_2: naive thank
+bip_39_word_space_3: naive thank danger
+bip_39_word_space_4: naive thank danger business
+bip_39_word_space_5: naive thank danger business cave
+bip_39_word_space_6: naive thank danger business cave music
+bip_39_word_space_7: naive thank danger business cave music fiscal
+bip_39_word_space_8: naive thank danger business cave music fiscal zoo
+bip_39_word_space_9: naive thank danger business cave music fiscal zoo critic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

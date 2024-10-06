@@ -1,3 +1,186 @@
+bip_39_word_new_br1: special
+bip_39_word_new_br10: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final
+bip_39_word_new_br11: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final<br>busy
+bip_39_word_new_br12: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink<br>final<br>busy<br>achieve
+bip_39_word_new_br2: special<br>light
+bip_39_word_new_br3: special<br>light<br>crowd
+bip_39_word_new_br4: special<br>light<br>crowd<br>shiver
+bip_39_word_new_br5: special<br>light<br>crowd<br>shiver<br>stomach
+bip_39_word_new_br6: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak
+bip_39_word_new_br7: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo
+bip_39_word_new_br8: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace
+bip_39_word_new_br9: special<br>light<br>crowd<br>shiver<br>stomach<br>bleak<br>bamboo<br>peace<br>pink
+bip_39_word_new_line1: special
+bip_39_word_new_line10: 'special
+
+  light
+
+  crowd
+
+  shiver
+
+  stomach
+
+  bleak
+
+  bamboo
+
+  peace
+
+  pink
+
+  final'
+bip_39_word_new_line11: 'special
+
+  light
+
+  crowd
+
+  shiver
+
+  stomach
+
+  bleak
+
+  bamboo
+
+  peace
+
+  pink
+
+  final
+
+  busy'
+bip_39_word_new_line12: 'special
+
+  light
+
+  crowd
+
+  shiver
+
+  stomach
+
+  bleak
+
+  bamboo
+
+  peace
+
+  pink
+
+  final
+
+  busy
+
+  achieve'
+bip_39_word_new_line2: 'special
+
+  light'
+bip_39_word_new_line3: 'special
+
+  light
+
+  crowd'
+bip_39_word_new_line4: 'special
+
+  light
+
+  crowd
+
+  shiver'
+bip_39_word_new_line5: 'special
+
+  light
+
+  crowd
+
+  shiver
+
+  stomach'
+bip_39_word_new_line6: 'special
+
+  light
+
+  crowd
+
+  shiver
+
+  stomach
+
+  bleak'
+bip_39_word_new_line7: 'special
+
+  light
+
+  crowd
+
+  shiver
+
+  stomach
+
+  bleak
+
+  bamboo'
+bip_39_word_new_line8: 'special
+
+  light
+
+  crowd
+
+  shiver
+
+  stomach
+
+  bleak
+
+  bamboo
+
+  peace'
+bip_39_word_new_line9: 'special
+
+  light
+
+  crowd
+
+  shiver
+
+  stomach
+
+  bleak
+
+  bamboo
+
+  peace
+
+  pink'
+bip_39_word_space_0:
+- special
+- light
+- crowd
+- shiver
+- stomach
+- bleak
+- bamboo
+- peace
+- pink
+- final
+- busy
+- achieve
+bip_39_word_space_1: special
+bip_39_word_space_10: special light crowd shiver stomach bleak bamboo peace pink final
+bip_39_word_space_11: special light crowd shiver stomach bleak bamboo peace pink final
+  busy
+bip_39_word_space_12: special light crowd shiver stomach bleak bamboo peace pink final
+  busy achieve
+bip_39_word_space_2: special light
+bip_39_word_space_3: special light crowd
+bip_39_word_space_4: special light crowd shiver
+bip_39_word_space_5: special light crowd shiver stomach
+bip_39_word_space_6: special light crowd shiver stomach bleak
+bip_39_word_space_7: special light crowd shiver stomach bleak bamboo
+bip_39_word_space_8: special light crowd shiver stomach bleak bamboo peace
+bip_39_word_space_9: special light crowd shiver stomach bleak bamboo peace pink
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

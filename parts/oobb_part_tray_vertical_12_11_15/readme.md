@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: join human
+  * bip 39 word 3: join human humor
+  * bip 39 word: join human humor maple blanket lift stage disease quality life waste apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | join |  
+| bip_39_word_new_br10 | join<br>human<br>humor<br>maple<br>blanket<br>lift<br>stage<br>disease<br>quality<br>life |  
+| bip_39_word_new_br11 | join<br>human<br>humor<br>maple<br>blanket<br>lift<br>stage<br>disease<br>quality<br>life<br>waste |  
+| bip_39_word_new_br12 | join<br>human<br>humor<br>maple<br>blanket<br>lift<br>stage<br>disease<br>quality<br>life<br>waste<br>apart |  
+| bip_39_word_new_br2 | join<br>human |  
+| bip_39_word_new_br3 | join<br>human<br>humor |  
+| bip_39_word_new_br4 | join<br>human<br>humor<br>maple |  
+| bip_39_word_new_br5 | join<br>human<br>humor<br>maple<br>blanket |  
+| bip_39_word_new_br6 | join<br>human<br>humor<br>maple<br>blanket<br>lift |  
+| bip_39_word_new_br7 | join<br>human<br>humor<br>maple<br>blanket<br>lift<br>stage |  
+| bip_39_word_new_br8 | join<br>human<br>humor<br>maple<br>blanket<br>lift<br>stage<br>disease |  
+| bip_39_word_new_br9 | join<br>human<br>humor<br>maple<br>blanket<br>lift<br>stage<br>disease<br>quality |  
+| bip_39_word_new_line1 | join |  
+| bip_39_word_new_line10 | join
+human
+humor
+maple
+blanket
+lift
+stage
+disease
+quality
+life |  
+| bip_39_word_new_line11 | join
+human
+humor
+maple
+blanket
+lift
+stage
+disease
+quality
+life
+waste |  
+| bip_39_word_new_line12 | join
+human
+humor
+maple
+blanket
+lift
+stage
+disease
+quality
+life
+waste
+apart |  
+| bip_39_word_new_line2 | join
+human |  
+| bip_39_word_new_line3 | join
+human
+humor |  
+| bip_39_word_new_line4 | join
+human
+humor
+maple |  
+| bip_39_word_new_line5 | join
+human
+humor
+maple
+blanket |  
+| bip_39_word_new_line6 | join
+human
+humor
+maple
+blanket
+lift |  
+| bip_39_word_new_line7 | join
+human
+humor
+maple
+blanket
+lift
+stage |  
+| bip_39_word_new_line8 | join
+human
+humor
+maple
+blanket
+lift
+stage
+disease |  
+| bip_39_word_new_line9 | join
+human
+humor
+maple
+blanket
+lift
+stage
+disease
+quality |  
+| bip_39_word_space_0 | ['join', 'human', 'humor', 'maple', 'blanket', 'lift', 'stage', 'disease', 'quality', 'life', 'waste', 'apart'] |  
+| bip_39_word_space_1 | join |  
+| bip_39_word_space_10 | join human humor maple blanket lift stage disease quality life |  
+| bip_39_word_space_11 | join human humor maple blanket lift stage disease quality life waste |  
+| bip_39_word_space_12 | join human humor maple blanket lift stage disease quality life waste apart |  
+| bip_39_word_space_2 | join human |  
+| bip_39_word_space_3 | join human humor |  
+| bip_39_word_space_4 | join human humor maple |  
+| bip_39_word_space_5 | join human humor maple blanket |  
+| bip_39_word_space_6 | join human humor maple blanket lift |  
+| bip_39_word_space_7 | join human humor maple blanket lift stage |  
+| bip_39_word_space_8 | join human humor maple blanket lift stage disease |  
+| bip_39_word_space_9 | join human humor maple blanket lift stage disease quality |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

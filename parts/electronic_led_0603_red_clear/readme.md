@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: barrel expose
+  * bip 39 word 3: barrel expose sing
+  * bip 39 word: barrel expose sing spirit cream visa glad rigid galaxy merry such aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | barrel |  
+| bip_39_word_new_br10 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa<br>glad<br>rigid<br>galaxy<br>merry |  
+| bip_39_word_new_br11 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa<br>glad<br>rigid<br>galaxy<br>merry<br>such |  
+| bip_39_word_new_br12 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa<br>glad<br>rigid<br>galaxy<br>merry<br>such<br>aerobic |  
+| bip_39_word_new_br2 | barrel<br>expose |  
+| bip_39_word_new_br3 | barrel<br>expose<br>sing |  
+| bip_39_word_new_br4 | barrel<br>expose<br>sing<br>spirit |  
+| bip_39_word_new_br5 | barrel<br>expose<br>sing<br>spirit<br>cream |  
+| bip_39_word_new_br6 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa |  
+| bip_39_word_new_br7 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa<br>glad |  
+| bip_39_word_new_br8 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa<br>glad<br>rigid |  
+| bip_39_word_new_br9 | barrel<br>expose<br>sing<br>spirit<br>cream<br>visa<br>glad<br>rigid<br>galaxy |  
+| bip_39_word_new_line1 | barrel |  
+| bip_39_word_new_line10 | barrel
+expose
+sing
+spirit
+cream
+visa
+glad
+rigid
+galaxy
+merry |  
+| bip_39_word_new_line11 | barrel
+expose
+sing
+spirit
+cream
+visa
+glad
+rigid
+galaxy
+merry
+such |  
+| bip_39_word_new_line12 | barrel
+expose
+sing
+spirit
+cream
+visa
+glad
+rigid
+galaxy
+merry
+such
+aerobic |  
+| bip_39_word_new_line2 | barrel
+expose |  
+| bip_39_word_new_line3 | barrel
+expose
+sing |  
+| bip_39_word_new_line4 | barrel
+expose
+sing
+spirit |  
+| bip_39_word_new_line5 | barrel
+expose
+sing
+spirit
+cream |  
+| bip_39_word_new_line6 | barrel
+expose
+sing
+spirit
+cream
+visa |  
+| bip_39_word_new_line7 | barrel
+expose
+sing
+spirit
+cream
+visa
+glad |  
+| bip_39_word_new_line8 | barrel
+expose
+sing
+spirit
+cream
+visa
+glad
+rigid |  
+| bip_39_word_new_line9 | barrel
+expose
+sing
+spirit
+cream
+visa
+glad
+rigid
+galaxy |  
+| bip_39_word_space_0 | ['barrel', 'expose', 'sing', 'spirit', 'cream', 'visa', 'glad', 'rigid', 'galaxy', 'merry', 'such', 'aerobic'] |  
+| bip_39_word_space_1 | barrel |  
+| bip_39_word_space_10 | barrel expose sing spirit cream visa glad rigid galaxy merry |  
+| bip_39_word_space_11 | barrel expose sing spirit cream visa glad rigid galaxy merry such |  
+| bip_39_word_space_12 | barrel expose sing spirit cream visa glad rigid galaxy merry such aerobic |  
+| bip_39_word_space_2 | barrel expose |  
+| bip_39_word_space_3 | barrel expose sing |  
+| bip_39_word_space_4 | barrel expose sing spirit |  
+| bip_39_word_space_5 | barrel expose sing spirit cream |  
+| bip_39_word_space_6 | barrel expose sing spirit cream visa |  
+| bip_39_word_space_7 | barrel expose sing spirit cream visa glad |  
+| bip_39_word_space_8 | barrel expose sing spirit cream visa glad rigid |  
+| bip_39_word_space_9 | barrel expose sing spirit cream visa glad rigid galaxy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

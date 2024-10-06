@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: attract talent
+  * bip 39 word 3: attract talent december
+  * bip 39 word: attract talent december stone load session suffer bleak lonely match educate annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | attract |  
+| bip_39_word_new_br10 | attract<br>talent<br>december<br>stone<br>load<br>session<br>suffer<br>bleak<br>lonely<br>match |  
+| bip_39_word_new_br11 | attract<br>talent<br>december<br>stone<br>load<br>session<br>suffer<br>bleak<br>lonely<br>match<br>educate |  
+| bip_39_word_new_br12 | attract<br>talent<br>december<br>stone<br>load<br>session<br>suffer<br>bleak<br>lonely<br>match<br>educate<br>annual |  
+| bip_39_word_new_br2 | attract<br>talent |  
+| bip_39_word_new_br3 | attract<br>talent<br>december |  
+| bip_39_word_new_br4 | attract<br>talent<br>december<br>stone |  
+| bip_39_word_new_br5 | attract<br>talent<br>december<br>stone<br>load |  
+| bip_39_word_new_br6 | attract<br>talent<br>december<br>stone<br>load<br>session |  
+| bip_39_word_new_br7 | attract<br>talent<br>december<br>stone<br>load<br>session<br>suffer |  
+| bip_39_word_new_br8 | attract<br>talent<br>december<br>stone<br>load<br>session<br>suffer<br>bleak |  
+| bip_39_word_new_br9 | attract<br>talent<br>december<br>stone<br>load<br>session<br>suffer<br>bleak<br>lonely |  
+| bip_39_word_new_line1 | attract |  
+| bip_39_word_new_line10 | attract
+talent
+december
+stone
+load
+session
+suffer
+bleak
+lonely
+match |  
+| bip_39_word_new_line11 | attract
+talent
+december
+stone
+load
+session
+suffer
+bleak
+lonely
+match
+educate |  
+| bip_39_word_new_line12 | attract
+talent
+december
+stone
+load
+session
+suffer
+bleak
+lonely
+match
+educate
+annual |  
+| bip_39_word_new_line2 | attract
+talent |  
+| bip_39_word_new_line3 | attract
+talent
+december |  
+| bip_39_word_new_line4 | attract
+talent
+december
+stone |  
+| bip_39_word_new_line5 | attract
+talent
+december
+stone
+load |  
+| bip_39_word_new_line6 | attract
+talent
+december
+stone
+load
+session |  
+| bip_39_word_new_line7 | attract
+talent
+december
+stone
+load
+session
+suffer |  
+| bip_39_word_new_line8 | attract
+talent
+december
+stone
+load
+session
+suffer
+bleak |  
+| bip_39_word_new_line9 | attract
+talent
+december
+stone
+load
+session
+suffer
+bleak
+lonely |  
+| bip_39_word_space_0 | ['attract', 'talent', 'december', 'stone', 'load', 'session', 'suffer', 'bleak', 'lonely', 'match', 'educate', 'annual'] |  
+| bip_39_word_space_1 | attract |  
+| bip_39_word_space_10 | attract talent december stone load session suffer bleak lonely match |  
+| bip_39_word_space_11 | attract talent december stone load session suffer bleak lonely match educate |  
+| bip_39_word_space_12 | attract talent december stone load session suffer bleak lonely match educate annual |  
+| bip_39_word_space_2 | attract talent |  
+| bip_39_word_space_3 | attract talent december |  
+| bip_39_word_space_4 | attract talent december stone |  
+| bip_39_word_space_5 | attract talent december stone load |  
+| bip_39_word_space_6 | attract talent december stone load session |  
+| bip_39_word_space_7 | attract talent december stone load session suffer |  
+| bip_39_word_space_8 | attract talent december stone load session suffer bleak |  
+| bip_39_word_space_9 | attract talent december stone load session suffer bleak lonely |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

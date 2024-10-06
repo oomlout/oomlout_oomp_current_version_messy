@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enemy
+bip_39_word_new_br10: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe<br>ozone<br>shiver<br>sight<br>stay
+bip_39_word_new_br11: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe<br>ozone<br>shiver<br>sight<br>stay<br>vast
+bip_39_word_new_br12: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe<br>ozone<br>shiver<br>sight<br>stay<br>vast<br>adjust
+bip_39_word_new_br2: enemy<br>ranch
+bip_39_word_new_br3: enemy<br>ranch<br>slab
+bip_39_word_new_br4: enemy<br>ranch<br>slab<br>dry
+bip_39_word_new_br5: enemy<br>ranch<br>slab<br>dry<br>vacuum
+bip_39_word_new_br6: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe
+bip_39_word_new_br7: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe<br>ozone
+bip_39_word_new_br8: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe<br>ozone<br>shiver
+bip_39_word_new_br9: enemy<br>ranch<br>slab<br>dry<br>vacuum<br>believe<br>ozone<br>shiver<br>sight
+bip_39_word_new_line1: enemy
+bip_39_word_new_line10: 'enemy
+
+  ranch
+
+  slab
+
+  dry
+
+  vacuum
+
+  believe
+
+  ozone
+
+  shiver
+
+  sight
+
+  stay'
+bip_39_word_new_line11: 'enemy
+
+  ranch
+
+  slab
+
+  dry
+
+  vacuum
+
+  believe
+
+  ozone
+
+  shiver
+
+  sight
+
+  stay
+
+  vast'
+bip_39_word_new_line12: 'enemy
+
+  ranch
+
+  slab
+
+  dry
+
+  vacuum
+
+  believe
+
+  ozone
+
+  shiver
+
+  sight
+
+  stay
+
+  vast
+
+  adjust'
+bip_39_word_new_line2: 'enemy
+
+  ranch'
+bip_39_word_new_line3: 'enemy
+
+  ranch
+
+  slab'
+bip_39_word_new_line4: 'enemy
+
+  ranch
+
+  slab
+
+  dry'
+bip_39_word_new_line5: 'enemy
+
+  ranch
+
+  slab
+
+  dry
+
+  vacuum'
+bip_39_word_new_line6: 'enemy
+
+  ranch
+
+  slab
+
+  dry
+
+  vacuum
+
+  believe'
+bip_39_word_new_line7: 'enemy
+
+  ranch
+
+  slab
+
+  dry
+
+  vacuum
+
+  believe
+
+  ozone'
+bip_39_word_new_line8: 'enemy
+
+  ranch
+
+  slab
+
+  dry
+
+  vacuum
+
+  believe
+
+  ozone
+
+  shiver'
+bip_39_word_new_line9: 'enemy
+
+  ranch
+
+  slab
+
+  dry
+
+  vacuum
+
+  believe
+
+  ozone
+
+  shiver
+
+  sight'
+bip_39_word_space_0:
+- enemy
+- ranch
+- slab
+- dry
+- vacuum
+- believe
+- ozone
+- shiver
+- sight
+- stay
+- vast
+- adjust
+bip_39_word_space_1: enemy
+bip_39_word_space_10: enemy ranch slab dry vacuum believe ozone shiver sight stay
+bip_39_word_space_11: enemy ranch slab dry vacuum believe ozone shiver sight stay
+  vast
+bip_39_word_space_12: enemy ranch slab dry vacuum believe ozone shiver sight stay
+  vast adjust
+bip_39_word_space_2: enemy ranch
+bip_39_word_space_3: enemy ranch slab
+bip_39_word_space_4: enemy ranch slab dry
+bip_39_word_space_5: enemy ranch slab dry vacuum
+bip_39_word_space_6: enemy ranch slab dry vacuum believe
+bip_39_word_space_7: enemy ranch slab dry vacuum believe ozone
+bip_39_word_space_8: enemy ranch slab dry vacuum believe ozone shiver
+bip_39_word_space_9: enemy ranch slab dry vacuum believe ozone shiver sight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

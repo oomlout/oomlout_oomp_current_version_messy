@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: garment legend
+  * bip 39 word 3: garment legend sudden
+  * bip 39 word: garment legend sudden stereo civil swallow copy humble shallow nuclear leg age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | garment |  
+| bip_39_word_new_br10 | garment<br>legend<br>sudden<br>stereo<br>civil<br>swallow<br>copy<br>humble<br>shallow<br>nuclear |  
+| bip_39_word_new_br11 | garment<br>legend<br>sudden<br>stereo<br>civil<br>swallow<br>copy<br>humble<br>shallow<br>nuclear<br>leg |  
+| bip_39_word_new_br12 | garment<br>legend<br>sudden<br>stereo<br>civil<br>swallow<br>copy<br>humble<br>shallow<br>nuclear<br>leg<br>age |  
+| bip_39_word_new_br2 | garment<br>legend |  
+| bip_39_word_new_br3 | garment<br>legend<br>sudden |  
+| bip_39_word_new_br4 | garment<br>legend<br>sudden<br>stereo |  
+| bip_39_word_new_br5 | garment<br>legend<br>sudden<br>stereo<br>civil |  
+| bip_39_word_new_br6 | garment<br>legend<br>sudden<br>stereo<br>civil<br>swallow |  
+| bip_39_word_new_br7 | garment<br>legend<br>sudden<br>stereo<br>civil<br>swallow<br>copy |  
+| bip_39_word_new_br8 | garment<br>legend<br>sudden<br>stereo<br>civil<br>swallow<br>copy<br>humble |  
+| bip_39_word_new_br9 | garment<br>legend<br>sudden<br>stereo<br>civil<br>swallow<br>copy<br>humble<br>shallow |  
+| bip_39_word_new_line1 | garment |  
+| bip_39_word_new_line10 | garment
+legend
+sudden
+stereo
+civil
+swallow
+copy
+humble
+shallow
+nuclear |  
+| bip_39_word_new_line11 | garment
+legend
+sudden
+stereo
+civil
+swallow
+copy
+humble
+shallow
+nuclear
+leg |  
+| bip_39_word_new_line12 | garment
+legend
+sudden
+stereo
+civil
+swallow
+copy
+humble
+shallow
+nuclear
+leg
+age |  
+| bip_39_word_new_line2 | garment
+legend |  
+| bip_39_word_new_line3 | garment
+legend
+sudden |  
+| bip_39_word_new_line4 | garment
+legend
+sudden
+stereo |  
+| bip_39_word_new_line5 | garment
+legend
+sudden
+stereo
+civil |  
+| bip_39_word_new_line6 | garment
+legend
+sudden
+stereo
+civil
+swallow |  
+| bip_39_word_new_line7 | garment
+legend
+sudden
+stereo
+civil
+swallow
+copy |  
+| bip_39_word_new_line8 | garment
+legend
+sudden
+stereo
+civil
+swallow
+copy
+humble |  
+| bip_39_word_new_line9 | garment
+legend
+sudden
+stereo
+civil
+swallow
+copy
+humble
+shallow |  
+| bip_39_word_space_0 | ['garment', 'legend', 'sudden', 'stereo', 'civil', 'swallow', 'copy', 'humble', 'shallow', 'nuclear', 'leg', 'age'] |  
+| bip_39_word_space_1 | garment |  
+| bip_39_word_space_10 | garment legend sudden stereo civil swallow copy humble shallow nuclear |  
+| bip_39_word_space_11 | garment legend sudden stereo civil swallow copy humble shallow nuclear leg |  
+| bip_39_word_space_12 | garment legend sudden stereo civil swallow copy humble shallow nuclear leg age |  
+| bip_39_word_space_2 | garment legend |  
+| bip_39_word_space_3 | garment legend sudden |  
+| bip_39_word_space_4 | garment legend sudden stereo |  
+| bip_39_word_space_5 | garment legend sudden stereo civil |  
+| bip_39_word_space_6 | garment legend sudden stereo civil swallow |  
+| bip_39_word_space_7 | garment legend sudden stereo civil swallow copy |  
+| bip_39_word_space_8 | garment legend sudden stereo civil swallow copy humble |  
+| bip_39_word_space_9 | garment legend sudden stereo civil swallow copy humble shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

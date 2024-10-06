@@ -1,3 +1,187 @@
+bip_39_word_new_br1: remember
+bip_39_word_new_br10: remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice<br>betray<br>aware<br>brother<br>multiply
+bip_39_word_new_br11: remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice<br>betray<br>aware<br>brother<br>multiply<br>text
+bip_39_word_new_br12: remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice<br>betray<br>aware<br>brother<br>multiply<br>text<br>antenna
+bip_39_word_new_br2: remember<br>helmet
+bip_39_word_new_br3: remember<br>helmet<br>mixed
+bip_39_word_new_br4: remember<br>helmet<br>mixed<br>cheap
+bip_39_word_new_br5: remember<br>helmet<br>mixed<br>cheap<br>dwarf
+bip_39_word_new_br6: remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice
+bip_39_word_new_br7: remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice<br>betray
+bip_39_word_new_br8: remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice<br>betray<br>aware
+bip_39_word_new_br9: remember<br>helmet<br>mixed<br>cheap<br>dwarf<br>dice<br>betray<br>aware<br>brother
+bip_39_word_new_line1: remember
+bip_39_word_new_line10: 'remember
+
+  helmet
+
+  mixed
+
+  cheap
+
+  dwarf
+
+  dice
+
+  betray
+
+  aware
+
+  brother
+
+  multiply'
+bip_39_word_new_line11: 'remember
+
+  helmet
+
+  mixed
+
+  cheap
+
+  dwarf
+
+  dice
+
+  betray
+
+  aware
+
+  brother
+
+  multiply
+
+  text'
+bip_39_word_new_line12: 'remember
+
+  helmet
+
+  mixed
+
+  cheap
+
+  dwarf
+
+  dice
+
+  betray
+
+  aware
+
+  brother
+
+  multiply
+
+  text
+
+  antenna'
+bip_39_word_new_line2: 'remember
+
+  helmet'
+bip_39_word_new_line3: 'remember
+
+  helmet
+
+  mixed'
+bip_39_word_new_line4: 'remember
+
+  helmet
+
+  mixed
+
+  cheap'
+bip_39_word_new_line5: 'remember
+
+  helmet
+
+  mixed
+
+  cheap
+
+  dwarf'
+bip_39_word_new_line6: 'remember
+
+  helmet
+
+  mixed
+
+  cheap
+
+  dwarf
+
+  dice'
+bip_39_word_new_line7: 'remember
+
+  helmet
+
+  mixed
+
+  cheap
+
+  dwarf
+
+  dice
+
+  betray'
+bip_39_word_new_line8: 'remember
+
+  helmet
+
+  mixed
+
+  cheap
+
+  dwarf
+
+  dice
+
+  betray
+
+  aware'
+bip_39_word_new_line9: 'remember
+
+  helmet
+
+  mixed
+
+  cheap
+
+  dwarf
+
+  dice
+
+  betray
+
+  aware
+
+  brother'
+bip_39_word_space_0:
+- remember
+- helmet
+- mixed
+- cheap
+- dwarf
+- dice
+- betray
+- aware
+- brother
+- multiply
+- text
+- antenna
+bip_39_word_space_1: remember
+bip_39_word_space_10: remember helmet mixed cheap dwarf dice betray aware brother
+  multiply
+bip_39_word_space_11: remember helmet mixed cheap dwarf dice betray aware brother
+  multiply text
+bip_39_word_space_12: remember helmet mixed cheap dwarf dice betray aware brother
+  multiply text antenna
+bip_39_word_space_2: remember helmet
+bip_39_word_space_3: remember helmet mixed
+bip_39_word_space_4: remember helmet mixed cheap
+bip_39_word_space_5: remember helmet mixed cheap dwarf
+bip_39_word_space_6: remember helmet mixed cheap dwarf dice
+bip_39_word_space_7: remember helmet mixed cheap dwarf dice betray
+bip_39_word_space_8: remember helmet mixed cheap dwarf dice betray aware
+bip_39_word_space_9: remember helmet mixed cheap dwarf dice betray aware brother
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

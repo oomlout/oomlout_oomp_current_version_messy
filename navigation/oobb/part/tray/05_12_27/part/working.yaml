@@ -1,3 +1,187 @@
+bip_39_word_new_br1: pretty
+bip_39_word_new_br10: pretty<br>garden<br>chief<br>cousin<br>require<br>obvious<br>bitter<br>alien<br>spoil<br>dash
+bip_39_word_new_br11: pretty<br>garden<br>chief<br>cousin<br>require<br>obvious<br>bitter<br>alien<br>spoil<br>dash<br>you
+bip_39_word_new_br12: pretty<br>garden<br>chief<br>cousin<br>require<br>obvious<br>bitter<br>alien<br>spoil<br>dash<br>you<br>act
+bip_39_word_new_br2: pretty<br>garden
+bip_39_word_new_br3: pretty<br>garden<br>chief
+bip_39_word_new_br4: pretty<br>garden<br>chief<br>cousin
+bip_39_word_new_br5: pretty<br>garden<br>chief<br>cousin<br>require
+bip_39_word_new_br6: pretty<br>garden<br>chief<br>cousin<br>require<br>obvious
+bip_39_word_new_br7: pretty<br>garden<br>chief<br>cousin<br>require<br>obvious<br>bitter
+bip_39_word_new_br8: pretty<br>garden<br>chief<br>cousin<br>require<br>obvious<br>bitter<br>alien
+bip_39_word_new_br9: pretty<br>garden<br>chief<br>cousin<br>require<br>obvious<br>bitter<br>alien<br>spoil
+bip_39_word_new_line1: pretty
+bip_39_word_new_line10: 'pretty
+
+  garden
+
+  chief
+
+  cousin
+
+  require
+
+  obvious
+
+  bitter
+
+  alien
+
+  spoil
+
+  dash'
+bip_39_word_new_line11: 'pretty
+
+  garden
+
+  chief
+
+  cousin
+
+  require
+
+  obvious
+
+  bitter
+
+  alien
+
+  spoil
+
+  dash
+
+  you'
+bip_39_word_new_line12: 'pretty
+
+  garden
+
+  chief
+
+  cousin
+
+  require
+
+  obvious
+
+  bitter
+
+  alien
+
+  spoil
+
+  dash
+
+  you
+
+  act'
+bip_39_word_new_line2: 'pretty
+
+  garden'
+bip_39_word_new_line3: 'pretty
+
+  garden
+
+  chief'
+bip_39_word_new_line4: 'pretty
+
+  garden
+
+  chief
+
+  cousin'
+bip_39_word_new_line5: 'pretty
+
+  garden
+
+  chief
+
+  cousin
+
+  require'
+bip_39_word_new_line6: 'pretty
+
+  garden
+
+  chief
+
+  cousin
+
+  require
+
+  obvious'
+bip_39_word_new_line7: 'pretty
+
+  garden
+
+  chief
+
+  cousin
+
+  require
+
+  obvious
+
+  bitter'
+bip_39_word_new_line8: 'pretty
+
+  garden
+
+  chief
+
+  cousin
+
+  require
+
+  obvious
+
+  bitter
+
+  alien'
+bip_39_word_new_line9: 'pretty
+
+  garden
+
+  chief
+
+  cousin
+
+  require
+
+  obvious
+
+  bitter
+
+  alien
+
+  spoil'
+bip_39_word_space_0:
+- pretty
+- garden
+- chief
+- cousin
+- require
+- obvious
+- bitter
+- alien
+- spoil
+- dash
+- you
+- act
+bip_39_word_space_1: pretty
+bip_39_word_space_10: pretty garden chief cousin require obvious bitter alien spoil
+  dash
+bip_39_word_space_11: pretty garden chief cousin require obvious bitter alien spoil
+  dash you
+bip_39_word_space_12: pretty garden chief cousin require obvious bitter alien spoil
+  dash you act
+bip_39_word_space_2: pretty garden
+bip_39_word_space_3: pretty garden chief
+bip_39_word_space_4: pretty garden chief cousin
+bip_39_word_space_5: pretty garden chief cousin require
+bip_39_word_space_6: pretty garden chief cousin require obvious
+bip_39_word_space_7: pretty garden chief cousin require obvious bitter
+bip_39_word_space_8: pretty garden chief cousin require obvious bitter alien
+bip_39_word_space_9: pretty garden chief cousin require obvious bitter alien spoil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

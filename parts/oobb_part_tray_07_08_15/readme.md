@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: weird help
+  * bip 39 word 3: weird help toast
+  * bip 39 word: weird help toast village toddler search deliver draw dumb cargo sick author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | weird |  
+| bip_39_word_new_br10 | weird<br>help<br>toast<br>village<br>toddler<br>search<br>deliver<br>draw<br>dumb<br>cargo |  
+| bip_39_word_new_br11 | weird<br>help<br>toast<br>village<br>toddler<br>search<br>deliver<br>draw<br>dumb<br>cargo<br>sick |  
+| bip_39_word_new_br12 | weird<br>help<br>toast<br>village<br>toddler<br>search<br>deliver<br>draw<br>dumb<br>cargo<br>sick<br>author |  
+| bip_39_word_new_br2 | weird<br>help |  
+| bip_39_word_new_br3 | weird<br>help<br>toast |  
+| bip_39_word_new_br4 | weird<br>help<br>toast<br>village |  
+| bip_39_word_new_br5 | weird<br>help<br>toast<br>village<br>toddler |  
+| bip_39_word_new_br6 | weird<br>help<br>toast<br>village<br>toddler<br>search |  
+| bip_39_word_new_br7 | weird<br>help<br>toast<br>village<br>toddler<br>search<br>deliver |  
+| bip_39_word_new_br8 | weird<br>help<br>toast<br>village<br>toddler<br>search<br>deliver<br>draw |  
+| bip_39_word_new_br9 | weird<br>help<br>toast<br>village<br>toddler<br>search<br>deliver<br>draw<br>dumb |  
+| bip_39_word_new_line1 | weird |  
+| bip_39_word_new_line10 | weird
+help
+toast
+village
+toddler
+search
+deliver
+draw
+dumb
+cargo |  
+| bip_39_word_new_line11 | weird
+help
+toast
+village
+toddler
+search
+deliver
+draw
+dumb
+cargo
+sick |  
+| bip_39_word_new_line12 | weird
+help
+toast
+village
+toddler
+search
+deliver
+draw
+dumb
+cargo
+sick
+author |  
+| bip_39_word_new_line2 | weird
+help |  
+| bip_39_word_new_line3 | weird
+help
+toast |  
+| bip_39_word_new_line4 | weird
+help
+toast
+village |  
+| bip_39_word_new_line5 | weird
+help
+toast
+village
+toddler |  
+| bip_39_word_new_line6 | weird
+help
+toast
+village
+toddler
+search |  
+| bip_39_word_new_line7 | weird
+help
+toast
+village
+toddler
+search
+deliver |  
+| bip_39_word_new_line8 | weird
+help
+toast
+village
+toddler
+search
+deliver
+draw |  
+| bip_39_word_new_line9 | weird
+help
+toast
+village
+toddler
+search
+deliver
+draw
+dumb |  
+| bip_39_word_space_0 | ['weird', 'help', 'toast', 'village', 'toddler', 'search', 'deliver', 'draw', 'dumb', 'cargo', 'sick', 'author'] |  
+| bip_39_word_space_1 | weird |  
+| bip_39_word_space_10 | weird help toast village toddler search deliver draw dumb cargo |  
+| bip_39_word_space_11 | weird help toast village toddler search deliver draw dumb cargo sick |  
+| bip_39_word_space_12 | weird help toast village toddler search deliver draw dumb cargo sick author |  
+| bip_39_word_space_2 | weird help |  
+| bip_39_word_space_3 | weird help toast |  
+| bip_39_word_space_4 | weird help toast village |  
+| bip_39_word_space_5 | weird help toast village toddler |  
+| bip_39_word_space_6 | weird help toast village toddler search |  
+| bip_39_word_space_7 | weird help toast village toddler search deliver |  
+| bip_39_word_space_8 | weird help toast village toddler search deliver draw |  
+| bip_39_word_space_9 | weird help toast village toddler search deliver draw dumb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

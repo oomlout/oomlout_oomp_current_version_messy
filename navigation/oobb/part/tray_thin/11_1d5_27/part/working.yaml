@@ -1,3 +1,187 @@
+bip_39_word_new_br1: grain
+bip_39_word_new_br10: grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle
+bip_39_word_new_br11: grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle<br>arrest
+bip_39_word_new_br12: grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin<br>eagle<br>arrest<br>also
+bip_39_word_new_br2: grain<br>nuclear
+bip_39_word_new_br3: grain<br>nuclear<br>social
+bip_39_word_new_br4: grain<br>nuclear<br>social<br>outdoor
+bip_39_word_new_br5: grain<br>nuclear<br>social<br>outdoor<br>crumble
+bip_39_word_new_br6: grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject
+bip_39_word_new_br7: grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment
+bip_39_word_new_br8: grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck
+bip_39_word_new_br9: grain<br>nuclear<br>social<br>outdoor<br>crumble<br>reject<br>segment<br>duck<br>margin
+bip_39_word_new_line1: grain
+bip_39_word_new_line10: 'grain
+
+  nuclear
+
+  social
+
+  outdoor
+
+  crumble
+
+  reject
+
+  segment
+
+  duck
+
+  margin
+
+  eagle'
+bip_39_word_new_line11: 'grain
+
+  nuclear
+
+  social
+
+  outdoor
+
+  crumble
+
+  reject
+
+  segment
+
+  duck
+
+  margin
+
+  eagle
+
+  arrest'
+bip_39_word_new_line12: 'grain
+
+  nuclear
+
+  social
+
+  outdoor
+
+  crumble
+
+  reject
+
+  segment
+
+  duck
+
+  margin
+
+  eagle
+
+  arrest
+
+  also'
+bip_39_word_new_line2: 'grain
+
+  nuclear'
+bip_39_word_new_line3: 'grain
+
+  nuclear
+
+  social'
+bip_39_word_new_line4: 'grain
+
+  nuclear
+
+  social
+
+  outdoor'
+bip_39_word_new_line5: 'grain
+
+  nuclear
+
+  social
+
+  outdoor
+
+  crumble'
+bip_39_word_new_line6: 'grain
+
+  nuclear
+
+  social
+
+  outdoor
+
+  crumble
+
+  reject'
+bip_39_word_new_line7: 'grain
+
+  nuclear
+
+  social
+
+  outdoor
+
+  crumble
+
+  reject
+
+  segment'
+bip_39_word_new_line8: 'grain
+
+  nuclear
+
+  social
+
+  outdoor
+
+  crumble
+
+  reject
+
+  segment
+
+  duck'
+bip_39_word_new_line9: 'grain
+
+  nuclear
+
+  social
+
+  outdoor
+
+  crumble
+
+  reject
+
+  segment
+
+  duck
+
+  margin'
+bip_39_word_space_0:
+- grain
+- nuclear
+- social
+- outdoor
+- crumble
+- reject
+- segment
+- duck
+- margin
+- eagle
+- arrest
+- also
+bip_39_word_space_1: grain
+bip_39_word_space_10: grain nuclear social outdoor crumble reject segment duck margin
+  eagle
+bip_39_word_space_11: grain nuclear social outdoor crumble reject segment duck margin
+  eagle arrest
+bip_39_word_space_12: grain nuclear social outdoor crumble reject segment duck margin
+  eagle arrest also
+bip_39_word_space_2: grain nuclear
+bip_39_word_space_3: grain nuclear social
+bip_39_word_space_4: grain nuclear social outdoor
+bip_39_word_space_5: grain nuclear social outdoor crumble
+bip_39_word_space_6: grain nuclear social outdoor crumble reject
+bip_39_word_space_7: grain nuclear social outdoor crumble reject segment
+bip_39_word_space_8: grain nuclear social outdoor crumble reject segment duck
+bip_39_word_space_9: grain nuclear social outdoor crumble reject segment duck margin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

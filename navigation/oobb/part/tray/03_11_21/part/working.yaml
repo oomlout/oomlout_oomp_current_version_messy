@@ -1,3 +1,187 @@
+bip_39_word_new_br1: hello
+bip_39_word_new_br10: hello<br>vote<br>employ<br>impulse<br>category<br>situate<br>maple<br>helmet<br>sausage<br>syrup
+bip_39_word_new_br11: hello<br>vote<br>employ<br>impulse<br>category<br>situate<br>maple<br>helmet<br>sausage<br>syrup<br>capable
+bip_39_word_new_br12: hello<br>vote<br>employ<br>impulse<br>category<br>situate<br>maple<br>helmet<br>sausage<br>syrup<br>capable<br>ahead
+bip_39_word_new_br2: hello<br>vote
+bip_39_word_new_br3: hello<br>vote<br>employ
+bip_39_word_new_br4: hello<br>vote<br>employ<br>impulse
+bip_39_word_new_br5: hello<br>vote<br>employ<br>impulse<br>category
+bip_39_word_new_br6: hello<br>vote<br>employ<br>impulse<br>category<br>situate
+bip_39_word_new_br7: hello<br>vote<br>employ<br>impulse<br>category<br>situate<br>maple
+bip_39_word_new_br8: hello<br>vote<br>employ<br>impulse<br>category<br>situate<br>maple<br>helmet
+bip_39_word_new_br9: hello<br>vote<br>employ<br>impulse<br>category<br>situate<br>maple<br>helmet<br>sausage
+bip_39_word_new_line1: hello
+bip_39_word_new_line10: 'hello
+
+  vote
+
+  employ
+
+  impulse
+
+  category
+
+  situate
+
+  maple
+
+  helmet
+
+  sausage
+
+  syrup'
+bip_39_word_new_line11: 'hello
+
+  vote
+
+  employ
+
+  impulse
+
+  category
+
+  situate
+
+  maple
+
+  helmet
+
+  sausage
+
+  syrup
+
+  capable'
+bip_39_word_new_line12: 'hello
+
+  vote
+
+  employ
+
+  impulse
+
+  category
+
+  situate
+
+  maple
+
+  helmet
+
+  sausage
+
+  syrup
+
+  capable
+
+  ahead'
+bip_39_word_new_line2: 'hello
+
+  vote'
+bip_39_word_new_line3: 'hello
+
+  vote
+
+  employ'
+bip_39_word_new_line4: 'hello
+
+  vote
+
+  employ
+
+  impulse'
+bip_39_word_new_line5: 'hello
+
+  vote
+
+  employ
+
+  impulse
+
+  category'
+bip_39_word_new_line6: 'hello
+
+  vote
+
+  employ
+
+  impulse
+
+  category
+
+  situate'
+bip_39_word_new_line7: 'hello
+
+  vote
+
+  employ
+
+  impulse
+
+  category
+
+  situate
+
+  maple'
+bip_39_word_new_line8: 'hello
+
+  vote
+
+  employ
+
+  impulse
+
+  category
+
+  situate
+
+  maple
+
+  helmet'
+bip_39_word_new_line9: 'hello
+
+  vote
+
+  employ
+
+  impulse
+
+  category
+
+  situate
+
+  maple
+
+  helmet
+
+  sausage'
+bip_39_word_space_0:
+- hello
+- vote
+- employ
+- impulse
+- category
+- situate
+- maple
+- helmet
+- sausage
+- syrup
+- capable
+- ahead
+bip_39_word_space_1: hello
+bip_39_word_space_10: hello vote employ impulse category situate maple helmet sausage
+  syrup
+bip_39_word_space_11: hello vote employ impulse category situate maple helmet sausage
+  syrup capable
+bip_39_word_space_12: hello vote employ impulse category situate maple helmet sausage
+  syrup capable ahead
+bip_39_word_space_2: hello vote
+bip_39_word_space_3: hello vote employ
+bip_39_word_space_4: hello vote employ impulse
+bip_39_word_space_5: hello vote employ impulse category
+bip_39_word_space_6: hello vote employ impulse category situate
+bip_39_word_space_7: hello vote employ impulse category situate maple
+bip_39_word_space_8: hello vote employ impulse category situate maple helmet
+bip_39_word_space_9: hello vote employ impulse category situate maple helmet sausage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

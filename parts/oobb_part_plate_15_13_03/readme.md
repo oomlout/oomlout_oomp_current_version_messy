@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flame trade
+  * bip 39 word 3: flame trade honey
+  * bip 39 word: flame trade honey vital grid debate metal curtain budget hand squirrel antique
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flame |  
+| bip_39_word_new_br10 | flame<br>trade<br>honey<br>vital<br>grid<br>debate<br>metal<br>curtain<br>budget<br>hand |  
+| bip_39_word_new_br11 | flame<br>trade<br>honey<br>vital<br>grid<br>debate<br>metal<br>curtain<br>budget<br>hand<br>squirrel |  
+| bip_39_word_new_br12 | flame<br>trade<br>honey<br>vital<br>grid<br>debate<br>metal<br>curtain<br>budget<br>hand<br>squirrel<br>antique |  
+| bip_39_word_new_br2 | flame<br>trade |  
+| bip_39_word_new_br3 | flame<br>trade<br>honey |  
+| bip_39_word_new_br4 | flame<br>trade<br>honey<br>vital |  
+| bip_39_word_new_br5 | flame<br>trade<br>honey<br>vital<br>grid |  
+| bip_39_word_new_br6 | flame<br>trade<br>honey<br>vital<br>grid<br>debate |  
+| bip_39_word_new_br7 | flame<br>trade<br>honey<br>vital<br>grid<br>debate<br>metal |  
+| bip_39_word_new_br8 | flame<br>trade<br>honey<br>vital<br>grid<br>debate<br>metal<br>curtain |  
+| bip_39_word_new_br9 | flame<br>trade<br>honey<br>vital<br>grid<br>debate<br>metal<br>curtain<br>budget |  
+| bip_39_word_new_line1 | flame |  
+| bip_39_word_new_line10 | flame
+trade
+honey
+vital
+grid
+debate
+metal
+curtain
+budget
+hand |  
+| bip_39_word_new_line11 | flame
+trade
+honey
+vital
+grid
+debate
+metal
+curtain
+budget
+hand
+squirrel |  
+| bip_39_word_new_line12 | flame
+trade
+honey
+vital
+grid
+debate
+metal
+curtain
+budget
+hand
+squirrel
+antique |  
+| bip_39_word_new_line2 | flame
+trade |  
+| bip_39_word_new_line3 | flame
+trade
+honey |  
+| bip_39_word_new_line4 | flame
+trade
+honey
+vital |  
+| bip_39_word_new_line5 | flame
+trade
+honey
+vital
+grid |  
+| bip_39_word_new_line6 | flame
+trade
+honey
+vital
+grid
+debate |  
+| bip_39_word_new_line7 | flame
+trade
+honey
+vital
+grid
+debate
+metal |  
+| bip_39_word_new_line8 | flame
+trade
+honey
+vital
+grid
+debate
+metal
+curtain |  
+| bip_39_word_new_line9 | flame
+trade
+honey
+vital
+grid
+debate
+metal
+curtain
+budget |  
+| bip_39_word_space_0 | ['flame', 'trade', 'honey', 'vital', 'grid', 'debate', 'metal', 'curtain', 'budget', 'hand', 'squirrel', 'antique'] |  
+| bip_39_word_space_1 | flame |  
+| bip_39_word_space_10 | flame trade honey vital grid debate metal curtain budget hand |  
+| bip_39_word_space_11 | flame trade honey vital grid debate metal curtain budget hand squirrel |  
+| bip_39_word_space_12 | flame trade honey vital grid debate metal curtain budget hand squirrel antique |  
+| bip_39_word_space_2 | flame trade |  
+| bip_39_word_space_3 | flame trade honey |  
+| bip_39_word_space_4 | flame trade honey vital |  
+| bip_39_word_space_5 | flame trade honey vital grid |  
+| bip_39_word_space_6 | flame trade honey vital grid debate |  
+| bip_39_word_space_7 | flame trade honey vital grid debate metal |  
+| bip_39_word_space_8 | flame trade honey vital grid debate metal curtain |  
+| bip_39_word_space_9 | flame trade honey vital grid debate metal curtain budget |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: title zebra
+  * bip 39 word 3: title zebra guitar
+  * bip 39 word: title zebra guitar exist install fragile arrive satoshi spend tired canal acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | title |  
+| bip_39_word_new_br10 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired |  
+| bip_39_word_new_br11 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired<br>canal |  
+| bip_39_word_new_br12 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend<br>tired<br>canal<br>acquire |  
+| bip_39_word_new_br2 | title<br>zebra |  
+| bip_39_word_new_br3 | title<br>zebra<br>guitar |  
+| bip_39_word_new_br4 | title<br>zebra<br>guitar<br>exist |  
+| bip_39_word_new_br5 | title<br>zebra<br>guitar<br>exist<br>install |  
+| bip_39_word_new_br6 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile |  
+| bip_39_word_new_br7 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive |  
+| bip_39_word_new_br8 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi |  
+| bip_39_word_new_br9 | title<br>zebra<br>guitar<br>exist<br>install<br>fragile<br>arrive<br>satoshi<br>spend |  
+| bip_39_word_new_line1 | title |  
+| bip_39_word_new_line10 | title
+zebra
+guitar
+exist
+install
+fragile
+arrive
+satoshi
+spend
+tired |  
+| bip_39_word_new_line11 | title
+zebra
+guitar
+exist
+install
+fragile
+arrive
+satoshi
+spend
+tired
+canal |  
+| bip_39_word_new_line12 | title
+zebra
+guitar
+exist
+install
+fragile
+arrive
+satoshi
+spend
+tired
+canal
+acquire |  
+| bip_39_word_new_line2 | title
+zebra |  
+| bip_39_word_new_line3 | title
+zebra
+guitar |  
+| bip_39_word_new_line4 | title
+zebra
+guitar
+exist |  
+| bip_39_word_new_line5 | title
+zebra
+guitar
+exist
+install |  
+| bip_39_word_new_line6 | title
+zebra
+guitar
+exist
+install
+fragile |  
+| bip_39_word_new_line7 | title
+zebra
+guitar
+exist
+install
+fragile
+arrive |  
+| bip_39_word_new_line8 | title
+zebra
+guitar
+exist
+install
+fragile
+arrive
+satoshi |  
+| bip_39_word_new_line9 | title
+zebra
+guitar
+exist
+install
+fragile
+arrive
+satoshi
+spend |  
+| bip_39_word_space_0 | ['title', 'zebra', 'guitar', 'exist', 'install', 'fragile', 'arrive', 'satoshi', 'spend', 'tired', 'canal', 'acquire'] |  
+| bip_39_word_space_1 | title |  
+| bip_39_word_space_10 | title zebra guitar exist install fragile arrive satoshi spend tired |  
+| bip_39_word_space_11 | title zebra guitar exist install fragile arrive satoshi spend tired canal |  
+| bip_39_word_space_12 | title zebra guitar exist install fragile arrive satoshi spend tired canal acquire |  
+| bip_39_word_space_2 | title zebra |  
+| bip_39_word_space_3 | title zebra guitar |  
+| bip_39_word_space_4 | title zebra guitar exist |  
+| bip_39_word_space_5 | title zebra guitar exist install |  
+| bip_39_word_space_6 | title zebra guitar exist install fragile |  
+| bip_39_word_space_7 | title zebra guitar exist install fragile arrive |  
+| bip_39_word_space_8 | title zebra guitar exist install fragile arrive satoshi |  
+| bip_39_word_space_9 | title zebra guitar exist install fragile arrive satoshi spend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

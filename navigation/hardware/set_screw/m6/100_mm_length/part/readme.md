@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: promote unlock
+  * bip 39 word 3: promote unlock language
+  * bip 39 word: promote unlock language soul rally museum extra spare repeat drink typical audit
 
 ### other_codes
 * short_code: ss6m100
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | promote |  
+| bip_39_word_new_br10 | promote<br>unlock<br>language<br>soul<br>rally<br>museum<br>extra<br>spare<br>repeat<br>drink |  
+| bip_39_word_new_br11 | promote<br>unlock<br>language<br>soul<br>rally<br>museum<br>extra<br>spare<br>repeat<br>drink<br>typical |  
+| bip_39_word_new_br12 | promote<br>unlock<br>language<br>soul<br>rally<br>museum<br>extra<br>spare<br>repeat<br>drink<br>typical<br>audit |  
+| bip_39_word_new_br2 | promote<br>unlock |  
+| bip_39_word_new_br3 | promote<br>unlock<br>language |  
+| bip_39_word_new_br4 | promote<br>unlock<br>language<br>soul |  
+| bip_39_word_new_br5 | promote<br>unlock<br>language<br>soul<br>rally |  
+| bip_39_word_new_br6 | promote<br>unlock<br>language<br>soul<br>rally<br>museum |  
+| bip_39_word_new_br7 | promote<br>unlock<br>language<br>soul<br>rally<br>museum<br>extra |  
+| bip_39_word_new_br8 | promote<br>unlock<br>language<br>soul<br>rally<br>museum<br>extra<br>spare |  
+| bip_39_word_new_br9 | promote<br>unlock<br>language<br>soul<br>rally<br>museum<br>extra<br>spare<br>repeat |  
+| bip_39_word_new_line1 | promote |  
+| bip_39_word_new_line10 | promote
+unlock
+language
+soul
+rally
+museum
+extra
+spare
+repeat
+drink |  
+| bip_39_word_new_line11 | promote
+unlock
+language
+soul
+rally
+museum
+extra
+spare
+repeat
+drink
+typical |  
+| bip_39_word_new_line12 | promote
+unlock
+language
+soul
+rally
+museum
+extra
+spare
+repeat
+drink
+typical
+audit |  
+| bip_39_word_new_line2 | promote
+unlock |  
+| bip_39_word_new_line3 | promote
+unlock
+language |  
+| bip_39_word_new_line4 | promote
+unlock
+language
+soul |  
+| bip_39_word_new_line5 | promote
+unlock
+language
+soul
+rally |  
+| bip_39_word_new_line6 | promote
+unlock
+language
+soul
+rally
+museum |  
+| bip_39_word_new_line7 | promote
+unlock
+language
+soul
+rally
+museum
+extra |  
+| bip_39_word_new_line8 | promote
+unlock
+language
+soul
+rally
+museum
+extra
+spare |  
+| bip_39_word_new_line9 | promote
+unlock
+language
+soul
+rally
+museum
+extra
+spare
+repeat |  
+| bip_39_word_space_0 | ['promote', 'unlock', 'language', 'soul', 'rally', 'museum', 'extra', 'spare', 'repeat', 'drink', 'typical', 'audit'] |  
+| bip_39_word_space_1 | promote |  
+| bip_39_word_space_10 | promote unlock language soul rally museum extra spare repeat drink |  
+| bip_39_word_space_11 | promote unlock language soul rally museum extra spare repeat drink typical |  
+| bip_39_word_space_12 | promote unlock language soul rally museum extra spare repeat drink typical audit |  
+| bip_39_word_space_2 | promote unlock |  
+| bip_39_word_space_3 | promote unlock language |  
+| bip_39_word_space_4 | promote unlock language soul |  
+| bip_39_word_space_5 | promote unlock language soul rally |  
+| bip_39_word_space_6 | promote unlock language soul rally museum |  
+| bip_39_word_space_7 | promote unlock language soul rally museum extra |  
+| bip_39_word_space_8 | promote unlock language soul rally museum extra spare |  
+| bip_39_word_space_9 | promote unlock language soul rally museum extra spare repeat |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

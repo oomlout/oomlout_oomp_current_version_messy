@@ -1,3 +1,186 @@
+bip_39_word_new_br1: better
+bip_39_word_new_br10: better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual
+bip_39_word_new_br11: better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual<br>recall
+bip_39_word_new_br12: better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson<br>usual<br>recall<br>asthma
+bip_39_word_new_br2: better<br>dry
+bip_39_word_new_br3: better<br>dry<br>fiscal
+bip_39_word_new_br4: better<br>dry<br>fiscal<br>anchor
+bip_39_word_new_br5: better<br>dry<br>fiscal<br>anchor<br>tail
+bip_39_word_new_br6: better<br>dry<br>fiscal<br>anchor<br>tail<br>skull
+bip_39_word_new_br7: better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition
+bip_39_word_new_br8: better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery
+bip_39_word_new_br9: better<br>dry<br>fiscal<br>anchor<br>tail<br>skull<br>tuition<br>grocery<br>lesson
+bip_39_word_new_line1: better
+bip_39_word_new_line10: 'better
+
+  dry
+
+  fiscal
+
+  anchor
+
+  tail
+
+  skull
+
+  tuition
+
+  grocery
+
+  lesson
+
+  usual'
+bip_39_word_new_line11: 'better
+
+  dry
+
+  fiscal
+
+  anchor
+
+  tail
+
+  skull
+
+  tuition
+
+  grocery
+
+  lesson
+
+  usual
+
+  recall'
+bip_39_word_new_line12: 'better
+
+  dry
+
+  fiscal
+
+  anchor
+
+  tail
+
+  skull
+
+  tuition
+
+  grocery
+
+  lesson
+
+  usual
+
+  recall
+
+  asthma'
+bip_39_word_new_line2: 'better
+
+  dry'
+bip_39_word_new_line3: 'better
+
+  dry
+
+  fiscal'
+bip_39_word_new_line4: 'better
+
+  dry
+
+  fiscal
+
+  anchor'
+bip_39_word_new_line5: 'better
+
+  dry
+
+  fiscal
+
+  anchor
+
+  tail'
+bip_39_word_new_line6: 'better
+
+  dry
+
+  fiscal
+
+  anchor
+
+  tail
+
+  skull'
+bip_39_word_new_line7: 'better
+
+  dry
+
+  fiscal
+
+  anchor
+
+  tail
+
+  skull
+
+  tuition'
+bip_39_word_new_line8: 'better
+
+  dry
+
+  fiscal
+
+  anchor
+
+  tail
+
+  skull
+
+  tuition
+
+  grocery'
+bip_39_word_new_line9: 'better
+
+  dry
+
+  fiscal
+
+  anchor
+
+  tail
+
+  skull
+
+  tuition
+
+  grocery
+
+  lesson'
+bip_39_word_space_0:
+- better
+- dry
+- fiscal
+- anchor
+- tail
+- skull
+- tuition
+- grocery
+- lesson
+- usual
+- recall
+- asthma
+bip_39_word_space_1: better
+bip_39_word_space_10: better dry fiscal anchor tail skull tuition grocery lesson usual
+bip_39_word_space_11: better dry fiscal anchor tail skull tuition grocery lesson usual
+  recall
+bip_39_word_space_12: better dry fiscal anchor tail skull tuition grocery lesson usual
+  recall asthma
+bip_39_word_space_2: better dry
+bip_39_word_space_3: better dry fiscal
+bip_39_word_space_4: better dry fiscal anchor
+bip_39_word_space_5: better dry fiscal anchor tail
+bip_39_word_space_6: better dry fiscal anchor tail skull
+bip_39_word_space_7: better dry fiscal anchor tail skull tuition
+bip_39_word_space_8: better dry fiscal anchor tail skull tuition grocery
+bip_39_word_space_9: better dry fiscal anchor tail skull tuition grocery lesson
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

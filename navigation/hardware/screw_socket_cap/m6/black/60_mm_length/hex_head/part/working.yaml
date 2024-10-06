@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enter
+bip_39_word_new_br10: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn
+bip_39_word_new_br11: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon
+bip_39_word_new_br12: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon<br>arena
+bip_39_word_new_br2: enter<br>case
+bip_39_word_new_br3: enter<br>case<br>half
+bip_39_word_new_br4: enter<br>case<br>half<br>kidney
+bip_39_word_new_br5: enter<br>case<br>half<br>kidney<br>blanket
+bip_39_word_new_br6: enter<br>case<br>half<br>kidney<br>blanket<br>liberty
+bip_39_word_new_br7: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall
+bip_39_word_new_br8: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill
+bip_39_word_new_br9: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove
+bip_39_word_new_line1: enter
+bip_39_word_new_line10: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill
+
+  glove
+
+  spawn'
+bip_39_word_new_line11: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill
+
+  glove
+
+  spawn
+
+  cinnamon'
+bip_39_word_new_line12: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill
+
+  glove
+
+  spawn
+
+  cinnamon
+
+  arena'
+bip_39_word_new_line2: 'enter
+
+  case'
+bip_39_word_new_line3: 'enter
+
+  case
+
+  half'
+bip_39_word_new_line4: 'enter
+
+  case
+
+  half
+
+  kidney'
+bip_39_word_new_line5: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket'
+bip_39_word_new_line6: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty'
+bip_39_word_new_line7: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall'
+bip_39_word_new_line8: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill'
+bip_39_word_new_line9: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill
+
+  glove'
+bip_39_word_space_0:
+- enter
+- case
+- half
+- kidney
+- blanket
+- liberty
+- fall
+- pill
+- glove
+- spawn
+- cinnamon
+- arena
+bip_39_word_space_1: enter
+bip_39_word_space_10: enter case half kidney blanket liberty fall pill glove spawn
+bip_39_word_space_11: enter case half kidney blanket liberty fall pill glove spawn
+  cinnamon
+bip_39_word_space_12: enter case half kidney blanket liberty fall pill glove spawn
+  cinnamon arena
+bip_39_word_space_2: enter case
+bip_39_word_space_3: enter case half
+bip_39_word_space_4: enter case half kidney
+bip_39_word_space_5: enter case half kidney blanket
+bip_39_word_space_6: enter case half kidney blanket liberty
+bip_39_word_space_7: enter case half kidney blanket liberty fall
+bip_39_word_space_8: enter case half kidney blanket liberty fall pill
+bip_39_word_space_9: enter case half kidney blanket liberty fall pill glove
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

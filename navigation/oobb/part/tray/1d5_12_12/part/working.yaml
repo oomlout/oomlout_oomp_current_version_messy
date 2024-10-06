@@ -1,3 +1,187 @@
+bip_39_word_new_br1: giant
+bip_39_word_new_br10: giant<br>frown<br>journey<br>double<br>sustain<br>health<br>arch<br>cupboard<br>together<br>strong
+bip_39_word_new_br11: giant<br>frown<br>journey<br>double<br>sustain<br>health<br>arch<br>cupboard<br>together<br>strong<br>collect
+bip_39_word_new_br12: giant<br>frown<br>journey<br>double<br>sustain<br>health<br>arch<br>cupboard<br>together<br>strong<br>collect<br>audit
+bip_39_word_new_br2: giant<br>frown
+bip_39_word_new_br3: giant<br>frown<br>journey
+bip_39_word_new_br4: giant<br>frown<br>journey<br>double
+bip_39_word_new_br5: giant<br>frown<br>journey<br>double<br>sustain
+bip_39_word_new_br6: giant<br>frown<br>journey<br>double<br>sustain<br>health
+bip_39_word_new_br7: giant<br>frown<br>journey<br>double<br>sustain<br>health<br>arch
+bip_39_word_new_br8: giant<br>frown<br>journey<br>double<br>sustain<br>health<br>arch<br>cupboard
+bip_39_word_new_br9: giant<br>frown<br>journey<br>double<br>sustain<br>health<br>arch<br>cupboard<br>together
+bip_39_word_new_line1: giant
+bip_39_word_new_line10: 'giant
+
+  frown
+
+  journey
+
+  double
+
+  sustain
+
+  health
+
+  arch
+
+  cupboard
+
+  together
+
+  strong'
+bip_39_word_new_line11: 'giant
+
+  frown
+
+  journey
+
+  double
+
+  sustain
+
+  health
+
+  arch
+
+  cupboard
+
+  together
+
+  strong
+
+  collect'
+bip_39_word_new_line12: 'giant
+
+  frown
+
+  journey
+
+  double
+
+  sustain
+
+  health
+
+  arch
+
+  cupboard
+
+  together
+
+  strong
+
+  collect
+
+  audit'
+bip_39_word_new_line2: 'giant
+
+  frown'
+bip_39_word_new_line3: 'giant
+
+  frown
+
+  journey'
+bip_39_word_new_line4: 'giant
+
+  frown
+
+  journey
+
+  double'
+bip_39_word_new_line5: 'giant
+
+  frown
+
+  journey
+
+  double
+
+  sustain'
+bip_39_word_new_line6: 'giant
+
+  frown
+
+  journey
+
+  double
+
+  sustain
+
+  health'
+bip_39_word_new_line7: 'giant
+
+  frown
+
+  journey
+
+  double
+
+  sustain
+
+  health
+
+  arch'
+bip_39_word_new_line8: 'giant
+
+  frown
+
+  journey
+
+  double
+
+  sustain
+
+  health
+
+  arch
+
+  cupboard'
+bip_39_word_new_line9: 'giant
+
+  frown
+
+  journey
+
+  double
+
+  sustain
+
+  health
+
+  arch
+
+  cupboard
+
+  together'
+bip_39_word_space_0:
+- giant
+- frown
+- journey
+- double
+- sustain
+- health
+- arch
+- cupboard
+- together
+- strong
+- collect
+- audit
+bip_39_word_space_1: giant
+bip_39_word_space_10: giant frown journey double sustain health arch cupboard together
+  strong
+bip_39_word_space_11: giant frown journey double sustain health arch cupboard together
+  strong collect
+bip_39_word_space_12: giant frown journey double sustain health arch cupboard together
+  strong collect audit
+bip_39_word_space_2: giant frown
+bip_39_word_space_3: giant frown journey
+bip_39_word_space_4: giant frown journey double
+bip_39_word_space_5: giant frown journey double sustain
+bip_39_word_space_6: giant frown journey double sustain health
+bip_39_word_space_7: giant frown journey double sustain health arch
+bip_39_word_space_8: giant frown journey double sustain health arch cupboard
+bip_39_word_space_9: giant frown journey double sustain health arch cupboard together
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

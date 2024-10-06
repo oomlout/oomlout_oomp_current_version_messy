@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spoon fiscal
+  * bip 39 word 3: spoon fiscal slot
+  * bip 39 word: spoon fiscal slot ozone toddler clog wrap orbit dignity tortoise outer album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spoon |  
+| bip_39_word_new_br10 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog<br>wrap<br>orbit<br>dignity<br>tortoise |  
+| bip_39_word_new_br11 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog<br>wrap<br>orbit<br>dignity<br>tortoise<br>outer |  
+| bip_39_word_new_br12 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog<br>wrap<br>orbit<br>dignity<br>tortoise<br>outer<br>album |  
+| bip_39_word_new_br2 | spoon<br>fiscal |  
+| bip_39_word_new_br3 | spoon<br>fiscal<br>slot |  
+| bip_39_word_new_br4 | spoon<br>fiscal<br>slot<br>ozone |  
+| bip_39_word_new_br5 | spoon<br>fiscal<br>slot<br>ozone<br>toddler |  
+| bip_39_word_new_br6 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog |  
+| bip_39_word_new_br7 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog<br>wrap |  
+| bip_39_word_new_br8 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog<br>wrap<br>orbit |  
+| bip_39_word_new_br9 | spoon<br>fiscal<br>slot<br>ozone<br>toddler<br>clog<br>wrap<br>orbit<br>dignity |  
+| bip_39_word_new_line1 | spoon |  
+| bip_39_word_new_line10 | spoon
+fiscal
+slot
+ozone
+toddler
+clog
+wrap
+orbit
+dignity
+tortoise |  
+| bip_39_word_new_line11 | spoon
+fiscal
+slot
+ozone
+toddler
+clog
+wrap
+orbit
+dignity
+tortoise
+outer |  
+| bip_39_word_new_line12 | spoon
+fiscal
+slot
+ozone
+toddler
+clog
+wrap
+orbit
+dignity
+tortoise
+outer
+album |  
+| bip_39_word_new_line2 | spoon
+fiscal |  
+| bip_39_word_new_line3 | spoon
+fiscal
+slot |  
+| bip_39_word_new_line4 | spoon
+fiscal
+slot
+ozone |  
+| bip_39_word_new_line5 | spoon
+fiscal
+slot
+ozone
+toddler |  
+| bip_39_word_new_line6 | spoon
+fiscal
+slot
+ozone
+toddler
+clog |  
+| bip_39_word_new_line7 | spoon
+fiscal
+slot
+ozone
+toddler
+clog
+wrap |  
+| bip_39_word_new_line8 | spoon
+fiscal
+slot
+ozone
+toddler
+clog
+wrap
+orbit |  
+| bip_39_word_new_line9 | spoon
+fiscal
+slot
+ozone
+toddler
+clog
+wrap
+orbit
+dignity |  
+| bip_39_word_space_0 | ['spoon', 'fiscal', 'slot', 'ozone', 'toddler', 'clog', 'wrap', 'orbit', 'dignity', 'tortoise', 'outer', 'album'] |  
+| bip_39_word_space_1 | spoon |  
+| bip_39_word_space_10 | spoon fiscal slot ozone toddler clog wrap orbit dignity tortoise |  
+| bip_39_word_space_11 | spoon fiscal slot ozone toddler clog wrap orbit dignity tortoise outer |  
+| bip_39_word_space_12 | spoon fiscal slot ozone toddler clog wrap orbit dignity tortoise outer album |  
+| bip_39_word_space_2 | spoon fiscal |  
+| bip_39_word_space_3 | spoon fiscal slot |  
+| bip_39_word_space_4 | spoon fiscal slot ozone |  
+| bip_39_word_space_5 | spoon fiscal slot ozone toddler |  
+| bip_39_word_space_6 | spoon fiscal slot ozone toddler clog |  
+| bip_39_word_space_7 | spoon fiscal slot ozone toddler clog wrap |  
+| bip_39_word_space_8 | spoon fiscal slot ozone toddler clog wrap orbit |  
+| bip_39_word_space_9 | spoon fiscal slot ozone toddler clog wrap orbit dignity |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

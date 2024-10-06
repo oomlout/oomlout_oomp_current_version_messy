@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: must unveil
+  * bip 39 word 3: must unveil casual
+  * bip 39 word: must unveil casual cash kiwi elite crop such canal garden oven able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | must |  
+| bip_39_word_new_br10 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite<br>crop<br>such<br>canal<br>garden |  
+| bip_39_word_new_br11 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite<br>crop<br>such<br>canal<br>garden<br>oven |  
+| bip_39_word_new_br12 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite<br>crop<br>such<br>canal<br>garden<br>oven<br>able |  
+| bip_39_word_new_br2 | must<br>unveil |  
+| bip_39_word_new_br3 | must<br>unveil<br>casual |  
+| bip_39_word_new_br4 | must<br>unveil<br>casual<br>cash |  
+| bip_39_word_new_br5 | must<br>unveil<br>casual<br>cash<br>kiwi |  
+| bip_39_word_new_br6 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite |  
+| bip_39_word_new_br7 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite<br>crop |  
+| bip_39_word_new_br8 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite<br>crop<br>such |  
+| bip_39_word_new_br9 | must<br>unveil<br>casual<br>cash<br>kiwi<br>elite<br>crop<br>such<br>canal |  
+| bip_39_word_new_line1 | must |  
+| bip_39_word_new_line10 | must
+unveil
+casual
+cash
+kiwi
+elite
+crop
+such
+canal
+garden |  
+| bip_39_word_new_line11 | must
+unveil
+casual
+cash
+kiwi
+elite
+crop
+such
+canal
+garden
+oven |  
+| bip_39_word_new_line12 | must
+unveil
+casual
+cash
+kiwi
+elite
+crop
+such
+canal
+garden
+oven
+able |  
+| bip_39_word_new_line2 | must
+unveil |  
+| bip_39_word_new_line3 | must
+unveil
+casual |  
+| bip_39_word_new_line4 | must
+unveil
+casual
+cash |  
+| bip_39_word_new_line5 | must
+unveil
+casual
+cash
+kiwi |  
+| bip_39_word_new_line6 | must
+unveil
+casual
+cash
+kiwi
+elite |  
+| bip_39_word_new_line7 | must
+unveil
+casual
+cash
+kiwi
+elite
+crop |  
+| bip_39_word_new_line8 | must
+unveil
+casual
+cash
+kiwi
+elite
+crop
+such |  
+| bip_39_word_new_line9 | must
+unveil
+casual
+cash
+kiwi
+elite
+crop
+such
+canal |  
+| bip_39_word_space_0 | ['must', 'unveil', 'casual', 'cash', 'kiwi', 'elite', 'crop', 'such', 'canal', 'garden', 'oven', 'able'] |  
+| bip_39_word_space_1 | must |  
+| bip_39_word_space_10 | must unveil casual cash kiwi elite crop such canal garden |  
+| bip_39_word_space_11 | must unveil casual cash kiwi elite crop such canal garden oven |  
+| bip_39_word_space_12 | must unveil casual cash kiwi elite crop such canal garden oven able |  
+| bip_39_word_space_2 | must unveil |  
+| bip_39_word_space_3 | must unveil casual |  
+| bip_39_word_space_4 | must unveil casual cash |  
+| bip_39_word_space_5 | must unveil casual cash kiwi |  
+| bip_39_word_space_6 | must unveil casual cash kiwi elite |  
+| bip_39_word_space_7 | must unveil casual cash kiwi elite crop |  
+| bip_39_word_space_8 | must unveil casual cash kiwi elite crop such |  
+| bip_39_word_space_9 | must unveil casual cash kiwi elite crop such canal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: library book
+  * bip 39 word 3: library book artefact
+  * bip 39 word: library book artefact wrist convince same wool more object run menu airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | library |  
+| bip_39_word_new_br10 | library<br>book<br>artefact<br>wrist<br>convince<br>same<br>wool<br>more<br>object<br>run |  
+| bip_39_word_new_br11 | library<br>book<br>artefact<br>wrist<br>convince<br>same<br>wool<br>more<br>object<br>run<br>menu |  
+| bip_39_word_new_br12 | library<br>book<br>artefact<br>wrist<br>convince<br>same<br>wool<br>more<br>object<br>run<br>menu<br>airport |  
+| bip_39_word_new_br2 | library<br>book |  
+| bip_39_word_new_br3 | library<br>book<br>artefact |  
+| bip_39_word_new_br4 | library<br>book<br>artefact<br>wrist |  
+| bip_39_word_new_br5 | library<br>book<br>artefact<br>wrist<br>convince |  
+| bip_39_word_new_br6 | library<br>book<br>artefact<br>wrist<br>convince<br>same |  
+| bip_39_word_new_br7 | library<br>book<br>artefact<br>wrist<br>convince<br>same<br>wool |  
+| bip_39_word_new_br8 | library<br>book<br>artefact<br>wrist<br>convince<br>same<br>wool<br>more |  
+| bip_39_word_new_br9 | library<br>book<br>artefact<br>wrist<br>convince<br>same<br>wool<br>more<br>object |  
+| bip_39_word_new_line1 | library |  
+| bip_39_word_new_line10 | library
+book
+artefact
+wrist
+convince
+same
+wool
+more
+object
+run |  
+| bip_39_word_new_line11 | library
+book
+artefact
+wrist
+convince
+same
+wool
+more
+object
+run
+menu |  
+| bip_39_word_new_line12 | library
+book
+artefact
+wrist
+convince
+same
+wool
+more
+object
+run
+menu
+airport |  
+| bip_39_word_new_line2 | library
+book |  
+| bip_39_word_new_line3 | library
+book
+artefact |  
+| bip_39_word_new_line4 | library
+book
+artefact
+wrist |  
+| bip_39_word_new_line5 | library
+book
+artefact
+wrist
+convince |  
+| bip_39_word_new_line6 | library
+book
+artefact
+wrist
+convince
+same |  
+| bip_39_word_new_line7 | library
+book
+artefact
+wrist
+convince
+same
+wool |  
+| bip_39_word_new_line8 | library
+book
+artefact
+wrist
+convince
+same
+wool
+more |  
+| bip_39_word_new_line9 | library
+book
+artefact
+wrist
+convince
+same
+wool
+more
+object |  
+| bip_39_word_space_0 | ['library', 'book', 'artefact', 'wrist', 'convince', 'same', 'wool', 'more', 'object', 'run', 'menu', 'airport'] |  
+| bip_39_word_space_1 | library |  
+| bip_39_word_space_10 | library book artefact wrist convince same wool more object run |  
+| bip_39_word_space_11 | library book artefact wrist convince same wool more object run menu |  
+| bip_39_word_space_12 | library book artefact wrist convince same wool more object run menu airport |  
+| bip_39_word_space_2 | library book |  
+| bip_39_word_space_3 | library book artefact |  
+| bip_39_word_space_4 | library book artefact wrist |  
+| bip_39_word_space_5 | library book artefact wrist convince |  
+| bip_39_word_space_6 | library book artefact wrist convince same |  
+| bip_39_word_space_7 | library book artefact wrist convince same wool |  
+| bip_39_word_space_8 | library book artefact wrist convince same wool more |  
+| bip_39_word_space_9 | library book artefact wrist convince same wool more object |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

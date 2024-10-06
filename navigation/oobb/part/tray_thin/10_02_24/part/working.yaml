@@ -1,3 +1,185 @@
+bip_39_word_new_br1: boss
+bip_39_word_new_br10: boss<br>tooth<br>boost<br>tent<br>broken<br>fresh<br>forum<br>theme<br>steel<br>steel
+bip_39_word_new_br11: boss<br>tooth<br>boost<br>tent<br>broken<br>fresh<br>forum<br>theme<br>steel<br>steel<br>copy
+bip_39_word_new_br12: boss<br>tooth<br>boost<br>tent<br>broken<br>fresh<br>forum<br>theme<br>steel<br>steel<br>copy<br>announce
+bip_39_word_new_br2: boss<br>tooth
+bip_39_word_new_br3: boss<br>tooth<br>boost
+bip_39_word_new_br4: boss<br>tooth<br>boost<br>tent
+bip_39_word_new_br5: boss<br>tooth<br>boost<br>tent<br>broken
+bip_39_word_new_br6: boss<br>tooth<br>boost<br>tent<br>broken<br>fresh
+bip_39_word_new_br7: boss<br>tooth<br>boost<br>tent<br>broken<br>fresh<br>forum
+bip_39_word_new_br8: boss<br>tooth<br>boost<br>tent<br>broken<br>fresh<br>forum<br>theme
+bip_39_word_new_br9: boss<br>tooth<br>boost<br>tent<br>broken<br>fresh<br>forum<br>theme<br>steel
+bip_39_word_new_line1: boss
+bip_39_word_new_line10: 'boss
+
+  tooth
+
+  boost
+
+  tent
+
+  broken
+
+  fresh
+
+  forum
+
+  theme
+
+  steel
+
+  steel'
+bip_39_word_new_line11: 'boss
+
+  tooth
+
+  boost
+
+  tent
+
+  broken
+
+  fresh
+
+  forum
+
+  theme
+
+  steel
+
+  steel
+
+  copy'
+bip_39_word_new_line12: 'boss
+
+  tooth
+
+  boost
+
+  tent
+
+  broken
+
+  fresh
+
+  forum
+
+  theme
+
+  steel
+
+  steel
+
+  copy
+
+  announce'
+bip_39_word_new_line2: 'boss
+
+  tooth'
+bip_39_word_new_line3: 'boss
+
+  tooth
+
+  boost'
+bip_39_word_new_line4: 'boss
+
+  tooth
+
+  boost
+
+  tent'
+bip_39_word_new_line5: 'boss
+
+  tooth
+
+  boost
+
+  tent
+
+  broken'
+bip_39_word_new_line6: 'boss
+
+  tooth
+
+  boost
+
+  tent
+
+  broken
+
+  fresh'
+bip_39_word_new_line7: 'boss
+
+  tooth
+
+  boost
+
+  tent
+
+  broken
+
+  fresh
+
+  forum'
+bip_39_word_new_line8: 'boss
+
+  tooth
+
+  boost
+
+  tent
+
+  broken
+
+  fresh
+
+  forum
+
+  theme'
+bip_39_word_new_line9: 'boss
+
+  tooth
+
+  boost
+
+  tent
+
+  broken
+
+  fresh
+
+  forum
+
+  theme
+
+  steel'
+bip_39_word_space_0:
+- boss
+- tooth
+- boost
+- tent
+- broken
+- fresh
+- forum
+- theme
+- steel
+- steel
+- copy
+- announce
+bip_39_word_space_1: boss
+bip_39_word_space_10: boss tooth boost tent broken fresh forum theme steel steel
+bip_39_word_space_11: boss tooth boost tent broken fresh forum theme steel steel copy
+bip_39_word_space_12: boss tooth boost tent broken fresh forum theme steel steel copy
+  announce
+bip_39_word_space_2: boss tooth
+bip_39_word_space_3: boss tooth boost
+bip_39_word_space_4: boss tooth boost tent
+bip_39_word_space_5: boss tooth boost tent broken
+bip_39_word_space_6: boss tooth boost tent broken fresh
+bip_39_word_space_7: boss tooth boost tent broken fresh forum
+bip_39_word_space_8: boss tooth boost tent broken fresh forum theme
+bip_39_word_space_9: boss tooth boost tent broken fresh forum theme steel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

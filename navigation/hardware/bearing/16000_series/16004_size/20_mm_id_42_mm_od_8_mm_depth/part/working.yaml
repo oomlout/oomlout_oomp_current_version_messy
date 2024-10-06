@@ -1,3 +1,185 @@
+bip_39_word_new_br1: click
+bip_39_word_new_br10: click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup
+bip_39_word_new_br11: click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup<br>earth
+bip_39_word_new_br12: click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo<br>syrup<br>earth<br>alter
+bip_39_word_new_br2: click<br>stage
+bip_39_word_new_br3: click<br>stage<br>lazy
+bip_39_word_new_br4: click<br>stage<br>lazy<br>visit
+bip_39_word_new_br5: click<br>stage<br>lazy<br>visit<br>mimic
+bip_39_word_new_br6: click<br>stage<br>lazy<br>visit<br>mimic<br>trick
+bip_39_word_new_br7: click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus
+bip_39_word_new_br8: click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring
+bip_39_word_new_br9: click<br>stage<br>lazy<br>visit<br>mimic<br>trick<br>focus<br>ring<br>tattoo
+bip_39_word_new_line1: click
+bip_39_word_new_line10: 'click
+
+  stage
+
+  lazy
+
+  visit
+
+  mimic
+
+  trick
+
+  focus
+
+  ring
+
+  tattoo
+
+  syrup'
+bip_39_word_new_line11: 'click
+
+  stage
+
+  lazy
+
+  visit
+
+  mimic
+
+  trick
+
+  focus
+
+  ring
+
+  tattoo
+
+  syrup
+
+  earth'
+bip_39_word_new_line12: 'click
+
+  stage
+
+  lazy
+
+  visit
+
+  mimic
+
+  trick
+
+  focus
+
+  ring
+
+  tattoo
+
+  syrup
+
+  earth
+
+  alter'
+bip_39_word_new_line2: 'click
+
+  stage'
+bip_39_word_new_line3: 'click
+
+  stage
+
+  lazy'
+bip_39_word_new_line4: 'click
+
+  stage
+
+  lazy
+
+  visit'
+bip_39_word_new_line5: 'click
+
+  stage
+
+  lazy
+
+  visit
+
+  mimic'
+bip_39_word_new_line6: 'click
+
+  stage
+
+  lazy
+
+  visit
+
+  mimic
+
+  trick'
+bip_39_word_new_line7: 'click
+
+  stage
+
+  lazy
+
+  visit
+
+  mimic
+
+  trick
+
+  focus'
+bip_39_word_new_line8: 'click
+
+  stage
+
+  lazy
+
+  visit
+
+  mimic
+
+  trick
+
+  focus
+
+  ring'
+bip_39_word_new_line9: 'click
+
+  stage
+
+  lazy
+
+  visit
+
+  mimic
+
+  trick
+
+  focus
+
+  ring
+
+  tattoo'
+bip_39_word_space_0:
+- click
+- stage
+- lazy
+- visit
+- mimic
+- trick
+- focus
+- ring
+- tattoo
+- syrup
+- earth
+- alter
+bip_39_word_space_1: click
+bip_39_word_space_10: click stage lazy visit mimic trick focus ring tattoo syrup
+bip_39_word_space_11: click stage lazy visit mimic trick focus ring tattoo syrup earth
+bip_39_word_space_12: click stage lazy visit mimic trick focus ring tattoo syrup earth
+  alter
+bip_39_word_space_2: click stage
+bip_39_word_space_3: click stage lazy
+bip_39_word_space_4: click stage lazy visit
+bip_39_word_space_5: click stage lazy visit mimic
+bip_39_word_space_6: click stage lazy visit mimic trick
+bip_39_word_space_7: click stage lazy visit mimic trick focus
+bip_39_word_space_8: click stage lazy visit mimic trick focus ring
+bip_39_word_space_9: click stage lazy visit mimic trick focus ring tattoo
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

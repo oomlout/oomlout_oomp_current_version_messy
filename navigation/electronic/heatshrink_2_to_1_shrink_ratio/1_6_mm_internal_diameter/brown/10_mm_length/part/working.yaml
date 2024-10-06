@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wife
+bip_39_word_new_br10: wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth
+bip_39_word_new_br11: wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth<br>build
+bip_39_word_new_br12: wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut<br>wealth<br>build<br>affair
+bip_39_word_new_br2: wife<br>beauty
+bip_39_word_new_br3: wife<br>beauty<br>innocent
+bip_39_word_new_br4: wife<br>beauty<br>innocent<br>joke
+bip_39_word_new_br5: wife<br>beauty<br>innocent<br>joke<br>coil
+bip_39_word_new_br6: wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar
+bip_39_word_new_br7: wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run
+bip_39_word_new_br8: wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come
+bip_39_word_new_br9: wife<br>beauty<br>innocent<br>joke<br>coil<br>seminar<br>run<br>come<br>coconut
+bip_39_word_new_line1: wife
+bip_39_word_new_line10: 'wife
+
+  beauty
+
+  innocent
+
+  joke
+
+  coil
+
+  seminar
+
+  run
+
+  come
+
+  coconut
+
+  wealth'
+bip_39_word_new_line11: 'wife
+
+  beauty
+
+  innocent
+
+  joke
+
+  coil
+
+  seminar
+
+  run
+
+  come
+
+  coconut
+
+  wealth
+
+  build'
+bip_39_word_new_line12: 'wife
+
+  beauty
+
+  innocent
+
+  joke
+
+  coil
+
+  seminar
+
+  run
+
+  come
+
+  coconut
+
+  wealth
+
+  build
+
+  affair'
+bip_39_word_new_line2: 'wife
+
+  beauty'
+bip_39_word_new_line3: 'wife
+
+  beauty
+
+  innocent'
+bip_39_word_new_line4: 'wife
+
+  beauty
+
+  innocent
+
+  joke'
+bip_39_word_new_line5: 'wife
+
+  beauty
+
+  innocent
+
+  joke
+
+  coil'
+bip_39_word_new_line6: 'wife
+
+  beauty
+
+  innocent
+
+  joke
+
+  coil
+
+  seminar'
+bip_39_word_new_line7: 'wife
+
+  beauty
+
+  innocent
+
+  joke
+
+  coil
+
+  seminar
+
+  run'
+bip_39_word_new_line8: 'wife
+
+  beauty
+
+  innocent
+
+  joke
+
+  coil
+
+  seminar
+
+  run
+
+  come'
+bip_39_word_new_line9: 'wife
+
+  beauty
+
+  innocent
+
+  joke
+
+  coil
+
+  seminar
+
+  run
+
+  come
+
+  coconut'
+bip_39_word_space_0:
+- wife
+- beauty
+- innocent
+- joke
+- coil
+- seminar
+- run
+- come
+- coconut
+- wealth
+- build
+- affair
+bip_39_word_space_1: wife
+bip_39_word_space_10: wife beauty innocent joke coil seminar run come coconut wealth
+bip_39_word_space_11: wife beauty innocent joke coil seminar run come coconut wealth
+  build
+bip_39_word_space_12: wife beauty innocent joke coil seminar run come coconut wealth
+  build affair
+bip_39_word_space_2: wife beauty
+bip_39_word_space_3: wife beauty innocent
+bip_39_word_space_4: wife beauty innocent joke
+bip_39_word_space_5: wife beauty innocent joke coil
+bip_39_word_space_6: wife beauty innocent joke coil seminar
+bip_39_word_space_7: wife beauty innocent joke coil seminar run
+bip_39_word_space_8: wife beauty innocent joke coil seminar run come
+bip_39_word_space_9: wife beauty innocent joke coil seminar run come coconut
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

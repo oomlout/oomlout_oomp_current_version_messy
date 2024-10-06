@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swift uniform
+  * bip 39 word 3: swift uniform outer
+  * bip 39 word: swift uniform outer exotic key group river advance print crime wear actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swift |  
+| bip_39_word_new_br10 | swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime |  
+| bip_39_word_new_br11 | swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime<br>wear |  
+| bip_39_word_new_br12 | swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print<br>crime<br>wear<br>actor |  
+| bip_39_word_new_br2 | swift<br>uniform |  
+| bip_39_word_new_br3 | swift<br>uniform<br>outer |  
+| bip_39_word_new_br4 | swift<br>uniform<br>outer<br>exotic |  
+| bip_39_word_new_br5 | swift<br>uniform<br>outer<br>exotic<br>key |  
+| bip_39_word_new_br6 | swift<br>uniform<br>outer<br>exotic<br>key<br>group |  
+| bip_39_word_new_br7 | swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river |  
+| bip_39_word_new_br8 | swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance |  
+| bip_39_word_new_br9 | swift<br>uniform<br>outer<br>exotic<br>key<br>group<br>river<br>advance<br>print |  
+| bip_39_word_new_line1 | swift |  
+| bip_39_word_new_line10 | swift
+uniform
+outer
+exotic
+key
+group
+river
+advance
+print
+crime |  
+| bip_39_word_new_line11 | swift
+uniform
+outer
+exotic
+key
+group
+river
+advance
+print
+crime
+wear |  
+| bip_39_word_new_line12 | swift
+uniform
+outer
+exotic
+key
+group
+river
+advance
+print
+crime
+wear
+actor |  
+| bip_39_word_new_line2 | swift
+uniform |  
+| bip_39_word_new_line3 | swift
+uniform
+outer |  
+| bip_39_word_new_line4 | swift
+uniform
+outer
+exotic |  
+| bip_39_word_new_line5 | swift
+uniform
+outer
+exotic
+key |  
+| bip_39_word_new_line6 | swift
+uniform
+outer
+exotic
+key
+group |  
+| bip_39_word_new_line7 | swift
+uniform
+outer
+exotic
+key
+group
+river |  
+| bip_39_word_new_line8 | swift
+uniform
+outer
+exotic
+key
+group
+river
+advance |  
+| bip_39_word_new_line9 | swift
+uniform
+outer
+exotic
+key
+group
+river
+advance
+print |  
+| bip_39_word_space_0 | ['swift', 'uniform', 'outer', 'exotic', 'key', 'group', 'river', 'advance', 'print', 'crime', 'wear', 'actor'] |  
+| bip_39_word_space_1 | swift |  
+| bip_39_word_space_10 | swift uniform outer exotic key group river advance print crime |  
+| bip_39_word_space_11 | swift uniform outer exotic key group river advance print crime wear |  
+| bip_39_word_space_12 | swift uniform outer exotic key group river advance print crime wear actor |  
+| bip_39_word_space_2 | swift uniform |  
+| bip_39_word_space_3 | swift uniform outer |  
+| bip_39_word_space_4 | swift uniform outer exotic |  
+| bip_39_word_space_5 | swift uniform outer exotic key |  
+| bip_39_word_space_6 | swift uniform outer exotic key group |  
+| bip_39_word_space_7 | swift uniform outer exotic key group river |  
+| bip_39_word_space_8 | swift uniform outer exotic key group river advance |  
+| bip_39_word_space_9 | swift uniform outer exotic key group river advance print |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

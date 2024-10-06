@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hammer steel
+  * bip 39 word 3: hammer steel grief
+  * bip 39 word: hammer steel grief curious inhale soul luxury drip couple endorse coffee ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hammer |  
+| bip_39_word_new_br10 | hammer<br>steel<br>grief<br>curious<br>inhale<br>soul<br>luxury<br>drip<br>couple<br>endorse |  
+| bip_39_word_new_br11 | hammer<br>steel<br>grief<br>curious<br>inhale<br>soul<br>luxury<br>drip<br>couple<br>endorse<br>coffee |  
+| bip_39_word_new_br12 | hammer<br>steel<br>grief<br>curious<br>inhale<br>soul<br>luxury<br>drip<br>couple<br>endorse<br>coffee<br>ahead |  
+| bip_39_word_new_br2 | hammer<br>steel |  
+| bip_39_word_new_br3 | hammer<br>steel<br>grief |  
+| bip_39_word_new_br4 | hammer<br>steel<br>grief<br>curious |  
+| bip_39_word_new_br5 | hammer<br>steel<br>grief<br>curious<br>inhale |  
+| bip_39_word_new_br6 | hammer<br>steel<br>grief<br>curious<br>inhale<br>soul |  
+| bip_39_word_new_br7 | hammer<br>steel<br>grief<br>curious<br>inhale<br>soul<br>luxury |  
+| bip_39_word_new_br8 | hammer<br>steel<br>grief<br>curious<br>inhale<br>soul<br>luxury<br>drip |  
+| bip_39_word_new_br9 | hammer<br>steel<br>grief<br>curious<br>inhale<br>soul<br>luxury<br>drip<br>couple |  
+| bip_39_word_new_line1 | hammer |  
+| bip_39_word_new_line10 | hammer
+steel
+grief
+curious
+inhale
+soul
+luxury
+drip
+couple
+endorse |  
+| bip_39_word_new_line11 | hammer
+steel
+grief
+curious
+inhale
+soul
+luxury
+drip
+couple
+endorse
+coffee |  
+| bip_39_word_new_line12 | hammer
+steel
+grief
+curious
+inhale
+soul
+luxury
+drip
+couple
+endorse
+coffee
+ahead |  
+| bip_39_word_new_line2 | hammer
+steel |  
+| bip_39_word_new_line3 | hammer
+steel
+grief |  
+| bip_39_word_new_line4 | hammer
+steel
+grief
+curious |  
+| bip_39_word_new_line5 | hammer
+steel
+grief
+curious
+inhale |  
+| bip_39_word_new_line6 | hammer
+steel
+grief
+curious
+inhale
+soul |  
+| bip_39_word_new_line7 | hammer
+steel
+grief
+curious
+inhale
+soul
+luxury |  
+| bip_39_word_new_line8 | hammer
+steel
+grief
+curious
+inhale
+soul
+luxury
+drip |  
+| bip_39_word_new_line9 | hammer
+steel
+grief
+curious
+inhale
+soul
+luxury
+drip
+couple |  
+| bip_39_word_space_0 | ['hammer', 'steel', 'grief', 'curious', 'inhale', 'soul', 'luxury', 'drip', 'couple', 'endorse', 'coffee', 'ahead'] |  
+| bip_39_word_space_1 | hammer |  
+| bip_39_word_space_10 | hammer steel grief curious inhale soul luxury drip couple endorse |  
+| bip_39_word_space_11 | hammer steel grief curious inhale soul luxury drip couple endorse coffee |  
+| bip_39_word_space_12 | hammer steel grief curious inhale soul luxury drip couple endorse coffee ahead |  
+| bip_39_word_space_2 | hammer steel |  
+| bip_39_word_space_3 | hammer steel grief |  
+| bip_39_word_space_4 | hammer steel grief curious |  
+| bip_39_word_space_5 | hammer steel grief curious inhale |  
+| bip_39_word_space_6 | hammer steel grief curious inhale soul |  
+| bip_39_word_space_7 | hammer steel grief curious inhale soul luxury |  
+| bip_39_word_space_8 | hammer steel grief curious inhale soul luxury drip |  
+| bip_39_word_space_9 | hammer steel grief curious inhale soul luxury drip couple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

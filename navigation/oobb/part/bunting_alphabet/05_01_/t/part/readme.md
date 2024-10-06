@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: t
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: million region
+  * bip 39 word 3: million region blast
+  * bip 39 word: million region blast traffic quarter end sniff rug history urban salon assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | million |  
+| bip_39_word_new_br10 | million<br>region<br>blast<br>traffic<br>quarter<br>end<br>sniff<br>rug<br>history<br>urban |  
+| bip_39_word_new_br11 | million<br>region<br>blast<br>traffic<br>quarter<br>end<br>sniff<br>rug<br>history<br>urban<br>salon |  
+| bip_39_word_new_br12 | million<br>region<br>blast<br>traffic<br>quarter<br>end<br>sniff<br>rug<br>history<br>urban<br>salon<br>assist |  
+| bip_39_word_new_br2 | million<br>region |  
+| bip_39_word_new_br3 | million<br>region<br>blast |  
+| bip_39_word_new_br4 | million<br>region<br>blast<br>traffic |  
+| bip_39_word_new_br5 | million<br>region<br>blast<br>traffic<br>quarter |  
+| bip_39_word_new_br6 | million<br>region<br>blast<br>traffic<br>quarter<br>end |  
+| bip_39_word_new_br7 | million<br>region<br>blast<br>traffic<br>quarter<br>end<br>sniff |  
+| bip_39_word_new_br8 | million<br>region<br>blast<br>traffic<br>quarter<br>end<br>sniff<br>rug |  
+| bip_39_word_new_br9 | million<br>region<br>blast<br>traffic<br>quarter<br>end<br>sniff<br>rug<br>history |  
+| bip_39_word_new_line1 | million |  
+| bip_39_word_new_line10 | million
+region
+blast
+traffic
+quarter
+end
+sniff
+rug
+history
+urban |  
+| bip_39_word_new_line11 | million
+region
+blast
+traffic
+quarter
+end
+sniff
+rug
+history
+urban
+salon |  
+| bip_39_word_new_line12 | million
+region
+blast
+traffic
+quarter
+end
+sniff
+rug
+history
+urban
+salon
+assist |  
+| bip_39_word_new_line2 | million
+region |  
+| bip_39_word_new_line3 | million
+region
+blast |  
+| bip_39_word_new_line4 | million
+region
+blast
+traffic |  
+| bip_39_word_new_line5 | million
+region
+blast
+traffic
+quarter |  
+| bip_39_word_new_line6 | million
+region
+blast
+traffic
+quarter
+end |  
+| bip_39_word_new_line7 | million
+region
+blast
+traffic
+quarter
+end
+sniff |  
+| bip_39_word_new_line8 | million
+region
+blast
+traffic
+quarter
+end
+sniff
+rug |  
+| bip_39_word_new_line9 | million
+region
+blast
+traffic
+quarter
+end
+sniff
+rug
+history |  
+| bip_39_word_space_0 | ['million', 'region', 'blast', 'traffic', 'quarter', 'end', 'sniff', 'rug', 'history', 'urban', 'salon', 'assist'] |  
+| bip_39_word_space_1 | million |  
+| bip_39_word_space_10 | million region blast traffic quarter end sniff rug history urban |  
+| bip_39_word_space_11 | million region blast traffic quarter end sniff rug history urban salon |  
+| bip_39_word_space_12 | million region blast traffic quarter end sniff rug history urban salon assist |  
+| bip_39_word_space_2 | million region |  
+| bip_39_word_space_3 | million region blast |  
+| bip_39_word_space_4 | million region blast traffic |  
+| bip_39_word_space_5 | million region blast traffic quarter |  
+| bip_39_word_space_6 | million region blast traffic quarter end |  
+| bip_39_word_space_7 | million region blast traffic quarter end sniff |  
+| bip_39_word_space_8 | million region blast traffic quarter end sniff rug |  
+| bip_39_word_space_9 | million region blast traffic quarter end sniff rug history |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

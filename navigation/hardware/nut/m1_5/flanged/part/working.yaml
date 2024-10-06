@@ -1,3 +1,186 @@
+bip_39_word_new_br1: achieve
+bip_39_word_new_br10: achieve<br>lava<br>tennis<br>mind<br>gentle<br>october<br>video<br>gym<br>chalk<br>unveil
+bip_39_word_new_br11: achieve<br>lava<br>tennis<br>mind<br>gentle<br>october<br>video<br>gym<br>chalk<br>unveil<br>crop
+bip_39_word_new_br12: achieve<br>lava<br>tennis<br>mind<br>gentle<br>october<br>video<br>gym<br>chalk<br>unveil<br>crop<br>alpha
+bip_39_word_new_br2: achieve<br>lava
+bip_39_word_new_br3: achieve<br>lava<br>tennis
+bip_39_word_new_br4: achieve<br>lava<br>tennis<br>mind
+bip_39_word_new_br5: achieve<br>lava<br>tennis<br>mind<br>gentle
+bip_39_word_new_br6: achieve<br>lava<br>tennis<br>mind<br>gentle<br>october
+bip_39_word_new_br7: achieve<br>lava<br>tennis<br>mind<br>gentle<br>october<br>video
+bip_39_word_new_br8: achieve<br>lava<br>tennis<br>mind<br>gentle<br>october<br>video<br>gym
+bip_39_word_new_br9: achieve<br>lava<br>tennis<br>mind<br>gentle<br>october<br>video<br>gym<br>chalk
+bip_39_word_new_line1: achieve
+bip_39_word_new_line10: 'achieve
+
+  lava
+
+  tennis
+
+  mind
+
+  gentle
+
+  october
+
+  video
+
+  gym
+
+  chalk
+
+  unveil'
+bip_39_word_new_line11: 'achieve
+
+  lava
+
+  tennis
+
+  mind
+
+  gentle
+
+  october
+
+  video
+
+  gym
+
+  chalk
+
+  unveil
+
+  crop'
+bip_39_word_new_line12: 'achieve
+
+  lava
+
+  tennis
+
+  mind
+
+  gentle
+
+  october
+
+  video
+
+  gym
+
+  chalk
+
+  unveil
+
+  crop
+
+  alpha'
+bip_39_word_new_line2: 'achieve
+
+  lava'
+bip_39_word_new_line3: 'achieve
+
+  lava
+
+  tennis'
+bip_39_word_new_line4: 'achieve
+
+  lava
+
+  tennis
+
+  mind'
+bip_39_word_new_line5: 'achieve
+
+  lava
+
+  tennis
+
+  mind
+
+  gentle'
+bip_39_word_new_line6: 'achieve
+
+  lava
+
+  tennis
+
+  mind
+
+  gentle
+
+  october'
+bip_39_word_new_line7: 'achieve
+
+  lava
+
+  tennis
+
+  mind
+
+  gentle
+
+  october
+
+  video'
+bip_39_word_new_line8: 'achieve
+
+  lava
+
+  tennis
+
+  mind
+
+  gentle
+
+  october
+
+  video
+
+  gym'
+bip_39_word_new_line9: 'achieve
+
+  lava
+
+  tennis
+
+  mind
+
+  gentle
+
+  october
+
+  video
+
+  gym
+
+  chalk'
+bip_39_word_space_0:
+- achieve
+- lava
+- tennis
+- mind
+- gentle
+- october
+- video
+- gym
+- chalk
+- unveil
+- crop
+- alpha
+bip_39_word_space_1: achieve
+bip_39_word_space_10: achieve lava tennis mind gentle october video gym chalk unveil
+bip_39_word_space_11: achieve lava tennis mind gentle october video gym chalk unveil
+  crop
+bip_39_word_space_12: achieve lava tennis mind gentle october video gym chalk unveil
+  crop alpha
+bip_39_word_space_2: achieve lava
+bip_39_word_space_3: achieve lava tennis
+bip_39_word_space_4: achieve lava tennis mind
+bip_39_word_space_5: achieve lava tennis mind gentle
+bip_39_word_space_6: achieve lava tennis mind gentle october
+bip_39_word_space_7: achieve lava tennis mind gentle october video
+bip_39_word_space_8: achieve lava tennis mind gentle october video gym
+bip_39_word_space_9: achieve lava tennis mind gentle october video gym chalk
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

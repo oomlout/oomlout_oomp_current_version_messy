@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wool ice
+  * bip 39 word 3: wool ice post
+  * bip 39 word: wool ice post orphan mobile small voyage flower hard real warm arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wool |  
+| bip_39_word_new_br10 | wool<br>ice<br>post<br>orphan<br>mobile<br>small<br>voyage<br>flower<br>hard<br>real |  
+| bip_39_word_new_br11 | wool<br>ice<br>post<br>orphan<br>mobile<br>small<br>voyage<br>flower<br>hard<br>real<br>warm |  
+| bip_39_word_new_br12 | wool<br>ice<br>post<br>orphan<br>mobile<br>small<br>voyage<br>flower<br>hard<br>real<br>warm<br>arrow |  
+| bip_39_word_new_br2 | wool<br>ice |  
+| bip_39_word_new_br3 | wool<br>ice<br>post |  
+| bip_39_word_new_br4 | wool<br>ice<br>post<br>orphan |  
+| bip_39_word_new_br5 | wool<br>ice<br>post<br>orphan<br>mobile |  
+| bip_39_word_new_br6 | wool<br>ice<br>post<br>orphan<br>mobile<br>small |  
+| bip_39_word_new_br7 | wool<br>ice<br>post<br>orphan<br>mobile<br>small<br>voyage |  
+| bip_39_word_new_br8 | wool<br>ice<br>post<br>orphan<br>mobile<br>small<br>voyage<br>flower |  
+| bip_39_word_new_br9 | wool<br>ice<br>post<br>orphan<br>mobile<br>small<br>voyage<br>flower<br>hard |  
+| bip_39_word_new_line1 | wool |  
+| bip_39_word_new_line10 | wool
+ice
+post
+orphan
+mobile
+small
+voyage
+flower
+hard
+real |  
+| bip_39_word_new_line11 | wool
+ice
+post
+orphan
+mobile
+small
+voyage
+flower
+hard
+real
+warm |  
+| bip_39_word_new_line12 | wool
+ice
+post
+orphan
+mobile
+small
+voyage
+flower
+hard
+real
+warm
+arrow |  
+| bip_39_word_new_line2 | wool
+ice |  
+| bip_39_word_new_line3 | wool
+ice
+post |  
+| bip_39_word_new_line4 | wool
+ice
+post
+orphan |  
+| bip_39_word_new_line5 | wool
+ice
+post
+orphan
+mobile |  
+| bip_39_word_new_line6 | wool
+ice
+post
+orphan
+mobile
+small |  
+| bip_39_word_new_line7 | wool
+ice
+post
+orphan
+mobile
+small
+voyage |  
+| bip_39_word_new_line8 | wool
+ice
+post
+orphan
+mobile
+small
+voyage
+flower |  
+| bip_39_word_new_line9 | wool
+ice
+post
+orphan
+mobile
+small
+voyage
+flower
+hard |  
+| bip_39_word_space_0 | ['wool', 'ice', 'post', 'orphan', 'mobile', 'small', 'voyage', 'flower', 'hard', 'real', 'warm', 'arrow'] |  
+| bip_39_word_space_1 | wool |  
+| bip_39_word_space_10 | wool ice post orphan mobile small voyage flower hard real |  
+| bip_39_word_space_11 | wool ice post orphan mobile small voyage flower hard real warm |  
+| bip_39_word_space_12 | wool ice post orphan mobile small voyage flower hard real warm arrow |  
+| bip_39_word_space_2 | wool ice |  
+| bip_39_word_space_3 | wool ice post |  
+| bip_39_word_space_4 | wool ice post orphan |  
+| bip_39_word_space_5 | wool ice post orphan mobile |  
+| bip_39_word_space_6 | wool ice post orphan mobile small |  
+| bip_39_word_space_7 | wool ice post orphan mobile small voyage |  
+| bip_39_word_space_8 | wool ice post orphan mobile small voyage flower |  
+| bip_39_word_space_9 | wool ice post orphan mobile small voyage flower hard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

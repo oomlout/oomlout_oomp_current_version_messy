@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: higher_voltage_higher_voltage
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: insane sunny
+  * bip 39 word 3: insane sunny park
+  * bip 39 word: insane sunny park diary apple proud drift neglect industry farm giggle adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | insane |  
+| bip_39_word_new_br10 | insane<br>sunny<br>park<br>diary<br>apple<br>proud<br>drift<br>neglect<br>industry<br>farm |  
+| bip_39_word_new_br11 | insane<br>sunny<br>park<br>diary<br>apple<br>proud<br>drift<br>neglect<br>industry<br>farm<br>giggle |  
+| bip_39_word_new_br12 | insane<br>sunny<br>park<br>diary<br>apple<br>proud<br>drift<br>neglect<br>industry<br>farm<br>giggle<br>adapt |  
+| bip_39_word_new_br2 | insane<br>sunny |  
+| bip_39_word_new_br3 | insane<br>sunny<br>park |  
+| bip_39_word_new_br4 | insane<br>sunny<br>park<br>diary |  
+| bip_39_word_new_br5 | insane<br>sunny<br>park<br>diary<br>apple |  
+| bip_39_word_new_br6 | insane<br>sunny<br>park<br>diary<br>apple<br>proud |  
+| bip_39_word_new_br7 | insane<br>sunny<br>park<br>diary<br>apple<br>proud<br>drift |  
+| bip_39_word_new_br8 | insane<br>sunny<br>park<br>diary<br>apple<br>proud<br>drift<br>neglect |  
+| bip_39_word_new_br9 | insane<br>sunny<br>park<br>diary<br>apple<br>proud<br>drift<br>neglect<br>industry |  
+| bip_39_word_new_line1 | insane |  
+| bip_39_word_new_line10 | insane
+sunny
+park
+diary
+apple
+proud
+drift
+neglect
+industry
+farm |  
+| bip_39_word_new_line11 | insane
+sunny
+park
+diary
+apple
+proud
+drift
+neglect
+industry
+farm
+giggle |  
+| bip_39_word_new_line12 | insane
+sunny
+park
+diary
+apple
+proud
+drift
+neglect
+industry
+farm
+giggle
+adapt |  
+| bip_39_word_new_line2 | insane
+sunny |  
+| bip_39_word_new_line3 | insane
+sunny
+park |  
+| bip_39_word_new_line4 | insane
+sunny
+park
+diary |  
+| bip_39_word_new_line5 | insane
+sunny
+park
+diary
+apple |  
+| bip_39_word_new_line6 | insane
+sunny
+park
+diary
+apple
+proud |  
+| bip_39_word_new_line7 | insane
+sunny
+park
+diary
+apple
+proud
+drift |  
+| bip_39_word_new_line8 | insane
+sunny
+park
+diary
+apple
+proud
+drift
+neglect |  
+| bip_39_word_new_line9 | insane
+sunny
+park
+diary
+apple
+proud
+drift
+neglect
+industry |  
+| bip_39_word_space_0 | ['insane', 'sunny', 'park', 'diary', 'apple', 'proud', 'drift', 'neglect', 'industry', 'farm', 'giggle', 'adapt'] |  
+| bip_39_word_space_1 | insane |  
+| bip_39_word_space_10 | insane sunny park diary apple proud drift neglect industry farm |  
+| bip_39_word_space_11 | insane sunny park diary apple proud drift neglect industry farm giggle |  
+| bip_39_word_space_12 | insane sunny park diary apple proud drift neglect industry farm giggle adapt |  
+| bip_39_word_space_2 | insane sunny |  
+| bip_39_word_space_3 | insane sunny park |  
+| bip_39_word_space_4 | insane sunny park diary |  
+| bip_39_word_space_5 | insane sunny park diary apple |  
+| bip_39_word_space_6 | insane sunny park diary apple proud |  
+| bip_39_word_space_7 | insane sunny park diary apple proud drift |  
+| bip_39_word_space_8 | insane sunny park diary apple proud drift neglect |  
+| bip_39_word_space_9 | insane sunny park diary apple proud drift neglect industry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

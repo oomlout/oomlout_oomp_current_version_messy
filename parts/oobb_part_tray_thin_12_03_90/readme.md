@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eye admit
+  * bip 39 word 3: eye admit awkward
+  * bip 39 word: eye admit awkward penalty sail circle rule ice pulp there myself act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eye |  
+| bip_39_word_new_br10 | eye<br>admit<br>awkward<br>penalty<br>sail<br>circle<br>rule<br>ice<br>pulp<br>there |  
+| bip_39_word_new_br11 | eye<br>admit<br>awkward<br>penalty<br>sail<br>circle<br>rule<br>ice<br>pulp<br>there<br>myself |  
+| bip_39_word_new_br12 | eye<br>admit<br>awkward<br>penalty<br>sail<br>circle<br>rule<br>ice<br>pulp<br>there<br>myself<br>act |  
+| bip_39_word_new_br2 | eye<br>admit |  
+| bip_39_word_new_br3 | eye<br>admit<br>awkward |  
+| bip_39_word_new_br4 | eye<br>admit<br>awkward<br>penalty |  
+| bip_39_word_new_br5 | eye<br>admit<br>awkward<br>penalty<br>sail |  
+| bip_39_word_new_br6 | eye<br>admit<br>awkward<br>penalty<br>sail<br>circle |  
+| bip_39_word_new_br7 | eye<br>admit<br>awkward<br>penalty<br>sail<br>circle<br>rule |  
+| bip_39_word_new_br8 | eye<br>admit<br>awkward<br>penalty<br>sail<br>circle<br>rule<br>ice |  
+| bip_39_word_new_br9 | eye<br>admit<br>awkward<br>penalty<br>sail<br>circle<br>rule<br>ice<br>pulp |  
+| bip_39_word_new_line1 | eye |  
+| bip_39_word_new_line10 | eye
+admit
+awkward
+penalty
+sail
+circle
+rule
+ice
+pulp
+there |  
+| bip_39_word_new_line11 | eye
+admit
+awkward
+penalty
+sail
+circle
+rule
+ice
+pulp
+there
+myself |  
+| bip_39_word_new_line12 | eye
+admit
+awkward
+penalty
+sail
+circle
+rule
+ice
+pulp
+there
+myself
+act |  
+| bip_39_word_new_line2 | eye
+admit |  
+| bip_39_word_new_line3 | eye
+admit
+awkward |  
+| bip_39_word_new_line4 | eye
+admit
+awkward
+penalty |  
+| bip_39_word_new_line5 | eye
+admit
+awkward
+penalty
+sail |  
+| bip_39_word_new_line6 | eye
+admit
+awkward
+penalty
+sail
+circle |  
+| bip_39_word_new_line7 | eye
+admit
+awkward
+penalty
+sail
+circle
+rule |  
+| bip_39_word_new_line8 | eye
+admit
+awkward
+penalty
+sail
+circle
+rule
+ice |  
+| bip_39_word_new_line9 | eye
+admit
+awkward
+penalty
+sail
+circle
+rule
+ice
+pulp |  
+| bip_39_word_space_0 | ['eye', 'admit', 'awkward', 'penalty', 'sail', 'circle', 'rule', 'ice', 'pulp', 'there', 'myself', 'act'] |  
+| bip_39_word_space_1 | eye |  
+| bip_39_word_space_10 | eye admit awkward penalty sail circle rule ice pulp there |  
+| bip_39_word_space_11 | eye admit awkward penalty sail circle rule ice pulp there myself |  
+| bip_39_word_space_12 | eye admit awkward penalty sail circle rule ice pulp there myself act |  
+| bip_39_word_space_2 | eye admit |  
+| bip_39_word_space_3 | eye admit awkward |  
+| bip_39_word_space_4 | eye admit awkward penalty |  
+| bip_39_word_space_5 | eye admit awkward penalty sail |  
+| bip_39_word_space_6 | eye admit awkward penalty sail circle |  
+| bip_39_word_space_7 | eye admit awkward penalty sail circle rule |  
+| bip_39_word_space_8 | eye admit awkward penalty sail circle rule ice |  
+| bip_39_word_space_9 | eye admit awkward penalty sail circle rule ice pulp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

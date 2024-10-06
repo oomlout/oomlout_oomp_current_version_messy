@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nut finish
+  * bip 39 word 3: nut finish turtle
+  * bip 39 word: nut finish turtle grit hedgehog aspect ghost enhance depth judge acid abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nut |  
+| bip_39_word_new_br10 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect<br>ghost<br>enhance<br>depth<br>judge |  
+| bip_39_word_new_br11 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect<br>ghost<br>enhance<br>depth<br>judge<br>acid |  
+| bip_39_word_new_br12 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect<br>ghost<br>enhance<br>depth<br>judge<br>acid<br>abstract |  
+| bip_39_word_new_br2 | nut<br>finish |  
+| bip_39_word_new_br3 | nut<br>finish<br>turtle |  
+| bip_39_word_new_br4 | nut<br>finish<br>turtle<br>grit |  
+| bip_39_word_new_br5 | nut<br>finish<br>turtle<br>grit<br>hedgehog |  
+| bip_39_word_new_br6 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect |  
+| bip_39_word_new_br7 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect<br>ghost |  
+| bip_39_word_new_br8 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect<br>ghost<br>enhance |  
+| bip_39_word_new_br9 | nut<br>finish<br>turtle<br>grit<br>hedgehog<br>aspect<br>ghost<br>enhance<br>depth |  
+| bip_39_word_new_line1 | nut |  
+| bip_39_word_new_line10 | nut
+finish
+turtle
+grit
+hedgehog
+aspect
+ghost
+enhance
+depth
+judge |  
+| bip_39_word_new_line11 | nut
+finish
+turtle
+grit
+hedgehog
+aspect
+ghost
+enhance
+depth
+judge
+acid |  
+| bip_39_word_new_line12 | nut
+finish
+turtle
+grit
+hedgehog
+aspect
+ghost
+enhance
+depth
+judge
+acid
+abstract |  
+| bip_39_word_new_line2 | nut
+finish |  
+| bip_39_word_new_line3 | nut
+finish
+turtle |  
+| bip_39_word_new_line4 | nut
+finish
+turtle
+grit |  
+| bip_39_word_new_line5 | nut
+finish
+turtle
+grit
+hedgehog |  
+| bip_39_word_new_line6 | nut
+finish
+turtle
+grit
+hedgehog
+aspect |  
+| bip_39_word_new_line7 | nut
+finish
+turtle
+grit
+hedgehog
+aspect
+ghost |  
+| bip_39_word_new_line8 | nut
+finish
+turtle
+grit
+hedgehog
+aspect
+ghost
+enhance |  
+| bip_39_word_new_line9 | nut
+finish
+turtle
+grit
+hedgehog
+aspect
+ghost
+enhance
+depth |  
+| bip_39_word_space_0 | ['nut', 'finish', 'turtle', 'grit', 'hedgehog', 'aspect', 'ghost', 'enhance', 'depth', 'judge', 'acid', 'abstract'] |  
+| bip_39_word_space_1 | nut |  
+| bip_39_word_space_10 | nut finish turtle grit hedgehog aspect ghost enhance depth judge |  
+| bip_39_word_space_11 | nut finish turtle grit hedgehog aspect ghost enhance depth judge acid |  
+| bip_39_word_space_12 | nut finish turtle grit hedgehog aspect ghost enhance depth judge acid abstract |  
+| bip_39_word_space_2 | nut finish |  
+| bip_39_word_space_3 | nut finish turtle |  
+| bip_39_word_space_4 | nut finish turtle grit |  
+| bip_39_word_space_5 | nut finish turtle grit hedgehog |  
+| bip_39_word_space_6 | nut finish turtle grit hedgehog aspect |  
+| bip_39_word_space_7 | nut finish turtle grit hedgehog aspect ghost |  
+| bip_39_word_space_8 | nut finish turtle grit hedgehog aspect ghost enhance |  
+| bip_39_word_space_9 | nut finish turtle grit hedgehog aspect ghost enhance depth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

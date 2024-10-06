@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glass bread
+  * bip 39 word 3: glass bread never
+  * bip 39 word: glass bread never pudding human peace unaware six rule half monster able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glass |  
+| bip_39_word_new_br10 | glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule<br>half |  
+| bip_39_word_new_br11 | glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule<br>half<br>monster |  
+| bip_39_word_new_br12 | glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule<br>half<br>monster<br>able |  
+| bip_39_word_new_br2 | glass<br>bread |  
+| bip_39_word_new_br3 | glass<br>bread<br>never |  
+| bip_39_word_new_br4 | glass<br>bread<br>never<br>pudding |  
+| bip_39_word_new_br5 | glass<br>bread<br>never<br>pudding<br>human |  
+| bip_39_word_new_br6 | glass<br>bread<br>never<br>pudding<br>human<br>peace |  
+| bip_39_word_new_br7 | glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware |  
+| bip_39_word_new_br8 | glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six |  
+| bip_39_word_new_br9 | glass<br>bread<br>never<br>pudding<br>human<br>peace<br>unaware<br>six<br>rule |  
+| bip_39_word_new_line1 | glass |  
+| bip_39_word_new_line10 | glass
+bread
+never
+pudding
+human
+peace
+unaware
+six
+rule
+half |  
+| bip_39_word_new_line11 | glass
+bread
+never
+pudding
+human
+peace
+unaware
+six
+rule
+half
+monster |  
+| bip_39_word_new_line12 | glass
+bread
+never
+pudding
+human
+peace
+unaware
+six
+rule
+half
+monster
+able |  
+| bip_39_word_new_line2 | glass
+bread |  
+| bip_39_word_new_line3 | glass
+bread
+never |  
+| bip_39_word_new_line4 | glass
+bread
+never
+pudding |  
+| bip_39_word_new_line5 | glass
+bread
+never
+pudding
+human |  
+| bip_39_word_new_line6 | glass
+bread
+never
+pudding
+human
+peace |  
+| bip_39_word_new_line7 | glass
+bread
+never
+pudding
+human
+peace
+unaware |  
+| bip_39_word_new_line8 | glass
+bread
+never
+pudding
+human
+peace
+unaware
+six |  
+| bip_39_word_new_line9 | glass
+bread
+never
+pudding
+human
+peace
+unaware
+six
+rule |  
+| bip_39_word_space_0 | ['glass', 'bread', 'never', 'pudding', 'human', 'peace', 'unaware', 'six', 'rule', 'half', 'monster', 'able'] |  
+| bip_39_word_space_1 | glass |  
+| bip_39_word_space_10 | glass bread never pudding human peace unaware six rule half |  
+| bip_39_word_space_11 | glass bread never pudding human peace unaware six rule half monster |  
+| bip_39_word_space_12 | glass bread never pudding human peace unaware six rule half monster able |  
+| bip_39_word_space_2 | glass bread |  
+| bip_39_word_space_3 | glass bread never |  
+| bip_39_word_space_4 | glass bread never pudding |  
+| bip_39_word_space_5 | glass bread never pudding human |  
+| bip_39_word_space_6 | glass bread never pudding human peace |  
+| bip_39_word_space_7 | glass bread never pudding human peace unaware |  
+| bip_39_word_space_8 | glass bread never pudding human peace unaware six |  
+| bip_39_word_space_9 | glass bread never pudding human peace unaware six rule |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: arrive cover
+  * bip 39 word 3: arrive cover inform
+  * bip 39 word: arrive cover inform tourist worth bleak vanish creek document start virus asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | arrive |  
+| bip_39_word_new_br10 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak<br>vanish<br>creek<br>document<br>start |  
+| bip_39_word_new_br11 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak<br>vanish<br>creek<br>document<br>start<br>virus |  
+| bip_39_word_new_br12 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak<br>vanish<br>creek<br>document<br>start<br>virus<br>asset |  
+| bip_39_word_new_br2 | arrive<br>cover |  
+| bip_39_word_new_br3 | arrive<br>cover<br>inform |  
+| bip_39_word_new_br4 | arrive<br>cover<br>inform<br>tourist |  
+| bip_39_word_new_br5 | arrive<br>cover<br>inform<br>tourist<br>worth |  
+| bip_39_word_new_br6 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak |  
+| bip_39_word_new_br7 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak<br>vanish |  
+| bip_39_word_new_br8 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak<br>vanish<br>creek |  
+| bip_39_word_new_br9 | arrive<br>cover<br>inform<br>tourist<br>worth<br>bleak<br>vanish<br>creek<br>document |  
+| bip_39_word_new_line1 | arrive |  
+| bip_39_word_new_line10 | arrive
+cover
+inform
+tourist
+worth
+bleak
+vanish
+creek
+document
+start |  
+| bip_39_word_new_line11 | arrive
+cover
+inform
+tourist
+worth
+bleak
+vanish
+creek
+document
+start
+virus |  
+| bip_39_word_new_line12 | arrive
+cover
+inform
+tourist
+worth
+bleak
+vanish
+creek
+document
+start
+virus
+asset |  
+| bip_39_word_new_line2 | arrive
+cover |  
+| bip_39_word_new_line3 | arrive
+cover
+inform |  
+| bip_39_word_new_line4 | arrive
+cover
+inform
+tourist |  
+| bip_39_word_new_line5 | arrive
+cover
+inform
+tourist
+worth |  
+| bip_39_word_new_line6 | arrive
+cover
+inform
+tourist
+worth
+bleak |  
+| bip_39_word_new_line7 | arrive
+cover
+inform
+tourist
+worth
+bleak
+vanish |  
+| bip_39_word_new_line8 | arrive
+cover
+inform
+tourist
+worth
+bleak
+vanish
+creek |  
+| bip_39_word_new_line9 | arrive
+cover
+inform
+tourist
+worth
+bleak
+vanish
+creek
+document |  
+| bip_39_word_space_0 | ['arrive', 'cover', 'inform', 'tourist', 'worth', 'bleak', 'vanish', 'creek', 'document', 'start', 'virus', 'asset'] |  
+| bip_39_word_space_1 | arrive |  
+| bip_39_word_space_10 | arrive cover inform tourist worth bleak vanish creek document start |  
+| bip_39_word_space_11 | arrive cover inform tourist worth bleak vanish creek document start virus |  
+| bip_39_word_space_12 | arrive cover inform tourist worth bleak vanish creek document start virus asset |  
+| bip_39_word_space_2 | arrive cover |  
+| bip_39_word_space_3 | arrive cover inform |  
+| bip_39_word_space_4 | arrive cover inform tourist |  
+| bip_39_word_space_5 | arrive cover inform tourist worth |  
+| bip_39_word_space_6 | arrive cover inform tourist worth bleak |  
+| bip_39_word_space_7 | arrive cover inform tourist worth bleak vanish |  
+| bip_39_word_space_8 | arrive cover inform tourist worth bleak vanish creek |  
+| bip_39_word_space_9 | arrive cover inform tourist worth bleak vanish creek document |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

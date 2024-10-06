@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: minor unique
+  * bip 39 word 3: minor unique must
+  * bip 39 word: minor unique must flush notice drip paper special deputy consider portion argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | minor |  
+| bip_39_word_new_br10 | minor<br>unique<br>must<br>flush<br>notice<br>drip<br>paper<br>special<br>deputy<br>consider |  
+| bip_39_word_new_br11 | minor<br>unique<br>must<br>flush<br>notice<br>drip<br>paper<br>special<br>deputy<br>consider<br>portion |  
+| bip_39_word_new_br12 | minor<br>unique<br>must<br>flush<br>notice<br>drip<br>paper<br>special<br>deputy<br>consider<br>portion<br>argue |  
+| bip_39_word_new_br2 | minor<br>unique |  
+| bip_39_word_new_br3 | minor<br>unique<br>must |  
+| bip_39_word_new_br4 | minor<br>unique<br>must<br>flush |  
+| bip_39_word_new_br5 | minor<br>unique<br>must<br>flush<br>notice |  
+| bip_39_word_new_br6 | minor<br>unique<br>must<br>flush<br>notice<br>drip |  
+| bip_39_word_new_br7 | minor<br>unique<br>must<br>flush<br>notice<br>drip<br>paper |  
+| bip_39_word_new_br8 | minor<br>unique<br>must<br>flush<br>notice<br>drip<br>paper<br>special |  
+| bip_39_word_new_br9 | minor<br>unique<br>must<br>flush<br>notice<br>drip<br>paper<br>special<br>deputy |  
+| bip_39_word_new_line1 | minor |  
+| bip_39_word_new_line10 | minor
+unique
+must
+flush
+notice
+drip
+paper
+special
+deputy
+consider |  
+| bip_39_word_new_line11 | minor
+unique
+must
+flush
+notice
+drip
+paper
+special
+deputy
+consider
+portion |  
+| bip_39_word_new_line12 | minor
+unique
+must
+flush
+notice
+drip
+paper
+special
+deputy
+consider
+portion
+argue |  
+| bip_39_word_new_line2 | minor
+unique |  
+| bip_39_word_new_line3 | minor
+unique
+must |  
+| bip_39_word_new_line4 | minor
+unique
+must
+flush |  
+| bip_39_word_new_line5 | minor
+unique
+must
+flush
+notice |  
+| bip_39_word_new_line6 | minor
+unique
+must
+flush
+notice
+drip |  
+| bip_39_word_new_line7 | minor
+unique
+must
+flush
+notice
+drip
+paper |  
+| bip_39_word_new_line8 | minor
+unique
+must
+flush
+notice
+drip
+paper
+special |  
+| bip_39_word_new_line9 | minor
+unique
+must
+flush
+notice
+drip
+paper
+special
+deputy |  
+| bip_39_word_space_0 | ['minor', 'unique', 'must', 'flush', 'notice', 'drip', 'paper', 'special', 'deputy', 'consider', 'portion', 'argue'] |  
+| bip_39_word_space_1 | minor |  
+| bip_39_word_space_10 | minor unique must flush notice drip paper special deputy consider |  
+| bip_39_word_space_11 | minor unique must flush notice drip paper special deputy consider portion |  
+| bip_39_word_space_12 | minor unique must flush notice drip paper special deputy consider portion argue |  
+| bip_39_word_space_2 | minor unique |  
+| bip_39_word_space_3 | minor unique must |  
+| bip_39_word_space_4 | minor unique must flush |  
+| bip_39_word_space_5 | minor unique must flush notice |  
+| bip_39_word_space_6 | minor unique must flush notice drip |  
+| bip_39_word_space_7 | minor unique must flush notice drip paper |  
+| bip_39_word_space_8 | minor unique must flush notice drip paper special |  
+| bip_39_word_space_9 | minor unique must flush notice drip paper special deputy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

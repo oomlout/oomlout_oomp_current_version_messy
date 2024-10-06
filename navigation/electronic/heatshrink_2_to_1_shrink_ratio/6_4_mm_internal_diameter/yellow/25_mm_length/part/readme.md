@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: borrow pig
+  * bip 39 word 3: borrow pig sausage
+  * bip 39 word: borrow pig sausage pyramid peanut learn imitate across laundry must wolf advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | borrow |  
+| bip_39_word_new_br10 | borrow<br>pig<br>sausage<br>pyramid<br>peanut<br>learn<br>imitate<br>across<br>laundry<br>must |  
+| bip_39_word_new_br11 | borrow<br>pig<br>sausage<br>pyramid<br>peanut<br>learn<br>imitate<br>across<br>laundry<br>must<br>wolf |  
+| bip_39_word_new_br12 | borrow<br>pig<br>sausage<br>pyramid<br>peanut<br>learn<br>imitate<br>across<br>laundry<br>must<br>wolf<br>advice |  
+| bip_39_word_new_br2 | borrow<br>pig |  
+| bip_39_word_new_br3 | borrow<br>pig<br>sausage |  
+| bip_39_word_new_br4 | borrow<br>pig<br>sausage<br>pyramid |  
+| bip_39_word_new_br5 | borrow<br>pig<br>sausage<br>pyramid<br>peanut |  
+| bip_39_word_new_br6 | borrow<br>pig<br>sausage<br>pyramid<br>peanut<br>learn |  
+| bip_39_word_new_br7 | borrow<br>pig<br>sausage<br>pyramid<br>peanut<br>learn<br>imitate |  
+| bip_39_word_new_br8 | borrow<br>pig<br>sausage<br>pyramid<br>peanut<br>learn<br>imitate<br>across |  
+| bip_39_word_new_br9 | borrow<br>pig<br>sausage<br>pyramid<br>peanut<br>learn<br>imitate<br>across<br>laundry |  
+| bip_39_word_new_line1 | borrow |  
+| bip_39_word_new_line10 | borrow
+pig
+sausage
+pyramid
+peanut
+learn
+imitate
+across
+laundry
+must |  
+| bip_39_word_new_line11 | borrow
+pig
+sausage
+pyramid
+peanut
+learn
+imitate
+across
+laundry
+must
+wolf |  
+| bip_39_word_new_line12 | borrow
+pig
+sausage
+pyramid
+peanut
+learn
+imitate
+across
+laundry
+must
+wolf
+advice |  
+| bip_39_word_new_line2 | borrow
+pig |  
+| bip_39_word_new_line3 | borrow
+pig
+sausage |  
+| bip_39_word_new_line4 | borrow
+pig
+sausage
+pyramid |  
+| bip_39_word_new_line5 | borrow
+pig
+sausage
+pyramid
+peanut |  
+| bip_39_word_new_line6 | borrow
+pig
+sausage
+pyramid
+peanut
+learn |  
+| bip_39_word_new_line7 | borrow
+pig
+sausage
+pyramid
+peanut
+learn
+imitate |  
+| bip_39_word_new_line8 | borrow
+pig
+sausage
+pyramid
+peanut
+learn
+imitate
+across |  
+| bip_39_word_new_line9 | borrow
+pig
+sausage
+pyramid
+peanut
+learn
+imitate
+across
+laundry |  
+| bip_39_word_space_0 | ['borrow', 'pig', 'sausage', 'pyramid', 'peanut', 'learn', 'imitate', 'across', 'laundry', 'must', 'wolf', 'advice'] |  
+| bip_39_word_space_1 | borrow |  
+| bip_39_word_space_10 | borrow pig sausage pyramid peanut learn imitate across laundry must |  
+| bip_39_word_space_11 | borrow pig sausage pyramid peanut learn imitate across laundry must wolf |  
+| bip_39_word_space_12 | borrow pig sausage pyramid peanut learn imitate across laundry must wolf advice |  
+| bip_39_word_space_2 | borrow pig |  
+| bip_39_word_space_3 | borrow pig sausage |  
+| bip_39_word_space_4 | borrow pig sausage pyramid |  
+| bip_39_word_space_5 | borrow pig sausage pyramid peanut |  
+| bip_39_word_space_6 | borrow pig sausage pyramid peanut learn |  
+| bip_39_word_space_7 | borrow pig sausage pyramid peanut learn imitate |  
+| bip_39_word_space_8 | borrow pig sausage pyramid peanut learn imitate across |  
+| bip_39_word_space_9 | borrow pig sausage pyramid peanut learn imitate across laundry |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

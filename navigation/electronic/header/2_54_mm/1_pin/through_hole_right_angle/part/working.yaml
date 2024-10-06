@@ -1,3 +1,185 @@
+bip_39_word_new_br1: grace
+bip_39_word_new_br10: grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote
+bip_39_word_new_br11: grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote<br>club
+bip_39_word_new_br12: grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit<br>devote<br>club<br>act
+bip_39_word_new_br2: grace<br>shop
+bip_39_word_new_br3: grace<br>shop<br>lab
+bip_39_word_new_br4: grace<br>shop<br>lab<br>magnet
+bip_39_word_new_br5: grace<br>shop<br>lab<br>magnet<br>jungle
+bip_39_word_new_br6: grace<br>shop<br>lab<br>magnet<br>jungle<br>copy
+bip_39_word_new_br7: grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect
+bip_39_word_new_br8: grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven
+bip_39_word_new_br9: grace<br>shop<br>lab<br>magnet<br>jungle<br>copy<br>detect<br>seven<br>quit
+bip_39_word_new_line1: grace
+bip_39_word_new_line10: 'grace
+
+  shop
+
+  lab
+
+  magnet
+
+  jungle
+
+  copy
+
+  detect
+
+  seven
+
+  quit
+
+  devote'
+bip_39_word_new_line11: 'grace
+
+  shop
+
+  lab
+
+  magnet
+
+  jungle
+
+  copy
+
+  detect
+
+  seven
+
+  quit
+
+  devote
+
+  club'
+bip_39_word_new_line12: 'grace
+
+  shop
+
+  lab
+
+  magnet
+
+  jungle
+
+  copy
+
+  detect
+
+  seven
+
+  quit
+
+  devote
+
+  club
+
+  act'
+bip_39_word_new_line2: 'grace
+
+  shop'
+bip_39_word_new_line3: 'grace
+
+  shop
+
+  lab'
+bip_39_word_new_line4: 'grace
+
+  shop
+
+  lab
+
+  magnet'
+bip_39_word_new_line5: 'grace
+
+  shop
+
+  lab
+
+  magnet
+
+  jungle'
+bip_39_word_new_line6: 'grace
+
+  shop
+
+  lab
+
+  magnet
+
+  jungle
+
+  copy'
+bip_39_word_new_line7: 'grace
+
+  shop
+
+  lab
+
+  magnet
+
+  jungle
+
+  copy
+
+  detect'
+bip_39_word_new_line8: 'grace
+
+  shop
+
+  lab
+
+  magnet
+
+  jungle
+
+  copy
+
+  detect
+
+  seven'
+bip_39_word_new_line9: 'grace
+
+  shop
+
+  lab
+
+  magnet
+
+  jungle
+
+  copy
+
+  detect
+
+  seven
+
+  quit'
+bip_39_word_space_0:
+- grace
+- shop
+- lab
+- magnet
+- jungle
+- copy
+- detect
+- seven
+- quit
+- devote
+- club
+- act
+bip_39_word_space_1: grace
+bip_39_word_space_10: grace shop lab magnet jungle copy detect seven quit devote
+bip_39_word_space_11: grace shop lab magnet jungle copy detect seven quit devote club
+bip_39_word_space_12: grace shop lab magnet jungle copy detect seven quit devote club
+  act
+bip_39_word_space_2: grace shop
+bip_39_word_space_3: grace shop lab
+bip_39_word_space_4: grace shop lab magnet
+bip_39_word_space_5: grace shop lab magnet jungle
+bip_39_word_space_6: grace shop lab magnet jungle copy
+bip_39_word_space_7: grace shop lab magnet jungle copy detect
+bip_39_word_space_8: grace shop lab magnet jungle copy detect seven
+bip_39_word_space_9: grace shop lab magnet jungle copy detect seven quit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foam property
+  * bip 39 word 3: foam property salt
+  * bip 39 word: foam property salt dilemma act praise simple sort prevent cargo ten arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foam |  
+| bip_39_word_new_br10 | foam<br>property<br>salt<br>dilemma<br>act<br>praise<br>simple<br>sort<br>prevent<br>cargo |  
+| bip_39_word_new_br11 | foam<br>property<br>salt<br>dilemma<br>act<br>praise<br>simple<br>sort<br>prevent<br>cargo<br>ten |  
+| bip_39_word_new_br12 | foam<br>property<br>salt<br>dilemma<br>act<br>praise<br>simple<br>sort<br>prevent<br>cargo<br>ten<br>arctic |  
+| bip_39_word_new_br2 | foam<br>property |  
+| bip_39_word_new_br3 | foam<br>property<br>salt |  
+| bip_39_word_new_br4 | foam<br>property<br>salt<br>dilemma |  
+| bip_39_word_new_br5 | foam<br>property<br>salt<br>dilemma<br>act |  
+| bip_39_word_new_br6 | foam<br>property<br>salt<br>dilemma<br>act<br>praise |  
+| bip_39_word_new_br7 | foam<br>property<br>salt<br>dilemma<br>act<br>praise<br>simple |  
+| bip_39_word_new_br8 | foam<br>property<br>salt<br>dilemma<br>act<br>praise<br>simple<br>sort |  
+| bip_39_word_new_br9 | foam<br>property<br>salt<br>dilemma<br>act<br>praise<br>simple<br>sort<br>prevent |  
+| bip_39_word_new_line1 | foam |  
+| bip_39_word_new_line10 | foam
+property
+salt
+dilemma
+act
+praise
+simple
+sort
+prevent
+cargo |  
+| bip_39_word_new_line11 | foam
+property
+salt
+dilemma
+act
+praise
+simple
+sort
+prevent
+cargo
+ten |  
+| bip_39_word_new_line12 | foam
+property
+salt
+dilemma
+act
+praise
+simple
+sort
+prevent
+cargo
+ten
+arctic |  
+| bip_39_word_new_line2 | foam
+property |  
+| bip_39_word_new_line3 | foam
+property
+salt |  
+| bip_39_word_new_line4 | foam
+property
+salt
+dilemma |  
+| bip_39_word_new_line5 | foam
+property
+salt
+dilemma
+act |  
+| bip_39_word_new_line6 | foam
+property
+salt
+dilemma
+act
+praise |  
+| bip_39_word_new_line7 | foam
+property
+salt
+dilemma
+act
+praise
+simple |  
+| bip_39_word_new_line8 | foam
+property
+salt
+dilemma
+act
+praise
+simple
+sort |  
+| bip_39_word_new_line9 | foam
+property
+salt
+dilemma
+act
+praise
+simple
+sort
+prevent |  
+| bip_39_word_space_0 | ['foam', 'property', 'salt', 'dilemma', 'act', 'praise', 'simple', 'sort', 'prevent', 'cargo', 'ten', 'arctic'] |  
+| bip_39_word_space_1 | foam |  
+| bip_39_word_space_10 | foam property salt dilemma act praise simple sort prevent cargo |  
+| bip_39_word_space_11 | foam property salt dilemma act praise simple sort prevent cargo ten |  
+| bip_39_word_space_12 | foam property salt dilemma act praise simple sort prevent cargo ten arctic |  
+| bip_39_word_space_2 | foam property |  
+| bip_39_word_space_3 | foam property salt |  
+| bip_39_word_space_4 | foam property salt dilemma |  
+| bip_39_word_space_5 | foam property salt dilemma act |  
+| bip_39_word_space_6 | foam property salt dilemma act praise |  
+| bip_39_word_space_7 | foam property salt dilemma act praise simple |  
+| bip_39_word_space_8 | foam property salt dilemma act praise simple sort |  
+| bip_39_word_space_9 | foam property salt dilemma act praise simple sort prevent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chat salad
+  * bip 39 word 3: chat salad bone
+  * bip 39 word: chat salad bone drama labor ill warrior color hybrid slim vibrant athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chat |  
+| bip_39_word_new_br10 | chat<br>salad<br>bone<br>drama<br>labor<br>ill<br>warrior<br>color<br>hybrid<br>slim |  
+| bip_39_word_new_br11 | chat<br>salad<br>bone<br>drama<br>labor<br>ill<br>warrior<br>color<br>hybrid<br>slim<br>vibrant |  
+| bip_39_word_new_br12 | chat<br>salad<br>bone<br>drama<br>labor<br>ill<br>warrior<br>color<br>hybrid<br>slim<br>vibrant<br>athlete |  
+| bip_39_word_new_br2 | chat<br>salad |  
+| bip_39_word_new_br3 | chat<br>salad<br>bone |  
+| bip_39_word_new_br4 | chat<br>salad<br>bone<br>drama |  
+| bip_39_word_new_br5 | chat<br>salad<br>bone<br>drama<br>labor |  
+| bip_39_word_new_br6 | chat<br>salad<br>bone<br>drama<br>labor<br>ill |  
+| bip_39_word_new_br7 | chat<br>salad<br>bone<br>drama<br>labor<br>ill<br>warrior |  
+| bip_39_word_new_br8 | chat<br>salad<br>bone<br>drama<br>labor<br>ill<br>warrior<br>color |  
+| bip_39_word_new_br9 | chat<br>salad<br>bone<br>drama<br>labor<br>ill<br>warrior<br>color<br>hybrid |  
+| bip_39_word_new_line1 | chat |  
+| bip_39_word_new_line10 | chat
+salad
+bone
+drama
+labor
+ill
+warrior
+color
+hybrid
+slim |  
+| bip_39_word_new_line11 | chat
+salad
+bone
+drama
+labor
+ill
+warrior
+color
+hybrid
+slim
+vibrant |  
+| bip_39_word_new_line12 | chat
+salad
+bone
+drama
+labor
+ill
+warrior
+color
+hybrid
+slim
+vibrant
+athlete |  
+| bip_39_word_new_line2 | chat
+salad |  
+| bip_39_word_new_line3 | chat
+salad
+bone |  
+| bip_39_word_new_line4 | chat
+salad
+bone
+drama |  
+| bip_39_word_new_line5 | chat
+salad
+bone
+drama
+labor |  
+| bip_39_word_new_line6 | chat
+salad
+bone
+drama
+labor
+ill |  
+| bip_39_word_new_line7 | chat
+salad
+bone
+drama
+labor
+ill
+warrior |  
+| bip_39_word_new_line8 | chat
+salad
+bone
+drama
+labor
+ill
+warrior
+color |  
+| bip_39_word_new_line9 | chat
+salad
+bone
+drama
+labor
+ill
+warrior
+color
+hybrid |  
+| bip_39_word_space_0 | ['chat', 'salad', 'bone', 'drama', 'labor', 'ill', 'warrior', 'color', 'hybrid', 'slim', 'vibrant', 'athlete'] |  
+| bip_39_word_space_1 | chat |  
+| bip_39_word_space_10 | chat salad bone drama labor ill warrior color hybrid slim |  
+| bip_39_word_space_11 | chat salad bone drama labor ill warrior color hybrid slim vibrant |  
+| bip_39_word_space_12 | chat salad bone drama labor ill warrior color hybrid slim vibrant athlete |  
+| bip_39_word_space_2 | chat salad |  
+| bip_39_word_space_3 | chat salad bone |  
+| bip_39_word_space_4 | chat salad bone drama |  
+| bip_39_word_space_5 | chat salad bone drama labor |  
+| bip_39_word_space_6 | chat salad bone drama labor ill |  
+| bip_39_word_space_7 | chat salad bone drama labor ill warrior |  
+| bip_39_word_space_8 | chat salad bone drama labor ill warrior color |  
+| bip_39_word_space_9 | chat salad bone drama labor ill warrior color hybrid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

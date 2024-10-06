@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flight bulk
+  * bip 39 word 3: flight bulk ritual
+  * bip 39 word: flight bulk ritual belt normal hope trip behave cheap dose hockey apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flight |  
+| bip_39_word_new_br10 | flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap<br>dose |  
+| bip_39_word_new_br11 | flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap<br>dose<br>hockey |  
+| bip_39_word_new_br12 | flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap<br>dose<br>hockey<br>apology |  
+| bip_39_word_new_br2 | flight<br>bulk |  
+| bip_39_word_new_br3 | flight<br>bulk<br>ritual |  
+| bip_39_word_new_br4 | flight<br>bulk<br>ritual<br>belt |  
+| bip_39_word_new_br5 | flight<br>bulk<br>ritual<br>belt<br>normal |  
+| bip_39_word_new_br6 | flight<br>bulk<br>ritual<br>belt<br>normal<br>hope |  
+| bip_39_word_new_br7 | flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip |  
+| bip_39_word_new_br8 | flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave |  
+| bip_39_word_new_br9 | flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap |  
+| bip_39_word_new_line1 | flight |  
+| bip_39_word_new_line10 | flight
+bulk
+ritual
+belt
+normal
+hope
+trip
+behave
+cheap
+dose |  
+| bip_39_word_new_line11 | flight
+bulk
+ritual
+belt
+normal
+hope
+trip
+behave
+cheap
+dose
+hockey |  
+| bip_39_word_new_line12 | flight
+bulk
+ritual
+belt
+normal
+hope
+trip
+behave
+cheap
+dose
+hockey
+apology |  
+| bip_39_word_new_line2 | flight
+bulk |  
+| bip_39_word_new_line3 | flight
+bulk
+ritual |  
+| bip_39_word_new_line4 | flight
+bulk
+ritual
+belt |  
+| bip_39_word_new_line5 | flight
+bulk
+ritual
+belt
+normal |  
+| bip_39_word_new_line6 | flight
+bulk
+ritual
+belt
+normal
+hope |  
+| bip_39_word_new_line7 | flight
+bulk
+ritual
+belt
+normal
+hope
+trip |  
+| bip_39_word_new_line8 | flight
+bulk
+ritual
+belt
+normal
+hope
+trip
+behave |  
+| bip_39_word_new_line9 | flight
+bulk
+ritual
+belt
+normal
+hope
+trip
+behave
+cheap |  
+| bip_39_word_space_0 | ['flight', 'bulk', 'ritual', 'belt', 'normal', 'hope', 'trip', 'behave', 'cheap', 'dose', 'hockey', 'apology'] |  
+| bip_39_word_space_1 | flight |  
+| bip_39_word_space_10 | flight bulk ritual belt normal hope trip behave cheap dose |  
+| bip_39_word_space_11 | flight bulk ritual belt normal hope trip behave cheap dose hockey |  
+| bip_39_word_space_12 | flight bulk ritual belt normal hope trip behave cheap dose hockey apology |  
+| bip_39_word_space_2 | flight bulk |  
+| bip_39_word_space_3 | flight bulk ritual |  
+| bip_39_word_space_4 | flight bulk ritual belt |  
+| bip_39_word_space_5 | flight bulk ritual belt normal |  
+| bip_39_word_space_6 | flight bulk ritual belt normal hope |  
+| bip_39_word_space_7 | flight bulk ritual belt normal hope trip |  
+| bip_39_word_space_8 | flight bulk ritual belt normal hope trip behave |  
+| bip_39_word_space_9 | flight bulk ritual belt normal hope trip behave cheap |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

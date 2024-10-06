@@ -1,3 +1,186 @@
+bip_39_word_new_br1: doll
+bip_39_word_new_br10: doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer<br>smart<br>load<br>office<br>track
+bip_39_word_new_br11: doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer<br>smart<br>load<br>office<br>track<br>mouse
+bip_39_word_new_br12: doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer<br>smart<br>load<br>office<br>track<br>mouse<br>actress
+bip_39_word_new_br2: doll<br>rifle
+bip_39_word_new_br3: doll<br>rifle<br>fence
+bip_39_word_new_br4: doll<br>rifle<br>fence<br>piece
+bip_39_word_new_br5: doll<br>rifle<br>fence<br>piece<br>sausage
+bip_39_word_new_br6: doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer
+bip_39_word_new_br7: doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer<br>smart
+bip_39_word_new_br8: doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer<br>smart<br>load
+bip_39_word_new_br9: doll<br>rifle<br>fence<br>piece<br>sausage<br>prefer<br>smart<br>load<br>office
+bip_39_word_new_line1: doll
+bip_39_word_new_line10: 'doll
+
+  rifle
+
+  fence
+
+  piece
+
+  sausage
+
+  prefer
+
+  smart
+
+  load
+
+  office
+
+  track'
+bip_39_word_new_line11: 'doll
+
+  rifle
+
+  fence
+
+  piece
+
+  sausage
+
+  prefer
+
+  smart
+
+  load
+
+  office
+
+  track
+
+  mouse'
+bip_39_word_new_line12: 'doll
+
+  rifle
+
+  fence
+
+  piece
+
+  sausage
+
+  prefer
+
+  smart
+
+  load
+
+  office
+
+  track
+
+  mouse
+
+  actress'
+bip_39_word_new_line2: 'doll
+
+  rifle'
+bip_39_word_new_line3: 'doll
+
+  rifle
+
+  fence'
+bip_39_word_new_line4: 'doll
+
+  rifle
+
+  fence
+
+  piece'
+bip_39_word_new_line5: 'doll
+
+  rifle
+
+  fence
+
+  piece
+
+  sausage'
+bip_39_word_new_line6: 'doll
+
+  rifle
+
+  fence
+
+  piece
+
+  sausage
+
+  prefer'
+bip_39_word_new_line7: 'doll
+
+  rifle
+
+  fence
+
+  piece
+
+  sausage
+
+  prefer
+
+  smart'
+bip_39_word_new_line8: 'doll
+
+  rifle
+
+  fence
+
+  piece
+
+  sausage
+
+  prefer
+
+  smart
+
+  load'
+bip_39_word_new_line9: 'doll
+
+  rifle
+
+  fence
+
+  piece
+
+  sausage
+
+  prefer
+
+  smart
+
+  load
+
+  office'
+bip_39_word_space_0:
+- doll
+- rifle
+- fence
+- piece
+- sausage
+- prefer
+- smart
+- load
+- office
+- track
+- mouse
+- actress
+bip_39_word_space_1: doll
+bip_39_word_space_10: doll rifle fence piece sausage prefer smart load office track
+bip_39_word_space_11: doll rifle fence piece sausage prefer smart load office track
+  mouse
+bip_39_word_space_12: doll rifle fence piece sausage prefer smart load office track
+  mouse actress
+bip_39_word_space_2: doll rifle
+bip_39_word_space_3: doll rifle fence
+bip_39_word_space_4: doll rifle fence piece
+bip_39_word_space_5: doll rifle fence piece sausage
+bip_39_word_space_6: doll rifle fence piece sausage prefer
+bip_39_word_space_7: doll rifle fence piece sausage prefer smart
+bip_39_word_space_8: doll rifle fence piece sausage prefer smart load
+bip_39_word_space_9: doll rifle fence piece sausage prefer smart load office
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

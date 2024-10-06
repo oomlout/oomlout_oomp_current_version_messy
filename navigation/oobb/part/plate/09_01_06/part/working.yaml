@@ -1,3 +1,186 @@
+bip_39_word_new_br1: boil
+bip_39_word_new_br10: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner
+bip_39_word_new_br11: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner<br>cousin
+bip_39_word_new_br12: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner<br>cousin<br>armor
+bip_39_word_new_br2: boil<br>fruit
+bip_39_word_new_br3: boil<br>fruit<br>faculty
+bip_39_word_new_br4: boil<br>fruit<br>faculty<br>drop
+bip_39_word_new_br5: boil<br>fruit<br>faculty<br>drop<br>test
+bip_39_word_new_br6: boil<br>fruit<br>faculty<br>drop<br>test<br>shock
+bip_39_word_new_br7: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature
+bip_39_word_new_br8: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem
+bip_39_word_new_br9: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief
+bip_39_word_new_line1: boil
+bip_39_word_new_line10: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem
+
+  chief
+
+  banner'
+bip_39_word_new_line11: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem
+
+  chief
+
+  banner
+
+  cousin'
+bip_39_word_new_line12: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem
+
+  chief
+
+  banner
+
+  cousin
+
+  armor'
+bip_39_word_new_line2: 'boil
+
+  fruit'
+bip_39_word_new_line3: 'boil
+
+  fruit
+
+  faculty'
+bip_39_word_new_line4: 'boil
+
+  fruit
+
+  faculty
+
+  drop'
+bip_39_word_new_line5: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test'
+bip_39_word_new_line6: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock'
+bip_39_word_new_line7: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature'
+bip_39_word_new_line8: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem'
+bip_39_word_new_line9: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem
+
+  chief'
+bip_39_word_space_0:
+- boil
+- fruit
+- faculty
+- drop
+- test
+- shock
+- feature
+- stem
+- chief
+- banner
+- cousin
+- armor
+bip_39_word_space_1: boil
+bip_39_word_space_10: boil fruit faculty drop test shock feature stem chief banner
+bip_39_word_space_11: boil fruit faculty drop test shock feature stem chief banner
+  cousin
+bip_39_word_space_12: boil fruit faculty drop test shock feature stem chief banner
+  cousin armor
+bip_39_word_space_2: boil fruit
+bip_39_word_space_3: boil fruit faculty
+bip_39_word_space_4: boil fruit faculty drop
+bip_39_word_space_5: boil fruit faculty drop test
+bip_39_word_space_6: boil fruit faculty drop test shock
+bip_39_word_space_7: boil fruit faculty drop test shock feature
+bip_39_word_space_8: boil fruit faculty drop test shock feature stem
+bip_39_word_space_9: boil fruit faculty drop test shock feature stem chief
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tip good
+  * bip 39 word 3: tip good tongue
+  * bip 39 word: tip good tongue history fiber defy debate antique upon often canoe among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tip |  
+| bip_39_word_new_br10 | tip<br>good<br>tongue<br>history<br>fiber<br>defy<br>debate<br>antique<br>upon<br>often |  
+| bip_39_word_new_br11 | tip<br>good<br>tongue<br>history<br>fiber<br>defy<br>debate<br>antique<br>upon<br>often<br>canoe |  
+| bip_39_word_new_br12 | tip<br>good<br>tongue<br>history<br>fiber<br>defy<br>debate<br>antique<br>upon<br>often<br>canoe<br>among |  
+| bip_39_word_new_br2 | tip<br>good |  
+| bip_39_word_new_br3 | tip<br>good<br>tongue |  
+| bip_39_word_new_br4 | tip<br>good<br>tongue<br>history |  
+| bip_39_word_new_br5 | tip<br>good<br>tongue<br>history<br>fiber |  
+| bip_39_word_new_br6 | tip<br>good<br>tongue<br>history<br>fiber<br>defy |  
+| bip_39_word_new_br7 | tip<br>good<br>tongue<br>history<br>fiber<br>defy<br>debate |  
+| bip_39_word_new_br8 | tip<br>good<br>tongue<br>history<br>fiber<br>defy<br>debate<br>antique |  
+| bip_39_word_new_br9 | tip<br>good<br>tongue<br>history<br>fiber<br>defy<br>debate<br>antique<br>upon |  
+| bip_39_word_new_line1 | tip |  
+| bip_39_word_new_line10 | tip
+good
+tongue
+history
+fiber
+defy
+debate
+antique
+upon
+often |  
+| bip_39_word_new_line11 | tip
+good
+tongue
+history
+fiber
+defy
+debate
+antique
+upon
+often
+canoe |  
+| bip_39_word_new_line12 | tip
+good
+tongue
+history
+fiber
+defy
+debate
+antique
+upon
+often
+canoe
+among |  
+| bip_39_word_new_line2 | tip
+good |  
+| bip_39_word_new_line3 | tip
+good
+tongue |  
+| bip_39_word_new_line4 | tip
+good
+tongue
+history |  
+| bip_39_word_new_line5 | tip
+good
+tongue
+history
+fiber |  
+| bip_39_word_new_line6 | tip
+good
+tongue
+history
+fiber
+defy |  
+| bip_39_word_new_line7 | tip
+good
+tongue
+history
+fiber
+defy
+debate |  
+| bip_39_word_new_line8 | tip
+good
+tongue
+history
+fiber
+defy
+debate
+antique |  
+| bip_39_word_new_line9 | tip
+good
+tongue
+history
+fiber
+defy
+debate
+antique
+upon |  
+| bip_39_word_space_0 | ['tip', 'good', 'tongue', 'history', 'fiber', 'defy', 'debate', 'antique', 'upon', 'often', 'canoe', 'among'] |  
+| bip_39_word_space_1 | tip |  
+| bip_39_word_space_10 | tip good tongue history fiber defy debate antique upon often |  
+| bip_39_word_space_11 | tip good tongue history fiber defy debate antique upon often canoe |  
+| bip_39_word_space_12 | tip good tongue history fiber defy debate antique upon often canoe among |  
+| bip_39_word_space_2 | tip good |  
+| bip_39_word_space_3 | tip good tongue |  
+| bip_39_word_space_4 | tip good tongue history |  
+| bip_39_word_space_5 | tip good tongue history fiber |  
+| bip_39_word_space_6 | tip good tongue history fiber defy |  
+| bip_39_word_space_7 | tip good tongue history fiber defy debate |  
+| bip_39_word_space_8 | tip good tongue history fiber defy debate antique |  
+| bip_39_word_space_9 | tip good tongue history fiber defy debate antique upon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nasty citizen
+  * bip 39 word 3: nasty citizen auction
+  * bip 39 word: nasty citizen auction critic ketchup arrow must oak gorilla busy sauce acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nasty |  
+| bip_39_word_new_br10 | nasty<br>citizen<br>auction<br>critic<br>ketchup<br>arrow<br>must<br>oak<br>gorilla<br>busy |  
+| bip_39_word_new_br11 | nasty<br>citizen<br>auction<br>critic<br>ketchup<br>arrow<br>must<br>oak<br>gorilla<br>busy<br>sauce |  
+| bip_39_word_new_br12 | nasty<br>citizen<br>auction<br>critic<br>ketchup<br>arrow<br>must<br>oak<br>gorilla<br>busy<br>sauce<br>acquire |  
+| bip_39_word_new_br2 | nasty<br>citizen |  
+| bip_39_word_new_br3 | nasty<br>citizen<br>auction |  
+| bip_39_word_new_br4 | nasty<br>citizen<br>auction<br>critic |  
+| bip_39_word_new_br5 | nasty<br>citizen<br>auction<br>critic<br>ketchup |  
+| bip_39_word_new_br6 | nasty<br>citizen<br>auction<br>critic<br>ketchup<br>arrow |  
+| bip_39_word_new_br7 | nasty<br>citizen<br>auction<br>critic<br>ketchup<br>arrow<br>must |  
+| bip_39_word_new_br8 | nasty<br>citizen<br>auction<br>critic<br>ketchup<br>arrow<br>must<br>oak |  
+| bip_39_word_new_br9 | nasty<br>citizen<br>auction<br>critic<br>ketchup<br>arrow<br>must<br>oak<br>gorilla |  
+| bip_39_word_new_line1 | nasty |  
+| bip_39_word_new_line10 | nasty
+citizen
+auction
+critic
+ketchup
+arrow
+must
+oak
+gorilla
+busy |  
+| bip_39_word_new_line11 | nasty
+citizen
+auction
+critic
+ketchup
+arrow
+must
+oak
+gorilla
+busy
+sauce |  
+| bip_39_word_new_line12 | nasty
+citizen
+auction
+critic
+ketchup
+arrow
+must
+oak
+gorilla
+busy
+sauce
+acquire |  
+| bip_39_word_new_line2 | nasty
+citizen |  
+| bip_39_word_new_line3 | nasty
+citizen
+auction |  
+| bip_39_word_new_line4 | nasty
+citizen
+auction
+critic |  
+| bip_39_word_new_line5 | nasty
+citizen
+auction
+critic
+ketchup |  
+| bip_39_word_new_line6 | nasty
+citizen
+auction
+critic
+ketchup
+arrow |  
+| bip_39_word_new_line7 | nasty
+citizen
+auction
+critic
+ketchup
+arrow
+must |  
+| bip_39_word_new_line8 | nasty
+citizen
+auction
+critic
+ketchup
+arrow
+must
+oak |  
+| bip_39_word_new_line9 | nasty
+citizen
+auction
+critic
+ketchup
+arrow
+must
+oak
+gorilla |  
+| bip_39_word_space_0 | ['nasty', 'citizen', 'auction', 'critic', 'ketchup', 'arrow', 'must', 'oak', 'gorilla', 'busy', 'sauce', 'acquire'] |  
+| bip_39_word_space_1 | nasty |  
+| bip_39_word_space_10 | nasty citizen auction critic ketchup arrow must oak gorilla busy |  
+| bip_39_word_space_11 | nasty citizen auction critic ketchup arrow must oak gorilla busy sauce |  
+| bip_39_word_space_12 | nasty citizen auction critic ketchup arrow must oak gorilla busy sauce acquire |  
+| bip_39_word_space_2 | nasty citizen |  
+| bip_39_word_space_3 | nasty citizen auction |  
+| bip_39_word_space_4 | nasty citizen auction critic |  
+| bip_39_word_space_5 | nasty citizen auction critic ketchup |  
+| bip_39_word_space_6 | nasty citizen auction critic ketchup arrow |  
+| bip_39_word_space_7 | nasty citizen auction critic ketchup arrow must |  
+| bip_39_word_space_8 | nasty citizen auction critic ketchup arrow must oak |  
+| bip_39_word_space_9 | nasty citizen auction critic ketchup arrow must oak gorilla |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

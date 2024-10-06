@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sell
+bip_39_word_new_br10: sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy
+bip_39_word_new_br11: sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy<br>fine
+bip_39_word_new_br12: sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good<br>galaxy<br>fine<br>alley
+bip_39_word_new_br2: sell<br>limit
+bip_39_word_new_br3: sell<br>limit<br>diesel
+bip_39_word_new_br4: sell<br>limit<br>diesel<br>depend
+bip_39_word_new_br5: sell<br>limit<br>diesel<br>depend<br>faint
+bip_39_word_new_br6: sell<br>limit<br>diesel<br>depend<br>faint<br>chat
+bip_39_word_new_br7: sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor
+bip_39_word_new_br8: sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle
+bip_39_word_new_br9: sell<br>limit<br>diesel<br>depend<br>faint<br>chat<br>donor<br>turtle<br>good
+bip_39_word_new_line1: sell
+bip_39_word_new_line10: 'sell
+
+  limit
+
+  diesel
+
+  depend
+
+  faint
+
+  chat
+
+  donor
+
+  turtle
+
+  good
+
+  galaxy'
+bip_39_word_new_line11: 'sell
+
+  limit
+
+  diesel
+
+  depend
+
+  faint
+
+  chat
+
+  donor
+
+  turtle
+
+  good
+
+  galaxy
+
+  fine'
+bip_39_word_new_line12: 'sell
+
+  limit
+
+  diesel
+
+  depend
+
+  faint
+
+  chat
+
+  donor
+
+  turtle
+
+  good
+
+  galaxy
+
+  fine
+
+  alley'
+bip_39_word_new_line2: 'sell
+
+  limit'
+bip_39_word_new_line3: 'sell
+
+  limit
+
+  diesel'
+bip_39_word_new_line4: 'sell
+
+  limit
+
+  diesel
+
+  depend'
+bip_39_word_new_line5: 'sell
+
+  limit
+
+  diesel
+
+  depend
+
+  faint'
+bip_39_word_new_line6: 'sell
+
+  limit
+
+  diesel
+
+  depend
+
+  faint
+
+  chat'
+bip_39_word_new_line7: 'sell
+
+  limit
+
+  diesel
+
+  depend
+
+  faint
+
+  chat
+
+  donor'
+bip_39_word_new_line8: 'sell
+
+  limit
+
+  diesel
+
+  depend
+
+  faint
+
+  chat
+
+  donor
+
+  turtle'
+bip_39_word_new_line9: 'sell
+
+  limit
+
+  diesel
+
+  depend
+
+  faint
+
+  chat
+
+  donor
+
+  turtle
+
+  good'
+bip_39_word_space_0:
+- sell
+- limit
+- diesel
+- depend
+- faint
+- chat
+- donor
+- turtle
+- good
+- galaxy
+- fine
+- alley
+bip_39_word_space_1: sell
+bip_39_word_space_10: sell limit diesel depend faint chat donor turtle good galaxy
+bip_39_word_space_11: sell limit diesel depend faint chat donor turtle good galaxy
+  fine
+bip_39_word_space_12: sell limit diesel depend faint chat donor turtle good galaxy
+  fine alley
+bip_39_word_space_2: sell limit
+bip_39_word_space_3: sell limit diesel
+bip_39_word_space_4: sell limit diesel depend
+bip_39_word_space_5: sell limit diesel depend faint
+bip_39_word_space_6: sell limit diesel depend faint chat
+bip_39_word_space_7: sell limit diesel depend faint chat donor
+bip_39_word_space_8: sell limit diesel depend faint chat donor turtle
+bip_39_word_space_9: sell limit diesel depend faint chat donor turtle good
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

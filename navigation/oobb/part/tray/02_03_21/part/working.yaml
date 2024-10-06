@@ -1,3 +1,185 @@
+bip_39_word_new_br1: dawn
+bip_39_word_new_br10: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh
+bip_39_word_new_br11: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh<br>pepper
+bip_39_word_new_br12: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh<br>mesh<br>pepper<br>already
+bip_39_word_new_br2: dawn<br>super
+bip_39_word_new_br3: dawn<br>super<br>cliff
+bip_39_word_new_br4: dawn<br>super<br>cliff<br>kiss
+bip_39_word_new_br5: dawn<br>super<br>cliff<br>kiss<br>there
+bip_39_word_new_br6: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict
+bip_39_word_new_br7: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck
+bip_39_word_new_br8: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon
+bip_39_word_new_br9: dawn<br>super<br>cliff<br>kiss<br>there<br>inflict<br>wreck<br>salmon<br>mesh
+bip_39_word_new_line1: dawn
+bip_39_word_new_line10: 'dawn
+
+  super
+
+  cliff
+
+  kiss
+
+  there
+
+  inflict
+
+  wreck
+
+  salmon
+
+  mesh
+
+  mesh'
+bip_39_word_new_line11: 'dawn
+
+  super
+
+  cliff
+
+  kiss
+
+  there
+
+  inflict
+
+  wreck
+
+  salmon
+
+  mesh
+
+  mesh
+
+  pepper'
+bip_39_word_new_line12: 'dawn
+
+  super
+
+  cliff
+
+  kiss
+
+  there
+
+  inflict
+
+  wreck
+
+  salmon
+
+  mesh
+
+  mesh
+
+  pepper
+
+  already'
+bip_39_word_new_line2: 'dawn
+
+  super'
+bip_39_word_new_line3: 'dawn
+
+  super
+
+  cliff'
+bip_39_word_new_line4: 'dawn
+
+  super
+
+  cliff
+
+  kiss'
+bip_39_word_new_line5: 'dawn
+
+  super
+
+  cliff
+
+  kiss
+
+  there'
+bip_39_word_new_line6: 'dawn
+
+  super
+
+  cliff
+
+  kiss
+
+  there
+
+  inflict'
+bip_39_word_new_line7: 'dawn
+
+  super
+
+  cliff
+
+  kiss
+
+  there
+
+  inflict
+
+  wreck'
+bip_39_word_new_line8: 'dawn
+
+  super
+
+  cliff
+
+  kiss
+
+  there
+
+  inflict
+
+  wreck
+
+  salmon'
+bip_39_word_new_line9: 'dawn
+
+  super
+
+  cliff
+
+  kiss
+
+  there
+
+  inflict
+
+  wreck
+
+  salmon
+
+  mesh'
+bip_39_word_space_0:
+- dawn
+- super
+- cliff
+- kiss
+- there
+- inflict
+- wreck
+- salmon
+- mesh
+- mesh
+- pepper
+- already
+bip_39_word_space_1: dawn
+bip_39_word_space_10: dawn super cliff kiss there inflict wreck salmon mesh mesh
+bip_39_word_space_11: dawn super cliff kiss there inflict wreck salmon mesh mesh pepper
+bip_39_word_space_12: dawn super cliff kiss there inflict wreck salmon mesh mesh pepper
+  already
+bip_39_word_space_2: dawn super
+bip_39_word_space_3: dawn super cliff
+bip_39_word_space_4: dawn super cliff kiss
+bip_39_word_space_5: dawn super cliff kiss there
+bip_39_word_space_6: dawn super cliff kiss there inflict
+bip_39_word_space_7: dawn super cliff kiss there inflict wreck
+bip_39_word_space_8: dawn super cliff kiss there inflict wreck salmon
+bip_39_word_space_9: dawn super cliff kiss there inflict wreck salmon mesh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

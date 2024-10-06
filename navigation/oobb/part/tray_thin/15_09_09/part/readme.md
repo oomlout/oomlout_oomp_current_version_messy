@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: symbol basket
+  * bip 39 word 3: symbol basket memory
+  * bip 39 word: symbol basket memory machine oak inherit wreck connect bike primary dutch ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | symbol |  
+| bip_39_word_new_br10 | symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike<br>primary |  
+| bip_39_word_new_br11 | symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike<br>primary<br>dutch |  
+| bip_39_word_new_br12 | symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike<br>primary<br>dutch<br>ancient |  
+| bip_39_word_new_br2 | symbol<br>basket |  
+| bip_39_word_new_br3 | symbol<br>basket<br>memory |  
+| bip_39_word_new_br4 | symbol<br>basket<br>memory<br>machine |  
+| bip_39_word_new_br5 | symbol<br>basket<br>memory<br>machine<br>oak |  
+| bip_39_word_new_br6 | symbol<br>basket<br>memory<br>machine<br>oak<br>inherit |  
+| bip_39_word_new_br7 | symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck |  
+| bip_39_word_new_br8 | symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect |  
+| bip_39_word_new_br9 | symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike |  
+| bip_39_word_new_line1 | symbol |  
+| bip_39_word_new_line10 | symbol
+basket
+memory
+machine
+oak
+inherit
+wreck
+connect
+bike
+primary |  
+| bip_39_word_new_line11 | symbol
+basket
+memory
+machine
+oak
+inherit
+wreck
+connect
+bike
+primary
+dutch |  
+| bip_39_word_new_line12 | symbol
+basket
+memory
+machine
+oak
+inherit
+wreck
+connect
+bike
+primary
+dutch
+ancient |  
+| bip_39_word_new_line2 | symbol
+basket |  
+| bip_39_word_new_line3 | symbol
+basket
+memory |  
+| bip_39_word_new_line4 | symbol
+basket
+memory
+machine |  
+| bip_39_word_new_line5 | symbol
+basket
+memory
+machine
+oak |  
+| bip_39_word_new_line6 | symbol
+basket
+memory
+machine
+oak
+inherit |  
+| bip_39_word_new_line7 | symbol
+basket
+memory
+machine
+oak
+inherit
+wreck |  
+| bip_39_word_new_line8 | symbol
+basket
+memory
+machine
+oak
+inherit
+wreck
+connect |  
+| bip_39_word_new_line9 | symbol
+basket
+memory
+machine
+oak
+inherit
+wreck
+connect
+bike |  
+| bip_39_word_space_0 | ['symbol', 'basket', 'memory', 'machine', 'oak', 'inherit', 'wreck', 'connect', 'bike', 'primary', 'dutch', 'ancient'] |  
+| bip_39_word_space_1 | symbol |  
+| bip_39_word_space_10 | symbol basket memory machine oak inherit wreck connect bike primary |  
+| bip_39_word_space_11 | symbol basket memory machine oak inherit wreck connect bike primary dutch |  
+| bip_39_word_space_12 | symbol basket memory machine oak inherit wreck connect bike primary dutch ancient |  
+| bip_39_word_space_2 | symbol basket |  
+| bip_39_word_space_3 | symbol basket memory |  
+| bip_39_word_space_4 | symbol basket memory machine |  
+| bip_39_word_space_5 | symbol basket memory machine oak |  
+| bip_39_word_space_6 | symbol basket memory machine oak inherit |  
+| bip_39_word_space_7 | symbol basket memory machine oak inherit wreck |  
+| bip_39_word_space_8 | symbol basket memory machine oak inherit wreck connect |  
+| bip_39_word_space_9 | symbol basket memory machine oak inherit wreck connect bike |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

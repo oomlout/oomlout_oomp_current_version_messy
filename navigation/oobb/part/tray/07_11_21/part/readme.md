@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: expect tomato
+  * bip 39 word 3: expect tomato owner
+  * bip 39 word: expect tomato owner finger more pill honey town loan visual raccoon allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | expect |  
+| bip_39_word_new_br10 | expect<br>tomato<br>owner<br>finger<br>more<br>pill<br>honey<br>town<br>loan<br>visual |  
+| bip_39_word_new_br11 | expect<br>tomato<br>owner<br>finger<br>more<br>pill<br>honey<br>town<br>loan<br>visual<br>raccoon |  
+| bip_39_word_new_br12 | expect<br>tomato<br>owner<br>finger<br>more<br>pill<br>honey<br>town<br>loan<br>visual<br>raccoon<br>allow |  
+| bip_39_word_new_br2 | expect<br>tomato |  
+| bip_39_word_new_br3 | expect<br>tomato<br>owner |  
+| bip_39_word_new_br4 | expect<br>tomato<br>owner<br>finger |  
+| bip_39_word_new_br5 | expect<br>tomato<br>owner<br>finger<br>more |  
+| bip_39_word_new_br6 | expect<br>tomato<br>owner<br>finger<br>more<br>pill |  
+| bip_39_word_new_br7 | expect<br>tomato<br>owner<br>finger<br>more<br>pill<br>honey |  
+| bip_39_word_new_br8 | expect<br>tomato<br>owner<br>finger<br>more<br>pill<br>honey<br>town |  
+| bip_39_word_new_br9 | expect<br>tomato<br>owner<br>finger<br>more<br>pill<br>honey<br>town<br>loan |  
+| bip_39_word_new_line1 | expect |  
+| bip_39_word_new_line10 | expect
+tomato
+owner
+finger
+more
+pill
+honey
+town
+loan
+visual |  
+| bip_39_word_new_line11 | expect
+tomato
+owner
+finger
+more
+pill
+honey
+town
+loan
+visual
+raccoon |  
+| bip_39_word_new_line12 | expect
+tomato
+owner
+finger
+more
+pill
+honey
+town
+loan
+visual
+raccoon
+allow |  
+| bip_39_word_new_line2 | expect
+tomato |  
+| bip_39_word_new_line3 | expect
+tomato
+owner |  
+| bip_39_word_new_line4 | expect
+tomato
+owner
+finger |  
+| bip_39_word_new_line5 | expect
+tomato
+owner
+finger
+more |  
+| bip_39_word_new_line6 | expect
+tomato
+owner
+finger
+more
+pill |  
+| bip_39_word_new_line7 | expect
+tomato
+owner
+finger
+more
+pill
+honey |  
+| bip_39_word_new_line8 | expect
+tomato
+owner
+finger
+more
+pill
+honey
+town |  
+| bip_39_word_new_line9 | expect
+tomato
+owner
+finger
+more
+pill
+honey
+town
+loan |  
+| bip_39_word_space_0 | ['expect', 'tomato', 'owner', 'finger', 'more', 'pill', 'honey', 'town', 'loan', 'visual', 'raccoon', 'allow'] |  
+| bip_39_word_space_1 | expect |  
+| bip_39_word_space_10 | expect tomato owner finger more pill honey town loan visual |  
+| bip_39_word_space_11 | expect tomato owner finger more pill honey town loan visual raccoon |  
+| bip_39_word_space_12 | expect tomato owner finger more pill honey town loan visual raccoon allow |  
+| bip_39_word_space_2 | expect tomato |  
+| bip_39_word_space_3 | expect tomato owner |  
+| bip_39_word_space_4 | expect tomato owner finger |  
+| bip_39_word_space_5 | expect tomato owner finger more |  
+| bip_39_word_space_6 | expect tomato owner finger more pill |  
+| bip_39_word_space_7 | expect tomato owner finger more pill honey |  
+| bip_39_word_space_8 | expect tomato owner finger more pill honey town |  
+| bip_39_word_space_9 | expect tomato owner finger more pill honey town loan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

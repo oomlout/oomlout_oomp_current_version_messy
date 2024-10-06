@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shadow such
+  * bip 39 word 3: shadow such sister
+  * bip 39 word: shadow such sister addict glue canal describe random hawk recall very alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shadow |  
+| bip_39_word_new_br10 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall |  
+| bip_39_word_new_br11 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall<br>very |  
+| bip_39_word_new_br12 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk<br>recall<br>very<br>alpha |  
+| bip_39_word_new_br2 | shadow<br>such |  
+| bip_39_word_new_br3 | shadow<br>such<br>sister |  
+| bip_39_word_new_br4 | shadow<br>such<br>sister<br>addict |  
+| bip_39_word_new_br5 | shadow<br>such<br>sister<br>addict<br>glue |  
+| bip_39_word_new_br6 | shadow<br>such<br>sister<br>addict<br>glue<br>canal |  
+| bip_39_word_new_br7 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe |  
+| bip_39_word_new_br8 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random |  
+| bip_39_word_new_br9 | shadow<br>such<br>sister<br>addict<br>glue<br>canal<br>describe<br>random<br>hawk |  
+| bip_39_word_new_line1 | shadow |  
+| bip_39_word_new_line10 | shadow
+such
+sister
+addict
+glue
+canal
+describe
+random
+hawk
+recall |  
+| bip_39_word_new_line11 | shadow
+such
+sister
+addict
+glue
+canal
+describe
+random
+hawk
+recall
+very |  
+| bip_39_word_new_line12 | shadow
+such
+sister
+addict
+glue
+canal
+describe
+random
+hawk
+recall
+very
+alpha |  
+| bip_39_word_new_line2 | shadow
+such |  
+| bip_39_word_new_line3 | shadow
+such
+sister |  
+| bip_39_word_new_line4 | shadow
+such
+sister
+addict |  
+| bip_39_word_new_line5 | shadow
+such
+sister
+addict
+glue |  
+| bip_39_word_new_line6 | shadow
+such
+sister
+addict
+glue
+canal |  
+| bip_39_word_new_line7 | shadow
+such
+sister
+addict
+glue
+canal
+describe |  
+| bip_39_word_new_line8 | shadow
+such
+sister
+addict
+glue
+canal
+describe
+random |  
+| bip_39_word_new_line9 | shadow
+such
+sister
+addict
+glue
+canal
+describe
+random
+hawk |  
+| bip_39_word_space_0 | ['shadow', 'such', 'sister', 'addict', 'glue', 'canal', 'describe', 'random', 'hawk', 'recall', 'very', 'alpha'] |  
+| bip_39_word_space_1 | shadow |  
+| bip_39_word_space_10 | shadow such sister addict glue canal describe random hawk recall |  
+| bip_39_word_space_11 | shadow such sister addict glue canal describe random hawk recall very |  
+| bip_39_word_space_12 | shadow such sister addict glue canal describe random hawk recall very alpha |  
+| bip_39_word_space_2 | shadow such |  
+| bip_39_word_space_3 | shadow such sister |  
+| bip_39_word_space_4 | shadow such sister addict |  
+| bip_39_word_space_5 | shadow such sister addict glue |  
+| bip_39_word_space_6 | shadow such sister addict glue canal |  
+| bip_39_word_space_7 | shadow such sister addict glue canal describe |  
+| bip_39_word_space_8 | shadow such sister addict glue canal describe random |  
+| bip_39_word_space_9 | shadow such sister addict glue canal describe random hawk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

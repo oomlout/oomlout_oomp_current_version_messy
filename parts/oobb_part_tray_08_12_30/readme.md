@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hobby load
+  * bip 39 word 3: hobby load tenant
+  * bip 39 word: hobby load tenant tube alley unfair version flag art attitude answer admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hobby |  
+| bip_39_word_new_br10 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair<br>version<br>flag<br>art<br>attitude |  
+| bip_39_word_new_br11 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair<br>version<br>flag<br>art<br>attitude<br>answer |  
+| bip_39_word_new_br12 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair<br>version<br>flag<br>art<br>attitude<br>answer<br>admit |  
+| bip_39_word_new_br2 | hobby<br>load |  
+| bip_39_word_new_br3 | hobby<br>load<br>tenant |  
+| bip_39_word_new_br4 | hobby<br>load<br>tenant<br>tube |  
+| bip_39_word_new_br5 | hobby<br>load<br>tenant<br>tube<br>alley |  
+| bip_39_word_new_br6 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair |  
+| bip_39_word_new_br7 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair<br>version |  
+| bip_39_word_new_br8 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair<br>version<br>flag |  
+| bip_39_word_new_br9 | hobby<br>load<br>tenant<br>tube<br>alley<br>unfair<br>version<br>flag<br>art |  
+| bip_39_word_new_line1 | hobby |  
+| bip_39_word_new_line10 | hobby
+load
+tenant
+tube
+alley
+unfair
+version
+flag
+art
+attitude |  
+| bip_39_word_new_line11 | hobby
+load
+tenant
+tube
+alley
+unfair
+version
+flag
+art
+attitude
+answer |  
+| bip_39_word_new_line12 | hobby
+load
+tenant
+tube
+alley
+unfair
+version
+flag
+art
+attitude
+answer
+admit |  
+| bip_39_word_new_line2 | hobby
+load |  
+| bip_39_word_new_line3 | hobby
+load
+tenant |  
+| bip_39_word_new_line4 | hobby
+load
+tenant
+tube |  
+| bip_39_word_new_line5 | hobby
+load
+tenant
+tube
+alley |  
+| bip_39_word_new_line6 | hobby
+load
+tenant
+tube
+alley
+unfair |  
+| bip_39_word_new_line7 | hobby
+load
+tenant
+tube
+alley
+unfair
+version |  
+| bip_39_word_new_line8 | hobby
+load
+tenant
+tube
+alley
+unfair
+version
+flag |  
+| bip_39_word_new_line9 | hobby
+load
+tenant
+tube
+alley
+unfair
+version
+flag
+art |  
+| bip_39_word_space_0 | ['hobby', 'load', 'tenant', 'tube', 'alley', 'unfair', 'version', 'flag', 'art', 'attitude', 'answer', 'admit'] |  
+| bip_39_word_space_1 | hobby |  
+| bip_39_word_space_10 | hobby load tenant tube alley unfair version flag art attitude |  
+| bip_39_word_space_11 | hobby load tenant tube alley unfair version flag art attitude answer |  
+| bip_39_word_space_12 | hobby load tenant tube alley unfair version flag art attitude answer admit |  
+| bip_39_word_space_2 | hobby load |  
+| bip_39_word_space_3 | hobby load tenant |  
+| bip_39_word_space_4 | hobby load tenant tube |  
+| bip_39_word_space_5 | hobby load tenant tube alley |  
+| bip_39_word_space_6 | hobby load tenant tube alley unfair |  
+| bip_39_word_space_7 | hobby load tenant tube alley unfair version |  
+| bip_39_word_space_8 | hobby load tenant tube alley unfair version flag |  
+| bip_39_word_space_9 | hobby load tenant tube alley unfair version flag art |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

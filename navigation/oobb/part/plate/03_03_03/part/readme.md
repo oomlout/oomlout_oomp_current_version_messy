@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tennis flush
+  * bip 39 word 3: tennis flush lucky
+  * bip 39 word: tennis flush lucky empty upon mean wisdom clock direct fossil balcony arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tennis |  
+| bip_39_word_new_br10 | tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct<br>fossil |  
+| bip_39_word_new_br11 | tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct<br>fossil<br>balcony |  
+| bip_39_word_new_br12 | tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct<br>fossil<br>balcony<br>arch |  
+| bip_39_word_new_br2 | tennis<br>flush |  
+| bip_39_word_new_br3 | tennis<br>flush<br>lucky |  
+| bip_39_word_new_br4 | tennis<br>flush<br>lucky<br>empty |  
+| bip_39_word_new_br5 | tennis<br>flush<br>lucky<br>empty<br>upon |  
+| bip_39_word_new_br6 | tennis<br>flush<br>lucky<br>empty<br>upon<br>mean |  
+| bip_39_word_new_br7 | tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom |  
+| bip_39_word_new_br8 | tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock |  
+| bip_39_word_new_br9 | tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct |  
+| bip_39_word_new_line1 | tennis |  
+| bip_39_word_new_line10 | tennis
+flush
+lucky
+empty
+upon
+mean
+wisdom
+clock
+direct
+fossil |  
+| bip_39_word_new_line11 | tennis
+flush
+lucky
+empty
+upon
+mean
+wisdom
+clock
+direct
+fossil
+balcony |  
+| bip_39_word_new_line12 | tennis
+flush
+lucky
+empty
+upon
+mean
+wisdom
+clock
+direct
+fossil
+balcony
+arch |  
+| bip_39_word_new_line2 | tennis
+flush |  
+| bip_39_word_new_line3 | tennis
+flush
+lucky |  
+| bip_39_word_new_line4 | tennis
+flush
+lucky
+empty |  
+| bip_39_word_new_line5 | tennis
+flush
+lucky
+empty
+upon |  
+| bip_39_word_new_line6 | tennis
+flush
+lucky
+empty
+upon
+mean |  
+| bip_39_word_new_line7 | tennis
+flush
+lucky
+empty
+upon
+mean
+wisdom |  
+| bip_39_word_new_line8 | tennis
+flush
+lucky
+empty
+upon
+mean
+wisdom
+clock |  
+| bip_39_word_new_line9 | tennis
+flush
+lucky
+empty
+upon
+mean
+wisdom
+clock
+direct |  
+| bip_39_word_space_0 | ['tennis', 'flush', 'lucky', 'empty', 'upon', 'mean', 'wisdom', 'clock', 'direct', 'fossil', 'balcony', 'arch'] |  
+| bip_39_word_space_1 | tennis |  
+| bip_39_word_space_10 | tennis flush lucky empty upon mean wisdom clock direct fossil |  
+| bip_39_word_space_11 | tennis flush lucky empty upon mean wisdom clock direct fossil balcony |  
+| bip_39_word_space_12 | tennis flush lucky empty upon mean wisdom clock direct fossil balcony arch |  
+| bip_39_word_space_2 | tennis flush |  
+| bip_39_word_space_3 | tennis flush lucky |  
+| bip_39_word_space_4 | tennis flush lucky empty |  
+| bip_39_word_space_5 | tennis flush lucky empty upon |  
+| bip_39_word_space_6 | tennis flush lucky empty upon mean |  
+| bip_39_word_space_7 | tennis flush lucky empty upon mean wisdom |  
+| bip_39_word_space_8 | tennis flush lucky empty upon mean wisdom clock |  
+| bip_39_word_space_9 | tennis flush lucky empty upon mean wisdom clock direct |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

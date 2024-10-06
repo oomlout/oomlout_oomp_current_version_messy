@@ -1,3 +1,186 @@
+bip_39_word_new_br1: future
+bip_39_word_new_br10: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet<br>trumpet<br>rookie<br>sample<br>dignity
+bip_39_word_new_br11: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet<br>trumpet<br>rookie<br>sample<br>dignity<br>cabin
+bip_39_word_new_br12: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet<br>trumpet<br>rookie<br>sample<br>dignity<br>cabin<br>arrest
+bip_39_word_new_br2: future<br>stove
+bip_39_word_new_br3: future<br>stove<br>crop
+bip_39_word_new_br4: future<br>stove<br>crop<br>rude
+bip_39_word_new_br5: future<br>stove<br>crop<br>rude<br>jaguar
+bip_39_word_new_br6: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet
+bip_39_word_new_br7: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet<br>trumpet
+bip_39_word_new_br8: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet<br>trumpet<br>rookie
+bip_39_word_new_br9: future<br>stove<br>crop<br>rude<br>jaguar<br>magnet<br>trumpet<br>rookie<br>sample
+bip_39_word_new_line1: future
+bip_39_word_new_line10: 'future
+
+  stove
+
+  crop
+
+  rude
+
+  jaguar
+
+  magnet
+
+  trumpet
+
+  rookie
+
+  sample
+
+  dignity'
+bip_39_word_new_line11: 'future
+
+  stove
+
+  crop
+
+  rude
+
+  jaguar
+
+  magnet
+
+  trumpet
+
+  rookie
+
+  sample
+
+  dignity
+
+  cabin'
+bip_39_word_new_line12: 'future
+
+  stove
+
+  crop
+
+  rude
+
+  jaguar
+
+  magnet
+
+  trumpet
+
+  rookie
+
+  sample
+
+  dignity
+
+  cabin
+
+  arrest'
+bip_39_word_new_line2: 'future
+
+  stove'
+bip_39_word_new_line3: 'future
+
+  stove
+
+  crop'
+bip_39_word_new_line4: 'future
+
+  stove
+
+  crop
+
+  rude'
+bip_39_word_new_line5: 'future
+
+  stove
+
+  crop
+
+  rude
+
+  jaguar'
+bip_39_word_new_line6: 'future
+
+  stove
+
+  crop
+
+  rude
+
+  jaguar
+
+  magnet'
+bip_39_word_new_line7: 'future
+
+  stove
+
+  crop
+
+  rude
+
+  jaguar
+
+  magnet
+
+  trumpet'
+bip_39_word_new_line8: 'future
+
+  stove
+
+  crop
+
+  rude
+
+  jaguar
+
+  magnet
+
+  trumpet
+
+  rookie'
+bip_39_word_new_line9: 'future
+
+  stove
+
+  crop
+
+  rude
+
+  jaguar
+
+  magnet
+
+  trumpet
+
+  rookie
+
+  sample'
+bip_39_word_space_0:
+- future
+- stove
+- crop
+- rude
+- jaguar
+- magnet
+- trumpet
+- rookie
+- sample
+- dignity
+- cabin
+- arrest
+bip_39_word_space_1: future
+bip_39_word_space_10: future stove crop rude jaguar magnet trumpet rookie sample dignity
+bip_39_word_space_11: future stove crop rude jaguar magnet trumpet rookie sample dignity
+  cabin
+bip_39_word_space_12: future stove crop rude jaguar magnet trumpet rookie sample dignity
+  cabin arrest
+bip_39_word_space_2: future stove
+bip_39_word_space_3: future stove crop
+bip_39_word_space_4: future stove crop rude
+bip_39_word_space_5: future stove crop rude jaguar
+bip_39_word_space_6: future stove crop rude jaguar magnet
+bip_39_word_space_7: future stove crop rude jaguar magnet trumpet
+bip_39_word_space_8: future stove crop rude jaguar magnet trumpet rookie
+bip_39_word_space_9: future stove crop rude jaguar magnet trumpet rookie sample
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

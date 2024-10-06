@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: bearing_twenty_twenty_aluminium_extrusion
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glove casino
+  * bip 39 word 3: glove casino language
+  * bip 39 word: glove casino language game ability famous ready replace diary essay antique assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glove |  
+| bip_39_word_new_br10 | glove<br>casino<br>language<br>game<br>ability<br>famous<br>ready<br>replace<br>diary<br>essay |  
+| bip_39_word_new_br11 | glove<br>casino<br>language<br>game<br>ability<br>famous<br>ready<br>replace<br>diary<br>essay<br>antique |  
+| bip_39_word_new_br12 | glove<br>casino<br>language<br>game<br>ability<br>famous<br>ready<br>replace<br>diary<br>essay<br>antique<br>assist |  
+| bip_39_word_new_br2 | glove<br>casino |  
+| bip_39_word_new_br3 | glove<br>casino<br>language |  
+| bip_39_word_new_br4 | glove<br>casino<br>language<br>game |  
+| bip_39_word_new_br5 | glove<br>casino<br>language<br>game<br>ability |  
+| bip_39_word_new_br6 | glove<br>casino<br>language<br>game<br>ability<br>famous |  
+| bip_39_word_new_br7 | glove<br>casino<br>language<br>game<br>ability<br>famous<br>ready |  
+| bip_39_word_new_br8 | glove<br>casino<br>language<br>game<br>ability<br>famous<br>ready<br>replace |  
+| bip_39_word_new_br9 | glove<br>casino<br>language<br>game<br>ability<br>famous<br>ready<br>replace<br>diary |  
+| bip_39_word_new_line1 | glove |  
+| bip_39_word_new_line10 | glove
+casino
+language
+game
+ability
+famous
+ready
+replace
+diary
+essay |  
+| bip_39_word_new_line11 | glove
+casino
+language
+game
+ability
+famous
+ready
+replace
+diary
+essay
+antique |  
+| bip_39_word_new_line12 | glove
+casino
+language
+game
+ability
+famous
+ready
+replace
+diary
+essay
+antique
+assist |  
+| bip_39_word_new_line2 | glove
+casino |  
+| bip_39_word_new_line3 | glove
+casino
+language |  
+| bip_39_word_new_line4 | glove
+casino
+language
+game |  
+| bip_39_word_new_line5 | glove
+casino
+language
+game
+ability |  
+| bip_39_word_new_line6 | glove
+casino
+language
+game
+ability
+famous |  
+| bip_39_word_new_line7 | glove
+casino
+language
+game
+ability
+famous
+ready |  
+| bip_39_word_new_line8 | glove
+casino
+language
+game
+ability
+famous
+ready
+replace |  
+| bip_39_word_new_line9 | glove
+casino
+language
+game
+ability
+famous
+ready
+replace
+diary |  
+| bip_39_word_space_0 | ['glove', 'casino', 'language', 'game', 'ability', 'famous', 'ready', 'replace', 'diary', 'essay', 'antique', 'assist'] |  
+| bip_39_word_space_1 | glove |  
+| bip_39_word_space_10 | glove casino language game ability famous ready replace diary essay |  
+| bip_39_word_space_11 | glove casino language game ability famous ready replace diary essay antique |  
+| bip_39_word_space_12 | glove casino language game ability famous ready replace diary essay antique assist |  
+| bip_39_word_space_2 | glove casino |  
+| bip_39_word_space_3 | glove casino language |  
+| bip_39_word_space_4 | glove casino language game |  
+| bip_39_word_space_5 | glove casino language game ability |  
+| bip_39_word_space_6 | glove casino language game ability famous |  
+| bip_39_word_space_7 | glove casino language game ability famous ready |  
+| bip_39_word_space_8 | glove casino language game ability famous ready replace |  
+| bip_39_word_space_9 | glove casino language game ability famous ready replace diary |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

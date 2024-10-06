@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quit juice
+  * bip 39 word 3: quit juice split
+  * bip 39 word: quit juice split artwork add bullet twelve coach bargain soccer word alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quit |  
+| bip_39_word_new_br10 | quit<br>juice<br>split<br>artwork<br>add<br>bullet<br>twelve<br>coach<br>bargain<br>soccer |  
+| bip_39_word_new_br11 | quit<br>juice<br>split<br>artwork<br>add<br>bullet<br>twelve<br>coach<br>bargain<br>soccer<br>word |  
+| bip_39_word_new_br12 | quit<br>juice<br>split<br>artwork<br>add<br>bullet<br>twelve<br>coach<br>bargain<br>soccer<br>word<br>alone |  
+| bip_39_word_new_br2 | quit<br>juice |  
+| bip_39_word_new_br3 | quit<br>juice<br>split |  
+| bip_39_word_new_br4 | quit<br>juice<br>split<br>artwork |  
+| bip_39_word_new_br5 | quit<br>juice<br>split<br>artwork<br>add |  
+| bip_39_word_new_br6 | quit<br>juice<br>split<br>artwork<br>add<br>bullet |  
+| bip_39_word_new_br7 | quit<br>juice<br>split<br>artwork<br>add<br>bullet<br>twelve |  
+| bip_39_word_new_br8 | quit<br>juice<br>split<br>artwork<br>add<br>bullet<br>twelve<br>coach |  
+| bip_39_word_new_br9 | quit<br>juice<br>split<br>artwork<br>add<br>bullet<br>twelve<br>coach<br>bargain |  
+| bip_39_word_new_line1 | quit |  
+| bip_39_word_new_line10 | quit
+juice
+split
+artwork
+add
+bullet
+twelve
+coach
+bargain
+soccer |  
+| bip_39_word_new_line11 | quit
+juice
+split
+artwork
+add
+bullet
+twelve
+coach
+bargain
+soccer
+word |  
+| bip_39_word_new_line12 | quit
+juice
+split
+artwork
+add
+bullet
+twelve
+coach
+bargain
+soccer
+word
+alone |  
+| bip_39_word_new_line2 | quit
+juice |  
+| bip_39_word_new_line3 | quit
+juice
+split |  
+| bip_39_word_new_line4 | quit
+juice
+split
+artwork |  
+| bip_39_word_new_line5 | quit
+juice
+split
+artwork
+add |  
+| bip_39_word_new_line6 | quit
+juice
+split
+artwork
+add
+bullet |  
+| bip_39_word_new_line7 | quit
+juice
+split
+artwork
+add
+bullet
+twelve |  
+| bip_39_word_new_line8 | quit
+juice
+split
+artwork
+add
+bullet
+twelve
+coach |  
+| bip_39_word_new_line9 | quit
+juice
+split
+artwork
+add
+bullet
+twelve
+coach
+bargain |  
+| bip_39_word_space_0 | ['quit', 'juice', 'split', 'artwork', 'add', 'bullet', 'twelve', 'coach', 'bargain', 'soccer', 'word', 'alone'] |  
+| bip_39_word_space_1 | quit |  
+| bip_39_word_space_10 | quit juice split artwork add bullet twelve coach bargain soccer |  
+| bip_39_word_space_11 | quit juice split artwork add bullet twelve coach bargain soccer word |  
+| bip_39_word_space_12 | quit juice split artwork add bullet twelve coach bargain soccer word alone |  
+| bip_39_word_space_2 | quit juice |  
+| bip_39_word_space_3 | quit juice split |  
+| bip_39_word_space_4 | quit juice split artwork |  
+| bip_39_word_space_5 | quit juice split artwork add |  
+| bip_39_word_space_6 | quit juice split artwork add bullet |  
+| bip_39_word_space_7 | quit juice split artwork add bullet twelve |  
+| bip_39_word_space_8 | quit juice split artwork add bullet twelve coach |  
+| bip_39_word_space_9 | quit juice split artwork add bullet twelve coach bargain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

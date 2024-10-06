@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: visit little
+  * bip 39 word 3: visit little steel
+  * bip 39 word: visit little steel today club vault envelope drift cinnamon decrease venture argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | visit |  
+| bip_39_word_new_br10 | visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease |  
+| bip_39_word_new_br11 | visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture |  
+| bip_39_word_new_br12 | visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture<br>argue |  
+| bip_39_word_new_br2 | visit<br>little |  
+| bip_39_word_new_br3 | visit<br>little<br>steel |  
+| bip_39_word_new_br4 | visit<br>little<br>steel<br>today |  
+| bip_39_word_new_br5 | visit<br>little<br>steel<br>today<br>club |  
+| bip_39_word_new_br6 | visit<br>little<br>steel<br>today<br>club<br>vault |  
+| bip_39_word_new_br7 | visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope |  
+| bip_39_word_new_br8 | visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift |  
+| bip_39_word_new_br9 | visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon |  
+| bip_39_word_new_line1 | visit |  
+| bip_39_word_new_line10 | visit
+little
+steel
+today
+club
+vault
+envelope
+drift
+cinnamon
+decrease |  
+| bip_39_word_new_line11 | visit
+little
+steel
+today
+club
+vault
+envelope
+drift
+cinnamon
+decrease
+venture |  
+| bip_39_word_new_line12 | visit
+little
+steel
+today
+club
+vault
+envelope
+drift
+cinnamon
+decrease
+venture
+argue |  
+| bip_39_word_new_line2 | visit
+little |  
+| bip_39_word_new_line3 | visit
+little
+steel |  
+| bip_39_word_new_line4 | visit
+little
+steel
+today |  
+| bip_39_word_new_line5 | visit
+little
+steel
+today
+club |  
+| bip_39_word_new_line6 | visit
+little
+steel
+today
+club
+vault |  
+| bip_39_word_new_line7 | visit
+little
+steel
+today
+club
+vault
+envelope |  
+| bip_39_word_new_line8 | visit
+little
+steel
+today
+club
+vault
+envelope
+drift |  
+| bip_39_word_new_line9 | visit
+little
+steel
+today
+club
+vault
+envelope
+drift
+cinnamon |  
+| bip_39_word_space_0 | ['visit', 'little', 'steel', 'today', 'club', 'vault', 'envelope', 'drift', 'cinnamon', 'decrease', 'venture', 'argue'] |  
+| bip_39_word_space_1 | visit |  
+| bip_39_word_space_10 | visit little steel today club vault envelope drift cinnamon decrease |  
+| bip_39_word_space_11 | visit little steel today club vault envelope drift cinnamon decrease venture |  
+| bip_39_word_space_12 | visit little steel today club vault envelope drift cinnamon decrease venture argue |  
+| bip_39_word_space_2 | visit little |  
+| bip_39_word_space_3 | visit little steel |  
+| bip_39_word_space_4 | visit little steel today |  
+| bip_39_word_space_5 | visit little steel today club |  
+| bip_39_word_space_6 | visit little steel today club vault |  
+| bip_39_word_space_7 | visit little steel today club vault envelope |  
+| bip_39_word_space_8 | visit little steel today club vault envelope drift |  
+| bip_39_word_space_9 | visit little steel today club vault envelope drift cinnamon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

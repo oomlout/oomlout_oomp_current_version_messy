@@ -1,3 +1,185 @@
+bip_39_word_new_br1: mad
+bip_39_word_new_br10: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey
+bip_39_word_new_br11: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey<br>route
+bip_39_word_new_br12: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge<br>obey<br>route<br>also
+bip_39_word_new_br2: mad<br>animal
+bip_39_word_new_br3: mad<br>animal<br>poem
+bip_39_word_new_br4: mad<br>animal<br>poem<br>rug
+bip_39_word_new_br5: mad<br>animal<br>poem<br>rug<br>lab
+bip_39_word_new_br6: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor
+bip_39_word_new_br7: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale
+bip_39_word_new_br8: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom
+bip_39_word_new_br9: mad<br>animal<br>poem<br>rug<br>lab<br>sponsor<br>inhale<br>wisdom<br>urge
+bip_39_word_new_line1: mad
+bip_39_word_new_line10: 'mad
+
+  animal
+
+  poem
+
+  rug
+
+  lab
+
+  sponsor
+
+  inhale
+
+  wisdom
+
+  urge
+
+  obey'
+bip_39_word_new_line11: 'mad
+
+  animal
+
+  poem
+
+  rug
+
+  lab
+
+  sponsor
+
+  inhale
+
+  wisdom
+
+  urge
+
+  obey
+
+  route'
+bip_39_word_new_line12: 'mad
+
+  animal
+
+  poem
+
+  rug
+
+  lab
+
+  sponsor
+
+  inhale
+
+  wisdom
+
+  urge
+
+  obey
+
+  route
+
+  also'
+bip_39_word_new_line2: 'mad
+
+  animal'
+bip_39_word_new_line3: 'mad
+
+  animal
+
+  poem'
+bip_39_word_new_line4: 'mad
+
+  animal
+
+  poem
+
+  rug'
+bip_39_word_new_line5: 'mad
+
+  animal
+
+  poem
+
+  rug
+
+  lab'
+bip_39_word_new_line6: 'mad
+
+  animal
+
+  poem
+
+  rug
+
+  lab
+
+  sponsor'
+bip_39_word_new_line7: 'mad
+
+  animal
+
+  poem
+
+  rug
+
+  lab
+
+  sponsor
+
+  inhale'
+bip_39_word_new_line8: 'mad
+
+  animal
+
+  poem
+
+  rug
+
+  lab
+
+  sponsor
+
+  inhale
+
+  wisdom'
+bip_39_word_new_line9: 'mad
+
+  animal
+
+  poem
+
+  rug
+
+  lab
+
+  sponsor
+
+  inhale
+
+  wisdom
+
+  urge'
+bip_39_word_space_0:
+- mad
+- animal
+- poem
+- rug
+- lab
+- sponsor
+- inhale
+- wisdom
+- urge
+- obey
+- route
+- also
+bip_39_word_space_1: mad
+bip_39_word_space_10: mad animal poem rug lab sponsor inhale wisdom urge obey
+bip_39_word_space_11: mad animal poem rug lab sponsor inhale wisdom urge obey route
+bip_39_word_space_12: mad animal poem rug lab sponsor inhale wisdom urge obey route
+  also
+bip_39_word_space_2: mad animal
+bip_39_word_space_3: mad animal poem
+bip_39_word_space_4: mad animal poem rug
+bip_39_word_space_5: mad animal poem rug lab
+bip_39_word_space_6: mad animal poem rug lab sponsor
+bip_39_word_space_7: mad animal poem rug lab sponsor inhale
+bip_39_word_space_8: mad animal poem rug lab sponsor inhale wisdom
+bip_39_word_space_9: mad animal poem rug lab sponsor inhale wisdom urge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

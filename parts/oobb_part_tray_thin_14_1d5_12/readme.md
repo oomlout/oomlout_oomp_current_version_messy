@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: limit judge
+  * bip 39 word 3: limit judge exhaust
+  * bip 39 word: limit judge exhaust frog fabric satisfy board excess notice night olympic artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | limit |  
+| bip_39_word_new_br10 | limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy<br>board<br>excess<br>notice<br>night |  
+| bip_39_word_new_br11 | limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy<br>board<br>excess<br>notice<br>night<br>olympic |  
+| bip_39_word_new_br12 | limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy<br>board<br>excess<br>notice<br>night<br>olympic<br>artwork |  
+| bip_39_word_new_br2 | limit<br>judge |  
+| bip_39_word_new_br3 | limit<br>judge<br>exhaust |  
+| bip_39_word_new_br4 | limit<br>judge<br>exhaust<br>frog |  
+| bip_39_word_new_br5 | limit<br>judge<br>exhaust<br>frog<br>fabric |  
+| bip_39_word_new_br6 | limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy |  
+| bip_39_word_new_br7 | limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy<br>board |  
+| bip_39_word_new_br8 | limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy<br>board<br>excess |  
+| bip_39_word_new_br9 | limit<br>judge<br>exhaust<br>frog<br>fabric<br>satisfy<br>board<br>excess<br>notice |  
+| bip_39_word_new_line1 | limit |  
+| bip_39_word_new_line10 | limit
+judge
+exhaust
+frog
+fabric
+satisfy
+board
+excess
+notice
+night |  
+| bip_39_word_new_line11 | limit
+judge
+exhaust
+frog
+fabric
+satisfy
+board
+excess
+notice
+night
+olympic |  
+| bip_39_word_new_line12 | limit
+judge
+exhaust
+frog
+fabric
+satisfy
+board
+excess
+notice
+night
+olympic
+artwork |  
+| bip_39_word_new_line2 | limit
+judge |  
+| bip_39_word_new_line3 | limit
+judge
+exhaust |  
+| bip_39_word_new_line4 | limit
+judge
+exhaust
+frog |  
+| bip_39_word_new_line5 | limit
+judge
+exhaust
+frog
+fabric |  
+| bip_39_word_new_line6 | limit
+judge
+exhaust
+frog
+fabric
+satisfy |  
+| bip_39_word_new_line7 | limit
+judge
+exhaust
+frog
+fabric
+satisfy
+board |  
+| bip_39_word_new_line8 | limit
+judge
+exhaust
+frog
+fabric
+satisfy
+board
+excess |  
+| bip_39_word_new_line9 | limit
+judge
+exhaust
+frog
+fabric
+satisfy
+board
+excess
+notice |  
+| bip_39_word_space_0 | ['limit', 'judge', 'exhaust', 'frog', 'fabric', 'satisfy', 'board', 'excess', 'notice', 'night', 'olympic', 'artwork'] |  
+| bip_39_word_space_1 | limit |  
+| bip_39_word_space_10 | limit judge exhaust frog fabric satisfy board excess notice night |  
+| bip_39_word_space_11 | limit judge exhaust frog fabric satisfy board excess notice night olympic |  
+| bip_39_word_space_12 | limit judge exhaust frog fabric satisfy board excess notice night olympic artwork |  
+| bip_39_word_space_2 | limit judge |  
+| bip_39_word_space_3 | limit judge exhaust |  
+| bip_39_word_space_4 | limit judge exhaust frog |  
+| bip_39_word_space_5 | limit judge exhaust frog fabric |  
+| bip_39_word_space_6 | limit judge exhaust frog fabric satisfy |  
+| bip_39_word_space_7 | limit judge exhaust frog fabric satisfy board |  
+| bip_39_word_space_8 | limit judge exhaust frog fabric satisfy board excess |  
+| bip_39_word_space_9 | limit judge exhaust frog fabric satisfy board excess notice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

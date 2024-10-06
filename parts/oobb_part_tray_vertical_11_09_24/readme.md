@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: reveal antenna
+  * bip 39 word 3: reveal antenna grass
+  * bip 39 word: reveal antenna grass mother left intact token sheriff diet happy mail ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | reveal |  
+| bip_39_word_new_br10 | reveal<br>antenna<br>grass<br>mother<br>left<br>intact<br>token<br>sheriff<br>diet<br>happy |  
+| bip_39_word_new_br11 | reveal<br>antenna<br>grass<br>mother<br>left<br>intact<br>token<br>sheriff<br>diet<br>happy<br>mail |  
+| bip_39_word_new_br12 | reveal<br>antenna<br>grass<br>mother<br>left<br>intact<br>token<br>sheriff<br>diet<br>happy<br>mail<br>ancient |  
+| bip_39_word_new_br2 | reveal<br>antenna |  
+| bip_39_word_new_br3 | reveal<br>antenna<br>grass |  
+| bip_39_word_new_br4 | reveal<br>antenna<br>grass<br>mother |  
+| bip_39_word_new_br5 | reveal<br>antenna<br>grass<br>mother<br>left |  
+| bip_39_word_new_br6 | reveal<br>antenna<br>grass<br>mother<br>left<br>intact |  
+| bip_39_word_new_br7 | reveal<br>antenna<br>grass<br>mother<br>left<br>intact<br>token |  
+| bip_39_word_new_br8 | reveal<br>antenna<br>grass<br>mother<br>left<br>intact<br>token<br>sheriff |  
+| bip_39_word_new_br9 | reveal<br>antenna<br>grass<br>mother<br>left<br>intact<br>token<br>sheriff<br>diet |  
+| bip_39_word_new_line1 | reveal |  
+| bip_39_word_new_line10 | reveal
+antenna
+grass
+mother
+left
+intact
+token
+sheriff
+diet
+happy |  
+| bip_39_word_new_line11 | reveal
+antenna
+grass
+mother
+left
+intact
+token
+sheriff
+diet
+happy
+mail |  
+| bip_39_word_new_line12 | reveal
+antenna
+grass
+mother
+left
+intact
+token
+sheriff
+diet
+happy
+mail
+ancient |  
+| bip_39_word_new_line2 | reveal
+antenna |  
+| bip_39_word_new_line3 | reveal
+antenna
+grass |  
+| bip_39_word_new_line4 | reveal
+antenna
+grass
+mother |  
+| bip_39_word_new_line5 | reveal
+antenna
+grass
+mother
+left |  
+| bip_39_word_new_line6 | reveal
+antenna
+grass
+mother
+left
+intact |  
+| bip_39_word_new_line7 | reveal
+antenna
+grass
+mother
+left
+intact
+token |  
+| bip_39_word_new_line8 | reveal
+antenna
+grass
+mother
+left
+intact
+token
+sheriff |  
+| bip_39_word_new_line9 | reveal
+antenna
+grass
+mother
+left
+intact
+token
+sheriff
+diet |  
+| bip_39_word_space_0 | ['reveal', 'antenna', 'grass', 'mother', 'left', 'intact', 'token', 'sheriff', 'diet', 'happy', 'mail', 'ancient'] |  
+| bip_39_word_space_1 | reveal |  
+| bip_39_word_space_10 | reveal antenna grass mother left intact token sheriff diet happy |  
+| bip_39_word_space_11 | reveal antenna grass mother left intact token sheriff diet happy mail |  
+| bip_39_word_space_12 | reveal antenna grass mother left intact token sheriff diet happy mail ancient |  
+| bip_39_word_space_2 | reveal antenna |  
+| bip_39_word_space_3 | reveal antenna grass |  
+| bip_39_word_space_4 | reveal antenna grass mother |  
+| bip_39_word_space_5 | reveal antenna grass mother left |  
+| bip_39_word_space_6 | reveal antenna grass mother left intact |  
+| bip_39_word_space_7 | reveal antenna grass mother left intact token |  
+| bip_39_word_space_8 | reveal antenna grass mother left intact token sheriff |  
+| bip_39_word_space_9 | reveal antenna grass mother left intact token sheriff diet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

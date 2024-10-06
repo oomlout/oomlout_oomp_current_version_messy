@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: d
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lunar mom
+  * bip 39 word 3: lunar mom cluster
+  * bip 39 word: lunar mom cluster ginger month saddle gate negative cancel seat cereal around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lunar |  
+| bip_39_word_new_br10 | lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle<br>gate<br>negative<br>cancel<br>seat |  
+| bip_39_word_new_br11 | lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle<br>gate<br>negative<br>cancel<br>seat<br>cereal |  
+| bip_39_word_new_br12 | lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle<br>gate<br>negative<br>cancel<br>seat<br>cereal<br>around |  
+| bip_39_word_new_br2 | lunar<br>mom |  
+| bip_39_word_new_br3 | lunar<br>mom<br>cluster |  
+| bip_39_word_new_br4 | lunar<br>mom<br>cluster<br>ginger |  
+| bip_39_word_new_br5 | lunar<br>mom<br>cluster<br>ginger<br>month |  
+| bip_39_word_new_br6 | lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle |  
+| bip_39_word_new_br7 | lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle<br>gate |  
+| bip_39_word_new_br8 | lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle<br>gate<br>negative |  
+| bip_39_word_new_br9 | lunar<br>mom<br>cluster<br>ginger<br>month<br>saddle<br>gate<br>negative<br>cancel |  
+| bip_39_word_new_line1 | lunar |  
+| bip_39_word_new_line10 | lunar
+mom
+cluster
+ginger
+month
+saddle
+gate
+negative
+cancel
+seat |  
+| bip_39_word_new_line11 | lunar
+mom
+cluster
+ginger
+month
+saddle
+gate
+negative
+cancel
+seat
+cereal |  
+| bip_39_word_new_line12 | lunar
+mom
+cluster
+ginger
+month
+saddle
+gate
+negative
+cancel
+seat
+cereal
+around |  
+| bip_39_word_new_line2 | lunar
+mom |  
+| bip_39_word_new_line3 | lunar
+mom
+cluster |  
+| bip_39_word_new_line4 | lunar
+mom
+cluster
+ginger |  
+| bip_39_word_new_line5 | lunar
+mom
+cluster
+ginger
+month |  
+| bip_39_word_new_line6 | lunar
+mom
+cluster
+ginger
+month
+saddle |  
+| bip_39_word_new_line7 | lunar
+mom
+cluster
+ginger
+month
+saddle
+gate |  
+| bip_39_word_new_line8 | lunar
+mom
+cluster
+ginger
+month
+saddle
+gate
+negative |  
+| bip_39_word_new_line9 | lunar
+mom
+cluster
+ginger
+month
+saddle
+gate
+negative
+cancel |  
+| bip_39_word_space_0 | ['lunar', 'mom', 'cluster', 'ginger', 'month', 'saddle', 'gate', 'negative', 'cancel', 'seat', 'cereal', 'around'] |  
+| bip_39_word_space_1 | lunar |  
+| bip_39_word_space_10 | lunar mom cluster ginger month saddle gate negative cancel seat |  
+| bip_39_word_space_11 | lunar mom cluster ginger month saddle gate negative cancel seat cereal |  
+| bip_39_word_space_12 | lunar mom cluster ginger month saddle gate negative cancel seat cereal around |  
+| bip_39_word_space_2 | lunar mom |  
+| bip_39_word_space_3 | lunar mom cluster |  
+| bip_39_word_space_4 | lunar mom cluster ginger |  
+| bip_39_word_space_5 | lunar mom cluster ginger month |  
+| bip_39_word_space_6 | lunar mom cluster ginger month saddle |  
+| bip_39_word_space_7 | lunar mom cluster ginger month saddle gate |  
+| bip_39_word_space_8 | lunar mom cluster ginger month saddle gate negative |  
+| bip_39_word_space_9 | lunar mom cluster ginger month saddle gate negative cancel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

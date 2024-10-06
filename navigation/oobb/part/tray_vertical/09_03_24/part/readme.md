@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: athlete cargo
+  * bip 39 word 3: athlete cargo wine
+  * bip 39 word: athlete cargo wine tissue cool room upper produce divorce chunk aware aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | athlete |  
+| bip_39_word_new_br10 | athlete<br>cargo<br>wine<br>tissue<br>cool<br>room<br>upper<br>produce<br>divorce<br>chunk |  
+| bip_39_word_new_br11 | athlete<br>cargo<br>wine<br>tissue<br>cool<br>room<br>upper<br>produce<br>divorce<br>chunk<br>aware |  
+| bip_39_word_new_br12 | athlete<br>cargo<br>wine<br>tissue<br>cool<br>room<br>upper<br>produce<br>divorce<br>chunk<br>aware<br>aunt |  
+| bip_39_word_new_br2 | athlete<br>cargo |  
+| bip_39_word_new_br3 | athlete<br>cargo<br>wine |  
+| bip_39_word_new_br4 | athlete<br>cargo<br>wine<br>tissue |  
+| bip_39_word_new_br5 | athlete<br>cargo<br>wine<br>tissue<br>cool |  
+| bip_39_word_new_br6 | athlete<br>cargo<br>wine<br>tissue<br>cool<br>room |  
+| bip_39_word_new_br7 | athlete<br>cargo<br>wine<br>tissue<br>cool<br>room<br>upper |  
+| bip_39_word_new_br8 | athlete<br>cargo<br>wine<br>tissue<br>cool<br>room<br>upper<br>produce |  
+| bip_39_word_new_br9 | athlete<br>cargo<br>wine<br>tissue<br>cool<br>room<br>upper<br>produce<br>divorce |  
+| bip_39_word_new_line1 | athlete |  
+| bip_39_word_new_line10 | athlete
+cargo
+wine
+tissue
+cool
+room
+upper
+produce
+divorce
+chunk |  
+| bip_39_word_new_line11 | athlete
+cargo
+wine
+tissue
+cool
+room
+upper
+produce
+divorce
+chunk
+aware |  
+| bip_39_word_new_line12 | athlete
+cargo
+wine
+tissue
+cool
+room
+upper
+produce
+divorce
+chunk
+aware
+aunt |  
+| bip_39_word_new_line2 | athlete
+cargo |  
+| bip_39_word_new_line3 | athlete
+cargo
+wine |  
+| bip_39_word_new_line4 | athlete
+cargo
+wine
+tissue |  
+| bip_39_word_new_line5 | athlete
+cargo
+wine
+tissue
+cool |  
+| bip_39_word_new_line6 | athlete
+cargo
+wine
+tissue
+cool
+room |  
+| bip_39_word_new_line7 | athlete
+cargo
+wine
+tissue
+cool
+room
+upper |  
+| bip_39_word_new_line8 | athlete
+cargo
+wine
+tissue
+cool
+room
+upper
+produce |  
+| bip_39_word_new_line9 | athlete
+cargo
+wine
+tissue
+cool
+room
+upper
+produce
+divorce |  
+| bip_39_word_space_0 | ['athlete', 'cargo', 'wine', 'tissue', 'cool', 'room', 'upper', 'produce', 'divorce', 'chunk', 'aware', 'aunt'] |  
+| bip_39_word_space_1 | athlete |  
+| bip_39_word_space_10 | athlete cargo wine tissue cool room upper produce divorce chunk |  
+| bip_39_word_space_11 | athlete cargo wine tissue cool room upper produce divorce chunk aware |  
+| bip_39_word_space_12 | athlete cargo wine tissue cool room upper produce divorce chunk aware aunt |  
+| bip_39_word_space_2 | athlete cargo |  
+| bip_39_word_space_3 | athlete cargo wine |  
+| bip_39_word_space_4 | athlete cargo wine tissue |  
+| bip_39_word_space_5 | athlete cargo wine tissue cool |  
+| bip_39_word_space_6 | athlete cargo wine tissue cool room |  
+| bip_39_word_space_7 | athlete cargo wine tissue cool room upper |  
+| bip_39_word_space_8 | athlete cargo wine tissue cool room upper produce |  
+| bip_39_word_space_9 | athlete cargo wine tissue cool room upper produce divorce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

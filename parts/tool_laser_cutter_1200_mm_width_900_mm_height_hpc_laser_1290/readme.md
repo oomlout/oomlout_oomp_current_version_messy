@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: hpc_laser
   * part_number: 1290
+  * bip 39 word 2: believe judge
+  * bip 39 word 3: believe judge rib
+  * bip 39 word: believe judge rib retreat vicious cushion letter turn impose owner silver acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | believe |  
+| bip_39_word_new_br10 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion<br>letter<br>turn<br>impose<br>owner |  
+| bip_39_word_new_br11 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion<br>letter<br>turn<br>impose<br>owner<br>silver |  
+| bip_39_word_new_br12 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion<br>letter<br>turn<br>impose<br>owner<br>silver<br>acoustic |  
+| bip_39_word_new_br2 | believe<br>judge |  
+| bip_39_word_new_br3 | believe<br>judge<br>rib |  
+| bip_39_word_new_br4 | believe<br>judge<br>rib<br>retreat |  
+| bip_39_word_new_br5 | believe<br>judge<br>rib<br>retreat<br>vicious |  
+| bip_39_word_new_br6 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion |  
+| bip_39_word_new_br7 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion<br>letter |  
+| bip_39_word_new_br8 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion<br>letter<br>turn |  
+| bip_39_word_new_br9 | believe<br>judge<br>rib<br>retreat<br>vicious<br>cushion<br>letter<br>turn<br>impose |  
+| bip_39_word_new_line1 | believe |  
+| bip_39_word_new_line10 | believe
+judge
+rib
+retreat
+vicious
+cushion
+letter
+turn
+impose
+owner |  
+| bip_39_word_new_line11 | believe
+judge
+rib
+retreat
+vicious
+cushion
+letter
+turn
+impose
+owner
+silver |  
+| bip_39_word_new_line12 | believe
+judge
+rib
+retreat
+vicious
+cushion
+letter
+turn
+impose
+owner
+silver
+acoustic |  
+| bip_39_word_new_line2 | believe
+judge |  
+| bip_39_word_new_line3 | believe
+judge
+rib |  
+| bip_39_word_new_line4 | believe
+judge
+rib
+retreat |  
+| bip_39_word_new_line5 | believe
+judge
+rib
+retreat
+vicious |  
+| bip_39_word_new_line6 | believe
+judge
+rib
+retreat
+vicious
+cushion |  
+| bip_39_word_new_line7 | believe
+judge
+rib
+retreat
+vicious
+cushion
+letter |  
+| bip_39_word_new_line8 | believe
+judge
+rib
+retreat
+vicious
+cushion
+letter
+turn |  
+| bip_39_word_new_line9 | believe
+judge
+rib
+retreat
+vicious
+cushion
+letter
+turn
+impose |  
+| bip_39_word_space_0 | ['believe', 'judge', 'rib', 'retreat', 'vicious', 'cushion', 'letter', 'turn', 'impose', 'owner', 'silver', 'acoustic'] |  
+| bip_39_word_space_1 | believe |  
+| bip_39_word_space_10 | believe judge rib retreat vicious cushion letter turn impose owner |  
+| bip_39_word_space_11 | believe judge rib retreat vicious cushion letter turn impose owner silver |  
+| bip_39_word_space_12 | believe judge rib retreat vicious cushion letter turn impose owner silver acoustic |  
+| bip_39_word_space_2 | believe judge |  
+| bip_39_word_space_3 | believe judge rib |  
+| bip_39_word_space_4 | believe judge rib retreat |  
+| bip_39_word_space_5 | believe judge rib retreat vicious |  
+| bip_39_word_space_6 | believe judge rib retreat vicious cushion |  
+| bip_39_word_space_7 | believe judge rib retreat vicious cushion letter |  
+| bip_39_word_space_8 | believe judge rib retreat vicious cushion letter turn |  
+| bip_39_word_space_9 | believe judge rib retreat vicious cushion letter turn impose |  
 | classification | tool |  
 | classification_capital | Tool |  
 | classification_first_letter | t |  

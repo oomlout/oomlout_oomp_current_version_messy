@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: torch april
+  * bip 39 word 3: torch april noodle
+  * bip 39 word: torch april noodle gym faculty joke fabric quick witness error indoor alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | torch |  
+| bip_39_word_new_br10 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke<br>fabric<br>quick<br>witness<br>error |  
+| bip_39_word_new_br11 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke<br>fabric<br>quick<br>witness<br>error<br>indoor |  
+| bip_39_word_new_br12 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke<br>fabric<br>quick<br>witness<br>error<br>indoor<br>alcohol |  
+| bip_39_word_new_br2 | torch<br>april |  
+| bip_39_word_new_br3 | torch<br>april<br>noodle |  
+| bip_39_word_new_br4 | torch<br>april<br>noodle<br>gym |  
+| bip_39_word_new_br5 | torch<br>april<br>noodle<br>gym<br>faculty |  
+| bip_39_word_new_br6 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke |  
+| bip_39_word_new_br7 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke<br>fabric |  
+| bip_39_word_new_br8 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke<br>fabric<br>quick |  
+| bip_39_word_new_br9 | torch<br>april<br>noodle<br>gym<br>faculty<br>joke<br>fabric<br>quick<br>witness |  
+| bip_39_word_new_line1 | torch |  
+| bip_39_word_new_line10 | torch
+april
+noodle
+gym
+faculty
+joke
+fabric
+quick
+witness
+error |  
+| bip_39_word_new_line11 | torch
+april
+noodle
+gym
+faculty
+joke
+fabric
+quick
+witness
+error
+indoor |  
+| bip_39_word_new_line12 | torch
+april
+noodle
+gym
+faculty
+joke
+fabric
+quick
+witness
+error
+indoor
+alcohol |  
+| bip_39_word_new_line2 | torch
+april |  
+| bip_39_word_new_line3 | torch
+april
+noodle |  
+| bip_39_word_new_line4 | torch
+april
+noodle
+gym |  
+| bip_39_word_new_line5 | torch
+april
+noodle
+gym
+faculty |  
+| bip_39_word_new_line6 | torch
+april
+noodle
+gym
+faculty
+joke |  
+| bip_39_word_new_line7 | torch
+april
+noodle
+gym
+faculty
+joke
+fabric |  
+| bip_39_word_new_line8 | torch
+april
+noodle
+gym
+faculty
+joke
+fabric
+quick |  
+| bip_39_word_new_line9 | torch
+april
+noodle
+gym
+faculty
+joke
+fabric
+quick
+witness |  
+| bip_39_word_space_0 | ['torch', 'april', 'noodle', 'gym', 'faculty', 'joke', 'fabric', 'quick', 'witness', 'error', 'indoor', 'alcohol'] |  
+| bip_39_word_space_1 | torch |  
+| bip_39_word_space_10 | torch april noodle gym faculty joke fabric quick witness error |  
+| bip_39_word_space_11 | torch april noodle gym faculty joke fabric quick witness error indoor |  
+| bip_39_word_space_12 | torch april noodle gym faculty joke fabric quick witness error indoor alcohol |  
+| bip_39_word_space_2 | torch april |  
+| bip_39_word_space_3 | torch april noodle |  
+| bip_39_word_space_4 | torch april noodle gym |  
+| bip_39_word_space_5 | torch april noodle gym faculty |  
+| bip_39_word_space_6 | torch april noodle gym faculty joke |  
+| bip_39_word_space_7 | torch april noodle gym faculty joke fabric |  
+| bip_39_word_space_8 | torch april noodle gym faculty joke fabric quick |  
+| bip_39_word_space_9 | torch april noodle gym faculty joke fabric quick witness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

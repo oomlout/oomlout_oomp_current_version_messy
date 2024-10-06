@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: exit grain
+  * bip 39 word 3: exit grain patch
+  * bip 39 word: exit grain patch client fat cart daring work inform satoshi write adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | exit |  
+| bip_39_word_new_br10 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi |  
+| bip_39_word_new_br11 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi<br>write |  
+| bip_39_word_new_br12 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform<br>satoshi<br>write<br>adapt |  
+| bip_39_word_new_br2 | exit<br>grain |  
+| bip_39_word_new_br3 | exit<br>grain<br>patch |  
+| bip_39_word_new_br4 | exit<br>grain<br>patch<br>client |  
+| bip_39_word_new_br5 | exit<br>grain<br>patch<br>client<br>fat |  
+| bip_39_word_new_br6 | exit<br>grain<br>patch<br>client<br>fat<br>cart |  
+| bip_39_word_new_br7 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring |  
+| bip_39_word_new_br8 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work |  
+| bip_39_word_new_br9 | exit<br>grain<br>patch<br>client<br>fat<br>cart<br>daring<br>work<br>inform |  
+| bip_39_word_new_line1 | exit |  
+| bip_39_word_new_line10 | exit
+grain
+patch
+client
+fat
+cart
+daring
+work
+inform
+satoshi |  
+| bip_39_word_new_line11 | exit
+grain
+patch
+client
+fat
+cart
+daring
+work
+inform
+satoshi
+write |  
+| bip_39_word_new_line12 | exit
+grain
+patch
+client
+fat
+cart
+daring
+work
+inform
+satoshi
+write
+adapt |  
+| bip_39_word_new_line2 | exit
+grain |  
+| bip_39_word_new_line3 | exit
+grain
+patch |  
+| bip_39_word_new_line4 | exit
+grain
+patch
+client |  
+| bip_39_word_new_line5 | exit
+grain
+patch
+client
+fat |  
+| bip_39_word_new_line6 | exit
+grain
+patch
+client
+fat
+cart |  
+| bip_39_word_new_line7 | exit
+grain
+patch
+client
+fat
+cart
+daring |  
+| bip_39_word_new_line8 | exit
+grain
+patch
+client
+fat
+cart
+daring
+work |  
+| bip_39_word_new_line9 | exit
+grain
+patch
+client
+fat
+cart
+daring
+work
+inform |  
+| bip_39_word_space_0 | ['exit', 'grain', 'patch', 'client', 'fat', 'cart', 'daring', 'work', 'inform', 'satoshi', 'write', 'adapt'] |  
+| bip_39_word_space_1 | exit |  
+| bip_39_word_space_10 | exit grain patch client fat cart daring work inform satoshi |  
+| bip_39_word_space_11 | exit grain patch client fat cart daring work inform satoshi write |  
+| bip_39_word_space_12 | exit grain patch client fat cart daring work inform satoshi write adapt |  
+| bip_39_word_space_2 | exit grain |  
+| bip_39_word_space_3 | exit grain patch |  
+| bip_39_word_space_4 | exit grain patch client |  
+| bip_39_word_space_5 | exit grain patch client fat |  
+| bip_39_word_space_6 | exit grain patch client fat cart |  
+| bip_39_word_space_7 | exit grain patch client fat cart daring |  
+| bip_39_word_space_8 | exit grain patch client fat cart daring work |  
+| bip_39_word_space_9 | exit grain patch client fat cart daring work inform |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

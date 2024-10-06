@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sick shoe
+  * bip 39 word 3: sick shoe wing
+  * bip 39 word: sick shoe wing donate cannon kingdom siege obvious man thought sponsor attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sick |  
+| bip_39_word_new_br10 | sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom<br>siege<br>obvious<br>man<br>thought |  
+| bip_39_word_new_br11 | sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom<br>siege<br>obvious<br>man<br>thought<br>sponsor |  
+| bip_39_word_new_br12 | sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom<br>siege<br>obvious<br>man<br>thought<br>sponsor<br>attack |  
+| bip_39_word_new_br2 | sick<br>shoe |  
+| bip_39_word_new_br3 | sick<br>shoe<br>wing |  
+| bip_39_word_new_br4 | sick<br>shoe<br>wing<br>donate |  
+| bip_39_word_new_br5 | sick<br>shoe<br>wing<br>donate<br>cannon |  
+| bip_39_word_new_br6 | sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom |  
+| bip_39_word_new_br7 | sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom<br>siege |  
+| bip_39_word_new_br8 | sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom<br>siege<br>obvious |  
+| bip_39_word_new_br9 | sick<br>shoe<br>wing<br>donate<br>cannon<br>kingdom<br>siege<br>obvious<br>man |  
+| bip_39_word_new_line1 | sick |  
+| bip_39_word_new_line10 | sick
+shoe
+wing
+donate
+cannon
+kingdom
+siege
+obvious
+man
+thought |  
+| bip_39_word_new_line11 | sick
+shoe
+wing
+donate
+cannon
+kingdom
+siege
+obvious
+man
+thought
+sponsor |  
+| bip_39_word_new_line12 | sick
+shoe
+wing
+donate
+cannon
+kingdom
+siege
+obvious
+man
+thought
+sponsor
+attack |  
+| bip_39_word_new_line2 | sick
+shoe |  
+| bip_39_word_new_line3 | sick
+shoe
+wing |  
+| bip_39_word_new_line4 | sick
+shoe
+wing
+donate |  
+| bip_39_word_new_line5 | sick
+shoe
+wing
+donate
+cannon |  
+| bip_39_word_new_line6 | sick
+shoe
+wing
+donate
+cannon
+kingdom |  
+| bip_39_word_new_line7 | sick
+shoe
+wing
+donate
+cannon
+kingdom
+siege |  
+| bip_39_word_new_line8 | sick
+shoe
+wing
+donate
+cannon
+kingdom
+siege
+obvious |  
+| bip_39_word_new_line9 | sick
+shoe
+wing
+donate
+cannon
+kingdom
+siege
+obvious
+man |  
+| bip_39_word_space_0 | ['sick', 'shoe', 'wing', 'donate', 'cannon', 'kingdom', 'siege', 'obvious', 'man', 'thought', 'sponsor', 'attack'] |  
+| bip_39_word_space_1 | sick |  
+| bip_39_word_space_10 | sick shoe wing donate cannon kingdom siege obvious man thought |  
+| bip_39_word_space_11 | sick shoe wing donate cannon kingdom siege obvious man thought sponsor |  
+| bip_39_word_space_12 | sick shoe wing donate cannon kingdom siege obvious man thought sponsor attack |  
+| bip_39_word_space_2 | sick shoe |  
+| bip_39_word_space_3 | sick shoe wing |  
+| bip_39_word_space_4 | sick shoe wing donate |  
+| bip_39_word_space_5 | sick shoe wing donate cannon |  
+| bip_39_word_space_6 | sick shoe wing donate cannon kingdom |  
+| bip_39_word_space_7 | sick shoe wing donate cannon kingdom siege |  
+| bip_39_word_space_8 | sick shoe wing donate cannon kingdom siege obvious |  
+| bip_39_word_space_9 | sick shoe wing donate cannon kingdom siege obvious man |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

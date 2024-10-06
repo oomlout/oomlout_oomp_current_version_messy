@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lunch link
+  * bip 39 word 3: lunch link high
+  * bip 39 word: lunch link high viable fatal uncover secret exist sunny drop drum aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lunch |  
+| bip_39_word_new_br10 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover<br>secret<br>exist<br>sunny<br>drop |  
+| bip_39_word_new_br11 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover<br>secret<br>exist<br>sunny<br>drop<br>drum |  
+| bip_39_word_new_br12 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover<br>secret<br>exist<br>sunny<br>drop<br>drum<br>aisle |  
+| bip_39_word_new_br2 | lunch<br>link |  
+| bip_39_word_new_br3 | lunch<br>link<br>high |  
+| bip_39_word_new_br4 | lunch<br>link<br>high<br>viable |  
+| bip_39_word_new_br5 | lunch<br>link<br>high<br>viable<br>fatal |  
+| bip_39_word_new_br6 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover |  
+| bip_39_word_new_br7 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover<br>secret |  
+| bip_39_word_new_br8 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover<br>secret<br>exist |  
+| bip_39_word_new_br9 | lunch<br>link<br>high<br>viable<br>fatal<br>uncover<br>secret<br>exist<br>sunny |  
+| bip_39_word_new_line1 | lunch |  
+| bip_39_word_new_line10 | lunch
+link
+high
+viable
+fatal
+uncover
+secret
+exist
+sunny
+drop |  
+| bip_39_word_new_line11 | lunch
+link
+high
+viable
+fatal
+uncover
+secret
+exist
+sunny
+drop
+drum |  
+| bip_39_word_new_line12 | lunch
+link
+high
+viable
+fatal
+uncover
+secret
+exist
+sunny
+drop
+drum
+aisle |  
+| bip_39_word_new_line2 | lunch
+link |  
+| bip_39_word_new_line3 | lunch
+link
+high |  
+| bip_39_word_new_line4 | lunch
+link
+high
+viable |  
+| bip_39_word_new_line5 | lunch
+link
+high
+viable
+fatal |  
+| bip_39_word_new_line6 | lunch
+link
+high
+viable
+fatal
+uncover |  
+| bip_39_word_new_line7 | lunch
+link
+high
+viable
+fatal
+uncover
+secret |  
+| bip_39_word_new_line8 | lunch
+link
+high
+viable
+fatal
+uncover
+secret
+exist |  
+| bip_39_word_new_line9 | lunch
+link
+high
+viable
+fatal
+uncover
+secret
+exist
+sunny |  
+| bip_39_word_space_0 | ['lunch', 'link', 'high', 'viable', 'fatal', 'uncover', 'secret', 'exist', 'sunny', 'drop', 'drum', 'aisle'] |  
+| bip_39_word_space_1 | lunch |  
+| bip_39_word_space_10 | lunch link high viable fatal uncover secret exist sunny drop |  
+| bip_39_word_space_11 | lunch link high viable fatal uncover secret exist sunny drop drum |  
+| bip_39_word_space_12 | lunch link high viable fatal uncover secret exist sunny drop drum aisle |  
+| bip_39_word_space_2 | lunch link |  
+| bip_39_word_space_3 | lunch link high |  
+| bip_39_word_space_4 | lunch link high viable |  
+| bip_39_word_space_5 | lunch link high viable fatal |  
+| bip_39_word_space_6 | lunch link high viable fatal uncover |  
+| bip_39_word_space_7 | lunch link high viable fatal uncover secret |  
+| bip_39_word_space_8 | lunch link high viable fatal uncover secret exist |  
+| bip_39_word_space_9 | lunch link high viable fatal uncover secret exist sunny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

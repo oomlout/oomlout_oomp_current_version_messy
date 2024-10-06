@@ -1,3 +1,187 @@
+bip_39_word_new_br1: subject
+bip_39_word_new_br10: subject<br>olympic<br>traffic<br>health<br>violin<br>absorb<br>dog<br>outdoor<br>general<br>cherry
+bip_39_word_new_br11: subject<br>olympic<br>traffic<br>health<br>violin<br>absorb<br>dog<br>outdoor<br>general<br>cherry<br>market
+bip_39_word_new_br12: subject<br>olympic<br>traffic<br>health<br>violin<br>absorb<br>dog<br>outdoor<br>general<br>cherry<br>market<br>apart
+bip_39_word_new_br2: subject<br>olympic
+bip_39_word_new_br3: subject<br>olympic<br>traffic
+bip_39_word_new_br4: subject<br>olympic<br>traffic<br>health
+bip_39_word_new_br5: subject<br>olympic<br>traffic<br>health<br>violin
+bip_39_word_new_br6: subject<br>olympic<br>traffic<br>health<br>violin<br>absorb
+bip_39_word_new_br7: subject<br>olympic<br>traffic<br>health<br>violin<br>absorb<br>dog
+bip_39_word_new_br8: subject<br>olympic<br>traffic<br>health<br>violin<br>absorb<br>dog<br>outdoor
+bip_39_word_new_br9: subject<br>olympic<br>traffic<br>health<br>violin<br>absorb<br>dog<br>outdoor<br>general
+bip_39_word_new_line1: subject
+bip_39_word_new_line10: 'subject
+
+  olympic
+
+  traffic
+
+  health
+
+  violin
+
+  absorb
+
+  dog
+
+  outdoor
+
+  general
+
+  cherry'
+bip_39_word_new_line11: 'subject
+
+  olympic
+
+  traffic
+
+  health
+
+  violin
+
+  absorb
+
+  dog
+
+  outdoor
+
+  general
+
+  cherry
+
+  market'
+bip_39_word_new_line12: 'subject
+
+  olympic
+
+  traffic
+
+  health
+
+  violin
+
+  absorb
+
+  dog
+
+  outdoor
+
+  general
+
+  cherry
+
+  market
+
+  apart'
+bip_39_word_new_line2: 'subject
+
+  olympic'
+bip_39_word_new_line3: 'subject
+
+  olympic
+
+  traffic'
+bip_39_word_new_line4: 'subject
+
+  olympic
+
+  traffic
+
+  health'
+bip_39_word_new_line5: 'subject
+
+  olympic
+
+  traffic
+
+  health
+
+  violin'
+bip_39_word_new_line6: 'subject
+
+  olympic
+
+  traffic
+
+  health
+
+  violin
+
+  absorb'
+bip_39_word_new_line7: 'subject
+
+  olympic
+
+  traffic
+
+  health
+
+  violin
+
+  absorb
+
+  dog'
+bip_39_word_new_line8: 'subject
+
+  olympic
+
+  traffic
+
+  health
+
+  violin
+
+  absorb
+
+  dog
+
+  outdoor'
+bip_39_word_new_line9: 'subject
+
+  olympic
+
+  traffic
+
+  health
+
+  violin
+
+  absorb
+
+  dog
+
+  outdoor
+
+  general'
+bip_39_word_space_0:
+- subject
+- olympic
+- traffic
+- health
+- violin
+- absorb
+- dog
+- outdoor
+- general
+- cherry
+- market
+- apart
+bip_39_word_space_1: subject
+bip_39_word_space_10: subject olympic traffic health violin absorb dog outdoor general
+  cherry
+bip_39_word_space_11: subject olympic traffic health violin absorb dog outdoor general
+  cherry market
+bip_39_word_space_12: subject olympic traffic health violin absorb dog outdoor general
+  cherry market apart
+bip_39_word_space_2: subject olympic
+bip_39_word_space_3: subject olympic traffic
+bip_39_word_space_4: subject olympic traffic health
+bip_39_word_space_5: subject olympic traffic health violin
+bip_39_word_space_6: subject olympic traffic health violin absorb
+bip_39_word_space_7: subject olympic traffic health violin absorb dog
+bip_39_word_space_8: subject olympic traffic health violin absorb dog outdoor
+bip_39_word_space_9: subject olympic traffic health violin absorb dog outdoor general
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

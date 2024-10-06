@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: saddle label
+  * bip 39 word 3: saddle label velvet
+  * bip 39 word: saddle label velvet candy agent trade express cliff razor shoulder moral art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | saddle |  
+| bip_39_word_new_br10 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade<br>express<br>cliff<br>razor<br>shoulder |  
+| bip_39_word_new_br11 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade<br>express<br>cliff<br>razor<br>shoulder<br>moral |  
+| bip_39_word_new_br12 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade<br>express<br>cliff<br>razor<br>shoulder<br>moral<br>art |  
+| bip_39_word_new_br2 | saddle<br>label |  
+| bip_39_word_new_br3 | saddle<br>label<br>velvet |  
+| bip_39_word_new_br4 | saddle<br>label<br>velvet<br>candy |  
+| bip_39_word_new_br5 | saddle<br>label<br>velvet<br>candy<br>agent |  
+| bip_39_word_new_br6 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade |  
+| bip_39_word_new_br7 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade<br>express |  
+| bip_39_word_new_br8 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade<br>express<br>cliff |  
+| bip_39_word_new_br9 | saddle<br>label<br>velvet<br>candy<br>agent<br>trade<br>express<br>cliff<br>razor |  
+| bip_39_word_new_line1 | saddle |  
+| bip_39_word_new_line10 | saddle
+label
+velvet
+candy
+agent
+trade
+express
+cliff
+razor
+shoulder |  
+| bip_39_word_new_line11 | saddle
+label
+velvet
+candy
+agent
+trade
+express
+cliff
+razor
+shoulder
+moral |  
+| bip_39_word_new_line12 | saddle
+label
+velvet
+candy
+agent
+trade
+express
+cliff
+razor
+shoulder
+moral
+art |  
+| bip_39_word_new_line2 | saddle
+label |  
+| bip_39_word_new_line3 | saddle
+label
+velvet |  
+| bip_39_word_new_line4 | saddle
+label
+velvet
+candy |  
+| bip_39_word_new_line5 | saddle
+label
+velvet
+candy
+agent |  
+| bip_39_word_new_line6 | saddle
+label
+velvet
+candy
+agent
+trade |  
+| bip_39_word_new_line7 | saddle
+label
+velvet
+candy
+agent
+trade
+express |  
+| bip_39_word_new_line8 | saddle
+label
+velvet
+candy
+agent
+trade
+express
+cliff |  
+| bip_39_word_new_line9 | saddle
+label
+velvet
+candy
+agent
+trade
+express
+cliff
+razor |  
+| bip_39_word_space_0 | ['saddle', 'label', 'velvet', 'candy', 'agent', 'trade', 'express', 'cliff', 'razor', 'shoulder', 'moral', 'art'] |  
+| bip_39_word_space_1 | saddle |  
+| bip_39_word_space_10 | saddle label velvet candy agent trade express cliff razor shoulder |  
+| bip_39_word_space_11 | saddle label velvet candy agent trade express cliff razor shoulder moral |  
+| bip_39_word_space_12 | saddle label velvet candy agent trade express cliff razor shoulder moral art |  
+| bip_39_word_space_2 | saddle label |  
+| bip_39_word_space_3 | saddle label velvet |  
+| bip_39_word_space_4 | saddle label velvet candy |  
+| bip_39_word_space_5 | saddle label velvet candy agent |  
+| bip_39_word_space_6 | saddle label velvet candy agent trade |  
+| bip_39_word_space_7 | saddle label velvet candy agent trade express |  
+| bip_39_word_space_8 | saddle label velvet candy agent trade express cliff |  
+| bip_39_word_space_9 | saddle label velvet candy agent trade express cliff razor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chalk opera
+  * bip 39 word 3: chalk opera used
+  * bip 39 word: chalk opera used sort visit hard silk hurry photo fire sure another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chalk |  
+| bip_39_word_new_br10 | chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo<br>fire |  
+| bip_39_word_new_br11 | chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo<br>fire<br>sure |  
+| bip_39_word_new_br12 | chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo<br>fire<br>sure<br>another |  
+| bip_39_word_new_br2 | chalk<br>opera |  
+| bip_39_word_new_br3 | chalk<br>opera<br>used |  
+| bip_39_word_new_br4 | chalk<br>opera<br>used<br>sort |  
+| bip_39_word_new_br5 | chalk<br>opera<br>used<br>sort<br>visit |  
+| bip_39_word_new_br6 | chalk<br>opera<br>used<br>sort<br>visit<br>hard |  
+| bip_39_word_new_br7 | chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk |  
+| bip_39_word_new_br8 | chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry |  
+| bip_39_word_new_br9 | chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo |  
+| bip_39_word_new_line1 | chalk |  
+| bip_39_word_new_line10 | chalk
+opera
+used
+sort
+visit
+hard
+silk
+hurry
+photo
+fire |  
+| bip_39_word_new_line11 | chalk
+opera
+used
+sort
+visit
+hard
+silk
+hurry
+photo
+fire
+sure |  
+| bip_39_word_new_line12 | chalk
+opera
+used
+sort
+visit
+hard
+silk
+hurry
+photo
+fire
+sure
+another |  
+| bip_39_word_new_line2 | chalk
+opera |  
+| bip_39_word_new_line3 | chalk
+opera
+used |  
+| bip_39_word_new_line4 | chalk
+opera
+used
+sort |  
+| bip_39_word_new_line5 | chalk
+opera
+used
+sort
+visit |  
+| bip_39_word_new_line6 | chalk
+opera
+used
+sort
+visit
+hard |  
+| bip_39_word_new_line7 | chalk
+opera
+used
+sort
+visit
+hard
+silk |  
+| bip_39_word_new_line8 | chalk
+opera
+used
+sort
+visit
+hard
+silk
+hurry |  
+| bip_39_word_new_line9 | chalk
+opera
+used
+sort
+visit
+hard
+silk
+hurry
+photo |  
+| bip_39_word_space_0 | ['chalk', 'opera', 'used', 'sort', 'visit', 'hard', 'silk', 'hurry', 'photo', 'fire', 'sure', 'another'] |  
+| bip_39_word_space_1 | chalk |  
+| bip_39_word_space_10 | chalk opera used sort visit hard silk hurry photo fire |  
+| bip_39_word_space_11 | chalk opera used sort visit hard silk hurry photo fire sure |  
+| bip_39_word_space_12 | chalk opera used sort visit hard silk hurry photo fire sure another |  
+| bip_39_word_space_2 | chalk opera |  
+| bip_39_word_space_3 | chalk opera used |  
+| bip_39_word_space_4 | chalk opera used sort |  
+| bip_39_word_space_5 | chalk opera used sort visit |  
+| bip_39_word_space_6 | chalk opera used sort visit hard |  
+| bip_39_word_space_7 | chalk opera used sort visit hard silk |  
+| bip_39_word_space_8 | chalk opera used sort visit hard silk hurry |  
+| bip_39_word_space_9 | chalk opera used sort visit hard silk hurry photo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chimney ghost
+  * bip 39 word 3: chimney ghost foam
+  * bip 39 word: chimney ghost foam divert direct finger burger immense awesome relief alpha auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chimney |  
+| bip_39_word_new_br10 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger<br>burger<br>immense<br>awesome<br>relief |  
+| bip_39_word_new_br11 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger<br>burger<br>immense<br>awesome<br>relief<br>alpha |  
+| bip_39_word_new_br12 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger<br>burger<br>immense<br>awesome<br>relief<br>alpha<br>auto |  
+| bip_39_word_new_br2 | chimney<br>ghost |  
+| bip_39_word_new_br3 | chimney<br>ghost<br>foam |  
+| bip_39_word_new_br4 | chimney<br>ghost<br>foam<br>divert |  
+| bip_39_word_new_br5 | chimney<br>ghost<br>foam<br>divert<br>direct |  
+| bip_39_word_new_br6 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger |  
+| bip_39_word_new_br7 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger<br>burger |  
+| bip_39_word_new_br8 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger<br>burger<br>immense |  
+| bip_39_word_new_br9 | chimney<br>ghost<br>foam<br>divert<br>direct<br>finger<br>burger<br>immense<br>awesome |  
+| bip_39_word_new_line1 | chimney |  
+| bip_39_word_new_line10 | chimney
+ghost
+foam
+divert
+direct
+finger
+burger
+immense
+awesome
+relief |  
+| bip_39_word_new_line11 | chimney
+ghost
+foam
+divert
+direct
+finger
+burger
+immense
+awesome
+relief
+alpha |  
+| bip_39_word_new_line12 | chimney
+ghost
+foam
+divert
+direct
+finger
+burger
+immense
+awesome
+relief
+alpha
+auto |  
+| bip_39_word_new_line2 | chimney
+ghost |  
+| bip_39_word_new_line3 | chimney
+ghost
+foam |  
+| bip_39_word_new_line4 | chimney
+ghost
+foam
+divert |  
+| bip_39_word_new_line5 | chimney
+ghost
+foam
+divert
+direct |  
+| bip_39_word_new_line6 | chimney
+ghost
+foam
+divert
+direct
+finger |  
+| bip_39_word_new_line7 | chimney
+ghost
+foam
+divert
+direct
+finger
+burger |  
+| bip_39_word_new_line8 | chimney
+ghost
+foam
+divert
+direct
+finger
+burger
+immense |  
+| bip_39_word_new_line9 | chimney
+ghost
+foam
+divert
+direct
+finger
+burger
+immense
+awesome |  
+| bip_39_word_space_0 | ['chimney', 'ghost', 'foam', 'divert', 'direct', 'finger', 'burger', 'immense', 'awesome', 'relief', 'alpha', 'auto'] |  
+| bip_39_word_space_1 | chimney |  
+| bip_39_word_space_10 | chimney ghost foam divert direct finger burger immense awesome relief |  
+| bip_39_word_space_11 | chimney ghost foam divert direct finger burger immense awesome relief alpha |  
+| bip_39_word_space_12 | chimney ghost foam divert direct finger burger immense awesome relief alpha auto |  
+| bip_39_word_space_2 | chimney ghost |  
+| bip_39_word_space_3 | chimney ghost foam |  
+| bip_39_word_space_4 | chimney ghost foam divert |  
+| bip_39_word_space_5 | chimney ghost foam divert direct |  
+| bip_39_word_space_6 | chimney ghost foam divert direct finger |  
+| bip_39_word_space_7 | chimney ghost foam divert direct finger burger |  
+| bip_39_word_space_8 | chimney ghost foam divert direct finger burger immense |  
+| bip_39_word_space_9 | chimney ghost foam divert direct finger burger immense awesome |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

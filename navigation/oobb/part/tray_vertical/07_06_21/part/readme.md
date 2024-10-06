@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bless embrace
+  * bip 39 word 3: bless embrace bus
+  * bip 39 word: bless embrace bus echo soap notable bag still glow nasty butter arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bless |  
+| bip_39_word_new_br10 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable<br>bag<br>still<br>glow<br>nasty |  
+| bip_39_word_new_br11 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable<br>bag<br>still<br>glow<br>nasty<br>butter |  
+| bip_39_word_new_br12 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable<br>bag<br>still<br>glow<br>nasty<br>butter<br>arch |  
+| bip_39_word_new_br2 | bless<br>embrace |  
+| bip_39_word_new_br3 | bless<br>embrace<br>bus |  
+| bip_39_word_new_br4 | bless<br>embrace<br>bus<br>echo |  
+| bip_39_word_new_br5 | bless<br>embrace<br>bus<br>echo<br>soap |  
+| bip_39_word_new_br6 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable |  
+| bip_39_word_new_br7 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable<br>bag |  
+| bip_39_word_new_br8 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable<br>bag<br>still |  
+| bip_39_word_new_br9 | bless<br>embrace<br>bus<br>echo<br>soap<br>notable<br>bag<br>still<br>glow |  
+| bip_39_word_new_line1 | bless |  
+| bip_39_word_new_line10 | bless
+embrace
+bus
+echo
+soap
+notable
+bag
+still
+glow
+nasty |  
+| bip_39_word_new_line11 | bless
+embrace
+bus
+echo
+soap
+notable
+bag
+still
+glow
+nasty
+butter |  
+| bip_39_word_new_line12 | bless
+embrace
+bus
+echo
+soap
+notable
+bag
+still
+glow
+nasty
+butter
+arch |  
+| bip_39_word_new_line2 | bless
+embrace |  
+| bip_39_word_new_line3 | bless
+embrace
+bus |  
+| bip_39_word_new_line4 | bless
+embrace
+bus
+echo |  
+| bip_39_word_new_line5 | bless
+embrace
+bus
+echo
+soap |  
+| bip_39_word_new_line6 | bless
+embrace
+bus
+echo
+soap
+notable |  
+| bip_39_word_new_line7 | bless
+embrace
+bus
+echo
+soap
+notable
+bag |  
+| bip_39_word_new_line8 | bless
+embrace
+bus
+echo
+soap
+notable
+bag
+still |  
+| bip_39_word_new_line9 | bless
+embrace
+bus
+echo
+soap
+notable
+bag
+still
+glow |  
+| bip_39_word_space_0 | ['bless', 'embrace', 'bus', 'echo', 'soap', 'notable', 'bag', 'still', 'glow', 'nasty', 'butter', 'arch'] |  
+| bip_39_word_space_1 | bless |  
+| bip_39_word_space_10 | bless embrace bus echo soap notable bag still glow nasty |  
+| bip_39_word_space_11 | bless embrace bus echo soap notable bag still glow nasty butter |  
+| bip_39_word_space_12 | bless embrace bus echo soap notable bag still glow nasty butter arch |  
+| bip_39_word_space_2 | bless embrace |  
+| bip_39_word_space_3 | bless embrace bus |  
+| bip_39_word_space_4 | bless embrace bus echo |  
+| bip_39_word_space_5 | bless embrace bus echo soap |  
+| bip_39_word_space_6 | bless embrace bus echo soap notable |  
+| bip_39_word_space_7 | bless embrace bus echo soap notable bag |  
+| bip_39_word_space_8 | bless embrace bus echo soap notable bag still |  
+| bip_39_word_space_9 | bless embrace bus echo soap notable bag still glow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

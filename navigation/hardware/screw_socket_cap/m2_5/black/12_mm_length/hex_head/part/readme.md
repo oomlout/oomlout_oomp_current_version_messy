@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: culture thing
+  * bip 39 word 3: culture thing great
+  * bip 39 word: culture thing great add column admit venture pioneer spice medal update avocado
 
 ### other_codes
 * short_code: sc2d5b12h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | culture |  
+| bip_39_word_new_br10 | culture<br>thing<br>great<br>add<br>column<br>admit<br>venture<br>pioneer<br>spice<br>medal |  
+| bip_39_word_new_br11 | culture<br>thing<br>great<br>add<br>column<br>admit<br>venture<br>pioneer<br>spice<br>medal<br>update |  
+| bip_39_word_new_br12 | culture<br>thing<br>great<br>add<br>column<br>admit<br>venture<br>pioneer<br>spice<br>medal<br>update<br>avocado |  
+| bip_39_word_new_br2 | culture<br>thing |  
+| bip_39_word_new_br3 | culture<br>thing<br>great |  
+| bip_39_word_new_br4 | culture<br>thing<br>great<br>add |  
+| bip_39_word_new_br5 | culture<br>thing<br>great<br>add<br>column |  
+| bip_39_word_new_br6 | culture<br>thing<br>great<br>add<br>column<br>admit |  
+| bip_39_word_new_br7 | culture<br>thing<br>great<br>add<br>column<br>admit<br>venture |  
+| bip_39_word_new_br8 | culture<br>thing<br>great<br>add<br>column<br>admit<br>venture<br>pioneer |  
+| bip_39_word_new_br9 | culture<br>thing<br>great<br>add<br>column<br>admit<br>venture<br>pioneer<br>spice |  
+| bip_39_word_new_line1 | culture |  
+| bip_39_word_new_line10 | culture
+thing
+great
+add
+column
+admit
+venture
+pioneer
+spice
+medal |  
+| bip_39_word_new_line11 | culture
+thing
+great
+add
+column
+admit
+venture
+pioneer
+spice
+medal
+update |  
+| bip_39_word_new_line12 | culture
+thing
+great
+add
+column
+admit
+venture
+pioneer
+spice
+medal
+update
+avocado |  
+| bip_39_word_new_line2 | culture
+thing |  
+| bip_39_word_new_line3 | culture
+thing
+great |  
+| bip_39_word_new_line4 | culture
+thing
+great
+add |  
+| bip_39_word_new_line5 | culture
+thing
+great
+add
+column |  
+| bip_39_word_new_line6 | culture
+thing
+great
+add
+column
+admit |  
+| bip_39_word_new_line7 | culture
+thing
+great
+add
+column
+admit
+venture |  
+| bip_39_word_new_line8 | culture
+thing
+great
+add
+column
+admit
+venture
+pioneer |  
+| bip_39_word_new_line9 | culture
+thing
+great
+add
+column
+admit
+venture
+pioneer
+spice |  
+| bip_39_word_space_0 | ['culture', 'thing', 'great', 'add', 'column', 'admit', 'venture', 'pioneer', 'spice', 'medal', 'update', 'avocado'] |  
+| bip_39_word_space_1 | culture |  
+| bip_39_word_space_10 | culture thing great add column admit venture pioneer spice medal |  
+| bip_39_word_space_11 | culture thing great add column admit venture pioneer spice medal update |  
+| bip_39_word_space_12 | culture thing great add column admit venture pioneer spice medal update avocado |  
+| bip_39_word_space_2 | culture thing |  
+| bip_39_word_space_3 | culture thing great |  
+| bip_39_word_space_4 | culture thing great add |  
+| bip_39_word_space_5 | culture thing great add column |  
+| bip_39_word_space_6 | culture thing great add column admit |  
+| bip_39_word_space_7 | culture thing great add column admit venture |  
+| bip_39_word_space_8 | culture thing great add column admit venture pioneer |  
+| bip_39_word_space_9 | culture thing great add column admit venture pioneer spice |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

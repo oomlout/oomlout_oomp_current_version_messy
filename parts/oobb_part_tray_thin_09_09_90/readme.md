@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: resemble mean
+  * bip 39 word 3: resemble mean liar
+  * bip 39 word: resemble mean liar neck foster embrace pelican interest dragon stick floor amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resemble |  
+| bip_39_word_new_br10 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace<br>pelican<br>interest<br>dragon<br>stick |  
+| bip_39_word_new_br11 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace<br>pelican<br>interest<br>dragon<br>stick<br>floor |  
+| bip_39_word_new_br12 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace<br>pelican<br>interest<br>dragon<br>stick<br>floor<br>amount |  
+| bip_39_word_new_br2 | resemble<br>mean |  
+| bip_39_word_new_br3 | resemble<br>mean<br>liar |  
+| bip_39_word_new_br4 | resemble<br>mean<br>liar<br>neck |  
+| bip_39_word_new_br5 | resemble<br>mean<br>liar<br>neck<br>foster |  
+| bip_39_word_new_br6 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace |  
+| bip_39_word_new_br7 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace<br>pelican |  
+| bip_39_word_new_br8 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace<br>pelican<br>interest |  
+| bip_39_word_new_br9 | resemble<br>mean<br>liar<br>neck<br>foster<br>embrace<br>pelican<br>interest<br>dragon |  
+| bip_39_word_new_line1 | resemble |  
+| bip_39_word_new_line10 | resemble
+mean
+liar
+neck
+foster
+embrace
+pelican
+interest
+dragon
+stick |  
+| bip_39_word_new_line11 | resemble
+mean
+liar
+neck
+foster
+embrace
+pelican
+interest
+dragon
+stick
+floor |  
+| bip_39_word_new_line12 | resemble
+mean
+liar
+neck
+foster
+embrace
+pelican
+interest
+dragon
+stick
+floor
+amount |  
+| bip_39_word_new_line2 | resemble
+mean |  
+| bip_39_word_new_line3 | resemble
+mean
+liar |  
+| bip_39_word_new_line4 | resemble
+mean
+liar
+neck |  
+| bip_39_word_new_line5 | resemble
+mean
+liar
+neck
+foster |  
+| bip_39_word_new_line6 | resemble
+mean
+liar
+neck
+foster
+embrace |  
+| bip_39_word_new_line7 | resemble
+mean
+liar
+neck
+foster
+embrace
+pelican |  
+| bip_39_word_new_line8 | resemble
+mean
+liar
+neck
+foster
+embrace
+pelican
+interest |  
+| bip_39_word_new_line9 | resemble
+mean
+liar
+neck
+foster
+embrace
+pelican
+interest
+dragon |  
+| bip_39_word_space_0 | ['resemble', 'mean', 'liar', 'neck', 'foster', 'embrace', 'pelican', 'interest', 'dragon', 'stick', 'floor', 'amount'] |  
+| bip_39_word_space_1 | resemble |  
+| bip_39_word_space_10 | resemble mean liar neck foster embrace pelican interest dragon stick |  
+| bip_39_word_space_11 | resemble mean liar neck foster embrace pelican interest dragon stick floor |  
+| bip_39_word_space_12 | resemble mean liar neck foster embrace pelican interest dragon stick floor amount |  
+| bip_39_word_space_2 | resemble mean |  
+| bip_39_word_space_3 | resemble mean liar |  
+| bip_39_word_space_4 | resemble mean liar neck |  
+| bip_39_word_space_5 | resemble mean liar neck foster |  
+| bip_39_word_space_6 | resemble mean liar neck foster embrace |  
+| bip_39_word_space_7 | resemble mean liar neck foster embrace pelican |  
+| bip_39_word_space_8 | resemble mean liar neck foster embrace pelican interest |  
+| bip_39_word_space_9 | resemble mean liar neck foster embrace pelican interest dragon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

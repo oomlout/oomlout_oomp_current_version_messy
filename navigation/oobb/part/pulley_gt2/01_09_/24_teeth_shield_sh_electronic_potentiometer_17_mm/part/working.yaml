@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gain
+bip_39_word_new_br10: gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate
+bip_39_word_new_br11: gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate<br>warfare
+bip_39_word_new_br12: gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace<br>indicate<br>warfare<br>aunt
+bip_39_word_new_br2: gain<br>tiger
+bip_39_word_new_br3: gain<br>tiger<br>message
+bip_39_word_new_br4: gain<br>tiger<br>message<br>frost
+bip_39_word_new_br5: gain<br>tiger<br>message<br>frost<br>wall
+bip_39_word_new_br6: gain<br>tiger<br>message<br>frost<br>wall<br>ability
+bip_39_word_new_br7: gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair
+bip_39_word_new_br8: gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse
+bip_39_word_new_br9: gain<br>tiger<br>message<br>frost<br>wall<br>ability<br>pair<br>mouse<br>peace
+bip_39_word_new_line1: gain
+bip_39_word_new_line10: 'gain
+
+  tiger
+
+  message
+
+  frost
+
+  wall
+
+  ability
+
+  pair
+
+  mouse
+
+  peace
+
+  indicate'
+bip_39_word_new_line11: 'gain
+
+  tiger
+
+  message
+
+  frost
+
+  wall
+
+  ability
+
+  pair
+
+  mouse
+
+  peace
+
+  indicate
+
+  warfare'
+bip_39_word_new_line12: 'gain
+
+  tiger
+
+  message
+
+  frost
+
+  wall
+
+  ability
+
+  pair
+
+  mouse
+
+  peace
+
+  indicate
+
+  warfare
+
+  aunt'
+bip_39_word_new_line2: 'gain
+
+  tiger'
+bip_39_word_new_line3: 'gain
+
+  tiger
+
+  message'
+bip_39_word_new_line4: 'gain
+
+  tiger
+
+  message
+
+  frost'
+bip_39_word_new_line5: 'gain
+
+  tiger
+
+  message
+
+  frost
+
+  wall'
+bip_39_word_new_line6: 'gain
+
+  tiger
+
+  message
+
+  frost
+
+  wall
+
+  ability'
+bip_39_word_new_line7: 'gain
+
+  tiger
+
+  message
+
+  frost
+
+  wall
+
+  ability
+
+  pair'
+bip_39_word_new_line8: 'gain
+
+  tiger
+
+  message
+
+  frost
+
+  wall
+
+  ability
+
+  pair
+
+  mouse'
+bip_39_word_new_line9: 'gain
+
+  tiger
+
+  message
+
+  frost
+
+  wall
+
+  ability
+
+  pair
+
+  mouse
+
+  peace'
+bip_39_word_space_0:
+- gain
+- tiger
+- message
+- frost
+- wall
+- ability
+- pair
+- mouse
+- peace
+- indicate
+- warfare
+- aunt
+bip_39_word_space_1: gain
+bip_39_word_space_10: gain tiger message frost wall ability pair mouse peace indicate
+bip_39_word_space_11: gain tiger message frost wall ability pair mouse peace indicate
+  warfare
+bip_39_word_space_12: gain tiger message frost wall ability pair mouse peace indicate
+  warfare aunt
+bip_39_word_space_2: gain tiger
+bip_39_word_space_3: gain tiger message
+bip_39_word_space_4: gain tiger message frost
+bip_39_word_space_5: gain tiger message frost wall
+bip_39_word_space_6: gain tiger message frost wall ability
+bip_39_word_space_7: gain tiger message frost wall ability pair
+bip_39_word_space_8: gain tiger message frost wall ability pair mouse
+bip_39_word_space_9: gain tiger message frost wall ability pair mouse peace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

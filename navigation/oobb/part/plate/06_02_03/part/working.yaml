@@ -1,3 +1,186 @@
+bip_39_word_new_br1: flock
+bip_39_word_new_br10: flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk<br>chase<br>recycle<br>topple<br>address
+bip_39_word_new_br11: flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk<br>chase<br>recycle<br>topple<br>address<br>will
+bip_39_word_new_br12: flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk<br>chase<br>recycle<br>topple<br>address<br>will<br>across
+bip_39_word_new_br2: flock<br>vehicle
+bip_39_word_new_br3: flock<br>vehicle<br>sing
+bip_39_word_new_br4: flock<br>vehicle<br>sing<br>soda
+bip_39_word_new_br5: flock<br>vehicle<br>sing<br>soda<br>logic
+bip_39_word_new_br6: flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk
+bip_39_word_new_br7: flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk<br>chase
+bip_39_word_new_br8: flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk<br>chase<br>recycle
+bip_39_word_new_br9: flock<br>vehicle<br>sing<br>soda<br>logic<br>chunk<br>chase<br>recycle<br>topple
+bip_39_word_new_line1: flock
+bip_39_word_new_line10: 'flock
+
+  vehicle
+
+  sing
+
+  soda
+
+  logic
+
+  chunk
+
+  chase
+
+  recycle
+
+  topple
+
+  address'
+bip_39_word_new_line11: 'flock
+
+  vehicle
+
+  sing
+
+  soda
+
+  logic
+
+  chunk
+
+  chase
+
+  recycle
+
+  topple
+
+  address
+
+  will'
+bip_39_word_new_line12: 'flock
+
+  vehicle
+
+  sing
+
+  soda
+
+  logic
+
+  chunk
+
+  chase
+
+  recycle
+
+  topple
+
+  address
+
+  will
+
+  across'
+bip_39_word_new_line2: 'flock
+
+  vehicle'
+bip_39_word_new_line3: 'flock
+
+  vehicle
+
+  sing'
+bip_39_word_new_line4: 'flock
+
+  vehicle
+
+  sing
+
+  soda'
+bip_39_word_new_line5: 'flock
+
+  vehicle
+
+  sing
+
+  soda
+
+  logic'
+bip_39_word_new_line6: 'flock
+
+  vehicle
+
+  sing
+
+  soda
+
+  logic
+
+  chunk'
+bip_39_word_new_line7: 'flock
+
+  vehicle
+
+  sing
+
+  soda
+
+  logic
+
+  chunk
+
+  chase'
+bip_39_word_new_line8: 'flock
+
+  vehicle
+
+  sing
+
+  soda
+
+  logic
+
+  chunk
+
+  chase
+
+  recycle'
+bip_39_word_new_line9: 'flock
+
+  vehicle
+
+  sing
+
+  soda
+
+  logic
+
+  chunk
+
+  chase
+
+  recycle
+
+  topple'
+bip_39_word_space_0:
+- flock
+- vehicle
+- sing
+- soda
+- logic
+- chunk
+- chase
+- recycle
+- topple
+- address
+- will
+- across
+bip_39_word_space_1: flock
+bip_39_word_space_10: flock vehicle sing soda logic chunk chase recycle topple address
+bip_39_word_space_11: flock vehicle sing soda logic chunk chase recycle topple address
+  will
+bip_39_word_space_12: flock vehicle sing soda logic chunk chase recycle topple address
+  will across
+bip_39_word_space_2: flock vehicle
+bip_39_word_space_3: flock vehicle sing
+bip_39_word_space_4: flock vehicle sing soda
+bip_39_word_space_5: flock vehicle sing soda logic
+bip_39_word_space_6: flock vehicle sing soda logic chunk
+bip_39_word_space_7: flock vehicle sing soda logic chunk chase
+bip_39_word_space_8: flock vehicle sing soda logic chunk chase recycle
+bip_39_word_space_9: flock vehicle sing soda logic chunk chase recycle topple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

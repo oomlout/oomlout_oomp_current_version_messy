@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_u_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: conduct blast
+  * bip 39 word 3: conduct blast door
+  * bip 39 word: conduct blast door mushroom okay nice nothing perfect unfold key shift actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | conduct |  
+| bip_39_word_new_br10 | conduct<br>blast<br>door<br>mushroom<br>okay<br>nice<br>nothing<br>perfect<br>unfold<br>key |  
+| bip_39_word_new_br11 | conduct<br>blast<br>door<br>mushroom<br>okay<br>nice<br>nothing<br>perfect<br>unfold<br>key<br>shift |  
+| bip_39_word_new_br12 | conduct<br>blast<br>door<br>mushroom<br>okay<br>nice<br>nothing<br>perfect<br>unfold<br>key<br>shift<br>actor |  
+| bip_39_word_new_br2 | conduct<br>blast |  
+| bip_39_word_new_br3 | conduct<br>blast<br>door |  
+| bip_39_word_new_br4 | conduct<br>blast<br>door<br>mushroom |  
+| bip_39_word_new_br5 | conduct<br>blast<br>door<br>mushroom<br>okay |  
+| bip_39_word_new_br6 | conduct<br>blast<br>door<br>mushroom<br>okay<br>nice |  
+| bip_39_word_new_br7 | conduct<br>blast<br>door<br>mushroom<br>okay<br>nice<br>nothing |  
+| bip_39_word_new_br8 | conduct<br>blast<br>door<br>mushroom<br>okay<br>nice<br>nothing<br>perfect |  
+| bip_39_word_new_br9 | conduct<br>blast<br>door<br>mushroom<br>okay<br>nice<br>nothing<br>perfect<br>unfold |  
+| bip_39_word_new_line1 | conduct |  
+| bip_39_word_new_line10 | conduct
+blast
+door
+mushroom
+okay
+nice
+nothing
+perfect
+unfold
+key |  
+| bip_39_word_new_line11 | conduct
+blast
+door
+mushroom
+okay
+nice
+nothing
+perfect
+unfold
+key
+shift |  
+| bip_39_word_new_line12 | conduct
+blast
+door
+mushroom
+okay
+nice
+nothing
+perfect
+unfold
+key
+shift
+actor |  
+| bip_39_word_new_line2 | conduct
+blast |  
+| bip_39_word_new_line3 | conduct
+blast
+door |  
+| bip_39_word_new_line4 | conduct
+blast
+door
+mushroom |  
+| bip_39_word_new_line5 | conduct
+blast
+door
+mushroom
+okay |  
+| bip_39_word_new_line6 | conduct
+blast
+door
+mushroom
+okay
+nice |  
+| bip_39_word_new_line7 | conduct
+blast
+door
+mushroom
+okay
+nice
+nothing |  
+| bip_39_word_new_line8 | conduct
+blast
+door
+mushroom
+okay
+nice
+nothing
+perfect |  
+| bip_39_word_new_line9 | conduct
+blast
+door
+mushroom
+okay
+nice
+nothing
+perfect
+unfold |  
+| bip_39_word_space_0 | ['conduct', 'blast', 'door', 'mushroom', 'okay', 'nice', 'nothing', 'perfect', 'unfold', 'key', 'shift', 'actor'] |  
+| bip_39_word_space_1 | conduct |  
+| bip_39_word_space_10 | conduct blast door mushroom okay nice nothing perfect unfold key |  
+| bip_39_word_space_11 | conduct blast door mushroom okay nice nothing perfect unfold key shift |  
+| bip_39_word_space_12 | conduct blast door mushroom okay nice nothing perfect unfold key shift actor |  
+| bip_39_word_space_2 | conduct blast |  
+| bip_39_word_space_3 | conduct blast door |  
+| bip_39_word_space_4 | conduct blast door mushroom |  
+| bip_39_word_space_5 | conduct blast door mushroom okay |  
+| bip_39_word_space_6 | conduct blast door mushroom okay nice |  
+| bip_39_word_space_7 | conduct blast door mushroom okay nice nothing |  
+| bip_39_word_space_8 | conduct blast door mushroom okay nice nothing perfect |  
+| bip_39_word_space_9 | conduct blast door mushroom okay nice nothing perfect unfold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

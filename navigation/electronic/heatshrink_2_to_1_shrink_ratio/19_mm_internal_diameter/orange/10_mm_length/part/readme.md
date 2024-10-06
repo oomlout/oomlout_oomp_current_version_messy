@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: thank couple
+  * bip 39 word 3: thank couple below
+  * bip 39 word: thank couple below tide minute art globe naive undo defy rude adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | thank |  
+| bip_39_word_new_br10 | thank<br>couple<br>below<br>tide<br>minute<br>art<br>globe<br>naive<br>undo<br>defy |  
+| bip_39_word_new_br11 | thank<br>couple<br>below<br>tide<br>minute<br>art<br>globe<br>naive<br>undo<br>defy<br>rude |  
+| bip_39_word_new_br12 | thank<br>couple<br>below<br>tide<br>minute<br>art<br>globe<br>naive<br>undo<br>defy<br>rude<br>adjust |  
+| bip_39_word_new_br2 | thank<br>couple |  
+| bip_39_word_new_br3 | thank<br>couple<br>below |  
+| bip_39_word_new_br4 | thank<br>couple<br>below<br>tide |  
+| bip_39_word_new_br5 | thank<br>couple<br>below<br>tide<br>minute |  
+| bip_39_word_new_br6 | thank<br>couple<br>below<br>tide<br>minute<br>art |  
+| bip_39_word_new_br7 | thank<br>couple<br>below<br>tide<br>minute<br>art<br>globe |  
+| bip_39_word_new_br8 | thank<br>couple<br>below<br>tide<br>minute<br>art<br>globe<br>naive |  
+| bip_39_word_new_br9 | thank<br>couple<br>below<br>tide<br>minute<br>art<br>globe<br>naive<br>undo |  
+| bip_39_word_new_line1 | thank |  
+| bip_39_word_new_line10 | thank
+couple
+below
+tide
+minute
+art
+globe
+naive
+undo
+defy |  
+| bip_39_word_new_line11 | thank
+couple
+below
+tide
+minute
+art
+globe
+naive
+undo
+defy
+rude |  
+| bip_39_word_new_line12 | thank
+couple
+below
+tide
+minute
+art
+globe
+naive
+undo
+defy
+rude
+adjust |  
+| bip_39_word_new_line2 | thank
+couple |  
+| bip_39_word_new_line3 | thank
+couple
+below |  
+| bip_39_word_new_line4 | thank
+couple
+below
+tide |  
+| bip_39_word_new_line5 | thank
+couple
+below
+tide
+minute |  
+| bip_39_word_new_line6 | thank
+couple
+below
+tide
+minute
+art |  
+| bip_39_word_new_line7 | thank
+couple
+below
+tide
+minute
+art
+globe |  
+| bip_39_word_new_line8 | thank
+couple
+below
+tide
+minute
+art
+globe
+naive |  
+| bip_39_word_new_line9 | thank
+couple
+below
+tide
+minute
+art
+globe
+naive
+undo |  
+| bip_39_word_space_0 | ['thank', 'couple', 'below', 'tide', 'minute', 'art', 'globe', 'naive', 'undo', 'defy', 'rude', 'adjust'] |  
+| bip_39_word_space_1 | thank |  
+| bip_39_word_space_10 | thank couple below tide minute art globe naive undo defy |  
+| bip_39_word_space_11 | thank couple below tide minute art globe naive undo defy rude |  
+| bip_39_word_space_12 | thank couple below tide minute art globe naive undo defy rude adjust |  
+| bip_39_word_space_2 | thank couple |  
+| bip_39_word_space_3 | thank couple below |  
+| bip_39_word_space_4 | thank couple below tide |  
+| bip_39_word_space_5 | thank couple below tide minute |  
+| bip_39_word_space_6 | thank couple below tide minute art |  
+| bip_39_word_space_7 | thank couple below tide minute art globe |  
+| bip_39_word_space_8 | thank couple below tide minute art globe naive |  
+| bip_39_word_space_9 | thank couple below tide minute art globe naive undo |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

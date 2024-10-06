@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: number again
+  * bip 39 word 3: number again initial
+  * bip 39 word: number again initial ensure sunny balance utility damp will hole orchard admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | number |  
+| bip_39_word_new_br10 | number<br>again<br>initial<br>ensure<br>sunny<br>balance<br>utility<br>damp<br>will<br>hole |  
+| bip_39_word_new_br11 | number<br>again<br>initial<br>ensure<br>sunny<br>balance<br>utility<br>damp<br>will<br>hole<br>orchard |  
+| bip_39_word_new_br12 | number<br>again<br>initial<br>ensure<br>sunny<br>balance<br>utility<br>damp<br>will<br>hole<br>orchard<br>admit |  
+| bip_39_word_new_br2 | number<br>again |  
+| bip_39_word_new_br3 | number<br>again<br>initial |  
+| bip_39_word_new_br4 | number<br>again<br>initial<br>ensure |  
+| bip_39_word_new_br5 | number<br>again<br>initial<br>ensure<br>sunny |  
+| bip_39_word_new_br6 | number<br>again<br>initial<br>ensure<br>sunny<br>balance |  
+| bip_39_word_new_br7 | number<br>again<br>initial<br>ensure<br>sunny<br>balance<br>utility |  
+| bip_39_word_new_br8 | number<br>again<br>initial<br>ensure<br>sunny<br>balance<br>utility<br>damp |  
+| bip_39_word_new_br9 | number<br>again<br>initial<br>ensure<br>sunny<br>balance<br>utility<br>damp<br>will |  
+| bip_39_word_new_line1 | number |  
+| bip_39_word_new_line10 | number
+again
+initial
+ensure
+sunny
+balance
+utility
+damp
+will
+hole |  
+| bip_39_word_new_line11 | number
+again
+initial
+ensure
+sunny
+balance
+utility
+damp
+will
+hole
+orchard |  
+| bip_39_word_new_line12 | number
+again
+initial
+ensure
+sunny
+balance
+utility
+damp
+will
+hole
+orchard
+admit |  
+| bip_39_word_new_line2 | number
+again |  
+| bip_39_word_new_line3 | number
+again
+initial |  
+| bip_39_word_new_line4 | number
+again
+initial
+ensure |  
+| bip_39_word_new_line5 | number
+again
+initial
+ensure
+sunny |  
+| bip_39_word_new_line6 | number
+again
+initial
+ensure
+sunny
+balance |  
+| bip_39_word_new_line7 | number
+again
+initial
+ensure
+sunny
+balance
+utility |  
+| bip_39_word_new_line8 | number
+again
+initial
+ensure
+sunny
+balance
+utility
+damp |  
+| bip_39_word_new_line9 | number
+again
+initial
+ensure
+sunny
+balance
+utility
+damp
+will |  
+| bip_39_word_space_0 | ['number', 'again', 'initial', 'ensure', 'sunny', 'balance', 'utility', 'damp', 'will', 'hole', 'orchard', 'admit'] |  
+| bip_39_word_space_1 | number |  
+| bip_39_word_space_10 | number again initial ensure sunny balance utility damp will hole |  
+| bip_39_word_space_11 | number again initial ensure sunny balance utility damp will hole orchard |  
+| bip_39_word_space_12 | number again initial ensure sunny balance utility damp will hole orchard admit |  
+| bip_39_word_space_2 | number again |  
+| bip_39_word_space_3 | number again initial |  
+| bip_39_word_space_4 | number again initial ensure |  
+| bip_39_word_space_5 | number again initial ensure sunny |  
+| bip_39_word_space_6 | number again initial ensure sunny balance |  
+| bip_39_word_space_7 | number again initial ensure sunny balance utility |  
+| bip_39_word_space_8 | number again initial ensure sunny balance utility damp |  
+| bip_39_word_space_9 | number again initial ensure sunny balance utility damp will |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

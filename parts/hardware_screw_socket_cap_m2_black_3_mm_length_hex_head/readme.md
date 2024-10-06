@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rice february
+  * bip 39 word 3: rice february nature
+  * bip 39 word: rice february nature barely giggle camp mistake task carpet dawn hour armor
 
 ### other_codes
 * short_code: sc2b3h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rice |  
+| bip_39_word_new_br10 | rice<br>february<br>nature<br>barely<br>giggle<br>camp<br>mistake<br>task<br>carpet<br>dawn |  
+| bip_39_word_new_br11 | rice<br>february<br>nature<br>barely<br>giggle<br>camp<br>mistake<br>task<br>carpet<br>dawn<br>hour |  
+| bip_39_word_new_br12 | rice<br>february<br>nature<br>barely<br>giggle<br>camp<br>mistake<br>task<br>carpet<br>dawn<br>hour<br>armor |  
+| bip_39_word_new_br2 | rice<br>february |  
+| bip_39_word_new_br3 | rice<br>february<br>nature |  
+| bip_39_word_new_br4 | rice<br>february<br>nature<br>barely |  
+| bip_39_word_new_br5 | rice<br>february<br>nature<br>barely<br>giggle |  
+| bip_39_word_new_br6 | rice<br>february<br>nature<br>barely<br>giggle<br>camp |  
+| bip_39_word_new_br7 | rice<br>february<br>nature<br>barely<br>giggle<br>camp<br>mistake |  
+| bip_39_word_new_br8 | rice<br>february<br>nature<br>barely<br>giggle<br>camp<br>mistake<br>task |  
+| bip_39_word_new_br9 | rice<br>february<br>nature<br>barely<br>giggle<br>camp<br>mistake<br>task<br>carpet |  
+| bip_39_word_new_line1 | rice |  
+| bip_39_word_new_line10 | rice
+february
+nature
+barely
+giggle
+camp
+mistake
+task
+carpet
+dawn |  
+| bip_39_word_new_line11 | rice
+february
+nature
+barely
+giggle
+camp
+mistake
+task
+carpet
+dawn
+hour |  
+| bip_39_word_new_line12 | rice
+february
+nature
+barely
+giggle
+camp
+mistake
+task
+carpet
+dawn
+hour
+armor |  
+| bip_39_word_new_line2 | rice
+february |  
+| bip_39_word_new_line3 | rice
+february
+nature |  
+| bip_39_word_new_line4 | rice
+february
+nature
+barely |  
+| bip_39_word_new_line5 | rice
+february
+nature
+barely
+giggle |  
+| bip_39_word_new_line6 | rice
+february
+nature
+barely
+giggle
+camp |  
+| bip_39_word_new_line7 | rice
+february
+nature
+barely
+giggle
+camp
+mistake |  
+| bip_39_word_new_line8 | rice
+february
+nature
+barely
+giggle
+camp
+mistake
+task |  
+| bip_39_word_new_line9 | rice
+february
+nature
+barely
+giggle
+camp
+mistake
+task
+carpet |  
+| bip_39_word_space_0 | ['rice', 'february', 'nature', 'barely', 'giggle', 'camp', 'mistake', 'task', 'carpet', 'dawn', 'hour', 'armor'] |  
+| bip_39_word_space_1 | rice |  
+| bip_39_word_space_10 | rice february nature barely giggle camp mistake task carpet dawn |  
+| bip_39_word_space_11 | rice february nature barely giggle camp mistake task carpet dawn hour |  
+| bip_39_word_space_12 | rice february nature barely giggle camp mistake task carpet dawn hour armor |  
+| bip_39_word_space_2 | rice february |  
+| bip_39_word_space_3 | rice february nature |  
+| bip_39_word_space_4 | rice february nature barely |  
+| bip_39_word_space_5 | rice february nature barely giggle |  
+| bip_39_word_space_6 | rice february nature barely giggle camp |  
+| bip_39_word_space_7 | rice february nature barely giggle camp mistake |  
+| bip_39_word_space_8 | rice february nature barely giggle camp mistake task |  
+| bip_39_word_space_9 | rice february nature barely giggle camp mistake task carpet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

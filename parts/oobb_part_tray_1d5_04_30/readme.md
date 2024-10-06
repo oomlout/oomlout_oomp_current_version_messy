@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: best sting
+  * bip 39 word 3: best sting wise
+  * bip 39 word: best sting wise close dutch winter comfort jump car flash fall attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | best |  
+| bip_39_word_new_br10 | best<br>sting<br>wise<br>close<br>dutch<br>winter<br>comfort<br>jump<br>car<br>flash |  
+| bip_39_word_new_br11 | best<br>sting<br>wise<br>close<br>dutch<br>winter<br>comfort<br>jump<br>car<br>flash<br>fall |  
+| bip_39_word_new_br12 | best<br>sting<br>wise<br>close<br>dutch<br>winter<br>comfort<br>jump<br>car<br>flash<br>fall<br>attend |  
+| bip_39_word_new_br2 | best<br>sting |  
+| bip_39_word_new_br3 | best<br>sting<br>wise |  
+| bip_39_word_new_br4 | best<br>sting<br>wise<br>close |  
+| bip_39_word_new_br5 | best<br>sting<br>wise<br>close<br>dutch |  
+| bip_39_word_new_br6 | best<br>sting<br>wise<br>close<br>dutch<br>winter |  
+| bip_39_word_new_br7 | best<br>sting<br>wise<br>close<br>dutch<br>winter<br>comfort |  
+| bip_39_word_new_br8 | best<br>sting<br>wise<br>close<br>dutch<br>winter<br>comfort<br>jump |  
+| bip_39_word_new_br9 | best<br>sting<br>wise<br>close<br>dutch<br>winter<br>comfort<br>jump<br>car |  
+| bip_39_word_new_line1 | best |  
+| bip_39_word_new_line10 | best
+sting
+wise
+close
+dutch
+winter
+comfort
+jump
+car
+flash |  
+| bip_39_word_new_line11 | best
+sting
+wise
+close
+dutch
+winter
+comfort
+jump
+car
+flash
+fall |  
+| bip_39_word_new_line12 | best
+sting
+wise
+close
+dutch
+winter
+comfort
+jump
+car
+flash
+fall
+attend |  
+| bip_39_word_new_line2 | best
+sting |  
+| bip_39_word_new_line3 | best
+sting
+wise |  
+| bip_39_word_new_line4 | best
+sting
+wise
+close |  
+| bip_39_word_new_line5 | best
+sting
+wise
+close
+dutch |  
+| bip_39_word_new_line6 | best
+sting
+wise
+close
+dutch
+winter |  
+| bip_39_word_new_line7 | best
+sting
+wise
+close
+dutch
+winter
+comfort |  
+| bip_39_word_new_line8 | best
+sting
+wise
+close
+dutch
+winter
+comfort
+jump |  
+| bip_39_word_new_line9 | best
+sting
+wise
+close
+dutch
+winter
+comfort
+jump
+car |  
+| bip_39_word_space_0 | ['best', 'sting', 'wise', 'close', 'dutch', 'winter', 'comfort', 'jump', 'car', 'flash', 'fall', 'attend'] |  
+| bip_39_word_space_1 | best |  
+| bip_39_word_space_10 | best sting wise close dutch winter comfort jump car flash |  
+| bip_39_word_space_11 | best sting wise close dutch winter comfort jump car flash fall |  
+| bip_39_word_space_12 | best sting wise close dutch winter comfort jump car flash fall attend |  
+| bip_39_word_space_2 | best sting |  
+| bip_39_word_space_3 | best sting wise |  
+| bip_39_word_space_4 | best sting wise close |  
+| bip_39_word_space_5 | best sting wise close dutch |  
+| bip_39_word_space_6 | best sting wise close dutch winter |  
+| bip_39_word_space_7 | best sting wise close dutch winter comfort |  
+| bip_39_word_space_8 | best sting wise close dutch winter comfort jump |  
+| bip_39_word_space_9 | best sting wise close dutch winter comfort jump car |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

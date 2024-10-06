@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: city antique
+  * bip 39 word 3: city antique genius
+  * bip 39 word: city antique genius mirror portion purse forum turn furnace fury notable adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | city |  
+| bip_39_word_new_br10 | city<br>antique<br>genius<br>mirror<br>portion<br>purse<br>forum<br>turn<br>furnace<br>fury |  
+| bip_39_word_new_br11 | city<br>antique<br>genius<br>mirror<br>portion<br>purse<br>forum<br>turn<br>furnace<br>fury<br>notable |  
+| bip_39_word_new_br12 | city<br>antique<br>genius<br>mirror<br>portion<br>purse<br>forum<br>turn<br>furnace<br>fury<br>notable<br>adapt |  
+| bip_39_word_new_br2 | city<br>antique |  
+| bip_39_word_new_br3 | city<br>antique<br>genius |  
+| bip_39_word_new_br4 | city<br>antique<br>genius<br>mirror |  
+| bip_39_word_new_br5 | city<br>antique<br>genius<br>mirror<br>portion |  
+| bip_39_word_new_br6 | city<br>antique<br>genius<br>mirror<br>portion<br>purse |  
+| bip_39_word_new_br7 | city<br>antique<br>genius<br>mirror<br>portion<br>purse<br>forum |  
+| bip_39_word_new_br8 | city<br>antique<br>genius<br>mirror<br>portion<br>purse<br>forum<br>turn |  
+| bip_39_word_new_br9 | city<br>antique<br>genius<br>mirror<br>portion<br>purse<br>forum<br>turn<br>furnace |  
+| bip_39_word_new_line1 | city |  
+| bip_39_word_new_line10 | city
+antique
+genius
+mirror
+portion
+purse
+forum
+turn
+furnace
+fury |  
+| bip_39_word_new_line11 | city
+antique
+genius
+mirror
+portion
+purse
+forum
+turn
+furnace
+fury
+notable |  
+| bip_39_word_new_line12 | city
+antique
+genius
+mirror
+portion
+purse
+forum
+turn
+furnace
+fury
+notable
+adapt |  
+| bip_39_word_new_line2 | city
+antique |  
+| bip_39_word_new_line3 | city
+antique
+genius |  
+| bip_39_word_new_line4 | city
+antique
+genius
+mirror |  
+| bip_39_word_new_line5 | city
+antique
+genius
+mirror
+portion |  
+| bip_39_word_new_line6 | city
+antique
+genius
+mirror
+portion
+purse |  
+| bip_39_word_new_line7 | city
+antique
+genius
+mirror
+portion
+purse
+forum |  
+| bip_39_word_new_line8 | city
+antique
+genius
+mirror
+portion
+purse
+forum
+turn |  
+| bip_39_word_new_line9 | city
+antique
+genius
+mirror
+portion
+purse
+forum
+turn
+furnace |  
+| bip_39_word_space_0 | ['city', 'antique', 'genius', 'mirror', 'portion', 'purse', 'forum', 'turn', 'furnace', 'fury', 'notable', 'adapt'] |  
+| bip_39_word_space_1 | city |  
+| bip_39_word_space_10 | city antique genius mirror portion purse forum turn furnace fury |  
+| bip_39_word_space_11 | city antique genius mirror portion purse forum turn furnace fury notable |  
+| bip_39_word_space_12 | city antique genius mirror portion purse forum turn furnace fury notable adapt |  
+| bip_39_word_space_2 | city antique |  
+| bip_39_word_space_3 | city antique genius |  
+| bip_39_word_space_4 | city antique genius mirror |  
+| bip_39_word_space_5 | city antique genius mirror portion |  
+| bip_39_word_space_6 | city antique genius mirror portion purse |  
+| bip_39_word_space_7 | city antique genius mirror portion purse forum |  
+| bip_39_word_space_8 | city antique genius mirror portion purse forum turn |  
+| bip_39_word_space_9 | city antique genius mirror portion purse forum turn furnace |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

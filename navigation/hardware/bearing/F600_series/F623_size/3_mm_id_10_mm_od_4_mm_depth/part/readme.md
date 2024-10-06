@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vast buyer
+  * bip 39 word 3: vast buyer have
+  * bip 39 word: vast buyer have index man orchard scout acquire beyond roast apart advance
 
 ### other_codes
 * short_code: brF623
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vast |  
+| bip_39_word_new_br10 | vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond<br>roast |  
+| bip_39_word_new_br11 | vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond<br>roast<br>apart |  
+| bip_39_word_new_br12 | vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond<br>roast<br>apart<br>advance |  
+| bip_39_word_new_br2 | vast<br>buyer |  
+| bip_39_word_new_br3 | vast<br>buyer<br>have |  
+| bip_39_word_new_br4 | vast<br>buyer<br>have<br>index |  
+| bip_39_word_new_br5 | vast<br>buyer<br>have<br>index<br>man |  
+| bip_39_word_new_br6 | vast<br>buyer<br>have<br>index<br>man<br>orchard |  
+| bip_39_word_new_br7 | vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout |  
+| bip_39_word_new_br8 | vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire |  
+| bip_39_word_new_br9 | vast<br>buyer<br>have<br>index<br>man<br>orchard<br>scout<br>acquire<br>beyond |  
+| bip_39_word_new_line1 | vast |  
+| bip_39_word_new_line10 | vast
+buyer
+have
+index
+man
+orchard
+scout
+acquire
+beyond
+roast |  
+| bip_39_word_new_line11 | vast
+buyer
+have
+index
+man
+orchard
+scout
+acquire
+beyond
+roast
+apart |  
+| bip_39_word_new_line12 | vast
+buyer
+have
+index
+man
+orchard
+scout
+acquire
+beyond
+roast
+apart
+advance |  
+| bip_39_word_new_line2 | vast
+buyer |  
+| bip_39_word_new_line3 | vast
+buyer
+have |  
+| bip_39_word_new_line4 | vast
+buyer
+have
+index |  
+| bip_39_word_new_line5 | vast
+buyer
+have
+index
+man |  
+| bip_39_word_new_line6 | vast
+buyer
+have
+index
+man
+orchard |  
+| bip_39_word_new_line7 | vast
+buyer
+have
+index
+man
+orchard
+scout |  
+| bip_39_word_new_line8 | vast
+buyer
+have
+index
+man
+orchard
+scout
+acquire |  
+| bip_39_word_new_line9 | vast
+buyer
+have
+index
+man
+orchard
+scout
+acquire
+beyond |  
+| bip_39_word_space_0 | ['vast', 'buyer', 'have', 'index', 'man', 'orchard', 'scout', 'acquire', 'beyond', 'roast', 'apart', 'advance'] |  
+| bip_39_word_space_1 | vast |  
+| bip_39_word_space_10 | vast buyer have index man orchard scout acquire beyond roast |  
+| bip_39_word_space_11 | vast buyer have index man orchard scout acquire beyond roast apart |  
+| bip_39_word_space_12 | vast buyer have index man orchard scout acquire beyond roast apart advance |  
+| bip_39_word_space_2 | vast buyer |  
+| bip_39_word_space_3 | vast buyer have |  
+| bip_39_word_space_4 | vast buyer have index |  
+| bip_39_word_space_5 | vast buyer have index man |  
+| bip_39_word_space_6 | vast buyer have index man orchard |  
+| bip_39_word_space_7 | vast buyer have index man orchard scout |  
+| bip_39_word_space_8 | vast buyer have index man orchard scout acquire |  
+| bip_39_word_space_9 | vast buyer have index man orchard scout acquire beyond |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

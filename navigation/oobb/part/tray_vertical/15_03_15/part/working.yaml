@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lizard
+bip_39_word_new_br10: lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen
+bip_39_word_new_br11: lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen<br>student
+bip_39_word_new_br12: lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle<br>reopen<br>student<br>affair
+bip_39_word_new_br2: lizard<br>yard
+bip_39_word_new_br3: lizard<br>yard<br>off
+bip_39_word_new_br4: lizard<br>yard<br>off<br>coconut
+bip_39_word_new_br5: lizard<br>yard<br>off<br>coconut<br>correct
+bip_39_word_new_br6: lizard<br>yard<br>off<br>coconut<br>correct<br>apart
+bip_39_word_new_br7: lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow
+bip_39_word_new_br8: lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight
+bip_39_word_new_br9: lizard<br>yard<br>off<br>coconut<br>correct<br>apart<br>hollow<br>midnight<br>cattle
+bip_39_word_new_line1: lizard
+bip_39_word_new_line10: 'lizard
+
+  yard
+
+  off
+
+  coconut
+
+  correct
+
+  apart
+
+  hollow
+
+  midnight
+
+  cattle
+
+  reopen'
+bip_39_word_new_line11: 'lizard
+
+  yard
+
+  off
+
+  coconut
+
+  correct
+
+  apart
+
+  hollow
+
+  midnight
+
+  cattle
+
+  reopen
+
+  student'
+bip_39_word_new_line12: 'lizard
+
+  yard
+
+  off
+
+  coconut
+
+  correct
+
+  apart
+
+  hollow
+
+  midnight
+
+  cattle
+
+  reopen
+
+  student
+
+  affair'
+bip_39_word_new_line2: 'lizard
+
+  yard'
+bip_39_word_new_line3: 'lizard
+
+  yard
+
+  off'
+bip_39_word_new_line4: 'lizard
+
+  yard
+
+  off
+
+  coconut'
+bip_39_word_new_line5: 'lizard
+
+  yard
+
+  off
+
+  coconut
+
+  correct'
+bip_39_word_new_line6: 'lizard
+
+  yard
+
+  off
+
+  coconut
+
+  correct
+
+  apart'
+bip_39_word_new_line7: 'lizard
+
+  yard
+
+  off
+
+  coconut
+
+  correct
+
+  apart
+
+  hollow'
+bip_39_word_new_line8: 'lizard
+
+  yard
+
+  off
+
+  coconut
+
+  correct
+
+  apart
+
+  hollow
+
+  midnight'
+bip_39_word_new_line9: 'lizard
+
+  yard
+
+  off
+
+  coconut
+
+  correct
+
+  apart
+
+  hollow
+
+  midnight
+
+  cattle'
+bip_39_word_space_0:
+- lizard
+- yard
+- 'off'
+- coconut
+- correct
+- apart
+- hollow
+- midnight
+- cattle
+- reopen
+- student
+- affair
+bip_39_word_space_1: lizard
+bip_39_word_space_10: lizard yard off coconut correct apart hollow midnight cattle
+  reopen
+bip_39_word_space_11: lizard yard off coconut correct apart hollow midnight cattle
+  reopen student
+bip_39_word_space_12: lizard yard off coconut correct apart hollow midnight cattle
+  reopen student affair
+bip_39_word_space_2: lizard yard
+bip_39_word_space_3: lizard yard off
+bip_39_word_space_4: lizard yard off coconut
+bip_39_word_space_5: lizard yard off coconut correct
+bip_39_word_space_6: lizard yard off coconut correct apart
+bip_39_word_space_7: lizard yard off coconut correct apart hollow
+bip_39_word_space_8: lizard yard off coconut correct apart hollow midnight
+bip_39_word_space_9: lizard yard off coconut correct apart hollow midnight cattle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

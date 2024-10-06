@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glimpse someone
+  * bip 39 word 3: glimpse someone ready
+  * bip 39 word: glimpse someone ready divert surface kiss library fork miracle strategy plunge amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glimpse |  
+| bip_39_word_new_br10 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss<br>library<br>fork<br>miracle<br>strategy |  
+| bip_39_word_new_br11 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss<br>library<br>fork<br>miracle<br>strategy<br>plunge |  
+| bip_39_word_new_br12 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss<br>library<br>fork<br>miracle<br>strategy<br>plunge<br>amazing |  
+| bip_39_word_new_br2 | glimpse<br>someone |  
+| bip_39_word_new_br3 | glimpse<br>someone<br>ready |  
+| bip_39_word_new_br4 | glimpse<br>someone<br>ready<br>divert |  
+| bip_39_word_new_br5 | glimpse<br>someone<br>ready<br>divert<br>surface |  
+| bip_39_word_new_br6 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss |  
+| bip_39_word_new_br7 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss<br>library |  
+| bip_39_word_new_br8 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss<br>library<br>fork |  
+| bip_39_word_new_br9 | glimpse<br>someone<br>ready<br>divert<br>surface<br>kiss<br>library<br>fork<br>miracle |  
+| bip_39_word_new_line1 | glimpse |  
+| bip_39_word_new_line10 | glimpse
+someone
+ready
+divert
+surface
+kiss
+library
+fork
+miracle
+strategy |  
+| bip_39_word_new_line11 | glimpse
+someone
+ready
+divert
+surface
+kiss
+library
+fork
+miracle
+strategy
+plunge |  
+| bip_39_word_new_line12 | glimpse
+someone
+ready
+divert
+surface
+kiss
+library
+fork
+miracle
+strategy
+plunge
+amazing |  
+| bip_39_word_new_line2 | glimpse
+someone |  
+| bip_39_word_new_line3 | glimpse
+someone
+ready |  
+| bip_39_word_new_line4 | glimpse
+someone
+ready
+divert |  
+| bip_39_word_new_line5 | glimpse
+someone
+ready
+divert
+surface |  
+| bip_39_word_new_line6 | glimpse
+someone
+ready
+divert
+surface
+kiss |  
+| bip_39_word_new_line7 | glimpse
+someone
+ready
+divert
+surface
+kiss
+library |  
+| bip_39_word_new_line8 | glimpse
+someone
+ready
+divert
+surface
+kiss
+library
+fork |  
+| bip_39_word_new_line9 | glimpse
+someone
+ready
+divert
+surface
+kiss
+library
+fork
+miracle |  
+| bip_39_word_space_0 | ['glimpse', 'someone', 'ready', 'divert', 'surface', 'kiss', 'library', 'fork', 'miracle', 'strategy', 'plunge', 'amazing'] |  
+| bip_39_word_space_1 | glimpse |  
+| bip_39_word_space_10 | glimpse someone ready divert surface kiss library fork miracle strategy |  
+| bip_39_word_space_11 | glimpse someone ready divert surface kiss library fork miracle strategy plunge |  
+| bip_39_word_space_12 | glimpse someone ready divert surface kiss library fork miracle strategy plunge amazing |  
+| bip_39_word_space_2 | glimpse someone |  
+| bip_39_word_space_3 | glimpse someone ready |  
+| bip_39_word_space_4 | glimpse someone ready divert |  
+| bip_39_word_space_5 | glimpse someone ready divert surface |  
+| bip_39_word_space_6 | glimpse someone ready divert surface kiss |  
+| bip_39_word_space_7 | glimpse someone ready divert surface kiss library |  
+| bip_39_word_space_8 | glimpse someone ready divert surface kiss library fork |  
+| bip_39_word_space_9 | glimpse someone ready divert surface kiss library fork miracle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

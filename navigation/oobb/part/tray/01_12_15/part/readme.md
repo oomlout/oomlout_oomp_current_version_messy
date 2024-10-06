@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: surprise rhythm
+  * bip 39 word 3: surprise rhythm square
+  * bip 39 word: surprise rhythm square mule pilot jeans bike total source source idle album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | surprise |  
+| bip_39_word_new_br10 | surprise<br>rhythm<br>square<br>mule<br>pilot<br>jeans<br>bike<br>total<br>source<br>source |  
+| bip_39_word_new_br11 | surprise<br>rhythm<br>square<br>mule<br>pilot<br>jeans<br>bike<br>total<br>source<br>source<br>idle |  
+| bip_39_word_new_br12 | surprise<br>rhythm<br>square<br>mule<br>pilot<br>jeans<br>bike<br>total<br>source<br>source<br>idle<br>album |  
+| bip_39_word_new_br2 | surprise<br>rhythm |  
+| bip_39_word_new_br3 | surprise<br>rhythm<br>square |  
+| bip_39_word_new_br4 | surprise<br>rhythm<br>square<br>mule |  
+| bip_39_word_new_br5 | surprise<br>rhythm<br>square<br>mule<br>pilot |  
+| bip_39_word_new_br6 | surprise<br>rhythm<br>square<br>mule<br>pilot<br>jeans |  
+| bip_39_word_new_br7 | surprise<br>rhythm<br>square<br>mule<br>pilot<br>jeans<br>bike |  
+| bip_39_word_new_br8 | surprise<br>rhythm<br>square<br>mule<br>pilot<br>jeans<br>bike<br>total |  
+| bip_39_word_new_br9 | surprise<br>rhythm<br>square<br>mule<br>pilot<br>jeans<br>bike<br>total<br>source |  
+| bip_39_word_new_line1 | surprise |  
+| bip_39_word_new_line10 | surprise
+rhythm
+square
+mule
+pilot
+jeans
+bike
+total
+source
+source |  
+| bip_39_word_new_line11 | surprise
+rhythm
+square
+mule
+pilot
+jeans
+bike
+total
+source
+source
+idle |  
+| bip_39_word_new_line12 | surprise
+rhythm
+square
+mule
+pilot
+jeans
+bike
+total
+source
+source
+idle
+album |  
+| bip_39_word_new_line2 | surprise
+rhythm |  
+| bip_39_word_new_line3 | surprise
+rhythm
+square |  
+| bip_39_word_new_line4 | surprise
+rhythm
+square
+mule |  
+| bip_39_word_new_line5 | surprise
+rhythm
+square
+mule
+pilot |  
+| bip_39_word_new_line6 | surprise
+rhythm
+square
+mule
+pilot
+jeans |  
+| bip_39_word_new_line7 | surprise
+rhythm
+square
+mule
+pilot
+jeans
+bike |  
+| bip_39_word_new_line8 | surprise
+rhythm
+square
+mule
+pilot
+jeans
+bike
+total |  
+| bip_39_word_new_line9 | surprise
+rhythm
+square
+mule
+pilot
+jeans
+bike
+total
+source |  
+| bip_39_word_space_0 | ['surprise', 'rhythm', 'square', 'mule', 'pilot', 'jeans', 'bike', 'total', 'source', 'source', 'idle', 'album'] |  
+| bip_39_word_space_1 | surprise |  
+| bip_39_word_space_10 | surprise rhythm square mule pilot jeans bike total source source |  
+| bip_39_word_space_11 | surprise rhythm square mule pilot jeans bike total source source idle |  
+| bip_39_word_space_12 | surprise rhythm square mule pilot jeans bike total source source idle album |  
+| bip_39_word_space_2 | surprise rhythm |  
+| bip_39_word_space_3 | surprise rhythm square |  
+| bip_39_word_space_4 | surprise rhythm square mule |  
+| bip_39_word_space_5 | surprise rhythm square mule pilot |  
+| bip_39_word_space_6 | surprise rhythm square mule pilot jeans |  
+| bip_39_word_space_7 | surprise rhythm square mule pilot jeans bike |  
+| bip_39_word_space_8 | surprise rhythm square mule pilot jeans bike total |  
+| bip_39_word_space_9 | surprise rhythm square mule pilot jeans bike total source |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

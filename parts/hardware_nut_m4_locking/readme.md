@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: employ mistake
+  * bip 39 word 3: employ mistake join
+  * bip 39 word: employ mistake join forward lounge student elbow sausage human pipe monster advance
 
 ### other_codes
 * short_code: n4mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | employ |  
+| bip_39_word_new_br10 | employ<br>mistake<br>join<br>forward<br>lounge<br>student<br>elbow<br>sausage<br>human<br>pipe |  
+| bip_39_word_new_br11 | employ<br>mistake<br>join<br>forward<br>lounge<br>student<br>elbow<br>sausage<br>human<br>pipe<br>monster |  
+| bip_39_word_new_br12 | employ<br>mistake<br>join<br>forward<br>lounge<br>student<br>elbow<br>sausage<br>human<br>pipe<br>monster<br>advance |  
+| bip_39_word_new_br2 | employ<br>mistake |  
+| bip_39_word_new_br3 | employ<br>mistake<br>join |  
+| bip_39_word_new_br4 | employ<br>mistake<br>join<br>forward |  
+| bip_39_word_new_br5 | employ<br>mistake<br>join<br>forward<br>lounge |  
+| bip_39_word_new_br6 | employ<br>mistake<br>join<br>forward<br>lounge<br>student |  
+| bip_39_word_new_br7 | employ<br>mistake<br>join<br>forward<br>lounge<br>student<br>elbow |  
+| bip_39_word_new_br8 | employ<br>mistake<br>join<br>forward<br>lounge<br>student<br>elbow<br>sausage |  
+| bip_39_word_new_br9 | employ<br>mistake<br>join<br>forward<br>lounge<br>student<br>elbow<br>sausage<br>human |  
+| bip_39_word_new_line1 | employ |  
+| bip_39_word_new_line10 | employ
+mistake
+join
+forward
+lounge
+student
+elbow
+sausage
+human
+pipe |  
+| bip_39_word_new_line11 | employ
+mistake
+join
+forward
+lounge
+student
+elbow
+sausage
+human
+pipe
+monster |  
+| bip_39_word_new_line12 | employ
+mistake
+join
+forward
+lounge
+student
+elbow
+sausage
+human
+pipe
+monster
+advance |  
+| bip_39_word_new_line2 | employ
+mistake |  
+| bip_39_word_new_line3 | employ
+mistake
+join |  
+| bip_39_word_new_line4 | employ
+mistake
+join
+forward |  
+| bip_39_word_new_line5 | employ
+mistake
+join
+forward
+lounge |  
+| bip_39_word_new_line6 | employ
+mistake
+join
+forward
+lounge
+student |  
+| bip_39_word_new_line7 | employ
+mistake
+join
+forward
+lounge
+student
+elbow |  
+| bip_39_word_new_line8 | employ
+mistake
+join
+forward
+lounge
+student
+elbow
+sausage |  
+| bip_39_word_new_line9 | employ
+mistake
+join
+forward
+lounge
+student
+elbow
+sausage
+human |  
+| bip_39_word_space_0 | ['employ', 'mistake', 'join', 'forward', 'lounge', 'student', 'elbow', 'sausage', 'human', 'pipe', 'monster', 'advance'] |  
+| bip_39_word_space_1 | employ |  
+| bip_39_word_space_10 | employ mistake join forward lounge student elbow sausage human pipe |  
+| bip_39_word_space_11 | employ mistake join forward lounge student elbow sausage human pipe monster |  
+| bip_39_word_space_12 | employ mistake join forward lounge student elbow sausage human pipe monster advance |  
+| bip_39_word_space_2 | employ mistake |  
+| bip_39_word_space_3 | employ mistake join |  
+| bip_39_word_space_4 | employ mistake join forward |  
+| bip_39_word_space_5 | employ mistake join forward lounge |  
+| bip_39_word_space_6 | employ mistake join forward lounge student |  
+| bip_39_word_space_7 | employ mistake join forward lounge student elbow |  
+| bip_39_word_space_8 | employ mistake join forward lounge student elbow sausage |  
+| bip_39_word_space_9 | employ mistake join forward lounge student elbow sausage human |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

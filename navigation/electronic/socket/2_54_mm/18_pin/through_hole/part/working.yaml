@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dilemma
+bip_39_word_new_br10: dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn
+bip_39_word_new_br11: dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn<br>embrace
+bip_39_word_new_br12: dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp<br>learn<br>embrace<br>able
+bip_39_word_new_br2: dilemma<br>pizza
+bip_39_word_new_br3: dilemma<br>pizza<br>flip
+bip_39_word_new_br4: dilemma<br>pizza<br>flip<br>situate
+bip_39_word_new_br5: dilemma<br>pizza<br>flip<br>situate<br>talent
+bip_39_word_new_br6: dilemma<br>pizza<br>flip<br>situate<br>talent<br>more
+bip_39_word_new_br7: dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank
+bip_39_word_new_br8: dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge
+bip_39_word_new_br9: dilemma<br>pizza<br>flip<br>situate<br>talent<br>more<br>tank<br>judge<br>stamp
+bip_39_word_new_line1: dilemma
+bip_39_word_new_line10: 'dilemma
+
+  pizza
+
+  flip
+
+  situate
+
+  talent
+
+  more
+
+  tank
+
+  judge
+
+  stamp
+
+  learn'
+bip_39_word_new_line11: 'dilemma
+
+  pizza
+
+  flip
+
+  situate
+
+  talent
+
+  more
+
+  tank
+
+  judge
+
+  stamp
+
+  learn
+
+  embrace'
+bip_39_word_new_line12: 'dilemma
+
+  pizza
+
+  flip
+
+  situate
+
+  talent
+
+  more
+
+  tank
+
+  judge
+
+  stamp
+
+  learn
+
+  embrace
+
+  able'
+bip_39_word_new_line2: 'dilemma
+
+  pizza'
+bip_39_word_new_line3: 'dilemma
+
+  pizza
+
+  flip'
+bip_39_word_new_line4: 'dilemma
+
+  pizza
+
+  flip
+
+  situate'
+bip_39_word_new_line5: 'dilemma
+
+  pizza
+
+  flip
+
+  situate
+
+  talent'
+bip_39_word_new_line6: 'dilemma
+
+  pizza
+
+  flip
+
+  situate
+
+  talent
+
+  more'
+bip_39_word_new_line7: 'dilemma
+
+  pizza
+
+  flip
+
+  situate
+
+  talent
+
+  more
+
+  tank'
+bip_39_word_new_line8: 'dilemma
+
+  pizza
+
+  flip
+
+  situate
+
+  talent
+
+  more
+
+  tank
+
+  judge'
+bip_39_word_new_line9: 'dilemma
+
+  pizza
+
+  flip
+
+  situate
+
+  talent
+
+  more
+
+  tank
+
+  judge
+
+  stamp'
+bip_39_word_space_0:
+- dilemma
+- pizza
+- flip
+- situate
+- talent
+- more
+- tank
+- judge
+- stamp
+- learn
+- embrace
+- able
+bip_39_word_space_1: dilemma
+bip_39_word_space_10: dilemma pizza flip situate talent more tank judge stamp learn
+bip_39_word_space_11: dilemma pizza flip situate talent more tank judge stamp learn
+  embrace
+bip_39_word_space_12: dilemma pizza flip situate talent more tank judge stamp learn
+  embrace able
+bip_39_word_space_2: dilemma pizza
+bip_39_word_space_3: dilemma pizza flip
+bip_39_word_space_4: dilemma pizza flip situate
+bip_39_word_space_5: dilemma pizza flip situate talent
+bip_39_word_space_6: dilemma pizza flip situate talent more
+bip_39_word_space_7: dilemma pizza flip situate talent more tank
+bip_39_word_space_8: dilemma pizza flip situate talent more tank judge
+bip_39_word_space_9: dilemma pizza flip situate talent more tank judge stamp
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

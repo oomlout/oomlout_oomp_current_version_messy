@@ -1,3 +1,187 @@
+bip_39_word_new_br1: panda
+bip_39_word_new_br10: panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak
+bip_39_word_new_br11: panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak<br>survey
+bip_39_word_new_br12: panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano<br>bleak<br>survey<br>aerobic
+bip_39_word_new_br2: panda<br>skate
+bip_39_word_new_br3: panda<br>skate<br>cluster
+bip_39_word_new_br4: panda<br>skate<br>cluster<br>earth
+bip_39_word_new_br5: panda<br>skate<br>cluster<br>earth<br>assume
+bip_39_word_new_br6: panda<br>skate<br>cluster<br>earth<br>assume<br>notice
+bip_39_word_new_br7: panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library
+bip_39_word_new_br8: panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange
+bip_39_word_new_br9: panda<br>skate<br>cluster<br>earth<br>assume<br>notice<br>library<br>orange<br>piano
+bip_39_word_new_line1: panda
+bip_39_word_new_line10: 'panda
+
+  skate
+
+  cluster
+
+  earth
+
+  assume
+
+  notice
+
+  library
+
+  orange
+
+  piano
+
+  bleak'
+bip_39_word_new_line11: 'panda
+
+  skate
+
+  cluster
+
+  earth
+
+  assume
+
+  notice
+
+  library
+
+  orange
+
+  piano
+
+  bleak
+
+  survey'
+bip_39_word_new_line12: 'panda
+
+  skate
+
+  cluster
+
+  earth
+
+  assume
+
+  notice
+
+  library
+
+  orange
+
+  piano
+
+  bleak
+
+  survey
+
+  aerobic'
+bip_39_word_new_line2: 'panda
+
+  skate'
+bip_39_word_new_line3: 'panda
+
+  skate
+
+  cluster'
+bip_39_word_new_line4: 'panda
+
+  skate
+
+  cluster
+
+  earth'
+bip_39_word_new_line5: 'panda
+
+  skate
+
+  cluster
+
+  earth
+
+  assume'
+bip_39_word_new_line6: 'panda
+
+  skate
+
+  cluster
+
+  earth
+
+  assume
+
+  notice'
+bip_39_word_new_line7: 'panda
+
+  skate
+
+  cluster
+
+  earth
+
+  assume
+
+  notice
+
+  library'
+bip_39_word_new_line8: 'panda
+
+  skate
+
+  cluster
+
+  earth
+
+  assume
+
+  notice
+
+  library
+
+  orange'
+bip_39_word_new_line9: 'panda
+
+  skate
+
+  cluster
+
+  earth
+
+  assume
+
+  notice
+
+  library
+
+  orange
+
+  piano'
+bip_39_word_space_0:
+- panda
+- skate
+- cluster
+- earth
+- assume
+- notice
+- library
+- orange
+- piano
+- bleak
+- survey
+- aerobic
+bip_39_word_space_1: panda
+bip_39_word_space_10: panda skate cluster earth assume notice library orange piano
+  bleak
+bip_39_word_space_11: panda skate cluster earth assume notice library orange piano
+  bleak survey
+bip_39_word_space_12: panda skate cluster earth assume notice library orange piano
+  bleak survey aerobic
+bip_39_word_space_2: panda skate
+bip_39_word_space_3: panda skate cluster
+bip_39_word_space_4: panda skate cluster earth
+bip_39_word_space_5: panda skate cluster earth assume
+bip_39_word_space_6: panda skate cluster earth assume notice
+bip_39_word_space_7: panda skate cluster earth assume notice library
+bip_39_word_space_8: panda skate cluster earth assume notice library orange
+bip_39_word_space_9: panda skate cluster earth assume notice library orange piano
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

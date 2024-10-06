@@ -1,3 +1,186 @@
+bip_39_word_new_br1: robust
+bip_39_word_new_br10: robust<br>certain<br>favorite<br>obtain<br>depart<br>human<br>hand<br>raven<br>now<br>sister
+bip_39_word_new_br11: robust<br>certain<br>favorite<br>obtain<br>depart<br>human<br>hand<br>raven<br>now<br>sister<br>three
+bip_39_word_new_br12: robust<br>certain<br>favorite<br>obtain<br>depart<br>human<br>hand<br>raven<br>now<br>sister<br>three<br>announce
+bip_39_word_new_br2: robust<br>certain
+bip_39_word_new_br3: robust<br>certain<br>favorite
+bip_39_word_new_br4: robust<br>certain<br>favorite<br>obtain
+bip_39_word_new_br5: robust<br>certain<br>favorite<br>obtain<br>depart
+bip_39_word_new_br6: robust<br>certain<br>favorite<br>obtain<br>depart<br>human
+bip_39_word_new_br7: robust<br>certain<br>favorite<br>obtain<br>depart<br>human<br>hand
+bip_39_word_new_br8: robust<br>certain<br>favorite<br>obtain<br>depart<br>human<br>hand<br>raven
+bip_39_word_new_br9: robust<br>certain<br>favorite<br>obtain<br>depart<br>human<br>hand<br>raven<br>now
+bip_39_word_new_line1: robust
+bip_39_word_new_line10: 'robust
+
+  certain
+
+  favorite
+
+  obtain
+
+  depart
+
+  human
+
+  hand
+
+  raven
+
+  now
+
+  sister'
+bip_39_word_new_line11: 'robust
+
+  certain
+
+  favorite
+
+  obtain
+
+  depart
+
+  human
+
+  hand
+
+  raven
+
+  now
+
+  sister
+
+  three'
+bip_39_word_new_line12: 'robust
+
+  certain
+
+  favorite
+
+  obtain
+
+  depart
+
+  human
+
+  hand
+
+  raven
+
+  now
+
+  sister
+
+  three
+
+  announce'
+bip_39_word_new_line2: 'robust
+
+  certain'
+bip_39_word_new_line3: 'robust
+
+  certain
+
+  favorite'
+bip_39_word_new_line4: 'robust
+
+  certain
+
+  favorite
+
+  obtain'
+bip_39_word_new_line5: 'robust
+
+  certain
+
+  favorite
+
+  obtain
+
+  depart'
+bip_39_word_new_line6: 'robust
+
+  certain
+
+  favorite
+
+  obtain
+
+  depart
+
+  human'
+bip_39_word_new_line7: 'robust
+
+  certain
+
+  favorite
+
+  obtain
+
+  depart
+
+  human
+
+  hand'
+bip_39_word_new_line8: 'robust
+
+  certain
+
+  favorite
+
+  obtain
+
+  depart
+
+  human
+
+  hand
+
+  raven'
+bip_39_word_new_line9: 'robust
+
+  certain
+
+  favorite
+
+  obtain
+
+  depart
+
+  human
+
+  hand
+
+  raven
+
+  now'
+bip_39_word_space_0:
+- robust
+- certain
+- favorite
+- obtain
+- depart
+- human
+- hand
+- raven
+- now
+- sister
+- three
+- announce
+bip_39_word_space_1: robust
+bip_39_word_space_10: robust certain favorite obtain depart human hand raven now sister
+bip_39_word_space_11: robust certain favorite obtain depart human hand raven now sister
+  three
+bip_39_word_space_12: robust certain favorite obtain depart human hand raven now sister
+  three announce
+bip_39_word_space_2: robust certain
+bip_39_word_space_3: robust certain favorite
+bip_39_word_space_4: robust certain favorite obtain
+bip_39_word_space_5: robust certain favorite obtain depart
+bip_39_word_space_6: robust certain favorite obtain depart human
+bip_39_word_space_7: robust certain favorite obtain depart human hand
+bip_39_word_space_8: robust certain favorite obtain depart human hand raven
+bip_39_word_space_9: robust certain favorite obtain depart human hand raven now
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

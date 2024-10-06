@@ -1,3 +1,185 @@
+bip_39_word_new_br1: join
+bip_39_word_new_br10: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand
+bip_39_word_new_br11: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand<br>unknown
+bip_39_word_new_br12: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust<br>hand<br>unknown<br>abuse
+bip_39_word_new_br2: join<br>access
+bip_39_word_new_br3: join<br>access<br>rifle
+bip_39_word_new_br4: join<br>access<br>rifle<br>vacant
+bip_39_word_new_br5: join<br>access<br>rifle<br>vacant<br>valve
+bip_39_word_new_br6: join<br>access<br>rifle<br>vacant<br>valve<br>gain
+bip_39_word_new_br7: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil
+bip_39_word_new_br8: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat
+bip_39_word_new_br9: join<br>access<br>rifle<br>vacant<br>valve<br>gain<br>oil<br>flat<br>exhaust
+bip_39_word_new_line1: join
+bip_39_word_new_line10: 'join
+
+  access
+
+  rifle
+
+  vacant
+
+  valve
+
+  gain
+
+  oil
+
+  flat
+
+  exhaust
+
+  hand'
+bip_39_word_new_line11: 'join
+
+  access
+
+  rifle
+
+  vacant
+
+  valve
+
+  gain
+
+  oil
+
+  flat
+
+  exhaust
+
+  hand
+
+  unknown'
+bip_39_word_new_line12: 'join
+
+  access
+
+  rifle
+
+  vacant
+
+  valve
+
+  gain
+
+  oil
+
+  flat
+
+  exhaust
+
+  hand
+
+  unknown
+
+  abuse'
+bip_39_word_new_line2: 'join
+
+  access'
+bip_39_word_new_line3: 'join
+
+  access
+
+  rifle'
+bip_39_word_new_line4: 'join
+
+  access
+
+  rifle
+
+  vacant'
+bip_39_word_new_line5: 'join
+
+  access
+
+  rifle
+
+  vacant
+
+  valve'
+bip_39_word_new_line6: 'join
+
+  access
+
+  rifle
+
+  vacant
+
+  valve
+
+  gain'
+bip_39_word_new_line7: 'join
+
+  access
+
+  rifle
+
+  vacant
+
+  valve
+
+  gain
+
+  oil'
+bip_39_word_new_line8: 'join
+
+  access
+
+  rifle
+
+  vacant
+
+  valve
+
+  gain
+
+  oil
+
+  flat'
+bip_39_word_new_line9: 'join
+
+  access
+
+  rifle
+
+  vacant
+
+  valve
+
+  gain
+
+  oil
+
+  flat
+
+  exhaust'
+bip_39_word_space_0:
+- join
+- access
+- rifle
+- vacant
+- valve
+- gain
+- oil
+- flat
+- exhaust
+- hand
+- unknown
+- abuse
+bip_39_word_space_1: join
+bip_39_word_space_10: join access rifle vacant valve gain oil flat exhaust hand
+bip_39_word_space_11: join access rifle vacant valve gain oil flat exhaust hand unknown
+bip_39_word_space_12: join access rifle vacant valve gain oil flat exhaust hand unknown
+  abuse
+bip_39_word_space_2: join access
+bip_39_word_space_3: join access rifle
+bip_39_word_space_4: join access rifle vacant
+bip_39_word_space_5: join access rifle vacant valve
+bip_39_word_space_6: join access rifle vacant valve gain
+bip_39_word_space_7: join access rifle vacant valve gain oil
+bip_39_word_space_8: join access rifle vacant valve gain oil flat
+bip_39_word_space_9: join access rifle vacant valve gain oil flat exhaust
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

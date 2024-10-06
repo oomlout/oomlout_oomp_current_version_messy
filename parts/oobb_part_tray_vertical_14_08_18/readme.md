@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: job fatal
+  * bip 39 word 3: job fatal weekend
+  * bip 39 word: job fatal weekend tragic box service rocket want solve snake equip actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | job |  
+| bip_39_word_new_br10 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake |  
+| bip_39_word_new_br11 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake<br>equip |  
+| bip_39_word_new_br12 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve<br>snake<br>equip<br>actual |  
+| bip_39_word_new_br2 | job<br>fatal |  
+| bip_39_word_new_br3 | job<br>fatal<br>weekend |  
+| bip_39_word_new_br4 | job<br>fatal<br>weekend<br>tragic |  
+| bip_39_word_new_br5 | job<br>fatal<br>weekend<br>tragic<br>box |  
+| bip_39_word_new_br6 | job<br>fatal<br>weekend<br>tragic<br>box<br>service |  
+| bip_39_word_new_br7 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket |  
+| bip_39_word_new_br8 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want |  
+| bip_39_word_new_br9 | job<br>fatal<br>weekend<br>tragic<br>box<br>service<br>rocket<br>want<br>solve |  
+| bip_39_word_new_line1 | job |  
+| bip_39_word_new_line10 | job
+fatal
+weekend
+tragic
+box
+service
+rocket
+want
+solve
+snake |  
+| bip_39_word_new_line11 | job
+fatal
+weekend
+tragic
+box
+service
+rocket
+want
+solve
+snake
+equip |  
+| bip_39_word_new_line12 | job
+fatal
+weekend
+tragic
+box
+service
+rocket
+want
+solve
+snake
+equip
+actual |  
+| bip_39_word_new_line2 | job
+fatal |  
+| bip_39_word_new_line3 | job
+fatal
+weekend |  
+| bip_39_word_new_line4 | job
+fatal
+weekend
+tragic |  
+| bip_39_word_new_line5 | job
+fatal
+weekend
+tragic
+box |  
+| bip_39_word_new_line6 | job
+fatal
+weekend
+tragic
+box
+service |  
+| bip_39_word_new_line7 | job
+fatal
+weekend
+tragic
+box
+service
+rocket |  
+| bip_39_word_new_line8 | job
+fatal
+weekend
+tragic
+box
+service
+rocket
+want |  
+| bip_39_word_new_line9 | job
+fatal
+weekend
+tragic
+box
+service
+rocket
+want
+solve |  
+| bip_39_word_space_0 | ['job', 'fatal', 'weekend', 'tragic', 'box', 'service', 'rocket', 'want', 'solve', 'snake', 'equip', 'actual'] |  
+| bip_39_word_space_1 | job |  
+| bip_39_word_space_10 | job fatal weekend tragic box service rocket want solve snake |  
+| bip_39_word_space_11 | job fatal weekend tragic box service rocket want solve snake equip |  
+| bip_39_word_space_12 | job fatal weekend tragic box service rocket want solve snake equip actual |  
+| bip_39_word_space_2 | job fatal |  
+| bip_39_word_space_3 | job fatal weekend |  
+| bip_39_word_space_4 | job fatal weekend tragic |  
+| bip_39_word_space_5 | job fatal weekend tragic box |  
+| bip_39_word_space_6 | job fatal weekend tragic box service |  
+| bip_39_word_space_7 | job fatal weekend tragic box service rocket |  
+| bip_39_word_space_8 | job fatal weekend tragic box service rocket want |  
+| bip_39_word_space_9 | job fatal weekend tragic box service rocket want solve |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

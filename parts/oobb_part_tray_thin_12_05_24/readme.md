@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: envelope romance
+  * bip 39 word 3: envelope romance parent
+  * bip 39 word: envelope romance parent venue arrest enjoy holiday amused police label write animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | envelope |  
+| bip_39_word_new_br10 | envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy<br>holiday<br>amused<br>police<br>label |  
+| bip_39_word_new_br11 | envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy<br>holiday<br>amused<br>police<br>label<br>write |  
+| bip_39_word_new_br12 | envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy<br>holiday<br>amused<br>police<br>label<br>write<br>animal |  
+| bip_39_word_new_br2 | envelope<br>romance |  
+| bip_39_word_new_br3 | envelope<br>romance<br>parent |  
+| bip_39_word_new_br4 | envelope<br>romance<br>parent<br>venue |  
+| bip_39_word_new_br5 | envelope<br>romance<br>parent<br>venue<br>arrest |  
+| bip_39_word_new_br6 | envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy |  
+| bip_39_word_new_br7 | envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy<br>holiday |  
+| bip_39_word_new_br8 | envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy<br>holiday<br>amused |  
+| bip_39_word_new_br9 | envelope<br>romance<br>parent<br>venue<br>arrest<br>enjoy<br>holiday<br>amused<br>police |  
+| bip_39_word_new_line1 | envelope |  
+| bip_39_word_new_line10 | envelope
+romance
+parent
+venue
+arrest
+enjoy
+holiday
+amused
+police
+label |  
+| bip_39_word_new_line11 | envelope
+romance
+parent
+venue
+arrest
+enjoy
+holiday
+amused
+police
+label
+write |  
+| bip_39_word_new_line12 | envelope
+romance
+parent
+venue
+arrest
+enjoy
+holiday
+amused
+police
+label
+write
+animal |  
+| bip_39_word_new_line2 | envelope
+romance |  
+| bip_39_word_new_line3 | envelope
+romance
+parent |  
+| bip_39_word_new_line4 | envelope
+romance
+parent
+venue |  
+| bip_39_word_new_line5 | envelope
+romance
+parent
+venue
+arrest |  
+| bip_39_word_new_line6 | envelope
+romance
+parent
+venue
+arrest
+enjoy |  
+| bip_39_word_new_line7 | envelope
+romance
+parent
+venue
+arrest
+enjoy
+holiday |  
+| bip_39_word_new_line8 | envelope
+romance
+parent
+venue
+arrest
+enjoy
+holiday
+amused |  
+| bip_39_word_new_line9 | envelope
+romance
+parent
+venue
+arrest
+enjoy
+holiday
+amused
+police |  
+| bip_39_word_space_0 | ['envelope', 'romance', 'parent', 'venue', 'arrest', 'enjoy', 'holiday', 'amused', 'police', 'label', 'write', 'animal'] |  
+| bip_39_word_space_1 | envelope |  
+| bip_39_word_space_10 | envelope romance parent venue arrest enjoy holiday amused police label |  
+| bip_39_word_space_11 | envelope romance parent venue arrest enjoy holiday amused police label write |  
+| bip_39_word_space_12 | envelope romance parent venue arrest enjoy holiday amused police label write animal |  
+| bip_39_word_space_2 | envelope romance |  
+| bip_39_word_space_3 | envelope romance parent |  
+| bip_39_word_space_4 | envelope romance parent venue |  
+| bip_39_word_space_5 | envelope romance parent venue arrest |  
+| bip_39_word_space_6 | envelope romance parent venue arrest enjoy |  
+| bip_39_word_space_7 | envelope romance parent venue arrest enjoy holiday |  
+| bip_39_word_space_8 | envelope romance parent venue arrest enjoy holiday amused |  
+| bip_39_word_space_9 | envelope romance parent venue arrest enjoy holiday amused police |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: enough
+bip_39_word_new_br10: enough<br>hello<br>market<br>curve<br>maximum<br>lake<br>logic<br>lawn<br>pear<br>prefer
+bip_39_word_new_br11: enough<br>hello<br>market<br>curve<br>maximum<br>lake<br>logic<br>lawn<br>pear<br>prefer<br>miracle
+bip_39_word_new_br12: enough<br>hello<br>market<br>curve<br>maximum<br>lake<br>logic<br>lawn<br>pear<br>prefer<br>miracle<br>across
+bip_39_word_new_br2: enough<br>hello
+bip_39_word_new_br3: enough<br>hello<br>market
+bip_39_word_new_br4: enough<br>hello<br>market<br>curve
+bip_39_word_new_br5: enough<br>hello<br>market<br>curve<br>maximum
+bip_39_word_new_br6: enough<br>hello<br>market<br>curve<br>maximum<br>lake
+bip_39_word_new_br7: enough<br>hello<br>market<br>curve<br>maximum<br>lake<br>logic
+bip_39_word_new_br8: enough<br>hello<br>market<br>curve<br>maximum<br>lake<br>logic<br>lawn
+bip_39_word_new_br9: enough<br>hello<br>market<br>curve<br>maximum<br>lake<br>logic<br>lawn<br>pear
+bip_39_word_new_line1: enough
+bip_39_word_new_line10: 'enough
+
+  hello
+
+  market
+
+  curve
+
+  maximum
+
+  lake
+
+  logic
+
+  lawn
+
+  pear
+
+  prefer'
+bip_39_word_new_line11: 'enough
+
+  hello
+
+  market
+
+  curve
+
+  maximum
+
+  lake
+
+  logic
+
+  lawn
+
+  pear
+
+  prefer
+
+  miracle'
+bip_39_word_new_line12: 'enough
+
+  hello
+
+  market
+
+  curve
+
+  maximum
+
+  lake
+
+  logic
+
+  lawn
+
+  pear
+
+  prefer
+
+  miracle
+
+  across'
+bip_39_word_new_line2: 'enough
+
+  hello'
+bip_39_word_new_line3: 'enough
+
+  hello
+
+  market'
+bip_39_word_new_line4: 'enough
+
+  hello
+
+  market
+
+  curve'
+bip_39_word_new_line5: 'enough
+
+  hello
+
+  market
+
+  curve
+
+  maximum'
+bip_39_word_new_line6: 'enough
+
+  hello
+
+  market
+
+  curve
+
+  maximum
+
+  lake'
+bip_39_word_new_line7: 'enough
+
+  hello
+
+  market
+
+  curve
+
+  maximum
+
+  lake
+
+  logic'
+bip_39_word_new_line8: 'enough
+
+  hello
+
+  market
+
+  curve
+
+  maximum
+
+  lake
+
+  logic
+
+  lawn'
+bip_39_word_new_line9: 'enough
+
+  hello
+
+  market
+
+  curve
+
+  maximum
+
+  lake
+
+  logic
+
+  lawn
+
+  pear'
+bip_39_word_space_0:
+- enough
+- hello
+- market
+- curve
+- maximum
+- lake
+- logic
+- lawn
+- pear
+- prefer
+- miracle
+- across
+bip_39_word_space_1: enough
+bip_39_word_space_10: enough hello market curve maximum lake logic lawn pear prefer
+bip_39_word_space_11: enough hello market curve maximum lake logic lawn pear prefer
+  miracle
+bip_39_word_space_12: enough hello market curve maximum lake logic lawn pear prefer
+  miracle across
+bip_39_word_space_2: enough hello
+bip_39_word_space_3: enough hello market
+bip_39_word_space_4: enough hello market curve
+bip_39_word_space_5: enough hello market curve maximum
+bip_39_word_space_6: enough hello market curve maximum lake
+bip_39_word_space_7: enough hello market curve maximum lake logic
+bip_39_word_space_8: enough hello market curve maximum lake logic lawn
+bip_39_word_space_9: enough hello market curve maximum lake logic lawn pear
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

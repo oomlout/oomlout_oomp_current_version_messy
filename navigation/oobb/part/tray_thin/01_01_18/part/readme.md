@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: provide lens
+  * bip 39 word 3: provide lens vote
+  * bip 39 word: provide lens vote mad used monitor vote bus elevator banner drop apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | provide |  
+| bip_39_word_new_br10 | provide<br>lens<br>vote<br>mad<br>used<br>monitor<br>vote<br>bus<br>elevator<br>banner |  
+| bip_39_word_new_br11 | provide<br>lens<br>vote<br>mad<br>used<br>monitor<br>vote<br>bus<br>elevator<br>banner<br>drop |  
+| bip_39_word_new_br12 | provide<br>lens<br>vote<br>mad<br>used<br>monitor<br>vote<br>bus<br>elevator<br>banner<br>drop<br>apology |  
+| bip_39_word_new_br2 | provide<br>lens |  
+| bip_39_word_new_br3 | provide<br>lens<br>vote |  
+| bip_39_word_new_br4 | provide<br>lens<br>vote<br>mad |  
+| bip_39_word_new_br5 | provide<br>lens<br>vote<br>mad<br>used |  
+| bip_39_word_new_br6 | provide<br>lens<br>vote<br>mad<br>used<br>monitor |  
+| bip_39_word_new_br7 | provide<br>lens<br>vote<br>mad<br>used<br>monitor<br>vote |  
+| bip_39_word_new_br8 | provide<br>lens<br>vote<br>mad<br>used<br>monitor<br>vote<br>bus |  
+| bip_39_word_new_br9 | provide<br>lens<br>vote<br>mad<br>used<br>monitor<br>vote<br>bus<br>elevator |  
+| bip_39_word_new_line1 | provide |  
+| bip_39_word_new_line10 | provide
+lens
+vote
+mad
+used
+monitor
+vote
+bus
+elevator
+banner |  
+| bip_39_word_new_line11 | provide
+lens
+vote
+mad
+used
+monitor
+vote
+bus
+elevator
+banner
+drop |  
+| bip_39_word_new_line12 | provide
+lens
+vote
+mad
+used
+monitor
+vote
+bus
+elevator
+banner
+drop
+apology |  
+| bip_39_word_new_line2 | provide
+lens |  
+| bip_39_word_new_line3 | provide
+lens
+vote |  
+| bip_39_word_new_line4 | provide
+lens
+vote
+mad |  
+| bip_39_word_new_line5 | provide
+lens
+vote
+mad
+used |  
+| bip_39_word_new_line6 | provide
+lens
+vote
+mad
+used
+monitor |  
+| bip_39_word_new_line7 | provide
+lens
+vote
+mad
+used
+monitor
+vote |  
+| bip_39_word_new_line8 | provide
+lens
+vote
+mad
+used
+monitor
+vote
+bus |  
+| bip_39_word_new_line9 | provide
+lens
+vote
+mad
+used
+monitor
+vote
+bus
+elevator |  
+| bip_39_word_space_0 | ['provide', 'lens', 'vote', 'mad', 'used', 'monitor', 'vote', 'bus', 'elevator', 'banner', 'drop', 'apology'] |  
+| bip_39_word_space_1 | provide |  
+| bip_39_word_space_10 | provide lens vote mad used monitor vote bus elevator banner |  
+| bip_39_word_space_11 | provide lens vote mad used monitor vote bus elevator banner drop |  
+| bip_39_word_space_12 | provide lens vote mad used monitor vote bus elevator banner drop apology |  
+| bip_39_word_space_2 | provide lens |  
+| bip_39_word_space_3 | provide lens vote |  
+| bip_39_word_space_4 | provide lens vote mad |  
+| bip_39_word_space_5 | provide lens vote mad used |  
+| bip_39_word_space_6 | provide lens vote mad used monitor |  
+| bip_39_word_space_7 | provide lens vote mad used monitor vote |  
+| bip_39_word_space_8 | provide lens vote mad used monitor vote bus |  
+| bip_39_word_space_9 | provide lens vote mad used monitor vote bus elevator |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

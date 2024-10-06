@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lion find
+  * bip 39 word 3: lion find egg
+  * bip 39 word: lion find egg wreck reveal follow caution chimney game dignity knee apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lion |  
+| bip_39_word_new_br10 | lion<br>find<br>egg<br>wreck<br>reveal<br>follow<br>caution<br>chimney<br>game<br>dignity |  
+| bip_39_word_new_br11 | lion<br>find<br>egg<br>wreck<br>reveal<br>follow<br>caution<br>chimney<br>game<br>dignity<br>knee |  
+| bip_39_word_new_br12 | lion<br>find<br>egg<br>wreck<br>reveal<br>follow<br>caution<br>chimney<br>game<br>dignity<br>knee<br>apology |  
+| bip_39_word_new_br2 | lion<br>find |  
+| bip_39_word_new_br3 | lion<br>find<br>egg |  
+| bip_39_word_new_br4 | lion<br>find<br>egg<br>wreck |  
+| bip_39_word_new_br5 | lion<br>find<br>egg<br>wreck<br>reveal |  
+| bip_39_word_new_br6 | lion<br>find<br>egg<br>wreck<br>reveal<br>follow |  
+| bip_39_word_new_br7 | lion<br>find<br>egg<br>wreck<br>reveal<br>follow<br>caution |  
+| bip_39_word_new_br8 | lion<br>find<br>egg<br>wreck<br>reveal<br>follow<br>caution<br>chimney |  
+| bip_39_word_new_br9 | lion<br>find<br>egg<br>wreck<br>reveal<br>follow<br>caution<br>chimney<br>game |  
+| bip_39_word_new_line1 | lion |  
+| bip_39_word_new_line10 | lion
+find
+egg
+wreck
+reveal
+follow
+caution
+chimney
+game
+dignity |  
+| bip_39_word_new_line11 | lion
+find
+egg
+wreck
+reveal
+follow
+caution
+chimney
+game
+dignity
+knee |  
+| bip_39_word_new_line12 | lion
+find
+egg
+wreck
+reveal
+follow
+caution
+chimney
+game
+dignity
+knee
+apology |  
+| bip_39_word_new_line2 | lion
+find |  
+| bip_39_word_new_line3 | lion
+find
+egg |  
+| bip_39_word_new_line4 | lion
+find
+egg
+wreck |  
+| bip_39_word_new_line5 | lion
+find
+egg
+wreck
+reveal |  
+| bip_39_word_new_line6 | lion
+find
+egg
+wreck
+reveal
+follow |  
+| bip_39_word_new_line7 | lion
+find
+egg
+wreck
+reveal
+follow
+caution |  
+| bip_39_word_new_line8 | lion
+find
+egg
+wreck
+reveal
+follow
+caution
+chimney |  
+| bip_39_word_new_line9 | lion
+find
+egg
+wreck
+reveal
+follow
+caution
+chimney
+game |  
+| bip_39_word_space_0 | ['lion', 'find', 'egg', 'wreck', 'reveal', 'follow', 'caution', 'chimney', 'game', 'dignity', 'knee', 'apology'] |  
+| bip_39_word_space_1 | lion |  
+| bip_39_word_space_10 | lion find egg wreck reveal follow caution chimney game dignity |  
+| bip_39_word_space_11 | lion find egg wreck reveal follow caution chimney game dignity knee |  
+| bip_39_word_space_12 | lion find egg wreck reveal follow caution chimney game dignity knee apology |  
+| bip_39_word_space_2 | lion find |  
+| bip_39_word_space_3 | lion find egg |  
+| bip_39_word_space_4 | lion find egg wreck |  
+| bip_39_word_space_5 | lion find egg wreck reveal |  
+| bip_39_word_space_6 | lion find egg wreck reveal follow |  
+| bip_39_word_space_7 | lion find egg wreck reveal follow caution |  
+| bip_39_word_space_8 | lion find egg wreck reveal follow caution chimney |  
+| bip_39_word_space_9 | lion find egg wreck reveal follow caution chimney game |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

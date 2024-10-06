@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: monitor parade
+  * bip 39 word 3: monitor parade buzz
+  * bip 39 word: monitor parade buzz wide enrich silk jar milk kitten almost crisp avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | monitor |  
+| bip_39_word_new_br10 | monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk<br>kitten<br>almost |  
+| bip_39_word_new_br11 | monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk<br>kitten<br>almost<br>crisp |  
+| bip_39_word_new_br12 | monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk<br>kitten<br>almost<br>crisp<br>avocado |  
+| bip_39_word_new_br2 | monitor<br>parade |  
+| bip_39_word_new_br3 | monitor<br>parade<br>buzz |  
+| bip_39_word_new_br4 | monitor<br>parade<br>buzz<br>wide |  
+| bip_39_word_new_br5 | monitor<br>parade<br>buzz<br>wide<br>enrich |  
+| bip_39_word_new_br6 | monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk |  
+| bip_39_word_new_br7 | monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar |  
+| bip_39_word_new_br8 | monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk |  
+| bip_39_word_new_br9 | monitor<br>parade<br>buzz<br>wide<br>enrich<br>silk<br>jar<br>milk<br>kitten |  
+| bip_39_word_new_line1 | monitor |  
+| bip_39_word_new_line10 | monitor
+parade
+buzz
+wide
+enrich
+silk
+jar
+milk
+kitten
+almost |  
+| bip_39_word_new_line11 | monitor
+parade
+buzz
+wide
+enrich
+silk
+jar
+milk
+kitten
+almost
+crisp |  
+| bip_39_word_new_line12 | monitor
+parade
+buzz
+wide
+enrich
+silk
+jar
+milk
+kitten
+almost
+crisp
+avocado |  
+| bip_39_word_new_line2 | monitor
+parade |  
+| bip_39_word_new_line3 | monitor
+parade
+buzz |  
+| bip_39_word_new_line4 | monitor
+parade
+buzz
+wide |  
+| bip_39_word_new_line5 | monitor
+parade
+buzz
+wide
+enrich |  
+| bip_39_word_new_line6 | monitor
+parade
+buzz
+wide
+enrich
+silk |  
+| bip_39_word_new_line7 | monitor
+parade
+buzz
+wide
+enrich
+silk
+jar |  
+| bip_39_word_new_line8 | monitor
+parade
+buzz
+wide
+enrich
+silk
+jar
+milk |  
+| bip_39_word_new_line9 | monitor
+parade
+buzz
+wide
+enrich
+silk
+jar
+milk
+kitten |  
+| bip_39_word_space_0 | ['monitor', 'parade', 'buzz', 'wide', 'enrich', 'silk', 'jar', 'milk', 'kitten', 'almost', 'crisp', 'avocado'] |  
+| bip_39_word_space_1 | monitor |  
+| bip_39_word_space_10 | monitor parade buzz wide enrich silk jar milk kitten almost |  
+| bip_39_word_space_11 | monitor parade buzz wide enrich silk jar milk kitten almost crisp |  
+| bip_39_word_space_12 | monitor parade buzz wide enrich silk jar milk kitten almost crisp avocado |  
+| bip_39_word_space_2 | monitor parade |  
+| bip_39_word_space_3 | monitor parade buzz |  
+| bip_39_word_space_4 | monitor parade buzz wide |  
+| bip_39_word_space_5 | monitor parade buzz wide enrich |  
+| bip_39_word_space_6 | monitor parade buzz wide enrich silk |  
+| bip_39_word_space_7 | monitor parade buzz wide enrich silk jar |  
+| bip_39_word_space_8 | monitor parade buzz wide enrich silk jar milk |  
+| bip_39_word_space_9 | monitor parade buzz wide enrich silk jar milk kitten |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diagram once
+  * bip 39 word 3: diagram once wagon
+  * bip 39 word: diagram once wagon knock easily ladder hat slow flame average close analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diagram |  
+| bip_39_word_new_br10 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder<br>hat<br>slow<br>flame<br>average |  
+| bip_39_word_new_br11 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder<br>hat<br>slow<br>flame<br>average<br>close |  
+| bip_39_word_new_br12 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder<br>hat<br>slow<br>flame<br>average<br>close<br>analyst |  
+| bip_39_word_new_br2 | diagram<br>once |  
+| bip_39_word_new_br3 | diagram<br>once<br>wagon |  
+| bip_39_word_new_br4 | diagram<br>once<br>wagon<br>knock |  
+| bip_39_word_new_br5 | diagram<br>once<br>wagon<br>knock<br>easily |  
+| bip_39_word_new_br6 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder |  
+| bip_39_word_new_br7 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder<br>hat |  
+| bip_39_word_new_br8 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder<br>hat<br>slow |  
+| bip_39_word_new_br9 | diagram<br>once<br>wagon<br>knock<br>easily<br>ladder<br>hat<br>slow<br>flame |  
+| bip_39_word_new_line1 | diagram |  
+| bip_39_word_new_line10 | diagram
+once
+wagon
+knock
+easily
+ladder
+hat
+slow
+flame
+average |  
+| bip_39_word_new_line11 | diagram
+once
+wagon
+knock
+easily
+ladder
+hat
+slow
+flame
+average
+close |  
+| bip_39_word_new_line12 | diagram
+once
+wagon
+knock
+easily
+ladder
+hat
+slow
+flame
+average
+close
+analyst |  
+| bip_39_word_new_line2 | diagram
+once |  
+| bip_39_word_new_line3 | diagram
+once
+wagon |  
+| bip_39_word_new_line4 | diagram
+once
+wagon
+knock |  
+| bip_39_word_new_line5 | diagram
+once
+wagon
+knock
+easily |  
+| bip_39_word_new_line6 | diagram
+once
+wagon
+knock
+easily
+ladder |  
+| bip_39_word_new_line7 | diagram
+once
+wagon
+knock
+easily
+ladder
+hat |  
+| bip_39_word_new_line8 | diagram
+once
+wagon
+knock
+easily
+ladder
+hat
+slow |  
+| bip_39_word_new_line9 | diagram
+once
+wagon
+knock
+easily
+ladder
+hat
+slow
+flame |  
+| bip_39_word_space_0 | ['diagram', 'once', 'wagon', 'knock', 'easily', 'ladder', 'hat', 'slow', 'flame', 'average', 'close', 'analyst'] |  
+| bip_39_word_space_1 | diagram |  
+| bip_39_word_space_10 | diagram once wagon knock easily ladder hat slow flame average |  
+| bip_39_word_space_11 | diagram once wagon knock easily ladder hat slow flame average close |  
+| bip_39_word_space_12 | diagram once wagon knock easily ladder hat slow flame average close analyst |  
+| bip_39_word_space_2 | diagram once |  
+| bip_39_word_space_3 | diagram once wagon |  
+| bip_39_word_space_4 | diagram once wagon knock |  
+| bip_39_word_space_5 | diagram once wagon knock easily |  
+| bip_39_word_space_6 | diagram once wagon knock easily ladder |  
+| bip_39_word_space_7 | diagram once wagon knock easily ladder hat |  
+| bip_39_word_space_8 | diagram once wagon knock easily ladder hat slow |  
+| bip_39_word_space_9 | diagram once wagon knock easily ladder hat slow flame |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

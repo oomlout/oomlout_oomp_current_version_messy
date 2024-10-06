@@ -1,3 +1,187 @@
+bip_39_word_new_br1: prepare
+bip_39_word_new_br10: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle
+bip_39_word_new_br11: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame
+bip_39_word_new_br12: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame<br>admit
+bip_39_word_new_br2: prepare<br>arctic
+bip_39_word_new_br3: prepare<br>arctic<br>frog
+bip_39_word_new_br4: prepare<br>arctic<br>frog<br>unique
+bip_39_word_new_br5: prepare<br>arctic<br>frog<br>unique<br>inherit
+bip_39_word_new_br6: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple
+bip_39_word_new_br7: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor
+bip_39_word_new_br8: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder
+bip_39_word_new_br9: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast
+bip_39_word_new_line1: prepare
+bip_39_word_new_line10: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder
+
+  blast
+
+  ankle'
+bip_39_word_new_line11: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder
+
+  blast
+
+  ankle
+
+  flame'
+bip_39_word_new_line12: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder
+
+  blast
+
+  ankle
+
+  flame
+
+  admit'
+bip_39_word_new_line2: 'prepare
+
+  arctic'
+bip_39_word_new_line3: 'prepare
+
+  arctic
+
+  frog'
+bip_39_word_new_line4: 'prepare
+
+  arctic
+
+  frog
+
+  unique'
+bip_39_word_new_line5: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit'
+bip_39_word_new_line6: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple'
+bip_39_word_new_line7: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor'
+bip_39_word_new_line8: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder'
+bip_39_word_new_line9: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder
+
+  blast'
+bip_39_word_space_0:
+- prepare
+- arctic
+- frog
+- unique
+- inherit
+- simple
+- humor
+- powder
+- blast
+- ankle
+- flame
+- admit
+bip_39_word_space_1: prepare
+bip_39_word_space_10: prepare arctic frog unique inherit simple humor powder blast
+  ankle
+bip_39_word_space_11: prepare arctic frog unique inherit simple humor powder blast
+  ankle flame
+bip_39_word_space_12: prepare arctic frog unique inherit simple humor powder blast
+  ankle flame admit
+bip_39_word_space_2: prepare arctic
+bip_39_word_space_3: prepare arctic frog
+bip_39_word_space_4: prepare arctic frog unique
+bip_39_word_space_5: prepare arctic frog unique inherit
+bip_39_word_space_6: prepare arctic frog unique inherit simple
+bip_39_word_space_7: prepare arctic frog unique inherit simple humor
+bip_39_word_space_8: prepare arctic frog unique inherit simple humor powder
+bip_39_word_space_9: prepare arctic frog unique inherit simple humor powder blast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

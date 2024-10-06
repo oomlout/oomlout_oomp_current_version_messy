@@ -1,3 +1,187 @@
+bip_39_word_new_br1: flee
+bip_39_word_new_br10: flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding<br>broccoli<br>visual<br>cotton<br>sick
+bip_39_word_new_br11: flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding<br>broccoli<br>visual<br>cotton<br>sick<br>bracket
+bip_39_word_new_br12: flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding<br>broccoli<br>visual<br>cotton<br>sick<br>bracket<br>attitude
+bip_39_word_new_br2: flee<br>loan
+bip_39_word_new_br3: flee<br>loan<br>ancient
+bip_39_word_new_br4: flee<br>loan<br>ancient<br>jealous
+bip_39_word_new_br5: flee<br>loan<br>ancient<br>jealous<br>surface
+bip_39_word_new_br6: flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding
+bip_39_word_new_br7: flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding<br>broccoli
+bip_39_word_new_br8: flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding<br>broccoli<br>visual
+bip_39_word_new_br9: flee<br>loan<br>ancient<br>jealous<br>surface<br>wedding<br>broccoli<br>visual<br>cotton
+bip_39_word_new_line1: flee
+bip_39_word_new_line10: 'flee
+
+  loan
+
+  ancient
+
+  jealous
+
+  surface
+
+  wedding
+
+  broccoli
+
+  visual
+
+  cotton
+
+  sick'
+bip_39_word_new_line11: 'flee
+
+  loan
+
+  ancient
+
+  jealous
+
+  surface
+
+  wedding
+
+  broccoli
+
+  visual
+
+  cotton
+
+  sick
+
+  bracket'
+bip_39_word_new_line12: 'flee
+
+  loan
+
+  ancient
+
+  jealous
+
+  surface
+
+  wedding
+
+  broccoli
+
+  visual
+
+  cotton
+
+  sick
+
+  bracket
+
+  attitude'
+bip_39_word_new_line2: 'flee
+
+  loan'
+bip_39_word_new_line3: 'flee
+
+  loan
+
+  ancient'
+bip_39_word_new_line4: 'flee
+
+  loan
+
+  ancient
+
+  jealous'
+bip_39_word_new_line5: 'flee
+
+  loan
+
+  ancient
+
+  jealous
+
+  surface'
+bip_39_word_new_line6: 'flee
+
+  loan
+
+  ancient
+
+  jealous
+
+  surface
+
+  wedding'
+bip_39_word_new_line7: 'flee
+
+  loan
+
+  ancient
+
+  jealous
+
+  surface
+
+  wedding
+
+  broccoli'
+bip_39_word_new_line8: 'flee
+
+  loan
+
+  ancient
+
+  jealous
+
+  surface
+
+  wedding
+
+  broccoli
+
+  visual'
+bip_39_word_new_line9: 'flee
+
+  loan
+
+  ancient
+
+  jealous
+
+  surface
+
+  wedding
+
+  broccoli
+
+  visual
+
+  cotton'
+bip_39_word_space_0:
+- flee
+- loan
+- ancient
+- jealous
+- surface
+- wedding
+- broccoli
+- visual
+- cotton
+- sick
+- bracket
+- attitude
+bip_39_word_space_1: flee
+bip_39_word_space_10: flee loan ancient jealous surface wedding broccoli visual cotton
+  sick
+bip_39_word_space_11: flee loan ancient jealous surface wedding broccoli visual cotton
+  sick bracket
+bip_39_word_space_12: flee loan ancient jealous surface wedding broccoli visual cotton
+  sick bracket attitude
+bip_39_word_space_2: flee loan
+bip_39_word_space_3: flee loan ancient
+bip_39_word_space_4: flee loan ancient jealous
+bip_39_word_space_5: flee loan ancient jealous surface
+bip_39_word_space_6: flee loan ancient jealous surface wedding
+bip_39_word_space_7: flee loan ancient jealous surface wedding broccoli
+bip_39_word_space_8: flee loan ancient jealous surface wedding broccoli visual
+bip_39_word_space_9: flee loan ancient jealous surface wedding broccoli visual cotton
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

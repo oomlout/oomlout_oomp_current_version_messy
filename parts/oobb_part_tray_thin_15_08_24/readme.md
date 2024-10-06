@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: come lab
+  * bip 39 word 3: come lab bullet
+  * bip 39 word: come lab bullet husband reform retreat job narrow peanut rent range average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | come |  
+| bip_39_word_new_br10 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat<br>job<br>narrow<br>peanut<br>rent |  
+| bip_39_word_new_br11 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat<br>job<br>narrow<br>peanut<br>rent<br>range |  
+| bip_39_word_new_br12 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat<br>job<br>narrow<br>peanut<br>rent<br>range<br>average |  
+| bip_39_word_new_br2 | come<br>lab |  
+| bip_39_word_new_br3 | come<br>lab<br>bullet |  
+| bip_39_word_new_br4 | come<br>lab<br>bullet<br>husband |  
+| bip_39_word_new_br5 | come<br>lab<br>bullet<br>husband<br>reform |  
+| bip_39_word_new_br6 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat |  
+| bip_39_word_new_br7 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat<br>job |  
+| bip_39_word_new_br8 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat<br>job<br>narrow |  
+| bip_39_word_new_br9 | come<br>lab<br>bullet<br>husband<br>reform<br>retreat<br>job<br>narrow<br>peanut |  
+| bip_39_word_new_line1 | come |  
+| bip_39_word_new_line10 | come
+lab
+bullet
+husband
+reform
+retreat
+job
+narrow
+peanut
+rent |  
+| bip_39_word_new_line11 | come
+lab
+bullet
+husband
+reform
+retreat
+job
+narrow
+peanut
+rent
+range |  
+| bip_39_word_new_line12 | come
+lab
+bullet
+husband
+reform
+retreat
+job
+narrow
+peanut
+rent
+range
+average |  
+| bip_39_word_new_line2 | come
+lab |  
+| bip_39_word_new_line3 | come
+lab
+bullet |  
+| bip_39_word_new_line4 | come
+lab
+bullet
+husband |  
+| bip_39_word_new_line5 | come
+lab
+bullet
+husband
+reform |  
+| bip_39_word_new_line6 | come
+lab
+bullet
+husband
+reform
+retreat |  
+| bip_39_word_new_line7 | come
+lab
+bullet
+husband
+reform
+retreat
+job |  
+| bip_39_word_new_line8 | come
+lab
+bullet
+husband
+reform
+retreat
+job
+narrow |  
+| bip_39_word_new_line9 | come
+lab
+bullet
+husband
+reform
+retreat
+job
+narrow
+peanut |  
+| bip_39_word_space_0 | ['come', 'lab', 'bullet', 'husband', 'reform', 'retreat', 'job', 'narrow', 'peanut', 'rent', 'range', 'average'] |  
+| bip_39_word_space_1 | come |  
+| bip_39_word_space_10 | come lab bullet husband reform retreat job narrow peanut rent |  
+| bip_39_word_space_11 | come lab bullet husband reform retreat job narrow peanut rent range |  
+| bip_39_word_space_12 | come lab bullet husband reform retreat job narrow peanut rent range average |  
+| bip_39_word_space_2 | come lab |  
+| bip_39_word_space_3 | come lab bullet |  
+| bip_39_word_space_4 | come lab bullet husband |  
+| bip_39_word_space_5 | come lab bullet husband reform |  
+| bip_39_word_space_6 | come lab bullet husband reform retreat |  
+| bip_39_word_space_7 | come lab bullet husband reform retreat job |  
+| bip_39_word_space_8 | come lab bullet husband reform retreat job narrow |  
+| bip_39_word_space_9 | come lab bullet husband reform retreat job narrow peanut |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

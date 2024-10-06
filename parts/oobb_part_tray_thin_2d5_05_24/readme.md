@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tower father
+  * bip 39 word 3: tower father amateur
+  * bip 39 word: tower father amateur art erode empower fuel island suspect dance traffic absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tower |  
+| bip_39_word_new_br10 | tower<br>father<br>amateur<br>art<br>erode<br>empower<br>fuel<br>island<br>suspect<br>dance |  
+| bip_39_word_new_br11 | tower<br>father<br>amateur<br>art<br>erode<br>empower<br>fuel<br>island<br>suspect<br>dance<br>traffic |  
+| bip_39_word_new_br12 | tower<br>father<br>amateur<br>art<br>erode<br>empower<br>fuel<br>island<br>suspect<br>dance<br>traffic<br>absurd |  
+| bip_39_word_new_br2 | tower<br>father |  
+| bip_39_word_new_br3 | tower<br>father<br>amateur |  
+| bip_39_word_new_br4 | tower<br>father<br>amateur<br>art |  
+| bip_39_word_new_br5 | tower<br>father<br>amateur<br>art<br>erode |  
+| bip_39_word_new_br6 | tower<br>father<br>amateur<br>art<br>erode<br>empower |  
+| bip_39_word_new_br7 | tower<br>father<br>amateur<br>art<br>erode<br>empower<br>fuel |  
+| bip_39_word_new_br8 | tower<br>father<br>amateur<br>art<br>erode<br>empower<br>fuel<br>island |  
+| bip_39_word_new_br9 | tower<br>father<br>amateur<br>art<br>erode<br>empower<br>fuel<br>island<br>suspect |  
+| bip_39_word_new_line1 | tower |  
+| bip_39_word_new_line10 | tower
+father
+amateur
+art
+erode
+empower
+fuel
+island
+suspect
+dance |  
+| bip_39_word_new_line11 | tower
+father
+amateur
+art
+erode
+empower
+fuel
+island
+suspect
+dance
+traffic |  
+| bip_39_word_new_line12 | tower
+father
+amateur
+art
+erode
+empower
+fuel
+island
+suspect
+dance
+traffic
+absurd |  
+| bip_39_word_new_line2 | tower
+father |  
+| bip_39_word_new_line3 | tower
+father
+amateur |  
+| bip_39_word_new_line4 | tower
+father
+amateur
+art |  
+| bip_39_word_new_line5 | tower
+father
+amateur
+art
+erode |  
+| bip_39_word_new_line6 | tower
+father
+amateur
+art
+erode
+empower |  
+| bip_39_word_new_line7 | tower
+father
+amateur
+art
+erode
+empower
+fuel |  
+| bip_39_word_new_line8 | tower
+father
+amateur
+art
+erode
+empower
+fuel
+island |  
+| bip_39_word_new_line9 | tower
+father
+amateur
+art
+erode
+empower
+fuel
+island
+suspect |  
+| bip_39_word_space_0 | ['tower', 'father', 'amateur', 'art', 'erode', 'empower', 'fuel', 'island', 'suspect', 'dance', 'traffic', 'absurd'] |  
+| bip_39_word_space_1 | tower |  
+| bip_39_word_space_10 | tower father amateur art erode empower fuel island suspect dance |  
+| bip_39_word_space_11 | tower father amateur art erode empower fuel island suspect dance traffic |  
+| bip_39_word_space_12 | tower father amateur art erode empower fuel island suspect dance traffic absurd |  
+| bip_39_word_space_2 | tower father |  
+| bip_39_word_space_3 | tower father amateur |  
+| bip_39_word_space_4 | tower father amateur art |  
+| bip_39_word_space_5 | tower father amateur art erode |  
+| bip_39_word_space_6 | tower father amateur art erode empower |  
+| bip_39_word_space_7 | tower father amateur art erode empower fuel |  
+| bip_39_word_space_8 | tower father amateur art erode empower fuel island |  
+| bip_39_word_space_9 | tower father amateur art erode empower fuel island suspect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hobby spider
+  * bip 39 word 3: hobby spider addict
+  * bip 39 word: hobby spider addict dilemma vessel fold immune educate sister spare hunt apple
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hobby |  
+| bip_39_word_new_br10 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister<br>spare |  
+| bip_39_word_new_br11 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister<br>spare<br>hunt |  
+| bip_39_word_new_br12 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister<br>spare<br>hunt<br>apple |  
+| bip_39_word_new_br2 | hobby<br>spider |  
+| bip_39_word_new_br3 | hobby<br>spider<br>addict |  
+| bip_39_word_new_br4 | hobby<br>spider<br>addict<br>dilemma |  
+| bip_39_word_new_br5 | hobby<br>spider<br>addict<br>dilemma<br>vessel |  
+| bip_39_word_new_br6 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold |  
+| bip_39_word_new_br7 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune |  
+| bip_39_word_new_br8 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate |  
+| bip_39_word_new_br9 | hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister |  
+| bip_39_word_new_line1 | hobby |  
+| bip_39_word_new_line10 | hobby
+spider
+addict
+dilemma
+vessel
+fold
+immune
+educate
+sister
+spare |  
+| bip_39_word_new_line11 | hobby
+spider
+addict
+dilemma
+vessel
+fold
+immune
+educate
+sister
+spare
+hunt |  
+| bip_39_word_new_line12 | hobby
+spider
+addict
+dilemma
+vessel
+fold
+immune
+educate
+sister
+spare
+hunt
+apple |  
+| bip_39_word_new_line2 | hobby
+spider |  
+| bip_39_word_new_line3 | hobby
+spider
+addict |  
+| bip_39_word_new_line4 | hobby
+spider
+addict
+dilemma |  
+| bip_39_word_new_line5 | hobby
+spider
+addict
+dilemma
+vessel |  
+| bip_39_word_new_line6 | hobby
+spider
+addict
+dilemma
+vessel
+fold |  
+| bip_39_word_new_line7 | hobby
+spider
+addict
+dilemma
+vessel
+fold
+immune |  
+| bip_39_word_new_line8 | hobby
+spider
+addict
+dilemma
+vessel
+fold
+immune
+educate |  
+| bip_39_word_new_line9 | hobby
+spider
+addict
+dilemma
+vessel
+fold
+immune
+educate
+sister |  
+| bip_39_word_space_0 | ['hobby', 'spider', 'addict', 'dilemma', 'vessel', 'fold', 'immune', 'educate', 'sister', 'spare', 'hunt', 'apple'] |  
+| bip_39_word_space_1 | hobby |  
+| bip_39_word_space_10 | hobby spider addict dilemma vessel fold immune educate sister spare |  
+| bip_39_word_space_11 | hobby spider addict dilemma vessel fold immune educate sister spare hunt |  
+| bip_39_word_space_12 | hobby spider addict dilemma vessel fold immune educate sister spare hunt apple |  
+| bip_39_word_space_2 | hobby spider |  
+| bip_39_word_space_3 | hobby spider addict |  
+| bip_39_word_space_4 | hobby spider addict dilemma |  
+| bip_39_word_space_5 | hobby spider addict dilemma vessel |  
+| bip_39_word_space_6 | hobby spider addict dilemma vessel fold |  
+| bip_39_word_space_7 | hobby spider addict dilemma vessel fold immune |  
+| bip_39_word_space_8 | hobby spider addict dilemma vessel fold immune educate |  
+| bip_39_word_space_9 | hobby spider addict dilemma vessel fold immune educate sister |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mom
+bip_39_word_new_br10: mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare
+bip_39_word_new_br11: mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare<br>ugly
+bip_39_word_new_br12: mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance<br>scare<br>ugly<br>amused
+bip_39_word_new_br2: mom<br>dog
+bip_39_word_new_br3: mom<br>dog<br>acoustic
+bip_39_word_new_br4: mom<br>dog<br>acoustic<br>subway
+bip_39_word_new_br5: mom<br>dog<br>acoustic<br>subway<br>front
+bip_39_word_new_br6: mom<br>dog<br>acoustic<br>subway<br>front<br>pistol
+bip_39_word_new_br7: mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you
+bip_39_word_new_br8: mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover
+bip_39_word_new_br9: mom<br>dog<br>acoustic<br>subway<br>front<br>pistol<br>you<br>hover<br>glance
+bip_39_word_new_line1: mom
+bip_39_word_new_line10: 'mom
+
+  dog
+
+  acoustic
+
+  subway
+
+  front
+
+  pistol
+
+  you
+
+  hover
+
+  glance
+
+  scare'
+bip_39_word_new_line11: 'mom
+
+  dog
+
+  acoustic
+
+  subway
+
+  front
+
+  pistol
+
+  you
+
+  hover
+
+  glance
+
+  scare
+
+  ugly'
+bip_39_word_new_line12: 'mom
+
+  dog
+
+  acoustic
+
+  subway
+
+  front
+
+  pistol
+
+  you
+
+  hover
+
+  glance
+
+  scare
+
+  ugly
+
+  amused'
+bip_39_word_new_line2: 'mom
+
+  dog'
+bip_39_word_new_line3: 'mom
+
+  dog
+
+  acoustic'
+bip_39_word_new_line4: 'mom
+
+  dog
+
+  acoustic
+
+  subway'
+bip_39_word_new_line5: 'mom
+
+  dog
+
+  acoustic
+
+  subway
+
+  front'
+bip_39_word_new_line6: 'mom
+
+  dog
+
+  acoustic
+
+  subway
+
+  front
+
+  pistol'
+bip_39_word_new_line7: 'mom
+
+  dog
+
+  acoustic
+
+  subway
+
+  front
+
+  pistol
+
+  you'
+bip_39_word_new_line8: 'mom
+
+  dog
+
+  acoustic
+
+  subway
+
+  front
+
+  pistol
+
+  you
+
+  hover'
+bip_39_word_new_line9: 'mom
+
+  dog
+
+  acoustic
+
+  subway
+
+  front
+
+  pistol
+
+  you
+
+  hover
+
+  glance'
+bip_39_word_space_0:
+- mom
+- dog
+- acoustic
+- subway
+- front
+- pistol
+- you
+- hover
+- glance
+- scare
+- ugly
+- amused
+bip_39_word_space_1: mom
+bip_39_word_space_10: mom dog acoustic subway front pistol you hover glance scare
+bip_39_word_space_11: mom dog acoustic subway front pistol you hover glance scare
+  ugly
+bip_39_word_space_12: mom dog acoustic subway front pistol you hover glance scare
+  ugly amused
+bip_39_word_space_2: mom dog
+bip_39_word_space_3: mom dog acoustic
+bip_39_word_space_4: mom dog acoustic subway
+bip_39_word_space_5: mom dog acoustic subway front
+bip_39_word_space_6: mom dog acoustic subway front pistol
+bip_39_word_space_7: mom dog acoustic subway front pistol you
+bip_39_word_space_8: mom dog acoustic subway front pistol you hover
+bip_39_word_space_9: mom dog acoustic subway front pistol you hover glance
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

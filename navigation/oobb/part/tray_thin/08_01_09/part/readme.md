@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dignity future
+  * bip 39 word 3: dignity future they
+  * bip 39 word: dignity future they hour gold chief fun nurse labor tilt ignore alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dignity |  
+| bip_39_word_new_br10 | dignity<br>future<br>they<br>hour<br>gold<br>chief<br>fun<br>nurse<br>labor<br>tilt |  
+| bip_39_word_new_br11 | dignity<br>future<br>they<br>hour<br>gold<br>chief<br>fun<br>nurse<br>labor<br>tilt<br>ignore |  
+| bip_39_word_new_br12 | dignity<br>future<br>they<br>hour<br>gold<br>chief<br>fun<br>nurse<br>labor<br>tilt<br>ignore<br>alert |  
+| bip_39_word_new_br2 | dignity<br>future |  
+| bip_39_word_new_br3 | dignity<br>future<br>they |  
+| bip_39_word_new_br4 | dignity<br>future<br>they<br>hour |  
+| bip_39_word_new_br5 | dignity<br>future<br>they<br>hour<br>gold |  
+| bip_39_word_new_br6 | dignity<br>future<br>they<br>hour<br>gold<br>chief |  
+| bip_39_word_new_br7 | dignity<br>future<br>they<br>hour<br>gold<br>chief<br>fun |  
+| bip_39_word_new_br8 | dignity<br>future<br>they<br>hour<br>gold<br>chief<br>fun<br>nurse |  
+| bip_39_word_new_br9 | dignity<br>future<br>they<br>hour<br>gold<br>chief<br>fun<br>nurse<br>labor |  
+| bip_39_word_new_line1 | dignity |  
+| bip_39_word_new_line10 | dignity
+future
+they
+hour
+gold
+chief
+fun
+nurse
+labor
+tilt |  
+| bip_39_word_new_line11 | dignity
+future
+they
+hour
+gold
+chief
+fun
+nurse
+labor
+tilt
+ignore |  
+| bip_39_word_new_line12 | dignity
+future
+they
+hour
+gold
+chief
+fun
+nurse
+labor
+tilt
+ignore
+alert |  
+| bip_39_word_new_line2 | dignity
+future |  
+| bip_39_word_new_line3 | dignity
+future
+they |  
+| bip_39_word_new_line4 | dignity
+future
+they
+hour |  
+| bip_39_word_new_line5 | dignity
+future
+they
+hour
+gold |  
+| bip_39_word_new_line6 | dignity
+future
+they
+hour
+gold
+chief |  
+| bip_39_word_new_line7 | dignity
+future
+they
+hour
+gold
+chief
+fun |  
+| bip_39_word_new_line8 | dignity
+future
+they
+hour
+gold
+chief
+fun
+nurse |  
+| bip_39_word_new_line9 | dignity
+future
+they
+hour
+gold
+chief
+fun
+nurse
+labor |  
+| bip_39_word_space_0 | ['dignity', 'future', 'they', 'hour', 'gold', 'chief', 'fun', 'nurse', 'labor', 'tilt', 'ignore', 'alert'] |  
+| bip_39_word_space_1 | dignity |  
+| bip_39_word_space_10 | dignity future they hour gold chief fun nurse labor tilt |  
+| bip_39_word_space_11 | dignity future they hour gold chief fun nurse labor tilt ignore |  
+| bip_39_word_space_12 | dignity future they hour gold chief fun nurse labor tilt ignore alert |  
+| bip_39_word_space_2 | dignity future |  
+| bip_39_word_space_3 | dignity future they |  
+| bip_39_word_space_4 | dignity future they hour |  
+| bip_39_word_space_5 | dignity future they hour gold |  
+| bip_39_word_space_6 | dignity future they hour gold chief |  
+| bip_39_word_space_7 | dignity future they hour gold chief fun |  
+| bip_39_word_space_8 | dignity future they hour gold chief fun nurse |  
+| bip_39_word_space_9 | dignity future they hour gold chief fun nurse labor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

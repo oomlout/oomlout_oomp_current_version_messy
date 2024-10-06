@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dynamic hover
+  * bip 39 word 3: dynamic hover inflict
+  * bip 39 word: dynamic hover inflict destroy clay lesson tackle offer either canyon stove asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dynamic |  
+| bip_39_word_new_br10 | dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson<br>tackle<br>offer<br>either<br>canyon |  
+| bip_39_word_new_br11 | dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson<br>tackle<br>offer<br>either<br>canyon<br>stove |  
+| bip_39_word_new_br12 | dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson<br>tackle<br>offer<br>either<br>canyon<br>stove<br>asset |  
+| bip_39_word_new_br2 | dynamic<br>hover |  
+| bip_39_word_new_br3 | dynamic<br>hover<br>inflict |  
+| bip_39_word_new_br4 | dynamic<br>hover<br>inflict<br>destroy |  
+| bip_39_word_new_br5 | dynamic<br>hover<br>inflict<br>destroy<br>clay |  
+| bip_39_word_new_br6 | dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson |  
+| bip_39_word_new_br7 | dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson<br>tackle |  
+| bip_39_word_new_br8 | dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson<br>tackle<br>offer |  
+| bip_39_word_new_br9 | dynamic<br>hover<br>inflict<br>destroy<br>clay<br>lesson<br>tackle<br>offer<br>either |  
+| bip_39_word_new_line1 | dynamic |  
+| bip_39_word_new_line10 | dynamic
+hover
+inflict
+destroy
+clay
+lesson
+tackle
+offer
+either
+canyon |  
+| bip_39_word_new_line11 | dynamic
+hover
+inflict
+destroy
+clay
+lesson
+tackle
+offer
+either
+canyon
+stove |  
+| bip_39_word_new_line12 | dynamic
+hover
+inflict
+destroy
+clay
+lesson
+tackle
+offer
+either
+canyon
+stove
+asset |  
+| bip_39_word_new_line2 | dynamic
+hover |  
+| bip_39_word_new_line3 | dynamic
+hover
+inflict |  
+| bip_39_word_new_line4 | dynamic
+hover
+inflict
+destroy |  
+| bip_39_word_new_line5 | dynamic
+hover
+inflict
+destroy
+clay |  
+| bip_39_word_new_line6 | dynamic
+hover
+inflict
+destroy
+clay
+lesson |  
+| bip_39_word_new_line7 | dynamic
+hover
+inflict
+destroy
+clay
+lesson
+tackle |  
+| bip_39_word_new_line8 | dynamic
+hover
+inflict
+destroy
+clay
+lesson
+tackle
+offer |  
+| bip_39_word_new_line9 | dynamic
+hover
+inflict
+destroy
+clay
+lesson
+tackle
+offer
+either |  
+| bip_39_word_space_0 | ['dynamic', 'hover', 'inflict', 'destroy', 'clay', 'lesson', 'tackle', 'offer', 'either', 'canyon', 'stove', 'asset'] |  
+| bip_39_word_space_1 | dynamic |  
+| bip_39_word_space_10 | dynamic hover inflict destroy clay lesson tackle offer either canyon |  
+| bip_39_word_space_11 | dynamic hover inflict destroy clay lesson tackle offer either canyon stove |  
+| bip_39_word_space_12 | dynamic hover inflict destroy clay lesson tackle offer either canyon stove asset |  
+| bip_39_word_space_2 | dynamic hover |  
+| bip_39_word_space_3 | dynamic hover inflict |  
+| bip_39_word_space_4 | dynamic hover inflict destroy |  
+| bip_39_word_space_5 | dynamic hover inflict destroy clay |  
+| bip_39_word_space_6 | dynamic hover inflict destroy clay lesson |  
+| bip_39_word_space_7 | dynamic hover inflict destroy clay lesson tackle |  
+| bip_39_word_space_8 | dynamic hover inflict destroy clay lesson tackle offer |  
+| bip_39_word_space_9 | dynamic hover inflict destroy clay lesson tackle offer either |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

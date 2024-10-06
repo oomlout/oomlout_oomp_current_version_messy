@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: purpose news
+  * bip 39 word 3: purpose news labor
+  * bip 39 word: purpose news labor sugar hold era cake trumpet snake food betray acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | purpose |  
+| bip_39_word_new_br10 | purpose<br>news<br>labor<br>sugar<br>hold<br>era<br>cake<br>trumpet<br>snake<br>food |  
+| bip_39_word_new_br11 | purpose<br>news<br>labor<br>sugar<br>hold<br>era<br>cake<br>trumpet<br>snake<br>food<br>betray |  
+| bip_39_word_new_br12 | purpose<br>news<br>labor<br>sugar<br>hold<br>era<br>cake<br>trumpet<br>snake<br>food<br>betray<br>acoustic |  
+| bip_39_word_new_br2 | purpose<br>news |  
+| bip_39_word_new_br3 | purpose<br>news<br>labor |  
+| bip_39_word_new_br4 | purpose<br>news<br>labor<br>sugar |  
+| bip_39_word_new_br5 | purpose<br>news<br>labor<br>sugar<br>hold |  
+| bip_39_word_new_br6 | purpose<br>news<br>labor<br>sugar<br>hold<br>era |  
+| bip_39_word_new_br7 | purpose<br>news<br>labor<br>sugar<br>hold<br>era<br>cake |  
+| bip_39_word_new_br8 | purpose<br>news<br>labor<br>sugar<br>hold<br>era<br>cake<br>trumpet |  
+| bip_39_word_new_br9 | purpose<br>news<br>labor<br>sugar<br>hold<br>era<br>cake<br>trumpet<br>snake |  
+| bip_39_word_new_line1 | purpose |  
+| bip_39_word_new_line10 | purpose
+news
+labor
+sugar
+hold
+era
+cake
+trumpet
+snake
+food |  
+| bip_39_word_new_line11 | purpose
+news
+labor
+sugar
+hold
+era
+cake
+trumpet
+snake
+food
+betray |  
+| bip_39_word_new_line12 | purpose
+news
+labor
+sugar
+hold
+era
+cake
+trumpet
+snake
+food
+betray
+acoustic |  
+| bip_39_word_new_line2 | purpose
+news |  
+| bip_39_word_new_line3 | purpose
+news
+labor |  
+| bip_39_word_new_line4 | purpose
+news
+labor
+sugar |  
+| bip_39_word_new_line5 | purpose
+news
+labor
+sugar
+hold |  
+| bip_39_word_new_line6 | purpose
+news
+labor
+sugar
+hold
+era |  
+| bip_39_word_new_line7 | purpose
+news
+labor
+sugar
+hold
+era
+cake |  
+| bip_39_word_new_line8 | purpose
+news
+labor
+sugar
+hold
+era
+cake
+trumpet |  
+| bip_39_word_new_line9 | purpose
+news
+labor
+sugar
+hold
+era
+cake
+trumpet
+snake |  
+| bip_39_word_space_0 | ['purpose', 'news', 'labor', 'sugar', 'hold', 'era', 'cake', 'trumpet', 'snake', 'food', 'betray', 'acoustic'] |  
+| bip_39_word_space_1 | purpose |  
+| bip_39_word_space_10 | purpose news labor sugar hold era cake trumpet snake food |  
+| bip_39_word_space_11 | purpose news labor sugar hold era cake trumpet snake food betray |  
+| bip_39_word_space_12 | purpose news labor sugar hold era cake trumpet snake food betray acoustic |  
+| bip_39_word_space_2 | purpose news |  
+| bip_39_word_space_3 | purpose news labor |  
+| bip_39_word_space_4 | purpose news labor sugar |  
+| bip_39_word_space_5 | purpose news labor sugar hold |  
+| bip_39_word_space_6 | purpose news labor sugar hold era |  
+| bip_39_word_space_7 | purpose news labor sugar hold era cake |  
+| bip_39_word_space_8 | purpose news labor sugar hold era cake trumpet |  
+| bip_39_word_space_9 | purpose news labor sugar hold era cake trumpet snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

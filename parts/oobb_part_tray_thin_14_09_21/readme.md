@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shuffle govern
+  * bip 39 word 3: shuffle govern tag
+  * bip 39 word: shuffle govern tag wrist decide twice once version mouse lend exist arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shuffle |  
+| bip_39_word_new_br10 | shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice<br>once<br>version<br>mouse<br>lend |  
+| bip_39_word_new_br11 | shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice<br>once<br>version<br>mouse<br>lend<br>exist |  
+| bip_39_word_new_br12 | shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice<br>once<br>version<br>mouse<br>lend<br>exist<br>arch |  
+| bip_39_word_new_br2 | shuffle<br>govern |  
+| bip_39_word_new_br3 | shuffle<br>govern<br>tag |  
+| bip_39_word_new_br4 | shuffle<br>govern<br>tag<br>wrist |  
+| bip_39_word_new_br5 | shuffle<br>govern<br>tag<br>wrist<br>decide |  
+| bip_39_word_new_br6 | shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice |  
+| bip_39_word_new_br7 | shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice<br>once |  
+| bip_39_word_new_br8 | shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice<br>once<br>version |  
+| bip_39_word_new_br9 | shuffle<br>govern<br>tag<br>wrist<br>decide<br>twice<br>once<br>version<br>mouse |  
+| bip_39_word_new_line1 | shuffle |  
+| bip_39_word_new_line10 | shuffle
+govern
+tag
+wrist
+decide
+twice
+once
+version
+mouse
+lend |  
+| bip_39_word_new_line11 | shuffle
+govern
+tag
+wrist
+decide
+twice
+once
+version
+mouse
+lend
+exist |  
+| bip_39_word_new_line12 | shuffle
+govern
+tag
+wrist
+decide
+twice
+once
+version
+mouse
+lend
+exist
+arch |  
+| bip_39_word_new_line2 | shuffle
+govern |  
+| bip_39_word_new_line3 | shuffle
+govern
+tag |  
+| bip_39_word_new_line4 | shuffle
+govern
+tag
+wrist |  
+| bip_39_word_new_line5 | shuffle
+govern
+tag
+wrist
+decide |  
+| bip_39_word_new_line6 | shuffle
+govern
+tag
+wrist
+decide
+twice |  
+| bip_39_word_new_line7 | shuffle
+govern
+tag
+wrist
+decide
+twice
+once |  
+| bip_39_word_new_line8 | shuffle
+govern
+tag
+wrist
+decide
+twice
+once
+version |  
+| bip_39_word_new_line9 | shuffle
+govern
+tag
+wrist
+decide
+twice
+once
+version
+mouse |  
+| bip_39_word_space_0 | ['shuffle', 'govern', 'tag', 'wrist', 'decide', 'twice', 'once', 'version', 'mouse', 'lend', 'exist', 'arch'] |  
+| bip_39_word_space_1 | shuffle |  
+| bip_39_word_space_10 | shuffle govern tag wrist decide twice once version mouse lend |  
+| bip_39_word_space_11 | shuffle govern tag wrist decide twice once version mouse lend exist |  
+| bip_39_word_space_12 | shuffle govern tag wrist decide twice once version mouse lend exist arch |  
+| bip_39_word_space_2 | shuffle govern |  
+| bip_39_word_space_3 | shuffle govern tag |  
+| bip_39_word_space_4 | shuffle govern tag wrist |  
+| bip_39_word_space_5 | shuffle govern tag wrist decide |  
+| bip_39_word_space_6 | shuffle govern tag wrist decide twice |  
+| bip_39_word_space_7 | shuffle govern tag wrist decide twice once |  
+| bip_39_word_space_8 | shuffle govern tag wrist decide twice once version |  
+| bip_39_word_space_9 | shuffle govern tag wrist decide twice once version mouse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

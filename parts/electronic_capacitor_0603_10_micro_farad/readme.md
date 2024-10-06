@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aerobic pioneer
+  * bip 39 word 3: aerobic pioneer pottery
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aerobic |  
+| bip_39_word_new_br10 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip |  
+| bip_39_word_new_br11 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip<br>spy |  
+| bip_39_word_new_br2 | aerobic<br>pioneer |  
+| bip_39_word_new_br3 | aerobic<br>pioneer<br>pottery |  
+| bip_39_word_new_br4 | aerobic<br>pioneer<br>pottery<br>write |  
+| bip_39_word_new_br5 | aerobic<br>pioneer<br>pottery<br>write<br>fever |  
+| bip_39_word_new_br6 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect |  
+| bip_39_word_new_br7 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat |  
+| bip_39_word_new_br8 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny |  
+| bip_39_word_new_br9 | aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver |  
+| bip_39_word_new_line1 | aerobic |  
+| bip_39_word_new_line10 | aerobic
+pioneer
+pottery
+write
+fever
+connect
+treat
+sunny
+shiver
+equip |  
+| bip_39_word_new_line11 | aerobic
+pioneer
+pottery
+write
+fever
+connect
+treat
+sunny
+shiver
+equip
+spy |  
+| bip_39_word_new_line2 | aerobic
+pioneer |  
+| bip_39_word_new_line3 | aerobic
+pioneer
+pottery |  
+| bip_39_word_new_line4 | aerobic
+pioneer
+pottery
+write |  
+| bip_39_word_new_line5 | aerobic
+pioneer
+pottery
+write
+fever |  
+| bip_39_word_new_line6 | aerobic
+pioneer
+pottery
+write
+fever
+connect |  
+| bip_39_word_new_line7 | aerobic
+pioneer
+pottery
+write
+fever
+connect
+treat |  
+| bip_39_word_new_line8 | aerobic
+pioneer
+pottery
+write
+fever
+connect
+treat
+sunny |  
+| bip_39_word_new_line9 | aerobic
+pioneer
+pottery
+write
+fever
+connect
+treat
+sunny
+shiver |  
+| bip_39_word_space_0 | ['aerobic', 'pioneer', 'pottery', 'write', 'fever', 'connect', 'treat', 'sunny', 'shiver', 'equip', 'spy'] |  
+| bip_39_word_space_1 | aerobic |  
+| bip_39_word_space_10 | aerobic pioneer pottery write fever connect treat sunny shiver equip |  
+| bip_39_word_space_11 | aerobic pioneer pottery write fever connect treat sunny shiver equip spy |  
+| bip_39_word_space_2 | aerobic pioneer |  
+| bip_39_word_space_3 | aerobic pioneer pottery |  
+| bip_39_word_space_4 | aerobic pioneer pottery write |  
+| bip_39_word_space_5 | aerobic pioneer pottery write fever |  
+| bip_39_word_space_6 | aerobic pioneer pottery write fever connect |  
+| bip_39_word_space_7 | aerobic pioneer pottery write fever connect treat |  
+| bip_39_word_space_8 | aerobic pioneer pottery write fever connect treat sunny |  
+| bip_39_word_space_9 | aerobic pioneer pottery write fever connect treat sunny shiver |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

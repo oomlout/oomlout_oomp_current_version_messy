@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gadget model
+  * bip 39 word 3: gadget model crazy
+  * bip 39 word: gadget model crazy fancy there wing old attend later shy assume approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gadget |  
+| bip_39_word_new_br10 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy |  
+| bip_39_word_new_br11 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy<br>assume |  
+| bip_39_word_new_br12 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later<br>shy<br>assume<br>approve |  
+| bip_39_word_new_br2 | gadget<br>model |  
+| bip_39_word_new_br3 | gadget<br>model<br>crazy |  
+| bip_39_word_new_br4 | gadget<br>model<br>crazy<br>fancy |  
+| bip_39_word_new_br5 | gadget<br>model<br>crazy<br>fancy<br>there |  
+| bip_39_word_new_br6 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing |  
+| bip_39_word_new_br7 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old |  
+| bip_39_word_new_br8 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend |  
+| bip_39_word_new_br9 | gadget<br>model<br>crazy<br>fancy<br>there<br>wing<br>old<br>attend<br>later |  
+| bip_39_word_new_line1 | gadget |  
+| bip_39_word_new_line10 | gadget
+model
+crazy
+fancy
+there
+wing
+old
+attend
+later
+shy |  
+| bip_39_word_new_line11 | gadget
+model
+crazy
+fancy
+there
+wing
+old
+attend
+later
+shy
+assume |  
+| bip_39_word_new_line12 | gadget
+model
+crazy
+fancy
+there
+wing
+old
+attend
+later
+shy
+assume
+approve |  
+| bip_39_word_new_line2 | gadget
+model |  
+| bip_39_word_new_line3 | gadget
+model
+crazy |  
+| bip_39_word_new_line4 | gadget
+model
+crazy
+fancy |  
+| bip_39_word_new_line5 | gadget
+model
+crazy
+fancy
+there |  
+| bip_39_word_new_line6 | gadget
+model
+crazy
+fancy
+there
+wing |  
+| bip_39_word_new_line7 | gadget
+model
+crazy
+fancy
+there
+wing
+old |  
+| bip_39_word_new_line8 | gadget
+model
+crazy
+fancy
+there
+wing
+old
+attend |  
+| bip_39_word_new_line9 | gadget
+model
+crazy
+fancy
+there
+wing
+old
+attend
+later |  
+| bip_39_word_space_0 | ['gadget', 'model', 'crazy', 'fancy', 'there', 'wing', 'old', 'attend', 'later', 'shy', 'assume', 'approve'] |  
+| bip_39_word_space_1 | gadget |  
+| bip_39_word_space_10 | gadget model crazy fancy there wing old attend later shy |  
+| bip_39_word_space_11 | gadget model crazy fancy there wing old attend later shy assume |  
+| bip_39_word_space_12 | gadget model crazy fancy there wing old attend later shy assume approve |  
+| bip_39_word_space_2 | gadget model |  
+| bip_39_word_space_3 | gadget model crazy |  
+| bip_39_word_space_4 | gadget model crazy fancy |  
+| bip_39_word_space_5 | gadget model crazy fancy there |  
+| bip_39_word_space_6 | gadget model crazy fancy there wing |  
+| bip_39_word_space_7 | gadget model crazy fancy there wing old |  
+| bip_39_word_space_8 | gadget model crazy fancy there wing old attend |  
+| bip_39_word_space_9 | gadget model crazy fancy there wing old attend later |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

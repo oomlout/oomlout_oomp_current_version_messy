@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: forward opinion
+  * bip 39 word 3: forward opinion uphold
+  * bip 39 word: forward opinion uphold buzz tilt nose firm leave admit siege stable above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | forward |  
+| bip_39_word_new_br10 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege |  
+| bip_39_word_new_br11 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege<br>stable |  
+| bip_39_word_new_br12 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit<br>siege<br>stable<br>above |  
+| bip_39_word_new_br2 | forward<br>opinion |  
+| bip_39_word_new_br3 | forward<br>opinion<br>uphold |  
+| bip_39_word_new_br4 | forward<br>opinion<br>uphold<br>buzz |  
+| bip_39_word_new_br5 | forward<br>opinion<br>uphold<br>buzz<br>tilt |  
+| bip_39_word_new_br6 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose |  
+| bip_39_word_new_br7 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm |  
+| bip_39_word_new_br8 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave |  
+| bip_39_word_new_br9 | forward<br>opinion<br>uphold<br>buzz<br>tilt<br>nose<br>firm<br>leave<br>admit |  
+| bip_39_word_new_line1 | forward |  
+| bip_39_word_new_line10 | forward
+opinion
+uphold
+buzz
+tilt
+nose
+firm
+leave
+admit
+siege |  
+| bip_39_word_new_line11 | forward
+opinion
+uphold
+buzz
+tilt
+nose
+firm
+leave
+admit
+siege
+stable |  
+| bip_39_word_new_line12 | forward
+opinion
+uphold
+buzz
+tilt
+nose
+firm
+leave
+admit
+siege
+stable
+above |  
+| bip_39_word_new_line2 | forward
+opinion |  
+| bip_39_word_new_line3 | forward
+opinion
+uphold |  
+| bip_39_word_new_line4 | forward
+opinion
+uphold
+buzz |  
+| bip_39_word_new_line5 | forward
+opinion
+uphold
+buzz
+tilt |  
+| bip_39_word_new_line6 | forward
+opinion
+uphold
+buzz
+tilt
+nose |  
+| bip_39_word_new_line7 | forward
+opinion
+uphold
+buzz
+tilt
+nose
+firm |  
+| bip_39_word_new_line8 | forward
+opinion
+uphold
+buzz
+tilt
+nose
+firm
+leave |  
+| bip_39_word_new_line9 | forward
+opinion
+uphold
+buzz
+tilt
+nose
+firm
+leave
+admit |  
+| bip_39_word_space_0 | ['forward', 'opinion', 'uphold', 'buzz', 'tilt', 'nose', 'firm', 'leave', 'admit', 'siege', 'stable', 'above'] |  
+| bip_39_word_space_1 | forward |  
+| bip_39_word_space_10 | forward opinion uphold buzz tilt nose firm leave admit siege |  
+| bip_39_word_space_11 | forward opinion uphold buzz tilt nose firm leave admit siege stable |  
+| bip_39_word_space_12 | forward opinion uphold buzz tilt nose firm leave admit siege stable above |  
+| bip_39_word_space_2 | forward opinion |  
+| bip_39_word_space_3 | forward opinion uphold |  
+| bip_39_word_space_4 | forward opinion uphold buzz |  
+| bip_39_word_space_5 | forward opinion uphold buzz tilt |  
+| bip_39_word_space_6 | forward opinion uphold buzz tilt nose |  
+| bip_39_word_space_7 | forward opinion uphold buzz tilt nose firm |  
+| bip_39_word_space_8 | forward opinion uphold buzz tilt nose firm leave |  
+| bip_39_word_space_9 | forward opinion uphold buzz tilt nose firm leave admit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

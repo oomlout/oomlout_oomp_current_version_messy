@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toss police
+  * bip 39 word 3: toss police slice
+  * bip 39 word: toss police slice caught rain tuna alarm satoshi motor oyster region air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toss |  
+| bip_39_word_new_br10 | toss<br>police<br>slice<br>caught<br>rain<br>tuna<br>alarm<br>satoshi<br>motor<br>oyster |  
+| bip_39_word_new_br11 | toss<br>police<br>slice<br>caught<br>rain<br>tuna<br>alarm<br>satoshi<br>motor<br>oyster<br>region |  
+| bip_39_word_new_br12 | toss<br>police<br>slice<br>caught<br>rain<br>tuna<br>alarm<br>satoshi<br>motor<br>oyster<br>region<br>air |  
+| bip_39_word_new_br2 | toss<br>police |  
+| bip_39_word_new_br3 | toss<br>police<br>slice |  
+| bip_39_word_new_br4 | toss<br>police<br>slice<br>caught |  
+| bip_39_word_new_br5 | toss<br>police<br>slice<br>caught<br>rain |  
+| bip_39_word_new_br6 | toss<br>police<br>slice<br>caught<br>rain<br>tuna |  
+| bip_39_word_new_br7 | toss<br>police<br>slice<br>caught<br>rain<br>tuna<br>alarm |  
+| bip_39_word_new_br8 | toss<br>police<br>slice<br>caught<br>rain<br>tuna<br>alarm<br>satoshi |  
+| bip_39_word_new_br9 | toss<br>police<br>slice<br>caught<br>rain<br>tuna<br>alarm<br>satoshi<br>motor |  
+| bip_39_word_new_line1 | toss |  
+| bip_39_word_new_line10 | toss
+police
+slice
+caught
+rain
+tuna
+alarm
+satoshi
+motor
+oyster |  
+| bip_39_word_new_line11 | toss
+police
+slice
+caught
+rain
+tuna
+alarm
+satoshi
+motor
+oyster
+region |  
+| bip_39_word_new_line12 | toss
+police
+slice
+caught
+rain
+tuna
+alarm
+satoshi
+motor
+oyster
+region
+air |  
+| bip_39_word_new_line2 | toss
+police |  
+| bip_39_word_new_line3 | toss
+police
+slice |  
+| bip_39_word_new_line4 | toss
+police
+slice
+caught |  
+| bip_39_word_new_line5 | toss
+police
+slice
+caught
+rain |  
+| bip_39_word_new_line6 | toss
+police
+slice
+caught
+rain
+tuna |  
+| bip_39_word_new_line7 | toss
+police
+slice
+caught
+rain
+tuna
+alarm |  
+| bip_39_word_new_line8 | toss
+police
+slice
+caught
+rain
+tuna
+alarm
+satoshi |  
+| bip_39_word_new_line9 | toss
+police
+slice
+caught
+rain
+tuna
+alarm
+satoshi
+motor |  
+| bip_39_word_space_0 | ['toss', 'police', 'slice', 'caught', 'rain', 'tuna', 'alarm', 'satoshi', 'motor', 'oyster', 'region', 'air'] |  
+| bip_39_word_space_1 | toss |  
+| bip_39_word_space_10 | toss police slice caught rain tuna alarm satoshi motor oyster |  
+| bip_39_word_space_11 | toss police slice caught rain tuna alarm satoshi motor oyster region |  
+| bip_39_word_space_12 | toss police slice caught rain tuna alarm satoshi motor oyster region air |  
+| bip_39_word_space_2 | toss police |  
+| bip_39_word_space_3 | toss police slice |  
+| bip_39_word_space_4 | toss police slice caught |  
+| bip_39_word_space_5 | toss police slice caught rain |  
+| bip_39_word_space_6 | toss police slice caught rain tuna |  
+| bip_39_word_space_7 | toss police slice caught rain tuna alarm |  
+| bip_39_word_space_8 | toss police slice caught rain tuna alarm satoshi |  
+| bip_39_word_space_9 | toss police slice caught rain tuna alarm satoshi motor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

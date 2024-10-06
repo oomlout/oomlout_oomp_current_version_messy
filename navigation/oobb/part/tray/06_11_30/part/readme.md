@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: very utility
+  * bip 39 word 3: very utility beauty
+  * bip 39 word: very utility beauty fiction require genuine submit diet stage leg pretty again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | very |  
+| bip_39_word_new_br10 | very<br>utility<br>beauty<br>fiction<br>require<br>genuine<br>submit<br>diet<br>stage<br>leg |  
+| bip_39_word_new_br11 | very<br>utility<br>beauty<br>fiction<br>require<br>genuine<br>submit<br>diet<br>stage<br>leg<br>pretty |  
+| bip_39_word_new_br12 | very<br>utility<br>beauty<br>fiction<br>require<br>genuine<br>submit<br>diet<br>stage<br>leg<br>pretty<br>again |  
+| bip_39_word_new_br2 | very<br>utility |  
+| bip_39_word_new_br3 | very<br>utility<br>beauty |  
+| bip_39_word_new_br4 | very<br>utility<br>beauty<br>fiction |  
+| bip_39_word_new_br5 | very<br>utility<br>beauty<br>fiction<br>require |  
+| bip_39_word_new_br6 | very<br>utility<br>beauty<br>fiction<br>require<br>genuine |  
+| bip_39_word_new_br7 | very<br>utility<br>beauty<br>fiction<br>require<br>genuine<br>submit |  
+| bip_39_word_new_br8 | very<br>utility<br>beauty<br>fiction<br>require<br>genuine<br>submit<br>diet |  
+| bip_39_word_new_br9 | very<br>utility<br>beauty<br>fiction<br>require<br>genuine<br>submit<br>diet<br>stage |  
+| bip_39_word_new_line1 | very |  
+| bip_39_word_new_line10 | very
+utility
+beauty
+fiction
+require
+genuine
+submit
+diet
+stage
+leg |  
+| bip_39_word_new_line11 | very
+utility
+beauty
+fiction
+require
+genuine
+submit
+diet
+stage
+leg
+pretty |  
+| bip_39_word_new_line12 | very
+utility
+beauty
+fiction
+require
+genuine
+submit
+diet
+stage
+leg
+pretty
+again |  
+| bip_39_word_new_line2 | very
+utility |  
+| bip_39_word_new_line3 | very
+utility
+beauty |  
+| bip_39_word_new_line4 | very
+utility
+beauty
+fiction |  
+| bip_39_word_new_line5 | very
+utility
+beauty
+fiction
+require |  
+| bip_39_word_new_line6 | very
+utility
+beauty
+fiction
+require
+genuine |  
+| bip_39_word_new_line7 | very
+utility
+beauty
+fiction
+require
+genuine
+submit |  
+| bip_39_word_new_line8 | very
+utility
+beauty
+fiction
+require
+genuine
+submit
+diet |  
+| bip_39_word_new_line9 | very
+utility
+beauty
+fiction
+require
+genuine
+submit
+diet
+stage |  
+| bip_39_word_space_0 | ['very', 'utility', 'beauty', 'fiction', 'require', 'genuine', 'submit', 'diet', 'stage', 'leg', 'pretty', 'again'] |  
+| bip_39_word_space_1 | very |  
+| bip_39_word_space_10 | very utility beauty fiction require genuine submit diet stage leg |  
+| bip_39_word_space_11 | very utility beauty fiction require genuine submit diet stage leg pretty |  
+| bip_39_word_space_12 | very utility beauty fiction require genuine submit diet stage leg pretty again |  
+| bip_39_word_space_2 | very utility |  
+| bip_39_word_space_3 | very utility beauty |  
+| bip_39_word_space_4 | very utility beauty fiction |  
+| bip_39_word_space_5 | very utility beauty fiction require |  
+| bip_39_word_space_6 | very utility beauty fiction require genuine |  
+| bip_39_word_space_7 | very utility beauty fiction require genuine submit |  
+| bip_39_word_space_8 | very utility beauty fiction require genuine submit diet |  
+| bip_39_word_space_9 | very utility beauty fiction require genuine submit diet stage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

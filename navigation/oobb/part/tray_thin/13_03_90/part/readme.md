@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aim evoke
+  * bip 39 word 3: aim evoke govern
+  * bip 39 word: aim evoke govern ignore claw legal ceiling two spy moral pilot around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aim |  
+| bip_39_word_new_br10 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal<br>ceiling<br>two<br>spy<br>moral |  
+| bip_39_word_new_br11 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal<br>ceiling<br>two<br>spy<br>moral<br>pilot |  
+| bip_39_word_new_br12 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal<br>ceiling<br>two<br>spy<br>moral<br>pilot<br>around |  
+| bip_39_word_new_br2 | aim<br>evoke |  
+| bip_39_word_new_br3 | aim<br>evoke<br>govern |  
+| bip_39_word_new_br4 | aim<br>evoke<br>govern<br>ignore |  
+| bip_39_word_new_br5 | aim<br>evoke<br>govern<br>ignore<br>claw |  
+| bip_39_word_new_br6 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal |  
+| bip_39_word_new_br7 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal<br>ceiling |  
+| bip_39_word_new_br8 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal<br>ceiling<br>two |  
+| bip_39_word_new_br9 | aim<br>evoke<br>govern<br>ignore<br>claw<br>legal<br>ceiling<br>two<br>spy |  
+| bip_39_word_new_line1 | aim |  
+| bip_39_word_new_line10 | aim
+evoke
+govern
+ignore
+claw
+legal
+ceiling
+two
+spy
+moral |  
+| bip_39_word_new_line11 | aim
+evoke
+govern
+ignore
+claw
+legal
+ceiling
+two
+spy
+moral
+pilot |  
+| bip_39_word_new_line12 | aim
+evoke
+govern
+ignore
+claw
+legal
+ceiling
+two
+spy
+moral
+pilot
+around |  
+| bip_39_word_new_line2 | aim
+evoke |  
+| bip_39_word_new_line3 | aim
+evoke
+govern |  
+| bip_39_word_new_line4 | aim
+evoke
+govern
+ignore |  
+| bip_39_word_new_line5 | aim
+evoke
+govern
+ignore
+claw |  
+| bip_39_word_new_line6 | aim
+evoke
+govern
+ignore
+claw
+legal |  
+| bip_39_word_new_line7 | aim
+evoke
+govern
+ignore
+claw
+legal
+ceiling |  
+| bip_39_word_new_line8 | aim
+evoke
+govern
+ignore
+claw
+legal
+ceiling
+two |  
+| bip_39_word_new_line9 | aim
+evoke
+govern
+ignore
+claw
+legal
+ceiling
+two
+spy |  
+| bip_39_word_space_0 | ['aim', 'evoke', 'govern', 'ignore', 'claw', 'legal', 'ceiling', 'two', 'spy', 'moral', 'pilot', 'around'] |  
+| bip_39_word_space_1 | aim |  
+| bip_39_word_space_10 | aim evoke govern ignore claw legal ceiling two spy moral |  
+| bip_39_word_space_11 | aim evoke govern ignore claw legal ceiling two spy moral pilot |  
+| bip_39_word_space_12 | aim evoke govern ignore claw legal ceiling two spy moral pilot around |  
+| bip_39_word_space_2 | aim evoke |  
+| bip_39_word_space_3 | aim evoke govern |  
+| bip_39_word_space_4 | aim evoke govern ignore |  
+| bip_39_word_space_5 | aim evoke govern ignore claw |  
+| bip_39_word_space_6 | aim evoke govern ignore claw legal |  
+| bip_39_word_space_7 | aim evoke govern ignore claw legal ceiling |  
+| bip_39_word_space_8 | aim evoke govern ignore claw legal ceiling two |  
+| bip_39_word_space_9 | aim evoke govern ignore claw legal ceiling two spy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

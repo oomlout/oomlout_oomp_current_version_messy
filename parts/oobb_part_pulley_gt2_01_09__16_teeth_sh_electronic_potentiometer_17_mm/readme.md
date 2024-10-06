@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 16_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mansion pumpkin
+  * bip 39 word 3: mansion pumpkin tenant
+  * bip 39 word: mansion pumpkin tenant sign bus talk protect now tool track road affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mansion |  
+| bip_39_word_new_br10 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk<br>protect<br>now<br>tool<br>track |  
+| bip_39_word_new_br11 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk<br>protect<br>now<br>tool<br>track<br>road |  
+| bip_39_word_new_br12 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk<br>protect<br>now<br>tool<br>track<br>road<br>affair |  
+| bip_39_word_new_br2 | mansion<br>pumpkin |  
+| bip_39_word_new_br3 | mansion<br>pumpkin<br>tenant |  
+| bip_39_word_new_br4 | mansion<br>pumpkin<br>tenant<br>sign |  
+| bip_39_word_new_br5 | mansion<br>pumpkin<br>tenant<br>sign<br>bus |  
+| bip_39_word_new_br6 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk |  
+| bip_39_word_new_br7 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk<br>protect |  
+| bip_39_word_new_br8 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk<br>protect<br>now |  
+| bip_39_word_new_br9 | mansion<br>pumpkin<br>tenant<br>sign<br>bus<br>talk<br>protect<br>now<br>tool |  
+| bip_39_word_new_line1 | mansion |  
+| bip_39_word_new_line10 | mansion
+pumpkin
+tenant
+sign
+bus
+talk
+protect
+now
+tool
+track |  
+| bip_39_word_new_line11 | mansion
+pumpkin
+tenant
+sign
+bus
+talk
+protect
+now
+tool
+track
+road |  
+| bip_39_word_new_line12 | mansion
+pumpkin
+tenant
+sign
+bus
+talk
+protect
+now
+tool
+track
+road
+affair |  
+| bip_39_word_new_line2 | mansion
+pumpkin |  
+| bip_39_word_new_line3 | mansion
+pumpkin
+tenant |  
+| bip_39_word_new_line4 | mansion
+pumpkin
+tenant
+sign |  
+| bip_39_word_new_line5 | mansion
+pumpkin
+tenant
+sign
+bus |  
+| bip_39_word_new_line6 | mansion
+pumpkin
+tenant
+sign
+bus
+talk |  
+| bip_39_word_new_line7 | mansion
+pumpkin
+tenant
+sign
+bus
+talk
+protect |  
+| bip_39_word_new_line8 | mansion
+pumpkin
+tenant
+sign
+bus
+talk
+protect
+now |  
+| bip_39_word_new_line9 | mansion
+pumpkin
+tenant
+sign
+bus
+talk
+protect
+now
+tool |  
+| bip_39_word_space_0 | ['mansion', 'pumpkin', 'tenant', 'sign', 'bus', 'talk', 'protect', 'now', 'tool', 'track', 'road', 'affair'] |  
+| bip_39_word_space_1 | mansion |  
+| bip_39_word_space_10 | mansion pumpkin tenant sign bus talk protect now tool track |  
+| bip_39_word_space_11 | mansion pumpkin tenant sign bus talk protect now tool track road |  
+| bip_39_word_space_12 | mansion pumpkin tenant sign bus talk protect now tool track road affair |  
+| bip_39_word_space_2 | mansion pumpkin |  
+| bip_39_word_space_3 | mansion pumpkin tenant |  
+| bip_39_word_space_4 | mansion pumpkin tenant sign |  
+| bip_39_word_space_5 | mansion pumpkin tenant sign bus |  
+| bip_39_word_space_6 | mansion pumpkin tenant sign bus talk |  
+| bip_39_word_space_7 | mansion pumpkin tenant sign bus talk protect |  
+| bip_39_word_space_8 | mansion pumpkin tenant sign bus talk protect now |  
+| bip_39_word_space_9 | mansion pumpkin tenant sign bus talk protect now tool |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

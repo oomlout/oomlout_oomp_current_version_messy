@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tiny borrow
+  * bip 39 word 3: tiny borrow solve
+  * bip 39 word: tiny borrow solve baby bleak feature business cereal alcohol twenty main armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tiny |  
+| bip_39_word_new_br10 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty |  
+| bip_39_word_new_br11 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty<br>main |  
+| bip_39_word_new_br12 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol<br>twenty<br>main<br>armor |  
+| bip_39_word_new_br2 | tiny<br>borrow |  
+| bip_39_word_new_br3 | tiny<br>borrow<br>solve |  
+| bip_39_word_new_br4 | tiny<br>borrow<br>solve<br>baby |  
+| bip_39_word_new_br5 | tiny<br>borrow<br>solve<br>baby<br>bleak |  
+| bip_39_word_new_br6 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature |  
+| bip_39_word_new_br7 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business |  
+| bip_39_word_new_br8 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal |  
+| bip_39_word_new_br9 | tiny<br>borrow<br>solve<br>baby<br>bleak<br>feature<br>business<br>cereal<br>alcohol |  
+| bip_39_word_new_line1 | tiny |  
+| bip_39_word_new_line10 | tiny
+borrow
+solve
+baby
+bleak
+feature
+business
+cereal
+alcohol
+twenty |  
+| bip_39_word_new_line11 | tiny
+borrow
+solve
+baby
+bleak
+feature
+business
+cereal
+alcohol
+twenty
+main |  
+| bip_39_word_new_line12 | tiny
+borrow
+solve
+baby
+bleak
+feature
+business
+cereal
+alcohol
+twenty
+main
+armor |  
+| bip_39_word_new_line2 | tiny
+borrow |  
+| bip_39_word_new_line3 | tiny
+borrow
+solve |  
+| bip_39_word_new_line4 | tiny
+borrow
+solve
+baby |  
+| bip_39_word_new_line5 | tiny
+borrow
+solve
+baby
+bleak |  
+| bip_39_word_new_line6 | tiny
+borrow
+solve
+baby
+bleak
+feature |  
+| bip_39_word_new_line7 | tiny
+borrow
+solve
+baby
+bleak
+feature
+business |  
+| bip_39_word_new_line8 | tiny
+borrow
+solve
+baby
+bleak
+feature
+business
+cereal |  
+| bip_39_word_new_line9 | tiny
+borrow
+solve
+baby
+bleak
+feature
+business
+cereal
+alcohol |  
+| bip_39_word_space_0 | ['tiny', 'borrow', 'solve', 'baby', 'bleak', 'feature', 'business', 'cereal', 'alcohol', 'twenty', 'main', 'armor'] |  
+| bip_39_word_space_1 | tiny |  
+| bip_39_word_space_10 | tiny borrow solve baby bleak feature business cereal alcohol twenty |  
+| bip_39_word_space_11 | tiny borrow solve baby bleak feature business cereal alcohol twenty main |  
+| bip_39_word_space_12 | tiny borrow solve baby bleak feature business cereal alcohol twenty main armor |  
+| bip_39_word_space_2 | tiny borrow |  
+| bip_39_word_space_3 | tiny borrow solve |  
+| bip_39_word_space_4 | tiny borrow solve baby |  
+| bip_39_word_space_5 | tiny borrow solve baby bleak |  
+| bip_39_word_space_6 | tiny borrow solve baby bleak feature |  
+| bip_39_word_space_7 | tiny borrow solve baby bleak feature business |  
+| bip_39_word_space_8 | tiny borrow solve baby bleak feature business cereal |  
+| bip_39_word_space_9 | tiny borrow solve baby bleak feature business cereal alcohol |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

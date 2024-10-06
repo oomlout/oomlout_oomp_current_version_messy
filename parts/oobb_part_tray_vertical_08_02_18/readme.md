@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lock swift
+  * bip 39 word 3: lock swift merry
+  * bip 39 word: lock swift merry combine car treat crunch dish sound shoe play abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lock |  
+| bip_39_word_new_br10 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe |  
+| bip_39_word_new_br11 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe<br>play |  
+| bip_39_word_new_br12 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound<br>shoe<br>play<br>abuse |  
+| bip_39_word_new_br2 | lock<br>swift |  
+| bip_39_word_new_br3 | lock<br>swift<br>merry |  
+| bip_39_word_new_br4 | lock<br>swift<br>merry<br>combine |  
+| bip_39_word_new_br5 | lock<br>swift<br>merry<br>combine<br>car |  
+| bip_39_word_new_br6 | lock<br>swift<br>merry<br>combine<br>car<br>treat |  
+| bip_39_word_new_br7 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch |  
+| bip_39_word_new_br8 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish |  
+| bip_39_word_new_br9 | lock<br>swift<br>merry<br>combine<br>car<br>treat<br>crunch<br>dish<br>sound |  
+| bip_39_word_new_line1 | lock |  
+| bip_39_word_new_line10 | lock
+swift
+merry
+combine
+car
+treat
+crunch
+dish
+sound
+shoe |  
+| bip_39_word_new_line11 | lock
+swift
+merry
+combine
+car
+treat
+crunch
+dish
+sound
+shoe
+play |  
+| bip_39_word_new_line12 | lock
+swift
+merry
+combine
+car
+treat
+crunch
+dish
+sound
+shoe
+play
+abuse |  
+| bip_39_word_new_line2 | lock
+swift |  
+| bip_39_word_new_line3 | lock
+swift
+merry |  
+| bip_39_word_new_line4 | lock
+swift
+merry
+combine |  
+| bip_39_word_new_line5 | lock
+swift
+merry
+combine
+car |  
+| bip_39_word_new_line6 | lock
+swift
+merry
+combine
+car
+treat |  
+| bip_39_word_new_line7 | lock
+swift
+merry
+combine
+car
+treat
+crunch |  
+| bip_39_word_new_line8 | lock
+swift
+merry
+combine
+car
+treat
+crunch
+dish |  
+| bip_39_word_new_line9 | lock
+swift
+merry
+combine
+car
+treat
+crunch
+dish
+sound |  
+| bip_39_word_space_0 | ['lock', 'swift', 'merry', 'combine', 'car', 'treat', 'crunch', 'dish', 'sound', 'shoe', 'play', 'abuse'] |  
+| bip_39_word_space_1 | lock |  
+| bip_39_word_space_10 | lock swift merry combine car treat crunch dish sound shoe |  
+| bip_39_word_space_11 | lock swift merry combine car treat crunch dish sound shoe play |  
+| bip_39_word_space_12 | lock swift merry combine car treat crunch dish sound shoe play abuse |  
+| bip_39_word_space_2 | lock swift |  
+| bip_39_word_space_3 | lock swift merry |  
+| bip_39_word_space_4 | lock swift merry combine |  
+| bip_39_word_space_5 | lock swift merry combine car |  
+| bip_39_word_space_6 | lock swift merry combine car treat |  
+| bip_39_word_space_7 | lock swift merry combine car treat crunch |  
+| bip_39_word_space_8 | lock swift merry combine car treat crunch dish |  
+| bip_39_word_space_9 | lock swift merry combine car treat crunch dish sound |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

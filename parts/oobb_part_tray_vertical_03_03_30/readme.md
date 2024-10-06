@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cave fruit
+  * bip 39 word 3: cave fruit sniff
+  * bip 39 word: cave fruit sniff song bounce welcome taxi canvas verb dose scrap age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cave |  
+| bip_39_word_new_br10 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome<br>taxi<br>canvas<br>verb<br>dose |  
+| bip_39_word_new_br11 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome<br>taxi<br>canvas<br>verb<br>dose<br>scrap |  
+| bip_39_word_new_br12 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome<br>taxi<br>canvas<br>verb<br>dose<br>scrap<br>age |  
+| bip_39_word_new_br2 | cave<br>fruit |  
+| bip_39_word_new_br3 | cave<br>fruit<br>sniff |  
+| bip_39_word_new_br4 | cave<br>fruit<br>sniff<br>song |  
+| bip_39_word_new_br5 | cave<br>fruit<br>sniff<br>song<br>bounce |  
+| bip_39_word_new_br6 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome |  
+| bip_39_word_new_br7 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome<br>taxi |  
+| bip_39_word_new_br8 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome<br>taxi<br>canvas |  
+| bip_39_word_new_br9 | cave<br>fruit<br>sniff<br>song<br>bounce<br>welcome<br>taxi<br>canvas<br>verb |  
+| bip_39_word_new_line1 | cave |  
+| bip_39_word_new_line10 | cave
+fruit
+sniff
+song
+bounce
+welcome
+taxi
+canvas
+verb
+dose |  
+| bip_39_word_new_line11 | cave
+fruit
+sniff
+song
+bounce
+welcome
+taxi
+canvas
+verb
+dose
+scrap |  
+| bip_39_word_new_line12 | cave
+fruit
+sniff
+song
+bounce
+welcome
+taxi
+canvas
+verb
+dose
+scrap
+age |  
+| bip_39_word_new_line2 | cave
+fruit |  
+| bip_39_word_new_line3 | cave
+fruit
+sniff |  
+| bip_39_word_new_line4 | cave
+fruit
+sniff
+song |  
+| bip_39_word_new_line5 | cave
+fruit
+sniff
+song
+bounce |  
+| bip_39_word_new_line6 | cave
+fruit
+sniff
+song
+bounce
+welcome |  
+| bip_39_word_new_line7 | cave
+fruit
+sniff
+song
+bounce
+welcome
+taxi |  
+| bip_39_word_new_line8 | cave
+fruit
+sniff
+song
+bounce
+welcome
+taxi
+canvas |  
+| bip_39_word_new_line9 | cave
+fruit
+sniff
+song
+bounce
+welcome
+taxi
+canvas
+verb |  
+| bip_39_word_space_0 | ['cave', 'fruit', 'sniff', 'song', 'bounce', 'welcome', 'taxi', 'canvas', 'verb', 'dose', 'scrap', 'age'] |  
+| bip_39_word_space_1 | cave |  
+| bip_39_word_space_10 | cave fruit sniff song bounce welcome taxi canvas verb dose |  
+| bip_39_word_space_11 | cave fruit sniff song bounce welcome taxi canvas verb dose scrap |  
+| bip_39_word_space_12 | cave fruit sniff song bounce welcome taxi canvas verb dose scrap age |  
+| bip_39_word_space_2 | cave fruit |  
+| bip_39_word_space_3 | cave fruit sniff |  
+| bip_39_word_space_4 | cave fruit sniff song |  
+| bip_39_word_space_5 | cave fruit sniff song bounce |  
+| bip_39_word_space_6 | cave fruit sniff song bounce welcome |  
+| bip_39_word_space_7 | cave fruit sniff song bounce welcome taxi |  
+| bip_39_word_space_8 | cave fruit sniff song bounce welcome taxi canvas |  
+| bip_39_word_space_9 | cave fruit sniff song bounce welcome taxi canvas verb |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blue hard
+  * bip 39 word 3: blue hard wolf
+  * bip 39 word: blue hard wolf scan middle leaf soccer onion borrow diamond despair air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blue |  
+| bip_39_word_new_br10 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf<br>soccer<br>onion<br>borrow<br>diamond |  
+| bip_39_word_new_br11 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf<br>soccer<br>onion<br>borrow<br>diamond<br>despair |  
+| bip_39_word_new_br12 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf<br>soccer<br>onion<br>borrow<br>diamond<br>despair<br>air |  
+| bip_39_word_new_br2 | blue<br>hard |  
+| bip_39_word_new_br3 | blue<br>hard<br>wolf |  
+| bip_39_word_new_br4 | blue<br>hard<br>wolf<br>scan |  
+| bip_39_word_new_br5 | blue<br>hard<br>wolf<br>scan<br>middle |  
+| bip_39_word_new_br6 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf |  
+| bip_39_word_new_br7 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf<br>soccer |  
+| bip_39_word_new_br8 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf<br>soccer<br>onion |  
+| bip_39_word_new_br9 | blue<br>hard<br>wolf<br>scan<br>middle<br>leaf<br>soccer<br>onion<br>borrow |  
+| bip_39_word_new_line1 | blue |  
+| bip_39_word_new_line10 | blue
+hard
+wolf
+scan
+middle
+leaf
+soccer
+onion
+borrow
+diamond |  
+| bip_39_word_new_line11 | blue
+hard
+wolf
+scan
+middle
+leaf
+soccer
+onion
+borrow
+diamond
+despair |  
+| bip_39_word_new_line12 | blue
+hard
+wolf
+scan
+middle
+leaf
+soccer
+onion
+borrow
+diamond
+despair
+air |  
+| bip_39_word_new_line2 | blue
+hard |  
+| bip_39_word_new_line3 | blue
+hard
+wolf |  
+| bip_39_word_new_line4 | blue
+hard
+wolf
+scan |  
+| bip_39_word_new_line5 | blue
+hard
+wolf
+scan
+middle |  
+| bip_39_word_new_line6 | blue
+hard
+wolf
+scan
+middle
+leaf |  
+| bip_39_word_new_line7 | blue
+hard
+wolf
+scan
+middle
+leaf
+soccer |  
+| bip_39_word_new_line8 | blue
+hard
+wolf
+scan
+middle
+leaf
+soccer
+onion |  
+| bip_39_word_new_line9 | blue
+hard
+wolf
+scan
+middle
+leaf
+soccer
+onion
+borrow |  
+| bip_39_word_space_0 | ['blue', 'hard', 'wolf', 'scan', 'middle', 'leaf', 'soccer', 'onion', 'borrow', 'diamond', 'despair', 'air'] |  
+| bip_39_word_space_1 | blue |  
+| bip_39_word_space_10 | blue hard wolf scan middle leaf soccer onion borrow diamond |  
+| bip_39_word_space_11 | blue hard wolf scan middle leaf soccer onion borrow diamond despair |  
+| bip_39_word_space_12 | blue hard wolf scan middle leaf soccer onion borrow diamond despair air |  
+| bip_39_word_space_2 | blue hard |  
+| bip_39_word_space_3 | blue hard wolf |  
+| bip_39_word_space_4 | blue hard wolf scan |  
+| bip_39_word_space_5 | blue hard wolf scan middle |  
+| bip_39_word_space_6 | blue hard wolf scan middle leaf |  
+| bip_39_word_space_7 | blue hard wolf scan middle leaf soccer |  
+| bip_39_word_space_8 | blue hard wolf scan middle leaf soccer onion |  
+| bip_39_word_space_9 | blue hard wolf scan middle leaf soccer onion borrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

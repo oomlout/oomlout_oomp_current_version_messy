@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: early real
+  * bip 39 word 3: early real great
+  * bip 39 word: early real great travel east scrub sand strike acid oxygen drill admit
 
 ### other_codes
 * short_code: br6222
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | early |  
+| bip_39_word_new_br10 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen |  
+| bip_39_word_new_br11 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen<br>drill |  
+| bip_39_word_new_br12 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid<br>oxygen<br>drill<br>admit |  
+| bip_39_word_new_br2 | early<br>real |  
+| bip_39_word_new_br3 | early<br>real<br>great |  
+| bip_39_word_new_br4 | early<br>real<br>great<br>travel |  
+| bip_39_word_new_br5 | early<br>real<br>great<br>travel<br>east |  
+| bip_39_word_new_br6 | early<br>real<br>great<br>travel<br>east<br>scrub |  
+| bip_39_word_new_br7 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand |  
+| bip_39_word_new_br8 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike |  
+| bip_39_word_new_br9 | early<br>real<br>great<br>travel<br>east<br>scrub<br>sand<br>strike<br>acid |  
+| bip_39_word_new_line1 | early |  
+| bip_39_word_new_line10 | early
+real
+great
+travel
+east
+scrub
+sand
+strike
+acid
+oxygen |  
+| bip_39_word_new_line11 | early
+real
+great
+travel
+east
+scrub
+sand
+strike
+acid
+oxygen
+drill |  
+| bip_39_word_new_line12 | early
+real
+great
+travel
+east
+scrub
+sand
+strike
+acid
+oxygen
+drill
+admit |  
+| bip_39_word_new_line2 | early
+real |  
+| bip_39_word_new_line3 | early
+real
+great |  
+| bip_39_word_new_line4 | early
+real
+great
+travel |  
+| bip_39_word_new_line5 | early
+real
+great
+travel
+east |  
+| bip_39_word_new_line6 | early
+real
+great
+travel
+east
+scrub |  
+| bip_39_word_new_line7 | early
+real
+great
+travel
+east
+scrub
+sand |  
+| bip_39_word_new_line8 | early
+real
+great
+travel
+east
+scrub
+sand
+strike |  
+| bip_39_word_new_line9 | early
+real
+great
+travel
+east
+scrub
+sand
+strike
+acid |  
+| bip_39_word_space_0 | ['early', 'real', 'great', 'travel', 'east', 'scrub', 'sand', 'strike', 'acid', 'oxygen', 'drill', 'admit'] |  
+| bip_39_word_space_1 | early |  
+| bip_39_word_space_10 | early real great travel east scrub sand strike acid oxygen |  
+| bip_39_word_space_11 | early real great travel east scrub sand strike acid oxygen drill |  
+| bip_39_word_space_12 | early real great travel east scrub sand strike acid oxygen drill admit |  
+| bip_39_word_space_2 | early real |  
+| bip_39_word_space_3 | early real great |  
+| bip_39_word_space_4 | early real great travel |  
+| bip_39_word_space_5 | early real great travel east |  
+| bip_39_word_space_6 | early real great travel east scrub |  
+| bip_39_word_space_7 | early real great travel east scrub sand |  
+| bip_39_word_space_8 | early real great travel east scrub sand strike |  
+| bip_39_word_space_9 | early real great travel east scrub sand strike acid |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

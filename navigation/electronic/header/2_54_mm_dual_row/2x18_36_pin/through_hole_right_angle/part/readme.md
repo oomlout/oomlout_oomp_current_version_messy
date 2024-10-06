@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: side skull
+  * bip 39 word 3: side skull luggage
+  * bip 39 word: side skull luggage fiction immune crisp vocal sadness acoustic forward stone agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | side |  
+| bip_39_word_new_br10 | side<br>skull<br>luggage<br>fiction<br>immune<br>crisp<br>vocal<br>sadness<br>acoustic<br>forward |  
+| bip_39_word_new_br11 | side<br>skull<br>luggage<br>fiction<br>immune<br>crisp<br>vocal<br>sadness<br>acoustic<br>forward<br>stone |  
+| bip_39_word_new_br12 | side<br>skull<br>luggage<br>fiction<br>immune<br>crisp<br>vocal<br>sadness<br>acoustic<br>forward<br>stone<br>agree |  
+| bip_39_word_new_br2 | side<br>skull |  
+| bip_39_word_new_br3 | side<br>skull<br>luggage |  
+| bip_39_word_new_br4 | side<br>skull<br>luggage<br>fiction |  
+| bip_39_word_new_br5 | side<br>skull<br>luggage<br>fiction<br>immune |  
+| bip_39_word_new_br6 | side<br>skull<br>luggage<br>fiction<br>immune<br>crisp |  
+| bip_39_word_new_br7 | side<br>skull<br>luggage<br>fiction<br>immune<br>crisp<br>vocal |  
+| bip_39_word_new_br8 | side<br>skull<br>luggage<br>fiction<br>immune<br>crisp<br>vocal<br>sadness |  
+| bip_39_word_new_br9 | side<br>skull<br>luggage<br>fiction<br>immune<br>crisp<br>vocal<br>sadness<br>acoustic |  
+| bip_39_word_new_line1 | side |  
+| bip_39_word_new_line10 | side
+skull
+luggage
+fiction
+immune
+crisp
+vocal
+sadness
+acoustic
+forward |  
+| bip_39_word_new_line11 | side
+skull
+luggage
+fiction
+immune
+crisp
+vocal
+sadness
+acoustic
+forward
+stone |  
+| bip_39_word_new_line12 | side
+skull
+luggage
+fiction
+immune
+crisp
+vocal
+sadness
+acoustic
+forward
+stone
+agree |  
+| bip_39_word_new_line2 | side
+skull |  
+| bip_39_word_new_line3 | side
+skull
+luggage |  
+| bip_39_word_new_line4 | side
+skull
+luggage
+fiction |  
+| bip_39_word_new_line5 | side
+skull
+luggage
+fiction
+immune |  
+| bip_39_word_new_line6 | side
+skull
+luggage
+fiction
+immune
+crisp |  
+| bip_39_word_new_line7 | side
+skull
+luggage
+fiction
+immune
+crisp
+vocal |  
+| bip_39_word_new_line8 | side
+skull
+luggage
+fiction
+immune
+crisp
+vocal
+sadness |  
+| bip_39_word_new_line9 | side
+skull
+luggage
+fiction
+immune
+crisp
+vocal
+sadness
+acoustic |  
+| bip_39_word_space_0 | ['side', 'skull', 'luggage', 'fiction', 'immune', 'crisp', 'vocal', 'sadness', 'acoustic', 'forward', 'stone', 'agree'] |  
+| bip_39_word_space_1 | side |  
+| bip_39_word_space_10 | side skull luggage fiction immune crisp vocal sadness acoustic forward |  
+| bip_39_word_space_11 | side skull luggage fiction immune crisp vocal sadness acoustic forward stone |  
+| bip_39_word_space_12 | side skull luggage fiction immune crisp vocal sadness acoustic forward stone agree |  
+| bip_39_word_space_2 | side skull |  
+| bip_39_word_space_3 | side skull luggage |  
+| bip_39_word_space_4 | side skull luggage fiction |  
+| bip_39_word_space_5 | side skull luggage fiction immune |  
+| bip_39_word_space_6 | side skull luggage fiction immune crisp |  
+| bip_39_word_space_7 | side skull luggage fiction immune crisp vocal |  
+| bip_39_word_space_8 | side skull luggage fiction immune crisp vocal sadness |  
+| bip_39_word_space_9 | side skull luggage fiction immune crisp vocal sadness acoustic |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

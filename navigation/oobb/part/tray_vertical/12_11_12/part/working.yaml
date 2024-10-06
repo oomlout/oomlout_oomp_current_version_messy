@@ -1,3 +1,187 @@
+bip_39_word_new_br1: assume
+bip_39_word_new_br10: assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast
+bip_39_word_new_br11: assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast<br>sail
+bip_39_word_new_br12: assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile<br>blast<br>sail<br>armed
+bip_39_word_new_br2: assume<br>force
+bip_39_word_new_br3: assume<br>force<br>amazing
+bip_39_word_new_br4: assume<br>force<br>amazing<br>lawn
+bip_39_word_new_br5: assume<br>force<br>amazing<br>lawn<br>gauge
+bip_39_word_new_br6: assume<br>force<br>amazing<br>lawn<br>gauge<br>print
+bip_39_word_new_br7: assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage
+bip_39_word_new_br8: assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield
+bip_39_word_new_br9: assume<br>force<br>amazing<br>lawn<br>gauge<br>print<br>marriage<br>shield<br>fragile
+bip_39_word_new_line1: assume
+bip_39_word_new_line10: 'assume
+
+  force
+
+  amazing
+
+  lawn
+
+  gauge
+
+  print
+
+  marriage
+
+  shield
+
+  fragile
+
+  blast'
+bip_39_word_new_line11: 'assume
+
+  force
+
+  amazing
+
+  lawn
+
+  gauge
+
+  print
+
+  marriage
+
+  shield
+
+  fragile
+
+  blast
+
+  sail'
+bip_39_word_new_line12: 'assume
+
+  force
+
+  amazing
+
+  lawn
+
+  gauge
+
+  print
+
+  marriage
+
+  shield
+
+  fragile
+
+  blast
+
+  sail
+
+  armed'
+bip_39_word_new_line2: 'assume
+
+  force'
+bip_39_word_new_line3: 'assume
+
+  force
+
+  amazing'
+bip_39_word_new_line4: 'assume
+
+  force
+
+  amazing
+
+  lawn'
+bip_39_word_new_line5: 'assume
+
+  force
+
+  amazing
+
+  lawn
+
+  gauge'
+bip_39_word_new_line6: 'assume
+
+  force
+
+  amazing
+
+  lawn
+
+  gauge
+
+  print'
+bip_39_word_new_line7: 'assume
+
+  force
+
+  amazing
+
+  lawn
+
+  gauge
+
+  print
+
+  marriage'
+bip_39_word_new_line8: 'assume
+
+  force
+
+  amazing
+
+  lawn
+
+  gauge
+
+  print
+
+  marriage
+
+  shield'
+bip_39_word_new_line9: 'assume
+
+  force
+
+  amazing
+
+  lawn
+
+  gauge
+
+  print
+
+  marriage
+
+  shield
+
+  fragile'
+bip_39_word_space_0:
+- assume
+- force
+- amazing
+- lawn
+- gauge
+- print
+- marriage
+- shield
+- fragile
+- blast
+- sail
+- armed
+bip_39_word_space_1: assume
+bip_39_word_space_10: assume force amazing lawn gauge print marriage shield fragile
+  blast
+bip_39_word_space_11: assume force amazing lawn gauge print marriage shield fragile
+  blast sail
+bip_39_word_space_12: assume force amazing lawn gauge print marriage shield fragile
+  blast sail armed
+bip_39_word_space_2: assume force
+bip_39_word_space_3: assume force amazing
+bip_39_word_space_4: assume force amazing lawn
+bip_39_word_space_5: assume force amazing lawn gauge
+bip_39_word_space_6: assume force amazing lawn gauge print
+bip_39_word_space_7: assume force amazing lawn gauge print marriage
+bip_39_word_space_8: assume force amazing lawn gauge print marriage shield
+bip_39_word_space_9: assume force amazing lawn gauge print marriage shield fragile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

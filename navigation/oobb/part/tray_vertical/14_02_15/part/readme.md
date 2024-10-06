@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mind hurry
+  * bip 39 word 3: mind hurry wing
+  * bip 39 word: mind hurry wing kiss border benefit someone tenant genre material pen attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mind |  
+| bip_39_word_new_br10 | mind<br>hurry<br>wing<br>kiss<br>border<br>benefit<br>someone<br>tenant<br>genre<br>material |  
+| bip_39_word_new_br11 | mind<br>hurry<br>wing<br>kiss<br>border<br>benefit<br>someone<br>tenant<br>genre<br>material<br>pen |  
+| bip_39_word_new_br12 | mind<br>hurry<br>wing<br>kiss<br>border<br>benefit<br>someone<br>tenant<br>genre<br>material<br>pen<br>attitude |  
+| bip_39_word_new_br2 | mind<br>hurry |  
+| bip_39_word_new_br3 | mind<br>hurry<br>wing |  
+| bip_39_word_new_br4 | mind<br>hurry<br>wing<br>kiss |  
+| bip_39_word_new_br5 | mind<br>hurry<br>wing<br>kiss<br>border |  
+| bip_39_word_new_br6 | mind<br>hurry<br>wing<br>kiss<br>border<br>benefit |  
+| bip_39_word_new_br7 | mind<br>hurry<br>wing<br>kiss<br>border<br>benefit<br>someone |  
+| bip_39_word_new_br8 | mind<br>hurry<br>wing<br>kiss<br>border<br>benefit<br>someone<br>tenant |  
+| bip_39_word_new_br9 | mind<br>hurry<br>wing<br>kiss<br>border<br>benefit<br>someone<br>tenant<br>genre |  
+| bip_39_word_new_line1 | mind |  
+| bip_39_word_new_line10 | mind
+hurry
+wing
+kiss
+border
+benefit
+someone
+tenant
+genre
+material |  
+| bip_39_word_new_line11 | mind
+hurry
+wing
+kiss
+border
+benefit
+someone
+tenant
+genre
+material
+pen |  
+| bip_39_word_new_line12 | mind
+hurry
+wing
+kiss
+border
+benefit
+someone
+tenant
+genre
+material
+pen
+attitude |  
+| bip_39_word_new_line2 | mind
+hurry |  
+| bip_39_word_new_line3 | mind
+hurry
+wing |  
+| bip_39_word_new_line4 | mind
+hurry
+wing
+kiss |  
+| bip_39_word_new_line5 | mind
+hurry
+wing
+kiss
+border |  
+| bip_39_word_new_line6 | mind
+hurry
+wing
+kiss
+border
+benefit |  
+| bip_39_word_new_line7 | mind
+hurry
+wing
+kiss
+border
+benefit
+someone |  
+| bip_39_word_new_line8 | mind
+hurry
+wing
+kiss
+border
+benefit
+someone
+tenant |  
+| bip_39_word_new_line9 | mind
+hurry
+wing
+kiss
+border
+benefit
+someone
+tenant
+genre |  
+| bip_39_word_space_0 | ['mind', 'hurry', 'wing', 'kiss', 'border', 'benefit', 'someone', 'tenant', 'genre', 'material', 'pen', 'attitude'] |  
+| bip_39_word_space_1 | mind |  
+| bip_39_word_space_10 | mind hurry wing kiss border benefit someone tenant genre material |  
+| bip_39_word_space_11 | mind hurry wing kiss border benefit someone tenant genre material pen |  
+| bip_39_word_space_12 | mind hurry wing kiss border benefit someone tenant genre material pen attitude |  
+| bip_39_word_space_2 | mind hurry |  
+| bip_39_word_space_3 | mind hurry wing |  
+| bip_39_word_space_4 | mind hurry wing kiss |  
+| bip_39_word_space_5 | mind hurry wing kiss border |  
+| bip_39_word_space_6 | mind hurry wing kiss border benefit |  
+| bip_39_word_space_7 | mind hurry wing kiss border benefit someone |  
+| bip_39_word_space_8 | mind hurry wing kiss border benefit someone tenant |  
+| bip_39_word_space_9 | mind hurry wing kiss border benefit someone tenant genre |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

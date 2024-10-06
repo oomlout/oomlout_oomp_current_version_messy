@@ -1,3 +1,187 @@
+bip_39_word_new_br1: rhythm
+bip_39_word_new_br10: rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire<br>regret<br>winner<br>witness<br>million
+bip_39_word_new_br11: rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire<br>regret<br>winner<br>witness<br>million<br>tiny
+bip_39_word_new_br12: rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire<br>regret<br>winner<br>witness<br>million<br>tiny<br>accuse
+bip_39_word_new_br2: rhythm<br>tornado
+bip_39_word_new_br3: rhythm<br>tornado<br>worth
+bip_39_word_new_br4: rhythm<br>tornado<br>worth<br>behind
+bip_39_word_new_br5: rhythm<br>tornado<br>worth<br>behind<br>dose
+bip_39_word_new_br6: rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire
+bip_39_word_new_br7: rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire<br>regret
+bip_39_word_new_br8: rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire<br>regret<br>winner
+bip_39_word_new_br9: rhythm<br>tornado<br>worth<br>behind<br>dose<br>acquire<br>regret<br>winner<br>witness
+bip_39_word_new_line1: rhythm
+bip_39_word_new_line10: 'rhythm
+
+  tornado
+
+  worth
+
+  behind
+
+  dose
+
+  acquire
+
+  regret
+
+  winner
+
+  witness
+
+  million'
+bip_39_word_new_line11: 'rhythm
+
+  tornado
+
+  worth
+
+  behind
+
+  dose
+
+  acquire
+
+  regret
+
+  winner
+
+  witness
+
+  million
+
+  tiny'
+bip_39_word_new_line12: 'rhythm
+
+  tornado
+
+  worth
+
+  behind
+
+  dose
+
+  acquire
+
+  regret
+
+  winner
+
+  witness
+
+  million
+
+  tiny
+
+  accuse'
+bip_39_word_new_line2: 'rhythm
+
+  tornado'
+bip_39_word_new_line3: 'rhythm
+
+  tornado
+
+  worth'
+bip_39_word_new_line4: 'rhythm
+
+  tornado
+
+  worth
+
+  behind'
+bip_39_word_new_line5: 'rhythm
+
+  tornado
+
+  worth
+
+  behind
+
+  dose'
+bip_39_word_new_line6: 'rhythm
+
+  tornado
+
+  worth
+
+  behind
+
+  dose
+
+  acquire'
+bip_39_word_new_line7: 'rhythm
+
+  tornado
+
+  worth
+
+  behind
+
+  dose
+
+  acquire
+
+  regret'
+bip_39_word_new_line8: 'rhythm
+
+  tornado
+
+  worth
+
+  behind
+
+  dose
+
+  acquire
+
+  regret
+
+  winner'
+bip_39_word_new_line9: 'rhythm
+
+  tornado
+
+  worth
+
+  behind
+
+  dose
+
+  acquire
+
+  regret
+
+  winner
+
+  witness'
+bip_39_word_space_0:
+- rhythm
+- tornado
+- worth
+- behind
+- dose
+- acquire
+- regret
+- winner
+- witness
+- million
+- tiny
+- accuse
+bip_39_word_space_1: rhythm
+bip_39_word_space_10: rhythm tornado worth behind dose acquire regret winner witness
+  million
+bip_39_word_space_11: rhythm tornado worth behind dose acquire regret winner witness
+  million tiny
+bip_39_word_space_12: rhythm tornado worth behind dose acquire regret winner witness
+  million tiny accuse
+bip_39_word_space_2: rhythm tornado
+bip_39_word_space_3: rhythm tornado worth
+bip_39_word_space_4: rhythm tornado worth behind
+bip_39_word_space_5: rhythm tornado worth behind dose
+bip_39_word_space_6: rhythm tornado worth behind dose acquire
+bip_39_word_space_7: rhythm tornado worth behind dose acquire regret
+bip_39_word_space_8: rhythm tornado worth behind dose acquire regret winner
+bip_39_word_space_9: rhythm tornado worth behind dose acquire regret winner witness
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

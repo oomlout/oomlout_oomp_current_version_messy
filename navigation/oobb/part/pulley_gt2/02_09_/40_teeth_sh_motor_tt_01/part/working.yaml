@@ -1,3 +1,185 @@
+bip_39_word_new_br1: guard
+bip_39_word_new_br10: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss<br>fury<br>ball<br>oval<br>media
+bip_39_word_new_br11: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss<br>fury<br>ball<br>oval<br>media<br>fence
+bip_39_word_new_br12: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss<br>fury<br>ball<br>oval<br>media<br>fence<br>angry
+bip_39_word_new_br2: guard<br>room
+bip_39_word_new_br3: guard<br>room<br>drum
+bip_39_word_new_br4: guard<br>room<br>drum<br>coach
+bip_39_word_new_br5: guard<br>room<br>drum<br>coach<br>wrestle
+bip_39_word_new_br6: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss
+bip_39_word_new_br7: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss<br>fury
+bip_39_word_new_br8: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss<br>fury<br>ball
+bip_39_word_new_br9: guard<br>room<br>drum<br>coach<br>wrestle<br>kiss<br>fury<br>ball<br>oval
+bip_39_word_new_line1: guard
+bip_39_word_new_line10: 'guard
+
+  room
+
+  drum
+
+  coach
+
+  wrestle
+
+  kiss
+
+  fury
+
+  ball
+
+  oval
+
+  media'
+bip_39_word_new_line11: 'guard
+
+  room
+
+  drum
+
+  coach
+
+  wrestle
+
+  kiss
+
+  fury
+
+  ball
+
+  oval
+
+  media
+
+  fence'
+bip_39_word_new_line12: 'guard
+
+  room
+
+  drum
+
+  coach
+
+  wrestle
+
+  kiss
+
+  fury
+
+  ball
+
+  oval
+
+  media
+
+  fence
+
+  angry'
+bip_39_word_new_line2: 'guard
+
+  room'
+bip_39_word_new_line3: 'guard
+
+  room
+
+  drum'
+bip_39_word_new_line4: 'guard
+
+  room
+
+  drum
+
+  coach'
+bip_39_word_new_line5: 'guard
+
+  room
+
+  drum
+
+  coach
+
+  wrestle'
+bip_39_word_new_line6: 'guard
+
+  room
+
+  drum
+
+  coach
+
+  wrestle
+
+  kiss'
+bip_39_word_new_line7: 'guard
+
+  room
+
+  drum
+
+  coach
+
+  wrestle
+
+  kiss
+
+  fury'
+bip_39_word_new_line8: 'guard
+
+  room
+
+  drum
+
+  coach
+
+  wrestle
+
+  kiss
+
+  fury
+
+  ball'
+bip_39_word_new_line9: 'guard
+
+  room
+
+  drum
+
+  coach
+
+  wrestle
+
+  kiss
+
+  fury
+
+  ball
+
+  oval'
+bip_39_word_space_0:
+- guard
+- room
+- drum
+- coach
+- wrestle
+- kiss
+- fury
+- ball
+- oval
+- media
+- fence
+- angry
+bip_39_word_space_1: guard
+bip_39_word_space_10: guard room drum coach wrestle kiss fury ball oval media
+bip_39_word_space_11: guard room drum coach wrestle kiss fury ball oval media fence
+bip_39_word_space_12: guard room drum coach wrestle kiss fury ball oval media fence
+  angry
+bip_39_word_space_2: guard room
+bip_39_word_space_3: guard room drum
+bip_39_word_space_4: guard room drum coach
+bip_39_word_space_5: guard room drum coach wrestle
+bip_39_word_space_6: guard room drum coach wrestle kiss
+bip_39_word_space_7: guard room drum coach wrestle kiss fury
+bip_39_word_space_8: guard room drum coach wrestle kiss fury ball
+bip_39_word_space_9: guard room drum coach wrestle kiss fury ball oval
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

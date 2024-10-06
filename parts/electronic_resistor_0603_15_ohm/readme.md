@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eternal include
+  * bip 39 word 3: eternal include spirit
+  * bip 39 word: eternal include spirit wreck primary pepper adult swim wheat ill possible able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eternal |  
+| bip_39_word_new_br10 | eternal<br>include<br>spirit<br>wreck<br>primary<br>pepper<br>adult<br>swim<br>wheat<br>ill |  
+| bip_39_word_new_br11 | eternal<br>include<br>spirit<br>wreck<br>primary<br>pepper<br>adult<br>swim<br>wheat<br>ill<br>possible |  
+| bip_39_word_new_br12 | eternal<br>include<br>spirit<br>wreck<br>primary<br>pepper<br>adult<br>swim<br>wheat<br>ill<br>possible<br>able |  
+| bip_39_word_new_br2 | eternal<br>include |  
+| bip_39_word_new_br3 | eternal<br>include<br>spirit |  
+| bip_39_word_new_br4 | eternal<br>include<br>spirit<br>wreck |  
+| bip_39_word_new_br5 | eternal<br>include<br>spirit<br>wreck<br>primary |  
+| bip_39_word_new_br6 | eternal<br>include<br>spirit<br>wreck<br>primary<br>pepper |  
+| bip_39_word_new_br7 | eternal<br>include<br>spirit<br>wreck<br>primary<br>pepper<br>adult |  
+| bip_39_word_new_br8 | eternal<br>include<br>spirit<br>wreck<br>primary<br>pepper<br>adult<br>swim |  
+| bip_39_word_new_br9 | eternal<br>include<br>spirit<br>wreck<br>primary<br>pepper<br>adult<br>swim<br>wheat |  
+| bip_39_word_new_line1 | eternal |  
+| bip_39_word_new_line10 | eternal
+include
+spirit
+wreck
+primary
+pepper
+adult
+swim
+wheat
+ill |  
+| bip_39_word_new_line11 | eternal
+include
+spirit
+wreck
+primary
+pepper
+adult
+swim
+wheat
+ill
+possible |  
+| bip_39_word_new_line12 | eternal
+include
+spirit
+wreck
+primary
+pepper
+adult
+swim
+wheat
+ill
+possible
+able |  
+| bip_39_word_new_line2 | eternal
+include |  
+| bip_39_word_new_line3 | eternal
+include
+spirit |  
+| bip_39_word_new_line4 | eternal
+include
+spirit
+wreck |  
+| bip_39_word_new_line5 | eternal
+include
+spirit
+wreck
+primary |  
+| bip_39_word_new_line6 | eternal
+include
+spirit
+wreck
+primary
+pepper |  
+| bip_39_word_new_line7 | eternal
+include
+spirit
+wreck
+primary
+pepper
+adult |  
+| bip_39_word_new_line8 | eternal
+include
+spirit
+wreck
+primary
+pepper
+adult
+swim |  
+| bip_39_word_new_line9 | eternal
+include
+spirit
+wreck
+primary
+pepper
+adult
+swim
+wheat |  
+| bip_39_word_space_0 | ['eternal', 'include', 'spirit', 'wreck', 'primary', 'pepper', 'adult', 'swim', 'wheat', 'ill', 'possible', 'able'] |  
+| bip_39_word_space_1 | eternal |  
+| bip_39_word_space_10 | eternal include spirit wreck primary pepper adult swim wheat ill |  
+| bip_39_word_space_11 | eternal include spirit wreck primary pepper adult swim wheat ill possible |  
+| bip_39_word_space_12 | eternal include spirit wreck primary pepper adult swim wheat ill possible able |  
+| bip_39_word_space_2 | eternal include |  
+| bip_39_word_space_3 | eternal include spirit |  
+| bip_39_word_space_4 | eternal include spirit wreck |  
+| bip_39_word_space_5 | eternal include spirit wreck primary |  
+| bip_39_word_space_6 | eternal include spirit wreck primary pepper |  
+| bip_39_word_space_7 | eternal include spirit wreck primary pepper adult |  
+| bip_39_word_space_8 | eternal include spirit wreck primary pepper adult swim |  
+| bip_39_word_space_9 | eternal include spirit wreck primary pepper adult swim wheat |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

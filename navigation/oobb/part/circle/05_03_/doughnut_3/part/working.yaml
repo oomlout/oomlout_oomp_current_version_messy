@@ -1,3 +1,185 @@
+bip_39_word_new_br1: comic
+bip_39_word_new_br10: comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi
+bip_39_word_new_br11: comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi<br>end
+bip_39_word_new_br12: comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey<br>kiwi<br>end<br>any
+bip_39_word_new_br2: comic<br>crime
+bip_39_word_new_br3: comic<br>crime<br>series
+bip_39_word_new_br4: comic<br>crime<br>series<br>train
+bip_39_word_new_br5: comic<br>crime<br>series<br>train<br>vibrant
+bip_39_word_new_br6: comic<br>crime<br>series<br>train<br>vibrant<br>taxi
+bip_39_word_new_br7: comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin
+bip_39_word_new_br8: comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond
+bip_39_word_new_br9: comic<br>crime<br>series<br>train<br>vibrant<br>taxi<br>spin<br>pond<br>obey
+bip_39_word_new_line1: comic
+bip_39_word_new_line10: 'comic
+
+  crime
+
+  series
+
+  train
+
+  vibrant
+
+  taxi
+
+  spin
+
+  pond
+
+  obey
+
+  kiwi'
+bip_39_word_new_line11: 'comic
+
+  crime
+
+  series
+
+  train
+
+  vibrant
+
+  taxi
+
+  spin
+
+  pond
+
+  obey
+
+  kiwi
+
+  end'
+bip_39_word_new_line12: 'comic
+
+  crime
+
+  series
+
+  train
+
+  vibrant
+
+  taxi
+
+  spin
+
+  pond
+
+  obey
+
+  kiwi
+
+  end
+
+  any'
+bip_39_word_new_line2: 'comic
+
+  crime'
+bip_39_word_new_line3: 'comic
+
+  crime
+
+  series'
+bip_39_word_new_line4: 'comic
+
+  crime
+
+  series
+
+  train'
+bip_39_word_new_line5: 'comic
+
+  crime
+
+  series
+
+  train
+
+  vibrant'
+bip_39_word_new_line6: 'comic
+
+  crime
+
+  series
+
+  train
+
+  vibrant
+
+  taxi'
+bip_39_word_new_line7: 'comic
+
+  crime
+
+  series
+
+  train
+
+  vibrant
+
+  taxi
+
+  spin'
+bip_39_word_new_line8: 'comic
+
+  crime
+
+  series
+
+  train
+
+  vibrant
+
+  taxi
+
+  spin
+
+  pond'
+bip_39_word_new_line9: 'comic
+
+  crime
+
+  series
+
+  train
+
+  vibrant
+
+  taxi
+
+  spin
+
+  pond
+
+  obey'
+bip_39_word_space_0:
+- comic
+- crime
+- series
+- train
+- vibrant
+- taxi
+- spin
+- pond
+- obey
+- kiwi
+- end
+- any
+bip_39_word_space_1: comic
+bip_39_word_space_10: comic crime series train vibrant taxi spin pond obey kiwi
+bip_39_word_space_11: comic crime series train vibrant taxi spin pond obey kiwi end
+bip_39_word_space_12: comic crime series train vibrant taxi spin pond obey kiwi end
+  any
+bip_39_word_space_2: comic crime
+bip_39_word_space_3: comic crime series
+bip_39_word_space_4: comic crime series train
+bip_39_word_space_5: comic crime series train vibrant
+bip_39_word_space_6: comic crime series train vibrant taxi
+bip_39_word_space_7: comic crime series train vibrant taxi spin
+bip_39_word_space_8: comic crime series train vibrant taxi spin pond
+bip_39_word_space_9: comic crime series train vibrant taxi spin pond obey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

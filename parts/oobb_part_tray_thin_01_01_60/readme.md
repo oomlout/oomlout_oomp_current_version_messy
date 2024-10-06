@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: apology fashion
+  * bip 39 word 3: apology fashion model
+  * bip 39 word: apology fashion model boss heart south brick air strong dolphin hammer angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | apology |  
+| bip_39_word_new_br10 | apology<br>fashion<br>model<br>boss<br>heart<br>south<br>brick<br>air<br>strong<br>dolphin |  
+| bip_39_word_new_br11 | apology<br>fashion<br>model<br>boss<br>heart<br>south<br>brick<br>air<br>strong<br>dolphin<br>hammer |  
+| bip_39_word_new_br12 | apology<br>fashion<br>model<br>boss<br>heart<br>south<br>brick<br>air<br>strong<br>dolphin<br>hammer<br>angle |  
+| bip_39_word_new_br2 | apology<br>fashion |  
+| bip_39_word_new_br3 | apology<br>fashion<br>model |  
+| bip_39_word_new_br4 | apology<br>fashion<br>model<br>boss |  
+| bip_39_word_new_br5 | apology<br>fashion<br>model<br>boss<br>heart |  
+| bip_39_word_new_br6 | apology<br>fashion<br>model<br>boss<br>heart<br>south |  
+| bip_39_word_new_br7 | apology<br>fashion<br>model<br>boss<br>heart<br>south<br>brick |  
+| bip_39_word_new_br8 | apology<br>fashion<br>model<br>boss<br>heart<br>south<br>brick<br>air |  
+| bip_39_word_new_br9 | apology<br>fashion<br>model<br>boss<br>heart<br>south<br>brick<br>air<br>strong |  
+| bip_39_word_new_line1 | apology |  
+| bip_39_word_new_line10 | apology
+fashion
+model
+boss
+heart
+south
+brick
+air
+strong
+dolphin |  
+| bip_39_word_new_line11 | apology
+fashion
+model
+boss
+heart
+south
+brick
+air
+strong
+dolphin
+hammer |  
+| bip_39_word_new_line12 | apology
+fashion
+model
+boss
+heart
+south
+brick
+air
+strong
+dolphin
+hammer
+angle |  
+| bip_39_word_new_line2 | apology
+fashion |  
+| bip_39_word_new_line3 | apology
+fashion
+model |  
+| bip_39_word_new_line4 | apology
+fashion
+model
+boss |  
+| bip_39_word_new_line5 | apology
+fashion
+model
+boss
+heart |  
+| bip_39_word_new_line6 | apology
+fashion
+model
+boss
+heart
+south |  
+| bip_39_word_new_line7 | apology
+fashion
+model
+boss
+heart
+south
+brick |  
+| bip_39_word_new_line8 | apology
+fashion
+model
+boss
+heart
+south
+brick
+air |  
+| bip_39_word_new_line9 | apology
+fashion
+model
+boss
+heart
+south
+brick
+air
+strong |  
+| bip_39_word_space_0 | ['apology', 'fashion', 'model', 'boss', 'heart', 'south', 'brick', 'air', 'strong', 'dolphin', 'hammer', 'angle'] |  
+| bip_39_word_space_1 | apology |  
+| bip_39_word_space_10 | apology fashion model boss heart south brick air strong dolphin |  
+| bip_39_word_space_11 | apology fashion model boss heart south brick air strong dolphin hammer |  
+| bip_39_word_space_12 | apology fashion model boss heart south brick air strong dolphin hammer angle |  
+| bip_39_word_space_2 | apology fashion |  
+| bip_39_word_space_3 | apology fashion model |  
+| bip_39_word_space_4 | apology fashion model boss |  
+| bip_39_word_space_5 | apology fashion model boss heart |  
+| bip_39_word_space_6 | apology fashion model boss heart south |  
+| bip_39_word_space_7 | apology fashion model boss heart south brick |  
+| bip_39_word_space_8 | apology fashion model boss heart south brick air |  
+| bip_39_word_space_9 | apology fashion model boss heart south brick air strong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

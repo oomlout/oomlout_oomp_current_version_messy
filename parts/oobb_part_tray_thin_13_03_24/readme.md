@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: photo express
+  * bip 39 word 3: photo express any
+  * bip 39 word: photo express any rally jar toward perfect bottom draft dove pond author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | photo |  
+| bip_39_word_new_br10 | photo<br>express<br>any<br>rally<br>jar<br>toward<br>perfect<br>bottom<br>draft<br>dove |  
+| bip_39_word_new_br11 | photo<br>express<br>any<br>rally<br>jar<br>toward<br>perfect<br>bottom<br>draft<br>dove<br>pond |  
+| bip_39_word_new_br12 | photo<br>express<br>any<br>rally<br>jar<br>toward<br>perfect<br>bottom<br>draft<br>dove<br>pond<br>author |  
+| bip_39_word_new_br2 | photo<br>express |  
+| bip_39_word_new_br3 | photo<br>express<br>any |  
+| bip_39_word_new_br4 | photo<br>express<br>any<br>rally |  
+| bip_39_word_new_br5 | photo<br>express<br>any<br>rally<br>jar |  
+| bip_39_word_new_br6 | photo<br>express<br>any<br>rally<br>jar<br>toward |  
+| bip_39_word_new_br7 | photo<br>express<br>any<br>rally<br>jar<br>toward<br>perfect |  
+| bip_39_word_new_br8 | photo<br>express<br>any<br>rally<br>jar<br>toward<br>perfect<br>bottom |  
+| bip_39_word_new_br9 | photo<br>express<br>any<br>rally<br>jar<br>toward<br>perfect<br>bottom<br>draft |  
+| bip_39_word_new_line1 | photo |  
+| bip_39_word_new_line10 | photo
+express
+any
+rally
+jar
+toward
+perfect
+bottom
+draft
+dove |  
+| bip_39_word_new_line11 | photo
+express
+any
+rally
+jar
+toward
+perfect
+bottom
+draft
+dove
+pond |  
+| bip_39_word_new_line12 | photo
+express
+any
+rally
+jar
+toward
+perfect
+bottom
+draft
+dove
+pond
+author |  
+| bip_39_word_new_line2 | photo
+express |  
+| bip_39_word_new_line3 | photo
+express
+any |  
+| bip_39_word_new_line4 | photo
+express
+any
+rally |  
+| bip_39_word_new_line5 | photo
+express
+any
+rally
+jar |  
+| bip_39_word_new_line6 | photo
+express
+any
+rally
+jar
+toward |  
+| bip_39_word_new_line7 | photo
+express
+any
+rally
+jar
+toward
+perfect |  
+| bip_39_word_new_line8 | photo
+express
+any
+rally
+jar
+toward
+perfect
+bottom |  
+| bip_39_word_new_line9 | photo
+express
+any
+rally
+jar
+toward
+perfect
+bottom
+draft |  
+| bip_39_word_space_0 | ['photo', 'express', 'any', 'rally', 'jar', 'toward', 'perfect', 'bottom', 'draft', 'dove', 'pond', 'author'] |  
+| bip_39_word_space_1 | photo |  
+| bip_39_word_space_10 | photo express any rally jar toward perfect bottom draft dove |  
+| bip_39_word_space_11 | photo express any rally jar toward perfect bottom draft dove pond |  
+| bip_39_word_space_12 | photo express any rally jar toward perfect bottom draft dove pond author |  
+| bip_39_word_space_2 | photo express |  
+| bip_39_word_space_3 | photo express any |  
+| bip_39_word_space_4 | photo express any rally |  
+| bip_39_word_space_5 | photo express any rally jar |  
+| bip_39_word_space_6 | photo express any rally jar toward |  
+| bip_39_word_space_7 | photo express any rally jar toward perfect |  
+| bip_39_word_space_8 | photo express any rally jar toward perfect bottom |  
+| bip_39_word_space_9 | photo express any rally jar toward perfect bottom draft |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

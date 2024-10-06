@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: witness snap
+  * bip 39 word 3: witness snap two
+  * bip 39 word: witness snap two source punch coconut own climb sunset matrix reveal any
 
 ### other_codes
 * short_code: ss5m20
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | witness |  
+| bip_39_word_new_br10 | witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix |  
+| bip_39_word_new_br11 | witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix<br>reveal |  
+| bip_39_word_new_br12 | witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix<br>reveal<br>any |  
+| bip_39_word_new_br2 | witness<br>snap |  
+| bip_39_word_new_br3 | witness<br>snap<br>two |  
+| bip_39_word_new_br4 | witness<br>snap<br>two<br>source |  
+| bip_39_word_new_br5 | witness<br>snap<br>two<br>source<br>punch |  
+| bip_39_word_new_br6 | witness<br>snap<br>two<br>source<br>punch<br>coconut |  
+| bip_39_word_new_br7 | witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own |  
+| bip_39_word_new_br8 | witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb |  
+| bip_39_word_new_br9 | witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset |  
+| bip_39_word_new_line1 | witness |  
+| bip_39_word_new_line10 | witness
+snap
+two
+source
+punch
+coconut
+own
+climb
+sunset
+matrix |  
+| bip_39_word_new_line11 | witness
+snap
+two
+source
+punch
+coconut
+own
+climb
+sunset
+matrix
+reveal |  
+| bip_39_word_new_line12 | witness
+snap
+two
+source
+punch
+coconut
+own
+climb
+sunset
+matrix
+reveal
+any |  
+| bip_39_word_new_line2 | witness
+snap |  
+| bip_39_word_new_line3 | witness
+snap
+two |  
+| bip_39_word_new_line4 | witness
+snap
+two
+source |  
+| bip_39_word_new_line5 | witness
+snap
+two
+source
+punch |  
+| bip_39_word_new_line6 | witness
+snap
+two
+source
+punch
+coconut |  
+| bip_39_word_new_line7 | witness
+snap
+two
+source
+punch
+coconut
+own |  
+| bip_39_word_new_line8 | witness
+snap
+two
+source
+punch
+coconut
+own
+climb |  
+| bip_39_word_new_line9 | witness
+snap
+two
+source
+punch
+coconut
+own
+climb
+sunset |  
+| bip_39_word_space_0 | ['witness', 'snap', 'two', 'source', 'punch', 'coconut', 'own', 'climb', 'sunset', 'matrix', 'reveal', 'any'] |  
+| bip_39_word_space_1 | witness |  
+| bip_39_word_space_10 | witness snap two source punch coconut own climb sunset matrix |  
+| bip_39_word_space_11 | witness snap two source punch coconut own climb sunset matrix reveal |  
+| bip_39_word_space_12 | witness snap two source punch coconut own climb sunset matrix reveal any |  
+| bip_39_word_space_2 | witness snap |  
+| bip_39_word_space_3 | witness snap two |  
+| bip_39_word_space_4 | witness snap two source |  
+| bip_39_word_space_5 | witness snap two source punch |  
+| bip_39_word_space_6 | witness snap two source punch coconut |  
+| bip_39_word_space_7 | witness snap two source punch coconut own |  
+| bip_39_word_space_8 | witness snap two source punch coconut own climb |  
+| bip_39_word_space_9 | witness snap two source punch coconut own climb sunset |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: kick
+bip_39_word_new_br10: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember
+bip_39_word_new_br11: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember<br>half
+bip_39_word_new_br12: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice<br>remember<br>half<br>acid
+bip_39_word_new_br2: kick<br>muffin
+bip_39_word_new_br3: kick<br>muffin<br>trip
+bip_39_word_new_br4: kick<br>muffin<br>trip<br>govern
+bip_39_word_new_br5: kick<br>muffin<br>trip<br>govern<br>paper
+bip_39_word_new_br6: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy
+bip_39_word_new_br7: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike
+bip_39_word_new_br8: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol
+bip_39_word_new_br9: kick<br>muffin<br>trip<br>govern<br>paper<br>puppy<br>strike<br>alcohol<br>nice
+bip_39_word_new_line1: kick
+bip_39_word_new_line10: 'kick
+
+  muffin
+
+  trip
+
+  govern
+
+  paper
+
+  puppy
+
+  strike
+
+  alcohol
+
+  nice
+
+  remember'
+bip_39_word_new_line11: 'kick
+
+  muffin
+
+  trip
+
+  govern
+
+  paper
+
+  puppy
+
+  strike
+
+  alcohol
+
+  nice
+
+  remember
+
+  half'
+bip_39_word_new_line12: 'kick
+
+  muffin
+
+  trip
+
+  govern
+
+  paper
+
+  puppy
+
+  strike
+
+  alcohol
+
+  nice
+
+  remember
+
+  half
+
+  acid'
+bip_39_word_new_line2: 'kick
+
+  muffin'
+bip_39_word_new_line3: 'kick
+
+  muffin
+
+  trip'
+bip_39_word_new_line4: 'kick
+
+  muffin
+
+  trip
+
+  govern'
+bip_39_word_new_line5: 'kick
+
+  muffin
+
+  trip
+
+  govern
+
+  paper'
+bip_39_word_new_line6: 'kick
+
+  muffin
+
+  trip
+
+  govern
+
+  paper
+
+  puppy'
+bip_39_word_new_line7: 'kick
+
+  muffin
+
+  trip
+
+  govern
+
+  paper
+
+  puppy
+
+  strike'
+bip_39_word_new_line8: 'kick
+
+  muffin
+
+  trip
+
+  govern
+
+  paper
+
+  puppy
+
+  strike
+
+  alcohol'
+bip_39_word_new_line9: 'kick
+
+  muffin
+
+  trip
+
+  govern
+
+  paper
+
+  puppy
+
+  strike
+
+  alcohol
+
+  nice'
+bip_39_word_space_0:
+- kick
+- muffin
+- trip
+- govern
+- paper
+- puppy
+- strike
+- alcohol
+- nice
+- remember
+- half
+- acid
+bip_39_word_space_1: kick
+bip_39_word_space_10: kick muffin trip govern paper puppy strike alcohol nice remember
+bip_39_word_space_11: kick muffin trip govern paper puppy strike alcohol nice remember
+  half
+bip_39_word_space_12: kick muffin trip govern paper puppy strike alcohol nice remember
+  half acid
+bip_39_word_space_2: kick muffin
+bip_39_word_space_3: kick muffin trip
+bip_39_word_space_4: kick muffin trip govern
+bip_39_word_space_5: kick muffin trip govern paper
+bip_39_word_space_6: kick muffin trip govern paper puppy
+bip_39_word_space_7: kick muffin trip govern paper puppy strike
+bip_39_word_space_8: kick muffin trip govern paper puppy strike alcohol
+bip_39_word_space_9: kick muffin trip govern paper puppy strike alcohol nice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

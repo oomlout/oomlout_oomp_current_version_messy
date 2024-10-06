@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pluck
+bip_39_word_new_br10: pluck<br>better<br>hub<br>antique<br>find<br>arrive<br>kite<br>pigeon<br>tower<br>fault
+bip_39_word_new_br11: pluck<br>better<br>hub<br>antique<br>find<br>arrive<br>kite<br>pigeon<br>tower<br>fault<br>seven
+bip_39_word_new_br12: pluck<br>better<br>hub<br>antique<br>find<br>arrive<br>kite<br>pigeon<br>tower<br>fault<br>seven<br>advance
+bip_39_word_new_br2: pluck<br>better
+bip_39_word_new_br3: pluck<br>better<br>hub
+bip_39_word_new_br4: pluck<br>better<br>hub<br>antique
+bip_39_word_new_br5: pluck<br>better<br>hub<br>antique<br>find
+bip_39_word_new_br6: pluck<br>better<br>hub<br>antique<br>find<br>arrive
+bip_39_word_new_br7: pluck<br>better<br>hub<br>antique<br>find<br>arrive<br>kite
+bip_39_word_new_br8: pluck<br>better<br>hub<br>antique<br>find<br>arrive<br>kite<br>pigeon
+bip_39_word_new_br9: pluck<br>better<br>hub<br>antique<br>find<br>arrive<br>kite<br>pigeon<br>tower
+bip_39_word_new_line1: pluck
+bip_39_word_new_line10: 'pluck
+
+  better
+
+  hub
+
+  antique
+
+  find
+
+  arrive
+
+  kite
+
+  pigeon
+
+  tower
+
+  fault'
+bip_39_word_new_line11: 'pluck
+
+  better
+
+  hub
+
+  antique
+
+  find
+
+  arrive
+
+  kite
+
+  pigeon
+
+  tower
+
+  fault
+
+  seven'
+bip_39_word_new_line12: 'pluck
+
+  better
+
+  hub
+
+  antique
+
+  find
+
+  arrive
+
+  kite
+
+  pigeon
+
+  tower
+
+  fault
+
+  seven
+
+  advance'
+bip_39_word_new_line2: 'pluck
+
+  better'
+bip_39_word_new_line3: 'pluck
+
+  better
+
+  hub'
+bip_39_word_new_line4: 'pluck
+
+  better
+
+  hub
+
+  antique'
+bip_39_word_new_line5: 'pluck
+
+  better
+
+  hub
+
+  antique
+
+  find'
+bip_39_word_new_line6: 'pluck
+
+  better
+
+  hub
+
+  antique
+
+  find
+
+  arrive'
+bip_39_word_new_line7: 'pluck
+
+  better
+
+  hub
+
+  antique
+
+  find
+
+  arrive
+
+  kite'
+bip_39_word_new_line8: 'pluck
+
+  better
+
+  hub
+
+  antique
+
+  find
+
+  arrive
+
+  kite
+
+  pigeon'
+bip_39_word_new_line9: 'pluck
+
+  better
+
+  hub
+
+  antique
+
+  find
+
+  arrive
+
+  kite
+
+  pigeon
+
+  tower'
+bip_39_word_space_0:
+- pluck
+- better
+- hub
+- antique
+- find
+- arrive
+- kite
+- pigeon
+- tower
+- fault
+- seven
+- advance
+bip_39_word_space_1: pluck
+bip_39_word_space_10: pluck better hub antique find arrive kite pigeon tower fault
+bip_39_word_space_11: pluck better hub antique find arrive kite pigeon tower fault
+  seven
+bip_39_word_space_12: pluck better hub antique find arrive kite pigeon tower fault
+  seven advance
+bip_39_word_space_2: pluck better
+bip_39_word_space_3: pluck better hub
+bip_39_word_space_4: pluck better hub antique
+bip_39_word_space_5: pluck better hub antique find
+bip_39_word_space_6: pluck better hub antique find arrive
+bip_39_word_space_7: pluck better hub antique find arrive kite
+bip_39_word_space_8: pluck better hub antique find arrive kite pigeon
+bip_39_word_space_9: pluck better hub antique find arrive kite pigeon tower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

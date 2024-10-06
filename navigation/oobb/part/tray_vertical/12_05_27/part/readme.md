@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gallery drip
+  * bip 39 word 3: gallery drip woman
+  * bip 39 word: gallery drip woman display shop table hope silent refuse tube outdoor abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gallery |  
+| bip_39_word_new_br10 | gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube |  
+| bip_39_word_new_br11 | gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube<br>outdoor |  
+| bip_39_word_new_br12 | gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse<br>tube<br>outdoor<br>abstract |  
+| bip_39_word_new_br2 | gallery<br>drip |  
+| bip_39_word_new_br3 | gallery<br>drip<br>woman |  
+| bip_39_word_new_br4 | gallery<br>drip<br>woman<br>display |  
+| bip_39_word_new_br5 | gallery<br>drip<br>woman<br>display<br>shop |  
+| bip_39_word_new_br6 | gallery<br>drip<br>woman<br>display<br>shop<br>table |  
+| bip_39_word_new_br7 | gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope |  
+| bip_39_word_new_br8 | gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent |  
+| bip_39_word_new_br9 | gallery<br>drip<br>woman<br>display<br>shop<br>table<br>hope<br>silent<br>refuse |  
+| bip_39_word_new_line1 | gallery |  
+| bip_39_word_new_line10 | gallery
+drip
+woman
+display
+shop
+table
+hope
+silent
+refuse
+tube |  
+| bip_39_word_new_line11 | gallery
+drip
+woman
+display
+shop
+table
+hope
+silent
+refuse
+tube
+outdoor |  
+| bip_39_word_new_line12 | gallery
+drip
+woman
+display
+shop
+table
+hope
+silent
+refuse
+tube
+outdoor
+abstract |  
+| bip_39_word_new_line2 | gallery
+drip |  
+| bip_39_word_new_line3 | gallery
+drip
+woman |  
+| bip_39_word_new_line4 | gallery
+drip
+woman
+display |  
+| bip_39_word_new_line5 | gallery
+drip
+woman
+display
+shop |  
+| bip_39_word_new_line6 | gallery
+drip
+woman
+display
+shop
+table |  
+| bip_39_word_new_line7 | gallery
+drip
+woman
+display
+shop
+table
+hope |  
+| bip_39_word_new_line8 | gallery
+drip
+woman
+display
+shop
+table
+hope
+silent |  
+| bip_39_word_new_line9 | gallery
+drip
+woman
+display
+shop
+table
+hope
+silent
+refuse |  
+| bip_39_word_space_0 | ['gallery', 'drip', 'woman', 'display', 'shop', 'table', 'hope', 'silent', 'refuse', 'tube', 'outdoor', 'abstract'] |  
+| bip_39_word_space_1 | gallery |  
+| bip_39_word_space_10 | gallery drip woman display shop table hope silent refuse tube |  
+| bip_39_word_space_11 | gallery drip woman display shop table hope silent refuse tube outdoor |  
+| bip_39_word_space_12 | gallery drip woman display shop table hope silent refuse tube outdoor abstract |  
+| bip_39_word_space_2 | gallery drip |  
+| bip_39_word_space_3 | gallery drip woman |  
+| bip_39_word_space_4 | gallery drip woman display |  
+| bip_39_word_space_5 | gallery drip woman display shop |  
+| bip_39_word_space_6 | gallery drip woman display shop table |  
+| bip_39_word_space_7 | gallery drip woman display shop table hope |  
+| bip_39_word_space_8 | gallery drip woman display shop table hope silent |  
+| bip_39_word_space_9 | gallery drip woman display shop table hope silent refuse |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

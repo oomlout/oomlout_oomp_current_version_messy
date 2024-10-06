@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: harbor pledge
+  * bip 39 word 3: harbor pledge trash
+  * bip 39 word: harbor pledge trash patrol neutral mad song park fee worth finger august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | harbor |  
+| bip_39_word_new_br10 | harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee<br>worth |  
+| bip_39_word_new_br11 | harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee<br>worth<br>finger |  
+| bip_39_word_new_br12 | harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee<br>worth<br>finger<br>august |  
+| bip_39_word_new_br2 | harbor<br>pledge |  
+| bip_39_word_new_br3 | harbor<br>pledge<br>trash |  
+| bip_39_word_new_br4 | harbor<br>pledge<br>trash<br>patrol |  
+| bip_39_word_new_br5 | harbor<br>pledge<br>trash<br>patrol<br>neutral |  
+| bip_39_word_new_br6 | harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad |  
+| bip_39_word_new_br7 | harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song |  
+| bip_39_word_new_br8 | harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park |  
+| bip_39_word_new_br9 | harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee |  
+| bip_39_word_new_line1 | harbor |  
+| bip_39_word_new_line10 | harbor
+pledge
+trash
+patrol
+neutral
+mad
+song
+park
+fee
+worth |  
+| bip_39_word_new_line11 | harbor
+pledge
+trash
+patrol
+neutral
+mad
+song
+park
+fee
+worth
+finger |  
+| bip_39_word_new_line12 | harbor
+pledge
+trash
+patrol
+neutral
+mad
+song
+park
+fee
+worth
+finger
+august |  
+| bip_39_word_new_line2 | harbor
+pledge |  
+| bip_39_word_new_line3 | harbor
+pledge
+trash |  
+| bip_39_word_new_line4 | harbor
+pledge
+trash
+patrol |  
+| bip_39_word_new_line5 | harbor
+pledge
+trash
+patrol
+neutral |  
+| bip_39_word_new_line6 | harbor
+pledge
+trash
+patrol
+neutral
+mad |  
+| bip_39_word_new_line7 | harbor
+pledge
+trash
+patrol
+neutral
+mad
+song |  
+| bip_39_word_new_line8 | harbor
+pledge
+trash
+patrol
+neutral
+mad
+song
+park |  
+| bip_39_word_new_line9 | harbor
+pledge
+trash
+patrol
+neutral
+mad
+song
+park
+fee |  
+| bip_39_word_space_0 | ['harbor', 'pledge', 'trash', 'patrol', 'neutral', 'mad', 'song', 'park', 'fee', 'worth', 'finger', 'august'] |  
+| bip_39_word_space_1 | harbor |  
+| bip_39_word_space_10 | harbor pledge trash patrol neutral mad song park fee worth |  
+| bip_39_word_space_11 | harbor pledge trash patrol neutral mad song park fee worth finger |  
+| bip_39_word_space_12 | harbor pledge trash patrol neutral mad song park fee worth finger august |  
+| bip_39_word_space_2 | harbor pledge |  
+| bip_39_word_space_3 | harbor pledge trash |  
+| bip_39_word_space_4 | harbor pledge trash patrol |  
+| bip_39_word_space_5 | harbor pledge trash patrol neutral |  
+| bip_39_word_space_6 | harbor pledge trash patrol neutral mad |  
+| bip_39_word_space_7 | harbor pledge trash patrol neutral mad song |  
+| bip_39_word_space_8 | harbor pledge trash patrol neutral mad song park |  
+| bip_39_word_space_9 | harbor pledge trash patrol neutral mad song park fee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

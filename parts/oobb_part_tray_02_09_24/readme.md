@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: goddess slab
+  * bip 39 word 3: goddess slab best
+  * bip 39 word: goddess slab best maze have quick youth fire egg ecology cat anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | goddess |  
+| bip_39_word_new_br10 | goddess<br>slab<br>best<br>maze<br>have<br>quick<br>youth<br>fire<br>egg<br>ecology |  
+| bip_39_word_new_br11 | goddess<br>slab<br>best<br>maze<br>have<br>quick<br>youth<br>fire<br>egg<br>ecology<br>cat |  
+| bip_39_word_new_br12 | goddess<br>slab<br>best<br>maze<br>have<br>quick<br>youth<br>fire<br>egg<br>ecology<br>cat<br>anchor |  
+| bip_39_word_new_br2 | goddess<br>slab |  
+| bip_39_word_new_br3 | goddess<br>slab<br>best |  
+| bip_39_word_new_br4 | goddess<br>slab<br>best<br>maze |  
+| bip_39_word_new_br5 | goddess<br>slab<br>best<br>maze<br>have |  
+| bip_39_word_new_br6 | goddess<br>slab<br>best<br>maze<br>have<br>quick |  
+| bip_39_word_new_br7 | goddess<br>slab<br>best<br>maze<br>have<br>quick<br>youth |  
+| bip_39_word_new_br8 | goddess<br>slab<br>best<br>maze<br>have<br>quick<br>youth<br>fire |  
+| bip_39_word_new_br9 | goddess<br>slab<br>best<br>maze<br>have<br>quick<br>youth<br>fire<br>egg |  
+| bip_39_word_new_line1 | goddess |  
+| bip_39_word_new_line10 | goddess
+slab
+best
+maze
+have
+quick
+youth
+fire
+egg
+ecology |  
+| bip_39_word_new_line11 | goddess
+slab
+best
+maze
+have
+quick
+youth
+fire
+egg
+ecology
+cat |  
+| bip_39_word_new_line12 | goddess
+slab
+best
+maze
+have
+quick
+youth
+fire
+egg
+ecology
+cat
+anchor |  
+| bip_39_word_new_line2 | goddess
+slab |  
+| bip_39_word_new_line3 | goddess
+slab
+best |  
+| bip_39_word_new_line4 | goddess
+slab
+best
+maze |  
+| bip_39_word_new_line5 | goddess
+slab
+best
+maze
+have |  
+| bip_39_word_new_line6 | goddess
+slab
+best
+maze
+have
+quick |  
+| bip_39_word_new_line7 | goddess
+slab
+best
+maze
+have
+quick
+youth |  
+| bip_39_word_new_line8 | goddess
+slab
+best
+maze
+have
+quick
+youth
+fire |  
+| bip_39_word_new_line9 | goddess
+slab
+best
+maze
+have
+quick
+youth
+fire
+egg |  
+| bip_39_word_space_0 | ['goddess', 'slab', 'best', 'maze', 'have', 'quick', 'youth', 'fire', 'egg', 'ecology', 'cat', 'anchor'] |  
+| bip_39_word_space_1 | goddess |  
+| bip_39_word_space_10 | goddess slab best maze have quick youth fire egg ecology |  
+| bip_39_word_space_11 | goddess slab best maze have quick youth fire egg ecology cat |  
+| bip_39_word_space_12 | goddess slab best maze have quick youth fire egg ecology cat anchor |  
+| bip_39_word_space_2 | goddess slab |  
+| bip_39_word_space_3 | goddess slab best |  
+| bip_39_word_space_4 | goddess slab best maze |  
+| bip_39_word_space_5 | goddess slab best maze have |  
+| bip_39_word_space_6 | goddess slab best maze have quick |  
+| bip_39_word_space_7 | goddess slab best maze have quick youth |  
+| bip_39_word_space_8 | goddess slab best maze have quick youth fire |  
+| bip_39_word_space_9 | goddess slab best maze have quick youth fire egg |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

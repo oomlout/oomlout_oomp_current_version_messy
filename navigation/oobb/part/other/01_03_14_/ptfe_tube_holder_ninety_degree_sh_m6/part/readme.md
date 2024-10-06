@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ptfe_tube_holder_ninety_degree_sh_m6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: abstract end
+  * bip 39 word 3: abstract end book
+  * bip 39 word: abstract end book alert better sting resemble imitate lens grape enroll argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | abstract |  
+| bip_39_word_new_br10 | abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens<br>grape |  
+| bip_39_word_new_br11 | abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens<br>grape<br>enroll |  
+| bip_39_word_new_br12 | abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens<br>grape<br>enroll<br>argue |  
+| bip_39_word_new_br2 | abstract<br>end |  
+| bip_39_word_new_br3 | abstract<br>end<br>book |  
+| bip_39_word_new_br4 | abstract<br>end<br>book<br>alert |  
+| bip_39_word_new_br5 | abstract<br>end<br>book<br>alert<br>better |  
+| bip_39_word_new_br6 | abstract<br>end<br>book<br>alert<br>better<br>sting |  
+| bip_39_word_new_br7 | abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble |  
+| bip_39_word_new_br8 | abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate |  
+| bip_39_word_new_br9 | abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens |  
+| bip_39_word_new_line1 | abstract |  
+| bip_39_word_new_line10 | abstract
+end
+book
+alert
+better
+sting
+resemble
+imitate
+lens
+grape |  
+| bip_39_word_new_line11 | abstract
+end
+book
+alert
+better
+sting
+resemble
+imitate
+lens
+grape
+enroll |  
+| bip_39_word_new_line12 | abstract
+end
+book
+alert
+better
+sting
+resemble
+imitate
+lens
+grape
+enroll
+argue |  
+| bip_39_word_new_line2 | abstract
+end |  
+| bip_39_word_new_line3 | abstract
+end
+book |  
+| bip_39_word_new_line4 | abstract
+end
+book
+alert |  
+| bip_39_word_new_line5 | abstract
+end
+book
+alert
+better |  
+| bip_39_word_new_line6 | abstract
+end
+book
+alert
+better
+sting |  
+| bip_39_word_new_line7 | abstract
+end
+book
+alert
+better
+sting
+resemble |  
+| bip_39_word_new_line8 | abstract
+end
+book
+alert
+better
+sting
+resemble
+imitate |  
+| bip_39_word_new_line9 | abstract
+end
+book
+alert
+better
+sting
+resemble
+imitate
+lens |  
+| bip_39_word_space_0 | ['abstract', 'end', 'book', 'alert', 'better', 'sting', 'resemble', 'imitate', 'lens', 'grape', 'enroll', 'argue'] |  
+| bip_39_word_space_1 | abstract |  
+| bip_39_word_space_10 | abstract end book alert better sting resemble imitate lens grape |  
+| bip_39_word_space_11 | abstract end book alert better sting resemble imitate lens grape enroll |  
+| bip_39_word_space_12 | abstract end book alert better sting resemble imitate lens grape enroll argue |  
+| bip_39_word_space_2 | abstract end |  
+| bip_39_word_space_3 | abstract end book |  
+| bip_39_word_space_4 | abstract end book alert |  
+| bip_39_word_space_5 | abstract end book alert better |  
+| bip_39_word_space_6 | abstract end book alert better sting |  
+| bip_39_word_space_7 | abstract end book alert better sting resemble |  
+| bip_39_word_space_8 | abstract end book alert better sting resemble imitate |  
+| bip_39_word_space_9 | abstract end book alert better sting resemble imitate lens |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

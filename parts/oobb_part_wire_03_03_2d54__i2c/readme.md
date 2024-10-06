@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: i2c
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bone tortoise
+  * bip 39 word 3: bone tortoise face
+  * bip 39 word: bone tortoise face stadium skirt travel riot gift truth trip mention add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bone |  
+| bip_39_word_new_br10 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip |  
+| bip_39_word_new_br11 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip<br>mention |  
+| bip_39_word_new_br12 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth<br>trip<br>mention<br>add |  
+| bip_39_word_new_br2 | bone<br>tortoise |  
+| bip_39_word_new_br3 | bone<br>tortoise<br>face |  
+| bip_39_word_new_br4 | bone<br>tortoise<br>face<br>stadium |  
+| bip_39_word_new_br5 | bone<br>tortoise<br>face<br>stadium<br>skirt |  
+| bip_39_word_new_br6 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel |  
+| bip_39_word_new_br7 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot |  
+| bip_39_word_new_br8 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift |  
+| bip_39_word_new_br9 | bone<br>tortoise<br>face<br>stadium<br>skirt<br>travel<br>riot<br>gift<br>truth |  
+| bip_39_word_new_line1 | bone |  
+| bip_39_word_new_line10 | bone
+tortoise
+face
+stadium
+skirt
+travel
+riot
+gift
+truth
+trip |  
+| bip_39_word_new_line11 | bone
+tortoise
+face
+stadium
+skirt
+travel
+riot
+gift
+truth
+trip
+mention |  
+| bip_39_word_new_line12 | bone
+tortoise
+face
+stadium
+skirt
+travel
+riot
+gift
+truth
+trip
+mention
+add |  
+| bip_39_word_new_line2 | bone
+tortoise |  
+| bip_39_word_new_line3 | bone
+tortoise
+face |  
+| bip_39_word_new_line4 | bone
+tortoise
+face
+stadium |  
+| bip_39_word_new_line5 | bone
+tortoise
+face
+stadium
+skirt |  
+| bip_39_word_new_line6 | bone
+tortoise
+face
+stadium
+skirt
+travel |  
+| bip_39_word_new_line7 | bone
+tortoise
+face
+stadium
+skirt
+travel
+riot |  
+| bip_39_word_new_line8 | bone
+tortoise
+face
+stadium
+skirt
+travel
+riot
+gift |  
+| bip_39_word_new_line9 | bone
+tortoise
+face
+stadium
+skirt
+travel
+riot
+gift
+truth |  
+| bip_39_word_space_0 | ['bone', 'tortoise', 'face', 'stadium', 'skirt', 'travel', 'riot', 'gift', 'truth', 'trip', 'mention', 'add'] |  
+| bip_39_word_space_1 | bone |  
+| bip_39_word_space_10 | bone tortoise face stadium skirt travel riot gift truth trip |  
+| bip_39_word_space_11 | bone tortoise face stadium skirt travel riot gift truth trip mention |  
+| bip_39_word_space_12 | bone tortoise face stadium skirt travel riot gift truth trip mention add |  
+| bip_39_word_space_2 | bone tortoise |  
+| bip_39_word_space_3 | bone tortoise face |  
+| bip_39_word_space_4 | bone tortoise face stadium |  
+| bip_39_word_space_5 | bone tortoise face stadium skirt |  
+| bip_39_word_space_6 | bone tortoise face stadium skirt travel |  
+| bip_39_word_space_7 | bone tortoise face stadium skirt travel riot |  
+| bip_39_word_space_8 | bone tortoise face stadium skirt travel riot gift |  
+| bip_39_word_space_9 | bone tortoise face stadium skirt travel riot gift truth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

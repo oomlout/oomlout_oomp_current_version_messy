@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: track hunt
+  * bip 39 word 3: track hunt truck
+  * bip 39 word: track hunt truck mystery struggle biology legal find air business split album
 
 ### other_codes
 * short_code: cs2bz4pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | track |  
+| bip_39_word_new_br10 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology<br>legal<br>find<br>air<br>business |  
+| bip_39_word_new_br11 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology<br>legal<br>find<br>air<br>business<br>split |  
+| bip_39_word_new_br12 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology<br>legal<br>find<br>air<br>business<br>split<br>album |  
+| bip_39_word_new_br2 | track<br>hunt |  
+| bip_39_word_new_br3 | track<br>hunt<br>truck |  
+| bip_39_word_new_br4 | track<br>hunt<br>truck<br>mystery |  
+| bip_39_word_new_br5 | track<br>hunt<br>truck<br>mystery<br>struggle |  
+| bip_39_word_new_br6 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology |  
+| bip_39_word_new_br7 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology<br>legal |  
+| bip_39_word_new_br8 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology<br>legal<br>find |  
+| bip_39_word_new_br9 | track<br>hunt<br>truck<br>mystery<br>struggle<br>biology<br>legal<br>find<br>air |  
+| bip_39_word_new_line1 | track |  
+| bip_39_word_new_line10 | track
+hunt
+truck
+mystery
+struggle
+biology
+legal
+find
+air
+business |  
+| bip_39_word_new_line11 | track
+hunt
+truck
+mystery
+struggle
+biology
+legal
+find
+air
+business
+split |  
+| bip_39_word_new_line12 | track
+hunt
+truck
+mystery
+struggle
+biology
+legal
+find
+air
+business
+split
+album |  
+| bip_39_word_new_line2 | track
+hunt |  
+| bip_39_word_new_line3 | track
+hunt
+truck |  
+| bip_39_word_new_line4 | track
+hunt
+truck
+mystery |  
+| bip_39_word_new_line5 | track
+hunt
+truck
+mystery
+struggle |  
+| bip_39_word_new_line6 | track
+hunt
+truck
+mystery
+struggle
+biology |  
+| bip_39_word_new_line7 | track
+hunt
+truck
+mystery
+struggle
+biology
+legal |  
+| bip_39_word_new_line8 | track
+hunt
+truck
+mystery
+struggle
+biology
+legal
+find |  
+| bip_39_word_new_line9 | track
+hunt
+truck
+mystery
+struggle
+biology
+legal
+find
+air |  
+| bip_39_word_space_0 | ['track', 'hunt', 'truck', 'mystery', 'struggle', 'biology', 'legal', 'find', 'air', 'business', 'split', 'album'] |  
+| bip_39_word_space_1 | track |  
+| bip_39_word_space_10 | track hunt truck mystery struggle biology legal find air business |  
+| bip_39_word_space_11 | track hunt truck mystery struggle biology legal find air business split |  
+| bip_39_word_space_12 | track hunt truck mystery struggle biology legal find air business split album |  
+| bip_39_word_space_2 | track hunt |  
+| bip_39_word_space_3 | track hunt truck |  
+| bip_39_word_space_4 | track hunt truck mystery |  
+| bip_39_word_space_5 | track hunt truck mystery struggle |  
+| bip_39_word_space_6 | track hunt truck mystery struggle biology |  
+| bip_39_word_space_7 | track hunt truck mystery struggle biology legal |  
+| bip_39_word_space_8 | track hunt truck mystery struggle biology legal find |  
+| bip_39_word_space_9 | track hunt truck mystery struggle biology legal find air |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

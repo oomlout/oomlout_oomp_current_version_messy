@@ -1,3 +1,187 @@
+bip_39_word_new_br1: change
+bip_39_word_new_br10: change<br>popular<br>chuckle<br>soap<br>clutch<br>blush<br>security<br>explain<br>fabric<br>adult
+bip_39_word_new_br11: change<br>popular<br>chuckle<br>soap<br>clutch<br>blush<br>security<br>explain<br>fabric<br>adult<br>link
+bip_39_word_new_br12: change<br>popular<br>chuckle<br>soap<br>clutch<br>blush<br>security<br>explain<br>fabric<br>adult<br>link<br>august
+bip_39_word_new_br2: change<br>popular
+bip_39_word_new_br3: change<br>popular<br>chuckle
+bip_39_word_new_br4: change<br>popular<br>chuckle<br>soap
+bip_39_word_new_br5: change<br>popular<br>chuckle<br>soap<br>clutch
+bip_39_word_new_br6: change<br>popular<br>chuckle<br>soap<br>clutch<br>blush
+bip_39_word_new_br7: change<br>popular<br>chuckle<br>soap<br>clutch<br>blush<br>security
+bip_39_word_new_br8: change<br>popular<br>chuckle<br>soap<br>clutch<br>blush<br>security<br>explain
+bip_39_word_new_br9: change<br>popular<br>chuckle<br>soap<br>clutch<br>blush<br>security<br>explain<br>fabric
+bip_39_word_new_line1: change
+bip_39_word_new_line10: 'change
+
+  popular
+
+  chuckle
+
+  soap
+
+  clutch
+
+  blush
+
+  security
+
+  explain
+
+  fabric
+
+  adult'
+bip_39_word_new_line11: 'change
+
+  popular
+
+  chuckle
+
+  soap
+
+  clutch
+
+  blush
+
+  security
+
+  explain
+
+  fabric
+
+  adult
+
+  link'
+bip_39_word_new_line12: 'change
+
+  popular
+
+  chuckle
+
+  soap
+
+  clutch
+
+  blush
+
+  security
+
+  explain
+
+  fabric
+
+  adult
+
+  link
+
+  august'
+bip_39_word_new_line2: 'change
+
+  popular'
+bip_39_word_new_line3: 'change
+
+  popular
+
+  chuckle'
+bip_39_word_new_line4: 'change
+
+  popular
+
+  chuckle
+
+  soap'
+bip_39_word_new_line5: 'change
+
+  popular
+
+  chuckle
+
+  soap
+
+  clutch'
+bip_39_word_new_line6: 'change
+
+  popular
+
+  chuckle
+
+  soap
+
+  clutch
+
+  blush'
+bip_39_word_new_line7: 'change
+
+  popular
+
+  chuckle
+
+  soap
+
+  clutch
+
+  blush
+
+  security'
+bip_39_word_new_line8: 'change
+
+  popular
+
+  chuckle
+
+  soap
+
+  clutch
+
+  blush
+
+  security
+
+  explain'
+bip_39_word_new_line9: 'change
+
+  popular
+
+  chuckle
+
+  soap
+
+  clutch
+
+  blush
+
+  security
+
+  explain
+
+  fabric'
+bip_39_word_space_0:
+- change
+- popular
+- chuckle
+- soap
+- clutch
+- blush
+- security
+- explain
+- fabric
+- adult
+- link
+- august
+bip_39_word_space_1: change
+bip_39_word_space_10: change popular chuckle soap clutch blush security explain fabric
+  adult
+bip_39_word_space_11: change popular chuckle soap clutch blush security explain fabric
+  adult link
+bip_39_word_space_12: change popular chuckle soap clutch blush security explain fabric
+  adult link august
+bip_39_word_space_2: change popular
+bip_39_word_space_3: change popular chuckle
+bip_39_word_space_4: change popular chuckle soap
+bip_39_word_space_5: change popular chuckle soap clutch
+bip_39_word_space_6: change popular chuckle soap clutch blush
+bip_39_word_space_7: change popular chuckle soap clutch blush security
+bip_39_word_space_8: change popular chuckle soap clutch blush security explain
+bip_39_word_space_9: change popular chuckle soap clutch blush security explain fabric
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

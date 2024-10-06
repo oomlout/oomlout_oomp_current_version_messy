@@ -1,3 +1,186 @@
+bip_39_word_new_br1: face
+bip_39_word_new_br10: face<br>now<br>frown<br>organ<br>island<br>season<br>suit<br>skin<br>physical<br>casino
+bip_39_word_new_br11: face<br>now<br>frown<br>organ<br>island<br>season<br>suit<br>skin<br>physical<br>casino<br>flame
+bip_39_word_new_br12: face<br>now<br>frown<br>organ<br>island<br>season<br>suit<br>skin<br>physical<br>casino<br>flame<br>argue
+bip_39_word_new_br2: face<br>now
+bip_39_word_new_br3: face<br>now<br>frown
+bip_39_word_new_br4: face<br>now<br>frown<br>organ
+bip_39_word_new_br5: face<br>now<br>frown<br>organ<br>island
+bip_39_word_new_br6: face<br>now<br>frown<br>organ<br>island<br>season
+bip_39_word_new_br7: face<br>now<br>frown<br>organ<br>island<br>season<br>suit
+bip_39_word_new_br8: face<br>now<br>frown<br>organ<br>island<br>season<br>suit<br>skin
+bip_39_word_new_br9: face<br>now<br>frown<br>organ<br>island<br>season<br>suit<br>skin<br>physical
+bip_39_word_new_line1: face
+bip_39_word_new_line10: 'face
+
+  now
+
+  frown
+
+  organ
+
+  island
+
+  season
+
+  suit
+
+  skin
+
+  physical
+
+  casino'
+bip_39_word_new_line11: 'face
+
+  now
+
+  frown
+
+  organ
+
+  island
+
+  season
+
+  suit
+
+  skin
+
+  physical
+
+  casino
+
+  flame'
+bip_39_word_new_line12: 'face
+
+  now
+
+  frown
+
+  organ
+
+  island
+
+  season
+
+  suit
+
+  skin
+
+  physical
+
+  casino
+
+  flame
+
+  argue'
+bip_39_word_new_line2: 'face
+
+  now'
+bip_39_word_new_line3: 'face
+
+  now
+
+  frown'
+bip_39_word_new_line4: 'face
+
+  now
+
+  frown
+
+  organ'
+bip_39_word_new_line5: 'face
+
+  now
+
+  frown
+
+  organ
+
+  island'
+bip_39_word_new_line6: 'face
+
+  now
+
+  frown
+
+  organ
+
+  island
+
+  season'
+bip_39_word_new_line7: 'face
+
+  now
+
+  frown
+
+  organ
+
+  island
+
+  season
+
+  suit'
+bip_39_word_new_line8: 'face
+
+  now
+
+  frown
+
+  organ
+
+  island
+
+  season
+
+  suit
+
+  skin'
+bip_39_word_new_line9: 'face
+
+  now
+
+  frown
+
+  organ
+
+  island
+
+  season
+
+  suit
+
+  skin
+
+  physical'
+bip_39_word_space_0:
+- face
+- now
+- frown
+- organ
+- island
+- season
+- suit
+- skin
+- physical
+- casino
+- flame
+- argue
+bip_39_word_space_1: face
+bip_39_word_space_10: face now frown organ island season suit skin physical casino
+bip_39_word_space_11: face now frown organ island season suit skin physical casino
+  flame
+bip_39_word_space_12: face now frown organ island season suit skin physical casino
+  flame argue
+bip_39_word_space_2: face now
+bip_39_word_space_3: face now frown
+bip_39_word_space_4: face now frown organ
+bip_39_word_space_5: face now frown organ island
+bip_39_word_space_6: face now frown organ island season
+bip_39_word_space_7: face now frown organ island season suit
+bip_39_word_space_8: face now frown organ island season suit skin
+bip_39_word_space_9: face now frown organ island season suit skin physical
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

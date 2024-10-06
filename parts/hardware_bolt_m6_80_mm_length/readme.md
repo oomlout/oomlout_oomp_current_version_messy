@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: increase craft
+  * bip 39 word 3: increase craft slogan
+  * bip 39 word: increase craft slogan this artefact project solid accident payment melt spread august
 
 ### other_codes
 * short_code: b6m80
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | increase |  
+| bip_39_word_new_br10 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt |  
+| bip_39_word_new_br11 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt<br>spread |  
+| bip_39_word_new_br12 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment<br>melt<br>spread<br>august |  
+| bip_39_word_new_br2 | increase<br>craft |  
+| bip_39_word_new_br3 | increase<br>craft<br>slogan |  
+| bip_39_word_new_br4 | increase<br>craft<br>slogan<br>this |  
+| bip_39_word_new_br5 | increase<br>craft<br>slogan<br>this<br>artefact |  
+| bip_39_word_new_br6 | increase<br>craft<br>slogan<br>this<br>artefact<br>project |  
+| bip_39_word_new_br7 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid |  
+| bip_39_word_new_br8 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident |  
+| bip_39_word_new_br9 | increase<br>craft<br>slogan<br>this<br>artefact<br>project<br>solid<br>accident<br>payment |  
+| bip_39_word_new_line1 | increase |  
+| bip_39_word_new_line10 | increase
+craft
+slogan
+this
+artefact
+project
+solid
+accident
+payment
+melt |  
+| bip_39_word_new_line11 | increase
+craft
+slogan
+this
+artefact
+project
+solid
+accident
+payment
+melt
+spread |  
+| bip_39_word_new_line12 | increase
+craft
+slogan
+this
+artefact
+project
+solid
+accident
+payment
+melt
+spread
+august |  
+| bip_39_word_new_line2 | increase
+craft |  
+| bip_39_word_new_line3 | increase
+craft
+slogan |  
+| bip_39_word_new_line4 | increase
+craft
+slogan
+this |  
+| bip_39_word_new_line5 | increase
+craft
+slogan
+this
+artefact |  
+| bip_39_word_new_line6 | increase
+craft
+slogan
+this
+artefact
+project |  
+| bip_39_word_new_line7 | increase
+craft
+slogan
+this
+artefact
+project
+solid |  
+| bip_39_word_new_line8 | increase
+craft
+slogan
+this
+artefact
+project
+solid
+accident |  
+| bip_39_word_new_line9 | increase
+craft
+slogan
+this
+artefact
+project
+solid
+accident
+payment |  
+| bip_39_word_space_0 | ['increase', 'craft', 'slogan', 'this', 'artefact', 'project', 'solid', 'accident', 'payment', 'melt', 'spread', 'august'] |  
+| bip_39_word_space_1 | increase |  
+| bip_39_word_space_10 | increase craft slogan this artefact project solid accident payment melt |  
+| bip_39_word_space_11 | increase craft slogan this artefact project solid accident payment melt spread |  
+| bip_39_word_space_12 | increase craft slogan this artefact project solid accident payment melt spread august |  
+| bip_39_word_space_2 | increase craft |  
+| bip_39_word_space_3 | increase craft slogan |  
+| bip_39_word_space_4 | increase craft slogan this |  
+| bip_39_word_space_5 | increase craft slogan this artefact |  
+| bip_39_word_space_6 | increase craft slogan this artefact project |  
+| bip_39_word_space_7 | increase craft slogan this artefact project solid |  
+| bip_39_word_space_8 | increase craft slogan this artefact project solid accident |  
+| bip_39_word_space_9 | increase craft slogan this artefact project solid accident payment |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

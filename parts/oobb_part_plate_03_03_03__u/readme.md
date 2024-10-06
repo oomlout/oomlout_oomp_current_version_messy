@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: energy ripple
+  * bip 39 word 3: energy ripple episode
+  * bip 39 word: energy ripple episode glide moon tag weather pumpkin fresh indicate recall arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | energy |  
+| bip_39_word_new_br10 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh<br>indicate |  
+| bip_39_word_new_br11 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh<br>indicate<br>recall |  
+| bip_39_word_new_br12 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh<br>indicate<br>recall<br>arrange |  
+| bip_39_word_new_br2 | energy<br>ripple |  
+| bip_39_word_new_br3 | energy<br>ripple<br>episode |  
+| bip_39_word_new_br4 | energy<br>ripple<br>episode<br>glide |  
+| bip_39_word_new_br5 | energy<br>ripple<br>episode<br>glide<br>moon |  
+| bip_39_word_new_br6 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag |  
+| bip_39_word_new_br7 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather |  
+| bip_39_word_new_br8 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin |  
+| bip_39_word_new_br9 | energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh |  
+| bip_39_word_new_line1 | energy |  
+| bip_39_word_new_line10 | energy
+ripple
+episode
+glide
+moon
+tag
+weather
+pumpkin
+fresh
+indicate |  
+| bip_39_word_new_line11 | energy
+ripple
+episode
+glide
+moon
+tag
+weather
+pumpkin
+fresh
+indicate
+recall |  
+| bip_39_word_new_line12 | energy
+ripple
+episode
+glide
+moon
+tag
+weather
+pumpkin
+fresh
+indicate
+recall
+arrange |  
+| bip_39_word_new_line2 | energy
+ripple |  
+| bip_39_word_new_line3 | energy
+ripple
+episode |  
+| bip_39_word_new_line4 | energy
+ripple
+episode
+glide |  
+| bip_39_word_new_line5 | energy
+ripple
+episode
+glide
+moon |  
+| bip_39_word_new_line6 | energy
+ripple
+episode
+glide
+moon
+tag |  
+| bip_39_word_new_line7 | energy
+ripple
+episode
+glide
+moon
+tag
+weather |  
+| bip_39_word_new_line8 | energy
+ripple
+episode
+glide
+moon
+tag
+weather
+pumpkin |  
+| bip_39_word_new_line9 | energy
+ripple
+episode
+glide
+moon
+tag
+weather
+pumpkin
+fresh |  
+| bip_39_word_space_0 | ['energy', 'ripple', 'episode', 'glide', 'moon', 'tag', 'weather', 'pumpkin', 'fresh', 'indicate', 'recall', 'arrange'] |  
+| bip_39_word_space_1 | energy |  
+| bip_39_word_space_10 | energy ripple episode glide moon tag weather pumpkin fresh indicate |  
+| bip_39_word_space_11 | energy ripple episode glide moon tag weather pumpkin fresh indicate recall |  
+| bip_39_word_space_12 | energy ripple episode glide moon tag weather pumpkin fresh indicate recall arrange |  
+| bip_39_word_space_2 | energy ripple |  
+| bip_39_word_space_3 | energy ripple episode |  
+| bip_39_word_space_4 | energy ripple episode glide |  
+| bip_39_word_space_5 | energy ripple episode glide moon |  
+| bip_39_word_space_6 | energy ripple episode glide moon tag |  
+| bip_39_word_space_7 | energy ripple episode glide moon tag weather |  
+| bip_39_word_space_8 | energy ripple episode glide moon tag weather pumpkin |  
+| bip_39_word_space_9 | energy ripple episode glide moon tag weather pumpkin fresh |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

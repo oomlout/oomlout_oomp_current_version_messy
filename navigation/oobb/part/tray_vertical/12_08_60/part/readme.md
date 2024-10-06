@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: regret then
+  * bip 39 word 3: regret then plastic
+  * bip 39 word: regret then plastic remember limit dish ugly reveal trade winner eagle appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | regret |  
+| bip_39_word_new_br10 | regret<br>then<br>plastic<br>remember<br>limit<br>dish<br>ugly<br>reveal<br>trade<br>winner |  
+| bip_39_word_new_br11 | regret<br>then<br>plastic<br>remember<br>limit<br>dish<br>ugly<br>reveal<br>trade<br>winner<br>eagle |  
+| bip_39_word_new_br12 | regret<br>then<br>plastic<br>remember<br>limit<br>dish<br>ugly<br>reveal<br>trade<br>winner<br>eagle<br>appear |  
+| bip_39_word_new_br2 | regret<br>then |  
+| bip_39_word_new_br3 | regret<br>then<br>plastic |  
+| bip_39_word_new_br4 | regret<br>then<br>plastic<br>remember |  
+| bip_39_word_new_br5 | regret<br>then<br>plastic<br>remember<br>limit |  
+| bip_39_word_new_br6 | regret<br>then<br>plastic<br>remember<br>limit<br>dish |  
+| bip_39_word_new_br7 | regret<br>then<br>plastic<br>remember<br>limit<br>dish<br>ugly |  
+| bip_39_word_new_br8 | regret<br>then<br>plastic<br>remember<br>limit<br>dish<br>ugly<br>reveal |  
+| bip_39_word_new_br9 | regret<br>then<br>plastic<br>remember<br>limit<br>dish<br>ugly<br>reveal<br>trade |  
+| bip_39_word_new_line1 | regret |  
+| bip_39_word_new_line10 | regret
+then
+plastic
+remember
+limit
+dish
+ugly
+reveal
+trade
+winner |  
+| bip_39_word_new_line11 | regret
+then
+plastic
+remember
+limit
+dish
+ugly
+reveal
+trade
+winner
+eagle |  
+| bip_39_word_new_line12 | regret
+then
+plastic
+remember
+limit
+dish
+ugly
+reveal
+trade
+winner
+eagle
+appear |  
+| bip_39_word_new_line2 | regret
+then |  
+| bip_39_word_new_line3 | regret
+then
+plastic |  
+| bip_39_word_new_line4 | regret
+then
+plastic
+remember |  
+| bip_39_word_new_line5 | regret
+then
+plastic
+remember
+limit |  
+| bip_39_word_new_line6 | regret
+then
+plastic
+remember
+limit
+dish |  
+| bip_39_word_new_line7 | regret
+then
+plastic
+remember
+limit
+dish
+ugly |  
+| bip_39_word_new_line8 | regret
+then
+plastic
+remember
+limit
+dish
+ugly
+reveal |  
+| bip_39_word_new_line9 | regret
+then
+plastic
+remember
+limit
+dish
+ugly
+reveal
+trade |  
+| bip_39_word_space_0 | ['regret', 'then', 'plastic', 'remember', 'limit', 'dish', 'ugly', 'reveal', 'trade', 'winner', 'eagle', 'appear'] |  
+| bip_39_word_space_1 | regret |  
+| bip_39_word_space_10 | regret then plastic remember limit dish ugly reveal trade winner |  
+| bip_39_word_space_11 | regret then plastic remember limit dish ugly reveal trade winner eagle |  
+| bip_39_word_space_12 | regret then plastic remember limit dish ugly reveal trade winner eagle appear |  
+| bip_39_word_space_2 | regret then |  
+| bip_39_word_space_3 | regret then plastic |  
+| bip_39_word_space_4 | regret then plastic remember |  
+| bip_39_word_space_5 | regret then plastic remember limit |  
+| bip_39_word_space_6 | regret then plastic remember limit dish |  
+| bip_39_word_space_7 | regret then plastic remember limit dish ugly |  
+| bip_39_word_space_8 | regret then plastic remember limit dish ugly reveal |  
+| bip_39_word_space_9 | regret then plastic remember limit dish ugly reveal trade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

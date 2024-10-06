@@ -1,3 +1,187 @@
+bip_39_word_new_br1: board
+bip_39_word_new_br10: board<br>flavor<br>primary<br>next<br>sketch<br>salmon<br>steak<br>remain<br>panther<br>measure
+bip_39_word_new_br11: board<br>flavor<br>primary<br>next<br>sketch<br>salmon<br>steak<br>remain<br>panther<br>measure<br>valve
+bip_39_word_new_br12: board<br>flavor<br>primary<br>next<br>sketch<br>salmon<br>steak<br>remain<br>panther<br>measure<br>valve<br>art
+bip_39_word_new_br2: board<br>flavor
+bip_39_word_new_br3: board<br>flavor<br>primary
+bip_39_word_new_br4: board<br>flavor<br>primary<br>next
+bip_39_word_new_br5: board<br>flavor<br>primary<br>next<br>sketch
+bip_39_word_new_br6: board<br>flavor<br>primary<br>next<br>sketch<br>salmon
+bip_39_word_new_br7: board<br>flavor<br>primary<br>next<br>sketch<br>salmon<br>steak
+bip_39_word_new_br8: board<br>flavor<br>primary<br>next<br>sketch<br>salmon<br>steak<br>remain
+bip_39_word_new_br9: board<br>flavor<br>primary<br>next<br>sketch<br>salmon<br>steak<br>remain<br>panther
+bip_39_word_new_line1: board
+bip_39_word_new_line10: 'board
+
+  flavor
+
+  primary
+
+  next
+
+  sketch
+
+  salmon
+
+  steak
+
+  remain
+
+  panther
+
+  measure'
+bip_39_word_new_line11: 'board
+
+  flavor
+
+  primary
+
+  next
+
+  sketch
+
+  salmon
+
+  steak
+
+  remain
+
+  panther
+
+  measure
+
+  valve'
+bip_39_word_new_line12: 'board
+
+  flavor
+
+  primary
+
+  next
+
+  sketch
+
+  salmon
+
+  steak
+
+  remain
+
+  panther
+
+  measure
+
+  valve
+
+  art'
+bip_39_word_new_line2: 'board
+
+  flavor'
+bip_39_word_new_line3: 'board
+
+  flavor
+
+  primary'
+bip_39_word_new_line4: 'board
+
+  flavor
+
+  primary
+
+  next'
+bip_39_word_new_line5: 'board
+
+  flavor
+
+  primary
+
+  next
+
+  sketch'
+bip_39_word_new_line6: 'board
+
+  flavor
+
+  primary
+
+  next
+
+  sketch
+
+  salmon'
+bip_39_word_new_line7: 'board
+
+  flavor
+
+  primary
+
+  next
+
+  sketch
+
+  salmon
+
+  steak'
+bip_39_word_new_line8: 'board
+
+  flavor
+
+  primary
+
+  next
+
+  sketch
+
+  salmon
+
+  steak
+
+  remain'
+bip_39_word_new_line9: 'board
+
+  flavor
+
+  primary
+
+  next
+
+  sketch
+
+  salmon
+
+  steak
+
+  remain
+
+  panther'
+bip_39_word_space_0:
+- board
+- flavor
+- primary
+- next
+- sketch
+- salmon
+- steak
+- remain
+- panther
+- measure
+- valve
+- art
+bip_39_word_space_1: board
+bip_39_word_space_10: board flavor primary next sketch salmon steak remain panther
+  measure
+bip_39_word_space_11: board flavor primary next sketch salmon steak remain panther
+  measure valve
+bip_39_word_space_12: board flavor primary next sketch salmon steak remain panther
+  measure valve art
+bip_39_word_space_2: board flavor
+bip_39_word_space_3: board flavor primary
+bip_39_word_space_4: board flavor primary next
+bip_39_word_space_5: board flavor primary next sketch
+bip_39_word_space_6: board flavor primary next sketch salmon
+bip_39_word_space_7: board flavor primary next sketch salmon steak
+bip_39_word_space_8: board flavor primary next sketch salmon steak remain
+bip_39_word_space_9: board flavor primary next sketch salmon steak remain panther
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

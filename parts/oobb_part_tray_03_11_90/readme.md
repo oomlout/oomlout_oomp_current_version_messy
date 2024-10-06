@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cake clever
+  * bip 39 word 3: cake clever caught
+  * bip 39 word: cake clever caught educate label mention crucial early distance hub sand april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cake |  
+| bip_39_word_new_br10 | cake<br>clever<br>caught<br>educate<br>label<br>mention<br>crucial<br>early<br>distance<br>hub |  
+| bip_39_word_new_br11 | cake<br>clever<br>caught<br>educate<br>label<br>mention<br>crucial<br>early<br>distance<br>hub<br>sand |  
+| bip_39_word_new_br12 | cake<br>clever<br>caught<br>educate<br>label<br>mention<br>crucial<br>early<br>distance<br>hub<br>sand<br>april |  
+| bip_39_word_new_br2 | cake<br>clever |  
+| bip_39_word_new_br3 | cake<br>clever<br>caught |  
+| bip_39_word_new_br4 | cake<br>clever<br>caught<br>educate |  
+| bip_39_word_new_br5 | cake<br>clever<br>caught<br>educate<br>label |  
+| bip_39_word_new_br6 | cake<br>clever<br>caught<br>educate<br>label<br>mention |  
+| bip_39_word_new_br7 | cake<br>clever<br>caught<br>educate<br>label<br>mention<br>crucial |  
+| bip_39_word_new_br8 | cake<br>clever<br>caught<br>educate<br>label<br>mention<br>crucial<br>early |  
+| bip_39_word_new_br9 | cake<br>clever<br>caught<br>educate<br>label<br>mention<br>crucial<br>early<br>distance |  
+| bip_39_word_new_line1 | cake |  
+| bip_39_word_new_line10 | cake
+clever
+caught
+educate
+label
+mention
+crucial
+early
+distance
+hub |  
+| bip_39_word_new_line11 | cake
+clever
+caught
+educate
+label
+mention
+crucial
+early
+distance
+hub
+sand |  
+| bip_39_word_new_line12 | cake
+clever
+caught
+educate
+label
+mention
+crucial
+early
+distance
+hub
+sand
+april |  
+| bip_39_word_new_line2 | cake
+clever |  
+| bip_39_word_new_line3 | cake
+clever
+caught |  
+| bip_39_word_new_line4 | cake
+clever
+caught
+educate |  
+| bip_39_word_new_line5 | cake
+clever
+caught
+educate
+label |  
+| bip_39_word_new_line6 | cake
+clever
+caught
+educate
+label
+mention |  
+| bip_39_word_new_line7 | cake
+clever
+caught
+educate
+label
+mention
+crucial |  
+| bip_39_word_new_line8 | cake
+clever
+caught
+educate
+label
+mention
+crucial
+early |  
+| bip_39_word_new_line9 | cake
+clever
+caught
+educate
+label
+mention
+crucial
+early
+distance |  
+| bip_39_word_space_0 | ['cake', 'clever', 'caught', 'educate', 'label', 'mention', 'crucial', 'early', 'distance', 'hub', 'sand', 'april'] |  
+| bip_39_word_space_1 | cake |  
+| bip_39_word_space_10 | cake clever caught educate label mention crucial early distance hub |  
+| bip_39_word_space_11 | cake clever caught educate label mention crucial early distance hub sand |  
+| bip_39_word_space_12 | cake clever caught educate label mention crucial early distance hub sand april |  
+| bip_39_word_space_2 | cake clever |  
+| bip_39_word_space_3 | cake clever caught |  
+| bip_39_word_space_4 | cake clever caught educate |  
+| bip_39_word_space_5 | cake clever caught educate label |  
+| bip_39_word_space_6 | cake clever caught educate label mention |  
+| bip_39_word_space_7 | cake clever caught educate label mention crucial |  
+| bip_39_word_space_8 | cake clever caught educate label mention crucial early |  
+| bip_39_word_space_9 | cake clever caught educate label mention crucial early distance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

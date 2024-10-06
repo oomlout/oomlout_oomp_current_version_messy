@@ -1,3 +1,186 @@
+bip_39_word_new_br1: give
+bip_39_word_new_br10: give<br>raise<br>much<br>sting<br>barely<br>fragile<br>shop<br>angry<br>retreat<br>online
+bip_39_word_new_br11: give<br>raise<br>much<br>sting<br>barely<br>fragile<br>shop<br>angry<br>retreat<br>online<br>bright
+bip_39_word_new_br12: give<br>raise<br>much<br>sting<br>barely<br>fragile<br>shop<br>angry<br>retreat<br>online<br>bright<br>adapt
+bip_39_word_new_br2: give<br>raise
+bip_39_word_new_br3: give<br>raise<br>much
+bip_39_word_new_br4: give<br>raise<br>much<br>sting
+bip_39_word_new_br5: give<br>raise<br>much<br>sting<br>barely
+bip_39_word_new_br6: give<br>raise<br>much<br>sting<br>barely<br>fragile
+bip_39_word_new_br7: give<br>raise<br>much<br>sting<br>barely<br>fragile<br>shop
+bip_39_word_new_br8: give<br>raise<br>much<br>sting<br>barely<br>fragile<br>shop<br>angry
+bip_39_word_new_br9: give<br>raise<br>much<br>sting<br>barely<br>fragile<br>shop<br>angry<br>retreat
+bip_39_word_new_line1: give
+bip_39_word_new_line10: 'give
+
+  raise
+
+  much
+
+  sting
+
+  barely
+
+  fragile
+
+  shop
+
+  angry
+
+  retreat
+
+  online'
+bip_39_word_new_line11: 'give
+
+  raise
+
+  much
+
+  sting
+
+  barely
+
+  fragile
+
+  shop
+
+  angry
+
+  retreat
+
+  online
+
+  bright'
+bip_39_word_new_line12: 'give
+
+  raise
+
+  much
+
+  sting
+
+  barely
+
+  fragile
+
+  shop
+
+  angry
+
+  retreat
+
+  online
+
+  bright
+
+  adapt'
+bip_39_word_new_line2: 'give
+
+  raise'
+bip_39_word_new_line3: 'give
+
+  raise
+
+  much'
+bip_39_word_new_line4: 'give
+
+  raise
+
+  much
+
+  sting'
+bip_39_word_new_line5: 'give
+
+  raise
+
+  much
+
+  sting
+
+  barely'
+bip_39_word_new_line6: 'give
+
+  raise
+
+  much
+
+  sting
+
+  barely
+
+  fragile'
+bip_39_word_new_line7: 'give
+
+  raise
+
+  much
+
+  sting
+
+  barely
+
+  fragile
+
+  shop'
+bip_39_word_new_line8: 'give
+
+  raise
+
+  much
+
+  sting
+
+  barely
+
+  fragile
+
+  shop
+
+  angry'
+bip_39_word_new_line9: 'give
+
+  raise
+
+  much
+
+  sting
+
+  barely
+
+  fragile
+
+  shop
+
+  angry
+
+  retreat'
+bip_39_word_space_0:
+- give
+- raise
+- much
+- sting
+- barely
+- fragile
+- shop
+- angry
+- retreat
+- online
+- bright
+- adapt
+bip_39_word_space_1: give
+bip_39_word_space_10: give raise much sting barely fragile shop angry retreat online
+bip_39_word_space_11: give raise much sting barely fragile shop angry retreat online
+  bright
+bip_39_word_space_12: give raise much sting barely fragile shop angry retreat online
+  bright adapt
+bip_39_word_space_2: give raise
+bip_39_word_space_3: give raise much
+bip_39_word_space_4: give raise much sting
+bip_39_word_space_5: give raise much sting barely
+bip_39_word_space_6: give raise much sting barely fragile
+bip_39_word_space_7: give raise much sting barely fragile shop
+bip_39_word_space_8: give raise much sting barely fragile shop angry
+bip_39_word_space_9: give raise much sting barely fragile shop angry retreat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

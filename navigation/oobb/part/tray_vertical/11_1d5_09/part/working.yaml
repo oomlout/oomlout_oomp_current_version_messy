@@ -1,3 +1,187 @@
+bip_39_word_new_br1: palace
+bip_39_word_new_br10: palace<br>shell<br>female<br>assume<br>club<br>hand<br>actual<br>measure<br>identify<br>pretty
+bip_39_word_new_br11: palace<br>shell<br>female<br>assume<br>club<br>hand<br>actual<br>measure<br>identify<br>pretty<br>genre
+bip_39_word_new_br12: palace<br>shell<br>female<br>assume<br>club<br>hand<br>actual<br>measure<br>identify<br>pretty<br>genre<br>apple
+bip_39_word_new_br2: palace<br>shell
+bip_39_word_new_br3: palace<br>shell<br>female
+bip_39_word_new_br4: palace<br>shell<br>female<br>assume
+bip_39_word_new_br5: palace<br>shell<br>female<br>assume<br>club
+bip_39_word_new_br6: palace<br>shell<br>female<br>assume<br>club<br>hand
+bip_39_word_new_br7: palace<br>shell<br>female<br>assume<br>club<br>hand<br>actual
+bip_39_word_new_br8: palace<br>shell<br>female<br>assume<br>club<br>hand<br>actual<br>measure
+bip_39_word_new_br9: palace<br>shell<br>female<br>assume<br>club<br>hand<br>actual<br>measure<br>identify
+bip_39_word_new_line1: palace
+bip_39_word_new_line10: 'palace
+
+  shell
+
+  female
+
+  assume
+
+  club
+
+  hand
+
+  actual
+
+  measure
+
+  identify
+
+  pretty'
+bip_39_word_new_line11: 'palace
+
+  shell
+
+  female
+
+  assume
+
+  club
+
+  hand
+
+  actual
+
+  measure
+
+  identify
+
+  pretty
+
+  genre'
+bip_39_word_new_line12: 'palace
+
+  shell
+
+  female
+
+  assume
+
+  club
+
+  hand
+
+  actual
+
+  measure
+
+  identify
+
+  pretty
+
+  genre
+
+  apple'
+bip_39_word_new_line2: 'palace
+
+  shell'
+bip_39_word_new_line3: 'palace
+
+  shell
+
+  female'
+bip_39_word_new_line4: 'palace
+
+  shell
+
+  female
+
+  assume'
+bip_39_word_new_line5: 'palace
+
+  shell
+
+  female
+
+  assume
+
+  club'
+bip_39_word_new_line6: 'palace
+
+  shell
+
+  female
+
+  assume
+
+  club
+
+  hand'
+bip_39_word_new_line7: 'palace
+
+  shell
+
+  female
+
+  assume
+
+  club
+
+  hand
+
+  actual'
+bip_39_word_new_line8: 'palace
+
+  shell
+
+  female
+
+  assume
+
+  club
+
+  hand
+
+  actual
+
+  measure'
+bip_39_word_new_line9: 'palace
+
+  shell
+
+  female
+
+  assume
+
+  club
+
+  hand
+
+  actual
+
+  measure
+
+  identify'
+bip_39_word_space_0:
+- palace
+- shell
+- female
+- assume
+- club
+- hand
+- actual
+- measure
+- identify
+- pretty
+- genre
+- apple
+bip_39_word_space_1: palace
+bip_39_word_space_10: palace shell female assume club hand actual measure identify
+  pretty
+bip_39_word_space_11: palace shell female assume club hand actual measure identify
+  pretty genre
+bip_39_word_space_12: palace shell female assume club hand actual measure identify
+  pretty genre apple
+bip_39_word_space_2: palace shell
+bip_39_word_space_3: palace shell female
+bip_39_word_space_4: palace shell female assume
+bip_39_word_space_5: palace shell female assume club
+bip_39_word_space_6: palace shell female assume club hand
+bip_39_word_space_7: palace shell female assume club hand actual
+bip_39_word_space_8: palace shell female assume club hand actual measure
+bip_39_word_space_9: palace shell female assume club hand actual measure identify
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: resource word
+  * bip 39 word 3: resource word fox
+  * bip 39 word: resource word fox pottery august nature boat coconut afraid tourist balcony another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resource |  
+| bip_39_word_new_br10 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist |  
+| bip_39_word_new_br11 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist<br>balcony |  
+| bip_39_word_new_br12 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid<br>tourist<br>balcony<br>another |  
+| bip_39_word_new_br2 | resource<br>word |  
+| bip_39_word_new_br3 | resource<br>word<br>fox |  
+| bip_39_word_new_br4 | resource<br>word<br>fox<br>pottery |  
+| bip_39_word_new_br5 | resource<br>word<br>fox<br>pottery<br>august |  
+| bip_39_word_new_br6 | resource<br>word<br>fox<br>pottery<br>august<br>nature |  
+| bip_39_word_new_br7 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat |  
+| bip_39_word_new_br8 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut |  
+| bip_39_word_new_br9 | resource<br>word<br>fox<br>pottery<br>august<br>nature<br>boat<br>coconut<br>afraid |  
+| bip_39_word_new_line1 | resource |  
+| bip_39_word_new_line10 | resource
+word
+fox
+pottery
+august
+nature
+boat
+coconut
+afraid
+tourist |  
+| bip_39_word_new_line11 | resource
+word
+fox
+pottery
+august
+nature
+boat
+coconut
+afraid
+tourist
+balcony |  
+| bip_39_word_new_line12 | resource
+word
+fox
+pottery
+august
+nature
+boat
+coconut
+afraid
+tourist
+balcony
+another |  
+| bip_39_word_new_line2 | resource
+word |  
+| bip_39_word_new_line3 | resource
+word
+fox |  
+| bip_39_word_new_line4 | resource
+word
+fox
+pottery |  
+| bip_39_word_new_line5 | resource
+word
+fox
+pottery
+august |  
+| bip_39_word_new_line6 | resource
+word
+fox
+pottery
+august
+nature |  
+| bip_39_word_new_line7 | resource
+word
+fox
+pottery
+august
+nature
+boat |  
+| bip_39_word_new_line8 | resource
+word
+fox
+pottery
+august
+nature
+boat
+coconut |  
+| bip_39_word_new_line9 | resource
+word
+fox
+pottery
+august
+nature
+boat
+coconut
+afraid |  
+| bip_39_word_space_0 | ['resource', 'word', 'fox', 'pottery', 'august', 'nature', 'boat', 'coconut', 'afraid', 'tourist', 'balcony', 'another'] |  
+| bip_39_word_space_1 | resource |  
+| bip_39_word_space_10 | resource word fox pottery august nature boat coconut afraid tourist |  
+| bip_39_word_space_11 | resource word fox pottery august nature boat coconut afraid tourist balcony |  
+| bip_39_word_space_12 | resource word fox pottery august nature boat coconut afraid tourist balcony another |  
+| bip_39_word_space_2 | resource word |  
+| bip_39_word_space_3 | resource word fox |  
+| bip_39_word_space_4 | resource word fox pottery |  
+| bip_39_word_space_5 | resource word fox pottery august |  
+| bip_39_word_space_6 | resource word fox pottery august nature |  
+| bip_39_word_space_7 | resource word fox pottery august nature boat |  
+| bip_39_word_space_8 | resource word fox pottery august nature boat coconut |  
+| bip_39_word_space_9 | resource word fox pottery august nature boat coconut afraid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

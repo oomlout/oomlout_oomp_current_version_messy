@@ -1,3 +1,187 @@
+bip_39_word_new_br1: donate
+bip_39_word_new_br10: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune
+bip_39_word_new_br11: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune<br>nominee
+bip_39_word_new_br12: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair<br>fortune<br>nominee<br>afraid
+bip_39_word_new_br2: donate<br>tornado
+bip_39_word_new_br3: donate<br>tornado<br>warfare
+bip_39_word_new_br4: donate<br>tornado<br>warfare<br>afford
+bip_39_word_new_br5: donate<br>tornado<br>warfare<br>afford<br>vehicle
+bip_39_word_new_br6: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen
+bip_39_word_new_br7: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item
+bip_39_word_new_br8: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter
+bip_39_word_new_br9: donate<br>tornado<br>warfare<br>afford<br>vehicle<br>reopen<br>item<br>scatter<br>chair
+bip_39_word_new_line1: donate
+bip_39_word_new_line10: 'donate
+
+  tornado
+
+  warfare
+
+  afford
+
+  vehicle
+
+  reopen
+
+  item
+
+  scatter
+
+  chair
+
+  fortune'
+bip_39_word_new_line11: 'donate
+
+  tornado
+
+  warfare
+
+  afford
+
+  vehicle
+
+  reopen
+
+  item
+
+  scatter
+
+  chair
+
+  fortune
+
+  nominee'
+bip_39_word_new_line12: 'donate
+
+  tornado
+
+  warfare
+
+  afford
+
+  vehicle
+
+  reopen
+
+  item
+
+  scatter
+
+  chair
+
+  fortune
+
+  nominee
+
+  afraid'
+bip_39_word_new_line2: 'donate
+
+  tornado'
+bip_39_word_new_line3: 'donate
+
+  tornado
+
+  warfare'
+bip_39_word_new_line4: 'donate
+
+  tornado
+
+  warfare
+
+  afford'
+bip_39_word_new_line5: 'donate
+
+  tornado
+
+  warfare
+
+  afford
+
+  vehicle'
+bip_39_word_new_line6: 'donate
+
+  tornado
+
+  warfare
+
+  afford
+
+  vehicle
+
+  reopen'
+bip_39_word_new_line7: 'donate
+
+  tornado
+
+  warfare
+
+  afford
+
+  vehicle
+
+  reopen
+
+  item'
+bip_39_word_new_line8: 'donate
+
+  tornado
+
+  warfare
+
+  afford
+
+  vehicle
+
+  reopen
+
+  item
+
+  scatter'
+bip_39_word_new_line9: 'donate
+
+  tornado
+
+  warfare
+
+  afford
+
+  vehicle
+
+  reopen
+
+  item
+
+  scatter
+
+  chair'
+bip_39_word_space_0:
+- donate
+- tornado
+- warfare
+- afford
+- vehicle
+- reopen
+- item
+- scatter
+- chair
+- fortune
+- nominee
+- afraid
+bip_39_word_space_1: donate
+bip_39_word_space_10: donate tornado warfare afford vehicle reopen item scatter chair
+  fortune
+bip_39_word_space_11: donate tornado warfare afford vehicle reopen item scatter chair
+  fortune nominee
+bip_39_word_space_12: donate tornado warfare afford vehicle reopen item scatter chair
+  fortune nominee afraid
+bip_39_word_space_2: donate tornado
+bip_39_word_space_3: donate tornado warfare
+bip_39_word_space_4: donate tornado warfare afford
+bip_39_word_space_5: donate tornado warfare afford vehicle
+bip_39_word_space_6: donate tornado warfare afford vehicle reopen
+bip_39_word_space_7: donate tornado warfare afford vehicle reopen item
+bip_39_word_space_8: donate tornado warfare afford vehicle reopen item scatter
+bip_39_word_space_9: donate tornado warfare afford vehicle reopen item scatter chair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

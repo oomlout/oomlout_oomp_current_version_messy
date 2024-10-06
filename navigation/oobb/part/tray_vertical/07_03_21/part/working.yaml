@@ -1,3 +1,185 @@
+bip_39_word_new_br1: when
+bip_39_word_new_br10: when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave
+bip_39_word_new_br11: when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave<br>scheme
+bip_39_word_new_br12: when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call<br>wave<br>scheme<br>absorb
+bip_39_word_new_br2: when<br>kid
+bip_39_word_new_br3: when<br>kid<br>sad
+bip_39_word_new_br4: when<br>kid<br>sad<br>portion
+bip_39_word_new_br5: when<br>kid<br>sad<br>portion<br>ankle
+bip_39_word_new_br6: when<br>kid<br>sad<br>portion<br>ankle<br>giggle
+bip_39_word_new_br7: when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess
+bip_39_word_new_br8: when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach
+bip_39_word_new_br9: when<br>kid<br>sad<br>portion<br>ankle<br>giggle<br>goddess<br>beach<br>call
+bip_39_word_new_line1: when
+bip_39_word_new_line10: 'when
+
+  kid
+
+  sad
+
+  portion
+
+  ankle
+
+  giggle
+
+  goddess
+
+  beach
+
+  call
+
+  wave'
+bip_39_word_new_line11: 'when
+
+  kid
+
+  sad
+
+  portion
+
+  ankle
+
+  giggle
+
+  goddess
+
+  beach
+
+  call
+
+  wave
+
+  scheme'
+bip_39_word_new_line12: 'when
+
+  kid
+
+  sad
+
+  portion
+
+  ankle
+
+  giggle
+
+  goddess
+
+  beach
+
+  call
+
+  wave
+
+  scheme
+
+  absorb'
+bip_39_word_new_line2: 'when
+
+  kid'
+bip_39_word_new_line3: 'when
+
+  kid
+
+  sad'
+bip_39_word_new_line4: 'when
+
+  kid
+
+  sad
+
+  portion'
+bip_39_word_new_line5: 'when
+
+  kid
+
+  sad
+
+  portion
+
+  ankle'
+bip_39_word_new_line6: 'when
+
+  kid
+
+  sad
+
+  portion
+
+  ankle
+
+  giggle'
+bip_39_word_new_line7: 'when
+
+  kid
+
+  sad
+
+  portion
+
+  ankle
+
+  giggle
+
+  goddess'
+bip_39_word_new_line8: 'when
+
+  kid
+
+  sad
+
+  portion
+
+  ankle
+
+  giggle
+
+  goddess
+
+  beach'
+bip_39_word_new_line9: 'when
+
+  kid
+
+  sad
+
+  portion
+
+  ankle
+
+  giggle
+
+  goddess
+
+  beach
+
+  call'
+bip_39_word_space_0:
+- when
+- kid
+- sad
+- portion
+- ankle
+- giggle
+- goddess
+- beach
+- call
+- wave
+- scheme
+- absorb
+bip_39_word_space_1: when
+bip_39_word_space_10: when kid sad portion ankle giggle goddess beach call wave
+bip_39_word_space_11: when kid sad portion ankle giggle goddess beach call wave scheme
+bip_39_word_space_12: when kid sad portion ankle giggle goddess beach call wave scheme
+  absorb
+bip_39_word_space_2: when kid
+bip_39_word_space_3: when kid sad
+bip_39_word_space_4: when kid sad portion
+bip_39_word_space_5: when kid sad portion ankle
+bip_39_word_space_6: when kid sad portion ankle giggle
+bip_39_word_space_7: when kid sad portion ankle giggle goddess
+bip_39_word_space_8: when kid sad portion ankle giggle goddess beach
+bip_39_word_space_9: when kid sad portion ankle giggle goddess beach call
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: zoo drama
+  * bip 39 word 3: zoo drama alert
+  * bip 39 word: zoo drama alert carbon conduct cheap bone walnut butter ceiling debate afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | zoo |  
+| bip_39_word_new_br10 | zoo<br>drama<br>alert<br>carbon<br>conduct<br>cheap<br>bone<br>walnut<br>butter<br>ceiling |  
+| bip_39_word_new_br11 | zoo<br>drama<br>alert<br>carbon<br>conduct<br>cheap<br>bone<br>walnut<br>butter<br>ceiling<br>debate |  
+| bip_39_word_new_br12 | zoo<br>drama<br>alert<br>carbon<br>conduct<br>cheap<br>bone<br>walnut<br>butter<br>ceiling<br>debate<br>afraid |  
+| bip_39_word_new_br2 | zoo<br>drama |  
+| bip_39_word_new_br3 | zoo<br>drama<br>alert |  
+| bip_39_word_new_br4 | zoo<br>drama<br>alert<br>carbon |  
+| bip_39_word_new_br5 | zoo<br>drama<br>alert<br>carbon<br>conduct |  
+| bip_39_word_new_br6 | zoo<br>drama<br>alert<br>carbon<br>conduct<br>cheap |  
+| bip_39_word_new_br7 | zoo<br>drama<br>alert<br>carbon<br>conduct<br>cheap<br>bone |  
+| bip_39_word_new_br8 | zoo<br>drama<br>alert<br>carbon<br>conduct<br>cheap<br>bone<br>walnut |  
+| bip_39_word_new_br9 | zoo<br>drama<br>alert<br>carbon<br>conduct<br>cheap<br>bone<br>walnut<br>butter |  
+| bip_39_word_new_line1 | zoo |  
+| bip_39_word_new_line10 | zoo
+drama
+alert
+carbon
+conduct
+cheap
+bone
+walnut
+butter
+ceiling |  
+| bip_39_word_new_line11 | zoo
+drama
+alert
+carbon
+conduct
+cheap
+bone
+walnut
+butter
+ceiling
+debate |  
+| bip_39_word_new_line12 | zoo
+drama
+alert
+carbon
+conduct
+cheap
+bone
+walnut
+butter
+ceiling
+debate
+afraid |  
+| bip_39_word_new_line2 | zoo
+drama |  
+| bip_39_word_new_line3 | zoo
+drama
+alert |  
+| bip_39_word_new_line4 | zoo
+drama
+alert
+carbon |  
+| bip_39_word_new_line5 | zoo
+drama
+alert
+carbon
+conduct |  
+| bip_39_word_new_line6 | zoo
+drama
+alert
+carbon
+conduct
+cheap |  
+| bip_39_word_new_line7 | zoo
+drama
+alert
+carbon
+conduct
+cheap
+bone |  
+| bip_39_word_new_line8 | zoo
+drama
+alert
+carbon
+conduct
+cheap
+bone
+walnut |  
+| bip_39_word_new_line9 | zoo
+drama
+alert
+carbon
+conduct
+cheap
+bone
+walnut
+butter |  
+| bip_39_word_space_0 | ['zoo', 'drama', 'alert', 'carbon', 'conduct', 'cheap', 'bone', 'walnut', 'butter', 'ceiling', 'debate', 'afraid'] |  
+| bip_39_word_space_1 | zoo |  
+| bip_39_word_space_10 | zoo drama alert carbon conduct cheap bone walnut butter ceiling |  
+| bip_39_word_space_11 | zoo drama alert carbon conduct cheap bone walnut butter ceiling debate |  
+| bip_39_word_space_12 | zoo drama alert carbon conduct cheap bone walnut butter ceiling debate afraid |  
+| bip_39_word_space_2 | zoo drama |  
+| bip_39_word_space_3 | zoo drama alert |  
+| bip_39_word_space_4 | zoo drama alert carbon |  
+| bip_39_word_space_5 | zoo drama alert carbon conduct |  
+| bip_39_word_space_6 | zoo drama alert carbon conduct cheap |  
+| bip_39_word_space_7 | zoo drama alert carbon conduct cheap bone |  
+| bip_39_word_space_8 | zoo drama alert carbon conduct cheap bone walnut |  
+| bip_39_word_space_9 | zoo drama alert carbon conduct cheap bone walnut butter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

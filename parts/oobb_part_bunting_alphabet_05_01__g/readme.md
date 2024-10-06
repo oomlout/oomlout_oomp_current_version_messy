@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: g
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tuna medal
+  * bip 39 word 3: tuna medal chuckle
+  * bip 39 word: tuna medal chuckle cotton satoshi cool spy wink match win pony adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tuna |  
+| bip_39_word_new_br10 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool<br>spy<br>wink<br>match<br>win |  
+| bip_39_word_new_br11 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool<br>spy<br>wink<br>match<br>win<br>pony |  
+| bip_39_word_new_br12 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool<br>spy<br>wink<br>match<br>win<br>pony<br>adapt |  
+| bip_39_word_new_br2 | tuna<br>medal |  
+| bip_39_word_new_br3 | tuna<br>medal<br>chuckle |  
+| bip_39_word_new_br4 | tuna<br>medal<br>chuckle<br>cotton |  
+| bip_39_word_new_br5 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi |  
+| bip_39_word_new_br6 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool |  
+| bip_39_word_new_br7 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool<br>spy |  
+| bip_39_word_new_br8 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool<br>spy<br>wink |  
+| bip_39_word_new_br9 | tuna<br>medal<br>chuckle<br>cotton<br>satoshi<br>cool<br>spy<br>wink<br>match |  
+| bip_39_word_new_line1 | tuna |  
+| bip_39_word_new_line10 | tuna
+medal
+chuckle
+cotton
+satoshi
+cool
+spy
+wink
+match
+win |  
+| bip_39_word_new_line11 | tuna
+medal
+chuckle
+cotton
+satoshi
+cool
+spy
+wink
+match
+win
+pony |  
+| bip_39_word_new_line12 | tuna
+medal
+chuckle
+cotton
+satoshi
+cool
+spy
+wink
+match
+win
+pony
+adapt |  
+| bip_39_word_new_line2 | tuna
+medal |  
+| bip_39_word_new_line3 | tuna
+medal
+chuckle |  
+| bip_39_word_new_line4 | tuna
+medal
+chuckle
+cotton |  
+| bip_39_word_new_line5 | tuna
+medal
+chuckle
+cotton
+satoshi |  
+| bip_39_word_new_line6 | tuna
+medal
+chuckle
+cotton
+satoshi
+cool |  
+| bip_39_word_new_line7 | tuna
+medal
+chuckle
+cotton
+satoshi
+cool
+spy |  
+| bip_39_word_new_line8 | tuna
+medal
+chuckle
+cotton
+satoshi
+cool
+spy
+wink |  
+| bip_39_word_new_line9 | tuna
+medal
+chuckle
+cotton
+satoshi
+cool
+spy
+wink
+match |  
+| bip_39_word_space_0 | ['tuna', 'medal', 'chuckle', 'cotton', 'satoshi', 'cool', 'spy', 'wink', 'match', 'win', 'pony', 'adapt'] |  
+| bip_39_word_space_1 | tuna |  
+| bip_39_word_space_10 | tuna medal chuckle cotton satoshi cool spy wink match win |  
+| bip_39_word_space_11 | tuna medal chuckle cotton satoshi cool spy wink match win pony |  
+| bip_39_word_space_12 | tuna medal chuckle cotton satoshi cool spy wink match win pony adapt |  
+| bip_39_word_space_2 | tuna medal |  
+| bip_39_word_space_3 | tuna medal chuckle |  
+| bip_39_word_space_4 | tuna medal chuckle cotton |  
+| bip_39_word_space_5 | tuna medal chuckle cotton satoshi |  
+| bip_39_word_space_6 | tuna medal chuckle cotton satoshi cool |  
+| bip_39_word_space_7 | tuna medal chuckle cotton satoshi cool spy |  
+| bip_39_word_space_8 | tuna medal chuckle cotton satoshi cool spy wink |  
+| bip_39_word_space_9 | tuna medal chuckle cotton satoshi cool spy wink match |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

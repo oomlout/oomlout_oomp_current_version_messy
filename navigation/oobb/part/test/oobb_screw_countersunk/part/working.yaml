@@ -1,3 +1,186 @@
+bip_39_word_new_br1: item
+bip_39_word_new_br10: item<br>coast<br>lesson<br>oil<br>deliver<br>flee<br>trigger<br>brisk<br>vapor<br>remove
+bip_39_word_new_br11: item<br>coast<br>lesson<br>oil<br>deliver<br>flee<br>trigger<br>brisk<br>vapor<br>remove<br>broken
+bip_39_word_new_br12: item<br>coast<br>lesson<br>oil<br>deliver<br>flee<br>trigger<br>brisk<br>vapor<br>remove<br>broken<br>adjust
+bip_39_word_new_br2: item<br>coast
+bip_39_word_new_br3: item<br>coast<br>lesson
+bip_39_word_new_br4: item<br>coast<br>lesson<br>oil
+bip_39_word_new_br5: item<br>coast<br>lesson<br>oil<br>deliver
+bip_39_word_new_br6: item<br>coast<br>lesson<br>oil<br>deliver<br>flee
+bip_39_word_new_br7: item<br>coast<br>lesson<br>oil<br>deliver<br>flee<br>trigger
+bip_39_word_new_br8: item<br>coast<br>lesson<br>oil<br>deliver<br>flee<br>trigger<br>brisk
+bip_39_word_new_br9: item<br>coast<br>lesson<br>oil<br>deliver<br>flee<br>trigger<br>brisk<br>vapor
+bip_39_word_new_line1: item
+bip_39_word_new_line10: 'item
+
+  coast
+
+  lesson
+
+  oil
+
+  deliver
+
+  flee
+
+  trigger
+
+  brisk
+
+  vapor
+
+  remove'
+bip_39_word_new_line11: 'item
+
+  coast
+
+  lesson
+
+  oil
+
+  deliver
+
+  flee
+
+  trigger
+
+  brisk
+
+  vapor
+
+  remove
+
+  broken'
+bip_39_word_new_line12: 'item
+
+  coast
+
+  lesson
+
+  oil
+
+  deliver
+
+  flee
+
+  trigger
+
+  brisk
+
+  vapor
+
+  remove
+
+  broken
+
+  adjust'
+bip_39_word_new_line2: 'item
+
+  coast'
+bip_39_word_new_line3: 'item
+
+  coast
+
+  lesson'
+bip_39_word_new_line4: 'item
+
+  coast
+
+  lesson
+
+  oil'
+bip_39_word_new_line5: 'item
+
+  coast
+
+  lesson
+
+  oil
+
+  deliver'
+bip_39_word_new_line6: 'item
+
+  coast
+
+  lesson
+
+  oil
+
+  deliver
+
+  flee'
+bip_39_word_new_line7: 'item
+
+  coast
+
+  lesson
+
+  oil
+
+  deliver
+
+  flee
+
+  trigger'
+bip_39_word_new_line8: 'item
+
+  coast
+
+  lesson
+
+  oil
+
+  deliver
+
+  flee
+
+  trigger
+
+  brisk'
+bip_39_word_new_line9: 'item
+
+  coast
+
+  lesson
+
+  oil
+
+  deliver
+
+  flee
+
+  trigger
+
+  brisk
+
+  vapor'
+bip_39_word_space_0:
+- item
+- coast
+- lesson
+- oil
+- deliver
+- flee
+- trigger
+- brisk
+- vapor
+- remove
+- broken
+- adjust
+bip_39_word_space_1: item
+bip_39_word_space_10: item coast lesson oil deliver flee trigger brisk vapor remove
+bip_39_word_space_11: item coast lesson oil deliver flee trigger brisk vapor remove
+  broken
+bip_39_word_space_12: item coast lesson oil deliver flee trigger brisk vapor remove
+  broken adjust
+bip_39_word_space_2: item coast
+bip_39_word_space_3: item coast lesson
+bip_39_word_space_4: item coast lesson oil
+bip_39_word_space_5: item coast lesson oil deliver
+bip_39_word_space_6: item coast lesson oil deliver flee
+bip_39_word_space_7: item coast lesson oil deliver flee trigger
+bip_39_word_space_8: item coast lesson oil deliver flee trigger brisk
+bip_39_word_space_9: item coast lesson oil deliver flee trigger brisk vapor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

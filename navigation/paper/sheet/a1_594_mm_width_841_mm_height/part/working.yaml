@@ -1,3 +1,185 @@
+bip_39_word_new_br1: mixture
+bip_39_word_new_br10: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda
+bip_39_word_new_br11: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda<br>rally
+bip_39_word_new_br12: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way<br>panda<br>rally<br>again
+bip_39_word_new_br2: mixture<br>doll
+bip_39_word_new_br3: mixture<br>doll<br>life
+bip_39_word_new_br4: mixture<br>doll<br>life<br>rival
+bip_39_word_new_br5: mixture<br>doll<br>life<br>rival<br>route
+bip_39_word_new_br6: mixture<br>doll<br>life<br>rival<br>route<br>axis
+bip_39_word_new_br7: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag
+bip_39_word_new_br8: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky
+bip_39_word_new_br9: mixture<br>doll<br>life<br>rival<br>route<br>axis<br>tag<br>lucky<br>way
+bip_39_word_new_line1: mixture
+bip_39_word_new_line10: 'mixture
+
+  doll
+
+  life
+
+  rival
+
+  route
+
+  axis
+
+  tag
+
+  lucky
+
+  way
+
+  panda'
+bip_39_word_new_line11: 'mixture
+
+  doll
+
+  life
+
+  rival
+
+  route
+
+  axis
+
+  tag
+
+  lucky
+
+  way
+
+  panda
+
+  rally'
+bip_39_word_new_line12: 'mixture
+
+  doll
+
+  life
+
+  rival
+
+  route
+
+  axis
+
+  tag
+
+  lucky
+
+  way
+
+  panda
+
+  rally
+
+  again'
+bip_39_word_new_line2: 'mixture
+
+  doll'
+bip_39_word_new_line3: 'mixture
+
+  doll
+
+  life'
+bip_39_word_new_line4: 'mixture
+
+  doll
+
+  life
+
+  rival'
+bip_39_word_new_line5: 'mixture
+
+  doll
+
+  life
+
+  rival
+
+  route'
+bip_39_word_new_line6: 'mixture
+
+  doll
+
+  life
+
+  rival
+
+  route
+
+  axis'
+bip_39_word_new_line7: 'mixture
+
+  doll
+
+  life
+
+  rival
+
+  route
+
+  axis
+
+  tag'
+bip_39_word_new_line8: 'mixture
+
+  doll
+
+  life
+
+  rival
+
+  route
+
+  axis
+
+  tag
+
+  lucky'
+bip_39_word_new_line9: 'mixture
+
+  doll
+
+  life
+
+  rival
+
+  route
+
+  axis
+
+  tag
+
+  lucky
+
+  way'
+bip_39_word_space_0:
+- mixture
+- doll
+- life
+- rival
+- route
+- axis
+- tag
+- lucky
+- way
+- panda
+- rally
+- again
+bip_39_word_space_1: mixture
+bip_39_word_space_10: mixture doll life rival route axis tag lucky way panda
+bip_39_word_space_11: mixture doll life rival route axis tag lucky way panda rally
+bip_39_word_space_12: mixture doll life rival route axis tag lucky way panda rally
+  again
+bip_39_word_space_2: mixture doll
+bip_39_word_space_3: mixture doll life
+bip_39_word_space_4: mixture doll life rival
+bip_39_word_space_5: mixture doll life rival route
+bip_39_word_space_6: mixture doll life rival route axis
+bip_39_word_space_7: mixture doll life rival route axis tag
+bip_39_word_space_8: mixture doll life rival route axis tag lucky
+bip_39_word_space_9: mixture doll life rival route axis tag lucky way
 classification: paper
 classification_capital: Paper
 classification_first_letter: p

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: slight type
+  * bip 39 word 3: slight type lava
+  * bip 39 word: slight type lava drip sign miss modify detail across base crush argue
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | slight |  
+| bip_39_word_new_br10 | slight<br>type<br>lava<br>drip<br>sign<br>miss<br>modify<br>detail<br>across<br>base |  
+| bip_39_word_new_br11 | slight<br>type<br>lava<br>drip<br>sign<br>miss<br>modify<br>detail<br>across<br>base<br>crush |  
+| bip_39_word_new_br12 | slight<br>type<br>lava<br>drip<br>sign<br>miss<br>modify<br>detail<br>across<br>base<br>crush<br>argue |  
+| bip_39_word_new_br2 | slight<br>type |  
+| bip_39_word_new_br3 | slight<br>type<br>lava |  
+| bip_39_word_new_br4 | slight<br>type<br>lava<br>drip |  
+| bip_39_word_new_br5 | slight<br>type<br>lava<br>drip<br>sign |  
+| bip_39_word_new_br6 | slight<br>type<br>lava<br>drip<br>sign<br>miss |  
+| bip_39_word_new_br7 | slight<br>type<br>lava<br>drip<br>sign<br>miss<br>modify |  
+| bip_39_word_new_br8 | slight<br>type<br>lava<br>drip<br>sign<br>miss<br>modify<br>detail |  
+| bip_39_word_new_br9 | slight<br>type<br>lava<br>drip<br>sign<br>miss<br>modify<br>detail<br>across |  
+| bip_39_word_new_line1 | slight |  
+| bip_39_word_new_line10 | slight
+type
+lava
+drip
+sign
+miss
+modify
+detail
+across
+base |  
+| bip_39_word_new_line11 | slight
+type
+lava
+drip
+sign
+miss
+modify
+detail
+across
+base
+crush |  
+| bip_39_word_new_line12 | slight
+type
+lava
+drip
+sign
+miss
+modify
+detail
+across
+base
+crush
+argue |  
+| bip_39_word_new_line2 | slight
+type |  
+| bip_39_word_new_line3 | slight
+type
+lava |  
+| bip_39_word_new_line4 | slight
+type
+lava
+drip |  
+| bip_39_word_new_line5 | slight
+type
+lava
+drip
+sign |  
+| bip_39_word_new_line6 | slight
+type
+lava
+drip
+sign
+miss |  
+| bip_39_word_new_line7 | slight
+type
+lava
+drip
+sign
+miss
+modify |  
+| bip_39_word_new_line8 | slight
+type
+lava
+drip
+sign
+miss
+modify
+detail |  
+| bip_39_word_new_line9 | slight
+type
+lava
+drip
+sign
+miss
+modify
+detail
+across |  
+| bip_39_word_space_0 | ['slight', 'type', 'lava', 'drip', 'sign', 'miss', 'modify', 'detail', 'across', 'base', 'crush', 'argue'] |  
+| bip_39_word_space_1 | slight |  
+| bip_39_word_space_10 | slight type lava drip sign miss modify detail across base |  
+| bip_39_word_space_11 | slight type lava drip sign miss modify detail across base crush |  
+| bip_39_word_space_12 | slight type lava drip sign miss modify detail across base crush argue |  
+| bip_39_word_space_2 | slight type |  
+| bip_39_word_space_3 | slight type lava |  
+| bip_39_word_space_4 | slight type lava drip |  
+| bip_39_word_space_5 | slight type lava drip sign |  
+| bip_39_word_space_6 | slight type lava drip sign miss |  
+| bip_39_word_space_7 | slight type lava drip sign miss modify |  
+| bip_39_word_space_8 | slight type lava drip sign miss modify detail |  
+| bip_39_word_space_9 | slight type lava drip sign miss modify detail across |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

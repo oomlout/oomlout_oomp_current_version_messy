@@ -1,3 +1,186 @@
+bip_39_word_new_br1: grow
+bip_39_word_new_br10: grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot
+bip_39_word_new_br11: grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot<br>danger
+bip_39_word_new_br12: grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry<br>pilot<br>danger<br>approve
+bip_39_word_new_br2: grow<br>law
+bip_39_word_new_br3: grow<br>law<br>indicate
+bip_39_word_new_br4: grow<br>law<br>indicate<br>much
+bip_39_word_new_br5: grow<br>law<br>indicate<br>much<br>weird
+bip_39_word_new_br6: grow<br>law<br>indicate<br>much<br>weird<br>develop
+bip_39_word_new_br7: grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance
+bip_39_word_new_br8: grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics
+bip_39_word_new_br9: grow<br>law<br>indicate<br>much<br>weird<br>develop<br>advance<br>ethics<br>worry
+bip_39_word_new_line1: grow
+bip_39_word_new_line10: 'grow
+
+  law
+
+  indicate
+
+  much
+
+  weird
+
+  develop
+
+  advance
+
+  ethics
+
+  worry
+
+  pilot'
+bip_39_word_new_line11: 'grow
+
+  law
+
+  indicate
+
+  much
+
+  weird
+
+  develop
+
+  advance
+
+  ethics
+
+  worry
+
+  pilot
+
+  danger'
+bip_39_word_new_line12: 'grow
+
+  law
+
+  indicate
+
+  much
+
+  weird
+
+  develop
+
+  advance
+
+  ethics
+
+  worry
+
+  pilot
+
+  danger
+
+  approve'
+bip_39_word_new_line2: 'grow
+
+  law'
+bip_39_word_new_line3: 'grow
+
+  law
+
+  indicate'
+bip_39_word_new_line4: 'grow
+
+  law
+
+  indicate
+
+  much'
+bip_39_word_new_line5: 'grow
+
+  law
+
+  indicate
+
+  much
+
+  weird'
+bip_39_word_new_line6: 'grow
+
+  law
+
+  indicate
+
+  much
+
+  weird
+
+  develop'
+bip_39_word_new_line7: 'grow
+
+  law
+
+  indicate
+
+  much
+
+  weird
+
+  develop
+
+  advance'
+bip_39_word_new_line8: 'grow
+
+  law
+
+  indicate
+
+  much
+
+  weird
+
+  develop
+
+  advance
+
+  ethics'
+bip_39_word_new_line9: 'grow
+
+  law
+
+  indicate
+
+  much
+
+  weird
+
+  develop
+
+  advance
+
+  ethics
+
+  worry'
+bip_39_word_space_0:
+- grow
+- law
+- indicate
+- much
+- weird
+- develop
+- advance
+- ethics
+- worry
+- pilot
+- danger
+- approve
+bip_39_word_space_1: grow
+bip_39_word_space_10: grow law indicate much weird develop advance ethics worry pilot
+bip_39_word_space_11: grow law indicate much weird develop advance ethics worry pilot
+  danger
+bip_39_word_space_12: grow law indicate much weird develop advance ethics worry pilot
+  danger approve
+bip_39_word_space_2: grow law
+bip_39_word_space_3: grow law indicate
+bip_39_word_space_4: grow law indicate much
+bip_39_word_space_5: grow law indicate much weird
+bip_39_word_space_6: grow law indicate much weird develop
+bip_39_word_space_7: grow law indicate much weird develop advance
+bip_39_word_space_8: grow law indicate much weird develop advance ethics
+bip_39_word_space_9: grow law indicate much weird develop advance ethics worry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

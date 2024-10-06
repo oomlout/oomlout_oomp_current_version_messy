@@ -1,3 +1,187 @@
+bip_39_word_new_br1: game
+bip_39_word_new_br10: game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe
+bip_39_word_new_br11: game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe<br>write
+bip_39_word_new_br12: game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride<br>believe<br>write<br>another
+bip_39_word_new_br2: game<br>machine
+bip_39_word_new_br3: game<br>machine<br>solid
+bip_39_word_new_br4: game<br>machine<br>solid<br>despair
+bip_39_word_new_br5: game<br>machine<br>solid<br>despair<br>citizen
+bip_39_word_new_br6: game<br>machine<br>solid<br>despair<br>citizen<br>purse
+bip_39_word_new_br7: game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown
+bip_39_word_new_br8: game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story
+bip_39_word_new_br9: game<br>machine<br>solid<br>despair<br>citizen<br>purse<br>unknown<br>story<br>pride
+bip_39_word_new_line1: game
+bip_39_word_new_line10: 'game
+
+  machine
+
+  solid
+
+  despair
+
+  citizen
+
+  purse
+
+  unknown
+
+  story
+
+  pride
+
+  believe'
+bip_39_word_new_line11: 'game
+
+  machine
+
+  solid
+
+  despair
+
+  citizen
+
+  purse
+
+  unknown
+
+  story
+
+  pride
+
+  believe
+
+  write'
+bip_39_word_new_line12: 'game
+
+  machine
+
+  solid
+
+  despair
+
+  citizen
+
+  purse
+
+  unknown
+
+  story
+
+  pride
+
+  believe
+
+  write
+
+  another'
+bip_39_word_new_line2: 'game
+
+  machine'
+bip_39_word_new_line3: 'game
+
+  machine
+
+  solid'
+bip_39_word_new_line4: 'game
+
+  machine
+
+  solid
+
+  despair'
+bip_39_word_new_line5: 'game
+
+  machine
+
+  solid
+
+  despair
+
+  citizen'
+bip_39_word_new_line6: 'game
+
+  machine
+
+  solid
+
+  despair
+
+  citizen
+
+  purse'
+bip_39_word_new_line7: 'game
+
+  machine
+
+  solid
+
+  despair
+
+  citizen
+
+  purse
+
+  unknown'
+bip_39_word_new_line8: 'game
+
+  machine
+
+  solid
+
+  despair
+
+  citizen
+
+  purse
+
+  unknown
+
+  story'
+bip_39_word_new_line9: 'game
+
+  machine
+
+  solid
+
+  despair
+
+  citizen
+
+  purse
+
+  unknown
+
+  story
+
+  pride'
+bip_39_word_space_0:
+- game
+- machine
+- solid
+- despair
+- citizen
+- purse
+- unknown
+- story
+- pride
+- believe
+- write
+- another
+bip_39_word_space_1: game
+bip_39_word_space_10: game machine solid despair citizen purse unknown story pride
+  believe
+bip_39_word_space_11: game machine solid despair citizen purse unknown story pride
+  believe write
+bip_39_word_space_12: game machine solid despair citizen purse unknown story pride
+  believe write another
+bip_39_word_space_2: game machine
+bip_39_word_space_3: game machine solid
+bip_39_word_space_4: game machine solid despair
+bip_39_word_space_5: game machine solid despair citizen
+bip_39_word_space_6: game machine solid despair citizen purse
+bip_39_word_space_7: game machine solid despair citizen purse unknown
+bip_39_word_space_8: game machine solid despair citizen purse unknown story
+bip_39_word_space_9: game machine solid despair citizen purse unknown story pride
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: garden
+bip_39_word_new_br10: garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic<br>action<br>code<br>tenant<br>never
+bip_39_word_new_br11: garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic<br>action<br>code<br>tenant<br>never<br>host
+bip_39_word_new_br12: garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic<br>action<br>code<br>tenant<br>never<br>host<br>aerobic
+bip_39_word_new_br2: garden<br>cancel
+bip_39_word_new_br3: garden<br>cancel<br>crack
+bip_39_word_new_br4: garden<br>cancel<br>crack<br>draw
+bip_39_word_new_br5: garden<br>cancel<br>crack<br>draw<br>vessel
+bip_39_word_new_br6: garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic
+bip_39_word_new_br7: garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic<br>action
+bip_39_word_new_br8: garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic<br>action<br>code
+bip_39_word_new_br9: garden<br>cancel<br>crack<br>draw<br>vessel<br>acoustic<br>action<br>code<br>tenant
+bip_39_word_new_line1: garden
+bip_39_word_new_line10: 'garden
+
+  cancel
+
+  crack
+
+  draw
+
+  vessel
+
+  acoustic
+
+  action
+
+  code
+
+  tenant
+
+  never'
+bip_39_word_new_line11: 'garden
+
+  cancel
+
+  crack
+
+  draw
+
+  vessel
+
+  acoustic
+
+  action
+
+  code
+
+  tenant
+
+  never
+
+  host'
+bip_39_word_new_line12: 'garden
+
+  cancel
+
+  crack
+
+  draw
+
+  vessel
+
+  acoustic
+
+  action
+
+  code
+
+  tenant
+
+  never
+
+  host
+
+  aerobic'
+bip_39_word_new_line2: 'garden
+
+  cancel'
+bip_39_word_new_line3: 'garden
+
+  cancel
+
+  crack'
+bip_39_word_new_line4: 'garden
+
+  cancel
+
+  crack
+
+  draw'
+bip_39_word_new_line5: 'garden
+
+  cancel
+
+  crack
+
+  draw
+
+  vessel'
+bip_39_word_new_line6: 'garden
+
+  cancel
+
+  crack
+
+  draw
+
+  vessel
+
+  acoustic'
+bip_39_word_new_line7: 'garden
+
+  cancel
+
+  crack
+
+  draw
+
+  vessel
+
+  acoustic
+
+  action'
+bip_39_word_new_line8: 'garden
+
+  cancel
+
+  crack
+
+  draw
+
+  vessel
+
+  acoustic
+
+  action
+
+  code'
+bip_39_word_new_line9: 'garden
+
+  cancel
+
+  crack
+
+  draw
+
+  vessel
+
+  acoustic
+
+  action
+
+  code
+
+  tenant'
+bip_39_word_space_0:
+- garden
+- cancel
+- crack
+- draw
+- vessel
+- acoustic
+- action
+- code
+- tenant
+- never
+- host
+- aerobic
+bip_39_word_space_1: garden
+bip_39_word_space_10: garden cancel crack draw vessel acoustic action code tenant
+  never
+bip_39_word_space_11: garden cancel crack draw vessel acoustic action code tenant
+  never host
+bip_39_word_space_12: garden cancel crack draw vessel acoustic action code tenant
+  never host aerobic
+bip_39_word_space_2: garden cancel
+bip_39_word_space_3: garden cancel crack
+bip_39_word_space_4: garden cancel crack draw
+bip_39_word_space_5: garden cancel crack draw vessel
+bip_39_word_space_6: garden cancel crack draw vessel acoustic
+bip_39_word_space_7: garden cancel crack draw vessel acoustic action
+bip_39_word_space_8: garden cancel crack draw vessel acoustic action code
+bip_39_word_space_9: garden cancel crack draw vessel acoustic action code tenant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

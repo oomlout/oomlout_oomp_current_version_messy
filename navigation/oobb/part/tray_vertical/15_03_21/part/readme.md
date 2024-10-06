@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: promote pencil
+  * bip 39 word 3: promote pencil more
+  * bip 39 word: promote pencil more ginger fat lab morning satisfy crunch process poem advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | promote |  
+| bip_39_word_new_br10 | promote<br>pencil<br>more<br>ginger<br>fat<br>lab<br>morning<br>satisfy<br>crunch<br>process |  
+| bip_39_word_new_br11 | promote<br>pencil<br>more<br>ginger<br>fat<br>lab<br>morning<br>satisfy<br>crunch<br>process<br>poem |  
+| bip_39_word_new_br12 | promote<br>pencil<br>more<br>ginger<br>fat<br>lab<br>morning<br>satisfy<br>crunch<br>process<br>poem<br>advance |  
+| bip_39_word_new_br2 | promote<br>pencil |  
+| bip_39_word_new_br3 | promote<br>pencil<br>more |  
+| bip_39_word_new_br4 | promote<br>pencil<br>more<br>ginger |  
+| bip_39_word_new_br5 | promote<br>pencil<br>more<br>ginger<br>fat |  
+| bip_39_word_new_br6 | promote<br>pencil<br>more<br>ginger<br>fat<br>lab |  
+| bip_39_word_new_br7 | promote<br>pencil<br>more<br>ginger<br>fat<br>lab<br>morning |  
+| bip_39_word_new_br8 | promote<br>pencil<br>more<br>ginger<br>fat<br>lab<br>morning<br>satisfy |  
+| bip_39_word_new_br9 | promote<br>pencil<br>more<br>ginger<br>fat<br>lab<br>morning<br>satisfy<br>crunch |  
+| bip_39_word_new_line1 | promote |  
+| bip_39_word_new_line10 | promote
+pencil
+more
+ginger
+fat
+lab
+morning
+satisfy
+crunch
+process |  
+| bip_39_word_new_line11 | promote
+pencil
+more
+ginger
+fat
+lab
+morning
+satisfy
+crunch
+process
+poem |  
+| bip_39_word_new_line12 | promote
+pencil
+more
+ginger
+fat
+lab
+morning
+satisfy
+crunch
+process
+poem
+advance |  
+| bip_39_word_new_line2 | promote
+pencil |  
+| bip_39_word_new_line3 | promote
+pencil
+more |  
+| bip_39_word_new_line4 | promote
+pencil
+more
+ginger |  
+| bip_39_word_new_line5 | promote
+pencil
+more
+ginger
+fat |  
+| bip_39_word_new_line6 | promote
+pencil
+more
+ginger
+fat
+lab |  
+| bip_39_word_new_line7 | promote
+pencil
+more
+ginger
+fat
+lab
+morning |  
+| bip_39_word_new_line8 | promote
+pencil
+more
+ginger
+fat
+lab
+morning
+satisfy |  
+| bip_39_word_new_line9 | promote
+pencil
+more
+ginger
+fat
+lab
+morning
+satisfy
+crunch |  
+| bip_39_word_space_0 | ['promote', 'pencil', 'more', 'ginger', 'fat', 'lab', 'morning', 'satisfy', 'crunch', 'process', 'poem', 'advance'] |  
+| bip_39_word_space_1 | promote |  
+| bip_39_word_space_10 | promote pencil more ginger fat lab morning satisfy crunch process |  
+| bip_39_word_space_11 | promote pencil more ginger fat lab morning satisfy crunch process poem |  
+| bip_39_word_space_12 | promote pencil more ginger fat lab morning satisfy crunch process poem advance |  
+| bip_39_word_space_2 | promote pencil |  
+| bip_39_word_space_3 | promote pencil more |  
+| bip_39_word_space_4 | promote pencil more ginger |  
+| bip_39_word_space_5 | promote pencil more ginger fat |  
+| bip_39_word_space_6 | promote pencil more ginger fat lab |  
+| bip_39_word_space_7 | promote pencil more ginger fat lab morning |  
+| bip_39_word_space_8 | promote pencil more ginger fat lab morning satisfy |  
+| bip_39_word_space_9 | promote pencil more ginger fat lab morning satisfy crunch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

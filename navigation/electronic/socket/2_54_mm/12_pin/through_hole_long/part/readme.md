@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: together rural
+  * bip 39 word 3: together rural dune
+  * bip 39 word: together rural dune effort thank trophy moon goose secret myself cushion aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | together |  
+| bip_39_word_new_br10 | together<br>rural<br>dune<br>effort<br>thank<br>trophy<br>moon<br>goose<br>secret<br>myself |  
+| bip_39_word_new_br11 | together<br>rural<br>dune<br>effort<br>thank<br>trophy<br>moon<br>goose<br>secret<br>myself<br>cushion |  
+| bip_39_word_new_br12 | together<br>rural<br>dune<br>effort<br>thank<br>trophy<br>moon<br>goose<br>secret<br>myself<br>cushion<br>aim |  
+| bip_39_word_new_br2 | together<br>rural |  
+| bip_39_word_new_br3 | together<br>rural<br>dune |  
+| bip_39_word_new_br4 | together<br>rural<br>dune<br>effort |  
+| bip_39_word_new_br5 | together<br>rural<br>dune<br>effort<br>thank |  
+| bip_39_word_new_br6 | together<br>rural<br>dune<br>effort<br>thank<br>trophy |  
+| bip_39_word_new_br7 | together<br>rural<br>dune<br>effort<br>thank<br>trophy<br>moon |  
+| bip_39_word_new_br8 | together<br>rural<br>dune<br>effort<br>thank<br>trophy<br>moon<br>goose |  
+| bip_39_word_new_br9 | together<br>rural<br>dune<br>effort<br>thank<br>trophy<br>moon<br>goose<br>secret |  
+| bip_39_word_new_line1 | together |  
+| bip_39_word_new_line10 | together
+rural
+dune
+effort
+thank
+trophy
+moon
+goose
+secret
+myself |  
+| bip_39_word_new_line11 | together
+rural
+dune
+effort
+thank
+trophy
+moon
+goose
+secret
+myself
+cushion |  
+| bip_39_word_new_line12 | together
+rural
+dune
+effort
+thank
+trophy
+moon
+goose
+secret
+myself
+cushion
+aim |  
+| bip_39_word_new_line2 | together
+rural |  
+| bip_39_word_new_line3 | together
+rural
+dune |  
+| bip_39_word_new_line4 | together
+rural
+dune
+effort |  
+| bip_39_word_new_line5 | together
+rural
+dune
+effort
+thank |  
+| bip_39_word_new_line6 | together
+rural
+dune
+effort
+thank
+trophy |  
+| bip_39_word_new_line7 | together
+rural
+dune
+effort
+thank
+trophy
+moon |  
+| bip_39_word_new_line8 | together
+rural
+dune
+effort
+thank
+trophy
+moon
+goose |  
+| bip_39_word_new_line9 | together
+rural
+dune
+effort
+thank
+trophy
+moon
+goose
+secret |  
+| bip_39_word_space_0 | ['together', 'rural', 'dune', 'effort', 'thank', 'trophy', 'moon', 'goose', 'secret', 'myself', 'cushion', 'aim'] |  
+| bip_39_word_space_1 | together |  
+| bip_39_word_space_10 | together rural dune effort thank trophy moon goose secret myself |  
+| bip_39_word_space_11 | together rural dune effort thank trophy moon goose secret myself cushion |  
+| bip_39_word_space_12 | together rural dune effort thank trophy moon goose secret myself cushion aim |  
+| bip_39_word_space_2 | together rural |  
+| bip_39_word_space_3 | together rural dune |  
+| bip_39_word_space_4 | together rural dune effort |  
+| bip_39_word_space_5 | together rural dune effort thank |  
+| bip_39_word_space_6 | together rural dune effort thank trophy |  
+| bip_39_word_space_7 | together rural dune effort thank trophy moon |  
+| bip_39_word_space_8 | together rural dune effort thank trophy moon goose |  
+| bip_39_word_space_9 | together rural dune effort thank trophy moon goose secret |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

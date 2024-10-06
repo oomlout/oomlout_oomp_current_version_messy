@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wire refuse
+  * bip 39 word 3: wire refuse solar
+  * bip 39 word: wire refuse solar pink link accident icon deputy enlist express abandon any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wire |  
+| bip_39_word_new_br10 | wire<br>refuse<br>solar<br>pink<br>link<br>accident<br>icon<br>deputy<br>enlist<br>express |  
+| bip_39_word_new_br11 | wire<br>refuse<br>solar<br>pink<br>link<br>accident<br>icon<br>deputy<br>enlist<br>express<br>abandon |  
+| bip_39_word_new_br12 | wire<br>refuse<br>solar<br>pink<br>link<br>accident<br>icon<br>deputy<br>enlist<br>express<br>abandon<br>any |  
+| bip_39_word_new_br2 | wire<br>refuse |  
+| bip_39_word_new_br3 | wire<br>refuse<br>solar |  
+| bip_39_word_new_br4 | wire<br>refuse<br>solar<br>pink |  
+| bip_39_word_new_br5 | wire<br>refuse<br>solar<br>pink<br>link |  
+| bip_39_word_new_br6 | wire<br>refuse<br>solar<br>pink<br>link<br>accident |  
+| bip_39_word_new_br7 | wire<br>refuse<br>solar<br>pink<br>link<br>accident<br>icon |  
+| bip_39_word_new_br8 | wire<br>refuse<br>solar<br>pink<br>link<br>accident<br>icon<br>deputy |  
+| bip_39_word_new_br9 | wire<br>refuse<br>solar<br>pink<br>link<br>accident<br>icon<br>deputy<br>enlist |  
+| bip_39_word_new_line1 | wire |  
+| bip_39_word_new_line10 | wire
+refuse
+solar
+pink
+link
+accident
+icon
+deputy
+enlist
+express |  
+| bip_39_word_new_line11 | wire
+refuse
+solar
+pink
+link
+accident
+icon
+deputy
+enlist
+express
+abandon |  
+| bip_39_word_new_line12 | wire
+refuse
+solar
+pink
+link
+accident
+icon
+deputy
+enlist
+express
+abandon
+any |  
+| bip_39_word_new_line2 | wire
+refuse |  
+| bip_39_word_new_line3 | wire
+refuse
+solar |  
+| bip_39_word_new_line4 | wire
+refuse
+solar
+pink |  
+| bip_39_word_new_line5 | wire
+refuse
+solar
+pink
+link |  
+| bip_39_word_new_line6 | wire
+refuse
+solar
+pink
+link
+accident |  
+| bip_39_word_new_line7 | wire
+refuse
+solar
+pink
+link
+accident
+icon |  
+| bip_39_word_new_line8 | wire
+refuse
+solar
+pink
+link
+accident
+icon
+deputy |  
+| bip_39_word_new_line9 | wire
+refuse
+solar
+pink
+link
+accident
+icon
+deputy
+enlist |  
+| bip_39_word_space_0 | ['wire', 'refuse', 'solar', 'pink', 'link', 'accident', 'icon', 'deputy', 'enlist', 'express', 'abandon', 'any'] |  
+| bip_39_word_space_1 | wire |  
+| bip_39_word_space_10 | wire refuse solar pink link accident icon deputy enlist express |  
+| bip_39_word_space_11 | wire refuse solar pink link accident icon deputy enlist express abandon |  
+| bip_39_word_space_12 | wire refuse solar pink link accident icon deputy enlist express abandon any |  
+| bip_39_word_space_2 | wire refuse |  
+| bip_39_word_space_3 | wire refuse solar |  
+| bip_39_word_space_4 | wire refuse solar pink |  
+| bip_39_word_space_5 | wire refuse solar pink link |  
+| bip_39_word_space_6 | wire refuse solar pink link accident |  
+| bip_39_word_space_7 | wire refuse solar pink link accident icon |  
+| bip_39_word_space_8 | wire refuse solar pink link accident icon deputy |  
+| bip_39_word_space_9 | wire refuse solar pink link accident icon deputy enlist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

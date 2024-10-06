@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: art frog
+  * bip 39 word 3: art frog frame
+  * bip 39 word: art frog frame fantasy assist believe disease output tiny shoot gravity attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | art |  
+| bip_39_word_new_br10 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe<br>disease<br>output<br>tiny<br>shoot |  
+| bip_39_word_new_br11 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe<br>disease<br>output<br>tiny<br>shoot<br>gravity |  
+| bip_39_word_new_br12 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe<br>disease<br>output<br>tiny<br>shoot<br>gravity<br>attend |  
+| bip_39_word_new_br2 | art<br>frog |  
+| bip_39_word_new_br3 | art<br>frog<br>frame |  
+| bip_39_word_new_br4 | art<br>frog<br>frame<br>fantasy |  
+| bip_39_word_new_br5 | art<br>frog<br>frame<br>fantasy<br>assist |  
+| bip_39_word_new_br6 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe |  
+| bip_39_word_new_br7 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe<br>disease |  
+| bip_39_word_new_br8 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe<br>disease<br>output |  
+| bip_39_word_new_br9 | art<br>frog<br>frame<br>fantasy<br>assist<br>believe<br>disease<br>output<br>tiny |  
+| bip_39_word_new_line1 | art |  
+| bip_39_word_new_line10 | art
+frog
+frame
+fantasy
+assist
+believe
+disease
+output
+tiny
+shoot |  
+| bip_39_word_new_line11 | art
+frog
+frame
+fantasy
+assist
+believe
+disease
+output
+tiny
+shoot
+gravity |  
+| bip_39_word_new_line12 | art
+frog
+frame
+fantasy
+assist
+believe
+disease
+output
+tiny
+shoot
+gravity
+attend |  
+| bip_39_word_new_line2 | art
+frog |  
+| bip_39_word_new_line3 | art
+frog
+frame |  
+| bip_39_word_new_line4 | art
+frog
+frame
+fantasy |  
+| bip_39_word_new_line5 | art
+frog
+frame
+fantasy
+assist |  
+| bip_39_word_new_line6 | art
+frog
+frame
+fantasy
+assist
+believe |  
+| bip_39_word_new_line7 | art
+frog
+frame
+fantasy
+assist
+believe
+disease |  
+| bip_39_word_new_line8 | art
+frog
+frame
+fantasy
+assist
+believe
+disease
+output |  
+| bip_39_word_new_line9 | art
+frog
+frame
+fantasy
+assist
+believe
+disease
+output
+tiny |  
+| bip_39_word_space_0 | ['art', 'frog', 'frame', 'fantasy', 'assist', 'believe', 'disease', 'output', 'tiny', 'shoot', 'gravity', 'attend'] |  
+| bip_39_word_space_1 | art |  
+| bip_39_word_space_10 | art frog frame fantasy assist believe disease output tiny shoot |  
+| bip_39_word_space_11 | art frog frame fantasy assist believe disease output tiny shoot gravity |  
+| bip_39_word_space_12 | art frog frame fantasy assist believe disease output tiny shoot gravity attend |  
+| bip_39_word_space_2 | art frog |  
+| bip_39_word_space_3 | art frog frame |  
+| bip_39_word_space_4 | art frog frame fantasy |  
+| bip_39_word_space_5 | art frog frame fantasy assist |  
+| bip_39_word_space_6 | art frog frame fantasy assist believe |  
+| bip_39_word_space_7 | art frog frame fantasy assist believe disease |  
+| bip_39_word_space_8 | art frog frame fantasy assist believe disease output |  
+| bip_39_word_space_9 | art frog frame fantasy assist believe disease output tiny |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

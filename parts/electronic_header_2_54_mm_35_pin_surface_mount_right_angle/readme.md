@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: move pulse
+  * bip 39 word 3: move pulse divide
+  * bip 39 word: move pulse divide account still dice fiscal obey sudden issue web also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | move |  
+| bip_39_word_new_br10 | move<br>pulse<br>divide<br>account<br>still<br>dice<br>fiscal<br>obey<br>sudden<br>issue |  
+| bip_39_word_new_br11 | move<br>pulse<br>divide<br>account<br>still<br>dice<br>fiscal<br>obey<br>sudden<br>issue<br>web |  
+| bip_39_word_new_br12 | move<br>pulse<br>divide<br>account<br>still<br>dice<br>fiscal<br>obey<br>sudden<br>issue<br>web<br>also |  
+| bip_39_word_new_br2 | move<br>pulse |  
+| bip_39_word_new_br3 | move<br>pulse<br>divide |  
+| bip_39_word_new_br4 | move<br>pulse<br>divide<br>account |  
+| bip_39_word_new_br5 | move<br>pulse<br>divide<br>account<br>still |  
+| bip_39_word_new_br6 | move<br>pulse<br>divide<br>account<br>still<br>dice |  
+| bip_39_word_new_br7 | move<br>pulse<br>divide<br>account<br>still<br>dice<br>fiscal |  
+| bip_39_word_new_br8 | move<br>pulse<br>divide<br>account<br>still<br>dice<br>fiscal<br>obey |  
+| bip_39_word_new_br9 | move<br>pulse<br>divide<br>account<br>still<br>dice<br>fiscal<br>obey<br>sudden |  
+| bip_39_word_new_line1 | move |  
+| bip_39_word_new_line10 | move
+pulse
+divide
+account
+still
+dice
+fiscal
+obey
+sudden
+issue |  
+| bip_39_word_new_line11 | move
+pulse
+divide
+account
+still
+dice
+fiscal
+obey
+sudden
+issue
+web |  
+| bip_39_word_new_line12 | move
+pulse
+divide
+account
+still
+dice
+fiscal
+obey
+sudden
+issue
+web
+also |  
+| bip_39_word_new_line2 | move
+pulse |  
+| bip_39_word_new_line3 | move
+pulse
+divide |  
+| bip_39_word_new_line4 | move
+pulse
+divide
+account |  
+| bip_39_word_new_line5 | move
+pulse
+divide
+account
+still |  
+| bip_39_word_new_line6 | move
+pulse
+divide
+account
+still
+dice |  
+| bip_39_word_new_line7 | move
+pulse
+divide
+account
+still
+dice
+fiscal |  
+| bip_39_word_new_line8 | move
+pulse
+divide
+account
+still
+dice
+fiscal
+obey |  
+| bip_39_word_new_line9 | move
+pulse
+divide
+account
+still
+dice
+fiscal
+obey
+sudden |  
+| bip_39_word_space_0 | ['move', 'pulse', 'divide', 'account', 'still', 'dice', 'fiscal', 'obey', 'sudden', 'issue', 'web', 'also'] |  
+| bip_39_word_space_1 | move |  
+| bip_39_word_space_10 | move pulse divide account still dice fiscal obey sudden issue |  
+| bip_39_word_space_11 | move pulse divide account still dice fiscal obey sudden issue web |  
+| bip_39_word_space_12 | move pulse divide account still dice fiscal obey sudden issue web also |  
+| bip_39_word_space_2 | move pulse |  
+| bip_39_word_space_3 | move pulse divide |  
+| bip_39_word_space_4 | move pulse divide account |  
+| bip_39_word_space_5 | move pulse divide account still |  
+| bip_39_word_space_6 | move pulse divide account still dice |  
+| bip_39_word_space_7 | move pulse divide account still dice fiscal |  
+| bip_39_word_space_8 | move pulse divide account still dice fiscal obey |  
+| bip_39_word_space_9 | move pulse divide account still dice fiscal obey sudden |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

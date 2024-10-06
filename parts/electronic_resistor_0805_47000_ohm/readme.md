@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: option error
+  * bip 39 word 3: option error sleep
+  * bip 39 word: option error sleep normal icon today rabbit ride error about together amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | option |  
+| bip_39_word_new_br10 | option<br>error<br>sleep<br>normal<br>icon<br>today<br>rabbit<br>ride<br>error<br>about |  
+| bip_39_word_new_br11 | option<br>error<br>sleep<br>normal<br>icon<br>today<br>rabbit<br>ride<br>error<br>about<br>together |  
+| bip_39_word_new_br12 | option<br>error<br>sleep<br>normal<br>icon<br>today<br>rabbit<br>ride<br>error<br>about<br>together<br>amount |  
+| bip_39_word_new_br2 | option<br>error |  
+| bip_39_word_new_br3 | option<br>error<br>sleep |  
+| bip_39_word_new_br4 | option<br>error<br>sleep<br>normal |  
+| bip_39_word_new_br5 | option<br>error<br>sleep<br>normal<br>icon |  
+| bip_39_word_new_br6 | option<br>error<br>sleep<br>normal<br>icon<br>today |  
+| bip_39_word_new_br7 | option<br>error<br>sleep<br>normal<br>icon<br>today<br>rabbit |  
+| bip_39_word_new_br8 | option<br>error<br>sleep<br>normal<br>icon<br>today<br>rabbit<br>ride |  
+| bip_39_word_new_br9 | option<br>error<br>sleep<br>normal<br>icon<br>today<br>rabbit<br>ride<br>error |  
+| bip_39_word_new_line1 | option |  
+| bip_39_word_new_line10 | option
+error
+sleep
+normal
+icon
+today
+rabbit
+ride
+error
+about |  
+| bip_39_word_new_line11 | option
+error
+sleep
+normal
+icon
+today
+rabbit
+ride
+error
+about
+together |  
+| bip_39_word_new_line12 | option
+error
+sleep
+normal
+icon
+today
+rabbit
+ride
+error
+about
+together
+amount |  
+| bip_39_word_new_line2 | option
+error |  
+| bip_39_word_new_line3 | option
+error
+sleep |  
+| bip_39_word_new_line4 | option
+error
+sleep
+normal |  
+| bip_39_word_new_line5 | option
+error
+sleep
+normal
+icon |  
+| bip_39_word_new_line6 | option
+error
+sleep
+normal
+icon
+today |  
+| bip_39_word_new_line7 | option
+error
+sleep
+normal
+icon
+today
+rabbit |  
+| bip_39_word_new_line8 | option
+error
+sleep
+normal
+icon
+today
+rabbit
+ride |  
+| bip_39_word_new_line9 | option
+error
+sleep
+normal
+icon
+today
+rabbit
+ride
+error |  
+| bip_39_word_space_0 | ['option', 'error', 'sleep', 'normal', 'icon', 'today', 'rabbit', 'ride', 'error', 'about', 'together', 'amount'] |  
+| bip_39_word_space_1 | option |  
+| bip_39_word_space_10 | option error sleep normal icon today rabbit ride error about |  
+| bip_39_word_space_11 | option error sleep normal icon today rabbit ride error about together |  
+| bip_39_word_space_12 | option error sleep normal icon today rabbit ride error about together amount |  
+| bip_39_word_space_2 | option error |  
+| bip_39_word_space_3 | option error sleep |  
+| bip_39_word_space_4 | option error sleep normal |  
+| bip_39_word_space_5 | option error sleep normal icon |  
+| bip_39_word_space_6 | option error sleep normal icon today |  
+| bip_39_word_space_7 | option error sleep normal icon today rabbit |  
+| bip_39_word_space_8 | option error sleep normal icon today rabbit ride |  
+| bip_39_word_space_9 | option error sleep normal icon today rabbit ride error |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

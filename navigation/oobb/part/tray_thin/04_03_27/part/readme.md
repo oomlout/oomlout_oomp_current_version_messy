@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spider devote
+  * bip 39 word 3: spider devote purpose
+  * bip 39 word: spider devote purpose tortoise worth wet believe polar trial asthma merit access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spider |  
+| bip_39_word_new_br10 | spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet<br>believe<br>polar<br>trial<br>asthma |  
+| bip_39_word_new_br11 | spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet<br>believe<br>polar<br>trial<br>asthma<br>merit |  
+| bip_39_word_new_br12 | spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet<br>believe<br>polar<br>trial<br>asthma<br>merit<br>access |  
+| bip_39_word_new_br2 | spider<br>devote |  
+| bip_39_word_new_br3 | spider<br>devote<br>purpose |  
+| bip_39_word_new_br4 | spider<br>devote<br>purpose<br>tortoise |  
+| bip_39_word_new_br5 | spider<br>devote<br>purpose<br>tortoise<br>worth |  
+| bip_39_word_new_br6 | spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet |  
+| bip_39_word_new_br7 | spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet<br>believe |  
+| bip_39_word_new_br8 | spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet<br>believe<br>polar |  
+| bip_39_word_new_br9 | spider<br>devote<br>purpose<br>tortoise<br>worth<br>wet<br>believe<br>polar<br>trial |  
+| bip_39_word_new_line1 | spider |  
+| bip_39_word_new_line10 | spider
+devote
+purpose
+tortoise
+worth
+wet
+believe
+polar
+trial
+asthma |  
+| bip_39_word_new_line11 | spider
+devote
+purpose
+tortoise
+worth
+wet
+believe
+polar
+trial
+asthma
+merit |  
+| bip_39_word_new_line12 | spider
+devote
+purpose
+tortoise
+worth
+wet
+believe
+polar
+trial
+asthma
+merit
+access |  
+| bip_39_word_new_line2 | spider
+devote |  
+| bip_39_word_new_line3 | spider
+devote
+purpose |  
+| bip_39_word_new_line4 | spider
+devote
+purpose
+tortoise |  
+| bip_39_word_new_line5 | spider
+devote
+purpose
+tortoise
+worth |  
+| bip_39_word_new_line6 | spider
+devote
+purpose
+tortoise
+worth
+wet |  
+| bip_39_word_new_line7 | spider
+devote
+purpose
+tortoise
+worth
+wet
+believe |  
+| bip_39_word_new_line8 | spider
+devote
+purpose
+tortoise
+worth
+wet
+believe
+polar |  
+| bip_39_word_new_line9 | spider
+devote
+purpose
+tortoise
+worth
+wet
+believe
+polar
+trial |  
+| bip_39_word_space_0 | ['spider', 'devote', 'purpose', 'tortoise', 'worth', 'wet', 'believe', 'polar', 'trial', 'asthma', 'merit', 'access'] |  
+| bip_39_word_space_1 | spider |  
+| bip_39_word_space_10 | spider devote purpose tortoise worth wet believe polar trial asthma |  
+| bip_39_word_space_11 | spider devote purpose tortoise worth wet believe polar trial asthma merit |  
+| bip_39_word_space_12 | spider devote purpose tortoise worth wet believe polar trial asthma merit access |  
+| bip_39_word_space_2 | spider devote |  
+| bip_39_word_space_3 | spider devote purpose |  
+| bip_39_word_space_4 | spider devote purpose tortoise |  
+| bip_39_word_space_5 | spider devote purpose tortoise worth |  
+| bip_39_word_space_6 | spider devote purpose tortoise worth wet |  
+| bip_39_word_space_7 | spider devote purpose tortoise worth wet believe |  
+| bip_39_word_space_8 | spider devote purpose tortoise worth wet believe polar |  
+| bip_39_word_space_9 | spider devote purpose tortoise worth wet believe polar trial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

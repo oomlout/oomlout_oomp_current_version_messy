@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rhythm napkin
+  * bip 39 word 3: rhythm napkin render
+  * bip 39 word: rhythm napkin render upset trend crowd vendor huge disorder wink manage anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rhythm |  
+| bip_39_word_new_br10 | rhythm<br>napkin<br>render<br>upset<br>trend<br>crowd<br>vendor<br>huge<br>disorder<br>wink |  
+| bip_39_word_new_br11 | rhythm<br>napkin<br>render<br>upset<br>trend<br>crowd<br>vendor<br>huge<br>disorder<br>wink<br>manage |  
+| bip_39_word_new_br12 | rhythm<br>napkin<br>render<br>upset<br>trend<br>crowd<br>vendor<br>huge<br>disorder<br>wink<br>manage<br>anxiety |  
+| bip_39_word_new_br2 | rhythm<br>napkin |  
+| bip_39_word_new_br3 | rhythm<br>napkin<br>render |  
+| bip_39_word_new_br4 | rhythm<br>napkin<br>render<br>upset |  
+| bip_39_word_new_br5 | rhythm<br>napkin<br>render<br>upset<br>trend |  
+| bip_39_word_new_br6 | rhythm<br>napkin<br>render<br>upset<br>trend<br>crowd |  
+| bip_39_word_new_br7 | rhythm<br>napkin<br>render<br>upset<br>trend<br>crowd<br>vendor |  
+| bip_39_word_new_br8 | rhythm<br>napkin<br>render<br>upset<br>trend<br>crowd<br>vendor<br>huge |  
+| bip_39_word_new_br9 | rhythm<br>napkin<br>render<br>upset<br>trend<br>crowd<br>vendor<br>huge<br>disorder |  
+| bip_39_word_new_line1 | rhythm |  
+| bip_39_word_new_line10 | rhythm
+napkin
+render
+upset
+trend
+crowd
+vendor
+huge
+disorder
+wink |  
+| bip_39_word_new_line11 | rhythm
+napkin
+render
+upset
+trend
+crowd
+vendor
+huge
+disorder
+wink
+manage |  
+| bip_39_word_new_line12 | rhythm
+napkin
+render
+upset
+trend
+crowd
+vendor
+huge
+disorder
+wink
+manage
+anxiety |  
+| bip_39_word_new_line2 | rhythm
+napkin |  
+| bip_39_word_new_line3 | rhythm
+napkin
+render |  
+| bip_39_word_new_line4 | rhythm
+napkin
+render
+upset |  
+| bip_39_word_new_line5 | rhythm
+napkin
+render
+upset
+trend |  
+| bip_39_word_new_line6 | rhythm
+napkin
+render
+upset
+trend
+crowd |  
+| bip_39_word_new_line7 | rhythm
+napkin
+render
+upset
+trend
+crowd
+vendor |  
+| bip_39_word_new_line8 | rhythm
+napkin
+render
+upset
+trend
+crowd
+vendor
+huge |  
+| bip_39_word_new_line9 | rhythm
+napkin
+render
+upset
+trend
+crowd
+vendor
+huge
+disorder |  
+| bip_39_word_space_0 | ['rhythm', 'napkin', 'render', 'upset', 'trend', 'crowd', 'vendor', 'huge', 'disorder', 'wink', 'manage', 'anxiety'] |  
+| bip_39_word_space_1 | rhythm |  
+| bip_39_word_space_10 | rhythm napkin render upset trend crowd vendor huge disorder wink |  
+| bip_39_word_space_11 | rhythm napkin render upset trend crowd vendor huge disorder wink manage |  
+| bip_39_word_space_12 | rhythm napkin render upset trend crowd vendor huge disorder wink manage anxiety |  
+| bip_39_word_space_2 | rhythm napkin |  
+| bip_39_word_space_3 | rhythm napkin render |  
+| bip_39_word_space_4 | rhythm napkin render upset |  
+| bip_39_word_space_5 | rhythm napkin render upset trend |  
+| bip_39_word_space_6 | rhythm napkin render upset trend crowd |  
+| bip_39_word_space_7 | rhythm napkin render upset trend crowd vendor |  
+| bip_39_word_space_8 | rhythm napkin render upset trend crowd vendor huge |  
+| bip_39_word_space_9 | rhythm napkin render upset trend crowd vendor huge disorder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

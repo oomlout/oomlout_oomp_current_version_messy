@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: impose frog
+  * bip 39 word 3: impose frog ice
+  * bip 39 word: impose frog ice deny lazy into airport mean party bless neglect absurd
 
 ### other_codes
 * short_code: br16018
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | impose |  
+| bip_39_word_new_br10 | impose<br>frog<br>ice<br>deny<br>lazy<br>into<br>airport<br>mean<br>party<br>bless |  
+| bip_39_word_new_br11 | impose<br>frog<br>ice<br>deny<br>lazy<br>into<br>airport<br>mean<br>party<br>bless<br>neglect |  
+| bip_39_word_new_br12 | impose<br>frog<br>ice<br>deny<br>lazy<br>into<br>airport<br>mean<br>party<br>bless<br>neglect<br>absurd |  
+| bip_39_word_new_br2 | impose<br>frog |  
+| bip_39_word_new_br3 | impose<br>frog<br>ice |  
+| bip_39_word_new_br4 | impose<br>frog<br>ice<br>deny |  
+| bip_39_word_new_br5 | impose<br>frog<br>ice<br>deny<br>lazy |  
+| bip_39_word_new_br6 | impose<br>frog<br>ice<br>deny<br>lazy<br>into |  
+| bip_39_word_new_br7 | impose<br>frog<br>ice<br>deny<br>lazy<br>into<br>airport |  
+| bip_39_word_new_br8 | impose<br>frog<br>ice<br>deny<br>lazy<br>into<br>airport<br>mean |  
+| bip_39_word_new_br9 | impose<br>frog<br>ice<br>deny<br>lazy<br>into<br>airport<br>mean<br>party |  
+| bip_39_word_new_line1 | impose |  
+| bip_39_word_new_line10 | impose
+frog
+ice
+deny
+lazy
+into
+airport
+mean
+party
+bless |  
+| bip_39_word_new_line11 | impose
+frog
+ice
+deny
+lazy
+into
+airport
+mean
+party
+bless
+neglect |  
+| bip_39_word_new_line12 | impose
+frog
+ice
+deny
+lazy
+into
+airport
+mean
+party
+bless
+neglect
+absurd |  
+| bip_39_word_new_line2 | impose
+frog |  
+| bip_39_word_new_line3 | impose
+frog
+ice |  
+| bip_39_word_new_line4 | impose
+frog
+ice
+deny |  
+| bip_39_word_new_line5 | impose
+frog
+ice
+deny
+lazy |  
+| bip_39_word_new_line6 | impose
+frog
+ice
+deny
+lazy
+into |  
+| bip_39_word_new_line7 | impose
+frog
+ice
+deny
+lazy
+into
+airport |  
+| bip_39_word_new_line8 | impose
+frog
+ice
+deny
+lazy
+into
+airport
+mean |  
+| bip_39_word_new_line9 | impose
+frog
+ice
+deny
+lazy
+into
+airport
+mean
+party |  
+| bip_39_word_space_0 | ['impose', 'frog', 'ice', 'deny', 'lazy', 'into', 'airport', 'mean', 'party', 'bless', 'neglect', 'absurd'] |  
+| bip_39_word_space_1 | impose |  
+| bip_39_word_space_10 | impose frog ice deny lazy into airport mean party bless |  
+| bip_39_word_space_11 | impose frog ice deny lazy into airport mean party bless neglect |  
+| bip_39_word_space_12 | impose frog ice deny lazy into airport mean party bless neglect absurd |  
+| bip_39_word_space_2 | impose frog |  
+| bip_39_word_space_3 | impose frog ice |  
+| bip_39_word_space_4 | impose frog ice deny |  
+| bip_39_word_space_5 | impose frog ice deny lazy |  
+| bip_39_word_space_6 | impose frog ice deny lazy into |  
+| bip_39_word_space_7 | impose frog ice deny lazy into airport |  
+| bip_39_word_space_8 | impose frog ice deny lazy into airport mean |  
+| bip_39_word_space_9 | impose frog ice deny lazy into airport mean party |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

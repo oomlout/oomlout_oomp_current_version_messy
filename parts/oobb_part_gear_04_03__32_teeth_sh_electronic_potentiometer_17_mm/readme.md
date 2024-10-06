@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 32_teeth_sh_electronic_potentiometer_17_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: region awake
+  * bip 39 word 3: region awake fortune
+  * bip 39 word: region awake fortune script resource half trouble melody warm gather romance asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | region |  
+| bip_39_word_new_br10 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather |  
+| bip_39_word_new_br11 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather<br>romance |  
+| bip_39_word_new_br12 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm<br>gather<br>romance<br>asthma |  
+| bip_39_word_new_br2 | region<br>awake |  
+| bip_39_word_new_br3 | region<br>awake<br>fortune |  
+| bip_39_word_new_br4 | region<br>awake<br>fortune<br>script |  
+| bip_39_word_new_br5 | region<br>awake<br>fortune<br>script<br>resource |  
+| bip_39_word_new_br6 | region<br>awake<br>fortune<br>script<br>resource<br>half |  
+| bip_39_word_new_br7 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble |  
+| bip_39_word_new_br8 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody |  
+| bip_39_word_new_br9 | region<br>awake<br>fortune<br>script<br>resource<br>half<br>trouble<br>melody<br>warm |  
+| bip_39_word_new_line1 | region |  
+| bip_39_word_new_line10 | region
+awake
+fortune
+script
+resource
+half
+trouble
+melody
+warm
+gather |  
+| bip_39_word_new_line11 | region
+awake
+fortune
+script
+resource
+half
+trouble
+melody
+warm
+gather
+romance |  
+| bip_39_word_new_line12 | region
+awake
+fortune
+script
+resource
+half
+trouble
+melody
+warm
+gather
+romance
+asthma |  
+| bip_39_word_new_line2 | region
+awake |  
+| bip_39_word_new_line3 | region
+awake
+fortune |  
+| bip_39_word_new_line4 | region
+awake
+fortune
+script |  
+| bip_39_word_new_line5 | region
+awake
+fortune
+script
+resource |  
+| bip_39_word_new_line6 | region
+awake
+fortune
+script
+resource
+half |  
+| bip_39_word_new_line7 | region
+awake
+fortune
+script
+resource
+half
+trouble |  
+| bip_39_word_new_line8 | region
+awake
+fortune
+script
+resource
+half
+trouble
+melody |  
+| bip_39_word_new_line9 | region
+awake
+fortune
+script
+resource
+half
+trouble
+melody
+warm |  
+| bip_39_word_space_0 | ['region', 'awake', 'fortune', 'script', 'resource', 'half', 'trouble', 'melody', 'warm', 'gather', 'romance', 'asthma'] |  
+| bip_39_word_space_1 | region |  
+| bip_39_word_space_10 | region awake fortune script resource half trouble melody warm gather |  
+| bip_39_word_space_11 | region awake fortune script resource half trouble melody warm gather romance |  
+| bip_39_word_space_12 | region awake fortune script resource half trouble melody warm gather romance asthma |  
+| bip_39_word_space_2 | region awake |  
+| bip_39_word_space_3 | region awake fortune |  
+| bip_39_word_space_4 | region awake fortune script |  
+| bip_39_word_space_5 | region awake fortune script resource |  
+| bip_39_word_space_6 | region awake fortune script resource half |  
+| bip_39_word_space_7 | region awake fortune script resource half trouble |  
+| bip_39_word_space_8 | region awake fortune script resource half trouble melody |  
+| bip_39_word_space_9 | region awake fortune script resource half trouble melody warm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

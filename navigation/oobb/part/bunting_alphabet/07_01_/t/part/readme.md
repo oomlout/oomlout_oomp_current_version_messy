@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: t
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: horn icon
+  * bip 39 word 3: horn icon arrange
+  * bip 39 word: horn icon arrange usage sibling clinic collect trap slush coil lumber attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | horn |  
+| bip_39_word_new_br10 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic<br>collect<br>trap<br>slush<br>coil |  
+| bip_39_word_new_br11 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic<br>collect<br>trap<br>slush<br>coil<br>lumber |  
+| bip_39_word_new_br12 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic<br>collect<br>trap<br>slush<br>coil<br>lumber<br>attract |  
+| bip_39_word_new_br2 | horn<br>icon |  
+| bip_39_word_new_br3 | horn<br>icon<br>arrange |  
+| bip_39_word_new_br4 | horn<br>icon<br>arrange<br>usage |  
+| bip_39_word_new_br5 | horn<br>icon<br>arrange<br>usage<br>sibling |  
+| bip_39_word_new_br6 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic |  
+| bip_39_word_new_br7 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic<br>collect |  
+| bip_39_word_new_br8 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic<br>collect<br>trap |  
+| bip_39_word_new_br9 | horn<br>icon<br>arrange<br>usage<br>sibling<br>clinic<br>collect<br>trap<br>slush |  
+| bip_39_word_new_line1 | horn |  
+| bip_39_word_new_line10 | horn
+icon
+arrange
+usage
+sibling
+clinic
+collect
+trap
+slush
+coil |  
+| bip_39_word_new_line11 | horn
+icon
+arrange
+usage
+sibling
+clinic
+collect
+trap
+slush
+coil
+lumber |  
+| bip_39_word_new_line12 | horn
+icon
+arrange
+usage
+sibling
+clinic
+collect
+trap
+slush
+coil
+lumber
+attract |  
+| bip_39_word_new_line2 | horn
+icon |  
+| bip_39_word_new_line3 | horn
+icon
+arrange |  
+| bip_39_word_new_line4 | horn
+icon
+arrange
+usage |  
+| bip_39_word_new_line5 | horn
+icon
+arrange
+usage
+sibling |  
+| bip_39_word_new_line6 | horn
+icon
+arrange
+usage
+sibling
+clinic |  
+| bip_39_word_new_line7 | horn
+icon
+arrange
+usage
+sibling
+clinic
+collect |  
+| bip_39_word_new_line8 | horn
+icon
+arrange
+usage
+sibling
+clinic
+collect
+trap |  
+| bip_39_word_new_line9 | horn
+icon
+arrange
+usage
+sibling
+clinic
+collect
+trap
+slush |  
+| bip_39_word_space_0 | ['horn', 'icon', 'arrange', 'usage', 'sibling', 'clinic', 'collect', 'trap', 'slush', 'coil', 'lumber', 'attract'] |  
+| bip_39_word_space_1 | horn |  
+| bip_39_word_space_10 | horn icon arrange usage sibling clinic collect trap slush coil |  
+| bip_39_word_space_11 | horn icon arrange usage sibling clinic collect trap slush coil lumber |  
+| bip_39_word_space_12 | horn icon arrange usage sibling clinic collect trap slush coil lumber attract |  
+| bip_39_word_space_2 | horn icon |  
+| bip_39_word_space_3 | horn icon arrange |  
+| bip_39_word_space_4 | horn icon arrange usage |  
+| bip_39_word_space_5 | horn icon arrange usage sibling |  
+| bip_39_word_space_6 | horn icon arrange usage sibling clinic |  
+| bip_39_word_space_7 | horn icon arrange usage sibling clinic collect |  
+| bip_39_word_space_8 | horn icon arrange usage sibling clinic collect trap |  
+| bip_39_word_space_9 | horn icon arrange usage sibling clinic collect trap slush |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

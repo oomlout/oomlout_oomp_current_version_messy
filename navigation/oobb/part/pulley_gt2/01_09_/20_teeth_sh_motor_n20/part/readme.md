@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 20_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grunt cave
+  * bip 39 word 3: grunt cave write
+  * bip 39 word: grunt cave write stuff hawk cost soup hair fashion shrug survey any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grunt |  
+| bip_39_word_new_br10 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug |  
+| bip_39_word_new_br11 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug<br>survey |  
+| bip_39_word_new_br12 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion<br>shrug<br>survey<br>any |  
+| bip_39_word_new_br2 | grunt<br>cave |  
+| bip_39_word_new_br3 | grunt<br>cave<br>write |  
+| bip_39_word_new_br4 | grunt<br>cave<br>write<br>stuff |  
+| bip_39_word_new_br5 | grunt<br>cave<br>write<br>stuff<br>hawk |  
+| bip_39_word_new_br6 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost |  
+| bip_39_word_new_br7 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup |  
+| bip_39_word_new_br8 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair |  
+| bip_39_word_new_br9 | grunt<br>cave<br>write<br>stuff<br>hawk<br>cost<br>soup<br>hair<br>fashion |  
+| bip_39_word_new_line1 | grunt |  
+| bip_39_word_new_line10 | grunt
+cave
+write
+stuff
+hawk
+cost
+soup
+hair
+fashion
+shrug |  
+| bip_39_word_new_line11 | grunt
+cave
+write
+stuff
+hawk
+cost
+soup
+hair
+fashion
+shrug
+survey |  
+| bip_39_word_new_line12 | grunt
+cave
+write
+stuff
+hawk
+cost
+soup
+hair
+fashion
+shrug
+survey
+any |  
+| bip_39_word_new_line2 | grunt
+cave |  
+| bip_39_word_new_line3 | grunt
+cave
+write |  
+| bip_39_word_new_line4 | grunt
+cave
+write
+stuff |  
+| bip_39_word_new_line5 | grunt
+cave
+write
+stuff
+hawk |  
+| bip_39_word_new_line6 | grunt
+cave
+write
+stuff
+hawk
+cost |  
+| bip_39_word_new_line7 | grunt
+cave
+write
+stuff
+hawk
+cost
+soup |  
+| bip_39_word_new_line8 | grunt
+cave
+write
+stuff
+hawk
+cost
+soup
+hair |  
+| bip_39_word_new_line9 | grunt
+cave
+write
+stuff
+hawk
+cost
+soup
+hair
+fashion |  
+| bip_39_word_space_0 | ['grunt', 'cave', 'write', 'stuff', 'hawk', 'cost', 'soup', 'hair', 'fashion', 'shrug', 'survey', 'any'] |  
+| bip_39_word_space_1 | grunt |  
+| bip_39_word_space_10 | grunt cave write stuff hawk cost soup hair fashion shrug |  
+| bip_39_word_space_11 | grunt cave write stuff hawk cost soup hair fashion shrug survey |  
+| bip_39_word_space_12 | grunt cave write stuff hawk cost soup hair fashion shrug survey any |  
+| bip_39_word_space_2 | grunt cave |  
+| bip_39_word_space_3 | grunt cave write |  
+| bip_39_word_space_4 | grunt cave write stuff |  
+| bip_39_word_space_5 | grunt cave write stuff hawk |  
+| bip_39_word_space_6 | grunt cave write stuff hawk cost |  
+| bip_39_word_space_7 | grunt cave write stuff hawk cost soup |  
+| bip_39_word_space_8 | grunt cave write stuff hawk cost soup hair |  
+| bip_39_word_space_9 | grunt cave write stuff hawk cost soup hair fashion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

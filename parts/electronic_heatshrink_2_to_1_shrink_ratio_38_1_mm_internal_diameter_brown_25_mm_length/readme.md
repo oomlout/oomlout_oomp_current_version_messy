@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: funny carry
+  * bip 39 word 3: funny carry donor
+  * bip 39 word: funny carry donor gas more minimum solar domain civil crazy easy apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | funny |  
+| bip_39_word_new_br10 | funny<br>carry<br>donor<br>gas<br>more<br>minimum<br>solar<br>domain<br>civil<br>crazy |  
+| bip_39_word_new_br11 | funny<br>carry<br>donor<br>gas<br>more<br>minimum<br>solar<br>domain<br>civil<br>crazy<br>easy |  
+| bip_39_word_new_br12 | funny<br>carry<br>donor<br>gas<br>more<br>minimum<br>solar<br>domain<br>civil<br>crazy<br>easy<br>apology |  
+| bip_39_word_new_br2 | funny<br>carry |  
+| bip_39_word_new_br3 | funny<br>carry<br>donor |  
+| bip_39_word_new_br4 | funny<br>carry<br>donor<br>gas |  
+| bip_39_word_new_br5 | funny<br>carry<br>donor<br>gas<br>more |  
+| bip_39_word_new_br6 | funny<br>carry<br>donor<br>gas<br>more<br>minimum |  
+| bip_39_word_new_br7 | funny<br>carry<br>donor<br>gas<br>more<br>minimum<br>solar |  
+| bip_39_word_new_br8 | funny<br>carry<br>donor<br>gas<br>more<br>minimum<br>solar<br>domain |  
+| bip_39_word_new_br9 | funny<br>carry<br>donor<br>gas<br>more<br>minimum<br>solar<br>domain<br>civil |  
+| bip_39_word_new_line1 | funny |  
+| bip_39_word_new_line10 | funny
+carry
+donor
+gas
+more
+minimum
+solar
+domain
+civil
+crazy |  
+| bip_39_word_new_line11 | funny
+carry
+donor
+gas
+more
+minimum
+solar
+domain
+civil
+crazy
+easy |  
+| bip_39_word_new_line12 | funny
+carry
+donor
+gas
+more
+minimum
+solar
+domain
+civil
+crazy
+easy
+apology |  
+| bip_39_word_new_line2 | funny
+carry |  
+| bip_39_word_new_line3 | funny
+carry
+donor |  
+| bip_39_word_new_line4 | funny
+carry
+donor
+gas |  
+| bip_39_word_new_line5 | funny
+carry
+donor
+gas
+more |  
+| bip_39_word_new_line6 | funny
+carry
+donor
+gas
+more
+minimum |  
+| bip_39_word_new_line7 | funny
+carry
+donor
+gas
+more
+minimum
+solar |  
+| bip_39_word_new_line8 | funny
+carry
+donor
+gas
+more
+minimum
+solar
+domain |  
+| bip_39_word_new_line9 | funny
+carry
+donor
+gas
+more
+minimum
+solar
+domain
+civil |  
+| bip_39_word_space_0 | ['funny', 'carry', 'donor', 'gas', 'more', 'minimum', 'solar', 'domain', 'civil', 'crazy', 'easy', 'apology'] |  
+| bip_39_word_space_1 | funny |  
+| bip_39_word_space_10 | funny carry donor gas more minimum solar domain civil crazy |  
+| bip_39_word_space_11 | funny carry donor gas more minimum solar domain civil crazy easy |  
+| bip_39_word_space_12 | funny carry donor gas more minimum solar domain civil crazy easy apology |  
+| bip_39_word_space_2 | funny carry |  
+| bip_39_word_space_3 | funny carry donor |  
+| bip_39_word_space_4 | funny carry donor gas |  
+| bip_39_word_space_5 | funny carry donor gas more |  
+| bip_39_word_space_6 | funny carry donor gas more minimum |  
+| bip_39_word_space_7 | funny carry donor gas more minimum solar |  
+| bip_39_word_space_8 | funny carry donor gas more minimum solar domain |  
+| bip_39_word_space_9 | funny carry donor gas more minimum solar domain civil |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

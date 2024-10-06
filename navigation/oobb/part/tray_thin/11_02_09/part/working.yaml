@@ -1,3 +1,186 @@
+bip_39_word_new_br1: salon
+bip_39_word_new_br10: salon<br>chimney<br>foil<br>color<br>chief<br>pony<br>satoshi<br>there<br>off<br>poverty
+bip_39_word_new_br11: salon<br>chimney<br>foil<br>color<br>chief<br>pony<br>satoshi<br>there<br>off<br>poverty<br>misery
+bip_39_word_new_br12: salon<br>chimney<br>foil<br>color<br>chief<br>pony<br>satoshi<br>there<br>off<br>poverty<br>misery<br>allow
+bip_39_word_new_br2: salon<br>chimney
+bip_39_word_new_br3: salon<br>chimney<br>foil
+bip_39_word_new_br4: salon<br>chimney<br>foil<br>color
+bip_39_word_new_br5: salon<br>chimney<br>foil<br>color<br>chief
+bip_39_word_new_br6: salon<br>chimney<br>foil<br>color<br>chief<br>pony
+bip_39_word_new_br7: salon<br>chimney<br>foil<br>color<br>chief<br>pony<br>satoshi
+bip_39_word_new_br8: salon<br>chimney<br>foil<br>color<br>chief<br>pony<br>satoshi<br>there
+bip_39_word_new_br9: salon<br>chimney<br>foil<br>color<br>chief<br>pony<br>satoshi<br>there<br>off
+bip_39_word_new_line1: salon
+bip_39_word_new_line10: 'salon
+
+  chimney
+
+  foil
+
+  color
+
+  chief
+
+  pony
+
+  satoshi
+
+  there
+
+  off
+
+  poverty'
+bip_39_word_new_line11: 'salon
+
+  chimney
+
+  foil
+
+  color
+
+  chief
+
+  pony
+
+  satoshi
+
+  there
+
+  off
+
+  poverty
+
+  misery'
+bip_39_word_new_line12: 'salon
+
+  chimney
+
+  foil
+
+  color
+
+  chief
+
+  pony
+
+  satoshi
+
+  there
+
+  off
+
+  poverty
+
+  misery
+
+  allow'
+bip_39_word_new_line2: 'salon
+
+  chimney'
+bip_39_word_new_line3: 'salon
+
+  chimney
+
+  foil'
+bip_39_word_new_line4: 'salon
+
+  chimney
+
+  foil
+
+  color'
+bip_39_word_new_line5: 'salon
+
+  chimney
+
+  foil
+
+  color
+
+  chief'
+bip_39_word_new_line6: 'salon
+
+  chimney
+
+  foil
+
+  color
+
+  chief
+
+  pony'
+bip_39_word_new_line7: 'salon
+
+  chimney
+
+  foil
+
+  color
+
+  chief
+
+  pony
+
+  satoshi'
+bip_39_word_new_line8: 'salon
+
+  chimney
+
+  foil
+
+  color
+
+  chief
+
+  pony
+
+  satoshi
+
+  there'
+bip_39_word_new_line9: 'salon
+
+  chimney
+
+  foil
+
+  color
+
+  chief
+
+  pony
+
+  satoshi
+
+  there
+
+  off'
+bip_39_word_space_0:
+- salon
+- chimney
+- foil
+- color
+- chief
+- pony
+- satoshi
+- there
+- 'off'
+- poverty
+- misery
+- allow
+bip_39_word_space_1: salon
+bip_39_word_space_10: salon chimney foil color chief pony satoshi there off poverty
+bip_39_word_space_11: salon chimney foil color chief pony satoshi there off poverty
+  misery
+bip_39_word_space_12: salon chimney foil color chief pony satoshi there off poverty
+  misery allow
+bip_39_word_space_2: salon chimney
+bip_39_word_space_3: salon chimney foil
+bip_39_word_space_4: salon chimney foil color
+bip_39_word_space_5: salon chimney foil color chief
+bip_39_word_space_6: salon chimney foil color chief pony
+bip_39_word_space_7: salon chimney foil color chief pony satoshi
+bip_39_word_space_8: salon chimney foil color chief pony satoshi there
+bip_39_word_space_9: salon chimney foil color chief pony satoshi there off
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

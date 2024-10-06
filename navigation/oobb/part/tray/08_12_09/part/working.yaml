@@ -1,3 +1,187 @@
+bip_39_word_new_br1: border
+bip_39_word_new_br10: border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic
+bip_39_word_new_br11: border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic<br>mix
+bip_39_word_new_br12: border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet<br>topic<br>mix<br>anchor
+bip_39_word_new_br2: border<br>double
+bip_39_word_new_br3: border<br>double<br>soon
+bip_39_word_new_br4: border<br>double<br>soon<br>magnet
+bip_39_word_new_br5: border<br>double<br>soon<br>magnet<br>marble
+bip_39_word_new_br6: border<br>double<br>soon<br>magnet<br>marble<br>lumber
+bip_39_word_new_br7: border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault
+bip_39_word_new_br8: border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle
+bip_39_word_new_br9: border<br>double<br>soon<br>magnet<br>marble<br>lumber<br>assault<br>saddle<br>bullet
+bip_39_word_new_line1: border
+bip_39_word_new_line10: 'border
+
+  double
+
+  soon
+
+  magnet
+
+  marble
+
+  lumber
+
+  assault
+
+  saddle
+
+  bullet
+
+  topic'
+bip_39_word_new_line11: 'border
+
+  double
+
+  soon
+
+  magnet
+
+  marble
+
+  lumber
+
+  assault
+
+  saddle
+
+  bullet
+
+  topic
+
+  mix'
+bip_39_word_new_line12: 'border
+
+  double
+
+  soon
+
+  magnet
+
+  marble
+
+  lumber
+
+  assault
+
+  saddle
+
+  bullet
+
+  topic
+
+  mix
+
+  anchor'
+bip_39_word_new_line2: 'border
+
+  double'
+bip_39_word_new_line3: 'border
+
+  double
+
+  soon'
+bip_39_word_new_line4: 'border
+
+  double
+
+  soon
+
+  magnet'
+bip_39_word_new_line5: 'border
+
+  double
+
+  soon
+
+  magnet
+
+  marble'
+bip_39_word_new_line6: 'border
+
+  double
+
+  soon
+
+  magnet
+
+  marble
+
+  lumber'
+bip_39_word_new_line7: 'border
+
+  double
+
+  soon
+
+  magnet
+
+  marble
+
+  lumber
+
+  assault'
+bip_39_word_new_line8: 'border
+
+  double
+
+  soon
+
+  magnet
+
+  marble
+
+  lumber
+
+  assault
+
+  saddle'
+bip_39_word_new_line9: 'border
+
+  double
+
+  soon
+
+  magnet
+
+  marble
+
+  lumber
+
+  assault
+
+  saddle
+
+  bullet'
+bip_39_word_space_0:
+- border
+- double
+- soon
+- magnet
+- marble
+- lumber
+- assault
+- saddle
+- bullet
+- topic
+- mix
+- anchor
+bip_39_word_space_1: border
+bip_39_word_space_10: border double soon magnet marble lumber assault saddle bullet
+  topic
+bip_39_word_space_11: border double soon magnet marble lumber assault saddle bullet
+  topic mix
+bip_39_word_space_12: border double soon magnet marble lumber assault saddle bullet
+  topic mix anchor
+bip_39_word_space_2: border double
+bip_39_word_space_3: border double soon
+bip_39_word_space_4: border double soon magnet
+bip_39_word_space_5: border double soon magnet marble
+bip_39_word_space_6: border double soon magnet marble lumber
+bip_39_word_space_7: border double soon magnet marble lumber assault
+bip_39_word_space_8: border double soon magnet marble lumber assault saddle
+bip_39_word_space_9: border double soon magnet marble lumber assault saddle bullet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: husband
+bip_39_word_new_br10: husband<br>oval<br>lawn<br>team<br>second<br>give<br>repair<br>raise<br>drip<br>observe
+bip_39_word_new_br11: husband<br>oval<br>lawn<br>team<br>second<br>give<br>repair<br>raise<br>drip<br>observe<br>rug
+bip_39_word_new_br12: husband<br>oval<br>lawn<br>team<br>second<br>give<br>repair<br>raise<br>drip<br>observe<br>rug<br>address
+bip_39_word_new_br2: husband<br>oval
+bip_39_word_new_br3: husband<br>oval<br>lawn
+bip_39_word_new_br4: husband<br>oval<br>lawn<br>team
+bip_39_word_new_br5: husband<br>oval<br>lawn<br>team<br>second
+bip_39_word_new_br6: husband<br>oval<br>lawn<br>team<br>second<br>give
+bip_39_word_new_br7: husband<br>oval<br>lawn<br>team<br>second<br>give<br>repair
+bip_39_word_new_br8: husband<br>oval<br>lawn<br>team<br>second<br>give<br>repair<br>raise
+bip_39_word_new_br9: husband<br>oval<br>lawn<br>team<br>second<br>give<br>repair<br>raise<br>drip
+bip_39_word_new_line1: husband
+bip_39_word_new_line10: 'husband
+
+  oval
+
+  lawn
+
+  team
+
+  second
+
+  give
+
+  repair
+
+  raise
+
+  drip
+
+  observe'
+bip_39_word_new_line11: 'husband
+
+  oval
+
+  lawn
+
+  team
+
+  second
+
+  give
+
+  repair
+
+  raise
+
+  drip
+
+  observe
+
+  rug'
+bip_39_word_new_line12: 'husband
+
+  oval
+
+  lawn
+
+  team
+
+  second
+
+  give
+
+  repair
+
+  raise
+
+  drip
+
+  observe
+
+  rug
+
+  address'
+bip_39_word_new_line2: 'husband
+
+  oval'
+bip_39_word_new_line3: 'husband
+
+  oval
+
+  lawn'
+bip_39_word_new_line4: 'husband
+
+  oval
+
+  lawn
+
+  team'
+bip_39_word_new_line5: 'husband
+
+  oval
+
+  lawn
+
+  team
+
+  second'
+bip_39_word_new_line6: 'husband
+
+  oval
+
+  lawn
+
+  team
+
+  second
+
+  give'
+bip_39_word_new_line7: 'husband
+
+  oval
+
+  lawn
+
+  team
+
+  second
+
+  give
+
+  repair'
+bip_39_word_new_line8: 'husband
+
+  oval
+
+  lawn
+
+  team
+
+  second
+
+  give
+
+  repair
+
+  raise'
+bip_39_word_new_line9: 'husband
+
+  oval
+
+  lawn
+
+  team
+
+  second
+
+  give
+
+  repair
+
+  raise
+
+  drip'
+bip_39_word_space_0:
+- husband
+- oval
+- lawn
+- team
+- second
+- give
+- repair
+- raise
+- drip
+- observe
+- rug
+- address
+bip_39_word_space_1: husband
+bip_39_word_space_10: husband oval lawn team second give repair raise drip observe
+bip_39_word_space_11: husband oval lawn team second give repair raise drip observe
+  rug
+bip_39_word_space_12: husband oval lawn team second give repair raise drip observe
+  rug address
+bip_39_word_space_2: husband oval
+bip_39_word_space_3: husband oval lawn
+bip_39_word_space_4: husband oval lawn team
+bip_39_word_space_5: husband oval lawn team second
+bip_39_word_space_6: husband oval lawn team second give
+bip_39_word_space_7: husband oval lawn team second give repair
+bip_39_word_space_8: husband oval lawn team second give repair raise
+bip_39_word_space_9: husband oval lawn team second give repair raise drip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

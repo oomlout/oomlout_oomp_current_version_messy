@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: senior trip
+  * bip 39 word 3: senior trip stock
+  * bip 39 word: senior trip stock agree year rack myself trip use cruel hood around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | senior |  
+| bip_39_word_new_br10 | senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use<br>cruel |  
+| bip_39_word_new_br11 | senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use<br>cruel<br>hood |  
+| bip_39_word_new_br12 | senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use<br>cruel<br>hood<br>around |  
+| bip_39_word_new_br2 | senior<br>trip |  
+| bip_39_word_new_br3 | senior<br>trip<br>stock |  
+| bip_39_word_new_br4 | senior<br>trip<br>stock<br>agree |  
+| bip_39_word_new_br5 | senior<br>trip<br>stock<br>agree<br>year |  
+| bip_39_word_new_br6 | senior<br>trip<br>stock<br>agree<br>year<br>rack |  
+| bip_39_word_new_br7 | senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself |  
+| bip_39_word_new_br8 | senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip |  
+| bip_39_word_new_br9 | senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use |  
+| bip_39_word_new_line1 | senior |  
+| bip_39_word_new_line10 | senior
+trip
+stock
+agree
+year
+rack
+myself
+trip
+use
+cruel |  
+| bip_39_word_new_line11 | senior
+trip
+stock
+agree
+year
+rack
+myself
+trip
+use
+cruel
+hood |  
+| bip_39_word_new_line12 | senior
+trip
+stock
+agree
+year
+rack
+myself
+trip
+use
+cruel
+hood
+around |  
+| bip_39_word_new_line2 | senior
+trip |  
+| bip_39_word_new_line3 | senior
+trip
+stock |  
+| bip_39_word_new_line4 | senior
+trip
+stock
+agree |  
+| bip_39_word_new_line5 | senior
+trip
+stock
+agree
+year |  
+| bip_39_word_new_line6 | senior
+trip
+stock
+agree
+year
+rack |  
+| bip_39_word_new_line7 | senior
+trip
+stock
+agree
+year
+rack
+myself |  
+| bip_39_word_new_line8 | senior
+trip
+stock
+agree
+year
+rack
+myself
+trip |  
+| bip_39_word_new_line9 | senior
+trip
+stock
+agree
+year
+rack
+myself
+trip
+use |  
+| bip_39_word_space_0 | ['senior', 'trip', 'stock', 'agree', 'year', 'rack', 'myself', 'trip', 'use', 'cruel', 'hood', 'around'] |  
+| bip_39_word_space_1 | senior |  
+| bip_39_word_space_10 | senior trip stock agree year rack myself trip use cruel |  
+| bip_39_word_space_11 | senior trip stock agree year rack myself trip use cruel hood |  
+| bip_39_word_space_12 | senior trip stock agree year rack myself trip use cruel hood around |  
+| bip_39_word_space_2 | senior trip |  
+| bip_39_word_space_3 | senior trip stock |  
+| bip_39_word_space_4 | senior trip stock agree |  
+| bip_39_word_space_5 | senior trip stock agree year |  
+| bip_39_word_space_6 | senior trip stock agree year rack |  
+| bip_39_word_space_7 | senior trip stock agree year rack myself |  
+| bip_39_word_space_8 | senior trip stock agree year rack myself trip |  
+| bip_39_word_space_9 | senior trip stock agree year rack myself trip use |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

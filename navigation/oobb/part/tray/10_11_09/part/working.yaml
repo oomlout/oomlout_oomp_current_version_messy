@@ -1,3 +1,187 @@
+bip_39_word_new_br1: extra
+bip_39_word_new_br10: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien
+bip_39_word_new_br11: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien<br>cannon
+bip_39_word_new_br12: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball<br>alien<br>cannon<br>assist
+bip_39_word_new_br2: extra<br>easy
+bip_39_word_new_br3: extra<br>easy<br>acoustic
+bip_39_word_new_br4: extra<br>easy<br>acoustic<br>grace
+bip_39_word_new_br5: extra<br>easy<br>acoustic<br>grace<br>enable
+bip_39_word_new_br6: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy
+bip_39_word_new_br7: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment
+bip_39_word_new_br8: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect
+bip_39_word_new_br9: extra<br>easy<br>acoustic<br>grace<br>enable<br>candy<br>garment<br>perfect<br>ball
+bip_39_word_new_line1: extra
+bip_39_word_new_line10: 'extra
+
+  easy
+
+  acoustic
+
+  grace
+
+  enable
+
+  candy
+
+  garment
+
+  perfect
+
+  ball
+
+  alien'
+bip_39_word_new_line11: 'extra
+
+  easy
+
+  acoustic
+
+  grace
+
+  enable
+
+  candy
+
+  garment
+
+  perfect
+
+  ball
+
+  alien
+
+  cannon'
+bip_39_word_new_line12: 'extra
+
+  easy
+
+  acoustic
+
+  grace
+
+  enable
+
+  candy
+
+  garment
+
+  perfect
+
+  ball
+
+  alien
+
+  cannon
+
+  assist'
+bip_39_word_new_line2: 'extra
+
+  easy'
+bip_39_word_new_line3: 'extra
+
+  easy
+
+  acoustic'
+bip_39_word_new_line4: 'extra
+
+  easy
+
+  acoustic
+
+  grace'
+bip_39_word_new_line5: 'extra
+
+  easy
+
+  acoustic
+
+  grace
+
+  enable'
+bip_39_word_new_line6: 'extra
+
+  easy
+
+  acoustic
+
+  grace
+
+  enable
+
+  candy'
+bip_39_word_new_line7: 'extra
+
+  easy
+
+  acoustic
+
+  grace
+
+  enable
+
+  candy
+
+  garment'
+bip_39_word_new_line8: 'extra
+
+  easy
+
+  acoustic
+
+  grace
+
+  enable
+
+  candy
+
+  garment
+
+  perfect'
+bip_39_word_new_line9: 'extra
+
+  easy
+
+  acoustic
+
+  grace
+
+  enable
+
+  candy
+
+  garment
+
+  perfect
+
+  ball'
+bip_39_word_space_0:
+- extra
+- easy
+- acoustic
+- grace
+- enable
+- candy
+- garment
+- perfect
+- ball
+- alien
+- cannon
+- assist
+bip_39_word_space_1: extra
+bip_39_word_space_10: extra easy acoustic grace enable candy garment perfect ball
+  alien
+bip_39_word_space_11: extra easy acoustic grace enable candy garment perfect ball
+  alien cannon
+bip_39_word_space_12: extra easy acoustic grace enable candy garment perfect ball
+  alien cannon assist
+bip_39_word_space_2: extra easy
+bip_39_word_space_3: extra easy acoustic
+bip_39_word_space_4: extra easy acoustic grace
+bip_39_word_space_5: extra easy acoustic grace enable
+bip_39_word_space_6: extra easy acoustic grace enable candy
+bip_39_word_space_7: extra easy acoustic grace enable candy garment
+bip_39_word_space_8: extra easy acoustic grace enable candy garment perfect
+bip_39_word_space_9: extra easy acoustic grace enable candy garment perfect ball
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: biology
+bip_39_word_new_br10: biology<br>prison<br>junior<br>together<br>lemon<br>property<br>want<br>kick<br>edge<br>bundle
+bip_39_word_new_br11: biology<br>prison<br>junior<br>together<br>lemon<br>property<br>want<br>kick<br>edge<br>bundle<br>correct
+bip_39_word_new_br12: biology<br>prison<br>junior<br>together<br>lemon<br>property<br>want<br>kick<br>edge<br>bundle<br>correct<br>above
+bip_39_word_new_br2: biology<br>prison
+bip_39_word_new_br3: biology<br>prison<br>junior
+bip_39_word_new_br4: biology<br>prison<br>junior<br>together
+bip_39_word_new_br5: biology<br>prison<br>junior<br>together<br>lemon
+bip_39_word_new_br6: biology<br>prison<br>junior<br>together<br>lemon<br>property
+bip_39_word_new_br7: biology<br>prison<br>junior<br>together<br>lemon<br>property<br>want
+bip_39_word_new_br8: biology<br>prison<br>junior<br>together<br>lemon<br>property<br>want<br>kick
+bip_39_word_new_br9: biology<br>prison<br>junior<br>together<br>lemon<br>property<br>want<br>kick<br>edge
+bip_39_word_new_line1: biology
+bip_39_word_new_line10: 'biology
+
+  prison
+
+  junior
+
+  together
+
+  lemon
+
+  property
+
+  want
+
+  kick
+
+  edge
+
+  bundle'
+bip_39_word_new_line11: 'biology
+
+  prison
+
+  junior
+
+  together
+
+  lemon
+
+  property
+
+  want
+
+  kick
+
+  edge
+
+  bundle
+
+  correct'
+bip_39_word_new_line12: 'biology
+
+  prison
+
+  junior
+
+  together
+
+  lemon
+
+  property
+
+  want
+
+  kick
+
+  edge
+
+  bundle
+
+  correct
+
+  above'
+bip_39_word_new_line2: 'biology
+
+  prison'
+bip_39_word_new_line3: 'biology
+
+  prison
+
+  junior'
+bip_39_word_new_line4: 'biology
+
+  prison
+
+  junior
+
+  together'
+bip_39_word_new_line5: 'biology
+
+  prison
+
+  junior
+
+  together
+
+  lemon'
+bip_39_word_new_line6: 'biology
+
+  prison
+
+  junior
+
+  together
+
+  lemon
+
+  property'
+bip_39_word_new_line7: 'biology
+
+  prison
+
+  junior
+
+  together
+
+  lemon
+
+  property
+
+  want'
+bip_39_word_new_line8: 'biology
+
+  prison
+
+  junior
+
+  together
+
+  lemon
+
+  property
+
+  want
+
+  kick'
+bip_39_word_new_line9: 'biology
+
+  prison
+
+  junior
+
+  together
+
+  lemon
+
+  property
+
+  want
+
+  kick
+
+  edge'
+bip_39_word_space_0:
+- biology
+- prison
+- junior
+- together
+- lemon
+- property
+- want
+- kick
+- edge
+- bundle
+- correct
+- above
+bip_39_word_space_1: biology
+bip_39_word_space_10: biology prison junior together lemon property want kick edge
+  bundle
+bip_39_word_space_11: biology prison junior together lemon property want kick edge
+  bundle correct
+bip_39_word_space_12: biology prison junior together lemon property want kick edge
+  bundle correct above
+bip_39_word_space_2: biology prison
+bip_39_word_space_3: biology prison junior
+bip_39_word_space_4: biology prison junior together
+bip_39_word_space_5: biology prison junior together lemon
+bip_39_word_space_6: biology prison junior together lemon property
+bip_39_word_space_7: biology prison junior together lemon property want
+bip_39_word_space_8: biology prison junior together lemon property want kick
+bip_39_word_space_9: biology prison junior together lemon property want kick edge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

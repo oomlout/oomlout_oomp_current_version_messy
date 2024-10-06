@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pact fish
+  * bip 39 word 3: pact fish yellow
+  * bip 39 word: pact fish yellow feel kidney like enter ethics chapter tourist inquiry army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pact |  
+| bip_39_word_new_br10 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like<br>enter<br>ethics<br>chapter<br>tourist |  
+| bip_39_word_new_br11 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like<br>enter<br>ethics<br>chapter<br>tourist<br>inquiry |  
+| bip_39_word_new_br12 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like<br>enter<br>ethics<br>chapter<br>tourist<br>inquiry<br>army |  
+| bip_39_word_new_br2 | pact<br>fish |  
+| bip_39_word_new_br3 | pact<br>fish<br>yellow |  
+| bip_39_word_new_br4 | pact<br>fish<br>yellow<br>feel |  
+| bip_39_word_new_br5 | pact<br>fish<br>yellow<br>feel<br>kidney |  
+| bip_39_word_new_br6 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like |  
+| bip_39_word_new_br7 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like<br>enter |  
+| bip_39_word_new_br8 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like<br>enter<br>ethics |  
+| bip_39_word_new_br9 | pact<br>fish<br>yellow<br>feel<br>kidney<br>like<br>enter<br>ethics<br>chapter |  
+| bip_39_word_new_line1 | pact |  
+| bip_39_word_new_line10 | pact
+fish
+yellow
+feel
+kidney
+like
+enter
+ethics
+chapter
+tourist |  
+| bip_39_word_new_line11 | pact
+fish
+yellow
+feel
+kidney
+like
+enter
+ethics
+chapter
+tourist
+inquiry |  
+| bip_39_word_new_line12 | pact
+fish
+yellow
+feel
+kidney
+like
+enter
+ethics
+chapter
+tourist
+inquiry
+army |  
+| bip_39_word_new_line2 | pact
+fish |  
+| bip_39_word_new_line3 | pact
+fish
+yellow |  
+| bip_39_word_new_line4 | pact
+fish
+yellow
+feel |  
+| bip_39_word_new_line5 | pact
+fish
+yellow
+feel
+kidney |  
+| bip_39_word_new_line6 | pact
+fish
+yellow
+feel
+kidney
+like |  
+| bip_39_word_new_line7 | pact
+fish
+yellow
+feel
+kidney
+like
+enter |  
+| bip_39_word_new_line8 | pact
+fish
+yellow
+feel
+kidney
+like
+enter
+ethics |  
+| bip_39_word_new_line9 | pact
+fish
+yellow
+feel
+kidney
+like
+enter
+ethics
+chapter |  
+| bip_39_word_space_0 | ['pact', 'fish', 'yellow', 'feel', 'kidney', 'like', 'enter', 'ethics', 'chapter', 'tourist', 'inquiry', 'army'] |  
+| bip_39_word_space_1 | pact |  
+| bip_39_word_space_10 | pact fish yellow feel kidney like enter ethics chapter tourist |  
+| bip_39_word_space_11 | pact fish yellow feel kidney like enter ethics chapter tourist inquiry |  
+| bip_39_word_space_12 | pact fish yellow feel kidney like enter ethics chapter tourist inquiry army |  
+| bip_39_word_space_2 | pact fish |  
+| bip_39_word_space_3 | pact fish yellow |  
+| bip_39_word_space_4 | pact fish yellow feel |  
+| bip_39_word_space_5 | pact fish yellow feel kidney |  
+| bip_39_word_space_6 | pact fish yellow feel kidney like |  
+| bip_39_word_space_7 | pact fish yellow feel kidney like enter |  
+| bip_39_word_space_8 | pact fish yellow feel kidney like enter ethics |  
+| bip_39_word_space_9 | pact fish yellow feel kidney like enter ethics chapter |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: galaxy
+bip_39_word_new_br10: galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure
+bip_39_word_new_br11: galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure<br>mechanic
+bip_39_word_new_br12: galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure<br>mechanic<br>arrive
+bip_39_word_new_br2: galaxy<br>render
+bip_39_word_new_br3: galaxy<br>render<br>lunch
+bip_39_word_new_br4: galaxy<br>render<br>lunch<br>spend
+bip_39_word_new_br5: galaxy<br>render<br>lunch<br>spend<br>hip
+bip_39_word_new_br6: galaxy<br>render<br>lunch<br>spend<br>hip<br>spike
+bip_39_word_new_br7: galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm
+bip_39_word_new_br8: galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy
+bip_39_word_new_br9: galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet
+bip_39_word_new_line1: galaxy
+bip_39_word_new_line10: 'galaxy
+
+  render
+
+  lunch
+
+  spend
+
+  hip
+
+  spike
+
+  arm
+
+  trophy
+
+  diet
+
+  leisure'
+bip_39_word_new_line11: 'galaxy
+
+  render
+
+  lunch
+
+  spend
+
+  hip
+
+  spike
+
+  arm
+
+  trophy
+
+  diet
+
+  leisure
+
+  mechanic'
+bip_39_word_new_line12: 'galaxy
+
+  render
+
+  lunch
+
+  spend
+
+  hip
+
+  spike
+
+  arm
+
+  trophy
+
+  diet
+
+  leisure
+
+  mechanic
+
+  arrive'
+bip_39_word_new_line2: 'galaxy
+
+  render'
+bip_39_word_new_line3: 'galaxy
+
+  render
+
+  lunch'
+bip_39_word_new_line4: 'galaxy
+
+  render
+
+  lunch
+
+  spend'
+bip_39_word_new_line5: 'galaxy
+
+  render
+
+  lunch
+
+  spend
+
+  hip'
+bip_39_word_new_line6: 'galaxy
+
+  render
+
+  lunch
+
+  spend
+
+  hip
+
+  spike'
+bip_39_word_new_line7: 'galaxy
+
+  render
+
+  lunch
+
+  spend
+
+  hip
+
+  spike
+
+  arm'
+bip_39_word_new_line8: 'galaxy
+
+  render
+
+  lunch
+
+  spend
+
+  hip
+
+  spike
+
+  arm
+
+  trophy'
+bip_39_word_new_line9: 'galaxy
+
+  render
+
+  lunch
+
+  spend
+
+  hip
+
+  spike
+
+  arm
+
+  trophy
+
+  diet'
+bip_39_word_space_0:
+- galaxy
+- render
+- lunch
+- spend
+- hip
+- spike
+- arm
+- trophy
+- diet
+- leisure
+- mechanic
+- arrive
+bip_39_word_space_1: galaxy
+bip_39_word_space_10: galaxy render lunch spend hip spike arm trophy diet leisure
+bip_39_word_space_11: galaxy render lunch spend hip spike arm trophy diet leisure
+  mechanic
+bip_39_word_space_12: galaxy render lunch spend hip spike arm trophy diet leisure
+  mechanic arrive
+bip_39_word_space_2: galaxy render
+bip_39_word_space_3: galaxy render lunch
+bip_39_word_space_4: galaxy render lunch spend
+bip_39_word_space_5: galaxy render lunch spend hip
+bip_39_word_space_6: galaxy render lunch spend hip spike
+bip_39_word_space_7: galaxy render lunch spend hip spike arm
+bip_39_word_space_8: galaxy render lunch spend hip spike arm trophy
+bip_39_word_space_9: galaxy render lunch spend hip spike arm trophy diet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spike cruise
+  * bip 39 word 3: spike cruise obey
+  * bip 39 word: spike cruise obey kit hollow picnic reveal pill shy coral hold attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spike |  
+| bip_39_word_new_br10 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic<br>reveal<br>pill<br>shy<br>coral |  
+| bip_39_word_new_br11 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic<br>reveal<br>pill<br>shy<br>coral<br>hold |  
+| bip_39_word_new_br12 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic<br>reveal<br>pill<br>shy<br>coral<br>hold<br>attend |  
+| bip_39_word_new_br2 | spike<br>cruise |  
+| bip_39_word_new_br3 | spike<br>cruise<br>obey |  
+| bip_39_word_new_br4 | spike<br>cruise<br>obey<br>kit |  
+| bip_39_word_new_br5 | spike<br>cruise<br>obey<br>kit<br>hollow |  
+| bip_39_word_new_br6 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic |  
+| bip_39_word_new_br7 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic<br>reveal |  
+| bip_39_word_new_br8 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic<br>reveal<br>pill |  
+| bip_39_word_new_br9 | spike<br>cruise<br>obey<br>kit<br>hollow<br>picnic<br>reveal<br>pill<br>shy |  
+| bip_39_word_new_line1 | spike |  
+| bip_39_word_new_line10 | spike
+cruise
+obey
+kit
+hollow
+picnic
+reveal
+pill
+shy
+coral |  
+| bip_39_word_new_line11 | spike
+cruise
+obey
+kit
+hollow
+picnic
+reveal
+pill
+shy
+coral
+hold |  
+| bip_39_word_new_line12 | spike
+cruise
+obey
+kit
+hollow
+picnic
+reveal
+pill
+shy
+coral
+hold
+attend |  
+| bip_39_word_new_line2 | spike
+cruise |  
+| bip_39_word_new_line3 | spike
+cruise
+obey |  
+| bip_39_word_new_line4 | spike
+cruise
+obey
+kit |  
+| bip_39_word_new_line5 | spike
+cruise
+obey
+kit
+hollow |  
+| bip_39_word_new_line6 | spike
+cruise
+obey
+kit
+hollow
+picnic |  
+| bip_39_word_new_line7 | spike
+cruise
+obey
+kit
+hollow
+picnic
+reveal |  
+| bip_39_word_new_line8 | spike
+cruise
+obey
+kit
+hollow
+picnic
+reveal
+pill |  
+| bip_39_word_new_line9 | spike
+cruise
+obey
+kit
+hollow
+picnic
+reveal
+pill
+shy |  
+| bip_39_word_space_0 | ['spike', 'cruise', 'obey', 'kit', 'hollow', 'picnic', 'reveal', 'pill', 'shy', 'coral', 'hold', 'attend'] |  
+| bip_39_word_space_1 | spike |  
+| bip_39_word_space_10 | spike cruise obey kit hollow picnic reveal pill shy coral |  
+| bip_39_word_space_11 | spike cruise obey kit hollow picnic reveal pill shy coral hold |  
+| bip_39_word_space_12 | spike cruise obey kit hollow picnic reveal pill shy coral hold attend |  
+| bip_39_word_space_2 | spike cruise |  
+| bip_39_word_space_3 | spike cruise obey |  
+| bip_39_word_space_4 | spike cruise obey kit |  
+| bip_39_word_space_5 | spike cruise obey kit hollow |  
+| bip_39_word_space_6 | spike cruise obey kit hollow picnic |  
+| bip_39_word_space_7 | spike cruise obey kit hollow picnic reveal |  
+| bip_39_word_space_8 | spike cruise obey kit hollow picnic reveal pill |  
+| bip_39_word_space_9 | spike cruise obey kit hollow picnic reveal pill shy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

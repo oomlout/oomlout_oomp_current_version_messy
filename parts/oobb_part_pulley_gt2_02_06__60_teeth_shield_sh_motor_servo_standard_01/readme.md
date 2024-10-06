@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 60_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dwarf saddle
+  * bip 39 word 3: dwarf saddle tank
+  * bip 39 word: dwarf saddle tank purity image glad voyage mosquito diamond crash pear area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dwarf |  
+| bip_39_word_new_br10 | dwarf<br>saddle<br>tank<br>purity<br>image<br>glad<br>voyage<br>mosquito<br>diamond<br>crash |  
+| bip_39_word_new_br11 | dwarf<br>saddle<br>tank<br>purity<br>image<br>glad<br>voyage<br>mosquito<br>diamond<br>crash<br>pear |  
+| bip_39_word_new_br12 | dwarf<br>saddle<br>tank<br>purity<br>image<br>glad<br>voyage<br>mosquito<br>diamond<br>crash<br>pear<br>area |  
+| bip_39_word_new_br2 | dwarf<br>saddle |  
+| bip_39_word_new_br3 | dwarf<br>saddle<br>tank |  
+| bip_39_word_new_br4 | dwarf<br>saddle<br>tank<br>purity |  
+| bip_39_word_new_br5 | dwarf<br>saddle<br>tank<br>purity<br>image |  
+| bip_39_word_new_br6 | dwarf<br>saddle<br>tank<br>purity<br>image<br>glad |  
+| bip_39_word_new_br7 | dwarf<br>saddle<br>tank<br>purity<br>image<br>glad<br>voyage |  
+| bip_39_word_new_br8 | dwarf<br>saddle<br>tank<br>purity<br>image<br>glad<br>voyage<br>mosquito |  
+| bip_39_word_new_br9 | dwarf<br>saddle<br>tank<br>purity<br>image<br>glad<br>voyage<br>mosquito<br>diamond |  
+| bip_39_word_new_line1 | dwarf |  
+| bip_39_word_new_line10 | dwarf
+saddle
+tank
+purity
+image
+glad
+voyage
+mosquito
+diamond
+crash |  
+| bip_39_word_new_line11 | dwarf
+saddle
+tank
+purity
+image
+glad
+voyage
+mosquito
+diamond
+crash
+pear |  
+| bip_39_word_new_line12 | dwarf
+saddle
+tank
+purity
+image
+glad
+voyage
+mosquito
+diamond
+crash
+pear
+area |  
+| bip_39_word_new_line2 | dwarf
+saddle |  
+| bip_39_word_new_line3 | dwarf
+saddle
+tank |  
+| bip_39_word_new_line4 | dwarf
+saddle
+tank
+purity |  
+| bip_39_word_new_line5 | dwarf
+saddle
+tank
+purity
+image |  
+| bip_39_word_new_line6 | dwarf
+saddle
+tank
+purity
+image
+glad |  
+| bip_39_word_new_line7 | dwarf
+saddle
+tank
+purity
+image
+glad
+voyage |  
+| bip_39_word_new_line8 | dwarf
+saddle
+tank
+purity
+image
+glad
+voyage
+mosquito |  
+| bip_39_word_new_line9 | dwarf
+saddle
+tank
+purity
+image
+glad
+voyage
+mosquito
+diamond |  
+| bip_39_word_space_0 | ['dwarf', 'saddle', 'tank', 'purity', 'image', 'glad', 'voyage', 'mosquito', 'diamond', 'crash', 'pear', 'area'] |  
+| bip_39_word_space_1 | dwarf |  
+| bip_39_word_space_10 | dwarf saddle tank purity image glad voyage mosquito diamond crash |  
+| bip_39_word_space_11 | dwarf saddle tank purity image glad voyage mosquito diamond crash pear |  
+| bip_39_word_space_12 | dwarf saddle tank purity image glad voyage mosquito diamond crash pear area |  
+| bip_39_word_space_2 | dwarf saddle |  
+| bip_39_word_space_3 | dwarf saddle tank |  
+| bip_39_word_space_4 | dwarf saddle tank purity |  
+| bip_39_word_space_5 | dwarf saddle tank purity image |  
+| bip_39_word_space_6 | dwarf saddle tank purity image glad |  
+| bip_39_word_space_7 | dwarf saddle tank purity image glad voyage |  
+| bip_39_word_space_8 | dwarf saddle tank purity image glad voyage mosquito |  
+| bip_39_word_space_9 | dwarf saddle tank purity image glad voyage mosquito diamond |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

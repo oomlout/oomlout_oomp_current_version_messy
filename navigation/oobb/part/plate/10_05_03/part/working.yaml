@@ -1,3 +1,186 @@
+bip_39_word_new_br1: topic
+bip_39_word_new_br10: topic<br>believe<br>egg<br>garment<br>list<br>either<br>alter<br>urge<br>switch<br>slight
+bip_39_word_new_br11: topic<br>believe<br>egg<br>garment<br>list<br>either<br>alter<br>urge<br>switch<br>slight<br>arrest
+bip_39_word_new_br12: topic<br>believe<br>egg<br>garment<br>list<br>either<br>alter<br>urge<br>switch<br>slight<br>arrest<br>achieve
+bip_39_word_new_br2: topic<br>believe
+bip_39_word_new_br3: topic<br>believe<br>egg
+bip_39_word_new_br4: topic<br>believe<br>egg<br>garment
+bip_39_word_new_br5: topic<br>believe<br>egg<br>garment<br>list
+bip_39_word_new_br6: topic<br>believe<br>egg<br>garment<br>list<br>either
+bip_39_word_new_br7: topic<br>believe<br>egg<br>garment<br>list<br>either<br>alter
+bip_39_word_new_br8: topic<br>believe<br>egg<br>garment<br>list<br>either<br>alter<br>urge
+bip_39_word_new_br9: topic<br>believe<br>egg<br>garment<br>list<br>either<br>alter<br>urge<br>switch
+bip_39_word_new_line1: topic
+bip_39_word_new_line10: 'topic
+
+  believe
+
+  egg
+
+  garment
+
+  list
+
+  either
+
+  alter
+
+  urge
+
+  switch
+
+  slight'
+bip_39_word_new_line11: 'topic
+
+  believe
+
+  egg
+
+  garment
+
+  list
+
+  either
+
+  alter
+
+  urge
+
+  switch
+
+  slight
+
+  arrest'
+bip_39_word_new_line12: 'topic
+
+  believe
+
+  egg
+
+  garment
+
+  list
+
+  either
+
+  alter
+
+  urge
+
+  switch
+
+  slight
+
+  arrest
+
+  achieve'
+bip_39_word_new_line2: 'topic
+
+  believe'
+bip_39_word_new_line3: 'topic
+
+  believe
+
+  egg'
+bip_39_word_new_line4: 'topic
+
+  believe
+
+  egg
+
+  garment'
+bip_39_word_new_line5: 'topic
+
+  believe
+
+  egg
+
+  garment
+
+  list'
+bip_39_word_new_line6: 'topic
+
+  believe
+
+  egg
+
+  garment
+
+  list
+
+  either'
+bip_39_word_new_line7: 'topic
+
+  believe
+
+  egg
+
+  garment
+
+  list
+
+  either
+
+  alter'
+bip_39_word_new_line8: 'topic
+
+  believe
+
+  egg
+
+  garment
+
+  list
+
+  either
+
+  alter
+
+  urge'
+bip_39_word_new_line9: 'topic
+
+  believe
+
+  egg
+
+  garment
+
+  list
+
+  either
+
+  alter
+
+  urge
+
+  switch'
+bip_39_word_space_0:
+- topic
+- believe
+- egg
+- garment
+- list
+- either
+- alter
+- urge
+- switch
+- slight
+- arrest
+- achieve
+bip_39_word_space_1: topic
+bip_39_word_space_10: topic believe egg garment list either alter urge switch slight
+bip_39_word_space_11: topic believe egg garment list either alter urge switch slight
+  arrest
+bip_39_word_space_12: topic believe egg garment list either alter urge switch slight
+  arrest achieve
+bip_39_word_space_2: topic believe
+bip_39_word_space_3: topic believe egg
+bip_39_word_space_4: topic believe egg garment
+bip_39_word_space_5: topic believe egg garment list
+bip_39_word_space_6: topic believe egg garment list either
+bip_39_word_space_7: topic believe egg garment list either alter
+bip_39_word_space_8: topic believe egg garment list either alter urge
+bip_39_word_space_9: topic believe egg garment list either alter urge switch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

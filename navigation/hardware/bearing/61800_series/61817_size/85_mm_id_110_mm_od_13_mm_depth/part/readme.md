@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: suggest indoor
+  * bip 39 word 3: suggest indoor dog
+  * bip 39 word: suggest indoor dog dutch divide useful dolphin mind carpet raccoon light again
 
 ### other_codes
 * short_code: br61817
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | suggest |  
+| bip_39_word_new_br10 | suggest<br>indoor<br>dog<br>dutch<br>divide<br>useful<br>dolphin<br>mind<br>carpet<br>raccoon |  
+| bip_39_word_new_br11 | suggest<br>indoor<br>dog<br>dutch<br>divide<br>useful<br>dolphin<br>mind<br>carpet<br>raccoon<br>light |  
+| bip_39_word_new_br12 | suggest<br>indoor<br>dog<br>dutch<br>divide<br>useful<br>dolphin<br>mind<br>carpet<br>raccoon<br>light<br>again |  
+| bip_39_word_new_br2 | suggest<br>indoor |  
+| bip_39_word_new_br3 | suggest<br>indoor<br>dog |  
+| bip_39_word_new_br4 | suggest<br>indoor<br>dog<br>dutch |  
+| bip_39_word_new_br5 | suggest<br>indoor<br>dog<br>dutch<br>divide |  
+| bip_39_word_new_br6 | suggest<br>indoor<br>dog<br>dutch<br>divide<br>useful |  
+| bip_39_word_new_br7 | suggest<br>indoor<br>dog<br>dutch<br>divide<br>useful<br>dolphin |  
+| bip_39_word_new_br8 | suggest<br>indoor<br>dog<br>dutch<br>divide<br>useful<br>dolphin<br>mind |  
+| bip_39_word_new_br9 | suggest<br>indoor<br>dog<br>dutch<br>divide<br>useful<br>dolphin<br>mind<br>carpet |  
+| bip_39_word_new_line1 | suggest |  
+| bip_39_word_new_line10 | suggest
+indoor
+dog
+dutch
+divide
+useful
+dolphin
+mind
+carpet
+raccoon |  
+| bip_39_word_new_line11 | suggest
+indoor
+dog
+dutch
+divide
+useful
+dolphin
+mind
+carpet
+raccoon
+light |  
+| bip_39_word_new_line12 | suggest
+indoor
+dog
+dutch
+divide
+useful
+dolphin
+mind
+carpet
+raccoon
+light
+again |  
+| bip_39_word_new_line2 | suggest
+indoor |  
+| bip_39_word_new_line3 | suggest
+indoor
+dog |  
+| bip_39_word_new_line4 | suggest
+indoor
+dog
+dutch |  
+| bip_39_word_new_line5 | suggest
+indoor
+dog
+dutch
+divide |  
+| bip_39_word_new_line6 | suggest
+indoor
+dog
+dutch
+divide
+useful |  
+| bip_39_word_new_line7 | suggest
+indoor
+dog
+dutch
+divide
+useful
+dolphin |  
+| bip_39_word_new_line8 | suggest
+indoor
+dog
+dutch
+divide
+useful
+dolphin
+mind |  
+| bip_39_word_new_line9 | suggest
+indoor
+dog
+dutch
+divide
+useful
+dolphin
+mind
+carpet |  
+| bip_39_word_space_0 | ['suggest', 'indoor', 'dog', 'dutch', 'divide', 'useful', 'dolphin', 'mind', 'carpet', 'raccoon', 'light', 'again'] |  
+| bip_39_word_space_1 | suggest |  
+| bip_39_word_space_10 | suggest indoor dog dutch divide useful dolphin mind carpet raccoon |  
+| bip_39_word_space_11 | suggest indoor dog dutch divide useful dolphin mind carpet raccoon light |  
+| bip_39_word_space_12 | suggest indoor dog dutch divide useful dolphin mind carpet raccoon light again |  
+| bip_39_word_space_2 | suggest indoor |  
+| bip_39_word_space_3 | suggest indoor dog |  
+| bip_39_word_space_4 | suggest indoor dog dutch |  
+| bip_39_word_space_5 | suggest indoor dog dutch divide |  
+| bip_39_word_space_6 | suggest indoor dog dutch divide useful |  
+| bip_39_word_space_7 | suggest indoor dog dutch divide useful dolphin |  
+| bip_39_word_space_8 | suggest indoor dog dutch divide useful dolphin mind |  
+| bip_39_word_space_9 | suggest indoor dog dutch divide useful dolphin mind carpet |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

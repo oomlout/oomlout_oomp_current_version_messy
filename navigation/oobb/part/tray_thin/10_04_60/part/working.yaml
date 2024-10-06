@@ -1,3 +1,187 @@
+bip_39_word_new_br1: enemy
+bip_39_word_new_br10: enemy<br>message<br>mule<br>correct<br>episode<br>velvet<br>circle<br>forward<br>whale<br>arrive
+bip_39_word_new_br11: enemy<br>message<br>mule<br>correct<br>episode<br>velvet<br>circle<br>forward<br>whale<br>arrive<br>exit
+bip_39_word_new_br12: enemy<br>message<br>mule<br>correct<br>episode<br>velvet<br>circle<br>forward<br>whale<br>arrive<br>exit<br>action
+bip_39_word_new_br2: enemy<br>message
+bip_39_word_new_br3: enemy<br>message<br>mule
+bip_39_word_new_br4: enemy<br>message<br>mule<br>correct
+bip_39_word_new_br5: enemy<br>message<br>mule<br>correct<br>episode
+bip_39_word_new_br6: enemy<br>message<br>mule<br>correct<br>episode<br>velvet
+bip_39_word_new_br7: enemy<br>message<br>mule<br>correct<br>episode<br>velvet<br>circle
+bip_39_word_new_br8: enemy<br>message<br>mule<br>correct<br>episode<br>velvet<br>circle<br>forward
+bip_39_word_new_br9: enemy<br>message<br>mule<br>correct<br>episode<br>velvet<br>circle<br>forward<br>whale
+bip_39_word_new_line1: enemy
+bip_39_word_new_line10: 'enemy
+
+  message
+
+  mule
+
+  correct
+
+  episode
+
+  velvet
+
+  circle
+
+  forward
+
+  whale
+
+  arrive'
+bip_39_word_new_line11: 'enemy
+
+  message
+
+  mule
+
+  correct
+
+  episode
+
+  velvet
+
+  circle
+
+  forward
+
+  whale
+
+  arrive
+
+  exit'
+bip_39_word_new_line12: 'enemy
+
+  message
+
+  mule
+
+  correct
+
+  episode
+
+  velvet
+
+  circle
+
+  forward
+
+  whale
+
+  arrive
+
+  exit
+
+  action'
+bip_39_word_new_line2: 'enemy
+
+  message'
+bip_39_word_new_line3: 'enemy
+
+  message
+
+  mule'
+bip_39_word_new_line4: 'enemy
+
+  message
+
+  mule
+
+  correct'
+bip_39_word_new_line5: 'enemy
+
+  message
+
+  mule
+
+  correct
+
+  episode'
+bip_39_word_new_line6: 'enemy
+
+  message
+
+  mule
+
+  correct
+
+  episode
+
+  velvet'
+bip_39_word_new_line7: 'enemy
+
+  message
+
+  mule
+
+  correct
+
+  episode
+
+  velvet
+
+  circle'
+bip_39_word_new_line8: 'enemy
+
+  message
+
+  mule
+
+  correct
+
+  episode
+
+  velvet
+
+  circle
+
+  forward'
+bip_39_word_new_line9: 'enemy
+
+  message
+
+  mule
+
+  correct
+
+  episode
+
+  velvet
+
+  circle
+
+  forward
+
+  whale'
+bip_39_word_space_0:
+- enemy
+- message
+- mule
+- correct
+- episode
+- velvet
+- circle
+- forward
+- whale
+- arrive
+- exit
+- action
+bip_39_word_space_1: enemy
+bip_39_word_space_10: enemy message mule correct episode velvet circle forward whale
+  arrive
+bip_39_word_space_11: enemy message mule correct episode velvet circle forward whale
+  arrive exit
+bip_39_word_space_12: enemy message mule correct episode velvet circle forward whale
+  arrive exit action
+bip_39_word_space_2: enemy message
+bip_39_word_space_3: enemy message mule
+bip_39_word_space_4: enemy message mule correct
+bip_39_word_space_5: enemy message mule correct episode
+bip_39_word_space_6: enemy message mule correct episode velvet
+bip_39_word_space_7: enemy message mule correct episode velvet circle
+bip_39_word_space_8: enemy message mule correct episode velvet circle forward
+bip_39_word_space_9: enemy message mule correct episode velvet circle forward whale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

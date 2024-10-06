@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tuition bunker
+  * bip 39 word 3: tuition bunker battle
+  * bip 39 word: tuition bunker battle burger dish uphold bulk spawn yard census afford author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tuition |  
+| bip_39_word_new_br10 | tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold<br>bulk<br>spawn<br>yard<br>census |  
+| bip_39_word_new_br11 | tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold<br>bulk<br>spawn<br>yard<br>census<br>afford |  
+| bip_39_word_new_br12 | tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold<br>bulk<br>spawn<br>yard<br>census<br>afford<br>author |  
+| bip_39_word_new_br2 | tuition<br>bunker |  
+| bip_39_word_new_br3 | tuition<br>bunker<br>battle |  
+| bip_39_word_new_br4 | tuition<br>bunker<br>battle<br>burger |  
+| bip_39_word_new_br5 | tuition<br>bunker<br>battle<br>burger<br>dish |  
+| bip_39_word_new_br6 | tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold |  
+| bip_39_word_new_br7 | tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold<br>bulk |  
+| bip_39_word_new_br8 | tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold<br>bulk<br>spawn |  
+| bip_39_word_new_br9 | tuition<br>bunker<br>battle<br>burger<br>dish<br>uphold<br>bulk<br>spawn<br>yard |  
+| bip_39_word_new_line1 | tuition |  
+| bip_39_word_new_line10 | tuition
+bunker
+battle
+burger
+dish
+uphold
+bulk
+spawn
+yard
+census |  
+| bip_39_word_new_line11 | tuition
+bunker
+battle
+burger
+dish
+uphold
+bulk
+spawn
+yard
+census
+afford |  
+| bip_39_word_new_line12 | tuition
+bunker
+battle
+burger
+dish
+uphold
+bulk
+spawn
+yard
+census
+afford
+author |  
+| bip_39_word_new_line2 | tuition
+bunker |  
+| bip_39_word_new_line3 | tuition
+bunker
+battle |  
+| bip_39_word_new_line4 | tuition
+bunker
+battle
+burger |  
+| bip_39_word_new_line5 | tuition
+bunker
+battle
+burger
+dish |  
+| bip_39_word_new_line6 | tuition
+bunker
+battle
+burger
+dish
+uphold |  
+| bip_39_word_new_line7 | tuition
+bunker
+battle
+burger
+dish
+uphold
+bulk |  
+| bip_39_word_new_line8 | tuition
+bunker
+battle
+burger
+dish
+uphold
+bulk
+spawn |  
+| bip_39_word_new_line9 | tuition
+bunker
+battle
+burger
+dish
+uphold
+bulk
+spawn
+yard |  
+| bip_39_word_space_0 | ['tuition', 'bunker', 'battle', 'burger', 'dish', 'uphold', 'bulk', 'spawn', 'yard', 'census', 'afford', 'author'] |  
+| bip_39_word_space_1 | tuition |  
+| bip_39_word_space_10 | tuition bunker battle burger dish uphold bulk spawn yard census |  
+| bip_39_word_space_11 | tuition bunker battle burger dish uphold bulk spawn yard census afford |  
+| bip_39_word_space_12 | tuition bunker battle burger dish uphold bulk spawn yard census afford author |  
+| bip_39_word_space_2 | tuition bunker |  
+| bip_39_word_space_3 | tuition bunker battle |  
+| bip_39_word_space_4 | tuition bunker battle burger |  
+| bip_39_word_space_5 | tuition bunker battle burger dish |  
+| bip_39_word_space_6 | tuition bunker battle burger dish uphold |  
+| bip_39_word_space_7 | tuition bunker battle burger dish uphold bulk |  
+| bip_39_word_space_8 | tuition bunker battle burger dish uphold bulk spawn |  
+| bip_39_word_space_9 | tuition bunker battle burger dish uphold bulk spawn yard |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

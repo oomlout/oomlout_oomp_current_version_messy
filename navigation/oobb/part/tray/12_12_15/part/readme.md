@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grab property
+  * bip 39 word 3: grab property ribbon
+  * bip 39 word: grab property ribbon photo matrix develop arch lock smoke scorpion bitter among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grab |  
+| bip_39_word_new_br10 | grab<br>property<br>ribbon<br>photo<br>matrix<br>develop<br>arch<br>lock<br>smoke<br>scorpion |  
+| bip_39_word_new_br11 | grab<br>property<br>ribbon<br>photo<br>matrix<br>develop<br>arch<br>lock<br>smoke<br>scorpion<br>bitter |  
+| bip_39_word_new_br12 | grab<br>property<br>ribbon<br>photo<br>matrix<br>develop<br>arch<br>lock<br>smoke<br>scorpion<br>bitter<br>among |  
+| bip_39_word_new_br2 | grab<br>property |  
+| bip_39_word_new_br3 | grab<br>property<br>ribbon |  
+| bip_39_word_new_br4 | grab<br>property<br>ribbon<br>photo |  
+| bip_39_word_new_br5 | grab<br>property<br>ribbon<br>photo<br>matrix |  
+| bip_39_word_new_br6 | grab<br>property<br>ribbon<br>photo<br>matrix<br>develop |  
+| bip_39_word_new_br7 | grab<br>property<br>ribbon<br>photo<br>matrix<br>develop<br>arch |  
+| bip_39_word_new_br8 | grab<br>property<br>ribbon<br>photo<br>matrix<br>develop<br>arch<br>lock |  
+| bip_39_word_new_br9 | grab<br>property<br>ribbon<br>photo<br>matrix<br>develop<br>arch<br>lock<br>smoke |  
+| bip_39_word_new_line1 | grab |  
+| bip_39_word_new_line10 | grab
+property
+ribbon
+photo
+matrix
+develop
+arch
+lock
+smoke
+scorpion |  
+| bip_39_word_new_line11 | grab
+property
+ribbon
+photo
+matrix
+develop
+arch
+lock
+smoke
+scorpion
+bitter |  
+| bip_39_word_new_line12 | grab
+property
+ribbon
+photo
+matrix
+develop
+arch
+lock
+smoke
+scorpion
+bitter
+among |  
+| bip_39_word_new_line2 | grab
+property |  
+| bip_39_word_new_line3 | grab
+property
+ribbon |  
+| bip_39_word_new_line4 | grab
+property
+ribbon
+photo |  
+| bip_39_word_new_line5 | grab
+property
+ribbon
+photo
+matrix |  
+| bip_39_word_new_line6 | grab
+property
+ribbon
+photo
+matrix
+develop |  
+| bip_39_word_new_line7 | grab
+property
+ribbon
+photo
+matrix
+develop
+arch |  
+| bip_39_word_new_line8 | grab
+property
+ribbon
+photo
+matrix
+develop
+arch
+lock |  
+| bip_39_word_new_line9 | grab
+property
+ribbon
+photo
+matrix
+develop
+arch
+lock
+smoke |  
+| bip_39_word_space_0 | ['grab', 'property', 'ribbon', 'photo', 'matrix', 'develop', 'arch', 'lock', 'smoke', 'scorpion', 'bitter', 'among'] |  
+| bip_39_word_space_1 | grab |  
+| bip_39_word_space_10 | grab property ribbon photo matrix develop arch lock smoke scorpion |  
+| bip_39_word_space_11 | grab property ribbon photo matrix develop arch lock smoke scorpion bitter |  
+| bip_39_word_space_12 | grab property ribbon photo matrix develop arch lock smoke scorpion bitter among |  
+| bip_39_word_space_2 | grab property |  
+| bip_39_word_space_3 | grab property ribbon |  
+| bip_39_word_space_4 | grab property ribbon photo |  
+| bip_39_word_space_5 | grab property ribbon photo matrix |  
+| bip_39_word_space_6 | grab property ribbon photo matrix develop |  
+| bip_39_word_space_7 | grab property ribbon photo matrix develop arch |  
+| bip_39_word_space_8 | grab property ribbon photo matrix develop arch lock |  
+| bip_39_word_space_9 | grab property ribbon photo matrix develop arch lock smoke |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

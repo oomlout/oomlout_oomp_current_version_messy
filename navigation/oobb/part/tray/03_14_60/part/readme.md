@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feel kingdom
+  * bip 39 word 3: feel kingdom rebel
+  * bip 39 word: feel kingdom rebel whale fitness edit armor maid witness candy junk acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feel |  
+| bip_39_word_new_br10 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit<br>armor<br>maid<br>witness<br>candy |  
+| bip_39_word_new_br11 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit<br>armor<br>maid<br>witness<br>candy<br>junk |  
+| bip_39_word_new_br12 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit<br>armor<br>maid<br>witness<br>candy<br>junk<br>acid |  
+| bip_39_word_new_br2 | feel<br>kingdom |  
+| bip_39_word_new_br3 | feel<br>kingdom<br>rebel |  
+| bip_39_word_new_br4 | feel<br>kingdom<br>rebel<br>whale |  
+| bip_39_word_new_br5 | feel<br>kingdom<br>rebel<br>whale<br>fitness |  
+| bip_39_word_new_br6 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit |  
+| bip_39_word_new_br7 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit<br>armor |  
+| bip_39_word_new_br8 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit<br>armor<br>maid |  
+| bip_39_word_new_br9 | feel<br>kingdom<br>rebel<br>whale<br>fitness<br>edit<br>armor<br>maid<br>witness |  
+| bip_39_word_new_line1 | feel |  
+| bip_39_word_new_line10 | feel
+kingdom
+rebel
+whale
+fitness
+edit
+armor
+maid
+witness
+candy |  
+| bip_39_word_new_line11 | feel
+kingdom
+rebel
+whale
+fitness
+edit
+armor
+maid
+witness
+candy
+junk |  
+| bip_39_word_new_line12 | feel
+kingdom
+rebel
+whale
+fitness
+edit
+armor
+maid
+witness
+candy
+junk
+acid |  
+| bip_39_word_new_line2 | feel
+kingdom |  
+| bip_39_word_new_line3 | feel
+kingdom
+rebel |  
+| bip_39_word_new_line4 | feel
+kingdom
+rebel
+whale |  
+| bip_39_word_new_line5 | feel
+kingdom
+rebel
+whale
+fitness |  
+| bip_39_word_new_line6 | feel
+kingdom
+rebel
+whale
+fitness
+edit |  
+| bip_39_word_new_line7 | feel
+kingdom
+rebel
+whale
+fitness
+edit
+armor |  
+| bip_39_word_new_line8 | feel
+kingdom
+rebel
+whale
+fitness
+edit
+armor
+maid |  
+| bip_39_word_new_line9 | feel
+kingdom
+rebel
+whale
+fitness
+edit
+armor
+maid
+witness |  
+| bip_39_word_space_0 | ['feel', 'kingdom', 'rebel', 'whale', 'fitness', 'edit', 'armor', 'maid', 'witness', 'candy', 'junk', 'acid'] |  
+| bip_39_word_space_1 | feel |  
+| bip_39_word_space_10 | feel kingdom rebel whale fitness edit armor maid witness candy |  
+| bip_39_word_space_11 | feel kingdom rebel whale fitness edit armor maid witness candy junk |  
+| bip_39_word_space_12 | feel kingdom rebel whale fitness edit armor maid witness candy junk acid |  
+| bip_39_word_space_2 | feel kingdom |  
+| bip_39_word_space_3 | feel kingdom rebel |  
+| bip_39_word_space_4 | feel kingdom rebel whale |  
+| bip_39_word_space_5 | feel kingdom rebel whale fitness |  
+| bip_39_word_space_6 | feel kingdom rebel whale fitness edit |  
+| bip_39_word_space_7 | feel kingdom rebel whale fitness edit armor |  
+| bip_39_word_space_8 | feel kingdom rebel whale fitness edit armor maid |  
+| bip_39_word_space_9 | feel kingdom rebel whale fitness edit armor maid witness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

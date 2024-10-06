@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: version_1
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pride swamp
+  * bip 39 word 3: pride swamp gadget
+  * bip 39 word: pride swamp gadget celery local code pyramid pig motor agent wise ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pride |  
+| bip_39_word_new_br10 | pride<br>swamp<br>gadget<br>celery<br>local<br>code<br>pyramid<br>pig<br>motor<br>agent |  
+| bip_39_word_new_br11 | pride<br>swamp<br>gadget<br>celery<br>local<br>code<br>pyramid<br>pig<br>motor<br>agent<br>wise |  
+| bip_39_word_new_br12 | pride<br>swamp<br>gadget<br>celery<br>local<br>code<br>pyramid<br>pig<br>motor<br>agent<br>wise<br>ankle |  
+| bip_39_word_new_br2 | pride<br>swamp |  
+| bip_39_word_new_br3 | pride<br>swamp<br>gadget |  
+| bip_39_word_new_br4 | pride<br>swamp<br>gadget<br>celery |  
+| bip_39_word_new_br5 | pride<br>swamp<br>gadget<br>celery<br>local |  
+| bip_39_word_new_br6 | pride<br>swamp<br>gadget<br>celery<br>local<br>code |  
+| bip_39_word_new_br7 | pride<br>swamp<br>gadget<br>celery<br>local<br>code<br>pyramid |  
+| bip_39_word_new_br8 | pride<br>swamp<br>gadget<br>celery<br>local<br>code<br>pyramid<br>pig |  
+| bip_39_word_new_br9 | pride<br>swamp<br>gadget<br>celery<br>local<br>code<br>pyramid<br>pig<br>motor |  
+| bip_39_word_new_line1 | pride |  
+| bip_39_word_new_line10 | pride
+swamp
+gadget
+celery
+local
+code
+pyramid
+pig
+motor
+agent |  
+| bip_39_word_new_line11 | pride
+swamp
+gadget
+celery
+local
+code
+pyramid
+pig
+motor
+agent
+wise |  
+| bip_39_word_new_line12 | pride
+swamp
+gadget
+celery
+local
+code
+pyramid
+pig
+motor
+agent
+wise
+ankle |  
+| bip_39_word_new_line2 | pride
+swamp |  
+| bip_39_word_new_line3 | pride
+swamp
+gadget |  
+| bip_39_word_new_line4 | pride
+swamp
+gadget
+celery |  
+| bip_39_word_new_line5 | pride
+swamp
+gadget
+celery
+local |  
+| bip_39_word_new_line6 | pride
+swamp
+gadget
+celery
+local
+code |  
+| bip_39_word_new_line7 | pride
+swamp
+gadget
+celery
+local
+code
+pyramid |  
+| bip_39_word_new_line8 | pride
+swamp
+gadget
+celery
+local
+code
+pyramid
+pig |  
+| bip_39_word_new_line9 | pride
+swamp
+gadget
+celery
+local
+code
+pyramid
+pig
+motor |  
+| bip_39_word_space_0 | ['pride', 'swamp', 'gadget', 'celery', 'local', 'code', 'pyramid', 'pig', 'motor', 'agent', 'wise', 'ankle'] |  
+| bip_39_word_space_1 | pride |  
+| bip_39_word_space_10 | pride swamp gadget celery local code pyramid pig motor agent |  
+| bip_39_word_space_11 | pride swamp gadget celery local code pyramid pig motor agent wise |  
+| bip_39_word_space_12 | pride swamp gadget celery local code pyramid pig motor agent wise ankle |  
+| bip_39_word_space_2 | pride swamp |  
+| bip_39_word_space_3 | pride swamp gadget |  
+| bip_39_word_space_4 | pride swamp gadget celery |  
+| bip_39_word_space_5 | pride swamp gadget celery local |  
+| bip_39_word_space_6 | pride swamp gadget celery local code |  
+| bip_39_word_space_7 | pride swamp gadget celery local code pyramid |  
+| bip_39_word_space_8 | pride swamp gadget celery local code pyramid pig |  
+| bip_39_word_space_9 | pride swamp gadget celery local code pyramid pig motor |  
 | classification | company_oomlout |  
 | classification_capital | Company Oomlout |  
 | classification_first_letter | c |  

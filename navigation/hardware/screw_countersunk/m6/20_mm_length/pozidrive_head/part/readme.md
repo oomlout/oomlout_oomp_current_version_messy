@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: state tortoise
+  * bip 39 word 3: state tortoise ketchup
+  * bip 39 word: state tortoise ketchup require song canoe point guard swing warrior cute armed
 
 ### other_codes
 * short_code: cs6m20pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | state |  
+| bip_39_word_new_br10 | state<br>tortoise<br>ketchup<br>require<br>song<br>canoe<br>point<br>guard<br>swing<br>warrior |  
+| bip_39_word_new_br11 | state<br>tortoise<br>ketchup<br>require<br>song<br>canoe<br>point<br>guard<br>swing<br>warrior<br>cute |  
+| bip_39_word_new_br12 | state<br>tortoise<br>ketchup<br>require<br>song<br>canoe<br>point<br>guard<br>swing<br>warrior<br>cute<br>armed |  
+| bip_39_word_new_br2 | state<br>tortoise |  
+| bip_39_word_new_br3 | state<br>tortoise<br>ketchup |  
+| bip_39_word_new_br4 | state<br>tortoise<br>ketchup<br>require |  
+| bip_39_word_new_br5 | state<br>tortoise<br>ketchup<br>require<br>song |  
+| bip_39_word_new_br6 | state<br>tortoise<br>ketchup<br>require<br>song<br>canoe |  
+| bip_39_word_new_br7 | state<br>tortoise<br>ketchup<br>require<br>song<br>canoe<br>point |  
+| bip_39_word_new_br8 | state<br>tortoise<br>ketchup<br>require<br>song<br>canoe<br>point<br>guard |  
+| bip_39_word_new_br9 | state<br>tortoise<br>ketchup<br>require<br>song<br>canoe<br>point<br>guard<br>swing |  
+| bip_39_word_new_line1 | state |  
+| bip_39_word_new_line10 | state
+tortoise
+ketchup
+require
+song
+canoe
+point
+guard
+swing
+warrior |  
+| bip_39_word_new_line11 | state
+tortoise
+ketchup
+require
+song
+canoe
+point
+guard
+swing
+warrior
+cute |  
+| bip_39_word_new_line12 | state
+tortoise
+ketchup
+require
+song
+canoe
+point
+guard
+swing
+warrior
+cute
+armed |  
+| bip_39_word_new_line2 | state
+tortoise |  
+| bip_39_word_new_line3 | state
+tortoise
+ketchup |  
+| bip_39_word_new_line4 | state
+tortoise
+ketchup
+require |  
+| bip_39_word_new_line5 | state
+tortoise
+ketchup
+require
+song |  
+| bip_39_word_new_line6 | state
+tortoise
+ketchup
+require
+song
+canoe |  
+| bip_39_word_new_line7 | state
+tortoise
+ketchup
+require
+song
+canoe
+point |  
+| bip_39_word_new_line8 | state
+tortoise
+ketchup
+require
+song
+canoe
+point
+guard |  
+| bip_39_word_new_line9 | state
+tortoise
+ketchup
+require
+song
+canoe
+point
+guard
+swing |  
+| bip_39_word_space_0 | ['state', 'tortoise', 'ketchup', 'require', 'song', 'canoe', 'point', 'guard', 'swing', 'warrior', 'cute', 'armed'] |  
+| bip_39_word_space_1 | state |  
+| bip_39_word_space_10 | state tortoise ketchup require song canoe point guard swing warrior |  
+| bip_39_word_space_11 | state tortoise ketchup require song canoe point guard swing warrior cute |  
+| bip_39_word_space_12 | state tortoise ketchup require song canoe point guard swing warrior cute armed |  
+| bip_39_word_space_2 | state tortoise |  
+| bip_39_word_space_3 | state tortoise ketchup |  
+| bip_39_word_space_4 | state tortoise ketchup require |  
+| bip_39_word_space_5 | state tortoise ketchup require song |  
+| bip_39_word_space_6 | state tortoise ketchup require song canoe |  
+| bip_39_word_space_7 | state tortoise ketchup require song canoe point |  
+| bip_39_word_space_8 | state tortoise ketchup require song canoe point guard |  
+| bip_39_word_space_9 | state tortoise ketchup require song canoe point guard swing |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

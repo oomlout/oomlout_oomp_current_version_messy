@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: logic hover
+  * bip 39 word 3: logic hover swarm
+  * bip 39 word: logic hover swarm wage case skirt common pepper inflict virus duck anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | logic |  
+| bip_39_word_new_br10 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus |  
+| bip_39_word_new_br11 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck |  
+| bip_39_word_new_br12 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck<br>anchor |  
+| bip_39_word_new_br2 | logic<br>hover |  
+| bip_39_word_new_br3 | logic<br>hover<br>swarm |  
+| bip_39_word_new_br4 | logic<br>hover<br>swarm<br>wage |  
+| bip_39_word_new_br5 | logic<br>hover<br>swarm<br>wage<br>case |  
+| bip_39_word_new_br6 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt |  
+| bip_39_word_new_br7 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common |  
+| bip_39_word_new_br8 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper |  
+| bip_39_word_new_br9 | logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict |  
+| bip_39_word_new_line1 | logic |  
+| bip_39_word_new_line10 | logic
+hover
+swarm
+wage
+case
+skirt
+common
+pepper
+inflict
+virus |  
+| bip_39_word_new_line11 | logic
+hover
+swarm
+wage
+case
+skirt
+common
+pepper
+inflict
+virus
+duck |  
+| bip_39_word_new_line12 | logic
+hover
+swarm
+wage
+case
+skirt
+common
+pepper
+inflict
+virus
+duck
+anchor |  
+| bip_39_word_new_line2 | logic
+hover |  
+| bip_39_word_new_line3 | logic
+hover
+swarm |  
+| bip_39_word_new_line4 | logic
+hover
+swarm
+wage |  
+| bip_39_word_new_line5 | logic
+hover
+swarm
+wage
+case |  
+| bip_39_word_new_line6 | logic
+hover
+swarm
+wage
+case
+skirt |  
+| bip_39_word_new_line7 | logic
+hover
+swarm
+wage
+case
+skirt
+common |  
+| bip_39_word_new_line8 | logic
+hover
+swarm
+wage
+case
+skirt
+common
+pepper |  
+| bip_39_word_new_line9 | logic
+hover
+swarm
+wage
+case
+skirt
+common
+pepper
+inflict |  
+| bip_39_word_space_0 | ['logic', 'hover', 'swarm', 'wage', 'case', 'skirt', 'common', 'pepper', 'inflict', 'virus', 'duck', 'anchor'] |  
+| bip_39_word_space_1 | logic |  
+| bip_39_word_space_10 | logic hover swarm wage case skirt common pepper inflict virus |  
+| bip_39_word_space_11 | logic hover swarm wage case skirt common pepper inflict virus duck |  
+| bip_39_word_space_12 | logic hover swarm wage case skirt common pepper inflict virus duck anchor |  
+| bip_39_word_space_2 | logic hover |  
+| bip_39_word_space_3 | logic hover swarm |  
+| bip_39_word_space_4 | logic hover swarm wage |  
+| bip_39_word_space_5 | logic hover swarm wage case |  
+| bip_39_word_space_6 | logic hover swarm wage case skirt |  
+| bip_39_word_space_7 | logic hover swarm wage case skirt common |  
+| bip_39_word_space_8 | logic hover swarm wage case skirt common pepper |  
+| bip_39_word_space_9 | logic hover swarm wage case skirt common pepper inflict |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

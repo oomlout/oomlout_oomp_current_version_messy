@@ -1,3 +1,186 @@
+bip_39_word_new_br1: primary
+bip_39_word_new_br10: primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice
+bip_39_word_new_br11: primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice<br>stairs
+bip_39_word_new_br12: primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe<br>slice<br>stairs<br>area
+bip_39_word_new_br2: primary<br>inform
+bip_39_word_new_br3: primary<br>inform<br>once
+bip_39_word_new_br4: primary<br>inform<br>once<br>pulp
+bip_39_word_new_br5: primary<br>inform<br>once<br>pulp<br>helmet
+bip_39_word_new_br6: primary<br>inform<br>once<br>pulp<br>helmet<br>wall
+bip_39_word_new_br7: primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant
+bip_39_word_new_br8: primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew
+bip_39_word_new_br9: primary<br>inform<br>once<br>pulp<br>helmet<br>wall<br>vacant<br>nephew<br>believe
+bip_39_word_new_line1: primary
+bip_39_word_new_line10: 'primary
+
+  inform
+
+  once
+
+  pulp
+
+  helmet
+
+  wall
+
+  vacant
+
+  nephew
+
+  believe
+
+  slice'
+bip_39_word_new_line11: 'primary
+
+  inform
+
+  once
+
+  pulp
+
+  helmet
+
+  wall
+
+  vacant
+
+  nephew
+
+  believe
+
+  slice
+
+  stairs'
+bip_39_word_new_line12: 'primary
+
+  inform
+
+  once
+
+  pulp
+
+  helmet
+
+  wall
+
+  vacant
+
+  nephew
+
+  believe
+
+  slice
+
+  stairs
+
+  area'
+bip_39_word_new_line2: 'primary
+
+  inform'
+bip_39_word_new_line3: 'primary
+
+  inform
+
+  once'
+bip_39_word_new_line4: 'primary
+
+  inform
+
+  once
+
+  pulp'
+bip_39_word_new_line5: 'primary
+
+  inform
+
+  once
+
+  pulp
+
+  helmet'
+bip_39_word_new_line6: 'primary
+
+  inform
+
+  once
+
+  pulp
+
+  helmet
+
+  wall'
+bip_39_word_new_line7: 'primary
+
+  inform
+
+  once
+
+  pulp
+
+  helmet
+
+  wall
+
+  vacant'
+bip_39_word_new_line8: 'primary
+
+  inform
+
+  once
+
+  pulp
+
+  helmet
+
+  wall
+
+  vacant
+
+  nephew'
+bip_39_word_new_line9: 'primary
+
+  inform
+
+  once
+
+  pulp
+
+  helmet
+
+  wall
+
+  vacant
+
+  nephew
+
+  believe'
+bip_39_word_space_0:
+- primary
+- inform
+- once
+- pulp
+- helmet
+- wall
+- vacant
+- nephew
+- believe
+- slice
+- stairs
+- area
+bip_39_word_space_1: primary
+bip_39_word_space_10: primary inform once pulp helmet wall vacant nephew believe slice
+bip_39_word_space_11: primary inform once pulp helmet wall vacant nephew believe slice
+  stairs
+bip_39_word_space_12: primary inform once pulp helmet wall vacant nephew believe slice
+  stairs area
+bip_39_word_space_2: primary inform
+bip_39_word_space_3: primary inform once
+bip_39_word_space_4: primary inform once pulp
+bip_39_word_space_5: primary inform once pulp helmet
+bip_39_word_space_6: primary inform once pulp helmet wall
+bip_39_word_space_7: primary inform once pulp helmet wall vacant
+bip_39_word_space_8: primary inform once pulp helmet wall vacant nephew
+bip_39_word_space_9: primary inform once pulp helmet wall vacant nephew believe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crime slow
+  * bip 39 word 3: crime slow industry
+  * bip 39 word: crime slow industry village shed return always casino worry minimum federal armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crime |  
+| bip_39_word_new_br10 | crime<br>slow<br>industry<br>village<br>shed<br>return<br>always<br>casino<br>worry<br>minimum |  
+| bip_39_word_new_br11 | crime<br>slow<br>industry<br>village<br>shed<br>return<br>always<br>casino<br>worry<br>minimum<br>federal |  
+| bip_39_word_new_br12 | crime<br>slow<br>industry<br>village<br>shed<br>return<br>always<br>casino<br>worry<br>minimum<br>federal<br>armed |  
+| bip_39_word_new_br2 | crime<br>slow |  
+| bip_39_word_new_br3 | crime<br>slow<br>industry |  
+| bip_39_word_new_br4 | crime<br>slow<br>industry<br>village |  
+| bip_39_word_new_br5 | crime<br>slow<br>industry<br>village<br>shed |  
+| bip_39_word_new_br6 | crime<br>slow<br>industry<br>village<br>shed<br>return |  
+| bip_39_word_new_br7 | crime<br>slow<br>industry<br>village<br>shed<br>return<br>always |  
+| bip_39_word_new_br8 | crime<br>slow<br>industry<br>village<br>shed<br>return<br>always<br>casino |  
+| bip_39_word_new_br9 | crime<br>slow<br>industry<br>village<br>shed<br>return<br>always<br>casino<br>worry |  
+| bip_39_word_new_line1 | crime |  
+| bip_39_word_new_line10 | crime
+slow
+industry
+village
+shed
+return
+always
+casino
+worry
+minimum |  
+| bip_39_word_new_line11 | crime
+slow
+industry
+village
+shed
+return
+always
+casino
+worry
+minimum
+federal |  
+| bip_39_word_new_line12 | crime
+slow
+industry
+village
+shed
+return
+always
+casino
+worry
+minimum
+federal
+armed |  
+| bip_39_word_new_line2 | crime
+slow |  
+| bip_39_word_new_line3 | crime
+slow
+industry |  
+| bip_39_word_new_line4 | crime
+slow
+industry
+village |  
+| bip_39_word_new_line5 | crime
+slow
+industry
+village
+shed |  
+| bip_39_word_new_line6 | crime
+slow
+industry
+village
+shed
+return |  
+| bip_39_word_new_line7 | crime
+slow
+industry
+village
+shed
+return
+always |  
+| bip_39_word_new_line8 | crime
+slow
+industry
+village
+shed
+return
+always
+casino |  
+| bip_39_word_new_line9 | crime
+slow
+industry
+village
+shed
+return
+always
+casino
+worry |  
+| bip_39_word_space_0 | ['crime', 'slow', 'industry', 'village', 'shed', 'return', 'always', 'casino', 'worry', 'minimum', 'federal', 'armed'] |  
+| bip_39_word_space_1 | crime |  
+| bip_39_word_space_10 | crime slow industry village shed return always casino worry minimum |  
+| bip_39_word_space_11 | crime slow industry village shed return always casino worry minimum federal |  
+| bip_39_word_space_12 | crime slow industry village shed return always casino worry minimum federal armed |  
+| bip_39_word_space_2 | crime slow |  
+| bip_39_word_space_3 | crime slow industry |  
+| bip_39_word_space_4 | crime slow industry village |  
+| bip_39_word_space_5 | crime slow industry village shed |  
+| bip_39_word_space_6 | crime slow industry village shed return |  
+| bip_39_word_space_7 | crime slow industry village shed return always |  
+| bip_39_word_space_8 | crime slow industry village shed return always casino |  
+| bip_39_word_space_9 | crime slow industry village shed return always casino worry |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

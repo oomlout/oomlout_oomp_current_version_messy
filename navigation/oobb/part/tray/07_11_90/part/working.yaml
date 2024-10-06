@@ -1,3 +1,186 @@
+bip_39_word_new_br1: body
+bip_39_word_new_br10: body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream<br>garden<br>spice<br>churn<br>audit
+bip_39_word_new_br11: body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream<br>garden<br>spice<br>churn<br>audit<br>drift
+bip_39_word_new_br12: body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream<br>garden<br>spice<br>churn<br>audit<br>drift<br>aim
+bip_39_word_new_br2: body<br>scheme
+bip_39_word_new_br3: body<br>scheme<br>slab
+bip_39_word_new_br4: body<br>scheme<br>slab<br>jeans
+bip_39_word_new_br5: body<br>scheme<br>slab<br>jeans<br>inquiry
+bip_39_word_new_br6: body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream
+bip_39_word_new_br7: body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream<br>garden
+bip_39_word_new_br8: body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream<br>garden<br>spice
+bip_39_word_new_br9: body<br>scheme<br>slab<br>jeans<br>inquiry<br>cream<br>garden<br>spice<br>churn
+bip_39_word_new_line1: body
+bip_39_word_new_line10: 'body
+
+  scheme
+
+  slab
+
+  jeans
+
+  inquiry
+
+  cream
+
+  garden
+
+  spice
+
+  churn
+
+  audit'
+bip_39_word_new_line11: 'body
+
+  scheme
+
+  slab
+
+  jeans
+
+  inquiry
+
+  cream
+
+  garden
+
+  spice
+
+  churn
+
+  audit
+
+  drift'
+bip_39_word_new_line12: 'body
+
+  scheme
+
+  slab
+
+  jeans
+
+  inquiry
+
+  cream
+
+  garden
+
+  spice
+
+  churn
+
+  audit
+
+  drift
+
+  aim'
+bip_39_word_new_line2: 'body
+
+  scheme'
+bip_39_word_new_line3: 'body
+
+  scheme
+
+  slab'
+bip_39_word_new_line4: 'body
+
+  scheme
+
+  slab
+
+  jeans'
+bip_39_word_new_line5: 'body
+
+  scheme
+
+  slab
+
+  jeans
+
+  inquiry'
+bip_39_word_new_line6: 'body
+
+  scheme
+
+  slab
+
+  jeans
+
+  inquiry
+
+  cream'
+bip_39_word_new_line7: 'body
+
+  scheme
+
+  slab
+
+  jeans
+
+  inquiry
+
+  cream
+
+  garden'
+bip_39_word_new_line8: 'body
+
+  scheme
+
+  slab
+
+  jeans
+
+  inquiry
+
+  cream
+
+  garden
+
+  spice'
+bip_39_word_new_line9: 'body
+
+  scheme
+
+  slab
+
+  jeans
+
+  inquiry
+
+  cream
+
+  garden
+
+  spice
+
+  churn'
+bip_39_word_space_0:
+- body
+- scheme
+- slab
+- jeans
+- inquiry
+- cream
+- garden
+- spice
+- churn
+- audit
+- drift
+- aim
+bip_39_word_space_1: body
+bip_39_word_space_10: body scheme slab jeans inquiry cream garden spice churn audit
+bip_39_word_space_11: body scheme slab jeans inquiry cream garden spice churn audit
+  drift
+bip_39_word_space_12: body scheme slab jeans inquiry cream garden spice churn audit
+  drift aim
+bip_39_word_space_2: body scheme
+bip_39_word_space_3: body scheme slab
+bip_39_word_space_4: body scheme slab jeans
+bip_39_word_space_5: body scheme slab jeans inquiry
+bip_39_word_space_6: body scheme slab jeans inquiry cream
+bip_39_word_space_7: body scheme slab jeans inquiry cream garden
+bip_39_word_space_8: body scheme slab jeans inquiry cream garden spice
+bip_39_word_space_9: body scheme slab jeans inquiry cream garden spice churn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

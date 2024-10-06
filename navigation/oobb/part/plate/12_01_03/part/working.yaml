@@ -1,3 +1,186 @@
+bip_39_word_new_br1: never
+bip_39_word_new_br10: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable
+bip_39_word_new_br11: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity
+bip_39_word_new_br12: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity<br>adjust
+bip_39_word_new_br2: never<br>width
+bip_39_word_new_br3: never<br>width<br>later
+bip_39_word_new_br4: never<br>width<br>later<br>neither
+bip_39_word_new_br5: never<br>width<br>later<br>neither<br>brain
+bip_39_word_new_br6: never<br>width<br>later<br>neither<br>brain<br>junior
+bip_39_word_new_br7: never<br>width<br>later<br>neither<br>brain<br>junior<br>best
+bip_39_word_new_br8: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region
+bip_39_word_new_br9: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter
+bip_39_word_new_line1: never
+bip_39_word_new_line10: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region
+
+  letter
+
+  cable'
+bip_39_word_new_line11: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region
+
+  letter
+
+  cable
+
+  dignity'
+bip_39_word_new_line12: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region
+
+  letter
+
+  cable
+
+  dignity
+
+  adjust'
+bip_39_word_new_line2: 'never
+
+  width'
+bip_39_word_new_line3: 'never
+
+  width
+
+  later'
+bip_39_word_new_line4: 'never
+
+  width
+
+  later
+
+  neither'
+bip_39_word_new_line5: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain'
+bip_39_word_new_line6: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior'
+bip_39_word_new_line7: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best'
+bip_39_word_new_line8: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region'
+bip_39_word_new_line9: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region
+
+  letter'
+bip_39_word_space_0:
+- never
+- width
+- later
+- neither
+- brain
+- junior
+- best
+- region
+- letter
+- cable
+- dignity
+- adjust
+bip_39_word_space_1: never
+bip_39_word_space_10: never width later neither brain junior best region letter cable
+bip_39_word_space_11: never width later neither brain junior best region letter cable
+  dignity
+bip_39_word_space_12: never width later neither brain junior best region letter cable
+  dignity adjust
+bip_39_word_space_2: never width
+bip_39_word_space_3: never width later
+bip_39_word_space_4: never width later neither
+bip_39_word_space_5: never width later neither brain
+bip_39_word_space_6: never width later neither brain junior
+bip_39_word_space_7: never width later neither brain junior best
+bip_39_word_space_8: never width later neither brain junior best region
+bip_39_word_space_9: never width later neither brain junior best region letter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

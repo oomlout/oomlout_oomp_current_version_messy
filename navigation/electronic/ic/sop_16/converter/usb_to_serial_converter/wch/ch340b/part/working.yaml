@@ -1,3 +1,186 @@
+bip_39_word_new_br1: venue
+bip_39_word_new_br10: venue<br>fantasy<br>story<br>setup<br>palace<br>run<br>glory<br>enrich<br>topic<br>suggest
+bip_39_word_new_br11: venue<br>fantasy<br>story<br>setup<br>palace<br>run<br>glory<br>enrich<br>topic<br>suggest<br>begin
+bip_39_word_new_br12: venue<br>fantasy<br>story<br>setup<br>palace<br>run<br>glory<br>enrich<br>topic<br>suggest<br>begin<br>attitude
+bip_39_word_new_br2: venue<br>fantasy
+bip_39_word_new_br3: venue<br>fantasy<br>story
+bip_39_word_new_br4: venue<br>fantasy<br>story<br>setup
+bip_39_word_new_br5: venue<br>fantasy<br>story<br>setup<br>palace
+bip_39_word_new_br6: venue<br>fantasy<br>story<br>setup<br>palace<br>run
+bip_39_word_new_br7: venue<br>fantasy<br>story<br>setup<br>palace<br>run<br>glory
+bip_39_word_new_br8: venue<br>fantasy<br>story<br>setup<br>palace<br>run<br>glory<br>enrich
+bip_39_word_new_br9: venue<br>fantasy<br>story<br>setup<br>palace<br>run<br>glory<br>enrich<br>topic
+bip_39_word_new_line1: venue
+bip_39_word_new_line10: 'venue
+
+  fantasy
+
+  story
+
+  setup
+
+  palace
+
+  run
+
+  glory
+
+  enrich
+
+  topic
+
+  suggest'
+bip_39_word_new_line11: 'venue
+
+  fantasy
+
+  story
+
+  setup
+
+  palace
+
+  run
+
+  glory
+
+  enrich
+
+  topic
+
+  suggest
+
+  begin'
+bip_39_word_new_line12: 'venue
+
+  fantasy
+
+  story
+
+  setup
+
+  palace
+
+  run
+
+  glory
+
+  enrich
+
+  topic
+
+  suggest
+
+  begin
+
+  attitude'
+bip_39_word_new_line2: 'venue
+
+  fantasy'
+bip_39_word_new_line3: 'venue
+
+  fantasy
+
+  story'
+bip_39_word_new_line4: 'venue
+
+  fantasy
+
+  story
+
+  setup'
+bip_39_word_new_line5: 'venue
+
+  fantasy
+
+  story
+
+  setup
+
+  palace'
+bip_39_word_new_line6: 'venue
+
+  fantasy
+
+  story
+
+  setup
+
+  palace
+
+  run'
+bip_39_word_new_line7: 'venue
+
+  fantasy
+
+  story
+
+  setup
+
+  palace
+
+  run
+
+  glory'
+bip_39_word_new_line8: 'venue
+
+  fantasy
+
+  story
+
+  setup
+
+  palace
+
+  run
+
+  glory
+
+  enrich'
+bip_39_word_new_line9: 'venue
+
+  fantasy
+
+  story
+
+  setup
+
+  palace
+
+  run
+
+  glory
+
+  enrich
+
+  topic'
+bip_39_word_space_0:
+- venue
+- fantasy
+- story
+- setup
+- palace
+- run
+- glory
+- enrich
+- topic
+- suggest
+- begin
+- attitude
+bip_39_word_space_1: venue
+bip_39_word_space_10: venue fantasy story setup palace run glory enrich topic suggest
+bip_39_word_space_11: venue fantasy story setup palace run glory enrich topic suggest
+  begin
+bip_39_word_space_12: venue fantasy story setup palace run glory enrich topic suggest
+  begin attitude
+bip_39_word_space_2: venue fantasy
+bip_39_word_space_3: venue fantasy story
+bip_39_word_space_4: venue fantasy story setup
+bip_39_word_space_5: venue fantasy story setup palace
+bip_39_word_space_6: venue fantasy story setup palace run
+bip_39_word_space_7: venue fantasy story setup palace run glory
+bip_39_word_space_8: venue fantasy story setup palace run glory enrich
+bip_39_word_space_9: venue fantasy story setup palace run glory enrich topic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

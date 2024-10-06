@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: length february
+  * bip 39 word 3: length february warfare
+  * bip 39 word: length february warfare always place clump bulb affair endorse juice brave attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | length |  
+| bip_39_word_new_br10 | length<br>february<br>warfare<br>always<br>place<br>clump<br>bulb<br>affair<br>endorse<br>juice |  
+| bip_39_word_new_br11 | length<br>february<br>warfare<br>always<br>place<br>clump<br>bulb<br>affair<br>endorse<br>juice<br>brave |  
+| bip_39_word_new_br12 | length<br>february<br>warfare<br>always<br>place<br>clump<br>bulb<br>affair<br>endorse<br>juice<br>brave<br>attend |  
+| bip_39_word_new_br2 | length<br>february |  
+| bip_39_word_new_br3 | length<br>february<br>warfare |  
+| bip_39_word_new_br4 | length<br>february<br>warfare<br>always |  
+| bip_39_word_new_br5 | length<br>february<br>warfare<br>always<br>place |  
+| bip_39_word_new_br6 | length<br>february<br>warfare<br>always<br>place<br>clump |  
+| bip_39_word_new_br7 | length<br>february<br>warfare<br>always<br>place<br>clump<br>bulb |  
+| bip_39_word_new_br8 | length<br>february<br>warfare<br>always<br>place<br>clump<br>bulb<br>affair |  
+| bip_39_word_new_br9 | length<br>february<br>warfare<br>always<br>place<br>clump<br>bulb<br>affair<br>endorse |  
+| bip_39_word_new_line1 | length |  
+| bip_39_word_new_line10 | length
+february
+warfare
+always
+place
+clump
+bulb
+affair
+endorse
+juice |  
+| bip_39_word_new_line11 | length
+february
+warfare
+always
+place
+clump
+bulb
+affair
+endorse
+juice
+brave |  
+| bip_39_word_new_line12 | length
+february
+warfare
+always
+place
+clump
+bulb
+affair
+endorse
+juice
+brave
+attend |  
+| bip_39_word_new_line2 | length
+february |  
+| bip_39_word_new_line3 | length
+february
+warfare |  
+| bip_39_word_new_line4 | length
+february
+warfare
+always |  
+| bip_39_word_new_line5 | length
+february
+warfare
+always
+place |  
+| bip_39_word_new_line6 | length
+february
+warfare
+always
+place
+clump |  
+| bip_39_word_new_line7 | length
+february
+warfare
+always
+place
+clump
+bulb |  
+| bip_39_word_new_line8 | length
+february
+warfare
+always
+place
+clump
+bulb
+affair |  
+| bip_39_word_new_line9 | length
+february
+warfare
+always
+place
+clump
+bulb
+affair
+endorse |  
+| bip_39_word_space_0 | ['length', 'february', 'warfare', 'always', 'place', 'clump', 'bulb', 'affair', 'endorse', 'juice', 'brave', 'attend'] |  
+| bip_39_word_space_1 | length |  
+| bip_39_word_space_10 | length february warfare always place clump bulb affair endorse juice |  
+| bip_39_word_space_11 | length february warfare always place clump bulb affair endorse juice brave |  
+| bip_39_word_space_12 | length february warfare always place clump bulb affair endorse juice brave attend |  
+| bip_39_word_space_2 | length february |  
+| bip_39_word_space_3 | length february warfare |  
+| bip_39_word_space_4 | length february warfare always |  
+| bip_39_word_space_5 | length february warfare always place |  
+| bip_39_word_space_6 | length february warfare always place clump |  
+| bip_39_word_space_7 | length february warfare always place clump bulb |  
+| bip_39_word_space_8 | length february warfare always place clump bulb affair |  
+| bip_39_word_space_9 | length february warfare always place clump bulb affair endorse |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

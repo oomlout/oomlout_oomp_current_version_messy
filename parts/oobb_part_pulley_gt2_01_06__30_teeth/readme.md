@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: file ski
+  * bip 39 word 3: file ski light
+  * bip 39 word: file ski light wonder pledge normal good evil scout system reduce absent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | file |  
+| bip_39_word_new_br10 | file<br>ski<br>light<br>wonder<br>pledge<br>normal<br>good<br>evil<br>scout<br>system |  
+| bip_39_word_new_br11 | file<br>ski<br>light<br>wonder<br>pledge<br>normal<br>good<br>evil<br>scout<br>system<br>reduce |  
+| bip_39_word_new_br12 | file<br>ski<br>light<br>wonder<br>pledge<br>normal<br>good<br>evil<br>scout<br>system<br>reduce<br>absent |  
+| bip_39_word_new_br2 | file<br>ski |  
+| bip_39_word_new_br3 | file<br>ski<br>light |  
+| bip_39_word_new_br4 | file<br>ski<br>light<br>wonder |  
+| bip_39_word_new_br5 | file<br>ski<br>light<br>wonder<br>pledge |  
+| bip_39_word_new_br6 | file<br>ski<br>light<br>wonder<br>pledge<br>normal |  
+| bip_39_word_new_br7 | file<br>ski<br>light<br>wonder<br>pledge<br>normal<br>good |  
+| bip_39_word_new_br8 | file<br>ski<br>light<br>wonder<br>pledge<br>normal<br>good<br>evil |  
+| bip_39_word_new_br9 | file<br>ski<br>light<br>wonder<br>pledge<br>normal<br>good<br>evil<br>scout |  
+| bip_39_word_new_line1 | file |  
+| bip_39_word_new_line10 | file
+ski
+light
+wonder
+pledge
+normal
+good
+evil
+scout
+system |  
+| bip_39_word_new_line11 | file
+ski
+light
+wonder
+pledge
+normal
+good
+evil
+scout
+system
+reduce |  
+| bip_39_word_new_line12 | file
+ski
+light
+wonder
+pledge
+normal
+good
+evil
+scout
+system
+reduce
+absent |  
+| bip_39_word_new_line2 | file
+ski |  
+| bip_39_word_new_line3 | file
+ski
+light |  
+| bip_39_word_new_line4 | file
+ski
+light
+wonder |  
+| bip_39_word_new_line5 | file
+ski
+light
+wonder
+pledge |  
+| bip_39_word_new_line6 | file
+ski
+light
+wonder
+pledge
+normal |  
+| bip_39_word_new_line7 | file
+ski
+light
+wonder
+pledge
+normal
+good |  
+| bip_39_word_new_line8 | file
+ski
+light
+wonder
+pledge
+normal
+good
+evil |  
+| bip_39_word_new_line9 | file
+ski
+light
+wonder
+pledge
+normal
+good
+evil
+scout |  
+| bip_39_word_space_0 | ['file', 'ski', 'light', 'wonder', 'pledge', 'normal', 'good', 'evil', 'scout', 'system', 'reduce', 'absent'] |  
+| bip_39_word_space_1 | file |  
+| bip_39_word_space_10 | file ski light wonder pledge normal good evil scout system |  
+| bip_39_word_space_11 | file ski light wonder pledge normal good evil scout system reduce |  
+| bip_39_word_space_12 | file ski light wonder pledge normal good evil scout system reduce absent |  
+| bip_39_word_space_2 | file ski |  
+| bip_39_word_space_3 | file ski light |  
+| bip_39_word_space_4 | file ski light wonder |  
+| bip_39_word_space_5 | file ski light wonder pledge |  
+| bip_39_word_space_6 | file ski light wonder pledge normal |  
+| bip_39_word_space_7 | file ski light wonder pledge normal good |  
+| bip_39_word_space_8 | file ski light wonder pledge normal good evil |  
+| bip_39_word_space_9 | file ski light wonder pledge normal good evil scout |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

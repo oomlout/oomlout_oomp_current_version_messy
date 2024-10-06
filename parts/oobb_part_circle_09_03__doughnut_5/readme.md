@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: citizen unfair
+  * bip 39 word 3: citizen unfair cheap
+  * bip 39 word: citizen unfair cheap amazing aspect put capital stereo point shy frame alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | citizen |  
+| bip_39_word_new_br10 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put<br>capital<br>stereo<br>point<br>shy |  
+| bip_39_word_new_br11 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put<br>capital<br>stereo<br>point<br>shy<br>frame |  
+| bip_39_word_new_br12 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put<br>capital<br>stereo<br>point<br>shy<br>frame<br>alone |  
+| bip_39_word_new_br2 | citizen<br>unfair |  
+| bip_39_word_new_br3 | citizen<br>unfair<br>cheap |  
+| bip_39_word_new_br4 | citizen<br>unfair<br>cheap<br>amazing |  
+| bip_39_word_new_br5 | citizen<br>unfair<br>cheap<br>amazing<br>aspect |  
+| bip_39_word_new_br6 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put |  
+| bip_39_word_new_br7 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put<br>capital |  
+| bip_39_word_new_br8 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put<br>capital<br>stereo |  
+| bip_39_word_new_br9 | citizen<br>unfair<br>cheap<br>amazing<br>aspect<br>put<br>capital<br>stereo<br>point |  
+| bip_39_word_new_line1 | citizen |  
+| bip_39_word_new_line10 | citizen
+unfair
+cheap
+amazing
+aspect
+put
+capital
+stereo
+point
+shy |  
+| bip_39_word_new_line11 | citizen
+unfair
+cheap
+amazing
+aspect
+put
+capital
+stereo
+point
+shy
+frame |  
+| bip_39_word_new_line12 | citizen
+unfair
+cheap
+amazing
+aspect
+put
+capital
+stereo
+point
+shy
+frame
+alone |  
+| bip_39_word_new_line2 | citizen
+unfair |  
+| bip_39_word_new_line3 | citizen
+unfair
+cheap |  
+| bip_39_word_new_line4 | citizen
+unfair
+cheap
+amazing |  
+| bip_39_word_new_line5 | citizen
+unfair
+cheap
+amazing
+aspect |  
+| bip_39_word_new_line6 | citizen
+unfair
+cheap
+amazing
+aspect
+put |  
+| bip_39_word_new_line7 | citizen
+unfair
+cheap
+amazing
+aspect
+put
+capital |  
+| bip_39_word_new_line8 | citizen
+unfair
+cheap
+amazing
+aspect
+put
+capital
+stereo |  
+| bip_39_word_new_line9 | citizen
+unfair
+cheap
+amazing
+aspect
+put
+capital
+stereo
+point |  
+| bip_39_word_space_0 | ['citizen', 'unfair', 'cheap', 'amazing', 'aspect', 'put', 'capital', 'stereo', 'point', 'shy', 'frame', 'alone'] |  
+| bip_39_word_space_1 | citizen |  
+| bip_39_word_space_10 | citizen unfair cheap amazing aspect put capital stereo point shy |  
+| bip_39_word_space_11 | citizen unfair cheap amazing aspect put capital stereo point shy frame |  
+| bip_39_word_space_12 | citizen unfair cheap amazing aspect put capital stereo point shy frame alone |  
+| bip_39_word_space_2 | citizen unfair |  
+| bip_39_word_space_3 | citizen unfair cheap |  
+| bip_39_word_space_4 | citizen unfair cheap amazing |  
+| bip_39_word_space_5 | citizen unfair cheap amazing aspect |  
+| bip_39_word_space_6 | citizen unfair cheap amazing aspect put |  
+| bip_39_word_space_7 | citizen unfair cheap amazing aspect put capital |  
+| bip_39_word_space_8 | citizen unfair cheap amazing aspect put capital stereo |  
+| bip_39_word_space_9 | citizen unfair cheap amazing aspect put capital stereo point |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: motor pitch
+  * bip 39 word 3: motor pitch human
+  * bip 39 word: motor pitch human alley imitate spray core dinner torch wait enjoy author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | motor |  
+| bip_39_word_new_br10 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray<br>core<br>dinner<br>torch<br>wait |  
+| bip_39_word_new_br11 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray<br>core<br>dinner<br>torch<br>wait<br>enjoy |  
+| bip_39_word_new_br12 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray<br>core<br>dinner<br>torch<br>wait<br>enjoy<br>author |  
+| bip_39_word_new_br2 | motor<br>pitch |  
+| bip_39_word_new_br3 | motor<br>pitch<br>human |  
+| bip_39_word_new_br4 | motor<br>pitch<br>human<br>alley |  
+| bip_39_word_new_br5 | motor<br>pitch<br>human<br>alley<br>imitate |  
+| bip_39_word_new_br6 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray |  
+| bip_39_word_new_br7 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray<br>core |  
+| bip_39_word_new_br8 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray<br>core<br>dinner |  
+| bip_39_word_new_br9 | motor<br>pitch<br>human<br>alley<br>imitate<br>spray<br>core<br>dinner<br>torch |  
+| bip_39_word_new_line1 | motor |  
+| bip_39_word_new_line10 | motor
+pitch
+human
+alley
+imitate
+spray
+core
+dinner
+torch
+wait |  
+| bip_39_word_new_line11 | motor
+pitch
+human
+alley
+imitate
+spray
+core
+dinner
+torch
+wait
+enjoy |  
+| bip_39_word_new_line12 | motor
+pitch
+human
+alley
+imitate
+spray
+core
+dinner
+torch
+wait
+enjoy
+author |  
+| bip_39_word_new_line2 | motor
+pitch |  
+| bip_39_word_new_line3 | motor
+pitch
+human |  
+| bip_39_word_new_line4 | motor
+pitch
+human
+alley |  
+| bip_39_word_new_line5 | motor
+pitch
+human
+alley
+imitate |  
+| bip_39_word_new_line6 | motor
+pitch
+human
+alley
+imitate
+spray |  
+| bip_39_word_new_line7 | motor
+pitch
+human
+alley
+imitate
+spray
+core |  
+| bip_39_word_new_line8 | motor
+pitch
+human
+alley
+imitate
+spray
+core
+dinner |  
+| bip_39_word_new_line9 | motor
+pitch
+human
+alley
+imitate
+spray
+core
+dinner
+torch |  
+| bip_39_word_space_0 | ['motor', 'pitch', 'human', 'alley', 'imitate', 'spray', 'core', 'dinner', 'torch', 'wait', 'enjoy', 'author'] |  
+| bip_39_word_space_1 | motor |  
+| bip_39_word_space_10 | motor pitch human alley imitate spray core dinner torch wait |  
+| bip_39_word_space_11 | motor pitch human alley imitate spray core dinner torch wait enjoy |  
+| bip_39_word_space_12 | motor pitch human alley imitate spray core dinner torch wait enjoy author |  
+| bip_39_word_space_2 | motor pitch |  
+| bip_39_word_space_3 | motor pitch human |  
+| bip_39_word_space_4 | motor pitch human alley |  
+| bip_39_word_space_5 | motor pitch human alley imitate |  
+| bip_39_word_space_6 | motor pitch human alley imitate spray |  
+| bip_39_word_space_7 | motor pitch human alley imitate spray core |  
+| bip_39_word_space_8 | motor pitch human alley imitate spray core dinner |  
+| bip_39_word_space_9 | motor pitch human alley imitate spray core dinner torch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

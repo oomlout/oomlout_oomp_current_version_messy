@@ -1,3 +1,185 @@
+bip_39_word_new_br1: merry
+bip_39_word_new_br10: merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where
+bip_39_word_new_br11: merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where<br>language
+bip_39_word_new_br12: merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend<br>where<br>language<br>abuse
+bip_39_word_new_br2: merry<br>toe
+bip_39_word_new_br3: merry<br>toe<br>steak
+bip_39_word_new_br4: merry<br>toe<br>steak<br>wheat
+bip_39_word_new_br5: merry<br>toe<br>steak<br>wheat<br>focus
+bip_39_word_new_br6: merry<br>toe<br>steak<br>wheat<br>focus<br>fade
+bip_39_word_new_br7: merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle
+bip_39_word_new_br8: merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit
+bip_39_word_new_br9: merry<br>toe<br>steak<br>wheat<br>focus<br>fade<br>giggle<br>limit<br>depend
+bip_39_word_new_line1: merry
+bip_39_word_new_line10: 'merry
+
+  toe
+
+  steak
+
+  wheat
+
+  focus
+
+  fade
+
+  giggle
+
+  limit
+
+  depend
+
+  where'
+bip_39_word_new_line11: 'merry
+
+  toe
+
+  steak
+
+  wheat
+
+  focus
+
+  fade
+
+  giggle
+
+  limit
+
+  depend
+
+  where
+
+  language'
+bip_39_word_new_line12: 'merry
+
+  toe
+
+  steak
+
+  wheat
+
+  focus
+
+  fade
+
+  giggle
+
+  limit
+
+  depend
+
+  where
+
+  language
+
+  abuse'
+bip_39_word_new_line2: 'merry
+
+  toe'
+bip_39_word_new_line3: 'merry
+
+  toe
+
+  steak'
+bip_39_word_new_line4: 'merry
+
+  toe
+
+  steak
+
+  wheat'
+bip_39_word_new_line5: 'merry
+
+  toe
+
+  steak
+
+  wheat
+
+  focus'
+bip_39_word_new_line6: 'merry
+
+  toe
+
+  steak
+
+  wheat
+
+  focus
+
+  fade'
+bip_39_word_new_line7: 'merry
+
+  toe
+
+  steak
+
+  wheat
+
+  focus
+
+  fade
+
+  giggle'
+bip_39_word_new_line8: 'merry
+
+  toe
+
+  steak
+
+  wheat
+
+  focus
+
+  fade
+
+  giggle
+
+  limit'
+bip_39_word_new_line9: 'merry
+
+  toe
+
+  steak
+
+  wheat
+
+  focus
+
+  fade
+
+  giggle
+
+  limit
+
+  depend'
+bip_39_word_space_0:
+- merry
+- toe
+- steak
+- wheat
+- focus
+- fade
+- giggle
+- limit
+- depend
+- where
+- language
+- abuse
+bip_39_word_space_1: merry
+bip_39_word_space_10: merry toe steak wheat focus fade giggle limit depend where
+bip_39_word_space_11: merry toe steak wheat focus fade giggle limit depend where language
+bip_39_word_space_12: merry toe steak wheat focus fade giggle limit depend where language
+  abuse
+bip_39_word_space_2: merry toe
+bip_39_word_space_3: merry toe steak
+bip_39_word_space_4: merry toe steak wheat
+bip_39_word_space_5: merry toe steak wheat focus
+bip_39_word_space_6: merry toe steak wheat focus fade
+bip_39_word_space_7: merry toe steak wheat focus fade giggle
+bip_39_word_space_8: merry toe steak wheat focus fade giggle limit
+bip_39_word_space_9: merry toe steak wheat focus fade giggle limit depend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

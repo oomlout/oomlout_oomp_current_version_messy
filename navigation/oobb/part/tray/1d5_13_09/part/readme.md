@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: advice blind
+  * bip 39 word 3: advice blind label
+  * bip 39 word: advice blind label wheat aware jeans wide promote document license chicken above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | advice |  
+| bip_39_word_new_br10 | advice<br>blind<br>label<br>wheat<br>aware<br>jeans<br>wide<br>promote<br>document<br>license |  
+| bip_39_word_new_br11 | advice<br>blind<br>label<br>wheat<br>aware<br>jeans<br>wide<br>promote<br>document<br>license<br>chicken |  
+| bip_39_word_new_br12 | advice<br>blind<br>label<br>wheat<br>aware<br>jeans<br>wide<br>promote<br>document<br>license<br>chicken<br>above |  
+| bip_39_word_new_br2 | advice<br>blind |  
+| bip_39_word_new_br3 | advice<br>blind<br>label |  
+| bip_39_word_new_br4 | advice<br>blind<br>label<br>wheat |  
+| bip_39_word_new_br5 | advice<br>blind<br>label<br>wheat<br>aware |  
+| bip_39_word_new_br6 | advice<br>blind<br>label<br>wheat<br>aware<br>jeans |  
+| bip_39_word_new_br7 | advice<br>blind<br>label<br>wheat<br>aware<br>jeans<br>wide |  
+| bip_39_word_new_br8 | advice<br>blind<br>label<br>wheat<br>aware<br>jeans<br>wide<br>promote |  
+| bip_39_word_new_br9 | advice<br>blind<br>label<br>wheat<br>aware<br>jeans<br>wide<br>promote<br>document |  
+| bip_39_word_new_line1 | advice |  
+| bip_39_word_new_line10 | advice
+blind
+label
+wheat
+aware
+jeans
+wide
+promote
+document
+license |  
+| bip_39_word_new_line11 | advice
+blind
+label
+wheat
+aware
+jeans
+wide
+promote
+document
+license
+chicken |  
+| bip_39_word_new_line12 | advice
+blind
+label
+wheat
+aware
+jeans
+wide
+promote
+document
+license
+chicken
+above |  
+| bip_39_word_new_line2 | advice
+blind |  
+| bip_39_word_new_line3 | advice
+blind
+label |  
+| bip_39_word_new_line4 | advice
+blind
+label
+wheat |  
+| bip_39_word_new_line5 | advice
+blind
+label
+wheat
+aware |  
+| bip_39_word_new_line6 | advice
+blind
+label
+wheat
+aware
+jeans |  
+| bip_39_word_new_line7 | advice
+blind
+label
+wheat
+aware
+jeans
+wide |  
+| bip_39_word_new_line8 | advice
+blind
+label
+wheat
+aware
+jeans
+wide
+promote |  
+| bip_39_word_new_line9 | advice
+blind
+label
+wheat
+aware
+jeans
+wide
+promote
+document |  
+| bip_39_word_space_0 | ['advice', 'blind', 'label', 'wheat', 'aware', 'jeans', 'wide', 'promote', 'document', 'license', 'chicken', 'above'] |  
+| bip_39_word_space_1 | advice |  
+| bip_39_word_space_10 | advice blind label wheat aware jeans wide promote document license |  
+| bip_39_word_space_11 | advice blind label wheat aware jeans wide promote document license chicken |  
+| bip_39_word_space_12 | advice blind label wheat aware jeans wide promote document license chicken above |  
+| bip_39_word_space_2 | advice blind |  
+| bip_39_word_space_3 | advice blind label |  
+| bip_39_word_space_4 | advice blind label wheat |  
+| bip_39_word_space_5 | advice blind label wheat aware |  
+| bip_39_word_space_6 | advice blind label wheat aware jeans |  
+| bip_39_word_space_7 | advice blind label wheat aware jeans wide |  
+| bip_39_word_space_8 | advice blind label wheat aware jeans wide promote |  
+| bip_39_word_space_9 | advice blind label wheat aware jeans wide promote document |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

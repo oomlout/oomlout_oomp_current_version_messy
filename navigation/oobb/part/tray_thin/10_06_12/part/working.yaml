@@ -1,3 +1,187 @@
+bip_39_word_new_br1: vanish
+bip_39_word_new_br10: vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above
+bip_39_word_new_br11: vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above<br>scrub
+bip_39_word_new_br12: vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal<br>above<br>scrub<br>again
+bip_39_word_new_br2: vanish<br>congress
+bip_39_word_new_br3: vanish<br>congress<br>moment
+bip_39_word_new_br4: vanish<br>congress<br>moment<br>round
+bip_39_word_new_br5: vanish<br>congress<br>moment<br>round<br>south
+bip_39_word_new_br6: vanish<br>congress<br>moment<br>round<br>south<br>april
+bip_39_word_new_br7: vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry
+bip_39_word_new_br8: vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage
+bip_39_word_new_br9: vanish<br>congress<br>moment<br>round<br>south<br>april<br>inquiry<br>cage<br>animal
+bip_39_word_new_line1: vanish
+bip_39_word_new_line10: 'vanish
+
+  congress
+
+  moment
+
+  round
+
+  south
+
+  april
+
+  inquiry
+
+  cage
+
+  animal
+
+  above'
+bip_39_word_new_line11: 'vanish
+
+  congress
+
+  moment
+
+  round
+
+  south
+
+  april
+
+  inquiry
+
+  cage
+
+  animal
+
+  above
+
+  scrub'
+bip_39_word_new_line12: 'vanish
+
+  congress
+
+  moment
+
+  round
+
+  south
+
+  april
+
+  inquiry
+
+  cage
+
+  animal
+
+  above
+
+  scrub
+
+  again'
+bip_39_word_new_line2: 'vanish
+
+  congress'
+bip_39_word_new_line3: 'vanish
+
+  congress
+
+  moment'
+bip_39_word_new_line4: 'vanish
+
+  congress
+
+  moment
+
+  round'
+bip_39_word_new_line5: 'vanish
+
+  congress
+
+  moment
+
+  round
+
+  south'
+bip_39_word_new_line6: 'vanish
+
+  congress
+
+  moment
+
+  round
+
+  south
+
+  april'
+bip_39_word_new_line7: 'vanish
+
+  congress
+
+  moment
+
+  round
+
+  south
+
+  april
+
+  inquiry'
+bip_39_word_new_line8: 'vanish
+
+  congress
+
+  moment
+
+  round
+
+  south
+
+  april
+
+  inquiry
+
+  cage'
+bip_39_word_new_line9: 'vanish
+
+  congress
+
+  moment
+
+  round
+
+  south
+
+  april
+
+  inquiry
+
+  cage
+
+  animal'
+bip_39_word_space_0:
+- vanish
+- congress
+- moment
+- round
+- south
+- april
+- inquiry
+- cage
+- animal
+- above
+- scrub
+- again
+bip_39_word_space_1: vanish
+bip_39_word_space_10: vanish congress moment round south april inquiry cage animal
+  above
+bip_39_word_space_11: vanish congress moment round south april inquiry cage animal
+  above scrub
+bip_39_word_space_12: vanish congress moment round south april inquiry cage animal
+  above scrub again
+bip_39_word_space_2: vanish congress
+bip_39_word_space_3: vanish congress moment
+bip_39_word_space_4: vanish congress moment round
+bip_39_word_space_5: vanish congress moment round south
+bip_39_word_space_6: vanish congress moment round south april
+bip_39_word_space_7: vanish congress moment round south april inquiry
+bip_39_word_space_8: vanish congress moment round south april inquiry cage
+bip_39_word_space_9: vanish congress moment round south april inquiry cage animal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

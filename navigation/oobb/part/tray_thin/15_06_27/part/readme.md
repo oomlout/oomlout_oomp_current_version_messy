@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: initial all
+  * bip 39 word 3: initial all fall
+  * bip 39 word: initial all fall approve hover champion earth session pigeon fiction search antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | initial |  
+| bip_39_word_new_br10 | initial<br>all<br>fall<br>approve<br>hover<br>champion<br>earth<br>session<br>pigeon<br>fiction |  
+| bip_39_word_new_br11 | initial<br>all<br>fall<br>approve<br>hover<br>champion<br>earth<br>session<br>pigeon<br>fiction<br>search |  
+| bip_39_word_new_br12 | initial<br>all<br>fall<br>approve<br>hover<br>champion<br>earth<br>session<br>pigeon<br>fiction<br>search<br>antenna |  
+| bip_39_word_new_br2 | initial<br>all |  
+| bip_39_word_new_br3 | initial<br>all<br>fall |  
+| bip_39_word_new_br4 | initial<br>all<br>fall<br>approve |  
+| bip_39_word_new_br5 | initial<br>all<br>fall<br>approve<br>hover |  
+| bip_39_word_new_br6 | initial<br>all<br>fall<br>approve<br>hover<br>champion |  
+| bip_39_word_new_br7 | initial<br>all<br>fall<br>approve<br>hover<br>champion<br>earth |  
+| bip_39_word_new_br8 | initial<br>all<br>fall<br>approve<br>hover<br>champion<br>earth<br>session |  
+| bip_39_word_new_br9 | initial<br>all<br>fall<br>approve<br>hover<br>champion<br>earth<br>session<br>pigeon |  
+| bip_39_word_new_line1 | initial |  
+| bip_39_word_new_line10 | initial
+all
+fall
+approve
+hover
+champion
+earth
+session
+pigeon
+fiction |  
+| bip_39_word_new_line11 | initial
+all
+fall
+approve
+hover
+champion
+earth
+session
+pigeon
+fiction
+search |  
+| bip_39_word_new_line12 | initial
+all
+fall
+approve
+hover
+champion
+earth
+session
+pigeon
+fiction
+search
+antenna |  
+| bip_39_word_new_line2 | initial
+all |  
+| bip_39_word_new_line3 | initial
+all
+fall |  
+| bip_39_word_new_line4 | initial
+all
+fall
+approve |  
+| bip_39_word_new_line5 | initial
+all
+fall
+approve
+hover |  
+| bip_39_word_new_line6 | initial
+all
+fall
+approve
+hover
+champion |  
+| bip_39_word_new_line7 | initial
+all
+fall
+approve
+hover
+champion
+earth |  
+| bip_39_word_new_line8 | initial
+all
+fall
+approve
+hover
+champion
+earth
+session |  
+| bip_39_word_new_line9 | initial
+all
+fall
+approve
+hover
+champion
+earth
+session
+pigeon |  
+| bip_39_word_space_0 | ['initial', 'all', 'fall', 'approve', 'hover', 'champion', 'earth', 'session', 'pigeon', 'fiction', 'search', 'antenna'] |  
+| bip_39_word_space_1 | initial |  
+| bip_39_word_space_10 | initial all fall approve hover champion earth session pigeon fiction |  
+| bip_39_word_space_11 | initial all fall approve hover champion earth session pigeon fiction search |  
+| bip_39_word_space_12 | initial all fall approve hover champion earth session pigeon fiction search antenna |  
+| bip_39_word_space_2 | initial all |  
+| bip_39_word_space_3 | initial all fall |  
+| bip_39_word_space_4 | initial all fall approve |  
+| bip_39_word_space_5 | initial all fall approve hover |  
+| bip_39_word_space_6 | initial all fall approve hover champion |  
+| bip_39_word_space_7 | initial all fall approve hover champion earth |  
+| bip_39_word_space_8 | initial all fall approve hover champion earth session |  
+| bip_39_word_space_9 | initial all fall approve hover champion earth session pigeon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

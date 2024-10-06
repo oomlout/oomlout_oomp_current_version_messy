@@ -1,3 +1,186 @@
+bip_39_word_new_br1: size
+bip_39_word_new_br10: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ
+bip_39_word_new_br11: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ<br>swarm
+bip_39_word_new_br12: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower<br>organ<br>swarm<br>always
+bip_39_word_new_br2: size<br>brisk
+bip_39_word_new_br3: size<br>brisk<br>inject
+bip_39_word_new_br4: size<br>brisk<br>inject<br>volcano
+bip_39_word_new_br5: size<br>brisk<br>inject<br>volcano<br>grocery
+bip_39_word_new_br6: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony
+bip_39_word_new_br7: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk
+bip_39_word_new_br8: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible
+bip_39_word_new_br9: size<br>brisk<br>inject<br>volcano<br>grocery<br>pony<br>hawk<br>possible<br>tower
+bip_39_word_new_line1: size
+bip_39_word_new_line10: 'size
+
+  brisk
+
+  inject
+
+  volcano
+
+  grocery
+
+  pony
+
+  hawk
+
+  possible
+
+  tower
+
+  organ'
+bip_39_word_new_line11: 'size
+
+  brisk
+
+  inject
+
+  volcano
+
+  grocery
+
+  pony
+
+  hawk
+
+  possible
+
+  tower
+
+  organ
+
+  swarm'
+bip_39_word_new_line12: 'size
+
+  brisk
+
+  inject
+
+  volcano
+
+  grocery
+
+  pony
+
+  hawk
+
+  possible
+
+  tower
+
+  organ
+
+  swarm
+
+  always'
+bip_39_word_new_line2: 'size
+
+  brisk'
+bip_39_word_new_line3: 'size
+
+  brisk
+
+  inject'
+bip_39_word_new_line4: 'size
+
+  brisk
+
+  inject
+
+  volcano'
+bip_39_word_new_line5: 'size
+
+  brisk
+
+  inject
+
+  volcano
+
+  grocery'
+bip_39_word_new_line6: 'size
+
+  brisk
+
+  inject
+
+  volcano
+
+  grocery
+
+  pony'
+bip_39_word_new_line7: 'size
+
+  brisk
+
+  inject
+
+  volcano
+
+  grocery
+
+  pony
+
+  hawk'
+bip_39_word_new_line8: 'size
+
+  brisk
+
+  inject
+
+  volcano
+
+  grocery
+
+  pony
+
+  hawk
+
+  possible'
+bip_39_word_new_line9: 'size
+
+  brisk
+
+  inject
+
+  volcano
+
+  grocery
+
+  pony
+
+  hawk
+
+  possible
+
+  tower'
+bip_39_word_space_0:
+- size
+- brisk
+- inject
+- volcano
+- grocery
+- pony
+- hawk
+- possible
+- tower
+- organ
+- swarm
+- always
+bip_39_word_space_1: size
+bip_39_word_space_10: size brisk inject volcano grocery pony hawk possible tower organ
+bip_39_word_space_11: size brisk inject volcano grocery pony hawk possible tower organ
+  swarm
+bip_39_word_space_12: size brisk inject volcano grocery pony hawk possible tower organ
+  swarm always
+bip_39_word_space_2: size brisk
+bip_39_word_space_3: size brisk inject
+bip_39_word_space_4: size brisk inject volcano
+bip_39_word_space_5: size brisk inject volcano grocery
+bip_39_word_space_6: size brisk inject volcano grocery pony
+bip_39_word_space_7: size brisk inject volcano grocery pony hawk
+bip_39_word_space_8: size brisk inject volcano grocery pony hawk possible
+bip_39_word_space_9: size brisk inject volcano grocery pony hawk possible tower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

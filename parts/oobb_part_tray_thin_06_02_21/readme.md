@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spirit before
+  * bip 39 word 3: spirit before speed
+  * bip 39 word: spirit before speed screen juice flight oblige mule flower emerge version aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spirit |  
+| bip_39_word_new_br10 | spirit<br>before<br>speed<br>screen<br>juice<br>flight<br>oblige<br>mule<br>flower<br>emerge |  
+| bip_39_word_new_br11 | spirit<br>before<br>speed<br>screen<br>juice<br>flight<br>oblige<br>mule<br>flower<br>emerge<br>version |  
+| bip_39_word_new_br12 | spirit<br>before<br>speed<br>screen<br>juice<br>flight<br>oblige<br>mule<br>flower<br>emerge<br>version<br>aim |  
+| bip_39_word_new_br2 | spirit<br>before |  
+| bip_39_word_new_br3 | spirit<br>before<br>speed |  
+| bip_39_word_new_br4 | spirit<br>before<br>speed<br>screen |  
+| bip_39_word_new_br5 | spirit<br>before<br>speed<br>screen<br>juice |  
+| bip_39_word_new_br6 | spirit<br>before<br>speed<br>screen<br>juice<br>flight |  
+| bip_39_word_new_br7 | spirit<br>before<br>speed<br>screen<br>juice<br>flight<br>oblige |  
+| bip_39_word_new_br8 | spirit<br>before<br>speed<br>screen<br>juice<br>flight<br>oblige<br>mule |  
+| bip_39_word_new_br9 | spirit<br>before<br>speed<br>screen<br>juice<br>flight<br>oblige<br>mule<br>flower |  
+| bip_39_word_new_line1 | spirit |  
+| bip_39_word_new_line10 | spirit
+before
+speed
+screen
+juice
+flight
+oblige
+mule
+flower
+emerge |  
+| bip_39_word_new_line11 | spirit
+before
+speed
+screen
+juice
+flight
+oblige
+mule
+flower
+emerge
+version |  
+| bip_39_word_new_line12 | spirit
+before
+speed
+screen
+juice
+flight
+oblige
+mule
+flower
+emerge
+version
+aim |  
+| bip_39_word_new_line2 | spirit
+before |  
+| bip_39_word_new_line3 | spirit
+before
+speed |  
+| bip_39_word_new_line4 | spirit
+before
+speed
+screen |  
+| bip_39_word_new_line5 | spirit
+before
+speed
+screen
+juice |  
+| bip_39_word_new_line6 | spirit
+before
+speed
+screen
+juice
+flight |  
+| bip_39_word_new_line7 | spirit
+before
+speed
+screen
+juice
+flight
+oblige |  
+| bip_39_word_new_line8 | spirit
+before
+speed
+screen
+juice
+flight
+oblige
+mule |  
+| bip_39_word_new_line9 | spirit
+before
+speed
+screen
+juice
+flight
+oblige
+mule
+flower |  
+| bip_39_word_space_0 | ['spirit', 'before', 'speed', 'screen', 'juice', 'flight', 'oblige', 'mule', 'flower', 'emerge', 'version', 'aim'] |  
+| bip_39_word_space_1 | spirit |  
+| bip_39_word_space_10 | spirit before speed screen juice flight oblige mule flower emerge |  
+| bip_39_word_space_11 | spirit before speed screen juice flight oblige mule flower emerge version |  
+| bip_39_word_space_12 | spirit before speed screen juice flight oblige mule flower emerge version aim |  
+| bip_39_word_space_2 | spirit before |  
+| bip_39_word_space_3 | spirit before speed |  
+| bip_39_word_space_4 | spirit before speed screen |  
+| bip_39_word_space_5 | spirit before speed screen juice |  
+| bip_39_word_space_6 | spirit before speed screen juice flight |  
+| bip_39_word_space_7 | spirit before speed screen juice flight oblige |  
+| bip_39_word_space_8 | spirit before speed screen juice flight oblige mule |  
+| bip_39_word_space_9 | spirit before speed screen juice flight oblige mule flower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

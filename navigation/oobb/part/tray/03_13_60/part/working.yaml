@@ -1,3 +1,185 @@
+bip_39_word_new_br1: winter
+bip_39_word_new_br10: winter<br>size<br>torch<br>enlist<br>solar<br>table<br>much<br>coach<br>camp<br>solar
+bip_39_word_new_br11: winter<br>size<br>torch<br>enlist<br>solar<br>table<br>much<br>coach<br>camp<br>solar<br>gold
+bip_39_word_new_br12: winter<br>size<br>torch<br>enlist<br>solar<br>table<br>much<br>coach<br>camp<br>solar<br>gold<br>alone
+bip_39_word_new_br2: winter<br>size
+bip_39_word_new_br3: winter<br>size<br>torch
+bip_39_word_new_br4: winter<br>size<br>torch<br>enlist
+bip_39_word_new_br5: winter<br>size<br>torch<br>enlist<br>solar
+bip_39_word_new_br6: winter<br>size<br>torch<br>enlist<br>solar<br>table
+bip_39_word_new_br7: winter<br>size<br>torch<br>enlist<br>solar<br>table<br>much
+bip_39_word_new_br8: winter<br>size<br>torch<br>enlist<br>solar<br>table<br>much<br>coach
+bip_39_word_new_br9: winter<br>size<br>torch<br>enlist<br>solar<br>table<br>much<br>coach<br>camp
+bip_39_word_new_line1: winter
+bip_39_word_new_line10: 'winter
+
+  size
+
+  torch
+
+  enlist
+
+  solar
+
+  table
+
+  much
+
+  coach
+
+  camp
+
+  solar'
+bip_39_word_new_line11: 'winter
+
+  size
+
+  torch
+
+  enlist
+
+  solar
+
+  table
+
+  much
+
+  coach
+
+  camp
+
+  solar
+
+  gold'
+bip_39_word_new_line12: 'winter
+
+  size
+
+  torch
+
+  enlist
+
+  solar
+
+  table
+
+  much
+
+  coach
+
+  camp
+
+  solar
+
+  gold
+
+  alone'
+bip_39_word_new_line2: 'winter
+
+  size'
+bip_39_word_new_line3: 'winter
+
+  size
+
+  torch'
+bip_39_word_new_line4: 'winter
+
+  size
+
+  torch
+
+  enlist'
+bip_39_word_new_line5: 'winter
+
+  size
+
+  torch
+
+  enlist
+
+  solar'
+bip_39_word_new_line6: 'winter
+
+  size
+
+  torch
+
+  enlist
+
+  solar
+
+  table'
+bip_39_word_new_line7: 'winter
+
+  size
+
+  torch
+
+  enlist
+
+  solar
+
+  table
+
+  much'
+bip_39_word_new_line8: 'winter
+
+  size
+
+  torch
+
+  enlist
+
+  solar
+
+  table
+
+  much
+
+  coach'
+bip_39_word_new_line9: 'winter
+
+  size
+
+  torch
+
+  enlist
+
+  solar
+
+  table
+
+  much
+
+  coach
+
+  camp'
+bip_39_word_space_0:
+- winter
+- size
+- torch
+- enlist
+- solar
+- table
+- much
+- coach
+- camp
+- solar
+- gold
+- alone
+bip_39_word_space_1: winter
+bip_39_word_space_10: winter size torch enlist solar table much coach camp solar
+bip_39_word_space_11: winter size torch enlist solar table much coach camp solar gold
+bip_39_word_space_12: winter size torch enlist solar table much coach camp solar gold
+  alone
+bip_39_word_space_2: winter size
+bip_39_word_space_3: winter size torch
+bip_39_word_space_4: winter size torch enlist
+bip_39_word_space_5: winter size torch enlist solar
+bip_39_word_space_6: winter size torch enlist solar table
+bip_39_word_space_7: winter size torch enlist solar table much
+bip_39_word_space_8: winter size torch enlist solar table much coach
+bip_39_word_space_9: winter size torch enlist solar table much coach camp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

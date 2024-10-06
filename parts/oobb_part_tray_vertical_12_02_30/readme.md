@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: salute iron
+  * bip 39 word 3: salute iron height
+  * bip 39 word: salute iron height round skull tragic bar finger way forum cloud attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | salute |  
+| bip_39_word_new_br10 | salute<br>iron<br>height<br>round<br>skull<br>tragic<br>bar<br>finger<br>way<br>forum |  
+| bip_39_word_new_br11 | salute<br>iron<br>height<br>round<br>skull<br>tragic<br>bar<br>finger<br>way<br>forum<br>cloud |  
+| bip_39_word_new_br12 | salute<br>iron<br>height<br>round<br>skull<br>tragic<br>bar<br>finger<br>way<br>forum<br>cloud<br>attract |  
+| bip_39_word_new_br2 | salute<br>iron |  
+| bip_39_word_new_br3 | salute<br>iron<br>height |  
+| bip_39_word_new_br4 | salute<br>iron<br>height<br>round |  
+| bip_39_word_new_br5 | salute<br>iron<br>height<br>round<br>skull |  
+| bip_39_word_new_br6 | salute<br>iron<br>height<br>round<br>skull<br>tragic |  
+| bip_39_word_new_br7 | salute<br>iron<br>height<br>round<br>skull<br>tragic<br>bar |  
+| bip_39_word_new_br8 | salute<br>iron<br>height<br>round<br>skull<br>tragic<br>bar<br>finger |  
+| bip_39_word_new_br9 | salute<br>iron<br>height<br>round<br>skull<br>tragic<br>bar<br>finger<br>way |  
+| bip_39_word_new_line1 | salute |  
+| bip_39_word_new_line10 | salute
+iron
+height
+round
+skull
+tragic
+bar
+finger
+way
+forum |  
+| bip_39_word_new_line11 | salute
+iron
+height
+round
+skull
+tragic
+bar
+finger
+way
+forum
+cloud |  
+| bip_39_word_new_line12 | salute
+iron
+height
+round
+skull
+tragic
+bar
+finger
+way
+forum
+cloud
+attract |  
+| bip_39_word_new_line2 | salute
+iron |  
+| bip_39_word_new_line3 | salute
+iron
+height |  
+| bip_39_word_new_line4 | salute
+iron
+height
+round |  
+| bip_39_word_new_line5 | salute
+iron
+height
+round
+skull |  
+| bip_39_word_new_line6 | salute
+iron
+height
+round
+skull
+tragic |  
+| bip_39_word_new_line7 | salute
+iron
+height
+round
+skull
+tragic
+bar |  
+| bip_39_word_new_line8 | salute
+iron
+height
+round
+skull
+tragic
+bar
+finger |  
+| bip_39_word_new_line9 | salute
+iron
+height
+round
+skull
+tragic
+bar
+finger
+way |  
+| bip_39_word_space_0 | ['salute', 'iron', 'height', 'round', 'skull', 'tragic', 'bar', 'finger', 'way', 'forum', 'cloud', 'attract'] |  
+| bip_39_word_space_1 | salute |  
+| bip_39_word_space_10 | salute iron height round skull tragic bar finger way forum |  
+| bip_39_word_space_11 | salute iron height round skull tragic bar finger way forum cloud |  
+| bip_39_word_space_12 | salute iron height round skull tragic bar finger way forum cloud attract |  
+| bip_39_word_space_2 | salute iron |  
+| bip_39_word_space_3 | salute iron height |  
+| bip_39_word_space_4 | salute iron height round |  
+| bip_39_word_space_5 | salute iron height round skull |  
+| bip_39_word_space_6 | salute iron height round skull tragic |  
+| bip_39_word_space_7 | salute iron height round skull tragic bar |  
+| bip_39_word_space_8 | salute iron height round skull tragic bar finger |  
+| bip_39_word_space_9 | salute iron height round skull tragic bar finger way |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fuel
+bip_39_word_new_br10: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe<br>cause<br>ranch<br>brisk<br>basic
+bip_39_word_new_br11: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe<br>cause<br>ranch<br>brisk<br>basic<br>ride
+bip_39_word_new_br12: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe<br>cause<br>ranch<br>brisk<br>basic<br>ride<br>auto
+bip_39_word_new_br2: fuel<br>acoustic
+bip_39_word_new_br3: fuel<br>acoustic<br>peace
+bip_39_word_new_br4: fuel<br>acoustic<br>peace<br>mirror
+bip_39_word_new_br5: fuel<br>acoustic<br>peace<br>mirror<br>couch
+bip_39_word_new_br6: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe
+bip_39_word_new_br7: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe<br>cause
+bip_39_word_new_br8: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe<br>cause<br>ranch
+bip_39_word_new_br9: fuel<br>acoustic<br>peace<br>mirror<br>couch<br>toe<br>cause<br>ranch<br>brisk
+bip_39_word_new_line1: fuel
+bip_39_word_new_line10: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror
+
+  couch
+
+  toe
+
+  cause
+
+  ranch
+
+  brisk
+
+  basic'
+bip_39_word_new_line11: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror
+
+  couch
+
+  toe
+
+  cause
+
+  ranch
+
+  brisk
+
+  basic
+
+  ride'
+bip_39_word_new_line12: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror
+
+  couch
+
+  toe
+
+  cause
+
+  ranch
+
+  brisk
+
+  basic
+
+  ride
+
+  auto'
+bip_39_word_new_line2: 'fuel
+
+  acoustic'
+bip_39_word_new_line3: 'fuel
+
+  acoustic
+
+  peace'
+bip_39_word_new_line4: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror'
+bip_39_word_new_line5: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror
+
+  couch'
+bip_39_word_new_line6: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror
+
+  couch
+
+  toe'
+bip_39_word_new_line7: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror
+
+  couch
+
+  toe
+
+  cause'
+bip_39_word_new_line8: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror
+
+  couch
+
+  toe
+
+  cause
+
+  ranch'
+bip_39_word_new_line9: 'fuel
+
+  acoustic
+
+  peace
+
+  mirror
+
+  couch
+
+  toe
+
+  cause
+
+  ranch
+
+  brisk'
+bip_39_word_space_0:
+- fuel
+- acoustic
+- peace
+- mirror
+- couch
+- toe
+- cause
+- ranch
+- brisk
+- basic
+- ride
+- auto
+bip_39_word_space_1: fuel
+bip_39_word_space_10: fuel acoustic peace mirror couch toe cause ranch brisk basic
+bip_39_word_space_11: fuel acoustic peace mirror couch toe cause ranch brisk basic
+  ride
+bip_39_word_space_12: fuel acoustic peace mirror couch toe cause ranch brisk basic
+  ride auto
+bip_39_word_space_2: fuel acoustic
+bip_39_word_space_3: fuel acoustic peace
+bip_39_word_space_4: fuel acoustic peace mirror
+bip_39_word_space_5: fuel acoustic peace mirror couch
+bip_39_word_space_6: fuel acoustic peace mirror couch toe
+bip_39_word_space_7: fuel acoustic peace mirror couch toe cause
+bip_39_word_space_8: fuel acoustic peace mirror couch toe cause ranch
+bip_39_word_space_9: fuel acoustic peace mirror couch toe cause ranch brisk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

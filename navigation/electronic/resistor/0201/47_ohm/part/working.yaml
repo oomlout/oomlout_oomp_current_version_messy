@@ -1,3 +1,186 @@
+bip_39_word_new_br1: indicate
+bip_39_word_new_br10: indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify
+bip_39_word_new_br11: indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify<br>recipe
+bip_39_word_new_br12: indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil<br>clarify<br>recipe<br>album
+bip_39_word_new_br2: indicate<br>window
+bip_39_word_new_br3: indicate<br>window<br>air
+bip_39_word_new_br4: indicate<br>window<br>air<br>tent
+bip_39_word_new_br5: indicate<br>window<br>air<br>tent<br>meat
+bip_39_word_new_br6: indicate<br>window<br>air<br>tent<br>meat<br>fancy
+bip_39_word_new_br7: indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk
+bip_39_word_new_br8: indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior
+bip_39_word_new_br9: indicate<br>window<br>air<br>tent<br>meat<br>fancy<br>chunk<br>junior<br>coil
+bip_39_word_new_line1: indicate
+bip_39_word_new_line10: 'indicate
+
+  window
+
+  air
+
+  tent
+
+  meat
+
+  fancy
+
+  chunk
+
+  junior
+
+  coil
+
+  clarify'
+bip_39_word_new_line11: 'indicate
+
+  window
+
+  air
+
+  tent
+
+  meat
+
+  fancy
+
+  chunk
+
+  junior
+
+  coil
+
+  clarify
+
+  recipe'
+bip_39_word_new_line12: 'indicate
+
+  window
+
+  air
+
+  tent
+
+  meat
+
+  fancy
+
+  chunk
+
+  junior
+
+  coil
+
+  clarify
+
+  recipe
+
+  album'
+bip_39_word_new_line2: 'indicate
+
+  window'
+bip_39_word_new_line3: 'indicate
+
+  window
+
+  air'
+bip_39_word_new_line4: 'indicate
+
+  window
+
+  air
+
+  tent'
+bip_39_word_new_line5: 'indicate
+
+  window
+
+  air
+
+  tent
+
+  meat'
+bip_39_word_new_line6: 'indicate
+
+  window
+
+  air
+
+  tent
+
+  meat
+
+  fancy'
+bip_39_word_new_line7: 'indicate
+
+  window
+
+  air
+
+  tent
+
+  meat
+
+  fancy
+
+  chunk'
+bip_39_word_new_line8: 'indicate
+
+  window
+
+  air
+
+  tent
+
+  meat
+
+  fancy
+
+  chunk
+
+  junior'
+bip_39_word_new_line9: 'indicate
+
+  window
+
+  air
+
+  tent
+
+  meat
+
+  fancy
+
+  chunk
+
+  junior
+
+  coil'
+bip_39_word_space_0:
+- indicate
+- window
+- air
+- tent
+- meat
+- fancy
+- chunk
+- junior
+- coil
+- clarify
+- recipe
+- album
+bip_39_word_space_1: indicate
+bip_39_word_space_10: indicate window air tent meat fancy chunk junior coil clarify
+bip_39_word_space_11: indicate window air tent meat fancy chunk junior coil clarify
+  recipe
+bip_39_word_space_12: indicate window air tent meat fancy chunk junior coil clarify
+  recipe album
+bip_39_word_space_2: indicate window
+bip_39_word_space_3: indicate window air
+bip_39_word_space_4: indicate window air tent
+bip_39_word_space_5: indicate window air tent meat
+bip_39_word_space_6: indicate window air tent meat fancy
+bip_39_word_space_7: indicate window air tent meat fancy chunk
+bip_39_word_space_8: indicate window air tent meat fancy chunk junior
+bip_39_word_space_9: indicate window air tent meat fancy chunk junior coil
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

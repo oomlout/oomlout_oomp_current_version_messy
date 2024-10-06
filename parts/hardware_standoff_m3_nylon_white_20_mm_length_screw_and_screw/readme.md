@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: people bean
+  * bip 39 word 3: people bean happy
+  * bip 39 word: people bean happy antenna unit ozone power spy coral goddess knife auction
 
 ### other_codes
 * short_code: so3nw20ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | people |  
+| bip_39_word_new_br10 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone<br>power<br>spy<br>coral<br>goddess |  
+| bip_39_word_new_br11 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone<br>power<br>spy<br>coral<br>goddess<br>knife |  
+| bip_39_word_new_br12 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone<br>power<br>spy<br>coral<br>goddess<br>knife<br>auction |  
+| bip_39_word_new_br2 | people<br>bean |  
+| bip_39_word_new_br3 | people<br>bean<br>happy |  
+| bip_39_word_new_br4 | people<br>bean<br>happy<br>antenna |  
+| bip_39_word_new_br5 | people<br>bean<br>happy<br>antenna<br>unit |  
+| bip_39_word_new_br6 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone |  
+| bip_39_word_new_br7 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone<br>power |  
+| bip_39_word_new_br8 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone<br>power<br>spy |  
+| bip_39_word_new_br9 | people<br>bean<br>happy<br>antenna<br>unit<br>ozone<br>power<br>spy<br>coral |  
+| bip_39_word_new_line1 | people |  
+| bip_39_word_new_line10 | people
+bean
+happy
+antenna
+unit
+ozone
+power
+spy
+coral
+goddess |  
+| bip_39_word_new_line11 | people
+bean
+happy
+antenna
+unit
+ozone
+power
+spy
+coral
+goddess
+knife |  
+| bip_39_word_new_line12 | people
+bean
+happy
+antenna
+unit
+ozone
+power
+spy
+coral
+goddess
+knife
+auction |  
+| bip_39_word_new_line2 | people
+bean |  
+| bip_39_word_new_line3 | people
+bean
+happy |  
+| bip_39_word_new_line4 | people
+bean
+happy
+antenna |  
+| bip_39_word_new_line5 | people
+bean
+happy
+antenna
+unit |  
+| bip_39_word_new_line6 | people
+bean
+happy
+antenna
+unit
+ozone |  
+| bip_39_word_new_line7 | people
+bean
+happy
+antenna
+unit
+ozone
+power |  
+| bip_39_word_new_line8 | people
+bean
+happy
+antenna
+unit
+ozone
+power
+spy |  
+| bip_39_word_new_line9 | people
+bean
+happy
+antenna
+unit
+ozone
+power
+spy
+coral |  
+| bip_39_word_space_0 | ['people', 'bean', 'happy', 'antenna', 'unit', 'ozone', 'power', 'spy', 'coral', 'goddess', 'knife', 'auction'] |  
+| bip_39_word_space_1 | people |  
+| bip_39_word_space_10 | people bean happy antenna unit ozone power spy coral goddess |  
+| bip_39_word_space_11 | people bean happy antenna unit ozone power spy coral goddess knife |  
+| bip_39_word_space_12 | people bean happy antenna unit ozone power spy coral goddess knife auction |  
+| bip_39_word_space_2 | people bean |  
+| bip_39_word_space_3 | people bean happy |  
+| bip_39_word_space_4 | people bean happy antenna |  
+| bip_39_word_space_5 | people bean happy antenna unit |  
+| bip_39_word_space_6 | people bean happy antenna unit ozone |  
+| bip_39_word_space_7 | people bean happy antenna unit ozone power |  
+| bip_39_word_space_8 | people bean happy antenna unit ozone power spy |  
+| bip_39_word_space_9 | people bean happy antenna unit ozone power spy coral |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

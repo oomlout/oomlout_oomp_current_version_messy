@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: basic
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: february nice
+  * bip 39 word 3: february nice field
+  * bip 39 word: february nice field fix plunge mango check bargain dish jealous crash athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | february |  
+| bip_39_word_new_br10 | february<br>nice<br>field<br>fix<br>plunge<br>mango<br>check<br>bargain<br>dish<br>jealous |  
+| bip_39_word_new_br11 | february<br>nice<br>field<br>fix<br>plunge<br>mango<br>check<br>bargain<br>dish<br>jealous<br>crash |  
+| bip_39_word_new_br12 | february<br>nice<br>field<br>fix<br>plunge<br>mango<br>check<br>bargain<br>dish<br>jealous<br>crash<br>athlete |  
+| bip_39_word_new_br2 | february<br>nice |  
+| bip_39_word_new_br3 | february<br>nice<br>field |  
+| bip_39_word_new_br4 | february<br>nice<br>field<br>fix |  
+| bip_39_word_new_br5 | february<br>nice<br>field<br>fix<br>plunge |  
+| bip_39_word_new_br6 | february<br>nice<br>field<br>fix<br>plunge<br>mango |  
+| bip_39_word_new_br7 | february<br>nice<br>field<br>fix<br>plunge<br>mango<br>check |  
+| bip_39_word_new_br8 | february<br>nice<br>field<br>fix<br>plunge<br>mango<br>check<br>bargain |  
+| bip_39_word_new_br9 | february<br>nice<br>field<br>fix<br>plunge<br>mango<br>check<br>bargain<br>dish |  
+| bip_39_word_new_line1 | february |  
+| bip_39_word_new_line10 | february
+nice
+field
+fix
+plunge
+mango
+check
+bargain
+dish
+jealous |  
+| bip_39_word_new_line11 | february
+nice
+field
+fix
+plunge
+mango
+check
+bargain
+dish
+jealous
+crash |  
+| bip_39_word_new_line12 | february
+nice
+field
+fix
+plunge
+mango
+check
+bargain
+dish
+jealous
+crash
+athlete |  
+| bip_39_word_new_line2 | february
+nice |  
+| bip_39_word_new_line3 | february
+nice
+field |  
+| bip_39_word_new_line4 | february
+nice
+field
+fix |  
+| bip_39_word_new_line5 | february
+nice
+field
+fix
+plunge |  
+| bip_39_word_new_line6 | february
+nice
+field
+fix
+plunge
+mango |  
+| bip_39_word_new_line7 | february
+nice
+field
+fix
+plunge
+mango
+check |  
+| bip_39_word_new_line8 | february
+nice
+field
+fix
+plunge
+mango
+check
+bargain |  
+| bip_39_word_new_line9 | february
+nice
+field
+fix
+plunge
+mango
+check
+bargain
+dish |  
+| bip_39_word_space_0 | ['february', 'nice', 'field', 'fix', 'plunge', 'mango', 'check', 'bargain', 'dish', 'jealous', 'crash', 'athlete'] |  
+| bip_39_word_space_1 | february |  
+| bip_39_word_space_10 | february nice field fix plunge mango check bargain dish jealous |  
+| bip_39_word_space_11 | february nice field fix plunge mango check bargain dish jealous crash |  
+| bip_39_word_space_12 | february nice field fix plunge mango check bargain dish jealous crash athlete |  
+| bip_39_word_space_2 | february nice |  
+| bip_39_word_space_3 | february nice field |  
+| bip_39_word_space_4 | february nice field fix |  
+| bip_39_word_space_5 | february nice field fix plunge |  
+| bip_39_word_space_6 | february nice field fix plunge mango |  
+| bip_39_word_space_7 | february nice field fix plunge mango check |  
+| bip_39_word_space_8 | february nice field fix plunge mango check bargain |  
+| bip_39_word_space_9 | february nice field fix plunge mango check bargain dish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

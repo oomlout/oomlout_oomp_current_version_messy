@@ -1,3 +1,186 @@
+bip_39_word_new_br1: soccer
+bip_39_word_new_br10: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel<br>outdoor
+bip_39_word_new_br11: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel<br>outdoor<br>hedgehog
+bip_39_word_new_br12: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel<br>outdoor<br>hedgehog<br>arrow
+bip_39_word_new_br2: soccer<br>fame
+bip_39_word_new_br3: soccer<br>fame<br>silk
+bip_39_word_new_br4: soccer<br>fame<br>silk<br>ski
+bip_39_word_new_br5: soccer<br>fame<br>silk<br>ski<br>drastic
+bip_39_word_new_br6: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue
+bip_39_word_new_br7: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger
+bip_39_word_new_br8: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut
+bip_39_word_new_br9: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel
+bip_39_word_new_line1: soccer
+bip_39_word_new_line10: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut
+
+  hotel
+
+  outdoor'
+bip_39_word_new_line11: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut
+
+  hotel
+
+  outdoor
+
+  hedgehog'
+bip_39_word_new_line12: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut
+
+  hotel
+
+  outdoor
+
+  hedgehog
+
+  arrow'
+bip_39_word_new_line2: 'soccer
+
+  fame'
+bip_39_word_new_line3: 'soccer
+
+  fame
+
+  silk'
+bip_39_word_new_line4: 'soccer
+
+  fame
+
+  silk
+
+  ski'
+bip_39_word_new_line5: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic'
+bip_39_word_new_line6: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue'
+bip_39_word_new_line7: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger'
+bip_39_word_new_line8: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut'
+bip_39_word_new_line9: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut
+
+  hotel'
+bip_39_word_space_0:
+- soccer
+- fame
+- silk
+- ski
+- drastic
+- fatigue
+- ginger
+- walnut
+- hotel
+- outdoor
+- hedgehog
+- arrow
+bip_39_word_space_1: soccer
+bip_39_word_space_10: soccer fame silk ski drastic fatigue ginger walnut hotel outdoor
+bip_39_word_space_11: soccer fame silk ski drastic fatigue ginger walnut hotel outdoor
+  hedgehog
+bip_39_word_space_12: soccer fame silk ski drastic fatigue ginger walnut hotel outdoor
+  hedgehog arrow
+bip_39_word_space_2: soccer fame
+bip_39_word_space_3: soccer fame silk
+bip_39_word_space_4: soccer fame silk ski
+bip_39_word_space_5: soccer fame silk ski drastic
+bip_39_word_space_6: soccer fame silk ski drastic fatigue
+bip_39_word_space_7: soccer fame silk ski drastic fatigue ginger
+bip_39_word_space_8: soccer fame silk ski drastic fatigue ginger walnut
+bip_39_word_space_9: soccer fame silk ski drastic fatigue ginger walnut hotel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

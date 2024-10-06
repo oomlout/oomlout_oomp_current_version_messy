@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: famous usual
+  * bip 39 word 3: famous usual horn
+  * bip 39 word: famous usual horn dad humble decline acid morning expose orphan census artefact
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | famous |  
+| bip_39_word_new_br10 | famous<br>usual<br>horn<br>dad<br>humble<br>decline<br>acid<br>morning<br>expose<br>orphan |  
+| bip_39_word_new_br11 | famous<br>usual<br>horn<br>dad<br>humble<br>decline<br>acid<br>morning<br>expose<br>orphan<br>census |  
+| bip_39_word_new_br12 | famous<br>usual<br>horn<br>dad<br>humble<br>decline<br>acid<br>morning<br>expose<br>orphan<br>census<br>artefact |  
+| bip_39_word_new_br2 | famous<br>usual |  
+| bip_39_word_new_br3 | famous<br>usual<br>horn |  
+| bip_39_word_new_br4 | famous<br>usual<br>horn<br>dad |  
+| bip_39_word_new_br5 | famous<br>usual<br>horn<br>dad<br>humble |  
+| bip_39_word_new_br6 | famous<br>usual<br>horn<br>dad<br>humble<br>decline |  
+| bip_39_word_new_br7 | famous<br>usual<br>horn<br>dad<br>humble<br>decline<br>acid |  
+| bip_39_word_new_br8 | famous<br>usual<br>horn<br>dad<br>humble<br>decline<br>acid<br>morning |  
+| bip_39_word_new_br9 | famous<br>usual<br>horn<br>dad<br>humble<br>decline<br>acid<br>morning<br>expose |  
+| bip_39_word_new_line1 | famous |  
+| bip_39_word_new_line10 | famous
+usual
+horn
+dad
+humble
+decline
+acid
+morning
+expose
+orphan |  
+| bip_39_word_new_line11 | famous
+usual
+horn
+dad
+humble
+decline
+acid
+morning
+expose
+orphan
+census |  
+| bip_39_word_new_line12 | famous
+usual
+horn
+dad
+humble
+decline
+acid
+morning
+expose
+orphan
+census
+artefact |  
+| bip_39_word_new_line2 | famous
+usual |  
+| bip_39_word_new_line3 | famous
+usual
+horn |  
+| bip_39_word_new_line4 | famous
+usual
+horn
+dad |  
+| bip_39_word_new_line5 | famous
+usual
+horn
+dad
+humble |  
+| bip_39_word_new_line6 | famous
+usual
+horn
+dad
+humble
+decline |  
+| bip_39_word_new_line7 | famous
+usual
+horn
+dad
+humble
+decline
+acid |  
+| bip_39_word_new_line8 | famous
+usual
+horn
+dad
+humble
+decline
+acid
+morning |  
+| bip_39_word_new_line9 | famous
+usual
+horn
+dad
+humble
+decline
+acid
+morning
+expose |  
+| bip_39_word_space_0 | ['famous', 'usual', 'horn', 'dad', 'humble', 'decline', 'acid', 'morning', 'expose', 'orphan', 'census', 'artefact'] |  
+| bip_39_word_space_1 | famous |  
+| bip_39_word_space_10 | famous usual horn dad humble decline acid morning expose orphan |  
+| bip_39_word_space_11 | famous usual horn dad humble decline acid morning expose orphan census |  
+| bip_39_word_space_12 | famous usual horn dad humble decline acid morning expose orphan census artefact |  
+| bip_39_word_space_2 | famous usual |  
+| bip_39_word_space_3 | famous usual horn |  
+| bip_39_word_space_4 | famous usual horn dad |  
+| bip_39_word_space_5 | famous usual horn dad humble |  
+| bip_39_word_space_6 | famous usual horn dad humble decline |  
+| bip_39_word_space_7 | famous usual horn dad humble decline acid |  
+| bip_39_word_space_8 | famous usual horn dad humble decline acid morning |  
+| bip_39_word_space_9 | famous usual horn dad humble decline acid morning expose |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

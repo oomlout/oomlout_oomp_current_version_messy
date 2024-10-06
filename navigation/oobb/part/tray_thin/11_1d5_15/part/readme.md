@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fit rude
+  * bip 39 word 3: fit rude access
+  * bip 39 word: fit rude access brave skirt tent benefit twenty cycle alien clown apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fit |  
+| bip_39_word_new_br10 | fit<br>rude<br>access<br>brave<br>skirt<br>tent<br>benefit<br>twenty<br>cycle<br>alien |  
+| bip_39_word_new_br11 | fit<br>rude<br>access<br>brave<br>skirt<br>tent<br>benefit<br>twenty<br>cycle<br>alien<br>clown |  
+| bip_39_word_new_br12 | fit<br>rude<br>access<br>brave<br>skirt<br>tent<br>benefit<br>twenty<br>cycle<br>alien<br>clown<br>apart |  
+| bip_39_word_new_br2 | fit<br>rude |  
+| bip_39_word_new_br3 | fit<br>rude<br>access |  
+| bip_39_word_new_br4 | fit<br>rude<br>access<br>brave |  
+| bip_39_word_new_br5 | fit<br>rude<br>access<br>brave<br>skirt |  
+| bip_39_word_new_br6 | fit<br>rude<br>access<br>brave<br>skirt<br>tent |  
+| bip_39_word_new_br7 | fit<br>rude<br>access<br>brave<br>skirt<br>tent<br>benefit |  
+| bip_39_word_new_br8 | fit<br>rude<br>access<br>brave<br>skirt<br>tent<br>benefit<br>twenty |  
+| bip_39_word_new_br9 | fit<br>rude<br>access<br>brave<br>skirt<br>tent<br>benefit<br>twenty<br>cycle |  
+| bip_39_word_new_line1 | fit |  
+| bip_39_word_new_line10 | fit
+rude
+access
+brave
+skirt
+tent
+benefit
+twenty
+cycle
+alien |  
+| bip_39_word_new_line11 | fit
+rude
+access
+brave
+skirt
+tent
+benefit
+twenty
+cycle
+alien
+clown |  
+| bip_39_word_new_line12 | fit
+rude
+access
+brave
+skirt
+tent
+benefit
+twenty
+cycle
+alien
+clown
+apart |  
+| bip_39_word_new_line2 | fit
+rude |  
+| bip_39_word_new_line3 | fit
+rude
+access |  
+| bip_39_word_new_line4 | fit
+rude
+access
+brave |  
+| bip_39_word_new_line5 | fit
+rude
+access
+brave
+skirt |  
+| bip_39_word_new_line6 | fit
+rude
+access
+brave
+skirt
+tent |  
+| bip_39_word_new_line7 | fit
+rude
+access
+brave
+skirt
+tent
+benefit |  
+| bip_39_word_new_line8 | fit
+rude
+access
+brave
+skirt
+tent
+benefit
+twenty |  
+| bip_39_word_new_line9 | fit
+rude
+access
+brave
+skirt
+tent
+benefit
+twenty
+cycle |  
+| bip_39_word_space_0 | ['fit', 'rude', 'access', 'brave', 'skirt', 'tent', 'benefit', 'twenty', 'cycle', 'alien', 'clown', 'apart'] |  
+| bip_39_word_space_1 | fit |  
+| bip_39_word_space_10 | fit rude access brave skirt tent benefit twenty cycle alien |  
+| bip_39_word_space_11 | fit rude access brave skirt tent benefit twenty cycle alien clown |  
+| bip_39_word_space_12 | fit rude access brave skirt tent benefit twenty cycle alien clown apart |  
+| bip_39_word_space_2 | fit rude |  
+| bip_39_word_space_3 | fit rude access |  
+| bip_39_word_space_4 | fit rude access brave |  
+| bip_39_word_space_5 | fit rude access brave skirt |  
+| bip_39_word_space_6 | fit rude access brave skirt tent |  
+| bip_39_word_space_7 | fit rude access brave skirt tent benefit |  
+| bip_39_word_space_8 | fit rude access brave skirt tent benefit twenty |  
+| bip_39_word_space_9 | fit rude access brave skirt tent benefit twenty cycle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

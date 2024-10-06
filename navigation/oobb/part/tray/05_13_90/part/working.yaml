@@ -1,3 +1,187 @@
+bip_39_word_new_br1: love
+bip_39_word_new_br10: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt<br>ordinary<br>eye<br>shuffle<br>essence
+bip_39_word_new_br11: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt<br>ordinary<br>eye<br>shuffle<br>essence<br>joy
+bip_39_word_new_br12: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt<br>ordinary<br>eye<br>shuffle<br>essence<br>joy<br>age
+bip_39_word_new_br2: love<br>cabbage
+bip_39_word_new_br3: love<br>cabbage<br>whisper
+bip_39_word_new_br4: love<br>cabbage<br>whisper<br>universe
+bip_39_word_new_br5: love<br>cabbage<br>whisper<br>universe<br>gym
+bip_39_word_new_br6: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt
+bip_39_word_new_br7: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt<br>ordinary
+bip_39_word_new_br8: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt<br>ordinary<br>eye
+bip_39_word_new_br9: love<br>cabbage<br>whisper<br>universe<br>gym<br>grunt<br>ordinary<br>eye<br>shuffle
+bip_39_word_new_line1: love
+bip_39_word_new_line10: 'love
+
+  cabbage
+
+  whisper
+
+  universe
+
+  gym
+
+  grunt
+
+  ordinary
+
+  eye
+
+  shuffle
+
+  essence'
+bip_39_word_new_line11: 'love
+
+  cabbage
+
+  whisper
+
+  universe
+
+  gym
+
+  grunt
+
+  ordinary
+
+  eye
+
+  shuffle
+
+  essence
+
+  joy'
+bip_39_word_new_line12: 'love
+
+  cabbage
+
+  whisper
+
+  universe
+
+  gym
+
+  grunt
+
+  ordinary
+
+  eye
+
+  shuffle
+
+  essence
+
+  joy
+
+  age'
+bip_39_word_new_line2: 'love
+
+  cabbage'
+bip_39_word_new_line3: 'love
+
+  cabbage
+
+  whisper'
+bip_39_word_new_line4: 'love
+
+  cabbage
+
+  whisper
+
+  universe'
+bip_39_word_new_line5: 'love
+
+  cabbage
+
+  whisper
+
+  universe
+
+  gym'
+bip_39_word_new_line6: 'love
+
+  cabbage
+
+  whisper
+
+  universe
+
+  gym
+
+  grunt'
+bip_39_word_new_line7: 'love
+
+  cabbage
+
+  whisper
+
+  universe
+
+  gym
+
+  grunt
+
+  ordinary'
+bip_39_word_new_line8: 'love
+
+  cabbage
+
+  whisper
+
+  universe
+
+  gym
+
+  grunt
+
+  ordinary
+
+  eye'
+bip_39_word_new_line9: 'love
+
+  cabbage
+
+  whisper
+
+  universe
+
+  gym
+
+  grunt
+
+  ordinary
+
+  eye
+
+  shuffle'
+bip_39_word_space_0:
+- love
+- cabbage
+- whisper
+- universe
+- gym
+- grunt
+- ordinary
+- eye
+- shuffle
+- essence
+- joy
+- age
+bip_39_word_space_1: love
+bip_39_word_space_10: love cabbage whisper universe gym grunt ordinary eye shuffle
+  essence
+bip_39_word_space_11: love cabbage whisper universe gym grunt ordinary eye shuffle
+  essence joy
+bip_39_word_space_12: love cabbage whisper universe gym grunt ordinary eye shuffle
+  essence joy age
+bip_39_word_space_2: love cabbage
+bip_39_word_space_3: love cabbage whisper
+bip_39_word_space_4: love cabbage whisper universe
+bip_39_word_space_5: love cabbage whisper universe gym
+bip_39_word_space_6: love cabbage whisper universe gym grunt
+bip_39_word_space_7: love cabbage whisper universe gym grunt ordinary
+bip_39_word_space_8: love cabbage whisper universe gym grunt ordinary eye
+bip_39_word_space_9: love cabbage whisper universe gym grunt ordinary eye shuffle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

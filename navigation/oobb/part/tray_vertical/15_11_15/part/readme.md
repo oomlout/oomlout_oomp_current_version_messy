@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: time protect
+  * bip 39 word 3: time protect area
+  * bip 39 word: time protect area lounge march usual gloom decorate where expire guard around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | time |  
+| bip_39_word_new_br10 | time<br>protect<br>area<br>lounge<br>march<br>usual<br>gloom<br>decorate<br>where<br>expire |  
+| bip_39_word_new_br11 | time<br>protect<br>area<br>lounge<br>march<br>usual<br>gloom<br>decorate<br>where<br>expire<br>guard |  
+| bip_39_word_new_br12 | time<br>protect<br>area<br>lounge<br>march<br>usual<br>gloom<br>decorate<br>where<br>expire<br>guard<br>around |  
+| bip_39_word_new_br2 | time<br>protect |  
+| bip_39_word_new_br3 | time<br>protect<br>area |  
+| bip_39_word_new_br4 | time<br>protect<br>area<br>lounge |  
+| bip_39_word_new_br5 | time<br>protect<br>area<br>lounge<br>march |  
+| bip_39_word_new_br6 | time<br>protect<br>area<br>lounge<br>march<br>usual |  
+| bip_39_word_new_br7 | time<br>protect<br>area<br>lounge<br>march<br>usual<br>gloom |  
+| bip_39_word_new_br8 | time<br>protect<br>area<br>lounge<br>march<br>usual<br>gloom<br>decorate |  
+| bip_39_word_new_br9 | time<br>protect<br>area<br>lounge<br>march<br>usual<br>gloom<br>decorate<br>where |  
+| bip_39_word_new_line1 | time |  
+| bip_39_word_new_line10 | time
+protect
+area
+lounge
+march
+usual
+gloom
+decorate
+where
+expire |  
+| bip_39_word_new_line11 | time
+protect
+area
+lounge
+march
+usual
+gloom
+decorate
+where
+expire
+guard |  
+| bip_39_word_new_line12 | time
+protect
+area
+lounge
+march
+usual
+gloom
+decorate
+where
+expire
+guard
+around |  
+| bip_39_word_new_line2 | time
+protect |  
+| bip_39_word_new_line3 | time
+protect
+area |  
+| bip_39_word_new_line4 | time
+protect
+area
+lounge |  
+| bip_39_word_new_line5 | time
+protect
+area
+lounge
+march |  
+| bip_39_word_new_line6 | time
+protect
+area
+lounge
+march
+usual |  
+| bip_39_word_new_line7 | time
+protect
+area
+lounge
+march
+usual
+gloom |  
+| bip_39_word_new_line8 | time
+protect
+area
+lounge
+march
+usual
+gloom
+decorate |  
+| bip_39_word_new_line9 | time
+protect
+area
+lounge
+march
+usual
+gloom
+decorate
+where |  
+| bip_39_word_space_0 | ['time', 'protect', 'area', 'lounge', 'march', 'usual', 'gloom', 'decorate', 'where', 'expire', 'guard', 'around'] |  
+| bip_39_word_space_1 | time |  
+| bip_39_word_space_10 | time protect area lounge march usual gloom decorate where expire |  
+| bip_39_word_space_11 | time protect area lounge march usual gloom decorate where expire guard |  
+| bip_39_word_space_12 | time protect area lounge march usual gloom decorate where expire guard around |  
+| bip_39_word_space_2 | time protect |  
+| bip_39_word_space_3 | time protect area |  
+| bip_39_word_space_4 | time protect area lounge |  
+| bip_39_word_space_5 | time protect area lounge march |  
+| bip_39_word_space_6 | time protect area lounge march usual |  
+| bip_39_word_space_7 | time protect area lounge march usual gloom |  
+| bip_39_word_space_8 | time protect area lounge march usual gloom decorate |  
+| bip_39_word_space_9 | time protect area lounge march usual gloom decorate where |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

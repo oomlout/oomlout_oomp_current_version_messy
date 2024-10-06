@@ -1,3 +1,186 @@
+bip_39_word_new_br1: regular
+bip_39_word_new_br10: regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night
+bip_39_word_new_br11: regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night<br>swarm
+bip_39_word_new_br12: regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport<br>night<br>swarm<br>amused
+bip_39_word_new_br2: regular<br>census
+bip_39_word_new_br3: regular<br>census<br>feel
+bip_39_word_new_br4: regular<br>census<br>feel<br>stadium
+bip_39_word_new_br5: regular<br>census<br>feel<br>stadium<br>spawn
+bip_39_word_new_br6: regular<br>census<br>feel<br>stadium<br>spawn<br>error
+bip_39_word_new_br7: regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge
+bip_39_word_new_br8: regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey
+bip_39_word_new_br9: regular<br>census<br>feel<br>stadium<br>spawn<br>error<br>judge<br>turkey<br>sport
+bip_39_word_new_line1: regular
+bip_39_word_new_line10: 'regular
+
+  census
+
+  feel
+
+  stadium
+
+  spawn
+
+  error
+
+  judge
+
+  turkey
+
+  sport
+
+  night'
+bip_39_word_new_line11: 'regular
+
+  census
+
+  feel
+
+  stadium
+
+  spawn
+
+  error
+
+  judge
+
+  turkey
+
+  sport
+
+  night
+
+  swarm'
+bip_39_word_new_line12: 'regular
+
+  census
+
+  feel
+
+  stadium
+
+  spawn
+
+  error
+
+  judge
+
+  turkey
+
+  sport
+
+  night
+
+  swarm
+
+  amused'
+bip_39_word_new_line2: 'regular
+
+  census'
+bip_39_word_new_line3: 'regular
+
+  census
+
+  feel'
+bip_39_word_new_line4: 'regular
+
+  census
+
+  feel
+
+  stadium'
+bip_39_word_new_line5: 'regular
+
+  census
+
+  feel
+
+  stadium
+
+  spawn'
+bip_39_word_new_line6: 'regular
+
+  census
+
+  feel
+
+  stadium
+
+  spawn
+
+  error'
+bip_39_word_new_line7: 'regular
+
+  census
+
+  feel
+
+  stadium
+
+  spawn
+
+  error
+
+  judge'
+bip_39_word_new_line8: 'regular
+
+  census
+
+  feel
+
+  stadium
+
+  spawn
+
+  error
+
+  judge
+
+  turkey'
+bip_39_word_new_line9: 'regular
+
+  census
+
+  feel
+
+  stadium
+
+  spawn
+
+  error
+
+  judge
+
+  turkey
+
+  sport'
+bip_39_word_space_0:
+- regular
+- census
+- feel
+- stadium
+- spawn
+- error
+- judge
+- turkey
+- sport
+- night
+- swarm
+- amused
+bip_39_word_space_1: regular
+bip_39_word_space_10: regular census feel stadium spawn error judge turkey sport night
+bip_39_word_space_11: regular census feel stadium spawn error judge turkey sport night
+  swarm
+bip_39_word_space_12: regular census feel stadium spawn error judge turkey sport night
+  swarm amused
+bip_39_word_space_2: regular census
+bip_39_word_space_3: regular census feel
+bip_39_word_space_4: regular census feel stadium
+bip_39_word_space_5: regular census feel stadium spawn
+bip_39_word_space_6: regular census feel stadium spawn error
+bip_39_word_space_7: regular census feel stadium spawn error judge
+bip_39_word_space_8: regular census feel stadium spawn error judge turkey
+bip_39_word_space_9: regular census feel stadium spawn error judge turkey sport
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

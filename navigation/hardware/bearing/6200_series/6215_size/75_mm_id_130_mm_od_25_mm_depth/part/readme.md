@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cement bus
+  * bip 39 word 3: cement bus involve
+  * bip 39 word: cement bus involve step genius drive expect uncover swing dentist broken angle
 
 ### other_codes
 * short_code: br6215
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cement |  
+| bip_39_word_new_br10 | cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover<br>swing<br>dentist |  
+| bip_39_word_new_br11 | cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover<br>swing<br>dentist<br>broken |  
+| bip_39_word_new_br12 | cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover<br>swing<br>dentist<br>broken<br>angle |  
+| bip_39_word_new_br2 | cement<br>bus |  
+| bip_39_word_new_br3 | cement<br>bus<br>involve |  
+| bip_39_word_new_br4 | cement<br>bus<br>involve<br>step |  
+| bip_39_word_new_br5 | cement<br>bus<br>involve<br>step<br>genius |  
+| bip_39_word_new_br6 | cement<br>bus<br>involve<br>step<br>genius<br>drive |  
+| bip_39_word_new_br7 | cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect |  
+| bip_39_word_new_br8 | cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover |  
+| bip_39_word_new_br9 | cement<br>bus<br>involve<br>step<br>genius<br>drive<br>expect<br>uncover<br>swing |  
+| bip_39_word_new_line1 | cement |  
+| bip_39_word_new_line10 | cement
+bus
+involve
+step
+genius
+drive
+expect
+uncover
+swing
+dentist |  
+| bip_39_word_new_line11 | cement
+bus
+involve
+step
+genius
+drive
+expect
+uncover
+swing
+dentist
+broken |  
+| bip_39_word_new_line12 | cement
+bus
+involve
+step
+genius
+drive
+expect
+uncover
+swing
+dentist
+broken
+angle |  
+| bip_39_word_new_line2 | cement
+bus |  
+| bip_39_word_new_line3 | cement
+bus
+involve |  
+| bip_39_word_new_line4 | cement
+bus
+involve
+step |  
+| bip_39_word_new_line5 | cement
+bus
+involve
+step
+genius |  
+| bip_39_word_new_line6 | cement
+bus
+involve
+step
+genius
+drive |  
+| bip_39_word_new_line7 | cement
+bus
+involve
+step
+genius
+drive
+expect |  
+| bip_39_word_new_line8 | cement
+bus
+involve
+step
+genius
+drive
+expect
+uncover |  
+| bip_39_word_new_line9 | cement
+bus
+involve
+step
+genius
+drive
+expect
+uncover
+swing |  
+| bip_39_word_space_0 | ['cement', 'bus', 'involve', 'step', 'genius', 'drive', 'expect', 'uncover', 'swing', 'dentist', 'broken', 'angle'] |  
+| bip_39_word_space_1 | cement |  
+| bip_39_word_space_10 | cement bus involve step genius drive expect uncover swing dentist |  
+| bip_39_word_space_11 | cement bus involve step genius drive expect uncover swing dentist broken |  
+| bip_39_word_space_12 | cement bus involve step genius drive expect uncover swing dentist broken angle |  
+| bip_39_word_space_2 | cement bus |  
+| bip_39_word_space_3 | cement bus involve |  
+| bip_39_word_space_4 | cement bus involve step |  
+| bip_39_word_space_5 | cement bus involve step genius |  
+| bip_39_word_space_6 | cement bus involve step genius drive |  
+| bip_39_word_space_7 | cement bus involve step genius drive expect |  
+| bip_39_word_space_8 | cement bus involve step genius drive expect uncover |  
+| bip_39_word_space_9 | cement bus involve step genius drive expect uncover swing |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sad vehicle
+  * bip 39 word 3: sad vehicle mansion
+  * bip 39 word: sad vehicle mansion pigeon fruit you quick sweet can indoor taxi army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sad |  
+| bip_39_word_new_br10 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can<br>indoor |  
+| bip_39_word_new_br11 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can<br>indoor<br>taxi |  
+| bip_39_word_new_br12 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can<br>indoor<br>taxi<br>army |  
+| bip_39_word_new_br2 | sad<br>vehicle |  
+| bip_39_word_new_br3 | sad<br>vehicle<br>mansion |  
+| bip_39_word_new_br4 | sad<br>vehicle<br>mansion<br>pigeon |  
+| bip_39_word_new_br5 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit |  
+| bip_39_word_new_br6 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you |  
+| bip_39_word_new_br7 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick |  
+| bip_39_word_new_br8 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet |  
+| bip_39_word_new_br9 | sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can |  
+| bip_39_word_new_line1 | sad |  
+| bip_39_word_new_line10 | sad
+vehicle
+mansion
+pigeon
+fruit
+you
+quick
+sweet
+can
+indoor |  
+| bip_39_word_new_line11 | sad
+vehicle
+mansion
+pigeon
+fruit
+you
+quick
+sweet
+can
+indoor
+taxi |  
+| bip_39_word_new_line12 | sad
+vehicle
+mansion
+pigeon
+fruit
+you
+quick
+sweet
+can
+indoor
+taxi
+army |  
+| bip_39_word_new_line2 | sad
+vehicle |  
+| bip_39_word_new_line3 | sad
+vehicle
+mansion |  
+| bip_39_word_new_line4 | sad
+vehicle
+mansion
+pigeon |  
+| bip_39_word_new_line5 | sad
+vehicle
+mansion
+pigeon
+fruit |  
+| bip_39_word_new_line6 | sad
+vehicle
+mansion
+pigeon
+fruit
+you |  
+| bip_39_word_new_line7 | sad
+vehicle
+mansion
+pigeon
+fruit
+you
+quick |  
+| bip_39_word_new_line8 | sad
+vehicle
+mansion
+pigeon
+fruit
+you
+quick
+sweet |  
+| bip_39_word_new_line9 | sad
+vehicle
+mansion
+pigeon
+fruit
+you
+quick
+sweet
+can |  
+| bip_39_word_space_0 | ['sad', 'vehicle', 'mansion', 'pigeon', 'fruit', 'you', 'quick', 'sweet', 'can', 'indoor', 'taxi', 'army'] |  
+| bip_39_word_space_1 | sad |  
+| bip_39_word_space_10 | sad vehicle mansion pigeon fruit you quick sweet can indoor |  
+| bip_39_word_space_11 | sad vehicle mansion pigeon fruit you quick sweet can indoor taxi |  
+| bip_39_word_space_12 | sad vehicle mansion pigeon fruit you quick sweet can indoor taxi army |  
+| bip_39_word_space_2 | sad vehicle |  
+| bip_39_word_space_3 | sad vehicle mansion |  
+| bip_39_word_space_4 | sad vehicle mansion pigeon |  
+| bip_39_word_space_5 | sad vehicle mansion pigeon fruit |  
+| bip_39_word_space_6 | sad vehicle mansion pigeon fruit you |  
+| bip_39_word_space_7 | sad vehicle mansion pigeon fruit you quick |  
+| bip_39_word_space_8 | sad vehicle mansion pigeon fruit you quick sweet |  
+| bip_39_word_space_9 | sad vehicle mansion pigeon fruit you quick sweet can |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

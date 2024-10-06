@@ -1,3 +1,186 @@
+bip_39_word_new_br1: casino
+bip_39_word_new_br10: casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice
+bip_39_word_new_br11: casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice<br>debate
+bip_39_word_new_br12: casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand<br>choice<br>debate<br>approve
+bip_39_word_new_br2: casino<br>devote
+bip_39_word_new_br3: casino<br>devote<br>minor
+bip_39_word_new_br4: casino<br>devote<br>minor<br>favorite
+bip_39_word_new_br5: casino<br>devote<br>minor<br>favorite<br>error
+bip_39_word_new_br6: casino<br>devote<br>minor<br>favorite<br>error<br>fly
+bip_39_word_new_br7: casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve
+bip_39_word_new_br8: casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet
+bip_39_word_new_br9: casino<br>devote<br>minor<br>favorite<br>error<br>fly<br>valve<br>wet<br>sand
+bip_39_word_new_line1: casino
+bip_39_word_new_line10: 'casino
+
+  devote
+
+  minor
+
+  favorite
+
+  error
+
+  fly
+
+  valve
+
+  wet
+
+  sand
+
+  choice'
+bip_39_word_new_line11: 'casino
+
+  devote
+
+  minor
+
+  favorite
+
+  error
+
+  fly
+
+  valve
+
+  wet
+
+  sand
+
+  choice
+
+  debate'
+bip_39_word_new_line12: 'casino
+
+  devote
+
+  minor
+
+  favorite
+
+  error
+
+  fly
+
+  valve
+
+  wet
+
+  sand
+
+  choice
+
+  debate
+
+  approve'
+bip_39_word_new_line2: 'casino
+
+  devote'
+bip_39_word_new_line3: 'casino
+
+  devote
+
+  minor'
+bip_39_word_new_line4: 'casino
+
+  devote
+
+  minor
+
+  favorite'
+bip_39_word_new_line5: 'casino
+
+  devote
+
+  minor
+
+  favorite
+
+  error'
+bip_39_word_new_line6: 'casino
+
+  devote
+
+  minor
+
+  favorite
+
+  error
+
+  fly'
+bip_39_word_new_line7: 'casino
+
+  devote
+
+  minor
+
+  favorite
+
+  error
+
+  fly
+
+  valve'
+bip_39_word_new_line8: 'casino
+
+  devote
+
+  minor
+
+  favorite
+
+  error
+
+  fly
+
+  valve
+
+  wet'
+bip_39_word_new_line9: 'casino
+
+  devote
+
+  minor
+
+  favorite
+
+  error
+
+  fly
+
+  valve
+
+  wet
+
+  sand'
+bip_39_word_space_0:
+- casino
+- devote
+- minor
+- favorite
+- error
+- fly
+- valve
+- wet
+- sand
+- choice
+- debate
+- approve
+bip_39_word_space_1: casino
+bip_39_word_space_10: casino devote minor favorite error fly valve wet sand choice
+bip_39_word_space_11: casino devote minor favorite error fly valve wet sand choice
+  debate
+bip_39_word_space_12: casino devote minor favorite error fly valve wet sand choice
+  debate approve
+bip_39_word_space_2: casino devote
+bip_39_word_space_3: casino devote minor
+bip_39_word_space_4: casino devote minor favorite
+bip_39_word_space_5: casino devote minor favorite error
+bip_39_word_space_6: casino devote minor favorite error fly
+bip_39_word_space_7: casino devote minor favorite error fly valve
+bip_39_word_space_8: casino devote minor favorite error fly valve wet
+bip_39_word_space_9: casino devote minor favorite error fly valve wet sand
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

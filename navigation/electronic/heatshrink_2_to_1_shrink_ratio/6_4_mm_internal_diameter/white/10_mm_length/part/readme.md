@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cave alert
+  * bip 39 word 3: cave alert hunt
+  * bip 39 word: cave alert hunt erupt caught drip ripple uniform attract carpet salon again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cave |  
+| bip_39_word_new_br10 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip<br>ripple<br>uniform<br>attract<br>carpet |  
+| bip_39_word_new_br11 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip<br>ripple<br>uniform<br>attract<br>carpet<br>salon |  
+| bip_39_word_new_br12 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip<br>ripple<br>uniform<br>attract<br>carpet<br>salon<br>again |  
+| bip_39_word_new_br2 | cave<br>alert |  
+| bip_39_word_new_br3 | cave<br>alert<br>hunt |  
+| bip_39_word_new_br4 | cave<br>alert<br>hunt<br>erupt |  
+| bip_39_word_new_br5 | cave<br>alert<br>hunt<br>erupt<br>caught |  
+| bip_39_word_new_br6 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip |  
+| bip_39_word_new_br7 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip<br>ripple |  
+| bip_39_word_new_br8 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip<br>ripple<br>uniform |  
+| bip_39_word_new_br9 | cave<br>alert<br>hunt<br>erupt<br>caught<br>drip<br>ripple<br>uniform<br>attract |  
+| bip_39_word_new_line1 | cave |  
+| bip_39_word_new_line10 | cave
+alert
+hunt
+erupt
+caught
+drip
+ripple
+uniform
+attract
+carpet |  
+| bip_39_word_new_line11 | cave
+alert
+hunt
+erupt
+caught
+drip
+ripple
+uniform
+attract
+carpet
+salon |  
+| bip_39_word_new_line12 | cave
+alert
+hunt
+erupt
+caught
+drip
+ripple
+uniform
+attract
+carpet
+salon
+again |  
+| bip_39_word_new_line2 | cave
+alert |  
+| bip_39_word_new_line3 | cave
+alert
+hunt |  
+| bip_39_word_new_line4 | cave
+alert
+hunt
+erupt |  
+| bip_39_word_new_line5 | cave
+alert
+hunt
+erupt
+caught |  
+| bip_39_word_new_line6 | cave
+alert
+hunt
+erupt
+caught
+drip |  
+| bip_39_word_new_line7 | cave
+alert
+hunt
+erupt
+caught
+drip
+ripple |  
+| bip_39_word_new_line8 | cave
+alert
+hunt
+erupt
+caught
+drip
+ripple
+uniform |  
+| bip_39_word_new_line9 | cave
+alert
+hunt
+erupt
+caught
+drip
+ripple
+uniform
+attract |  
+| bip_39_word_space_0 | ['cave', 'alert', 'hunt', 'erupt', 'caught', 'drip', 'ripple', 'uniform', 'attract', 'carpet', 'salon', 'again'] |  
+| bip_39_word_space_1 | cave |  
+| bip_39_word_space_10 | cave alert hunt erupt caught drip ripple uniform attract carpet |  
+| bip_39_word_space_11 | cave alert hunt erupt caught drip ripple uniform attract carpet salon |  
+| bip_39_word_space_12 | cave alert hunt erupt caught drip ripple uniform attract carpet salon again |  
+| bip_39_word_space_2 | cave alert |  
+| bip_39_word_space_3 | cave alert hunt |  
+| bip_39_word_space_4 | cave alert hunt erupt |  
+| bip_39_word_space_5 | cave alert hunt erupt caught |  
+| bip_39_word_space_6 | cave alert hunt erupt caught drip |  
+| bip_39_word_space_7 | cave alert hunt erupt caught drip ripple |  
+| bip_39_word_space_8 | cave alert hunt erupt caught drip ripple uniform |  
+| bip_39_word_space_9 | cave alert hunt erupt caught drip ripple uniform attract |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

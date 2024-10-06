@@ -1,3 +1,186 @@
+bip_39_word_new_br1: whale
+bip_39_word_new_br10: whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth
+bip_39_word_new_br11: whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth<br>announce
+bip_39_word_new_br12: whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike<br>earth<br>announce<br>attitude
+bip_39_word_new_br2: whale<br>warm
+bip_39_word_new_br3: whale<br>warm<br>employ
+bip_39_word_new_br4: whale<br>warm<br>employ<br>skill
+bip_39_word_new_br5: whale<br>warm<br>employ<br>skill<br>barrel
+bip_39_word_new_br6: whale<br>warm<br>employ<br>skill<br>barrel<br>clip
+bip_39_word_new_br7: whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private
+bip_39_word_new_br8: whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd
+bip_39_word_new_br9: whale<br>warm<br>employ<br>skill<br>barrel<br>clip<br>private<br>crowd<br>bike
+bip_39_word_new_line1: whale
+bip_39_word_new_line10: 'whale
+
+  warm
+
+  employ
+
+  skill
+
+  barrel
+
+  clip
+
+  private
+
+  crowd
+
+  bike
+
+  earth'
+bip_39_word_new_line11: 'whale
+
+  warm
+
+  employ
+
+  skill
+
+  barrel
+
+  clip
+
+  private
+
+  crowd
+
+  bike
+
+  earth
+
+  announce'
+bip_39_word_new_line12: 'whale
+
+  warm
+
+  employ
+
+  skill
+
+  barrel
+
+  clip
+
+  private
+
+  crowd
+
+  bike
+
+  earth
+
+  announce
+
+  attitude'
+bip_39_word_new_line2: 'whale
+
+  warm'
+bip_39_word_new_line3: 'whale
+
+  warm
+
+  employ'
+bip_39_word_new_line4: 'whale
+
+  warm
+
+  employ
+
+  skill'
+bip_39_word_new_line5: 'whale
+
+  warm
+
+  employ
+
+  skill
+
+  barrel'
+bip_39_word_new_line6: 'whale
+
+  warm
+
+  employ
+
+  skill
+
+  barrel
+
+  clip'
+bip_39_word_new_line7: 'whale
+
+  warm
+
+  employ
+
+  skill
+
+  barrel
+
+  clip
+
+  private'
+bip_39_word_new_line8: 'whale
+
+  warm
+
+  employ
+
+  skill
+
+  barrel
+
+  clip
+
+  private
+
+  crowd'
+bip_39_word_new_line9: 'whale
+
+  warm
+
+  employ
+
+  skill
+
+  barrel
+
+  clip
+
+  private
+
+  crowd
+
+  bike'
+bip_39_word_space_0:
+- whale
+- warm
+- employ
+- skill
+- barrel
+- clip
+- private
+- crowd
+- bike
+- earth
+- announce
+- attitude
+bip_39_word_space_1: whale
+bip_39_word_space_10: whale warm employ skill barrel clip private crowd bike earth
+bip_39_word_space_11: whale warm employ skill barrel clip private crowd bike earth
+  announce
+bip_39_word_space_12: whale warm employ skill barrel clip private crowd bike earth
+  announce attitude
+bip_39_word_space_2: whale warm
+bip_39_word_space_3: whale warm employ
+bip_39_word_space_4: whale warm employ skill
+bip_39_word_space_5: whale warm employ skill barrel
+bip_39_word_space_6: whale warm employ skill barrel clip
+bip_39_word_space_7: whale warm employ skill barrel clip private
+bip_39_word_space_8: whale warm employ skill barrel clip private crowd
+bip_39_word_space_9: whale warm employ skill barrel clip private crowd bike
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

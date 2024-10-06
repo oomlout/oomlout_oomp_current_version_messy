@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boss hotel
+  * bip 39 word 3: boss hotel stay
+  * bip 39 word: boss hotel stay expire border swing verify gun exotic record wrist allow
 
 ### other_codes
 * short_code: br6914
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boss |  
+| bip_39_word_new_br10 | boss<br>hotel<br>stay<br>expire<br>border<br>swing<br>verify<br>gun<br>exotic<br>record |  
+| bip_39_word_new_br11 | boss<br>hotel<br>stay<br>expire<br>border<br>swing<br>verify<br>gun<br>exotic<br>record<br>wrist |  
+| bip_39_word_new_br12 | boss<br>hotel<br>stay<br>expire<br>border<br>swing<br>verify<br>gun<br>exotic<br>record<br>wrist<br>allow |  
+| bip_39_word_new_br2 | boss<br>hotel |  
+| bip_39_word_new_br3 | boss<br>hotel<br>stay |  
+| bip_39_word_new_br4 | boss<br>hotel<br>stay<br>expire |  
+| bip_39_word_new_br5 | boss<br>hotel<br>stay<br>expire<br>border |  
+| bip_39_word_new_br6 | boss<br>hotel<br>stay<br>expire<br>border<br>swing |  
+| bip_39_word_new_br7 | boss<br>hotel<br>stay<br>expire<br>border<br>swing<br>verify |  
+| bip_39_word_new_br8 | boss<br>hotel<br>stay<br>expire<br>border<br>swing<br>verify<br>gun |  
+| bip_39_word_new_br9 | boss<br>hotel<br>stay<br>expire<br>border<br>swing<br>verify<br>gun<br>exotic |  
+| bip_39_word_new_line1 | boss |  
+| bip_39_word_new_line10 | boss
+hotel
+stay
+expire
+border
+swing
+verify
+gun
+exotic
+record |  
+| bip_39_word_new_line11 | boss
+hotel
+stay
+expire
+border
+swing
+verify
+gun
+exotic
+record
+wrist |  
+| bip_39_word_new_line12 | boss
+hotel
+stay
+expire
+border
+swing
+verify
+gun
+exotic
+record
+wrist
+allow |  
+| bip_39_word_new_line2 | boss
+hotel |  
+| bip_39_word_new_line3 | boss
+hotel
+stay |  
+| bip_39_word_new_line4 | boss
+hotel
+stay
+expire |  
+| bip_39_word_new_line5 | boss
+hotel
+stay
+expire
+border |  
+| bip_39_word_new_line6 | boss
+hotel
+stay
+expire
+border
+swing |  
+| bip_39_word_new_line7 | boss
+hotel
+stay
+expire
+border
+swing
+verify |  
+| bip_39_word_new_line8 | boss
+hotel
+stay
+expire
+border
+swing
+verify
+gun |  
+| bip_39_word_new_line9 | boss
+hotel
+stay
+expire
+border
+swing
+verify
+gun
+exotic |  
+| bip_39_word_space_0 | ['boss', 'hotel', 'stay', 'expire', 'border', 'swing', 'verify', 'gun', 'exotic', 'record', 'wrist', 'allow'] |  
+| bip_39_word_space_1 | boss |  
+| bip_39_word_space_10 | boss hotel stay expire border swing verify gun exotic record |  
+| bip_39_word_space_11 | boss hotel stay expire border swing verify gun exotic record wrist |  
+| bip_39_word_space_12 | boss hotel stay expire border swing verify gun exotic record wrist allow |  
+| bip_39_word_space_2 | boss hotel |  
+| bip_39_word_space_3 | boss hotel stay |  
+| bip_39_word_space_4 | boss hotel stay expire |  
+| bip_39_word_space_5 | boss hotel stay expire border |  
+| bip_39_word_space_6 | boss hotel stay expire border swing |  
+| bip_39_word_space_7 | boss hotel stay expire border swing verify |  
+| bip_39_word_space_8 | boss hotel stay expire border swing verify gun |  
+| bip_39_word_space_9 | boss hotel stay expire border swing verify gun exotic |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

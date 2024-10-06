@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: true tuna
+  * bip 39 word 3: true tuna front
+  * bip 39 word: true tuna front ribbon radar twist curtain general subject wine step adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | true |  
+| bip_39_word_new_br10 | true<br>tuna<br>front<br>ribbon<br>radar<br>twist<br>curtain<br>general<br>subject<br>wine |  
+| bip_39_word_new_br11 | true<br>tuna<br>front<br>ribbon<br>radar<br>twist<br>curtain<br>general<br>subject<br>wine<br>step |  
+| bip_39_word_new_br12 | true<br>tuna<br>front<br>ribbon<br>radar<br>twist<br>curtain<br>general<br>subject<br>wine<br>step<br>adjust |  
+| bip_39_word_new_br2 | true<br>tuna |  
+| bip_39_word_new_br3 | true<br>tuna<br>front |  
+| bip_39_word_new_br4 | true<br>tuna<br>front<br>ribbon |  
+| bip_39_word_new_br5 | true<br>tuna<br>front<br>ribbon<br>radar |  
+| bip_39_word_new_br6 | true<br>tuna<br>front<br>ribbon<br>radar<br>twist |  
+| bip_39_word_new_br7 | true<br>tuna<br>front<br>ribbon<br>radar<br>twist<br>curtain |  
+| bip_39_word_new_br8 | true<br>tuna<br>front<br>ribbon<br>radar<br>twist<br>curtain<br>general |  
+| bip_39_word_new_br9 | true<br>tuna<br>front<br>ribbon<br>radar<br>twist<br>curtain<br>general<br>subject |  
+| bip_39_word_new_line1 | true |  
+| bip_39_word_new_line10 | true
+tuna
+front
+ribbon
+radar
+twist
+curtain
+general
+subject
+wine |  
+| bip_39_word_new_line11 | true
+tuna
+front
+ribbon
+radar
+twist
+curtain
+general
+subject
+wine
+step |  
+| bip_39_word_new_line12 | true
+tuna
+front
+ribbon
+radar
+twist
+curtain
+general
+subject
+wine
+step
+adjust |  
+| bip_39_word_new_line2 | true
+tuna |  
+| bip_39_word_new_line3 | true
+tuna
+front |  
+| bip_39_word_new_line4 | true
+tuna
+front
+ribbon |  
+| bip_39_word_new_line5 | true
+tuna
+front
+ribbon
+radar |  
+| bip_39_word_new_line6 | true
+tuna
+front
+ribbon
+radar
+twist |  
+| bip_39_word_new_line7 | true
+tuna
+front
+ribbon
+radar
+twist
+curtain |  
+| bip_39_word_new_line8 | true
+tuna
+front
+ribbon
+radar
+twist
+curtain
+general |  
+| bip_39_word_new_line9 | true
+tuna
+front
+ribbon
+radar
+twist
+curtain
+general
+subject |  
+| bip_39_word_space_0 | ['true', 'tuna', 'front', 'ribbon', 'radar', 'twist', 'curtain', 'general', 'subject', 'wine', 'step', 'adjust'] |  
+| bip_39_word_space_1 | true |  
+| bip_39_word_space_10 | true tuna front ribbon radar twist curtain general subject wine |  
+| bip_39_word_space_11 | true tuna front ribbon radar twist curtain general subject wine step |  
+| bip_39_word_space_12 | true tuna front ribbon radar twist curtain general subject wine step adjust |  
+| bip_39_word_space_2 | true tuna |  
+| bip_39_word_space_3 | true tuna front |  
+| bip_39_word_space_4 | true tuna front ribbon |  
+| bip_39_word_space_5 | true tuna front ribbon radar |  
+| bip_39_word_space_6 | true tuna front ribbon radar twist |  
+| bip_39_word_space_7 | true tuna front ribbon radar twist curtain |  
+| bip_39_word_space_8 | true tuna front ribbon radar twist curtain general |  
+| bip_39_word_space_9 | true tuna front ribbon radar twist curtain general subject |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

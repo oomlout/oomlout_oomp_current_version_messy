@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: industry gas
+  * bip 39 word 3: industry gas draft
+  * bip 39 word: industry gas draft chicken sudden fire ship better fantasy oblige stone age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | industry |  
+| bip_39_word_new_br10 | industry<br>gas<br>draft<br>chicken<br>sudden<br>fire<br>ship<br>better<br>fantasy<br>oblige |  
+| bip_39_word_new_br11 | industry<br>gas<br>draft<br>chicken<br>sudden<br>fire<br>ship<br>better<br>fantasy<br>oblige<br>stone |  
+| bip_39_word_new_br12 | industry<br>gas<br>draft<br>chicken<br>sudden<br>fire<br>ship<br>better<br>fantasy<br>oblige<br>stone<br>age |  
+| bip_39_word_new_br2 | industry<br>gas |  
+| bip_39_word_new_br3 | industry<br>gas<br>draft |  
+| bip_39_word_new_br4 | industry<br>gas<br>draft<br>chicken |  
+| bip_39_word_new_br5 | industry<br>gas<br>draft<br>chicken<br>sudden |  
+| bip_39_word_new_br6 | industry<br>gas<br>draft<br>chicken<br>sudden<br>fire |  
+| bip_39_word_new_br7 | industry<br>gas<br>draft<br>chicken<br>sudden<br>fire<br>ship |  
+| bip_39_word_new_br8 | industry<br>gas<br>draft<br>chicken<br>sudden<br>fire<br>ship<br>better |  
+| bip_39_word_new_br9 | industry<br>gas<br>draft<br>chicken<br>sudden<br>fire<br>ship<br>better<br>fantasy |  
+| bip_39_word_new_line1 | industry |  
+| bip_39_word_new_line10 | industry
+gas
+draft
+chicken
+sudden
+fire
+ship
+better
+fantasy
+oblige |  
+| bip_39_word_new_line11 | industry
+gas
+draft
+chicken
+sudden
+fire
+ship
+better
+fantasy
+oblige
+stone |  
+| bip_39_word_new_line12 | industry
+gas
+draft
+chicken
+sudden
+fire
+ship
+better
+fantasy
+oblige
+stone
+age |  
+| bip_39_word_new_line2 | industry
+gas |  
+| bip_39_word_new_line3 | industry
+gas
+draft |  
+| bip_39_word_new_line4 | industry
+gas
+draft
+chicken |  
+| bip_39_word_new_line5 | industry
+gas
+draft
+chicken
+sudden |  
+| bip_39_word_new_line6 | industry
+gas
+draft
+chicken
+sudden
+fire |  
+| bip_39_word_new_line7 | industry
+gas
+draft
+chicken
+sudden
+fire
+ship |  
+| bip_39_word_new_line8 | industry
+gas
+draft
+chicken
+sudden
+fire
+ship
+better |  
+| bip_39_word_new_line9 | industry
+gas
+draft
+chicken
+sudden
+fire
+ship
+better
+fantasy |  
+| bip_39_word_space_0 | ['industry', 'gas', 'draft', 'chicken', 'sudden', 'fire', 'ship', 'better', 'fantasy', 'oblige', 'stone', 'age'] |  
+| bip_39_word_space_1 | industry |  
+| bip_39_word_space_10 | industry gas draft chicken sudden fire ship better fantasy oblige |  
+| bip_39_word_space_11 | industry gas draft chicken sudden fire ship better fantasy oblige stone |  
+| bip_39_word_space_12 | industry gas draft chicken sudden fire ship better fantasy oblige stone age |  
+| bip_39_word_space_2 | industry gas |  
+| bip_39_word_space_3 | industry gas draft |  
+| bip_39_word_space_4 | industry gas draft chicken |  
+| bip_39_word_space_5 | industry gas draft chicken sudden |  
+| bip_39_word_space_6 | industry gas draft chicken sudden fire |  
+| bip_39_word_space_7 | industry gas draft chicken sudden fire ship |  
+| bip_39_word_space_8 | industry gas draft chicken sudden fire ship better |  
+| bip_39_word_space_9 | industry gas draft chicken sudden fire ship better fantasy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

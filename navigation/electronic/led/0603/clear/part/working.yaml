@@ -1,3 +1,186 @@
+bip_39_word_new_br1: upper
+bip_39_word_new_br10: upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp
+bip_39_word_new_br11: upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp<br>patrol
+bip_39_word_new_br12: upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe<br>pulp<br>patrol<br>asthma
+bip_39_word_new_br2: upper<br>situate
+bip_39_word_new_br3: upper<br>situate<br>merge
+bip_39_word_new_br4: upper<br>situate<br>merge<br>dove
+bip_39_word_new_br5: upper<br>situate<br>merge<br>dove<br>raven
+bip_39_word_new_br6: upper<br>situate<br>merge<br>dove<br>raven<br>dance
+bip_39_word_new_br7: upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest
+bip_39_word_new_br8: upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush
+bip_39_word_new_br9: upper<br>situate<br>merge<br>dove<br>raven<br>dance<br>harvest<br>slush<br>giraffe
+bip_39_word_new_line1: upper
+bip_39_word_new_line10: 'upper
+
+  situate
+
+  merge
+
+  dove
+
+  raven
+
+  dance
+
+  harvest
+
+  slush
+
+  giraffe
+
+  pulp'
+bip_39_word_new_line11: 'upper
+
+  situate
+
+  merge
+
+  dove
+
+  raven
+
+  dance
+
+  harvest
+
+  slush
+
+  giraffe
+
+  pulp
+
+  patrol'
+bip_39_word_new_line12: 'upper
+
+  situate
+
+  merge
+
+  dove
+
+  raven
+
+  dance
+
+  harvest
+
+  slush
+
+  giraffe
+
+  pulp
+
+  patrol
+
+  asthma'
+bip_39_word_new_line2: 'upper
+
+  situate'
+bip_39_word_new_line3: 'upper
+
+  situate
+
+  merge'
+bip_39_word_new_line4: 'upper
+
+  situate
+
+  merge
+
+  dove'
+bip_39_word_new_line5: 'upper
+
+  situate
+
+  merge
+
+  dove
+
+  raven'
+bip_39_word_new_line6: 'upper
+
+  situate
+
+  merge
+
+  dove
+
+  raven
+
+  dance'
+bip_39_word_new_line7: 'upper
+
+  situate
+
+  merge
+
+  dove
+
+  raven
+
+  dance
+
+  harvest'
+bip_39_word_new_line8: 'upper
+
+  situate
+
+  merge
+
+  dove
+
+  raven
+
+  dance
+
+  harvest
+
+  slush'
+bip_39_word_new_line9: 'upper
+
+  situate
+
+  merge
+
+  dove
+
+  raven
+
+  dance
+
+  harvest
+
+  slush
+
+  giraffe'
+bip_39_word_space_0:
+- upper
+- situate
+- merge
+- dove
+- raven
+- dance
+- harvest
+- slush
+- giraffe
+- pulp
+- patrol
+- asthma
+bip_39_word_space_1: upper
+bip_39_word_space_10: upper situate merge dove raven dance harvest slush giraffe pulp
+bip_39_word_space_11: upper situate merge dove raven dance harvest slush giraffe pulp
+  patrol
+bip_39_word_space_12: upper situate merge dove raven dance harvest slush giraffe pulp
+  patrol asthma
+bip_39_word_space_2: upper situate
+bip_39_word_space_3: upper situate merge
+bip_39_word_space_4: upper situate merge dove
+bip_39_word_space_5: upper situate merge dove raven
+bip_39_word_space_6: upper situate merge dove raven dance
+bip_39_word_space_7: upper situate merge dove raven dance harvest
+bip_39_word_space_8: upper situate merge dove raven dance harvest slush
+bip_39_word_space_9: upper situate merge dove raven dance harvest slush giraffe
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

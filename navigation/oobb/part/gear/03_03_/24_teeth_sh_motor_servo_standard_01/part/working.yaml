@@ -1,3 +1,186 @@
+bip_39_word_new_br1: law
+bip_39_word_new_br10: law<br>nephew<br>hockey<br>leisure<br>nasty<br>act<br>mimic<br>coconut<br>raven<br>pumpkin
+bip_39_word_new_br11: law<br>nephew<br>hockey<br>leisure<br>nasty<br>act<br>mimic<br>coconut<br>raven<br>pumpkin<br>situate
+bip_39_word_new_br12: law<br>nephew<br>hockey<br>leisure<br>nasty<br>act<br>mimic<br>coconut<br>raven<br>pumpkin<br>situate<br>around
+bip_39_word_new_br2: law<br>nephew
+bip_39_word_new_br3: law<br>nephew<br>hockey
+bip_39_word_new_br4: law<br>nephew<br>hockey<br>leisure
+bip_39_word_new_br5: law<br>nephew<br>hockey<br>leisure<br>nasty
+bip_39_word_new_br6: law<br>nephew<br>hockey<br>leisure<br>nasty<br>act
+bip_39_word_new_br7: law<br>nephew<br>hockey<br>leisure<br>nasty<br>act<br>mimic
+bip_39_word_new_br8: law<br>nephew<br>hockey<br>leisure<br>nasty<br>act<br>mimic<br>coconut
+bip_39_word_new_br9: law<br>nephew<br>hockey<br>leisure<br>nasty<br>act<br>mimic<br>coconut<br>raven
+bip_39_word_new_line1: law
+bip_39_word_new_line10: 'law
+
+  nephew
+
+  hockey
+
+  leisure
+
+  nasty
+
+  act
+
+  mimic
+
+  coconut
+
+  raven
+
+  pumpkin'
+bip_39_word_new_line11: 'law
+
+  nephew
+
+  hockey
+
+  leisure
+
+  nasty
+
+  act
+
+  mimic
+
+  coconut
+
+  raven
+
+  pumpkin
+
+  situate'
+bip_39_word_new_line12: 'law
+
+  nephew
+
+  hockey
+
+  leisure
+
+  nasty
+
+  act
+
+  mimic
+
+  coconut
+
+  raven
+
+  pumpkin
+
+  situate
+
+  around'
+bip_39_word_new_line2: 'law
+
+  nephew'
+bip_39_word_new_line3: 'law
+
+  nephew
+
+  hockey'
+bip_39_word_new_line4: 'law
+
+  nephew
+
+  hockey
+
+  leisure'
+bip_39_word_new_line5: 'law
+
+  nephew
+
+  hockey
+
+  leisure
+
+  nasty'
+bip_39_word_new_line6: 'law
+
+  nephew
+
+  hockey
+
+  leisure
+
+  nasty
+
+  act'
+bip_39_word_new_line7: 'law
+
+  nephew
+
+  hockey
+
+  leisure
+
+  nasty
+
+  act
+
+  mimic'
+bip_39_word_new_line8: 'law
+
+  nephew
+
+  hockey
+
+  leisure
+
+  nasty
+
+  act
+
+  mimic
+
+  coconut'
+bip_39_word_new_line9: 'law
+
+  nephew
+
+  hockey
+
+  leisure
+
+  nasty
+
+  act
+
+  mimic
+
+  coconut
+
+  raven'
+bip_39_word_space_0:
+- law
+- nephew
+- hockey
+- leisure
+- nasty
+- act
+- mimic
+- coconut
+- raven
+- pumpkin
+- situate
+- around
+bip_39_word_space_1: law
+bip_39_word_space_10: law nephew hockey leisure nasty act mimic coconut raven pumpkin
+bip_39_word_space_11: law nephew hockey leisure nasty act mimic coconut raven pumpkin
+  situate
+bip_39_word_space_12: law nephew hockey leisure nasty act mimic coconut raven pumpkin
+  situate around
+bip_39_word_space_2: law nephew
+bip_39_word_space_3: law nephew hockey
+bip_39_word_space_4: law nephew hockey leisure
+bip_39_word_space_5: law nephew hockey leisure nasty
+bip_39_word_space_6: law nephew hockey leisure nasty act
+bip_39_word_space_7: law nephew hockey leisure nasty act mimic
+bip_39_word_space_8: law nephew hockey leisure nasty act mimic coconut
+bip_39_word_space_9: law nephew hockey leisure nasty act mimic coconut raven
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

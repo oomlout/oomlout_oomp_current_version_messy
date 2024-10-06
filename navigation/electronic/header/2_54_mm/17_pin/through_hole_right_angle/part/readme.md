@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dismiss section
+  * bip 39 word 3: dismiss section tool
+  * bip 39 word: dismiss section tool deposit evil always girl help yellow cool weird ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dismiss |  
+| bip_39_word_new_br10 | dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool |  
+| bip_39_word_new_br11 | dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool<br>weird |  
+| bip_39_word_new_br12 | dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow<br>cool<br>weird<br>ability |  
+| bip_39_word_new_br2 | dismiss<br>section |  
+| bip_39_word_new_br3 | dismiss<br>section<br>tool |  
+| bip_39_word_new_br4 | dismiss<br>section<br>tool<br>deposit |  
+| bip_39_word_new_br5 | dismiss<br>section<br>tool<br>deposit<br>evil |  
+| bip_39_word_new_br6 | dismiss<br>section<br>tool<br>deposit<br>evil<br>always |  
+| bip_39_word_new_br7 | dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl |  
+| bip_39_word_new_br8 | dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help |  
+| bip_39_word_new_br9 | dismiss<br>section<br>tool<br>deposit<br>evil<br>always<br>girl<br>help<br>yellow |  
+| bip_39_word_new_line1 | dismiss |  
+| bip_39_word_new_line10 | dismiss
+section
+tool
+deposit
+evil
+always
+girl
+help
+yellow
+cool |  
+| bip_39_word_new_line11 | dismiss
+section
+tool
+deposit
+evil
+always
+girl
+help
+yellow
+cool
+weird |  
+| bip_39_word_new_line12 | dismiss
+section
+tool
+deposit
+evil
+always
+girl
+help
+yellow
+cool
+weird
+ability |  
+| bip_39_word_new_line2 | dismiss
+section |  
+| bip_39_word_new_line3 | dismiss
+section
+tool |  
+| bip_39_word_new_line4 | dismiss
+section
+tool
+deposit |  
+| bip_39_word_new_line5 | dismiss
+section
+tool
+deposit
+evil |  
+| bip_39_word_new_line6 | dismiss
+section
+tool
+deposit
+evil
+always |  
+| bip_39_word_new_line7 | dismiss
+section
+tool
+deposit
+evil
+always
+girl |  
+| bip_39_word_new_line8 | dismiss
+section
+tool
+deposit
+evil
+always
+girl
+help |  
+| bip_39_word_new_line9 | dismiss
+section
+tool
+deposit
+evil
+always
+girl
+help
+yellow |  
+| bip_39_word_space_0 | ['dismiss', 'section', 'tool', 'deposit', 'evil', 'always', 'girl', 'help', 'yellow', 'cool', 'weird', 'ability'] |  
+| bip_39_word_space_1 | dismiss |  
+| bip_39_word_space_10 | dismiss section tool deposit evil always girl help yellow cool |  
+| bip_39_word_space_11 | dismiss section tool deposit evil always girl help yellow cool weird |  
+| bip_39_word_space_12 | dismiss section tool deposit evil always girl help yellow cool weird ability |  
+| bip_39_word_space_2 | dismiss section |  
+| bip_39_word_space_3 | dismiss section tool |  
+| bip_39_word_space_4 | dismiss section tool deposit |  
+| bip_39_word_space_5 | dismiss section tool deposit evil |  
+| bip_39_word_space_6 | dismiss section tool deposit evil always |  
+| bip_39_word_space_7 | dismiss section tool deposit evil always girl |  
+| bip_39_word_space_8 | dismiss section tool deposit evil always girl help |  
+| bip_39_word_space_9 | dismiss section tool deposit evil always girl help yellow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

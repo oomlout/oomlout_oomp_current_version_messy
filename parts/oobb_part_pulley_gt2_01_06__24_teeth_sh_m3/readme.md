@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: throw broom
+  * bip 39 word 3: throw broom trash
+  * bip 39 word: throw broom trash flee obey asset library finish visual space worry asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | throw |  
+| bip_39_word_new_br10 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space |  
+| bip_39_word_new_br11 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space<br>worry |  
+| bip_39_word_new_br12 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual<br>space<br>worry<br>asset |  
+| bip_39_word_new_br2 | throw<br>broom |  
+| bip_39_word_new_br3 | throw<br>broom<br>trash |  
+| bip_39_word_new_br4 | throw<br>broom<br>trash<br>flee |  
+| bip_39_word_new_br5 | throw<br>broom<br>trash<br>flee<br>obey |  
+| bip_39_word_new_br6 | throw<br>broom<br>trash<br>flee<br>obey<br>asset |  
+| bip_39_word_new_br7 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library |  
+| bip_39_word_new_br8 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish |  
+| bip_39_word_new_br9 | throw<br>broom<br>trash<br>flee<br>obey<br>asset<br>library<br>finish<br>visual |  
+| bip_39_word_new_line1 | throw |  
+| bip_39_word_new_line10 | throw
+broom
+trash
+flee
+obey
+asset
+library
+finish
+visual
+space |  
+| bip_39_word_new_line11 | throw
+broom
+trash
+flee
+obey
+asset
+library
+finish
+visual
+space
+worry |  
+| bip_39_word_new_line12 | throw
+broom
+trash
+flee
+obey
+asset
+library
+finish
+visual
+space
+worry
+asset |  
+| bip_39_word_new_line2 | throw
+broom |  
+| bip_39_word_new_line3 | throw
+broom
+trash |  
+| bip_39_word_new_line4 | throw
+broom
+trash
+flee |  
+| bip_39_word_new_line5 | throw
+broom
+trash
+flee
+obey |  
+| bip_39_word_new_line6 | throw
+broom
+trash
+flee
+obey
+asset |  
+| bip_39_word_new_line7 | throw
+broom
+trash
+flee
+obey
+asset
+library |  
+| bip_39_word_new_line8 | throw
+broom
+trash
+flee
+obey
+asset
+library
+finish |  
+| bip_39_word_new_line9 | throw
+broom
+trash
+flee
+obey
+asset
+library
+finish
+visual |  
+| bip_39_word_space_0 | ['throw', 'broom', 'trash', 'flee', 'obey', 'asset', 'library', 'finish', 'visual', 'space', 'worry', 'asset'] |  
+| bip_39_word_space_1 | throw |  
+| bip_39_word_space_10 | throw broom trash flee obey asset library finish visual space |  
+| bip_39_word_space_11 | throw broom trash flee obey asset library finish visual space worry |  
+| bip_39_word_space_12 | throw broom trash flee obey asset library finish visual space worry asset |  
+| bip_39_word_space_2 | throw broom |  
+| bip_39_word_space_3 | throw broom trash |  
+| bip_39_word_space_4 | throw broom trash flee |  
+| bip_39_word_space_5 | throw broom trash flee obey |  
+| bip_39_word_space_6 | throw broom trash flee obey asset |  
+| bip_39_word_space_7 | throw broom trash flee obey asset library |  
+| bip_39_word_space_8 | throw broom trash flee obey asset library finish |  
+| bip_39_word_space_9 | throw broom trash flee obey asset library finish visual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

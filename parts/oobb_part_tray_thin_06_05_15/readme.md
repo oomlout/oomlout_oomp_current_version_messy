@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: steak digital
+  * bip 39 word 3: steak digital crater
+  * bip 39 word: steak digital crater fit fatal host faculty blush suspect old merry ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | steak |  
+| bip_39_word_new_br10 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old |  
+| bip_39_word_new_br11 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry |  
+| bip_39_word_new_br12 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry<br>ahead |  
+| bip_39_word_new_br2 | steak<br>digital |  
+| bip_39_word_new_br3 | steak<br>digital<br>crater |  
+| bip_39_word_new_br4 | steak<br>digital<br>crater<br>fit |  
+| bip_39_word_new_br5 | steak<br>digital<br>crater<br>fit<br>fatal |  
+| bip_39_word_new_br6 | steak<br>digital<br>crater<br>fit<br>fatal<br>host |  
+| bip_39_word_new_br7 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty |  
+| bip_39_word_new_br8 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush |  
+| bip_39_word_new_br9 | steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect |  
+| bip_39_word_new_line1 | steak |  
+| bip_39_word_new_line10 | steak
+digital
+crater
+fit
+fatal
+host
+faculty
+blush
+suspect
+old |  
+| bip_39_word_new_line11 | steak
+digital
+crater
+fit
+fatal
+host
+faculty
+blush
+suspect
+old
+merry |  
+| bip_39_word_new_line12 | steak
+digital
+crater
+fit
+fatal
+host
+faculty
+blush
+suspect
+old
+merry
+ahead |  
+| bip_39_word_new_line2 | steak
+digital |  
+| bip_39_word_new_line3 | steak
+digital
+crater |  
+| bip_39_word_new_line4 | steak
+digital
+crater
+fit |  
+| bip_39_word_new_line5 | steak
+digital
+crater
+fit
+fatal |  
+| bip_39_word_new_line6 | steak
+digital
+crater
+fit
+fatal
+host |  
+| bip_39_word_new_line7 | steak
+digital
+crater
+fit
+fatal
+host
+faculty |  
+| bip_39_word_new_line8 | steak
+digital
+crater
+fit
+fatal
+host
+faculty
+blush |  
+| bip_39_word_new_line9 | steak
+digital
+crater
+fit
+fatal
+host
+faculty
+blush
+suspect |  
+| bip_39_word_space_0 | ['steak', 'digital', 'crater', 'fit', 'fatal', 'host', 'faculty', 'blush', 'suspect', 'old', 'merry', 'ahead'] |  
+| bip_39_word_space_1 | steak |  
+| bip_39_word_space_10 | steak digital crater fit fatal host faculty blush suspect old |  
+| bip_39_word_space_11 | steak digital crater fit fatal host faculty blush suspect old merry |  
+| bip_39_word_space_12 | steak digital crater fit fatal host faculty blush suspect old merry ahead |  
+| bip_39_word_space_2 | steak digital |  
+| bip_39_word_space_3 | steak digital crater |  
+| bip_39_word_space_4 | steak digital crater fit |  
+| bip_39_word_space_5 | steak digital crater fit fatal |  
+| bip_39_word_space_6 | steak digital crater fit fatal host |  
+| bip_39_word_space_7 | steak digital crater fit fatal host faculty |  
+| bip_39_word_space_8 | steak digital crater fit fatal host faculty blush |  
+| bip_39_word_space_9 | steak digital crater fit fatal host faculty blush suspect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

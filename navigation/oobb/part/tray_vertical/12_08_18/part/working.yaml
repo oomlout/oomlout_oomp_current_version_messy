@@ -1,3 +1,186 @@
+bip_39_word_new_br1: 'off'
+bip_39_word_new_br10: off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk
+bip_39_word_new_br11: off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk<br>gossip
+bip_39_word_new_br12: off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip<br>silk<br>gossip<br>autumn
+bip_39_word_new_br2: off<br>canvas
+bip_39_word_new_br3: off<br>canvas<br>traffic
+bip_39_word_new_br4: off<br>canvas<br>traffic<br>evil
+bip_39_word_new_br5: off<br>canvas<br>traffic<br>evil<br>purchase
+bip_39_word_new_br6: off<br>canvas<br>traffic<br>evil<br>purchase<br>rain
+bip_39_word_new_br7: off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe
+bip_39_word_new_br8: off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture
+bip_39_word_new_br9: off<br>canvas<br>traffic<br>evil<br>purchase<br>rain<br>recipe<br>gesture<br>tip
+bip_39_word_new_line1: 'off'
+bip_39_word_new_line10: 'off
+
+  canvas
+
+  traffic
+
+  evil
+
+  purchase
+
+  rain
+
+  recipe
+
+  gesture
+
+  tip
+
+  silk'
+bip_39_word_new_line11: 'off
+
+  canvas
+
+  traffic
+
+  evil
+
+  purchase
+
+  rain
+
+  recipe
+
+  gesture
+
+  tip
+
+  silk
+
+  gossip'
+bip_39_word_new_line12: 'off
+
+  canvas
+
+  traffic
+
+  evil
+
+  purchase
+
+  rain
+
+  recipe
+
+  gesture
+
+  tip
+
+  silk
+
+  gossip
+
+  autumn'
+bip_39_word_new_line2: 'off
+
+  canvas'
+bip_39_word_new_line3: 'off
+
+  canvas
+
+  traffic'
+bip_39_word_new_line4: 'off
+
+  canvas
+
+  traffic
+
+  evil'
+bip_39_word_new_line5: 'off
+
+  canvas
+
+  traffic
+
+  evil
+
+  purchase'
+bip_39_word_new_line6: 'off
+
+  canvas
+
+  traffic
+
+  evil
+
+  purchase
+
+  rain'
+bip_39_word_new_line7: 'off
+
+  canvas
+
+  traffic
+
+  evil
+
+  purchase
+
+  rain
+
+  recipe'
+bip_39_word_new_line8: 'off
+
+  canvas
+
+  traffic
+
+  evil
+
+  purchase
+
+  rain
+
+  recipe
+
+  gesture'
+bip_39_word_new_line9: 'off
+
+  canvas
+
+  traffic
+
+  evil
+
+  purchase
+
+  rain
+
+  recipe
+
+  gesture
+
+  tip'
+bip_39_word_space_0:
+- 'off'
+- canvas
+- traffic
+- evil
+- purchase
+- rain
+- recipe
+- gesture
+- tip
+- silk
+- gossip
+- autumn
+bip_39_word_space_1: 'off'
+bip_39_word_space_10: off canvas traffic evil purchase rain recipe gesture tip silk
+bip_39_word_space_11: off canvas traffic evil purchase rain recipe gesture tip silk
+  gossip
+bip_39_word_space_12: off canvas traffic evil purchase rain recipe gesture tip silk
+  gossip autumn
+bip_39_word_space_2: off canvas
+bip_39_word_space_3: off canvas traffic
+bip_39_word_space_4: off canvas traffic evil
+bip_39_word_space_5: off canvas traffic evil purchase
+bip_39_word_space_6: off canvas traffic evil purchase rain
+bip_39_word_space_7: off canvas traffic evil purchase rain recipe
+bip_39_word_space_8: off canvas traffic evil purchase rain recipe gesture
+bip_39_word_space_9: off canvas traffic evil purchase rain recipe gesture tip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

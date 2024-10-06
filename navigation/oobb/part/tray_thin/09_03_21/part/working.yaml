@@ -1,3 +1,186 @@
+bip_39_word_new_br1: brick
+bip_39_word_new_br10: brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager
+bip_39_word_new_br11: brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager<br>minimum
+bip_39_word_new_br12: brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot<br>eager<br>minimum<br>arrow
+bip_39_word_new_br2: brick<br>athlete
+bip_39_word_new_br3: brick<br>athlete<br>anger
+bip_39_word_new_br4: brick<br>athlete<br>anger<br>unhappy
+bip_39_word_new_br5: brick<br>athlete<br>anger<br>unhappy<br>book
+bip_39_word_new_br6: brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper
+bip_39_word_new_br7: brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick
+bip_39_word_new_br8: brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long
+bip_39_word_new_br9: brick<br>athlete<br>anger<br>unhappy<br>book<br>pepper<br>stick<br>long<br>robot
+bip_39_word_new_line1: brick
+bip_39_word_new_line10: 'brick
+
+  athlete
+
+  anger
+
+  unhappy
+
+  book
+
+  pepper
+
+  stick
+
+  long
+
+  robot
+
+  eager'
+bip_39_word_new_line11: 'brick
+
+  athlete
+
+  anger
+
+  unhappy
+
+  book
+
+  pepper
+
+  stick
+
+  long
+
+  robot
+
+  eager
+
+  minimum'
+bip_39_word_new_line12: 'brick
+
+  athlete
+
+  anger
+
+  unhappy
+
+  book
+
+  pepper
+
+  stick
+
+  long
+
+  robot
+
+  eager
+
+  minimum
+
+  arrow'
+bip_39_word_new_line2: 'brick
+
+  athlete'
+bip_39_word_new_line3: 'brick
+
+  athlete
+
+  anger'
+bip_39_word_new_line4: 'brick
+
+  athlete
+
+  anger
+
+  unhappy'
+bip_39_word_new_line5: 'brick
+
+  athlete
+
+  anger
+
+  unhappy
+
+  book'
+bip_39_word_new_line6: 'brick
+
+  athlete
+
+  anger
+
+  unhappy
+
+  book
+
+  pepper'
+bip_39_word_new_line7: 'brick
+
+  athlete
+
+  anger
+
+  unhappy
+
+  book
+
+  pepper
+
+  stick'
+bip_39_word_new_line8: 'brick
+
+  athlete
+
+  anger
+
+  unhappy
+
+  book
+
+  pepper
+
+  stick
+
+  long'
+bip_39_word_new_line9: 'brick
+
+  athlete
+
+  anger
+
+  unhappy
+
+  book
+
+  pepper
+
+  stick
+
+  long
+
+  robot'
+bip_39_word_space_0:
+- brick
+- athlete
+- anger
+- unhappy
+- book
+- pepper
+- stick
+- long
+- robot
+- eager
+- minimum
+- arrow
+bip_39_word_space_1: brick
+bip_39_word_space_10: brick athlete anger unhappy book pepper stick long robot eager
+bip_39_word_space_11: brick athlete anger unhappy book pepper stick long robot eager
+  minimum
+bip_39_word_space_12: brick athlete anger unhappy book pepper stick long robot eager
+  minimum arrow
+bip_39_word_space_2: brick athlete
+bip_39_word_space_3: brick athlete anger
+bip_39_word_space_4: brick athlete anger unhappy
+bip_39_word_space_5: brick athlete anger unhappy book
+bip_39_word_space_6: brick athlete anger unhappy book pepper
+bip_39_word_space_7: brick athlete anger unhappy book pepper stick
+bip_39_word_space_8: brick athlete anger unhappy book pepper stick long
+bip_39_word_space_9: brick athlete anger unhappy book pepper stick long robot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: black effort
+  * bip 39 word 3: black effort suggest
+  * bip 39 word: black effort suggest crack waste velvet stomach myself genuine donate throw add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | black |  
+| bip_39_word_new_br10 | black<br>effort<br>suggest<br>crack<br>waste<br>velvet<br>stomach<br>myself<br>genuine<br>donate |  
+| bip_39_word_new_br11 | black<br>effort<br>suggest<br>crack<br>waste<br>velvet<br>stomach<br>myself<br>genuine<br>donate<br>throw |  
+| bip_39_word_new_br12 | black<br>effort<br>suggest<br>crack<br>waste<br>velvet<br>stomach<br>myself<br>genuine<br>donate<br>throw<br>add |  
+| bip_39_word_new_br2 | black<br>effort |  
+| bip_39_word_new_br3 | black<br>effort<br>suggest |  
+| bip_39_word_new_br4 | black<br>effort<br>suggest<br>crack |  
+| bip_39_word_new_br5 | black<br>effort<br>suggest<br>crack<br>waste |  
+| bip_39_word_new_br6 | black<br>effort<br>suggest<br>crack<br>waste<br>velvet |  
+| bip_39_word_new_br7 | black<br>effort<br>suggest<br>crack<br>waste<br>velvet<br>stomach |  
+| bip_39_word_new_br8 | black<br>effort<br>suggest<br>crack<br>waste<br>velvet<br>stomach<br>myself |  
+| bip_39_word_new_br9 | black<br>effort<br>suggest<br>crack<br>waste<br>velvet<br>stomach<br>myself<br>genuine |  
+| bip_39_word_new_line1 | black |  
+| bip_39_word_new_line10 | black
+effort
+suggest
+crack
+waste
+velvet
+stomach
+myself
+genuine
+donate |  
+| bip_39_word_new_line11 | black
+effort
+suggest
+crack
+waste
+velvet
+stomach
+myself
+genuine
+donate
+throw |  
+| bip_39_word_new_line12 | black
+effort
+suggest
+crack
+waste
+velvet
+stomach
+myself
+genuine
+donate
+throw
+add |  
+| bip_39_word_new_line2 | black
+effort |  
+| bip_39_word_new_line3 | black
+effort
+suggest |  
+| bip_39_word_new_line4 | black
+effort
+suggest
+crack |  
+| bip_39_word_new_line5 | black
+effort
+suggest
+crack
+waste |  
+| bip_39_word_new_line6 | black
+effort
+suggest
+crack
+waste
+velvet |  
+| bip_39_word_new_line7 | black
+effort
+suggest
+crack
+waste
+velvet
+stomach |  
+| bip_39_word_new_line8 | black
+effort
+suggest
+crack
+waste
+velvet
+stomach
+myself |  
+| bip_39_word_new_line9 | black
+effort
+suggest
+crack
+waste
+velvet
+stomach
+myself
+genuine |  
+| bip_39_word_space_0 | ['black', 'effort', 'suggest', 'crack', 'waste', 'velvet', 'stomach', 'myself', 'genuine', 'donate', 'throw', 'add'] |  
+| bip_39_word_space_1 | black |  
+| bip_39_word_space_10 | black effort suggest crack waste velvet stomach myself genuine donate |  
+| bip_39_word_space_11 | black effort suggest crack waste velvet stomach myself genuine donate throw |  
+| bip_39_word_space_12 | black effort suggest crack waste velvet stomach myself genuine donate throw add |  
+| bip_39_word_space_2 | black effort |  
+| bip_39_word_space_3 | black effort suggest |  
+| bip_39_word_space_4 | black effort suggest crack |  
+| bip_39_word_space_5 | black effort suggest crack waste |  
+| bip_39_word_space_6 | black effort suggest crack waste velvet |  
+| bip_39_word_space_7 | black effort suggest crack waste velvet stomach |  
+| bip_39_word_space_8 | black effort suggest crack waste velvet stomach myself |  
+| bip_39_word_space_9 | black effort suggest crack waste velvet stomach myself genuine |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

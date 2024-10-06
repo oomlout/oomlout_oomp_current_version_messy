@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bamboo foster
+  * bip 39 word 3: bamboo foster provide
+  * bip 39 word: bamboo foster provide initial horse gold ginger gas thunder pulse project arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bamboo |  
+| bip_39_word_new_br10 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold<br>ginger<br>gas<br>thunder<br>pulse |  
+| bip_39_word_new_br11 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold<br>ginger<br>gas<br>thunder<br>pulse<br>project |  
+| bip_39_word_new_br12 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold<br>ginger<br>gas<br>thunder<br>pulse<br>project<br>arrest |  
+| bip_39_word_new_br2 | bamboo<br>foster |  
+| bip_39_word_new_br3 | bamboo<br>foster<br>provide |  
+| bip_39_word_new_br4 | bamboo<br>foster<br>provide<br>initial |  
+| bip_39_word_new_br5 | bamboo<br>foster<br>provide<br>initial<br>horse |  
+| bip_39_word_new_br6 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold |  
+| bip_39_word_new_br7 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold<br>ginger |  
+| bip_39_word_new_br8 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold<br>ginger<br>gas |  
+| bip_39_word_new_br9 | bamboo<br>foster<br>provide<br>initial<br>horse<br>gold<br>ginger<br>gas<br>thunder |  
+| bip_39_word_new_line1 | bamboo |  
+| bip_39_word_new_line10 | bamboo
+foster
+provide
+initial
+horse
+gold
+ginger
+gas
+thunder
+pulse |  
+| bip_39_word_new_line11 | bamboo
+foster
+provide
+initial
+horse
+gold
+ginger
+gas
+thunder
+pulse
+project |  
+| bip_39_word_new_line12 | bamboo
+foster
+provide
+initial
+horse
+gold
+ginger
+gas
+thunder
+pulse
+project
+arrest |  
+| bip_39_word_new_line2 | bamboo
+foster |  
+| bip_39_word_new_line3 | bamboo
+foster
+provide |  
+| bip_39_word_new_line4 | bamboo
+foster
+provide
+initial |  
+| bip_39_word_new_line5 | bamboo
+foster
+provide
+initial
+horse |  
+| bip_39_word_new_line6 | bamboo
+foster
+provide
+initial
+horse
+gold |  
+| bip_39_word_new_line7 | bamboo
+foster
+provide
+initial
+horse
+gold
+ginger |  
+| bip_39_word_new_line8 | bamboo
+foster
+provide
+initial
+horse
+gold
+ginger
+gas |  
+| bip_39_word_new_line9 | bamboo
+foster
+provide
+initial
+horse
+gold
+ginger
+gas
+thunder |  
+| bip_39_word_space_0 | ['bamboo', 'foster', 'provide', 'initial', 'horse', 'gold', 'ginger', 'gas', 'thunder', 'pulse', 'project', 'arrest'] |  
+| bip_39_word_space_1 | bamboo |  
+| bip_39_word_space_10 | bamboo foster provide initial horse gold ginger gas thunder pulse |  
+| bip_39_word_space_11 | bamboo foster provide initial horse gold ginger gas thunder pulse project |  
+| bip_39_word_space_12 | bamboo foster provide initial horse gold ginger gas thunder pulse project arrest |  
+| bip_39_word_space_2 | bamboo foster |  
+| bip_39_word_space_3 | bamboo foster provide |  
+| bip_39_word_space_4 | bamboo foster provide initial |  
+| bip_39_word_space_5 | bamboo foster provide initial horse |  
+| bip_39_word_space_6 | bamboo foster provide initial horse gold |  
+| bip_39_word_space_7 | bamboo foster provide initial horse gold ginger |  
+| bip_39_word_space_8 | bamboo foster provide initial horse gold ginger gas |  
+| bip_39_word_space_9 | bamboo foster provide initial horse gold ginger gas thunder |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

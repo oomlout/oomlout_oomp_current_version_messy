@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tragic foil
+  * bip 39 word 3: tragic foil skin
+  * bip 39 word: tragic foil skin cart position dolphin typical much treat little leg arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tragic |  
+| bip_39_word_new_br10 | tragic<br>foil<br>skin<br>cart<br>position<br>dolphin<br>typical<br>much<br>treat<br>little |  
+| bip_39_word_new_br11 | tragic<br>foil<br>skin<br>cart<br>position<br>dolphin<br>typical<br>much<br>treat<br>little<br>leg |  
+| bip_39_word_new_br12 | tragic<br>foil<br>skin<br>cart<br>position<br>dolphin<br>typical<br>much<br>treat<br>little<br>leg<br>arrange |  
+| bip_39_word_new_br2 | tragic<br>foil |  
+| bip_39_word_new_br3 | tragic<br>foil<br>skin |  
+| bip_39_word_new_br4 | tragic<br>foil<br>skin<br>cart |  
+| bip_39_word_new_br5 | tragic<br>foil<br>skin<br>cart<br>position |  
+| bip_39_word_new_br6 | tragic<br>foil<br>skin<br>cart<br>position<br>dolphin |  
+| bip_39_word_new_br7 | tragic<br>foil<br>skin<br>cart<br>position<br>dolphin<br>typical |  
+| bip_39_word_new_br8 | tragic<br>foil<br>skin<br>cart<br>position<br>dolphin<br>typical<br>much |  
+| bip_39_word_new_br9 | tragic<br>foil<br>skin<br>cart<br>position<br>dolphin<br>typical<br>much<br>treat |  
+| bip_39_word_new_line1 | tragic |  
+| bip_39_word_new_line10 | tragic
+foil
+skin
+cart
+position
+dolphin
+typical
+much
+treat
+little |  
+| bip_39_word_new_line11 | tragic
+foil
+skin
+cart
+position
+dolphin
+typical
+much
+treat
+little
+leg |  
+| bip_39_word_new_line12 | tragic
+foil
+skin
+cart
+position
+dolphin
+typical
+much
+treat
+little
+leg
+arrange |  
+| bip_39_word_new_line2 | tragic
+foil |  
+| bip_39_word_new_line3 | tragic
+foil
+skin |  
+| bip_39_word_new_line4 | tragic
+foil
+skin
+cart |  
+| bip_39_word_new_line5 | tragic
+foil
+skin
+cart
+position |  
+| bip_39_word_new_line6 | tragic
+foil
+skin
+cart
+position
+dolphin |  
+| bip_39_word_new_line7 | tragic
+foil
+skin
+cart
+position
+dolphin
+typical |  
+| bip_39_word_new_line8 | tragic
+foil
+skin
+cart
+position
+dolphin
+typical
+much |  
+| bip_39_word_new_line9 | tragic
+foil
+skin
+cart
+position
+dolphin
+typical
+much
+treat |  
+| bip_39_word_space_0 | ['tragic', 'foil', 'skin', 'cart', 'position', 'dolphin', 'typical', 'much', 'treat', 'little', 'leg', 'arrange'] |  
+| bip_39_word_space_1 | tragic |  
+| bip_39_word_space_10 | tragic foil skin cart position dolphin typical much treat little |  
+| bip_39_word_space_11 | tragic foil skin cart position dolphin typical much treat little leg |  
+| bip_39_word_space_12 | tragic foil skin cart position dolphin typical much treat little leg arrange |  
+| bip_39_word_space_2 | tragic foil |  
+| bip_39_word_space_3 | tragic foil skin |  
+| bip_39_word_space_4 | tragic foil skin cart |  
+| bip_39_word_space_5 | tragic foil skin cart position |  
+| bip_39_word_space_6 | tragic foil skin cart position dolphin |  
+| bip_39_word_space_7 | tragic foil skin cart position dolphin typical |  
+| bip_39_word_space_8 | tragic foil skin cart position dolphin typical much |  
+| bip_39_word_space_9 | tragic foil skin cart position dolphin typical much treat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

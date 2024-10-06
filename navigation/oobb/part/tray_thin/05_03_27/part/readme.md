@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bid opinion
+  * bip 39 word 3: bid opinion affair
+  * bip 39 word: bid opinion affair attend detail table stamp alter average pottery phrase access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bid |  
+| bip_39_word_new_br10 | bid<br>opinion<br>affair<br>attend<br>detail<br>table<br>stamp<br>alter<br>average<br>pottery |  
+| bip_39_word_new_br11 | bid<br>opinion<br>affair<br>attend<br>detail<br>table<br>stamp<br>alter<br>average<br>pottery<br>phrase |  
+| bip_39_word_new_br12 | bid<br>opinion<br>affair<br>attend<br>detail<br>table<br>stamp<br>alter<br>average<br>pottery<br>phrase<br>access |  
+| bip_39_word_new_br2 | bid<br>opinion |  
+| bip_39_word_new_br3 | bid<br>opinion<br>affair |  
+| bip_39_word_new_br4 | bid<br>opinion<br>affair<br>attend |  
+| bip_39_word_new_br5 | bid<br>opinion<br>affair<br>attend<br>detail |  
+| bip_39_word_new_br6 | bid<br>opinion<br>affair<br>attend<br>detail<br>table |  
+| bip_39_word_new_br7 | bid<br>opinion<br>affair<br>attend<br>detail<br>table<br>stamp |  
+| bip_39_word_new_br8 | bid<br>opinion<br>affair<br>attend<br>detail<br>table<br>stamp<br>alter |  
+| bip_39_word_new_br9 | bid<br>opinion<br>affair<br>attend<br>detail<br>table<br>stamp<br>alter<br>average |  
+| bip_39_word_new_line1 | bid |  
+| bip_39_word_new_line10 | bid
+opinion
+affair
+attend
+detail
+table
+stamp
+alter
+average
+pottery |  
+| bip_39_word_new_line11 | bid
+opinion
+affair
+attend
+detail
+table
+stamp
+alter
+average
+pottery
+phrase |  
+| bip_39_word_new_line12 | bid
+opinion
+affair
+attend
+detail
+table
+stamp
+alter
+average
+pottery
+phrase
+access |  
+| bip_39_word_new_line2 | bid
+opinion |  
+| bip_39_word_new_line3 | bid
+opinion
+affair |  
+| bip_39_word_new_line4 | bid
+opinion
+affair
+attend |  
+| bip_39_word_new_line5 | bid
+opinion
+affair
+attend
+detail |  
+| bip_39_word_new_line6 | bid
+opinion
+affair
+attend
+detail
+table |  
+| bip_39_word_new_line7 | bid
+opinion
+affair
+attend
+detail
+table
+stamp |  
+| bip_39_word_new_line8 | bid
+opinion
+affair
+attend
+detail
+table
+stamp
+alter |  
+| bip_39_word_new_line9 | bid
+opinion
+affair
+attend
+detail
+table
+stamp
+alter
+average |  
+| bip_39_word_space_0 | ['bid', 'opinion', 'affair', 'attend', 'detail', 'table', 'stamp', 'alter', 'average', 'pottery', 'phrase', 'access'] |  
+| bip_39_word_space_1 | bid |  
+| bip_39_word_space_10 | bid opinion affair attend detail table stamp alter average pottery |  
+| bip_39_word_space_11 | bid opinion affair attend detail table stamp alter average pottery phrase |  
+| bip_39_word_space_12 | bid opinion affair attend detail table stamp alter average pottery phrase access |  
+| bip_39_word_space_2 | bid opinion |  
+| bip_39_word_space_3 | bid opinion affair |  
+| bip_39_word_space_4 | bid opinion affair attend |  
+| bip_39_word_space_5 | bid opinion affair attend detail |  
+| bip_39_word_space_6 | bid opinion affair attend detail table |  
+| bip_39_word_space_7 | bid opinion affair attend detail table stamp |  
+| bip_39_word_space_8 | bid opinion affair attend detail table stamp alter |  
+| bip_39_word_space_9 | bid opinion affair attend detail table stamp alter average |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

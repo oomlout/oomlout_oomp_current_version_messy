@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tourist
+bip_39_word_new_br10: tourist<br>gauge<br>laptop<br>track<br>often<br>expand<br>render<br>vibrant<br>win<br>kitchen
+bip_39_word_new_br11: tourist<br>gauge<br>laptop<br>track<br>often<br>expand<br>render<br>vibrant<br>win<br>kitchen<br>uphold
+bip_39_word_new_br12: tourist<br>gauge<br>laptop<br>track<br>often<br>expand<br>render<br>vibrant<br>win<br>kitchen<br>uphold<br>already
+bip_39_word_new_br2: tourist<br>gauge
+bip_39_word_new_br3: tourist<br>gauge<br>laptop
+bip_39_word_new_br4: tourist<br>gauge<br>laptop<br>track
+bip_39_word_new_br5: tourist<br>gauge<br>laptop<br>track<br>often
+bip_39_word_new_br6: tourist<br>gauge<br>laptop<br>track<br>often<br>expand
+bip_39_word_new_br7: tourist<br>gauge<br>laptop<br>track<br>often<br>expand<br>render
+bip_39_word_new_br8: tourist<br>gauge<br>laptop<br>track<br>often<br>expand<br>render<br>vibrant
+bip_39_word_new_br9: tourist<br>gauge<br>laptop<br>track<br>often<br>expand<br>render<br>vibrant<br>win
+bip_39_word_new_line1: tourist
+bip_39_word_new_line10: 'tourist
+
+  gauge
+
+  laptop
+
+  track
+
+  often
+
+  expand
+
+  render
+
+  vibrant
+
+  win
+
+  kitchen'
+bip_39_word_new_line11: 'tourist
+
+  gauge
+
+  laptop
+
+  track
+
+  often
+
+  expand
+
+  render
+
+  vibrant
+
+  win
+
+  kitchen
+
+  uphold'
+bip_39_word_new_line12: 'tourist
+
+  gauge
+
+  laptop
+
+  track
+
+  often
+
+  expand
+
+  render
+
+  vibrant
+
+  win
+
+  kitchen
+
+  uphold
+
+  already'
+bip_39_word_new_line2: 'tourist
+
+  gauge'
+bip_39_word_new_line3: 'tourist
+
+  gauge
+
+  laptop'
+bip_39_word_new_line4: 'tourist
+
+  gauge
+
+  laptop
+
+  track'
+bip_39_word_new_line5: 'tourist
+
+  gauge
+
+  laptop
+
+  track
+
+  often'
+bip_39_word_new_line6: 'tourist
+
+  gauge
+
+  laptop
+
+  track
+
+  often
+
+  expand'
+bip_39_word_new_line7: 'tourist
+
+  gauge
+
+  laptop
+
+  track
+
+  often
+
+  expand
+
+  render'
+bip_39_word_new_line8: 'tourist
+
+  gauge
+
+  laptop
+
+  track
+
+  often
+
+  expand
+
+  render
+
+  vibrant'
+bip_39_word_new_line9: 'tourist
+
+  gauge
+
+  laptop
+
+  track
+
+  often
+
+  expand
+
+  render
+
+  vibrant
+
+  win'
+bip_39_word_space_0:
+- tourist
+- gauge
+- laptop
+- track
+- often
+- expand
+- render
+- vibrant
+- win
+- kitchen
+- uphold
+- already
+bip_39_word_space_1: tourist
+bip_39_word_space_10: tourist gauge laptop track often expand render vibrant win kitchen
+bip_39_word_space_11: tourist gauge laptop track often expand render vibrant win kitchen
+  uphold
+bip_39_word_space_12: tourist gauge laptop track often expand render vibrant win kitchen
+  uphold already
+bip_39_word_space_2: tourist gauge
+bip_39_word_space_3: tourist gauge laptop
+bip_39_word_space_4: tourist gauge laptop track
+bip_39_word_space_5: tourist gauge laptop track often
+bip_39_word_space_6: tourist gauge laptop track often expand
+bip_39_word_space_7: tourist gauge laptop track often expand render
+bip_39_word_space_8: tourist gauge laptop track often expand render vibrant
+bip_39_word_space_9: tourist gauge laptop track often expand render vibrant win
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

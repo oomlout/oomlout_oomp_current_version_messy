@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plastic card
+  * bip 39 word 3: plastic card wet
+  * bip 39 word: plastic card wet party demise chat egg robust element accident fine alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plastic |  
+| bip_39_word_new_br10 | plastic<br>card<br>wet<br>party<br>demise<br>chat<br>egg<br>robust<br>element<br>accident |  
+| bip_39_word_new_br11 | plastic<br>card<br>wet<br>party<br>demise<br>chat<br>egg<br>robust<br>element<br>accident<br>fine |  
+| bip_39_word_new_br12 | plastic<br>card<br>wet<br>party<br>demise<br>chat<br>egg<br>robust<br>element<br>accident<br>fine<br>alcohol |  
+| bip_39_word_new_br2 | plastic<br>card |  
+| bip_39_word_new_br3 | plastic<br>card<br>wet |  
+| bip_39_word_new_br4 | plastic<br>card<br>wet<br>party |  
+| bip_39_word_new_br5 | plastic<br>card<br>wet<br>party<br>demise |  
+| bip_39_word_new_br6 | plastic<br>card<br>wet<br>party<br>demise<br>chat |  
+| bip_39_word_new_br7 | plastic<br>card<br>wet<br>party<br>demise<br>chat<br>egg |  
+| bip_39_word_new_br8 | plastic<br>card<br>wet<br>party<br>demise<br>chat<br>egg<br>robust |  
+| bip_39_word_new_br9 | plastic<br>card<br>wet<br>party<br>demise<br>chat<br>egg<br>robust<br>element |  
+| bip_39_word_new_line1 | plastic |  
+| bip_39_word_new_line10 | plastic
+card
+wet
+party
+demise
+chat
+egg
+robust
+element
+accident |  
+| bip_39_word_new_line11 | plastic
+card
+wet
+party
+demise
+chat
+egg
+robust
+element
+accident
+fine |  
+| bip_39_word_new_line12 | plastic
+card
+wet
+party
+demise
+chat
+egg
+robust
+element
+accident
+fine
+alcohol |  
+| bip_39_word_new_line2 | plastic
+card |  
+| bip_39_word_new_line3 | plastic
+card
+wet |  
+| bip_39_word_new_line4 | plastic
+card
+wet
+party |  
+| bip_39_word_new_line5 | plastic
+card
+wet
+party
+demise |  
+| bip_39_word_new_line6 | plastic
+card
+wet
+party
+demise
+chat |  
+| bip_39_word_new_line7 | plastic
+card
+wet
+party
+demise
+chat
+egg |  
+| bip_39_word_new_line8 | plastic
+card
+wet
+party
+demise
+chat
+egg
+robust |  
+| bip_39_word_new_line9 | plastic
+card
+wet
+party
+demise
+chat
+egg
+robust
+element |  
+| bip_39_word_space_0 | ['plastic', 'card', 'wet', 'party', 'demise', 'chat', 'egg', 'robust', 'element', 'accident', 'fine', 'alcohol'] |  
+| bip_39_word_space_1 | plastic |  
+| bip_39_word_space_10 | plastic card wet party demise chat egg robust element accident |  
+| bip_39_word_space_11 | plastic card wet party demise chat egg robust element accident fine |  
+| bip_39_word_space_12 | plastic card wet party demise chat egg robust element accident fine alcohol |  
+| bip_39_word_space_2 | plastic card |  
+| bip_39_word_space_3 | plastic card wet |  
+| bip_39_word_space_4 | plastic card wet party |  
+| bip_39_word_space_5 | plastic card wet party demise |  
+| bip_39_word_space_6 | plastic card wet party demise chat |  
+| bip_39_word_space_7 | plastic card wet party demise chat egg |  
+| bip_39_word_space_8 | plastic card wet party demise chat egg robust |  
+| bip_39_word_space_9 | plastic card wet party demise chat egg robust element |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wisdom
+bip_39_word_new_br10: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket
+bip_39_word_new_br11: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket<br>badge
+bip_39_word_new_br12: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt<br>ticket<br>badge<br>author
+bip_39_word_new_br2: wisdom<br>team
+bip_39_word_new_br3: wisdom<br>team<br>loop
+bip_39_word_new_br4: wisdom<br>team<br>loop<br>confirm
+bip_39_word_new_br5: wisdom<br>team<br>loop<br>confirm<br>drum
+bip_39_word_new_br6: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair
+bip_39_word_new_br7: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst
+bip_39_word_new_br8: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach
+bip_39_word_new_br9: wisdom<br>team<br>loop<br>confirm<br>drum<br>affair<br>analyst<br>stomach<br>aunt
+bip_39_word_new_line1: wisdom
+bip_39_word_new_line10: 'wisdom
+
+  team
+
+  loop
+
+  confirm
+
+  drum
+
+  affair
+
+  analyst
+
+  stomach
+
+  aunt
+
+  ticket'
+bip_39_word_new_line11: 'wisdom
+
+  team
+
+  loop
+
+  confirm
+
+  drum
+
+  affair
+
+  analyst
+
+  stomach
+
+  aunt
+
+  ticket
+
+  badge'
+bip_39_word_new_line12: 'wisdom
+
+  team
+
+  loop
+
+  confirm
+
+  drum
+
+  affair
+
+  analyst
+
+  stomach
+
+  aunt
+
+  ticket
+
+  badge
+
+  author'
+bip_39_word_new_line2: 'wisdom
+
+  team'
+bip_39_word_new_line3: 'wisdom
+
+  team
+
+  loop'
+bip_39_word_new_line4: 'wisdom
+
+  team
+
+  loop
+
+  confirm'
+bip_39_word_new_line5: 'wisdom
+
+  team
+
+  loop
+
+  confirm
+
+  drum'
+bip_39_word_new_line6: 'wisdom
+
+  team
+
+  loop
+
+  confirm
+
+  drum
+
+  affair'
+bip_39_word_new_line7: 'wisdom
+
+  team
+
+  loop
+
+  confirm
+
+  drum
+
+  affair
+
+  analyst'
+bip_39_word_new_line8: 'wisdom
+
+  team
+
+  loop
+
+  confirm
+
+  drum
+
+  affair
+
+  analyst
+
+  stomach'
+bip_39_word_new_line9: 'wisdom
+
+  team
+
+  loop
+
+  confirm
+
+  drum
+
+  affair
+
+  analyst
+
+  stomach
+
+  aunt'
+bip_39_word_space_0:
+- wisdom
+- team
+- loop
+- confirm
+- drum
+- affair
+- analyst
+- stomach
+- aunt
+- ticket
+- badge
+- author
+bip_39_word_space_1: wisdom
+bip_39_word_space_10: wisdom team loop confirm drum affair analyst stomach aunt ticket
+bip_39_word_space_11: wisdom team loop confirm drum affair analyst stomach aunt ticket
+  badge
+bip_39_word_space_12: wisdom team loop confirm drum affair analyst stomach aunt ticket
+  badge author
+bip_39_word_space_2: wisdom team
+bip_39_word_space_3: wisdom team loop
+bip_39_word_space_4: wisdom team loop confirm
+bip_39_word_space_5: wisdom team loop confirm drum
+bip_39_word_space_6: wisdom team loop confirm drum affair
+bip_39_word_space_7: wisdom team loop confirm drum affair analyst
+bip_39_word_space_8: wisdom team loop confirm drum affair analyst stomach
+bip_39_word_space_9: wisdom team loop confirm drum affair analyst stomach aunt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

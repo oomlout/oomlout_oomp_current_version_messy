@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: puzzle sword
+  * bip 39 word 3: puzzle sword mechanic
+  * bip 39 word: puzzle sword mechanic giant dignity attend split defy vivid north obvious acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | puzzle |  
+| bip_39_word_new_br10 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend<br>split<br>defy<br>vivid<br>north |  
+| bip_39_word_new_br11 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend<br>split<br>defy<br>vivid<br>north<br>obvious |  
+| bip_39_word_new_br12 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend<br>split<br>defy<br>vivid<br>north<br>obvious<br>acoustic |  
+| bip_39_word_new_br2 | puzzle<br>sword |  
+| bip_39_word_new_br3 | puzzle<br>sword<br>mechanic |  
+| bip_39_word_new_br4 | puzzle<br>sword<br>mechanic<br>giant |  
+| bip_39_word_new_br5 | puzzle<br>sword<br>mechanic<br>giant<br>dignity |  
+| bip_39_word_new_br6 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend |  
+| bip_39_word_new_br7 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend<br>split |  
+| bip_39_word_new_br8 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend<br>split<br>defy |  
+| bip_39_word_new_br9 | puzzle<br>sword<br>mechanic<br>giant<br>dignity<br>attend<br>split<br>defy<br>vivid |  
+| bip_39_word_new_line1 | puzzle |  
+| bip_39_word_new_line10 | puzzle
+sword
+mechanic
+giant
+dignity
+attend
+split
+defy
+vivid
+north |  
+| bip_39_word_new_line11 | puzzle
+sword
+mechanic
+giant
+dignity
+attend
+split
+defy
+vivid
+north
+obvious |  
+| bip_39_word_new_line12 | puzzle
+sword
+mechanic
+giant
+dignity
+attend
+split
+defy
+vivid
+north
+obvious
+acoustic |  
+| bip_39_word_new_line2 | puzzle
+sword |  
+| bip_39_word_new_line3 | puzzle
+sword
+mechanic |  
+| bip_39_word_new_line4 | puzzle
+sword
+mechanic
+giant |  
+| bip_39_word_new_line5 | puzzle
+sword
+mechanic
+giant
+dignity |  
+| bip_39_word_new_line6 | puzzle
+sword
+mechanic
+giant
+dignity
+attend |  
+| bip_39_word_new_line7 | puzzle
+sword
+mechanic
+giant
+dignity
+attend
+split |  
+| bip_39_word_new_line8 | puzzle
+sword
+mechanic
+giant
+dignity
+attend
+split
+defy |  
+| bip_39_word_new_line9 | puzzle
+sword
+mechanic
+giant
+dignity
+attend
+split
+defy
+vivid |  
+| bip_39_word_space_0 | ['puzzle', 'sword', 'mechanic', 'giant', 'dignity', 'attend', 'split', 'defy', 'vivid', 'north', 'obvious', 'acoustic'] |  
+| bip_39_word_space_1 | puzzle |  
+| bip_39_word_space_10 | puzzle sword mechanic giant dignity attend split defy vivid north |  
+| bip_39_word_space_11 | puzzle sword mechanic giant dignity attend split defy vivid north obvious |  
+| bip_39_word_space_12 | puzzle sword mechanic giant dignity attend split defy vivid north obvious acoustic |  
+| bip_39_word_space_2 | puzzle sword |  
+| bip_39_word_space_3 | puzzle sword mechanic |  
+| bip_39_word_space_4 | puzzle sword mechanic giant |  
+| bip_39_word_space_5 | puzzle sword mechanic giant dignity |  
+| bip_39_word_space_6 | puzzle sword mechanic giant dignity attend |  
+| bip_39_word_space_7 | puzzle sword mechanic giant dignity attend split |  
+| bip_39_word_space_8 | puzzle sword mechanic giant dignity attend split defy |  
+| bip_39_word_space_9 | puzzle sword mechanic giant dignity attend split defy vivid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

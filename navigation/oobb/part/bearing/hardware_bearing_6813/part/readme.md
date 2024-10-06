@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cactus parade
+  * bip 39 word 3: cactus parade hub
+  * bip 39 word: cactus parade hub infant pull web flat expire carpet bind syrup airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cactus |  
+| bip_39_word_new_br10 | cactus<br>parade<br>hub<br>infant<br>pull<br>web<br>flat<br>expire<br>carpet<br>bind |  
+| bip_39_word_new_br11 | cactus<br>parade<br>hub<br>infant<br>pull<br>web<br>flat<br>expire<br>carpet<br>bind<br>syrup |  
+| bip_39_word_new_br12 | cactus<br>parade<br>hub<br>infant<br>pull<br>web<br>flat<br>expire<br>carpet<br>bind<br>syrup<br>airport |  
+| bip_39_word_new_br2 | cactus<br>parade |  
+| bip_39_word_new_br3 | cactus<br>parade<br>hub |  
+| bip_39_word_new_br4 | cactus<br>parade<br>hub<br>infant |  
+| bip_39_word_new_br5 | cactus<br>parade<br>hub<br>infant<br>pull |  
+| bip_39_word_new_br6 | cactus<br>parade<br>hub<br>infant<br>pull<br>web |  
+| bip_39_word_new_br7 | cactus<br>parade<br>hub<br>infant<br>pull<br>web<br>flat |  
+| bip_39_word_new_br8 | cactus<br>parade<br>hub<br>infant<br>pull<br>web<br>flat<br>expire |  
+| bip_39_word_new_br9 | cactus<br>parade<br>hub<br>infant<br>pull<br>web<br>flat<br>expire<br>carpet |  
+| bip_39_word_new_line1 | cactus |  
+| bip_39_word_new_line10 | cactus
+parade
+hub
+infant
+pull
+web
+flat
+expire
+carpet
+bind |  
+| bip_39_word_new_line11 | cactus
+parade
+hub
+infant
+pull
+web
+flat
+expire
+carpet
+bind
+syrup |  
+| bip_39_word_new_line12 | cactus
+parade
+hub
+infant
+pull
+web
+flat
+expire
+carpet
+bind
+syrup
+airport |  
+| bip_39_word_new_line2 | cactus
+parade |  
+| bip_39_word_new_line3 | cactus
+parade
+hub |  
+| bip_39_word_new_line4 | cactus
+parade
+hub
+infant |  
+| bip_39_word_new_line5 | cactus
+parade
+hub
+infant
+pull |  
+| bip_39_word_new_line6 | cactus
+parade
+hub
+infant
+pull
+web |  
+| bip_39_word_new_line7 | cactus
+parade
+hub
+infant
+pull
+web
+flat |  
+| bip_39_word_new_line8 | cactus
+parade
+hub
+infant
+pull
+web
+flat
+expire |  
+| bip_39_word_new_line9 | cactus
+parade
+hub
+infant
+pull
+web
+flat
+expire
+carpet |  
+| bip_39_word_space_0 | ['cactus', 'parade', 'hub', 'infant', 'pull', 'web', 'flat', 'expire', 'carpet', 'bind', 'syrup', 'airport'] |  
+| bip_39_word_space_1 | cactus |  
+| bip_39_word_space_10 | cactus parade hub infant pull web flat expire carpet bind |  
+| bip_39_word_space_11 | cactus parade hub infant pull web flat expire carpet bind syrup |  
+| bip_39_word_space_12 | cactus parade hub infant pull web flat expire carpet bind syrup airport |  
+| bip_39_word_space_2 | cactus parade |  
+| bip_39_word_space_3 | cactus parade hub |  
+| bip_39_word_space_4 | cactus parade hub infant |  
+| bip_39_word_space_5 | cactus parade hub infant pull |  
+| bip_39_word_space_6 | cactus parade hub infant pull web |  
+| bip_39_word_space_7 | cactus parade hub infant pull web flat |  
+| bip_39_word_space_8 | cactus parade hub infant pull web flat expire |  
+| bip_39_word_space_9 | cactus parade hub infant pull web flat expire carpet |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

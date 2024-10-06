@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: betray steak
+  * bip 39 word 3: betray steak cricket
+  * bip 39 word: betray steak cricket predict deal pet rug unhappy furnace topple plug annual
 
 ### other_codes
 * short_code: so3nw30ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | betray |  
+| bip_39_word_new_br10 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet<br>rug<br>unhappy<br>furnace<br>topple |  
+| bip_39_word_new_br11 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet<br>rug<br>unhappy<br>furnace<br>topple<br>plug |  
+| bip_39_word_new_br12 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet<br>rug<br>unhappy<br>furnace<br>topple<br>plug<br>annual |  
+| bip_39_word_new_br2 | betray<br>steak |  
+| bip_39_word_new_br3 | betray<br>steak<br>cricket |  
+| bip_39_word_new_br4 | betray<br>steak<br>cricket<br>predict |  
+| bip_39_word_new_br5 | betray<br>steak<br>cricket<br>predict<br>deal |  
+| bip_39_word_new_br6 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet |  
+| bip_39_word_new_br7 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet<br>rug |  
+| bip_39_word_new_br8 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet<br>rug<br>unhappy |  
+| bip_39_word_new_br9 | betray<br>steak<br>cricket<br>predict<br>deal<br>pet<br>rug<br>unhappy<br>furnace |  
+| bip_39_word_new_line1 | betray |  
+| bip_39_word_new_line10 | betray
+steak
+cricket
+predict
+deal
+pet
+rug
+unhappy
+furnace
+topple |  
+| bip_39_word_new_line11 | betray
+steak
+cricket
+predict
+deal
+pet
+rug
+unhappy
+furnace
+topple
+plug |  
+| bip_39_word_new_line12 | betray
+steak
+cricket
+predict
+deal
+pet
+rug
+unhappy
+furnace
+topple
+plug
+annual |  
+| bip_39_word_new_line2 | betray
+steak |  
+| bip_39_word_new_line3 | betray
+steak
+cricket |  
+| bip_39_word_new_line4 | betray
+steak
+cricket
+predict |  
+| bip_39_word_new_line5 | betray
+steak
+cricket
+predict
+deal |  
+| bip_39_word_new_line6 | betray
+steak
+cricket
+predict
+deal
+pet |  
+| bip_39_word_new_line7 | betray
+steak
+cricket
+predict
+deal
+pet
+rug |  
+| bip_39_word_new_line8 | betray
+steak
+cricket
+predict
+deal
+pet
+rug
+unhappy |  
+| bip_39_word_new_line9 | betray
+steak
+cricket
+predict
+deal
+pet
+rug
+unhappy
+furnace |  
+| bip_39_word_space_0 | ['betray', 'steak', 'cricket', 'predict', 'deal', 'pet', 'rug', 'unhappy', 'furnace', 'topple', 'plug', 'annual'] |  
+| bip_39_word_space_1 | betray |  
+| bip_39_word_space_10 | betray steak cricket predict deal pet rug unhappy furnace topple |  
+| bip_39_word_space_11 | betray steak cricket predict deal pet rug unhappy furnace topple plug |  
+| bip_39_word_space_12 | betray steak cricket predict deal pet rug unhappy furnace topple plug annual |  
+| bip_39_word_space_2 | betray steak |  
+| bip_39_word_space_3 | betray steak cricket |  
+| bip_39_word_space_4 | betray steak cricket predict |  
+| bip_39_word_space_5 | betray steak cricket predict deal |  
+| bip_39_word_space_6 | betray steak cricket predict deal pet |  
+| bip_39_word_space_7 | betray steak cricket predict deal pet rug |  
+| bip_39_word_space_8 | betray steak cricket predict deal pet rug unhappy |  
+| bip_39_word_space_9 | betray steak cricket predict deal pet rug unhappy furnace |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

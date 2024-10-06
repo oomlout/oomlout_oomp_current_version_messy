@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shell erode
+  * bip 39 word 3: shell erode faint
+  * bip 39 word: shell erode faint share orbit steel addict ginger tornado relief liberty arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shell |  
+| bip_39_word_new_br10 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief |  
+| bip_39_word_new_br11 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief<br>liberty |  
+| bip_39_word_new_br12 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado<br>relief<br>liberty<br>arena |  
+| bip_39_word_new_br2 | shell<br>erode |  
+| bip_39_word_new_br3 | shell<br>erode<br>faint |  
+| bip_39_word_new_br4 | shell<br>erode<br>faint<br>share |  
+| bip_39_word_new_br5 | shell<br>erode<br>faint<br>share<br>orbit |  
+| bip_39_word_new_br6 | shell<br>erode<br>faint<br>share<br>orbit<br>steel |  
+| bip_39_word_new_br7 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict |  
+| bip_39_word_new_br8 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger |  
+| bip_39_word_new_br9 | shell<br>erode<br>faint<br>share<br>orbit<br>steel<br>addict<br>ginger<br>tornado |  
+| bip_39_word_new_line1 | shell |  
+| bip_39_word_new_line10 | shell
+erode
+faint
+share
+orbit
+steel
+addict
+ginger
+tornado
+relief |  
+| bip_39_word_new_line11 | shell
+erode
+faint
+share
+orbit
+steel
+addict
+ginger
+tornado
+relief
+liberty |  
+| bip_39_word_new_line12 | shell
+erode
+faint
+share
+orbit
+steel
+addict
+ginger
+tornado
+relief
+liberty
+arena |  
+| bip_39_word_new_line2 | shell
+erode |  
+| bip_39_word_new_line3 | shell
+erode
+faint |  
+| bip_39_word_new_line4 | shell
+erode
+faint
+share |  
+| bip_39_word_new_line5 | shell
+erode
+faint
+share
+orbit |  
+| bip_39_word_new_line6 | shell
+erode
+faint
+share
+orbit
+steel |  
+| bip_39_word_new_line7 | shell
+erode
+faint
+share
+orbit
+steel
+addict |  
+| bip_39_word_new_line8 | shell
+erode
+faint
+share
+orbit
+steel
+addict
+ginger |  
+| bip_39_word_new_line9 | shell
+erode
+faint
+share
+orbit
+steel
+addict
+ginger
+tornado |  
+| bip_39_word_space_0 | ['shell', 'erode', 'faint', 'share', 'orbit', 'steel', 'addict', 'ginger', 'tornado', 'relief', 'liberty', 'arena'] |  
+| bip_39_word_space_1 | shell |  
+| bip_39_word_space_10 | shell erode faint share orbit steel addict ginger tornado relief |  
+| bip_39_word_space_11 | shell erode faint share orbit steel addict ginger tornado relief liberty |  
+| bip_39_word_space_12 | shell erode faint share orbit steel addict ginger tornado relief liberty arena |  
+| bip_39_word_space_2 | shell erode |  
+| bip_39_word_space_3 | shell erode faint |  
+| bip_39_word_space_4 | shell erode faint share |  
+| bip_39_word_space_5 | shell erode faint share orbit |  
+| bip_39_word_space_6 | shell erode faint share orbit steel |  
+| bip_39_word_space_7 | shell erode faint share orbit steel addict |  
+| bip_39_word_space_8 | shell erode faint share orbit steel addict ginger |  
+| bip_39_word_space_9 | shell erode faint share orbit steel addict ginger tornado |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

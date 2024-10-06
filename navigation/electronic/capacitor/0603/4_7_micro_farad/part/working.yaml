@@ -1,3 +1,186 @@
+bip_39_word_new_br1: blade
+bip_39_word_new_br10: blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket
+bip_39_word_new_br11: blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket<br>flush
+bip_39_word_new_br12: blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice<br>cricket<br>flush<br>allow
+bip_39_word_new_br2: blade<br>gadget
+bip_39_word_new_br3: blade<br>gadget<br>engage
+bip_39_word_new_br4: blade<br>gadget<br>engage<br>bulk
+bip_39_word_new_br5: blade<br>gadget<br>engage<br>bulk<br>fame
+bip_39_word_new_br6: blade<br>gadget<br>engage<br>bulk<br>fame<br>idea
+bip_39_word_new_br7: blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect
+bip_39_word_new_br8: blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain
+bip_39_word_new_br9: blade<br>gadget<br>engage<br>bulk<br>fame<br>idea<br>aspect<br>captain<br>nice
+bip_39_word_new_line1: blade
+bip_39_word_new_line10: 'blade
+
+  gadget
+
+  engage
+
+  bulk
+
+  fame
+
+  idea
+
+  aspect
+
+  captain
+
+  nice
+
+  cricket'
+bip_39_word_new_line11: 'blade
+
+  gadget
+
+  engage
+
+  bulk
+
+  fame
+
+  idea
+
+  aspect
+
+  captain
+
+  nice
+
+  cricket
+
+  flush'
+bip_39_word_new_line12: 'blade
+
+  gadget
+
+  engage
+
+  bulk
+
+  fame
+
+  idea
+
+  aspect
+
+  captain
+
+  nice
+
+  cricket
+
+  flush
+
+  allow'
+bip_39_word_new_line2: 'blade
+
+  gadget'
+bip_39_word_new_line3: 'blade
+
+  gadget
+
+  engage'
+bip_39_word_new_line4: 'blade
+
+  gadget
+
+  engage
+
+  bulk'
+bip_39_word_new_line5: 'blade
+
+  gadget
+
+  engage
+
+  bulk
+
+  fame'
+bip_39_word_new_line6: 'blade
+
+  gadget
+
+  engage
+
+  bulk
+
+  fame
+
+  idea'
+bip_39_word_new_line7: 'blade
+
+  gadget
+
+  engage
+
+  bulk
+
+  fame
+
+  idea
+
+  aspect'
+bip_39_word_new_line8: 'blade
+
+  gadget
+
+  engage
+
+  bulk
+
+  fame
+
+  idea
+
+  aspect
+
+  captain'
+bip_39_word_new_line9: 'blade
+
+  gadget
+
+  engage
+
+  bulk
+
+  fame
+
+  idea
+
+  aspect
+
+  captain
+
+  nice'
+bip_39_word_space_0:
+- blade
+- gadget
+- engage
+- bulk
+- fame
+- idea
+- aspect
+- captain
+- nice
+- cricket
+- flush
+- allow
+bip_39_word_space_1: blade
+bip_39_word_space_10: blade gadget engage bulk fame idea aspect captain nice cricket
+bip_39_word_space_11: blade gadget engage bulk fame idea aspect captain nice cricket
+  flush
+bip_39_word_space_12: blade gadget engage bulk fame idea aspect captain nice cricket
+  flush allow
+bip_39_word_space_2: blade gadget
+bip_39_word_space_3: blade gadget engage
+bip_39_word_space_4: blade gadget engage bulk
+bip_39_word_space_5: blade gadget engage bulk fame
+bip_39_word_space_6: blade gadget engage bulk fame idea
+bip_39_word_space_7: blade gadget engage bulk fame idea aspect
+bip_39_word_space_8: blade gadget engage bulk fame idea aspect captain
+bip_39_word_space_9: blade gadget engage bulk fame idea aspect captain nice
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

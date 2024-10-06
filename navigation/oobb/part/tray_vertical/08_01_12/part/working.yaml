@@ -1,3 +1,186 @@
+bip_39_word_new_br1: erode
+bip_39_word_new_br10: erode<br>hobby<br>chat<br>shield<br>melt<br>random<br>produce<br>buzz<br>carpet<br>nurse
+bip_39_word_new_br11: erode<br>hobby<br>chat<br>shield<br>melt<br>random<br>produce<br>buzz<br>carpet<br>nurse<br>chunk
+bip_39_word_new_br12: erode<br>hobby<br>chat<br>shield<br>melt<br>random<br>produce<br>buzz<br>carpet<br>nurse<br>chunk<br>advance
+bip_39_word_new_br2: erode<br>hobby
+bip_39_word_new_br3: erode<br>hobby<br>chat
+bip_39_word_new_br4: erode<br>hobby<br>chat<br>shield
+bip_39_word_new_br5: erode<br>hobby<br>chat<br>shield<br>melt
+bip_39_word_new_br6: erode<br>hobby<br>chat<br>shield<br>melt<br>random
+bip_39_word_new_br7: erode<br>hobby<br>chat<br>shield<br>melt<br>random<br>produce
+bip_39_word_new_br8: erode<br>hobby<br>chat<br>shield<br>melt<br>random<br>produce<br>buzz
+bip_39_word_new_br9: erode<br>hobby<br>chat<br>shield<br>melt<br>random<br>produce<br>buzz<br>carpet
+bip_39_word_new_line1: erode
+bip_39_word_new_line10: 'erode
+
+  hobby
+
+  chat
+
+  shield
+
+  melt
+
+  random
+
+  produce
+
+  buzz
+
+  carpet
+
+  nurse'
+bip_39_word_new_line11: 'erode
+
+  hobby
+
+  chat
+
+  shield
+
+  melt
+
+  random
+
+  produce
+
+  buzz
+
+  carpet
+
+  nurse
+
+  chunk'
+bip_39_word_new_line12: 'erode
+
+  hobby
+
+  chat
+
+  shield
+
+  melt
+
+  random
+
+  produce
+
+  buzz
+
+  carpet
+
+  nurse
+
+  chunk
+
+  advance'
+bip_39_word_new_line2: 'erode
+
+  hobby'
+bip_39_word_new_line3: 'erode
+
+  hobby
+
+  chat'
+bip_39_word_new_line4: 'erode
+
+  hobby
+
+  chat
+
+  shield'
+bip_39_word_new_line5: 'erode
+
+  hobby
+
+  chat
+
+  shield
+
+  melt'
+bip_39_word_new_line6: 'erode
+
+  hobby
+
+  chat
+
+  shield
+
+  melt
+
+  random'
+bip_39_word_new_line7: 'erode
+
+  hobby
+
+  chat
+
+  shield
+
+  melt
+
+  random
+
+  produce'
+bip_39_word_new_line8: 'erode
+
+  hobby
+
+  chat
+
+  shield
+
+  melt
+
+  random
+
+  produce
+
+  buzz'
+bip_39_word_new_line9: 'erode
+
+  hobby
+
+  chat
+
+  shield
+
+  melt
+
+  random
+
+  produce
+
+  buzz
+
+  carpet'
+bip_39_word_space_0:
+- erode
+- hobby
+- chat
+- shield
+- melt
+- random
+- produce
+- buzz
+- carpet
+- nurse
+- chunk
+- advance
+bip_39_word_space_1: erode
+bip_39_word_space_10: erode hobby chat shield melt random produce buzz carpet nurse
+bip_39_word_space_11: erode hobby chat shield melt random produce buzz carpet nurse
+  chunk
+bip_39_word_space_12: erode hobby chat shield melt random produce buzz carpet nurse
+  chunk advance
+bip_39_word_space_2: erode hobby
+bip_39_word_space_3: erode hobby chat
+bip_39_word_space_4: erode hobby chat shield
+bip_39_word_space_5: erode hobby chat shield melt
+bip_39_word_space_6: erode hobby chat shield melt random
+bip_39_word_space_7: erode hobby chat shield melt random produce
+bip_39_word_space_8: erode hobby chat shield melt random produce buzz
+bip_39_word_space_9: erode hobby chat shield melt random produce buzz carpet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

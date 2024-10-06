@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: economy plunge
+  * bip 39 word 3: economy plunge mandate
+  * bip 39 word: economy plunge mandate torch print punch exact summer snack silver frame attack
 
 ### other_codes
 * short_code: cs2b6p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | economy |  
+| bip_39_word_new_br10 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch<br>exact<br>summer<br>snack<br>silver |  
+| bip_39_word_new_br11 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch<br>exact<br>summer<br>snack<br>silver<br>frame |  
+| bip_39_word_new_br12 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch<br>exact<br>summer<br>snack<br>silver<br>frame<br>attack |  
+| bip_39_word_new_br2 | economy<br>plunge |  
+| bip_39_word_new_br3 | economy<br>plunge<br>mandate |  
+| bip_39_word_new_br4 | economy<br>plunge<br>mandate<br>torch |  
+| bip_39_word_new_br5 | economy<br>plunge<br>mandate<br>torch<br>print |  
+| bip_39_word_new_br6 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch |  
+| bip_39_word_new_br7 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch<br>exact |  
+| bip_39_word_new_br8 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch<br>exact<br>summer |  
+| bip_39_word_new_br9 | economy<br>plunge<br>mandate<br>torch<br>print<br>punch<br>exact<br>summer<br>snack |  
+| bip_39_word_new_line1 | economy |  
+| bip_39_word_new_line10 | economy
+plunge
+mandate
+torch
+print
+punch
+exact
+summer
+snack
+silver |  
+| bip_39_word_new_line11 | economy
+plunge
+mandate
+torch
+print
+punch
+exact
+summer
+snack
+silver
+frame |  
+| bip_39_word_new_line12 | economy
+plunge
+mandate
+torch
+print
+punch
+exact
+summer
+snack
+silver
+frame
+attack |  
+| bip_39_word_new_line2 | economy
+plunge |  
+| bip_39_word_new_line3 | economy
+plunge
+mandate |  
+| bip_39_word_new_line4 | economy
+plunge
+mandate
+torch |  
+| bip_39_word_new_line5 | economy
+plunge
+mandate
+torch
+print |  
+| bip_39_word_new_line6 | economy
+plunge
+mandate
+torch
+print
+punch |  
+| bip_39_word_new_line7 | economy
+plunge
+mandate
+torch
+print
+punch
+exact |  
+| bip_39_word_new_line8 | economy
+plunge
+mandate
+torch
+print
+punch
+exact
+summer |  
+| bip_39_word_new_line9 | economy
+plunge
+mandate
+torch
+print
+punch
+exact
+summer
+snack |  
+| bip_39_word_space_0 | ['economy', 'plunge', 'mandate', 'torch', 'print', 'punch', 'exact', 'summer', 'snack', 'silver', 'frame', 'attack'] |  
+| bip_39_word_space_1 | economy |  
+| bip_39_word_space_10 | economy plunge mandate torch print punch exact summer snack silver |  
+| bip_39_word_space_11 | economy plunge mandate torch print punch exact summer snack silver frame |  
+| bip_39_word_space_12 | economy plunge mandate torch print punch exact summer snack silver frame attack |  
+| bip_39_word_space_2 | economy plunge |  
+| bip_39_word_space_3 | economy plunge mandate |  
+| bip_39_word_space_4 | economy plunge mandate torch |  
+| bip_39_word_space_5 | economy plunge mandate torch print |  
+| bip_39_word_space_6 | economy plunge mandate torch print punch |  
+| bip_39_word_space_7 | economy plunge mandate torch print punch exact |  
+| bip_39_word_space_8 | economy plunge mandate torch print punch exact summer |  
+| bip_39_word_space_9 | economy plunge mandate torch print punch exact summer snack |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rude
+bip_39_word_new_br10: rude<br>attitude<br>slide<br>student<br>stable<br>car<br>stool<br>tiger<br>boss<br>balcony
+bip_39_word_new_br11: rude<br>attitude<br>slide<br>student<br>stable<br>car<br>stool<br>tiger<br>boss<br>balcony<br>agree
+bip_39_word_new_br12: rude<br>attitude<br>slide<br>student<br>stable<br>car<br>stool<br>tiger<br>boss<br>balcony<br>agree<br>author
+bip_39_word_new_br2: rude<br>attitude
+bip_39_word_new_br3: rude<br>attitude<br>slide
+bip_39_word_new_br4: rude<br>attitude<br>slide<br>student
+bip_39_word_new_br5: rude<br>attitude<br>slide<br>student<br>stable
+bip_39_word_new_br6: rude<br>attitude<br>slide<br>student<br>stable<br>car
+bip_39_word_new_br7: rude<br>attitude<br>slide<br>student<br>stable<br>car<br>stool
+bip_39_word_new_br8: rude<br>attitude<br>slide<br>student<br>stable<br>car<br>stool<br>tiger
+bip_39_word_new_br9: rude<br>attitude<br>slide<br>student<br>stable<br>car<br>stool<br>tiger<br>boss
+bip_39_word_new_line1: rude
+bip_39_word_new_line10: 'rude
+
+  attitude
+
+  slide
+
+  student
+
+  stable
+
+  car
+
+  stool
+
+  tiger
+
+  boss
+
+  balcony'
+bip_39_word_new_line11: 'rude
+
+  attitude
+
+  slide
+
+  student
+
+  stable
+
+  car
+
+  stool
+
+  tiger
+
+  boss
+
+  balcony
+
+  agree'
+bip_39_word_new_line12: 'rude
+
+  attitude
+
+  slide
+
+  student
+
+  stable
+
+  car
+
+  stool
+
+  tiger
+
+  boss
+
+  balcony
+
+  agree
+
+  author'
+bip_39_word_new_line2: 'rude
+
+  attitude'
+bip_39_word_new_line3: 'rude
+
+  attitude
+
+  slide'
+bip_39_word_new_line4: 'rude
+
+  attitude
+
+  slide
+
+  student'
+bip_39_word_new_line5: 'rude
+
+  attitude
+
+  slide
+
+  student
+
+  stable'
+bip_39_word_new_line6: 'rude
+
+  attitude
+
+  slide
+
+  student
+
+  stable
+
+  car'
+bip_39_word_new_line7: 'rude
+
+  attitude
+
+  slide
+
+  student
+
+  stable
+
+  car
+
+  stool'
+bip_39_word_new_line8: 'rude
+
+  attitude
+
+  slide
+
+  student
+
+  stable
+
+  car
+
+  stool
+
+  tiger'
+bip_39_word_new_line9: 'rude
+
+  attitude
+
+  slide
+
+  student
+
+  stable
+
+  car
+
+  stool
+
+  tiger
+
+  boss'
+bip_39_word_space_0:
+- rude
+- attitude
+- slide
+- student
+- stable
+- car
+- stool
+- tiger
+- boss
+- balcony
+- agree
+- author
+bip_39_word_space_1: rude
+bip_39_word_space_10: rude attitude slide student stable car stool tiger boss balcony
+bip_39_word_space_11: rude attitude slide student stable car stool tiger boss balcony
+  agree
+bip_39_word_space_12: rude attitude slide student stable car stool tiger boss balcony
+  agree author
+bip_39_word_space_2: rude attitude
+bip_39_word_space_3: rude attitude slide
+bip_39_word_space_4: rude attitude slide student
+bip_39_word_space_5: rude attitude slide student stable
+bip_39_word_space_6: rude attitude slide student stable car
+bip_39_word_space_7: rude attitude slide student stable car stool
+bip_39_word_space_8: rude attitude slide student stable car stool tiger
+bip_39_word_space_9: rude attitude slide student stable car stool tiger boss
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

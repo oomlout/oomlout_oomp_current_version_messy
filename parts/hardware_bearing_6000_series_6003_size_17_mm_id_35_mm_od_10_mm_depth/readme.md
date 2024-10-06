@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: phone airport
+  * bip 39 word 3: phone airport slot
+  * bip 39 word: phone airport slot security wasp mistake forest giraffe camp please stem arch
 
 ### other_codes
 * short_code: br6003
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | phone |  
+| bip_39_word_new_br10 | phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe<br>camp<br>please |  
+| bip_39_word_new_br11 | phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe<br>camp<br>please<br>stem |  
+| bip_39_word_new_br12 | phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe<br>camp<br>please<br>stem<br>arch |  
+| bip_39_word_new_br2 | phone<br>airport |  
+| bip_39_word_new_br3 | phone<br>airport<br>slot |  
+| bip_39_word_new_br4 | phone<br>airport<br>slot<br>security |  
+| bip_39_word_new_br5 | phone<br>airport<br>slot<br>security<br>wasp |  
+| bip_39_word_new_br6 | phone<br>airport<br>slot<br>security<br>wasp<br>mistake |  
+| bip_39_word_new_br7 | phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest |  
+| bip_39_word_new_br8 | phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe |  
+| bip_39_word_new_br9 | phone<br>airport<br>slot<br>security<br>wasp<br>mistake<br>forest<br>giraffe<br>camp |  
+| bip_39_word_new_line1 | phone |  
+| bip_39_word_new_line10 | phone
+airport
+slot
+security
+wasp
+mistake
+forest
+giraffe
+camp
+please |  
+| bip_39_word_new_line11 | phone
+airport
+slot
+security
+wasp
+mistake
+forest
+giraffe
+camp
+please
+stem |  
+| bip_39_word_new_line12 | phone
+airport
+slot
+security
+wasp
+mistake
+forest
+giraffe
+camp
+please
+stem
+arch |  
+| bip_39_word_new_line2 | phone
+airport |  
+| bip_39_word_new_line3 | phone
+airport
+slot |  
+| bip_39_word_new_line4 | phone
+airport
+slot
+security |  
+| bip_39_word_new_line5 | phone
+airport
+slot
+security
+wasp |  
+| bip_39_word_new_line6 | phone
+airport
+slot
+security
+wasp
+mistake |  
+| bip_39_word_new_line7 | phone
+airport
+slot
+security
+wasp
+mistake
+forest |  
+| bip_39_word_new_line8 | phone
+airport
+slot
+security
+wasp
+mistake
+forest
+giraffe |  
+| bip_39_word_new_line9 | phone
+airport
+slot
+security
+wasp
+mistake
+forest
+giraffe
+camp |  
+| bip_39_word_space_0 | ['phone', 'airport', 'slot', 'security', 'wasp', 'mistake', 'forest', 'giraffe', 'camp', 'please', 'stem', 'arch'] |  
+| bip_39_word_space_1 | phone |  
+| bip_39_word_space_10 | phone airport slot security wasp mistake forest giraffe camp please |  
+| bip_39_word_space_11 | phone airport slot security wasp mistake forest giraffe camp please stem |  
+| bip_39_word_space_12 | phone airport slot security wasp mistake forest giraffe camp please stem arch |  
+| bip_39_word_space_2 | phone airport |  
+| bip_39_word_space_3 | phone airport slot |  
+| bip_39_word_space_4 | phone airport slot security |  
+| bip_39_word_space_5 | phone airport slot security wasp |  
+| bip_39_word_space_6 | phone airport slot security wasp mistake |  
+| bip_39_word_space_7 | phone airport slot security wasp mistake forest |  
+| bip_39_word_space_8 | phone airport slot security wasp mistake forest giraffe |  
+| bip_39_word_space_9 | phone airport slot security wasp mistake forest giraffe camp |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

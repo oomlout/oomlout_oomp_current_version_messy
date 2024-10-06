@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: m
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: silent chronic
+  * bip 39 word 3: silent chronic stone
+  * bip 39 word: silent chronic stone brave ancient palm city achieve usage adult virtual again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | silent |  
+| bip_39_word_new_br10 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm<br>city<br>achieve<br>usage<br>adult |  
+| bip_39_word_new_br11 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm<br>city<br>achieve<br>usage<br>adult<br>virtual |  
+| bip_39_word_new_br12 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm<br>city<br>achieve<br>usage<br>adult<br>virtual<br>again |  
+| bip_39_word_new_br2 | silent<br>chronic |  
+| bip_39_word_new_br3 | silent<br>chronic<br>stone |  
+| bip_39_word_new_br4 | silent<br>chronic<br>stone<br>brave |  
+| bip_39_word_new_br5 | silent<br>chronic<br>stone<br>brave<br>ancient |  
+| bip_39_word_new_br6 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm |  
+| bip_39_word_new_br7 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm<br>city |  
+| bip_39_word_new_br8 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm<br>city<br>achieve |  
+| bip_39_word_new_br9 | silent<br>chronic<br>stone<br>brave<br>ancient<br>palm<br>city<br>achieve<br>usage |  
+| bip_39_word_new_line1 | silent |  
+| bip_39_word_new_line10 | silent
+chronic
+stone
+brave
+ancient
+palm
+city
+achieve
+usage
+adult |  
+| bip_39_word_new_line11 | silent
+chronic
+stone
+brave
+ancient
+palm
+city
+achieve
+usage
+adult
+virtual |  
+| bip_39_word_new_line12 | silent
+chronic
+stone
+brave
+ancient
+palm
+city
+achieve
+usage
+adult
+virtual
+again |  
+| bip_39_word_new_line2 | silent
+chronic |  
+| bip_39_word_new_line3 | silent
+chronic
+stone |  
+| bip_39_word_new_line4 | silent
+chronic
+stone
+brave |  
+| bip_39_word_new_line5 | silent
+chronic
+stone
+brave
+ancient |  
+| bip_39_word_new_line6 | silent
+chronic
+stone
+brave
+ancient
+palm |  
+| bip_39_word_new_line7 | silent
+chronic
+stone
+brave
+ancient
+palm
+city |  
+| bip_39_word_new_line8 | silent
+chronic
+stone
+brave
+ancient
+palm
+city
+achieve |  
+| bip_39_word_new_line9 | silent
+chronic
+stone
+brave
+ancient
+palm
+city
+achieve
+usage |  
+| bip_39_word_space_0 | ['silent', 'chronic', 'stone', 'brave', 'ancient', 'palm', 'city', 'achieve', 'usage', 'adult', 'virtual', 'again'] |  
+| bip_39_word_space_1 | silent |  
+| bip_39_word_space_10 | silent chronic stone brave ancient palm city achieve usage adult |  
+| bip_39_word_space_11 | silent chronic stone brave ancient palm city achieve usage adult virtual |  
+| bip_39_word_space_12 | silent chronic stone brave ancient palm city achieve usage adult virtual again |  
+| bip_39_word_space_2 | silent chronic |  
+| bip_39_word_space_3 | silent chronic stone |  
+| bip_39_word_space_4 | silent chronic stone brave |  
+| bip_39_word_space_5 | silent chronic stone brave ancient |  
+| bip_39_word_space_6 | silent chronic stone brave ancient palm |  
+| bip_39_word_space_7 | silent chronic stone brave ancient palm city |  
+| bip_39_word_space_8 | silent chronic stone brave ancient palm city achieve |  
+| bip_39_word_space_9 | silent chronic stone brave ancient palm city achieve usage |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

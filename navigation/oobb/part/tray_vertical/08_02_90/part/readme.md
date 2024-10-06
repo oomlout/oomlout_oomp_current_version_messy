@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: curtain royal
+  * bip 39 word 3: curtain royal move
+  * bip 39 word: curtain royal move soon jar expire hunt despair reward secret obscure arrow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | curtain |  
+| bip_39_word_new_br10 | curtain<br>royal<br>move<br>soon<br>jar<br>expire<br>hunt<br>despair<br>reward<br>secret |  
+| bip_39_word_new_br11 | curtain<br>royal<br>move<br>soon<br>jar<br>expire<br>hunt<br>despair<br>reward<br>secret<br>obscure |  
+| bip_39_word_new_br12 | curtain<br>royal<br>move<br>soon<br>jar<br>expire<br>hunt<br>despair<br>reward<br>secret<br>obscure<br>arrow |  
+| bip_39_word_new_br2 | curtain<br>royal |  
+| bip_39_word_new_br3 | curtain<br>royal<br>move |  
+| bip_39_word_new_br4 | curtain<br>royal<br>move<br>soon |  
+| bip_39_word_new_br5 | curtain<br>royal<br>move<br>soon<br>jar |  
+| bip_39_word_new_br6 | curtain<br>royal<br>move<br>soon<br>jar<br>expire |  
+| bip_39_word_new_br7 | curtain<br>royal<br>move<br>soon<br>jar<br>expire<br>hunt |  
+| bip_39_word_new_br8 | curtain<br>royal<br>move<br>soon<br>jar<br>expire<br>hunt<br>despair |  
+| bip_39_word_new_br9 | curtain<br>royal<br>move<br>soon<br>jar<br>expire<br>hunt<br>despair<br>reward |  
+| bip_39_word_new_line1 | curtain |  
+| bip_39_word_new_line10 | curtain
+royal
+move
+soon
+jar
+expire
+hunt
+despair
+reward
+secret |  
+| bip_39_word_new_line11 | curtain
+royal
+move
+soon
+jar
+expire
+hunt
+despair
+reward
+secret
+obscure |  
+| bip_39_word_new_line12 | curtain
+royal
+move
+soon
+jar
+expire
+hunt
+despair
+reward
+secret
+obscure
+arrow |  
+| bip_39_word_new_line2 | curtain
+royal |  
+| bip_39_word_new_line3 | curtain
+royal
+move |  
+| bip_39_word_new_line4 | curtain
+royal
+move
+soon |  
+| bip_39_word_new_line5 | curtain
+royal
+move
+soon
+jar |  
+| bip_39_word_new_line6 | curtain
+royal
+move
+soon
+jar
+expire |  
+| bip_39_word_new_line7 | curtain
+royal
+move
+soon
+jar
+expire
+hunt |  
+| bip_39_word_new_line8 | curtain
+royal
+move
+soon
+jar
+expire
+hunt
+despair |  
+| bip_39_word_new_line9 | curtain
+royal
+move
+soon
+jar
+expire
+hunt
+despair
+reward |  
+| bip_39_word_space_0 | ['curtain', 'royal', 'move', 'soon', 'jar', 'expire', 'hunt', 'despair', 'reward', 'secret', 'obscure', 'arrow'] |  
+| bip_39_word_space_1 | curtain |  
+| bip_39_word_space_10 | curtain royal move soon jar expire hunt despair reward secret |  
+| bip_39_word_space_11 | curtain royal move soon jar expire hunt despair reward secret obscure |  
+| bip_39_word_space_12 | curtain royal move soon jar expire hunt despair reward secret obscure arrow |  
+| bip_39_word_space_2 | curtain royal |  
+| bip_39_word_space_3 | curtain royal move |  
+| bip_39_word_space_4 | curtain royal move soon |  
+| bip_39_word_space_5 | curtain royal move soon jar |  
+| bip_39_word_space_6 | curtain royal move soon jar expire |  
+| bip_39_word_space_7 | curtain royal move soon jar expire hunt |  
+| bip_39_word_space_8 | curtain royal move soon jar expire hunt despair |  
+| bip_39_word_space_9 | curtain royal move soon jar expire hunt despair reward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

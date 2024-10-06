@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: small conduct
+  * bip 39 word 3: small conduct earn
+  * bip 39 word: small conduct earn vehicle coyote net exchange cake polar plastic feel assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | small |  
+| bip_39_word_new_br10 | small<br>conduct<br>earn<br>vehicle<br>coyote<br>net<br>exchange<br>cake<br>polar<br>plastic |  
+| bip_39_word_new_br11 | small<br>conduct<br>earn<br>vehicle<br>coyote<br>net<br>exchange<br>cake<br>polar<br>plastic<br>feel |  
+| bip_39_word_new_br12 | small<br>conduct<br>earn<br>vehicle<br>coyote<br>net<br>exchange<br>cake<br>polar<br>plastic<br>feel<br>assume |  
+| bip_39_word_new_br2 | small<br>conduct |  
+| bip_39_word_new_br3 | small<br>conduct<br>earn |  
+| bip_39_word_new_br4 | small<br>conduct<br>earn<br>vehicle |  
+| bip_39_word_new_br5 | small<br>conduct<br>earn<br>vehicle<br>coyote |  
+| bip_39_word_new_br6 | small<br>conduct<br>earn<br>vehicle<br>coyote<br>net |  
+| bip_39_word_new_br7 | small<br>conduct<br>earn<br>vehicle<br>coyote<br>net<br>exchange |  
+| bip_39_word_new_br8 | small<br>conduct<br>earn<br>vehicle<br>coyote<br>net<br>exchange<br>cake |  
+| bip_39_word_new_br9 | small<br>conduct<br>earn<br>vehicle<br>coyote<br>net<br>exchange<br>cake<br>polar |  
+| bip_39_word_new_line1 | small |  
+| bip_39_word_new_line10 | small
+conduct
+earn
+vehicle
+coyote
+net
+exchange
+cake
+polar
+plastic |  
+| bip_39_word_new_line11 | small
+conduct
+earn
+vehicle
+coyote
+net
+exchange
+cake
+polar
+plastic
+feel |  
+| bip_39_word_new_line12 | small
+conduct
+earn
+vehicle
+coyote
+net
+exchange
+cake
+polar
+plastic
+feel
+assume |  
+| bip_39_word_new_line2 | small
+conduct |  
+| bip_39_word_new_line3 | small
+conduct
+earn |  
+| bip_39_word_new_line4 | small
+conduct
+earn
+vehicle |  
+| bip_39_word_new_line5 | small
+conduct
+earn
+vehicle
+coyote |  
+| bip_39_word_new_line6 | small
+conduct
+earn
+vehicle
+coyote
+net |  
+| bip_39_word_new_line7 | small
+conduct
+earn
+vehicle
+coyote
+net
+exchange |  
+| bip_39_word_new_line8 | small
+conduct
+earn
+vehicle
+coyote
+net
+exchange
+cake |  
+| bip_39_word_new_line9 | small
+conduct
+earn
+vehicle
+coyote
+net
+exchange
+cake
+polar |  
+| bip_39_word_space_0 | ['small', 'conduct', 'earn', 'vehicle', 'coyote', 'net', 'exchange', 'cake', 'polar', 'plastic', 'feel', 'assume'] |  
+| bip_39_word_space_1 | small |  
+| bip_39_word_space_10 | small conduct earn vehicle coyote net exchange cake polar plastic |  
+| bip_39_word_space_11 | small conduct earn vehicle coyote net exchange cake polar plastic feel |  
+| bip_39_word_space_12 | small conduct earn vehicle coyote net exchange cake polar plastic feel assume |  
+| bip_39_word_space_2 | small conduct |  
+| bip_39_word_space_3 | small conduct earn |  
+| bip_39_word_space_4 | small conduct earn vehicle |  
+| bip_39_word_space_5 | small conduct earn vehicle coyote |  
+| bip_39_word_space_6 | small conduct earn vehicle coyote net |  
+| bip_39_word_space_7 | small conduct earn vehicle coyote net exchange |  
+| bip_39_word_space_8 | small conduct earn vehicle coyote net exchange cake |  
+| bip_39_word_space_9 | small conduct earn vehicle coyote net exchange cake polar |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

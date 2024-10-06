@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fall
+bip_39_word_new_br10: fall<br>outdoor<br>patch<br>oval<br>extra<br>cup<br>receive<br>clarify<br>afford<br>power
+bip_39_word_new_br11: fall<br>outdoor<br>patch<br>oval<br>extra<br>cup<br>receive<br>clarify<br>afford<br>power<br>fun
+bip_39_word_new_br12: fall<br>outdoor<br>patch<br>oval<br>extra<br>cup<br>receive<br>clarify<br>afford<br>power<br>fun<br>across
+bip_39_word_new_br2: fall<br>outdoor
+bip_39_word_new_br3: fall<br>outdoor<br>patch
+bip_39_word_new_br4: fall<br>outdoor<br>patch<br>oval
+bip_39_word_new_br5: fall<br>outdoor<br>patch<br>oval<br>extra
+bip_39_word_new_br6: fall<br>outdoor<br>patch<br>oval<br>extra<br>cup
+bip_39_word_new_br7: fall<br>outdoor<br>patch<br>oval<br>extra<br>cup<br>receive
+bip_39_word_new_br8: fall<br>outdoor<br>patch<br>oval<br>extra<br>cup<br>receive<br>clarify
+bip_39_word_new_br9: fall<br>outdoor<br>patch<br>oval<br>extra<br>cup<br>receive<br>clarify<br>afford
+bip_39_word_new_line1: fall
+bip_39_word_new_line10: 'fall
+
+  outdoor
+
+  patch
+
+  oval
+
+  extra
+
+  cup
+
+  receive
+
+  clarify
+
+  afford
+
+  power'
+bip_39_word_new_line11: 'fall
+
+  outdoor
+
+  patch
+
+  oval
+
+  extra
+
+  cup
+
+  receive
+
+  clarify
+
+  afford
+
+  power
+
+  fun'
+bip_39_word_new_line12: 'fall
+
+  outdoor
+
+  patch
+
+  oval
+
+  extra
+
+  cup
+
+  receive
+
+  clarify
+
+  afford
+
+  power
+
+  fun
+
+  across'
+bip_39_word_new_line2: 'fall
+
+  outdoor'
+bip_39_word_new_line3: 'fall
+
+  outdoor
+
+  patch'
+bip_39_word_new_line4: 'fall
+
+  outdoor
+
+  patch
+
+  oval'
+bip_39_word_new_line5: 'fall
+
+  outdoor
+
+  patch
+
+  oval
+
+  extra'
+bip_39_word_new_line6: 'fall
+
+  outdoor
+
+  patch
+
+  oval
+
+  extra
+
+  cup'
+bip_39_word_new_line7: 'fall
+
+  outdoor
+
+  patch
+
+  oval
+
+  extra
+
+  cup
+
+  receive'
+bip_39_word_new_line8: 'fall
+
+  outdoor
+
+  patch
+
+  oval
+
+  extra
+
+  cup
+
+  receive
+
+  clarify'
+bip_39_word_new_line9: 'fall
+
+  outdoor
+
+  patch
+
+  oval
+
+  extra
+
+  cup
+
+  receive
+
+  clarify
+
+  afford'
+bip_39_word_space_0:
+- fall
+- outdoor
+- patch
+- oval
+- extra
+- cup
+- receive
+- clarify
+- afford
+- power
+- fun
+- across
+bip_39_word_space_1: fall
+bip_39_word_space_10: fall outdoor patch oval extra cup receive clarify afford power
+bip_39_word_space_11: fall outdoor patch oval extra cup receive clarify afford power
+  fun
+bip_39_word_space_12: fall outdoor patch oval extra cup receive clarify afford power
+  fun across
+bip_39_word_space_2: fall outdoor
+bip_39_word_space_3: fall outdoor patch
+bip_39_word_space_4: fall outdoor patch oval
+bip_39_word_space_5: fall outdoor patch oval extra
+bip_39_word_space_6: fall outdoor patch oval extra cup
+bip_39_word_space_7: fall outdoor patch oval extra cup receive
+bip_39_word_space_8: fall outdoor patch oval extra cup receive clarify
+bip_39_word_space_9: fall outdoor patch oval extra cup receive clarify afford
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

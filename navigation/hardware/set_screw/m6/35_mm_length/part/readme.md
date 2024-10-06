@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: inspire remember
+  * bip 39 word 3: inspire remember ride
+  * bip 39 word: inspire remember ride couple sting solar punch arrange rebuild unlock fetch angry
 
 ### other_codes
 * short_code: ss6m35
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | inspire |  
+| bip_39_word_new_br10 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar<br>punch<br>arrange<br>rebuild<br>unlock |  
+| bip_39_word_new_br11 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar<br>punch<br>arrange<br>rebuild<br>unlock<br>fetch |  
+| bip_39_word_new_br12 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar<br>punch<br>arrange<br>rebuild<br>unlock<br>fetch<br>angry |  
+| bip_39_word_new_br2 | inspire<br>remember |  
+| bip_39_word_new_br3 | inspire<br>remember<br>ride |  
+| bip_39_word_new_br4 | inspire<br>remember<br>ride<br>couple |  
+| bip_39_word_new_br5 | inspire<br>remember<br>ride<br>couple<br>sting |  
+| bip_39_word_new_br6 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar |  
+| bip_39_word_new_br7 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar<br>punch |  
+| bip_39_word_new_br8 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar<br>punch<br>arrange |  
+| bip_39_word_new_br9 | inspire<br>remember<br>ride<br>couple<br>sting<br>solar<br>punch<br>arrange<br>rebuild |  
+| bip_39_word_new_line1 | inspire |  
+| bip_39_word_new_line10 | inspire
+remember
+ride
+couple
+sting
+solar
+punch
+arrange
+rebuild
+unlock |  
+| bip_39_word_new_line11 | inspire
+remember
+ride
+couple
+sting
+solar
+punch
+arrange
+rebuild
+unlock
+fetch |  
+| bip_39_word_new_line12 | inspire
+remember
+ride
+couple
+sting
+solar
+punch
+arrange
+rebuild
+unlock
+fetch
+angry |  
+| bip_39_word_new_line2 | inspire
+remember |  
+| bip_39_word_new_line3 | inspire
+remember
+ride |  
+| bip_39_word_new_line4 | inspire
+remember
+ride
+couple |  
+| bip_39_word_new_line5 | inspire
+remember
+ride
+couple
+sting |  
+| bip_39_word_new_line6 | inspire
+remember
+ride
+couple
+sting
+solar |  
+| bip_39_word_new_line7 | inspire
+remember
+ride
+couple
+sting
+solar
+punch |  
+| bip_39_word_new_line8 | inspire
+remember
+ride
+couple
+sting
+solar
+punch
+arrange |  
+| bip_39_word_new_line9 | inspire
+remember
+ride
+couple
+sting
+solar
+punch
+arrange
+rebuild |  
+| bip_39_word_space_0 | ['inspire', 'remember', 'ride', 'couple', 'sting', 'solar', 'punch', 'arrange', 'rebuild', 'unlock', 'fetch', 'angry'] |  
+| bip_39_word_space_1 | inspire |  
+| bip_39_word_space_10 | inspire remember ride couple sting solar punch arrange rebuild unlock |  
+| bip_39_word_space_11 | inspire remember ride couple sting solar punch arrange rebuild unlock fetch |  
+| bip_39_word_space_12 | inspire remember ride couple sting solar punch arrange rebuild unlock fetch angry |  
+| bip_39_word_space_2 | inspire remember |  
+| bip_39_word_space_3 | inspire remember ride |  
+| bip_39_word_space_4 | inspire remember ride couple |  
+| bip_39_word_space_5 | inspire remember ride couple sting |  
+| bip_39_word_space_6 | inspire remember ride couple sting solar |  
+| bip_39_word_space_7 | inspire remember ride couple sting solar punch |  
+| bip_39_word_space_8 | inspire remember ride couple sting solar punch arrange |  
+| bip_39_word_space_9 | inspire remember ride couple sting solar punch arrange rebuild |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

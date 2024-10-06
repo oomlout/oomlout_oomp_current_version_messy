@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: alcohol alert
+  * bip 39 word 3: alcohol alert antique
+  * bip 39 word: alcohol alert antique elegant fiscal record solution keen future blind speed all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | alcohol |  
+| bip_39_word_new_br10 | alcohol<br>alert<br>antique<br>elegant<br>fiscal<br>record<br>solution<br>keen<br>future<br>blind |  
+| bip_39_word_new_br11 | alcohol<br>alert<br>antique<br>elegant<br>fiscal<br>record<br>solution<br>keen<br>future<br>blind<br>speed |  
+| bip_39_word_new_br12 | alcohol<br>alert<br>antique<br>elegant<br>fiscal<br>record<br>solution<br>keen<br>future<br>blind<br>speed<br>all |  
+| bip_39_word_new_br2 | alcohol<br>alert |  
+| bip_39_word_new_br3 | alcohol<br>alert<br>antique |  
+| bip_39_word_new_br4 | alcohol<br>alert<br>antique<br>elegant |  
+| bip_39_word_new_br5 | alcohol<br>alert<br>antique<br>elegant<br>fiscal |  
+| bip_39_word_new_br6 | alcohol<br>alert<br>antique<br>elegant<br>fiscal<br>record |  
+| bip_39_word_new_br7 | alcohol<br>alert<br>antique<br>elegant<br>fiscal<br>record<br>solution |  
+| bip_39_word_new_br8 | alcohol<br>alert<br>antique<br>elegant<br>fiscal<br>record<br>solution<br>keen |  
+| bip_39_word_new_br9 | alcohol<br>alert<br>antique<br>elegant<br>fiscal<br>record<br>solution<br>keen<br>future |  
+| bip_39_word_new_line1 | alcohol |  
+| bip_39_word_new_line10 | alcohol
+alert
+antique
+elegant
+fiscal
+record
+solution
+keen
+future
+blind |  
+| bip_39_word_new_line11 | alcohol
+alert
+antique
+elegant
+fiscal
+record
+solution
+keen
+future
+blind
+speed |  
+| bip_39_word_new_line12 | alcohol
+alert
+antique
+elegant
+fiscal
+record
+solution
+keen
+future
+blind
+speed
+all |  
+| bip_39_word_new_line2 | alcohol
+alert |  
+| bip_39_word_new_line3 | alcohol
+alert
+antique |  
+| bip_39_word_new_line4 | alcohol
+alert
+antique
+elegant |  
+| bip_39_word_new_line5 | alcohol
+alert
+antique
+elegant
+fiscal |  
+| bip_39_word_new_line6 | alcohol
+alert
+antique
+elegant
+fiscal
+record |  
+| bip_39_word_new_line7 | alcohol
+alert
+antique
+elegant
+fiscal
+record
+solution |  
+| bip_39_word_new_line8 | alcohol
+alert
+antique
+elegant
+fiscal
+record
+solution
+keen |  
+| bip_39_word_new_line9 | alcohol
+alert
+antique
+elegant
+fiscal
+record
+solution
+keen
+future |  
+| bip_39_word_space_0 | ['alcohol', 'alert', 'antique', 'elegant', 'fiscal', 'record', 'solution', 'keen', 'future', 'blind', 'speed', 'all'] |  
+| bip_39_word_space_1 | alcohol |  
+| bip_39_word_space_10 | alcohol alert antique elegant fiscal record solution keen future blind |  
+| bip_39_word_space_11 | alcohol alert antique elegant fiscal record solution keen future blind speed |  
+| bip_39_word_space_12 | alcohol alert antique elegant fiscal record solution keen future blind speed all |  
+| bip_39_word_space_2 | alcohol alert |  
+| bip_39_word_space_3 | alcohol alert antique |  
+| bip_39_word_space_4 | alcohol alert antique elegant |  
+| bip_39_word_space_5 | alcohol alert antique elegant fiscal |  
+| bip_39_word_space_6 | alcohol alert antique elegant fiscal record |  
+| bip_39_word_space_7 | alcohol alert antique elegant fiscal record solution |  
+| bip_39_word_space_8 | alcohol alert antique elegant fiscal record solution keen |  
+| bip_39_word_space_9 | alcohol alert antique elegant fiscal record solution keen future |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

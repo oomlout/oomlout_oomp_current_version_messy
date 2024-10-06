@@ -1,3 +1,159 @@
+bip_39_word_new_br1: weasel
+bip_39_word_new_br10: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew<br>remain
+bip_39_word_new_br11: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew<br>remain<br>flavor
+bip_39_word_new_br2: weasel<br>hair
+bip_39_word_new_br3: weasel<br>hair<br>notable
+bip_39_word_new_br4: weasel<br>hair<br>notable<br>put
+bip_39_word_new_br5: weasel<br>hair<br>notable<br>put<br>miss
+bip_39_word_new_br6: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe
+bip_39_word_new_br7: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold
+bip_39_word_new_br8: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon
+bip_39_word_new_br9: weasel<br>hair<br>notable<br>put<br>miss<br>giraffe<br>fold<br>lemon<br>nephew
+bip_39_word_new_line1: weasel
+bip_39_word_new_line10: 'weasel
+
+  hair
+
+  notable
+
+  put
+
+  miss
+
+  giraffe
+
+  fold
+
+  lemon
+
+  nephew
+
+  remain'
+bip_39_word_new_line11: 'weasel
+
+  hair
+
+  notable
+
+  put
+
+  miss
+
+  giraffe
+
+  fold
+
+  lemon
+
+  nephew
+
+  remain
+
+  flavor'
+bip_39_word_new_line2: 'weasel
+
+  hair'
+bip_39_word_new_line3: 'weasel
+
+  hair
+
+  notable'
+bip_39_word_new_line4: 'weasel
+
+  hair
+
+  notable
+
+  put'
+bip_39_word_new_line5: 'weasel
+
+  hair
+
+  notable
+
+  put
+
+  miss'
+bip_39_word_new_line6: 'weasel
+
+  hair
+
+  notable
+
+  put
+
+  miss
+
+  giraffe'
+bip_39_word_new_line7: 'weasel
+
+  hair
+
+  notable
+
+  put
+
+  miss
+
+  giraffe
+
+  fold'
+bip_39_word_new_line8: 'weasel
+
+  hair
+
+  notable
+
+  put
+
+  miss
+
+  giraffe
+
+  fold
+
+  lemon'
+bip_39_word_new_line9: 'weasel
+
+  hair
+
+  notable
+
+  put
+
+  miss
+
+  giraffe
+
+  fold
+
+  lemon
+
+  nephew'
+bip_39_word_space_0:
+- weasel
+- hair
+- notable
+- put
+- miss
+- giraffe
+- fold
+- lemon
+- nephew
+- remain
+- flavor
+bip_39_word_space_1: weasel
+bip_39_word_space_10: weasel hair notable put miss giraffe fold lemon nephew remain
+bip_39_word_space_11: weasel hair notable put miss giraffe fold lemon nephew remain
+  flavor
+bip_39_word_space_2: weasel hair
+bip_39_word_space_3: weasel hair notable
+bip_39_word_space_4: weasel hair notable put
+bip_39_word_space_5: weasel hair notable put miss
+bip_39_word_space_6: weasel hair notable put miss giraffe
+bip_39_word_space_7: weasel hair notable put miss giraffe fold
+bip_39_word_space_8: weasel hair notable put miss giraffe fold lemon
+bip_39_word_space_9: weasel hair notable put miss giraffe fold lemon nephew
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

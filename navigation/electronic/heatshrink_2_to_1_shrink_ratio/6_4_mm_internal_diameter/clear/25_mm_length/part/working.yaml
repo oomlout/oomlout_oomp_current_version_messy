@@ -1,3 +1,187 @@
+bip_39_word_new_br1: gather
+bip_39_word_new_br10: gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear
+bip_39_word_new_br11: gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear<br>brush
+bip_39_word_new_br12: gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide<br>wear<br>brush<br>aim
+bip_39_word_new_br2: gather<br>shoot
+bip_39_word_new_br3: gather<br>shoot<br>someone
+bip_39_word_new_br4: gather<br>shoot<br>someone<br>ticket
+bip_39_word_new_br5: gather<br>shoot<br>someone<br>ticket<br>bunker
+bip_39_word_new_br6: gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion
+bip_39_word_new_br7: gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ
+bip_39_word_new_br8: gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track
+bip_39_word_new_br9: gather<br>shoot<br>someone<br>ticket<br>bunker<br>cushion<br>organ<br>track<br>wide
+bip_39_word_new_line1: gather
+bip_39_word_new_line10: 'gather
+
+  shoot
+
+  someone
+
+  ticket
+
+  bunker
+
+  cushion
+
+  organ
+
+  track
+
+  wide
+
+  wear'
+bip_39_word_new_line11: 'gather
+
+  shoot
+
+  someone
+
+  ticket
+
+  bunker
+
+  cushion
+
+  organ
+
+  track
+
+  wide
+
+  wear
+
+  brush'
+bip_39_word_new_line12: 'gather
+
+  shoot
+
+  someone
+
+  ticket
+
+  bunker
+
+  cushion
+
+  organ
+
+  track
+
+  wide
+
+  wear
+
+  brush
+
+  aim'
+bip_39_word_new_line2: 'gather
+
+  shoot'
+bip_39_word_new_line3: 'gather
+
+  shoot
+
+  someone'
+bip_39_word_new_line4: 'gather
+
+  shoot
+
+  someone
+
+  ticket'
+bip_39_word_new_line5: 'gather
+
+  shoot
+
+  someone
+
+  ticket
+
+  bunker'
+bip_39_word_new_line6: 'gather
+
+  shoot
+
+  someone
+
+  ticket
+
+  bunker
+
+  cushion'
+bip_39_word_new_line7: 'gather
+
+  shoot
+
+  someone
+
+  ticket
+
+  bunker
+
+  cushion
+
+  organ'
+bip_39_word_new_line8: 'gather
+
+  shoot
+
+  someone
+
+  ticket
+
+  bunker
+
+  cushion
+
+  organ
+
+  track'
+bip_39_word_new_line9: 'gather
+
+  shoot
+
+  someone
+
+  ticket
+
+  bunker
+
+  cushion
+
+  organ
+
+  track
+
+  wide'
+bip_39_word_space_0:
+- gather
+- shoot
+- someone
+- ticket
+- bunker
+- cushion
+- organ
+- track
+- wide
+- wear
+- brush
+- aim
+bip_39_word_space_1: gather
+bip_39_word_space_10: gather shoot someone ticket bunker cushion organ track wide
+  wear
+bip_39_word_space_11: gather shoot someone ticket bunker cushion organ track wide
+  wear brush
+bip_39_word_space_12: gather shoot someone ticket bunker cushion organ track wide
+  wear brush aim
+bip_39_word_space_2: gather shoot
+bip_39_word_space_3: gather shoot someone
+bip_39_word_space_4: gather shoot someone ticket
+bip_39_word_space_5: gather shoot someone ticket bunker
+bip_39_word_space_6: gather shoot someone ticket bunker cushion
+bip_39_word_space_7: gather shoot someone ticket bunker cushion organ
+bip_39_word_space_8: gather shoot someone ticket bunker cushion organ track
+bip_39_word_space_9: gather shoot someone ticket bunker cushion organ track wide
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

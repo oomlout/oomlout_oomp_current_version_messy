@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: achieve enact
+  * bip 39 word 3: achieve enact anxiety
+  * bip 39 word: achieve enact anxiety frown cereal double spy destroy motion basic gossip aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | achieve |  
+| bip_39_word_new_br10 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double<br>spy<br>destroy<br>motion<br>basic |  
+| bip_39_word_new_br11 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double<br>spy<br>destroy<br>motion<br>basic<br>gossip |  
+| bip_39_word_new_br12 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double<br>spy<br>destroy<br>motion<br>basic<br>gossip<br>aspect |  
+| bip_39_word_new_br2 | achieve<br>enact |  
+| bip_39_word_new_br3 | achieve<br>enact<br>anxiety |  
+| bip_39_word_new_br4 | achieve<br>enact<br>anxiety<br>frown |  
+| bip_39_word_new_br5 | achieve<br>enact<br>anxiety<br>frown<br>cereal |  
+| bip_39_word_new_br6 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double |  
+| bip_39_word_new_br7 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double<br>spy |  
+| bip_39_word_new_br8 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double<br>spy<br>destroy |  
+| bip_39_word_new_br9 | achieve<br>enact<br>anxiety<br>frown<br>cereal<br>double<br>spy<br>destroy<br>motion |  
+| bip_39_word_new_line1 | achieve |  
+| bip_39_word_new_line10 | achieve
+enact
+anxiety
+frown
+cereal
+double
+spy
+destroy
+motion
+basic |  
+| bip_39_word_new_line11 | achieve
+enact
+anxiety
+frown
+cereal
+double
+spy
+destroy
+motion
+basic
+gossip |  
+| bip_39_word_new_line12 | achieve
+enact
+anxiety
+frown
+cereal
+double
+spy
+destroy
+motion
+basic
+gossip
+aspect |  
+| bip_39_word_new_line2 | achieve
+enact |  
+| bip_39_word_new_line3 | achieve
+enact
+anxiety |  
+| bip_39_word_new_line4 | achieve
+enact
+anxiety
+frown |  
+| bip_39_word_new_line5 | achieve
+enact
+anxiety
+frown
+cereal |  
+| bip_39_word_new_line6 | achieve
+enact
+anxiety
+frown
+cereal
+double |  
+| bip_39_word_new_line7 | achieve
+enact
+anxiety
+frown
+cereal
+double
+spy |  
+| bip_39_word_new_line8 | achieve
+enact
+anxiety
+frown
+cereal
+double
+spy
+destroy |  
+| bip_39_word_new_line9 | achieve
+enact
+anxiety
+frown
+cereal
+double
+spy
+destroy
+motion |  
+| bip_39_word_space_0 | ['achieve', 'enact', 'anxiety', 'frown', 'cereal', 'double', 'spy', 'destroy', 'motion', 'basic', 'gossip', 'aspect'] |  
+| bip_39_word_space_1 | achieve |  
+| bip_39_word_space_10 | achieve enact anxiety frown cereal double spy destroy motion basic |  
+| bip_39_word_space_11 | achieve enact anxiety frown cereal double spy destroy motion basic gossip |  
+| bip_39_word_space_12 | achieve enact anxiety frown cereal double spy destroy motion basic gossip aspect |  
+| bip_39_word_space_2 | achieve enact |  
+| bip_39_word_space_3 | achieve enact anxiety |  
+| bip_39_word_space_4 | achieve enact anxiety frown |  
+| bip_39_word_space_5 | achieve enact anxiety frown cereal |  
+| bip_39_word_space_6 | achieve enact anxiety frown cereal double |  
+| bip_39_word_space_7 | achieve enact anxiety frown cereal double spy |  
+| bip_39_word_space_8 | achieve enact anxiety frown cereal double spy destroy |  
+| bip_39_word_space_9 | achieve enact anxiety frown cereal double spy destroy motion |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

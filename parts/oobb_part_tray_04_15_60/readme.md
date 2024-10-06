@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: relief blush
+  * bip 39 word 3: relief blush usage
+  * bip 39 word: relief blush usage refuse object large cry oblige struggle this vacant again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | relief |  
+| bip_39_word_new_br10 | relief<br>blush<br>usage<br>refuse<br>object<br>large<br>cry<br>oblige<br>struggle<br>this |  
+| bip_39_word_new_br11 | relief<br>blush<br>usage<br>refuse<br>object<br>large<br>cry<br>oblige<br>struggle<br>this<br>vacant |  
+| bip_39_word_new_br12 | relief<br>blush<br>usage<br>refuse<br>object<br>large<br>cry<br>oblige<br>struggle<br>this<br>vacant<br>again |  
+| bip_39_word_new_br2 | relief<br>blush |  
+| bip_39_word_new_br3 | relief<br>blush<br>usage |  
+| bip_39_word_new_br4 | relief<br>blush<br>usage<br>refuse |  
+| bip_39_word_new_br5 | relief<br>blush<br>usage<br>refuse<br>object |  
+| bip_39_word_new_br6 | relief<br>blush<br>usage<br>refuse<br>object<br>large |  
+| bip_39_word_new_br7 | relief<br>blush<br>usage<br>refuse<br>object<br>large<br>cry |  
+| bip_39_word_new_br8 | relief<br>blush<br>usage<br>refuse<br>object<br>large<br>cry<br>oblige |  
+| bip_39_word_new_br9 | relief<br>blush<br>usage<br>refuse<br>object<br>large<br>cry<br>oblige<br>struggle |  
+| bip_39_word_new_line1 | relief |  
+| bip_39_word_new_line10 | relief
+blush
+usage
+refuse
+object
+large
+cry
+oblige
+struggle
+this |  
+| bip_39_word_new_line11 | relief
+blush
+usage
+refuse
+object
+large
+cry
+oblige
+struggle
+this
+vacant |  
+| bip_39_word_new_line12 | relief
+blush
+usage
+refuse
+object
+large
+cry
+oblige
+struggle
+this
+vacant
+again |  
+| bip_39_word_new_line2 | relief
+blush |  
+| bip_39_word_new_line3 | relief
+blush
+usage |  
+| bip_39_word_new_line4 | relief
+blush
+usage
+refuse |  
+| bip_39_word_new_line5 | relief
+blush
+usage
+refuse
+object |  
+| bip_39_word_new_line6 | relief
+blush
+usage
+refuse
+object
+large |  
+| bip_39_word_new_line7 | relief
+blush
+usage
+refuse
+object
+large
+cry |  
+| bip_39_word_new_line8 | relief
+blush
+usage
+refuse
+object
+large
+cry
+oblige |  
+| bip_39_word_new_line9 | relief
+blush
+usage
+refuse
+object
+large
+cry
+oblige
+struggle |  
+| bip_39_word_space_0 | ['relief', 'blush', 'usage', 'refuse', 'object', 'large', 'cry', 'oblige', 'struggle', 'this', 'vacant', 'again'] |  
+| bip_39_word_space_1 | relief |  
+| bip_39_word_space_10 | relief blush usage refuse object large cry oblige struggle this |  
+| bip_39_word_space_11 | relief blush usage refuse object large cry oblige struggle this vacant |  
+| bip_39_word_space_12 | relief blush usage refuse object large cry oblige struggle this vacant again |  
+| bip_39_word_space_2 | relief blush |  
+| bip_39_word_space_3 | relief blush usage |  
+| bip_39_word_space_4 | relief blush usage refuse |  
+| bip_39_word_space_5 | relief blush usage refuse object |  
+| bip_39_word_space_6 | relief blush usage refuse object large |  
+| bip_39_word_space_7 | relief blush usage refuse object large cry |  
+| bip_39_word_space_8 | relief blush usage refuse object large cry oblige |  
+| bip_39_word_space_9 | relief blush usage refuse object large cry oblige struggle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

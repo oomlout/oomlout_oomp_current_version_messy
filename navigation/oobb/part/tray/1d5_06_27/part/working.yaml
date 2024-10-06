@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sense
+bip_39_word_new_br10: sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit
+bip_39_word_new_br11: sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit<br>deny
+bip_39_word_new_br12: sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch<br>orbit<br>deny<br>auto
+bip_39_word_new_br2: sense<br>fortune
+bip_39_word_new_br3: sense<br>fortune<br>lumber
+bip_39_word_new_br4: sense<br>fortune<br>lumber<br>almost
+bip_39_word_new_br5: sense<br>fortune<br>lumber<br>almost<br>pull
+bip_39_word_new_br6: sense<br>fortune<br>lumber<br>almost<br>pull<br>range
+bip_39_word_new_br7: sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop
+bip_39_word_new_br8: sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy
+bip_39_word_new_br9: sense<br>fortune<br>lumber<br>almost<br>pull<br>range<br>crop<br>deputy<br>crouch
+bip_39_word_new_line1: sense
+bip_39_word_new_line10: 'sense
+
+  fortune
+
+  lumber
+
+  almost
+
+  pull
+
+  range
+
+  crop
+
+  deputy
+
+  crouch
+
+  orbit'
+bip_39_word_new_line11: 'sense
+
+  fortune
+
+  lumber
+
+  almost
+
+  pull
+
+  range
+
+  crop
+
+  deputy
+
+  crouch
+
+  orbit
+
+  deny'
+bip_39_word_new_line12: 'sense
+
+  fortune
+
+  lumber
+
+  almost
+
+  pull
+
+  range
+
+  crop
+
+  deputy
+
+  crouch
+
+  orbit
+
+  deny
+
+  auto'
+bip_39_word_new_line2: 'sense
+
+  fortune'
+bip_39_word_new_line3: 'sense
+
+  fortune
+
+  lumber'
+bip_39_word_new_line4: 'sense
+
+  fortune
+
+  lumber
+
+  almost'
+bip_39_word_new_line5: 'sense
+
+  fortune
+
+  lumber
+
+  almost
+
+  pull'
+bip_39_word_new_line6: 'sense
+
+  fortune
+
+  lumber
+
+  almost
+
+  pull
+
+  range'
+bip_39_word_new_line7: 'sense
+
+  fortune
+
+  lumber
+
+  almost
+
+  pull
+
+  range
+
+  crop'
+bip_39_word_new_line8: 'sense
+
+  fortune
+
+  lumber
+
+  almost
+
+  pull
+
+  range
+
+  crop
+
+  deputy'
+bip_39_word_new_line9: 'sense
+
+  fortune
+
+  lumber
+
+  almost
+
+  pull
+
+  range
+
+  crop
+
+  deputy
+
+  crouch'
+bip_39_word_space_0:
+- sense
+- fortune
+- lumber
+- almost
+- pull
+- range
+- crop
+- deputy
+- crouch
+- orbit
+- deny
+- auto
+bip_39_word_space_1: sense
+bip_39_word_space_10: sense fortune lumber almost pull range crop deputy crouch orbit
+bip_39_word_space_11: sense fortune lumber almost pull range crop deputy crouch orbit
+  deny
+bip_39_word_space_12: sense fortune lumber almost pull range crop deputy crouch orbit
+  deny auto
+bip_39_word_space_2: sense fortune
+bip_39_word_space_3: sense fortune lumber
+bip_39_word_space_4: sense fortune lumber almost
+bip_39_word_space_5: sense fortune lumber almost pull
+bip_39_word_space_6: sense fortune lumber almost pull range
+bip_39_word_space_7: sense fortune lumber almost pull range crop
+bip_39_word_space_8: sense fortune lumber almost pull range crop deputy
+bip_39_word_space_9: sense fortune lumber almost pull range crop deputy crouch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

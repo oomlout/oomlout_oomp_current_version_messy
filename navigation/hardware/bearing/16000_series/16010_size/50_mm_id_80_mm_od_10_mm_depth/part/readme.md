@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skirt age
+  * bip 39 word 3: skirt age depart
+  * bip 39 word: skirt age depart cage balance erode umbrella poverty cinnamon poet park answer
 
 ### other_codes
 * short_code: br16010
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skirt |  
+| bip_39_word_new_br10 | skirt<br>age<br>depart<br>cage<br>balance<br>erode<br>umbrella<br>poverty<br>cinnamon<br>poet |  
+| bip_39_word_new_br11 | skirt<br>age<br>depart<br>cage<br>balance<br>erode<br>umbrella<br>poverty<br>cinnamon<br>poet<br>park |  
+| bip_39_word_new_br12 | skirt<br>age<br>depart<br>cage<br>balance<br>erode<br>umbrella<br>poverty<br>cinnamon<br>poet<br>park<br>answer |  
+| bip_39_word_new_br2 | skirt<br>age |  
+| bip_39_word_new_br3 | skirt<br>age<br>depart |  
+| bip_39_word_new_br4 | skirt<br>age<br>depart<br>cage |  
+| bip_39_word_new_br5 | skirt<br>age<br>depart<br>cage<br>balance |  
+| bip_39_word_new_br6 | skirt<br>age<br>depart<br>cage<br>balance<br>erode |  
+| bip_39_word_new_br7 | skirt<br>age<br>depart<br>cage<br>balance<br>erode<br>umbrella |  
+| bip_39_word_new_br8 | skirt<br>age<br>depart<br>cage<br>balance<br>erode<br>umbrella<br>poverty |  
+| bip_39_word_new_br9 | skirt<br>age<br>depart<br>cage<br>balance<br>erode<br>umbrella<br>poverty<br>cinnamon |  
+| bip_39_word_new_line1 | skirt |  
+| bip_39_word_new_line10 | skirt
+age
+depart
+cage
+balance
+erode
+umbrella
+poverty
+cinnamon
+poet |  
+| bip_39_word_new_line11 | skirt
+age
+depart
+cage
+balance
+erode
+umbrella
+poverty
+cinnamon
+poet
+park |  
+| bip_39_word_new_line12 | skirt
+age
+depart
+cage
+balance
+erode
+umbrella
+poverty
+cinnamon
+poet
+park
+answer |  
+| bip_39_word_new_line2 | skirt
+age |  
+| bip_39_word_new_line3 | skirt
+age
+depart |  
+| bip_39_word_new_line4 | skirt
+age
+depart
+cage |  
+| bip_39_word_new_line5 | skirt
+age
+depart
+cage
+balance |  
+| bip_39_word_new_line6 | skirt
+age
+depart
+cage
+balance
+erode |  
+| bip_39_word_new_line7 | skirt
+age
+depart
+cage
+balance
+erode
+umbrella |  
+| bip_39_word_new_line8 | skirt
+age
+depart
+cage
+balance
+erode
+umbrella
+poverty |  
+| bip_39_word_new_line9 | skirt
+age
+depart
+cage
+balance
+erode
+umbrella
+poverty
+cinnamon |  
+| bip_39_word_space_0 | ['skirt', 'age', 'depart', 'cage', 'balance', 'erode', 'umbrella', 'poverty', 'cinnamon', 'poet', 'park', 'answer'] |  
+| bip_39_word_space_1 | skirt |  
+| bip_39_word_space_10 | skirt age depart cage balance erode umbrella poverty cinnamon poet |  
+| bip_39_word_space_11 | skirt age depart cage balance erode umbrella poverty cinnamon poet park |  
+| bip_39_word_space_12 | skirt age depart cage balance erode umbrella poverty cinnamon poet park answer |  
+| bip_39_word_space_2 | skirt age |  
+| bip_39_word_space_3 | skirt age depart |  
+| bip_39_word_space_4 | skirt age depart cage |  
+| bip_39_word_space_5 | skirt age depart cage balance |  
+| bip_39_word_space_6 | skirt age depart cage balance erode |  
+| bip_39_word_space_7 | skirt age depart cage balance erode umbrella |  
+| bip_39_word_space_8 | skirt age depart cage balance erode umbrella poverty |  
+| bip_39_word_space_9 | skirt age depart cage balance erode umbrella poverty cinnamon |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

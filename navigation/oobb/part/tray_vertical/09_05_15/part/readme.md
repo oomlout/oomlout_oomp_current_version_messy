@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: piece novel
+  * bip 39 word 3: piece novel loyal
+  * bip 39 word: piece novel loyal ivory immense brain refuse tongue wife need alone artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | piece |  
+| bip_39_word_new_br10 | piece<br>novel<br>loyal<br>ivory<br>immense<br>brain<br>refuse<br>tongue<br>wife<br>need |  
+| bip_39_word_new_br11 | piece<br>novel<br>loyal<br>ivory<br>immense<br>brain<br>refuse<br>tongue<br>wife<br>need<br>alone |  
+| bip_39_word_new_br12 | piece<br>novel<br>loyal<br>ivory<br>immense<br>brain<br>refuse<br>tongue<br>wife<br>need<br>alone<br>artwork |  
+| bip_39_word_new_br2 | piece<br>novel |  
+| bip_39_word_new_br3 | piece<br>novel<br>loyal |  
+| bip_39_word_new_br4 | piece<br>novel<br>loyal<br>ivory |  
+| bip_39_word_new_br5 | piece<br>novel<br>loyal<br>ivory<br>immense |  
+| bip_39_word_new_br6 | piece<br>novel<br>loyal<br>ivory<br>immense<br>brain |  
+| bip_39_word_new_br7 | piece<br>novel<br>loyal<br>ivory<br>immense<br>brain<br>refuse |  
+| bip_39_word_new_br8 | piece<br>novel<br>loyal<br>ivory<br>immense<br>brain<br>refuse<br>tongue |  
+| bip_39_word_new_br9 | piece<br>novel<br>loyal<br>ivory<br>immense<br>brain<br>refuse<br>tongue<br>wife |  
+| bip_39_word_new_line1 | piece |  
+| bip_39_word_new_line10 | piece
+novel
+loyal
+ivory
+immense
+brain
+refuse
+tongue
+wife
+need |  
+| bip_39_word_new_line11 | piece
+novel
+loyal
+ivory
+immense
+brain
+refuse
+tongue
+wife
+need
+alone |  
+| bip_39_word_new_line12 | piece
+novel
+loyal
+ivory
+immense
+brain
+refuse
+tongue
+wife
+need
+alone
+artwork |  
+| bip_39_word_new_line2 | piece
+novel |  
+| bip_39_word_new_line3 | piece
+novel
+loyal |  
+| bip_39_word_new_line4 | piece
+novel
+loyal
+ivory |  
+| bip_39_word_new_line5 | piece
+novel
+loyal
+ivory
+immense |  
+| bip_39_word_new_line6 | piece
+novel
+loyal
+ivory
+immense
+brain |  
+| bip_39_word_new_line7 | piece
+novel
+loyal
+ivory
+immense
+brain
+refuse |  
+| bip_39_word_new_line8 | piece
+novel
+loyal
+ivory
+immense
+brain
+refuse
+tongue |  
+| bip_39_word_new_line9 | piece
+novel
+loyal
+ivory
+immense
+brain
+refuse
+tongue
+wife |  
+| bip_39_word_space_0 | ['piece', 'novel', 'loyal', 'ivory', 'immense', 'brain', 'refuse', 'tongue', 'wife', 'need', 'alone', 'artwork'] |  
+| bip_39_word_space_1 | piece |  
+| bip_39_word_space_10 | piece novel loyal ivory immense brain refuse tongue wife need |  
+| bip_39_word_space_11 | piece novel loyal ivory immense brain refuse tongue wife need alone |  
+| bip_39_word_space_12 | piece novel loyal ivory immense brain refuse tongue wife need alone artwork |  
+| bip_39_word_space_2 | piece novel |  
+| bip_39_word_space_3 | piece novel loyal |  
+| bip_39_word_space_4 | piece novel loyal ivory |  
+| bip_39_word_space_5 | piece novel loyal ivory immense |  
+| bip_39_word_space_6 | piece novel loyal ivory immense brain |  
+| bip_39_word_space_7 | piece novel loyal ivory immense brain refuse |  
+| bip_39_word_space_8 | piece novel loyal ivory immense brain refuse tongue |  
+| bip_39_word_space_9 | piece novel loyal ivory immense brain refuse tongue wife |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

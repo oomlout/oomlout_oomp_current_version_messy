@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: target sentence
+  * bip 39 word 3: target sentence oxygen
+  * bip 39 word: target sentence oxygen symbol token tray talk hotel seminar sense swallow alien
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | target |  
+| bip_39_word_new_br10 | target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel<br>seminar<br>sense |  
+| bip_39_word_new_br11 | target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel<br>seminar<br>sense<br>swallow |  
+| bip_39_word_new_br12 | target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel<br>seminar<br>sense<br>swallow<br>alien |  
+| bip_39_word_new_br2 | target<br>sentence |  
+| bip_39_word_new_br3 | target<br>sentence<br>oxygen |  
+| bip_39_word_new_br4 | target<br>sentence<br>oxygen<br>symbol |  
+| bip_39_word_new_br5 | target<br>sentence<br>oxygen<br>symbol<br>token |  
+| bip_39_word_new_br6 | target<br>sentence<br>oxygen<br>symbol<br>token<br>tray |  
+| bip_39_word_new_br7 | target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk |  
+| bip_39_word_new_br8 | target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel |  
+| bip_39_word_new_br9 | target<br>sentence<br>oxygen<br>symbol<br>token<br>tray<br>talk<br>hotel<br>seminar |  
+| bip_39_word_new_line1 | target |  
+| bip_39_word_new_line10 | target
+sentence
+oxygen
+symbol
+token
+tray
+talk
+hotel
+seminar
+sense |  
+| bip_39_word_new_line11 | target
+sentence
+oxygen
+symbol
+token
+tray
+talk
+hotel
+seminar
+sense
+swallow |  
+| bip_39_word_new_line12 | target
+sentence
+oxygen
+symbol
+token
+tray
+talk
+hotel
+seminar
+sense
+swallow
+alien |  
+| bip_39_word_new_line2 | target
+sentence |  
+| bip_39_word_new_line3 | target
+sentence
+oxygen |  
+| bip_39_word_new_line4 | target
+sentence
+oxygen
+symbol |  
+| bip_39_word_new_line5 | target
+sentence
+oxygen
+symbol
+token |  
+| bip_39_word_new_line6 | target
+sentence
+oxygen
+symbol
+token
+tray |  
+| bip_39_word_new_line7 | target
+sentence
+oxygen
+symbol
+token
+tray
+talk |  
+| bip_39_word_new_line8 | target
+sentence
+oxygen
+symbol
+token
+tray
+talk
+hotel |  
+| bip_39_word_new_line9 | target
+sentence
+oxygen
+symbol
+token
+tray
+talk
+hotel
+seminar |  
+| bip_39_word_space_0 | ['target', 'sentence', 'oxygen', 'symbol', 'token', 'tray', 'talk', 'hotel', 'seminar', 'sense', 'swallow', 'alien'] |  
+| bip_39_word_space_1 | target |  
+| bip_39_word_space_10 | target sentence oxygen symbol token tray talk hotel seminar sense |  
+| bip_39_word_space_11 | target sentence oxygen symbol token tray talk hotel seminar sense swallow |  
+| bip_39_word_space_12 | target sentence oxygen symbol token tray talk hotel seminar sense swallow alien |  
+| bip_39_word_space_2 | target sentence |  
+| bip_39_word_space_3 | target sentence oxygen |  
+| bip_39_word_space_4 | target sentence oxygen symbol |  
+| bip_39_word_space_5 | target sentence oxygen symbol token |  
+| bip_39_word_space_6 | target sentence oxygen symbol token tray |  
+| bip_39_word_space_7 | target sentence oxygen symbol token tray talk |  
+| bip_39_word_space_8 | target sentence oxygen symbol token tray talk hotel |  
+| bip_39_word_space_9 | target sentence oxygen symbol token tray talk hotel seminar |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sun
+bip_39_word_new_br10: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix
+bip_39_word_new_br11: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program
+bip_39_word_new_br12: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program<br>asthma
+bip_39_word_new_br2: sun<br>add
+bip_39_word_new_br3: sun<br>add<br>indicate
+bip_39_word_new_br4: sun<br>add<br>indicate<br>stove
+bip_39_word_new_br5: sun<br>add<br>indicate<br>stove<br>luggage
+bip_39_word_new_br6: sun<br>add<br>indicate<br>stove<br>luggage<br>other
+bip_39_word_new_br7: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor
+bip_39_word_new_br8: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper
+bip_39_word_new_br9: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort
+bip_39_word_new_line1: sun
+bip_39_word_new_line10: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper
+
+  sort
+
+  fix'
+bip_39_word_new_line11: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper
+
+  sort
+
+  fix
+
+  program'
+bip_39_word_new_line12: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper
+
+  sort
+
+  fix
+
+  program
+
+  asthma'
+bip_39_word_new_line2: 'sun
+
+  add'
+bip_39_word_new_line3: 'sun
+
+  add
+
+  indicate'
+bip_39_word_new_line4: 'sun
+
+  add
+
+  indicate
+
+  stove'
+bip_39_word_new_line5: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage'
+bip_39_word_new_line6: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other'
+bip_39_word_new_line7: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor'
+bip_39_word_new_line8: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper'
+bip_39_word_new_line9: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper
+
+  sort'
+bip_39_word_space_0:
+- sun
+- add
+- indicate
+- stove
+- luggage
+- other
+- humor
+- prosper
+- sort
+- fix
+- program
+- asthma
+bip_39_word_space_1: sun
+bip_39_word_space_10: sun add indicate stove luggage other humor prosper sort fix
+bip_39_word_space_11: sun add indicate stove luggage other humor prosper sort fix
+  program
+bip_39_word_space_12: sun add indicate stove luggage other humor prosper sort fix
+  program asthma
+bip_39_word_space_2: sun add
+bip_39_word_space_3: sun add indicate
+bip_39_word_space_4: sun add indicate stove
+bip_39_word_space_5: sun add indicate stove luggage
+bip_39_word_space_6: sun add indicate stove luggage other
+bip_39_word_space_7: sun add indicate stove luggage other humor
+bip_39_word_space_8: sun add indicate stove luggage other humor prosper
+bip_39_word_space_9: sun add indicate stove luggage other humor prosper sort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

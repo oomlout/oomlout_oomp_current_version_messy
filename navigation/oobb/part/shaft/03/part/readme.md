@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: salute beef
+  * bip 39 word 3: salute beef deliver
+  * bip 39 word: salute beef deliver athlete wrap example eternal potato innocent fork auction attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | salute |  
+| bip_39_word_new_br10 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example<br>eternal<br>potato<br>innocent<br>fork |  
+| bip_39_word_new_br11 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example<br>eternal<br>potato<br>innocent<br>fork<br>auction |  
+| bip_39_word_new_br12 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example<br>eternal<br>potato<br>innocent<br>fork<br>auction<br>attack |  
+| bip_39_word_new_br2 | salute<br>beef |  
+| bip_39_word_new_br3 | salute<br>beef<br>deliver |  
+| bip_39_word_new_br4 | salute<br>beef<br>deliver<br>athlete |  
+| bip_39_word_new_br5 | salute<br>beef<br>deliver<br>athlete<br>wrap |  
+| bip_39_word_new_br6 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example |  
+| bip_39_word_new_br7 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example<br>eternal |  
+| bip_39_word_new_br8 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example<br>eternal<br>potato |  
+| bip_39_word_new_br9 | salute<br>beef<br>deliver<br>athlete<br>wrap<br>example<br>eternal<br>potato<br>innocent |  
+| bip_39_word_new_line1 | salute |  
+| bip_39_word_new_line10 | salute
+beef
+deliver
+athlete
+wrap
+example
+eternal
+potato
+innocent
+fork |  
+| bip_39_word_new_line11 | salute
+beef
+deliver
+athlete
+wrap
+example
+eternal
+potato
+innocent
+fork
+auction |  
+| bip_39_word_new_line12 | salute
+beef
+deliver
+athlete
+wrap
+example
+eternal
+potato
+innocent
+fork
+auction
+attack |  
+| bip_39_word_new_line2 | salute
+beef |  
+| bip_39_word_new_line3 | salute
+beef
+deliver |  
+| bip_39_word_new_line4 | salute
+beef
+deliver
+athlete |  
+| bip_39_word_new_line5 | salute
+beef
+deliver
+athlete
+wrap |  
+| bip_39_word_new_line6 | salute
+beef
+deliver
+athlete
+wrap
+example |  
+| bip_39_word_new_line7 | salute
+beef
+deliver
+athlete
+wrap
+example
+eternal |  
+| bip_39_word_new_line8 | salute
+beef
+deliver
+athlete
+wrap
+example
+eternal
+potato |  
+| bip_39_word_new_line9 | salute
+beef
+deliver
+athlete
+wrap
+example
+eternal
+potato
+innocent |  
+| bip_39_word_space_0 | ['salute', 'beef', 'deliver', 'athlete', 'wrap', 'example', 'eternal', 'potato', 'innocent', 'fork', 'auction', 'attack'] |  
+| bip_39_word_space_1 | salute |  
+| bip_39_word_space_10 | salute beef deliver athlete wrap example eternal potato innocent fork |  
+| bip_39_word_space_11 | salute beef deliver athlete wrap example eternal potato innocent fork auction |  
+| bip_39_word_space_12 | salute beef deliver athlete wrap example eternal potato innocent fork auction attack |  
+| bip_39_word_space_2 | salute beef |  
+| bip_39_word_space_3 | salute beef deliver |  
+| bip_39_word_space_4 | salute beef deliver athlete |  
+| bip_39_word_space_5 | salute beef deliver athlete wrap |  
+| bip_39_word_space_6 | salute beef deliver athlete wrap example |  
+| bip_39_word_space_7 | salute beef deliver athlete wrap example eternal |  
+| bip_39_word_space_8 | salute beef deliver athlete wrap example eternal potato |  
+| bip_39_word_space_9 | salute beef deliver athlete wrap example eternal potato innocent |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mystery
+bip_39_word_new_br10: mystery<br>pattern<br>female<br>obtain<br>august<br>argue<br>above<br>pigeon<br>flame<br>giraffe
+bip_39_word_new_br11: mystery<br>pattern<br>female<br>obtain<br>august<br>argue<br>above<br>pigeon<br>flame<br>giraffe<br>hire
+bip_39_word_new_br12: mystery<br>pattern<br>female<br>obtain<br>august<br>argue<br>above<br>pigeon<br>flame<br>giraffe<br>hire<br>affair
+bip_39_word_new_br2: mystery<br>pattern
+bip_39_word_new_br3: mystery<br>pattern<br>female
+bip_39_word_new_br4: mystery<br>pattern<br>female<br>obtain
+bip_39_word_new_br5: mystery<br>pattern<br>female<br>obtain<br>august
+bip_39_word_new_br6: mystery<br>pattern<br>female<br>obtain<br>august<br>argue
+bip_39_word_new_br7: mystery<br>pattern<br>female<br>obtain<br>august<br>argue<br>above
+bip_39_word_new_br8: mystery<br>pattern<br>female<br>obtain<br>august<br>argue<br>above<br>pigeon
+bip_39_word_new_br9: mystery<br>pattern<br>female<br>obtain<br>august<br>argue<br>above<br>pigeon<br>flame
+bip_39_word_new_line1: mystery
+bip_39_word_new_line10: 'mystery
+
+  pattern
+
+  female
+
+  obtain
+
+  august
+
+  argue
+
+  above
+
+  pigeon
+
+  flame
+
+  giraffe'
+bip_39_word_new_line11: 'mystery
+
+  pattern
+
+  female
+
+  obtain
+
+  august
+
+  argue
+
+  above
+
+  pigeon
+
+  flame
+
+  giraffe
+
+  hire'
+bip_39_word_new_line12: 'mystery
+
+  pattern
+
+  female
+
+  obtain
+
+  august
+
+  argue
+
+  above
+
+  pigeon
+
+  flame
+
+  giraffe
+
+  hire
+
+  affair'
+bip_39_word_new_line2: 'mystery
+
+  pattern'
+bip_39_word_new_line3: 'mystery
+
+  pattern
+
+  female'
+bip_39_word_new_line4: 'mystery
+
+  pattern
+
+  female
+
+  obtain'
+bip_39_word_new_line5: 'mystery
+
+  pattern
+
+  female
+
+  obtain
+
+  august'
+bip_39_word_new_line6: 'mystery
+
+  pattern
+
+  female
+
+  obtain
+
+  august
+
+  argue'
+bip_39_word_new_line7: 'mystery
+
+  pattern
+
+  female
+
+  obtain
+
+  august
+
+  argue
+
+  above'
+bip_39_word_new_line8: 'mystery
+
+  pattern
+
+  female
+
+  obtain
+
+  august
+
+  argue
+
+  above
+
+  pigeon'
+bip_39_word_new_line9: 'mystery
+
+  pattern
+
+  female
+
+  obtain
+
+  august
+
+  argue
+
+  above
+
+  pigeon
+
+  flame'
+bip_39_word_space_0:
+- mystery
+- pattern
+- female
+- obtain
+- august
+- argue
+- above
+- pigeon
+- flame
+- giraffe
+- hire
+- affair
+bip_39_word_space_1: mystery
+bip_39_word_space_10: mystery pattern female obtain august argue above pigeon flame
+  giraffe
+bip_39_word_space_11: mystery pattern female obtain august argue above pigeon flame
+  giraffe hire
+bip_39_word_space_12: mystery pattern female obtain august argue above pigeon flame
+  giraffe hire affair
+bip_39_word_space_2: mystery pattern
+bip_39_word_space_3: mystery pattern female
+bip_39_word_space_4: mystery pattern female obtain
+bip_39_word_space_5: mystery pattern female obtain august
+bip_39_word_space_6: mystery pattern female obtain august argue
+bip_39_word_space_7: mystery pattern female obtain august argue above
+bip_39_word_space_8: mystery pattern female obtain august argue above pigeon
+bip_39_word_space_9: mystery pattern female obtain august argue above pigeon flame
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

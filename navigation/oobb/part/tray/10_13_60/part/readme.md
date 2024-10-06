@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pride outside
+  * bip 39 word 3: pride outside dash
+  * bip 39 word: pride outside dash day lion rabbit tone element sure bonus supreme allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pride |  
+| bip_39_word_new_br10 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit<br>tone<br>element<br>sure<br>bonus |  
+| bip_39_word_new_br11 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit<br>tone<br>element<br>sure<br>bonus<br>supreme |  
+| bip_39_word_new_br12 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit<br>tone<br>element<br>sure<br>bonus<br>supreme<br>allow |  
+| bip_39_word_new_br2 | pride<br>outside |  
+| bip_39_word_new_br3 | pride<br>outside<br>dash |  
+| bip_39_word_new_br4 | pride<br>outside<br>dash<br>day |  
+| bip_39_word_new_br5 | pride<br>outside<br>dash<br>day<br>lion |  
+| bip_39_word_new_br6 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit |  
+| bip_39_word_new_br7 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit<br>tone |  
+| bip_39_word_new_br8 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit<br>tone<br>element |  
+| bip_39_word_new_br9 | pride<br>outside<br>dash<br>day<br>lion<br>rabbit<br>tone<br>element<br>sure |  
+| bip_39_word_new_line1 | pride |  
+| bip_39_word_new_line10 | pride
+outside
+dash
+day
+lion
+rabbit
+tone
+element
+sure
+bonus |  
+| bip_39_word_new_line11 | pride
+outside
+dash
+day
+lion
+rabbit
+tone
+element
+sure
+bonus
+supreme |  
+| bip_39_word_new_line12 | pride
+outside
+dash
+day
+lion
+rabbit
+tone
+element
+sure
+bonus
+supreme
+allow |  
+| bip_39_word_new_line2 | pride
+outside |  
+| bip_39_word_new_line3 | pride
+outside
+dash |  
+| bip_39_word_new_line4 | pride
+outside
+dash
+day |  
+| bip_39_word_new_line5 | pride
+outside
+dash
+day
+lion |  
+| bip_39_word_new_line6 | pride
+outside
+dash
+day
+lion
+rabbit |  
+| bip_39_word_new_line7 | pride
+outside
+dash
+day
+lion
+rabbit
+tone |  
+| bip_39_word_new_line8 | pride
+outside
+dash
+day
+lion
+rabbit
+tone
+element |  
+| bip_39_word_new_line9 | pride
+outside
+dash
+day
+lion
+rabbit
+tone
+element
+sure |  
+| bip_39_word_space_0 | ['pride', 'outside', 'dash', 'day', 'lion', 'rabbit', 'tone', 'element', 'sure', 'bonus', 'supreme', 'allow'] |  
+| bip_39_word_space_1 | pride |  
+| bip_39_word_space_10 | pride outside dash day lion rabbit tone element sure bonus |  
+| bip_39_word_space_11 | pride outside dash day lion rabbit tone element sure bonus supreme |  
+| bip_39_word_space_12 | pride outside dash day lion rabbit tone element sure bonus supreme allow |  
+| bip_39_word_space_2 | pride outside |  
+| bip_39_word_space_3 | pride outside dash |  
+| bip_39_word_space_4 | pride outside dash day |  
+| bip_39_word_space_5 | pride outside dash day lion |  
+| bip_39_word_space_6 | pride outside dash day lion rabbit |  
+| bip_39_word_space_7 | pride outside dash day lion rabbit tone |  
+| bip_39_word_space_8 | pride outside dash day lion rabbit tone element |  
+| bip_39_word_space_9 | pride outside dash day lion rabbit tone element sure |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

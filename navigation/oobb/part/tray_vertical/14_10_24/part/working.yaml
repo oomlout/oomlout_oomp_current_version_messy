@@ -1,3 +1,186 @@
+bip_39_word_new_br1: staff
+bip_39_word_new_br10: staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price
+bip_39_word_new_br11: staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price<br>inner
+bip_39_word_new_br12: staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken<br>price<br>inner<br>around
+bip_39_word_new_br2: staff<br>rent
+bip_39_word_new_br3: staff<br>rent<br>celery
+bip_39_word_new_br4: staff<br>rent<br>celery<br>pioneer
+bip_39_word_new_br5: staff<br>rent<br>celery<br>pioneer<br>either
+bip_39_word_new_br6: staff<br>rent<br>celery<br>pioneer<br>either<br>bid
+bip_39_word_new_br7: staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite
+bip_39_word_new_br8: staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme
+bip_39_word_new_br9: staff<br>rent<br>celery<br>pioneer<br>either<br>bid<br>kite<br>supreme<br>broken
+bip_39_word_new_line1: staff
+bip_39_word_new_line10: 'staff
+
+  rent
+
+  celery
+
+  pioneer
+
+  either
+
+  bid
+
+  kite
+
+  supreme
+
+  broken
+
+  price'
+bip_39_word_new_line11: 'staff
+
+  rent
+
+  celery
+
+  pioneer
+
+  either
+
+  bid
+
+  kite
+
+  supreme
+
+  broken
+
+  price
+
+  inner'
+bip_39_word_new_line12: 'staff
+
+  rent
+
+  celery
+
+  pioneer
+
+  either
+
+  bid
+
+  kite
+
+  supreme
+
+  broken
+
+  price
+
+  inner
+
+  around'
+bip_39_word_new_line2: 'staff
+
+  rent'
+bip_39_word_new_line3: 'staff
+
+  rent
+
+  celery'
+bip_39_word_new_line4: 'staff
+
+  rent
+
+  celery
+
+  pioneer'
+bip_39_word_new_line5: 'staff
+
+  rent
+
+  celery
+
+  pioneer
+
+  either'
+bip_39_word_new_line6: 'staff
+
+  rent
+
+  celery
+
+  pioneer
+
+  either
+
+  bid'
+bip_39_word_new_line7: 'staff
+
+  rent
+
+  celery
+
+  pioneer
+
+  either
+
+  bid
+
+  kite'
+bip_39_word_new_line8: 'staff
+
+  rent
+
+  celery
+
+  pioneer
+
+  either
+
+  bid
+
+  kite
+
+  supreme'
+bip_39_word_new_line9: 'staff
+
+  rent
+
+  celery
+
+  pioneer
+
+  either
+
+  bid
+
+  kite
+
+  supreme
+
+  broken'
+bip_39_word_space_0:
+- staff
+- rent
+- celery
+- pioneer
+- either
+- bid
+- kite
+- supreme
+- broken
+- price
+- inner
+- around
+bip_39_word_space_1: staff
+bip_39_word_space_10: staff rent celery pioneer either bid kite supreme broken price
+bip_39_word_space_11: staff rent celery pioneer either bid kite supreme broken price
+  inner
+bip_39_word_space_12: staff rent celery pioneer either bid kite supreme broken price
+  inner around
+bip_39_word_space_2: staff rent
+bip_39_word_space_3: staff rent celery
+bip_39_word_space_4: staff rent celery pioneer
+bip_39_word_space_5: staff rent celery pioneer either
+bip_39_word_space_6: staff rent celery pioneer either bid
+bip_39_word_space_7: staff rent celery pioneer either bid kite
+bip_39_word_space_8: staff rent celery pioneer either bid kite supreme
+bip_39_word_space_9: staff rent celery pioneer either bid kite supreme broken
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

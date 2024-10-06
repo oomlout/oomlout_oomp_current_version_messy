@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swim will
+  * bip 39 word 3: swim will citizen
+  * bip 39 word: swim will citizen crouch ramp they glue harbor egg hazard dizzy actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swim |  
+| bip_39_word_new_br10 | swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard |  
+| bip_39_word_new_br11 | swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard<br>dizzy |  
+| bip_39_word_new_br12 | swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg<br>hazard<br>dizzy<br>actor |  
+| bip_39_word_new_br2 | swim<br>will |  
+| bip_39_word_new_br3 | swim<br>will<br>citizen |  
+| bip_39_word_new_br4 | swim<br>will<br>citizen<br>crouch |  
+| bip_39_word_new_br5 | swim<br>will<br>citizen<br>crouch<br>ramp |  
+| bip_39_word_new_br6 | swim<br>will<br>citizen<br>crouch<br>ramp<br>they |  
+| bip_39_word_new_br7 | swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue |  
+| bip_39_word_new_br8 | swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor |  
+| bip_39_word_new_br9 | swim<br>will<br>citizen<br>crouch<br>ramp<br>they<br>glue<br>harbor<br>egg |  
+| bip_39_word_new_line1 | swim |  
+| bip_39_word_new_line10 | swim
+will
+citizen
+crouch
+ramp
+they
+glue
+harbor
+egg
+hazard |  
+| bip_39_word_new_line11 | swim
+will
+citizen
+crouch
+ramp
+they
+glue
+harbor
+egg
+hazard
+dizzy |  
+| bip_39_word_new_line12 | swim
+will
+citizen
+crouch
+ramp
+they
+glue
+harbor
+egg
+hazard
+dizzy
+actor |  
+| bip_39_word_new_line2 | swim
+will |  
+| bip_39_word_new_line3 | swim
+will
+citizen |  
+| bip_39_word_new_line4 | swim
+will
+citizen
+crouch |  
+| bip_39_word_new_line5 | swim
+will
+citizen
+crouch
+ramp |  
+| bip_39_word_new_line6 | swim
+will
+citizen
+crouch
+ramp
+they |  
+| bip_39_word_new_line7 | swim
+will
+citizen
+crouch
+ramp
+they
+glue |  
+| bip_39_word_new_line8 | swim
+will
+citizen
+crouch
+ramp
+they
+glue
+harbor |  
+| bip_39_word_new_line9 | swim
+will
+citizen
+crouch
+ramp
+they
+glue
+harbor
+egg |  
+| bip_39_word_space_0 | ['swim', 'will', 'citizen', 'crouch', 'ramp', 'they', 'glue', 'harbor', 'egg', 'hazard', 'dizzy', 'actor'] |  
+| bip_39_word_space_1 | swim |  
+| bip_39_word_space_10 | swim will citizen crouch ramp they glue harbor egg hazard |  
+| bip_39_word_space_11 | swim will citizen crouch ramp they glue harbor egg hazard dizzy |  
+| bip_39_word_space_12 | swim will citizen crouch ramp they glue harbor egg hazard dizzy actor |  
+| bip_39_word_space_2 | swim will |  
+| bip_39_word_space_3 | swim will citizen |  
+| bip_39_word_space_4 | swim will citizen crouch |  
+| bip_39_word_space_5 | swim will citizen crouch ramp |  
+| bip_39_word_space_6 | swim will citizen crouch ramp they |  
+| bip_39_word_space_7 | swim will citizen crouch ramp they glue |  
+| bip_39_word_space_8 | swim will citizen crouch ramp they glue harbor |  
+| bip_39_word_space_9 | swim will citizen crouch ramp they glue harbor egg |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

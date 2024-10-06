@@ -1,3 +1,186 @@
+bip_39_word_new_br1: blood
+bip_39_word_new_br10: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip<br>obscure<br>slim
+bip_39_word_new_br11: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip<br>obscure<br>slim<br>surge
+bip_39_word_new_br12: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip<br>obscure<br>slim<br>surge<br>armed
+bip_39_word_new_br2: blood<br>pilot
+bip_39_word_new_br3: blood<br>pilot<br>main
+bip_39_word_new_br4: blood<br>pilot<br>main<br>skate
+bip_39_word_new_br5: blood<br>pilot<br>main<br>skate<br>reveal
+bip_39_word_new_br6: blood<br>pilot<br>main<br>skate<br>reveal<br>board
+bip_39_word_new_br7: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible
+bip_39_word_new_br8: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip
+bip_39_word_new_br9: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip<br>obscure
+bip_39_word_new_line1: blood
+bip_39_word_new_line10: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip
+
+  obscure
+
+  slim'
+bip_39_word_new_line11: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip
+
+  obscure
+
+  slim
+
+  surge'
+bip_39_word_new_line12: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip
+
+  obscure
+
+  slim
+
+  surge
+
+  armed'
+bip_39_word_new_line2: 'blood
+
+  pilot'
+bip_39_word_new_line3: 'blood
+
+  pilot
+
+  main'
+bip_39_word_new_line4: 'blood
+
+  pilot
+
+  main
+
+  skate'
+bip_39_word_new_line5: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal'
+bip_39_word_new_line6: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board'
+bip_39_word_new_line7: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible'
+bip_39_word_new_line8: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip'
+bip_39_word_new_line9: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip
+
+  obscure'
+bip_39_word_space_0:
+- blood
+- pilot
+- main
+- skate
+- reveal
+- board
+- possible
+- trip
+- obscure
+- slim
+- surge
+- armed
+bip_39_word_space_1: blood
+bip_39_word_space_10: blood pilot main skate reveal board possible trip obscure slim
+bip_39_word_space_11: blood pilot main skate reveal board possible trip obscure slim
+  surge
+bip_39_word_space_12: blood pilot main skate reveal board possible trip obscure slim
+  surge armed
+bip_39_word_space_2: blood pilot
+bip_39_word_space_3: blood pilot main
+bip_39_word_space_4: blood pilot main skate
+bip_39_word_space_5: blood pilot main skate reveal
+bip_39_word_space_6: blood pilot main skate reveal board
+bip_39_word_space_7: blood pilot main skate reveal board possible
+bip_39_word_space_8: blood pilot main skate reveal board possible trip
+bip_39_word_space_9: blood pilot main skate reveal board possible trip obscure
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

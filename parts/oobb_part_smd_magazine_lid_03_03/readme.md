@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tomato prison
+  * bip 39 word 3: tomato prison easy
+  * bip 39 word: tomato prison easy receive penalty defense salute tackle stem letter region actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tomato |  
+| bip_39_word_new_br10 | tomato<br>prison<br>easy<br>receive<br>penalty<br>defense<br>salute<br>tackle<br>stem<br>letter |  
+| bip_39_word_new_br11 | tomato<br>prison<br>easy<br>receive<br>penalty<br>defense<br>salute<br>tackle<br>stem<br>letter<br>region |  
+| bip_39_word_new_br12 | tomato<br>prison<br>easy<br>receive<br>penalty<br>defense<br>salute<br>tackle<br>stem<br>letter<br>region<br>actual |  
+| bip_39_word_new_br2 | tomato<br>prison |  
+| bip_39_word_new_br3 | tomato<br>prison<br>easy |  
+| bip_39_word_new_br4 | tomato<br>prison<br>easy<br>receive |  
+| bip_39_word_new_br5 | tomato<br>prison<br>easy<br>receive<br>penalty |  
+| bip_39_word_new_br6 | tomato<br>prison<br>easy<br>receive<br>penalty<br>defense |  
+| bip_39_word_new_br7 | tomato<br>prison<br>easy<br>receive<br>penalty<br>defense<br>salute |  
+| bip_39_word_new_br8 | tomato<br>prison<br>easy<br>receive<br>penalty<br>defense<br>salute<br>tackle |  
+| bip_39_word_new_br9 | tomato<br>prison<br>easy<br>receive<br>penalty<br>defense<br>salute<br>tackle<br>stem |  
+| bip_39_word_new_line1 | tomato |  
+| bip_39_word_new_line10 | tomato
+prison
+easy
+receive
+penalty
+defense
+salute
+tackle
+stem
+letter |  
+| bip_39_word_new_line11 | tomato
+prison
+easy
+receive
+penalty
+defense
+salute
+tackle
+stem
+letter
+region |  
+| bip_39_word_new_line12 | tomato
+prison
+easy
+receive
+penalty
+defense
+salute
+tackle
+stem
+letter
+region
+actual |  
+| bip_39_word_new_line2 | tomato
+prison |  
+| bip_39_word_new_line3 | tomato
+prison
+easy |  
+| bip_39_word_new_line4 | tomato
+prison
+easy
+receive |  
+| bip_39_word_new_line5 | tomato
+prison
+easy
+receive
+penalty |  
+| bip_39_word_new_line6 | tomato
+prison
+easy
+receive
+penalty
+defense |  
+| bip_39_word_new_line7 | tomato
+prison
+easy
+receive
+penalty
+defense
+salute |  
+| bip_39_word_new_line8 | tomato
+prison
+easy
+receive
+penalty
+defense
+salute
+tackle |  
+| bip_39_word_new_line9 | tomato
+prison
+easy
+receive
+penalty
+defense
+salute
+tackle
+stem |  
+| bip_39_word_space_0 | ['tomato', 'prison', 'easy', 'receive', 'penalty', 'defense', 'salute', 'tackle', 'stem', 'letter', 'region', 'actual'] |  
+| bip_39_word_space_1 | tomato |  
+| bip_39_word_space_10 | tomato prison easy receive penalty defense salute tackle stem letter |  
+| bip_39_word_space_11 | tomato prison easy receive penalty defense salute tackle stem letter region |  
+| bip_39_word_space_12 | tomato prison easy receive penalty defense salute tackle stem letter region actual |  
+| bip_39_word_space_2 | tomato prison |  
+| bip_39_word_space_3 | tomato prison easy |  
+| bip_39_word_space_4 | tomato prison easy receive |  
+| bip_39_word_space_5 | tomato prison easy receive penalty |  
+| bip_39_word_space_6 | tomato prison easy receive penalty defense |  
+| bip_39_word_space_7 | tomato prison easy receive penalty defense salute |  
+| bip_39_word_space_8 | tomato prison easy receive penalty defense salute tackle |  
+| bip_39_word_space_9 | tomato prison easy receive penalty defense salute tackle stem |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

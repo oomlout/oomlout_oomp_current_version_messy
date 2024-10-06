@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: document fruit
+  * bip 39 word 3: document fruit predict
+  * bip 39 word: document fruit predict project blood blue primary host dish spread pull again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | document |  
+| bip_39_word_new_br10 | document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread |  
+| bip_39_word_new_br11 | document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread<br>pull |  
+| bip_39_word_new_br12 | document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish<br>spread<br>pull<br>again |  
+| bip_39_word_new_br2 | document<br>fruit |  
+| bip_39_word_new_br3 | document<br>fruit<br>predict |  
+| bip_39_word_new_br4 | document<br>fruit<br>predict<br>project |  
+| bip_39_word_new_br5 | document<br>fruit<br>predict<br>project<br>blood |  
+| bip_39_word_new_br6 | document<br>fruit<br>predict<br>project<br>blood<br>blue |  
+| bip_39_word_new_br7 | document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary |  
+| bip_39_word_new_br8 | document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host |  
+| bip_39_word_new_br9 | document<br>fruit<br>predict<br>project<br>blood<br>blue<br>primary<br>host<br>dish |  
+| bip_39_word_new_line1 | document |  
+| bip_39_word_new_line10 | document
+fruit
+predict
+project
+blood
+blue
+primary
+host
+dish
+spread |  
+| bip_39_word_new_line11 | document
+fruit
+predict
+project
+blood
+blue
+primary
+host
+dish
+spread
+pull |  
+| bip_39_word_new_line12 | document
+fruit
+predict
+project
+blood
+blue
+primary
+host
+dish
+spread
+pull
+again |  
+| bip_39_word_new_line2 | document
+fruit |  
+| bip_39_word_new_line3 | document
+fruit
+predict |  
+| bip_39_word_new_line4 | document
+fruit
+predict
+project |  
+| bip_39_word_new_line5 | document
+fruit
+predict
+project
+blood |  
+| bip_39_word_new_line6 | document
+fruit
+predict
+project
+blood
+blue |  
+| bip_39_word_new_line7 | document
+fruit
+predict
+project
+blood
+blue
+primary |  
+| bip_39_word_new_line8 | document
+fruit
+predict
+project
+blood
+blue
+primary
+host |  
+| bip_39_word_new_line9 | document
+fruit
+predict
+project
+blood
+blue
+primary
+host
+dish |  
+| bip_39_word_space_0 | ['document', 'fruit', 'predict', 'project', 'blood', 'blue', 'primary', 'host', 'dish', 'spread', 'pull', 'again'] |  
+| bip_39_word_space_1 | document |  
+| bip_39_word_space_10 | document fruit predict project blood blue primary host dish spread |  
+| bip_39_word_space_11 | document fruit predict project blood blue primary host dish spread pull |  
+| bip_39_word_space_12 | document fruit predict project blood blue primary host dish spread pull again |  
+| bip_39_word_space_2 | document fruit |  
+| bip_39_word_space_3 | document fruit predict |  
+| bip_39_word_space_4 | document fruit predict project |  
+| bip_39_word_space_5 | document fruit predict project blood |  
+| bip_39_word_space_6 | document fruit predict project blood blue |  
+| bip_39_word_space_7 | document fruit predict project blood blue primary |  
+| bip_39_word_space_8 | document fruit predict project blood blue primary host |  
+| bip_39_word_space_9 | document fruit predict project blood blue primary host dish |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

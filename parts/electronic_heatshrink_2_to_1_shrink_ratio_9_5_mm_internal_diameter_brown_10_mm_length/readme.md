@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: key later
+  * bip 39 word 3: key later indoor
+  * bip 39 word: key later indoor become enter shoulder strategy very stable margin this add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | key |  
+| bip_39_word_new_br10 | key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin |  
+| bip_39_word_new_br11 | key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin<br>this |  
+| bip_39_word_new_br12 | key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable<br>margin<br>this<br>add |  
+| bip_39_word_new_br2 | key<br>later |  
+| bip_39_word_new_br3 | key<br>later<br>indoor |  
+| bip_39_word_new_br4 | key<br>later<br>indoor<br>become |  
+| bip_39_word_new_br5 | key<br>later<br>indoor<br>become<br>enter |  
+| bip_39_word_new_br6 | key<br>later<br>indoor<br>become<br>enter<br>shoulder |  
+| bip_39_word_new_br7 | key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy |  
+| bip_39_word_new_br8 | key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very |  
+| bip_39_word_new_br9 | key<br>later<br>indoor<br>become<br>enter<br>shoulder<br>strategy<br>very<br>stable |  
+| bip_39_word_new_line1 | key |  
+| bip_39_word_new_line10 | key
+later
+indoor
+become
+enter
+shoulder
+strategy
+very
+stable
+margin |  
+| bip_39_word_new_line11 | key
+later
+indoor
+become
+enter
+shoulder
+strategy
+very
+stable
+margin
+this |  
+| bip_39_word_new_line12 | key
+later
+indoor
+become
+enter
+shoulder
+strategy
+very
+stable
+margin
+this
+add |  
+| bip_39_word_new_line2 | key
+later |  
+| bip_39_word_new_line3 | key
+later
+indoor |  
+| bip_39_word_new_line4 | key
+later
+indoor
+become |  
+| bip_39_word_new_line5 | key
+later
+indoor
+become
+enter |  
+| bip_39_word_new_line6 | key
+later
+indoor
+become
+enter
+shoulder |  
+| bip_39_word_new_line7 | key
+later
+indoor
+become
+enter
+shoulder
+strategy |  
+| bip_39_word_new_line8 | key
+later
+indoor
+become
+enter
+shoulder
+strategy
+very |  
+| bip_39_word_new_line9 | key
+later
+indoor
+become
+enter
+shoulder
+strategy
+very
+stable |  
+| bip_39_word_space_0 | ['key', 'later', 'indoor', 'become', 'enter', 'shoulder', 'strategy', 'very', 'stable', 'margin', 'this', 'add'] |  
+| bip_39_word_space_1 | key |  
+| bip_39_word_space_10 | key later indoor become enter shoulder strategy very stable margin |  
+| bip_39_word_space_11 | key later indoor become enter shoulder strategy very stable margin this |  
+| bip_39_word_space_12 | key later indoor become enter shoulder strategy very stable margin this add |  
+| bip_39_word_space_2 | key later |  
+| bip_39_word_space_3 | key later indoor |  
+| bip_39_word_space_4 | key later indoor become |  
+| bip_39_word_space_5 | key later indoor become enter |  
+| bip_39_word_space_6 | key later indoor become enter shoulder |  
+| bip_39_word_space_7 | key later indoor become enter shoulder strategy |  
+| bip_39_word_space_8 | key later indoor become enter shoulder strategy very |  
+| bip_39_word_space_9 | key later indoor become enter shoulder strategy very stable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

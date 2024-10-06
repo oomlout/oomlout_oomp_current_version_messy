@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: motor_building_block_large_01_bottom
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grace spray
+  * bip 39 word 3: grace spray lunar
+  * bip 39 word: grace spray lunar bind phone arrange section enjoy moral ginger cream actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grace |  
+| bip_39_word_new_br10 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange<br>section<br>enjoy<br>moral<br>ginger |  
+| bip_39_word_new_br11 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange<br>section<br>enjoy<br>moral<br>ginger<br>cream |  
+| bip_39_word_new_br12 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange<br>section<br>enjoy<br>moral<br>ginger<br>cream<br>actual |  
+| bip_39_word_new_br2 | grace<br>spray |  
+| bip_39_word_new_br3 | grace<br>spray<br>lunar |  
+| bip_39_word_new_br4 | grace<br>spray<br>lunar<br>bind |  
+| bip_39_word_new_br5 | grace<br>spray<br>lunar<br>bind<br>phone |  
+| bip_39_word_new_br6 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange |  
+| bip_39_word_new_br7 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange<br>section |  
+| bip_39_word_new_br8 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange<br>section<br>enjoy |  
+| bip_39_word_new_br9 | grace<br>spray<br>lunar<br>bind<br>phone<br>arrange<br>section<br>enjoy<br>moral |  
+| bip_39_word_new_line1 | grace |  
+| bip_39_word_new_line10 | grace
+spray
+lunar
+bind
+phone
+arrange
+section
+enjoy
+moral
+ginger |  
+| bip_39_word_new_line11 | grace
+spray
+lunar
+bind
+phone
+arrange
+section
+enjoy
+moral
+ginger
+cream |  
+| bip_39_word_new_line12 | grace
+spray
+lunar
+bind
+phone
+arrange
+section
+enjoy
+moral
+ginger
+cream
+actual |  
+| bip_39_word_new_line2 | grace
+spray |  
+| bip_39_word_new_line3 | grace
+spray
+lunar |  
+| bip_39_word_new_line4 | grace
+spray
+lunar
+bind |  
+| bip_39_word_new_line5 | grace
+spray
+lunar
+bind
+phone |  
+| bip_39_word_new_line6 | grace
+spray
+lunar
+bind
+phone
+arrange |  
+| bip_39_word_new_line7 | grace
+spray
+lunar
+bind
+phone
+arrange
+section |  
+| bip_39_word_new_line8 | grace
+spray
+lunar
+bind
+phone
+arrange
+section
+enjoy |  
+| bip_39_word_new_line9 | grace
+spray
+lunar
+bind
+phone
+arrange
+section
+enjoy
+moral |  
+| bip_39_word_space_0 | ['grace', 'spray', 'lunar', 'bind', 'phone', 'arrange', 'section', 'enjoy', 'moral', 'ginger', 'cream', 'actual'] |  
+| bip_39_word_space_1 | grace |  
+| bip_39_word_space_10 | grace spray lunar bind phone arrange section enjoy moral ginger |  
+| bip_39_word_space_11 | grace spray lunar bind phone arrange section enjoy moral ginger cream |  
+| bip_39_word_space_12 | grace spray lunar bind phone arrange section enjoy moral ginger cream actual |  
+| bip_39_word_space_2 | grace spray |  
+| bip_39_word_space_3 | grace spray lunar |  
+| bip_39_word_space_4 | grace spray lunar bind |  
+| bip_39_word_space_5 | grace spray lunar bind phone |  
+| bip_39_word_space_6 | grace spray lunar bind phone arrange |  
+| bip_39_word_space_7 | grace spray lunar bind phone arrange section |  
+| bip_39_word_space_8 | grace spray lunar bind phone arrange section enjoy |  
+| bip_39_word_space_9 | grace spray lunar bind phone arrange section enjoy moral |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

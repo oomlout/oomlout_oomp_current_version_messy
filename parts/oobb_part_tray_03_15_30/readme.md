@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: car stomach
+  * bip 39 word 3: car stomach neutral
+  * bip 39 word: car stomach neutral devote liquid engine fit tiger sail auto ability all
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | car |  
+| bip_39_word_new_br10 | car<br>stomach<br>neutral<br>devote<br>liquid<br>engine<br>fit<br>tiger<br>sail<br>auto |  
+| bip_39_word_new_br11 | car<br>stomach<br>neutral<br>devote<br>liquid<br>engine<br>fit<br>tiger<br>sail<br>auto<br>ability |  
+| bip_39_word_new_br12 | car<br>stomach<br>neutral<br>devote<br>liquid<br>engine<br>fit<br>tiger<br>sail<br>auto<br>ability<br>all |  
+| bip_39_word_new_br2 | car<br>stomach |  
+| bip_39_word_new_br3 | car<br>stomach<br>neutral |  
+| bip_39_word_new_br4 | car<br>stomach<br>neutral<br>devote |  
+| bip_39_word_new_br5 | car<br>stomach<br>neutral<br>devote<br>liquid |  
+| bip_39_word_new_br6 | car<br>stomach<br>neutral<br>devote<br>liquid<br>engine |  
+| bip_39_word_new_br7 | car<br>stomach<br>neutral<br>devote<br>liquid<br>engine<br>fit |  
+| bip_39_word_new_br8 | car<br>stomach<br>neutral<br>devote<br>liquid<br>engine<br>fit<br>tiger |  
+| bip_39_word_new_br9 | car<br>stomach<br>neutral<br>devote<br>liquid<br>engine<br>fit<br>tiger<br>sail |  
+| bip_39_word_new_line1 | car |  
+| bip_39_word_new_line10 | car
+stomach
+neutral
+devote
+liquid
+engine
+fit
+tiger
+sail
+auto |  
+| bip_39_word_new_line11 | car
+stomach
+neutral
+devote
+liquid
+engine
+fit
+tiger
+sail
+auto
+ability |  
+| bip_39_word_new_line12 | car
+stomach
+neutral
+devote
+liquid
+engine
+fit
+tiger
+sail
+auto
+ability
+all |  
+| bip_39_word_new_line2 | car
+stomach |  
+| bip_39_word_new_line3 | car
+stomach
+neutral |  
+| bip_39_word_new_line4 | car
+stomach
+neutral
+devote |  
+| bip_39_word_new_line5 | car
+stomach
+neutral
+devote
+liquid |  
+| bip_39_word_new_line6 | car
+stomach
+neutral
+devote
+liquid
+engine |  
+| bip_39_word_new_line7 | car
+stomach
+neutral
+devote
+liquid
+engine
+fit |  
+| bip_39_word_new_line8 | car
+stomach
+neutral
+devote
+liquid
+engine
+fit
+tiger |  
+| bip_39_word_new_line9 | car
+stomach
+neutral
+devote
+liquid
+engine
+fit
+tiger
+sail |  
+| bip_39_word_space_0 | ['car', 'stomach', 'neutral', 'devote', 'liquid', 'engine', 'fit', 'tiger', 'sail', 'auto', 'ability', 'all'] |  
+| bip_39_word_space_1 | car |  
+| bip_39_word_space_10 | car stomach neutral devote liquid engine fit tiger sail auto |  
+| bip_39_word_space_11 | car stomach neutral devote liquid engine fit tiger sail auto ability |  
+| bip_39_word_space_12 | car stomach neutral devote liquid engine fit tiger sail auto ability all |  
+| bip_39_word_space_2 | car stomach |  
+| bip_39_word_space_3 | car stomach neutral |  
+| bip_39_word_space_4 | car stomach neutral devote |  
+| bip_39_word_space_5 | car stomach neutral devote liquid |  
+| bip_39_word_space_6 | car stomach neutral devote liquid engine |  
+| bip_39_word_space_7 | car stomach neutral devote liquid engine fit |  
+| bip_39_word_space_8 | car stomach neutral devote liquid engine fit tiger |  
+| bip_39_word_space_9 | car stomach neutral devote liquid engine fit tiger sail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

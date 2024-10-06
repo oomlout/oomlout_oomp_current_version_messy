@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unable simple
+  * bip 39 word 3: unable simple success
+  * bip 39 word: unable simple success cute that cheese imitate collect pledge nothing transfer announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unable |  
+| bip_39_word_new_br10 | unable<br>simple<br>success<br>cute<br>that<br>cheese<br>imitate<br>collect<br>pledge<br>nothing |  
+| bip_39_word_new_br11 | unable<br>simple<br>success<br>cute<br>that<br>cheese<br>imitate<br>collect<br>pledge<br>nothing<br>transfer |  
+| bip_39_word_new_br12 | unable<br>simple<br>success<br>cute<br>that<br>cheese<br>imitate<br>collect<br>pledge<br>nothing<br>transfer<br>announce |  
+| bip_39_word_new_br2 | unable<br>simple |  
+| bip_39_word_new_br3 | unable<br>simple<br>success |  
+| bip_39_word_new_br4 | unable<br>simple<br>success<br>cute |  
+| bip_39_word_new_br5 | unable<br>simple<br>success<br>cute<br>that |  
+| bip_39_word_new_br6 | unable<br>simple<br>success<br>cute<br>that<br>cheese |  
+| bip_39_word_new_br7 | unable<br>simple<br>success<br>cute<br>that<br>cheese<br>imitate |  
+| bip_39_word_new_br8 | unable<br>simple<br>success<br>cute<br>that<br>cheese<br>imitate<br>collect |  
+| bip_39_word_new_br9 | unable<br>simple<br>success<br>cute<br>that<br>cheese<br>imitate<br>collect<br>pledge |  
+| bip_39_word_new_line1 | unable |  
+| bip_39_word_new_line10 | unable
+simple
+success
+cute
+that
+cheese
+imitate
+collect
+pledge
+nothing |  
+| bip_39_word_new_line11 | unable
+simple
+success
+cute
+that
+cheese
+imitate
+collect
+pledge
+nothing
+transfer |  
+| bip_39_word_new_line12 | unable
+simple
+success
+cute
+that
+cheese
+imitate
+collect
+pledge
+nothing
+transfer
+announce |  
+| bip_39_word_new_line2 | unable
+simple |  
+| bip_39_word_new_line3 | unable
+simple
+success |  
+| bip_39_word_new_line4 | unable
+simple
+success
+cute |  
+| bip_39_word_new_line5 | unable
+simple
+success
+cute
+that |  
+| bip_39_word_new_line6 | unable
+simple
+success
+cute
+that
+cheese |  
+| bip_39_word_new_line7 | unable
+simple
+success
+cute
+that
+cheese
+imitate |  
+| bip_39_word_new_line8 | unable
+simple
+success
+cute
+that
+cheese
+imitate
+collect |  
+| bip_39_word_new_line9 | unable
+simple
+success
+cute
+that
+cheese
+imitate
+collect
+pledge |  
+| bip_39_word_space_0 | ['unable', 'simple', 'success', 'cute', 'that', 'cheese', 'imitate', 'collect', 'pledge', 'nothing', 'transfer', 'announce'] |  
+| bip_39_word_space_1 | unable |  
+| bip_39_word_space_10 | unable simple success cute that cheese imitate collect pledge nothing |  
+| bip_39_word_space_11 | unable simple success cute that cheese imitate collect pledge nothing transfer |  
+| bip_39_word_space_12 | unable simple success cute that cheese imitate collect pledge nothing transfer announce |  
+| bip_39_word_space_2 | unable simple |  
+| bip_39_word_space_3 | unable simple success |  
+| bip_39_word_space_4 | unable simple success cute |  
+| bip_39_word_space_5 | unable simple success cute that |  
+| bip_39_word_space_6 | unable simple success cute that cheese |  
+| bip_39_word_space_7 | unable simple success cute that cheese imitate |  
+| bip_39_word_space_8 | unable simple success cute that cheese imitate collect |  
+| bip_39_word_space_9 | unable simple success cute that cheese imitate collect pledge |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

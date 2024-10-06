@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 72_teeth_shield_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broccoli around
+  * bip 39 word 3: broccoli around search
+  * bip 39 word: broccoli around search menu manage clerk work match account congress attitude ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broccoli |  
+| bip_39_word_new_br10 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk<br>work<br>match<br>account<br>congress |  
+| bip_39_word_new_br11 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk<br>work<br>match<br>account<br>congress<br>attitude |  
+| bip_39_word_new_br12 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk<br>work<br>match<br>account<br>congress<br>attitude<br>ahead |  
+| bip_39_word_new_br2 | broccoli<br>around |  
+| bip_39_word_new_br3 | broccoli<br>around<br>search |  
+| bip_39_word_new_br4 | broccoli<br>around<br>search<br>menu |  
+| bip_39_word_new_br5 | broccoli<br>around<br>search<br>menu<br>manage |  
+| bip_39_word_new_br6 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk |  
+| bip_39_word_new_br7 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk<br>work |  
+| bip_39_word_new_br8 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk<br>work<br>match |  
+| bip_39_word_new_br9 | broccoli<br>around<br>search<br>menu<br>manage<br>clerk<br>work<br>match<br>account |  
+| bip_39_word_new_line1 | broccoli |  
+| bip_39_word_new_line10 | broccoli
+around
+search
+menu
+manage
+clerk
+work
+match
+account
+congress |  
+| bip_39_word_new_line11 | broccoli
+around
+search
+menu
+manage
+clerk
+work
+match
+account
+congress
+attitude |  
+| bip_39_word_new_line12 | broccoli
+around
+search
+menu
+manage
+clerk
+work
+match
+account
+congress
+attitude
+ahead |  
+| bip_39_word_new_line2 | broccoli
+around |  
+| bip_39_word_new_line3 | broccoli
+around
+search |  
+| bip_39_word_new_line4 | broccoli
+around
+search
+menu |  
+| bip_39_word_new_line5 | broccoli
+around
+search
+menu
+manage |  
+| bip_39_word_new_line6 | broccoli
+around
+search
+menu
+manage
+clerk |  
+| bip_39_word_new_line7 | broccoli
+around
+search
+menu
+manage
+clerk
+work |  
+| bip_39_word_new_line8 | broccoli
+around
+search
+menu
+manage
+clerk
+work
+match |  
+| bip_39_word_new_line9 | broccoli
+around
+search
+menu
+manage
+clerk
+work
+match
+account |  
+| bip_39_word_space_0 | ['broccoli', 'around', 'search', 'menu', 'manage', 'clerk', 'work', 'match', 'account', 'congress', 'attitude', 'ahead'] |  
+| bip_39_word_space_1 | broccoli |  
+| bip_39_word_space_10 | broccoli around search menu manage clerk work match account congress |  
+| bip_39_word_space_11 | broccoli around search menu manage clerk work match account congress attitude |  
+| bip_39_word_space_12 | broccoli around search menu manage clerk work match account congress attitude ahead |  
+| bip_39_word_space_2 | broccoli around |  
+| bip_39_word_space_3 | broccoli around search |  
+| bip_39_word_space_4 | broccoli around search menu |  
+| bip_39_word_space_5 | broccoli around search menu manage |  
+| bip_39_word_space_6 | broccoli around search menu manage clerk |  
+| bip_39_word_space_7 | broccoli around search menu manage clerk work |  
+| bip_39_word_space_8 | broccoli around search menu manage clerk work match |  
+| bip_39_word_space_9 | broccoli around search menu manage clerk work match account |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

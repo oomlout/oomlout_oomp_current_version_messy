@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: swear forward
+  * bip 39 word 3: swear forward nothing
+  * bip 39 word: swear forward nothing jaguar unique destroy admit relief spot anchor hedgehog allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | swear |  
+| bip_39_word_new_br10 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy<br>admit<br>relief<br>spot<br>anchor |  
+| bip_39_word_new_br11 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy<br>admit<br>relief<br>spot<br>anchor<br>hedgehog |  
+| bip_39_word_new_br12 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy<br>admit<br>relief<br>spot<br>anchor<br>hedgehog<br>allow |  
+| bip_39_word_new_br2 | swear<br>forward |  
+| bip_39_word_new_br3 | swear<br>forward<br>nothing |  
+| bip_39_word_new_br4 | swear<br>forward<br>nothing<br>jaguar |  
+| bip_39_word_new_br5 | swear<br>forward<br>nothing<br>jaguar<br>unique |  
+| bip_39_word_new_br6 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy |  
+| bip_39_word_new_br7 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy<br>admit |  
+| bip_39_word_new_br8 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy<br>admit<br>relief |  
+| bip_39_word_new_br9 | swear<br>forward<br>nothing<br>jaguar<br>unique<br>destroy<br>admit<br>relief<br>spot |  
+| bip_39_word_new_line1 | swear |  
+| bip_39_word_new_line10 | swear
+forward
+nothing
+jaguar
+unique
+destroy
+admit
+relief
+spot
+anchor |  
+| bip_39_word_new_line11 | swear
+forward
+nothing
+jaguar
+unique
+destroy
+admit
+relief
+spot
+anchor
+hedgehog |  
+| bip_39_word_new_line12 | swear
+forward
+nothing
+jaguar
+unique
+destroy
+admit
+relief
+spot
+anchor
+hedgehog
+allow |  
+| bip_39_word_new_line2 | swear
+forward |  
+| bip_39_word_new_line3 | swear
+forward
+nothing |  
+| bip_39_word_new_line4 | swear
+forward
+nothing
+jaguar |  
+| bip_39_word_new_line5 | swear
+forward
+nothing
+jaguar
+unique |  
+| bip_39_word_new_line6 | swear
+forward
+nothing
+jaguar
+unique
+destroy |  
+| bip_39_word_new_line7 | swear
+forward
+nothing
+jaguar
+unique
+destroy
+admit |  
+| bip_39_word_new_line8 | swear
+forward
+nothing
+jaguar
+unique
+destroy
+admit
+relief |  
+| bip_39_word_new_line9 | swear
+forward
+nothing
+jaguar
+unique
+destroy
+admit
+relief
+spot |  
+| bip_39_word_space_0 | ['swear', 'forward', 'nothing', 'jaguar', 'unique', 'destroy', 'admit', 'relief', 'spot', 'anchor', 'hedgehog', 'allow'] |  
+| bip_39_word_space_1 | swear |  
+| bip_39_word_space_10 | swear forward nothing jaguar unique destroy admit relief spot anchor |  
+| bip_39_word_space_11 | swear forward nothing jaguar unique destroy admit relief spot anchor hedgehog |  
+| bip_39_word_space_12 | swear forward nothing jaguar unique destroy admit relief spot anchor hedgehog allow |  
+| bip_39_word_space_2 | swear forward |  
+| bip_39_word_space_3 | swear forward nothing |  
+| bip_39_word_space_4 | swear forward nothing jaguar |  
+| bip_39_word_space_5 | swear forward nothing jaguar unique |  
+| bip_39_word_space_6 | swear forward nothing jaguar unique destroy |  
+| bip_39_word_space_7 | swear forward nothing jaguar unique destroy admit |  
+| bip_39_word_space_8 | swear forward nothing jaguar unique destroy admit relief |  
+| bip_39_word_space_9 | swear forward nothing jaguar unique destroy admit relief spot |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

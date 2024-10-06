@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: employ summer
+  * bip 39 word 3: employ summer grape
+  * bip 39 word: employ summer grape emotion fragile inflict helmet guilt result purpose finger absorb
 
 ### other_codes
 * short_code: n2d7m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | employ |  
+| bip_39_word_new_br10 | employ<br>summer<br>grape<br>emotion<br>fragile<br>inflict<br>helmet<br>guilt<br>result<br>purpose |  
+| bip_39_word_new_br11 | employ<br>summer<br>grape<br>emotion<br>fragile<br>inflict<br>helmet<br>guilt<br>result<br>purpose<br>finger |  
+| bip_39_word_new_br12 | employ<br>summer<br>grape<br>emotion<br>fragile<br>inflict<br>helmet<br>guilt<br>result<br>purpose<br>finger<br>absorb |  
+| bip_39_word_new_br2 | employ<br>summer |  
+| bip_39_word_new_br3 | employ<br>summer<br>grape |  
+| bip_39_word_new_br4 | employ<br>summer<br>grape<br>emotion |  
+| bip_39_word_new_br5 | employ<br>summer<br>grape<br>emotion<br>fragile |  
+| bip_39_word_new_br6 | employ<br>summer<br>grape<br>emotion<br>fragile<br>inflict |  
+| bip_39_word_new_br7 | employ<br>summer<br>grape<br>emotion<br>fragile<br>inflict<br>helmet |  
+| bip_39_word_new_br8 | employ<br>summer<br>grape<br>emotion<br>fragile<br>inflict<br>helmet<br>guilt |  
+| bip_39_word_new_br9 | employ<br>summer<br>grape<br>emotion<br>fragile<br>inflict<br>helmet<br>guilt<br>result |  
+| bip_39_word_new_line1 | employ |  
+| bip_39_word_new_line10 | employ
+summer
+grape
+emotion
+fragile
+inflict
+helmet
+guilt
+result
+purpose |  
+| bip_39_word_new_line11 | employ
+summer
+grape
+emotion
+fragile
+inflict
+helmet
+guilt
+result
+purpose
+finger |  
+| bip_39_word_new_line12 | employ
+summer
+grape
+emotion
+fragile
+inflict
+helmet
+guilt
+result
+purpose
+finger
+absorb |  
+| bip_39_word_new_line2 | employ
+summer |  
+| bip_39_word_new_line3 | employ
+summer
+grape |  
+| bip_39_word_new_line4 | employ
+summer
+grape
+emotion |  
+| bip_39_word_new_line5 | employ
+summer
+grape
+emotion
+fragile |  
+| bip_39_word_new_line6 | employ
+summer
+grape
+emotion
+fragile
+inflict |  
+| bip_39_word_new_line7 | employ
+summer
+grape
+emotion
+fragile
+inflict
+helmet |  
+| bip_39_word_new_line8 | employ
+summer
+grape
+emotion
+fragile
+inflict
+helmet
+guilt |  
+| bip_39_word_new_line9 | employ
+summer
+grape
+emotion
+fragile
+inflict
+helmet
+guilt
+result |  
+| bip_39_word_space_0 | ['employ', 'summer', 'grape', 'emotion', 'fragile', 'inflict', 'helmet', 'guilt', 'result', 'purpose', 'finger', 'absorb'] |  
+| bip_39_word_space_1 | employ |  
+| bip_39_word_space_10 | employ summer grape emotion fragile inflict helmet guilt result purpose |  
+| bip_39_word_space_11 | employ summer grape emotion fragile inflict helmet guilt result purpose finger |  
+| bip_39_word_space_12 | employ summer grape emotion fragile inflict helmet guilt result purpose finger absorb |  
+| bip_39_word_space_2 | employ summer |  
+| bip_39_word_space_3 | employ summer grape |  
+| bip_39_word_space_4 | employ summer grape emotion |  
+| bip_39_word_space_5 | employ summer grape emotion fragile |  
+| bip_39_word_space_6 | employ summer grape emotion fragile inflict |  
+| bip_39_word_space_7 | employ summer grape emotion fragile inflict helmet |  
+| bip_39_word_space_8 | employ summer grape emotion fragile inflict helmet guilt |  
+| bip_39_word_space_9 | employ summer grape emotion fragile inflict helmet guilt result |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

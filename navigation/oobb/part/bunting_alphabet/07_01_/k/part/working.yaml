@@ -1,3 +1,186 @@
+bip_39_word_new_br1: together
+bip_39_word_new_br10: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck<br>loop
+bip_39_word_new_br11: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck<br>loop<br>illness
+bip_39_word_new_br12: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck<br>loop<br>illness<br>author
+bip_39_word_new_br2: together<br>elbow
+bip_39_word_new_br3: together<br>elbow<br>card
+bip_39_word_new_br4: together<br>elbow<br>card<br>sunset
+bip_39_word_new_br5: together<br>elbow<br>card<br>sunset<br>once
+bip_39_word_new_br6: together<br>elbow<br>card<br>sunset<br>once<br>ostrich
+bip_39_word_new_br7: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip
+bip_39_word_new_br8: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon
+bip_39_word_new_br9: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck
+bip_39_word_new_line1: together
+bip_39_word_new_line10: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon
+
+  neck
+
+  loop'
+bip_39_word_new_line11: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon
+
+  neck
+
+  loop
+
+  illness'
+bip_39_word_new_line12: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon
+
+  neck
+
+  loop
+
+  illness
+
+  author'
+bip_39_word_new_line2: 'together
+
+  elbow'
+bip_39_word_new_line3: 'together
+
+  elbow
+
+  card'
+bip_39_word_new_line4: 'together
+
+  elbow
+
+  card
+
+  sunset'
+bip_39_word_new_line5: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once'
+bip_39_word_new_line6: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich'
+bip_39_word_new_line7: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip'
+bip_39_word_new_line8: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon'
+bip_39_word_new_line9: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon
+
+  neck'
+bip_39_word_space_0:
+- together
+- elbow
+- card
+- sunset
+- once
+- ostrich
+- hip
+- ribbon
+- neck
+- loop
+- illness
+- author
+bip_39_word_space_1: together
+bip_39_word_space_10: together elbow card sunset once ostrich hip ribbon neck loop
+bip_39_word_space_11: together elbow card sunset once ostrich hip ribbon neck loop
+  illness
+bip_39_word_space_12: together elbow card sunset once ostrich hip ribbon neck loop
+  illness author
+bip_39_word_space_2: together elbow
+bip_39_word_space_3: together elbow card
+bip_39_word_space_4: together elbow card sunset
+bip_39_word_space_5: together elbow card sunset once
+bip_39_word_space_6: together elbow card sunset once ostrich
+bip_39_word_space_7: together elbow card sunset once ostrich hip
+bip_39_word_space_8: together elbow card sunset once ostrich hip ribbon
+bip_39_word_space_9: together elbow card sunset once ostrich hip ribbon neck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

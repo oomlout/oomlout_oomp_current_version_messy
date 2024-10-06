@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 56_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: argue spend
+  * bip 39 word 3: argue spend clown
+  * bip 39 word: argue spend clown amount amused head over file argue bounce vehicle access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | argue |  
+| bip_39_word_new_br10 | argue<br>spend<br>clown<br>amount<br>amused<br>head<br>over<br>file<br>argue<br>bounce |  
+| bip_39_word_new_br11 | argue<br>spend<br>clown<br>amount<br>amused<br>head<br>over<br>file<br>argue<br>bounce<br>vehicle |  
+| bip_39_word_new_br12 | argue<br>spend<br>clown<br>amount<br>amused<br>head<br>over<br>file<br>argue<br>bounce<br>vehicle<br>access |  
+| bip_39_word_new_br2 | argue<br>spend |  
+| bip_39_word_new_br3 | argue<br>spend<br>clown |  
+| bip_39_word_new_br4 | argue<br>spend<br>clown<br>amount |  
+| bip_39_word_new_br5 | argue<br>spend<br>clown<br>amount<br>amused |  
+| bip_39_word_new_br6 | argue<br>spend<br>clown<br>amount<br>amused<br>head |  
+| bip_39_word_new_br7 | argue<br>spend<br>clown<br>amount<br>amused<br>head<br>over |  
+| bip_39_word_new_br8 | argue<br>spend<br>clown<br>amount<br>amused<br>head<br>over<br>file |  
+| bip_39_word_new_br9 | argue<br>spend<br>clown<br>amount<br>amused<br>head<br>over<br>file<br>argue |  
+| bip_39_word_new_line1 | argue |  
+| bip_39_word_new_line10 | argue
+spend
+clown
+amount
+amused
+head
+over
+file
+argue
+bounce |  
+| bip_39_word_new_line11 | argue
+spend
+clown
+amount
+amused
+head
+over
+file
+argue
+bounce
+vehicle |  
+| bip_39_word_new_line12 | argue
+spend
+clown
+amount
+amused
+head
+over
+file
+argue
+bounce
+vehicle
+access |  
+| bip_39_word_new_line2 | argue
+spend |  
+| bip_39_word_new_line3 | argue
+spend
+clown |  
+| bip_39_word_new_line4 | argue
+spend
+clown
+amount |  
+| bip_39_word_new_line5 | argue
+spend
+clown
+amount
+amused |  
+| bip_39_word_new_line6 | argue
+spend
+clown
+amount
+amused
+head |  
+| bip_39_word_new_line7 | argue
+spend
+clown
+amount
+amused
+head
+over |  
+| bip_39_word_new_line8 | argue
+spend
+clown
+amount
+amused
+head
+over
+file |  
+| bip_39_word_new_line9 | argue
+spend
+clown
+amount
+amused
+head
+over
+file
+argue |  
+| bip_39_word_space_0 | ['argue', 'spend', 'clown', 'amount', 'amused', 'head', 'over', 'file', 'argue', 'bounce', 'vehicle', 'access'] |  
+| bip_39_word_space_1 | argue |  
+| bip_39_word_space_10 | argue spend clown amount amused head over file argue bounce |  
+| bip_39_word_space_11 | argue spend clown amount amused head over file argue bounce vehicle |  
+| bip_39_word_space_12 | argue spend clown amount amused head over file argue bounce vehicle access |  
+| bip_39_word_space_2 | argue spend |  
+| bip_39_word_space_3 | argue spend clown |  
+| bip_39_word_space_4 | argue spend clown amount |  
+| bip_39_word_space_5 | argue spend clown amount amused |  
+| bip_39_word_space_6 | argue spend clown amount amused head |  
+| bip_39_word_space_7 | argue spend clown amount amused head over |  
+| bip_39_word_space_8 | argue spend clown amount amused head over file |  
+| bip_39_word_space_9 | argue spend clown amount amused head over file argue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

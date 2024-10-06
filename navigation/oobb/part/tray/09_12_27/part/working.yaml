@@ -1,3 +1,187 @@
+bip_39_word_new_br1: arena
+bip_39_word_new_br10: arena<br>cart<br>virus<br>uniform<br>tourist<br>amount<br>receive<br>option<br>point<br>ill
+bip_39_word_new_br11: arena<br>cart<br>virus<br>uniform<br>tourist<br>amount<br>receive<br>option<br>point<br>ill<br>kingdom
+bip_39_word_new_br12: arena<br>cart<br>virus<br>uniform<br>tourist<br>amount<br>receive<br>option<br>point<br>ill<br>kingdom<br>act
+bip_39_word_new_br2: arena<br>cart
+bip_39_word_new_br3: arena<br>cart<br>virus
+bip_39_word_new_br4: arena<br>cart<br>virus<br>uniform
+bip_39_word_new_br5: arena<br>cart<br>virus<br>uniform<br>tourist
+bip_39_word_new_br6: arena<br>cart<br>virus<br>uniform<br>tourist<br>amount
+bip_39_word_new_br7: arena<br>cart<br>virus<br>uniform<br>tourist<br>amount<br>receive
+bip_39_word_new_br8: arena<br>cart<br>virus<br>uniform<br>tourist<br>amount<br>receive<br>option
+bip_39_word_new_br9: arena<br>cart<br>virus<br>uniform<br>tourist<br>amount<br>receive<br>option<br>point
+bip_39_word_new_line1: arena
+bip_39_word_new_line10: 'arena
+
+  cart
+
+  virus
+
+  uniform
+
+  tourist
+
+  amount
+
+  receive
+
+  option
+
+  point
+
+  ill'
+bip_39_word_new_line11: 'arena
+
+  cart
+
+  virus
+
+  uniform
+
+  tourist
+
+  amount
+
+  receive
+
+  option
+
+  point
+
+  ill
+
+  kingdom'
+bip_39_word_new_line12: 'arena
+
+  cart
+
+  virus
+
+  uniform
+
+  tourist
+
+  amount
+
+  receive
+
+  option
+
+  point
+
+  ill
+
+  kingdom
+
+  act'
+bip_39_word_new_line2: 'arena
+
+  cart'
+bip_39_word_new_line3: 'arena
+
+  cart
+
+  virus'
+bip_39_word_new_line4: 'arena
+
+  cart
+
+  virus
+
+  uniform'
+bip_39_word_new_line5: 'arena
+
+  cart
+
+  virus
+
+  uniform
+
+  tourist'
+bip_39_word_new_line6: 'arena
+
+  cart
+
+  virus
+
+  uniform
+
+  tourist
+
+  amount'
+bip_39_word_new_line7: 'arena
+
+  cart
+
+  virus
+
+  uniform
+
+  tourist
+
+  amount
+
+  receive'
+bip_39_word_new_line8: 'arena
+
+  cart
+
+  virus
+
+  uniform
+
+  tourist
+
+  amount
+
+  receive
+
+  option'
+bip_39_word_new_line9: 'arena
+
+  cart
+
+  virus
+
+  uniform
+
+  tourist
+
+  amount
+
+  receive
+
+  option
+
+  point'
+bip_39_word_space_0:
+- arena
+- cart
+- virus
+- uniform
+- tourist
+- amount
+- receive
+- option
+- point
+- ill
+- kingdom
+- act
+bip_39_word_space_1: arena
+bip_39_word_space_10: arena cart virus uniform tourist amount receive option point
+  ill
+bip_39_word_space_11: arena cart virus uniform tourist amount receive option point
+  ill kingdom
+bip_39_word_space_12: arena cart virus uniform tourist amount receive option point
+  ill kingdom act
+bip_39_word_space_2: arena cart
+bip_39_word_space_3: arena cart virus
+bip_39_word_space_4: arena cart virus uniform
+bip_39_word_space_5: arena cart virus uniform tourist
+bip_39_word_space_6: arena cart virus uniform tourist amount
+bip_39_word_space_7: arena cart virus uniform tourist amount receive
+bip_39_word_space_8: arena cart virus uniform tourist amount receive option
+bip_39_word_space_9: arena cart virus uniform tourist amount receive option point
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

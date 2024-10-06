@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ptfe_tube_holder_ninety_degree_sh_m6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: robot mushroom
+  * bip 39 word 3: robot mushroom depart
+  * bip 39 word: robot mushroom depart okay bench dumb change tattoo vapor season expand auction
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | robot |  
+| bip_39_word_new_br10 | robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor<br>season |  
+| bip_39_word_new_br11 | robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor<br>season<br>expand |  
+| bip_39_word_new_br12 | robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor<br>season<br>expand<br>auction |  
+| bip_39_word_new_br2 | robot<br>mushroom |  
+| bip_39_word_new_br3 | robot<br>mushroom<br>depart |  
+| bip_39_word_new_br4 | robot<br>mushroom<br>depart<br>okay |  
+| bip_39_word_new_br5 | robot<br>mushroom<br>depart<br>okay<br>bench |  
+| bip_39_word_new_br6 | robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb |  
+| bip_39_word_new_br7 | robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change |  
+| bip_39_word_new_br8 | robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo |  
+| bip_39_word_new_br9 | robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor |  
+| bip_39_word_new_line1 | robot |  
+| bip_39_word_new_line10 | robot
+mushroom
+depart
+okay
+bench
+dumb
+change
+tattoo
+vapor
+season |  
+| bip_39_word_new_line11 | robot
+mushroom
+depart
+okay
+bench
+dumb
+change
+tattoo
+vapor
+season
+expand |  
+| bip_39_word_new_line12 | robot
+mushroom
+depart
+okay
+bench
+dumb
+change
+tattoo
+vapor
+season
+expand
+auction |  
+| bip_39_word_new_line2 | robot
+mushroom |  
+| bip_39_word_new_line3 | robot
+mushroom
+depart |  
+| bip_39_word_new_line4 | robot
+mushroom
+depart
+okay |  
+| bip_39_word_new_line5 | robot
+mushroom
+depart
+okay
+bench |  
+| bip_39_word_new_line6 | robot
+mushroom
+depart
+okay
+bench
+dumb |  
+| bip_39_word_new_line7 | robot
+mushroom
+depart
+okay
+bench
+dumb
+change |  
+| bip_39_word_new_line8 | robot
+mushroom
+depart
+okay
+bench
+dumb
+change
+tattoo |  
+| bip_39_word_new_line9 | robot
+mushroom
+depart
+okay
+bench
+dumb
+change
+tattoo
+vapor |  
+| bip_39_word_space_0 | ['robot', 'mushroom', 'depart', 'okay', 'bench', 'dumb', 'change', 'tattoo', 'vapor', 'season', 'expand', 'auction'] |  
+| bip_39_word_space_1 | robot |  
+| bip_39_word_space_10 | robot mushroom depart okay bench dumb change tattoo vapor season |  
+| bip_39_word_space_11 | robot mushroom depart okay bench dumb change tattoo vapor season expand |  
+| bip_39_word_space_12 | robot mushroom depart okay bench dumb change tattoo vapor season expand auction |  
+| bip_39_word_space_2 | robot mushroom |  
+| bip_39_word_space_3 | robot mushroom depart |  
+| bip_39_word_space_4 | robot mushroom depart okay |  
+| bip_39_word_space_5 | robot mushroom depart okay bench |  
+| bip_39_word_space_6 | robot mushroom depart okay bench dumb |  
+| bip_39_word_space_7 | robot mushroom depart okay bench dumb change |  
+| bip_39_word_space_8 | robot mushroom depart okay bench dumb change tattoo |  
+| bip_39_word_space_9 | robot mushroom depart okay bench dumb change tattoo vapor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

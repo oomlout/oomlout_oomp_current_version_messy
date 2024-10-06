@@ -1,3 +1,187 @@
+bip_39_word_new_br1: client
+bip_39_word_new_br10: client<br>domain<br>harvest<br>crane<br>behind<br>exotic<br>program<br>onion<br>sock<br>story
+bip_39_word_new_br11: client<br>domain<br>harvest<br>crane<br>behind<br>exotic<br>program<br>onion<br>sock<br>story<br>garment
+bip_39_word_new_br12: client<br>domain<br>harvest<br>crane<br>behind<br>exotic<br>program<br>onion<br>sock<br>story<br>garment<br>arrive
+bip_39_word_new_br2: client<br>domain
+bip_39_word_new_br3: client<br>domain<br>harvest
+bip_39_word_new_br4: client<br>domain<br>harvest<br>crane
+bip_39_word_new_br5: client<br>domain<br>harvest<br>crane<br>behind
+bip_39_word_new_br6: client<br>domain<br>harvest<br>crane<br>behind<br>exotic
+bip_39_word_new_br7: client<br>domain<br>harvest<br>crane<br>behind<br>exotic<br>program
+bip_39_word_new_br8: client<br>domain<br>harvest<br>crane<br>behind<br>exotic<br>program<br>onion
+bip_39_word_new_br9: client<br>domain<br>harvest<br>crane<br>behind<br>exotic<br>program<br>onion<br>sock
+bip_39_word_new_line1: client
+bip_39_word_new_line10: 'client
+
+  domain
+
+  harvest
+
+  crane
+
+  behind
+
+  exotic
+
+  program
+
+  onion
+
+  sock
+
+  story'
+bip_39_word_new_line11: 'client
+
+  domain
+
+  harvest
+
+  crane
+
+  behind
+
+  exotic
+
+  program
+
+  onion
+
+  sock
+
+  story
+
+  garment'
+bip_39_word_new_line12: 'client
+
+  domain
+
+  harvest
+
+  crane
+
+  behind
+
+  exotic
+
+  program
+
+  onion
+
+  sock
+
+  story
+
+  garment
+
+  arrive'
+bip_39_word_new_line2: 'client
+
+  domain'
+bip_39_word_new_line3: 'client
+
+  domain
+
+  harvest'
+bip_39_word_new_line4: 'client
+
+  domain
+
+  harvest
+
+  crane'
+bip_39_word_new_line5: 'client
+
+  domain
+
+  harvest
+
+  crane
+
+  behind'
+bip_39_word_new_line6: 'client
+
+  domain
+
+  harvest
+
+  crane
+
+  behind
+
+  exotic'
+bip_39_word_new_line7: 'client
+
+  domain
+
+  harvest
+
+  crane
+
+  behind
+
+  exotic
+
+  program'
+bip_39_word_new_line8: 'client
+
+  domain
+
+  harvest
+
+  crane
+
+  behind
+
+  exotic
+
+  program
+
+  onion'
+bip_39_word_new_line9: 'client
+
+  domain
+
+  harvest
+
+  crane
+
+  behind
+
+  exotic
+
+  program
+
+  onion
+
+  sock'
+bip_39_word_space_0:
+- client
+- domain
+- harvest
+- crane
+- behind
+- exotic
+- program
+- onion
+- sock
+- story
+- garment
+- arrive
+bip_39_word_space_1: client
+bip_39_word_space_10: client domain harvest crane behind exotic program onion sock
+  story
+bip_39_word_space_11: client domain harvest crane behind exotic program onion sock
+  story garment
+bip_39_word_space_12: client domain harvest crane behind exotic program onion sock
+  story garment arrive
+bip_39_word_space_2: client domain
+bip_39_word_space_3: client domain harvest
+bip_39_word_space_4: client domain harvest crane
+bip_39_word_space_5: client domain harvest crane behind
+bip_39_word_space_6: client domain harvest crane behind exotic
+bip_39_word_space_7: client domain harvest crane behind exotic program
+bip_39_word_space_8: client domain harvest crane behind exotic program onion
+bip_39_word_space_9: client domain harvest crane behind exotic program onion sock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

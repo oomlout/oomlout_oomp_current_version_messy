@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: animal pony
+  * bip 39 word 3: animal pony knee
+  * bip 39 word: animal pony knee position average moral off ice earth rival boil ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | animal |  
+| bip_39_word_new_br10 | animal<br>pony<br>knee<br>position<br>average<br>moral<br>off<br>ice<br>earth<br>rival |  
+| bip_39_word_new_br11 | animal<br>pony<br>knee<br>position<br>average<br>moral<br>off<br>ice<br>earth<br>rival<br>boil |  
+| bip_39_word_new_br12 | animal<br>pony<br>knee<br>position<br>average<br>moral<br>off<br>ice<br>earth<br>rival<br>boil<br>ancient |  
+| bip_39_word_new_br2 | animal<br>pony |  
+| bip_39_word_new_br3 | animal<br>pony<br>knee |  
+| bip_39_word_new_br4 | animal<br>pony<br>knee<br>position |  
+| bip_39_word_new_br5 | animal<br>pony<br>knee<br>position<br>average |  
+| bip_39_word_new_br6 | animal<br>pony<br>knee<br>position<br>average<br>moral |  
+| bip_39_word_new_br7 | animal<br>pony<br>knee<br>position<br>average<br>moral<br>off |  
+| bip_39_word_new_br8 | animal<br>pony<br>knee<br>position<br>average<br>moral<br>off<br>ice |  
+| bip_39_word_new_br9 | animal<br>pony<br>knee<br>position<br>average<br>moral<br>off<br>ice<br>earth |  
+| bip_39_word_new_line1 | animal |  
+| bip_39_word_new_line10 | animal
+pony
+knee
+position
+average
+moral
+off
+ice
+earth
+rival |  
+| bip_39_word_new_line11 | animal
+pony
+knee
+position
+average
+moral
+off
+ice
+earth
+rival
+boil |  
+| bip_39_word_new_line12 | animal
+pony
+knee
+position
+average
+moral
+off
+ice
+earth
+rival
+boil
+ancient |  
+| bip_39_word_new_line2 | animal
+pony |  
+| bip_39_word_new_line3 | animal
+pony
+knee |  
+| bip_39_word_new_line4 | animal
+pony
+knee
+position |  
+| bip_39_word_new_line5 | animal
+pony
+knee
+position
+average |  
+| bip_39_word_new_line6 | animal
+pony
+knee
+position
+average
+moral |  
+| bip_39_word_new_line7 | animal
+pony
+knee
+position
+average
+moral
+off |  
+| bip_39_word_new_line8 | animal
+pony
+knee
+position
+average
+moral
+off
+ice |  
+| bip_39_word_new_line9 | animal
+pony
+knee
+position
+average
+moral
+off
+ice
+earth |  
+| bip_39_word_space_0 | ['animal', 'pony', 'knee', 'position', 'average', 'moral', 'off', 'ice', 'earth', 'rival', 'boil', 'ancient'] |  
+| bip_39_word_space_1 | animal |  
+| bip_39_word_space_10 | animal pony knee position average moral off ice earth rival |  
+| bip_39_word_space_11 | animal pony knee position average moral off ice earth rival boil |  
+| bip_39_word_space_12 | animal pony knee position average moral off ice earth rival boil ancient |  
+| bip_39_word_space_2 | animal pony |  
+| bip_39_word_space_3 | animal pony knee |  
+| bip_39_word_space_4 | animal pony knee position |  
+| bip_39_word_space_5 | animal pony knee position average |  
+| bip_39_word_space_6 | animal pony knee position average moral |  
+| bip_39_word_space_7 | animal pony knee position average moral off |  
+| bip_39_word_space_8 | animal pony knee position average moral off ice |  
+| bip_39_word_space_9 | animal pony knee position average moral off ice earth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

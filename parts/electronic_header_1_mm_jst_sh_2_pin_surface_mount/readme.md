@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: course immense
+  * bip 39 word 3: course immense basic
+  * bip 39 word: course immense basic power short photo pony repair rude town once act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | course |  
+| bip_39_word_new_br10 | course<br>immense<br>basic<br>power<br>short<br>photo<br>pony<br>repair<br>rude<br>town |  
+| bip_39_word_new_br11 | course<br>immense<br>basic<br>power<br>short<br>photo<br>pony<br>repair<br>rude<br>town<br>once |  
+| bip_39_word_new_br12 | course<br>immense<br>basic<br>power<br>short<br>photo<br>pony<br>repair<br>rude<br>town<br>once<br>act |  
+| bip_39_word_new_br2 | course<br>immense |  
+| bip_39_word_new_br3 | course<br>immense<br>basic |  
+| bip_39_word_new_br4 | course<br>immense<br>basic<br>power |  
+| bip_39_word_new_br5 | course<br>immense<br>basic<br>power<br>short |  
+| bip_39_word_new_br6 | course<br>immense<br>basic<br>power<br>short<br>photo |  
+| bip_39_word_new_br7 | course<br>immense<br>basic<br>power<br>short<br>photo<br>pony |  
+| bip_39_word_new_br8 | course<br>immense<br>basic<br>power<br>short<br>photo<br>pony<br>repair |  
+| bip_39_word_new_br9 | course<br>immense<br>basic<br>power<br>short<br>photo<br>pony<br>repair<br>rude |  
+| bip_39_word_new_line1 | course |  
+| bip_39_word_new_line10 | course
+immense
+basic
+power
+short
+photo
+pony
+repair
+rude
+town |  
+| bip_39_word_new_line11 | course
+immense
+basic
+power
+short
+photo
+pony
+repair
+rude
+town
+once |  
+| bip_39_word_new_line12 | course
+immense
+basic
+power
+short
+photo
+pony
+repair
+rude
+town
+once
+act |  
+| bip_39_word_new_line2 | course
+immense |  
+| bip_39_word_new_line3 | course
+immense
+basic |  
+| bip_39_word_new_line4 | course
+immense
+basic
+power |  
+| bip_39_word_new_line5 | course
+immense
+basic
+power
+short |  
+| bip_39_word_new_line6 | course
+immense
+basic
+power
+short
+photo |  
+| bip_39_word_new_line7 | course
+immense
+basic
+power
+short
+photo
+pony |  
+| bip_39_word_new_line8 | course
+immense
+basic
+power
+short
+photo
+pony
+repair |  
+| bip_39_word_new_line9 | course
+immense
+basic
+power
+short
+photo
+pony
+repair
+rude |  
+| bip_39_word_space_0 | ['course', 'immense', 'basic', 'power', 'short', 'photo', 'pony', 'repair', 'rude', 'town', 'once', 'act'] |  
+| bip_39_word_space_1 | course |  
+| bip_39_word_space_10 | course immense basic power short photo pony repair rude town |  
+| bip_39_word_space_11 | course immense basic power short photo pony repair rude town once |  
+| bip_39_word_space_12 | course immense basic power short photo pony repair rude town once act |  
+| bip_39_word_space_2 | course immense |  
+| bip_39_word_space_3 | course immense basic |  
+| bip_39_word_space_4 | course immense basic power |  
+| bip_39_word_space_5 | course immense basic power short |  
+| bip_39_word_space_6 | course immense basic power short photo |  
+| bip_39_word_space_7 | course immense basic power short photo pony |  
+| bip_39_word_space_8 | course immense basic power short photo pony repair |  
+| bip_39_word_space_9 | course immense basic power short photo pony repair rude |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

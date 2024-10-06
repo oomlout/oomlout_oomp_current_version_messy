@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amateur south
+  * bip 39 word 3: amateur south universe
+  * bip 39 word: amateur south universe setup mean autumn food regret average select task album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amateur |  
+| bip_39_word_new_br10 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn<br>food<br>regret<br>average<br>select |  
+| bip_39_word_new_br11 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn<br>food<br>regret<br>average<br>select<br>task |  
+| bip_39_word_new_br12 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn<br>food<br>regret<br>average<br>select<br>task<br>album |  
+| bip_39_word_new_br2 | amateur<br>south |  
+| bip_39_word_new_br3 | amateur<br>south<br>universe |  
+| bip_39_word_new_br4 | amateur<br>south<br>universe<br>setup |  
+| bip_39_word_new_br5 | amateur<br>south<br>universe<br>setup<br>mean |  
+| bip_39_word_new_br6 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn |  
+| bip_39_word_new_br7 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn<br>food |  
+| bip_39_word_new_br8 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn<br>food<br>regret |  
+| bip_39_word_new_br9 | amateur<br>south<br>universe<br>setup<br>mean<br>autumn<br>food<br>regret<br>average |  
+| bip_39_word_new_line1 | amateur |  
+| bip_39_word_new_line10 | amateur
+south
+universe
+setup
+mean
+autumn
+food
+regret
+average
+select |  
+| bip_39_word_new_line11 | amateur
+south
+universe
+setup
+mean
+autumn
+food
+regret
+average
+select
+task |  
+| bip_39_word_new_line12 | amateur
+south
+universe
+setup
+mean
+autumn
+food
+regret
+average
+select
+task
+album |  
+| bip_39_word_new_line2 | amateur
+south |  
+| bip_39_word_new_line3 | amateur
+south
+universe |  
+| bip_39_word_new_line4 | amateur
+south
+universe
+setup |  
+| bip_39_word_new_line5 | amateur
+south
+universe
+setup
+mean |  
+| bip_39_word_new_line6 | amateur
+south
+universe
+setup
+mean
+autumn |  
+| bip_39_word_new_line7 | amateur
+south
+universe
+setup
+mean
+autumn
+food |  
+| bip_39_word_new_line8 | amateur
+south
+universe
+setup
+mean
+autumn
+food
+regret |  
+| bip_39_word_new_line9 | amateur
+south
+universe
+setup
+mean
+autumn
+food
+regret
+average |  
+| bip_39_word_space_0 | ['amateur', 'south', 'universe', 'setup', 'mean', 'autumn', 'food', 'regret', 'average', 'select', 'task', 'album'] |  
+| bip_39_word_space_1 | amateur |  
+| bip_39_word_space_10 | amateur south universe setup mean autumn food regret average select |  
+| bip_39_word_space_11 | amateur south universe setup mean autumn food regret average select task |  
+| bip_39_word_space_12 | amateur south universe setup mean autumn food regret average select task album |  
+| bip_39_word_space_2 | amateur south |  
+| bip_39_word_space_3 | amateur south universe |  
+| bip_39_word_space_4 | amateur south universe setup |  
+| bip_39_word_space_5 | amateur south universe setup mean |  
+| bip_39_word_space_6 | amateur south universe setup mean autumn |  
+| bip_39_word_space_7 | amateur south universe setup mean autumn food |  
+| bip_39_word_space_8 | amateur south universe setup mean autumn food regret |  
+| bip_39_word_space_9 | amateur south universe setup mean autumn food regret average |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: obscure city
+  * bip 39 word 3: obscure city thrive
+  * bip 39 word: obscure city thrive vehicle cricket near trade orphan into afford fringe account
 
 ### other_codes
 * short_code: cs2b3p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | obscure |  
+| bip_39_word_new_br10 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near<br>trade<br>orphan<br>into<br>afford |  
+| bip_39_word_new_br11 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near<br>trade<br>orphan<br>into<br>afford<br>fringe |  
+| bip_39_word_new_br12 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near<br>trade<br>orphan<br>into<br>afford<br>fringe<br>account |  
+| bip_39_word_new_br2 | obscure<br>city |  
+| bip_39_word_new_br3 | obscure<br>city<br>thrive |  
+| bip_39_word_new_br4 | obscure<br>city<br>thrive<br>vehicle |  
+| bip_39_word_new_br5 | obscure<br>city<br>thrive<br>vehicle<br>cricket |  
+| bip_39_word_new_br6 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near |  
+| bip_39_word_new_br7 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near<br>trade |  
+| bip_39_word_new_br8 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near<br>trade<br>orphan |  
+| bip_39_word_new_br9 | obscure<br>city<br>thrive<br>vehicle<br>cricket<br>near<br>trade<br>orphan<br>into |  
+| bip_39_word_new_line1 | obscure |  
+| bip_39_word_new_line10 | obscure
+city
+thrive
+vehicle
+cricket
+near
+trade
+orphan
+into
+afford |  
+| bip_39_word_new_line11 | obscure
+city
+thrive
+vehicle
+cricket
+near
+trade
+orphan
+into
+afford
+fringe |  
+| bip_39_word_new_line12 | obscure
+city
+thrive
+vehicle
+cricket
+near
+trade
+orphan
+into
+afford
+fringe
+account |  
+| bip_39_word_new_line2 | obscure
+city |  
+| bip_39_word_new_line3 | obscure
+city
+thrive |  
+| bip_39_word_new_line4 | obscure
+city
+thrive
+vehicle |  
+| bip_39_word_new_line5 | obscure
+city
+thrive
+vehicle
+cricket |  
+| bip_39_word_new_line6 | obscure
+city
+thrive
+vehicle
+cricket
+near |  
+| bip_39_word_new_line7 | obscure
+city
+thrive
+vehicle
+cricket
+near
+trade |  
+| bip_39_word_new_line8 | obscure
+city
+thrive
+vehicle
+cricket
+near
+trade
+orphan |  
+| bip_39_word_new_line9 | obscure
+city
+thrive
+vehicle
+cricket
+near
+trade
+orphan
+into |  
+| bip_39_word_space_0 | ['obscure', 'city', 'thrive', 'vehicle', 'cricket', 'near', 'trade', 'orphan', 'into', 'afford', 'fringe', 'account'] |  
+| bip_39_word_space_1 | obscure |  
+| bip_39_word_space_10 | obscure city thrive vehicle cricket near trade orphan into afford |  
+| bip_39_word_space_11 | obscure city thrive vehicle cricket near trade orphan into afford fringe |  
+| bip_39_word_space_12 | obscure city thrive vehicle cricket near trade orphan into afford fringe account |  
+| bip_39_word_space_2 | obscure city |  
+| bip_39_word_space_3 | obscure city thrive |  
+| bip_39_word_space_4 | obscure city thrive vehicle |  
+| bip_39_word_space_5 | obscure city thrive vehicle cricket |  
+| bip_39_word_space_6 | obscure city thrive vehicle cricket near |  
+| bip_39_word_space_7 | obscure city thrive vehicle cricket near trade |  
+| bip_39_word_space_8 | obscure city thrive vehicle cricket near trade orphan |  
+| bip_39_word_space_9 | obscure city thrive vehicle cricket near trade orphan into |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

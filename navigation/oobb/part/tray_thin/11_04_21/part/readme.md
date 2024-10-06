@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hand water
+  * bip 39 word 3: hand water casino
+  * bip 39 word: hand water casino tired almost square uncle swamp few apart embark absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hand |  
+| bip_39_word_new_br10 | hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few<br>apart |  
+| bip_39_word_new_br11 | hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few<br>apart<br>embark |  
+| bip_39_word_new_br12 | hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few<br>apart<br>embark<br>absurd |  
+| bip_39_word_new_br2 | hand<br>water |  
+| bip_39_word_new_br3 | hand<br>water<br>casino |  
+| bip_39_word_new_br4 | hand<br>water<br>casino<br>tired |  
+| bip_39_word_new_br5 | hand<br>water<br>casino<br>tired<br>almost |  
+| bip_39_word_new_br6 | hand<br>water<br>casino<br>tired<br>almost<br>square |  
+| bip_39_word_new_br7 | hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle |  
+| bip_39_word_new_br8 | hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp |  
+| bip_39_word_new_br9 | hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few |  
+| bip_39_word_new_line1 | hand |  
+| bip_39_word_new_line10 | hand
+water
+casino
+tired
+almost
+square
+uncle
+swamp
+few
+apart |  
+| bip_39_word_new_line11 | hand
+water
+casino
+tired
+almost
+square
+uncle
+swamp
+few
+apart
+embark |  
+| bip_39_word_new_line12 | hand
+water
+casino
+tired
+almost
+square
+uncle
+swamp
+few
+apart
+embark
+absurd |  
+| bip_39_word_new_line2 | hand
+water |  
+| bip_39_word_new_line3 | hand
+water
+casino |  
+| bip_39_word_new_line4 | hand
+water
+casino
+tired |  
+| bip_39_word_new_line5 | hand
+water
+casino
+tired
+almost |  
+| bip_39_word_new_line6 | hand
+water
+casino
+tired
+almost
+square |  
+| bip_39_word_new_line7 | hand
+water
+casino
+tired
+almost
+square
+uncle |  
+| bip_39_word_new_line8 | hand
+water
+casino
+tired
+almost
+square
+uncle
+swamp |  
+| bip_39_word_new_line9 | hand
+water
+casino
+tired
+almost
+square
+uncle
+swamp
+few |  
+| bip_39_word_space_0 | ['hand', 'water', 'casino', 'tired', 'almost', 'square', 'uncle', 'swamp', 'few', 'apart', 'embark', 'absurd'] |  
+| bip_39_word_space_1 | hand |  
+| bip_39_word_space_10 | hand water casino tired almost square uncle swamp few apart |  
+| bip_39_word_space_11 | hand water casino tired almost square uncle swamp few apart embark |  
+| bip_39_word_space_12 | hand water casino tired almost square uncle swamp few apart embark absurd |  
+| bip_39_word_space_2 | hand water |  
+| bip_39_word_space_3 | hand water casino |  
+| bip_39_word_space_4 | hand water casino tired |  
+| bip_39_word_space_5 | hand water casino tired almost |  
+| bip_39_word_space_6 | hand water casino tired almost square |  
+| bip_39_word_space_7 | hand water casino tired almost square uncle |  
+| bip_39_word_space_8 | hand water casino tired almost square uncle swamp |  
+| bip_39_word_space_9 | hand water casino tired almost square uncle swamp few |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

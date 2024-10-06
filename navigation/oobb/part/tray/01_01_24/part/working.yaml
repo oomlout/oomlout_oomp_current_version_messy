@@ -1,3 +1,186 @@
+bip_39_word_new_br1: feel
+bip_39_word_new_br10: feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast
+bip_39_word_new_br11: feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast<br>income
+bip_39_word_new_br12: feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will<br>vast<br>income<br>affair
+bip_39_word_new_br2: feel<br>bonus
+bip_39_word_new_br3: feel<br>bonus<br>swap
+bip_39_word_new_br4: feel<br>bonus<br>swap<br>voyage
+bip_39_word_new_br5: feel<br>bonus<br>swap<br>voyage<br>talk
+bip_39_word_new_br6: feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine
+bip_39_word_new_br7: feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable
+bip_39_word_new_br8: feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter
+bip_39_word_new_br9: feel<br>bonus<br>swap<br>voyage<br>talk<br>genuine<br>capable<br>quarter<br>will
+bip_39_word_new_line1: feel
+bip_39_word_new_line10: 'feel
+
+  bonus
+
+  swap
+
+  voyage
+
+  talk
+
+  genuine
+
+  capable
+
+  quarter
+
+  will
+
+  vast'
+bip_39_word_new_line11: 'feel
+
+  bonus
+
+  swap
+
+  voyage
+
+  talk
+
+  genuine
+
+  capable
+
+  quarter
+
+  will
+
+  vast
+
+  income'
+bip_39_word_new_line12: 'feel
+
+  bonus
+
+  swap
+
+  voyage
+
+  talk
+
+  genuine
+
+  capable
+
+  quarter
+
+  will
+
+  vast
+
+  income
+
+  affair'
+bip_39_word_new_line2: 'feel
+
+  bonus'
+bip_39_word_new_line3: 'feel
+
+  bonus
+
+  swap'
+bip_39_word_new_line4: 'feel
+
+  bonus
+
+  swap
+
+  voyage'
+bip_39_word_new_line5: 'feel
+
+  bonus
+
+  swap
+
+  voyage
+
+  talk'
+bip_39_word_new_line6: 'feel
+
+  bonus
+
+  swap
+
+  voyage
+
+  talk
+
+  genuine'
+bip_39_word_new_line7: 'feel
+
+  bonus
+
+  swap
+
+  voyage
+
+  talk
+
+  genuine
+
+  capable'
+bip_39_word_new_line8: 'feel
+
+  bonus
+
+  swap
+
+  voyage
+
+  talk
+
+  genuine
+
+  capable
+
+  quarter'
+bip_39_word_new_line9: 'feel
+
+  bonus
+
+  swap
+
+  voyage
+
+  talk
+
+  genuine
+
+  capable
+
+  quarter
+
+  will'
+bip_39_word_space_0:
+- feel
+- bonus
+- swap
+- voyage
+- talk
+- genuine
+- capable
+- quarter
+- will
+- vast
+- income
+- affair
+bip_39_word_space_1: feel
+bip_39_word_space_10: feel bonus swap voyage talk genuine capable quarter will vast
+bip_39_word_space_11: feel bonus swap voyage talk genuine capable quarter will vast
+  income
+bip_39_word_space_12: feel bonus swap voyage talk genuine capable quarter will vast
+  income affair
+bip_39_word_space_2: feel bonus
+bip_39_word_space_3: feel bonus swap
+bip_39_word_space_4: feel bonus swap voyage
+bip_39_word_space_5: feel bonus swap voyage talk
+bip_39_word_space_6: feel bonus swap voyage talk genuine
+bip_39_word_space_7: feel bonus swap voyage talk genuine capable
+bip_39_word_space_8: feel bonus swap voyage talk genuine capable quarter
+bip_39_word_space_9: feel bonus swap voyage talk genuine capable quarter will
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

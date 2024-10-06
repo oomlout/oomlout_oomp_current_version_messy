@@ -1,3 +1,186 @@
+bip_39_word_new_br1: journey
+bip_39_word_new_br10: journey<br>dress<br>hungry<br>crush<br>resource<br>view<br>cousin<br>shift<br>test<br>donkey
+bip_39_word_new_br11: journey<br>dress<br>hungry<br>crush<br>resource<br>view<br>cousin<br>shift<br>test<br>donkey<br>name
+bip_39_word_new_br12: journey<br>dress<br>hungry<br>crush<br>resource<br>view<br>cousin<br>shift<br>test<br>donkey<br>name<br>average
+bip_39_word_new_br2: journey<br>dress
+bip_39_word_new_br3: journey<br>dress<br>hungry
+bip_39_word_new_br4: journey<br>dress<br>hungry<br>crush
+bip_39_word_new_br5: journey<br>dress<br>hungry<br>crush<br>resource
+bip_39_word_new_br6: journey<br>dress<br>hungry<br>crush<br>resource<br>view
+bip_39_word_new_br7: journey<br>dress<br>hungry<br>crush<br>resource<br>view<br>cousin
+bip_39_word_new_br8: journey<br>dress<br>hungry<br>crush<br>resource<br>view<br>cousin<br>shift
+bip_39_word_new_br9: journey<br>dress<br>hungry<br>crush<br>resource<br>view<br>cousin<br>shift<br>test
+bip_39_word_new_line1: journey
+bip_39_word_new_line10: 'journey
+
+  dress
+
+  hungry
+
+  crush
+
+  resource
+
+  view
+
+  cousin
+
+  shift
+
+  test
+
+  donkey'
+bip_39_word_new_line11: 'journey
+
+  dress
+
+  hungry
+
+  crush
+
+  resource
+
+  view
+
+  cousin
+
+  shift
+
+  test
+
+  donkey
+
+  name'
+bip_39_word_new_line12: 'journey
+
+  dress
+
+  hungry
+
+  crush
+
+  resource
+
+  view
+
+  cousin
+
+  shift
+
+  test
+
+  donkey
+
+  name
+
+  average'
+bip_39_word_new_line2: 'journey
+
+  dress'
+bip_39_word_new_line3: 'journey
+
+  dress
+
+  hungry'
+bip_39_word_new_line4: 'journey
+
+  dress
+
+  hungry
+
+  crush'
+bip_39_word_new_line5: 'journey
+
+  dress
+
+  hungry
+
+  crush
+
+  resource'
+bip_39_word_new_line6: 'journey
+
+  dress
+
+  hungry
+
+  crush
+
+  resource
+
+  view'
+bip_39_word_new_line7: 'journey
+
+  dress
+
+  hungry
+
+  crush
+
+  resource
+
+  view
+
+  cousin'
+bip_39_word_new_line8: 'journey
+
+  dress
+
+  hungry
+
+  crush
+
+  resource
+
+  view
+
+  cousin
+
+  shift'
+bip_39_word_new_line9: 'journey
+
+  dress
+
+  hungry
+
+  crush
+
+  resource
+
+  view
+
+  cousin
+
+  shift
+
+  test'
+bip_39_word_space_0:
+- journey
+- dress
+- hungry
+- crush
+- resource
+- view
+- cousin
+- shift
+- test
+- donkey
+- name
+- average
+bip_39_word_space_1: journey
+bip_39_word_space_10: journey dress hungry crush resource view cousin shift test donkey
+bip_39_word_space_11: journey dress hungry crush resource view cousin shift test donkey
+  name
+bip_39_word_space_12: journey dress hungry crush resource view cousin shift test donkey
+  name average
+bip_39_word_space_2: journey dress
+bip_39_word_space_3: journey dress hungry
+bip_39_word_space_4: journey dress hungry crush
+bip_39_word_space_5: journey dress hungry crush resource
+bip_39_word_space_6: journey dress hungry crush resource view
+bip_39_word_space_7: journey dress hungry crush resource view cousin
+bip_39_word_space_8: journey dress hungry crush resource view cousin shift
+bip_39_word_space_9: journey dress hungry crush resource view cousin shift test
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: garage
+bip_39_word_new_br10: garage<br>grass<br>smile<br>pig<br>labor<br>perfect<br>document<br>trophy<br>inherit<br>smooth
+bip_39_word_new_br11: garage<br>grass<br>smile<br>pig<br>labor<br>perfect<br>document<br>trophy<br>inherit<br>smooth<br>ribbon
+bip_39_word_new_br12: garage<br>grass<br>smile<br>pig<br>labor<br>perfect<br>document<br>trophy<br>inherit<br>smooth<br>ribbon<br>ask
+bip_39_word_new_br2: garage<br>grass
+bip_39_word_new_br3: garage<br>grass<br>smile
+bip_39_word_new_br4: garage<br>grass<br>smile<br>pig
+bip_39_word_new_br5: garage<br>grass<br>smile<br>pig<br>labor
+bip_39_word_new_br6: garage<br>grass<br>smile<br>pig<br>labor<br>perfect
+bip_39_word_new_br7: garage<br>grass<br>smile<br>pig<br>labor<br>perfect<br>document
+bip_39_word_new_br8: garage<br>grass<br>smile<br>pig<br>labor<br>perfect<br>document<br>trophy
+bip_39_word_new_br9: garage<br>grass<br>smile<br>pig<br>labor<br>perfect<br>document<br>trophy<br>inherit
+bip_39_word_new_line1: garage
+bip_39_word_new_line10: 'garage
+
+  grass
+
+  smile
+
+  pig
+
+  labor
+
+  perfect
+
+  document
+
+  trophy
+
+  inherit
+
+  smooth'
+bip_39_word_new_line11: 'garage
+
+  grass
+
+  smile
+
+  pig
+
+  labor
+
+  perfect
+
+  document
+
+  trophy
+
+  inherit
+
+  smooth
+
+  ribbon'
+bip_39_word_new_line12: 'garage
+
+  grass
+
+  smile
+
+  pig
+
+  labor
+
+  perfect
+
+  document
+
+  trophy
+
+  inherit
+
+  smooth
+
+  ribbon
+
+  ask'
+bip_39_word_new_line2: 'garage
+
+  grass'
+bip_39_word_new_line3: 'garage
+
+  grass
+
+  smile'
+bip_39_word_new_line4: 'garage
+
+  grass
+
+  smile
+
+  pig'
+bip_39_word_new_line5: 'garage
+
+  grass
+
+  smile
+
+  pig
+
+  labor'
+bip_39_word_new_line6: 'garage
+
+  grass
+
+  smile
+
+  pig
+
+  labor
+
+  perfect'
+bip_39_word_new_line7: 'garage
+
+  grass
+
+  smile
+
+  pig
+
+  labor
+
+  perfect
+
+  document'
+bip_39_word_new_line8: 'garage
+
+  grass
+
+  smile
+
+  pig
+
+  labor
+
+  perfect
+
+  document
+
+  trophy'
+bip_39_word_new_line9: 'garage
+
+  grass
+
+  smile
+
+  pig
+
+  labor
+
+  perfect
+
+  document
+
+  trophy
+
+  inherit'
+bip_39_word_space_0:
+- garage
+- grass
+- smile
+- pig
+- labor
+- perfect
+- document
+- trophy
+- inherit
+- smooth
+- ribbon
+- ask
+bip_39_word_space_1: garage
+bip_39_word_space_10: garage grass smile pig labor perfect document trophy inherit
+  smooth
+bip_39_word_space_11: garage grass smile pig labor perfect document trophy inherit
+  smooth ribbon
+bip_39_word_space_12: garage grass smile pig labor perfect document trophy inherit
+  smooth ribbon ask
+bip_39_word_space_2: garage grass
+bip_39_word_space_3: garage grass smile
+bip_39_word_space_4: garage grass smile pig
+bip_39_word_space_5: garage grass smile pig labor
+bip_39_word_space_6: garage grass smile pig labor perfect
+bip_39_word_space_7: garage grass smile pig labor perfect document
+bip_39_word_space_8: garage grass smile pig labor perfect document trophy
+bip_39_word_space_9: garage grass smile pig labor perfect document trophy inherit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: twice dish
+  * bip 39 word 3: twice dish chimney
+  * bip 39 word: twice dish chimney dust pact must noodle place coin devote crater auto
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | twice |  
+| bip_39_word_new_br10 | twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin<br>devote |  
+| bip_39_word_new_br11 | twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin<br>devote<br>crater |  
+| bip_39_word_new_br12 | twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin<br>devote<br>crater<br>auto |  
+| bip_39_word_new_br2 | twice<br>dish |  
+| bip_39_word_new_br3 | twice<br>dish<br>chimney |  
+| bip_39_word_new_br4 | twice<br>dish<br>chimney<br>dust |  
+| bip_39_word_new_br5 | twice<br>dish<br>chimney<br>dust<br>pact |  
+| bip_39_word_new_br6 | twice<br>dish<br>chimney<br>dust<br>pact<br>must |  
+| bip_39_word_new_br7 | twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle |  
+| bip_39_word_new_br8 | twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place |  
+| bip_39_word_new_br9 | twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin |  
+| bip_39_word_new_line1 | twice |  
+| bip_39_word_new_line10 | twice
+dish
+chimney
+dust
+pact
+must
+noodle
+place
+coin
+devote |  
+| bip_39_word_new_line11 | twice
+dish
+chimney
+dust
+pact
+must
+noodle
+place
+coin
+devote
+crater |  
+| bip_39_word_new_line12 | twice
+dish
+chimney
+dust
+pact
+must
+noodle
+place
+coin
+devote
+crater
+auto |  
+| bip_39_word_new_line2 | twice
+dish |  
+| bip_39_word_new_line3 | twice
+dish
+chimney |  
+| bip_39_word_new_line4 | twice
+dish
+chimney
+dust |  
+| bip_39_word_new_line5 | twice
+dish
+chimney
+dust
+pact |  
+| bip_39_word_new_line6 | twice
+dish
+chimney
+dust
+pact
+must |  
+| bip_39_word_new_line7 | twice
+dish
+chimney
+dust
+pact
+must
+noodle |  
+| bip_39_word_new_line8 | twice
+dish
+chimney
+dust
+pact
+must
+noodle
+place |  
+| bip_39_word_new_line9 | twice
+dish
+chimney
+dust
+pact
+must
+noodle
+place
+coin |  
+| bip_39_word_space_0 | ['twice', 'dish', 'chimney', 'dust', 'pact', 'must', 'noodle', 'place', 'coin', 'devote', 'crater', 'auto'] |  
+| bip_39_word_space_1 | twice |  
+| bip_39_word_space_10 | twice dish chimney dust pact must noodle place coin devote |  
+| bip_39_word_space_11 | twice dish chimney dust pact must noodle place coin devote crater |  
+| bip_39_word_space_12 | twice dish chimney dust pact must noodle place coin devote crater auto |  
+| bip_39_word_space_2 | twice dish |  
+| bip_39_word_space_3 | twice dish chimney |  
+| bip_39_word_space_4 | twice dish chimney dust |  
+| bip_39_word_space_5 | twice dish chimney dust pact |  
+| bip_39_word_space_6 | twice dish chimney dust pact must |  
+| bip_39_word_space_7 | twice dish chimney dust pact must noodle |  
+| bip_39_word_space_8 | twice dish chimney dust pact must noodle place |  
+| bip_39_word_space_9 | twice dish chimney dust pact must noodle place coin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

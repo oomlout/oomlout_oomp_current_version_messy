@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glove appear
+  * bip 39 word 3: glove appear bar
+  * bip 39 word: glove appear bar usual veteran donkey answer gauge notable year kidney audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glove |  
+| bip_39_word_new_br10 | glove<br>appear<br>bar<br>usual<br>veteran<br>donkey<br>answer<br>gauge<br>notable<br>year |  
+| bip_39_word_new_br11 | glove<br>appear<br>bar<br>usual<br>veteran<br>donkey<br>answer<br>gauge<br>notable<br>year<br>kidney |  
+| bip_39_word_new_br12 | glove<br>appear<br>bar<br>usual<br>veteran<br>donkey<br>answer<br>gauge<br>notable<br>year<br>kidney<br>audit |  
+| bip_39_word_new_br2 | glove<br>appear |  
+| bip_39_word_new_br3 | glove<br>appear<br>bar |  
+| bip_39_word_new_br4 | glove<br>appear<br>bar<br>usual |  
+| bip_39_word_new_br5 | glove<br>appear<br>bar<br>usual<br>veteran |  
+| bip_39_word_new_br6 | glove<br>appear<br>bar<br>usual<br>veteran<br>donkey |  
+| bip_39_word_new_br7 | glove<br>appear<br>bar<br>usual<br>veteran<br>donkey<br>answer |  
+| bip_39_word_new_br8 | glove<br>appear<br>bar<br>usual<br>veteran<br>donkey<br>answer<br>gauge |  
+| bip_39_word_new_br9 | glove<br>appear<br>bar<br>usual<br>veteran<br>donkey<br>answer<br>gauge<br>notable |  
+| bip_39_word_new_line1 | glove |  
+| bip_39_word_new_line10 | glove
+appear
+bar
+usual
+veteran
+donkey
+answer
+gauge
+notable
+year |  
+| bip_39_word_new_line11 | glove
+appear
+bar
+usual
+veteran
+donkey
+answer
+gauge
+notable
+year
+kidney |  
+| bip_39_word_new_line12 | glove
+appear
+bar
+usual
+veteran
+donkey
+answer
+gauge
+notable
+year
+kidney
+audit |  
+| bip_39_word_new_line2 | glove
+appear |  
+| bip_39_word_new_line3 | glove
+appear
+bar |  
+| bip_39_word_new_line4 | glove
+appear
+bar
+usual |  
+| bip_39_word_new_line5 | glove
+appear
+bar
+usual
+veteran |  
+| bip_39_word_new_line6 | glove
+appear
+bar
+usual
+veteran
+donkey |  
+| bip_39_word_new_line7 | glove
+appear
+bar
+usual
+veteran
+donkey
+answer |  
+| bip_39_word_new_line8 | glove
+appear
+bar
+usual
+veteran
+donkey
+answer
+gauge |  
+| bip_39_word_new_line9 | glove
+appear
+bar
+usual
+veteran
+donkey
+answer
+gauge
+notable |  
+| bip_39_word_space_0 | ['glove', 'appear', 'bar', 'usual', 'veteran', 'donkey', 'answer', 'gauge', 'notable', 'year', 'kidney', 'audit'] |  
+| bip_39_word_space_1 | glove |  
+| bip_39_word_space_10 | glove appear bar usual veteran donkey answer gauge notable year |  
+| bip_39_word_space_11 | glove appear bar usual veteran donkey answer gauge notable year kidney |  
+| bip_39_word_space_12 | glove appear bar usual veteran donkey answer gauge notable year kidney audit |  
+| bip_39_word_space_2 | glove appear |  
+| bip_39_word_space_3 | glove appear bar |  
+| bip_39_word_space_4 | glove appear bar usual |  
+| bip_39_word_space_5 | glove appear bar usual veteran |  
+| bip_39_word_space_6 | glove appear bar usual veteran donkey |  
+| bip_39_word_space_7 | glove appear bar usual veteran donkey answer |  
+| bip_39_word_space_8 | glove appear bar usual veteran donkey answer gauge |  
+| bip_39_word_space_9 | glove appear bar usual veteran donkey answer gauge notable |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

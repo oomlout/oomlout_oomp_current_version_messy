@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rookie language
+  * bip 39 word 3: rookie language silly
+  * bip 39 word: rookie language silly steak bundle wine trap wing regular polar depth ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rookie |  
+| bip_39_word_new_br10 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine<br>trap<br>wing<br>regular<br>polar |  
+| bip_39_word_new_br11 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine<br>trap<br>wing<br>regular<br>polar<br>depth |  
+| bip_39_word_new_br12 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine<br>trap<br>wing<br>regular<br>polar<br>depth<br>ahead |  
+| bip_39_word_new_br2 | rookie<br>language |  
+| bip_39_word_new_br3 | rookie<br>language<br>silly |  
+| bip_39_word_new_br4 | rookie<br>language<br>silly<br>steak |  
+| bip_39_word_new_br5 | rookie<br>language<br>silly<br>steak<br>bundle |  
+| bip_39_word_new_br6 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine |  
+| bip_39_word_new_br7 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine<br>trap |  
+| bip_39_word_new_br8 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine<br>trap<br>wing |  
+| bip_39_word_new_br9 | rookie<br>language<br>silly<br>steak<br>bundle<br>wine<br>trap<br>wing<br>regular |  
+| bip_39_word_new_line1 | rookie |  
+| bip_39_word_new_line10 | rookie
+language
+silly
+steak
+bundle
+wine
+trap
+wing
+regular
+polar |  
+| bip_39_word_new_line11 | rookie
+language
+silly
+steak
+bundle
+wine
+trap
+wing
+regular
+polar
+depth |  
+| bip_39_word_new_line12 | rookie
+language
+silly
+steak
+bundle
+wine
+trap
+wing
+regular
+polar
+depth
+ahead |  
+| bip_39_word_new_line2 | rookie
+language |  
+| bip_39_word_new_line3 | rookie
+language
+silly |  
+| bip_39_word_new_line4 | rookie
+language
+silly
+steak |  
+| bip_39_word_new_line5 | rookie
+language
+silly
+steak
+bundle |  
+| bip_39_word_new_line6 | rookie
+language
+silly
+steak
+bundle
+wine |  
+| bip_39_word_new_line7 | rookie
+language
+silly
+steak
+bundle
+wine
+trap |  
+| bip_39_word_new_line8 | rookie
+language
+silly
+steak
+bundle
+wine
+trap
+wing |  
+| bip_39_word_new_line9 | rookie
+language
+silly
+steak
+bundle
+wine
+trap
+wing
+regular |  
+| bip_39_word_space_0 | ['rookie', 'language', 'silly', 'steak', 'bundle', 'wine', 'trap', 'wing', 'regular', 'polar', 'depth', 'ahead'] |  
+| bip_39_word_space_1 | rookie |  
+| bip_39_word_space_10 | rookie language silly steak bundle wine trap wing regular polar |  
+| bip_39_word_space_11 | rookie language silly steak bundle wine trap wing regular polar depth |  
+| bip_39_word_space_12 | rookie language silly steak bundle wine trap wing regular polar depth ahead |  
+| bip_39_word_space_2 | rookie language |  
+| bip_39_word_space_3 | rookie language silly |  
+| bip_39_word_space_4 | rookie language silly steak |  
+| bip_39_word_space_5 | rookie language silly steak bundle |  
+| bip_39_word_space_6 | rookie language silly steak bundle wine |  
+| bip_39_word_space_7 | rookie language silly steak bundle wine trap |  
+| bip_39_word_space_8 | rookie language silly steak bundle wine trap wing |  
+| bip_39_word_space_9 | rookie language silly steak bundle wine trap wing regular |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

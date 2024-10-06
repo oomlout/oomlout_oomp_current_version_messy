@@ -1,3 +1,185 @@
+bip_39_word_new_br1: toward
+bip_39_word_new_br10: toward<br>casino<br>cube<br>gasp<br>love<br>goddess<br>soup<br>clip<br>divide<br>meat
+bip_39_word_new_br11: toward<br>casino<br>cube<br>gasp<br>love<br>goddess<br>soup<br>clip<br>divide<br>meat<br>faith
+bip_39_word_new_br12: toward<br>casino<br>cube<br>gasp<br>love<br>goddess<br>soup<br>clip<br>divide<br>meat<br>faith<br>able
+bip_39_word_new_br2: toward<br>casino
+bip_39_word_new_br3: toward<br>casino<br>cube
+bip_39_word_new_br4: toward<br>casino<br>cube<br>gasp
+bip_39_word_new_br5: toward<br>casino<br>cube<br>gasp<br>love
+bip_39_word_new_br6: toward<br>casino<br>cube<br>gasp<br>love<br>goddess
+bip_39_word_new_br7: toward<br>casino<br>cube<br>gasp<br>love<br>goddess<br>soup
+bip_39_word_new_br8: toward<br>casino<br>cube<br>gasp<br>love<br>goddess<br>soup<br>clip
+bip_39_word_new_br9: toward<br>casino<br>cube<br>gasp<br>love<br>goddess<br>soup<br>clip<br>divide
+bip_39_word_new_line1: toward
+bip_39_word_new_line10: 'toward
+
+  casino
+
+  cube
+
+  gasp
+
+  love
+
+  goddess
+
+  soup
+
+  clip
+
+  divide
+
+  meat'
+bip_39_word_new_line11: 'toward
+
+  casino
+
+  cube
+
+  gasp
+
+  love
+
+  goddess
+
+  soup
+
+  clip
+
+  divide
+
+  meat
+
+  faith'
+bip_39_word_new_line12: 'toward
+
+  casino
+
+  cube
+
+  gasp
+
+  love
+
+  goddess
+
+  soup
+
+  clip
+
+  divide
+
+  meat
+
+  faith
+
+  able'
+bip_39_word_new_line2: 'toward
+
+  casino'
+bip_39_word_new_line3: 'toward
+
+  casino
+
+  cube'
+bip_39_word_new_line4: 'toward
+
+  casino
+
+  cube
+
+  gasp'
+bip_39_word_new_line5: 'toward
+
+  casino
+
+  cube
+
+  gasp
+
+  love'
+bip_39_word_new_line6: 'toward
+
+  casino
+
+  cube
+
+  gasp
+
+  love
+
+  goddess'
+bip_39_word_new_line7: 'toward
+
+  casino
+
+  cube
+
+  gasp
+
+  love
+
+  goddess
+
+  soup'
+bip_39_word_new_line8: 'toward
+
+  casino
+
+  cube
+
+  gasp
+
+  love
+
+  goddess
+
+  soup
+
+  clip'
+bip_39_word_new_line9: 'toward
+
+  casino
+
+  cube
+
+  gasp
+
+  love
+
+  goddess
+
+  soup
+
+  clip
+
+  divide'
+bip_39_word_space_0:
+- toward
+- casino
+- cube
+- gasp
+- love
+- goddess
+- soup
+- clip
+- divide
+- meat
+- faith
+- able
+bip_39_word_space_1: toward
+bip_39_word_space_10: toward casino cube gasp love goddess soup clip divide meat
+bip_39_word_space_11: toward casino cube gasp love goddess soup clip divide meat faith
+bip_39_word_space_12: toward casino cube gasp love goddess soup clip divide meat faith
+  able
+bip_39_word_space_2: toward casino
+bip_39_word_space_3: toward casino cube
+bip_39_word_space_4: toward casino cube gasp
+bip_39_word_space_5: toward casino cube gasp love
+bip_39_word_space_6: toward casino cube gasp love goddess
+bip_39_word_space_7: toward casino cube gasp love goddess soup
+bip_39_word_space_8: toward casino cube gasp love goddess soup clip
+bip_39_word_space_9: toward casino cube gasp love goddess soup clip divide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

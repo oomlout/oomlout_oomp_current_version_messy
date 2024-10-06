@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spin
+bip_39_word_new_br10: spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker
+bip_39_word_new_br11: spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker<br>health
+bip_39_word_new_br12: spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another<br>bunker<br>health<br>anchor
+bip_39_word_new_br2: spin<br>dawn
+bip_39_word_new_br3: spin<br>dawn<br>staff
+bip_39_word_new_br4: spin<br>dawn<br>staff<br>save
+bip_39_word_new_br5: spin<br>dawn<br>staff<br>save<br>letter
+bip_39_word_new_br6: spin<br>dawn<br>staff<br>save<br>letter<br>scene
+bip_39_word_new_br7: spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella
+bip_39_word_new_br8: spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren
+bip_39_word_new_br9: spin<br>dawn<br>staff<br>save<br>letter<br>scene<br>umbrella<br>siren<br>another
+bip_39_word_new_line1: spin
+bip_39_word_new_line10: 'spin
+
+  dawn
+
+  staff
+
+  save
+
+  letter
+
+  scene
+
+  umbrella
+
+  siren
+
+  another
+
+  bunker'
+bip_39_word_new_line11: 'spin
+
+  dawn
+
+  staff
+
+  save
+
+  letter
+
+  scene
+
+  umbrella
+
+  siren
+
+  another
+
+  bunker
+
+  health'
+bip_39_word_new_line12: 'spin
+
+  dawn
+
+  staff
+
+  save
+
+  letter
+
+  scene
+
+  umbrella
+
+  siren
+
+  another
+
+  bunker
+
+  health
+
+  anchor'
+bip_39_word_new_line2: 'spin
+
+  dawn'
+bip_39_word_new_line3: 'spin
+
+  dawn
+
+  staff'
+bip_39_word_new_line4: 'spin
+
+  dawn
+
+  staff
+
+  save'
+bip_39_word_new_line5: 'spin
+
+  dawn
+
+  staff
+
+  save
+
+  letter'
+bip_39_word_new_line6: 'spin
+
+  dawn
+
+  staff
+
+  save
+
+  letter
+
+  scene'
+bip_39_word_new_line7: 'spin
+
+  dawn
+
+  staff
+
+  save
+
+  letter
+
+  scene
+
+  umbrella'
+bip_39_word_new_line8: 'spin
+
+  dawn
+
+  staff
+
+  save
+
+  letter
+
+  scene
+
+  umbrella
+
+  siren'
+bip_39_word_new_line9: 'spin
+
+  dawn
+
+  staff
+
+  save
+
+  letter
+
+  scene
+
+  umbrella
+
+  siren
+
+  another'
+bip_39_word_space_0:
+- spin
+- dawn
+- staff
+- save
+- letter
+- scene
+- umbrella
+- siren
+- another
+- bunker
+- health
+- anchor
+bip_39_word_space_1: spin
+bip_39_word_space_10: spin dawn staff save letter scene umbrella siren another bunker
+bip_39_word_space_11: spin dawn staff save letter scene umbrella siren another bunker
+  health
+bip_39_word_space_12: spin dawn staff save letter scene umbrella siren another bunker
+  health anchor
+bip_39_word_space_2: spin dawn
+bip_39_word_space_3: spin dawn staff
+bip_39_word_space_4: spin dawn staff save
+bip_39_word_space_5: spin dawn staff save letter
+bip_39_word_space_6: spin dawn staff save letter scene
+bip_39_word_space_7: spin dawn staff save letter scene umbrella
+bip_39_word_space_8: spin dawn staff save letter scene umbrella siren
+bip_39_word_space_9: spin dawn staff save letter scene umbrella siren another
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: quality_street
   * part_number: 2024
+  * bip 39 word 2: double hand
+  * bip 39 word 3: double hand busy
+  * bip 39 word: double hand busy run vintage opera shoulder sibling size price work arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | double |  
+| bip_39_word_new_br10 | double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling<br>size<br>price |  
+| bip_39_word_new_br11 | double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling<br>size<br>price<br>work |  
+| bip_39_word_new_br12 | double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling<br>size<br>price<br>work<br>arena |  
+| bip_39_word_new_br2 | double<br>hand |  
+| bip_39_word_new_br3 | double<br>hand<br>busy |  
+| bip_39_word_new_br4 | double<br>hand<br>busy<br>run |  
+| bip_39_word_new_br5 | double<br>hand<br>busy<br>run<br>vintage |  
+| bip_39_word_new_br6 | double<br>hand<br>busy<br>run<br>vintage<br>opera |  
+| bip_39_word_new_br7 | double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder |  
+| bip_39_word_new_br8 | double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling |  
+| bip_39_word_new_br9 | double<br>hand<br>busy<br>run<br>vintage<br>opera<br>shoulder<br>sibling<br>size |  
+| bip_39_word_new_line1 | double |  
+| bip_39_word_new_line10 | double
+hand
+busy
+run
+vintage
+opera
+shoulder
+sibling
+size
+price |  
+| bip_39_word_new_line11 | double
+hand
+busy
+run
+vintage
+opera
+shoulder
+sibling
+size
+price
+work |  
+| bip_39_word_new_line12 | double
+hand
+busy
+run
+vintage
+opera
+shoulder
+sibling
+size
+price
+work
+arena |  
+| bip_39_word_new_line2 | double
+hand |  
+| bip_39_word_new_line3 | double
+hand
+busy |  
+| bip_39_word_new_line4 | double
+hand
+busy
+run |  
+| bip_39_word_new_line5 | double
+hand
+busy
+run
+vintage |  
+| bip_39_word_new_line6 | double
+hand
+busy
+run
+vintage
+opera |  
+| bip_39_word_new_line7 | double
+hand
+busy
+run
+vintage
+opera
+shoulder |  
+| bip_39_word_new_line8 | double
+hand
+busy
+run
+vintage
+opera
+shoulder
+sibling |  
+| bip_39_word_new_line9 | double
+hand
+busy
+run
+vintage
+opera
+shoulder
+sibling
+size |  
+| bip_39_word_space_0 | ['double', 'hand', 'busy', 'run', 'vintage', 'opera', 'shoulder', 'sibling', 'size', 'price', 'work', 'arena'] |  
+| bip_39_word_space_1 | double |  
+| bip_39_word_space_10 | double hand busy run vintage opera shoulder sibling size price |  
+| bip_39_word_space_11 | double hand busy run vintage opera shoulder sibling size price work |  
+| bip_39_word_space_12 | double hand busy run vintage opera shoulder sibling size price work arena |  
+| bip_39_word_space_2 | double hand |  
+| bip_39_word_space_3 | double hand busy |  
+| bip_39_word_space_4 | double hand busy run |  
+| bip_39_word_space_5 | double hand busy run vintage |  
+| bip_39_word_space_6 | double hand busy run vintage opera |  
+| bip_39_word_space_7 | double hand busy run vintage opera shoulder |  
+| bip_39_word_space_8 | double hand busy run vintage opera shoulder sibling |  
+| bip_39_word_space_9 | double hand busy run vintage opera shoulder sibling size |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: staff
+bip_39_word_new_br10: staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary
+bip_39_word_new_br11: staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary<br>rose
+bip_39_word_new_br12: staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand<br>ordinary<br>rose<br>accident
+bip_39_word_new_br2: staff<br>pass
+bip_39_word_new_br3: staff<br>pass<br>drop
+bip_39_word_new_br4: staff<br>pass<br>drop<br>wise
+bip_39_word_new_br5: staff<br>pass<br>drop<br>wise<br>market
+bip_39_word_new_br6: staff<br>pass<br>drop<br>wise<br>market<br>palm
+bip_39_word_new_br7: staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there
+bip_39_word_new_br8: staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme
+bip_39_word_new_br9: staff<br>pass<br>drop<br>wise<br>market<br>palm<br>there<br>scheme<br>hand
+bip_39_word_new_line1: staff
+bip_39_word_new_line10: 'staff
+
+  pass
+
+  drop
+
+  wise
+
+  market
+
+  palm
+
+  there
+
+  scheme
+
+  hand
+
+  ordinary'
+bip_39_word_new_line11: 'staff
+
+  pass
+
+  drop
+
+  wise
+
+  market
+
+  palm
+
+  there
+
+  scheme
+
+  hand
+
+  ordinary
+
+  rose'
+bip_39_word_new_line12: 'staff
+
+  pass
+
+  drop
+
+  wise
+
+  market
+
+  palm
+
+  there
+
+  scheme
+
+  hand
+
+  ordinary
+
+  rose
+
+  accident'
+bip_39_word_new_line2: 'staff
+
+  pass'
+bip_39_word_new_line3: 'staff
+
+  pass
+
+  drop'
+bip_39_word_new_line4: 'staff
+
+  pass
+
+  drop
+
+  wise'
+bip_39_word_new_line5: 'staff
+
+  pass
+
+  drop
+
+  wise
+
+  market'
+bip_39_word_new_line6: 'staff
+
+  pass
+
+  drop
+
+  wise
+
+  market
+
+  palm'
+bip_39_word_new_line7: 'staff
+
+  pass
+
+  drop
+
+  wise
+
+  market
+
+  palm
+
+  there'
+bip_39_word_new_line8: 'staff
+
+  pass
+
+  drop
+
+  wise
+
+  market
+
+  palm
+
+  there
+
+  scheme'
+bip_39_word_new_line9: 'staff
+
+  pass
+
+  drop
+
+  wise
+
+  market
+
+  palm
+
+  there
+
+  scheme
+
+  hand'
+bip_39_word_space_0:
+- staff
+- pass
+- drop
+- wise
+- market
+- palm
+- there
+- scheme
+- hand
+- ordinary
+- rose
+- accident
+bip_39_word_space_1: staff
+bip_39_word_space_10: staff pass drop wise market palm there scheme hand ordinary
+bip_39_word_space_11: staff pass drop wise market palm there scheme hand ordinary
+  rose
+bip_39_word_space_12: staff pass drop wise market palm there scheme hand ordinary
+  rose accident
+bip_39_word_space_2: staff pass
+bip_39_word_space_3: staff pass drop
+bip_39_word_space_4: staff pass drop wise
+bip_39_word_space_5: staff pass drop wise market
+bip_39_word_space_6: staff pass drop wise market palm
+bip_39_word_space_7: staff pass drop wise market palm there
+bip_39_word_space_8: staff pass drop wise market palm there scheme
+bip_39_word_space_9: staff pass drop wise market palm there scheme hand
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: same amused
+  * bip 39 word 3: same amused slush
+  * bip 39 word: same amused slush arrest jelly noodle attend very frozen like sausage about
 
 ### other_codes
 * short_code: ms4m5pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | same |  
+| bip_39_word_new_br10 | same<br>amused<br>slush<br>arrest<br>jelly<br>noodle<br>attend<br>very<br>frozen<br>like |  
+| bip_39_word_new_br11 | same<br>amused<br>slush<br>arrest<br>jelly<br>noodle<br>attend<br>very<br>frozen<br>like<br>sausage |  
+| bip_39_word_new_br12 | same<br>amused<br>slush<br>arrest<br>jelly<br>noodle<br>attend<br>very<br>frozen<br>like<br>sausage<br>about |  
+| bip_39_word_new_br2 | same<br>amused |  
+| bip_39_word_new_br3 | same<br>amused<br>slush |  
+| bip_39_word_new_br4 | same<br>amused<br>slush<br>arrest |  
+| bip_39_word_new_br5 | same<br>amused<br>slush<br>arrest<br>jelly |  
+| bip_39_word_new_br6 | same<br>amused<br>slush<br>arrest<br>jelly<br>noodle |  
+| bip_39_word_new_br7 | same<br>amused<br>slush<br>arrest<br>jelly<br>noodle<br>attend |  
+| bip_39_word_new_br8 | same<br>amused<br>slush<br>arrest<br>jelly<br>noodle<br>attend<br>very |  
+| bip_39_word_new_br9 | same<br>amused<br>slush<br>arrest<br>jelly<br>noodle<br>attend<br>very<br>frozen |  
+| bip_39_word_new_line1 | same |  
+| bip_39_word_new_line10 | same
+amused
+slush
+arrest
+jelly
+noodle
+attend
+very
+frozen
+like |  
+| bip_39_word_new_line11 | same
+amused
+slush
+arrest
+jelly
+noodle
+attend
+very
+frozen
+like
+sausage |  
+| bip_39_word_new_line12 | same
+amused
+slush
+arrest
+jelly
+noodle
+attend
+very
+frozen
+like
+sausage
+about |  
+| bip_39_word_new_line2 | same
+amused |  
+| bip_39_word_new_line3 | same
+amused
+slush |  
+| bip_39_word_new_line4 | same
+amused
+slush
+arrest |  
+| bip_39_word_new_line5 | same
+amused
+slush
+arrest
+jelly |  
+| bip_39_word_new_line6 | same
+amused
+slush
+arrest
+jelly
+noodle |  
+| bip_39_word_new_line7 | same
+amused
+slush
+arrest
+jelly
+noodle
+attend |  
+| bip_39_word_new_line8 | same
+amused
+slush
+arrest
+jelly
+noodle
+attend
+very |  
+| bip_39_word_new_line9 | same
+amused
+slush
+arrest
+jelly
+noodle
+attend
+very
+frozen |  
+| bip_39_word_space_0 | ['same', 'amused', 'slush', 'arrest', 'jelly', 'noodle', 'attend', 'very', 'frozen', 'like', 'sausage', 'about'] |  
+| bip_39_word_space_1 | same |  
+| bip_39_word_space_10 | same amused slush arrest jelly noodle attend very frozen like |  
+| bip_39_word_space_11 | same amused slush arrest jelly noodle attend very frozen like sausage |  
+| bip_39_word_space_12 | same amused slush arrest jelly noodle attend very frozen like sausage about |  
+| bip_39_word_space_2 | same amused |  
+| bip_39_word_space_3 | same amused slush |  
+| bip_39_word_space_4 | same amused slush arrest |  
+| bip_39_word_space_5 | same amused slush arrest jelly |  
+| bip_39_word_space_6 | same amused slush arrest jelly noodle |  
+| bip_39_word_space_7 | same amused slush arrest jelly noodle attend |  
+| bip_39_word_space_8 | same amused slush arrest jelly noodle attend very |  
+| bip_39_word_space_9 | same amused slush arrest jelly noodle attend very frozen |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

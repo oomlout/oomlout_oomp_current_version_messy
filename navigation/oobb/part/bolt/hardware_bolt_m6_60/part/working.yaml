@@ -1,3 +1,187 @@
+bip_39_word_new_br1: work
+bip_39_word_new_br10: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft
+bip_39_word_new_br11: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft<br>teach
+bip_39_word_new_br12: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket<br>shaft<br>teach<br>arch
+bip_39_word_new_br2: work<br>same
+bip_39_word_new_br3: work<br>same<br>attitude
+bip_39_word_new_br4: work<br>same<br>attitude<br>explain
+bip_39_word_new_br5: work<br>same<br>attitude<br>explain<br>face
+bip_39_word_new_br6: work<br>same<br>attitude<br>explain<br>face<br>notice
+bip_39_word_new_br7: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture
+bip_39_word_new_br8: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow
+bip_39_word_new_br9: work<br>same<br>attitude<br>explain<br>face<br>notice<br>venture<br>hollow<br>rocket
+bip_39_word_new_line1: work
+bip_39_word_new_line10: 'work
+
+  same
+
+  attitude
+
+  explain
+
+  face
+
+  notice
+
+  venture
+
+  hollow
+
+  rocket
+
+  shaft'
+bip_39_word_new_line11: 'work
+
+  same
+
+  attitude
+
+  explain
+
+  face
+
+  notice
+
+  venture
+
+  hollow
+
+  rocket
+
+  shaft
+
+  teach'
+bip_39_word_new_line12: 'work
+
+  same
+
+  attitude
+
+  explain
+
+  face
+
+  notice
+
+  venture
+
+  hollow
+
+  rocket
+
+  shaft
+
+  teach
+
+  arch'
+bip_39_word_new_line2: 'work
+
+  same'
+bip_39_word_new_line3: 'work
+
+  same
+
+  attitude'
+bip_39_word_new_line4: 'work
+
+  same
+
+  attitude
+
+  explain'
+bip_39_word_new_line5: 'work
+
+  same
+
+  attitude
+
+  explain
+
+  face'
+bip_39_word_new_line6: 'work
+
+  same
+
+  attitude
+
+  explain
+
+  face
+
+  notice'
+bip_39_word_new_line7: 'work
+
+  same
+
+  attitude
+
+  explain
+
+  face
+
+  notice
+
+  venture'
+bip_39_word_new_line8: 'work
+
+  same
+
+  attitude
+
+  explain
+
+  face
+
+  notice
+
+  venture
+
+  hollow'
+bip_39_word_new_line9: 'work
+
+  same
+
+  attitude
+
+  explain
+
+  face
+
+  notice
+
+  venture
+
+  hollow
+
+  rocket'
+bip_39_word_space_0:
+- work
+- same
+- attitude
+- explain
+- face
+- notice
+- venture
+- hollow
+- rocket
+- shaft
+- teach
+- arch
+bip_39_word_space_1: work
+bip_39_word_space_10: work same attitude explain face notice venture hollow rocket
+  shaft
+bip_39_word_space_11: work same attitude explain face notice venture hollow rocket
+  shaft teach
+bip_39_word_space_12: work same attitude explain face notice venture hollow rocket
+  shaft teach arch
+bip_39_word_space_2: work same
+bip_39_word_space_3: work same attitude
+bip_39_word_space_4: work same attitude explain
+bip_39_word_space_5: work same attitude explain face
+bip_39_word_space_6: work same attitude explain face notice
+bip_39_word_space_7: work same attitude explain face notice venture
+bip_39_word_space_8: work same attitude explain face notice venture hollow
+bip_39_word_space_9: work same attitude explain face notice venture hollow rocket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

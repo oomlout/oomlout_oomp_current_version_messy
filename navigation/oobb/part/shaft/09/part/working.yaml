@@ -1,3 +1,186 @@
+bip_39_word_new_br1: morning
+bip_39_word_new_br10: morning<br>rally<br>judge<br>tail<br>rival<br>shy<br>enhance<br>desert<br>card<br>victory
+bip_39_word_new_br11: morning<br>rally<br>judge<br>tail<br>rival<br>shy<br>enhance<br>desert<br>card<br>victory<br>cake
+bip_39_word_new_br12: morning<br>rally<br>judge<br>tail<br>rival<br>shy<br>enhance<br>desert<br>card<br>victory<br>cake<br>assault
+bip_39_word_new_br2: morning<br>rally
+bip_39_word_new_br3: morning<br>rally<br>judge
+bip_39_word_new_br4: morning<br>rally<br>judge<br>tail
+bip_39_word_new_br5: morning<br>rally<br>judge<br>tail<br>rival
+bip_39_word_new_br6: morning<br>rally<br>judge<br>tail<br>rival<br>shy
+bip_39_word_new_br7: morning<br>rally<br>judge<br>tail<br>rival<br>shy<br>enhance
+bip_39_word_new_br8: morning<br>rally<br>judge<br>tail<br>rival<br>shy<br>enhance<br>desert
+bip_39_word_new_br9: morning<br>rally<br>judge<br>tail<br>rival<br>shy<br>enhance<br>desert<br>card
+bip_39_word_new_line1: morning
+bip_39_word_new_line10: 'morning
+
+  rally
+
+  judge
+
+  tail
+
+  rival
+
+  shy
+
+  enhance
+
+  desert
+
+  card
+
+  victory'
+bip_39_word_new_line11: 'morning
+
+  rally
+
+  judge
+
+  tail
+
+  rival
+
+  shy
+
+  enhance
+
+  desert
+
+  card
+
+  victory
+
+  cake'
+bip_39_word_new_line12: 'morning
+
+  rally
+
+  judge
+
+  tail
+
+  rival
+
+  shy
+
+  enhance
+
+  desert
+
+  card
+
+  victory
+
+  cake
+
+  assault'
+bip_39_word_new_line2: 'morning
+
+  rally'
+bip_39_word_new_line3: 'morning
+
+  rally
+
+  judge'
+bip_39_word_new_line4: 'morning
+
+  rally
+
+  judge
+
+  tail'
+bip_39_word_new_line5: 'morning
+
+  rally
+
+  judge
+
+  tail
+
+  rival'
+bip_39_word_new_line6: 'morning
+
+  rally
+
+  judge
+
+  tail
+
+  rival
+
+  shy'
+bip_39_word_new_line7: 'morning
+
+  rally
+
+  judge
+
+  tail
+
+  rival
+
+  shy
+
+  enhance'
+bip_39_word_new_line8: 'morning
+
+  rally
+
+  judge
+
+  tail
+
+  rival
+
+  shy
+
+  enhance
+
+  desert'
+bip_39_word_new_line9: 'morning
+
+  rally
+
+  judge
+
+  tail
+
+  rival
+
+  shy
+
+  enhance
+
+  desert
+
+  card'
+bip_39_word_space_0:
+- morning
+- rally
+- judge
+- tail
+- rival
+- shy
+- enhance
+- desert
+- card
+- victory
+- cake
+- assault
+bip_39_word_space_1: morning
+bip_39_word_space_10: morning rally judge tail rival shy enhance desert card victory
+bip_39_word_space_11: morning rally judge tail rival shy enhance desert card victory
+  cake
+bip_39_word_space_12: morning rally judge tail rival shy enhance desert card victory
+  cake assault
+bip_39_word_space_2: morning rally
+bip_39_word_space_3: morning rally judge
+bip_39_word_space_4: morning rally judge tail
+bip_39_word_space_5: morning rally judge tail rival
+bip_39_word_space_6: morning rally judge tail rival shy
+bip_39_word_space_7: morning rally judge tail rival shy enhance
+bip_39_word_space_8: morning rally judge tail rival shy enhance desert
+bip_39_word_space_9: morning rally judge tail rival shy enhance desert card
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

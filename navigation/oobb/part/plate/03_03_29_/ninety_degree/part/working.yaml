@@ -1,3 +1,186 @@
+bip_39_word_new_br1: blouse
+bip_39_word_new_br10: blouse<br>car<br>april<br>raven<br>combine<br>summer<br>gaze<br>rice<br>tragic<br>crowd
+bip_39_word_new_br11: blouse<br>car<br>april<br>raven<br>combine<br>summer<br>gaze<br>rice<br>tragic<br>crowd<br>paddle
+bip_39_word_new_br12: blouse<br>car<br>april<br>raven<br>combine<br>summer<br>gaze<br>rice<br>tragic<br>crowd<br>paddle<br>above
+bip_39_word_new_br2: blouse<br>car
+bip_39_word_new_br3: blouse<br>car<br>april
+bip_39_word_new_br4: blouse<br>car<br>april<br>raven
+bip_39_word_new_br5: blouse<br>car<br>april<br>raven<br>combine
+bip_39_word_new_br6: blouse<br>car<br>april<br>raven<br>combine<br>summer
+bip_39_word_new_br7: blouse<br>car<br>april<br>raven<br>combine<br>summer<br>gaze
+bip_39_word_new_br8: blouse<br>car<br>april<br>raven<br>combine<br>summer<br>gaze<br>rice
+bip_39_word_new_br9: blouse<br>car<br>april<br>raven<br>combine<br>summer<br>gaze<br>rice<br>tragic
+bip_39_word_new_line1: blouse
+bip_39_word_new_line10: 'blouse
+
+  car
+
+  april
+
+  raven
+
+  combine
+
+  summer
+
+  gaze
+
+  rice
+
+  tragic
+
+  crowd'
+bip_39_word_new_line11: 'blouse
+
+  car
+
+  april
+
+  raven
+
+  combine
+
+  summer
+
+  gaze
+
+  rice
+
+  tragic
+
+  crowd
+
+  paddle'
+bip_39_word_new_line12: 'blouse
+
+  car
+
+  april
+
+  raven
+
+  combine
+
+  summer
+
+  gaze
+
+  rice
+
+  tragic
+
+  crowd
+
+  paddle
+
+  above'
+bip_39_word_new_line2: 'blouse
+
+  car'
+bip_39_word_new_line3: 'blouse
+
+  car
+
+  april'
+bip_39_word_new_line4: 'blouse
+
+  car
+
+  april
+
+  raven'
+bip_39_word_new_line5: 'blouse
+
+  car
+
+  april
+
+  raven
+
+  combine'
+bip_39_word_new_line6: 'blouse
+
+  car
+
+  april
+
+  raven
+
+  combine
+
+  summer'
+bip_39_word_new_line7: 'blouse
+
+  car
+
+  april
+
+  raven
+
+  combine
+
+  summer
+
+  gaze'
+bip_39_word_new_line8: 'blouse
+
+  car
+
+  april
+
+  raven
+
+  combine
+
+  summer
+
+  gaze
+
+  rice'
+bip_39_word_new_line9: 'blouse
+
+  car
+
+  april
+
+  raven
+
+  combine
+
+  summer
+
+  gaze
+
+  rice
+
+  tragic'
+bip_39_word_space_0:
+- blouse
+- car
+- april
+- raven
+- combine
+- summer
+- gaze
+- rice
+- tragic
+- crowd
+- paddle
+- above
+bip_39_word_space_1: blouse
+bip_39_word_space_10: blouse car april raven combine summer gaze rice tragic crowd
+bip_39_word_space_11: blouse car april raven combine summer gaze rice tragic crowd
+  paddle
+bip_39_word_space_12: blouse car april raven combine summer gaze rice tragic crowd
+  paddle above
+bip_39_word_space_2: blouse car
+bip_39_word_space_3: blouse car april
+bip_39_word_space_4: blouse car april raven
+bip_39_word_space_5: blouse car april raven combine
+bip_39_word_space_6: blouse car april raven combine summer
+bip_39_word_space_7: blouse car april raven combine summer gaze
+bip_39_word_space_8: blouse car april raven combine summer gaze rice
+bip_39_word_space_9: blouse car april raven combine summer gaze rice tragic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

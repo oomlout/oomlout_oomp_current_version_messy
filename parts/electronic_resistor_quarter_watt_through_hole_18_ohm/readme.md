@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: subway tennis
+  * bip 39 word 3: subway tennis general
+  * bip 39 word: subway tennis general nut crime rich slender fever heart all wealth anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | subway |  
+| bip_39_word_new_br10 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all |  
+| bip_39_word_new_br11 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all<br>wealth |  
+| bip_39_word_new_br12 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart<br>all<br>wealth<br>anger |  
+| bip_39_word_new_br2 | subway<br>tennis |  
+| bip_39_word_new_br3 | subway<br>tennis<br>general |  
+| bip_39_word_new_br4 | subway<br>tennis<br>general<br>nut |  
+| bip_39_word_new_br5 | subway<br>tennis<br>general<br>nut<br>crime |  
+| bip_39_word_new_br6 | subway<br>tennis<br>general<br>nut<br>crime<br>rich |  
+| bip_39_word_new_br7 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender |  
+| bip_39_word_new_br8 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever |  
+| bip_39_word_new_br9 | subway<br>tennis<br>general<br>nut<br>crime<br>rich<br>slender<br>fever<br>heart |  
+| bip_39_word_new_line1 | subway |  
+| bip_39_word_new_line10 | subway
+tennis
+general
+nut
+crime
+rich
+slender
+fever
+heart
+all |  
+| bip_39_word_new_line11 | subway
+tennis
+general
+nut
+crime
+rich
+slender
+fever
+heart
+all
+wealth |  
+| bip_39_word_new_line12 | subway
+tennis
+general
+nut
+crime
+rich
+slender
+fever
+heart
+all
+wealth
+anger |  
+| bip_39_word_new_line2 | subway
+tennis |  
+| bip_39_word_new_line3 | subway
+tennis
+general |  
+| bip_39_word_new_line4 | subway
+tennis
+general
+nut |  
+| bip_39_word_new_line5 | subway
+tennis
+general
+nut
+crime |  
+| bip_39_word_new_line6 | subway
+tennis
+general
+nut
+crime
+rich |  
+| bip_39_word_new_line7 | subway
+tennis
+general
+nut
+crime
+rich
+slender |  
+| bip_39_word_new_line8 | subway
+tennis
+general
+nut
+crime
+rich
+slender
+fever |  
+| bip_39_word_new_line9 | subway
+tennis
+general
+nut
+crime
+rich
+slender
+fever
+heart |  
+| bip_39_word_space_0 | ['subway', 'tennis', 'general', 'nut', 'crime', 'rich', 'slender', 'fever', 'heart', 'all', 'wealth', 'anger'] |  
+| bip_39_word_space_1 | subway |  
+| bip_39_word_space_10 | subway tennis general nut crime rich slender fever heart all |  
+| bip_39_word_space_11 | subway tennis general nut crime rich slender fever heart all wealth |  
+| bip_39_word_space_12 | subway tennis general nut crime rich slender fever heart all wealth anger |  
+| bip_39_word_space_2 | subway tennis |  
+| bip_39_word_space_3 | subway tennis general |  
+| bip_39_word_space_4 | subway tennis general nut |  
+| bip_39_word_space_5 | subway tennis general nut crime |  
+| bip_39_word_space_6 | subway tennis general nut crime rich |  
+| bip_39_word_space_7 | subway tennis general nut crime rich slender |  
+| bip_39_word_space_8 | subway tennis general nut crime rich slender fever |  
+| bip_39_word_space_9 | subway tennis general nut crime rich slender fever heart |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

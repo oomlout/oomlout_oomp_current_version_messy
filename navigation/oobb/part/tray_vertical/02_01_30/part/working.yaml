@@ -1,3 +1,187 @@
+bip_39_word_new_br1: program
+bip_39_word_new_br10: program<br>drill<br>behind<br>device<br>machine<br>shop<br>noble<br>exist<br>extend<br>sudden
+bip_39_word_new_br11: program<br>drill<br>behind<br>device<br>machine<br>shop<br>noble<br>exist<br>extend<br>sudden<br>deal
+bip_39_word_new_br12: program<br>drill<br>behind<br>device<br>machine<br>shop<br>noble<br>exist<br>extend<br>sudden<br>deal<br>advance
+bip_39_word_new_br2: program<br>drill
+bip_39_word_new_br3: program<br>drill<br>behind
+bip_39_word_new_br4: program<br>drill<br>behind<br>device
+bip_39_word_new_br5: program<br>drill<br>behind<br>device<br>machine
+bip_39_word_new_br6: program<br>drill<br>behind<br>device<br>machine<br>shop
+bip_39_word_new_br7: program<br>drill<br>behind<br>device<br>machine<br>shop<br>noble
+bip_39_word_new_br8: program<br>drill<br>behind<br>device<br>machine<br>shop<br>noble<br>exist
+bip_39_word_new_br9: program<br>drill<br>behind<br>device<br>machine<br>shop<br>noble<br>exist<br>extend
+bip_39_word_new_line1: program
+bip_39_word_new_line10: 'program
+
+  drill
+
+  behind
+
+  device
+
+  machine
+
+  shop
+
+  noble
+
+  exist
+
+  extend
+
+  sudden'
+bip_39_word_new_line11: 'program
+
+  drill
+
+  behind
+
+  device
+
+  machine
+
+  shop
+
+  noble
+
+  exist
+
+  extend
+
+  sudden
+
+  deal'
+bip_39_word_new_line12: 'program
+
+  drill
+
+  behind
+
+  device
+
+  machine
+
+  shop
+
+  noble
+
+  exist
+
+  extend
+
+  sudden
+
+  deal
+
+  advance'
+bip_39_word_new_line2: 'program
+
+  drill'
+bip_39_word_new_line3: 'program
+
+  drill
+
+  behind'
+bip_39_word_new_line4: 'program
+
+  drill
+
+  behind
+
+  device'
+bip_39_word_new_line5: 'program
+
+  drill
+
+  behind
+
+  device
+
+  machine'
+bip_39_word_new_line6: 'program
+
+  drill
+
+  behind
+
+  device
+
+  machine
+
+  shop'
+bip_39_word_new_line7: 'program
+
+  drill
+
+  behind
+
+  device
+
+  machine
+
+  shop
+
+  noble'
+bip_39_word_new_line8: 'program
+
+  drill
+
+  behind
+
+  device
+
+  machine
+
+  shop
+
+  noble
+
+  exist'
+bip_39_word_new_line9: 'program
+
+  drill
+
+  behind
+
+  device
+
+  machine
+
+  shop
+
+  noble
+
+  exist
+
+  extend'
+bip_39_word_space_0:
+- program
+- drill
+- behind
+- device
+- machine
+- shop
+- noble
+- exist
+- extend
+- sudden
+- deal
+- advance
+bip_39_word_space_1: program
+bip_39_word_space_10: program drill behind device machine shop noble exist extend
+  sudden
+bip_39_word_space_11: program drill behind device machine shop noble exist extend
+  sudden deal
+bip_39_word_space_12: program drill behind device machine shop noble exist extend
+  sudden deal advance
+bip_39_word_space_2: program drill
+bip_39_word_space_3: program drill behind
+bip_39_word_space_4: program drill behind device
+bip_39_word_space_5: program drill behind device machine
+bip_39_word_space_6: program drill behind device machine shop
+bip_39_word_space_7: program drill behind device machine shop noble
+bip_39_word_space_8: program drill behind device machine shop noble exist
+bip_39_word_space_9: program drill behind device machine shop noble exist extend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

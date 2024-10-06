@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1820_mm_width_1820_mm_height_390_mm_depth
   * manufacturer: ikea
   * part_number: 703_015_37
+  * bip 39 word 2: maid reunion
+  * bip 39 word 3: maid reunion swap
+  * bip 39 word: maid reunion swap anchor property neglect hen surround into pull auction ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | maid |  
+| bip_39_word_new_br10 | maid<br>reunion<br>swap<br>anchor<br>property<br>neglect<br>hen<br>surround<br>into<br>pull |  
+| bip_39_word_new_br11 | maid<br>reunion<br>swap<br>anchor<br>property<br>neglect<br>hen<br>surround<br>into<br>pull<br>auction |  
+| bip_39_word_new_br12 | maid<br>reunion<br>swap<br>anchor<br>property<br>neglect<br>hen<br>surround<br>into<br>pull<br>auction<br>ask |  
+| bip_39_word_new_br2 | maid<br>reunion |  
+| bip_39_word_new_br3 | maid<br>reunion<br>swap |  
+| bip_39_word_new_br4 | maid<br>reunion<br>swap<br>anchor |  
+| bip_39_word_new_br5 | maid<br>reunion<br>swap<br>anchor<br>property |  
+| bip_39_word_new_br6 | maid<br>reunion<br>swap<br>anchor<br>property<br>neglect |  
+| bip_39_word_new_br7 | maid<br>reunion<br>swap<br>anchor<br>property<br>neglect<br>hen |  
+| bip_39_word_new_br8 | maid<br>reunion<br>swap<br>anchor<br>property<br>neglect<br>hen<br>surround |  
+| bip_39_word_new_br9 | maid<br>reunion<br>swap<br>anchor<br>property<br>neglect<br>hen<br>surround<br>into |  
+| bip_39_word_new_line1 | maid |  
+| bip_39_word_new_line10 | maid
+reunion
+swap
+anchor
+property
+neglect
+hen
+surround
+into
+pull |  
+| bip_39_word_new_line11 | maid
+reunion
+swap
+anchor
+property
+neglect
+hen
+surround
+into
+pull
+auction |  
+| bip_39_word_new_line12 | maid
+reunion
+swap
+anchor
+property
+neglect
+hen
+surround
+into
+pull
+auction
+ask |  
+| bip_39_word_new_line2 | maid
+reunion |  
+| bip_39_word_new_line3 | maid
+reunion
+swap |  
+| bip_39_word_new_line4 | maid
+reunion
+swap
+anchor |  
+| bip_39_word_new_line5 | maid
+reunion
+swap
+anchor
+property |  
+| bip_39_word_new_line6 | maid
+reunion
+swap
+anchor
+property
+neglect |  
+| bip_39_word_new_line7 | maid
+reunion
+swap
+anchor
+property
+neglect
+hen |  
+| bip_39_word_new_line8 | maid
+reunion
+swap
+anchor
+property
+neglect
+hen
+surround |  
+| bip_39_word_new_line9 | maid
+reunion
+swap
+anchor
+property
+neglect
+hen
+surround
+into |  
+| bip_39_word_space_0 | ['maid', 'reunion', 'swap', 'anchor', 'property', 'neglect', 'hen', 'surround', 'into', 'pull', 'auction', 'ask'] |  
+| bip_39_word_space_1 | maid |  
+| bip_39_word_space_10 | maid reunion swap anchor property neglect hen surround into pull |  
+| bip_39_word_space_11 | maid reunion swap anchor property neglect hen surround into pull auction |  
+| bip_39_word_space_12 | maid reunion swap anchor property neglect hen surround into pull auction ask |  
+| bip_39_word_space_2 | maid reunion |  
+| bip_39_word_space_3 | maid reunion swap |  
+| bip_39_word_space_4 | maid reunion swap anchor |  
+| bip_39_word_space_5 | maid reunion swap anchor property |  
+| bip_39_word_space_6 | maid reunion swap anchor property neglect |  
+| bip_39_word_space_7 | maid reunion swap anchor property neglect hen |  
+| bip_39_word_space_8 | maid reunion swap anchor property neglect hen surround |  
+| bip_39_word_space_9 | maid reunion swap anchor property neglect hen surround into |  
 | classification | furniture |  
 | classification_capital | Furniture |  
 | classification_first_letter | f |  

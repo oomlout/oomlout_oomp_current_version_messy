@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: elegant cash
+  * bip 39 word 3: elegant cash critic
+  * bip 39 word: elegant cash critic economy feature october capital banana process ginger viable arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | elegant |  
+| bip_39_word_new_br10 | elegant<br>cash<br>critic<br>economy<br>feature<br>october<br>capital<br>banana<br>process<br>ginger |  
+| bip_39_word_new_br11 | elegant<br>cash<br>critic<br>economy<br>feature<br>october<br>capital<br>banana<br>process<br>ginger<br>viable |  
+| bip_39_word_new_br12 | elegant<br>cash<br>critic<br>economy<br>feature<br>october<br>capital<br>banana<br>process<br>ginger<br>viable<br>arctic |  
+| bip_39_word_new_br2 | elegant<br>cash |  
+| bip_39_word_new_br3 | elegant<br>cash<br>critic |  
+| bip_39_word_new_br4 | elegant<br>cash<br>critic<br>economy |  
+| bip_39_word_new_br5 | elegant<br>cash<br>critic<br>economy<br>feature |  
+| bip_39_word_new_br6 | elegant<br>cash<br>critic<br>economy<br>feature<br>october |  
+| bip_39_word_new_br7 | elegant<br>cash<br>critic<br>economy<br>feature<br>october<br>capital |  
+| bip_39_word_new_br8 | elegant<br>cash<br>critic<br>economy<br>feature<br>october<br>capital<br>banana |  
+| bip_39_word_new_br9 | elegant<br>cash<br>critic<br>economy<br>feature<br>october<br>capital<br>banana<br>process |  
+| bip_39_word_new_line1 | elegant |  
+| bip_39_word_new_line10 | elegant
+cash
+critic
+economy
+feature
+october
+capital
+banana
+process
+ginger |  
+| bip_39_word_new_line11 | elegant
+cash
+critic
+economy
+feature
+october
+capital
+banana
+process
+ginger
+viable |  
+| bip_39_word_new_line12 | elegant
+cash
+critic
+economy
+feature
+october
+capital
+banana
+process
+ginger
+viable
+arctic |  
+| bip_39_word_new_line2 | elegant
+cash |  
+| bip_39_word_new_line3 | elegant
+cash
+critic |  
+| bip_39_word_new_line4 | elegant
+cash
+critic
+economy |  
+| bip_39_word_new_line5 | elegant
+cash
+critic
+economy
+feature |  
+| bip_39_word_new_line6 | elegant
+cash
+critic
+economy
+feature
+october |  
+| bip_39_word_new_line7 | elegant
+cash
+critic
+economy
+feature
+october
+capital |  
+| bip_39_word_new_line8 | elegant
+cash
+critic
+economy
+feature
+october
+capital
+banana |  
+| bip_39_word_new_line9 | elegant
+cash
+critic
+economy
+feature
+october
+capital
+banana
+process |  
+| bip_39_word_space_0 | ['elegant', 'cash', 'critic', 'economy', 'feature', 'october', 'capital', 'banana', 'process', 'ginger', 'viable', 'arctic'] |  
+| bip_39_word_space_1 | elegant |  
+| bip_39_word_space_10 | elegant cash critic economy feature october capital banana process ginger |  
+| bip_39_word_space_11 | elegant cash critic economy feature october capital banana process ginger viable |  
+| bip_39_word_space_12 | elegant cash critic economy feature october capital banana process ginger viable arctic |  
+| bip_39_word_space_2 | elegant cash |  
+| bip_39_word_space_3 | elegant cash critic |  
+| bip_39_word_space_4 | elegant cash critic economy |  
+| bip_39_word_space_5 | elegant cash critic economy feature |  
+| bip_39_word_space_6 | elegant cash critic economy feature october |  
+| bip_39_word_space_7 | elegant cash critic economy feature october capital |  
+| bip_39_word_space_8 | elegant cash critic economy feature october capital banana |  
+| bip_39_word_space_9 | elegant cash critic economy feature october capital banana process |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

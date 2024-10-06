@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: audit link
+  * bip 39 word 3: audit link parent
+  * bip 39 word: audit link parent unit mixed senior involve absorb upset rail view anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | audit |  
+| bip_39_word_new_br10 | audit<br>link<br>parent<br>unit<br>mixed<br>senior<br>involve<br>absorb<br>upset<br>rail |  
+| bip_39_word_new_br11 | audit<br>link<br>parent<br>unit<br>mixed<br>senior<br>involve<br>absorb<br>upset<br>rail<br>view |  
+| bip_39_word_new_br12 | audit<br>link<br>parent<br>unit<br>mixed<br>senior<br>involve<br>absorb<br>upset<br>rail<br>view<br>anxiety |  
+| bip_39_word_new_br2 | audit<br>link |  
+| bip_39_word_new_br3 | audit<br>link<br>parent |  
+| bip_39_word_new_br4 | audit<br>link<br>parent<br>unit |  
+| bip_39_word_new_br5 | audit<br>link<br>parent<br>unit<br>mixed |  
+| bip_39_word_new_br6 | audit<br>link<br>parent<br>unit<br>mixed<br>senior |  
+| bip_39_word_new_br7 | audit<br>link<br>parent<br>unit<br>mixed<br>senior<br>involve |  
+| bip_39_word_new_br8 | audit<br>link<br>parent<br>unit<br>mixed<br>senior<br>involve<br>absorb |  
+| bip_39_word_new_br9 | audit<br>link<br>parent<br>unit<br>mixed<br>senior<br>involve<br>absorb<br>upset |  
+| bip_39_word_new_line1 | audit |  
+| bip_39_word_new_line10 | audit
+link
+parent
+unit
+mixed
+senior
+involve
+absorb
+upset
+rail |  
+| bip_39_word_new_line11 | audit
+link
+parent
+unit
+mixed
+senior
+involve
+absorb
+upset
+rail
+view |  
+| bip_39_word_new_line12 | audit
+link
+parent
+unit
+mixed
+senior
+involve
+absorb
+upset
+rail
+view
+anxiety |  
+| bip_39_word_new_line2 | audit
+link |  
+| bip_39_word_new_line3 | audit
+link
+parent |  
+| bip_39_word_new_line4 | audit
+link
+parent
+unit |  
+| bip_39_word_new_line5 | audit
+link
+parent
+unit
+mixed |  
+| bip_39_word_new_line6 | audit
+link
+parent
+unit
+mixed
+senior |  
+| bip_39_word_new_line7 | audit
+link
+parent
+unit
+mixed
+senior
+involve |  
+| bip_39_word_new_line8 | audit
+link
+parent
+unit
+mixed
+senior
+involve
+absorb |  
+| bip_39_word_new_line9 | audit
+link
+parent
+unit
+mixed
+senior
+involve
+absorb
+upset |  
+| bip_39_word_space_0 | ['audit', 'link', 'parent', 'unit', 'mixed', 'senior', 'involve', 'absorb', 'upset', 'rail', 'view', 'anxiety'] |  
+| bip_39_word_space_1 | audit |  
+| bip_39_word_space_10 | audit link parent unit mixed senior involve absorb upset rail |  
+| bip_39_word_space_11 | audit link parent unit mixed senior involve absorb upset rail view |  
+| bip_39_word_space_12 | audit link parent unit mixed senior involve absorb upset rail view anxiety |  
+| bip_39_word_space_2 | audit link |  
+| bip_39_word_space_3 | audit link parent |  
+| bip_39_word_space_4 | audit link parent unit |  
+| bip_39_word_space_5 | audit link parent unit mixed |  
+| bip_39_word_space_6 | audit link parent unit mixed senior |  
+| bip_39_word_space_7 | audit link parent unit mixed senior involve |  
+| bip_39_word_space_8 | audit link parent unit mixed senior involve absorb |  
+| bip_39_word_space_9 | audit link parent unit mixed senior involve absorb upset |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

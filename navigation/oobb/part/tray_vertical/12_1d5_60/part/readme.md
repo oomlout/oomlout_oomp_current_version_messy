@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: icon toy
+  * bip 39 word 3: icon toy tennis
+  * bip 39 word: icon toy tennis hover tissue desert ranch hood palace hand food allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | icon |  
+| bip_39_word_new_br10 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert<br>ranch<br>hood<br>palace<br>hand |  
+| bip_39_word_new_br11 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert<br>ranch<br>hood<br>palace<br>hand<br>food |  
+| bip_39_word_new_br12 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert<br>ranch<br>hood<br>palace<br>hand<br>food<br>allow |  
+| bip_39_word_new_br2 | icon<br>toy |  
+| bip_39_word_new_br3 | icon<br>toy<br>tennis |  
+| bip_39_word_new_br4 | icon<br>toy<br>tennis<br>hover |  
+| bip_39_word_new_br5 | icon<br>toy<br>tennis<br>hover<br>tissue |  
+| bip_39_word_new_br6 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert |  
+| bip_39_word_new_br7 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert<br>ranch |  
+| bip_39_word_new_br8 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert<br>ranch<br>hood |  
+| bip_39_word_new_br9 | icon<br>toy<br>tennis<br>hover<br>tissue<br>desert<br>ranch<br>hood<br>palace |  
+| bip_39_word_new_line1 | icon |  
+| bip_39_word_new_line10 | icon
+toy
+tennis
+hover
+tissue
+desert
+ranch
+hood
+palace
+hand |  
+| bip_39_word_new_line11 | icon
+toy
+tennis
+hover
+tissue
+desert
+ranch
+hood
+palace
+hand
+food |  
+| bip_39_word_new_line12 | icon
+toy
+tennis
+hover
+tissue
+desert
+ranch
+hood
+palace
+hand
+food
+allow |  
+| bip_39_word_new_line2 | icon
+toy |  
+| bip_39_word_new_line3 | icon
+toy
+tennis |  
+| bip_39_word_new_line4 | icon
+toy
+tennis
+hover |  
+| bip_39_word_new_line5 | icon
+toy
+tennis
+hover
+tissue |  
+| bip_39_word_new_line6 | icon
+toy
+tennis
+hover
+tissue
+desert |  
+| bip_39_word_new_line7 | icon
+toy
+tennis
+hover
+tissue
+desert
+ranch |  
+| bip_39_word_new_line8 | icon
+toy
+tennis
+hover
+tissue
+desert
+ranch
+hood |  
+| bip_39_word_new_line9 | icon
+toy
+tennis
+hover
+tissue
+desert
+ranch
+hood
+palace |  
+| bip_39_word_space_0 | ['icon', 'toy', 'tennis', 'hover', 'tissue', 'desert', 'ranch', 'hood', 'palace', 'hand', 'food', 'allow'] |  
+| bip_39_word_space_1 | icon |  
+| bip_39_word_space_10 | icon toy tennis hover tissue desert ranch hood palace hand |  
+| bip_39_word_space_11 | icon toy tennis hover tissue desert ranch hood palace hand food |  
+| bip_39_word_space_12 | icon toy tennis hover tissue desert ranch hood palace hand food allow |  
+| bip_39_word_space_2 | icon toy |  
+| bip_39_word_space_3 | icon toy tennis |  
+| bip_39_word_space_4 | icon toy tennis hover |  
+| bip_39_word_space_5 | icon toy tennis hover tissue |  
+| bip_39_word_space_6 | icon toy tennis hover tissue desert |  
+| bip_39_word_space_7 | icon toy tennis hover tissue desert ranch |  
+| bip_39_word_space_8 | icon toy tennis hover tissue desert ranch hood |  
+| bip_39_word_space_9 | icon toy tennis hover tissue desert ranch hood palace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

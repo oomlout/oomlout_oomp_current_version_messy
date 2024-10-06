@@ -1,3 +1,186 @@
+bip_39_word_new_br1: mammal
+bip_39_word_new_br10: mammal<br>diet<br>group<br>hollow<br>pause<br>answer<br>rapid<br>tribe<br>grace<br>frown
+bip_39_word_new_br11: mammal<br>diet<br>group<br>hollow<br>pause<br>answer<br>rapid<br>tribe<br>grace<br>frown<br>saddle
+bip_39_word_new_br12: mammal<br>diet<br>group<br>hollow<br>pause<br>answer<br>rapid<br>tribe<br>grace<br>frown<br>saddle<br>animal
+bip_39_word_new_br2: mammal<br>diet
+bip_39_word_new_br3: mammal<br>diet<br>group
+bip_39_word_new_br4: mammal<br>diet<br>group<br>hollow
+bip_39_word_new_br5: mammal<br>diet<br>group<br>hollow<br>pause
+bip_39_word_new_br6: mammal<br>diet<br>group<br>hollow<br>pause<br>answer
+bip_39_word_new_br7: mammal<br>diet<br>group<br>hollow<br>pause<br>answer<br>rapid
+bip_39_word_new_br8: mammal<br>diet<br>group<br>hollow<br>pause<br>answer<br>rapid<br>tribe
+bip_39_word_new_br9: mammal<br>diet<br>group<br>hollow<br>pause<br>answer<br>rapid<br>tribe<br>grace
+bip_39_word_new_line1: mammal
+bip_39_word_new_line10: 'mammal
+
+  diet
+
+  group
+
+  hollow
+
+  pause
+
+  answer
+
+  rapid
+
+  tribe
+
+  grace
+
+  frown'
+bip_39_word_new_line11: 'mammal
+
+  diet
+
+  group
+
+  hollow
+
+  pause
+
+  answer
+
+  rapid
+
+  tribe
+
+  grace
+
+  frown
+
+  saddle'
+bip_39_word_new_line12: 'mammal
+
+  diet
+
+  group
+
+  hollow
+
+  pause
+
+  answer
+
+  rapid
+
+  tribe
+
+  grace
+
+  frown
+
+  saddle
+
+  animal'
+bip_39_word_new_line2: 'mammal
+
+  diet'
+bip_39_word_new_line3: 'mammal
+
+  diet
+
+  group'
+bip_39_word_new_line4: 'mammal
+
+  diet
+
+  group
+
+  hollow'
+bip_39_word_new_line5: 'mammal
+
+  diet
+
+  group
+
+  hollow
+
+  pause'
+bip_39_word_new_line6: 'mammal
+
+  diet
+
+  group
+
+  hollow
+
+  pause
+
+  answer'
+bip_39_word_new_line7: 'mammal
+
+  diet
+
+  group
+
+  hollow
+
+  pause
+
+  answer
+
+  rapid'
+bip_39_word_new_line8: 'mammal
+
+  diet
+
+  group
+
+  hollow
+
+  pause
+
+  answer
+
+  rapid
+
+  tribe'
+bip_39_word_new_line9: 'mammal
+
+  diet
+
+  group
+
+  hollow
+
+  pause
+
+  answer
+
+  rapid
+
+  tribe
+
+  grace'
+bip_39_word_space_0:
+- mammal
+- diet
+- group
+- hollow
+- pause
+- answer
+- rapid
+- tribe
+- grace
+- frown
+- saddle
+- animal
+bip_39_word_space_1: mammal
+bip_39_word_space_10: mammal diet group hollow pause answer rapid tribe grace frown
+bip_39_word_space_11: mammal diet group hollow pause answer rapid tribe grace frown
+  saddle
+bip_39_word_space_12: mammal diet group hollow pause answer rapid tribe grace frown
+  saddle animal
+bip_39_word_space_2: mammal diet
+bip_39_word_space_3: mammal diet group
+bip_39_word_space_4: mammal diet group hollow
+bip_39_word_space_5: mammal diet group hollow pause
+bip_39_word_space_6: mammal diet group hollow pause answer
+bip_39_word_space_7: mammal diet group hollow pause answer rapid
+bip_39_word_space_8: mammal diet group hollow pause answer rapid tribe
+bip_39_word_space_9: mammal diet group hollow pause answer rapid tribe grace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

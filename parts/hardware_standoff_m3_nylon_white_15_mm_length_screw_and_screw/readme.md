@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rent attitude
+  * bip 39 word 3: rent attitude during
+  * bip 39 word: rent attitude during solution unable leisure neglect angry figure struggle dial assault
 
 ### other_codes
 * short_code: so3nw15ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rent |  
+| bip_39_word_new_br10 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure<br>struggle |  
+| bip_39_word_new_br11 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure<br>struggle<br>dial |  
+| bip_39_word_new_br12 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure<br>struggle<br>dial<br>assault |  
+| bip_39_word_new_br2 | rent<br>attitude |  
+| bip_39_word_new_br3 | rent<br>attitude<br>during |  
+| bip_39_word_new_br4 | rent<br>attitude<br>during<br>solution |  
+| bip_39_word_new_br5 | rent<br>attitude<br>during<br>solution<br>unable |  
+| bip_39_word_new_br6 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure |  
+| bip_39_word_new_br7 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect |  
+| bip_39_word_new_br8 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry |  
+| bip_39_word_new_br9 | rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure |  
+| bip_39_word_new_line1 | rent |  
+| bip_39_word_new_line10 | rent
+attitude
+during
+solution
+unable
+leisure
+neglect
+angry
+figure
+struggle |  
+| bip_39_word_new_line11 | rent
+attitude
+during
+solution
+unable
+leisure
+neglect
+angry
+figure
+struggle
+dial |  
+| bip_39_word_new_line12 | rent
+attitude
+during
+solution
+unable
+leisure
+neglect
+angry
+figure
+struggle
+dial
+assault |  
+| bip_39_word_new_line2 | rent
+attitude |  
+| bip_39_word_new_line3 | rent
+attitude
+during |  
+| bip_39_word_new_line4 | rent
+attitude
+during
+solution |  
+| bip_39_word_new_line5 | rent
+attitude
+during
+solution
+unable |  
+| bip_39_word_new_line6 | rent
+attitude
+during
+solution
+unable
+leisure |  
+| bip_39_word_new_line7 | rent
+attitude
+during
+solution
+unable
+leisure
+neglect |  
+| bip_39_word_new_line8 | rent
+attitude
+during
+solution
+unable
+leisure
+neglect
+angry |  
+| bip_39_word_new_line9 | rent
+attitude
+during
+solution
+unable
+leisure
+neglect
+angry
+figure |  
+| bip_39_word_space_0 | ['rent', 'attitude', 'during', 'solution', 'unable', 'leisure', 'neglect', 'angry', 'figure', 'struggle', 'dial', 'assault'] |  
+| bip_39_word_space_1 | rent |  
+| bip_39_word_space_10 | rent attitude during solution unable leisure neglect angry figure struggle |  
+| bip_39_word_space_11 | rent attitude during solution unable leisure neglect angry figure struggle dial |  
+| bip_39_word_space_12 | rent attitude during solution unable leisure neglect angry figure struggle dial assault |  
+| bip_39_word_space_2 | rent attitude |  
+| bip_39_word_space_3 | rent attitude during |  
+| bip_39_word_space_4 | rent attitude during solution |  
+| bip_39_word_space_5 | rent attitude during solution unable |  
+| bip_39_word_space_6 | rent attitude during solution unable leisure |  
+| bip_39_word_space_7 | rent attitude during solution unable leisure neglect |  
+| bip_39_word_space_8 | rent attitude during solution unable leisure neglect angry |  
+| bip_39_word_space_9 | rent attitude during solution unable leisure neglect angry figure |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

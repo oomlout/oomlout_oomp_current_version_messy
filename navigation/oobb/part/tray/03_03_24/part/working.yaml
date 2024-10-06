@@ -1,3 +1,185 @@
+bip_39_word_new_br1: caution
+bip_39_word_new_br10: caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era
+bip_39_word_new_br11: caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era<br>dish
+bip_39_word_new_br12: caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip<br>era<br>dish<br>ankle
+bip_39_word_new_br2: caution<br>trash
+bip_39_word_new_br3: caution<br>trash<br>fog
+bip_39_word_new_br4: caution<br>trash<br>fog<br>lady
+bip_39_word_new_br5: caution<br>trash<br>fog<br>lady<br>together
+bip_39_word_new_br6: caution<br>trash<br>fog<br>lady<br>together<br>salad
+bip_39_word_new_br7: caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor
+bip_39_word_new_br8: caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire
+bip_39_word_new_br9: caution<br>trash<br>fog<br>lady<br>together<br>salad<br>odor<br>hire<br>equip
+bip_39_word_new_line1: caution
+bip_39_word_new_line10: 'caution
+
+  trash
+
+  fog
+
+  lady
+
+  together
+
+  salad
+
+  odor
+
+  hire
+
+  equip
+
+  era'
+bip_39_word_new_line11: 'caution
+
+  trash
+
+  fog
+
+  lady
+
+  together
+
+  salad
+
+  odor
+
+  hire
+
+  equip
+
+  era
+
+  dish'
+bip_39_word_new_line12: 'caution
+
+  trash
+
+  fog
+
+  lady
+
+  together
+
+  salad
+
+  odor
+
+  hire
+
+  equip
+
+  era
+
+  dish
+
+  ankle'
+bip_39_word_new_line2: 'caution
+
+  trash'
+bip_39_word_new_line3: 'caution
+
+  trash
+
+  fog'
+bip_39_word_new_line4: 'caution
+
+  trash
+
+  fog
+
+  lady'
+bip_39_word_new_line5: 'caution
+
+  trash
+
+  fog
+
+  lady
+
+  together'
+bip_39_word_new_line6: 'caution
+
+  trash
+
+  fog
+
+  lady
+
+  together
+
+  salad'
+bip_39_word_new_line7: 'caution
+
+  trash
+
+  fog
+
+  lady
+
+  together
+
+  salad
+
+  odor'
+bip_39_word_new_line8: 'caution
+
+  trash
+
+  fog
+
+  lady
+
+  together
+
+  salad
+
+  odor
+
+  hire'
+bip_39_word_new_line9: 'caution
+
+  trash
+
+  fog
+
+  lady
+
+  together
+
+  salad
+
+  odor
+
+  hire
+
+  equip'
+bip_39_word_space_0:
+- caution
+- trash
+- fog
+- lady
+- together
+- salad
+- odor
+- hire
+- equip
+- era
+- dish
+- ankle
+bip_39_word_space_1: caution
+bip_39_word_space_10: caution trash fog lady together salad odor hire equip era
+bip_39_word_space_11: caution trash fog lady together salad odor hire equip era dish
+bip_39_word_space_12: caution trash fog lady together salad odor hire equip era dish
+  ankle
+bip_39_word_space_2: caution trash
+bip_39_word_space_3: caution trash fog
+bip_39_word_space_4: caution trash fog lady
+bip_39_word_space_5: caution trash fog lady together
+bip_39_word_space_6: caution trash fog lady together salad
+bip_39_word_space_7: caution trash fog lady together salad odor
+bip_39_word_space_8: caution trash fog lady together salad odor hire
+bip_39_word_space_9: caution trash fog lady together salad odor hire equip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

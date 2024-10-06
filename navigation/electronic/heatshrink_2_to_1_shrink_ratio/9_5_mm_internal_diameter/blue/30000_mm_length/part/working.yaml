@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lottery
+bip_39_word_new_br10: lottery<br>nose<br>fine<br>buddy<br>unfair<br>notable<br>record<br>cook<br>surface<br>unfair
+bip_39_word_new_br11: lottery<br>nose<br>fine<br>buddy<br>unfair<br>notable<br>record<br>cook<br>surface<br>unfair<br>empower
+bip_39_word_new_br12: lottery<br>nose<br>fine<br>buddy<br>unfair<br>notable<br>record<br>cook<br>surface<br>unfair<br>empower<br>animal
+bip_39_word_new_br2: lottery<br>nose
+bip_39_word_new_br3: lottery<br>nose<br>fine
+bip_39_word_new_br4: lottery<br>nose<br>fine<br>buddy
+bip_39_word_new_br5: lottery<br>nose<br>fine<br>buddy<br>unfair
+bip_39_word_new_br6: lottery<br>nose<br>fine<br>buddy<br>unfair<br>notable
+bip_39_word_new_br7: lottery<br>nose<br>fine<br>buddy<br>unfair<br>notable<br>record
+bip_39_word_new_br8: lottery<br>nose<br>fine<br>buddy<br>unfair<br>notable<br>record<br>cook
+bip_39_word_new_br9: lottery<br>nose<br>fine<br>buddy<br>unfair<br>notable<br>record<br>cook<br>surface
+bip_39_word_new_line1: lottery
+bip_39_word_new_line10: 'lottery
+
+  nose
+
+  fine
+
+  buddy
+
+  unfair
+
+  notable
+
+  record
+
+  cook
+
+  surface
+
+  unfair'
+bip_39_word_new_line11: 'lottery
+
+  nose
+
+  fine
+
+  buddy
+
+  unfair
+
+  notable
+
+  record
+
+  cook
+
+  surface
+
+  unfair
+
+  empower'
+bip_39_word_new_line12: 'lottery
+
+  nose
+
+  fine
+
+  buddy
+
+  unfair
+
+  notable
+
+  record
+
+  cook
+
+  surface
+
+  unfair
+
+  empower
+
+  animal'
+bip_39_word_new_line2: 'lottery
+
+  nose'
+bip_39_word_new_line3: 'lottery
+
+  nose
+
+  fine'
+bip_39_word_new_line4: 'lottery
+
+  nose
+
+  fine
+
+  buddy'
+bip_39_word_new_line5: 'lottery
+
+  nose
+
+  fine
+
+  buddy
+
+  unfair'
+bip_39_word_new_line6: 'lottery
+
+  nose
+
+  fine
+
+  buddy
+
+  unfair
+
+  notable'
+bip_39_word_new_line7: 'lottery
+
+  nose
+
+  fine
+
+  buddy
+
+  unfair
+
+  notable
+
+  record'
+bip_39_word_new_line8: 'lottery
+
+  nose
+
+  fine
+
+  buddy
+
+  unfair
+
+  notable
+
+  record
+
+  cook'
+bip_39_word_new_line9: 'lottery
+
+  nose
+
+  fine
+
+  buddy
+
+  unfair
+
+  notable
+
+  record
+
+  cook
+
+  surface'
+bip_39_word_space_0:
+- lottery
+- nose
+- fine
+- buddy
+- unfair
+- notable
+- record
+- cook
+- surface
+- unfair
+- empower
+- animal
+bip_39_word_space_1: lottery
+bip_39_word_space_10: lottery nose fine buddy unfair notable record cook surface unfair
+bip_39_word_space_11: lottery nose fine buddy unfair notable record cook surface unfair
+  empower
+bip_39_word_space_12: lottery nose fine buddy unfair notable record cook surface unfair
+  empower animal
+bip_39_word_space_2: lottery nose
+bip_39_word_space_3: lottery nose fine
+bip_39_word_space_4: lottery nose fine buddy
+bip_39_word_space_5: lottery nose fine buddy unfair
+bip_39_word_space_6: lottery nose fine buddy unfair notable
+bip_39_word_space_7: lottery nose fine buddy unfair notable record
+bip_39_word_space_8: lottery nose fine buddy unfair notable record cook
+bip_39_word_space_9: lottery nose fine buddy unfair notable record cook surface
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

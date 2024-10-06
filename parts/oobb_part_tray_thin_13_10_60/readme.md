@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brown game
+  * bip 39 word 3: brown game dizzy
+  * bip 39 word: brown game dizzy emotion taxi palm electric glide melody east right actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brown |  
+| bip_39_word_new_br10 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm<br>electric<br>glide<br>melody<br>east |  
+| bip_39_word_new_br11 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm<br>electric<br>glide<br>melody<br>east<br>right |  
+| bip_39_word_new_br12 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm<br>electric<br>glide<br>melody<br>east<br>right<br>actor |  
+| bip_39_word_new_br2 | brown<br>game |  
+| bip_39_word_new_br3 | brown<br>game<br>dizzy |  
+| bip_39_word_new_br4 | brown<br>game<br>dizzy<br>emotion |  
+| bip_39_word_new_br5 | brown<br>game<br>dizzy<br>emotion<br>taxi |  
+| bip_39_word_new_br6 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm |  
+| bip_39_word_new_br7 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm<br>electric |  
+| bip_39_word_new_br8 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm<br>electric<br>glide |  
+| bip_39_word_new_br9 | brown<br>game<br>dizzy<br>emotion<br>taxi<br>palm<br>electric<br>glide<br>melody |  
+| bip_39_word_new_line1 | brown |  
+| bip_39_word_new_line10 | brown
+game
+dizzy
+emotion
+taxi
+palm
+electric
+glide
+melody
+east |  
+| bip_39_word_new_line11 | brown
+game
+dizzy
+emotion
+taxi
+palm
+electric
+glide
+melody
+east
+right |  
+| bip_39_word_new_line12 | brown
+game
+dizzy
+emotion
+taxi
+palm
+electric
+glide
+melody
+east
+right
+actor |  
+| bip_39_word_new_line2 | brown
+game |  
+| bip_39_word_new_line3 | brown
+game
+dizzy |  
+| bip_39_word_new_line4 | brown
+game
+dizzy
+emotion |  
+| bip_39_word_new_line5 | brown
+game
+dizzy
+emotion
+taxi |  
+| bip_39_word_new_line6 | brown
+game
+dizzy
+emotion
+taxi
+palm |  
+| bip_39_word_new_line7 | brown
+game
+dizzy
+emotion
+taxi
+palm
+electric |  
+| bip_39_word_new_line8 | brown
+game
+dizzy
+emotion
+taxi
+palm
+electric
+glide |  
+| bip_39_word_new_line9 | brown
+game
+dizzy
+emotion
+taxi
+palm
+electric
+glide
+melody |  
+| bip_39_word_space_0 | ['brown', 'game', 'dizzy', 'emotion', 'taxi', 'palm', 'electric', 'glide', 'melody', 'east', 'right', 'actor'] |  
+| bip_39_word_space_1 | brown |  
+| bip_39_word_space_10 | brown game dizzy emotion taxi palm electric glide melody east |  
+| bip_39_word_space_11 | brown game dizzy emotion taxi palm electric glide melody east right |  
+| bip_39_word_space_12 | brown game dizzy emotion taxi palm electric glide melody east right actor |  
+| bip_39_word_space_2 | brown game |  
+| bip_39_word_space_3 | brown game dizzy |  
+| bip_39_word_space_4 | brown game dizzy emotion |  
+| bip_39_word_space_5 | brown game dizzy emotion taxi |  
+| bip_39_word_space_6 | brown game dizzy emotion taxi palm |  
+| bip_39_word_space_7 | brown game dizzy emotion taxi palm electric |  
+| bip_39_word_space_8 | brown game dizzy emotion taxi palm electric glide |  
+| bip_39_word_space_9 | brown game dizzy emotion taxi palm electric glide melody |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

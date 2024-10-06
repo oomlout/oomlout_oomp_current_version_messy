@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: local industry
+  * bip 39 word 3: local industry nature
+  * bip 39 word: local industry nature smile ribbon eternal secret surface canal census civil angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | local |  
+| bip_39_word_new_br10 | local<br>industry<br>nature<br>smile<br>ribbon<br>eternal<br>secret<br>surface<br>canal<br>census |  
+| bip_39_word_new_br11 | local<br>industry<br>nature<br>smile<br>ribbon<br>eternal<br>secret<br>surface<br>canal<br>census<br>civil |  
+| bip_39_word_new_br12 | local<br>industry<br>nature<br>smile<br>ribbon<br>eternal<br>secret<br>surface<br>canal<br>census<br>civil<br>angle |  
+| bip_39_word_new_br2 | local<br>industry |  
+| bip_39_word_new_br3 | local<br>industry<br>nature |  
+| bip_39_word_new_br4 | local<br>industry<br>nature<br>smile |  
+| bip_39_word_new_br5 | local<br>industry<br>nature<br>smile<br>ribbon |  
+| bip_39_word_new_br6 | local<br>industry<br>nature<br>smile<br>ribbon<br>eternal |  
+| bip_39_word_new_br7 | local<br>industry<br>nature<br>smile<br>ribbon<br>eternal<br>secret |  
+| bip_39_word_new_br8 | local<br>industry<br>nature<br>smile<br>ribbon<br>eternal<br>secret<br>surface |  
+| bip_39_word_new_br9 | local<br>industry<br>nature<br>smile<br>ribbon<br>eternal<br>secret<br>surface<br>canal |  
+| bip_39_word_new_line1 | local |  
+| bip_39_word_new_line10 | local
+industry
+nature
+smile
+ribbon
+eternal
+secret
+surface
+canal
+census |  
+| bip_39_word_new_line11 | local
+industry
+nature
+smile
+ribbon
+eternal
+secret
+surface
+canal
+census
+civil |  
+| bip_39_word_new_line12 | local
+industry
+nature
+smile
+ribbon
+eternal
+secret
+surface
+canal
+census
+civil
+angle |  
+| bip_39_word_new_line2 | local
+industry |  
+| bip_39_word_new_line3 | local
+industry
+nature |  
+| bip_39_word_new_line4 | local
+industry
+nature
+smile |  
+| bip_39_word_new_line5 | local
+industry
+nature
+smile
+ribbon |  
+| bip_39_word_new_line6 | local
+industry
+nature
+smile
+ribbon
+eternal |  
+| bip_39_word_new_line7 | local
+industry
+nature
+smile
+ribbon
+eternal
+secret |  
+| bip_39_word_new_line8 | local
+industry
+nature
+smile
+ribbon
+eternal
+secret
+surface |  
+| bip_39_word_new_line9 | local
+industry
+nature
+smile
+ribbon
+eternal
+secret
+surface
+canal |  
+| bip_39_word_space_0 | ['local', 'industry', 'nature', 'smile', 'ribbon', 'eternal', 'secret', 'surface', 'canal', 'census', 'civil', 'angle'] |  
+| bip_39_word_space_1 | local |  
+| bip_39_word_space_10 | local industry nature smile ribbon eternal secret surface canal census |  
+| bip_39_word_space_11 | local industry nature smile ribbon eternal secret surface canal census civil |  
+| bip_39_word_space_12 | local industry nature smile ribbon eternal secret surface canal census civil angle |  
+| bip_39_word_space_2 | local industry |  
+| bip_39_word_space_3 | local industry nature |  
+| bip_39_word_space_4 | local industry nature smile |  
+| bip_39_word_space_5 | local industry nature smile ribbon |  
+| bip_39_word_space_6 | local industry nature smile ribbon eternal |  
+| bip_39_word_space_7 | local industry nature smile ribbon eternal secret |  
+| bip_39_word_space_8 | local industry nature smile ribbon eternal secret surface |  
+| bip_39_word_space_9 | local industry nature smile ribbon eternal secret surface canal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

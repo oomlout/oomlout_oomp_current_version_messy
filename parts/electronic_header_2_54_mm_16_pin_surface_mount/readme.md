@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rule donkey
+  * bip 39 word 3: rule donkey exercise
+  * bip 39 word: rule donkey exercise expect best glove cable trust liquid resource unable alcohol
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rule |  
+| bip_39_word_new_br10 | rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid<br>resource |  
+| bip_39_word_new_br11 | rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid<br>resource<br>unable |  
+| bip_39_word_new_br12 | rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid<br>resource<br>unable<br>alcohol |  
+| bip_39_word_new_br2 | rule<br>donkey |  
+| bip_39_word_new_br3 | rule<br>donkey<br>exercise |  
+| bip_39_word_new_br4 | rule<br>donkey<br>exercise<br>expect |  
+| bip_39_word_new_br5 | rule<br>donkey<br>exercise<br>expect<br>best |  
+| bip_39_word_new_br6 | rule<br>donkey<br>exercise<br>expect<br>best<br>glove |  
+| bip_39_word_new_br7 | rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable |  
+| bip_39_word_new_br8 | rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust |  
+| bip_39_word_new_br9 | rule<br>donkey<br>exercise<br>expect<br>best<br>glove<br>cable<br>trust<br>liquid |  
+| bip_39_word_new_line1 | rule |  
+| bip_39_word_new_line10 | rule
+donkey
+exercise
+expect
+best
+glove
+cable
+trust
+liquid
+resource |  
+| bip_39_word_new_line11 | rule
+donkey
+exercise
+expect
+best
+glove
+cable
+trust
+liquid
+resource
+unable |  
+| bip_39_word_new_line12 | rule
+donkey
+exercise
+expect
+best
+glove
+cable
+trust
+liquid
+resource
+unable
+alcohol |  
+| bip_39_word_new_line2 | rule
+donkey |  
+| bip_39_word_new_line3 | rule
+donkey
+exercise |  
+| bip_39_word_new_line4 | rule
+donkey
+exercise
+expect |  
+| bip_39_word_new_line5 | rule
+donkey
+exercise
+expect
+best |  
+| bip_39_word_new_line6 | rule
+donkey
+exercise
+expect
+best
+glove |  
+| bip_39_word_new_line7 | rule
+donkey
+exercise
+expect
+best
+glove
+cable |  
+| bip_39_word_new_line8 | rule
+donkey
+exercise
+expect
+best
+glove
+cable
+trust |  
+| bip_39_word_new_line9 | rule
+donkey
+exercise
+expect
+best
+glove
+cable
+trust
+liquid |  
+| bip_39_word_space_0 | ['rule', 'donkey', 'exercise', 'expect', 'best', 'glove', 'cable', 'trust', 'liquid', 'resource', 'unable', 'alcohol'] |  
+| bip_39_word_space_1 | rule |  
+| bip_39_word_space_10 | rule donkey exercise expect best glove cable trust liquid resource |  
+| bip_39_word_space_11 | rule donkey exercise expect best glove cable trust liquid resource unable |  
+| bip_39_word_space_12 | rule donkey exercise expect best glove cable trust liquid resource unable alcohol |  
+| bip_39_word_space_2 | rule donkey |  
+| bip_39_word_space_3 | rule donkey exercise |  
+| bip_39_word_space_4 | rule donkey exercise expect |  
+| bip_39_word_space_5 | rule donkey exercise expect best |  
+| bip_39_word_space_6 | rule donkey exercise expect best glove |  
+| bip_39_word_space_7 | rule donkey exercise expect best glove cable |  
+| bip_39_word_space_8 | rule donkey exercise expect best glove cable trust |  
+| bip_39_word_space_9 | rule donkey exercise expect best glove cable trust liquid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

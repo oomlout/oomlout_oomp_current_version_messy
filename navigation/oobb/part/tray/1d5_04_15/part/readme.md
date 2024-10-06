@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cupboard upon
+  * bip 39 word 3: cupboard upon script
+  * bip 39 word: cupboard upon script right version ice beauty cricket bacon screen keen arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cupboard |  
+| bip_39_word_new_br10 | cupboard<br>upon<br>script<br>right<br>version<br>ice<br>beauty<br>cricket<br>bacon<br>screen |  
+| bip_39_word_new_br11 | cupboard<br>upon<br>script<br>right<br>version<br>ice<br>beauty<br>cricket<br>bacon<br>screen<br>keen |  
+| bip_39_word_new_br12 | cupboard<br>upon<br>script<br>right<br>version<br>ice<br>beauty<br>cricket<br>bacon<br>screen<br>keen<br>arctic |  
+| bip_39_word_new_br2 | cupboard<br>upon |  
+| bip_39_word_new_br3 | cupboard<br>upon<br>script |  
+| bip_39_word_new_br4 | cupboard<br>upon<br>script<br>right |  
+| bip_39_word_new_br5 | cupboard<br>upon<br>script<br>right<br>version |  
+| bip_39_word_new_br6 | cupboard<br>upon<br>script<br>right<br>version<br>ice |  
+| bip_39_word_new_br7 | cupboard<br>upon<br>script<br>right<br>version<br>ice<br>beauty |  
+| bip_39_word_new_br8 | cupboard<br>upon<br>script<br>right<br>version<br>ice<br>beauty<br>cricket |  
+| bip_39_word_new_br9 | cupboard<br>upon<br>script<br>right<br>version<br>ice<br>beauty<br>cricket<br>bacon |  
+| bip_39_word_new_line1 | cupboard |  
+| bip_39_word_new_line10 | cupboard
+upon
+script
+right
+version
+ice
+beauty
+cricket
+bacon
+screen |  
+| bip_39_word_new_line11 | cupboard
+upon
+script
+right
+version
+ice
+beauty
+cricket
+bacon
+screen
+keen |  
+| bip_39_word_new_line12 | cupboard
+upon
+script
+right
+version
+ice
+beauty
+cricket
+bacon
+screen
+keen
+arctic |  
+| bip_39_word_new_line2 | cupboard
+upon |  
+| bip_39_word_new_line3 | cupboard
+upon
+script |  
+| bip_39_word_new_line4 | cupboard
+upon
+script
+right |  
+| bip_39_word_new_line5 | cupboard
+upon
+script
+right
+version |  
+| bip_39_word_new_line6 | cupboard
+upon
+script
+right
+version
+ice |  
+| bip_39_word_new_line7 | cupboard
+upon
+script
+right
+version
+ice
+beauty |  
+| bip_39_word_new_line8 | cupboard
+upon
+script
+right
+version
+ice
+beauty
+cricket |  
+| bip_39_word_new_line9 | cupboard
+upon
+script
+right
+version
+ice
+beauty
+cricket
+bacon |  
+| bip_39_word_space_0 | ['cupboard', 'upon', 'script', 'right', 'version', 'ice', 'beauty', 'cricket', 'bacon', 'screen', 'keen', 'arctic'] |  
+| bip_39_word_space_1 | cupboard |  
+| bip_39_word_space_10 | cupboard upon script right version ice beauty cricket bacon screen |  
+| bip_39_word_space_11 | cupboard upon script right version ice beauty cricket bacon screen keen |  
+| bip_39_word_space_12 | cupboard upon script right version ice beauty cricket bacon screen keen arctic |  
+| bip_39_word_space_2 | cupboard upon |  
+| bip_39_word_space_3 | cupboard upon script |  
+| bip_39_word_space_4 | cupboard upon script right |  
+| bip_39_word_space_5 | cupboard upon script right version |  
+| bip_39_word_space_6 | cupboard upon script right version ice |  
+| bip_39_word_space_7 | cupboard upon script right version ice beauty |  
+| bip_39_word_space_8 | cupboard upon script right version ice beauty cricket |  
+| bip_39_word_space_9 | cupboard upon script right version ice beauty cricket bacon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: welcome belt
+  * bip 39 word 3: welcome belt music
+  * bip 39 word: welcome belt music stem soon also garment denial audit unit exclude action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | welcome |  
+| bip_39_word_new_br10 | welcome<br>belt<br>music<br>stem<br>soon<br>also<br>garment<br>denial<br>audit<br>unit |  
+| bip_39_word_new_br11 | welcome<br>belt<br>music<br>stem<br>soon<br>also<br>garment<br>denial<br>audit<br>unit<br>exclude |  
+| bip_39_word_new_br12 | welcome<br>belt<br>music<br>stem<br>soon<br>also<br>garment<br>denial<br>audit<br>unit<br>exclude<br>action |  
+| bip_39_word_new_br2 | welcome<br>belt |  
+| bip_39_word_new_br3 | welcome<br>belt<br>music |  
+| bip_39_word_new_br4 | welcome<br>belt<br>music<br>stem |  
+| bip_39_word_new_br5 | welcome<br>belt<br>music<br>stem<br>soon |  
+| bip_39_word_new_br6 | welcome<br>belt<br>music<br>stem<br>soon<br>also |  
+| bip_39_word_new_br7 | welcome<br>belt<br>music<br>stem<br>soon<br>also<br>garment |  
+| bip_39_word_new_br8 | welcome<br>belt<br>music<br>stem<br>soon<br>also<br>garment<br>denial |  
+| bip_39_word_new_br9 | welcome<br>belt<br>music<br>stem<br>soon<br>also<br>garment<br>denial<br>audit |  
+| bip_39_word_new_line1 | welcome |  
+| bip_39_word_new_line10 | welcome
+belt
+music
+stem
+soon
+also
+garment
+denial
+audit
+unit |  
+| bip_39_word_new_line11 | welcome
+belt
+music
+stem
+soon
+also
+garment
+denial
+audit
+unit
+exclude |  
+| bip_39_word_new_line12 | welcome
+belt
+music
+stem
+soon
+also
+garment
+denial
+audit
+unit
+exclude
+action |  
+| bip_39_word_new_line2 | welcome
+belt |  
+| bip_39_word_new_line3 | welcome
+belt
+music |  
+| bip_39_word_new_line4 | welcome
+belt
+music
+stem |  
+| bip_39_word_new_line5 | welcome
+belt
+music
+stem
+soon |  
+| bip_39_word_new_line6 | welcome
+belt
+music
+stem
+soon
+also |  
+| bip_39_word_new_line7 | welcome
+belt
+music
+stem
+soon
+also
+garment |  
+| bip_39_word_new_line8 | welcome
+belt
+music
+stem
+soon
+also
+garment
+denial |  
+| bip_39_word_new_line9 | welcome
+belt
+music
+stem
+soon
+also
+garment
+denial
+audit |  
+| bip_39_word_space_0 | ['welcome', 'belt', 'music', 'stem', 'soon', 'also', 'garment', 'denial', 'audit', 'unit', 'exclude', 'action'] |  
+| bip_39_word_space_1 | welcome |  
+| bip_39_word_space_10 | welcome belt music stem soon also garment denial audit unit |  
+| bip_39_word_space_11 | welcome belt music stem soon also garment denial audit unit exclude |  
+| bip_39_word_space_12 | welcome belt music stem soon also garment denial audit unit exclude action |  
+| bip_39_word_space_2 | welcome belt |  
+| bip_39_word_space_3 | welcome belt music |  
+| bip_39_word_space_4 | welcome belt music stem |  
+| bip_39_word_space_5 | welcome belt music stem soon |  
+| bip_39_word_space_6 | welcome belt music stem soon also |  
+| bip_39_word_space_7 | welcome belt music stem soon also garment |  
+| bip_39_word_space_8 | welcome belt music stem soon also garment denial |  
+| bip_39_word_space_9 | welcome belt music stem soon also garment denial audit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

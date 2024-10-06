@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: avocado rose
+  * bip 39 word 3: avocado rose vacuum
+  * bip 39 word: avocado rose vacuum prevent teach limb come wish often know hazard artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | avocado |  
+| bip_39_word_new_br10 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb<br>come<br>wish<br>often<br>know |  
+| bip_39_word_new_br11 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb<br>come<br>wish<br>often<br>know<br>hazard |  
+| bip_39_word_new_br12 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb<br>come<br>wish<br>often<br>know<br>hazard<br>artist |  
+| bip_39_word_new_br2 | avocado<br>rose |  
+| bip_39_word_new_br3 | avocado<br>rose<br>vacuum |  
+| bip_39_word_new_br4 | avocado<br>rose<br>vacuum<br>prevent |  
+| bip_39_word_new_br5 | avocado<br>rose<br>vacuum<br>prevent<br>teach |  
+| bip_39_word_new_br6 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb |  
+| bip_39_word_new_br7 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb<br>come |  
+| bip_39_word_new_br8 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb<br>come<br>wish |  
+| bip_39_word_new_br9 | avocado<br>rose<br>vacuum<br>prevent<br>teach<br>limb<br>come<br>wish<br>often |  
+| bip_39_word_new_line1 | avocado |  
+| bip_39_word_new_line10 | avocado
+rose
+vacuum
+prevent
+teach
+limb
+come
+wish
+often
+know |  
+| bip_39_word_new_line11 | avocado
+rose
+vacuum
+prevent
+teach
+limb
+come
+wish
+often
+know
+hazard |  
+| bip_39_word_new_line12 | avocado
+rose
+vacuum
+prevent
+teach
+limb
+come
+wish
+often
+know
+hazard
+artist |  
+| bip_39_word_new_line2 | avocado
+rose |  
+| bip_39_word_new_line3 | avocado
+rose
+vacuum |  
+| bip_39_word_new_line4 | avocado
+rose
+vacuum
+prevent |  
+| bip_39_word_new_line5 | avocado
+rose
+vacuum
+prevent
+teach |  
+| bip_39_word_new_line6 | avocado
+rose
+vacuum
+prevent
+teach
+limb |  
+| bip_39_word_new_line7 | avocado
+rose
+vacuum
+prevent
+teach
+limb
+come |  
+| bip_39_word_new_line8 | avocado
+rose
+vacuum
+prevent
+teach
+limb
+come
+wish |  
+| bip_39_word_new_line9 | avocado
+rose
+vacuum
+prevent
+teach
+limb
+come
+wish
+often |  
+| bip_39_word_space_0 | ['avocado', 'rose', 'vacuum', 'prevent', 'teach', 'limb', 'come', 'wish', 'often', 'know', 'hazard', 'artist'] |  
+| bip_39_word_space_1 | avocado |  
+| bip_39_word_space_10 | avocado rose vacuum prevent teach limb come wish often know |  
+| bip_39_word_space_11 | avocado rose vacuum prevent teach limb come wish often know hazard |  
+| bip_39_word_space_12 | avocado rose vacuum prevent teach limb come wish often know hazard artist |  
+| bip_39_word_space_2 | avocado rose |  
+| bip_39_word_space_3 | avocado rose vacuum |  
+| bip_39_word_space_4 | avocado rose vacuum prevent |  
+| bip_39_word_space_5 | avocado rose vacuum prevent teach |  
+| bip_39_word_space_6 | avocado rose vacuum prevent teach limb |  
+| bip_39_word_space_7 | avocado rose vacuum prevent teach limb come |  
+| bip_39_word_space_8 | avocado rose vacuum prevent teach limb come wish |  
+| bip_39_word_space_9 | avocado rose vacuum prevent teach limb come wish often |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

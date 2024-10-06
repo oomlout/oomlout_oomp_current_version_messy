@@ -1,3 +1,187 @@
+bip_39_word_new_br1: peasant
+bip_39_word_new_br10: peasant<br>someone<br>carpet<br>engine<br>entry<br>exotic<br>catalog<br>feel<br>super<br>rural
+bip_39_word_new_br11: peasant<br>someone<br>carpet<br>engine<br>entry<br>exotic<br>catalog<br>feel<br>super<br>rural<br>parrot
+bip_39_word_new_br12: peasant<br>someone<br>carpet<br>engine<br>entry<br>exotic<br>catalog<br>feel<br>super<br>rural<br>parrot<br>arctic
+bip_39_word_new_br2: peasant<br>someone
+bip_39_word_new_br3: peasant<br>someone<br>carpet
+bip_39_word_new_br4: peasant<br>someone<br>carpet<br>engine
+bip_39_word_new_br5: peasant<br>someone<br>carpet<br>engine<br>entry
+bip_39_word_new_br6: peasant<br>someone<br>carpet<br>engine<br>entry<br>exotic
+bip_39_word_new_br7: peasant<br>someone<br>carpet<br>engine<br>entry<br>exotic<br>catalog
+bip_39_word_new_br8: peasant<br>someone<br>carpet<br>engine<br>entry<br>exotic<br>catalog<br>feel
+bip_39_word_new_br9: peasant<br>someone<br>carpet<br>engine<br>entry<br>exotic<br>catalog<br>feel<br>super
+bip_39_word_new_line1: peasant
+bip_39_word_new_line10: 'peasant
+
+  someone
+
+  carpet
+
+  engine
+
+  entry
+
+  exotic
+
+  catalog
+
+  feel
+
+  super
+
+  rural'
+bip_39_word_new_line11: 'peasant
+
+  someone
+
+  carpet
+
+  engine
+
+  entry
+
+  exotic
+
+  catalog
+
+  feel
+
+  super
+
+  rural
+
+  parrot'
+bip_39_word_new_line12: 'peasant
+
+  someone
+
+  carpet
+
+  engine
+
+  entry
+
+  exotic
+
+  catalog
+
+  feel
+
+  super
+
+  rural
+
+  parrot
+
+  arctic'
+bip_39_word_new_line2: 'peasant
+
+  someone'
+bip_39_word_new_line3: 'peasant
+
+  someone
+
+  carpet'
+bip_39_word_new_line4: 'peasant
+
+  someone
+
+  carpet
+
+  engine'
+bip_39_word_new_line5: 'peasant
+
+  someone
+
+  carpet
+
+  engine
+
+  entry'
+bip_39_word_new_line6: 'peasant
+
+  someone
+
+  carpet
+
+  engine
+
+  entry
+
+  exotic'
+bip_39_word_new_line7: 'peasant
+
+  someone
+
+  carpet
+
+  engine
+
+  entry
+
+  exotic
+
+  catalog'
+bip_39_word_new_line8: 'peasant
+
+  someone
+
+  carpet
+
+  engine
+
+  entry
+
+  exotic
+
+  catalog
+
+  feel'
+bip_39_word_new_line9: 'peasant
+
+  someone
+
+  carpet
+
+  engine
+
+  entry
+
+  exotic
+
+  catalog
+
+  feel
+
+  super'
+bip_39_word_space_0:
+- peasant
+- someone
+- carpet
+- engine
+- entry
+- exotic
+- catalog
+- feel
+- super
+- rural
+- parrot
+- arctic
+bip_39_word_space_1: peasant
+bip_39_word_space_10: peasant someone carpet engine entry exotic catalog feel super
+  rural
+bip_39_word_space_11: peasant someone carpet engine entry exotic catalog feel super
+  rural parrot
+bip_39_word_space_12: peasant someone carpet engine entry exotic catalog feel super
+  rural parrot arctic
+bip_39_word_space_2: peasant someone
+bip_39_word_space_3: peasant someone carpet
+bip_39_word_space_4: peasant someone carpet engine
+bip_39_word_space_5: peasant someone carpet engine entry
+bip_39_word_space_6: peasant someone carpet engine entry exotic
+bip_39_word_space_7: peasant someone carpet engine entry exotic catalog
+bip_39_word_space_8: peasant someone carpet engine entry exotic catalog feel
+bip_39_word_space_9: peasant someone carpet engine entry exotic catalog feel super
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

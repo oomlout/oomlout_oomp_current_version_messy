@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: consider polar
+  * bip 39 word 3: consider polar nominee
+  * bip 39 word: consider polar nominee blur wish rural deputy young guard urban raw add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | consider |  
+| bip_39_word_new_br10 | consider<br>polar<br>nominee<br>blur<br>wish<br>rural<br>deputy<br>young<br>guard<br>urban |  
+| bip_39_word_new_br11 | consider<br>polar<br>nominee<br>blur<br>wish<br>rural<br>deputy<br>young<br>guard<br>urban<br>raw |  
+| bip_39_word_new_br12 | consider<br>polar<br>nominee<br>blur<br>wish<br>rural<br>deputy<br>young<br>guard<br>urban<br>raw<br>add |  
+| bip_39_word_new_br2 | consider<br>polar |  
+| bip_39_word_new_br3 | consider<br>polar<br>nominee |  
+| bip_39_word_new_br4 | consider<br>polar<br>nominee<br>blur |  
+| bip_39_word_new_br5 | consider<br>polar<br>nominee<br>blur<br>wish |  
+| bip_39_word_new_br6 | consider<br>polar<br>nominee<br>blur<br>wish<br>rural |  
+| bip_39_word_new_br7 | consider<br>polar<br>nominee<br>blur<br>wish<br>rural<br>deputy |  
+| bip_39_word_new_br8 | consider<br>polar<br>nominee<br>blur<br>wish<br>rural<br>deputy<br>young |  
+| bip_39_word_new_br9 | consider<br>polar<br>nominee<br>blur<br>wish<br>rural<br>deputy<br>young<br>guard |  
+| bip_39_word_new_line1 | consider |  
+| bip_39_word_new_line10 | consider
+polar
+nominee
+blur
+wish
+rural
+deputy
+young
+guard
+urban |  
+| bip_39_word_new_line11 | consider
+polar
+nominee
+blur
+wish
+rural
+deputy
+young
+guard
+urban
+raw |  
+| bip_39_word_new_line12 | consider
+polar
+nominee
+blur
+wish
+rural
+deputy
+young
+guard
+urban
+raw
+add |  
+| bip_39_word_new_line2 | consider
+polar |  
+| bip_39_word_new_line3 | consider
+polar
+nominee |  
+| bip_39_word_new_line4 | consider
+polar
+nominee
+blur |  
+| bip_39_word_new_line5 | consider
+polar
+nominee
+blur
+wish |  
+| bip_39_word_new_line6 | consider
+polar
+nominee
+blur
+wish
+rural |  
+| bip_39_word_new_line7 | consider
+polar
+nominee
+blur
+wish
+rural
+deputy |  
+| bip_39_word_new_line8 | consider
+polar
+nominee
+blur
+wish
+rural
+deputy
+young |  
+| bip_39_word_new_line9 | consider
+polar
+nominee
+blur
+wish
+rural
+deputy
+young
+guard |  
+| bip_39_word_space_0 | ['consider', 'polar', 'nominee', 'blur', 'wish', 'rural', 'deputy', 'young', 'guard', 'urban', 'raw', 'add'] |  
+| bip_39_word_space_1 | consider |  
+| bip_39_word_space_10 | consider polar nominee blur wish rural deputy young guard urban |  
+| bip_39_word_space_11 | consider polar nominee blur wish rural deputy young guard urban raw |  
+| bip_39_word_space_12 | consider polar nominee blur wish rural deputy young guard urban raw add |  
+| bip_39_word_space_2 | consider polar |  
+| bip_39_word_space_3 | consider polar nominee |  
+| bip_39_word_space_4 | consider polar nominee blur |  
+| bip_39_word_space_5 | consider polar nominee blur wish |  
+| bip_39_word_space_6 | consider polar nominee blur wish rural |  
+| bip_39_word_space_7 | consider polar nominee blur wish rural deputy |  
+| bip_39_word_space_8 | consider polar nominee blur wish rural deputy young |  
+| bip_39_word_space_9 | consider polar nominee blur wish rural deputy young guard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

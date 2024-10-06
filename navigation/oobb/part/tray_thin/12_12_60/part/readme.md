@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bitter run
+  * bip 39 word 3: bitter run try
+  * bip 39 word: bitter run try husband liar behave screen settle glue mimic chair atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bitter |  
+| bip_39_word_new_br10 | bitter<br>run<br>try<br>husband<br>liar<br>behave<br>screen<br>settle<br>glue<br>mimic |  
+| bip_39_word_new_br11 | bitter<br>run<br>try<br>husband<br>liar<br>behave<br>screen<br>settle<br>glue<br>mimic<br>chair |  
+| bip_39_word_new_br12 | bitter<br>run<br>try<br>husband<br>liar<br>behave<br>screen<br>settle<br>glue<br>mimic<br>chair<br>atom |  
+| bip_39_word_new_br2 | bitter<br>run |  
+| bip_39_word_new_br3 | bitter<br>run<br>try |  
+| bip_39_word_new_br4 | bitter<br>run<br>try<br>husband |  
+| bip_39_word_new_br5 | bitter<br>run<br>try<br>husband<br>liar |  
+| bip_39_word_new_br6 | bitter<br>run<br>try<br>husband<br>liar<br>behave |  
+| bip_39_word_new_br7 | bitter<br>run<br>try<br>husband<br>liar<br>behave<br>screen |  
+| bip_39_word_new_br8 | bitter<br>run<br>try<br>husband<br>liar<br>behave<br>screen<br>settle |  
+| bip_39_word_new_br9 | bitter<br>run<br>try<br>husband<br>liar<br>behave<br>screen<br>settle<br>glue |  
+| bip_39_word_new_line1 | bitter |  
+| bip_39_word_new_line10 | bitter
+run
+try
+husband
+liar
+behave
+screen
+settle
+glue
+mimic |  
+| bip_39_word_new_line11 | bitter
+run
+try
+husband
+liar
+behave
+screen
+settle
+glue
+mimic
+chair |  
+| bip_39_word_new_line12 | bitter
+run
+try
+husband
+liar
+behave
+screen
+settle
+glue
+mimic
+chair
+atom |  
+| bip_39_word_new_line2 | bitter
+run |  
+| bip_39_word_new_line3 | bitter
+run
+try |  
+| bip_39_word_new_line4 | bitter
+run
+try
+husband |  
+| bip_39_word_new_line5 | bitter
+run
+try
+husband
+liar |  
+| bip_39_word_new_line6 | bitter
+run
+try
+husband
+liar
+behave |  
+| bip_39_word_new_line7 | bitter
+run
+try
+husband
+liar
+behave
+screen |  
+| bip_39_word_new_line8 | bitter
+run
+try
+husband
+liar
+behave
+screen
+settle |  
+| bip_39_word_new_line9 | bitter
+run
+try
+husband
+liar
+behave
+screen
+settle
+glue |  
+| bip_39_word_space_0 | ['bitter', 'run', 'try', 'husband', 'liar', 'behave', 'screen', 'settle', 'glue', 'mimic', 'chair', 'atom'] |  
+| bip_39_word_space_1 | bitter |  
+| bip_39_word_space_10 | bitter run try husband liar behave screen settle glue mimic |  
+| bip_39_word_space_11 | bitter run try husband liar behave screen settle glue mimic chair |  
+| bip_39_word_space_12 | bitter run try husband liar behave screen settle glue mimic chair atom |  
+| bip_39_word_space_2 | bitter run |  
+| bip_39_word_space_3 | bitter run try |  
+| bip_39_word_space_4 | bitter run try husband |  
+| bip_39_word_space_5 | bitter run try husband liar |  
+| bip_39_word_space_6 | bitter run try husband liar behave |  
+| bip_39_word_space_7 | bitter run try husband liar behave screen |  
+| bip_39_word_space_8 | bitter run try husband liar behave screen settle |  
+| bip_39_word_space_9 | bitter run try husband liar behave screen settle glue |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

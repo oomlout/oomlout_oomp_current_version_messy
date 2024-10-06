@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diamond manual
+  * bip 39 word 3: diamond manual member
+  * bip 39 word: diamond manual member search one road mail cricket permit unhappy height allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diamond |  
+| bip_39_word_new_br10 | diamond<br>manual<br>member<br>search<br>one<br>road<br>mail<br>cricket<br>permit<br>unhappy |  
+| bip_39_word_new_br11 | diamond<br>manual<br>member<br>search<br>one<br>road<br>mail<br>cricket<br>permit<br>unhappy<br>height |  
+| bip_39_word_new_br12 | diamond<br>manual<br>member<br>search<br>one<br>road<br>mail<br>cricket<br>permit<br>unhappy<br>height<br>allow |  
+| bip_39_word_new_br2 | diamond<br>manual |  
+| bip_39_word_new_br3 | diamond<br>manual<br>member |  
+| bip_39_word_new_br4 | diamond<br>manual<br>member<br>search |  
+| bip_39_word_new_br5 | diamond<br>manual<br>member<br>search<br>one |  
+| bip_39_word_new_br6 | diamond<br>manual<br>member<br>search<br>one<br>road |  
+| bip_39_word_new_br7 | diamond<br>manual<br>member<br>search<br>one<br>road<br>mail |  
+| bip_39_word_new_br8 | diamond<br>manual<br>member<br>search<br>one<br>road<br>mail<br>cricket |  
+| bip_39_word_new_br9 | diamond<br>manual<br>member<br>search<br>one<br>road<br>mail<br>cricket<br>permit |  
+| bip_39_word_new_line1 | diamond |  
+| bip_39_word_new_line10 | diamond
+manual
+member
+search
+one
+road
+mail
+cricket
+permit
+unhappy |  
+| bip_39_word_new_line11 | diamond
+manual
+member
+search
+one
+road
+mail
+cricket
+permit
+unhappy
+height |  
+| bip_39_word_new_line12 | diamond
+manual
+member
+search
+one
+road
+mail
+cricket
+permit
+unhappy
+height
+allow |  
+| bip_39_word_new_line2 | diamond
+manual |  
+| bip_39_word_new_line3 | diamond
+manual
+member |  
+| bip_39_word_new_line4 | diamond
+manual
+member
+search |  
+| bip_39_word_new_line5 | diamond
+manual
+member
+search
+one |  
+| bip_39_word_new_line6 | diamond
+manual
+member
+search
+one
+road |  
+| bip_39_word_new_line7 | diamond
+manual
+member
+search
+one
+road
+mail |  
+| bip_39_word_new_line8 | diamond
+manual
+member
+search
+one
+road
+mail
+cricket |  
+| bip_39_word_new_line9 | diamond
+manual
+member
+search
+one
+road
+mail
+cricket
+permit |  
+| bip_39_word_space_0 | ['diamond', 'manual', 'member', 'search', 'one', 'road', 'mail', 'cricket', 'permit', 'unhappy', 'height', 'allow'] |  
+| bip_39_word_space_1 | diamond |  
+| bip_39_word_space_10 | diamond manual member search one road mail cricket permit unhappy |  
+| bip_39_word_space_11 | diamond manual member search one road mail cricket permit unhappy height |  
+| bip_39_word_space_12 | diamond manual member search one road mail cricket permit unhappy height allow |  
+| bip_39_word_space_2 | diamond manual |  
+| bip_39_word_space_3 | diamond manual member |  
+| bip_39_word_space_4 | diamond manual member search |  
+| bip_39_word_space_5 | diamond manual member search one |  
+| bip_39_word_space_6 | diamond manual member search one road |  
+| bip_39_word_space_7 | diamond manual member search one road mail |  
+| bip_39_word_space_8 | diamond manual member search one road mail cricket |  
+| bip_39_word_space_9 | diamond manual member search one road mail cricket permit |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

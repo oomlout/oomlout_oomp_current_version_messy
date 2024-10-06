@@ -1,3 +1,187 @@
+bip_39_word_new_br1: exchange
+bip_39_word_new_br10: exchange<br>ride<br>album<br>toss<br>balance<br>achieve<br>error<br>provide<br>heart<br>borrow
+bip_39_word_new_br11: exchange<br>ride<br>album<br>toss<br>balance<br>achieve<br>error<br>provide<br>heart<br>borrow<br>collect
+bip_39_word_new_br12: exchange<br>ride<br>album<br>toss<br>balance<br>achieve<br>error<br>provide<br>heart<br>borrow<br>collect<br>angle
+bip_39_word_new_br2: exchange<br>ride
+bip_39_word_new_br3: exchange<br>ride<br>album
+bip_39_word_new_br4: exchange<br>ride<br>album<br>toss
+bip_39_word_new_br5: exchange<br>ride<br>album<br>toss<br>balance
+bip_39_word_new_br6: exchange<br>ride<br>album<br>toss<br>balance<br>achieve
+bip_39_word_new_br7: exchange<br>ride<br>album<br>toss<br>balance<br>achieve<br>error
+bip_39_word_new_br8: exchange<br>ride<br>album<br>toss<br>balance<br>achieve<br>error<br>provide
+bip_39_word_new_br9: exchange<br>ride<br>album<br>toss<br>balance<br>achieve<br>error<br>provide<br>heart
+bip_39_word_new_line1: exchange
+bip_39_word_new_line10: 'exchange
+
+  ride
+
+  album
+
+  toss
+
+  balance
+
+  achieve
+
+  error
+
+  provide
+
+  heart
+
+  borrow'
+bip_39_word_new_line11: 'exchange
+
+  ride
+
+  album
+
+  toss
+
+  balance
+
+  achieve
+
+  error
+
+  provide
+
+  heart
+
+  borrow
+
+  collect'
+bip_39_word_new_line12: 'exchange
+
+  ride
+
+  album
+
+  toss
+
+  balance
+
+  achieve
+
+  error
+
+  provide
+
+  heart
+
+  borrow
+
+  collect
+
+  angle'
+bip_39_word_new_line2: 'exchange
+
+  ride'
+bip_39_word_new_line3: 'exchange
+
+  ride
+
+  album'
+bip_39_word_new_line4: 'exchange
+
+  ride
+
+  album
+
+  toss'
+bip_39_word_new_line5: 'exchange
+
+  ride
+
+  album
+
+  toss
+
+  balance'
+bip_39_word_new_line6: 'exchange
+
+  ride
+
+  album
+
+  toss
+
+  balance
+
+  achieve'
+bip_39_word_new_line7: 'exchange
+
+  ride
+
+  album
+
+  toss
+
+  balance
+
+  achieve
+
+  error'
+bip_39_word_new_line8: 'exchange
+
+  ride
+
+  album
+
+  toss
+
+  balance
+
+  achieve
+
+  error
+
+  provide'
+bip_39_word_new_line9: 'exchange
+
+  ride
+
+  album
+
+  toss
+
+  balance
+
+  achieve
+
+  error
+
+  provide
+
+  heart'
+bip_39_word_space_0:
+- exchange
+- ride
+- album
+- toss
+- balance
+- achieve
+- error
+- provide
+- heart
+- borrow
+- collect
+- angle
+bip_39_word_space_1: exchange
+bip_39_word_space_10: exchange ride album toss balance achieve error provide heart
+  borrow
+bip_39_word_space_11: exchange ride album toss balance achieve error provide heart
+  borrow collect
+bip_39_word_space_12: exchange ride album toss balance achieve error provide heart
+  borrow collect angle
+bip_39_word_space_2: exchange ride
+bip_39_word_space_3: exchange ride album
+bip_39_word_space_4: exchange ride album toss
+bip_39_word_space_5: exchange ride album toss balance
+bip_39_word_space_6: exchange ride album toss balance achieve
+bip_39_word_space_7: exchange ride album toss balance achieve error
+bip_39_word_space_8: exchange ride album toss balance achieve error provide
+bip_39_word_space_9: exchange ride album toss balance achieve error provide heart
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

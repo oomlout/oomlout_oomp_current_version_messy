@@ -1,3 +1,186 @@
+bip_39_word_new_br1: rose
+bip_39_word_new_br10: rose<br>congress<br>home<br>ordinary<br>monitor<br>side<br>spoil<br>bamboo<br>gift<br>degree
+bip_39_word_new_br11: rose<br>congress<br>home<br>ordinary<br>monitor<br>side<br>spoil<br>bamboo<br>gift<br>degree<br>please
+bip_39_word_new_br12: rose<br>congress<br>home<br>ordinary<br>monitor<br>side<br>spoil<br>bamboo<br>gift<br>degree<br>please<br>antique
+bip_39_word_new_br2: rose<br>congress
+bip_39_word_new_br3: rose<br>congress<br>home
+bip_39_word_new_br4: rose<br>congress<br>home<br>ordinary
+bip_39_word_new_br5: rose<br>congress<br>home<br>ordinary<br>monitor
+bip_39_word_new_br6: rose<br>congress<br>home<br>ordinary<br>monitor<br>side
+bip_39_word_new_br7: rose<br>congress<br>home<br>ordinary<br>monitor<br>side<br>spoil
+bip_39_word_new_br8: rose<br>congress<br>home<br>ordinary<br>monitor<br>side<br>spoil<br>bamboo
+bip_39_word_new_br9: rose<br>congress<br>home<br>ordinary<br>monitor<br>side<br>spoil<br>bamboo<br>gift
+bip_39_word_new_line1: rose
+bip_39_word_new_line10: 'rose
+
+  congress
+
+  home
+
+  ordinary
+
+  monitor
+
+  side
+
+  spoil
+
+  bamboo
+
+  gift
+
+  degree'
+bip_39_word_new_line11: 'rose
+
+  congress
+
+  home
+
+  ordinary
+
+  monitor
+
+  side
+
+  spoil
+
+  bamboo
+
+  gift
+
+  degree
+
+  please'
+bip_39_word_new_line12: 'rose
+
+  congress
+
+  home
+
+  ordinary
+
+  monitor
+
+  side
+
+  spoil
+
+  bamboo
+
+  gift
+
+  degree
+
+  please
+
+  antique'
+bip_39_word_new_line2: 'rose
+
+  congress'
+bip_39_word_new_line3: 'rose
+
+  congress
+
+  home'
+bip_39_word_new_line4: 'rose
+
+  congress
+
+  home
+
+  ordinary'
+bip_39_word_new_line5: 'rose
+
+  congress
+
+  home
+
+  ordinary
+
+  monitor'
+bip_39_word_new_line6: 'rose
+
+  congress
+
+  home
+
+  ordinary
+
+  monitor
+
+  side'
+bip_39_word_new_line7: 'rose
+
+  congress
+
+  home
+
+  ordinary
+
+  monitor
+
+  side
+
+  spoil'
+bip_39_word_new_line8: 'rose
+
+  congress
+
+  home
+
+  ordinary
+
+  monitor
+
+  side
+
+  spoil
+
+  bamboo'
+bip_39_word_new_line9: 'rose
+
+  congress
+
+  home
+
+  ordinary
+
+  monitor
+
+  side
+
+  spoil
+
+  bamboo
+
+  gift'
+bip_39_word_space_0:
+- rose
+- congress
+- home
+- ordinary
+- monitor
+- side
+- spoil
+- bamboo
+- gift
+- degree
+- please
+- antique
+bip_39_word_space_1: rose
+bip_39_word_space_10: rose congress home ordinary monitor side spoil bamboo gift degree
+bip_39_word_space_11: rose congress home ordinary monitor side spoil bamboo gift degree
+  please
+bip_39_word_space_12: rose congress home ordinary monitor side spoil bamboo gift degree
+  please antique
+bip_39_word_space_2: rose congress
+bip_39_word_space_3: rose congress home
+bip_39_word_space_4: rose congress home ordinary
+bip_39_word_space_5: rose congress home ordinary monitor
+bip_39_word_space_6: rose congress home ordinary monitor side
+bip_39_word_space_7: rose congress home ordinary monitor side spoil
+bip_39_word_space_8: rose congress home ordinary monitor side spoil bamboo
+bip_39_word_space_9: rose congress home ordinary monitor side spoil bamboo gift
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

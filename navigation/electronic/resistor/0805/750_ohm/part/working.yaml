@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lava
+bip_39_word_new_br10: lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp
+bip_39_word_new_br11: lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp<br>hen
+bip_39_word_new_br12: lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert<br>swamp<br>hen<br>air
+bip_39_word_new_br2: lava<br>delay
+bip_39_word_new_br3: lava<br>delay<br>turtle
+bip_39_word_new_br4: lava<br>delay<br>turtle<br>coin
+bip_39_word_new_br5: lava<br>delay<br>turtle<br>coin<br>idle
+bip_39_word_new_br6: lava<br>delay<br>turtle<br>coin<br>idle<br>detect
+bip_39_word_new_br7: lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy
+bip_39_word_new_br8: lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route
+bip_39_word_new_br9: lava<br>delay<br>turtle<br>coin<br>idle<br>detect<br>mercy<br>route<br>desert
+bip_39_word_new_line1: lava
+bip_39_word_new_line10: 'lava
+
+  delay
+
+  turtle
+
+  coin
+
+  idle
+
+  detect
+
+  mercy
+
+  route
+
+  desert
+
+  swamp'
+bip_39_word_new_line11: 'lava
+
+  delay
+
+  turtle
+
+  coin
+
+  idle
+
+  detect
+
+  mercy
+
+  route
+
+  desert
+
+  swamp
+
+  hen'
+bip_39_word_new_line12: 'lava
+
+  delay
+
+  turtle
+
+  coin
+
+  idle
+
+  detect
+
+  mercy
+
+  route
+
+  desert
+
+  swamp
+
+  hen
+
+  air'
+bip_39_word_new_line2: 'lava
+
+  delay'
+bip_39_word_new_line3: 'lava
+
+  delay
+
+  turtle'
+bip_39_word_new_line4: 'lava
+
+  delay
+
+  turtle
+
+  coin'
+bip_39_word_new_line5: 'lava
+
+  delay
+
+  turtle
+
+  coin
+
+  idle'
+bip_39_word_new_line6: 'lava
+
+  delay
+
+  turtle
+
+  coin
+
+  idle
+
+  detect'
+bip_39_word_new_line7: 'lava
+
+  delay
+
+  turtle
+
+  coin
+
+  idle
+
+  detect
+
+  mercy'
+bip_39_word_new_line8: 'lava
+
+  delay
+
+  turtle
+
+  coin
+
+  idle
+
+  detect
+
+  mercy
+
+  route'
+bip_39_word_new_line9: 'lava
+
+  delay
+
+  turtle
+
+  coin
+
+  idle
+
+  detect
+
+  mercy
+
+  route
+
+  desert'
+bip_39_word_space_0:
+- lava
+- delay
+- turtle
+- coin
+- idle
+- detect
+- mercy
+- route
+- desert
+- swamp
+- hen
+- air
+bip_39_word_space_1: lava
+bip_39_word_space_10: lava delay turtle coin idle detect mercy route desert swamp
+bip_39_word_space_11: lava delay turtle coin idle detect mercy route desert swamp
+  hen
+bip_39_word_space_12: lava delay turtle coin idle detect mercy route desert swamp
+  hen air
+bip_39_word_space_2: lava delay
+bip_39_word_space_3: lava delay turtle
+bip_39_word_space_4: lava delay turtle coin
+bip_39_word_space_5: lava delay turtle coin idle
+bip_39_word_space_6: lava delay turtle coin idle detect
+bip_39_word_space_7: lava delay turtle coin idle detect mercy
+bip_39_word_space_8: lava delay turtle coin idle detect mercy route
+bip_39_word_space_9: lava delay turtle coin idle detect mercy route desert
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

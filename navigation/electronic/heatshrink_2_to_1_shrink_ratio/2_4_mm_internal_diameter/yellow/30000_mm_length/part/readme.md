@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nest dinosaur
+  * bip 39 word 3: nest dinosaur shuffle
+  * bip 39 word: nest dinosaur shuffle resemble bronze betray shoe double style valley slide approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nest |  
+| bip_39_word_new_br10 | nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray<br>shoe<br>double<br>style<br>valley |  
+| bip_39_word_new_br11 | nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray<br>shoe<br>double<br>style<br>valley<br>slide |  
+| bip_39_word_new_br12 | nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray<br>shoe<br>double<br>style<br>valley<br>slide<br>approve |  
+| bip_39_word_new_br2 | nest<br>dinosaur |  
+| bip_39_word_new_br3 | nest<br>dinosaur<br>shuffle |  
+| bip_39_word_new_br4 | nest<br>dinosaur<br>shuffle<br>resemble |  
+| bip_39_word_new_br5 | nest<br>dinosaur<br>shuffle<br>resemble<br>bronze |  
+| bip_39_word_new_br6 | nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray |  
+| bip_39_word_new_br7 | nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray<br>shoe |  
+| bip_39_word_new_br8 | nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray<br>shoe<br>double |  
+| bip_39_word_new_br9 | nest<br>dinosaur<br>shuffle<br>resemble<br>bronze<br>betray<br>shoe<br>double<br>style |  
+| bip_39_word_new_line1 | nest |  
+| bip_39_word_new_line10 | nest
+dinosaur
+shuffle
+resemble
+bronze
+betray
+shoe
+double
+style
+valley |  
+| bip_39_word_new_line11 | nest
+dinosaur
+shuffle
+resemble
+bronze
+betray
+shoe
+double
+style
+valley
+slide |  
+| bip_39_word_new_line12 | nest
+dinosaur
+shuffle
+resemble
+bronze
+betray
+shoe
+double
+style
+valley
+slide
+approve |  
+| bip_39_word_new_line2 | nest
+dinosaur |  
+| bip_39_word_new_line3 | nest
+dinosaur
+shuffle |  
+| bip_39_word_new_line4 | nest
+dinosaur
+shuffle
+resemble |  
+| bip_39_word_new_line5 | nest
+dinosaur
+shuffle
+resemble
+bronze |  
+| bip_39_word_new_line6 | nest
+dinosaur
+shuffle
+resemble
+bronze
+betray |  
+| bip_39_word_new_line7 | nest
+dinosaur
+shuffle
+resemble
+bronze
+betray
+shoe |  
+| bip_39_word_new_line8 | nest
+dinosaur
+shuffle
+resemble
+bronze
+betray
+shoe
+double |  
+| bip_39_word_new_line9 | nest
+dinosaur
+shuffle
+resemble
+bronze
+betray
+shoe
+double
+style |  
+| bip_39_word_space_0 | ['nest', 'dinosaur', 'shuffle', 'resemble', 'bronze', 'betray', 'shoe', 'double', 'style', 'valley', 'slide', 'approve'] |  
+| bip_39_word_space_1 | nest |  
+| bip_39_word_space_10 | nest dinosaur shuffle resemble bronze betray shoe double style valley |  
+| bip_39_word_space_11 | nest dinosaur shuffle resemble bronze betray shoe double style valley slide |  
+| bip_39_word_space_12 | nest dinosaur shuffle resemble bronze betray shoe double style valley slide approve |  
+| bip_39_word_space_2 | nest dinosaur |  
+| bip_39_word_space_3 | nest dinosaur shuffle |  
+| bip_39_word_space_4 | nest dinosaur shuffle resemble |  
+| bip_39_word_space_5 | nest dinosaur shuffle resemble bronze |  
+| bip_39_word_space_6 | nest dinosaur shuffle resemble bronze betray |  
+| bip_39_word_space_7 | nest dinosaur shuffle resemble bronze betray shoe |  
+| bip_39_word_space_8 | nest dinosaur shuffle resemble bronze betray shoe double |  
+| bip_39_word_space_9 | nest dinosaur shuffle resemble bronze betray shoe double style |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

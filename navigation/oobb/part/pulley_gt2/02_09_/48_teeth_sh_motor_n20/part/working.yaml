@@ -1,3 +1,186 @@
+bip_39_word_new_br1: silly
+bip_39_word_new_br10: silly<br>analyst<br>document<br>kitchen<br>cloud<br>item<br>oval<br>rely<br>force<br>vital
+bip_39_word_new_br11: silly<br>analyst<br>document<br>kitchen<br>cloud<br>item<br>oval<br>rely<br>force<br>vital<br>plate
+bip_39_word_new_br12: silly<br>analyst<br>document<br>kitchen<br>cloud<br>item<br>oval<br>rely<br>force<br>vital<br>plate<br>auction
+bip_39_word_new_br2: silly<br>analyst
+bip_39_word_new_br3: silly<br>analyst<br>document
+bip_39_word_new_br4: silly<br>analyst<br>document<br>kitchen
+bip_39_word_new_br5: silly<br>analyst<br>document<br>kitchen<br>cloud
+bip_39_word_new_br6: silly<br>analyst<br>document<br>kitchen<br>cloud<br>item
+bip_39_word_new_br7: silly<br>analyst<br>document<br>kitchen<br>cloud<br>item<br>oval
+bip_39_word_new_br8: silly<br>analyst<br>document<br>kitchen<br>cloud<br>item<br>oval<br>rely
+bip_39_word_new_br9: silly<br>analyst<br>document<br>kitchen<br>cloud<br>item<br>oval<br>rely<br>force
+bip_39_word_new_line1: silly
+bip_39_word_new_line10: 'silly
+
+  analyst
+
+  document
+
+  kitchen
+
+  cloud
+
+  item
+
+  oval
+
+  rely
+
+  force
+
+  vital'
+bip_39_word_new_line11: 'silly
+
+  analyst
+
+  document
+
+  kitchen
+
+  cloud
+
+  item
+
+  oval
+
+  rely
+
+  force
+
+  vital
+
+  plate'
+bip_39_word_new_line12: 'silly
+
+  analyst
+
+  document
+
+  kitchen
+
+  cloud
+
+  item
+
+  oval
+
+  rely
+
+  force
+
+  vital
+
+  plate
+
+  auction'
+bip_39_word_new_line2: 'silly
+
+  analyst'
+bip_39_word_new_line3: 'silly
+
+  analyst
+
+  document'
+bip_39_word_new_line4: 'silly
+
+  analyst
+
+  document
+
+  kitchen'
+bip_39_word_new_line5: 'silly
+
+  analyst
+
+  document
+
+  kitchen
+
+  cloud'
+bip_39_word_new_line6: 'silly
+
+  analyst
+
+  document
+
+  kitchen
+
+  cloud
+
+  item'
+bip_39_word_new_line7: 'silly
+
+  analyst
+
+  document
+
+  kitchen
+
+  cloud
+
+  item
+
+  oval'
+bip_39_word_new_line8: 'silly
+
+  analyst
+
+  document
+
+  kitchen
+
+  cloud
+
+  item
+
+  oval
+
+  rely'
+bip_39_word_new_line9: 'silly
+
+  analyst
+
+  document
+
+  kitchen
+
+  cloud
+
+  item
+
+  oval
+
+  rely
+
+  force'
+bip_39_word_space_0:
+- silly
+- analyst
+- document
+- kitchen
+- cloud
+- item
+- oval
+- rely
+- force
+- vital
+- plate
+- auction
+bip_39_word_space_1: silly
+bip_39_word_space_10: silly analyst document kitchen cloud item oval rely force vital
+bip_39_word_space_11: silly analyst document kitchen cloud item oval rely force vital
+  plate
+bip_39_word_space_12: silly analyst document kitchen cloud item oval rely force vital
+  plate auction
+bip_39_word_space_2: silly analyst
+bip_39_word_space_3: silly analyst document
+bip_39_word_space_4: silly analyst document kitchen
+bip_39_word_space_5: silly analyst document kitchen cloud
+bip_39_word_space_6: silly analyst document kitchen cloud item
+bip_39_word_space_7: silly analyst document kitchen cloud item oval
+bip_39_word_space_8: silly analyst document kitchen cloud item oval rely
+bip_39_word_space_9: silly analyst document kitchen cloud item oval rely force
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

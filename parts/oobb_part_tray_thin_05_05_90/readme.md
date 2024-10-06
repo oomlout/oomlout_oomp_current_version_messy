@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gospel describe
+  * bip 39 word 3: gospel describe pond
+  * bip 39 word: gospel describe pond globe clean spin anxiety avocado muscle control remove album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gospel |  
+| bip_39_word_new_br10 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin<br>anxiety<br>avocado<br>muscle<br>control |  
+| bip_39_word_new_br11 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin<br>anxiety<br>avocado<br>muscle<br>control<br>remove |  
+| bip_39_word_new_br12 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin<br>anxiety<br>avocado<br>muscle<br>control<br>remove<br>album |  
+| bip_39_word_new_br2 | gospel<br>describe |  
+| bip_39_word_new_br3 | gospel<br>describe<br>pond |  
+| bip_39_word_new_br4 | gospel<br>describe<br>pond<br>globe |  
+| bip_39_word_new_br5 | gospel<br>describe<br>pond<br>globe<br>clean |  
+| bip_39_word_new_br6 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin |  
+| bip_39_word_new_br7 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin<br>anxiety |  
+| bip_39_word_new_br8 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin<br>anxiety<br>avocado |  
+| bip_39_word_new_br9 | gospel<br>describe<br>pond<br>globe<br>clean<br>spin<br>anxiety<br>avocado<br>muscle |  
+| bip_39_word_new_line1 | gospel |  
+| bip_39_word_new_line10 | gospel
+describe
+pond
+globe
+clean
+spin
+anxiety
+avocado
+muscle
+control |  
+| bip_39_word_new_line11 | gospel
+describe
+pond
+globe
+clean
+spin
+anxiety
+avocado
+muscle
+control
+remove |  
+| bip_39_word_new_line12 | gospel
+describe
+pond
+globe
+clean
+spin
+anxiety
+avocado
+muscle
+control
+remove
+album |  
+| bip_39_word_new_line2 | gospel
+describe |  
+| bip_39_word_new_line3 | gospel
+describe
+pond |  
+| bip_39_word_new_line4 | gospel
+describe
+pond
+globe |  
+| bip_39_word_new_line5 | gospel
+describe
+pond
+globe
+clean |  
+| bip_39_word_new_line6 | gospel
+describe
+pond
+globe
+clean
+spin |  
+| bip_39_word_new_line7 | gospel
+describe
+pond
+globe
+clean
+spin
+anxiety |  
+| bip_39_word_new_line8 | gospel
+describe
+pond
+globe
+clean
+spin
+anxiety
+avocado |  
+| bip_39_word_new_line9 | gospel
+describe
+pond
+globe
+clean
+spin
+anxiety
+avocado
+muscle |  
+| bip_39_word_space_0 | ['gospel', 'describe', 'pond', 'globe', 'clean', 'spin', 'anxiety', 'avocado', 'muscle', 'control', 'remove', 'album'] |  
+| bip_39_word_space_1 | gospel |  
+| bip_39_word_space_10 | gospel describe pond globe clean spin anxiety avocado muscle control |  
+| bip_39_word_space_11 | gospel describe pond globe clean spin anxiety avocado muscle control remove |  
+| bip_39_word_space_12 | gospel describe pond globe clean spin anxiety avocado muscle control remove album |  
+| bip_39_word_space_2 | gospel describe |  
+| bip_39_word_space_3 | gospel describe pond |  
+| bip_39_word_space_4 | gospel describe pond globe |  
+| bip_39_word_space_5 | gospel describe pond globe clean |  
+| bip_39_word_space_6 | gospel describe pond globe clean spin |  
+| bip_39_word_space_7 | gospel describe pond globe clean spin anxiety |  
+| bip_39_word_space_8 | gospel describe pond globe clean spin anxiety avocado |  
+| bip_39_word_space_9 | gospel describe pond globe clean spin anxiety avocado muscle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

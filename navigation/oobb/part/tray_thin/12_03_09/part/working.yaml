@@ -1,3 +1,186 @@
+bip_39_word_new_br1: element
+bip_39_word_new_br10: element<br>trip<br>seed<br>monkey<br>pluck<br>palm<br>awesome<br>excess<br>board<br>duck
+bip_39_word_new_br11: element<br>trip<br>seed<br>monkey<br>pluck<br>palm<br>awesome<br>excess<br>board<br>duck<br>danger
+bip_39_word_new_br12: element<br>trip<br>seed<br>monkey<br>pluck<br>palm<br>awesome<br>excess<br>board<br>duck<br>danger<br>afraid
+bip_39_word_new_br2: element<br>trip
+bip_39_word_new_br3: element<br>trip<br>seed
+bip_39_word_new_br4: element<br>trip<br>seed<br>monkey
+bip_39_word_new_br5: element<br>trip<br>seed<br>monkey<br>pluck
+bip_39_word_new_br6: element<br>trip<br>seed<br>monkey<br>pluck<br>palm
+bip_39_word_new_br7: element<br>trip<br>seed<br>monkey<br>pluck<br>palm<br>awesome
+bip_39_word_new_br8: element<br>trip<br>seed<br>monkey<br>pluck<br>palm<br>awesome<br>excess
+bip_39_word_new_br9: element<br>trip<br>seed<br>monkey<br>pluck<br>palm<br>awesome<br>excess<br>board
+bip_39_word_new_line1: element
+bip_39_word_new_line10: 'element
+
+  trip
+
+  seed
+
+  monkey
+
+  pluck
+
+  palm
+
+  awesome
+
+  excess
+
+  board
+
+  duck'
+bip_39_word_new_line11: 'element
+
+  trip
+
+  seed
+
+  monkey
+
+  pluck
+
+  palm
+
+  awesome
+
+  excess
+
+  board
+
+  duck
+
+  danger'
+bip_39_word_new_line12: 'element
+
+  trip
+
+  seed
+
+  monkey
+
+  pluck
+
+  palm
+
+  awesome
+
+  excess
+
+  board
+
+  duck
+
+  danger
+
+  afraid'
+bip_39_word_new_line2: 'element
+
+  trip'
+bip_39_word_new_line3: 'element
+
+  trip
+
+  seed'
+bip_39_word_new_line4: 'element
+
+  trip
+
+  seed
+
+  monkey'
+bip_39_word_new_line5: 'element
+
+  trip
+
+  seed
+
+  monkey
+
+  pluck'
+bip_39_word_new_line6: 'element
+
+  trip
+
+  seed
+
+  monkey
+
+  pluck
+
+  palm'
+bip_39_word_new_line7: 'element
+
+  trip
+
+  seed
+
+  monkey
+
+  pluck
+
+  palm
+
+  awesome'
+bip_39_word_new_line8: 'element
+
+  trip
+
+  seed
+
+  monkey
+
+  pluck
+
+  palm
+
+  awesome
+
+  excess'
+bip_39_word_new_line9: 'element
+
+  trip
+
+  seed
+
+  monkey
+
+  pluck
+
+  palm
+
+  awesome
+
+  excess
+
+  board'
+bip_39_word_space_0:
+- element
+- trip
+- seed
+- monkey
+- pluck
+- palm
+- awesome
+- excess
+- board
+- duck
+- danger
+- afraid
+bip_39_word_space_1: element
+bip_39_word_space_10: element trip seed monkey pluck palm awesome excess board duck
+bip_39_word_space_11: element trip seed monkey pluck palm awesome excess board duck
+  danger
+bip_39_word_space_12: element trip seed monkey pluck palm awesome excess board duck
+  danger afraid
+bip_39_word_space_2: element trip
+bip_39_word_space_3: element trip seed
+bip_39_word_space_4: element trip seed monkey
+bip_39_word_space_5: element trip seed monkey pluck
+bip_39_word_space_6: element trip seed monkey pluck palm
+bip_39_word_space_7: element trip seed monkey pluck palm awesome
+bip_39_word_space_8: element trip seed monkey pluck palm awesome excess
+bip_39_word_space_9: element trip seed monkey pluck palm awesome excess board
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

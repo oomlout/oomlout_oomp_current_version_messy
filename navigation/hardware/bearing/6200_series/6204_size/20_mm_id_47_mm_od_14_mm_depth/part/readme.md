@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: metal reopen
+  * bip 39 word 3: metal reopen peanut
+  * bip 39 word: metal reopen peanut sail tragic chimney garden payment swap marble garbage also
 
 ### other_codes
 * short_code: br6204
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | metal |  
+| bip_39_word_new_br10 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap<br>marble |  
+| bip_39_word_new_br11 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap<br>marble<br>garbage |  
+| bip_39_word_new_br12 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap<br>marble<br>garbage<br>also |  
+| bip_39_word_new_br2 | metal<br>reopen |  
+| bip_39_word_new_br3 | metal<br>reopen<br>peanut |  
+| bip_39_word_new_br4 | metal<br>reopen<br>peanut<br>sail |  
+| bip_39_word_new_br5 | metal<br>reopen<br>peanut<br>sail<br>tragic |  
+| bip_39_word_new_br6 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney |  
+| bip_39_word_new_br7 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden |  
+| bip_39_word_new_br8 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment |  
+| bip_39_word_new_br9 | metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap |  
+| bip_39_word_new_line1 | metal |  
+| bip_39_word_new_line10 | metal
+reopen
+peanut
+sail
+tragic
+chimney
+garden
+payment
+swap
+marble |  
+| bip_39_word_new_line11 | metal
+reopen
+peanut
+sail
+tragic
+chimney
+garden
+payment
+swap
+marble
+garbage |  
+| bip_39_word_new_line12 | metal
+reopen
+peanut
+sail
+tragic
+chimney
+garden
+payment
+swap
+marble
+garbage
+also |  
+| bip_39_word_new_line2 | metal
+reopen |  
+| bip_39_word_new_line3 | metal
+reopen
+peanut |  
+| bip_39_word_new_line4 | metal
+reopen
+peanut
+sail |  
+| bip_39_word_new_line5 | metal
+reopen
+peanut
+sail
+tragic |  
+| bip_39_word_new_line6 | metal
+reopen
+peanut
+sail
+tragic
+chimney |  
+| bip_39_word_new_line7 | metal
+reopen
+peanut
+sail
+tragic
+chimney
+garden |  
+| bip_39_word_new_line8 | metal
+reopen
+peanut
+sail
+tragic
+chimney
+garden
+payment |  
+| bip_39_word_new_line9 | metal
+reopen
+peanut
+sail
+tragic
+chimney
+garden
+payment
+swap |  
+| bip_39_word_space_0 | ['metal', 'reopen', 'peanut', 'sail', 'tragic', 'chimney', 'garden', 'payment', 'swap', 'marble', 'garbage', 'also'] |  
+| bip_39_word_space_1 | metal |  
+| bip_39_word_space_10 | metal reopen peanut sail tragic chimney garden payment swap marble |  
+| bip_39_word_space_11 | metal reopen peanut sail tragic chimney garden payment swap marble garbage |  
+| bip_39_word_space_12 | metal reopen peanut sail tragic chimney garden payment swap marble garbage also |  
+| bip_39_word_space_2 | metal reopen |  
+| bip_39_word_space_3 | metal reopen peanut |  
+| bip_39_word_space_4 | metal reopen peanut sail |  
+| bip_39_word_space_5 | metal reopen peanut sail tragic |  
+| bip_39_word_space_6 | metal reopen peanut sail tragic chimney |  
+| bip_39_word_space_7 | metal reopen peanut sail tragic chimney garden |  
+| bip_39_word_space_8 | metal reopen peanut sail tragic chimney garden payment |  
+| bip_39_word_space_9 | metal reopen peanut sail tragic chimney garden payment swap |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

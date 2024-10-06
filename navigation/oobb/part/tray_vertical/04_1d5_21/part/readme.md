@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrestle funny
+  * bip 39 word 3: wrestle funny fork
+  * bip 39 word: wrestle funny fork hint ranch pudding enrich month chaos mixed brief abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wrestle |  
+| bip_39_word_new_br10 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding<br>enrich<br>month<br>chaos<br>mixed |  
+| bip_39_word_new_br11 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding<br>enrich<br>month<br>chaos<br>mixed<br>brief |  
+| bip_39_word_new_br12 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding<br>enrich<br>month<br>chaos<br>mixed<br>brief<br>abuse |  
+| bip_39_word_new_br2 | wrestle<br>funny |  
+| bip_39_word_new_br3 | wrestle<br>funny<br>fork |  
+| bip_39_word_new_br4 | wrestle<br>funny<br>fork<br>hint |  
+| bip_39_word_new_br5 | wrestle<br>funny<br>fork<br>hint<br>ranch |  
+| bip_39_word_new_br6 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding |  
+| bip_39_word_new_br7 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding<br>enrich |  
+| bip_39_word_new_br8 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding<br>enrich<br>month |  
+| bip_39_word_new_br9 | wrestle<br>funny<br>fork<br>hint<br>ranch<br>pudding<br>enrich<br>month<br>chaos |  
+| bip_39_word_new_line1 | wrestle |  
+| bip_39_word_new_line10 | wrestle
+funny
+fork
+hint
+ranch
+pudding
+enrich
+month
+chaos
+mixed |  
+| bip_39_word_new_line11 | wrestle
+funny
+fork
+hint
+ranch
+pudding
+enrich
+month
+chaos
+mixed
+brief |  
+| bip_39_word_new_line12 | wrestle
+funny
+fork
+hint
+ranch
+pudding
+enrich
+month
+chaos
+mixed
+brief
+abuse |  
+| bip_39_word_new_line2 | wrestle
+funny |  
+| bip_39_word_new_line3 | wrestle
+funny
+fork |  
+| bip_39_word_new_line4 | wrestle
+funny
+fork
+hint |  
+| bip_39_word_new_line5 | wrestle
+funny
+fork
+hint
+ranch |  
+| bip_39_word_new_line6 | wrestle
+funny
+fork
+hint
+ranch
+pudding |  
+| bip_39_word_new_line7 | wrestle
+funny
+fork
+hint
+ranch
+pudding
+enrich |  
+| bip_39_word_new_line8 | wrestle
+funny
+fork
+hint
+ranch
+pudding
+enrich
+month |  
+| bip_39_word_new_line9 | wrestle
+funny
+fork
+hint
+ranch
+pudding
+enrich
+month
+chaos |  
+| bip_39_word_space_0 | ['wrestle', 'funny', 'fork', 'hint', 'ranch', 'pudding', 'enrich', 'month', 'chaos', 'mixed', 'brief', 'abuse'] |  
+| bip_39_word_space_1 | wrestle |  
+| bip_39_word_space_10 | wrestle funny fork hint ranch pudding enrich month chaos mixed |  
+| bip_39_word_space_11 | wrestle funny fork hint ranch pudding enrich month chaos mixed brief |  
+| bip_39_word_space_12 | wrestle funny fork hint ranch pudding enrich month chaos mixed brief abuse |  
+| bip_39_word_space_2 | wrestle funny |  
+| bip_39_word_space_3 | wrestle funny fork |  
+| bip_39_word_space_4 | wrestle funny fork hint |  
+| bip_39_word_space_5 | wrestle funny fork hint ranch |  
+| bip_39_word_space_6 | wrestle funny fork hint ranch pudding |  
+| bip_39_word_space_7 | wrestle funny fork hint ranch pudding enrich |  
+| bip_39_word_space_8 | wrestle funny fork hint ranch pudding enrich month |  
+| bip_39_word_space_9 | wrestle funny fork hint ranch pudding enrich month chaos |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

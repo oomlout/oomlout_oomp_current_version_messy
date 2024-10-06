@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: series link
+  * bip 39 word 3: series link width
+  * bip 39 word: series link width that century planet order series escape square change aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | series |  
+| bip_39_word_new_br10 | series<br>link<br>width<br>that<br>century<br>planet<br>order<br>series<br>escape<br>square |  
+| bip_39_word_new_br11 | series<br>link<br>width<br>that<br>century<br>planet<br>order<br>series<br>escape<br>square<br>change |  
+| bip_39_word_new_br12 | series<br>link<br>width<br>that<br>century<br>planet<br>order<br>series<br>escape<br>square<br>change<br>aim |  
+| bip_39_word_new_br2 | series<br>link |  
+| bip_39_word_new_br3 | series<br>link<br>width |  
+| bip_39_word_new_br4 | series<br>link<br>width<br>that |  
+| bip_39_word_new_br5 | series<br>link<br>width<br>that<br>century |  
+| bip_39_word_new_br6 | series<br>link<br>width<br>that<br>century<br>planet |  
+| bip_39_word_new_br7 | series<br>link<br>width<br>that<br>century<br>planet<br>order |  
+| bip_39_word_new_br8 | series<br>link<br>width<br>that<br>century<br>planet<br>order<br>series |  
+| bip_39_word_new_br9 | series<br>link<br>width<br>that<br>century<br>planet<br>order<br>series<br>escape |  
+| bip_39_word_new_line1 | series |  
+| bip_39_word_new_line10 | series
+link
+width
+that
+century
+planet
+order
+series
+escape
+square |  
+| bip_39_word_new_line11 | series
+link
+width
+that
+century
+planet
+order
+series
+escape
+square
+change |  
+| bip_39_word_new_line12 | series
+link
+width
+that
+century
+planet
+order
+series
+escape
+square
+change
+aim |  
+| bip_39_word_new_line2 | series
+link |  
+| bip_39_word_new_line3 | series
+link
+width |  
+| bip_39_word_new_line4 | series
+link
+width
+that |  
+| bip_39_word_new_line5 | series
+link
+width
+that
+century |  
+| bip_39_word_new_line6 | series
+link
+width
+that
+century
+planet |  
+| bip_39_word_new_line7 | series
+link
+width
+that
+century
+planet
+order |  
+| bip_39_word_new_line8 | series
+link
+width
+that
+century
+planet
+order
+series |  
+| bip_39_word_new_line9 | series
+link
+width
+that
+century
+planet
+order
+series
+escape |  
+| bip_39_word_space_0 | ['series', 'link', 'width', 'that', 'century', 'planet', 'order', 'series', 'escape', 'square', 'change', 'aim'] |  
+| bip_39_word_space_1 | series |  
+| bip_39_word_space_10 | series link width that century planet order series escape square |  
+| bip_39_word_space_11 | series link width that century planet order series escape square change |  
+| bip_39_word_space_12 | series link width that century planet order series escape square change aim |  
+| bip_39_word_space_2 | series link |  
+| bip_39_word_space_3 | series link width |  
+| bip_39_word_space_4 | series link width that |  
+| bip_39_word_space_5 | series link width that century |  
+| bip_39_word_space_6 | series link width that century planet |  
+| bip_39_word_space_7 | series link width that century planet order |  
+| bip_39_word_space_8 | series link width that century planet order series |  
+| bip_39_word_space_9 | series link width that century planet order series escape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

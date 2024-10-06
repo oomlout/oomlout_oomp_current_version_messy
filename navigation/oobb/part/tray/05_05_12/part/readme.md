@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pole route
+  * bip 39 word 3: pole route until
+  * bip 39 word: pole route until grape basic wagon nominee sand feed weapon leaf above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pole |  
+| bip_39_word_new_br10 | pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed<br>weapon |  
+| bip_39_word_new_br11 | pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed<br>weapon<br>leaf |  
+| bip_39_word_new_br12 | pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed<br>weapon<br>leaf<br>above |  
+| bip_39_word_new_br2 | pole<br>route |  
+| bip_39_word_new_br3 | pole<br>route<br>until |  
+| bip_39_word_new_br4 | pole<br>route<br>until<br>grape |  
+| bip_39_word_new_br5 | pole<br>route<br>until<br>grape<br>basic |  
+| bip_39_word_new_br6 | pole<br>route<br>until<br>grape<br>basic<br>wagon |  
+| bip_39_word_new_br7 | pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee |  
+| bip_39_word_new_br8 | pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand |  
+| bip_39_word_new_br9 | pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed |  
+| bip_39_word_new_line1 | pole |  
+| bip_39_word_new_line10 | pole
+route
+until
+grape
+basic
+wagon
+nominee
+sand
+feed
+weapon |  
+| bip_39_word_new_line11 | pole
+route
+until
+grape
+basic
+wagon
+nominee
+sand
+feed
+weapon
+leaf |  
+| bip_39_word_new_line12 | pole
+route
+until
+grape
+basic
+wagon
+nominee
+sand
+feed
+weapon
+leaf
+above |  
+| bip_39_word_new_line2 | pole
+route |  
+| bip_39_word_new_line3 | pole
+route
+until |  
+| bip_39_word_new_line4 | pole
+route
+until
+grape |  
+| bip_39_word_new_line5 | pole
+route
+until
+grape
+basic |  
+| bip_39_word_new_line6 | pole
+route
+until
+grape
+basic
+wagon |  
+| bip_39_word_new_line7 | pole
+route
+until
+grape
+basic
+wagon
+nominee |  
+| bip_39_word_new_line8 | pole
+route
+until
+grape
+basic
+wagon
+nominee
+sand |  
+| bip_39_word_new_line9 | pole
+route
+until
+grape
+basic
+wagon
+nominee
+sand
+feed |  
+| bip_39_word_space_0 | ['pole', 'route', 'until', 'grape', 'basic', 'wagon', 'nominee', 'sand', 'feed', 'weapon', 'leaf', 'above'] |  
+| bip_39_word_space_1 | pole |  
+| bip_39_word_space_10 | pole route until grape basic wagon nominee sand feed weapon |  
+| bip_39_word_space_11 | pole route until grape basic wagon nominee sand feed weapon leaf |  
+| bip_39_word_space_12 | pole route until grape basic wagon nominee sand feed weapon leaf above |  
+| bip_39_word_space_2 | pole route |  
+| bip_39_word_space_3 | pole route until |  
+| bip_39_word_space_4 | pole route until grape |  
+| bip_39_word_space_5 | pole route until grape basic |  
+| bip_39_word_space_6 | pole route until grape basic wagon |  
+| bip_39_word_space_7 | pole route until grape basic wagon nominee |  
+| bip_39_word_space_8 | pole route until grape basic wagon nominee sand |  
+| bip_39_word_space_9 | pole route until grape basic wagon nominee sand feed |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

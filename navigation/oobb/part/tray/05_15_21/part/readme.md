@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skin tent
+  * bip 39 word 3: skin tent valid
+  * bip 39 word: skin tent valid dinosaur wonder chunk soon street swing stairs antenna approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skin |  
+| bip_39_word_new_br10 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk<br>soon<br>street<br>swing<br>stairs |  
+| bip_39_word_new_br11 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk<br>soon<br>street<br>swing<br>stairs<br>antenna |  
+| bip_39_word_new_br12 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk<br>soon<br>street<br>swing<br>stairs<br>antenna<br>approve |  
+| bip_39_word_new_br2 | skin<br>tent |  
+| bip_39_word_new_br3 | skin<br>tent<br>valid |  
+| bip_39_word_new_br4 | skin<br>tent<br>valid<br>dinosaur |  
+| bip_39_word_new_br5 | skin<br>tent<br>valid<br>dinosaur<br>wonder |  
+| bip_39_word_new_br6 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk |  
+| bip_39_word_new_br7 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk<br>soon |  
+| bip_39_word_new_br8 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk<br>soon<br>street |  
+| bip_39_word_new_br9 | skin<br>tent<br>valid<br>dinosaur<br>wonder<br>chunk<br>soon<br>street<br>swing |  
+| bip_39_word_new_line1 | skin |  
+| bip_39_word_new_line10 | skin
+tent
+valid
+dinosaur
+wonder
+chunk
+soon
+street
+swing
+stairs |  
+| bip_39_word_new_line11 | skin
+tent
+valid
+dinosaur
+wonder
+chunk
+soon
+street
+swing
+stairs
+antenna |  
+| bip_39_word_new_line12 | skin
+tent
+valid
+dinosaur
+wonder
+chunk
+soon
+street
+swing
+stairs
+antenna
+approve |  
+| bip_39_word_new_line2 | skin
+tent |  
+| bip_39_word_new_line3 | skin
+tent
+valid |  
+| bip_39_word_new_line4 | skin
+tent
+valid
+dinosaur |  
+| bip_39_word_new_line5 | skin
+tent
+valid
+dinosaur
+wonder |  
+| bip_39_word_new_line6 | skin
+tent
+valid
+dinosaur
+wonder
+chunk |  
+| bip_39_word_new_line7 | skin
+tent
+valid
+dinosaur
+wonder
+chunk
+soon |  
+| bip_39_word_new_line8 | skin
+tent
+valid
+dinosaur
+wonder
+chunk
+soon
+street |  
+| bip_39_word_new_line9 | skin
+tent
+valid
+dinosaur
+wonder
+chunk
+soon
+street
+swing |  
+| bip_39_word_space_0 | ['skin', 'tent', 'valid', 'dinosaur', 'wonder', 'chunk', 'soon', 'street', 'swing', 'stairs', 'antenna', 'approve'] |  
+| bip_39_word_space_1 | skin |  
+| bip_39_word_space_10 | skin tent valid dinosaur wonder chunk soon street swing stairs |  
+| bip_39_word_space_11 | skin tent valid dinosaur wonder chunk soon street swing stairs antenna |  
+| bip_39_word_space_12 | skin tent valid dinosaur wonder chunk soon street swing stairs antenna approve |  
+| bip_39_word_space_2 | skin tent |  
+| bip_39_word_space_3 | skin tent valid |  
+| bip_39_word_space_4 | skin tent valid dinosaur |  
+| bip_39_word_space_5 | skin tent valid dinosaur wonder |  
+| bip_39_word_space_6 | skin tent valid dinosaur wonder chunk |  
+| bip_39_word_space_7 | skin tent valid dinosaur wonder chunk soon |  
+| bip_39_word_space_8 | skin tent valid dinosaur wonder chunk soon street |  
+| bip_39_word_space_9 | skin tent valid dinosaur wonder chunk soon street swing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

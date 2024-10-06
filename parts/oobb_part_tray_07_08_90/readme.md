@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: play draw
+  * bip 39 word 3: play draw muffin
+  * bip 39 word: play draw muffin dress demise motor drip print detail phone lounge alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | play |  
+| bip_39_word_new_br10 | play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone |  
+| bip_39_word_new_br11 | play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge |  
+| bip_39_word_new_br12 | play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge<br>alone |  
+| bip_39_word_new_br2 | play<br>draw |  
+| bip_39_word_new_br3 | play<br>draw<br>muffin |  
+| bip_39_word_new_br4 | play<br>draw<br>muffin<br>dress |  
+| bip_39_word_new_br5 | play<br>draw<br>muffin<br>dress<br>demise |  
+| bip_39_word_new_br6 | play<br>draw<br>muffin<br>dress<br>demise<br>motor |  
+| bip_39_word_new_br7 | play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip |  
+| bip_39_word_new_br8 | play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print |  
+| bip_39_word_new_br9 | play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail |  
+| bip_39_word_new_line1 | play |  
+| bip_39_word_new_line10 | play
+draw
+muffin
+dress
+demise
+motor
+drip
+print
+detail
+phone |  
+| bip_39_word_new_line11 | play
+draw
+muffin
+dress
+demise
+motor
+drip
+print
+detail
+phone
+lounge |  
+| bip_39_word_new_line12 | play
+draw
+muffin
+dress
+demise
+motor
+drip
+print
+detail
+phone
+lounge
+alone |  
+| bip_39_word_new_line2 | play
+draw |  
+| bip_39_word_new_line3 | play
+draw
+muffin |  
+| bip_39_word_new_line4 | play
+draw
+muffin
+dress |  
+| bip_39_word_new_line5 | play
+draw
+muffin
+dress
+demise |  
+| bip_39_word_new_line6 | play
+draw
+muffin
+dress
+demise
+motor |  
+| bip_39_word_new_line7 | play
+draw
+muffin
+dress
+demise
+motor
+drip |  
+| bip_39_word_new_line8 | play
+draw
+muffin
+dress
+demise
+motor
+drip
+print |  
+| bip_39_word_new_line9 | play
+draw
+muffin
+dress
+demise
+motor
+drip
+print
+detail |  
+| bip_39_word_space_0 | ['play', 'draw', 'muffin', 'dress', 'demise', 'motor', 'drip', 'print', 'detail', 'phone', 'lounge', 'alone'] |  
+| bip_39_word_space_1 | play |  
+| bip_39_word_space_10 | play draw muffin dress demise motor drip print detail phone |  
+| bip_39_word_space_11 | play draw muffin dress demise motor drip print detail phone lounge |  
+| bip_39_word_space_12 | play draw muffin dress demise motor drip print detail phone lounge alone |  
+| bip_39_word_space_2 | play draw |  
+| bip_39_word_space_3 | play draw muffin |  
+| bip_39_word_space_4 | play draw muffin dress |  
+| bip_39_word_space_5 | play draw muffin dress demise |  
+| bip_39_word_space_6 | play draw muffin dress demise motor |  
+| bip_39_word_space_7 | play draw muffin dress demise motor drip |  
+| bip_39_word_space_8 | play draw muffin dress demise motor drip print |  
+| bip_39_word_space_9 | play draw muffin dress demise motor drip print detail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

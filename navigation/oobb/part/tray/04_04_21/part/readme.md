@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: echo laundry
+  * bip 39 word 3: echo laundry predict
+  * bip 39 word: echo laundry predict goat cake victory female light grain nephew pet among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | echo |  
+| bip_39_word_new_br10 | echo<br>laundry<br>predict<br>goat<br>cake<br>victory<br>female<br>light<br>grain<br>nephew |  
+| bip_39_word_new_br11 | echo<br>laundry<br>predict<br>goat<br>cake<br>victory<br>female<br>light<br>grain<br>nephew<br>pet |  
+| bip_39_word_new_br12 | echo<br>laundry<br>predict<br>goat<br>cake<br>victory<br>female<br>light<br>grain<br>nephew<br>pet<br>among |  
+| bip_39_word_new_br2 | echo<br>laundry |  
+| bip_39_word_new_br3 | echo<br>laundry<br>predict |  
+| bip_39_word_new_br4 | echo<br>laundry<br>predict<br>goat |  
+| bip_39_word_new_br5 | echo<br>laundry<br>predict<br>goat<br>cake |  
+| bip_39_word_new_br6 | echo<br>laundry<br>predict<br>goat<br>cake<br>victory |  
+| bip_39_word_new_br7 | echo<br>laundry<br>predict<br>goat<br>cake<br>victory<br>female |  
+| bip_39_word_new_br8 | echo<br>laundry<br>predict<br>goat<br>cake<br>victory<br>female<br>light |  
+| bip_39_word_new_br9 | echo<br>laundry<br>predict<br>goat<br>cake<br>victory<br>female<br>light<br>grain |  
+| bip_39_word_new_line1 | echo |  
+| bip_39_word_new_line10 | echo
+laundry
+predict
+goat
+cake
+victory
+female
+light
+grain
+nephew |  
+| bip_39_word_new_line11 | echo
+laundry
+predict
+goat
+cake
+victory
+female
+light
+grain
+nephew
+pet |  
+| bip_39_word_new_line12 | echo
+laundry
+predict
+goat
+cake
+victory
+female
+light
+grain
+nephew
+pet
+among |  
+| bip_39_word_new_line2 | echo
+laundry |  
+| bip_39_word_new_line3 | echo
+laundry
+predict |  
+| bip_39_word_new_line4 | echo
+laundry
+predict
+goat |  
+| bip_39_word_new_line5 | echo
+laundry
+predict
+goat
+cake |  
+| bip_39_word_new_line6 | echo
+laundry
+predict
+goat
+cake
+victory |  
+| bip_39_word_new_line7 | echo
+laundry
+predict
+goat
+cake
+victory
+female |  
+| bip_39_word_new_line8 | echo
+laundry
+predict
+goat
+cake
+victory
+female
+light |  
+| bip_39_word_new_line9 | echo
+laundry
+predict
+goat
+cake
+victory
+female
+light
+grain |  
+| bip_39_word_space_0 | ['echo', 'laundry', 'predict', 'goat', 'cake', 'victory', 'female', 'light', 'grain', 'nephew', 'pet', 'among'] |  
+| bip_39_word_space_1 | echo |  
+| bip_39_word_space_10 | echo laundry predict goat cake victory female light grain nephew |  
+| bip_39_word_space_11 | echo laundry predict goat cake victory female light grain nephew pet |  
+| bip_39_word_space_12 | echo laundry predict goat cake victory female light grain nephew pet among |  
+| bip_39_word_space_2 | echo laundry |  
+| bip_39_word_space_3 | echo laundry predict |  
+| bip_39_word_space_4 | echo laundry predict goat |  
+| bip_39_word_space_5 | echo laundry predict goat cake |  
+| bip_39_word_space_6 | echo laundry predict goat cake victory |  
+| bip_39_word_space_7 | echo laundry predict goat cake victory female |  
+| bip_39_word_space_8 | echo laundry predict goat cake victory female light |  
+| bip_39_word_space_9 | echo laundry predict goat cake victory female light grain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

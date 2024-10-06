@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: illegal album
+  * bip 39 word 3: illegal album onion
+  * bip 39 word: illegal album onion awful pony zebra bird crush strategy keep deliver ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | illegal |  
+| bip_39_word_new_br10 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep |  
+| bip_39_word_new_br11 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep<br>deliver |  
+| bip_39_word_new_br12 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy<br>keep<br>deliver<br>ankle |  
+| bip_39_word_new_br2 | illegal<br>album |  
+| bip_39_word_new_br3 | illegal<br>album<br>onion |  
+| bip_39_word_new_br4 | illegal<br>album<br>onion<br>awful |  
+| bip_39_word_new_br5 | illegal<br>album<br>onion<br>awful<br>pony |  
+| bip_39_word_new_br6 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra |  
+| bip_39_word_new_br7 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird |  
+| bip_39_word_new_br8 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush |  
+| bip_39_word_new_br9 | illegal<br>album<br>onion<br>awful<br>pony<br>zebra<br>bird<br>crush<br>strategy |  
+| bip_39_word_new_line1 | illegal |  
+| bip_39_word_new_line10 | illegal
+album
+onion
+awful
+pony
+zebra
+bird
+crush
+strategy
+keep |  
+| bip_39_word_new_line11 | illegal
+album
+onion
+awful
+pony
+zebra
+bird
+crush
+strategy
+keep
+deliver |  
+| bip_39_word_new_line12 | illegal
+album
+onion
+awful
+pony
+zebra
+bird
+crush
+strategy
+keep
+deliver
+ankle |  
+| bip_39_word_new_line2 | illegal
+album |  
+| bip_39_word_new_line3 | illegal
+album
+onion |  
+| bip_39_word_new_line4 | illegal
+album
+onion
+awful |  
+| bip_39_word_new_line5 | illegal
+album
+onion
+awful
+pony |  
+| bip_39_word_new_line6 | illegal
+album
+onion
+awful
+pony
+zebra |  
+| bip_39_word_new_line7 | illegal
+album
+onion
+awful
+pony
+zebra
+bird |  
+| bip_39_word_new_line8 | illegal
+album
+onion
+awful
+pony
+zebra
+bird
+crush |  
+| bip_39_word_new_line9 | illegal
+album
+onion
+awful
+pony
+zebra
+bird
+crush
+strategy |  
+| bip_39_word_space_0 | ['illegal', 'album', 'onion', 'awful', 'pony', 'zebra', 'bird', 'crush', 'strategy', 'keep', 'deliver', 'ankle'] |  
+| bip_39_word_space_1 | illegal |  
+| bip_39_word_space_10 | illegal album onion awful pony zebra bird crush strategy keep |  
+| bip_39_word_space_11 | illegal album onion awful pony zebra bird crush strategy keep deliver |  
+| bip_39_word_space_12 | illegal album onion awful pony zebra bird crush strategy keep deliver ankle |  
+| bip_39_word_space_2 | illegal album |  
+| bip_39_word_space_3 | illegal album onion |  
+| bip_39_word_space_4 | illegal album onion awful |  
+| bip_39_word_space_5 | illegal album onion awful pony |  
+| bip_39_word_space_6 | illegal album onion awful pony zebra |  
+| bip_39_word_space_7 | illegal album onion awful pony zebra bird |  
+| bip_39_word_space_8 | illegal album onion awful pony zebra bird crush |  
+| bip_39_word_space_9 | illegal album onion awful pony zebra bird crush strategy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

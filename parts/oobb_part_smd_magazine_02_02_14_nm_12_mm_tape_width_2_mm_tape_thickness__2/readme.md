@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grain post
+  * bip 39 word 3: grain post want
+  * bip 39 word: grain post want despair oil renew wolf chair search scale buddy aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grain |  
+| bip_39_word_new_br10 | grain<br>post<br>want<br>despair<br>oil<br>renew<br>wolf<br>chair<br>search<br>scale |  
+| bip_39_word_new_br11 | grain<br>post<br>want<br>despair<br>oil<br>renew<br>wolf<br>chair<br>search<br>scale<br>buddy |  
+| bip_39_word_new_br12 | grain<br>post<br>want<br>despair<br>oil<br>renew<br>wolf<br>chair<br>search<br>scale<br>buddy<br>aunt |  
+| bip_39_word_new_br2 | grain<br>post |  
+| bip_39_word_new_br3 | grain<br>post<br>want |  
+| bip_39_word_new_br4 | grain<br>post<br>want<br>despair |  
+| bip_39_word_new_br5 | grain<br>post<br>want<br>despair<br>oil |  
+| bip_39_word_new_br6 | grain<br>post<br>want<br>despair<br>oil<br>renew |  
+| bip_39_word_new_br7 | grain<br>post<br>want<br>despair<br>oil<br>renew<br>wolf |  
+| bip_39_word_new_br8 | grain<br>post<br>want<br>despair<br>oil<br>renew<br>wolf<br>chair |  
+| bip_39_word_new_br9 | grain<br>post<br>want<br>despair<br>oil<br>renew<br>wolf<br>chair<br>search |  
+| bip_39_word_new_line1 | grain |  
+| bip_39_word_new_line10 | grain
+post
+want
+despair
+oil
+renew
+wolf
+chair
+search
+scale |  
+| bip_39_word_new_line11 | grain
+post
+want
+despair
+oil
+renew
+wolf
+chair
+search
+scale
+buddy |  
+| bip_39_word_new_line12 | grain
+post
+want
+despair
+oil
+renew
+wolf
+chair
+search
+scale
+buddy
+aunt |  
+| bip_39_word_new_line2 | grain
+post |  
+| bip_39_word_new_line3 | grain
+post
+want |  
+| bip_39_word_new_line4 | grain
+post
+want
+despair |  
+| bip_39_word_new_line5 | grain
+post
+want
+despair
+oil |  
+| bip_39_word_new_line6 | grain
+post
+want
+despair
+oil
+renew |  
+| bip_39_word_new_line7 | grain
+post
+want
+despair
+oil
+renew
+wolf |  
+| bip_39_word_new_line8 | grain
+post
+want
+despair
+oil
+renew
+wolf
+chair |  
+| bip_39_word_new_line9 | grain
+post
+want
+despair
+oil
+renew
+wolf
+chair
+search |  
+| bip_39_word_space_0 | ['grain', 'post', 'want', 'despair', 'oil', 'renew', 'wolf', 'chair', 'search', 'scale', 'buddy', 'aunt'] |  
+| bip_39_word_space_1 | grain |  
+| bip_39_word_space_10 | grain post want despair oil renew wolf chair search scale |  
+| bip_39_word_space_11 | grain post want despair oil renew wolf chair search scale buddy |  
+| bip_39_word_space_12 | grain post want despair oil renew wolf chair search scale buddy aunt |  
+| bip_39_word_space_2 | grain post |  
+| bip_39_word_space_3 | grain post want |  
+| bip_39_word_space_4 | grain post want despair |  
+| bip_39_word_space_5 | grain post want despair oil |  
+| bip_39_word_space_6 | grain post want despair oil renew |  
+| bip_39_word_space_7 | grain post want despair oil renew wolf |  
+| bip_39_word_space_8 | grain post want despair oil renew wolf chair |  
+| bip_39_word_space_9 | grain post want despair oil renew wolf chair search |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

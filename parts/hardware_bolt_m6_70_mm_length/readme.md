@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: betray sibling
+  * bip 39 word 3: betray sibling fruit
+  * bip 39 word: betray sibling fruit there firm diagram range disorder crack seven gate aisle
 
 ### other_codes
 * short_code: b6m70
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | betray |  
+| bip_39_word_new_br10 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram<br>range<br>disorder<br>crack<br>seven |  
+| bip_39_word_new_br11 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram<br>range<br>disorder<br>crack<br>seven<br>gate |  
+| bip_39_word_new_br12 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram<br>range<br>disorder<br>crack<br>seven<br>gate<br>aisle |  
+| bip_39_word_new_br2 | betray<br>sibling |  
+| bip_39_word_new_br3 | betray<br>sibling<br>fruit |  
+| bip_39_word_new_br4 | betray<br>sibling<br>fruit<br>there |  
+| bip_39_word_new_br5 | betray<br>sibling<br>fruit<br>there<br>firm |  
+| bip_39_word_new_br6 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram |  
+| bip_39_word_new_br7 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram<br>range |  
+| bip_39_word_new_br8 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram<br>range<br>disorder |  
+| bip_39_word_new_br9 | betray<br>sibling<br>fruit<br>there<br>firm<br>diagram<br>range<br>disorder<br>crack |  
+| bip_39_word_new_line1 | betray |  
+| bip_39_word_new_line10 | betray
+sibling
+fruit
+there
+firm
+diagram
+range
+disorder
+crack
+seven |  
+| bip_39_word_new_line11 | betray
+sibling
+fruit
+there
+firm
+diagram
+range
+disorder
+crack
+seven
+gate |  
+| bip_39_word_new_line12 | betray
+sibling
+fruit
+there
+firm
+diagram
+range
+disorder
+crack
+seven
+gate
+aisle |  
+| bip_39_word_new_line2 | betray
+sibling |  
+| bip_39_word_new_line3 | betray
+sibling
+fruit |  
+| bip_39_word_new_line4 | betray
+sibling
+fruit
+there |  
+| bip_39_word_new_line5 | betray
+sibling
+fruit
+there
+firm |  
+| bip_39_word_new_line6 | betray
+sibling
+fruit
+there
+firm
+diagram |  
+| bip_39_word_new_line7 | betray
+sibling
+fruit
+there
+firm
+diagram
+range |  
+| bip_39_word_new_line8 | betray
+sibling
+fruit
+there
+firm
+diagram
+range
+disorder |  
+| bip_39_word_new_line9 | betray
+sibling
+fruit
+there
+firm
+diagram
+range
+disorder
+crack |  
+| bip_39_word_space_0 | ['betray', 'sibling', 'fruit', 'there', 'firm', 'diagram', 'range', 'disorder', 'crack', 'seven', 'gate', 'aisle'] |  
+| bip_39_word_space_1 | betray |  
+| bip_39_word_space_10 | betray sibling fruit there firm diagram range disorder crack seven |  
+| bip_39_word_space_11 | betray sibling fruit there firm diagram range disorder crack seven gate |  
+| bip_39_word_space_12 | betray sibling fruit there firm diagram range disorder crack seven gate aisle |  
+| bip_39_word_space_2 | betray sibling |  
+| bip_39_word_space_3 | betray sibling fruit |  
+| bip_39_word_space_4 | betray sibling fruit there |  
+| bip_39_word_space_5 | betray sibling fruit there firm |  
+| bip_39_word_space_6 | betray sibling fruit there firm diagram |  
+| bip_39_word_space_7 | betray sibling fruit there firm diagram range |  
+| bip_39_word_space_8 | betray sibling fruit there firm diagram range disorder |  
+| bip_39_word_space_9 | betray sibling fruit there firm diagram range disorder crack |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

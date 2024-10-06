@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 30_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cushion flame
+  * bip 39 word 3: cushion flame paper
+  * bip 39 word: cushion flame paper before toddler squeeze bird strike hip ribbon rotate advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cushion |  
+| bip_39_word_new_br10 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip<br>ribbon |  
+| bip_39_word_new_br11 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip<br>ribbon<br>rotate |  
+| bip_39_word_new_br12 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip<br>ribbon<br>rotate<br>advance |  
+| bip_39_word_new_br2 | cushion<br>flame |  
+| bip_39_word_new_br3 | cushion<br>flame<br>paper |  
+| bip_39_word_new_br4 | cushion<br>flame<br>paper<br>before |  
+| bip_39_word_new_br5 | cushion<br>flame<br>paper<br>before<br>toddler |  
+| bip_39_word_new_br6 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze |  
+| bip_39_word_new_br7 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird |  
+| bip_39_word_new_br8 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike |  
+| bip_39_word_new_br9 | cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip |  
+| bip_39_word_new_line1 | cushion |  
+| bip_39_word_new_line10 | cushion
+flame
+paper
+before
+toddler
+squeeze
+bird
+strike
+hip
+ribbon |  
+| bip_39_word_new_line11 | cushion
+flame
+paper
+before
+toddler
+squeeze
+bird
+strike
+hip
+ribbon
+rotate |  
+| bip_39_word_new_line12 | cushion
+flame
+paper
+before
+toddler
+squeeze
+bird
+strike
+hip
+ribbon
+rotate
+advance |  
+| bip_39_word_new_line2 | cushion
+flame |  
+| bip_39_word_new_line3 | cushion
+flame
+paper |  
+| bip_39_word_new_line4 | cushion
+flame
+paper
+before |  
+| bip_39_word_new_line5 | cushion
+flame
+paper
+before
+toddler |  
+| bip_39_word_new_line6 | cushion
+flame
+paper
+before
+toddler
+squeeze |  
+| bip_39_word_new_line7 | cushion
+flame
+paper
+before
+toddler
+squeeze
+bird |  
+| bip_39_word_new_line8 | cushion
+flame
+paper
+before
+toddler
+squeeze
+bird
+strike |  
+| bip_39_word_new_line9 | cushion
+flame
+paper
+before
+toddler
+squeeze
+bird
+strike
+hip |  
+| bip_39_word_space_0 | ['cushion', 'flame', 'paper', 'before', 'toddler', 'squeeze', 'bird', 'strike', 'hip', 'ribbon', 'rotate', 'advance'] |  
+| bip_39_word_space_1 | cushion |  
+| bip_39_word_space_10 | cushion flame paper before toddler squeeze bird strike hip ribbon |  
+| bip_39_word_space_11 | cushion flame paper before toddler squeeze bird strike hip ribbon rotate |  
+| bip_39_word_space_12 | cushion flame paper before toddler squeeze bird strike hip ribbon rotate advance |  
+| bip_39_word_space_2 | cushion flame |  
+| bip_39_word_space_3 | cushion flame paper |  
+| bip_39_word_space_4 | cushion flame paper before |  
+| bip_39_word_space_5 | cushion flame paper before toddler |  
+| bip_39_word_space_6 | cushion flame paper before toddler squeeze |  
+| bip_39_word_space_7 | cushion flame paper before toddler squeeze bird |  
+| bip_39_word_space_8 | cushion flame paper before toddler squeeze bird strike |  
+| bip_39_word_space_9 | cushion flame paper before toddler squeeze bird strike hip |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

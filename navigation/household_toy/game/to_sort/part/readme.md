@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: total shrimp
+  * bip 39 word 3: total shrimp inside
+  * bip 39 word: total shrimp inside slight angry cushion task frost together toddler spoil accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | total |  
+| bip_39_word_new_br10 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task<br>frost<br>together<br>toddler |  
+| bip_39_word_new_br11 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task<br>frost<br>together<br>toddler<br>spoil |  
+| bip_39_word_new_br12 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task<br>frost<br>together<br>toddler<br>spoil<br>accident |  
+| bip_39_word_new_br2 | total<br>shrimp |  
+| bip_39_word_new_br3 | total<br>shrimp<br>inside |  
+| bip_39_word_new_br4 | total<br>shrimp<br>inside<br>slight |  
+| bip_39_word_new_br5 | total<br>shrimp<br>inside<br>slight<br>angry |  
+| bip_39_word_new_br6 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion |  
+| bip_39_word_new_br7 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task |  
+| bip_39_word_new_br8 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task<br>frost |  
+| bip_39_word_new_br9 | total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task<br>frost<br>together |  
+| bip_39_word_new_line1 | total |  
+| bip_39_word_new_line10 | total
+shrimp
+inside
+slight
+angry
+cushion
+task
+frost
+together
+toddler |  
+| bip_39_word_new_line11 | total
+shrimp
+inside
+slight
+angry
+cushion
+task
+frost
+together
+toddler
+spoil |  
+| bip_39_word_new_line12 | total
+shrimp
+inside
+slight
+angry
+cushion
+task
+frost
+together
+toddler
+spoil
+accident |  
+| bip_39_word_new_line2 | total
+shrimp |  
+| bip_39_word_new_line3 | total
+shrimp
+inside |  
+| bip_39_word_new_line4 | total
+shrimp
+inside
+slight |  
+| bip_39_word_new_line5 | total
+shrimp
+inside
+slight
+angry |  
+| bip_39_word_new_line6 | total
+shrimp
+inside
+slight
+angry
+cushion |  
+| bip_39_word_new_line7 | total
+shrimp
+inside
+slight
+angry
+cushion
+task |  
+| bip_39_word_new_line8 | total
+shrimp
+inside
+slight
+angry
+cushion
+task
+frost |  
+| bip_39_word_new_line9 | total
+shrimp
+inside
+slight
+angry
+cushion
+task
+frost
+together |  
+| bip_39_word_space_0 | ['total', 'shrimp', 'inside', 'slight', 'angry', 'cushion', 'task', 'frost', 'together', 'toddler', 'spoil', 'accident'] |  
+| bip_39_word_space_1 | total |  
+| bip_39_word_space_10 | total shrimp inside slight angry cushion task frost together toddler |  
+| bip_39_word_space_11 | total shrimp inside slight angry cushion task frost together toddler spoil |  
+| bip_39_word_space_12 | total shrimp inside slight angry cushion task frost together toddler spoil accident |  
+| bip_39_word_space_2 | total shrimp |  
+| bip_39_word_space_3 | total shrimp inside |  
+| bip_39_word_space_4 | total shrimp inside slight |  
+| bip_39_word_space_5 | total shrimp inside slight angry |  
+| bip_39_word_space_6 | total shrimp inside slight angry cushion |  
+| bip_39_word_space_7 | total shrimp inside slight angry cushion task |  
+| bip_39_word_space_8 | total shrimp inside slight angry cushion task frost |  
+| bip_39_word_space_9 | total shrimp inside slight angry cushion task frost together |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

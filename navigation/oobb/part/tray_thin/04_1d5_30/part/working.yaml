@@ -1,3 +1,187 @@
+bip_39_word_new_br1: paper
+bip_39_word_new_br10: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool<br>tomorrow<br>ready<br>expose<br>similar
+bip_39_word_new_br11: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool<br>tomorrow<br>ready<br>expose<br>similar<br>clerk
+bip_39_word_new_br12: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool<br>tomorrow<br>ready<br>expose<br>similar<br>clerk<br>avocado
+bip_39_word_new_br2: paper<br>romance
+bip_39_word_new_br3: paper<br>romance<br>evidence
+bip_39_word_new_br4: paper<br>romance<br>evidence<br>scheme
+bip_39_word_new_br5: paper<br>romance<br>evidence<br>scheme<br>remind
+bip_39_word_new_br6: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool
+bip_39_word_new_br7: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool<br>tomorrow
+bip_39_word_new_br8: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool<br>tomorrow<br>ready
+bip_39_word_new_br9: paper<br>romance<br>evidence<br>scheme<br>remind<br>cool<br>tomorrow<br>ready<br>expose
+bip_39_word_new_line1: paper
+bip_39_word_new_line10: 'paper
+
+  romance
+
+  evidence
+
+  scheme
+
+  remind
+
+  cool
+
+  tomorrow
+
+  ready
+
+  expose
+
+  similar'
+bip_39_word_new_line11: 'paper
+
+  romance
+
+  evidence
+
+  scheme
+
+  remind
+
+  cool
+
+  tomorrow
+
+  ready
+
+  expose
+
+  similar
+
+  clerk'
+bip_39_word_new_line12: 'paper
+
+  romance
+
+  evidence
+
+  scheme
+
+  remind
+
+  cool
+
+  tomorrow
+
+  ready
+
+  expose
+
+  similar
+
+  clerk
+
+  avocado'
+bip_39_word_new_line2: 'paper
+
+  romance'
+bip_39_word_new_line3: 'paper
+
+  romance
+
+  evidence'
+bip_39_word_new_line4: 'paper
+
+  romance
+
+  evidence
+
+  scheme'
+bip_39_word_new_line5: 'paper
+
+  romance
+
+  evidence
+
+  scheme
+
+  remind'
+bip_39_word_new_line6: 'paper
+
+  romance
+
+  evidence
+
+  scheme
+
+  remind
+
+  cool'
+bip_39_word_new_line7: 'paper
+
+  romance
+
+  evidence
+
+  scheme
+
+  remind
+
+  cool
+
+  tomorrow'
+bip_39_word_new_line8: 'paper
+
+  romance
+
+  evidence
+
+  scheme
+
+  remind
+
+  cool
+
+  tomorrow
+
+  ready'
+bip_39_word_new_line9: 'paper
+
+  romance
+
+  evidence
+
+  scheme
+
+  remind
+
+  cool
+
+  tomorrow
+
+  ready
+
+  expose'
+bip_39_word_space_0:
+- paper
+- romance
+- evidence
+- scheme
+- remind
+- cool
+- tomorrow
+- ready
+- expose
+- similar
+- clerk
+- avocado
+bip_39_word_space_1: paper
+bip_39_word_space_10: paper romance evidence scheme remind cool tomorrow ready expose
+  similar
+bip_39_word_space_11: paper romance evidence scheme remind cool tomorrow ready expose
+  similar clerk
+bip_39_word_space_12: paper romance evidence scheme remind cool tomorrow ready expose
+  similar clerk avocado
+bip_39_word_space_2: paper romance
+bip_39_word_space_3: paper romance evidence
+bip_39_word_space_4: paper romance evidence scheme
+bip_39_word_space_5: paper romance evidence scheme remind
+bip_39_word_space_6: paper romance evidence scheme remind cool
+bip_39_word_space_7: paper romance evidence scheme remind cool tomorrow
+bip_39_word_space_8: paper romance evidence scheme remind cool tomorrow ready
+bip_39_word_space_9: paper romance evidence scheme remind cool tomorrow ready expose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: old execute
+  * bip 39 word 3: old execute unhappy
+  * bip 39 word: old execute unhappy arctic wink crane chair museum razor pulp armed ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | old |  
+| bip_39_word_new_br10 | old<br>execute<br>unhappy<br>arctic<br>wink<br>crane<br>chair<br>museum<br>razor<br>pulp |  
+| bip_39_word_new_br11 | old<br>execute<br>unhappy<br>arctic<br>wink<br>crane<br>chair<br>museum<br>razor<br>pulp<br>armed |  
+| bip_39_word_new_br12 | old<br>execute<br>unhappy<br>arctic<br>wink<br>crane<br>chair<br>museum<br>razor<br>pulp<br>armed<br>ankle |  
+| bip_39_word_new_br2 | old<br>execute |  
+| bip_39_word_new_br3 | old<br>execute<br>unhappy |  
+| bip_39_word_new_br4 | old<br>execute<br>unhappy<br>arctic |  
+| bip_39_word_new_br5 | old<br>execute<br>unhappy<br>arctic<br>wink |  
+| bip_39_word_new_br6 | old<br>execute<br>unhappy<br>arctic<br>wink<br>crane |  
+| bip_39_word_new_br7 | old<br>execute<br>unhappy<br>arctic<br>wink<br>crane<br>chair |  
+| bip_39_word_new_br8 | old<br>execute<br>unhappy<br>arctic<br>wink<br>crane<br>chair<br>museum |  
+| bip_39_word_new_br9 | old<br>execute<br>unhappy<br>arctic<br>wink<br>crane<br>chair<br>museum<br>razor |  
+| bip_39_word_new_line1 | old |  
+| bip_39_word_new_line10 | old
+execute
+unhappy
+arctic
+wink
+crane
+chair
+museum
+razor
+pulp |  
+| bip_39_word_new_line11 | old
+execute
+unhappy
+arctic
+wink
+crane
+chair
+museum
+razor
+pulp
+armed |  
+| bip_39_word_new_line12 | old
+execute
+unhappy
+arctic
+wink
+crane
+chair
+museum
+razor
+pulp
+armed
+ankle |  
+| bip_39_word_new_line2 | old
+execute |  
+| bip_39_word_new_line3 | old
+execute
+unhappy |  
+| bip_39_word_new_line4 | old
+execute
+unhappy
+arctic |  
+| bip_39_word_new_line5 | old
+execute
+unhappy
+arctic
+wink |  
+| bip_39_word_new_line6 | old
+execute
+unhappy
+arctic
+wink
+crane |  
+| bip_39_word_new_line7 | old
+execute
+unhappy
+arctic
+wink
+crane
+chair |  
+| bip_39_word_new_line8 | old
+execute
+unhappy
+arctic
+wink
+crane
+chair
+museum |  
+| bip_39_word_new_line9 | old
+execute
+unhappy
+arctic
+wink
+crane
+chair
+museum
+razor |  
+| bip_39_word_space_0 | ['old', 'execute', 'unhappy', 'arctic', 'wink', 'crane', 'chair', 'museum', 'razor', 'pulp', 'armed', 'ankle'] |  
+| bip_39_word_space_1 | old |  
+| bip_39_word_space_10 | old execute unhappy arctic wink crane chair museum razor pulp |  
+| bip_39_word_space_11 | old execute unhappy arctic wink crane chair museum razor pulp armed |  
+| bip_39_word_space_12 | old execute unhappy arctic wink crane chair museum razor pulp armed ankle |  
+| bip_39_word_space_2 | old execute |  
+| bip_39_word_space_3 | old execute unhappy |  
+| bip_39_word_space_4 | old execute unhappy arctic |  
+| bip_39_word_space_5 | old execute unhappy arctic wink |  
+| bip_39_word_space_6 | old execute unhappy arctic wink crane |  
+| bip_39_word_space_7 | old execute unhappy arctic wink crane chair |  
+| bip_39_word_space_8 | old execute unhappy arctic wink crane chair museum |  
+| bip_39_word_space_9 | old execute unhappy arctic wink crane chair museum razor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

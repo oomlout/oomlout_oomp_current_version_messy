@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: spacer_extra_mm
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pink dragon
+  * bip 39 word 3: pink dragon cabbage
+  * bip 39 word: pink dragon cabbage electric return staff risk nominee armor rate trouble air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pink |  
+| bip_39_word_new_br10 | pink<br>dragon<br>cabbage<br>electric<br>return<br>staff<br>risk<br>nominee<br>armor<br>rate |  
+| bip_39_word_new_br11 | pink<br>dragon<br>cabbage<br>electric<br>return<br>staff<br>risk<br>nominee<br>armor<br>rate<br>trouble |  
+| bip_39_word_new_br12 | pink<br>dragon<br>cabbage<br>electric<br>return<br>staff<br>risk<br>nominee<br>armor<br>rate<br>trouble<br>air |  
+| bip_39_word_new_br2 | pink<br>dragon |  
+| bip_39_word_new_br3 | pink<br>dragon<br>cabbage |  
+| bip_39_word_new_br4 | pink<br>dragon<br>cabbage<br>electric |  
+| bip_39_word_new_br5 | pink<br>dragon<br>cabbage<br>electric<br>return |  
+| bip_39_word_new_br6 | pink<br>dragon<br>cabbage<br>electric<br>return<br>staff |  
+| bip_39_word_new_br7 | pink<br>dragon<br>cabbage<br>electric<br>return<br>staff<br>risk |  
+| bip_39_word_new_br8 | pink<br>dragon<br>cabbage<br>electric<br>return<br>staff<br>risk<br>nominee |  
+| bip_39_word_new_br9 | pink<br>dragon<br>cabbage<br>electric<br>return<br>staff<br>risk<br>nominee<br>armor |  
+| bip_39_word_new_line1 | pink |  
+| bip_39_word_new_line10 | pink
+dragon
+cabbage
+electric
+return
+staff
+risk
+nominee
+armor
+rate |  
+| bip_39_word_new_line11 | pink
+dragon
+cabbage
+electric
+return
+staff
+risk
+nominee
+armor
+rate
+trouble |  
+| bip_39_word_new_line12 | pink
+dragon
+cabbage
+electric
+return
+staff
+risk
+nominee
+armor
+rate
+trouble
+air |  
+| bip_39_word_new_line2 | pink
+dragon |  
+| bip_39_word_new_line3 | pink
+dragon
+cabbage |  
+| bip_39_word_new_line4 | pink
+dragon
+cabbage
+electric |  
+| bip_39_word_new_line5 | pink
+dragon
+cabbage
+electric
+return |  
+| bip_39_word_new_line6 | pink
+dragon
+cabbage
+electric
+return
+staff |  
+| bip_39_word_new_line7 | pink
+dragon
+cabbage
+electric
+return
+staff
+risk |  
+| bip_39_word_new_line8 | pink
+dragon
+cabbage
+electric
+return
+staff
+risk
+nominee |  
+| bip_39_word_new_line9 | pink
+dragon
+cabbage
+electric
+return
+staff
+risk
+nominee
+armor |  
+| bip_39_word_space_0 | ['pink', 'dragon', 'cabbage', 'electric', 'return', 'staff', 'risk', 'nominee', 'armor', 'rate', 'trouble', 'air'] |  
+| bip_39_word_space_1 | pink |  
+| bip_39_word_space_10 | pink dragon cabbage electric return staff risk nominee armor rate |  
+| bip_39_word_space_11 | pink dragon cabbage electric return staff risk nominee armor rate trouble |  
+| bip_39_word_space_12 | pink dragon cabbage electric return staff risk nominee armor rate trouble air |  
+| bip_39_word_space_2 | pink dragon |  
+| bip_39_word_space_3 | pink dragon cabbage |  
+| bip_39_word_space_4 | pink dragon cabbage electric |  
+| bip_39_word_space_5 | pink dragon cabbage electric return |  
+| bip_39_word_space_6 | pink dragon cabbage electric return staff |  
+| bip_39_word_space_7 | pink dragon cabbage electric return staff risk |  
+| bip_39_word_space_8 | pink dragon cabbage electric return staff risk nominee |  
+| bip_39_word_space_9 | pink dragon cabbage electric return staff risk nominee armor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

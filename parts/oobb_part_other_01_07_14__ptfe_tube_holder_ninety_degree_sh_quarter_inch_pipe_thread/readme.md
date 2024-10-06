@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: income please
+  * bip 39 word 3: income please focus
+  * bip 39 word: income please focus liquid rookie view access because describe because quick aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | income |  
+| bip_39_word_new_br10 | income<br>please<br>focus<br>liquid<br>rookie<br>view<br>access<br>because<br>describe<br>because |  
+| bip_39_word_new_br11 | income<br>please<br>focus<br>liquid<br>rookie<br>view<br>access<br>because<br>describe<br>because<br>quick |  
+| bip_39_word_new_br12 | income<br>please<br>focus<br>liquid<br>rookie<br>view<br>access<br>because<br>describe<br>because<br>quick<br>aspect |  
+| bip_39_word_new_br2 | income<br>please |  
+| bip_39_word_new_br3 | income<br>please<br>focus |  
+| bip_39_word_new_br4 | income<br>please<br>focus<br>liquid |  
+| bip_39_word_new_br5 | income<br>please<br>focus<br>liquid<br>rookie |  
+| bip_39_word_new_br6 | income<br>please<br>focus<br>liquid<br>rookie<br>view |  
+| bip_39_word_new_br7 | income<br>please<br>focus<br>liquid<br>rookie<br>view<br>access |  
+| bip_39_word_new_br8 | income<br>please<br>focus<br>liquid<br>rookie<br>view<br>access<br>because |  
+| bip_39_word_new_br9 | income<br>please<br>focus<br>liquid<br>rookie<br>view<br>access<br>because<br>describe |  
+| bip_39_word_new_line1 | income |  
+| bip_39_word_new_line10 | income
+please
+focus
+liquid
+rookie
+view
+access
+because
+describe
+because |  
+| bip_39_word_new_line11 | income
+please
+focus
+liquid
+rookie
+view
+access
+because
+describe
+because
+quick |  
+| bip_39_word_new_line12 | income
+please
+focus
+liquid
+rookie
+view
+access
+because
+describe
+because
+quick
+aspect |  
+| bip_39_word_new_line2 | income
+please |  
+| bip_39_word_new_line3 | income
+please
+focus |  
+| bip_39_word_new_line4 | income
+please
+focus
+liquid |  
+| bip_39_word_new_line5 | income
+please
+focus
+liquid
+rookie |  
+| bip_39_word_new_line6 | income
+please
+focus
+liquid
+rookie
+view |  
+| bip_39_word_new_line7 | income
+please
+focus
+liquid
+rookie
+view
+access |  
+| bip_39_word_new_line8 | income
+please
+focus
+liquid
+rookie
+view
+access
+because |  
+| bip_39_word_new_line9 | income
+please
+focus
+liquid
+rookie
+view
+access
+because
+describe |  
+| bip_39_word_space_0 | ['income', 'please', 'focus', 'liquid', 'rookie', 'view', 'access', 'because', 'describe', 'because', 'quick', 'aspect'] |  
+| bip_39_word_space_1 | income |  
+| bip_39_word_space_10 | income please focus liquid rookie view access because describe because |  
+| bip_39_word_space_11 | income please focus liquid rookie view access because describe because quick |  
+| bip_39_word_space_12 | income please focus liquid rookie view access because describe because quick aspect |  
+| bip_39_word_space_2 | income please |  
+| bip_39_word_space_3 | income please focus |  
+| bip_39_word_space_4 | income please focus liquid |  
+| bip_39_word_space_5 | income please focus liquid rookie |  
+| bip_39_word_space_6 | income please focus liquid rookie view |  
+| bip_39_word_space_7 | income please focus liquid rookie view access |  
+| bip_39_word_space_8 | income please focus liquid rookie view access because |  
+| bip_39_word_space_9 | income please focus liquid rookie view access because describe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

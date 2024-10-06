@@ -1,3 +1,186 @@
+bip_39_word_new_br1: square
+bip_39_word_new_br10: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo<br>hungry
+bip_39_word_new_br11: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo<br>hungry<br>toast
+bip_39_word_new_br12: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo<br>hungry<br>toast<br>always
+bip_39_word_new_br2: square<br>mention
+bip_39_word_new_br3: square<br>mention<br>claim
+bip_39_word_new_br4: square<br>mention<br>claim<br>magic
+bip_39_word_new_br5: square<br>mention<br>claim<br>magic<br>cruel
+bip_39_word_new_br6: square<br>mention<br>claim<br>magic<br>cruel<br>crop
+bip_39_word_new_br7: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief
+bip_39_word_new_br8: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift
+bip_39_word_new_br9: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo
+bip_39_word_new_line1: square
+bip_39_word_new_line10: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift
+
+  kangaroo
+
+  hungry'
+bip_39_word_new_line11: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift
+
+  kangaroo
+
+  hungry
+
+  toast'
+bip_39_word_new_line12: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift
+
+  kangaroo
+
+  hungry
+
+  toast
+
+  always'
+bip_39_word_new_line2: 'square
+
+  mention'
+bip_39_word_new_line3: 'square
+
+  mention
+
+  claim'
+bip_39_word_new_line4: 'square
+
+  mention
+
+  claim
+
+  magic'
+bip_39_word_new_line5: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel'
+bip_39_word_new_line6: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop'
+bip_39_word_new_line7: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief'
+bip_39_word_new_line8: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift'
+bip_39_word_new_line9: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift
+
+  kangaroo'
+bip_39_word_space_0:
+- square
+- mention
+- claim
+- magic
+- cruel
+- crop
+- grief
+- lift
+- kangaroo
+- hungry
+- toast
+- always
+bip_39_word_space_1: square
+bip_39_word_space_10: square mention claim magic cruel crop grief lift kangaroo hungry
+bip_39_word_space_11: square mention claim magic cruel crop grief lift kangaroo hungry
+  toast
+bip_39_word_space_12: square mention claim magic cruel crop grief lift kangaroo hungry
+  toast always
+bip_39_word_space_2: square mention
+bip_39_word_space_3: square mention claim
+bip_39_word_space_4: square mention claim magic
+bip_39_word_space_5: square mention claim magic cruel
+bip_39_word_space_6: square mention claim magic cruel crop
+bip_39_word_space_7: square mention claim magic cruel crop grief
+bip_39_word_space_8: square mention claim magic cruel crop grief lift
+bip_39_word_space_9: square mention claim magic cruel crop grief lift kangaroo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

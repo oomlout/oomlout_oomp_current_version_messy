@@ -1,3 +1,186 @@
+bip_39_word_new_br1: combine
+bip_39_word_new_br10: combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must
+bip_39_word_new_br11: combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must<br>skirt
+bip_39_word_new_br12: combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric<br>must<br>skirt<br>absurd
+bip_39_word_new_br2: combine<br>sugar
+bip_39_word_new_br3: combine<br>sugar<br>yellow
+bip_39_word_new_br4: combine<br>sugar<br>yellow<br>arch
+bip_39_word_new_br5: combine<br>sugar<br>yellow<br>arch<br>love
+bip_39_word_new_br6: combine<br>sugar<br>yellow<br>arch<br>love<br>scatter
+bip_39_word_new_br7: combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar
+bip_39_word_new_br8: combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy
+bip_39_word_new_br9: combine<br>sugar<br>yellow<br>arch<br>love<br>scatter<br>sugar<br>defy<br>fabric
+bip_39_word_new_line1: combine
+bip_39_word_new_line10: 'combine
+
+  sugar
+
+  yellow
+
+  arch
+
+  love
+
+  scatter
+
+  sugar
+
+  defy
+
+  fabric
+
+  must'
+bip_39_word_new_line11: 'combine
+
+  sugar
+
+  yellow
+
+  arch
+
+  love
+
+  scatter
+
+  sugar
+
+  defy
+
+  fabric
+
+  must
+
+  skirt'
+bip_39_word_new_line12: 'combine
+
+  sugar
+
+  yellow
+
+  arch
+
+  love
+
+  scatter
+
+  sugar
+
+  defy
+
+  fabric
+
+  must
+
+  skirt
+
+  absurd'
+bip_39_word_new_line2: 'combine
+
+  sugar'
+bip_39_word_new_line3: 'combine
+
+  sugar
+
+  yellow'
+bip_39_word_new_line4: 'combine
+
+  sugar
+
+  yellow
+
+  arch'
+bip_39_word_new_line5: 'combine
+
+  sugar
+
+  yellow
+
+  arch
+
+  love'
+bip_39_word_new_line6: 'combine
+
+  sugar
+
+  yellow
+
+  arch
+
+  love
+
+  scatter'
+bip_39_word_new_line7: 'combine
+
+  sugar
+
+  yellow
+
+  arch
+
+  love
+
+  scatter
+
+  sugar'
+bip_39_word_new_line8: 'combine
+
+  sugar
+
+  yellow
+
+  arch
+
+  love
+
+  scatter
+
+  sugar
+
+  defy'
+bip_39_word_new_line9: 'combine
+
+  sugar
+
+  yellow
+
+  arch
+
+  love
+
+  scatter
+
+  sugar
+
+  defy
+
+  fabric'
+bip_39_word_space_0:
+- combine
+- sugar
+- yellow
+- arch
+- love
+- scatter
+- sugar
+- defy
+- fabric
+- must
+- skirt
+- absurd
+bip_39_word_space_1: combine
+bip_39_word_space_10: combine sugar yellow arch love scatter sugar defy fabric must
+bip_39_word_space_11: combine sugar yellow arch love scatter sugar defy fabric must
+  skirt
+bip_39_word_space_12: combine sugar yellow arch love scatter sugar defy fabric must
+  skirt absurd
+bip_39_word_space_2: combine sugar
+bip_39_word_space_3: combine sugar yellow
+bip_39_word_space_4: combine sugar yellow arch
+bip_39_word_space_5: combine sugar yellow arch love
+bip_39_word_space_6: combine sugar yellow arch love scatter
+bip_39_word_space_7: combine sugar yellow arch love scatter sugar
+bip_39_word_space_8: combine sugar yellow arch love scatter sugar defy
+bip_39_word_space_9: combine sugar yellow arch love scatter sugar defy fabric
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

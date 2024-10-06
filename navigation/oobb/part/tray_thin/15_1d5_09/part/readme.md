@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: scheme then
+  * bip 39 word 3: scheme then become
+  * bip 39 word: scheme then become girl question image exile shrug bounce lonely erase arm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | scheme |  
+| bip_39_word_new_br10 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely |  
+| bip_39_word_new_br11 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely<br>erase |  
+| bip_39_word_new_br12 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce<br>lonely<br>erase<br>arm |  
+| bip_39_word_new_br2 | scheme<br>then |  
+| bip_39_word_new_br3 | scheme<br>then<br>become |  
+| bip_39_word_new_br4 | scheme<br>then<br>become<br>girl |  
+| bip_39_word_new_br5 | scheme<br>then<br>become<br>girl<br>question |  
+| bip_39_word_new_br6 | scheme<br>then<br>become<br>girl<br>question<br>image |  
+| bip_39_word_new_br7 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile |  
+| bip_39_word_new_br8 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug |  
+| bip_39_word_new_br9 | scheme<br>then<br>become<br>girl<br>question<br>image<br>exile<br>shrug<br>bounce |  
+| bip_39_word_new_line1 | scheme |  
+| bip_39_word_new_line10 | scheme
+then
+become
+girl
+question
+image
+exile
+shrug
+bounce
+lonely |  
+| bip_39_word_new_line11 | scheme
+then
+become
+girl
+question
+image
+exile
+shrug
+bounce
+lonely
+erase |  
+| bip_39_word_new_line12 | scheme
+then
+become
+girl
+question
+image
+exile
+shrug
+bounce
+lonely
+erase
+arm |  
+| bip_39_word_new_line2 | scheme
+then |  
+| bip_39_word_new_line3 | scheme
+then
+become |  
+| bip_39_word_new_line4 | scheme
+then
+become
+girl |  
+| bip_39_word_new_line5 | scheme
+then
+become
+girl
+question |  
+| bip_39_word_new_line6 | scheme
+then
+become
+girl
+question
+image |  
+| bip_39_word_new_line7 | scheme
+then
+become
+girl
+question
+image
+exile |  
+| bip_39_word_new_line8 | scheme
+then
+become
+girl
+question
+image
+exile
+shrug |  
+| bip_39_word_new_line9 | scheme
+then
+become
+girl
+question
+image
+exile
+shrug
+bounce |  
+| bip_39_word_space_0 | ['scheme', 'then', 'become', 'girl', 'question', 'image', 'exile', 'shrug', 'bounce', 'lonely', 'erase', 'arm'] |  
+| bip_39_word_space_1 | scheme |  
+| bip_39_word_space_10 | scheme then become girl question image exile shrug bounce lonely |  
+| bip_39_word_space_11 | scheme then become girl question image exile shrug bounce lonely erase |  
+| bip_39_word_space_12 | scheme then become girl question image exile shrug bounce lonely erase arm |  
+| bip_39_word_space_2 | scheme then |  
+| bip_39_word_space_3 | scheme then become |  
+| bip_39_word_space_4 | scheme then become girl |  
+| bip_39_word_space_5 | scheme then become girl question |  
+| bip_39_word_space_6 | scheme then become girl question image |  
+| bip_39_word_space_7 | scheme then become girl question image exile |  
+| bip_39_word_space_8 | scheme then become girl question image exile shrug |  
+| bip_39_word_space_9 | scheme then become girl question image exile shrug bounce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crater express
+  * bip 39 word 3: crater express enough
+  * bip 39 word: crater express enough spider smooth certain woman mandate retire million exercise assault
 
 ### other_codes
 * short_code: br61828
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crater |  
+| bip_39_word_new_br10 | crater<br>express<br>enough<br>spider<br>smooth<br>certain<br>woman<br>mandate<br>retire<br>million |  
+| bip_39_word_new_br11 | crater<br>express<br>enough<br>spider<br>smooth<br>certain<br>woman<br>mandate<br>retire<br>million<br>exercise |  
+| bip_39_word_new_br12 | crater<br>express<br>enough<br>spider<br>smooth<br>certain<br>woman<br>mandate<br>retire<br>million<br>exercise<br>assault |  
+| bip_39_word_new_br2 | crater<br>express |  
+| bip_39_word_new_br3 | crater<br>express<br>enough |  
+| bip_39_word_new_br4 | crater<br>express<br>enough<br>spider |  
+| bip_39_word_new_br5 | crater<br>express<br>enough<br>spider<br>smooth |  
+| bip_39_word_new_br6 | crater<br>express<br>enough<br>spider<br>smooth<br>certain |  
+| bip_39_word_new_br7 | crater<br>express<br>enough<br>spider<br>smooth<br>certain<br>woman |  
+| bip_39_word_new_br8 | crater<br>express<br>enough<br>spider<br>smooth<br>certain<br>woman<br>mandate |  
+| bip_39_word_new_br9 | crater<br>express<br>enough<br>spider<br>smooth<br>certain<br>woman<br>mandate<br>retire |  
+| bip_39_word_new_line1 | crater |  
+| bip_39_word_new_line10 | crater
+express
+enough
+spider
+smooth
+certain
+woman
+mandate
+retire
+million |  
+| bip_39_word_new_line11 | crater
+express
+enough
+spider
+smooth
+certain
+woman
+mandate
+retire
+million
+exercise |  
+| bip_39_word_new_line12 | crater
+express
+enough
+spider
+smooth
+certain
+woman
+mandate
+retire
+million
+exercise
+assault |  
+| bip_39_word_new_line2 | crater
+express |  
+| bip_39_word_new_line3 | crater
+express
+enough |  
+| bip_39_word_new_line4 | crater
+express
+enough
+spider |  
+| bip_39_word_new_line5 | crater
+express
+enough
+spider
+smooth |  
+| bip_39_word_new_line6 | crater
+express
+enough
+spider
+smooth
+certain |  
+| bip_39_word_new_line7 | crater
+express
+enough
+spider
+smooth
+certain
+woman |  
+| bip_39_word_new_line8 | crater
+express
+enough
+spider
+smooth
+certain
+woman
+mandate |  
+| bip_39_word_new_line9 | crater
+express
+enough
+spider
+smooth
+certain
+woman
+mandate
+retire |  
+| bip_39_word_space_0 | ['crater', 'express', 'enough', 'spider', 'smooth', 'certain', 'woman', 'mandate', 'retire', 'million', 'exercise', 'assault'] |  
+| bip_39_word_space_1 | crater |  
+| bip_39_word_space_10 | crater express enough spider smooth certain woman mandate retire million |  
+| bip_39_word_space_11 | crater express enough spider smooth certain woman mandate retire million exercise |  
+| bip_39_word_space_12 | crater express enough spider smooth certain woman mandate retire million exercise assault |  
+| bip_39_word_space_2 | crater express |  
+| bip_39_word_space_3 | crater express enough |  
+| bip_39_word_space_4 | crater express enough spider |  
+| bip_39_word_space_5 | crater express enough spider smooth |  
+| bip_39_word_space_6 | crater express enough spider smooth certain |  
+| bip_39_word_space_7 | crater express enough spider smooth certain woman |  
+| bip_39_word_space_8 | crater express enough spider smooth certain woman mandate |  
+| bip_39_word_space_9 | crater express enough spider smooth certain woman mandate retire |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

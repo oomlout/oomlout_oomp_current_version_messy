@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: miracle tourist
+  * bip 39 word 3: miracle tourist raw
+  * bip 39 word: miracle tourist raw mad soon fork rent cupboard small shed agent armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | miracle |  
+| bip_39_word_new_br10 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork<br>rent<br>cupboard<br>small<br>shed |  
+| bip_39_word_new_br11 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork<br>rent<br>cupboard<br>small<br>shed<br>agent |  
+| bip_39_word_new_br12 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork<br>rent<br>cupboard<br>small<br>shed<br>agent<br>armed |  
+| bip_39_word_new_br2 | miracle<br>tourist |  
+| bip_39_word_new_br3 | miracle<br>tourist<br>raw |  
+| bip_39_word_new_br4 | miracle<br>tourist<br>raw<br>mad |  
+| bip_39_word_new_br5 | miracle<br>tourist<br>raw<br>mad<br>soon |  
+| bip_39_word_new_br6 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork |  
+| bip_39_word_new_br7 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork<br>rent |  
+| bip_39_word_new_br8 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork<br>rent<br>cupboard |  
+| bip_39_word_new_br9 | miracle<br>tourist<br>raw<br>mad<br>soon<br>fork<br>rent<br>cupboard<br>small |  
+| bip_39_word_new_line1 | miracle |  
+| bip_39_word_new_line10 | miracle
+tourist
+raw
+mad
+soon
+fork
+rent
+cupboard
+small
+shed |  
+| bip_39_word_new_line11 | miracle
+tourist
+raw
+mad
+soon
+fork
+rent
+cupboard
+small
+shed
+agent |  
+| bip_39_word_new_line12 | miracle
+tourist
+raw
+mad
+soon
+fork
+rent
+cupboard
+small
+shed
+agent
+armed |  
+| bip_39_word_new_line2 | miracle
+tourist |  
+| bip_39_word_new_line3 | miracle
+tourist
+raw |  
+| bip_39_word_new_line4 | miracle
+tourist
+raw
+mad |  
+| bip_39_word_new_line5 | miracle
+tourist
+raw
+mad
+soon |  
+| bip_39_word_new_line6 | miracle
+tourist
+raw
+mad
+soon
+fork |  
+| bip_39_word_new_line7 | miracle
+tourist
+raw
+mad
+soon
+fork
+rent |  
+| bip_39_word_new_line8 | miracle
+tourist
+raw
+mad
+soon
+fork
+rent
+cupboard |  
+| bip_39_word_new_line9 | miracle
+tourist
+raw
+mad
+soon
+fork
+rent
+cupboard
+small |  
+| bip_39_word_space_0 | ['miracle', 'tourist', 'raw', 'mad', 'soon', 'fork', 'rent', 'cupboard', 'small', 'shed', 'agent', 'armed'] |  
+| bip_39_word_space_1 | miracle |  
+| bip_39_word_space_10 | miracle tourist raw mad soon fork rent cupboard small shed |  
+| bip_39_word_space_11 | miracle tourist raw mad soon fork rent cupboard small shed agent |  
+| bip_39_word_space_12 | miracle tourist raw mad soon fork rent cupboard small shed agent armed |  
+| bip_39_word_space_2 | miracle tourist |  
+| bip_39_word_space_3 | miracle tourist raw |  
+| bip_39_word_space_4 | miracle tourist raw mad |  
+| bip_39_word_space_5 | miracle tourist raw mad soon |  
+| bip_39_word_space_6 | miracle tourist raw mad soon fork |  
+| bip_39_word_space_7 | miracle tourist raw mad soon fork rent |  
+| bip_39_word_space_8 | miracle tourist raw mad soon fork rent cupboard |  
+| bip_39_word_space_9 | miracle tourist raw mad soon fork rent cupboard small |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

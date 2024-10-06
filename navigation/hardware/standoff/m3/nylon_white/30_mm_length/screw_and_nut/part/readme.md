@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: educate gloom
+  * bip 39 word 3: educate gloom entry
+  * bip 39 word: educate gloom entry tilt siren print embrace response gadget lemon peace arch
 
 ### other_codes
 * short_code: so3nw30sn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | educate |  
+| bip_39_word_new_br10 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon |  
+| bip_39_word_new_br11 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon<br>peace |  
+| bip_39_word_new_br12 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget<br>lemon<br>peace<br>arch |  
+| bip_39_word_new_br2 | educate<br>gloom |  
+| bip_39_word_new_br3 | educate<br>gloom<br>entry |  
+| bip_39_word_new_br4 | educate<br>gloom<br>entry<br>tilt |  
+| bip_39_word_new_br5 | educate<br>gloom<br>entry<br>tilt<br>siren |  
+| bip_39_word_new_br6 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print |  
+| bip_39_word_new_br7 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace |  
+| bip_39_word_new_br8 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response |  
+| bip_39_word_new_br9 | educate<br>gloom<br>entry<br>tilt<br>siren<br>print<br>embrace<br>response<br>gadget |  
+| bip_39_word_new_line1 | educate |  
+| bip_39_word_new_line10 | educate
+gloom
+entry
+tilt
+siren
+print
+embrace
+response
+gadget
+lemon |  
+| bip_39_word_new_line11 | educate
+gloom
+entry
+tilt
+siren
+print
+embrace
+response
+gadget
+lemon
+peace |  
+| bip_39_word_new_line12 | educate
+gloom
+entry
+tilt
+siren
+print
+embrace
+response
+gadget
+lemon
+peace
+arch |  
+| bip_39_word_new_line2 | educate
+gloom |  
+| bip_39_word_new_line3 | educate
+gloom
+entry |  
+| bip_39_word_new_line4 | educate
+gloom
+entry
+tilt |  
+| bip_39_word_new_line5 | educate
+gloom
+entry
+tilt
+siren |  
+| bip_39_word_new_line6 | educate
+gloom
+entry
+tilt
+siren
+print |  
+| bip_39_word_new_line7 | educate
+gloom
+entry
+tilt
+siren
+print
+embrace |  
+| bip_39_word_new_line8 | educate
+gloom
+entry
+tilt
+siren
+print
+embrace
+response |  
+| bip_39_word_new_line9 | educate
+gloom
+entry
+tilt
+siren
+print
+embrace
+response
+gadget |  
+| bip_39_word_space_0 | ['educate', 'gloom', 'entry', 'tilt', 'siren', 'print', 'embrace', 'response', 'gadget', 'lemon', 'peace', 'arch'] |  
+| bip_39_word_space_1 | educate |  
+| bip_39_word_space_10 | educate gloom entry tilt siren print embrace response gadget lemon |  
+| bip_39_word_space_11 | educate gloom entry tilt siren print embrace response gadget lemon peace |  
+| bip_39_word_space_12 | educate gloom entry tilt siren print embrace response gadget lemon peace arch |  
+| bip_39_word_space_2 | educate gloom |  
+| bip_39_word_space_3 | educate gloom entry |  
+| bip_39_word_space_4 | educate gloom entry tilt |  
+| bip_39_word_space_5 | educate gloom entry tilt siren |  
+| bip_39_word_space_6 | educate gloom entry tilt siren print |  
+| bip_39_word_space_7 | educate gloom entry tilt siren print embrace |  
+| bip_39_word_space_8 | educate gloom entry tilt siren print embrace response |  
+| bip_39_word_space_9 | educate gloom entry tilt siren print embrace response gadget |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

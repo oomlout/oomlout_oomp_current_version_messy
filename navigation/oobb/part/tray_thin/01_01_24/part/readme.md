@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: accuse bless
+  * bip 39 word 3: accuse bless expire
+  * bip 39 word: accuse bless expire banner consider six trim lumber permit leisure disease atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | accuse |  
+| bip_39_word_new_br10 | accuse<br>bless<br>expire<br>banner<br>consider<br>six<br>trim<br>lumber<br>permit<br>leisure |  
+| bip_39_word_new_br11 | accuse<br>bless<br>expire<br>banner<br>consider<br>six<br>trim<br>lumber<br>permit<br>leisure<br>disease |  
+| bip_39_word_new_br12 | accuse<br>bless<br>expire<br>banner<br>consider<br>six<br>trim<br>lumber<br>permit<br>leisure<br>disease<br>atom |  
+| bip_39_word_new_br2 | accuse<br>bless |  
+| bip_39_word_new_br3 | accuse<br>bless<br>expire |  
+| bip_39_word_new_br4 | accuse<br>bless<br>expire<br>banner |  
+| bip_39_word_new_br5 | accuse<br>bless<br>expire<br>banner<br>consider |  
+| bip_39_word_new_br6 | accuse<br>bless<br>expire<br>banner<br>consider<br>six |  
+| bip_39_word_new_br7 | accuse<br>bless<br>expire<br>banner<br>consider<br>six<br>trim |  
+| bip_39_word_new_br8 | accuse<br>bless<br>expire<br>banner<br>consider<br>six<br>trim<br>lumber |  
+| bip_39_word_new_br9 | accuse<br>bless<br>expire<br>banner<br>consider<br>six<br>trim<br>lumber<br>permit |  
+| bip_39_word_new_line1 | accuse |  
+| bip_39_word_new_line10 | accuse
+bless
+expire
+banner
+consider
+six
+trim
+lumber
+permit
+leisure |  
+| bip_39_word_new_line11 | accuse
+bless
+expire
+banner
+consider
+six
+trim
+lumber
+permit
+leisure
+disease |  
+| bip_39_word_new_line12 | accuse
+bless
+expire
+banner
+consider
+six
+trim
+lumber
+permit
+leisure
+disease
+atom |  
+| bip_39_word_new_line2 | accuse
+bless |  
+| bip_39_word_new_line3 | accuse
+bless
+expire |  
+| bip_39_word_new_line4 | accuse
+bless
+expire
+banner |  
+| bip_39_word_new_line5 | accuse
+bless
+expire
+banner
+consider |  
+| bip_39_word_new_line6 | accuse
+bless
+expire
+banner
+consider
+six |  
+| bip_39_word_new_line7 | accuse
+bless
+expire
+banner
+consider
+six
+trim |  
+| bip_39_word_new_line8 | accuse
+bless
+expire
+banner
+consider
+six
+trim
+lumber |  
+| bip_39_word_new_line9 | accuse
+bless
+expire
+banner
+consider
+six
+trim
+lumber
+permit |  
+| bip_39_word_space_0 | ['accuse', 'bless', 'expire', 'banner', 'consider', 'six', 'trim', 'lumber', 'permit', 'leisure', 'disease', 'atom'] |  
+| bip_39_word_space_1 | accuse |  
+| bip_39_word_space_10 | accuse bless expire banner consider six trim lumber permit leisure |  
+| bip_39_word_space_11 | accuse bless expire banner consider six trim lumber permit leisure disease |  
+| bip_39_word_space_12 | accuse bless expire banner consider six trim lumber permit leisure disease atom |  
+| bip_39_word_space_2 | accuse bless |  
+| bip_39_word_space_3 | accuse bless expire |  
+| bip_39_word_space_4 | accuse bless expire banner |  
+| bip_39_word_space_5 | accuse bless expire banner consider |  
+| bip_39_word_space_6 | accuse bless expire banner consider six |  
+| bip_39_word_space_7 | accuse bless expire banner consider six trim |  
+| bip_39_word_space_8 | accuse bless expire banner consider six trim lumber |  
+| bip_39_word_space_9 | accuse bless expire banner consider six trim lumber permit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

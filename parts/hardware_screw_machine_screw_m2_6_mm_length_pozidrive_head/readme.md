@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gauge stairs
+  * bip 39 word 3: gauge stairs pottery
+  * bip 39 word: gauge stairs pottery member decorate manual educate regret stove city jar arch
 
 ### other_codes
 * short_code: ms2m6pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gauge |  
+| bip_39_word_new_br10 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual<br>educate<br>regret<br>stove<br>city |  
+| bip_39_word_new_br11 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual<br>educate<br>regret<br>stove<br>city<br>jar |  
+| bip_39_word_new_br12 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual<br>educate<br>regret<br>stove<br>city<br>jar<br>arch |  
+| bip_39_word_new_br2 | gauge<br>stairs |  
+| bip_39_word_new_br3 | gauge<br>stairs<br>pottery |  
+| bip_39_word_new_br4 | gauge<br>stairs<br>pottery<br>member |  
+| bip_39_word_new_br5 | gauge<br>stairs<br>pottery<br>member<br>decorate |  
+| bip_39_word_new_br6 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual |  
+| bip_39_word_new_br7 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual<br>educate |  
+| bip_39_word_new_br8 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual<br>educate<br>regret |  
+| bip_39_word_new_br9 | gauge<br>stairs<br>pottery<br>member<br>decorate<br>manual<br>educate<br>regret<br>stove |  
+| bip_39_word_new_line1 | gauge |  
+| bip_39_word_new_line10 | gauge
+stairs
+pottery
+member
+decorate
+manual
+educate
+regret
+stove
+city |  
+| bip_39_word_new_line11 | gauge
+stairs
+pottery
+member
+decorate
+manual
+educate
+regret
+stove
+city
+jar |  
+| bip_39_word_new_line12 | gauge
+stairs
+pottery
+member
+decorate
+manual
+educate
+regret
+stove
+city
+jar
+arch |  
+| bip_39_word_new_line2 | gauge
+stairs |  
+| bip_39_word_new_line3 | gauge
+stairs
+pottery |  
+| bip_39_word_new_line4 | gauge
+stairs
+pottery
+member |  
+| bip_39_word_new_line5 | gauge
+stairs
+pottery
+member
+decorate |  
+| bip_39_word_new_line6 | gauge
+stairs
+pottery
+member
+decorate
+manual |  
+| bip_39_word_new_line7 | gauge
+stairs
+pottery
+member
+decorate
+manual
+educate |  
+| bip_39_word_new_line8 | gauge
+stairs
+pottery
+member
+decorate
+manual
+educate
+regret |  
+| bip_39_word_new_line9 | gauge
+stairs
+pottery
+member
+decorate
+manual
+educate
+regret
+stove |  
+| bip_39_word_space_0 | ['gauge', 'stairs', 'pottery', 'member', 'decorate', 'manual', 'educate', 'regret', 'stove', 'city', 'jar', 'arch'] |  
+| bip_39_word_space_1 | gauge |  
+| bip_39_word_space_10 | gauge stairs pottery member decorate manual educate regret stove city |  
+| bip_39_word_space_11 | gauge stairs pottery member decorate manual educate regret stove city jar |  
+| bip_39_word_space_12 | gauge stairs pottery member decorate manual educate regret stove city jar arch |  
+| bip_39_word_space_2 | gauge stairs |  
+| bip_39_word_space_3 | gauge stairs pottery |  
+| bip_39_word_space_4 | gauge stairs pottery member |  
+| bip_39_word_space_5 | gauge stairs pottery member decorate |  
+| bip_39_word_space_6 | gauge stairs pottery member decorate manual |  
+| bip_39_word_space_7 | gauge stairs pottery member decorate manual educate |  
+| bip_39_word_space_8 | gauge stairs pottery member decorate manual educate regret |  
+| bip_39_word_space_9 | gauge stairs pottery member decorate manual educate regret stove |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

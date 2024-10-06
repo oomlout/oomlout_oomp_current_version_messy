@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: biology patch
+  * bip 39 word 3: biology patch future
+  * bip 39 word: biology patch future flavor protect doctor pact amused feature skill explain action
 
 ### other_codes
 * short_code: fh2b8p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | biology |  
+| bip_39_word_new_br10 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor<br>pact<br>amused<br>feature<br>skill |  
+| bip_39_word_new_br11 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor<br>pact<br>amused<br>feature<br>skill<br>explain |  
+| bip_39_word_new_br12 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor<br>pact<br>amused<br>feature<br>skill<br>explain<br>action |  
+| bip_39_word_new_br2 | biology<br>patch |  
+| bip_39_word_new_br3 | biology<br>patch<br>future |  
+| bip_39_word_new_br4 | biology<br>patch<br>future<br>flavor |  
+| bip_39_word_new_br5 | biology<br>patch<br>future<br>flavor<br>protect |  
+| bip_39_word_new_br6 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor |  
+| bip_39_word_new_br7 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor<br>pact |  
+| bip_39_word_new_br8 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor<br>pact<br>amused |  
+| bip_39_word_new_br9 | biology<br>patch<br>future<br>flavor<br>protect<br>doctor<br>pact<br>amused<br>feature |  
+| bip_39_word_new_line1 | biology |  
+| bip_39_word_new_line10 | biology
+patch
+future
+flavor
+protect
+doctor
+pact
+amused
+feature
+skill |  
+| bip_39_word_new_line11 | biology
+patch
+future
+flavor
+protect
+doctor
+pact
+amused
+feature
+skill
+explain |  
+| bip_39_word_new_line12 | biology
+patch
+future
+flavor
+protect
+doctor
+pact
+amused
+feature
+skill
+explain
+action |  
+| bip_39_word_new_line2 | biology
+patch |  
+| bip_39_word_new_line3 | biology
+patch
+future |  
+| bip_39_word_new_line4 | biology
+patch
+future
+flavor |  
+| bip_39_word_new_line5 | biology
+patch
+future
+flavor
+protect |  
+| bip_39_word_new_line6 | biology
+patch
+future
+flavor
+protect
+doctor |  
+| bip_39_word_new_line7 | biology
+patch
+future
+flavor
+protect
+doctor
+pact |  
+| bip_39_word_new_line8 | biology
+patch
+future
+flavor
+protect
+doctor
+pact
+amused |  
+| bip_39_word_new_line9 | biology
+patch
+future
+flavor
+protect
+doctor
+pact
+amused
+feature |  
+| bip_39_word_space_0 | ['biology', 'patch', 'future', 'flavor', 'protect', 'doctor', 'pact', 'amused', 'feature', 'skill', 'explain', 'action'] |  
+| bip_39_word_space_1 | biology |  
+| bip_39_word_space_10 | biology patch future flavor protect doctor pact amused feature skill |  
+| bip_39_word_space_11 | biology patch future flavor protect doctor pact amused feature skill explain |  
+| bip_39_word_space_12 | biology patch future flavor protect doctor pact amused feature skill explain action |  
+| bip_39_word_space_2 | biology patch |  
+| bip_39_word_space_3 | biology patch future |  
+| bip_39_word_space_4 | biology patch future flavor |  
+| bip_39_word_space_5 | biology patch future flavor protect |  
+| bip_39_word_space_6 | biology patch future flavor protect doctor |  
+| bip_39_word_space_7 | biology patch future flavor protect doctor pact |  
+| bip_39_word_space_8 | biology patch future flavor protect doctor pact amused |  
+| bip_39_word_space_9 | biology patch future flavor protect doctor pact amused feature |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

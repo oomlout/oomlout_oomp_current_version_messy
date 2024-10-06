@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bubble glass
+  * bip 39 word 3: bubble glass laugh
+  * bip 39 word: bubble glass laugh judge picnic junior spring response able diamond stumble author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bubble |  
+| bip_39_word_new_br10 | bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior<br>spring<br>response<br>able<br>diamond |  
+| bip_39_word_new_br11 | bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior<br>spring<br>response<br>able<br>diamond<br>stumble |  
+| bip_39_word_new_br12 | bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior<br>spring<br>response<br>able<br>diamond<br>stumble<br>author |  
+| bip_39_word_new_br2 | bubble<br>glass |  
+| bip_39_word_new_br3 | bubble<br>glass<br>laugh |  
+| bip_39_word_new_br4 | bubble<br>glass<br>laugh<br>judge |  
+| bip_39_word_new_br5 | bubble<br>glass<br>laugh<br>judge<br>picnic |  
+| bip_39_word_new_br6 | bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior |  
+| bip_39_word_new_br7 | bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior<br>spring |  
+| bip_39_word_new_br8 | bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior<br>spring<br>response |  
+| bip_39_word_new_br9 | bubble<br>glass<br>laugh<br>judge<br>picnic<br>junior<br>spring<br>response<br>able |  
+| bip_39_word_new_line1 | bubble |  
+| bip_39_word_new_line10 | bubble
+glass
+laugh
+judge
+picnic
+junior
+spring
+response
+able
+diamond |  
+| bip_39_word_new_line11 | bubble
+glass
+laugh
+judge
+picnic
+junior
+spring
+response
+able
+diamond
+stumble |  
+| bip_39_word_new_line12 | bubble
+glass
+laugh
+judge
+picnic
+junior
+spring
+response
+able
+diamond
+stumble
+author |  
+| bip_39_word_new_line2 | bubble
+glass |  
+| bip_39_word_new_line3 | bubble
+glass
+laugh |  
+| bip_39_word_new_line4 | bubble
+glass
+laugh
+judge |  
+| bip_39_word_new_line5 | bubble
+glass
+laugh
+judge
+picnic |  
+| bip_39_word_new_line6 | bubble
+glass
+laugh
+judge
+picnic
+junior |  
+| bip_39_word_new_line7 | bubble
+glass
+laugh
+judge
+picnic
+junior
+spring |  
+| bip_39_word_new_line8 | bubble
+glass
+laugh
+judge
+picnic
+junior
+spring
+response |  
+| bip_39_word_new_line9 | bubble
+glass
+laugh
+judge
+picnic
+junior
+spring
+response
+able |  
+| bip_39_word_space_0 | ['bubble', 'glass', 'laugh', 'judge', 'picnic', 'junior', 'spring', 'response', 'able', 'diamond', 'stumble', 'author'] |  
+| bip_39_word_space_1 | bubble |  
+| bip_39_word_space_10 | bubble glass laugh judge picnic junior spring response able diamond |  
+| bip_39_word_space_11 | bubble glass laugh judge picnic junior spring response able diamond stumble |  
+| bip_39_word_space_12 | bubble glass laugh judge picnic junior spring response able diamond stumble author |  
+| bip_39_word_space_2 | bubble glass |  
+| bip_39_word_space_3 | bubble glass laugh |  
+| bip_39_word_space_4 | bubble glass laugh judge |  
+| bip_39_word_space_5 | bubble glass laugh judge picnic |  
+| bip_39_word_space_6 | bubble glass laugh judge picnic junior |  
+| bip_39_word_space_7 | bubble glass laugh judge picnic junior spring |  
+| bip_39_word_space_8 | bubble glass laugh judge picnic junior spring response |  
+| bip_39_word_space_9 | bubble glass laugh judge picnic junior spring response able |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

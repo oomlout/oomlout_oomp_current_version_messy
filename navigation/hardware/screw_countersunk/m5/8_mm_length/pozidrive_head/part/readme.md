@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lady away
+  * bip 39 word 3: lady away three
+  * bip 39 word: lady away three mirror miss sell flash seek heavy subject voyage amazing
 
 ### other_codes
 * short_code: cs5m8pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lady |  
+| bip_39_word_new_br10 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject |  
+| bip_39_word_new_br11 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject<br>voyage |  
+| bip_39_word_new_br12 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy<br>subject<br>voyage<br>amazing |  
+| bip_39_word_new_br2 | lady<br>away |  
+| bip_39_word_new_br3 | lady<br>away<br>three |  
+| bip_39_word_new_br4 | lady<br>away<br>three<br>mirror |  
+| bip_39_word_new_br5 | lady<br>away<br>three<br>mirror<br>miss |  
+| bip_39_word_new_br6 | lady<br>away<br>three<br>mirror<br>miss<br>sell |  
+| bip_39_word_new_br7 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash |  
+| bip_39_word_new_br8 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek |  
+| bip_39_word_new_br9 | lady<br>away<br>three<br>mirror<br>miss<br>sell<br>flash<br>seek<br>heavy |  
+| bip_39_word_new_line1 | lady |  
+| bip_39_word_new_line10 | lady
+away
+three
+mirror
+miss
+sell
+flash
+seek
+heavy
+subject |  
+| bip_39_word_new_line11 | lady
+away
+three
+mirror
+miss
+sell
+flash
+seek
+heavy
+subject
+voyage |  
+| bip_39_word_new_line12 | lady
+away
+three
+mirror
+miss
+sell
+flash
+seek
+heavy
+subject
+voyage
+amazing |  
+| bip_39_word_new_line2 | lady
+away |  
+| bip_39_word_new_line3 | lady
+away
+three |  
+| bip_39_word_new_line4 | lady
+away
+three
+mirror |  
+| bip_39_word_new_line5 | lady
+away
+three
+mirror
+miss |  
+| bip_39_word_new_line6 | lady
+away
+three
+mirror
+miss
+sell |  
+| bip_39_word_new_line7 | lady
+away
+three
+mirror
+miss
+sell
+flash |  
+| bip_39_word_new_line8 | lady
+away
+three
+mirror
+miss
+sell
+flash
+seek |  
+| bip_39_word_new_line9 | lady
+away
+three
+mirror
+miss
+sell
+flash
+seek
+heavy |  
+| bip_39_word_space_0 | ['lady', 'away', 'three', 'mirror', 'miss', 'sell', 'flash', 'seek', 'heavy', 'subject', 'voyage', 'amazing'] |  
+| bip_39_word_space_1 | lady |  
+| bip_39_word_space_10 | lady away three mirror miss sell flash seek heavy subject |  
+| bip_39_word_space_11 | lady away three mirror miss sell flash seek heavy subject voyage |  
+| bip_39_word_space_12 | lady away three mirror miss sell flash seek heavy subject voyage amazing |  
+| bip_39_word_space_2 | lady away |  
+| bip_39_word_space_3 | lady away three |  
+| bip_39_word_space_4 | lady away three mirror |  
+| bip_39_word_space_5 | lady away three mirror miss |  
+| bip_39_word_space_6 | lady away three mirror miss sell |  
+| bip_39_word_space_7 | lady away three mirror miss sell flash |  
+| bip_39_word_space_8 | lady away three mirror miss sell flash seek |  
+| bip_39_word_space_9 | lady away three mirror miss sell flash seek heavy |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

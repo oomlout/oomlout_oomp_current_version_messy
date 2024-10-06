@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stem alone
+  * bip 39 word 3: stem alone ivory
+  * bip 39 word: stem alone ivory battle layer gas judge crisp update reform infant armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stem |  
+| bip_39_word_new_br10 | stem<br>alone<br>ivory<br>battle<br>layer<br>gas<br>judge<br>crisp<br>update<br>reform |  
+| bip_39_word_new_br11 | stem<br>alone<br>ivory<br>battle<br>layer<br>gas<br>judge<br>crisp<br>update<br>reform<br>infant |  
+| bip_39_word_new_br12 | stem<br>alone<br>ivory<br>battle<br>layer<br>gas<br>judge<br>crisp<br>update<br>reform<br>infant<br>armed |  
+| bip_39_word_new_br2 | stem<br>alone |  
+| bip_39_word_new_br3 | stem<br>alone<br>ivory |  
+| bip_39_word_new_br4 | stem<br>alone<br>ivory<br>battle |  
+| bip_39_word_new_br5 | stem<br>alone<br>ivory<br>battle<br>layer |  
+| bip_39_word_new_br6 | stem<br>alone<br>ivory<br>battle<br>layer<br>gas |  
+| bip_39_word_new_br7 | stem<br>alone<br>ivory<br>battle<br>layer<br>gas<br>judge |  
+| bip_39_word_new_br8 | stem<br>alone<br>ivory<br>battle<br>layer<br>gas<br>judge<br>crisp |  
+| bip_39_word_new_br9 | stem<br>alone<br>ivory<br>battle<br>layer<br>gas<br>judge<br>crisp<br>update |  
+| bip_39_word_new_line1 | stem |  
+| bip_39_word_new_line10 | stem
+alone
+ivory
+battle
+layer
+gas
+judge
+crisp
+update
+reform |  
+| bip_39_word_new_line11 | stem
+alone
+ivory
+battle
+layer
+gas
+judge
+crisp
+update
+reform
+infant |  
+| bip_39_word_new_line12 | stem
+alone
+ivory
+battle
+layer
+gas
+judge
+crisp
+update
+reform
+infant
+armed |  
+| bip_39_word_new_line2 | stem
+alone |  
+| bip_39_word_new_line3 | stem
+alone
+ivory |  
+| bip_39_word_new_line4 | stem
+alone
+ivory
+battle |  
+| bip_39_word_new_line5 | stem
+alone
+ivory
+battle
+layer |  
+| bip_39_word_new_line6 | stem
+alone
+ivory
+battle
+layer
+gas |  
+| bip_39_word_new_line7 | stem
+alone
+ivory
+battle
+layer
+gas
+judge |  
+| bip_39_word_new_line8 | stem
+alone
+ivory
+battle
+layer
+gas
+judge
+crisp |  
+| bip_39_word_new_line9 | stem
+alone
+ivory
+battle
+layer
+gas
+judge
+crisp
+update |  
+| bip_39_word_space_0 | ['stem', 'alone', 'ivory', 'battle', 'layer', 'gas', 'judge', 'crisp', 'update', 'reform', 'infant', 'armed'] |  
+| bip_39_word_space_1 | stem |  
+| bip_39_word_space_10 | stem alone ivory battle layer gas judge crisp update reform |  
+| bip_39_word_space_11 | stem alone ivory battle layer gas judge crisp update reform infant |  
+| bip_39_word_space_12 | stem alone ivory battle layer gas judge crisp update reform infant armed |  
+| bip_39_word_space_2 | stem alone |  
+| bip_39_word_space_3 | stem alone ivory |  
+| bip_39_word_space_4 | stem alone ivory battle |  
+| bip_39_word_space_5 | stem alone ivory battle layer |  
+| bip_39_word_space_6 | stem alone ivory battle layer gas |  
+| bip_39_word_space_7 | stem alone ivory battle layer gas judge |  
+| bip_39_word_space_8 | stem alone ivory battle layer gas judge crisp |  
+| bip_39_word_space_9 | stem alone ivory battle layer gas judge crisp update |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

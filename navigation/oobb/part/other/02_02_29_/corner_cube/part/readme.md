@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: corner_cube
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: network outer
+  * bip 39 word 3: network outer fit
+  * bip 39 word: network outer fit broom company fun rent gasp quick yellow place ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | network |  
+| bip_39_word_new_br10 | network<br>outer<br>fit<br>broom<br>company<br>fun<br>rent<br>gasp<br>quick<br>yellow |  
+| bip_39_word_new_br11 | network<br>outer<br>fit<br>broom<br>company<br>fun<br>rent<br>gasp<br>quick<br>yellow<br>place |  
+| bip_39_word_new_br12 | network<br>outer<br>fit<br>broom<br>company<br>fun<br>rent<br>gasp<br>quick<br>yellow<br>place<br>ancient |  
+| bip_39_word_new_br2 | network<br>outer |  
+| bip_39_word_new_br3 | network<br>outer<br>fit |  
+| bip_39_word_new_br4 | network<br>outer<br>fit<br>broom |  
+| bip_39_word_new_br5 | network<br>outer<br>fit<br>broom<br>company |  
+| bip_39_word_new_br6 | network<br>outer<br>fit<br>broom<br>company<br>fun |  
+| bip_39_word_new_br7 | network<br>outer<br>fit<br>broom<br>company<br>fun<br>rent |  
+| bip_39_word_new_br8 | network<br>outer<br>fit<br>broom<br>company<br>fun<br>rent<br>gasp |  
+| bip_39_word_new_br9 | network<br>outer<br>fit<br>broom<br>company<br>fun<br>rent<br>gasp<br>quick |  
+| bip_39_word_new_line1 | network |  
+| bip_39_word_new_line10 | network
+outer
+fit
+broom
+company
+fun
+rent
+gasp
+quick
+yellow |  
+| bip_39_word_new_line11 | network
+outer
+fit
+broom
+company
+fun
+rent
+gasp
+quick
+yellow
+place |  
+| bip_39_word_new_line12 | network
+outer
+fit
+broom
+company
+fun
+rent
+gasp
+quick
+yellow
+place
+ancient |  
+| bip_39_word_new_line2 | network
+outer |  
+| bip_39_word_new_line3 | network
+outer
+fit |  
+| bip_39_word_new_line4 | network
+outer
+fit
+broom |  
+| bip_39_word_new_line5 | network
+outer
+fit
+broom
+company |  
+| bip_39_word_new_line6 | network
+outer
+fit
+broom
+company
+fun |  
+| bip_39_word_new_line7 | network
+outer
+fit
+broom
+company
+fun
+rent |  
+| bip_39_word_new_line8 | network
+outer
+fit
+broom
+company
+fun
+rent
+gasp |  
+| bip_39_word_new_line9 | network
+outer
+fit
+broom
+company
+fun
+rent
+gasp
+quick |  
+| bip_39_word_space_0 | ['network', 'outer', 'fit', 'broom', 'company', 'fun', 'rent', 'gasp', 'quick', 'yellow', 'place', 'ancient'] |  
+| bip_39_word_space_1 | network |  
+| bip_39_word_space_10 | network outer fit broom company fun rent gasp quick yellow |  
+| bip_39_word_space_11 | network outer fit broom company fun rent gasp quick yellow place |  
+| bip_39_word_space_12 | network outer fit broom company fun rent gasp quick yellow place ancient |  
+| bip_39_word_space_2 | network outer |  
+| bip_39_word_space_3 | network outer fit |  
+| bip_39_word_space_4 | network outer fit broom |  
+| bip_39_word_space_5 | network outer fit broom company |  
+| bip_39_word_space_6 | network outer fit broom company fun |  
+| bip_39_word_space_7 | network outer fit broom company fun rent |  
+| bip_39_word_space_8 | network outer fit broom company fun rent gasp |  
+| bip_39_word_space_9 | network outer fit broom company fun rent gasp quick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

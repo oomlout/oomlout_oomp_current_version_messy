@@ -1,3 +1,186 @@
+bip_39_word_new_br1: excess
+bip_39_word_new_br10: excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone<br>tunnel<br>ill<br>mixed<br>doctor
+bip_39_word_new_br11: excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone<br>tunnel<br>ill<br>mixed<br>doctor<br>grape
+bip_39_word_new_br12: excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone<br>tunnel<br>ill<br>mixed<br>doctor<br>grape<br>accident
+bip_39_word_new_br2: excess<br>stereo
+bip_39_word_new_br3: excess<br>stereo<br>parent
+bip_39_word_new_br4: excess<br>stereo<br>parent<br>fiscal
+bip_39_word_new_br5: excess<br>stereo<br>parent<br>fiscal<br>arch
+bip_39_word_new_br6: excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone
+bip_39_word_new_br7: excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone<br>tunnel
+bip_39_word_new_br8: excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone<br>tunnel<br>ill
+bip_39_word_new_br9: excess<br>stereo<br>parent<br>fiscal<br>arch<br>alone<br>tunnel<br>ill<br>mixed
+bip_39_word_new_line1: excess
+bip_39_word_new_line10: 'excess
+
+  stereo
+
+  parent
+
+  fiscal
+
+  arch
+
+  alone
+
+  tunnel
+
+  ill
+
+  mixed
+
+  doctor'
+bip_39_word_new_line11: 'excess
+
+  stereo
+
+  parent
+
+  fiscal
+
+  arch
+
+  alone
+
+  tunnel
+
+  ill
+
+  mixed
+
+  doctor
+
+  grape'
+bip_39_word_new_line12: 'excess
+
+  stereo
+
+  parent
+
+  fiscal
+
+  arch
+
+  alone
+
+  tunnel
+
+  ill
+
+  mixed
+
+  doctor
+
+  grape
+
+  accident'
+bip_39_word_new_line2: 'excess
+
+  stereo'
+bip_39_word_new_line3: 'excess
+
+  stereo
+
+  parent'
+bip_39_word_new_line4: 'excess
+
+  stereo
+
+  parent
+
+  fiscal'
+bip_39_word_new_line5: 'excess
+
+  stereo
+
+  parent
+
+  fiscal
+
+  arch'
+bip_39_word_new_line6: 'excess
+
+  stereo
+
+  parent
+
+  fiscal
+
+  arch
+
+  alone'
+bip_39_word_new_line7: 'excess
+
+  stereo
+
+  parent
+
+  fiscal
+
+  arch
+
+  alone
+
+  tunnel'
+bip_39_word_new_line8: 'excess
+
+  stereo
+
+  parent
+
+  fiscal
+
+  arch
+
+  alone
+
+  tunnel
+
+  ill'
+bip_39_word_new_line9: 'excess
+
+  stereo
+
+  parent
+
+  fiscal
+
+  arch
+
+  alone
+
+  tunnel
+
+  ill
+
+  mixed'
+bip_39_word_space_0:
+- excess
+- stereo
+- parent
+- fiscal
+- arch
+- alone
+- tunnel
+- ill
+- mixed
+- doctor
+- grape
+- accident
+bip_39_word_space_1: excess
+bip_39_word_space_10: excess stereo parent fiscal arch alone tunnel ill mixed doctor
+bip_39_word_space_11: excess stereo parent fiscal arch alone tunnel ill mixed doctor
+  grape
+bip_39_word_space_12: excess stereo parent fiscal arch alone tunnel ill mixed doctor
+  grape accident
+bip_39_word_space_2: excess stereo
+bip_39_word_space_3: excess stereo parent
+bip_39_word_space_4: excess stereo parent fiscal
+bip_39_word_space_5: excess stereo parent fiscal arch
+bip_39_word_space_6: excess stereo parent fiscal arch alone
+bip_39_word_space_7: excess stereo parent fiscal arch alone tunnel
+bip_39_word_space_8: excess stereo parent fiscal arch alone tunnel ill
+bip_39_word_space_9: excess stereo parent fiscal arch alone tunnel ill mixed
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: liar close
+  * bip 39 word 3: liar close theory
+  * bip 39 word: liar close theory put swap spray pitch opinion dice require ceiling admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | liar |  
+| bip_39_word_new_br10 | liar<br>close<br>theory<br>put<br>swap<br>spray<br>pitch<br>opinion<br>dice<br>require |  
+| bip_39_word_new_br11 | liar<br>close<br>theory<br>put<br>swap<br>spray<br>pitch<br>opinion<br>dice<br>require<br>ceiling |  
+| bip_39_word_new_br12 | liar<br>close<br>theory<br>put<br>swap<br>spray<br>pitch<br>opinion<br>dice<br>require<br>ceiling<br>admit |  
+| bip_39_word_new_br2 | liar<br>close |  
+| bip_39_word_new_br3 | liar<br>close<br>theory |  
+| bip_39_word_new_br4 | liar<br>close<br>theory<br>put |  
+| bip_39_word_new_br5 | liar<br>close<br>theory<br>put<br>swap |  
+| bip_39_word_new_br6 | liar<br>close<br>theory<br>put<br>swap<br>spray |  
+| bip_39_word_new_br7 | liar<br>close<br>theory<br>put<br>swap<br>spray<br>pitch |  
+| bip_39_word_new_br8 | liar<br>close<br>theory<br>put<br>swap<br>spray<br>pitch<br>opinion |  
+| bip_39_word_new_br9 | liar<br>close<br>theory<br>put<br>swap<br>spray<br>pitch<br>opinion<br>dice |  
+| bip_39_word_new_line1 | liar |  
+| bip_39_word_new_line10 | liar
+close
+theory
+put
+swap
+spray
+pitch
+opinion
+dice
+require |  
+| bip_39_word_new_line11 | liar
+close
+theory
+put
+swap
+spray
+pitch
+opinion
+dice
+require
+ceiling |  
+| bip_39_word_new_line12 | liar
+close
+theory
+put
+swap
+spray
+pitch
+opinion
+dice
+require
+ceiling
+admit |  
+| bip_39_word_new_line2 | liar
+close |  
+| bip_39_word_new_line3 | liar
+close
+theory |  
+| bip_39_word_new_line4 | liar
+close
+theory
+put |  
+| bip_39_word_new_line5 | liar
+close
+theory
+put
+swap |  
+| bip_39_word_new_line6 | liar
+close
+theory
+put
+swap
+spray |  
+| bip_39_word_new_line7 | liar
+close
+theory
+put
+swap
+spray
+pitch |  
+| bip_39_word_new_line8 | liar
+close
+theory
+put
+swap
+spray
+pitch
+opinion |  
+| bip_39_word_new_line9 | liar
+close
+theory
+put
+swap
+spray
+pitch
+opinion
+dice |  
+| bip_39_word_space_0 | ['liar', 'close', 'theory', 'put', 'swap', 'spray', 'pitch', 'opinion', 'dice', 'require', 'ceiling', 'admit'] |  
+| bip_39_word_space_1 | liar |  
+| bip_39_word_space_10 | liar close theory put swap spray pitch opinion dice require |  
+| bip_39_word_space_11 | liar close theory put swap spray pitch opinion dice require ceiling |  
+| bip_39_word_space_12 | liar close theory put swap spray pitch opinion dice require ceiling admit |  
+| bip_39_word_space_2 | liar close |  
+| bip_39_word_space_3 | liar close theory |  
+| bip_39_word_space_4 | liar close theory put |  
+| bip_39_word_space_5 | liar close theory put swap |  
+| bip_39_word_space_6 | liar close theory put swap spray |  
+| bip_39_word_space_7 | liar close theory put swap spray pitch |  
+| bip_39_word_space_8 | liar close theory put swap spray pitch opinion |  
+| bip_39_word_space_9 | liar close theory put swap spray pitch opinion dice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

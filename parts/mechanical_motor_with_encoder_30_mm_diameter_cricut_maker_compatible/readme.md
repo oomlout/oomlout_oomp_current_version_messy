@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rain copper
+  * bip 39 word 3: rain copper twenty
+  * bip 39 word: rain copper twenty gorilla screen surface forget bridge hub treat audit ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rain |  
+| bip_39_word_new_br10 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface<br>forget<br>bridge<br>hub<br>treat |  
+| bip_39_word_new_br11 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface<br>forget<br>bridge<br>hub<br>treat<br>audit |  
+| bip_39_word_new_br12 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface<br>forget<br>bridge<br>hub<br>treat<br>audit<br>ask |  
+| bip_39_word_new_br2 | rain<br>copper |  
+| bip_39_word_new_br3 | rain<br>copper<br>twenty |  
+| bip_39_word_new_br4 | rain<br>copper<br>twenty<br>gorilla |  
+| bip_39_word_new_br5 | rain<br>copper<br>twenty<br>gorilla<br>screen |  
+| bip_39_word_new_br6 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface |  
+| bip_39_word_new_br7 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface<br>forget |  
+| bip_39_word_new_br8 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface<br>forget<br>bridge |  
+| bip_39_word_new_br9 | rain<br>copper<br>twenty<br>gorilla<br>screen<br>surface<br>forget<br>bridge<br>hub |  
+| bip_39_word_new_line1 | rain |  
+| bip_39_word_new_line10 | rain
+copper
+twenty
+gorilla
+screen
+surface
+forget
+bridge
+hub
+treat |  
+| bip_39_word_new_line11 | rain
+copper
+twenty
+gorilla
+screen
+surface
+forget
+bridge
+hub
+treat
+audit |  
+| bip_39_word_new_line12 | rain
+copper
+twenty
+gorilla
+screen
+surface
+forget
+bridge
+hub
+treat
+audit
+ask |  
+| bip_39_word_new_line2 | rain
+copper |  
+| bip_39_word_new_line3 | rain
+copper
+twenty |  
+| bip_39_word_new_line4 | rain
+copper
+twenty
+gorilla |  
+| bip_39_word_new_line5 | rain
+copper
+twenty
+gorilla
+screen |  
+| bip_39_word_new_line6 | rain
+copper
+twenty
+gorilla
+screen
+surface |  
+| bip_39_word_new_line7 | rain
+copper
+twenty
+gorilla
+screen
+surface
+forget |  
+| bip_39_word_new_line8 | rain
+copper
+twenty
+gorilla
+screen
+surface
+forget
+bridge |  
+| bip_39_word_new_line9 | rain
+copper
+twenty
+gorilla
+screen
+surface
+forget
+bridge
+hub |  
+| bip_39_word_space_0 | ['rain', 'copper', 'twenty', 'gorilla', 'screen', 'surface', 'forget', 'bridge', 'hub', 'treat', 'audit', 'ask'] |  
+| bip_39_word_space_1 | rain |  
+| bip_39_word_space_10 | rain copper twenty gorilla screen surface forget bridge hub treat |  
+| bip_39_word_space_11 | rain copper twenty gorilla screen surface forget bridge hub treat audit |  
+| bip_39_word_space_12 | rain copper twenty gorilla screen surface forget bridge hub treat audit ask |  
+| bip_39_word_space_2 | rain copper |  
+| bip_39_word_space_3 | rain copper twenty |  
+| bip_39_word_space_4 | rain copper twenty gorilla |  
+| bip_39_word_space_5 | rain copper twenty gorilla screen |  
+| bip_39_word_space_6 | rain copper twenty gorilla screen surface |  
+| bip_39_word_space_7 | rain copper twenty gorilla screen surface forget |  
+| bip_39_word_space_8 | rain copper twenty gorilla screen surface forget bridge |  
+| bip_39_word_space_9 | rain copper twenty gorilla screen surface forget bridge hub |  
 | classification | mechanical |  
 | classification_capital | Mechanical |  
 | classification_first_letter | m |  

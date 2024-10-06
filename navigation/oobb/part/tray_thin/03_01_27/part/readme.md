@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: purity life
+  * bip 39 word 3: purity life parade
+  * bip 39 word: purity life parade unveil bar wire thing shrimp double truth budget amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | purity |  
+| bip_39_word_new_br10 | purity<br>life<br>parade<br>unveil<br>bar<br>wire<br>thing<br>shrimp<br>double<br>truth |  
+| bip_39_word_new_br11 | purity<br>life<br>parade<br>unveil<br>bar<br>wire<br>thing<br>shrimp<br>double<br>truth<br>budget |  
+| bip_39_word_new_br12 | purity<br>life<br>parade<br>unveil<br>bar<br>wire<br>thing<br>shrimp<br>double<br>truth<br>budget<br>amount |  
+| bip_39_word_new_br2 | purity<br>life |  
+| bip_39_word_new_br3 | purity<br>life<br>parade |  
+| bip_39_word_new_br4 | purity<br>life<br>parade<br>unveil |  
+| bip_39_word_new_br5 | purity<br>life<br>parade<br>unveil<br>bar |  
+| bip_39_word_new_br6 | purity<br>life<br>parade<br>unveil<br>bar<br>wire |  
+| bip_39_word_new_br7 | purity<br>life<br>parade<br>unveil<br>bar<br>wire<br>thing |  
+| bip_39_word_new_br8 | purity<br>life<br>parade<br>unveil<br>bar<br>wire<br>thing<br>shrimp |  
+| bip_39_word_new_br9 | purity<br>life<br>parade<br>unveil<br>bar<br>wire<br>thing<br>shrimp<br>double |  
+| bip_39_word_new_line1 | purity |  
+| bip_39_word_new_line10 | purity
+life
+parade
+unveil
+bar
+wire
+thing
+shrimp
+double
+truth |  
+| bip_39_word_new_line11 | purity
+life
+parade
+unveil
+bar
+wire
+thing
+shrimp
+double
+truth
+budget |  
+| bip_39_word_new_line12 | purity
+life
+parade
+unveil
+bar
+wire
+thing
+shrimp
+double
+truth
+budget
+amount |  
+| bip_39_word_new_line2 | purity
+life |  
+| bip_39_word_new_line3 | purity
+life
+parade |  
+| bip_39_word_new_line4 | purity
+life
+parade
+unveil |  
+| bip_39_word_new_line5 | purity
+life
+parade
+unveil
+bar |  
+| bip_39_word_new_line6 | purity
+life
+parade
+unveil
+bar
+wire |  
+| bip_39_word_new_line7 | purity
+life
+parade
+unveil
+bar
+wire
+thing |  
+| bip_39_word_new_line8 | purity
+life
+parade
+unveil
+bar
+wire
+thing
+shrimp |  
+| bip_39_word_new_line9 | purity
+life
+parade
+unveil
+bar
+wire
+thing
+shrimp
+double |  
+| bip_39_word_space_0 | ['purity', 'life', 'parade', 'unveil', 'bar', 'wire', 'thing', 'shrimp', 'double', 'truth', 'budget', 'amount'] |  
+| bip_39_word_space_1 | purity |  
+| bip_39_word_space_10 | purity life parade unveil bar wire thing shrimp double truth |  
+| bip_39_word_space_11 | purity life parade unveil bar wire thing shrimp double truth budget |  
+| bip_39_word_space_12 | purity life parade unveil bar wire thing shrimp double truth budget amount |  
+| bip_39_word_space_2 | purity life |  
+| bip_39_word_space_3 | purity life parade |  
+| bip_39_word_space_4 | purity life parade unveil |  
+| bip_39_word_space_5 | purity life parade unveil bar |  
+| bip_39_word_space_6 | purity life parade unveil bar wire |  
+| bip_39_word_space_7 | purity life parade unveil bar wire thing |  
+| bip_39_word_space_8 | purity life parade unveil bar wire thing shrimp |  
+| bip_39_word_space_9 | purity life parade unveil bar wire thing shrimp double |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

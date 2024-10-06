@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: u
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bronze destroy
+  * bip 39 word 3: bronze destroy initial
+  * bip 39 word: bronze destroy initial special repeat soda relax bicycle chaos dose december anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bronze |  
+| bip_39_word_new_br10 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose |  
+| bip_39_word_new_br11 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose<br>december |  
+| bip_39_word_new_br12 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose<br>december<br>anxiety |  
+| bip_39_word_new_br2 | bronze<br>destroy |  
+| bip_39_word_new_br3 | bronze<br>destroy<br>initial |  
+| bip_39_word_new_br4 | bronze<br>destroy<br>initial<br>special |  
+| bip_39_word_new_br5 | bronze<br>destroy<br>initial<br>special<br>repeat |  
+| bip_39_word_new_br6 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda |  
+| bip_39_word_new_br7 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax |  
+| bip_39_word_new_br8 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle |  
+| bip_39_word_new_br9 | bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos |  
+| bip_39_word_new_line1 | bronze |  
+| bip_39_word_new_line10 | bronze
+destroy
+initial
+special
+repeat
+soda
+relax
+bicycle
+chaos
+dose |  
+| bip_39_word_new_line11 | bronze
+destroy
+initial
+special
+repeat
+soda
+relax
+bicycle
+chaos
+dose
+december |  
+| bip_39_word_new_line12 | bronze
+destroy
+initial
+special
+repeat
+soda
+relax
+bicycle
+chaos
+dose
+december
+anxiety |  
+| bip_39_word_new_line2 | bronze
+destroy |  
+| bip_39_word_new_line3 | bronze
+destroy
+initial |  
+| bip_39_word_new_line4 | bronze
+destroy
+initial
+special |  
+| bip_39_word_new_line5 | bronze
+destroy
+initial
+special
+repeat |  
+| bip_39_word_new_line6 | bronze
+destroy
+initial
+special
+repeat
+soda |  
+| bip_39_word_new_line7 | bronze
+destroy
+initial
+special
+repeat
+soda
+relax |  
+| bip_39_word_new_line8 | bronze
+destroy
+initial
+special
+repeat
+soda
+relax
+bicycle |  
+| bip_39_word_new_line9 | bronze
+destroy
+initial
+special
+repeat
+soda
+relax
+bicycle
+chaos |  
+| bip_39_word_space_0 | ['bronze', 'destroy', 'initial', 'special', 'repeat', 'soda', 'relax', 'bicycle', 'chaos', 'dose', 'december', 'anxiety'] |  
+| bip_39_word_space_1 | bronze |  
+| bip_39_word_space_10 | bronze destroy initial special repeat soda relax bicycle chaos dose |  
+| bip_39_word_space_11 | bronze destroy initial special repeat soda relax bicycle chaos dose december |  
+| bip_39_word_space_12 | bronze destroy initial special repeat soda relax bicycle chaos dose december anxiety |  
+| bip_39_word_space_2 | bronze destroy |  
+| bip_39_word_space_3 | bronze destroy initial |  
+| bip_39_word_space_4 | bronze destroy initial special |  
+| bip_39_word_space_5 | bronze destroy initial special repeat |  
+| bip_39_word_space_6 | bronze destroy initial special repeat soda |  
+| bip_39_word_space_7 | bronze destroy initial special repeat soda relax |  
+| bip_39_word_space_8 | bronze destroy initial special repeat soda relax bicycle |  
+| bip_39_word_space_9 | bronze destroy initial special repeat soda relax bicycle chaos |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: square
+bip_39_word_new_br10: square<br>dwarf<br>orphan<br>duty<br>category<br>smooth<br>degree<br>update<br>wedding<br>exhibit
+bip_39_word_new_br11: square<br>dwarf<br>orphan<br>duty<br>category<br>smooth<br>degree<br>update<br>wedding<br>exhibit<br>gather
+bip_39_word_new_br12: square<br>dwarf<br>orphan<br>duty<br>category<br>smooth<br>degree<br>update<br>wedding<br>exhibit<br>gather<br>afford
+bip_39_word_new_br2: square<br>dwarf
+bip_39_word_new_br3: square<br>dwarf<br>orphan
+bip_39_word_new_br4: square<br>dwarf<br>orphan<br>duty
+bip_39_word_new_br5: square<br>dwarf<br>orphan<br>duty<br>category
+bip_39_word_new_br6: square<br>dwarf<br>orphan<br>duty<br>category<br>smooth
+bip_39_word_new_br7: square<br>dwarf<br>orphan<br>duty<br>category<br>smooth<br>degree
+bip_39_word_new_br8: square<br>dwarf<br>orphan<br>duty<br>category<br>smooth<br>degree<br>update
+bip_39_word_new_br9: square<br>dwarf<br>orphan<br>duty<br>category<br>smooth<br>degree<br>update<br>wedding
+bip_39_word_new_line1: square
+bip_39_word_new_line10: 'square
+
+  dwarf
+
+  orphan
+
+  duty
+
+  category
+
+  smooth
+
+  degree
+
+  update
+
+  wedding
+
+  exhibit'
+bip_39_word_new_line11: 'square
+
+  dwarf
+
+  orphan
+
+  duty
+
+  category
+
+  smooth
+
+  degree
+
+  update
+
+  wedding
+
+  exhibit
+
+  gather'
+bip_39_word_new_line12: 'square
+
+  dwarf
+
+  orphan
+
+  duty
+
+  category
+
+  smooth
+
+  degree
+
+  update
+
+  wedding
+
+  exhibit
+
+  gather
+
+  afford'
+bip_39_word_new_line2: 'square
+
+  dwarf'
+bip_39_word_new_line3: 'square
+
+  dwarf
+
+  orphan'
+bip_39_word_new_line4: 'square
+
+  dwarf
+
+  orphan
+
+  duty'
+bip_39_word_new_line5: 'square
+
+  dwarf
+
+  orphan
+
+  duty
+
+  category'
+bip_39_word_new_line6: 'square
+
+  dwarf
+
+  orphan
+
+  duty
+
+  category
+
+  smooth'
+bip_39_word_new_line7: 'square
+
+  dwarf
+
+  orphan
+
+  duty
+
+  category
+
+  smooth
+
+  degree'
+bip_39_word_new_line8: 'square
+
+  dwarf
+
+  orphan
+
+  duty
+
+  category
+
+  smooth
+
+  degree
+
+  update'
+bip_39_word_new_line9: 'square
+
+  dwarf
+
+  orphan
+
+  duty
+
+  category
+
+  smooth
+
+  degree
+
+  update
+
+  wedding'
+bip_39_word_space_0:
+- square
+- dwarf
+- orphan
+- duty
+- category
+- smooth
+- degree
+- update
+- wedding
+- exhibit
+- gather
+- afford
+bip_39_word_space_1: square
+bip_39_word_space_10: square dwarf orphan duty category smooth degree update wedding
+  exhibit
+bip_39_word_space_11: square dwarf orphan duty category smooth degree update wedding
+  exhibit gather
+bip_39_word_space_12: square dwarf orphan duty category smooth degree update wedding
+  exhibit gather afford
+bip_39_word_space_2: square dwarf
+bip_39_word_space_3: square dwarf orphan
+bip_39_word_space_4: square dwarf orphan duty
+bip_39_word_space_5: square dwarf orphan duty category
+bip_39_word_space_6: square dwarf orphan duty category smooth
+bip_39_word_space_7: square dwarf orphan duty category smooth degree
+bip_39_word_space_8: square dwarf orphan duty category smooth degree update
+bip_39_word_space_9: square dwarf orphan duty category smooth degree update wedding
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

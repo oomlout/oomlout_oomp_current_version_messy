@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: badge nerve
+  * bip 39 word 3: badge nerve cube
+  * bip 39 word: badge nerve cube broom wage dog orient vote mandate blind hour apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | badge |  
+| bip_39_word_new_br10 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog<br>orient<br>vote<br>mandate<br>blind |  
+| bip_39_word_new_br11 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog<br>orient<br>vote<br>mandate<br>blind<br>hour |  
+| bip_39_word_new_br12 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog<br>orient<br>vote<br>mandate<br>blind<br>hour<br>apart |  
+| bip_39_word_new_br2 | badge<br>nerve |  
+| bip_39_word_new_br3 | badge<br>nerve<br>cube |  
+| bip_39_word_new_br4 | badge<br>nerve<br>cube<br>broom |  
+| bip_39_word_new_br5 | badge<br>nerve<br>cube<br>broom<br>wage |  
+| bip_39_word_new_br6 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog |  
+| bip_39_word_new_br7 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog<br>orient |  
+| bip_39_word_new_br8 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog<br>orient<br>vote |  
+| bip_39_word_new_br9 | badge<br>nerve<br>cube<br>broom<br>wage<br>dog<br>orient<br>vote<br>mandate |  
+| bip_39_word_new_line1 | badge |  
+| bip_39_word_new_line10 | badge
+nerve
+cube
+broom
+wage
+dog
+orient
+vote
+mandate
+blind |  
+| bip_39_word_new_line11 | badge
+nerve
+cube
+broom
+wage
+dog
+orient
+vote
+mandate
+blind
+hour |  
+| bip_39_word_new_line12 | badge
+nerve
+cube
+broom
+wage
+dog
+orient
+vote
+mandate
+blind
+hour
+apart |  
+| bip_39_word_new_line2 | badge
+nerve |  
+| bip_39_word_new_line3 | badge
+nerve
+cube |  
+| bip_39_word_new_line4 | badge
+nerve
+cube
+broom |  
+| bip_39_word_new_line5 | badge
+nerve
+cube
+broom
+wage |  
+| bip_39_word_new_line6 | badge
+nerve
+cube
+broom
+wage
+dog |  
+| bip_39_word_new_line7 | badge
+nerve
+cube
+broom
+wage
+dog
+orient |  
+| bip_39_word_new_line8 | badge
+nerve
+cube
+broom
+wage
+dog
+orient
+vote |  
+| bip_39_word_new_line9 | badge
+nerve
+cube
+broom
+wage
+dog
+orient
+vote
+mandate |  
+| bip_39_word_space_0 | ['badge', 'nerve', 'cube', 'broom', 'wage', 'dog', 'orient', 'vote', 'mandate', 'blind', 'hour', 'apart'] |  
+| bip_39_word_space_1 | badge |  
+| bip_39_word_space_10 | badge nerve cube broom wage dog orient vote mandate blind |  
+| bip_39_word_space_11 | badge nerve cube broom wage dog orient vote mandate blind hour |  
+| bip_39_word_space_12 | badge nerve cube broom wage dog orient vote mandate blind hour apart |  
+| bip_39_word_space_2 | badge nerve |  
+| bip_39_word_space_3 | badge nerve cube |  
+| bip_39_word_space_4 | badge nerve cube broom |  
+| bip_39_word_space_5 | badge nerve cube broom wage |  
+| bip_39_word_space_6 | badge nerve cube broom wage dog |  
+| bip_39_word_space_7 | badge nerve cube broom wage dog orient |  
+| bip_39_word_space_8 | badge nerve cube broom wage dog orient vote |  
+| bip_39_word_space_9 | badge nerve cube broom wage dog orient vote mandate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ball good
+  * bip 39 word 3: ball good seat
+  * bip 39 word: ball good seat chest ridge crack old squeeze inhale govern foot attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ball |  
+| bip_39_word_new_br10 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern |  
+| bip_39_word_new_br11 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot |  
+| bip_39_word_new_br12 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot<br>attitude |  
+| bip_39_word_new_br2 | ball<br>good |  
+| bip_39_word_new_br3 | ball<br>good<br>seat |  
+| bip_39_word_new_br4 | ball<br>good<br>seat<br>chest |  
+| bip_39_word_new_br5 | ball<br>good<br>seat<br>chest<br>ridge |  
+| bip_39_word_new_br6 | ball<br>good<br>seat<br>chest<br>ridge<br>crack |  
+| bip_39_word_new_br7 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old |  
+| bip_39_word_new_br8 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze |  
+| bip_39_word_new_br9 | ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale |  
+| bip_39_word_new_line1 | ball |  
+| bip_39_word_new_line10 | ball
+good
+seat
+chest
+ridge
+crack
+old
+squeeze
+inhale
+govern |  
+| bip_39_word_new_line11 | ball
+good
+seat
+chest
+ridge
+crack
+old
+squeeze
+inhale
+govern
+foot |  
+| bip_39_word_new_line12 | ball
+good
+seat
+chest
+ridge
+crack
+old
+squeeze
+inhale
+govern
+foot
+attitude |  
+| bip_39_word_new_line2 | ball
+good |  
+| bip_39_word_new_line3 | ball
+good
+seat |  
+| bip_39_word_new_line4 | ball
+good
+seat
+chest |  
+| bip_39_word_new_line5 | ball
+good
+seat
+chest
+ridge |  
+| bip_39_word_new_line6 | ball
+good
+seat
+chest
+ridge
+crack |  
+| bip_39_word_new_line7 | ball
+good
+seat
+chest
+ridge
+crack
+old |  
+| bip_39_word_new_line8 | ball
+good
+seat
+chest
+ridge
+crack
+old
+squeeze |  
+| bip_39_word_new_line9 | ball
+good
+seat
+chest
+ridge
+crack
+old
+squeeze
+inhale |  
+| bip_39_word_space_0 | ['ball', 'good', 'seat', 'chest', 'ridge', 'crack', 'old', 'squeeze', 'inhale', 'govern', 'foot', 'attitude'] |  
+| bip_39_word_space_1 | ball |  
+| bip_39_word_space_10 | ball good seat chest ridge crack old squeeze inhale govern |  
+| bip_39_word_space_11 | ball good seat chest ridge crack old squeeze inhale govern foot |  
+| bip_39_word_space_12 | ball good seat chest ridge crack old squeeze inhale govern foot attitude |  
+| bip_39_word_space_2 | ball good |  
+| bip_39_word_space_3 | ball good seat |  
+| bip_39_word_space_4 | ball good seat chest |  
+| bip_39_word_space_5 | ball good seat chest ridge |  
+| bip_39_word_space_6 | ball good seat chest ridge crack |  
+| bip_39_word_space_7 | ball good seat chest ridge crack old |  
+| bip_39_word_space_8 | ball good seat chest ridge crack old squeeze |  
+| bip_39_word_space_9 | ball good seat chest ridge crack old squeeze inhale |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

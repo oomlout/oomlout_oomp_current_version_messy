@@ -1,3 +1,186 @@
+bip_39_word_new_br1: social
+bip_39_word_new_br10: social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose
+bip_39_word_new_br11: social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose<br>pencil
+bip_39_word_new_br12: social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim<br>goose<br>pencil<br>another
+bip_39_word_new_br2: social<br>seminar
+bip_39_word_new_br3: social<br>seminar<br>sing
+bip_39_word_new_br4: social<br>seminar<br>sing<br>still
+bip_39_word_new_br5: social<br>seminar<br>sing<br>still<br>napkin
+bip_39_word_new_br6: social<br>seminar<br>sing<br>still<br>napkin<br>canoe
+bip_39_word_new_br7: social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea
+bip_39_word_new_br8: social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise
+bip_39_word_new_br9: social<br>seminar<br>sing<br>still<br>napkin<br>canoe<br>sea<br>exercise<br>swim
+bip_39_word_new_line1: social
+bip_39_word_new_line10: 'social
+
+  seminar
+
+  sing
+
+  still
+
+  napkin
+
+  canoe
+
+  sea
+
+  exercise
+
+  swim
+
+  goose'
+bip_39_word_new_line11: 'social
+
+  seminar
+
+  sing
+
+  still
+
+  napkin
+
+  canoe
+
+  sea
+
+  exercise
+
+  swim
+
+  goose
+
+  pencil'
+bip_39_word_new_line12: 'social
+
+  seminar
+
+  sing
+
+  still
+
+  napkin
+
+  canoe
+
+  sea
+
+  exercise
+
+  swim
+
+  goose
+
+  pencil
+
+  another'
+bip_39_word_new_line2: 'social
+
+  seminar'
+bip_39_word_new_line3: 'social
+
+  seminar
+
+  sing'
+bip_39_word_new_line4: 'social
+
+  seminar
+
+  sing
+
+  still'
+bip_39_word_new_line5: 'social
+
+  seminar
+
+  sing
+
+  still
+
+  napkin'
+bip_39_word_new_line6: 'social
+
+  seminar
+
+  sing
+
+  still
+
+  napkin
+
+  canoe'
+bip_39_word_new_line7: 'social
+
+  seminar
+
+  sing
+
+  still
+
+  napkin
+
+  canoe
+
+  sea'
+bip_39_word_new_line8: 'social
+
+  seminar
+
+  sing
+
+  still
+
+  napkin
+
+  canoe
+
+  sea
+
+  exercise'
+bip_39_word_new_line9: 'social
+
+  seminar
+
+  sing
+
+  still
+
+  napkin
+
+  canoe
+
+  sea
+
+  exercise
+
+  swim'
+bip_39_word_space_0:
+- social
+- seminar
+- sing
+- still
+- napkin
+- canoe
+- sea
+- exercise
+- swim
+- goose
+- pencil
+- another
+bip_39_word_space_1: social
+bip_39_word_space_10: social seminar sing still napkin canoe sea exercise swim goose
+bip_39_word_space_11: social seminar sing still napkin canoe sea exercise swim goose
+  pencil
+bip_39_word_space_12: social seminar sing still napkin canoe sea exercise swim goose
+  pencil another
+bip_39_word_space_2: social seminar
+bip_39_word_space_3: social seminar sing
+bip_39_word_space_4: social seminar sing still
+bip_39_word_space_5: social seminar sing still napkin
+bip_39_word_space_6: social seminar sing still napkin canoe
+bip_39_word_space_7: social seminar sing still napkin canoe sea
+bip_39_word_space_8: social seminar sing still napkin canoe sea exercise
+bip_39_word_space_9: social seminar sing still napkin canoe sea exercise swim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

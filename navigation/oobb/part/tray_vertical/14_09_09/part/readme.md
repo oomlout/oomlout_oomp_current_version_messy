@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: super coconut
+  * bip 39 word 3: super coconut accuse
+  * bip 39 word: super coconut accuse gesture neck segment flock august giggle output ten age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | super |  
+| bip_39_word_new_br10 | super<br>coconut<br>accuse<br>gesture<br>neck<br>segment<br>flock<br>august<br>giggle<br>output |  
+| bip_39_word_new_br11 | super<br>coconut<br>accuse<br>gesture<br>neck<br>segment<br>flock<br>august<br>giggle<br>output<br>ten |  
+| bip_39_word_new_br12 | super<br>coconut<br>accuse<br>gesture<br>neck<br>segment<br>flock<br>august<br>giggle<br>output<br>ten<br>age |  
+| bip_39_word_new_br2 | super<br>coconut |  
+| bip_39_word_new_br3 | super<br>coconut<br>accuse |  
+| bip_39_word_new_br4 | super<br>coconut<br>accuse<br>gesture |  
+| bip_39_word_new_br5 | super<br>coconut<br>accuse<br>gesture<br>neck |  
+| bip_39_word_new_br6 | super<br>coconut<br>accuse<br>gesture<br>neck<br>segment |  
+| bip_39_word_new_br7 | super<br>coconut<br>accuse<br>gesture<br>neck<br>segment<br>flock |  
+| bip_39_word_new_br8 | super<br>coconut<br>accuse<br>gesture<br>neck<br>segment<br>flock<br>august |  
+| bip_39_word_new_br9 | super<br>coconut<br>accuse<br>gesture<br>neck<br>segment<br>flock<br>august<br>giggle |  
+| bip_39_word_new_line1 | super |  
+| bip_39_word_new_line10 | super
+coconut
+accuse
+gesture
+neck
+segment
+flock
+august
+giggle
+output |  
+| bip_39_word_new_line11 | super
+coconut
+accuse
+gesture
+neck
+segment
+flock
+august
+giggle
+output
+ten |  
+| bip_39_word_new_line12 | super
+coconut
+accuse
+gesture
+neck
+segment
+flock
+august
+giggle
+output
+ten
+age |  
+| bip_39_word_new_line2 | super
+coconut |  
+| bip_39_word_new_line3 | super
+coconut
+accuse |  
+| bip_39_word_new_line4 | super
+coconut
+accuse
+gesture |  
+| bip_39_word_new_line5 | super
+coconut
+accuse
+gesture
+neck |  
+| bip_39_word_new_line6 | super
+coconut
+accuse
+gesture
+neck
+segment |  
+| bip_39_word_new_line7 | super
+coconut
+accuse
+gesture
+neck
+segment
+flock |  
+| bip_39_word_new_line8 | super
+coconut
+accuse
+gesture
+neck
+segment
+flock
+august |  
+| bip_39_word_new_line9 | super
+coconut
+accuse
+gesture
+neck
+segment
+flock
+august
+giggle |  
+| bip_39_word_space_0 | ['super', 'coconut', 'accuse', 'gesture', 'neck', 'segment', 'flock', 'august', 'giggle', 'output', 'ten', 'age'] |  
+| bip_39_word_space_1 | super |  
+| bip_39_word_space_10 | super coconut accuse gesture neck segment flock august giggle output |  
+| bip_39_word_space_11 | super coconut accuse gesture neck segment flock august giggle output ten |  
+| bip_39_word_space_12 | super coconut accuse gesture neck segment flock august giggle output ten age |  
+| bip_39_word_space_2 | super coconut |  
+| bip_39_word_space_3 | super coconut accuse |  
+| bip_39_word_space_4 | super coconut accuse gesture |  
+| bip_39_word_space_5 | super coconut accuse gesture neck |  
+| bip_39_word_space_6 | super coconut accuse gesture neck segment |  
+| bip_39_word_space_7 | super coconut accuse gesture neck segment flock |  
+| bip_39_word_space_8 | super coconut accuse gesture neck segment flock august |  
+| bip_39_word_space_9 | super coconut accuse gesture neck segment flock august giggle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: member shoulder
+  * bip 39 word 3: member shoulder zoo
+  * bip 39 word: member shoulder zoo beach bracket zero sense fresh because discover such acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | member |  
+| bip_39_word_new_br10 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero<br>sense<br>fresh<br>because<br>discover |  
+| bip_39_word_new_br11 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero<br>sense<br>fresh<br>because<br>discover<br>such |  
+| bip_39_word_new_br12 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero<br>sense<br>fresh<br>because<br>discover<br>such<br>acid |  
+| bip_39_word_new_br2 | member<br>shoulder |  
+| bip_39_word_new_br3 | member<br>shoulder<br>zoo |  
+| bip_39_word_new_br4 | member<br>shoulder<br>zoo<br>beach |  
+| bip_39_word_new_br5 | member<br>shoulder<br>zoo<br>beach<br>bracket |  
+| bip_39_word_new_br6 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero |  
+| bip_39_word_new_br7 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero<br>sense |  
+| bip_39_word_new_br8 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero<br>sense<br>fresh |  
+| bip_39_word_new_br9 | member<br>shoulder<br>zoo<br>beach<br>bracket<br>zero<br>sense<br>fresh<br>because |  
+| bip_39_word_new_line1 | member |  
+| bip_39_word_new_line10 | member
+shoulder
+zoo
+beach
+bracket
+zero
+sense
+fresh
+because
+discover |  
+| bip_39_word_new_line11 | member
+shoulder
+zoo
+beach
+bracket
+zero
+sense
+fresh
+because
+discover
+such |  
+| bip_39_word_new_line12 | member
+shoulder
+zoo
+beach
+bracket
+zero
+sense
+fresh
+because
+discover
+such
+acid |  
+| bip_39_word_new_line2 | member
+shoulder |  
+| bip_39_word_new_line3 | member
+shoulder
+zoo |  
+| bip_39_word_new_line4 | member
+shoulder
+zoo
+beach |  
+| bip_39_word_new_line5 | member
+shoulder
+zoo
+beach
+bracket |  
+| bip_39_word_new_line6 | member
+shoulder
+zoo
+beach
+bracket
+zero |  
+| bip_39_word_new_line7 | member
+shoulder
+zoo
+beach
+bracket
+zero
+sense |  
+| bip_39_word_new_line8 | member
+shoulder
+zoo
+beach
+bracket
+zero
+sense
+fresh |  
+| bip_39_word_new_line9 | member
+shoulder
+zoo
+beach
+bracket
+zero
+sense
+fresh
+because |  
+| bip_39_word_space_0 | ['member', 'shoulder', 'zoo', 'beach', 'bracket', 'zero', 'sense', 'fresh', 'because', 'discover', 'such', 'acid'] |  
+| bip_39_word_space_1 | member |  
+| bip_39_word_space_10 | member shoulder zoo beach bracket zero sense fresh because discover |  
+| bip_39_word_space_11 | member shoulder zoo beach bracket zero sense fresh because discover such |  
+| bip_39_word_space_12 | member shoulder zoo beach bracket zero sense fresh because discover such acid |  
+| bip_39_word_space_2 | member shoulder |  
+| bip_39_word_space_3 | member shoulder zoo |  
+| bip_39_word_space_4 | member shoulder zoo beach |  
+| bip_39_word_space_5 | member shoulder zoo beach bracket |  
+| bip_39_word_space_6 | member shoulder zoo beach bracket zero |  
+| bip_39_word_space_7 | member shoulder zoo beach bracket zero sense |  
+| bip_39_word_space_8 | member shoulder zoo beach bracket zero sense fresh |  
+| bip_39_word_space_9 | member shoulder zoo beach bracket zero sense fresh because |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

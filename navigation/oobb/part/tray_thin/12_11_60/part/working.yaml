@@ -1,3 +1,186 @@
+bip_39_word_new_br1: talent
+bip_39_word_new_br10: talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon
+bip_39_word_new_br11: talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon<br>insect
+bip_39_word_new_br12: talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion<br>soon<br>insect<br>alien
+bip_39_word_new_br2: talent<br>sure
+bip_39_word_new_br3: talent<br>sure<br>frame
+bip_39_word_new_br4: talent<br>sure<br>frame<br>proof
+bip_39_word_new_br5: talent<br>sure<br>frame<br>proof<br>retreat
+bip_39_word_new_br6: talent<br>sure<br>frame<br>proof<br>retreat<br>fine
+bip_39_word_new_br7: talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous
+bip_39_word_new_br8: talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna
+bip_39_word_new_br9: talent<br>sure<br>frame<br>proof<br>retreat<br>fine<br>jealous<br>tuna<br>erosion
+bip_39_word_new_line1: talent
+bip_39_word_new_line10: 'talent
+
+  sure
+
+  frame
+
+  proof
+
+  retreat
+
+  fine
+
+  jealous
+
+  tuna
+
+  erosion
+
+  soon'
+bip_39_word_new_line11: 'talent
+
+  sure
+
+  frame
+
+  proof
+
+  retreat
+
+  fine
+
+  jealous
+
+  tuna
+
+  erosion
+
+  soon
+
+  insect'
+bip_39_word_new_line12: 'talent
+
+  sure
+
+  frame
+
+  proof
+
+  retreat
+
+  fine
+
+  jealous
+
+  tuna
+
+  erosion
+
+  soon
+
+  insect
+
+  alien'
+bip_39_word_new_line2: 'talent
+
+  sure'
+bip_39_word_new_line3: 'talent
+
+  sure
+
+  frame'
+bip_39_word_new_line4: 'talent
+
+  sure
+
+  frame
+
+  proof'
+bip_39_word_new_line5: 'talent
+
+  sure
+
+  frame
+
+  proof
+
+  retreat'
+bip_39_word_new_line6: 'talent
+
+  sure
+
+  frame
+
+  proof
+
+  retreat
+
+  fine'
+bip_39_word_new_line7: 'talent
+
+  sure
+
+  frame
+
+  proof
+
+  retreat
+
+  fine
+
+  jealous'
+bip_39_word_new_line8: 'talent
+
+  sure
+
+  frame
+
+  proof
+
+  retreat
+
+  fine
+
+  jealous
+
+  tuna'
+bip_39_word_new_line9: 'talent
+
+  sure
+
+  frame
+
+  proof
+
+  retreat
+
+  fine
+
+  jealous
+
+  tuna
+
+  erosion'
+bip_39_word_space_0:
+- talent
+- sure
+- frame
+- proof
+- retreat
+- fine
+- jealous
+- tuna
+- erosion
+- soon
+- insect
+- alien
+bip_39_word_space_1: talent
+bip_39_word_space_10: talent sure frame proof retreat fine jealous tuna erosion soon
+bip_39_word_space_11: talent sure frame proof retreat fine jealous tuna erosion soon
+  insect
+bip_39_word_space_12: talent sure frame proof retreat fine jealous tuna erosion soon
+  insect alien
+bip_39_word_space_2: talent sure
+bip_39_word_space_3: talent sure frame
+bip_39_word_space_4: talent sure frame proof
+bip_39_word_space_5: talent sure frame proof retreat
+bip_39_word_space_6: talent sure frame proof retreat fine
+bip_39_word_space_7: talent sure frame proof retreat fine jealous
+bip_39_word_space_8: talent sure frame proof retreat fine jealous tuna
+bip_39_word_space_9: talent sure frame proof retreat fine jealous tuna erosion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

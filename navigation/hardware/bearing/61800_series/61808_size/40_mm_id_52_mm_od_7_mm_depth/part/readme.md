@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: limb able
+  * bip 39 word 3: limb able swift
+  * bip 39 word: limb able swift hold south ocean barely clay start lion dolphin assume
 
 ### other_codes
 * short_code: br61808
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | limb |  
+| bip_39_word_new_br10 | limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay<br>start<br>lion |  
+| bip_39_word_new_br11 | limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay<br>start<br>lion<br>dolphin |  
+| bip_39_word_new_br12 | limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay<br>start<br>lion<br>dolphin<br>assume |  
+| bip_39_word_new_br2 | limb<br>able |  
+| bip_39_word_new_br3 | limb<br>able<br>swift |  
+| bip_39_word_new_br4 | limb<br>able<br>swift<br>hold |  
+| bip_39_word_new_br5 | limb<br>able<br>swift<br>hold<br>south |  
+| bip_39_word_new_br6 | limb<br>able<br>swift<br>hold<br>south<br>ocean |  
+| bip_39_word_new_br7 | limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely |  
+| bip_39_word_new_br8 | limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay |  
+| bip_39_word_new_br9 | limb<br>able<br>swift<br>hold<br>south<br>ocean<br>barely<br>clay<br>start |  
+| bip_39_word_new_line1 | limb |  
+| bip_39_word_new_line10 | limb
+able
+swift
+hold
+south
+ocean
+barely
+clay
+start
+lion |  
+| bip_39_word_new_line11 | limb
+able
+swift
+hold
+south
+ocean
+barely
+clay
+start
+lion
+dolphin |  
+| bip_39_word_new_line12 | limb
+able
+swift
+hold
+south
+ocean
+barely
+clay
+start
+lion
+dolphin
+assume |  
+| bip_39_word_new_line2 | limb
+able |  
+| bip_39_word_new_line3 | limb
+able
+swift |  
+| bip_39_word_new_line4 | limb
+able
+swift
+hold |  
+| bip_39_word_new_line5 | limb
+able
+swift
+hold
+south |  
+| bip_39_word_new_line6 | limb
+able
+swift
+hold
+south
+ocean |  
+| bip_39_word_new_line7 | limb
+able
+swift
+hold
+south
+ocean
+barely |  
+| bip_39_word_new_line8 | limb
+able
+swift
+hold
+south
+ocean
+barely
+clay |  
+| bip_39_word_new_line9 | limb
+able
+swift
+hold
+south
+ocean
+barely
+clay
+start |  
+| bip_39_word_space_0 | ['limb', 'able', 'swift', 'hold', 'south', 'ocean', 'barely', 'clay', 'start', 'lion', 'dolphin', 'assume'] |  
+| bip_39_word_space_1 | limb |  
+| bip_39_word_space_10 | limb able swift hold south ocean barely clay start lion |  
+| bip_39_word_space_11 | limb able swift hold south ocean barely clay start lion dolphin |  
+| bip_39_word_space_12 | limb able swift hold south ocean barely clay start lion dolphin assume |  
+| bip_39_word_space_2 | limb able |  
+| bip_39_word_space_3 | limb able swift |  
+| bip_39_word_space_4 | limb able swift hold |  
+| bip_39_word_space_5 | limb able swift hold south |  
+| bip_39_word_space_6 | limb able swift hold south ocean |  
+| bip_39_word_space_7 | limb able swift hold south ocean barely |  
+| bip_39_word_space_8 | limb able swift hold south ocean barely clay |  
+| bip_39_word_space_9 | limb able swift hold south ocean barely clay start |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

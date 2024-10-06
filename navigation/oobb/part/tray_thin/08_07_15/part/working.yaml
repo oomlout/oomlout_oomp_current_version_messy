@@ -1,3 +1,187 @@
+bip_39_word_new_br1: trash
+bip_39_word_new_br10: trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin
+bip_39_word_new_br11: trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin<br>wear
+bip_39_word_new_br12: trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair<br>muffin<br>wear<br>athlete
+bip_39_word_new_br2: trash<br>motion
+bip_39_word_new_br3: trash<br>motion<br>accuse
+bip_39_word_new_br4: trash<br>motion<br>accuse<br>sport
+bip_39_word_new_br5: trash<br>motion<br>accuse<br>sport<br>flag
+bip_39_word_new_br6: trash<br>motion<br>accuse<br>sport<br>flag<br>wing
+bip_39_word_new_br7: trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble
+bip_39_word_new_br8: trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter
+bip_39_word_new_br9: trash<br>motion<br>accuse<br>sport<br>flag<br>wing<br>resemble<br>quarter<br>despair
+bip_39_word_new_line1: trash
+bip_39_word_new_line10: 'trash
+
+  motion
+
+  accuse
+
+  sport
+
+  flag
+
+  wing
+
+  resemble
+
+  quarter
+
+  despair
+
+  muffin'
+bip_39_word_new_line11: 'trash
+
+  motion
+
+  accuse
+
+  sport
+
+  flag
+
+  wing
+
+  resemble
+
+  quarter
+
+  despair
+
+  muffin
+
+  wear'
+bip_39_word_new_line12: 'trash
+
+  motion
+
+  accuse
+
+  sport
+
+  flag
+
+  wing
+
+  resemble
+
+  quarter
+
+  despair
+
+  muffin
+
+  wear
+
+  athlete'
+bip_39_word_new_line2: 'trash
+
+  motion'
+bip_39_word_new_line3: 'trash
+
+  motion
+
+  accuse'
+bip_39_word_new_line4: 'trash
+
+  motion
+
+  accuse
+
+  sport'
+bip_39_word_new_line5: 'trash
+
+  motion
+
+  accuse
+
+  sport
+
+  flag'
+bip_39_word_new_line6: 'trash
+
+  motion
+
+  accuse
+
+  sport
+
+  flag
+
+  wing'
+bip_39_word_new_line7: 'trash
+
+  motion
+
+  accuse
+
+  sport
+
+  flag
+
+  wing
+
+  resemble'
+bip_39_word_new_line8: 'trash
+
+  motion
+
+  accuse
+
+  sport
+
+  flag
+
+  wing
+
+  resemble
+
+  quarter'
+bip_39_word_new_line9: 'trash
+
+  motion
+
+  accuse
+
+  sport
+
+  flag
+
+  wing
+
+  resemble
+
+  quarter
+
+  despair'
+bip_39_word_space_0:
+- trash
+- motion
+- accuse
+- sport
+- flag
+- wing
+- resemble
+- quarter
+- despair
+- muffin
+- wear
+- athlete
+bip_39_word_space_1: trash
+bip_39_word_space_10: trash motion accuse sport flag wing resemble quarter despair
+  muffin
+bip_39_word_space_11: trash motion accuse sport flag wing resemble quarter despair
+  muffin wear
+bip_39_word_space_12: trash motion accuse sport flag wing resemble quarter despair
+  muffin wear athlete
+bip_39_word_space_2: trash motion
+bip_39_word_space_3: trash motion accuse
+bip_39_word_space_4: trash motion accuse sport
+bip_39_word_space_5: trash motion accuse sport flag
+bip_39_word_space_6: trash motion accuse sport flag wing
+bip_39_word_space_7: trash motion accuse sport flag wing resemble
+bip_39_word_space_8: trash motion accuse sport flag wing resemble quarter
+bip_39_word_space_9: trash motion accuse sport flag wing resemble quarter despair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

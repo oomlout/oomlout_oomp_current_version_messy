@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: truth wheat
+  * bip 39 word 3: truth wheat shop
+  * bip 39 word: truth wheat shop pond fold cycle harvest sorry denial steel awesome athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | truth |  
+| bip_39_word_new_br10 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle<br>harvest<br>sorry<br>denial<br>steel |  
+| bip_39_word_new_br11 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle<br>harvest<br>sorry<br>denial<br>steel<br>awesome |  
+| bip_39_word_new_br12 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle<br>harvest<br>sorry<br>denial<br>steel<br>awesome<br>athlete |  
+| bip_39_word_new_br2 | truth<br>wheat |  
+| bip_39_word_new_br3 | truth<br>wheat<br>shop |  
+| bip_39_word_new_br4 | truth<br>wheat<br>shop<br>pond |  
+| bip_39_word_new_br5 | truth<br>wheat<br>shop<br>pond<br>fold |  
+| bip_39_word_new_br6 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle |  
+| bip_39_word_new_br7 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle<br>harvest |  
+| bip_39_word_new_br8 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle<br>harvest<br>sorry |  
+| bip_39_word_new_br9 | truth<br>wheat<br>shop<br>pond<br>fold<br>cycle<br>harvest<br>sorry<br>denial |  
+| bip_39_word_new_line1 | truth |  
+| bip_39_word_new_line10 | truth
+wheat
+shop
+pond
+fold
+cycle
+harvest
+sorry
+denial
+steel |  
+| bip_39_word_new_line11 | truth
+wheat
+shop
+pond
+fold
+cycle
+harvest
+sorry
+denial
+steel
+awesome |  
+| bip_39_word_new_line12 | truth
+wheat
+shop
+pond
+fold
+cycle
+harvest
+sorry
+denial
+steel
+awesome
+athlete |  
+| bip_39_word_new_line2 | truth
+wheat |  
+| bip_39_word_new_line3 | truth
+wheat
+shop |  
+| bip_39_word_new_line4 | truth
+wheat
+shop
+pond |  
+| bip_39_word_new_line5 | truth
+wheat
+shop
+pond
+fold |  
+| bip_39_word_new_line6 | truth
+wheat
+shop
+pond
+fold
+cycle |  
+| bip_39_word_new_line7 | truth
+wheat
+shop
+pond
+fold
+cycle
+harvest |  
+| bip_39_word_new_line8 | truth
+wheat
+shop
+pond
+fold
+cycle
+harvest
+sorry |  
+| bip_39_word_new_line9 | truth
+wheat
+shop
+pond
+fold
+cycle
+harvest
+sorry
+denial |  
+| bip_39_word_space_0 | ['truth', 'wheat', 'shop', 'pond', 'fold', 'cycle', 'harvest', 'sorry', 'denial', 'steel', 'awesome', 'athlete'] |  
+| bip_39_word_space_1 | truth |  
+| bip_39_word_space_10 | truth wheat shop pond fold cycle harvest sorry denial steel |  
+| bip_39_word_space_11 | truth wheat shop pond fold cycle harvest sorry denial steel awesome |  
+| bip_39_word_space_12 | truth wheat shop pond fold cycle harvest sorry denial steel awesome athlete |  
+| bip_39_word_space_2 | truth wheat |  
+| bip_39_word_space_3 | truth wheat shop |  
+| bip_39_word_space_4 | truth wheat shop pond |  
+| bip_39_word_space_5 | truth wheat shop pond fold |  
+| bip_39_word_space_6 | truth wheat shop pond fold cycle |  
+| bip_39_word_space_7 | truth wheat shop pond fold cycle harvest |  
+| bip_39_word_space_8 | truth wheat shop pond fold cycle harvest sorry |  
+| bip_39_word_space_9 | truth wheat shop pond fold cycle harvest sorry denial |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

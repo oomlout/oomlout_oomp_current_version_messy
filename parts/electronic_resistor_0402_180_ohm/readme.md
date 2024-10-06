@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: eyebrow sunset
+  * bip 39 word 3: eyebrow sunset coyote
+  * bip 39 word: eyebrow sunset coyote fruit ladder egg glance depth hospital verb journey amazing
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eyebrow |  
+| bip_39_word_new_br10 | eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb |  
+| bip_39_word_new_br11 | eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb<br>journey |  
+| bip_39_word_new_br12 | eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb<br>journey<br>amazing |  
+| bip_39_word_new_br2 | eyebrow<br>sunset |  
+| bip_39_word_new_br3 | eyebrow<br>sunset<br>coyote |  
+| bip_39_word_new_br4 | eyebrow<br>sunset<br>coyote<br>fruit |  
+| bip_39_word_new_br5 | eyebrow<br>sunset<br>coyote<br>fruit<br>ladder |  
+| bip_39_word_new_br6 | eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg |  
+| bip_39_word_new_br7 | eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance |  
+| bip_39_word_new_br8 | eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth |  
+| bip_39_word_new_br9 | eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital |  
+| bip_39_word_new_line1 | eyebrow |  
+| bip_39_word_new_line10 | eyebrow
+sunset
+coyote
+fruit
+ladder
+egg
+glance
+depth
+hospital
+verb |  
+| bip_39_word_new_line11 | eyebrow
+sunset
+coyote
+fruit
+ladder
+egg
+glance
+depth
+hospital
+verb
+journey |  
+| bip_39_word_new_line12 | eyebrow
+sunset
+coyote
+fruit
+ladder
+egg
+glance
+depth
+hospital
+verb
+journey
+amazing |  
+| bip_39_word_new_line2 | eyebrow
+sunset |  
+| bip_39_word_new_line3 | eyebrow
+sunset
+coyote |  
+| bip_39_word_new_line4 | eyebrow
+sunset
+coyote
+fruit |  
+| bip_39_word_new_line5 | eyebrow
+sunset
+coyote
+fruit
+ladder |  
+| bip_39_word_new_line6 | eyebrow
+sunset
+coyote
+fruit
+ladder
+egg |  
+| bip_39_word_new_line7 | eyebrow
+sunset
+coyote
+fruit
+ladder
+egg
+glance |  
+| bip_39_word_new_line8 | eyebrow
+sunset
+coyote
+fruit
+ladder
+egg
+glance
+depth |  
+| bip_39_word_new_line9 | eyebrow
+sunset
+coyote
+fruit
+ladder
+egg
+glance
+depth
+hospital |  
+| bip_39_word_space_0 | ['eyebrow', 'sunset', 'coyote', 'fruit', 'ladder', 'egg', 'glance', 'depth', 'hospital', 'verb', 'journey', 'amazing'] |  
+| bip_39_word_space_1 | eyebrow |  
+| bip_39_word_space_10 | eyebrow sunset coyote fruit ladder egg glance depth hospital verb |  
+| bip_39_word_space_11 | eyebrow sunset coyote fruit ladder egg glance depth hospital verb journey |  
+| bip_39_word_space_12 | eyebrow sunset coyote fruit ladder egg glance depth hospital verb journey amazing |  
+| bip_39_word_space_2 | eyebrow sunset |  
+| bip_39_word_space_3 | eyebrow sunset coyote |  
+| bip_39_word_space_4 | eyebrow sunset coyote fruit |  
+| bip_39_word_space_5 | eyebrow sunset coyote fruit ladder |  
+| bip_39_word_space_6 | eyebrow sunset coyote fruit ladder egg |  
+| bip_39_word_space_7 | eyebrow sunset coyote fruit ladder egg glance |  
+| bip_39_word_space_8 | eyebrow sunset coyote fruit ladder egg glance depth |  
+| bip_39_word_space_9 | eyebrow sunset coyote fruit ladder egg glance depth hospital |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

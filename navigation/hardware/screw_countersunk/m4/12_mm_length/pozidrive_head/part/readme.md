@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gun fluid
+  * bip 39 word 3: gun fluid history
+  * bip 39 word: gun fluid history model divide decline melt drum shell sick weekend ancient
 
 ### other_codes
 * short_code: cs4m12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gun |  
+| bip_39_word_new_br10 | gun<br>fluid<br>history<br>model<br>divide<br>decline<br>melt<br>drum<br>shell<br>sick |  
+| bip_39_word_new_br11 | gun<br>fluid<br>history<br>model<br>divide<br>decline<br>melt<br>drum<br>shell<br>sick<br>weekend |  
+| bip_39_word_new_br12 | gun<br>fluid<br>history<br>model<br>divide<br>decline<br>melt<br>drum<br>shell<br>sick<br>weekend<br>ancient |  
+| bip_39_word_new_br2 | gun<br>fluid |  
+| bip_39_word_new_br3 | gun<br>fluid<br>history |  
+| bip_39_word_new_br4 | gun<br>fluid<br>history<br>model |  
+| bip_39_word_new_br5 | gun<br>fluid<br>history<br>model<br>divide |  
+| bip_39_word_new_br6 | gun<br>fluid<br>history<br>model<br>divide<br>decline |  
+| bip_39_word_new_br7 | gun<br>fluid<br>history<br>model<br>divide<br>decline<br>melt |  
+| bip_39_word_new_br8 | gun<br>fluid<br>history<br>model<br>divide<br>decline<br>melt<br>drum |  
+| bip_39_word_new_br9 | gun<br>fluid<br>history<br>model<br>divide<br>decline<br>melt<br>drum<br>shell |  
+| bip_39_word_new_line1 | gun |  
+| bip_39_word_new_line10 | gun
+fluid
+history
+model
+divide
+decline
+melt
+drum
+shell
+sick |  
+| bip_39_word_new_line11 | gun
+fluid
+history
+model
+divide
+decline
+melt
+drum
+shell
+sick
+weekend |  
+| bip_39_word_new_line12 | gun
+fluid
+history
+model
+divide
+decline
+melt
+drum
+shell
+sick
+weekend
+ancient |  
+| bip_39_word_new_line2 | gun
+fluid |  
+| bip_39_word_new_line3 | gun
+fluid
+history |  
+| bip_39_word_new_line4 | gun
+fluid
+history
+model |  
+| bip_39_word_new_line5 | gun
+fluid
+history
+model
+divide |  
+| bip_39_word_new_line6 | gun
+fluid
+history
+model
+divide
+decline |  
+| bip_39_word_new_line7 | gun
+fluid
+history
+model
+divide
+decline
+melt |  
+| bip_39_word_new_line8 | gun
+fluid
+history
+model
+divide
+decline
+melt
+drum |  
+| bip_39_word_new_line9 | gun
+fluid
+history
+model
+divide
+decline
+melt
+drum
+shell |  
+| bip_39_word_space_0 | ['gun', 'fluid', 'history', 'model', 'divide', 'decline', 'melt', 'drum', 'shell', 'sick', 'weekend', 'ancient'] |  
+| bip_39_word_space_1 | gun |  
+| bip_39_word_space_10 | gun fluid history model divide decline melt drum shell sick |  
+| bip_39_word_space_11 | gun fluid history model divide decline melt drum shell sick weekend |  
+| bip_39_word_space_12 | gun fluid history model divide decline melt drum shell sick weekend ancient |  
+| bip_39_word_space_2 | gun fluid |  
+| bip_39_word_space_3 | gun fluid history |  
+| bip_39_word_space_4 | gun fluid history model |  
+| bip_39_word_space_5 | gun fluid history model divide |  
+| bip_39_word_space_6 | gun fluid history model divide decline |  
+| bip_39_word_space_7 | gun fluid history model divide decline melt |  
+| bip_39_word_space_8 | gun fluid history model divide decline melt drum |  
+| bip_39_word_space_9 | gun fluid history model divide decline melt drum shell |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

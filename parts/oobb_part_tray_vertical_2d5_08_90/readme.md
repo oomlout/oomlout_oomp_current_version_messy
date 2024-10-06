@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: illness source
+  * bip 39 word 3: illness source palm
+  * bip 39 word: illness source palm nose feature derive seven razor zero either lawn anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | illness |  
+| bip_39_word_new_br10 | illness<br>source<br>palm<br>nose<br>feature<br>derive<br>seven<br>razor<br>zero<br>either |  
+| bip_39_word_new_br11 | illness<br>source<br>palm<br>nose<br>feature<br>derive<br>seven<br>razor<br>zero<br>either<br>lawn |  
+| bip_39_word_new_br12 | illness<br>source<br>palm<br>nose<br>feature<br>derive<br>seven<br>razor<br>zero<br>either<br>lawn<br>anchor |  
+| bip_39_word_new_br2 | illness<br>source |  
+| bip_39_word_new_br3 | illness<br>source<br>palm |  
+| bip_39_word_new_br4 | illness<br>source<br>palm<br>nose |  
+| bip_39_word_new_br5 | illness<br>source<br>palm<br>nose<br>feature |  
+| bip_39_word_new_br6 | illness<br>source<br>palm<br>nose<br>feature<br>derive |  
+| bip_39_word_new_br7 | illness<br>source<br>palm<br>nose<br>feature<br>derive<br>seven |  
+| bip_39_word_new_br8 | illness<br>source<br>palm<br>nose<br>feature<br>derive<br>seven<br>razor |  
+| bip_39_word_new_br9 | illness<br>source<br>palm<br>nose<br>feature<br>derive<br>seven<br>razor<br>zero |  
+| bip_39_word_new_line1 | illness |  
+| bip_39_word_new_line10 | illness
+source
+palm
+nose
+feature
+derive
+seven
+razor
+zero
+either |  
+| bip_39_word_new_line11 | illness
+source
+palm
+nose
+feature
+derive
+seven
+razor
+zero
+either
+lawn |  
+| bip_39_word_new_line12 | illness
+source
+palm
+nose
+feature
+derive
+seven
+razor
+zero
+either
+lawn
+anchor |  
+| bip_39_word_new_line2 | illness
+source |  
+| bip_39_word_new_line3 | illness
+source
+palm |  
+| bip_39_word_new_line4 | illness
+source
+palm
+nose |  
+| bip_39_word_new_line5 | illness
+source
+palm
+nose
+feature |  
+| bip_39_word_new_line6 | illness
+source
+palm
+nose
+feature
+derive |  
+| bip_39_word_new_line7 | illness
+source
+palm
+nose
+feature
+derive
+seven |  
+| bip_39_word_new_line8 | illness
+source
+palm
+nose
+feature
+derive
+seven
+razor |  
+| bip_39_word_new_line9 | illness
+source
+palm
+nose
+feature
+derive
+seven
+razor
+zero |  
+| bip_39_word_space_0 | ['illness', 'source', 'palm', 'nose', 'feature', 'derive', 'seven', 'razor', 'zero', 'either', 'lawn', 'anchor'] |  
+| bip_39_word_space_1 | illness |  
+| bip_39_word_space_10 | illness source palm nose feature derive seven razor zero either |  
+| bip_39_word_space_11 | illness source palm nose feature derive seven razor zero either lawn |  
+| bip_39_word_space_12 | illness source palm nose feature derive seven razor zero either lawn anchor |  
+| bip_39_word_space_2 | illness source |  
+| bip_39_word_space_3 | illness source palm |  
+| bip_39_word_space_4 | illness source palm nose |  
+| bip_39_word_space_5 | illness source palm nose feature |  
+| bip_39_word_space_6 | illness source palm nose feature derive |  
+| bip_39_word_space_7 | illness source palm nose feature derive seven |  
+| bip_39_word_space_8 | illness source palm nose feature derive seven razor |  
+| bip_39_word_space_9 | illness source palm nose feature derive seven razor zero |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sing alpha
+  * bip 39 word 3: sing alpha future
+  * bip 39 word: sing alpha future whip tunnel loan divorce mixed east divide mix among
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sing |  
+| bip_39_word_new_br10 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan<br>divorce<br>mixed<br>east<br>divide |  
+| bip_39_word_new_br11 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan<br>divorce<br>mixed<br>east<br>divide<br>mix |  
+| bip_39_word_new_br12 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan<br>divorce<br>mixed<br>east<br>divide<br>mix<br>among |  
+| bip_39_word_new_br2 | sing<br>alpha |  
+| bip_39_word_new_br3 | sing<br>alpha<br>future |  
+| bip_39_word_new_br4 | sing<br>alpha<br>future<br>whip |  
+| bip_39_word_new_br5 | sing<br>alpha<br>future<br>whip<br>tunnel |  
+| bip_39_word_new_br6 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan |  
+| bip_39_word_new_br7 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan<br>divorce |  
+| bip_39_word_new_br8 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan<br>divorce<br>mixed |  
+| bip_39_word_new_br9 | sing<br>alpha<br>future<br>whip<br>tunnel<br>loan<br>divorce<br>mixed<br>east |  
+| bip_39_word_new_line1 | sing |  
+| bip_39_word_new_line10 | sing
+alpha
+future
+whip
+tunnel
+loan
+divorce
+mixed
+east
+divide |  
+| bip_39_word_new_line11 | sing
+alpha
+future
+whip
+tunnel
+loan
+divorce
+mixed
+east
+divide
+mix |  
+| bip_39_word_new_line12 | sing
+alpha
+future
+whip
+tunnel
+loan
+divorce
+mixed
+east
+divide
+mix
+among |  
+| bip_39_word_new_line2 | sing
+alpha |  
+| bip_39_word_new_line3 | sing
+alpha
+future |  
+| bip_39_word_new_line4 | sing
+alpha
+future
+whip |  
+| bip_39_word_new_line5 | sing
+alpha
+future
+whip
+tunnel |  
+| bip_39_word_new_line6 | sing
+alpha
+future
+whip
+tunnel
+loan |  
+| bip_39_word_new_line7 | sing
+alpha
+future
+whip
+tunnel
+loan
+divorce |  
+| bip_39_word_new_line8 | sing
+alpha
+future
+whip
+tunnel
+loan
+divorce
+mixed |  
+| bip_39_word_new_line9 | sing
+alpha
+future
+whip
+tunnel
+loan
+divorce
+mixed
+east |  
+| bip_39_word_space_0 | ['sing', 'alpha', 'future', 'whip', 'tunnel', 'loan', 'divorce', 'mixed', 'east', 'divide', 'mix', 'among'] |  
+| bip_39_word_space_1 | sing |  
+| bip_39_word_space_10 | sing alpha future whip tunnel loan divorce mixed east divide |  
+| bip_39_word_space_11 | sing alpha future whip tunnel loan divorce mixed east divide mix |  
+| bip_39_word_space_12 | sing alpha future whip tunnel loan divorce mixed east divide mix among |  
+| bip_39_word_space_2 | sing alpha |  
+| bip_39_word_space_3 | sing alpha future |  
+| bip_39_word_space_4 | sing alpha future whip |  
+| bip_39_word_space_5 | sing alpha future whip tunnel |  
+| bip_39_word_space_6 | sing alpha future whip tunnel loan |  
+| bip_39_word_space_7 | sing alpha future whip tunnel loan divorce |  
+| bip_39_word_space_8 | sing alpha future whip tunnel loan divorce mixed |  
+| bip_39_word_space_9 | sing alpha future whip tunnel loan divorce mixed east |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

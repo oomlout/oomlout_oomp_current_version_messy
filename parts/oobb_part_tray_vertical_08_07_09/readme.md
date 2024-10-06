@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: potato warfare
+  * bip 39 word 3: potato warfare nose
+  * bip 39 word: potato warfare nose quality salmon injury true toe dust alpha worth athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | potato |  
+| bip_39_word_new_br10 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury<br>true<br>toe<br>dust<br>alpha |  
+| bip_39_word_new_br11 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury<br>true<br>toe<br>dust<br>alpha<br>worth |  
+| bip_39_word_new_br12 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury<br>true<br>toe<br>dust<br>alpha<br>worth<br>athlete |  
+| bip_39_word_new_br2 | potato<br>warfare |  
+| bip_39_word_new_br3 | potato<br>warfare<br>nose |  
+| bip_39_word_new_br4 | potato<br>warfare<br>nose<br>quality |  
+| bip_39_word_new_br5 | potato<br>warfare<br>nose<br>quality<br>salmon |  
+| bip_39_word_new_br6 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury |  
+| bip_39_word_new_br7 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury<br>true |  
+| bip_39_word_new_br8 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury<br>true<br>toe |  
+| bip_39_word_new_br9 | potato<br>warfare<br>nose<br>quality<br>salmon<br>injury<br>true<br>toe<br>dust |  
+| bip_39_word_new_line1 | potato |  
+| bip_39_word_new_line10 | potato
+warfare
+nose
+quality
+salmon
+injury
+true
+toe
+dust
+alpha |  
+| bip_39_word_new_line11 | potato
+warfare
+nose
+quality
+salmon
+injury
+true
+toe
+dust
+alpha
+worth |  
+| bip_39_word_new_line12 | potato
+warfare
+nose
+quality
+salmon
+injury
+true
+toe
+dust
+alpha
+worth
+athlete |  
+| bip_39_word_new_line2 | potato
+warfare |  
+| bip_39_word_new_line3 | potato
+warfare
+nose |  
+| bip_39_word_new_line4 | potato
+warfare
+nose
+quality |  
+| bip_39_word_new_line5 | potato
+warfare
+nose
+quality
+salmon |  
+| bip_39_word_new_line6 | potato
+warfare
+nose
+quality
+salmon
+injury |  
+| bip_39_word_new_line7 | potato
+warfare
+nose
+quality
+salmon
+injury
+true |  
+| bip_39_word_new_line8 | potato
+warfare
+nose
+quality
+salmon
+injury
+true
+toe |  
+| bip_39_word_new_line9 | potato
+warfare
+nose
+quality
+salmon
+injury
+true
+toe
+dust |  
+| bip_39_word_space_0 | ['potato', 'warfare', 'nose', 'quality', 'salmon', 'injury', 'true', 'toe', 'dust', 'alpha', 'worth', 'athlete'] |  
+| bip_39_word_space_1 | potato |  
+| bip_39_word_space_10 | potato warfare nose quality salmon injury true toe dust alpha |  
+| bip_39_word_space_11 | potato warfare nose quality salmon injury true toe dust alpha worth |  
+| bip_39_word_space_12 | potato warfare nose quality salmon injury true toe dust alpha worth athlete |  
+| bip_39_word_space_2 | potato warfare |  
+| bip_39_word_space_3 | potato warfare nose |  
+| bip_39_word_space_4 | potato warfare nose quality |  
+| bip_39_word_space_5 | potato warfare nose quality salmon |  
+| bip_39_word_space_6 | potato warfare nose quality salmon injury |  
+| bip_39_word_space_7 | potato warfare nose quality salmon injury true |  
+| bip_39_word_space_8 | potato warfare nose quality salmon injury true toe |  
+| bip_39_word_space_9 | potato warfare nose quality salmon injury true toe dust |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

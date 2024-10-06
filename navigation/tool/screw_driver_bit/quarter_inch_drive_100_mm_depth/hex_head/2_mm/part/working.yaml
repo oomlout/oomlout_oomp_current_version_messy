@@ -1,3 +1,186 @@
+bip_39_word_new_br1: copy
+bip_39_word_new_br10: copy<br>kick<br>course<br>spice<br>marriage<br>swamp<br>wasp<br>middle<br>fabric<br>crane
+bip_39_word_new_br11: copy<br>kick<br>course<br>spice<br>marriage<br>swamp<br>wasp<br>middle<br>fabric<br>crane<br>trouble
+bip_39_word_new_br12: copy<br>kick<br>course<br>spice<br>marriage<br>swamp<br>wasp<br>middle<br>fabric<br>crane<br>trouble<br>above
+bip_39_word_new_br2: copy<br>kick
+bip_39_word_new_br3: copy<br>kick<br>course
+bip_39_word_new_br4: copy<br>kick<br>course<br>spice
+bip_39_word_new_br5: copy<br>kick<br>course<br>spice<br>marriage
+bip_39_word_new_br6: copy<br>kick<br>course<br>spice<br>marriage<br>swamp
+bip_39_word_new_br7: copy<br>kick<br>course<br>spice<br>marriage<br>swamp<br>wasp
+bip_39_word_new_br8: copy<br>kick<br>course<br>spice<br>marriage<br>swamp<br>wasp<br>middle
+bip_39_word_new_br9: copy<br>kick<br>course<br>spice<br>marriage<br>swamp<br>wasp<br>middle<br>fabric
+bip_39_word_new_line1: copy
+bip_39_word_new_line10: 'copy
+
+  kick
+
+  course
+
+  spice
+
+  marriage
+
+  swamp
+
+  wasp
+
+  middle
+
+  fabric
+
+  crane'
+bip_39_word_new_line11: 'copy
+
+  kick
+
+  course
+
+  spice
+
+  marriage
+
+  swamp
+
+  wasp
+
+  middle
+
+  fabric
+
+  crane
+
+  trouble'
+bip_39_word_new_line12: 'copy
+
+  kick
+
+  course
+
+  spice
+
+  marriage
+
+  swamp
+
+  wasp
+
+  middle
+
+  fabric
+
+  crane
+
+  trouble
+
+  above'
+bip_39_word_new_line2: 'copy
+
+  kick'
+bip_39_word_new_line3: 'copy
+
+  kick
+
+  course'
+bip_39_word_new_line4: 'copy
+
+  kick
+
+  course
+
+  spice'
+bip_39_word_new_line5: 'copy
+
+  kick
+
+  course
+
+  spice
+
+  marriage'
+bip_39_word_new_line6: 'copy
+
+  kick
+
+  course
+
+  spice
+
+  marriage
+
+  swamp'
+bip_39_word_new_line7: 'copy
+
+  kick
+
+  course
+
+  spice
+
+  marriage
+
+  swamp
+
+  wasp'
+bip_39_word_new_line8: 'copy
+
+  kick
+
+  course
+
+  spice
+
+  marriage
+
+  swamp
+
+  wasp
+
+  middle'
+bip_39_word_new_line9: 'copy
+
+  kick
+
+  course
+
+  spice
+
+  marriage
+
+  swamp
+
+  wasp
+
+  middle
+
+  fabric'
+bip_39_word_space_0:
+- copy
+- kick
+- course
+- spice
+- marriage
+- swamp
+- wasp
+- middle
+- fabric
+- crane
+- trouble
+- above
+bip_39_word_space_1: copy
+bip_39_word_space_10: copy kick course spice marriage swamp wasp middle fabric crane
+bip_39_word_space_11: copy kick course spice marriage swamp wasp middle fabric crane
+  trouble
+bip_39_word_space_12: copy kick course spice marriage swamp wasp middle fabric crane
+  trouble above
+bip_39_word_space_2: copy kick
+bip_39_word_space_3: copy kick course
+bip_39_word_space_4: copy kick course spice
+bip_39_word_space_5: copy kick course spice marriage
+bip_39_word_space_6: copy kick course spice marriage swamp
+bip_39_word_space_7: copy kick course spice marriage swamp wasp
+bip_39_word_space_8: copy kick course spice marriage swamp wasp middle
+bip_39_word_space_9: copy kick course spice marriage swamp wasp middle fabric
 classification: tool
 classification_capital: Tool
 classification_first_letter: t

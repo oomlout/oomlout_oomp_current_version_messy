@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bonus
+bip_39_word_new_br10: bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief<br>throw<br>tuition<br>sick<br>burst
+bip_39_word_new_br11: bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief<br>throw<br>tuition<br>sick<br>burst<br>praise
+bip_39_word_new_br12: bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief<br>throw<br>tuition<br>sick<br>burst<br>praise<br>autumn
+bip_39_word_new_br2: bonus<br>vessel
+bip_39_word_new_br3: bonus<br>vessel<br>soft
+bip_39_word_new_br4: bonus<br>vessel<br>soft<br>dismiss
+bip_39_word_new_br5: bonus<br>vessel<br>soft<br>dismiss<br>eternal
+bip_39_word_new_br6: bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief
+bip_39_word_new_br7: bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief<br>throw
+bip_39_word_new_br8: bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief<br>throw<br>tuition
+bip_39_word_new_br9: bonus<br>vessel<br>soft<br>dismiss<br>eternal<br>grief<br>throw<br>tuition<br>sick
+bip_39_word_new_line1: bonus
+bip_39_word_new_line10: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss
+
+  eternal
+
+  grief
+
+  throw
+
+  tuition
+
+  sick
+
+  burst'
+bip_39_word_new_line11: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss
+
+  eternal
+
+  grief
+
+  throw
+
+  tuition
+
+  sick
+
+  burst
+
+  praise'
+bip_39_word_new_line12: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss
+
+  eternal
+
+  grief
+
+  throw
+
+  tuition
+
+  sick
+
+  burst
+
+  praise
+
+  autumn'
+bip_39_word_new_line2: 'bonus
+
+  vessel'
+bip_39_word_new_line3: 'bonus
+
+  vessel
+
+  soft'
+bip_39_word_new_line4: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss'
+bip_39_word_new_line5: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss
+
+  eternal'
+bip_39_word_new_line6: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss
+
+  eternal
+
+  grief'
+bip_39_word_new_line7: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss
+
+  eternal
+
+  grief
+
+  throw'
+bip_39_word_new_line8: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss
+
+  eternal
+
+  grief
+
+  throw
+
+  tuition'
+bip_39_word_new_line9: 'bonus
+
+  vessel
+
+  soft
+
+  dismiss
+
+  eternal
+
+  grief
+
+  throw
+
+  tuition
+
+  sick'
+bip_39_word_space_0:
+- bonus
+- vessel
+- soft
+- dismiss
+- eternal
+- grief
+- throw
+- tuition
+- sick
+- burst
+- praise
+- autumn
+bip_39_word_space_1: bonus
+bip_39_word_space_10: bonus vessel soft dismiss eternal grief throw tuition sick burst
+bip_39_word_space_11: bonus vessel soft dismiss eternal grief throw tuition sick burst
+  praise
+bip_39_word_space_12: bonus vessel soft dismiss eternal grief throw tuition sick burst
+  praise autumn
+bip_39_word_space_2: bonus vessel
+bip_39_word_space_3: bonus vessel soft
+bip_39_word_space_4: bonus vessel soft dismiss
+bip_39_word_space_5: bonus vessel soft dismiss eternal
+bip_39_word_space_6: bonus vessel soft dismiss eternal grief
+bip_39_word_space_7: bonus vessel soft dismiss eternal grief throw
+bip_39_word_space_8: bonus vessel soft dismiss eternal grief throw tuition
+bip_39_word_space_9: bonus vessel soft dismiss eternal grief throw tuition sick
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

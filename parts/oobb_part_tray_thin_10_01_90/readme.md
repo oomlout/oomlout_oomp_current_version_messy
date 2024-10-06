@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: public indoor
+  * bip 39 word 3: public indoor awesome
+  * bip 39 word: public indoor awesome vibrant evolve oppose such lunch also remain surface asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | public |  
+| bip_39_word_new_br10 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose<br>such<br>lunch<br>also<br>remain |  
+| bip_39_word_new_br11 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose<br>such<br>lunch<br>also<br>remain<br>surface |  
+| bip_39_word_new_br12 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose<br>such<br>lunch<br>also<br>remain<br>surface<br>asthma |  
+| bip_39_word_new_br2 | public<br>indoor |  
+| bip_39_word_new_br3 | public<br>indoor<br>awesome |  
+| bip_39_word_new_br4 | public<br>indoor<br>awesome<br>vibrant |  
+| bip_39_word_new_br5 | public<br>indoor<br>awesome<br>vibrant<br>evolve |  
+| bip_39_word_new_br6 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose |  
+| bip_39_word_new_br7 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose<br>such |  
+| bip_39_word_new_br8 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose<br>such<br>lunch |  
+| bip_39_word_new_br9 | public<br>indoor<br>awesome<br>vibrant<br>evolve<br>oppose<br>such<br>lunch<br>also |  
+| bip_39_word_new_line1 | public |  
+| bip_39_word_new_line10 | public
+indoor
+awesome
+vibrant
+evolve
+oppose
+such
+lunch
+also
+remain |  
+| bip_39_word_new_line11 | public
+indoor
+awesome
+vibrant
+evolve
+oppose
+such
+lunch
+also
+remain
+surface |  
+| bip_39_word_new_line12 | public
+indoor
+awesome
+vibrant
+evolve
+oppose
+such
+lunch
+also
+remain
+surface
+asthma |  
+| bip_39_word_new_line2 | public
+indoor |  
+| bip_39_word_new_line3 | public
+indoor
+awesome |  
+| bip_39_word_new_line4 | public
+indoor
+awesome
+vibrant |  
+| bip_39_word_new_line5 | public
+indoor
+awesome
+vibrant
+evolve |  
+| bip_39_word_new_line6 | public
+indoor
+awesome
+vibrant
+evolve
+oppose |  
+| bip_39_word_new_line7 | public
+indoor
+awesome
+vibrant
+evolve
+oppose
+such |  
+| bip_39_word_new_line8 | public
+indoor
+awesome
+vibrant
+evolve
+oppose
+such
+lunch |  
+| bip_39_word_new_line9 | public
+indoor
+awesome
+vibrant
+evolve
+oppose
+such
+lunch
+also |  
+| bip_39_word_space_0 | ['public', 'indoor', 'awesome', 'vibrant', 'evolve', 'oppose', 'such', 'lunch', 'also', 'remain', 'surface', 'asthma'] |  
+| bip_39_word_space_1 | public |  
+| bip_39_word_space_10 | public indoor awesome vibrant evolve oppose such lunch also remain |  
+| bip_39_word_space_11 | public indoor awesome vibrant evolve oppose such lunch also remain surface |  
+| bip_39_word_space_12 | public indoor awesome vibrant evolve oppose such lunch also remain surface asthma |  
+| bip_39_word_space_2 | public indoor |  
+| bip_39_word_space_3 | public indoor awesome |  
+| bip_39_word_space_4 | public indoor awesome vibrant |  
+| bip_39_word_space_5 | public indoor awesome vibrant evolve |  
+| bip_39_word_space_6 | public indoor awesome vibrant evolve oppose |  
+| bip_39_word_space_7 | public indoor awesome vibrant evolve oppose such |  
+| bip_39_word_space_8 | public indoor awesome vibrant evolve oppose such lunch |  
+| bip_39_word_space_9 | public indoor awesome vibrant evolve oppose such lunch also |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

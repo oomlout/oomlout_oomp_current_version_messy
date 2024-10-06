@@ -1,3 +1,187 @@
+bip_39_word_new_br1: indicate
+bip_39_word_new_br10: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit<br>garden<br>alpha<br>mountain<br>pyramid
+bip_39_word_new_br11: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit<br>garden<br>alpha<br>mountain<br>pyramid<br>hurt
+bip_39_word_new_br12: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit<br>garden<br>alpha<br>mountain<br>pyramid<br>hurt<br>any
+bip_39_word_new_br2: indicate<br>wise
+bip_39_word_new_br3: indicate<br>wise<br>sentence
+bip_39_word_new_br4: indicate<br>wise<br>sentence<br>embrace
+bip_39_word_new_br5: indicate<br>wise<br>sentence<br>embrace<br>salute
+bip_39_word_new_br6: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit
+bip_39_word_new_br7: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit<br>garden
+bip_39_word_new_br8: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit<br>garden<br>alpha
+bip_39_word_new_br9: indicate<br>wise<br>sentence<br>embrace<br>salute<br>merit<br>garden<br>alpha<br>mountain
+bip_39_word_new_line1: indicate
+bip_39_word_new_line10: 'indicate
+
+  wise
+
+  sentence
+
+  embrace
+
+  salute
+
+  merit
+
+  garden
+
+  alpha
+
+  mountain
+
+  pyramid'
+bip_39_word_new_line11: 'indicate
+
+  wise
+
+  sentence
+
+  embrace
+
+  salute
+
+  merit
+
+  garden
+
+  alpha
+
+  mountain
+
+  pyramid
+
+  hurt'
+bip_39_word_new_line12: 'indicate
+
+  wise
+
+  sentence
+
+  embrace
+
+  salute
+
+  merit
+
+  garden
+
+  alpha
+
+  mountain
+
+  pyramid
+
+  hurt
+
+  any'
+bip_39_word_new_line2: 'indicate
+
+  wise'
+bip_39_word_new_line3: 'indicate
+
+  wise
+
+  sentence'
+bip_39_word_new_line4: 'indicate
+
+  wise
+
+  sentence
+
+  embrace'
+bip_39_word_new_line5: 'indicate
+
+  wise
+
+  sentence
+
+  embrace
+
+  salute'
+bip_39_word_new_line6: 'indicate
+
+  wise
+
+  sentence
+
+  embrace
+
+  salute
+
+  merit'
+bip_39_word_new_line7: 'indicate
+
+  wise
+
+  sentence
+
+  embrace
+
+  salute
+
+  merit
+
+  garden'
+bip_39_word_new_line8: 'indicate
+
+  wise
+
+  sentence
+
+  embrace
+
+  salute
+
+  merit
+
+  garden
+
+  alpha'
+bip_39_word_new_line9: 'indicate
+
+  wise
+
+  sentence
+
+  embrace
+
+  salute
+
+  merit
+
+  garden
+
+  alpha
+
+  mountain'
+bip_39_word_space_0:
+- indicate
+- wise
+- sentence
+- embrace
+- salute
+- merit
+- garden
+- alpha
+- mountain
+- pyramid
+- hurt
+- any
+bip_39_word_space_1: indicate
+bip_39_word_space_10: indicate wise sentence embrace salute merit garden alpha mountain
+  pyramid
+bip_39_word_space_11: indicate wise sentence embrace salute merit garden alpha mountain
+  pyramid hurt
+bip_39_word_space_12: indicate wise sentence embrace salute merit garden alpha mountain
+  pyramid hurt any
+bip_39_word_space_2: indicate wise
+bip_39_word_space_3: indicate wise sentence
+bip_39_word_space_4: indicate wise sentence embrace
+bip_39_word_space_5: indicate wise sentence embrace salute
+bip_39_word_space_6: indicate wise sentence embrace salute merit
+bip_39_word_space_7: indicate wise sentence embrace salute merit garden
+bip_39_word_space_8: indicate wise sentence embrace salute merit garden alpha
+bip_39_word_space_9: indicate wise sentence embrace salute merit garden alpha mountain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

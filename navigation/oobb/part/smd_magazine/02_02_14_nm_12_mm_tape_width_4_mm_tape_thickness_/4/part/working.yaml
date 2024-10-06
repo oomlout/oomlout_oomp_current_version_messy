@@ -1,3 +1,185 @@
+bip_39_word_new_br1: miss
+bip_39_word_new_br10: miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank
+bip_39_word_new_br11: miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank<br>latin
+bip_39_word_new_br12: miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert<br>thank<br>latin<br>afford
+bip_39_word_new_br2: miss<br>use
+bip_39_word_new_br3: miss<br>use<br>chat
+bip_39_word_new_br4: miss<br>use<br>chat<br>mass
+bip_39_word_new_br5: miss<br>use<br>chat<br>mass<br>pyramid
+bip_39_word_new_br6: miss<br>use<br>chat<br>mass<br>pyramid<br>pill
+bip_39_word_new_br7: miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion
+bip_39_word_new_br8: miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north
+bip_39_word_new_br9: miss<br>use<br>chat<br>mass<br>pyramid<br>pill<br>mansion<br>north<br>divert
+bip_39_word_new_line1: miss
+bip_39_word_new_line10: 'miss
+
+  use
+
+  chat
+
+  mass
+
+  pyramid
+
+  pill
+
+  mansion
+
+  north
+
+  divert
+
+  thank'
+bip_39_word_new_line11: 'miss
+
+  use
+
+  chat
+
+  mass
+
+  pyramid
+
+  pill
+
+  mansion
+
+  north
+
+  divert
+
+  thank
+
+  latin'
+bip_39_word_new_line12: 'miss
+
+  use
+
+  chat
+
+  mass
+
+  pyramid
+
+  pill
+
+  mansion
+
+  north
+
+  divert
+
+  thank
+
+  latin
+
+  afford'
+bip_39_word_new_line2: 'miss
+
+  use'
+bip_39_word_new_line3: 'miss
+
+  use
+
+  chat'
+bip_39_word_new_line4: 'miss
+
+  use
+
+  chat
+
+  mass'
+bip_39_word_new_line5: 'miss
+
+  use
+
+  chat
+
+  mass
+
+  pyramid'
+bip_39_word_new_line6: 'miss
+
+  use
+
+  chat
+
+  mass
+
+  pyramid
+
+  pill'
+bip_39_word_new_line7: 'miss
+
+  use
+
+  chat
+
+  mass
+
+  pyramid
+
+  pill
+
+  mansion'
+bip_39_word_new_line8: 'miss
+
+  use
+
+  chat
+
+  mass
+
+  pyramid
+
+  pill
+
+  mansion
+
+  north'
+bip_39_word_new_line9: 'miss
+
+  use
+
+  chat
+
+  mass
+
+  pyramid
+
+  pill
+
+  mansion
+
+  north
+
+  divert'
+bip_39_word_space_0:
+- miss
+- use
+- chat
+- mass
+- pyramid
+- pill
+- mansion
+- north
+- divert
+- thank
+- latin
+- afford
+bip_39_word_space_1: miss
+bip_39_word_space_10: miss use chat mass pyramid pill mansion north divert thank
+bip_39_word_space_11: miss use chat mass pyramid pill mansion north divert thank latin
+bip_39_word_space_12: miss use chat mass pyramid pill mansion north divert thank latin
+  afford
+bip_39_word_space_2: miss use
+bip_39_word_space_3: miss use chat
+bip_39_word_space_4: miss use chat mass
+bip_39_word_space_5: miss use chat mass pyramid
+bip_39_word_space_6: miss use chat mass pyramid pill
+bip_39_word_space_7: miss use chat mass pyramid pill mansion
+bip_39_word_space_8: miss use chat mass pyramid pill mansion north
+bip_39_word_space_9: miss use chat mass pyramid pill mansion north divert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

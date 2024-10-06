@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: truth dumb
+  * bip 39 word 3: truth dumb shaft
+  * bip 39 word: truth dumb shaft cost extend galaxy talent true renew exact velvet apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | truth |  
+| bip_39_word_new_br10 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy<br>talent<br>true<br>renew<br>exact |  
+| bip_39_word_new_br11 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy<br>talent<br>true<br>renew<br>exact<br>velvet |  
+| bip_39_word_new_br12 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy<br>talent<br>true<br>renew<br>exact<br>velvet<br>apart |  
+| bip_39_word_new_br2 | truth<br>dumb |  
+| bip_39_word_new_br3 | truth<br>dumb<br>shaft |  
+| bip_39_word_new_br4 | truth<br>dumb<br>shaft<br>cost |  
+| bip_39_word_new_br5 | truth<br>dumb<br>shaft<br>cost<br>extend |  
+| bip_39_word_new_br6 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy |  
+| bip_39_word_new_br7 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy<br>talent |  
+| bip_39_word_new_br8 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy<br>talent<br>true |  
+| bip_39_word_new_br9 | truth<br>dumb<br>shaft<br>cost<br>extend<br>galaxy<br>talent<br>true<br>renew |  
+| bip_39_word_new_line1 | truth |  
+| bip_39_word_new_line10 | truth
+dumb
+shaft
+cost
+extend
+galaxy
+talent
+true
+renew
+exact |  
+| bip_39_word_new_line11 | truth
+dumb
+shaft
+cost
+extend
+galaxy
+talent
+true
+renew
+exact
+velvet |  
+| bip_39_word_new_line12 | truth
+dumb
+shaft
+cost
+extend
+galaxy
+talent
+true
+renew
+exact
+velvet
+apart |  
+| bip_39_word_new_line2 | truth
+dumb |  
+| bip_39_word_new_line3 | truth
+dumb
+shaft |  
+| bip_39_word_new_line4 | truth
+dumb
+shaft
+cost |  
+| bip_39_word_new_line5 | truth
+dumb
+shaft
+cost
+extend |  
+| bip_39_word_new_line6 | truth
+dumb
+shaft
+cost
+extend
+galaxy |  
+| bip_39_word_new_line7 | truth
+dumb
+shaft
+cost
+extend
+galaxy
+talent |  
+| bip_39_word_new_line8 | truth
+dumb
+shaft
+cost
+extend
+galaxy
+talent
+true |  
+| bip_39_word_new_line9 | truth
+dumb
+shaft
+cost
+extend
+galaxy
+talent
+true
+renew |  
+| bip_39_word_space_0 | ['truth', 'dumb', 'shaft', 'cost', 'extend', 'galaxy', 'talent', 'true', 'renew', 'exact', 'velvet', 'apart'] |  
+| bip_39_word_space_1 | truth |  
+| bip_39_word_space_10 | truth dumb shaft cost extend galaxy talent true renew exact |  
+| bip_39_word_space_11 | truth dumb shaft cost extend galaxy talent true renew exact velvet |  
+| bip_39_word_space_12 | truth dumb shaft cost extend galaxy talent true renew exact velvet apart |  
+| bip_39_word_space_2 | truth dumb |  
+| bip_39_word_space_3 | truth dumb shaft |  
+| bip_39_word_space_4 | truth dumb shaft cost |  
+| bip_39_word_space_5 | truth dumb shaft cost extend |  
+| bip_39_word_space_6 | truth dumb shaft cost extend galaxy |  
+| bip_39_word_space_7 | truth dumb shaft cost extend galaxy talent |  
+| bip_39_word_space_8 | truth dumb shaft cost extend galaxy talent true |  
+| bip_39_word_space_9 | truth dumb shaft cost extend galaxy talent true renew |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

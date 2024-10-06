@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trim bundle
+  * bip 39 word 3: trim bundle erode
+  * bip 39 word: trim bundle erode walnut fly night task street wait trophy puzzle athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trim |  
+| bip_39_word_new_br10 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night<br>task<br>street<br>wait<br>trophy |  
+| bip_39_word_new_br11 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night<br>task<br>street<br>wait<br>trophy<br>puzzle |  
+| bip_39_word_new_br12 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night<br>task<br>street<br>wait<br>trophy<br>puzzle<br>athlete |  
+| bip_39_word_new_br2 | trim<br>bundle |  
+| bip_39_word_new_br3 | trim<br>bundle<br>erode |  
+| bip_39_word_new_br4 | trim<br>bundle<br>erode<br>walnut |  
+| bip_39_word_new_br5 | trim<br>bundle<br>erode<br>walnut<br>fly |  
+| bip_39_word_new_br6 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night |  
+| bip_39_word_new_br7 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night<br>task |  
+| bip_39_word_new_br8 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night<br>task<br>street |  
+| bip_39_word_new_br9 | trim<br>bundle<br>erode<br>walnut<br>fly<br>night<br>task<br>street<br>wait |  
+| bip_39_word_new_line1 | trim |  
+| bip_39_word_new_line10 | trim
+bundle
+erode
+walnut
+fly
+night
+task
+street
+wait
+trophy |  
+| bip_39_word_new_line11 | trim
+bundle
+erode
+walnut
+fly
+night
+task
+street
+wait
+trophy
+puzzle |  
+| bip_39_word_new_line12 | trim
+bundle
+erode
+walnut
+fly
+night
+task
+street
+wait
+trophy
+puzzle
+athlete |  
+| bip_39_word_new_line2 | trim
+bundle |  
+| bip_39_word_new_line3 | trim
+bundle
+erode |  
+| bip_39_word_new_line4 | trim
+bundle
+erode
+walnut |  
+| bip_39_word_new_line5 | trim
+bundle
+erode
+walnut
+fly |  
+| bip_39_word_new_line6 | trim
+bundle
+erode
+walnut
+fly
+night |  
+| bip_39_word_new_line7 | trim
+bundle
+erode
+walnut
+fly
+night
+task |  
+| bip_39_word_new_line8 | trim
+bundle
+erode
+walnut
+fly
+night
+task
+street |  
+| bip_39_word_new_line9 | trim
+bundle
+erode
+walnut
+fly
+night
+task
+street
+wait |  
+| bip_39_word_space_0 | ['trim', 'bundle', 'erode', 'walnut', 'fly', 'night', 'task', 'street', 'wait', 'trophy', 'puzzle', 'athlete'] |  
+| bip_39_word_space_1 | trim |  
+| bip_39_word_space_10 | trim bundle erode walnut fly night task street wait trophy |  
+| bip_39_word_space_11 | trim bundle erode walnut fly night task street wait trophy puzzle |  
+| bip_39_word_space_12 | trim bundle erode walnut fly night task street wait trophy puzzle athlete |  
+| bip_39_word_space_2 | trim bundle |  
+| bip_39_word_space_3 | trim bundle erode |  
+| bip_39_word_space_4 | trim bundle erode walnut |  
+| bip_39_word_space_5 | trim bundle erode walnut fly |  
+| bip_39_word_space_6 | trim bundle erode walnut fly night |  
+| bip_39_word_space_7 | trim bundle erode walnut fly night task |  
+| bip_39_word_space_8 | trim bundle erode walnut fly night task street |  
+| bip_39_word_space_9 | trim bundle erode walnut fly night task street wait |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

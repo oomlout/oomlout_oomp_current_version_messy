@@ -1,3 +1,186 @@
+bip_39_word_new_br1: render
+bip_39_word_new_br10: render<br>urge<br>thumb<br>orient<br>taxi<br>romance<br>coconut<br>sting<br>magnet<br>bacon
+bip_39_word_new_br11: render<br>urge<br>thumb<br>orient<br>taxi<br>romance<br>coconut<br>sting<br>magnet<br>bacon<br>knife
+bip_39_word_new_br12: render<br>urge<br>thumb<br>orient<br>taxi<br>romance<br>coconut<br>sting<br>magnet<br>bacon<br>knife<br>animal
+bip_39_word_new_br2: render<br>urge
+bip_39_word_new_br3: render<br>urge<br>thumb
+bip_39_word_new_br4: render<br>urge<br>thumb<br>orient
+bip_39_word_new_br5: render<br>urge<br>thumb<br>orient<br>taxi
+bip_39_word_new_br6: render<br>urge<br>thumb<br>orient<br>taxi<br>romance
+bip_39_word_new_br7: render<br>urge<br>thumb<br>orient<br>taxi<br>romance<br>coconut
+bip_39_word_new_br8: render<br>urge<br>thumb<br>orient<br>taxi<br>romance<br>coconut<br>sting
+bip_39_word_new_br9: render<br>urge<br>thumb<br>orient<br>taxi<br>romance<br>coconut<br>sting<br>magnet
+bip_39_word_new_line1: render
+bip_39_word_new_line10: 'render
+
+  urge
+
+  thumb
+
+  orient
+
+  taxi
+
+  romance
+
+  coconut
+
+  sting
+
+  magnet
+
+  bacon'
+bip_39_word_new_line11: 'render
+
+  urge
+
+  thumb
+
+  orient
+
+  taxi
+
+  romance
+
+  coconut
+
+  sting
+
+  magnet
+
+  bacon
+
+  knife'
+bip_39_word_new_line12: 'render
+
+  urge
+
+  thumb
+
+  orient
+
+  taxi
+
+  romance
+
+  coconut
+
+  sting
+
+  magnet
+
+  bacon
+
+  knife
+
+  animal'
+bip_39_word_new_line2: 'render
+
+  urge'
+bip_39_word_new_line3: 'render
+
+  urge
+
+  thumb'
+bip_39_word_new_line4: 'render
+
+  urge
+
+  thumb
+
+  orient'
+bip_39_word_new_line5: 'render
+
+  urge
+
+  thumb
+
+  orient
+
+  taxi'
+bip_39_word_new_line6: 'render
+
+  urge
+
+  thumb
+
+  orient
+
+  taxi
+
+  romance'
+bip_39_word_new_line7: 'render
+
+  urge
+
+  thumb
+
+  orient
+
+  taxi
+
+  romance
+
+  coconut'
+bip_39_word_new_line8: 'render
+
+  urge
+
+  thumb
+
+  orient
+
+  taxi
+
+  romance
+
+  coconut
+
+  sting'
+bip_39_word_new_line9: 'render
+
+  urge
+
+  thumb
+
+  orient
+
+  taxi
+
+  romance
+
+  coconut
+
+  sting
+
+  magnet'
+bip_39_word_space_0:
+- render
+- urge
+- thumb
+- orient
+- taxi
+- romance
+- coconut
+- sting
+- magnet
+- bacon
+- knife
+- animal
+bip_39_word_space_1: render
+bip_39_word_space_10: render urge thumb orient taxi romance coconut sting magnet bacon
+bip_39_word_space_11: render urge thumb orient taxi romance coconut sting magnet bacon
+  knife
+bip_39_word_space_12: render urge thumb orient taxi romance coconut sting magnet bacon
+  knife animal
+bip_39_word_space_2: render urge
+bip_39_word_space_3: render urge thumb
+bip_39_word_space_4: render urge thumb orient
+bip_39_word_space_5: render urge thumb orient taxi
+bip_39_word_space_6: render urge thumb orient taxi romance
+bip_39_word_space_7: render urge thumb orient taxi romance coconut
+bip_39_word_space_8: render urge thumb orient taxi romance coconut sting
+bip_39_word_space_9: render urge thumb orient taxi romance coconut sting magnet
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

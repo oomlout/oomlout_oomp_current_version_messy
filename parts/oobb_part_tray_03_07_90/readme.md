@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: expect rate
+  * bip 39 word 3: expect rate wolf
+  * bip 39 word: expect rate wolf repair increase fall divorce monitor illness crowd choice asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | expect |  
+| bip_39_word_new_br10 | expect<br>rate<br>wolf<br>repair<br>increase<br>fall<br>divorce<br>monitor<br>illness<br>crowd |  
+| bip_39_word_new_br11 | expect<br>rate<br>wolf<br>repair<br>increase<br>fall<br>divorce<br>monitor<br>illness<br>crowd<br>choice |  
+| bip_39_word_new_br12 | expect<br>rate<br>wolf<br>repair<br>increase<br>fall<br>divorce<br>monitor<br>illness<br>crowd<br>choice<br>asset |  
+| bip_39_word_new_br2 | expect<br>rate |  
+| bip_39_word_new_br3 | expect<br>rate<br>wolf |  
+| bip_39_word_new_br4 | expect<br>rate<br>wolf<br>repair |  
+| bip_39_word_new_br5 | expect<br>rate<br>wolf<br>repair<br>increase |  
+| bip_39_word_new_br6 | expect<br>rate<br>wolf<br>repair<br>increase<br>fall |  
+| bip_39_word_new_br7 | expect<br>rate<br>wolf<br>repair<br>increase<br>fall<br>divorce |  
+| bip_39_word_new_br8 | expect<br>rate<br>wolf<br>repair<br>increase<br>fall<br>divorce<br>monitor |  
+| bip_39_word_new_br9 | expect<br>rate<br>wolf<br>repair<br>increase<br>fall<br>divorce<br>monitor<br>illness |  
+| bip_39_word_new_line1 | expect |  
+| bip_39_word_new_line10 | expect
+rate
+wolf
+repair
+increase
+fall
+divorce
+monitor
+illness
+crowd |  
+| bip_39_word_new_line11 | expect
+rate
+wolf
+repair
+increase
+fall
+divorce
+monitor
+illness
+crowd
+choice |  
+| bip_39_word_new_line12 | expect
+rate
+wolf
+repair
+increase
+fall
+divorce
+monitor
+illness
+crowd
+choice
+asset |  
+| bip_39_word_new_line2 | expect
+rate |  
+| bip_39_word_new_line3 | expect
+rate
+wolf |  
+| bip_39_word_new_line4 | expect
+rate
+wolf
+repair |  
+| bip_39_word_new_line5 | expect
+rate
+wolf
+repair
+increase |  
+| bip_39_word_new_line6 | expect
+rate
+wolf
+repair
+increase
+fall |  
+| bip_39_word_new_line7 | expect
+rate
+wolf
+repair
+increase
+fall
+divorce |  
+| bip_39_word_new_line8 | expect
+rate
+wolf
+repair
+increase
+fall
+divorce
+monitor |  
+| bip_39_word_new_line9 | expect
+rate
+wolf
+repair
+increase
+fall
+divorce
+monitor
+illness |  
+| bip_39_word_space_0 | ['expect', 'rate', 'wolf', 'repair', 'increase', 'fall', 'divorce', 'monitor', 'illness', 'crowd', 'choice', 'asset'] |  
+| bip_39_word_space_1 | expect |  
+| bip_39_word_space_10 | expect rate wolf repair increase fall divorce monitor illness crowd |  
+| bip_39_word_space_11 | expect rate wolf repair increase fall divorce monitor illness crowd choice |  
+| bip_39_word_space_12 | expect rate wolf repair increase fall divorce monitor illness crowd choice asset |  
+| bip_39_word_space_2 | expect rate |  
+| bip_39_word_space_3 | expect rate wolf |  
+| bip_39_word_space_4 | expect rate wolf repair |  
+| bip_39_word_space_5 | expect rate wolf repair increase |  
+| bip_39_word_space_6 | expect rate wolf repair increase fall |  
+| bip_39_word_space_7 | expect rate wolf repair increase fall divorce |  
+| bip_39_word_space_8 | expect rate wolf repair increase fall divorce monitor |  
+| bip_39_word_space_9 | expect rate wolf repair increase fall divorce monitor illness |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

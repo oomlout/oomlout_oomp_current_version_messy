@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: maximum stomach
+  * bip 39 word 3: maximum stomach beef
+  * bip 39 word: maximum stomach beef insect blanket broccoli shrimp hope rude walnut wink action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | maximum |  
+| bip_39_word_new_br10 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude<br>walnut |  
+| bip_39_word_new_br11 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude<br>walnut<br>wink |  
+| bip_39_word_new_br12 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude<br>walnut<br>wink<br>action |  
+| bip_39_word_new_br2 | maximum<br>stomach |  
+| bip_39_word_new_br3 | maximum<br>stomach<br>beef |  
+| bip_39_word_new_br4 | maximum<br>stomach<br>beef<br>insect |  
+| bip_39_word_new_br5 | maximum<br>stomach<br>beef<br>insect<br>blanket |  
+| bip_39_word_new_br6 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli |  
+| bip_39_word_new_br7 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp |  
+| bip_39_word_new_br8 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope |  
+| bip_39_word_new_br9 | maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude |  
+| bip_39_word_new_line1 | maximum |  
+| bip_39_word_new_line10 | maximum
+stomach
+beef
+insect
+blanket
+broccoli
+shrimp
+hope
+rude
+walnut |  
+| bip_39_word_new_line11 | maximum
+stomach
+beef
+insect
+blanket
+broccoli
+shrimp
+hope
+rude
+walnut
+wink |  
+| bip_39_word_new_line12 | maximum
+stomach
+beef
+insect
+blanket
+broccoli
+shrimp
+hope
+rude
+walnut
+wink
+action |  
+| bip_39_word_new_line2 | maximum
+stomach |  
+| bip_39_word_new_line3 | maximum
+stomach
+beef |  
+| bip_39_word_new_line4 | maximum
+stomach
+beef
+insect |  
+| bip_39_word_new_line5 | maximum
+stomach
+beef
+insect
+blanket |  
+| bip_39_word_new_line6 | maximum
+stomach
+beef
+insect
+blanket
+broccoli |  
+| bip_39_word_new_line7 | maximum
+stomach
+beef
+insect
+blanket
+broccoli
+shrimp |  
+| bip_39_word_new_line8 | maximum
+stomach
+beef
+insect
+blanket
+broccoli
+shrimp
+hope |  
+| bip_39_word_new_line9 | maximum
+stomach
+beef
+insect
+blanket
+broccoli
+shrimp
+hope
+rude |  
+| bip_39_word_space_0 | ['maximum', 'stomach', 'beef', 'insect', 'blanket', 'broccoli', 'shrimp', 'hope', 'rude', 'walnut', 'wink', 'action'] |  
+| bip_39_word_space_1 | maximum |  
+| bip_39_word_space_10 | maximum stomach beef insect blanket broccoli shrimp hope rude walnut |  
+| bip_39_word_space_11 | maximum stomach beef insect blanket broccoli shrimp hope rude walnut wink |  
+| bip_39_word_space_12 | maximum stomach beef insect blanket broccoli shrimp hope rude walnut wink action |  
+| bip_39_word_space_2 | maximum stomach |  
+| bip_39_word_space_3 | maximum stomach beef |  
+| bip_39_word_space_4 | maximum stomach beef insect |  
+| bip_39_word_space_5 | maximum stomach beef insect blanket |  
+| bip_39_word_space_6 | maximum stomach beef insect blanket broccoli |  
+| bip_39_word_space_7 | maximum stomach beef insect blanket broccoli shrimp |  
+| bip_39_word_space_8 | maximum stomach beef insect blanket broccoli shrimp hope |  
+| bip_39_word_space_9 | maximum stomach beef insect blanket broccoli shrimp hope rude |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

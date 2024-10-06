@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: purity rack
+  * bip 39 word 3: purity rack elbow
+  * bip 39 word: purity rack elbow fiber cycle invite fix chaos drink feed onion anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | purity |  
+| bip_39_word_new_br10 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite<br>fix<br>chaos<br>drink<br>feed |  
+| bip_39_word_new_br11 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite<br>fix<br>chaos<br>drink<br>feed<br>onion |  
+| bip_39_word_new_br12 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite<br>fix<br>chaos<br>drink<br>feed<br>onion<br>anxiety |  
+| bip_39_word_new_br2 | purity<br>rack |  
+| bip_39_word_new_br3 | purity<br>rack<br>elbow |  
+| bip_39_word_new_br4 | purity<br>rack<br>elbow<br>fiber |  
+| bip_39_word_new_br5 | purity<br>rack<br>elbow<br>fiber<br>cycle |  
+| bip_39_word_new_br6 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite |  
+| bip_39_word_new_br7 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite<br>fix |  
+| bip_39_word_new_br8 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite<br>fix<br>chaos |  
+| bip_39_word_new_br9 | purity<br>rack<br>elbow<br>fiber<br>cycle<br>invite<br>fix<br>chaos<br>drink |  
+| bip_39_word_new_line1 | purity |  
+| bip_39_word_new_line10 | purity
+rack
+elbow
+fiber
+cycle
+invite
+fix
+chaos
+drink
+feed |  
+| bip_39_word_new_line11 | purity
+rack
+elbow
+fiber
+cycle
+invite
+fix
+chaos
+drink
+feed
+onion |  
+| bip_39_word_new_line12 | purity
+rack
+elbow
+fiber
+cycle
+invite
+fix
+chaos
+drink
+feed
+onion
+anxiety |  
+| bip_39_word_new_line2 | purity
+rack |  
+| bip_39_word_new_line3 | purity
+rack
+elbow |  
+| bip_39_word_new_line4 | purity
+rack
+elbow
+fiber |  
+| bip_39_word_new_line5 | purity
+rack
+elbow
+fiber
+cycle |  
+| bip_39_word_new_line6 | purity
+rack
+elbow
+fiber
+cycle
+invite |  
+| bip_39_word_new_line7 | purity
+rack
+elbow
+fiber
+cycle
+invite
+fix |  
+| bip_39_word_new_line8 | purity
+rack
+elbow
+fiber
+cycle
+invite
+fix
+chaos |  
+| bip_39_word_new_line9 | purity
+rack
+elbow
+fiber
+cycle
+invite
+fix
+chaos
+drink |  
+| bip_39_word_space_0 | ['purity', 'rack', 'elbow', 'fiber', 'cycle', 'invite', 'fix', 'chaos', 'drink', 'feed', 'onion', 'anxiety'] |  
+| bip_39_word_space_1 | purity |  
+| bip_39_word_space_10 | purity rack elbow fiber cycle invite fix chaos drink feed |  
+| bip_39_word_space_11 | purity rack elbow fiber cycle invite fix chaos drink feed onion |  
+| bip_39_word_space_12 | purity rack elbow fiber cycle invite fix chaos drink feed onion anxiety |  
+| bip_39_word_space_2 | purity rack |  
+| bip_39_word_space_3 | purity rack elbow |  
+| bip_39_word_space_4 | purity rack elbow fiber |  
+| bip_39_word_space_5 | purity rack elbow fiber cycle |  
+| bip_39_word_space_6 | purity rack elbow fiber cycle invite |  
+| bip_39_word_space_7 | purity rack elbow fiber cycle invite fix |  
+| bip_39_word_space_8 | purity rack elbow fiber cycle invite fix chaos |  
+| bip_39_word_space_9 | purity rack elbow fiber cycle invite fix chaos drink |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

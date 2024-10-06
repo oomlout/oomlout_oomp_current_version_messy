@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: solve pond
+  * bip 39 word 3: solve pond eager
+  * bip 39 word: solve pond eager worry normal swarm account insect chat culture repair aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | solve |  
+| bip_39_word_new_br10 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm<br>account<br>insect<br>chat<br>culture |  
+| bip_39_word_new_br11 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm<br>account<br>insect<br>chat<br>culture<br>repair |  
+| bip_39_word_new_br12 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm<br>account<br>insect<br>chat<br>culture<br>repair<br>aspect |  
+| bip_39_word_new_br2 | solve<br>pond |  
+| bip_39_word_new_br3 | solve<br>pond<br>eager |  
+| bip_39_word_new_br4 | solve<br>pond<br>eager<br>worry |  
+| bip_39_word_new_br5 | solve<br>pond<br>eager<br>worry<br>normal |  
+| bip_39_word_new_br6 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm |  
+| bip_39_word_new_br7 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm<br>account |  
+| bip_39_word_new_br8 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm<br>account<br>insect |  
+| bip_39_word_new_br9 | solve<br>pond<br>eager<br>worry<br>normal<br>swarm<br>account<br>insect<br>chat |  
+| bip_39_word_new_line1 | solve |  
+| bip_39_word_new_line10 | solve
+pond
+eager
+worry
+normal
+swarm
+account
+insect
+chat
+culture |  
+| bip_39_word_new_line11 | solve
+pond
+eager
+worry
+normal
+swarm
+account
+insect
+chat
+culture
+repair |  
+| bip_39_word_new_line12 | solve
+pond
+eager
+worry
+normal
+swarm
+account
+insect
+chat
+culture
+repair
+aspect |  
+| bip_39_word_new_line2 | solve
+pond |  
+| bip_39_word_new_line3 | solve
+pond
+eager |  
+| bip_39_word_new_line4 | solve
+pond
+eager
+worry |  
+| bip_39_word_new_line5 | solve
+pond
+eager
+worry
+normal |  
+| bip_39_word_new_line6 | solve
+pond
+eager
+worry
+normal
+swarm |  
+| bip_39_word_new_line7 | solve
+pond
+eager
+worry
+normal
+swarm
+account |  
+| bip_39_word_new_line8 | solve
+pond
+eager
+worry
+normal
+swarm
+account
+insect |  
+| bip_39_word_new_line9 | solve
+pond
+eager
+worry
+normal
+swarm
+account
+insect
+chat |  
+| bip_39_word_space_0 | ['solve', 'pond', 'eager', 'worry', 'normal', 'swarm', 'account', 'insect', 'chat', 'culture', 'repair', 'aspect'] |  
+| bip_39_word_space_1 | solve |  
+| bip_39_word_space_10 | solve pond eager worry normal swarm account insect chat culture |  
+| bip_39_word_space_11 | solve pond eager worry normal swarm account insect chat culture repair |  
+| bip_39_word_space_12 | solve pond eager worry normal swarm account insect chat culture repair aspect |  
+| bip_39_word_space_2 | solve pond |  
+| bip_39_word_space_3 | solve pond eager |  
+| bip_39_word_space_4 | solve pond eager worry |  
+| bip_39_word_space_5 | solve pond eager worry normal |  
+| bip_39_word_space_6 | solve pond eager worry normal swarm |  
+| bip_39_word_space_7 | solve pond eager worry normal swarm account |  
+| bip_39_word_space_8 | solve pond eager worry normal swarm account insect |  
+| bip_39_word_space_9 | solve pond eager worry normal swarm account insect chat |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

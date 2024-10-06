@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: novel void
+  * bip 39 word 3: novel void upper
+  * bip 39 word: novel void upper attract vocal leader upgrade split success spread grief author
 
 ### other_codes
 * short_code: ms3m6pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | novel |  
+| bip_39_word_new_br10 | novel<br>void<br>upper<br>attract<br>vocal<br>leader<br>upgrade<br>split<br>success<br>spread |  
+| bip_39_word_new_br11 | novel<br>void<br>upper<br>attract<br>vocal<br>leader<br>upgrade<br>split<br>success<br>spread<br>grief |  
+| bip_39_word_new_br12 | novel<br>void<br>upper<br>attract<br>vocal<br>leader<br>upgrade<br>split<br>success<br>spread<br>grief<br>author |  
+| bip_39_word_new_br2 | novel<br>void |  
+| bip_39_word_new_br3 | novel<br>void<br>upper |  
+| bip_39_word_new_br4 | novel<br>void<br>upper<br>attract |  
+| bip_39_word_new_br5 | novel<br>void<br>upper<br>attract<br>vocal |  
+| bip_39_word_new_br6 | novel<br>void<br>upper<br>attract<br>vocal<br>leader |  
+| bip_39_word_new_br7 | novel<br>void<br>upper<br>attract<br>vocal<br>leader<br>upgrade |  
+| bip_39_word_new_br8 | novel<br>void<br>upper<br>attract<br>vocal<br>leader<br>upgrade<br>split |  
+| bip_39_word_new_br9 | novel<br>void<br>upper<br>attract<br>vocal<br>leader<br>upgrade<br>split<br>success |  
+| bip_39_word_new_line1 | novel |  
+| bip_39_word_new_line10 | novel
+void
+upper
+attract
+vocal
+leader
+upgrade
+split
+success
+spread |  
+| bip_39_word_new_line11 | novel
+void
+upper
+attract
+vocal
+leader
+upgrade
+split
+success
+spread
+grief |  
+| bip_39_word_new_line12 | novel
+void
+upper
+attract
+vocal
+leader
+upgrade
+split
+success
+spread
+grief
+author |  
+| bip_39_word_new_line2 | novel
+void |  
+| bip_39_word_new_line3 | novel
+void
+upper |  
+| bip_39_word_new_line4 | novel
+void
+upper
+attract |  
+| bip_39_word_new_line5 | novel
+void
+upper
+attract
+vocal |  
+| bip_39_word_new_line6 | novel
+void
+upper
+attract
+vocal
+leader |  
+| bip_39_word_new_line7 | novel
+void
+upper
+attract
+vocal
+leader
+upgrade |  
+| bip_39_word_new_line8 | novel
+void
+upper
+attract
+vocal
+leader
+upgrade
+split |  
+| bip_39_word_new_line9 | novel
+void
+upper
+attract
+vocal
+leader
+upgrade
+split
+success |  
+| bip_39_word_space_0 | ['novel', 'void', 'upper', 'attract', 'vocal', 'leader', 'upgrade', 'split', 'success', 'spread', 'grief', 'author'] |  
+| bip_39_word_space_1 | novel |  
+| bip_39_word_space_10 | novel void upper attract vocal leader upgrade split success spread |  
+| bip_39_word_space_11 | novel void upper attract vocal leader upgrade split success spread grief |  
+| bip_39_word_space_12 | novel void upper attract vocal leader upgrade split success spread grief author |  
+| bip_39_word_space_2 | novel void |  
+| bip_39_word_space_3 | novel void upper |  
+| bip_39_word_space_4 | novel void upper attract |  
+| bip_39_word_space_5 | novel void upper attract vocal |  
+| bip_39_word_space_6 | novel void upper attract vocal leader |  
+| bip_39_word_space_7 | novel void upper attract vocal leader upgrade |  
+| bip_39_word_space_8 | novel void upper attract vocal leader upgrade split |  
+| bip_39_word_space_9 | novel void upper attract vocal leader upgrade split success |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

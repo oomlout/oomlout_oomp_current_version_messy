@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: always twist
+  * bip 39 word 3: always twist urge
+  * bip 39 word: always twist urge reopen cash quick second urge silver cushion pizza add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | always |  
+| bip_39_word_new_br10 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion |  
+| bip_39_word_new_br11 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion<br>pizza |  
+| bip_39_word_new_br12 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver<br>cushion<br>pizza<br>add |  
+| bip_39_word_new_br2 | always<br>twist |  
+| bip_39_word_new_br3 | always<br>twist<br>urge |  
+| bip_39_word_new_br4 | always<br>twist<br>urge<br>reopen |  
+| bip_39_word_new_br5 | always<br>twist<br>urge<br>reopen<br>cash |  
+| bip_39_word_new_br6 | always<br>twist<br>urge<br>reopen<br>cash<br>quick |  
+| bip_39_word_new_br7 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second |  
+| bip_39_word_new_br8 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge |  
+| bip_39_word_new_br9 | always<br>twist<br>urge<br>reopen<br>cash<br>quick<br>second<br>urge<br>silver |  
+| bip_39_word_new_line1 | always |  
+| bip_39_word_new_line10 | always
+twist
+urge
+reopen
+cash
+quick
+second
+urge
+silver
+cushion |  
+| bip_39_word_new_line11 | always
+twist
+urge
+reopen
+cash
+quick
+second
+urge
+silver
+cushion
+pizza |  
+| bip_39_word_new_line12 | always
+twist
+urge
+reopen
+cash
+quick
+second
+urge
+silver
+cushion
+pizza
+add |  
+| bip_39_word_new_line2 | always
+twist |  
+| bip_39_word_new_line3 | always
+twist
+urge |  
+| bip_39_word_new_line4 | always
+twist
+urge
+reopen |  
+| bip_39_word_new_line5 | always
+twist
+urge
+reopen
+cash |  
+| bip_39_word_new_line6 | always
+twist
+urge
+reopen
+cash
+quick |  
+| bip_39_word_new_line7 | always
+twist
+urge
+reopen
+cash
+quick
+second |  
+| bip_39_word_new_line8 | always
+twist
+urge
+reopen
+cash
+quick
+second
+urge |  
+| bip_39_word_new_line9 | always
+twist
+urge
+reopen
+cash
+quick
+second
+urge
+silver |  
+| bip_39_word_space_0 | ['always', 'twist', 'urge', 'reopen', 'cash', 'quick', 'second', 'urge', 'silver', 'cushion', 'pizza', 'add'] |  
+| bip_39_word_space_1 | always |  
+| bip_39_word_space_10 | always twist urge reopen cash quick second urge silver cushion |  
+| bip_39_word_space_11 | always twist urge reopen cash quick second urge silver cushion pizza |  
+| bip_39_word_space_12 | always twist urge reopen cash quick second urge silver cushion pizza add |  
+| bip_39_word_space_2 | always twist |  
+| bip_39_word_space_3 | always twist urge |  
+| bip_39_word_space_4 | always twist urge reopen |  
+| bip_39_word_space_5 | always twist urge reopen cash |  
+| bip_39_word_space_6 | always twist urge reopen cash quick |  
+| bip_39_word_space_7 | always twist urge reopen cash quick second |  
+| bip_39_word_space_8 | always twist urge reopen cash quick second urge |  
+| bip_39_word_space_9 | always twist urge reopen cash quick second urge silver |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

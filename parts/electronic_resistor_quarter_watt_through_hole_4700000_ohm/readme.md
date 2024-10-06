@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: major wink
+  * bip 39 word 3: major wink illegal
+  * bip 39 word: major wink illegal heavy ancient sting grape siege much promote wheat able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | major |  
+| bip_39_word_new_br10 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote |  
+| bip_39_word_new_br11 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote<br>wheat |  
+| bip_39_word_new_br12 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much<br>promote<br>wheat<br>able |  
+| bip_39_word_new_br2 | major<br>wink |  
+| bip_39_word_new_br3 | major<br>wink<br>illegal |  
+| bip_39_word_new_br4 | major<br>wink<br>illegal<br>heavy |  
+| bip_39_word_new_br5 | major<br>wink<br>illegal<br>heavy<br>ancient |  
+| bip_39_word_new_br6 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting |  
+| bip_39_word_new_br7 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape |  
+| bip_39_word_new_br8 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege |  
+| bip_39_word_new_br9 | major<br>wink<br>illegal<br>heavy<br>ancient<br>sting<br>grape<br>siege<br>much |  
+| bip_39_word_new_line1 | major |  
+| bip_39_word_new_line10 | major
+wink
+illegal
+heavy
+ancient
+sting
+grape
+siege
+much
+promote |  
+| bip_39_word_new_line11 | major
+wink
+illegal
+heavy
+ancient
+sting
+grape
+siege
+much
+promote
+wheat |  
+| bip_39_word_new_line12 | major
+wink
+illegal
+heavy
+ancient
+sting
+grape
+siege
+much
+promote
+wheat
+able |  
+| bip_39_word_new_line2 | major
+wink |  
+| bip_39_word_new_line3 | major
+wink
+illegal |  
+| bip_39_word_new_line4 | major
+wink
+illegal
+heavy |  
+| bip_39_word_new_line5 | major
+wink
+illegal
+heavy
+ancient |  
+| bip_39_word_new_line6 | major
+wink
+illegal
+heavy
+ancient
+sting |  
+| bip_39_word_new_line7 | major
+wink
+illegal
+heavy
+ancient
+sting
+grape |  
+| bip_39_word_new_line8 | major
+wink
+illegal
+heavy
+ancient
+sting
+grape
+siege |  
+| bip_39_word_new_line9 | major
+wink
+illegal
+heavy
+ancient
+sting
+grape
+siege
+much |  
+| bip_39_word_space_0 | ['major', 'wink', 'illegal', 'heavy', 'ancient', 'sting', 'grape', 'siege', 'much', 'promote', 'wheat', 'able'] |  
+| bip_39_word_space_1 | major |  
+| bip_39_word_space_10 | major wink illegal heavy ancient sting grape siege much promote |  
+| bip_39_word_space_11 | major wink illegal heavy ancient sting grape siege much promote wheat |  
+| bip_39_word_space_12 | major wink illegal heavy ancient sting grape siege much promote wheat able |  
+| bip_39_word_space_2 | major wink |  
+| bip_39_word_space_3 | major wink illegal |  
+| bip_39_word_space_4 | major wink illegal heavy |  
+| bip_39_word_space_5 | major wink illegal heavy ancient |  
+| bip_39_word_space_6 | major wink illegal heavy ancient sting |  
+| bip_39_word_space_7 | major wink illegal heavy ancient sting grape |  
+| bip_39_word_space_8 | major wink illegal heavy ancient sting grape siege |  
+| bip_39_word_space_9 | major wink illegal heavy ancient sting grape siege much |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

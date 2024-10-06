@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: kangaroo film
+  * bip 39 word 3: kangaroo film champion
+  * bip 39 word: kangaroo film champion debris pet ritual ask risk jelly relief more admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | kangaroo |  
+| bip_39_word_new_br10 | kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief |  
+| bip_39_word_new_br11 | kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief<br>more |  
+| bip_39_word_new_br12 | kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly<br>relief<br>more<br>admit |  
+| bip_39_word_new_br2 | kangaroo<br>film |  
+| bip_39_word_new_br3 | kangaroo<br>film<br>champion |  
+| bip_39_word_new_br4 | kangaroo<br>film<br>champion<br>debris |  
+| bip_39_word_new_br5 | kangaroo<br>film<br>champion<br>debris<br>pet |  
+| bip_39_word_new_br6 | kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual |  
+| bip_39_word_new_br7 | kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask |  
+| bip_39_word_new_br8 | kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk |  
+| bip_39_word_new_br9 | kangaroo<br>film<br>champion<br>debris<br>pet<br>ritual<br>ask<br>risk<br>jelly |  
+| bip_39_word_new_line1 | kangaroo |  
+| bip_39_word_new_line10 | kangaroo
+film
+champion
+debris
+pet
+ritual
+ask
+risk
+jelly
+relief |  
+| bip_39_word_new_line11 | kangaroo
+film
+champion
+debris
+pet
+ritual
+ask
+risk
+jelly
+relief
+more |  
+| bip_39_word_new_line12 | kangaroo
+film
+champion
+debris
+pet
+ritual
+ask
+risk
+jelly
+relief
+more
+admit |  
+| bip_39_word_new_line2 | kangaroo
+film |  
+| bip_39_word_new_line3 | kangaroo
+film
+champion |  
+| bip_39_word_new_line4 | kangaroo
+film
+champion
+debris |  
+| bip_39_word_new_line5 | kangaroo
+film
+champion
+debris
+pet |  
+| bip_39_word_new_line6 | kangaroo
+film
+champion
+debris
+pet
+ritual |  
+| bip_39_word_new_line7 | kangaroo
+film
+champion
+debris
+pet
+ritual
+ask |  
+| bip_39_word_new_line8 | kangaroo
+film
+champion
+debris
+pet
+ritual
+ask
+risk |  
+| bip_39_word_new_line9 | kangaroo
+film
+champion
+debris
+pet
+ritual
+ask
+risk
+jelly |  
+| bip_39_word_space_0 | ['kangaroo', 'film', 'champion', 'debris', 'pet', 'ritual', 'ask', 'risk', 'jelly', 'relief', 'more', 'admit'] |  
+| bip_39_word_space_1 | kangaroo |  
+| bip_39_word_space_10 | kangaroo film champion debris pet ritual ask risk jelly relief |  
+| bip_39_word_space_11 | kangaroo film champion debris pet ritual ask risk jelly relief more |  
+| bip_39_word_space_12 | kangaroo film champion debris pet ritual ask risk jelly relief more admit |  
+| bip_39_word_space_2 | kangaroo film |  
+| bip_39_word_space_3 | kangaroo film champion |  
+| bip_39_word_space_4 | kangaroo film champion debris |  
+| bip_39_word_space_5 | kangaroo film champion debris pet |  
+| bip_39_word_space_6 | kangaroo film champion debris pet ritual |  
+| bip_39_word_space_7 | kangaroo film champion debris pet ritual ask |  
+| bip_39_word_space_8 | kangaroo film champion debris pet ritual ask risk |  
+| bip_39_word_space_9 | kangaroo film champion debris pet ritual ask risk jelly |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

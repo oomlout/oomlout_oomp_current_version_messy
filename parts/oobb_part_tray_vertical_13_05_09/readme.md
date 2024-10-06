@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stereo door
+  * bip 39 word 3: stereo door steak
+  * bip 39 word: stereo door steak hover lunch priority december iron affair rice grain alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stereo |  
+| bip_39_word_new_br10 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority<br>december<br>iron<br>affair<br>rice |  
+| bip_39_word_new_br11 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority<br>december<br>iron<br>affair<br>rice<br>grain |  
+| bip_39_word_new_br12 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority<br>december<br>iron<br>affair<br>rice<br>grain<br>alpha |  
+| bip_39_word_new_br2 | stereo<br>door |  
+| bip_39_word_new_br3 | stereo<br>door<br>steak |  
+| bip_39_word_new_br4 | stereo<br>door<br>steak<br>hover |  
+| bip_39_word_new_br5 | stereo<br>door<br>steak<br>hover<br>lunch |  
+| bip_39_word_new_br6 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority |  
+| bip_39_word_new_br7 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority<br>december |  
+| bip_39_word_new_br8 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority<br>december<br>iron |  
+| bip_39_word_new_br9 | stereo<br>door<br>steak<br>hover<br>lunch<br>priority<br>december<br>iron<br>affair |  
+| bip_39_word_new_line1 | stereo |  
+| bip_39_word_new_line10 | stereo
+door
+steak
+hover
+lunch
+priority
+december
+iron
+affair
+rice |  
+| bip_39_word_new_line11 | stereo
+door
+steak
+hover
+lunch
+priority
+december
+iron
+affair
+rice
+grain |  
+| bip_39_word_new_line12 | stereo
+door
+steak
+hover
+lunch
+priority
+december
+iron
+affair
+rice
+grain
+alpha |  
+| bip_39_word_new_line2 | stereo
+door |  
+| bip_39_word_new_line3 | stereo
+door
+steak |  
+| bip_39_word_new_line4 | stereo
+door
+steak
+hover |  
+| bip_39_word_new_line5 | stereo
+door
+steak
+hover
+lunch |  
+| bip_39_word_new_line6 | stereo
+door
+steak
+hover
+lunch
+priority |  
+| bip_39_word_new_line7 | stereo
+door
+steak
+hover
+lunch
+priority
+december |  
+| bip_39_word_new_line8 | stereo
+door
+steak
+hover
+lunch
+priority
+december
+iron |  
+| bip_39_word_new_line9 | stereo
+door
+steak
+hover
+lunch
+priority
+december
+iron
+affair |  
+| bip_39_word_space_0 | ['stereo', 'door', 'steak', 'hover', 'lunch', 'priority', 'december', 'iron', 'affair', 'rice', 'grain', 'alpha'] |  
+| bip_39_word_space_1 | stereo |  
+| bip_39_word_space_10 | stereo door steak hover lunch priority december iron affair rice |  
+| bip_39_word_space_11 | stereo door steak hover lunch priority december iron affair rice grain |  
+| bip_39_word_space_12 | stereo door steak hover lunch priority december iron affair rice grain alpha |  
+| bip_39_word_space_2 | stereo door |  
+| bip_39_word_space_3 | stereo door steak |  
+| bip_39_word_space_4 | stereo door steak hover |  
+| bip_39_word_space_5 | stereo door steak hover lunch |  
+| bip_39_word_space_6 | stereo door steak hover lunch priority |  
+| bip_39_word_space_7 | stereo door steak hover lunch priority december |  
+| bip_39_word_space_8 | stereo door steak hover lunch priority december iron |  
+| bip_39_word_space_9 | stereo door steak hover lunch priority december iron affair |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

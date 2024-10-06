@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ethics turn
+  * bip 39 word 3: ethics turn velvet
+  * bip 39 word: ethics turn velvet quiz six raise diary ecology wrong decrease artist acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ethics |  
+| bip_39_word_new_br10 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease |  
+| bip_39_word_new_br11 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease<br>artist |  
+| bip_39_word_new_br12 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong<br>decrease<br>artist<br>acid |  
+| bip_39_word_new_br2 | ethics<br>turn |  
+| bip_39_word_new_br3 | ethics<br>turn<br>velvet |  
+| bip_39_word_new_br4 | ethics<br>turn<br>velvet<br>quiz |  
+| bip_39_word_new_br5 | ethics<br>turn<br>velvet<br>quiz<br>six |  
+| bip_39_word_new_br6 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise |  
+| bip_39_word_new_br7 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary |  
+| bip_39_word_new_br8 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology |  
+| bip_39_word_new_br9 | ethics<br>turn<br>velvet<br>quiz<br>six<br>raise<br>diary<br>ecology<br>wrong |  
+| bip_39_word_new_line1 | ethics |  
+| bip_39_word_new_line10 | ethics
+turn
+velvet
+quiz
+six
+raise
+diary
+ecology
+wrong
+decrease |  
+| bip_39_word_new_line11 | ethics
+turn
+velvet
+quiz
+six
+raise
+diary
+ecology
+wrong
+decrease
+artist |  
+| bip_39_word_new_line12 | ethics
+turn
+velvet
+quiz
+six
+raise
+diary
+ecology
+wrong
+decrease
+artist
+acid |  
+| bip_39_word_new_line2 | ethics
+turn |  
+| bip_39_word_new_line3 | ethics
+turn
+velvet |  
+| bip_39_word_new_line4 | ethics
+turn
+velvet
+quiz |  
+| bip_39_word_new_line5 | ethics
+turn
+velvet
+quiz
+six |  
+| bip_39_word_new_line6 | ethics
+turn
+velvet
+quiz
+six
+raise |  
+| bip_39_word_new_line7 | ethics
+turn
+velvet
+quiz
+six
+raise
+diary |  
+| bip_39_word_new_line8 | ethics
+turn
+velvet
+quiz
+six
+raise
+diary
+ecology |  
+| bip_39_word_new_line9 | ethics
+turn
+velvet
+quiz
+six
+raise
+diary
+ecology
+wrong |  
+| bip_39_word_space_0 | ['ethics', 'turn', 'velvet', 'quiz', 'six', 'raise', 'diary', 'ecology', 'wrong', 'decrease', 'artist', 'acid'] |  
+| bip_39_word_space_1 | ethics |  
+| bip_39_word_space_10 | ethics turn velvet quiz six raise diary ecology wrong decrease |  
+| bip_39_word_space_11 | ethics turn velvet quiz six raise diary ecology wrong decrease artist |  
+| bip_39_word_space_12 | ethics turn velvet quiz six raise diary ecology wrong decrease artist acid |  
+| bip_39_word_space_2 | ethics turn |  
+| bip_39_word_space_3 | ethics turn velvet |  
+| bip_39_word_space_4 | ethics turn velvet quiz |  
+| bip_39_word_space_5 | ethics turn velvet quiz six |  
+| bip_39_word_space_6 | ethics turn velvet quiz six raise |  
+| bip_39_word_space_7 | ethics turn velvet quiz six raise diary |  
+| bip_39_word_space_8 | ethics turn velvet quiz six raise diary ecology |  
+| bip_39_word_space_9 | ethics turn velvet quiz six raise diary ecology wrong |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

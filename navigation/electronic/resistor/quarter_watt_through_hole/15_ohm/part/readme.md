@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hurdle about
+  * bip 39 word 3: hurdle about evil
+  * bip 39 word: hurdle about evil topic bean hair hire that tape logic lady age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hurdle |  
+| bip_39_word_new_br10 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair<br>hire<br>that<br>tape<br>logic |  
+| bip_39_word_new_br11 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair<br>hire<br>that<br>tape<br>logic<br>lady |  
+| bip_39_word_new_br12 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair<br>hire<br>that<br>tape<br>logic<br>lady<br>age |  
+| bip_39_word_new_br2 | hurdle<br>about |  
+| bip_39_word_new_br3 | hurdle<br>about<br>evil |  
+| bip_39_word_new_br4 | hurdle<br>about<br>evil<br>topic |  
+| bip_39_word_new_br5 | hurdle<br>about<br>evil<br>topic<br>bean |  
+| bip_39_word_new_br6 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair |  
+| bip_39_word_new_br7 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair<br>hire |  
+| bip_39_word_new_br8 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair<br>hire<br>that |  
+| bip_39_word_new_br9 | hurdle<br>about<br>evil<br>topic<br>bean<br>hair<br>hire<br>that<br>tape |  
+| bip_39_word_new_line1 | hurdle |  
+| bip_39_word_new_line10 | hurdle
+about
+evil
+topic
+bean
+hair
+hire
+that
+tape
+logic |  
+| bip_39_word_new_line11 | hurdle
+about
+evil
+topic
+bean
+hair
+hire
+that
+tape
+logic
+lady |  
+| bip_39_word_new_line12 | hurdle
+about
+evil
+topic
+bean
+hair
+hire
+that
+tape
+logic
+lady
+age |  
+| bip_39_word_new_line2 | hurdle
+about |  
+| bip_39_word_new_line3 | hurdle
+about
+evil |  
+| bip_39_word_new_line4 | hurdle
+about
+evil
+topic |  
+| bip_39_word_new_line5 | hurdle
+about
+evil
+topic
+bean |  
+| bip_39_word_new_line6 | hurdle
+about
+evil
+topic
+bean
+hair |  
+| bip_39_word_new_line7 | hurdle
+about
+evil
+topic
+bean
+hair
+hire |  
+| bip_39_word_new_line8 | hurdle
+about
+evil
+topic
+bean
+hair
+hire
+that |  
+| bip_39_word_new_line9 | hurdle
+about
+evil
+topic
+bean
+hair
+hire
+that
+tape |  
+| bip_39_word_space_0 | ['hurdle', 'about', 'evil', 'topic', 'bean', 'hair', 'hire', 'that', 'tape', 'logic', 'lady', 'age'] |  
+| bip_39_word_space_1 | hurdle |  
+| bip_39_word_space_10 | hurdle about evil topic bean hair hire that tape logic |  
+| bip_39_word_space_11 | hurdle about evil topic bean hair hire that tape logic lady |  
+| bip_39_word_space_12 | hurdle about evil topic bean hair hire that tape logic lady age |  
+| bip_39_word_space_2 | hurdle about |  
+| bip_39_word_space_3 | hurdle about evil |  
+| bip_39_word_space_4 | hurdle about evil topic |  
+| bip_39_word_space_5 | hurdle about evil topic bean |  
+| bip_39_word_space_6 | hurdle about evil topic bean hair |  
+| bip_39_word_space_7 | hurdle about evil topic bean hair hire |  
+| bip_39_word_space_8 | hurdle about evil topic bean hair hire that |  
+| bip_39_word_space_9 | hurdle about evil topic bean hair hire that tape |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

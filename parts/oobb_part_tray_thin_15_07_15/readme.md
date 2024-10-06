@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: toward idea
+  * bip 39 word 3: toward idea parrot
+  * bip 39 word: toward idea parrot first draw moment tackle nest enforce special opera amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | toward |  
+| bip_39_word_new_br10 | toward<br>idea<br>parrot<br>first<br>draw<br>moment<br>tackle<br>nest<br>enforce<br>special |  
+| bip_39_word_new_br11 | toward<br>idea<br>parrot<br>first<br>draw<br>moment<br>tackle<br>nest<br>enforce<br>special<br>opera |  
+| bip_39_word_new_br12 | toward<br>idea<br>parrot<br>first<br>draw<br>moment<br>tackle<br>nest<br>enforce<br>special<br>opera<br>amused |  
+| bip_39_word_new_br2 | toward<br>idea |  
+| bip_39_word_new_br3 | toward<br>idea<br>parrot |  
+| bip_39_word_new_br4 | toward<br>idea<br>parrot<br>first |  
+| bip_39_word_new_br5 | toward<br>idea<br>parrot<br>first<br>draw |  
+| bip_39_word_new_br6 | toward<br>idea<br>parrot<br>first<br>draw<br>moment |  
+| bip_39_word_new_br7 | toward<br>idea<br>parrot<br>first<br>draw<br>moment<br>tackle |  
+| bip_39_word_new_br8 | toward<br>idea<br>parrot<br>first<br>draw<br>moment<br>tackle<br>nest |  
+| bip_39_word_new_br9 | toward<br>idea<br>parrot<br>first<br>draw<br>moment<br>tackle<br>nest<br>enforce |  
+| bip_39_word_new_line1 | toward |  
+| bip_39_word_new_line10 | toward
+idea
+parrot
+first
+draw
+moment
+tackle
+nest
+enforce
+special |  
+| bip_39_word_new_line11 | toward
+idea
+parrot
+first
+draw
+moment
+tackle
+nest
+enforce
+special
+opera |  
+| bip_39_word_new_line12 | toward
+idea
+parrot
+first
+draw
+moment
+tackle
+nest
+enforce
+special
+opera
+amused |  
+| bip_39_word_new_line2 | toward
+idea |  
+| bip_39_word_new_line3 | toward
+idea
+parrot |  
+| bip_39_word_new_line4 | toward
+idea
+parrot
+first |  
+| bip_39_word_new_line5 | toward
+idea
+parrot
+first
+draw |  
+| bip_39_word_new_line6 | toward
+idea
+parrot
+first
+draw
+moment |  
+| bip_39_word_new_line7 | toward
+idea
+parrot
+first
+draw
+moment
+tackle |  
+| bip_39_word_new_line8 | toward
+idea
+parrot
+first
+draw
+moment
+tackle
+nest |  
+| bip_39_word_new_line9 | toward
+idea
+parrot
+first
+draw
+moment
+tackle
+nest
+enforce |  
+| bip_39_word_space_0 | ['toward', 'idea', 'parrot', 'first', 'draw', 'moment', 'tackle', 'nest', 'enforce', 'special', 'opera', 'amused'] |  
+| bip_39_word_space_1 | toward |  
+| bip_39_word_space_10 | toward idea parrot first draw moment tackle nest enforce special |  
+| bip_39_word_space_11 | toward idea parrot first draw moment tackle nest enforce special opera |  
+| bip_39_word_space_12 | toward idea parrot first draw moment tackle nest enforce special opera amused |  
+| bip_39_word_space_2 | toward idea |  
+| bip_39_word_space_3 | toward idea parrot |  
+| bip_39_word_space_4 | toward idea parrot first |  
+| bip_39_word_space_5 | toward idea parrot first draw |  
+| bip_39_word_space_6 | toward idea parrot first draw moment |  
+| bip_39_word_space_7 | toward idea parrot first draw moment tackle |  
+| bip_39_word_space_8 | toward idea parrot first draw moment tackle nest |  
+| bip_39_word_space_9 | toward idea parrot first draw moment tackle nest enforce |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

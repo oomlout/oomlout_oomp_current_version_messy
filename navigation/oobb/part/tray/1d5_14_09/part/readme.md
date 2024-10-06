@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: park above
+  * bip 39 word 3: park above sun
+  * bip 39 word: park above sun divorce denial better mirror suit display year chef accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | park |  
+| bip_39_word_new_br10 | park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year |  
+| bip_39_word_new_br11 | park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year<br>chef |  
+| bip_39_word_new_br12 | park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display<br>year<br>chef<br>accident |  
+| bip_39_word_new_br2 | park<br>above |  
+| bip_39_word_new_br3 | park<br>above<br>sun |  
+| bip_39_word_new_br4 | park<br>above<br>sun<br>divorce |  
+| bip_39_word_new_br5 | park<br>above<br>sun<br>divorce<br>denial |  
+| bip_39_word_new_br6 | park<br>above<br>sun<br>divorce<br>denial<br>better |  
+| bip_39_word_new_br7 | park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror |  
+| bip_39_word_new_br8 | park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit |  
+| bip_39_word_new_br9 | park<br>above<br>sun<br>divorce<br>denial<br>better<br>mirror<br>suit<br>display |  
+| bip_39_word_new_line1 | park |  
+| bip_39_word_new_line10 | park
+above
+sun
+divorce
+denial
+better
+mirror
+suit
+display
+year |  
+| bip_39_word_new_line11 | park
+above
+sun
+divorce
+denial
+better
+mirror
+suit
+display
+year
+chef |  
+| bip_39_word_new_line12 | park
+above
+sun
+divorce
+denial
+better
+mirror
+suit
+display
+year
+chef
+accident |  
+| bip_39_word_new_line2 | park
+above |  
+| bip_39_word_new_line3 | park
+above
+sun |  
+| bip_39_word_new_line4 | park
+above
+sun
+divorce |  
+| bip_39_word_new_line5 | park
+above
+sun
+divorce
+denial |  
+| bip_39_word_new_line6 | park
+above
+sun
+divorce
+denial
+better |  
+| bip_39_word_new_line7 | park
+above
+sun
+divorce
+denial
+better
+mirror |  
+| bip_39_word_new_line8 | park
+above
+sun
+divorce
+denial
+better
+mirror
+suit |  
+| bip_39_word_new_line9 | park
+above
+sun
+divorce
+denial
+better
+mirror
+suit
+display |  
+| bip_39_word_space_0 | ['park', 'above', 'sun', 'divorce', 'denial', 'better', 'mirror', 'suit', 'display', 'year', 'chef', 'accident'] |  
+| bip_39_word_space_1 | park |  
+| bip_39_word_space_10 | park above sun divorce denial better mirror suit display year |  
+| bip_39_word_space_11 | park above sun divorce denial better mirror suit display year chef |  
+| bip_39_word_space_12 | park above sun divorce denial better mirror suit display year chef accident |  
+| bip_39_word_space_2 | park above |  
+| bip_39_word_space_3 | park above sun |  
+| bip_39_word_space_4 | park above sun divorce |  
+| bip_39_word_space_5 | park above sun divorce denial |  
+| bip_39_word_space_6 | park above sun divorce denial better |  
+| bip_39_word_space_7 | park above sun divorce denial better mirror |  
+| bip_39_word_space_8 | park above sun divorce denial better mirror suit |  
+| bip_39_word_space_9 | park above sun divorce denial better mirror suit display |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

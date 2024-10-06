@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: raise climb
+  * bip 39 word 3: raise climb over
+  * bip 39 word: raise climb over print wagon effort fiscal bag govern fuel harsh average
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | raise |  
+| bip_39_word_new_br10 | raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern<br>fuel |  
+| bip_39_word_new_br11 | raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern<br>fuel<br>harsh |  
+| bip_39_word_new_br12 | raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern<br>fuel<br>harsh<br>average |  
+| bip_39_word_new_br2 | raise<br>climb |  
+| bip_39_word_new_br3 | raise<br>climb<br>over |  
+| bip_39_word_new_br4 | raise<br>climb<br>over<br>print |  
+| bip_39_word_new_br5 | raise<br>climb<br>over<br>print<br>wagon |  
+| bip_39_word_new_br6 | raise<br>climb<br>over<br>print<br>wagon<br>effort |  
+| bip_39_word_new_br7 | raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal |  
+| bip_39_word_new_br8 | raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag |  
+| bip_39_word_new_br9 | raise<br>climb<br>over<br>print<br>wagon<br>effort<br>fiscal<br>bag<br>govern |  
+| bip_39_word_new_line1 | raise |  
+| bip_39_word_new_line10 | raise
+climb
+over
+print
+wagon
+effort
+fiscal
+bag
+govern
+fuel |  
+| bip_39_word_new_line11 | raise
+climb
+over
+print
+wagon
+effort
+fiscal
+bag
+govern
+fuel
+harsh |  
+| bip_39_word_new_line12 | raise
+climb
+over
+print
+wagon
+effort
+fiscal
+bag
+govern
+fuel
+harsh
+average |  
+| bip_39_word_new_line2 | raise
+climb |  
+| bip_39_word_new_line3 | raise
+climb
+over |  
+| bip_39_word_new_line4 | raise
+climb
+over
+print |  
+| bip_39_word_new_line5 | raise
+climb
+over
+print
+wagon |  
+| bip_39_word_new_line6 | raise
+climb
+over
+print
+wagon
+effort |  
+| bip_39_word_new_line7 | raise
+climb
+over
+print
+wagon
+effort
+fiscal |  
+| bip_39_word_new_line8 | raise
+climb
+over
+print
+wagon
+effort
+fiscal
+bag |  
+| bip_39_word_new_line9 | raise
+climb
+over
+print
+wagon
+effort
+fiscal
+bag
+govern |  
+| bip_39_word_space_0 | ['raise', 'climb', 'over', 'print', 'wagon', 'effort', 'fiscal', 'bag', 'govern', 'fuel', 'harsh', 'average'] |  
+| bip_39_word_space_1 | raise |  
+| bip_39_word_space_10 | raise climb over print wagon effort fiscal bag govern fuel |  
+| bip_39_word_space_11 | raise climb over print wagon effort fiscal bag govern fuel harsh |  
+| bip_39_word_space_12 | raise climb over print wagon effort fiscal bag govern fuel harsh average |  
+| bip_39_word_space_2 | raise climb |  
+| bip_39_word_space_3 | raise climb over |  
+| bip_39_word_space_4 | raise climb over print |  
+| bip_39_word_space_5 | raise climb over print wagon |  
+| bip_39_word_space_6 | raise climb over print wagon effort |  
+| bip_39_word_space_7 | raise climb over print wagon effort fiscal |  
+| bip_39_word_space_8 | raise climb over print wagon effort fiscal bag |  
+| bip_39_word_space_9 | raise climb over print wagon effort fiscal bag govern |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

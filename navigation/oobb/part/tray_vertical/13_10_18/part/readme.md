@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sand fetch
+  * bip 39 word 3: sand fetch dismiss
+  * bip 39 word: sand fetch dismiss cloth enjoy token engage frequent mystery accident gift access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sand |  
+| bip_39_word_new_br10 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token<br>engage<br>frequent<br>mystery<br>accident |  
+| bip_39_word_new_br11 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token<br>engage<br>frequent<br>mystery<br>accident<br>gift |  
+| bip_39_word_new_br12 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token<br>engage<br>frequent<br>mystery<br>accident<br>gift<br>access |  
+| bip_39_word_new_br2 | sand<br>fetch |  
+| bip_39_word_new_br3 | sand<br>fetch<br>dismiss |  
+| bip_39_word_new_br4 | sand<br>fetch<br>dismiss<br>cloth |  
+| bip_39_word_new_br5 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy |  
+| bip_39_word_new_br6 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token |  
+| bip_39_word_new_br7 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token<br>engage |  
+| bip_39_word_new_br8 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token<br>engage<br>frequent |  
+| bip_39_word_new_br9 | sand<br>fetch<br>dismiss<br>cloth<br>enjoy<br>token<br>engage<br>frequent<br>mystery |  
+| bip_39_word_new_line1 | sand |  
+| bip_39_word_new_line10 | sand
+fetch
+dismiss
+cloth
+enjoy
+token
+engage
+frequent
+mystery
+accident |  
+| bip_39_word_new_line11 | sand
+fetch
+dismiss
+cloth
+enjoy
+token
+engage
+frequent
+mystery
+accident
+gift |  
+| bip_39_word_new_line12 | sand
+fetch
+dismiss
+cloth
+enjoy
+token
+engage
+frequent
+mystery
+accident
+gift
+access |  
+| bip_39_word_new_line2 | sand
+fetch |  
+| bip_39_word_new_line3 | sand
+fetch
+dismiss |  
+| bip_39_word_new_line4 | sand
+fetch
+dismiss
+cloth |  
+| bip_39_word_new_line5 | sand
+fetch
+dismiss
+cloth
+enjoy |  
+| bip_39_word_new_line6 | sand
+fetch
+dismiss
+cloth
+enjoy
+token |  
+| bip_39_word_new_line7 | sand
+fetch
+dismiss
+cloth
+enjoy
+token
+engage |  
+| bip_39_word_new_line8 | sand
+fetch
+dismiss
+cloth
+enjoy
+token
+engage
+frequent |  
+| bip_39_word_new_line9 | sand
+fetch
+dismiss
+cloth
+enjoy
+token
+engage
+frequent
+mystery |  
+| bip_39_word_space_0 | ['sand', 'fetch', 'dismiss', 'cloth', 'enjoy', 'token', 'engage', 'frequent', 'mystery', 'accident', 'gift', 'access'] |  
+| bip_39_word_space_1 | sand |  
+| bip_39_word_space_10 | sand fetch dismiss cloth enjoy token engage frequent mystery accident |  
+| bip_39_word_space_11 | sand fetch dismiss cloth enjoy token engage frequent mystery accident gift |  
+| bip_39_word_space_12 | sand fetch dismiss cloth enjoy token engage frequent mystery accident gift access |  
+| bip_39_word_space_2 | sand fetch |  
+| bip_39_word_space_3 | sand fetch dismiss |  
+| bip_39_word_space_4 | sand fetch dismiss cloth |  
+| bip_39_word_space_5 | sand fetch dismiss cloth enjoy |  
+| bip_39_word_space_6 | sand fetch dismiss cloth enjoy token |  
+| bip_39_word_space_7 | sand fetch dismiss cloth enjoy token engage |  
+| bip_39_word_space_8 | sand fetch dismiss cloth enjoy token engage frequent |  
+| bip_39_word_space_9 | sand fetch dismiss cloth enjoy token engage frequent mystery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

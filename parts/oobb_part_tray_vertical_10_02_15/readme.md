@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enact soon
+  * bip 39 word 3: enact soon choice
+  * bip 39 word: enact soon choice fuel soul settle upset doctor term math dilemma account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enact |  
+| bip_39_word_new_br10 | enact<br>soon<br>choice<br>fuel<br>soul<br>settle<br>upset<br>doctor<br>term<br>math |  
+| bip_39_word_new_br11 | enact<br>soon<br>choice<br>fuel<br>soul<br>settle<br>upset<br>doctor<br>term<br>math<br>dilemma |  
+| bip_39_word_new_br12 | enact<br>soon<br>choice<br>fuel<br>soul<br>settle<br>upset<br>doctor<br>term<br>math<br>dilemma<br>account |  
+| bip_39_word_new_br2 | enact<br>soon |  
+| bip_39_word_new_br3 | enact<br>soon<br>choice |  
+| bip_39_word_new_br4 | enact<br>soon<br>choice<br>fuel |  
+| bip_39_word_new_br5 | enact<br>soon<br>choice<br>fuel<br>soul |  
+| bip_39_word_new_br6 | enact<br>soon<br>choice<br>fuel<br>soul<br>settle |  
+| bip_39_word_new_br7 | enact<br>soon<br>choice<br>fuel<br>soul<br>settle<br>upset |  
+| bip_39_word_new_br8 | enact<br>soon<br>choice<br>fuel<br>soul<br>settle<br>upset<br>doctor |  
+| bip_39_word_new_br9 | enact<br>soon<br>choice<br>fuel<br>soul<br>settle<br>upset<br>doctor<br>term |  
+| bip_39_word_new_line1 | enact |  
+| bip_39_word_new_line10 | enact
+soon
+choice
+fuel
+soul
+settle
+upset
+doctor
+term
+math |  
+| bip_39_word_new_line11 | enact
+soon
+choice
+fuel
+soul
+settle
+upset
+doctor
+term
+math
+dilemma |  
+| bip_39_word_new_line12 | enact
+soon
+choice
+fuel
+soul
+settle
+upset
+doctor
+term
+math
+dilemma
+account |  
+| bip_39_word_new_line2 | enact
+soon |  
+| bip_39_word_new_line3 | enact
+soon
+choice |  
+| bip_39_word_new_line4 | enact
+soon
+choice
+fuel |  
+| bip_39_word_new_line5 | enact
+soon
+choice
+fuel
+soul |  
+| bip_39_word_new_line6 | enact
+soon
+choice
+fuel
+soul
+settle |  
+| bip_39_word_new_line7 | enact
+soon
+choice
+fuel
+soul
+settle
+upset |  
+| bip_39_word_new_line8 | enact
+soon
+choice
+fuel
+soul
+settle
+upset
+doctor |  
+| bip_39_word_new_line9 | enact
+soon
+choice
+fuel
+soul
+settle
+upset
+doctor
+term |  
+| bip_39_word_space_0 | ['enact', 'soon', 'choice', 'fuel', 'soul', 'settle', 'upset', 'doctor', 'term', 'math', 'dilemma', 'account'] |  
+| bip_39_word_space_1 | enact |  
+| bip_39_word_space_10 | enact soon choice fuel soul settle upset doctor term math |  
+| bip_39_word_space_11 | enact soon choice fuel soul settle upset doctor term math dilemma |  
+| bip_39_word_space_12 | enact soon choice fuel soul settle upset doctor term math dilemma account |  
+| bip_39_word_space_2 | enact soon |  
+| bip_39_word_space_3 | enact soon choice |  
+| bip_39_word_space_4 | enact soon choice fuel |  
+| bip_39_word_space_5 | enact soon choice fuel soul |  
+| bip_39_word_space_6 | enact soon choice fuel soul settle |  
+| bip_39_word_space_7 | enact soon choice fuel soul settle upset |  
+| bip_39_word_space_8 | enact soon choice fuel soul settle upset doctor |  
+| bip_39_word_space_9 | enact soon choice fuel soul settle upset doctor term |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

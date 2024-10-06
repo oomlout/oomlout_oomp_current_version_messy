@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: choose chat
+  * bip 39 word 3: choose chat mix
+  * bip 39 word: choose chat mix what cargo kick arch brown lock fitness pull amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | choose |  
+| bip_39_word_new_br10 | choose<br>chat<br>mix<br>what<br>cargo<br>kick<br>arch<br>brown<br>lock<br>fitness |  
+| bip_39_word_new_br11 | choose<br>chat<br>mix<br>what<br>cargo<br>kick<br>arch<br>brown<br>lock<br>fitness<br>pull |  
+| bip_39_word_new_br12 | choose<br>chat<br>mix<br>what<br>cargo<br>kick<br>arch<br>brown<br>lock<br>fitness<br>pull<br>amount |  
+| bip_39_word_new_br2 | choose<br>chat |  
+| bip_39_word_new_br3 | choose<br>chat<br>mix |  
+| bip_39_word_new_br4 | choose<br>chat<br>mix<br>what |  
+| bip_39_word_new_br5 | choose<br>chat<br>mix<br>what<br>cargo |  
+| bip_39_word_new_br6 | choose<br>chat<br>mix<br>what<br>cargo<br>kick |  
+| bip_39_word_new_br7 | choose<br>chat<br>mix<br>what<br>cargo<br>kick<br>arch |  
+| bip_39_word_new_br8 | choose<br>chat<br>mix<br>what<br>cargo<br>kick<br>arch<br>brown |  
+| bip_39_word_new_br9 | choose<br>chat<br>mix<br>what<br>cargo<br>kick<br>arch<br>brown<br>lock |  
+| bip_39_word_new_line1 | choose |  
+| bip_39_word_new_line10 | choose
+chat
+mix
+what
+cargo
+kick
+arch
+brown
+lock
+fitness |  
+| bip_39_word_new_line11 | choose
+chat
+mix
+what
+cargo
+kick
+arch
+brown
+lock
+fitness
+pull |  
+| bip_39_word_new_line12 | choose
+chat
+mix
+what
+cargo
+kick
+arch
+brown
+lock
+fitness
+pull
+amount |  
+| bip_39_word_new_line2 | choose
+chat |  
+| bip_39_word_new_line3 | choose
+chat
+mix |  
+| bip_39_word_new_line4 | choose
+chat
+mix
+what |  
+| bip_39_word_new_line5 | choose
+chat
+mix
+what
+cargo |  
+| bip_39_word_new_line6 | choose
+chat
+mix
+what
+cargo
+kick |  
+| bip_39_word_new_line7 | choose
+chat
+mix
+what
+cargo
+kick
+arch |  
+| bip_39_word_new_line8 | choose
+chat
+mix
+what
+cargo
+kick
+arch
+brown |  
+| bip_39_word_new_line9 | choose
+chat
+mix
+what
+cargo
+kick
+arch
+brown
+lock |  
+| bip_39_word_space_0 | ['choose', 'chat', 'mix', 'what', 'cargo', 'kick', 'arch', 'brown', 'lock', 'fitness', 'pull', 'amount'] |  
+| bip_39_word_space_1 | choose |  
+| bip_39_word_space_10 | choose chat mix what cargo kick arch brown lock fitness |  
+| bip_39_word_space_11 | choose chat mix what cargo kick arch brown lock fitness pull |  
+| bip_39_word_space_12 | choose chat mix what cargo kick arch brown lock fitness pull amount |  
+| bip_39_word_space_2 | choose chat |  
+| bip_39_word_space_3 | choose chat mix |  
+| bip_39_word_space_4 | choose chat mix what |  
+| bip_39_word_space_5 | choose chat mix what cargo |  
+| bip_39_word_space_6 | choose chat mix what cargo kick |  
+| bip_39_word_space_7 | choose chat mix what cargo kick arch |  
+| bip_39_word_space_8 | choose chat mix what cargo kick arch brown |  
+| bip_39_word_space_9 | choose chat mix what cargo kick arch brown lock |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

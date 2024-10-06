@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brush maid
+  * bip 39 word 3: brush maid check
+  * bip 39 word: brush maid check vault aware slow fiscal purity law canal fire amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brush |  
+| bip_39_word_new_br10 | brush<br>maid<br>check<br>vault<br>aware<br>slow<br>fiscal<br>purity<br>law<br>canal |  
+| bip_39_word_new_br11 | brush<br>maid<br>check<br>vault<br>aware<br>slow<br>fiscal<br>purity<br>law<br>canal<br>fire |  
+| bip_39_word_new_br12 | brush<br>maid<br>check<br>vault<br>aware<br>slow<br>fiscal<br>purity<br>law<br>canal<br>fire<br>amount |  
+| bip_39_word_new_br2 | brush<br>maid |  
+| bip_39_word_new_br3 | brush<br>maid<br>check |  
+| bip_39_word_new_br4 | brush<br>maid<br>check<br>vault |  
+| bip_39_word_new_br5 | brush<br>maid<br>check<br>vault<br>aware |  
+| bip_39_word_new_br6 | brush<br>maid<br>check<br>vault<br>aware<br>slow |  
+| bip_39_word_new_br7 | brush<br>maid<br>check<br>vault<br>aware<br>slow<br>fiscal |  
+| bip_39_word_new_br8 | brush<br>maid<br>check<br>vault<br>aware<br>slow<br>fiscal<br>purity |  
+| bip_39_word_new_br9 | brush<br>maid<br>check<br>vault<br>aware<br>slow<br>fiscal<br>purity<br>law |  
+| bip_39_word_new_line1 | brush |  
+| bip_39_word_new_line10 | brush
+maid
+check
+vault
+aware
+slow
+fiscal
+purity
+law
+canal |  
+| bip_39_word_new_line11 | brush
+maid
+check
+vault
+aware
+slow
+fiscal
+purity
+law
+canal
+fire |  
+| bip_39_word_new_line12 | brush
+maid
+check
+vault
+aware
+slow
+fiscal
+purity
+law
+canal
+fire
+amount |  
+| bip_39_word_new_line2 | brush
+maid |  
+| bip_39_word_new_line3 | brush
+maid
+check |  
+| bip_39_word_new_line4 | brush
+maid
+check
+vault |  
+| bip_39_word_new_line5 | brush
+maid
+check
+vault
+aware |  
+| bip_39_word_new_line6 | brush
+maid
+check
+vault
+aware
+slow |  
+| bip_39_word_new_line7 | brush
+maid
+check
+vault
+aware
+slow
+fiscal |  
+| bip_39_word_new_line8 | brush
+maid
+check
+vault
+aware
+slow
+fiscal
+purity |  
+| bip_39_word_new_line9 | brush
+maid
+check
+vault
+aware
+slow
+fiscal
+purity
+law |  
+| bip_39_word_space_0 | ['brush', 'maid', 'check', 'vault', 'aware', 'slow', 'fiscal', 'purity', 'law', 'canal', 'fire', 'amount'] |  
+| bip_39_word_space_1 | brush |  
+| bip_39_word_space_10 | brush maid check vault aware slow fiscal purity law canal |  
+| bip_39_word_space_11 | brush maid check vault aware slow fiscal purity law canal fire |  
+| bip_39_word_space_12 | brush maid check vault aware slow fiscal purity law canal fire amount |  
+| bip_39_word_space_2 | brush maid |  
+| bip_39_word_space_3 | brush maid check |  
+| bip_39_word_space_4 | brush maid check vault |  
+| bip_39_word_space_5 | brush maid check vault aware |  
+| bip_39_word_space_6 | brush maid check vault aware slow |  
+| bip_39_word_space_7 | brush maid check vault aware slow fiscal |  
+| bip_39_word_space_8 | brush maid check vault aware slow fiscal purity |  
+| bip_39_word_space_9 | brush maid check vault aware slow fiscal purity law |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

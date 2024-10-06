@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rent veteran
+  * bip 39 word 3: rent veteran text
+  * bip 39 word: rent veteran text view talk chuckle trouble buyer puppy abstract path alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rent |  
+| bip_39_word_new_br10 | rent<br>veteran<br>text<br>view<br>talk<br>chuckle<br>trouble<br>buyer<br>puppy<br>abstract |  
+| bip_39_word_new_br11 | rent<br>veteran<br>text<br>view<br>talk<br>chuckle<br>trouble<br>buyer<br>puppy<br>abstract<br>path |  
+| bip_39_word_new_br12 | rent<br>veteran<br>text<br>view<br>talk<br>chuckle<br>trouble<br>buyer<br>puppy<br>abstract<br>path<br>alter |  
+| bip_39_word_new_br2 | rent<br>veteran |  
+| bip_39_word_new_br3 | rent<br>veteran<br>text |  
+| bip_39_word_new_br4 | rent<br>veteran<br>text<br>view |  
+| bip_39_word_new_br5 | rent<br>veteran<br>text<br>view<br>talk |  
+| bip_39_word_new_br6 | rent<br>veteran<br>text<br>view<br>talk<br>chuckle |  
+| bip_39_word_new_br7 | rent<br>veteran<br>text<br>view<br>talk<br>chuckle<br>trouble |  
+| bip_39_word_new_br8 | rent<br>veteran<br>text<br>view<br>talk<br>chuckle<br>trouble<br>buyer |  
+| bip_39_word_new_br9 | rent<br>veteran<br>text<br>view<br>talk<br>chuckle<br>trouble<br>buyer<br>puppy |  
+| bip_39_word_new_line1 | rent |  
+| bip_39_word_new_line10 | rent
+veteran
+text
+view
+talk
+chuckle
+trouble
+buyer
+puppy
+abstract |  
+| bip_39_word_new_line11 | rent
+veteran
+text
+view
+talk
+chuckle
+trouble
+buyer
+puppy
+abstract
+path |  
+| bip_39_word_new_line12 | rent
+veteran
+text
+view
+talk
+chuckle
+trouble
+buyer
+puppy
+abstract
+path
+alter |  
+| bip_39_word_new_line2 | rent
+veteran |  
+| bip_39_word_new_line3 | rent
+veteran
+text |  
+| bip_39_word_new_line4 | rent
+veteran
+text
+view |  
+| bip_39_word_new_line5 | rent
+veteran
+text
+view
+talk |  
+| bip_39_word_new_line6 | rent
+veteran
+text
+view
+talk
+chuckle |  
+| bip_39_word_new_line7 | rent
+veteran
+text
+view
+talk
+chuckle
+trouble |  
+| bip_39_word_new_line8 | rent
+veteran
+text
+view
+talk
+chuckle
+trouble
+buyer |  
+| bip_39_word_new_line9 | rent
+veteran
+text
+view
+talk
+chuckle
+trouble
+buyer
+puppy |  
+| bip_39_word_space_0 | ['rent', 'veteran', 'text', 'view', 'talk', 'chuckle', 'trouble', 'buyer', 'puppy', 'abstract', 'path', 'alter'] |  
+| bip_39_word_space_1 | rent |  
+| bip_39_word_space_10 | rent veteran text view talk chuckle trouble buyer puppy abstract |  
+| bip_39_word_space_11 | rent veteran text view talk chuckle trouble buyer puppy abstract path |  
+| bip_39_word_space_12 | rent veteran text view talk chuckle trouble buyer puppy abstract path alter |  
+| bip_39_word_space_2 | rent veteran |  
+| bip_39_word_space_3 | rent veteran text |  
+| bip_39_word_space_4 | rent veteran text view |  
+| bip_39_word_space_5 | rent veteran text view talk |  
+| bip_39_word_space_6 | rent veteran text view talk chuckle |  
+| bip_39_word_space_7 | rent veteran text view talk chuckle trouble |  
+| bip_39_word_space_8 | rent veteran text view talk chuckle trouble buyer |  
+| bip_39_word_space_9 | rent veteran text view talk chuckle trouble buyer puppy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

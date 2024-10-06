@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_tdpb_drill_cleaner_m6
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enjoy chuckle
+  * bip 39 word 3: enjoy chuckle rally
+  * bip 39 word: enjoy chuckle rally outside learn expand tomato topple sight stumble undo any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enjoy |  
+| bip_39_word_new_br10 | enjoy<br>chuckle<br>rally<br>outside<br>learn<br>expand<br>tomato<br>topple<br>sight<br>stumble |  
+| bip_39_word_new_br11 | enjoy<br>chuckle<br>rally<br>outside<br>learn<br>expand<br>tomato<br>topple<br>sight<br>stumble<br>undo |  
+| bip_39_word_new_br12 | enjoy<br>chuckle<br>rally<br>outside<br>learn<br>expand<br>tomato<br>topple<br>sight<br>stumble<br>undo<br>any |  
+| bip_39_word_new_br2 | enjoy<br>chuckle |  
+| bip_39_word_new_br3 | enjoy<br>chuckle<br>rally |  
+| bip_39_word_new_br4 | enjoy<br>chuckle<br>rally<br>outside |  
+| bip_39_word_new_br5 | enjoy<br>chuckle<br>rally<br>outside<br>learn |  
+| bip_39_word_new_br6 | enjoy<br>chuckle<br>rally<br>outside<br>learn<br>expand |  
+| bip_39_word_new_br7 | enjoy<br>chuckle<br>rally<br>outside<br>learn<br>expand<br>tomato |  
+| bip_39_word_new_br8 | enjoy<br>chuckle<br>rally<br>outside<br>learn<br>expand<br>tomato<br>topple |  
+| bip_39_word_new_br9 | enjoy<br>chuckle<br>rally<br>outside<br>learn<br>expand<br>tomato<br>topple<br>sight |  
+| bip_39_word_new_line1 | enjoy |  
+| bip_39_word_new_line10 | enjoy
+chuckle
+rally
+outside
+learn
+expand
+tomato
+topple
+sight
+stumble |  
+| bip_39_word_new_line11 | enjoy
+chuckle
+rally
+outside
+learn
+expand
+tomato
+topple
+sight
+stumble
+undo |  
+| bip_39_word_new_line12 | enjoy
+chuckle
+rally
+outside
+learn
+expand
+tomato
+topple
+sight
+stumble
+undo
+any |  
+| bip_39_word_new_line2 | enjoy
+chuckle |  
+| bip_39_word_new_line3 | enjoy
+chuckle
+rally |  
+| bip_39_word_new_line4 | enjoy
+chuckle
+rally
+outside |  
+| bip_39_word_new_line5 | enjoy
+chuckle
+rally
+outside
+learn |  
+| bip_39_word_new_line6 | enjoy
+chuckle
+rally
+outside
+learn
+expand |  
+| bip_39_word_new_line7 | enjoy
+chuckle
+rally
+outside
+learn
+expand
+tomato |  
+| bip_39_word_new_line8 | enjoy
+chuckle
+rally
+outside
+learn
+expand
+tomato
+topple |  
+| bip_39_word_new_line9 | enjoy
+chuckle
+rally
+outside
+learn
+expand
+tomato
+topple
+sight |  
+| bip_39_word_space_0 | ['enjoy', 'chuckle', 'rally', 'outside', 'learn', 'expand', 'tomato', 'topple', 'sight', 'stumble', 'undo', 'any'] |  
+| bip_39_word_space_1 | enjoy |  
+| bip_39_word_space_10 | enjoy chuckle rally outside learn expand tomato topple sight stumble |  
+| bip_39_word_space_11 | enjoy chuckle rally outside learn expand tomato topple sight stumble undo |  
+| bip_39_word_space_12 | enjoy chuckle rally outside learn expand tomato topple sight stumble undo any |  
+| bip_39_word_space_2 | enjoy chuckle |  
+| bip_39_word_space_3 | enjoy chuckle rally |  
+| bip_39_word_space_4 | enjoy chuckle rally outside |  
+| bip_39_word_space_5 | enjoy chuckle rally outside learn |  
+| bip_39_word_space_6 | enjoy chuckle rally outside learn expand |  
+| bip_39_word_space_7 | enjoy chuckle rally outside learn expand tomato |  
+| bip_39_word_space_8 | enjoy chuckle rally outside learn expand tomato topple |  
+| bip_39_word_space_9 | enjoy chuckle rally outside learn expand tomato topple sight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

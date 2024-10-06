@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fox high
+  * bip 39 word 3: fox high husband
+  * bip 39 word: fox high husband clump subway crucial flag web wise obtain uniform armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fox |  
+| bip_39_word_new_br10 | fox<br>high<br>husband<br>clump<br>subway<br>crucial<br>flag<br>web<br>wise<br>obtain |  
+| bip_39_word_new_br11 | fox<br>high<br>husband<br>clump<br>subway<br>crucial<br>flag<br>web<br>wise<br>obtain<br>uniform |  
+| bip_39_word_new_br12 | fox<br>high<br>husband<br>clump<br>subway<br>crucial<br>flag<br>web<br>wise<br>obtain<br>uniform<br>armor |  
+| bip_39_word_new_br2 | fox<br>high |  
+| bip_39_word_new_br3 | fox<br>high<br>husband |  
+| bip_39_word_new_br4 | fox<br>high<br>husband<br>clump |  
+| bip_39_word_new_br5 | fox<br>high<br>husband<br>clump<br>subway |  
+| bip_39_word_new_br6 | fox<br>high<br>husband<br>clump<br>subway<br>crucial |  
+| bip_39_word_new_br7 | fox<br>high<br>husband<br>clump<br>subway<br>crucial<br>flag |  
+| bip_39_word_new_br8 | fox<br>high<br>husband<br>clump<br>subway<br>crucial<br>flag<br>web |  
+| bip_39_word_new_br9 | fox<br>high<br>husband<br>clump<br>subway<br>crucial<br>flag<br>web<br>wise |  
+| bip_39_word_new_line1 | fox |  
+| bip_39_word_new_line10 | fox
+high
+husband
+clump
+subway
+crucial
+flag
+web
+wise
+obtain |  
+| bip_39_word_new_line11 | fox
+high
+husband
+clump
+subway
+crucial
+flag
+web
+wise
+obtain
+uniform |  
+| bip_39_word_new_line12 | fox
+high
+husband
+clump
+subway
+crucial
+flag
+web
+wise
+obtain
+uniform
+armor |  
+| bip_39_word_new_line2 | fox
+high |  
+| bip_39_word_new_line3 | fox
+high
+husband |  
+| bip_39_word_new_line4 | fox
+high
+husband
+clump |  
+| bip_39_word_new_line5 | fox
+high
+husband
+clump
+subway |  
+| bip_39_word_new_line6 | fox
+high
+husband
+clump
+subway
+crucial |  
+| bip_39_word_new_line7 | fox
+high
+husband
+clump
+subway
+crucial
+flag |  
+| bip_39_word_new_line8 | fox
+high
+husband
+clump
+subway
+crucial
+flag
+web |  
+| bip_39_word_new_line9 | fox
+high
+husband
+clump
+subway
+crucial
+flag
+web
+wise |  
+| bip_39_word_space_0 | ['fox', 'high', 'husband', 'clump', 'subway', 'crucial', 'flag', 'web', 'wise', 'obtain', 'uniform', 'armor'] |  
+| bip_39_word_space_1 | fox |  
+| bip_39_word_space_10 | fox high husband clump subway crucial flag web wise obtain |  
+| bip_39_word_space_11 | fox high husband clump subway crucial flag web wise obtain uniform |  
+| bip_39_word_space_12 | fox high husband clump subway crucial flag web wise obtain uniform armor |  
+| bip_39_word_space_2 | fox high |  
+| bip_39_word_space_3 | fox high husband |  
+| bip_39_word_space_4 | fox high husband clump |  
+| bip_39_word_space_5 | fox high husband clump subway |  
+| bip_39_word_space_6 | fox high husband clump subway crucial |  
+| bip_39_word_space_7 | fox high husband clump subway crucial flag |  
+| bip_39_word_space_8 | fox high husband clump subway crucial flag web |  
+| bip_39_word_space_9 | fox high husband clump subway crucial flag web wise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

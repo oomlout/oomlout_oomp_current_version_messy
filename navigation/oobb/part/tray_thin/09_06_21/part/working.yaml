@@ -1,3 +1,186 @@
+bip_39_word_new_br1: carpet
+bip_39_word_new_br10: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular<br>lava<br>camp<br>alone<br>load
+bip_39_word_new_br11: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular<br>lava<br>camp<br>alone<br>load<br>monster
+bip_39_word_new_br12: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular<br>lava<br>camp<br>alone<br>load<br>monster<br>audit
+bip_39_word_new_br2: carpet<br>doll
+bip_39_word_new_br3: carpet<br>doll<br>surface
+bip_39_word_new_br4: carpet<br>doll<br>surface<br>sell
+bip_39_word_new_br5: carpet<br>doll<br>surface<br>sell<br>heavy
+bip_39_word_new_br6: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular
+bip_39_word_new_br7: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular<br>lava
+bip_39_word_new_br8: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular<br>lava<br>camp
+bip_39_word_new_br9: carpet<br>doll<br>surface<br>sell<br>heavy<br>popular<br>lava<br>camp<br>alone
+bip_39_word_new_line1: carpet
+bip_39_word_new_line10: 'carpet
+
+  doll
+
+  surface
+
+  sell
+
+  heavy
+
+  popular
+
+  lava
+
+  camp
+
+  alone
+
+  load'
+bip_39_word_new_line11: 'carpet
+
+  doll
+
+  surface
+
+  sell
+
+  heavy
+
+  popular
+
+  lava
+
+  camp
+
+  alone
+
+  load
+
+  monster'
+bip_39_word_new_line12: 'carpet
+
+  doll
+
+  surface
+
+  sell
+
+  heavy
+
+  popular
+
+  lava
+
+  camp
+
+  alone
+
+  load
+
+  monster
+
+  audit'
+bip_39_word_new_line2: 'carpet
+
+  doll'
+bip_39_word_new_line3: 'carpet
+
+  doll
+
+  surface'
+bip_39_word_new_line4: 'carpet
+
+  doll
+
+  surface
+
+  sell'
+bip_39_word_new_line5: 'carpet
+
+  doll
+
+  surface
+
+  sell
+
+  heavy'
+bip_39_word_new_line6: 'carpet
+
+  doll
+
+  surface
+
+  sell
+
+  heavy
+
+  popular'
+bip_39_word_new_line7: 'carpet
+
+  doll
+
+  surface
+
+  sell
+
+  heavy
+
+  popular
+
+  lava'
+bip_39_word_new_line8: 'carpet
+
+  doll
+
+  surface
+
+  sell
+
+  heavy
+
+  popular
+
+  lava
+
+  camp'
+bip_39_word_new_line9: 'carpet
+
+  doll
+
+  surface
+
+  sell
+
+  heavy
+
+  popular
+
+  lava
+
+  camp
+
+  alone'
+bip_39_word_space_0:
+- carpet
+- doll
+- surface
+- sell
+- heavy
+- popular
+- lava
+- camp
+- alone
+- load
+- monster
+- audit
+bip_39_word_space_1: carpet
+bip_39_word_space_10: carpet doll surface sell heavy popular lava camp alone load
+bip_39_word_space_11: carpet doll surface sell heavy popular lava camp alone load
+  monster
+bip_39_word_space_12: carpet doll surface sell heavy popular lava camp alone load
+  monster audit
+bip_39_word_space_2: carpet doll
+bip_39_word_space_3: carpet doll surface
+bip_39_word_space_4: carpet doll surface sell
+bip_39_word_space_5: carpet doll surface sell heavy
+bip_39_word_space_6: carpet doll surface sell heavy popular
+bip_39_word_space_7: carpet doll surface sell heavy popular lava
+bip_39_word_space_8: carpet doll surface sell heavy popular lava camp
+bip_39_word_space_9: carpet doll surface sell heavy popular lava camp alone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

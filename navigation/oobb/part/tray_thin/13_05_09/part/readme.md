@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: canoe gasp
+  * bip 39 word 3: canoe gasp host
+  * bip 39 word: canoe gasp host steak exit fun kite warrior salmon strike vanish art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | canoe |  
+| bip_39_word_new_br10 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike |  
+| bip_39_word_new_br11 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish |  
+| bip_39_word_new_br12 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish<br>art |  
+| bip_39_word_new_br2 | canoe<br>gasp |  
+| bip_39_word_new_br3 | canoe<br>gasp<br>host |  
+| bip_39_word_new_br4 | canoe<br>gasp<br>host<br>steak |  
+| bip_39_word_new_br5 | canoe<br>gasp<br>host<br>steak<br>exit |  
+| bip_39_word_new_br6 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun |  
+| bip_39_word_new_br7 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite |  
+| bip_39_word_new_br8 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior |  
+| bip_39_word_new_br9 | canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon |  
+| bip_39_word_new_line1 | canoe |  
+| bip_39_word_new_line10 | canoe
+gasp
+host
+steak
+exit
+fun
+kite
+warrior
+salmon
+strike |  
+| bip_39_word_new_line11 | canoe
+gasp
+host
+steak
+exit
+fun
+kite
+warrior
+salmon
+strike
+vanish |  
+| bip_39_word_new_line12 | canoe
+gasp
+host
+steak
+exit
+fun
+kite
+warrior
+salmon
+strike
+vanish
+art |  
+| bip_39_word_new_line2 | canoe
+gasp |  
+| bip_39_word_new_line3 | canoe
+gasp
+host |  
+| bip_39_word_new_line4 | canoe
+gasp
+host
+steak |  
+| bip_39_word_new_line5 | canoe
+gasp
+host
+steak
+exit |  
+| bip_39_word_new_line6 | canoe
+gasp
+host
+steak
+exit
+fun |  
+| bip_39_word_new_line7 | canoe
+gasp
+host
+steak
+exit
+fun
+kite |  
+| bip_39_word_new_line8 | canoe
+gasp
+host
+steak
+exit
+fun
+kite
+warrior |  
+| bip_39_word_new_line9 | canoe
+gasp
+host
+steak
+exit
+fun
+kite
+warrior
+salmon |  
+| bip_39_word_space_0 | ['canoe', 'gasp', 'host', 'steak', 'exit', 'fun', 'kite', 'warrior', 'salmon', 'strike', 'vanish', 'art'] |  
+| bip_39_word_space_1 | canoe |  
+| bip_39_word_space_10 | canoe gasp host steak exit fun kite warrior salmon strike |  
+| bip_39_word_space_11 | canoe gasp host steak exit fun kite warrior salmon strike vanish |  
+| bip_39_word_space_12 | canoe gasp host steak exit fun kite warrior salmon strike vanish art |  
+| bip_39_word_space_2 | canoe gasp |  
+| bip_39_word_space_3 | canoe gasp host |  
+| bip_39_word_space_4 | canoe gasp host steak |  
+| bip_39_word_space_5 | canoe gasp host steak exit |  
+| bip_39_word_space_6 | canoe gasp host steak exit fun |  
+| bip_39_word_space_7 | canoe gasp host steak exit fun kite |  
+| bip_39_word_space_8 | canoe gasp host steak exit fun kite warrior |  
+| bip_39_word_space_9 | canoe gasp host steak exit fun kite warrior salmon |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pet desk
+  * bip 39 word 3: pet desk north
+  * bip 39 word: pet desk north cluster zone plastic clog dirt town thunder damp almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pet |  
+| bip_39_word_new_br10 | pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt<br>town<br>thunder |  
+| bip_39_word_new_br11 | pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt<br>town<br>thunder<br>damp |  
+| bip_39_word_new_br12 | pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt<br>town<br>thunder<br>damp<br>almost |  
+| bip_39_word_new_br2 | pet<br>desk |  
+| bip_39_word_new_br3 | pet<br>desk<br>north |  
+| bip_39_word_new_br4 | pet<br>desk<br>north<br>cluster |  
+| bip_39_word_new_br5 | pet<br>desk<br>north<br>cluster<br>zone |  
+| bip_39_word_new_br6 | pet<br>desk<br>north<br>cluster<br>zone<br>plastic |  
+| bip_39_word_new_br7 | pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog |  
+| bip_39_word_new_br8 | pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt |  
+| bip_39_word_new_br9 | pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt<br>town |  
+| bip_39_word_new_line1 | pet |  
+| bip_39_word_new_line10 | pet
+desk
+north
+cluster
+zone
+plastic
+clog
+dirt
+town
+thunder |  
+| bip_39_word_new_line11 | pet
+desk
+north
+cluster
+zone
+plastic
+clog
+dirt
+town
+thunder
+damp |  
+| bip_39_word_new_line12 | pet
+desk
+north
+cluster
+zone
+plastic
+clog
+dirt
+town
+thunder
+damp
+almost |  
+| bip_39_word_new_line2 | pet
+desk |  
+| bip_39_word_new_line3 | pet
+desk
+north |  
+| bip_39_word_new_line4 | pet
+desk
+north
+cluster |  
+| bip_39_word_new_line5 | pet
+desk
+north
+cluster
+zone |  
+| bip_39_word_new_line6 | pet
+desk
+north
+cluster
+zone
+plastic |  
+| bip_39_word_new_line7 | pet
+desk
+north
+cluster
+zone
+plastic
+clog |  
+| bip_39_word_new_line8 | pet
+desk
+north
+cluster
+zone
+plastic
+clog
+dirt |  
+| bip_39_word_new_line9 | pet
+desk
+north
+cluster
+zone
+plastic
+clog
+dirt
+town |  
+| bip_39_word_space_0 | ['pet', 'desk', 'north', 'cluster', 'zone', 'plastic', 'clog', 'dirt', 'town', 'thunder', 'damp', 'almost'] |  
+| bip_39_word_space_1 | pet |  
+| bip_39_word_space_10 | pet desk north cluster zone plastic clog dirt town thunder |  
+| bip_39_word_space_11 | pet desk north cluster zone plastic clog dirt town thunder damp |  
+| bip_39_word_space_12 | pet desk north cluster zone plastic clog dirt town thunder damp almost |  
+| bip_39_word_space_2 | pet desk |  
+| bip_39_word_space_3 | pet desk north |  
+| bip_39_word_space_4 | pet desk north cluster |  
+| bip_39_word_space_5 | pet desk north cluster zone |  
+| bip_39_word_space_6 | pet desk north cluster zone plastic |  
+| bip_39_word_space_7 | pet desk north cluster zone plastic clog |  
+| bip_39_word_space_8 | pet desk north cluster zone plastic clog dirt |  
+| bip_39_word_space_9 | pet desk north cluster zone plastic clog dirt town |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

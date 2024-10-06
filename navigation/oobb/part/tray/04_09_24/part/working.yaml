@@ -1,3 +1,187 @@
+bip_39_word_new_br1: burden
+bip_39_word_new_br10: burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw
+bip_39_word_new_br11: burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw<br>immune
+bip_39_word_new_br12: burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap<br>throw<br>immune<br>arrow
+bip_39_word_new_br2: burden<br>change
+bip_39_word_new_br3: burden<br>change<br>neglect
+bip_39_word_new_br4: burden<br>change<br>neglect<br>leopard
+bip_39_word_new_br5: burden<br>change<br>neglect<br>leopard<br>sausage
+bip_39_word_new_br6: burden<br>change<br>neglect<br>leopard<br>sausage<br>large
+bip_39_word_new_br7: burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill
+bip_39_word_new_br8: burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride
+bip_39_word_new_br9: burden<br>change<br>neglect<br>leopard<br>sausage<br>large<br>pill<br>ride<br>cheap
+bip_39_word_new_line1: burden
+bip_39_word_new_line10: 'burden
+
+  change
+
+  neglect
+
+  leopard
+
+  sausage
+
+  large
+
+  pill
+
+  ride
+
+  cheap
+
+  throw'
+bip_39_word_new_line11: 'burden
+
+  change
+
+  neglect
+
+  leopard
+
+  sausage
+
+  large
+
+  pill
+
+  ride
+
+  cheap
+
+  throw
+
+  immune'
+bip_39_word_new_line12: 'burden
+
+  change
+
+  neglect
+
+  leopard
+
+  sausage
+
+  large
+
+  pill
+
+  ride
+
+  cheap
+
+  throw
+
+  immune
+
+  arrow'
+bip_39_word_new_line2: 'burden
+
+  change'
+bip_39_word_new_line3: 'burden
+
+  change
+
+  neglect'
+bip_39_word_new_line4: 'burden
+
+  change
+
+  neglect
+
+  leopard'
+bip_39_word_new_line5: 'burden
+
+  change
+
+  neglect
+
+  leopard
+
+  sausage'
+bip_39_word_new_line6: 'burden
+
+  change
+
+  neglect
+
+  leopard
+
+  sausage
+
+  large'
+bip_39_word_new_line7: 'burden
+
+  change
+
+  neglect
+
+  leopard
+
+  sausage
+
+  large
+
+  pill'
+bip_39_word_new_line8: 'burden
+
+  change
+
+  neglect
+
+  leopard
+
+  sausage
+
+  large
+
+  pill
+
+  ride'
+bip_39_word_new_line9: 'burden
+
+  change
+
+  neglect
+
+  leopard
+
+  sausage
+
+  large
+
+  pill
+
+  ride
+
+  cheap'
+bip_39_word_space_0:
+- burden
+- change
+- neglect
+- leopard
+- sausage
+- large
+- pill
+- ride
+- cheap
+- throw
+- immune
+- arrow
+bip_39_word_space_1: burden
+bip_39_word_space_10: burden change neglect leopard sausage large pill ride cheap
+  throw
+bip_39_word_space_11: burden change neglect leopard sausage large pill ride cheap
+  throw immune
+bip_39_word_space_12: burden change neglect leopard sausage large pill ride cheap
+  throw immune arrow
+bip_39_word_space_2: burden change
+bip_39_word_space_3: burden change neglect
+bip_39_word_space_4: burden change neglect leopard
+bip_39_word_space_5: burden change neglect leopard sausage
+bip_39_word_space_6: burden change neglect leopard sausage large
+bip_39_word_space_7: burden change neglect leopard sausage large pill
+bip_39_word_space_8: burden change neglect leopard sausage large pill ride
+bip_39_word_space_9: burden change neglect leopard sausage large pill ride cheap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

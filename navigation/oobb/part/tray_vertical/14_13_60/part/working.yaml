@@ -1,3 +1,187 @@
+bip_39_word_new_br1: hospital
+bip_39_word_new_br10: hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology
+bip_39_word_new_br11: hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology<br>drum
+bip_39_word_new_br12: hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune<br>biology<br>drum<br>annual
+bip_39_word_new_br2: hospital<br>grief
+bip_39_word_new_br3: hospital<br>grief<br>basic
+bip_39_word_new_br4: hospital<br>grief<br>basic<br>night
+bip_39_word_new_br5: hospital<br>grief<br>basic<br>night<br>pattern
+bip_39_word_new_br6: hospital<br>grief<br>basic<br>night<br>pattern<br>primary
+bip_39_word_new_br7: hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square
+bip_39_word_new_br8: hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb
+bip_39_word_new_br9: hospital<br>grief<br>basic<br>night<br>pattern<br>primary<br>square<br>dumb<br>dune
+bip_39_word_new_line1: hospital
+bip_39_word_new_line10: 'hospital
+
+  grief
+
+  basic
+
+  night
+
+  pattern
+
+  primary
+
+  square
+
+  dumb
+
+  dune
+
+  biology'
+bip_39_word_new_line11: 'hospital
+
+  grief
+
+  basic
+
+  night
+
+  pattern
+
+  primary
+
+  square
+
+  dumb
+
+  dune
+
+  biology
+
+  drum'
+bip_39_word_new_line12: 'hospital
+
+  grief
+
+  basic
+
+  night
+
+  pattern
+
+  primary
+
+  square
+
+  dumb
+
+  dune
+
+  biology
+
+  drum
+
+  annual'
+bip_39_word_new_line2: 'hospital
+
+  grief'
+bip_39_word_new_line3: 'hospital
+
+  grief
+
+  basic'
+bip_39_word_new_line4: 'hospital
+
+  grief
+
+  basic
+
+  night'
+bip_39_word_new_line5: 'hospital
+
+  grief
+
+  basic
+
+  night
+
+  pattern'
+bip_39_word_new_line6: 'hospital
+
+  grief
+
+  basic
+
+  night
+
+  pattern
+
+  primary'
+bip_39_word_new_line7: 'hospital
+
+  grief
+
+  basic
+
+  night
+
+  pattern
+
+  primary
+
+  square'
+bip_39_word_new_line8: 'hospital
+
+  grief
+
+  basic
+
+  night
+
+  pattern
+
+  primary
+
+  square
+
+  dumb'
+bip_39_word_new_line9: 'hospital
+
+  grief
+
+  basic
+
+  night
+
+  pattern
+
+  primary
+
+  square
+
+  dumb
+
+  dune'
+bip_39_word_space_0:
+- hospital
+- grief
+- basic
+- night
+- pattern
+- primary
+- square
+- dumb
+- dune
+- biology
+- drum
+- annual
+bip_39_word_space_1: hospital
+bip_39_word_space_10: hospital grief basic night pattern primary square dumb dune
+  biology
+bip_39_word_space_11: hospital grief basic night pattern primary square dumb dune
+  biology drum
+bip_39_word_space_12: hospital grief basic night pattern primary square dumb dune
+  biology drum annual
+bip_39_word_space_2: hospital grief
+bip_39_word_space_3: hospital grief basic
+bip_39_word_space_4: hospital grief basic night
+bip_39_word_space_5: hospital grief basic night pattern
+bip_39_word_space_6: hospital grief basic night pattern primary
+bip_39_word_space_7: hospital grief basic night pattern primary square
+bip_39_word_space_8: hospital grief basic night pattern primary square dumb
+bip_39_word_space_9: hospital grief basic night pattern primary square dumb dune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: away now
+  * bip 39 word 3: away now math
+  * bip 39 word: away now math grid jump will couch water try spray marble abuse
 
 ### other_codes
 * short_code: cs2b25p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | away |  
+| bip_39_word_new_br10 | away<br>now<br>math<br>grid<br>jump<br>will<br>couch<br>water<br>try<br>spray |  
+| bip_39_word_new_br11 | away<br>now<br>math<br>grid<br>jump<br>will<br>couch<br>water<br>try<br>spray<br>marble |  
+| bip_39_word_new_br12 | away<br>now<br>math<br>grid<br>jump<br>will<br>couch<br>water<br>try<br>spray<br>marble<br>abuse |  
+| bip_39_word_new_br2 | away<br>now |  
+| bip_39_word_new_br3 | away<br>now<br>math |  
+| bip_39_word_new_br4 | away<br>now<br>math<br>grid |  
+| bip_39_word_new_br5 | away<br>now<br>math<br>grid<br>jump |  
+| bip_39_word_new_br6 | away<br>now<br>math<br>grid<br>jump<br>will |  
+| bip_39_word_new_br7 | away<br>now<br>math<br>grid<br>jump<br>will<br>couch |  
+| bip_39_word_new_br8 | away<br>now<br>math<br>grid<br>jump<br>will<br>couch<br>water |  
+| bip_39_word_new_br9 | away<br>now<br>math<br>grid<br>jump<br>will<br>couch<br>water<br>try |  
+| bip_39_word_new_line1 | away |  
+| bip_39_word_new_line10 | away
+now
+math
+grid
+jump
+will
+couch
+water
+try
+spray |  
+| bip_39_word_new_line11 | away
+now
+math
+grid
+jump
+will
+couch
+water
+try
+spray
+marble |  
+| bip_39_word_new_line12 | away
+now
+math
+grid
+jump
+will
+couch
+water
+try
+spray
+marble
+abuse |  
+| bip_39_word_new_line2 | away
+now |  
+| bip_39_word_new_line3 | away
+now
+math |  
+| bip_39_word_new_line4 | away
+now
+math
+grid |  
+| bip_39_word_new_line5 | away
+now
+math
+grid
+jump |  
+| bip_39_word_new_line6 | away
+now
+math
+grid
+jump
+will |  
+| bip_39_word_new_line7 | away
+now
+math
+grid
+jump
+will
+couch |  
+| bip_39_word_new_line8 | away
+now
+math
+grid
+jump
+will
+couch
+water |  
+| bip_39_word_new_line9 | away
+now
+math
+grid
+jump
+will
+couch
+water
+try |  
+| bip_39_word_space_0 | ['away', 'now', 'math', 'grid', 'jump', 'will', 'couch', 'water', 'try', 'spray', 'marble', 'abuse'] |  
+| bip_39_word_space_1 | away |  
+| bip_39_word_space_10 | away now math grid jump will couch water try spray |  
+| bip_39_word_space_11 | away now math grid jump will couch water try spray marble |  
+| bip_39_word_space_12 | away now math grid jump will couch water try spray marble abuse |  
+| bip_39_word_space_2 | away now |  
+| bip_39_word_space_3 | away now math |  
+| bip_39_word_space_4 | away now math grid |  
+| bip_39_word_space_5 | away now math grid jump |  
+| bip_39_word_space_6 | away now math grid jump will |  
+| bip_39_word_space_7 | away now math grid jump will couch |  
+| bip_39_word_space_8 | away now math grid jump will couch water |  
+| bip_39_word_space_9 | away now math grid jump will couch water try |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

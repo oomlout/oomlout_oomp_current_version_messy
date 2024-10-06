@@ -1,3 +1,185 @@
+bip_39_word_new_br1: shaft
+bip_39_word_new_br10: shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half
+bip_39_word_new_br11: shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half<br>hospital
+bip_39_word_new_br12: shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already<br>half<br>hospital<br>account
+bip_39_word_new_br2: shaft<br>jump
+bip_39_word_new_br3: shaft<br>jump<br>purity
+bip_39_word_new_br4: shaft<br>jump<br>purity<br>dutch
+bip_39_word_new_br5: shaft<br>jump<br>purity<br>dutch<br>chase
+bip_39_word_new_br6: shaft<br>jump<br>purity<br>dutch<br>chase<br>gift
+bip_39_word_new_br7: shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade
+bip_39_word_new_br8: shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan
+bip_39_word_new_br9: shaft<br>jump<br>purity<br>dutch<br>chase<br>gift<br>parade<br>fan<br>already
+bip_39_word_new_line1: shaft
+bip_39_word_new_line10: 'shaft
+
+  jump
+
+  purity
+
+  dutch
+
+  chase
+
+  gift
+
+  parade
+
+  fan
+
+  already
+
+  half'
+bip_39_word_new_line11: 'shaft
+
+  jump
+
+  purity
+
+  dutch
+
+  chase
+
+  gift
+
+  parade
+
+  fan
+
+  already
+
+  half
+
+  hospital'
+bip_39_word_new_line12: 'shaft
+
+  jump
+
+  purity
+
+  dutch
+
+  chase
+
+  gift
+
+  parade
+
+  fan
+
+  already
+
+  half
+
+  hospital
+
+  account'
+bip_39_word_new_line2: 'shaft
+
+  jump'
+bip_39_word_new_line3: 'shaft
+
+  jump
+
+  purity'
+bip_39_word_new_line4: 'shaft
+
+  jump
+
+  purity
+
+  dutch'
+bip_39_word_new_line5: 'shaft
+
+  jump
+
+  purity
+
+  dutch
+
+  chase'
+bip_39_word_new_line6: 'shaft
+
+  jump
+
+  purity
+
+  dutch
+
+  chase
+
+  gift'
+bip_39_word_new_line7: 'shaft
+
+  jump
+
+  purity
+
+  dutch
+
+  chase
+
+  gift
+
+  parade'
+bip_39_word_new_line8: 'shaft
+
+  jump
+
+  purity
+
+  dutch
+
+  chase
+
+  gift
+
+  parade
+
+  fan'
+bip_39_word_new_line9: 'shaft
+
+  jump
+
+  purity
+
+  dutch
+
+  chase
+
+  gift
+
+  parade
+
+  fan
+
+  already'
+bip_39_word_space_0:
+- shaft
+- jump
+- purity
+- dutch
+- chase
+- gift
+- parade
+- fan
+- already
+- half
+- hospital
+- account
+bip_39_word_space_1: shaft
+bip_39_word_space_10: shaft jump purity dutch chase gift parade fan already half
+bip_39_word_space_11: shaft jump purity dutch chase gift parade fan already half hospital
+bip_39_word_space_12: shaft jump purity dutch chase gift parade fan already half hospital
+  account
+bip_39_word_space_2: shaft jump
+bip_39_word_space_3: shaft jump purity
+bip_39_word_space_4: shaft jump purity dutch
+bip_39_word_space_5: shaft jump purity dutch chase
+bip_39_word_space_6: shaft jump purity dutch chase gift
+bip_39_word_space_7: shaft jump purity dutch chase gift parade
+bip_39_word_space_8: shaft jump purity dutch chase gift parade fan
+bip_39_word_space_9: shaft jump purity dutch chase gift parade fan already
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

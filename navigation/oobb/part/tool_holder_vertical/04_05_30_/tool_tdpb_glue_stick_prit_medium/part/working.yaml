@@ -1,3 +1,186 @@
+bip_39_word_new_br1: boss
+bip_39_word_new_br10: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output<br>upon<br>indicate
+bip_39_word_new_br11: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output<br>upon<br>indicate<br>dawn
+bip_39_word_new_br12: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output<br>upon<br>indicate<br>dawn<br>absorb
+bip_39_word_new_br2: boss<br>cat
+bip_39_word_new_br3: boss<br>cat<br>chimney
+bip_39_word_new_br4: boss<br>cat<br>chimney<br>large
+bip_39_word_new_br5: boss<br>cat<br>chimney<br>large<br>spell
+bip_39_word_new_br6: boss<br>cat<br>chimney<br>large<br>spell<br>practice
+bip_39_word_new_br7: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous
+bip_39_word_new_br8: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output
+bip_39_word_new_br9: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output<br>upon
+bip_39_word_new_line1: boss
+bip_39_word_new_line10: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output
+
+  upon
+
+  indicate'
+bip_39_word_new_line11: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output
+
+  upon
+
+  indicate
+
+  dawn'
+bip_39_word_new_line12: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output
+
+  upon
+
+  indicate
+
+  dawn
+
+  absorb'
+bip_39_word_new_line2: 'boss
+
+  cat'
+bip_39_word_new_line3: 'boss
+
+  cat
+
+  chimney'
+bip_39_word_new_line4: 'boss
+
+  cat
+
+  chimney
+
+  large'
+bip_39_word_new_line5: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell'
+bip_39_word_new_line6: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice'
+bip_39_word_new_line7: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous'
+bip_39_word_new_line8: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output'
+bip_39_word_new_line9: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output
+
+  upon'
+bip_39_word_space_0:
+- boss
+- cat
+- chimney
+- large
+- spell
+- practice
+- jealous
+- output
+- upon
+- indicate
+- dawn
+- absorb
+bip_39_word_space_1: boss
+bip_39_word_space_10: boss cat chimney large spell practice jealous output upon indicate
+bip_39_word_space_11: boss cat chimney large spell practice jealous output upon indicate
+  dawn
+bip_39_word_space_12: boss cat chimney large spell practice jealous output upon indicate
+  dawn absorb
+bip_39_word_space_2: boss cat
+bip_39_word_space_3: boss cat chimney
+bip_39_word_space_4: boss cat chimney large
+bip_39_word_space_5: boss cat chimney large spell
+bip_39_word_space_6: boss cat chimney large spell practice
+bip_39_word_space_7: boss cat chimney large spell practice jealous
+bip_39_word_space_8: boss cat chimney large spell practice jealous output
+bip_39_word_space_9: boss cat chimney large spell practice jealous output upon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

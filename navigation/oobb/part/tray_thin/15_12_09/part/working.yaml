@@ -1,3 +1,185 @@
+bip_39_word_new_br1: crater
+bip_39_word_new_br10: crater<br>era<br>alter<br>code<br>film<br>party<br>hammer<br>buddy<br>action<br>cash
+bip_39_word_new_br11: crater<br>era<br>alter<br>code<br>film<br>party<br>hammer<br>buddy<br>action<br>cash<br>ketchup
+bip_39_word_new_br12: crater<br>era<br>alter<br>code<br>film<br>party<br>hammer<br>buddy<br>action<br>cash<br>ketchup<br>august
+bip_39_word_new_br2: crater<br>era
+bip_39_word_new_br3: crater<br>era<br>alter
+bip_39_word_new_br4: crater<br>era<br>alter<br>code
+bip_39_word_new_br5: crater<br>era<br>alter<br>code<br>film
+bip_39_word_new_br6: crater<br>era<br>alter<br>code<br>film<br>party
+bip_39_word_new_br7: crater<br>era<br>alter<br>code<br>film<br>party<br>hammer
+bip_39_word_new_br8: crater<br>era<br>alter<br>code<br>film<br>party<br>hammer<br>buddy
+bip_39_word_new_br9: crater<br>era<br>alter<br>code<br>film<br>party<br>hammer<br>buddy<br>action
+bip_39_word_new_line1: crater
+bip_39_word_new_line10: 'crater
+
+  era
+
+  alter
+
+  code
+
+  film
+
+  party
+
+  hammer
+
+  buddy
+
+  action
+
+  cash'
+bip_39_word_new_line11: 'crater
+
+  era
+
+  alter
+
+  code
+
+  film
+
+  party
+
+  hammer
+
+  buddy
+
+  action
+
+  cash
+
+  ketchup'
+bip_39_word_new_line12: 'crater
+
+  era
+
+  alter
+
+  code
+
+  film
+
+  party
+
+  hammer
+
+  buddy
+
+  action
+
+  cash
+
+  ketchup
+
+  august'
+bip_39_word_new_line2: 'crater
+
+  era'
+bip_39_word_new_line3: 'crater
+
+  era
+
+  alter'
+bip_39_word_new_line4: 'crater
+
+  era
+
+  alter
+
+  code'
+bip_39_word_new_line5: 'crater
+
+  era
+
+  alter
+
+  code
+
+  film'
+bip_39_word_new_line6: 'crater
+
+  era
+
+  alter
+
+  code
+
+  film
+
+  party'
+bip_39_word_new_line7: 'crater
+
+  era
+
+  alter
+
+  code
+
+  film
+
+  party
+
+  hammer'
+bip_39_word_new_line8: 'crater
+
+  era
+
+  alter
+
+  code
+
+  film
+
+  party
+
+  hammer
+
+  buddy'
+bip_39_word_new_line9: 'crater
+
+  era
+
+  alter
+
+  code
+
+  film
+
+  party
+
+  hammer
+
+  buddy
+
+  action'
+bip_39_word_space_0:
+- crater
+- era
+- alter
+- code
+- film
+- party
+- hammer
+- buddy
+- action
+- cash
+- ketchup
+- august
+bip_39_word_space_1: crater
+bip_39_word_space_10: crater era alter code film party hammer buddy action cash
+bip_39_word_space_11: crater era alter code film party hammer buddy action cash ketchup
+bip_39_word_space_12: crater era alter code film party hammer buddy action cash ketchup
+  august
+bip_39_word_space_2: crater era
+bip_39_word_space_3: crater era alter
+bip_39_word_space_4: crater era alter code
+bip_39_word_space_5: crater era alter code film
+bip_39_word_space_6: crater era alter code film party
+bip_39_word_space_7: crater era alter code film party hammer
+bip_39_word_space_8: crater era alter code film party hammer buddy
+bip_39_word_space_9: crater era alter code film party hammer buddy action
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

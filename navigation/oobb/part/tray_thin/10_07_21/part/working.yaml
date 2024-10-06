@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vast
+bip_39_word_new_br10: vast<br>valve<br>rival<br>mammal<br>immense<br>rescue<br>deal<br>fabric<br>isolate<br>mention
+bip_39_word_new_br11: vast<br>valve<br>rival<br>mammal<br>immense<br>rescue<br>deal<br>fabric<br>isolate<br>mention<br>priority
+bip_39_word_new_br12: vast<br>valve<br>rival<br>mammal<br>immense<br>rescue<br>deal<br>fabric<br>isolate<br>mention<br>priority<br>arm
+bip_39_word_new_br2: vast<br>valve
+bip_39_word_new_br3: vast<br>valve<br>rival
+bip_39_word_new_br4: vast<br>valve<br>rival<br>mammal
+bip_39_word_new_br5: vast<br>valve<br>rival<br>mammal<br>immense
+bip_39_word_new_br6: vast<br>valve<br>rival<br>mammal<br>immense<br>rescue
+bip_39_word_new_br7: vast<br>valve<br>rival<br>mammal<br>immense<br>rescue<br>deal
+bip_39_word_new_br8: vast<br>valve<br>rival<br>mammal<br>immense<br>rescue<br>deal<br>fabric
+bip_39_word_new_br9: vast<br>valve<br>rival<br>mammal<br>immense<br>rescue<br>deal<br>fabric<br>isolate
+bip_39_word_new_line1: vast
+bip_39_word_new_line10: 'vast
+
+  valve
+
+  rival
+
+  mammal
+
+  immense
+
+  rescue
+
+  deal
+
+  fabric
+
+  isolate
+
+  mention'
+bip_39_word_new_line11: 'vast
+
+  valve
+
+  rival
+
+  mammal
+
+  immense
+
+  rescue
+
+  deal
+
+  fabric
+
+  isolate
+
+  mention
+
+  priority'
+bip_39_word_new_line12: 'vast
+
+  valve
+
+  rival
+
+  mammal
+
+  immense
+
+  rescue
+
+  deal
+
+  fabric
+
+  isolate
+
+  mention
+
+  priority
+
+  arm'
+bip_39_word_new_line2: 'vast
+
+  valve'
+bip_39_word_new_line3: 'vast
+
+  valve
+
+  rival'
+bip_39_word_new_line4: 'vast
+
+  valve
+
+  rival
+
+  mammal'
+bip_39_word_new_line5: 'vast
+
+  valve
+
+  rival
+
+  mammal
+
+  immense'
+bip_39_word_new_line6: 'vast
+
+  valve
+
+  rival
+
+  mammal
+
+  immense
+
+  rescue'
+bip_39_word_new_line7: 'vast
+
+  valve
+
+  rival
+
+  mammal
+
+  immense
+
+  rescue
+
+  deal'
+bip_39_word_new_line8: 'vast
+
+  valve
+
+  rival
+
+  mammal
+
+  immense
+
+  rescue
+
+  deal
+
+  fabric'
+bip_39_word_new_line9: 'vast
+
+  valve
+
+  rival
+
+  mammal
+
+  immense
+
+  rescue
+
+  deal
+
+  fabric
+
+  isolate'
+bip_39_word_space_0:
+- vast
+- valve
+- rival
+- mammal
+- immense
+- rescue
+- deal
+- fabric
+- isolate
+- mention
+- priority
+- arm
+bip_39_word_space_1: vast
+bip_39_word_space_10: vast valve rival mammal immense rescue deal fabric isolate mention
+bip_39_word_space_11: vast valve rival mammal immense rescue deal fabric isolate mention
+  priority
+bip_39_word_space_12: vast valve rival mammal immense rescue deal fabric isolate mention
+  priority arm
+bip_39_word_space_2: vast valve
+bip_39_word_space_3: vast valve rival
+bip_39_word_space_4: vast valve rival mammal
+bip_39_word_space_5: vast valve rival mammal immense
+bip_39_word_space_6: vast valve rival mammal immense rescue
+bip_39_word_space_7: vast valve rival mammal immense rescue deal
+bip_39_word_space_8: vast valve rival mammal immense rescue deal fabric
+bip_39_word_space_9: vast valve rival mammal immense rescue deal fabric isolate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

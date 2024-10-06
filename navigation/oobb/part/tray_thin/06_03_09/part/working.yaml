@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sing
+bip_39_word_new_br10: sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel
+bip_39_word_new_br11: sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel<br>tag
+bip_39_word_new_br12: sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice<br>weasel<br>tag<br>angle
+bip_39_word_new_br2: sing<br>bitter
+bip_39_word_new_br3: sing<br>bitter<br>portion
+bip_39_word_new_br4: sing<br>bitter<br>portion<br>join
+bip_39_word_new_br5: sing<br>bitter<br>portion<br>join<br>elite
+bip_39_word_new_br6: sing<br>bitter<br>portion<br>join<br>elite<br>bronze
+bip_39_word_new_br7: sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard
+bip_39_word_new_br8: sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart
+bip_39_word_new_br9: sing<br>bitter<br>portion<br>join<br>elite<br>bronze<br>leopard<br>apart<br>nice
+bip_39_word_new_line1: sing
+bip_39_word_new_line10: 'sing
+
+  bitter
+
+  portion
+
+  join
+
+  elite
+
+  bronze
+
+  leopard
+
+  apart
+
+  nice
+
+  weasel'
+bip_39_word_new_line11: 'sing
+
+  bitter
+
+  portion
+
+  join
+
+  elite
+
+  bronze
+
+  leopard
+
+  apart
+
+  nice
+
+  weasel
+
+  tag'
+bip_39_word_new_line12: 'sing
+
+  bitter
+
+  portion
+
+  join
+
+  elite
+
+  bronze
+
+  leopard
+
+  apart
+
+  nice
+
+  weasel
+
+  tag
+
+  angle'
+bip_39_word_new_line2: 'sing
+
+  bitter'
+bip_39_word_new_line3: 'sing
+
+  bitter
+
+  portion'
+bip_39_word_new_line4: 'sing
+
+  bitter
+
+  portion
+
+  join'
+bip_39_word_new_line5: 'sing
+
+  bitter
+
+  portion
+
+  join
+
+  elite'
+bip_39_word_new_line6: 'sing
+
+  bitter
+
+  portion
+
+  join
+
+  elite
+
+  bronze'
+bip_39_word_new_line7: 'sing
+
+  bitter
+
+  portion
+
+  join
+
+  elite
+
+  bronze
+
+  leopard'
+bip_39_word_new_line8: 'sing
+
+  bitter
+
+  portion
+
+  join
+
+  elite
+
+  bronze
+
+  leopard
+
+  apart'
+bip_39_word_new_line9: 'sing
+
+  bitter
+
+  portion
+
+  join
+
+  elite
+
+  bronze
+
+  leopard
+
+  apart
+
+  nice'
+bip_39_word_space_0:
+- sing
+- bitter
+- portion
+- join
+- elite
+- bronze
+- leopard
+- apart
+- nice
+- weasel
+- tag
+- angle
+bip_39_word_space_1: sing
+bip_39_word_space_10: sing bitter portion join elite bronze leopard apart nice weasel
+bip_39_word_space_11: sing bitter portion join elite bronze leopard apart nice weasel
+  tag
+bip_39_word_space_12: sing bitter portion join elite bronze leopard apart nice weasel
+  tag angle
+bip_39_word_space_2: sing bitter
+bip_39_word_space_3: sing bitter portion
+bip_39_word_space_4: sing bitter portion join
+bip_39_word_space_5: sing bitter portion join elite
+bip_39_word_space_6: sing bitter portion join elite bronze
+bip_39_word_space_7: sing bitter portion join elite bronze leopard
+bip_39_word_space_8: sing bitter portion join elite bronze leopard apart
+bip_39_word_space_9: sing bitter portion join elite bronze leopard apart nice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

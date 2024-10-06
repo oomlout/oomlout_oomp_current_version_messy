@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: match remain
+  * bip 39 word 3: match remain flip
+  * bip 39 word: match remain flip like time bottom blossom oven celery story company access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | match |  
+| bip_39_word_new_br10 | match<br>remain<br>flip<br>like<br>time<br>bottom<br>blossom<br>oven<br>celery<br>story |  
+| bip_39_word_new_br11 | match<br>remain<br>flip<br>like<br>time<br>bottom<br>blossom<br>oven<br>celery<br>story<br>company |  
+| bip_39_word_new_br12 | match<br>remain<br>flip<br>like<br>time<br>bottom<br>blossom<br>oven<br>celery<br>story<br>company<br>access |  
+| bip_39_word_new_br2 | match<br>remain |  
+| bip_39_word_new_br3 | match<br>remain<br>flip |  
+| bip_39_word_new_br4 | match<br>remain<br>flip<br>like |  
+| bip_39_word_new_br5 | match<br>remain<br>flip<br>like<br>time |  
+| bip_39_word_new_br6 | match<br>remain<br>flip<br>like<br>time<br>bottom |  
+| bip_39_word_new_br7 | match<br>remain<br>flip<br>like<br>time<br>bottom<br>blossom |  
+| bip_39_word_new_br8 | match<br>remain<br>flip<br>like<br>time<br>bottom<br>blossom<br>oven |  
+| bip_39_word_new_br9 | match<br>remain<br>flip<br>like<br>time<br>bottom<br>blossom<br>oven<br>celery |  
+| bip_39_word_new_line1 | match |  
+| bip_39_word_new_line10 | match
+remain
+flip
+like
+time
+bottom
+blossom
+oven
+celery
+story |  
+| bip_39_word_new_line11 | match
+remain
+flip
+like
+time
+bottom
+blossom
+oven
+celery
+story
+company |  
+| bip_39_word_new_line12 | match
+remain
+flip
+like
+time
+bottom
+blossom
+oven
+celery
+story
+company
+access |  
+| bip_39_word_new_line2 | match
+remain |  
+| bip_39_word_new_line3 | match
+remain
+flip |  
+| bip_39_word_new_line4 | match
+remain
+flip
+like |  
+| bip_39_word_new_line5 | match
+remain
+flip
+like
+time |  
+| bip_39_word_new_line6 | match
+remain
+flip
+like
+time
+bottom |  
+| bip_39_word_new_line7 | match
+remain
+flip
+like
+time
+bottom
+blossom |  
+| bip_39_word_new_line8 | match
+remain
+flip
+like
+time
+bottom
+blossom
+oven |  
+| bip_39_word_new_line9 | match
+remain
+flip
+like
+time
+bottom
+blossom
+oven
+celery |  
+| bip_39_word_space_0 | ['match', 'remain', 'flip', 'like', 'time', 'bottom', 'blossom', 'oven', 'celery', 'story', 'company', 'access'] |  
+| bip_39_word_space_1 | match |  
+| bip_39_word_space_10 | match remain flip like time bottom blossom oven celery story |  
+| bip_39_word_space_11 | match remain flip like time bottom blossom oven celery story company |  
+| bip_39_word_space_12 | match remain flip like time bottom blossom oven celery story company access |  
+| bip_39_word_space_2 | match remain |  
+| bip_39_word_space_3 | match remain flip |  
+| bip_39_word_space_4 | match remain flip like |  
+| bip_39_word_space_5 | match remain flip like time |  
+| bip_39_word_space_6 | match remain flip like time bottom |  
+| bip_39_word_space_7 | match remain flip like time bottom blossom |  
+| bip_39_word_space_8 | match remain flip like time bottom blossom oven |  
+| bip_39_word_space_9 | match remain flip like time bottom blossom oven celery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: comic
+bip_39_word_new_br10: comic<br>arrange<br>room<br>flee<br>ancient<br>member<br>virus<br>peanut<br>faculty<br>trumpet
+bip_39_word_new_br11: comic<br>arrange<br>room<br>flee<br>ancient<br>member<br>virus<br>peanut<br>faculty<br>trumpet<br>index
+bip_39_word_new_br12: comic<br>arrange<br>room<br>flee<br>ancient<br>member<br>virus<br>peanut<br>faculty<br>trumpet<br>index<br>autumn
+bip_39_word_new_br2: comic<br>arrange
+bip_39_word_new_br3: comic<br>arrange<br>room
+bip_39_word_new_br4: comic<br>arrange<br>room<br>flee
+bip_39_word_new_br5: comic<br>arrange<br>room<br>flee<br>ancient
+bip_39_word_new_br6: comic<br>arrange<br>room<br>flee<br>ancient<br>member
+bip_39_word_new_br7: comic<br>arrange<br>room<br>flee<br>ancient<br>member<br>virus
+bip_39_word_new_br8: comic<br>arrange<br>room<br>flee<br>ancient<br>member<br>virus<br>peanut
+bip_39_word_new_br9: comic<br>arrange<br>room<br>flee<br>ancient<br>member<br>virus<br>peanut<br>faculty
+bip_39_word_new_line1: comic
+bip_39_word_new_line10: 'comic
+
+  arrange
+
+  room
+
+  flee
+
+  ancient
+
+  member
+
+  virus
+
+  peanut
+
+  faculty
+
+  trumpet'
+bip_39_word_new_line11: 'comic
+
+  arrange
+
+  room
+
+  flee
+
+  ancient
+
+  member
+
+  virus
+
+  peanut
+
+  faculty
+
+  trumpet
+
+  index'
+bip_39_word_new_line12: 'comic
+
+  arrange
+
+  room
+
+  flee
+
+  ancient
+
+  member
+
+  virus
+
+  peanut
+
+  faculty
+
+  trumpet
+
+  index
+
+  autumn'
+bip_39_word_new_line2: 'comic
+
+  arrange'
+bip_39_word_new_line3: 'comic
+
+  arrange
+
+  room'
+bip_39_word_new_line4: 'comic
+
+  arrange
+
+  room
+
+  flee'
+bip_39_word_new_line5: 'comic
+
+  arrange
+
+  room
+
+  flee
+
+  ancient'
+bip_39_word_new_line6: 'comic
+
+  arrange
+
+  room
+
+  flee
+
+  ancient
+
+  member'
+bip_39_word_new_line7: 'comic
+
+  arrange
+
+  room
+
+  flee
+
+  ancient
+
+  member
+
+  virus'
+bip_39_word_new_line8: 'comic
+
+  arrange
+
+  room
+
+  flee
+
+  ancient
+
+  member
+
+  virus
+
+  peanut'
+bip_39_word_new_line9: 'comic
+
+  arrange
+
+  room
+
+  flee
+
+  ancient
+
+  member
+
+  virus
+
+  peanut
+
+  faculty'
+bip_39_word_space_0:
+- comic
+- arrange
+- room
+- flee
+- ancient
+- member
+- virus
+- peanut
+- faculty
+- trumpet
+- index
+- autumn
+bip_39_word_space_1: comic
+bip_39_word_space_10: comic arrange room flee ancient member virus peanut faculty
+  trumpet
+bip_39_word_space_11: comic arrange room flee ancient member virus peanut faculty
+  trumpet index
+bip_39_word_space_12: comic arrange room flee ancient member virus peanut faculty
+  trumpet index autumn
+bip_39_word_space_2: comic arrange
+bip_39_word_space_3: comic arrange room
+bip_39_word_space_4: comic arrange room flee
+bip_39_word_space_5: comic arrange room flee ancient
+bip_39_word_space_6: comic arrange room flee ancient member
+bip_39_word_space_7: comic arrange room flee ancient member virus
+bip_39_word_space_8: comic arrange room flee ancient member virus peanut
+bip_39_word_space_9: comic arrange room flee ancient member virus peanut faculty
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

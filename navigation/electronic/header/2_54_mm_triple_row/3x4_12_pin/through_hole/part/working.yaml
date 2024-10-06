@@ -1,3 +1,186 @@
+bip_39_word_new_br1: twenty
+bip_39_word_new_br10: twenty<br>blossom<br>grape<br>roof<br>cook<br>panda<br>setup<br>spin<br>sick<br>emerge
+bip_39_word_new_br11: twenty<br>blossom<br>grape<br>roof<br>cook<br>panda<br>setup<br>spin<br>sick<br>emerge<br>world
+bip_39_word_new_br12: twenty<br>blossom<br>grape<br>roof<br>cook<br>panda<br>setup<br>spin<br>sick<br>emerge<br>world<br>any
+bip_39_word_new_br2: twenty<br>blossom
+bip_39_word_new_br3: twenty<br>blossom<br>grape
+bip_39_word_new_br4: twenty<br>blossom<br>grape<br>roof
+bip_39_word_new_br5: twenty<br>blossom<br>grape<br>roof<br>cook
+bip_39_word_new_br6: twenty<br>blossom<br>grape<br>roof<br>cook<br>panda
+bip_39_word_new_br7: twenty<br>blossom<br>grape<br>roof<br>cook<br>panda<br>setup
+bip_39_word_new_br8: twenty<br>blossom<br>grape<br>roof<br>cook<br>panda<br>setup<br>spin
+bip_39_word_new_br9: twenty<br>blossom<br>grape<br>roof<br>cook<br>panda<br>setup<br>spin<br>sick
+bip_39_word_new_line1: twenty
+bip_39_word_new_line10: 'twenty
+
+  blossom
+
+  grape
+
+  roof
+
+  cook
+
+  panda
+
+  setup
+
+  spin
+
+  sick
+
+  emerge'
+bip_39_word_new_line11: 'twenty
+
+  blossom
+
+  grape
+
+  roof
+
+  cook
+
+  panda
+
+  setup
+
+  spin
+
+  sick
+
+  emerge
+
+  world'
+bip_39_word_new_line12: 'twenty
+
+  blossom
+
+  grape
+
+  roof
+
+  cook
+
+  panda
+
+  setup
+
+  spin
+
+  sick
+
+  emerge
+
+  world
+
+  any'
+bip_39_word_new_line2: 'twenty
+
+  blossom'
+bip_39_word_new_line3: 'twenty
+
+  blossom
+
+  grape'
+bip_39_word_new_line4: 'twenty
+
+  blossom
+
+  grape
+
+  roof'
+bip_39_word_new_line5: 'twenty
+
+  blossom
+
+  grape
+
+  roof
+
+  cook'
+bip_39_word_new_line6: 'twenty
+
+  blossom
+
+  grape
+
+  roof
+
+  cook
+
+  panda'
+bip_39_word_new_line7: 'twenty
+
+  blossom
+
+  grape
+
+  roof
+
+  cook
+
+  panda
+
+  setup'
+bip_39_word_new_line8: 'twenty
+
+  blossom
+
+  grape
+
+  roof
+
+  cook
+
+  panda
+
+  setup
+
+  spin'
+bip_39_word_new_line9: 'twenty
+
+  blossom
+
+  grape
+
+  roof
+
+  cook
+
+  panda
+
+  setup
+
+  spin
+
+  sick'
+bip_39_word_space_0:
+- twenty
+- blossom
+- grape
+- roof
+- cook
+- panda
+- setup
+- spin
+- sick
+- emerge
+- world
+- any
+bip_39_word_space_1: twenty
+bip_39_word_space_10: twenty blossom grape roof cook panda setup spin sick emerge
+bip_39_word_space_11: twenty blossom grape roof cook panda setup spin sick emerge
+  world
+bip_39_word_space_12: twenty blossom grape roof cook panda setup spin sick emerge
+  world any
+bip_39_word_space_2: twenty blossom
+bip_39_word_space_3: twenty blossom grape
+bip_39_word_space_4: twenty blossom grape roof
+bip_39_word_space_5: twenty blossom grape roof cook
+bip_39_word_space_6: twenty blossom grape roof cook panda
+bip_39_word_space_7: twenty blossom grape roof cook panda setup
+bip_39_word_space_8: twenty blossom grape roof cook panda setup spin
+bip_39_word_space_9: twenty blossom grape roof cook panda setup spin sick
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

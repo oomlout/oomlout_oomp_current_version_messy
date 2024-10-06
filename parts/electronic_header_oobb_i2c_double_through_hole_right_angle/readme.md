@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shuffle wisdom
+  * bip 39 word 3: shuffle wisdom helmet
+  * bip 39 word: shuffle wisdom helmet elbow moral eager total install upset tone arm actress
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shuffle |  
+| bip_39_word_new_br10 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone |  
+| bip_39_word_new_br11 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone<br>arm |  
+| bip_39_word_new_br12 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset<br>tone<br>arm<br>actress |  
+| bip_39_word_new_br2 | shuffle<br>wisdom |  
+| bip_39_word_new_br3 | shuffle<br>wisdom<br>helmet |  
+| bip_39_word_new_br4 | shuffle<br>wisdom<br>helmet<br>elbow |  
+| bip_39_word_new_br5 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral |  
+| bip_39_word_new_br6 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager |  
+| bip_39_word_new_br7 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total |  
+| bip_39_word_new_br8 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install |  
+| bip_39_word_new_br9 | shuffle<br>wisdom<br>helmet<br>elbow<br>moral<br>eager<br>total<br>install<br>upset |  
+| bip_39_word_new_line1 | shuffle |  
+| bip_39_word_new_line10 | shuffle
+wisdom
+helmet
+elbow
+moral
+eager
+total
+install
+upset
+tone |  
+| bip_39_word_new_line11 | shuffle
+wisdom
+helmet
+elbow
+moral
+eager
+total
+install
+upset
+tone
+arm |  
+| bip_39_word_new_line12 | shuffle
+wisdom
+helmet
+elbow
+moral
+eager
+total
+install
+upset
+tone
+arm
+actress |  
+| bip_39_word_new_line2 | shuffle
+wisdom |  
+| bip_39_word_new_line3 | shuffle
+wisdom
+helmet |  
+| bip_39_word_new_line4 | shuffle
+wisdom
+helmet
+elbow |  
+| bip_39_word_new_line5 | shuffle
+wisdom
+helmet
+elbow
+moral |  
+| bip_39_word_new_line6 | shuffle
+wisdom
+helmet
+elbow
+moral
+eager |  
+| bip_39_word_new_line7 | shuffle
+wisdom
+helmet
+elbow
+moral
+eager
+total |  
+| bip_39_word_new_line8 | shuffle
+wisdom
+helmet
+elbow
+moral
+eager
+total
+install |  
+| bip_39_word_new_line9 | shuffle
+wisdom
+helmet
+elbow
+moral
+eager
+total
+install
+upset |  
+| bip_39_word_space_0 | ['shuffle', 'wisdom', 'helmet', 'elbow', 'moral', 'eager', 'total', 'install', 'upset', 'tone', 'arm', 'actress'] |  
+| bip_39_word_space_1 | shuffle |  
+| bip_39_word_space_10 | shuffle wisdom helmet elbow moral eager total install upset tone |  
+| bip_39_word_space_11 | shuffle wisdom helmet elbow moral eager total install upset tone arm |  
+| bip_39_word_space_12 | shuffle wisdom helmet elbow moral eager total install upset tone arm actress |  
+| bip_39_word_space_2 | shuffle wisdom |  
+| bip_39_word_space_3 | shuffle wisdom helmet |  
+| bip_39_word_space_4 | shuffle wisdom helmet elbow |  
+| bip_39_word_space_5 | shuffle wisdom helmet elbow moral |  
+| bip_39_word_space_6 | shuffle wisdom helmet elbow moral eager |  
+| bip_39_word_space_7 | shuffle wisdom helmet elbow moral eager total |  
+| bip_39_word_space_8 | shuffle wisdom helmet elbow moral eager total install |  
+| bip_39_word_space_9 | shuffle wisdom helmet elbow moral eager total install upset |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

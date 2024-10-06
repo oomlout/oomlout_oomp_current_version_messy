@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 12d0_teeth
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hen summer
+  * bip 39 word 3: hen summer obey
+  * bip 39 word: hen summer obey repair cruel surprise attend void convince connect tissue air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hen |  
+| bip_39_word_new_br10 | hen<br>summer<br>obey<br>repair<br>cruel<br>surprise<br>attend<br>void<br>convince<br>connect |  
+| bip_39_word_new_br11 | hen<br>summer<br>obey<br>repair<br>cruel<br>surprise<br>attend<br>void<br>convince<br>connect<br>tissue |  
+| bip_39_word_new_br12 | hen<br>summer<br>obey<br>repair<br>cruel<br>surprise<br>attend<br>void<br>convince<br>connect<br>tissue<br>air |  
+| bip_39_word_new_br2 | hen<br>summer |  
+| bip_39_word_new_br3 | hen<br>summer<br>obey |  
+| bip_39_word_new_br4 | hen<br>summer<br>obey<br>repair |  
+| bip_39_word_new_br5 | hen<br>summer<br>obey<br>repair<br>cruel |  
+| bip_39_word_new_br6 | hen<br>summer<br>obey<br>repair<br>cruel<br>surprise |  
+| bip_39_word_new_br7 | hen<br>summer<br>obey<br>repair<br>cruel<br>surprise<br>attend |  
+| bip_39_word_new_br8 | hen<br>summer<br>obey<br>repair<br>cruel<br>surprise<br>attend<br>void |  
+| bip_39_word_new_br9 | hen<br>summer<br>obey<br>repair<br>cruel<br>surprise<br>attend<br>void<br>convince |  
+| bip_39_word_new_line1 | hen |  
+| bip_39_word_new_line10 | hen
+summer
+obey
+repair
+cruel
+surprise
+attend
+void
+convince
+connect |  
+| bip_39_word_new_line11 | hen
+summer
+obey
+repair
+cruel
+surprise
+attend
+void
+convince
+connect
+tissue |  
+| bip_39_word_new_line12 | hen
+summer
+obey
+repair
+cruel
+surprise
+attend
+void
+convince
+connect
+tissue
+air |  
+| bip_39_word_new_line2 | hen
+summer |  
+| bip_39_word_new_line3 | hen
+summer
+obey |  
+| bip_39_word_new_line4 | hen
+summer
+obey
+repair |  
+| bip_39_word_new_line5 | hen
+summer
+obey
+repair
+cruel |  
+| bip_39_word_new_line6 | hen
+summer
+obey
+repair
+cruel
+surprise |  
+| bip_39_word_new_line7 | hen
+summer
+obey
+repair
+cruel
+surprise
+attend |  
+| bip_39_word_new_line8 | hen
+summer
+obey
+repair
+cruel
+surprise
+attend
+void |  
+| bip_39_word_new_line9 | hen
+summer
+obey
+repair
+cruel
+surprise
+attend
+void
+convince |  
+| bip_39_word_space_0 | ['hen', 'summer', 'obey', 'repair', 'cruel', 'surprise', 'attend', 'void', 'convince', 'connect', 'tissue', 'air'] |  
+| bip_39_word_space_1 | hen |  
+| bip_39_word_space_10 | hen summer obey repair cruel surprise attend void convince connect |  
+| bip_39_word_space_11 | hen summer obey repair cruel surprise attend void convince connect tissue |  
+| bip_39_word_space_12 | hen summer obey repair cruel surprise attend void convince connect tissue air |  
+| bip_39_word_space_2 | hen summer |  
+| bip_39_word_space_3 | hen summer obey |  
+| bip_39_word_space_4 | hen summer obey repair |  
+| bip_39_word_space_5 | hen summer obey repair cruel |  
+| bip_39_word_space_6 | hen summer obey repair cruel surprise |  
+| bip_39_word_space_7 | hen summer obey repair cruel surprise attend |  
+| bip_39_word_space_8 | hen summer obey repair cruel surprise attend void |  
+| bip_39_word_space_9 | hen summer obey repair cruel surprise attend void convince |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

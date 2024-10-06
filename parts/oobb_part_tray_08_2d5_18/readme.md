@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: echo dragon
+  * bip 39 word 3: echo dragon chaos
+  * bip 39 word: echo dragon chaos woman napkin inhale park hockey project correct issue acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | echo |  
+| bip_39_word_new_br10 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale<br>park<br>hockey<br>project<br>correct |  
+| bip_39_word_new_br11 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale<br>park<br>hockey<br>project<br>correct<br>issue |  
+| bip_39_word_new_br12 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale<br>park<br>hockey<br>project<br>correct<br>issue<br>acquire |  
+| bip_39_word_new_br2 | echo<br>dragon |  
+| bip_39_word_new_br3 | echo<br>dragon<br>chaos |  
+| bip_39_word_new_br4 | echo<br>dragon<br>chaos<br>woman |  
+| bip_39_word_new_br5 | echo<br>dragon<br>chaos<br>woman<br>napkin |  
+| bip_39_word_new_br6 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale |  
+| bip_39_word_new_br7 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale<br>park |  
+| bip_39_word_new_br8 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale<br>park<br>hockey |  
+| bip_39_word_new_br9 | echo<br>dragon<br>chaos<br>woman<br>napkin<br>inhale<br>park<br>hockey<br>project |  
+| bip_39_word_new_line1 | echo |  
+| bip_39_word_new_line10 | echo
+dragon
+chaos
+woman
+napkin
+inhale
+park
+hockey
+project
+correct |  
+| bip_39_word_new_line11 | echo
+dragon
+chaos
+woman
+napkin
+inhale
+park
+hockey
+project
+correct
+issue |  
+| bip_39_word_new_line12 | echo
+dragon
+chaos
+woman
+napkin
+inhale
+park
+hockey
+project
+correct
+issue
+acquire |  
+| bip_39_word_new_line2 | echo
+dragon |  
+| bip_39_word_new_line3 | echo
+dragon
+chaos |  
+| bip_39_word_new_line4 | echo
+dragon
+chaos
+woman |  
+| bip_39_word_new_line5 | echo
+dragon
+chaos
+woman
+napkin |  
+| bip_39_word_new_line6 | echo
+dragon
+chaos
+woman
+napkin
+inhale |  
+| bip_39_word_new_line7 | echo
+dragon
+chaos
+woman
+napkin
+inhale
+park |  
+| bip_39_word_new_line8 | echo
+dragon
+chaos
+woman
+napkin
+inhale
+park
+hockey |  
+| bip_39_word_new_line9 | echo
+dragon
+chaos
+woman
+napkin
+inhale
+park
+hockey
+project |  
+| bip_39_word_space_0 | ['echo', 'dragon', 'chaos', 'woman', 'napkin', 'inhale', 'park', 'hockey', 'project', 'correct', 'issue', 'acquire'] |  
+| bip_39_word_space_1 | echo |  
+| bip_39_word_space_10 | echo dragon chaos woman napkin inhale park hockey project correct |  
+| bip_39_word_space_11 | echo dragon chaos woman napkin inhale park hockey project correct issue |  
+| bip_39_word_space_12 | echo dragon chaos woman napkin inhale park hockey project correct issue acquire |  
+| bip_39_word_space_2 | echo dragon |  
+| bip_39_word_space_3 | echo dragon chaos |  
+| bip_39_word_space_4 | echo dragon chaos woman |  
+| bip_39_word_space_5 | echo dragon chaos woman napkin |  
+| bip_39_word_space_6 | echo dragon chaos woman napkin inhale |  
+| bip_39_word_space_7 | echo dragon chaos woman napkin inhale park |  
+| bip_39_word_space_8 | echo dragon chaos woman napkin inhale park hockey |  
+| bip_39_word_space_9 | echo dragon chaos woman napkin inhale park hockey project |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

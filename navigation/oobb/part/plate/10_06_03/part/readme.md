@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stomach monkey
+  * bip 39 word 3: stomach monkey enable
+  * bip 39 word: stomach monkey enable cattle come champion soon flip impose crisp depend alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stomach |  
+| bip_39_word_new_br10 | stomach<br>monkey<br>enable<br>cattle<br>come<br>champion<br>soon<br>flip<br>impose<br>crisp |  
+| bip_39_word_new_br11 | stomach<br>monkey<br>enable<br>cattle<br>come<br>champion<br>soon<br>flip<br>impose<br>crisp<br>depend |  
+| bip_39_word_new_br12 | stomach<br>monkey<br>enable<br>cattle<br>come<br>champion<br>soon<br>flip<br>impose<br>crisp<br>depend<br>alert |  
+| bip_39_word_new_br2 | stomach<br>monkey |  
+| bip_39_word_new_br3 | stomach<br>monkey<br>enable |  
+| bip_39_word_new_br4 | stomach<br>monkey<br>enable<br>cattle |  
+| bip_39_word_new_br5 | stomach<br>monkey<br>enable<br>cattle<br>come |  
+| bip_39_word_new_br6 | stomach<br>monkey<br>enable<br>cattle<br>come<br>champion |  
+| bip_39_word_new_br7 | stomach<br>monkey<br>enable<br>cattle<br>come<br>champion<br>soon |  
+| bip_39_word_new_br8 | stomach<br>monkey<br>enable<br>cattle<br>come<br>champion<br>soon<br>flip |  
+| bip_39_word_new_br9 | stomach<br>monkey<br>enable<br>cattle<br>come<br>champion<br>soon<br>flip<br>impose |  
+| bip_39_word_new_line1 | stomach |  
+| bip_39_word_new_line10 | stomach
+monkey
+enable
+cattle
+come
+champion
+soon
+flip
+impose
+crisp |  
+| bip_39_word_new_line11 | stomach
+monkey
+enable
+cattle
+come
+champion
+soon
+flip
+impose
+crisp
+depend |  
+| bip_39_word_new_line12 | stomach
+monkey
+enable
+cattle
+come
+champion
+soon
+flip
+impose
+crisp
+depend
+alert |  
+| bip_39_word_new_line2 | stomach
+monkey |  
+| bip_39_word_new_line3 | stomach
+monkey
+enable |  
+| bip_39_word_new_line4 | stomach
+monkey
+enable
+cattle |  
+| bip_39_word_new_line5 | stomach
+monkey
+enable
+cattle
+come |  
+| bip_39_word_new_line6 | stomach
+monkey
+enable
+cattle
+come
+champion |  
+| bip_39_word_new_line7 | stomach
+monkey
+enable
+cattle
+come
+champion
+soon |  
+| bip_39_word_new_line8 | stomach
+monkey
+enable
+cattle
+come
+champion
+soon
+flip |  
+| bip_39_word_new_line9 | stomach
+monkey
+enable
+cattle
+come
+champion
+soon
+flip
+impose |  
+| bip_39_word_space_0 | ['stomach', 'monkey', 'enable', 'cattle', 'come', 'champion', 'soon', 'flip', 'impose', 'crisp', 'depend', 'alert'] |  
+| bip_39_word_space_1 | stomach |  
+| bip_39_word_space_10 | stomach monkey enable cattle come champion soon flip impose crisp |  
+| bip_39_word_space_11 | stomach monkey enable cattle come champion soon flip impose crisp depend |  
+| bip_39_word_space_12 | stomach monkey enable cattle come champion soon flip impose crisp depend alert |  
+| bip_39_word_space_2 | stomach monkey |  
+| bip_39_word_space_3 | stomach monkey enable |  
+| bip_39_word_space_4 | stomach monkey enable cattle |  
+| bip_39_word_space_5 | stomach monkey enable cattle come |  
+| bip_39_word_space_6 | stomach monkey enable cattle come champion |  
+| bip_39_word_space_7 | stomach monkey enable cattle come champion soon |  
+| bip_39_word_space_8 | stomach monkey enable cattle come champion soon flip |  
+| bip_39_word_space_9 | stomach monkey enable cattle come champion soon flip impose |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

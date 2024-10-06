@@ -1,3 +1,186 @@
+bip_39_word_new_br1: patch
+bip_39_word_new_br10: patch<br>early<br>despair<br>kidney<br>there<br>word<br>engine<br>cotton<br>insect<br>grunt
+bip_39_word_new_br11: patch<br>early<br>despair<br>kidney<br>there<br>word<br>engine<br>cotton<br>insect<br>grunt<br>ridge
+bip_39_word_new_br12: patch<br>early<br>despair<br>kidney<br>there<br>word<br>engine<br>cotton<br>insect<br>grunt<br>ridge<br>abuse
+bip_39_word_new_br2: patch<br>early
+bip_39_word_new_br3: patch<br>early<br>despair
+bip_39_word_new_br4: patch<br>early<br>despair<br>kidney
+bip_39_word_new_br5: patch<br>early<br>despair<br>kidney<br>there
+bip_39_word_new_br6: patch<br>early<br>despair<br>kidney<br>there<br>word
+bip_39_word_new_br7: patch<br>early<br>despair<br>kidney<br>there<br>word<br>engine
+bip_39_word_new_br8: patch<br>early<br>despair<br>kidney<br>there<br>word<br>engine<br>cotton
+bip_39_word_new_br9: patch<br>early<br>despair<br>kidney<br>there<br>word<br>engine<br>cotton<br>insect
+bip_39_word_new_line1: patch
+bip_39_word_new_line10: 'patch
+
+  early
+
+  despair
+
+  kidney
+
+  there
+
+  word
+
+  engine
+
+  cotton
+
+  insect
+
+  grunt'
+bip_39_word_new_line11: 'patch
+
+  early
+
+  despair
+
+  kidney
+
+  there
+
+  word
+
+  engine
+
+  cotton
+
+  insect
+
+  grunt
+
+  ridge'
+bip_39_word_new_line12: 'patch
+
+  early
+
+  despair
+
+  kidney
+
+  there
+
+  word
+
+  engine
+
+  cotton
+
+  insect
+
+  grunt
+
+  ridge
+
+  abuse'
+bip_39_word_new_line2: 'patch
+
+  early'
+bip_39_word_new_line3: 'patch
+
+  early
+
+  despair'
+bip_39_word_new_line4: 'patch
+
+  early
+
+  despair
+
+  kidney'
+bip_39_word_new_line5: 'patch
+
+  early
+
+  despair
+
+  kidney
+
+  there'
+bip_39_word_new_line6: 'patch
+
+  early
+
+  despair
+
+  kidney
+
+  there
+
+  word'
+bip_39_word_new_line7: 'patch
+
+  early
+
+  despair
+
+  kidney
+
+  there
+
+  word
+
+  engine'
+bip_39_word_new_line8: 'patch
+
+  early
+
+  despair
+
+  kidney
+
+  there
+
+  word
+
+  engine
+
+  cotton'
+bip_39_word_new_line9: 'patch
+
+  early
+
+  despair
+
+  kidney
+
+  there
+
+  word
+
+  engine
+
+  cotton
+
+  insect'
+bip_39_word_space_0:
+- patch
+- early
+- despair
+- kidney
+- there
+- word
+- engine
+- cotton
+- insect
+- grunt
+- ridge
+- abuse
+bip_39_word_space_1: patch
+bip_39_word_space_10: patch early despair kidney there word engine cotton insect grunt
+bip_39_word_space_11: patch early despair kidney there word engine cotton insect grunt
+  ridge
+bip_39_word_space_12: patch early despair kidney there word engine cotton insect grunt
+  ridge abuse
+bip_39_word_space_2: patch early
+bip_39_word_space_3: patch early despair
+bip_39_word_space_4: patch early despair kidney
+bip_39_word_space_5: patch early despair kidney there
+bip_39_word_space_6: patch early despair kidney there word
+bip_39_word_space_7: patch early despair kidney there word engine
+bip_39_word_space_8: patch early despair kidney there word engine cotton
+bip_39_word_space_9: patch early despair kidney there word engine cotton insect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

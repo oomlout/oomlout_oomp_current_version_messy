@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: citizen top
+  * bip 39 word 3: citizen top aware
+  * bip 39 word: citizen top aware trumpet box pupil brother tent gather forest during across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | citizen |  
+| bip_39_word_new_br10 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest |  
+| bip_39_word_new_br11 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest<br>during |  
+| bip_39_word_new_br12 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather<br>forest<br>during<br>across |  
+| bip_39_word_new_br2 | citizen<br>top |  
+| bip_39_word_new_br3 | citizen<br>top<br>aware |  
+| bip_39_word_new_br4 | citizen<br>top<br>aware<br>trumpet |  
+| bip_39_word_new_br5 | citizen<br>top<br>aware<br>trumpet<br>box |  
+| bip_39_word_new_br6 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil |  
+| bip_39_word_new_br7 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother |  
+| bip_39_word_new_br8 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent |  
+| bip_39_word_new_br9 | citizen<br>top<br>aware<br>trumpet<br>box<br>pupil<br>brother<br>tent<br>gather |  
+| bip_39_word_new_line1 | citizen |  
+| bip_39_word_new_line10 | citizen
+top
+aware
+trumpet
+box
+pupil
+brother
+tent
+gather
+forest |  
+| bip_39_word_new_line11 | citizen
+top
+aware
+trumpet
+box
+pupil
+brother
+tent
+gather
+forest
+during |  
+| bip_39_word_new_line12 | citizen
+top
+aware
+trumpet
+box
+pupil
+brother
+tent
+gather
+forest
+during
+across |  
+| bip_39_word_new_line2 | citizen
+top |  
+| bip_39_word_new_line3 | citizen
+top
+aware |  
+| bip_39_word_new_line4 | citizen
+top
+aware
+trumpet |  
+| bip_39_word_new_line5 | citizen
+top
+aware
+trumpet
+box |  
+| bip_39_word_new_line6 | citizen
+top
+aware
+trumpet
+box
+pupil |  
+| bip_39_word_new_line7 | citizen
+top
+aware
+trumpet
+box
+pupil
+brother |  
+| bip_39_word_new_line8 | citizen
+top
+aware
+trumpet
+box
+pupil
+brother
+tent |  
+| bip_39_word_new_line9 | citizen
+top
+aware
+trumpet
+box
+pupil
+brother
+tent
+gather |  
+| bip_39_word_space_0 | ['citizen', 'top', 'aware', 'trumpet', 'box', 'pupil', 'brother', 'tent', 'gather', 'forest', 'during', 'across'] |  
+| bip_39_word_space_1 | citizen |  
+| bip_39_word_space_10 | citizen top aware trumpet box pupil brother tent gather forest |  
+| bip_39_word_space_11 | citizen top aware trumpet box pupil brother tent gather forest during |  
+| bip_39_word_space_12 | citizen top aware trumpet box pupil brother tent gather forest during across |  
+| bip_39_word_space_2 | citizen top |  
+| bip_39_word_space_3 | citizen top aware |  
+| bip_39_word_space_4 | citizen top aware trumpet |  
+| bip_39_word_space_5 | citizen top aware trumpet box |  
+| bip_39_word_space_6 | citizen top aware trumpet box pupil |  
+| bip_39_word_space_7 | citizen top aware trumpet box pupil brother |  
+| bip_39_word_space_8 | citizen top aware trumpet box pupil brother tent |  
+| bip_39_word_space_9 | citizen top aware trumpet box pupil brother tent gather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: expect
+bip_39_word_new_br10: expect<br>certain<br>cup<br>know<br>giraffe<br>wash<br>ostrich<br>oak<br>game<br>still
+bip_39_word_new_br11: expect<br>certain<br>cup<br>know<br>giraffe<br>wash<br>ostrich<br>oak<br>game<br>still<br>item
+bip_39_word_new_br12: expect<br>certain<br>cup<br>know<br>giraffe<br>wash<br>ostrich<br>oak<br>game<br>still<br>item<br>anger
+bip_39_word_new_br2: expect<br>certain
+bip_39_word_new_br3: expect<br>certain<br>cup
+bip_39_word_new_br4: expect<br>certain<br>cup<br>know
+bip_39_word_new_br5: expect<br>certain<br>cup<br>know<br>giraffe
+bip_39_word_new_br6: expect<br>certain<br>cup<br>know<br>giraffe<br>wash
+bip_39_word_new_br7: expect<br>certain<br>cup<br>know<br>giraffe<br>wash<br>ostrich
+bip_39_word_new_br8: expect<br>certain<br>cup<br>know<br>giraffe<br>wash<br>ostrich<br>oak
+bip_39_word_new_br9: expect<br>certain<br>cup<br>know<br>giraffe<br>wash<br>ostrich<br>oak<br>game
+bip_39_word_new_line1: expect
+bip_39_word_new_line10: 'expect
+
+  certain
+
+  cup
+
+  know
+
+  giraffe
+
+  wash
+
+  ostrich
+
+  oak
+
+  game
+
+  still'
+bip_39_word_new_line11: 'expect
+
+  certain
+
+  cup
+
+  know
+
+  giraffe
+
+  wash
+
+  ostrich
+
+  oak
+
+  game
+
+  still
+
+  item'
+bip_39_word_new_line12: 'expect
+
+  certain
+
+  cup
+
+  know
+
+  giraffe
+
+  wash
+
+  ostrich
+
+  oak
+
+  game
+
+  still
+
+  item
+
+  anger'
+bip_39_word_new_line2: 'expect
+
+  certain'
+bip_39_word_new_line3: 'expect
+
+  certain
+
+  cup'
+bip_39_word_new_line4: 'expect
+
+  certain
+
+  cup
+
+  know'
+bip_39_word_new_line5: 'expect
+
+  certain
+
+  cup
+
+  know
+
+  giraffe'
+bip_39_word_new_line6: 'expect
+
+  certain
+
+  cup
+
+  know
+
+  giraffe
+
+  wash'
+bip_39_word_new_line7: 'expect
+
+  certain
+
+  cup
+
+  know
+
+  giraffe
+
+  wash
+
+  ostrich'
+bip_39_word_new_line8: 'expect
+
+  certain
+
+  cup
+
+  know
+
+  giraffe
+
+  wash
+
+  ostrich
+
+  oak'
+bip_39_word_new_line9: 'expect
+
+  certain
+
+  cup
+
+  know
+
+  giraffe
+
+  wash
+
+  ostrich
+
+  oak
+
+  game'
+bip_39_word_space_0:
+- expect
+- certain
+- cup
+- know
+- giraffe
+- wash
+- ostrich
+- oak
+- game
+- still
+- item
+- anger
+bip_39_word_space_1: expect
+bip_39_word_space_10: expect certain cup know giraffe wash ostrich oak game still
+bip_39_word_space_11: expect certain cup know giraffe wash ostrich oak game still
+  item
+bip_39_word_space_12: expect certain cup know giraffe wash ostrich oak game still
+  item anger
+bip_39_word_space_2: expect certain
+bip_39_word_space_3: expect certain cup
+bip_39_word_space_4: expect certain cup know
+bip_39_word_space_5: expect certain cup know giraffe
+bip_39_word_space_6: expect certain cup know giraffe wash
+bip_39_word_space_7: expect certain cup know giraffe wash ostrich
+bip_39_word_space_8: expect certain cup know giraffe wash ostrich oak
+bip_39_word_space_9: expect certain cup know giraffe wash ostrich oak game
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

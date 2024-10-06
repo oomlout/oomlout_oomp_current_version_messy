@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chuckle spin
+  * bip 39 word 3: chuckle spin hidden
+  * bip 39 word: chuckle spin hidden reunion cable genuine suffer material tumble lawn poem author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chuckle |  
+| bip_39_word_new_br10 | chuckle<br>spin<br>hidden<br>reunion<br>cable<br>genuine<br>suffer<br>material<br>tumble<br>lawn |  
+| bip_39_word_new_br11 | chuckle<br>spin<br>hidden<br>reunion<br>cable<br>genuine<br>suffer<br>material<br>tumble<br>lawn<br>poem |  
+| bip_39_word_new_br12 | chuckle<br>spin<br>hidden<br>reunion<br>cable<br>genuine<br>suffer<br>material<br>tumble<br>lawn<br>poem<br>author |  
+| bip_39_word_new_br2 | chuckle<br>spin |  
+| bip_39_word_new_br3 | chuckle<br>spin<br>hidden |  
+| bip_39_word_new_br4 | chuckle<br>spin<br>hidden<br>reunion |  
+| bip_39_word_new_br5 | chuckle<br>spin<br>hidden<br>reunion<br>cable |  
+| bip_39_word_new_br6 | chuckle<br>spin<br>hidden<br>reunion<br>cable<br>genuine |  
+| bip_39_word_new_br7 | chuckle<br>spin<br>hidden<br>reunion<br>cable<br>genuine<br>suffer |  
+| bip_39_word_new_br8 | chuckle<br>spin<br>hidden<br>reunion<br>cable<br>genuine<br>suffer<br>material |  
+| bip_39_word_new_br9 | chuckle<br>spin<br>hidden<br>reunion<br>cable<br>genuine<br>suffer<br>material<br>tumble |  
+| bip_39_word_new_line1 | chuckle |  
+| bip_39_word_new_line10 | chuckle
+spin
+hidden
+reunion
+cable
+genuine
+suffer
+material
+tumble
+lawn |  
+| bip_39_word_new_line11 | chuckle
+spin
+hidden
+reunion
+cable
+genuine
+suffer
+material
+tumble
+lawn
+poem |  
+| bip_39_word_new_line12 | chuckle
+spin
+hidden
+reunion
+cable
+genuine
+suffer
+material
+tumble
+lawn
+poem
+author |  
+| bip_39_word_new_line2 | chuckle
+spin |  
+| bip_39_word_new_line3 | chuckle
+spin
+hidden |  
+| bip_39_word_new_line4 | chuckle
+spin
+hidden
+reunion |  
+| bip_39_word_new_line5 | chuckle
+spin
+hidden
+reunion
+cable |  
+| bip_39_word_new_line6 | chuckle
+spin
+hidden
+reunion
+cable
+genuine |  
+| bip_39_word_new_line7 | chuckle
+spin
+hidden
+reunion
+cable
+genuine
+suffer |  
+| bip_39_word_new_line8 | chuckle
+spin
+hidden
+reunion
+cable
+genuine
+suffer
+material |  
+| bip_39_word_new_line9 | chuckle
+spin
+hidden
+reunion
+cable
+genuine
+suffer
+material
+tumble |  
+| bip_39_word_space_0 | ['chuckle', 'spin', 'hidden', 'reunion', 'cable', 'genuine', 'suffer', 'material', 'tumble', 'lawn', 'poem', 'author'] |  
+| bip_39_word_space_1 | chuckle |  
+| bip_39_word_space_10 | chuckle spin hidden reunion cable genuine suffer material tumble lawn |  
+| bip_39_word_space_11 | chuckle spin hidden reunion cable genuine suffer material tumble lawn poem |  
+| bip_39_word_space_12 | chuckle spin hidden reunion cable genuine suffer material tumble lawn poem author |  
+| bip_39_word_space_2 | chuckle spin |  
+| bip_39_word_space_3 | chuckle spin hidden |  
+| bip_39_word_space_4 | chuckle spin hidden reunion |  
+| bip_39_word_space_5 | chuckle spin hidden reunion cable |  
+| bip_39_word_space_6 | chuckle spin hidden reunion cable genuine |  
+| bip_39_word_space_7 | chuckle spin hidden reunion cable genuine suffer |  
+| bip_39_word_space_8 | chuckle spin hidden reunion cable genuine suffer material |  
+| bip_39_word_space_9 | chuckle spin hidden reunion cable genuine suffer material tumble |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

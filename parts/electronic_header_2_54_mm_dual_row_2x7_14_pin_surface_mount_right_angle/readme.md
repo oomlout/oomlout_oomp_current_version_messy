@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: voice reveal
+  * bip 39 word 3: voice reveal ribbon
+  * bip 39 word: voice reveal ribbon brief chat anger parade public switch peace powder actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | voice |  
+| bip_39_word_new_br10 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace |  
+| bip_39_word_new_br11 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace<br>powder |  
+| bip_39_word_new_br12 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch<br>peace<br>powder<br>actor |  
+| bip_39_word_new_br2 | voice<br>reveal |  
+| bip_39_word_new_br3 | voice<br>reveal<br>ribbon |  
+| bip_39_word_new_br4 | voice<br>reveal<br>ribbon<br>brief |  
+| bip_39_word_new_br5 | voice<br>reveal<br>ribbon<br>brief<br>chat |  
+| bip_39_word_new_br6 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger |  
+| bip_39_word_new_br7 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade |  
+| bip_39_word_new_br8 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public |  
+| bip_39_word_new_br9 | voice<br>reveal<br>ribbon<br>brief<br>chat<br>anger<br>parade<br>public<br>switch |  
+| bip_39_word_new_line1 | voice |  
+| bip_39_word_new_line10 | voice
+reveal
+ribbon
+brief
+chat
+anger
+parade
+public
+switch
+peace |  
+| bip_39_word_new_line11 | voice
+reveal
+ribbon
+brief
+chat
+anger
+parade
+public
+switch
+peace
+powder |  
+| bip_39_word_new_line12 | voice
+reveal
+ribbon
+brief
+chat
+anger
+parade
+public
+switch
+peace
+powder
+actor |  
+| bip_39_word_new_line2 | voice
+reveal |  
+| bip_39_word_new_line3 | voice
+reveal
+ribbon |  
+| bip_39_word_new_line4 | voice
+reveal
+ribbon
+brief |  
+| bip_39_word_new_line5 | voice
+reveal
+ribbon
+brief
+chat |  
+| bip_39_word_new_line6 | voice
+reveal
+ribbon
+brief
+chat
+anger |  
+| bip_39_word_new_line7 | voice
+reveal
+ribbon
+brief
+chat
+anger
+parade |  
+| bip_39_word_new_line8 | voice
+reveal
+ribbon
+brief
+chat
+anger
+parade
+public |  
+| bip_39_word_new_line9 | voice
+reveal
+ribbon
+brief
+chat
+anger
+parade
+public
+switch |  
+| bip_39_word_space_0 | ['voice', 'reveal', 'ribbon', 'brief', 'chat', 'anger', 'parade', 'public', 'switch', 'peace', 'powder', 'actor'] |  
+| bip_39_word_space_1 | voice |  
+| bip_39_word_space_10 | voice reveal ribbon brief chat anger parade public switch peace |  
+| bip_39_word_space_11 | voice reveal ribbon brief chat anger parade public switch peace powder |  
+| bip_39_word_space_12 | voice reveal ribbon brief chat anger parade public switch peace powder actor |  
+| bip_39_word_space_2 | voice reveal |  
+| bip_39_word_space_3 | voice reveal ribbon |  
+| bip_39_word_space_4 | voice reveal ribbon brief |  
+| bip_39_word_space_5 | voice reveal ribbon brief chat |  
+| bip_39_word_space_6 | voice reveal ribbon brief chat anger |  
+| bip_39_word_space_7 | voice reveal ribbon brief chat anger parade |  
+| bip_39_word_space_8 | voice reveal ribbon brief chat anger parade public |  
+| bip_39_word_space_9 | voice reveal ribbon brief chat anger parade public switch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

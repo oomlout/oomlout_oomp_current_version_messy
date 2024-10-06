@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unaware sick
+  * bip 39 word 3: unaware sick charge
+  * bip 39 word: unaware sick charge steel shaft hundred peace invest caught inhale glue annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unaware |  
+| bip_39_word_new_br10 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale |  
+| bip_39_word_new_br11 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale<br>glue |  
+| bip_39_word_new_br12 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught<br>inhale<br>glue<br>annual |  
+| bip_39_word_new_br2 | unaware<br>sick |  
+| bip_39_word_new_br3 | unaware<br>sick<br>charge |  
+| bip_39_word_new_br4 | unaware<br>sick<br>charge<br>steel |  
+| bip_39_word_new_br5 | unaware<br>sick<br>charge<br>steel<br>shaft |  
+| bip_39_word_new_br6 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred |  
+| bip_39_word_new_br7 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace |  
+| bip_39_word_new_br8 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest |  
+| bip_39_word_new_br9 | unaware<br>sick<br>charge<br>steel<br>shaft<br>hundred<br>peace<br>invest<br>caught |  
+| bip_39_word_new_line1 | unaware |  
+| bip_39_word_new_line10 | unaware
+sick
+charge
+steel
+shaft
+hundred
+peace
+invest
+caught
+inhale |  
+| bip_39_word_new_line11 | unaware
+sick
+charge
+steel
+shaft
+hundred
+peace
+invest
+caught
+inhale
+glue |  
+| bip_39_word_new_line12 | unaware
+sick
+charge
+steel
+shaft
+hundred
+peace
+invest
+caught
+inhale
+glue
+annual |  
+| bip_39_word_new_line2 | unaware
+sick |  
+| bip_39_word_new_line3 | unaware
+sick
+charge |  
+| bip_39_word_new_line4 | unaware
+sick
+charge
+steel |  
+| bip_39_word_new_line5 | unaware
+sick
+charge
+steel
+shaft |  
+| bip_39_word_new_line6 | unaware
+sick
+charge
+steel
+shaft
+hundred |  
+| bip_39_word_new_line7 | unaware
+sick
+charge
+steel
+shaft
+hundred
+peace |  
+| bip_39_word_new_line8 | unaware
+sick
+charge
+steel
+shaft
+hundred
+peace
+invest |  
+| bip_39_word_new_line9 | unaware
+sick
+charge
+steel
+shaft
+hundred
+peace
+invest
+caught |  
+| bip_39_word_space_0 | ['unaware', 'sick', 'charge', 'steel', 'shaft', 'hundred', 'peace', 'invest', 'caught', 'inhale', 'glue', 'annual'] |  
+| bip_39_word_space_1 | unaware |  
+| bip_39_word_space_10 | unaware sick charge steel shaft hundred peace invest caught inhale |  
+| bip_39_word_space_11 | unaware sick charge steel shaft hundred peace invest caught inhale glue |  
+| bip_39_word_space_12 | unaware sick charge steel shaft hundred peace invest caught inhale glue annual |  
+| bip_39_word_space_2 | unaware sick |  
+| bip_39_word_space_3 | unaware sick charge |  
+| bip_39_word_space_4 | unaware sick charge steel |  
+| bip_39_word_space_5 | unaware sick charge steel shaft |  
+| bip_39_word_space_6 | unaware sick charge steel shaft hundred |  
+| bip_39_word_space_7 | unaware sick charge steel shaft hundred peace |  
+| bip_39_word_space_8 | unaware sick charge steel shaft hundred peace invest |  
+| bip_39_word_space_9 | unaware sick charge steel shaft hundred peace invest caught |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: foot imitate
+  * bip 39 word 3: foot imitate model
+  * bip 39 word: foot imitate model material index stand pitch piece speak task orchard abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | foot |  
+| bip_39_word_new_br10 | foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak<br>task |  
+| bip_39_word_new_br11 | foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak<br>task<br>orchard |  
+| bip_39_word_new_br12 | foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak<br>task<br>orchard<br>abuse |  
+| bip_39_word_new_br2 | foot<br>imitate |  
+| bip_39_word_new_br3 | foot<br>imitate<br>model |  
+| bip_39_word_new_br4 | foot<br>imitate<br>model<br>material |  
+| bip_39_word_new_br5 | foot<br>imitate<br>model<br>material<br>index |  
+| bip_39_word_new_br6 | foot<br>imitate<br>model<br>material<br>index<br>stand |  
+| bip_39_word_new_br7 | foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch |  
+| bip_39_word_new_br8 | foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece |  
+| bip_39_word_new_br9 | foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak |  
+| bip_39_word_new_line1 | foot |  
+| bip_39_word_new_line10 | foot
+imitate
+model
+material
+index
+stand
+pitch
+piece
+speak
+task |  
+| bip_39_word_new_line11 | foot
+imitate
+model
+material
+index
+stand
+pitch
+piece
+speak
+task
+orchard |  
+| bip_39_word_new_line12 | foot
+imitate
+model
+material
+index
+stand
+pitch
+piece
+speak
+task
+orchard
+abuse |  
+| bip_39_word_new_line2 | foot
+imitate |  
+| bip_39_word_new_line3 | foot
+imitate
+model |  
+| bip_39_word_new_line4 | foot
+imitate
+model
+material |  
+| bip_39_word_new_line5 | foot
+imitate
+model
+material
+index |  
+| bip_39_word_new_line6 | foot
+imitate
+model
+material
+index
+stand |  
+| bip_39_word_new_line7 | foot
+imitate
+model
+material
+index
+stand
+pitch |  
+| bip_39_word_new_line8 | foot
+imitate
+model
+material
+index
+stand
+pitch
+piece |  
+| bip_39_word_new_line9 | foot
+imitate
+model
+material
+index
+stand
+pitch
+piece
+speak |  
+| bip_39_word_space_0 | ['foot', 'imitate', 'model', 'material', 'index', 'stand', 'pitch', 'piece', 'speak', 'task', 'orchard', 'abuse'] |  
+| bip_39_word_space_1 | foot |  
+| bip_39_word_space_10 | foot imitate model material index stand pitch piece speak task |  
+| bip_39_word_space_11 | foot imitate model material index stand pitch piece speak task orchard |  
+| bip_39_word_space_12 | foot imitate model material index stand pitch piece speak task orchard abuse |  
+| bip_39_word_space_2 | foot imitate |  
+| bip_39_word_space_3 | foot imitate model |  
+| bip_39_word_space_4 | foot imitate model material |  
+| bip_39_word_space_5 | foot imitate model material index |  
+| bip_39_word_space_6 | foot imitate model material index stand |  
+| bip_39_word_space_7 | foot imitate model material index stand pitch |  
+| bip_39_word_space_8 | foot imitate model material index stand pitch piece |  
+| bip_39_word_space_9 | foot imitate model material index stand pitch piece speak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: trick enter
+  * bip 39 word 3: trick enter gossip
+  * bip 39 word: trick enter gossip captain moral speak wrestle sustain luxury option chair attend
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | trick |  
+| bip_39_word_new_br10 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option |  
+| bip_39_word_new_br11 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option<br>chair |  
+| bip_39_word_new_br12 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury<br>option<br>chair<br>attend |  
+| bip_39_word_new_br2 | trick<br>enter |  
+| bip_39_word_new_br3 | trick<br>enter<br>gossip |  
+| bip_39_word_new_br4 | trick<br>enter<br>gossip<br>captain |  
+| bip_39_word_new_br5 | trick<br>enter<br>gossip<br>captain<br>moral |  
+| bip_39_word_new_br6 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak |  
+| bip_39_word_new_br7 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle |  
+| bip_39_word_new_br8 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain |  
+| bip_39_word_new_br9 | trick<br>enter<br>gossip<br>captain<br>moral<br>speak<br>wrestle<br>sustain<br>luxury |  
+| bip_39_word_new_line1 | trick |  
+| bip_39_word_new_line10 | trick
+enter
+gossip
+captain
+moral
+speak
+wrestle
+sustain
+luxury
+option |  
+| bip_39_word_new_line11 | trick
+enter
+gossip
+captain
+moral
+speak
+wrestle
+sustain
+luxury
+option
+chair |  
+| bip_39_word_new_line12 | trick
+enter
+gossip
+captain
+moral
+speak
+wrestle
+sustain
+luxury
+option
+chair
+attend |  
+| bip_39_word_new_line2 | trick
+enter |  
+| bip_39_word_new_line3 | trick
+enter
+gossip |  
+| bip_39_word_new_line4 | trick
+enter
+gossip
+captain |  
+| bip_39_word_new_line5 | trick
+enter
+gossip
+captain
+moral |  
+| bip_39_word_new_line6 | trick
+enter
+gossip
+captain
+moral
+speak |  
+| bip_39_word_new_line7 | trick
+enter
+gossip
+captain
+moral
+speak
+wrestle |  
+| bip_39_word_new_line8 | trick
+enter
+gossip
+captain
+moral
+speak
+wrestle
+sustain |  
+| bip_39_word_new_line9 | trick
+enter
+gossip
+captain
+moral
+speak
+wrestle
+sustain
+luxury |  
+| bip_39_word_space_0 | ['trick', 'enter', 'gossip', 'captain', 'moral', 'speak', 'wrestle', 'sustain', 'luxury', 'option', 'chair', 'attend'] |  
+| bip_39_word_space_1 | trick |  
+| bip_39_word_space_10 | trick enter gossip captain moral speak wrestle sustain luxury option |  
+| bip_39_word_space_11 | trick enter gossip captain moral speak wrestle sustain luxury option chair |  
+| bip_39_word_space_12 | trick enter gossip captain moral speak wrestle sustain luxury option chair attend |  
+| bip_39_word_space_2 | trick enter |  
+| bip_39_word_space_3 | trick enter gossip |  
+| bip_39_word_space_4 | trick enter gossip captain |  
+| bip_39_word_space_5 | trick enter gossip captain moral |  
+| bip_39_word_space_6 | trick enter gossip captain moral speak |  
+| bip_39_word_space_7 | trick enter gossip captain moral speak wrestle |  
+| bip_39_word_space_8 | trick enter gossip captain moral speak wrestle sustain |  
+| bip_39_word_space_9 | trick enter gossip captain moral speak wrestle sustain luxury |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

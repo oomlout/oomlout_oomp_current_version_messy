@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: valid letter
+  * bip 39 word 3: valid letter cattle
+  * bip 39 word: valid letter cattle need inspire snap cheap interest core bone poem amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | valid |  
+| bip_39_word_new_br10 | valid<br>letter<br>cattle<br>need<br>inspire<br>snap<br>cheap<br>interest<br>core<br>bone |  
+| bip_39_word_new_br11 | valid<br>letter<br>cattle<br>need<br>inspire<br>snap<br>cheap<br>interest<br>core<br>bone<br>poem |  
+| bip_39_word_new_br12 | valid<br>letter<br>cattle<br>need<br>inspire<br>snap<br>cheap<br>interest<br>core<br>bone<br>poem<br>amused |  
+| bip_39_word_new_br2 | valid<br>letter |  
+| bip_39_word_new_br3 | valid<br>letter<br>cattle |  
+| bip_39_word_new_br4 | valid<br>letter<br>cattle<br>need |  
+| bip_39_word_new_br5 | valid<br>letter<br>cattle<br>need<br>inspire |  
+| bip_39_word_new_br6 | valid<br>letter<br>cattle<br>need<br>inspire<br>snap |  
+| bip_39_word_new_br7 | valid<br>letter<br>cattle<br>need<br>inspire<br>snap<br>cheap |  
+| bip_39_word_new_br8 | valid<br>letter<br>cattle<br>need<br>inspire<br>snap<br>cheap<br>interest |  
+| bip_39_word_new_br9 | valid<br>letter<br>cattle<br>need<br>inspire<br>snap<br>cheap<br>interest<br>core |  
+| bip_39_word_new_line1 | valid |  
+| bip_39_word_new_line10 | valid
+letter
+cattle
+need
+inspire
+snap
+cheap
+interest
+core
+bone |  
+| bip_39_word_new_line11 | valid
+letter
+cattle
+need
+inspire
+snap
+cheap
+interest
+core
+bone
+poem |  
+| bip_39_word_new_line12 | valid
+letter
+cattle
+need
+inspire
+snap
+cheap
+interest
+core
+bone
+poem
+amused |  
+| bip_39_word_new_line2 | valid
+letter |  
+| bip_39_word_new_line3 | valid
+letter
+cattle |  
+| bip_39_word_new_line4 | valid
+letter
+cattle
+need |  
+| bip_39_word_new_line5 | valid
+letter
+cattle
+need
+inspire |  
+| bip_39_word_new_line6 | valid
+letter
+cattle
+need
+inspire
+snap |  
+| bip_39_word_new_line7 | valid
+letter
+cattle
+need
+inspire
+snap
+cheap |  
+| bip_39_word_new_line8 | valid
+letter
+cattle
+need
+inspire
+snap
+cheap
+interest |  
+| bip_39_word_new_line9 | valid
+letter
+cattle
+need
+inspire
+snap
+cheap
+interest
+core |  
+| bip_39_word_space_0 | ['valid', 'letter', 'cattle', 'need', 'inspire', 'snap', 'cheap', 'interest', 'core', 'bone', 'poem', 'amused'] |  
+| bip_39_word_space_1 | valid |  
+| bip_39_word_space_10 | valid letter cattle need inspire snap cheap interest core bone |  
+| bip_39_word_space_11 | valid letter cattle need inspire snap cheap interest core bone poem |  
+| bip_39_word_space_12 | valid letter cattle need inspire snap cheap interest core bone poem amused |  
+| bip_39_word_space_2 | valid letter |  
+| bip_39_word_space_3 | valid letter cattle |  
+| bip_39_word_space_4 | valid letter cattle need |  
+| bip_39_word_space_5 | valid letter cattle need inspire |  
+| bip_39_word_space_6 | valid letter cattle need inspire snap |  
+| bip_39_word_space_7 | valid letter cattle need inspire snap cheap |  
+| bip_39_word_space_8 | valid letter cattle need inspire snap cheap interest |  
+| bip_39_word_space_9 | valid letter cattle need inspire snap cheap interest core |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

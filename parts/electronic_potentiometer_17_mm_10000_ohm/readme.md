@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: naive inspire
+  * bip 39 word 3: naive inspire disagree
+  * bip 39 word: naive inspire disagree banner animal secret aerobic cream indoor ocean please across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | naive |  
+| bip_39_word_new_br10 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret<br>aerobic<br>cream<br>indoor<br>ocean |  
+| bip_39_word_new_br11 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret<br>aerobic<br>cream<br>indoor<br>ocean<br>please |  
+| bip_39_word_new_br12 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret<br>aerobic<br>cream<br>indoor<br>ocean<br>please<br>across |  
+| bip_39_word_new_br2 | naive<br>inspire |  
+| bip_39_word_new_br3 | naive<br>inspire<br>disagree |  
+| bip_39_word_new_br4 | naive<br>inspire<br>disagree<br>banner |  
+| bip_39_word_new_br5 | naive<br>inspire<br>disagree<br>banner<br>animal |  
+| bip_39_word_new_br6 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret |  
+| bip_39_word_new_br7 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret<br>aerobic |  
+| bip_39_word_new_br8 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret<br>aerobic<br>cream |  
+| bip_39_word_new_br9 | naive<br>inspire<br>disagree<br>banner<br>animal<br>secret<br>aerobic<br>cream<br>indoor |  
+| bip_39_word_new_line1 | naive |  
+| bip_39_word_new_line10 | naive
+inspire
+disagree
+banner
+animal
+secret
+aerobic
+cream
+indoor
+ocean |  
+| bip_39_word_new_line11 | naive
+inspire
+disagree
+banner
+animal
+secret
+aerobic
+cream
+indoor
+ocean
+please |  
+| bip_39_word_new_line12 | naive
+inspire
+disagree
+banner
+animal
+secret
+aerobic
+cream
+indoor
+ocean
+please
+across |  
+| bip_39_word_new_line2 | naive
+inspire |  
+| bip_39_word_new_line3 | naive
+inspire
+disagree |  
+| bip_39_word_new_line4 | naive
+inspire
+disagree
+banner |  
+| bip_39_word_new_line5 | naive
+inspire
+disagree
+banner
+animal |  
+| bip_39_word_new_line6 | naive
+inspire
+disagree
+banner
+animal
+secret |  
+| bip_39_word_new_line7 | naive
+inspire
+disagree
+banner
+animal
+secret
+aerobic |  
+| bip_39_word_new_line8 | naive
+inspire
+disagree
+banner
+animal
+secret
+aerobic
+cream |  
+| bip_39_word_new_line9 | naive
+inspire
+disagree
+banner
+animal
+secret
+aerobic
+cream
+indoor |  
+| bip_39_word_space_0 | ['naive', 'inspire', 'disagree', 'banner', 'animal', 'secret', 'aerobic', 'cream', 'indoor', 'ocean', 'please', 'across'] |  
+| bip_39_word_space_1 | naive |  
+| bip_39_word_space_10 | naive inspire disagree banner animal secret aerobic cream indoor ocean |  
+| bip_39_word_space_11 | naive inspire disagree banner animal secret aerobic cream indoor ocean please |  
+| bip_39_word_space_12 | naive inspire disagree banner animal secret aerobic cream indoor ocean please across |  
+| bip_39_word_space_2 | naive inspire |  
+| bip_39_word_space_3 | naive inspire disagree |  
+| bip_39_word_space_4 | naive inspire disagree banner |  
+| bip_39_word_space_5 | naive inspire disagree banner animal |  
+| bip_39_word_space_6 | naive inspire disagree banner animal secret |  
+| bip_39_word_space_7 | naive inspire disagree banner animal secret aerobic |  
+| bip_39_word_space_8 | naive inspire disagree banner animal secret aerobic cream |  
+| bip_39_word_space_9 | naive inspire disagree banner animal secret aerobic cream indoor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

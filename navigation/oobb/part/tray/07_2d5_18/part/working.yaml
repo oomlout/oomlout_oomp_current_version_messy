@@ -1,3 +1,187 @@
+bip_39_word_new_br1: strategy
+bip_39_word_new_br10: strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning
+bip_39_word_new_br11: strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning<br>loop
+bip_39_word_new_br12: strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish<br>morning<br>loop<br>absorb
+bip_39_word_new_br2: strategy<br>sauce
+bip_39_word_new_br3: strategy<br>sauce<br>burden
+bip_39_word_new_br4: strategy<br>sauce<br>burden<br>tackle
+bip_39_word_new_br5: strategy<br>sauce<br>burden<br>tackle<br>intact
+bip_39_word_new_br6: strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb
+bip_39_word_new_br7: strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant
+bip_39_word_new_br8: strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost
+bip_39_word_new_br9: strategy<br>sauce<br>burden<br>tackle<br>intact<br>dumb<br>elephant<br>frost<br>dish
+bip_39_word_new_line1: strategy
+bip_39_word_new_line10: 'strategy
+
+  sauce
+
+  burden
+
+  tackle
+
+  intact
+
+  dumb
+
+  elephant
+
+  frost
+
+  dish
+
+  morning'
+bip_39_word_new_line11: 'strategy
+
+  sauce
+
+  burden
+
+  tackle
+
+  intact
+
+  dumb
+
+  elephant
+
+  frost
+
+  dish
+
+  morning
+
+  loop'
+bip_39_word_new_line12: 'strategy
+
+  sauce
+
+  burden
+
+  tackle
+
+  intact
+
+  dumb
+
+  elephant
+
+  frost
+
+  dish
+
+  morning
+
+  loop
+
+  absorb'
+bip_39_word_new_line2: 'strategy
+
+  sauce'
+bip_39_word_new_line3: 'strategy
+
+  sauce
+
+  burden'
+bip_39_word_new_line4: 'strategy
+
+  sauce
+
+  burden
+
+  tackle'
+bip_39_word_new_line5: 'strategy
+
+  sauce
+
+  burden
+
+  tackle
+
+  intact'
+bip_39_word_new_line6: 'strategy
+
+  sauce
+
+  burden
+
+  tackle
+
+  intact
+
+  dumb'
+bip_39_word_new_line7: 'strategy
+
+  sauce
+
+  burden
+
+  tackle
+
+  intact
+
+  dumb
+
+  elephant'
+bip_39_word_new_line8: 'strategy
+
+  sauce
+
+  burden
+
+  tackle
+
+  intact
+
+  dumb
+
+  elephant
+
+  frost'
+bip_39_word_new_line9: 'strategy
+
+  sauce
+
+  burden
+
+  tackle
+
+  intact
+
+  dumb
+
+  elephant
+
+  frost
+
+  dish'
+bip_39_word_space_0:
+- strategy
+- sauce
+- burden
+- tackle
+- intact
+- dumb
+- elephant
+- frost
+- dish
+- morning
+- loop
+- absorb
+bip_39_word_space_1: strategy
+bip_39_word_space_10: strategy sauce burden tackle intact dumb elephant frost dish
+  morning
+bip_39_word_space_11: strategy sauce burden tackle intact dumb elephant frost dish
+  morning loop
+bip_39_word_space_12: strategy sauce burden tackle intact dumb elephant frost dish
+  morning loop absorb
+bip_39_word_space_2: strategy sauce
+bip_39_word_space_3: strategy sauce burden
+bip_39_word_space_4: strategy sauce burden tackle
+bip_39_word_space_5: strategy sauce burden tackle intact
+bip_39_word_space_6: strategy sauce burden tackle intact dumb
+bip_39_word_space_7: strategy sauce burden tackle intact dumb elephant
+bip_39_word_space_8: strategy sauce burden tackle intact dumb elephant frost
+bip_39_word_space_9: strategy sauce burden tackle intact dumb elephant frost dish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: wheat
+bip_39_word_new_br10: wheat<br>lecture<br>expand<br>usual<br>vessel<br>power<br>coil<br>win<br>pen<br>panic
+bip_39_word_new_br11: wheat<br>lecture<br>expand<br>usual<br>vessel<br>power<br>coil<br>win<br>pen<br>panic<br>blame
+bip_39_word_new_br12: wheat<br>lecture<br>expand<br>usual<br>vessel<br>power<br>coil<br>win<br>pen<br>panic<br>blame<br>alter
+bip_39_word_new_br2: wheat<br>lecture
+bip_39_word_new_br3: wheat<br>lecture<br>expand
+bip_39_word_new_br4: wheat<br>lecture<br>expand<br>usual
+bip_39_word_new_br5: wheat<br>lecture<br>expand<br>usual<br>vessel
+bip_39_word_new_br6: wheat<br>lecture<br>expand<br>usual<br>vessel<br>power
+bip_39_word_new_br7: wheat<br>lecture<br>expand<br>usual<br>vessel<br>power<br>coil
+bip_39_word_new_br8: wheat<br>lecture<br>expand<br>usual<br>vessel<br>power<br>coil<br>win
+bip_39_word_new_br9: wheat<br>lecture<br>expand<br>usual<br>vessel<br>power<br>coil<br>win<br>pen
+bip_39_word_new_line1: wheat
+bip_39_word_new_line10: 'wheat
+
+  lecture
+
+  expand
+
+  usual
+
+  vessel
+
+  power
+
+  coil
+
+  win
+
+  pen
+
+  panic'
+bip_39_word_new_line11: 'wheat
+
+  lecture
+
+  expand
+
+  usual
+
+  vessel
+
+  power
+
+  coil
+
+  win
+
+  pen
+
+  panic
+
+  blame'
+bip_39_word_new_line12: 'wheat
+
+  lecture
+
+  expand
+
+  usual
+
+  vessel
+
+  power
+
+  coil
+
+  win
+
+  pen
+
+  panic
+
+  blame
+
+  alter'
+bip_39_word_new_line2: 'wheat
+
+  lecture'
+bip_39_word_new_line3: 'wheat
+
+  lecture
+
+  expand'
+bip_39_word_new_line4: 'wheat
+
+  lecture
+
+  expand
+
+  usual'
+bip_39_word_new_line5: 'wheat
+
+  lecture
+
+  expand
+
+  usual
+
+  vessel'
+bip_39_word_new_line6: 'wheat
+
+  lecture
+
+  expand
+
+  usual
+
+  vessel
+
+  power'
+bip_39_word_new_line7: 'wheat
+
+  lecture
+
+  expand
+
+  usual
+
+  vessel
+
+  power
+
+  coil'
+bip_39_word_new_line8: 'wheat
+
+  lecture
+
+  expand
+
+  usual
+
+  vessel
+
+  power
+
+  coil
+
+  win'
+bip_39_word_new_line9: 'wheat
+
+  lecture
+
+  expand
+
+  usual
+
+  vessel
+
+  power
+
+  coil
+
+  win
+
+  pen'
+bip_39_word_space_0:
+- wheat
+- lecture
+- expand
+- usual
+- vessel
+- power
+- coil
+- win
+- pen
+- panic
+- blame
+- alter
+bip_39_word_space_1: wheat
+bip_39_word_space_10: wheat lecture expand usual vessel power coil win pen panic
+bip_39_word_space_11: wheat lecture expand usual vessel power coil win pen panic blame
+bip_39_word_space_12: wheat lecture expand usual vessel power coil win pen panic blame
+  alter
+bip_39_word_space_2: wheat lecture
+bip_39_word_space_3: wheat lecture expand
+bip_39_word_space_4: wheat lecture expand usual
+bip_39_word_space_5: wheat lecture expand usual vessel
+bip_39_word_space_6: wheat lecture expand usual vessel power
+bip_39_word_space_7: wheat lecture expand usual vessel power coil
+bip_39_word_space_8: wheat lecture expand usual vessel power coil win
+bip_39_word_space_9: wheat lecture expand usual vessel power coil win pen
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

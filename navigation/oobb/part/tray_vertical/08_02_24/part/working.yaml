@@ -1,3 +1,186 @@
+bip_39_word_new_br1: twelve
+bip_39_word_new_br10: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion
+bip_39_word_new_br11: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion<br>twelve
+bip_39_word_new_br12: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already<br>opinion<br>twelve<br>ankle
+bip_39_word_new_br2: twelve<br>model
+bip_39_word_new_br3: twelve<br>model<br>just
+bip_39_word_new_br4: twelve<br>model<br>just<br>fruit
+bip_39_word_new_br5: twelve<br>model<br>just<br>fruit<br>grace
+bip_39_word_new_br6: twelve<br>model<br>just<br>fruit<br>grace<br>raise
+bip_39_word_new_br7: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse
+bip_39_word_new_br8: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge
+bip_39_word_new_br9: twelve<br>model<br>just<br>fruit<br>grace<br>raise<br>blouse<br>pledge<br>already
+bip_39_word_new_line1: twelve
+bip_39_word_new_line10: 'twelve
+
+  model
+
+  just
+
+  fruit
+
+  grace
+
+  raise
+
+  blouse
+
+  pledge
+
+  already
+
+  opinion'
+bip_39_word_new_line11: 'twelve
+
+  model
+
+  just
+
+  fruit
+
+  grace
+
+  raise
+
+  blouse
+
+  pledge
+
+  already
+
+  opinion
+
+  twelve'
+bip_39_word_new_line12: 'twelve
+
+  model
+
+  just
+
+  fruit
+
+  grace
+
+  raise
+
+  blouse
+
+  pledge
+
+  already
+
+  opinion
+
+  twelve
+
+  ankle'
+bip_39_word_new_line2: 'twelve
+
+  model'
+bip_39_word_new_line3: 'twelve
+
+  model
+
+  just'
+bip_39_word_new_line4: 'twelve
+
+  model
+
+  just
+
+  fruit'
+bip_39_word_new_line5: 'twelve
+
+  model
+
+  just
+
+  fruit
+
+  grace'
+bip_39_word_new_line6: 'twelve
+
+  model
+
+  just
+
+  fruit
+
+  grace
+
+  raise'
+bip_39_word_new_line7: 'twelve
+
+  model
+
+  just
+
+  fruit
+
+  grace
+
+  raise
+
+  blouse'
+bip_39_word_new_line8: 'twelve
+
+  model
+
+  just
+
+  fruit
+
+  grace
+
+  raise
+
+  blouse
+
+  pledge'
+bip_39_word_new_line9: 'twelve
+
+  model
+
+  just
+
+  fruit
+
+  grace
+
+  raise
+
+  blouse
+
+  pledge
+
+  already'
+bip_39_word_space_0:
+- twelve
+- model
+- just
+- fruit
+- grace
+- raise
+- blouse
+- pledge
+- already
+- opinion
+- twelve
+- ankle
+bip_39_word_space_1: twelve
+bip_39_word_space_10: twelve model just fruit grace raise blouse pledge already opinion
+bip_39_word_space_11: twelve model just fruit grace raise blouse pledge already opinion
+  twelve
+bip_39_word_space_12: twelve model just fruit grace raise blouse pledge already opinion
+  twelve ankle
+bip_39_word_space_2: twelve model
+bip_39_word_space_3: twelve model just
+bip_39_word_space_4: twelve model just fruit
+bip_39_word_space_5: twelve model just fruit grace
+bip_39_word_space_6: twelve model just fruit grace raise
+bip_39_word_space_7: twelve model just fruit grace raise blouse
+bip_39_word_space_8: twelve model just fruit grace raise blouse pledge
+bip_39_word_space_9: twelve model just fruit grace raise blouse pledge already
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

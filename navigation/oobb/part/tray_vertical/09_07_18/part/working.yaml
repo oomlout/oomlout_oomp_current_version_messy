@@ -1,3 +1,186 @@
+bip_39_word_new_br1: correct
+bip_39_word_new_br10: correct<br>black<br>demand<br>mistake<br>sugar<br>old<br>hotel<br>talk<br>speed<br>scorpion
+bip_39_word_new_br11: correct<br>black<br>demand<br>mistake<br>sugar<br>old<br>hotel<br>talk<br>speed<br>scorpion<br>fade
+bip_39_word_new_br12: correct<br>black<br>demand<br>mistake<br>sugar<br>old<br>hotel<br>talk<br>speed<br>scorpion<br>fade<br>acoustic
+bip_39_word_new_br2: correct<br>black
+bip_39_word_new_br3: correct<br>black<br>demand
+bip_39_word_new_br4: correct<br>black<br>demand<br>mistake
+bip_39_word_new_br5: correct<br>black<br>demand<br>mistake<br>sugar
+bip_39_word_new_br6: correct<br>black<br>demand<br>mistake<br>sugar<br>old
+bip_39_word_new_br7: correct<br>black<br>demand<br>mistake<br>sugar<br>old<br>hotel
+bip_39_word_new_br8: correct<br>black<br>demand<br>mistake<br>sugar<br>old<br>hotel<br>talk
+bip_39_word_new_br9: correct<br>black<br>demand<br>mistake<br>sugar<br>old<br>hotel<br>talk<br>speed
+bip_39_word_new_line1: correct
+bip_39_word_new_line10: 'correct
+
+  black
+
+  demand
+
+  mistake
+
+  sugar
+
+  old
+
+  hotel
+
+  talk
+
+  speed
+
+  scorpion'
+bip_39_word_new_line11: 'correct
+
+  black
+
+  demand
+
+  mistake
+
+  sugar
+
+  old
+
+  hotel
+
+  talk
+
+  speed
+
+  scorpion
+
+  fade'
+bip_39_word_new_line12: 'correct
+
+  black
+
+  demand
+
+  mistake
+
+  sugar
+
+  old
+
+  hotel
+
+  talk
+
+  speed
+
+  scorpion
+
+  fade
+
+  acoustic'
+bip_39_word_new_line2: 'correct
+
+  black'
+bip_39_word_new_line3: 'correct
+
+  black
+
+  demand'
+bip_39_word_new_line4: 'correct
+
+  black
+
+  demand
+
+  mistake'
+bip_39_word_new_line5: 'correct
+
+  black
+
+  demand
+
+  mistake
+
+  sugar'
+bip_39_word_new_line6: 'correct
+
+  black
+
+  demand
+
+  mistake
+
+  sugar
+
+  old'
+bip_39_word_new_line7: 'correct
+
+  black
+
+  demand
+
+  mistake
+
+  sugar
+
+  old
+
+  hotel'
+bip_39_word_new_line8: 'correct
+
+  black
+
+  demand
+
+  mistake
+
+  sugar
+
+  old
+
+  hotel
+
+  talk'
+bip_39_word_new_line9: 'correct
+
+  black
+
+  demand
+
+  mistake
+
+  sugar
+
+  old
+
+  hotel
+
+  talk
+
+  speed'
+bip_39_word_space_0:
+- correct
+- black
+- demand
+- mistake
+- sugar
+- old
+- hotel
+- talk
+- speed
+- scorpion
+- fade
+- acoustic
+bip_39_word_space_1: correct
+bip_39_word_space_10: correct black demand mistake sugar old hotel talk speed scorpion
+bip_39_word_space_11: correct black demand mistake sugar old hotel talk speed scorpion
+  fade
+bip_39_word_space_12: correct black demand mistake sugar old hotel talk speed scorpion
+  fade acoustic
+bip_39_word_space_2: correct black
+bip_39_word_space_3: correct black demand
+bip_39_word_space_4: correct black demand mistake
+bip_39_word_space_5: correct black demand mistake sugar
+bip_39_word_space_6: correct black demand mistake sugar old
+bip_39_word_space_7: correct black demand mistake sugar old hotel
+bip_39_word_space_8: correct black demand mistake sugar old hotel talk
+bip_39_word_space_9: correct black demand mistake sugar old hotel talk speed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

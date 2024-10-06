@@ -1,3 +1,186 @@
+bip_39_word_new_br1: unfair
+bip_39_word_new_br10: unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient
+bip_39_word_new_br11: unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient<br>left
+bip_39_word_new_br12: unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics<br>ancient<br>left<br>all
+bip_39_word_new_br2: unfair<br>cluster
+bip_39_word_new_br3: unfair<br>cluster<br>normal
+bip_39_word_new_br4: unfair<br>cluster<br>normal<br>agent
+bip_39_word_new_br5: unfair<br>cluster<br>normal<br>agent<br>junk
+bip_39_word_new_br6: unfair<br>cluster<br>normal<br>agent<br>junk<br>patch
+bip_39_word_new_br7: unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige
+bip_39_word_new_br8: unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus
+bip_39_word_new_br9: unfair<br>cluster<br>normal<br>agent<br>junk<br>patch<br>oblige<br>focus<br>lyrics
+bip_39_word_new_line1: unfair
+bip_39_word_new_line10: 'unfair
+
+  cluster
+
+  normal
+
+  agent
+
+  junk
+
+  patch
+
+  oblige
+
+  focus
+
+  lyrics
+
+  ancient'
+bip_39_word_new_line11: 'unfair
+
+  cluster
+
+  normal
+
+  agent
+
+  junk
+
+  patch
+
+  oblige
+
+  focus
+
+  lyrics
+
+  ancient
+
+  left'
+bip_39_word_new_line12: 'unfair
+
+  cluster
+
+  normal
+
+  agent
+
+  junk
+
+  patch
+
+  oblige
+
+  focus
+
+  lyrics
+
+  ancient
+
+  left
+
+  all'
+bip_39_word_new_line2: 'unfair
+
+  cluster'
+bip_39_word_new_line3: 'unfair
+
+  cluster
+
+  normal'
+bip_39_word_new_line4: 'unfair
+
+  cluster
+
+  normal
+
+  agent'
+bip_39_word_new_line5: 'unfair
+
+  cluster
+
+  normal
+
+  agent
+
+  junk'
+bip_39_word_new_line6: 'unfair
+
+  cluster
+
+  normal
+
+  agent
+
+  junk
+
+  patch'
+bip_39_word_new_line7: 'unfair
+
+  cluster
+
+  normal
+
+  agent
+
+  junk
+
+  patch
+
+  oblige'
+bip_39_word_new_line8: 'unfair
+
+  cluster
+
+  normal
+
+  agent
+
+  junk
+
+  patch
+
+  oblige
+
+  focus'
+bip_39_word_new_line9: 'unfair
+
+  cluster
+
+  normal
+
+  agent
+
+  junk
+
+  patch
+
+  oblige
+
+  focus
+
+  lyrics'
+bip_39_word_space_0:
+- unfair
+- cluster
+- normal
+- agent
+- junk
+- patch
+- oblige
+- focus
+- lyrics
+- ancient
+- left
+- all
+bip_39_word_space_1: unfair
+bip_39_word_space_10: unfair cluster normal agent junk patch oblige focus lyrics ancient
+bip_39_word_space_11: unfair cluster normal agent junk patch oblige focus lyrics ancient
+  left
+bip_39_word_space_12: unfair cluster normal agent junk patch oblige focus lyrics ancient
+  left all
+bip_39_word_space_2: unfair cluster
+bip_39_word_space_3: unfair cluster normal
+bip_39_word_space_4: unfair cluster normal agent
+bip_39_word_space_5: unfair cluster normal agent junk
+bip_39_word_space_6: unfair cluster normal agent junk patch
+bip_39_word_space_7: unfair cluster normal agent junk patch oblige
+bip_39_word_space_8: unfair cluster normal agent junk patch oblige focus
+bip_39_word_space_9: unfair cluster normal agent junk patch oblige focus lyrics
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

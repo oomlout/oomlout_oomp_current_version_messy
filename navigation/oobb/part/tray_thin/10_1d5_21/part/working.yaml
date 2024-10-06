@@ -1,3 +1,184 @@
+bip_39_word_new_br1: celery
+bip_39_word_new_br10: celery<br>iron<br>lens<br>guess<br>staff<br>moon<br>cake<br>pull<br>ring<br>slim
+bip_39_word_new_br11: celery<br>iron<br>lens<br>guess<br>staff<br>moon<br>cake<br>pull<br>ring<br>slim<br>mom
+bip_39_word_new_br12: celery<br>iron<br>lens<br>guess<br>staff<br>moon<br>cake<br>pull<br>ring<br>slim<br>mom<br>alpha
+bip_39_word_new_br2: celery<br>iron
+bip_39_word_new_br3: celery<br>iron<br>lens
+bip_39_word_new_br4: celery<br>iron<br>lens<br>guess
+bip_39_word_new_br5: celery<br>iron<br>lens<br>guess<br>staff
+bip_39_word_new_br6: celery<br>iron<br>lens<br>guess<br>staff<br>moon
+bip_39_word_new_br7: celery<br>iron<br>lens<br>guess<br>staff<br>moon<br>cake
+bip_39_word_new_br8: celery<br>iron<br>lens<br>guess<br>staff<br>moon<br>cake<br>pull
+bip_39_word_new_br9: celery<br>iron<br>lens<br>guess<br>staff<br>moon<br>cake<br>pull<br>ring
+bip_39_word_new_line1: celery
+bip_39_word_new_line10: 'celery
+
+  iron
+
+  lens
+
+  guess
+
+  staff
+
+  moon
+
+  cake
+
+  pull
+
+  ring
+
+  slim'
+bip_39_word_new_line11: 'celery
+
+  iron
+
+  lens
+
+  guess
+
+  staff
+
+  moon
+
+  cake
+
+  pull
+
+  ring
+
+  slim
+
+  mom'
+bip_39_word_new_line12: 'celery
+
+  iron
+
+  lens
+
+  guess
+
+  staff
+
+  moon
+
+  cake
+
+  pull
+
+  ring
+
+  slim
+
+  mom
+
+  alpha'
+bip_39_word_new_line2: 'celery
+
+  iron'
+bip_39_word_new_line3: 'celery
+
+  iron
+
+  lens'
+bip_39_word_new_line4: 'celery
+
+  iron
+
+  lens
+
+  guess'
+bip_39_word_new_line5: 'celery
+
+  iron
+
+  lens
+
+  guess
+
+  staff'
+bip_39_word_new_line6: 'celery
+
+  iron
+
+  lens
+
+  guess
+
+  staff
+
+  moon'
+bip_39_word_new_line7: 'celery
+
+  iron
+
+  lens
+
+  guess
+
+  staff
+
+  moon
+
+  cake'
+bip_39_word_new_line8: 'celery
+
+  iron
+
+  lens
+
+  guess
+
+  staff
+
+  moon
+
+  cake
+
+  pull'
+bip_39_word_new_line9: 'celery
+
+  iron
+
+  lens
+
+  guess
+
+  staff
+
+  moon
+
+  cake
+
+  pull
+
+  ring'
+bip_39_word_space_0:
+- celery
+- iron
+- lens
+- guess
+- staff
+- moon
+- cake
+- pull
+- ring
+- slim
+- mom
+- alpha
+bip_39_word_space_1: celery
+bip_39_word_space_10: celery iron lens guess staff moon cake pull ring slim
+bip_39_word_space_11: celery iron lens guess staff moon cake pull ring slim mom
+bip_39_word_space_12: celery iron lens guess staff moon cake pull ring slim mom alpha
+bip_39_word_space_2: celery iron
+bip_39_word_space_3: celery iron lens
+bip_39_word_space_4: celery iron lens guess
+bip_39_word_space_5: celery iron lens guess staff
+bip_39_word_space_6: celery iron lens guess staff moon
+bip_39_word_space_7: celery iron lens guess staff moon cake
+bip_39_word_space_8: celery iron lens guess staff moon cake pull
+bip_39_word_space_9: celery iron lens guess staff moon cake pull ring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

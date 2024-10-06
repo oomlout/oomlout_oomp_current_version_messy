@@ -1,3 +1,186 @@
+bip_39_word_new_br1: people
+bip_39_word_new_br10: people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow
+bip_39_word_new_br11: people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow<br>learn
+bip_39_word_new_br12: people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird<br>elbow<br>learn<br>angle
+bip_39_word_new_br2: people<br>refuse
+bip_39_word_new_br3: people<br>refuse<br>they
+bip_39_word_new_br4: people<br>refuse<br>they<br>note
+bip_39_word_new_br5: people<br>refuse<br>they<br>note<br>online
+bip_39_word_new_br6: people<br>refuse<br>they<br>note<br>online<br>strike
+bip_39_word_new_br7: people<br>refuse<br>they<br>note<br>online<br>strike<br>load
+bip_39_word_new_br8: people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum
+bip_39_word_new_br9: people<br>refuse<br>they<br>note<br>online<br>strike<br>load<br>quantum<br>bird
+bip_39_word_new_line1: people
+bip_39_word_new_line10: 'people
+
+  refuse
+
+  they
+
+  note
+
+  online
+
+  strike
+
+  load
+
+  quantum
+
+  bird
+
+  elbow'
+bip_39_word_new_line11: 'people
+
+  refuse
+
+  they
+
+  note
+
+  online
+
+  strike
+
+  load
+
+  quantum
+
+  bird
+
+  elbow
+
+  learn'
+bip_39_word_new_line12: 'people
+
+  refuse
+
+  they
+
+  note
+
+  online
+
+  strike
+
+  load
+
+  quantum
+
+  bird
+
+  elbow
+
+  learn
+
+  angle'
+bip_39_word_new_line2: 'people
+
+  refuse'
+bip_39_word_new_line3: 'people
+
+  refuse
+
+  they'
+bip_39_word_new_line4: 'people
+
+  refuse
+
+  they
+
+  note'
+bip_39_word_new_line5: 'people
+
+  refuse
+
+  they
+
+  note
+
+  online'
+bip_39_word_new_line6: 'people
+
+  refuse
+
+  they
+
+  note
+
+  online
+
+  strike'
+bip_39_word_new_line7: 'people
+
+  refuse
+
+  they
+
+  note
+
+  online
+
+  strike
+
+  load'
+bip_39_word_new_line8: 'people
+
+  refuse
+
+  they
+
+  note
+
+  online
+
+  strike
+
+  load
+
+  quantum'
+bip_39_word_new_line9: 'people
+
+  refuse
+
+  they
+
+  note
+
+  online
+
+  strike
+
+  load
+
+  quantum
+
+  bird'
+bip_39_word_space_0:
+- people
+- refuse
+- they
+- note
+- online
+- strike
+- load
+- quantum
+- bird
+- elbow
+- learn
+- angle
+bip_39_word_space_1: people
+bip_39_word_space_10: people refuse they note online strike load quantum bird elbow
+bip_39_word_space_11: people refuse they note online strike load quantum bird elbow
+  learn
+bip_39_word_space_12: people refuse they note online strike load quantum bird elbow
+  learn angle
+bip_39_word_space_2: people refuse
+bip_39_word_space_3: people refuse they
+bip_39_word_space_4: people refuse they note
+bip_39_word_space_5: people refuse they note online
+bip_39_word_space_6: people refuse they note online strike
+bip_39_word_space_7: people refuse they note online strike load
+bip_39_word_space_8: people refuse they note online strike load quantum
+bip_39_word_space_9: people refuse they note online strike load quantum bird
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

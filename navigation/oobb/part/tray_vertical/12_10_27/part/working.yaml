@@ -1,3 +1,186 @@
+bip_39_word_new_br1: oil
+bip_39_word_new_br10: oil<br>broken<br>sniff<br>evoke<br>craft<br>spice<br>hour<br>never<br>unhappy<br>metal
+bip_39_word_new_br11: oil<br>broken<br>sniff<br>evoke<br>craft<br>spice<br>hour<br>never<br>unhappy<br>metal<br>cluster
+bip_39_word_new_br12: oil<br>broken<br>sniff<br>evoke<br>craft<br>spice<br>hour<br>never<br>unhappy<br>metal<br>cluster<br>about
+bip_39_word_new_br2: oil<br>broken
+bip_39_word_new_br3: oil<br>broken<br>sniff
+bip_39_word_new_br4: oil<br>broken<br>sniff<br>evoke
+bip_39_word_new_br5: oil<br>broken<br>sniff<br>evoke<br>craft
+bip_39_word_new_br6: oil<br>broken<br>sniff<br>evoke<br>craft<br>spice
+bip_39_word_new_br7: oil<br>broken<br>sniff<br>evoke<br>craft<br>spice<br>hour
+bip_39_word_new_br8: oil<br>broken<br>sniff<br>evoke<br>craft<br>spice<br>hour<br>never
+bip_39_word_new_br9: oil<br>broken<br>sniff<br>evoke<br>craft<br>spice<br>hour<br>never<br>unhappy
+bip_39_word_new_line1: oil
+bip_39_word_new_line10: 'oil
+
+  broken
+
+  sniff
+
+  evoke
+
+  craft
+
+  spice
+
+  hour
+
+  never
+
+  unhappy
+
+  metal'
+bip_39_word_new_line11: 'oil
+
+  broken
+
+  sniff
+
+  evoke
+
+  craft
+
+  spice
+
+  hour
+
+  never
+
+  unhappy
+
+  metal
+
+  cluster'
+bip_39_word_new_line12: 'oil
+
+  broken
+
+  sniff
+
+  evoke
+
+  craft
+
+  spice
+
+  hour
+
+  never
+
+  unhappy
+
+  metal
+
+  cluster
+
+  about'
+bip_39_word_new_line2: 'oil
+
+  broken'
+bip_39_word_new_line3: 'oil
+
+  broken
+
+  sniff'
+bip_39_word_new_line4: 'oil
+
+  broken
+
+  sniff
+
+  evoke'
+bip_39_word_new_line5: 'oil
+
+  broken
+
+  sniff
+
+  evoke
+
+  craft'
+bip_39_word_new_line6: 'oil
+
+  broken
+
+  sniff
+
+  evoke
+
+  craft
+
+  spice'
+bip_39_word_new_line7: 'oil
+
+  broken
+
+  sniff
+
+  evoke
+
+  craft
+
+  spice
+
+  hour'
+bip_39_word_new_line8: 'oil
+
+  broken
+
+  sniff
+
+  evoke
+
+  craft
+
+  spice
+
+  hour
+
+  never'
+bip_39_word_new_line9: 'oil
+
+  broken
+
+  sniff
+
+  evoke
+
+  craft
+
+  spice
+
+  hour
+
+  never
+
+  unhappy'
+bip_39_word_space_0:
+- oil
+- broken
+- sniff
+- evoke
+- craft
+- spice
+- hour
+- never
+- unhappy
+- metal
+- cluster
+- about
+bip_39_word_space_1: oil
+bip_39_word_space_10: oil broken sniff evoke craft spice hour never unhappy metal
+bip_39_word_space_11: oil broken sniff evoke craft spice hour never unhappy metal
+  cluster
+bip_39_word_space_12: oil broken sniff evoke craft spice hour never unhappy metal
+  cluster about
+bip_39_word_space_2: oil broken
+bip_39_word_space_3: oil broken sniff
+bip_39_word_space_4: oil broken sniff evoke
+bip_39_word_space_5: oil broken sniff evoke craft
+bip_39_word_space_6: oil broken sniff evoke craft spice
+bip_39_word_space_7: oil broken sniff evoke craft spice hour
+bip_39_word_space_8: oil broken sniff evoke craft spice hour never
+bip_39_word_space_9: oil broken sniff evoke craft spice hour never unhappy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

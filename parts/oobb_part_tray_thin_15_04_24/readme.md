@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: remain scheme
+  * bip 39 word 3: remain scheme off
+  * bip 39 word: remain scheme off vibrant capital taste grape catalog box vital series advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | remain |  
+| bip_39_word_new_br10 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box<br>vital |  
+| bip_39_word_new_br11 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box<br>vital<br>series |  
+| bip_39_word_new_br12 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box<br>vital<br>series<br>advice |  
+| bip_39_word_new_br2 | remain<br>scheme |  
+| bip_39_word_new_br3 | remain<br>scheme<br>off |  
+| bip_39_word_new_br4 | remain<br>scheme<br>off<br>vibrant |  
+| bip_39_word_new_br5 | remain<br>scheme<br>off<br>vibrant<br>capital |  
+| bip_39_word_new_br6 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste |  
+| bip_39_word_new_br7 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape |  
+| bip_39_word_new_br8 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog |  
+| bip_39_word_new_br9 | remain<br>scheme<br>off<br>vibrant<br>capital<br>taste<br>grape<br>catalog<br>box |  
+| bip_39_word_new_line1 | remain |  
+| bip_39_word_new_line10 | remain
+scheme
+off
+vibrant
+capital
+taste
+grape
+catalog
+box
+vital |  
+| bip_39_word_new_line11 | remain
+scheme
+off
+vibrant
+capital
+taste
+grape
+catalog
+box
+vital
+series |  
+| bip_39_word_new_line12 | remain
+scheme
+off
+vibrant
+capital
+taste
+grape
+catalog
+box
+vital
+series
+advice |  
+| bip_39_word_new_line2 | remain
+scheme |  
+| bip_39_word_new_line3 | remain
+scheme
+off |  
+| bip_39_word_new_line4 | remain
+scheme
+off
+vibrant |  
+| bip_39_word_new_line5 | remain
+scheme
+off
+vibrant
+capital |  
+| bip_39_word_new_line6 | remain
+scheme
+off
+vibrant
+capital
+taste |  
+| bip_39_word_new_line7 | remain
+scheme
+off
+vibrant
+capital
+taste
+grape |  
+| bip_39_word_new_line8 | remain
+scheme
+off
+vibrant
+capital
+taste
+grape
+catalog |  
+| bip_39_word_new_line9 | remain
+scheme
+off
+vibrant
+capital
+taste
+grape
+catalog
+box |  
+| bip_39_word_space_0 | ['remain', 'scheme', 'off', 'vibrant', 'capital', 'taste', 'grape', 'catalog', 'box', 'vital', 'series', 'advice'] |  
+| bip_39_word_space_1 | remain |  
+| bip_39_word_space_10 | remain scheme off vibrant capital taste grape catalog box vital |  
+| bip_39_word_space_11 | remain scheme off vibrant capital taste grape catalog box vital series |  
+| bip_39_word_space_12 | remain scheme off vibrant capital taste grape catalog box vital series advice |  
+| bip_39_word_space_2 | remain scheme |  
+| bip_39_word_space_3 | remain scheme off |  
+| bip_39_word_space_4 | remain scheme off vibrant |  
+| bip_39_word_space_5 | remain scheme off vibrant capital |  
+| bip_39_word_space_6 | remain scheme off vibrant capital taste |  
+| bip_39_word_space_7 | remain scheme off vibrant capital taste grape |  
+| bip_39_word_space_8 | remain scheme off vibrant capital taste grape catalog |  
+| bip_39_word_space_9 | remain scheme off vibrant capital taste grape catalog box |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

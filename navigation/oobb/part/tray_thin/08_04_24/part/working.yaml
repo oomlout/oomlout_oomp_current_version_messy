@@ -1,3 +1,185 @@
+bip_39_word_new_br1: tomato
+bip_39_word_new_br10: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice<br>gas<br>devote<br>stove<br>dirt
+bip_39_word_new_br11: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice<br>gas<br>devote<br>stove<br>dirt<br>degree
+bip_39_word_new_br12: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice<br>gas<br>devote<br>stove<br>dirt<br>degree<br>assault
+bip_39_word_new_br2: tomato<br>ice
+bip_39_word_new_br3: tomato<br>ice<br>club
+bip_39_word_new_br4: tomato<br>ice<br>club<br>mosquito
+bip_39_word_new_br5: tomato<br>ice<br>club<br>mosquito<br>novel
+bip_39_word_new_br6: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice
+bip_39_word_new_br7: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice<br>gas
+bip_39_word_new_br8: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice<br>gas<br>devote
+bip_39_word_new_br9: tomato<br>ice<br>club<br>mosquito<br>novel<br>twice<br>gas<br>devote<br>stove
+bip_39_word_new_line1: tomato
+bip_39_word_new_line10: 'tomato
+
+  ice
+
+  club
+
+  mosquito
+
+  novel
+
+  twice
+
+  gas
+
+  devote
+
+  stove
+
+  dirt'
+bip_39_word_new_line11: 'tomato
+
+  ice
+
+  club
+
+  mosquito
+
+  novel
+
+  twice
+
+  gas
+
+  devote
+
+  stove
+
+  dirt
+
+  degree'
+bip_39_word_new_line12: 'tomato
+
+  ice
+
+  club
+
+  mosquito
+
+  novel
+
+  twice
+
+  gas
+
+  devote
+
+  stove
+
+  dirt
+
+  degree
+
+  assault'
+bip_39_word_new_line2: 'tomato
+
+  ice'
+bip_39_word_new_line3: 'tomato
+
+  ice
+
+  club'
+bip_39_word_new_line4: 'tomato
+
+  ice
+
+  club
+
+  mosquito'
+bip_39_word_new_line5: 'tomato
+
+  ice
+
+  club
+
+  mosquito
+
+  novel'
+bip_39_word_new_line6: 'tomato
+
+  ice
+
+  club
+
+  mosquito
+
+  novel
+
+  twice'
+bip_39_word_new_line7: 'tomato
+
+  ice
+
+  club
+
+  mosquito
+
+  novel
+
+  twice
+
+  gas'
+bip_39_word_new_line8: 'tomato
+
+  ice
+
+  club
+
+  mosquito
+
+  novel
+
+  twice
+
+  gas
+
+  devote'
+bip_39_word_new_line9: 'tomato
+
+  ice
+
+  club
+
+  mosquito
+
+  novel
+
+  twice
+
+  gas
+
+  devote
+
+  stove'
+bip_39_word_space_0:
+- tomato
+- ice
+- club
+- mosquito
+- novel
+- twice
+- gas
+- devote
+- stove
+- dirt
+- degree
+- assault
+bip_39_word_space_1: tomato
+bip_39_word_space_10: tomato ice club mosquito novel twice gas devote stove dirt
+bip_39_word_space_11: tomato ice club mosquito novel twice gas devote stove dirt degree
+bip_39_word_space_12: tomato ice club mosquito novel twice gas devote stove dirt degree
+  assault
+bip_39_word_space_2: tomato ice
+bip_39_word_space_3: tomato ice club
+bip_39_word_space_4: tomato ice club mosquito
+bip_39_word_space_5: tomato ice club mosquito novel
+bip_39_word_space_6: tomato ice club mosquito novel twice
+bip_39_word_space_7: tomato ice club mosquito novel twice gas
+bip_39_word_space_8: tomato ice club mosquito novel twice gas devote
+bip_39_word_space_9: tomato ice club mosquito novel twice gas devote stove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

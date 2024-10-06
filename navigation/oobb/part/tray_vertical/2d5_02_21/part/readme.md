@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: diamond carry
+  * bip 39 word 3: diamond carry swing
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | diamond |  
+| bip_39_word_new_br10 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight<br>busy |  
+| bip_39_word_new_br11 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight<br>busy<br>canyon |  
+| bip_39_word_new_br2 | diamond<br>carry |  
+| bip_39_word_new_br3 | diamond<br>carry<br>swing |  
+| bip_39_word_new_br4 | diamond<br>carry<br>swing<br>author |  
+| bip_39_word_new_br5 | diamond<br>carry<br>swing<br>author<br>ignore |  
+| bip_39_word_new_br6 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar |  
+| bip_39_word_new_br7 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame |  
+| bip_39_word_new_br8 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast |  
+| bip_39_word_new_br9 | diamond<br>carry<br>swing<br>author<br>ignore<br>radar<br>frame<br>roast<br>slight |  
+| bip_39_word_new_line1 | diamond |  
+| bip_39_word_new_line10 | diamond
+carry
+swing
+author
+ignore
+radar
+frame
+roast
+slight
+busy |  
+| bip_39_word_new_line11 | diamond
+carry
+swing
+author
+ignore
+radar
+frame
+roast
+slight
+busy
+canyon |  
+| bip_39_word_new_line2 | diamond
+carry |  
+| bip_39_word_new_line3 | diamond
+carry
+swing |  
+| bip_39_word_new_line4 | diamond
+carry
+swing
+author |  
+| bip_39_word_new_line5 | diamond
+carry
+swing
+author
+ignore |  
+| bip_39_word_new_line6 | diamond
+carry
+swing
+author
+ignore
+radar |  
+| bip_39_word_new_line7 | diamond
+carry
+swing
+author
+ignore
+radar
+frame |  
+| bip_39_word_new_line8 | diamond
+carry
+swing
+author
+ignore
+radar
+frame
+roast |  
+| bip_39_word_new_line9 | diamond
+carry
+swing
+author
+ignore
+radar
+frame
+roast
+slight |  
+| bip_39_word_space_0 | ['diamond', 'carry', 'swing', 'author', 'ignore', 'radar', 'frame', 'roast', 'slight', 'busy', 'canyon'] |  
+| bip_39_word_space_1 | diamond |  
+| bip_39_word_space_10 | diamond carry swing author ignore radar frame roast slight busy |  
+| bip_39_word_space_11 | diamond carry swing author ignore radar frame roast slight busy canyon |  
+| bip_39_word_space_2 | diamond carry |  
+| bip_39_word_space_3 | diamond carry swing |  
+| bip_39_word_space_4 | diamond carry swing author |  
+| bip_39_word_space_5 | diamond carry swing author ignore |  
+| bip_39_word_space_6 | diamond carry swing author ignore radar |  
+| bip_39_word_space_7 | diamond carry swing author ignore radar frame |  
+| bip_39_word_space_8 | diamond carry swing author ignore radar frame roast |  
+| bip_39_word_space_9 | diamond carry swing author ignore radar frame roast slight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

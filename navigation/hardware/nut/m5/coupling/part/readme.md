@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: laugh chief
+  * bip 39 word 3: laugh chief ahead
+  * bip 39 word: laugh chief ahead floor often couple work chapter cash dress fatal ability
 
 ### other_codes
 * short_code: n5m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | laugh |  
+| bip_39_word_new_br10 | laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash<br>dress |  
+| bip_39_word_new_br11 | laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash<br>dress<br>fatal |  
+| bip_39_word_new_br12 | laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash<br>dress<br>fatal<br>ability |  
+| bip_39_word_new_br2 | laugh<br>chief |  
+| bip_39_word_new_br3 | laugh<br>chief<br>ahead |  
+| bip_39_word_new_br4 | laugh<br>chief<br>ahead<br>floor |  
+| bip_39_word_new_br5 | laugh<br>chief<br>ahead<br>floor<br>often |  
+| bip_39_word_new_br6 | laugh<br>chief<br>ahead<br>floor<br>often<br>couple |  
+| bip_39_word_new_br7 | laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work |  
+| bip_39_word_new_br8 | laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter |  
+| bip_39_word_new_br9 | laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash |  
+| bip_39_word_new_line1 | laugh |  
+| bip_39_word_new_line10 | laugh
+chief
+ahead
+floor
+often
+couple
+work
+chapter
+cash
+dress |  
+| bip_39_word_new_line11 | laugh
+chief
+ahead
+floor
+often
+couple
+work
+chapter
+cash
+dress
+fatal |  
+| bip_39_word_new_line12 | laugh
+chief
+ahead
+floor
+often
+couple
+work
+chapter
+cash
+dress
+fatal
+ability |  
+| bip_39_word_new_line2 | laugh
+chief |  
+| bip_39_word_new_line3 | laugh
+chief
+ahead |  
+| bip_39_word_new_line4 | laugh
+chief
+ahead
+floor |  
+| bip_39_word_new_line5 | laugh
+chief
+ahead
+floor
+often |  
+| bip_39_word_new_line6 | laugh
+chief
+ahead
+floor
+often
+couple |  
+| bip_39_word_new_line7 | laugh
+chief
+ahead
+floor
+often
+couple
+work |  
+| bip_39_word_new_line8 | laugh
+chief
+ahead
+floor
+often
+couple
+work
+chapter |  
+| bip_39_word_new_line9 | laugh
+chief
+ahead
+floor
+often
+couple
+work
+chapter
+cash |  
+| bip_39_word_space_0 | ['laugh', 'chief', 'ahead', 'floor', 'often', 'couple', 'work', 'chapter', 'cash', 'dress', 'fatal', 'ability'] |  
+| bip_39_word_space_1 | laugh |  
+| bip_39_word_space_10 | laugh chief ahead floor often couple work chapter cash dress |  
+| bip_39_word_space_11 | laugh chief ahead floor often couple work chapter cash dress fatal |  
+| bip_39_word_space_12 | laugh chief ahead floor often couple work chapter cash dress fatal ability |  
+| bip_39_word_space_2 | laugh chief |  
+| bip_39_word_space_3 | laugh chief ahead |  
+| bip_39_word_space_4 | laugh chief ahead floor |  
+| bip_39_word_space_5 | laugh chief ahead floor often |  
+| bip_39_word_space_6 | laugh chief ahead floor often couple |  
+| bip_39_word_space_7 | laugh chief ahead floor often couple work |  
+| bip_39_word_space_8 | laugh chief ahead floor often couple work chapter |  
+| bip_39_word_space_9 | laugh chief ahead floor often couple work chapter cash |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

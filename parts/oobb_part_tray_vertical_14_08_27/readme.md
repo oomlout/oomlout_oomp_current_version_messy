@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: joke twice
+  * bip 39 word 3: joke twice visual
+  * bip 39 word: joke twice visual dawn manual remain creek display benefit bonus eagle assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | joke |  
+| bip_39_word_new_br10 | joke<br>twice<br>visual<br>dawn<br>manual<br>remain<br>creek<br>display<br>benefit<br>bonus |  
+| bip_39_word_new_br11 | joke<br>twice<br>visual<br>dawn<br>manual<br>remain<br>creek<br>display<br>benefit<br>bonus<br>eagle |  
+| bip_39_word_new_br12 | joke<br>twice<br>visual<br>dawn<br>manual<br>remain<br>creek<br>display<br>benefit<br>bonus<br>eagle<br>assault |  
+| bip_39_word_new_br2 | joke<br>twice |  
+| bip_39_word_new_br3 | joke<br>twice<br>visual |  
+| bip_39_word_new_br4 | joke<br>twice<br>visual<br>dawn |  
+| bip_39_word_new_br5 | joke<br>twice<br>visual<br>dawn<br>manual |  
+| bip_39_word_new_br6 | joke<br>twice<br>visual<br>dawn<br>manual<br>remain |  
+| bip_39_word_new_br7 | joke<br>twice<br>visual<br>dawn<br>manual<br>remain<br>creek |  
+| bip_39_word_new_br8 | joke<br>twice<br>visual<br>dawn<br>manual<br>remain<br>creek<br>display |  
+| bip_39_word_new_br9 | joke<br>twice<br>visual<br>dawn<br>manual<br>remain<br>creek<br>display<br>benefit |  
+| bip_39_word_new_line1 | joke |  
+| bip_39_word_new_line10 | joke
+twice
+visual
+dawn
+manual
+remain
+creek
+display
+benefit
+bonus |  
+| bip_39_word_new_line11 | joke
+twice
+visual
+dawn
+manual
+remain
+creek
+display
+benefit
+bonus
+eagle |  
+| bip_39_word_new_line12 | joke
+twice
+visual
+dawn
+manual
+remain
+creek
+display
+benefit
+bonus
+eagle
+assault |  
+| bip_39_word_new_line2 | joke
+twice |  
+| bip_39_word_new_line3 | joke
+twice
+visual |  
+| bip_39_word_new_line4 | joke
+twice
+visual
+dawn |  
+| bip_39_word_new_line5 | joke
+twice
+visual
+dawn
+manual |  
+| bip_39_word_new_line6 | joke
+twice
+visual
+dawn
+manual
+remain |  
+| bip_39_word_new_line7 | joke
+twice
+visual
+dawn
+manual
+remain
+creek |  
+| bip_39_word_new_line8 | joke
+twice
+visual
+dawn
+manual
+remain
+creek
+display |  
+| bip_39_word_new_line9 | joke
+twice
+visual
+dawn
+manual
+remain
+creek
+display
+benefit |  
+| bip_39_word_space_0 | ['joke', 'twice', 'visual', 'dawn', 'manual', 'remain', 'creek', 'display', 'benefit', 'bonus', 'eagle', 'assault'] |  
+| bip_39_word_space_1 | joke |  
+| bip_39_word_space_10 | joke twice visual dawn manual remain creek display benefit bonus |  
+| bip_39_word_space_11 | joke twice visual dawn manual remain creek display benefit bonus eagle |  
+| bip_39_word_space_12 | joke twice visual dawn manual remain creek display benefit bonus eagle assault |  
+| bip_39_word_space_2 | joke twice |  
+| bip_39_word_space_3 | joke twice visual |  
+| bip_39_word_space_4 | joke twice visual dawn |  
+| bip_39_word_space_5 | joke twice visual dawn manual |  
+| bip_39_word_space_6 | joke twice visual dawn manual remain |  
+| bip_39_word_space_7 | joke twice visual dawn manual remain creek |  
+| bip_39_word_space_8 | joke twice visual dawn manual remain creek display |  
+| bip_39_word_space_9 | joke twice visual dawn manual remain creek display benefit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

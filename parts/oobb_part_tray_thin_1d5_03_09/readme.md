@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amused hybrid
+  * bip 39 word 3: amused hybrid eager
+  * bip 39 word: amused hybrid eager expose join maple neglect movie sugar surface luxury adjust
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amused |  
+| bip_39_word_new_br10 | amused<br>hybrid<br>eager<br>expose<br>join<br>maple<br>neglect<br>movie<br>sugar<br>surface |  
+| bip_39_word_new_br11 | amused<br>hybrid<br>eager<br>expose<br>join<br>maple<br>neglect<br>movie<br>sugar<br>surface<br>luxury |  
+| bip_39_word_new_br12 | amused<br>hybrid<br>eager<br>expose<br>join<br>maple<br>neglect<br>movie<br>sugar<br>surface<br>luxury<br>adjust |  
+| bip_39_word_new_br2 | amused<br>hybrid |  
+| bip_39_word_new_br3 | amused<br>hybrid<br>eager |  
+| bip_39_word_new_br4 | amused<br>hybrid<br>eager<br>expose |  
+| bip_39_word_new_br5 | amused<br>hybrid<br>eager<br>expose<br>join |  
+| bip_39_word_new_br6 | amused<br>hybrid<br>eager<br>expose<br>join<br>maple |  
+| bip_39_word_new_br7 | amused<br>hybrid<br>eager<br>expose<br>join<br>maple<br>neglect |  
+| bip_39_word_new_br8 | amused<br>hybrid<br>eager<br>expose<br>join<br>maple<br>neglect<br>movie |  
+| bip_39_word_new_br9 | amused<br>hybrid<br>eager<br>expose<br>join<br>maple<br>neglect<br>movie<br>sugar |  
+| bip_39_word_new_line1 | amused |  
+| bip_39_word_new_line10 | amused
+hybrid
+eager
+expose
+join
+maple
+neglect
+movie
+sugar
+surface |  
+| bip_39_word_new_line11 | amused
+hybrid
+eager
+expose
+join
+maple
+neglect
+movie
+sugar
+surface
+luxury |  
+| bip_39_word_new_line12 | amused
+hybrid
+eager
+expose
+join
+maple
+neglect
+movie
+sugar
+surface
+luxury
+adjust |  
+| bip_39_word_new_line2 | amused
+hybrid |  
+| bip_39_word_new_line3 | amused
+hybrid
+eager |  
+| bip_39_word_new_line4 | amused
+hybrid
+eager
+expose |  
+| bip_39_word_new_line5 | amused
+hybrid
+eager
+expose
+join |  
+| bip_39_word_new_line6 | amused
+hybrid
+eager
+expose
+join
+maple |  
+| bip_39_word_new_line7 | amused
+hybrid
+eager
+expose
+join
+maple
+neglect |  
+| bip_39_word_new_line8 | amused
+hybrid
+eager
+expose
+join
+maple
+neglect
+movie |  
+| bip_39_word_new_line9 | amused
+hybrid
+eager
+expose
+join
+maple
+neglect
+movie
+sugar |  
+| bip_39_word_space_0 | ['amused', 'hybrid', 'eager', 'expose', 'join', 'maple', 'neglect', 'movie', 'sugar', 'surface', 'luxury', 'adjust'] |  
+| bip_39_word_space_1 | amused |  
+| bip_39_word_space_10 | amused hybrid eager expose join maple neglect movie sugar surface |  
+| bip_39_word_space_11 | amused hybrid eager expose join maple neglect movie sugar surface luxury |  
+| bip_39_word_space_12 | amused hybrid eager expose join maple neglect movie sugar surface luxury adjust |  
+| bip_39_word_space_2 | amused hybrid |  
+| bip_39_word_space_3 | amused hybrid eager |  
+| bip_39_word_space_4 | amused hybrid eager expose |  
+| bip_39_word_space_5 | amused hybrid eager expose join |  
+| bip_39_word_space_6 | amused hybrid eager expose join maple |  
+| bip_39_word_space_7 | amused hybrid eager expose join maple neglect |  
+| bip_39_word_space_8 | amused hybrid eager expose join maple neglect movie |  
+| bip_39_word_space_9 | amused hybrid eager expose join maple neglect movie sugar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

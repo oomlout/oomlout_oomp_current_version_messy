@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: like lonely
+  * bip 39 word 3: like lonely you
+  * bip 39 word: like lonely you spatial then swear rigid victory black media mammal argue
 
 ### other_codes
 * short_code: b6m30
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | like |  
+| bip_39_word_new_br10 | like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media |  
+| bip_39_word_new_br11 | like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media<br>mammal |  
+| bip_39_word_new_br12 | like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black<br>media<br>mammal<br>argue |  
+| bip_39_word_new_br2 | like<br>lonely |  
+| bip_39_word_new_br3 | like<br>lonely<br>you |  
+| bip_39_word_new_br4 | like<br>lonely<br>you<br>spatial |  
+| bip_39_word_new_br5 | like<br>lonely<br>you<br>spatial<br>then |  
+| bip_39_word_new_br6 | like<br>lonely<br>you<br>spatial<br>then<br>swear |  
+| bip_39_word_new_br7 | like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid |  
+| bip_39_word_new_br8 | like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory |  
+| bip_39_word_new_br9 | like<br>lonely<br>you<br>spatial<br>then<br>swear<br>rigid<br>victory<br>black |  
+| bip_39_word_new_line1 | like |  
+| bip_39_word_new_line10 | like
+lonely
+you
+spatial
+then
+swear
+rigid
+victory
+black
+media |  
+| bip_39_word_new_line11 | like
+lonely
+you
+spatial
+then
+swear
+rigid
+victory
+black
+media
+mammal |  
+| bip_39_word_new_line12 | like
+lonely
+you
+spatial
+then
+swear
+rigid
+victory
+black
+media
+mammal
+argue |  
+| bip_39_word_new_line2 | like
+lonely |  
+| bip_39_word_new_line3 | like
+lonely
+you |  
+| bip_39_word_new_line4 | like
+lonely
+you
+spatial |  
+| bip_39_word_new_line5 | like
+lonely
+you
+spatial
+then |  
+| bip_39_word_new_line6 | like
+lonely
+you
+spatial
+then
+swear |  
+| bip_39_word_new_line7 | like
+lonely
+you
+spatial
+then
+swear
+rigid |  
+| bip_39_word_new_line8 | like
+lonely
+you
+spatial
+then
+swear
+rigid
+victory |  
+| bip_39_word_new_line9 | like
+lonely
+you
+spatial
+then
+swear
+rigid
+victory
+black |  
+| bip_39_word_space_0 | ['like', 'lonely', 'you', 'spatial', 'then', 'swear', 'rigid', 'victory', 'black', 'media', 'mammal', 'argue'] |  
+| bip_39_word_space_1 | like |  
+| bip_39_word_space_10 | like lonely you spatial then swear rigid victory black media |  
+| bip_39_word_space_11 | like lonely you spatial then swear rigid victory black media mammal |  
+| bip_39_word_space_12 | like lonely you spatial then swear rigid victory black media mammal argue |  
+| bip_39_word_space_2 | like lonely |  
+| bip_39_word_space_3 | like lonely you |  
+| bip_39_word_space_4 | like lonely you spatial |  
+| bip_39_word_space_5 | like lonely you spatial then |  
+| bip_39_word_space_6 | like lonely you spatial then swear |  
+| bip_39_word_space_7 | like lonely you spatial then swear rigid |  
+| bip_39_word_space_8 | like lonely you spatial then swear rigid victory |  
+| bip_39_word_space_9 | like lonely you spatial then swear rigid victory black |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

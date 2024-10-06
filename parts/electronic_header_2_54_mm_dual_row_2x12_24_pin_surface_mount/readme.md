@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: april fringe
+  * bip 39 word 3: april fringe join
+  * bip 39 word: april fringe join agree train sponsor second plastic cruel cover until always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | april |  
+| bip_39_word_new_br10 | april<br>fringe<br>join<br>agree<br>train<br>sponsor<br>second<br>plastic<br>cruel<br>cover |  
+| bip_39_word_new_br11 | april<br>fringe<br>join<br>agree<br>train<br>sponsor<br>second<br>plastic<br>cruel<br>cover<br>until |  
+| bip_39_word_new_br12 | april<br>fringe<br>join<br>agree<br>train<br>sponsor<br>second<br>plastic<br>cruel<br>cover<br>until<br>always |  
+| bip_39_word_new_br2 | april<br>fringe |  
+| bip_39_word_new_br3 | april<br>fringe<br>join |  
+| bip_39_word_new_br4 | april<br>fringe<br>join<br>agree |  
+| bip_39_word_new_br5 | april<br>fringe<br>join<br>agree<br>train |  
+| bip_39_word_new_br6 | april<br>fringe<br>join<br>agree<br>train<br>sponsor |  
+| bip_39_word_new_br7 | april<br>fringe<br>join<br>agree<br>train<br>sponsor<br>second |  
+| bip_39_word_new_br8 | april<br>fringe<br>join<br>agree<br>train<br>sponsor<br>second<br>plastic |  
+| bip_39_word_new_br9 | april<br>fringe<br>join<br>agree<br>train<br>sponsor<br>second<br>plastic<br>cruel |  
+| bip_39_word_new_line1 | april |  
+| bip_39_word_new_line10 | april
+fringe
+join
+agree
+train
+sponsor
+second
+plastic
+cruel
+cover |  
+| bip_39_word_new_line11 | april
+fringe
+join
+agree
+train
+sponsor
+second
+plastic
+cruel
+cover
+until |  
+| bip_39_word_new_line12 | april
+fringe
+join
+agree
+train
+sponsor
+second
+plastic
+cruel
+cover
+until
+always |  
+| bip_39_word_new_line2 | april
+fringe |  
+| bip_39_word_new_line3 | april
+fringe
+join |  
+| bip_39_word_new_line4 | april
+fringe
+join
+agree |  
+| bip_39_word_new_line5 | april
+fringe
+join
+agree
+train |  
+| bip_39_word_new_line6 | april
+fringe
+join
+agree
+train
+sponsor |  
+| bip_39_word_new_line7 | april
+fringe
+join
+agree
+train
+sponsor
+second |  
+| bip_39_word_new_line8 | april
+fringe
+join
+agree
+train
+sponsor
+second
+plastic |  
+| bip_39_word_new_line9 | april
+fringe
+join
+agree
+train
+sponsor
+second
+plastic
+cruel |  
+| bip_39_word_space_0 | ['april', 'fringe', 'join', 'agree', 'train', 'sponsor', 'second', 'plastic', 'cruel', 'cover', 'until', 'always'] |  
+| bip_39_word_space_1 | april |  
+| bip_39_word_space_10 | april fringe join agree train sponsor second plastic cruel cover |  
+| bip_39_word_space_11 | april fringe join agree train sponsor second plastic cruel cover until |  
+| bip_39_word_space_12 | april fringe join agree train sponsor second plastic cruel cover until always |  
+| bip_39_word_space_2 | april fringe |  
+| bip_39_word_space_3 | april fringe join |  
+| bip_39_word_space_4 | april fringe join agree |  
+| bip_39_word_space_5 | april fringe join agree train |  
+| bip_39_word_space_6 | april fringe join agree train sponsor |  
+| bip_39_word_space_7 | april fringe join agree train sponsor second |  
+| bip_39_word_space_8 | april fringe join agree train sponsor second plastic |  
+| bip_39_word_space_9 | april fringe join agree train sponsor second plastic cruel |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: sibling
+bip_39_word_new_br10: sibling<br>color<br>torch<br>tooth<br>win<br>pig<br>lumber<br>inject<br>hello<br>turn
+bip_39_word_new_br11: sibling<br>color<br>torch<br>tooth<br>win<br>pig<br>lumber<br>inject<br>hello<br>turn<br>science
+bip_39_word_new_br12: sibling<br>color<br>torch<br>tooth<br>win<br>pig<br>lumber<br>inject<br>hello<br>turn<br>science<br>armed
+bip_39_word_new_br2: sibling<br>color
+bip_39_word_new_br3: sibling<br>color<br>torch
+bip_39_word_new_br4: sibling<br>color<br>torch<br>tooth
+bip_39_word_new_br5: sibling<br>color<br>torch<br>tooth<br>win
+bip_39_word_new_br6: sibling<br>color<br>torch<br>tooth<br>win<br>pig
+bip_39_word_new_br7: sibling<br>color<br>torch<br>tooth<br>win<br>pig<br>lumber
+bip_39_word_new_br8: sibling<br>color<br>torch<br>tooth<br>win<br>pig<br>lumber<br>inject
+bip_39_word_new_br9: sibling<br>color<br>torch<br>tooth<br>win<br>pig<br>lumber<br>inject<br>hello
+bip_39_word_new_line1: sibling
+bip_39_word_new_line10: 'sibling
+
+  color
+
+  torch
+
+  tooth
+
+  win
+
+  pig
+
+  lumber
+
+  inject
+
+  hello
+
+  turn'
+bip_39_word_new_line11: 'sibling
+
+  color
+
+  torch
+
+  tooth
+
+  win
+
+  pig
+
+  lumber
+
+  inject
+
+  hello
+
+  turn
+
+  science'
+bip_39_word_new_line12: 'sibling
+
+  color
+
+  torch
+
+  tooth
+
+  win
+
+  pig
+
+  lumber
+
+  inject
+
+  hello
+
+  turn
+
+  science
+
+  armed'
+bip_39_word_new_line2: 'sibling
+
+  color'
+bip_39_word_new_line3: 'sibling
+
+  color
+
+  torch'
+bip_39_word_new_line4: 'sibling
+
+  color
+
+  torch
+
+  tooth'
+bip_39_word_new_line5: 'sibling
+
+  color
+
+  torch
+
+  tooth
+
+  win'
+bip_39_word_new_line6: 'sibling
+
+  color
+
+  torch
+
+  tooth
+
+  win
+
+  pig'
+bip_39_word_new_line7: 'sibling
+
+  color
+
+  torch
+
+  tooth
+
+  win
+
+  pig
+
+  lumber'
+bip_39_word_new_line8: 'sibling
+
+  color
+
+  torch
+
+  tooth
+
+  win
+
+  pig
+
+  lumber
+
+  inject'
+bip_39_word_new_line9: 'sibling
+
+  color
+
+  torch
+
+  tooth
+
+  win
+
+  pig
+
+  lumber
+
+  inject
+
+  hello'
+bip_39_word_space_0:
+- sibling
+- color
+- torch
+- tooth
+- win
+- pig
+- lumber
+- inject
+- hello
+- turn
+- science
+- armed
+bip_39_word_space_1: sibling
+bip_39_word_space_10: sibling color torch tooth win pig lumber inject hello turn
+bip_39_word_space_11: sibling color torch tooth win pig lumber inject hello turn science
+bip_39_word_space_12: sibling color torch tooth win pig lumber inject hello turn science
+  armed
+bip_39_word_space_2: sibling color
+bip_39_word_space_3: sibling color torch
+bip_39_word_space_4: sibling color torch tooth
+bip_39_word_space_5: sibling color torch tooth win
+bip_39_word_space_6: sibling color torch tooth win pig
+bip_39_word_space_7: sibling color torch tooth win pig lumber
+bip_39_word_space_8: sibling color torch tooth win pig lumber inject
+bip_39_word_space_9: sibling color torch tooth win pig lumber inject hello
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

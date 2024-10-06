@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ship such
+  * bip 39 word 3: ship such cabin
+  * bip 39 word: ship such cabin deal change crazy diet inch sail debate wink ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ship |  
+| bip_39_word_new_br10 | ship<br>such<br>cabin<br>deal<br>change<br>crazy<br>diet<br>inch<br>sail<br>debate |  
+| bip_39_word_new_br11 | ship<br>such<br>cabin<br>deal<br>change<br>crazy<br>diet<br>inch<br>sail<br>debate<br>wink |  
+| bip_39_word_new_br12 | ship<br>such<br>cabin<br>deal<br>change<br>crazy<br>diet<br>inch<br>sail<br>debate<br>wink<br>ask |  
+| bip_39_word_new_br2 | ship<br>such |  
+| bip_39_word_new_br3 | ship<br>such<br>cabin |  
+| bip_39_word_new_br4 | ship<br>such<br>cabin<br>deal |  
+| bip_39_word_new_br5 | ship<br>such<br>cabin<br>deal<br>change |  
+| bip_39_word_new_br6 | ship<br>such<br>cabin<br>deal<br>change<br>crazy |  
+| bip_39_word_new_br7 | ship<br>such<br>cabin<br>deal<br>change<br>crazy<br>diet |  
+| bip_39_word_new_br8 | ship<br>such<br>cabin<br>deal<br>change<br>crazy<br>diet<br>inch |  
+| bip_39_word_new_br9 | ship<br>such<br>cabin<br>deal<br>change<br>crazy<br>diet<br>inch<br>sail |  
+| bip_39_word_new_line1 | ship |  
+| bip_39_word_new_line10 | ship
+such
+cabin
+deal
+change
+crazy
+diet
+inch
+sail
+debate |  
+| bip_39_word_new_line11 | ship
+such
+cabin
+deal
+change
+crazy
+diet
+inch
+sail
+debate
+wink |  
+| bip_39_word_new_line12 | ship
+such
+cabin
+deal
+change
+crazy
+diet
+inch
+sail
+debate
+wink
+ask |  
+| bip_39_word_new_line2 | ship
+such |  
+| bip_39_word_new_line3 | ship
+such
+cabin |  
+| bip_39_word_new_line4 | ship
+such
+cabin
+deal |  
+| bip_39_word_new_line5 | ship
+such
+cabin
+deal
+change |  
+| bip_39_word_new_line6 | ship
+such
+cabin
+deal
+change
+crazy |  
+| bip_39_word_new_line7 | ship
+such
+cabin
+deal
+change
+crazy
+diet |  
+| bip_39_word_new_line8 | ship
+such
+cabin
+deal
+change
+crazy
+diet
+inch |  
+| bip_39_word_new_line9 | ship
+such
+cabin
+deal
+change
+crazy
+diet
+inch
+sail |  
+| bip_39_word_space_0 | ['ship', 'such', 'cabin', 'deal', 'change', 'crazy', 'diet', 'inch', 'sail', 'debate', 'wink', 'ask'] |  
+| bip_39_word_space_1 | ship |  
+| bip_39_word_space_10 | ship such cabin deal change crazy diet inch sail debate |  
+| bip_39_word_space_11 | ship such cabin deal change crazy diet inch sail debate wink |  
+| bip_39_word_space_12 | ship such cabin deal change crazy diet inch sail debate wink ask |  
+| bip_39_word_space_2 | ship such |  
+| bip_39_word_space_3 | ship such cabin |  
+| bip_39_word_space_4 | ship such cabin deal |  
+| bip_39_word_space_5 | ship such cabin deal change |  
+| bip_39_word_space_6 | ship such cabin deal change crazy |  
+| bip_39_word_space_7 | ship such cabin deal change crazy diet |  
+| bip_39_word_space_8 | ship such cabin deal change crazy diet inch |  
+| bip_39_word_space_9 | ship such cabin deal change crazy diet inch sail |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

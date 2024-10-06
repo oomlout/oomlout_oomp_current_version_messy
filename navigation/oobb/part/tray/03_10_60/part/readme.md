@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: desk girl
+  * bip 39 word 3: desk girl guard
+  * bip 39 word: desk girl guard job daring pulp noodle truly orbit pilot globe animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | desk |  
+| bip_39_word_new_br10 | desk<br>girl<br>guard<br>job<br>daring<br>pulp<br>noodle<br>truly<br>orbit<br>pilot |  
+| bip_39_word_new_br11 | desk<br>girl<br>guard<br>job<br>daring<br>pulp<br>noodle<br>truly<br>orbit<br>pilot<br>globe |  
+| bip_39_word_new_br12 | desk<br>girl<br>guard<br>job<br>daring<br>pulp<br>noodle<br>truly<br>orbit<br>pilot<br>globe<br>animal |  
+| bip_39_word_new_br2 | desk<br>girl |  
+| bip_39_word_new_br3 | desk<br>girl<br>guard |  
+| bip_39_word_new_br4 | desk<br>girl<br>guard<br>job |  
+| bip_39_word_new_br5 | desk<br>girl<br>guard<br>job<br>daring |  
+| bip_39_word_new_br6 | desk<br>girl<br>guard<br>job<br>daring<br>pulp |  
+| bip_39_word_new_br7 | desk<br>girl<br>guard<br>job<br>daring<br>pulp<br>noodle |  
+| bip_39_word_new_br8 | desk<br>girl<br>guard<br>job<br>daring<br>pulp<br>noodle<br>truly |  
+| bip_39_word_new_br9 | desk<br>girl<br>guard<br>job<br>daring<br>pulp<br>noodle<br>truly<br>orbit |  
+| bip_39_word_new_line1 | desk |  
+| bip_39_word_new_line10 | desk
+girl
+guard
+job
+daring
+pulp
+noodle
+truly
+orbit
+pilot |  
+| bip_39_word_new_line11 | desk
+girl
+guard
+job
+daring
+pulp
+noodle
+truly
+orbit
+pilot
+globe |  
+| bip_39_word_new_line12 | desk
+girl
+guard
+job
+daring
+pulp
+noodle
+truly
+orbit
+pilot
+globe
+animal |  
+| bip_39_word_new_line2 | desk
+girl |  
+| bip_39_word_new_line3 | desk
+girl
+guard |  
+| bip_39_word_new_line4 | desk
+girl
+guard
+job |  
+| bip_39_word_new_line5 | desk
+girl
+guard
+job
+daring |  
+| bip_39_word_new_line6 | desk
+girl
+guard
+job
+daring
+pulp |  
+| bip_39_word_new_line7 | desk
+girl
+guard
+job
+daring
+pulp
+noodle |  
+| bip_39_word_new_line8 | desk
+girl
+guard
+job
+daring
+pulp
+noodle
+truly |  
+| bip_39_word_new_line9 | desk
+girl
+guard
+job
+daring
+pulp
+noodle
+truly
+orbit |  
+| bip_39_word_space_0 | ['desk', 'girl', 'guard', 'job', 'daring', 'pulp', 'noodle', 'truly', 'orbit', 'pilot', 'globe', 'animal'] |  
+| bip_39_word_space_1 | desk |  
+| bip_39_word_space_10 | desk girl guard job daring pulp noodle truly orbit pilot |  
+| bip_39_word_space_11 | desk girl guard job daring pulp noodle truly orbit pilot globe |  
+| bip_39_word_space_12 | desk girl guard job daring pulp noodle truly orbit pilot globe animal |  
+| bip_39_word_space_2 | desk girl |  
+| bip_39_word_space_3 | desk girl guard |  
+| bip_39_word_space_4 | desk girl guard job |  
+| bip_39_word_space_5 | desk girl guard job daring |  
+| bip_39_word_space_6 | desk girl guard job daring pulp |  
+| bip_39_word_space_7 | desk girl guard job daring pulp noodle |  
+| bip_39_word_space_8 | desk girl guard job daring pulp noodle truly |  
+| bip_39_word_space_9 | desk girl guard job daring pulp noodle truly orbit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

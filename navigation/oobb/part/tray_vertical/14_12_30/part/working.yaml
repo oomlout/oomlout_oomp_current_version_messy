@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ill
+bip_39_word_new_br10: ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin
+bip_39_word_new_br11: ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin<br>banana
+bip_39_word_new_br12: ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet<br>pumpkin<br>banana<br>artefact
+bip_39_word_new_br2: ill<br>abuse
+bip_39_word_new_br3: ill<br>abuse<br>annual
+bip_39_word_new_br4: ill<br>abuse<br>annual<br>erase
+bip_39_word_new_br5: ill<br>abuse<br>annual<br>erase<br>one
+bip_39_word_new_br6: ill<br>abuse<br>annual<br>erase<br>one<br>extend
+bip_39_word_new_br7: ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen
+bip_39_word_new_br8: ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree
+bip_39_word_new_br9: ill<br>abuse<br>annual<br>erase<br>one<br>extend<br>citizen<br>tree<br>sweet
+bip_39_word_new_line1: ill
+bip_39_word_new_line10: 'ill
+
+  abuse
+
+  annual
+
+  erase
+
+  one
+
+  extend
+
+  citizen
+
+  tree
+
+  sweet
+
+  pumpkin'
+bip_39_word_new_line11: 'ill
+
+  abuse
+
+  annual
+
+  erase
+
+  one
+
+  extend
+
+  citizen
+
+  tree
+
+  sweet
+
+  pumpkin
+
+  banana'
+bip_39_word_new_line12: 'ill
+
+  abuse
+
+  annual
+
+  erase
+
+  one
+
+  extend
+
+  citizen
+
+  tree
+
+  sweet
+
+  pumpkin
+
+  banana
+
+  artefact'
+bip_39_word_new_line2: 'ill
+
+  abuse'
+bip_39_word_new_line3: 'ill
+
+  abuse
+
+  annual'
+bip_39_word_new_line4: 'ill
+
+  abuse
+
+  annual
+
+  erase'
+bip_39_word_new_line5: 'ill
+
+  abuse
+
+  annual
+
+  erase
+
+  one'
+bip_39_word_new_line6: 'ill
+
+  abuse
+
+  annual
+
+  erase
+
+  one
+
+  extend'
+bip_39_word_new_line7: 'ill
+
+  abuse
+
+  annual
+
+  erase
+
+  one
+
+  extend
+
+  citizen'
+bip_39_word_new_line8: 'ill
+
+  abuse
+
+  annual
+
+  erase
+
+  one
+
+  extend
+
+  citizen
+
+  tree'
+bip_39_word_new_line9: 'ill
+
+  abuse
+
+  annual
+
+  erase
+
+  one
+
+  extend
+
+  citizen
+
+  tree
+
+  sweet'
+bip_39_word_space_0:
+- ill
+- abuse
+- annual
+- erase
+- one
+- extend
+- citizen
+- tree
+- sweet
+- pumpkin
+- banana
+- artefact
+bip_39_word_space_1: ill
+bip_39_word_space_10: ill abuse annual erase one extend citizen tree sweet pumpkin
+bip_39_word_space_11: ill abuse annual erase one extend citizen tree sweet pumpkin
+  banana
+bip_39_word_space_12: ill abuse annual erase one extend citizen tree sweet pumpkin
+  banana artefact
+bip_39_word_space_2: ill abuse
+bip_39_word_space_3: ill abuse annual
+bip_39_word_space_4: ill abuse annual erase
+bip_39_word_space_5: ill abuse annual erase one
+bip_39_word_space_6: ill abuse annual erase one extend
+bip_39_word_space_7: ill abuse annual erase one extend citizen
+bip_39_word_space_8: ill abuse annual erase one extend citizen tree
+bip_39_word_space_9: ill abuse annual erase one extend citizen tree sweet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

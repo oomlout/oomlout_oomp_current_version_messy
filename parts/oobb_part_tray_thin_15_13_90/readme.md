@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ribbon hurdle
+  * bip 39 word 3: ribbon hurdle cushion
+  * bip 39 word: ribbon hurdle cushion flush hub move increase photo give educate client attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ribbon |  
+| bip_39_word_new_br10 | ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move<br>increase<br>photo<br>give<br>educate |  
+| bip_39_word_new_br11 | ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move<br>increase<br>photo<br>give<br>educate<br>client |  
+| bip_39_word_new_br12 | ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move<br>increase<br>photo<br>give<br>educate<br>client<br>attitude |  
+| bip_39_word_new_br2 | ribbon<br>hurdle |  
+| bip_39_word_new_br3 | ribbon<br>hurdle<br>cushion |  
+| bip_39_word_new_br4 | ribbon<br>hurdle<br>cushion<br>flush |  
+| bip_39_word_new_br5 | ribbon<br>hurdle<br>cushion<br>flush<br>hub |  
+| bip_39_word_new_br6 | ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move |  
+| bip_39_word_new_br7 | ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move<br>increase |  
+| bip_39_word_new_br8 | ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move<br>increase<br>photo |  
+| bip_39_word_new_br9 | ribbon<br>hurdle<br>cushion<br>flush<br>hub<br>move<br>increase<br>photo<br>give |  
+| bip_39_word_new_line1 | ribbon |  
+| bip_39_word_new_line10 | ribbon
+hurdle
+cushion
+flush
+hub
+move
+increase
+photo
+give
+educate |  
+| bip_39_word_new_line11 | ribbon
+hurdle
+cushion
+flush
+hub
+move
+increase
+photo
+give
+educate
+client |  
+| bip_39_word_new_line12 | ribbon
+hurdle
+cushion
+flush
+hub
+move
+increase
+photo
+give
+educate
+client
+attitude |  
+| bip_39_word_new_line2 | ribbon
+hurdle |  
+| bip_39_word_new_line3 | ribbon
+hurdle
+cushion |  
+| bip_39_word_new_line4 | ribbon
+hurdle
+cushion
+flush |  
+| bip_39_word_new_line5 | ribbon
+hurdle
+cushion
+flush
+hub |  
+| bip_39_word_new_line6 | ribbon
+hurdle
+cushion
+flush
+hub
+move |  
+| bip_39_word_new_line7 | ribbon
+hurdle
+cushion
+flush
+hub
+move
+increase |  
+| bip_39_word_new_line8 | ribbon
+hurdle
+cushion
+flush
+hub
+move
+increase
+photo |  
+| bip_39_word_new_line9 | ribbon
+hurdle
+cushion
+flush
+hub
+move
+increase
+photo
+give |  
+| bip_39_word_space_0 | ['ribbon', 'hurdle', 'cushion', 'flush', 'hub', 'move', 'increase', 'photo', 'give', 'educate', 'client', 'attitude'] |  
+| bip_39_word_space_1 | ribbon |  
+| bip_39_word_space_10 | ribbon hurdle cushion flush hub move increase photo give educate |  
+| bip_39_word_space_11 | ribbon hurdle cushion flush hub move increase photo give educate client |  
+| bip_39_word_space_12 | ribbon hurdle cushion flush hub move increase photo give educate client attitude |  
+| bip_39_word_space_2 | ribbon hurdle |  
+| bip_39_word_space_3 | ribbon hurdle cushion |  
+| bip_39_word_space_4 | ribbon hurdle cushion flush |  
+| bip_39_word_space_5 | ribbon hurdle cushion flush hub |  
+| bip_39_word_space_6 | ribbon hurdle cushion flush hub move |  
+| bip_39_word_space_7 | ribbon hurdle cushion flush hub move increase |  
+| bip_39_word_space_8 | ribbon hurdle cushion flush hub move increase photo |  
+| bip_39_word_space_9 | ribbon hurdle cushion flush hub move increase photo give |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

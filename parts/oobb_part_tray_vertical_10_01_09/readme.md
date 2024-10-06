@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: process cry
+  * bip 39 word 3: process cry possible
+  * bip 39 word: process cry possible beauty neglect awkward twin march rib blue flight another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | process |  
+| bip_39_word_new_br10 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue |  
+| bip_39_word_new_br11 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue<br>flight |  
+| bip_39_word_new_br12 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib<br>blue<br>flight<br>another |  
+| bip_39_word_new_br2 | process<br>cry |  
+| bip_39_word_new_br3 | process<br>cry<br>possible |  
+| bip_39_word_new_br4 | process<br>cry<br>possible<br>beauty |  
+| bip_39_word_new_br5 | process<br>cry<br>possible<br>beauty<br>neglect |  
+| bip_39_word_new_br6 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward |  
+| bip_39_word_new_br7 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin |  
+| bip_39_word_new_br8 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march |  
+| bip_39_word_new_br9 | process<br>cry<br>possible<br>beauty<br>neglect<br>awkward<br>twin<br>march<br>rib |  
+| bip_39_word_new_line1 | process |  
+| bip_39_word_new_line10 | process
+cry
+possible
+beauty
+neglect
+awkward
+twin
+march
+rib
+blue |  
+| bip_39_word_new_line11 | process
+cry
+possible
+beauty
+neglect
+awkward
+twin
+march
+rib
+blue
+flight |  
+| bip_39_word_new_line12 | process
+cry
+possible
+beauty
+neglect
+awkward
+twin
+march
+rib
+blue
+flight
+another |  
+| bip_39_word_new_line2 | process
+cry |  
+| bip_39_word_new_line3 | process
+cry
+possible |  
+| bip_39_word_new_line4 | process
+cry
+possible
+beauty |  
+| bip_39_word_new_line5 | process
+cry
+possible
+beauty
+neglect |  
+| bip_39_word_new_line6 | process
+cry
+possible
+beauty
+neglect
+awkward |  
+| bip_39_word_new_line7 | process
+cry
+possible
+beauty
+neglect
+awkward
+twin |  
+| bip_39_word_new_line8 | process
+cry
+possible
+beauty
+neglect
+awkward
+twin
+march |  
+| bip_39_word_new_line9 | process
+cry
+possible
+beauty
+neglect
+awkward
+twin
+march
+rib |  
+| bip_39_word_space_0 | ['process', 'cry', 'possible', 'beauty', 'neglect', 'awkward', 'twin', 'march', 'rib', 'blue', 'flight', 'another'] |  
+| bip_39_word_space_1 | process |  
+| bip_39_word_space_10 | process cry possible beauty neglect awkward twin march rib blue |  
+| bip_39_word_space_11 | process cry possible beauty neglect awkward twin march rib blue flight |  
+| bip_39_word_space_12 | process cry possible beauty neglect awkward twin march rib blue flight another |  
+| bip_39_word_space_2 | process cry |  
+| bip_39_word_space_3 | process cry possible |  
+| bip_39_word_space_4 | process cry possible beauty |  
+| bip_39_word_space_5 | process cry possible beauty neglect |  
+| bip_39_word_space_6 | process cry possible beauty neglect awkward |  
+| bip_39_word_space_7 | process cry possible beauty neglect awkward twin |  
+| bip_39_word_space_8 | process cry possible beauty neglect awkward twin march |  
+| bip_39_word_space_9 | process cry possible beauty neglect awkward twin march rib |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

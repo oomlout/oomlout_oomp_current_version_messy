@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clean
+bip_39_word_new_br10: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call
+bip_39_word_new_br11: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest
+bip_39_word_new_br12: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest<br>ankle
+bip_39_word_new_br2: clean<br>emotion
+bip_39_word_new_br3: clean<br>emotion<br>love
+bip_39_word_new_br4: clean<br>emotion<br>love<br>asset
+bip_39_word_new_br5: clean<br>emotion<br>love<br>asset<br>helmet
+bip_39_word_new_br6: clean<br>emotion<br>love<br>asset<br>helmet<br>royal
+bip_39_word_new_br7: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect
+bip_39_word_new_br8: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak
+bip_39_word_new_br9: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town
+bip_39_word_new_line1: clean
+bip_39_word_new_line10: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak
+
+  town
+
+  call'
+bip_39_word_new_line11: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak
+
+  town
+
+  call
+
+  suggest'
+bip_39_word_new_line12: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak
+
+  town
+
+  call
+
+  suggest
+
+  ankle'
+bip_39_word_new_line2: 'clean
+
+  emotion'
+bip_39_word_new_line3: 'clean
+
+  emotion
+
+  love'
+bip_39_word_new_line4: 'clean
+
+  emotion
+
+  love
+
+  asset'
+bip_39_word_new_line5: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet'
+bip_39_word_new_line6: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal'
+bip_39_word_new_line7: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect'
+bip_39_word_new_line8: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak'
+bip_39_word_new_line9: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak
+
+  town'
+bip_39_word_space_0:
+- clean
+- emotion
+- love
+- asset
+- helmet
+- royal
+- suspect
+- steak
+- town
+- call
+- suggest
+- ankle
+bip_39_word_space_1: clean
+bip_39_word_space_10: clean emotion love asset helmet royal suspect steak town call
+bip_39_word_space_11: clean emotion love asset helmet royal suspect steak town call
+  suggest
+bip_39_word_space_12: clean emotion love asset helmet royal suspect steak town call
+  suggest ankle
+bip_39_word_space_2: clean emotion
+bip_39_word_space_3: clean emotion love
+bip_39_word_space_4: clean emotion love asset
+bip_39_word_space_5: clean emotion love asset helmet
+bip_39_word_space_6: clean emotion love asset helmet royal
+bip_39_word_space_7: clean emotion love asset helmet royal suspect
+bip_39_word_space_8: clean emotion love asset helmet royal suspect steak
+bip_39_word_space_9: clean emotion love asset helmet royal suspect steak town
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

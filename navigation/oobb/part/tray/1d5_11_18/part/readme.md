@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: caught black
+  * bip 39 word 3: caught black salmon
+  * bip 39 word: caught black salmon situate train critic permit chest coin essay symptom afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | caught |  
+| bip_39_word_new_br10 | caught<br>black<br>salmon<br>situate<br>train<br>critic<br>permit<br>chest<br>coin<br>essay |  
+| bip_39_word_new_br11 | caught<br>black<br>salmon<br>situate<br>train<br>critic<br>permit<br>chest<br>coin<br>essay<br>symptom |  
+| bip_39_word_new_br12 | caught<br>black<br>salmon<br>situate<br>train<br>critic<br>permit<br>chest<br>coin<br>essay<br>symptom<br>afraid |  
+| bip_39_word_new_br2 | caught<br>black |  
+| bip_39_word_new_br3 | caught<br>black<br>salmon |  
+| bip_39_word_new_br4 | caught<br>black<br>salmon<br>situate |  
+| bip_39_word_new_br5 | caught<br>black<br>salmon<br>situate<br>train |  
+| bip_39_word_new_br6 | caught<br>black<br>salmon<br>situate<br>train<br>critic |  
+| bip_39_word_new_br7 | caught<br>black<br>salmon<br>situate<br>train<br>critic<br>permit |  
+| bip_39_word_new_br8 | caught<br>black<br>salmon<br>situate<br>train<br>critic<br>permit<br>chest |  
+| bip_39_word_new_br9 | caught<br>black<br>salmon<br>situate<br>train<br>critic<br>permit<br>chest<br>coin |  
+| bip_39_word_new_line1 | caught |  
+| bip_39_word_new_line10 | caught
+black
+salmon
+situate
+train
+critic
+permit
+chest
+coin
+essay |  
+| bip_39_word_new_line11 | caught
+black
+salmon
+situate
+train
+critic
+permit
+chest
+coin
+essay
+symptom |  
+| bip_39_word_new_line12 | caught
+black
+salmon
+situate
+train
+critic
+permit
+chest
+coin
+essay
+symptom
+afraid |  
+| bip_39_word_new_line2 | caught
+black |  
+| bip_39_word_new_line3 | caught
+black
+salmon |  
+| bip_39_word_new_line4 | caught
+black
+salmon
+situate |  
+| bip_39_word_new_line5 | caught
+black
+salmon
+situate
+train |  
+| bip_39_word_new_line6 | caught
+black
+salmon
+situate
+train
+critic |  
+| bip_39_word_new_line7 | caught
+black
+salmon
+situate
+train
+critic
+permit |  
+| bip_39_word_new_line8 | caught
+black
+salmon
+situate
+train
+critic
+permit
+chest |  
+| bip_39_word_new_line9 | caught
+black
+salmon
+situate
+train
+critic
+permit
+chest
+coin |  
+| bip_39_word_space_0 | ['caught', 'black', 'salmon', 'situate', 'train', 'critic', 'permit', 'chest', 'coin', 'essay', 'symptom', 'afraid'] |  
+| bip_39_word_space_1 | caught |  
+| bip_39_word_space_10 | caught black salmon situate train critic permit chest coin essay |  
+| bip_39_word_space_11 | caught black salmon situate train critic permit chest coin essay symptom |  
+| bip_39_word_space_12 | caught black salmon situate train critic permit chest coin essay symptom afraid |  
+| bip_39_word_space_2 | caught black |  
+| bip_39_word_space_3 | caught black salmon |  
+| bip_39_word_space_4 | caught black salmon situate |  
+| bip_39_word_space_5 | caught black salmon situate train |  
+| bip_39_word_space_6 | caught black salmon situate train critic |  
+| bip_39_word_space_7 | caught black salmon situate train critic permit |  
+| bip_39_word_space_8 | caught black salmon situate train critic permit chest |  
+| bip_39_word_space_9 | caught black salmon situate train critic permit chest coin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

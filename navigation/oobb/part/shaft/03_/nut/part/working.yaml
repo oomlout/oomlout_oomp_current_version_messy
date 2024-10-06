@@ -1,3 +1,186 @@
+bip_39_word_new_br1: render
+bip_39_word_new_br10: render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog<br>debate<br>keen<br>boss<br>once
+bip_39_word_new_br11: render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog<br>debate<br>keen<br>boss<br>once<br>neutral
+bip_39_word_new_br12: render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog<br>debate<br>keen<br>boss<br>once<br>neutral<br>adjust
+bip_39_word_new_br2: render<br>snow
+bip_39_word_new_br3: render<br>snow<br>lend
+bip_39_word_new_br4: render<br>snow<br>lend<br>sheriff
+bip_39_word_new_br5: render<br>snow<br>lend<br>sheriff<br>trophy
+bip_39_word_new_br6: render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog
+bip_39_word_new_br7: render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog<br>debate
+bip_39_word_new_br8: render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog<br>debate<br>keen
+bip_39_word_new_br9: render<br>snow<br>lend<br>sheriff<br>trophy<br>catalog<br>debate<br>keen<br>boss
+bip_39_word_new_line1: render
+bip_39_word_new_line10: 'render
+
+  snow
+
+  lend
+
+  sheriff
+
+  trophy
+
+  catalog
+
+  debate
+
+  keen
+
+  boss
+
+  once'
+bip_39_word_new_line11: 'render
+
+  snow
+
+  lend
+
+  sheriff
+
+  trophy
+
+  catalog
+
+  debate
+
+  keen
+
+  boss
+
+  once
+
+  neutral'
+bip_39_word_new_line12: 'render
+
+  snow
+
+  lend
+
+  sheriff
+
+  trophy
+
+  catalog
+
+  debate
+
+  keen
+
+  boss
+
+  once
+
+  neutral
+
+  adjust'
+bip_39_word_new_line2: 'render
+
+  snow'
+bip_39_word_new_line3: 'render
+
+  snow
+
+  lend'
+bip_39_word_new_line4: 'render
+
+  snow
+
+  lend
+
+  sheriff'
+bip_39_word_new_line5: 'render
+
+  snow
+
+  lend
+
+  sheriff
+
+  trophy'
+bip_39_word_new_line6: 'render
+
+  snow
+
+  lend
+
+  sheriff
+
+  trophy
+
+  catalog'
+bip_39_word_new_line7: 'render
+
+  snow
+
+  lend
+
+  sheriff
+
+  trophy
+
+  catalog
+
+  debate'
+bip_39_word_new_line8: 'render
+
+  snow
+
+  lend
+
+  sheriff
+
+  trophy
+
+  catalog
+
+  debate
+
+  keen'
+bip_39_word_new_line9: 'render
+
+  snow
+
+  lend
+
+  sheriff
+
+  trophy
+
+  catalog
+
+  debate
+
+  keen
+
+  boss'
+bip_39_word_space_0:
+- render
+- snow
+- lend
+- sheriff
+- trophy
+- catalog
+- debate
+- keen
+- boss
+- once
+- neutral
+- adjust
+bip_39_word_space_1: render
+bip_39_word_space_10: render snow lend sheriff trophy catalog debate keen boss once
+bip_39_word_space_11: render snow lend sheriff trophy catalog debate keen boss once
+  neutral
+bip_39_word_space_12: render snow lend sheriff trophy catalog debate keen boss once
+  neutral adjust
+bip_39_word_space_2: render snow
+bip_39_word_space_3: render snow lend
+bip_39_word_space_4: render snow lend sheriff
+bip_39_word_space_5: render snow lend sheriff trophy
+bip_39_word_space_6: render snow lend sheriff trophy catalog
+bip_39_word_space_7: render snow lend sheriff trophy catalog debate
+bip_39_word_space_8: render snow lend sheriff trophy catalog debate keen
+bip_39_word_space_9: render snow lend sheriff trophy catalog debate keen boss
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

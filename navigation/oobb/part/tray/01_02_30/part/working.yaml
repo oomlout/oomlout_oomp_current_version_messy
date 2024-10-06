@@ -1,3 +1,186 @@
+bip_39_word_new_br1: kitchen
+bip_39_word_new_br10: kitchen<br>easily<br>usual<br>elite<br>again<br>rotate<br>soft<br>whisper<br>exact<br>early
+bip_39_word_new_br11: kitchen<br>easily<br>usual<br>elite<br>again<br>rotate<br>soft<br>whisper<br>exact<br>early<br>fruit
+bip_39_word_new_br12: kitchen<br>easily<br>usual<br>elite<br>again<br>rotate<br>soft<br>whisper<br>exact<br>early<br>fruit<br>absurd
+bip_39_word_new_br2: kitchen<br>easily
+bip_39_word_new_br3: kitchen<br>easily<br>usual
+bip_39_word_new_br4: kitchen<br>easily<br>usual<br>elite
+bip_39_word_new_br5: kitchen<br>easily<br>usual<br>elite<br>again
+bip_39_word_new_br6: kitchen<br>easily<br>usual<br>elite<br>again<br>rotate
+bip_39_word_new_br7: kitchen<br>easily<br>usual<br>elite<br>again<br>rotate<br>soft
+bip_39_word_new_br8: kitchen<br>easily<br>usual<br>elite<br>again<br>rotate<br>soft<br>whisper
+bip_39_word_new_br9: kitchen<br>easily<br>usual<br>elite<br>again<br>rotate<br>soft<br>whisper<br>exact
+bip_39_word_new_line1: kitchen
+bip_39_word_new_line10: 'kitchen
+
+  easily
+
+  usual
+
+  elite
+
+  again
+
+  rotate
+
+  soft
+
+  whisper
+
+  exact
+
+  early'
+bip_39_word_new_line11: 'kitchen
+
+  easily
+
+  usual
+
+  elite
+
+  again
+
+  rotate
+
+  soft
+
+  whisper
+
+  exact
+
+  early
+
+  fruit'
+bip_39_word_new_line12: 'kitchen
+
+  easily
+
+  usual
+
+  elite
+
+  again
+
+  rotate
+
+  soft
+
+  whisper
+
+  exact
+
+  early
+
+  fruit
+
+  absurd'
+bip_39_word_new_line2: 'kitchen
+
+  easily'
+bip_39_word_new_line3: 'kitchen
+
+  easily
+
+  usual'
+bip_39_word_new_line4: 'kitchen
+
+  easily
+
+  usual
+
+  elite'
+bip_39_word_new_line5: 'kitchen
+
+  easily
+
+  usual
+
+  elite
+
+  again'
+bip_39_word_new_line6: 'kitchen
+
+  easily
+
+  usual
+
+  elite
+
+  again
+
+  rotate'
+bip_39_word_new_line7: 'kitchen
+
+  easily
+
+  usual
+
+  elite
+
+  again
+
+  rotate
+
+  soft'
+bip_39_word_new_line8: 'kitchen
+
+  easily
+
+  usual
+
+  elite
+
+  again
+
+  rotate
+
+  soft
+
+  whisper'
+bip_39_word_new_line9: 'kitchen
+
+  easily
+
+  usual
+
+  elite
+
+  again
+
+  rotate
+
+  soft
+
+  whisper
+
+  exact'
+bip_39_word_space_0:
+- kitchen
+- easily
+- usual
+- elite
+- again
+- rotate
+- soft
+- whisper
+- exact
+- early
+- fruit
+- absurd
+bip_39_word_space_1: kitchen
+bip_39_word_space_10: kitchen easily usual elite again rotate soft whisper exact early
+bip_39_word_space_11: kitchen easily usual elite again rotate soft whisper exact early
+  fruit
+bip_39_word_space_12: kitchen easily usual elite again rotate soft whisper exact early
+  fruit absurd
+bip_39_word_space_2: kitchen easily
+bip_39_word_space_3: kitchen easily usual
+bip_39_word_space_4: kitchen easily usual elite
+bip_39_word_space_5: kitchen easily usual elite again
+bip_39_word_space_6: kitchen easily usual elite again rotate
+bip_39_word_space_7: kitchen easily usual elite again rotate soft
+bip_39_word_space_8: kitchen easily usual elite again rotate soft whisper
+bip_39_word_space_9: kitchen easily usual elite again rotate soft whisper exact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

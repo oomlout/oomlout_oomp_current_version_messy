@@ -1,3 +1,187 @@
+bip_39_word_new_br1: scheme
+bip_39_word_new_br10: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce
+bip_39_word_new_br11: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce<br>card
+bip_39_word_new_br12: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen<br>sauce<br>card<br>adapt
+bip_39_word_new_br2: scheme<br>eager
+bip_39_word_new_br3: scheme<br>eager<br>busy
+bip_39_word_new_br4: scheme<br>eager<br>busy<br>pelican
+bip_39_word_new_br5: scheme<br>eager<br>busy<br>pelican<br>curious
+bip_39_word_new_br6: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit
+bip_39_word_new_br7: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate
+bip_39_word_new_br8: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super
+bip_39_word_new_br9: scheme<br>eager<br>busy<br>pelican<br>curious<br>exit<br>imitate<br>super<br>citizen
+bip_39_word_new_line1: scheme
+bip_39_word_new_line10: 'scheme
+
+  eager
+
+  busy
+
+  pelican
+
+  curious
+
+  exit
+
+  imitate
+
+  super
+
+  citizen
+
+  sauce'
+bip_39_word_new_line11: 'scheme
+
+  eager
+
+  busy
+
+  pelican
+
+  curious
+
+  exit
+
+  imitate
+
+  super
+
+  citizen
+
+  sauce
+
+  card'
+bip_39_word_new_line12: 'scheme
+
+  eager
+
+  busy
+
+  pelican
+
+  curious
+
+  exit
+
+  imitate
+
+  super
+
+  citizen
+
+  sauce
+
+  card
+
+  adapt'
+bip_39_word_new_line2: 'scheme
+
+  eager'
+bip_39_word_new_line3: 'scheme
+
+  eager
+
+  busy'
+bip_39_word_new_line4: 'scheme
+
+  eager
+
+  busy
+
+  pelican'
+bip_39_word_new_line5: 'scheme
+
+  eager
+
+  busy
+
+  pelican
+
+  curious'
+bip_39_word_new_line6: 'scheme
+
+  eager
+
+  busy
+
+  pelican
+
+  curious
+
+  exit'
+bip_39_word_new_line7: 'scheme
+
+  eager
+
+  busy
+
+  pelican
+
+  curious
+
+  exit
+
+  imitate'
+bip_39_word_new_line8: 'scheme
+
+  eager
+
+  busy
+
+  pelican
+
+  curious
+
+  exit
+
+  imitate
+
+  super'
+bip_39_word_new_line9: 'scheme
+
+  eager
+
+  busy
+
+  pelican
+
+  curious
+
+  exit
+
+  imitate
+
+  super
+
+  citizen'
+bip_39_word_space_0:
+- scheme
+- eager
+- busy
+- pelican
+- curious
+- exit
+- imitate
+- super
+- citizen
+- sauce
+- card
+- adapt
+bip_39_word_space_1: scheme
+bip_39_word_space_10: scheme eager busy pelican curious exit imitate super citizen
+  sauce
+bip_39_word_space_11: scheme eager busy pelican curious exit imitate super citizen
+  sauce card
+bip_39_word_space_12: scheme eager busy pelican curious exit imitate super citizen
+  sauce card adapt
+bip_39_word_space_2: scheme eager
+bip_39_word_space_3: scheme eager busy
+bip_39_word_space_4: scheme eager busy pelican
+bip_39_word_space_5: scheme eager busy pelican curious
+bip_39_word_space_6: scheme eager busy pelican curious exit
+bip_39_word_space_7: scheme eager busy pelican curious exit imitate
+bip_39_word_space_8: scheme eager busy pelican curious exit imitate super
+bip_39_word_space_9: scheme eager busy pelican curious exit imitate super citizen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

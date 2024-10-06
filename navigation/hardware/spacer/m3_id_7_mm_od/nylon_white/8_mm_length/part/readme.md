@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enemy knock
+  * bip 39 word 3: enemy knock bicycle
+  * bip 39 word: enemy knock bicycle view acid shoot second vote melt journey country agree
 
 ### other_codes
 * short_code: sp3x7nw8
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enemy |  
+| bip_39_word_new_br10 | enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot<br>second<br>vote<br>melt<br>journey |  
+| bip_39_word_new_br11 | enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot<br>second<br>vote<br>melt<br>journey<br>country |  
+| bip_39_word_new_br12 | enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot<br>second<br>vote<br>melt<br>journey<br>country<br>agree |  
+| bip_39_word_new_br2 | enemy<br>knock |  
+| bip_39_word_new_br3 | enemy<br>knock<br>bicycle |  
+| bip_39_word_new_br4 | enemy<br>knock<br>bicycle<br>view |  
+| bip_39_word_new_br5 | enemy<br>knock<br>bicycle<br>view<br>acid |  
+| bip_39_word_new_br6 | enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot |  
+| bip_39_word_new_br7 | enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot<br>second |  
+| bip_39_word_new_br8 | enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot<br>second<br>vote |  
+| bip_39_word_new_br9 | enemy<br>knock<br>bicycle<br>view<br>acid<br>shoot<br>second<br>vote<br>melt |  
+| bip_39_word_new_line1 | enemy |  
+| bip_39_word_new_line10 | enemy
+knock
+bicycle
+view
+acid
+shoot
+second
+vote
+melt
+journey |  
+| bip_39_word_new_line11 | enemy
+knock
+bicycle
+view
+acid
+shoot
+second
+vote
+melt
+journey
+country |  
+| bip_39_word_new_line12 | enemy
+knock
+bicycle
+view
+acid
+shoot
+second
+vote
+melt
+journey
+country
+agree |  
+| bip_39_word_new_line2 | enemy
+knock |  
+| bip_39_word_new_line3 | enemy
+knock
+bicycle |  
+| bip_39_word_new_line4 | enemy
+knock
+bicycle
+view |  
+| bip_39_word_new_line5 | enemy
+knock
+bicycle
+view
+acid |  
+| bip_39_word_new_line6 | enemy
+knock
+bicycle
+view
+acid
+shoot |  
+| bip_39_word_new_line7 | enemy
+knock
+bicycle
+view
+acid
+shoot
+second |  
+| bip_39_word_new_line8 | enemy
+knock
+bicycle
+view
+acid
+shoot
+second
+vote |  
+| bip_39_word_new_line9 | enemy
+knock
+bicycle
+view
+acid
+shoot
+second
+vote
+melt |  
+| bip_39_word_space_0 | ['enemy', 'knock', 'bicycle', 'view', 'acid', 'shoot', 'second', 'vote', 'melt', 'journey', 'country', 'agree'] |  
+| bip_39_word_space_1 | enemy |  
+| bip_39_word_space_10 | enemy knock bicycle view acid shoot second vote melt journey |  
+| bip_39_word_space_11 | enemy knock bicycle view acid shoot second vote melt journey country |  
+| bip_39_word_space_12 | enemy knock bicycle view acid shoot second vote melt journey country agree |  
+| bip_39_word_space_2 | enemy knock |  
+| bip_39_word_space_3 | enemy knock bicycle |  
+| bip_39_word_space_4 | enemy knock bicycle view |  
+| bip_39_word_space_5 | enemy knock bicycle view acid |  
+| bip_39_word_space_6 | enemy knock bicycle view acid shoot |  
+| bip_39_word_space_7 | enemy knock bicycle view acid shoot second |  
+| bip_39_word_space_8 | enemy knock bicycle view acid shoot second vote |  
+| bip_39_word_space_9 | enemy knock bicycle view acid shoot second vote melt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

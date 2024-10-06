@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mosquito
+bip_39_word_new_br10: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move
+bip_39_word_new_br11: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move<br>beyond
+bip_39_word_new_br12: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase<br>move<br>beyond<br>asthma
+bip_39_word_new_br2: mosquito<br>crunch
+bip_39_word_new_br3: mosquito<br>crunch<br>monster
+bip_39_word_new_br4: mosquito<br>crunch<br>monster<br>detect
+bip_39_word_new_br5: mosquito<br>crunch<br>monster<br>detect<br>spoil
+bip_39_word_new_br6: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode
+bip_39_word_new_br7: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ
+bip_39_word_new_br8: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit
+bip_39_word_new_br9: mosquito<br>crunch<br>monster<br>detect<br>spoil<br>episode<br>differ<br>benefit<br>chase
+bip_39_word_new_line1: mosquito
+bip_39_word_new_line10: 'mosquito
+
+  crunch
+
+  monster
+
+  detect
+
+  spoil
+
+  episode
+
+  differ
+
+  benefit
+
+  chase
+
+  move'
+bip_39_word_new_line11: 'mosquito
+
+  crunch
+
+  monster
+
+  detect
+
+  spoil
+
+  episode
+
+  differ
+
+  benefit
+
+  chase
+
+  move
+
+  beyond'
+bip_39_word_new_line12: 'mosquito
+
+  crunch
+
+  monster
+
+  detect
+
+  spoil
+
+  episode
+
+  differ
+
+  benefit
+
+  chase
+
+  move
+
+  beyond
+
+  asthma'
+bip_39_word_new_line2: 'mosquito
+
+  crunch'
+bip_39_word_new_line3: 'mosquito
+
+  crunch
+
+  monster'
+bip_39_word_new_line4: 'mosquito
+
+  crunch
+
+  monster
+
+  detect'
+bip_39_word_new_line5: 'mosquito
+
+  crunch
+
+  monster
+
+  detect
+
+  spoil'
+bip_39_word_new_line6: 'mosquito
+
+  crunch
+
+  monster
+
+  detect
+
+  spoil
+
+  episode'
+bip_39_word_new_line7: 'mosquito
+
+  crunch
+
+  monster
+
+  detect
+
+  spoil
+
+  episode
+
+  differ'
+bip_39_word_new_line8: 'mosquito
+
+  crunch
+
+  monster
+
+  detect
+
+  spoil
+
+  episode
+
+  differ
+
+  benefit'
+bip_39_word_new_line9: 'mosquito
+
+  crunch
+
+  monster
+
+  detect
+
+  spoil
+
+  episode
+
+  differ
+
+  benefit
+
+  chase'
+bip_39_word_space_0:
+- mosquito
+- crunch
+- monster
+- detect
+- spoil
+- episode
+- differ
+- benefit
+- chase
+- move
+- beyond
+- asthma
+bip_39_word_space_1: mosquito
+bip_39_word_space_10: mosquito crunch monster detect spoil episode differ benefit
+  chase move
+bip_39_word_space_11: mosquito crunch monster detect spoil episode differ benefit
+  chase move beyond
+bip_39_word_space_12: mosquito crunch monster detect spoil episode differ benefit
+  chase move beyond asthma
+bip_39_word_space_2: mosquito crunch
+bip_39_word_space_3: mosquito crunch monster
+bip_39_word_space_4: mosquito crunch monster detect
+bip_39_word_space_5: mosquito crunch monster detect spoil
+bip_39_word_space_6: mosquito crunch monster detect spoil episode
+bip_39_word_space_7: mosquito crunch monster detect spoil episode differ
+bip_39_word_space_8: mosquito crunch monster detect spoil episode differ benefit
+bip_39_word_space_9: mosquito crunch monster detect spoil episode differ benefit chase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

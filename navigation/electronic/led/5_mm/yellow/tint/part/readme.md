@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blush exact
+  * bip 39 word 3: blush exact canal
+  * bip 39 word: blush exact canal attitude royal seminar anchor tomorrow rotate evoke upper asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blush |  
+| bip_39_word_new_br10 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar<br>anchor<br>tomorrow<br>rotate<br>evoke |  
+| bip_39_word_new_br11 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar<br>anchor<br>tomorrow<br>rotate<br>evoke<br>upper |  
+| bip_39_word_new_br12 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar<br>anchor<br>tomorrow<br>rotate<br>evoke<br>upper<br>asthma |  
+| bip_39_word_new_br2 | blush<br>exact |  
+| bip_39_word_new_br3 | blush<br>exact<br>canal |  
+| bip_39_word_new_br4 | blush<br>exact<br>canal<br>attitude |  
+| bip_39_word_new_br5 | blush<br>exact<br>canal<br>attitude<br>royal |  
+| bip_39_word_new_br6 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar |  
+| bip_39_word_new_br7 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar<br>anchor |  
+| bip_39_word_new_br8 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar<br>anchor<br>tomorrow |  
+| bip_39_word_new_br9 | blush<br>exact<br>canal<br>attitude<br>royal<br>seminar<br>anchor<br>tomorrow<br>rotate |  
+| bip_39_word_new_line1 | blush |  
+| bip_39_word_new_line10 | blush
+exact
+canal
+attitude
+royal
+seminar
+anchor
+tomorrow
+rotate
+evoke |  
+| bip_39_word_new_line11 | blush
+exact
+canal
+attitude
+royal
+seminar
+anchor
+tomorrow
+rotate
+evoke
+upper |  
+| bip_39_word_new_line12 | blush
+exact
+canal
+attitude
+royal
+seminar
+anchor
+tomorrow
+rotate
+evoke
+upper
+asthma |  
+| bip_39_word_new_line2 | blush
+exact |  
+| bip_39_word_new_line3 | blush
+exact
+canal |  
+| bip_39_word_new_line4 | blush
+exact
+canal
+attitude |  
+| bip_39_word_new_line5 | blush
+exact
+canal
+attitude
+royal |  
+| bip_39_word_new_line6 | blush
+exact
+canal
+attitude
+royal
+seminar |  
+| bip_39_word_new_line7 | blush
+exact
+canal
+attitude
+royal
+seminar
+anchor |  
+| bip_39_word_new_line8 | blush
+exact
+canal
+attitude
+royal
+seminar
+anchor
+tomorrow |  
+| bip_39_word_new_line9 | blush
+exact
+canal
+attitude
+royal
+seminar
+anchor
+tomorrow
+rotate |  
+| bip_39_word_space_0 | ['blush', 'exact', 'canal', 'attitude', 'royal', 'seminar', 'anchor', 'tomorrow', 'rotate', 'evoke', 'upper', 'asthma'] |  
+| bip_39_word_space_1 | blush |  
+| bip_39_word_space_10 | blush exact canal attitude royal seminar anchor tomorrow rotate evoke |  
+| bip_39_word_space_11 | blush exact canal attitude royal seminar anchor tomorrow rotate evoke upper |  
+| bip_39_word_space_12 | blush exact canal attitude royal seminar anchor tomorrow rotate evoke upper asthma |  
+| bip_39_word_space_2 | blush exact |  
+| bip_39_word_space_3 | blush exact canal |  
+| bip_39_word_space_4 | blush exact canal attitude |  
+| bip_39_word_space_5 | blush exact canal attitude royal |  
+| bip_39_word_space_6 | blush exact canal attitude royal seminar |  
+| bip_39_word_space_7 | blush exact canal attitude royal seminar anchor |  
+| bip_39_word_space_8 | blush exact canal attitude royal seminar anchor tomorrow |  
+| bip_39_word_space_9 | blush exact canal attitude royal seminar anchor tomorrow rotate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vacuum protect
+  * bip 39 word 3: vacuum protect distance
+  * bip 39 word: vacuum protect distance carry hat crazy beauty paddle day doll bean address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vacuum |  
+| bip_39_word_new_br10 | vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy<br>beauty<br>paddle<br>day<br>doll |  
+| bip_39_word_new_br11 | vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy<br>beauty<br>paddle<br>day<br>doll<br>bean |  
+| bip_39_word_new_br12 | vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy<br>beauty<br>paddle<br>day<br>doll<br>bean<br>address |  
+| bip_39_word_new_br2 | vacuum<br>protect |  
+| bip_39_word_new_br3 | vacuum<br>protect<br>distance |  
+| bip_39_word_new_br4 | vacuum<br>protect<br>distance<br>carry |  
+| bip_39_word_new_br5 | vacuum<br>protect<br>distance<br>carry<br>hat |  
+| bip_39_word_new_br6 | vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy |  
+| bip_39_word_new_br7 | vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy<br>beauty |  
+| bip_39_word_new_br8 | vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy<br>beauty<br>paddle |  
+| bip_39_word_new_br9 | vacuum<br>protect<br>distance<br>carry<br>hat<br>crazy<br>beauty<br>paddle<br>day |  
+| bip_39_word_new_line1 | vacuum |  
+| bip_39_word_new_line10 | vacuum
+protect
+distance
+carry
+hat
+crazy
+beauty
+paddle
+day
+doll |  
+| bip_39_word_new_line11 | vacuum
+protect
+distance
+carry
+hat
+crazy
+beauty
+paddle
+day
+doll
+bean |  
+| bip_39_word_new_line12 | vacuum
+protect
+distance
+carry
+hat
+crazy
+beauty
+paddle
+day
+doll
+bean
+address |  
+| bip_39_word_new_line2 | vacuum
+protect |  
+| bip_39_word_new_line3 | vacuum
+protect
+distance |  
+| bip_39_word_new_line4 | vacuum
+protect
+distance
+carry |  
+| bip_39_word_new_line5 | vacuum
+protect
+distance
+carry
+hat |  
+| bip_39_word_new_line6 | vacuum
+protect
+distance
+carry
+hat
+crazy |  
+| bip_39_word_new_line7 | vacuum
+protect
+distance
+carry
+hat
+crazy
+beauty |  
+| bip_39_word_new_line8 | vacuum
+protect
+distance
+carry
+hat
+crazy
+beauty
+paddle |  
+| bip_39_word_new_line9 | vacuum
+protect
+distance
+carry
+hat
+crazy
+beauty
+paddle
+day |  
+| bip_39_word_space_0 | ['vacuum', 'protect', 'distance', 'carry', 'hat', 'crazy', 'beauty', 'paddle', 'day', 'doll', 'bean', 'address'] |  
+| bip_39_word_space_1 | vacuum |  
+| bip_39_word_space_10 | vacuum protect distance carry hat crazy beauty paddle day doll |  
+| bip_39_word_space_11 | vacuum protect distance carry hat crazy beauty paddle day doll bean |  
+| bip_39_word_space_12 | vacuum protect distance carry hat crazy beauty paddle day doll bean address |  
+| bip_39_word_space_2 | vacuum protect |  
+| bip_39_word_space_3 | vacuum protect distance |  
+| bip_39_word_space_4 | vacuum protect distance carry |  
+| bip_39_word_space_5 | vacuum protect distance carry hat |  
+| bip_39_word_space_6 | vacuum protect distance carry hat crazy |  
+| bip_39_word_space_7 | vacuum protect distance carry hat crazy beauty |  
+| bip_39_word_space_8 | vacuum protect distance carry hat crazy beauty paddle |  
+| bip_39_word_space_9 | vacuum protect distance carry hat crazy beauty paddle day |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

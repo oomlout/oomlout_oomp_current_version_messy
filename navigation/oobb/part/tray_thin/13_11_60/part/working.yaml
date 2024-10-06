@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fiscal
+bip_39_word_new_br10: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click
+bip_39_word_new_br11: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click<br>swarm
+bip_39_word_new_br12: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley<br>click<br>swarm<br>aunt
+bip_39_word_new_br2: fiscal<br>aisle
+bip_39_word_new_br3: fiscal<br>aisle<br>boost
+bip_39_word_new_br4: fiscal<br>aisle<br>boost<br>hazard
+bip_39_word_new_br5: fiscal<br>aisle<br>boost<br>hazard<br>voice
+bip_39_word_new_br6: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny
+bip_39_word_new_br7: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way
+bip_39_word_new_br8: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong
+bip_39_word_new_br9: fiscal<br>aisle<br>boost<br>hazard<br>voice<br>tiny<br>way<br>wrong<br>alley
+bip_39_word_new_line1: fiscal
+bip_39_word_new_line10: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard
+
+  voice
+
+  tiny
+
+  way
+
+  wrong
+
+  alley
+
+  click'
+bip_39_word_new_line11: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard
+
+  voice
+
+  tiny
+
+  way
+
+  wrong
+
+  alley
+
+  click
+
+  swarm'
+bip_39_word_new_line12: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard
+
+  voice
+
+  tiny
+
+  way
+
+  wrong
+
+  alley
+
+  click
+
+  swarm
+
+  aunt'
+bip_39_word_new_line2: 'fiscal
+
+  aisle'
+bip_39_word_new_line3: 'fiscal
+
+  aisle
+
+  boost'
+bip_39_word_new_line4: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard'
+bip_39_word_new_line5: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard
+
+  voice'
+bip_39_word_new_line6: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard
+
+  voice
+
+  tiny'
+bip_39_word_new_line7: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard
+
+  voice
+
+  tiny
+
+  way'
+bip_39_word_new_line8: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard
+
+  voice
+
+  tiny
+
+  way
+
+  wrong'
+bip_39_word_new_line9: 'fiscal
+
+  aisle
+
+  boost
+
+  hazard
+
+  voice
+
+  tiny
+
+  way
+
+  wrong
+
+  alley'
+bip_39_word_space_0:
+- fiscal
+- aisle
+- boost
+- hazard
+- voice
+- tiny
+- way
+- wrong
+- alley
+- click
+- swarm
+- aunt
+bip_39_word_space_1: fiscal
+bip_39_word_space_10: fiscal aisle boost hazard voice tiny way wrong alley click
+bip_39_word_space_11: fiscal aisle boost hazard voice tiny way wrong alley click swarm
+bip_39_word_space_12: fiscal aisle boost hazard voice tiny way wrong alley click swarm
+  aunt
+bip_39_word_space_2: fiscal aisle
+bip_39_word_space_3: fiscal aisle boost
+bip_39_word_space_4: fiscal aisle boost hazard
+bip_39_word_space_5: fiscal aisle boost hazard voice
+bip_39_word_space_6: fiscal aisle boost hazard voice tiny
+bip_39_word_space_7: fiscal aisle boost hazard voice tiny way
+bip_39_word_space_8: fiscal aisle boost hazard voice tiny way wrong
+bip_39_word_space_9: fiscal aisle boost hazard voice tiny way wrong alley
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faith film
+  * bip 39 word 3: faith film believe
+  * bip 39 word: faith film believe assist spy power universe obtain light transfer dial amateur
 
 ### other_codes
 * short_code: sc6b25h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faith |  
+| bip_39_word_new_br10 | faith<br>film<br>believe<br>assist<br>spy<br>power<br>universe<br>obtain<br>light<br>transfer |  
+| bip_39_word_new_br11 | faith<br>film<br>believe<br>assist<br>spy<br>power<br>universe<br>obtain<br>light<br>transfer<br>dial |  
+| bip_39_word_new_br12 | faith<br>film<br>believe<br>assist<br>spy<br>power<br>universe<br>obtain<br>light<br>transfer<br>dial<br>amateur |  
+| bip_39_word_new_br2 | faith<br>film |  
+| bip_39_word_new_br3 | faith<br>film<br>believe |  
+| bip_39_word_new_br4 | faith<br>film<br>believe<br>assist |  
+| bip_39_word_new_br5 | faith<br>film<br>believe<br>assist<br>spy |  
+| bip_39_word_new_br6 | faith<br>film<br>believe<br>assist<br>spy<br>power |  
+| bip_39_word_new_br7 | faith<br>film<br>believe<br>assist<br>spy<br>power<br>universe |  
+| bip_39_word_new_br8 | faith<br>film<br>believe<br>assist<br>spy<br>power<br>universe<br>obtain |  
+| bip_39_word_new_br9 | faith<br>film<br>believe<br>assist<br>spy<br>power<br>universe<br>obtain<br>light |  
+| bip_39_word_new_line1 | faith |  
+| bip_39_word_new_line10 | faith
+film
+believe
+assist
+spy
+power
+universe
+obtain
+light
+transfer |  
+| bip_39_word_new_line11 | faith
+film
+believe
+assist
+spy
+power
+universe
+obtain
+light
+transfer
+dial |  
+| bip_39_word_new_line12 | faith
+film
+believe
+assist
+spy
+power
+universe
+obtain
+light
+transfer
+dial
+amateur |  
+| bip_39_word_new_line2 | faith
+film |  
+| bip_39_word_new_line3 | faith
+film
+believe |  
+| bip_39_word_new_line4 | faith
+film
+believe
+assist |  
+| bip_39_word_new_line5 | faith
+film
+believe
+assist
+spy |  
+| bip_39_word_new_line6 | faith
+film
+believe
+assist
+spy
+power |  
+| bip_39_word_new_line7 | faith
+film
+believe
+assist
+spy
+power
+universe |  
+| bip_39_word_new_line8 | faith
+film
+believe
+assist
+spy
+power
+universe
+obtain |  
+| bip_39_word_new_line9 | faith
+film
+believe
+assist
+spy
+power
+universe
+obtain
+light |  
+| bip_39_word_space_0 | ['faith', 'film', 'believe', 'assist', 'spy', 'power', 'universe', 'obtain', 'light', 'transfer', 'dial', 'amateur'] |  
+| bip_39_word_space_1 | faith |  
+| bip_39_word_space_10 | faith film believe assist spy power universe obtain light transfer |  
+| bip_39_word_space_11 | faith film believe assist spy power universe obtain light transfer dial |  
+| bip_39_word_space_12 | faith film believe assist spy power universe obtain light transfer dial amateur |  
+| bip_39_word_space_2 | faith film |  
+| bip_39_word_space_3 | faith film believe |  
+| bip_39_word_space_4 | faith film believe assist |  
+| bip_39_word_space_5 | faith film believe assist spy |  
+| bip_39_word_space_6 | faith film believe assist spy power |  
+| bip_39_word_space_7 | faith film believe assist spy power universe |  
+| bip_39_word_space_8 | faith film believe assist spy power universe obtain |  
+| bip_39_word_space_9 | faith film believe assist spy power universe obtain light |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

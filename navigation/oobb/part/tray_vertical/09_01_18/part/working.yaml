@@ -1,3 +1,187 @@
+bip_39_word_new_br1: category
+bip_39_word_new_br10: category<br>tray<br>prize<br>mention<br>custom<br>prevent<br>normal<br>spare<br>second<br>before
+bip_39_word_new_br11: category<br>tray<br>prize<br>mention<br>custom<br>prevent<br>normal<br>spare<br>second<br>before<br>alcohol
+bip_39_word_new_br12: category<br>tray<br>prize<br>mention<br>custom<br>prevent<br>normal<br>spare<br>second<br>before<br>alcohol<br>actress
+bip_39_word_new_br2: category<br>tray
+bip_39_word_new_br3: category<br>tray<br>prize
+bip_39_word_new_br4: category<br>tray<br>prize<br>mention
+bip_39_word_new_br5: category<br>tray<br>prize<br>mention<br>custom
+bip_39_word_new_br6: category<br>tray<br>prize<br>mention<br>custom<br>prevent
+bip_39_word_new_br7: category<br>tray<br>prize<br>mention<br>custom<br>prevent<br>normal
+bip_39_word_new_br8: category<br>tray<br>prize<br>mention<br>custom<br>prevent<br>normal<br>spare
+bip_39_word_new_br9: category<br>tray<br>prize<br>mention<br>custom<br>prevent<br>normal<br>spare<br>second
+bip_39_word_new_line1: category
+bip_39_word_new_line10: 'category
+
+  tray
+
+  prize
+
+  mention
+
+  custom
+
+  prevent
+
+  normal
+
+  spare
+
+  second
+
+  before'
+bip_39_word_new_line11: 'category
+
+  tray
+
+  prize
+
+  mention
+
+  custom
+
+  prevent
+
+  normal
+
+  spare
+
+  second
+
+  before
+
+  alcohol'
+bip_39_word_new_line12: 'category
+
+  tray
+
+  prize
+
+  mention
+
+  custom
+
+  prevent
+
+  normal
+
+  spare
+
+  second
+
+  before
+
+  alcohol
+
+  actress'
+bip_39_word_new_line2: 'category
+
+  tray'
+bip_39_word_new_line3: 'category
+
+  tray
+
+  prize'
+bip_39_word_new_line4: 'category
+
+  tray
+
+  prize
+
+  mention'
+bip_39_word_new_line5: 'category
+
+  tray
+
+  prize
+
+  mention
+
+  custom'
+bip_39_word_new_line6: 'category
+
+  tray
+
+  prize
+
+  mention
+
+  custom
+
+  prevent'
+bip_39_word_new_line7: 'category
+
+  tray
+
+  prize
+
+  mention
+
+  custom
+
+  prevent
+
+  normal'
+bip_39_word_new_line8: 'category
+
+  tray
+
+  prize
+
+  mention
+
+  custom
+
+  prevent
+
+  normal
+
+  spare'
+bip_39_word_new_line9: 'category
+
+  tray
+
+  prize
+
+  mention
+
+  custom
+
+  prevent
+
+  normal
+
+  spare
+
+  second'
+bip_39_word_space_0:
+- category
+- tray
+- prize
+- mention
+- custom
+- prevent
+- normal
+- spare
+- second
+- before
+- alcohol
+- actress
+bip_39_word_space_1: category
+bip_39_word_space_10: category tray prize mention custom prevent normal spare second
+  before
+bip_39_word_space_11: category tray prize mention custom prevent normal spare second
+  before alcohol
+bip_39_word_space_12: category tray prize mention custom prevent normal spare second
+  before alcohol actress
+bip_39_word_space_2: category tray
+bip_39_word_space_3: category tray prize
+bip_39_word_space_4: category tray prize mention
+bip_39_word_space_5: category tray prize mention custom
+bip_39_word_space_6: category tray prize mention custom prevent
+bip_39_word_space_7: category tray prize mention custom prevent normal
+bip_39_word_space_8: category tray prize mention custom prevent normal spare
+bip_39_word_space_9: category tray prize mention custom prevent normal spare second
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

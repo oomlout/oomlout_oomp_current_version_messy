@@ -1,3 +1,186 @@
+bip_39_word_new_br1: organ
+bip_39_word_new_br10: organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix
+bip_39_word_new_br11: organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix<br>awkward
+bip_39_word_new_br12: organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august<br>matrix<br>awkward<br>adjust
+bip_39_word_new_br2: organ<br>song
+bip_39_word_new_br3: organ<br>song<br>forum
+bip_39_word_new_br4: organ<br>song<br>forum<br>buffalo
+bip_39_word_new_br5: organ<br>song<br>forum<br>buffalo<br>give
+bip_39_word_new_br6: organ<br>song<br>forum<br>buffalo<br>give<br>turtle
+bip_39_word_new_br7: organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve
+bip_39_word_new_br8: organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn
+bip_39_word_new_br9: organ<br>song<br>forum<br>buffalo<br>give<br>turtle<br>involve<br>corn<br>august
+bip_39_word_new_line1: organ
+bip_39_word_new_line10: 'organ
+
+  song
+
+  forum
+
+  buffalo
+
+  give
+
+  turtle
+
+  involve
+
+  corn
+
+  august
+
+  matrix'
+bip_39_word_new_line11: 'organ
+
+  song
+
+  forum
+
+  buffalo
+
+  give
+
+  turtle
+
+  involve
+
+  corn
+
+  august
+
+  matrix
+
+  awkward'
+bip_39_word_new_line12: 'organ
+
+  song
+
+  forum
+
+  buffalo
+
+  give
+
+  turtle
+
+  involve
+
+  corn
+
+  august
+
+  matrix
+
+  awkward
+
+  adjust'
+bip_39_word_new_line2: 'organ
+
+  song'
+bip_39_word_new_line3: 'organ
+
+  song
+
+  forum'
+bip_39_word_new_line4: 'organ
+
+  song
+
+  forum
+
+  buffalo'
+bip_39_word_new_line5: 'organ
+
+  song
+
+  forum
+
+  buffalo
+
+  give'
+bip_39_word_new_line6: 'organ
+
+  song
+
+  forum
+
+  buffalo
+
+  give
+
+  turtle'
+bip_39_word_new_line7: 'organ
+
+  song
+
+  forum
+
+  buffalo
+
+  give
+
+  turtle
+
+  involve'
+bip_39_word_new_line8: 'organ
+
+  song
+
+  forum
+
+  buffalo
+
+  give
+
+  turtle
+
+  involve
+
+  corn'
+bip_39_word_new_line9: 'organ
+
+  song
+
+  forum
+
+  buffalo
+
+  give
+
+  turtle
+
+  involve
+
+  corn
+
+  august'
+bip_39_word_space_0:
+- organ
+- song
+- forum
+- buffalo
+- give
+- turtle
+- involve
+- corn
+- august
+- matrix
+- awkward
+- adjust
+bip_39_word_space_1: organ
+bip_39_word_space_10: organ song forum buffalo give turtle involve corn august matrix
+bip_39_word_space_11: organ song forum buffalo give turtle involve corn august matrix
+  awkward
+bip_39_word_space_12: organ song forum buffalo give turtle involve corn august matrix
+  awkward adjust
+bip_39_word_space_2: organ song
+bip_39_word_space_3: organ song forum
+bip_39_word_space_4: organ song forum buffalo
+bip_39_word_space_5: organ song forum buffalo give
+bip_39_word_space_6: organ song forum buffalo give turtle
+bip_39_word_space_7: organ song forum buffalo give turtle involve
+bip_39_word_space_8: organ song forum buffalo give turtle involve corn
+bip_39_word_space_9: organ song forum buffalo give turtle involve corn august
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

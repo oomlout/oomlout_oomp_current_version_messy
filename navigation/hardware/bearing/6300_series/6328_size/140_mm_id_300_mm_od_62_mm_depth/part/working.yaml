@@ -1,3 +1,187 @@
+bip_39_word_new_br1: kangaroo
+bip_39_word_new_br10: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss<br>ready<br>fork<br>rough<br>come
+bip_39_word_new_br11: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss<br>ready<br>fork<br>rough<br>come<br>multiply
+bip_39_word_new_br12: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss<br>ready<br>fork<br>rough<br>come<br>multiply<br>adapt
+bip_39_word_new_br2: kangaroo<br>finish
+bip_39_word_new_br3: kangaroo<br>finish<br>vacuum
+bip_39_word_new_br4: kangaroo<br>finish<br>vacuum<br>pelican
+bip_39_word_new_br5: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss
+bip_39_word_new_br6: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss
+bip_39_word_new_br7: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss<br>ready
+bip_39_word_new_br8: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss<br>ready<br>fork
+bip_39_word_new_br9: kangaroo<br>finish<br>vacuum<br>pelican<br>dismiss<br>miss<br>ready<br>fork<br>rough
+bip_39_word_new_line1: kangaroo
+bip_39_word_new_line10: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican
+
+  dismiss
+
+  miss
+
+  ready
+
+  fork
+
+  rough
+
+  come'
+bip_39_word_new_line11: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican
+
+  dismiss
+
+  miss
+
+  ready
+
+  fork
+
+  rough
+
+  come
+
+  multiply'
+bip_39_word_new_line12: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican
+
+  dismiss
+
+  miss
+
+  ready
+
+  fork
+
+  rough
+
+  come
+
+  multiply
+
+  adapt'
+bip_39_word_new_line2: 'kangaroo
+
+  finish'
+bip_39_word_new_line3: 'kangaroo
+
+  finish
+
+  vacuum'
+bip_39_word_new_line4: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican'
+bip_39_word_new_line5: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican
+
+  dismiss'
+bip_39_word_new_line6: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican
+
+  dismiss
+
+  miss'
+bip_39_word_new_line7: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican
+
+  dismiss
+
+  miss
+
+  ready'
+bip_39_word_new_line8: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican
+
+  dismiss
+
+  miss
+
+  ready
+
+  fork'
+bip_39_word_new_line9: 'kangaroo
+
+  finish
+
+  vacuum
+
+  pelican
+
+  dismiss
+
+  miss
+
+  ready
+
+  fork
+
+  rough'
+bip_39_word_space_0:
+- kangaroo
+- finish
+- vacuum
+- pelican
+- dismiss
+- miss
+- ready
+- fork
+- rough
+- come
+- multiply
+- adapt
+bip_39_word_space_1: kangaroo
+bip_39_word_space_10: kangaroo finish vacuum pelican dismiss miss ready fork rough
+  come
+bip_39_word_space_11: kangaroo finish vacuum pelican dismiss miss ready fork rough
+  come multiply
+bip_39_word_space_12: kangaroo finish vacuum pelican dismiss miss ready fork rough
+  come multiply adapt
+bip_39_word_space_2: kangaroo finish
+bip_39_word_space_3: kangaroo finish vacuum
+bip_39_word_space_4: kangaroo finish vacuum pelican
+bip_39_word_space_5: kangaroo finish vacuum pelican dismiss
+bip_39_word_space_6: kangaroo finish vacuum pelican dismiss miss
+bip_39_word_space_7: kangaroo finish vacuum pelican dismiss miss ready
+bip_39_word_space_8: kangaroo finish vacuum pelican dismiss miss ready fork
+bip_39_word_space_9: kangaroo finish vacuum pelican dismiss miss ready fork rough
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

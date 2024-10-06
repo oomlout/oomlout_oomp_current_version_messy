@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crisp nose
+  * bip 39 word 3: crisp nose pen
+  * bip 39 word: crisp nose pen suffer envelope glance receive space rival picture sand aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crisp |  
+| bip_39_word_new_br10 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance<br>receive<br>space<br>rival<br>picture |  
+| bip_39_word_new_br11 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance<br>receive<br>space<br>rival<br>picture<br>sand |  
+| bip_39_word_new_br12 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance<br>receive<br>space<br>rival<br>picture<br>sand<br>aerobic |  
+| bip_39_word_new_br2 | crisp<br>nose |  
+| bip_39_word_new_br3 | crisp<br>nose<br>pen |  
+| bip_39_word_new_br4 | crisp<br>nose<br>pen<br>suffer |  
+| bip_39_word_new_br5 | crisp<br>nose<br>pen<br>suffer<br>envelope |  
+| bip_39_word_new_br6 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance |  
+| bip_39_word_new_br7 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance<br>receive |  
+| bip_39_word_new_br8 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance<br>receive<br>space |  
+| bip_39_word_new_br9 | crisp<br>nose<br>pen<br>suffer<br>envelope<br>glance<br>receive<br>space<br>rival |  
+| bip_39_word_new_line1 | crisp |  
+| bip_39_word_new_line10 | crisp
+nose
+pen
+suffer
+envelope
+glance
+receive
+space
+rival
+picture |  
+| bip_39_word_new_line11 | crisp
+nose
+pen
+suffer
+envelope
+glance
+receive
+space
+rival
+picture
+sand |  
+| bip_39_word_new_line12 | crisp
+nose
+pen
+suffer
+envelope
+glance
+receive
+space
+rival
+picture
+sand
+aerobic |  
+| bip_39_word_new_line2 | crisp
+nose |  
+| bip_39_word_new_line3 | crisp
+nose
+pen |  
+| bip_39_word_new_line4 | crisp
+nose
+pen
+suffer |  
+| bip_39_word_new_line5 | crisp
+nose
+pen
+suffer
+envelope |  
+| bip_39_word_new_line6 | crisp
+nose
+pen
+suffer
+envelope
+glance |  
+| bip_39_word_new_line7 | crisp
+nose
+pen
+suffer
+envelope
+glance
+receive |  
+| bip_39_word_new_line8 | crisp
+nose
+pen
+suffer
+envelope
+glance
+receive
+space |  
+| bip_39_word_new_line9 | crisp
+nose
+pen
+suffer
+envelope
+glance
+receive
+space
+rival |  
+| bip_39_word_space_0 | ['crisp', 'nose', 'pen', 'suffer', 'envelope', 'glance', 'receive', 'space', 'rival', 'picture', 'sand', 'aerobic'] |  
+| bip_39_word_space_1 | crisp |  
+| bip_39_word_space_10 | crisp nose pen suffer envelope glance receive space rival picture |  
+| bip_39_word_space_11 | crisp nose pen suffer envelope glance receive space rival picture sand |  
+| bip_39_word_space_12 | crisp nose pen suffer envelope glance receive space rival picture sand aerobic |  
+| bip_39_word_space_2 | crisp nose |  
+| bip_39_word_space_3 | crisp nose pen |  
+| bip_39_word_space_4 | crisp nose pen suffer |  
+| bip_39_word_space_5 | crisp nose pen suffer envelope |  
+| bip_39_word_space_6 | crisp nose pen suffer envelope glance |  
+| bip_39_word_space_7 | crisp nose pen suffer envelope glance receive |  
+| bip_39_word_space_8 | crisp nose pen suffer envelope glance receive space |  
+| bip_39_word_space_9 | crisp nose pen suffer envelope glance receive space rival |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

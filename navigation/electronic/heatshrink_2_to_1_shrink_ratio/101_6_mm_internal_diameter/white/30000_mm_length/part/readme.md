@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crawl opinion
+  * bip 39 word 3: crawl opinion canoe
+  * bip 39 word: crawl opinion canoe release arrive solve pair style quiz brief scrap adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crawl |  
+| bip_39_word_new_br10 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve<br>pair<br>style<br>quiz<br>brief |  
+| bip_39_word_new_br11 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve<br>pair<br>style<br>quiz<br>brief<br>scrap |  
+| bip_39_word_new_br12 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve<br>pair<br>style<br>quiz<br>brief<br>scrap<br>adapt |  
+| bip_39_word_new_br2 | crawl<br>opinion |  
+| bip_39_word_new_br3 | crawl<br>opinion<br>canoe |  
+| bip_39_word_new_br4 | crawl<br>opinion<br>canoe<br>release |  
+| bip_39_word_new_br5 | crawl<br>opinion<br>canoe<br>release<br>arrive |  
+| bip_39_word_new_br6 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve |  
+| bip_39_word_new_br7 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve<br>pair |  
+| bip_39_word_new_br8 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve<br>pair<br>style |  
+| bip_39_word_new_br9 | crawl<br>opinion<br>canoe<br>release<br>arrive<br>solve<br>pair<br>style<br>quiz |  
+| bip_39_word_new_line1 | crawl |  
+| bip_39_word_new_line10 | crawl
+opinion
+canoe
+release
+arrive
+solve
+pair
+style
+quiz
+brief |  
+| bip_39_word_new_line11 | crawl
+opinion
+canoe
+release
+arrive
+solve
+pair
+style
+quiz
+brief
+scrap |  
+| bip_39_word_new_line12 | crawl
+opinion
+canoe
+release
+arrive
+solve
+pair
+style
+quiz
+brief
+scrap
+adapt |  
+| bip_39_word_new_line2 | crawl
+opinion |  
+| bip_39_word_new_line3 | crawl
+opinion
+canoe |  
+| bip_39_word_new_line4 | crawl
+opinion
+canoe
+release |  
+| bip_39_word_new_line5 | crawl
+opinion
+canoe
+release
+arrive |  
+| bip_39_word_new_line6 | crawl
+opinion
+canoe
+release
+arrive
+solve |  
+| bip_39_word_new_line7 | crawl
+opinion
+canoe
+release
+arrive
+solve
+pair |  
+| bip_39_word_new_line8 | crawl
+opinion
+canoe
+release
+arrive
+solve
+pair
+style |  
+| bip_39_word_new_line9 | crawl
+opinion
+canoe
+release
+arrive
+solve
+pair
+style
+quiz |  
+| bip_39_word_space_0 | ['crawl', 'opinion', 'canoe', 'release', 'arrive', 'solve', 'pair', 'style', 'quiz', 'brief', 'scrap', 'adapt'] |  
+| bip_39_word_space_1 | crawl |  
+| bip_39_word_space_10 | crawl opinion canoe release arrive solve pair style quiz brief |  
+| bip_39_word_space_11 | crawl opinion canoe release arrive solve pair style quiz brief scrap |  
+| bip_39_word_space_12 | crawl opinion canoe release arrive solve pair style quiz brief scrap adapt |  
+| bip_39_word_space_2 | crawl opinion |  
+| bip_39_word_space_3 | crawl opinion canoe |  
+| bip_39_word_space_4 | crawl opinion canoe release |  
+| bip_39_word_space_5 | crawl opinion canoe release arrive |  
+| bip_39_word_space_6 | crawl opinion canoe release arrive solve |  
+| bip_39_word_space_7 | crawl opinion canoe release arrive solve pair |  
+| bip_39_word_space_8 | crawl opinion canoe release arrive solve pair style |  
+| bip_39_word_space_9 | crawl opinion canoe release arrive solve pair style quiz |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

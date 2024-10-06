@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wing raise
+  * bip 39 word 3: wing raise demise
+  * bip 39 word: wing raise demise extend actress village sorry maid expect knife laptop adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wing |  
+| bip_39_word_new_br10 | wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect<br>knife |  
+| bip_39_word_new_br11 | wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect<br>knife<br>laptop |  
+| bip_39_word_new_br12 | wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect<br>knife<br>laptop<br>adapt |  
+| bip_39_word_new_br2 | wing<br>raise |  
+| bip_39_word_new_br3 | wing<br>raise<br>demise |  
+| bip_39_word_new_br4 | wing<br>raise<br>demise<br>extend |  
+| bip_39_word_new_br5 | wing<br>raise<br>demise<br>extend<br>actress |  
+| bip_39_word_new_br6 | wing<br>raise<br>demise<br>extend<br>actress<br>village |  
+| bip_39_word_new_br7 | wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry |  
+| bip_39_word_new_br8 | wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid |  
+| bip_39_word_new_br9 | wing<br>raise<br>demise<br>extend<br>actress<br>village<br>sorry<br>maid<br>expect |  
+| bip_39_word_new_line1 | wing |  
+| bip_39_word_new_line10 | wing
+raise
+demise
+extend
+actress
+village
+sorry
+maid
+expect
+knife |  
+| bip_39_word_new_line11 | wing
+raise
+demise
+extend
+actress
+village
+sorry
+maid
+expect
+knife
+laptop |  
+| bip_39_word_new_line12 | wing
+raise
+demise
+extend
+actress
+village
+sorry
+maid
+expect
+knife
+laptop
+adapt |  
+| bip_39_word_new_line2 | wing
+raise |  
+| bip_39_word_new_line3 | wing
+raise
+demise |  
+| bip_39_word_new_line4 | wing
+raise
+demise
+extend |  
+| bip_39_word_new_line5 | wing
+raise
+demise
+extend
+actress |  
+| bip_39_word_new_line6 | wing
+raise
+demise
+extend
+actress
+village |  
+| bip_39_word_new_line7 | wing
+raise
+demise
+extend
+actress
+village
+sorry |  
+| bip_39_word_new_line8 | wing
+raise
+demise
+extend
+actress
+village
+sorry
+maid |  
+| bip_39_word_new_line9 | wing
+raise
+demise
+extend
+actress
+village
+sorry
+maid
+expect |  
+| bip_39_word_space_0 | ['wing', 'raise', 'demise', 'extend', 'actress', 'village', 'sorry', 'maid', 'expect', 'knife', 'laptop', 'adapt'] |  
+| bip_39_word_space_1 | wing |  
+| bip_39_word_space_10 | wing raise demise extend actress village sorry maid expect knife |  
+| bip_39_word_space_11 | wing raise demise extend actress village sorry maid expect knife laptop |  
+| bip_39_word_space_12 | wing raise demise extend actress village sorry maid expect knife laptop adapt |  
+| bip_39_word_space_2 | wing raise |  
+| bip_39_word_space_3 | wing raise demise |  
+| bip_39_word_space_4 | wing raise demise extend |  
+| bip_39_word_space_5 | wing raise demise extend actress |  
+| bip_39_word_space_6 | wing raise demise extend actress village |  
+| bip_39_word_space_7 | wing raise demise extend actress village sorry |  
+| bip_39_word_space_8 | wing raise demise extend actress village sorry maid |  
+| bip_39_word_space_9 | wing raise demise extend actress village sorry maid expect |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

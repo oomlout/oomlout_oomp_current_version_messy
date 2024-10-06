@@ -1,3 +1,186 @@
+bip_39_word_new_br1: reopen
+bip_39_word_new_br10: reopen<br>hard<br>legend<br>decide<br>farm<br>column<br>swim<br>pyramid<br>crawl<br>shove
+bip_39_word_new_br11: reopen<br>hard<br>legend<br>decide<br>farm<br>column<br>swim<br>pyramid<br>crawl<br>shove<br>mansion
+bip_39_word_new_br12: reopen<br>hard<br>legend<br>decide<br>farm<br>column<br>swim<br>pyramid<br>crawl<br>shove<br>mansion<br>ancient
+bip_39_word_new_br2: reopen<br>hard
+bip_39_word_new_br3: reopen<br>hard<br>legend
+bip_39_word_new_br4: reopen<br>hard<br>legend<br>decide
+bip_39_word_new_br5: reopen<br>hard<br>legend<br>decide<br>farm
+bip_39_word_new_br6: reopen<br>hard<br>legend<br>decide<br>farm<br>column
+bip_39_word_new_br7: reopen<br>hard<br>legend<br>decide<br>farm<br>column<br>swim
+bip_39_word_new_br8: reopen<br>hard<br>legend<br>decide<br>farm<br>column<br>swim<br>pyramid
+bip_39_word_new_br9: reopen<br>hard<br>legend<br>decide<br>farm<br>column<br>swim<br>pyramid<br>crawl
+bip_39_word_new_line1: reopen
+bip_39_word_new_line10: 'reopen
+
+  hard
+
+  legend
+
+  decide
+
+  farm
+
+  column
+
+  swim
+
+  pyramid
+
+  crawl
+
+  shove'
+bip_39_word_new_line11: 'reopen
+
+  hard
+
+  legend
+
+  decide
+
+  farm
+
+  column
+
+  swim
+
+  pyramid
+
+  crawl
+
+  shove
+
+  mansion'
+bip_39_word_new_line12: 'reopen
+
+  hard
+
+  legend
+
+  decide
+
+  farm
+
+  column
+
+  swim
+
+  pyramid
+
+  crawl
+
+  shove
+
+  mansion
+
+  ancient'
+bip_39_word_new_line2: 'reopen
+
+  hard'
+bip_39_word_new_line3: 'reopen
+
+  hard
+
+  legend'
+bip_39_word_new_line4: 'reopen
+
+  hard
+
+  legend
+
+  decide'
+bip_39_word_new_line5: 'reopen
+
+  hard
+
+  legend
+
+  decide
+
+  farm'
+bip_39_word_new_line6: 'reopen
+
+  hard
+
+  legend
+
+  decide
+
+  farm
+
+  column'
+bip_39_word_new_line7: 'reopen
+
+  hard
+
+  legend
+
+  decide
+
+  farm
+
+  column
+
+  swim'
+bip_39_word_new_line8: 'reopen
+
+  hard
+
+  legend
+
+  decide
+
+  farm
+
+  column
+
+  swim
+
+  pyramid'
+bip_39_word_new_line9: 'reopen
+
+  hard
+
+  legend
+
+  decide
+
+  farm
+
+  column
+
+  swim
+
+  pyramid
+
+  crawl'
+bip_39_word_space_0:
+- reopen
+- hard
+- legend
+- decide
+- farm
+- column
+- swim
+- pyramid
+- crawl
+- shove
+- mansion
+- ancient
+bip_39_word_space_1: reopen
+bip_39_word_space_10: reopen hard legend decide farm column swim pyramid crawl shove
+bip_39_word_space_11: reopen hard legend decide farm column swim pyramid crawl shove
+  mansion
+bip_39_word_space_12: reopen hard legend decide farm column swim pyramid crawl shove
+  mansion ancient
+bip_39_word_space_2: reopen hard
+bip_39_word_space_3: reopen hard legend
+bip_39_word_space_4: reopen hard legend decide
+bip_39_word_space_5: reopen hard legend decide farm
+bip_39_word_space_6: reopen hard legend decide farm column
+bip_39_word_space_7: reopen hard legend decide farm column swim
+bip_39_word_space_8: reopen hard legend decide farm column swim pyramid
+bip_39_word_space_9: reopen hard legend decide farm column swim pyramid crawl
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

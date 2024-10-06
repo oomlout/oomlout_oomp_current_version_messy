@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: else mosquito
+  * bip 39 word 3: else mosquito only
+  * bip 39 word: else mosquito only glory index bread shallow rent rough valid melt ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | else |  
+| bip_39_word_new_br10 | else<br>mosquito<br>only<br>glory<br>index<br>bread<br>shallow<br>rent<br>rough<br>valid |  
+| bip_39_word_new_br11 | else<br>mosquito<br>only<br>glory<br>index<br>bread<br>shallow<br>rent<br>rough<br>valid<br>melt |  
+| bip_39_word_new_br12 | else<br>mosquito<br>only<br>glory<br>index<br>bread<br>shallow<br>rent<br>rough<br>valid<br>melt<br>ask |  
+| bip_39_word_new_br2 | else<br>mosquito |  
+| bip_39_word_new_br3 | else<br>mosquito<br>only |  
+| bip_39_word_new_br4 | else<br>mosquito<br>only<br>glory |  
+| bip_39_word_new_br5 | else<br>mosquito<br>only<br>glory<br>index |  
+| bip_39_word_new_br6 | else<br>mosquito<br>only<br>glory<br>index<br>bread |  
+| bip_39_word_new_br7 | else<br>mosquito<br>only<br>glory<br>index<br>bread<br>shallow |  
+| bip_39_word_new_br8 | else<br>mosquito<br>only<br>glory<br>index<br>bread<br>shallow<br>rent |  
+| bip_39_word_new_br9 | else<br>mosquito<br>only<br>glory<br>index<br>bread<br>shallow<br>rent<br>rough |  
+| bip_39_word_new_line1 | else |  
+| bip_39_word_new_line10 | else
+mosquito
+only
+glory
+index
+bread
+shallow
+rent
+rough
+valid |  
+| bip_39_word_new_line11 | else
+mosquito
+only
+glory
+index
+bread
+shallow
+rent
+rough
+valid
+melt |  
+| bip_39_word_new_line12 | else
+mosquito
+only
+glory
+index
+bread
+shallow
+rent
+rough
+valid
+melt
+ask |  
+| bip_39_word_new_line2 | else
+mosquito |  
+| bip_39_word_new_line3 | else
+mosquito
+only |  
+| bip_39_word_new_line4 | else
+mosquito
+only
+glory |  
+| bip_39_word_new_line5 | else
+mosquito
+only
+glory
+index |  
+| bip_39_word_new_line6 | else
+mosquito
+only
+glory
+index
+bread |  
+| bip_39_word_new_line7 | else
+mosquito
+only
+glory
+index
+bread
+shallow |  
+| bip_39_word_new_line8 | else
+mosquito
+only
+glory
+index
+bread
+shallow
+rent |  
+| bip_39_word_new_line9 | else
+mosquito
+only
+glory
+index
+bread
+shallow
+rent
+rough |  
+| bip_39_word_space_0 | ['else', 'mosquito', 'only', 'glory', 'index', 'bread', 'shallow', 'rent', 'rough', 'valid', 'melt', 'ask'] |  
+| bip_39_word_space_1 | else |  
+| bip_39_word_space_10 | else mosquito only glory index bread shallow rent rough valid |  
+| bip_39_word_space_11 | else mosquito only glory index bread shallow rent rough valid melt |  
+| bip_39_word_space_12 | else mosquito only glory index bread shallow rent rough valid melt ask |  
+| bip_39_word_space_2 | else mosquito |  
+| bip_39_word_space_3 | else mosquito only |  
+| bip_39_word_space_4 | else mosquito only glory |  
+| bip_39_word_space_5 | else mosquito only glory index |  
+| bip_39_word_space_6 | else mosquito only glory index bread |  
+| bip_39_word_space_7 | else mosquito only glory index bread shallow |  
+| bip_39_word_space_8 | else mosquito only glory index bread shallow rent |  
+| bip_39_word_space_9 | else mosquito only glory index bread shallow rent rough |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

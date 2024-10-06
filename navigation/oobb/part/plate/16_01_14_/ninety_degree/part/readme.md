@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vehicle spawn
+  * bip 39 word 3: vehicle spawn snap
+  * bip 39 word: vehicle spawn snap hidden practice traffic hard digital shrimp crime recycle album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vehicle |  
+| bip_39_word_new_br10 | vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp<br>crime |  
+| bip_39_word_new_br11 | vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp<br>crime<br>recycle |  
+| bip_39_word_new_br12 | vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp<br>crime<br>recycle<br>album |  
+| bip_39_word_new_br2 | vehicle<br>spawn |  
+| bip_39_word_new_br3 | vehicle<br>spawn<br>snap |  
+| bip_39_word_new_br4 | vehicle<br>spawn<br>snap<br>hidden |  
+| bip_39_word_new_br5 | vehicle<br>spawn<br>snap<br>hidden<br>practice |  
+| bip_39_word_new_br6 | vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic |  
+| bip_39_word_new_br7 | vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard |  
+| bip_39_word_new_br8 | vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital |  
+| bip_39_word_new_br9 | vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp |  
+| bip_39_word_new_line1 | vehicle |  
+| bip_39_word_new_line10 | vehicle
+spawn
+snap
+hidden
+practice
+traffic
+hard
+digital
+shrimp
+crime |  
+| bip_39_word_new_line11 | vehicle
+spawn
+snap
+hidden
+practice
+traffic
+hard
+digital
+shrimp
+crime
+recycle |  
+| bip_39_word_new_line12 | vehicle
+spawn
+snap
+hidden
+practice
+traffic
+hard
+digital
+shrimp
+crime
+recycle
+album |  
+| bip_39_word_new_line2 | vehicle
+spawn |  
+| bip_39_word_new_line3 | vehicle
+spawn
+snap |  
+| bip_39_word_new_line4 | vehicle
+spawn
+snap
+hidden |  
+| bip_39_word_new_line5 | vehicle
+spawn
+snap
+hidden
+practice |  
+| bip_39_word_new_line6 | vehicle
+spawn
+snap
+hidden
+practice
+traffic |  
+| bip_39_word_new_line7 | vehicle
+spawn
+snap
+hidden
+practice
+traffic
+hard |  
+| bip_39_word_new_line8 | vehicle
+spawn
+snap
+hidden
+practice
+traffic
+hard
+digital |  
+| bip_39_word_new_line9 | vehicle
+spawn
+snap
+hidden
+practice
+traffic
+hard
+digital
+shrimp |  
+| bip_39_word_space_0 | ['vehicle', 'spawn', 'snap', 'hidden', 'practice', 'traffic', 'hard', 'digital', 'shrimp', 'crime', 'recycle', 'album'] |  
+| bip_39_word_space_1 | vehicle |  
+| bip_39_word_space_10 | vehicle spawn snap hidden practice traffic hard digital shrimp crime |  
+| bip_39_word_space_11 | vehicle spawn snap hidden practice traffic hard digital shrimp crime recycle |  
+| bip_39_word_space_12 | vehicle spawn snap hidden practice traffic hard digital shrimp crime recycle album |  
+| bip_39_word_space_2 | vehicle spawn |  
+| bip_39_word_space_3 | vehicle spawn snap |  
+| bip_39_word_space_4 | vehicle spawn snap hidden |  
+| bip_39_word_space_5 | vehicle spawn snap hidden practice |  
+| bip_39_word_space_6 | vehicle spawn snap hidden practice traffic |  
+| bip_39_word_space_7 | vehicle spawn snap hidden practice traffic hard |  
+| bip_39_word_space_8 | vehicle spawn snap hidden practice traffic hard digital |  
+| bip_39_word_space_9 | vehicle spawn snap hidden practice traffic hard digital shrimp |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: print
+bip_39_word_new_br10: print<br>cave<br>output<br>since<br>recipe<br>simple<br>vicious<br>health<br>beyond<br>walk
+bip_39_word_new_br11: print<br>cave<br>output<br>since<br>recipe<br>simple<br>vicious<br>health<br>beyond<br>walk<br>legal
+bip_39_word_new_br12: print<br>cave<br>output<br>since<br>recipe<br>simple<br>vicious<br>health<br>beyond<br>walk<br>legal<br>accident
+bip_39_word_new_br2: print<br>cave
+bip_39_word_new_br3: print<br>cave<br>output
+bip_39_word_new_br4: print<br>cave<br>output<br>since
+bip_39_word_new_br5: print<br>cave<br>output<br>since<br>recipe
+bip_39_word_new_br6: print<br>cave<br>output<br>since<br>recipe<br>simple
+bip_39_word_new_br7: print<br>cave<br>output<br>since<br>recipe<br>simple<br>vicious
+bip_39_word_new_br8: print<br>cave<br>output<br>since<br>recipe<br>simple<br>vicious<br>health
+bip_39_word_new_br9: print<br>cave<br>output<br>since<br>recipe<br>simple<br>vicious<br>health<br>beyond
+bip_39_word_new_line1: print
+bip_39_word_new_line10: 'print
+
+  cave
+
+  output
+
+  since
+
+  recipe
+
+  simple
+
+  vicious
+
+  health
+
+  beyond
+
+  walk'
+bip_39_word_new_line11: 'print
+
+  cave
+
+  output
+
+  since
+
+  recipe
+
+  simple
+
+  vicious
+
+  health
+
+  beyond
+
+  walk
+
+  legal'
+bip_39_word_new_line12: 'print
+
+  cave
+
+  output
+
+  since
+
+  recipe
+
+  simple
+
+  vicious
+
+  health
+
+  beyond
+
+  walk
+
+  legal
+
+  accident'
+bip_39_word_new_line2: 'print
+
+  cave'
+bip_39_word_new_line3: 'print
+
+  cave
+
+  output'
+bip_39_word_new_line4: 'print
+
+  cave
+
+  output
+
+  since'
+bip_39_word_new_line5: 'print
+
+  cave
+
+  output
+
+  since
+
+  recipe'
+bip_39_word_new_line6: 'print
+
+  cave
+
+  output
+
+  since
+
+  recipe
+
+  simple'
+bip_39_word_new_line7: 'print
+
+  cave
+
+  output
+
+  since
+
+  recipe
+
+  simple
+
+  vicious'
+bip_39_word_new_line8: 'print
+
+  cave
+
+  output
+
+  since
+
+  recipe
+
+  simple
+
+  vicious
+
+  health'
+bip_39_word_new_line9: 'print
+
+  cave
+
+  output
+
+  since
+
+  recipe
+
+  simple
+
+  vicious
+
+  health
+
+  beyond'
+bip_39_word_space_0:
+- print
+- cave
+- output
+- since
+- recipe
+- simple
+- vicious
+- health
+- beyond
+- walk
+- legal
+- accident
+bip_39_word_space_1: print
+bip_39_word_space_10: print cave output since recipe simple vicious health beyond
+  walk
+bip_39_word_space_11: print cave output since recipe simple vicious health beyond
+  walk legal
+bip_39_word_space_12: print cave output since recipe simple vicious health beyond
+  walk legal accident
+bip_39_word_space_2: print cave
+bip_39_word_space_3: print cave output
+bip_39_word_space_4: print cave output since
+bip_39_word_space_5: print cave output since recipe
+bip_39_word_space_6: print cave output since recipe simple
+bip_39_word_space_7: print cave output since recipe simple vicious
+bip_39_word_space_8: print cave output since recipe simple vicious health
+bip_39_word_space_9: print cave output since recipe simple vicious health beyond
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p

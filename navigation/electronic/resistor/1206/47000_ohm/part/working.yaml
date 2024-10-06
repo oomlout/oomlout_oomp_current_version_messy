@@ -1,3 +1,187 @@
+bip_39_word_new_br1: differ
+bip_39_word_new_br10: differ<br>consider<br>square<br>dynamic<br>around<br>lumber<br>toss<br>city<br>common<br>broom
+bip_39_word_new_br11: differ<br>consider<br>square<br>dynamic<br>around<br>lumber<br>toss<br>city<br>common<br>broom<br>obscure
+bip_39_word_new_br12: differ<br>consider<br>square<br>dynamic<br>around<br>lumber<br>toss<br>city<br>common<br>broom<br>obscure<br>again
+bip_39_word_new_br2: differ<br>consider
+bip_39_word_new_br3: differ<br>consider<br>square
+bip_39_word_new_br4: differ<br>consider<br>square<br>dynamic
+bip_39_word_new_br5: differ<br>consider<br>square<br>dynamic<br>around
+bip_39_word_new_br6: differ<br>consider<br>square<br>dynamic<br>around<br>lumber
+bip_39_word_new_br7: differ<br>consider<br>square<br>dynamic<br>around<br>lumber<br>toss
+bip_39_word_new_br8: differ<br>consider<br>square<br>dynamic<br>around<br>lumber<br>toss<br>city
+bip_39_word_new_br9: differ<br>consider<br>square<br>dynamic<br>around<br>lumber<br>toss<br>city<br>common
+bip_39_word_new_line1: differ
+bip_39_word_new_line10: 'differ
+
+  consider
+
+  square
+
+  dynamic
+
+  around
+
+  lumber
+
+  toss
+
+  city
+
+  common
+
+  broom'
+bip_39_word_new_line11: 'differ
+
+  consider
+
+  square
+
+  dynamic
+
+  around
+
+  lumber
+
+  toss
+
+  city
+
+  common
+
+  broom
+
+  obscure'
+bip_39_word_new_line12: 'differ
+
+  consider
+
+  square
+
+  dynamic
+
+  around
+
+  lumber
+
+  toss
+
+  city
+
+  common
+
+  broom
+
+  obscure
+
+  again'
+bip_39_word_new_line2: 'differ
+
+  consider'
+bip_39_word_new_line3: 'differ
+
+  consider
+
+  square'
+bip_39_word_new_line4: 'differ
+
+  consider
+
+  square
+
+  dynamic'
+bip_39_word_new_line5: 'differ
+
+  consider
+
+  square
+
+  dynamic
+
+  around'
+bip_39_word_new_line6: 'differ
+
+  consider
+
+  square
+
+  dynamic
+
+  around
+
+  lumber'
+bip_39_word_new_line7: 'differ
+
+  consider
+
+  square
+
+  dynamic
+
+  around
+
+  lumber
+
+  toss'
+bip_39_word_new_line8: 'differ
+
+  consider
+
+  square
+
+  dynamic
+
+  around
+
+  lumber
+
+  toss
+
+  city'
+bip_39_word_new_line9: 'differ
+
+  consider
+
+  square
+
+  dynamic
+
+  around
+
+  lumber
+
+  toss
+
+  city
+
+  common'
+bip_39_word_space_0:
+- differ
+- consider
+- square
+- dynamic
+- around
+- lumber
+- toss
+- city
+- common
+- broom
+- obscure
+- again
+bip_39_word_space_1: differ
+bip_39_word_space_10: differ consider square dynamic around lumber toss city common
+  broom
+bip_39_word_space_11: differ consider square dynamic around lumber toss city common
+  broom obscure
+bip_39_word_space_12: differ consider square dynamic around lumber toss city common
+  broom obscure again
+bip_39_word_space_2: differ consider
+bip_39_word_space_3: differ consider square
+bip_39_word_space_4: differ consider square dynamic
+bip_39_word_space_5: differ consider square dynamic around
+bip_39_word_space_6: differ consider square dynamic around lumber
+bip_39_word_space_7: differ consider square dynamic around lumber toss
+bip_39_word_space_8: differ consider square dynamic around lumber toss city
+bip_39_word_space_9: differ consider square dynamic around lumber toss city common
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

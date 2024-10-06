@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: field method
+  * bip 39 word 3: field method unhappy
+  * bip 39 word: field method unhappy wrap retire fresh flash near twin heart hand already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | field |  
+| bip_39_word_new_br10 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh<br>flash<br>near<br>twin<br>heart |  
+| bip_39_word_new_br11 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh<br>flash<br>near<br>twin<br>heart<br>hand |  
+| bip_39_word_new_br12 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh<br>flash<br>near<br>twin<br>heart<br>hand<br>already |  
+| bip_39_word_new_br2 | field<br>method |  
+| bip_39_word_new_br3 | field<br>method<br>unhappy |  
+| bip_39_word_new_br4 | field<br>method<br>unhappy<br>wrap |  
+| bip_39_word_new_br5 | field<br>method<br>unhappy<br>wrap<br>retire |  
+| bip_39_word_new_br6 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh |  
+| bip_39_word_new_br7 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh<br>flash |  
+| bip_39_word_new_br8 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh<br>flash<br>near |  
+| bip_39_word_new_br9 | field<br>method<br>unhappy<br>wrap<br>retire<br>fresh<br>flash<br>near<br>twin |  
+| bip_39_word_new_line1 | field |  
+| bip_39_word_new_line10 | field
+method
+unhappy
+wrap
+retire
+fresh
+flash
+near
+twin
+heart |  
+| bip_39_word_new_line11 | field
+method
+unhappy
+wrap
+retire
+fresh
+flash
+near
+twin
+heart
+hand |  
+| bip_39_word_new_line12 | field
+method
+unhappy
+wrap
+retire
+fresh
+flash
+near
+twin
+heart
+hand
+already |  
+| bip_39_word_new_line2 | field
+method |  
+| bip_39_word_new_line3 | field
+method
+unhappy |  
+| bip_39_word_new_line4 | field
+method
+unhappy
+wrap |  
+| bip_39_word_new_line5 | field
+method
+unhappy
+wrap
+retire |  
+| bip_39_word_new_line6 | field
+method
+unhappy
+wrap
+retire
+fresh |  
+| bip_39_word_new_line7 | field
+method
+unhappy
+wrap
+retire
+fresh
+flash |  
+| bip_39_word_new_line8 | field
+method
+unhappy
+wrap
+retire
+fresh
+flash
+near |  
+| bip_39_word_new_line9 | field
+method
+unhappy
+wrap
+retire
+fresh
+flash
+near
+twin |  
+| bip_39_word_space_0 | ['field', 'method', 'unhappy', 'wrap', 'retire', 'fresh', 'flash', 'near', 'twin', 'heart', 'hand', 'already'] |  
+| bip_39_word_space_1 | field |  
+| bip_39_word_space_10 | field method unhappy wrap retire fresh flash near twin heart |  
+| bip_39_word_space_11 | field method unhappy wrap retire fresh flash near twin heart hand |  
+| bip_39_word_space_12 | field method unhappy wrap retire fresh flash near twin heart hand already |  
+| bip_39_word_space_2 | field method |  
+| bip_39_word_space_3 | field method unhappy |  
+| bip_39_word_space_4 | field method unhappy wrap |  
+| bip_39_word_space_5 | field method unhappy wrap retire |  
+| bip_39_word_space_6 | field method unhappy wrap retire fresh |  
+| bip_39_word_space_7 | field method unhappy wrap retire fresh flash |  
+| bip_39_word_space_8 | field method unhappy wrap retire fresh flash near |  
+| bip_39_word_space_9 | field method unhappy wrap retire fresh flash near twin |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

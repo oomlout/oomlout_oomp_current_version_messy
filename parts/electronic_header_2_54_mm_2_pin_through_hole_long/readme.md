@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: index veteran
+  * bip 39 word 3: index veteran idle
+  * bip 39 word: index veteran idle craft inherit glance enjoy injury year copy stove ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | index |  
+| bip_39_word_new_br10 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy |  
+| bip_39_word_new_br11 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy<br>stove |  
+| bip_39_word_new_br12 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year<br>copy<br>stove<br>ability |  
+| bip_39_word_new_br2 | index<br>veteran |  
+| bip_39_word_new_br3 | index<br>veteran<br>idle |  
+| bip_39_word_new_br4 | index<br>veteran<br>idle<br>craft |  
+| bip_39_word_new_br5 | index<br>veteran<br>idle<br>craft<br>inherit |  
+| bip_39_word_new_br6 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance |  
+| bip_39_word_new_br7 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy |  
+| bip_39_word_new_br8 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury |  
+| bip_39_word_new_br9 | index<br>veteran<br>idle<br>craft<br>inherit<br>glance<br>enjoy<br>injury<br>year |  
+| bip_39_word_new_line1 | index |  
+| bip_39_word_new_line10 | index
+veteran
+idle
+craft
+inherit
+glance
+enjoy
+injury
+year
+copy |  
+| bip_39_word_new_line11 | index
+veteran
+idle
+craft
+inherit
+glance
+enjoy
+injury
+year
+copy
+stove |  
+| bip_39_word_new_line12 | index
+veteran
+idle
+craft
+inherit
+glance
+enjoy
+injury
+year
+copy
+stove
+ability |  
+| bip_39_word_new_line2 | index
+veteran |  
+| bip_39_word_new_line3 | index
+veteran
+idle |  
+| bip_39_word_new_line4 | index
+veteran
+idle
+craft |  
+| bip_39_word_new_line5 | index
+veteran
+idle
+craft
+inherit |  
+| bip_39_word_new_line6 | index
+veteran
+idle
+craft
+inherit
+glance |  
+| bip_39_word_new_line7 | index
+veteran
+idle
+craft
+inherit
+glance
+enjoy |  
+| bip_39_word_new_line8 | index
+veteran
+idle
+craft
+inherit
+glance
+enjoy
+injury |  
+| bip_39_word_new_line9 | index
+veteran
+idle
+craft
+inherit
+glance
+enjoy
+injury
+year |  
+| bip_39_word_space_0 | ['index', 'veteran', 'idle', 'craft', 'inherit', 'glance', 'enjoy', 'injury', 'year', 'copy', 'stove', 'ability'] |  
+| bip_39_word_space_1 | index |  
+| bip_39_word_space_10 | index veteran idle craft inherit glance enjoy injury year copy |  
+| bip_39_word_space_11 | index veteran idle craft inherit glance enjoy injury year copy stove |  
+| bip_39_word_space_12 | index veteran idle craft inherit glance enjoy injury year copy stove ability |  
+| bip_39_word_space_2 | index veteran |  
+| bip_39_word_space_3 | index veteran idle |  
+| bip_39_word_space_4 | index veteran idle craft |  
+| bip_39_word_space_5 | index veteran idle craft inherit |  
+| bip_39_word_space_6 | index veteran idle craft inherit glance |  
+| bip_39_word_space_7 | index veteran idle craft inherit glance enjoy |  
+| bip_39_word_space_8 | index veteran idle craft inherit glance enjoy injury |  
+| bip_39_word_space_9 | index veteran idle craft inherit glance enjoy injury year |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

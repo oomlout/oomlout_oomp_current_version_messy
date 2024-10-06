@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: civil solar
+  * bip 39 word 3: civil solar top
+  * bip 39 word: civil solar top license update other oil angle maximum brick obtain absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | civil |  
+| bip_39_word_new_br10 | civil<br>solar<br>top<br>license<br>update<br>other<br>oil<br>angle<br>maximum<br>brick |  
+| bip_39_word_new_br11 | civil<br>solar<br>top<br>license<br>update<br>other<br>oil<br>angle<br>maximum<br>brick<br>obtain |  
+| bip_39_word_new_br12 | civil<br>solar<br>top<br>license<br>update<br>other<br>oil<br>angle<br>maximum<br>brick<br>obtain<br>absurd |  
+| bip_39_word_new_br2 | civil<br>solar |  
+| bip_39_word_new_br3 | civil<br>solar<br>top |  
+| bip_39_word_new_br4 | civil<br>solar<br>top<br>license |  
+| bip_39_word_new_br5 | civil<br>solar<br>top<br>license<br>update |  
+| bip_39_word_new_br6 | civil<br>solar<br>top<br>license<br>update<br>other |  
+| bip_39_word_new_br7 | civil<br>solar<br>top<br>license<br>update<br>other<br>oil |  
+| bip_39_word_new_br8 | civil<br>solar<br>top<br>license<br>update<br>other<br>oil<br>angle |  
+| bip_39_word_new_br9 | civil<br>solar<br>top<br>license<br>update<br>other<br>oil<br>angle<br>maximum |  
+| bip_39_word_new_line1 | civil |  
+| bip_39_word_new_line10 | civil
+solar
+top
+license
+update
+other
+oil
+angle
+maximum
+brick |  
+| bip_39_word_new_line11 | civil
+solar
+top
+license
+update
+other
+oil
+angle
+maximum
+brick
+obtain |  
+| bip_39_word_new_line12 | civil
+solar
+top
+license
+update
+other
+oil
+angle
+maximum
+brick
+obtain
+absurd |  
+| bip_39_word_new_line2 | civil
+solar |  
+| bip_39_word_new_line3 | civil
+solar
+top |  
+| bip_39_word_new_line4 | civil
+solar
+top
+license |  
+| bip_39_word_new_line5 | civil
+solar
+top
+license
+update |  
+| bip_39_word_new_line6 | civil
+solar
+top
+license
+update
+other |  
+| bip_39_word_new_line7 | civil
+solar
+top
+license
+update
+other
+oil |  
+| bip_39_word_new_line8 | civil
+solar
+top
+license
+update
+other
+oil
+angle |  
+| bip_39_word_new_line9 | civil
+solar
+top
+license
+update
+other
+oil
+angle
+maximum |  
+| bip_39_word_space_0 | ['civil', 'solar', 'top', 'license', 'update', 'other', 'oil', 'angle', 'maximum', 'brick', 'obtain', 'absurd'] |  
+| bip_39_word_space_1 | civil |  
+| bip_39_word_space_10 | civil solar top license update other oil angle maximum brick |  
+| bip_39_word_space_11 | civil solar top license update other oil angle maximum brick obtain |  
+| bip_39_word_space_12 | civil solar top license update other oil angle maximum brick obtain absurd |  
+| bip_39_word_space_2 | civil solar |  
+| bip_39_word_space_3 | civil solar top |  
+| bip_39_word_space_4 | civil solar top license |  
+| bip_39_word_space_5 | civil solar top license update |  
+| bip_39_word_space_6 | civil solar top license update other |  
+| bip_39_word_space_7 | civil solar top license update other oil |  
+| bip_39_word_space_8 | civil solar top license update other oil angle |  
+| bip_39_word_space_9 | civil solar top license update other oil angle maximum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

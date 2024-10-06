@@ -1,3 +1,187 @@
+bip_39_word_new_br1: outdoor
+bip_39_word_new_br10: outdoor<br>vintage<br>federal<br>taxi<br>leopard<br>van<br>stumble<br>shop<br>success<br>cannon
+bip_39_word_new_br11: outdoor<br>vintage<br>federal<br>taxi<br>leopard<br>van<br>stumble<br>shop<br>success<br>cannon<br>educate
+bip_39_word_new_br12: outdoor<br>vintage<br>federal<br>taxi<br>leopard<br>van<br>stumble<br>shop<br>success<br>cannon<br>educate<br>almost
+bip_39_word_new_br2: outdoor<br>vintage
+bip_39_word_new_br3: outdoor<br>vintage<br>federal
+bip_39_word_new_br4: outdoor<br>vintage<br>federal<br>taxi
+bip_39_word_new_br5: outdoor<br>vintage<br>federal<br>taxi<br>leopard
+bip_39_word_new_br6: outdoor<br>vintage<br>federal<br>taxi<br>leopard<br>van
+bip_39_word_new_br7: outdoor<br>vintage<br>federal<br>taxi<br>leopard<br>van<br>stumble
+bip_39_word_new_br8: outdoor<br>vintage<br>federal<br>taxi<br>leopard<br>van<br>stumble<br>shop
+bip_39_word_new_br9: outdoor<br>vintage<br>federal<br>taxi<br>leopard<br>van<br>stumble<br>shop<br>success
+bip_39_word_new_line1: outdoor
+bip_39_word_new_line10: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi
+
+  leopard
+
+  van
+
+  stumble
+
+  shop
+
+  success
+
+  cannon'
+bip_39_word_new_line11: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi
+
+  leopard
+
+  van
+
+  stumble
+
+  shop
+
+  success
+
+  cannon
+
+  educate'
+bip_39_word_new_line12: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi
+
+  leopard
+
+  van
+
+  stumble
+
+  shop
+
+  success
+
+  cannon
+
+  educate
+
+  almost'
+bip_39_word_new_line2: 'outdoor
+
+  vintage'
+bip_39_word_new_line3: 'outdoor
+
+  vintage
+
+  federal'
+bip_39_word_new_line4: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi'
+bip_39_word_new_line5: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi
+
+  leopard'
+bip_39_word_new_line6: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi
+
+  leopard
+
+  van'
+bip_39_word_new_line7: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi
+
+  leopard
+
+  van
+
+  stumble'
+bip_39_word_new_line8: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi
+
+  leopard
+
+  van
+
+  stumble
+
+  shop'
+bip_39_word_new_line9: 'outdoor
+
+  vintage
+
+  federal
+
+  taxi
+
+  leopard
+
+  van
+
+  stumble
+
+  shop
+
+  success'
+bip_39_word_space_0:
+- outdoor
+- vintage
+- federal
+- taxi
+- leopard
+- van
+- stumble
+- shop
+- success
+- cannon
+- educate
+- almost
+bip_39_word_space_1: outdoor
+bip_39_word_space_10: outdoor vintage federal taxi leopard van stumble shop success
+  cannon
+bip_39_word_space_11: outdoor vintage federal taxi leopard van stumble shop success
+  cannon educate
+bip_39_word_space_12: outdoor vintage federal taxi leopard van stumble shop success
+  cannon educate almost
+bip_39_word_space_2: outdoor vintage
+bip_39_word_space_3: outdoor vintage federal
+bip_39_word_space_4: outdoor vintage federal taxi
+bip_39_word_space_5: outdoor vintage federal taxi leopard
+bip_39_word_space_6: outdoor vintage federal taxi leopard van
+bip_39_word_space_7: outdoor vintage federal taxi leopard van stumble
+bip_39_word_space_8: outdoor vintage federal taxi leopard van stumble shop
+bip_39_word_space_9: outdoor vintage federal taxi leopard van stumble shop success
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

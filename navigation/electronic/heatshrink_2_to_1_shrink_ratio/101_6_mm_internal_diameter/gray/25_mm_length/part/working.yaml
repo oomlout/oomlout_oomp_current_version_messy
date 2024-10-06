@@ -1,3 +1,186 @@
+bip_39_word_new_br1: transfer
+bip_39_word_new_br10: transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy
+bip_39_word_new_br11: transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy<br>before
+bip_39_word_new_br12: transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist<br>strategy<br>before<br>amateur
+bip_39_word_new_br2: transfer<br>name
+bip_39_word_new_br3: transfer<br>name<br>bargain
+bip_39_word_new_br4: transfer<br>name<br>bargain<br>pole
+bip_39_word_new_br5: transfer<br>name<br>bargain<br>pole<br>helmet
+bip_39_word_new_br6: transfer<br>name<br>bargain<br>pole<br>helmet<br>volume
+bip_39_word_new_br7: transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot
+bip_39_word_new_br8: transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow
+bip_39_word_new_br9: transfer<br>name<br>bargain<br>pole<br>helmet<br>volume<br>pilot<br>arrow<br>twist
+bip_39_word_new_line1: transfer
+bip_39_word_new_line10: 'transfer
+
+  name
+
+  bargain
+
+  pole
+
+  helmet
+
+  volume
+
+  pilot
+
+  arrow
+
+  twist
+
+  strategy'
+bip_39_word_new_line11: 'transfer
+
+  name
+
+  bargain
+
+  pole
+
+  helmet
+
+  volume
+
+  pilot
+
+  arrow
+
+  twist
+
+  strategy
+
+  before'
+bip_39_word_new_line12: 'transfer
+
+  name
+
+  bargain
+
+  pole
+
+  helmet
+
+  volume
+
+  pilot
+
+  arrow
+
+  twist
+
+  strategy
+
+  before
+
+  amateur'
+bip_39_word_new_line2: 'transfer
+
+  name'
+bip_39_word_new_line3: 'transfer
+
+  name
+
+  bargain'
+bip_39_word_new_line4: 'transfer
+
+  name
+
+  bargain
+
+  pole'
+bip_39_word_new_line5: 'transfer
+
+  name
+
+  bargain
+
+  pole
+
+  helmet'
+bip_39_word_new_line6: 'transfer
+
+  name
+
+  bargain
+
+  pole
+
+  helmet
+
+  volume'
+bip_39_word_new_line7: 'transfer
+
+  name
+
+  bargain
+
+  pole
+
+  helmet
+
+  volume
+
+  pilot'
+bip_39_word_new_line8: 'transfer
+
+  name
+
+  bargain
+
+  pole
+
+  helmet
+
+  volume
+
+  pilot
+
+  arrow'
+bip_39_word_new_line9: 'transfer
+
+  name
+
+  bargain
+
+  pole
+
+  helmet
+
+  volume
+
+  pilot
+
+  arrow
+
+  twist'
+bip_39_word_space_0:
+- transfer
+- name
+- bargain
+- pole
+- helmet
+- volume
+- pilot
+- arrow
+- twist
+- strategy
+- before
+- amateur
+bip_39_word_space_1: transfer
+bip_39_word_space_10: transfer name bargain pole helmet volume pilot arrow twist strategy
+bip_39_word_space_11: transfer name bargain pole helmet volume pilot arrow twist strategy
+  before
+bip_39_word_space_12: transfer name bargain pole helmet volume pilot arrow twist strategy
+  before amateur
+bip_39_word_space_2: transfer name
+bip_39_word_space_3: transfer name bargain
+bip_39_word_space_4: transfer name bargain pole
+bip_39_word_space_5: transfer name bargain pole helmet
+bip_39_word_space_6: transfer name bargain pole helmet volume
+bip_39_word_space_7: transfer name bargain pole helmet volume pilot
+bip_39_word_space_8: transfer name bargain pole helmet volume pilot arrow
+bip_39_word_space_9: transfer name bargain pole helmet volume pilot arrow twist
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

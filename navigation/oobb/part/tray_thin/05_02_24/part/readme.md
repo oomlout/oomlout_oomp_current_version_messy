@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oak cactus
+  * bip 39 word 3: oak cactus drive
+  * bip 39 word: oak cactus drive hour unhappy approve noodle sample price property minute always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oak |  
+| bip_39_word_new_br10 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve<br>noodle<br>sample<br>price<br>property |  
+| bip_39_word_new_br11 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve<br>noodle<br>sample<br>price<br>property<br>minute |  
+| bip_39_word_new_br12 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve<br>noodle<br>sample<br>price<br>property<br>minute<br>always |  
+| bip_39_word_new_br2 | oak<br>cactus |  
+| bip_39_word_new_br3 | oak<br>cactus<br>drive |  
+| bip_39_word_new_br4 | oak<br>cactus<br>drive<br>hour |  
+| bip_39_word_new_br5 | oak<br>cactus<br>drive<br>hour<br>unhappy |  
+| bip_39_word_new_br6 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve |  
+| bip_39_word_new_br7 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve<br>noodle |  
+| bip_39_word_new_br8 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve<br>noodle<br>sample |  
+| bip_39_word_new_br9 | oak<br>cactus<br>drive<br>hour<br>unhappy<br>approve<br>noodle<br>sample<br>price |  
+| bip_39_word_new_line1 | oak |  
+| bip_39_word_new_line10 | oak
+cactus
+drive
+hour
+unhappy
+approve
+noodle
+sample
+price
+property |  
+| bip_39_word_new_line11 | oak
+cactus
+drive
+hour
+unhappy
+approve
+noodle
+sample
+price
+property
+minute |  
+| bip_39_word_new_line12 | oak
+cactus
+drive
+hour
+unhappy
+approve
+noodle
+sample
+price
+property
+minute
+always |  
+| bip_39_word_new_line2 | oak
+cactus |  
+| bip_39_word_new_line3 | oak
+cactus
+drive |  
+| bip_39_word_new_line4 | oak
+cactus
+drive
+hour |  
+| bip_39_word_new_line5 | oak
+cactus
+drive
+hour
+unhappy |  
+| bip_39_word_new_line6 | oak
+cactus
+drive
+hour
+unhappy
+approve |  
+| bip_39_word_new_line7 | oak
+cactus
+drive
+hour
+unhappy
+approve
+noodle |  
+| bip_39_word_new_line8 | oak
+cactus
+drive
+hour
+unhappy
+approve
+noodle
+sample |  
+| bip_39_word_new_line9 | oak
+cactus
+drive
+hour
+unhappy
+approve
+noodle
+sample
+price |  
+| bip_39_word_space_0 | ['oak', 'cactus', 'drive', 'hour', 'unhappy', 'approve', 'noodle', 'sample', 'price', 'property', 'minute', 'always'] |  
+| bip_39_word_space_1 | oak |  
+| bip_39_word_space_10 | oak cactus drive hour unhappy approve noodle sample price property |  
+| bip_39_word_space_11 | oak cactus drive hour unhappy approve noodle sample price property minute |  
+| bip_39_word_space_12 | oak cactus drive hour unhappy approve noodle sample price property minute always |  
+| bip_39_word_space_2 | oak cactus |  
+| bip_39_word_space_3 | oak cactus drive |  
+| bip_39_word_space_4 | oak cactus drive hour |  
+| bip_39_word_space_5 | oak cactus drive hour unhappy |  
+| bip_39_word_space_6 | oak cactus drive hour unhappy approve |  
+| bip_39_word_space_7 | oak cactus drive hour unhappy approve noodle |  
+| bip_39_word_space_8 | oak cactus drive hour unhappy approve noodle sample |  
+| bip_39_word_space_9 | oak cactus drive hour unhappy approve noodle sample price |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

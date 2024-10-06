@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: assist define
+  * bip 39 word 3: assist define engine
+  * bip 39 word: assist define engine raven whip power nest reunion govern execute layer abstract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | assist |  
+| bip_39_word_new_br10 | assist<br>define<br>engine<br>raven<br>whip<br>power<br>nest<br>reunion<br>govern<br>execute |  
+| bip_39_word_new_br11 | assist<br>define<br>engine<br>raven<br>whip<br>power<br>nest<br>reunion<br>govern<br>execute<br>layer |  
+| bip_39_word_new_br12 | assist<br>define<br>engine<br>raven<br>whip<br>power<br>nest<br>reunion<br>govern<br>execute<br>layer<br>abstract |  
+| bip_39_word_new_br2 | assist<br>define |  
+| bip_39_word_new_br3 | assist<br>define<br>engine |  
+| bip_39_word_new_br4 | assist<br>define<br>engine<br>raven |  
+| bip_39_word_new_br5 | assist<br>define<br>engine<br>raven<br>whip |  
+| bip_39_word_new_br6 | assist<br>define<br>engine<br>raven<br>whip<br>power |  
+| bip_39_word_new_br7 | assist<br>define<br>engine<br>raven<br>whip<br>power<br>nest |  
+| bip_39_word_new_br8 | assist<br>define<br>engine<br>raven<br>whip<br>power<br>nest<br>reunion |  
+| bip_39_word_new_br9 | assist<br>define<br>engine<br>raven<br>whip<br>power<br>nest<br>reunion<br>govern |  
+| bip_39_word_new_line1 | assist |  
+| bip_39_word_new_line10 | assist
+define
+engine
+raven
+whip
+power
+nest
+reunion
+govern
+execute |  
+| bip_39_word_new_line11 | assist
+define
+engine
+raven
+whip
+power
+nest
+reunion
+govern
+execute
+layer |  
+| bip_39_word_new_line12 | assist
+define
+engine
+raven
+whip
+power
+nest
+reunion
+govern
+execute
+layer
+abstract |  
+| bip_39_word_new_line2 | assist
+define |  
+| bip_39_word_new_line3 | assist
+define
+engine |  
+| bip_39_word_new_line4 | assist
+define
+engine
+raven |  
+| bip_39_word_new_line5 | assist
+define
+engine
+raven
+whip |  
+| bip_39_word_new_line6 | assist
+define
+engine
+raven
+whip
+power |  
+| bip_39_word_new_line7 | assist
+define
+engine
+raven
+whip
+power
+nest |  
+| bip_39_word_new_line8 | assist
+define
+engine
+raven
+whip
+power
+nest
+reunion |  
+| bip_39_word_new_line9 | assist
+define
+engine
+raven
+whip
+power
+nest
+reunion
+govern |  
+| bip_39_word_space_0 | ['assist', 'define', 'engine', 'raven', 'whip', 'power', 'nest', 'reunion', 'govern', 'execute', 'layer', 'abstract'] |  
+| bip_39_word_space_1 | assist |  
+| bip_39_word_space_10 | assist define engine raven whip power nest reunion govern execute |  
+| bip_39_word_space_11 | assist define engine raven whip power nest reunion govern execute layer |  
+| bip_39_word_space_12 | assist define engine raven whip power nest reunion govern execute layer abstract |  
+| bip_39_word_space_2 | assist define |  
+| bip_39_word_space_3 | assist define engine |  
+| bip_39_word_space_4 | assist define engine raven |  
+| bip_39_word_space_5 | assist define engine raven whip |  
+| bip_39_word_space_6 | assist define engine raven whip power |  
+| bip_39_word_space_7 | assist define engine raven whip power nest |  
+| bip_39_word_space_8 | assist define engine raven whip power nest reunion |  
+| bip_39_word_space_9 | assist define engine raven whip power nest reunion govern |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

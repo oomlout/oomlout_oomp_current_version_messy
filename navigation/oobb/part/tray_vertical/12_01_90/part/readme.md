@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: camera auto
+  * bip 39 word 3: camera auto fee
+  * bip 39 word: camera auto fee fire dish toilet mean vicious grocery anchor neutral aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | camera |  
+| bip_39_word_new_br10 | camera<br>auto<br>fee<br>fire<br>dish<br>toilet<br>mean<br>vicious<br>grocery<br>anchor |  
+| bip_39_word_new_br11 | camera<br>auto<br>fee<br>fire<br>dish<br>toilet<br>mean<br>vicious<br>grocery<br>anchor<br>neutral |  
+| bip_39_word_new_br12 | camera<br>auto<br>fee<br>fire<br>dish<br>toilet<br>mean<br>vicious<br>grocery<br>anchor<br>neutral<br>aspect |  
+| bip_39_word_new_br2 | camera<br>auto |  
+| bip_39_word_new_br3 | camera<br>auto<br>fee |  
+| bip_39_word_new_br4 | camera<br>auto<br>fee<br>fire |  
+| bip_39_word_new_br5 | camera<br>auto<br>fee<br>fire<br>dish |  
+| bip_39_word_new_br6 | camera<br>auto<br>fee<br>fire<br>dish<br>toilet |  
+| bip_39_word_new_br7 | camera<br>auto<br>fee<br>fire<br>dish<br>toilet<br>mean |  
+| bip_39_word_new_br8 | camera<br>auto<br>fee<br>fire<br>dish<br>toilet<br>mean<br>vicious |  
+| bip_39_word_new_br9 | camera<br>auto<br>fee<br>fire<br>dish<br>toilet<br>mean<br>vicious<br>grocery |  
+| bip_39_word_new_line1 | camera |  
+| bip_39_word_new_line10 | camera
+auto
+fee
+fire
+dish
+toilet
+mean
+vicious
+grocery
+anchor |  
+| bip_39_word_new_line11 | camera
+auto
+fee
+fire
+dish
+toilet
+mean
+vicious
+grocery
+anchor
+neutral |  
+| bip_39_word_new_line12 | camera
+auto
+fee
+fire
+dish
+toilet
+mean
+vicious
+grocery
+anchor
+neutral
+aspect |  
+| bip_39_word_new_line2 | camera
+auto |  
+| bip_39_word_new_line3 | camera
+auto
+fee |  
+| bip_39_word_new_line4 | camera
+auto
+fee
+fire |  
+| bip_39_word_new_line5 | camera
+auto
+fee
+fire
+dish |  
+| bip_39_word_new_line6 | camera
+auto
+fee
+fire
+dish
+toilet |  
+| bip_39_word_new_line7 | camera
+auto
+fee
+fire
+dish
+toilet
+mean |  
+| bip_39_word_new_line8 | camera
+auto
+fee
+fire
+dish
+toilet
+mean
+vicious |  
+| bip_39_word_new_line9 | camera
+auto
+fee
+fire
+dish
+toilet
+mean
+vicious
+grocery |  
+| bip_39_word_space_0 | ['camera', 'auto', 'fee', 'fire', 'dish', 'toilet', 'mean', 'vicious', 'grocery', 'anchor', 'neutral', 'aspect'] |  
+| bip_39_word_space_1 | camera |  
+| bip_39_word_space_10 | camera auto fee fire dish toilet mean vicious grocery anchor |  
+| bip_39_word_space_11 | camera auto fee fire dish toilet mean vicious grocery anchor neutral |  
+| bip_39_word_space_12 | camera auto fee fire dish toilet mean vicious grocery anchor neutral aspect |  
+| bip_39_word_space_2 | camera auto |  
+| bip_39_word_space_3 | camera auto fee |  
+| bip_39_word_space_4 | camera auto fee fire |  
+| bip_39_word_space_5 | camera auto fee fire dish |  
+| bip_39_word_space_6 | camera auto fee fire dish toilet |  
+| bip_39_word_space_7 | camera auto fee fire dish toilet mean |  
+| bip_39_word_space_8 | camera auto fee fire dish toilet mean vicious |  
+| bip_39_word_space_9 | camera auto fee fire dish toilet mean vicious grocery |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

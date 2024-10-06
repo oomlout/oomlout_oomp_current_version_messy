@@ -1,3 +1,186 @@
+bip_39_word_new_br1: series
+bip_39_word_new_br10: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit
+bip_39_word_new_br11: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful
+bip_39_word_new_br12: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful<br>actress
+bip_39_word_new_br2: series<br>exclude
+bip_39_word_new_br3: series<br>exclude<br>lemon
+bip_39_word_new_br4: series<br>exclude<br>lemon<br>light
+bip_39_word_new_br5: series<br>exclude<br>lemon<br>light<br>crime
+bip_39_word_new_br6: series<br>exclude<br>lemon<br>light<br>crime<br>bulk
+bip_39_word_new_br7: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk
+bip_39_word_new_br8: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous
+bip_39_word_new_br9: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror
+bip_39_word_new_line1: series
+bip_39_word_new_line10: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous
+
+  mirror
+
+  benefit'
+bip_39_word_new_line11: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous
+
+  mirror
+
+  benefit
+
+  useful'
+bip_39_word_new_line12: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous
+
+  mirror
+
+  benefit
+
+  useful
+
+  actress'
+bip_39_word_new_line2: 'series
+
+  exclude'
+bip_39_word_new_line3: 'series
+
+  exclude
+
+  lemon'
+bip_39_word_new_line4: 'series
+
+  exclude
+
+  lemon
+
+  light'
+bip_39_word_new_line5: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime'
+bip_39_word_new_line6: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk'
+bip_39_word_new_line7: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk'
+bip_39_word_new_line8: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous'
+bip_39_word_new_line9: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous
+
+  mirror'
+bip_39_word_space_0:
+- series
+- exclude
+- lemon
+- light
+- crime
+- bulk
+- clerk
+- jealous
+- mirror
+- benefit
+- useful
+- actress
+bip_39_word_space_1: series
+bip_39_word_space_10: series exclude lemon light crime bulk clerk jealous mirror benefit
+bip_39_word_space_11: series exclude lemon light crime bulk clerk jealous mirror benefit
+  useful
+bip_39_word_space_12: series exclude lemon light crime bulk clerk jealous mirror benefit
+  useful actress
+bip_39_word_space_2: series exclude
+bip_39_word_space_3: series exclude lemon
+bip_39_word_space_4: series exclude lemon light
+bip_39_word_space_5: series exclude lemon light crime
+bip_39_word_space_6: series exclude lemon light crime bulk
+bip_39_word_space_7: series exclude lemon light crime bulk clerk
+bip_39_word_space_8: series exclude lemon light crime bulk clerk jealous
+bip_39_word_space_9: series exclude lemon light crime bulk clerk jealous mirror
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

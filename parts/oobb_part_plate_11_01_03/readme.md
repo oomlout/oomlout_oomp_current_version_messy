@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: faint okay
+  * bip 39 word 3: faint okay dash
+  * bip 39 word: faint okay dash enact tent lady tonight word bleak medal canal aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | faint |  
+| bip_39_word_new_br10 | faint<br>okay<br>dash<br>enact<br>tent<br>lady<br>tonight<br>word<br>bleak<br>medal |  
+| bip_39_word_new_br11 | faint<br>okay<br>dash<br>enact<br>tent<br>lady<br>tonight<br>word<br>bleak<br>medal<br>canal |  
+| bip_39_word_new_br12 | faint<br>okay<br>dash<br>enact<br>tent<br>lady<br>tonight<br>word<br>bleak<br>medal<br>canal<br>aerobic |  
+| bip_39_word_new_br2 | faint<br>okay |  
+| bip_39_word_new_br3 | faint<br>okay<br>dash |  
+| bip_39_word_new_br4 | faint<br>okay<br>dash<br>enact |  
+| bip_39_word_new_br5 | faint<br>okay<br>dash<br>enact<br>tent |  
+| bip_39_word_new_br6 | faint<br>okay<br>dash<br>enact<br>tent<br>lady |  
+| bip_39_word_new_br7 | faint<br>okay<br>dash<br>enact<br>tent<br>lady<br>tonight |  
+| bip_39_word_new_br8 | faint<br>okay<br>dash<br>enact<br>tent<br>lady<br>tonight<br>word |  
+| bip_39_word_new_br9 | faint<br>okay<br>dash<br>enact<br>tent<br>lady<br>tonight<br>word<br>bleak |  
+| bip_39_word_new_line1 | faint |  
+| bip_39_word_new_line10 | faint
+okay
+dash
+enact
+tent
+lady
+tonight
+word
+bleak
+medal |  
+| bip_39_word_new_line11 | faint
+okay
+dash
+enact
+tent
+lady
+tonight
+word
+bleak
+medal
+canal |  
+| bip_39_word_new_line12 | faint
+okay
+dash
+enact
+tent
+lady
+tonight
+word
+bleak
+medal
+canal
+aerobic |  
+| bip_39_word_new_line2 | faint
+okay |  
+| bip_39_word_new_line3 | faint
+okay
+dash |  
+| bip_39_word_new_line4 | faint
+okay
+dash
+enact |  
+| bip_39_word_new_line5 | faint
+okay
+dash
+enact
+tent |  
+| bip_39_word_new_line6 | faint
+okay
+dash
+enact
+tent
+lady |  
+| bip_39_word_new_line7 | faint
+okay
+dash
+enact
+tent
+lady
+tonight |  
+| bip_39_word_new_line8 | faint
+okay
+dash
+enact
+tent
+lady
+tonight
+word |  
+| bip_39_word_new_line9 | faint
+okay
+dash
+enact
+tent
+lady
+tonight
+word
+bleak |  
+| bip_39_word_space_0 | ['faint', 'okay', 'dash', 'enact', 'tent', 'lady', 'tonight', 'word', 'bleak', 'medal', 'canal', 'aerobic'] |  
+| bip_39_word_space_1 | faint |  
+| bip_39_word_space_10 | faint okay dash enact tent lady tonight word bleak medal |  
+| bip_39_word_space_11 | faint okay dash enact tent lady tonight word bleak medal canal |  
+| bip_39_word_space_12 | faint okay dash enact tent lady tonight word bleak medal canal aerobic |  
+| bip_39_word_space_2 | faint okay |  
+| bip_39_word_space_3 | faint okay dash |  
+| bip_39_word_space_4 | faint okay dash enact |  
+| bip_39_word_space_5 | faint okay dash enact tent |  
+| bip_39_word_space_6 | faint okay dash enact tent lady |  
+| bip_39_word_space_7 | faint okay dash enact tent lady tonight |  
+| bip_39_word_space_8 | faint okay dash enact tent lady tonight word |  
+| bip_39_word_space_9 | faint okay dash enact tent lady tonight word bleak |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

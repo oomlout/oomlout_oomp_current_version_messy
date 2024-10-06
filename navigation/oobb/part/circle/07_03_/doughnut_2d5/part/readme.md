@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: doughnut_2d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: review snap
+  * bip 39 word 3: review snap canyon
+  * bip 39 word: review snap canyon pluck pear basket auto excuse fantasy wagon talk addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | review |  
+| bip_39_word_new_br10 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket<br>auto<br>excuse<br>fantasy<br>wagon |  
+| bip_39_word_new_br11 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket<br>auto<br>excuse<br>fantasy<br>wagon<br>talk |  
+| bip_39_word_new_br12 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket<br>auto<br>excuse<br>fantasy<br>wagon<br>talk<br>addict |  
+| bip_39_word_new_br2 | review<br>snap |  
+| bip_39_word_new_br3 | review<br>snap<br>canyon |  
+| bip_39_word_new_br4 | review<br>snap<br>canyon<br>pluck |  
+| bip_39_word_new_br5 | review<br>snap<br>canyon<br>pluck<br>pear |  
+| bip_39_word_new_br6 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket |  
+| bip_39_word_new_br7 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket<br>auto |  
+| bip_39_word_new_br8 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket<br>auto<br>excuse |  
+| bip_39_word_new_br9 | review<br>snap<br>canyon<br>pluck<br>pear<br>basket<br>auto<br>excuse<br>fantasy |  
+| bip_39_word_new_line1 | review |  
+| bip_39_word_new_line10 | review
+snap
+canyon
+pluck
+pear
+basket
+auto
+excuse
+fantasy
+wagon |  
+| bip_39_word_new_line11 | review
+snap
+canyon
+pluck
+pear
+basket
+auto
+excuse
+fantasy
+wagon
+talk |  
+| bip_39_word_new_line12 | review
+snap
+canyon
+pluck
+pear
+basket
+auto
+excuse
+fantasy
+wagon
+talk
+addict |  
+| bip_39_word_new_line2 | review
+snap |  
+| bip_39_word_new_line3 | review
+snap
+canyon |  
+| bip_39_word_new_line4 | review
+snap
+canyon
+pluck |  
+| bip_39_word_new_line5 | review
+snap
+canyon
+pluck
+pear |  
+| bip_39_word_new_line6 | review
+snap
+canyon
+pluck
+pear
+basket |  
+| bip_39_word_new_line7 | review
+snap
+canyon
+pluck
+pear
+basket
+auto |  
+| bip_39_word_new_line8 | review
+snap
+canyon
+pluck
+pear
+basket
+auto
+excuse |  
+| bip_39_word_new_line9 | review
+snap
+canyon
+pluck
+pear
+basket
+auto
+excuse
+fantasy |  
+| bip_39_word_space_0 | ['review', 'snap', 'canyon', 'pluck', 'pear', 'basket', 'auto', 'excuse', 'fantasy', 'wagon', 'talk', 'addict'] |  
+| bip_39_word_space_1 | review |  
+| bip_39_word_space_10 | review snap canyon pluck pear basket auto excuse fantasy wagon |  
+| bip_39_word_space_11 | review snap canyon pluck pear basket auto excuse fantasy wagon talk |  
+| bip_39_word_space_12 | review snap canyon pluck pear basket auto excuse fantasy wagon talk addict |  
+| bip_39_word_space_2 | review snap |  
+| bip_39_word_space_3 | review snap canyon |  
+| bip_39_word_space_4 | review snap canyon pluck |  
+| bip_39_word_space_5 | review snap canyon pluck pear |  
+| bip_39_word_space_6 | review snap canyon pluck pear basket |  
+| bip_39_word_space_7 | review snap canyon pluck pear basket auto |  
+| bip_39_word_space_8 | review snap canyon pluck pear basket auto excuse |  
+| bip_39_word_space_9 | review snap canyon pluck pear basket auto excuse fantasy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

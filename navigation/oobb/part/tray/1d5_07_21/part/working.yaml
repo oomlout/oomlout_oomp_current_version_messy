@@ -1,3 +1,185 @@
+bip_39_word_new_br1: opinion
+bip_39_word_new_br10: opinion<br>upper<br>seed<br>swift<br>blind<br>tree<br>double<br>cost<br>this<br>grab
+bip_39_word_new_br11: opinion<br>upper<br>seed<br>swift<br>blind<br>tree<br>double<br>cost<br>this<br>grab<br>law
+bip_39_word_new_br12: opinion<br>upper<br>seed<br>swift<br>blind<br>tree<br>double<br>cost<br>this<br>grab<br>law<br>absurd
+bip_39_word_new_br2: opinion<br>upper
+bip_39_word_new_br3: opinion<br>upper<br>seed
+bip_39_word_new_br4: opinion<br>upper<br>seed<br>swift
+bip_39_word_new_br5: opinion<br>upper<br>seed<br>swift<br>blind
+bip_39_word_new_br6: opinion<br>upper<br>seed<br>swift<br>blind<br>tree
+bip_39_word_new_br7: opinion<br>upper<br>seed<br>swift<br>blind<br>tree<br>double
+bip_39_word_new_br8: opinion<br>upper<br>seed<br>swift<br>blind<br>tree<br>double<br>cost
+bip_39_word_new_br9: opinion<br>upper<br>seed<br>swift<br>blind<br>tree<br>double<br>cost<br>this
+bip_39_word_new_line1: opinion
+bip_39_word_new_line10: 'opinion
+
+  upper
+
+  seed
+
+  swift
+
+  blind
+
+  tree
+
+  double
+
+  cost
+
+  this
+
+  grab'
+bip_39_word_new_line11: 'opinion
+
+  upper
+
+  seed
+
+  swift
+
+  blind
+
+  tree
+
+  double
+
+  cost
+
+  this
+
+  grab
+
+  law'
+bip_39_word_new_line12: 'opinion
+
+  upper
+
+  seed
+
+  swift
+
+  blind
+
+  tree
+
+  double
+
+  cost
+
+  this
+
+  grab
+
+  law
+
+  absurd'
+bip_39_word_new_line2: 'opinion
+
+  upper'
+bip_39_word_new_line3: 'opinion
+
+  upper
+
+  seed'
+bip_39_word_new_line4: 'opinion
+
+  upper
+
+  seed
+
+  swift'
+bip_39_word_new_line5: 'opinion
+
+  upper
+
+  seed
+
+  swift
+
+  blind'
+bip_39_word_new_line6: 'opinion
+
+  upper
+
+  seed
+
+  swift
+
+  blind
+
+  tree'
+bip_39_word_new_line7: 'opinion
+
+  upper
+
+  seed
+
+  swift
+
+  blind
+
+  tree
+
+  double'
+bip_39_word_new_line8: 'opinion
+
+  upper
+
+  seed
+
+  swift
+
+  blind
+
+  tree
+
+  double
+
+  cost'
+bip_39_word_new_line9: 'opinion
+
+  upper
+
+  seed
+
+  swift
+
+  blind
+
+  tree
+
+  double
+
+  cost
+
+  this'
+bip_39_word_space_0:
+- opinion
+- upper
+- seed
+- swift
+- blind
+- tree
+- double
+- cost
+- this
+- grab
+- law
+- absurd
+bip_39_word_space_1: opinion
+bip_39_word_space_10: opinion upper seed swift blind tree double cost this grab
+bip_39_word_space_11: opinion upper seed swift blind tree double cost this grab law
+bip_39_word_space_12: opinion upper seed swift blind tree double cost this grab law
+  absurd
+bip_39_word_space_2: opinion upper
+bip_39_word_space_3: opinion upper seed
+bip_39_word_space_4: opinion upper seed swift
+bip_39_word_space_5: opinion upper seed swift blind
+bip_39_word_space_6: opinion upper seed swift blind tree
+bip_39_word_space_7: opinion upper seed swift blind tree double
+bip_39_word_space_8: opinion upper seed swift blind tree double cost
+bip_39_word_space_9: opinion upper seed swift blind tree double cost this
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

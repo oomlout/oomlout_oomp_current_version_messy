@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: project media
+  * bip 39 word 3: project media rival
+  * bip 39 word: project media rival educate fuel evolve frost essay online spread hard answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | project |  
+| bip_39_word_new_br10 | project<br>media<br>rival<br>educate<br>fuel<br>evolve<br>frost<br>essay<br>online<br>spread |  
+| bip_39_word_new_br11 | project<br>media<br>rival<br>educate<br>fuel<br>evolve<br>frost<br>essay<br>online<br>spread<br>hard |  
+| bip_39_word_new_br12 | project<br>media<br>rival<br>educate<br>fuel<br>evolve<br>frost<br>essay<br>online<br>spread<br>hard<br>answer |  
+| bip_39_word_new_br2 | project<br>media |  
+| bip_39_word_new_br3 | project<br>media<br>rival |  
+| bip_39_word_new_br4 | project<br>media<br>rival<br>educate |  
+| bip_39_word_new_br5 | project<br>media<br>rival<br>educate<br>fuel |  
+| bip_39_word_new_br6 | project<br>media<br>rival<br>educate<br>fuel<br>evolve |  
+| bip_39_word_new_br7 | project<br>media<br>rival<br>educate<br>fuel<br>evolve<br>frost |  
+| bip_39_word_new_br8 | project<br>media<br>rival<br>educate<br>fuel<br>evolve<br>frost<br>essay |  
+| bip_39_word_new_br9 | project<br>media<br>rival<br>educate<br>fuel<br>evolve<br>frost<br>essay<br>online |  
+| bip_39_word_new_line1 | project |  
+| bip_39_word_new_line10 | project
+media
+rival
+educate
+fuel
+evolve
+frost
+essay
+online
+spread |  
+| bip_39_word_new_line11 | project
+media
+rival
+educate
+fuel
+evolve
+frost
+essay
+online
+spread
+hard |  
+| bip_39_word_new_line12 | project
+media
+rival
+educate
+fuel
+evolve
+frost
+essay
+online
+spread
+hard
+answer |  
+| bip_39_word_new_line2 | project
+media |  
+| bip_39_word_new_line3 | project
+media
+rival |  
+| bip_39_word_new_line4 | project
+media
+rival
+educate |  
+| bip_39_word_new_line5 | project
+media
+rival
+educate
+fuel |  
+| bip_39_word_new_line6 | project
+media
+rival
+educate
+fuel
+evolve |  
+| bip_39_word_new_line7 | project
+media
+rival
+educate
+fuel
+evolve
+frost |  
+| bip_39_word_new_line8 | project
+media
+rival
+educate
+fuel
+evolve
+frost
+essay |  
+| bip_39_word_new_line9 | project
+media
+rival
+educate
+fuel
+evolve
+frost
+essay
+online |  
+| bip_39_word_space_0 | ['project', 'media', 'rival', 'educate', 'fuel', 'evolve', 'frost', 'essay', 'online', 'spread', 'hard', 'answer'] |  
+| bip_39_word_space_1 | project |  
+| bip_39_word_space_10 | project media rival educate fuel evolve frost essay online spread |  
+| bip_39_word_space_11 | project media rival educate fuel evolve frost essay online spread hard |  
+| bip_39_word_space_12 | project media rival educate fuel evolve frost essay online spread hard answer |  
+| bip_39_word_space_2 | project media |  
+| bip_39_word_space_3 | project media rival |  
+| bip_39_word_space_4 | project media rival educate |  
+| bip_39_word_space_5 | project media rival educate fuel |  
+| bip_39_word_space_6 | project media rival educate fuel evolve |  
+| bip_39_word_space_7 | project media rival educate fuel evolve frost |  
+| bip_39_word_space_8 | project media rival educate fuel evolve frost essay |  
+| bip_39_word_space_9 | project media rival educate fuel evolve frost essay online |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

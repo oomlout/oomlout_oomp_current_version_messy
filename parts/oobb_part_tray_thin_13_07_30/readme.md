@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: core social
+  * bip 39 word 3: core social hamster
+  * bip 39 word: core social hamster tuna piece fox scatter attend empower mushroom brand airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | core |  
+| bip_39_word_new_br10 | core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower<br>mushroom |  
+| bip_39_word_new_br11 | core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower<br>mushroom<br>brand |  
+| bip_39_word_new_br12 | core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower<br>mushroom<br>brand<br>airport |  
+| bip_39_word_new_br2 | core<br>social |  
+| bip_39_word_new_br3 | core<br>social<br>hamster |  
+| bip_39_word_new_br4 | core<br>social<br>hamster<br>tuna |  
+| bip_39_word_new_br5 | core<br>social<br>hamster<br>tuna<br>piece |  
+| bip_39_word_new_br6 | core<br>social<br>hamster<br>tuna<br>piece<br>fox |  
+| bip_39_word_new_br7 | core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter |  
+| bip_39_word_new_br8 | core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend |  
+| bip_39_word_new_br9 | core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower |  
+| bip_39_word_new_line1 | core |  
+| bip_39_word_new_line10 | core
+social
+hamster
+tuna
+piece
+fox
+scatter
+attend
+empower
+mushroom |  
+| bip_39_word_new_line11 | core
+social
+hamster
+tuna
+piece
+fox
+scatter
+attend
+empower
+mushroom
+brand |  
+| bip_39_word_new_line12 | core
+social
+hamster
+tuna
+piece
+fox
+scatter
+attend
+empower
+mushroom
+brand
+airport |  
+| bip_39_word_new_line2 | core
+social |  
+| bip_39_word_new_line3 | core
+social
+hamster |  
+| bip_39_word_new_line4 | core
+social
+hamster
+tuna |  
+| bip_39_word_new_line5 | core
+social
+hamster
+tuna
+piece |  
+| bip_39_word_new_line6 | core
+social
+hamster
+tuna
+piece
+fox |  
+| bip_39_word_new_line7 | core
+social
+hamster
+tuna
+piece
+fox
+scatter |  
+| bip_39_word_new_line8 | core
+social
+hamster
+tuna
+piece
+fox
+scatter
+attend |  
+| bip_39_word_new_line9 | core
+social
+hamster
+tuna
+piece
+fox
+scatter
+attend
+empower |  
+| bip_39_word_space_0 | ['core', 'social', 'hamster', 'tuna', 'piece', 'fox', 'scatter', 'attend', 'empower', 'mushroom', 'brand', 'airport'] |  
+| bip_39_word_space_1 | core |  
+| bip_39_word_space_10 | core social hamster tuna piece fox scatter attend empower mushroom |  
+| bip_39_word_space_11 | core social hamster tuna piece fox scatter attend empower mushroom brand |  
+| bip_39_word_space_12 | core social hamster tuna piece fox scatter attend empower mushroom brand airport |  
+| bip_39_word_space_2 | core social |  
+| bip_39_word_space_3 | core social hamster |  
+| bip_39_word_space_4 | core social hamster tuna |  
+| bip_39_word_space_5 | core social hamster tuna piece |  
+| bip_39_word_space_6 | core social hamster tuna piece fox |  
+| bip_39_word_space_7 | core social hamster tuna piece fox scatter |  
+| bip_39_word_space_8 | core social hamster tuna piece fox scatter attend |  
+| bip_39_word_space_9 | core social hamster tuna piece fox scatter attend empower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

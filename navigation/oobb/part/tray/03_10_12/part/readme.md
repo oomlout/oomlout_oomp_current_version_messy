@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oppose own
+  * bip 39 word 3: oppose own mandate
+  * bip 39 word: oppose own mandate night beach stay deal since vacuum bird code alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oppose |  
+| bip_39_word_new_br10 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird |  
+| bip_39_word_new_br11 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird<br>code |  
+| bip_39_word_new_br12 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum<br>bird<br>code<br>alarm |  
+| bip_39_word_new_br2 | oppose<br>own |  
+| bip_39_word_new_br3 | oppose<br>own<br>mandate |  
+| bip_39_word_new_br4 | oppose<br>own<br>mandate<br>night |  
+| bip_39_word_new_br5 | oppose<br>own<br>mandate<br>night<br>beach |  
+| bip_39_word_new_br6 | oppose<br>own<br>mandate<br>night<br>beach<br>stay |  
+| bip_39_word_new_br7 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal |  
+| bip_39_word_new_br8 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since |  
+| bip_39_word_new_br9 | oppose<br>own<br>mandate<br>night<br>beach<br>stay<br>deal<br>since<br>vacuum |  
+| bip_39_word_new_line1 | oppose |  
+| bip_39_word_new_line10 | oppose
+own
+mandate
+night
+beach
+stay
+deal
+since
+vacuum
+bird |  
+| bip_39_word_new_line11 | oppose
+own
+mandate
+night
+beach
+stay
+deal
+since
+vacuum
+bird
+code |  
+| bip_39_word_new_line12 | oppose
+own
+mandate
+night
+beach
+stay
+deal
+since
+vacuum
+bird
+code
+alarm |  
+| bip_39_word_new_line2 | oppose
+own |  
+| bip_39_word_new_line3 | oppose
+own
+mandate |  
+| bip_39_word_new_line4 | oppose
+own
+mandate
+night |  
+| bip_39_word_new_line5 | oppose
+own
+mandate
+night
+beach |  
+| bip_39_word_new_line6 | oppose
+own
+mandate
+night
+beach
+stay |  
+| bip_39_word_new_line7 | oppose
+own
+mandate
+night
+beach
+stay
+deal |  
+| bip_39_word_new_line8 | oppose
+own
+mandate
+night
+beach
+stay
+deal
+since |  
+| bip_39_word_new_line9 | oppose
+own
+mandate
+night
+beach
+stay
+deal
+since
+vacuum |  
+| bip_39_word_space_0 | ['oppose', 'own', 'mandate', 'night', 'beach', 'stay', 'deal', 'since', 'vacuum', 'bird', 'code', 'alarm'] |  
+| bip_39_word_space_1 | oppose |  
+| bip_39_word_space_10 | oppose own mandate night beach stay deal since vacuum bird |  
+| bip_39_word_space_11 | oppose own mandate night beach stay deal since vacuum bird code |  
+| bip_39_word_space_12 | oppose own mandate night beach stay deal since vacuum bird code alarm |  
+| bip_39_word_space_2 | oppose own |  
+| bip_39_word_space_3 | oppose own mandate |  
+| bip_39_word_space_4 | oppose own mandate night |  
+| bip_39_word_space_5 | oppose own mandate night beach |  
+| bip_39_word_space_6 | oppose own mandate night beach stay |  
+| bip_39_word_space_7 | oppose own mandate night beach stay deal |  
+| bip_39_word_space_8 | oppose own mandate night beach stay deal since |  
+| bip_39_word_space_9 | oppose own mandate night beach stay deal since vacuum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

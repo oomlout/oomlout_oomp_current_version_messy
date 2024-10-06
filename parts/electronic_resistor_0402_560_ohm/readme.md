@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: call foil
+  * bip 39 word 3: call foil skill
+  * bip 39 word: call foil skill this news front gun design vendor artist clay address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | call |  
+| bip_39_word_new_br10 | call<br>foil<br>skill<br>this<br>news<br>front<br>gun<br>design<br>vendor<br>artist |  
+| bip_39_word_new_br11 | call<br>foil<br>skill<br>this<br>news<br>front<br>gun<br>design<br>vendor<br>artist<br>clay |  
+| bip_39_word_new_br12 | call<br>foil<br>skill<br>this<br>news<br>front<br>gun<br>design<br>vendor<br>artist<br>clay<br>address |  
+| bip_39_word_new_br2 | call<br>foil |  
+| bip_39_word_new_br3 | call<br>foil<br>skill |  
+| bip_39_word_new_br4 | call<br>foil<br>skill<br>this |  
+| bip_39_word_new_br5 | call<br>foil<br>skill<br>this<br>news |  
+| bip_39_word_new_br6 | call<br>foil<br>skill<br>this<br>news<br>front |  
+| bip_39_word_new_br7 | call<br>foil<br>skill<br>this<br>news<br>front<br>gun |  
+| bip_39_word_new_br8 | call<br>foil<br>skill<br>this<br>news<br>front<br>gun<br>design |  
+| bip_39_word_new_br9 | call<br>foil<br>skill<br>this<br>news<br>front<br>gun<br>design<br>vendor |  
+| bip_39_word_new_line1 | call |  
+| bip_39_word_new_line10 | call
+foil
+skill
+this
+news
+front
+gun
+design
+vendor
+artist |  
+| bip_39_word_new_line11 | call
+foil
+skill
+this
+news
+front
+gun
+design
+vendor
+artist
+clay |  
+| bip_39_word_new_line12 | call
+foil
+skill
+this
+news
+front
+gun
+design
+vendor
+artist
+clay
+address |  
+| bip_39_word_new_line2 | call
+foil |  
+| bip_39_word_new_line3 | call
+foil
+skill |  
+| bip_39_word_new_line4 | call
+foil
+skill
+this |  
+| bip_39_word_new_line5 | call
+foil
+skill
+this
+news |  
+| bip_39_word_new_line6 | call
+foil
+skill
+this
+news
+front |  
+| bip_39_word_new_line7 | call
+foil
+skill
+this
+news
+front
+gun |  
+| bip_39_word_new_line8 | call
+foil
+skill
+this
+news
+front
+gun
+design |  
+| bip_39_word_new_line9 | call
+foil
+skill
+this
+news
+front
+gun
+design
+vendor |  
+| bip_39_word_space_0 | ['call', 'foil', 'skill', 'this', 'news', 'front', 'gun', 'design', 'vendor', 'artist', 'clay', 'address'] |  
+| bip_39_word_space_1 | call |  
+| bip_39_word_space_10 | call foil skill this news front gun design vendor artist |  
+| bip_39_word_space_11 | call foil skill this news front gun design vendor artist clay |  
+| bip_39_word_space_12 | call foil skill this news front gun design vendor artist clay address |  
+| bip_39_word_space_2 | call foil |  
+| bip_39_word_space_3 | call foil skill |  
+| bip_39_word_space_4 | call foil skill this |  
+| bip_39_word_space_5 | call foil skill this news |  
+| bip_39_word_space_6 | call foil skill this news front |  
+| bip_39_word_space_7 | call foil skill this news front gun |  
+| bip_39_word_space_8 | call foil skill this news front gun design |  
+| bip_39_word_space_9 | call foil skill this news front gun design vendor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

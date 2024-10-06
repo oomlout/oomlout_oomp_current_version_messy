@@ -1,3 +1,186 @@
+bip_39_word_new_br1: network
+bip_39_word_new_br10: network<br>evolve<br>leopard<br>black<br>review<br>mule<br>sure<br>label<br>fame<br>grass
+bip_39_word_new_br11: network<br>evolve<br>leopard<br>black<br>review<br>mule<br>sure<br>label<br>fame<br>grass<br>desert
+bip_39_word_new_br12: network<br>evolve<br>leopard<br>black<br>review<br>mule<br>sure<br>label<br>fame<br>grass<br>desert<br>actress
+bip_39_word_new_br2: network<br>evolve
+bip_39_word_new_br3: network<br>evolve<br>leopard
+bip_39_word_new_br4: network<br>evolve<br>leopard<br>black
+bip_39_word_new_br5: network<br>evolve<br>leopard<br>black<br>review
+bip_39_word_new_br6: network<br>evolve<br>leopard<br>black<br>review<br>mule
+bip_39_word_new_br7: network<br>evolve<br>leopard<br>black<br>review<br>mule<br>sure
+bip_39_word_new_br8: network<br>evolve<br>leopard<br>black<br>review<br>mule<br>sure<br>label
+bip_39_word_new_br9: network<br>evolve<br>leopard<br>black<br>review<br>mule<br>sure<br>label<br>fame
+bip_39_word_new_line1: network
+bip_39_word_new_line10: 'network
+
+  evolve
+
+  leopard
+
+  black
+
+  review
+
+  mule
+
+  sure
+
+  label
+
+  fame
+
+  grass'
+bip_39_word_new_line11: 'network
+
+  evolve
+
+  leopard
+
+  black
+
+  review
+
+  mule
+
+  sure
+
+  label
+
+  fame
+
+  grass
+
+  desert'
+bip_39_word_new_line12: 'network
+
+  evolve
+
+  leopard
+
+  black
+
+  review
+
+  mule
+
+  sure
+
+  label
+
+  fame
+
+  grass
+
+  desert
+
+  actress'
+bip_39_word_new_line2: 'network
+
+  evolve'
+bip_39_word_new_line3: 'network
+
+  evolve
+
+  leopard'
+bip_39_word_new_line4: 'network
+
+  evolve
+
+  leopard
+
+  black'
+bip_39_word_new_line5: 'network
+
+  evolve
+
+  leopard
+
+  black
+
+  review'
+bip_39_word_new_line6: 'network
+
+  evolve
+
+  leopard
+
+  black
+
+  review
+
+  mule'
+bip_39_word_new_line7: 'network
+
+  evolve
+
+  leopard
+
+  black
+
+  review
+
+  mule
+
+  sure'
+bip_39_word_new_line8: 'network
+
+  evolve
+
+  leopard
+
+  black
+
+  review
+
+  mule
+
+  sure
+
+  label'
+bip_39_word_new_line9: 'network
+
+  evolve
+
+  leopard
+
+  black
+
+  review
+
+  mule
+
+  sure
+
+  label
+
+  fame'
+bip_39_word_space_0:
+- network
+- evolve
+- leopard
+- black
+- review
+- mule
+- sure
+- label
+- fame
+- grass
+- desert
+- actress
+bip_39_word_space_1: network
+bip_39_word_space_10: network evolve leopard black review mule sure label fame grass
+bip_39_word_space_11: network evolve leopard black review mule sure label fame grass
+  desert
+bip_39_word_space_12: network evolve leopard black review mule sure label fame grass
+  desert actress
+bip_39_word_space_2: network evolve
+bip_39_word_space_3: network evolve leopard
+bip_39_word_space_4: network evolve leopard black
+bip_39_word_space_5: network evolve leopard black review
+bip_39_word_space_6: network evolve leopard black review mule
+bip_39_word_space_7: network evolve leopard black review mule sure
+bip_39_word_space_8: network evolve leopard black review mule sure label
+bip_39_word_space_9: network evolve leopard black review mule sure label fame
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

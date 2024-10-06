@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: g
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: supreme material
+  * bip 39 word 3: supreme material test
+  * bip 39 word: supreme material test judge spot manage water version tattoo another mistake address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | supreme |  
+| bip_39_word_new_br10 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another |  
+| bip_39_word_new_br11 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another<br>mistake |  
+| bip_39_word_new_br12 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo<br>another<br>mistake<br>address |  
+| bip_39_word_new_br2 | supreme<br>material |  
+| bip_39_word_new_br3 | supreme<br>material<br>test |  
+| bip_39_word_new_br4 | supreme<br>material<br>test<br>judge |  
+| bip_39_word_new_br5 | supreme<br>material<br>test<br>judge<br>spot |  
+| bip_39_word_new_br6 | supreme<br>material<br>test<br>judge<br>spot<br>manage |  
+| bip_39_word_new_br7 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water |  
+| bip_39_word_new_br8 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version |  
+| bip_39_word_new_br9 | supreme<br>material<br>test<br>judge<br>spot<br>manage<br>water<br>version<br>tattoo |  
+| bip_39_word_new_line1 | supreme |  
+| bip_39_word_new_line10 | supreme
+material
+test
+judge
+spot
+manage
+water
+version
+tattoo
+another |  
+| bip_39_word_new_line11 | supreme
+material
+test
+judge
+spot
+manage
+water
+version
+tattoo
+another
+mistake |  
+| bip_39_word_new_line12 | supreme
+material
+test
+judge
+spot
+manage
+water
+version
+tattoo
+another
+mistake
+address |  
+| bip_39_word_new_line2 | supreme
+material |  
+| bip_39_word_new_line3 | supreme
+material
+test |  
+| bip_39_word_new_line4 | supreme
+material
+test
+judge |  
+| bip_39_word_new_line5 | supreme
+material
+test
+judge
+spot |  
+| bip_39_word_new_line6 | supreme
+material
+test
+judge
+spot
+manage |  
+| bip_39_word_new_line7 | supreme
+material
+test
+judge
+spot
+manage
+water |  
+| bip_39_word_new_line8 | supreme
+material
+test
+judge
+spot
+manage
+water
+version |  
+| bip_39_word_new_line9 | supreme
+material
+test
+judge
+spot
+manage
+water
+version
+tattoo |  
+| bip_39_word_space_0 | ['supreme', 'material', 'test', 'judge', 'spot', 'manage', 'water', 'version', 'tattoo', 'another', 'mistake', 'address'] |  
+| bip_39_word_space_1 | supreme |  
+| bip_39_word_space_10 | supreme material test judge spot manage water version tattoo another |  
+| bip_39_word_space_11 | supreme material test judge spot manage water version tattoo another mistake |  
+| bip_39_word_space_12 | supreme material test judge spot manage water version tattoo another mistake address |  
+| bip_39_word_space_2 | supreme material |  
+| bip_39_word_space_3 | supreme material test |  
+| bip_39_word_space_4 | supreme material test judge |  
+| bip_39_word_space_5 | supreme material test judge spot |  
+| bip_39_word_space_6 | supreme material test judge spot manage |  
+| bip_39_word_space_7 | supreme material test judge spot manage water |  
+| bip_39_word_space_8 | supreme material test judge spot manage water version |  
+| bip_39_word_space_9 | supreme material test judge spot manage water version tattoo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

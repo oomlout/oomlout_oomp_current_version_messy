@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fee photo
+  * bip 39 word 3: fee photo suspect
+  * bip 39 word: fee photo suspect worth stadium second avocado receive elephant network tackle actress
 
 ### other_codes
 * short_code: n4m
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fee |  
+| bip_39_word_new_br10 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant<br>network |  
+| bip_39_word_new_br11 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant<br>network<br>tackle |  
+| bip_39_word_new_br12 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant<br>network<br>tackle<br>actress |  
+| bip_39_word_new_br2 | fee<br>photo |  
+| bip_39_word_new_br3 | fee<br>photo<br>suspect |  
+| bip_39_word_new_br4 | fee<br>photo<br>suspect<br>worth |  
+| bip_39_word_new_br5 | fee<br>photo<br>suspect<br>worth<br>stadium |  
+| bip_39_word_new_br6 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second |  
+| bip_39_word_new_br7 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado |  
+| bip_39_word_new_br8 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive |  
+| bip_39_word_new_br9 | fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant |  
+| bip_39_word_new_line1 | fee |  
+| bip_39_word_new_line10 | fee
+photo
+suspect
+worth
+stadium
+second
+avocado
+receive
+elephant
+network |  
+| bip_39_word_new_line11 | fee
+photo
+suspect
+worth
+stadium
+second
+avocado
+receive
+elephant
+network
+tackle |  
+| bip_39_word_new_line12 | fee
+photo
+suspect
+worth
+stadium
+second
+avocado
+receive
+elephant
+network
+tackle
+actress |  
+| bip_39_word_new_line2 | fee
+photo |  
+| bip_39_word_new_line3 | fee
+photo
+suspect |  
+| bip_39_word_new_line4 | fee
+photo
+suspect
+worth |  
+| bip_39_word_new_line5 | fee
+photo
+suspect
+worth
+stadium |  
+| bip_39_word_new_line6 | fee
+photo
+suspect
+worth
+stadium
+second |  
+| bip_39_word_new_line7 | fee
+photo
+suspect
+worth
+stadium
+second
+avocado |  
+| bip_39_word_new_line8 | fee
+photo
+suspect
+worth
+stadium
+second
+avocado
+receive |  
+| bip_39_word_new_line9 | fee
+photo
+suspect
+worth
+stadium
+second
+avocado
+receive
+elephant |  
+| bip_39_word_space_0 | ['fee', 'photo', 'suspect', 'worth', 'stadium', 'second', 'avocado', 'receive', 'elephant', 'network', 'tackle', 'actress'] |  
+| bip_39_word_space_1 | fee |  
+| bip_39_word_space_10 | fee photo suspect worth stadium second avocado receive elephant network |  
+| bip_39_word_space_11 | fee photo suspect worth stadium second avocado receive elephant network tackle |  
+| bip_39_word_space_12 | fee photo suspect worth stadium second avocado receive elephant network tackle actress |  
+| bip_39_word_space_2 | fee photo |  
+| bip_39_word_space_3 | fee photo suspect |  
+| bip_39_word_space_4 | fee photo suspect worth |  
+| bip_39_word_space_5 | fee photo suspect worth stadium |  
+| bip_39_word_space_6 | fee photo suspect worth stadium second |  
+| bip_39_word_space_7 | fee photo suspect worth stadium second avocado |  
+| bip_39_word_space_8 | fee photo suspect worth stadium second avocado receive |  
+| bip_39_word_space_9 | fee photo suspect worth stadium second avocado receive elephant |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

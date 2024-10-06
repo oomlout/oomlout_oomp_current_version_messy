@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: goose cruise
+  * bip 39 word 3: goose cruise also
+  * bip 39 word: goose cruise also narrow scrap sentence sell trigger control always cancel achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | goose |  
+| bip_39_word_new_br10 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence<br>sell<br>trigger<br>control<br>always |  
+| bip_39_word_new_br11 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence<br>sell<br>trigger<br>control<br>always<br>cancel |  
+| bip_39_word_new_br12 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence<br>sell<br>trigger<br>control<br>always<br>cancel<br>achieve |  
+| bip_39_word_new_br2 | goose<br>cruise |  
+| bip_39_word_new_br3 | goose<br>cruise<br>also |  
+| bip_39_word_new_br4 | goose<br>cruise<br>also<br>narrow |  
+| bip_39_word_new_br5 | goose<br>cruise<br>also<br>narrow<br>scrap |  
+| bip_39_word_new_br6 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence |  
+| bip_39_word_new_br7 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence<br>sell |  
+| bip_39_word_new_br8 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence<br>sell<br>trigger |  
+| bip_39_word_new_br9 | goose<br>cruise<br>also<br>narrow<br>scrap<br>sentence<br>sell<br>trigger<br>control |  
+| bip_39_word_new_line1 | goose |  
+| bip_39_word_new_line10 | goose
+cruise
+also
+narrow
+scrap
+sentence
+sell
+trigger
+control
+always |  
+| bip_39_word_new_line11 | goose
+cruise
+also
+narrow
+scrap
+sentence
+sell
+trigger
+control
+always
+cancel |  
+| bip_39_word_new_line12 | goose
+cruise
+also
+narrow
+scrap
+sentence
+sell
+trigger
+control
+always
+cancel
+achieve |  
+| bip_39_word_new_line2 | goose
+cruise |  
+| bip_39_word_new_line3 | goose
+cruise
+also |  
+| bip_39_word_new_line4 | goose
+cruise
+also
+narrow |  
+| bip_39_word_new_line5 | goose
+cruise
+also
+narrow
+scrap |  
+| bip_39_word_new_line6 | goose
+cruise
+also
+narrow
+scrap
+sentence |  
+| bip_39_word_new_line7 | goose
+cruise
+also
+narrow
+scrap
+sentence
+sell |  
+| bip_39_word_new_line8 | goose
+cruise
+also
+narrow
+scrap
+sentence
+sell
+trigger |  
+| bip_39_word_new_line9 | goose
+cruise
+also
+narrow
+scrap
+sentence
+sell
+trigger
+control |  
+| bip_39_word_space_0 | ['goose', 'cruise', 'also', 'narrow', 'scrap', 'sentence', 'sell', 'trigger', 'control', 'always', 'cancel', 'achieve'] |  
+| bip_39_word_space_1 | goose |  
+| bip_39_word_space_10 | goose cruise also narrow scrap sentence sell trigger control always |  
+| bip_39_word_space_11 | goose cruise also narrow scrap sentence sell trigger control always cancel |  
+| bip_39_word_space_12 | goose cruise also narrow scrap sentence sell trigger control always cancel achieve |  
+| bip_39_word_space_2 | goose cruise |  
+| bip_39_word_space_3 | goose cruise also |  
+| bip_39_word_space_4 | goose cruise also narrow |  
+| bip_39_word_space_5 | goose cruise also narrow scrap |  
+| bip_39_word_space_6 | goose cruise also narrow scrap sentence |  
+| bip_39_word_space_7 | goose cruise also narrow scrap sentence sell |  
+| bip_39_word_space_8 | goose cruise also narrow scrap sentence sell trigger |  
+| bip_39_word_space_9 | goose cruise also narrow scrap sentence sell trigger control |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

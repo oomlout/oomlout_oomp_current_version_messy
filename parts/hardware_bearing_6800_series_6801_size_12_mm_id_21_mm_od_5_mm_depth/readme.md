@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vehicle adapt
+  * bip 39 word 3: vehicle adapt capital
+  * bip 39 word: vehicle adapt capital skull ozone require term always include guilt warm asset
 
 ### other_codes
 * short_code: br6801
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vehicle |  
+| bip_39_word_new_br10 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require<br>term<br>always<br>include<br>guilt |  
+| bip_39_word_new_br11 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require<br>term<br>always<br>include<br>guilt<br>warm |  
+| bip_39_word_new_br12 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require<br>term<br>always<br>include<br>guilt<br>warm<br>asset |  
+| bip_39_word_new_br2 | vehicle<br>adapt |  
+| bip_39_word_new_br3 | vehicle<br>adapt<br>capital |  
+| bip_39_word_new_br4 | vehicle<br>adapt<br>capital<br>skull |  
+| bip_39_word_new_br5 | vehicle<br>adapt<br>capital<br>skull<br>ozone |  
+| bip_39_word_new_br6 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require |  
+| bip_39_word_new_br7 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require<br>term |  
+| bip_39_word_new_br8 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require<br>term<br>always |  
+| bip_39_word_new_br9 | vehicle<br>adapt<br>capital<br>skull<br>ozone<br>require<br>term<br>always<br>include |  
+| bip_39_word_new_line1 | vehicle |  
+| bip_39_word_new_line10 | vehicle
+adapt
+capital
+skull
+ozone
+require
+term
+always
+include
+guilt |  
+| bip_39_word_new_line11 | vehicle
+adapt
+capital
+skull
+ozone
+require
+term
+always
+include
+guilt
+warm |  
+| bip_39_word_new_line12 | vehicle
+adapt
+capital
+skull
+ozone
+require
+term
+always
+include
+guilt
+warm
+asset |  
+| bip_39_word_new_line2 | vehicle
+adapt |  
+| bip_39_word_new_line3 | vehicle
+adapt
+capital |  
+| bip_39_word_new_line4 | vehicle
+adapt
+capital
+skull |  
+| bip_39_word_new_line5 | vehicle
+adapt
+capital
+skull
+ozone |  
+| bip_39_word_new_line6 | vehicle
+adapt
+capital
+skull
+ozone
+require |  
+| bip_39_word_new_line7 | vehicle
+adapt
+capital
+skull
+ozone
+require
+term |  
+| bip_39_word_new_line8 | vehicle
+adapt
+capital
+skull
+ozone
+require
+term
+always |  
+| bip_39_word_new_line9 | vehicle
+adapt
+capital
+skull
+ozone
+require
+term
+always
+include |  
+| bip_39_word_space_0 | ['vehicle', 'adapt', 'capital', 'skull', 'ozone', 'require', 'term', 'always', 'include', 'guilt', 'warm', 'asset'] |  
+| bip_39_word_space_1 | vehicle |  
+| bip_39_word_space_10 | vehicle adapt capital skull ozone require term always include guilt |  
+| bip_39_word_space_11 | vehicle adapt capital skull ozone require term always include guilt warm |  
+| bip_39_word_space_12 | vehicle adapt capital skull ozone require term always include guilt warm asset |  
+| bip_39_word_space_2 | vehicle adapt |  
+| bip_39_word_space_3 | vehicle adapt capital |  
+| bip_39_word_space_4 | vehicle adapt capital skull |  
+| bip_39_word_space_5 | vehicle adapt capital skull ozone |  
+| bip_39_word_space_6 | vehicle adapt capital skull ozone require |  
+| bip_39_word_space_7 | vehicle adapt capital skull ozone require term |  
+| bip_39_word_space_8 | vehicle adapt capital skull ozone require term always |  
+| bip_39_word_space_9 | vehicle adapt capital skull ozone require term always include |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

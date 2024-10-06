@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: honey foster
+  * bip 39 word 3: honey foster lady
+  * bip 39 word: honey foster lady answer surface beyond amount dial birth system depend aisle
 
 ### other_codes
 * short_code: b6m110
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | honey |  
+| bip_39_word_new_br10 | honey<br>foster<br>lady<br>answer<br>surface<br>beyond<br>amount<br>dial<br>birth<br>system |  
+| bip_39_word_new_br11 | honey<br>foster<br>lady<br>answer<br>surface<br>beyond<br>amount<br>dial<br>birth<br>system<br>depend |  
+| bip_39_word_new_br12 | honey<br>foster<br>lady<br>answer<br>surface<br>beyond<br>amount<br>dial<br>birth<br>system<br>depend<br>aisle |  
+| bip_39_word_new_br2 | honey<br>foster |  
+| bip_39_word_new_br3 | honey<br>foster<br>lady |  
+| bip_39_word_new_br4 | honey<br>foster<br>lady<br>answer |  
+| bip_39_word_new_br5 | honey<br>foster<br>lady<br>answer<br>surface |  
+| bip_39_word_new_br6 | honey<br>foster<br>lady<br>answer<br>surface<br>beyond |  
+| bip_39_word_new_br7 | honey<br>foster<br>lady<br>answer<br>surface<br>beyond<br>amount |  
+| bip_39_word_new_br8 | honey<br>foster<br>lady<br>answer<br>surface<br>beyond<br>amount<br>dial |  
+| bip_39_word_new_br9 | honey<br>foster<br>lady<br>answer<br>surface<br>beyond<br>amount<br>dial<br>birth |  
+| bip_39_word_new_line1 | honey |  
+| bip_39_word_new_line10 | honey
+foster
+lady
+answer
+surface
+beyond
+amount
+dial
+birth
+system |  
+| bip_39_word_new_line11 | honey
+foster
+lady
+answer
+surface
+beyond
+amount
+dial
+birth
+system
+depend |  
+| bip_39_word_new_line12 | honey
+foster
+lady
+answer
+surface
+beyond
+amount
+dial
+birth
+system
+depend
+aisle |  
+| bip_39_word_new_line2 | honey
+foster |  
+| bip_39_word_new_line3 | honey
+foster
+lady |  
+| bip_39_word_new_line4 | honey
+foster
+lady
+answer |  
+| bip_39_word_new_line5 | honey
+foster
+lady
+answer
+surface |  
+| bip_39_word_new_line6 | honey
+foster
+lady
+answer
+surface
+beyond |  
+| bip_39_word_new_line7 | honey
+foster
+lady
+answer
+surface
+beyond
+amount |  
+| bip_39_word_new_line8 | honey
+foster
+lady
+answer
+surface
+beyond
+amount
+dial |  
+| bip_39_word_new_line9 | honey
+foster
+lady
+answer
+surface
+beyond
+amount
+dial
+birth |  
+| bip_39_word_space_0 | ['honey', 'foster', 'lady', 'answer', 'surface', 'beyond', 'amount', 'dial', 'birth', 'system', 'depend', 'aisle'] |  
+| bip_39_word_space_1 | honey |  
+| bip_39_word_space_10 | honey foster lady answer surface beyond amount dial birth system |  
+| bip_39_word_space_11 | honey foster lady answer surface beyond amount dial birth system depend |  
+| bip_39_word_space_12 | honey foster lady answer surface beyond amount dial birth system depend aisle |  
+| bip_39_word_space_2 | honey foster |  
+| bip_39_word_space_3 | honey foster lady |  
+| bip_39_word_space_4 | honey foster lady answer |  
+| bip_39_word_space_5 | honey foster lady answer surface |  
+| bip_39_word_space_6 | honey foster lady answer surface beyond |  
+| bip_39_word_space_7 | honey foster lady answer surface beyond amount |  
+| bip_39_word_space_8 | honey foster lady answer surface beyond amount dial |  
+| bip_39_word_space_9 | honey foster lady answer surface beyond amount dial birth |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

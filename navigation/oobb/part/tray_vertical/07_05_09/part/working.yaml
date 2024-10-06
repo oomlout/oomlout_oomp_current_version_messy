@@ -1,3 +1,186 @@
+bip_39_word_new_br1: country
+bip_39_word_new_br10: country<br>hood<br>banner<br>quick<br>camp<br>stock<br>note<br>action<br>glove<br>term
+bip_39_word_new_br11: country<br>hood<br>banner<br>quick<br>camp<br>stock<br>note<br>action<br>glove<br>term<br>defy
+bip_39_word_new_br12: country<br>hood<br>banner<br>quick<br>camp<br>stock<br>note<br>action<br>glove<br>term<br>defy<br>athlete
+bip_39_word_new_br2: country<br>hood
+bip_39_word_new_br3: country<br>hood<br>banner
+bip_39_word_new_br4: country<br>hood<br>banner<br>quick
+bip_39_word_new_br5: country<br>hood<br>banner<br>quick<br>camp
+bip_39_word_new_br6: country<br>hood<br>banner<br>quick<br>camp<br>stock
+bip_39_word_new_br7: country<br>hood<br>banner<br>quick<br>camp<br>stock<br>note
+bip_39_word_new_br8: country<br>hood<br>banner<br>quick<br>camp<br>stock<br>note<br>action
+bip_39_word_new_br9: country<br>hood<br>banner<br>quick<br>camp<br>stock<br>note<br>action<br>glove
+bip_39_word_new_line1: country
+bip_39_word_new_line10: 'country
+
+  hood
+
+  banner
+
+  quick
+
+  camp
+
+  stock
+
+  note
+
+  action
+
+  glove
+
+  term'
+bip_39_word_new_line11: 'country
+
+  hood
+
+  banner
+
+  quick
+
+  camp
+
+  stock
+
+  note
+
+  action
+
+  glove
+
+  term
+
+  defy'
+bip_39_word_new_line12: 'country
+
+  hood
+
+  banner
+
+  quick
+
+  camp
+
+  stock
+
+  note
+
+  action
+
+  glove
+
+  term
+
+  defy
+
+  athlete'
+bip_39_word_new_line2: 'country
+
+  hood'
+bip_39_word_new_line3: 'country
+
+  hood
+
+  banner'
+bip_39_word_new_line4: 'country
+
+  hood
+
+  banner
+
+  quick'
+bip_39_word_new_line5: 'country
+
+  hood
+
+  banner
+
+  quick
+
+  camp'
+bip_39_word_new_line6: 'country
+
+  hood
+
+  banner
+
+  quick
+
+  camp
+
+  stock'
+bip_39_word_new_line7: 'country
+
+  hood
+
+  banner
+
+  quick
+
+  camp
+
+  stock
+
+  note'
+bip_39_word_new_line8: 'country
+
+  hood
+
+  banner
+
+  quick
+
+  camp
+
+  stock
+
+  note
+
+  action'
+bip_39_word_new_line9: 'country
+
+  hood
+
+  banner
+
+  quick
+
+  camp
+
+  stock
+
+  note
+
+  action
+
+  glove'
+bip_39_word_space_0:
+- country
+- hood
+- banner
+- quick
+- camp
+- stock
+- note
+- action
+- glove
+- term
+- defy
+- athlete
+bip_39_word_space_1: country
+bip_39_word_space_10: country hood banner quick camp stock note action glove term
+bip_39_word_space_11: country hood banner quick camp stock note action glove term
+  defy
+bip_39_word_space_12: country hood banner quick camp stock note action glove term
+  defy athlete
+bip_39_word_space_2: country hood
+bip_39_word_space_3: country hood banner
+bip_39_word_space_4: country hood banner quick
+bip_39_word_space_5: country hood banner quick camp
+bip_39_word_space_6: country hood banner quick camp stock
+bip_39_word_space_7: country hood banner quick camp stock note
+bip_39_word_space_8: country hood banner quick camp stock note action
+bip_39_word_space_9: country hood banner quick camp stock note action glove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

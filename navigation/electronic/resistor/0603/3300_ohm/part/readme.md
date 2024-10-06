@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lesson iron
+  * bip 39 word 3: lesson iron they
+  * bip 39 word: lesson iron they option clinic gallery occur estate digital destroy forum across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lesson |  
+| bip_39_word_new_br10 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery<br>occur<br>estate<br>digital<br>destroy |  
+| bip_39_word_new_br11 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery<br>occur<br>estate<br>digital<br>destroy<br>forum |  
+| bip_39_word_new_br12 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery<br>occur<br>estate<br>digital<br>destroy<br>forum<br>across |  
+| bip_39_word_new_br2 | lesson<br>iron |  
+| bip_39_word_new_br3 | lesson<br>iron<br>they |  
+| bip_39_word_new_br4 | lesson<br>iron<br>they<br>option |  
+| bip_39_word_new_br5 | lesson<br>iron<br>they<br>option<br>clinic |  
+| bip_39_word_new_br6 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery |  
+| bip_39_word_new_br7 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery<br>occur |  
+| bip_39_word_new_br8 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery<br>occur<br>estate |  
+| bip_39_word_new_br9 | lesson<br>iron<br>they<br>option<br>clinic<br>gallery<br>occur<br>estate<br>digital |  
+| bip_39_word_new_line1 | lesson |  
+| bip_39_word_new_line10 | lesson
+iron
+they
+option
+clinic
+gallery
+occur
+estate
+digital
+destroy |  
+| bip_39_word_new_line11 | lesson
+iron
+they
+option
+clinic
+gallery
+occur
+estate
+digital
+destroy
+forum |  
+| bip_39_word_new_line12 | lesson
+iron
+they
+option
+clinic
+gallery
+occur
+estate
+digital
+destroy
+forum
+across |  
+| bip_39_word_new_line2 | lesson
+iron |  
+| bip_39_word_new_line3 | lesson
+iron
+they |  
+| bip_39_word_new_line4 | lesson
+iron
+they
+option |  
+| bip_39_word_new_line5 | lesson
+iron
+they
+option
+clinic |  
+| bip_39_word_new_line6 | lesson
+iron
+they
+option
+clinic
+gallery |  
+| bip_39_word_new_line7 | lesson
+iron
+they
+option
+clinic
+gallery
+occur |  
+| bip_39_word_new_line8 | lesson
+iron
+they
+option
+clinic
+gallery
+occur
+estate |  
+| bip_39_word_new_line9 | lesson
+iron
+they
+option
+clinic
+gallery
+occur
+estate
+digital |  
+| bip_39_word_space_0 | ['lesson', 'iron', 'they', 'option', 'clinic', 'gallery', 'occur', 'estate', 'digital', 'destroy', 'forum', 'across'] |  
+| bip_39_word_space_1 | lesson |  
+| bip_39_word_space_10 | lesson iron they option clinic gallery occur estate digital destroy |  
+| bip_39_word_space_11 | lesson iron they option clinic gallery occur estate digital destroy forum |  
+| bip_39_word_space_12 | lesson iron they option clinic gallery occur estate digital destroy forum across |  
+| bip_39_word_space_2 | lesson iron |  
+| bip_39_word_space_3 | lesson iron they |  
+| bip_39_word_space_4 | lesson iron they option |  
+| bip_39_word_space_5 | lesson iron they option clinic |  
+| bip_39_word_space_6 | lesson iron they option clinic gallery |  
+| bip_39_word_space_7 | lesson iron they option clinic gallery occur |  
+| bip_39_word_space_8 | lesson iron they option clinic gallery occur estate |  
+| bip_39_word_space_9 | lesson iron they option clinic gallery occur estate digital |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

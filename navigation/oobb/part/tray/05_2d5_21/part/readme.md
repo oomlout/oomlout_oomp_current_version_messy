@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spot symptom
+  * bip 39 word 3: spot symptom accuse
+  * bip 39 word: spot symptom accuse casino famous joy aisle happy advice lab away army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spot |  
+| bip_39_word_new_br10 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab |  
+| bip_39_word_new_br11 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab<br>away |  
+| bip_39_word_new_br12 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice<br>lab<br>away<br>army |  
+| bip_39_word_new_br2 | spot<br>symptom |  
+| bip_39_word_new_br3 | spot<br>symptom<br>accuse |  
+| bip_39_word_new_br4 | spot<br>symptom<br>accuse<br>casino |  
+| bip_39_word_new_br5 | spot<br>symptom<br>accuse<br>casino<br>famous |  
+| bip_39_word_new_br6 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy |  
+| bip_39_word_new_br7 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle |  
+| bip_39_word_new_br8 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy |  
+| bip_39_word_new_br9 | spot<br>symptom<br>accuse<br>casino<br>famous<br>joy<br>aisle<br>happy<br>advice |  
+| bip_39_word_new_line1 | spot |  
+| bip_39_word_new_line10 | spot
+symptom
+accuse
+casino
+famous
+joy
+aisle
+happy
+advice
+lab |  
+| bip_39_word_new_line11 | spot
+symptom
+accuse
+casino
+famous
+joy
+aisle
+happy
+advice
+lab
+away |  
+| bip_39_word_new_line12 | spot
+symptom
+accuse
+casino
+famous
+joy
+aisle
+happy
+advice
+lab
+away
+army |  
+| bip_39_word_new_line2 | spot
+symptom |  
+| bip_39_word_new_line3 | spot
+symptom
+accuse |  
+| bip_39_word_new_line4 | spot
+symptom
+accuse
+casino |  
+| bip_39_word_new_line5 | spot
+symptom
+accuse
+casino
+famous |  
+| bip_39_word_new_line6 | spot
+symptom
+accuse
+casino
+famous
+joy |  
+| bip_39_word_new_line7 | spot
+symptom
+accuse
+casino
+famous
+joy
+aisle |  
+| bip_39_word_new_line8 | spot
+symptom
+accuse
+casino
+famous
+joy
+aisle
+happy |  
+| bip_39_word_new_line9 | spot
+symptom
+accuse
+casino
+famous
+joy
+aisle
+happy
+advice |  
+| bip_39_word_space_0 | ['spot', 'symptom', 'accuse', 'casino', 'famous', 'joy', 'aisle', 'happy', 'advice', 'lab', 'away', 'army'] |  
+| bip_39_word_space_1 | spot |  
+| bip_39_word_space_10 | spot symptom accuse casino famous joy aisle happy advice lab |  
+| bip_39_word_space_11 | spot symptom accuse casino famous joy aisle happy advice lab away |  
+| bip_39_word_space_12 | spot symptom accuse casino famous joy aisle happy advice lab away army |  
+| bip_39_word_space_2 | spot symptom |  
+| bip_39_word_space_3 | spot symptom accuse |  
+| bip_39_word_space_4 | spot symptom accuse casino |  
+| bip_39_word_space_5 | spot symptom accuse casino famous |  
+| bip_39_word_space_6 | spot symptom accuse casino famous joy |  
+| bip_39_word_space_7 | spot symptom accuse casino famous joy aisle |  
+| bip_39_word_space_8 | spot symptom accuse casino famous joy aisle happy |  
+| bip_39_word_space_9 | spot symptom accuse casino famous joy aisle happy advice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

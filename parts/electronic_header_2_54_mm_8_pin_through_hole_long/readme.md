@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: race idea
+  * bip 39 word 3: race idea laptop
+  * bip 39 word: race idea laptop giant bracket bird fury cement lunch sugar tunnel angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | race |  
+| bip_39_word_new_br10 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar |  
+| bip_39_word_new_br11 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar<br>tunnel |  
+| bip_39_word_new_br12 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch<br>sugar<br>tunnel<br>angry |  
+| bip_39_word_new_br2 | race<br>idea |  
+| bip_39_word_new_br3 | race<br>idea<br>laptop |  
+| bip_39_word_new_br4 | race<br>idea<br>laptop<br>giant |  
+| bip_39_word_new_br5 | race<br>idea<br>laptop<br>giant<br>bracket |  
+| bip_39_word_new_br6 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird |  
+| bip_39_word_new_br7 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury |  
+| bip_39_word_new_br8 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement |  
+| bip_39_word_new_br9 | race<br>idea<br>laptop<br>giant<br>bracket<br>bird<br>fury<br>cement<br>lunch |  
+| bip_39_word_new_line1 | race |  
+| bip_39_word_new_line10 | race
+idea
+laptop
+giant
+bracket
+bird
+fury
+cement
+lunch
+sugar |  
+| bip_39_word_new_line11 | race
+idea
+laptop
+giant
+bracket
+bird
+fury
+cement
+lunch
+sugar
+tunnel |  
+| bip_39_word_new_line12 | race
+idea
+laptop
+giant
+bracket
+bird
+fury
+cement
+lunch
+sugar
+tunnel
+angry |  
+| bip_39_word_new_line2 | race
+idea |  
+| bip_39_word_new_line3 | race
+idea
+laptop |  
+| bip_39_word_new_line4 | race
+idea
+laptop
+giant |  
+| bip_39_word_new_line5 | race
+idea
+laptop
+giant
+bracket |  
+| bip_39_word_new_line6 | race
+idea
+laptop
+giant
+bracket
+bird |  
+| bip_39_word_new_line7 | race
+idea
+laptop
+giant
+bracket
+bird
+fury |  
+| bip_39_word_new_line8 | race
+idea
+laptop
+giant
+bracket
+bird
+fury
+cement |  
+| bip_39_word_new_line9 | race
+idea
+laptop
+giant
+bracket
+bird
+fury
+cement
+lunch |  
+| bip_39_word_space_0 | ['race', 'idea', 'laptop', 'giant', 'bracket', 'bird', 'fury', 'cement', 'lunch', 'sugar', 'tunnel', 'angry'] |  
+| bip_39_word_space_1 | race |  
+| bip_39_word_space_10 | race idea laptop giant bracket bird fury cement lunch sugar |  
+| bip_39_word_space_11 | race idea laptop giant bracket bird fury cement lunch sugar tunnel |  
+| bip_39_word_space_12 | race idea laptop giant bracket bird fury cement lunch sugar tunnel angry |  
+| bip_39_word_space_2 | race idea |  
+| bip_39_word_space_3 | race idea laptop |  
+| bip_39_word_space_4 | race idea laptop giant |  
+| bip_39_word_space_5 | race idea laptop giant bracket |  
+| bip_39_word_space_6 | race idea laptop giant bracket bird |  
+| bip_39_word_space_7 | race idea laptop giant bracket bird fury |  
+| bip_39_word_space_8 | race idea laptop giant bracket bird fury cement |  
+| bip_39_word_space_9 | race idea laptop giant bracket bird fury cement lunch |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

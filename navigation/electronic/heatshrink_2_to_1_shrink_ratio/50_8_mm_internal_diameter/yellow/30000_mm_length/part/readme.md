@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tube cute
+  * bip 39 word 3: tube cute delay
+  * bip 39 word: tube cute delay drum arrow slogan east surround joke penalty mixture arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tube |  
+| bip_39_word_new_br10 | tube<br>cute<br>delay<br>drum<br>arrow<br>slogan<br>east<br>surround<br>joke<br>penalty |  
+| bip_39_word_new_br11 | tube<br>cute<br>delay<br>drum<br>arrow<br>slogan<br>east<br>surround<br>joke<br>penalty<br>mixture |  
+| bip_39_word_new_br12 | tube<br>cute<br>delay<br>drum<br>arrow<br>slogan<br>east<br>surround<br>joke<br>penalty<br>mixture<br>arch |  
+| bip_39_word_new_br2 | tube<br>cute |  
+| bip_39_word_new_br3 | tube<br>cute<br>delay |  
+| bip_39_word_new_br4 | tube<br>cute<br>delay<br>drum |  
+| bip_39_word_new_br5 | tube<br>cute<br>delay<br>drum<br>arrow |  
+| bip_39_word_new_br6 | tube<br>cute<br>delay<br>drum<br>arrow<br>slogan |  
+| bip_39_word_new_br7 | tube<br>cute<br>delay<br>drum<br>arrow<br>slogan<br>east |  
+| bip_39_word_new_br8 | tube<br>cute<br>delay<br>drum<br>arrow<br>slogan<br>east<br>surround |  
+| bip_39_word_new_br9 | tube<br>cute<br>delay<br>drum<br>arrow<br>slogan<br>east<br>surround<br>joke |  
+| bip_39_word_new_line1 | tube |  
+| bip_39_word_new_line10 | tube
+cute
+delay
+drum
+arrow
+slogan
+east
+surround
+joke
+penalty |  
+| bip_39_word_new_line11 | tube
+cute
+delay
+drum
+arrow
+slogan
+east
+surround
+joke
+penalty
+mixture |  
+| bip_39_word_new_line12 | tube
+cute
+delay
+drum
+arrow
+slogan
+east
+surround
+joke
+penalty
+mixture
+arch |  
+| bip_39_word_new_line2 | tube
+cute |  
+| bip_39_word_new_line3 | tube
+cute
+delay |  
+| bip_39_word_new_line4 | tube
+cute
+delay
+drum |  
+| bip_39_word_new_line5 | tube
+cute
+delay
+drum
+arrow |  
+| bip_39_word_new_line6 | tube
+cute
+delay
+drum
+arrow
+slogan |  
+| bip_39_word_new_line7 | tube
+cute
+delay
+drum
+arrow
+slogan
+east |  
+| bip_39_word_new_line8 | tube
+cute
+delay
+drum
+arrow
+slogan
+east
+surround |  
+| bip_39_word_new_line9 | tube
+cute
+delay
+drum
+arrow
+slogan
+east
+surround
+joke |  
+| bip_39_word_space_0 | ['tube', 'cute', 'delay', 'drum', 'arrow', 'slogan', 'east', 'surround', 'joke', 'penalty', 'mixture', 'arch'] |  
+| bip_39_word_space_1 | tube |  
+| bip_39_word_space_10 | tube cute delay drum arrow slogan east surround joke penalty |  
+| bip_39_word_space_11 | tube cute delay drum arrow slogan east surround joke penalty mixture |  
+| bip_39_word_space_12 | tube cute delay drum arrow slogan east surround joke penalty mixture arch |  
+| bip_39_word_space_2 | tube cute |  
+| bip_39_word_space_3 | tube cute delay |  
+| bip_39_word_space_4 | tube cute delay drum |  
+| bip_39_word_space_5 | tube cute delay drum arrow |  
+| bip_39_word_space_6 | tube cute delay drum arrow slogan |  
+| bip_39_word_space_7 | tube cute delay drum arrow slogan east |  
+| bip_39_word_space_8 | tube cute delay drum arrow slogan east surround |  
+| bip_39_word_space_9 | tube cute delay drum arrow slogan east surround joke |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

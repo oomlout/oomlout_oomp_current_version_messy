@@ -1,3 +1,186 @@
+bip_39_word_new_br1: funny
+bip_39_word_new_br10: funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy<br>naive<br>lucky<br>whisper<br>kitten
+bip_39_word_new_br11: funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy<br>naive<br>lucky<br>whisper<br>kitten<br>elite
+bip_39_word_new_br12: funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy<br>naive<br>lucky<br>whisper<br>kitten<br>elite<br>attend
+bip_39_word_new_br2: funny<br>result
+bip_39_word_new_br3: funny<br>result<br>gadget
+bip_39_word_new_br4: funny<br>result<br>gadget<br>sugar
+bip_39_word_new_br5: funny<br>result<br>gadget<br>sugar<br>puzzle
+bip_39_word_new_br6: funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy
+bip_39_word_new_br7: funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy<br>naive
+bip_39_word_new_br8: funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy<br>naive<br>lucky
+bip_39_word_new_br9: funny<br>result<br>gadget<br>sugar<br>puzzle<br>defy<br>naive<br>lucky<br>whisper
+bip_39_word_new_line1: funny
+bip_39_word_new_line10: 'funny
+
+  result
+
+  gadget
+
+  sugar
+
+  puzzle
+
+  defy
+
+  naive
+
+  lucky
+
+  whisper
+
+  kitten'
+bip_39_word_new_line11: 'funny
+
+  result
+
+  gadget
+
+  sugar
+
+  puzzle
+
+  defy
+
+  naive
+
+  lucky
+
+  whisper
+
+  kitten
+
+  elite'
+bip_39_word_new_line12: 'funny
+
+  result
+
+  gadget
+
+  sugar
+
+  puzzle
+
+  defy
+
+  naive
+
+  lucky
+
+  whisper
+
+  kitten
+
+  elite
+
+  attend'
+bip_39_word_new_line2: 'funny
+
+  result'
+bip_39_word_new_line3: 'funny
+
+  result
+
+  gadget'
+bip_39_word_new_line4: 'funny
+
+  result
+
+  gadget
+
+  sugar'
+bip_39_word_new_line5: 'funny
+
+  result
+
+  gadget
+
+  sugar
+
+  puzzle'
+bip_39_word_new_line6: 'funny
+
+  result
+
+  gadget
+
+  sugar
+
+  puzzle
+
+  defy'
+bip_39_word_new_line7: 'funny
+
+  result
+
+  gadget
+
+  sugar
+
+  puzzle
+
+  defy
+
+  naive'
+bip_39_word_new_line8: 'funny
+
+  result
+
+  gadget
+
+  sugar
+
+  puzzle
+
+  defy
+
+  naive
+
+  lucky'
+bip_39_word_new_line9: 'funny
+
+  result
+
+  gadget
+
+  sugar
+
+  puzzle
+
+  defy
+
+  naive
+
+  lucky
+
+  whisper'
+bip_39_word_space_0:
+- funny
+- result
+- gadget
+- sugar
+- puzzle
+- defy
+- naive
+- lucky
+- whisper
+- kitten
+- elite
+- attend
+bip_39_word_space_1: funny
+bip_39_word_space_10: funny result gadget sugar puzzle defy naive lucky whisper kitten
+bip_39_word_space_11: funny result gadget sugar puzzle defy naive lucky whisper kitten
+  elite
+bip_39_word_space_12: funny result gadget sugar puzzle defy naive lucky whisper kitten
+  elite attend
+bip_39_word_space_2: funny result
+bip_39_word_space_3: funny result gadget
+bip_39_word_space_4: funny result gadget sugar
+bip_39_word_space_5: funny result gadget sugar puzzle
+bip_39_word_space_6: funny result gadget sugar puzzle defy
+bip_39_word_space_7: funny result gadget sugar puzzle defy naive
+bip_39_word_space_8: funny result gadget sugar puzzle defy naive lucky
+bip_39_word_space_9: funny result gadget sugar puzzle defy naive lucky whisper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: situate jungle
+  * bip 39 word 3: situate jungle dinner
+  * bip 39 word: situate jungle dinner leopard gain van must reward junk online unaware art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | situate |  
+| bip_39_word_new_br10 | situate<br>jungle<br>dinner<br>leopard<br>gain<br>van<br>must<br>reward<br>junk<br>online |  
+| bip_39_word_new_br11 | situate<br>jungle<br>dinner<br>leopard<br>gain<br>van<br>must<br>reward<br>junk<br>online<br>unaware |  
+| bip_39_word_new_br12 | situate<br>jungle<br>dinner<br>leopard<br>gain<br>van<br>must<br>reward<br>junk<br>online<br>unaware<br>art |  
+| bip_39_word_new_br2 | situate<br>jungle |  
+| bip_39_word_new_br3 | situate<br>jungle<br>dinner |  
+| bip_39_word_new_br4 | situate<br>jungle<br>dinner<br>leopard |  
+| bip_39_word_new_br5 | situate<br>jungle<br>dinner<br>leopard<br>gain |  
+| bip_39_word_new_br6 | situate<br>jungle<br>dinner<br>leopard<br>gain<br>van |  
+| bip_39_word_new_br7 | situate<br>jungle<br>dinner<br>leopard<br>gain<br>van<br>must |  
+| bip_39_word_new_br8 | situate<br>jungle<br>dinner<br>leopard<br>gain<br>van<br>must<br>reward |  
+| bip_39_word_new_br9 | situate<br>jungle<br>dinner<br>leopard<br>gain<br>van<br>must<br>reward<br>junk |  
+| bip_39_word_new_line1 | situate |  
+| bip_39_word_new_line10 | situate
+jungle
+dinner
+leopard
+gain
+van
+must
+reward
+junk
+online |  
+| bip_39_word_new_line11 | situate
+jungle
+dinner
+leopard
+gain
+van
+must
+reward
+junk
+online
+unaware |  
+| bip_39_word_new_line12 | situate
+jungle
+dinner
+leopard
+gain
+van
+must
+reward
+junk
+online
+unaware
+art |  
+| bip_39_word_new_line2 | situate
+jungle |  
+| bip_39_word_new_line3 | situate
+jungle
+dinner |  
+| bip_39_word_new_line4 | situate
+jungle
+dinner
+leopard |  
+| bip_39_word_new_line5 | situate
+jungle
+dinner
+leopard
+gain |  
+| bip_39_word_new_line6 | situate
+jungle
+dinner
+leopard
+gain
+van |  
+| bip_39_word_new_line7 | situate
+jungle
+dinner
+leopard
+gain
+van
+must |  
+| bip_39_word_new_line8 | situate
+jungle
+dinner
+leopard
+gain
+van
+must
+reward |  
+| bip_39_word_new_line9 | situate
+jungle
+dinner
+leopard
+gain
+van
+must
+reward
+junk |  
+| bip_39_word_space_0 | ['situate', 'jungle', 'dinner', 'leopard', 'gain', 'van', 'must', 'reward', 'junk', 'online', 'unaware', 'art'] |  
+| bip_39_word_space_1 | situate |  
+| bip_39_word_space_10 | situate jungle dinner leopard gain van must reward junk online |  
+| bip_39_word_space_11 | situate jungle dinner leopard gain van must reward junk online unaware |  
+| bip_39_word_space_12 | situate jungle dinner leopard gain van must reward junk online unaware art |  
+| bip_39_word_space_2 | situate jungle |  
+| bip_39_word_space_3 | situate jungle dinner |  
+| bip_39_word_space_4 | situate jungle dinner leopard |  
+| bip_39_word_space_5 | situate jungle dinner leopard gain |  
+| bip_39_word_space_6 | situate jungle dinner leopard gain van |  
+| bip_39_word_space_7 | situate jungle dinner leopard gain van must |  
+| bip_39_word_space_8 | situate jungle dinner leopard gain van must reward |  
+| bip_39_word_space_9 | situate jungle dinner leopard gain van must reward junk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

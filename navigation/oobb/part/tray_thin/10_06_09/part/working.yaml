@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cash
+bip_39_word_new_br10: cash<br>poet<br>notable<br>shoot<br>jazz<br>extra<br>crowd<br>afraid<br>october<br>gate
+bip_39_word_new_br11: cash<br>poet<br>notable<br>shoot<br>jazz<br>extra<br>crowd<br>afraid<br>october<br>gate<br>million
+bip_39_word_new_br12: cash<br>poet<br>notable<br>shoot<br>jazz<br>extra<br>crowd<br>afraid<br>october<br>gate<br>million<br>airport
+bip_39_word_new_br2: cash<br>poet
+bip_39_word_new_br3: cash<br>poet<br>notable
+bip_39_word_new_br4: cash<br>poet<br>notable<br>shoot
+bip_39_word_new_br5: cash<br>poet<br>notable<br>shoot<br>jazz
+bip_39_word_new_br6: cash<br>poet<br>notable<br>shoot<br>jazz<br>extra
+bip_39_word_new_br7: cash<br>poet<br>notable<br>shoot<br>jazz<br>extra<br>crowd
+bip_39_word_new_br8: cash<br>poet<br>notable<br>shoot<br>jazz<br>extra<br>crowd<br>afraid
+bip_39_word_new_br9: cash<br>poet<br>notable<br>shoot<br>jazz<br>extra<br>crowd<br>afraid<br>october
+bip_39_word_new_line1: cash
+bip_39_word_new_line10: 'cash
+
+  poet
+
+  notable
+
+  shoot
+
+  jazz
+
+  extra
+
+  crowd
+
+  afraid
+
+  october
+
+  gate'
+bip_39_word_new_line11: 'cash
+
+  poet
+
+  notable
+
+  shoot
+
+  jazz
+
+  extra
+
+  crowd
+
+  afraid
+
+  october
+
+  gate
+
+  million'
+bip_39_word_new_line12: 'cash
+
+  poet
+
+  notable
+
+  shoot
+
+  jazz
+
+  extra
+
+  crowd
+
+  afraid
+
+  october
+
+  gate
+
+  million
+
+  airport'
+bip_39_word_new_line2: 'cash
+
+  poet'
+bip_39_word_new_line3: 'cash
+
+  poet
+
+  notable'
+bip_39_word_new_line4: 'cash
+
+  poet
+
+  notable
+
+  shoot'
+bip_39_word_new_line5: 'cash
+
+  poet
+
+  notable
+
+  shoot
+
+  jazz'
+bip_39_word_new_line6: 'cash
+
+  poet
+
+  notable
+
+  shoot
+
+  jazz
+
+  extra'
+bip_39_word_new_line7: 'cash
+
+  poet
+
+  notable
+
+  shoot
+
+  jazz
+
+  extra
+
+  crowd'
+bip_39_word_new_line8: 'cash
+
+  poet
+
+  notable
+
+  shoot
+
+  jazz
+
+  extra
+
+  crowd
+
+  afraid'
+bip_39_word_new_line9: 'cash
+
+  poet
+
+  notable
+
+  shoot
+
+  jazz
+
+  extra
+
+  crowd
+
+  afraid
+
+  october'
+bip_39_word_space_0:
+- cash
+- poet
+- notable
+- shoot
+- jazz
+- extra
+- crowd
+- afraid
+- october
+- gate
+- million
+- airport
+bip_39_word_space_1: cash
+bip_39_word_space_10: cash poet notable shoot jazz extra crowd afraid october gate
+bip_39_word_space_11: cash poet notable shoot jazz extra crowd afraid october gate
+  million
+bip_39_word_space_12: cash poet notable shoot jazz extra crowd afraid october gate
+  million airport
+bip_39_word_space_2: cash poet
+bip_39_word_space_3: cash poet notable
+bip_39_word_space_4: cash poet notable shoot
+bip_39_word_space_5: cash poet notable shoot jazz
+bip_39_word_space_6: cash poet notable shoot jazz extra
+bip_39_word_space_7: cash poet notable shoot jazz extra crowd
+bip_39_word_space_8: cash poet notable shoot jazz extra crowd afraid
+bip_39_word_space_9: cash poet notable shoot jazz extra crowd afraid october
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wear front
+  * bip 39 word 3: wear front alpha
+  * bip 39 word: wear front alpha drill spray leopard wedding nerve swarm danger build accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wear |  
+| bip_39_word_new_br10 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard<br>wedding<br>nerve<br>swarm<br>danger |  
+| bip_39_word_new_br11 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard<br>wedding<br>nerve<br>swarm<br>danger<br>build |  
+| bip_39_word_new_br12 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard<br>wedding<br>nerve<br>swarm<br>danger<br>build<br>accuse |  
+| bip_39_word_new_br2 | wear<br>front |  
+| bip_39_word_new_br3 | wear<br>front<br>alpha |  
+| bip_39_word_new_br4 | wear<br>front<br>alpha<br>drill |  
+| bip_39_word_new_br5 | wear<br>front<br>alpha<br>drill<br>spray |  
+| bip_39_word_new_br6 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard |  
+| bip_39_word_new_br7 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard<br>wedding |  
+| bip_39_word_new_br8 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard<br>wedding<br>nerve |  
+| bip_39_word_new_br9 | wear<br>front<br>alpha<br>drill<br>spray<br>leopard<br>wedding<br>nerve<br>swarm |  
+| bip_39_word_new_line1 | wear |  
+| bip_39_word_new_line10 | wear
+front
+alpha
+drill
+spray
+leopard
+wedding
+nerve
+swarm
+danger |  
+| bip_39_word_new_line11 | wear
+front
+alpha
+drill
+spray
+leopard
+wedding
+nerve
+swarm
+danger
+build |  
+| bip_39_word_new_line12 | wear
+front
+alpha
+drill
+spray
+leopard
+wedding
+nerve
+swarm
+danger
+build
+accuse |  
+| bip_39_word_new_line2 | wear
+front |  
+| bip_39_word_new_line3 | wear
+front
+alpha |  
+| bip_39_word_new_line4 | wear
+front
+alpha
+drill |  
+| bip_39_word_new_line5 | wear
+front
+alpha
+drill
+spray |  
+| bip_39_word_new_line6 | wear
+front
+alpha
+drill
+spray
+leopard |  
+| bip_39_word_new_line7 | wear
+front
+alpha
+drill
+spray
+leopard
+wedding |  
+| bip_39_word_new_line8 | wear
+front
+alpha
+drill
+spray
+leopard
+wedding
+nerve |  
+| bip_39_word_new_line9 | wear
+front
+alpha
+drill
+spray
+leopard
+wedding
+nerve
+swarm |  
+| bip_39_word_space_0 | ['wear', 'front', 'alpha', 'drill', 'spray', 'leopard', 'wedding', 'nerve', 'swarm', 'danger', 'build', 'accuse'] |  
+| bip_39_word_space_1 | wear |  
+| bip_39_word_space_10 | wear front alpha drill spray leopard wedding nerve swarm danger |  
+| bip_39_word_space_11 | wear front alpha drill spray leopard wedding nerve swarm danger build |  
+| bip_39_word_space_12 | wear front alpha drill spray leopard wedding nerve swarm danger build accuse |  
+| bip_39_word_space_2 | wear front |  
+| bip_39_word_space_3 | wear front alpha |  
+| bip_39_word_space_4 | wear front alpha drill |  
+| bip_39_word_space_5 | wear front alpha drill spray |  
+| bip_39_word_space_6 | wear front alpha drill spray leopard |  
+| bip_39_word_space_7 | wear front alpha drill spray leopard wedding |  
+| bip_39_word_space_8 | wear front alpha drill spray leopard wedding nerve |  
+| bip_39_word_space_9 | wear front alpha drill spray leopard wedding nerve swarm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: small
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: usage eye
+  * bip 39 word 3: usage eye point
+  * bip 39 word: usage eye point equip series monster stool cause dignity switch sock airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | usage |  
+| bip_39_word_new_br10 | usage<br>eye<br>point<br>equip<br>series<br>monster<br>stool<br>cause<br>dignity<br>switch |  
+| bip_39_word_new_br11 | usage<br>eye<br>point<br>equip<br>series<br>monster<br>stool<br>cause<br>dignity<br>switch<br>sock |  
+| bip_39_word_new_br12 | usage<br>eye<br>point<br>equip<br>series<br>monster<br>stool<br>cause<br>dignity<br>switch<br>sock<br>airport |  
+| bip_39_word_new_br2 | usage<br>eye |  
+| bip_39_word_new_br3 | usage<br>eye<br>point |  
+| bip_39_word_new_br4 | usage<br>eye<br>point<br>equip |  
+| bip_39_word_new_br5 | usage<br>eye<br>point<br>equip<br>series |  
+| bip_39_word_new_br6 | usage<br>eye<br>point<br>equip<br>series<br>monster |  
+| bip_39_word_new_br7 | usage<br>eye<br>point<br>equip<br>series<br>monster<br>stool |  
+| bip_39_word_new_br8 | usage<br>eye<br>point<br>equip<br>series<br>monster<br>stool<br>cause |  
+| bip_39_word_new_br9 | usage<br>eye<br>point<br>equip<br>series<br>monster<br>stool<br>cause<br>dignity |  
+| bip_39_word_new_line1 | usage |  
+| bip_39_word_new_line10 | usage
+eye
+point
+equip
+series
+monster
+stool
+cause
+dignity
+switch |  
+| bip_39_word_new_line11 | usage
+eye
+point
+equip
+series
+monster
+stool
+cause
+dignity
+switch
+sock |  
+| bip_39_word_new_line12 | usage
+eye
+point
+equip
+series
+monster
+stool
+cause
+dignity
+switch
+sock
+airport |  
+| bip_39_word_new_line2 | usage
+eye |  
+| bip_39_word_new_line3 | usage
+eye
+point |  
+| bip_39_word_new_line4 | usage
+eye
+point
+equip |  
+| bip_39_word_new_line5 | usage
+eye
+point
+equip
+series |  
+| bip_39_word_new_line6 | usage
+eye
+point
+equip
+series
+monster |  
+| bip_39_word_new_line7 | usage
+eye
+point
+equip
+series
+monster
+stool |  
+| bip_39_word_new_line8 | usage
+eye
+point
+equip
+series
+monster
+stool
+cause |  
+| bip_39_word_new_line9 | usage
+eye
+point
+equip
+series
+monster
+stool
+cause
+dignity |  
+| bip_39_word_space_0 | ['usage', 'eye', 'point', 'equip', 'series', 'monster', 'stool', 'cause', 'dignity', 'switch', 'sock', 'airport'] |  
+| bip_39_word_space_1 | usage |  
+| bip_39_word_space_10 | usage eye point equip series monster stool cause dignity switch |  
+| bip_39_word_space_11 | usage eye point equip series monster stool cause dignity switch sock |  
+| bip_39_word_space_12 | usage eye point equip series monster stool cause dignity switch sock airport |  
+| bip_39_word_space_2 | usage eye |  
+| bip_39_word_space_3 | usage eye point |  
+| bip_39_word_space_4 | usage eye point equip |  
+| bip_39_word_space_5 | usage eye point equip series |  
+| bip_39_word_space_6 | usage eye point equip series monster |  
+| bip_39_word_space_7 | usage eye point equip series monster stool |  
+| bip_39_word_space_8 | usage eye point equip series monster stool cause |  
+| bip_39_word_space_9 | usage eye point equip series monster stool cause dignity |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

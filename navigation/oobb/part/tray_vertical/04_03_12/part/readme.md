@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ankle dismiss
+  * bip 39 word 3: ankle dismiss expand
+  * bip 39 word: ankle dismiss expand where tortoise keep mutual old adult cross common art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ankle |  
+| bip_39_word_new_br10 | ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep<br>mutual<br>old<br>adult<br>cross |  
+| bip_39_word_new_br11 | ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep<br>mutual<br>old<br>adult<br>cross<br>common |  
+| bip_39_word_new_br12 | ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep<br>mutual<br>old<br>adult<br>cross<br>common<br>art |  
+| bip_39_word_new_br2 | ankle<br>dismiss |  
+| bip_39_word_new_br3 | ankle<br>dismiss<br>expand |  
+| bip_39_word_new_br4 | ankle<br>dismiss<br>expand<br>where |  
+| bip_39_word_new_br5 | ankle<br>dismiss<br>expand<br>where<br>tortoise |  
+| bip_39_word_new_br6 | ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep |  
+| bip_39_word_new_br7 | ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep<br>mutual |  
+| bip_39_word_new_br8 | ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep<br>mutual<br>old |  
+| bip_39_word_new_br9 | ankle<br>dismiss<br>expand<br>where<br>tortoise<br>keep<br>mutual<br>old<br>adult |  
+| bip_39_word_new_line1 | ankle |  
+| bip_39_word_new_line10 | ankle
+dismiss
+expand
+where
+tortoise
+keep
+mutual
+old
+adult
+cross |  
+| bip_39_word_new_line11 | ankle
+dismiss
+expand
+where
+tortoise
+keep
+mutual
+old
+adult
+cross
+common |  
+| bip_39_word_new_line12 | ankle
+dismiss
+expand
+where
+tortoise
+keep
+mutual
+old
+adult
+cross
+common
+art |  
+| bip_39_word_new_line2 | ankle
+dismiss |  
+| bip_39_word_new_line3 | ankle
+dismiss
+expand |  
+| bip_39_word_new_line4 | ankle
+dismiss
+expand
+where |  
+| bip_39_word_new_line5 | ankle
+dismiss
+expand
+where
+tortoise |  
+| bip_39_word_new_line6 | ankle
+dismiss
+expand
+where
+tortoise
+keep |  
+| bip_39_word_new_line7 | ankle
+dismiss
+expand
+where
+tortoise
+keep
+mutual |  
+| bip_39_word_new_line8 | ankle
+dismiss
+expand
+where
+tortoise
+keep
+mutual
+old |  
+| bip_39_word_new_line9 | ankle
+dismiss
+expand
+where
+tortoise
+keep
+mutual
+old
+adult |  
+| bip_39_word_space_0 | ['ankle', 'dismiss', 'expand', 'where', 'tortoise', 'keep', 'mutual', 'old', 'adult', 'cross', 'common', 'art'] |  
+| bip_39_word_space_1 | ankle |  
+| bip_39_word_space_10 | ankle dismiss expand where tortoise keep mutual old adult cross |  
+| bip_39_word_space_11 | ankle dismiss expand where tortoise keep mutual old adult cross common |  
+| bip_39_word_space_12 | ankle dismiss expand where tortoise keep mutual old adult cross common art |  
+| bip_39_word_space_2 | ankle dismiss |  
+| bip_39_word_space_3 | ankle dismiss expand |  
+| bip_39_word_space_4 | ankle dismiss expand where |  
+| bip_39_word_space_5 | ankle dismiss expand where tortoise |  
+| bip_39_word_space_6 | ankle dismiss expand where tortoise keep |  
+| bip_39_word_space_7 | ankle dismiss expand where tortoise keep mutual |  
+| bip_39_word_space_8 | ankle dismiss expand where tortoise keep mutual old |  
+| bip_39_word_space_9 | ankle dismiss expand where tortoise keep mutual old adult |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

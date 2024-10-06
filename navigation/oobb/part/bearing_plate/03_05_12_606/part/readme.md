@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: maximum abstract
+  * bip 39 word 3: maximum abstract decade
+  * bip 39 word: maximum abstract decade negative struggle tone album witness doctor border motion adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | maximum |  
+| bip_39_word_new_br10 | maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone<br>album<br>witness<br>doctor<br>border |  
+| bip_39_word_new_br11 | maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone<br>album<br>witness<br>doctor<br>border<br>motion |  
+| bip_39_word_new_br12 | maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone<br>album<br>witness<br>doctor<br>border<br>motion<br>adapt |  
+| bip_39_word_new_br2 | maximum<br>abstract |  
+| bip_39_word_new_br3 | maximum<br>abstract<br>decade |  
+| bip_39_word_new_br4 | maximum<br>abstract<br>decade<br>negative |  
+| bip_39_word_new_br5 | maximum<br>abstract<br>decade<br>negative<br>struggle |  
+| bip_39_word_new_br6 | maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone |  
+| bip_39_word_new_br7 | maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone<br>album |  
+| bip_39_word_new_br8 | maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone<br>album<br>witness |  
+| bip_39_word_new_br9 | maximum<br>abstract<br>decade<br>negative<br>struggle<br>tone<br>album<br>witness<br>doctor |  
+| bip_39_word_new_line1 | maximum |  
+| bip_39_word_new_line10 | maximum
+abstract
+decade
+negative
+struggle
+tone
+album
+witness
+doctor
+border |  
+| bip_39_word_new_line11 | maximum
+abstract
+decade
+negative
+struggle
+tone
+album
+witness
+doctor
+border
+motion |  
+| bip_39_word_new_line12 | maximum
+abstract
+decade
+negative
+struggle
+tone
+album
+witness
+doctor
+border
+motion
+adapt |  
+| bip_39_word_new_line2 | maximum
+abstract |  
+| bip_39_word_new_line3 | maximum
+abstract
+decade |  
+| bip_39_word_new_line4 | maximum
+abstract
+decade
+negative |  
+| bip_39_word_new_line5 | maximum
+abstract
+decade
+negative
+struggle |  
+| bip_39_word_new_line6 | maximum
+abstract
+decade
+negative
+struggle
+tone |  
+| bip_39_word_new_line7 | maximum
+abstract
+decade
+negative
+struggle
+tone
+album |  
+| bip_39_word_new_line8 | maximum
+abstract
+decade
+negative
+struggle
+tone
+album
+witness |  
+| bip_39_word_new_line9 | maximum
+abstract
+decade
+negative
+struggle
+tone
+album
+witness
+doctor |  
+| bip_39_word_space_0 | ['maximum', 'abstract', 'decade', 'negative', 'struggle', 'tone', 'album', 'witness', 'doctor', 'border', 'motion', 'adapt'] |  
+| bip_39_word_space_1 | maximum |  
+| bip_39_word_space_10 | maximum abstract decade negative struggle tone album witness doctor border |  
+| bip_39_word_space_11 | maximum abstract decade negative struggle tone album witness doctor border motion |  
+| bip_39_word_space_12 | maximum abstract decade negative struggle tone album witness doctor border motion adapt |  
+| bip_39_word_space_2 | maximum abstract |  
+| bip_39_word_space_3 | maximum abstract decade |  
+| bip_39_word_space_4 | maximum abstract decade negative |  
+| bip_39_word_space_5 | maximum abstract decade negative struggle |  
+| bip_39_word_space_6 | maximum abstract decade negative struggle tone |  
+| bip_39_word_space_7 | maximum abstract decade negative struggle tone album |  
+| bip_39_word_space_8 | maximum abstract decade negative struggle tone album witness |  
+| bip_39_word_space_9 | maximum abstract decade negative struggle tone album witness doctor |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mother domain
+  * bip 39 word 3: mother domain ketchup
+  * bip 39 word: mother domain ketchup journey shoot pulse warfare reason original swim forget animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mother |  
+| bip_39_word_new_br10 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim |  
+| bip_39_word_new_br11 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim<br>forget |  
+| bip_39_word_new_br12 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original<br>swim<br>forget<br>animal |  
+| bip_39_word_new_br2 | mother<br>domain |  
+| bip_39_word_new_br3 | mother<br>domain<br>ketchup |  
+| bip_39_word_new_br4 | mother<br>domain<br>ketchup<br>journey |  
+| bip_39_word_new_br5 | mother<br>domain<br>ketchup<br>journey<br>shoot |  
+| bip_39_word_new_br6 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse |  
+| bip_39_word_new_br7 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare |  
+| bip_39_word_new_br8 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason |  
+| bip_39_word_new_br9 | mother<br>domain<br>ketchup<br>journey<br>shoot<br>pulse<br>warfare<br>reason<br>original |  
+| bip_39_word_new_line1 | mother |  
+| bip_39_word_new_line10 | mother
+domain
+ketchup
+journey
+shoot
+pulse
+warfare
+reason
+original
+swim |  
+| bip_39_word_new_line11 | mother
+domain
+ketchup
+journey
+shoot
+pulse
+warfare
+reason
+original
+swim
+forget |  
+| bip_39_word_new_line12 | mother
+domain
+ketchup
+journey
+shoot
+pulse
+warfare
+reason
+original
+swim
+forget
+animal |  
+| bip_39_word_new_line2 | mother
+domain |  
+| bip_39_word_new_line3 | mother
+domain
+ketchup |  
+| bip_39_word_new_line4 | mother
+domain
+ketchup
+journey |  
+| bip_39_word_new_line5 | mother
+domain
+ketchup
+journey
+shoot |  
+| bip_39_word_new_line6 | mother
+domain
+ketchup
+journey
+shoot
+pulse |  
+| bip_39_word_new_line7 | mother
+domain
+ketchup
+journey
+shoot
+pulse
+warfare |  
+| bip_39_word_new_line8 | mother
+domain
+ketchup
+journey
+shoot
+pulse
+warfare
+reason |  
+| bip_39_word_new_line9 | mother
+domain
+ketchup
+journey
+shoot
+pulse
+warfare
+reason
+original |  
+| bip_39_word_space_0 | ['mother', 'domain', 'ketchup', 'journey', 'shoot', 'pulse', 'warfare', 'reason', 'original', 'swim', 'forget', 'animal'] |  
+| bip_39_word_space_1 | mother |  
+| bip_39_word_space_10 | mother domain ketchup journey shoot pulse warfare reason original swim |  
+| bip_39_word_space_11 | mother domain ketchup journey shoot pulse warfare reason original swim forget |  
+| bip_39_word_space_12 | mother domain ketchup journey shoot pulse warfare reason original swim forget animal |  
+| bip_39_word_space_2 | mother domain |  
+| bip_39_word_space_3 | mother domain ketchup |  
+| bip_39_word_space_4 | mother domain ketchup journey |  
+| bip_39_word_space_5 | mother domain ketchup journey shoot |  
+| bip_39_word_space_6 | mother domain ketchup journey shoot pulse |  
+| bip_39_word_space_7 | mother domain ketchup journey shoot pulse warfare |  
+| bip_39_word_space_8 | mother domain ketchup journey shoot pulse warfare reason |  
+| bip_39_word_space_9 | mother domain ketchup journey shoot pulse warfare reason original |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

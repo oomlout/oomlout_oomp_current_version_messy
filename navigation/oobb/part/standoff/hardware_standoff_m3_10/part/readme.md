@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ahead way
+  * bip 39 word 3: ahead way matrix
+  * bip 39 word: ahead way matrix moon century vivid law corn poverty defy push any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ahead |  
+| bip_39_word_new_br10 | ahead<br>way<br>matrix<br>moon<br>century<br>vivid<br>law<br>corn<br>poverty<br>defy |  
+| bip_39_word_new_br11 | ahead<br>way<br>matrix<br>moon<br>century<br>vivid<br>law<br>corn<br>poverty<br>defy<br>push |  
+| bip_39_word_new_br12 | ahead<br>way<br>matrix<br>moon<br>century<br>vivid<br>law<br>corn<br>poverty<br>defy<br>push<br>any |  
+| bip_39_word_new_br2 | ahead<br>way |  
+| bip_39_word_new_br3 | ahead<br>way<br>matrix |  
+| bip_39_word_new_br4 | ahead<br>way<br>matrix<br>moon |  
+| bip_39_word_new_br5 | ahead<br>way<br>matrix<br>moon<br>century |  
+| bip_39_word_new_br6 | ahead<br>way<br>matrix<br>moon<br>century<br>vivid |  
+| bip_39_word_new_br7 | ahead<br>way<br>matrix<br>moon<br>century<br>vivid<br>law |  
+| bip_39_word_new_br8 | ahead<br>way<br>matrix<br>moon<br>century<br>vivid<br>law<br>corn |  
+| bip_39_word_new_br9 | ahead<br>way<br>matrix<br>moon<br>century<br>vivid<br>law<br>corn<br>poverty |  
+| bip_39_word_new_line1 | ahead |  
+| bip_39_word_new_line10 | ahead
+way
+matrix
+moon
+century
+vivid
+law
+corn
+poverty
+defy |  
+| bip_39_word_new_line11 | ahead
+way
+matrix
+moon
+century
+vivid
+law
+corn
+poverty
+defy
+push |  
+| bip_39_word_new_line12 | ahead
+way
+matrix
+moon
+century
+vivid
+law
+corn
+poverty
+defy
+push
+any |  
+| bip_39_word_new_line2 | ahead
+way |  
+| bip_39_word_new_line3 | ahead
+way
+matrix |  
+| bip_39_word_new_line4 | ahead
+way
+matrix
+moon |  
+| bip_39_word_new_line5 | ahead
+way
+matrix
+moon
+century |  
+| bip_39_word_new_line6 | ahead
+way
+matrix
+moon
+century
+vivid |  
+| bip_39_word_new_line7 | ahead
+way
+matrix
+moon
+century
+vivid
+law |  
+| bip_39_word_new_line8 | ahead
+way
+matrix
+moon
+century
+vivid
+law
+corn |  
+| bip_39_word_new_line9 | ahead
+way
+matrix
+moon
+century
+vivid
+law
+corn
+poverty |  
+| bip_39_word_space_0 | ['ahead', 'way', 'matrix', 'moon', 'century', 'vivid', 'law', 'corn', 'poverty', 'defy', 'push', 'any'] |  
+| bip_39_word_space_1 | ahead |  
+| bip_39_word_space_10 | ahead way matrix moon century vivid law corn poverty defy |  
+| bip_39_word_space_11 | ahead way matrix moon century vivid law corn poverty defy push |  
+| bip_39_word_space_12 | ahead way matrix moon century vivid law corn poverty defy push any |  
+| bip_39_word_space_2 | ahead way |  
+| bip_39_word_space_3 | ahead way matrix |  
+| bip_39_word_space_4 | ahead way matrix moon |  
+| bip_39_word_space_5 | ahead way matrix moon century |  
+| bip_39_word_space_6 | ahead way matrix moon century vivid |  
+| bip_39_word_space_7 | ahead way matrix moon century vivid law |  
+| bip_39_word_space_8 | ahead way matrix moon century vivid law corn |  
+| bip_39_word_space_9 | ahead way matrix moon century vivid law corn poverty |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

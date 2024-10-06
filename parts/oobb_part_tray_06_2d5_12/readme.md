@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: someone avoid
+  * bip 39 word 3: someone avoid rule
+  * bip 39 word: someone avoid rule wash rapid imitate immune crime narrow month coyote across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | someone |  
+| bip_39_word_new_br10 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate<br>immune<br>crime<br>narrow<br>month |  
+| bip_39_word_new_br11 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate<br>immune<br>crime<br>narrow<br>month<br>coyote |  
+| bip_39_word_new_br12 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate<br>immune<br>crime<br>narrow<br>month<br>coyote<br>across |  
+| bip_39_word_new_br2 | someone<br>avoid |  
+| bip_39_word_new_br3 | someone<br>avoid<br>rule |  
+| bip_39_word_new_br4 | someone<br>avoid<br>rule<br>wash |  
+| bip_39_word_new_br5 | someone<br>avoid<br>rule<br>wash<br>rapid |  
+| bip_39_word_new_br6 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate |  
+| bip_39_word_new_br7 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate<br>immune |  
+| bip_39_word_new_br8 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate<br>immune<br>crime |  
+| bip_39_word_new_br9 | someone<br>avoid<br>rule<br>wash<br>rapid<br>imitate<br>immune<br>crime<br>narrow |  
+| bip_39_word_new_line1 | someone |  
+| bip_39_word_new_line10 | someone
+avoid
+rule
+wash
+rapid
+imitate
+immune
+crime
+narrow
+month |  
+| bip_39_word_new_line11 | someone
+avoid
+rule
+wash
+rapid
+imitate
+immune
+crime
+narrow
+month
+coyote |  
+| bip_39_word_new_line12 | someone
+avoid
+rule
+wash
+rapid
+imitate
+immune
+crime
+narrow
+month
+coyote
+across |  
+| bip_39_word_new_line2 | someone
+avoid |  
+| bip_39_word_new_line3 | someone
+avoid
+rule |  
+| bip_39_word_new_line4 | someone
+avoid
+rule
+wash |  
+| bip_39_word_new_line5 | someone
+avoid
+rule
+wash
+rapid |  
+| bip_39_word_new_line6 | someone
+avoid
+rule
+wash
+rapid
+imitate |  
+| bip_39_word_new_line7 | someone
+avoid
+rule
+wash
+rapid
+imitate
+immune |  
+| bip_39_word_new_line8 | someone
+avoid
+rule
+wash
+rapid
+imitate
+immune
+crime |  
+| bip_39_word_new_line9 | someone
+avoid
+rule
+wash
+rapid
+imitate
+immune
+crime
+narrow |  
+| bip_39_word_space_0 | ['someone', 'avoid', 'rule', 'wash', 'rapid', 'imitate', 'immune', 'crime', 'narrow', 'month', 'coyote', 'across'] |  
+| bip_39_word_space_1 | someone |  
+| bip_39_word_space_10 | someone avoid rule wash rapid imitate immune crime narrow month |  
+| bip_39_word_space_11 | someone avoid rule wash rapid imitate immune crime narrow month coyote |  
+| bip_39_word_space_12 | someone avoid rule wash rapid imitate immune crime narrow month coyote across |  
+| bip_39_word_space_2 | someone avoid |  
+| bip_39_word_space_3 | someone avoid rule |  
+| bip_39_word_space_4 | someone avoid rule wash |  
+| bip_39_word_space_5 | someone avoid rule wash rapid |  
+| bip_39_word_space_6 | someone avoid rule wash rapid imitate |  
+| bip_39_word_space_7 | someone avoid rule wash rapid imitate immune |  
+| bip_39_word_space_8 | someone avoid rule wash rapid imitate immune crime |  
+| bip_39_word_space_9 | someone avoid rule wash rapid imitate immune crime narrow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

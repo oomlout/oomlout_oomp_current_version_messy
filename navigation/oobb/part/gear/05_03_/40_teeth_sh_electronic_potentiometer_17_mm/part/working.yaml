@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gather
+bip_39_word_new_br10: gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid
+bip_39_word_new_br11: gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid<br>stick
+bip_39_word_new_br12: gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado<br>valid<br>stick<br>amused
+bip_39_word_new_br2: gather<br>reduce
+bip_39_word_new_br3: gather<br>reduce<br>equip
+bip_39_word_new_br4: gather<br>reduce<br>equip<br>gather
+bip_39_word_new_br5: gather<br>reduce<br>equip<br>gather<br>wait
+bip_39_word_new_br6: gather<br>reduce<br>equip<br>gather<br>wait<br>august
+bip_39_word_new_br7: gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow
+bip_39_word_new_br8: gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table
+bip_39_word_new_br9: gather<br>reduce<br>equip<br>gather<br>wait<br>august<br>arrow<br>table<br>avocado
+bip_39_word_new_line1: gather
+bip_39_word_new_line10: 'gather
+
+  reduce
+
+  equip
+
+  gather
+
+  wait
+
+  august
+
+  arrow
+
+  table
+
+  avocado
+
+  valid'
+bip_39_word_new_line11: 'gather
+
+  reduce
+
+  equip
+
+  gather
+
+  wait
+
+  august
+
+  arrow
+
+  table
+
+  avocado
+
+  valid
+
+  stick'
+bip_39_word_new_line12: 'gather
+
+  reduce
+
+  equip
+
+  gather
+
+  wait
+
+  august
+
+  arrow
+
+  table
+
+  avocado
+
+  valid
+
+  stick
+
+  amused'
+bip_39_word_new_line2: 'gather
+
+  reduce'
+bip_39_word_new_line3: 'gather
+
+  reduce
+
+  equip'
+bip_39_word_new_line4: 'gather
+
+  reduce
+
+  equip
+
+  gather'
+bip_39_word_new_line5: 'gather
+
+  reduce
+
+  equip
+
+  gather
+
+  wait'
+bip_39_word_new_line6: 'gather
+
+  reduce
+
+  equip
+
+  gather
+
+  wait
+
+  august'
+bip_39_word_new_line7: 'gather
+
+  reduce
+
+  equip
+
+  gather
+
+  wait
+
+  august
+
+  arrow'
+bip_39_word_new_line8: 'gather
+
+  reduce
+
+  equip
+
+  gather
+
+  wait
+
+  august
+
+  arrow
+
+  table'
+bip_39_word_new_line9: 'gather
+
+  reduce
+
+  equip
+
+  gather
+
+  wait
+
+  august
+
+  arrow
+
+  table
+
+  avocado'
+bip_39_word_space_0:
+- gather
+- reduce
+- equip
+- gather
+- wait
+- august
+- arrow
+- table
+- avocado
+- valid
+- stick
+- amused
+bip_39_word_space_1: gather
+bip_39_word_space_10: gather reduce equip gather wait august arrow table avocado valid
+bip_39_word_space_11: gather reduce equip gather wait august arrow table avocado valid
+  stick
+bip_39_word_space_12: gather reduce equip gather wait august arrow table avocado valid
+  stick amused
+bip_39_word_space_2: gather reduce
+bip_39_word_space_3: gather reduce equip
+bip_39_word_space_4: gather reduce equip gather
+bip_39_word_space_5: gather reduce equip gather wait
+bip_39_word_space_6: gather reduce equip gather wait august
+bip_39_word_space_7: gather reduce equip gather wait august arrow
+bip_39_word_space_8: gather reduce equip gather wait august arrow table
+bip_39_word_space_9: gather reduce equip gather wait august arrow table avocado
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

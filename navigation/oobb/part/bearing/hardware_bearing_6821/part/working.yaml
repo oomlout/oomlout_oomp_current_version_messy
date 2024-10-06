@@ -1,3 +1,186 @@
+bip_39_word_new_br1: board
+bip_39_word_new_br10: board<br>silver<br>family<br>toddler<br>cotton<br>pride<br>much<br>time<br>scout<br>school
+bip_39_word_new_br11: board<br>silver<br>family<br>toddler<br>cotton<br>pride<br>much<br>time<br>scout<br>school<br>lucky
+bip_39_word_new_br12: board<br>silver<br>family<br>toddler<br>cotton<br>pride<br>much<br>time<br>scout<br>school<br>lucky<br>arrive
+bip_39_word_new_br2: board<br>silver
+bip_39_word_new_br3: board<br>silver<br>family
+bip_39_word_new_br4: board<br>silver<br>family<br>toddler
+bip_39_word_new_br5: board<br>silver<br>family<br>toddler<br>cotton
+bip_39_word_new_br6: board<br>silver<br>family<br>toddler<br>cotton<br>pride
+bip_39_word_new_br7: board<br>silver<br>family<br>toddler<br>cotton<br>pride<br>much
+bip_39_word_new_br8: board<br>silver<br>family<br>toddler<br>cotton<br>pride<br>much<br>time
+bip_39_word_new_br9: board<br>silver<br>family<br>toddler<br>cotton<br>pride<br>much<br>time<br>scout
+bip_39_word_new_line1: board
+bip_39_word_new_line10: 'board
+
+  silver
+
+  family
+
+  toddler
+
+  cotton
+
+  pride
+
+  much
+
+  time
+
+  scout
+
+  school'
+bip_39_word_new_line11: 'board
+
+  silver
+
+  family
+
+  toddler
+
+  cotton
+
+  pride
+
+  much
+
+  time
+
+  scout
+
+  school
+
+  lucky'
+bip_39_word_new_line12: 'board
+
+  silver
+
+  family
+
+  toddler
+
+  cotton
+
+  pride
+
+  much
+
+  time
+
+  scout
+
+  school
+
+  lucky
+
+  arrive'
+bip_39_word_new_line2: 'board
+
+  silver'
+bip_39_word_new_line3: 'board
+
+  silver
+
+  family'
+bip_39_word_new_line4: 'board
+
+  silver
+
+  family
+
+  toddler'
+bip_39_word_new_line5: 'board
+
+  silver
+
+  family
+
+  toddler
+
+  cotton'
+bip_39_word_new_line6: 'board
+
+  silver
+
+  family
+
+  toddler
+
+  cotton
+
+  pride'
+bip_39_word_new_line7: 'board
+
+  silver
+
+  family
+
+  toddler
+
+  cotton
+
+  pride
+
+  much'
+bip_39_word_new_line8: 'board
+
+  silver
+
+  family
+
+  toddler
+
+  cotton
+
+  pride
+
+  much
+
+  time'
+bip_39_word_new_line9: 'board
+
+  silver
+
+  family
+
+  toddler
+
+  cotton
+
+  pride
+
+  much
+
+  time
+
+  scout'
+bip_39_word_space_0:
+- board
+- silver
+- family
+- toddler
+- cotton
+- pride
+- much
+- time
+- scout
+- school
+- lucky
+- arrive
+bip_39_word_space_1: board
+bip_39_word_space_10: board silver family toddler cotton pride much time scout school
+bip_39_word_space_11: board silver family toddler cotton pride much time scout school
+  lucky
+bip_39_word_space_12: board silver family toddler cotton pride much time scout school
+  lucky arrive
+bip_39_word_space_2: board silver
+bip_39_word_space_3: board silver family
+bip_39_word_space_4: board silver family toddler
+bip_39_word_space_5: board silver family toddler cotton
+bip_39_word_space_6: board silver family toddler cotton pride
+bip_39_word_space_7: board silver family toddler cotton pride much
+bip_39_word_space_8: board silver family toddler cotton pride much time
+bip_39_word_space_9: board silver family toddler cotton pride much time scout
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

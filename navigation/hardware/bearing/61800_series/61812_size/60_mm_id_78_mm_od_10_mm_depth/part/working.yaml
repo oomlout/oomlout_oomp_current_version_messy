@@ -1,3 +1,187 @@
+bip_39_word_new_br1: inner
+bip_39_word_new_br10: inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong
+bip_39_word_new_br11: inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong<br>accuse
+bip_39_word_new_br12: inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe<br>strong<br>accuse<br>attend
+bip_39_word_new_br2: inner<br>voice
+bip_39_word_new_br3: inner<br>voice<br>violin
+bip_39_word_new_br4: inner<br>voice<br>violin<br>attract
+bip_39_word_new_br5: inner<br>voice<br>violin<br>attract<br>pill
+bip_39_word_new_br6: inner<br>voice<br>violin<br>attract<br>pill<br>brief
+bip_39_word_new_br7: inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance
+bip_39_word_new_br8: inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always
+bip_39_word_new_br9: inner<br>voice<br>violin<br>attract<br>pill<br>brief<br>enhance<br>always<br>believe
+bip_39_word_new_line1: inner
+bip_39_word_new_line10: 'inner
+
+  voice
+
+  violin
+
+  attract
+
+  pill
+
+  brief
+
+  enhance
+
+  always
+
+  believe
+
+  strong'
+bip_39_word_new_line11: 'inner
+
+  voice
+
+  violin
+
+  attract
+
+  pill
+
+  brief
+
+  enhance
+
+  always
+
+  believe
+
+  strong
+
+  accuse'
+bip_39_word_new_line12: 'inner
+
+  voice
+
+  violin
+
+  attract
+
+  pill
+
+  brief
+
+  enhance
+
+  always
+
+  believe
+
+  strong
+
+  accuse
+
+  attend'
+bip_39_word_new_line2: 'inner
+
+  voice'
+bip_39_word_new_line3: 'inner
+
+  voice
+
+  violin'
+bip_39_word_new_line4: 'inner
+
+  voice
+
+  violin
+
+  attract'
+bip_39_word_new_line5: 'inner
+
+  voice
+
+  violin
+
+  attract
+
+  pill'
+bip_39_word_new_line6: 'inner
+
+  voice
+
+  violin
+
+  attract
+
+  pill
+
+  brief'
+bip_39_word_new_line7: 'inner
+
+  voice
+
+  violin
+
+  attract
+
+  pill
+
+  brief
+
+  enhance'
+bip_39_word_new_line8: 'inner
+
+  voice
+
+  violin
+
+  attract
+
+  pill
+
+  brief
+
+  enhance
+
+  always'
+bip_39_word_new_line9: 'inner
+
+  voice
+
+  violin
+
+  attract
+
+  pill
+
+  brief
+
+  enhance
+
+  always
+
+  believe'
+bip_39_word_space_0:
+- inner
+- voice
+- violin
+- attract
+- pill
+- brief
+- enhance
+- always
+- believe
+- strong
+- accuse
+- attend
+bip_39_word_space_1: inner
+bip_39_word_space_10: inner voice violin attract pill brief enhance always believe
+  strong
+bip_39_word_space_11: inner voice violin attract pill brief enhance always believe
+  strong accuse
+bip_39_word_space_12: inner voice violin attract pill brief enhance always believe
+  strong accuse attend
+bip_39_word_space_2: inner voice
+bip_39_word_space_3: inner voice violin
+bip_39_word_space_4: inner voice violin attract
+bip_39_word_space_5: inner voice violin attract pill
+bip_39_word_space_6: inner voice violin attract pill brief
+bip_39_word_space_7: inner voice violin attract pill brief enhance
+bip_39_word_space_8: inner voice violin attract pill brief enhance always
+bip_39_word_space_9: inner voice violin attract pill brief enhance always believe
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

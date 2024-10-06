@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: type timber
+  * bip 39 word 3: type timber portion
+  * bip 39 word: type timber portion idle spot lake below provide ability cherry demise amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | type |  
+| bip_39_word_new_br10 | type<br>timber<br>portion<br>idle<br>spot<br>lake<br>below<br>provide<br>ability<br>cherry |  
+| bip_39_word_new_br11 | type<br>timber<br>portion<br>idle<br>spot<br>lake<br>below<br>provide<br>ability<br>cherry<br>demise |  
+| bip_39_word_new_br12 | type<br>timber<br>portion<br>idle<br>spot<br>lake<br>below<br>provide<br>ability<br>cherry<br>demise<br>amused |  
+| bip_39_word_new_br2 | type<br>timber |  
+| bip_39_word_new_br3 | type<br>timber<br>portion |  
+| bip_39_word_new_br4 | type<br>timber<br>portion<br>idle |  
+| bip_39_word_new_br5 | type<br>timber<br>portion<br>idle<br>spot |  
+| bip_39_word_new_br6 | type<br>timber<br>portion<br>idle<br>spot<br>lake |  
+| bip_39_word_new_br7 | type<br>timber<br>portion<br>idle<br>spot<br>lake<br>below |  
+| bip_39_word_new_br8 | type<br>timber<br>portion<br>idle<br>spot<br>lake<br>below<br>provide |  
+| bip_39_word_new_br9 | type<br>timber<br>portion<br>idle<br>spot<br>lake<br>below<br>provide<br>ability |  
+| bip_39_word_new_line1 | type |  
+| bip_39_word_new_line10 | type
+timber
+portion
+idle
+spot
+lake
+below
+provide
+ability
+cherry |  
+| bip_39_word_new_line11 | type
+timber
+portion
+idle
+spot
+lake
+below
+provide
+ability
+cherry
+demise |  
+| bip_39_word_new_line12 | type
+timber
+portion
+idle
+spot
+lake
+below
+provide
+ability
+cherry
+demise
+amused |  
+| bip_39_word_new_line2 | type
+timber |  
+| bip_39_word_new_line3 | type
+timber
+portion |  
+| bip_39_word_new_line4 | type
+timber
+portion
+idle |  
+| bip_39_word_new_line5 | type
+timber
+portion
+idle
+spot |  
+| bip_39_word_new_line6 | type
+timber
+portion
+idle
+spot
+lake |  
+| bip_39_word_new_line7 | type
+timber
+portion
+idle
+spot
+lake
+below |  
+| bip_39_word_new_line8 | type
+timber
+portion
+idle
+spot
+lake
+below
+provide |  
+| bip_39_word_new_line9 | type
+timber
+portion
+idle
+spot
+lake
+below
+provide
+ability |  
+| bip_39_word_space_0 | ['type', 'timber', 'portion', 'idle', 'spot', 'lake', 'below', 'provide', 'ability', 'cherry', 'demise', 'amused'] |  
+| bip_39_word_space_1 | type |  
+| bip_39_word_space_10 | type timber portion idle spot lake below provide ability cherry |  
+| bip_39_word_space_11 | type timber portion idle spot lake below provide ability cherry demise |  
+| bip_39_word_space_12 | type timber portion idle spot lake below provide ability cherry demise amused |  
+| bip_39_word_space_2 | type timber |  
+| bip_39_word_space_3 | type timber portion |  
+| bip_39_word_space_4 | type timber portion idle |  
+| bip_39_word_space_5 | type timber portion idle spot |  
+| bip_39_word_space_6 | type timber portion idle spot lake |  
+| bip_39_word_space_7 | type timber portion idle spot lake below |  
+| bip_39_word_space_8 | type timber portion idle spot lake below provide |  
+| bip_39_word_space_9 | type timber portion idle spot lake below provide ability |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

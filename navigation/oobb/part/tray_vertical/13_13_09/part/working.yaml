@@ -1,3 +1,187 @@
+bip_39_word_new_br1: inside
+bip_39_word_new_br10: inside<br>affair<br>possible<br>stick<br>fence<br>relax<br>hood<br>erosion<br>hobby<br>tide
+bip_39_word_new_br11: inside<br>affair<br>possible<br>stick<br>fence<br>relax<br>hood<br>erosion<br>hobby<br>tide<br>gesture
+bip_39_word_new_br12: inside<br>affair<br>possible<br>stick<br>fence<br>relax<br>hood<br>erosion<br>hobby<br>tide<br>gesture<br>across
+bip_39_word_new_br2: inside<br>affair
+bip_39_word_new_br3: inside<br>affair<br>possible
+bip_39_word_new_br4: inside<br>affair<br>possible<br>stick
+bip_39_word_new_br5: inside<br>affair<br>possible<br>stick<br>fence
+bip_39_word_new_br6: inside<br>affair<br>possible<br>stick<br>fence<br>relax
+bip_39_word_new_br7: inside<br>affair<br>possible<br>stick<br>fence<br>relax<br>hood
+bip_39_word_new_br8: inside<br>affair<br>possible<br>stick<br>fence<br>relax<br>hood<br>erosion
+bip_39_word_new_br9: inside<br>affair<br>possible<br>stick<br>fence<br>relax<br>hood<br>erosion<br>hobby
+bip_39_word_new_line1: inside
+bip_39_word_new_line10: 'inside
+
+  affair
+
+  possible
+
+  stick
+
+  fence
+
+  relax
+
+  hood
+
+  erosion
+
+  hobby
+
+  tide'
+bip_39_word_new_line11: 'inside
+
+  affair
+
+  possible
+
+  stick
+
+  fence
+
+  relax
+
+  hood
+
+  erosion
+
+  hobby
+
+  tide
+
+  gesture'
+bip_39_word_new_line12: 'inside
+
+  affair
+
+  possible
+
+  stick
+
+  fence
+
+  relax
+
+  hood
+
+  erosion
+
+  hobby
+
+  tide
+
+  gesture
+
+  across'
+bip_39_word_new_line2: 'inside
+
+  affair'
+bip_39_word_new_line3: 'inside
+
+  affair
+
+  possible'
+bip_39_word_new_line4: 'inside
+
+  affair
+
+  possible
+
+  stick'
+bip_39_word_new_line5: 'inside
+
+  affair
+
+  possible
+
+  stick
+
+  fence'
+bip_39_word_new_line6: 'inside
+
+  affair
+
+  possible
+
+  stick
+
+  fence
+
+  relax'
+bip_39_word_new_line7: 'inside
+
+  affair
+
+  possible
+
+  stick
+
+  fence
+
+  relax
+
+  hood'
+bip_39_word_new_line8: 'inside
+
+  affair
+
+  possible
+
+  stick
+
+  fence
+
+  relax
+
+  hood
+
+  erosion'
+bip_39_word_new_line9: 'inside
+
+  affair
+
+  possible
+
+  stick
+
+  fence
+
+  relax
+
+  hood
+
+  erosion
+
+  hobby'
+bip_39_word_space_0:
+- inside
+- affair
+- possible
+- stick
+- fence
+- relax
+- hood
+- erosion
+- hobby
+- tide
+- gesture
+- across
+bip_39_word_space_1: inside
+bip_39_word_space_10: inside affair possible stick fence relax hood erosion hobby
+  tide
+bip_39_word_space_11: inside affair possible stick fence relax hood erosion hobby
+  tide gesture
+bip_39_word_space_12: inside affair possible stick fence relax hood erosion hobby
+  tide gesture across
+bip_39_word_space_2: inside affair
+bip_39_word_space_3: inside affair possible
+bip_39_word_space_4: inside affair possible stick
+bip_39_word_space_5: inside affair possible stick fence
+bip_39_word_space_6: inside affair possible stick fence relax
+bip_39_word_space_7: inside affair possible stick fence relax hood
+bip_39_word_space_8: inside affair possible stick fence relax hood erosion
+bip_39_word_space_9: inside affair possible stick fence relax hood erosion hobby
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

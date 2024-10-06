@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ostrich own
+  * bip 39 word 3: ostrich own struggle
+  * bip 39 word: ostrich own struggle day mix approve real gun skill mutual bulb allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ostrich |  
+| bip_39_word_new_br10 | ostrich<br>own<br>struggle<br>day<br>mix<br>approve<br>real<br>gun<br>skill<br>mutual |  
+| bip_39_word_new_br11 | ostrich<br>own<br>struggle<br>day<br>mix<br>approve<br>real<br>gun<br>skill<br>mutual<br>bulb |  
+| bip_39_word_new_br12 | ostrich<br>own<br>struggle<br>day<br>mix<br>approve<br>real<br>gun<br>skill<br>mutual<br>bulb<br>allow |  
+| bip_39_word_new_br2 | ostrich<br>own |  
+| bip_39_word_new_br3 | ostrich<br>own<br>struggle |  
+| bip_39_word_new_br4 | ostrich<br>own<br>struggle<br>day |  
+| bip_39_word_new_br5 | ostrich<br>own<br>struggle<br>day<br>mix |  
+| bip_39_word_new_br6 | ostrich<br>own<br>struggle<br>day<br>mix<br>approve |  
+| bip_39_word_new_br7 | ostrich<br>own<br>struggle<br>day<br>mix<br>approve<br>real |  
+| bip_39_word_new_br8 | ostrich<br>own<br>struggle<br>day<br>mix<br>approve<br>real<br>gun |  
+| bip_39_word_new_br9 | ostrich<br>own<br>struggle<br>day<br>mix<br>approve<br>real<br>gun<br>skill |  
+| bip_39_word_new_line1 | ostrich |  
+| bip_39_word_new_line10 | ostrich
+own
+struggle
+day
+mix
+approve
+real
+gun
+skill
+mutual |  
+| bip_39_word_new_line11 | ostrich
+own
+struggle
+day
+mix
+approve
+real
+gun
+skill
+mutual
+bulb |  
+| bip_39_word_new_line12 | ostrich
+own
+struggle
+day
+mix
+approve
+real
+gun
+skill
+mutual
+bulb
+allow |  
+| bip_39_word_new_line2 | ostrich
+own |  
+| bip_39_word_new_line3 | ostrich
+own
+struggle |  
+| bip_39_word_new_line4 | ostrich
+own
+struggle
+day |  
+| bip_39_word_new_line5 | ostrich
+own
+struggle
+day
+mix |  
+| bip_39_word_new_line6 | ostrich
+own
+struggle
+day
+mix
+approve |  
+| bip_39_word_new_line7 | ostrich
+own
+struggle
+day
+mix
+approve
+real |  
+| bip_39_word_new_line8 | ostrich
+own
+struggle
+day
+mix
+approve
+real
+gun |  
+| bip_39_word_new_line9 | ostrich
+own
+struggle
+day
+mix
+approve
+real
+gun
+skill |  
+| bip_39_word_space_0 | ['ostrich', 'own', 'struggle', 'day', 'mix', 'approve', 'real', 'gun', 'skill', 'mutual', 'bulb', 'allow'] |  
+| bip_39_word_space_1 | ostrich |  
+| bip_39_word_space_10 | ostrich own struggle day mix approve real gun skill mutual |  
+| bip_39_word_space_11 | ostrich own struggle day mix approve real gun skill mutual bulb |  
+| bip_39_word_space_12 | ostrich own struggle day mix approve real gun skill mutual bulb allow |  
+| bip_39_word_space_2 | ostrich own |  
+| bip_39_word_space_3 | ostrich own struggle |  
+| bip_39_word_space_4 | ostrich own struggle day |  
+| bip_39_word_space_5 | ostrich own struggle day mix |  
+| bip_39_word_space_6 | ostrich own struggle day mix approve |  
+| bip_39_word_space_7 | ostrich own struggle day mix approve real |  
+| bip_39_word_space_8 | ostrich own struggle day mix approve real gun |  
+| bip_39_word_space_9 | ostrich own struggle day mix approve real gun skill |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

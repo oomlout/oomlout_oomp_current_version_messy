@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dish
+bip_39_word_new_br10: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer<br>motion
+bip_39_word_new_br11: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer<br>motion<br>sort
+bip_39_word_new_br12: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer<br>motion<br>sort<br>army
+bip_39_word_new_br2: dish<br>moon
+bip_39_word_new_br3: dish<br>moon<br>comfort
+bip_39_word_new_br4: dish<br>moon<br>comfort<br>betray
+bip_39_word_new_br5: dish<br>moon<br>comfort<br>betray<br>payment
+bip_39_word_new_br6: dish<br>moon<br>comfort<br>betray<br>payment<br>light
+bip_39_word_new_br7: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few
+bip_39_word_new_br8: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work
+bip_39_word_new_br9: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer
+bip_39_word_new_line1: dish
+bip_39_word_new_line10: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work
+
+  pioneer
+
+  motion'
+bip_39_word_new_line11: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work
+
+  pioneer
+
+  motion
+
+  sort'
+bip_39_word_new_line12: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work
+
+  pioneer
+
+  motion
+
+  sort
+
+  army'
+bip_39_word_new_line2: 'dish
+
+  moon'
+bip_39_word_new_line3: 'dish
+
+  moon
+
+  comfort'
+bip_39_word_new_line4: 'dish
+
+  moon
+
+  comfort
+
+  betray'
+bip_39_word_new_line5: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment'
+bip_39_word_new_line6: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light'
+bip_39_word_new_line7: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few'
+bip_39_word_new_line8: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work'
+bip_39_word_new_line9: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work
+
+  pioneer'
+bip_39_word_space_0:
+- dish
+- moon
+- comfort
+- betray
+- payment
+- light
+- few
+- work
+- pioneer
+- motion
+- sort
+- army
+bip_39_word_space_1: dish
+bip_39_word_space_10: dish moon comfort betray payment light few work pioneer motion
+bip_39_word_space_11: dish moon comfort betray payment light few work pioneer motion
+  sort
+bip_39_word_space_12: dish moon comfort betray payment light few work pioneer motion
+  sort army
+bip_39_word_space_2: dish moon
+bip_39_word_space_3: dish moon comfort
+bip_39_word_space_4: dish moon comfort betray
+bip_39_word_space_5: dish moon comfort betray payment
+bip_39_word_space_6: dish moon comfort betray payment light
+bip_39_word_space_7: dish moon comfort betray payment light few
+bip_39_word_space_8: dish moon comfort betray payment light few work
+bip_39_word_space_9: dish moon comfort betray payment light few work pioneer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

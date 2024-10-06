@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quote gun
+  * bip 39 word 3: quote gun deal
+  * bip 39 word: quote gun deal test poet chapter shy soup situate price okay adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quote |  
+| bip_39_word_new_br10 | quote<br>gun<br>deal<br>test<br>poet<br>chapter<br>shy<br>soup<br>situate<br>price |  
+| bip_39_word_new_br11 | quote<br>gun<br>deal<br>test<br>poet<br>chapter<br>shy<br>soup<br>situate<br>price<br>okay |  
+| bip_39_word_new_br12 | quote<br>gun<br>deal<br>test<br>poet<br>chapter<br>shy<br>soup<br>situate<br>price<br>okay<br>adapt |  
+| bip_39_word_new_br2 | quote<br>gun |  
+| bip_39_word_new_br3 | quote<br>gun<br>deal |  
+| bip_39_word_new_br4 | quote<br>gun<br>deal<br>test |  
+| bip_39_word_new_br5 | quote<br>gun<br>deal<br>test<br>poet |  
+| bip_39_word_new_br6 | quote<br>gun<br>deal<br>test<br>poet<br>chapter |  
+| bip_39_word_new_br7 | quote<br>gun<br>deal<br>test<br>poet<br>chapter<br>shy |  
+| bip_39_word_new_br8 | quote<br>gun<br>deal<br>test<br>poet<br>chapter<br>shy<br>soup |  
+| bip_39_word_new_br9 | quote<br>gun<br>deal<br>test<br>poet<br>chapter<br>shy<br>soup<br>situate |  
+| bip_39_word_new_line1 | quote |  
+| bip_39_word_new_line10 | quote
+gun
+deal
+test
+poet
+chapter
+shy
+soup
+situate
+price |  
+| bip_39_word_new_line11 | quote
+gun
+deal
+test
+poet
+chapter
+shy
+soup
+situate
+price
+okay |  
+| bip_39_word_new_line12 | quote
+gun
+deal
+test
+poet
+chapter
+shy
+soup
+situate
+price
+okay
+adapt |  
+| bip_39_word_new_line2 | quote
+gun |  
+| bip_39_word_new_line3 | quote
+gun
+deal |  
+| bip_39_word_new_line4 | quote
+gun
+deal
+test |  
+| bip_39_word_new_line5 | quote
+gun
+deal
+test
+poet |  
+| bip_39_word_new_line6 | quote
+gun
+deal
+test
+poet
+chapter |  
+| bip_39_word_new_line7 | quote
+gun
+deal
+test
+poet
+chapter
+shy |  
+| bip_39_word_new_line8 | quote
+gun
+deal
+test
+poet
+chapter
+shy
+soup |  
+| bip_39_word_new_line9 | quote
+gun
+deal
+test
+poet
+chapter
+shy
+soup
+situate |  
+| bip_39_word_space_0 | ['quote', 'gun', 'deal', 'test', 'poet', 'chapter', 'shy', 'soup', 'situate', 'price', 'okay', 'adapt'] |  
+| bip_39_word_space_1 | quote |  
+| bip_39_word_space_10 | quote gun deal test poet chapter shy soup situate price |  
+| bip_39_word_space_11 | quote gun deal test poet chapter shy soup situate price okay |  
+| bip_39_word_space_12 | quote gun deal test poet chapter shy soup situate price okay adapt |  
+| bip_39_word_space_2 | quote gun |  
+| bip_39_word_space_3 | quote gun deal |  
+| bip_39_word_space_4 | quote gun deal test |  
+| bip_39_word_space_5 | quote gun deal test poet |  
+| bip_39_word_space_6 | quote gun deal test poet chapter |  
+| bip_39_word_space_7 | quote gun deal test poet chapter shy |  
+| bip_39_word_space_8 | quote gun deal test poet chapter shy soup |  
+| bip_39_word_space_9 | quote gun deal test poet chapter shy soup situate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

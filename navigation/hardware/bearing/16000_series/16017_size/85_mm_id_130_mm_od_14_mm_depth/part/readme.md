@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: venture scatter
+  * bip 39 word 3: venture scatter donkey
+  * bip 39 word: venture scatter donkey outer network piano document hello palm news recipe angry
 
 ### other_codes
 * short_code: br16017
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | venture |  
+| bip_39_word_new_br10 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm<br>news |  
+| bip_39_word_new_br11 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm<br>news<br>recipe |  
+| bip_39_word_new_br12 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm<br>news<br>recipe<br>angry |  
+| bip_39_word_new_br2 | venture<br>scatter |  
+| bip_39_word_new_br3 | venture<br>scatter<br>donkey |  
+| bip_39_word_new_br4 | venture<br>scatter<br>donkey<br>outer |  
+| bip_39_word_new_br5 | venture<br>scatter<br>donkey<br>outer<br>network |  
+| bip_39_word_new_br6 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano |  
+| bip_39_word_new_br7 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document |  
+| bip_39_word_new_br8 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello |  
+| bip_39_word_new_br9 | venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm |  
+| bip_39_word_new_line1 | venture |  
+| bip_39_word_new_line10 | venture
+scatter
+donkey
+outer
+network
+piano
+document
+hello
+palm
+news |  
+| bip_39_word_new_line11 | venture
+scatter
+donkey
+outer
+network
+piano
+document
+hello
+palm
+news
+recipe |  
+| bip_39_word_new_line12 | venture
+scatter
+donkey
+outer
+network
+piano
+document
+hello
+palm
+news
+recipe
+angry |  
+| bip_39_word_new_line2 | venture
+scatter |  
+| bip_39_word_new_line3 | venture
+scatter
+donkey |  
+| bip_39_word_new_line4 | venture
+scatter
+donkey
+outer |  
+| bip_39_word_new_line5 | venture
+scatter
+donkey
+outer
+network |  
+| bip_39_word_new_line6 | venture
+scatter
+donkey
+outer
+network
+piano |  
+| bip_39_word_new_line7 | venture
+scatter
+donkey
+outer
+network
+piano
+document |  
+| bip_39_word_new_line8 | venture
+scatter
+donkey
+outer
+network
+piano
+document
+hello |  
+| bip_39_word_new_line9 | venture
+scatter
+donkey
+outer
+network
+piano
+document
+hello
+palm |  
+| bip_39_word_space_0 | ['venture', 'scatter', 'donkey', 'outer', 'network', 'piano', 'document', 'hello', 'palm', 'news', 'recipe', 'angry'] |  
+| bip_39_word_space_1 | venture |  
+| bip_39_word_space_10 | venture scatter donkey outer network piano document hello palm news |  
+| bip_39_word_space_11 | venture scatter donkey outer network piano document hello palm news recipe |  
+| bip_39_word_space_12 | venture scatter donkey outer network piano document hello palm news recipe angry |  
+| bip_39_word_space_2 | venture scatter |  
+| bip_39_word_space_3 | venture scatter donkey |  
+| bip_39_word_space_4 | venture scatter donkey outer |  
+| bip_39_word_space_5 | venture scatter donkey outer network |  
+| bip_39_word_space_6 | venture scatter donkey outer network piano |  
+| bip_39_word_space_7 | venture scatter donkey outer network piano document |  
+| bip_39_word_space_8 | venture scatter donkey outer network piano document hello |  
+| bip_39_word_space_9 | venture scatter donkey outer network piano document hello palm |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

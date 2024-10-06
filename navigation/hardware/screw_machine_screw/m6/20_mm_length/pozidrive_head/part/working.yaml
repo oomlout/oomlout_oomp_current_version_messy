@@ -1,3 +1,185 @@
+bip_39_word_new_br1: say
+bip_39_word_new_br10: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen
+bip_39_word_new_br11: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script
+bip_39_word_new_br12: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge<br>hen<br>script<br>address
+bip_39_word_new_br2: say<br>slender
+bip_39_word_new_br3: say<br>slender<br>scrub
+bip_39_word_new_br4: say<br>slender<br>scrub<br>ostrich
+bip_39_word_new_br5: say<br>slender<br>scrub<br>ostrich<br>dream
+bip_39_word_new_br6: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast
+bip_39_word_new_br7: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam
+bip_39_word_new_br8: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet
+bip_39_word_new_br9: say<br>slender<br>scrub<br>ostrich<br>dream<br>vast<br>slam<br>pet<br>bridge
+bip_39_word_new_line1: say
+bip_39_word_new_line10: 'say
+
+  slender
+
+  scrub
+
+  ostrich
+
+  dream
+
+  vast
+
+  slam
+
+  pet
+
+  bridge
+
+  hen'
+bip_39_word_new_line11: 'say
+
+  slender
+
+  scrub
+
+  ostrich
+
+  dream
+
+  vast
+
+  slam
+
+  pet
+
+  bridge
+
+  hen
+
+  script'
+bip_39_word_new_line12: 'say
+
+  slender
+
+  scrub
+
+  ostrich
+
+  dream
+
+  vast
+
+  slam
+
+  pet
+
+  bridge
+
+  hen
+
+  script
+
+  address'
+bip_39_word_new_line2: 'say
+
+  slender'
+bip_39_word_new_line3: 'say
+
+  slender
+
+  scrub'
+bip_39_word_new_line4: 'say
+
+  slender
+
+  scrub
+
+  ostrich'
+bip_39_word_new_line5: 'say
+
+  slender
+
+  scrub
+
+  ostrich
+
+  dream'
+bip_39_word_new_line6: 'say
+
+  slender
+
+  scrub
+
+  ostrich
+
+  dream
+
+  vast'
+bip_39_word_new_line7: 'say
+
+  slender
+
+  scrub
+
+  ostrich
+
+  dream
+
+  vast
+
+  slam'
+bip_39_word_new_line8: 'say
+
+  slender
+
+  scrub
+
+  ostrich
+
+  dream
+
+  vast
+
+  slam
+
+  pet'
+bip_39_word_new_line9: 'say
+
+  slender
+
+  scrub
+
+  ostrich
+
+  dream
+
+  vast
+
+  slam
+
+  pet
+
+  bridge'
+bip_39_word_space_0:
+- say
+- slender
+- scrub
+- ostrich
+- dream
+- vast
+- slam
+- pet
+- bridge
+- hen
+- script
+- address
+bip_39_word_space_1: say
+bip_39_word_space_10: say slender scrub ostrich dream vast slam pet bridge hen
+bip_39_word_space_11: say slender scrub ostrich dream vast slam pet bridge hen script
+bip_39_word_space_12: say slender scrub ostrich dream vast slam pet bridge hen script
+  address
+bip_39_word_space_2: say slender
+bip_39_word_space_3: say slender scrub
+bip_39_word_space_4: say slender scrub ostrich
+bip_39_word_space_5: say slender scrub ostrich dream
+bip_39_word_space_6: say slender scrub ostrich dream vast
+bip_39_word_space_7: say slender scrub ostrich dream vast slam
+bip_39_word_space_8: say slender scrub ostrich dream vast slam pet
+bip_39_word_space_9: say slender scrub ostrich dream vast slam pet bridge
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

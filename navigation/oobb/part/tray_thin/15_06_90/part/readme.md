@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: web speak
+  * bip 39 word 3: web speak ill
+  * bip 39 word: web speak ill sword memory enter sustain kingdom input ten noise action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | web |  
+| bip_39_word_new_br10 | web<br>speak<br>ill<br>sword<br>memory<br>enter<br>sustain<br>kingdom<br>input<br>ten |  
+| bip_39_word_new_br11 | web<br>speak<br>ill<br>sword<br>memory<br>enter<br>sustain<br>kingdom<br>input<br>ten<br>noise |  
+| bip_39_word_new_br12 | web<br>speak<br>ill<br>sword<br>memory<br>enter<br>sustain<br>kingdom<br>input<br>ten<br>noise<br>action |  
+| bip_39_word_new_br2 | web<br>speak |  
+| bip_39_word_new_br3 | web<br>speak<br>ill |  
+| bip_39_word_new_br4 | web<br>speak<br>ill<br>sword |  
+| bip_39_word_new_br5 | web<br>speak<br>ill<br>sword<br>memory |  
+| bip_39_word_new_br6 | web<br>speak<br>ill<br>sword<br>memory<br>enter |  
+| bip_39_word_new_br7 | web<br>speak<br>ill<br>sword<br>memory<br>enter<br>sustain |  
+| bip_39_word_new_br8 | web<br>speak<br>ill<br>sword<br>memory<br>enter<br>sustain<br>kingdom |  
+| bip_39_word_new_br9 | web<br>speak<br>ill<br>sword<br>memory<br>enter<br>sustain<br>kingdom<br>input |  
+| bip_39_word_new_line1 | web |  
+| bip_39_word_new_line10 | web
+speak
+ill
+sword
+memory
+enter
+sustain
+kingdom
+input
+ten |  
+| bip_39_word_new_line11 | web
+speak
+ill
+sword
+memory
+enter
+sustain
+kingdom
+input
+ten
+noise |  
+| bip_39_word_new_line12 | web
+speak
+ill
+sword
+memory
+enter
+sustain
+kingdom
+input
+ten
+noise
+action |  
+| bip_39_word_new_line2 | web
+speak |  
+| bip_39_word_new_line3 | web
+speak
+ill |  
+| bip_39_word_new_line4 | web
+speak
+ill
+sword |  
+| bip_39_word_new_line5 | web
+speak
+ill
+sword
+memory |  
+| bip_39_word_new_line6 | web
+speak
+ill
+sword
+memory
+enter |  
+| bip_39_word_new_line7 | web
+speak
+ill
+sword
+memory
+enter
+sustain |  
+| bip_39_word_new_line8 | web
+speak
+ill
+sword
+memory
+enter
+sustain
+kingdom |  
+| bip_39_word_new_line9 | web
+speak
+ill
+sword
+memory
+enter
+sustain
+kingdom
+input |  
+| bip_39_word_space_0 | ['web', 'speak', 'ill', 'sword', 'memory', 'enter', 'sustain', 'kingdom', 'input', 'ten', 'noise', 'action'] |  
+| bip_39_word_space_1 | web |  
+| bip_39_word_space_10 | web speak ill sword memory enter sustain kingdom input ten |  
+| bip_39_word_space_11 | web speak ill sword memory enter sustain kingdom input ten noise |  
+| bip_39_word_space_12 | web speak ill sword memory enter sustain kingdom input ten noise action |  
+| bip_39_word_space_2 | web speak |  
+| bip_39_word_space_3 | web speak ill |  
+| bip_39_word_space_4 | web speak ill sword |  
+| bip_39_word_space_5 | web speak ill sword memory |  
+| bip_39_word_space_6 | web speak ill sword memory enter |  
+| bip_39_word_space_7 | web speak ill sword memory enter sustain |  
+| bip_39_word_space_8 | web speak ill sword memory enter sustain kingdom |  
+| bip_39_word_space_9 | web speak ill sword memory enter sustain kingdom input |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

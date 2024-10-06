@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jump antenna
+  * bip 39 word 3: jump antenna hover
+  * bip 39 word: jump antenna hover alpha deal furnace ten emotion midnight nest excuse advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jump |  
+| bip_39_word_new_br10 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest |  
+| bip_39_word_new_br11 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse |  
+| bip_39_word_new_br12 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse<br>advice |  
+| bip_39_word_new_br2 | jump<br>antenna |  
+| bip_39_word_new_br3 | jump<br>antenna<br>hover |  
+| bip_39_word_new_br4 | jump<br>antenna<br>hover<br>alpha |  
+| bip_39_word_new_br5 | jump<br>antenna<br>hover<br>alpha<br>deal |  
+| bip_39_word_new_br6 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace |  
+| bip_39_word_new_br7 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten |  
+| bip_39_word_new_br8 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion |  
+| bip_39_word_new_br9 | jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight |  
+| bip_39_word_new_line1 | jump |  
+| bip_39_word_new_line10 | jump
+antenna
+hover
+alpha
+deal
+furnace
+ten
+emotion
+midnight
+nest |  
+| bip_39_word_new_line11 | jump
+antenna
+hover
+alpha
+deal
+furnace
+ten
+emotion
+midnight
+nest
+excuse |  
+| bip_39_word_new_line12 | jump
+antenna
+hover
+alpha
+deal
+furnace
+ten
+emotion
+midnight
+nest
+excuse
+advice |  
+| bip_39_word_new_line2 | jump
+antenna |  
+| bip_39_word_new_line3 | jump
+antenna
+hover |  
+| bip_39_word_new_line4 | jump
+antenna
+hover
+alpha |  
+| bip_39_word_new_line5 | jump
+antenna
+hover
+alpha
+deal |  
+| bip_39_word_new_line6 | jump
+antenna
+hover
+alpha
+deal
+furnace |  
+| bip_39_word_new_line7 | jump
+antenna
+hover
+alpha
+deal
+furnace
+ten |  
+| bip_39_word_new_line8 | jump
+antenna
+hover
+alpha
+deal
+furnace
+ten
+emotion |  
+| bip_39_word_new_line9 | jump
+antenna
+hover
+alpha
+deal
+furnace
+ten
+emotion
+midnight |  
+| bip_39_word_space_0 | ['jump', 'antenna', 'hover', 'alpha', 'deal', 'furnace', 'ten', 'emotion', 'midnight', 'nest', 'excuse', 'advice'] |  
+| bip_39_word_space_1 | jump |  
+| bip_39_word_space_10 | jump antenna hover alpha deal furnace ten emotion midnight nest |  
+| bip_39_word_space_11 | jump antenna hover alpha deal furnace ten emotion midnight nest excuse |  
+| bip_39_word_space_12 | jump antenna hover alpha deal furnace ten emotion midnight nest excuse advice |  
+| bip_39_word_space_2 | jump antenna |  
+| bip_39_word_space_3 | jump antenna hover |  
+| bip_39_word_space_4 | jump antenna hover alpha |  
+| bip_39_word_space_5 | jump antenna hover alpha deal |  
+| bip_39_word_space_6 | jump antenna hover alpha deal furnace |  
+| bip_39_word_space_7 | jump antenna hover alpha deal furnace ten |  
+| bip_39_word_space_8 | jump antenna hover alpha deal furnace ten emotion |  
+| bip_39_word_space_9 | jump antenna hover alpha deal furnace ten emotion midnight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

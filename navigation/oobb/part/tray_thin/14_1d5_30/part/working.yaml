@@ -1,3 +1,185 @@
+bip_39_word_new_br1: steak
+bip_39_word_new_br10: steak<br>skin<br>page<br>jewel<br>flame<br>spell<br>scrap<br>margin<br>garage<br>soda
+bip_39_word_new_br11: steak<br>skin<br>page<br>jewel<br>flame<br>spell<br>scrap<br>margin<br>garage<br>soda<br>spot
+bip_39_word_new_br12: steak<br>skin<br>page<br>jewel<br>flame<br>spell<br>scrap<br>margin<br>garage<br>soda<br>spot<br>able
+bip_39_word_new_br2: steak<br>skin
+bip_39_word_new_br3: steak<br>skin<br>page
+bip_39_word_new_br4: steak<br>skin<br>page<br>jewel
+bip_39_word_new_br5: steak<br>skin<br>page<br>jewel<br>flame
+bip_39_word_new_br6: steak<br>skin<br>page<br>jewel<br>flame<br>spell
+bip_39_word_new_br7: steak<br>skin<br>page<br>jewel<br>flame<br>spell<br>scrap
+bip_39_word_new_br8: steak<br>skin<br>page<br>jewel<br>flame<br>spell<br>scrap<br>margin
+bip_39_word_new_br9: steak<br>skin<br>page<br>jewel<br>flame<br>spell<br>scrap<br>margin<br>garage
+bip_39_word_new_line1: steak
+bip_39_word_new_line10: 'steak
+
+  skin
+
+  page
+
+  jewel
+
+  flame
+
+  spell
+
+  scrap
+
+  margin
+
+  garage
+
+  soda'
+bip_39_word_new_line11: 'steak
+
+  skin
+
+  page
+
+  jewel
+
+  flame
+
+  spell
+
+  scrap
+
+  margin
+
+  garage
+
+  soda
+
+  spot'
+bip_39_word_new_line12: 'steak
+
+  skin
+
+  page
+
+  jewel
+
+  flame
+
+  spell
+
+  scrap
+
+  margin
+
+  garage
+
+  soda
+
+  spot
+
+  able'
+bip_39_word_new_line2: 'steak
+
+  skin'
+bip_39_word_new_line3: 'steak
+
+  skin
+
+  page'
+bip_39_word_new_line4: 'steak
+
+  skin
+
+  page
+
+  jewel'
+bip_39_word_new_line5: 'steak
+
+  skin
+
+  page
+
+  jewel
+
+  flame'
+bip_39_word_new_line6: 'steak
+
+  skin
+
+  page
+
+  jewel
+
+  flame
+
+  spell'
+bip_39_word_new_line7: 'steak
+
+  skin
+
+  page
+
+  jewel
+
+  flame
+
+  spell
+
+  scrap'
+bip_39_word_new_line8: 'steak
+
+  skin
+
+  page
+
+  jewel
+
+  flame
+
+  spell
+
+  scrap
+
+  margin'
+bip_39_word_new_line9: 'steak
+
+  skin
+
+  page
+
+  jewel
+
+  flame
+
+  spell
+
+  scrap
+
+  margin
+
+  garage'
+bip_39_word_space_0:
+- steak
+- skin
+- page
+- jewel
+- flame
+- spell
+- scrap
+- margin
+- garage
+- soda
+- spot
+- able
+bip_39_word_space_1: steak
+bip_39_word_space_10: steak skin page jewel flame spell scrap margin garage soda
+bip_39_word_space_11: steak skin page jewel flame spell scrap margin garage soda spot
+bip_39_word_space_12: steak skin page jewel flame spell scrap margin garage soda spot
+  able
+bip_39_word_space_2: steak skin
+bip_39_word_space_3: steak skin page
+bip_39_word_space_4: steak skin page jewel
+bip_39_word_space_5: steak skin page jewel flame
+bip_39_word_space_6: steak skin page jewel flame spell
+bip_39_word_space_7: steak skin page jewel flame spell scrap
+bip_39_word_space_8: steak skin page jewel flame spell scrap margin
+bip_39_word_space_9: steak skin page jewel flame spell scrap margin garage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

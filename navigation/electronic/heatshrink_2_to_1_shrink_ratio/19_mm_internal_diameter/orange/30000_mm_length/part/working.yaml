@@ -1,3 +1,186 @@
+bip_39_word_new_br1: embrace
+bip_39_word_new_br10: embrace<br>mesh<br>twist<br>night<br>detect<br>reopen<br>alert<br>chunk<br>simple<br>reopen
+bip_39_word_new_br11: embrace<br>mesh<br>twist<br>night<br>detect<br>reopen<br>alert<br>chunk<br>simple<br>reopen<br>pistol
+bip_39_word_new_br12: embrace<br>mesh<br>twist<br>night<br>detect<br>reopen<br>alert<br>chunk<br>simple<br>reopen<br>pistol<br>another
+bip_39_word_new_br2: embrace<br>mesh
+bip_39_word_new_br3: embrace<br>mesh<br>twist
+bip_39_word_new_br4: embrace<br>mesh<br>twist<br>night
+bip_39_word_new_br5: embrace<br>mesh<br>twist<br>night<br>detect
+bip_39_word_new_br6: embrace<br>mesh<br>twist<br>night<br>detect<br>reopen
+bip_39_word_new_br7: embrace<br>mesh<br>twist<br>night<br>detect<br>reopen<br>alert
+bip_39_word_new_br8: embrace<br>mesh<br>twist<br>night<br>detect<br>reopen<br>alert<br>chunk
+bip_39_word_new_br9: embrace<br>mesh<br>twist<br>night<br>detect<br>reopen<br>alert<br>chunk<br>simple
+bip_39_word_new_line1: embrace
+bip_39_word_new_line10: 'embrace
+
+  mesh
+
+  twist
+
+  night
+
+  detect
+
+  reopen
+
+  alert
+
+  chunk
+
+  simple
+
+  reopen'
+bip_39_word_new_line11: 'embrace
+
+  mesh
+
+  twist
+
+  night
+
+  detect
+
+  reopen
+
+  alert
+
+  chunk
+
+  simple
+
+  reopen
+
+  pistol'
+bip_39_word_new_line12: 'embrace
+
+  mesh
+
+  twist
+
+  night
+
+  detect
+
+  reopen
+
+  alert
+
+  chunk
+
+  simple
+
+  reopen
+
+  pistol
+
+  another'
+bip_39_word_new_line2: 'embrace
+
+  mesh'
+bip_39_word_new_line3: 'embrace
+
+  mesh
+
+  twist'
+bip_39_word_new_line4: 'embrace
+
+  mesh
+
+  twist
+
+  night'
+bip_39_word_new_line5: 'embrace
+
+  mesh
+
+  twist
+
+  night
+
+  detect'
+bip_39_word_new_line6: 'embrace
+
+  mesh
+
+  twist
+
+  night
+
+  detect
+
+  reopen'
+bip_39_word_new_line7: 'embrace
+
+  mesh
+
+  twist
+
+  night
+
+  detect
+
+  reopen
+
+  alert'
+bip_39_word_new_line8: 'embrace
+
+  mesh
+
+  twist
+
+  night
+
+  detect
+
+  reopen
+
+  alert
+
+  chunk'
+bip_39_word_new_line9: 'embrace
+
+  mesh
+
+  twist
+
+  night
+
+  detect
+
+  reopen
+
+  alert
+
+  chunk
+
+  simple'
+bip_39_word_space_0:
+- embrace
+- mesh
+- twist
+- night
+- detect
+- reopen
+- alert
+- chunk
+- simple
+- reopen
+- pistol
+- another
+bip_39_word_space_1: embrace
+bip_39_word_space_10: embrace mesh twist night detect reopen alert chunk simple reopen
+bip_39_word_space_11: embrace mesh twist night detect reopen alert chunk simple reopen
+  pistol
+bip_39_word_space_12: embrace mesh twist night detect reopen alert chunk simple reopen
+  pistol another
+bip_39_word_space_2: embrace mesh
+bip_39_word_space_3: embrace mesh twist
+bip_39_word_space_4: embrace mesh twist night
+bip_39_word_space_5: embrace mesh twist night detect
+bip_39_word_space_6: embrace mesh twist night detect reopen
+bip_39_word_space_7: embrace mesh twist night detect reopen alert
+bip_39_word_space_8: embrace mesh twist night detect reopen alert chunk
+bip_39_word_space_9: embrace mesh twist night detect reopen alert chunk simple
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shoulder wild
+  * bip 39 word 3: shoulder wild ladder
+  * bip 39 word: shoulder wild ladder session engage girl furnace time pupil farm seven aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shoulder |  
+| bip_39_word_new_br10 | shoulder<br>wild<br>ladder<br>session<br>engage<br>girl<br>furnace<br>time<br>pupil<br>farm |  
+| bip_39_word_new_br11 | shoulder<br>wild<br>ladder<br>session<br>engage<br>girl<br>furnace<br>time<br>pupil<br>farm<br>seven |  
+| bip_39_word_new_br12 | shoulder<br>wild<br>ladder<br>session<br>engage<br>girl<br>furnace<br>time<br>pupil<br>farm<br>seven<br>aim |  
+| bip_39_word_new_br2 | shoulder<br>wild |  
+| bip_39_word_new_br3 | shoulder<br>wild<br>ladder |  
+| bip_39_word_new_br4 | shoulder<br>wild<br>ladder<br>session |  
+| bip_39_word_new_br5 | shoulder<br>wild<br>ladder<br>session<br>engage |  
+| bip_39_word_new_br6 | shoulder<br>wild<br>ladder<br>session<br>engage<br>girl |  
+| bip_39_word_new_br7 | shoulder<br>wild<br>ladder<br>session<br>engage<br>girl<br>furnace |  
+| bip_39_word_new_br8 | shoulder<br>wild<br>ladder<br>session<br>engage<br>girl<br>furnace<br>time |  
+| bip_39_word_new_br9 | shoulder<br>wild<br>ladder<br>session<br>engage<br>girl<br>furnace<br>time<br>pupil |  
+| bip_39_word_new_line1 | shoulder |  
+| bip_39_word_new_line10 | shoulder
+wild
+ladder
+session
+engage
+girl
+furnace
+time
+pupil
+farm |  
+| bip_39_word_new_line11 | shoulder
+wild
+ladder
+session
+engage
+girl
+furnace
+time
+pupil
+farm
+seven |  
+| bip_39_word_new_line12 | shoulder
+wild
+ladder
+session
+engage
+girl
+furnace
+time
+pupil
+farm
+seven
+aim |  
+| bip_39_word_new_line2 | shoulder
+wild |  
+| bip_39_word_new_line3 | shoulder
+wild
+ladder |  
+| bip_39_word_new_line4 | shoulder
+wild
+ladder
+session |  
+| bip_39_word_new_line5 | shoulder
+wild
+ladder
+session
+engage |  
+| bip_39_word_new_line6 | shoulder
+wild
+ladder
+session
+engage
+girl |  
+| bip_39_word_new_line7 | shoulder
+wild
+ladder
+session
+engage
+girl
+furnace |  
+| bip_39_word_new_line8 | shoulder
+wild
+ladder
+session
+engage
+girl
+furnace
+time |  
+| bip_39_word_new_line9 | shoulder
+wild
+ladder
+session
+engage
+girl
+furnace
+time
+pupil |  
+| bip_39_word_space_0 | ['shoulder', 'wild', 'ladder', 'session', 'engage', 'girl', 'furnace', 'time', 'pupil', 'farm', 'seven', 'aim'] |  
+| bip_39_word_space_1 | shoulder |  
+| bip_39_word_space_10 | shoulder wild ladder session engage girl furnace time pupil farm |  
+| bip_39_word_space_11 | shoulder wild ladder session engage girl furnace time pupil farm seven |  
+| bip_39_word_space_12 | shoulder wild ladder session engage girl furnace time pupil farm seven aim |  
+| bip_39_word_space_2 | shoulder wild |  
+| bip_39_word_space_3 | shoulder wild ladder |  
+| bip_39_word_space_4 | shoulder wild ladder session |  
+| bip_39_word_space_5 | shoulder wild ladder session engage |  
+| bip_39_word_space_6 | shoulder wild ladder session engage girl |  
+| bip_39_word_space_7 | shoulder wild ladder session engage girl furnace |  
+| bip_39_word_space_8 | shoulder wild ladder session engage girl furnace time |  
+| bip_39_word_space_9 | shoulder wild ladder session engage girl furnace time pupil |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

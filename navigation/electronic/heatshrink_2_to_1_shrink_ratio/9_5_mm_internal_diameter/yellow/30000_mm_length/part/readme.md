@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: install limit
+  * bip 39 word 3: install limit inspire
+  * bip 39 word: install limit inspire explain lobster dinosaur document upset tiny hurry open arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | install |  
+| bip_39_word_new_br10 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry |  
+| bip_39_word_new_br11 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry<br>open |  
+| bip_39_word_new_br12 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny<br>hurry<br>open<br>arctic |  
+| bip_39_word_new_br2 | install<br>limit |  
+| bip_39_word_new_br3 | install<br>limit<br>inspire |  
+| bip_39_word_new_br4 | install<br>limit<br>inspire<br>explain |  
+| bip_39_word_new_br5 | install<br>limit<br>inspire<br>explain<br>lobster |  
+| bip_39_word_new_br6 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur |  
+| bip_39_word_new_br7 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document |  
+| bip_39_word_new_br8 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset |  
+| bip_39_word_new_br9 | install<br>limit<br>inspire<br>explain<br>lobster<br>dinosaur<br>document<br>upset<br>tiny |  
+| bip_39_word_new_line1 | install |  
+| bip_39_word_new_line10 | install
+limit
+inspire
+explain
+lobster
+dinosaur
+document
+upset
+tiny
+hurry |  
+| bip_39_word_new_line11 | install
+limit
+inspire
+explain
+lobster
+dinosaur
+document
+upset
+tiny
+hurry
+open |  
+| bip_39_word_new_line12 | install
+limit
+inspire
+explain
+lobster
+dinosaur
+document
+upset
+tiny
+hurry
+open
+arctic |  
+| bip_39_word_new_line2 | install
+limit |  
+| bip_39_word_new_line3 | install
+limit
+inspire |  
+| bip_39_word_new_line4 | install
+limit
+inspire
+explain |  
+| bip_39_word_new_line5 | install
+limit
+inspire
+explain
+lobster |  
+| bip_39_word_new_line6 | install
+limit
+inspire
+explain
+lobster
+dinosaur |  
+| bip_39_word_new_line7 | install
+limit
+inspire
+explain
+lobster
+dinosaur
+document |  
+| bip_39_word_new_line8 | install
+limit
+inspire
+explain
+lobster
+dinosaur
+document
+upset |  
+| bip_39_word_new_line9 | install
+limit
+inspire
+explain
+lobster
+dinosaur
+document
+upset
+tiny |  
+| bip_39_word_space_0 | ['install', 'limit', 'inspire', 'explain', 'lobster', 'dinosaur', 'document', 'upset', 'tiny', 'hurry', 'open', 'arctic'] |  
+| bip_39_word_space_1 | install |  
+| bip_39_word_space_10 | install limit inspire explain lobster dinosaur document upset tiny hurry |  
+| bip_39_word_space_11 | install limit inspire explain lobster dinosaur document upset tiny hurry open |  
+| bip_39_word_space_12 | install limit inspire explain lobster dinosaur document upset tiny hurry open arctic |  
+| bip_39_word_space_2 | install limit |  
+| bip_39_word_space_3 | install limit inspire |  
+| bip_39_word_space_4 | install limit inspire explain |  
+| bip_39_word_space_5 | install limit inspire explain lobster |  
+| bip_39_word_space_6 | install limit inspire explain lobster dinosaur |  
+| bip_39_word_space_7 | install limit inspire explain lobster dinosaur document |  
+| bip_39_word_space_8 | install limit inspire explain lobster dinosaur document upset |  
+| bip_39_word_space_9 | install limit inspire explain lobster dinosaur document upset tiny |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

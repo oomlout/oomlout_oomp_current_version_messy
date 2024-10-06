@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wet steak
+  * bip 39 word 3: wet steak physical
+  * bip 39 word: wet steak physical other canvas lemon hunt orchard chief muscle hair angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wet |  
+| bip_39_word_new_br10 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon<br>hunt<br>orchard<br>chief<br>muscle |  
+| bip_39_word_new_br11 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon<br>hunt<br>orchard<br>chief<br>muscle<br>hair |  
+| bip_39_word_new_br12 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon<br>hunt<br>orchard<br>chief<br>muscle<br>hair<br>angle |  
+| bip_39_word_new_br2 | wet<br>steak |  
+| bip_39_word_new_br3 | wet<br>steak<br>physical |  
+| bip_39_word_new_br4 | wet<br>steak<br>physical<br>other |  
+| bip_39_word_new_br5 | wet<br>steak<br>physical<br>other<br>canvas |  
+| bip_39_word_new_br6 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon |  
+| bip_39_word_new_br7 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon<br>hunt |  
+| bip_39_word_new_br8 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon<br>hunt<br>orchard |  
+| bip_39_word_new_br9 | wet<br>steak<br>physical<br>other<br>canvas<br>lemon<br>hunt<br>orchard<br>chief |  
+| bip_39_word_new_line1 | wet |  
+| bip_39_word_new_line10 | wet
+steak
+physical
+other
+canvas
+lemon
+hunt
+orchard
+chief
+muscle |  
+| bip_39_word_new_line11 | wet
+steak
+physical
+other
+canvas
+lemon
+hunt
+orchard
+chief
+muscle
+hair |  
+| bip_39_word_new_line12 | wet
+steak
+physical
+other
+canvas
+lemon
+hunt
+orchard
+chief
+muscle
+hair
+angle |  
+| bip_39_word_new_line2 | wet
+steak |  
+| bip_39_word_new_line3 | wet
+steak
+physical |  
+| bip_39_word_new_line4 | wet
+steak
+physical
+other |  
+| bip_39_word_new_line5 | wet
+steak
+physical
+other
+canvas |  
+| bip_39_word_new_line6 | wet
+steak
+physical
+other
+canvas
+lemon |  
+| bip_39_word_new_line7 | wet
+steak
+physical
+other
+canvas
+lemon
+hunt |  
+| bip_39_word_new_line8 | wet
+steak
+physical
+other
+canvas
+lemon
+hunt
+orchard |  
+| bip_39_word_new_line9 | wet
+steak
+physical
+other
+canvas
+lemon
+hunt
+orchard
+chief |  
+| bip_39_word_space_0 | ['wet', 'steak', 'physical', 'other', 'canvas', 'lemon', 'hunt', 'orchard', 'chief', 'muscle', 'hair', 'angle'] |  
+| bip_39_word_space_1 | wet |  
+| bip_39_word_space_10 | wet steak physical other canvas lemon hunt orchard chief muscle |  
+| bip_39_word_space_11 | wet steak physical other canvas lemon hunt orchard chief muscle hair |  
+| bip_39_word_space_12 | wet steak physical other canvas lemon hunt orchard chief muscle hair angle |  
+| bip_39_word_space_2 | wet steak |  
+| bip_39_word_space_3 | wet steak physical |  
+| bip_39_word_space_4 | wet steak physical other |  
+| bip_39_word_space_5 | wet steak physical other canvas |  
+| bip_39_word_space_6 | wet steak physical other canvas lemon |  
+| bip_39_word_space_7 | wet steak physical other canvas lemon hunt |  
+| bip_39_word_space_8 | wet steak physical other canvas lemon hunt orchard |  
+| bip_39_word_space_9 | wet steak physical other canvas lemon hunt orchard chief |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

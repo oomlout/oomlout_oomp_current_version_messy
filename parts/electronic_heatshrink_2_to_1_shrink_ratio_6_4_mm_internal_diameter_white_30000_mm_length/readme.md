@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shrimp vibrant
+  * bip 39 word 3: shrimp vibrant amazing
+  * bip 39 word: shrimp vibrant amazing puzzle wreck thumb urban affair gather ticket rival above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shrimp |  
+| bip_39_word_new_br10 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb<br>urban<br>affair<br>gather<br>ticket |  
+| bip_39_word_new_br11 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb<br>urban<br>affair<br>gather<br>ticket<br>rival |  
+| bip_39_word_new_br12 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb<br>urban<br>affair<br>gather<br>ticket<br>rival<br>above |  
+| bip_39_word_new_br2 | shrimp<br>vibrant |  
+| bip_39_word_new_br3 | shrimp<br>vibrant<br>amazing |  
+| bip_39_word_new_br4 | shrimp<br>vibrant<br>amazing<br>puzzle |  
+| bip_39_word_new_br5 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck |  
+| bip_39_word_new_br6 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb |  
+| bip_39_word_new_br7 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb<br>urban |  
+| bip_39_word_new_br8 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb<br>urban<br>affair |  
+| bip_39_word_new_br9 | shrimp<br>vibrant<br>amazing<br>puzzle<br>wreck<br>thumb<br>urban<br>affair<br>gather |  
+| bip_39_word_new_line1 | shrimp |  
+| bip_39_word_new_line10 | shrimp
+vibrant
+amazing
+puzzle
+wreck
+thumb
+urban
+affair
+gather
+ticket |  
+| bip_39_word_new_line11 | shrimp
+vibrant
+amazing
+puzzle
+wreck
+thumb
+urban
+affair
+gather
+ticket
+rival |  
+| bip_39_word_new_line12 | shrimp
+vibrant
+amazing
+puzzle
+wreck
+thumb
+urban
+affair
+gather
+ticket
+rival
+above |  
+| bip_39_word_new_line2 | shrimp
+vibrant |  
+| bip_39_word_new_line3 | shrimp
+vibrant
+amazing |  
+| bip_39_word_new_line4 | shrimp
+vibrant
+amazing
+puzzle |  
+| bip_39_word_new_line5 | shrimp
+vibrant
+amazing
+puzzle
+wreck |  
+| bip_39_word_new_line6 | shrimp
+vibrant
+amazing
+puzzle
+wreck
+thumb |  
+| bip_39_word_new_line7 | shrimp
+vibrant
+amazing
+puzzle
+wreck
+thumb
+urban |  
+| bip_39_word_new_line8 | shrimp
+vibrant
+amazing
+puzzle
+wreck
+thumb
+urban
+affair |  
+| bip_39_word_new_line9 | shrimp
+vibrant
+amazing
+puzzle
+wreck
+thumb
+urban
+affair
+gather |  
+| bip_39_word_space_0 | ['shrimp', 'vibrant', 'amazing', 'puzzle', 'wreck', 'thumb', 'urban', 'affair', 'gather', 'ticket', 'rival', 'above'] |  
+| bip_39_word_space_1 | shrimp |  
+| bip_39_word_space_10 | shrimp vibrant amazing puzzle wreck thumb urban affair gather ticket |  
+| bip_39_word_space_11 | shrimp vibrant amazing puzzle wreck thumb urban affair gather ticket rival |  
+| bip_39_word_space_12 | shrimp vibrant amazing puzzle wreck thumb urban affair gather ticket rival above |  
+| bip_39_word_space_2 | shrimp vibrant |  
+| bip_39_word_space_3 | shrimp vibrant amazing |  
+| bip_39_word_space_4 | shrimp vibrant amazing puzzle |  
+| bip_39_word_space_5 | shrimp vibrant amazing puzzle wreck |  
+| bip_39_word_space_6 | shrimp vibrant amazing puzzle wreck thumb |  
+| bip_39_word_space_7 | shrimp vibrant amazing puzzle wreck thumb urban |  
+| bip_39_word_space_8 | shrimp vibrant amazing puzzle wreck thumb urban affair |  
+| bip_39_word_space_9 | shrimp vibrant amazing puzzle wreck thumb urban affair gather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

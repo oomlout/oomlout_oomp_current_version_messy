@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: latin sight
+  * bip 39 word 3: latin sight real
+  * bip 39 word: latin sight real live cause system track step noise execute van april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | latin |  
+| bip_39_word_new_br10 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute |  
+| bip_39_word_new_br11 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute<br>van |  
+| bip_39_word_new_br12 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise<br>execute<br>van<br>april |  
+| bip_39_word_new_br2 | latin<br>sight |  
+| bip_39_word_new_br3 | latin<br>sight<br>real |  
+| bip_39_word_new_br4 | latin<br>sight<br>real<br>live |  
+| bip_39_word_new_br5 | latin<br>sight<br>real<br>live<br>cause |  
+| bip_39_word_new_br6 | latin<br>sight<br>real<br>live<br>cause<br>system |  
+| bip_39_word_new_br7 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track |  
+| bip_39_word_new_br8 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step |  
+| bip_39_word_new_br9 | latin<br>sight<br>real<br>live<br>cause<br>system<br>track<br>step<br>noise |  
+| bip_39_word_new_line1 | latin |  
+| bip_39_word_new_line10 | latin
+sight
+real
+live
+cause
+system
+track
+step
+noise
+execute |  
+| bip_39_word_new_line11 | latin
+sight
+real
+live
+cause
+system
+track
+step
+noise
+execute
+van |  
+| bip_39_word_new_line12 | latin
+sight
+real
+live
+cause
+system
+track
+step
+noise
+execute
+van
+april |  
+| bip_39_word_new_line2 | latin
+sight |  
+| bip_39_word_new_line3 | latin
+sight
+real |  
+| bip_39_word_new_line4 | latin
+sight
+real
+live |  
+| bip_39_word_new_line5 | latin
+sight
+real
+live
+cause |  
+| bip_39_word_new_line6 | latin
+sight
+real
+live
+cause
+system |  
+| bip_39_word_new_line7 | latin
+sight
+real
+live
+cause
+system
+track |  
+| bip_39_word_new_line8 | latin
+sight
+real
+live
+cause
+system
+track
+step |  
+| bip_39_word_new_line9 | latin
+sight
+real
+live
+cause
+system
+track
+step
+noise |  
+| bip_39_word_space_0 | ['latin', 'sight', 'real', 'live', 'cause', 'system', 'track', 'step', 'noise', 'execute', 'van', 'april'] |  
+| bip_39_word_space_1 | latin |  
+| bip_39_word_space_10 | latin sight real live cause system track step noise execute |  
+| bip_39_word_space_11 | latin sight real live cause system track step noise execute van |  
+| bip_39_word_space_12 | latin sight real live cause system track step noise execute van april |  
+| bip_39_word_space_2 | latin sight |  
+| bip_39_word_space_3 | latin sight real |  
+| bip_39_word_space_4 | latin sight real live |  
+| bip_39_word_space_5 | latin sight real live cause |  
+| bip_39_word_space_6 | latin sight real live cause system |  
+| bip_39_word_space_7 | latin sight real live cause system track |  
+| bip_39_word_space_8 | latin sight real live cause system track step |  
+| bip_39_word_space_9 | latin sight real live cause system track step noise |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

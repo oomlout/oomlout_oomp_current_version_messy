@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: renew describe
+  * bip 39 word 3: renew describe submit
+  * bip 39 word: renew describe submit notice inflict pull voice forward depend badge stage amount
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | renew |  
+| bip_39_word_new_br10 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge |  
+| bip_39_word_new_br11 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge<br>stage |  
+| bip_39_word_new_br12 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend<br>badge<br>stage<br>amount |  
+| bip_39_word_new_br2 | renew<br>describe |  
+| bip_39_word_new_br3 | renew<br>describe<br>submit |  
+| bip_39_word_new_br4 | renew<br>describe<br>submit<br>notice |  
+| bip_39_word_new_br5 | renew<br>describe<br>submit<br>notice<br>inflict |  
+| bip_39_word_new_br6 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull |  
+| bip_39_word_new_br7 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice |  
+| bip_39_word_new_br8 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward |  
+| bip_39_word_new_br9 | renew<br>describe<br>submit<br>notice<br>inflict<br>pull<br>voice<br>forward<br>depend |  
+| bip_39_word_new_line1 | renew |  
+| bip_39_word_new_line10 | renew
+describe
+submit
+notice
+inflict
+pull
+voice
+forward
+depend
+badge |  
+| bip_39_word_new_line11 | renew
+describe
+submit
+notice
+inflict
+pull
+voice
+forward
+depend
+badge
+stage |  
+| bip_39_word_new_line12 | renew
+describe
+submit
+notice
+inflict
+pull
+voice
+forward
+depend
+badge
+stage
+amount |  
+| bip_39_word_new_line2 | renew
+describe |  
+| bip_39_word_new_line3 | renew
+describe
+submit |  
+| bip_39_word_new_line4 | renew
+describe
+submit
+notice |  
+| bip_39_word_new_line5 | renew
+describe
+submit
+notice
+inflict |  
+| bip_39_word_new_line6 | renew
+describe
+submit
+notice
+inflict
+pull |  
+| bip_39_word_new_line7 | renew
+describe
+submit
+notice
+inflict
+pull
+voice |  
+| bip_39_word_new_line8 | renew
+describe
+submit
+notice
+inflict
+pull
+voice
+forward |  
+| bip_39_word_new_line9 | renew
+describe
+submit
+notice
+inflict
+pull
+voice
+forward
+depend |  
+| bip_39_word_space_0 | ['renew', 'describe', 'submit', 'notice', 'inflict', 'pull', 'voice', 'forward', 'depend', 'badge', 'stage', 'amount'] |  
+| bip_39_word_space_1 | renew |  
+| bip_39_word_space_10 | renew describe submit notice inflict pull voice forward depend badge |  
+| bip_39_word_space_11 | renew describe submit notice inflict pull voice forward depend badge stage |  
+| bip_39_word_space_12 | renew describe submit notice inflict pull voice forward depend badge stage amount |  
+| bip_39_word_space_2 | renew describe |  
+| bip_39_word_space_3 | renew describe submit |  
+| bip_39_word_space_4 | renew describe submit notice |  
+| bip_39_word_space_5 | renew describe submit notice inflict |  
+| bip_39_word_space_6 | renew describe submit notice inflict pull |  
+| bip_39_word_space_7 | renew describe submit notice inflict pull voice |  
+| bip_39_word_space_8 | renew describe submit notice inflict pull voice forward |  
+| bip_39_word_space_9 | renew describe submit notice inflict pull voice forward depend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

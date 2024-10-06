@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: math fat
+  * bip 39 word 3: math fat maid
+  * bip 39 word: math fat maid long feature citizen dream shoe camera project raccoon alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | math |  
+| bip_39_word_new_br10 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project |  
+| bip_39_word_new_br11 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project<br>raccoon |  
+| bip_39_word_new_br12 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera<br>project<br>raccoon<br>alpha |  
+| bip_39_word_new_br2 | math<br>fat |  
+| bip_39_word_new_br3 | math<br>fat<br>maid |  
+| bip_39_word_new_br4 | math<br>fat<br>maid<br>long |  
+| bip_39_word_new_br5 | math<br>fat<br>maid<br>long<br>feature |  
+| bip_39_word_new_br6 | math<br>fat<br>maid<br>long<br>feature<br>citizen |  
+| bip_39_word_new_br7 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream |  
+| bip_39_word_new_br8 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe |  
+| bip_39_word_new_br9 | math<br>fat<br>maid<br>long<br>feature<br>citizen<br>dream<br>shoe<br>camera |  
+| bip_39_word_new_line1 | math |  
+| bip_39_word_new_line10 | math
+fat
+maid
+long
+feature
+citizen
+dream
+shoe
+camera
+project |  
+| bip_39_word_new_line11 | math
+fat
+maid
+long
+feature
+citizen
+dream
+shoe
+camera
+project
+raccoon |  
+| bip_39_word_new_line12 | math
+fat
+maid
+long
+feature
+citizen
+dream
+shoe
+camera
+project
+raccoon
+alpha |  
+| bip_39_word_new_line2 | math
+fat |  
+| bip_39_word_new_line3 | math
+fat
+maid |  
+| bip_39_word_new_line4 | math
+fat
+maid
+long |  
+| bip_39_word_new_line5 | math
+fat
+maid
+long
+feature |  
+| bip_39_word_new_line6 | math
+fat
+maid
+long
+feature
+citizen |  
+| bip_39_word_new_line7 | math
+fat
+maid
+long
+feature
+citizen
+dream |  
+| bip_39_word_new_line8 | math
+fat
+maid
+long
+feature
+citizen
+dream
+shoe |  
+| bip_39_word_new_line9 | math
+fat
+maid
+long
+feature
+citizen
+dream
+shoe
+camera |  
+| bip_39_word_space_0 | ['math', 'fat', 'maid', 'long', 'feature', 'citizen', 'dream', 'shoe', 'camera', 'project', 'raccoon', 'alpha'] |  
+| bip_39_word_space_1 | math |  
+| bip_39_word_space_10 | math fat maid long feature citizen dream shoe camera project |  
+| bip_39_word_space_11 | math fat maid long feature citizen dream shoe camera project raccoon |  
+| bip_39_word_space_12 | math fat maid long feature citizen dream shoe camera project raccoon alpha |  
+| bip_39_word_space_2 | math fat |  
+| bip_39_word_space_3 | math fat maid |  
+| bip_39_word_space_4 | math fat maid long |  
+| bip_39_word_space_5 | math fat maid long feature |  
+| bip_39_word_space_6 | math fat maid long feature citizen |  
+| bip_39_word_space_7 | math fat maid long feature citizen dream |  
+| bip_39_word_space_8 | math fat maid long feature citizen dream shoe |  
+| bip_39_word_space_9 | math fat maid long feature citizen dream shoe camera |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

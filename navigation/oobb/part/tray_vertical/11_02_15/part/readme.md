@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pride attend
+  * bip 39 word 3: pride attend injury
+  * bip 39 word: pride attend injury chest setup chuckle balance margin seven weasel melt attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pride |  
+| bip_39_word_new_br10 | pride<br>attend<br>injury<br>chest<br>setup<br>chuckle<br>balance<br>margin<br>seven<br>weasel |  
+| bip_39_word_new_br11 | pride<br>attend<br>injury<br>chest<br>setup<br>chuckle<br>balance<br>margin<br>seven<br>weasel<br>melt |  
+| bip_39_word_new_br12 | pride<br>attend<br>injury<br>chest<br>setup<br>chuckle<br>balance<br>margin<br>seven<br>weasel<br>melt<br>attract |  
+| bip_39_word_new_br2 | pride<br>attend |  
+| bip_39_word_new_br3 | pride<br>attend<br>injury |  
+| bip_39_word_new_br4 | pride<br>attend<br>injury<br>chest |  
+| bip_39_word_new_br5 | pride<br>attend<br>injury<br>chest<br>setup |  
+| bip_39_word_new_br6 | pride<br>attend<br>injury<br>chest<br>setup<br>chuckle |  
+| bip_39_word_new_br7 | pride<br>attend<br>injury<br>chest<br>setup<br>chuckle<br>balance |  
+| bip_39_word_new_br8 | pride<br>attend<br>injury<br>chest<br>setup<br>chuckle<br>balance<br>margin |  
+| bip_39_word_new_br9 | pride<br>attend<br>injury<br>chest<br>setup<br>chuckle<br>balance<br>margin<br>seven |  
+| bip_39_word_new_line1 | pride |  
+| bip_39_word_new_line10 | pride
+attend
+injury
+chest
+setup
+chuckle
+balance
+margin
+seven
+weasel |  
+| bip_39_word_new_line11 | pride
+attend
+injury
+chest
+setup
+chuckle
+balance
+margin
+seven
+weasel
+melt |  
+| bip_39_word_new_line12 | pride
+attend
+injury
+chest
+setup
+chuckle
+balance
+margin
+seven
+weasel
+melt
+attract |  
+| bip_39_word_new_line2 | pride
+attend |  
+| bip_39_word_new_line3 | pride
+attend
+injury |  
+| bip_39_word_new_line4 | pride
+attend
+injury
+chest |  
+| bip_39_word_new_line5 | pride
+attend
+injury
+chest
+setup |  
+| bip_39_word_new_line6 | pride
+attend
+injury
+chest
+setup
+chuckle |  
+| bip_39_word_new_line7 | pride
+attend
+injury
+chest
+setup
+chuckle
+balance |  
+| bip_39_word_new_line8 | pride
+attend
+injury
+chest
+setup
+chuckle
+balance
+margin |  
+| bip_39_word_new_line9 | pride
+attend
+injury
+chest
+setup
+chuckle
+balance
+margin
+seven |  
+| bip_39_word_space_0 | ['pride', 'attend', 'injury', 'chest', 'setup', 'chuckle', 'balance', 'margin', 'seven', 'weasel', 'melt', 'attract'] |  
+| bip_39_word_space_1 | pride |  
+| bip_39_word_space_10 | pride attend injury chest setup chuckle balance margin seven weasel |  
+| bip_39_word_space_11 | pride attend injury chest setup chuckle balance margin seven weasel melt |  
+| bip_39_word_space_12 | pride attend injury chest setup chuckle balance margin seven weasel melt attract |  
+| bip_39_word_space_2 | pride attend |  
+| bip_39_word_space_3 | pride attend injury |  
+| bip_39_word_space_4 | pride attend injury chest |  
+| bip_39_word_space_5 | pride attend injury chest setup |  
+| bip_39_word_space_6 | pride attend injury chest setup chuckle |  
+| bip_39_word_space_7 | pride attend injury chest setup chuckle balance |  
+| bip_39_word_space_8 | pride attend injury chest setup chuckle balance margin |  
+| bip_39_word_space_9 | pride attend injury chest setup chuckle balance margin seven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

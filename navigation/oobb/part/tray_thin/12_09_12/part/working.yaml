@@ -1,3 +1,186 @@
+bip_39_word_new_br1: episode
+bip_39_word_new_br10: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false
+bip_39_word_new_br11: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false<br>camp
+bip_39_word_new_br12: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect<br>false<br>camp<br>athlete
+bip_39_word_new_br2: episode<br>dinosaur
+bip_39_word_new_br3: episode<br>dinosaur<br>hunt
+bip_39_word_new_br4: episode<br>dinosaur<br>hunt<br>sugar
+bip_39_word_new_br5: episode<br>dinosaur<br>hunt<br>sugar<br>fatal
+bip_39_word_new_br6: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens
+bip_39_word_new_br7: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile
+bip_39_word_new_br8: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel
+bip_39_word_new_br9: episode<br>dinosaur<br>hunt<br>sugar<br>fatal<br>lens<br>smile<br>feel<br>collect
+bip_39_word_new_line1: episode
+bip_39_word_new_line10: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar
+
+  fatal
+
+  lens
+
+  smile
+
+  feel
+
+  collect
+
+  false'
+bip_39_word_new_line11: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar
+
+  fatal
+
+  lens
+
+  smile
+
+  feel
+
+  collect
+
+  false
+
+  camp'
+bip_39_word_new_line12: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar
+
+  fatal
+
+  lens
+
+  smile
+
+  feel
+
+  collect
+
+  false
+
+  camp
+
+  athlete'
+bip_39_word_new_line2: 'episode
+
+  dinosaur'
+bip_39_word_new_line3: 'episode
+
+  dinosaur
+
+  hunt'
+bip_39_word_new_line4: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar'
+bip_39_word_new_line5: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar
+
+  fatal'
+bip_39_word_new_line6: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar
+
+  fatal
+
+  lens'
+bip_39_word_new_line7: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar
+
+  fatal
+
+  lens
+
+  smile'
+bip_39_word_new_line8: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar
+
+  fatal
+
+  lens
+
+  smile
+
+  feel'
+bip_39_word_new_line9: 'episode
+
+  dinosaur
+
+  hunt
+
+  sugar
+
+  fatal
+
+  lens
+
+  smile
+
+  feel
+
+  collect'
+bip_39_word_space_0:
+- episode
+- dinosaur
+- hunt
+- sugar
+- fatal
+- lens
+- smile
+- feel
+- collect
+- 'false'
+- camp
+- athlete
+bip_39_word_space_1: episode
+bip_39_word_space_10: episode dinosaur hunt sugar fatal lens smile feel collect false
+bip_39_word_space_11: episode dinosaur hunt sugar fatal lens smile feel collect false
+  camp
+bip_39_word_space_12: episode dinosaur hunt sugar fatal lens smile feel collect false
+  camp athlete
+bip_39_word_space_2: episode dinosaur
+bip_39_word_space_3: episode dinosaur hunt
+bip_39_word_space_4: episode dinosaur hunt sugar
+bip_39_word_space_5: episode dinosaur hunt sugar fatal
+bip_39_word_space_6: episode dinosaur hunt sugar fatal lens
+bip_39_word_space_7: episode dinosaur hunt sugar fatal lens smile
+bip_39_word_space_8: episode dinosaur hunt sugar fatal lens smile feel
+bip_39_word_space_9: episode dinosaur hunt sugar fatal lens smile feel collect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

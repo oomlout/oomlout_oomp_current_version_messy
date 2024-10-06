@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sample pioneer
+  * bip 39 word 3: sample pioneer march
+  * bip 39 word: sample pioneer march morning insane convince auto flash grab oxygen snake author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sample |  
+| bip_39_word_new_br10 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince<br>auto<br>flash<br>grab<br>oxygen |  
+| bip_39_word_new_br11 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince<br>auto<br>flash<br>grab<br>oxygen<br>snake |  
+| bip_39_word_new_br12 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince<br>auto<br>flash<br>grab<br>oxygen<br>snake<br>author |  
+| bip_39_word_new_br2 | sample<br>pioneer |  
+| bip_39_word_new_br3 | sample<br>pioneer<br>march |  
+| bip_39_word_new_br4 | sample<br>pioneer<br>march<br>morning |  
+| bip_39_word_new_br5 | sample<br>pioneer<br>march<br>morning<br>insane |  
+| bip_39_word_new_br6 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince |  
+| bip_39_word_new_br7 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince<br>auto |  
+| bip_39_word_new_br8 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince<br>auto<br>flash |  
+| bip_39_word_new_br9 | sample<br>pioneer<br>march<br>morning<br>insane<br>convince<br>auto<br>flash<br>grab |  
+| bip_39_word_new_line1 | sample |  
+| bip_39_word_new_line10 | sample
+pioneer
+march
+morning
+insane
+convince
+auto
+flash
+grab
+oxygen |  
+| bip_39_word_new_line11 | sample
+pioneer
+march
+morning
+insane
+convince
+auto
+flash
+grab
+oxygen
+snake |  
+| bip_39_word_new_line12 | sample
+pioneer
+march
+morning
+insane
+convince
+auto
+flash
+grab
+oxygen
+snake
+author |  
+| bip_39_word_new_line2 | sample
+pioneer |  
+| bip_39_word_new_line3 | sample
+pioneer
+march |  
+| bip_39_word_new_line4 | sample
+pioneer
+march
+morning |  
+| bip_39_word_new_line5 | sample
+pioneer
+march
+morning
+insane |  
+| bip_39_word_new_line6 | sample
+pioneer
+march
+morning
+insane
+convince |  
+| bip_39_word_new_line7 | sample
+pioneer
+march
+morning
+insane
+convince
+auto |  
+| bip_39_word_new_line8 | sample
+pioneer
+march
+morning
+insane
+convince
+auto
+flash |  
+| bip_39_word_new_line9 | sample
+pioneer
+march
+morning
+insane
+convince
+auto
+flash
+grab |  
+| bip_39_word_space_0 | ['sample', 'pioneer', 'march', 'morning', 'insane', 'convince', 'auto', 'flash', 'grab', 'oxygen', 'snake', 'author'] |  
+| bip_39_word_space_1 | sample |  
+| bip_39_word_space_10 | sample pioneer march morning insane convince auto flash grab oxygen |  
+| bip_39_word_space_11 | sample pioneer march morning insane convince auto flash grab oxygen snake |  
+| bip_39_word_space_12 | sample pioneer march morning insane convince auto flash grab oxygen snake author |  
+| bip_39_word_space_2 | sample pioneer |  
+| bip_39_word_space_3 | sample pioneer march |  
+| bip_39_word_space_4 | sample pioneer march morning |  
+| bip_39_word_space_5 | sample pioneer march morning insane |  
+| bip_39_word_space_6 | sample pioneer march morning insane convince |  
+| bip_39_word_space_7 | sample pioneer march morning insane convince auto |  
+| bip_39_word_space_8 | sample pioneer march morning insane convince auto flash |  
+| bip_39_word_space_9 | sample pioneer march morning insane convince auto flash grab |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

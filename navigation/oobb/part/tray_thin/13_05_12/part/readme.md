@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: noise pioneer
+  * bip 39 word 3: noise pioneer achieve
+  * bip 39 word: noise pioneer achieve lyrics cereal coyote dawn camera grain language that alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | noise |  
+| bip_39_word_new_br10 | noise<br>pioneer<br>achieve<br>lyrics<br>cereal<br>coyote<br>dawn<br>camera<br>grain<br>language |  
+| bip_39_word_new_br11 | noise<br>pioneer<br>achieve<br>lyrics<br>cereal<br>coyote<br>dawn<br>camera<br>grain<br>language<br>that |  
+| bip_39_word_new_br12 | noise<br>pioneer<br>achieve<br>lyrics<br>cereal<br>coyote<br>dawn<br>camera<br>grain<br>language<br>that<br>alley |  
+| bip_39_word_new_br2 | noise<br>pioneer |  
+| bip_39_word_new_br3 | noise<br>pioneer<br>achieve |  
+| bip_39_word_new_br4 | noise<br>pioneer<br>achieve<br>lyrics |  
+| bip_39_word_new_br5 | noise<br>pioneer<br>achieve<br>lyrics<br>cereal |  
+| bip_39_word_new_br6 | noise<br>pioneer<br>achieve<br>lyrics<br>cereal<br>coyote |  
+| bip_39_word_new_br7 | noise<br>pioneer<br>achieve<br>lyrics<br>cereal<br>coyote<br>dawn |  
+| bip_39_word_new_br8 | noise<br>pioneer<br>achieve<br>lyrics<br>cereal<br>coyote<br>dawn<br>camera |  
+| bip_39_word_new_br9 | noise<br>pioneer<br>achieve<br>lyrics<br>cereal<br>coyote<br>dawn<br>camera<br>grain |  
+| bip_39_word_new_line1 | noise |  
+| bip_39_word_new_line10 | noise
+pioneer
+achieve
+lyrics
+cereal
+coyote
+dawn
+camera
+grain
+language |  
+| bip_39_word_new_line11 | noise
+pioneer
+achieve
+lyrics
+cereal
+coyote
+dawn
+camera
+grain
+language
+that |  
+| bip_39_word_new_line12 | noise
+pioneer
+achieve
+lyrics
+cereal
+coyote
+dawn
+camera
+grain
+language
+that
+alley |  
+| bip_39_word_new_line2 | noise
+pioneer |  
+| bip_39_word_new_line3 | noise
+pioneer
+achieve |  
+| bip_39_word_new_line4 | noise
+pioneer
+achieve
+lyrics |  
+| bip_39_word_new_line5 | noise
+pioneer
+achieve
+lyrics
+cereal |  
+| bip_39_word_new_line6 | noise
+pioneer
+achieve
+lyrics
+cereal
+coyote |  
+| bip_39_word_new_line7 | noise
+pioneer
+achieve
+lyrics
+cereal
+coyote
+dawn |  
+| bip_39_word_new_line8 | noise
+pioneer
+achieve
+lyrics
+cereal
+coyote
+dawn
+camera |  
+| bip_39_word_new_line9 | noise
+pioneer
+achieve
+lyrics
+cereal
+coyote
+dawn
+camera
+grain |  
+| bip_39_word_space_0 | ['noise', 'pioneer', 'achieve', 'lyrics', 'cereal', 'coyote', 'dawn', 'camera', 'grain', 'language', 'that', 'alley'] |  
+| bip_39_word_space_1 | noise |  
+| bip_39_word_space_10 | noise pioneer achieve lyrics cereal coyote dawn camera grain language |  
+| bip_39_word_space_11 | noise pioneer achieve lyrics cereal coyote dawn camera grain language that |  
+| bip_39_word_space_12 | noise pioneer achieve lyrics cereal coyote dawn camera grain language that alley |  
+| bip_39_word_space_2 | noise pioneer |  
+| bip_39_word_space_3 | noise pioneer achieve |  
+| bip_39_word_space_4 | noise pioneer achieve lyrics |  
+| bip_39_word_space_5 | noise pioneer achieve lyrics cereal |  
+| bip_39_word_space_6 | noise pioneer achieve lyrics cereal coyote |  
+| bip_39_word_space_7 | noise pioneer achieve lyrics cereal coyote dawn |  
+| bip_39_word_space_8 | noise pioneer achieve lyrics cereal coyote dawn camera |  
+| bip_39_word_space_9 | noise pioneer achieve lyrics cereal coyote dawn camera grain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

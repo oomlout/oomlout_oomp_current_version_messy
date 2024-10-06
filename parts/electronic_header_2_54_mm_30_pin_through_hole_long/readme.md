@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: snow meat
+  * bip 39 word 3: snow meat swim
+  * bip 39 word: snow meat swim bracket mosquito rule siren lunch stone train crawl april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | snow |  
+| bip_39_word_new_br10 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule<br>siren<br>lunch<br>stone<br>train |  
+| bip_39_word_new_br11 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule<br>siren<br>lunch<br>stone<br>train<br>crawl |  
+| bip_39_word_new_br12 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule<br>siren<br>lunch<br>stone<br>train<br>crawl<br>april |  
+| bip_39_word_new_br2 | snow<br>meat |  
+| bip_39_word_new_br3 | snow<br>meat<br>swim |  
+| bip_39_word_new_br4 | snow<br>meat<br>swim<br>bracket |  
+| bip_39_word_new_br5 | snow<br>meat<br>swim<br>bracket<br>mosquito |  
+| bip_39_word_new_br6 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule |  
+| bip_39_word_new_br7 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule<br>siren |  
+| bip_39_word_new_br8 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule<br>siren<br>lunch |  
+| bip_39_word_new_br9 | snow<br>meat<br>swim<br>bracket<br>mosquito<br>rule<br>siren<br>lunch<br>stone |  
+| bip_39_word_new_line1 | snow |  
+| bip_39_word_new_line10 | snow
+meat
+swim
+bracket
+mosquito
+rule
+siren
+lunch
+stone
+train |  
+| bip_39_word_new_line11 | snow
+meat
+swim
+bracket
+mosquito
+rule
+siren
+lunch
+stone
+train
+crawl |  
+| bip_39_word_new_line12 | snow
+meat
+swim
+bracket
+mosquito
+rule
+siren
+lunch
+stone
+train
+crawl
+april |  
+| bip_39_word_new_line2 | snow
+meat |  
+| bip_39_word_new_line3 | snow
+meat
+swim |  
+| bip_39_word_new_line4 | snow
+meat
+swim
+bracket |  
+| bip_39_word_new_line5 | snow
+meat
+swim
+bracket
+mosquito |  
+| bip_39_word_new_line6 | snow
+meat
+swim
+bracket
+mosquito
+rule |  
+| bip_39_word_new_line7 | snow
+meat
+swim
+bracket
+mosquito
+rule
+siren |  
+| bip_39_word_new_line8 | snow
+meat
+swim
+bracket
+mosquito
+rule
+siren
+lunch |  
+| bip_39_word_new_line9 | snow
+meat
+swim
+bracket
+mosquito
+rule
+siren
+lunch
+stone |  
+| bip_39_word_space_0 | ['snow', 'meat', 'swim', 'bracket', 'mosquito', 'rule', 'siren', 'lunch', 'stone', 'train', 'crawl', 'april'] |  
+| bip_39_word_space_1 | snow |  
+| bip_39_word_space_10 | snow meat swim bracket mosquito rule siren lunch stone train |  
+| bip_39_word_space_11 | snow meat swim bracket mosquito rule siren lunch stone train crawl |  
+| bip_39_word_space_12 | snow meat swim bracket mosquito rule siren lunch stone train crawl april |  
+| bip_39_word_space_2 | snow meat |  
+| bip_39_word_space_3 | snow meat swim |  
+| bip_39_word_space_4 | snow meat swim bracket |  
+| bip_39_word_space_5 | snow meat swim bracket mosquito |  
+| bip_39_word_space_6 | snow meat swim bracket mosquito rule |  
+| bip_39_word_space_7 | snow meat swim bracket mosquito rule siren |  
+| bip_39_word_space_8 | snow meat swim bracket mosquito rule siren lunch |  
+| bip_39_word_space_9 | snow meat swim bracket mosquito rule siren lunch stone |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

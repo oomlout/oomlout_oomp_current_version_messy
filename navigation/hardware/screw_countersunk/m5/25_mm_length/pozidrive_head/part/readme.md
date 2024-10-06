@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: measure merge
+  * bip 39 word 3: measure merge swap
+  * bip 39 word: measure merge swap snap number culture shine ozone armor limb limb above
 
 ### other_codes
 * short_code: cs5m25pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | measure |  
+| bip_39_word_new_br10 | measure<br>merge<br>swap<br>snap<br>number<br>culture<br>shine<br>ozone<br>armor<br>limb |  
+| bip_39_word_new_br11 | measure<br>merge<br>swap<br>snap<br>number<br>culture<br>shine<br>ozone<br>armor<br>limb<br>limb |  
+| bip_39_word_new_br12 | measure<br>merge<br>swap<br>snap<br>number<br>culture<br>shine<br>ozone<br>armor<br>limb<br>limb<br>above |  
+| bip_39_word_new_br2 | measure<br>merge |  
+| bip_39_word_new_br3 | measure<br>merge<br>swap |  
+| bip_39_word_new_br4 | measure<br>merge<br>swap<br>snap |  
+| bip_39_word_new_br5 | measure<br>merge<br>swap<br>snap<br>number |  
+| bip_39_word_new_br6 | measure<br>merge<br>swap<br>snap<br>number<br>culture |  
+| bip_39_word_new_br7 | measure<br>merge<br>swap<br>snap<br>number<br>culture<br>shine |  
+| bip_39_word_new_br8 | measure<br>merge<br>swap<br>snap<br>number<br>culture<br>shine<br>ozone |  
+| bip_39_word_new_br9 | measure<br>merge<br>swap<br>snap<br>number<br>culture<br>shine<br>ozone<br>armor |  
+| bip_39_word_new_line1 | measure |  
+| bip_39_word_new_line10 | measure
+merge
+swap
+snap
+number
+culture
+shine
+ozone
+armor
+limb |  
+| bip_39_word_new_line11 | measure
+merge
+swap
+snap
+number
+culture
+shine
+ozone
+armor
+limb
+limb |  
+| bip_39_word_new_line12 | measure
+merge
+swap
+snap
+number
+culture
+shine
+ozone
+armor
+limb
+limb
+above |  
+| bip_39_word_new_line2 | measure
+merge |  
+| bip_39_word_new_line3 | measure
+merge
+swap |  
+| bip_39_word_new_line4 | measure
+merge
+swap
+snap |  
+| bip_39_word_new_line5 | measure
+merge
+swap
+snap
+number |  
+| bip_39_word_new_line6 | measure
+merge
+swap
+snap
+number
+culture |  
+| bip_39_word_new_line7 | measure
+merge
+swap
+snap
+number
+culture
+shine |  
+| bip_39_word_new_line8 | measure
+merge
+swap
+snap
+number
+culture
+shine
+ozone |  
+| bip_39_word_new_line9 | measure
+merge
+swap
+snap
+number
+culture
+shine
+ozone
+armor |  
+| bip_39_word_space_0 | ['measure', 'merge', 'swap', 'snap', 'number', 'culture', 'shine', 'ozone', 'armor', 'limb', 'limb', 'above'] |  
+| bip_39_word_space_1 | measure |  
+| bip_39_word_space_10 | measure merge swap snap number culture shine ozone armor limb |  
+| bip_39_word_space_11 | measure merge swap snap number culture shine ozone armor limb limb |  
+| bip_39_word_space_12 | measure merge swap snap number culture shine ozone armor limb limb above |  
+| bip_39_word_space_2 | measure merge |  
+| bip_39_word_space_3 | measure merge swap |  
+| bip_39_word_space_4 | measure merge swap snap |  
+| bip_39_word_space_5 | measure merge swap snap number |  
+| bip_39_word_space_6 | measure merge swap snap number culture |  
+| bip_39_word_space_7 | measure merge swap snap number culture shine |  
+| bip_39_word_space_8 | measure merge swap snap number culture shine ozone |  
+| bip_39_word_space_9 | measure merge swap snap number culture shine ozone armor |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

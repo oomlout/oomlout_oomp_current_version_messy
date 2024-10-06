@@ -1,3 +1,187 @@
+bip_39_word_new_br1: behave
+bip_39_word_new_br10: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life<br>item
+bip_39_word_new_br11: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life<br>item<br>base
+bip_39_word_new_br12: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life<br>item<br>base<br>artist
+bip_39_word_new_br2: behave<br>comic
+bip_39_word_new_br3: behave<br>comic<br>client
+bip_39_word_new_br4: behave<br>comic<br>client<br>matter
+bip_39_word_new_br5: behave<br>comic<br>client<br>matter<br>laptop
+bip_39_word_new_br6: behave<br>comic<br>client<br>matter<br>laptop<br>already
+bip_39_word_new_br7: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit
+bip_39_word_new_br8: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility
+bip_39_word_new_br9: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life
+bip_39_word_new_line1: behave
+bip_39_word_new_line10: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility
+
+  life
+
+  item'
+bip_39_word_new_line11: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility
+
+  life
+
+  item
+
+  base'
+bip_39_word_new_line12: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility
+
+  life
+
+  item
+
+  base
+
+  artist'
+bip_39_word_new_line2: 'behave
+
+  comic'
+bip_39_word_new_line3: 'behave
+
+  comic
+
+  client'
+bip_39_word_new_line4: 'behave
+
+  comic
+
+  client
+
+  matter'
+bip_39_word_new_line5: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop'
+bip_39_word_new_line6: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already'
+bip_39_word_new_line7: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit'
+bip_39_word_new_line8: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility'
+bip_39_word_new_line9: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility
+
+  life'
+bip_39_word_space_0:
+- behave
+- comic
+- client
+- matter
+- laptop
+- already
+- lawsuit
+- utility
+- life
+- item
+- base
+- artist
+bip_39_word_space_1: behave
+bip_39_word_space_10: behave comic client matter laptop already lawsuit utility life
+  item
+bip_39_word_space_11: behave comic client matter laptop already lawsuit utility life
+  item base
+bip_39_word_space_12: behave comic client matter laptop already lawsuit utility life
+  item base artist
+bip_39_word_space_2: behave comic
+bip_39_word_space_3: behave comic client
+bip_39_word_space_4: behave comic client matter
+bip_39_word_space_5: behave comic client matter laptop
+bip_39_word_space_6: behave comic client matter laptop already
+bip_39_word_space_7: behave comic client matter laptop already lawsuit
+bip_39_word_space_8: behave comic client matter laptop already lawsuit utility
+bip_39_word_space_9: behave comic client matter laptop already lawsuit utility life
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

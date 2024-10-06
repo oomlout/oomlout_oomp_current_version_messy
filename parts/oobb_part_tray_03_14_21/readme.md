@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: year worry
+  * bip 39 word 3: year worry grace
+  * bip 39 word: year worry grace ordinary surge movie tail this uphold outer possible alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | year |  
+| bip_39_word_new_br10 | year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer |  
+| bip_39_word_new_br11 | year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer<br>possible |  
+| bip_39_word_new_br12 | year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold<br>outer<br>possible<br>alpha |  
+| bip_39_word_new_br2 | year<br>worry |  
+| bip_39_word_new_br3 | year<br>worry<br>grace |  
+| bip_39_word_new_br4 | year<br>worry<br>grace<br>ordinary |  
+| bip_39_word_new_br5 | year<br>worry<br>grace<br>ordinary<br>surge |  
+| bip_39_word_new_br6 | year<br>worry<br>grace<br>ordinary<br>surge<br>movie |  
+| bip_39_word_new_br7 | year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail |  
+| bip_39_word_new_br8 | year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this |  
+| bip_39_word_new_br9 | year<br>worry<br>grace<br>ordinary<br>surge<br>movie<br>tail<br>this<br>uphold |  
+| bip_39_word_new_line1 | year |  
+| bip_39_word_new_line10 | year
+worry
+grace
+ordinary
+surge
+movie
+tail
+this
+uphold
+outer |  
+| bip_39_word_new_line11 | year
+worry
+grace
+ordinary
+surge
+movie
+tail
+this
+uphold
+outer
+possible |  
+| bip_39_word_new_line12 | year
+worry
+grace
+ordinary
+surge
+movie
+tail
+this
+uphold
+outer
+possible
+alpha |  
+| bip_39_word_new_line2 | year
+worry |  
+| bip_39_word_new_line3 | year
+worry
+grace |  
+| bip_39_word_new_line4 | year
+worry
+grace
+ordinary |  
+| bip_39_word_new_line5 | year
+worry
+grace
+ordinary
+surge |  
+| bip_39_word_new_line6 | year
+worry
+grace
+ordinary
+surge
+movie |  
+| bip_39_word_new_line7 | year
+worry
+grace
+ordinary
+surge
+movie
+tail |  
+| bip_39_word_new_line8 | year
+worry
+grace
+ordinary
+surge
+movie
+tail
+this |  
+| bip_39_word_new_line9 | year
+worry
+grace
+ordinary
+surge
+movie
+tail
+this
+uphold |  
+| bip_39_word_space_0 | ['year', 'worry', 'grace', 'ordinary', 'surge', 'movie', 'tail', 'this', 'uphold', 'outer', 'possible', 'alpha'] |  
+| bip_39_word_space_1 | year |  
+| bip_39_word_space_10 | year worry grace ordinary surge movie tail this uphold outer |  
+| bip_39_word_space_11 | year worry grace ordinary surge movie tail this uphold outer possible |  
+| bip_39_word_space_12 | year worry grace ordinary surge movie tail this uphold outer possible alpha |  
+| bip_39_word_space_2 | year worry |  
+| bip_39_word_space_3 | year worry grace |  
+| bip_39_word_space_4 | year worry grace ordinary |  
+| bip_39_word_space_5 | year worry grace ordinary surge |  
+| bip_39_word_space_6 | year worry grace ordinary surge movie |  
+| bip_39_word_space_7 | year worry grace ordinary surge movie tail |  
+| bip_39_word_space_8 | year worry grace ordinary surge movie tail this |  
+| bip_39_word_space_9 | year worry grace ordinary surge movie tail this uphold |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

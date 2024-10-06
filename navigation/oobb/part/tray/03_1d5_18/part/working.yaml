@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sunny
+bip_39_word_new_br10: sunny<br>defy<br>pipe<br>void<br>rescue<br>abandon<br>love<br>alter<br>sausage<br>club
+bip_39_word_new_br11: sunny<br>defy<br>pipe<br>void<br>rescue<br>abandon<br>love<br>alter<br>sausage<br>club<br>share
+bip_39_word_new_br12: sunny<br>defy<br>pipe<br>void<br>rescue<br>abandon<br>love<br>alter<br>sausage<br>club<br>share<br>aspect
+bip_39_word_new_br2: sunny<br>defy
+bip_39_word_new_br3: sunny<br>defy<br>pipe
+bip_39_word_new_br4: sunny<br>defy<br>pipe<br>void
+bip_39_word_new_br5: sunny<br>defy<br>pipe<br>void<br>rescue
+bip_39_word_new_br6: sunny<br>defy<br>pipe<br>void<br>rescue<br>abandon
+bip_39_word_new_br7: sunny<br>defy<br>pipe<br>void<br>rescue<br>abandon<br>love
+bip_39_word_new_br8: sunny<br>defy<br>pipe<br>void<br>rescue<br>abandon<br>love<br>alter
+bip_39_word_new_br9: sunny<br>defy<br>pipe<br>void<br>rescue<br>abandon<br>love<br>alter<br>sausage
+bip_39_word_new_line1: sunny
+bip_39_word_new_line10: 'sunny
+
+  defy
+
+  pipe
+
+  void
+
+  rescue
+
+  abandon
+
+  love
+
+  alter
+
+  sausage
+
+  club'
+bip_39_word_new_line11: 'sunny
+
+  defy
+
+  pipe
+
+  void
+
+  rescue
+
+  abandon
+
+  love
+
+  alter
+
+  sausage
+
+  club
+
+  share'
+bip_39_word_new_line12: 'sunny
+
+  defy
+
+  pipe
+
+  void
+
+  rescue
+
+  abandon
+
+  love
+
+  alter
+
+  sausage
+
+  club
+
+  share
+
+  aspect'
+bip_39_word_new_line2: 'sunny
+
+  defy'
+bip_39_word_new_line3: 'sunny
+
+  defy
+
+  pipe'
+bip_39_word_new_line4: 'sunny
+
+  defy
+
+  pipe
+
+  void'
+bip_39_word_new_line5: 'sunny
+
+  defy
+
+  pipe
+
+  void
+
+  rescue'
+bip_39_word_new_line6: 'sunny
+
+  defy
+
+  pipe
+
+  void
+
+  rescue
+
+  abandon'
+bip_39_word_new_line7: 'sunny
+
+  defy
+
+  pipe
+
+  void
+
+  rescue
+
+  abandon
+
+  love'
+bip_39_word_new_line8: 'sunny
+
+  defy
+
+  pipe
+
+  void
+
+  rescue
+
+  abandon
+
+  love
+
+  alter'
+bip_39_word_new_line9: 'sunny
+
+  defy
+
+  pipe
+
+  void
+
+  rescue
+
+  abandon
+
+  love
+
+  alter
+
+  sausage'
+bip_39_word_space_0:
+- sunny
+- defy
+- pipe
+- void
+- rescue
+- abandon
+- love
+- alter
+- sausage
+- club
+- share
+- aspect
+bip_39_word_space_1: sunny
+bip_39_word_space_10: sunny defy pipe void rescue abandon love alter sausage club
+bip_39_word_space_11: sunny defy pipe void rescue abandon love alter sausage club
+  share
+bip_39_word_space_12: sunny defy pipe void rescue abandon love alter sausage club
+  share aspect
+bip_39_word_space_2: sunny defy
+bip_39_word_space_3: sunny defy pipe
+bip_39_word_space_4: sunny defy pipe void
+bip_39_word_space_5: sunny defy pipe void rescue
+bip_39_word_space_6: sunny defy pipe void rescue abandon
+bip_39_word_space_7: sunny defy pipe void rescue abandon love
+bip_39_word_space_8: sunny defy pipe void rescue abandon love alter
+bip_39_word_space_9: sunny defy pipe void rescue abandon love alter sausage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

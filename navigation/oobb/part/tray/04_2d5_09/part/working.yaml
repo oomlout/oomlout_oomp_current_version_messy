@@ -1,3 +1,186 @@
+bip_39_word_new_br1: about
+bip_39_word_new_br10: about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit
+bip_39_word_new_br11: about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit<br>basic
+bip_39_word_new_br12: about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle<br>inherit<br>basic<br>acquire
+bip_39_word_new_br2: about<br>pill
+bip_39_word_new_br3: about<br>pill<br>owner
+bip_39_word_new_br4: about<br>pill<br>owner<br>valve
+bip_39_word_new_br5: about<br>pill<br>owner<br>valve<br>since
+bip_39_word_new_br6: about<br>pill<br>owner<br>valve<br>since<br>memory
+bip_39_word_new_br7: about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum
+bip_39_word_new_br8: about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest
+bip_39_word_new_br9: about<br>pill<br>owner<br>valve<br>since<br>memory<br>quantum<br>arrest<br>paddle
+bip_39_word_new_line1: about
+bip_39_word_new_line10: 'about
+
+  pill
+
+  owner
+
+  valve
+
+  since
+
+  memory
+
+  quantum
+
+  arrest
+
+  paddle
+
+  inherit'
+bip_39_word_new_line11: 'about
+
+  pill
+
+  owner
+
+  valve
+
+  since
+
+  memory
+
+  quantum
+
+  arrest
+
+  paddle
+
+  inherit
+
+  basic'
+bip_39_word_new_line12: 'about
+
+  pill
+
+  owner
+
+  valve
+
+  since
+
+  memory
+
+  quantum
+
+  arrest
+
+  paddle
+
+  inherit
+
+  basic
+
+  acquire'
+bip_39_word_new_line2: 'about
+
+  pill'
+bip_39_word_new_line3: 'about
+
+  pill
+
+  owner'
+bip_39_word_new_line4: 'about
+
+  pill
+
+  owner
+
+  valve'
+bip_39_word_new_line5: 'about
+
+  pill
+
+  owner
+
+  valve
+
+  since'
+bip_39_word_new_line6: 'about
+
+  pill
+
+  owner
+
+  valve
+
+  since
+
+  memory'
+bip_39_word_new_line7: 'about
+
+  pill
+
+  owner
+
+  valve
+
+  since
+
+  memory
+
+  quantum'
+bip_39_word_new_line8: 'about
+
+  pill
+
+  owner
+
+  valve
+
+  since
+
+  memory
+
+  quantum
+
+  arrest'
+bip_39_word_new_line9: 'about
+
+  pill
+
+  owner
+
+  valve
+
+  since
+
+  memory
+
+  quantum
+
+  arrest
+
+  paddle'
+bip_39_word_space_0:
+- about
+- pill
+- owner
+- valve
+- since
+- memory
+- quantum
+- arrest
+- paddle
+- inherit
+- basic
+- acquire
+bip_39_word_space_1: about
+bip_39_word_space_10: about pill owner valve since memory quantum arrest paddle inherit
+bip_39_word_space_11: about pill owner valve since memory quantum arrest paddle inherit
+  basic
+bip_39_word_space_12: about pill owner valve since memory quantum arrest paddle inherit
+  basic acquire
+bip_39_word_space_2: about pill
+bip_39_word_space_3: about pill owner
+bip_39_word_space_4: about pill owner valve
+bip_39_word_space_5: about pill owner valve since
+bip_39_word_space_6: about pill owner valve since memory
+bip_39_word_space_7: about pill owner valve since memory quantum
+bip_39_word_space_8: about pill owner valve since memory quantum arrest
+bip_39_word_space_9: about pill owner valve since memory quantum arrest paddle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

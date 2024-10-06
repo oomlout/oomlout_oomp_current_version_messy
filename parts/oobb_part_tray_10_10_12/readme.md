@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bargain into
+  * bip 39 word 3: bargain into employ
+  * bip 39 word: bargain into employ salad ask inspire unlock soccer depth omit rare add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bargain |  
+| bip_39_word_new_br10 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire<br>unlock<br>soccer<br>depth<br>omit |  
+| bip_39_word_new_br11 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire<br>unlock<br>soccer<br>depth<br>omit<br>rare |  
+| bip_39_word_new_br12 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire<br>unlock<br>soccer<br>depth<br>omit<br>rare<br>add |  
+| bip_39_word_new_br2 | bargain<br>into |  
+| bip_39_word_new_br3 | bargain<br>into<br>employ |  
+| bip_39_word_new_br4 | bargain<br>into<br>employ<br>salad |  
+| bip_39_word_new_br5 | bargain<br>into<br>employ<br>salad<br>ask |  
+| bip_39_word_new_br6 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire |  
+| bip_39_word_new_br7 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire<br>unlock |  
+| bip_39_word_new_br8 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire<br>unlock<br>soccer |  
+| bip_39_word_new_br9 | bargain<br>into<br>employ<br>salad<br>ask<br>inspire<br>unlock<br>soccer<br>depth |  
+| bip_39_word_new_line1 | bargain |  
+| bip_39_word_new_line10 | bargain
+into
+employ
+salad
+ask
+inspire
+unlock
+soccer
+depth
+omit |  
+| bip_39_word_new_line11 | bargain
+into
+employ
+salad
+ask
+inspire
+unlock
+soccer
+depth
+omit
+rare |  
+| bip_39_word_new_line12 | bargain
+into
+employ
+salad
+ask
+inspire
+unlock
+soccer
+depth
+omit
+rare
+add |  
+| bip_39_word_new_line2 | bargain
+into |  
+| bip_39_word_new_line3 | bargain
+into
+employ |  
+| bip_39_word_new_line4 | bargain
+into
+employ
+salad |  
+| bip_39_word_new_line5 | bargain
+into
+employ
+salad
+ask |  
+| bip_39_word_new_line6 | bargain
+into
+employ
+salad
+ask
+inspire |  
+| bip_39_word_new_line7 | bargain
+into
+employ
+salad
+ask
+inspire
+unlock |  
+| bip_39_word_new_line8 | bargain
+into
+employ
+salad
+ask
+inspire
+unlock
+soccer |  
+| bip_39_word_new_line9 | bargain
+into
+employ
+salad
+ask
+inspire
+unlock
+soccer
+depth |  
+| bip_39_word_space_0 | ['bargain', 'into', 'employ', 'salad', 'ask', 'inspire', 'unlock', 'soccer', 'depth', 'omit', 'rare', 'add'] |  
+| bip_39_word_space_1 | bargain |  
+| bip_39_word_space_10 | bargain into employ salad ask inspire unlock soccer depth omit |  
+| bip_39_word_space_11 | bargain into employ salad ask inspire unlock soccer depth omit rare |  
+| bip_39_word_space_12 | bargain into employ salad ask inspire unlock soccer depth omit rare add |  
+| bip_39_word_space_2 | bargain into |  
+| bip_39_word_space_3 | bargain into employ |  
+| bip_39_word_space_4 | bargain into employ salad |  
+| bip_39_word_space_5 | bargain into employ salad ask |  
+| bip_39_word_space_6 | bargain into employ salad ask inspire |  
+| bip_39_word_space_7 | bargain into employ salad ask inspire unlock |  
+| bip_39_word_space_8 | bargain into employ salad ask inspire unlock soccer |  
+| bip_39_word_space_9 | bargain into employ salad ask inspire unlock soccer depth |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

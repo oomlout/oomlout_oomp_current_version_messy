@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: message view
+  * bip 39 word 3: message view dinosaur
+  * bip 39 word: message view dinosaur kiss traffic mix biology journey cement garden donkey agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | message |  
+| bip_39_word_new_br10 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix<br>biology<br>journey<br>cement<br>garden |  
+| bip_39_word_new_br11 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix<br>biology<br>journey<br>cement<br>garden<br>donkey |  
+| bip_39_word_new_br12 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix<br>biology<br>journey<br>cement<br>garden<br>donkey<br>agree |  
+| bip_39_word_new_br2 | message<br>view |  
+| bip_39_word_new_br3 | message<br>view<br>dinosaur |  
+| bip_39_word_new_br4 | message<br>view<br>dinosaur<br>kiss |  
+| bip_39_word_new_br5 | message<br>view<br>dinosaur<br>kiss<br>traffic |  
+| bip_39_word_new_br6 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix |  
+| bip_39_word_new_br7 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix<br>biology |  
+| bip_39_word_new_br8 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix<br>biology<br>journey |  
+| bip_39_word_new_br9 | message<br>view<br>dinosaur<br>kiss<br>traffic<br>mix<br>biology<br>journey<br>cement |  
+| bip_39_word_new_line1 | message |  
+| bip_39_word_new_line10 | message
+view
+dinosaur
+kiss
+traffic
+mix
+biology
+journey
+cement
+garden |  
+| bip_39_word_new_line11 | message
+view
+dinosaur
+kiss
+traffic
+mix
+biology
+journey
+cement
+garden
+donkey |  
+| bip_39_word_new_line12 | message
+view
+dinosaur
+kiss
+traffic
+mix
+biology
+journey
+cement
+garden
+donkey
+agree |  
+| bip_39_word_new_line2 | message
+view |  
+| bip_39_word_new_line3 | message
+view
+dinosaur |  
+| bip_39_word_new_line4 | message
+view
+dinosaur
+kiss |  
+| bip_39_word_new_line5 | message
+view
+dinosaur
+kiss
+traffic |  
+| bip_39_word_new_line6 | message
+view
+dinosaur
+kiss
+traffic
+mix |  
+| bip_39_word_new_line7 | message
+view
+dinosaur
+kiss
+traffic
+mix
+biology |  
+| bip_39_word_new_line8 | message
+view
+dinosaur
+kiss
+traffic
+mix
+biology
+journey |  
+| bip_39_word_new_line9 | message
+view
+dinosaur
+kiss
+traffic
+mix
+biology
+journey
+cement |  
+| bip_39_word_space_0 | ['message', 'view', 'dinosaur', 'kiss', 'traffic', 'mix', 'biology', 'journey', 'cement', 'garden', 'donkey', 'agree'] |  
+| bip_39_word_space_1 | message |  
+| bip_39_word_space_10 | message view dinosaur kiss traffic mix biology journey cement garden |  
+| bip_39_word_space_11 | message view dinosaur kiss traffic mix biology journey cement garden donkey |  
+| bip_39_word_space_12 | message view dinosaur kiss traffic mix biology journey cement garden donkey agree |  
+| bip_39_word_space_2 | message view |  
+| bip_39_word_space_3 | message view dinosaur |  
+| bip_39_word_space_4 | message view dinosaur kiss |  
+| bip_39_word_space_5 | message view dinosaur kiss traffic |  
+| bip_39_word_space_6 | message view dinosaur kiss traffic mix |  
+| bip_39_word_space_7 | message view dinosaur kiss traffic mix biology |  
+| bip_39_word_space_8 | message view dinosaur kiss traffic mix biology journey |  
+| bip_39_word_space_9 | message view dinosaur kiss traffic mix biology journey cement |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

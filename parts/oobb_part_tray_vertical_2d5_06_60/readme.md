@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: game warfare
+  * bip 39 word 3: game warfare relief
+  * bip 39 word: game warfare relief couple shaft rare vivid coral axis little space ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | game |  
+| bip_39_word_new_br10 | game<br>warfare<br>relief<br>couple<br>shaft<br>rare<br>vivid<br>coral<br>axis<br>little |  
+| bip_39_word_new_br11 | game<br>warfare<br>relief<br>couple<br>shaft<br>rare<br>vivid<br>coral<br>axis<br>little<br>space |  
+| bip_39_word_new_br12 | game<br>warfare<br>relief<br>couple<br>shaft<br>rare<br>vivid<br>coral<br>axis<br>little<br>space<br>ability |  
+| bip_39_word_new_br2 | game<br>warfare |  
+| bip_39_word_new_br3 | game<br>warfare<br>relief |  
+| bip_39_word_new_br4 | game<br>warfare<br>relief<br>couple |  
+| bip_39_word_new_br5 | game<br>warfare<br>relief<br>couple<br>shaft |  
+| bip_39_word_new_br6 | game<br>warfare<br>relief<br>couple<br>shaft<br>rare |  
+| bip_39_word_new_br7 | game<br>warfare<br>relief<br>couple<br>shaft<br>rare<br>vivid |  
+| bip_39_word_new_br8 | game<br>warfare<br>relief<br>couple<br>shaft<br>rare<br>vivid<br>coral |  
+| bip_39_word_new_br9 | game<br>warfare<br>relief<br>couple<br>shaft<br>rare<br>vivid<br>coral<br>axis |  
+| bip_39_word_new_line1 | game |  
+| bip_39_word_new_line10 | game
+warfare
+relief
+couple
+shaft
+rare
+vivid
+coral
+axis
+little |  
+| bip_39_word_new_line11 | game
+warfare
+relief
+couple
+shaft
+rare
+vivid
+coral
+axis
+little
+space |  
+| bip_39_word_new_line12 | game
+warfare
+relief
+couple
+shaft
+rare
+vivid
+coral
+axis
+little
+space
+ability |  
+| bip_39_word_new_line2 | game
+warfare |  
+| bip_39_word_new_line3 | game
+warfare
+relief |  
+| bip_39_word_new_line4 | game
+warfare
+relief
+couple |  
+| bip_39_word_new_line5 | game
+warfare
+relief
+couple
+shaft |  
+| bip_39_word_new_line6 | game
+warfare
+relief
+couple
+shaft
+rare |  
+| bip_39_word_new_line7 | game
+warfare
+relief
+couple
+shaft
+rare
+vivid |  
+| bip_39_word_new_line8 | game
+warfare
+relief
+couple
+shaft
+rare
+vivid
+coral |  
+| bip_39_word_new_line9 | game
+warfare
+relief
+couple
+shaft
+rare
+vivid
+coral
+axis |  
+| bip_39_word_space_0 | ['game', 'warfare', 'relief', 'couple', 'shaft', 'rare', 'vivid', 'coral', 'axis', 'little', 'space', 'ability'] |  
+| bip_39_word_space_1 | game |  
+| bip_39_word_space_10 | game warfare relief couple shaft rare vivid coral axis little |  
+| bip_39_word_space_11 | game warfare relief couple shaft rare vivid coral axis little space |  
+| bip_39_word_space_12 | game warfare relief couple shaft rare vivid coral axis little space ability |  
+| bip_39_word_space_2 | game warfare |  
+| bip_39_word_space_3 | game warfare relief |  
+| bip_39_word_space_4 | game warfare relief couple |  
+| bip_39_word_space_5 | game warfare relief couple shaft |  
+| bip_39_word_space_6 | game warfare relief couple shaft rare |  
+| bip_39_word_space_7 | game warfare relief couple shaft rare vivid |  
+| bip_39_word_space_8 | game warfare relief couple shaft rare vivid coral |  
+| bip_39_word_space_9 | game warfare relief couple shaft rare vivid coral axis |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

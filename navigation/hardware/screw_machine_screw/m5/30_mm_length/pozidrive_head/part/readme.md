@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: marble math
+  * bip 39 word 3: marble math rich
+  * bip 39 word: marble math rich spring unlock maid payment wool federal inherit gospel announce
 
 ### other_codes
 * short_code: ms5m30pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | marble |  
+| bip_39_word_new_br10 | marble<br>math<br>rich<br>spring<br>unlock<br>maid<br>payment<br>wool<br>federal<br>inherit |  
+| bip_39_word_new_br11 | marble<br>math<br>rich<br>spring<br>unlock<br>maid<br>payment<br>wool<br>federal<br>inherit<br>gospel |  
+| bip_39_word_new_br12 | marble<br>math<br>rich<br>spring<br>unlock<br>maid<br>payment<br>wool<br>federal<br>inherit<br>gospel<br>announce |  
+| bip_39_word_new_br2 | marble<br>math |  
+| bip_39_word_new_br3 | marble<br>math<br>rich |  
+| bip_39_word_new_br4 | marble<br>math<br>rich<br>spring |  
+| bip_39_word_new_br5 | marble<br>math<br>rich<br>spring<br>unlock |  
+| bip_39_word_new_br6 | marble<br>math<br>rich<br>spring<br>unlock<br>maid |  
+| bip_39_word_new_br7 | marble<br>math<br>rich<br>spring<br>unlock<br>maid<br>payment |  
+| bip_39_word_new_br8 | marble<br>math<br>rich<br>spring<br>unlock<br>maid<br>payment<br>wool |  
+| bip_39_word_new_br9 | marble<br>math<br>rich<br>spring<br>unlock<br>maid<br>payment<br>wool<br>federal |  
+| bip_39_word_new_line1 | marble |  
+| bip_39_word_new_line10 | marble
+math
+rich
+spring
+unlock
+maid
+payment
+wool
+federal
+inherit |  
+| bip_39_word_new_line11 | marble
+math
+rich
+spring
+unlock
+maid
+payment
+wool
+federal
+inherit
+gospel |  
+| bip_39_word_new_line12 | marble
+math
+rich
+spring
+unlock
+maid
+payment
+wool
+federal
+inherit
+gospel
+announce |  
+| bip_39_word_new_line2 | marble
+math |  
+| bip_39_word_new_line3 | marble
+math
+rich |  
+| bip_39_word_new_line4 | marble
+math
+rich
+spring |  
+| bip_39_word_new_line5 | marble
+math
+rich
+spring
+unlock |  
+| bip_39_word_new_line6 | marble
+math
+rich
+spring
+unlock
+maid |  
+| bip_39_word_new_line7 | marble
+math
+rich
+spring
+unlock
+maid
+payment |  
+| bip_39_word_new_line8 | marble
+math
+rich
+spring
+unlock
+maid
+payment
+wool |  
+| bip_39_word_new_line9 | marble
+math
+rich
+spring
+unlock
+maid
+payment
+wool
+federal |  
+| bip_39_word_space_0 | ['marble', 'math', 'rich', 'spring', 'unlock', 'maid', 'payment', 'wool', 'federal', 'inherit', 'gospel', 'announce'] |  
+| bip_39_word_space_1 | marble |  
+| bip_39_word_space_10 | marble math rich spring unlock maid payment wool federal inherit |  
+| bip_39_word_space_11 | marble math rich spring unlock maid payment wool federal inherit gospel |  
+| bip_39_word_space_12 | marble math rich spring unlock maid payment wool federal inherit gospel announce |  
+| bip_39_word_space_2 | marble math |  
+| bip_39_word_space_3 | marble math rich |  
+| bip_39_word_space_4 | marble math rich spring |  
+| bip_39_word_space_5 | marble math rich spring unlock |  
+| bip_39_word_space_6 | marble math rich spring unlock maid |  
+| bip_39_word_space_7 | marble math rich spring unlock maid payment |  
+| bip_39_word_space_8 | marble math rich spring unlock maid payment wool |  
+| bip_39_word_space_9 | marble math rich spring unlock maid payment wool federal |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

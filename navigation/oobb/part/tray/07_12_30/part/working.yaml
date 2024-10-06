@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spy
+bip_39_word_new_br10: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target
+bip_39_word_new_br11: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target<br>member
+bip_39_word_new_br12: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius<br>target<br>member<br>abuse
+bip_39_word_new_br2: spy<br>reduce
+bip_39_word_new_br3: spy<br>reduce<br>reunion
+bip_39_word_new_br4: spy<br>reduce<br>reunion<br>laptop
+bip_39_word_new_br5: spy<br>reduce<br>reunion<br>laptop<br>aware
+bip_39_word_new_br6: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist
+bip_39_word_new_br7: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert
+bip_39_word_new_br8: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try
+bip_39_word_new_br9: spy<br>reduce<br>reunion<br>laptop<br>aware<br>artist<br>desert<br>try<br>genius
+bip_39_word_new_line1: spy
+bip_39_word_new_line10: 'spy
+
+  reduce
+
+  reunion
+
+  laptop
+
+  aware
+
+  artist
+
+  desert
+
+  try
+
+  genius
+
+  target'
+bip_39_word_new_line11: 'spy
+
+  reduce
+
+  reunion
+
+  laptop
+
+  aware
+
+  artist
+
+  desert
+
+  try
+
+  genius
+
+  target
+
+  member'
+bip_39_word_new_line12: 'spy
+
+  reduce
+
+  reunion
+
+  laptop
+
+  aware
+
+  artist
+
+  desert
+
+  try
+
+  genius
+
+  target
+
+  member
+
+  abuse'
+bip_39_word_new_line2: 'spy
+
+  reduce'
+bip_39_word_new_line3: 'spy
+
+  reduce
+
+  reunion'
+bip_39_word_new_line4: 'spy
+
+  reduce
+
+  reunion
+
+  laptop'
+bip_39_word_new_line5: 'spy
+
+  reduce
+
+  reunion
+
+  laptop
+
+  aware'
+bip_39_word_new_line6: 'spy
+
+  reduce
+
+  reunion
+
+  laptop
+
+  aware
+
+  artist'
+bip_39_word_new_line7: 'spy
+
+  reduce
+
+  reunion
+
+  laptop
+
+  aware
+
+  artist
+
+  desert'
+bip_39_word_new_line8: 'spy
+
+  reduce
+
+  reunion
+
+  laptop
+
+  aware
+
+  artist
+
+  desert
+
+  try'
+bip_39_word_new_line9: 'spy
+
+  reduce
+
+  reunion
+
+  laptop
+
+  aware
+
+  artist
+
+  desert
+
+  try
+
+  genius'
+bip_39_word_space_0:
+- spy
+- reduce
+- reunion
+- laptop
+- aware
+- artist
+- desert
+- try
+- genius
+- target
+- member
+- abuse
+bip_39_word_space_1: spy
+bip_39_word_space_10: spy reduce reunion laptop aware artist desert try genius target
+bip_39_word_space_11: spy reduce reunion laptop aware artist desert try genius target
+  member
+bip_39_word_space_12: spy reduce reunion laptop aware artist desert try genius target
+  member abuse
+bip_39_word_space_2: spy reduce
+bip_39_word_space_3: spy reduce reunion
+bip_39_word_space_4: spy reduce reunion laptop
+bip_39_word_space_5: spy reduce reunion laptop aware
+bip_39_word_space_6: spy reduce reunion laptop aware artist
+bip_39_word_space_7: spy reduce reunion laptop aware artist desert
+bip_39_word_space_8: spy reduce reunion laptop aware artist desert try
+bip_39_word_space_9: spy reduce reunion laptop aware artist desert try genius
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

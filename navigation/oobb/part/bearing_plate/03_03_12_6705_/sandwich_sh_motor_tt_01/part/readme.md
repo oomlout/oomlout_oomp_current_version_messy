@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: sandwich_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: furnace filter
+  * bip 39 word 3: furnace filter carpet
+  * bip 39 word: furnace filter carpet say relief empower file prison object idle youth admit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | furnace |  
+| bip_39_word_new_br10 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower<br>file<br>prison<br>object<br>idle |  
+| bip_39_word_new_br11 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower<br>file<br>prison<br>object<br>idle<br>youth |  
+| bip_39_word_new_br12 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower<br>file<br>prison<br>object<br>idle<br>youth<br>admit |  
+| bip_39_word_new_br2 | furnace<br>filter |  
+| bip_39_word_new_br3 | furnace<br>filter<br>carpet |  
+| bip_39_word_new_br4 | furnace<br>filter<br>carpet<br>say |  
+| bip_39_word_new_br5 | furnace<br>filter<br>carpet<br>say<br>relief |  
+| bip_39_word_new_br6 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower |  
+| bip_39_word_new_br7 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower<br>file |  
+| bip_39_word_new_br8 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower<br>file<br>prison |  
+| bip_39_word_new_br9 | furnace<br>filter<br>carpet<br>say<br>relief<br>empower<br>file<br>prison<br>object |  
+| bip_39_word_new_line1 | furnace |  
+| bip_39_word_new_line10 | furnace
+filter
+carpet
+say
+relief
+empower
+file
+prison
+object
+idle |  
+| bip_39_word_new_line11 | furnace
+filter
+carpet
+say
+relief
+empower
+file
+prison
+object
+idle
+youth |  
+| bip_39_word_new_line12 | furnace
+filter
+carpet
+say
+relief
+empower
+file
+prison
+object
+idle
+youth
+admit |  
+| bip_39_word_new_line2 | furnace
+filter |  
+| bip_39_word_new_line3 | furnace
+filter
+carpet |  
+| bip_39_word_new_line4 | furnace
+filter
+carpet
+say |  
+| bip_39_word_new_line5 | furnace
+filter
+carpet
+say
+relief |  
+| bip_39_word_new_line6 | furnace
+filter
+carpet
+say
+relief
+empower |  
+| bip_39_word_new_line7 | furnace
+filter
+carpet
+say
+relief
+empower
+file |  
+| bip_39_word_new_line8 | furnace
+filter
+carpet
+say
+relief
+empower
+file
+prison |  
+| bip_39_word_new_line9 | furnace
+filter
+carpet
+say
+relief
+empower
+file
+prison
+object |  
+| bip_39_word_space_0 | ['furnace', 'filter', 'carpet', 'say', 'relief', 'empower', 'file', 'prison', 'object', 'idle', 'youth', 'admit'] |  
+| bip_39_word_space_1 | furnace |  
+| bip_39_word_space_10 | furnace filter carpet say relief empower file prison object idle |  
+| bip_39_word_space_11 | furnace filter carpet say relief empower file prison object idle youth |  
+| bip_39_word_space_12 | furnace filter carpet say relief empower file prison object idle youth admit |  
+| bip_39_word_space_2 | furnace filter |  
+| bip_39_word_space_3 | furnace filter carpet |  
+| bip_39_word_space_4 | furnace filter carpet say |  
+| bip_39_word_space_5 | furnace filter carpet say relief |  
+| bip_39_word_space_6 | furnace filter carpet say relief empower |  
+| bip_39_word_space_7 | furnace filter carpet say relief empower file |  
+| bip_39_word_space_8 | furnace filter carpet say relief empower file prison |  
+| bip_39_word_space_9 | furnace filter carpet say relief empower file prison object |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

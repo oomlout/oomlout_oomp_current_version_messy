@@ -1,3 +1,187 @@
+bip_39_word_new_br1: display
+bip_39_word_new_br10: display<br>planet<br>violin<br>blind<br>symbol<br>cake<br>nuclear<br>adult<br>lobster<br>balcony
+bip_39_word_new_br11: display<br>planet<br>violin<br>blind<br>symbol<br>cake<br>nuclear<br>adult<br>lobster<br>balcony<br>aisle
+bip_39_word_new_br12: display<br>planet<br>violin<br>blind<br>symbol<br>cake<br>nuclear<br>adult<br>lobster<br>balcony<br>aisle<br>almost
+bip_39_word_new_br2: display<br>planet
+bip_39_word_new_br3: display<br>planet<br>violin
+bip_39_word_new_br4: display<br>planet<br>violin<br>blind
+bip_39_word_new_br5: display<br>planet<br>violin<br>blind<br>symbol
+bip_39_word_new_br6: display<br>planet<br>violin<br>blind<br>symbol<br>cake
+bip_39_word_new_br7: display<br>planet<br>violin<br>blind<br>symbol<br>cake<br>nuclear
+bip_39_word_new_br8: display<br>planet<br>violin<br>blind<br>symbol<br>cake<br>nuclear<br>adult
+bip_39_word_new_br9: display<br>planet<br>violin<br>blind<br>symbol<br>cake<br>nuclear<br>adult<br>lobster
+bip_39_word_new_line1: display
+bip_39_word_new_line10: 'display
+
+  planet
+
+  violin
+
+  blind
+
+  symbol
+
+  cake
+
+  nuclear
+
+  adult
+
+  lobster
+
+  balcony'
+bip_39_word_new_line11: 'display
+
+  planet
+
+  violin
+
+  blind
+
+  symbol
+
+  cake
+
+  nuclear
+
+  adult
+
+  lobster
+
+  balcony
+
+  aisle'
+bip_39_word_new_line12: 'display
+
+  planet
+
+  violin
+
+  blind
+
+  symbol
+
+  cake
+
+  nuclear
+
+  adult
+
+  lobster
+
+  balcony
+
+  aisle
+
+  almost'
+bip_39_word_new_line2: 'display
+
+  planet'
+bip_39_word_new_line3: 'display
+
+  planet
+
+  violin'
+bip_39_word_new_line4: 'display
+
+  planet
+
+  violin
+
+  blind'
+bip_39_word_new_line5: 'display
+
+  planet
+
+  violin
+
+  blind
+
+  symbol'
+bip_39_word_new_line6: 'display
+
+  planet
+
+  violin
+
+  blind
+
+  symbol
+
+  cake'
+bip_39_word_new_line7: 'display
+
+  planet
+
+  violin
+
+  blind
+
+  symbol
+
+  cake
+
+  nuclear'
+bip_39_word_new_line8: 'display
+
+  planet
+
+  violin
+
+  blind
+
+  symbol
+
+  cake
+
+  nuclear
+
+  adult'
+bip_39_word_new_line9: 'display
+
+  planet
+
+  violin
+
+  blind
+
+  symbol
+
+  cake
+
+  nuclear
+
+  adult
+
+  lobster'
+bip_39_word_space_0:
+- display
+- planet
+- violin
+- blind
+- symbol
+- cake
+- nuclear
+- adult
+- lobster
+- balcony
+- aisle
+- almost
+bip_39_word_space_1: display
+bip_39_word_space_10: display planet violin blind symbol cake nuclear adult lobster
+  balcony
+bip_39_word_space_11: display planet violin blind symbol cake nuclear adult lobster
+  balcony aisle
+bip_39_word_space_12: display planet violin blind symbol cake nuclear adult lobster
+  balcony aisle almost
+bip_39_word_space_2: display planet
+bip_39_word_space_3: display planet violin
+bip_39_word_space_4: display planet violin blind
+bip_39_word_space_5: display planet violin blind symbol
+bip_39_word_space_6: display planet violin blind symbol cake
+bip_39_word_space_7: display planet violin blind symbol cake nuclear
+bip_39_word_space_8: display planet violin blind symbol cake nuclear adult
+bip_39_word_space_9: display planet violin blind symbol cake nuclear adult lobster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

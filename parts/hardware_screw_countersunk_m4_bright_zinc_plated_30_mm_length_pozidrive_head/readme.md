@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: anxiety vocal
+  * bip 39 word 3: anxiety vocal position
+  * bip 39 word: anxiety vocal position render state mistake spin balcony young depart advice auto
 
 ### other_codes
 * short_code: cs4bz30pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | anxiety |  
+| bip_39_word_new_br10 | anxiety<br>vocal<br>position<br>render<br>state<br>mistake<br>spin<br>balcony<br>young<br>depart |  
+| bip_39_word_new_br11 | anxiety<br>vocal<br>position<br>render<br>state<br>mistake<br>spin<br>balcony<br>young<br>depart<br>advice |  
+| bip_39_word_new_br12 | anxiety<br>vocal<br>position<br>render<br>state<br>mistake<br>spin<br>balcony<br>young<br>depart<br>advice<br>auto |  
+| bip_39_word_new_br2 | anxiety<br>vocal |  
+| bip_39_word_new_br3 | anxiety<br>vocal<br>position |  
+| bip_39_word_new_br4 | anxiety<br>vocal<br>position<br>render |  
+| bip_39_word_new_br5 | anxiety<br>vocal<br>position<br>render<br>state |  
+| bip_39_word_new_br6 | anxiety<br>vocal<br>position<br>render<br>state<br>mistake |  
+| bip_39_word_new_br7 | anxiety<br>vocal<br>position<br>render<br>state<br>mistake<br>spin |  
+| bip_39_word_new_br8 | anxiety<br>vocal<br>position<br>render<br>state<br>mistake<br>spin<br>balcony |  
+| bip_39_word_new_br9 | anxiety<br>vocal<br>position<br>render<br>state<br>mistake<br>spin<br>balcony<br>young |  
+| bip_39_word_new_line1 | anxiety |  
+| bip_39_word_new_line10 | anxiety
+vocal
+position
+render
+state
+mistake
+spin
+balcony
+young
+depart |  
+| bip_39_word_new_line11 | anxiety
+vocal
+position
+render
+state
+mistake
+spin
+balcony
+young
+depart
+advice |  
+| bip_39_word_new_line12 | anxiety
+vocal
+position
+render
+state
+mistake
+spin
+balcony
+young
+depart
+advice
+auto |  
+| bip_39_word_new_line2 | anxiety
+vocal |  
+| bip_39_word_new_line3 | anxiety
+vocal
+position |  
+| bip_39_word_new_line4 | anxiety
+vocal
+position
+render |  
+| bip_39_word_new_line5 | anxiety
+vocal
+position
+render
+state |  
+| bip_39_word_new_line6 | anxiety
+vocal
+position
+render
+state
+mistake |  
+| bip_39_word_new_line7 | anxiety
+vocal
+position
+render
+state
+mistake
+spin |  
+| bip_39_word_new_line8 | anxiety
+vocal
+position
+render
+state
+mistake
+spin
+balcony |  
+| bip_39_word_new_line9 | anxiety
+vocal
+position
+render
+state
+mistake
+spin
+balcony
+young |  
+| bip_39_word_space_0 | ['anxiety', 'vocal', 'position', 'render', 'state', 'mistake', 'spin', 'balcony', 'young', 'depart', 'advice', 'auto'] |  
+| bip_39_word_space_1 | anxiety |  
+| bip_39_word_space_10 | anxiety vocal position render state mistake spin balcony young depart |  
+| bip_39_word_space_11 | anxiety vocal position render state mistake spin balcony young depart advice |  
+| bip_39_word_space_12 | anxiety vocal position render state mistake spin balcony young depart advice auto |  
+| bip_39_word_space_2 | anxiety vocal |  
+| bip_39_word_space_3 | anxiety vocal position |  
+| bip_39_word_space_4 | anxiety vocal position render |  
+| bip_39_word_space_5 | anxiety vocal position render state |  
+| bip_39_word_space_6 | anxiety vocal position render state mistake |  
+| bip_39_word_space_7 | anxiety vocal position render state mistake spin |  
+| bip_39_word_space_8 | anxiety vocal position render state mistake spin balcony |  
+| bip_39_word_space_9 | anxiety vocal position render state mistake spin balcony young |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

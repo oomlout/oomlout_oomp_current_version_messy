@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mixed cattle
+  * bip 39 word 3: mixed cattle damage
+  * bip 39 word: mixed cattle damage note dolphin plastic fault length neglect betray few august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mixed |  
+| bip_39_word_new_br10 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic<br>fault<br>length<br>neglect<br>betray |  
+| bip_39_word_new_br11 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic<br>fault<br>length<br>neglect<br>betray<br>few |  
+| bip_39_word_new_br12 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic<br>fault<br>length<br>neglect<br>betray<br>few<br>august |  
+| bip_39_word_new_br2 | mixed<br>cattle |  
+| bip_39_word_new_br3 | mixed<br>cattle<br>damage |  
+| bip_39_word_new_br4 | mixed<br>cattle<br>damage<br>note |  
+| bip_39_word_new_br5 | mixed<br>cattle<br>damage<br>note<br>dolphin |  
+| bip_39_word_new_br6 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic |  
+| bip_39_word_new_br7 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic<br>fault |  
+| bip_39_word_new_br8 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic<br>fault<br>length |  
+| bip_39_word_new_br9 | mixed<br>cattle<br>damage<br>note<br>dolphin<br>plastic<br>fault<br>length<br>neglect |  
+| bip_39_word_new_line1 | mixed |  
+| bip_39_word_new_line10 | mixed
+cattle
+damage
+note
+dolphin
+plastic
+fault
+length
+neglect
+betray |  
+| bip_39_word_new_line11 | mixed
+cattle
+damage
+note
+dolphin
+plastic
+fault
+length
+neglect
+betray
+few |  
+| bip_39_word_new_line12 | mixed
+cattle
+damage
+note
+dolphin
+plastic
+fault
+length
+neglect
+betray
+few
+august |  
+| bip_39_word_new_line2 | mixed
+cattle |  
+| bip_39_word_new_line3 | mixed
+cattle
+damage |  
+| bip_39_word_new_line4 | mixed
+cattle
+damage
+note |  
+| bip_39_word_new_line5 | mixed
+cattle
+damage
+note
+dolphin |  
+| bip_39_word_new_line6 | mixed
+cattle
+damage
+note
+dolphin
+plastic |  
+| bip_39_word_new_line7 | mixed
+cattle
+damage
+note
+dolphin
+plastic
+fault |  
+| bip_39_word_new_line8 | mixed
+cattle
+damage
+note
+dolphin
+plastic
+fault
+length |  
+| bip_39_word_new_line9 | mixed
+cattle
+damage
+note
+dolphin
+plastic
+fault
+length
+neglect |  
+| bip_39_word_space_0 | ['mixed', 'cattle', 'damage', 'note', 'dolphin', 'plastic', 'fault', 'length', 'neglect', 'betray', 'few', 'august'] |  
+| bip_39_word_space_1 | mixed |  
+| bip_39_word_space_10 | mixed cattle damage note dolphin plastic fault length neglect betray |  
+| bip_39_word_space_11 | mixed cattle damage note dolphin plastic fault length neglect betray few |  
+| bip_39_word_space_12 | mixed cattle damage note dolphin plastic fault length neglect betray few august |  
+| bip_39_word_space_2 | mixed cattle |  
+| bip_39_word_space_3 | mixed cattle damage |  
+| bip_39_word_space_4 | mixed cattle damage note |  
+| bip_39_word_space_5 | mixed cattle damage note dolphin |  
+| bip_39_word_space_6 | mixed cattle damage note dolphin plastic |  
+| bip_39_word_space_7 | mixed cattle damage note dolphin plastic fault |  
+| bip_39_word_space_8 | mixed cattle damage note dolphin plastic fault length |  
+| bip_39_word_space_9 | mixed cattle damage note dolphin plastic fault length neglect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

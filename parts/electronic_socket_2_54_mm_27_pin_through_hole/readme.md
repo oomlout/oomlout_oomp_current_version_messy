@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: zone fire
+  * bip 39 word 3: zone fire gate
+  * bip 39 word: zone fire gate skin oven company table vicious consider exile eternal allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | zone |  
+| bip_39_word_new_br10 | zone<br>fire<br>gate<br>skin<br>oven<br>company<br>table<br>vicious<br>consider<br>exile |  
+| bip_39_word_new_br11 | zone<br>fire<br>gate<br>skin<br>oven<br>company<br>table<br>vicious<br>consider<br>exile<br>eternal |  
+| bip_39_word_new_br12 | zone<br>fire<br>gate<br>skin<br>oven<br>company<br>table<br>vicious<br>consider<br>exile<br>eternal<br>allow |  
+| bip_39_word_new_br2 | zone<br>fire |  
+| bip_39_word_new_br3 | zone<br>fire<br>gate |  
+| bip_39_word_new_br4 | zone<br>fire<br>gate<br>skin |  
+| bip_39_word_new_br5 | zone<br>fire<br>gate<br>skin<br>oven |  
+| bip_39_word_new_br6 | zone<br>fire<br>gate<br>skin<br>oven<br>company |  
+| bip_39_word_new_br7 | zone<br>fire<br>gate<br>skin<br>oven<br>company<br>table |  
+| bip_39_word_new_br8 | zone<br>fire<br>gate<br>skin<br>oven<br>company<br>table<br>vicious |  
+| bip_39_word_new_br9 | zone<br>fire<br>gate<br>skin<br>oven<br>company<br>table<br>vicious<br>consider |  
+| bip_39_word_new_line1 | zone |  
+| bip_39_word_new_line10 | zone
+fire
+gate
+skin
+oven
+company
+table
+vicious
+consider
+exile |  
+| bip_39_word_new_line11 | zone
+fire
+gate
+skin
+oven
+company
+table
+vicious
+consider
+exile
+eternal |  
+| bip_39_word_new_line12 | zone
+fire
+gate
+skin
+oven
+company
+table
+vicious
+consider
+exile
+eternal
+allow |  
+| bip_39_word_new_line2 | zone
+fire |  
+| bip_39_word_new_line3 | zone
+fire
+gate |  
+| bip_39_word_new_line4 | zone
+fire
+gate
+skin |  
+| bip_39_word_new_line5 | zone
+fire
+gate
+skin
+oven |  
+| bip_39_word_new_line6 | zone
+fire
+gate
+skin
+oven
+company |  
+| bip_39_word_new_line7 | zone
+fire
+gate
+skin
+oven
+company
+table |  
+| bip_39_word_new_line8 | zone
+fire
+gate
+skin
+oven
+company
+table
+vicious |  
+| bip_39_word_new_line9 | zone
+fire
+gate
+skin
+oven
+company
+table
+vicious
+consider |  
+| bip_39_word_space_0 | ['zone', 'fire', 'gate', 'skin', 'oven', 'company', 'table', 'vicious', 'consider', 'exile', 'eternal', 'allow'] |  
+| bip_39_word_space_1 | zone |  
+| bip_39_word_space_10 | zone fire gate skin oven company table vicious consider exile |  
+| bip_39_word_space_11 | zone fire gate skin oven company table vicious consider exile eternal |  
+| bip_39_word_space_12 | zone fire gate skin oven company table vicious consider exile eternal allow |  
+| bip_39_word_space_2 | zone fire |  
+| bip_39_word_space_3 | zone fire gate |  
+| bip_39_word_space_4 | zone fire gate skin |  
+| bip_39_word_space_5 | zone fire gate skin oven |  
+| bip_39_word_space_6 | zone fire gate skin oven company |  
+| bip_39_word_space_7 | zone fire gate skin oven company table |  
+| bip_39_word_space_8 | zone fire gate skin oven company table vicious |  
+| bip_39_word_space_9 | zone fire gate skin oven company table vicious consider |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

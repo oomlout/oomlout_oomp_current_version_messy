@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coconut song
+  * bip 39 word 3: coconut song forest
+  * bip 39 word: coconut song forest girl fine squeeze current annual man combine price action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coconut |  
+| bip_39_word_new_br10 | coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man<br>combine |  
+| bip_39_word_new_br11 | coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man<br>combine<br>price |  
+| bip_39_word_new_br12 | coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man<br>combine<br>price<br>action |  
+| bip_39_word_new_br2 | coconut<br>song |  
+| bip_39_word_new_br3 | coconut<br>song<br>forest |  
+| bip_39_word_new_br4 | coconut<br>song<br>forest<br>girl |  
+| bip_39_word_new_br5 | coconut<br>song<br>forest<br>girl<br>fine |  
+| bip_39_word_new_br6 | coconut<br>song<br>forest<br>girl<br>fine<br>squeeze |  
+| bip_39_word_new_br7 | coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current |  
+| bip_39_word_new_br8 | coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual |  
+| bip_39_word_new_br9 | coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man |  
+| bip_39_word_new_line1 | coconut |  
+| bip_39_word_new_line10 | coconut
+song
+forest
+girl
+fine
+squeeze
+current
+annual
+man
+combine |  
+| bip_39_word_new_line11 | coconut
+song
+forest
+girl
+fine
+squeeze
+current
+annual
+man
+combine
+price |  
+| bip_39_word_new_line12 | coconut
+song
+forest
+girl
+fine
+squeeze
+current
+annual
+man
+combine
+price
+action |  
+| bip_39_word_new_line2 | coconut
+song |  
+| bip_39_word_new_line3 | coconut
+song
+forest |  
+| bip_39_word_new_line4 | coconut
+song
+forest
+girl |  
+| bip_39_word_new_line5 | coconut
+song
+forest
+girl
+fine |  
+| bip_39_word_new_line6 | coconut
+song
+forest
+girl
+fine
+squeeze |  
+| bip_39_word_new_line7 | coconut
+song
+forest
+girl
+fine
+squeeze
+current |  
+| bip_39_word_new_line8 | coconut
+song
+forest
+girl
+fine
+squeeze
+current
+annual |  
+| bip_39_word_new_line9 | coconut
+song
+forest
+girl
+fine
+squeeze
+current
+annual
+man |  
+| bip_39_word_space_0 | ['coconut', 'song', 'forest', 'girl', 'fine', 'squeeze', 'current', 'annual', 'man', 'combine', 'price', 'action'] |  
+| bip_39_word_space_1 | coconut |  
+| bip_39_word_space_10 | coconut song forest girl fine squeeze current annual man combine |  
+| bip_39_word_space_11 | coconut song forest girl fine squeeze current annual man combine price |  
+| bip_39_word_space_12 | coconut song forest girl fine squeeze current annual man combine price action |  
+| bip_39_word_space_2 | coconut song |  
+| bip_39_word_space_3 | coconut song forest |  
+| bip_39_word_space_4 | coconut song forest girl |  
+| bip_39_word_space_5 | coconut song forest girl fine |  
+| bip_39_word_space_6 | coconut song forest girl fine squeeze |  
+| bip_39_word_space_7 | coconut song forest girl fine squeeze current |  
+| bip_39_word_space_8 | coconut song forest girl fine squeeze current annual |  
+| bip_39_word_space_9 | coconut song forest girl fine squeeze current annual man |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

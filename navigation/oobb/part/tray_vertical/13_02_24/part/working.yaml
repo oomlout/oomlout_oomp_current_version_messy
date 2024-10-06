@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gate
+bip_39_word_new_br10: gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect
+bip_39_word_new_br11: gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect<br>nephew
+bip_39_word_new_br12: gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want<br>connect<br>nephew<br>antique
+bip_39_word_new_br2: gate<br>erosion
+bip_39_word_new_br3: gate<br>erosion<br>better
+bip_39_word_new_br4: gate<br>erosion<br>better<br>diet
+bip_39_word_new_br5: gate<br>erosion<br>better<br>diet<br>frost
+bip_39_word_new_br6: gate<br>erosion<br>better<br>diet<br>frost<br>kit
+bip_39_word_new_br7: gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken
+bip_39_word_new_br8: gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude
+bip_39_word_new_br9: gate<br>erosion<br>better<br>diet<br>frost<br>kit<br>broken<br>attitude<br>want
+bip_39_word_new_line1: gate
+bip_39_word_new_line10: 'gate
+
+  erosion
+
+  better
+
+  diet
+
+  frost
+
+  kit
+
+  broken
+
+  attitude
+
+  want
+
+  connect'
+bip_39_word_new_line11: 'gate
+
+  erosion
+
+  better
+
+  diet
+
+  frost
+
+  kit
+
+  broken
+
+  attitude
+
+  want
+
+  connect
+
+  nephew'
+bip_39_word_new_line12: 'gate
+
+  erosion
+
+  better
+
+  diet
+
+  frost
+
+  kit
+
+  broken
+
+  attitude
+
+  want
+
+  connect
+
+  nephew
+
+  antique'
+bip_39_word_new_line2: 'gate
+
+  erosion'
+bip_39_word_new_line3: 'gate
+
+  erosion
+
+  better'
+bip_39_word_new_line4: 'gate
+
+  erosion
+
+  better
+
+  diet'
+bip_39_word_new_line5: 'gate
+
+  erosion
+
+  better
+
+  diet
+
+  frost'
+bip_39_word_new_line6: 'gate
+
+  erosion
+
+  better
+
+  diet
+
+  frost
+
+  kit'
+bip_39_word_new_line7: 'gate
+
+  erosion
+
+  better
+
+  diet
+
+  frost
+
+  kit
+
+  broken'
+bip_39_word_new_line8: 'gate
+
+  erosion
+
+  better
+
+  diet
+
+  frost
+
+  kit
+
+  broken
+
+  attitude'
+bip_39_word_new_line9: 'gate
+
+  erosion
+
+  better
+
+  diet
+
+  frost
+
+  kit
+
+  broken
+
+  attitude
+
+  want'
+bip_39_word_space_0:
+- gate
+- erosion
+- better
+- diet
+- frost
+- kit
+- broken
+- attitude
+- want
+- connect
+- nephew
+- antique
+bip_39_word_space_1: gate
+bip_39_word_space_10: gate erosion better diet frost kit broken attitude want connect
+bip_39_word_space_11: gate erosion better diet frost kit broken attitude want connect
+  nephew
+bip_39_word_space_12: gate erosion better diet frost kit broken attitude want connect
+  nephew antique
+bip_39_word_space_2: gate erosion
+bip_39_word_space_3: gate erosion better
+bip_39_word_space_4: gate erosion better diet
+bip_39_word_space_5: gate erosion better diet frost
+bip_39_word_space_6: gate erosion better diet frost kit
+bip_39_word_space_7: gate erosion better diet frost kit broken
+bip_39_word_space_8: gate erosion better diet frost kit broken attitude
+bip_39_word_space_9: gate erosion better diet frost kit broken attitude want
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: prize
+bip_39_word_new_br10: prize<br>float<br>evil<br>mixed<br>door<br>patch<br>pattern<br>october<br>flash<br>slab
+bip_39_word_new_br11: prize<br>float<br>evil<br>mixed<br>door<br>patch<br>pattern<br>october<br>flash<br>slab<br>trick
+bip_39_word_new_br12: prize<br>float<br>evil<br>mixed<br>door<br>patch<br>pattern<br>october<br>flash<br>slab<br>trick<br>aim
+bip_39_word_new_br2: prize<br>float
+bip_39_word_new_br3: prize<br>float<br>evil
+bip_39_word_new_br4: prize<br>float<br>evil<br>mixed
+bip_39_word_new_br5: prize<br>float<br>evil<br>mixed<br>door
+bip_39_word_new_br6: prize<br>float<br>evil<br>mixed<br>door<br>patch
+bip_39_word_new_br7: prize<br>float<br>evil<br>mixed<br>door<br>patch<br>pattern
+bip_39_word_new_br8: prize<br>float<br>evil<br>mixed<br>door<br>patch<br>pattern<br>october
+bip_39_word_new_br9: prize<br>float<br>evil<br>mixed<br>door<br>patch<br>pattern<br>october<br>flash
+bip_39_word_new_line1: prize
+bip_39_word_new_line10: 'prize
+
+  float
+
+  evil
+
+  mixed
+
+  door
+
+  patch
+
+  pattern
+
+  october
+
+  flash
+
+  slab'
+bip_39_word_new_line11: 'prize
+
+  float
+
+  evil
+
+  mixed
+
+  door
+
+  patch
+
+  pattern
+
+  october
+
+  flash
+
+  slab
+
+  trick'
+bip_39_word_new_line12: 'prize
+
+  float
+
+  evil
+
+  mixed
+
+  door
+
+  patch
+
+  pattern
+
+  october
+
+  flash
+
+  slab
+
+  trick
+
+  aim'
+bip_39_word_new_line2: 'prize
+
+  float'
+bip_39_word_new_line3: 'prize
+
+  float
+
+  evil'
+bip_39_word_new_line4: 'prize
+
+  float
+
+  evil
+
+  mixed'
+bip_39_word_new_line5: 'prize
+
+  float
+
+  evil
+
+  mixed
+
+  door'
+bip_39_word_new_line6: 'prize
+
+  float
+
+  evil
+
+  mixed
+
+  door
+
+  patch'
+bip_39_word_new_line7: 'prize
+
+  float
+
+  evil
+
+  mixed
+
+  door
+
+  patch
+
+  pattern'
+bip_39_word_new_line8: 'prize
+
+  float
+
+  evil
+
+  mixed
+
+  door
+
+  patch
+
+  pattern
+
+  october'
+bip_39_word_new_line9: 'prize
+
+  float
+
+  evil
+
+  mixed
+
+  door
+
+  patch
+
+  pattern
+
+  october
+
+  flash'
+bip_39_word_space_0:
+- prize
+- float
+- evil
+- mixed
+- door
+- patch
+- pattern
+- october
+- flash
+- slab
+- trick
+- aim
+bip_39_word_space_1: prize
+bip_39_word_space_10: prize float evil mixed door patch pattern october flash slab
+bip_39_word_space_11: prize float evil mixed door patch pattern october flash slab
+  trick
+bip_39_word_space_12: prize float evil mixed door patch pattern october flash slab
+  trick aim
+bip_39_word_space_2: prize float
+bip_39_word_space_3: prize float evil
+bip_39_word_space_4: prize float evil mixed
+bip_39_word_space_5: prize float evil mixed door
+bip_39_word_space_6: prize float evil mixed door patch
+bip_39_word_space_7: prize float evil mixed door patch pattern
+bip_39_word_space_8: prize float evil mixed door patch pattern october
+bip_39_word_space_9: prize float evil mixed door patch pattern october flash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

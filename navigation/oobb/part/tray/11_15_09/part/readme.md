@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: perfect outdoor
+  * bip 39 word 3: perfect outdoor follow
+  * bip 39 word: perfect outdoor follow sausage crisp globe still early hand famous flavor actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | perfect |  
+| bip_39_word_new_br10 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous |  
+| bip_39_word_new_br11 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor |  
+| bip_39_word_new_br12 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor<br>actual |  
+| bip_39_word_new_br2 | perfect<br>outdoor |  
+| bip_39_word_new_br3 | perfect<br>outdoor<br>follow |  
+| bip_39_word_new_br4 | perfect<br>outdoor<br>follow<br>sausage |  
+| bip_39_word_new_br5 | perfect<br>outdoor<br>follow<br>sausage<br>crisp |  
+| bip_39_word_new_br6 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe |  
+| bip_39_word_new_br7 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still |  
+| bip_39_word_new_br8 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early |  
+| bip_39_word_new_br9 | perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand |  
+| bip_39_word_new_line1 | perfect |  
+| bip_39_word_new_line10 | perfect
+outdoor
+follow
+sausage
+crisp
+globe
+still
+early
+hand
+famous |  
+| bip_39_word_new_line11 | perfect
+outdoor
+follow
+sausage
+crisp
+globe
+still
+early
+hand
+famous
+flavor |  
+| bip_39_word_new_line12 | perfect
+outdoor
+follow
+sausage
+crisp
+globe
+still
+early
+hand
+famous
+flavor
+actual |  
+| bip_39_word_new_line2 | perfect
+outdoor |  
+| bip_39_word_new_line3 | perfect
+outdoor
+follow |  
+| bip_39_word_new_line4 | perfect
+outdoor
+follow
+sausage |  
+| bip_39_word_new_line5 | perfect
+outdoor
+follow
+sausage
+crisp |  
+| bip_39_word_new_line6 | perfect
+outdoor
+follow
+sausage
+crisp
+globe |  
+| bip_39_word_new_line7 | perfect
+outdoor
+follow
+sausage
+crisp
+globe
+still |  
+| bip_39_word_new_line8 | perfect
+outdoor
+follow
+sausage
+crisp
+globe
+still
+early |  
+| bip_39_word_new_line9 | perfect
+outdoor
+follow
+sausage
+crisp
+globe
+still
+early
+hand |  
+| bip_39_word_space_0 | ['perfect', 'outdoor', 'follow', 'sausage', 'crisp', 'globe', 'still', 'early', 'hand', 'famous', 'flavor', 'actual'] |  
+| bip_39_word_space_1 | perfect |  
+| bip_39_word_space_10 | perfect outdoor follow sausage crisp globe still early hand famous |  
+| bip_39_word_space_11 | perfect outdoor follow sausage crisp globe still early hand famous flavor |  
+| bip_39_word_space_12 | perfect outdoor follow sausage crisp globe still early hand famous flavor actual |  
+| bip_39_word_space_2 | perfect outdoor |  
+| bip_39_word_space_3 | perfect outdoor follow |  
+| bip_39_word_space_4 | perfect outdoor follow sausage |  
+| bip_39_word_space_5 | perfect outdoor follow sausage crisp |  
+| bip_39_word_space_6 | perfect outdoor follow sausage crisp globe |  
+| bip_39_word_space_7 | perfect outdoor follow sausage crisp globe still |  
+| bip_39_word_space_8 | perfect outdoor follow sausage crisp globe still early |  
+| bip_39_word_space_9 | perfect outdoor follow sausage crisp globe still early hand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

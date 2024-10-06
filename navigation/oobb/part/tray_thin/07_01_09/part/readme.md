@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: company knife
+  * bip 39 word 3: company knife resemble
+  * bip 39 word: company knife resemble client across pluck swift year spare season equip another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | company |  
+| bip_39_word_new_br10 | company<br>knife<br>resemble<br>client<br>across<br>pluck<br>swift<br>year<br>spare<br>season |  
+| bip_39_word_new_br11 | company<br>knife<br>resemble<br>client<br>across<br>pluck<br>swift<br>year<br>spare<br>season<br>equip |  
+| bip_39_word_new_br12 | company<br>knife<br>resemble<br>client<br>across<br>pluck<br>swift<br>year<br>spare<br>season<br>equip<br>another |  
+| bip_39_word_new_br2 | company<br>knife |  
+| bip_39_word_new_br3 | company<br>knife<br>resemble |  
+| bip_39_word_new_br4 | company<br>knife<br>resemble<br>client |  
+| bip_39_word_new_br5 | company<br>knife<br>resemble<br>client<br>across |  
+| bip_39_word_new_br6 | company<br>knife<br>resemble<br>client<br>across<br>pluck |  
+| bip_39_word_new_br7 | company<br>knife<br>resemble<br>client<br>across<br>pluck<br>swift |  
+| bip_39_word_new_br8 | company<br>knife<br>resemble<br>client<br>across<br>pluck<br>swift<br>year |  
+| bip_39_word_new_br9 | company<br>knife<br>resemble<br>client<br>across<br>pluck<br>swift<br>year<br>spare |  
+| bip_39_word_new_line1 | company |  
+| bip_39_word_new_line10 | company
+knife
+resemble
+client
+across
+pluck
+swift
+year
+spare
+season |  
+| bip_39_word_new_line11 | company
+knife
+resemble
+client
+across
+pluck
+swift
+year
+spare
+season
+equip |  
+| bip_39_word_new_line12 | company
+knife
+resemble
+client
+across
+pluck
+swift
+year
+spare
+season
+equip
+another |  
+| bip_39_word_new_line2 | company
+knife |  
+| bip_39_word_new_line3 | company
+knife
+resemble |  
+| bip_39_word_new_line4 | company
+knife
+resemble
+client |  
+| bip_39_word_new_line5 | company
+knife
+resemble
+client
+across |  
+| bip_39_word_new_line6 | company
+knife
+resemble
+client
+across
+pluck |  
+| bip_39_word_new_line7 | company
+knife
+resemble
+client
+across
+pluck
+swift |  
+| bip_39_word_new_line8 | company
+knife
+resemble
+client
+across
+pluck
+swift
+year |  
+| bip_39_word_new_line9 | company
+knife
+resemble
+client
+across
+pluck
+swift
+year
+spare |  
+| bip_39_word_space_0 | ['company', 'knife', 'resemble', 'client', 'across', 'pluck', 'swift', 'year', 'spare', 'season', 'equip', 'another'] |  
+| bip_39_word_space_1 | company |  
+| bip_39_word_space_10 | company knife resemble client across pluck swift year spare season |  
+| bip_39_word_space_11 | company knife resemble client across pluck swift year spare season equip |  
+| bip_39_word_space_12 | company knife resemble client across pluck swift year spare season equip another |  
+| bip_39_word_space_2 | company knife |  
+| bip_39_word_space_3 | company knife resemble |  
+| bip_39_word_space_4 | company knife resemble client |  
+| bip_39_word_space_5 | company knife resemble client across |  
+| bip_39_word_space_6 | company knife resemble client across pluck |  
+| bip_39_word_space_7 | company knife resemble client across pluck swift |  
+| bip_39_word_space_8 | company knife resemble client across pluck swift year |  
+| bip_39_word_space_9 | company knife resemble client across pluck swift year spare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

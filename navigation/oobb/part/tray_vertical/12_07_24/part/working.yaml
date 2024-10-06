@@ -1,3 +1,186 @@
+bip_39_word_new_br1: bridge
+bip_39_word_new_br10: bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz
+bip_39_word_new_br11: bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz<br>action
+bip_39_word_new_br12: bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float<br>buzz<br>action<br>advice
+bip_39_word_new_br2: bridge<br>lady
+bip_39_word_new_br3: bridge<br>lady<br>verb
+bip_39_word_new_br4: bridge<br>lady<br>verb<br>luggage
+bip_39_word_new_br5: bridge<br>lady<br>verb<br>luggage<br>believe
+bip_39_word_new_br6: bridge<br>lady<br>verb<br>luggage<br>believe<br>piece
+bip_39_word_new_br7: bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp
+bip_39_word_new_br8: bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge
+bip_39_word_new_br9: bridge<br>lady<br>verb<br>luggage<br>believe<br>piece<br>swamp<br>urge<br>float
+bip_39_word_new_line1: bridge
+bip_39_word_new_line10: 'bridge
+
+  lady
+
+  verb
+
+  luggage
+
+  believe
+
+  piece
+
+  swamp
+
+  urge
+
+  float
+
+  buzz'
+bip_39_word_new_line11: 'bridge
+
+  lady
+
+  verb
+
+  luggage
+
+  believe
+
+  piece
+
+  swamp
+
+  urge
+
+  float
+
+  buzz
+
+  action'
+bip_39_word_new_line12: 'bridge
+
+  lady
+
+  verb
+
+  luggage
+
+  believe
+
+  piece
+
+  swamp
+
+  urge
+
+  float
+
+  buzz
+
+  action
+
+  advice'
+bip_39_word_new_line2: 'bridge
+
+  lady'
+bip_39_word_new_line3: 'bridge
+
+  lady
+
+  verb'
+bip_39_word_new_line4: 'bridge
+
+  lady
+
+  verb
+
+  luggage'
+bip_39_word_new_line5: 'bridge
+
+  lady
+
+  verb
+
+  luggage
+
+  believe'
+bip_39_word_new_line6: 'bridge
+
+  lady
+
+  verb
+
+  luggage
+
+  believe
+
+  piece'
+bip_39_word_new_line7: 'bridge
+
+  lady
+
+  verb
+
+  luggage
+
+  believe
+
+  piece
+
+  swamp'
+bip_39_word_new_line8: 'bridge
+
+  lady
+
+  verb
+
+  luggage
+
+  believe
+
+  piece
+
+  swamp
+
+  urge'
+bip_39_word_new_line9: 'bridge
+
+  lady
+
+  verb
+
+  luggage
+
+  believe
+
+  piece
+
+  swamp
+
+  urge
+
+  float'
+bip_39_word_space_0:
+- bridge
+- lady
+- verb
+- luggage
+- believe
+- piece
+- swamp
+- urge
+- float
+- buzz
+- action
+- advice
+bip_39_word_space_1: bridge
+bip_39_word_space_10: bridge lady verb luggage believe piece swamp urge float buzz
+bip_39_word_space_11: bridge lady verb luggage believe piece swamp urge float buzz
+  action
+bip_39_word_space_12: bridge lady verb luggage believe piece swamp urge float buzz
+  action advice
+bip_39_word_space_2: bridge lady
+bip_39_word_space_3: bridge lady verb
+bip_39_word_space_4: bridge lady verb luggage
+bip_39_word_space_5: bridge lady verb luggage believe
+bip_39_word_space_6: bridge lady verb luggage believe piece
+bip_39_word_space_7: bridge lady verb luggage believe piece swamp
+bip_39_word_space_8: bridge lady verb luggage believe piece swamp urge
+bip_39_word_space_9: bridge lady verb luggage believe piece swamp urge float
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

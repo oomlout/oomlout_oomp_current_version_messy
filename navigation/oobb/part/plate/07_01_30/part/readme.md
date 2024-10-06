@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nice culture
+  * bip 39 word 3: nice culture kiwi
+  * bip 39 word: nice culture kiwi swarm couch evolve corn cost cereal garden math arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | nice |  
+| bip_39_word_new_br10 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal<br>garden |  
+| bip_39_word_new_br11 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal<br>garden<br>math |  
+| bip_39_word_new_br12 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal<br>garden<br>math<br>arctic |  
+| bip_39_word_new_br2 | nice<br>culture |  
+| bip_39_word_new_br3 | nice<br>culture<br>kiwi |  
+| bip_39_word_new_br4 | nice<br>culture<br>kiwi<br>swarm |  
+| bip_39_word_new_br5 | nice<br>culture<br>kiwi<br>swarm<br>couch |  
+| bip_39_word_new_br6 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve |  
+| bip_39_word_new_br7 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn |  
+| bip_39_word_new_br8 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost |  
+| bip_39_word_new_br9 | nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal |  
+| bip_39_word_new_line1 | nice |  
+| bip_39_word_new_line10 | nice
+culture
+kiwi
+swarm
+couch
+evolve
+corn
+cost
+cereal
+garden |  
+| bip_39_word_new_line11 | nice
+culture
+kiwi
+swarm
+couch
+evolve
+corn
+cost
+cereal
+garden
+math |  
+| bip_39_word_new_line12 | nice
+culture
+kiwi
+swarm
+couch
+evolve
+corn
+cost
+cereal
+garden
+math
+arctic |  
+| bip_39_word_new_line2 | nice
+culture |  
+| bip_39_word_new_line3 | nice
+culture
+kiwi |  
+| bip_39_word_new_line4 | nice
+culture
+kiwi
+swarm |  
+| bip_39_word_new_line5 | nice
+culture
+kiwi
+swarm
+couch |  
+| bip_39_word_new_line6 | nice
+culture
+kiwi
+swarm
+couch
+evolve |  
+| bip_39_word_new_line7 | nice
+culture
+kiwi
+swarm
+couch
+evolve
+corn |  
+| bip_39_word_new_line8 | nice
+culture
+kiwi
+swarm
+couch
+evolve
+corn
+cost |  
+| bip_39_word_new_line9 | nice
+culture
+kiwi
+swarm
+couch
+evolve
+corn
+cost
+cereal |  
+| bip_39_word_space_0 | ['nice', 'culture', 'kiwi', 'swarm', 'couch', 'evolve', 'corn', 'cost', 'cereal', 'garden', 'math', 'arctic'] |  
+| bip_39_word_space_1 | nice |  
+| bip_39_word_space_10 | nice culture kiwi swarm couch evolve corn cost cereal garden |  
+| bip_39_word_space_11 | nice culture kiwi swarm couch evolve corn cost cereal garden math |  
+| bip_39_word_space_12 | nice culture kiwi swarm couch evolve corn cost cereal garden math arctic |  
+| bip_39_word_space_2 | nice culture |  
+| bip_39_word_space_3 | nice culture kiwi |  
+| bip_39_word_space_4 | nice culture kiwi swarm |  
+| bip_39_word_space_5 | nice culture kiwi swarm couch |  
+| bip_39_word_space_6 | nice culture kiwi swarm couch evolve |  
+| bip_39_word_space_7 | nice culture kiwi swarm couch evolve corn |  
+| bip_39_word_space_8 | nice culture kiwi swarm couch evolve corn cost |  
+| bip_39_word_space_9 | nice culture kiwi swarm couch evolve corn cost cereal |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

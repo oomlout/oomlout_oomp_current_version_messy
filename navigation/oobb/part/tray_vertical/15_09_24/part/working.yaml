@@ -1,3 +1,186 @@
+bip_39_word_new_br1: ski
+bip_39_word_new_br10: ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable
+bip_39_word_new_br11: ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable<br>fly
+bip_39_word_new_br12: ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround<br>unable<br>fly<br>aunt
+bip_39_word_new_br2: ski<br>swim
+bip_39_word_new_br3: ski<br>swim<br>license
+bip_39_word_new_br4: ski<br>swim<br>license<br>lock
+bip_39_word_new_br5: ski<br>swim<br>license<br>lock<br>region
+bip_39_word_new_br6: ski<br>swim<br>license<br>lock<br>region<br>digital
+bip_39_word_new_br7: ski<br>swim<br>license<br>lock<br>region<br>digital<br>very
+bip_39_word_new_br8: ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot
+bip_39_word_new_br9: ski<br>swim<br>license<br>lock<br>region<br>digital<br>very<br>riot<br>surround
+bip_39_word_new_line1: ski
+bip_39_word_new_line10: 'ski
+
+  swim
+
+  license
+
+  lock
+
+  region
+
+  digital
+
+  very
+
+  riot
+
+  surround
+
+  unable'
+bip_39_word_new_line11: 'ski
+
+  swim
+
+  license
+
+  lock
+
+  region
+
+  digital
+
+  very
+
+  riot
+
+  surround
+
+  unable
+
+  fly'
+bip_39_word_new_line12: 'ski
+
+  swim
+
+  license
+
+  lock
+
+  region
+
+  digital
+
+  very
+
+  riot
+
+  surround
+
+  unable
+
+  fly
+
+  aunt'
+bip_39_word_new_line2: 'ski
+
+  swim'
+bip_39_word_new_line3: 'ski
+
+  swim
+
+  license'
+bip_39_word_new_line4: 'ski
+
+  swim
+
+  license
+
+  lock'
+bip_39_word_new_line5: 'ski
+
+  swim
+
+  license
+
+  lock
+
+  region'
+bip_39_word_new_line6: 'ski
+
+  swim
+
+  license
+
+  lock
+
+  region
+
+  digital'
+bip_39_word_new_line7: 'ski
+
+  swim
+
+  license
+
+  lock
+
+  region
+
+  digital
+
+  very'
+bip_39_word_new_line8: 'ski
+
+  swim
+
+  license
+
+  lock
+
+  region
+
+  digital
+
+  very
+
+  riot'
+bip_39_word_new_line9: 'ski
+
+  swim
+
+  license
+
+  lock
+
+  region
+
+  digital
+
+  very
+
+  riot
+
+  surround'
+bip_39_word_space_0:
+- ski
+- swim
+- license
+- lock
+- region
+- digital
+- very
+- riot
+- surround
+- unable
+- fly
+- aunt
+bip_39_word_space_1: ski
+bip_39_word_space_10: ski swim license lock region digital very riot surround unable
+bip_39_word_space_11: ski swim license lock region digital very riot surround unable
+  fly
+bip_39_word_space_12: ski swim license lock region digital very riot surround unable
+  fly aunt
+bip_39_word_space_2: ski swim
+bip_39_word_space_3: ski swim license
+bip_39_word_space_4: ski swim license lock
+bip_39_word_space_5: ski swim license lock region
+bip_39_word_space_6: ski swim license lock region digital
+bip_39_word_space_7: ski swim license lock region digital very
+bip_39_word_space_8: ski swim license lock region digital very riot
+bip_39_word_space_9: ski swim license lock region digital very riot surround
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: fury
+bip_39_word_new_br10: fury<br>soft<br>pitch<br>piece<br>flash<br>define<br>point<br>elegant<br>faith<br>owner
+bip_39_word_new_br11: fury<br>soft<br>pitch<br>piece<br>flash<br>define<br>point<br>elegant<br>faith<br>owner<br>amount
+bip_39_word_new_br12: fury<br>soft<br>pitch<br>piece<br>flash<br>define<br>point<br>elegant<br>faith<br>owner<br>amount<br>analyst
+bip_39_word_new_br2: fury<br>soft
+bip_39_word_new_br3: fury<br>soft<br>pitch
+bip_39_word_new_br4: fury<br>soft<br>pitch<br>piece
+bip_39_word_new_br5: fury<br>soft<br>pitch<br>piece<br>flash
+bip_39_word_new_br6: fury<br>soft<br>pitch<br>piece<br>flash<br>define
+bip_39_word_new_br7: fury<br>soft<br>pitch<br>piece<br>flash<br>define<br>point
+bip_39_word_new_br8: fury<br>soft<br>pitch<br>piece<br>flash<br>define<br>point<br>elegant
+bip_39_word_new_br9: fury<br>soft<br>pitch<br>piece<br>flash<br>define<br>point<br>elegant<br>faith
+bip_39_word_new_line1: fury
+bip_39_word_new_line10: 'fury
+
+  soft
+
+  pitch
+
+  piece
+
+  flash
+
+  define
+
+  point
+
+  elegant
+
+  faith
+
+  owner'
+bip_39_word_new_line11: 'fury
+
+  soft
+
+  pitch
+
+  piece
+
+  flash
+
+  define
+
+  point
+
+  elegant
+
+  faith
+
+  owner
+
+  amount'
+bip_39_word_new_line12: 'fury
+
+  soft
+
+  pitch
+
+  piece
+
+  flash
+
+  define
+
+  point
+
+  elegant
+
+  faith
+
+  owner
+
+  amount
+
+  analyst'
+bip_39_word_new_line2: 'fury
+
+  soft'
+bip_39_word_new_line3: 'fury
+
+  soft
+
+  pitch'
+bip_39_word_new_line4: 'fury
+
+  soft
+
+  pitch
+
+  piece'
+bip_39_word_new_line5: 'fury
+
+  soft
+
+  pitch
+
+  piece
+
+  flash'
+bip_39_word_new_line6: 'fury
+
+  soft
+
+  pitch
+
+  piece
+
+  flash
+
+  define'
+bip_39_word_new_line7: 'fury
+
+  soft
+
+  pitch
+
+  piece
+
+  flash
+
+  define
+
+  point'
+bip_39_word_new_line8: 'fury
+
+  soft
+
+  pitch
+
+  piece
+
+  flash
+
+  define
+
+  point
+
+  elegant'
+bip_39_word_new_line9: 'fury
+
+  soft
+
+  pitch
+
+  piece
+
+  flash
+
+  define
+
+  point
+
+  elegant
+
+  faith'
+bip_39_word_space_0:
+- fury
+- soft
+- pitch
+- piece
+- flash
+- define
+- point
+- elegant
+- faith
+- owner
+- amount
+- analyst
+bip_39_word_space_1: fury
+bip_39_word_space_10: fury soft pitch piece flash define point elegant faith owner
+bip_39_word_space_11: fury soft pitch piece flash define point elegant faith owner
+  amount
+bip_39_word_space_12: fury soft pitch piece flash define point elegant faith owner
+  amount analyst
+bip_39_word_space_2: fury soft
+bip_39_word_space_3: fury soft pitch
+bip_39_word_space_4: fury soft pitch piece
+bip_39_word_space_5: fury soft pitch piece flash
+bip_39_word_space_6: fury soft pitch piece flash define
+bip_39_word_space_7: fury soft pitch piece flash define point
+bip_39_word_space_8: fury soft pitch piece flash define point elegant
+bip_39_word_space_9: fury soft pitch piece flash define point elegant faith
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

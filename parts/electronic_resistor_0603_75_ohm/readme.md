@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: day sort
+  * bip 39 word 3: day sort refuse
+  * bip 39 word: day sort refuse turtle blame clean drama wide half fatal snow aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | day |  
+| bip_39_word_new_br10 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean<br>drama<br>wide<br>half<br>fatal |  
+| bip_39_word_new_br11 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean<br>drama<br>wide<br>half<br>fatal<br>snow |  
+| bip_39_word_new_br12 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean<br>drama<br>wide<br>half<br>fatal<br>snow<br>aspect |  
+| bip_39_word_new_br2 | day<br>sort |  
+| bip_39_word_new_br3 | day<br>sort<br>refuse |  
+| bip_39_word_new_br4 | day<br>sort<br>refuse<br>turtle |  
+| bip_39_word_new_br5 | day<br>sort<br>refuse<br>turtle<br>blame |  
+| bip_39_word_new_br6 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean |  
+| bip_39_word_new_br7 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean<br>drama |  
+| bip_39_word_new_br8 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean<br>drama<br>wide |  
+| bip_39_word_new_br9 | day<br>sort<br>refuse<br>turtle<br>blame<br>clean<br>drama<br>wide<br>half |  
+| bip_39_word_new_line1 | day |  
+| bip_39_word_new_line10 | day
+sort
+refuse
+turtle
+blame
+clean
+drama
+wide
+half
+fatal |  
+| bip_39_word_new_line11 | day
+sort
+refuse
+turtle
+blame
+clean
+drama
+wide
+half
+fatal
+snow |  
+| bip_39_word_new_line12 | day
+sort
+refuse
+turtle
+blame
+clean
+drama
+wide
+half
+fatal
+snow
+aspect |  
+| bip_39_word_new_line2 | day
+sort |  
+| bip_39_word_new_line3 | day
+sort
+refuse |  
+| bip_39_word_new_line4 | day
+sort
+refuse
+turtle |  
+| bip_39_word_new_line5 | day
+sort
+refuse
+turtle
+blame |  
+| bip_39_word_new_line6 | day
+sort
+refuse
+turtle
+blame
+clean |  
+| bip_39_word_new_line7 | day
+sort
+refuse
+turtle
+blame
+clean
+drama |  
+| bip_39_word_new_line8 | day
+sort
+refuse
+turtle
+blame
+clean
+drama
+wide |  
+| bip_39_word_new_line9 | day
+sort
+refuse
+turtle
+blame
+clean
+drama
+wide
+half |  
+| bip_39_word_space_0 | ['day', 'sort', 'refuse', 'turtle', 'blame', 'clean', 'drama', 'wide', 'half', 'fatal', 'snow', 'aspect'] |  
+| bip_39_word_space_1 | day |  
+| bip_39_word_space_10 | day sort refuse turtle blame clean drama wide half fatal |  
+| bip_39_word_space_11 | day sort refuse turtle blame clean drama wide half fatal snow |  
+| bip_39_word_space_12 | day sort refuse turtle blame clean drama wide half fatal snow aspect |  
+| bip_39_word_space_2 | day sort |  
+| bip_39_word_space_3 | day sort refuse |  
+| bip_39_word_space_4 | day sort refuse turtle |  
+| bip_39_word_space_5 | day sort refuse turtle blame |  
+| bip_39_word_space_6 | day sort refuse turtle blame clean |  
+| bip_39_word_space_7 | day sort refuse turtle blame clean drama |  
+| bip_39_word_space_8 | day sort refuse turtle blame clean drama wide |  
+| bip_39_word_space_9 | day sort refuse turtle blame clean drama wide half |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

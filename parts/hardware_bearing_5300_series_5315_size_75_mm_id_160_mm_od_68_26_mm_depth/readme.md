@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: fly fortune
+  * bip 39 word 3: fly fortune skate
+  * bip 39 word: fly fortune skate same chuckle corn cotton machine prosper supply slot antique
 
 ### other_codes
 * short_code: br5315
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | fly |  
+| bip_39_word_new_br10 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn<br>cotton<br>machine<br>prosper<br>supply |  
+| bip_39_word_new_br11 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn<br>cotton<br>machine<br>prosper<br>supply<br>slot |  
+| bip_39_word_new_br12 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn<br>cotton<br>machine<br>prosper<br>supply<br>slot<br>antique |  
+| bip_39_word_new_br2 | fly<br>fortune |  
+| bip_39_word_new_br3 | fly<br>fortune<br>skate |  
+| bip_39_word_new_br4 | fly<br>fortune<br>skate<br>same |  
+| bip_39_word_new_br5 | fly<br>fortune<br>skate<br>same<br>chuckle |  
+| bip_39_word_new_br6 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn |  
+| bip_39_word_new_br7 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn<br>cotton |  
+| bip_39_word_new_br8 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn<br>cotton<br>machine |  
+| bip_39_word_new_br9 | fly<br>fortune<br>skate<br>same<br>chuckle<br>corn<br>cotton<br>machine<br>prosper |  
+| bip_39_word_new_line1 | fly |  
+| bip_39_word_new_line10 | fly
+fortune
+skate
+same
+chuckle
+corn
+cotton
+machine
+prosper
+supply |  
+| bip_39_word_new_line11 | fly
+fortune
+skate
+same
+chuckle
+corn
+cotton
+machine
+prosper
+supply
+slot |  
+| bip_39_word_new_line12 | fly
+fortune
+skate
+same
+chuckle
+corn
+cotton
+machine
+prosper
+supply
+slot
+antique |  
+| bip_39_word_new_line2 | fly
+fortune |  
+| bip_39_word_new_line3 | fly
+fortune
+skate |  
+| bip_39_word_new_line4 | fly
+fortune
+skate
+same |  
+| bip_39_word_new_line5 | fly
+fortune
+skate
+same
+chuckle |  
+| bip_39_word_new_line6 | fly
+fortune
+skate
+same
+chuckle
+corn |  
+| bip_39_word_new_line7 | fly
+fortune
+skate
+same
+chuckle
+corn
+cotton |  
+| bip_39_word_new_line8 | fly
+fortune
+skate
+same
+chuckle
+corn
+cotton
+machine |  
+| bip_39_word_new_line9 | fly
+fortune
+skate
+same
+chuckle
+corn
+cotton
+machine
+prosper |  
+| bip_39_word_space_0 | ['fly', 'fortune', 'skate', 'same', 'chuckle', 'corn', 'cotton', 'machine', 'prosper', 'supply', 'slot', 'antique'] |  
+| bip_39_word_space_1 | fly |  
+| bip_39_word_space_10 | fly fortune skate same chuckle corn cotton machine prosper supply |  
+| bip_39_word_space_11 | fly fortune skate same chuckle corn cotton machine prosper supply slot |  
+| bip_39_word_space_12 | fly fortune skate same chuckle corn cotton machine prosper supply slot antique |  
+| bip_39_word_space_2 | fly fortune |  
+| bip_39_word_space_3 | fly fortune skate |  
+| bip_39_word_space_4 | fly fortune skate same |  
+| bip_39_word_space_5 | fly fortune skate same chuckle |  
+| bip_39_word_space_6 | fly fortune skate same chuckle corn |  
+| bip_39_word_space_7 | fly fortune skate same chuckle corn cotton |  
+| bip_39_word_space_8 | fly fortune skate same chuckle corn cotton machine |  
+| bip_39_word_space_9 | fly fortune skate same chuckle corn cotton machine prosper |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

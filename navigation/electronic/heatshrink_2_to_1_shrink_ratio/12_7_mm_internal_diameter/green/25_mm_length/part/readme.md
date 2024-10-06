@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cable gospel
+  * bip 39 word 3: cable gospel foster
+  * bip 39 word: cable gospel foster muscle raccoon woman canvas abstract turkey present maximum artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cable |  
+| bip_39_word_new_br10 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman<br>canvas<br>abstract<br>turkey<br>present |  
+| bip_39_word_new_br11 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman<br>canvas<br>abstract<br>turkey<br>present<br>maximum |  
+| bip_39_word_new_br12 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman<br>canvas<br>abstract<br>turkey<br>present<br>maximum<br>artwork |  
+| bip_39_word_new_br2 | cable<br>gospel |  
+| bip_39_word_new_br3 | cable<br>gospel<br>foster |  
+| bip_39_word_new_br4 | cable<br>gospel<br>foster<br>muscle |  
+| bip_39_word_new_br5 | cable<br>gospel<br>foster<br>muscle<br>raccoon |  
+| bip_39_word_new_br6 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman |  
+| bip_39_word_new_br7 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman<br>canvas |  
+| bip_39_word_new_br8 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman<br>canvas<br>abstract |  
+| bip_39_word_new_br9 | cable<br>gospel<br>foster<br>muscle<br>raccoon<br>woman<br>canvas<br>abstract<br>turkey |  
+| bip_39_word_new_line1 | cable |  
+| bip_39_word_new_line10 | cable
+gospel
+foster
+muscle
+raccoon
+woman
+canvas
+abstract
+turkey
+present |  
+| bip_39_word_new_line11 | cable
+gospel
+foster
+muscle
+raccoon
+woman
+canvas
+abstract
+turkey
+present
+maximum |  
+| bip_39_word_new_line12 | cable
+gospel
+foster
+muscle
+raccoon
+woman
+canvas
+abstract
+turkey
+present
+maximum
+artwork |  
+| bip_39_word_new_line2 | cable
+gospel |  
+| bip_39_word_new_line3 | cable
+gospel
+foster |  
+| bip_39_word_new_line4 | cable
+gospel
+foster
+muscle |  
+| bip_39_word_new_line5 | cable
+gospel
+foster
+muscle
+raccoon |  
+| bip_39_word_new_line6 | cable
+gospel
+foster
+muscle
+raccoon
+woman |  
+| bip_39_word_new_line7 | cable
+gospel
+foster
+muscle
+raccoon
+woman
+canvas |  
+| bip_39_word_new_line8 | cable
+gospel
+foster
+muscle
+raccoon
+woman
+canvas
+abstract |  
+| bip_39_word_new_line9 | cable
+gospel
+foster
+muscle
+raccoon
+woman
+canvas
+abstract
+turkey |  
+| bip_39_word_space_0 | ['cable', 'gospel', 'foster', 'muscle', 'raccoon', 'woman', 'canvas', 'abstract', 'turkey', 'present', 'maximum', 'artwork'] |  
+| bip_39_word_space_1 | cable |  
+| bip_39_word_space_10 | cable gospel foster muscle raccoon woman canvas abstract turkey present |  
+| bip_39_word_space_11 | cable gospel foster muscle raccoon woman canvas abstract turkey present maximum |  
+| bip_39_word_space_12 | cable gospel foster muscle raccoon woman canvas abstract turkey present maximum artwork |  
+| bip_39_word_space_2 | cable gospel |  
+| bip_39_word_space_3 | cable gospel foster |  
+| bip_39_word_space_4 | cable gospel foster muscle |  
+| bip_39_word_space_5 | cable gospel foster muscle raccoon |  
+| bip_39_word_space_6 | cable gospel foster muscle raccoon woman |  
+| bip_39_word_space_7 | cable gospel foster muscle raccoon woman canvas |  
+| bip_39_word_space_8 | cable gospel foster muscle raccoon woman canvas abstract |  
+| bip_39_word_space_9 | cable gospel foster muscle raccoon woman canvas abstract turkey |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

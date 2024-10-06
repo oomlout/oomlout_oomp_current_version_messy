@@ -1,3 +1,187 @@
+bip_39_word_new_br1: estate
+bip_39_word_new_br10: estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage
+bip_39_word_new_br11: estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage<br>marine
+bip_39_word_new_br12: estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet<br>manage<br>marine<br>also
+bip_39_word_new_br2: estate<br>chase
+bip_39_word_new_br3: estate<br>chase<br>angle
+bip_39_word_new_br4: estate<br>chase<br>angle<br>craft
+bip_39_word_new_br5: estate<br>chase<br>angle<br>craft<br>thank
+bip_39_word_new_br6: estate<br>chase<br>angle<br>craft<br>thank<br>segment
+bip_39_word_new_br7: estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome
+bip_39_word_new_br8: estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later
+bip_39_word_new_br9: estate<br>chase<br>angle<br>craft<br>thank<br>segment<br>welcome<br>later<br>magnet
+bip_39_word_new_line1: estate
+bip_39_word_new_line10: 'estate
+
+  chase
+
+  angle
+
+  craft
+
+  thank
+
+  segment
+
+  welcome
+
+  later
+
+  magnet
+
+  manage'
+bip_39_word_new_line11: 'estate
+
+  chase
+
+  angle
+
+  craft
+
+  thank
+
+  segment
+
+  welcome
+
+  later
+
+  magnet
+
+  manage
+
+  marine'
+bip_39_word_new_line12: 'estate
+
+  chase
+
+  angle
+
+  craft
+
+  thank
+
+  segment
+
+  welcome
+
+  later
+
+  magnet
+
+  manage
+
+  marine
+
+  also'
+bip_39_word_new_line2: 'estate
+
+  chase'
+bip_39_word_new_line3: 'estate
+
+  chase
+
+  angle'
+bip_39_word_new_line4: 'estate
+
+  chase
+
+  angle
+
+  craft'
+bip_39_word_new_line5: 'estate
+
+  chase
+
+  angle
+
+  craft
+
+  thank'
+bip_39_word_new_line6: 'estate
+
+  chase
+
+  angle
+
+  craft
+
+  thank
+
+  segment'
+bip_39_word_new_line7: 'estate
+
+  chase
+
+  angle
+
+  craft
+
+  thank
+
+  segment
+
+  welcome'
+bip_39_word_new_line8: 'estate
+
+  chase
+
+  angle
+
+  craft
+
+  thank
+
+  segment
+
+  welcome
+
+  later'
+bip_39_word_new_line9: 'estate
+
+  chase
+
+  angle
+
+  craft
+
+  thank
+
+  segment
+
+  welcome
+
+  later
+
+  magnet'
+bip_39_word_space_0:
+- estate
+- chase
+- angle
+- craft
+- thank
+- segment
+- welcome
+- later
+- magnet
+- manage
+- marine
+- also
+bip_39_word_space_1: estate
+bip_39_word_space_10: estate chase angle craft thank segment welcome later magnet
+  manage
+bip_39_word_space_11: estate chase angle craft thank segment welcome later magnet
+  manage marine
+bip_39_word_space_12: estate chase angle craft thank segment welcome later magnet
+  manage marine also
+bip_39_word_space_2: estate chase
+bip_39_word_space_3: estate chase angle
+bip_39_word_space_4: estate chase angle craft
+bip_39_word_space_5: estate chase angle craft thank
+bip_39_word_space_6: estate chase angle craft thank segment
+bip_39_word_space_7: estate chase angle craft thank segment welcome
+bip_39_word_space_8: estate chase angle craft thank segment welcome later
+bip_39_word_space_9: estate chase angle craft thank segment welcome later magnet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

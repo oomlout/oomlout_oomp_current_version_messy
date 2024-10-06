@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: deer bench
+  * bip 39 word 3: deer bench fee
+  * bip 39 word: deer bench fee jewel battle deny jar ugly category moon action athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | deer |  
+| bip_39_word_new_br10 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny<br>jar<br>ugly<br>category<br>moon |  
+| bip_39_word_new_br11 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny<br>jar<br>ugly<br>category<br>moon<br>action |  
+| bip_39_word_new_br12 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny<br>jar<br>ugly<br>category<br>moon<br>action<br>athlete |  
+| bip_39_word_new_br2 | deer<br>bench |  
+| bip_39_word_new_br3 | deer<br>bench<br>fee |  
+| bip_39_word_new_br4 | deer<br>bench<br>fee<br>jewel |  
+| bip_39_word_new_br5 | deer<br>bench<br>fee<br>jewel<br>battle |  
+| bip_39_word_new_br6 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny |  
+| bip_39_word_new_br7 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny<br>jar |  
+| bip_39_word_new_br8 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny<br>jar<br>ugly |  
+| bip_39_word_new_br9 | deer<br>bench<br>fee<br>jewel<br>battle<br>deny<br>jar<br>ugly<br>category |  
+| bip_39_word_new_line1 | deer |  
+| bip_39_word_new_line10 | deer
+bench
+fee
+jewel
+battle
+deny
+jar
+ugly
+category
+moon |  
+| bip_39_word_new_line11 | deer
+bench
+fee
+jewel
+battle
+deny
+jar
+ugly
+category
+moon
+action |  
+| bip_39_word_new_line12 | deer
+bench
+fee
+jewel
+battle
+deny
+jar
+ugly
+category
+moon
+action
+athlete |  
+| bip_39_word_new_line2 | deer
+bench |  
+| bip_39_word_new_line3 | deer
+bench
+fee |  
+| bip_39_word_new_line4 | deer
+bench
+fee
+jewel |  
+| bip_39_word_new_line5 | deer
+bench
+fee
+jewel
+battle |  
+| bip_39_word_new_line6 | deer
+bench
+fee
+jewel
+battle
+deny |  
+| bip_39_word_new_line7 | deer
+bench
+fee
+jewel
+battle
+deny
+jar |  
+| bip_39_word_new_line8 | deer
+bench
+fee
+jewel
+battle
+deny
+jar
+ugly |  
+| bip_39_word_new_line9 | deer
+bench
+fee
+jewel
+battle
+deny
+jar
+ugly
+category |  
+| bip_39_word_space_0 | ['deer', 'bench', 'fee', 'jewel', 'battle', 'deny', 'jar', 'ugly', 'category', 'moon', 'action', 'athlete'] |  
+| bip_39_word_space_1 | deer |  
+| bip_39_word_space_10 | deer bench fee jewel battle deny jar ugly category moon |  
+| bip_39_word_space_11 | deer bench fee jewel battle deny jar ugly category moon action |  
+| bip_39_word_space_12 | deer bench fee jewel battle deny jar ugly category moon action athlete |  
+| bip_39_word_space_2 | deer bench |  
+| bip_39_word_space_3 | deer bench fee |  
+| bip_39_word_space_4 | deer bench fee jewel |  
+| bip_39_word_space_5 | deer bench fee jewel battle |  
+| bip_39_word_space_6 | deer bench fee jewel battle deny |  
+| bip_39_word_space_7 | deer bench fee jewel battle deny jar |  
+| bip_39_word_space_8 | deer bench fee jewel battle deny jar ugly |  
+| bip_39_word_space_9 | deer bench fee jewel battle deny jar ugly category |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

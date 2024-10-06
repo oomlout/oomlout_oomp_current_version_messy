@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spike comfort
+  * bip 39 word 3: spike comfort offer
+  * bip 39 word: spike comfort offer tornado fury utility violin public spike turn hurt across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spike |  
+| bip_39_word_new_br10 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility<br>violin<br>public<br>spike<br>turn |  
+| bip_39_word_new_br11 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility<br>violin<br>public<br>spike<br>turn<br>hurt |  
+| bip_39_word_new_br12 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility<br>violin<br>public<br>spike<br>turn<br>hurt<br>across |  
+| bip_39_word_new_br2 | spike<br>comfort |  
+| bip_39_word_new_br3 | spike<br>comfort<br>offer |  
+| bip_39_word_new_br4 | spike<br>comfort<br>offer<br>tornado |  
+| bip_39_word_new_br5 | spike<br>comfort<br>offer<br>tornado<br>fury |  
+| bip_39_word_new_br6 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility |  
+| bip_39_word_new_br7 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility<br>violin |  
+| bip_39_word_new_br8 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility<br>violin<br>public |  
+| bip_39_word_new_br9 | spike<br>comfort<br>offer<br>tornado<br>fury<br>utility<br>violin<br>public<br>spike |  
+| bip_39_word_new_line1 | spike |  
+| bip_39_word_new_line10 | spike
+comfort
+offer
+tornado
+fury
+utility
+violin
+public
+spike
+turn |  
+| bip_39_word_new_line11 | spike
+comfort
+offer
+tornado
+fury
+utility
+violin
+public
+spike
+turn
+hurt |  
+| bip_39_word_new_line12 | spike
+comfort
+offer
+tornado
+fury
+utility
+violin
+public
+spike
+turn
+hurt
+across |  
+| bip_39_word_new_line2 | spike
+comfort |  
+| bip_39_word_new_line3 | spike
+comfort
+offer |  
+| bip_39_word_new_line4 | spike
+comfort
+offer
+tornado |  
+| bip_39_word_new_line5 | spike
+comfort
+offer
+tornado
+fury |  
+| bip_39_word_new_line6 | spike
+comfort
+offer
+tornado
+fury
+utility |  
+| bip_39_word_new_line7 | spike
+comfort
+offer
+tornado
+fury
+utility
+violin |  
+| bip_39_word_new_line8 | spike
+comfort
+offer
+tornado
+fury
+utility
+violin
+public |  
+| bip_39_word_new_line9 | spike
+comfort
+offer
+tornado
+fury
+utility
+violin
+public
+spike |  
+| bip_39_word_space_0 | ['spike', 'comfort', 'offer', 'tornado', 'fury', 'utility', 'violin', 'public', 'spike', 'turn', 'hurt', 'across'] |  
+| bip_39_word_space_1 | spike |  
+| bip_39_word_space_10 | spike comfort offer tornado fury utility violin public spike turn |  
+| bip_39_word_space_11 | spike comfort offer tornado fury utility violin public spike turn hurt |  
+| bip_39_word_space_12 | spike comfort offer tornado fury utility violin public spike turn hurt across |  
+| bip_39_word_space_2 | spike comfort |  
+| bip_39_word_space_3 | spike comfort offer |  
+| bip_39_word_space_4 | spike comfort offer tornado |  
+| bip_39_word_space_5 | spike comfort offer tornado fury |  
+| bip_39_word_space_6 | spike comfort offer tornado fury utility |  
+| bip_39_word_space_7 | spike comfort offer tornado fury utility violin |  
+| bip_39_word_space_8 | spike comfort offer tornado fury utility violin public |  
+| bip_39_word_space_9 | spike comfort offer tornado fury utility violin public spike |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

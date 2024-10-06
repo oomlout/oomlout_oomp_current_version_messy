@@ -1,3 +1,187 @@
+bip_39_word_new_br1: empty
+bip_39_word_new_br10: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss<br>deliver
+bip_39_word_new_br11: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss<br>deliver<br>topic
+bip_39_word_new_br12: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss<br>deliver<br>topic<br>afraid
+bip_39_word_new_br2: empty<br>donate
+bip_39_word_new_br3: empty<br>donate<br>gather
+bip_39_word_new_br4: empty<br>donate<br>gather<br>remove
+bip_39_word_new_br5: empty<br>donate<br>gather<br>remove<br>industry
+bip_39_word_new_br6: empty<br>donate<br>gather<br>remove<br>industry<br>morning
+bip_39_word_new_br7: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become
+bip_39_word_new_br8: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance
+bip_39_word_new_br9: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss
+bip_39_word_new_line1: empty
+bip_39_word_new_line10: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance
+
+  kiss
+
+  deliver'
+bip_39_word_new_line11: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance
+
+  kiss
+
+  deliver
+
+  topic'
+bip_39_word_new_line12: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance
+
+  kiss
+
+  deliver
+
+  topic
+
+  afraid'
+bip_39_word_new_line2: 'empty
+
+  donate'
+bip_39_word_new_line3: 'empty
+
+  donate
+
+  gather'
+bip_39_word_new_line4: 'empty
+
+  donate
+
+  gather
+
+  remove'
+bip_39_word_new_line5: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry'
+bip_39_word_new_line6: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning'
+bip_39_word_new_line7: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become'
+bip_39_word_new_line8: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance'
+bip_39_word_new_line9: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance
+
+  kiss'
+bip_39_word_space_0:
+- empty
+- donate
+- gather
+- remove
+- industry
+- morning
+- become
+- romance
+- kiss
+- deliver
+- topic
+- afraid
+bip_39_word_space_1: empty
+bip_39_word_space_10: empty donate gather remove industry morning become romance kiss
+  deliver
+bip_39_word_space_11: empty donate gather remove industry morning become romance kiss
+  deliver topic
+bip_39_word_space_12: empty donate gather remove industry morning become romance kiss
+  deliver topic afraid
+bip_39_word_space_2: empty donate
+bip_39_word_space_3: empty donate gather
+bip_39_word_space_4: empty donate gather remove
+bip_39_word_space_5: empty donate gather remove industry
+bip_39_word_space_6: empty donate gather remove industry morning
+bip_39_word_space_7: empty donate gather remove industry morning become
+bip_39_word_space_8: empty donate gather remove industry morning become romance
+bip_39_word_space_9: empty donate gather remove industry morning become romance kiss
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

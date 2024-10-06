@@ -1,3 +1,186 @@
+bip_39_word_new_br1: argue
+bip_39_word_new_br10: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel<br>heavy<br>athlete<br>enroll<br>moon
+bip_39_word_new_br11: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel<br>heavy<br>athlete<br>enroll<br>moon<br>ozone
+bip_39_word_new_br12: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel<br>heavy<br>athlete<br>enroll<br>moon<br>ozone<br>asset
+bip_39_word_new_br2: argue<br>cat
+bip_39_word_new_br3: argue<br>cat<br>transfer
+bip_39_word_new_br4: argue<br>cat<br>transfer<br>praise
+bip_39_word_new_br5: argue<br>cat<br>transfer<br>praise<br>toy
+bip_39_word_new_br6: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel
+bip_39_word_new_br7: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel<br>heavy
+bip_39_word_new_br8: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel<br>heavy<br>athlete
+bip_39_word_new_br9: argue<br>cat<br>transfer<br>praise<br>toy<br>cancel<br>heavy<br>athlete<br>enroll
+bip_39_word_new_line1: argue
+bip_39_word_new_line10: 'argue
+
+  cat
+
+  transfer
+
+  praise
+
+  toy
+
+  cancel
+
+  heavy
+
+  athlete
+
+  enroll
+
+  moon'
+bip_39_word_new_line11: 'argue
+
+  cat
+
+  transfer
+
+  praise
+
+  toy
+
+  cancel
+
+  heavy
+
+  athlete
+
+  enroll
+
+  moon
+
+  ozone'
+bip_39_word_new_line12: 'argue
+
+  cat
+
+  transfer
+
+  praise
+
+  toy
+
+  cancel
+
+  heavy
+
+  athlete
+
+  enroll
+
+  moon
+
+  ozone
+
+  asset'
+bip_39_word_new_line2: 'argue
+
+  cat'
+bip_39_word_new_line3: 'argue
+
+  cat
+
+  transfer'
+bip_39_word_new_line4: 'argue
+
+  cat
+
+  transfer
+
+  praise'
+bip_39_word_new_line5: 'argue
+
+  cat
+
+  transfer
+
+  praise
+
+  toy'
+bip_39_word_new_line6: 'argue
+
+  cat
+
+  transfer
+
+  praise
+
+  toy
+
+  cancel'
+bip_39_word_new_line7: 'argue
+
+  cat
+
+  transfer
+
+  praise
+
+  toy
+
+  cancel
+
+  heavy'
+bip_39_word_new_line8: 'argue
+
+  cat
+
+  transfer
+
+  praise
+
+  toy
+
+  cancel
+
+  heavy
+
+  athlete'
+bip_39_word_new_line9: 'argue
+
+  cat
+
+  transfer
+
+  praise
+
+  toy
+
+  cancel
+
+  heavy
+
+  athlete
+
+  enroll'
+bip_39_word_space_0:
+- argue
+- cat
+- transfer
+- praise
+- toy
+- cancel
+- heavy
+- athlete
+- enroll
+- moon
+- ozone
+- asset
+bip_39_word_space_1: argue
+bip_39_word_space_10: argue cat transfer praise toy cancel heavy athlete enroll moon
+bip_39_word_space_11: argue cat transfer praise toy cancel heavy athlete enroll moon
+  ozone
+bip_39_word_space_12: argue cat transfer praise toy cancel heavy athlete enroll moon
+  ozone asset
+bip_39_word_space_2: argue cat
+bip_39_word_space_3: argue cat transfer
+bip_39_word_space_4: argue cat transfer praise
+bip_39_word_space_5: argue cat transfer praise toy
+bip_39_word_space_6: argue cat transfer praise toy cancel
+bip_39_word_space_7: argue cat transfer praise toy cancel heavy
+bip_39_word_space_8: argue cat transfer praise toy cancel heavy athlete
+bip_39_word_space_9: argue cat transfer praise toy cancel heavy athlete enroll
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

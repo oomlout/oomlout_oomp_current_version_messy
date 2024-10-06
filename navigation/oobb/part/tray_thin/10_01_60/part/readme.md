@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decline rare
+  * bip 39 word 3: decline rare robust
+  * bip 39 word: decline rare robust mule crash broom morning monster express modify merry amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decline |  
+| bip_39_word_new_br10 | decline<br>rare<br>robust<br>mule<br>crash<br>broom<br>morning<br>monster<br>express<br>modify |  
+| bip_39_word_new_br11 | decline<br>rare<br>robust<br>mule<br>crash<br>broom<br>morning<br>monster<br>express<br>modify<br>merry |  
+| bip_39_word_new_br12 | decline<br>rare<br>robust<br>mule<br>crash<br>broom<br>morning<br>monster<br>express<br>modify<br>merry<br>amused |  
+| bip_39_word_new_br2 | decline<br>rare |  
+| bip_39_word_new_br3 | decline<br>rare<br>robust |  
+| bip_39_word_new_br4 | decline<br>rare<br>robust<br>mule |  
+| bip_39_word_new_br5 | decline<br>rare<br>robust<br>mule<br>crash |  
+| bip_39_word_new_br6 | decline<br>rare<br>robust<br>mule<br>crash<br>broom |  
+| bip_39_word_new_br7 | decline<br>rare<br>robust<br>mule<br>crash<br>broom<br>morning |  
+| bip_39_word_new_br8 | decline<br>rare<br>robust<br>mule<br>crash<br>broom<br>morning<br>monster |  
+| bip_39_word_new_br9 | decline<br>rare<br>robust<br>mule<br>crash<br>broom<br>morning<br>monster<br>express |  
+| bip_39_word_new_line1 | decline |  
+| bip_39_word_new_line10 | decline
+rare
+robust
+mule
+crash
+broom
+morning
+monster
+express
+modify |  
+| bip_39_word_new_line11 | decline
+rare
+robust
+mule
+crash
+broom
+morning
+monster
+express
+modify
+merry |  
+| bip_39_word_new_line12 | decline
+rare
+robust
+mule
+crash
+broom
+morning
+monster
+express
+modify
+merry
+amused |  
+| bip_39_word_new_line2 | decline
+rare |  
+| bip_39_word_new_line3 | decline
+rare
+robust |  
+| bip_39_word_new_line4 | decline
+rare
+robust
+mule |  
+| bip_39_word_new_line5 | decline
+rare
+robust
+mule
+crash |  
+| bip_39_word_new_line6 | decline
+rare
+robust
+mule
+crash
+broom |  
+| bip_39_word_new_line7 | decline
+rare
+robust
+mule
+crash
+broom
+morning |  
+| bip_39_word_new_line8 | decline
+rare
+robust
+mule
+crash
+broom
+morning
+monster |  
+| bip_39_word_new_line9 | decline
+rare
+robust
+mule
+crash
+broom
+morning
+monster
+express |  
+| bip_39_word_space_0 | ['decline', 'rare', 'robust', 'mule', 'crash', 'broom', 'morning', 'monster', 'express', 'modify', 'merry', 'amused'] |  
+| bip_39_word_space_1 | decline |  
+| bip_39_word_space_10 | decline rare robust mule crash broom morning monster express modify |  
+| bip_39_word_space_11 | decline rare robust mule crash broom morning monster express modify merry |  
+| bip_39_word_space_12 | decline rare robust mule crash broom morning monster express modify merry amused |  
+| bip_39_word_space_2 | decline rare |  
+| bip_39_word_space_3 | decline rare robust |  
+| bip_39_word_space_4 | decline rare robust mule |  
+| bip_39_word_space_5 | decline rare robust mule crash |  
+| bip_39_word_space_6 | decline rare robust mule crash broom |  
+| bip_39_word_space_7 | decline rare robust mule crash broom morning |  
+| bip_39_word_space_8 | decline rare robust mule crash broom morning monster |  
+| bip_39_word_space_9 | decline rare robust mule crash broom morning monster express |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

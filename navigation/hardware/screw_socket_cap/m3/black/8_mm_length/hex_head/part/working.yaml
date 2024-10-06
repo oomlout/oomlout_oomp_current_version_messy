@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sniff
+bip_39_word_new_br10: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss<br>blind
+bip_39_word_new_br11: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss<br>blind<br>nut
+bip_39_word_new_br12: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss<br>blind<br>nut<br>analyst
+bip_39_word_new_br2: sniff<br>tennis
+bip_39_word_new_br3: sniff<br>tennis<br>win
+bip_39_word_new_br4: sniff<br>tennis<br>win<br>maximum
+bip_39_word_new_br5: sniff<br>tennis<br>win<br>maximum<br>alien
+bip_39_word_new_br6: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack
+bip_39_word_new_br7: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity
+bip_39_word_new_br8: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ
+bip_39_word_new_br9: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss
+bip_39_word_new_line1: sniff
+bip_39_word_new_line10: 'sniff
+
+  tennis
+
+  win
+
+  maximum
+
+  alien
+
+  attack
+
+  dignity
+
+  employ
+
+  toss
+
+  blind'
+bip_39_word_new_line11: 'sniff
+
+  tennis
+
+  win
+
+  maximum
+
+  alien
+
+  attack
+
+  dignity
+
+  employ
+
+  toss
+
+  blind
+
+  nut'
+bip_39_word_new_line12: 'sniff
+
+  tennis
+
+  win
+
+  maximum
+
+  alien
+
+  attack
+
+  dignity
+
+  employ
+
+  toss
+
+  blind
+
+  nut
+
+  analyst'
+bip_39_word_new_line2: 'sniff
+
+  tennis'
+bip_39_word_new_line3: 'sniff
+
+  tennis
+
+  win'
+bip_39_word_new_line4: 'sniff
+
+  tennis
+
+  win
+
+  maximum'
+bip_39_word_new_line5: 'sniff
+
+  tennis
+
+  win
+
+  maximum
+
+  alien'
+bip_39_word_new_line6: 'sniff
+
+  tennis
+
+  win
+
+  maximum
+
+  alien
+
+  attack'
+bip_39_word_new_line7: 'sniff
+
+  tennis
+
+  win
+
+  maximum
+
+  alien
+
+  attack
+
+  dignity'
+bip_39_word_new_line8: 'sniff
+
+  tennis
+
+  win
+
+  maximum
+
+  alien
+
+  attack
+
+  dignity
+
+  employ'
+bip_39_word_new_line9: 'sniff
+
+  tennis
+
+  win
+
+  maximum
+
+  alien
+
+  attack
+
+  dignity
+
+  employ
+
+  toss'
+bip_39_word_space_0:
+- sniff
+- tennis
+- win
+- maximum
+- alien
+- attack
+- dignity
+- employ
+- toss
+- blind
+- nut
+- analyst
+bip_39_word_space_1: sniff
+bip_39_word_space_10: sniff tennis win maximum alien attack dignity employ toss blind
+bip_39_word_space_11: sniff tennis win maximum alien attack dignity employ toss blind
+  nut
+bip_39_word_space_12: sniff tennis win maximum alien attack dignity employ toss blind
+  nut analyst
+bip_39_word_space_2: sniff tennis
+bip_39_word_space_3: sniff tennis win
+bip_39_word_space_4: sniff tennis win maximum
+bip_39_word_space_5: sniff tennis win maximum alien
+bip_39_word_space_6: sniff tennis win maximum alien attack
+bip_39_word_space_7: sniff tennis win maximum alien attack dignity
+bip_39_word_space_8: sniff tennis win maximum alien attack dignity employ
+bip_39_word_space_9: sniff tennis win maximum alien attack dignity employ toss
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

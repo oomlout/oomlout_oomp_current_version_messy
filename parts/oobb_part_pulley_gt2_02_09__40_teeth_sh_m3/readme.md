@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: donkey piece
+  * bip 39 word 3: donkey piece almost
+  * bip 39 word: donkey piece almost crack tone friend shuffle drum dirt castle lunar angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | donkey |  
+| bip_39_word_new_br10 | donkey<br>piece<br>almost<br>crack<br>tone<br>friend<br>shuffle<br>drum<br>dirt<br>castle |  
+| bip_39_word_new_br11 | donkey<br>piece<br>almost<br>crack<br>tone<br>friend<br>shuffle<br>drum<br>dirt<br>castle<br>lunar |  
+| bip_39_word_new_br12 | donkey<br>piece<br>almost<br>crack<br>tone<br>friend<br>shuffle<br>drum<br>dirt<br>castle<br>lunar<br>angry |  
+| bip_39_word_new_br2 | donkey<br>piece |  
+| bip_39_word_new_br3 | donkey<br>piece<br>almost |  
+| bip_39_word_new_br4 | donkey<br>piece<br>almost<br>crack |  
+| bip_39_word_new_br5 | donkey<br>piece<br>almost<br>crack<br>tone |  
+| bip_39_word_new_br6 | donkey<br>piece<br>almost<br>crack<br>tone<br>friend |  
+| bip_39_word_new_br7 | donkey<br>piece<br>almost<br>crack<br>tone<br>friend<br>shuffle |  
+| bip_39_word_new_br8 | donkey<br>piece<br>almost<br>crack<br>tone<br>friend<br>shuffle<br>drum |  
+| bip_39_word_new_br9 | donkey<br>piece<br>almost<br>crack<br>tone<br>friend<br>shuffle<br>drum<br>dirt |  
+| bip_39_word_new_line1 | donkey |  
+| bip_39_word_new_line10 | donkey
+piece
+almost
+crack
+tone
+friend
+shuffle
+drum
+dirt
+castle |  
+| bip_39_word_new_line11 | donkey
+piece
+almost
+crack
+tone
+friend
+shuffle
+drum
+dirt
+castle
+lunar |  
+| bip_39_word_new_line12 | donkey
+piece
+almost
+crack
+tone
+friend
+shuffle
+drum
+dirt
+castle
+lunar
+angry |  
+| bip_39_word_new_line2 | donkey
+piece |  
+| bip_39_word_new_line3 | donkey
+piece
+almost |  
+| bip_39_word_new_line4 | donkey
+piece
+almost
+crack |  
+| bip_39_word_new_line5 | donkey
+piece
+almost
+crack
+tone |  
+| bip_39_word_new_line6 | donkey
+piece
+almost
+crack
+tone
+friend |  
+| bip_39_word_new_line7 | donkey
+piece
+almost
+crack
+tone
+friend
+shuffle |  
+| bip_39_word_new_line8 | donkey
+piece
+almost
+crack
+tone
+friend
+shuffle
+drum |  
+| bip_39_word_new_line9 | donkey
+piece
+almost
+crack
+tone
+friend
+shuffle
+drum
+dirt |  
+| bip_39_word_space_0 | ['donkey', 'piece', 'almost', 'crack', 'tone', 'friend', 'shuffle', 'drum', 'dirt', 'castle', 'lunar', 'angry'] |  
+| bip_39_word_space_1 | donkey |  
+| bip_39_word_space_10 | donkey piece almost crack tone friend shuffle drum dirt castle |  
+| bip_39_word_space_11 | donkey piece almost crack tone friend shuffle drum dirt castle lunar |  
+| bip_39_word_space_12 | donkey piece almost crack tone friend shuffle drum dirt castle lunar angry |  
+| bip_39_word_space_2 | donkey piece |  
+| bip_39_word_space_3 | donkey piece almost |  
+| bip_39_word_space_4 | donkey piece almost crack |  
+| bip_39_word_space_5 | donkey piece almost crack tone |  
+| bip_39_word_space_6 | donkey piece almost crack tone friend |  
+| bip_39_word_space_7 | donkey piece almost crack tone friend shuffle |  
+| bip_39_word_space_8 | donkey piece almost crack tone friend shuffle drum |  
+| bip_39_word_space_9 | donkey piece almost crack tone friend shuffle drum dirt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

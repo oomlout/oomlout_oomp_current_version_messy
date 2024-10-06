@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cute fish
+  * bip 39 word 3: cute fish move
+  * bip 39 word: cute fish move engage thunder broken vicious chase advance labor casual audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cute |  
+| bip_39_word_new_br10 | cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor |  
+| bip_39_word_new_br11 | cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor<br>casual |  
+| bip_39_word_new_br12 | cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance<br>labor<br>casual<br>audit |  
+| bip_39_word_new_br2 | cute<br>fish |  
+| bip_39_word_new_br3 | cute<br>fish<br>move |  
+| bip_39_word_new_br4 | cute<br>fish<br>move<br>engage |  
+| bip_39_word_new_br5 | cute<br>fish<br>move<br>engage<br>thunder |  
+| bip_39_word_new_br6 | cute<br>fish<br>move<br>engage<br>thunder<br>broken |  
+| bip_39_word_new_br7 | cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious |  
+| bip_39_word_new_br8 | cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase |  
+| bip_39_word_new_br9 | cute<br>fish<br>move<br>engage<br>thunder<br>broken<br>vicious<br>chase<br>advance |  
+| bip_39_word_new_line1 | cute |  
+| bip_39_word_new_line10 | cute
+fish
+move
+engage
+thunder
+broken
+vicious
+chase
+advance
+labor |  
+| bip_39_word_new_line11 | cute
+fish
+move
+engage
+thunder
+broken
+vicious
+chase
+advance
+labor
+casual |  
+| bip_39_word_new_line12 | cute
+fish
+move
+engage
+thunder
+broken
+vicious
+chase
+advance
+labor
+casual
+audit |  
+| bip_39_word_new_line2 | cute
+fish |  
+| bip_39_word_new_line3 | cute
+fish
+move |  
+| bip_39_word_new_line4 | cute
+fish
+move
+engage |  
+| bip_39_word_new_line5 | cute
+fish
+move
+engage
+thunder |  
+| bip_39_word_new_line6 | cute
+fish
+move
+engage
+thunder
+broken |  
+| bip_39_word_new_line7 | cute
+fish
+move
+engage
+thunder
+broken
+vicious |  
+| bip_39_word_new_line8 | cute
+fish
+move
+engage
+thunder
+broken
+vicious
+chase |  
+| bip_39_word_new_line9 | cute
+fish
+move
+engage
+thunder
+broken
+vicious
+chase
+advance |  
+| bip_39_word_space_0 | ['cute', 'fish', 'move', 'engage', 'thunder', 'broken', 'vicious', 'chase', 'advance', 'labor', 'casual', 'audit'] |  
+| bip_39_word_space_1 | cute |  
+| bip_39_word_space_10 | cute fish move engage thunder broken vicious chase advance labor |  
+| bip_39_word_space_11 | cute fish move engage thunder broken vicious chase advance labor casual |  
+| bip_39_word_space_12 | cute fish move engage thunder broken vicious chase advance labor casual audit |  
+| bip_39_word_space_2 | cute fish |  
+| bip_39_word_space_3 | cute fish move |  
+| bip_39_word_space_4 | cute fish move engage |  
+| bip_39_word_space_5 | cute fish move engage thunder |  
+| bip_39_word_space_6 | cute fish move engage thunder broken |  
+| bip_39_word_space_7 | cute fish move engage thunder broken vicious |  
+| bip_39_word_space_8 | cute fish move engage thunder broken vicious chase |  
+| bip_39_word_space_9 | cute fish move engage thunder broken vicious chase advance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

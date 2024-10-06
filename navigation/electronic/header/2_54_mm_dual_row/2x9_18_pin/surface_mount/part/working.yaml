@@ -1,3 +1,186 @@
+bip_39_word_new_br1: magic
+bip_39_word_new_br10: magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report
+bip_39_word_new_br11: magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report<br>visa
+bip_39_word_new_br12: magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude<br>report<br>visa<br>action
+bip_39_word_new_br2: magic<br>canyon
+bip_39_word_new_br3: magic<br>canyon<br>project
+bip_39_word_new_br4: magic<br>canyon<br>project<br>annual
+bip_39_word_new_br5: magic<br>canyon<br>project<br>annual<br>quote
+bip_39_word_new_br6: magic<br>canyon<br>project<br>annual<br>quote<br>boy
+bip_39_word_new_br7: magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle
+bip_39_word_new_br8: magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit
+bip_39_word_new_br9: magic<br>canyon<br>project<br>annual<br>quote<br>boy<br>miracle<br>inherit<br>rude
+bip_39_word_new_line1: magic
+bip_39_word_new_line10: 'magic
+
+  canyon
+
+  project
+
+  annual
+
+  quote
+
+  boy
+
+  miracle
+
+  inherit
+
+  rude
+
+  report'
+bip_39_word_new_line11: 'magic
+
+  canyon
+
+  project
+
+  annual
+
+  quote
+
+  boy
+
+  miracle
+
+  inherit
+
+  rude
+
+  report
+
+  visa'
+bip_39_word_new_line12: 'magic
+
+  canyon
+
+  project
+
+  annual
+
+  quote
+
+  boy
+
+  miracle
+
+  inherit
+
+  rude
+
+  report
+
+  visa
+
+  action'
+bip_39_word_new_line2: 'magic
+
+  canyon'
+bip_39_word_new_line3: 'magic
+
+  canyon
+
+  project'
+bip_39_word_new_line4: 'magic
+
+  canyon
+
+  project
+
+  annual'
+bip_39_word_new_line5: 'magic
+
+  canyon
+
+  project
+
+  annual
+
+  quote'
+bip_39_word_new_line6: 'magic
+
+  canyon
+
+  project
+
+  annual
+
+  quote
+
+  boy'
+bip_39_word_new_line7: 'magic
+
+  canyon
+
+  project
+
+  annual
+
+  quote
+
+  boy
+
+  miracle'
+bip_39_word_new_line8: 'magic
+
+  canyon
+
+  project
+
+  annual
+
+  quote
+
+  boy
+
+  miracle
+
+  inherit'
+bip_39_word_new_line9: 'magic
+
+  canyon
+
+  project
+
+  annual
+
+  quote
+
+  boy
+
+  miracle
+
+  inherit
+
+  rude'
+bip_39_word_space_0:
+- magic
+- canyon
+- project
+- annual
+- quote
+- boy
+- miracle
+- inherit
+- rude
+- report
+- visa
+- action
+bip_39_word_space_1: magic
+bip_39_word_space_10: magic canyon project annual quote boy miracle inherit rude report
+bip_39_word_space_11: magic canyon project annual quote boy miracle inherit rude report
+  visa
+bip_39_word_space_12: magic canyon project annual quote boy miracle inherit rude report
+  visa action
+bip_39_word_space_2: magic canyon
+bip_39_word_space_3: magic canyon project
+bip_39_word_space_4: magic canyon project annual
+bip_39_word_space_5: magic canyon project annual quote
+bip_39_word_space_6: magic canyon project annual quote boy
+bip_39_word_space_7: magic canyon project annual quote boy miracle
+bip_39_word_space_8: magic canyon project annual quote boy miracle inherit
+bip_39_word_space_9: magic canyon project annual quote boy miracle inherit rude
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: countersunk
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: future find
+  * bip 39 word 3: future find phone
+  * bip 39 word: future find phone fiction mean trim coast view bulk volume labor abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | future |  
+| bip_39_word_new_br10 | future<br>find<br>phone<br>fiction<br>mean<br>trim<br>coast<br>view<br>bulk<br>volume |  
+| bip_39_word_new_br11 | future<br>find<br>phone<br>fiction<br>mean<br>trim<br>coast<br>view<br>bulk<br>volume<br>labor |  
+| bip_39_word_new_br12 | future<br>find<br>phone<br>fiction<br>mean<br>trim<br>coast<br>view<br>bulk<br>volume<br>labor<br>abuse |  
+| bip_39_word_new_br2 | future<br>find |  
+| bip_39_word_new_br3 | future<br>find<br>phone |  
+| bip_39_word_new_br4 | future<br>find<br>phone<br>fiction |  
+| bip_39_word_new_br5 | future<br>find<br>phone<br>fiction<br>mean |  
+| bip_39_word_new_br6 | future<br>find<br>phone<br>fiction<br>mean<br>trim |  
+| bip_39_word_new_br7 | future<br>find<br>phone<br>fiction<br>mean<br>trim<br>coast |  
+| bip_39_word_new_br8 | future<br>find<br>phone<br>fiction<br>mean<br>trim<br>coast<br>view |  
+| bip_39_word_new_br9 | future<br>find<br>phone<br>fiction<br>mean<br>trim<br>coast<br>view<br>bulk |  
+| bip_39_word_new_line1 | future |  
+| bip_39_word_new_line10 | future
+find
+phone
+fiction
+mean
+trim
+coast
+view
+bulk
+volume |  
+| bip_39_word_new_line11 | future
+find
+phone
+fiction
+mean
+trim
+coast
+view
+bulk
+volume
+labor |  
+| bip_39_word_new_line12 | future
+find
+phone
+fiction
+mean
+trim
+coast
+view
+bulk
+volume
+labor
+abuse |  
+| bip_39_word_new_line2 | future
+find |  
+| bip_39_word_new_line3 | future
+find
+phone |  
+| bip_39_word_new_line4 | future
+find
+phone
+fiction |  
+| bip_39_word_new_line5 | future
+find
+phone
+fiction
+mean |  
+| bip_39_word_new_line6 | future
+find
+phone
+fiction
+mean
+trim |  
+| bip_39_word_new_line7 | future
+find
+phone
+fiction
+mean
+trim
+coast |  
+| bip_39_word_new_line8 | future
+find
+phone
+fiction
+mean
+trim
+coast
+view |  
+| bip_39_word_new_line9 | future
+find
+phone
+fiction
+mean
+trim
+coast
+view
+bulk |  
+| bip_39_word_space_0 | ['future', 'find', 'phone', 'fiction', 'mean', 'trim', 'coast', 'view', 'bulk', 'volume', 'labor', 'abuse'] |  
+| bip_39_word_space_1 | future |  
+| bip_39_word_space_10 | future find phone fiction mean trim coast view bulk volume |  
+| bip_39_word_space_11 | future find phone fiction mean trim coast view bulk volume labor |  
+| bip_39_word_space_12 | future find phone fiction mean trim coast view bulk volume labor abuse |  
+| bip_39_word_space_2 | future find |  
+| bip_39_word_space_3 | future find phone |  
+| bip_39_word_space_4 | future find phone fiction |  
+| bip_39_word_space_5 | future find phone fiction mean |  
+| bip_39_word_space_6 | future find phone fiction mean trim |  
+| bip_39_word_space_7 | future find phone fiction mean trim coast |  
+| bip_39_word_space_8 | future find phone fiction mean trim coast view |  
+| bip_39_word_space_9 | future find phone fiction mean trim coast view bulk |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

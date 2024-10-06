@@ -1,3 +1,186 @@
+bip_39_word_new_br1: measure
+bip_39_word_new_br10: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand
+bip_39_word_new_br11: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle
+bip_39_word_new_br12: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle<br>adapt
+bip_39_word_new_br2: measure<br>wall
+bip_39_word_new_br3: measure<br>wall<br>critic
+bip_39_word_new_br4: measure<br>wall<br>critic<br>harvest
+bip_39_word_new_br5: measure<br>wall<br>critic<br>harvest<br>polar
+bip_39_word_new_br6: measure<br>wall<br>critic<br>harvest<br>polar<br>away
+bip_39_word_new_br7: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote
+bip_39_word_new_br8: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden
+bip_39_word_new_br9: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse
+bip_39_word_new_line1: measure
+bip_39_word_new_line10: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden
+
+  abuse
+
+  demand'
+bip_39_word_new_line11: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden
+
+  abuse
+
+  demand
+
+  ankle'
+bip_39_word_new_line12: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden
+
+  abuse
+
+  demand
+
+  ankle
+
+  adapt'
+bip_39_word_new_line2: 'measure
+
+  wall'
+bip_39_word_new_line3: 'measure
+
+  wall
+
+  critic'
+bip_39_word_new_line4: 'measure
+
+  wall
+
+  critic
+
+  harvest'
+bip_39_word_new_line5: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar'
+bip_39_word_new_line6: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away'
+bip_39_word_new_line7: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote'
+bip_39_word_new_line8: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden'
+bip_39_word_new_line9: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden
+
+  abuse'
+bip_39_word_space_0:
+- measure
+- wall
+- critic
+- harvest
+- polar
+- away
+- quote
+- sudden
+- abuse
+- demand
+- ankle
+- adapt
+bip_39_word_space_1: measure
+bip_39_word_space_10: measure wall critic harvest polar away quote sudden abuse demand
+bip_39_word_space_11: measure wall critic harvest polar away quote sudden abuse demand
+  ankle
+bip_39_word_space_12: measure wall critic harvest polar away quote sudden abuse demand
+  ankle adapt
+bip_39_word_space_2: measure wall
+bip_39_word_space_3: measure wall critic
+bip_39_word_space_4: measure wall critic harvest
+bip_39_word_space_5: measure wall critic harvest polar
+bip_39_word_space_6: measure wall critic harvest polar away
+bip_39_word_space_7: measure wall critic harvest polar away quote
+bip_39_word_space_8: measure wall critic harvest polar away quote sudden
+bip_39_word_space_9: measure wall critic harvest polar away quote sudden abuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

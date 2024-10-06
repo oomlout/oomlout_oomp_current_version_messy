@@ -1,3 +1,186 @@
+bip_39_word_new_br1: much
+bip_39_word_new_br10: much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab
+bip_39_word_new_br11: much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab<br>rather
+bip_39_word_new_br12: much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield<br>slab<br>rather<br>asset
+bip_39_word_new_br2: much<br>churn
+bip_39_word_new_br3: much<br>churn<br>local
+bip_39_word_new_br4: much<br>churn<br>local<br>social
+bip_39_word_new_br5: much<br>churn<br>local<br>social<br>trade
+bip_39_word_new_br6: much<br>churn<br>local<br>social<br>trade<br>awesome
+bip_39_word_new_br7: much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol
+bip_39_word_new_br8: much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during
+bip_39_word_new_br9: much<br>churn<br>local<br>social<br>trade<br>awesome<br>symbol<br>during<br>shield
+bip_39_word_new_line1: much
+bip_39_word_new_line10: 'much
+
+  churn
+
+  local
+
+  social
+
+  trade
+
+  awesome
+
+  symbol
+
+  during
+
+  shield
+
+  slab'
+bip_39_word_new_line11: 'much
+
+  churn
+
+  local
+
+  social
+
+  trade
+
+  awesome
+
+  symbol
+
+  during
+
+  shield
+
+  slab
+
+  rather'
+bip_39_word_new_line12: 'much
+
+  churn
+
+  local
+
+  social
+
+  trade
+
+  awesome
+
+  symbol
+
+  during
+
+  shield
+
+  slab
+
+  rather
+
+  asset'
+bip_39_word_new_line2: 'much
+
+  churn'
+bip_39_word_new_line3: 'much
+
+  churn
+
+  local'
+bip_39_word_new_line4: 'much
+
+  churn
+
+  local
+
+  social'
+bip_39_word_new_line5: 'much
+
+  churn
+
+  local
+
+  social
+
+  trade'
+bip_39_word_new_line6: 'much
+
+  churn
+
+  local
+
+  social
+
+  trade
+
+  awesome'
+bip_39_word_new_line7: 'much
+
+  churn
+
+  local
+
+  social
+
+  trade
+
+  awesome
+
+  symbol'
+bip_39_word_new_line8: 'much
+
+  churn
+
+  local
+
+  social
+
+  trade
+
+  awesome
+
+  symbol
+
+  during'
+bip_39_word_new_line9: 'much
+
+  churn
+
+  local
+
+  social
+
+  trade
+
+  awesome
+
+  symbol
+
+  during
+
+  shield'
+bip_39_word_space_0:
+- much
+- churn
+- local
+- social
+- trade
+- awesome
+- symbol
+- during
+- shield
+- slab
+- rather
+- asset
+bip_39_word_space_1: much
+bip_39_word_space_10: much churn local social trade awesome symbol during shield slab
+bip_39_word_space_11: much churn local social trade awesome symbol during shield slab
+  rather
+bip_39_word_space_12: much churn local social trade awesome symbol during shield slab
+  rather asset
+bip_39_word_space_2: much churn
+bip_39_word_space_3: much churn local
+bip_39_word_space_4: much churn local social
+bip_39_word_space_5: much churn local social trade
+bip_39_word_space_6: much churn local social trade awesome
+bip_39_word_space_7: much churn local social trade awesome symbol
+bip_39_word_space_8: much churn local social trade awesome symbol during
+bip_39_word_space_9: much churn local social trade awesome symbol during shield
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

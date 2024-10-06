@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_long
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: size donate
+  * bip 39 word 3: size donate viable
+  * bip 39 word: size donate viable own champion census child lucky bird keen present any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | size |  
+| bip_39_word_new_br10 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen |  
+| bip_39_word_new_br11 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen<br>present |  
+| bip_39_word_new_br12 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird<br>keen<br>present<br>any |  
+| bip_39_word_new_br2 | size<br>donate |  
+| bip_39_word_new_br3 | size<br>donate<br>viable |  
+| bip_39_word_new_br4 | size<br>donate<br>viable<br>own |  
+| bip_39_word_new_br5 | size<br>donate<br>viable<br>own<br>champion |  
+| bip_39_word_new_br6 | size<br>donate<br>viable<br>own<br>champion<br>census |  
+| bip_39_word_new_br7 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child |  
+| bip_39_word_new_br8 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky |  
+| bip_39_word_new_br9 | size<br>donate<br>viable<br>own<br>champion<br>census<br>child<br>lucky<br>bird |  
+| bip_39_word_new_line1 | size |  
+| bip_39_word_new_line10 | size
+donate
+viable
+own
+champion
+census
+child
+lucky
+bird
+keen |  
+| bip_39_word_new_line11 | size
+donate
+viable
+own
+champion
+census
+child
+lucky
+bird
+keen
+present |  
+| bip_39_word_new_line12 | size
+donate
+viable
+own
+champion
+census
+child
+lucky
+bird
+keen
+present
+any |  
+| bip_39_word_new_line2 | size
+donate |  
+| bip_39_word_new_line3 | size
+donate
+viable |  
+| bip_39_word_new_line4 | size
+donate
+viable
+own |  
+| bip_39_word_new_line5 | size
+donate
+viable
+own
+champion |  
+| bip_39_word_new_line6 | size
+donate
+viable
+own
+champion
+census |  
+| bip_39_word_new_line7 | size
+donate
+viable
+own
+champion
+census
+child |  
+| bip_39_word_new_line8 | size
+donate
+viable
+own
+champion
+census
+child
+lucky |  
+| bip_39_word_new_line9 | size
+donate
+viable
+own
+champion
+census
+child
+lucky
+bird |  
+| bip_39_word_space_0 | ['size', 'donate', 'viable', 'own', 'champion', 'census', 'child', 'lucky', 'bird', 'keen', 'present', 'any'] |  
+| bip_39_word_space_1 | size |  
+| bip_39_word_space_10 | size donate viable own champion census child lucky bird keen |  
+| bip_39_word_space_11 | size donate viable own champion census child lucky bird keen present |  
+| bip_39_word_space_12 | size donate viable own champion census child lucky bird keen present any |  
+| bip_39_word_space_2 | size donate |  
+| bip_39_word_space_3 | size donate viable |  
+| bip_39_word_space_4 | size donate viable own |  
+| bip_39_word_space_5 | size donate viable own champion |  
+| bip_39_word_space_6 | size donate viable own champion census |  
+| bip_39_word_space_7 | size donate viable own champion census child |  
+| bip_39_word_space_8 | size donate viable own champion census child lucky |  
+| bip_39_word_space_9 | size donate viable own champion census child lucky bird |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: battle
+bip_39_word_new_br10: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space<br>million
+bip_39_word_new_br11: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space<br>million<br>sunset
+bip_39_word_new_br12: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space<br>million<br>sunset<br>aunt
+bip_39_word_new_br2: battle<br>frog
+bip_39_word_new_br3: battle<br>frog<br>trophy
+bip_39_word_new_br4: battle<br>frog<br>trophy<br>review
+bip_39_word_new_br5: battle<br>frog<br>trophy<br>review<br>fatal
+bip_39_word_new_br6: battle<br>frog<br>trophy<br>review<br>fatal<br>over
+bip_39_word_new_br7: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden
+bip_39_word_new_br8: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell
+bip_39_word_new_br9: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space
+bip_39_word_new_line1: battle
+bip_39_word_new_line10: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell
+
+  space
+
+  million'
+bip_39_word_new_line11: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell
+
+  space
+
+  million
+
+  sunset'
+bip_39_word_new_line12: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell
+
+  space
+
+  million
+
+  sunset
+
+  aunt'
+bip_39_word_new_line2: 'battle
+
+  frog'
+bip_39_word_new_line3: 'battle
+
+  frog
+
+  trophy'
+bip_39_word_new_line4: 'battle
+
+  frog
+
+  trophy
+
+  review'
+bip_39_word_new_line5: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal'
+bip_39_word_new_line6: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over'
+bip_39_word_new_line7: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden'
+bip_39_word_new_line8: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell'
+bip_39_word_new_line9: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell
+
+  space'
+bip_39_word_space_0:
+- battle
+- frog
+- trophy
+- review
+- fatal
+- over
+- burden
+- sell
+- space
+- million
+- sunset
+- aunt
+bip_39_word_space_1: battle
+bip_39_word_space_10: battle frog trophy review fatal over burden sell space million
+bip_39_word_space_11: battle frog trophy review fatal over burden sell space million
+  sunset
+bip_39_word_space_12: battle frog trophy review fatal over burden sell space million
+  sunset aunt
+bip_39_word_space_2: battle frog
+bip_39_word_space_3: battle frog trophy
+bip_39_word_space_4: battle frog trophy review
+bip_39_word_space_5: battle frog trophy review fatal
+bip_39_word_space_6: battle frog trophy review fatal over
+bip_39_word_space_7: battle frog trophy review fatal over burden
+bip_39_word_space_8: battle frog trophy review fatal over burden sell
+bip_39_word_space_9: battle frog trophy review fatal over burden sell space
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

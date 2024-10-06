@@ -1,3 +1,186 @@
+bip_39_word_new_br1: stock
+bip_39_word_new_br10: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width<br>general
+bip_39_word_new_br11: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width<br>general<br>easy
+bip_39_word_new_br12: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width<br>general<br>easy<br>again
+bip_39_word_new_br2: stock<br>violin
+bip_39_word_new_br3: stock<br>violin<br>eye
+bip_39_word_new_br4: stock<br>violin<br>eye<br>letter
+bip_39_word_new_br5: stock<br>violin<br>eye<br>letter<br>click
+bip_39_word_new_br6: stock<br>violin<br>eye<br>letter<br>click<br>initial
+bip_39_word_new_br7: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen
+bip_39_word_new_br8: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose
+bip_39_word_new_br9: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width
+bip_39_word_new_line1: stock
+bip_39_word_new_line10: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose
+
+  width
+
+  general'
+bip_39_word_new_line11: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose
+
+  width
+
+  general
+
+  easy'
+bip_39_word_new_line12: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose
+
+  width
+
+  general
+
+  easy
+
+  again'
+bip_39_word_new_line2: 'stock
+
+  violin'
+bip_39_word_new_line3: 'stock
+
+  violin
+
+  eye'
+bip_39_word_new_line4: 'stock
+
+  violin
+
+  eye
+
+  letter'
+bip_39_word_new_line5: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click'
+bip_39_word_new_line6: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial'
+bip_39_word_new_line7: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen'
+bip_39_word_new_line8: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose'
+bip_39_word_new_line9: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose
+
+  width'
+bip_39_word_space_0:
+- stock
+- violin
+- eye
+- letter
+- click
+- initial
+- oxygen
+- rose
+- width
+- general
+- easy
+- again
+bip_39_word_space_1: stock
+bip_39_word_space_10: stock violin eye letter click initial oxygen rose width general
+bip_39_word_space_11: stock violin eye letter click initial oxygen rose width general
+  easy
+bip_39_word_space_12: stock violin eye letter click initial oxygen rose width general
+  easy again
+bip_39_word_space_2: stock violin
+bip_39_word_space_3: stock violin eye
+bip_39_word_space_4: stock violin eye letter
+bip_39_word_space_5: stock violin eye letter click
+bip_39_word_space_6: stock violin eye letter click initial
+bip_39_word_space_7: stock violin eye letter click initial oxygen
+bip_39_word_space_8: stock violin eye letter click initial oxygen rose
+bip_39_word_space_9: stock violin eye letter click initial oxygen rose width
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

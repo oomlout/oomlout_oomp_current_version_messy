@@ -1,3 +1,187 @@
+bip_39_word_new_br1: wreck
+bip_39_word_new_br10: wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider<br>trap<br>jar<br>ethics<br>crater
+bip_39_word_new_br11: wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider<br>trap<br>jar<br>ethics<br>crater<br>sure
+bip_39_word_new_br12: wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider<br>trap<br>jar<br>ethics<br>crater<br>sure<br>anchor
+bip_39_word_new_br2: wreck<br>immense
+bip_39_word_new_br3: wreck<br>immense<br>bronze
+bip_39_word_new_br4: wreck<br>immense<br>bronze<br>inspire
+bip_39_word_new_br5: wreck<br>immense<br>bronze<br>inspire<br>penalty
+bip_39_word_new_br6: wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider
+bip_39_word_new_br7: wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider<br>trap
+bip_39_word_new_br8: wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider<br>trap<br>jar
+bip_39_word_new_br9: wreck<br>immense<br>bronze<br>inspire<br>penalty<br>consider<br>trap<br>jar<br>ethics
+bip_39_word_new_line1: wreck
+bip_39_word_new_line10: 'wreck
+
+  immense
+
+  bronze
+
+  inspire
+
+  penalty
+
+  consider
+
+  trap
+
+  jar
+
+  ethics
+
+  crater'
+bip_39_word_new_line11: 'wreck
+
+  immense
+
+  bronze
+
+  inspire
+
+  penalty
+
+  consider
+
+  trap
+
+  jar
+
+  ethics
+
+  crater
+
+  sure'
+bip_39_word_new_line12: 'wreck
+
+  immense
+
+  bronze
+
+  inspire
+
+  penalty
+
+  consider
+
+  trap
+
+  jar
+
+  ethics
+
+  crater
+
+  sure
+
+  anchor'
+bip_39_word_new_line2: 'wreck
+
+  immense'
+bip_39_word_new_line3: 'wreck
+
+  immense
+
+  bronze'
+bip_39_word_new_line4: 'wreck
+
+  immense
+
+  bronze
+
+  inspire'
+bip_39_word_new_line5: 'wreck
+
+  immense
+
+  bronze
+
+  inspire
+
+  penalty'
+bip_39_word_new_line6: 'wreck
+
+  immense
+
+  bronze
+
+  inspire
+
+  penalty
+
+  consider'
+bip_39_word_new_line7: 'wreck
+
+  immense
+
+  bronze
+
+  inspire
+
+  penalty
+
+  consider
+
+  trap'
+bip_39_word_new_line8: 'wreck
+
+  immense
+
+  bronze
+
+  inspire
+
+  penalty
+
+  consider
+
+  trap
+
+  jar'
+bip_39_word_new_line9: 'wreck
+
+  immense
+
+  bronze
+
+  inspire
+
+  penalty
+
+  consider
+
+  trap
+
+  jar
+
+  ethics'
+bip_39_word_space_0:
+- wreck
+- immense
+- bronze
+- inspire
+- penalty
+- consider
+- trap
+- jar
+- ethics
+- crater
+- sure
+- anchor
+bip_39_word_space_1: wreck
+bip_39_word_space_10: wreck immense bronze inspire penalty consider trap jar ethics
+  crater
+bip_39_word_space_11: wreck immense bronze inspire penalty consider trap jar ethics
+  crater sure
+bip_39_word_space_12: wreck immense bronze inspire penalty consider trap jar ethics
+  crater sure anchor
+bip_39_word_space_2: wreck immense
+bip_39_word_space_3: wreck immense bronze
+bip_39_word_space_4: wreck immense bronze inspire
+bip_39_word_space_5: wreck immense bronze inspire penalty
+bip_39_word_space_6: wreck immense bronze inspire penalty consider
+bip_39_word_space_7: wreck immense bronze inspire penalty consider trap
+bip_39_word_space_8: wreck immense bronze inspire penalty consider trap jar
+bip_39_word_space_9: wreck immense bronze inspire penalty consider trap jar ethics
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

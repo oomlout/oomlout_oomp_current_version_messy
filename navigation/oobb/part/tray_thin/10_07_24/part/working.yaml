@@ -1,3 +1,186 @@
+bip_39_word_new_br1: soup
+bip_39_word_new_br10: soup<br>praise<br>urban<br>feed<br>clever<br>monkey<br>arrive<br>private<br>purse<br>slogan
+bip_39_word_new_br11: soup<br>praise<br>urban<br>feed<br>clever<br>monkey<br>arrive<br>private<br>purse<br>slogan<br>muscle
+bip_39_word_new_br12: soup<br>praise<br>urban<br>feed<br>clever<br>monkey<br>arrive<br>private<br>purse<br>slogan<br>muscle<br>avocado
+bip_39_word_new_br2: soup<br>praise
+bip_39_word_new_br3: soup<br>praise<br>urban
+bip_39_word_new_br4: soup<br>praise<br>urban<br>feed
+bip_39_word_new_br5: soup<br>praise<br>urban<br>feed<br>clever
+bip_39_word_new_br6: soup<br>praise<br>urban<br>feed<br>clever<br>monkey
+bip_39_word_new_br7: soup<br>praise<br>urban<br>feed<br>clever<br>monkey<br>arrive
+bip_39_word_new_br8: soup<br>praise<br>urban<br>feed<br>clever<br>monkey<br>arrive<br>private
+bip_39_word_new_br9: soup<br>praise<br>urban<br>feed<br>clever<br>monkey<br>arrive<br>private<br>purse
+bip_39_word_new_line1: soup
+bip_39_word_new_line10: 'soup
+
+  praise
+
+  urban
+
+  feed
+
+  clever
+
+  monkey
+
+  arrive
+
+  private
+
+  purse
+
+  slogan'
+bip_39_word_new_line11: 'soup
+
+  praise
+
+  urban
+
+  feed
+
+  clever
+
+  monkey
+
+  arrive
+
+  private
+
+  purse
+
+  slogan
+
+  muscle'
+bip_39_word_new_line12: 'soup
+
+  praise
+
+  urban
+
+  feed
+
+  clever
+
+  monkey
+
+  arrive
+
+  private
+
+  purse
+
+  slogan
+
+  muscle
+
+  avocado'
+bip_39_word_new_line2: 'soup
+
+  praise'
+bip_39_word_new_line3: 'soup
+
+  praise
+
+  urban'
+bip_39_word_new_line4: 'soup
+
+  praise
+
+  urban
+
+  feed'
+bip_39_word_new_line5: 'soup
+
+  praise
+
+  urban
+
+  feed
+
+  clever'
+bip_39_word_new_line6: 'soup
+
+  praise
+
+  urban
+
+  feed
+
+  clever
+
+  monkey'
+bip_39_word_new_line7: 'soup
+
+  praise
+
+  urban
+
+  feed
+
+  clever
+
+  monkey
+
+  arrive'
+bip_39_word_new_line8: 'soup
+
+  praise
+
+  urban
+
+  feed
+
+  clever
+
+  monkey
+
+  arrive
+
+  private'
+bip_39_word_new_line9: 'soup
+
+  praise
+
+  urban
+
+  feed
+
+  clever
+
+  monkey
+
+  arrive
+
+  private
+
+  purse'
+bip_39_word_space_0:
+- soup
+- praise
+- urban
+- feed
+- clever
+- monkey
+- arrive
+- private
+- purse
+- slogan
+- muscle
+- avocado
+bip_39_word_space_1: soup
+bip_39_word_space_10: soup praise urban feed clever monkey arrive private purse slogan
+bip_39_word_space_11: soup praise urban feed clever monkey arrive private purse slogan
+  muscle
+bip_39_word_space_12: soup praise urban feed clever monkey arrive private purse slogan
+  muscle avocado
+bip_39_word_space_2: soup praise
+bip_39_word_space_3: soup praise urban
+bip_39_word_space_4: soup praise urban feed
+bip_39_word_space_5: soup praise urban feed clever
+bip_39_word_space_6: soup praise urban feed clever monkey
+bip_39_word_space_7: soup praise urban feed clever monkey arrive
+bip_39_word_space_8: soup praise urban feed clever monkey arrive private
+bip_39_word_space_9: soup praise urban feed clever monkey arrive private purse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

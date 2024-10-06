@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lab harsh
+  * bip 39 word 3: lab harsh doll
+  * bip 39 word: lab harsh doll nasty guess photo light frequent trend join trick aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lab |  
+| bip_39_word_new_br10 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join |  
+| bip_39_word_new_br11 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join<br>trick |  
+| bip_39_word_new_br12 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend<br>join<br>trick<br>aunt |  
+| bip_39_word_new_br2 | lab<br>harsh |  
+| bip_39_word_new_br3 | lab<br>harsh<br>doll |  
+| bip_39_word_new_br4 | lab<br>harsh<br>doll<br>nasty |  
+| bip_39_word_new_br5 | lab<br>harsh<br>doll<br>nasty<br>guess |  
+| bip_39_word_new_br6 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo |  
+| bip_39_word_new_br7 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light |  
+| bip_39_word_new_br8 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent |  
+| bip_39_word_new_br9 | lab<br>harsh<br>doll<br>nasty<br>guess<br>photo<br>light<br>frequent<br>trend |  
+| bip_39_word_new_line1 | lab |  
+| bip_39_word_new_line10 | lab
+harsh
+doll
+nasty
+guess
+photo
+light
+frequent
+trend
+join |  
+| bip_39_word_new_line11 | lab
+harsh
+doll
+nasty
+guess
+photo
+light
+frequent
+trend
+join
+trick |  
+| bip_39_word_new_line12 | lab
+harsh
+doll
+nasty
+guess
+photo
+light
+frequent
+trend
+join
+trick
+aunt |  
+| bip_39_word_new_line2 | lab
+harsh |  
+| bip_39_word_new_line3 | lab
+harsh
+doll |  
+| bip_39_word_new_line4 | lab
+harsh
+doll
+nasty |  
+| bip_39_word_new_line5 | lab
+harsh
+doll
+nasty
+guess |  
+| bip_39_word_new_line6 | lab
+harsh
+doll
+nasty
+guess
+photo |  
+| bip_39_word_new_line7 | lab
+harsh
+doll
+nasty
+guess
+photo
+light |  
+| bip_39_word_new_line8 | lab
+harsh
+doll
+nasty
+guess
+photo
+light
+frequent |  
+| bip_39_word_new_line9 | lab
+harsh
+doll
+nasty
+guess
+photo
+light
+frequent
+trend |  
+| bip_39_word_space_0 | ['lab', 'harsh', 'doll', 'nasty', 'guess', 'photo', 'light', 'frequent', 'trend', 'join', 'trick', 'aunt'] |  
+| bip_39_word_space_1 | lab |  
+| bip_39_word_space_10 | lab harsh doll nasty guess photo light frequent trend join |  
+| bip_39_word_space_11 | lab harsh doll nasty guess photo light frequent trend join trick |  
+| bip_39_word_space_12 | lab harsh doll nasty guess photo light frequent trend join trick aunt |  
+| bip_39_word_space_2 | lab harsh |  
+| bip_39_word_space_3 | lab harsh doll |  
+| bip_39_word_space_4 | lab harsh doll nasty |  
+| bip_39_word_space_5 | lab harsh doll nasty guess |  
+| bip_39_word_space_6 | lab harsh doll nasty guess photo |  
+| bip_39_word_space_7 | lab harsh doll nasty guess photo light |  
+| bip_39_word_space_8 | lab harsh doll nasty guess photo light frequent |  
+| bip_39_word_space_9 | lab harsh doll nasty guess photo light frequent trend |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

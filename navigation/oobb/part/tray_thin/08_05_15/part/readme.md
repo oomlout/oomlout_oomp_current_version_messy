@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: actress hospital
+  * bip 39 word 3: actress hospital crisp
+  * bip 39 word: actress hospital crisp unable offer door glide sound unit gather person approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | actress |  
+| bip_39_word_new_br10 | actress<br>hospital<br>crisp<br>unable<br>offer<br>door<br>glide<br>sound<br>unit<br>gather |  
+| bip_39_word_new_br11 | actress<br>hospital<br>crisp<br>unable<br>offer<br>door<br>glide<br>sound<br>unit<br>gather<br>person |  
+| bip_39_word_new_br12 | actress<br>hospital<br>crisp<br>unable<br>offer<br>door<br>glide<br>sound<br>unit<br>gather<br>person<br>approve |  
+| bip_39_word_new_br2 | actress<br>hospital |  
+| bip_39_word_new_br3 | actress<br>hospital<br>crisp |  
+| bip_39_word_new_br4 | actress<br>hospital<br>crisp<br>unable |  
+| bip_39_word_new_br5 | actress<br>hospital<br>crisp<br>unable<br>offer |  
+| bip_39_word_new_br6 | actress<br>hospital<br>crisp<br>unable<br>offer<br>door |  
+| bip_39_word_new_br7 | actress<br>hospital<br>crisp<br>unable<br>offer<br>door<br>glide |  
+| bip_39_word_new_br8 | actress<br>hospital<br>crisp<br>unable<br>offer<br>door<br>glide<br>sound |  
+| bip_39_word_new_br9 | actress<br>hospital<br>crisp<br>unable<br>offer<br>door<br>glide<br>sound<br>unit |  
+| bip_39_word_new_line1 | actress |  
+| bip_39_word_new_line10 | actress
+hospital
+crisp
+unable
+offer
+door
+glide
+sound
+unit
+gather |  
+| bip_39_word_new_line11 | actress
+hospital
+crisp
+unable
+offer
+door
+glide
+sound
+unit
+gather
+person |  
+| bip_39_word_new_line12 | actress
+hospital
+crisp
+unable
+offer
+door
+glide
+sound
+unit
+gather
+person
+approve |  
+| bip_39_word_new_line2 | actress
+hospital |  
+| bip_39_word_new_line3 | actress
+hospital
+crisp |  
+| bip_39_word_new_line4 | actress
+hospital
+crisp
+unable |  
+| bip_39_word_new_line5 | actress
+hospital
+crisp
+unable
+offer |  
+| bip_39_word_new_line6 | actress
+hospital
+crisp
+unable
+offer
+door |  
+| bip_39_word_new_line7 | actress
+hospital
+crisp
+unable
+offer
+door
+glide |  
+| bip_39_word_new_line8 | actress
+hospital
+crisp
+unable
+offer
+door
+glide
+sound |  
+| bip_39_word_new_line9 | actress
+hospital
+crisp
+unable
+offer
+door
+glide
+sound
+unit |  
+| bip_39_word_space_0 | ['actress', 'hospital', 'crisp', 'unable', 'offer', 'door', 'glide', 'sound', 'unit', 'gather', 'person', 'approve'] |  
+| bip_39_word_space_1 | actress |  
+| bip_39_word_space_10 | actress hospital crisp unable offer door glide sound unit gather |  
+| bip_39_word_space_11 | actress hospital crisp unable offer door glide sound unit gather person |  
+| bip_39_word_space_12 | actress hospital crisp unable offer door glide sound unit gather person approve |  
+| bip_39_word_space_2 | actress hospital |  
+| bip_39_word_space_3 | actress hospital crisp |  
+| bip_39_word_space_4 | actress hospital crisp unable |  
+| bip_39_word_space_5 | actress hospital crisp unable offer |  
+| bip_39_word_space_6 | actress hospital crisp unable offer door |  
+| bip_39_word_space_7 | actress hospital crisp unable offer door glide |  
+| bip_39_word_space_8 | actress hospital crisp unable offer door glide sound |  
+| bip_39_word_space_9 | actress hospital crisp unable offer door glide sound unit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

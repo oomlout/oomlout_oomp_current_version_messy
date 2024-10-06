@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: law salt
+  * bip 39 word 3: law salt pudding
+  * bip 39 word: law salt pudding reform forget over tape reunion base thank moon already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | law |  
+| bip_39_word_new_br10 | law<br>salt<br>pudding<br>reform<br>forget<br>over<br>tape<br>reunion<br>base<br>thank |  
+| bip_39_word_new_br11 | law<br>salt<br>pudding<br>reform<br>forget<br>over<br>tape<br>reunion<br>base<br>thank<br>moon |  
+| bip_39_word_new_br12 | law<br>salt<br>pudding<br>reform<br>forget<br>over<br>tape<br>reunion<br>base<br>thank<br>moon<br>already |  
+| bip_39_word_new_br2 | law<br>salt |  
+| bip_39_word_new_br3 | law<br>salt<br>pudding |  
+| bip_39_word_new_br4 | law<br>salt<br>pudding<br>reform |  
+| bip_39_word_new_br5 | law<br>salt<br>pudding<br>reform<br>forget |  
+| bip_39_word_new_br6 | law<br>salt<br>pudding<br>reform<br>forget<br>over |  
+| bip_39_word_new_br7 | law<br>salt<br>pudding<br>reform<br>forget<br>over<br>tape |  
+| bip_39_word_new_br8 | law<br>salt<br>pudding<br>reform<br>forget<br>over<br>tape<br>reunion |  
+| bip_39_word_new_br9 | law<br>salt<br>pudding<br>reform<br>forget<br>over<br>tape<br>reunion<br>base |  
+| bip_39_word_new_line1 | law |  
+| bip_39_word_new_line10 | law
+salt
+pudding
+reform
+forget
+over
+tape
+reunion
+base
+thank |  
+| bip_39_word_new_line11 | law
+salt
+pudding
+reform
+forget
+over
+tape
+reunion
+base
+thank
+moon |  
+| bip_39_word_new_line12 | law
+salt
+pudding
+reform
+forget
+over
+tape
+reunion
+base
+thank
+moon
+already |  
+| bip_39_word_new_line2 | law
+salt |  
+| bip_39_word_new_line3 | law
+salt
+pudding |  
+| bip_39_word_new_line4 | law
+salt
+pudding
+reform |  
+| bip_39_word_new_line5 | law
+salt
+pudding
+reform
+forget |  
+| bip_39_word_new_line6 | law
+salt
+pudding
+reform
+forget
+over |  
+| bip_39_word_new_line7 | law
+salt
+pudding
+reform
+forget
+over
+tape |  
+| bip_39_word_new_line8 | law
+salt
+pudding
+reform
+forget
+over
+tape
+reunion |  
+| bip_39_word_new_line9 | law
+salt
+pudding
+reform
+forget
+over
+tape
+reunion
+base |  
+| bip_39_word_space_0 | ['law', 'salt', 'pudding', 'reform', 'forget', 'over', 'tape', 'reunion', 'base', 'thank', 'moon', 'already'] |  
+| bip_39_word_space_1 | law |  
+| bip_39_word_space_10 | law salt pudding reform forget over tape reunion base thank |  
+| bip_39_word_space_11 | law salt pudding reform forget over tape reunion base thank moon |  
+| bip_39_word_space_12 | law salt pudding reform forget over tape reunion base thank moon already |  
+| bip_39_word_space_2 | law salt |  
+| bip_39_word_space_3 | law salt pudding |  
+| bip_39_word_space_4 | law salt pudding reform |  
+| bip_39_word_space_5 | law salt pudding reform forget |  
+| bip_39_word_space_6 | law salt pudding reform forget over |  
+| bip_39_word_space_7 | law salt pudding reform forget over tape |  
+| bip_39_word_space_8 | law salt pudding reform forget over tape reunion |  
+| bip_39_word_space_9 | law salt pudding reform forget over tape reunion base |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

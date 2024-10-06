@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gym admit
+  * bip 39 word 3: gym admit rack
+  * bip 39 word: gym admit rack lift absent turtle bacon cabbage ginger disagree invest assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gym |  
+| bip_39_word_new_br10 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle<br>bacon<br>cabbage<br>ginger<br>disagree |  
+| bip_39_word_new_br11 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle<br>bacon<br>cabbage<br>ginger<br>disagree<br>invest |  
+| bip_39_word_new_br12 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle<br>bacon<br>cabbage<br>ginger<br>disagree<br>invest<br>assist |  
+| bip_39_word_new_br2 | gym<br>admit |  
+| bip_39_word_new_br3 | gym<br>admit<br>rack |  
+| bip_39_word_new_br4 | gym<br>admit<br>rack<br>lift |  
+| bip_39_word_new_br5 | gym<br>admit<br>rack<br>lift<br>absent |  
+| bip_39_word_new_br6 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle |  
+| bip_39_word_new_br7 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle<br>bacon |  
+| bip_39_word_new_br8 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle<br>bacon<br>cabbage |  
+| bip_39_word_new_br9 | gym<br>admit<br>rack<br>lift<br>absent<br>turtle<br>bacon<br>cabbage<br>ginger |  
+| bip_39_word_new_line1 | gym |  
+| bip_39_word_new_line10 | gym
+admit
+rack
+lift
+absent
+turtle
+bacon
+cabbage
+ginger
+disagree |  
+| bip_39_word_new_line11 | gym
+admit
+rack
+lift
+absent
+turtle
+bacon
+cabbage
+ginger
+disagree
+invest |  
+| bip_39_word_new_line12 | gym
+admit
+rack
+lift
+absent
+turtle
+bacon
+cabbage
+ginger
+disagree
+invest
+assist |  
+| bip_39_word_new_line2 | gym
+admit |  
+| bip_39_word_new_line3 | gym
+admit
+rack |  
+| bip_39_word_new_line4 | gym
+admit
+rack
+lift |  
+| bip_39_word_new_line5 | gym
+admit
+rack
+lift
+absent |  
+| bip_39_word_new_line6 | gym
+admit
+rack
+lift
+absent
+turtle |  
+| bip_39_word_new_line7 | gym
+admit
+rack
+lift
+absent
+turtle
+bacon |  
+| bip_39_word_new_line8 | gym
+admit
+rack
+lift
+absent
+turtle
+bacon
+cabbage |  
+| bip_39_word_new_line9 | gym
+admit
+rack
+lift
+absent
+turtle
+bacon
+cabbage
+ginger |  
+| bip_39_word_space_0 | ['gym', 'admit', 'rack', 'lift', 'absent', 'turtle', 'bacon', 'cabbage', 'ginger', 'disagree', 'invest', 'assist'] |  
+| bip_39_word_space_1 | gym |  
+| bip_39_word_space_10 | gym admit rack lift absent turtle bacon cabbage ginger disagree |  
+| bip_39_word_space_11 | gym admit rack lift absent turtle bacon cabbage ginger disagree invest |  
+| bip_39_word_space_12 | gym admit rack lift absent turtle bacon cabbage ginger disagree invest assist |  
+| bip_39_word_space_2 | gym admit |  
+| bip_39_word_space_3 | gym admit rack |  
+| bip_39_word_space_4 | gym admit rack lift |  
+| bip_39_word_space_5 | gym admit rack lift absent |  
+| bip_39_word_space_6 | gym admit rack lift absent turtle |  
+| bip_39_word_space_7 | gym admit rack lift absent turtle bacon |  
+| bip_39_word_space_8 | gym admit rack lift absent turtle bacon cabbage |  
+| bip_39_word_space_9 | gym admit rack lift absent turtle bacon cabbage ginger |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

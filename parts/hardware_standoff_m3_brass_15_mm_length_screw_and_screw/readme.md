@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_screw
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: debris episode
+  * bip 39 word 3: debris episode north
+  * bip 39 word: debris episode north sorry upgrade evoke question parent shoulder damage wrong age
 
 ### other_codes
 * short_code: so3br15ss
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | debris |  
+| bip_39_word_new_br10 | debris<br>episode<br>north<br>sorry<br>upgrade<br>evoke<br>question<br>parent<br>shoulder<br>damage |  
+| bip_39_word_new_br11 | debris<br>episode<br>north<br>sorry<br>upgrade<br>evoke<br>question<br>parent<br>shoulder<br>damage<br>wrong |  
+| bip_39_word_new_br12 | debris<br>episode<br>north<br>sorry<br>upgrade<br>evoke<br>question<br>parent<br>shoulder<br>damage<br>wrong<br>age |  
+| bip_39_word_new_br2 | debris<br>episode |  
+| bip_39_word_new_br3 | debris<br>episode<br>north |  
+| bip_39_word_new_br4 | debris<br>episode<br>north<br>sorry |  
+| bip_39_word_new_br5 | debris<br>episode<br>north<br>sorry<br>upgrade |  
+| bip_39_word_new_br6 | debris<br>episode<br>north<br>sorry<br>upgrade<br>evoke |  
+| bip_39_word_new_br7 | debris<br>episode<br>north<br>sorry<br>upgrade<br>evoke<br>question |  
+| bip_39_word_new_br8 | debris<br>episode<br>north<br>sorry<br>upgrade<br>evoke<br>question<br>parent |  
+| bip_39_word_new_br9 | debris<br>episode<br>north<br>sorry<br>upgrade<br>evoke<br>question<br>parent<br>shoulder |  
+| bip_39_word_new_line1 | debris |  
+| bip_39_word_new_line10 | debris
+episode
+north
+sorry
+upgrade
+evoke
+question
+parent
+shoulder
+damage |  
+| bip_39_word_new_line11 | debris
+episode
+north
+sorry
+upgrade
+evoke
+question
+parent
+shoulder
+damage
+wrong |  
+| bip_39_word_new_line12 | debris
+episode
+north
+sorry
+upgrade
+evoke
+question
+parent
+shoulder
+damage
+wrong
+age |  
+| bip_39_word_new_line2 | debris
+episode |  
+| bip_39_word_new_line3 | debris
+episode
+north |  
+| bip_39_word_new_line4 | debris
+episode
+north
+sorry |  
+| bip_39_word_new_line5 | debris
+episode
+north
+sorry
+upgrade |  
+| bip_39_word_new_line6 | debris
+episode
+north
+sorry
+upgrade
+evoke |  
+| bip_39_word_new_line7 | debris
+episode
+north
+sorry
+upgrade
+evoke
+question |  
+| bip_39_word_new_line8 | debris
+episode
+north
+sorry
+upgrade
+evoke
+question
+parent |  
+| bip_39_word_new_line9 | debris
+episode
+north
+sorry
+upgrade
+evoke
+question
+parent
+shoulder |  
+| bip_39_word_space_0 | ['debris', 'episode', 'north', 'sorry', 'upgrade', 'evoke', 'question', 'parent', 'shoulder', 'damage', 'wrong', 'age'] |  
+| bip_39_word_space_1 | debris |  
+| bip_39_word_space_10 | debris episode north sorry upgrade evoke question parent shoulder damage |  
+| bip_39_word_space_11 | debris episode north sorry upgrade evoke question parent shoulder damage wrong |  
+| bip_39_word_space_12 | debris episode north sorry upgrade evoke question parent shoulder damage wrong age |  
+| bip_39_word_space_2 | debris episode |  
+| bip_39_word_space_3 | debris episode north |  
+| bip_39_word_space_4 | debris episode north sorry |  
+| bip_39_word_space_5 | debris episode north sorry upgrade |  
+| bip_39_word_space_6 | debris episode north sorry upgrade evoke |  
+| bip_39_word_space_7 | debris episode north sorry upgrade evoke question |  
+| bip_39_word_space_8 | debris episode north sorry upgrade evoke question parent |  
+| bip_39_word_space_9 | debris episode north sorry upgrade evoke question parent shoulder |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

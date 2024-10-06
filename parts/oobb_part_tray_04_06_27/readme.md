@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glass head
+  * bip 39 word 3: glass head extend
+  * bip 39 word: glass head extend sing cloud capable toddler device depend question acid alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glass |  
+| bip_39_word_new_br10 | glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device<br>depend<br>question |  
+| bip_39_word_new_br11 | glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device<br>depend<br>question<br>acid |  
+| bip_39_word_new_br12 | glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device<br>depend<br>question<br>acid<br>alarm |  
+| bip_39_word_new_br2 | glass<br>head |  
+| bip_39_word_new_br3 | glass<br>head<br>extend |  
+| bip_39_word_new_br4 | glass<br>head<br>extend<br>sing |  
+| bip_39_word_new_br5 | glass<br>head<br>extend<br>sing<br>cloud |  
+| bip_39_word_new_br6 | glass<br>head<br>extend<br>sing<br>cloud<br>capable |  
+| bip_39_word_new_br7 | glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler |  
+| bip_39_word_new_br8 | glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device |  
+| bip_39_word_new_br9 | glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device<br>depend |  
+| bip_39_word_new_line1 | glass |  
+| bip_39_word_new_line10 | glass
+head
+extend
+sing
+cloud
+capable
+toddler
+device
+depend
+question |  
+| bip_39_word_new_line11 | glass
+head
+extend
+sing
+cloud
+capable
+toddler
+device
+depend
+question
+acid |  
+| bip_39_word_new_line12 | glass
+head
+extend
+sing
+cloud
+capable
+toddler
+device
+depend
+question
+acid
+alarm |  
+| bip_39_word_new_line2 | glass
+head |  
+| bip_39_word_new_line3 | glass
+head
+extend |  
+| bip_39_word_new_line4 | glass
+head
+extend
+sing |  
+| bip_39_word_new_line5 | glass
+head
+extend
+sing
+cloud |  
+| bip_39_word_new_line6 | glass
+head
+extend
+sing
+cloud
+capable |  
+| bip_39_word_new_line7 | glass
+head
+extend
+sing
+cloud
+capable
+toddler |  
+| bip_39_word_new_line8 | glass
+head
+extend
+sing
+cloud
+capable
+toddler
+device |  
+| bip_39_word_new_line9 | glass
+head
+extend
+sing
+cloud
+capable
+toddler
+device
+depend |  
+| bip_39_word_space_0 | ['glass', 'head', 'extend', 'sing', 'cloud', 'capable', 'toddler', 'device', 'depend', 'question', 'acid', 'alarm'] |  
+| bip_39_word_space_1 | glass |  
+| bip_39_word_space_10 | glass head extend sing cloud capable toddler device depend question |  
+| bip_39_word_space_11 | glass head extend sing cloud capable toddler device depend question acid |  
+| bip_39_word_space_12 | glass head extend sing cloud capable toddler device depend question acid alarm |  
+| bip_39_word_space_2 | glass head |  
+| bip_39_word_space_3 | glass head extend |  
+| bip_39_word_space_4 | glass head extend sing |  
+| bip_39_word_space_5 | glass head extend sing cloud |  
+| bip_39_word_space_6 | glass head extend sing cloud capable |  
+| bip_39_word_space_7 | glass head extend sing cloud capable toddler |  
+| bip_39_word_space_8 | glass head extend sing cloud capable toddler device |  
+| bip_39_word_space_9 | glass head extend sing cloud capable toddler device depend |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

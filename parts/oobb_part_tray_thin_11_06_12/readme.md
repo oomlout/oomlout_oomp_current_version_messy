@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rally mix
+  * bip 39 word 3: rally mix border
+  * bip 39 word: rally mix border safe ignore faint conduct puppy alarm poem nephew airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rally |  
+| bip_39_word_new_br10 | rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm<br>poem |  
+| bip_39_word_new_br11 | rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm<br>poem<br>nephew |  
+| bip_39_word_new_br12 | rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm<br>poem<br>nephew<br>airport |  
+| bip_39_word_new_br2 | rally<br>mix |  
+| bip_39_word_new_br3 | rally<br>mix<br>border |  
+| bip_39_word_new_br4 | rally<br>mix<br>border<br>safe |  
+| bip_39_word_new_br5 | rally<br>mix<br>border<br>safe<br>ignore |  
+| bip_39_word_new_br6 | rally<br>mix<br>border<br>safe<br>ignore<br>faint |  
+| bip_39_word_new_br7 | rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct |  
+| bip_39_word_new_br8 | rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy |  
+| bip_39_word_new_br9 | rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm |  
+| bip_39_word_new_line1 | rally |  
+| bip_39_word_new_line10 | rally
+mix
+border
+safe
+ignore
+faint
+conduct
+puppy
+alarm
+poem |  
+| bip_39_word_new_line11 | rally
+mix
+border
+safe
+ignore
+faint
+conduct
+puppy
+alarm
+poem
+nephew |  
+| bip_39_word_new_line12 | rally
+mix
+border
+safe
+ignore
+faint
+conduct
+puppy
+alarm
+poem
+nephew
+airport |  
+| bip_39_word_new_line2 | rally
+mix |  
+| bip_39_word_new_line3 | rally
+mix
+border |  
+| bip_39_word_new_line4 | rally
+mix
+border
+safe |  
+| bip_39_word_new_line5 | rally
+mix
+border
+safe
+ignore |  
+| bip_39_word_new_line6 | rally
+mix
+border
+safe
+ignore
+faint |  
+| bip_39_word_new_line7 | rally
+mix
+border
+safe
+ignore
+faint
+conduct |  
+| bip_39_word_new_line8 | rally
+mix
+border
+safe
+ignore
+faint
+conduct
+puppy |  
+| bip_39_word_new_line9 | rally
+mix
+border
+safe
+ignore
+faint
+conduct
+puppy
+alarm |  
+| bip_39_word_space_0 | ['rally', 'mix', 'border', 'safe', 'ignore', 'faint', 'conduct', 'puppy', 'alarm', 'poem', 'nephew', 'airport'] |  
+| bip_39_word_space_1 | rally |  
+| bip_39_word_space_10 | rally mix border safe ignore faint conduct puppy alarm poem |  
+| bip_39_word_space_11 | rally mix border safe ignore faint conduct puppy alarm poem nephew |  
+| bip_39_word_space_12 | rally mix border safe ignore faint conduct puppy alarm poem nephew airport |  
+| bip_39_word_space_2 | rally mix |  
+| bip_39_word_space_3 | rally mix border |  
+| bip_39_word_space_4 | rally mix border safe |  
+| bip_39_word_space_5 | rally mix border safe ignore |  
+| bip_39_word_space_6 | rally mix border safe ignore faint |  
+| bip_39_word_space_7 | rally mix border safe ignore faint conduct |  
+| bip_39_word_space_8 | rally mix border safe ignore faint conduct puppy |  
+| bip_39_word_space_9 | rally mix border safe ignore faint conduct puppy alarm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

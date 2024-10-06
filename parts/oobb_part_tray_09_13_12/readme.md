@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hour proud
+  * bip 39 word 3: hour proud rail
+  * bip 39 word: hour proud rail furnace such seek garden control nature canoe arrive afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hour |  
+| bip_39_word_new_br10 | hour<br>proud<br>rail<br>furnace<br>such<br>seek<br>garden<br>control<br>nature<br>canoe |  
+| bip_39_word_new_br11 | hour<br>proud<br>rail<br>furnace<br>such<br>seek<br>garden<br>control<br>nature<br>canoe<br>arrive |  
+| bip_39_word_new_br12 | hour<br>proud<br>rail<br>furnace<br>such<br>seek<br>garden<br>control<br>nature<br>canoe<br>arrive<br>afraid |  
+| bip_39_word_new_br2 | hour<br>proud |  
+| bip_39_word_new_br3 | hour<br>proud<br>rail |  
+| bip_39_word_new_br4 | hour<br>proud<br>rail<br>furnace |  
+| bip_39_word_new_br5 | hour<br>proud<br>rail<br>furnace<br>such |  
+| bip_39_word_new_br6 | hour<br>proud<br>rail<br>furnace<br>such<br>seek |  
+| bip_39_word_new_br7 | hour<br>proud<br>rail<br>furnace<br>such<br>seek<br>garden |  
+| bip_39_word_new_br8 | hour<br>proud<br>rail<br>furnace<br>such<br>seek<br>garden<br>control |  
+| bip_39_word_new_br9 | hour<br>proud<br>rail<br>furnace<br>such<br>seek<br>garden<br>control<br>nature |  
+| bip_39_word_new_line1 | hour |  
+| bip_39_word_new_line10 | hour
+proud
+rail
+furnace
+such
+seek
+garden
+control
+nature
+canoe |  
+| bip_39_word_new_line11 | hour
+proud
+rail
+furnace
+such
+seek
+garden
+control
+nature
+canoe
+arrive |  
+| bip_39_word_new_line12 | hour
+proud
+rail
+furnace
+such
+seek
+garden
+control
+nature
+canoe
+arrive
+afraid |  
+| bip_39_word_new_line2 | hour
+proud |  
+| bip_39_word_new_line3 | hour
+proud
+rail |  
+| bip_39_word_new_line4 | hour
+proud
+rail
+furnace |  
+| bip_39_word_new_line5 | hour
+proud
+rail
+furnace
+such |  
+| bip_39_word_new_line6 | hour
+proud
+rail
+furnace
+such
+seek |  
+| bip_39_word_new_line7 | hour
+proud
+rail
+furnace
+such
+seek
+garden |  
+| bip_39_word_new_line8 | hour
+proud
+rail
+furnace
+such
+seek
+garden
+control |  
+| bip_39_word_new_line9 | hour
+proud
+rail
+furnace
+such
+seek
+garden
+control
+nature |  
+| bip_39_word_space_0 | ['hour', 'proud', 'rail', 'furnace', 'such', 'seek', 'garden', 'control', 'nature', 'canoe', 'arrive', 'afraid'] |  
+| bip_39_word_space_1 | hour |  
+| bip_39_word_space_10 | hour proud rail furnace such seek garden control nature canoe |  
+| bip_39_word_space_11 | hour proud rail furnace such seek garden control nature canoe arrive |  
+| bip_39_word_space_12 | hour proud rail furnace such seek garden control nature canoe arrive afraid |  
+| bip_39_word_space_2 | hour proud |  
+| bip_39_word_space_3 | hour proud rail |  
+| bip_39_word_space_4 | hour proud rail furnace |  
+| bip_39_word_space_5 | hour proud rail furnace such |  
+| bip_39_word_space_6 | hour proud rail furnace such seek |  
+| bip_39_word_space_7 | hour proud rail furnace such seek garden |  
+| bip_39_word_space_8 | hour proud rail furnace such seek garden control |  
+| bip_39_word_space_9 | hour proud rail furnace such seek garden control nature |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

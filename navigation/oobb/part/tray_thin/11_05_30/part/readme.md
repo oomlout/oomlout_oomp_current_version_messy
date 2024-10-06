@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: face choice
+  * bip 39 word 3: face choice pistol
+  * bip 39 word: face choice pistol shove account coach method giant caught shallow ability age
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | face |  
+| bip_39_word_new_br10 | face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught<br>shallow |  
+| bip_39_word_new_br11 | face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught<br>shallow<br>ability |  
+| bip_39_word_new_br12 | face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught<br>shallow<br>ability<br>age |  
+| bip_39_word_new_br2 | face<br>choice |  
+| bip_39_word_new_br3 | face<br>choice<br>pistol |  
+| bip_39_word_new_br4 | face<br>choice<br>pistol<br>shove |  
+| bip_39_word_new_br5 | face<br>choice<br>pistol<br>shove<br>account |  
+| bip_39_word_new_br6 | face<br>choice<br>pistol<br>shove<br>account<br>coach |  
+| bip_39_word_new_br7 | face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method |  
+| bip_39_word_new_br8 | face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant |  
+| bip_39_word_new_br9 | face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught |  
+| bip_39_word_new_line1 | face |  
+| bip_39_word_new_line10 | face
+choice
+pistol
+shove
+account
+coach
+method
+giant
+caught
+shallow |  
+| bip_39_word_new_line11 | face
+choice
+pistol
+shove
+account
+coach
+method
+giant
+caught
+shallow
+ability |  
+| bip_39_word_new_line12 | face
+choice
+pistol
+shove
+account
+coach
+method
+giant
+caught
+shallow
+ability
+age |  
+| bip_39_word_new_line2 | face
+choice |  
+| bip_39_word_new_line3 | face
+choice
+pistol |  
+| bip_39_word_new_line4 | face
+choice
+pistol
+shove |  
+| bip_39_word_new_line5 | face
+choice
+pistol
+shove
+account |  
+| bip_39_word_new_line6 | face
+choice
+pistol
+shove
+account
+coach |  
+| bip_39_word_new_line7 | face
+choice
+pistol
+shove
+account
+coach
+method |  
+| bip_39_word_new_line8 | face
+choice
+pistol
+shove
+account
+coach
+method
+giant |  
+| bip_39_word_new_line9 | face
+choice
+pistol
+shove
+account
+coach
+method
+giant
+caught |  
+| bip_39_word_space_0 | ['face', 'choice', 'pistol', 'shove', 'account', 'coach', 'method', 'giant', 'caught', 'shallow', 'ability', 'age'] |  
+| bip_39_word_space_1 | face |  
+| bip_39_word_space_10 | face choice pistol shove account coach method giant caught shallow |  
+| bip_39_word_space_11 | face choice pistol shove account coach method giant caught shallow ability |  
+| bip_39_word_space_12 | face choice pistol shove account coach method giant caught shallow ability age |  
+| bip_39_word_space_2 | face choice |  
+| bip_39_word_space_3 | face choice pistol |  
+| bip_39_word_space_4 | face choice pistol shove |  
+| bip_39_word_space_5 | face choice pistol shove account |  
+| bip_39_word_space_6 | face choice pistol shove account coach |  
+| bip_39_word_space_7 | face choice pistol shove account coach method |  
+| bip_39_word_space_8 | face choice pistol shove account coach method giant |  
+| bip_39_word_space_9 | face choice pistol shove account coach method giant caught |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

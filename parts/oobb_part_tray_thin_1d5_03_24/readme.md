@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: art duck
+  * bip 39 word 3: art duck slush
+  * bip 39 word: art duck slush enrich claw prevent scan rigid bean bike music act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | art |  
+| bip_39_word_new_br10 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike |  
+| bip_39_word_new_br11 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike<br>music |  
+| bip_39_word_new_br12 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean<br>bike<br>music<br>act |  
+| bip_39_word_new_br2 | art<br>duck |  
+| bip_39_word_new_br3 | art<br>duck<br>slush |  
+| bip_39_word_new_br4 | art<br>duck<br>slush<br>enrich |  
+| bip_39_word_new_br5 | art<br>duck<br>slush<br>enrich<br>claw |  
+| bip_39_word_new_br6 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent |  
+| bip_39_word_new_br7 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan |  
+| bip_39_word_new_br8 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid |  
+| bip_39_word_new_br9 | art<br>duck<br>slush<br>enrich<br>claw<br>prevent<br>scan<br>rigid<br>bean |  
+| bip_39_word_new_line1 | art |  
+| bip_39_word_new_line10 | art
+duck
+slush
+enrich
+claw
+prevent
+scan
+rigid
+bean
+bike |  
+| bip_39_word_new_line11 | art
+duck
+slush
+enrich
+claw
+prevent
+scan
+rigid
+bean
+bike
+music |  
+| bip_39_word_new_line12 | art
+duck
+slush
+enrich
+claw
+prevent
+scan
+rigid
+bean
+bike
+music
+act |  
+| bip_39_word_new_line2 | art
+duck |  
+| bip_39_word_new_line3 | art
+duck
+slush |  
+| bip_39_word_new_line4 | art
+duck
+slush
+enrich |  
+| bip_39_word_new_line5 | art
+duck
+slush
+enrich
+claw |  
+| bip_39_word_new_line6 | art
+duck
+slush
+enrich
+claw
+prevent |  
+| bip_39_word_new_line7 | art
+duck
+slush
+enrich
+claw
+prevent
+scan |  
+| bip_39_word_new_line8 | art
+duck
+slush
+enrich
+claw
+prevent
+scan
+rigid |  
+| bip_39_word_new_line9 | art
+duck
+slush
+enrich
+claw
+prevent
+scan
+rigid
+bean |  
+| bip_39_word_space_0 | ['art', 'duck', 'slush', 'enrich', 'claw', 'prevent', 'scan', 'rigid', 'bean', 'bike', 'music', 'act'] |  
+| bip_39_word_space_1 | art |  
+| bip_39_word_space_10 | art duck slush enrich claw prevent scan rigid bean bike |  
+| bip_39_word_space_11 | art duck slush enrich claw prevent scan rigid bean bike music |  
+| bip_39_word_space_12 | art duck slush enrich claw prevent scan rigid bean bike music act |  
+| bip_39_word_space_2 | art duck |  
+| bip_39_word_space_3 | art duck slush |  
+| bip_39_word_space_4 | art duck slush enrich |  
+| bip_39_word_space_5 | art duck slush enrich claw |  
+| bip_39_word_space_6 | art duck slush enrich claw prevent |  
+| bip_39_word_space_7 | art duck slush enrich claw prevent scan |  
+| bip_39_word_space_8 | art duck slush enrich claw prevent scan rigid |  
+| bip_39_word_space_9 | art duck slush enrich claw prevent scan rigid bean |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

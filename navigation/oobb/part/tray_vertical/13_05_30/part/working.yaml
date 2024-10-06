@@ -1,3 +1,158 @@
+bip_39_word_new_br1: arm
+bip_39_word_new_br10: arm<br>dragon<br>issue<br>thing<br>shop<br>turn<br>october<br>zone<br>lady<br>antique
+bip_39_word_new_br11: arm<br>dragon<br>issue<br>thing<br>shop<br>turn<br>october<br>zone<br>lady<br>antique<br>hawk
+bip_39_word_new_br2: arm<br>dragon
+bip_39_word_new_br3: arm<br>dragon<br>issue
+bip_39_word_new_br4: arm<br>dragon<br>issue<br>thing
+bip_39_word_new_br5: arm<br>dragon<br>issue<br>thing<br>shop
+bip_39_word_new_br6: arm<br>dragon<br>issue<br>thing<br>shop<br>turn
+bip_39_word_new_br7: arm<br>dragon<br>issue<br>thing<br>shop<br>turn<br>october
+bip_39_word_new_br8: arm<br>dragon<br>issue<br>thing<br>shop<br>turn<br>october<br>zone
+bip_39_word_new_br9: arm<br>dragon<br>issue<br>thing<br>shop<br>turn<br>october<br>zone<br>lady
+bip_39_word_new_line1: arm
+bip_39_word_new_line10: 'arm
+
+  dragon
+
+  issue
+
+  thing
+
+  shop
+
+  turn
+
+  october
+
+  zone
+
+  lady
+
+  antique'
+bip_39_word_new_line11: 'arm
+
+  dragon
+
+  issue
+
+  thing
+
+  shop
+
+  turn
+
+  october
+
+  zone
+
+  lady
+
+  antique
+
+  hawk'
+bip_39_word_new_line2: 'arm
+
+  dragon'
+bip_39_word_new_line3: 'arm
+
+  dragon
+
+  issue'
+bip_39_word_new_line4: 'arm
+
+  dragon
+
+  issue
+
+  thing'
+bip_39_word_new_line5: 'arm
+
+  dragon
+
+  issue
+
+  thing
+
+  shop'
+bip_39_word_new_line6: 'arm
+
+  dragon
+
+  issue
+
+  thing
+
+  shop
+
+  turn'
+bip_39_word_new_line7: 'arm
+
+  dragon
+
+  issue
+
+  thing
+
+  shop
+
+  turn
+
+  october'
+bip_39_word_new_line8: 'arm
+
+  dragon
+
+  issue
+
+  thing
+
+  shop
+
+  turn
+
+  october
+
+  zone'
+bip_39_word_new_line9: 'arm
+
+  dragon
+
+  issue
+
+  thing
+
+  shop
+
+  turn
+
+  october
+
+  zone
+
+  lady'
+bip_39_word_space_0:
+- arm
+- dragon
+- issue
+- thing
+- shop
+- turn
+- october
+- zone
+- lady
+- antique
+- hawk
+bip_39_word_space_1: arm
+bip_39_word_space_10: arm dragon issue thing shop turn october zone lady antique
+bip_39_word_space_11: arm dragon issue thing shop turn october zone lady antique hawk
+bip_39_word_space_2: arm dragon
+bip_39_word_space_3: arm dragon issue
+bip_39_word_space_4: arm dragon issue thing
+bip_39_word_space_5: arm dragon issue thing shop
+bip_39_word_space_6: arm dragon issue thing shop turn
+bip_39_word_space_7: arm dragon issue thing shop turn october
+bip_39_word_space_8: arm dragon issue thing shop turn october zone
+bip_39_word_space_9: arm dragon issue thing shop turn october zone lady
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

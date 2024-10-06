@@ -1,3 +1,186 @@
+bip_39_word_new_br1: universe
+bip_39_word_new_br10: universe<br>sugar<br>woman<br>fatal<br>off<br>cram<br>spy<br>require<br>swing<br>maximum
+bip_39_word_new_br11: universe<br>sugar<br>woman<br>fatal<br>off<br>cram<br>spy<br>require<br>swing<br>maximum<br>inch
+bip_39_word_new_br12: universe<br>sugar<br>woman<br>fatal<br>off<br>cram<br>spy<br>require<br>swing<br>maximum<br>inch<br>april
+bip_39_word_new_br2: universe<br>sugar
+bip_39_word_new_br3: universe<br>sugar<br>woman
+bip_39_word_new_br4: universe<br>sugar<br>woman<br>fatal
+bip_39_word_new_br5: universe<br>sugar<br>woman<br>fatal<br>off
+bip_39_word_new_br6: universe<br>sugar<br>woman<br>fatal<br>off<br>cram
+bip_39_word_new_br7: universe<br>sugar<br>woman<br>fatal<br>off<br>cram<br>spy
+bip_39_word_new_br8: universe<br>sugar<br>woman<br>fatal<br>off<br>cram<br>spy<br>require
+bip_39_word_new_br9: universe<br>sugar<br>woman<br>fatal<br>off<br>cram<br>spy<br>require<br>swing
+bip_39_word_new_line1: universe
+bip_39_word_new_line10: 'universe
+
+  sugar
+
+  woman
+
+  fatal
+
+  off
+
+  cram
+
+  spy
+
+  require
+
+  swing
+
+  maximum'
+bip_39_word_new_line11: 'universe
+
+  sugar
+
+  woman
+
+  fatal
+
+  off
+
+  cram
+
+  spy
+
+  require
+
+  swing
+
+  maximum
+
+  inch'
+bip_39_word_new_line12: 'universe
+
+  sugar
+
+  woman
+
+  fatal
+
+  off
+
+  cram
+
+  spy
+
+  require
+
+  swing
+
+  maximum
+
+  inch
+
+  april'
+bip_39_word_new_line2: 'universe
+
+  sugar'
+bip_39_word_new_line3: 'universe
+
+  sugar
+
+  woman'
+bip_39_word_new_line4: 'universe
+
+  sugar
+
+  woman
+
+  fatal'
+bip_39_word_new_line5: 'universe
+
+  sugar
+
+  woman
+
+  fatal
+
+  off'
+bip_39_word_new_line6: 'universe
+
+  sugar
+
+  woman
+
+  fatal
+
+  off
+
+  cram'
+bip_39_word_new_line7: 'universe
+
+  sugar
+
+  woman
+
+  fatal
+
+  off
+
+  cram
+
+  spy'
+bip_39_word_new_line8: 'universe
+
+  sugar
+
+  woman
+
+  fatal
+
+  off
+
+  cram
+
+  spy
+
+  require'
+bip_39_word_new_line9: 'universe
+
+  sugar
+
+  woman
+
+  fatal
+
+  off
+
+  cram
+
+  spy
+
+  require
+
+  swing'
+bip_39_word_space_0:
+- universe
+- sugar
+- woman
+- fatal
+- 'off'
+- cram
+- spy
+- require
+- swing
+- maximum
+- inch
+- april
+bip_39_word_space_1: universe
+bip_39_word_space_10: universe sugar woman fatal off cram spy require swing maximum
+bip_39_word_space_11: universe sugar woman fatal off cram spy require swing maximum
+  inch
+bip_39_word_space_12: universe sugar woman fatal off cram spy require swing maximum
+  inch april
+bip_39_word_space_2: universe sugar
+bip_39_word_space_3: universe sugar woman
+bip_39_word_space_4: universe sugar woman fatal
+bip_39_word_space_5: universe sugar woman fatal off
+bip_39_word_space_6: universe sugar woman fatal off cram
+bip_39_word_space_7: universe sugar woman fatal off cram spy
+bip_39_word_space_8: universe sugar woman fatal off cram spy require
+bip_39_word_space_9: universe sugar woman fatal off cram spy require swing
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

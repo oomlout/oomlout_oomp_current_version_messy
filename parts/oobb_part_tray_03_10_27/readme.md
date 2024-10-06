@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gorilla sad
+  * bip 39 word 3: gorilla sad elegant
+  * bip 39 word: gorilla sad elegant choice leg winter frog approve edit fine decade almost
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gorilla |  
+| bip_39_word_new_br10 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter<br>frog<br>approve<br>edit<br>fine |  
+| bip_39_word_new_br11 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter<br>frog<br>approve<br>edit<br>fine<br>decade |  
+| bip_39_word_new_br12 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter<br>frog<br>approve<br>edit<br>fine<br>decade<br>almost |  
+| bip_39_word_new_br2 | gorilla<br>sad |  
+| bip_39_word_new_br3 | gorilla<br>sad<br>elegant |  
+| bip_39_word_new_br4 | gorilla<br>sad<br>elegant<br>choice |  
+| bip_39_word_new_br5 | gorilla<br>sad<br>elegant<br>choice<br>leg |  
+| bip_39_word_new_br6 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter |  
+| bip_39_word_new_br7 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter<br>frog |  
+| bip_39_word_new_br8 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter<br>frog<br>approve |  
+| bip_39_word_new_br9 | gorilla<br>sad<br>elegant<br>choice<br>leg<br>winter<br>frog<br>approve<br>edit |  
+| bip_39_word_new_line1 | gorilla |  
+| bip_39_word_new_line10 | gorilla
+sad
+elegant
+choice
+leg
+winter
+frog
+approve
+edit
+fine |  
+| bip_39_word_new_line11 | gorilla
+sad
+elegant
+choice
+leg
+winter
+frog
+approve
+edit
+fine
+decade |  
+| bip_39_word_new_line12 | gorilla
+sad
+elegant
+choice
+leg
+winter
+frog
+approve
+edit
+fine
+decade
+almost |  
+| bip_39_word_new_line2 | gorilla
+sad |  
+| bip_39_word_new_line3 | gorilla
+sad
+elegant |  
+| bip_39_word_new_line4 | gorilla
+sad
+elegant
+choice |  
+| bip_39_word_new_line5 | gorilla
+sad
+elegant
+choice
+leg |  
+| bip_39_word_new_line6 | gorilla
+sad
+elegant
+choice
+leg
+winter |  
+| bip_39_word_new_line7 | gorilla
+sad
+elegant
+choice
+leg
+winter
+frog |  
+| bip_39_word_new_line8 | gorilla
+sad
+elegant
+choice
+leg
+winter
+frog
+approve |  
+| bip_39_word_new_line9 | gorilla
+sad
+elegant
+choice
+leg
+winter
+frog
+approve
+edit |  
+| bip_39_word_space_0 | ['gorilla', 'sad', 'elegant', 'choice', 'leg', 'winter', 'frog', 'approve', 'edit', 'fine', 'decade', 'almost'] |  
+| bip_39_word_space_1 | gorilla |  
+| bip_39_word_space_10 | gorilla sad elegant choice leg winter frog approve edit fine |  
+| bip_39_word_space_11 | gorilla sad elegant choice leg winter frog approve edit fine decade |  
+| bip_39_word_space_12 | gorilla sad elegant choice leg winter frog approve edit fine decade almost |  
+| bip_39_word_space_2 | gorilla sad |  
+| bip_39_word_space_3 | gorilla sad elegant |  
+| bip_39_word_space_4 | gorilla sad elegant choice |  
+| bip_39_word_space_5 | gorilla sad elegant choice leg |  
+| bip_39_word_space_6 | gorilla sad elegant choice leg winter |  
+| bip_39_word_space_7 | gorilla sad elegant choice leg winter frog |  
+| bip_39_word_space_8 | gorilla sad elegant choice leg winter frog approve |  
+| bip_39_word_space_9 | gorilla sad elegant choice leg winter frog approve edit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

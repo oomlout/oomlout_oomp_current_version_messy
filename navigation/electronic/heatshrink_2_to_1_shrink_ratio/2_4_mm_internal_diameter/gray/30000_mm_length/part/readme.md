@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cattle cherry
+  * bip 39 word 3: cattle cherry wise
+  * bip 39 word: cattle cherry wise invest idea permit minor tip curve citizen bind acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cattle |  
+| bip_39_word_new_br10 | cattle<br>cherry<br>wise<br>invest<br>idea<br>permit<br>minor<br>tip<br>curve<br>citizen |  
+| bip_39_word_new_br11 | cattle<br>cherry<br>wise<br>invest<br>idea<br>permit<br>minor<br>tip<br>curve<br>citizen<br>bind |  
+| bip_39_word_new_br12 | cattle<br>cherry<br>wise<br>invest<br>idea<br>permit<br>minor<br>tip<br>curve<br>citizen<br>bind<br>acid |  
+| bip_39_word_new_br2 | cattle<br>cherry |  
+| bip_39_word_new_br3 | cattle<br>cherry<br>wise |  
+| bip_39_word_new_br4 | cattle<br>cherry<br>wise<br>invest |  
+| bip_39_word_new_br5 | cattle<br>cherry<br>wise<br>invest<br>idea |  
+| bip_39_word_new_br6 | cattle<br>cherry<br>wise<br>invest<br>idea<br>permit |  
+| bip_39_word_new_br7 | cattle<br>cherry<br>wise<br>invest<br>idea<br>permit<br>minor |  
+| bip_39_word_new_br8 | cattle<br>cherry<br>wise<br>invest<br>idea<br>permit<br>minor<br>tip |  
+| bip_39_word_new_br9 | cattle<br>cherry<br>wise<br>invest<br>idea<br>permit<br>minor<br>tip<br>curve |  
+| bip_39_word_new_line1 | cattle |  
+| bip_39_word_new_line10 | cattle
+cherry
+wise
+invest
+idea
+permit
+minor
+tip
+curve
+citizen |  
+| bip_39_word_new_line11 | cattle
+cherry
+wise
+invest
+idea
+permit
+minor
+tip
+curve
+citizen
+bind |  
+| bip_39_word_new_line12 | cattle
+cherry
+wise
+invest
+idea
+permit
+minor
+tip
+curve
+citizen
+bind
+acid |  
+| bip_39_word_new_line2 | cattle
+cherry |  
+| bip_39_word_new_line3 | cattle
+cherry
+wise |  
+| bip_39_word_new_line4 | cattle
+cherry
+wise
+invest |  
+| bip_39_word_new_line5 | cattle
+cherry
+wise
+invest
+idea |  
+| bip_39_word_new_line6 | cattle
+cherry
+wise
+invest
+idea
+permit |  
+| bip_39_word_new_line7 | cattle
+cherry
+wise
+invest
+idea
+permit
+minor |  
+| bip_39_word_new_line8 | cattle
+cherry
+wise
+invest
+idea
+permit
+minor
+tip |  
+| bip_39_word_new_line9 | cattle
+cherry
+wise
+invest
+idea
+permit
+minor
+tip
+curve |  
+| bip_39_word_space_0 | ['cattle', 'cherry', 'wise', 'invest', 'idea', 'permit', 'minor', 'tip', 'curve', 'citizen', 'bind', 'acid'] |  
+| bip_39_word_space_1 | cattle |  
+| bip_39_word_space_10 | cattle cherry wise invest idea permit minor tip curve citizen |  
+| bip_39_word_space_11 | cattle cherry wise invest idea permit minor tip curve citizen bind |  
+| bip_39_word_space_12 | cattle cherry wise invest idea permit minor tip curve citizen bind acid |  
+| bip_39_word_space_2 | cattle cherry |  
+| bip_39_word_space_3 | cattle cherry wise |  
+| bip_39_word_space_4 | cattle cherry wise invest |  
+| bip_39_word_space_5 | cattle cherry wise invest idea |  
+| bip_39_word_space_6 | cattle cherry wise invest idea permit |  
+| bip_39_word_space_7 | cattle cherry wise invest idea permit minor |  
+| bip_39_word_space_8 | cattle cherry wise invest idea permit minor tip |  
+| bip_39_word_space_9 | cattle cherry wise invest idea permit minor tip curve |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

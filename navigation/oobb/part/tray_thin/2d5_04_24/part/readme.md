@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: prison rebel
+  * bip 39 word 3: prison rebel trumpet
+  * bip 39 word: prison rebel trumpet segment legend broccoli umbrella couch pyramid arrive angle armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | prison |  
+| bip_39_word_new_br10 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive |  
+| bip_39_word_new_br11 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive<br>angle |  
+| bip_39_word_new_br12 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid<br>arrive<br>angle<br>armor |  
+| bip_39_word_new_br2 | prison<br>rebel |  
+| bip_39_word_new_br3 | prison<br>rebel<br>trumpet |  
+| bip_39_word_new_br4 | prison<br>rebel<br>trumpet<br>segment |  
+| bip_39_word_new_br5 | prison<br>rebel<br>trumpet<br>segment<br>legend |  
+| bip_39_word_new_br6 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli |  
+| bip_39_word_new_br7 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella |  
+| bip_39_word_new_br8 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch |  
+| bip_39_word_new_br9 | prison<br>rebel<br>trumpet<br>segment<br>legend<br>broccoli<br>umbrella<br>couch<br>pyramid |  
+| bip_39_word_new_line1 | prison |  
+| bip_39_word_new_line10 | prison
+rebel
+trumpet
+segment
+legend
+broccoli
+umbrella
+couch
+pyramid
+arrive |  
+| bip_39_word_new_line11 | prison
+rebel
+trumpet
+segment
+legend
+broccoli
+umbrella
+couch
+pyramid
+arrive
+angle |  
+| bip_39_word_new_line12 | prison
+rebel
+trumpet
+segment
+legend
+broccoli
+umbrella
+couch
+pyramid
+arrive
+angle
+armor |  
+| bip_39_word_new_line2 | prison
+rebel |  
+| bip_39_word_new_line3 | prison
+rebel
+trumpet |  
+| bip_39_word_new_line4 | prison
+rebel
+trumpet
+segment |  
+| bip_39_word_new_line5 | prison
+rebel
+trumpet
+segment
+legend |  
+| bip_39_word_new_line6 | prison
+rebel
+trumpet
+segment
+legend
+broccoli |  
+| bip_39_word_new_line7 | prison
+rebel
+trumpet
+segment
+legend
+broccoli
+umbrella |  
+| bip_39_word_new_line8 | prison
+rebel
+trumpet
+segment
+legend
+broccoli
+umbrella
+couch |  
+| bip_39_word_new_line9 | prison
+rebel
+trumpet
+segment
+legend
+broccoli
+umbrella
+couch
+pyramid |  
+| bip_39_word_space_0 | ['prison', 'rebel', 'trumpet', 'segment', 'legend', 'broccoli', 'umbrella', 'couch', 'pyramid', 'arrive', 'angle', 'armor'] |  
+| bip_39_word_space_1 | prison |  
+| bip_39_word_space_10 | prison rebel trumpet segment legend broccoli umbrella couch pyramid arrive |  
+| bip_39_word_space_11 | prison rebel trumpet segment legend broccoli umbrella couch pyramid arrive angle |  
+| bip_39_word_space_12 | prison rebel trumpet segment legend broccoli umbrella couch pyramid arrive angle armor |  
+| bip_39_word_space_2 | prison rebel |  
+| bip_39_word_space_3 | prison rebel trumpet |  
+| bip_39_word_space_4 | prison rebel trumpet segment |  
+| bip_39_word_space_5 | prison rebel trumpet segment legend |  
+| bip_39_word_space_6 | prison rebel trumpet segment legend broccoli |  
+| bip_39_word_space_7 | prison rebel trumpet segment legend broccoli umbrella |  
+| bip_39_word_space_8 | prison rebel trumpet segment legend broccoli umbrella couch |  
+| bip_39_word_space_9 | prison rebel trumpet segment legend broccoli umbrella couch pyramid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

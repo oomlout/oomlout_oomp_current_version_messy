@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blur grape
+  * bip 39 word 3: blur grape poet
+  * bip 39 word: blur grape poet bargain hint sell pipe region drum hire logic attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blur |  
+| bip_39_word_new_br10 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell<br>pipe<br>region<br>drum<br>hire |  
+| bip_39_word_new_br11 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell<br>pipe<br>region<br>drum<br>hire<br>logic |  
+| bip_39_word_new_br12 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell<br>pipe<br>region<br>drum<br>hire<br>logic<br>attract |  
+| bip_39_word_new_br2 | blur<br>grape |  
+| bip_39_word_new_br3 | blur<br>grape<br>poet |  
+| bip_39_word_new_br4 | blur<br>grape<br>poet<br>bargain |  
+| bip_39_word_new_br5 | blur<br>grape<br>poet<br>bargain<br>hint |  
+| bip_39_word_new_br6 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell |  
+| bip_39_word_new_br7 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell<br>pipe |  
+| bip_39_word_new_br8 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell<br>pipe<br>region |  
+| bip_39_word_new_br9 | blur<br>grape<br>poet<br>bargain<br>hint<br>sell<br>pipe<br>region<br>drum |  
+| bip_39_word_new_line1 | blur |  
+| bip_39_word_new_line10 | blur
+grape
+poet
+bargain
+hint
+sell
+pipe
+region
+drum
+hire |  
+| bip_39_word_new_line11 | blur
+grape
+poet
+bargain
+hint
+sell
+pipe
+region
+drum
+hire
+logic |  
+| bip_39_word_new_line12 | blur
+grape
+poet
+bargain
+hint
+sell
+pipe
+region
+drum
+hire
+logic
+attract |  
+| bip_39_word_new_line2 | blur
+grape |  
+| bip_39_word_new_line3 | blur
+grape
+poet |  
+| bip_39_word_new_line4 | blur
+grape
+poet
+bargain |  
+| bip_39_word_new_line5 | blur
+grape
+poet
+bargain
+hint |  
+| bip_39_word_new_line6 | blur
+grape
+poet
+bargain
+hint
+sell |  
+| bip_39_word_new_line7 | blur
+grape
+poet
+bargain
+hint
+sell
+pipe |  
+| bip_39_word_new_line8 | blur
+grape
+poet
+bargain
+hint
+sell
+pipe
+region |  
+| bip_39_word_new_line9 | blur
+grape
+poet
+bargain
+hint
+sell
+pipe
+region
+drum |  
+| bip_39_word_space_0 | ['blur', 'grape', 'poet', 'bargain', 'hint', 'sell', 'pipe', 'region', 'drum', 'hire', 'logic', 'attract'] |  
+| bip_39_word_space_1 | blur |  
+| bip_39_word_space_10 | blur grape poet bargain hint sell pipe region drum hire |  
+| bip_39_word_space_11 | blur grape poet bargain hint sell pipe region drum hire logic |  
+| bip_39_word_space_12 | blur grape poet bargain hint sell pipe region drum hire logic attract |  
+| bip_39_word_space_2 | blur grape |  
+| bip_39_word_space_3 | blur grape poet |  
+| bip_39_word_space_4 | blur grape poet bargain |  
+| bip_39_word_space_5 | blur grape poet bargain hint |  
+| bip_39_word_space_6 | blur grape poet bargain hint sell |  
+| bip_39_word_space_7 | blur grape poet bargain hint sell pipe |  
+| bip_39_word_space_8 | blur grape poet bargain hint sell pipe region |  
+| bip_39_word_space_9 | blur grape poet bargain hint sell pipe region drum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

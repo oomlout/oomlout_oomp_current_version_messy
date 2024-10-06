@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enroll bubble
+  * bip 39 word 3: enroll bubble eye
+  * bip 39 word: enroll bubble eye eagle champion topple concert hurt balance celery match athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enroll |  
+| bip_39_word_new_br10 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple<br>concert<br>hurt<br>balance<br>celery |  
+| bip_39_word_new_br11 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple<br>concert<br>hurt<br>balance<br>celery<br>match |  
+| bip_39_word_new_br12 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple<br>concert<br>hurt<br>balance<br>celery<br>match<br>athlete |  
+| bip_39_word_new_br2 | enroll<br>bubble |  
+| bip_39_word_new_br3 | enroll<br>bubble<br>eye |  
+| bip_39_word_new_br4 | enroll<br>bubble<br>eye<br>eagle |  
+| bip_39_word_new_br5 | enroll<br>bubble<br>eye<br>eagle<br>champion |  
+| bip_39_word_new_br6 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple |  
+| bip_39_word_new_br7 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple<br>concert |  
+| bip_39_word_new_br8 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple<br>concert<br>hurt |  
+| bip_39_word_new_br9 | enroll<br>bubble<br>eye<br>eagle<br>champion<br>topple<br>concert<br>hurt<br>balance |  
+| bip_39_word_new_line1 | enroll |  
+| bip_39_word_new_line10 | enroll
+bubble
+eye
+eagle
+champion
+topple
+concert
+hurt
+balance
+celery |  
+| bip_39_word_new_line11 | enroll
+bubble
+eye
+eagle
+champion
+topple
+concert
+hurt
+balance
+celery
+match |  
+| bip_39_word_new_line12 | enroll
+bubble
+eye
+eagle
+champion
+topple
+concert
+hurt
+balance
+celery
+match
+athlete |  
+| bip_39_word_new_line2 | enroll
+bubble |  
+| bip_39_word_new_line3 | enroll
+bubble
+eye |  
+| bip_39_word_new_line4 | enroll
+bubble
+eye
+eagle |  
+| bip_39_word_new_line5 | enroll
+bubble
+eye
+eagle
+champion |  
+| bip_39_word_new_line6 | enroll
+bubble
+eye
+eagle
+champion
+topple |  
+| bip_39_word_new_line7 | enroll
+bubble
+eye
+eagle
+champion
+topple
+concert |  
+| bip_39_word_new_line8 | enroll
+bubble
+eye
+eagle
+champion
+topple
+concert
+hurt |  
+| bip_39_word_new_line9 | enroll
+bubble
+eye
+eagle
+champion
+topple
+concert
+hurt
+balance |  
+| bip_39_word_space_0 | ['enroll', 'bubble', 'eye', 'eagle', 'champion', 'topple', 'concert', 'hurt', 'balance', 'celery', 'match', 'athlete'] |  
+| bip_39_word_space_1 | enroll |  
+| bip_39_word_space_10 | enroll bubble eye eagle champion topple concert hurt balance celery |  
+| bip_39_word_space_11 | enroll bubble eye eagle champion topple concert hurt balance celery match |  
+| bip_39_word_space_12 | enroll bubble eye eagle champion topple concert hurt balance celery match athlete |  
+| bip_39_word_space_2 | enroll bubble |  
+| bip_39_word_space_3 | enroll bubble eye |  
+| bip_39_word_space_4 | enroll bubble eye eagle |  
+| bip_39_word_space_5 | enroll bubble eye eagle champion |  
+| bip_39_word_space_6 | enroll bubble eye eagle champion topple |  
+| bip_39_word_space_7 | enroll bubble eye eagle champion topple concert |  
+| bip_39_word_space_8 | enroll bubble eye eagle champion topple concert hurt |  
+| bip_39_word_space_9 | enroll bubble eye eagle champion topple concert hurt balance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: family mesh
+  * bip 39 word 3: family mesh save
+  * bip 39 word: family mesh save draft armor raise cotton such math small shop arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | family |  
+| bip_39_word_new_br10 | family<br>mesh<br>save<br>draft<br>armor<br>raise<br>cotton<br>such<br>math<br>small |  
+| bip_39_word_new_br11 | family<br>mesh<br>save<br>draft<br>armor<br>raise<br>cotton<br>such<br>math<br>small<br>shop |  
+| bip_39_word_new_br12 | family<br>mesh<br>save<br>draft<br>armor<br>raise<br>cotton<br>such<br>math<br>small<br>shop<br>arch |  
+| bip_39_word_new_br2 | family<br>mesh |  
+| bip_39_word_new_br3 | family<br>mesh<br>save |  
+| bip_39_word_new_br4 | family<br>mesh<br>save<br>draft |  
+| bip_39_word_new_br5 | family<br>mesh<br>save<br>draft<br>armor |  
+| bip_39_word_new_br6 | family<br>mesh<br>save<br>draft<br>armor<br>raise |  
+| bip_39_word_new_br7 | family<br>mesh<br>save<br>draft<br>armor<br>raise<br>cotton |  
+| bip_39_word_new_br8 | family<br>mesh<br>save<br>draft<br>armor<br>raise<br>cotton<br>such |  
+| bip_39_word_new_br9 | family<br>mesh<br>save<br>draft<br>armor<br>raise<br>cotton<br>such<br>math |  
+| bip_39_word_new_line1 | family |  
+| bip_39_word_new_line10 | family
+mesh
+save
+draft
+armor
+raise
+cotton
+such
+math
+small |  
+| bip_39_word_new_line11 | family
+mesh
+save
+draft
+armor
+raise
+cotton
+such
+math
+small
+shop |  
+| bip_39_word_new_line12 | family
+mesh
+save
+draft
+armor
+raise
+cotton
+such
+math
+small
+shop
+arch |  
+| bip_39_word_new_line2 | family
+mesh |  
+| bip_39_word_new_line3 | family
+mesh
+save |  
+| bip_39_word_new_line4 | family
+mesh
+save
+draft |  
+| bip_39_word_new_line5 | family
+mesh
+save
+draft
+armor |  
+| bip_39_word_new_line6 | family
+mesh
+save
+draft
+armor
+raise |  
+| bip_39_word_new_line7 | family
+mesh
+save
+draft
+armor
+raise
+cotton |  
+| bip_39_word_new_line8 | family
+mesh
+save
+draft
+armor
+raise
+cotton
+such |  
+| bip_39_word_new_line9 | family
+mesh
+save
+draft
+armor
+raise
+cotton
+such
+math |  
+| bip_39_word_space_0 | ['family', 'mesh', 'save', 'draft', 'armor', 'raise', 'cotton', 'such', 'math', 'small', 'shop', 'arch'] |  
+| bip_39_word_space_1 | family |  
+| bip_39_word_space_10 | family mesh save draft armor raise cotton such math small |  
+| bip_39_word_space_11 | family mesh save draft armor raise cotton such math small shop |  
+| bip_39_word_space_12 | family mesh save draft armor raise cotton such math small shop arch |  
+| bip_39_word_space_2 | family mesh |  
+| bip_39_word_space_3 | family mesh save |  
+| bip_39_word_space_4 | family mesh save draft |  
+| bip_39_word_space_5 | family mesh save draft armor |  
+| bip_39_word_space_6 | family mesh save draft armor raise |  
+| bip_39_word_space_7 | family mesh save draft armor raise cotton |  
+| bip_39_word_space_8 | family mesh save draft armor raise cotton such |  
+| bip_39_word_space_9 | family mesh save draft armor raise cotton such math |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

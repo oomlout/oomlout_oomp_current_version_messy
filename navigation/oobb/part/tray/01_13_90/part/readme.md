@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plunge winter
+  * bip 39 word 3: plunge winter ability
+  * bip 39 word: plunge winter ability walnut bundle grace infant culture mosquito life suggest agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plunge |  
+| bip_39_word_new_br10 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace<br>infant<br>culture<br>mosquito<br>life |  
+| bip_39_word_new_br11 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace<br>infant<br>culture<br>mosquito<br>life<br>suggest |  
+| bip_39_word_new_br12 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace<br>infant<br>culture<br>mosquito<br>life<br>suggest<br>agent |  
+| bip_39_word_new_br2 | plunge<br>winter |  
+| bip_39_word_new_br3 | plunge<br>winter<br>ability |  
+| bip_39_word_new_br4 | plunge<br>winter<br>ability<br>walnut |  
+| bip_39_word_new_br5 | plunge<br>winter<br>ability<br>walnut<br>bundle |  
+| bip_39_word_new_br6 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace |  
+| bip_39_word_new_br7 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace<br>infant |  
+| bip_39_word_new_br8 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace<br>infant<br>culture |  
+| bip_39_word_new_br9 | plunge<br>winter<br>ability<br>walnut<br>bundle<br>grace<br>infant<br>culture<br>mosquito |  
+| bip_39_word_new_line1 | plunge |  
+| bip_39_word_new_line10 | plunge
+winter
+ability
+walnut
+bundle
+grace
+infant
+culture
+mosquito
+life |  
+| bip_39_word_new_line11 | plunge
+winter
+ability
+walnut
+bundle
+grace
+infant
+culture
+mosquito
+life
+suggest |  
+| bip_39_word_new_line12 | plunge
+winter
+ability
+walnut
+bundle
+grace
+infant
+culture
+mosquito
+life
+suggest
+agent |  
+| bip_39_word_new_line2 | plunge
+winter |  
+| bip_39_word_new_line3 | plunge
+winter
+ability |  
+| bip_39_word_new_line4 | plunge
+winter
+ability
+walnut |  
+| bip_39_word_new_line5 | plunge
+winter
+ability
+walnut
+bundle |  
+| bip_39_word_new_line6 | plunge
+winter
+ability
+walnut
+bundle
+grace |  
+| bip_39_word_new_line7 | plunge
+winter
+ability
+walnut
+bundle
+grace
+infant |  
+| bip_39_word_new_line8 | plunge
+winter
+ability
+walnut
+bundle
+grace
+infant
+culture |  
+| bip_39_word_new_line9 | plunge
+winter
+ability
+walnut
+bundle
+grace
+infant
+culture
+mosquito |  
+| bip_39_word_space_0 | ['plunge', 'winter', 'ability', 'walnut', 'bundle', 'grace', 'infant', 'culture', 'mosquito', 'life', 'suggest', 'agent'] |  
+| bip_39_word_space_1 | plunge |  
+| bip_39_word_space_10 | plunge winter ability walnut bundle grace infant culture mosquito life |  
+| bip_39_word_space_11 | plunge winter ability walnut bundle grace infant culture mosquito life suggest |  
+| bip_39_word_space_12 | plunge winter ability walnut bundle grace infant culture mosquito life suggest agent |  
+| bip_39_word_space_2 | plunge winter |  
+| bip_39_word_space_3 | plunge winter ability |  
+| bip_39_word_space_4 | plunge winter ability walnut |  
+| bip_39_word_space_5 | plunge winter ability walnut bundle |  
+| bip_39_word_space_6 | plunge winter ability walnut bundle grace |  
+| bip_39_word_space_7 | plunge winter ability walnut bundle grace infant |  
+| bip_39_word_space_8 | plunge winter ability walnut bundle grace infant culture |  
+| bip_39_word_space_9 | plunge winter ability walnut bundle grace infant culture mosquito |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

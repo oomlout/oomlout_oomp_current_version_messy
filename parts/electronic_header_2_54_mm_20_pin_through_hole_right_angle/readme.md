@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: advance field
+  * bip 39 word 3: advance field neutral
+  * bip 39 word: advance field neutral flavor clog depart eagle patient antique upset casino army
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | advance |  
+| bip_39_word_new_br10 | advance<br>field<br>neutral<br>flavor<br>clog<br>depart<br>eagle<br>patient<br>antique<br>upset |  
+| bip_39_word_new_br11 | advance<br>field<br>neutral<br>flavor<br>clog<br>depart<br>eagle<br>patient<br>antique<br>upset<br>casino |  
+| bip_39_word_new_br12 | advance<br>field<br>neutral<br>flavor<br>clog<br>depart<br>eagle<br>patient<br>antique<br>upset<br>casino<br>army |  
+| bip_39_word_new_br2 | advance<br>field |  
+| bip_39_word_new_br3 | advance<br>field<br>neutral |  
+| bip_39_word_new_br4 | advance<br>field<br>neutral<br>flavor |  
+| bip_39_word_new_br5 | advance<br>field<br>neutral<br>flavor<br>clog |  
+| bip_39_word_new_br6 | advance<br>field<br>neutral<br>flavor<br>clog<br>depart |  
+| bip_39_word_new_br7 | advance<br>field<br>neutral<br>flavor<br>clog<br>depart<br>eagle |  
+| bip_39_word_new_br8 | advance<br>field<br>neutral<br>flavor<br>clog<br>depart<br>eagle<br>patient |  
+| bip_39_word_new_br9 | advance<br>field<br>neutral<br>flavor<br>clog<br>depart<br>eagle<br>patient<br>antique |  
+| bip_39_word_new_line1 | advance |  
+| bip_39_word_new_line10 | advance
+field
+neutral
+flavor
+clog
+depart
+eagle
+patient
+antique
+upset |  
+| bip_39_word_new_line11 | advance
+field
+neutral
+flavor
+clog
+depart
+eagle
+patient
+antique
+upset
+casino |  
+| bip_39_word_new_line12 | advance
+field
+neutral
+flavor
+clog
+depart
+eagle
+patient
+antique
+upset
+casino
+army |  
+| bip_39_word_new_line2 | advance
+field |  
+| bip_39_word_new_line3 | advance
+field
+neutral |  
+| bip_39_word_new_line4 | advance
+field
+neutral
+flavor |  
+| bip_39_word_new_line5 | advance
+field
+neutral
+flavor
+clog |  
+| bip_39_word_new_line6 | advance
+field
+neutral
+flavor
+clog
+depart |  
+| bip_39_word_new_line7 | advance
+field
+neutral
+flavor
+clog
+depart
+eagle |  
+| bip_39_word_new_line8 | advance
+field
+neutral
+flavor
+clog
+depart
+eagle
+patient |  
+| bip_39_word_new_line9 | advance
+field
+neutral
+flavor
+clog
+depart
+eagle
+patient
+antique |  
+| bip_39_word_space_0 | ['advance', 'field', 'neutral', 'flavor', 'clog', 'depart', 'eagle', 'patient', 'antique', 'upset', 'casino', 'army'] |  
+| bip_39_word_space_1 | advance |  
+| bip_39_word_space_10 | advance field neutral flavor clog depart eagle patient antique upset |  
+| bip_39_word_space_11 | advance field neutral flavor clog depart eagle patient antique upset casino |  
+| bip_39_word_space_12 | advance field neutral flavor clog depart eagle patient antique upset casino army |  
+| bip_39_word_space_2 | advance field |  
+| bip_39_word_space_3 | advance field neutral |  
+| bip_39_word_space_4 | advance field neutral flavor |  
+| bip_39_word_space_5 | advance field neutral flavor clog |  
+| bip_39_word_space_6 | advance field neutral flavor clog depart |  
+| bip_39_word_space_7 | advance field neutral flavor clog depart eagle |  
+| bip_39_word_space_8 | advance field neutral flavor clog depart eagle patient |  
+| bip_39_word_space_9 | advance field neutral flavor clog depart eagle patient antique |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

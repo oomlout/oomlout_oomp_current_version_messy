@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: snap frost
+  * bip 39 word 3: snap frost ahead
+  * bip 39 word: snap frost ahead novel fluid garden exit farm perfect gym race artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | snap |  
+| bip_39_word_new_br10 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden<br>exit<br>farm<br>perfect<br>gym |  
+| bip_39_word_new_br11 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden<br>exit<br>farm<br>perfect<br>gym<br>race |  
+| bip_39_word_new_br12 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden<br>exit<br>farm<br>perfect<br>gym<br>race<br>artwork |  
+| bip_39_word_new_br2 | snap<br>frost |  
+| bip_39_word_new_br3 | snap<br>frost<br>ahead |  
+| bip_39_word_new_br4 | snap<br>frost<br>ahead<br>novel |  
+| bip_39_word_new_br5 | snap<br>frost<br>ahead<br>novel<br>fluid |  
+| bip_39_word_new_br6 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden |  
+| bip_39_word_new_br7 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden<br>exit |  
+| bip_39_word_new_br8 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden<br>exit<br>farm |  
+| bip_39_word_new_br9 | snap<br>frost<br>ahead<br>novel<br>fluid<br>garden<br>exit<br>farm<br>perfect |  
+| bip_39_word_new_line1 | snap |  
+| bip_39_word_new_line10 | snap
+frost
+ahead
+novel
+fluid
+garden
+exit
+farm
+perfect
+gym |  
+| bip_39_word_new_line11 | snap
+frost
+ahead
+novel
+fluid
+garden
+exit
+farm
+perfect
+gym
+race |  
+| bip_39_word_new_line12 | snap
+frost
+ahead
+novel
+fluid
+garden
+exit
+farm
+perfect
+gym
+race
+artwork |  
+| bip_39_word_new_line2 | snap
+frost |  
+| bip_39_word_new_line3 | snap
+frost
+ahead |  
+| bip_39_word_new_line4 | snap
+frost
+ahead
+novel |  
+| bip_39_word_new_line5 | snap
+frost
+ahead
+novel
+fluid |  
+| bip_39_word_new_line6 | snap
+frost
+ahead
+novel
+fluid
+garden |  
+| bip_39_word_new_line7 | snap
+frost
+ahead
+novel
+fluid
+garden
+exit |  
+| bip_39_word_new_line8 | snap
+frost
+ahead
+novel
+fluid
+garden
+exit
+farm |  
+| bip_39_word_new_line9 | snap
+frost
+ahead
+novel
+fluid
+garden
+exit
+farm
+perfect |  
+| bip_39_word_space_0 | ['snap', 'frost', 'ahead', 'novel', 'fluid', 'garden', 'exit', 'farm', 'perfect', 'gym', 'race', 'artwork'] |  
+| bip_39_word_space_1 | snap |  
+| bip_39_word_space_10 | snap frost ahead novel fluid garden exit farm perfect gym |  
+| bip_39_word_space_11 | snap frost ahead novel fluid garden exit farm perfect gym race |  
+| bip_39_word_space_12 | snap frost ahead novel fluid garden exit farm perfect gym race artwork |  
+| bip_39_word_space_2 | snap frost |  
+| bip_39_word_space_3 | snap frost ahead |  
+| bip_39_word_space_4 | snap frost ahead novel |  
+| bip_39_word_space_5 | snap frost ahead novel fluid |  
+| bip_39_word_space_6 | snap frost ahead novel fluid garden |  
+| bip_39_word_space_7 | snap frost ahead novel fluid garden exit |  
+| bip_39_word_space_8 | snap frost ahead novel fluid garden exit farm |  
+| bip_39_word_space_9 | snap frost ahead novel fluid garden exit farm perfect |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

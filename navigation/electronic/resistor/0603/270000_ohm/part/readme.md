@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blue supply
+  * bip 39 word 3: blue supply maze
+  * bip 39 word: blue supply maze swim market twenty monster corn risk disorder board arctic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blue |  
+| bip_39_word_new_br10 | blue<br>supply<br>maze<br>swim<br>market<br>twenty<br>monster<br>corn<br>risk<br>disorder |  
+| bip_39_word_new_br11 | blue<br>supply<br>maze<br>swim<br>market<br>twenty<br>monster<br>corn<br>risk<br>disorder<br>board |  
+| bip_39_word_new_br12 | blue<br>supply<br>maze<br>swim<br>market<br>twenty<br>monster<br>corn<br>risk<br>disorder<br>board<br>arctic |  
+| bip_39_word_new_br2 | blue<br>supply |  
+| bip_39_word_new_br3 | blue<br>supply<br>maze |  
+| bip_39_word_new_br4 | blue<br>supply<br>maze<br>swim |  
+| bip_39_word_new_br5 | blue<br>supply<br>maze<br>swim<br>market |  
+| bip_39_word_new_br6 | blue<br>supply<br>maze<br>swim<br>market<br>twenty |  
+| bip_39_word_new_br7 | blue<br>supply<br>maze<br>swim<br>market<br>twenty<br>monster |  
+| bip_39_word_new_br8 | blue<br>supply<br>maze<br>swim<br>market<br>twenty<br>monster<br>corn |  
+| bip_39_word_new_br9 | blue<br>supply<br>maze<br>swim<br>market<br>twenty<br>monster<br>corn<br>risk |  
+| bip_39_word_new_line1 | blue |  
+| bip_39_word_new_line10 | blue
+supply
+maze
+swim
+market
+twenty
+monster
+corn
+risk
+disorder |  
+| bip_39_word_new_line11 | blue
+supply
+maze
+swim
+market
+twenty
+monster
+corn
+risk
+disorder
+board |  
+| bip_39_word_new_line12 | blue
+supply
+maze
+swim
+market
+twenty
+monster
+corn
+risk
+disorder
+board
+arctic |  
+| bip_39_word_new_line2 | blue
+supply |  
+| bip_39_word_new_line3 | blue
+supply
+maze |  
+| bip_39_word_new_line4 | blue
+supply
+maze
+swim |  
+| bip_39_word_new_line5 | blue
+supply
+maze
+swim
+market |  
+| bip_39_word_new_line6 | blue
+supply
+maze
+swim
+market
+twenty |  
+| bip_39_word_new_line7 | blue
+supply
+maze
+swim
+market
+twenty
+monster |  
+| bip_39_word_new_line8 | blue
+supply
+maze
+swim
+market
+twenty
+monster
+corn |  
+| bip_39_word_new_line9 | blue
+supply
+maze
+swim
+market
+twenty
+monster
+corn
+risk |  
+| bip_39_word_space_0 | ['blue', 'supply', 'maze', 'swim', 'market', 'twenty', 'monster', 'corn', 'risk', 'disorder', 'board', 'arctic'] |  
+| bip_39_word_space_1 | blue |  
+| bip_39_word_space_10 | blue supply maze swim market twenty monster corn risk disorder |  
+| bip_39_word_space_11 | blue supply maze swim market twenty monster corn risk disorder board |  
+| bip_39_word_space_12 | blue supply maze swim market twenty monster corn risk disorder board arctic |  
+| bip_39_word_space_2 | blue supply |  
+| bip_39_word_space_3 | blue supply maze |  
+| bip_39_word_space_4 | blue supply maze swim |  
+| bip_39_word_space_5 | blue supply maze swim market |  
+| bip_39_word_space_6 | blue supply maze swim market twenty |  
+| bip_39_word_space_7 | blue supply maze swim market twenty monster |  
+| bip_39_word_space_8 | blue supply maze swim market twenty monster corn |  
+| bip_39_word_space_9 | blue supply maze swim market twenty monster corn risk |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

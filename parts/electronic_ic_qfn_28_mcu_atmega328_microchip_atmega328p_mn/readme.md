@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: microchip
   * part_number: atmega328p_mn
+  * bip 39 word 2: rule ceiling
+  * bip 39 word 3: rule ceiling run
+  * bip 39 word: rule ceiling run nut palm gravity release slice page quality bunker agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rule |  
+| bip_39_word_new_br10 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality |  
+| bip_39_word_new_br11 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality<br>bunker |  
+| bip_39_word_new_br12 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page<br>quality<br>bunker<br>agent |  
+| bip_39_word_new_br2 | rule<br>ceiling |  
+| bip_39_word_new_br3 | rule<br>ceiling<br>run |  
+| bip_39_word_new_br4 | rule<br>ceiling<br>run<br>nut |  
+| bip_39_word_new_br5 | rule<br>ceiling<br>run<br>nut<br>palm |  
+| bip_39_word_new_br6 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity |  
+| bip_39_word_new_br7 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release |  
+| bip_39_word_new_br8 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice |  
+| bip_39_word_new_br9 | rule<br>ceiling<br>run<br>nut<br>palm<br>gravity<br>release<br>slice<br>page |  
+| bip_39_word_new_line1 | rule |  
+| bip_39_word_new_line10 | rule
+ceiling
+run
+nut
+palm
+gravity
+release
+slice
+page
+quality |  
+| bip_39_word_new_line11 | rule
+ceiling
+run
+nut
+palm
+gravity
+release
+slice
+page
+quality
+bunker |  
+| bip_39_word_new_line12 | rule
+ceiling
+run
+nut
+palm
+gravity
+release
+slice
+page
+quality
+bunker
+agent |  
+| bip_39_word_new_line2 | rule
+ceiling |  
+| bip_39_word_new_line3 | rule
+ceiling
+run |  
+| bip_39_word_new_line4 | rule
+ceiling
+run
+nut |  
+| bip_39_word_new_line5 | rule
+ceiling
+run
+nut
+palm |  
+| bip_39_word_new_line6 | rule
+ceiling
+run
+nut
+palm
+gravity |  
+| bip_39_word_new_line7 | rule
+ceiling
+run
+nut
+palm
+gravity
+release |  
+| bip_39_word_new_line8 | rule
+ceiling
+run
+nut
+palm
+gravity
+release
+slice |  
+| bip_39_word_new_line9 | rule
+ceiling
+run
+nut
+palm
+gravity
+release
+slice
+page |  
+| bip_39_word_space_0 | ['rule', 'ceiling', 'run', 'nut', 'palm', 'gravity', 'release', 'slice', 'page', 'quality', 'bunker', 'agent'] |  
+| bip_39_word_space_1 | rule |  
+| bip_39_word_space_10 | rule ceiling run nut palm gravity release slice page quality |  
+| bip_39_word_space_11 | rule ceiling run nut palm gravity release slice page quality bunker |  
+| bip_39_word_space_12 | rule ceiling run nut palm gravity release slice page quality bunker agent |  
+| bip_39_word_space_2 | rule ceiling |  
+| bip_39_word_space_3 | rule ceiling run |  
+| bip_39_word_space_4 | rule ceiling run nut |  
+| bip_39_word_space_5 | rule ceiling run nut palm |  
+| bip_39_word_space_6 | rule ceiling run nut palm gravity |  
+| bip_39_word_space_7 | rule ceiling run nut palm gravity release |  
+| bip_39_word_space_8 | rule ceiling run nut palm gravity release slice |  
+| bip_39_word_space_9 | rule ceiling run nut palm gravity release slice page |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

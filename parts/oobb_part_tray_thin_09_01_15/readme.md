@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bundle hard
+  * bip 39 word 3: bundle hard hammer
+  * bip 39 word: bundle hard hammer cliff pigeon wrist cat deliver tray opera enforce anchor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bundle |  
+| bip_39_word_new_br10 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist<br>cat<br>deliver<br>tray<br>opera |  
+| bip_39_word_new_br11 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist<br>cat<br>deliver<br>tray<br>opera<br>enforce |  
+| bip_39_word_new_br12 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist<br>cat<br>deliver<br>tray<br>opera<br>enforce<br>anchor |  
+| bip_39_word_new_br2 | bundle<br>hard |  
+| bip_39_word_new_br3 | bundle<br>hard<br>hammer |  
+| bip_39_word_new_br4 | bundle<br>hard<br>hammer<br>cliff |  
+| bip_39_word_new_br5 | bundle<br>hard<br>hammer<br>cliff<br>pigeon |  
+| bip_39_word_new_br6 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist |  
+| bip_39_word_new_br7 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist<br>cat |  
+| bip_39_word_new_br8 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist<br>cat<br>deliver |  
+| bip_39_word_new_br9 | bundle<br>hard<br>hammer<br>cliff<br>pigeon<br>wrist<br>cat<br>deliver<br>tray |  
+| bip_39_word_new_line1 | bundle |  
+| bip_39_word_new_line10 | bundle
+hard
+hammer
+cliff
+pigeon
+wrist
+cat
+deliver
+tray
+opera |  
+| bip_39_word_new_line11 | bundle
+hard
+hammer
+cliff
+pigeon
+wrist
+cat
+deliver
+tray
+opera
+enforce |  
+| bip_39_word_new_line12 | bundle
+hard
+hammer
+cliff
+pigeon
+wrist
+cat
+deliver
+tray
+opera
+enforce
+anchor |  
+| bip_39_word_new_line2 | bundle
+hard |  
+| bip_39_word_new_line3 | bundle
+hard
+hammer |  
+| bip_39_word_new_line4 | bundle
+hard
+hammer
+cliff |  
+| bip_39_word_new_line5 | bundle
+hard
+hammer
+cliff
+pigeon |  
+| bip_39_word_new_line6 | bundle
+hard
+hammer
+cliff
+pigeon
+wrist |  
+| bip_39_word_new_line7 | bundle
+hard
+hammer
+cliff
+pigeon
+wrist
+cat |  
+| bip_39_word_new_line8 | bundle
+hard
+hammer
+cliff
+pigeon
+wrist
+cat
+deliver |  
+| bip_39_word_new_line9 | bundle
+hard
+hammer
+cliff
+pigeon
+wrist
+cat
+deliver
+tray |  
+| bip_39_word_space_0 | ['bundle', 'hard', 'hammer', 'cliff', 'pigeon', 'wrist', 'cat', 'deliver', 'tray', 'opera', 'enforce', 'anchor'] |  
+| bip_39_word_space_1 | bundle |  
+| bip_39_word_space_10 | bundle hard hammer cliff pigeon wrist cat deliver tray opera |  
+| bip_39_word_space_11 | bundle hard hammer cliff pigeon wrist cat deliver tray opera enforce |  
+| bip_39_word_space_12 | bundle hard hammer cliff pigeon wrist cat deliver tray opera enforce anchor |  
+| bip_39_word_space_2 | bundle hard |  
+| bip_39_word_space_3 | bundle hard hammer |  
+| bip_39_word_space_4 | bundle hard hammer cliff |  
+| bip_39_word_space_5 | bundle hard hammer cliff pigeon |  
+| bip_39_word_space_6 | bundle hard hammer cliff pigeon wrist |  
+| bip_39_word_space_7 | bundle hard hammer cliff pigeon wrist cat |  
+| bip_39_word_space_8 | bundle hard hammer cliff pigeon wrist cat deliver |  
+| bip_39_word_space_9 | bundle hard hammer cliff pigeon wrist cat deliver tray |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

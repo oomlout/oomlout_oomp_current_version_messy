@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: letter there
+  * bip 39 word 3: letter there unit
+  * bip 39 word: letter there unit gun strategy loop glad love shell tobacco online age
 
 ### other_codes
 * short_code: br62210
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | letter |  
+| bip_39_word_new_br10 | letter<br>there<br>unit<br>gun<br>strategy<br>loop<br>glad<br>love<br>shell<br>tobacco |  
+| bip_39_word_new_br11 | letter<br>there<br>unit<br>gun<br>strategy<br>loop<br>glad<br>love<br>shell<br>tobacco<br>online |  
+| bip_39_word_new_br12 | letter<br>there<br>unit<br>gun<br>strategy<br>loop<br>glad<br>love<br>shell<br>tobacco<br>online<br>age |  
+| bip_39_word_new_br2 | letter<br>there |  
+| bip_39_word_new_br3 | letter<br>there<br>unit |  
+| bip_39_word_new_br4 | letter<br>there<br>unit<br>gun |  
+| bip_39_word_new_br5 | letter<br>there<br>unit<br>gun<br>strategy |  
+| bip_39_word_new_br6 | letter<br>there<br>unit<br>gun<br>strategy<br>loop |  
+| bip_39_word_new_br7 | letter<br>there<br>unit<br>gun<br>strategy<br>loop<br>glad |  
+| bip_39_word_new_br8 | letter<br>there<br>unit<br>gun<br>strategy<br>loop<br>glad<br>love |  
+| bip_39_word_new_br9 | letter<br>there<br>unit<br>gun<br>strategy<br>loop<br>glad<br>love<br>shell |  
+| bip_39_word_new_line1 | letter |  
+| bip_39_word_new_line10 | letter
+there
+unit
+gun
+strategy
+loop
+glad
+love
+shell
+tobacco |  
+| bip_39_word_new_line11 | letter
+there
+unit
+gun
+strategy
+loop
+glad
+love
+shell
+tobacco
+online |  
+| bip_39_word_new_line12 | letter
+there
+unit
+gun
+strategy
+loop
+glad
+love
+shell
+tobacco
+online
+age |  
+| bip_39_word_new_line2 | letter
+there |  
+| bip_39_word_new_line3 | letter
+there
+unit |  
+| bip_39_word_new_line4 | letter
+there
+unit
+gun |  
+| bip_39_word_new_line5 | letter
+there
+unit
+gun
+strategy |  
+| bip_39_word_new_line6 | letter
+there
+unit
+gun
+strategy
+loop |  
+| bip_39_word_new_line7 | letter
+there
+unit
+gun
+strategy
+loop
+glad |  
+| bip_39_word_new_line8 | letter
+there
+unit
+gun
+strategy
+loop
+glad
+love |  
+| bip_39_word_new_line9 | letter
+there
+unit
+gun
+strategy
+loop
+glad
+love
+shell |  
+| bip_39_word_space_0 | ['letter', 'there', 'unit', 'gun', 'strategy', 'loop', 'glad', 'love', 'shell', 'tobacco', 'online', 'age'] |  
+| bip_39_word_space_1 | letter |  
+| bip_39_word_space_10 | letter there unit gun strategy loop glad love shell tobacco |  
+| bip_39_word_space_11 | letter there unit gun strategy loop glad love shell tobacco online |  
+| bip_39_word_space_12 | letter there unit gun strategy loop glad love shell tobacco online age |  
+| bip_39_word_space_2 | letter there |  
+| bip_39_word_space_3 | letter there unit |  
+| bip_39_word_space_4 | letter there unit gun |  
+| bip_39_word_space_5 | letter there unit gun strategy |  
+| bip_39_word_space_6 | letter there unit gun strategy loop |  
+| bip_39_word_space_7 | letter there unit gun strategy loop glad |  
+| bip_39_word_space_8 | letter there unit gun strategy loop glad love |  
+| bip_39_word_space_9 | letter there unit gun strategy loop glad love shell |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: napkin bus
+  * bip 39 word 3: napkin bus puppy
+  * bip 39 word: napkin bus puppy sing confirm okay tobacco west brain album phone alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | napkin |  
+| bip_39_word_new_br10 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay<br>tobacco<br>west<br>brain<br>album |  
+| bip_39_word_new_br11 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay<br>tobacco<br>west<br>brain<br>album<br>phone |  
+| bip_39_word_new_br12 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay<br>tobacco<br>west<br>brain<br>album<br>phone<br>alarm |  
+| bip_39_word_new_br2 | napkin<br>bus |  
+| bip_39_word_new_br3 | napkin<br>bus<br>puppy |  
+| bip_39_word_new_br4 | napkin<br>bus<br>puppy<br>sing |  
+| bip_39_word_new_br5 | napkin<br>bus<br>puppy<br>sing<br>confirm |  
+| bip_39_word_new_br6 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay |  
+| bip_39_word_new_br7 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay<br>tobacco |  
+| bip_39_word_new_br8 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay<br>tobacco<br>west |  
+| bip_39_word_new_br9 | napkin<br>bus<br>puppy<br>sing<br>confirm<br>okay<br>tobacco<br>west<br>brain |  
+| bip_39_word_new_line1 | napkin |  
+| bip_39_word_new_line10 | napkin
+bus
+puppy
+sing
+confirm
+okay
+tobacco
+west
+brain
+album |  
+| bip_39_word_new_line11 | napkin
+bus
+puppy
+sing
+confirm
+okay
+tobacco
+west
+brain
+album
+phone |  
+| bip_39_word_new_line12 | napkin
+bus
+puppy
+sing
+confirm
+okay
+tobacco
+west
+brain
+album
+phone
+alarm |  
+| bip_39_word_new_line2 | napkin
+bus |  
+| bip_39_word_new_line3 | napkin
+bus
+puppy |  
+| bip_39_word_new_line4 | napkin
+bus
+puppy
+sing |  
+| bip_39_word_new_line5 | napkin
+bus
+puppy
+sing
+confirm |  
+| bip_39_word_new_line6 | napkin
+bus
+puppy
+sing
+confirm
+okay |  
+| bip_39_word_new_line7 | napkin
+bus
+puppy
+sing
+confirm
+okay
+tobacco |  
+| bip_39_word_new_line8 | napkin
+bus
+puppy
+sing
+confirm
+okay
+tobacco
+west |  
+| bip_39_word_new_line9 | napkin
+bus
+puppy
+sing
+confirm
+okay
+tobacco
+west
+brain |  
+| bip_39_word_space_0 | ['napkin', 'bus', 'puppy', 'sing', 'confirm', 'okay', 'tobacco', 'west', 'brain', 'album', 'phone', 'alarm'] |  
+| bip_39_word_space_1 | napkin |  
+| bip_39_word_space_10 | napkin bus puppy sing confirm okay tobacco west brain album |  
+| bip_39_word_space_11 | napkin bus puppy sing confirm okay tobacco west brain album phone |  
+| bip_39_word_space_12 | napkin bus puppy sing confirm okay tobacco west brain album phone alarm |  
+| bip_39_word_space_2 | napkin bus |  
+| bip_39_word_space_3 | napkin bus puppy |  
+| bip_39_word_space_4 | napkin bus puppy sing |  
+| bip_39_word_space_5 | napkin bus puppy sing confirm |  
+| bip_39_word_space_6 | napkin bus puppy sing confirm okay |  
+| bip_39_word_space_7 | napkin bus puppy sing confirm okay tobacco |  
+| bip_39_word_space_8 | napkin bus puppy sing confirm okay tobacco west |  
+| bip_39_word_space_9 | napkin bus puppy sing confirm okay tobacco west brain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

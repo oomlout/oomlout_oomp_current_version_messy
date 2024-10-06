@@ -1,3 +1,186 @@
+bip_39_word_new_br1: giant
+bip_39_word_new_br10: giant<br>polar<br>stage<br>during<br>cash<br>couple<br>system<br>load<br>drum<br>minute
+bip_39_word_new_br11: giant<br>polar<br>stage<br>during<br>cash<br>couple<br>system<br>load<br>drum<br>minute<br>cliff
+bip_39_word_new_br12: giant<br>polar<br>stage<br>during<br>cash<br>couple<br>system<br>load<br>drum<br>minute<br>cliff<br>anger
+bip_39_word_new_br2: giant<br>polar
+bip_39_word_new_br3: giant<br>polar<br>stage
+bip_39_word_new_br4: giant<br>polar<br>stage<br>during
+bip_39_word_new_br5: giant<br>polar<br>stage<br>during<br>cash
+bip_39_word_new_br6: giant<br>polar<br>stage<br>during<br>cash<br>couple
+bip_39_word_new_br7: giant<br>polar<br>stage<br>during<br>cash<br>couple<br>system
+bip_39_word_new_br8: giant<br>polar<br>stage<br>during<br>cash<br>couple<br>system<br>load
+bip_39_word_new_br9: giant<br>polar<br>stage<br>during<br>cash<br>couple<br>system<br>load<br>drum
+bip_39_word_new_line1: giant
+bip_39_word_new_line10: 'giant
+
+  polar
+
+  stage
+
+  during
+
+  cash
+
+  couple
+
+  system
+
+  load
+
+  drum
+
+  minute'
+bip_39_word_new_line11: 'giant
+
+  polar
+
+  stage
+
+  during
+
+  cash
+
+  couple
+
+  system
+
+  load
+
+  drum
+
+  minute
+
+  cliff'
+bip_39_word_new_line12: 'giant
+
+  polar
+
+  stage
+
+  during
+
+  cash
+
+  couple
+
+  system
+
+  load
+
+  drum
+
+  minute
+
+  cliff
+
+  anger'
+bip_39_word_new_line2: 'giant
+
+  polar'
+bip_39_word_new_line3: 'giant
+
+  polar
+
+  stage'
+bip_39_word_new_line4: 'giant
+
+  polar
+
+  stage
+
+  during'
+bip_39_word_new_line5: 'giant
+
+  polar
+
+  stage
+
+  during
+
+  cash'
+bip_39_word_new_line6: 'giant
+
+  polar
+
+  stage
+
+  during
+
+  cash
+
+  couple'
+bip_39_word_new_line7: 'giant
+
+  polar
+
+  stage
+
+  during
+
+  cash
+
+  couple
+
+  system'
+bip_39_word_new_line8: 'giant
+
+  polar
+
+  stage
+
+  during
+
+  cash
+
+  couple
+
+  system
+
+  load'
+bip_39_word_new_line9: 'giant
+
+  polar
+
+  stage
+
+  during
+
+  cash
+
+  couple
+
+  system
+
+  load
+
+  drum'
+bip_39_word_space_0:
+- giant
+- polar
+- stage
+- during
+- cash
+- couple
+- system
+- load
+- drum
+- minute
+- cliff
+- anger
+bip_39_word_space_1: giant
+bip_39_word_space_10: giant polar stage during cash couple system load drum minute
+bip_39_word_space_11: giant polar stage during cash couple system load drum minute
+  cliff
+bip_39_word_space_12: giant polar stage during cash couple system load drum minute
+  cliff anger
+bip_39_word_space_2: giant polar
+bip_39_word_space_3: giant polar stage
+bip_39_word_space_4: giant polar stage during
+bip_39_word_space_5: giant polar stage during cash
+bip_39_word_space_6: giant polar stage during cash couple
+bip_39_word_space_7: giant polar stage during cash couple system
+bip_39_word_space_8: giant polar stage during cash couple system load
+bip_39_word_space_9: giant polar stage during cash couple system load drum
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

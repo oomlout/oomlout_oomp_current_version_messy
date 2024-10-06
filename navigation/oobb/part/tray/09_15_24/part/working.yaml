@@ -1,3 +1,186 @@
+bip_39_word_new_br1: junior
+bip_39_word_new_br10: junior<br>useless<br>film<br>result<br>narrow<br>near<br>lonely<br>wine<br>police<br>prize
+bip_39_word_new_br11: junior<br>useless<br>film<br>result<br>narrow<br>near<br>lonely<br>wine<br>police<br>prize<br>impulse
+bip_39_word_new_br12: junior<br>useless<br>film<br>result<br>narrow<br>near<br>lonely<br>wine<br>police<br>prize<br>impulse<br>any
+bip_39_word_new_br2: junior<br>useless
+bip_39_word_new_br3: junior<br>useless<br>film
+bip_39_word_new_br4: junior<br>useless<br>film<br>result
+bip_39_word_new_br5: junior<br>useless<br>film<br>result<br>narrow
+bip_39_word_new_br6: junior<br>useless<br>film<br>result<br>narrow<br>near
+bip_39_word_new_br7: junior<br>useless<br>film<br>result<br>narrow<br>near<br>lonely
+bip_39_word_new_br8: junior<br>useless<br>film<br>result<br>narrow<br>near<br>lonely<br>wine
+bip_39_word_new_br9: junior<br>useless<br>film<br>result<br>narrow<br>near<br>lonely<br>wine<br>police
+bip_39_word_new_line1: junior
+bip_39_word_new_line10: 'junior
+
+  useless
+
+  film
+
+  result
+
+  narrow
+
+  near
+
+  lonely
+
+  wine
+
+  police
+
+  prize'
+bip_39_word_new_line11: 'junior
+
+  useless
+
+  film
+
+  result
+
+  narrow
+
+  near
+
+  lonely
+
+  wine
+
+  police
+
+  prize
+
+  impulse'
+bip_39_word_new_line12: 'junior
+
+  useless
+
+  film
+
+  result
+
+  narrow
+
+  near
+
+  lonely
+
+  wine
+
+  police
+
+  prize
+
+  impulse
+
+  any'
+bip_39_word_new_line2: 'junior
+
+  useless'
+bip_39_word_new_line3: 'junior
+
+  useless
+
+  film'
+bip_39_word_new_line4: 'junior
+
+  useless
+
+  film
+
+  result'
+bip_39_word_new_line5: 'junior
+
+  useless
+
+  film
+
+  result
+
+  narrow'
+bip_39_word_new_line6: 'junior
+
+  useless
+
+  film
+
+  result
+
+  narrow
+
+  near'
+bip_39_word_new_line7: 'junior
+
+  useless
+
+  film
+
+  result
+
+  narrow
+
+  near
+
+  lonely'
+bip_39_word_new_line8: 'junior
+
+  useless
+
+  film
+
+  result
+
+  narrow
+
+  near
+
+  lonely
+
+  wine'
+bip_39_word_new_line9: 'junior
+
+  useless
+
+  film
+
+  result
+
+  narrow
+
+  near
+
+  lonely
+
+  wine
+
+  police'
+bip_39_word_space_0:
+- junior
+- useless
+- film
+- result
+- narrow
+- near
+- lonely
+- wine
+- police
+- prize
+- impulse
+- any
+bip_39_word_space_1: junior
+bip_39_word_space_10: junior useless film result narrow near lonely wine police prize
+bip_39_word_space_11: junior useless film result narrow near lonely wine police prize
+  impulse
+bip_39_word_space_12: junior useless film result narrow near lonely wine police prize
+  impulse any
+bip_39_word_space_2: junior useless
+bip_39_word_space_3: junior useless film
+bip_39_word_space_4: junior useless film result
+bip_39_word_space_5: junior useless film result narrow
+bip_39_word_space_6: junior useless film result narrow near
+bip_39_word_space_7: junior useless film result narrow near lonely
+bip_39_word_space_8: junior useless film result narrow near lonely wine
+bip_39_word_space_9: junior useless film result narrow near lonely wine police
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

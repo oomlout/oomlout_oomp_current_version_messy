@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: improve enable
+  * bip 39 word 3: improve enable proof
+  * bip 39 word: improve enable proof merit crush swing outer menu cricket agent define aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | improve |  
+| bip_39_word_new_br10 | improve<br>enable<br>proof<br>merit<br>crush<br>swing<br>outer<br>menu<br>cricket<br>agent |  
+| bip_39_word_new_br11 | improve<br>enable<br>proof<br>merit<br>crush<br>swing<br>outer<br>menu<br>cricket<br>agent<br>define |  
+| bip_39_word_new_br12 | improve<br>enable<br>proof<br>merit<br>crush<br>swing<br>outer<br>menu<br>cricket<br>agent<br>define<br>aim |  
+| bip_39_word_new_br2 | improve<br>enable |  
+| bip_39_word_new_br3 | improve<br>enable<br>proof |  
+| bip_39_word_new_br4 | improve<br>enable<br>proof<br>merit |  
+| bip_39_word_new_br5 | improve<br>enable<br>proof<br>merit<br>crush |  
+| bip_39_word_new_br6 | improve<br>enable<br>proof<br>merit<br>crush<br>swing |  
+| bip_39_word_new_br7 | improve<br>enable<br>proof<br>merit<br>crush<br>swing<br>outer |  
+| bip_39_word_new_br8 | improve<br>enable<br>proof<br>merit<br>crush<br>swing<br>outer<br>menu |  
+| bip_39_word_new_br9 | improve<br>enable<br>proof<br>merit<br>crush<br>swing<br>outer<br>menu<br>cricket |  
+| bip_39_word_new_line1 | improve |  
+| bip_39_word_new_line10 | improve
+enable
+proof
+merit
+crush
+swing
+outer
+menu
+cricket
+agent |  
+| bip_39_word_new_line11 | improve
+enable
+proof
+merit
+crush
+swing
+outer
+menu
+cricket
+agent
+define |  
+| bip_39_word_new_line12 | improve
+enable
+proof
+merit
+crush
+swing
+outer
+menu
+cricket
+agent
+define
+aim |  
+| bip_39_word_new_line2 | improve
+enable |  
+| bip_39_word_new_line3 | improve
+enable
+proof |  
+| bip_39_word_new_line4 | improve
+enable
+proof
+merit |  
+| bip_39_word_new_line5 | improve
+enable
+proof
+merit
+crush |  
+| bip_39_word_new_line6 | improve
+enable
+proof
+merit
+crush
+swing |  
+| bip_39_word_new_line7 | improve
+enable
+proof
+merit
+crush
+swing
+outer |  
+| bip_39_word_new_line8 | improve
+enable
+proof
+merit
+crush
+swing
+outer
+menu |  
+| bip_39_word_new_line9 | improve
+enable
+proof
+merit
+crush
+swing
+outer
+menu
+cricket |  
+| bip_39_word_space_0 | ['improve', 'enable', 'proof', 'merit', 'crush', 'swing', 'outer', 'menu', 'cricket', 'agent', 'define', 'aim'] |  
+| bip_39_word_space_1 | improve |  
+| bip_39_word_space_10 | improve enable proof merit crush swing outer menu cricket agent |  
+| bip_39_word_space_11 | improve enable proof merit crush swing outer menu cricket agent define |  
+| bip_39_word_space_12 | improve enable proof merit crush swing outer menu cricket agent define aim |  
+| bip_39_word_space_2 | improve enable |  
+| bip_39_word_space_3 | improve enable proof |  
+| bip_39_word_space_4 | improve enable proof merit |  
+| bip_39_word_space_5 | improve enable proof merit crush |  
+| bip_39_word_space_6 | improve enable proof merit crush swing |  
+| bip_39_word_space_7 | improve enable proof merit crush swing outer |  
+| bip_39_word_space_8 | improve enable proof merit crush swing outer menu |  
+| bip_39_word_space_9 | improve enable proof merit crush swing outer menu cricket |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

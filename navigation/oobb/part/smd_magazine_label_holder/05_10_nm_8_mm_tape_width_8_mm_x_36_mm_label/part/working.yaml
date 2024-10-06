@@ -1,3 +1,185 @@
+bip_39_word_new_br1: latin
+bip_39_word_new_br10: latin<br>extend<br>love<br>core<br>average<br>also<br>melt<br>copper<br>file<br>swing
+bip_39_word_new_br11: latin<br>extend<br>love<br>core<br>average<br>also<br>melt<br>copper<br>file<br>swing<br>involve
+bip_39_word_new_br12: latin<br>extend<br>love<br>core<br>average<br>also<br>melt<br>copper<br>file<br>swing<br>involve<br>antique
+bip_39_word_new_br2: latin<br>extend
+bip_39_word_new_br3: latin<br>extend<br>love
+bip_39_word_new_br4: latin<br>extend<br>love<br>core
+bip_39_word_new_br5: latin<br>extend<br>love<br>core<br>average
+bip_39_word_new_br6: latin<br>extend<br>love<br>core<br>average<br>also
+bip_39_word_new_br7: latin<br>extend<br>love<br>core<br>average<br>also<br>melt
+bip_39_word_new_br8: latin<br>extend<br>love<br>core<br>average<br>also<br>melt<br>copper
+bip_39_word_new_br9: latin<br>extend<br>love<br>core<br>average<br>also<br>melt<br>copper<br>file
+bip_39_word_new_line1: latin
+bip_39_word_new_line10: 'latin
+
+  extend
+
+  love
+
+  core
+
+  average
+
+  also
+
+  melt
+
+  copper
+
+  file
+
+  swing'
+bip_39_word_new_line11: 'latin
+
+  extend
+
+  love
+
+  core
+
+  average
+
+  also
+
+  melt
+
+  copper
+
+  file
+
+  swing
+
+  involve'
+bip_39_word_new_line12: 'latin
+
+  extend
+
+  love
+
+  core
+
+  average
+
+  also
+
+  melt
+
+  copper
+
+  file
+
+  swing
+
+  involve
+
+  antique'
+bip_39_word_new_line2: 'latin
+
+  extend'
+bip_39_word_new_line3: 'latin
+
+  extend
+
+  love'
+bip_39_word_new_line4: 'latin
+
+  extend
+
+  love
+
+  core'
+bip_39_word_new_line5: 'latin
+
+  extend
+
+  love
+
+  core
+
+  average'
+bip_39_word_new_line6: 'latin
+
+  extend
+
+  love
+
+  core
+
+  average
+
+  also'
+bip_39_word_new_line7: 'latin
+
+  extend
+
+  love
+
+  core
+
+  average
+
+  also
+
+  melt'
+bip_39_word_new_line8: 'latin
+
+  extend
+
+  love
+
+  core
+
+  average
+
+  also
+
+  melt
+
+  copper'
+bip_39_word_new_line9: 'latin
+
+  extend
+
+  love
+
+  core
+
+  average
+
+  also
+
+  melt
+
+  copper
+
+  file'
+bip_39_word_space_0:
+- latin
+- extend
+- love
+- core
+- average
+- also
+- melt
+- copper
+- file
+- swing
+- involve
+- antique
+bip_39_word_space_1: latin
+bip_39_word_space_10: latin extend love core average also melt copper file swing
+bip_39_word_space_11: latin extend love core average also melt copper file swing involve
+bip_39_word_space_12: latin extend love core average also melt copper file swing involve
+  antique
+bip_39_word_space_2: latin extend
+bip_39_word_space_3: latin extend love
+bip_39_word_space_4: latin extend love core
+bip_39_word_space_5: latin extend love core average
+bip_39_word_space_6: latin extend love core average also
+bip_39_word_space_7: latin extend love core average also melt
+bip_39_word_space_8: latin extend love core average also melt copper
+bip_39_word_space_9: latin extend love core average also melt copper file
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

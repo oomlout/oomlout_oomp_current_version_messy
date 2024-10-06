@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ride
+bip_39_word_new_br10: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office
+bip_39_word_new_br11: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject
+bip_39_word_new_br12: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose<br>office<br>reject<br>address
+bip_39_word_new_br2: ride<br>rocket
+bip_39_word_new_br3: ride<br>rocket<br>liquid
+bip_39_word_new_br4: ride<br>rocket<br>liquid<br>alone
+bip_39_word_new_br5: ride<br>rocket<br>liquid<br>alone<br>merry
+bip_39_word_new_br6: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason
+bip_39_word_new_br7: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit
+bip_39_word_new_br8: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum
+bip_39_word_new_br9: ride<br>rocket<br>liquid<br>alone<br>merry<br>reason<br>permit<br>museum<br>purpose
+bip_39_word_new_line1: ride
+bip_39_word_new_line10: 'ride
+
+  rocket
+
+  liquid
+
+  alone
+
+  merry
+
+  reason
+
+  permit
+
+  museum
+
+  purpose
+
+  office'
+bip_39_word_new_line11: 'ride
+
+  rocket
+
+  liquid
+
+  alone
+
+  merry
+
+  reason
+
+  permit
+
+  museum
+
+  purpose
+
+  office
+
+  reject'
+bip_39_word_new_line12: 'ride
+
+  rocket
+
+  liquid
+
+  alone
+
+  merry
+
+  reason
+
+  permit
+
+  museum
+
+  purpose
+
+  office
+
+  reject
+
+  address'
+bip_39_word_new_line2: 'ride
+
+  rocket'
+bip_39_word_new_line3: 'ride
+
+  rocket
+
+  liquid'
+bip_39_word_new_line4: 'ride
+
+  rocket
+
+  liquid
+
+  alone'
+bip_39_word_new_line5: 'ride
+
+  rocket
+
+  liquid
+
+  alone
+
+  merry'
+bip_39_word_new_line6: 'ride
+
+  rocket
+
+  liquid
+
+  alone
+
+  merry
+
+  reason'
+bip_39_word_new_line7: 'ride
+
+  rocket
+
+  liquid
+
+  alone
+
+  merry
+
+  reason
+
+  permit'
+bip_39_word_new_line8: 'ride
+
+  rocket
+
+  liquid
+
+  alone
+
+  merry
+
+  reason
+
+  permit
+
+  museum'
+bip_39_word_new_line9: 'ride
+
+  rocket
+
+  liquid
+
+  alone
+
+  merry
+
+  reason
+
+  permit
+
+  museum
+
+  purpose'
+bip_39_word_space_0:
+- ride
+- rocket
+- liquid
+- alone
+- merry
+- reason
+- permit
+- museum
+- purpose
+- office
+- reject
+- address
+bip_39_word_space_1: ride
+bip_39_word_space_10: ride rocket liquid alone merry reason permit museum purpose
+  office
+bip_39_word_space_11: ride rocket liquid alone merry reason permit museum purpose
+  office reject
+bip_39_word_space_12: ride rocket liquid alone merry reason permit museum purpose
+  office reject address
+bip_39_word_space_2: ride rocket
+bip_39_word_space_3: ride rocket liquid
+bip_39_word_space_4: ride rocket liquid alone
+bip_39_word_space_5: ride rocket liquid alone merry
+bip_39_word_space_6: ride rocket liquid alone merry reason
+bip_39_word_space_7: ride rocket liquid alone merry reason permit
+bip_39_word_space_8: ride rocket liquid alone merry reason permit museum
+bip_39_word_space_9: ride rocket liquid alone merry reason permit museum purpose
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

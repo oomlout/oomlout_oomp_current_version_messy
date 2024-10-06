@@ -1,3 +1,185 @@
+bip_39_word_new_br1: wrong
+bip_39_word_new_br10: wrong<br>length<br>stairs<br>chef<br>walk<br>youth<br>net<br>endorse<br>deny<br>hip
+bip_39_word_new_br11: wrong<br>length<br>stairs<br>chef<br>walk<br>youth<br>net<br>endorse<br>deny<br>hip<br>health
+bip_39_word_new_br12: wrong<br>length<br>stairs<br>chef<br>walk<br>youth<br>net<br>endorse<br>deny<br>hip<br>health<br>artwork
+bip_39_word_new_br2: wrong<br>length
+bip_39_word_new_br3: wrong<br>length<br>stairs
+bip_39_word_new_br4: wrong<br>length<br>stairs<br>chef
+bip_39_word_new_br5: wrong<br>length<br>stairs<br>chef<br>walk
+bip_39_word_new_br6: wrong<br>length<br>stairs<br>chef<br>walk<br>youth
+bip_39_word_new_br7: wrong<br>length<br>stairs<br>chef<br>walk<br>youth<br>net
+bip_39_word_new_br8: wrong<br>length<br>stairs<br>chef<br>walk<br>youth<br>net<br>endorse
+bip_39_word_new_br9: wrong<br>length<br>stairs<br>chef<br>walk<br>youth<br>net<br>endorse<br>deny
+bip_39_word_new_line1: wrong
+bip_39_word_new_line10: 'wrong
+
+  length
+
+  stairs
+
+  chef
+
+  walk
+
+  youth
+
+  net
+
+  endorse
+
+  deny
+
+  hip'
+bip_39_word_new_line11: 'wrong
+
+  length
+
+  stairs
+
+  chef
+
+  walk
+
+  youth
+
+  net
+
+  endorse
+
+  deny
+
+  hip
+
+  health'
+bip_39_word_new_line12: 'wrong
+
+  length
+
+  stairs
+
+  chef
+
+  walk
+
+  youth
+
+  net
+
+  endorse
+
+  deny
+
+  hip
+
+  health
+
+  artwork'
+bip_39_word_new_line2: 'wrong
+
+  length'
+bip_39_word_new_line3: 'wrong
+
+  length
+
+  stairs'
+bip_39_word_new_line4: 'wrong
+
+  length
+
+  stairs
+
+  chef'
+bip_39_word_new_line5: 'wrong
+
+  length
+
+  stairs
+
+  chef
+
+  walk'
+bip_39_word_new_line6: 'wrong
+
+  length
+
+  stairs
+
+  chef
+
+  walk
+
+  youth'
+bip_39_word_new_line7: 'wrong
+
+  length
+
+  stairs
+
+  chef
+
+  walk
+
+  youth
+
+  net'
+bip_39_word_new_line8: 'wrong
+
+  length
+
+  stairs
+
+  chef
+
+  walk
+
+  youth
+
+  net
+
+  endorse'
+bip_39_word_new_line9: 'wrong
+
+  length
+
+  stairs
+
+  chef
+
+  walk
+
+  youth
+
+  net
+
+  endorse
+
+  deny'
+bip_39_word_space_0:
+- wrong
+- length
+- stairs
+- chef
+- walk
+- youth
+- net
+- endorse
+- deny
+- hip
+- health
+- artwork
+bip_39_word_space_1: wrong
+bip_39_word_space_10: wrong length stairs chef walk youth net endorse deny hip
+bip_39_word_space_11: wrong length stairs chef walk youth net endorse deny hip health
+bip_39_word_space_12: wrong length stairs chef walk youth net endorse deny hip health
+  artwork
+bip_39_word_space_2: wrong length
+bip_39_word_space_3: wrong length stairs
+bip_39_word_space_4: wrong length stairs chef
+bip_39_word_space_5: wrong length stairs chef walk
+bip_39_word_space_6: wrong length stairs chef walk youth
+bip_39_word_space_7: wrong length stairs chef walk youth net
+bip_39_word_space_8: wrong length stairs chef walk youth net endorse
+bip_39_word_space_9: wrong length stairs chef walk youth net endorse deny
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dilemma
+bip_39_word_new_br10: dilemma<br>wood<br>acid<br>festival<br>physical<br>infant<br>swim<br>web<br>bamboo<br>element
+bip_39_word_new_br11: dilemma<br>wood<br>acid<br>festival<br>physical<br>infant<br>swim<br>web<br>bamboo<br>element<br>diary
+bip_39_word_new_br12: dilemma<br>wood<br>acid<br>festival<br>physical<br>infant<br>swim<br>web<br>bamboo<br>element<br>diary<br>about
+bip_39_word_new_br2: dilemma<br>wood
+bip_39_word_new_br3: dilemma<br>wood<br>acid
+bip_39_word_new_br4: dilemma<br>wood<br>acid<br>festival
+bip_39_word_new_br5: dilemma<br>wood<br>acid<br>festival<br>physical
+bip_39_word_new_br6: dilemma<br>wood<br>acid<br>festival<br>physical<br>infant
+bip_39_word_new_br7: dilemma<br>wood<br>acid<br>festival<br>physical<br>infant<br>swim
+bip_39_word_new_br8: dilemma<br>wood<br>acid<br>festival<br>physical<br>infant<br>swim<br>web
+bip_39_word_new_br9: dilemma<br>wood<br>acid<br>festival<br>physical<br>infant<br>swim<br>web<br>bamboo
+bip_39_word_new_line1: dilemma
+bip_39_word_new_line10: 'dilemma
+
+  wood
+
+  acid
+
+  festival
+
+  physical
+
+  infant
+
+  swim
+
+  web
+
+  bamboo
+
+  element'
+bip_39_word_new_line11: 'dilemma
+
+  wood
+
+  acid
+
+  festival
+
+  physical
+
+  infant
+
+  swim
+
+  web
+
+  bamboo
+
+  element
+
+  diary'
+bip_39_word_new_line12: 'dilemma
+
+  wood
+
+  acid
+
+  festival
+
+  physical
+
+  infant
+
+  swim
+
+  web
+
+  bamboo
+
+  element
+
+  diary
+
+  about'
+bip_39_word_new_line2: 'dilemma
+
+  wood'
+bip_39_word_new_line3: 'dilemma
+
+  wood
+
+  acid'
+bip_39_word_new_line4: 'dilemma
+
+  wood
+
+  acid
+
+  festival'
+bip_39_word_new_line5: 'dilemma
+
+  wood
+
+  acid
+
+  festival
+
+  physical'
+bip_39_word_new_line6: 'dilemma
+
+  wood
+
+  acid
+
+  festival
+
+  physical
+
+  infant'
+bip_39_word_new_line7: 'dilemma
+
+  wood
+
+  acid
+
+  festival
+
+  physical
+
+  infant
+
+  swim'
+bip_39_word_new_line8: 'dilemma
+
+  wood
+
+  acid
+
+  festival
+
+  physical
+
+  infant
+
+  swim
+
+  web'
+bip_39_word_new_line9: 'dilemma
+
+  wood
+
+  acid
+
+  festival
+
+  physical
+
+  infant
+
+  swim
+
+  web
+
+  bamboo'
+bip_39_word_space_0:
+- dilemma
+- wood
+- acid
+- festival
+- physical
+- infant
+- swim
+- web
+- bamboo
+- element
+- diary
+- about
+bip_39_word_space_1: dilemma
+bip_39_word_space_10: dilemma wood acid festival physical infant swim web bamboo element
+bip_39_word_space_11: dilemma wood acid festival physical infant swim web bamboo element
+  diary
+bip_39_word_space_12: dilemma wood acid festival physical infant swim web bamboo element
+  diary about
+bip_39_word_space_2: dilemma wood
+bip_39_word_space_3: dilemma wood acid
+bip_39_word_space_4: dilemma wood acid festival
+bip_39_word_space_5: dilemma wood acid festival physical
+bip_39_word_space_6: dilemma wood acid festival physical infant
+bip_39_word_space_7: dilemma wood acid festival physical infant swim
+bip_39_word_space_8: dilemma wood acid festival physical infant swim web
+bip_39_word_space_9: dilemma wood acid festival physical infant swim web bamboo
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: issue
+bip_39_word_new_br10: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship
+bip_39_word_new_br11: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship<br>large
+bip_39_word_new_br12: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee<br>ship<br>large<br>autumn
+bip_39_word_new_br2: issue<br>flavor
+bip_39_word_new_br3: issue<br>flavor<br>tennis
+bip_39_word_new_br4: issue<br>flavor<br>tennis<br>reduce
+bip_39_word_new_br5: issue<br>flavor<br>tennis<br>reduce<br>casual
+bip_39_word_new_br6: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original
+bip_39_word_new_br7: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll
+bip_39_word_new_br8: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret
+bip_39_word_new_br9: issue<br>flavor<br>tennis<br>reduce<br>casual<br>original<br>doll<br>secret<br>fee
+bip_39_word_new_line1: issue
+bip_39_word_new_line10: 'issue
+
+  flavor
+
+  tennis
+
+  reduce
+
+  casual
+
+  original
+
+  doll
+
+  secret
+
+  fee
+
+  ship'
+bip_39_word_new_line11: 'issue
+
+  flavor
+
+  tennis
+
+  reduce
+
+  casual
+
+  original
+
+  doll
+
+  secret
+
+  fee
+
+  ship
+
+  large'
+bip_39_word_new_line12: 'issue
+
+  flavor
+
+  tennis
+
+  reduce
+
+  casual
+
+  original
+
+  doll
+
+  secret
+
+  fee
+
+  ship
+
+  large
+
+  autumn'
+bip_39_word_new_line2: 'issue
+
+  flavor'
+bip_39_word_new_line3: 'issue
+
+  flavor
+
+  tennis'
+bip_39_word_new_line4: 'issue
+
+  flavor
+
+  tennis
+
+  reduce'
+bip_39_word_new_line5: 'issue
+
+  flavor
+
+  tennis
+
+  reduce
+
+  casual'
+bip_39_word_new_line6: 'issue
+
+  flavor
+
+  tennis
+
+  reduce
+
+  casual
+
+  original'
+bip_39_word_new_line7: 'issue
+
+  flavor
+
+  tennis
+
+  reduce
+
+  casual
+
+  original
+
+  doll'
+bip_39_word_new_line8: 'issue
+
+  flavor
+
+  tennis
+
+  reduce
+
+  casual
+
+  original
+
+  doll
+
+  secret'
+bip_39_word_new_line9: 'issue
+
+  flavor
+
+  tennis
+
+  reduce
+
+  casual
+
+  original
+
+  doll
+
+  secret
+
+  fee'
+bip_39_word_space_0:
+- issue
+- flavor
+- tennis
+- reduce
+- casual
+- original
+- doll
+- secret
+- fee
+- ship
+- large
+- autumn
+bip_39_word_space_1: issue
+bip_39_word_space_10: issue flavor tennis reduce casual original doll secret fee ship
+bip_39_word_space_11: issue flavor tennis reduce casual original doll secret fee ship
+  large
+bip_39_word_space_12: issue flavor tennis reduce casual original doll secret fee ship
+  large autumn
+bip_39_word_space_2: issue flavor
+bip_39_word_space_3: issue flavor tennis
+bip_39_word_space_4: issue flavor tennis reduce
+bip_39_word_space_5: issue flavor tennis reduce casual
+bip_39_word_space_6: issue flavor tennis reduce casual original
+bip_39_word_space_7: issue flavor tennis reduce casual original doll
+bip_39_word_space_8: issue flavor tennis reduce casual original doll secret
+bip_39_word_space_9: issue flavor tennis reduce casual original doll secret fee
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

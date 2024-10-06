@@ -1,3 +1,187 @@
+bip_39_word_new_br1: inner
+bip_39_word_new_br10: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp<br>hint<br>between
+bip_39_word_new_br11: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp<br>hint<br>between<br>coconut
+bip_39_word_new_br12: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp<br>hint<br>between<br>coconut<br>apart
+bip_39_word_new_br2: inner<br>neutral
+bip_39_word_new_br3: inner<br>neutral<br>despair
+bip_39_word_new_br4: inner<br>neutral<br>despair<br>neglect
+bip_39_word_new_br5: inner<br>neutral<br>despair<br>neglect<br>ensure
+bip_39_word_new_br6: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard
+bip_39_word_new_br7: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase
+bip_39_word_new_br8: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp
+bip_39_word_new_br9: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp<br>hint
+bip_39_word_new_line1: inner
+bip_39_word_new_line10: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp
+
+  hint
+
+  between'
+bip_39_word_new_line11: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp
+
+  hint
+
+  between
+
+  coconut'
+bip_39_word_new_line12: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp
+
+  hint
+
+  between
+
+  coconut
+
+  apart'
+bip_39_word_new_line2: 'inner
+
+  neutral'
+bip_39_word_new_line3: 'inner
+
+  neutral
+
+  despair'
+bip_39_word_new_line4: 'inner
+
+  neutral
+
+  despair
+
+  neglect'
+bip_39_word_new_line5: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure'
+bip_39_word_new_line6: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard'
+bip_39_word_new_line7: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase'
+bip_39_word_new_line8: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp'
+bip_39_word_new_line9: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp
+
+  hint'
+bip_39_word_space_0:
+- inner
+- neutral
+- despair
+- neglect
+- ensure
+- hard
+- purchase
+- lamp
+- hint
+- between
+- coconut
+- apart
+bip_39_word_space_1: inner
+bip_39_word_space_10: inner neutral despair neglect ensure hard purchase lamp hint
+  between
+bip_39_word_space_11: inner neutral despair neglect ensure hard purchase lamp hint
+  between coconut
+bip_39_word_space_12: inner neutral despair neglect ensure hard purchase lamp hint
+  between coconut apart
+bip_39_word_space_2: inner neutral
+bip_39_word_space_3: inner neutral despair
+bip_39_word_space_4: inner neutral despair neglect
+bip_39_word_space_5: inner neutral despair neglect ensure
+bip_39_word_space_6: inner neutral despair neglect ensure hard
+bip_39_word_space_7: inner neutral despair neglect ensure hard purchase
+bip_39_word_space_8: inner neutral despair neglect ensure hard purchase lamp
+bip_39_word_space_9: inner neutral despair neglect ensure hard purchase lamp hint
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

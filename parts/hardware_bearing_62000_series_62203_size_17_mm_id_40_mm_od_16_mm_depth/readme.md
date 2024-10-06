@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mouse license
+  * bip 39 word 3: mouse license vague
+  * bip 39 word: mouse license vague couch empower tower rebel obvious cheap call poem asthma
 
 ### other_codes
 * short_code: br62203
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mouse |  
+| bip_39_word_new_br10 | mouse<br>license<br>vague<br>couch<br>empower<br>tower<br>rebel<br>obvious<br>cheap<br>call |  
+| bip_39_word_new_br11 | mouse<br>license<br>vague<br>couch<br>empower<br>tower<br>rebel<br>obvious<br>cheap<br>call<br>poem |  
+| bip_39_word_new_br12 | mouse<br>license<br>vague<br>couch<br>empower<br>tower<br>rebel<br>obvious<br>cheap<br>call<br>poem<br>asthma |  
+| bip_39_word_new_br2 | mouse<br>license |  
+| bip_39_word_new_br3 | mouse<br>license<br>vague |  
+| bip_39_word_new_br4 | mouse<br>license<br>vague<br>couch |  
+| bip_39_word_new_br5 | mouse<br>license<br>vague<br>couch<br>empower |  
+| bip_39_word_new_br6 | mouse<br>license<br>vague<br>couch<br>empower<br>tower |  
+| bip_39_word_new_br7 | mouse<br>license<br>vague<br>couch<br>empower<br>tower<br>rebel |  
+| bip_39_word_new_br8 | mouse<br>license<br>vague<br>couch<br>empower<br>tower<br>rebel<br>obvious |  
+| bip_39_word_new_br9 | mouse<br>license<br>vague<br>couch<br>empower<br>tower<br>rebel<br>obvious<br>cheap |  
+| bip_39_word_new_line1 | mouse |  
+| bip_39_word_new_line10 | mouse
+license
+vague
+couch
+empower
+tower
+rebel
+obvious
+cheap
+call |  
+| bip_39_word_new_line11 | mouse
+license
+vague
+couch
+empower
+tower
+rebel
+obvious
+cheap
+call
+poem |  
+| bip_39_word_new_line12 | mouse
+license
+vague
+couch
+empower
+tower
+rebel
+obvious
+cheap
+call
+poem
+asthma |  
+| bip_39_word_new_line2 | mouse
+license |  
+| bip_39_word_new_line3 | mouse
+license
+vague |  
+| bip_39_word_new_line4 | mouse
+license
+vague
+couch |  
+| bip_39_word_new_line5 | mouse
+license
+vague
+couch
+empower |  
+| bip_39_word_new_line6 | mouse
+license
+vague
+couch
+empower
+tower |  
+| bip_39_word_new_line7 | mouse
+license
+vague
+couch
+empower
+tower
+rebel |  
+| bip_39_word_new_line8 | mouse
+license
+vague
+couch
+empower
+tower
+rebel
+obvious |  
+| bip_39_word_new_line9 | mouse
+license
+vague
+couch
+empower
+tower
+rebel
+obvious
+cheap |  
+| bip_39_word_space_0 | ['mouse', 'license', 'vague', 'couch', 'empower', 'tower', 'rebel', 'obvious', 'cheap', 'call', 'poem', 'asthma'] |  
+| bip_39_word_space_1 | mouse |  
+| bip_39_word_space_10 | mouse license vague couch empower tower rebel obvious cheap call |  
+| bip_39_word_space_11 | mouse license vague couch empower tower rebel obvious cheap call poem |  
+| bip_39_word_space_12 | mouse license vague couch empower tower rebel obvious cheap call poem asthma |  
+| bip_39_word_space_2 | mouse license |  
+| bip_39_word_space_3 | mouse license vague |  
+| bip_39_word_space_4 | mouse license vague couch |  
+| bip_39_word_space_5 | mouse license vague couch empower |  
+| bip_39_word_space_6 | mouse license vague couch empower tower |  
+| bip_39_word_space_7 | mouse license vague couch empower tower rebel |  
+| bip_39_word_space_8 | mouse license vague couch empower tower rebel obvious |  
+| bip_39_word_space_9 | mouse license vague couch empower tower rebel obvious cheap |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

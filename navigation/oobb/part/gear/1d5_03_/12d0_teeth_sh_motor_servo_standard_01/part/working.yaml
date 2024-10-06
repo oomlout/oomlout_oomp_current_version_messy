@@ -1,3 +1,187 @@
+bip_39_word_new_br1: refuse
+bip_39_word_new_br10: refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble
+bip_39_word_new_br11: refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble<br>answer
+bip_39_word_new_br12: refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social<br>humble<br>answer<br>angle
+bip_39_word_new_br2: refuse<br>inflict
+bip_39_word_new_br3: refuse<br>inflict<br>employ
+bip_39_word_new_br4: refuse<br>inflict<br>employ<br>census
+bip_39_word_new_br5: refuse<br>inflict<br>employ<br>census<br>shy
+bip_39_word_new_br6: refuse<br>inflict<br>employ<br>census<br>shy<br>distance
+bip_39_word_new_br7: refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint
+bip_39_word_new_br8: refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench
+bip_39_word_new_br9: refuse<br>inflict<br>employ<br>census<br>shy<br>distance<br>hint<br>bench<br>social
+bip_39_word_new_line1: refuse
+bip_39_word_new_line10: 'refuse
+
+  inflict
+
+  employ
+
+  census
+
+  shy
+
+  distance
+
+  hint
+
+  bench
+
+  social
+
+  humble'
+bip_39_word_new_line11: 'refuse
+
+  inflict
+
+  employ
+
+  census
+
+  shy
+
+  distance
+
+  hint
+
+  bench
+
+  social
+
+  humble
+
+  answer'
+bip_39_word_new_line12: 'refuse
+
+  inflict
+
+  employ
+
+  census
+
+  shy
+
+  distance
+
+  hint
+
+  bench
+
+  social
+
+  humble
+
+  answer
+
+  angle'
+bip_39_word_new_line2: 'refuse
+
+  inflict'
+bip_39_word_new_line3: 'refuse
+
+  inflict
+
+  employ'
+bip_39_word_new_line4: 'refuse
+
+  inflict
+
+  employ
+
+  census'
+bip_39_word_new_line5: 'refuse
+
+  inflict
+
+  employ
+
+  census
+
+  shy'
+bip_39_word_new_line6: 'refuse
+
+  inflict
+
+  employ
+
+  census
+
+  shy
+
+  distance'
+bip_39_word_new_line7: 'refuse
+
+  inflict
+
+  employ
+
+  census
+
+  shy
+
+  distance
+
+  hint'
+bip_39_word_new_line8: 'refuse
+
+  inflict
+
+  employ
+
+  census
+
+  shy
+
+  distance
+
+  hint
+
+  bench'
+bip_39_word_new_line9: 'refuse
+
+  inflict
+
+  employ
+
+  census
+
+  shy
+
+  distance
+
+  hint
+
+  bench
+
+  social'
+bip_39_word_space_0:
+- refuse
+- inflict
+- employ
+- census
+- shy
+- distance
+- hint
+- bench
+- social
+- humble
+- answer
+- angle
+bip_39_word_space_1: refuse
+bip_39_word_space_10: refuse inflict employ census shy distance hint bench social
+  humble
+bip_39_word_space_11: refuse inflict employ census shy distance hint bench social
+  humble answer
+bip_39_word_space_12: refuse inflict employ census shy distance hint bench social
+  humble answer angle
+bip_39_word_space_2: refuse inflict
+bip_39_word_space_3: refuse inflict employ
+bip_39_word_space_4: refuse inflict employ census
+bip_39_word_space_5: refuse inflict employ census shy
+bip_39_word_space_6: refuse inflict employ census shy distance
+bip_39_word_space_7: refuse inflict employ census shy distance hint
+bip_39_word_space_8: refuse inflict employ census shy distance hint bench
+bip_39_word_space_9: refuse inflict employ census shy distance hint bench social
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

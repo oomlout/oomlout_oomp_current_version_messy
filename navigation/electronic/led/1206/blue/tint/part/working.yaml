@@ -1,3 +1,186 @@
+bip_39_word_new_br1: kitchen
+bip_39_word_new_br10: kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop
+bip_39_word_new_br11: kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop<br>torch
+bip_39_word_new_br12: kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally<br>laptop<br>torch<br>already
+bip_39_word_new_br2: kitchen<br>panel
+bip_39_word_new_br3: kitchen<br>panel<br>nation
+bip_39_word_new_br4: kitchen<br>panel<br>nation<br>just
+bip_39_word_new_br5: kitchen<br>panel<br>nation<br>just<br>media
+bip_39_word_new_br6: kitchen<br>panel<br>nation<br>just<br>media<br>patient
+bip_39_word_new_br7: kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano
+bip_39_word_new_br8: kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino
+bip_39_word_new_br9: kitchen<br>panel<br>nation<br>just<br>media<br>patient<br>piano<br>casino<br>rally
+bip_39_word_new_line1: kitchen
+bip_39_word_new_line10: 'kitchen
+
+  panel
+
+  nation
+
+  just
+
+  media
+
+  patient
+
+  piano
+
+  casino
+
+  rally
+
+  laptop'
+bip_39_word_new_line11: 'kitchen
+
+  panel
+
+  nation
+
+  just
+
+  media
+
+  patient
+
+  piano
+
+  casino
+
+  rally
+
+  laptop
+
+  torch'
+bip_39_word_new_line12: 'kitchen
+
+  panel
+
+  nation
+
+  just
+
+  media
+
+  patient
+
+  piano
+
+  casino
+
+  rally
+
+  laptop
+
+  torch
+
+  already'
+bip_39_word_new_line2: 'kitchen
+
+  panel'
+bip_39_word_new_line3: 'kitchen
+
+  panel
+
+  nation'
+bip_39_word_new_line4: 'kitchen
+
+  panel
+
+  nation
+
+  just'
+bip_39_word_new_line5: 'kitchen
+
+  panel
+
+  nation
+
+  just
+
+  media'
+bip_39_word_new_line6: 'kitchen
+
+  panel
+
+  nation
+
+  just
+
+  media
+
+  patient'
+bip_39_word_new_line7: 'kitchen
+
+  panel
+
+  nation
+
+  just
+
+  media
+
+  patient
+
+  piano'
+bip_39_word_new_line8: 'kitchen
+
+  panel
+
+  nation
+
+  just
+
+  media
+
+  patient
+
+  piano
+
+  casino'
+bip_39_word_new_line9: 'kitchen
+
+  panel
+
+  nation
+
+  just
+
+  media
+
+  patient
+
+  piano
+
+  casino
+
+  rally'
+bip_39_word_space_0:
+- kitchen
+- panel
+- nation
+- just
+- media
+- patient
+- piano
+- casino
+- rally
+- laptop
+- torch
+- already
+bip_39_word_space_1: kitchen
+bip_39_word_space_10: kitchen panel nation just media patient piano casino rally laptop
+bip_39_word_space_11: kitchen panel nation just media patient piano casino rally laptop
+  torch
+bip_39_word_space_12: kitchen panel nation just media patient piano casino rally laptop
+  torch already
+bip_39_word_space_2: kitchen panel
+bip_39_word_space_3: kitchen panel nation
+bip_39_word_space_4: kitchen panel nation just
+bip_39_word_space_5: kitchen panel nation just media
+bip_39_word_space_6: kitchen panel nation just media patient
+bip_39_word_space_7: kitchen panel nation just media patient piano
+bip_39_word_space_8: kitchen panel nation just media patient piano casino
+bip_39_word_space_9: kitchen panel nation just media patient piano casino rally
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

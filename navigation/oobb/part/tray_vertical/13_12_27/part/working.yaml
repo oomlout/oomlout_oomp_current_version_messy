@@ -1,3 +1,185 @@
+bip_39_word_new_br1: tell
+bip_39_word_new_br10: tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation
+bip_39_word_new_br11: tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation<br>fix
+bip_39_word_new_br12: tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule<br>nation<br>fix<br>affair
+bip_39_word_new_br2: tell<br>keen
+bip_39_word_new_br3: tell<br>keen<br>clean
+bip_39_word_new_br4: tell<br>keen<br>clean<br>liar
+bip_39_word_new_br5: tell<br>keen<br>clean<br>liar<br>sport
+bip_39_word_new_br6: tell<br>keen<br>clean<br>liar<br>sport<br>foam
+bip_39_word_new_br7: tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind
+bip_39_word_new_br8: tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search
+bip_39_word_new_br9: tell<br>keen<br>clean<br>liar<br>sport<br>foam<br>blind<br>search<br>rule
+bip_39_word_new_line1: tell
+bip_39_word_new_line10: 'tell
+
+  keen
+
+  clean
+
+  liar
+
+  sport
+
+  foam
+
+  blind
+
+  search
+
+  rule
+
+  nation'
+bip_39_word_new_line11: 'tell
+
+  keen
+
+  clean
+
+  liar
+
+  sport
+
+  foam
+
+  blind
+
+  search
+
+  rule
+
+  nation
+
+  fix'
+bip_39_word_new_line12: 'tell
+
+  keen
+
+  clean
+
+  liar
+
+  sport
+
+  foam
+
+  blind
+
+  search
+
+  rule
+
+  nation
+
+  fix
+
+  affair'
+bip_39_word_new_line2: 'tell
+
+  keen'
+bip_39_word_new_line3: 'tell
+
+  keen
+
+  clean'
+bip_39_word_new_line4: 'tell
+
+  keen
+
+  clean
+
+  liar'
+bip_39_word_new_line5: 'tell
+
+  keen
+
+  clean
+
+  liar
+
+  sport'
+bip_39_word_new_line6: 'tell
+
+  keen
+
+  clean
+
+  liar
+
+  sport
+
+  foam'
+bip_39_word_new_line7: 'tell
+
+  keen
+
+  clean
+
+  liar
+
+  sport
+
+  foam
+
+  blind'
+bip_39_word_new_line8: 'tell
+
+  keen
+
+  clean
+
+  liar
+
+  sport
+
+  foam
+
+  blind
+
+  search'
+bip_39_word_new_line9: 'tell
+
+  keen
+
+  clean
+
+  liar
+
+  sport
+
+  foam
+
+  blind
+
+  search
+
+  rule'
+bip_39_word_space_0:
+- tell
+- keen
+- clean
+- liar
+- sport
+- foam
+- blind
+- search
+- rule
+- nation
+- fix
+- affair
+bip_39_word_space_1: tell
+bip_39_word_space_10: tell keen clean liar sport foam blind search rule nation
+bip_39_word_space_11: tell keen clean liar sport foam blind search rule nation fix
+bip_39_word_space_12: tell keen clean liar sport foam blind search rule nation fix
+  affair
+bip_39_word_space_2: tell keen
+bip_39_word_space_3: tell keen clean
+bip_39_word_space_4: tell keen clean liar
+bip_39_word_space_5: tell keen clean liar sport
+bip_39_word_space_6: tell keen clean liar sport foam
+bip_39_word_space_7: tell keen clean liar sport foam blind
+bip_39_word_space_8: tell keen clean liar sport foam blind search
+bip_39_word_space_9: tell keen clean liar sport foam blind search rule
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

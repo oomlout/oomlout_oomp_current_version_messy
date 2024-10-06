@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: jeans cricket
+  * bip 39 word 3: jeans cricket hurry
+  * bip 39 word: jeans cricket hurry august oak possible banana expire canyon canoe undo aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | jeans |  
+| bip_39_word_new_br10 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible<br>banana<br>expire<br>canyon<br>canoe |  
+| bip_39_word_new_br11 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible<br>banana<br>expire<br>canyon<br>canoe<br>undo |  
+| bip_39_word_new_br12 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible<br>banana<br>expire<br>canyon<br>canoe<br>undo<br>aerobic |  
+| bip_39_word_new_br2 | jeans<br>cricket |  
+| bip_39_word_new_br3 | jeans<br>cricket<br>hurry |  
+| bip_39_word_new_br4 | jeans<br>cricket<br>hurry<br>august |  
+| bip_39_word_new_br5 | jeans<br>cricket<br>hurry<br>august<br>oak |  
+| bip_39_word_new_br6 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible |  
+| bip_39_word_new_br7 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible<br>banana |  
+| bip_39_word_new_br8 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible<br>banana<br>expire |  
+| bip_39_word_new_br9 | jeans<br>cricket<br>hurry<br>august<br>oak<br>possible<br>banana<br>expire<br>canyon |  
+| bip_39_word_new_line1 | jeans |  
+| bip_39_word_new_line10 | jeans
+cricket
+hurry
+august
+oak
+possible
+banana
+expire
+canyon
+canoe |  
+| bip_39_word_new_line11 | jeans
+cricket
+hurry
+august
+oak
+possible
+banana
+expire
+canyon
+canoe
+undo |  
+| bip_39_word_new_line12 | jeans
+cricket
+hurry
+august
+oak
+possible
+banana
+expire
+canyon
+canoe
+undo
+aerobic |  
+| bip_39_word_new_line2 | jeans
+cricket |  
+| bip_39_word_new_line3 | jeans
+cricket
+hurry |  
+| bip_39_word_new_line4 | jeans
+cricket
+hurry
+august |  
+| bip_39_word_new_line5 | jeans
+cricket
+hurry
+august
+oak |  
+| bip_39_word_new_line6 | jeans
+cricket
+hurry
+august
+oak
+possible |  
+| bip_39_word_new_line7 | jeans
+cricket
+hurry
+august
+oak
+possible
+banana |  
+| bip_39_word_new_line8 | jeans
+cricket
+hurry
+august
+oak
+possible
+banana
+expire |  
+| bip_39_word_new_line9 | jeans
+cricket
+hurry
+august
+oak
+possible
+banana
+expire
+canyon |  
+| bip_39_word_space_0 | ['jeans', 'cricket', 'hurry', 'august', 'oak', 'possible', 'banana', 'expire', 'canyon', 'canoe', 'undo', 'aerobic'] |  
+| bip_39_word_space_1 | jeans |  
+| bip_39_word_space_10 | jeans cricket hurry august oak possible banana expire canyon canoe |  
+| bip_39_word_space_11 | jeans cricket hurry august oak possible banana expire canyon canoe undo |  
+| bip_39_word_space_12 | jeans cricket hurry august oak possible banana expire canyon canoe undo aerobic |  
+| bip_39_word_space_2 | jeans cricket |  
+| bip_39_word_space_3 | jeans cricket hurry |  
+| bip_39_word_space_4 | jeans cricket hurry august |  
+| bip_39_word_space_5 | jeans cricket hurry august oak |  
+| bip_39_word_space_6 | jeans cricket hurry august oak possible |  
+| bip_39_word_space_7 | jeans cricket hurry august oak possible banana |  
+| bip_39_word_space_8 | jeans cricket hurry august oak possible banana expire |  
+| bip_39_word_space_9 | jeans cricket hurry august oak possible banana expire canyon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

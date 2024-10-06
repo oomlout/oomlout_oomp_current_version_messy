@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chimney whale
+  * bip 39 word 3: chimney whale cotton
+  * bip 39 word: chimney whale cotton shaft double shy solution rate little current twice about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chimney |  
+| bip_39_word_new_br10 | chimney<br>whale<br>cotton<br>shaft<br>double<br>shy<br>solution<br>rate<br>little<br>current |  
+| bip_39_word_new_br11 | chimney<br>whale<br>cotton<br>shaft<br>double<br>shy<br>solution<br>rate<br>little<br>current<br>twice |  
+| bip_39_word_new_br12 | chimney<br>whale<br>cotton<br>shaft<br>double<br>shy<br>solution<br>rate<br>little<br>current<br>twice<br>about |  
+| bip_39_word_new_br2 | chimney<br>whale |  
+| bip_39_word_new_br3 | chimney<br>whale<br>cotton |  
+| bip_39_word_new_br4 | chimney<br>whale<br>cotton<br>shaft |  
+| bip_39_word_new_br5 | chimney<br>whale<br>cotton<br>shaft<br>double |  
+| bip_39_word_new_br6 | chimney<br>whale<br>cotton<br>shaft<br>double<br>shy |  
+| bip_39_word_new_br7 | chimney<br>whale<br>cotton<br>shaft<br>double<br>shy<br>solution |  
+| bip_39_word_new_br8 | chimney<br>whale<br>cotton<br>shaft<br>double<br>shy<br>solution<br>rate |  
+| bip_39_word_new_br9 | chimney<br>whale<br>cotton<br>shaft<br>double<br>shy<br>solution<br>rate<br>little |  
+| bip_39_word_new_line1 | chimney |  
+| bip_39_word_new_line10 | chimney
+whale
+cotton
+shaft
+double
+shy
+solution
+rate
+little
+current |  
+| bip_39_word_new_line11 | chimney
+whale
+cotton
+shaft
+double
+shy
+solution
+rate
+little
+current
+twice |  
+| bip_39_word_new_line12 | chimney
+whale
+cotton
+shaft
+double
+shy
+solution
+rate
+little
+current
+twice
+about |  
+| bip_39_word_new_line2 | chimney
+whale |  
+| bip_39_word_new_line3 | chimney
+whale
+cotton |  
+| bip_39_word_new_line4 | chimney
+whale
+cotton
+shaft |  
+| bip_39_word_new_line5 | chimney
+whale
+cotton
+shaft
+double |  
+| bip_39_word_new_line6 | chimney
+whale
+cotton
+shaft
+double
+shy |  
+| bip_39_word_new_line7 | chimney
+whale
+cotton
+shaft
+double
+shy
+solution |  
+| bip_39_word_new_line8 | chimney
+whale
+cotton
+shaft
+double
+shy
+solution
+rate |  
+| bip_39_word_new_line9 | chimney
+whale
+cotton
+shaft
+double
+shy
+solution
+rate
+little |  
+| bip_39_word_space_0 | ['chimney', 'whale', 'cotton', 'shaft', 'double', 'shy', 'solution', 'rate', 'little', 'current', 'twice', 'about'] |  
+| bip_39_word_space_1 | chimney |  
+| bip_39_word_space_10 | chimney whale cotton shaft double shy solution rate little current |  
+| bip_39_word_space_11 | chimney whale cotton shaft double shy solution rate little current twice |  
+| bip_39_word_space_12 | chimney whale cotton shaft double shy solution rate little current twice about |  
+| bip_39_word_space_2 | chimney whale |  
+| bip_39_word_space_3 | chimney whale cotton |  
+| bip_39_word_space_4 | chimney whale cotton shaft |  
+| bip_39_word_space_5 | chimney whale cotton shaft double |  
+| bip_39_word_space_6 | chimney whale cotton shaft double shy |  
+| bip_39_word_space_7 | chimney whale cotton shaft double shy solution |  
+| bip_39_word_space_8 | chimney whale cotton shaft double shy solution rate |  
+| bip_39_word_space_9 | chimney whale cotton shaft double shy solution rate little |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -1,3 +1,185 @@
+bip_39_word_new_br1: spirit
+bip_39_word_new_br10: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread
+bip_39_word_new_br11: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric
+bip_39_word_new_br12: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric<br>anchor
+bip_39_word_new_br2: spirit<br>uncover
+bip_39_word_new_br3: spirit<br>uncover<br>fury
+bip_39_word_new_br4: spirit<br>uncover<br>fury<br>pupil
+bip_39_word_new_br5: spirit<br>uncover<br>fury<br>pupil<br>law
+bip_39_word_new_br6: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent
+bip_39_word_new_br7: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall
+bip_39_word_new_br8: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real
+bip_39_word_new_br9: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite
+bip_39_word_new_line1: spirit
+bip_39_word_new_line10: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real
+
+  kite
+
+  bread'
+bip_39_word_new_line11: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real
+
+  kite
+
+  bread
+
+  electric'
+bip_39_word_new_line12: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real
+
+  kite
+
+  bread
+
+  electric
+
+  anchor'
+bip_39_word_new_line2: 'spirit
+
+  uncover'
+bip_39_word_new_line3: 'spirit
+
+  uncover
+
+  fury'
+bip_39_word_new_line4: 'spirit
+
+  uncover
+
+  fury
+
+  pupil'
+bip_39_word_new_line5: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law'
+bip_39_word_new_line6: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent'
+bip_39_word_new_line7: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall'
+bip_39_word_new_line8: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real'
+bip_39_word_new_line9: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real
+
+  kite'
+bip_39_word_space_0:
+- spirit
+- uncover
+- fury
+- pupil
+- law
+- absent
+- fall
+- real
+- kite
+- bread
+- electric
+- anchor
+bip_39_word_space_1: spirit
+bip_39_word_space_10: spirit uncover fury pupil law absent fall real kite bread
+bip_39_word_space_11: spirit uncover fury pupil law absent fall real kite bread electric
+bip_39_word_space_12: spirit uncover fury pupil law absent fall real kite bread electric
+  anchor
+bip_39_word_space_2: spirit uncover
+bip_39_word_space_3: spirit uncover fury
+bip_39_word_space_4: spirit uncover fury pupil
+bip_39_word_space_5: spirit uncover fury pupil law
+bip_39_word_space_6: spirit uncover fury pupil law absent
+bip_39_word_space_7: spirit uncover fury pupil law absent fall
+bip_39_word_space_8: spirit uncover fury pupil law absent fall real
+bip_39_word_space_9: spirit uncover fury pupil law absent fall real kite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

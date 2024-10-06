@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boss lounge
+  * bip 39 word 3: boss lounge cover
+  * bip 39 word: boss lounge cover confirm waste glove crop share maze cry milk alcohol
 
 ### other_codes
 * short_code: st1d7b8p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boss |  
+| bip_39_word_new_br10 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry |  
+| bip_39_word_new_br11 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry<br>milk |  
+| bip_39_word_new_br12 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze<br>cry<br>milk<br>alcohol |  
+| bip_39_word_new_br2 | boss<br>lounge |  
+| bip_39_word_new_br3 | boss<br>lounge<br>cover |  
+| bip_39_word_new_br4 | boss<br>lounge<br>cover<br>confirm |  
+| bip_39_word_new_br5 | boss<br>lounge<br>cover<br>confirm<br>waste |  
+| bip_39_word_new_br6 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove |  
+| bip_39_word_new_br7 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop |  
+| bip_39_word_new_br8 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share |  
+| bip_39_word_new_br9 | boss<br>lounge<br>cover<br>confirm<br>waste<br>glove<br>crop<br>share<br>maze |  
+| bip_39_word_new_line1 | boss |  
+| bip_39_word_new_line10 | boss
+lounge
+cover
+confirm
+waste
+glove
+crop
+share
+maze
+cry |  
+| bip_39_word_new_line11 | boss
+lounge
+cover
+confirm
+waste
+glove
+crop
+share
+maze
+cry
+milk |  
+| bip_39_word_new_line12 | boss
+lounge
+cover
+confirm
+waste
+glove
+crop
+share
+maze
+cry
+milk
+alcohol |  
+| bip_39_word_new_line2 | boss
+lounge |  
+| bip_39_word_new_line3 | boss
+lounge
+cover |  
+| bip_39_word_new_line4 | boss
+lounge
+cover
+confirm |  
+| bip_39_word_new_line5 | boss
+lounge
+cover
+confirm
+waste |  
+| bip_39_word_new_line6 | boss
+lounge
+cover
+confirm
+waste
+glove |  
+| bip_39_word_new_line7 | boss
+lounge
+cover
+confirm
+waste
+glove
+crop |  
+| bip_39_word_new_line8 | boss
+lounge
+cover
+confirm
+waste
+glove
+crop
+share |  
+| bip_39_word_new_line9 | boss
+lounge
+cover
+confirm
+waste
+glove
+crop
+share
+maze |  
+| bip_39_word_space_0 | ['boss', 'lounge', 'cover', 'confirm', 'waste', 'glove', 'crop', 'share', 'maze', 'cry', 'milk', 'alcohol'] |  
+| bip_39_word_space_1 | boss |  
+| bip_39_word_space_10 | boss lounge cover confirm waste glove crop share maze cry |  
+| bip_39_word_space_11 | boss lounge cover confirm waste glove crop share maze cry milk |  
+| bip_39_word_space_12 | boss lounge cover confirm waste glove crop share maze cry milk alcohol |  
+| bip_39_word_space_2 | boss lounge |  
+| bip_39_word_space_3 | boss lounge cover |  
+| bip_39_word_space_4 | boss lounge cover confirm |  
+| bip_39_word_space_5 | boss lounge cover confirm waste |  
+| bip_39_word_space_6 | boss lounge cover confirm waste glove |  
+| bip_39_word_space_7 | boss lounge cover confirm waste glove crop |  
+| bip_39_word_space_8 | boss lounge cover confirm waste glove crop share |  
+| bip_39_word_space_9 | boss lounge cover confirm waste glove crop share maze |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: security bus
+  * bip 39 word 3: security bus crush
+  * bip 39 word: security bus crush shell route spawn glass speak main pass couch alert
 
 ### other_codes
 * short_code: cs6bz12pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | security |  
+| bip_39_word_new_br10 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass |  
+| bip_39_word_new_br11 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass<br>couch |  
+| bip_39_word_new_br12 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main<br>pass<br>couch<br>alert |  
+| bip_39_word_new_br2 | security<br>bus |  
+| bip_39_word_new_br3 | security<br>bus<br>crush |  
+| bip_39_word_new_br4 | security<br>bus<br>crush<br>shell |  
+| bip_39_word_new_br5 | security<br>bus<br>crush<br>shell<br>route |  
+| bip_39_word_new_br6 | security<br>bus<br>crush<br>shell<br>route<br>spawn |  
+| bip_39_word_new_br7 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass |  
+| bip_39_word_new_br8 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak |  
+| bip_39_word_new_br9 | security<br>bus<br>crush<br>shell<br>route<br>spawn<br>glass<br>speak<br>main |  
+| bip_39_word_new_line1 | security |  
+| bip_39_word_new_line10 | security
+bus
+crush
+shell
+route
+spawn
+glass
+speak
+main
+pass |  
+| bip_39_word_new_line11 | security
+bus
+crush
+shell
+route
+spawn
+glass
+speak
+main
+pass
+couch |  
+| bip_39_word_new_line12 | security
+bus
+crush
+shell
+route
+spawn
+glass
+speak
+main
+pass
+couch
+alert |  
+| bip_39_word_new_line2 | security
+bus |  
+| bip_39_word_new_line3 | security
+bus
+crush |  
+| bip_39_word_new_line4 | security
+bus
+crush
+shell |  
+| bip_39_word_new_line5 | security
+bus
+crush
+shell
+route |  
+| bip_39_word_new_line6 | security
+bus
+crush
+shell
+route
+spawn |  
+| bip_39_word_new_line7 | security
+bus
+crush
+shell
+route
+spawn
+glass |  
+| bip_39_word_new_line8 | security
+bus
+crush
+shell
+route
+spawn
+glass
+speak |  
+| bip_39_word_new_line9 | security
+bus
+crush
+shell
+route
+spawn
+glass
+speak
+main |  
+| bip_39_word_space_0 | ['security', 'bus', 'crush', 'shell', 'route', 'spawn', 'glass', 'speak', 'main', 'pass', 'couch', 'alert'] |  
+| bip_39_word_space_1 | security |  
+| bip_39_word_space_10 | security bus crush shell route spawn glass speak main pass |  
+| bip_39_word_space_11 | security bus crush shell route spawn glass speak main pass couch |  
+| bip_39_word_space_12 | security bus crush shell route spawn glass speak main pass couch alert |  
+| bip_39_word_space_2 | security bus |  
+| bip_39_word_space_3 | security bus crush |  
+| bip_39_word_space_4 | security bus crush shell |  
+| bip_39_word_space_5 | security bus crush shell route |  
+| bip_39_word_space_6 | security bus crush shell route spawn |  
+| bip_39_word_space_7 | security bus crush shell route spawn glass |  
+| bip_39_word_space_8 | security bus crush shell route spawn glass speak |  
+| bip_39_word_space_9 | security bus crush shell route spawn glass speak main |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

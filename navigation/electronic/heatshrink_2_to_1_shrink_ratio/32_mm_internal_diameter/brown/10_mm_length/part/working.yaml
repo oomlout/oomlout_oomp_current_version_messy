@@ -1,3 +1,185 @@
+bip_39_word_new_br1: test
+bip_39_word_new_br10: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss<br>brown
+bip_39_word_new_br11: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss<br>brown<br>theory
+bip_39_word_new_br12: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss<br>brown<br>theory<br>antique
+bip_39_word_new_br2: test<br>now
+bip_39_word_new_br3: test<br>now<br>van
+bip_39_word_new_br4: test<br>now<br>van<br>copper
+bip_39_word_new_br5: test<br>now<br>van<br>copper<br>acid
+bip_39_word_new_br6: test<br>now<br>van<br>copper<br>acid<br>rally
+bip_39_word_new_br7: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor
+bip_39_word_new_br8: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost
+bip_39_word_new_br9: test<br>now<br>van<br>copper<br>acid<br>rally<br>vapor<br>almost<br>kiss
+bip_39_word_new_line1: test
+bip_39_word_new_line10: 'test
+
+  now
+
+  van
+
+  copper
+
+  acid
+
+  rally
+
+  vapor
+
+  almost
+
+  kiss
+
+  brown'
+bip_39_word_new_line11: 'test
+
+  now
+
+  van
+
+  copper
+
+  acid
+
+  rally
+
+  vapor
+
+  almost
+
+  kiss
+
+  brown
+
+  theory'
+bip_39_word_new_line12: 'test
+
+  now
+
+  van
+
+  copper
+
+  acid
+
+  rally
+
+  vapor
+
+  almost
+
+  kiss
+
+  brown
+
+  theory
+
+  antique'
+bip_39_word_new_line2: 'test
+
+  now'
+bip_39_word_new_line3: 'test
+
+  now
+
+  van'
+bip_39_word_new_line4: 'test
+
+  now
+
+  van
+
+  copper'
+bip_39_word_new_line5: 'test
+
+  now
+
+  van
+
+  copper
+
+  acid'
+bip_39_word_new_line6: 'test
+
+  now
+
+  van
+
+  copper
+
+  acid
+
+  rally'
+bip_39_word_new_line7: 'test
+
+  now
+
+  van
+
+  copper
+
+  acid
+
+  rally
+
+  vapor'
+bip_39_word_new_line8: 'test
+
+  now
+
+  van
+
+  copper
+
+  acid
+
+  rally
+
+  vapor
+
+  almost'
+bip_39_word_new_line9: 'test
+
+  now
+
+  van
+
+  copper
+
+  acid
+
+  rally
+
+  vapor
+
+  almost
+
+  kiss'
+bip_39_word_space_0:
+- test
+- now
+- van
+- copper
+- acid
+- rally
+- vapor
+- almost
+- kiss
+- brown
+- theory
+- antique
+bip_39_word_space_1: test
+bip_39_word_space_10: test now van copper acid rally vapor almost kiss brown
+bip_39_word_space_11: test now van copper acid rally vapor almost kiss brown theory
+bip_39_word_space_12: test now van copper acid rally vapor almost kiss brown theory
+  antique
+bip_39_word_space_2: test now
+bip_39_word_space_3: test now van
+bip_39_word_space_4: test now van copper
+bip_39_word_space_5: test now van copper acid
+bip_39_word_space_6: test now van copper acid rally
+bip_39_word_space_7: test now van copper acid rally vapor
+bip_39_word_space_8: test now van copper acid rally vapor almost
+bip_39_word_space_9: test now van copper acid rally vapor almost kiss
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

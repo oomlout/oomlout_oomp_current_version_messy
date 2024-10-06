@@ -1,3 +1,186 @@
+bip_39_word_new_br1: protect
+bip_39_word_new_br10: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete
+bip_39_word_new_br11: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete<br>analyst
+bip_39_word_new_br12: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff<br>athlete<br>analyst<br>announce
+bip_39_word_new_br2: protect<br>coral
+bip_39_word_new_br3: protect<br>coral<br>ice
+bip_39_word_new_br4: protect<br>coral<br>ice<br>rate
+bip_39_word_new_br5: protect<br>coral<br>ice<br>rate<br>term
+bip_39_word_new_br6: protect<br>coral<br>ice<br>rate<br>term<br>ready
+bip_39_word_new_br7: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi
+bip_39_word_new_br8: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear
+bip_39_word_new_br9: protect<br>coral<br>ice<br>rate<br>term<br>ready<br>satoshi<br>pear<br>staff
+bip_39_word_new_line1: protect
+bip_39_word_new_line10: 'protect
+
+  coral
+
+  ice
+
+  rate
+
+  term
+
+  ready
+
+  satoshi
+
+  pear
+
+  staff
+
+  athlete'
+bip_39_word_new_line11: 'protect
+
+  coral
+
+  ice
+
+  rate
+
+  term
+
+  ready
+
+  satoshi
+
+  pear
+
+  staff
+
+  athlete
+
+  analyst'
+bip_39_word_new_line12: 'protect
+
+  coral
+
+  ice
+
+  rate
+
+  term
+
+  ready
+
+  satoshi
+
+  pear
+
+  staff
+
+  athlete
+
+  analyst
+
+  announce'
+bip_39_word_new_line2: 'protect
+
+  coral'
+bip_39_word_new_line3: 'protect
+
+  coral
+
+  ice'
+bip_39_word_new_line4: 'protect
+
+  coral
+
+  ice
+
+  rate'
+bip_39_word_new_line5: 'protect
+
+  coral
+
+  ice
+
+  rate
+
+  term'
+bip_39_word_new_line6: 'protect
+
+  coral
+
+  ice
+
+  rate
+
+  term
+
+  ready'
+bip_39_word_new_line7: 'protect
+
+  coral
+
+  ice
+
+  rate
+
+  term
+
+  ready
+
+  satoshi'
+bip_39_word_new_line8: 'protect
+
+  coral
+
+  ice
+
+  rate
+
+  term
+
+  ready
+
+  satoshi
+
+  pear'
+bip_39_word_new_line9: 'protect
+
+  coral
+
+  ice
+
+  rate
+
+  term
+
+  ready
+
+  satoshi
+
+  pear
+
+  staff'
+bip_39_word_space_0:
+- protect
+- coral
+- ice
+- rate
+- term
+- ready
+- satoshi
+- pear
+- staff
+- athlete
+- analyst
+- announce
+bip_39_word_space_1: protect
+bip_39_word_space_10: protect coral ice rate term ready satoshi pear staff athlete
+bip_39_word_space_11: protect coral ice rate term ready satoshi pear staff athlete
+  analyst
+bip_39_word_space_12: protect coral ice rate term ready satoshi pear staff athlete
+  analyst announce
+bip_39_word_space_2: protect coral
+bip_39_word_space_3: protect coral ice
+bip_39_word_space_4: protect coral ice rate
+bip_39_word_space_5: protect coral ice rate term
+bip_39_word_space_6: protect coral ice rate term ready
+bip_39_word_space_7: protect coral ice rate term ready satoshi
+bip_39_word_space_8: protect coral ice rate term ready satoshi pear
+bip_39_word_space_9: protect coral ice rate term ready satoshi pear staff
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

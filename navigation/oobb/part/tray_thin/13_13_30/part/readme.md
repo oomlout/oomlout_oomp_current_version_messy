@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: main dolphin
+  * bip 39 word 3: main dolphin broom
+  * bip 39 word: main dolphin broom detail glad champion excess asthma shop audit cactus alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | main |  
+| bip_39_word_new_br10 | main<br>dolphin<br>broom<br>detail<br>glad<br>champion<br>excess<br>asthma<br>shop<br>audit |  
+| bip_39_word_new_br11 | main<br>dolphin<br>broom<br>detail<br>glad<br>champion<br>excess<br>asthma<br>shop<br>audit<br>cactus |  
+| bip_39_word_new_br12 | main<br>dolphin<br>broom<br>detail<br>glad<br>champion<br>excess<br>asthma<br>shop<br>audit<br>cactus<br>alert |  
+| bip_39_word_new_br2 | main<br>dolphin |  
+| bip_39_word_new_br3 | main<br>dolphin<br>broom |  
+| bip_39_word_new_br4 | main<br>dolphin<br>broom<br>detail |  
+| bip_39_word_new_br5 | main<br>dolphin<br>broom<br>detail<br>glad |  
+| bip_39_word_new_br6 | main<br>dolphin<br>broom<br>detail<br>glad<br>champion |  
+| bip_39_word_new_br7 | main<br>dolphin<br>broom<br>detail<br>glad<br>champion<br>excess |  
+| bip_39_word_new_br8 | main<br>dolphin<br>broom<br>detail<br>glad<br>champion<br>excess<br>asthma |  
+| bip_39_word_new_br9 | main<br>dolphin<br>broom<br>detail<br>glad<br>champion<br>excess<br>asthma<br>shop |  
+| bip_39_word_new_line1 | main |  
+| bip_39_word_new_line10 | main
+dolphin
+broom
+detail
+glad
+champion
+excess
+asthma
+shop
+audit |  
+| bip_39_word_new_line11 | main
+dolphin
+broom
+detail
+glad
+champion
+excess
+asthma
+shop
+audit
+cactus |  
+| bip_39_word_new_line12 | main
+dolphin
+broom
+detail
+glad
+champion
+excess
+asthma
+shop
+audit
+cactus
+alert |  
+| bip_39_word_new_line2 | main
+dolphin |  
+| bip_39_word_new_line3 | main
+dolphin
+broom |  
+| bip_39_word_new_line4 | main
+dolphin
+broom
+detail |  
+| bip_39_word_new_line5 | main
+dolphin
+broom
+detail
+glad |  
+| bip_39_word_new_line6 | main
+dolphin
+broom
+detail
+glad
+champion |  
+| bip_39_word_new_line7 | main
+dolphin
+broom
+detail
+glad
+champion
+excess |  
+| bip_39_word_new_line8 | main
+dolphin
+broom
+detail
+glad
+champion
+excess
+asthma |  
+| bip_39_word_new_line9 | main
+dolphin
+broom
+detail
+glad
+champion
+excess
+asthma
+shop |  
+| bip_39_word_space_0 | ['main', 'dolphin', 'broom', 'detail', 'glad', 'champion', 'excess', 'asthma', 'shop', 'audit', 'cactus', 'alert'] |  
+| bip_39_word_space_1 | main |  
+| bip_39_word_space_10 | main dolphin broom detail glad champion excess asthma shop audit |  
+| bip_39_word_space_11 | main dolphin broom detail glad champion excess asthma shop audit cactus |  
+| bip_39_word_space_12 | main dolphin broom detail glad champion excess asthma shop audit cactus alert |  
+| bip_39_word_space_2 | main dolphin |  
+| bip_39_word_space_3 | main dolphin broom |  
+| bip_39_word_space_4 | main dolphin broom detail |  
+| bip_39_word_space_5 | main dolphin broom detail glad |  
+| bip_39_word_space_6 | main dolphin broom detail glad champion |  
+| bip_39_word_space_7 | main dolphin broom detail glad champion excess |  
+| bip_39_word_space_8 | main dolphin broom detail glad champion excess asthma |  
+| bip_39_word_space_9 | main dolphin broom detail glad champion excess asthma shop |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

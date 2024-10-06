@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clay riot
+  * bip 39 word 3: clay riot wreck
+  * bip 39 word: clay riot wreck adapt urban core scrap exist direct album unfair anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clay |  
+| bip_39_word_new_br10 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core<br>scrap<br>exist<br>direct<br>album |  
+| bip_39_word_new_br11 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core<br>scrap<br>exist<br>direct<br>album<br>unfair |  
+| bip_39_word_new_br12 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core<br>scrap<br>exist<br>direct<br>album<br>unfair<br>anger |  
+| bip_39_word_new_br2 | clay<br>riot |  
+| bip_39_word_new_br3 | clay<br>riot<br>wreck |  
+| bip_39_word_new_br4 | clay<br>riot<br>wreck<br>adapt |  
+| bip_39_word_new_br5 | clay<br>riot<br>wreck<br>adapt<br>urban |  
+| bip_39_word_new_br6 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core |  
+| bip_39_word_new_br7 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core<br>scrap |  
+| bip_39_word_new_br8 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core<br>scrap<br>exist |  
+| bip_39_word_new_br9 | clay<br>riot<br>wreck<br>adapt<br>urban<br>core<br>scrap<br>exist<br>direct |  
+| bip_39_word_new_line1 | clay |  
+| bip_39_word_new_line10 | clay
+riot
+wreck
+adapt
+urban
+core
+scrap
+exist
+direct
+album |  
+| bip_39_word_new_line11 | clay
+riot
+wreck
+adapt
+urban
+core
+scrap
+exist
+direct
+album
+unfair |  
+| bip_39_word_new_line12 | clay
+riot
+wreck
+adapt
+urban
+core
+scrap
+exist
+direct
+album
+unfair
+anger |  
+| bip_39_word_new_line2 | clay
+riot |  
+| bip_39_word_new_line3 | clay
+riot
+wreck |  
+| bip_39_word_new_line4 | clay
+riot
+wreck
+adapt |  
+| bip_39_word_new_line5 | clay
+riot
+wreck
+adapt
+urban |  
+| bip_39_word_new_line6 | clay
+riot
+wreck
+adapt
+urban
+core |  
+| bip_39_word_new_line7 | clay
+riot
+wreck
+adapt
+urban
+core
+scrap |  
+| bip_39_word_new_line8 | clay
+riot
+wreck
+adapt
+urban
+core
+scrap
+exist |  
+| bip_39_word_new_line9 | clay
+riot
+wreck
+adapt
+urban
+core
+scrap
+exist
+direct |  
+| bip_39_word_space_0 | ['clay', 'riot', 'wreck', 'adapt', 'urban', 'core', 'scrap', 'exist', 'direct', 'album', 'unfair', 'anger'] |  
+| bip_39_word_space_1 | clay |  
+| bip_39_word_space_10 | clay riot wreck adapt urban core scrap exist direct album |  
+| bip_39_word_space_11 | clay riot wreck adapt urban core scrap exist direct album unfair |  
+| bip_39_word_space_12 | clay riot wreck adapt urban core scrap exist direct album unfair anger |  
+| bip_39_word_space_2 | clay riot |  
+| bip_39_word_space_3 | clay riot wreck |  
+| bip_39_word_space_4 | clay riot wreck adapt |  
+| bip_39_word_space_5 | clay riot wreck adapt urban |  
+| bip_39_word_space_6 | clay riot wreck adapt urban core |  
+| bip_39_word_space_7 | clay riot wreck adapt urban core scrap |  
+| bip_39_word_space_8 | clay riot wreck adapt urban core scrap exist |  
+| bip_39_word_space_9 | clay riot wreck adapt urban core scrap exist direct |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

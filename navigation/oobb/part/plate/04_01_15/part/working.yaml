@@ -1,3 +1,187 @@
+bip_39_word_new_br1: subject
+bip_39_word_new_br10: subject<br>canal<br>give<br>document<br>evidence<br>chase<br>captain<br>label<br>sad<br>athlete
+bip_39_word_new_br11: subject<br>canal<br>give<br>document<br>evidence<br>chase<br>captain<br>label<br>sad<br>athlete<br>canvas
+bip_39_word_new_br12: subject<br>canal<br>give<br>document<br>evidence<br>chase<br>captain<br>label<br>sad<br>athlete<br>canvas<br>actress
+bip_39_word_new_br2: subject<br>canal
+bip_39_word_new_br3: subject<br>canal<br>give
+bip_39_word_new_br4: subject<br>canal<br>give<br>document
+bip_39_word_new_br5: subject<br>canal<br>give<br>document<br>evidence
+bip_39_word_new_br6: subject<br>canal<br>give<br>document<br>evidence<br>chase
+bip_39_word_new_br7: subject<br>canal<br>give<br>document<br>evidence<br>chase<br>captain
+bip_39_word_new_br8: subject<br>canal<br>give<br>document<br>evidence<br>chase<br>captain<br>label
+bip_39_word_new_br9: subject<br>canal<br>give<br>document<br>evidence<br>chase<br>captain<br>label<br>sad
+bip_39_word_new_line1: subject
+bip_39_word_new_line10: 'subject
+
+  canal
+
+  give
+
+  document
+
+  evidence
+
+  chase
+
+  captain
+
+  label
+
+  sad
+
+  athlete'
+bip_39_word_new_line11: 'subject
+
+  canal
+
+  give
+
+  document
+
+  evidence
+
+  chase
+
+  captain
+
+  label
+
+  sad
+
+  athlete
+
+  canvas'
+bip_39_word_new_line12: 'subject
+
+  canal
+
+  give
+
+  document
+
+  evidence
+
+  chase
+
+  captain
+
+  label
+
+  sad
+
+  athlete
+
+  canvas
+
+  actress'
+bip_39_word_new_line2: 'subject
+
+  canal'
+bip_39_word_new_line3: 'subject
+
+  canal
+
+  give'
+bip_39_word_new_line4: 'subject
+
+  canal
+
+  give
+
+  document'
+bip_39_word_new_line5: 'subject
+
+  canal
+
+  give
+
+  document
+
+  evidence'
+bip_39_word_new_line6: 'subject
+
+  canal
+
+  give
+
+  document
+
+  evidence
+
+  chase'
+bip_39_word_new_line7: 'subject
+
+  canal
+
+  give
+
+  document
+
+  evidence
+
+  chase
+
+  captain'
+bip_39_word_new_line8: 'subject
+
+  canal
+
+  give
+
+  document
+
+  evidence
+
+  chase
+
+  captain
+
+  label'
+bip_39_word_new_line9: 'subject
+
+  canal
+
+  give
+
+  document
+
+  evidence
+
+  chase
+
+  captain
+
+  label
+
+  sad'
+bip_39_word_space_0:
+- subject
+- canal
+- give
+- document
+- evidence
+- chase
+- captain
+- label
+- sad
+- athlete
+- canvas
+- actress
+bip_39_word_space_1: subject
+bip_39_word_space_10: subject canal give document evidence chase captain label sad
+  athlete
+bip_39_word_space_11: subject canal give document evidence chase captain label sad
+  athlete canvas
+bip_39_word_space_12: subject canal give document evidence chase captain label sad
+  athlete canvas actress
+bip_39_word_space_2: subject canal
+bip_39_word_space_3: subject canal give
+bip_39_word_space_4: subject canal give document
+bip_39_word_space_5: subject canal give document evidence
+bip_39_word_space_6: subject canal give document evidence chase
+bip_39_word_space_7: subject canal give document evidence chase captain
+bip_39_word_space_8: subject canal give document evidence chase captain label
+bip_39_word_space_9: subject canal give document evidence chase captain label sad
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

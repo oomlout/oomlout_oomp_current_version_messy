@@ -1,3 +1,186 @@
+bip_39_word_new_br1: this
+bip_39_word_new_br10: this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow<br>egg<br>liar<br>problem<br>bachelor
+bip_39_word_new_br11: this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow<br>egg<br>liar<br>problem<br>bachelor<br>festival
+bip_39_word_new_br12: this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow<br>egg<br>liar<br>problem<br>bachelor<br>festival<br>approve
+bip_39_word_new_br2: this<br>eternal
+bip_39_word_new_br3: this<br>eternal<br>valve
+bip_39_word_new_br4: this<br>eternal<br>valve<br>seminar
+bip_39_word_new_br5: this<br>eternal<br>valve<br>seminar<br>bundle
+bip_39_word_new_br6: this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow
+bip_39_word_new_br7: this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow<br>egg
+bip_39_word_new_br8: this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow<br>egg<br>liar
+bip_39_word_new_br9: this<br>eternal<br>valve<br>seminar<br>bundle<br>eyebrow<br>egg<br>liar<br>problem
+bip_39_word_new_line1: this
+bip_39_word_new_line10: 'this
+
+  eternal
+
+  valve
+
+  seminar
+
+  bundle
+
+  eyebrow
+
+  egg
+
+  liar
+
+  problem
+
+  bachelor'
+bip_39_word_new_line11: 'this
+
+  eternal
+
+  valve
+
+  seminar
+
+  bundle
+
+  eyebrow
+
+  egg
+
+  liar
+
+  problem
+
+  bachelor
+
+  festival'
+bip_39_word_new_line12: 'this
+
+  eternal
+
+  valve
+
+  seminar
+
+  bundle
+
+  eyebrow
+
+  egg
+
+  liar
+
+  problem
+
+  bachelor
+
+  festival
+
+  approve'
+bip_39_word_new_line2: 'this
+
+  eternal'
+bip_39_word_new_line3: 'this
+
+  eternal
+
+  valve'
+bip_39_word_new_line4: 'this
+
+  eternal
+
+  valve
+
+  seminar'
+bip_39_word_new_line5: 'this
+
+  eternal
+
+  valve
+
+  seminar
+
+  bundle'
+bip_39_word_new_line6: 'this
+
+  eternal
+
+  valve
+
+  seminar
+
+  bundle
+
+  eyebrow'
+bip_39_word_new_line7: 'this
+
+  eternal
+
+  valve
+
+  seminar
+
+  bundle
+
+  eyebrow
+
+  egg'
+bip_39_word_new_line8: 'this
+
+  eternal
+
+  valve
+
+  seminar
+
+  bundle
+
+  eyebrow
+
+  egg
+
+  liar'
+bip_39_word_new_line9: 'this
+
+  eternal
+
+  valve
+
+  seminar
+
+  bundle
+
+  eyebrow
+
+  egg
+
+  liar
+
+  problem'
+bip_39_word_space_0:
+- this
+- eternal
+- valve
+- seminar
+- bundle
+- eyebrow
+- egg
+- liar
+- problem
+- bachelor
+- festival
+- approve
+bip_39_word_space_1: this
+bip_39_word_space_10: this eternal valve seminar bundle eyebrow egg liar problem bachelor
+bip_39_word_space_11: this eternal valve seminar bundle eyebrow egg liar problem bachelor
+  festival
+bip_39_word_space_12: this eternal valve seminar bundle eyebrow egg liar problem bachelor
+  festival approve
+bip_39_word_space_2: this eternal
+bip_39_word_space_3: this eternal valve
+bip_39_word_space_4: this eternal valve seminar
+bip_39_word_space_5: this eternal valve seminar bundle
+bip_39_word_space_6: this eternal valve seminar bundle eyebrow
+bip_39_word_space_7: this eternal valve seminar bundle eyebrow egg
+bip_39_word_space_8: this eternal valve seminar bundle eyebrow egg liar
+bip_39_word_space_9: this eternal valve seminar bundle eyebrow egg liar problem
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

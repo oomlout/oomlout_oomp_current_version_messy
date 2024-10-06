@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: property roast
+  * bip 39 word 3: property roast donate
+  * bip 39 word: property roast donate apple food economy chapter connect hybrid silent add actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | property |  
+| bip_39_word_new_br10 | property<br>roast<br>donate<br>apple<br>food<br>economy<br>chapter<br>connect<br>hybrid<br>silent |  
+| bip_39_word_new_br11 | property<br>roast<br>donate<br>apple<br>food<br>economy<br>chapter<br>connect<br>hybrid<br>silent<br>add |  
+| bip_39_word_new_br12 | property<br>roast<br>donate<br>apple<br>food<br>economy<br>chapter<br>connect<br>hybrid<br>silent<br>add<br>actor |  
+| bip_39_word_new_br2 | property<br>roast |  
+| bip_39_word_new_br3 | property<br>roast<br>donate |  
+| bip_39_word_new_br4 | property<br>roast<br>donate<br>apple |  
+| bip_39_word_new_br5 | property<br>roast<br>donate<br>apple<br>food |  
+| bip_39_word_new_br6 | property<br>roast<br>donate<br>apple<br>food<br>economy |  
+| bip_39_word_new_br7 | property<br>roast<br>donate<br>apple<br>food<br>economy<br>chapter |  
+| bip_39_word_new_br8 | property<br>roast<br>donate<br>apple<br>food<br>economy<br>chapter<br>connect |  
+| bip_39_word_new_br9 | property<br>roast<br>donate<br>apple<br>food<br>economy<br>chapter<br>connect<br>hybrid |  
+| bip_39_word_new_line1 | property |  
+| bip_39_word_new_line10 | property
+roast
+donate
+apple
+food
+economy
+chapter
+connect
+hybrid
+silent |  
+| bip_39_word_new_line11 | property
+roast
+donate
+apple
+food
+economy
+chapter
+connect
+hybrid
+silent
+add |  
+| bip_39_word_new_line12 | property
+roast
+donate
+apple
+food
+economy
+chapter
+connect
+hybrid
+silent
+add
+actor |  
+| bip_39_word_new_line2 | property
+roast |  
+| bip_39_word_new_line3 | property
+roast
+donate |  
+| bip_39_word_new_line4 | property
+roast
+donate
+apple |  
+| bip_39_word_new_line5 | property
+roast
+donate
+apple
+food |  
+| bip_39_word_new_line6 | property
+roast
+donate
+apple
+food
+economy |  
+| bip_39_word_new_line7 | property
+roast
+donate
+apple
+food
+economy
+chapter |  
+| bip_39_word_new_line8 | property
+roast
+donate
+apple
+food
+economy
+chapter
+connect |  
+| bip_39_word_new_line9 | property
+roast
+donate
+apple
+food
+economy
+chapter
+connect
+hybrid |  
+| bip_39_word_space_0 | ['property', 'roast', 'donate', 'apple', 'food', 'economy', 'chapter', 'connect', 'hybrid', 'silent', 'add', 'actor'] |  
+| bip_39_word_space_1 | property |  
+| bip_39_word_space_10 | property roast donate apple food economy chapter connect hybrid silent |  
+| bip_39_word_space_11 | property roast donate apple food economy chapter connect hybrid silent add |  
+| bip_39_word_space_12 | property roast donate apple food economy chapter connect hybrid silent add actor |  
+| bip_39_word_space_2 | property roast |  
+| bip_39_word_space_3 | property roast donate |  
+| bip_39_word_space_4 | property roast donate apple |  
+| bip_39_word_space_5 | property roast donate apple food |  
+| bip_39_word_space_6 | property roast donate apple food economy |  
+| bip_39_word_space_7 | property roast donate apple food economy chapter |  
+| bip_39_word_space_8 | property roast donate apple food economy chapter connect |  
+| bip_39_word_space_9 | property roast donate apple food economy chapter connect hybrid |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: search pretty
+  * bip 39 word 3: search pretty pond
+  * bip 39 word: search pretty pond ahead there ready bread rural minute cushion candy author
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | search |  
+| bip_39_word_new_br10 | search<br>pretty<br>pond<br>ahead<br>there<br>ready<br>bread<br>rural<br>minute<br>cushion |  
+| bip_39_word_new_br11 | search<br>pretty<br>pond<br>ahead<br>there<br>ready<br>bread<br>rural<br>minute<br>cushion<br>candy |  
+| bip_39_word_new_br12 | search<br>pretty<br>pond<br>ahead<br>there<br>ready<br>bread<br>rural<br>minute<br>cushion<br>candy<br>author |  
+| bip_39_word_new_br2 | search<br>pretty |  
+| bip_39_word_new_br3 | search<br>pretty<br>pond |  
+| bip_39_word_new_br4 | search<br>pretty<br>pond<br>ahead |  
+| bip_39_word_new_br5 | search<br>pretty<br>pond<br>ahead<br>there |  
+| bip_39_word_new_br6 | search<br>pretty<br>pond<br>ahead<br>there<br>ready |  
+| bip_39_word_new_br7 | search<br>pretty<br>pond<br>ahead<br>there<br>ready<br>bread |  
+| bip_39_word_new_br8 | search<br>pretty<br>pond<br>ahead<br>there<br>ready<br>bread<br>rural |  
+| bip_39_word_new_br9 | search<br>pretty<br>pond<br>ahead<br>there<br>ready<br>bread<br>rural<br>minute |  
+| bip_39_word_new_line1 | search |  
+| bip_39_word_new_line10 | search
+pretty
+pond
+ahead
+there
+ready
+bread
+rural
+minute
+cushion |  
+| bip_39_word_new_line11 | search
+pretty
+pond
+ahead
+there
+ready
+bread
+rural
+minute
+cushion
+candy |  
+| bip_39_word_new_line12 | search
+pretty
+pond
+ahead
+there
+ready
+bread
+rural
+minute
+cushion
+candy
+author |  
+| bip_39_word_new_line2 | search
+pretty |  
+| bip_39_word_new_line3 | search
+pretty
+pond |  
+| bip_39_word_new_line4 | search
+pretty
+pond
+ahead |  
+| bip_39_word_new_line5 | search
+pretty
+pond
+ahead
+there |  
+| bip_39_word_new_line6 | search
+pretty
+pond
+ahead
+there
+ready |  
+| bip_39_word_new_line7 | search
+pretty
+pond
+ahead
+there
+ready
+bread |  
+| bip_39_word_new_line8 | search
+pretty
+pond
+ahead
+there
+ready
+bread
+rural |  
+| bip_39_word_new_line9 | search
+pretty
+pond
+ahead
+there
+ready
+bread
+rural
+minute |  
+| bip_39_word_space_0 | ['search', 'pretty', 'pond', 'ahead', 'there', 'ready', 'bread', 'rural', 'minute', 'cushion', 'candy', 'author'] |  
+| bip_39_word_space_1 | search |  
+| bip_39_word_space_10 | search pretty pond ahead there ready bread rural minute cushion |  
+| bip_39_word_space_11 | search pretty pond ahead there ready bread rural minute cushion candy |  
+| bip_39_word_space_12 | search pretty pond ahead there ready bread rural minute cushion candy author |  
+| bip_39_word_space_2 | search pretty |  
+| bip_39_word_space_3 | search pretty pond |  
+| bip_39_word_space_4 | search pretty pond ahead |  
+| bip_39_word_space_5 | search pretty pond ahead there |  
+| bip_39_word_space_6 | search pretty pond ahead there ready |  
+| bip_39_word_space_7 | search pretty pond ahead there ready bread |  
+| bip_39_word_space_8 | search pretty pond ahead there ready bread rural |  
+| bip_39_word_space_9 | search pretty pond ahead there ready bread rural minute |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

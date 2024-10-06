@@ -1,3 +1,186 @@
+bip_39_word_new_br1: denial
+bip_39_word_new_br10: denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic
+bip_39_word_new_br11: denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic<br>swarm
+bip_39_word_new_br12: denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard<br>basic<br>swarm<br>alone
+bip_39_word_new_br2: denial<br>twenty
+bip_39_word_new_br3: denial<br>twenty<br>wool
+bip_39_word_new_br4: denial<br>twenty<br>wool<br>success
+bip_39_word_new_br5: denial<br>twenty<br>wool<br>success<br>bless
+bip_39_word_new_br6: denial<br>twenty<br>wool<br>success<br>bless<br>mask
+bip_39_word_new_br7: denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above
+bip_39_word_new_br8: denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron
+bip_39_word_new_br9: denial<br>twenty<br>wool<br>success<br>bless<br>mask<br>above<br>iron<br>lizard
+bip_39_word_new_line1: denial
+bip_39_word_new_line10: 'denial
+
+  twenty
+
+  wool
+
+  success
+
+  bless
+
+  mask
+
+  above
+
+  iron
+
+  lizard
+
+  basic'
+bip_39_word_new_line11: 'denial
+
+  twenty
+
+  wool
+
+  success
+
+  bless
+
+  mask
+
+  above
+
+  iron
+
+  lizard
+
+  basic
+
+  swarm'
+bip_39_word_new_line12: 'denial
+
+  twenty
+
+  wool
+
+  success
+
+  bless
+
+  mask
+
+  above
+
+  iron
+
+  lizard
+
+  basic
+
+  swarm
+
+  alone'
+bip_39_word_new_line2: 'denial
+
+  twenty'
+bip_39_word_new_line3: 'denial
+
+  twenty
+
+  wool'
+bip_39_word_new_line4: 'denial
+
+  twenty
+
+  wool
+
+  success'
+bip_39_word_new_line5: 'denial
+
+  twenty
+
+  wool
+
+  success
+
+  bless'
+bip_39_word_new_line6: 'denial
+
+  twenty
+
+  wool
+
+  success
+
+  bless
+
+  mask'
+bip_39_word_new_line7: 'denial
+
+  twenty
+
+  wool
+
+  success
+
+  bless
+
+  mask
+
+  above'
+bip_39_word_new_line8: 'denial
+
+  twenty
+
+  wool
+
+  success
+
+  bless
+
+  mask
+
+  above
+
+  iron'
+bip_39_word_new_line9: 'denial
+
+  twenty
+
+  wool
+
+  success
+
+  bless
+
+  mask
+
+  above
+
+  iron
+
+  lizard'
+bip_39_word_space_0:
+- denial
+- twenty
+- wool
+- success
+- bless
+- mask
+- above
+- iron
+- lizard
+- basic
+- swarm
+- alone
+bip_39_word_space_1: denial
+bip_39_word_space_10: denial twenty wool success bless mask above iron lizard basic
+bip_39_word_space_11: denial twenty wool success bless mask above iron lizard basic
+  swarm
+bip_39_word_space_12: denial twenty wool success bless mask above iron lizard basic
+  swarm alone
+bip_39_word_space_2: denial twenty
+bip_39_word_space_3: denial twenty wool
+bip_39_word_space_4: denial twenty wool success
+bip_39_word_space_5: denial twenty wool success bless
+bip_39_word_space_6: denial twenty wool success bless mask
+bip_39_word_space_7: denial twenty wool success bless mask above
+bip_39_word_space_8: denial twenty wool success bless mask above iron
+bip_39_word_space_9: denial twenty wool success bless mask above iron lizard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

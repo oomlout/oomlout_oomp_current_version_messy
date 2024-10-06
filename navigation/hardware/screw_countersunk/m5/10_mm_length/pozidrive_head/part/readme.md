@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: undo gun
+  * bip 39 word 3: undo gun speed
+  * bip 39 word: undo gun speed bacon husband carbon fragile clerk black bullet bike army
 
 ### other_codes
 * short_code: cs5m10pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | undo |  
+| bip_39_word_new_br10 | undo<br>gun<br>speed<br>bacon<br>husband<br>carbon<br>fragile<br>clerk<br>black<br>bullet |  
+| bip_39_word_new_br11 | undo<br>gun<br>speed<br>bacon<br>husband<br>carbon<br>fragile<br>clerk<br>black<br>bullet<br>bike |  
+| bip_39_word_new_br12 | undo<br>gun<br>speed<br>bacon<br>husband<br>carbon<br>fragile<br>clerk<br>black<br>bullet<br>bike<br>army |  
+| bip_39_word_new_br2 | undo<br>gun |  
+| bip_39_word_new_br3 | undo<br>gun<br>speed |  
+| bip_39_word_new_br4 | undo<br>gun<br>speed<br>bacon |  
+| bip_39_word_new_br5 | undo<br>gun<br>speed<br>bacon<br>husband |  
+| bip_39_word_new_br6 | undo<br>gun<br>speed<br>bacon<br>husband<br>carbon |  
+| bip_39_word_new_br7 | undo<br>gun<br>speed<br>bacon<br>husband<br>carbon<br>fragile |  
+| bip_39_word_new_br8 | undo<br>gun<br>speed<br>bacon<br>husband<br>carbon<br>fragile<br>clerk |  
+| bip_39_word_new_br9 | undo<br>gun<br>speed<br>bacon<br>husband<br>carbon<br>fragile<br>clerk<br>black |  
+| bip_39_word_new_line1 | undo |  
+| bip_39_word_new_line10 | undo
+gun
+speed
+bacon
+husband
+carbon
+fragile
+clerk
+black
+bullet |  
+| bip_39_word_new_line11 | undo
+gun
+speed
+bacon
+husband
+carbon
+fragile
+clerk
+black
+bullet
+bike |  
+| bip_39_word_new_line12 | undo
+gun
+speed
+bacon
+husband
+carbon
+fragile
+clerk
+black
+bullet
+bike
+army |  
+| bip_39_word_new_line2 | undo
+gun |  
+| bip_39_word_new_line3 | undo
+gun
+speed |  
+| bip_39_word_new_line4 | undo
+gun
+speed
+bacon |  
+| bip_39_word_new_line5 | undo
+gun
+speed
+bacon
+husband |  
+| bip_39_word_new_line6 | undo
+gun
+speed
+bacon
+husband
+carbon |  
+| bip_39_word_new_line7 | undo
+gun
+speed
+bacon
+husband
+carbon
+fragile |  
+| bip_39_word_new_line8 | undo
+gun
+speed
+bacon
+husband
+carbon
+fragile
+clerk |  
+| bip_39_word_new_line9 | undo
+gun
+speed
+bacon
+husband
+carbon
+fragile
+clerk
+black |  
+| bip_39_word_space_0 | ['undo', 'gun', 'speed', 'bacon', 'husband', 'carbon', 'fragile', 'clerk', 'black', 'bullet', 'bike', 'army'] |  
+| bip_39_word_space_1 | undo |  
+| bip_39_word_space_10 | undo gun speed bacon husband carbon fragile clerk black bullet |  
+| bip_39_word_space_11 | undo gun speed bacon husband carbon fragile clerk black bullet bike |  
+| bip_39_word_space_12 | undo gun speed bacon husband carbon fragile clerk black bullet bike army |  
+| bip_39_word_space_2 | undo gun |  
+| bip_39_word_space_3 | undo gun speed |  
+| bip_39_word_space_4 | undo gun speed bacon |  
+| bip_39_word_space_5 | undo gun speed bacon husband |  
+| bip_39_word_space_6 | undo gun speed bacon husband carbon |  
+| bip_39_word_space_7 | undo gun speed bacon husband carbon fragile |  
+| bip_39_word_space_8 | undo gun speed bacon husband carbon fragile clerk |  
+| bip_39_word_space_9 | undo gun speed bacon husband carbon fragile clerk black |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

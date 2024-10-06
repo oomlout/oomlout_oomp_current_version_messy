@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broccoli phrase
+  * bip 39 word 3: broccoli phrase height
+  * bip 39 word: broccoli phrase height clarify earn what grace swap sword shuffle civil accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broccoli |  
+| bip_39_word_new_br10 | broccoli<br>phrase<br>height<br>clarify<br>earn<br>what<br>grace<br>swap<br>sword<br>shuffle |  
+| bip_39_word_new_br11 | broccoli<br>phrase<br>height<br>clarify<br>earn<br>what<br>grace<br>swap<br>sword<br>shuffle<br>civil |  
+| bip_39_word_new_br12 | broccoli<br>phrase<br>height<br>clarify<br>earn<br>what<br>grace<br>swap<br>sword<br>shuffle<br>civil<br>accuse |  
+| bip_39_word_new_br2 | broccoli<br>phrase |  
+| bip_39_word_new_br3 | broccoli<br>phrase<br>height |  
+| bip_39_word_new_br4 | broccoli<br>phrase<br>height<br>clarify |  
+| bip_39_word_new_br5 | broccoli<br>phrase<br>height<br>clarify<br>earn |  
+| bip_39_word_new_br6 | broccoli<br>phrase<br>height<br>clarify<br>earn<br>what |  
+| bip_39_word_new_br7 | broccoli<br>phrase<br>height<br>clarify<br>earn<br>what<br>grace |  
+| bip_39_word_new_br8 | broccoli<br>phrase<br>height<br>clarify<br>earn<br>what<br>grace<br>swap |  
+| bip_39_word_new_br9 | broccoli<br>phrase<br>height<br>clarify<br>earn<br>what<br>grace<br>swap<br>sword |  
+| bip_39_word_new_line1 | broccoli |  
+| bip_39_word_new_line10 | broccoli
+phrase
+height
+clarify
+earn
+what
+grace
+swap
+sword
+shuffle |  
+| bip_39_word_new_line11 | broccoli
+phrase
+height
+clarify
+earn
+what
+grace
+swap
+sword
+shuffle
+civil |  
+| bip_39_word_new_line12 | broccoli
+phrase
+height
+clarify
+earn
+what
+grace
+swap
+sword
+shuffle
+civil
+accuse |  
+| bip_39_word_new_line2 | broccoli
+phrase |  
+| bip_39_word_new_line3 | broccoli
+phrase
+height |  
+| bip_39_word_new_line4 | broccoli
+phrase
+height
+clarify |  
+| bip_39_word_new_line5 | broccoli
+phrase
+height
+clarify
+earn |  
+| bip_39_word_new_line6 | broccoli
+phrase
+height
+clarify
+earn
+what |  
+| bip_39_word_new_line7 | broccoli
+phrase
+height
+clarify
+earn
+what
+grace |  
+| bip_39_word_new_line8 | broccoli
+phrase
+height
+clarify
+earn
+what
+grace
+swap |  
+| bip_39_word_new_line9 | broccoli
+phrase
+height
+clarify
+earn
+what
+grace
+swap
+sword |  
+| bip_39_word_space_0 | ['broccoli', 'phrase', 'height', 'clarify', 'earn', 'what', 'grace', 'swap', 'sword', 'shuffle', 'civil', 'accuse'] |  
+| bip_39_word_space_1 | broccoli |  
+| bip_39_word_space_10 | broccoli phrase height clarify earn what grace swap sword shuffle |  
+| bip_39_word_space_11 | broccoli phrase height clarify earn what grace swap sword shuffle civil |  
+| bip_39_word_space_12 | broccoli phrase height clarify earn what grace swap sword shuffle civil accuse |  
+| bip_39_word_space_2 | broccoli phrase |  
+| bip_39_word_space_3 | broccoli phrase height |  
+| bip_39_word_space_4 | broccoli phrase height clarify |  
+| bip_39_word_space_5 | broccoli phrase height clarify earn |  
+| bip_39_word_space_6 | broccoli phrase height clarify earn what |  
+| bip_39_word_space_7 | broccoli phrase height clarify earn what grace |  
+| bip_39_word_space_8 | broccoli phrase height clarify earn what grace swap |  
+| bip_39_word_space_9 | broccoli phrase height clarify earn what grace swap sword |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

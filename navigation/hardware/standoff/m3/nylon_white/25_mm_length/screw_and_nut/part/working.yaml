@@ -1,3 +1,186 @@
+bip_39_word_new_br1: degree
+bip_39_word_new_br10: degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite
+bip_39_word_new_br11: degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite<br>certain
+bip_39_word_new_br12: degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch<br>kite<br>certain<br>acid
+bip_39_word_new_br2: degree<br>inquiry
+bip_39_word_new_br3: degree<br>inquiry<br>ready
+bip_39_word_new_br4: degree<br>inquiry<br>ready<br>radio
+bip_39_word_new_br5: degree<br>inquiry<br>ready<br>radio<br>grab
+bip_39_word_new_br6: degree<br>inquiry<br>ready<br>radio<br>grab<br>april
+bip_39_word_new_br7: degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance
+bip_39_word_new_br8: degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek
+bip_39_word_new_br9: degree<br>inquiry<br>ready<br>radio<br>grab<br>april<br>romance<br>creek<br>crunch
+bip_39_word_new_line1: degree
+bip_39_word_new_line10: 'degree
+
+  inquiry
+
+  ready
+
+  radio
+
+  grab
+
+  april
+
+  romance
+
+  creek
+
+  crunch
+
+  kite'
+bip_39_word_new_line11: 'degree
+
+  inquiry
+
+  ready
+
+  radio
+
+  grab
+
+  april
+
+  romance
+
+  creek
+
+  crunch
+
+  kite
+
+  certain'
+bip_39_word_new_line12: 'degree
+
+  inquiry
+
+  ready
+
+  radio
+
+  grab
+
+  april
+
+  romance
+
+  creek
+
+  crunch
+
+  kite
+
+  certain
+
+  acid'
+bip_39_word_new_line2: 'degree
+
+  inquiry'
+bip_39_word_new_line3: 'degree
+
+  inquiry
+
+  ready'
+bip_39_word_new_line4: 'degree
+
+  inquiry
+
+  ready
+
+  radio'
+bip_39_word_new_line5: 'degree
+
+  inquiry
+
+  ready
+
+  radio
+
+  grab'
+bip_39_word_new_line6: 'degree
+
+  inquiry
+
+  ready
+
+  radio
+
+  grab
+
+  april'
+bip_39_word_new_line7: 'degree
+
+  inquiry
+
+  ready
+
+  radio
+
+  grab
+
+  april
+
+  romance'
+bip_39_word_new_line8: 'degree
+
+  inquiry
+
+  ready
+
+  radio
+
+  grab
+
+  april
+
+  romance
+
+  creek'
+bip_39_word_new_line9: 'degree
+
+  inquiry
+
+  ready
+
+  radio
+
+  grab
+
+  april
+
+  romance
+
+  creek
+
+  crunch'
+bip_39_word_space_0:
+- degree
+- inquiry
+- ready
+- radio
+- grab
+- april
+- romance
+- creek
+- crunch
+- kite
+- certain
+- acid
+bip_39_word_space_1: degree
+bip_39_word_space_10: degree inquiry ready radio grab april romance creek crunch kite
+bip_39_word_space_11: degree inquiry ready radio grab april romance creek crunch kite
+  certain
+bip_39_word_space_12: degree inquiry ready radio grab april romance creek crunch kite
+  certain acid
+bip_39_word_space_2: degree inquiry
+bip_39_word_space_3: degree inquiry ready
+bip_39_word_space_4: degree inquiry ready radio
+bip_39_word_space_5: degree inquiry ready radio grab
+bip_39_word_space_6: degree inquiry ready radio grab april
+bip_39_word_space_7: degree inquiry ready radio grab april romance
+bip_39_word_space_8: degree inquiry ready radio grab april romance creek
+bip_39_word_space_9: degree inquiry ready radio grab april romance creek crunch
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

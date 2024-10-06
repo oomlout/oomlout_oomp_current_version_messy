@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: knife cost
+  * bip 39 word 3: knife cost monster
+  * bip 39 word: knife cost monster wreck purse fetch green question orange settle meat above
 
 ### other_codes
 * short_code: cs5bz60pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | knife |  
+| bip_39_word_new_br10 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle |  
+| bip_39_word_new_br11 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle<br>meat |  
+| bip_39_word_new_br12 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange<br>settle<br>meat<br>above |  
+| bip_39_word_new_br2 | knife<br>cost |  
+| bip_39_word_new_br3 | knife<br>cost<br>monster |  
+| bip_39_word_new_br4 | knife<br>cost<br>monster<br>wreck |  
+| bip_39_word_new_br5 | knife<br>cost<br>monster<br>wreck<br>purse |  
+| bip_39_word_new_br6 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch |  
+| bip_39_word_new_br7 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green |  
+| bip_39_word_new_br8 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question |  
+| bip_39_word_new_br9 | knife<br>cost<br>monster<br>wreck<br>purse<br>fetch<br>green<br>question<br>orange |  
+| bip_39_word_new_line1 | knife |  
+| bip_39_word_new_line10 | knife
+cost
+monster
+wreck
+purse
+fetch
+green
+question
+orange
+settle |  
+| bip_39_word_new_line11 | knife
+cost
+monster
+wreck
+purse
+fetch
+green
+question
+orange
+settle
+meat |  
+| bip_39_word_new_line12 | knife
+cost
+monster
+wreck
+purse
+fetch
+green
+question
+orange
+settle
+meat
+above |  
+| bip_39_word_new_line2 | knife
+cost |  
+| bip_39_word_new_line3 | knife
+cost
+monster |  
+| bip_39_word_new_line4 | knife
+cost
+monster
+wreck |  
+| bip_39_word_new_line5 | knife
+cost
+monster
+wreck
+purse |  
+| bip_39_word_new_line6 | knife
+cost
+monster
+wreck
+purse
+fetch |  
+| bip_39_word_new_line7 | knife
+cost
+monster
+wreck
+purse
+fetch
+green |  
+| bip_39_word_new_line8 | knife
+cost
+monster
+wreck
+purse
+fetch
+green
+question |  
+| bip_39_word_new_line9 | knife
+cost
+monster
+wreck
+purse
+fetch
+green
+question
+orange |  
+| bip_39_word_space_0 | ['knife', 'cost', 'monster', 'wreck', 'purse', 'fetch', 'green', 'question', 'orange', 'settle', 'meat', 'above'] |  
+| bip_39_word_space_1 | knife |  
+| bip_39_word_space_10 | knife cost monster wreck purse fetch green question orange settle |  
+| bip_39_word_space_11 | knife cost monster wreck purse fetch green question orange settle meat |  
+| bip_39_word_space_12 | knife cost monster wreck purse fetch green question orange settle meat above |  
+| bip_39_word_space_2 | knife cost |  
+| bip_39_word_space_3 | knife cost monster |  
+| bip_39_word_space_4 | knife cost monster wreck |  
+| bip_39_word_space_5 | knife cost monster wreck purse |  
+| bip_39_word_space_6 | knife cost monster wreck purse fetch |  
+| bip_39_word_space_7 | knife cost monster wreck purse fetch green |  
+| bip_39_word_space_8 | knife cost monster wreck purse fetch green question |  
+| bip_39_word_space_9 | knife cost monster wreck purse fetch green question orange |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

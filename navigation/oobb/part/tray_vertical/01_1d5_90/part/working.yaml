@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gather
+bip_39_word_new_br10: gather<br>entry<br>hill<br>stamp<br>when<br>fever<br>laugh<br>interest<br>process<br>express
+bip_39_word_new_br11: gather<br>entry<br>hill<br>stamp<br>when<br>fever<br>laugh<br>interest<br>process<br>express<br>monkey
+bip_39_word_new_br12: gather<br>entry<br>hill<br>stamp<br>when<br>fever<br>laugh<br>interest<br>process<br>express<br>monkey<br>above
+bip_39_word_new_br2: gather<br>entry
+bip_39_word_new_br3: gather<br>entry<br>hill
+bip_39_word_new_br4: gather<br>entry<br>hill<br>stamp
+bip_39_word_new_br5: gather<br>entry<br>hill<br>stamp<br>when
+bip_39_word_new_br6: gather<br>entry<br>hill<br>stamp<br>when<br>fever
+bip_39_word_new_br7: gather<br>entry<br>hill<br>stamp<br>when<br>fever<br>laugh
+bip_39_word_new_br8: gather<br>entry<br>hill<br>stamp<br>when<br>fever<br>laugh<br>interest
+bip_39_word_new_br9: gather<br>entry<br>hill<br>stamp<br>when<br>fever<br>laugh<br>interest<br>process
+bip_39_word_new_line1: gather
+bip_39_word_new_line10: 'gather
+
+  entry
+
+  hill
+
+  stamp
+
+  when
+
+  fever
+
+  laugh
+
+  interest
+
+  process
+
+  express'
+bip_39_word_new_line11: 'gather
+
+  entry
+
+  hill
+
+  stamp
+
+  when
+
+  fever
+
+  laugh
+
+  interest
+
+  process
+
+  express
+
+  monkey'
+bip_39_word_new_line12: 'gather
+
+  entry
+
+  hill
+
+  stamp
+
+  when
+
+  fever
+
+  laugh
+
+  interest
+
+  process
+
+  express
+
+  monkey
+
+  above'
+bip_39_word_new_line2: 'gather
+
+  entry'
+bip_39_word_new_line3: 'gather
+
+  entry
+
+  hill'
+bip_39_word_new_line4: 'gather
+
+  entry
+
+  hill
+
+  stamp'
+bip_39_word_new_line5: 'gather
+
+  entry
+
+  hill
+
+  stamp
+
+  when'
+bip_39_word_new_line6: 'gather
+
+  entry
+
+  hill
+
+  stamp
+
+  when
+
+  fever'
+bip_39_word_new_line7: 'gather
+
+  entry
+
+  hill
+
+  stamp
+
+  when
+
+  fever
+
+  laugh'
+bip_39_word_new_line8: 'gather
+
+  entry
+
+  hill
+
+  stamp
+
+  when
+
+  fever
+
+  laugh
+
+  interest'
+bip_39_word_new_line9: 'gather
+
+  entry
+
+  hill
+
+  stamp
+
+  when
+
+  fever
+
+  laugh
+
+  interest
+
+  process'
+bip_39_word_space_0:
+- gather
+- entry
+- hill
+- stamp
+- when
+- fever
+- laugh
+- interest
+- process
+- express
+- monkey
+- above
+bip_39_word_space_1: gather
+bip_39_word_space_10: gather entry hill stamp when fever laugh interest process express
+bip_39_word_space_11: gather entry hill stamp when fever laugh interest process express
+  monkey
+bip_39_word_space_12: gather entry hill stamp when fever laugh interest process express
+  monkey above
+bip_39_word_space_2: gather entry
+bip_39_word_space_3: gather entry hill
+bip_39_word_space_4: gather entry hill stamp
+bip_39_word_space_5: gather entry hill stamp when
+bip_39_word_space_6: gather entry hill stamp when fever
+bip_39_word_space_7: gather entry hill stamp when fever laugh
+bip_39_word_space_8: gather entry hill stamp when fever laugh interest
+bip_39_word_space_9: gather entry hill stamp when fever laugh interest process
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

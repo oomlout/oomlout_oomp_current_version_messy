@@ -1,3 +1,187 @@
+bip_39_word_new_br1: unlock
+bip_39_word_new_br10: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel
+bip_39_word_new_br11: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel<br>acquire
+bip_39_word_new_br12: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber<br>novel<br>acquire<br>april
+bip_39_word_new_br2: unlock<br>exist
+bip_39_word_new_br3: unlock<br>exist<br>eternal
+bip_39_word_new_br4: unlock<br>exist<br>eternal<br>galaxy
+bip_39_word_new_br5: unlock<br>exist<br>eternal<br>galaxy<br>expand
+bip_39_word_new_br6: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual
+bip_39_word_new_br7: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice
+bip_39_word_new_br8: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury
+bip_39_word_new_br9: unlock<br>exist<br>eternal<br>galaxy<br>expand<br>manual<br>notice<br>injury<br>rubber
+bip_39_word_new_line1: unlock
+bip_39_word_new_line10: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy
+
+  expand
+
+  manual
+
+  notice
+
+  injury
+
+  rubber
+
+  novel'
+bip_39_word_new_line11: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy
+
+  expand
+
+  manual
+
+  notice
+
+  injury
+
+  rubber
+
+  novel
+
+  acquire'
+bip_39_word_new_line12: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy
+
+  expand
+
+  manual
+
+  notice
+
+  injury
+
+  rubber
+
+  novel
+
+  acquire
+
+  april'
+bip_39_word_new_line2: 'unlock
+
+  exist'
+bip_39_word_new_line3: 'unlock
+
+  exist
+
+  eternal'
+bip_39_word_new_line4: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy'
+bip_39_word_new_line5: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy
+
+  expand'
+bip_39_word_new_line6: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy
+
+  expand
+
+  manual'
+bip_39_word_new_line7: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy
+
+  expand
+
+  manual
+
+  notice'
+bip_39_word_new_line8: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy
+
+  expand
+
+  manual
+
+  notice
+
+  injury'
+bip_39_word_new_line9: 'unlock
+
+  exist
+
+  eternal
+
+  galaxy
+
+  expand
+
+  manual
+
+  notice
+
+  injury
+
+  rubber'
+bip_39_word_space_0:
+- unlock
+- exist
+- eternal
+- galaxy
+- expand
+- manual
+- notice
+- injury
+- rubber
+- novel
+- acquire
+- april
+bip_39_word_space_1: unlock
+bip_39_word_space_10: unlock exist eternal galaxy expand manual notice injury rubber
+  novel
+bip_39_word_space_11: unlock exist eternal galaxy expand manual notice injury rubber
+  novel acquire
+bip_39_word_space_12: unlock exist eternal galaxy expand manual notice injury rubber
+  novel acquire april
+bip_39_word_space_2: unlock exist
+bip_39_word_space_3: unlock exist eternal
+bip_39_word_space_4: unlock exist eternal galaxy
+bip_39_word_space_5: unlock exist eternal galaxy expand
+bip_39_word_space_6: unlock exist eternal galaxy expand manual
+bip_39_word_space_7: unlock exist eternal galaxy expand manual notice
+bip_39_word_space_8: unlock exist eternal galaxy expand manual notice injury
+bip_39_word_space_9: unlock exist eternal galaxy expand manual notice injury rubber
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

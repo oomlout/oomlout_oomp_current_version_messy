@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cage range
+  * bip 39 word 3: cage range among
+  * bip 39 word: cage range among version two crouch summer census attitude jelly kit antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cage |  
+| bip_39_word_new_br10 | cage<br>range<br>among<br>version<br>two<br>crouch<br>summer<br>census<br>attitude<br>jelly |  
+| bip_39_word_new_br11 | cage<br>range<br>among<br>version<br>two<br>crouch<br>summer<br>census<br>attitude<br>jelly<br>kit |  
+| bip_39_word_new_br12 | cage<br>range<br>among<br>version<br>two<br>crouch<br>summer<br>census<br>attitude<br>jelly<br>kit<br>antenna |  
+| bip_39_word_new_br2 | cage<br>range |  
+| bip_39_word_new_br3 | cage<br>range<br>among |  
+| bip_39_word_new_br4 | cage<br>range<br>among<br>version |  
+| bip_39_word_new_br5 | cage<br>range<br>among<br>version<br>two |  
+| bip_39_word_new_br6 | cage<br>range<br>among<br>version<br>two<br>crouch |  
+| bip_39_word_new_br7 | cage<br>range<br>among<br>version<br>two<br>crouch<br>summer |  
+| bip_39_word_new_br8 | cage<br>range<br>among<br>version<br>two<br>crouch<br>summer<br>census |  
+| bip_39_word_new_br9 | cage<br>range<br>among<br>version<br>two<br>crouch<br>summer<br>census<br>attitude |  
+| bip_39_word_new_line1 | cage |  
+| bip_39_word_new_line10 | cage
+range
+among
+version
+two
+crouch
+summer
+census
+attitude
+jelly |  
+| bip_39_word_new_line11 | cage
+range
+among
+version
+two
+crouch
+summer
+census
+attitude
+jelly
+kit |  
+| bip_39_word_new_line12 | cage
+range
+among
+version
+two
+crouch
+summer
+census
+attitude
+jelly
+kit
+antenna |  
+| bip_39_word_new_line2 | cage
+range |  
+| bip_39_word_new_line3 | cage
+range
+among |  
+| bip_39_word_new_line4 | cage
+range
+among
+version |  
+| bip_39_word_new_line5 | cage
+range
+among
+version
+two |  
+| bip_39_word_new_line6 | cage
+range
+among
+version
+two
+crouch |  
+| bip_39_word_new_line7 | cage
+range
+among
+version
+two
+crouch
+summer |  
+| bip_39_word_new_line8 | cage
+range
+among
+version
+two
+crouch
+summer
+census |  
+| bip_39_word_new_line9 | cage
+range
+among
+version
+two
+crouch
+summer
+census
+attitude |  
+| bip_39_word_space_0 | ['cage', 'range', 'among', 'version', 'two', 'crouch', 'summer', 'census', 'attitude', 'jelly', 'kit', 'antenna'] |  
+| bip_39_word_space_1 | cage |  
+| bip_39_word_space_10 | cage range among version two crouch summer census attitude jelly |  
+| bip_39_word_space_11 | cage range among version two crouch summer census attitude jelly kit |  
+| bip_39_word_space_12 | cage range among version two crouch summer census attitude jelly kit antenna |  
+| bip_39_word_space_2 | cage range |  
+| bip_39_word_space_3 | cage range among |  
+| bip_39_word_space_4 | cage range among version |  
+| bip_39_word_space_5 | cage range among version two |  
+| bip_39_word_space_6 | cage range among version two crouch |  
+| bip_39_word_space_7 | cage range among version two crouch summer |  
+| bip_39_word_space_8 | cage range among version two crouch summer census |  
+| bip_39_word_space_9 | cage range among version two crouch summer census attitude |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

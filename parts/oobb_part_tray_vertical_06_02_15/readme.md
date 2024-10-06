@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: opinion key
+  * bip 39 word 3: opinion key abstract
+  * bip 39 word: opinion key abstract claim jar enroll cheap bounce wing depend copper athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | opinion |  
+| bip_39_word_new_br10 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll<br>cheap<br>bounce<br>wing<br>depend |  
+| bip_39_word_new_br11 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll<br>cheap<br>bounce<br>wing<br>depend<br>copper |  
+| bip_39_word_new_br12 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll<br>cheap<br>bounce<br>wing<br>depend<br>copper<br>athlete |  
+| bip_39_word_new_br2 | opinion<br>key |  
+| bip_39_word_new_br3 | opinion<br>key<br>abstract |  
+| bip_39_word_new_br4 | opinion<br>key<br>abstract<br>claim |  
+| bip_39_word_new_br5 | opinion<br>key<br>abstract<br>claim<br>jar |  
+| bip_39_word_new_br6 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll |  
+| bip_39_word_new_br7 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll<br>cheap |  
+| bip_39_word_new_br8 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll<br>cheap<br>bounce |  
+| bip_39_word_new_br9 | opinion<br>key<br>abstract<br>claim<br>jar<br>enroll<br>cheap<br>bounce<br>wing |  
+| bip_39_word_new_line1 | opinion |  
+| bip_39_word_new_line10 | opinion
+key
+abstract
+claim
+jar
+enroll
+cheap
+bounce
+wing
+depend |  
+| bip_39_word_new_line11 | opinion
+key
+abstract
+claim
+jar
+enroll
+cheap
+bounce
+wing
+depend
+copper |  
+| bip_39_word_new_line12 | opinion
+key
+abstract
+claim
+jar
+enroll
+cheap
+bounce
+wing
+depend
+copper
+athlete |  
+| bip_39_word_new_line2 | opinion
+key |  
+| bip_39_word_new_line3 | opinion
+key
+abstract |  
+| bip_39_word_new_line4 | opinion
+key
+abstract
+claim |  
+| bip_39_word_new_line5 | opinion
+key
+abstract
+claim
+jar |  
+| bip_39_word_new_line6 | opinion
+key
+abstract
+claim
+jar
+enroll |  
+| bip_39_word_new_line7 | opinion
+key
+abstract
+claim
+jar
+enroll
+cheap |  
+| bip_39_word_new_line8 | opinion
+key
+abstract
+claim
+jar
+enroll
+cheap
+bounce |  
+| bip_39_word_new_line9 | opinion
+key
+abstract
+claim
+jar
+enroll
+cheap
+bounce
+wing |  
+| bip_39_word_space_0 | ['opinion', 'key', 'abstract', 'claim', 'jar', 'enroll', 'cheap', 'bounce', 'wing', 'depend', 'copper', 'athlete'] |  
+| bip_39_word_space_1 | opinion |  
+| bip_39_word_space_10 | opinion key abstract claim jar enroll cheap bounce wing depend |  
+| bip_39_word_space_11 | opinion key abstract claim jar enroll cheap bounce wing depend copper |  
+| bip_39_word_space_12 | opinion key abstract claim jar enroll cheap bounce wing depend copper athlete |  
+| bip_39_word_space_2 | opinion key |  
+| bip_39_word_space_3 | opinion key abstract |  
+| bip_39_word_space_4 | opinion key abstract claim |  
+| bip_39_word_space_5 | opinion key abstract claim jar |  
+| bip_39_word_space_6 | opinion key abstract claim jar enroll |  
+| bip_39_word_space_7 | opinion key abstract claim jar enroll cheap |  
+| bip_39_word_space_8 | opinion key abstract claim jar enroll cheap bounce |  
+| bip_39_word_space_9 | opinion key abstract claim jar enroll cheap bounce wing |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

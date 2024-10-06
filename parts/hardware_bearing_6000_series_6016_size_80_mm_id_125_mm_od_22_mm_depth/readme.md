@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: genius lottery
+  * bip 39 word 3: genius lottery tent
+  * bip 39 word: genius lottery tent comic enable valve frequent bird artist liberty valid artwork
 
 ### other_codes
 * short_code: br6016
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | genius |  
+| bip_39_word_new_br10 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty |  
+| bip_39_word_new_br11 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty<br>valid |  
+| bip_39_word_new_br12 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist<br>liberty<br>valid<br>artwork |  
+| bip_39_word_new_br2 | genius<br>lottery |  
+| bip_39_word_new_br3 | genius<br>lottery<br>tent |  
+| bip_39_word_new_br4 | genius<br>lottery<br>tent<br>comic |  
+| bip_39_word_new_br5 | genius<br>lottery<br>tent<br>comic<br>enable |  
+| bip_39_word_new_br6 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve |  
+| bip_39_word_new_br7 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent |  
+| bip_39_word_new_br8 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird |  
+| bip_39_word_new_br9 | genius<br>lottery<br>tent<br>comic<br>enable<br>valve<br>frequent<br>bird<br>artist |  
+| bip_39_word_new_line1 | genius |  
+| bip_39_word_new_line10 | genius
+lottery
+tent
+comic
+enable
+valve
+frequent
+bird
+artist
+liberty |  
+| bip_39_word_new_line11 | genius
+lottery
+tent
+comic
+enable
+valve
+frequent
+bird
+artist
+liberty
+valid |  
+| bip_39_word_new_line12 | genius
+lottery
+tent
+comic
+enable
+valve
+frequent
+bird
+artist
+liberty
+valid
+artwork |  
+| bip_39_word_new_line2 | genius
+lottery |  
+| bip_39_word_new_line3 | genius
+lottery
+tent |  
+| bip_39_word_new_line4 | genius
+lottery
+tent
+comic |  
+| bip_39_word_new_line5 | genius
+lottery
+tent
+comic
+enable |  
+| bip_39_word_new_line6 | genius
+lottery
+tent
+comic
+enable
+valve |  
+| bip_39_word_new_line7 | genius
+lottery
+tent
+comic
+enable
+valve
+frequent |  
+| bip_39_word_new_line8 | genius
+lottery
+tent
+comic
+enable
+valve
+frequent
+bird |  
+| bip_39_word_new_line9 | genius
+lottery
+tent
+comic
+enable
+valve
+frequent
+bird
+artist |  
+| bip_39_word_space_0 | ['genius', 'lottery', 'tent', 'comic', 'enable', 'valve', 'frequent', 'bird', 'artist', 'liberty', 'valid', 'artwork'] |  
+| bip_39_word_space_1 | genius |  
+| bip_39_word_space_10 | genius lottery tent comic enable valve frequent bird artist liberty |  
+| bip_39_word_space_11 | genius lottery tent comic enable valve frequent bird artist liberty valid |  
+| bip_39_word_space_12 | genius lottery tent comic enable valve frequent bird artist liberty valid artwork |  
+| bip_39_word_space_2 | genius lottery |  
+| bip_39_word_space_3 | genius lottery tent |  
+| bip_39_word_space_4 | genius lottery tent comic |  
+| bip_39_word_space_5 | genius lottery tent comic enable |  
+| bip_39_word_space_6 | genius lottery tent comic enable valve |  
+| bip_39_word_space_7 | genius lottery tent comic enable valve frequent |  
+| bip_39_word_space_8 | genius lottery tent comic enable valve frequent bird |  
+| bip_39_word_space_9 | genius lottery tent comic enable valve frequent bird artist |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

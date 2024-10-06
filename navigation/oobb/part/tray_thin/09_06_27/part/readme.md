@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: keen stock
+  * bip 39 word 3: keen stock social
+  * bip 39 word: keen stock social pull pink obtain ramp vocal forward biology victory annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | keen |  
+| bip_39_word_new_br10 | keen<br>stock<br>social<br>pull<br>pink<br>obtain<br>ramp<br>vocal<br>forward<br>biology |  
+| bip_39_word_new_br11 | keen<br>stock<br>social<br>pull<br>pink<br>obtain<br>ramp<br>vocal<br>forward<br>biology<br>victory |  
+| bip_39_word_new_br12 | keen<br>stock<br>social<br>pull<br>pink<br>obtain<br>ramp<br>vocal<br>forward<br>biology<br>victory<br>annual |  
+| bip_39_word_new_br2 | keen<br>stock |  
+| bip_39_word_new_br3 | keen<br>stock<br>social |  
+| bip_39_word_new_br4 | keen<br>stock<br>social<br>pull |  
+| bip_39_word_new_br5 | keen<br>stock<br>social<br>pull<br>pink |  
+| bip_39_word_new_br6 | keen<br>stock<br>social<br>pull<br>pink<br>obtain |  
+| bip_39_word_new_br7 | keen<br>stock<br>social<br>pull<br>pink<br>obtain<br>ramp |  
+| bip_39_word_new_br8 | keen<br>stock<br>social<br>pull<br>pink<br>obtain<br>ramp<br>vocal |  
+| bip_39_word_new_br9 | keen<br>stock<br>social<br>pull<br>pink<br>obtain<br>ramp<br>vocal<br>forward |  
+| bip_39_word_new_line1 | keen |  
+| bip_39_word_new_line10 | keen
+stock
+social
+pull
+pink
+obtain
+ramp
+vocal
+forward
+biology |  
+| bip_39_word_new_line11 | keen
+stock
+social
+pull
+pink
+obtain
+ramp
+vocal
+forward
+biology
+victory |  
+| bip_39_word_new_line12 | keen
+stock
+social
+pull
+pink
+obtain
+ramp
+vocal
+forward
+biology
+victory
+annual |  
+| bip_39_word_new_line2 | keen
+stock |  
+| bip_39_word_new_line3 | keen
+stock
+social |  
+| bip_39_word_new_line4 | keen
+stock
+social
+pull |  
+| bip_39_word_new_line5 | keen
+stock
+social
+pull
+pink |  
+| bip_39_word_new_line6 | keen
+stock
+social
+pull
+pink
+obtain |  
+| bip_39_word_new_line7 | keen
+stock
+social
+pull
+pink
+obtain
+ramp |  
+| bip_39_word_new_line8 | keen
+stock
+social
+pull
+pink
+obtain
+ramp
+vocal |  
+| bip_39_word_new_line9 | keen
+stock
+social
+pull
+pink
+obtain
+ramp
+vocal
+forward |  
+| bip_39_word_space_0 | ['keen', 'stock', 'social', 'pull', 'pink', 'obtain', 'ramp', 'vocal', 'forward', 'biology', 'victory', 'annual'] |  
+| bip_39_word_space_1 | keen |  
+| bip_39_word_space_10 | keen stock social pull pink obtain ramp vocal forward biology |  
+| bip_39_word_space_11 | keen stock social pull pink obtain ramp vocal forward biology victory |  
+| bip_39_word_space_12 | keen stock social pull pink obtain ramp vocal forward biology victory annual |  
+| bip_39_word_space_2 | keen stock |  
+| bip_39_word_space_3 | keen stock social |  
+| bip_39_word_space_4 | keen stock social pull |  
+| bip_39_word_space_5 | keen stock social pull pink |  
+| bip_39_word_space_6 | keen stock social pull pink obtain |  
+| bip_39_word_space_7 | keen stock social pull pink obtain ramp |  
+| bip_39_word_space_8 | keen stock social pull pink obtain ramp vocal |  
+| bip_39_word_space_9 | keen stock social pull pink obtain ramp vocal forward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

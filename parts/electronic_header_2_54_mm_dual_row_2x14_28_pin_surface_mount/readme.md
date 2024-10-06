@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: utility normal
+  * bip 39 word 3: utility normal day
+  * bip 39 word: utility normal day shadow point ball pact laptop short bottom spatial alarm
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | utility |  
+| bip_39_word_new_br10 | utility<br>normal<br>day<br>shadow<br>point<br>ball<br>pact<br>laptop<br>short<br>bottom |  
+| bip_39_word_new_br11 | utility<br>normal<br>day<br>shadow<br>point<br>ball<br>pact<br>laptop<br>short<br>bottom<br>spatial |  
+| bip_39_word_new_br12 | utility<br>normal<br>day<br>shadow<br>point<br>ball<br>pact<br>laptop<br>short<br>bottom<br>spatial<br>alarm |  
+| bip_39_word_new_br2 | utility<br>normal |  
+| bip_39_word_new_br3 | utility<br>normal<br>day |  
+| bip_39_word_new_br4 | utility<br>normal<br>day<br>shadow |  
+| bip_39_word_new_br5 | utility<br>normal<br>day<br>shadow<br>point |  
+| bip_39_word_new_br6 | utility<br>normal<br>day<br>shadow<br>point<br>ball |  
+| bip_39_word_new_br7 | utility<br>normal<br>day<br>shadow<br>point<br>ball<br>pact |  
+| bip_39_word_new_br8 | utility<br>normal<br>day<br>shadow<br>point<br>ball<br>pact<br>laptop |  
+| bip_39_word_new_br9 | utility<br>normal<br>day<br>shadow<br>point<br>ball<br>pact<br>laptop<br>short |  
+| bip_39_word_new_line1 | utility |  
+| bip_39_word_new_line10 | utility
+normal
+day
+shadow
+point
+ball
+pact
+laptop
+short
+bottom |  
+| bip_39_word_new_line11 | utility
+normal
+day
+shadow
+point
+ball
+pact
+laptop
+short
+bottom
+spatial |  
+| bip_39_word_new_line12 | utility
+normal
+day
+shadow
+point
+ball
+pact
+laptop
+short
+bottom
+spatial
+alarm |  
+| bip_39_word_new_line2 | utility
+normal |  
+| bip_39_word_new_line3 | utility
+normal
+day |  
+| bip_39_word_new_line4 | utility
+normal
+day
+shadow |  
+| bip_39_word_new_line5 | utility
+normal
+day
+shadow
+point |  
+| bip_39_word_new_line6 | utility
+normal
+day
+shadow
+point
+ball |  
+| bip_39_word_new_line7 | utility
+normal
+day
+shadow
+point
+ball
+pact |  
+| bip_39_word_new_line8 | utility
+normal
+day
+shadow
+point
+ball
+pact
+laptop |  
+| bip_39_word_new_line9 | utility
+normal
+day
+shadow
+point
+ball
+pact
+laptop
+short |  
+| bip_39_word_space_0 | ['utility', 'normal', 'day', 'shadow', 'point', 'ball', 'pact', 'laptop', 'short', 'bottom', 'spatial', 'alarm'] |  
+| bip_39_word_space_1 | utility |  
+| bip_39_word_space_10 | utility normal day shadow point ball pact laptop short bottom |  
+| bip_39_word_space_11 | utility normal day shadow point ball pact laptop short bottom spatial |  
+| bip_39_word_space_12 | utility normal day shadow point ball pact laptop short bottom spatial alarm |  
+| bip_39_word_space_2 | utility normal |  
+| bip_39_word_space_3 | utility normal day |  
+| bip_39_word_space_4 | utility normal day shadow |  
+| bip_39_word_space_5 | utility normal day shadow point |  
+| bip_39_word_space_6 | utility normal day shadow point ball |  
+| bip_39_word_space_7 | utility normal day shadow point ball pact |  
+| bip_39_word_space_8 | utility normal day shadow point ball pact laptop |  
+| bip_39_word_space_9 | utility normal day shadow point ball pact laptop short |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

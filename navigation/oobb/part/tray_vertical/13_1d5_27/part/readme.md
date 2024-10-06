@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: false wise
+  * bip 39 word 3: false wise cattle
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | false |  
+| bip_39_word_new_br10 | false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner<br>true |  
+| bip_39_word_new_br11 | false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner<br>true<br>purpose |  
+| bip_39_word_new_br2 | false<br>wise |  
+| bip_39_word_new_br3 | false<br>wise<br>cattle |  
+| bip_39_word_new_br4 | false<br>wise<br>cattle<br>over |  
+| bip_39_word_new_br5 | false<br>wise<br>cattle<br>over<br>industry |  
+| bip_39_word_new_br6 | false<br>wise<br>cattle<br>over<br>industry<br>item |  
+| bip_39_word_new_br7 | false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw |  
+| bip_39_word_new_br8 | false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout |  
+| bip_39_word_new_br9 | false<br>wise<br>cattle<br>over<br>industry<br>item<br>throw<br>scout<br>banner |  
+| bip_39_word_new_line1 | false |  
+| bip_39_word_new_line10 | false
+wise
+cattle
+over
+industry
+item
+throw
+scout
+banner
+true |  
+| bip_39_word_new_line11 | false
+wise
+cattle
+over
+industry
+item
+throw
+scout
+banner
+true
+purpose |  
+| bip_39_word_new_line2 | false
+wise |  
+| bip_39_word_new_line3 | false
+wise
+cattle |  
+| bip_39_word_new_line4 | false
+wise
+cattle
+over |  
+| bip_39_word_new_line5 | false
+wise
+cattle
+over
+industry |  
+| bip_39_word_new_line6 | false
+wise
+cattle
+over
+industry
+item |  
+| bip_39_word_new_line7 | false
+wise
+cattle
+over
+industry
+item
+throw |  
+| bip_39_word_new_line8 | false
+wise
+cattle
+over
+industry
+item
+throw
+scout |  
+| bip_39_word_new_line9 | false
+wise
+cattle
+over
+industry
+item
+throw
+scout
+banner |  
+| bip_39_word_space_0 | ['false', 'wise', 'cattle', 'over', 'industry', 'item', 'throw', 'scout', 'banner', 'true', 'purpose'] |  
+| bip_39_word_space_1 | false |  
+| bip_39_word_space_10 | false wise cattle over industry item throw scout banner true |  
+| bip_39_word_space_11 | false wise cattle over industry item throw scout banner true purpose |  
+| bip_39_word_space_2 | false wise |  
+| bip_39_word_space_3 | false wise cattle |  
+| bip_39_word_space_4 | false wise cattle over |  
+| bip_39_word_space_5 | false wise cattle over industry |  
+| bip_39_word_space_6 | false wise cattle over industry item |  
+| bip_39_word_space_7 | false wise cattle over industry item throw |  
+| bip_39_word_space_8 | false wise cattle over industry item throw scout |  
+| bip_39_word_space_9 | false wise cattle over industry item throw scout banner |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

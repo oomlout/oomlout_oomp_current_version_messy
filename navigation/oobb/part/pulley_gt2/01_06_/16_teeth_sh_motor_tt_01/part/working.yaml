@@ -1,3 +1,187 @@
+bip_39_word_new_br1: energy
+bip_39_word_new_br10: energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain
+bip_39_word_new_br11: energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain<br>throw
+bip_39_word_new_br12: energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory<br>rain<br>throw<br>apology
+bip_39_word_new_br2: energy<br>life
+bip_39_word_new_br3: energy<br>life<br>myself
+bip_39_word_new_br4: energy<br>life<br>myself<br>disease
+bip_39_word_new_br5: energy<br>life<br>myself<br>disease<br>become
+bip_39_word_new_br6: energy<br>life<br>myself<br>disease<br>become<br>divide
+bip_39_word_new_br7: energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano
+bip_39_word_new_br8: energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito
+bip_39_word_new_br9: energy<br>life<br>myself<br>disease<br>become<br>divide<br>piano<br>mosquito<br>memory
+bip_39_word_new_line1: energy
+bip_39_word_new_line10: 'energy
+
+  life
+
+  myself
+
+  disease
+
+  become
+
+  divide
+
+  piano
+
+  mosquito
+
+  memory
+
+  rain'
+bip_39_word_new_line11: 'energy
+
+  life
+
+  myself
+
+  disease
+
+  become
+
+  divide
+
+  piano
+
+  mosquito
+
+  memory
+
+  rain
+
+  throw'
+bip_39_word_new_line12: 'energy
+
+  life
+
+  myself
+
+  disease
+
+  become
+
+  divide
+
+  piano
+
+  mosquito
+
+  memory
+
+  rain
+
+  throw
+
+  apology'
+bip_39_word_new_line2: 'energy
+
+  life'
+bip_39_word_new_line3: 'energy
+
+  life
+
+  myself'
+bip_39_word_new_line4: 'energy
+
+  life
+
+  myself
+
+  disease'
+bip_39_word_new_line5: 'energy
+
+  life
+
+  myself
+
+  disease
+
+  become'
+bip_39_word_new_line6: 'energy
+
+  life
+
+  myself
+
+  disease
+
+  become
+
+  divide'
+bip_39_word_new_line7: 'energy
+
+  life
+
+  myself
+
+  disease
+
+  become
+
+  divide
+
+  piano'
+bip_39_word_new_line8: 'energy
+
+  life
+
+  myself
+
+  disease
+
+  become
+
+  divide
+
+  piano
+
+  mosquito'
+bip_39_word_new_line9: 'energy
+
+  life
+
+  myself
+
+  disease
+
+  become
+
+  divide
+
+  piano
+
+  mosquito
+
+  memory'
+bip_39_word_space_0:
+- energy
+- life
+- myself
+- disease
+- become
+- divide
+- piano
+- mosquito
+- memory
+- rain
+- throw
+- apology
+bip_39_word_space_1: energy
+bip_39_word_space_10: energy life myself disease become divide piano mosquito memory
+  rain
+bip_39_word_space_11: energy life myself disease become divide piano mosquito memory
+  rain throw
+bip_39_word_space_12: energy life myself disease become divide piano mosquito memory
+  rain throw apology
+bip_39_word_space_2: energy life
+bip_39_word_space_3: energy life myself
+bip_39_word_space_4: energy life myself disease
+bip_39_word_space_5: energy life myself disease become
+bip_39_word_space_6: energy life myself disease become divide
+bip_39_word_space_7: energy life myself disease become divide piano
+bip_39_word_space_8: energy life myself disease become divide piano mosquito
+bip_39_word_space_9: energy life myself disease become divide piano mosquito memory
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

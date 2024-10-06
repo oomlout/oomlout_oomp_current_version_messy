@@ -1,3 +1,185 @@
+bip_39_word_new_br1: brother
+bip_39_word_new_br10: brother<br>web<br>grape<br>analyst<br>sea<br>vast<br>mimic<br>horse<br>next<br>token
+bip_39_word_new_br11: brother<br>web<br>grape<br>analyst<br>sea<br>vast<br>mimic<br>horse<br>next<br>token<br>slide
+bip_39_word_new_br12: brother<br>web<br>grape<br>analyst<br>sea<br>vast<br>mimic<br>horse<br>next<br>token<br>slide<br>advance
+bip_39_word_new_br2: brother<br>web
+bip_39_word_new_br3: brother<br>web<br>grape
+bip_39_word_new_br4: brother<br>web<br>grape<br>analyst
+bip_39_word_new_br5: brother<br>web<br>grape<br>analyst<br>sea
+bip_39_word_new_br6: brother<br>web<br>grape<br>analyst<br>sea<br>vast
+bip_39_word_new_br7: brother<br>web<br>grape<br>analyst<br>sea<br>vast<br>mimic
+bip_39_word_new_br8: brother<br>web<br>grape<br>analyst<br>sea<br>vast<br>mimic<br>horse
+bip_39_word_new_br9: brother<br>web<br>grape<br>analyst<br>sea<br>vast<br>mimic<br>horse<br>next
+bip_39_word_new_line1: brother
+bip_39_word_new_line10: 'brother
+
+  web
+
+  grape
+
+  analyst
+
+  sea
+
+  vast
+
+  mimic
+
+  horse
+
+  next
+
+  token'
+bip_39_word_new_line11: 'brother
+
+  web
+
+  grape
+
+  analyst
+
+  sea
+
+  vast
+
+  mimic
+
+  horse
+
+  next
+
+  token
+
+  slide'
+bip_39_word_new_line12: 'brother
+
+  web
+
+  grape
+
+  analyst
+
+  sea
+
+  vast
+
+  mimic
+
+  horse
+
+  next
+
+  token
+
+  slide
+
+  advance'
+bip_39_word_new_line2: 'brother
+
+  web'
+bip_39_word_new_line3: 'brother
+
+  web
+
+  grape'
+bip_39_word_new_line4: 'brother
+
+  web
+
+  grape
+
+  analyst'
+bip_39_word_new_line5: 'brother
+
+  web
+
+  grape
+
+  analyst
+
+  sea'
+bip_39_word_new_line6: 'brother
+
+  web
+
+  grape
+
+  analyst
+
+  sea
+
+  vast'
+bip_39_word_new_line7: 'brother
+
+  web
+
+  grape
+
+  analyst
+
+  sea
+
+  vast
+
+  mimic'
+bip_39_word_new_line8: 'brother
+
+  web
+
+  grape
+
+  analyst
+
+  sea
+
+  vast
+
+  mimic
+
+  horse'
+bip_39_word_new_line9: 'brother
+
+  web
+
+  grape
+
+  analyst
+
+  sea
+
+  vast
+
+  mimic
+
+  horse
+
+  next'
+bip_39_word_space_0:
+- brother
+- web
+- grape
+- analyst
+- sea
+- vast
+- mimic
+- horse
+- next
+- token
+- slide
+- advance
+bip_39_word_space_1: brother
+bip_39_word_space_10: brother web grape analyst sea vast mimic horse next token
+bip_39_word_space_11: brother web grape analyst sea vast mimic horse next token slide
+bip_39_word_space_12: brother web grape analyst sea vast mimic horse next token slide
+  advance
+bip_39_word_space_2: brother web
+bip_39_word_space_3: brother web grape
+bip_39_word_space_4: brother web grape analyst
+bip_39_word_space_5: brother web grape analyst sea
+bip_39_word_space_6: brother web grape analyst sea vast
+bip_39_word_space_7: brother web grape analyst sea vast mimic
+bip_39_word_space_8: brother web grape analyst sea vast mimic horse
+bip_39_word_space_9: brother web grape analyst sea vast mimic horse next
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

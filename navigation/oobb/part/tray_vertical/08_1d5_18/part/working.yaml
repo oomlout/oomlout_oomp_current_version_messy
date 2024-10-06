@@ -1,3 +1,186 @@
+bip_39_word_new_br1: supreme
+bip_39_word_new_br10: supreme<br>small<br>high<br>want<br>much<br>muscle<br>promote<br>exhaust<br>wheel<br>that
+bip_39_word_new_br11: supreme<br>small<br>high<br>want<br>much<br>muscle<br>promote<br>exhaust<br>wheel<br>that<br>aunt
+bip_39_word_new_br12: supreme<br>small<br>high<br>want<br>much<br>muscle<br>promote<br>exhaust<br>wheel<br>that<br>aunt<br>attract
+bip_39_word_new_br2: supreme<br>small
+bip_39_word_new_br3: supreme<br>small<br>high
+bip_39_word_new_br4: supreme<br>small<br>high<br>want
+bip_39_word_new_br5: supreme<br>small<br>high<br>want<br>much
+bip_39_word_new_br6: supreme<br>small<br>high<br>want<br>much<br>muscle
+bip_39_word_new_br7: supreme<br>small<br>high<br>want<br>much<br>muscle<br>promote
+bip_39_word_new_br8: supreme<br>small<br>high<br>want<br>much<br>muscle<br>promote<br>exhaust
+bip_39_word_new_br9: supreme<br>small<br>high<br>want<br>much<br>muscle<br>promote<br>exhaust<br>wheel
+bip_39_word_new_line1: supreme
+bip_39_word_new_line10: 'supreme
+
+  small
+
+  high
+
+  want
+
+  much
+
+  muscle
+
+  promote
+
+  exhaust
+
+  wheel
+
+  that'
+bip_39_word_new_line11: 'supreme
+
+  small
+
+  high
+
+  want
+
+  much
+
+  muscle
+
+  promote
+
+  exhaust
+
+  wheel
+
+  that
+
+  aunt'
+bip_39_word_new_line12: 'supreme
+
+  small
+
+  high
+
+  want
+
+  much
+
+  muscle
+
+  promote
+
+  exhaust
+
+  wheel
+
+  that
+
+  aunt
+
+  attract'
+bip_39_word_new_line2: 'supreme
+
+  small'
+bip_39_word_new_line3: 'supreme
+
+  small
+
+  high'
+bip_39_word_new_line4: 'supreme
+
+  small
+
+  high
+
+  want'
+bip_39_word_new_line5: 'supreme
+
+  small
+
+  high
+
+  want
+
+  much'
+bip_39_word_new_line6: 'supreme
+
+  small
+
+  high
+
+  want
+
+  much
+
+  muscle'
+bip_39_word_new_line7: 'supreme
+
+  small
+
+  high
+
+  want
+
+  much
+
+  muscle
+
+  promote'
+bip_39_word_new_line8: 'supreme
+
+  small
+
+  high
+
+  want
+
+  much
+
+  muscle
+
+  promote
+
+  exhaust'
+bip_39_word_new_line9: 'supreme
+
+  small
+
+  high
+
+  want
+
+  much
+
+  muscle
+
+  promote
+
+  exhaust
+
+  wheel'
+bip_39_word_space_0:
+- supreme
+- small
+- high
+- want
+- much
+- muscle
+- promote
+- exhaust
+- wheel
+- that
+- aunt
+- attract
+bip_39_word_space_1: supreme
+bip_39_word_space_10: supreme small high want much muscle promote exhaust wheel that
+bip_39_word_space_11: supreme small high want much muscle promote exhaust wheel that
+  aunt
+bip_39_word_space_12: supreme small high want much muscle promote exhaust wheel that
+  aunt attract
+bip_39_word_space_2: supreme small
+bip_39_word_space_3: supreme small high
+bip_39_word_space_4: supreme small high want
+bip_39_word_space_5: supreme small high want much
+bip_39_word_space_6: supreme small high want much muscle
+bip_39_word_space_7: supreme small high want much muscle promote
+bip_39_word_space_8: supreme small high want much muscle promote exhaust
+bip_39_word_space_9: supreme small high want much muscle promote exhaust wheel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

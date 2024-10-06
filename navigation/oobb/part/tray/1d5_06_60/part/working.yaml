@@ -1,3 +1,187 @@
+bip_39_word_new_br1: shine
+bip_39_word_new_br10: shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter
+bip_39_word_new_br11: shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter<br>damp
+bip_39_word_new_br12: shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale<br>quarter<br>damp<br>artefact
+bip_39_word_new_br2: shine<br>erode
+bip_39_word_new_br3: shine<br>erode<br>shoulder
+bip_39_word_new_br4: shine<br>erode<br>shoulder<br>gravity
+bip_39_word_new_br5: shine<br>erode<br>shoulder<br>gravity<br>air
+bip_39_word_new_br6: shine<br>erode<br>shoulder<br>gravity<br>air<br>trial
+bip_39_word_new_br7: shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow
+bip_39_word_new_br8: shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom
+bip_39_word_new_br9: shine<br>erode<br>shoulder<br>gravity<br>air<br>trial<br>meadow<br>mushroom<br>inhale
+bip_39_word_new_line1: shine
+bip_39_word_new_line10: 'shine
+
+  erode
+
+  shoulder
+
+  gravity
+
+  air
+
+  trial
+
+  meadow
+
+  mushroom
+
+  inhale
+
+  quarter'
+bip_39_word_new_line11: 'shine
+
+  erode
+
+  shoulder
+
+  gravity
+
+  air
+
+  trial
+
+  meadow
+
+  mushroom
+
+  inhale
+
+  quarter
+
+  damp'
+bip_39_word_new_line12: 'shine
+
+  erode
+
+  shoulder
+
+  gravity
+
+  air
+
+  trial
+
+  meadow
+
+  mushroom
+
+  inhale
+
+  quarter
+
+  damp
+
+  artefact'
+bip_39_word_new_line2: 'shine
+
+  erode'
+bip_39_word_new_line3: 'shine
+
+  erode
+
+  shoulder'
+bip_39_word_new_line4: 'shine
+
+  erode
+
+  shoulder
+
+  gravity'
+bip_39_word_new_line5: 'shine
+
+  erode
+
+  shoulder
+
+  gravity
+
+  air'
+bip_39_word_new_line6: 'shine
+
+  erode
+
+  shoulder
+
+  gravity
+
+  air
+
+  trial'
+bip_39_word_new_line7: 'shine
+
+  erode
+
+  shoulder
+
+  gravity
+
+  air
+
+  trial
+
+  meadow'
+bip_39_word_new_line8: 'shine
+
+  erode
+
+  shoulder
+
+  gravity
+
+  air
+
+  trial
+
+  meadow
+
+  mushroom'
+bip_39_word_new_line9: 'shine
+
+  erode
+
+  shoulder
+
+  gravity
+
+  air
+
+  trial
+
+  meadow
+
+  mushroom
+
+  inhale'
+bip_39_word_space_0:
+- shine
+- erode
+- shoulder
+- gravity
+- air
+- trial
+- meadow
+- mushroom
+- inhale
+- quarter
+- damp
+- artefact
+bip_39_word_space_1: shine
+bip_39_word_space_10: shine erode shoulder gravity air trial meadow mushroom inhale
+  quarter
+bip_39_word_space_11: shine erode shoulder gravity air trial meadow mushroom inhale
+  quarter damp
+bip_39_word_space_12: shine erode shoulder gravity air trial meadow mushroom inhale
+  quarter damp artefact
+bip_39_word_space_2: shine erode
+bip_39_word_space_3: shine erode shoulder
+bip_39_word_space_4: shine erode shoulder gravity
+bip_39_word_space_5: shine erode shoulder gravity air
+bip_39_word_space_6: shine erode shoulder gravity air trial
+bip_39_word_space_7: shine erode shoulder gravity air trial meadow
+bip_39_word_space_8: shine erode shoulder gravity air trial meadow mushroom
+bip_39_word_space_9: shine erode shoulder gravity air trial meadow mushroom inhale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

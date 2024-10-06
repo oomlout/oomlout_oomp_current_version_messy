@@ -1,3 +1,187 @@
+bip_39_word_new_br1: unaware
+bip_39_word_new_br10: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble
+bip_39_word_new_br11: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble<br>leisure
+bip_39_word_new_br12: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator<br>trouble<br>leisure<br>avocado
+bip_39_word_new_br2: unaware<br>inject
+bip_39_word_new_br3: unaware<br>inject<br>abandon
+bip_39_word_new_br4: unaware<br>inject<br>abandon<br>canvas
+bip_39_word_new_br5: unaware<br>inject<br>abandon<br>canvas<br>vicious
+bip_39_word_new_br6: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish
+bip_39_word_new_br7: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster
+bip_39_word_new_br8: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit
+bip_39_word_new_br9: unaware<br>inject<br>abandon<br>canvas<br>vicious<br>dish<br>cluster<br>profit<br>elevator
+bip_39_word_new_line1: unaware
+bip_39_word_new_line10: 'unaware
+
+  inject
+
+  abandon
+
+  canvas
+
+  vicious
+
+  dish
+
+  cluster
+
+  profit
+
+  elevator
+
+  trouble'
+bip_39_word_new_line11: 'unaware
+
+  inject
+
+  abandon
+
+  canvas
+
+  vicious
+
+  dish
+
+  cluster
+
+  profit
+
+  elevator
+
+  trouble
+
+  leisure'
+bip_39_word_new_line12: 'unaware
+
+  inject
+
+  abandon
+
+  canvas
+
+  vicious
+
+  dish
+
+  cluster
+
+  profit
+
+  elevator
+
+  trouble
+
+  leisure
+
+  avocado'
+bip_39_word_new_line2: 'unaware
+
+  inject'
+bip_39_word_new_line3: 'unaware
+
+  inject
+
+  abandon'
+bip_39_word_new_line4: 'unaware
+
+  inject
+
+  abandon
+
+  canvas'
+bip_39_word_new_line5: 'unaware
+
+  inject
+
+  abandon
+
+  canvas
+
+  vicious'
+bip_39_word_new_line6: 'unaware
+
+  inject
+
+  abandon
+
+  canvas
+
+  vicious
+
+  dish'
+bip_39_word_new_line7: 'unaware
+
+  inject
+
+  abandon
+
+  canvas
+
+  vicious
+
+  dish
+
+  cluster'
+bip_39_word_new_line8: 'unaware
+
+  inject
+
+  abandon
+
+  canvas
+
+  vicious
+
+  dish
+
+  cluster
+
+  profit'
+bip_39_word_new_line9: 'unaware
+
+  inject
+
+  abandon
+
+  canvas
+
+  vicious
+
+  dish
+
+  cluster
+
+  profit
+
+  elevator'
+bip_39_word_space_0:
+- unaware
+- inject
+- abandon
+- canvas
+- vicious
+- dish
+- cluster
+- profit
+- elevator
+- trouble
+- leisure
+- avocado
+bip_39_word_space_1: unaware
+bip_39_word_space_10: unaware inject abandon canvas vicious dish cluster profit elevator
+  trouble
+bip_39_word_space_11: unaware inject abandon canvas vicious dish cluster profit elevator
+  trouble leisure
+bip_39_word_space_12: unaware inject abandon canvas vicious dish cluster profit elevator
+  trouble leisure avocado
+bip_39_word_space_2: unaware inject
+bip_39_word_space_3: unaware inject abandon
+bip_39_word_space_4: unaware inject abandon canvas
+bip_39_word_space_5: unaware inject abandon canvas vicious
+bip_39_word_space_6: unaware inject abandon canvas vicious dish
+bip_39_word_space_7: unaware inject abandon canvas vicious dish cluster
+bip_39_word_space_8: unaware inject abandon canvas vicious dish cluster profit
+bip_39_word_space_9: unaware inject abandon canvas vicious dish cluster profit elevator
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

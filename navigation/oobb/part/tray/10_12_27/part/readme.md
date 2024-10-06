@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: equal clown
+  * bip 39 word 3: equal clown panda
+  * bip 39 word: equal clown panda pact crack between someone essay section brother million ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | equal |  
+| bip_39_word_new_br10 | equal<br>clown<br>panda<br>pact<br>crack<br>between<br>someone<br>essay<br>section<br>brother |  
+| bip_39_word_new_br11 | equal<br>clown<br>panda<br>pact<br>crack<br>between<br>someone<br>essay<br>section<br>brother<br>million |  
+| bip_39_word_new_br12 | equal<br>clown<br>panda<br>pact<br>crack<br>between<br>someone<br>essay<br>section<br>brother<br>million<br>ankle |  
+| bip_39_word_new_br2 | equal<br>clown |  
+| bip_39_word_new_br3 | equal<br>clown<br>panda |  
+| bip_39_word_new_br4 | equal<br>clown<br>panda<br>pact |  
+| bip_39_word_new_br5 | equal<br>clown<br>panda<br>pact<br>crack |  
+| bip_39_word_new_br6 | equal<br>clown<br>panda<br>pact<br>crack<br>between |  
+| bip_39_word_new_br7 | equal<br>clown<br>panda<br>pact<br>crack<br>between<br>someone |  
+| bip_39_word_new_br8 | equal<br>clown<br>panda<br>pact<br>crack<br>between<br>someone<br>essay |  
+| bip_39_word_new_br9 | equal<br>clown<br>panda<br>pact<br>crack<br>between<br>someone<br>essay<br>section |  
+| bip_39_word_new_line1 | equal |  
+| bip_39_word_new_line10 | equal
+clown
+panda
+pact
+crack
+between
+someone
+essay
+section
+brother |  
+| bip_39_word_new_line11 | equal
+clown
+panda
+pact
+crack
+between
+someone
+essay
+section
+brother
+million |  
+| bip_39_word_new_line12 | equal
+clown
+panda
+pact
+crack
+between
+someone
+essay
+section
+brother
+million
+ankle |  
+| bip_39_word_new_line2 | equal
+clown |  
+| bip_39_word_new_line3 | equal
+clown
+panda |  
+| bip_39_word_new_line4 | equal
+clown
+panda
+pact |  
+| bip_39_word_new_line5 | equal
+clown
+panda
+pact
+crack |  
+| bip_39_word_new_line6 | equal
+clown
+panda
+pact
+crack
+between |  
+| bip_39_word_new_line7 | equal
+clown
+panda
+pact
+crack
+between
+someone |  
+| bip_39_word_new_line8 | equal
+clown
+panda
+pact
+crack
+between
+someone
+essay |  
+| bip_39_word_new_line9 | equal
+clown
+panda
+pact
+crack
+between
+someone
+essay
+section |  
+| bip_39_word_space_0 | ['equal', 'clown', 'panda', 'pact', 'crack', 'between', 'someone', 'essay', 'section', 'brother', 'million', 'ankle'] |  
+| bip_39_word_space_1 | equal |  
+| bip_39_word_space_10 | equal clown panda pact crack between someone essay section brother |  
+| bip_39_word_space_11 | equal clown panda pact crack between someone essay section brother million |  
+| bip_39_word_space_12 | equal clown panda pact crack between someone essay section brother million ankle |  
+| bip_39_word_space_2 | equal clown |  
+| bip_39_word_space_3 | equal clown panda |  
+| bip_39_word_space_4 | equal clown panda pact |  
+| bip_39_word_space_5 | equal clown panda pact crack |  
+| bip_39_word_space_6 | equal clown panda pact crack between |  
+| bip_39_word_space_7 | equal clown panda pact crack between someone |  
+| bip_39_word_space_8 | equal clown panda pact crack between someone essay |  
+| bip_39_word_space_9 | equal clown panda pact crack between someone essay section |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

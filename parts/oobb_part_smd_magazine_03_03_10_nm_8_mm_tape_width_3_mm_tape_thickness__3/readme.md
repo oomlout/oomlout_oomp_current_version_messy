@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: feed trial
+  * bip 39 word 3: feed trial claw
+  * bip 39 word: feed trial claw giggle velvet wait swim document ride crystal pilot about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | feed |  
+| bip_39_word_new_br10 | feed<br>trial<br>claw<br>giggle<br>velvet<br>wait<br>swim<br>document<br>ride<br>crystal |  
+| bip_39_word_new_br11 | feed<br>trial<br>claw<br>giggle<br>velvet<br>wait<br>swim<br>document<br>ride<br>crystal<br>pilot |  
+| bip_39_word_new_br12 | feed<br>trial<br>claw<br>giggle<br>velvet<br>wait<br>swim<br>document<br>ride<br>crystal<br>pilot<br>about |  
+| bip_39_word_new_br2 | feed<br>trial |  
+| bip_39_word_new_br3 | feed<br>trial<br>claw |  
+| bip_39_word_new_br4 | feed<br>trial<br>claw<br>giggle |  
+| bip_39_word_new_br5 | feed<br>trial<br>claw<br>giggle<br>velvet |  
+| bip_39_word_new_br6 | feed<br>trial<br>claw<br>giggle<br>velvet<br>wait |  
+| bip_39_word_new_br7 | feed<br>trial<br>claw<br>giggle<br>velvet<br>wait<br>swim |  
+| bip_39_word_new_br8 | feed<br>trial<br>claw<br>giggle<br>velvet<br>wait<br>swim<br>document |  
+| bip_39_word_new_br9 | feed<br>trial<br>claw<br>giggle<br>velvet<br>wait<br>swim<br>document<br>ride |  
+| bip_39_word_new_line1 | feed |  
+| bip_39_word_new_line10 | feed
+trial
+claw
+giggle
+velvet
+wait
+swim
+document
+ride
+crystal |  
+| bip_39_word_new_line11 | feed
+trial
+claw
+giggle
+velvet
+wait
+swim
+document
+ride
+crystal
+pilot |  
+| bip_39_word_new_line12 | feed
+trial
+claw
+giggle
+velvet
+wait
+swim
+document
+ride
+crystal
+pilot
+about |  
+| bip_39_word_new_line2 | feed
+trial |  
+| bip_39_word_new_line3 | feed
+trial
+claw |  
+| bip_39_word_new_line4 | feed
+trial
+claw
+giggle |  
+| bip_39_word_new_line5 | feed
+trial
+claw
+giggle
+velvet |  
+| bip_39_word_new_line6 | feed
+trial
+claw
+giggle
+velvet
+wait |  
+| bip_39_word_new_line7 | feed
+trial
+claw
+giggle
+velvet
+wait
+swim |  
+| bip_39_word_new_line8 | feed
+trial
+claw
+giggle
+velvet
+wait
+swim
+document |  
+| bip_39_word_new_line9 | feed
+trial
+claw
+giggle
+velvet
+wait
+swim
+document
+ride |  
+| bip_39_word_space_0 | ['feed', 'trial', 'claw', 'giggle', 'velvet', 'wait', 'swim', 'document', 'ride', 'crystal', 'pilot', 'about'] |  
+| bip_39_word_space_1 | feed |  
+| bip_39_word_space_10 | feed trial claw giggle velvet wait swim document ride crystal |  
+| bip_39_word_space_11 | feed trial claw giggle velvet wait swim document ride crystal pilot |  
+| bip_39_word_space_12 | feed trial claw giggle velvet wait swim document ride crystal pilot about |  
+| bip_39_word_space_2 | feed trial |  
+| bip_39_word_space_3 | feed trial claw |  
+| bip_39_word_space_4 | feed trial claw giggle |  
+| bip_39_word_space_5 | feed trial claw giggle velvet |  
+| bip_39_word_space_6 | feed trial claw giggle velvet wait |  
+| bip_39_word_space_7 | feed trial claw giggle velvet wait swim |  
+| bip_39_word_space_8 | feed trial claw giggle velvet wait swim document |  
+| bip_39_word_space_9 | feed trial claw giggle velvet wait swim document ride |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

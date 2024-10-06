@@ -1,3 +1,187 @@
+bip_39_word_new_br1: omit
+bip_39_word_new_br10: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur<br>wine<br>lobster<br>mechanic<br>anxiety
+bip_39_word_new_br11: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur<br>wine<br>lobster<br>mechanic<br>anxiety<br>desk
+bip_39_word_new_br12: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur<br>wine<br>lobster<br>mechanic<br>anxiety<br>desk<br>anger
+bip_39_word_new_br2: omit<br>truly
+bip_39_word_new_br3: omit<br>truly<br>measure
+bip_39_word_new_br4: omit<br>truly<br>measure<br>awful
+bip_39_word_new_br5: omit<br>truly<br>measure<br>awful<br>solve
+bip_39_word_new_br6: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur
+bip_39_word_new_br7: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur<br>wine
+bip_39_word_new_br8: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur<br>wine<br>lobster
+bip_39_word_new_br9: omit<br>truly<br>measure<br>awful<br>solve<br>dinosaur<br>wine<br>lobster<br>mechanic
+bip_39_word_new_line1: omit
+bip_39_word_new_line10: 'omit
+
+  truly
+
+  measure
+
+  awful
+
+  solve
+
+  dinosaur
+
+  wine
+
+  lobster
+
+  mechanic
+
+  anxiety'
+bip_39_word_new_line11: 'omit
+
+  truly
+
+  measure
+
+  awful
+
+  solve
+
+  dinosaur
+
+  wine
+
+  lobster
+
+  mechanic
+
+  anxiety
+
+  desk'
+bip_39_word_new_line12: 'omit
+
+  truly
+
+  measure
+
+  awful
+
+  solve
+
+  dinosaur
+
+  wine
+
+  lobster
+
+  mechanic
+
+  anxiety
+
+  desk
+
+  anger'
+bip_39_word_new_line2: 'omit
+
+  truly'
+bip_39_word_new_line3: 'omit
+
+  truly
+
+  measure'
+bip_39_word_new_line4: 'omit
+
+  truly
+
+  measure
+
+  awful'
+bip_39_word_new_line5: 'omit
+
+  truly
+
+  measure
+
+  awful
+
+  solve'
+bip_39_word_new_line6: 'omit
+
+  truly
+
+  measure
+
+  awful
+
+  solve
+
+  dinosaur'
+bip_39_word_new_line7: 'omit
+
+  truly
+
+  measure
+
+  awful
+
+  solve
+
+  dinosaur
+
+  wine'
+bip_39_word_new_line8: 'omit
+
+  truly
+
+  measure
+
+  awful
+
+  solve
+
+  dinosaur
+
+  wine
+
+  lobster'
+bip_39_word_new_line9: 'omit
+
+  truly
+
+  measure
+
+  awful
+
+  solve
+
+  dinosaur
+
+  wine
+
+  lobster
+
+  mechanic'
+bip_39_word_space_0:
+- omit
+- truly
+- measure
+- awful
+- solve
+- dinosaur
+- wine
+- lobster
+- mechanic
+- anxiety
+- desk
+- anger
+bip_39_word_space_1: omit
+bip_39_word_space_10: omit truly measure awful solve dinosaur wine lobster mechanic
+  anxiety
+bip_39_word_space_11: omit truly measure awful solve dinosaur wine lobster mechanic
+  anxiety desk
+bip_39_word_space_12: omit truly measure awful solve dinosaur wine lobster mechanic
+  anxiety desk anger
+bip_39_word_space_2: omit truly
+bip_39_word_space_3: omit truly measure
+bip_39_word_space_4: omit truly measure awful
+bip_39_word_space_5: omit truly measure awful solve
+bip_39_word_space_6: omit truly measure awful solve dinosaur
+bip_39_word_space_7: omit truly measure awful solve dinosaur wine
+bip_39_word_space_8: omit truly measure awful solve dinosaur wine lobster
+bip_39_word_space_9: omit truly measure awful solve dinosaur wine lobster mechanic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

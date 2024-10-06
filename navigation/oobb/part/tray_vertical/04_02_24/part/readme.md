@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unfold matrix
+  * bip 39 word 3: unfold matrix danger
+  * bip 39 word: unfold matrix danger donor prize stay ozone doll sea plastic seed allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unfold |  
+| bip_39_word_new_br10 | unfold<br>matrix<br>danger<br>donor<br>prize<br>stay<br>ozone<br>doll<br>sea<br>plastic |  
+| bip_39_word_new_br11 | unfold<br>matrix<br>danger<br>donor<br>prize<br>stay<br>ozone<br>doll<br>sea<br>plastic<br>seed |  
+| bip_39_word_new_br12 | unfold<br>matrix<br>danger<br>donor<br>prize<br>stay<br>ozone<br>doll<br>sea<br>plastic<br>seed<br>allow |  
+| bip_39_word_new_br2 | unfold<br>matrix |  
+| bip_39_word_new_br3 | unfold<br>matrix<br>danger |  
+| bip_39_word_new_br4 | unfold<br>matrix<br>danger<br>donor |  
+| bip_39_word_new_br5 | unfold<br>matrix<br>danger<br>donor<br>prize |  
+| bip_39_word_new_br6 | unfold<br>matrix<br>danger<br>donor<br>prize<br>stay |  
+| bip_39_word_new_br7 | unfold<br>matrix<br>danger<br>donor<br>prize<br>stay<br>ozone |  
+| bip_39_word_new_br8 | unfold<br>matrix<br>danger<br>donor<br>prize<br>stay<br>ozone<br>doll |  
+| bip_39_word_new_br9 | unfold<br>matrix<br>danger<br>donor<br>prize<br>stay<br>ozone<br>doll<br>sea |  
+| bip_39_word_new_line1 | unfold |  
+| bip_39_word_new_line10 | unfold
+matrix
+danger
+donor
+prize
+stay
+ozone
+doll
+sea
+plastic |  
+| bip_39_word_new_line11 | unfold
+matrix
+danger
+donor
+prize
+stay
+ozone
+doll
+sea
+plastic
+seed |  
+| bip_39_word_new_line12 | unfold
+matrix
+danger
+donor
+prize
+stay
+ozone
+doll
+sea
+plastic
+seed
+allow |  
+| bip_39_word_new_line2 | unfold
+matrix |  
+| bip_39_word_new_line3 | unfold
+matrix
+danger |  
+| bip_39_word_new_line4 | unfold
+matrix
+danger
+donor |  
+| bip_39_word_new_line5 | unfold
+matrix
+danger
+donor
+prize |  
+| bip_39_word_new_line6 | unfold
+matrix
+danger
+donor
+prize
+stay |  
+| bip_39_word_new_line7 | unfold
+matrix
+danger
+donor
+prize
+stay
+ozone |  
+| bip_39_word_new_line8 | unfold
+matrix
+danger
+donor
+prize
+stay
+ozone
+doll |  
+| bip_39_word_new_line9 | unfold
+matrix
+danger
+donor
+prize
+stay
+ozone
+doll
+sea |  
+| bip_39_word_space_0 | ['unfold', 'matrix', 'danger', 'donor', 'prize', 'stay', 'ozone', 'doll', 'sea', 'plastic', 'seed', 'allow'] |  
+| bip_39_word_space_1 | unfold |  
+| bip_39_word_space_10 | unfold matrix danger donor prize stay ozone doll sea plastic |  
+| bip_39_word_space_11 | unfold matrix danger donor prize stay ozone doll sea plastic seed |  
+| bip_39_word_space_12 | unfold matrix danger donor prize stay ozone doll sea plastic seed allow |  
+| bip_39_word_space_2 | unfold matrix |  
+| bip_39_word_space_3 | unfold matrix danger |  
+| bip_39_word_space_4 | unfold matrix danger donor |  
+| bip_39_word_space_5 | unfold matrix danger donor prize |  
+| bip_39_word_space_6 | unfold matrix danger donor prize stay |  
+| bip_39_word_space_7 | unfold matrix danger donor prize stay ozone |  
+| bip_39_word_space_8 | unfold matrix danger donor prize stay ozone doll |  
+| bip_39_word_space_9 | unfold matrix danger donor prize stay ozone doll sea |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

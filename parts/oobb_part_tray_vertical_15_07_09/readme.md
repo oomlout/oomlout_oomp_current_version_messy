@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ill brain
+  * bip 39 word 3: ill brain dizzy
+  * bip 39 word: ill brain dizzy depth gym polar ticket merit tree icon skirt actual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ill |  
+| bip_39_word_new_br10 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon |  
+| bip_39_word_new_br11 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon<br>skirt |  
+| bip_39_word_new_br12 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree<br>icon<br>skirt<br>actual |  
+| bip_39_word_new_br2 | ill<br>brain |  
+| bip_39_word_new_br3 | ill<br>brain<br>dizzy |  
+| bip_39_word_new_br4 | ill<br>brain<br>dizzy<br>depth |  
+| bip_39_word_new_br5 | ill<br>brain<br>dizzy<br>depth<br>gym |  
+| bip_39_word_new_br6 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar |  
+| bip_39_word_new_br7 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket |  
+| bip_39_word_new_br8 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit |  
+| bip_39_word_new_br9 | ill<br>brain<br>dizzy<br>depth<br>gym<br>polar<br>ticket<br>merit<br>tree |  
+| bip_39_word_new_line1 | ill |  
+| bip_39_word_new_line10 | ill
+brain
+dizzy
+depth
+gym
+polar
+ticket
+merit
+tree
+icon |  
+| bip_39_word_new_line11 | ill
+brain
+dizzy
+depth
+gym
+polar
+ticket
+merit
+tree
+icon
+skirt |  
+| bip_39_word_new_line12 | ill
+brain
+dizzy
+depth
+gym
+polar
+ticket
+merit
+tree
+icon
+skirt
+actual |  
+| bip_39_word_new_line2 | ill
+brain |  
+| bip_39_word_new_line3 | ill
+brain
+dizzy |  
+| bip_39_word_new_line4 | ill
+brain
+dizzy
+depth |  
+| bip_39_word_new_line5 | ill
+brain
+dizzy
+depth
+gym |  
+| bip_39_word_new_line6 | ill
+brain
+dizzy
+depth
+gym
+polar |  
+| bip_39_word_new_line7 | ill
+brain
+dizzy
+depth
+gym
+polar
+ticket |  
+| bip_39_word_new_line8 | ill
+brain
+dizzy
+depth
+gym
+polar
+ticket
+merit |  
+| bip_39_word_new_line9 | ill
+brain
+dizzy
+depth
+gym
+polar
+ticket
+merit
+tree |  
+| bip_39_word_space_0 | ['ill', 'brain', 'dizzy', 'depth', 'gym', 'polar', 'ticket', 'merit', 'tree', 'icon', 'skirt', 'actual'] |  
+| bip_39_word_space_1 | ill |  
+| bip_39_word_space_10 | ill brain dizzy depth gym polar ticket merit tree icon |  
+| bip_39_word_space_11 | ill brain dizzy depth gym polar ticket merit tree icon skirt |  
+| bip_39_word_space_12 | ill brain dizzy depth gym polar ticket merit tree icon skirt actual |  
+| bip_39_word_space_2 | ill brain |  
+| bip_39_word_space_3 | ill brain dizzy |  
+| bip_39_word_space_4 | ill brain dizzy depth |  
+| bip_39_word_space_5 | ill brain dizzy depth gym |  
+| bip_39_word_space_6 | ill brain dizzy depth gym polar |  
+| bip_39_word_space_7 | ill brain dizzy depth gym polar ticket |  
+| bip_39_word_space_8 | ill brain dizzy depth gym polar ticket merit |  
+| bip_39_word_space_9 | ill brain dizzy depth gym polar ticket merit tree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

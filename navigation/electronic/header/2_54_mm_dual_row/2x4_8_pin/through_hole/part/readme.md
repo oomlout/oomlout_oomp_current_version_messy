@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: novel movie
+  * bip 39 word 3: novel movie witness
+  * bip 39 word: novel movie witness phrase foam foam zebra track elbow guilt manual attitude
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | novel |  
+| bip_39_word_new_br10 | novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track<br>elbow<br>guilt |  
+| bip_39_word_new_br11 | novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track<br>elbow<br>guilt<br>manual |  
+| bip_39_word_new_br12 | novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track<br>elbow<br>guilt<br>manual<br>attitude |  
+| bip_39_word_new_br2 | novel<br>movie |  
+| bip_39_word_new_br3 | novel<br>movie<br>witness |  
+| bip_39_word_new_br4 | novel<br>movie<br>witness<br>phrase |  
+| bip_39_word_new_br5 | novel<br>movie<br>witness<br>phrase<br>foam |  
+| bip_39_word_new_br6 | novel<br>movie<br>witness<br>phrase<br>foam<br>foam |  
+| bip_39_word_new_br7 | novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra |  
+| bip_39_word_new_br8 | novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track |  
+| bip_39_word_new_br9 | novel<br>movie<br>witness<br>phrase<br>foam<br>foam<br>zebra<br>track<br>elbow |  
+| bip_39_word_new_line1 | novel |  
+| bip_39_word_new_line10 | novel
+movie
+witness
+phrase
+foam
+foam
+zebra
+track
+elbow
+guilt |  
+| bip_39_word_new_line11 | novel
+movie
+witness
+phrase
+foam
+foam
+zebra
+track
+elbow
+guilt
+manual |  
+| bip_39_word_new_line12 | novel
+movie
+witness
+phrase
+foam
+foam
+zebra
+track
+elbow
+guilt
+manual
+attitude |  
+| bip_39_word_new_line2 | novel
+movie |  
+| bip_39_word_new_line3 | novel
+movie
+witness |  
+| bip_39_word_new_line4 | novel
+movie
+witness
+phrase |  
+| bip_39_word_new_line5 | novel
+movie
+witness
+phrase
+foam |  
+| bip_39_word_new_line6 | novel
+movie
+witness
+phrase
+foam
+foam |  
+| bip_39_word_new_line7 | novel
+movie
+witness
+phrase
+foam
+foam
+zebra |  
+| bip_39_word_new_line8 | novel
+movie
+witness
+phrase
+foam
+foam
+zebra
+track |  
+| bip_39_word_new_line9 | novel
+movie
+witness
+phrase
+foam
+foam
+zebra
+track
+elbow |  
+| bip_39_word_space_0 | ['novel', 'movie', 'witness', 'phrase', 'foam', 'foam', 'zebra', 'track', 'elbow', 'guilt', 'manual', 'attitude'] |  
+| bip_39_word_space_1 | novel |  
+| bip_39_word_space_10 | novel movie witness phrase foam foam zebra track elbow guilt |  
+| bip_39_word_space_11 | novel movie witness phrase foam foam zebra track elbow guilt manual |  
+| bip_39_word_space_12 | novel movie witness phrase foam foam zebra track elbow guilt manual attitude |  
+| bip_39_word_space_2 | novel movie |  
+| bip_39_word_space_3 | novel movie witness |  
+| bip_39_word_space_4 | novel movie witness phrase |  
+| bip_39_word_space_5 | novel movie witness phrase foam |  
+| bip_39_word_space_6 | novel movie witness phrase foam foam |  
+| bip_39_word_space_7 | novel movie witness phrase foam foam zebra |  
+| bip_39_word_space_8 | novel movie witness phrase foam foam zebra track |  
+| bip_39_word_space_9 | novel movie witness phrase foam foam zebra track elbow |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

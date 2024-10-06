@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sort
+bip_39_word_new_br10: sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep<br>opinion<br>inject<br>oven
+bip_39_word_new_br11: sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep<br>opinion<br>inject<br>oven<br>foster
+bip_39_word_new_br12: sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep<br>opinion<br>inject<br>oven<br>foster<br>allow
+bip_39_word_new_br2: sort<br>veteran
+bip_39_word_new_br3: sort<br>veteran<br>indicate
+bip_39_word_new_br4: sort<br>veteran<br>indicate<br>play
+bip_39_word_new_br5: sort<br>veteran<br>indicate<br>play<br>behind
+bip_39_word_new_br6: sort<br>veteran<br>indicate<br>play<br>behind<br>rice
+bip_39_word_new_br7: sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep
+bip_39_word_new_br8: sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep<br>opinion
+bip_39_word_new_br9: sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep<br>opinion<br>inject
+bip_39_word_new_line1: sort
+bip_39_word_new_line10: 'sort
+
+  veteran
+
+  indicate
+
+  play
+
+  behind
+
+  rice
+
+  keep
+
+  opinion
+
+  inject
+
+  oven'
+bip_39_word_new_line11: 'sort
+
+  veteran
+
+  indicate
+
+  play
+
+  behind
+
+  rice
+
+  keep
+
+  opinion
+
+  inject
+
+  oven
+
+  foster'
+bip_39_word_new_line12: 'sort
+
+  veteran
+
+  indicate
+
+  play
+
+  behind
+
+  rice
+
+  keep
+
+  opinion
+
+  inject
+
+  oven
+
+  foster
+
+  allow'
+bip_39_word_new_line2: 'sort
+
+  veteran'
+bip_39_word_new_line3: 'sort
+
+  veteran
+
+  indicate'
+bip_39_word_new_line4: 'sort
+
+  veteran
+
+  indicate
+
+  play'
+bip_39_word_new_line5: 'sort
+
+  veteran
+
+  indicate
+
+  play
+
+  behind'
+bip_39_word_new_line6: 'sort
+
+  veteran
+
+  indicate
+
+  play
+
+  behind
+
+  rice'
+bip_39_word_new_line7: 'sort
+
+  veteran
+
+  indicate
+
+  play
+
+  behind
+
+  rice
+
+  keep'
+bip_39_word_new_line8: 'sort
+
+  veteran
+
+  indicate
+
+  play
+
+  behind
+
+  rice
+
+  keep
+
+  opinion'
+bip_39_word_new_line9: 'sort
+
+  veteran
+
+  indicate
+
+  play
+
+  behind
+
+  rice
+
+  keep
+
+  opinion
+
+  inject'
+bip_39_word_space_0:
+- sort
+- veteran
+- indicate
+- play
+- behind
+- rice
+- keep
+- opinion
+- inject
+- oven
+- foster
+- allow
+bip_39_word_space_1: sort
+bip_39_word_space_10: sort veteran indicate play behind rice keep opinion inject oven
+bip_39_word_space_11: sort veteran indicate play behind rice keep opinion inject oven
+  foster
+bip_39_word_space_12: sort veteran indicate play behind rice keep opinion inject oven
+  foster allow
+bip_39_word_space_2: sort veteran
+bip_39_word_space_3: sort veteran indicate
+bip_39_word_space_4: sort veteran indicate play
+bip_39_word_space_5: sort veteran indicate play behind
+bip_39_word_space_6: sort veteran indicate play behind rice
+bip_39_word_space_7: sort veteran indicate play behind rice keep
+bip_39_word_space_8: sort veteran indicate play behind rice keep opinion
+bip_39_word_space_9: sort veteran indicate play behind rice keep opinion inject
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

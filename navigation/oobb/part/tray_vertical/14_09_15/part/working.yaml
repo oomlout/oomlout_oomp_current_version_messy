@@ -1,3 +1,186 @@
+bip_39_word_new_br1: spray
+bip_39_word_new_br10: spray<br>security<br>input<br>firm<br>range<br>prize<br>slender<br>cube<br>length<br>loop
+bip_39_word_new_br11: spray<br>security<br>input<br>firm<br>range<br>prize<br>slender<br>cube<br>length<br>loop<br>tourist
+bip_39_word_new_br12: spray<br>security<br>input<br>firm<br>range<br>prize<br>slender<br>cube<br>length<br>loop<br>tourist<br>august
+bip_39_word_new_br2: spray<br>security
+bip_39_word_new_br3: spray<br>security<br>input
+bip_39_word_new_br4: spray<br>security<br>input<br>firm
+bip_39_word_new_br5: spray<br>security<br>input<br>firm<br>range
+bip_39_word_new_br6: spray<br>security<br>input<br>firm<br>range<br>prize
+bip_39_word_new_br7: spray<br>security<br>input<br>firm<br>range<br>prize<br>slender
+bip_39_word_new_br8: spray<br>security<br>input<br>firm<br>range<br>prize<br>slender<br>cube
+bip_39_word_new_br9: spray<br>security<br>input<br>firm<br>range<br>prize<br>slender<br>cube<br>length
+bip_39_word_new_line1: spray
+bip_39_word_new_line10: 'spray
+
+  security
+
+  input
+
+  firm
+
+  range
+
+  prize
+
+  slender
+
+  cube
+
+  length
+
+  loop'
+bip_39_word_new_line11: 'spray
+
+  security
+
+  input
+
+  firm
+
+  range
+
+  prize
+
+  slender
+
+  cube
+
+  length
+
+  loop
+
+  tourist'
+bip_39_word_new_line12: 'spray
+
+  security
+
+  input
+
+  firm
+
+  range
+
+  prize
+
+  slender
+
+  cube
+
+  length
+
+  loop
+
+  tourist
+
+  august'
+bip_39_word_new_line2: 'spray
+
+  security'
+bip_39_word_new_line3: 'spray
+
+  security
+
+  input'
+bip_39_word_new_line4: 'spray
+
+  security
+
+  input
+
+  firm'
+bip_39_word_new_line5: 'spray
+
+  security
+
+  input
+
+  firm
+
+  range'
+bip_39_word_new_line6: 'spray
+
+  security
+
+  input
+
+  firm
+
+  range
+
+  prize'
+bip_39_word_new_line7: 'spray
+
+  security
+
+  input
+
+  firm
+
+  range
+
+  prize
+
+  slender'
+bip_39_word_new_line8: 'spray
+
+  security
+
+  input
+
+  firm
+
+  range
+
+  prize
+
+  slender
+
+  cube'
+bip_39_word_new_line9: 'spray
+
+  security
+
+  input
+
+  firm
+
+  range
+
+  prize
+
+  slender
+
+  cube
+
+  length'
+bip_39_word_space_0:
+- spray
+- security
+- input
+- firm
+- range
+- prize
+- slender
+- cube
+- length
+- loop
+- tourist
+- august
+bip_39_word_space_1: spray
+bip_39_word_space_10: spray security input firm range prize slender cube length loop
+bip_39_word_space_11: spray security input firm range prize slender cube length loop
+  tourist
+bip_39_word_space_12: spray security input firm range prize slender cube length loop
+  tourist august
+bip_39_word_space_2: spray security
+bip_39_word_space_3: spray security input
+bip_39_word_space_4: spray security input firm
+bip_39_word_space_5: spray security input firm range
+bip_39_word_space_6: spray security input firm range prize
+bip_39_word_space_7: spray security input firm range prize slender
+bip_39_word_space_8: spray security input firm range prize slender cube
+bip_39_word_space_9: spray security input firm range prize slender cube length
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

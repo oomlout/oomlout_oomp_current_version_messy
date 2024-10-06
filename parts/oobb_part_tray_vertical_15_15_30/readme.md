@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: impulse movie
+  * bip 39 word 3: impulse movie unknown
+  * bip 39 word: impulse movie unknown angry envelope mango doctor universe mobile muffin panda atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | impulse |  
+| bip_39_word_new_br10 | impulse<br>movie<br>unknown<br>angry<br>envelope<br>mango<br>doctor<br>universe<br>mobile<br>muffin |  
+| bip_39_word_new_br11 | impulse<br>movie<br>unknown<br>angry<br>envelope<br>mango<br>doctor<br>universe<br>mobile<br>muffin<br>panda |  
+| bip_39_word_new_br12 | impulse<br>movie<br>unknown<br>angry<br>envelope<br>mango<br>doctor<br>universe<br>mobile<br>muffin<br>panda<br>atom |  
+| bip_39_word_new_br2 | impulse<br>movie |  
+| bip_39_word_new_br3 | impulse<br>movie<br>unknown |  
+| bip_39_word_new_br4 | impulse<br>movie<br>unknown<br>angry |  
+| bip_39_word_new_br5 | impulse<br>movie<br>unknown<br>angry<br>envelope |  
+| bip_39_word_new_br6 | impulse<br>movie<br>unknown<br>angry<br>envelope<br>mango |  
+| bip_39_word_new_br7 | impulse<br>movie<br>unknown<br>angry<br>envelope<br>mango<br>doctor |  
+| bip_39_word_new_br8 | impulse<br>movie<br>unknown<br>angry<br>envelope<br>mango<br>doctor<br>universe |  
+| bip_39_word_new_br9 | impulse<br>movie<br>unknown<br>angry<br>envelope<br>mango<br>doctor<br>universe<br>mobile |  
+| bip_39_word_new_line1 | impulse |  
+| bip_39_word_new_line10 | impulse
+movie
+unknown
+angry
+envelope
+mango
+doctor
+universe
+mobile
+muffin |  
+| bip_39_word_new_line11 | impulse
+movie
+unknown
+angry
+envelope
+mango
+doctor
+universe
+mobile
+muffin
+panda |  
+| bip_39_word_new_line12 | impulse
+movie
+unknown
+angry
+envelope
+mango
+doctor
+universe
+mobile
+muffin
+panda
+atom |  
+| bip_39_word_new_line2 | impulse
+movie |  
+| bip_39_word_new_line3 | impulse
+movie
+unknown |  
+| bip_39_word_new_line4 | impulse
+movie
+unknown
+angry |  
+| bip_39_word_new_line5 | impulse
+movie
+unknown
+angry
+envelope |  
+| bip_39_word_new_line6 | impulse
+movie
+unknown
+angry
+envelope
+mango |  
+| bip_39_word_new_line7 | impulse
+movie
+unknown
+angry
+envelope
+mango
+doctor |  
+| bip_39_word_new_line8 | impulse
+movie
+unknown
+angry
+envelope
+mango
+doctor
+universe |  
+| bip_39_word_new_line9 | impulse
+movie
+unknown
+angry
+envelope
+mango
+doctor
+universe
+mobile |  
+| bip_39_word_space_0 | ['impulse', 'movie', 'unknown', 'angry', 'envelope', 'mango', 'doctor', 'universe', 'mobile', 'muffin', 'panda', 'atom'] |  
+| bip_39_word_space_1 | impulse |  
+| bip_39_word_space_10 | impulse movie unknown angry envelope mango doctor universe mobile muffin |  
+| bip_39_word_space_11 | impulse movie unknown angry envelope mango doctor universe mobile muffin panda |  
+| bip_39_word_space_12 | impulse movie unknown angry envelope mango doctor universe mobile muffin panda atom |  
+| bip_39_word_space_2 | impulse movie |  
+| bip_39_word_space_3 | impulse movie unknown |  
+| bip_39_word_space_4 | impulse movie unknown angry |  
+| bip_39_word_space_5 | impulse movie unknown angry envelope |  
+| bip_39_word_space_6 | impulse movie unknown angry envelope mango |  
+| bip_39_word_space_7 | impulse movie unknown angry envelope mango doctor |  
+| bip_39_word_space_8 | impulse movie unknown angry envelope mango doctor universe |  
+| bip_39_word_space_9 | impulse movie unknown angry envelope mango doctor universe mobile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clown
+bip_39_word_new_br10: clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe
+bip_39_word_new_br11: clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe<br>infant
+bip_39_word_new_br12: clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust<br>pipe<br>infant<br>actual
+bip_39_word_new_br2: clown<br>ketchup
+bip_39_word_new_br3: clown<br>ketchup<br>garbage
+bip_39_word_new_br4: clown<br>ketchup<br>garbage<br>hill
+bip_39_word_new_br5: clown<br>ketchup<br>garbage<br>hill<br>wish
+bip_39_word_new_br6: clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver
+bip_39_word_new_br7: clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn
+bip_39_word_new_br8: clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire
+bip_39_word_new_br9: clown<br>ketchup<br>garbage<br>hill<br>wish<br>shiver<br>spawn<br>acquire<br>dust
+bip_39_word_new_line1: clown
+bip_39_word_new_line10: 'clown
+
+  ketchup
+
+  garbage
+
+  hill
+
+  wish
+
+  shiver
+
+  spawn
+
+  acquire
+
+  dust
+
+  pipe'
+bip_39_word_new_line11: 'clown
+
+  ketchup
+
+  garbage
+
+  hill
+
+  wish
+
+  shiver
+
+  spawn
+
+  acquire
+
+  dust
+
+  pipe
+
+  infant'
+bip_39_word_new_line12: 'clown
+
+  ketchup
+
+  garbage
+
+  hill
+
+  wish
+
+  shiver
+
+  spawn
+
+  acquire
+
+  dust
+
+  pipe
+
+  infant
+
+  actual'
+bip_39_word_new_line2: 'clown
+
+  ketchup'
+bip_39_word_new_line3: 'clown
+
+  ketchup
+
+  garbage'
+bip_39_word_new_line4: 'clown
+
+  ketchup
+
+  garbage
+
+  hill'
+bip_39_word_new_line5: 'clown
+
+  ketchup
+
+  garbage
+
+  hill
+
+  wish'
+bip_39_word_new_line6: 'clown
+
+  ketchup
+
+  garbage
+
+  hill
+
+  wish
+
+  shiver'
+bip_39_word_new_line7: 'clown
+
+  ketchup
+
+  garbage
+
+  hill
+
+  wish
+
+  shiver
+
+  spawn'
+bip_39_word_new_line8: 'clown
+
+  ketchup
+
+  garbage
+
+  hill
+
+  wish
+
+  shiver
+
+  spawn
+
+  acquire'
+bip_39_word_new_line9: 'clown
+
+  ketchup
+
+  garbage
+
+  hill
+
+  wish
+
+  shiver
+
+  spawn
+
+  acquire
+
+  dust'
+bip_39_word_space_0:
+- clown
+- ketchup
+- garbage
+- hill
+- wish
+- shiver
+- spawn
+- acquire
+- dust
+- pipe
+- infant
+- actual
+bip_39_word_space_1: clown
+bip_39_word_space_10: clown ketchup garbage hill wish shiver spawn acquire dust pipe
+bip_39_word_space_11: clown ketchup garbage hill wish shiver spawn acquire dust pipe
+  infant
+bip_39_word_space_12: clown ketchup garbage hill wish shiver spawn acquire dust pipe
+  infant actual
+bip_39_word_space_2: clown ketchup
+bip_39_word_space_3: clown ketchup garbage
+bip_39_word_space_4: clown ketchup garbage hill
+bip_39_word_space_5: clown ketchup garbage hill wish
+bip_39_word_space_6: clown ketchup garbage hill wish shiver
+bip_39_word_space_7: clown ketchup garbage hill wish shiver spawn
+bip_39_word_space_8: clown ketchup garbage hill wish shiver spawn acquire
+bip_39_word_space_9: clown ketchup garbage hill wish shiver spawn acquire dust
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

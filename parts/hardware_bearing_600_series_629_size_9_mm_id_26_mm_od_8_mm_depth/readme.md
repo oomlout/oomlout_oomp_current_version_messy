@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: warm nut
+  * bip 39 word 3: warm nut visit
+  * bip 39 word: warm nut visit jeans radar door minor eye flush town turn appear
 
 ### other_codes
 * short_code: br629
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | warm |  
+| bip_39_word_new_br10 | warm<br>nut<br>visit<br>jeans<br>radar<br>door<br>minor<br>eye<br>flush<br>town |  
+| bip_39_word_new_br11 | warm<br>nut<br>visit<br>jeans<br>radar<br>door<br>minor<br>eye<br>flush<br>town<br>turn |  
+| bip_39_word_new_br12 | warm<br>nut<br>visit<br>jeans<br>radar<br>door<br>minor<br>eye<br>flush<br>town<br>turn<br>appear |  
+| bip_39_word_new_br2 | warm<br>nut |  
+| bip_39_word_new_br3 | warm<br>nut<br>visit |  
+| bip_39_word_new_br4 | warm<br>nut<br>visit<br>jeans |  
+| bip_39_word_new_br5 | warm<br>nut<br>visit<br>jeans<br>radar |  
+| bip_39_word_new_br6 | warm<br>nut<br>visit<br>jeans<br>radar<br>door |  
+| bip_39_word_new_br7 | warm<br>nut<br>visit<br>jeans<br>radar<br>door<br>minor |  
+| bip_39_word_new_br8 | warm<br>nut<br>visit<br>jeans<br>radar<br>door<br>minor<br>eye |  
+| bip_39_word_new_br9 | warm<br>nut<br>visit<br>jeans<br>radar<br>door<br>minor<br>eye<br>flush |  
+| bip_39_word_new_line1 | warm |  
+| bip_39_word_new_line10 | warm
+nut
+visit
+jeans
+radar
+door
+minor
+eye
+flush
+town |  
+| bip_39_word_new_line11 | warm
+nut
+visit
+jeans
+radar
+door
+minor
+eye
+flush
+town
+turn |  
+| bip_39_word_new_line12 | warm
+nut
+visit
+jeans
+radar
+door
+minor
+eye
+flush
+town
+turn
+appear |  
+| bip_39_word_new_line2 | warm
+nut |  
+| bip_39_word_new_line3 | warm
+nut
+visit |  
+| bip_39_word_new_line4 | warm
+nut
+visit
+jeans |  
+| bip_39_word_new_line5 | warm
+nut
+visit
+jeans
+radar |  
+| bip_39_word_new_line6 | warm
+nut
+visit
+jeans
+radar
+door |  
+| bip_39_word_new_line7 | warm
+nut
+visit
+jeans
+radar
+door
+minor |  
+| bip_39_word_new_line8 | warm
+nut
+visit
+jeans
+radar
+door
+minor
+eye |  
+| bip_39_word_new_line9 | warm
+nut
+visit
+jeans
+radar
+door
+minor
+eye
+flush |  
+| bip_39_word_space_0 | ['warm', 'nut', 'visit', 'jeans', 'radar', 'door', 'minor', 'eye', 'flush', 'town', 'turn', 'appear'] |  
+| bip_39_word_space_1 | warm |  
+| bip_39_word_space_10 | warm nut visit jeans radar door minor eye flush town |  
+| bip_39_word_space_11 | warm nut visit jeans radar door minor eye flush town turn |  
+| bip_39_word_space_12 | warm nut visit jeans radar door minor eye flush town turn appear |  
+| bip_39_word_space_2 | warm nut |  
+| bip_39_word_space_3 | warm nut visit |  
+| bip_39_word_space_4 | warm nut visit jeans |  
+| bip_39_word_space_5 | warm nut visit jeans radar |  
+| bip_39_word_space_6 | warm nut visit jeans radar door |  
+| bip_39_word_space_7 | warm nut visit jeans radar door minor |  
+| bip_39_word_space_8 | warm nut visit jeans radar door minor eye |  
+| bip_39_word_space_9 | warm nut visit jeans radar door minor eye flush |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

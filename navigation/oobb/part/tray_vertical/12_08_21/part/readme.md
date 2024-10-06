@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: barrel social
+  * bip 39 word 3: barrel social insane
+  * bip 39 word: barrel social insane strong lesson abuse dove advance fragile ecology imitate adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | barrel |  
+| bip_39_word_new_br10 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse<br>dove<br>advance<br>fragile<br>ecology |  
+| bip_39_word_new_br11 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse<br>dove<br>advance<br>fragile<br>ecology<br>imitate |  
+| bip_39_word_new_br12 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse<br>dove<br>advance<br>fragile<br>ecology<br>imitate<br>adult |  
+| bip_39_word_new_br2 | barrel<br>social |  
+| bip_39_word_new_br3 | barrel<br>social<br>insane |  
+| bip_39_word_new_br4 | barrel<br>social<br>insane<br>strong |  
+| bip_39_word_new_br5 | barrel<br>social<br>insane<br>strong<br>lesson |  
+| bip_39_word_new_br6 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse |  
+| bip_39_word_new_br7 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse<br>dove |  
+| bip_39_word_new_br8 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse<br>dove<br>advance |  
+| bip_39_word_new_br9 | barrel<br>social<br>insane<br>strong<br>lesson<br>abuse<br>dove<br>advance<br>fragile |  
+| bip_39_word_new_line1 | barrel |  
+| bip_39_word_new_line10 | barrel
+social
+insane
+strong
+lesson
+abuse
+dove
+advance
+fragile
+ecology |  
+| bip_39_word_new_line11 | barrel
+social
+insane
+strong
+lesson
+abuse
+dove
+advance
+fragile
+ecology
+imitate |  
+| bip_39_word_new_line12 | barrel
+social
+insane
+strong
+lesson
+abuse
+dove
+advance
+fragile
+ecology
+imitate
+adult |  
+| bip_39_word_new_line2 | barrel
+social |  
+| bip_39_word_new_line3 | barrel
+social
+insane |  
+| bip_39_word_new_line4 | barrel
+social
+insane
+strong |  
+| bip_39_word_new_line5 | barrel
+social
+insane
+strong
+lesson |  
+| bip_39_word_new_line6 | barrel
+social
+insane
+strong
+lesson
+abuse |  
+| bip_39_word_new_line7 | barrel
+social
+insane
+strong
+lesson
+abuse
+dove |  
+| bip_39_word_new_line8 | barrel
+social
+insane
+strong
+lesson
+abuse
+dove
+advance |  
+| bip_39_word_new_line9 | barrel
+social
+insane
+strong
+lesson
+abuse
+dove
+advance
+fragile |  
+| bip_39_word_space_0 | ['barrel', 'social', 'insane', 'strong', 'lesson', 'abuse', 'dove', 'advance', 'fragile', 'ecology', 'imitate', 'adult'] |  
+| bip_39_word_space_1 | barrel |  
+| bip_39_word_space_10 | barrel social insane strong lesson abuse dove advance fragile ecology |  
+| bip_39_word_space_11 | barrel social insane strong lesson abuse dove advance fragile ecology imitate |  
+| bip_39_word_space_12 | barrel social insane strong lesson abuse dove advance fragile ecology imitate adult |  
+| bip_39_word_space_2 | barrel social |  
+| bip_39_word_space_3 | barrel social insane |  
+| bip_39_word_space_4 | barrel social insane strong |  
+| bip_39_word_space_5 | barrel social insane strong lesson |  
+| bip_39_word_space_6 | barrel social insane strong lesson abuse |  
+| bip_39_word_space_7 | barrel social insane strong lesson abuse dove |  
+| bip_39_word_space_8 | barrel social insane strong lesson abuse dove advance |  
+| bip_39_word_space_9 | barrel social insane strong lesson abuse dove advance fragile |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

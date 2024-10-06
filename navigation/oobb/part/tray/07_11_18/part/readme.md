@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: uncover junior
+  * bip 39 word 3: uncover junior wrist
+  * bip 39 word: uncover junior wrist silver hotel camera shoe victory eagle beef pass adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | uncover |  
+| bip_39_word_new_br10 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle<br>beef |  
+| bip_39_word_new_br11 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle<br>beef<br>pass |  
+| bip_39_word_new_br12 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle<br>beef<br>pass<br>adult |  
+| bip_39_word_new_br2 | uncover<br>junior |  
+| bip_39_word_new_br3 | uncover<br>junior<br>wrist |  
+| bip_39_word_new_br4 | uncover<br>junior<br>wrist<br>silver |  
+| bip_39_word_new_br5 | uncover<br>junior<br>wrist<br>silver<br>hotel |  
+| bip_39_word_new_br6 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera |  
+| bip_39_word_new_br7 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe |  
+| bip_39_word_new_br8 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory |  
+| bip_39_word_new_br9 | uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle |  
+| bip_39_word_new_line1 | uncover |  
+| bip_39_word_new_line10 | uncover
+junior
+wrist
+silver
+hotel
+camera
+shoe
+victory
+eagle
+beef |  
+| bip_39_word_new_line11 | uncover
+junior
+wrist
+silver
+hotel
+camera
+shoe
+victory
+eagle
+beef
+pass |  
+| bip_39_word_new_line12 | uncover
+junior
+wrist
+silver
+hotel
+camera
+shoe
+victory
+eagle
+beef
+pass
+adult |  
+| bip_39_word_new_line2 | uncover
+junior |  
+| bip_39_word_new_line3 | uncover
+junior
+wrist |  
+| bip_39_word_new_line4 | uncover
+junior
+wrist
+silver |  
+| bip_39_word_new_line5 | uncover
+junior
+wrist
+silver
+hotel |  
+| bip_39_word_new_line6 | uncover
+junior
+wrist
+silver
+hotel
+camera |  
+| bip_39_word_new_line7 | uncover
+junior
+wrist
+silver
+hotel
+camera
+shoe |  
+| bip_39_word_new_line8 | uncover
+junior
+wrist
+silver
+hotel
+camera
+shoe
+victory |  
+| bip_39_word_new_line9 | uncover
+junior
+wrist
+silver
+hotel
+camera
+shoe
+victory
+eagle |  
+| bip_39_word_space_0 | ['uncover', 'junior', 'wrist', 'silver', 'hotel', 'camera', 'shoe', 'victory', 'eagle', 'beef', 'pass', 'adult'] |  
+| bip_39_word_space_1 | uncover |  
+| bip_39_word_space_10 | uncover junior wrist silver hotel camera shoe victory eagle beef |  
+| bip_39_word_space_11 | uncover junior wrist silver hotel camera shoe victory eagle beef pass |  
+| bip_39_word_space_12 | uncover junior wrist silver hotel camera shoe victory eagle beef pass adult |  
+| bip_39_word_space_2 | uncover junior |  
+| bip_39_word_space_3 | uncover junior wrist |  
+| bip_39_word_space_4 | uncover junior wrist silver |  
+| bip_39_word_space_5 | uncover junior wrist silver hotel |  
+| bip_39_word_space_6 | uncover junior wrist silver hotel camera |  
+| bip_39_word_space_7 | uncover junior wrist silver hotel camera shoe |  
+| bip_39_word_space_8 | uncover junior wrist silver hotel camera shoe victory |  
+| bip_39_word_space_9 | uncover junior wrist silver hotel camera shoe victory eagle |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

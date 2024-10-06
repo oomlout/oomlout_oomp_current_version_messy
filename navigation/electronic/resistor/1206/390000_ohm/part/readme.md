@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crouch discover
+  * bip 39 word 3: crouch discover tag
+  * bip 39 word: crouch discover tag then blade assist human sponsor aisle select federal arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crouch |  
+| bip_39_word_new_br10 | crouch<br>discover<br>tag<br>then<br>blade<br>assist<br>human<br>sponsor<br>aisle<br>select |  
+| bip_39_word_new_br11 | crouch<br>discover<br>tag<br>then<br>blade<br>assist<br>human<br>sponsor<br>aisle<br>select<br>federal |  
+| bip_39_word_new_br12 | crouch<br>discover<br>tag<br>then<br>blade<br>assist<br>human<br>sponsor<br>aisle<br>select<br>federal<br>arrange |  
+| bip_39_word_new_br2 | crouch<br>discover |  
+| bip_39_word_new_br3 | crouch<br>discover<br>tag |  
+| bip_39_word_new_br4 | crouch<br>discover<br>tag<br>then |  
+| bip_39_word_new_br5 | crouch<br>discover<br>tag<br>then<br>blade |  
+| bip_39_word_new_br6 | crouch<br>discover<br>tag<br>then<br>blade<br>assist |  
+| bip_39_word_new_br7 | crouch<br>discover<br>tag<br>then<br>blade<br>assist<br>human |  
+| bip_39_word_new_br8 | crouch<br>discover<br>tag<br>then<br>blade<br>assist<br>human<br>sponsor |  
+| bip_39_word_new_br9 | crouch<br>discover<br>tag<br>then<br>blade<br>assist<br>human<br>sponsor<br>aisle |  
+| bip_39_word_new_line1 | crouch |  
+| bip_39_word_new_line10 | crouch
+discover
+tag
+then
+blade
+assist
+human
+sponsor
+aisle
+select |  
+| bip_39_word_new_line11 | crouch
+discover
+tag
+then
+blade
+assist
+human
+sponsor
+aisle
+select
+federal |  
+| bip_39_word_new_line12 | crouch
+discover
+tag
+then
+blade
+assist
+human
+sponsor
+aisle
+select
+federal
+arrange |  
+| bip_39_word_new_line2 | crouch
+discover |  
+| bip_39_word_new_line3 | crouch
+discover
+tag |  
+| bip_39_word_new_line4 | crouch
+discover
+tag
+then |  
+| bip_39_word_new_line5 | crouch
+discover
+tag
+then
+blade |  
+| bip_39_word_new_line6 | crouch
+discover
+tag
+then
+blade
+assist |  
+| bip_39_word_new_line7 | crouch
+discover
+tag
+then
+blade
+assist
+human |  
+| bip_39_word_new_line8 | crouch
+discover
+tag
+then
+blade
+assist
+human
+sponsor |  
+| bip_39_word_new_line9 | crouch
+discover
+tag
+then
+blade
+assist
+human
+sponsor
+aisle |  
+| bip_39_word_space_0 | ['crouch', 'discover', 'tag', 'then', 'blade', 'assist', 'human', 'sponsor', 'aisle', 'select', 'federal', 'arrange'] |  
+| bip_39_word_space_1 | crouch |  
+| bip_39_word_space_10 | crouch discover tag then blade assist human sponsor aisle select |  
+| bip_39_word_space_11 | crouch discover tag then blade assist human sponsor aisle select federal |  
+| bip_39_word_space_12 | crouch discover tag then blade assist human sponsor aisle select federal arrange |  
+| bip_39_word_space_2 | crouch discover |  
+| bip_39_word_space_3 | crouch discover tag |  
+| bip_39_word_space_4 | crouch discover tag then |  
+| bip_39_word_space_5 | crouch discover tag then blade |  
+| bip_39_word_space_6 | crouch discover tag then blade assist |  
+| bip_39_word_space_7 | crouch discover tag then blade assist human |  
+| bip_39_word_space_8 | crouch discover tag then blade assist human sponsor |  
+| bip_39_word_space_9 | crouch discover tag then blade assist human sponsor aisle |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

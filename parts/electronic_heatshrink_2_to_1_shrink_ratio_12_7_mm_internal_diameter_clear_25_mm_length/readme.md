@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tired grid
+  * bip 39 word 3: tired grid color
+  * bip 39 word: tired grid color security spoil shoulder noodle outside rival fluid harbor achieve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tired |  
+| bip_39_word_new_br10 | tired<br>grid<br>color<br>security<br>spoil<br>shoulder<br>noodle<br>outside<br>rival<br>fluid |  
+| bip_39_word_new_br11 | tired<br>grid<br>color<br>security<br>spoil<br>shoulder<br>noodle<br>outside<br>rival<br>fluid<br>harbor |  
+| bip_39_word_new_br12 | tired<br>grid<br>color<br>security<br>spoil<br>shoulder<br>noodle<br>outside<br>rival<br>fluid<br>harbor<br>achieve |  
+| bip_39_word_new_br2 | tired<br>grid |  
+| bip_39_word_new_br3 | tired<br>grid<br>color |  
+| bip_39_word_new_br4 | tired<br>grid<br>color<br>security |  
+| bip_39_word_new_br5 | tired<br>grid<br>color<br>security<br>spoil |  
+| bip_39_word_new_br6 | tired<br>grid<br>color<br>security<br>spoil<br>shoulder |  
+| bip_39_word_new_br7 | tired<br>grid<br>color<br>security<br>spoil<br>shoulder<br>noodle |  
+| bip_39_word_new_br8 | tired<br>grid<br>color<br>security<br>spoil<br>shoulder<br>noodle<br>outside |  
+| bip_39_word_new_br9 | tired<br>grid<br>color<br>security<br>spoil<br>shoulder<br>noodle<br>outside<br>rival |  
+| bip_39_word_new_line1 | tired |  
+| bip_39_word_new_line10 | tired
+grid
+color
+security
+spoil
+shoulder
+noodle
+outside
+rival
+fluid |  
+| bip_39_word_new_line11 | tired
+grid
+color
+security
+spoil
+shoulder
+noodle
+outside
+rival
+fluid
+harbor |  
+| bip_39_word_new_line12 | tired
+grid
+color
+security
+spoil
+shoulder
+noodle
+outside
+rival
+fluid
+harbor
+achieve |  
+| bip_39_word_new_line2 | tired
+grid |  
+| bip_39_word_new_line3 | tired
+grid
+color |  
+| bip_39_word_new_line4 | tired
+grid
+color
+security |  
+| bip_39_word_new_line5 | tired
+grid
+color
+security
+spoil |  
+| bip_39_word_new_line6 | tired
+grid
+color
+security
+spoil
+shoulder |  
+| bip_39_word_new_line7 | tired
+grid
+color
+security
+spoil
+shoulder
+noodle |  
+| bip_39_word_new_line8 | tired
+grid
+color
+security
+spoil
+shoulder
+noodle
+outside |  
+| bip_39_word_new_line9 | tired
+grid
+color
+security
+spoil
+shoulder
+noodle
+outside
+rival |  
+| bip_39_word_space_0 | ['tired', 'grid', 'color', 'security', 'spoil', 'shoulder', 'noodle', 'outside', 'rival', 'fluid', 'harbor', 'achieve'] |  
+| bip_39_word_space_1 | tired |  
+| bip_39_word_space_10 | tired grid color security spoil shoulder noodle outside rival fluid |  
+| bip_39_word_space_11 | tired grid color security spoil shoulder noodle outside rival fluid harbor |  
+| bip_39_word_space_12 | tired grid color security spoil shoulder noodle outside rival fluid harbor achieve |  
+| bip_39_word_space_2 | tired grid |  
+| bip_39_word_space_3 | tired grid color |  
+| bip_39_word_space_4 | tired grid color security |  
+| bip_39_word_space_5 | tired grid color security spoil |  
+| bip_39_word_space_6 | tired grid color security spoil shoulder |  
+| bip_39_word_space_7 | tired grid color security spoil shoulder noodle |  
+| bip_39_word_space_8 | tired grid color security spoil shoulder noodle outside |  
+| bip_39_word_space_9 | tired grid color security spoil shoulder noodle outside rival |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

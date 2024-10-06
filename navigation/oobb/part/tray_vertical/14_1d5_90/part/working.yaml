@@ -1,3 +1,186 @@
+bip_39_word_new_br1: step
+bip_39_word_new_br10: step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide
+bip_39_word_new_br11: step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide<br>early
+bip_39_word_new_br12: step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero<br>guide<br>early<br>auction
+bip_39_word_new_br2: step<br>foil
+bip_39_word_new_br3: step<br>foil<br>correct
+bip_39_word_new_br4: step<br>foil<br>correct<br>where
+bip_39_word_new_br5: step<br>foil<br>correct<br>where<br>roof
+bip_39_word_new_br6: step<br>foil<br>correct<br>where<br>roof<br>text
+bip_39_word_new_br7: step<br>foil<br>correct<br>where<br>roof<br>text<br>marble
+bip_39_word_new_br8: step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar
+bip_39_word_new_br9: step<br>foil<br>correct<br>where<br>roof<br>text<br>marble<br>similar<br>zero
+bip_39_word_new_line1: step
+bip_39_word_new_line10: 'step
+
+  foil
+
+  correct
+
+  where
+
+  roof
+
+  text
+
+  marble
+
+  similar
+
+  zero
+
+  guide'
+bip_39_word_new_line11: 'step
+
+  foil
+
+  correct
+
+  where
+
+  roof
+
+  text
+
+  marble
+
+  similar
+
+  zero
+
+  guide
+
+  early'
+bip_39_word_new_line12: 'step
+
+  foil
+
+  correct
+
+  where
+
+  roof
+
+  text
+
+  marble
+
+  similar
+
+  zero
+
+  guide
+
+  early
+
+  auction'
+bip_39_word_new_line2: 'step
+
+  foil'
+bip_39_word_new_line3: 'step
+
+  foil
+
+  correct'
+bip_39_word_new_line4: 'step
+
+  foil
+
+  correct
+
+  where'
+bip_39_word_new_line5: 'step
+
+  foil
+
+  correct
+
+  where
+
+  roof'
+bip_39_word_new_line6: 'step
+
+  foil
+
+  correct
+
+  where
+
+  roof
+
+  text'
+bip_39_word_new_line7: 'step
+
+  foil
+
+  correct
+
+  where
+
+  roof
+
+  text
+
+  marble'
+bip_39_word_new_line8: 'step
+
+  foil
+
+  correct
+
+  where
+
+  roof
+
+  text
+
+  marble
+
+  similar'
+bip_39_word_new_line9: 'step
+
+  foil
+
+  correct
+
+  where
+
+  roof
+
+  text
+
+  marble
+
+  similar
+
+  zero'
+bip_39_word_space_0:
+- step
+- foil
+- correct
+- where
+- roof
+- text
+- marble
+- similar
+- zero
+- guide
+- early
+- auction
+bip_39_word_space_1: step
+bip_39_word_space_10: step foil correct where roof text marble similar zero guide
+bip_39_word_space_11: step foil correct where roof text marble similar zero guide
+  early
+bip_39_word_space_12: step foil correct where roof text marble similar zero guide
+  early auction
+bip_39_word_space_2: step foil
+bip_39_word_space_3: step foil correct
+bip_39_word_space_4: step foil correct where
+bip_39_word_space_5: step foil correct where roof
+bip_39_word_space_6: step foil correct where roof text
+bip_39_word_space_7: step foil correct where roof text marble
+bip_39_word_space_8: step foil correct where roof text marble similar
+bip_39_word_space_9: step foil correct where roof text marble similar zero
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

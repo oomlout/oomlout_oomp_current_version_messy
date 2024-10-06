@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: outdoor raccoon
+  * bip 39 word 3: outdoor raccoon exclude
+  * bip 39 word: outdoor raccoon exclude bridge hamster gift moral often vault that cat ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | outdoor |  
+| bip_39_word_new_br10 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift<br>moral<br>often<br>vault<br>that |  
+| bip_39_word_new_br11 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift<br>moral<br>often<br>vault<br>that<br>cat |  
+| bip_39_word_new_br12 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift<br>moral<br>often<br>vault<br>that<br>cat<br>ancient |  
+| bip_39_word_new_br2 | outdoor<br>raccoon |  
+| bip_39_word_new_br3 | outdoor<br>raccoon<br>exclude |  
+| bip_39_word_new_br4 | outdoor<br>raccoon<br>exclude<br>bridge |  
+| bip_39_word_new_br5 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster |  
+| bip_39_word_new_br6 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift |  
+| bip_39_word_new_br7 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift<br>moral |  
+| bip_39_word_new_br8 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift<br>moral<br>often |  
+| bip_39_word_new_br9 | outdoor<br>raccoon<br>exclude<br>bridge<br>hamster<br>gift<br>moral<br>often<br>vault |  
+| bip_39_word_new_line1 | outdoor |  
+| bip_39_word_new_line10 | outdoor
+raccoon
+exclude
+bridge
+hamster
+gift
+moral
+often
+vault
+that |  
+| bip_39_word_new_line11 | outdoor
+raccoon
+exclude
+bridge
+hamster
+gift
+moral
+often
+vault
+that
+cat |  
+| bip_39_word_new_line12 | outdoor
+raccoon
+exclude
+bridge
+hamster
+gift
+moral
+often
+vault
+that
+cat
+ancient |  
+| bip_39_word_new_line2 | outdoor
+raccoon |  
+| bip_39_word_new_line3 | outdoor
+raccoon
+exclude |  
+| bip_39_word_new_line4 | outdoor
+raccoon
+exclude
+bridge |  
+| bip_39_word_new_line5 | outdoor
+raccoon
+exclude
+bridge
+hamster |  
+| bip_39_word_new_line6 | outdoor
+raccoon
+exclude
+bridge
+hamster
+gift |  
+| bip_39_word_new_line7 | outdoor
+raccoon
+exclude
+bridge
+hamster
+gift
+moral |  
+| bip_39_word_new_line8 | outdoor
+raccoon
+exclude
+bridge
+hamster
+gift
+moral
+often |  
+| bip_39_word_new_line9 | outdoor
+raccoon
+exclude
+bridge
+hamster
+gift
+moral
+often
+vault |  
+| bip_39_word_space_0 | ['outdoor', 'raccoon', 'exclude', 'bridge', 'hamster', 'gift', 'moral', 'often', 'vault', 'that', 'cat', 'ancient'] |  
+| bip_39_word_space_1 | outdoor |  
+| bip_39_word_space_10 | outdoor raccoon exclude bridge hamster gift moral often vault that |  
+| bip_39_word_space_11 | outdoor raccoon exclude bridge hamster gift moral often vault that cat |  
+| bip_39_word_space_12 | outdoor raccoon exclude bridge hamster gift moral often vault that cat ancient |  
+| bip_39_word_space_2 | outdoor raccoon |  
+| bip_39_word_space_3 | outdoor raccoon exclude |  
+| bip_39_word_space_4 | outdoor raccoon exclude bridge |  
+| bip_39_word_space_5 | outdoor raccoon exclude bridge hamster |  
+| bip_39_word_space_6 | outdoor raccoon exclude bridge hamster gift |  
+| bip_39_word_space_7 | outdoor raccoon exclude bridge hamster gift moral |  
+| bip_39_word_space_8 | outdoor raccoon exclude bridge hamster gift moral often |  
+| bip_39_word_space_9 | outdoor raccoon exclude bridge hamster gift moral often vault |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

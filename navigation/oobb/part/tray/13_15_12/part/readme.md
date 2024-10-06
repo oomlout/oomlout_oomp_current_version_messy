@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: torch puzzle
+  * bip 39 word 3: torch puzzle age
+  * bip 39 word: torch puzzle age tank become problem fog spare blast risk stage artwork
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | torch |  
+| bip_39_word_new_br10 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk |  
+| bip_39_word_new_br11 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk<br>stage |  
+| bip_39_word_new_br12 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast<br>risk<br>stage<br>artwork |  
+| bip_39_word_new_br2 | torch<br>puzzle |  
+| bip_39_word_new_br3 | torch<br>puzzle<br>age |  
+| bip_39_word_new_br4 | torch<br>puzzle<br>age<br>tank |  
+| bip_39_word_new_br5 | torch<br>puzzle<br>age<br>tank<br>become |  
+| bip_39_word_new_br6 | torch<br>puzzle<br>age<br>tank<br>become<br>problem |  
+| bip_39_word_new_br7 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog |  
+| bip_39_word_new_br8 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare |  
+| bip_39_word_new_br9 | torch<br>puzzle<br>age<br>tank<br>become<br>problem<br>fog<br>spare<br>blast |  
+| bip_39_word_new_line1 | torch |  
+| bip_39_word_new_line10 | torch
+puzzle
+age
+tank
+become
+problem
+fog
+spare
+blast
+risk |  
+| bip_39_word_new_line11 | torch
+puzzle
+age
+tank
+become
+problem
+fog
+spare
+blast
+risk
+stage |  
+| bip_39_word_new_line12 | torch
+puzzle
+age
+tank
+become
+problem
+fog
+spare
+blast
+risk
+stage
+artwork |  
+| bip_39_word_new_line2 | torch
+puzzle |  
+| bip_39_word_new_line3 | torch
+puzzle
+age |  
+| bip_39_word_new_line4 | torch
+puzzle
+age
+tank |  
+| bip_39_word_new_line5 | torch
+puzzle
+age
+tank
+become |  
+| bip_39_word_new_line6 | torch
+puzzle
+age
+tank
+become
+problem |  
+| bip_39_word_new_line7 | torch
+puzzle
+age
+tank
+become
+problem
+fog |  
+| bip_39_word_new_line8 | torch
+puzzle
+age
+tank
+become
+problem
+fog
+spare |  
+| bip_39_word_new_line9 | torch
+puzzle
+age
+tank
+become
+problem
+fog
+spare
+blast |  
+| bip_39_word_space_0 | ['torch', 'puzzle', 'age', 'tank', 'become', 'problem', 'fog', 'spare', 'blast', 'risk', 'stage', 'artwork'] |  
+| bip_39_word_space_1 | torch |  
+| bip_39_word_space_10 | torch puzzle age tank become problem fog spare blast risk |  
+| bip_39_word_space_11 | torch puzzle age tank become problem fog spare blast risk stage |  
+| bip_39_word_space_12 | torch puzzle age tank become problem fog spare blast risk stage artwork |  
+| bip_39_word_space_2 | torch puzzle |  
+| bip_39_word_space_3 | torch puzzle age |  
+| bip_39_word_space_4 | torch puzzle age tank |  
+| bip_39_word_space_5 | torch puzzle age tank become |  
+| bip_39_word_space_6 | torch puzzle age tank become problem |  
+| bip_39_word_space_7 | torch puzzle age tank become problem fog |  
+| bip_39_word_space_8 | torch puzzle age tank become problem fog spare |  
+| bip_39_word_space_9 | torch puzzle age tank become problem fog spare blast |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

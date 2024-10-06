@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gun
+bip_39_word_new_br10: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer<br>pulp<br>east<br>blanket<br>margin
+bip_39_word_new_br11: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer<br>pulp<br>east<br>blanket<br>margin<br>rice
+bip_39_word_new_br12: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer<br>pulp<br>east<br>blanket<br>margin<br>rice<br>atom
+bip_39_word_new_br2: gun<br>sphere
+bip_39_word_new_br3: gun<br>sphere<br>long
+bip_39_word_new_br4: gun<br>sphere<br>long<br>dilemma
+bip_39_word_new_br5: gun<br>sphere<br>long<br>dilemma<br>ship
+bip_39_word_new_br6: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer
+bip_39_word_new_br7: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer<br>pulp
+bip_39_word_new_br8: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer<br>pulp<br>east
+bip_39_word_new_br9: gun<br>sphere<br>long<br>dilemma<br>ship<br>suffer<br>pulp<br>east<br>blanket
+bip_39_word_new_line1: gun
+bip_39_word_new_line10: 'gun
+
+  sphere
+
+  long
+
+  dilemma
+
+  ship
+
+  suffer
+
+  pulp
+
+  east
+
+  blanket
+
+  margin'
+bip_39_word_new_line11: 'gun
+
+  sphere
+
+  long
+
+  dilemma
+
+  ship
+
+  suffer
+
+  pulp
+
+  east
+
+  blanket
+
+  margin
+
+  rice'
+bip_39_word_new_line12: 'gun
+
+  sphere
+
+  long
+
+  dilemma
+
+  ship
+
+  suffer
+
+  pulp
+
+  east
+
+  blanket
+
+  margin
+
+  rice
+
+  atom'
+bip_39_word_new_line2: 'gun
+
+  sphere'
+bip_39_word_new_line3: 'gun
+
+  sphere
+
+  long'
+bip_39_word_new_line4: 'gun
+
+  sphere
+
+  long
+
+  dilemma'
+bip_39_word_new_line5: 'gun
+
+  sphere
+
+  long
+
+  dilemma
+
+  ship'
+bip_39_word_new_line6: 'gun
+
+  sphere
+
+  long
+
+  dilemma
+
+  ship
+
+  suffer'
+bip_39_word_new_line7: 'gun
+
+  sphere
+
+  long
+
+  dilemma
+
+  ship
+
+  suffer
+
+  pulp'
+bip_39_word_new_line8: 'gun
+
+  sphere
+
+  long
+
+  dilemma
+
+  ship
+
+  suffer
+
+  pulp
+
+  east'
+bip_39_word_new_line9: 'gun
+
+  sphere
+
+  long
+
+  dilemma
+
+  ship
+
+  suffer
+
+  pulp
+
+  east
+
+  blanket'
+bip_39_word_space_0:
+- gun
+- sphere
+- long
+- dilemma
+- ship
+- suffer
+- pulp
+- east
+- blanket
+- margin
+- rice
+- atom
+bip_39_word_space_1: gun
+bip_39_word_space_10: gun sphere long dilemma ship suffer pulp east blanket margin
+bip_39_word_space_11: gun sphere long dilemma ship suffer pulp east blanket margin
+  rice
+bip_39_word_space_12: gun sphere long dilemma ship suffer pulp east blanket margin
+  rice atom
+bip_39_word_space_2: gun sphere
+bip_39_word_space_3: gun sphere long
+bip_39_word_space_4: gun sphere long dilemma
+bip_39_word_space_5: gun sphere long dilemma ship
+bip_39_word_space_6: gun sphere long dilemma ship suffer
+bip_39_word_space_7: gun sphere long dilemma ship suffer pulp
+bip_39_word_space_8: gun sphere long dilemma ship suffer pulp east
+bip_39_word_space_9: gun sphere long dilemma ship suffer pulp east blanket
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

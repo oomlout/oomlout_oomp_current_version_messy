@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: saddle lounge
+  * bip 39 word 3: saddle lounge supply
+  * bip 39 word: saddle lounge supply echo arm egg art sting adult bacon shrimp anger
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | saddle |  
+| bip_39_word_new_br10 | saddle<br>lounge<br>supply<br>echo<br>arm<br>egg<br>art<br>sting<br>adult<br>bacon |  
+| bip_39_word_new_br11 | saddle<br>lounge<br>supply<br>echo<br>arm<br>egg<br>art<br>sting<br>adult<br>bacon<br>shrimp |  
+| bip_39_word_new_br12 | saddle<br>lounge<br>supply<br>echo<br>arm<br>egg<br>art<br>sting<br>adult<br>bacon<br>shrimp<br>anger |  
+| bip_39_word_new_br2 | saddle<br>lounge |  
+| bip_39_word_new_br3 | saddle<br>lounge<br>supply |  
+| bip_39_word_new_br4 | saddle<br>lounge<br>supply<br>echo |  
+| bip_39_word_new_br5 | saddle<br>lounge<br>supply<br>echo<br>arm |  
+| bip_39_word_new_br6 | saddle<br>lounge<br>supply<br>echo<br>arm<br>egg |  
+| bip_39_word_new_br7 | saddle<br>lounge<br>supply<br>echo<br>arm<br>egg<br>art |  
+| bip_39_word_new_br8 | saddle<br>lounge<br>supply<br>echo<br>arm<br>egg<br>art<br>sting |  
+| bip_39_word_new_br9 | saddle<br>lounge<br>supply<br>echo<br>arm<br>egg<br>art<br>sting<br>adult |  
+| bip_39_word_new_line1 | saddle |  
+| bip_39_word_new_line10 | saddle
+lounge
+supply
+echo
+arm
+egg
+art
+sting
+adult
+bacon |  
+| bip_39_word_new_line11 | saddle
+lounge
+supply
+echo
+arm
+egg
+art
+sting
+adult
+bacon
+shrimp |  
+| bip_39_word_new_line12 | saddle
+lounge
+supply
+echo
+arm
+egg
+art
+sting
+adult
+bacon
+shrimp
+anger |  
+| bip_39_word_new_line2 | saddle
+lounge |  
+| bip_39_word_new_line3 | saddle
+lounge
+supply |  
+| bip_39_word_new_line4 | saddle
+lounge
+supply
+echo |  
+| bip_39_word_new_line5 | saddle
+lounge
+supply
+echo
+arm |  
+| bip_39_word_new_line6 | saddle
+lounge
+supply
+echo
+arm
+egg |  
+| bip_39_word_new_line7 | saddle
+lounge
+supply
+echo
+arm
+egg
+art |  
+| bip_39_word_new_line8 | saddle
+lounge
+supply
+echo
+arm
+egg
+art
+sting |  
+| bip_39_word_new_line9 | saddle
+lounge
+supply
+echo
+arm
+egg
+art
+sting
+adult |  
+| bip_39_word_space_0 | ['saddle', 'lounge', 'supply', 'echo', 'arm', 'egg', 'art', 'sting', 'adult', 'bacon', 'shrimp', 'anger'] |  
+| bip_39_word_space_1 | saddle |  
+| bip_39_word_space_10 | saddle lounge supply echo arm egg art sting adult bacon |  
+| bip_39_word_space_11 | saddle lounge supply echo arm egg art sting adult bacon shrimp |  
+| bip_39_word_space_12 | saddle lounge supply echo arm egg art sting adult bacon shrimp anger |  
+| bip_39_word_space_2 | saddle lounge |  
+| bip_39_word_space_3 | saddle lounge supply |  
+| bip_39_word_space_4 | saddle lounge supply echo |  
+| bip_39_word_space_5 | saddle lounge supply echo arm |  
+| bip_39_word_space_6 | saddle lounge supply echo arm egg |  
+| bip_39_word_space_7 | saddle lounge supply echo arm egg art |  
+| bip_39_word_space_8 | saddle lounge supply echo arm egg art sting |  
+| bip_39_word_space_9 | saddle lounge supply echo arm egg art sting adult |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

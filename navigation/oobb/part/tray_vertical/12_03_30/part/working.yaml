@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cake
+bip_39_word_new_br10: cake<br>indicate<br>upgrade<br>another<br>then<br>siren<br>car<br>start<br>glide<br>spawn
+bip_39_word_new_br11: cake<br>indicate<br>upgrade<br>another<br>then<br>siren<br>car<br>start<br>glide<br>spawn<br>sample
+bip_39_word_new_br12: cake<br>indicate<br>upgrade<br>another<br>then<br>siren<br>car<br>start<br>glide<br>spawn<br>sample<br>ancient
+bip_39_word_new_br2: cake<br>indicate
+bip_39_word_new_br3: cake<br>indicate<br>upgrade
+bip_39_word_new_br4: cake<br>indicate<br>upgrade<br>another
+bip_39_word_new_br5: cake<br>indicate<br>upgrade<br>another<br>then
+bip_39_word_new_br6: cake<br>indicate<br>upgrade<br>another<br>then<br>siren
+bip_39_word_new_br7: cake<br>indicate<br>upgrade<br>another<br>then<br>siren<br>car
+bip_39_word_new_br8: cake<br>indicate<br>upgrade<br>another<br>then<br>siren<br>car<br>start
+bip_39_word_new_br9: cake<br>indicate<br>upgrade<br>another<br>then<br>siren<br>car<br>start<br>glide
+bip_39_word_new_line1: cake
+bip_39_word_new_line10: 'cake
+
+  indicate
+
+  upgrade
+
+  another
+
+  then
+
+  siren
+
+  car
+
+  start
+
+  glide
+
+  spawn'
+bip_39_word_new_line11: 'cake
+
+  indicate
+
+  upgrade
+
+  another
+
+  then
+
+  siren
+
+  car
+
+  start
+
+  glide
+
+  spawn
+
+  sample'
+bip_39_word_new_line12: 'cake
+
+  indicate
+
+  upgrade
+
+  another
+
+  then
+
+  siren
+
+  car
+
+  start
+
+  glide
+
+  spawn
+
+  sample
+
+  ancient'
+bip_39_word_new_line2: 'cake
+
+  indicate'
+bip_39_word_new_line3: 'cake
+
+  indicate
+
+  upgrade'
+bip_39_word_new_line4: 'cake
+
+  indicate
+
+  upgrade
+
+  another'
+bip_39_word_new_line5: 'cake
+
+  indicate
+
+  upgrade
+
+  another
+
+  then'
+bip_39_word_new_line6: 'cake
+
+  indicate
+
+  upgrade
+
+  another
+
+  then
+
+  siren'
+bip_39_word_new_line7: 'cake
+
+  indicate
+
+  upgrade
+
+  another
+
+  then
+
+  siren
+
+  car'
+bip_39_word_new_line8: 'cake
+
+  indicate
+
+  upgrade
+
+  another
+
+  then
+
+  siren
+
+  car
+
+  start'
+bip_39_word_new_line9: 'cake
+
+  indicate
+
+  upgrade
+
+  another
+
+  then
+
+  siren
+
+  car
+
+  start
+
+  glide'
+bip_39_word_space_0:
+- cake
+- indicate
+- upgrade
+- another
+- then
+- siren
+- car
+- start
+- glide
+- spawn
+- sample
+- ancient
+bip_39_word_space_1: cake
+bip_39_word_space_10: cake indicate upgrade another then siren car start glide spawn
+bip_39_word_space_11: cake indicate upgrade another then siren car start glide spawn
+  sample
+bip_39_word_space_12: cake indicate upgrade another then siren car start glide spawn
+  sample ancient
+bip_39_word_space_2: cake indicate
+bip_39_word_space_3: cake indicate upgrade
+bip_39_word_space_4: cake indicate upgrade another
+bip_39_word_space_5: cake indicate upgrade another then
+bip_39_word_space_6: cake indicate upgrade another then siren
+bip_39_word_space_7: cake indicate upgrade another then siren car
+bip_39_word_space_8: cake indicate upgrade another then siren car start
+bip_39_word_space_9: cake indicate upgrade another then siren car start glide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

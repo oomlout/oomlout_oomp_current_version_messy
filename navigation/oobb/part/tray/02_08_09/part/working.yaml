@@ -1,3 +1,186 @@
+bip_39_word_new_br1: prize
+bip_39_word_new_br10: prize<br>degree<br>pony<br>popular<br>bounce<br>skill<br>swarm<br>rebel<br>route<br>limit
+bip_39_word_new_br11: prize<br>degree<br>pony<br>popular<br>bounce<br>skill<br>swarm<br>rebel<br>route<br>limit<br>control
+bip_39_word_new_br12: prize<br>degree<br>pony<br>popular<br>bounce<br>skill<br>swarm<br>rebel<br>route<br>limit<br>control<br>alert
+bip_39_word_new_br2: prize<br>degree
+bip_39_word_new_br3: prize<br>degree<br>pony
+bip_39_word_new_br4: prize<br>degree<br>pony<br>popular
+bip_39_word_new_br5: prize<br>degree<br>pony<br>popular<br>bounce
+bip_39_word_new_br6: prize<br>degree<br>pony<br>popular<br>bounce<br>skill
+bip_39_word_new_br7: prize<br>degree<br>pony<br>popular<br>bounce<br>skill<br>swarm
+bip_39_word_new_br8: prize<br>degree<br>pony<br>popular<br>bounce<br>skill<br>swarm<br>rebel
+bip_39_word_new_br9: prize<br>degree<br>pony<br>popular<br>bounce<br>skill<br>swarm<br>rebel<br>route
+bip_39_word_new_line1: prize
+bip_39_word_new_line10: 'prize
+
+  degree
+
+  pony
+
+  popular
+
+  bounce
+
+  skill
+
+  swarm
+
+  rebel
+
+  route
+
+  limit'
+bip_39_word_new_line11: 'prize
+
+  degree
+
+  pony
+
+  popular
+
+  bounce
+
+  skill
+
+  swarm
+
+  rebel
+
+  route
+
+  limit
+
+  control'
+bip_39_word_new_line12: 'prize
+
+  degree
+
+  pony
+
+  popular
+
+  bounce
+
+  skill
+
+  swarm
+
+  rebel
+
+  route
+
+  limit
+
+  control
+
+  alert'
+bip_39_word_new_line2: 'prize
+
+  degree'
+bip_39_word_new_line3: 'prize
+
+  degree
+
+  pony'
+bip_39_word_new_line4: 'prize
+
+  degree
+
+  pony
+
+  popular'
+bip_39_word_new_line5: 'prize
+
+  degree
+
+  pony
+
+  popular
+
+  bounce'
+bip_39_word_new_line6: 'prize
+
+  degree
+
+  pony
+
+  popular
+
+  bounce
+
+  skill'
+bip_39_word_new_line7: 'prize
+
+  degree
+
+  pony
+
+  popular
+
+  bounce
+
+  skill
+
+  swarm'
+bip_39_word_new_line8: 'prize
+
+  degree
+
+  pony
+
+  popular
+
+  bounce
+
+  skill
+
+  swarm
+
+  rebel'
+bip_39_word_new_line9: 'prize
+
+  degree
+
+  pony
+
+  popular
+
+  bounce
+
+  skill
+
+  swarm
+
+  rebel
+
+  route'
+bip_39_word_space_0:
+- prize
+- degree
+- pony
+- popular
+- bounce
+- skill
+- swarm
+- rebel
+- route
+- limit
+- control
+- alert
+bip_39_word_space_1: prize
+bip_39_word_space_10: prize degree pony popular bounce skill swarm rebel route limit
+bip_39_word_space_11: prize degree pony popular bounce skill swarm rebel route limit
+  control
+bip_39_word_space_12: prize degree pony popular bounce skill swarm rebel route limit
+  control alert
+bip_39_word_space_2: prize degree
+bip_39_word_space_3: prize degree pony
+bip_39_word_space_4: prize degree pony popular
+bip_39_word_space_5: prize degree pony popular bounce
+bip_39_word_space_6: prize degree pony popular bounce skill
+bip_39_word_space_7: prize degree pony popular bounce skill swarm
+bip_39_word_space_8: prize degree pony popular bounce skill swarm rebel
+bip_39_word_space_9: prize degree pony popular bounce skill swarm rebel route
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: divorce
+bip_39_word_new_br10: divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty
+bip_39_word_new_br11: divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty<br>increase
+bip_39_word_new_br12: divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor<br>nasty<br>increase<br>advice
+bip_39_word_new_br2: divorce<br>left
+bip_39_word_new_br3: divorce<br>left<br>truck
+bip_39_word_new_br4: divorce<br>left<br>truck<br>ignore
+bip_39_word_new_br5: divorce<br>left<br>truck<br>ignore<br>sausage
+bip_39_word_new_br6: divorce<br>left<br>truck<br>ignore<br>sausage<br>dry
+bip_39_word_new_br7: divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan
+bip_39_word_new_br8: divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby
+bip_39_word_new_br9: divorce<br>left<br>truck<br>ignore<br>sausage<br>dry<br>fan<br>hobby<br>flavor
+bip_39_word_new_line1: divorce
+bip_39_word_new_line10: 'divorce
+
+  left
+
+  truck
+
+  ignore
+
+  sausage
+
+  dry
+
+  fan
+
+  hobby
+
+  flavor
+
+  nasty'
+bip_39_word_new_line11: 'divorce
+
+  left
+
+  truck
+
+  ignore
+
+  sausage
+
+  dry
+
+  fan
+
+  hobby
+
+  flavor
+
+  nasty
+
+  increase'
+bip_39_word_new_line12: 'divorce
+
+  left
+
+  truck
+
+  ignore
+
+  sausage
+
+  dry
+
+  fan
+
+  hobby
+
+  flavor
+
+  nasty
+
+  increase
+
+  advice'
+bip_39_word_new_line2: 'divorce
+
+  left'
+bip_39_word_new_line3: 'divorce
+
+  left
+
+  truck'
+bip_39_word_new_line4: 'divorce
+
+  left
+
+  truck
+
+  ignore'
+bip_39_word_new_line5: 'divorce
+
+  left
+
+  truck
+
+  ignore
+
+  sausage'
+bip_39_word_new_line6: 'divorce
+
+  left
+
+  truck
+
+  ignore
+
+  sausage
+
+  dry'
+bip_39_word_new_line7: 'divorce
+
+  left
+
+  truck
+
+  ignore
+
+  sausage
+
+  dry
+
+  fan'
+bip_39_word_new_line8: 'divorce
+
+  left
+
+  truck
+
+  ignore
+
+  sausage
+
+  dry
+
+  fan
+
+  hobby'
+bip_39_word_new_line9: 'divorce
+
+  left
+
+  truck
+
+  ignore
+
+  sausage
+
+  dry
+
+  fan
+
+  hobby
+
+  flavor'
+bip_39_word_space_0:
+- divorce
+- left
+- truck
+- ignore
+- sausage
+- dry
+- fan
+- hobby
+- flavor
+- nasty
+- increase
+- advice
+bip_39_word_space_1: divorce
+bip_39_word_space_10: divorce left truck ignore sausage dry fan hobby flavor nasty
+bip_39_word_space_11: divorce left truck ignore sausage dry fan hobby flavor nasty
+  increase
+bip_39_word_space_12: divorce left truck ignore sausage dry fan hobby flavor nasty
+  increase advice
+bip_39_word_space_2: divorce left
+bip_39_word_space_3: divorce left truck
+bip_39_word_space_4: divorce left truck ignore
+bip_39_word_space_5: divorce left truck ignore sausage
+bip_39_word_space_6: divorce left truck ignore sausage dry
+bip_39_word_space_7: divorce left truck ignore sausage dry fan
+bip_39_word_space_8: divorce left truck ignore sausage dry fan hobby
+bip_39_word_space_9: divorce left truck ignore sausage dry fan hobby flavor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

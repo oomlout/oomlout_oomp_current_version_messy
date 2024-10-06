@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: thank absorb
+  * bip 39 word 3: thank absorb crane
+  * bip 39 word: thank absorb crane maple color vacuum illegal salt anxiety arrow green agree
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | thank |  
+| bip_39_word_new_br10 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum<br>illegal<br>salt<br>anxiety<br>arrow |  
+| bip_39_word_new_br11 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum<br>illegal<br>salt<br>anxiety<br>arrow<br>green |  
+| bip_39_word_new_br12 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum<br>illegal<br>salt<br>anxiety<br>arrow<br>green<br>agree |  
+| bip_39_word_new_br2 | thank<br>absorb |  
+| bip_39_word_new_br3 | thank<br>absorb<br>crane |  
+| bip_39_word_new_br4 | thank<br>absorb<br>crane<br>maple |  
+| bip_39_word_new_br5 | thank<br>absorb<br>crane<br>maple<br>color |  
+| bip_39_word_new_br6 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum |  
+| bip_39_word_new_br7 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum<br>illegal |  
+| bip_39_word_new_br8 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum<br>illegal<br>salt |  
+| bip_39_word_new_br9 | thank<br>absorb<br>crane<br>maple<br>color<br>vacuum<br>illegal<br>salt<br>anxiety |  
+| bip_39_word_new_line1 | thank |  
+| bip_39_word_new_line10 | thank
+absorb
+crane
+maple
+color
+vacuum
+illegal
+salt
+anxiety
+arrow |  
+| bip_39_word_new_line11 | thank
+absorb
+crane
+maple
+color
+vacuum
+illegal
+salt
+anxiety
+arrow
+green |  
+| bip_39_word_new_line12 | thank
+absorb
+crane
+maple
+color
+vacuum
+illegal
+salt
+anxiety
+arrow
+green
+agree |  
+| bip_39_word_new_line2 | thank
+absorb |  
+| bip_39_word_new_line3 | thank
+absorb
+crane |  
+| bip_39_word_new_line4 | thank
+absorb
+crane
+maple |  
+| bip_39_word_new_line5 | thank
+absorb
+crane
+maple
+color |  
+| bip_39_word_new_line6 | thank
+absorb
+crane
+maple
+color
+vacuum |  
+| bip_39_word_new_line7 | thank
+absorb
+crane
+maple
+color
+vacuum
+illegal |  
+| bip_39_word_new_line8 | thank
+absorb
+crane
+maple
+color
+vacuum
+illegal
+salt |  
+| bip_39_word_new_line9 | thank
+absorb
+crane
+maple
+color
+vacuum
+illegal
+salt
+anxiety |  
+| bip_39_word_space_0 | ['thank', 'absorb', 'crane', 'maple', 'color', 'vacuum', 'illegal', 'salt', 'anxiety', 'arrow', 'green', 'agree'] |  
+| bip_39_word_space_1 | thank |  
+| bip_39_word_space_10 | thank absorb crane maple color vacuum illegal salt anxiety arrow |  
+| bip_39_word_space_11 | thank absorb crane maple color vacuum illegal salt anxiety arrow green |  
+| bip_39_word_space_12 | thank absorb crane maple color vacuum illegal salt anxiety arrow green agree |  
+| bip_39_word_space_2 | thank absorb |  
+| bip_39_word_space_3 | thank absorb crane |  
+| bip_39_word_space_4 | thank absorb crane maple |  
+| bip_39_word_space_5 | thank absorb crane maple color |  
+| bip_39_word_space_6 | thank absorb crane maple color vacuum |  
+| bip_39_word_space_7 | thank absorb crane maple color vacuum illegal |  
+| bip_39_word_space_8 | thank absorb crane maple color vacuum illegal salt |  
+| bip_39_word_space_9 | thank absorb crane maple color vacuum illegal salt anxiety |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

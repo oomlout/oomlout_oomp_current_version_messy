@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hair
+bip_39_word_new_br10: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use<br>promote<br>layer<br>wide<br>ignore
+bip_39_word_new_br11: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use<br>promote<br>layer<br>wide<br>ignore<br>tide
+bip_39_word_new_br12: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use<br>promote<br>layer<br>wide<br>ignore<br>tide<br>all
+bip_39_word_new_br2: hair<br>amateur
+bip_39_word_new_br3: hair<br>amateur<br>crouch
+bip_39_word_new_br4: hair<br>amateur<br>crouch<br>ice
+bip_39_word_new_br5: hair<br>amateur<br>crouch<br>ice<br>magnet
+bip_39_word_new_br6: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use
+bip_39_word_new_br7: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use<br>promote
+bip_39_word_new_br8: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use<br>promote<br>layer
+bip_39_word_new_br9: hair<br>amateur<br>crouch<br>ice<br>magnet<br>use<br>promote<br>layer<br>wide
+bip_39_word_new_line1: hair
+bip_39_word_new_line10: 'hair
+
+  amateur
+
+  crouch
+
+  ice
+
+  magnet
+
+  use
+
+  promote
+
+  layer
+
+  wide
+
+  ignore'
+bip_39_word_new_line11: 'hair
+
+  amateur
+
+  crouch
+
+  ice
+
+  magnet
+
+  use
+
+  promote
+
+  layer
+
+  wide
+
+  ignore
+
+  tide'
+bip_39_word_new_line12: 'hair
+
+  amateur
+
+  crouch
+
+  ice
+
+  magnet
+
+  use
+
+  promote
+
+  layer
+
+  wide
+
+  ignore
+
+  tide
+
+  all'
+bip_39_word_new_line2: 'hair
+
+  amateur'
+bip_39_word_new_line3: 'hair
+
+  amateur
+
+  crouch'
+bip_39_word_new_line4: 'hair
+
+  amateur
+
+  crouch
+
+  ice'
+bip_39_word_new_line5: 'hair
+
+  amateur
+
+  crouch
+
+  ice
+
+  magnet'
+bip_39_word_new_line6: 'hair
+
+  amateur
+
+  crouch
+
+  ice
+
+  magnet
+
+  use'
+bip_39_word_new_line7: 'hair
+
+  amateur
+
+  crouch
+
+  ice
+
+  magnet
+
+  use
+
+  promote'
+bip_39_word_new_line8: 'hair
+
+  amateur
+
+  crouch
+
+  ice
+
+  magnet
+
+  use
+
+  promote
+
+  layer'
+bip_39_word_new_line9: 'hair
+
+  amateur
+
+  crouch
+
+  ice
+
+  magnet
+
+  use
+
+  promote
+
+  layer
+
+  wide'
+bip_39_word_space_0:
+- hair
+- amateur
+- crouch
+- ice
+- magnet
+- use
+- promote
+- layer
+- wide
+- ignore
+- tide
+- all
+bip_39_word_space_1: hair
+bip_39_word_space_10: hair amateur crouch ice magnet use promote layer wide ignore
+bip_39_word_space_11: hair amateur crouch ice magnet use promote layer wide ignore
+  tide
+bip_39_word_space_12: hair amateur crouch ice magnet use promote layer wide ignore
+  tide all
+bip_39_word_space_2: hair amateur
+bip_39_word_space_3: hair amateur crouch
+bip_39_word_space_4: hair amateur crouch ice
+bip_39_word_space_5: hair amateur crouch ice magnet
+bip_39_word_space_6: hair amateur crouch ice magnet use
+bip_39_word_space_7: hair amateur crouch ice magnet use promote
+bip_39_word_space_8: hair amateur crouch ice magnet use promote layer
+bip_39_word_space_9: hair amateur crouch ice magnet use promote layer wide
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

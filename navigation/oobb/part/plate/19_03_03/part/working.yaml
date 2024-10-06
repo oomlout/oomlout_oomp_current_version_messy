@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cheap
+bip_39_word_new_br10: cheap<br>foil<br>frown<br>sphere<br>little<br>park<br>print<br>void<br>shuffle<br>cotton
+bip_39_word_new_br11: cheap<br>foil<br>frown<br>sphere<br>little<br>park<br>print<br>void<br>shuffle<br>cotton<br>special
+bip_39_word_new_br12: cheap<br>foil<br>frown<br>sphere<br>little<br>park<br>print<br>void<br>shuffle<br>cotton<br>special<br>all
+bip_39_word_new_br2: cheap<br>foil
+bip_39_word_new_br3: cheap<br>foil<br>frown
+bip_39_word_new_br4: cheap<br>foil<br>frown<br>sphere
+bip_39_word_new_br5: cheap<br>foil<br>frown<br>sphere<br>little
+bip_39_word_new_br6: cheap<br>foil<br>frown<br>sphere<br>little<br>park
+bip_39_word_new_br7: cheap<br>foil<br>frown<br>sphere<br>little<br>park<br>print
+bip_39_word_new_br8: cheap<br>foil<br>frown<br>sphere<br>little<br>park<br>print<br>void
+bip_39_word_new_br9: cheap<br>foil<br>frown<br>sphere<br>little<br>park<br>print<br>void<br>shuffle
+bip_39_word_new_line1: cheap
+bip_39_word_new_line10: 'cheap
+
+  foil
+
+  frown
+
+  sphere
+
+  little
+
+  park
+
+  print
+
+  void
+
+  shuffle
+
+  cotton'
+bip_39_word_new_line11: 'cheap
+
+  foil
+
+  frown
+
+  sphere
+
+  little
+
+  park
+
+  print
+
+  void
+
+  shuffle
+
+  cotton
+
+  special'
+bip_39_word_new_line12: 'cheap
+
+  foil
+
+  frown
+
+  sphere
+
+  little
+
+  park
+
+  print
+
+  void
+
+  shuffle
+
+  cotton
+
+  special
+
+  all'
+bip_39_word_new_line2: 'cheap
+
+  foil'
+bip_39_word_new_line3: 'cheap
+
+  foil
+
+  frown'
+bip_39_word_new_line4: 'cheap
+
+  foil
+
+  frown
+
+  sphere'
+bip_39_word_new_line5: 'cheap
+
+  foil
+
+  frown
+
+  sphere
+
+  little'
+bip_39_word_new_line6: 'cheap
+
+  foil
+
+  frown
+
+  sphere
+
+  little
+
+  park'
+bip_39_word_new_line7: 'cheap
+
+  foil
+
+  frown
+
+  sphere
+
+  little
+
+  park
+
+  print'
+bip_39_word_new_line8: 'cheap
+
+  foil
+
+  frown
+
+  sphere
+
+  little
+
+  park
+
+  print
+
+  void'
+bip_39_word_new_line9: 'cheap
+
+  foil
+
+  frown
+
+  sphere
+
+  little
+
+  park
+
+  print
+
+  void
+
+  shuffle'
+bip_39_word_space_0:
+- cheap
+- foil
+- frown
+- sphere
+- little
+- park
+- print
+- void
+- shuffle
+- cotton
+- special
+- all
+bip_39_word_space_1: cheap
+bip_39_word_space_10: cheap foil frown sphere little park print void shuffle cotton
+bip_39_word_space_11: cheap foil frown sphere little park print void shuffle cotton
+  special
+bip_39_word_space_12: cheap foil frown sphere little park print void shuffle cotton
+  special all
+bip_39_word_space_2: cheap foil
+bip_39_word_space_3: cheap foil frown
+bip_39_word_space_4: cheap foil frown sphere
+bip_39_word_space_5: cheap foil frown sphere little
+bip_39_word_space_6: cheap foil frown sphere little park
+bip_39_word_space_7: cheap foil frown sphere little park print
+bip_39_word_space_8: cheap foil frown sphere little park print void
+bip_39_word_space_9: cheap foil frown sphere little park print void shuffle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

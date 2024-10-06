@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vacuum
+bip_39_word_new_br10: vacuum<br>consider<br>this<br>soldier<br>expand<br>wing<br>deal<br>pass<br>never<br>menu
+bip_39_word_new_br11: vacuum<br>consider<br>this<br>soldier<br>expand<br>wing<br>deal<br>pass<br>never<br>menu<br>ghost
+bip_39_word_new_br12: vacuum<br>consider<br>this<br>soldier<br>expand<br>wing<br>deal<br>pass<br>never<br>menu<br>ghost<br>attend
+bip_39_word_new_br2: vacuum<br>consider
+bip_39_word_new_br3: vacuum<br>consider<br>this
+bip_39_word_new_br4: vacuum<br>consider<br>this<br>soldier
+bip_39_word_new_br5: vacuum<br>consider<br>this<br>soldier<br>expand
+bip_39_word_new_br6: vacuum<br>consider<br>this<br>soldier<br>expand<br>wing
+bip_39_word_new_br7: vacuum<br>consider<br>this<br>soldier<br>expand<br>wing<br>deal
+bip_39_word_new_br8: vacuum<br>consider<br>this<br>soldier<br>expand<br>wing<br>deal<br>pass
+bip_39_word_new_br9: vacuum<br>consider<br>this<br>soldier<br>expand<br>wing<br>deal<br>pass<br>never
+bip_39_word_new_line1: vacuum
+bip_39_word_new_line10: 'vacuum
+
+  consider
+
+  this
+
+  soldier
+
+  expand
+
+  wing
+
+  deal
+
+  pass
+
+  never
+
+  menu'
+bip_39_word_new_line11: 'vacuum
+
+  consider
+
+  this
+
+  soldier
+
+  expand
+
+  wing
+
+  deal
+
+  pass
+
+  never
+
+  menu
+
+  ghost'
+bip_39_word_new_line12: 'vacuum
+
+  consider
+
+  this
+
+  soldier
+
+  expand
+
+  wing
+
+  deal
+
+  pass
+
+  never
+
+  menu
+
+  ghost
+
+  attend'
+bip_39_word_new_line2: 'vacuum
+
+  consider'
+bip_39_word_new_line3: 'vacuum
+
+  consider
+
+  this'
+bip_39_word_new_line4: 'vacuum
+
+  consider
+
+  this
+
+  soldier'
+bip_39_word_new_line5: 'vacuum
+
+  consider
+
+  this
+
+  soldier
+
+  expand'
+bip_39_word_new_line6: 'vacuum
+
+  consider
+
+  this
+
+  soldier
+
+  expand
+
+  wing'
+bip_39_word_new_line7: 'vacuum
+
+  consider
+
+  this
+
+  soldier
+
+  expand
+
+  wing
+
+  deal'
+bip_39_word_new_line8: 'vacuum
+
+  consider
+
+  this
+
+  soldier
+
+  expand
+
+  wing
+
+  deal
+
+  pass'
+bip_39_word_new_line9: 'vacuum
+
+  consider
+
+  this
+
+  soldier
+
+  expand
+
+  wing
+
+  deal
+
+  pass
+
+  never'
+bip_39_word_space_0:
+- vacuum
+- consider
+- this
+- soldier
+- expand
+- wing
+- deal
+- pass
+- never
+- menu
+- ghost
+- attend
+bip_39_word_space_1: vacuum
+bip_39_word_space_10: vacuum consider this soldier expand wing deal pass never menu
+bip_39_word_space_11: vacuum consider this soldier expand wing deal pass never menu
+  ghost
+bip_39_word_space_12: vacuum consider this soldier expand wing deal pass never menu
+  ghost attend
+bip_39_word_space_2: vacuum consider
+bip_39_word_space_3: vacuum consider this
+bip_39_word_space_4: vacuum consider this soldier
+bip_39_word_space_5: vacuum consider this soldier expand
+bip_39_word_space_6: vacuum consider this soldier expand wing
+bip_39_word_space_7: vacuum consider this soldier expand wing deal
+bip_39_word_space_8: vacuum consider this soldier expand wing deal pass
+bip_39_word_space_9: vacuum consider this soldier expand wing deal pass never
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

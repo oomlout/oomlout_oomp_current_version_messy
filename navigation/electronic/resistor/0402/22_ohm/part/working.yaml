@@ -1,3 +1,185 @@
+bip_39_word_new_br1: opera
+bip_39_word_new_br10: opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal
+bip_39_word_new_br11: opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal<br>depart
+bip_39_word_new_br12: opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style<br>medal<br>depart<br>alien
+bip_39_word_new_br2: opera<br>final
+bip_39_word_new_br3: opera<br>final<br>bulk
+bip_39_word_new_br4: opera<br>final<br>bulk<br>gap
+bip_39_word_new_br5: opera<br>final<br>bulk<br>gap<br>never
+bip_39_word_new_br6: opera<br>final<br>bulk<br>gap<br>never<br>bargain
+bip_39_word_new_br7: opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner
+bip_39_word_new_br8: opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig
+bip_39_word_new_br9: opera<br>final<br>bulk<br>gap<br>never<br>bargain<br>dinner<br>pig<br>style
+bip_39_word_new_line1: opera
+bip_39_word_new_line10: 'opera
+
+  final
+
+  bulk
+
+  gap
+
+  never
+
+  bargain
+
+  dinner
+
+  pig
+
+  style
+
+  medal'
+bip_39_word_new_line11: 'opera
+
+  final
+
+  bulk
+
+  gap
+
+  never
+
+  bargain
+
+  dinner
+
+  pig
+
+  style
+
+  medal
+
+  depart'
+bip_39_word_new_line12: 'opera
+
+  final
+
+  bulk
+
+  gap
+
+  never
+
+  bargain
+
+  dinner
+
+  pig
+
+  style
+
+  medal
+
+  depart
+
+  alien'
+bip_39_word_new_line2: 'opera
+
+  final'
+bip_39_word_new_line3: 'opera
+
+  final
+
+  bulk'
+bip_39_word_new_line4: 'opera
+
+  final
+
+  bulk
+
+  gap'
+bip_39_word_new_line5: 'opera
+
+  final
+
+  bulk
+
+  gap
+
+  never'
+bip_39_word_new_line6: 'opera
+
+  final
+
+  bulk
+
+  gap
+
+  never
+
+  bargain'
+bip_39_word_new_line7: 'opera
+
+  final
+
+  bulk
+
+  gap
+
+  never
+
+  bargain
+
+  dinner'
+bip_39_word_new_line8: 'opera
+
+  final
+
+  bulk
+
+  gap
+
+  never
+
+  bargain
+
+  dinner
+
+  pig'
+bip_39_word_new_line9: 'opera
+
+  final
+
+  bulk
+
+  gap
+
+  never
+
+  bargain
+
+  dinner
+
+  pig
+
+  style'
+bip_39_word_space_0:
+- opera
+- final
+- bulk
+- gap
+- never
+- bargain
+- dinner
+- pig
+- style
+- medal
+- depart
+- alien
+bip_39_word_space_1: opera
+bip_39_word_space_10: opera final bulk gap never bargain dinner pig style medal
+bip_39_word_space_11: opera final bulk gap never bargain dinner pig style medal depart
+bip_39_word_space_12: opera final bulk gap never bargain dinner pig style medal depart
+  alien
+bip_39_word_space_2: opera final
+bip_39_word_space_3: opera final bulk
+bip_39_word_space_4: opera final bulk gap
+bip_39_word_space_5: opera final bulk gap never
+bip_39_word_space_6: opera final bulk gap never bargain
+bip_39_word_space_7: opera final bulk gap never bargain dinner
+bip_39_word_space_8: opera final bulk gap never bargain dinner pig
+bip_39_word_space_9: opera final bulk gap never bargain dinner pig style
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

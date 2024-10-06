@@ -1,3 +1,185 @@
+bip_39_word_new_br1: face
+bip_39_word_new_br10: face<br>raise<br>tuna<br>sketch<br>fragile<br>file<br>cheese<br>coral<br>gift<br>host
+bip_39_word_new_br11: face<br>raise<br>tuna<br>sketch<br>fragile<br>file<br>cheese<br>coral<br>gift<br>host<br>shove
+bip_39_word_new_br12: face<br>raise<br>tuna<br>sketch<br>fragile<br>file<br>cheese<br>coral<br>gift<br>host<br>shove<br>ancient
+bip_39_word_new_br2: face<br>raise
+bip_39_word_new_br3: face<br>raise<br>tuna
+bip_39_word_new_br4: face<br>raise<br>tuna<br>sketch
+bip_39_word_new_br5: face<br>raise<br>tuna<br>sketch<br>fragile
+bip_39_word_new_br6: face<br>raise<br>tuna<br>sketch<br>fragile<br>file
+bip_39_word_new_br7: face<br>raise<br>tuna<br>sketch<br>fragile<br>file<br>cheese
+bip_39_word_new_br8: face<br>raise<br>tuna<br>sketch<br>fragile<br>file<br>cheese<br>coral
+bip_39_word_new_br9: face<br>raise<br>tuna<br>sketch<br>fragile<br>file<br>cheese<br>coral<br>gift
+bip_39_word_new_line1: face
+bip_39_word_new_line10: 'face
+
+  raise
+
+  tuna
+
+  sketch
+
+  fragile
+
+  file
+
+  cheese
+
+  coral
+
+  gift
+
+  host'
+bip_39_word_new_line11: 'face
+
+  raise
+
+  tuna
+
+  sketch
+
+  fragile
+
+  file
+
+  cheese
+
+  coral
+
+  gift
+
+  host
+
+  shove'
+bip_39_word_new_line12: 'face
+
+  raise
+
+  tuna
+
+  sketch
+
+  fragile
+
+  file
+
+  cheese
+
+  coral
+
+  gift
+
+  host
+
+  shove
+
+  ancient'
+bip_39_word_new_line2: 'face
+
+  raise'
+bip_39_word_new_line3: 'face
+
+  raise
+
+  tuna'
+bip_39_word_new_line4: 'face
+
+  raise
+
+  tuna
+
+  sketch'
+bip_39_word_new_line5: 'face
+
+  raise
+
+  tuna
+
+  sketch
+
+  fragile'
+bip_39_word_new_line6: 'face
+
+  raise
+
+  tuna
+
+  sketch
+
+  fragile
+
+  file'
+bip_39_word_new_line7: 'face
+
+  raise
+
+  tuna
+
+  sketch
+
+  fragile
+
+  file
+
+  cheese'
+bip_39_word_new_line8: 'face
+
+  raise
+
+  tuna
+
+  sketch
+
+  fragile
+
+  file
+
+  cheese
+
+  coral'
+bip_39_word_new_line9: 'face
+
+  raise
+
+  tuna
+
+  sketch
+
+  fragile
+
+  file
+
+  cheese
+
+  coral
+
+  gift'
+bip_39_word_space_0:
+- face
+- raise
+- tuna
+- sketch
+- fragile
+- file
+- cheese
+- coral
+- gift
+- host
+- shove
+- ancient
+bip_39_word_space_1: face
+bip_39_word_space_10: face raise tuna sketch fragile file cheese coral gift host
+bip_39_word_space_11: face raise tuna sketch fragile file cheese coral gift host shove
+bip_39_word_space_12: face raise tuna sketch fragile file cheese coral gift host shove
+  ancient
+bip_39_word_space_2: face raise
+bip_39_word_space_3: face raise tuna
+bip_39_word_space_4: face raise tuna sketch
+bip_39_word_space_5: face raise tuna sketch fragile
+bip_39_word_space_6: face raise tuna sketch fragile file
+bip_39_word_space_7: face raise tuna sketch fragile file cheese
+bip_39_word_space_8: face raise tuna sketch fragile file cheese coral
+bip_39_word_space_9: face raise tuna sketch fragile file cheese coral gift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

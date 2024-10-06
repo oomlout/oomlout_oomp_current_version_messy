@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lonely rate
+  * bip 39 word 3: lonely rate govern
+  * bip 39 word: lonely rate govern life pair walk gadget country omit keen sponsor accident
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lonely |  
+| bip_39_word_new_br10 | lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit<br>keen |  
+| bip_39_word_new_br11 | lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit<br>keen<br>sponsor |  
+| bip_39_word_new_br12 | lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit<br>keen<br>sponsor<br>accident |  
+| bip_39_word_new_br2 | lonely<br>rate |  
+| bip_39_word_new_br3 | lonely<br>rate<br>govern |  
+| bip_39_word_new_br4 | lonely<br>rate<br>govern<br>life |  
+| bip_39_word_new_br5 | lonely<br>rate<br>govern<br>life<br>pair |  
+| bip_39_word_new_br6 | lonely<br>rate<br>govern<br>life<br>pair<br>walk |  
+| bip_39_word_new_br7 | lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget |  
+| bip_39_word_new_br8 | lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country |  
+| bip_39_word_new_br9 | lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit |  
+| bip_39_word_new_line1 | lonely |  
+| bip_39_word_new_line10 | lonely
+rate
+govern
+life
+pair
+walk
+gadget
+country
+omit
+keen |  
+| bip_39_word_new_line11 | lonely
+rate
+govern
+life
+pair
+walk
+gadget
+country
+omit
+keen
+sponsor |  
+| bip_39_word_new_line12 | lonely
+rate
+govern
+life
+pair
+walk
+gadget
+country
+omit
+keen
+sponsor
+accident |  
+| bip_39_word_new_line2 | lonely
+rate |  
+| bip_39_word_new_line3 | lonely
+rate
+govern |  
+| bip_39_word_new_line4 | lonely
+rate
+govern
+life |  
+| bip_39_word_new_line5 | lonely
+rate
+govern
+life
+pair |  
+| bip_39_word_new_line6 | lonely
+rate
+govern
+life
+pair
+walk |  
+| bip_39_word_new_line7 | lonely
+rate
+govern
+life
+pair
+walk
+gadget |  
+| bip_39_word_new_line8 | lonely
+rate
+govern
+life
+pair
+walk
+gadget
+country |  
+| bip_39_word_new_line9 | lonely
+rate
+govern
+life
+pair
+walk
+gadget
+country
+omit |  
+| bip_39_word_space_0 | ['lonely', 'rate', 'govern', 'life', 'pair', 'walk', 'gadget', 'country', 'omit', 'keen', 'sponsor', 'accident'] |  
+| bip_39_word_space_1 | lonely |  
+| bip_39_word_space_10 | lonely rate govern life pair walk gadget country omit keen |  
+| bip_39_word_space_11 | lonely rate govern life pair walk gadget country omit keen sponsor |  
+| bip_39_word_space_12 | lonely rate govern life pair walk gadget country omit keen sponsor accident |  
+| bip_39_word_space_2 | lonely rate |  
+| bip_39_word_space_3 | lonely rate govern |  
+| bip_39_word_space_4 | lonely rate govern life |  
+| bip_39_word_space_5 | lonely rate govern life pair |  
+| bip_39_word_space_6 | lonely rate govern life pair walk |  
+| bip_39_word_space_7 | lonely rate govern life pair walk gadget |  
+| bip_39_word_space_8 | lonely rate govern life pair walk gadget country |  
+| bip_39_word_space_9 | lonely rate govern life pair walk gadget country omit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

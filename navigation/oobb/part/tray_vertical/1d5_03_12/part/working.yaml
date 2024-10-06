@@ -1,3 +1,186 @@
+bip_39_word_new_br1: attack
+bip_39_word_new_br10: attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve
+bip_39_word_new_br11: attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve<br>dinner
+bip_39_word_new_br12: attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude<br>involve<br>dinner<br>auction
+bip_39_word_new_br2: attack<br>detect
+bip_39_word_new_br3: attack<br>detect<br>liberty
+bip_39_word_new_br4: attack<br>detect<br>liberty<br>peanut
+bip_39_word_new_br5: attack<br>detect<br>liberty<br>peanut<br>dog
+bip_39_word_new_br6: attack<br>detect<br>liberty<br>peanut<br>dog<br>awake
+bip_39_word_new_br7: attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car
+bip_39_word_new_br8: attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus
+bip_39_word_new_br9: attack<br>detect<br>liberty<br>peanut<br>dog<br>awake<br>car<br>bonus<br>attitude
+bip_39_word_new_line1: attack
+bip_39_word_new_line10: 'attack
+
+  detect
+
+  liberty
+
+  peanut
+
+  dog
+
+  awake
+
+  car
+
+  bonus
+
+  attitude
+
+  involve'
+bip_39_word_new_line11: 'attack
+
+  detect
+
+  liberty
+
+  peanut
+
+  dog
+
+  awake
+
+  car
+
+  bonus
+
+  attitude
+
+  involve
+
+  dinner'
+bip_39_word_new_line12: 'attack
+
+  detect
+
+  liberty
+
+  peanut
+
+  dog
+
+  awake
+
+  car
+
+  bonus
+
+  attitude
+
+  involve
+
+  dinner
+
+  auction'
+bip_39_word_new_line2: 'attack
+
+  detect'
+bip_39_word_new_line3: 'attack
+
+  detect
+
+  liberty'
+bip_39_word_new_line4: 'attack
+
+  detect
+
+  liberty
+
+  peanut'
+bip_39_word_new_line5: 'attack
+
+  detect
+
+  liberty
+
+  peanut
+
+  dog'
+bip_39_word_new_line6: 'attack
+
+  detect
+
+  liberty
+
+  peanut
+
+  dog
+
+  awake'
+bip_39_word_new_line7: 'attack
+
+  detect
+
+  liberty
+
+  peanut
+
+  dog
+
+  awake
+
+  car'
+bip_39_word_new_line8: 'attack
+
+  detect
+
+  liberty
+
+  peanut
+
+  dog
+
+  awake
+
+  car
+
+  bonus'
+bip_39_word_new_line9: 'attack
+
+  detect
+
+  liberty
+
+  peanut
+
+  dog
+
+  awake
+
+  car
+
+  bonus
+
+  attitude'
+bip_39_word_space_0:
+- attack
+- detect
+- liberty
+- peanut
+- dog
+- awake
+- car
+- bonus
+- attitude
+- involve
+- dinner
+- auction
+bip_39_word_space_1: attack
+bip_39_word_space_10: attack detect liberty peanut dog awake car bonus attitude involve
+bip_39_word_space_11: attack detect liberty peanut dog awake car bonus attitude involve
+  dinner
+bip_39_word_space_12: attack detect liberty peanut dog awake car bonus attitude involve
+  dinner auction
+bip_39_word_space_2: attack detect
+bip_39_word_space_3: attack detect liberty
+bip_39_word_space_4: attack detect liberty peanut
+bip_39_word_space_5: attack detect liberty peanut dog
+bip_39_word_space_6: attack detect liberty peanut dog awake
+bip_39_word_space_7: attack detect liberty peanut dog awake car
+bip_39_word_space_8: attack detect liberty peanut dog awake car bonus
+bip_39_word_space_9: attack detect liberty peanut dog awake car bonus attitude
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

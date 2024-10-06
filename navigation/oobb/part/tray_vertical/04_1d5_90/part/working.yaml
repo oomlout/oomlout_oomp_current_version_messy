@@ -1,3 +1,186 @@
+bip_39_word_new_br1: angle
+bip_39_word_new_br10: angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale
+bip_39_word_new_br11: angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale<br>lottery
+bip_39_word_new_br12: angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty<br>inhale<br>lottery<br>accident
+bip_39_word_new_br2: angle<br>frequent
+bip_39_word_new_br3: angle<br>frequent<br>divide
+bip_39_word_new_br4: angle<br>frequent<br>divide<br>lava
+bip_39_word_new_br5: angle<br>frequent<br>divide<br>lava<br>six
+bip_39_word_new_br6: angle<br>frequent<br>divide<br>lava<br>six<br>fabric
+bip_39_word_new_br7: angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick
+bip_39_word_new_br8: angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower
+bip_39_word_new_br9: angle<br>frequent<br>divide<br>lava<br>six<br>fabric<br>kick<br>empower<br>duty
+bip_39_word_new_line1: angle
+bip_39_word_new_line10: 'angle
+
+  frequent
+
+  divide
+
+  lava
+
+  six
+
+  fabric
+
+  kick
+
+  empower
+
+  duty
+
+  inhale'
+bip_39_word_new_line11: 'angle
+
+  frequent
+
+  divide
+
+  lava
+
+  six
+
+  fabric
+
+  kick
+
+  empower
+
+  duty
+
+  inhale
+
+  lottery'
+bip_39_word_new_line12: 'angle
+
+  frequent
+
+  divide
+
+  lava
+
+  six
+
+  fabric
+
+  kick
+
+  empower
+
+  duty
+
+  inhale
+
+  lottery
+
+  accident'
+bip_39_word_new_line2: 'angle
+
+  frequent'
+bip_39_word_new_line3: 'angle
+
+  frequent
+
+  divide'
+bip_39_word_new_line4: 'angle
+
+  frequent
+
+  divide
+
+  lava'
+bip_39_word_new_line5: 'angle
+
+  frequent
+
+  divide
+
+  lava
+
+  six'
+bip_39_word_new_line6: 'angle
+
+  frequent
+
+  divide
+
+  lava
+
+  six
+
+  fabric'
+bip_39_word_new_line7: 'angle
+
+  frequent
+
+  divide
+
+  lava
+
+  six
+
+  fabric
+
+  kick'
+bip_39_word_new_line8: 'angle
+
+  frequent
+
+  divide
+
+  lava
+
+  six
+
+  fabric
+
+  kick
+
+  empower'
+bip_39_word_new_line9: 'angle
+
+  frequent
+
+  divide
+
+  lava
+
+  six
+
+  fabric
+
+  kick
+
+  empower
+
+  duty'
+bip_39_word_space_0:
+- angle
+- frequent
+- divide
+- lava
+- six
+- fabric
+- kick
+- empower
+- duty
+- inhale
+- lottery
+- accident
+bip_39_word_space_1: angle
+bip_39_word_space_10: angle frequent divide lava six fabric kick empower duty inhale
+bip_39_word_space_11: angle frequent divide lava six fabric kick empower duty inhale
+  lottery
+bip_39_word_space_12: angle frequent divide lava six fabric kick empower duty inhale
+  lottery accident
+bip_39_word_space_2: angle frequent
+bip_39_word_space_3: angle frequent divide
+bip_39_word_space_4: angle frequent divide lava
+bip_39_word_space_5: angle frequent divide lava six
+bip_39_word_space_6: angle frequent divide lava six fabric
+bip_39_word_space_7: angle frequent divide lava six fabric kick
+bip_39_word_space_8: angle frequent divide lava six fabric kick empower
+bip_39_word_space_9: angle frequent divide lava six fabric kick empower duty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

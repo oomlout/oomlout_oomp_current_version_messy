@@ -1,3 +1,186 @@
+bip_39_word_new_br1: hire
+bip_39_word_new_br10: hire<br>invest<br>universe<br>dumb<br>false<br>endless<br>love<br>program<br>hurry<br>arctic
+bip_39_word_new_br11: hire<br>invest<br>universe<br>dumb<br>false<br>endless<br>love<br>program<br>hurry<br>arctic<br>fantasy
+bip_39_word_new_br12: hire<br>invest<br>universe<br>dumb<br>false<br>endless<br>love<br>program<br>hurry<br>arctic<br>fantasy<br>ancient
+bip_39_word_new_br2: hire<br>invest
+bip_39_word_new_br3: hire<br>invest<br>universe
+bip_39_word_new_br4: hire<br>invest<br>universe<br>dumb
+bip_39_word_new_br5: hire<br>invest<br>universe<br>dumb<br>false
+bip_39_word_new_br6: hire<br>invest<br>universe<br>dumb<br>false<br>endless
+bip_39_word_new_br7: hire<br>invest<br>universe<br>dumb<br>false<br>endless<br>love
+bip_39_word_new_br8: hire<br>invest<br>universe<br>dumb<br>false<br>endless<br>love<br>program
+bip_39_word_new_br9: hire<br>invest<br>universe<br>dumb<br>false<br>endless<br>love<br>program<br>hurry
+bip_39_word_new_line1: hire
+bip_39_word_new_line10: 'hire
+
+  invest
+
+  universe
+
+  dumb
+
+  false
+
+  endless
+
+  love
+
+  program
+
+  hurry
+
+  arctic'
+bip_39_word_new_line11: 'hire
+
+  invest
+
+  universe
+
+  dumb
+
+  false
+
+  endless
+
+  love
+
+  program
+
+  hurry
+
+  arctic
+
+  fantasy'
+bip_39_word_new_line12: 'hire
+
+  invest
+
+  universe
+
+  dumb
+
+  false
+
+  endless
+
+  love
+
+  program
+
+  hurry
+
+  arctic
+
+  fantasy
+
+  ancient'
+bip_39_word_new_line2: 'hire
+
+  invest'
+bip_39_word_new_line3: 'hire
+
+  invest
+
+  universe'
+bip_39_word_new_line4: 'hire
+
+  invest
+
+  universe
+
+  dumb'
+bip_39_word_new_line5: 'hire
+
+  invest
+
+  universe
+
+  dumb
+
+  false'
+bip_39_word_new_line6: 'hire
+
+  invest
+
+  universe
+
+  dumb
+
+  false
+
+  endless'
+bip_39_word_new_line7: 'hire
+
+  invest
+
+  universe
+
+  dumb
+
+  false
+
+  endless
+
+  love'
+bip_39_word_new_line8: 'hire
+
+  invest
+
+  universe
+
+  dumb
+
+  false
+
+  endless
+
+  love
+
+  program'
+bip_39_word_new_line9: 'hire
+
+  invest
+
+  universe
+
+  dumb
+
+  false
+
+  endless
+
+  love
+
+  program
+
+  hurry'
+bip_39_word_space_0:
+- hire
+- invest
+- universe
+- dumb
+- 'false'
+- endless
+- love
+- program
+- hurry
+- arctic
+- fantasy
+- ancient
+bip_39_word_space_1: hire
+bip_39_word_space_10: hire invest universe dumb false endless love program hurry arctic
+bip_39_word_space_11: hire invest universe dumb false endless love program hurry arctic
+  fantasy
+bip_39_word_space_12: hire invest universe dumb false endless love program hurry arctic
+  fantasy ancient
+bip_39_word_space_2: hire invest
+bip_39_word_space_3: hire invest universe
+bip_39_word_space_4: hire invest universe dumb
+bip_39_word_space_5: hire invest universe dumb false
+bip_39_word_space_6: hire invest universe dumb false endless
+bip_39_word_space_7: hire invest universe dumb false endless love
+bip_39_word_space_8: hire invest universe dumb false endless love program
+bip_39_word_space_9: hire invest universe dumb false endless love program hurry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: sample remember
+  * bip 39 word 3: sample remember insect
+  * bip 39 word: sample remember insect beach brand rubber discover garlic degree damage penalty aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | sample |  
+| bip_39_word_new_br10 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber<br>discover<br>garlic<br>degree<br>damage |  
+| bip_39_word_new_br11 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber<br>discover<br>garlic<br>degree<br>damage<br>penalty |  
+| bip_39_word_new_br12 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber<br>discover<br>garlic<br>degree<br>damage<br>penalty<br>aim |  
+| bip_39_word_new_br2 | sample<br>remember |  
+| bip_39_word_new_br3 | sample<br>remember<br>insect |  
+| bip_39_word_new_br4 | sample<br>remember<br>insect<br>beach |  
+| bip_39_word_new_br5 | sample<br>remember<br>insect<br>beach<br>brand |  
+| bip_39_word_new_br6 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber |  
+| bip_39_word_new_br7 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber<br>discover |  
+| bip_39_word_new_br8 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber<br>discover<br>garlic |  
+| bip_39_word_new_br9 | sample<br>remember<br>insect<br>beach<br>brand<br>rubber<br>discover<br>garlic<br>degree |  
+| bip_39_word_new_line1 | sample |  
+| bip_39_word_new_line10 | sample
+remember
+insect
+beach
+brand
+rubber
+discover
+garlic
+degree
+damage |  
+| bip_39_word_new_line11 | sample
+remember
+insect
+beach
+brand
+rubber
+discover
+garlic
+degree
+damage
+penalty |  
+| bip_39_word_new_line12 | sample
+remember
+insect
+beach
+brand
+rubber
+discover
+garlic
+degree
+damage
+penalty
+aim |  
+| bip_39_word_new_line2 | sample
+remember |  
+| bip_39_word_new_line3 | sample
+remember
+insect |  
+| bip_39_word_new_line4 | sample
+remember
+insect
+beach |  
+| bip_39_word_new_line5 | sample
+remember
+insect
+beach
+brand |  
+| bip_39_word_new_line6 | sample
+remember
+insect
+beach
+brand
+rubber |  
+| bip_39_word_new_line7 | sample
+remember
+insect
+beach
+brand
+rubber
+discover |  
+| bip_39_word_new_line8 | sample
+remember
+insect
+beach
+brand
+rubber
+discover
+garlic |  
+| bip_39_word_new_line9 | sample
+remember
+insect
+beach
+brand
+rubber
+discover
+garlic
+degree |  
+| bip_39_word_space_0 | ['sample', 'remember', 'insect', 'beach', 'brand', 'rubber', 'discover', 'garlic', 'degree', 'damage', 'penalty', 'aim'] |  
+| bip_39_word_space_1 | sample |  
+| bip_39_word_space_10 | sample remember insect beach brand rubber discover garlic degree damage |  
+| bip_39_word_space_11 | sample remember insect beach brand rubber discover garlic degree damage penalty |  
+| bip_39_word_space_12 | sample remember insect beach brand rubber discover garlic degree damage penalty aim |  
+| bip_39_word_space_2 | sample remember |  
+| bip_39_word_space_3 | sample remember insect |  
+| bip_39_word_space_4 | sample remember insect beach |  
+| bip_39_word_space_5 | sample remember insect beach brand |  
+| bip_39_word_space_6 | sample remember insect beach brand rubber |  
+| bip_39_word_space_7 | sample remember insect beach brand rubber discover |  
+| bip_39_word_space_8 | sample remember insect beach brand rubber discover garlic |  
+| bip_39_word_space_9 | sample remember insect beach brand rubber discover garlic degree |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

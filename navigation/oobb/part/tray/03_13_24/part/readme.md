@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: day mountain
+  * bip 39 word 3: day mountain hero
+  * bip 39 word: 
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | day |  
+| bip_39_word_new_br10 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature<br>shoulder |  
+| bip_39_word_new_br11 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature<br>shoulder<br>other |  
+| bip_39_word_new_br2 | day<br>mountain |  
+| bip_39_word_new_br3 | day<br>mountain<br>hero |  
+| bip_39_word_new_br4 | day<br>mountain<br>hero<br>wealth |  
+| bip_39_word_new_br5 | day<br>mountain<br>hero<br>wealth<br>benefit |  
+| bip_39_word_new_br6 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump |  
+| bip_39_word_new_br7 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check |  
+| bip_39_word_new_br8 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst |  
+| bip_39_word_new_br9 | day<br>mountain<br>hero<br>wealth<br>benefit<br>clump<br>check<br>burst<br>feature |  
+| bip_39_word_new_line1 | day |  
+| bip_39_word_new_line10 | day
+mountain
+hero
+wealth
+benefit
+clump
+check
+burst
+feature
+shoulder |  
+| bip_39_word_new_line11 | day
+mountain
+hero
+wealth
+benefit
+clump
+check
+burst
+feature
+shoulder
+other |  
+| bip_39_word_new_line2 | day
+mountain |  
+| bip_39_word_new_line3 | day
+mountain
+hero |  
+| bip_39_word_new_line4 | day
+mountain
+hero
+wealth |  
+| bip_39_word_new_line5 | day
+mountain
+hero
+wealth
+benefit |  
+| bip_39_word_new_line6 | day
+mountain
+hero
+wealth
+benefit
+clump |  
+| bip_39_word_new_line7 | day
+mountain
+hero
+wealth
+benefit
+clump
+check |  
+| bip_39_word_new_line8 | day
+mountain
+hero
+wealth
+benefit
+clump
+check
+burst |  
+| bip_39_word_new_line9 | day
+mountain
+hero
+wealth
+benefit
+clump
+check
+burst
+feature |  
+| bip_39_word_space_0 | ['day', 'mountain', 'hero', 'wealth', 'benefit', 'clump', 'check', 'burst', 'feature', 'shoulder', 'other'] |  
+| bip_39_word_space_1 | day |  
+| bip_39_word_space_10 | day mountain hero wealth benefit clump check burst feature shoulder |  
+| bip_39_word_space_11 | day mountain hero wealth benefit clump check burst feature shoulder other |  
+| bip_39_word_space_2 | day mountain |  
+| bip_39_word_space_3 | day mountain hero |  
+| bip_39_word_space_4 | day mountain hero wealth |  
+| bip_39_word_space_5 | day mountain hero wealth benefit |  
+| bip_39_word_space_6 | day mountain hero wealth benefit clump |  
+| bip_39_word_space_7 | day mountain hero wealth benefit clump check |  
+| bip_39_word_space_8 | day mountain hero wealth benefit clump check burst |  
+| bip_39_word_space_9 | day mountain hero wealth benefit clump check burst feature |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

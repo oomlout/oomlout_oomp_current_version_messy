@@ -1,3 +1,186 @@
+bip_39_word_new_br1: scrap
+bip_39_word_new_br10: scrap<br>alter<br>theory<br>very<br>pottery<br>kit<br>dynamic<br>slide<br>race<br>furnace
+bip_39_word_new_br11: scrap<br>alter<br>theory<br>very<br>pottery<br>kit<br>dynamic<br>slide<br>race<br>furnace<br>humor
+bip_39_word_new_br12: scrap<br>alter<br>theory<br>very<br>pottery<br>kit<br>dynamic<br>slide<br>race<br>furnace<br>humor<br>action
+bip_39_word_new_br2: scrap<br>alter
+bip_39_word_new_br3: scrap<br>alter<br>theory
+bip_39_word_new_br4: scrap<br>alter<br>theory<br>very
+bip_39_word_new_br5: scrap<br>alter<br>theory<br>very<br>pottery
+bip_39_word_new_br6: scrap<br>alter<br>theory<br>very<br>pottery<br>kit
+bip_39_word_new_br7: scrap<br>alter<br>theory<br>very<br>pottery<br>kit<br>dynamic
+bip_39_word_new_br8: scrap<br>alter<br>theory<br>very<br>pottery<br>kit<br>dynamic<br>slide
+bip_39_word_new_br9: scrap<br>alter<br>theory<br>very<br>pottery<br>kit<br>dynamic<br>slide<br>race
+bip_39_word_new_line1: scrap
+bip_39_word_new_line10: 'scrap
+
+  alter
+
+  theory
+
+  very
+
+  pottery
+
+  kit
+
+  dynamic
+
+  slide
+
+  race
+
+  furnace'
+bip_39_word_new_line11: 'scrap
+
+  alter
+
+  theory
+
+  very
+
+  pottery
+
+  kit
+
+  dynamic
+
+  slide
+
+  race
+
+  furnace
+
+  humor'
+bip_39_word_new_line12: 'scrap
+
+  alter
+
+  theory
+
+  very
+
+  pottery
+
+  kit
+
+  dynamic
+
+  slide
+
+  race
+
+  furnace
+
+  humor
+
+  action'
+bip_39_word_new_line2: 'scrap
+
+  alter'
+bip_39_word_new_line3: 'scrap
+
+  alter
+
+  theory'
+bip_39_word_new_line4: 'scrap
+
+  alter
+
+  theory
+
+  very'
+bip_39_word_new_line5: 'scrap
+
+  alter
+
+  theory
+
+  very
+
+  pottery'
+bip_39_word_new_line6: 'scrap
+
+  alter
+
+  theory
+
+  very
+
+  pottery
+
+  kit'
+bip_39_word_new_line7: 'scrap
+
+  alter
+
+  theory
+
+  very
+
+  pottery
+
+  kit
+
+  dynamic'
+bip_39_word_new_line8: 'scrap
+
+  alter
+
+  theory
+
+  very
+
+  pottery
+
+  kit
+
+  dynamic
+
+  slide'
+bip_39_word_new_line9: 'scrap
+
+  alter
+
+  theory
+
+  very
+
+  pottery
+
+  kit
+
+  dynamic
+
+  slide
+
+  race'
+bip_39_word_space_0:
+- scrap
+- alter
+- theory
+- very
+- pottery
+- kit
+- dynamic
+- slide
+- race
+- furnace
+- humor
+- action
+bip_39_word_space_1: scrap
+bip_39_word_space_10: scrap alter theory very pottery kit dynamic slide race furnace
+bip_39_word_space_11: scrap alter theory very pottery kit dynamic slide race furnace
+  humor
+bip_39_word_space_12: scrap alter theory very pottery kit dynamic slide race furnace
+  humor action
+bip_39_word_space_2: scrap alter
+bip_39_word_space_3: scrap alter theory
+bip_39_word_space_4: scrap alter theory very
+bip_39_word_space_5: scrap alter theory very pottery
+bip_39_word_space_6: scrap alter theory very pottery kit
+bip_39_word_space_7: scrap alter theory very pottery kit dynamic
+bip_39_word_space_8: scrap alter theory very pottery kit dynamic slide
+bip_39_word_space_9: scrap alter theory very pottery kit dynamic slide race
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

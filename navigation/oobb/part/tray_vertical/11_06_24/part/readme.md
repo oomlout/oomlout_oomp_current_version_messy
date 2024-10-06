@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: runway fever
+  * bip 39 word 3: runway fever hammer
+  * bip 39 word: runway fever hammer slush wreck mask answer throw midnight team mirror ability
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | runway |  
+| bip_39_word_new_br10 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask<br>answer<br>throw<br>midnight<br>team |  
+| bip_39_word_new_br11 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask<br>answer<br>throw<br>midnight<br>team<br>mirror |  
+| bip_39_word_new_br12 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask<br>answer<br>throw<br>midnight<br>team<br>mirror<br>ability |  
+| bip_39_word_new_br2 | runway<br>fever |  
+| bip_39_word_new_br3 | runway<br>fever<br>hammer |  
+| bip_39_word_new_br4 | runway<br>fever<br>hammer<br>slush |  
+| bip_39_word_new_br5 | runway<br>fever<br>hammer<br>slush<br>wreck |  
+| bip_39_word_new_br6 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask |  
+| bip_39_word_new_br7 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask<br>answer |  
+| bip_39_word_new_br8 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask<br>answer<br>throw |  
+| bip_39_word_new_br9 | runway<br>fever<br>hammer<br>slush<br>wreck<br>mask<br>answer<br>throw<br>midnight |  
+| bip_39_word_new_line1 | runway |  
+| bip_39_word_new_line10 | runway
+fever
+hammer
+slush
+wreck
+mask
+answer
+throw
+midnight
+team |  
+| bip_39_word_new_line11 | runway
+fever
+hammer
+slush
+wreck
+mask
+answer
+throw
+midnight
+team
+mirror |  
+| bip_39_word_new_line12 | runway
+fever
+hammer
+slush
+wreck
+mask
+answer
+throw
+midnight
+team
+mirror
+ability |  
+| bip_39_word_new_line2 | runway
+fever |  
+| bip_39_word_new_line3 | runway
+fever
+hammer |  
+| bip_39_word_new_line4 | runway
+fever
+hammer
+slush |  
+| bip_39_word_new_line5 | runway
+fever
+hammer
+slush
+wreck |  
+| bip_39_word_new_line6 | runway
+fever
+hammer
+slush
+wreck
+mask |  
+| bip_39_word_new_line7 | runway
+fever
+hammer
+slush
+wreck
+mask
+answer |  
+| bip_39_word_new_line8 | runway
+fever
+hammer
+slush
+wreck
+mask
+answer
+throw |  
+| bip_39_word_new_line9 | runway
+fever
+hammer
+slush
+wreck
+mask
+answer
+throw
+midnight |  
+| bip_39_word_space_0 | ['runway', 'fever', 'hammer', 'slush', 'wreck', 'mask', 'answer', 'throw', 'midnight', 'team', 'mirror', 'ability'] |  
+| bip_39_word_space_1 | runway |  
+| bip_39_word_space_10 | runway fever hammer slush wreck mask answer throw midnight team |  
+| bip_39_word_space_11 | runway fever hammer slush wreck mask answer throw midnight team mirror |  
+| bip_39_word_space_12 | runway fever hammer slush wreck mask answer throw midnight team mirror ability |  
+| bip_39_word_space_2 | runway fever |  
+| bip_39_word_space_3 | runway fever hammer |  
+| bip_39_word_space_4 | runway fever hammer slush |  
+| bip_39_word_space_5 | runway fever hammer slush wreck |  
+| bip_39_word_space_6 | runway fever hammer slush wreck mask |  
+| bip_39_word_space_7 | runway fever hammer slush wreck mask answer |  
+| bip_39_word_space_8 | runway fever hammer slush wreck mask answer throw |  
+| bip_39_word_space_9 | runway fever hammer slush wreck mask answer throw midnight |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enforce virus
+  * bip 39 word 3: enforce virus embark
+  * bip 39 word: enforce virus embark craft cliff athlete stock place palm echo raccoon antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enforce |  
+| bip_39_word_new_br10 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete<br>stock<br>place<br>palm<br>echo |  
+| bip_39_word_new_br11 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete<br>stock<br>place<br>palm<br>echo<br>raccoon |  
+| bip_39_word_new_br12 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete<br>stock<br>place<br>palm<br>echo<br>raccoon<br>antenna |  
+| bip_39_word_new_br2 | enforce<br>virus |  
+| bip_39_word_new_br3 | enforce<br>virus<br>embark |  
+| bip_39_word_new_br4 | enforce<br>virus<br>embark<br>craft |  
+| bip_39_word_new_br5 | enforce<br>virus<br>embark<br>craft<br>cliff |  
+| bip_39_word_new_br6 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete |  
+| bip_39_word_new_br7 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete<br>stock |  
+| bip_39_word_new_br8 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete<br>stock<br>place |  
+| bip_39_word_new_br9 | enforce<br>virus<br>embark<br>craft<br>cliff<br>athlete<br>stock<br>place<br>palm |  
+| bip_39_word_new_line1 | enforce |  
+| bip_39_word_new_line10 | enforce
+virus
+embark
+craft
+cliff
+athlete
+stock
+place
+palm
+echo |  
+| bip_39_word_new_line11 | enforce
+virus
+embark
+craft
+cliff
+athlete
+stock
+place
+palm
+echo
+raccoon |  
+| bip_39_word_new_line12 | enforce
+virus
+embark
+craft
+cliff
+athlete
+stock
+place
+palm
+echo
+raccoon
+antenna |  
+| bip_39_word_new_line2 | enforce
+virus |  
+| bip_39_word_new_line3 | enforce
+virus
+embark |  
+| bip_39_word_new_line4 | enforce
+virus
+embark
+craft |  
+| bip_39_word_new_line5 | enforce
+virus
+embark
+craft
+cliff |  
+| bip_39_word_new_line6 | enforce
+virus
+embark
+craft
+cliff
+athlete |  
+| bip_39_word_new_line7 | enforce
+virus
+embark
+craft
+cliff
+athlete
+stock |  
+| bip_39_word_new_line8 | enforce
+virus
+embark
+craft
+cliff
+athlete
+stock
+place |  
+| bip_39_word_new_line9 | enforce
+virus
+embark
+craft
+cliff
+athlete
+stock
+place
+palm |  
+| bip_39_word_space_0 | ['enforce', 'virus', 'embark', 'craft', 'cliff', 'athlete', 'stock', 'place', 'palm', 'echo', 'raccoon', 'antenna'] |  
+| bip_39_word_space_1 | enforce |  
+| bip_39_word_space_10 | enforce virus embark craft cliff athlete stock place palm echo |  
+| bip_39_word_space_11 | enforce virus embark craft cliff athlete stock place palm echo raccoon |  
+| bip_39_word_space_12 | enforce virus embark craft cliff athlete stock place palm echo raccoon antenna |  
+| bip_39_word_space_2 | enforce virus |  
+| bip_39_word_space_3 | enforce virus embark |  
+| bip_39_word_space_4 | enforce virus embark craft |  
+| bip_39_word_space_5 | enforce virus embark craft cliff |  
+| bip_39_word_space_6 | enforce virus embark craft cliff athlete |  
+| bip_39_word_space_7 | enforce virus embark craft cliff athlete stock |  
+| bip_39_word_space_8 | enforce virus embark craft cliff athlete stock place |  
+| bip_39_word_space_9 | enforce virus embark craft cliff athlete stock place palm |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

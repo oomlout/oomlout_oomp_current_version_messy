@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amazing allow
+  * bip 39 word 3: amazing allow web
+  * bip 39 word: amazing allow web nasty bless love art sick rotate dolphin marriage attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amazing |  
+| bip_39_word_new_br10 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin |  
+| bip_39_word_new_br11 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin<br>marriage |  
+| bip_39_word_new_br12 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate<br>dolphin<br>marriage<br>attract |  
+| bip_39_word_new_br2 | amazing<br>allow |  
+| bip_39_word_new_br3 | amazing<br>allow<br>web |  
+| bip_39_word_new_br4 | amazing<br>allow<br>web<br>nasty |  
+| bip_39_word_new_br5 | amazing<br>allow<br>web<br>nasty<br>bless |  
+| bip_39_word_new_br6 | amazing<br>allow<br>web<br>nasty<br>bless<br>love |  
+| bip_39_word_new_br7 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art |  
+| bip_39_word_new_br8 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick |  
+| bip_39_word_new_br9 | amazing<br>allow<br>web<br>nasty<br>bless<br>love<br>art<br>sick<br>rotate |  
+| bip_39_word_new_line1 | amazing |  
+| bip_39_word_new_line10 | amazing
+allow
+web
+nasty
+bless
+love
+art
+sick
+rotate
+dolphin |  
+| bip_39_word_new_line11 | amazing
+allow
+web
+nasty
+bless
+love
+art
+sick
+rotate
+dolphin
+marriage |  
+| bip_39_word_new_line12 | amazing
+allow
+web
+nasty
+bless
+love
+art
+sick
+rotate
+dolphin
+marriage
+attract |  
+| bip_39_word_new_line2 | amazing
+allow |  
+| bip_39_word_new_line3 | amazing
+allow
+web |  
+| bip_39_word_new_line4 | amazing
+allow
+web
+nasty |  
+| bip_39_word_new_line5 | amazing
+allow
+web
+nasty
+bless |  
+| bip_39_word_new_line6 | amazing
+allow
+web
+nasty
+bless
+love |  
+| bip_39_word_new_line7 | amazing
+allow
+web
+nasty
+bless
+love
+art |  
+| bip_39_word_new_line8 | amazing
+allow
+web
+nasty
+bless
+love
+art
+sick |  
+| bip_39_word_new_line9 | amazing
+allow
+web
+nasty
+bless
+love
+art
+sick
+rotate |  
+| bip_39_word_space_0 | ['amazing', 'allow', 'web', 'nasty', 'bless', 'love', 'art', 'sick', 'rotate', 'dolphin', 'marriage', 'attract'] |  
+| bip_39_word_space_1 | amazing |  
+| bip_39_word_space_10 | amazing allow web nasty bless love art sick rotate dolphin |  
+| bip_39_word_space_11 | amazing allow web nasty bless love art sick rotate dolphin marriage |  
+| bip_39_word_space_12 | amazing allow web nasty bless love art sick rotate dolphin marriage attract |  
+| bip_39_word_space_2 | amazing allow |  
+| bip_39_word_space_3 | amazing allow web |  
+| bip_39_word_space_4 | amazing allow web nasty |  
+| bip_39_word_space_5 | amazing allow web nasty bless |  
+| bip_39_word_space_6 | amazing allow web nasty bless love |  
+| bip_39_word_space_7 | amazing allow web nasty bless love art |  
+| bip_39_word_space_8 | amazing allow web nasty bless love art sick |  
+| bip_39_word_space_9 | amazing allow web nasty bless love art sick rotate |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

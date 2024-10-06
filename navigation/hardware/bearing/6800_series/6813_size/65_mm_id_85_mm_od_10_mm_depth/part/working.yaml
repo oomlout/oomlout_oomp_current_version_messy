@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nothing
+bip_39_word_new_br10: nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover
+bip_39_word_new_br11: nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover<br>six
+bip_39_word_new_br12: nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift<br>uncover<br>six<br>all
+bip_39_word_new_br2: nothing<br>prosper
+bip_39_word_new_br3: nothing<br>prosper<br>grit
+bip_39_word_new_br4: nothing<br>prosper<br>grit<br>chuckle
+bip_39_word_new_br5: nothing<br>prosper<br>grit<br>chuckle<br>life
+bip_39_word_new_br6: nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust
+bip_39_word_new_br7: nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit
+bip_39_word_new_br8: nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want
+bip_39_word_new_br9: nothing<br>prosper<br>grit<br>chuckle<br>life<br>dust<br>credit<br>want<br>drift
+bip_39_word_new_line1: nothing
+bip_39_word_new_line10: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle
+
+  life
+
+  dust
+
+  credit
+
+  want
+
+  drift
+
+  uncover'
+bip_39_word_new_line11: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle
+
+  life
+
+  dust
+
+  credit
+
+  want
+
+  drift
+
+  uncover
+
+  six'
+bip_39_word_new_line12: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle
+
+  life
+
+  dust
+
+  credit
+
+  want
+
+  drift
+
+  uncover
+
+  six
+
+  all'
+bip_39_word_new_line2: 'nothing
+
+  prosper'
+bip_39_word_new_line3: 'nothing
+
+  prosper
+
+  grit'
+bip_39_word_new_line4: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle'
+bip_39_word_new_line5: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle
+
+  life'
+bip_39_word_new_line6: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle
+
+  life
+
+  dust'
+bip_39_word_new_line7: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle
+
+  life
+
+  dust
+
+  credit'
+bip_39_word_new_line8: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle
+
+  life
+
+  dust
+
+  credit
+
+  want'
+bip_39_word_new_line9: 'nothing
+
+  prosper
+
+  grit
+
+  chuckle
+
+  life
+
+  dust
+
+  credit
+
+  want
+
+  drift'
+bip_39_word_space_0:
+- nothing
+- prosper
+- grit
+- chuckle
+- life
+- dust
+- credit
+- want
+- drift
+- uncover
+- six
+- all
+bip_39_word_space_1: nothing
+bip_39_word_space_10: nothing prosper grit chuckle life dust credit want drift uncover
+bip_39_word_space_11: nothing prosper grit chuckle life dust credit want drift uncover
+  six
+bip_39_word_space_12: nothing prosper grit chuckle life dust credit want drift uncover
+  six all
+bip_39_word_space_2: nothing prosper
+bip_39_word_space_3: nothing prosper grit
+bip_39_word_space_4: nothing prosper grit chuckle
+bip_39_word_space_5: nothing prosper grit chuckle life
+bip_39_word_space_6: nothing prosper grit chuckle life dust
+bip_39_word_space_7: nothing prosper grit chuckle life dust credit
+bip_39_word_space_8: nothing prosper grit chuckle life dust credit want
+bip_39_word_space_9: nothing prosper grit chuckle life dust credit want drift
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: entire
+bip_39_word_new_br10: entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly
+bip_39_word_new_br11: entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly<br>smooth
+bip_39_word_new_br12: entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch<br>jelly<br>smooth<br>argue
+bip_39_word_new_br2: entire<br>dizzy
+bip_39_word_new_br3: entire<br>dizzy<br>best
+bip_39_word_new_br4: entire<br>dizzy<br>best<br>error
+bip_39_word_new_br5: entire<br>dizzy<br>best<br>error<br>horn
+bip_39_word_new_br6: entire<br>dizzy<br>best<br>error<br>horn<br>mistake
+bip_39_word_new_br7: entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella
+bip_39_word_new_br8: entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long
+bip_39_word_new_br9: entire<br>dizzy<br>best<br>error<br>horn<br>mistake<br>umbrella<br>long<br>switch
+bip_39_word_new_line1: entire
+bip_39_word_new_line10: 'entire
+
+  dizzy
+
+  best
+
+  error
+
+  horn
+
+  mistake
+
+  umbrella
+
+  long
+
+  switch
+
+  jelly'
+bip_39_word_new_line11: 'entire
+
+  dizzy
+
+  best
+
+  error
+
+  horn
+
+  mistake
+
+  umbrella
+
+  long
+
+  switch
+
+  jelly
+
+  smooth'
+bip_39_word_new_line12: 'entire
+
+  dizzy
+
+  best
+
+  error
+
+  horn
+
+  mistake
+
+  umbrella
+
+  long
+
+  switch
+
+  jelly
+
+  smooth
+
+  argue'
+bip_39_word_new_line2: 'entire
+
+  dizzy'
+bip_39_word_new_line3: 'entire
+
+  dizzy
+
+  best'
+bip_39_word_new_line4: 'entire
+
+  dizzy
+
+  best
+
+  error'
+bip_39_word_new_line5: 'entire
+
+  dizzy
+
+  best
+
+  error
+
+  horn'
+bip_39_word_new_line6: 'entire
+
+  dizzy
+
+  best
+
+  error
+
+  horn
+
+  mistake'
+bip_39_word_new_line7: 'entire
+
+  dizzy
+
+  best
+
+  error
+
+  horn
+
+  mistake
+
+  umbrella'
+bip_39_word_new_line8: 'entire
+
+  dizzy
+
+  best
+
+  error
+
+  horn
+
+  mistake
+
+  umbrella
+
+  long'
+bip_39_word_new_line9: 'entire
+
+  dizzy
+
+  best
+
+  error
+
+  horn
+
+  mistake
+
+  umbrella
+
+  long
+
+  switch'
+bip_39_word_space_0:
+- entire
+- dizzy
+- best
+- error
+- horn
+- mistake
+- umbrella
+- long
+- switch
+- jelly
+- smooth
+- argue
+bip_39_word_space_1: entire
+bip_39_word_space_10: entire dizzy best error horn mistake umbrella long switch jelly
+bip_39_word_space_11: entire dizzy best error horn mistake umbrella long switch jelly
+  smooth
+bip_39_word_space_12: entire dizzy best error horn mistake umbrella long switch jelly
+  smooth argue
+bip_39_word_space_2: entire dizzy
+bip_39_word_space_3: entire dizzy best
+bip_39_word_space_4: entire dizzy best error
+bip_39_word_space_5: entire dizzy best error horn
+bip_39_word_space_6: entire dizzy best error horn mistake
+bip_39_word_space_7: entire dizzy best error horn mistake umbrella
+bip_39_word_space_8: entire dizzy best error horn mistake umbrella long
+bip_39_word_space_9: entire dizzy best error horn mistake umbrella long switch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

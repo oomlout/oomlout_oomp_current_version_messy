@@ -1,3 +1,187 @@
+bip_39_word_new_br1: surprise
+bip_39_word_new_br10: surprise<br>tourist<br>where<br>zone<br>crumble<br>float<br>length<br>steel<br>mixture<br>hollow
+bip_39_word_new_br11: surprise<br>tourist<br>where<br>zone<br>crumble<br>float<br>length<br>steel<br>mixture<br>hollow<br>melody
+bip_39_word_new_br12: surprise<br>tourist<br>where<br>zone<br>crumble<br>float<br>length<br>steel<br>mixture<br>hollow<br>melody<br>ankle
+bip_39_word_new_br2: surprise<br>tourist
+bip_39_word_new_br3: surprise<br>tourist<br>where
+bip_39_word_new_br4: surprise<br>tourist<br>where<br>zone
+bip_39_word_new_br5: surprise<br>tourist<br>where<br>zone<br>crumble
+bip_39_word_new_br6: surprise<br>tourist<br>where<br>zone<br>crumble<br>float
+bip_39_word_new_br7: surprise<br>tourist<br>where<br>zone<br>crumble<br>float<br>length
+bip_39_word_new_br8: surprise<br>tourist<br>where<br>zone<br>crumble<br>float<br>length<br>steel
+bip_39_word_new_br9: surprise<br>tourist<br>where<br>zone<br>crumble<br>float<br>length<br>steel<br>mixture
+bip_39_word_new_line1: surprise
+bip_39_word_new_line10: 'surprise
+
+  tourist
+
+  where
+
+  zone
+
+  crumble
+
+  float
+
+  length
+
+  steel
+
+  mixture
+
+  hollow'
+bip_39_word_new_line11: 'surprise
+
+  tourist
+
+  where
+
+  zone
+
+  crumble
+
+  float
+
+  length
+
+  steel
+
+  mixture
+
+  hollow
+
+  melody'
+bip_39_word_new_line12: 'surprise
+
+  tourist
+
+  where
+
+  zone
+
+  crumble
+
+  float
+
+  length
+
+  steel
+
+  mixture
+
+  hollow
+
+  melody
+
+  ankle'
+bip_39_word_new_line2: 'surprise
+
+  tourist'
+bip_39_word_new_line3: 'surprise
+
+  tourist
+
+  where'
+bip_39_word_new_line4: 'surprise
+
+  tourist
+
+  where
+
+  zone'
+bip_39_word_new_line5: 'surprise
+
+  tourist
+
+  where
+
+  zone
+
+  crumble'
+bip_39_word_new_line6: 'surprise
+
+  tourist
+
+  where
+
+  zone
+
+  crumble
+
+  float'
+bip_39_word_new_line7: 'surprise
+
+  tourist
+
+  where
+
+  zone
+
+  crumble
+
+  float
+
+  length'
+bip_39_word_new_line8: 'surprise
+
+  tourist
+
+  where
+
+  zone
+
+  crumble
+
+  float
+
+  length
+
+  steel'
+bip_39_word_new_line9: 'surprise
+
+  tourist
+
+  where
+
+  zone
+
+  crumble
+
+  float
+
+  length
+
+  steel
+
+  mixture'
+bip_39_word_space_0:
+- surprise
+- tourist
+- where
+- zone
+- crumble
+- float
+- length
+- steel
+- mixture
+- hollow
+- melody
+- ankle
+bip_39_word_space_1: surprise
+bip_39_word_space_10: surprise tourist where zone crumble float length steel mixture
+  hollow
+bip_39_word_space_11: surprise tourist where zone crumble float length steel mixture
+  hollow melody
+bip_39_word_space_12: surprise tourist where zone crumble float length steel mixture
+  hollow melody ankle
+bip_39_word_space_2: surprise tourist
+bip_39_word_space_3: surprise tourist where
+bip_39_word_space_4: surprise tourist where zone
+bip_39_word_space_5: surprise tourist where zone crumble
+bip_39_word_space_6: surprise tourist where zone crumble float
+bip_39_word_space_7: surprise tourist where zone crumble float length
+bip_39_word_space_8: surprise tourist where zone crumble float length steel
+bip_39_word_space_9: surprise tourist where zone crumble float length steel mixture
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

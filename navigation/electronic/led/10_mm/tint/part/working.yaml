@@ -1,3 +1,186 @@
+bip_39_word_new_br1: visit
+bip_39_word_new_br10: visit<br>garden<br>rail<br>receive<br>employ<br>reward<br>alpha<br>bread<br>alley<br>oyster
+bip_39_word_new_br11: visit<br>garden<br>rail<br>receive<br>employ<br>reward<br>alpha<br>bread<br>alley<br>oyster<br>grape
+bip_39_word_new_br12: visit<br>garden<br>rail<br>receive<br>employ<br>reward<br>alpha<br>bread<br>alley<br>oyster<br>grape<br>apple
+bip_39_word_new_br2: visit<br>garden
+bip_39_word_new_br3: visit<br>garden<br>rail
+bip_39_word_new_br4: visit<br>garden<br>rail<br>receive
+bip_39_word_new_br5: visit<br>garden<br>rail<br>receive<br>employ
+bip_39_word_new_br6: visit<br>garden<br>rail<br>receive<br>employ<br>reward
+bip_39_word_new_br7: visit<br>garden<br>rail<br>receive<br>employ<br>reward<br>alpha
+bip_39_word_new_br8: visit<br>garden<br>rail<br>receive<br>employ<br>reward<br>alpha<br>bread
+bip_39_word_new_br9: visit<br>garden<br>rail<br>receive<br>employ<br>reward<br>alpha<br>bread<br>alley
+bip_39_word_new_line1: visit
+bip_39_word_new_line10: 'visit
+
+  garden
+
+  rail
+
+  receive
+
+  employ
+
+  reward
+
+  alpha
+
+  bread
+
+  alley
+
+  oyster'
+bip_39_word_new_line11: 'visit
+
+  garden
+
+  rail
+
+  receive
+
+  employ
+
+  reward
+
+  alpha
+
+  bread
+
+  alley
+
+  oyster
+
+  grape'
+bip_39_word_new_line12: 'visit
+
+  garden
+
+  rail
+
+  receive
+
+  employ
+
+  reward
+
+  alpha
+
+  bread
+
+  alley
+
+  oyster
+
+  grape
+
+  apple'
+bip_39_word_new_line2: 'visit
+
+  garden'
+bip_39_word_new_line3: 'visit
+
+  garden
+
+  rail'
+bip_39_word_new_line4: 'visit
+
+  garden
+
+  rail
+
+  receive'
+bip_39_word_new_line5: 'visit
+
+  garden
+
+  rail
+
+  receive
+
+  employ'
+bip_39_word_new_line6: 'visit
+
+  garden
+
+  rail
+
+  receive
+
+  employ
+
+  reward'
+bip_39_word_new_line7: 'visit
+
+  garden
+
+  rail
+
+  receive
+
+  employ
+
+  reward
+
+  alpha'
+bip_39_word_new_line8: 'visit
+
+  garden
+
+  rail
+
+  receive
+
+  employ
+
+  reward
+
+  alpha
+
+  bread'
+bip_39_word_new_line9: 'visit
+
+  garden
+
+  rail
+
+  receive
+
+  employ
+
+  reward
+
+  alpha
+
+  bread
+
+  alley'
+bip_39_word_space_0:
+- visit
+- garden
+- rail
+- receive
+- employ
+- reward
+- alpha
+- bread
+- alley
+- oyster
+- grape
+- apple
+bip_39_word_space_1: visit
+bip_39_word_space_10: visit garden rail receive employ reward alpha bread alley oyster
+bip_39_word_space_11: visit garden rail receive employ reward alpha bread alley oyster
+  grape
+bip_39_word_space_12: visit garden rail receive employ reward alpha bread alley oyster
+  grape apple
+bip_39_word_space_2: visit garden
+bip_39_word_space_3: visit garden rail
+bip_39_word_space_4: visit garden rail receive
+bip_39_word_space_5: visit garden rail receive employ
+bip_39_word_space_6: visit garden rail receive employ reward
+bip_39_word_space_7: visit garden rail receive employ reward alpha
+bip_39_word_space_8: visit garden rail receive employ reward alpha bread
+bip_39_word_space_9: visit garden rail receive employ reward alpha bread alley
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

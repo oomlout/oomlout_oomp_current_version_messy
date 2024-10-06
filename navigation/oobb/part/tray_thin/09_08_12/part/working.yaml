@@ -1,3 +1,186 @@
+bip_39_word_new_br1: street
+bip_39_word_new_br10: street<br>museum<br>solve<br>city<br>mixed<br>bubble<br>brain<br>believe<br>lizard<br>bag
+bip_39_word_new_br11: street<br>museum<br>solve<br>city<br>mixed<br>bubble<br>brain<br>believe<br>lizard<br>bag<br>modify
+bip_39_word_new_br12: street<br>museum<br>solve<br>city<br>mixed<br>bubble<br>brain<br>believe<br>lizard<br>bag<br>modify<br>attract
+bip_39_word_new_br2: street<br>museum
+bip_39_word_new_br3: street<br>museum<br>solve
+bip_39_word_new_br4: street<br>museum<br>solve<br>city
+bip_39_word_new_br5: street<br>museum<br>solve<br>city<br>mixed
+bip_39_word_new_br6: street<br>museum<br>solve<br>city<br>mixed<br>bubble
+bip_39_word_new_br7: street<br>museum<br>solve<br>city<br>mixed<br>bubble<br>brain
+bip_39_word_new_br8: street<br>museum<br>solve<br>city<br>mixed<br>bubble<br>brain<br>believe
+bip_39_word_new_br9: street<br>museum<br>solve<br>city<br>mixed<br>bubble<br>brain<br>believe<br>lizard
+bip_39_word_new_line1: street
+bip_39_word_new_line10: 'street
+
+  museum
+
+  solve
+
+  city
+
+  mixed
+
+  bubble
+
+  brain
+
+  believe
+
+  lizard
+
+  bag'
+bip_39_word_new_line11: 'street
+
+  museum
+
+  solve
+
+  city
+
+  mixed
+
+  bubble
+
+  brain
+
+  believe
+
+  lizard
+
+  bag
+
+  modify'
+bip_39_word_new_line12: 'street
+
+  museum
+
+  solve
+
+  city
+
+  mixed
+
+  bubble
+
+  brain
+
+  believe
+
+  lizard
+
+  bag
+
+  modify
+
+  attract'
+bip_39_word_new_line2: 'street
+
+  museum'
+bip_39_word_new_line3: 'street
+
+  museum
+
+  solve'
+bip_39_word_new_line4: 'street
+
+  museum
+
+  solve
+
+  city'
+bip_39_word_new_line5: 'street
+
+  museum
+
+  solve
+
+  city
+
+  mixed'
+bip_39_word_new_line6: 'street
+
+  museum
+
+  solve
+
+  city
+
+  mixed
+
+  bubble'
+bip_39_word_new_line7: 'street
+
+  museum
+
+  solve
+
+  city
+
+  mixed
+
+  bubble
+
+  brain'
+bip_39_word_new_line8: 'street
+
+  museum
+
+  solve
+
+  city
+
+  mixed
+
+  bubble
+
+  brain
+
+  believe'
+bip_39_word_new_line9: 'street
+
+  museum
+
+  solve
+
+  city
+
+  mixed
+
+  bubble
+
+  brain
+
+  believe
+
+  lizard'
+bip_39_word_space_0:
+- street
+- museum
+- solve
+- city
+- mixed
+- bubble
+- brain
+- believe
+- lizard
+- bag
+- modify
+- attract
+bip_39_word_space_1: street
+bip_39_word_space_10: street museum solve city mixed bubble brain believe lizard bag
+bip_39_word_space_11: street museum solve city mixed bubble brain believe lizard bag
+  modify
+bip_39_word_space_12: street museum solve city mixed bubble brain believe lizard bag
+  modify attract
+bip_39_word_space_2: street museum
+bip_39_word_space_3: street museum solve
+bip_39_word_space_4: street museum solve city
+bip_39_word_space_5: street museum solve city mixed
+bip_39_word_space_6: street museum solve city mixed bubble
+bip_39_word_space_7: street museum solve city mixed bubble brain
+bip_39_word_space_8: street museum solve city mixed bubble brain believe
+bip_39_word_space_9: street museum solve city mixed bubble brain believe lizard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

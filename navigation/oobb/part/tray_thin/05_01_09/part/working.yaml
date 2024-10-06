@@ -1,3 +1,187 @@
+bip_39_word_new_br1: awake
+bip_39_word_new_br10: awake<br>annual<br>cheap<br>high<br>suffer<br>damage<br>goddess<br>elbow<br>empower<br>spot
+bip_39_word_new_br11: awake<br>annual<br>cheap<br>high<br>suffer<br>damage<br>goddess<br>elbow<br>empower<br>spot<br>empower
+bip_39_word_new_br12: awake<br>annual<br>cheap<br>high<br>suffer<br>damage<br>goddess<br>elbow<br>empower<br>spot<br>empower<br>athlete
+bip_39_word_new_br2: awake<br>annual
+bip_39_word_new_br3: awake<br>annual<br>cheap
+bip_39_word_new_br4: awake<br>annual<br>cheap<br>high
+bip_39_word_new_br5: awake<br>annual<br>cheap<br>high<br>suffer
+bip_39_word_new_br6: awake<br>annual<br>cheap<br>high<br>suffer<br>damage
+bip_39_word_new_br7: awake<br>annual<br>cheap<br>high<br>suffer<br>damage<br>goddess
+bip_39_word_new_br8: awake<br>annual<br>cheap<br>high<br>suffer<br>damage<br>goddess<br>elbow
+bip_39_word_new_br9: awake<br>annual<br>cheap<br>high<br>suffer<br>damage<br>goddess<br>elbow<br>empower
+bip_39_word_new_line1: awake
+bip_39_word_new_line10: 'awake
+
+  annual
+
+  cheap
+
+  high
+
+  suffer
+
+  damage
+
+  goddess
+
+  elbow
+
+  empower
+
+  spot'
+bip_39_word_new_line11: 'awake
+
+  annual
+
+  cheap
+
+  high
+
+  suffer
+
+  damage
+
+  goddess
+
+  elbow
+
+  empower
+
+  spot
+
+  empower'
+bip_39_word_new_line12: 'awake
+
+  annual
+
+  cheap
+
+  high
+
+  suffer
+
+  damage
+
+  goddess
+
+  elbow
+
+  empower
+
+  spot
+
+  empower
+
+  athlete'
+bip_39_word_new_line2: 'awake
+
+  annual'
+bip_39_word_new_line3: 'awake
+
+  annual
+
+  cheap'
+bip_39_word_new_line4: 'awake
+
+  annual
+
+  cheap
+
+  high'
+bip_39_word_new_line5: 'awake
+
+  annual
+
+  cheap
+
+  high
+
+  suffer'
+bip_39_word_new_line6: 'awake
+
+  annual
+
+  cheap
+
+  high
+
+  suffer
+
+  damage'
+bip_39_word_new_line7: 'awake
+
+  annual
+
+  cheap
+
+  high
+
+  suffer
+
+  damage
+
+  goddess'
+bip_39_word_new_line8: 'awake
+
+  annual
+
+  cheap
+
+  high
+
+  suffer
+
+  damage
+
+  goddess
+
+  elbow'
+bip_39_word_new_line9: 'awake
+
+  annual
+
+  cheap
+
+  high
+
+  suffer
+
+  damage
+
+  goddess
+
+  elbow
+
+  empower'
+bip_39_word_space_0:
+- awake
+- annual
+- cheap
+- high
+- suffer
+- damage
+- goddess
+- elbow
+- empower
+- spot
+- empower
+- athlete
+bip_39_word_space_1: awake
+bip_39_word_space_10: awake annual cheap high suffer damage goddess elbow empower
+  spot
+bip_39_word_space_11: awake annual cheap high suffer damage goddess elbow empower
+  spot empower
+bip_39_word_space_12: awake annual cheap high suffer damage goddess elbow empower
+  spot empower athlete
+bip_39_word_space_2: awake annual
+bip_39_word_space_3: awake annual cheap
+bip_39_word_space_4: awake annual cheap high
+bip_39_word_space_5: awake annual cheap high suffer
+bip_39_word_space_6: awake annual cheap high suffer damage
+bip_39_word_space_7: awake annual cheap high suffer damage goddess
+bip_39_word_space_8: awake annual cheap high suffer damage goddess elbow
+bip_39_word_space_9: awake annual cheap high suffer damage goddess elbow empower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

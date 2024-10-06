@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: noodle fall
+  * bip 39 word 3: noodle fall build
+  * bip 39 word: noodle fall build limit first figure border repeat quick need dust assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | noodle |  
+| bip_39_word_new_br10 | noodle<br>fall<br>build<br>limit<br>first<br>figure<br>border<br>repeat<br>quick<br>need |  
+| bip_39_word_new_br11 | noodle<br>fall<br>build<br>limit<br>first<br>figure<br>border<br>repeat<br>quick<br>need<br>dust |  
+| bip_39_word_new_br12 | noodle<br>fall<br>build<br>limit<br>first<br>figure<br>border<br>repeat<br>quick<br>need<br>dust<br>assume |  
+| bip_39_word_new_br2 | noodle<br>fall |  
+| bip_39_word_new_br3 | noodle<br>fall<br>build |  
+| bip_39_word_new_br4 | noodle<br>fall<br>build<br>limit |  
+| bip_39_word_new_br5 | noodle<br>fall<br>build<br>limit<br>first |  
+| bip_39_word_new_br6 | noodle<br>fall<br>build<br>limit<br>first<br>figure |  
+| bip_39_word_new_br7 | noodle<br>fall<br>build<br>limit<br>first<br>figure<br>border |  
+| bip_39_word_new_br8 | noodle<br>fall<br>build<br>limit<br>first<br>figure<br>border<br>repeat |  
+| bip_39_word_new_br9 | noodle<br>fall<br>build<br>limit<br>first<br>figure<br>border<br>repeat<br>quick |  
+| bip_39_word_new_line1 | noodle |  
+| bip_39_word_new_line10 | noodle
+fall
+build
+limit
+first
+figure
+border
+repeat
+quick
+need |  
+| bip_39_word_new_line11 | noodle
+fall
+build
+limit
+first
+figure
+border
+repeat
+quick
+need
+dust |  
+| bip_39_word_new_line12 | noodle
+fall
+build
+limit
+first
+figure
+border
+repeat
+quick
+need
+dust
+assume |  
+| bip_39_word_new_line2 | noodle
+fall |  
+| bip_39_word_new_line3 | noodle
+fall
+build |  
+| bip_39_word_new_line4 | noodle
+fall
+build
+limit |  
+| bip_39_word_new_line5 | noodle
+fall
+build
+limit
+first |  
+| bip_39_word_new_line6 | noodle
+fall
+build
+limit
+first
+figure |  
+| bip_39_word_new_line7 | noodle
+fall
+build
+limit
+first
+figure
+border |  
+| bip_39_word_new_line8 | noodle
+fall
+build
+limit
+first
+figure
+border
+repeat |  
+| bip_39_word_new_line9 | noodle
+fall
+build
+limit
+first
+figure
+border
+repeat
+quick |  
+| bip_39_word_space_0 | ['noodle', 'fall', 'build', 'limit', 'first', 'figure', 'border', 'repeat', 'quick', 'need', 'dust', 'assume'] |  
+| bip_39_word_space_1 | noodle |  
+| bip_39_word_space_10 | noodle fall build limit first figure border repeat quick need |  
+| bip_39_word_space_11 | noodle fall build limit first figure border repeat quick need dust |  
+| bip_39_word_space_12 | noodle fall build limit first figure border repeat quick need dust assume |  
+| bip_39_word_space_2 | noodle fall |  
+| bip_39_word_space_3 | noodle fall build |  
+| bip_39_word_space_4 | noodle fall build limit |  
+| bip_39_word_space_5 | noodle fall build limit first |  
+| bip_39_word_space_6 | noodle fall build limit first figure |  
+| bip_39_word_space_7 | noodle fall build limit first figure border |  
+| bip_39_word_space_8 | noodle fall build limit first figure border repeat |  
+| bip_39_word_space_9 | noodle fall build limit first figure border repeat quick |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

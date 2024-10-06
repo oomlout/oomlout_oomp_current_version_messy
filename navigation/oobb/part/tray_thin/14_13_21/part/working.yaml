@@ -1,3 +1,187 @@
+bip_39_word_new_br1: dolphin
+bip_39_word_new_br10: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial<br>fruit<br>ivory<br>enlist<br>twice
+bip_39_word_new_br11: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial<br>fruit<br>ivory<br>enlist<br>twice<br>brave
+bip_39_word_new_br12: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial<br>fruit<br>ivory<br>enlist<br>twice<br>brave<br>air
+bip_39_word_new_br2: dolphin<br>noble
+bip_39_word_new_br3: dolphin<br>noble<br>tent
+bip_39_word_new_br4: dolphin<br>noble<br>tent<br>rocket
+bip_39_word_new_br5: dolphin<br>noble<br>tent<br>rocket<br>escape
+bip_39_word_new_br6: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial
+bip_39_word_new_br7: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial<br>fruit
+bip_39_word_new_br8: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial<br>fruit<br>ivory
+bip_39_word_new_br9: dolphin<br>noble<br>tent<br>rocket<br>escape<br>spatial<br>fruit<br>ivory<br>enlist
+bip_39_word_new_line1: dolphin
+bip_39_word_new_line10: 'dolphin
+
+  noble
+
+  tent
+
+  rocket
+
+  escape
+
+  spatial
+
+  fruit
+
+  ivory
+
+  enlist
+
+  twice'
+bip_39_word_new_line11: 'dolphin
+
+  noble
+
+  tent
+
+  rocket
+
+  escape
+
+  spatial
+
+  fruit
+
+  ivory
+
+  enlist
+
+  twice
+
+  brave'
+bip_39_word_new_line12: 'dolphin
+
+  noble
+
+  tent
+
+  rocket
+
+  escape
+
+  spatial
+
+  fruit
+
+  ivory
+
+  enlist
+
+  twice
+
+  brave
+
+  air'
+bip_39_word_new_line2: 'dolphin
+
+  noble'
+bip_39_word_new_line3: 'dolphin
+
+  noble
+
+  tent'
+bip_39_word_new_line4: 'dolphin
+
+  noble
+
+  tent
+
+  rocket'
+bip_39_word_new_line5: 'dolphin
+
+  noble
+
+  tent
+
+  rocket
+
+  escape'
+bip_39_word_new_line6: 'dolphin
+
+  noble
+
+  tent
+
+  rocket
+
+  escape
+
+  spatial'
+bip_39_word_new_line7: 'dolphin
+
+  noble
+
+  tent
+
+  rocket
+
+  escape
+
+  spatial
+
+  fruit'
+bip_39_word_new_line8: 'dolphin
+
+  noble
+
+  tent
+
+  rocket
+
+  escape
+
+  spatial
+
+  fruit
+
+  ivory'
+bip_39_word_new_line9: 'dolphin
+
+  noble
+
+  tent
+
+  rocket
+
+  escape
+
+  spatial
+
+  fruit
+
+  ivory
+
+  enlist'
+bip_39_word_space_0:
+- dolphin
+- noble
+- tent
+- rocket
+- escape
+- spatial
+- fruit
+- ivory
+- enlist
+- twice
+- brave
+- air
+bip_39_word_space_1: dolphin
+bip_39_word_space_10: dolphin noble tent rocket escape spatial fruit ivory enlist
+  twice
+bip_39_word_space_11: dolphin noble tent rocket escape spatial fruit ivory enlist
+  twice brave
+bip_39_word_space_12: dolphin noble tent rocket escape spatial fruit ivory enlist
+  twice brave air
+bip_39_word_space_2: dolphin noble
+bip_39_word_space_3: dolphin noble tent
+bip_39_word_space_4: dolphin noble tent rocket
+bip_39_word_space_5: dolphin noble tent rocket escape
+bip_39_word_space_6: dolphin noble tent rocket escape spatial
+bip_39_word_space_7: dolphin noble tent rocket escape spatial fruit
+bip_39_word_space_8: dolphin noble tent rocket escape spatial fruit ivory
+bip_39_word_space_9: dolphin noble tent rocket escape spatial fruit ivory enlist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

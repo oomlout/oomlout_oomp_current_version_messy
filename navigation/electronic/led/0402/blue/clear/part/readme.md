@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: follow pottery
+  * bip 39 word 3: follow pottery acquire
+  * bip 39 word: follow pottery acquire double talk cinnamon copy game bid view ability august
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | follow |  
+| bip_39_word_new_br10 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view |  
+| bip_39_word_new_br11 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view<br>ability |  
+| bip_39_word_new_br12 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid<br>view<br>ability<br>august |  
+| bip_39_word_new_br2 | follow<br>pottery |  
+| bip_39_word_new_br3 | follow<br>pottery<br>acquire |  
+| bip_39_word_new_br4 | follow<br>pottery<br>acquire<br>double |  
+| bip_39_word_new_br5 | follow<br>pottery<br>acquire<br>double<br>talk |  
+| bip_39_word_new_br6 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon |  
+| bip_39_word_new_br7 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy |  
+| bip_39_word_new_br8 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game |  
+| bip_39_word_new_br9 | follow<br>pottery<br>acquire<br>double<br>talk<br>cinnamon<br>copy<br>game<br>bid |  
+| bip_39_word_new_line1 | follow |  
+| bip_39_word_new_line10 | follow
+pottery
+acquire
+double
+talk
+cinnamon
+copy
+game
+bid
+view |  
+| bip_39_word_new_line11 | follow
+pottery
+acquire
+double
+talk
+cinnamon
+copy
+game
+bid
+view
+ability |  
+| bip_39_word_new_line12 | follow
+pottery
+acquire
+double
+talk
+cinnamon
+copy
+game
+bid
+view
+ability
+august |  
+| bip_39_word_new_line2 | follow
+pottery |  
+| bip_39_word_new_line3 | follow
+pottery
+acquire |  
+| bip_39_word_new_line4 | follow
+pottery
+acquire
+double |  
+| bip_39_word_new_line5 | follow
+pottery
+acquire
+double
+talk |  
+| bip_39_word_new_line6 | follow
+pottery
+acquire
+double
+talk
+cinnamon |  
+| bip_39_word_new_line7 | follow
+pottery
+acquire
+double
+talk
+cinnamon
+copy |  
+| bip_39_word_new_line8 | follow
+pottery
+acquire
+double
+talk
+cinnamon
+copy
+game |  
+| bip_39_word_new_line9 | follow
+pottery
+acquire
+double
+talk
+cinnamon
+copy
+game
+bid |  
+| bip_39_word_space_0 | ['follow', 'pottery', 'acquire', 'double', 'talk', 'cinnamon', 'copy', 'game', 'bid', 'view', 'ability', 'august'] |  
+| bip_39_word_space_1 | follow |  
+| bip_39_word_space_10 | follow pottery acquire double talk cinnamon copy game bid view |  
+| bip_39_word_space_11 | follow pottery acquire double talk cinnamon copy game bid view ability |  
+| bip_39_word_space_12 | follow pottery acquire double talk cinnamon copy game bid view ability august |  
+| bip_39_word_space_2 | follow pottery |  
+| bip_39_word_space_3 | follow pottery acquire |  
+| bip_39_word_space_4 | follow pottery acquire double |  
+| bip_39_word_space_5 | follow pottery acquire double talk |  
+| bip_39_word_space_6 | follow pottery acquire double talk cinnamon |  
+| bip_39_word_space_7 | follow pottery acquire double talk cinnamon copy |  
+| bip_39_word_space_8 | follow pottery acquire double talk cinnamon copy game |  
+| bip_39_word_space_9 | follow pottery acquire double talk cinnamon copy game bid |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

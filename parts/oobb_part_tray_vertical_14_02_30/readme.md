@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: repair trap
+  * bip 39 word 3: repair trap service
+  * bip 39 word: repair trap service celery venture prefer cry ten nice little fame acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | repair |  
+| bip_39_word_new_br10 | repair<br>trap<br>service<br>celery<br>venture<br>prefer<br>cry<br>ten<br>nice<br>little |  
+| bip_39_word_new_br11 | repair<br>trap<br>service<br>celery<br>venture<br>prefer<br>cry<br>ten<br>nice<br>little<br>fame |  
+| bip_39_word_new_br12 | repair<br>trap<br>service<br>celery<br>venture<br>prefer<br>cry<br>ten<br>nice<br>little<br>fame<br>acoustic |  
+| bip_39_word_new_br2 | repair<br>trap |  
+| bip_39_word_new_br3 | repair<br>trap<br>service |  
+| bip_39_word_new_br4 | repair<br>trap<br>service<br>celery |  
+| bip_39_word_new_br5 | repair<br>trap<br>service<br>celery<br>venture |  
+| bip_39_word_new_br6 | repair<br>trap<br>service<br>celery<br>venture<br>prefer |  
+| bip_39_word_new_br7 | repair<br>trap<br>service<br>celery<br>venture<br>prefer<br>cry |  
+| bip_39_word_new_br8 | repair<br>trap<br>service<br>celery<br>venture<br>prefer<br>cry<br>ten |  
+| bip_39_word_new_br9 | repair<br>trap<br>service<br>celery<br>venture<br>prefer<br>cry<br>ten<br>nice |  
+| bip_39_word_new_line1 | repair |  
+| bip_39_word_new_line10 | repair
+trap
+service
+celery
+venture
+prefer
+cry
+ten
+nice
+little |  
+| bip_39_word_new_line11 | repair
+trap
+service
+celery
+venture
+prefer
+cry
+ten
+nice
+little
+fame |  
+| bip_39_word_new_line12 | repair
+trap
+service
+celery
+venture
+prefer
+cry
+ten
+nice
+little
+fame
+acoustic |  
+| bip_39_word_new_line2 | repair
+trap |  
+| bip_39_word_new_line3 | repair
+trap
+service |  
+| bip_39_word_new_line4 | repair
+trap
+service
+celery |  
+| bip_39_word_new_line5 | repair
+trap
+service
+celery
+venture |  
+| bip_39_word_new_line6 | repair
+trap
+service
+celery
+venture
+prefer |  
+| bip_39_word_new_line7 | repair
+trap
+service
+celery
+venture
+prefer
+cry |  
+| bip_39_word_new_line8 | repair
+trap
+service
+celery
+venture
+prefer
+cry
+ten |  
+| bip_39_word_new_line9 | repair
+trap
+service
+celery
+venture
+prefer
+cry
+ten
+nice |  
+| bip_39_word_space_0 | ['repair', 'trap', 'service', 'celery', 'venture', 'prefer', 'cry', 'ten', 'nice', 'little', 'fame', 'acoustic'] |  
+| bip_39_word_space_1 | repair |  
+| bip_39_word_space_10 | repair trap service celery venture prefer cry ten nice little |  
+| bip_39_word_space_11 | repair trap service celery venture prefer cry ten nice little fame |  
+| bip_39_word_space_12 | repair trap service celery venture prefer cry ten nice little fame acoustic |  
+| bip_39_word_space_2 | repair trap |  
+| bip_39_word_space_3 | repair trap service |  
+| bip_39_word_space_4 | repair trap service celery |  
+| bip_39_word_space_5 | repair trap service celery venture |  
+| bip_39_word_space_6 | repair trap service celery venture prefer |  
+| bip_39_word_space_7 | repair trap service celery venture prefer cry |  
+| bip_39_word_space_8 | repair trap service celery venture prefer cry ten |  
+| bip_39_word_space_9 | repair trap service celery venture prefer cry ten nice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

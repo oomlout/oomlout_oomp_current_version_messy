@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: screw_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: armor stock
+  * bip 39 word 3: armor stock profit
+  * bip 39 word: armor stock profit river box limb run inside blouse knee melt absorb
 
 ### other_codes
 * short_code: so3b30sn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | armor |  
+| bip_39_word_new_br10 | armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee |  
+| bip_39_word_new_br11 | armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee<br>melt |  
+| bip_39_word_new_br12 | armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse<br>knee<br>melt<br>absorb |  
+| bip_39_word_new_br2 | armor<br>stock |  
+| bip_39_word_new_br3 | armor<br>stock<br>profit |  
+| bip_39_word_new_br4 | armor<br>stock<br>profit<br>river |  
+| bip_39_word_new_br5 | armor<br>stock<br>profit<br>river<br>box |  
+| bip_39_word_new_br6 | armor<br>stock<br>profit<br>river<br>box<br>limb |  
+| bip_39_word_new_br7 | armor<br>stock<br>profit<br>river<br>box<br>limb<br>run |  
+| bip_39_word_new_br8 | armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside |  
+| bip_39_word_new_br9 | armor<br>stock<br>profit<br>river<br>box<br>limb<br>run<br>inside<br>blouse |  
+| bip_39_word_new_line1 | armor |  
+| bip_39_word_new_line10 | armor
+stock
+profit
+river
+box
+limb
+run
+inside
+blouse
+knee |  
+| bip_39_word_new_line11 | armor
+stock
+profit
+river
+box
+limb
+run
+inside
+blouse
+knee
+melt |  
+| bip_39_word_new_line12 | armor
+stock
+profit
+river
+box
+limb
+run
+inside
+blouse
+knee
+melt
+absorb |  
+| bip_39_word_new_line2 | armor
+stock |  
+| bip_39_word_new_line3 | armor
+stock
+profit |  
+| bip_39_word_new_line4 | armor
+stock
+profit
+river |  
+| bip_39_word_new_line5 | armor
+stock
+profit
+river
+box |  
+| bip_39_word_new_line6 | armor
+stock
+profit
+river
+box
+limb |  
+| bip_39_word_new_line7 | armor
+stock
+profit
+river
+box
+limb
+run |  
+| bip_39_word_new_line8 | armor
+stock
+profit
+river
+box
+limb
+run
+inside |  
+| bip_39_word_new_line9 | armor
+stock
+profit
+river
+box
+limb
+run
+inside
+blouse |  
+| bip_39_word_space_0 | ['armor', 'stock', 'profit', 'river', 'box', 'limb', 'run', 'inside', 'blouse', 'knee', 'melt', 'absorb'] |  
+| bip_39_word_space_1 | armor |  
+| bip_39_word_space_10 | armor stock profit river box limb run inside blouse knee |  
+| bip_39_word_space_11 | armor stock profit river box limb run inside blouse knee melt |  
+| bip_39_word_space_12 | armor stock profit river box limb run inside blouse knee melt absorb |  
+| bip_39_word_space_2 | armor stock |  
+| bip_39_word_space_3 | armor stock profit |  
+| bip_39_word_space_4 | armor stock profit river |  
+| bip_39_word_space_5 | armor stock profit river box |  
+| bip_39_word_space_6 | armor stock profit river box limb |  
+| bip_39_word_space_7 | armor stock profit river box limb run |  
+| bip_39_word_space_8 | armor stock profit river box limb run inside |  
+| bip_39_word_space_9 | armor stock profit river box limb run inside blouse |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

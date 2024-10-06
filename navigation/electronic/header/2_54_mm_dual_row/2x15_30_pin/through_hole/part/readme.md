@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: organ lawn
+  * bip 39 word 3: organ lawn cloud
+  * bip 39 word: organ lawn cloud noble runway van salad mouse modify tired drink apology
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | organ |  
+| bip_39_word_new_br10 | organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse<br>modify<br>tired |  
+| bip_39_word_new_br11 | organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse<br>modify<br>tired<br>drink |  
+| bip_39_word_new_br12 | organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse<br>modify<br>tired<br>drink<br>apology |  
+| bip_39_word_new_br2 | organ<br>lawn |  
+| bip_39_word_new_br3 | organ<br>lawn<br>cloud |  
+| bip_39_word_new_br4 | organ<br>lawn<br>cloud<br>noble |  
+| bip_39_word_new_br5 | organ<br>lawn<br>cloud<br>noble<br>runway |  
+| bip_39_word_new_br6 | organ<br>lawn<br>cloud<br>noble<br>runway<br>van |  
+| bip_39_word_new_br7 | organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad |  
+| bip_39_word_new_br8 | organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse |  
+| bip_39_word_new_br9 | organ<br>lawn<br>cloud<br>noble<br>runway<br>van<br>salad<br>mouse<br>modify |  
+| bip_39_word_new_line1 | organ |  
+| bip_39_word_new_line10 | organ
+lawn
+cloud
+noble
+runway
+van
+salad
+mouse
+modify
+tired |  
+| bip_39_word_new_line11 | organ
+lawn
+cloud
+noble
+runway
+van
+salad
+mouse
+modify
+tired
+drink |  
+| bip_39_word_new_line12 | organ
+lawn
+cloud
+noble
+runway
+van
+salad
+mouse
+modify
+tired
+drink
+apology |  
+| bip_39_word_new_line2 | organ
+lawn |  
+| bip_39_word_new_line3 | organ
+lawn
+cloud |  
+| bip_39_word_new_line4 | organ
+lawn
+cloud
+noble |  
+| bip_39_word_new_line5 | organ
+lawn
+cloud
+noble
+runway |  
+| bip_39_word_new_line6 | organ
+lawn
+cloud
+noble
+runway
+van |  
+| bip_39_word_new_line7 | organ
+lawn
+cloud
+noble
+runway
+van
+salad |  
+| bip_39_word_new_line8 | organ
+lawn
+cloud
+noble
+runway
+van
+salad
+mouse |  
+| bip_39_word_new_line9 | organ
+lawn
+cloud
+noble
+runway
+van
+salad
+mouse
+modify |  
+| bip_39_word_space_0 | ['organ', 'lawn', 'cloud', 'noble', 'runway', 'van', 'salad', 'mouse', 'modify', 'tired', 'drink', 'apology'] |  
+| bip_39_word_space_1 | organ |  
+| bip_39_word_space_10 | organ lawn cloud noble runway van salad mouse modify tired |  
+| bip_39_word_space_11 | organ lawn cloud noble runway van salad mouse modify tired drink |  
+| bip_39_word_space_12 | organ lawn cloud noble runway van salad mouse modify tired drink apology |  
+| bip_39_word_space_2 | organ lawn |  
+| bip_39_word_space_3 | organ lawn cloud |  
+| bip_39_word_space_4 | organ lawn cloud noble |  
+| bip_39_word_space_5 | organ lawn cloud noble runway |  
+| bip_39_word_space_6 | organ lawn cloud noble runway van |  
+| bip_39_word_space_7 | organ lawn cloud noble runway van salad |  
+| bip_39_word_space_8 | organ lawn cloud noble runway van salad mouse |  
+| bip_39_word_space_9 | organ lawn cloud noble runway van salad mouse modify |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

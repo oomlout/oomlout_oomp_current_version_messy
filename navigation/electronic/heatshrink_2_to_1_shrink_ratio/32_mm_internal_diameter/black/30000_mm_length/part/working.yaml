@@ -1,3 +1,187 @@
+bip_39_word_new_br1: top
+bip_39_word_new_br10: top<br>satisfy<br>wash<br>trade<br>limb<br>display<br>crunch<br>hedgehog<br>alcohol<br>flight
+bip_39_word_new_br11: top<br>satisfy<br>wash<br>trade<br>limb<br>display<br>crunch<br>hedgehog<br>alcohol<br>flight<br>shift
+bip_39_word_new_br12: top<br>satisfy<br>wash<br>trade<br>limb<br>display<br>crunch<br>hedgehog<br>alcohol<br>flight<br>shift<br>air
+bip_39_word_new_br2: top<br>satisfy
+bip_39_word_new_br3: top<br>satisfy<br>wash
+bip_39_word_new_br4: top<br>satisfy<br>wash<br>trade
+bip_39_word_new_br5: top<br>satisfy<br>wash<br>trade<br>limb
+bip_39_word_new_br6: top<br>satisfy<br>wash<br>trade<br>limb<br>display
+bip_39_word_new_br7: top<br>satisfy<br>wash<br>trade<br>limb<br>display<br>crunch
+bip_39_word_new_br8: top<br>satisfy<br>wash<br>trade<br>limb<br>display<br>crunch<br>hedgehog
+bip_39_word_new_br9: top<br>satisfy<br>wash<br>trade<br>limb<br>display<br>crunch<br>hedgehog<br>alcohol
+bip_39_word_new_line1: top
+bip_39_word_new_line10: 'top
+
+  satisfy
+
+  wash
+
+  trade
+
+  limb
+
+  display
+
+  crunch
+
+  hedgehog
+
+  alcohol
+
+  flight'
+bip_39_word_new_line11: 'top
+
+  satisfy
+
+  wash
+
+  trade
+
+  limb
+
+  display
+
+  crunch
+
+  hedgehog
+
+  alcohol
+
+  flight
+
+  shift'
+bip_39_word_new_line12: 'top
+
+  satisfy
+
+  wash
+
+  trade
+
+  limb
+
+  display
+
+  crunch
+
+  hedgehog
+
+  alcohol
+
+  flight
+
+  shift
+
+  air'
+bip_39_word_new_line2: 'top
+
+  satisfy'
+bip_39_word_new_line3: 'top
+
+  satisfy
+
+  wash'
+bip_39_word_new_line4: 'top
+
+  satisfy
+
+  wash
+
+  trade'
+bip_39_word_new_line5: 'top
+
+  satisfy
+
+  wash
+
+  trade
+
+  limb'
+bip_39_word_new_line6: 'top
+
+  satisfy
+
+  wash
+
+  trade
+
+  limb
+
+  display'
+bip_39_word_new_line7: 'top
+
+  satisfy
+
+  wash
+
+  trade
+
+  limb
+
+  display
+
+  crunch'
+bip_39_word_new_line8: 'top
+
+  satisfy
+
+  wash
+
+  trade
+
+  limb
+
+  display
+
+  crunch
+
+  hedgehog'
+bip_39_word_new_line9: 'top
+
+  satisfy
+
+  wash
+
+  trade
+
+  limb
+
+  display
+
+  crunch
+
+  hedgehog
+
+  alcohol'
+bip_39_word_space_0:
+- top
+- satisfy
+- wash
+- trade
+- limb
+- display
+- crunch
+- hedgehog
+- alcohol
+- flight
+- shift
+- air
+bip_39_word_space_1: top
+bip_39_word_space_10: top satisfy wash trade limb display crunch hedgehog alcohol
+  flight
+bip_39_word_space_11: top satisfy wash trade limb display crunch hedgehog alcohol
+  flight shift
+bip_39_word_space_12: top satisfy wash trade limb display crunch hedgehog alcohol
+  flight shift air
+bip_39_word_space_2: top satisfy
+bip_39_word_space_3: top satisfy wash
+bip_39_word_space_4: top satisfy wash trade
+bip_39_word_space_5: top satisfy wash trade limb
+bip_39_word_space_6: top satisfy wash trade limb display
+bip_39_word_space_7: top satisfy wash trade limb display crunch
+bip_39_word_space_8: top satisfy wash trade limb display crunch hedgehog
+bip_39_word_space_9: top satisfy wash trade limb display crunch hedgehog alcohol
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

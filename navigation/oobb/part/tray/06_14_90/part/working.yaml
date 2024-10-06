@@ -1,3 +1,186 @@
+bip_39_word_new_br1: universe
+bip_39_word_new_br10: universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler
+bip_39_word_new_br11: universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler<br>year
+bip_39_word_new_br12: universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg<br>toddler<br>year<br>alter
+bip_39_word_new_br2: universe<br>autumn
+bip_39_word_new_br3: universe<br>autumn<br>flip
+bip_39_word_new_br4: universe<br>autumn<br>flip<br>sing
+bip_39_word_new_br5: universe<br>autumn<br>flip<br>sing<br>pair
+bip_39_word_new_br6: universe<br>autumn<br>flip<br>sing<br>pair<br>topple
+bip_39_word_new_br7: universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist
+bip_39_word_new_br8: universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich
+bip_39_word_new_br9: universe<br>autumn<br>flip<br>sing<br>pair<br>topple<br>tourist<br>ostrich<br>egg
+bip_39_word_new_line1: universe
+bip_39_word_new_line10: 'universe
+
+  autumn
+
+  flip
+
+  sing
+
+  pair
+
+  topple
+
+  tourist
+
+  ostrich
+
+  egg
+
+  toddler'
+bip_39_word_new_line11: 'universe
+
+  autumn
+
+  flip
+
+  sing
+
+  pair
+
+  topple
+
+  tourist
+
+  ostrich
+
+  egg
+
+  toddler
+
+  year'
+bip_39_word_new_line12: 'universe
+
+  autumn
+
+  flip
+
+  sing
+
+  pair
+
+  topple
+
+  tourist
+
+  ostrich
+
+  egg
+
+  toddler
+
+  year
+
+  alter'
+bip_39_word_new_line2: 'universe
+
+  autumn'
+bip_39_word_new_line3: 'universe
+
+  autumn
+
+  flip'
+bip_39_word_new_line4: 'universe
+
+  autumn
+
+  flip
+
+  sing'
+bip_39_word_new_line5: 'universe
+
+  autumn
+
+  flip
+
+  sing
+
+  pair'
+bip_39_word_new_line6: 'universe
+
+  autumn
+
+  flip
+
+  sing
+
+  pair
+
+  topple'
+bip_39_word_new_line7: 'universe
+
+  autumn
+
+  flip
+
+  sing
+
+  pair
+
+  topple
+
+  tourist'
+bip_39_word_new_line8: 'universe
+
+  autumn
+
+  flip
+
+  sing
+
+  pair
+
+  topple
+
+  tourist
+
+  ostrich'
+bip_39_word_new_line9: 'universe
+
+  autumn
+
+  flip
+
+  sing
+
+  pair
+
+  topple
+
+  tourist
+
+  ostrich
+
+  egg'
+bip_39_word_space_0:
+- universe
+- autumn
+- flip
+- sing
+- pair
+- topple
+- tourist
+- ostrich
+- egg
+- toddler
+- year
+- alter
+bip_39_word_space_1: universe
+bip_39_word_space_10: universe autumn flip sing pair topple tourist ostrich egg toddler
+bip_39_word_space_11: universe autumn flip sing pair topple tourist ostrich egg toddler
+  year
+bip_39_word_space_12: universe autumn flip sing pair topple tourist ostrich egg toddler
+  year alter
+bip_39_word_space_2: universe autumn
+bip_39_word_space_3: universe autumn flip
+bip_39_word_space_4: universe autumn flip sing
+bip_39_word_space_5: universe autumn flip sing pair
+bip_39_word_space_6: universe autumn flip sing pair topple
+bip_39_word_space_7: universe autumn flip sing pair topple tourist
+bip_39_word_space_8: universe autumn flip sing pair topple tourist ostrich
+bip_39_word_space_9: universe autumn flip sing pair topple tourist ostrich egg
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

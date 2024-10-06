@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: flash sun
+  * bip 39 word 3: flash sun theory
+  * bip 39 word: flash sun theory genuine use aerobic swear frequent cash section carbon allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | flash |  
+| bip_39_word_new_br10 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic<br>swear<br>frequent<br>cash<br>section |  
+| bip_39_word_new_br11 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic<br>swear<br>frequent<br>cash<br>section<br>carbon |  
+| bip_39_word_new_br12 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic<br>swear<br>frequent<br>cash<br>section<br>carbon<br>allow |  
+| bip_39_word_new_br2 | flash<br>sun |  
+| bip_39_word_new_br3 | flash<br>sun<br>theory |  
+| bip_39_word_new_br4 | flash<br>sun<br>theory<br>genuine |  
+| bip_39_word_new_br5 | flash<br>sun<br>theory<br>genuine<br>use |  
+| bip_39_word_new_br6 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic |  
+| bip_39_word_new_br7 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic<br>swear |  
+| bip_39_word_new_br8 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic<br>swear<br>frequent |  
+| bip_39_word_new_br9 | flash<br>sun<br>theory<br>genuine<br>use<br>aerobic<br>swear<br>frequent<br>cash |  
+| bip_39_word_new_line1 | flash |  
+| bip_39_word_new_line10 | flash
+sun
+theory
+genuine
+use
+aerobic
+swear
+frequent
+cash
+section |  
+| bip_39_word_new_line11 | flash
+sun
+theory
+genuine
+use
+aerobic
+swear
+frequent
+cash
+section
+carbon |  
+| bip_39_word_new_line12 | flash
+sun
+theory
+genuine
+use
+aerobic
+swear
+frequent
+cash
+section
+carbon
+allow |  
+| bip_39_word_new_line2 | flash
+sun |  
+| bip_39_word_new_line3 | flash
+sun
+theory |  
+| bip_39_word_new_line4 | flash
+sun
+theory
+genuine |  
+| bip_39_word_new_line5 | flash
+sun
+theory
+genuine
+use |  
+| bip_39_word_new_line6 | flash
+sun
+theory
+genuine
+use
+aerobic |  
+| bip_39_word_new_line7 | flash
+sun
+theory
+genuine
+use
+aerobic
+swear |  
+| bip_39_word_new_line8 | flash
+sun
+theory
+genuine
+use
+aerobic
+swear
+frequent |  
+| bip_39_word_new_line9 | flash
+sun
+theory
+genuine
+use
+aerobic
+swear
+frequent
+cash |  
+| bip_39_word_space_0 | ['flash', 'sun', 'theory', 'genuine', 'use', 'aerobic', 'swear', 'frequent', 'cash', 'section', 'carbon', 'allow'] |  
+| bip_39_word_space_1 | flash |  
+| bip_39_word_space_10 | flash sun theory genuine use aerobic swear frequent cash section |  
+| bip_39_word_space_11 | flash sun theory genuine use aerobic swear frequent cash section carbon |  
+| bip_39_word_space_12 | flash sun theory genuine use aerobic swear frequent cash section carbon allow |  
+| bip_39_word_space_2 | flash sun |  
+| bip_39_word_space_3 | flash sun theory |  
+| bip_39_word_space_4 | flash sun theory genuine |  
+| bip_39_word_space_5 | flash sun theory genuine use |  
+| bip_39_word_space_6 | flash sun theory genuine use aerobic |  
+| bip_39_word_space_7 | flash sun theory genuine use aerobic swear |  
+| bip_39_word_space_8 | flash sun theory genuine use aerobic swear frequent |  
+| bip_39_word_space_9 | flash sun theory genuine use aerobic swear frequent cash |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

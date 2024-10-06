@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: frequent notice
+  * bip 39 word 3: frequent notice payment
+  * bip 39 word: frequent notice payment subject cave region grief history trim mad swing already
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | frequent |  
+| bip_39_word_new_br10 | frequent<br>notice<br>payment<br>subject<br>cave<br>region<br>grief<br>history<br>trim<br>mad |  
+| bip_39_word_new_br11 | frequent<br>notice<br>payment<br>subject<br>cave<br>region<br>grief<br>history<br>trim<br>mad<br>swing |  
+| bip_39_word_new_br12 | frequent<br>notice<br>payment<br>subject<br>cave<br>region<br>grief<br>history<br>trim<br>mad<br>swing<br>already |  
+| bip_39_word_new_br2 | frequent<br>notice |  
+| bip_39_word_new_br3 | frequent<br>notice<br>payment |  
+| bip_39_word_new_br4 | frequent<br>notice<br>payment<br>subject |  
+| bip_39_word_new_br5 | frequent<br>notice<br>payment<br>subject<br>cave |  
+| bip_39_word_new_br6 | frequent<br>notice<br>payment<br>subject<br>cave<br>region |  
+| bip_39_word_new_br7 | frequent<br>notice<br>payment<br>subject<br>cave<br>region<br>grief |  
+| bip_39_word_new_br8 | frequent<br>notice<br>payment<br>subject<br>cave<br>region<br>grief<br>history |  
+| bip_39_word_new_br9 | frequent<br>notice<br>payment<br>subject<br>cave<br>region<br>grief<br>history<br>trim |  
+| bip_39_word_new_line1 | frequent |  
+| bip_39_word_new_line10 | frequent
+notice
+payment
+subject
+cave
+region
+grief
+history
+trim
+mad |  
+| bip_39_word_new_line11 | frequent
+notice
+payment
+subject
+cave
+region
+grief
+history
+trim
+mad
+swing |  
+| bip_39_word_new_line12 | frequent
+notice
+payment
+subject
+cave
+region
+grief
+history
+trim
+mad
+swing
+already |  
+| bip_39_word_new_line2 | frequent
+notice |  
+| bip_39_word_new_line3 | frequent
+notice
+payment |  
+| bip_39_word_new_line4 | frequent
+notice
+payment
+subject |  
+| bip_39_word_new_line5 | frequent
+notice
+payment
+subject
+cave |  
+| bip_39_word_new_line6 | frequent
+notice
+payment
+subject
+cave
+region |  
+| bip_39_word_new_line7 | frequent
+notice
+payment
+subject
+cave
+region
+grief |  
+| bip_39_word_new_line8 | frequent
+notice
+payment
+subject
+cave
+region
+grief
+history |  
+| bip_39_word_new_line9 | frequent
+notice
+payment
+subject
+cave
+region
+grief
+history
+trim |  
+| bip_39_word_space_0 | ['frequent', 'notice', 'payment', 'subject', 'cave', 'region', 'grief', 'history', 'trim', 'mad', 'swing', 'already'] |  
+| bip_39_word_space_1 | frequent |  
+| bip_39_word_space_10 | frequent notice payment subject cave region grief history trim mad |  
+| bip_39_word_space_11 | frequent notice payment subject cave region grief history trim mad swing |  
+| bip_39_word_space_12 | frequent notice payment subject cave region grief history trim mad swing already |  
+| bip_39_word_space_2 | frequent notice |  
+| bip_39_word_space_3 | frequent notice payment |  
+| bip_39_word_space_4 | frequent notice payment subject |  
+| bip_39_word_space_5 | frequent notice payment subject cave |  
+| bip_39_word_space_6 | frequent notice payment subject cave region |  
+| bip_39_word_space_7 | frequent notice payment subject cave region grief |  
+| bip_39_word_space_8 | frequent notice payment subject cave region grief history |  
+| bip_39_word_space_9 | frequent notice payment subject cave region grief history trim |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

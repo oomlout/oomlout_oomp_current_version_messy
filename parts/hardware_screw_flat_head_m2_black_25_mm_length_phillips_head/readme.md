@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clutch fetch
+  * bip 39 word 3: clutch fetch lawn
+  * bip 39 word: clutch fetch lawn select mouse hood dash sand frown guide canal ask
 
 ### other_codes
 * short_code: fh2b25p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clutch |  
+| bip_39_word_new_br10 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown<br>guide |  
+| bip_39_word_new_br11 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown<br>guide<br>canal |  
+| bip_39_word_new_br12 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown<br>guide<br>canal<br>ask |  
+| bip_39_word_new_br2 | clutch<br>fetch |  
+| bip_39_word_new_br3 | clutch<br>fetch<br>lawn |  
+| bip_39_word_new_br4 | clutch<br>fetch<br>lawn<br>select |  
+| bip_39_word_new_br5 | clutch<br>fetch<br>lawn<br>select<br>mouse |  
+| bip_39_word_new_br6 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood |  
+| bip_39_word_new_br7 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash |  
+| bip_39_word_new_br8 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand |  
+| bip_39_word_new_br9 | clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown |  
+| bip_39_word_new_line1 | clutch |  
+| bip_39_word_new_line10 | clutch
+fetch
+lawn
+select
+mouse
+hood
+dash
+sand
+frown
+guide |  
+| bip_39_word_new_line11 | clutch
+fetch
+lawn
+select
+mouse
+hood
+dash
+sand
+frown
+guide
+canal |  
+| bip_39_word_new_line12 | clutch
+fetch
+lawn
+select
+mouse
+hood
+dash
+sand
+frown
+guide
+canal
+ask |  
+| bip_39_word_new_line2 | clutch
+fetch |  
+| bip_39_word_new_line3 | clutch
+fetch
+lawn |  
+| bip_39_word_new_line4 | clutch
+fetch
+lawn
+select |  
+| bip_39_word_new_line5 | clutch
+fetch
+lawn
+select
+mouse |  
+| bip_39_word_new_line6 | clutch
+fetch
+lawn
+select
+mouse
+hood |  
+| bip_39_word_new_line7 | clutch
+fetch
+lawn
+select
+mouse
+hood
+dash |  
+| bip_39_word_new_line8 | clutch
+fetch
+lawn
+select
+mouse
+hood
+dash
+sand |  
+| bip_39_word_new_line9 | clutch
+fetch
+lawn
+select
+mouse
+hood
+dash
+sand
+frown |  
+| bip_39_word_space_0 | ['clutch', 'fetch', 'lawn', 'select', 'mouse', 'hood', 'dash', 'sand', 'frown', 'guide', 'canal', 'ask'] |  
+| bip_39_word_space_1 | clutch |  
+| bip_39_word_space_10 | clutch fetch lawn select mouse hood dash sand frown guide |  
+| bip_39_word_space_11 | clutch fetch lawn select mouse hood dash sand frown guide canal |  
+| bip_39_word_space_12 | clutch fetch lawn select mouse hood dash sand frown guide canal ask |  
+| bip_39_word_space_2 | clutch fetch |  
+| bip_39_word_space_3 | clutch fetch lawn |  
+| bip_39_word_space_4 | clutch fetch lawn select |  
+| bip_39_word_space_5 | clutch fetch lawn select mouse |  
+| bip_39_word_space_6 | clutch fetch lawn select mouse hood |  
+| bip_39_word_space_7 | clutch fetch lawn select mouse hood dash |  
+| bip_39_word_space_8 | clutch fetch lawn select mouse hood dash sand |  
+| bip_39_word_space_9 | clutch fetch lawn select mouse hood dash sand frown |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

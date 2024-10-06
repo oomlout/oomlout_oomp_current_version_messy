@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chef license
+  * bip 39 word 3: chef license gather
+  * bip 39 word: chef license gather slim chicken flat agree nasty slogan move good address
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chef |  
+| bip_39_word_new_br10 | chef<br>license<br>gather<br>slim<br>chicken<br>flat<br>agree<br>nasty<br>slogan<br>move |  
+| bip_39_word_new_br11 | chef<br>license<br>gather<br>slim<br>chicken<br>flat<br>agree<br>nasty<br>slogan<br>move<br>good |  
+| bip_39_word_new_br12 | chef<br>license<br>gather<br>slim<br>chicken<br>flat<br>agree<br>nasty<br>slogan<br>move<br>good<br>address |  
+| bip_39_word_new_br2 | chef<br>license |  
+| bip_39_word_new_br3 | chef<br>license<br>gather |  
+| bip_39_word_new_br4 | chef<br>license<br>gather<br>slim |  
+| bip_39_word_new_br5 | chef<br>license<br>gather<br>slim<br>chicken |  
+| bip_39_word_new_br6 | chef<br>license<br>gather<br>slim<br>chicken<br>flat |  
+| bip_39_word_new_br7 | chef<br>license<br>gather<br>slim<br>chicken<br>flat<br>agree |  
+| bip_39_word_new_br8 | chef<br>license<br>gather<br>slim<br>chicken<br>flat<br>agree<br>nasty |  
+| bip_39_word_new_br9 | chef<br>license<br>gather<br>slim<br>chicken<br>flat<br>agree<br>nasty<br>slogan |  
+| bip_39_word_new_line1 | chef |  
+| bip_39_word_new_line10 | chef
+license
+gather
+slim
+chicken
+flat
+agree
+nasty
+slogan
+move |  
+| bip_39_word_new_line11 | chef
+license
+gather
+slim
+chicken
+flat
+agree
+nasty
+slogan
+move
+good |  
+| bip_39_word_new_line12 | chef
+license
+gather
+slim
+chicken
+flat
+agree
+nasty
+slogan
+move
+good
+address |  
+| bip_39_word_new_line2 | chef
+license |  
+| bip_39_word_new_line3 | chef
+license
+gather |  
+| bip_39_word_new_line4 | chef
+license
+gather
+slim |  
+| bip_39_word_new_line5 | chef
+license
+gather
+slim
+chicken |  
+| bip_39_word_new_line6 | chef
+license
+gather
+slim
+chicken
+flat |  
+| bip_39_word_new_line7 | chef
+license
+gather
+slim
+chicken
+flat
+agree |  
+| bip_39_word_new_line8 | chef
+license
+gather
+slim
+chicken
+flat
+agree
+nasty |  
+| bip_39_word_new_line9 | chef
+license
+gather
+slim
+chicken
+flat
+agree
+nasty
+slogan |  
+| bip_39_word_space_0 | ['chef', 'license', 'gather', 'slim', 'chicken', 'flat', 'agree', 'nasty', 'slogan', 'move', 'good', 'address'] |  
+| bip_39_word_space_1 | chef |  
+| bip_39_word_space_10 | chef license gather slim chicken flat agree nasty slogan move |  
+| bip_39_word_space_11 | chef license gather slim chicken flat agree nasty slogan move good |  
+| bip_39_word_space_12 | chef license gather slim chicken flat agree nasty slogan move good address |  
+| bip_39_word_space_2 | chef license |  
+| bip_39_word_space_3 | chef license gather |  
+| bip_39_word_space_4 | chef license gather slim |  
+| bip_39_word_space_5 | chef license gather slim chicken |  
+| bip_39_word_space_6 | chef license gather slim chicken flat |  
+| bip_39_word_space_7 | chef license gather slim chicken flat agree |  
+| bip_39_word_space_8 | chef license gather slim chicken flat agree nasty |  
+| bip_39_word_space_9 | chef license gather slim chicken flat agree nasty slogan |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

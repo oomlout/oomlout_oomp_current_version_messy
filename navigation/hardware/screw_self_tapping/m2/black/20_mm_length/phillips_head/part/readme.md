@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: phillips_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: burst situate
+  * bip 39 word 3: burst situate unaware
+  * bip 39 word: burst situate unaware furnace next winner camera drop pause minute tortoise affair
 
 ### other_codes
 * short_code: st2b20p
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | burst |  
+| bip_39_word_new_br10 | burst<br>situate<br>unaware<br>furnace<br>next<br>winner<br>camera<br>drop<br>pause<br>minute |  
+| bip_39_word_new_br11 | burst<br>situate<br>unaware<br>furnace<br>next<br>winner<br>camera<br>drop<br>pause<br>minute<br>tortoise |  
+| bip_39_word_new_br12 | burst<br>situate<br>unaware<br>furnace<br>next<br>winner<br>camera<br>drop<br>pause<br>minute<br>tortoise<br>affair |  
+| bip_39_word_new_br2 | burst<br>situate |  
+| bip_39_word_new_br3 | burst<br>situate<br>unaware |  
+| bip_39_word_new_br4 | burst<br>situate<br>unaware<br>furnace |  
+| bip_39_word_new_br5 | burst<br>situate<br>unaware<br>furnace<br>next |  
+| bip_39_word_new_br6 | burst<br>situate<br>unaware<br>furnace<br>next<br>winner |  
+| bip_39_word_new_br7 | burst<br>situate<br>unaware<br>furnace<br>next<br>winner<br>camera |  
+| bip_39_word_new_br8 | burst<br>situate<br>unaware<br>furnace<br>next<br>winner<br>camera<br>drop |  
+| bip_39_word_new_br9 | burst<br>situate<br>unaware<br>furnace<br>next<br>winner<br>camera<br>drop<br>pause |  
+| bip_39_word_new_line1 | burst |  
+| bip_39_word_new_line10 | burst
+situate
+unaware
+furnace
+next
+winner
+camera
+drop
+pause
+minute |  
+| bip_39_word_new_line11 | burst
+situate
+unaware
+furnace
+next
+winner
+camera
+drop
+pause
+minute
+tortoise |  
+| bip_39_word_new_line12 | burst
+situate
+unaware
+furnace
+next
+winner
+camera
+drop
+pause
+minute
+tortoise
+affair |  
+| bip_39_word_new_line2 | burst
+situate |  
+| bip_39_word_new_line3 | burst
+situate
+unaware |  
+| bip_39_word_new_line4 | burst
+situate
+unaware
+furnace |  
+| bip_39_word_new_line5 | burst
+situate
+unaware
+furnace
+next |  
+| bip_39_word_new_line6 | burst
+situate
+unaware
+furnace
+next
+winner |  
+| bip_39_word_new_line7 | burst
+situate
+unaware
+furnace
+next
+winner
+camera |  
+| bip_39_word_new_line8 | burst
+situate
+unaware
+furnace
+next
+winner
+camera
+drop |  
+| bip_39_word_new_line9 | burst
+situate
+unaware
+furnace
+next
+winner
+camera
+drop
+pause |  
+| bip_39_word_space_0 | ['burst', 'situate', 'unaware', 'furnace', 'next', 'winner', 'camera', 'drop', 'pause', 'minute', 'tortoise', 'affair'] |  
+| bip_39_word_space_1 | burst |  
+| bip_39_word_space_10 | burst situate unaware furnace next winner camera drop pause minute |  
+| bip_39_word_space_11 | burst situate unaware furnace next winner camera drop pause minute tortoise |  
+| bip_39_word_space_12 | burst situate unaware furnace next winner camera drop pause minute tortoise affair |  
+| bip_39_word_space_2 | burst situate |  
+| bip_39_word_space_3 | burst situate unaware |  
+| bip_39_word_space_4 | burst situate unaware furnace |  
+| bip_39_word_space_5 | burst situate unaware furnace next |  
+| bip_39_word_space_6 | burst situate unaware furnace next winner |  
+| bip_39_word_space_7 | burst situate unaware furnace next winner camera |  
+| bip_39_word_space_8 | burst situate unaware furnace next winner camera drop |  
+| bip_39_word_space_9 | burst situate unaware furnace next winner camera drop pause |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

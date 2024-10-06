@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dignity
+bip_39_word_new_br10: dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise
+bip_39_word_new_br11: dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise<br>annual
+bip_39_word_new_br12: dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme<br>raise<br>annual<br>amateur
+bip_39_word_new_br2: dignity<br>foam
+bip_39_word_new_br3: dignity<br>foam<br>moral
+bip_39_word_new_br4: dignity<br>foam<br>moral<br>debate
+bip_39_word_new_br5: dignity<br>foam<br>moral<br>debate<br>lucky
+bip_39_word_new_br6: dignity<br>foam<br>moral<br>debate<br>lucky<br>steak
+bip_39_word_new_br7: dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite
+bip_39_word_new_br8: dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide
+bip_39_word_new_br9: dignity<br>foam<br>moral<br>debate<br>lucky<br>steak<br>invite<br>slide<br>supreme
+bip_39_word_new_line1: dignity
+bip_39_word_new_line10: 'dignity
+
+  foam
+
+  moral
+
+  debate
+
+  lucky
+
+  steak
+
+  invite
+
+  slide
+
+  supreme
+
+  raise'
+bip_39_word_new_line11: 'dignity
+
+  foam
+
+  moral
+
+  debate
+
+  lucky
+
+  steak
+
+  invite
+
+  slide
+
+  supreme
+
+  raise
+
+  annual'
+bip_39_word_new_line12: 'dignity
+
+  foam
+
+  moral
+
+  debate
+
+  lucky
+
+  steak
+
+  invite
+
+  slide
+
+  supreme
+
+  raise
+
+  annual
+
+  amateur'
+bip_39_word_new_line2: 'dignity
+
+  foam'
+bip_39_word_new_line3: 'dignity
+
+  foam
+
+  moral'
+bip_39_word_new_line4: 'dignity
+
+  foam
+
+  moral
+
+  debate'
+bip_39_word_new_line5: 'dignity
+
+  foam
+
+  moral
+
+  debate
+
+  lucky'
+bip_39_word_new_line6: 'dignity
+
+  foam
+
+  moral
+
+  debate
+
+  lucky
+
+  steak'
+bip_39_word_new_line7: 'dignity
+
+  foam
+
+  moral
+
+  debate
+
+  lucky
+
+  steak
+
+  invite'
+bip_39_word_new_line8: 'dignity
+
+  foam
+
+  moral
+
+  debate
+
+  lucky
+
+  steak
+
+  invite
+
+  slide'
+bip_39_word_new_line9: 'dignity
+
+  foam
+
+  moral
+
+  debate
+
+  lucky
+
+  steak
+
+  invite
+
+  slide
+
+  supreme'
+bip_39_word_space_0:
+- dignity
+- foam
+- moral
+- debate
+- lucky
+- steak
+- invite
+- slide
+- supreme
+- raise
+- annual
+- amateur
+bip_39_word_space_1: dignity
+bip_39_word_space_10: dignity foam moral debate lucky steak invite slide supreme raise
+bip_39_word_space_11: dignity foam moral debate lucky steak invite slide supreme raise
+  annual
+bip_39_word_space_12: dignity foam moral debate lucky steak invite slide supreme raise
+  annual amateur
+bip_39_word_space_2: dignity foam
+bip_39_word_space_3: dignity foam moral
+bip_39_word_space_4: dignity foam moral debate
+bip_39_word_space_5: dignity foam moral debate lucky
+bip_39_word_space_6: dignity foam moral debate lucky steak
+bip_39_word_space_7: dignity foam moral debate lucky steak invite
+bip_39_word_space_8: dignity foam moral debate lucky steak invite slide
+bip_39_word_space_9: dignity foam moral debate lucky steak invite slide supreme
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

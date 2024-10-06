@@ -1,3 +1,187 @@
+bip_39_word_new_br1: tortoise
+bip_39_word_new_br10: tortoise<br>april<br>win<br>season<br>sweet<br>casual<br>amount<br>element<br>ostrich<br>helmet
+bip_39_word_new_br11: tortoise<br>april<br>win<br>season<br>sweet<br>casual<br>amount<br>element<br>ostrich<br>helmet<br>assume
+bip_39_word_new_br12: tortoise<br>april<br>win<br>season<br>sweet<br>casual<br>amount<br>element<br>ostrich<br>helmet<br>assume<br>advice
+bip_39_word_new_br2: tortoise<br>april
+bip_39_word_new_br3: tortoise<br>april<br>win
+bip_39_word_new_br4: tortoise<br>april<br>win<br>season
+bip_39_word_new_br5: tortoise<br>april<br>win<br>season<br>sweet
+bip_39_word_new_br6: tortoise<br>april<br>win<br>season<br>sweet<br>casual
+bip_39_word_new_br7: tortoise<br>april<br>win<br>season<br>sweet<br>casual<br>amount
+bip_39_word_new_br8: tortoise<br>april<br>win<br>season<br>sweet<br>casual<br>amount<br>element
+bip_39_word_new_br9: tortoise<br>april<br>win<br>season<br>sweet<br>casual<br>amount<br>element<br>ostrich
+bip_39_word_new_line1: tortoise
+bip_39_word_new_line10: 'tortoise
+
+  april
+
+  win
+
+  season
+
+  sweet
+
+  casual
+
+  amount
+
+  element
+
+  ostrich
+
+  helmet'
+bip_39_word_new_line11: 'tortoise
+
+  april
+
+  win
+
+  season
+
+  sweet
+
+  casual
+
+  amount
+
+  element
+
+  ostrich
+
+  helmet
+
+  assume'
+bip_39_word_new_line12: 'tortoise
+
+  april
+
+  win
+
+  season
+
+  sweet
+
+  casual
+
+  amount
+
+  element
+
+  ostrich
+
+  helmet
+
+  assume
+
+  advice'
+bip_39_word_new_line2: 'tortoise
+
+  april'
+bip_39_word_new_line3: 'tortoise
+
+  april
+
+  win'
+bip_39_word_new_line4: 'tortoise
+
+  april
+
+  win
+
+  season'
+bip_39_word_new_line5: 'tortoise
+
+  april
+
+  win
+
+  season
+
+  sweet'
+bip_39_word_new_line6: 'tortoise
+
+  april
+
+  win
+
+  season
+
+  sweet
+
+  casual'
+bip_39_word_new_line7: 'tortoise
+
+  april
+
+  win
+
+  season
+
+  sweet
+
+  casual
+
+  amount'
+bip_39_word_new_line8: 'tortoise
+
+  april
+
+  win
+
+  season
+
+  sweet
+
+  casual
+
+  amount
+
+  element'
+bip_39_word_new_line9: 'tortoise
+
+  april
+
+  win
+
+  season
+
+  sweet
+
+  casual
+
+  amount
+
+  element
+
+  ostrich'
+bip_39_word_space_0:
+- tortoise
+- april
+- win
+- season
+- sweet
+- casual
+- amount
+- element
+- ostrich
+- helmet
+- assume
+- advice
+bip_39_word_space_1: tortoise
+bip_39_word_space_10: tortoise april win season sweet casual amount element ostrich
+  helmet
+bip_39_word_space_11: tortoise april win season sweet casual amount element ostrich
+  helmet assume
+bip_39_word_space_12: tortoise april win season sweet casual amount element ostrich
+  helmet assume advice
+bip_39_word_space_2: tortoise april
+bip_39_word_space_3: tortoise april win
+bip_39_word_space_4: tortoise april win season
+bip_39_word_space_5: tortoise april win season sweet
+bip_39_word_space_6: tortoise april win season sweet casual
+bip_39_word_space_7: tortoise april win season sweet casual amount
+bip_39_word_space_8: tortoise april win season sweet casual amount element
+bip_39_word_space_9: tortoise april win season sweet casual amount element ostrich
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

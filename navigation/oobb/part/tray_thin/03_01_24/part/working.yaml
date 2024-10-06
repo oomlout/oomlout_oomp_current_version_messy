@@ -1,3 +1,186 @@
+bip_39_word_new_br1: omit
+bip_39_word_new_br10: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown
+bip_39_word_new_br11: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab
+bip_39_word_new_br12: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab<br>address
+bip_39_word_new_br2: omit<br>sport
+bip_39_word_new_br3: omit<br>sport<br>chapter
+bip_39_word_new_br4: omit<br>sport<br>chapter<br>dad
+bip_39_word_new_br5: omit<br>sport<br>chapter<br>dad<br>account
+bip_39_word_new_br6: omit<br>sport<br>chapter<br>dad<br>account<br>myself
+bip_39_word_new_br7: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken
+bip_39_word_new_br8: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair
+bip_39_word_new_br9: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid
+bip_39_word_new_line1: omit
+bip_39_word_new_line10: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair
+
+  avoid
+
+  frown'
+bip_39_word_new_line11: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair
+
+  avoid
+
+  frown
+
+  slab'
+bip_39_word_new_line12: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair
+
+  avoid
+
+  frown
+
+  slab
+
+  address'
+bip_39_word_new_line2: 'omit
+
+  sport'
+bip_39_word_new_line3: 'omit
+
+  sport
+
+  chapter'
+bip_39_word_new_line4: 'omit
+
+  sport
+
+  chapter
+
+  dad'
+bip_39_word_new_line5: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account'
+bip_39_word_new_line6: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself'
+bip_39_word_new_line7: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken'
+bip_39_word_new_line8: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair'
+bip_39_word_new_line9: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair
+
+  avoid'
+bip_39_word_space_0:
+- omit
+- sport
+- chapter
+- dad
+- account
+- myself
+- chicken
+- unfair
+- avoid
+- frown
+- slab
+- address
+bip_39_word_space_1: omit
+bip_39_word_space_10: omit sport chapter dad account myself chicken unfair avoid frown
+bip_39_word_space_11: omit sport chapter dad account myself chicken unfair avoid frown
+  slab
+bip_39_word_space_12: omit sport chapter dad account myself chicken unfair avoid frown
+  slab address
+bip_39_word_space_2: omit sport
+bip_39_word_space_3: omit sport chapter
+bip_39_word_space_4: omit sport chapter dad
+bip_39_word_space_5: omit sport chapter dad account
+bip_39_word_space_6: omit sport chapter dad account myself
+bip_39_word_space_7: omit sport chapter dad account myself chicken
+bip_39_word_space_8: omit sport chapter dad account myself chicken unfair
+bip_39_word_space_9: omit sport chapter dad account myself chicken unfair avoid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

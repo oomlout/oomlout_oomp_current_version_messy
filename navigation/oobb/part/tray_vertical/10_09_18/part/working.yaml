@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ancient
+bip_39_word_new_br10: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney<br>ridge<br>panther<br>hair<br>orphan
+bip_39_word_new_br11: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney<br>ridge<br>panther<br>hair<br>orphan<br>hollow
+bip_39_word_new_br12: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney<br>ridge<br>panther<br>hair<br>orphan<br>hollow<br>august
+bip_39_word_new_br2: ancient<br>occur
+bip_39_word_new_br3: ancient<br>occur<br>peasant
+bip_39_word_new_br4: ancient<br>occur<br>peasant<br>hedgehog
+bip_39_word_new_br5: ancient<br>occur<br>peasant<br>hedgehog<br>ivory
+bip_39_word_new_br6: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney
+bip_39_word_new_br7: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney<br>ridge
+bip_39_word_new_br8: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney<br>ridge<br>panther
+bip_39_word_new_br9: ancient<br>occur<br>peasant<br>hedgehog<br>ivory<br>chimney<br>ridge<br>panther<br>hair
+bip_39_word_new_line1: ancient
+bip_39_word_new_line10: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog
+
+  ivory
+
+  chimney
+
+  ridge
+
+  panther
+
+  hair
+
+  orphan'
+bip_39_word_new_line11: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog
+
+  ivory
+
+  chimney
+
+  ridge
+
+  panther
+
+  hair
+
+  orphan
+
+  hollow'
+bip_39_word_new_line12: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog
+
+  ivory
+
+  chimney
+
+  ridge
+
+  panther
+
+  hair
+
+  orphan
+
+  hollow
+
+  august'
+bip_39_word_new_line2: 'ancient
+
+  occur'
+bip_39_word_new_line3: 'ancient
+
+  occur
+
+  peasant'
+bip_39_word_new_line4: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog'
+bip_39_word_new_line5: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog
+
+  ivory'
+bip_39_word_new_line6: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog
+
+  ivory
+
+  chimney'
+bip_39_word_new_line7: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog
+
+  ivory
+
+  chimney
+
+  ridge'
+bip_39_word_new_line8: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog
+
+  ivory
+
+  chimney
+
+  ridge
+
+  panther'
+bip_39_word_new_line9: 'ancient
+
+  occur
+
+  peasant
+
+  hedgehog
+
+  ivory
+
+  chimney
+
+  ridge
+
+  panther
+
+  hair'
+bip_39_word_space_0:
+- ancient
+- occur
+- peasant
+- hedgehog
+- ivory
+- chimney
+- ridge
+- panther
+- hair
+- orphan
+- hollow
+- august
+bip_39_word_space_1: ancient
+bip_39_word_space_10: ancient occur peasant hedgehog ivory chimney ridge panther hair
+  orphan
+bip_39_word_space_11: ancient occur peasant hedgehog ivory chimney ridge panther hair
+  orphan hollow
+bip_39_word_space_12: ancient occur peasant hedgehog ivory chimney ridge panther hair
+  orphan hollow august
+bip_39_word_space_2: ancient occur
+bip_39_word_space_3: ancient occur peasant
+bip_39_word_space_4: ancient occur peasant hedgehog
+bip_39_word_space_5: ancient occur peasant hedgehog ivory
+bip_39_word_space_6: ancient occur peasant hedgehog ivory chimney
+bip_39_word_space_7: ancient occur peasant hedgehog ivory chimney ridge
+bip_39_word_space_8: ancient occur peasant hedgehog ivory chimney ridge panther
+bip_39_word_space_9: ancient occur peasant hedgehog ivory chimney ridge panther hair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

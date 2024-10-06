@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ready often
+  * bip 39 word 3: ready often glory
+  * bip 39 word: ready often glory clean labor piano then remain grace dance clean approve
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ready |  
+| bip_39_word_new_br10 | ready<br>often<br>glory<br>clean<br>labor<br>piano<br>then<br>remain<br>grace<br>dance |  
+| bip_39_word_new_br11 | ready<br>often<br>glory<br>clean<br>labor<br>piano<br>then<br>remain<br>grace<br>dance<br>clean |  
+| bip_39_word_new_br12 | ready<br>often<br>glory<br>clean<br>labor<br>piano<br>then<br>remain<br>grace<br>dance<br>clean<br>approve |  
+| bip_39_word_new_br2 | ready<br>often |  
+| bip_39_word_new_br3 | ready<br>often<br>glory |  
+| bip_39_word_new_br4 | ready<br>often<br>glory<br>clean |  
+| bip_39_word_new_br5 | ready<br>often<br>glory<br>clean<br>labor |  
+| bip_39_word_new_br6 | ready<br>often<br>glory<br>clean<br>labor<br>piano |  
+| bip_39_word_new_br7 | ready<br>often<br>glory<br>clean<br>labor<br>piano<br>then |  
+| bip_39_word_new_br8 | ready<br>often<br>glory<br>clean<br>labor<br>piano<br>then<br>remain |  
+| bip_39_word_new_br9 | ready<br>often<br>glory<br>clean<br>labor<br>piano<br>then<br>remain<br>grace |  
+| bip_39_word_new_line1 | ready |  
+| bip_39_word_new_line10 | ready
+often
+glory
+clean
+labor
+piano
+then
+remain
+grace
+dance |  
+| bip_39_word_new_line11 | ready
+often
+glory
+clean
+labor
+piano
+then
+remain
+grace
+dance
+clean |  
+| bip_39_word_new_line12 | ready
+often
+glory
+clean
+labor
+piano
+then
+remain
+grace
+dance
+clean
+approve |  
+| bip_39_word_new_line2 | ready
+often |  
+| bip_39_word_new_line3 | ready
+often
+glory |  
+| bip_39_word_new_line4 | ready
+often
+glory
+clean |  
+| bip_39_word_new_line5 | ready
+often
+glory
+clean
+labor |  
+| bip_39_word_new_line6 | ready
+often
+glory
+clean
+labor
+piano |  
+| bip_39_word_new_line7 | ready
+often
+glory
+clean
+labor
+piano
+then |  
+| bip_39_word_new_line8 | ready
+often
+glory
+clean
+labor
+piano
+then
+remain |  
+| bip_39_word_new_line9 | ready
+often
+glory
+clean
+labor
+piano
+then
+remain
+grace |  
+| bip_39_word_space_0 | ['ready', 'often', 'glory', 'clean', 'labor', 'piano', 'then', 'remain', 'grace', 'dance', 'clean', 'approve'] |  
+| bip_39_word_space_1 | ready |  
+| bip_39_word_space_10 | ready often glory clean labor piano then remain grace dance |  
+| bip_39_word_space_11 | ready often glory clean labor piano then remain grace dance clean |  
+| bip_39_word_space_12 | ready often glory clean labor piano then remain grace dance clean approve |  
+| bip_39_word_space_2 | ready often |  
+| bip_39_word_space_3 | ready often glory |  
+| bip_39_word_space_4 | ready often glory clean |  
+| bip_39_word_space_5 | ready often glory clean labor |  
+| bip_39_word_space_6 | ready often glory clean labor piano |  
+| bip_39_word_space_7 | ready often glory clean labor piano then |  
+| bip_39_word_space_8 | ready often glory clean labor piano then remain |  
+| bip_39_word_space_9 | ready often glory clean labor piano then remain grace |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

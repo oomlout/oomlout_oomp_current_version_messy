@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: power royal
+  * bip 39 word 3: power royal door
+  * bip 39 word: 
 
 ### other_codes
 * short_code: br6319
@@ -29,6 +32,95 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | power |  
+| bip_39_word_new_br10 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage<br>ball |  
+| bip_39_word_new_br11 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage<br>ball<br>prosper |  
+| bip_39_word_new_br2 | power<br>royal |  
+| bip_39_word_new_br3 | power<br>royal<br>door |  
+| bip_39_word_new_br4 | power<br>royal<br>door<br>remember |  
+| bip_39_word_new_br5 | power<br>royal<br>door<br>remember<br>speed |  
+| bip_39_word_new_br6 | power<br>royal<br>door<br>remember<br>speed<br>then |  
+| bip_39_word_new_br7 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share |  
+| bip_39_word_new_br8 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward |  
+| bip_39_word_new_br9 | power<br>royal<br>door<br>remember<br>speed<br>then<br>share<br>reward<br>voyage |  
+| bip_39_word_new_line1 | power |  
+| bip_39_word_new_line10 | power
+royal
+door
+remember
+speed
+then
+share
+reward
+voyage
+ball |  
+| bip_39_word_new_line11 | power
+royal
+door
+remember
+speed
+then
+share
+reward
+voyage
+ball
+prosper |  
+| bip_39_word_new_line2 | power
+royal |  
+| bip_39_word_new_line3 | power
+royal
+door |  
+| bip_39_word_new_line4 | power
+royal
+door
+remember |  
+| bip_39_word_new_line5 | power
+royal
+door
+remember
+speed |  
+| bip_39_word_new_line6 | power
+royal
+door
+remember
+speed
+then |  
+| bip_39_word_new_line7 | power
+royal
+door
+remember
+speed
+then
+share |  
+| bip_39_word_new_line8 | power
+royal
+door
+remember
+speed
+then
+share
+reward |  
+| bip_39_word_new_line9 | power
+royal
+door
+remember
+speed
+then
+share
+reward
+voyage |  
+| bip_39_word_space_0 | ['power', 'royal', 'door', 'remember', 'speed', 'then', 'share', 'reward', 'voyage', 'ball', 'prosper'] |  
+| bip_39_word_space_1 | power |  
+| bip_39_word_space_10 | power royal door remember speed then share reward voyage ball |  
+| bip_39_word_space_11 | power royal door remember speed then share reward voyage ball prosper |  
+| bip_39_word_space_2 | power royal |  
+| bip_39_word_space_3 | power royal door |  
+| bip_39_word_space_4 | power royal door remember |  
+| bip_39_word_space_5 | power royal door remember speed |  
+| bip_39_word_space_6 | power royal door remember speed then |  
+| bip_39_word_space_7 | power royal door remember speed then share |  
+| bip_39_word_space_8 | power royal door remember speed then share reward |  
+| bip_39_word_space_9 | power royal door remember speed then share reward voyage |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broccoli drop
+  * bip 39 word 3: broccoli drop adjust
+  * bip 39 word: broccoli drop adjust rival maple hawk large bundle lesson pepper zoo art
 
 ### other_codes
 * short_code: b8m70
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | broccoli |  
+| bip_39_word_new_br10 | broccoli<br>drop<br>adjust<br>rival<br>maple<br>hawk<br>large<br>bundle<br>lesson<br>pepper |  
+| bip_39_word_new_br11 | broccoli<br>drop<br>adjust<br>rival<br>maple<br>hawk<br>large<br>bundle<br>lesson<br>pepper<br>zoo |  
+| bip_39_word_new_br12 | broccoli<br>drop<br>adjust<br>rival<br>maple<br>hawk<br>large<br>bundle<br>lesson<br>pepper<br>zoo<br>art |  
+| bip_39_word_new_br2 | broccoli<br>drop |  
+| bip_39_word_new_br3 | broccoli<br>drop<br>adjust |  
+| bip_39_word_new_br4 | broccoli<br>drop<br>adjust<br>rival |  
+| bip_39_word_new_br5 | broccoli<br>drop<br>adjust<br>rival<br>maple |  
+| bip_39_word_new_br6 | broccoli<br>drop<br>adjust<br>rival<br>maple<br>hawk |  
+| bip_39_word_new_br7 | broccoli<br>drop<br>adjust<br>rival<br>maple<br>hawk<br>large |  
+| bip_39_word_new_br8 | broccoli<br>drop<br>adjust<br>rival<br>maple<br>hawk<br>large<br>bundle |  
+| bip_39_word_new_br9 | broccoli<br>drop<br>adjust<br>rival<br>maple<br>hawk<br>large<br>bundle<br>lesson |  
+| bip_39_word_new_line1 | broccoli |  
+| bip_39_word_new_line10 | broccoli
+drop
+adjust
+rival
+maple
+hawk
+large
+bundle
+lesson
+pepper |  
+| bip_39_word_new_line11 | broccoli
+drop
+adjust
+rival
+maple
+hawk
+large
+bundle
+lesson
+pepper
+zoo |  
+| bip_39_word_new_line12 | broccoli
+drop
+adjust
+rival
+maple
+hawk
+large
+bundle
+lesson
+pepper
+zoo
+art |  
+| bip_39_word_new_line2 | broccoli
+drop |  
+| bip_39_word_new_line3 | broccoli
+drop
+adjust |  
+| bip_39_word_new_line4 | broccoli
+drop
+adjust
+rival |  
+| bip_39_word_new_line5 | broccoli
+drop
+adjust
+rival
+maple |  
+| bip_39_word_new_line6 | broccoli
+drop
+adjust
+rival
+maple
+hawk |  
+| bip_39_word_new_line7 | broccoli
+drop
+adjust
+rival
+maple
+hawk
+large |  
+| bip_39_word_new_line8 | broccoli
+drop
+adjust
+rival
+maple
+hawk
+large
+bundle |  
+| bip_39_word_new_line9 | broccoli
+drop
+adjust
+rival
+maple
+hawk
+large
+bundle
+lesson |  
+| bip_39_word_space_0 | ['broccoli', 'drop', 'adjust', 'rival', 'maple', 'hawk', 'large', 'bundle', 'lesson', 'pepper', 'zoo', 'art'] |  
+| bip_39_word_space_1 | broccoli |  
+| bip_39_word_space_10 | broccoli drop adjust rival maple hawk large bundle lesson pepper |  
+| bip_39_word_space_11 | broccoli drop adjust rival maple hawk large bundle lesson pepper zoo |  
+| bip_39_word_space_12 | broccoli drop adjust rival maple hawk large bundle lesson pepper zoo art |  
+| bip_39_word_space_2 | broccoli drop |  
+| bip_39_word_space_3 | broccoli drop adjust |  
+| bip_39_word_space_4 | broccoli drop adjust rival |  
+| bip_39_word_space_5 | broccoli drop adjust rival maple |  
+| bip_39_word_space_6 | broccoli drop adjust rival maple hawk |  
+| bip_39_word_space_7 | broccoli drop adjust rival maple hawk large |  
+| bip_39_word_space_8 | broccoli drop adjust rival maple hawk large bundle |  
+| bip_39_word_space_9 | broccoli drop adjust rival maple hawk large bundle lesson |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

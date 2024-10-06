@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: elite flight
+  * bip 39 word 3: elite flight screen
+  * bip 39 word: elite flight screen home gentle wire video meadow skirt vague problem aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | elite |  
+| bip_39_word_new_br10 | elite<br>flight<br>screen<br>home<br>gentle<br>wire<br>video<br>meadow<br>skirt<br>vague |  
+| bip_39_word_new_br11 | elite<br>flight<br>screen<br>home<br>gentle<br>wire<br>video<br>meadow<br>skirt<br>vague<br>problem |  
+| bip_39_word_new_br12 | elite<br>flight<br>screen<br>home<br>gentle<br>wire<br>video<br>meadow<br>skirt<br>vague<br>problem<br>aspect |  
+| bip_39_word_new_br2 | elite<br>flight |  
+| bip_39_word_new_br3 | elite<br>flight<br>screen |  
+| bip_39_word_new_br4 | elite<br>flight<br>screen<br>home |  
+| bip_39_word_new_br5 | elite<br>flight<br>screen<br>home<br>gentle |  
+| bip_39_word_new_br6 | elite<br>flight<br>screen<br>home<br>gentle<br>wire |  
+| bip_39_word_new_br7 | elite<br>flight<br>screen<br>home<br>gentle<br>wire<br>video |  
+| bip_39_word_new_br8 | elite<br>flight<br>screen<br>home<br>gentle<br>wire<br>video<br>meadow |  
+| bip_39_word_new_br9 | elite<br>flight<br>screen<br>home<br>gentle<br>wire<br>video<br>meadow<br>skirt |  
+| bip_39_word_new_line1 | elite |  
+| bip_39_word_new_line10 | elite
+flight
+screen
+home
+gentle
+wire
+video
+meadow
+skirt
+vague |  
+| bip_39_word_new_line11 | elite
+flight
+screen
+home
+gentle
+wire
+video
+meadow
+skirt
+vague
+problem |  
+| bip_39_word_new_line12 | elite
+flight
+screen
+home
+gentle
+wire
+video
+meadow
+skirt
+vague
+problem
+aspect |  
+| bip_39_word_new_line2 | elite
+flight |  
+| bip_39_word_new_line3 | elite
+flight
+screen |  
+| bip_39_word_new_line4 | elite
+flight
+screen
+home |  
+| bip_39_word_new_line5 | elite
+flight
+screen
+home
+gentle |  
+| bip_39_word_new_line6 | elite
+flight
+screen
+home
+gentle
+wire |  
+| bip_39_word_new_line7 | elite
+flight
+screen
+home
+gentle
+wire
+video |  
+| bip_39_word_new_line8 | elite
+flight
+screen
+home
+gentle
+wire
+video
+meadow |  
+| bip_39_word_new_line9 | elite
+flight
+screen
+home
+gentle
+wire
+video
+meadow
+skirt |  
+| bip_39_word_space_0 | ['elite', 'flight', 'screen', 'home', 'gentle', 'wire', 'video', 'meadow', 'skirt', 'vague', 'problem', 'aspect'] |  
+| bip_39_word_space_1 | elite |  
+| bip_39_word_space_10 | elite flight screen home gentle wire video meadow skirt vague |  
+| bip_39_word_space_11 | elite flight screen home gentle wire video meadow skirt vague problem |  
+| bip_39_word_space_12 | elite flight screen home gentle wire video meadow skirt vague problem aspect |  
+| bip_39_word_space_2 | elite flight |  
+| bip_39_word_space_3 | elite flight screen |  
+| bip_39_word_space_4 | elite flight screen home |  
+| bip_39_word_space_5 | elite flight screen home gentle |  
+| bip_39_word_space_6 | elite flight screen home gentle wire |  
+| bip_39_word_space_7 | elite flight screen home gentle wire video |  
+| bip_39_word_space_8 | elite flight screen home gentle wire video meadow |  
+| bip_39_word_space_9 | elite flight screen home gentle wire video meadow skirt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

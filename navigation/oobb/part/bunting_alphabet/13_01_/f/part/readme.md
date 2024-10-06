@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: f
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bullet primary
+  * bip 39 word 3: bullet primary squeeze
+  * bip 39 word: bullet primary squeeze oil jeans walk pipe six leave agree whale avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bullet |  
+| bip_39_word_new_br10 | bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk<br>pipe<br>six<br>leave<br>agree |  
+| bip_39_word_new_br11 | bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk<br>pipe<br>six<br>leave<br>agree<br>whale |  
+| bip_39_word_new_br12 | bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk<br>pipe<br>six<br>leave<br>agree<br>whale<br>avocado |  
+| bip_39_word_new_br2 | bullet<br>primary |  
+| bip_39_word_new_br3 | bullet<br>primary<br>squeeze |  
+| bip_39_word_new_br4 | bullet<br>primary<br>squeeze<br>oil |  
+| bip_39_word_new_br5 | bullet<br>primary<br>squeeze<br>oil<br>jeans |  
+| bip_39_word_new_br6 | bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk |  
+| bip_39_word_new_br7 | bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk<br>pipe |  
+| bip_39_word_new_br8 | bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk<br>pipe<br>six |  
+| bip_39_word_new_br9 | bullet<br>primary<br>squeeze<br>oil<br>jeans<br>walk<br>pipe<br>six<br>leave |  
+| bip_39_word_new_line1 | bullet |  
+| bip_39_word_new_line10 | bullet
+primary
+squeeze
+oil
+jeans
+walk
+pipe
+six
+leave
+agree |  
+| bip_39_word_new_line11 | bullet
+primary
+squeeze
+oil
+jeans
+walk
+pipe
+six
+leave
+agree
+whale |  
+| bip_39_word_new_line12 | bullet
+primary
+squeeze
+oil
+jeans
+walk
+pipe
+six
+leave
+agree
+whale
+avocado |  
+| bip_39_word_new_line2 | bullet
+primary |  
+| bip_39_word_new_line3 | bullet
+primary
+squeeze |  
+| bip_39_word_new_line4 | bullet
+primary
+squeeze
+oil |  
+| bip_39_word_new_line5 | bullet
+primary
+squeeze
+oil
+jeans |  
+| bip_39_word_new_line6 | bullet
+primary
+squeeze
+oil
+jeans
+walk |  
+| bip_39_word_new_line7 | bullet
+primary
+squeeze
+oil
+jeans
+walk
+pipe |  
+| bip_39_word_new_line8 | bullet
+primary
+squeeze
+oil
+jeans
+walk
+pipe
+six |  
+| bip_39_word_new_line9 | bullet
+primary
+squeeze
+oil
+jeans
+walk
+pipe
+six
+leave |  
+| bip_39_word_space_0 | ['bullet', 'primary', 'squeeze', 'oil', 'jeans', 'walk', 'pipe', 'six', 'leave', 'agree', 'whale', 'avocado'] |  
+| bip_39_word_space_1 | bullet |  
+| bip_39_word_space_10 | bullet primary squeeze oil jeans walk pipe six leave agree |  
+| bip_39_word_space_11 | bullet primary squeeze oil jeans walk pipe six leave agree whale |  
+| bip_39_word_space_12 | bullet primary squeeze oil jeans walk pipe six leave agree whale avocado |  
+| bip_39_word_space_2 | bullet primary |  
+| bip_39_word_space_3 | bullet primary squeeze |  
+| bip_39_word_space_4 | bullet primary squeeze oil |  
+| bip_39_word_space_5 | bullet primary squeeze oil jeans |  
+| bip_39_word_space_6 | bullet primary squeeze oil jeans walk |  
+| bip_39_word_space_7 | bullet primary squeeze oil jeans walk pipe |  
+| bip_39_word_space_8 | bullet primary squeeze oil jeans walk pipe six |  
+| bip_39_word_space_9 | bullet primary squeeze oil jeans walk pipe six leave |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

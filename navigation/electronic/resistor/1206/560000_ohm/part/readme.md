@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: grit heavy
+  * bip 39 word 3: grit heavy valve
+  * bip 39 word: grit heavy valve maid decade install field drink quantum battle rain account
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | grit |  
+| bip_39_word_new_br10 | grit<br>heavy<br>valve<br>maid<br>decade<br>install<br>field<br>drink<br>quantum<br>battle |  
+| bip_39_word_new_br11 | grit<br>heavy<br>valve<br>maid<br>decade<br>install<br>field<br>drink<br>quantum<br>battle<br>rain |  
+| bip_39_word_new_br12 | grit<br>heavy<br>valve<br>maid<br>decade<br>install<br>field<br>drink<br>quantum<br>battle<br>rain<br>account |  
+| bip_39_word_new_br2 | grit<br>heavy |  
+| bip_39_word_new_br3 | grit<br>heavy<br>valve |  
+| bip_39_word_new_br4 | grit<br>heavy<br>valve<br>maid |  
+| bip_39_word_new_br5 | grit<br>heavy<br>valve<br>maid<br>decade |  
+| bip_39_word_new_br6 | grit<br>heavy<br>valve<br>maid<br>decade<br>install |  
+| bip_39_word_new_br7 | grit<br>heavy<br>valve<br>maid<br>decade<br>install<br>field |  
+| bip_39_word_new_br8 | grit<br>heavy<br>valve<br>maid<br>decade<br>install<br>field<br>drink |  
+| bip_39_word_new_br9 | grit<br>heavy<br>valve<br>maid<br>decade<br>install<br>field<br>drink<br>quantum |  
+| bip_39_word_new_line1 | grit |  
+| bip_39_word_new_line10 | grit
+heavy
+valve
+maid
+decade
+install
+field
+drink
+quantum
+battle |  
+| bip_39_word_new_line11 | grit
+heavy
+valve
+maid
+decade
+install
+field
+drink
+quantum
+battle
+rain |  
+| bip_39_word_new_line12 | grit
+heavy
+valve
+maid
+decade
+install
+field
+drink
+quantum
+battle
+rain
+account |  
+| bip_39_word_new_line2 | grit
+heavy |  
+| bip_39_word_new_line3 | grit
+heavy
+valve |  
+| bip_39_word_new_line4 | grit
+heavy
+valve
+maid |  
+| bip_39_word_new_line5 | grit
+heavy
+valve
+maid
+decade |  
+| bip_39_word_new_line6 | grit
+heavy
+valve
+maid
+decade
+install |  
+| bip_39_word_new_line7 | grit
+heavy
+valve
+maid
+decade
+install
+field |  
+| bip_39_word_new_line8 | grit
+heavy
+valve
+maid
+decade
+install
+field
+drink |  
+| bip_39_word_new_line9 | grit
+heavy
+valve
+maid
+decade
+install
+field
+drink
+quantum |  
+| bip_39_word_space_0 | ['grit', 'heavy', 'valve', 'maid', 'decade', 'install', 'field', 'drink', 'quantum', 'battle', 'rain', 'account'] |  
+| bip_39_word_space_1 | grit |  
+| bip_39_word_space_10 | grit heavy valve maid decade install field drink quantum battle |  
+| bip_39_word_space_11 | grit heavy valve maid decade install field drink quantum battle rain |  
+| bip_39_word_space_12 | grit heavy valve maid decade install field drink quantum battle rain account |  
+| bip_39_word_space_2 | grit heavy |  
+| bip_39_word_space_3 | grit heavy valve |  
+| bip_39_word_space_4 | grit heavy valve maid |  
+| bip_39_word_space_5 | grit heavy valve maid decade |  
+| bip_39_word_space_6 | grit heavy valve maid decade install |  
+| bip_39_word_space_7 | grit heavy valve maid decade install field |  
+| bip_39_word_space_8 | grit heavy valve maid decade install field drink |  
+| bip_39_word_space_9 | grit heavy valve maid decade install field drink quantum |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

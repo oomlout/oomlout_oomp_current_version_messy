@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: guilt citizen
+  * bip 39 word 3: guilt citizen person
+  * bip 39 word: guilt citizen person eye angle gesture eye bag agent embody rare adapt
 
 ### other_codes
 * short_code: ss5m25
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | guilt |  
+| bip_39_word_new_br10 | guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent<br>embody |  
+| bip_39_word_new_br11 | guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent<br>embody<br>rare |  
+| bip_39_word_new_br12 | guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent<br>embody<br>rare<br>adapt |  
+| bip_39_word_new_br2 | guilt<br>citizen |  
+| bip_39_word_new_br3 | guilt<br>citizen<br>person |  
+| bip_39_word_new_br4 | guilt<br>citizen<br>person<br>eye |  
+| bip_39_word_new_br5 | guilt<br>citizen<br>person<br>eye<br>angle |  
+| bip_39_word_new_br6 | guilt<br>citizen<br>person<br>eye<br>angle<br>gesture |  
+| bip_39_word_new_br7 | guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye |  
+| bip_39_word_new_br8 | guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag |  
+| bip_39_word_new_br9 | guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent |  
+| bip_39_word_new_line1 | guilt |  
+| bip_39_word_new_line10 | guilt
+citizen
+person
+eye
+angle
+gesture
+eye
+bag
+agent
+embody |  
+| bip_39_word_new_line11 | guilt
+citizen
+person
+eye
+angle
+gesture
+eye
+bag
+agent
+embody
+rare |  
+| bip_39_word_new_line12 | guilt
+citizen
+person
+eye
+angle
+gesture
+eye
+bag
+agent
+embody
+rare
+adapt |  
+| bip_39_word_new_line2 | guilt
+citizen |  
+| bip_39_word_new_line3 | guilt
+citizen
+person |  
+| bip_39_word_new_line4 | guilt
+citizen
+person
+eye |  
+| bip_39_word_new_line5 | guilt
+citizen
+person
+eye
+angle |  
+| bip_39_word_new_line6 | guilt
+citizen
+person
+eye
+angle
+gesture |  
+| bip_39_word_new_line7 | guilt
+citizen
+person
+eye
+angle
+gesture
+eye |  
+| bip_39_word_new_line8 | guilt
+citizen
+person
+eye
+angle
+gesture
+eye
+bag |  
+| bip_39_word_new_line9 | guilt
+citizen
+person
+eye
+angle
+gesture
+eye
+bag
+agent |  
+| bip_39_word_space_0 | ['guilt', 'citizen', 'person', 'eye', 'angle', 'gesture', 'eye', 'bag', 'agent', 'embody', 'rare', 'adapt'] |  
+| bip_39_word_space_1 | guilt |  
+| bip_39_word_space_10 | guilt citizen person eye angle gesture eye bag agent embody |  
+| bip_39_word_space_11 | guilt citizen person eye angle gesture eye bag agent embody rare |  
+| bip_39_word_space_12 | guilt citizen person eye angle gesture eye bag agent embody rare adapt |  
+| bip_39_word_space_2 | guilt citizen |  
+| bip_39_word_space_3 | guilt citizen person |  
+| bip_39_word_space_4 | guilt citizen person eye |  
+| bip_39_word_space_5 | guilt citizen person eye angle |  
+| bip_39_word_space_6 | guilt citizen person eye angle gesture |  
+| bip_39_word_space_7 | guilt citizen person eye angle gesture eye |  
+| bip_39_word_space_8 | guilt citizen person eye angle gesture eye bag |  
+| bip_39_word_space_9 | guilt citizen person eye angle gesture eye bag agent |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

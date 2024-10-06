@@ -1,3 +1,186 @@
+bip_39_word_new_br1: pizza
+bip_39_word_new_br10: pizza<br>easy<br>slab<br>fabric<br>desert<br>page<br>asthma<br>hospital<br>equal<br>supply
+bip_39_word_new_br11: pizza<br>easy<br>slab<br>fabric<br>desert<br>page<br>asthma<br>hospital<br>equal<br>supply<br>step
+bip_39_word_new_br12: pizza<br>easy<br>slab<br>fabric<br>desert<br>page<br>asthma<br>hospital<br>equal<br>supply<br>step<br>announce
+bip_39_word_new_br2: pizza<br>easy
+bip_39_word_new_br3: pizza<br>easy<br>slab
+bip_39_word_new_br4: pizza<br>easy<br>slab<br>fabric
+bip_39_word_new_br5: pizza<br>easy<br>slab<br>fabric<br>desert
+bip_39_word_new_br6: pizza<br>easy<br>slab<br>fabric<br>desert<br>page
+bip_39_word_new_br7: pizza<br>easy<br>slab<br>fabric<br>desert<br>page<br>asthma
+bip_39_word_new_br8: pizza<br>easy<br>slab<br>fabric<br>desert<br>page<br>asthma<br>hospital
+bip_39_word_new_br9: pizza<br>easy<br>slab<br>fabric<br>desert<br>page<br>asthma<br>hospital<br>equal
+bip_39_word_new_line1: pizza
+bip_39_word_new_line10: 'pizza
+
+  easy
+
+  slab
+
+  fabric
+
+  desert
+
+  page
+
+  asthma
+
+  hospital
+
+  equal
+
+  supply'
+bip_39_word_new_line11: 'pizza
+
+  easy
+
+  slab
+
+  fabric
+
+  desert
+
+  page
+
+  asthma
+
+  hospital
+
+  equal
+
+  supply
+
+  step'
+bip_39_word_new_line12: 'pizza
+
+  easy
+
+  slab
+
+  fabric
+
+  desert
+
+  page
+
+  asthma
+
+  hospital
+
+  equal
+
+  supply
+
+  step
+
+  announce'
+bip_39_word_new_line2: 'pizza
+
+  easy'
+bip_39_word_new_line3: 'pizza
+
+  easy
+
+  slab'
+bip_39_word_new_line4: 'pizza
+
+  easy
+
+  slab
+
+  fabric'
+bip_39_word_new_line5: 'pizza
+
+  easy
+
+  slab
+
+  fabric
+
+  desert'
+bip_39_word_new_line6: 'pizza
+
+  easy
+
+  slab
+
+  fabric
+
+  desert
+
+  page'
+bip_39_word_new_line7: 'pizza
+
+  easy
+
+  slab
+
+  fabric
+
+  desert
+
+  page
+
+  asthma'
+bip_39_word_new_line8: 'pizza
+
+  easy
+
+  slab
+
+  fabric
+
+  desert
+
+  page
+
+  asthma
+
+  hospital'
+bip_39_word_new_line9: 'pizza
+
+  easy
+
+  slab
+
+  fabric
+
+  desert
+
+  page
+
+  asthma
+
+  hospital
+
+  equal'
+bip_39_word_space_0:
+- pizza
+- easy
+- slab
+- fabric
+- desert
+- page
+- asthma
+- hospital
+- equal
+- supply
+- step
+- announce
+bip_39_word_space_1: pizza
+bip_39_word_space_10: pizza easy slab fabric desert page asthma hospital equal supply
+bip_39_word_space_11: pizza easy slab fabric desert page asthma hospital equal supply
+  step
+bip_39_word_space_12: pizza easy slab fabric desert page asthma hospital equal supply
+  step announce
+bip_39_word_space_2: pizza easy
+bip_39_word_space_3: pizza easy slab
+bip_39_word_space_4: pizza easy slab fabric
+bip_39_word_space_5: pizza easy slab fabric desert
+bip_39_word_space_6: pizza easy slab fabric desert page
+bip_39_word_space_7: pizza easy slab fabric desert page asthma
+bip_39_word_space_8: pizza easy slab fabric desert page asthma hospital
+bip_39_word_space_9: pizza easy slab fabric desert page asthma hospital equal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: about
+bip_39_word_new_br10: about<br>fashion<br>mercy<br>ceiling<br>perfect<br>river<br>poverty<br>holiday<br>rate<br>scout
+bip_39_word_new_br11: about<br>fashion<br>mercy<br>ceiling<br>perfect<br>river<br>poverty<br>holiday<br>rate<br>scout<br>stand
+bip_39_word_new_br12: about<br>fashion<br>mercy<br>ceiling<br>perfect<br>river<br>poverty<br>holiday<br>rate<br>scout<br>stand<br>aim
+bip_39_word_new_br2: about<br>fashion
+bip_39_word_new_br3: about<br>fashion<br>mercy
+bip_39_word_new_br4: about<br>fashion<br>mercy<br>ceiling
+bip_39_word_new_br5: about<br>fashion<br>mercy<br>ceiling<br>perfect
+bip_39_word_new_br6: about<br>fashion<br>mercy<br>ceiling<br>perfect<br>river
+bip_39_word_new_br7: about<br>fashion<br>mercy<br>ceiling<br>perfect<br>river<br>poverty
+bip_39_word_new_br8: about<br>fashion<br>mercy<br>ceiling<br>perfect<br>river<br>poverty<br>holiday
+bip_39_word_new_br9: about<br>fashion<br>mercy<br>ceiling<br>perfect<br>river<br>poverty<br>holiday<br>rate
+bip_39_word_new_line1: about
+bip_39_word_new_line10: 'about
+
+  fashion
+
+  mercy
+
+  ceiling
+
+  perfect
+
+  river
+
+  poverty
+
+  holiday
+
+  rate
+
+  scout'
+bip_39_word_new_line11: 'about
+
+  fashion
+
+  mercy
+
+  ceiling
+
+  perfect
+
+  river
+
+  poverty
+
+  holiday
+
+  rate
+
+  scout
+
+  stand'
+bip_39_word_new_line12: 'about
+
+  fashion
+
+  mercy
+
+  ceiling
+
+  perfect
+
+  river
+
+  poverty
+
+  holiday
+
+  rate
+
+  scout
+
+  stand
+
+  aim'
+bip_39_word_new_line2: 'about
+
+  fashion'
+bip_39_word_new_line3: 'about
+
+  fashion
+
+  mercy'
+bip_39_word_new_line4: 'about
+
+  fashion
+
+  mercy
+
+  ceiling'
+bip_39_word_new_line5: 'about
+
+  fashion
+
+  mercy
+
+  ceiling
+
+  perfect'
+bip_39_word_new_line6: 'about
+
+  fashion
+
+  mercy
+
+  ceiling
+
+  perfect
+
+  river'
+bip_39_word_new_line7: 'about
+
+  fashion
+
+  mercy
+
+  ceiling
+
+  perfect
+
+  river
+
+  poverty'
+bip_39_word_new_line8: 'about
+
+  fashion
+
+  mercy
+
+  ceiling
+
+  perfect
+
+  river
+
+  poverty
+
+  holiday'
+bip_39_word_new_line9: 'about
+
+  fashion
+
+  mercy
+
+  ceiling
+
+  perfect
+
+  river
+
+  poverty
+
+  holiday
+
+  rate'
+bip_39_word_space_0:
+- about
+- fashion
+- mercy
+- ceiling
+- perfect
+- river
+- poverty
+- holiday
+- rate
+- scout
+- stand
+- aim
+bip_39_word_space_1: about
+bip_39_word_space_10: about fashion mercy ceiling perfect river poverty holiday rate
+  scout
+bip_39_word_space_11: about fashion mercy ceiling perfect river poverty holiday rate
+  scout stand
+bip_39_word_space_12: about fashion mercy ceiling perfect river poverty holiday rate
+  scout stand aim
+bip_39_word_space_2: about fashion
+bip_39_word_space_3: about fashion mercy
+bip_39_word_space_4: about fashion mercy ceiling
+bip_39_word_space_5: about fashion mercy ceiling perfect
+bip_39_word_space_6: about fashion mercy ceiling perfect river
+bip_39_word_space_7: about fashion mercy ceiling perfect river poverty
+bip_39_word_space_8: about fashion mercy ceiling perfect river poverty holiday
+bip_39_word_space_9: about fashion mercy ceiling perfect river poverty holiday rate
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

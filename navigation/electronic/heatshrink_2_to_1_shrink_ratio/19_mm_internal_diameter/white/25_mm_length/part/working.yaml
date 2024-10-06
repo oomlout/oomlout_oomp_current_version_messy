@@ -1,3 +1,186 @@
+bip_39_word_new_br1: quick
+bip_39_word_new_br10: quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb
+bip_39_word_new_br11: quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb<br>normal
+bip_39_word_new_br12: quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup<br>verb<br>normal<br>alter
+bip_39_word_new_br2: quick<br>strike
+bip_39_word_new_br3: quick<br>strike<br>neck
+bip_39_word_new_br4: quick<br>strike<br>neck<br>into
+bip_39_word_new_br5: quick<br>strike<br>neck<br>into<br>abandon
+bip_39_word_new_br6: quick<br>strike<br>neck<br>into<br>abandon<br>clinic
+bip_39_word_new_br7: quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal
+bip_39_word_new_br8: quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree
+bip_39_word_new_br9: quick<br>strike<br>neck<br>into<br>abandon<br>clinic<br>fatal<br>degree<br>setup
+bip_39_word_new_line1: quick
+bip_39_word_new_line10: 'quick
+
+  strike
+
+  neck
+
+  into
+
+  abandon
+
+  clinic
+
+  fatal
+
+  degree
+
+  setup
+
+  verb'
+bip_39_word_new_line11: 'quick
+
+  strike
+
+  neck
+
+  into
+
+  abandon
+
+  clinic
+
+  fatal
+
+  degree
+
+  setup
+
+  verb
+
+  normal'
+bip_39_word_new_line12: 'quick
+
+  strike
+
+  neck
+
+  into
+
+  abandon
+
+  clinic
+
+  fatal
+
+  degree
+
+  setup
+
+  verb
+
+  normal
+
+  alter'
+bip_39_word_new_line2: 'quick
+
+  strike'
+bip_39_word_new_line3: 'quick
+
+  strike
+
+  neck'
+bip_39_word_new_line4: 'quick
+
+  strike
+
+  neck
+
+  into'
+bip_39_word_new_line5: 'quick
+
+  strike
+
+  neck
+
+  into
+
+  abandon'
+bip_39_word_new_line6: 'quick
+
+  strike
+
+  neck
+
+  into
+
+  abandon
+
+  clinic'
+bip_39_word_new_line7: 'quick
+
+  strike
+
+  neck
+
+  into
+
+  abandon
+
+  clinic
+
+  fatal'
+bip_39_word_new_line8: 'quick
+
+  strike
+
+  neck
+
+  into
+
+  abandon
+
+  clinic
+
+  fatal
+
+  degree'
+bip_39_word_new_line9: 'quick
+
+  strike
+
+  neck
+
+  into
+
+  abandon
+
+  clinic
+
+  fatal
+
+  degree
+
+  setup'
+bip_39_word_space_0:
+- quick
+- strike
+- neck
+- into
+- abandon
+- clinic
+- fatal
+- degree
+- setup
+- verb
+- normal
+- alter
+bip_39_word_space_1: quick
+bip_39_word_space_10: quick strike neck into abandon clinic fatal degree setup verb
+bip_39_word_space_11: quick strike neck into abandon clinic fatal degree setup verb
+  normal
+bip_39_word_space_12: quick strike neck into abandon clinic fatal degree setup verb
+  normal alter
+bip_39_word_space_2: quick strike
+bip_39_word_space_3: quick strike neck
+bip_39_word_space_4: quick strike neck into
+bip_39_word_space_5: quick strike neck into abandon
+bip_39_word_space_6: quick strike neck into abandon clinic
+bip_39_word_space_7: quick strike neck into abandon clinic fatal
+bip_39_word_space_8: quick strike neck into abandon clinic fatal degree
+bip_39_word_space_9: quick strike neck into abandon clinic fatal degree setup
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

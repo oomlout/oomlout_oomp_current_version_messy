@@ -1,3 +1,186 @@
+bip_39_word_new_br1: salon
+bip_39_word_new_br10: salon<br>oblige<br>dignity<br>now<br>whale<br>vital<br>green<br>cannon<br>little<br>trouble
+bip_39_word_new_br11: salon<br>oblige<br>dignity<br>now<br>whale<br>vital<br>green<br>cannon<br>little<br>trouble<br>bind
+bip_39_word_new_br12: salon<br>oblige<br>dignity<br>now<br>whale<br>vital<br>green<br>cannon<br>little<br>trouble<br>bind<br>asset
+bip_39_word_new_br2: salon<br>oblige
+bip_39_word_new_br3: salon<br>oblige<br>dignity
+bip_39_word_new_br4: salon<br>oblige<br>dignity<br>now
+bip_39_word_new_br5: salon<br>oblige<br>dignity<br>now<br>whale
+bip_39_word_new_br6: salon<br>oblige<br>dignity<br>now<br>whale<br>vital
+bip_39_word_new_br7: salon<br>oblige<br>dignity<br>now<br>whale<br>vital<br>green
+bip_39_word_new_br8: salon<br>oblige<br>dignity<br>now<br>whale<br>vital<br>green<br>cannon
+bip_39_word_new_br9: salon<br>oblige<br>dignity<br>now<br>whale<br>vital<br>green<br>cannon<br>little
+bip_39_word_new_line1: salon
+bip_39_word_new_line10: 'salon
+
+  oblige
+
+  dignity
+
+  now
+
+  whale
+
+  vital
+
+  green
+
+  cannon
+
+  little
+
+  trouble'
+bip_39_word_new_line11: 'salon
+
+  oblige
+
+  dignity
+
+  now
+
+  whale
+
+  vital
+
+  green
+
+  cannon
+
+  little
+
+  trouble
+
+  bind'
+bip_39_word_new_line12: 'salon
+
+  oblige
+
+  dignity
+
+  now
+
+  whale
+
+  vital
+
+  green
+
+  cannon
+
+  little
+
+  trouble
+
+  bind
+
+  asset'
+bip_39_word_new_line2: 'salon
+
+  oblige'
+bip_39_word_new_line3: 'salon
+
+  oblige
+
+  dignity'
+bip_39_word_new_line4: 'salon
+
+  oblige
+
+  dignity
+
+  now'
+bip_39_word_new_line5: 'salon
+
+  oblige
+
+  dignity
+
+  now
+
+  whale'
+bip_39_word_new_line6: 'salon
+
+  oblige
+
+  dignity
+
+  now
+
+  whale
+
+  vital'
+bip_39_word_new_line7: 'salon
+
+  oblige
+
+  dignity
+
+  now
+
+  whale
+
+  vital
+
+  green'
+bip_39_word_new_line8: 'salon
+
+  oblige
+
+  dignity
+
+  now
+
+  whale
+
+  vital
+
+  green
+
+  cannon'
+bip_39_word_new_line9: 'salon
+
+  oblige
+
+  dignity
+
+  now
+
+  whale
+
+  vital
+
+  green
+
+  cannon
+
+  little'
+bip_39_word_space_0:
+- salon
+- oblige
+- dignity
+- now
+- whale
+- vital
+- green
+- cannon
+- little
+- trouble
+- bind
+- asset
+bip_39_word_space_1: salon
+bip_39_word_space_10: salon oblige dignity now whale vital green cannon little trouble
+bip_39_word_space_11: salon oblige dignity now whale vital green cannon little trouble
+  bind
+bip_39_word_space_12: salon oblige dignity now whale vital green cannon little trouble
+  bind asset
+bip_39_word_space_2: salon oblige
+bip_39_word_space_3: salon oblige dignity
+bip_39_word_space_4: salon oblige dignity now
+bip_39_word_space_5: salon oblige dignity now whale
+bip_39_word_space_6: salon oblige dignity now whale vital
+bip_39_word_space_7: salon oblige dignity now whale vital green
+bip_39_word_space_8: salon oblige dignity now whale vital green cannon
+bip_39_word_space_9: salon oblige dignity now whale vital green cannon little
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

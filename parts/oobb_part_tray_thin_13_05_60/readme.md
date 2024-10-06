@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: select runway
+  * bip 39 word 3: select runway shoulder
+  * bip 39 word: select runway shoulder rally behave alert initial pony twice smart ceiling arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | select |  
+| bip_39_word_new_br10 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert<br>initial<br>pony<br>twice<br>smart |  
+| bip_39_word_new_br11 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert<br>initial<br>pony<br>twice<br>smart<br>ceiling |  
+| bip_39_word_new_br12 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert<br>initial<br>pony<br>twice<br>smart<br>ceiling<br>arrest |  
+| bip_39_word_new_br2 | select<br>runway |  
+| bip_39_word_new_br3 | select<br>runway<br>shoulder |  
+| bip_39_word_new_br4 | select<br>runway<br>shoulder<br>rally |  
+| bip_39_word_new_br5 | select<br>runway<br>shoulder<br>rally<br>behave |  
+| bip_39_word_new_br6 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert |  
+| bip_39_word_new_br7 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert<br>initial |  
+| bip_39_word_new_br8 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert<br>initial<br>pony |  
+| bip_39_word_new_br9 | select<br>runway<br>shoulder<br>rally<br>behave<br>alert<br>initial<br>pony<br>twice |  
+| bip_39_word_new_line1 | select |  
+| bip_39_word_new_line10 | select
+runway
+shoulder
+rally
+behave
+alert
+initial
+pony
+twice
+smart |  
+| bip_39_word_new_line11 | select
+runway
+shoulder
+rally
+behave
+alert
+initial
+pony
+twice
+smart
+ceiling |  
+| bip_39_word_new_line12 | select
+runway
+shoulder
+rally
+behave
+alert
+initial
+pony
+twice
+smart
+ceiling
+arrest |  
+| bip_39_word_new_line2 | select
+runway |  
+| bip_39_word_new_line3 | select
+runway
+shoulder |  
+| bip_39_word_new_line4 | select
+runway
+shoulder
+rally |  
+| bip_39_word_new_line5 | select
+runway
+shoulder
+rally
+behave |  
+| bip_39_word_new_line6 | select
+runway
+shoulder
+rally
+behave
+alert |  
+| bip_39_word_new_line7 | select
+runway
+shoulder
+rally
+behave
+alert
+initial |  
+| bip_39_word_new_line8 | select
+runway
+shoulder
+rally
+behave
+alert
+initial
+pony |  
+| bip_39_word_new_line9 | select
+runway
+shoulder
+rally
+behave
+alert
+initial
+pony
+twice |  
+| bip_39_word_space_0 | ['select', 'runway', 'shoulder', 'rally', 'behave', 'alert', 'initial', 'pony', 'twice', 'smart', 'ceiling', 'arrest'] |  
+| bip_39_word_space_1 | select |  
+| bip_39_word_space_10 | select runway shoulder rally behave alert initial pony twice smart |  
+| bip_39_word_space_11 | select runway shoulder rally behave alert initial pony twice smart ceiling |  
+| bip_39_word_space_12 | select runway shoulder rally behave alert initial pony twice smart ceiling arrest |  
+| bip_39_word_space_2 | select runway |  
+| bip_39_word_space_3 | select runway shoulder |  
+| bip_39_word_space_4 | select runway shoulder rally |  
+| bip_39_word_space_5 | select runway shoulder rally behave |  
+| bip_39_word_space_6 | select runway shoulder rally behave alert |  
+| bip_39_word_space_7 | select runway shoulder rally behave alert initial |  
+| bip_39_word_space_8 | select runway shoulder rally behave alert initial pony |  
+| bip_39_word_space_9 | select runway shoulder rally behave alert initial pony twice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

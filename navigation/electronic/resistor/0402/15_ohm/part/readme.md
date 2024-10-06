@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: debate donkey
+  * bip 39 word 3: debate donkey indoor
+  * bip 39 word: debate donkey indoor connect disease grape sunny february gather farm pilot affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | debate |  
+| bip_39_word_new_br10 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape<br>sunny<br>february<br>gather<br>farm |  
+| bip_39_word_new_br11 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape<br>sunny<br>february<br>gather<br>farm<br>pilot |  
+| bip_39_word_new_br12 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape<br>sunny<br>february<br>gather<br>farm<br>pilot<br>affair |  
+| bip_39_word_new_br2 | debate<br>donkey |  
+| bip_39_word_new_br3 | debate<br>donkey<br>indoor |  
+| bip_39_word_new_br4 | debate<br>donkey<br>indoor<br>connect |  
+| bip_39_word_new_br5 | debate<br>donkey<br>indoor<br>connect<br>disease |  
+| bip_39_word_new_br6 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape |  
+| bip_39_word_new_br7 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape<br>sunny |  
+| bip_39_word_new_br8 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape<br>sunny<br>february |  
+| bip_39_word_new_br9 | debate<br>donkey<br>indoor<br>connect<br>disease<br>grape<br>sunny<br>february<br>gather |  
+| bip_39_word_new_line1 | debate |  
+| bip_39_word_new_line10 | debate
+donkey
+indoor
+connect
+disease
+grape
+sunny
+february
+gather
+farm |  
+| bip_39_word_new_line11 | debate
+donkey
+indoor
+connect
+disease
+grape
+sunny
+february
+gather
+farm
+pilot |  
+| bip_39_word_new_line12 | debate
+donkey
+indoor
+connect
+disease
+grape
+sunny
+february
+gather
+farm
+pilot
+affair |  
+| bip_39_word_new_line2 | debate
+donkey |  
+| bip_39_word_new_line3 | debate
+donkey
+indoor |  
+| bip_39_word_new_line4 | debate
+donkey
+indoor
+connect |  
+| bip_39_word_new_line5 | debate
+donkey
+indoor
+connect
+disease |  
+| bip_39_word_new_line6 | debate
+donkey
+indoor
+connect
+disease
+grape |  
+| bip_39_word_new_line7 | debate
+donkey
+indoor
+connect
+disease
+grape
+sunny |  
+| bip_39_word_new_line8 | debate
+donkey
+indoor
+connect
+disease
+grape
+sunny
+february |  
+| bip_39_word_new_line9 | debate
+donkey
+indoor
+connect
+disease
+grape
+sunny
+february
+gather |  
+| bip_39_word_space_0 | ['debate', 'donkey', 'indoor', 'connect', 'disease', 'grape', 'sunny', 'february', 'gather', 'farm', 'pilot', 'affair'] |  
+| bip_39_word_space_1 | debate |  
+| bip_39_word_space_10 | debate donkey indoor connect disease grape sunny february gather farm |  
+| bip_39_word_space_11 | debate donkey indoor connect disease grape sunny february gather farm pilot |  
+| bip_39_word_space_12 | debate donkey indoor connect disease grape sunny february gather farm pilot affair |  
+| bip_39_word_space_2 | debate donkey |  
+| bip_39_word_space_3 | debate donkey indoor |  
+| bip_39_word_space_4 | debate donkey indoor connect |  
+| bip_39_word_space_5 | debate donkey indoor connect disease |  
+| bip_39_word_space_6 | debate donkey indoor connect disease grape |  
+| bip_39_word_space_7 | debate donkey indoor connect disease grape sunny |  
+| bip_39_word_space_8 | debate donkey indoor connect disease grape sunny february |  
+| bip_39_word_space_9 | debate donkey indoor connect disease grape sunny february gather |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

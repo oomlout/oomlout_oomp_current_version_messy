@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: online rather
+  * bip 39 word 3: online rather shell
+  * bip 39 word: online rather shell clown carbon bubble stool praise inject mouse glad asthma
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | online |  
+| bip_39_word_new_br10 | online<br>rather<br>shell<br>clown<br>carbon<br>bubble<br>stool<br>praise<br>inject<br>mouse |  
+| bip_39_word_new_br11 | online<br>rather<br>shell<br>clown<br>carbon<br>bubble<br>stool<br>praise<br>inject<br>mouse<br>glad |  
+| bip_39_word_new_br12 | online<br>rather<br>shell<br>clown<br>carbon<br>bubble<br>stool<br>praise<br>inject<br>mouse<br>glad<br>asthma |  
+| bip_39_word_new_br2 | online<br>rather |  
+| bip_39_word_new_br3 | online<br>rather<br>shell |  
+| bip_39_word_new_br4 | online<br>rather<br>shell<br>clown |  
+| bip_39_word_new_br5 | online<br>rather<br>shell<br>clown<br>carbon |  
+| bip_39_word_new_br6 | online<br>rather<br>shell<br>clown<br>carbon<br>bubble |  
+| bip_39_word_new_br7 | online<br>rather<br>shell<br>clown<br>carbon<br>bubble<br>stool |  
+| bip_39_word_new_br8 | online<br>rather<br>shell<br>clown<br>carbon<br>bubble<br>stool<br>praise |  
+| bip_39_word_new_br9 | online<br>rather<br>shell<br>clown<br>carbon<br>bubble<br>stool<br>praise<br>inject |  
+| bip_39_word_new_line1 | online |  
+| bip_39_word_new_line10 | online
+rather
+shell
+clown
+carbon
+bubble
+stool
+praise
+inject
+mouse |  
+| bip_39_word_new_line11 | online
+rather
+shell
+clown
+carbon
+bubble
+stool
+praise
+inject
+mouse
+glad |  
+| bip_39_word_new_line12 | online
+rather
+shell
+clown
+carbon
+bubble
+stool
+praise
+inject
+mouse
+glad
+asthma |  
+| bip_39_word_new_line2 | online
+rather |  
+| bip_39_word_new_line3 | online
+rather
+shell |  
+| bip_39_word_new_line4 | online
+rather
+shell
+clown |  
+| bip_39_word_new_line5 | online
+rather
+shell
+clown
+carbon |  
+| bip_39_word_new_line6 | online
+rather
+shell
+clown
+carbon
+bubble |  
+| bip_39_word_new_line7 | online
+rather
+shell
+clown
+carbon
+bubble
+stool |  
+| bip_39_word_new_line8 | online
+rather
+shell
+clown
+carbon
+bubble
+stool
+praise |  
+| bip_39_word_new_line9 | online
+rather
+shell
+clown
+carbon
+bubble
+stool
+praise
+inject |  
+| bip_39_word_space_0 | ['online', 'rather', 'shell', 'clown', 'carbon', 'bubble', 'stool', 'praise', 'inject', 'mouse', 'glad', 'asthma'] |  
+| bip_39_word_space_1 | online |  
+| bip_39_word_space_10 | online rather shell clown carbon bubble stool praise inject mouse |  
+| bip_39_word_space_11 | online rather shell clown carbon bubble stool praise inject mouse glad |  
+| bip_39_word_space_12 | online rather shell clown carbon bubble stool praise inject mouse glad asthma |  
+| bip_39_word_space_2 | online rather |  
+| bip_39_word_space_3 | online rather shell |  
+| bip_39_word_space_4 | online rather shell clown |  
+| bip_39_word_space_5 | online rather shell clown carbon |  
+| bip_39_word_space_6 | online rather shell clown carbon bubble |  
+| bip_39_word_space_7 | online rather shell clown carbon bubble stool |  
+| bip_39_word_space_8 | online rather shell clown carbon bubble stool praise |  
+| bip_39_word_space_9 | online rather shell clown carbon bubble stool praise inject |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

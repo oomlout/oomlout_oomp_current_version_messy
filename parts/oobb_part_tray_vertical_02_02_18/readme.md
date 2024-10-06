@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: destroy wash
+  * bip 39 word 3: destroy wash stove
+  * bip 39 word: destroy wash stove almost cupboard solution sudden used special bean song action
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | destroy |  
+| bip_39_word_new_br10 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution<br>sudden<br>used<br>special<br>bean |  
+| bip_39_word_new_br11 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution<br>sudden<br>used<br>special<br>bean<br>song |  
+| bip_39_word_new_br12 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution<br>sudden<br>used<br>special<br>bean<br>song<br>action |  
+| bip_39_word_new_br2 | destroy<br>wash |  
+| bip_39_word_new_br3 | destroy<br>wash<br>stove |  
+| bip_39_word_new_br4 | destroy<br>wash<br>stove<br>almost |  
+| bip_39_word_new_br5 | destroy<br>wash<br>stove<br>almost<br>cupboard |  
+| bip_39_word_new_br6 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution |  
+| bip_39_word_new_br7 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution<br>sudden |  
+| bip_39_word_new_br8 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution<br>sudden<br>used |  
+| bip_39_word_new_br9 | destroy<br>wash<br>stove<br>almost<br>cupboard<br>solution<br>sudden<br>used<br>special |  
+| bip_39_word_new_line1 | destroy |  
+| bip_39_word_new_line10 | destroy
+wash
+stove
+almost
+cupboard
+solution
+sudden
+used
+special
+bean |  
+| bip_39_word_new_line11 | destroy
+wash
+stove
+almost
+cupboard
+solution
+sudden
+used
+special
+bean
+song |  
+| bip_39_word_new_line12 | destroy
+wash
+stove
+almost
+cupboard
+solution
+sudden
+used
+special
+bean
+song
+action |  
+| bip_39_word_new_line2 | destroy
+wash |  
+| bip_39_word_new_line3 | destroy
+wash
+stove |  
+| bip_39_word_new_line4 | destroy
+wash
+stove
+almost |  
+| bip_39_word_new_line5 | destroy
+wash
+stove
+almost
+cupboard |  
+| bip_39_word_new_line6 | destroy
+wash
+stove
+almost
+cupboard
+solution |  
+| bip_39_word_new_line7 | destroy
+wash
+stove
+almost
+cupboard
+solution
+sudden |  
+| bip_39_word_new_line8 | destroy
+wash
+stove
+almost
+cupboard
+solution
+sudden
+used |  
+| bip_39_word_new_line9 | destroy
+wash
+stove
+almost
+cupboard
+solution
+sudden
+used
+special |  
+| bip_39_word_space_0 | ['destroy', 'wash', 'stove', 'almost', 'cupboard', 'solution', 'sudden', 'used', 'special', 'bean', 'song', 'action'] |  
+| bip_39_word_space_1 | destroy |  
+| bip_39_word_space_10 | destroy wash stove almost cupboard solution sudden used special bean |  
+| bip_39_word_space_11 | destroy wash stove almost cupboard solution sudden used special bean song |  
+| bip_39_word_space_12 | destroy wash stove almost cupboard solution sudden used special bean song action |  
+| bip_39_word_space_2 | destroy wash |  
+| bip_39_word_space_3 | destroy wash stove |  
+| bip_39_word_space_4 | destroy wash stove almost |  
+| bip_39_word_space_5 | destroy wash stove almost cupboard |  
+| bip_39_word_space_6 | destroy wash stove almost cupboard solution |  
+| bip_39_word_space_7 | destroy wash stove almost cupboard solution sudden |  
+| bip_39_word_space_8 | destroy wash stove almost cupboard solution sudden used |  
+| bip_39_word_space_9 | destroy wash stove almost cupboard solution sudden used special |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

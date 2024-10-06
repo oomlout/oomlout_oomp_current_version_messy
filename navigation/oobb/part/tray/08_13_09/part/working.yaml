@@ -1,3 +1,186 @@
+bip_39_word_new_br1: invest
+bip_39_word_new_br10: invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout
+bip_39_word_new_br11: invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout<br>solution
+bip_39_word_new_br12: invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip<br>scout<br>solution<br>above
+bip_39_word_new_br2: invest<br>tennis
+bip_39_word_new_br3: invest<br>tennis<br>amazing
+bip_39_word_new_br4: invest<br>tennis<br>amazing<br>fever
+bip_39_word_new_br5: invest<br>tennis<br>amazing<br>fever<br>economy
+bip_39_word_new_br6: invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom
+bip_39_word_new_br7: invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava
+bip_39_word_new_br8: invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi
+bip_39_word_new_br9: invest<br>tennis<br>amazing<br>fever<br>economy<br>gloom<br>lava<br>taxi<br>flip
+bip_39_word_new_line1: invest
+bip_39_word_new_line10: 'invest
+
+  tennis
+
+  amazing
+
+  fever
+
+  economy
+
+  gloom
+
+  lava
+
+  taxi
+
+  flip
+
+  scout'
+bip_39_word_new_line11: 'invest
+
+  tennis
+
+  amazing
+
+  fever
+
+  economy
+
+  gloom
+
+  lava
+
+  taxi
+
+  flip
+
+  scout
+
+  solution'
+bip_39_word_new_line12: 'invest
+
+  tennis
+
+  amazing
+
+  fever
+
+  economy
+
+  gloom
+
+  lava
+
+  taxi
+
+  flip
+
+  scout
+
+  solution
+
+  above'
+bip_39_word_new_line2: 'invest
+
+  tennis'
+bip_39_word_new_line3: 'invest
+
+  tennis
+
+  amazing'
+bip_39_word_new_line4: 'invest
+
+  tennis
+
+  amazing
+
+  fever'
+bip_39_word_new_line5: 'invest
+
+  tennis
+
+  amazing
+
+  fever
+
+  economy'
+bip_39_word_new_line6: 'invest
+
+  tennis
+
+  amazing
+
+  fever
+
+  economy
+
+  gloom'
+bip_39_word_new_line7: 'invest
+
+  tennis
+
+  amazing
+
+  fever
+
+  economy
+
+  gloom
+
+  lava'
+bip_39_word_new_line8: 'invest
+
+  tennis
+
+  amazing
+
+  fever
+
+  economy
+
+  gloom
+
+  lava
+
+  taxi'
+bip_39_word_new_line9: 'invest
+
+  tennis
+
+  amazing
+
+  fever
+
+  economy
+
+  gloom
+
+  lava
+
+  taxi
+
+  flip'
+bip_39_word_space_0:
+- invest
+- tennis
+- amazing
+- fever
+- economy
+- gloom
+- lava
+- taxi
+- flip
+- scout
+- solution
+- above
+bip_39_word_space_1: invest
+bip_39_word_space_10: invest tennis amazing fever economy gloom lava taxi flip scout
+bip_39_word_space_11: invest tennis amazing fever economy gloom lava taxi flip scout
+  solution
+bip_39_word_space_12: invest tennis amazing fever economy gloom lava taxi flip scout
+  solution above
+bip_39_word_space_2: invest tennis
+bip_39_word_space_3: invest tennis amazing
+bip_39_word_space_4: invest tennis amazing fever
+bip_39_word_space_5: invest tennis amazing fever economy
+bip_39_word_space_6: invest tennis amazing fever economy gloom
+bip_39_word_space_7: invest tennis amazing fever economy gloom lava
+bip_39_word_space_8: invest tennis amazing fever economy gloom lava taxi
+bip_39_word_space_9: invest tennis amazing fever economy gloom lava taxi flip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

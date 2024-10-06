@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: notice glad
+  * bip 39 word 3: notice glad list
+  * bip 39 word: notice glad list demise glow dial void basket shallow later awful agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | notice |  
+| bip_39_word_new_br10 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later |  
+| bip_39_word_new_br11 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful |  
+| bip_39_word_new_br12 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful<br>agent |  
+| bip_39_word_new_br2 | notice<br>glad |  
+| bip_39_word_new_br3 | notice<br>glad<br>list |  
+| bip_39_word_new_br4 | notice<br>glad<br>list<br>demise |  
+| bip_39_word_new_br5 | notice<br>glad<br>list<br>demise<br>glow |  
+| bip_39_word_new_br6 | notice<br>glad<br>list<br>demise<br>glow<br>dial |  
+| bip_39_word_new_br7 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void |  
+| bip_39_word_new_br8 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket |  
+| bip_39_word_new_br9 | notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow |  
+| bip_39_word_new_line1 | notice |  
+| bip_39_word_new_line10 | notice
+glad
+list
+demise
+glow
+dial
+void
+basket
+shallow
+later |  
+| bip_39_word_new_line11 | notice
+glad
+list
+demise
+glow
+dial
+void
+basket
+shallow
+later
+awful |  
+| bip_39_word_new_line12 | notice
+glad
+list
+demise
+glow
+dial
+void
+basket
+shallow
+later
+awful
+agent |  
+| bip_39_word_new_line2 | notice
+glad |  
+| bip_39_word_new_line3 | notice
+glad
+list |  
+| bip_39_word_new_line4 | notice
+glad
+list
+demise |  
+| bip_39_word_new_line5 | notice
+glad
+list
+demise
+glow |  
+| bip_39_word_new_line6 | notice
+glad
+list
+demise
+glow
+dial |  
+| bip_39_word_new_line7 | notice
+glad
+list
+demise
+glow
+dial
+void |  
+| bip_39_word_new_line8 | notice
+glad
+list
+demise
+glow
+dial
+void
+basket |  
+| bip_39_word_new_line9 | notice
+glad
+list
+demise
+glow
+dial
+void
+basket
+shallow |  
+| bip_39_word_space_0 | ['notice', 'glad', 'list', 'demise', 'glow', 'dial', 'void', 'basket', 'shallow', 'later', 'awful', 'agent'] |  
+| bip_39_word_space_1 | notice |  
+| bip_39_word_space_10 | notice glad list demise glow dial void basket shallow later |  
+| bip_39_word_space_11 | notice glad list demise glow dial void basket shallow later awful |  
+| bip_39_word_space_12 | notice glad list demise glow dial void basket shallow later awful agent |  
+| bip_39_word_space_2 | notice glad |  
+| bip_39_word_space_3 | notice glad list |  
+| bip_39_word_space_4 | notice glad list demise |  
+| bip_39_word_space_5 | notice glad list demise glow |  
+| bip_39_word_space_6 | notice glad list demise glow dial |  
+| bip_39_word_space_7 | notice glad list demise glow dial void |  
+| bip_39_word_space_8 | notice glad list demise glow dial void basket |  
+| bip_39_word_space_9 | notice glad list demise glow dial void basket shallow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

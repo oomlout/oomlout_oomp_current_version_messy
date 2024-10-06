@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: net dirt
+  * bip 39 word 3: net dirt smooth
+  * bip 39 word: net dirt smooth exact little speed sister glove profit spread income acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | net |  
+| bip_39_word_new_br10 | net<br>dirt<br>smooth<br>exact<br>little<br>speed<br>sister<br>glove<br>profit<br>spread |  
+| bip_39_word_new_br11 | net<br>dirt<br>smooth<br>exact<br>little<br>speed<br>sister<br>glove<br>profit<br>spread<br>income |  
+| bip_39_word_new_br12 | net<br>dirt<br>smooth<br>exact<br>little<br>speed<br>sister<br>glove<br>profit<br>spread<br>income<br>acquire |  
+| bip_39_word_new_br2 | net<br>dirt |  
+| bip_39_word_new_br3 | net<br>dirt<br>smooth |  
+| bip_39_word_new_br4 | net<br>dirt<br>smooth<br>exact |  
+| bip_39_word_new_br5 | net<br>dirt<br>smooth<br>exact<br>little |  
+| bip_39_word_new_br6 | net<br>dirt<br>smooth<br>exact<br>little<br>speed |  
+| bip_39_word_new_br7 | net<br>dirt<br>smooth<br>exact<br>little<br>speed<br>sister |  
+| bip_39_word_new_br8 | net<br>dirt<br>smooth<br>exact<br>little<br>speed<br>sister<br>glove |  
+| bip_39_word_new_br9 | net<br>dirt<br>smooth<br>exact<br>little<br>speed<br>sister<br>glove<br>profit |  
+| bip_39_word_new_line1 | net |  
+| bip_39_word_new_line10 | net
+dirt
+smooth
+exact
+little
+speed
+sister
+glove
+profit
+spread |  
+| bip_39_word_new_line11 | net
+dirt
+smooth
+exact
+little
+speed
+sister
+glove
+profit
+spread
+income |  
+| bip_39_word_new_line12 | net
+dirt
+smooth
+exact
+little
+speed
+sister
+glove
+profit
+spread
+income
+acquire |  
+| bip_39_word_new_line2 | net
+dirt |  
+| bip_39_word_new_line3 | net
+dirt
+smooth |  
+| bip_39_word_new_line4 | net
+dirt
+smooth
+exact |  
+| bip_39_word_new_line5 | net
+dirt
+smooth
+exact
+little |  
+| bip_39_word_new_line6 | net
+dirt
+smooth
+exact
+little
+speed |  
+| bip_39_word_new_line7 | net
+dirt
+smooth
+exact
+little
+speed
+sister |  
+| bip_39_word_new_line8 | net
+dirt
+smooth
+exact
+little
+speed
+sister
+glove |  
+| bip_39_word_new_line9 | net
+dirt
+smooth
+exact
+little
+speed
+sister
+glove
+profit |  
+| bip_39_word_space_0 | ['net', 'dirt', 'smooth', 'exact', 'little', 'speed', 'sister', 'glove', 'profit', 'spread', 'income', 'acquire'] |  
+| bip_39_word_space_1 | net |  
+| bip_39_word_space_10 | net dirt smooth exact little speed sister glove profit spread |  
+| bip_39_word_space_11 | net dirt smooth exact little speed sister glove profit spread income |  
+| bip_39_word_space_12 | net dirt smooth exact little speed sister glove profit spread income acquire |  
+| bip_39_word_space_2 | net dirt |  
+| bip_39_word_space_3 | net dirt smooth |  
+| bip_39_word_space_4 | net dirt smooth exact |  
+| bip_39_word_space_5 | net dirt smooth exact little |  
+| bip_39_word_space_6 | net dirt smooth exact little speed |  
+| bip_39_word_space_7 | net dirt smooth exact little speed sister |  
+| bip_39_word_space_8 | net dirt smooth exact little speed sister glove |  
+| bip_39_word_space_9 | net dirt smooth exact little speed sister glove profit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

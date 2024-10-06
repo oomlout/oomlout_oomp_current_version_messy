@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stadium all
+  * bip 39 word 3: stadium all cancel
+  * bip 39 word: stadium all cancel type punch seat drop crush spawn fetch pole any
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stadium |  
+| bip_39_word_new_br10 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch |  
+| bip_39_word_new_br11 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch<br>pole |  
+| bip_39_word_new_br12 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn<br>fetch<br>pole<br>any |  
+| bip_39_word_new_br2 | stadium<br>all |  
+| bip_39_word_new_br3 | stadium<br>all<br>cancel |  
+| bip_39_word_new_br4 | stadium<br>all<br>cancel<br>type |  
+| bip_39_word_new_br5 | stadium<br>all<br>cancel<br>type<br>punch |  
+| bip_39_word_new_br6 | stadium<br>all<br>cancel<br>type<br>punch<br>seat |  
+| bip_39_word_new_br7 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop |  
+| bip_39_word_new_br8 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush |  
+| bip_39_word_new_br9 | stadium<br>all<br>cancel<br>type<br>punch<br>seat<br>drop<br>crush<br>spawn |  
+| bip_39_word_new_line1 | stadium |  
+| bip_39_word_new_line10 | stadium
+all
+cancel
+type
+punch
+seat
+drop
+crush
+spawn
+fetch |  
+| bip_39_word_new_line11 | stadium
+all
+cancel
+type
+punch
+seat
+drop
+crush
+spawn
+fetch
+pole |  
+| bip_39_word_new_line12 | stadium
+all
+cancel
+type
+punch
+seat
+drop
+crush
+spawn
+fetch
+pole
+any |  
+| bip_39_word_new_line2 | stadium
+all |  
+| bip_39_word_new_line3 | stadium
+all
+cancel |  
+| bip_39_word_new_line4 | stadium
+all
+cancel
+type |  
+| bip_39_word_new_line5 | stadium
+all
+cancel
+type
+punch |  
+| bip_39_word_new_line6 | stadium
+all
+cancel
+type
+punch
+seat |  
+| bip_39_word_new_line7 | stadium
+all
+cancel
+type
+punch
+seat
+drop |  
+| bip_39_word_new_line8 | stadium
+all
+cancel
+type
+punch
+seat
+drop
+crush |  
+| bip_39_word_new_line9 | stadium
+all
+cancel
+type
+punch
+seat
+drop
+crush
+spawn |  
+| bip_39_word_space_0 | ['stadium', 'all', 'cancel', 'type', 'punch', 'seat', 'drop', 'crush', 'spawn', 'fetch', 'pole', 'any'] |  
+| bip_39_word_space_1 | stadium |  
+| bip_39_word_space_10 | stadium all cancel type punch seat drop crush spawn fetch |  
+| bip_39_word_space_11 | stadium all cancel type punch seat drop crush spawn fetch pole |  
+| bip_39_word_space_12 | stadium all cancel type punch seat drop crush spawn fetch pole any |  
+| bip_39_word_space_2 | stadium all |  
+| bip_39_word_space_3 | stadium all cancel |  
+| bip_39_word_space_4 | stadium all cancel type |  
+| bip_39_word_space_5 | stadium all cancel type punch |  
+| bip_39_word_space_6 | stadium all cancel type punch seat |  
+| bip_39_word_space_7 | stadium all cancel type punch seat drop |  
+| bip_39_word_space_8 | stadium all cancel type punch seat drop crush |  
+| bip_39_word_space_9 | stadium all cancel type punch seat drop crush spawn |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

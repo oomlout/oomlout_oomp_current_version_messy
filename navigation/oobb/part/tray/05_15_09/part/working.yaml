@@ -1,3 +1,186 @@
+bip_39_word_new_br1: lake
+bip_39_word_new_br10: lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel
+bip_39_word_new_br11: lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel<br>earth
+bip_39_word_new_br12: lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack<br>cancel<br>earth<br>animal
+bip_39_word_new_br2: lake<br>butter
+bip_39_word_new_br3: lake<br>butter<br>hotel
+bip_39_word_new_br4: lake<br>butter<br>hotel<br>broken
+bip_39_word_new_br5: lake<br>butter<br>hotel<br>broken<br>talent
+bip_39_word_new_br6: lake<br>butter<br>hotel<br>broken<br>talent<br>easy
+bip_39_word_new_br7: lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample
+bip_39_word_new_br8: lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer
+bip_39_word_new_br9: lake<br>butter<br>hotel<br>broken<br>talent<br>easy<br>sample<br>buyer<br>snack
+bip_39_word_new_line1: lake
+bip_39_word_new_line10: 'lake
+
+  butter
+
+  hotel
+
+  broken
+
+  talent
+
+  easy
+
+  sample
+
+  buyer
+
+  snack
+
+  cancel'
+bip_39_word_new_line11: 'lake
+
+  butter
+
+  hotel
+
+  broken
+
+  talent
+
+  easy
+
+  sample
+
+  buyer
+
+  snack
+
+  cancel
+
+  earth'
+bip_39_word_new_line12: 'lake
+
+  butter
+
+  hotel
+
+  broken
+
+  talent
+
+  easy
+
+  sample
+
+  buyer
+
+  snack
+
+  cancel
+
+  earth
+
+  animal'
+bip_39_word_new_line2: 'lake
+
+  butter'
+bip_39_word_new_line3: 'lake
+
+  butter
+
+  hotel'
+bip_39_word_new_line4: 'lake
+
+  butter
+
+  hotel
+
+  broken'
+bip_39_word_new_line5: 'lake
+
+  butter
+
+  hotel
+
+  broken
+
+  talent'
+bip_39_word_new_line6: 'lake
+
+  butter
+
+  hotel
+
+  broken
+
+  talent
+
+  easy'
+bip_39_word_new_line7: 'lake
+
+  butter
+
+  hotel
+
+  broken
+
+  talent
+
+  easy
+
+  sample'
+bip_39_word_new_line8: 'lake
+
+  butter
+
+  hotel
+
+  broken
+
+  talent
+
+  easy
+
+  sample
+
+  buyer'
+bip_39_word_new_line9: 'lake
+
+  butter
+
+  hotel
+
+  broken
+
+  talent
+
+  easy
+
+  sample
+
+  buyer
+
+  snack'
+bip_39_word_space_0:
+- lake
+- butter
+- hotel
+- broken
+- talent
+- easy
+- sample
+- buyer
+- snack
+- cancel
+- earth
+- animal
+bip_39_word_space_1: lake
+bip_39_word_space_10: lake butter hotel broken talent easy sample buyer snack cancel
+bip_39_word_space_11: lake butter hotel broken talent easy sample buyer snack cancel
+  earth
+bip_39_word_space_12: lake butter hotel broken talent easy sample buyer snack cancel
+  earth animal
+bip_39_word_space_2: lake butter
+bip_39_word_space_3: lake butter hotel
+bip_39_word_space_4: lake butter hotel broken
+bip_39_word_space_5: lake butter hotel broken talent
+bip_39_word_space_6: lake butter hotel broken talent easy
+bip_39_word_space_7: lake butter hotel broken talent easy sample
+bip_39_word_space_8: lake butter hotel broken talent easy sample buyer
+bip_39_word_space_9: lake butter hotel broken talent easy sample buyer snack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

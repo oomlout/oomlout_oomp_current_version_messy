@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rough evidence
+  * bip 39 word 3: rough evidence coach
+  * bip 39 word: rough evidence coach ski forget unique glad merry erode lady cave afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rough |  
+| bip_39_word_new_br10 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique<br>glad<br>merry<br>erode<br>lady |  
+| bip_39_word_new_br11 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique<br>glad<br>merry<br>erode<br>lady<br>cave |  
+| bip_39_word_new_br12 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique<br>glad<br>merry<br>erode<br>lady<br>cave<br>afford |  
+| bip_39_word_new_br2 | rough<br>evidence |  
+| bip_39_word_new_br3 | rough<br>evidence<br>coach |  
+| bip_39_word_new_br4 | rough<br>evidence<br>coach<br>ski |  
+| bip_39_word_new_br5 | rough<br>evidence<br>coach<br>ski<br>forget |  
+| bip_39_word_new_br6 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique |  
+| bip_39_word_new_br7 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique<br>glad |  
+| bip_39_word_new_br8 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique<br>glad<br>merry |  
+| bip_39_word_new_br9 | rough<br>evidence<br>coach<br>ski<br>forget<br>unique<br>glad<br>merry<br>erode |  
+| bip_39_word_new_line1 | rough |  
+| bip_39_word_new_line10 | rough
+evidence
+coach
+ski
+forget
+unique
+glad
+merry
+erode
+lady |  
+| bip_39_word_new_line11 | rough
+evidence
+coach
+ski
+forget
+unique
+glad
+merry
+erode
+lady
+cave |  
+| bip_39_word_new_line12 | rough
+evidence
+coach
+ski
+forget
+unique
+glad
+merry
+erode
+lady
+cave
+afford |  
+| bip_39_word_new_line2 | rough
+evidence |  
+| bip_39_word_new_line3 | rough
+evidence
+coach |  
+| bip_39_word_new_line4 | rough
+evidence
+coach
+ski |  
+| bip_39_word_new_line5 | rough
+evidence
+coach
+ski
+forget |  
+| bip_39_word_new_line6 | rough
+evidence
+coach
+ski
+forget
+unique |  
+| bip_39_word_new_line7 | rough
+evidence
+coach
+ski
+forget
+unique
+glad |  
+| bip_39_word_new_line8 | rough
+evidence
+coach
+ski
+forget
+unique
+glad
+merry |  
+| bip_39_word_new_line9 | rough
+evidence
+coach
+ski
+forget
+unique
+glad
+merry
+erode |  
+| bip_39_word_space_0 | ['rough', 'evidence', 'coach', 'ski', 'forget', 'unique', 'glad', 'merry', 'erode', 'lady', 'cave', 'afford'] |  
+| bip_39_word_space_1 | rough |  
+| bip_39_word_space_10 | rough evidence coach ski forget unique glad merry erode lady |  
+| bip_39_word_space_11 | rough evidence coach ski forget unique glad merry erode lady cave |  
+| bip_39_word_space_12 | rough evidence coach ski forget unique glad merry erode lady cave afford |  
+| bip_39_word_space_2 | rough evidence |  
+| bip_39_word_space_3 | rough evidence coach |  
+| bip_39_word_space_4 | rough evidence coach ski |  
+| bip_39_word_space_5 | rough evidence coach ski forget |  
+| bip_39_word_space_6 | rough evidence coach ski forget unique |  
+| bip_39_word_space_7 | rough evidence coach ski forget unique glad |  
+| bip_39_word_space_8 | rough evidence coach ski forget unique glad merry |  
+| bip_39_word_space_9 | rough evidence coach ski forget unique glad merry erode |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

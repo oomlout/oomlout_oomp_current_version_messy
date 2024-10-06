@@ -1,3 +1,187 @@
+bip_39_word_new_br1: opinion
+bip_39_word_new_br10: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret<br>noble
+bip_39_word_new_br11: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret<br>noble<br>limb
+bip_39_word_new_br12: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret<br>noble<br>limb<br>amazing
+bip_39_word_new_br2: opinion<br>where
+bip_39_word_new_br3: opinion<br>where<br>buddy
+bip_39_word_new_br4: opinion<br>where<br>buddy<br>course
+bip_39_word_new_br5: opinion<br>where<br>buddy<br>course<br>tragic
+bip_39_word_new_br6: opinion<br>where<br>buddy<br>course<br>tragic<br>venue
+bip_39_word_new_br7: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire
+bip_39_word_new_br8: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger
+bip_39_word_new_br9: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret
+bip_39_word_new_line1: opinion
+bip_39_word_new_line10: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger
+
+  secret
+
+  noble'
+bip_39_word_new_line11: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger
+
+  secret
+
+  noble
+
+  limb'
+bip_39_word_new_line12: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger
+
+  secret
+
+  noble
+
+  limb
+
+  amazing'
+bip_39_word_new_line2: 'opinion
+
+  where'
+bip_39_word_new_line3: 'opinion
+
+  where
+
+  buddy'
+bip_39_word_new_line4: 'opinion
+
+  where
+
+  buddy
+
+  course'
+bip_39_word_new_line5: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic'
+bip_39_word_new_line6: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue'
+bip_39_word_new_line7: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire'
+bip_39_word_new_line8: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger'
+bip_39_word_new_line9: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger
+
+  secret'
+bip_39_word_space_0:
+- opinion
+- where
+- buddy
+- course
+- tragic
+- venue
+- retire
+- trigger
+- secret
+- noble
+- limb
+- amazing
+bip_39_word_space_1: opinion
+bip_39_word_space_10: opinion where buddy course tragic venue retire trigger secret
+  noble
+bip_39_word_space_11: opinion where buddy course tragic venue retire trigger secret
+  noble limb
+bip_39_word_space_12: opinion where buddy course tragic venue retire trigger secret
+  noble limb amazing
+bip_39_word_space_2: opinion where
+bip_39_word_space_3: opinion where buddy
+bip_39_word_space_4: opinion where buddy course
+bip_39_word_space_5: opinion where buddy course tragic
+bip_39_word_space_6: opinion where buddy course tragic venue
+bip_39_word_space_7: opinion where buddy course tragic venue retire
+bip_39_word_space_8: opinion where buddy course tragic venue retire trigger
+bip_39_word_space_9: opinion where buddy course tragic venue retire trigger secret
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

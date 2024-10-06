@@ -1,3 +1,186 @@
+bip_39_word_new_br1: reflect
+bip_39_word_new_br10: reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient
+bip_39_word_new_br11: reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient<br>idea
+bip_39_word_new_br12: reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet<br>patient<br>idea<br>across
+bip_39_word_new_br2: reflect<br>large
+bip_39_word_new_br3: reflect<br>large<br>neck
+bip_39_word_new_br4: reflect<br>large<br>neck<br>normal
+bip_39_word_new_br5: reflect<br>large<br>neck<br>normal<br>purity
+bip_39_word_new_br6: reflect<br>large<br>neck<br>normal<br>purity<br>rate
+bip_39_word_new_br7: reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew
+bip_39_word_new_br8: reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy
+bip_39_word_new_br9: reflect<br>large<br>neck<br>normal<br>purity<br>rate<br>nephew<br>copy<br>magnet
+bip_39_word_new_line1: reflect
+bip_39_word_new_line10: 'reflect
+
+  large
+
+  neck
+
+  normal
+
+  purity
+
+  rate
+
+  nephew
+
+  copy
+
+  magnet
+
+  patient'
+bip_39_word_new_line11: 'reflect
+
+  large
+
+  neck
+
+  normal
+
+  purity
+
+  rate
+
+  nephew
+
+  copy
+
+  magnet
+
+  patient
+
+  idea'
+bip_39_word_new_line12: 'reflect
+
+  large
+
+  neck
+
+  normal
+
+  purity
+
+  rate
+
+  nephew
+
+  copy
+
+  magnet
+
+  patient
+
+  idea
+
+  across'
+bip_39_word_new_line2: 'reflect
+
+  large'
+bip_39_word_new_line3: 'reflect
+
+  large
+
+  neck'
+bip_39_word_new_line4: 'reflect
+
+  large
+
+  neck
+
+  normal'
+bip_39_word_new_line5: 'reflect
+
+  large
+
+  neck
+
+  normal
+
+  purity'
+bip_39_word_new_line6: 'reflect
+
+  large
+
+  neck
+
+  normal
+
+  purity
+
+  rate'
+bip_39_word_new_line7: 'reflect
+
+  large
+
+  neck
+
+  normal
+
+  purity
+
+  rate
+
+  nephew'
+bip_39_word_new_line8: 'reflect
+
+  large
+
+  neck
+
+  normal
+
+  purity
+
+  rate
+
+  nephew
+
+  copy'
+bip_39_word_new_line9: 'reflect
+
+  large
+
+  neck
+
+  normal
+
+  purity
+
+  rate
+
+  nephew
+
+  copy
+
+  magnet'
+bip_39_word_space_0:
+- reflect
+- large
+- neck
+- normal
+- purity
+- rate
+- nephew
+- copy
+- magnet
+- patient
+- idea
+- across
+bip_39_word_space_1: reflect
+bip_39_word_space_10: reflect large neck normal purity rate nephew copy magnet patient
+bip_39_word_space_11: reflect large neck normal purity rate nephew copy magnet patient
+  idea
+bip_39_word_space_12: reflect large neck normal purity rate nephew copy magnet patient
+  idea across
+bip_39_word_space_2: reflect large
+bip_39_word_space_3: reflect large neck
+bip_39_word_space_4: reflect large neck normal
+bip_39_word_space_5: reflect large neck normal purity
+bip_39_word_space_6: reflect large neck normal purity rate
+bip_39_word_space_7: reflect large neck normal purity rate nephew
+bip_39_word_space_8: reflect large neck normal purity rate nephew copy
+bip_39_word_space_9: reflect large neck normal purity rate nephew copy magnet
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

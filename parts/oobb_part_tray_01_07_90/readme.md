@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pyramid horse
+  * bip 39 word 3: pyramid horse amazing
+  * bip 39 word: pyramid horse amazing mask inject mirror paddle safe just cube over across
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pyramid |  
+| bip_39_word_new_br10 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just<br>cube |  
+| bip_39_word_new_br11 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just<br>cube<br>over |  
+| bip_39_word_new_br12 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just<br>cube<br>over<br>across |  
+| bip_39_word_new_br2 | pyramid<br>horse |  
+| bip_39_word_new_br3 | pyramid<br>horse<br>amazing |  
+| bip_39_word_new_br4 | pyramid<br>horse<br>amazing<br>mask |  
+| bip_39_word_new_br5 | pyramid<br>horse<br>amazing<br>mask<br>inject |  
+| bip_39_word_new_br6 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror |  
+| bip_39_word_new_br7 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle |  
+| bip_39_word_new_br8 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe |  
+| bip_39_word_new_br9 | pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just |  
+| bip_39_word_new_line1 | pyramid |  
+| bip_39_word_new_line10 | pyramid
+horse
+amazing
+mask
+inject
+mirror
+paddle
+safe
+just
+cube |  
+| bip_39_word_new_line11 | pyramid
+horse
+amazing
+mask
+inject
+mirror
+paddle
+safe
+just
+cube
+over |  
+| bip_39_word_new_line12 | pyramid
+horse
+amazing
+mask
+inject
+mirror
+paddle
+safe
+just
+cube
+over
+across |  
+| bip_39_word_new_line2 | pyramid
+horse |  
+| bip_39_word_new_line3 | pyramid
+horse
+amazing |  
+| bip_39_word_new_line4 | pyramid
+horse
+amazing
+mask |  
+| bip_39_word_new_line5 | pyramid
+horse
+amazing
+mask
+inject |  
+| bip_39_word_new_line6 | pyramid
+horse
+amazing
+mask
+inject
+mirror |  
+| bip_39_word_new_line7 | pyramid
+horse
+amazing
+mask
+inject
+mirror
+paddle |  
+| bip_39_word_new_line8 | pyramid
+horse
+amazing
+mask
+inject
+mirror
+paddle
+safe |  
+| bip_39_word_new_line9 | pyramid
+horse
+amazing
+mask
+inject
+mirror
+paddle
+safe
+just |  
+| bip_39_word_space_0 | ['pyramid', 'horse', 'amazing', 'mask', 'inject', 'mirror', 'paddle', 'safe', 'just', 'cube', 'over', 'across'] |  
+| bip_39_word_space_1 | pyramid |  
+| bip_39_word_space_10 | pyramid horse amazing mask inject mirror paddle safe just cube |  
+| bip_39_word_space_11 | pyramid horse amazing mask inject mirror paddle safe just cube over |  
+| bip_39_word_space_12 | pyramid horse amazing mask inject mirror paddle safe just cube over across |  
+| bip_39_word_space_2 | pyramid horse |  
+| bip_39_word_space_3 | pyramid horse amazing |  
+| bip_39_word_space_4 | pyramid horse amazing mask |  
+| bip_39_word_space_5 | pyramid horse amazing mask inject |  
+| bip_39_word_space_6 | pyramid horse amazing mask inject mirror |  
+| bip_39_word_space_7 | pyramid horse amazing mask inject mirror paddle |  
+| bip_39_word_space_8 | pyramid horse amazing mask inject mirror paddle safe |  
+| bip_39_word_space_9 | pyramid horse amazing mask inject mirror paddle safe just |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

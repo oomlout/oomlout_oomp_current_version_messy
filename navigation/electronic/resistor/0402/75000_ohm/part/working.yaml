@@ -1,3 +1,186 @@
+bip_39_word_new_br1: polar
+bip_39_word_new_br10: polar<br>salt<br>guide<br>frequent<br>diagram<br>hire<br>harvest<br>extra<br>girl<br>electric
+bip_39_word_new_br11: polar<br>salt<br>guide<br>frequent<br>diagram<br>hire<br>harvest<br>extra<br>girl<br>electric<br>rail
+bip_39_word_new_br12: polar<br>salt<br>guide<br>frequent<br>diagram<br>hire<br>harvest<br>extra<br>girl<br>electric<br>rail<br>april
+bip_39_word_new_br2: polar<br>salt
+bip_39_word_new_br3: polar<br>salt<br>guide
+bip_39_word_new_br4: polar<br>salt<br>guide<br>frequent
+bip_39_word_new_br5: polar<br>salt<br>guide<br>frequent<br>diagram
+bip_39_word_new_br6: polar<br>salt<br>guide<br>frequent<br>diagram<br>hire
+bip_39_word_new_br7: polar<br>salt<br>guide<br>frequent<br>diagram<br>hire<br>harvest
+bip_39_word_new_br8: polar<br>salt<br>guide<br>frequent<br>diagram<br>hire<br>harvest<br>extra
+bip_39_word_new_br9: polar<br>salt<br>guide<br>frequent<br>diagram<br>hire<br>harvest<br>extra<br>girl
+bip_39_word_new_line1: polar
+bip_39_word_new_line10: 'polar
+
+  salt
+
+  guide
+
+  frequent
+
+  diagram
+
+  hire
+
+  harvest
+
+  extra
+
+  girl
+
+  electric'
+bip_39_word_new_line11: 'polar
+
+  salt
+
+  guide
+
+  frequent
+
+  diagram
+
+  hire
+
+  harvest
+
+  extra
+
+  girl
+
+  electric
+
+  rail'
+bip_39_word_new_line12: 'polar
+
+  salt
+
+  guide
+
+  frequent
+
+  diagram
+
+  hire
+
+  harvest
+
+  extra
+
+  girl
+
+  electric
+
+  rail
+
+  april'
+bip_39_word_new_line2: 'polar
+
+  salt'
+bip_39_word_new_line3: 'polar
+
+  salt
+
+  guide'
+bip_39_word_new_line4: 'polar
+
+  salt
+
+  guide
+
+  frequent'
+bip_39_word_new_line5: 'polar
+
+  salt
+
+  guide
+
+  frequent
+
+  diagram'
+bip_39_word_new_line6: 'polar
+
+  salt
+
+  guide
+
+  frequent
+
+  diagram
+
+  hire'
+bip_39_word_new_line7: 'polar
+
+  salt
+
+  guide
+
+  frequent
+
+  diagram
+
+  hire
+
+  harvest'
+bip_39_word_new_line8: 'polar
+
+  salt
+
+  guide
+
+  frequent
+
+  diagram
+
+  hire
+
+  harvest
+
+  extra'
+bip_39_word_new_line9: 'polar
+
+  salt
+
+  guide
+
+  frequent
+
+  diagram
+
+  hire
+
+  harvest
+
+  extra
+
+  girl'
+bip_39_word_space_0:
+- polar
+- salt
+- guide
+- frequent
+- diagram
+- hire
+- harvest
+- extra
+- girl
+- electric
+- rail
+- april
+bip_39_word_space_1: polar
+bip_39_word_space_10: polar salt guide frequent diagram hire harvest extra girl electric
+bip_39_word_space_11: polar salt guide frequent diagram hire harvest extra girl electric
+  rail
+bip_39_word_space_12: polar salt guide frequent diagram hire harvest extra girl electric
+  rail april
+bip_39_word_space_2: polar salt
+bip_39_word_space_3: polar salt guide
+bip_39_word_space_4: polar salt guide frequent
+bip_39_word_space_5: polar salt guide frequent diagram
+bip_39_word_space_6: polar salt guide frequent diagram hire
+bip_39_word_space_7: polar salt guide frequent diagram hire harvest
+bip_39_word_space_8: polar salt guide frequent diagram hire harvest extra
+bip_39_word_space_9: polar salt guide frequent diagram hire harvest extra girl
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

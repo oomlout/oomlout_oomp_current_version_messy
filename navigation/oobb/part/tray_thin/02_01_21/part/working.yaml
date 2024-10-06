@@ -1,3 +1,187 @@
+bip_39_word_new_br1: salmon
+bip_39_word_new_br10: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire<br>duty<br>antique<br>purity<br>unusual
+bip_39_word_new_br11: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire<br>duty<br>antique<br>purity<br>unusual<br>below
+bip_39_word_new_br12: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire<br>duty<br>antique<br>purity<br>unusual<br>below<br>act
+bip_39_word_new_br2: salmon<br>cousin
+bip_39_word_new_br3: salmon<br>cousin<br>void
+bip_39_word_new_br4: salmon<br>cousin<br>void<br>summer
+bip_39_word_new_br5: salmon<br>cousin<br>void<br>summer<br>honey
+bip_39_word_new_br6: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire
+bip_39_word_new_br7: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire<br>duty
+bip_39_word_new_br8: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire<br>duty<br>antique
+bip_39_word_new_br9: salmon<br>cousin<br>void<br>summer<br>honey<br>acquire<br>duty<br>antique<br>purity
+bip_39_word_new_line1: salmon
+bip_39_word_new_line10: 'salmon
+
+  cousin
+
+  void
+
+  summer
+
+  honey
+
+  acquire
+
+  duty
+
+  antique
+
+  purity
+
+  unusual'
+bip_39_word_new_line11: 'salmon
+
+  cousin
+
+  void
+
+  summer
+
+  honey
+
+  acquire
+
+  duty
+
+  antique
+
+  purity
+
+  unusual
+
+  below'
+bip_39_word_new_line12: 'salmon
+
+  cousin
+
+  void
+
+  summer
+
+  honey
+
+  acquire
+
+  duty
+
+  antique
+
+  purity
+
+  unusual
+
+  below
+
+  act'
+bip_39_word_new_line2: 'salmon
+
+  cousin'
+bip_39_word_new_line3: 'salmon
+
+  cousin
+
+  void'
+bip_39_word_new_line4: 'salmon
+
+  cousin
+
+  void
+
+  summer'
+bip_39_word_new_line5: 'salmon
+
+  cousin
+
+  void
+
+  summer
+
+  honey'
+bip_39_word_new_line6: 'salmon
+
+  cousin
+
+  void
+
+  summer
+
+  honey
+
+  acquire'
+bip_39_word_new_line7: 'salmon
+
+  cousin
+
+  void
+
+  summer
+
+  honey
+
+  acquire
+
+  duty'
+bip_39_word_new_line8: 'salmon
+
+  cousin
+
+  void
+
+  summer
+
+  honey
+
+  acquire
+
+  duty
+
+  antique'
+bip_39_word_new_line9: 'salmon
+
+  cousin
+
+  void
+
+  summer
+
+  honey
+
+  acquire
+
+  duty
+
+  antique
+
+  purity'
+bip_39_word_space_0:
+- salmon
+- cousin
+- void
+- summer
+- honey
+- acquire
+- duty
+- antique
+- purity
+- unusual
+- below
+- act
+bip_39_word_space_1: salmon
+bip_39_word_space_10: salmon cousin void summer honey acquire duty antique purity
+  unusual
+bip_39_word_space_11: salmon cousin void summer honey acquire duty antique purity
+  unusual below
+bip_39_word_space_12: salmon cousin void summer honey acquire duty antique purity
+  unusual below act
+bip_39_word_space_2: salmon cousin
+bip_39_word_space_3: salmon cousin void
+bip_39_word_space_4: salmon cousin void summer
+bip_39_word_space_5: salmon cousin void summer honey
+bip_39_word_space_6: salmon cousin void summer honey acquire
+bip_39_word_space_7: salmon cousin void summer honey acquire duty
+bip_39_word_space_8: salmon cousin void summer honey acquire duty antique
+bip_39_word_space_9: salmon cousin void summer honey acquire duty antique purity
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: tone
+bip_39_word_new_br10: tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding
+bip_39_word_new_br11: tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding<br>quiz
+bip_39_word_new_br12: tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery<br>pudding<br>quiz<br>attract
+bip_39_word_new_br2: tone<br>assault
+bip_39_word_new_br3: tone<br>assault<br>suggest
+bip_39_word_new_br4: tone<br>assault<br>suggest<br>smile
+bip_39_word_new_br5: tone<br>assault<br>suggest<br>smile<br>coral
+bip_39_word_new_br6: tone<br>assault<br>suggest<br>smile<br>coral<br>output
+bip_39_word_new_br7: tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old
+bip_39_word_new_br8: tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic
+bip_39_word_new_br9: tone<br>assault<br>suggest<br>smile<br>coral<br>output<br>old<br>topic<br>grocery
+bip_39_word_new_line1: tone
+bip_39_word_new_line10: 'tone
+
+  assault
+
+  suggest
+
+  smile
+
+  coral
+
+  output
+
+  old
+
+  topic
+
+  grocery
+
+  pudding'
+bip_39_word_new_line11: 'tone
+
+  assault
+
+  suggest
+
+  smile
+
+  coral
+
+  output
+
+  old
+
+  topic
+
+  grocery
+
+  pudding
+
+  quiz'
+bip_39_word_new_line12: 'tone
+
+  assault
+
+  suggest
+
+  smile
+
+  coral
+
+  output
+
+  old
+
+  topic
+
+  grocery
+
+  pudding
+
+  quiz
+
+  attract'
+bip_39_word_new_line2: 'tone
+
+  assault'
+bip_39_word_new_line3: 'tone
+
+  assault
+
+  suggest'
+bip_39_word_new_line4: 'tone
+
+  assault
+
+  suggest
+
+  smile'
+bip_39_word_new_line5: 'tone
+
+  assault
+
+  suggest
+
+  smile
+
+  coral'
+bip_39_word_new_line6: 'tone
+
+  assault
+
+  suggest
+
+  smile
+
+  coral
+
+  output'
+bip_39_word_new_line7: 'tone
+
+  assault
+
+  suggest
+
+  smile
+
+  coral
+
+  output
+
+  old'
+bip_39_word_new_line8: 'tone
+
+  assault
+
+  suggest
+
+  smile
+
+  coral
+
+  output
+
+  old
+
+  topic'
+bip_39_word_new_line9: 'tone
+
+  assault
+
+  suggest
+
+  smile
+
+  coral
+
+  output
+
+  old
+
+  topic
+
+  grocery'
+bip_39_word_space_0:
+- tone
+- assault
+- suggest
+- smile
+- coral
+- output
+- old
+- topic
+- grocery
+- pudding
+- quiz
+- attract
+bip_39_word_space_1: tone
+bip_39_word_space_10: tone assault suggest smile coral output old topic grocery pudding
+bip_39_word_space_11: tone assault suggest smile coral output old topic grocery pudding
+  quiz
+bip_39_word_space_12: tone assault suggest smile coral output old topic grocery pudding
+  quiz attract
+bip_39_word_space_2: tone assault
+bip_39_word_space_3: tone assault suggest
+bip_39_word_space_4: tone assault suggest smile
+bip_39_word_space_5: tone assault suggest smile coral
+bip_39_word_space_6: tone assault suggest smile coral output
+bip_39_word_space_7: tone assault suggest smile coral output old
+bip_39_word_space_8: tone assault suggest smile coral output old topic
+bip_39_word_space_9: tone assault suggest smile coral output old topic grocery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

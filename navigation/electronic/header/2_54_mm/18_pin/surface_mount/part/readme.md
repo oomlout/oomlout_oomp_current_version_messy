@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: add off
+  * bip 39 word 3: add off awesome
+  * bip 39 word: add off awesome please dust galaxy custom youth art disease session afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | add |  
+| bip_39_word_new_br10 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease |  
+| bip_39_word_new_br11 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease<br>session |  
+| bip_39_word_new_br12 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art<br>disease<br>session<br>afford |  
+| bip_39_word_new_br2 | add<br>off |  
+| bip_39_word_new_br3 | add<br>off<br>awesome |  
+| bip_39_word_new_br4 | add<br>off<br>awesome<br>please |  
+| bip_39_word_new_br5 | add<br>off<br>awesome<br>please<br>dust |  
+| bip_39_word_new_br6 | add<br>off<br>awesome<br>please<br>dust<br>galaxy |  
+| bip_39_word_new_br7 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom |  
+| bip_39_word_new_br8 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth |  
+| bip_39_word_new_br9 | add<br>off<br>awesome<br>please<br>dust<br>galaxy<br>custom<br>youth<br>art |  
+| bip_39_word_new_line1 | add |  
+| bip_39_word_new_line10 | add
+off
+awesome
+please
+dust
+galaxy
+custom
+youth
+art
+disease |  
+| bip_39_word_new_line11 | add
+off
+awesome
+please
+dust
+galaxy
+custom
+youth
+art
+disease
+session |  
+| bip_39_word_new_line12 | add
+off
+awesome
+please
+dust
+galaxy
+custom
+youth
+art
+disease
+session
+afford |  
+| bip_39_word_new_line2 | add
+off |  
+| bip_39_word_new_line3 | add
+off
+awesome |  
+| bip_39_word_new_line4 | add
+off
+awesome
+please |  
+| bip_39_word_new_line5 | add
+off
+awesome
+please
+dust |  
+| bip_39_word_new_line6 | add
+off
+awesome
+please
+dust
+galaxy |  
+| bip_39_word_new_line7 | add
+off
+awesome
+please
+dust
+galaxy
+custom |  
+| bip_39_word_new_line8 | add
+off
+awesome
+please
+dust
+galaxy
+custom
+youth |  
+| bip_39_word_new_line9 | add
+off
+awesome
+please
+dust
+galaxy
+custom
+youth
+art |  
+| bip_39_word_space_0 | ['add', 'off', 'awesome', 'please', 'dust', 'galaxy', 'custom', 'youth', 'art', 'disease', 'session', 'afford'] |  
+| bip_39_word_space_1 | add |  
+| bip_39_word_space_10 | add off awesome please dust galaxy custom youth art disease |  
+| bip_39_word_space_11 | add off awesome please dust galaxy custom youth art disease session |  
+| bip_39_word_space_12 | add off awesome please dust galaxy custom youth art disease session afford |  
+| bip_39_word_space_2 | add off |  
+| bip_39_word_space_3 | add off awesome |  
+| bip_39_word_space_4 | add off awesome please |  
+| bip_39_word_space_5 | add off awesome please dust |  
+| bip_39_word_space_6 | add off awesome please dust galaxy |  
+| bip_39_word_space_7 | add off awesome please dust galaxy custom |  
+| bip_39_word_space_8 | add off awesome please dust galaxy custom youth |  
+| bip_39_word_space_9 | add off awesome please dust galaxy custom youth art |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

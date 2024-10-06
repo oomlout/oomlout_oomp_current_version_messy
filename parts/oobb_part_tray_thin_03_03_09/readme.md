@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: disease pudding
+  * bip 39 word 3: disease pudding marble
+  * bip 39 word: disease pudding marble hotel perfect pupil smooth open bread merry suit armor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | disease |  
+| bip_39_word_new_br10 | disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil<br>smooth<br>open<br>bread<br>merry |  
+| bip_39_word_new_br11 | disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil<br>smooth<br>open<br>bread<br>merry<br>suit |  
+| bip_39_word_new_br12 | disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil<br>smooth<br>open<br>bread<br>merry<br>suit<br>armor |  
+| bip_39_word_new_br2 | disease<br>pudding |  
+| bip_39_word_new_br3 | disease<br>pudding<br>marble |  
+| bip_39_word_new_br4 | disease<br>pudding<br>marble<br>hotel |  
+| bip_39_word_new_br5 | disease<br>pudding<br>marble<br>hotel<br>perfect |  
+| bip_39_word_new_br6 | disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil |  
+| bip_39_word_new_br7 | disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil<br>smooth |  
+| bip_39_word_new_br8 | disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil<br>smooth<br>open |  
+| bip_39_word_new_br9 | disease<br>pudding<br>marble<br>hotel<br>perfect<br>pupil<br>smooth<br>open<br>bread |  
+| bip_39_word_new_line1 | disease |  
+| bip_39_word_new_line10 | disease
+pudding
+marble
+hotel
+perfect
+pupil
+smooth
+open
+bread
+merry |  
+| bip_39_word_new_line11 | disease
+pudding
+marble
+hotel
+perfect
+pupil
+smooth
+open
+bread
+merry
+suit |  
+| bip_39_word_new_line12 | disease
+pudding
+marble
+hotel
+perfect
+pupil
+smooth
+open
+bread
+merry
+suit
+armor |  
+| bip_39_word_new_line2 | disease
+pudding |  
+| bip_39_word_new_line3 | disease
+pudding
+marble |  
+| bip_39_word_new_line4 | disease
+pudding
+marble
+hotel |  
+| bip_39_word_new_line5 | disease
+pudding
+marble
+hotel
+perfect |  
+| bip_39_word_new_line6 | disease
+pudding
+marble
+hotel
+perfect
+pupil |  
+| bip_39_word_new_line7 | disease
+pudding
+marble
+hotel
+perfect
+pupil
+smooth |  
+| bip_39_word_new_line8 | disease
+pudding
+marble
+hotel
+perfect
+pupil
+smooth
+open |  
+| bip_39_word_new_line9 | disease
+pudding
+marble
+hotel
+perfect
+pupil
+smooth
+open
+bread |  
+| bip_39_word_space_0 | ['disease', 'pudding', 'marble', 'hotel', 'perfect', 'pupil', 'smooth', 'open', 'bread', 'merry', 'suit', 'armor'] |  
+| bip_39_word_space_1 | disease |  
+| bip_39_word_space_10 | disease pudding marble hotel perfect pupil smooth open bread merry |  
+| bip_39_word_space_11 | disease pudding marble hotel perfect pupil smooth open bread merry suit |  
+| bip_39_word_space_12 | disease pudding marble hotel perfect pupil smooth open bread merry suit armor |  
+| bip_39_word_space_2 | disease pudding |  
+| bip_39_word_space_3 | disease pudding marble |  
+| bip_39_word_space_4 | disease pudding marble hotel |  
+| bip_39_word_space_5 | disease pudding marble hotel perfect |  
+| bip_39_word_space_6 | disease pudding marble hotel perfect pupil |  
+| bip_39_word_space_7 | disease pudding marble hotel perfect pupil smooth |  
+| bip_39_word_space_8 | disease pudding marble hotel perfect pupil smooth open |  
+| bip_39_word_space_9 | disease pudding marble hotel perfect pupil smooth open bread |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

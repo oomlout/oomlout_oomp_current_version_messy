@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: post shiver
+  * bip 39 word 3: post shiver drift
+  * bip 39 word: post shiver drift myth alpha oyster powder creek seven bean nuclear alpha
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | post |  
+| bip_39_word_new_br10 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster<br>powder<br>creek<br>seven<br>bean |  
+| bip_39_word_new_br11 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster<br>powder<br>creek<br>seven<br>bean<br>nuclear |  
+| bip_39_word_new_br12 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster<br>powder<br>creek<br>seven<br>bean<br>nuclear<br>alpha |  
+| bip_39_word_new_br2 | post<br>shiver |  
+| bip_39_word_new_br3 | post<br>shiver<br>drift |  
+| bip_39_word_new_br4 | post<br>shiver<br>drift<br>myth |  
+| bip_39_word_new_br5 | post<br>shiver<br>drift<br>myth<br>alpha |  
+| bip_39_word_new_br6 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster |  
+| bip_39_word_new_br7 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster<br>powder |  
+| bip_39_word_new_br8 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster<br>powder<br>creek |  
+| bip_39_word_new_br9 | post<br>shiver<br>drift<br>myth<br>alpha<br>oyster<br>powder<br>creek<br>seven |  
+| bip_39_word_new_line1 | post |  
+| bip_39_word_new_line10 | post
+shiver
+drift
+myth
+alpha
+oyster
+powder
+creek
+seven
+bean |  
+| bip_39_word_new_line11 | post
+shiver
+drift
+myth
+alpha
+oyster
+powder
+creek
+seven
+bean
+nuclear |  
+| bip_39_word_new_line12 | post
+shiver
+drift
+myth
+alpha
+oyster
+powder
+creek
+seven
+bean
+nuclear
+alpha |  
+| bip_39_word_new_line2 | post
+shiver |  
+| bip_39_word_new_line3 | post
+shiver
+drift |  
+| bip_39_word_new_line4 | post
+shiver
+drift
+myth |  
+| bip_39_word_new_line5 | post
+shiver
+drift
+myth
+alpha |  
+| bip_39_word_new_line6 | post
+shiver
+drift
+myth
+alpha
+oyster |  
+| bip_39_word_new_line7 | post
+shiver
+drift
+myth
+alpha
+oyster
+powder |  
+| bip_39_word_new_line8 | post
+shiver
+drift
+myth
+alpha
+oyster
+powder
+creek |  
+| bip_39_word_new_line9 | post
+shiver
+drift
+myth
+alpha
+oyster
+powder
+creek
+seven |  
+| bip_39_word_space_0 | ['post', 'shiver', 'drift', 'myth', 'alpha', 'oyster', 'powder', 'creek', 'seven', 'bean', 'nuclear', 'alpha'] |  
+| bip_39_word_space_1 | post |  
+| bip_39_word_space_10 | post shiver drift myth alpha oyster powder creek seven bean |  
+| bip_39_word_space_11 | post shiver drift myth alpha oyster powder creek seven bean nuclear |  
+| bip_39_word_space_12 | post shiver drift myth alpha oyster powder creek seven bean nuclear alpha |  
+| bip_39_word_space_2 | post shiver |  
+| bip_39_word_space_3 | post shiver drift |  
+| bip_39_word_space_4 | post shiver drift myth |  
+| bip_39_word_space_5 | post shiver drift myth alpha |  
+| bip_39_word_space_6 | post shiver drift myth alpha oyster |  
+| bip_39_word_space_7 | post shiver drift myth alpha oyster powder |  
+| bip_39_word_space_8 | post shiver drift myth alpha oyster powder creek |  
+| bip_39_word_space_9 | post shiver drift myth alpha oyster powder creek seven |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: farm else
+  * bip 39 word 3: farm else parade
+  * bip 39 word: farm else parade output lend bus material already egg spike gesture artist
 
 ### other_codes
 * short_code: sc5b25h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | farm |  
+| bip_39_word_new_br10 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike |  
+| bip_39_word_new_br11 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike<br>gesture |  
+| bip_39_word_new_br12 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg<br>spike<br>gesture<br>artist |  
+| bip_39_word_new_br2 | farm<br>else |  
+| bip_39_word_new_br3 | farm<br>else<br>parade |  
+| bip_39_word_new_br4 | farm<br>else<br>parade<br>output |  
+| bip_39_word_new_br5 | farm<br>else<br>parade<br>output<br>lend |  
+| bip_39_word_new_br6 | farm<br>else<br>parade<br>output<br>lend<br>bus |  
+| bip_39_word_new_br7 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material |  
+| bip_39_word_new_br8 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already |  
+| bip_39_word_new_br9 | farm<br>else<br>parade<br>output<br>lend<br>bus<br>material<br>already<br>egg |  
+| bip_39_word_new_line1 | farm |  
+| bip_39_word_new_line10 | farm
+else
+parade
+output
+lend
+bus
+material
+already
+egg
+spike |  
+| bip_39_word_new_line11 | farm
+else
+parade
+output
+lend
+bus
+material
+already
+egg
+spike
+gesture |  
+| bip_39_word_new_line12 | farm
+else
+parade
+output
+lend
+bus
+material
+already
+egg
+spike
+gesture
+artist |  
+| bip_39_word_new_line2 | farm
+else |  
+| bip_39_word_new_line3 | farm
+else
+parade |  
+| bip_39_word_new_line4 | farm
+else
+parade
+output |  
+| bip_39_word_new_line5 | farm
+else
+parade
+output
+lend |  
+| bip_39_word_new_line6 | farm
+else
+parade
+output
+lend
+bus |  
+| bip_39_word_new_line7 | farm
+else
+parade
+output
+lend
+bus
+material |  
+| bip_39_word_new_line8 | farm
+else
+parade
+output
+lend
+bus
+material
+already |  
+| bip_39_word_new_line9 | farm
+else
+parade
+output
+lend
+bus
+material
+already
+egg |  
+| bip_39_word_space_0 | ['farm', 'else', 'parade', 'output', 'lend', 'bus', 'material', 'already', 'egg', 'spike', 'gesture', 'artist'] |  
+| bip_39_word_space_1 | farm |  
+| bip_39_word_space_10 | farm else parade output lend bus material already egg spike |  
+| bip_39_word_space_11 | farm else parade output lend bus material already egg spike gesture |  
+| bip_39_word_space_12 | farm else parade output lend bus material already egg spike gesture artist |  
+| bip_39_word_space_2 | farm else |  
+| bip_39_word_space_3 | farm else parade |  
+| bip_39_word_space_4 | farm else parade output |  
+| bip_39_word_space_5 | farm else parade output lend |  
+| bip_39_word_space_6 | farm else parade output lend bus |  
+| bip_39_word_space_7 | farm else parade output lend bus material |  
+| bip_39_word_space_8 | farm else parade output lend bus material already |  
+| bip_39_word_space_9 | farm else parade output lend bus material already egg |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

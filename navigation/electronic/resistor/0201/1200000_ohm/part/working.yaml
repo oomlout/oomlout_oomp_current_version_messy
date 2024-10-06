@@ -1,3 +1,186 @@
+bip_39_word_new_br1: logic
+bip_39_word_new_br10: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop
+bip_39_word_new_br11: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop<br>wood
+bip_39_word_new_br12: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth<br>laptop<br>wood<br>addict
+bip_39_word_new_br2: logic<br>dry
+bip_39_word_new_br3: logic<br>dry<br>shed
+bip_39_word_new_br4: logic<br>dry<br>shed<br>submit
+bip_39_word_new_br5: logic<br>dry<br>shed<br>submit<br>minor
+bip_39_word_new_br6: logic<br>dry<br>shed<br>submit<br>minor<br>source
+bip_39_word_new_br7: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy
+bip_39_word_new_br8: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious
+bip_39_word_new_br9: logic<br>dry<br>shed<br>submit<br>minor<br>source<br>fancy<br>curious<br>cloth
+bip_39_word_new_line1: logic
+bip_39_word_new_line10: 'logic
+
+  dry
+
+  shed
+
+  submit
+
+  minor
+
+  source
+
+  fancy
+
+  curious
+
+  cloth
+
+  laptop'
+bip_39_word_new_line11: 'logic
+
+  dry
+
+  shed
+
+  submit
+
+  minor
+
+  source
+
+  fancy
+
+  curious
+
+  cloth
+
+  laptop
+
+  wood'
+bip_39_word_new_line12: 'logic
+
+  dry
+
+  shed
+
+  submit
+
+  minor
+
+  source
+
+  fancy
+
+  curious
+
+  cloth
+
+  laptop
+
+  wood
+
+  addict'
+bip_39_word_new_line2: 'logic
+
+  dry'
+bip_39_word_new_line3: 'logic
+
+  dry
+
+  shed'
+bip_39_word_new_line4: 'logic
+
+  dry
+
+  shed
+
+  submit'
+bip_39_word_new_line5: 'logic
+
+  dry
+
+  shed
+
+  submit
+
+  minor'
+bip_39_word_new_line6: 'logic
+
+  dry
+
+  shed
+
+  submit
+
+  minor
+
+  source'
+bip_39_word_new_line7: 'logic
+
+  dry
+
+  shed
+
+  submit
+
+  minor
+
+  source
+
+  fancy'
+bip_39_word_new_line8: 'logic
+
+  dry
+
+  shed
+
+  submit
+
+  minor
+
+  source
+
+  fancy
+
+  curious'
+bip_39_word_new_line9: 'logic
+
+  dry
+
+  shed
+
+  submit
+
+  minor
+
+  source
+
+  fancy
+
+  curious
+
+  cloth'
+bip_39_word_space_0:
+- logic
+- dry
+- shed
+- submit
+- minor
+- source
+- fancy
+- curious
+- cloth
+- laptop
+- wood
+- addict
+bip_39_word_space_1: logic
+bip_39_word_space_10: logic dry shed submit minor source fancy curious cloth laptop
+bip_39_word_space_11: logic dry shed submit minor source fancy curious cloth laptop
+  wood
+bip_39_word_space_12: logic dry shed submit minor source fancy curious cloth laptop
+  wood addict
+bip_39_word_space_2: logic dry
+bip_39_word_space_3: logic dry shed
+bip_39_word_space_4: logic dry shed submit
+bip_39_word_space_5: logic dry shed submit minor
+bip_39_word_space_6: logic dry shed submit minor source
+bip_39_word_space_7: logic dry shed submit minor source fancy
+bip_39_word_space_8: logic dry shed submit minor source fancy curious
+bip_39_word_space_9: logic dry shed submit minor source fancy curious cloth
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

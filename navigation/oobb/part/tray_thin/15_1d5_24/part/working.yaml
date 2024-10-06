@@ -1,3 +1,185 @@
+bip_39_word_new_br1: film
+bip_39_word_new_br10: film<br>shed<br>pear<br>address<br>cigar<br>result<br>burger<br>major<br>web<br>civil
+bip_39_word_new_br11: film<br>shed<br>pear<br>address<br>cigar<br>result<br>burger<br>major<br>web<br>civil<br>holiday
+bip_39_word_new_br12: film<br>shed<br>pear<br>address<br>cigar<br>result<br>burger<br>major<br>web<br>civil<br>holiday<br>arctic
+bip_39_word_new_br2: film<br>shed
+bip_39_word_new_br3: film<br>shed<br>pear
+bip_39_word_new_br4: film<br>shed<br>pear<br>address
+bip_39_word_new_br5: film<br>shed<br>pear<br>address<br>cigar
+bip_39_word_new_br6: film<br>shed<br>pear<br>address<br>cigar<br>result
+bip_39_word_new_br7: film<br>shed<br>pear<br>address<br>cigar<br>result<br>burger
+bip_39_word_new_br8: film<br>shed<br>pear<br>address<br>cigar<br>result<br>burger<br>major
+bip_39_word_new_br9: film<br>shed<br>pear<br>address<br>cigar<br>result<br>burger<br>major<br>web
+bip_39_word_new_line1: film
+bip_39_word_new_line10: 'film
+
+  shed
+
+  pear
+
+  address
+
+  cigar
+
+  result
+
+  burger
+
+  major
+
+  web
+
+  civil'
+bip_39_word_new_line11: 'film
+
+  shed
+
+  pear
+
+  address
+
+  cigar
+
+  result
+
+  burger
+
+  major
+
+  web
+
+  civil
+
+  holiday'
+bip_39_word_new_line12: 'film
+
+  shed
+
+  pear
+
+  address
+
+  cigar
+
+  result
+
+  burger
+
+  major
+
+  web
+
+  civil
+
+  holiday
+
+  arctic'
+bip_39_word_new_line2: 'film
+
+  shed'
+bip_39_word_new_line3: 'film
+
+  shed
+
+  pear'
+bip_39_word_new_line4: 'film
+
+  shed
+
+  pear
+
+  address'
+bip_39_word_new_line5: 'film
+
+  shed
+
+  pear
+
+  address
+
+  cigar'
+bip_39_word_new_line6: 'film
+
+  shed
+
+  pear
+
+  address
+
+  cigar
+
+  result'
+bip_39_word_new_line7: 'film
+
+  shed
+
+  pear
+
+  address
+
+  cigar
+
+  result
+
+  burger'
+bip_39_word_new_line8: 'film
+
+  shed
+
+  pear
+
+  address
+
+  cigar
+
+  result
+
+  burger
+
+  major'
+bip_39_word_new_line9: 'film
+
+  shed
+
+  pear
+
+  address
+
+  cigar
+
+  result
+
+  burger
+
+  major
+
+  web'
+bip_39_word_space_0:
+- film
+- shed
+- pear
+- address
+- cigar
+- result
+- burger
+- major
+- web
+- civil
+- holiday
+- arctic
+bip_39_word_space_1: film
+bip_39_word_space_10: film shed pear address cigar result burger major web civil
+bip_39_word_space_11: film shed pear address cigar result burger major web civil holiday
+bip_39_word_space_12: film shed pear address cigar result burger major web civil holiday
+  arctic
+bip_39_word_space_2: film shed
+bip_39_word_space_3: film shed pear
+bip_39_word_space_4: film shed pear address
+bip_39_word_space_5: film shed pear address cigar
+bip_39_word_space_6: film shed pear address cigar result
+bip_39_word_space_7: film shed pear address cigar result burger
+bip_39_word_space_8: film shed pear address cigar result burger major
+bip_39_word_space_9: film shed pear address cigar result burger major web
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

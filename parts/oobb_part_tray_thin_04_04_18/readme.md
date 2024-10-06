@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: angle subject
+  * bip 39 word 3: angle subject few
+  * bip 39 word: angle subject few ginger mad unhappy shock session naive actress soldier around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | angle |  
+| bip_39_word_new_br10 | angle<br>subject<br>few<br>ginger<br>mad<br>unhappy<br>shock<br>session<br>naive<br>actress |  
+| bip_39_word_new_br11 | angle<br>subject<br>few<br>ginger<br>mad<br>unhappy<br>shock<br>session<br>naive<br>actress<br>soldier |  
+| bip_39_word_new_br12 | angle<br>subject<br>few<br>ginger<br>mad<br>unhappy<br>shock<br>session<br>naive<br>actress<br>soldier<br>around |  
+| bip_39_word_new_br2 | angle<br>subject |  
+| bip_39_word_new_br3 | angle<br>subject<br>few |  
+| bip_39_word_new_br4 | angle<br>subject<br>few<br>ginger |  
+| bip_39_word_new_br5 | angle<br>subject<br>few<br>ginger<br>mad |  
+| bip_39_word_new_br6 | angle<br>subject<br>few<br>ginger<br>mad<br>unhappy |  
+| bip_39_word_new_br7 | angle<br>subject<br>few<br>ginger<br>mad<br>unhappy<br>shock |  
+| bip_39_word_new_br8 | angle<br>subject<br>few<br>ginger<br>mad<br>unhappy<br>shock<br>session |  
+| bip_39_word_new_br9 | angle<br>subject<br>few<br>ginger<br>mad<br>unhappy<br>shock<br>session<br>naive |  
+| bip_39_word_new_line1 | angle |  
+| bip_39_word_new_line10 | angle
+subject
+few
+ginger
+mad
+unhappy
+shock
+session
+naive
+actress |  
+| bip_39_word_new_line11 | angle
+subject
+few
+ginger
+mad
+unhappy
+shock
+session
+naive
+actress
+soldier |  
+| bip_39_word_new_line12 | angle
+subject
+few
+ginger
+mad
+unhappy
+shock
+session
+naive
+actress
+soldier
+around |  
+| bip_39_word_new_line2 | angle
+subject |  
+| bip_39_word_new_line3 | angle
+subject
+few |  
+| bip_39_word_new_line4 | angle
+subject
+few
+ginger |  
+| bip_39_word_new_line5 | angle
+subject
+few
+ginger
+mad |  
+| bip_39_word_new_line6 | angle
+subject
+few
+ginger
+mad
+unhappy |  
+| bip_39_word_new_line7 | angle
+subject
+few
+ginger
+mad
+unhappy
+shock |  
+| bip_39_word_new_line8 | angle
+subject
+few
+ginger
+mad
+unhappy
+shock
+session |  
+| bip_39_word_new_line9 | angle
+subject
+few
+ginger
+mad
+unhappy
+shock
+session
+naive |  
+| bip_39_word_space_0 | ['angle', 'subject', 'few', 'ginger', 'mad', 'unhappy', 'shock', 'session', 'naive', 'actress', 'soldier', 'around'] |  
+| bip_39_word_space_1 | angle |  
+| bip_39_word_space_10 | angle subject few ginger mad unhappy shock session naive actress |  
+| bip_39_word_space_11 | angle subject few ginger mad unhappy shock session naive actress soldier |  
+| bip_39_word_space_12 | angle subject few ginger mad unhappy shock session naive actress soldier around |  
+| bip_39_word_space_2 | angle subject |  
+| bip_39_word_space_3 | angle subject few |  
+| bip_39_word_space_4 | angle subject few ginger |  
+| bip_39_word_space_5 | angle subject few ginger mad |  
+| bip_39_word_space_6 | angle subject few ginger mad unhappy |  
+| bip_39_word_space_7 | angle subject few ginger mad unhappy shock |  
+| bip_39_word_space_8 | angle subject few ginger mad unhappy shock session |  
+| bip_39_word_space_9 | angle subject few ginger mad unhappy shock session naive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

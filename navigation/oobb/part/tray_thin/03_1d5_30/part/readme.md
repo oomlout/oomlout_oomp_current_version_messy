@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bomb table
+  * bip 39 word 3: bomb table door
+  * bip 39 word: bomb table door accuse stage nest dose punch pitch fury that accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bomb |  
+| bip_39_word_new_br10 | bomb<br>table<br>door<br>accuse<br>stage<br>nest<br>dose<br>punch<br>pitch<br>fury |  
+| bip_39_word_new_br11 | bomb<br>table<br>door<br>accuse<br>stage<br>nest<br>dose<br>punch<br>pitch<br>fury<br>that |  
+| bip_39_word_new_br12 | bomb<br>table<br>door<br>accuse<br>stage<br>nest<br>dose<br>punch<br>pitch<br>fury<br>that<br>accuse |  
+| bip_39_word_new_br2 | bomb<br>table |  
+| bip_39_word_new_br3 | bomb<br>table<br>door |  
+| bip_39_word_new_br4 | bomb<br>table<br>door<br>accuse |  
+| bip_39_word_new_br5 | bomb<br>table<br>door<br>accuse<br>stage |  
+| bip_39_word_new_br6 | bomb<br>table<br>door<br>accuse<br>stage<br>nest |  
+| bip_39_word_new_br7 | bomb<br>table<br>door<br>accuse<br>stage<br>nest<br>dose |  
+| bip_39_word_new_br8 | bomb<br>table<br>door<br>accuse<br>stage<br>nest<br>dose<br>punch |  
+| bip_39_word_new_br9 | bomb<br>table<br>door<br>accuse<br>stage<br>nest<br>dose<br>punch<br>pitch |  
+| bip_39_word_new_line1 | bomb |  
+| bip_39_word_new_line10 | bomb
+table
+door
+accuse
+stage
+nest
+dose
+punch
+pitch
+fury |  
+| bip_39_word_new_line11 | bomb
+table
+door
+accuse
+stage
+nest
+dose
+punch
+pitch
+fury
+that |  
+| bip_39_word_new_line12 | bomb
+table
+door
+accuse
+stage
+nest
+dose
+punch
+pitch
+fury
+that
+accuse |  
+| bip_39_word_new_line2 | bomb
+table |  
+| bip_39_word_new_line3 | bomb
+table
+door |  
+| bip_39_word_new_line4 | bomb
+table
+door
+accuse |  
+| bip_39_word_new_line5 | bomb
+table
+door
+accuse
+stage |  
+| bip_39_word_new_line6 | bomb
+table
+door
+accuse
+stage
+nest |  
+| bip_39_word_new_line7 | bomb
+table
+door
+accuse
+stage
+nest
+dose |  
+| bip_39_word_new_line8 | bomb
+table
+door
+accuse
+stage
+nest
+dose
+punch |  
+| bip_39_word_new_line9 | bomb
+table
+door
+accuse
+stage
+nest
+dose
+punch
+pitch |  
+| bip_39_word_space_0 | ['bomb', 'table', 'door', 'accuse', 'stage', 'nest', 'dose', 'punch', 'pitch', 'fury', 'that', 'accuse'] |  
+| bip_39_word_space_1 | bomb |  
+| bip_39_word_space_10 | bomb table door accuse stage nest dose punch pitch fury |  
+| bip_39_word_space_11 | bomb table door accuse stage nest dose punch pitch fury that |  
+| bip_39_word_space_12 | bomb table door accuse stage nest dose punch pitch fury that accuse |  
+| bip_39_word_space_2 | bomb table |  
+| bip_39_word_space_3 | bomb table door |  
+| bip_39_word_space_4 | bomb table door accuse |  
+| bip_39_word_space_5 | bomb table door accuse stage |  
+| bip_39_word_space_6 | bomb table door accuse stage nest |  
+| bip_39_word_space_7 | bomb table door accuse stage nest dose |  
+| bip_39_word_space_8 | bomb table door accuse stage nest dose punch |  
+| bip_39_word_space_9 | bomb table door accuse stage nest dose punch pitch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

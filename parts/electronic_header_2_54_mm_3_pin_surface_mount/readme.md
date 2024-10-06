@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clarify sword
+  * bip 39 word 3: clarify sword word
+  * bip 39 word: clarify sword word swear right message wise energy range cement bag amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clarify |  
+| bip_39_word_new_br10 | clarify<br>sword<br>word<br>swear<br>right<br>message<br>wise<br>energy<br>range<br>cement |  
+| bip_39_word_new_br11 | clarify<br>sword<br>word<br>swear<br>right<br>message<br>wise<br>energy<br>range<br>cement<br>bag |  
+| bip_39_word_new_br12 | clarify<br>sword<br>word<br>swear<br>right<br>message<br>wise<br>energy<br>range<br>cement<br>bag<br>amused |  
+| bip_39_word_new_br2 | clarify<br>sword |  
+| bip_39_word_new_br3 | clarify<br>sword<br>word |  
+| bip_39_word_new_br4 | clarify<br>sword<br>word<br>swear |  
+| bip_39_word_new_br5 | clarify<br>sword<br>word<br>swear<br>right |  
+| bip_39_word_new_br6 | clarify<br>sword<br>word<br>swear<br>right<br>message |  
+| bip_39_word_new_br7 | clarify<br>sword<br>word<br>swear<br>right<br>message<br>wise |  
+| bip_39_word_new_br8 | clarify<br>sword<br>word<br>swear<br>right<br>message<br>wise<br>energy |  
+| bip_39_word_new_br9 | clarify<br>sword<br>word<br>swear<br>right<br>message<br>wise<br>energy<br>range |  
+| bip_39_word_new_line1 | clarify |  
+| bip_39_word_new_line10 | clarify
+sword
+word
+swear
+right
+message
+wise
+energy
+range
+cement |  
+| bip_39_word_new_line11 | clarify
+sword
+word
+swear
+right
+message
+wise
+energy
+range
+cement
+bag |  
+| bip_39_word_new_line12 | clarify
+sword
+word
+swear
+right
+message
+wise
+energy
+range
+cement
+bag
+amused |  
+| bip_39_word_new_line2 | clarify
+sword |  
+| bip_39_word_new_line3 | clarify
+sword
+word |  
+| bip_39_word_new_line4 | clarify
+sword
+word
+swear |  
+| bip_39_word_new_line5 | clarify
+sword
+word
+swear
+right |  
+| bip_39_word_new_line6 | clarify
+sword
+word
+swear
+right
+message |  
+| bip_39_word_new_line7 | clarify
+sword
+word
+swear
+right
+message
+wise |  
+| bip_39_word_new_line8 | clarify
+sword
+word
+swear
+right
+message
+wise
+energy |  
+| bip_39_word_new_line9 | clarify
+sword
+word
+swear
+right
+message
+wise
+energy
+range |  
+| bip_39_word_space_0 | ['clarify', 'sword', 'word', 'swear', 'right', 'message', 'wise', 'energy', 'range', 'cement', 'bag', 'amused'] |  
+| bip_39_word_space_1 | clarify |  
+| bip_39_word_space_10 | clarify sword word swear right message wise energy range cement |  
+| bip_39_word_space_11 | clarify sword word swear right message wise energy range cement bag |  
+| bip_39_word_space_12 | clarify sword word swear right message wise energy range cement bag amused |  
+| bip_39_word_space_2 | clarify sword |  
+| bip_39_word_space_3 | clarify sword word |  
+| bip_39_word_space_4 | clarify sword word swear |  
+| bip_39_word_space_5 | clarify sword word swear right |  
+| bip_39_word_space_6 | clarify sword word swear right message |  
+| bip_39_word_space_7 | clarify sword word swear right message wise |  
+| bip_39_word_space_8 | clarify sword word swear right message wise energy |  
+| bip_39_word_space_9 | clarify sword word swear right message wise energy range |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

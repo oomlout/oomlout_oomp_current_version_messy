@@ -1,3 +1,188 @@
+bip_39_word_new_br1: mountain
+bip_39_word_new_br10: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar
+bip_39_word_new_br11: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet
+bip_39_word_new_br12: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet<br>agent
+bip_39_word_new_br2: mountain<br>strategy
+bip_39_word_new_br3: mountain<br>strategy<br>ostrich
+bip_39_word_new_br4: mountain<br>strategy<br>ostrich<br>admit
+bip_39_word_new_br5: mountain<br>strategy<br>ostrich<br>admit<br>crouch
+bip_39_word_new_br6: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich
+bip_39_word_new_br7: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry
+bip_39_word_new_br8: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil
+bip_39_word_new_br9: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar
+bip_39_word_new_line1: mountain
+bip_39_word_new_line10: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil
+
+  liar
+
+  jaguar'
+bip_39_word_new_line11: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil
+
+  liar
+
+  jaguar
+
+  velvet'
+bip_39_word_new_line12: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil
+
+  liar
+
+  jaguar
+
+  velvet
+
+  agent'
+bip_39_word_new_line2: 'mountain
+
+  strategy'
+bip_39_word_new_line3: 'mountain
+
+  strategy
+
+  ostrich'
+bip_39_word_new_line4: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit'
+bip_39_word_new_line5: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch'
+bip_39_word_new_line6: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich'
+bip_39_word_new_line7: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry'
+bip_39_word_new_line8: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil'
+bip_39_word_new_line9: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil
+
+  liar'
+bip_39_word_space_0:
+- mountain
+- strategy
+- ostrich
+- admit
+- crouch
+- enrich
+- industry
+- fossil
+- liar
+- jaguar
+- velvet
+- agent
+bip_39_word_space_1: mountain
+bip_39_word_space_10: mountain strategy ostrich admit crouch enrich industry fossil
+  liar jaguar
+bip_39_word_space_11: mountain strategy ostrich admit crouch enrich industry fossil
+  liar jaguar velvet
+bip_39_word_space_12: mountain strategy ostrich admit crouch enrich industry fossil
+  liar jaguar velvet agent
+bip_39_word_space_2: mountain strategy
+bip_39_word_space_3: mountain strategy ostrich
+bip_39_word_space_4: mountain strategy ostrich admit
+bip_39_word_space_5: mountain strategy ostrich admit crouch
+bip_39_word_space_6: mountain strategy ostrich admit crouch enrich
+bip_39_word_space_7: mountain strategy ostrich admit crouch enrich industry
+bip_39_word_space_8: mountain strategy ostrich admit crouch enrich industry fossil
+bip_39_word_space_9: mountain strategy ostrich admit crouch enrich industry fossil
+  liar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

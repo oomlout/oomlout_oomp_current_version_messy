@@ -1,3 +1,187 @@
+bip_39_word_new_br1: degree
+bip_39_word_new_br10: degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto
+bip_39_word_new_br11: degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto<br>loud
+bip_39_word_new_br12: degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course<br>auto<br>loud<br>aspect
+bip_39_word_new_br2: degree<br>bulb
+bip_39_word_new_br3: degree<br>bulb<br>better
+bip_39_word_new_br4: degree<br>bulb<br>better<br>floor
+bip_39_word_new_br5: degree<br>bulb<br>better<br>floor<br>history
+bip_39_word_new_br6: degree<br>bulb<br>better<br>floor<br>history<br>sister
+bip_39_word_new_br7: degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune
+bip_39_word_new_br8: degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire
+bip_39_word_new_br9: degree<br>bulb<br>better<br>floor<br>history<br>sister<br>fortune<br>inspire<br>course
+bip_39_word_new_line1: degree
+bip_39_word_new_line10: 'degree
+
+  bulb
+
+  better
+
+  floor
+
+  history
+
+  sister
+
+  fortune
+
+  inspire
+
+  course
+
+  auto'
+bip_39_word_new_line11: 'degree
+
+  bulb
+
+  better
+
+  floor
+
+  history
+
+  sister
+
+  fortune
+
+  inspire
+
+  course
+
+  auto
+
+  loud'
+bip_39_word_new_line12: 'degree
+
+  bulb
+
+  better
+
+  floor
+
+  history
+
+  sister
+
+  fortune
+
+  inspire
+
+  course
+
+  auto
+
+  loud
+
+  aspect'
+bip_39_word_new_line2: 'degree
+
+  bulb'
+bip_39_word_new_line3: 'degree
+
+  bulb
+
+  better'
+bip_39_word_new_line4: 'degree
+
+  bulb
+
+  better
+
+  floor'
+bip_39_word_new_line5: 'degree
+
+  bulb
+
+  better
+
+  floor
+
+  history'
+bip_39_word_new_line6: 'degree
+
+  bulb
+
+  better
+
+  floor
+
+  history
+
+  sister'
+bip_39_word_new_line7: 'degree
+
+  bulb
+
+  better
+
+  floor
+
+  history
+
+  sister
+
+  fortune'
+bip_39_word_new_line8: 'degree
+
+  bulb
+
+  better
+
+  floor
+
+  history
+
+  sister
+
+  fortune
+
+  inspire'
+bip_39_word_new_line9: 'degree
+
+  bulb
+
+  better
+
+  floor
+
+  history
+
+  sister
+
+  fortune
+
+  inspire
+
+  course'
+bip_39_word_space_0:
+- degree
+- bulb
+- better
+- floor
+- history
+- sister
+- fortune
+- inspire
+- course
+- auto
+- loud
+- aspect
+bip_39_word_space_1: degree
+bip_39_word_space_10: degree bulb better floor history sister fortune inspire course
+  auto
+bip_39_word_space_11: degree bulb better floor history sister fortune inspire course
+  auto loud
+bip_39_word_space_12: degree bulb better floor history sister fortune inspire course
+  auto loud aspect
+bip_39_word_space_2: degree bulb
+bip_39_word_space_3: degree bulb better
+bip_39_word_space_4: degree bulb better floor
+bip_39_word_space_5: degree bulb better floor history
+bip_39_word_space_6: degree bulb better floor history sister
+bip_39_word_space_7: degree bulb better floor history sister fortune
+bip_39_word_space_8: degree bulb better floor history sister fortune inspire
+bip_39_word_space_9: degree bulb better floor history sister fortune inspire course
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

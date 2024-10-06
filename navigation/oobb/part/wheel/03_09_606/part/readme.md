@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: material clay
+  * bip 39 word 3: material clay awake
+  * bip 39 word: material clay awake west two wrap endless basket pact start leader aunt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | material |  
+| bip_39_word_new_br10 | material<br>clay<br>awake<br>west<br>two<br>wrap<br>endless<br>basket<br>pact<br>start |  
+| bip_39_word_new_br11 | material<br>clay<br>awake<br>west<br>two<br>wrap<br>endless<br>basket<br>pact<br>start<br>leader |  
+| bip_39_word_new_br12 | material<br>clay<br>awake<br>west<br>two<br>wrap<br>endless<br>basket<br>pact<br>start<br>leader<br>aunt |  
+| bip_39_word_new_br2 | material<br>clay |  
+| bip_39_word_new_br3 | material<br>clay<br>awake |  
+| bip_39_word_new_br4 | material<br>clay<br>awake<br>west |  
+| bip_39_word_new_br5 | material<br>clay<br>awake<br>west<br>two |  
+| bip_39_word_new_br6 | material<br>clay<br>awake<br>west<br>two<br>wrap |  
+| bip_39_word_new_br7 | material<br>clay<br>awake<br>west<br>two<br>wrap<br>endless |  
+| bip_39_word_new_br8 | material<br>clay<br>awake<br>west<br>two<br>wrap<br>endless<br>basket |  
+| bip_39_word_new_br9 | material<br>clay<br>awake<br>west<br>two<br>wrap<br>endless<br>basket<br>pact |  
+| bip_39_word_new_line1 | material |  
+| bip_39_word_new_line10 | material
+clay
+awake
+west
+two
+wrap
+endless
+basket
+pact
+start |  
+| bip_39_word_new_line11 | material
+clay
+awake
+west
+two
+wrap
+endless
+basket
+pact
+start
+leader |  
+| bip_39_word_new_line12 | material
+clay
+awake
+west
+two
+wrap
+endless
+basket
+pact
+start
+leader
+aunt |  
+| bip_39_word_new_line2 | material
+clay |  
+| bip_39_word_new_line3 | material
+clay
+awake |  
+| bip_39_word_new_line4 | material
+clay
+awake
+west |  
+| bip_39_word_new_line5 | material
+clay
+awake
+west
+two |  
+| bip_39_word_new_line6 | material
+clay
+awake
+west
+two
+wrap |  
+| bip_39_word_new_line7 | material
+clay
+awake
+west
+two
+wrap
+endless |  
+| bip_39_word_new_line8 | material
+clay
+awake
+west
+two
+wrap
+endless
+basket |  
+| bip_39_word_new_line9 | material
+clay
+awake
+west
+two
+wrap
+endless
+basket
+pact |  
+| bip_39_word_space_0 | ['material', 'clay', 'awake', 'west', 'two', 'wrap', 'endless', 'basket', 'pact', 'start', 'leader', 'aunt'] |  
+| bip_39_word_space_1 | material |  
+| bip_39_word_space_10 | material clay awake west two wrap endless basket pact start |  
+| bip_39_word_space_11 | material clay awake west two wrap endless basket pact start leader |  
+| bip_39_word_space_12 | material clay awake west two wrap endless basket pact start leader aunt |  
+| bip_39_word_space_2 | material clay |  
+| bip_39_word_space_3 | material clay awake |  
+| bip_39_word_space_4 | material clay awake west |  
+| bip_39_word_space_5 | material clay awake west two |  
+| bip_39_word_space_6 | material clay awake west two wrap |  
+| bip_39_word_space_7 | material clay awake west two wrap endless |  
+| bip_39_word_space_8 | material clay awake west two wrap endless basket |  
+| bip_39_word_space_9 | material clay awake west two wrap endless basket pact |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

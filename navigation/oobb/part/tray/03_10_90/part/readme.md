@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: skull decade
+  * bip 39 word 3: skull decade midnight
+  * bip 39 word: skull decade midnight initial problem salt stable render pumpkin feel struggle ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | skull |  
+| bip_39_word_new_br10 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt<br>stable<br>render<br>pumpkin<br>feel |  
+| bip_39_word_new_br11 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt<br>stable<br>render<br>pumpkin<br>feel<br>struggle |  
+| bip_39_word_new_br12 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt<br>stable<br>render<br>pumpkin<br>feel<br>struggle<br>ankle |  
+| bip_39_word_new_br2 | skull<br>decade |  
+| bip_39_word_new_br3 | skull<br>decade<br>midnight |  
+| bip_39_word_new_br4 | skull<br>decade<br>midnight<br>initial |  
+| bip_39_word_new_br5 | skull<br>decade<br>midnight<br>initial<br>problem |  
+| bip_39_word_new_br6 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt |  
+| bip_39_word_new_br7 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt<br>stable |  
+| bip_39_word_new_br8 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt<br>stable<br>render |  
+| bip_39_word_new_br9 | skull<br>decade<br>midnight<br>initial<br>problem<br>salt<br>stable<br>render<br>pumpkin |  
+| bip_39_word_new_line1 | skull |  
+| bip_39_word_new_line10 | skull
+decade
+midnight
+initial
+problem
+salt
+stable
+render
+pumpkin
+feel |  
+| bip_39_word_new_line11 | skull
+decade
+midnight
+initial
+problem
+salt
+stable
+render
+pumpkin
+feel
+struggle |  
+| bip_39_word_new_line12 | skull
+decade
+midnight
+initial
+problem
+salt
+stable
+render
+pumpkin
+feel
+struggle
+ankle |  
+| bip_39_word_new_line2 | skull
+decade |  
+| bip_39_word_new_line3 | skull
+decade
+midnight |  
+| bip_39_word_new_line4 | skull
+decade
+midnight
+initial |  
+| bip_39_word_new_line5 | skull
+decade
+midnight
+initial
+problem |  
+| bip_39_word_new_line6 | skull
+decade
+midnight
+initial
+problem
+salt |  
+| bip_39_word_new_line7 | skull
+decade
+midnight
+initial
+problem
+salt
+stable |  
+| bip_39_word_new_line8 | skull
+decade
+midnight
+initial
+problem
+salt
+stable
+render |  
+| bip_39_word_new_line9 | skull
+decade
+midnight
+initial
+problem
+salt
+stable
+render
+pumpkin |  
+| bip_39_word_space_0 | ['skull', 'decade', 'midnight', 'initial', 'problem', 'salt', 'stable', 'render', 'pumpkin', 'feel', 'struggle', 'ankle'] |  
+| bip_39_word_space_1 | skull |  
+| bip_39_word_space_10 | skull decade midnight initial problem salt stable render pumpkin feel |  
+| bip_39_word_space_11 | skull decade midnight initial problem salt stable render pumpkin feel struggle |  
+| bip_39_word_space_12 | skull decade midnight initial problem salt stable render pumpkin feel struggle ankle |  
+| bip_39_word_space_2 | skull decade |  
+| bip_39_word_space_3 | skull decade midnight |  
+| bip_39_word_space_4 | skull decade midnight initial |  
+| bip_39_word_space_5 | skull decade midnight initial problem |  
+| bip_39_word_space_6 | skull decade midnight initial problem salt |  
+| bip_39_word_space_7 | skull decade midnight initial problem salt stable |  
+| bip_39_word_space_8 | skull decade midnight initial problem salt stable render |  
+| bip_39_word_space_9 | skull decade midnight initial problem salt stable render pumpkin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

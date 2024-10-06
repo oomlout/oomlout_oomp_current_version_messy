@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glide symptom
+  * bip 39 word 3: glide symptom explain
+  * bip 39 word: glide symptom explain drill search valley primary empower shield either build acquire
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glide |  
+| bip_39_word_new_br10 | glide<br>symptom<br>explain<br>drill<br>search<br>valley<br>primary<br>empower<br>shield<br>either |  
+| bip_39_word_new_br11 | glide<br>symptom<br>explain<br>drill<br>search<br>valley<br>primary<br>empower<br>shield<br>either<br>build |  
+| bip_39_word_new_br12 | glide<br>symptom<br>explain<br>drill<br>search<br>valley<br>primary<br>empower<br>shield<br>either<br>build<br>acquire |  
+| bip_39_word_new_br2 | glide<br>symptom |  
+| bip_39_word_new_br3 | glide<br>symptom<br>explain |  
+| bip_39_word_new_br4 | glide<br>symptom<br>explain<br>drill |  
+| bip_39_word_new_br5 | glide<br>symptom<br>explain<br>drill<br>search |  
+| bip_39_word_new_br6 | glide<br>symptom<br>explain<br>drill<br>search<br>valley |  
+| bip_39_word_new_br7 | glide<br>symptom<br>explain<br>drill<br>search<br>valley<br>primary |  
+| bip_39_word_new_br8 | glide<br>symptom<br>explain<br>drill<br>search<br>valley<br>primary<br>empower |  
+| bip_39_word_new_br9 | glide<br>symptom<br>explain<br>drill<br>search<br>valley<br>primary<br>empower<br>shield |  
+| bip_39_word_new_line1 | glide |  
+| bip_39_word_new_line10 | glide
+symptom
+explain
+drill
+search
+valley
+primary
+empower
+shield
+either |  
+| bip_39_word_new_line11 | glide
+symptom
+explain
+drill
+search
+valley
+primary
+empower
+shield
+either
+build |  
+| bip_39_word_new_line12 | glide
+symptom
+explain
+drill
+search
+valley
+primary
+empower
+shield
+either
+build
+acquire |  
+| bip_39_word_new_line2 | glide
+symptom |  
+| bip_39_word_new_line3 | glide
+symptom
+explain |  
+| bip_39_word_new_line4 | glide
+symptom
+explain
+drill |  
+| bip_39_word_new_line5 | glide
+symptom
+explain
+drill
+search |  
+| bip_39_word_new_line6 | glide
+symptom
+explain
+drill
+search
+valley |  
+| bip_39_word_new_line7 | glide
+symptom
+explain
+drill
+search
+valley
+primary |  
+| bip_39_word_new_line8 | glide
+symptom
+explain
+drill
+search
+valley
+primary
+empower |  
+| bip_39_word_new_line9 | glide
+symptom
+explain
+drill
+search
+valley
+primary
+empower
+shield |  
+| bip_39_word_space_0 | ['glide', 'symptom', 'explain', 'drill', 'search', 'valley', 'primary', 'empower', 'shield', 'either', 'build', 'acquire'] |  
+| bip_39_word_space_1 | glide |  
+| bip_39_word_space_10 | glide symptom explain drill search valley primary empower shield either |  
+| bip_39_word_space_11 | glide symptom explain drill search valley primary empower shield either build |  
+| bip_39_word_space_12 | glide symptom explain drill search valley primary empower shield either build acquire |  
+| bip_39_word_space_2 | glide symptom |  
+| bip_39_word_space_3 | glide symptom explain |  
+| bip_39_word_space_4 | glide symptom explain drill |  
+| bip_39_word_space_5 | glide symptom explain drill search |  
+| bip_39_word_space_6 | glide symptom explain drill search valley |  
+| bip_39_word_space_7 | glide symptom explain drill search valley primary |  
+| bip_39_word_space_8 | glide symptom explain drill search valley primary empower |  
+| bip_39_word_space_9 | glide symptom explain drill search valley primary empower shield |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

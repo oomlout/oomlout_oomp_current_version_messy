@@ -20,6 +20,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: majestic
   * part_number: 05385_pv11
+  * bip 39 word 2: eyebrow artefact
+  * bip 39 word 3: eyebrow artefact can
+  * bip 39 word: eyebrow artefact can theme attract doctor coconut baby dismiss invite tuna autumn
 
 ### other_codes
 * short_code: tcc30hl
@@ -31,6 +34,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | eyebrow |  
+| bip_39_word_new_br10 | eyebrow<br>artefact<br>can<br>theme<br>attract<br>doctor<br>coconut<br>baby<br>dismiss<br>invite |  
+| bip_39_word_new_br11 | eyebrow<br>artefact<br>can<br>theme<br>attract<br>doctor<br>coconut<br>baby<br>dismiss<br>invite<br>tuna |  
+| bip_39_word_new_br12 | eyebrow<br>artefact<br>can<br>theme<br>attract<br>doctor<br>coconut<br>baby<br>dismiss<br>invite<br>tuna<br>autumn |  
+| bip_39_word_new_br2 | eyebrow<br>artefact |  
+| bip_39_word_new_br3 | eyebrow<br>artefact<br>can |  
+| bip_39_word_new_br4 | eyebrow<br>artefact<br>can<br>theme |  
+| bip_39_word_new_br5 | eyebrow<br>artefact<br>can<br>theme<br>attract |  
+| bip_39_word_new_br6 | eyebrow<br>artefact<br>can<br>theme<br>attract<br>doctor |  
+| bip_39_word_new_br7 | eyebrow<br>artefact<br>can<br>theme<br>attract<br>doctor<br>coconut |  
+| bip_39_word_new_br8 | eyebrow<br>artefact<br>can<br>theme<br>attract<br>doctor<br>coconut<br>baby |  
+| bip_39_word_new_br9 | eyebrow<br>artefact<br>can<br>theme<br>attract<br>doctor<br>coconut<br>baby<br>dismiss |  
+| bip_39_word_new_line1 | eyebrow |  
+| bip_39_word_new_line10 | eyebrow
+artefact
+can
+theme
+attract
+doctor
+coconut
+baby
+dismiss
+invite |  
+| bip_39_word_new_line11 | eyebrow
+artefact
+can
+theme
+attract
+doctor
+coconut
+baby
+dismiss
+invite
+tuna |  
+| bip_39_word_new_line12 | eyebrow
+artefact
+can
+theme
+attract
+doctor
+coconut
+baby
+dismiss
+invite
+tuna
+autumn |  
+| bip_39_word_new_line2 | eyebrow
+artefact |  
+| bip_39_word_new_line3 | eyebrow
+artefact
+can |  
+| bip_39_word_new_line4 | eyebrow
+artefact
+can
+theme |  
+| bip_39_word_new_line5 | eyebrow
+artefact
+can
+theme
+attract |  
+| bip_39_word_new_line6 | eyebrow
+artefact
+can
+theme
+attract
+doctor |  
+| bip_39_word_new_line7 | eyebrow
+artefact
+can
+theme
+attract
+doctor
+coconut |  
+| bip_39_word_new_line8 | eyebrow
+artefact
+can
+theme
+attract
+doctor
+coconut
+baby |  
+| bip_39_word_new_line9 | eyebrow
+artefact
+can
+theme
+attract
+doctor
+coconut
+baby
+dismiss |  
+| bip_39_word_space_0 | ['eyebrow', 'artefact', 'can', 'theme', 'attract', 'doctor', 'coconut', 'baby', 'dismiss', 'invite', 'tuna', 'autumn'] |  
+| bip_39_word_space_1 | eyebrow |  
+| bip_39_word_space_10 | eyebrow artefact can theme attract doctor coconut baby dismiss invite |  
+| bip_39_word_space_11 | eyebrow artefact can theme attract doctor coconut baby dismiss invite tuna |  
+| bip_39_word_space_12 | eyebrow artefact can theme attract doctor coconut baby dismiss invite tuna autumn |  
+| bip_39_word_space_2 | eyebrow artefact |  
+| bip_39_word_space_3 | eyebrow artefact can |  
+| bip_39_word_space_4 | eyebrow artefact can theme |  
+| bip_39_word_space_5 | eyebrow artefact can theme attract |  
+| bip_39_word_space_6 | eyebrow artefact can theme attract doctor |  
+| bip_39_word_space_7 | eyebrow artefact can theme attract doctor coconut |  
+| bip_39_word_space_8 | eyebrow artefact can theme attract doctor coconut baby |  
+| bip_39_word_space_9 | eyebrow artefact can theme attract doctor coconut baby dismiss |  
 | classification | packaging |  
 | classification_capital | Packaging |  
 | classification_first_letter | p |  

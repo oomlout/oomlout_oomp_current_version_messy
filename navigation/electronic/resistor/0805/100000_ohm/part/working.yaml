@@ -1,3 +1,187 @@
+bip_39_word_new_br1: coil
+bip_39_word_new_br10: coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure
+bip_39_word_new_br11: coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure<br>slam
+bip_39_word_new_br12: coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable<br>leisure<br>slam<br>adjust
+bip_39_word_new_br2: coil<br>faculty
+bip_39_word_new_br3: coil<br>faculty<br>world
+bip_39_word_new_br4: coil<br>faculty<br>world<br>credit
+bip_39_word_new_br5: coil<br>faculty<br>world<br>credit<br>bundle
+bip_39_word_new_br6: coil<br>faculty<br>world<br>credit<br>bundle<br>another
+bip_39_word_new_br7: coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second
+bip_39_word_new_br8: coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm
+bip_39_word_new_br9: coil<br>faculty<br>world<br>credit<br>bundle<br>another<br>second<br>arm<br>notable
+bip_39_word_new_line1: coil
+bip_39_word_new_line10: 'coil
+
+  faculty
+
+  world
+
+  credit
+
+  bundle
+
+  another
+
+  second
+
+  arm
+
+  notable
+
+  leisure'
+bip_39_word_new_line11: 'coil
+
+  faculty
+
+  world
+
+  credit
+
+  bundle
+
+  another
+
+  second
+
+  arm
+
+  notable
+
+  leisure
+
+  slam'
+bip_39_word_new_line12: 'coil
+
+  faculty
+
+  world
+
+  credit
+
+  bundle
+
+  another
+
+  second
+
+  arm
+
+  notable
+
+  leisure
+
+  slam
+
+  adjust'
+bip_39_word_new_line2: 'coil
+
+  faculty'
+bip_39_word_new_line3: 'coil
+
+  faculty
+
+  world'
+bip_39_word_new_line4: 'coil
+
+  faculty
+
+  world
+
+  credit'
+bip_39_word_new_line5: 'coil
+
+  faculty
+
+  world
+
+  credit
+
+  bundle'
+bip_39_word_new_line6: 'coil
+
+  faculty
+
+  world
+
+  credit
+
+  bundle
+
+  another'
+bip_39_word_new_line7: 'coil
+
+  faculty
+
+  world
+
+  credit
+
+  bundle
+
+  another
+
+  second'
+bip_39_word_new_line8: 'coil
+
+  faculty
+
+  world
+
+  credit
+
+  bundle
+
+  another
+
+  second
+
+  arm'
+bip_39_word_new_line9: 'coil
+
+  faculty
+
+  world
+
+  credit
+
+  bundle
+
+  another
+
+  second
+
+  arm
+
+  notable'
+bip_39_word_space_0:
+- coil
+- faculty
+- world
+- credit
+- bundle
+- another
+- second
+- arm
+- notable
+- leisure
+- slam
+- adjust
+bip_39_word_space_1: coil
+bip_39_word_space_10: coil faculty world credit bundle another second arm notable
+  leisure
+bip_39_word_space_11: coil faculty world credit bundle another second arm notable
+  leisure slam
+bip_39_word_space_12: coil faculty world credit bundle another second arm notable
+  leisure slam adjust
+bip_39_word_space_2: coil faculty
+bip_39_word_space_3: coil faculty world
+bip_39_word_space_4: coil faculty world credit
+bip_39_word_space_5: coil faculty world credit bundle
+bip_39_word_space_6: coil faculty world credit bundle another
+bip_39_word_space_7: coil faculty world credit bundle another second
+bip_39_word_space_8: coil faculty world credit bundle another second arm
+bip_39_word_space_9: coil faculty world credit bundle another second arm notable
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

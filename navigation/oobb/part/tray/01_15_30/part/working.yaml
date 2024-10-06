@@ -1,3 +1,186 @@
+bip_39_word_new_br1: nurse
+bip_39_word_new_br10: nurse<br>pudding<br>chief<br>day<br>idle<br>vault<br>involve<br>few<br>invite<br>useless
+bip_39_word_new_br11: nurse<br>pudding<br>chief<br>day<br>idle<br>vault<br>involve<br>few<br>invite<br>useless<br>fresh
+bip_39_word_new_br12: nurse<br>pudding<br>chief<br>day<br>idle<br>vault<br>involve<br>few<br>invite<br>useless<br>fresh<br>attitude
+bip_39_word_new_br2: nurse<br>pudding
+bip_39_word_new_br3: nurse<br>pudding<br>chief
+bip_39_word_new_br4: nurse<br>pudding<br>chief<br>day
+bip_39_word_new_br5: nurse<br>pudding<br>chief<br>day<br>idle
+bip_39_word_new_br6: nurse<br>pudding<br>chief<br>day<br>idle<br>vault
+bip_39_word_new_br7: nurse<br>pudding<br>chief<br>day<br>idle<br>vault<br>involve
+bip_39_word_new_br8: nurse<br>pudding<br>chief<br>day<br>idle<br>vault<br>involve<br>few
+bip_39_word_new_br9: nurse<br>pudding<br>chief<br>day<br>idle<br>vault<br>involve<br>few<br>invite
+bip_39_word_new_line1: nurse
+bip_39_word_new_line10: 'nurse
+
+  pudding
+
+  chief
+
+  day
+
+  idle
+
+  vault
+
+  involve
+
+  few
+
+  invite
+
+  useless'
+bip_39_word_new_line11: 'nurse
+
+  pudding
+
+  chief
+
+  day
+
+  idle
+
+  vault
+
+  involve
+
+  few
+
+  invite
+
+  useless
+
+  fresh'
+bip_39_word_new_line12: 'nurse
+
+  pudding
+
+  chief
+
+  day
+
+  idle
+
+  vault
+
+  involve
+
+  few
+
+  invite
+
+  useless
+
+  fresh
+
+  attitude'
+bip_39_word_new_line2: 'nurse
+
+  pudding'
+bip_39_word_new_line3: 'nurse
+
+  pudding
+
+  chief'
+bip_39_word_new_line4: 'nurse
+
+  pudding
+
+  chief
+
+  day'
+bip_39_word_new_line5: 'nurse
+
+  pudding
+
+  chief
+
+  day
+
+  idle'
+bip_39_word_new_line6: 'nurse
+
+  pudding
+
+  chief
+
+  day
+
+  idle
+
+  vault'
+bip_39_word_new_line7: 'nurse
+
+  pudding
+
+  chief
+
+  day
+
+  idle
+
+  vault
+
+  involve'
+bip_39_word_new_line8: 'nurse
+
+  pudding
+
+  chief
+
+  day
+
+  idle
+
+  vault
+
+  involve
+
+  few'
+bip_39_word_new_line9: 'nurse
+
+  pudding
+
+  chief
+
+  day
+
+  idle
+
+  vault
+
+  involve
+
+  few
+
+  invite'
+bip_39_word_space_0:
+- nurse
+- pudding
+- chief
+- day
+- idle
+- vault
+- involve
+- few
+- invite
+- useless
+- fresh
+- attitude
+bip_39_word_space_1: nurse
+bip_39_word_space_10: nurse pudding chief day idle vault involve few invite useless
+bip_39_word_space_11: nurse pudding chief day idle vault involve few invite useless
+  fresh
+bip_39_word_space_12: nurse pudding chief day idle vault involve few invite useless
+  fresh attitude
+bip_39_word_space_2: nurse pudding
+bip_39_word_space_3: nurse pudding chief
+bip_39_word_space_4: nurse pudding chief day
+bip_39_word_space_5: nurse pudding chief day idle
+bip_39_word_space_6: nurse pudding chief day idle vault
+bip_39_word_space_7: nurse pudding chief day idle vault involve
+bip_39_word_space_8: nurse pudding chief day idle vault involve few
+bip_39_word_space_9: nurse pudding chief day idle vault involve few invite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: toe
+bip_39_word_new_br10: toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define
+bip_39_word_new_br11: toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define<br>school
+bip_39_word_new_br12: toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill<br>define<br>school<br>able
+bip_39_word_new_br2: toe<br>strategy
+bip_39_word_new_br3: toe<br>strategy<br>sight
+bip_39_word_new_br4: toe<br>strategy<br>sight<br>become
+bip_39_word_new_br5: toe<br>strategy<br>sight<br>become<br>clip
+bip_39_word_new_br6: toe<br>strategy<br>sight<br>become<br>clip<br>pepper
+bip_39_word_new_br7: toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot
+bip_39_word_new_br8: toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer
+bip_39_word_new_br9: toe<br>strategy<br>sight<br>become<br>clip<br>pepper<br>parrot<br>deer<br>ill
+bip_39_word_new_line1: toe
+bip_39_word_new_line10: 'toe
+
+  strategy
+
+  sight
+
+  become
+
+  clip
+
+  pepper
+
+  parrot
+
+  deer
+
+  ill
+
+  define'
+bip_39_word_new_line11: 'toe
+
+  strategy
+
+  sight
+
+  become
+
+  clip
+
+  pepper
+
+  parrot
+
+  deer
+
+  ill
+
+  define
+
+  school'
+bip_39_word_new_line12: 'toe
+
+  strategy
+
+  sight
+
+  become
+
+  clip
+
+  pepper
+
+  parrot
+
+  deer
+
+  ill
+
+  define
+
+  school
+
+  able'
+bip_39_word_new_line2: 'toe
+
+  strategy'
+bip_39_word_new_line3: 'toe
+
+  strategy
+
+  sight'
+bip_39_word_new_line4: 'toe
+
+  strategy
+
+  sight
+
+  become'
+bip_39_word_new_line5: 'toe
+
+  strategy
+
+  sight
+
+  become
+
+  clip'
+bip_39_word_new_line6: 'toe
+
+  strategy
+
+  sight
+
+  become
+
+  clip
+
+  pepper'
+bip_39_word_new_line7: 'toe
+
+  strategy
+
+  sight
+
+  become
+
+  clip
+
+  pepper
+
+  parrot'
+bip_39_word_new_line8: 'toe
+
+  strategy
+
+  sight
+
+  become
+
+  clip
+
+  pepper
+
+  parrot
+
+  deer'
+bip_39_word_new_line9: 'toe
+
+  strategy
+
+  sight
+
+  become
+
+  clip
+
+  pepper
+
+  parrot
+
+  deer
+
+  ill'
+bip_39_word_space_0:
+- toe
+- strategy
+- sight
+- become
+- clip
+- pepper
+- parrot
+- deer
+- ill
+- define
+- school
+- able
+bip_39_word_space_1: toe
+bip_39_word_space_10: toe strategy sight become clip pepper parrot deer ill define
+bip_39_word_space_11: toe strategy sight become clip pepper parrot deer ill define
+  school
+bip_39_word_space_12: toe strategy sight become clip pepper parrot deer ill define
+  school able
+bip_39_word_space_2: toe strategy
+bip_39_word_space_3: toe strategy sight
+bip_39_word_space_4: toe strategy sight become
+bip_39_word_space_5: toe strategy sight become clip
+bip_39_word_space_6: toe strategy sight become clip pepper
+bip_39_word_space_7: toe strategy sight become clip pepper parrot
+bip_39_word_space_8: toe strategy sight become clip pepper parrot deer
+bip_39_word_space_9: toe strategy sight become clip pepper parrot deer ill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: capable
+bip_39_word_new_br10: capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn
+bip_39_word_new_br11: capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn<br>road
+bip_39_word_new_br12: capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp<br>earn<br>road<br>alcohol
+bip_39_word_new_br2: capable<br>balance
+bip_39_word_new_br3: capable<br>balance<br>advance
+bip_39_word_new_br4: capable<br>balance<br>advance<br>allow
+bip_39_word_new_br5: capable<br>balance<br>advance<br>allow<br>very
+bip_39_word_new_br6: capable<br>balance<br>advance<br>allow<br>very<br>river
+bip_39_word_new_br7: capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap
+bip_39_word_new_br8: capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi
+bip_39_word_new_br9: capable<br>balance<br>advance<br>allow<br>very<br>river<br>swap<br>satoshi<br>wasp
+bip_39_word_new_line1: capable
+bip_39_word_new_line10: 'capable
+
+  balance
+
+  advance
+
+  allow
+
+  very
+
+  river
+
+  swap
+
+  satoshi
+
+  wasp
+
+  earn'
+bip_39_word_new_line11: 'capable
+
+  balance
+
+  advance
+
+  allow
+
+  very
+
+  river
+
+  swap
+
+  satoshi
+
+  wasp
+
+  earn
+
+  road'
+bip_39_word_new_line12: 'capable
+
+  balance
+
+  advance
+
+  allow
+
+  very
+
+  river
+
+  swap
+
+  satoshi
+
+  wasp
+
+  earn
+
+  road
+
+  alcohol'
+bip_39_word_new_line2: 'capable
+
+  balance'
+bip_39_word_new_line3: 'capable
+
+  balance
+
+  advance'
+bip_39_word_new_line4: 'capable
+
+  balance
+
+  advance
+
+  allow'
+bip_39_word_new_line5: 'capable
+
+  balance
+
+  advance
+
+  allow
+
+  very'
+bip_39_word_new_line6: 'capable
+
+  balance
+
+  advance
+
+  allow
+
+  very
+
+  river'
+bip_39_word_new_line7: 'capable
+
+  balance
+
+  advance
+
+  allow
+
+  very
+
+  river
+
+  swap'
+bip_39_word_new_line8: 'capable
+
+  balance
+
+  advance
+
+  allow
+
+  very
+
+  river
+
+  swap
+
+  satoshi'
+bip_39_word_new_line9: 'capable
+
+  balance
+
+  advance
+
+  allow
+
+  very
+
+  river
+
+  swap
+
+  satoshi
+
+  wasp'
+bip_39_word_space_0:
+- capable
+- balance
+- advance
+- allow
+- very
+- river
+- swap
+- satoshi
+- wasp
+- earn
+- road
+- alcohol
+bip_39_word_space_1: capable
+bip_39_word_space_10: capable balance advance allow very river swap satoshi wasp earn
+bip_39_word_space_11: capable balance advance allow very river swap satoshi wasp earn
+  road
+bip_39_word_space_12: capable balance advance allow very river swap satoshi wasp earn
+  road alcohol
+bip_39_word_space_2: capable balance
+bip_39_word_space_3: capable balance advance
+bip_39_word_space_4: capable balance advance allow
+bip_39_word_space_5: capable balance advance allow very
+bip_39_word_space_6: capable balance advance allow very river
+bip_39_word_space_7: capable balance advance allow very river swap
+bip_39_word_space_8: capable balance advance allow very river swap satoshi
+bip_39_word_space_9: capable balance advance allow very river swap satoshi wasp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

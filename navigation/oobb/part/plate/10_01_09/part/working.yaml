@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lobster
+bip_39_word_new_br10: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe<br>payment
+bip_39_word_new_br11: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe<br>payment<br>rocket
+bip_39_word_new_br12: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe<br>payment<br>rocket<br>antique
+bip_39_word_new_br2: lobster<br>settle
+bip_39_word_new_br3: lobster<br>settle<br>stool
+bip_39_word_new_br4: lobster<br>settle<br>stool<br>frame
+bip_39_word_new_br5: lobster<br>settle<br>stool<br>frame<br>stay
+bip_39_word_new_br6: lobster<br>settle<br>stool<br>frame<br>stay<br>script
+bip_39_word_new_br7: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround
+bip_39_word_new_br8: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale
+bip_39_word_new_br9: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe
+bip_39_word_new_line1: lobster
+bip_39_word_new_line10: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale
+
+  describe
+
+  payment'
+bip_39_word_new_line11: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale
+
+  describe
+
+  payment
+
+  rocket'
+bip_39_word_new_line12: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale
+
+  describe
+
+  payment
+
+  rocket
+
+  antique'
+bip_39_word_new_line2: 'lobster
+
+  settle'
+bip_39_word_new_line3: 'lobster
+
+  settle
+
+  stool'
+bip_39_word_new_line4: 'lobster
+
+  settle
+
+  stool
+
+  frame'
+bip_39_word_new_line5: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay'
+bip_39_word_new_line6: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script'
+bip_39_word_new_line7: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround'
+bip_39_word_new_line8: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale'
+bip_39_word_new_line9: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale
+
+  describe'
+bip_39_word_space_0:
+- lobster
+- settle
+- stool
+- frame
+- stay
+- script
+- surround
+- scale
+- describe
+- payment
+- rocket
+- antique
+bip_39_word_space_1: lobster
+bip_39_word_space_10: lobster settle stool frame stay script surround scale describe
+  payment
+bip_39_word_space_11: lobster settle stool frame stay script surround scale describe
+  payment rocket
+bip_39_word_space_12: lobster settle stool frame stay script surround scale describe
+  payment rocket antique
+bip_39_word_space_2: lobster settle
+bip_39_word_space_3: lobster settle stool
+bip_39_word_space_4: lobster settle stool frame
+bip_39_word_space_5: lobster settle stool frame stay
+bip_39_word_space_6: lobster settle stool frame stay script
+bip_39_word_space_7: lobster settle stool frame stay script surround
+bip_39_word_space_8: lobster settle stool frame stay script surround scale
+bip_39_word_space_9: lobster settle stool frame stay script surround scale describe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: donor patient
+  * bip 39 word 3: donor patient tissue
+  * bip 39 word: donor patient tissue tomato world funny glove napkin casual giggle pepper artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | donor |  
+| bip_39_word_new_br10 | donor<br>patient<br>tissue<br>tomato<br>world<br>funny<br>glove<br>napkin<br>casual<br>giggle |  
+| bip_39_word_new_br11 | donor<br>patient<br>tissue<br>tomato<br>world<br>funny<br>glove<br>napkin<br>casual<br>giggle<br>pepper |  
+| bip_39_word_new_br12 | donor<br>patient<br>tissue<br>tomato<br>world<br>funny<br>glove<br>napkin<br>casual<br>giggle<br>pepper<br>artist |  
+| bip_39_word_new_br2 | donor<br>patient |  
+| bip_39_word_new_br3 | donor<br>patient<br>tissue |  
+| bip_39_word_new_br4 | donor<br>patient<br>tissue<br>tomato |  
+| bip_39_word_new_br5 | donor<br>patient<br>tissue<br>tomato<br>world |  
+| bip_39_word_new_br6 | donor<br>patient<br>tissue<br>tomato<br>world<br>funny |  
+| bip_39_word_new_br7 | donor<br>patient<br>tissue<br>tomato<br>world<br>funny<br>glove |  
+| bip_39_word_new_br8 | donor<br>patient<br>tissue<br>tomato<br>world<br>funny<br>glove<br>napkin |  
+| bip_39_word_new_br9 | donor<br>patient<br>tissue<br>tomato<br>world<br>funny<br>glove<br>napkin<br>casual |  
+| bip_39_word_new_line1 | donor |  
+| bip_39_word_new_line10 | donor
+patient
+tissue
+tomato
+world
+funny
+glove
+napkin
+casual
+giggle |  
+| bip_39_word_new_line11 | donor
+patient
+tissue
+tomato
+world
+funny
+glove
+napkin
+casual
+giggle
+pepper |  
+| bip_39_word_new_line12 | donor
+patient
+tissue
+tomato
+world
+funny
+glove
+napkin
+casual
+giggle
+pepper
+artist |  
+| bip_39_word_new_line2 | donor
+patient |  
+| bip_39_word_new_line3 | donor
+patient
+tissue |  
+| bip_39_word_new_line4 | donor
+patient
+tissue
+tomato |  
+| bip_39_word_new_line5 | donor
+patient
+tissue
+tomato
+world |  
+| bip_39_word_new_line6 | donor
+patient
+tissue
+tomato
+world
+funny |  
+| bip_39_word_new_line7 | donor
+patient
+tissue
+tomato
+world
+funny
+glove |  
+| bip_39_word_new_line8 | donor
+patient
+tissue
+tomato
+world
+funny
+glove
+napkin |  
+| bip_39_word_new_line9 | donor
+patient
+tissue
+tomato
+world
+funny
+glove
+napkin
+casual |  
+| bip_39_word_space_0 | ['donor', 'patient', 'tissue', 'tomato', 'world', 'funny', 'glove', 'napkin', 'casual', 'giggle', 'pepper', 'artist'] |  
+| bip_39_word_space_1 | donor |  
+| bip_39_word_space_10 | donor patient tissue tomato world funny glove napkin casual giggle |  
+| bip_39_word_space_11 | donor patient tissue tomato world funny glove napkin casual giggle pepper |  
+| bip_39_word_space_12 | donor patient tissue tomato world funny glove napkin casual giggle pepper artist |  
+| bip_39_word_space_2 | donor patient |  
+| bip_39_word_space_3 | donor patient tissue |  
+| bip_39_word_space_4 | donor patient tissue tomato |  
+| bip_39_word_space_5 | donor patient tissue tomato world |  
+| bip_39_word_space_6 | donor patient tissue tomato world funny |  
+| bip_39_word_space_7 | donor patient tissue tomato world funny glove |  
+| bip_39_word_space_8 | donor patient tissue tomato world funny glove napkin |  
+| bip_39_word_space_9 | donor patient tissue tomato world funny glove napkin casual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

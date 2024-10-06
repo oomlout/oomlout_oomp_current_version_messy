@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wheel
+bip_39_word_new_br10: wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge
+bip_39_word_new_br11: wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge<br>reform
+bip_39_word_new_br12: wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise<br>bridge<br>reform<br>amused
+bip_39_word_new_br2: wheel<br>course
+bip_39_word_new_br3: wheel<br>course<br>diary
+bip_39_word_new_br4: wheel<br>course<br>diary<br>quote
+bip_39_word_new_br5: wheel<br>course<br>diary<br>quote<br>rug
+bip_39_word_new_br6: wheel<br>course<br>diary<br>quote<br>rug<br>debate
+bip_39_word_new_br7: wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue
+bip_39_word_new_br8: wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase
+bip_39_word_new_br9: wheel<br>course<br>diary<br>quote<br>rug<br>debate<br>rescue<br>erase<br>praise
+bip_39_word_new_line1: wheel
+bip_39_word_new_line10: 'wheel
+
+  course
+
+  diary
+
+  quote
+
+  rug
+
+  debate
+
+  rescue
+
+  erase
+
+  praise
+
+  bridge'
+bip_39_word_new_line11: 'wheel
+
+  course
+
+  diary
+
+  quote
+
+  rug
+
+  debate
+
+  rescue
+
+  erase
+
+  praise
+
+  bridge
+
+  reform'
+bip_39_word_new_line12: 'wheel
+
+  course
+
+  diary
+
+  quote
+
+  rug
+
+  debate
+
+  rescue
+
+  erase
+
+  praise
+
+  bridge
+
+  reform
+
+  amused'
+bip_39_word_new_line2: 'wheel
+
+  course'
+bip_39_word_new_line3: 'wheel
+
+  course
+
+  diary'
+bip_39_word_new_line4: 'wheel
+
+  course
+
+  diary
+
+  quote'
+bip_39_word_new_line5: 'wheel
+
+  course
+
+  diary
+
+  quote
+
+  rug'
+bip_39_word_new_line6: 'wheel
+
+  course
+
+  diary
+
+  quote
+
+  rug
+
+  debate'
+bip_39_word_new_line7: 'wheel
+
+  course
+
+  diary
+
+  quote
+
+  rug
+
+  debate
+
+  rescue'
+bip_39_word_new_line8: 'wheel
+
+  course
+
+  diary
+
+  quote
+
+  rug
+
+  debate
+
+  rescue
+
+  erase'
+bip_39_word_new_line9: 'wheel
+
+  course
+
+  diary
+
+  quote
+
+  rug
+
+  debate
+
+  rescue
+
+  erase
+
+  praise'
+bip_39_word_space_0:
+- wheel
+- course
+- diary
+- quote
+- rug
+- debate
+- rescue
+- erase
+- praise
+- bridge
+- reform
+- amused
+bip_39_word_space_1: wheel
+bip_39_word_space_10: wheel course diary quote rug debate rescue erase praise bridge
+bip_39_word_space_11: wheel course diary quote rug debate rescue erase praise bridge
+  reform
+bip_39_word_space_12: wheel course diary quote rug debate rescue erase praise bridge
+  reform amused
+bip_39_word_space_2: wheel course
+bip_39_word_space_3: wheel course diary
+bip_39_word_space_4: wheel course diary quote
+bip_39_word_space_5: wheel course diary quote rug
+bip_39_word_space_6: wheel course diary quote rug debate
+bip_39_word_space_7: wheel course diary quote rug debate rescue
+bip_39_word_space_8: wheel course diary quote rug debate rescue erase
+bip_39_word_space_9: wheel course diary quote rug debate rescue erase praise
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

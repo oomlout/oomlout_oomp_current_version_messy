@@ -1,3 +1,186 @@
+bip_39_word_new_br1: business
+bip_39_word_new_br10: business<br>stone<br>same<br>couple<br>man<br>alone<br>bring<br>course<br>chase<br>hope
+bip_39_word_new_br11: business<br>stone<br>same<br>couple<br>man<br>alone<br>bring<br>course<br>chase<br>hope<br>plug
+bip_39_word_new_br12: business<br>stone<br>same<br>couple<br>man<br>alone<br>bring<br>course<br>chase<br>hope<br>plug<br>album
+bip_39_word_new_br2: business<br>stone
+bip_39_word_new_br3: business<br>stone<br>same
+bip_39_word_new_br4: business<br>stone<br>same<br>couple
+bip_39_word_new_br5: business<br>stone<br>same<br>couple<br>man
+bip_39_word_new_br6: business<br>stone<br>same<br>couple<br>man<br>alone
+bip_39_word_new_br7: business<br>stone<br>same<br>couple<br>man<br>alone<br>bring
+bip_39_word_new_br8: business<br>stone<br>same<br>couple<br>man<br>alone<br>bring<br>course
+bip_39_word_new_br9: business<br>stone<br>same<br>couple<br>man<br>alone<br>bring<br>course<br>chase
+bip_39_word_new_line1: business
+bip_39_word_new_line10: 'business
+
+  stone
+
+  same
+
+  couple
+
+  man
+
+  alone
+
+  bring
+
+  course
+
+  chase
+
+  hope'
+bip_39_word_new_line11: 'business
+
+  stone
+
+  same
+
+  couple
+
+  man
+
+  alone
+
+  bring
+
+  course
+
+  chase
+
+  hope
+
+  plug'
+bip_39_word_new_line12: 'business
+
+  stone
+
+  same
+
+  couple
+
+  man
+
+  alone
+
+  bring
+
+  course
+
+  chase
+
+  hope
+
+  plug
+
+  album'
+bip_39_word_new_line2: 'business
+
+  stone'
+bip_39_word_new_line3: 'business
+
+  stone
+
+  same'
+bip_39_word_new_line4: 'business
+
+  stone
+
+  same
+
+  couple'
+bip_39_word_new_line5: 'business
+
+  stone
+
+  same
+
+  couple
+
+  man'
+bip_39_word_new_line6: 'business
+
+  stone
+
+  same
+
+  couple
+
+  man
+
+  alone'
+bip_39_word_new_line7: 'business
+
+  stone
+
+  same
+
+  couple
+
+  man
+
+  alone
+
+  bring'
+bip_39_word_new_line8: 'business
+
+  stone
+
+  same
+
+  couple
+
+  man
+
+  alone
+
+  bring
+
+  course'
+bip_39_word_new_line9: 'business
+
+  stone
+
+  same
+
+  couple
+
+  man
+
+  alone
+
+  bring
+
+  course
+
+  chase'
+bip_39_word_space_0:
+- business
+- stone
+- same
+- couple
+- man
+- alone
+- bring
+- course
+- chase
+- hope
+- plug
+- album
+bip_39_word_space_1: business
+bip_39_word_space_10: business stone same couple man alone bring course chase hope
+bip_39_word_space_11: business stone same couple man alone bring course chase hope
+  plug
+bip_39_word_space_12: business stone same couple man alone bring course chase hope
+  plug album
+bip_39_word_space_2: business stone
+bip_39_word_space_3: business stone same
+bip_39_word_space_4: business stone same couple
+bip_39_word_space_5: business stone same couple man
+bip_39_word_space_6: business stone same couple man alone
+bip_39_word_space_7: business stone same couple man alone bring
+bip_39_word_space_8: business stone same couple man alone bring course
+bip_39_word_space_9: business stone same couple man alone bring course chase
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

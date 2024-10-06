@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brave derive
+  * bip 39 word 3: brave derive type
+  * bip 39 word: brave derive type various clip luxury puzzle adjust type weekend rose affair
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brave |  
+| bip_39_word_new_br10 | brave<br>derive<br>type<br>various<br>clip<br>luxury<br>puzzle<br>adjust<br>type<br>weekend |  
+| bip_39_word_new_br11 | brave<br>derive<br>type<br>various<br>clip<br>luxury<br>puzzle<br>adjust<br>type<br>weekend<br>rose |  
+| bip_39_word_new_br12 | brave<br>derive<br>type<br>various<br>clip<br>luxury<br>puzzle<br>adjust<br>type<br>weekend<br>rose<br>affair |  
+| bip_39_word_new_br2 | brave<br>derive |  
+| bip_39_word_new_br3 | brave<br>derive<br>type |  
+| bip_39_word_new_br4 | brave<br>derive<br>type<br>various |  
+| bip_39_word_new_br5 | brave<br>derive<br>type<br>various<br>clip |  
+| bip_39_word_new_br6 | brave<br>derive<br>type<br>various<br>clip<br>luxury |  
+| bip_39_word_new_br7 | brave<br>derive<br>type<br>various<br>clip<br>luxury<br>puzzle |  
+| bip_39_word_new_br8 | brave<br>derive<br>type<br>various<br>clip<br>luxury<br>puzzle<br>adjust |  
+| bip_39_word_new_br9 | brave<br>derive<br>type<br>various<br>clip<br>luxury<br>puzzle<br>adjust<br>type |  
+| bip_39_word_new_line1 | brave |  
+| bip_39_word_new_line10 | brave
+derive
+type
+various
+clip
+luxury
+puzzle
+adjust
+type
+weekend |  
+| bip_39_word_new_line11 | brave
+derive
+type
+various
+clip
+luxury
+puzzle
+adjust
+type
+weekend
+rose |  
+| bip_39_word_new_line12 | brave
+derive
+type
+various
+clip
+luxury
+puzzle
+adjust
+type
+weekend
+rose
+affair |  
+| bip_39_word_new_line2 | brave
+derive |  
+| bip_39_word_new_line3 | brave
+derive
+type |  
+| bip_39_word_new_line4 | brave
+derive
+type
+various |  
+| bip_39_word_new_line5 | brave
+derive
+type
+various
+clip |  
+| bip_39_word_new_line6 | brave
+derive
+type
+various
+clip
+luxury |  
+| bip_39_word_new_line7 | brave
+derive
+type
+various
+clip
+luxury
+puzzle |  
+| bip_39_word_new_line8 | brave
+derive
+type
+various
+clip
+luxury
+puzzle
+adjust |  
+| bip_39_word_new_line9 | brave
+derive
+type
+various
+clip
+luxury
+puzzle
+adjust
+type |  
+| bip_39_word_space_0 | ['brave', 'derive', 'type', 'various', 'clip', 'luxury', 'puzzle', 'adjust', 'type', 'weekend', 'rose', 'affair'] |  
+| bip_39_word_space_1 | brave |  
+| bip_39_word_space_10 | brave derive type various clip luxury puzzle adjust type weekend |  
+| bip_39_word_space_11 | brave derive type various clip luxury puzzle adjust type weekend rose |  
+| bip_39_word_space_12 | brave derive type various clip luxury puzzle adjust type weekend rose affair |  
+| bip_39_word_space_2 | brave derive |  
+| bip_39_word_space_3 | brave derive type |  
+| bip_39_word_space_4 | brave derive type various |  
+| bip_39_word_space_5 | brave derive type various clip |  
+| bip_39_word_space_6 | brave derive type various clip luxury |  
+| bip_39_word_space_7 | brave derive type various clip luxury puzzle |  
+| bip_39_word_space_8 | brave derive type various clip luxury puzzle adjust |  
+| bip_39_word_space_9 | brave derive type various clip luxury puzzle adjust type |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

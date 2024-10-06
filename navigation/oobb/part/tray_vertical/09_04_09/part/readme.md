@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: evoke until
+  * bip 39 word 3: evoke until artefact
+  * bip 39 word: evoke until artefact female glare ensure club brand bike trigger luxury angry
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | evoke |  
+| bip_39_word_new_br10 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure<br>club<br>brand<br>bike<br>trigger |  
+| bip_39_word_new_br11 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure<br>club<br>brand<br>bike<br>trigger<br>luxury |  
+| bip_39_word_new_br12 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure<br>club<br>brand<br>bike<br>trigger<br>luxury<br>angry |  
+| bip_39_word_new_br2 | evoke<br>until |  
+| bip_39_word_new_br3 | evoke<br>until<br>artefact |  
+| bip_39_word_new_br4 | evoke<br>until<br>artefact<br>female |  
+| bip_39_word_new_br5 | evoke<br>until<br>artefact<br>female<br>glare |  
+| bip_39_word_new_br6 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure |  
+| bip_39_word_new_br7 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure<br>club |  
+| bip_39_word_new_br8 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure<br>club<br>brand |  
+| bip_39_word_new_br9 | evoke<br>until<br>artefact<br>female<br>glare<br>ensure<br>club<br>brand<br>bike |  
+| bip_39_word_new_line1 | evoke |  
+| bip_39_word_new_line10 | evoke
+until
+artefact
+female
+glare
+ensure
+club
+brand
+bike
+trigger |  
+| bip_39_word_new_line11 | evoke
+until
+artefact
+female
+glare
+ensure
+club
+brand
+bike
+trigger
+luxury |  
+| bip_39_word_new_line12 | evoke
+until
+artefact
+female
+glare
+ensure
+club
+brand
+bike
+trigger
+luxury
+angry |  
+| bip_39_word_new_line2 | evoke
+until |  
+| bip_39_word_new_line3 | evoke
+until
+artefact |  
+| bip_39_word_new_line4 | evoke
+until
+artefact
+female |  
+| bip_39_word_new_line5 | evoke
+until
+artefact
+female
+glare |  
+| bip_39_word_new_line6 | evoke
+until
+artefact
+female
+glare
+ensure |  
+| bip_39_word_new_line7 | evoke
+until
+artefact
+female
+glare
+ensure
+club |  
+| bip_39_word_new_line8 | evoke
+until
+artefact
+female
+glare
+ensure
+club
+brand |  
+| bip_39_word_new_line9 | evoke
+until
+artefact
+female
+glare
+ensure
+club
+brand
+bike |  
+| bip_39_word_space_0 | ['evoke', 'until', 'artefact', 'female', 'glare', 'ensure', 'club', 'brand', 'bike', 'trigger', 'luxury', 'angry'] |  
+| bip_39_word_space_1 | evoke |  
+| bip_39_word_space_10 | evoke until artefact female glare ensure club brand bike trigger |  
+| bip_39_word_space_11 | evoke until artefact female glare ensure club brand bike trigger luxury |  
+| bip_39_word_space_12 | evoke until artefact female glare ensure club brand bike trigger luxury angry |  
+| bip_39_word_space_2 | evoke until |  
+| bip_39_word_space_3 | evoke until artefact |  
+| bip_39_word_space_4 | evoke until artefact female |  
+| bip_39_word_space_5 | evoke until artefact female glare |  
+| bip_39_word_space_6 | evoke until artefact female glare ensure |  
+| bip_39_word_space_7 | evoke until artefact female glare ensure club |  
+| bip_39_word_space_8 | evoke until artefact female glare ensure club brand |  
+| bip_39_word_space_9 | evoke until artefact female glare ensure club brand bike |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

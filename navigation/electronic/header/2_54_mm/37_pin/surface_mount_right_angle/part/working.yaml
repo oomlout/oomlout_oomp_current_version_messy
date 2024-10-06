@@ -1,3 +1,187 @@
+bip_39_word_new_br1: deliver
+bip_39_word_new_br10: deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry
+bip_39_word_new_br11: deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry<br>advance
+bip_39_word_new_br12: deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket<br>industry<br>advance<br>arctic
+bip_39_word_new_br2: deliver<br>day
+bip_39_word_new_br3: deliver<br>day<br>category
+bip_39_word_new_br4: deliver<br>day<br>category<br>surround
+bip_39_word_new_br5: deliver<br>day<br>category<br>surround<br>sense
+bip_39_word_new_br6: deliver<br>day<br>category<br>surround<br>sense<br>ride
+bip_39_word_new_br7: deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile
+bip_39_word_new_br8: deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry
+bip_39_word_new_br9: deliver<br>day<br>category<br>surround<br>sense<br>ride<br>exile<br>entry<br>ticket
+bip_39_word_new_line1: deliver
+bip_39_word_new_line10: 'deliver
+
+  day
+
+  category
+
+  surround
+
+  sense
+
+  ride
+
+  exile
+
+  entry
+
+  ticket
+
+  industry'
+bip_39_word_new_line11: 'deliver
+
+  day
+
+  category
+
+  surround
+
+  sense
+
+  ride
+
+  exile
+
+  entry
+
+  ticket
+
+  industry
+
+  advance'
+bip_39_word_new_line12: 'deliver
+
+  day
+
+  category
+
+  surround
+
+  sense
+
+  ride
+
+  exile
+
+  entry
+
+  ticket
+
+  industry
+
+  advance
+
+  arctic'
+bip_39_word_new_line2: 'deliver
+
+  day'
+bip_39_word_new_line3: 'deliver
+
+  day
+
+  category'
+bip_39_word_new_line4: 'deliver
+
+  day
+
+  category
+
+  surround'
+bip_39_word_new_line5: 'deliver
+
+  day
+
+  category
+
+  surround
+
+  sense'
+bip_39_word_new_line6: 'deliver
+
+  day
+
+  category
+
+  surround
+
+  sense
+
+  ride'
+bip_39_word_new_line7: 'deliver
+
+  day
+
+  category
+
+  surround
+
+  sense
+
+  ride
+
+  exile'
+bip_39_word_new_line8: 'deliver
+
+  day
+
+  category
+
+  surround
+
+  sense
+
+  ride
+
+  exile
+
+  entry'
+bip_39_word_new_line9: 'deliver
+
+  day
+
+  category
+
+  surround
+
+  sense
+
+  ride
+
+  exile
+
+  entry
+
+  ticket'
+bip_39_word_space_0:
+- deliver
+- day
+- category
+- surround
+- sense
+- ride
+- exile
+- entry
+- ticket
+- industry
+- advance
+- arctic
+bip_39_word_space_1: deliver
+bip_39_word_space_10: deliver day category surround sense ride exile entry ticket
+  industry
+bip_39_word_space_11: deliver day category surround sense ride exile entry ticket
+  industry advance
+bip_39_word_space_12: deliver day category surround sense ride exile entry ticket
+  industry advance arctic
+bip_39_word_space_2: deliver day
+bip_39_word_space_3: deliver day category
+bip_39_word_space_4: deliver day category surround
+bip_39_word_space_5: deliver day category surround sense
+bip_39_word_space_6: deliver day category surround sense ride
+bip_39_word_space_7: deliver day category surround sense ride exile
+bip_39_word_space_8: deliver day category surround sense ride exile entry
+bip_39_word_space_9: deliver day category surround sense ride exile entry ticket
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

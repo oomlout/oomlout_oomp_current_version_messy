@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clip kiwi
+  * bip 39 word 3: clip kiwi record
+  * bip 39 word: clip kiwi record damage music noodle shine much voice hat finger actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clip |  
+| bip_39_word_new_br10 | clip<br>kiwi<br>record<br>damage<br>music<br>noodle<br>shine<br>much<br>voice<br>hat |  
+| bip_39_word_new_br11 | clip<br>kiwi<br>record<br>damage<br>music<br>noodle<br>shine<br>much<br>voice<br>hat<br>finger |  
+| bip_39_word_new_br12 | clip<br>kiwi<br>record<br>damage<br>music<br>noodle<br>shine<br>much<br>voice<br>hat<br>finger<br>actor |  
+| bip_39_word_new_br2 | clip<br>kiwi |  
+| bip_39_word_new_br3 | clip<br>kiwi<br>record |  
+| bip_39_word_new_br4 | clip<br>kiwi<br>record<br>damage |  
+| bip_39_word_new_br5 | clip<br>kiwi<br>record<br>damage<br>music |  
+| bip_39_word_new_br6 | clip<br>kiwi<br>record<br>damage<br>music<br>noodle |  
+| bip_39_word_new_br7 | clip<br>kiwi<br>record<br>damage<br>music<br>noodle<br>shine |  
+| bip_39_word_new_br8 | clip<br>kiwi<br>record<br>damage<br>music<br>noodle<br>shine<br>much |  
+| bip_39_word_new_br9 | clip<br>kiwi<br>record<br>damage<br>music<br>noodle<br>shine<br>much<br>voice |  
+| bip_39_word_new_line1 | clip |  
+| bip_39_word_new_line10 | clip
+kiwi
+record
+damage
+music
+noodle
+shine
+much
+voice
+hat |  
+| bip_39_word_new_line11 | clip
+kiwi
+record
+damage
+music
+noodle
+shine
+much
+voice
+hat
+finger |  
+| bip_39_word_new_line12 | clip
+kiwi
+record
+damage
+music
+noodle
+shine
+much
+voice
+hat
+finger
+actor |  
+| bip_39_word_new_line2 | clip
+kiwi |  
+| bip_39_word_new_line3 | clip
+kiwi
+record |  
+| bip_39_word_new_line4 | clip
+kiwi
+record
+damage |  
+| bip_39_word_new_line5 | clip
+kiwi
+record
+damage
+music |  
+| bip_39_word_new_line6 | clip
+kiwi
+record
+damage
+music
+noodle |  
+| bip_39_word_new_line7 | clip
+kiwi
+record
+damage
+music
+noodle
+shine |  
+| bip_39_word_new_line8 | clip
+kiwi
+record
+damage
+music
+noodle
+shine
+much |  
+| bip_39_word_new_line9 | clip
+kiwi
+record
+damage
+music
+noodle
+shine
+much
+voice |  
+| bip_39_word_space_0 | ['clip', 'kiwi', 'record', 'damage', 'music', 'noodle', 'shine', 'much', 'voice', 'hat', 'finger', 'actor'] |  
+| bip_39_word_space_1 | clip |  
+| bip_39_word_space_10 | clip kiwi record damage music noodle shine much voice hat |  
+| bip_39_word_space_11 | clip kiwi record damage music noodle shine much voice hat finger |  
+| bip_39_word_space_12 | clip kiwi record damage music noodle shine much voice hat finger actor |  
+| bip_39_word_space_2 | clip kiwi |  
+| bip_39_word_space_3 | clip kiwi record |  
+| bip_39_word_space_4 | clip kiwi record damage |  
+| bip_39_word_space_5 | clip kiwi record damage music |  
+| bip_39_word_space_6 | clip kiwi record damage music noodle |  
+| bip_39_word_space_7 | clip kiwi record damage music noodle shine |  
+| bip_39_word_space_8 | clip kiwi record damage music noodle shine much |  
+| bip_39_word_space_9 | clip kiwi record damage music noodle shine much voice |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

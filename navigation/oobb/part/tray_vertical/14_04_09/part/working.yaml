@@ -1,3 +1,186 @@
+bip_39_word_new_br1: call
+bip_39_word_new_br10: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert
+bip_39_word_new_br11: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert<br>inflict
+bip_39_word_new_br12: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek<br>divert<br>inflict<br>answer
+bip_39_word_new_br2: call<br>loan
+bip_39_word_new_br3: call<br>loan<br>purchase
+bip_39_word_new_br4: call<br>loan<br>purchase<br>hurt
+bip_39_word_new_br5: call<br>loan<br>purchase<br>hurt<br>praise
+bip_39_word_new_br6: call<br>loan<br>purchase<br>hurt<br>praise<br>steel
+bip_39_word_new_br7: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road
+bip_39_word_new_br8: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress
+bip_39_word_new_br9: call<br>loan<br>purchase<br>hurt<br>praise<br>steel<br>road<br>actress<br>creek
+bip_39_word_new_line1: call
+bip_39_word_new_line10: 'call
+
+  loan
+
+  purchase
+
+  hurt
+
+  praise
+
+  steel
+
+  road
+
+  actress
+
+  creek
+
+  divert'
+bip_39_word_new_line11: 'call
+
+  loan
+
+  purchase
+
+  hurt
+
+  praise
+
+  steel
+
+  road
+
+  actress
+
+  creek
+
+  divert
+
+  inflict'
+bip_39_word_new_line12: 'call
+
+  loan
+
+  purchase
+
+  hurt
+
+  praise
+
+  steel
+
+  road
+
+  actress
+
+  creek
+
+  divert
+
+  inflict
+
+  answer'
+bip_39_word_new_line2: 'call
+
+  loan'
+bip_39_word_new_line3: 'call
+
+  loan
+
+  purchase'
+bip_39_word_new_line4: 'call
+
+  loan
+
+  purchase
+
+  hurt'
+bip_39_word_new_line5: 'call
+
+  loan
+
+  purchase
+
+  hurt
+
+  praise'
+bip_39_word_new_line6: 'call
+
+  loan
+
+  purchase
+
+  hurt
+
+  praise
+
+  steel'
+bip_39_word_new_line7: 'call
+
+  loan
+
+  purchase
+
+  hurt
+
+  praise
+
+  steel
+
+  road'
+bip_39_word_new_line8: 'call
+
+  loan
+
+  purchase
+
+  hurt
+
+  praise
+
+  steel
+
+  road
+
+  actress'
+bip_39_word_new_line9: 'call
+
+  loan
+
+  purchase
+
+  hurt
+
+  praise
+
+  steel
+
+  road
+
+  actress
+
+  creek'
+bip_39_word_space_0:
+- call
+- loan
+- purchase
+- hurt
+- praise
+- steel
+- road
+- actress
+- creek
+- divert
+- inflict
+- answer
+bip_39_word_space_1: call
+bip_39_word_space_10: call loan purchase hurt praise steel road actress creek divert
+bip_39_word_space_11: call loan purchase hurt praise steel road actress creek divert
+  inflict
+bip_39_word_space_12: call loan purchase hurt praise steel road actress creek divert
+  inflict answer
+bip_39_word_space_2: call loan
+bip_39_word_space_3: call loan purchase
+bip_39_word_space_4: call loan purchase hurt
+bip_39_word_space_5: call loan purchase hurt praise
+bip_39_word_space_6: call loan purchase hurt praise steel
+bip_39_word_space_7: call loan purchase hurt praise steel road
+bip_39_word_space_8: call loan purchase hurt praise steel road actress
+bip_39_word_space_9: call loan purchase hurt praise steel road actress creek
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

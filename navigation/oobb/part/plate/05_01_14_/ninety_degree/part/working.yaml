@@ -1,3 +1,186 @@
+bip_39_word_new_br1: light
+bip_39_word_new_br10: light<br>guard<br>predict<br>depart<br>soft<br>crop<br>put<br>project<br>slim<br>coral
+bip_39_word_new_br11: light<br>guard<br>predict<br>depart<br>soft<br>crop<br>put<br>project<br>slim<br>coral<br>elegant
+bip_39_word_new_br12: light<br>guard<br>predict<br>depart<br>soft<br>crop<br>put<br>project<br>slim<br>coral<br>elegant<br>add
+bip_39_word_new_br2: light<br>guard
+bip_39_word_new_br3: light<br>guard<br>predict
+bip_39_word_new_br4: light<br>guard<br>predict<br>depart
+bip_39_word_new_br5: light<br>guard<br>predict<br>depart<br>soft
+bip_39_word_new_br6: light<br>guard<br>predict<br>depart<br>soft<br>crop
+bip_39_word_new_br7: light<br>guard<br>predict<br>depart<br>soft<br>crop<br>put
+bip_39_word_new_br8: light<br>guard<br>predict<br>depart<br>soft<br>crop<br>put<br>project
+bip_39_word_new_br9: light<br>guard<br>predict<br>depart<br>soft<br>crop<br>put<br>project<br>slim
+bip_39_word_new_line1: light
+bip_39_word_new_line10: 'light
+
+  guard
+
+  predict
+
+  depart
+
+  soft
+
+  crop
+
+  put
+
+  project
+
+  slim
+
+  coral'
+bip_39_word_new_line11: 'light
+
+  guard
+
+  predict
+
+  depart
+
+  soft
+
+  crop
+
+  put
+
+  project
+
+  slim
+
+  coral
+
+  elegant'
+bip_39_word_new_line12: 'light
+
+  guard
+
+  predict
+
+  depart
+
+  soft
+
+  crop
+
+  put
+
+  project
+
+  slim
+
+  coral
+
+  elegant
+
+  add'
+bip_39_word_new_line2: 'light
+
+  guard'
+bip_39_word_new_line3: 'light
+
+  guard
+
+  predict'
+bip_39_word_new_line4: 'light
+
+  guard
+
+  predict
+
+  depart'
+bip_39_word_new_line5: 'light
+
+  guard
+
+  predict
+
+  depart
+
+  soft'
+bip_39_word_new_line6: 'light
+
+  guard
+
+  predict
+
+  depart
+
+  soft
+
+  crop'
+bip_39_word_new_line7: 'light
+
+  guard
+
+  predict
+
+  depart
+
+  soft
+
+  crop
+
+  put'
+bip_39_word_new_line8: 'light
+
+  guard
+
+  predict
+
+  depart
+
+  soft
+
+  crop
+
+  put
+
+  project'
+bip_39_word_new_line9: 'light
+
+  guard
+
+  predict
+
+  depart
+
+  soft
+
+  crop
+
+  put
+
+  project
+
+  slim'
+bip_39_word_space_0:
+- light
+- guard
+- predict
+- depart
+- soft
+- crop
+- put
+- project
+- slim
+- coral
+- elegant
+- add
+bip_39_word_space_1: light
+bip_39_word_space_10: light guard predict depart soft crop put project slim coral
+bip_39_word_space_11: light guard predict depart soft crop put project slim coral
+  elegant
+bip_39_word_space_12: light guard predict depart soft crop put project slim coral
+  elegant add
+bip_39_word_space_2: light guard
+bip_39_word_space_3: light guard predict
+bip_39_word_space_4: light guard predict depart
+bip_39_word_space_5: light guard predict depart soft
+bip_39_word_space_6: light guard predict depart soft crop
+bip_39_word_space_7: light guard predict depart soft crop put
+bip_39_word_space_8: light guard predict depart soft crop put project
+bip_39_word_space_9: light guard predict depart soft crop put project slim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

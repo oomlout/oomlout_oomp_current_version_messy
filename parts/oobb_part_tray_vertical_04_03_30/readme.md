@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: child ready
+  * bip 39 word 3: child ready state
+  * bip 39 word: child ready state furnace tail hundred artwork tiny hover stage airport antenna
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | child |  
+| bip_39_word_new_br10 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage |  
+| bip_39_word_new_br11 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage<br>airport |  
+| bip_39_word_new_br12 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover<br>stage<br>airport<br>antenna |  
+| bip_39_word_new_br2 | child<br>ready |  
+| bip_39_word_new_br3 | child<br>ready<br>state |  
+| bip_39_word_new_br4 | child<br>ready<br>state<br>furnace |  
+| bip_39_word_new_br5 | child<br>ready<br>state<br>furnace<br>tail |  
+| bip_39_word_new_br6 | child<br>ready<br>state<br>furnace<br>tail<br>hundred |  
+| bip_39_word_new_br7 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork |  
+| bip_39_word_new_br8 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny |  
+| bip_39_word_new_br9 | child<br>ready<br>state<br>furnace<br>tail<br>hundred<br>artwork<br>tiny<br>hover |  
+| bip_39_word_new_line1 | child |  
+| bip_39_word_new_line10 | child
+ready
+state
+furnace
+tail
+hundred
+artwork
+tiny
+hover
+stage |  
+| bip_39_word_new_line11 | child
+ready
+state
+furnace
+tail
+hundred
+artwork
+tiny
+hover
+stage
+airport |  
+| bip_39_word_new_line12 | child
+ready
+state
+furnace
+tail
+hundred
+artwork
+tiny
+hover
+stage
+airport
+antenna |  
+| bip_39_word_new_line2 | child
+ready |  
+| bip_39_word_new_line3 | child
+ready
+state |  
+| bip_39_word_new_line4 | child
+ready
+state
+furnace |  
+| bip_39_word_new_line5 | child
+ready
+state
+furnace
+tail |  
+| bip_39_word_new_line6 | child
+ready
+state
+furnace
+tail
+hundred |  
+| bip_39_word_new_line7 | child
+ready
+state
+furnace
+tail
+hundred
+artwork |  
+| bip_39_word_new_line8 | child
+ready
+state
+furnace
+tail
+hundred
+artwork
+tiny |  
+| bip_39_word_new_line9 | child
+ready
+state
+furnace
+tail
+hundred
+artwork
+tiny
+hover |  
+| bip_39_word_space_0 | ['child', 'ready', 'state', 'furnace', 'tail', 'hundred', 'artwork', 'tiny', 'hover', 'stage', 'airport', 'antenna'] |  
+| bip_39_word_space_1 | child |  
+| bip_39_word_space_10 | child ready state furnace tail hundred artwork tiny hover stage |  
+| bip_39_word_space_11 | child ready state furnace tail hundred artwork tiny hover stage airport |  
+| bip_39_word_space_12 | child ready state furnace tail hundred artwork tiny hover stage airport antenna |  
+| bip_39_word_space_2 | child ready |  
+| bip_39_word_space_3 | child ready state |  
+| bip_39_word_space_4 | child ready state furnace |  
+| bip_39_word_space_5 | child ready state furnace tail |  
+| bip_39_word_space_6 | child ready state furnace tail hundred |  
+| bip_39_word_space_7 | child ready state furnace tail hundred artwork |  
+| bip_39_word_space_8 | child ready state furnace tail hundred artwork tiny |  
+| bip_39_word_space_9 | child ready state furnace tail hundred artwork tiny hover |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

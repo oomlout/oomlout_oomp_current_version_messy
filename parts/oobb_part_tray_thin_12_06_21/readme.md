@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: render airport
+  * bip 39 word 3: render airport vivid
+  * bip 39 word: render airport vivid viable garage bracket useful acid coin gospel soon afford
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | render |  
+| bip_39_word_new_br10 | render<br>airport<br>vivid<br>viable<br>garage<br>bracket<br>useful<br>acid<br>coin<br>gospel |  
+| bip_39_word_new_br11 | render<br>airport<br>vivid<br>viable<br>garage<br>bracket<br>useful<br>acid<br>coin<br>gospel<br>soon |  
+| bip_39_word_new_br12 | render<br>airport<br>vivid<br>viable<br>garage<br>bracket<br>useful<br>acid<br>coin<br>gospel<br>soon<br>afford |  
+| bip_39_word_new_br2 | render<br>airport |  
+| bip_39_word_new_br3 | render<br>airport<br>vivid |  
+| bip_39_word_new_br4 | render<br>airport<br>vivid<br>viable |  
+| bip_39_word_new_br5 | render<br>airport<br>vivid<br>viable<br>garage |  
+| bip_39_word_new_br6 | render<br>airport<br>vivid<br>viable<br>garage<br>bracket |  
+| bip_39_word_new_br7 | render<br>airport<br>vivid<br>viable<br>garage<br>bracket<br>useful |  
+| bip_39_word_new_br8 | render<br>airport<br>vivid<br>viable<br>garage<br>bracket<br>useful<br>acid |  
+| bip_39_word_new_br9 | render<br>airport<br>vivid<br>viable<br>garage<br>bracket<br>useful<br>acid<br>coin |  
+| bip_39_word_new_line1 | render |  
+| bip_39_word_new_line10 | render
+airport
+vivid
+viable
+garage
+bracket
+useful
+acid
+coin
+gospel |  
+| bip_39_word_new_line11 | render
+airport
+vivid
+viable
+garage
+bracket
+useful
+acid
+coin
+gospel
+soon |  
+| bip_39_word_new_line12 | render
+airport
+vivid
+viable
+garage
+bracket
+useful
+acid
+coin
+gospel
+soon
+afford |  
+| bip_39_word_new_line2 | render
+airport |  
+| bip_39_word_new_line3 | render
+airport
+vivid |  
+| bip_39_word_new_line4 | render
+airport
+vivid
+viable |  
+| bip_39_word_new_line5 | render
+airport
+vivid
+viable
+garage |  
+| bip_39_word_new_line6 | render
+airport
+vivid
+viable
+garage
+bracket |  
+| bip_39_word_new_line7 | render
+airport
+vivid
+viable
+garage
+bracket
+useful |  
+| bip_39_word_new_line8 | render
+airport
+vivid
+viable
+garage
+bracket
+useful
+acid |  
+| bip_39_word_new_line9 | render
+airport
+vivid
+viable
+garage
+bracket
+useful
+acid
+coin |  
+| bip_39_word_space_0 | ['render', 'airport', 'vivid', 'viable', 'garage', 'bracket', 'useful', 'acid', 'coin', 'gospel', 'soon', 'afford'] |  
+| bip_39_word_space_1 | render |  
+| bip_39_word_space_10 | render airport vivid viable garage bracket useful acid coin gospel |  
+| bip_39_word_space_11 | render airport vivid viable garage bracket useful acid coin gospel soon |  
+| bip_39_word_space_12 | render airport vivid viable garage bracket useful acid coin gospel soon afford |  
+| bip_39_word_space_2 | render airport |  
+| bip_39_word_space_3 | render airport vivid |  
+| bip_39_word_space_4 | render airport vivid viable |  
+| bip_39_word_space_5 | render airport vivid viable garage |  
+| bip_39_word_space_6 | render airport vivid viable garage bracket |  
+| bip_39_word_space_7 | render airport vivid viable garage bracket useful |  
+| bip_39_word_space_8 | render airport vivid viable garage bracket useful acid |  
+| bip_39_word_space_9 | render airport vivid viable garage bracket useful acid coin |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

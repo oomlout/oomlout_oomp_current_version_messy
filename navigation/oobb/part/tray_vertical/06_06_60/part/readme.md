@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: coral toss
+  * bip 39 word 3: coral toss provide
+  * bip 39 word: coral toss provide into field below cricket medal thrive wood act armed
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | coral |  
+| bip_39_word_new_br10 | coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood |  
+| bip_39_word_new_br11 | coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood<br>act |  
+| bip_39_word_new_br12 | coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive<br>wood<br>act<br>armed |  
+| bip_39_word_new_br2 | coral<br>toss |  
+| bip_39_word_new_br3 | coral<br>toss<br>provide |  
+| bip_39_word_new_br4 | coral<br>toss<br>provide<br>into |  
+| bip_39_word_new_br5 | coral<br>toss<br>provide<br>into<br>field |  
+| bip_39_word_new_br6 | coral<br>toss<br>provide<br>into<br>field<br>below |  
+| bip_39_word_new_br7 | coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket |  
+| bip_39_word_new_br8 | coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal |  
+| bip_39_word_new_br9 | coral<br>toss<br>provide<br>into<br>field<br>below<br>cricket<br>medal<br>thrive |  
+| bip_39_word_new_line1 | coral |  
+| bip_39_word_new_line10 | coral
+toss
+provide
+into
+field
+below
+cricket
+medal
+thrive
+wood |  
+| bip_39_word_new_line11 | coral
+toss
+provide
+into
+field
+below
+cricket
+medal
+thrive
+wood
+act |  
+| bip_39_word_new_line12 | coral
+toss
+provide
+into
+field
+below
+cricket
+medal
+thrive
+wood
+act
+armed |  
+| bip_39_word_new_line2 | coral
+toss |  
+| bip_39_word_new_line3 | coral
+toss
+provide |  
+| bip_39_word_new_line4 | coral
+toss
+provide
+into |  
+| bip_39_word_new_line5 | coral
+toss
+provide
+into
+field |  
+| bip_39_word_new_line6 | coral
+toss
+provide
+into
+field
+below |  
+| bip_39_word_new_line7 | coral
+toss
+provide
+into
+field
+below
+cricket |  
+| bip_39_word_new_line8 | coral
+toss
+provide
+into
+field
+below
+cricket
+medal |  
+| bip_39_word_new_line9 | coral
+toss
+provide
+into
+field
+below
+cricket
+medal
+thrive |  
+| bip_39_word_space_0 | ['coral', 'toss', 'provide', 'into', 'field', 'below', 'cricket', 'medal', 'thrive', 'wood', 'act', 'armed'] |  
+| bip_39_word_space_1 | coral |  
+| bip_39_word_space_10 | coral toss provide into field below cricket medal thrive wood |  
+| bip_39_word_space_11 | coral toss provide into field below cricket medal thrive wood act |  
+| bip_39_word_space_12 | coral toss provide into field below cricket medal thrive wood act armed |  
+| bip_39_word_space_2 | coral toss |  
+| bip_39_word_space_3 | coral toss provide |  
+| bip_39_word_space_4 | coral toss provide into |  
+| bip_39_word_space_5 | coral toss provide into field |  
+| bip_39_word_space_6 | coral toss provide into field below |  
+| bip_39_word_space_7 | coral toss provide into field below cricket |  
+| bip_39_word_space_8 | coral toss provide into field below cricket medal |  
+| bip_39_word_space_9 | coral toss provide into field below cricket medal thrive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

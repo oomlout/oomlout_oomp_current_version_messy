@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cigar chalk
+  * bip 39 word 3: cigar chalk mix
+  * bip 39 word: cigar chalk mix purchase hurt addict sweet dish today cheese wood another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cigar |  
+| bip_39_word_new_br10 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict<br>sweet<br>dish<br>today<br>cheese |  
+| bip_39_word_new_br11 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict<br>sweet<br>dish<br>today<br>cheese<br>wood |  
+| bip_39_word_new_br12 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict<br>sweet<br>dish<br>today<br>cheese<br>wood<br>another |  
+| bip_39_word_new_br2 | cigar<br>chalk |  
+| bip_39_word_new_br3 | cigar<br>chalk<br>mix |  
+| bip_39_word_new_br4 | cigar<br>chalk<br>mix<br>purchase |  
+| bip_39_word_new_br5 | cigar<br>chalk<br>mix<br>purchase<br>hurt |  
+| bip_39_word_new_br6 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict |  
+| bip_39_word_new_br7 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict<br>sweet |  
+| bip_39_word_new_br8 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict<br>sweet<br>dish |  
+| bip_39_word_new_br9 | cigar<br>chalk<br>mix<br>purchase<br>hurt<br>addict<br>sweet<br>dish<br>today |  
+| bip_39_word_new_line1 | cigar |  
+| bip_39_word_new_line10 | cigar
+chalk
+mix
+purchase
+hurt
+addict
+sweet
+dish
+today
+cheese |  
+| bip_39_word_new_line11 | cigar
+chalk
+mix
+purchase
+hurt
+addict
+sweet
+dish
+today
+cheese
+wood |  
+| bip_39_word_new_line12 | cigar
+chalk
+mix
+purchase
+hurt
+addict
+sweet
+dish
+today
+cheese
+wood
+another |  
+| bip_39_word_new_line2 | cigar
+chalk |  
+| bip_39_word_new_line3 | cigar
+chalk
+mix |  
+| bip_39_word_new_line4 | cigar
+chalk
+mix
+purchase |  
+| bip_39_word_new_line5 | cigar
+chalk
+mix
+purchase
+hurt |  
+| bip_39_word_new_line6 | cigar
+chalk
+mix
+purchase
+hurt
+addict |  
+| bip_39_word_new_line7 | cigar
+chalk
+mix
+purchase
+hurt
+addict
+sweet |  
+| bip_39_word_new_line8 | cigar
+chalk
+mix
+purchase
+hurt
+addict
+sweet
+dish |  
+| bip_39_word_new_line9 | cigar
+chalk
+mix
+purchase
+hurt
+addict
+sweet
+dish
+today |  
+| bip_39_word_space_0 | ['cigar', 'chalk', 'mix', 'purchase', 'hurt', 'addict', 'sweet', 'dish', 'today', 'cheese', 'wood', 'another'] |  
+| bip_39_word_space_1 | cigar |  
+| bip_39_word_space_10 | cigar chalk mix purchase hurt addict sweet dish today cheese |  
+| bip_39_word_space_11 | cigar chalk mix purchase hurt addict sweet dish today cheese wood |  
+| bip_39_word_space_12 | cigar chalk mix purchase hurt addict sweet dish today cheese wood another |  
+| bip_39_word_space_2 | cigar chalk |  
+| bip_39_word_space_3 | cigar chalk mix |  
+| bip_39_word_space_4 | cigar chalk mix purchase |  
+| bip_39_word_space_5 | cigar chalk mix purchase hurt |  
+| bip_39_word_space_6 | cigar chalk mix purchase hurt addict |  
+| bip_39_word_space_7 | cigar chalk mix purchase hurt addict sweet |  
+| bip_39_word_space_8 | cigar chalk mix purchase hurt addict sweet dish |  
+| bip_39_word_space_9 | cigar chalk mix purchase hurt addict sweet dish today |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

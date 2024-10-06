@@ -1,3 +1,186 @@
+bip_39_word_new_br1: field
+bip_39_word_new_br10: field<br>hold<br>hold<br>tuition<br>quick<br>loop<br>devote<br>autumn<br>cruel<br>onion
+bip_39_word_new_br11: field<br>hold<br>hold<br>tuition<br>quick<br>loop<br>devote<br>autumn<br>cruel<br>onion<br>now
+bip_39_word_new_br12: field<br>hold<br>hold<br>tuition<br>quick<br>loop<br>devote<br>autumn<br>cruel<br>onion<br>now<br>apart
+bip_39_word_new_br2: field<br>hold
+bip_39_word_new_br3: field<br>hold<br>hold
+bip_39_word_new_br4: field<br>hold<br>hold<br>tuition
+bip_39_word_new_br5: field<br>hold<br>hold<br>tuition<br>quick
+bip_39_word_new_br6: field<br>hold<br>hold<br>tuition<br>quick<br>loop
+bip_39_word_new_br7: field<br>hold<br>hold<br>tuition<br>quick<br>loop<br>devote
+bip_39_word_new_br8: field<br>hold<br>hold<br>tuition<br>quick<br>loop<br>devote<br>autumn
+bip_39_word_new_br9: field<br>hold<br>hold<br>tuition<br>quick<br>loop<br>devote<br>autumn<br>cruel
+bip_39_word_new_line1: field
+bip_39_word_new_line10: 'field
+
+  hold
+
+  hold
+
+  tuition
+
+  quick
+
+  loop
+
+  devote
+
+  autumn
+
+  cruel
+
+  onion'
+bip_39_word_new_line11: 'field
+
+  hold
+
+  hold
+
+  tuition
+
+  quick
+
+  loop
+
+  devote
+
+  autumn
+
+  cruel
+
+  onion
+
+  now'
+bip_39_word_new_line12: 'field
+
+  hold
+
+  hold
+
+  tuition
+
+  quick
+
+  loop
+
+  devote
+
+  autumn
+
+  cruel
+
+  onion
+
+  now
+
+  apart'
+bip_39_word_new_line2: 'field
+
+  hold'
+bip_39_word_new_line3: 'field
+
+  hold
+
+  hold'
+bip_39_word_new_line4: 'field
+
+  hold
+
+  hold
+
+  tuition'
+bip_39_word_new_line5: 'field
+
+  hold
+
+  hold
+
+  tuition
+
+  quick'
+bip_39_word_new_line6: 'field
+
+  hold
+
+  hold
+
+  tuition
+
+  quick
+
+  loop'
+bip_39_word_new_line7: 'field
+
+  hold
+
+  hold
+
+  tuition
+
+  quick
+
+  loop
+
+  devote'
+bip_39_word_new_line8: 'field
+
+  hold
+
+  hold
+
+  tuition
+
+  quick
+
+  loop
+
+  devote
+
+  autumn'
+bip_39_word_new_line9: 'field
+
+  hold
+
+  hold
+
+  tuition
+
+  quick
+
+  loop
+
+  devote
+
+  autumn
+
+  cruel'
+bip_39_word_space_0:
+- field
+- hold
+- hold
+- tuition
+- quick
+- loop
+- devote
+- autumn
+- cruel
+- onion
+- now
+- apart
+bip_39_word_space_1: field
+bip_39_word_space_10: field hold hold tuition quick loop devote autumn cruel onion
+bip_39_word_space_11: field hold hold tuition quick loop devote autumn cruel onion
+  now
+bip_39_word_space_12: field hold hold tuition quick loop devote autumn cruel onion
+  now apart
+bip_39_word_space_2: field hold
+bip_39_word_space_3: field hold hold
+bip_39_word_space_4: field hold hold tuition
+bip_39_word_space_5: field hold hold tuition quick
+bip_39_word_space_6: field hold hold tuition quick loop
+bip_39_word_space_7: field hold hold tuition quick loop devote
+bip_39_word_space_8: field hold hold tuition quick loop devote autumn
+bip_39_word_space_9: field hold hold tuition quick loop devote autumn cruel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

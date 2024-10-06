@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: dinosaur panic
+  * bip 39 word 3: dinosaur panic scrap
+  * bip 39 word: dinosaur panic scrap female lunar bread issue basket awkward museum wild avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | dinosaur |  
+| bip_39_word_new_br10 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread<br>issue<br>basket<br>awkward<br>museum |  
+| bip_39_word_new_br11 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread<br>issue<br>basket<br>awkward<br>museum<br>wild |  
+| bip_39_word_new_br12 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread<br>issue<br>basket<br>awkward<br>museum<br>wild<br>avocado |  
+| bip_39_word_new_br2 | dinosaur<br>panic |  
+| bip_39_word_new_br3 | dinosaur<br>panic<br>scrap |  
+| bip_39_word_new_br4 | dinosaur<br>panic<br>scrap<br>female |  
+| bip_39_word_new_br5 | dinosaur<br>panic<br>scrap<br>female<br>lunar |  
+| bip_39_word_new_br6 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread |  
+| bip_39_word_new_br7 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread<br>issue |  
+| bip_39_word_new_br8 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread<br>issue<br>basket |  
+| bip_39_word_new_br9 | dinosaur<br>panic<br>scrap<br>female<br>lunar<br>bread<br>issue<br>basket<br>awkward |  
+| bip_39_word_new_line1 | dinosaur |  
+| bip_39_word_new_line10 | dinosaur
+panic
+scrap
+female
+lunar
+bread
+issue
+basket
+awkward
+museum |  
+| bip_39_word_new_line11 | dinosaur
+panic
+scrap
+female
+lunar
+bread
+issue
+basket
+awkward
+museum
+wild |  
+| bip_39_word_new_line12 | dinosaur
+panic
+scrap
+female
+lunar
+bread
+issue
+basket
+awkward
+museum
+wild
+avocado |  
+| bip_39_word_new_line2 | dinosaur
+panic |  
+| bip_39_word_new_line3 | dinosaur
+panic
+scrap |  
+| bip_39_word_new_line4 | dinosaur
+panic
+scrap
+female |  
+| bip_39_word_new_line5 | dinosaur
+panic
+scrap
+female
+lunar |  
+| bip_39_word_new_line6 | dinosaur
+panic
+scrap
+female
+lunar
+bread |  
+| bip_39_word_new_line7 | dinosaur
+panic
+scrap
+female
+lunar
+bread
+issue |  
+| bip_39_word_new_line8 | dinosaur
+panic
+scrap
+female
+lunar
+bread
+issue
+basket |  
+| bip_39_word_new_line9 | dinosaur
+panic
+scrap
+female
+lunar
+bread
+issue
+basket
+awkward |  
+| bip_39_word_space_0 | ['dinosaur', 'panic', 'scrap', 'female', 'lunar', 'bread', 'issue', 'basket', 'awkward', 'museum', 'wild', 'avocado'] |  
+| bip_39_word_space_1 | dinosaur |  
+| bip_39_word_space_10 | dinosaur panic scrap female lunar bread issue basket awkward museum |  
+| bip_39_word_space_11 | dinosaur panic scrap female lunar bread issue basket awkward museum wild |  
+| bip_39_word_space_12 | dinosaur panic scrap female lunar bread issue basket awkward museum wild avocado |  
+| bip_39_word_space_2 | dinosaur panic |  
+| bip_39_word_space_3 | dinosaur panic scrap |  
+| bip_39_word_space_4 | dinosaur panic scrap female |  
+| bip_39_word_space_5 | dinosaur panic scrap female lunar |  
+| bip_39_word_space_6 | dinosaur panic scrap female lunar bread |  
+| bip_39_word_space_7 | dinosaur panic scrap female lunar bread issue |  
+| bip_39_word_space_8 | dinosaur panic scrap female lunar bread issue basket |  
+| bip_39_word_space_9 | dinosaur panic scrap female lunar bread issue basket awkward |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: chair victory
+  * bip 39 word 3: chair victory unusual
+  * bip 39 word: chair victory unusual fragile dice pony health wrestle canoe inject jealous adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | chair |  
+| bip_39_word_new_br10 | chair<br>victory<br>unusual<br>fragile<br>dice<br>pony<br>health<br>wrestle<br>canoe<br>inject |  
+| bip_39_word_new_br11 | chair<br>victory<br>unusual<br>fragile<br>dice<br>pony<br>health<br>wrestle<br>canoe<br>inject<br>jealous |  
+| bip_39_word_new_br12 | chair<br>victory<br>unusual<br>fragile<br>dice<br>pony<br>health<br>wrestle<br>canoe<br>inject<br>jealous<br>adult |  
+| bip_39_word_new_br2 | chair<br>victory |  
+| bip_39_word_new_br3 | chair<br>victory<br>unusual |  
+| bip_39_word_new_br4 | chair<br>victory<br>unusual<br>fragile |  
+| bip_39_word_new_br5 | chair<br>victory<br>unusual<br>fragile<br>dice |  
+| bip_39_word_new_br6 | chair<br>victory<br>unusual<br>fragile<br>dice<br>pony |  
+| bip_39_word_new_br7 | chair<br>victory<br>unusual<br>fragile<br>dice<br>pony<br>health |  
+| bip_39_word_new_br8 | chair<br>victory<br>unusual<br>fragile<br>dice<br>pony<br>health<br>wrestle |  
+| bip_39_word_new_br9 | chair<br>victory<br>unusual<br>fragile<br>dice<br>pony<br>health<br>wrestle<br>canoe |  
+| bip_39_word_new_line1 | chair |  
+| bip_39_word_new_line10 | chair
+victory
+unusual
+fragile
+dice
+pony
+health
+wrestle
+canoe
+inject |  
+| bip_39_word_new_line11 | chair
+victory
+unusual
+fragile
+dice
+pony
+health
+wrestle
+canoe
+inject
+jealous |  
+| bip_39_word_new_line12 | chair
+victory
+unusual
+fragile
+dice
+pony
+health
+wrestle
+canoe
+inject
+jealous
+adult |  
+| bip_39_word_new_line2 | chair
+victory |  
+| bip_39_word_new_line3 | chair
+victory
+unusual |  
+| bip_39_word_new_line4 | chair
+victory
+unusual
+fragile |  
+| bip_39_word_new_line5 | chair
+victory
+unusual
+fragile
+dice |  
+| bip_39_word_new_line6 | chair
+victory
+unusual
+fragile
+dice
+pony |  
+| bip_39_word_new_line7 | chair
+victory
+unusual
+fragile
+dice
+pony
+health |  
+| bip_39_word_new_line8 | chair
+victory
+unusual
+fragile
+dice
+pony
+health
+wrestle |  
+| bip_39_word_new_line9 | chair
+victory
+unusual
+fragile
+dice
+pony
+health
+wrestle
+canoe |  
+| bip_39_word_space_0 | ['chair', 'victory', 'unusual', 'fragile', 'dice', 'pony', 'health', 'wrestle', 'canoe', 'inject', 'jealous', 'adult'] |  
+| bip_39_word_space_1 | chair |  
+| bip_39_word_space_10 | chair victory unusual fragile dice pony health wrestle canoe inject |  
+| bip_39_word_space_11 | chair victory unusual fragile dice pony health wrestle canoe inject jealous |  
+| bip_39_word_space_12 | chair victory unusual fragile dice pony health wrestle canoe inject jealous adult |  
+| bip_39_word_space_2 | chair victory |  
+| bip_39_word_space_3 | chair victory unusual |  
+| bip_39_word_space_4 | chair victory unusual fragile |  
+| bip_39_word_space_5 | chair victory unusual fragile dice |  
+| bip_39_word_space_6 | chair victory unusual fragile dice pony |  
+| bip_39_word_space_7 | chair victory unusual fragile dice pony health |  
+| bip_39_word_space_8 | chair victory unusual fragile dice pony health wrestle |  
+| bip_39_word_space_9 | chair victory unusual fragile dice pony health wrestle canoe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: glory
+bip_39_word_new_br10: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden
+bip_39_word_new_br11: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer
+bip_39_word_new_br12: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer<br>arm
+bip_39_word_new_br2: glory<br>already
+bip_39_word_new_br3: glory<br>already<br>feel
+bip_39_word_new_br4: glory<br>already<br>feel<br>satisfy
+bip_39_word_new_br5: glory<br>already<br>feel<br>satisfy<br>double
+bip_39_word_new_br6: glory<br>already<br>feel<br>satisfy<br>double<br>version
+bip_39_word_new_br7: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint
+bip_39_word_new_br8: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight
+bip_39_word_new_br9: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want
+bip_39_word_new_line1: glory
+bip_39_word_new_line10: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight
+
+  want
+
+  burden'
+bip_39_word_new_line11: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight
+
+  want
+
+  burden
+
+  offer'
+bip_39_word_new_line12: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight
+
+  want
+
+  burden
+
+  offer
+
+  arm'
+bip_39_word_new_line2: 'glory
+
+  already'
+bip_39_word_new_line3: 'glory
+
+  already
+
+  feel'
+bip_39_word_new_line4: 'glory
+
+  already
+
+  feel
+
+  satisfy'
+bip_39_word_new_line5: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double'
+bip_39_word_new_line6: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version'
+bip_39_word_new_line7: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint'
+bip_39_word_new_line8: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight'
+bip_39_word_new_line9: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight
+
+  want'
+bip_39_word_space_0:
+- glory
+- already
+- feel
+- satisfy
+- double
+- version
+- hint
+- flight
+- want
+- burden
+- offer
+- arm
+bip_39_word_space_1: glory
+bip_39_word_space_10: glory already feel satisfy double version hint flight want burden
+bip_39_word_space_11: glory already feel satisfy double version hint flight want burden
+  offer
+bip_39_word_space_12: glory already feel satisfy double version hint flight want burden
+  offer arm
+bip_39_word_space_2: glory already
+bip_39_word_space_3: glory already feel
+bip_39_word_space_4: glory already feel satisfy
+bip_39_word_space_5: glory already feel satisfy double
+bip_39_word_space_6: glory already feel satisfy double version
+bip_39_word_space_7: glory already feel satisfy double version hint
+bip_39_word_space_8: glory already feel satisfy double version hint flight
+bip_39_word_space_9: glory already feel satisfy double version hint flight want
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

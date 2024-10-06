@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: echo found
+  * bip 39 word 3: echo found salt
+  * bip 39 word: echo found salt bridge word swamp wire churn rug dawn limit athlete
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | echo |  
+| bip_39_word_new_br10 | echo<br>found<br>salt<br>bridge<br>word<br>swamp<br>wire<br>churn<br>rug<br>dawn |  
+| bip_39_word_new_br11 | echo<br>found<br>salt<br>bridge<br>word<br>swamp<br>wire<br>churn<br>rug<br>dawn<br>limit |  
+| bip_39_word_new_br12 | echo<br>found<br>salt<br>bridge<br>word<br>swamp<br>wire<br>churn<br>rug<br>dawn<br>limit<br>athlete |  
+| bip_39_word_new_br2 | echo<br>found |  
+| bip_39_word_new_br3 | echo<br>found<br>salt |  
+| bip_39_word_new_br4 | echo<br>found<br>salt<br>bridge |  
+| bip_39_word_new_br5 | echo<br>found<br>salt<br>bridge<br>word |  
+| bip_39_word_new_br6 | echo<br>found<br>salt<br>bridge<br>word<br>swamp |  
+| bip_39_word_new_br7 | echo<br>found<br>salt<br>bridge<br>word<br>swamp<br>wire |  
+| bip_39_word_new_br8 | echo<br>found<br>salt<br>bridge<br>word<br>swamp<br>wire<br>churn |  
+| bip_39_word_new_br9 | echo<br>found<br>salt<br>bridge<br>word<br>swamp<br>wire<br>churn<br>rug |  
+| bip_39_word_new_line1 | echo |  
+| bip_39_word_new_line10 | echo
+found
+salt
+bridge
+word
+swamp
+wire
+churn
+rug
+dawn |  
+| bip_39_word_new_line11 | echo
+found
+salt
+bridge
+word
+swamp
+wire
+churn
+rug
+dawn
+limit |  
+| bip_39_word_new_line12 | echo
+found
+salt
+bridge
+word
+swamp
+wire
+churn
+rug
+dawn
+limit
+athlete |  
+| bip_39_word_new_line2 | echo
+found |  
+| bip_39_word_new_line3 | echo
+found
+salt |  
+| bip_39_word_new_line4 | echo
+found
+salt
+bridge |  
+| bip_39_word_new_line5 | echo
+found
+salt
+bridge
+word |  
+| bip_39_word_new_line6 | echo
+found
+salt
+bridge
+word
+swamp |  
+| bip_39_word_new_line7 | echo
+found
+salt
+bridge
+word
+swamp
+wire |  
+| bip_39_word_new_line8 | echo
+found
+salt
+bridge
+word
+swamp
+wire
+churn |  
+| bip_39_word_new_line9 | echo
+found
+salt
+bridge
+word
+swamp
+wire
+churn
+rug |  
+| bip_39_word_space_0 | ['echo', 'found', 'salt', 'bridge', 'word', 'swamp', 'wire', 'churn', 'rug', 'dawn', 'limit', 'athlete'] |  
+| bip_39_word_space_1 | echo |  
+| bip_39_word_space_10 | echo found salt bridge word swamp wire churn rug dawn |  
+| bip_39_word_space_11 | echo found salt bridge word swamp wire churn rug dawn limit |  
+| bip_39_word_space_12 | echo found salt bridge word swamp wire churn rug dawn limit athlete |  
+| bip_39_word_space_2 | echo found |  
+| bip_39_word_space_3 | echo found salt |  
+| bip_39_word_space_4 | echo found salt bridge |  
+| bip_39_word_space_5 | echo found salt bridge word |  
+| bip_39_word_space_6 | echo found salt bridge word swamp |  
+| bip_39_word_space_7 | echo found salt bridge word swamp wire |  
+| bip_39_word_space_8 | echo found salt bridge word swamp wire churn |  
+| bip_39_word_space_9 | echo found salt bridge word swamp wire churn rug |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

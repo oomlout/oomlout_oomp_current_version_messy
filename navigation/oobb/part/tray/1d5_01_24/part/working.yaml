@@ -1,3 +1,185 @@
+bip_39_word_new_br1: lawn
+bip_39_word_new_br10: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together<br>idle
+bip_39_word_new_br11: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together<br>idle<br>quarter
+bip_39_word_new_br12: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together<br>idle<br>quarter<br>action
+bip_39_word_new_br2: lawn<br>drum
+bip_39_word_new_br3: lawn<br>drum<br>kid
+bip_39_word_new_br4: lawn<br>drum<br>kid<br>dash
+bip_39_word_new_br5: lawn<br>drum<br>kid<br>dash<br>say
+bip_39_word_new_br6: lawn<br>drum<br>kid<br>dash<br>say<br>super
+bip_39_word_new_br7: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor
+bip_39_word_new_br8: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze
+bip_39_word_new_br9: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together
+bip_39_word_new_line1: lawn
+bip_39_word_new_line10: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze
+
+  together
+
+  idle'
+bip_39_word_new_line11: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze
+
+  together
+
+  idle
+
+  quarter'
+bip_39_word_new_line12: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze
+
+  together
+
+  idle
+
+  quarter
+
+  action'
+bip_39_word_new_line2: 'lawn
+
+  drum'
+bip_39_word_new_line3: 'lawn
+
+  drum
+
+  kid'
+bip_39_word_new_line4: 'lawn
+
+  drum
+
+  kid
+
+  dash'
+bip_39_word_new_line5: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say'
+bip_39_word_new_line6: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super'
+bip_39_word_new_line7: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor'
+bip_39_word_new_line8: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze'
+bip_39_word_new_line9: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze
+
+  together'
+bip_39_word_space_0:
+- lawn
+- drum
+- kid
+- dash
+- say
+- super
+- donor
+- maze
+- together
+- idle
+- quarter
+- action
+bip_39_word_space_1: lawn
+bip_39_word_space_10: lawn drum kid dash say super donor maze together idle
+bip_39_word_space_11: lawn drum kid dash say super donor maze together idle quarter
+bip_39_word_space_12: lawn drum kid dash say super donor maze together idle quarter
+  action
+bip_39_word_space_2: lawn drum
+bip_39_word_space_3: lawn drum kid
+bip_39_word_space_4: lawn drum kid dash
+bip_39_word_space_5: lawn drum kid dash say
+bip_39_word_space_6: lawn drum kid dash say super
+bip_39_word_space_7: lawn drum kid dash say super donor
+bip_39_word_space_8: lawn drum kid dash say super donor maze
+bip_39_word_space_9: lawn drum kid dash say super donor maze together
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

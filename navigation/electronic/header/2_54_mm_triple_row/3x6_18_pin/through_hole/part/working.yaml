@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clean
+bip_39_word_new_br10: clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor
+bip_39_word_new_br11: clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor<br>mass
+bip_39_word_new_br12: clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave<br>minor<br>mass<br>all
+bip_39_word_new_br2: clean<br>lion
+bip_39_word_new_br3: clean<br>lion<br>large
+bip_39_word_new_br4: clean<br>lion<br>large<br>fever
+bip_39_word_new_br5: clean<br>lion<br>large<br>fever<br>tool
+bip_39_word_new_br6: clean<br>lion<br>large<br>fever<br>tool<br>identify
+bip_39_word_new_br7: clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow
+bip_39_word_new_br8: clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive
+bip_39_word_new_br9: clean<br>lion<br>large<br>fever<br>tool<br>identify<br>eyebrow<br>olive<br>pave
+bip_39_word_new_line1: clean
+bip_39_word_new_line10: 'clean
+
+  lion
+
+  large
+
+  fever
+
+  tool
+
+  identify
+
+  eyebrow
+
+  olive
+
+  pave
+
+  minor'
+bip_39_word_new_line11: 'clean
+
+  lion
+
+  large
+
+  fever
+
+  tool
+
+  identify
+
+  eyebrow
+
+  olive
+
+  pave
+
+  minor
+
+  mass'
+bip_39_word_new_line12: 'clean
+
+  lion
+
+  large
+
+  fever
+
+  tool
+
+  identify
+
+  eyebrow
+
+  olive
+
+  pave
+
+  minor
+
+  mass
+
+  all'
+bip_39_word_new_line2: 'clean
+
+  lion'
+bip_39_word_new_line3: 'clean
+
+  lion
+
+  large'
+bip_39_word_new_line4: 'clean
+
+  lion
+
+  large
+
+  fever'
+bip_39_word_new_line5: 'clean
+
+  lion
+
+  large
+
+  fever
+
+  tool'
+bip_39_word_new_line6: 'clean
+
+  lion
+
+  large
+
+  fever
+
+  tool
+
+  identify'
+bip_39_word_new_line7: 'clean
+
+  lion
+
+  large
+
+  fever
+
+  tool
+
+  identify
+
+  eyebrow'
+bip_39_word_new_line8: 'clean
+
+  lion
+
+  large
+
+  fever
+
+  tool
+
+  identify
+
+  eyebrow
+
+  olive'
+bip_39_word_new_line9: 'clean
+
+  lion
+
+  large
+
+  fever
+
+  tool
+
+  identify
+
+  eyebrow
+
+  olive
+
+  pave'
+bip_39_word_space_0:
+- clean
+- lion
+- large
+- fever
+- tool
+- identify
+- eyebrow
+- olive
+- pave
+- minor
+- mass
+- all
+bip_39_word_space_1: clean
+bip_39_word_space_10: clean lion large fever tool identify eyebrow olive pave minor
+bip_39_word_space_11: clean lion large fever tool identify eyebrow olive pave minor
+  mass
+bip_39_word_space_12: clean lion large fever tool identify eyebrow olive pave minor
+  mass all
+bip_39_word_space_2: clean lion
+bip_39_word_space_3: clean lion large
+bip_39_word_space_4: clean lion large fever
+bip_39_word_space_5: clean lion large fever tool
+bip_39_word_space_6: clean lion large fever tool identify
+bip_39_word_space_7: clean lion large fever tool identify eyebrow
+bip_39_word_space_8: clean lion large fever tool identify eyebrow olive
+bip_39_word_space_9: clean lion large fever tool identify eyebrow olive pave
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

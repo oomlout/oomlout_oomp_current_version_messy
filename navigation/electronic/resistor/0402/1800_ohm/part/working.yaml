@@ -1,3 +1,187 @@
+bip_39_word_new_br1: child
+bip_39_word_new_br10: child<br>loan<br>barely<br>budget<br>panther<br>inquiry<br>situate<br>timber<br>buyer<br>speak
+bip_39_word_new_br11: child<br>loan<br>barely<br>budget<br>panther<br>inquiry<br>situate<br>timber<br>buyer<br>speak<br>degree
+bip_39_word_new_br12: child<br>loan<br>barely<br>budget<br>panther<br>inquiry<br>situate<br>timber<br>buyer<br>speak<br>degree<br>alley
+bip_39_word_new_br2: child<br>loan
+bip_39_word_new_br3: child<br>loan<br>barely
+bip_39_word_new_br4: child<br>loan<br>barely<br>budget
+bip_39_word_new_br5: child<br>loan<br>barely<br>budget<br>panther
+bip_39_word_new_br6: child<br>loan<br>barely<br>budget<br>panther<br>inquiry
+bip_39_word_new_br7: child<br>loan<br>barely<br>budget<br>panther<br>inquiry<br>situate
+bip_39_word_new_br8: child<br>loan<br>barely<br>budget<br>panther<br>inquiry<br>situate<br>timber
+bip_39_word_new_br9: child<br>loan<br>barely<br>budget<br>panther<br>inquiry<br>situate<br>timber<br>buyer
+bip_39_word_new_line1: child
+bip_39_word_new_line10: 'child
+
+  loan
+
+  barely
+
+  budget
+
+  panther
+
+  inquiry
+
+  situate
+
+  timber
+
+  buyer
+
+  speak'
+bip_39_word_new_line11: 'child
+
+  loan
+
+  barely
+
+  budget
+
+  panther
+
+  inquiry
+
+  situate
+
+  timber
+
+  buyer
+
+  speak
+
+  degree'
+bip_39_word_new_line12: 'child
+
+  loan
+
+  barely
+
+  budget
+
+  panther
+
+  inquiry
+
+  situate
+
+  timber
+
+  buyer
+
+  speak
+
+  degree
+
+  alley'
+bip_39_word_new_line2: 'child
+
+  loan'
+bip_39_word_new_line3: 'child
+
+  loan
+
+  barely'
+bip_39_word_new_line4: 'child
+
+  loan
+
+  barely
+
+  budget'
+bip_39_word_new_line5: 'child
+
+  loan
+
+  barely
+
+  budget
+
+  panther'
+bip_39_word_new_line6: 'child
+
+  loan
+
+  barely
+
+  budget
+
+  panther
+
+  inquiry'
+bip_39_word_new_line7: 'child
+
+  loan
+
+  barely
+
+  budget
+
+  panther
+
+  inquiry
+
+  situate'
+bip_39_word_new_line8: 'child
+
+  loan
+
+  barely
+
+  budget
+
+  panther
+
+  inquiry
+
+  situate
+
+  timber'
+bip_39_word_new_line9: 'child
+
+  loan
+
+  barely
+
+  budget
+
+  panther
+
+  inquiry
+
+  situate
+
+  timber
+
+  buyer'
+bip_39_word_space_0:
+- child
+- loan
+- barely
+- budget
+- panther
+- inquiry
+- situate
+- timber
+- buyer
+- speak
+- degree
+- alley
+bip_39_word_space_1: child
+bip_39_word_space_10: child loan barely budget panther inquiry situate timber buyer
+  speak
+bip_39_word_space_11: child loan barely budget panther inquiry situate timber buyer
+  speak degree
+bip_39_word_space_12: child loan barely budget panther inquiry situate timber buyer
+  speak degree alley
+bip_39_word_space_2: child loan
+bip_39_word_space_3: child loan barely
+bip_39_word_space_4: child loan barely budget
+bip_39_word_space_5: child loan barely budget panther
+bip_39_word_space_6: child loan barely budget panther inquiry
+bip_39_word_space_7: child loan barely budget panther inquiry situate
+bip_39_word_space_8: child loan barely budget panther inquiry situate timber
+bip_39_word_space_9: child loan barely budget panther inquiry situate timber buyer
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

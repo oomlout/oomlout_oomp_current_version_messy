@@ -1,3 +1,186 @@
+bip_39_word_new_br1: endless
+bip_39_word_new_br10: endless<br>physical<br>outside<br>result<br>uncle<br>edge<br>menu<br>name<br>nurse<br>derive
+bip_39_word_new_br11: endless<br>physical<br>outside<br>result<br>uncle<br>edge<br>menu<br>name<br>nurse<br>derive<br>miracle
+bip_39_word_new_br12: endless<br>physical<br>outside<br>result<br>uncle<br>edge<br>menu<br>name<br>nurse<br>derive<br>miracle<br>appear
+bip_39_word_new_br2: endless<br>physical
+bip_39_word_new_br3: endless<br>physical<br>outside
+bip_39_word_new_br4: endless<br>physical<br>outside<br>result
+bip_39_word_new_br5: endless<br>physical<br>outside<br>result<br>uncle
+bip_39_word_new_br6: endless<br>physical<br>outside<br>result<br>uncle<br>edge
+bip_39_word_new_br7: endless<br>physical<br>outside<br>result<br>uncle<br>edge<br>menu
+bip_39_word_new_br8: endless<br>physical<br>outside<br>result<br>uncle<br>edge<br>menu<br>name
+bip_39_word_new_br9: endless<br>physical<br>outside<br>result<br>uncle<br>edge<br>menu<br>name<br>nurse
+bip_39_word_new_line1: endless
+bip_39_word_new_line10: 'endless
+
+  physical
+
+  outside
+
+  result
+
+  uncle
+
+  edge
+
+  menu
+
+  name
+
+  nurse
+
+  derive'
+bip_39_word_new_line11: 'endless
+
+  physical
+
+  outside
+
+  result
+
+  uncle
+
+  edge
+
+  menu
+
+  name
+
+  nurse
+
+  derive
+
+  miracle'
+bip_39_word_new_line12: 'endless
+
+  physical
+
+  outside
+
+  result
+
+  uncle
+
+  edge
+
+  menu
+
+  name
+
+  nurse
+
+  derive
+
+  miracle
+
+  appear'
+bip_39_word_new_line2: 'endless
+
+  physical'
+bip_39_word_new_line3: 'endless
+
+  physical
+
+  outside'
+bip_39_word_new_line4: 'endless
+
+  physical
+
+  outside
+
+  result'
+bip_39_word_new_line5: 'endless
+
+  physical
+
+  outside
+
+  result
+
+  uncle'
+bip_39_word_new_line6: 'endless
+
+  physical
+
+  outside
+
+  result
+
+  uncle
+
+  edge'
+bip_39_word_new_line7: 'endless
+
+  physical
+
+  outside
+
+  result
+
+  uncle
+
+  edge
+
+  menu'
+bip_39_word_new_line8: 'endless
+
+  physical
+
+  outside
+
+  result
+
+  uncle
+
+  edge
+
+  menu
+
+  name'
+bip_39_word_new_line9: 'endless
+
+  physical
+
+  outside
+
+  result
+
+  uncle
+
+  edge
+
+  menu
+
+  name
+
+  nurse'
+bip_39_word_space_0:
+- endless
+- physical
+- outside
+- result
+- uncle
+- edge
+- menu
+- name
+- nurse
+- derive
+- miracle
+- appear
+bip_39_word_space_1: endless
+bip_39_word_space_10: endless physical outside result uncle edge menu name nurse derive
+bip_39_word_space_11: endless physical outside result uncle edge menu name nurse derive
+  miracle
+bip_39_word_space_12: endless physical outside result uncle edge menu name nurse derive
+  miracle appear
+bip_39_word_space_2: endless physical
+bip_39_word_space_3: endless physical outside
+bip_39_word_space_4: endless physical outside result
+bip_39_word_space_5: endless physical outside result uncle
+bip_39_word_space_6: endless physical outside result uncle edge
+bip_39_word_space_7: endless physical outside result uncle edge menu
+bip_39_word_space_8: endless physical outside result uncle edge menu name
+bip_39_word_space_9: endless physical outside result uncle edge menu name nurse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

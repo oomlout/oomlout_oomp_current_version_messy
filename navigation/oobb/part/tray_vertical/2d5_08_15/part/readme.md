@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: aware proof
+  * bip 39 word 3: aware proof surface
+  * bip 39 word: aware proof surface consider manual lesson stick swear polar peace weird airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | aware |  
+| bip_39_word_new_br10 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace |  
+| bip_39_word_new_br11 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace<br>weird |  
+| bip_39_word_new_br12 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar<br>peace<br>weird<br>airport |  
+| bip_39_word_new_br2 | aware<br>proof |  
+| bip_39_word_new_br3 | aware<br>proof<br>surface |  
+| bip_39_word_new_br4 | aware<br>proof<br>surface<br>consider |  
+| bip_39_word_new_br5 | aware<br>proof<br>surface<br>consider<br>manual |  
+| bip_39_word_new_br6 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson |  
+| bip_39_word_new_br7 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick |  
+| bip_39_word_new_br8 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear |  
+| bip_39_word_new_br9 | aware<br>proof<br>surface<br>consider<br>manual<br>lesson<br>stick<br>swear<br>polar |  
+| bip_39_word_new_line1 | aware |  
+| bip_39_word_new_line10 | aware
+proof
+surface
+consider
+manual
+lesson
+stick
+swear
+polar
+peace |  
+| bip_39_word_new_line11 | aware
+proof
+surface
+consider
+manual
+lesson
+stick
+swear
+polar
+peace
+weird |  
+| bip_39_word_new_line12 | aware
+proof
+surface
+consider
+manual
+lesson
+stick
+swear
+polar
+peace
+weird
+airport |  
+| bip_39_word_new_line2 | aware
+proof |  
+| bip_39_word_new_line3 | aware
+proof
+surface |  
+| bip_39_word_new_line4 | aware
+proof
+surface
+consider |  
+| bip_39_word_new_line5 | aware
+proof
+surface
+consider
+manual |  
+| bip_39_word_new_line6 | aware
+proof
+surface
+consider
+manual
+lesson |  
+| bip_39_word_new_line7 | aware
+proof
+surface
+consider
+manual
+lesson
+stick |  
+| bip_39_word_new_line8 | aware
+proof
+surface
+consider
+manual
+lesson
+stick
+swear |  
+| bip_39_word_new_line9 | aware
+proof
+surface
+consider
+manual
+lesson
+stick
+swear
+polar |  
+| bip_39_word_space_0 | ['aware', 'proof', 'surface', 'consider', 'manual', 'lesson', 'stick', 'swear', 'polar', 'peace', 'weird', 'airport'] |  
+| bip_39_word_space_1 | aware |  
+| bip_39_word_space_10 | aware proof surface consider manual lesson stick swear polar peace |  
+| bip_39_word_space_11 | aware proof surface consider manual lesson stick swear polar peace weird |  
+| bip_39_word_space_12 | aware proof surface consider manual lesson stick swear polar peace weird airport |  
+| bip_39_word_space_2 | aware proof |  
+| bip_39_word_space_3 | aware proof surface |  
+| bip_39_word_space_4 | aware proof surface consider |  
+| bip_39_word_space_5 | aware proof surface consider manual |  
+| bip_39_word_space_6 | aware proof surface consider manual lesson |  
+| bip_39_word_space_7 | aware proof surface consider manual lesson stick |  
+| bip_39_word_space_8 | aware proof surface consider manual lesson stick swear |  
+| bip_39_word_space_9 | aware proof surface consider manual lesson stick swear polar |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

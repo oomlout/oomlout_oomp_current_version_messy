@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: adjust tower
+  * bip 39 word 3: adjust tower company
+  * bip 39 word: adjust tower company force into jeans outdoor crush length tube detail anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | adjust |  
+| bip_39_word_new_br10 | adjust<br>tower<br>company<br>force<br>into<br>jeans<br>outdoor<br>crush<br>length<br>tube |  
+| bip_39_word_new_br11 | adjust<br>tower<br>company<br>force<br>into<br>jeans<br>outdoor<br>crush<br>length<br>tube<br>detail |  
+| bip_39_word_new_br12 | adjust<br>tower<br>company<br>force<br>into<br>jeans<br>outdoor<br>crush<br>length<br>tube<br>detail<br>anxiety |  
+| bip_39_word_new_br2 | adjust<br>tower |  
+| bip_39_word_new_br3 | adjust<br>tower<br>company |  
+| bip_39_word_new_br4 | adjust<br>tower<br>company<br>force |  
+| bip_39_word_new_br5 | adjust<br>tower<br>company<br>force<br>into |  
+| bip_39_word_new_br6 | adjust<br>tower<br>company<br>force<br>into<br>jeans |  
+| bip_39_word_new_br7 | adjust<br>tower<br>company<br>force<br>into<br>jeans<br>outdoor |  
+| bip_39_word_new_br8 | adjust<br>tower<br>company<br>force<br>into<br>jeans<br>outdoor<br>crush |  
+| bip_39_word_new_br9 | adjust<br>tower<br>company<br>force<br>into<br>jeans<br>outdoor<br>crush<br>length |  
+| bip_39_word_new_line1 | adjust |  
+| bip_39_word_new_line10 | adjust
+tower
+company
+force
+into
+jeans
+outdoor
+crush
+length
+tube |  
+| bip_39_word_new_line11 | adjust
+tower
+company
+force
+into
+jeans
+outdoor
+crush
+length
+tube
+detail |  
+| bip_39_word_new_line12 | adjust
+tower
+company
+force
+into
+jeans
+outdoor
+crush
+length
+tube
+detail
+anxiety |  
+| bip_39_word_new_line2 | adjust
+tower |  
+| bip_39_word_new_line3 | adjust
+tower
+company |  
+| bip_39_word_new_line4 | adjust
+tower
+company
+force |  
+| bip_39_word_new_line5 | adjust
+tower
+company
+force
+into |  
+| bip_39_word_new_line6 | adjust
+tower
+company
+force
+into
+jeans |  
+| bip_39_word_new_line7 | adjust
+tower
+company
+force
+into
+jeans
+outdoor |  
+| bip_39_word_new_line8 | adjust
+tower
+company
+force
+into
+jeans
+outdoor
+crush |  
+| bip_39_word_new_line9 | adjust
+tower
+company
+force
+into
+jeans
+outdoor
+crush
+length |  
+| bip_39_word_space_0 | ['adjust', 'tower', 'company', 'force', 'into', 'jeans', 'outdoor', 'crush', 'length', 'tube', 'detail', 'anxiety'] |  
+| bip_39_word_space_1 | adjust |  
+| bip_39_word_space_10 | adjust tower company force into jeans outdoor crush length tube |  
+| bip_39_word_space_11 | adjust tower company force into jeans outdoor crush length tube detail |  
+| bip_39_word_space_12 | adjust tower company force into jeans outdoor crush length tube detail anxiety |  
+| bip_39_word_space_2 | adjust tower |  
+| bip_39_word_space_3 | adjust tower company |  
+| bip_39_word_space_4 | adjust tower company force |  
+| bip_39_word_space_5 | adjust tower company force into |  
+| bip_39_word_space_6 | adjust tower company force into jeans |  
+| bip_39_word_space_7 | adjust tower company force into jeans outdoor |  
+| bip_39_word_space_8 | adjust tower company force into jeans outdoor crush |  
+| bip_39_word_space_9 | adjust tower company force into jeans outdoor crush length |  
 | classification | electrical |  
 | classification_capital | Electrical |  
 | classification_first_letter | e |  

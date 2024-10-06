@@ -1,3 +1,187 @@
+bip_39_word_new_br1: mouse
+bip_39_word_new_br10: mouse<br>quit<br>slim<br>before<br>describe<br>seminar<br>exchange<br>seat<br>stamp<br>wheel
+bip_39_word_new_br11: mouse<br>quit<br>slim<br>before<br>describe<br>seminar<br>exchange<br>seat<br>stamp<br>wheel<br>neither
+bip_39_word_new_br12: mouse<br>quit<br>slim<br>before<br>describe<br>seminar<br>exchange<br>seat<br>stamp<br>wheel<br>neither<br>argue
+bip_39_word_new_br2: mouse<br>quit
+bip_39_word_new_br3: mouse<br>quit<br>slim
+bip_39_word_new_br4: mouse<br>quit<br>slim<br>before
+bip_39_word_new_br5: mouse<br>quit<br>slim<br>before<br>describe
+bip_39_word_new_br6: mouse<br>quit<br>slim<br>before<br>describe<br>seminar
+bip_39_word_new_br7: mouse<br>quit<br>slim<br>before<br>describe<br>seminar<br>exchange
+bip_39_word_new_br8: mouse<br>quit<br>slim<br>before<br>describe<br>seminar<br>exchange<br>seat
+bip_39_word_new_br9: mouse<br>quit<br>slim<br>before<br>describe<br>seminar<br>exchange<br>seat<br>stamp
+bip_39_word_new_line1: mouse
+bip_39_word_new_line10: 'mouse
+
+  quit
+
+  slim
+
+  before
+
+  describe
+
+  seminar
+
+  exchange
+
+  seat
+
+  stamp
+
+  wheel'
+bip_39_word_new_line11: 'mouse
+
+  quit
+
+  slim
+
+  before
+
+  describe
+
+  seminar
+
+  exchange
+
+  seat
+
+  stamp
+
+  wheel
+
+  neither'
+bip_39_word_new_line12: 'mouse
+
+  quit
+
+  slim
+
+  before
+
+  describe
+
+  seminar
+
+  exchange
+
+  seat
+
+  stamp
+
+  wheel
+
+  neither
+
+  argue'
+bip_39_word_new_line2: 'mouse
+
+  quit'
+bip_39_word_new_line3: 'mouse
+
+  quit
+
+  slim'
+bip_39_word_new_line4: 'mouse
+
+  quit
+
+  slim
+
+  before'
+bip_39_word_new_line5: 'mouse
+
+  quit
+
+  slim
+
+  before
+
+  describe'
+bip_39_word_new_line6: 'mouse
+
+  quit
+
+  slim
+
+  before
+
+  describe
+
+  seminar'
+bip_39_word_new_line7: 'mouse
+
+  quit
+
+  slim
+
+  before
+
+  describe
+
+  seminar
+
+  exchange'
+bip_39_word_new_line8: 'mouse
+
+  quit
+
+  slim
+
+  before
+
+  describe
+
+  seminar
+
+  exchange
+
+  seat'
+bip_39_word_new_line9: 'mouse
+
+  quit
+
+  slim
+
+  before
+
+  describe
+
+  seminar
+
+  exchange
+
+  seat
+
+  stamp'
+bip_39_word_space_0:
+- mouse
+- quit
+- slim
+- before
+- describe
+- seminar
+- exchange
+- seat
+- stamp
+- wheel
+- neither
+- argue
+bip_39_word_space_1: mouse
+bip_39_word_space_10: mouse quit slim before describe seminar exchange seat stamp
+  wheel
+bip_39_word_space_11: mouse quit slim before describe seminar exchange seat stamp
+  wheel neither
+bip_39_word_space_12: mouse quit slim before describe seminar exchange seat stamp
+  wheel neither argue
+bip_39_word_space_2: mouse quit
+bip_39_word_space_3: mouse quit slim
+bip_39_word_space_4: mouse quit slim before
+bip_39_word_space_5: mouse quit slim before describe
+bip_39_word_space_6: mouse quit slim before describe seminar
+bip_39_word_space_7: mouse quit slim before describe seminar exchange
+bip_39_word_space_8: mouse quit slim before describe seminar exchange seat
+bip_39_word_space_9: mouse quit slim before describe seminar exchange seat stamp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

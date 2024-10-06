@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: timber lonely
+  * bip 39 word 3: timber lonely left
+  * bip 39 word: timber lonely left amount mercy wrong solve bar rent whisper rice angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | timber |  
+| bip_39_word_new_br10 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong<br>solve<br>bar<br>rent<br>whisper |  
+| bip_39_word_new_br11 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong<br>solve<br>bar<br>rent<br>whisper<br>rice |  
+| bip_39_word_new_br12 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong<br>solve<br>bar<br>rent<br>whisper<br>rice<br>angle |  
+| bip_39_word_new_br2 | timber<br>lonely |  
+| bip_39_word_new_br3 | timber<br>lonely<br>left |  
+| bip_39_word_new_br4 | timber<br>lonely<br>left<br>amount |  
+| bip_39_word_new_br5 | timber<br>lonely<br>left<br>amount<br>mercy |  
+| bip_39_word_new_br6 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong |  
+| bip_39_word_new_br7 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong<br>solve |  
+| bip_39_word_new_br8 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong<br>solve<br>bar |  
+| bip_39_word_new_br9 | timber<br>lonely<br>left<br>amount<br>mercy<br>wrong<br>solve<br>bar<br>rent |  
+| bip_39_word_new_line1 | timber |  
+| bip_39_word_new_line10 | timber
+lonely
+left
+amount
+mercy
+wrong
+solve
+bar
+rent
+whisper |  
+| bip_39_word_new_line11 | timber
+lonely
+left
+amount
+mercy
+wrong
+solve
+bar
+rent
+whisper
+rice |  
+| bip_39_word_new_line12 | timber
+lonely
+left
+amount
+mercy
+wrong
+solve
+bar
+rent
+whisper
+rice
+angle |  
+| bip_39_word_new_line2 | timber
+lonely |  
+| bip_39_word_new_line3 | timber
+lonely
+left |  
+| bip_39_word_new_line4 | timber
+lonely
+left
+amount |  
+| bip_39_word_new_line5 | timber
+lonely
+left
+amount
+mercy |  
+| bip_39_word_new_line6 | timber
+lonely
+left
+amount
+mercy
+wrong |  
+| bip_39_word_new_line7 | timber
+lonely
+left
+amount
+mercy
+wrong
+solve |  
+| bip_39_word_new_line8 | timber
+lonely
+left
+amount
+mercy
+wrong
+solve
+bar |  
+| bip_39_word_new_line9 | timber
+lonely
+left
+amount
+mercy
+wrong
+solve
+bar
+rent |  
+| bip_39_word_space_0 | ['timber', 'lonely', 'left', 'amount', 'mercy', 'wrong', 'solve', 'bar', 'rent', 'whisper', 'rice', 'angle'] |  
+| bip_39_word_space_1 | timber |  
+| bip_39_word_space_10 | timber lonely left amount mercy wrong solve bar rent whisper |  
+| bip_39_word_space_11 | timber lonely left amount mercy wrong solve bar rent whisper rice |  
+| bip_39_word_space_12 | timber lonely left amount mercy wrong solve bar rent whisper rice angle |  
+| bip_39_word_space_2 | timber lonely |  
+| bip_39_word_space_3 | timber lonely left |  
+| bip_39_word_space_4 | timber lonely left amount |  
+| bip_39_word_space_5 | timber lonely left amount mercy |  
+| bip_39_word_space_6 | timber lonely left amount mercy wrong |  
+| bip_39_word_space_7 | timber lonely left amount mercy wrong solve |  
+| bip_39_word_space_8 | timber lonely left amount mercy wrong solve bar |  
+| bip_39_word_space_9 | timber lonely left amount mercy wrong solve bar rent |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: festival prosper
+  * bip 39 word 3: festival prosper vessel
+  * bip 39 word: festival prosper vessel bag enjoy leg security eager edit game soap art
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | festival |  
+| bip_39_word_new_br10 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg<br>security<br>eager<br>edit<br>game |  
+| bip_39_word_new_br11 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg<br>security<br>eager<br>edit<br>game<br>soap |  
+| bip_39_word_new_br12 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg<br>security<br>eager<br>edit<br>game<br>soap<br>art |  
+| bip_39_word_new_br2 | festival<br>prosper |  
+| bip_39_word_new_br3 | festival<br>prosper<br>vessel |  
+| bip_39_word_new_br4 | festival<br>prosper<br>vessel<br>bag |  
+| bip_39_word_new_br5 | festival<br>prosper<br>vessel<br>bag<br>enjoy |  
+| bip_39_word_new_br6 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg |  
+| bip_39_word_new_br7 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg<br>security |  
+| bip_39_word_new_br8 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg<br>security<br>eager |  
+| bip_39_word_new_br9 | festival<br>prosper<br>vessel<br>bag<br>enjoy<br>leg<br>security<br>eager<br>edit |  
+| bip_39_word_new_line1 | festival |  
+| bip_39_word_new_line10 | festival
+prosper
+vessel
+bag
+enjoy
+leg
+security
+eager
+edit
+game |  
+| bip_39_word_new_line11 | festival
+prosper
+vessel
+bag
+enjoy
+leg
+security
+eager
+edit
+game
+soap |  
+| bip_39_word_new_line12 | festival
+prosper
+vessel
+bag
+enjoy
+leg
+security
+eager
+edit
+game
+soap
+art |  
+| bip_39_word_new_line2 | festival
+prosper |  
+| bip_39_word_new_line3 | festival
+prosper
+vessel |  
+| bip_39_word_new_line4 | festival
+prosper
+vessel
+bag |  
+| bip_39_word_new_line5 | festival
+prosper
+vessel
+bag
+enjoy |  
+| bip_39_word_new_line6 | festival
+prosper
+vessel
+bag
+enjoy
+leg |  
+| bip_39_word_new_line7 | festival
+prosper
+vessel
+bag
+enjoy
+leg
+security |  
+| bip_39_word_new_line8 | festival
+prosper
+vessel
+bag
+enjoy
+leg
+security
+eager |  
+| bip_39_word_new_line9 | festival
+prosper
+vessel
+bag
+enjoy
+leg
+security
+eager
+edit |  
+| bip_39_word_space_0 | ['festival', 'prosper', 'vessel', 'bag', 'enjoy', 'leg', 'security', 'eager', 'edit', 'game', 'soap', 'art'] |  
+| bip_39_word_space_1 | festival |  
+| bip_39_word_space_10 | festival prosper vessel bag enjoy leg security eager edit game |  
+| bip_39_word_space_11 | festival prosper vessel bag enjoy leg security eager edit game soap |  
+| bip_39_word_space_12 | festival prosper vessel bag enjoy leg security eager edit game soap art |  
+| bip_39_word_space_2 | festival prosper |  
+| bip_39_word_space_3 | festival prosper vessel |  
+| bip_39_word_space_4 | festival prosper vessel bag |  
+| bip_39_word_space_5 | festival prosper vessel bag enjoy |  
+| bip_39_word_space_6 | festival prosper vessel bag enjoy leg |  
+| bip_39_word_space_7 | festival prosper vessel bag enjoy leg security |  
+| bip_39_word_space_8 | festival prosper vessel bag enjoy leg security eager |  
+| bip_39_word_space_9 | festival prosper vessel bag enjoy leg security eager edit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pulp casual
+  * bip 39 word 3: pulp casual sense
+  * bip 39 word: pulp casual sense hundred gossip banana earth carpet soup leave speak apart
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pulp |  
+| bip_39_word_new_br10 | pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana<br>earth<br>carpet<br>soup<br>leave |  
+| bip_39_word_new_br11 | pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana<br>earth<br>carpet<br>soup<br>leave<br>speak |  
+| bip_39_word_new_br12 | pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana<br>earth<br>carpet<br>soup<br>leave<br>speak<br>apart |  
+| bip_39_word_new_br2 | pulp<br>casual |  
+| bip_39_word_new_br3 | pulp<br>casual<br>sense |  
+| bip_39_word_new_br4 | pulp<br>casual<br>sense<br>hundred |  
+| bip_39_word_new_br5 | pulp<br>casual<br>sense<br>hundred<br>gossip |  
+| bip_39_word_new_br6 | pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana |  
+| bip_39_word_new_br7 | pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana<br>earth |  
+| bip_39_word_new_br8 | pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana<br>earth<br>carpet |  
+| bip_39_word_new_br9 | pulp<br>casual<br>sense<br>hundred<br>gossip<br>banana<br>earth<br>carpet<br>soup |  
+| bip_39_word_new_line1 | pulp |  
+| bip_39_word_new_line10 | pulp
+casual
+sense
+hundred
+gossip
+banana
+earth
+carpet
+soup
+leave |  
+| bip_39_word_new_line11 | pulp
+casual
+sense
+hundred
+gossip
+banana
+earth
+carpet
+soup
+leave
+speak |  
+| bip_39_word_new_line12 | pulp
+casual
+sense
+hundred
+gossip
+banana
+earth
+carpet
+soup
+leave
+speak
+apart |  
+| bip_39_word_new_line2 | pulp
+casual |  
+| bip_39_word_new_line3 | pulp
+casual
+sense |  
+| bip_39_word_new_line4 | pulp
+casual
+sense
+hundred |  
+| bip_39_word_new_line5 | pulp
+casual
+sense
+hundred
+gossip |  
+| bip_39_word_new_line6 | pulp
+casual
+sense
+hundred
+gossip
+banana |  
+| bip_39_word_new_line7 | pulp
+casual
+sense
+hundred
+gossip
+banana
+earth |  
+| bip_39_word_new_line8 | pulp
+casual
+sense
+hundred
+gossip
+banana
+earth
+carpet |  
+| bip_39_word_new_line9 | pulp
+casual
+sense
+hundred
+gossip
+banana
+earth
+carpet
+soup |  
+| bip_39_word_space_0 | ['pulp', 'casual', 'sense', 'hundred', 'gossip', 'banana', 'earth', 'carpet', 'soup', 'leave', 'speak', 'apart'] |  
+| bip_39_word_space_1 | pulp |  
+| bip_39_word_space_10 | pulp casual sense hundred gossip banana earth carpet soup leave |  
+| bip_39_word_space_11 | pulp casual sense hundred gossip banana earth carpet soup leave speak |  
+| bip_39_word_space_12 | pulp casual sense hundred gossip banana earth carpet soup leave speak apart |  
+| bip_39_word_space_2 | pulp casual |  
+| bip_39_word_space_3 | pulp casual sense |  
+| bip_39_word_space_4 | pulp casual sense hundred |  
+| bip_39_word_space_5 | pulp casual sense hundred gossip |  
+| bip_39_word_space_6 | pulp casual sense hundred gossip banana |  
+| bip_39_word_space_7 | pulp casual sense hundred gossip banana earth |  
+| bip_39_word_space_8 | pulp casual sense hundred gossip banana earth carpet |  
+| bip_39_word_space_9 | pulp casual sense hundred gossip banana earth carpet soup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

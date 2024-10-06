@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stairs crucial
+  * bip 39 word 3: stairs crucial govern
+  * bip 39 word: stairs crucial govern key reflect hope couple taste admit shove aware autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stairs |  
+| bip_39_word_new_br10 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove |  
+| bip_39_word_new_br11 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove<br>aware |  
+| bip_39_word_new_br12 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit<br>shove<br>aware<br>autumn |  
+| bip_39_word_new_br2 | stairs<br>crucial |  
+| bip_39_word_new_br3 | stairs<br>crucial<br>govern |  
+| bip_39_word_new_br4 | stairs<br>crucial<br>govern<br>key |  
+| bip_39_word_new_br5 | stairs<br>crucial<br>govern<br>key<br>reflect |  
+| bip_39_word_new_br6 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope |  
+| bip_39_word_new_br7 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple |  
+| bip_39_word_new_br8 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste |  
+| bip_39_word_new_br9 | stairs<br>crucial<br>govern<br>key<br>reflect<br>hope<br>couple<br>taste<br>admit |  
+| bip_39_word_new_line1 | stairs |  
+| bip_39_word_new_line10 | stairs
+crucial
+govern
+key
+reflect
+hope
+couple
+taste
+admit
+shove |  
+| bip_39_word_new_line11 | stairs
+crucial
+govern
+key
+reflect
+hope
+couple
+taste
+admit
+shove
+aware |  
+| bip_39_word_new_line12 | stairs
+crucial
+govern
+key
+reflect
+hope
+couple
+taste
+admit
+shove
+aware
+autumn |  
+| bip_39_word_new_line2 | stairs
+crucial |  
+| bip_39_word_new_line3 | stairs
+crucial
+govern |  
+| bip_39_word_new_line4 | stairs
+crucial
+govern
+key |  
+| bip_39_word_new_line5 | stairs
+crucial
+govern
+key
+reflect |  
+| bip_39_word_new_line6 | stairs
+crucial
+govern
+key
+reflect
+hope |  
+| bip_39_word_new_line7 | stairs
+crucial
+govern
+key
+reflect
+hope
+couple |  
+| bip_39_word_new_line8 | stairs
+crucial
+govern
+key
+reflect
+hope
+couple
+taste |  
+| bip_39_word_new_line9 | stairs
+crucial
+govern
+key
+reflect
+hope
+couple
+taste
+admit |  
+| bip_39_word_space_0 | ['stairs', 'crucial', 'govern', 'key', 'reflect', 'hope', 'couple', 'taste', 'admit', 'shove', 'aware', 'autumn'] |  
+| bip_39_word_space_1 | stairs |  
+| bip_39_word_space_10 | stairs crucial govern key reflect hope couple taste admit shove |  
+| bip_39_word_space_11 | stairs crucial govern key reflect hope couple taste admit shove aware |  
+| bip_39_word_space_12 | stairs crucial govern key reflect hope couple taste admit shove aware autumn |  
+| bip_39_word_space_2 | stairs crucial |  
+| bip_39_word_space_3 | stairs crucial govern |  
+| bip_39_word_space_4 | stairs crucial govern key |  
+| bip_39_word_space_5 | stairs crucial govern key reflect |  
+| bip_39_word_space_6 | stairs crucial govern key reflect hope |  
+| bip_39_word_space_7 | stairs crucial govern key reflect hope couple |  
+| bip_39_word_space_8 | stairs crucial govern key reflect hope couple taste |  
+| bip_39_word_space_9 | stairs crucial govern key reflect hope couple taste admit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

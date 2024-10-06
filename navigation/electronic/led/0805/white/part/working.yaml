@@ -1,3 +1,186 @@
+bip_39_word_new_br1: deputy
+bip_39_word_new_br10: deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve
+bip_39_word_new_br11: deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve<br>error
+bip_39_word_new_br12: deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango<br>achieve<br>error<br>alert
+bip_39_word_new_br2: deputy<br>frame
+bip_39_word_new_br3: deputy<br>frame<br>length
+bip_39_word_new_br4: deputy<br>frame<br>length<br>rule
+bip_39_word_new_br5: deputy<br>frame<br>length<br>rule<br>toddler
+bip_39_word_new_br6: deputy<br>frame<br>length<br>rule<br>toddler<br>bleak
+bip_39_word_new_br7: deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag
+bip_39_word_new_br8: deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van
+bip_39_word_new_br9: deputy<br>frame<br>length<br>rule<br>toddler<br>bleak<br>tag<br>van<br>mango
+bip_39_word_new_line1: deputy
+bip_39_word_new_line10: 'deputy
+
+  frame
+
+  length
+
+  rule
+
+  toddler
+
+  bleak
+
+  tag
+
+  van
+
+  mango
+
+  achieve'
+bip_39_word_new_line11: 'deputy
+
+  frame
+
+  length
+
+  rule
+
+  toddler
+
+  bleak
+
+  tag
+
+  van
+
+  mango
+
+  achieve
+
+  error'
+bip_39_word_new_line12: 'deputy
+
+  frame
+
+  length
+
+  rule
+
+  toddler
+
+  bleak
+
+  tag
+
+  van
+
+  mango
+
+  achieve
+
+  error
+
+  alert'
+bip_39_word_new_line2: 'deputy
+
+  frame'
+bip_39_word_new_line3: 'deputy
+
+  frame
+
+  length'
+bip_39_word_new_line4: 'deputy
+
+  frame
+
+  length
+
+  rule'
+bip_39_word_new_line5: 'deputy
+
+  frame
+
+  length
+
+  rule
+
+  toddler'
+bip_39_word_new_line6: 'deputy
+
+  frame
+
+  length
+
+  rule
+
+  toddler
+
+  bleak'
+bip_39_word_new_line7: 'deputy
+
+  frame
+
+  length
+
+  rule
+
+  toddler
+
+  bleak
+
+  tag'
+bip_39_word_new_line8: 'deputy
+
+  frame
+
+  length
+
+  rule
+
+  toddler
+
+  bleak
+
+  tag
+
+  van'
+bip_39_word_new_line9: 'deputy
+
+  frame
+
+  length
+
+  rule
+
+  toddler
+
+  bleak
+
+  tag
+
+  van
+
+  mango'
+bip_39_word_space_0:
+- deputy
+- frame
+- length
+- rule
+- toddler
+- bleak
+- tag
+- van
+- mango
+- achieve
+- error
+- alert
+bip_39_word_space_1: deputy
+bip_39_word_space_10: deputy frame length rule toddler bleak tag van mango achieve
+bip_39_word_space_11: deputy frame length rule toddler bleak tag van mango achieve
+  error
+bip_39_word_space_12: deputy frame length rule toddler bleak tag van mango achieve
+  error alert
+bip_39_word_space_2: deputy frame
+bip_39_word_space_3: deputy frame length
+bip_39_word_space_4: deputy frame length rule
+bip_39_word_space_5: deputy frame length rule toddler
+bip_39_word_space_6: deputy frame length rule toddler bleak
+bip_39_word_space_7: deputy frame length rule toddler bleak tag
+bip_39_word_space_8: deputy frame length rule toddler bleak tag van
+bip_39_word_space_9: deputy frame length rule toddler bleak tag van mango
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

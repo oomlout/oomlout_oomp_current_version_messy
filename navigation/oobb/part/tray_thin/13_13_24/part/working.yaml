@@ -1,3 +1,186 @@
+bip_39_word_new_br1: reunion
+bip_39_word_new_br10: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave<br>kick<br>peace<br>worry<br>twice
+bip_39_word_new_br11: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave<br>kick<br>peace<br>worry<br>twice<br>flock
+bip_39_word_new_br12: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave<br>kick<br>peace<br>worry<br>twice<br>flock<br>argue
+bip_39_word_new_br2: reunion<br>palm
+bip_39_word_new_br3: reunion<br>palm<br>erupt
+bip_39_word_new_br4: reunion<br>palm<br>erupt<br>sun
+bip_39_word_new_br5: reunion<br>palm<br>erupt<br>sun<br>ketchup
+bip_39_word_new_br6: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave
+bip_39_word_new_br7: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave<br>kick
+bip_39_word_new_br8: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave<br>kick<br>peace
+bip_39_word_new_br9: reunion<br>palm<br>erupt<br>sun<br>ketchup<br>leave<br>kick<br>peace<br>worry
+bip_39_word_new_line1: reunion
+bip_39_word_new_line10: 'reunion
+
+  palm
+
+  erupt
+
+  sun
+
+  ketchup
+
+  leave
+
+  kick
+
+  peace
+
+  worry
+
+  twice'
+bip_39_word_new_line11: 'reunion
+
+  palm
+
+  erupt
+
+  sun
+
+  ketchup
+
+  leave
+
+  kick
+
+  peace
+
+  worry
+
+  twice
+
+  flock'
+bip_39_word_new_line12: 'reunion
+
+  palm
+
+  erupt
+
+  sun
+
+  ketchup
+
+  leave
+
+  kick
+
+  peace
+
+  worry
+
+  twice
+
+  flock
+
+  argue'
+bip_39_word_new_line2: 'reunion
+
+  palm'
+bip_39_word_new_line3: 'reunion
+
+  palm
+
+  erupt'
+bip_39_word_new_line4: 'reunion
+
+  palm
+
+  erupt
+
+  sun'
+bip_39_word_new_line5: 'reunion
+
+  palm
+
+  erupt
+
+  sun
+
+  ketchup'
+bip_39_word_new_line6: 'reunion
+
+  palm
+
+  erupt
+
+  sun
+
+  ketchup
+
+  leave'
+bip_39_word_new_line7: 'reunion
+
+  palm
+
+  erupt
+
+  sun
+
+  ketchup
+
+  leave
+
+  kick'
+bip_39_word_new_line8: 'reunion
+
+  palm
+
+  erupt
+
+  sun
+
+  ketchup
+
+  leave
+
+  kick
+
+  peace'
+bip_39_word_new_line9: 'reunion
+
+  palm
+
+  erupt
+
+  sun
+
+  ketchup
+
+  leave
+
+  kick
+
+  peace
+
+  worry'
+bip_39_word_space_0:
+- reunion
+- palm
+- erupt
+- sun
+- ketchup
+- leave
+- kick
+- peace
+- worry
+- twice
+- flock
+- argue
+bip_39_word_space_1: reunion
+bip_39_word_space_10: reunion palm erupt sun ketchup leave kick peace worry twice
+bip_39_word_space_11: reunion palm erupt sun ketchup leave kick peace worry twice
+  flock
+bip_39_word_space_12: reunion palm erupt sun ketchup leave kick peace worry twice
+  flock argue
+bip_39_word_space_2: reunion palm
+bip_39_word_space_3: reunion palm erupt
+bip_39_word_space_4: reunion palm erupt sun
+bip_39_word_space_5: reunion palm erupt sun ketchup
+bip_39_word_space_6: reunion palm erupt sun ketchup leave
+bip_39_word_space_7: reunion palm erupt sun ketchup leave kick
+bip_39_word_space_8: reunion palm erupt sun ketchup leave kick peace
+bip_39_word_space_9: reunion palm erupt sun ketchup leave kick peace worry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

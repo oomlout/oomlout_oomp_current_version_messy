@@ -1,3 +1,187 @@
+bip_39_word_new_br1: swarm
+bip_39_word_new_br10: swarm<br>tenant<br>turtle<br>major<br>february<br>wink<br>coral<br>margin<br>blouse<br>thing
+bip_39_word_new_br11: swarm<br>tenant<br>turtle<br>major<br>february<br>wink<br>coral<br>margin<br>blouse<br>thing<br>scene
+bip_39_word_new_br12: swarm<br>tenant<br>turtle<br>major<br>february<br>wink<br>coral<br>margin<br>blouse<br>thing<br>scene<br>alley
+bip_39_word_new_br2: swarm<br>tenant
+bip_39_word_new_br3: swarm<br>tenant<br>turtle
+bip_39_word_new_br4: swarm<br>tenant<br>turtle<br>major
+bip_39_word_new_br5: swarm<br>tenant<br>turtle<br>major<br>february
+bip_39_word_new_br6: swarm<br>tenant<br>turtle<br>major<br>february<br>wink
+bip_39_word_new_br7: swarm<br>tenant<br>turtle<br>major<br>february<br>wink<br>coral
+bip_39_word_new_br8: swarm<br>tenant<br>turtle<br>major<br>february<br>wink<br>coral<br>margin
+bip_39_word_new_br9: swarm<br>tenant<br>turtle<br>major<br>february<br>wink<br>coral<br>margin<br>blouse
+bip_39_word_new_line1: swarm
+bip_39_word_new_line10: 'swarm
+
+  tenant
+
+  turtle
+
+  major
+
+  february
+
+  wink
+
+  coral
+
+  margin
+
+  blouse
+
+  thing'
+bip_39_word_new_line11: 'swarm
+
+  tenant
+
+  turtle
+
+  major
+
+  february
+
+  wink
+
+  coral
+
+  margin
+
+  blouse
+
+  thing
+
+  scene'
+bip_39_word_new_line12: 'swarm
+
+  tenant
+
+  turtle
+
+  major
+
+  february
+
+  wink
+
+  coral
+
+  margin
+
+  blouse
+
+  thing
+
+  scene
+
+  alley'
+bip_39_word_new_line2: 'swarm
+
+  tenant'
+bip_39_word_new_line3: 'swarm
+
+  tenant
+
+  turtle'
+bip_39_word_new_line4: 'swarm
+
+  tenant
+
+  turtle
+
+  major'
+bip_39_word_new_line5: 'swarm
+
+  tenant
+
+  turtle
+
+  major
+
+  february'
+bip_39_word_new_line6: 'swarm
+
+  tenant
+
+  turtle
+
+  major
+
+  february
+
+  wink'
+bip_39_word_new_line7: 'swarm
+
+  tenant
+
+  turtle
+
+  major
+
+  february
+
+  wink
+
+  coral'
+bip_39_word_new_line8: 'swarm
+
+  tenant
+
+  turtle
+
+  major
+
+  february
+
+  wink
+
+  coral
+
+  margin'
+bip_39_word_new_line9: 'swarm
+
+  tenant
+
+  turtle
+
+  major
+
+  february
+
+  wink
+
+  coral
+
+  margin
+
+  blouse'
+bip_39_word_space_0:
+- swarm
+- tenant
+- turtle
+- major
+- february
+- wink
+- coral
+- margin
+- blouse
+- thing
+- scene
+- alley
+bip_39_word_space_1: swarm
+bip_39_word_space_10: swarm tenant turtle major february wink coral margin blouse
+  thing
+bip_39_word_space_11: swarm tenant turtle major february wink coral margin blouse
+  thing scene
+bip_39_word_space_12: swarm tenant turtle major february wink coral margin blouse
+  thing scene alley
+bip_39_word_space_2: swarm tenant
+bip_39_word_space_3: swarm tenant turtle
+bip_39_word_space_4: swarm tenant turtle major
+bip_39_word_space_5: swarm tenant turtle major february
+bip_39_word_space_6: swarm tenant turtle major february wink
+bip_39_word_space_7: swarm tenant turtle major february wink coral
+bip_39_word_space_8: swarm tenant turtle major february wink coral margin
+bip_39_word_space_9: swarm tenant turtle major february wink coral margin blouse
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

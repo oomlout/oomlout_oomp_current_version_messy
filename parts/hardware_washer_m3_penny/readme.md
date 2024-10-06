@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: carry wasp
+  * bip 39 word 3: carry wasp execute
+  * bip 39 word: carry wasp execute message oval vault treat digital remind ridge divide animal
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | carry |  
+| bip_39_word_new_br10 | carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind<br>ridge |  
+| bip_39_word_new_br11 | carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind<br>ridge<br>divide |  
+| bip_39_word_new_br12 | carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind<br>ridge<br>divide<br>animal |  
+| bip_39_word_new_br2 | carry<br>wasp |  
+| bip_39_word_new_br3 | carry<br>wasp<br>execute |  
+| bip_39_word_new_br4 | carry<br>wasp<br>execute<br>message |  
+| bip_39_word_new_br5 | carry<br>wasp<br>execute<br>message<br>oval |  
+| bip_39_word_new_br6 | carry<br>wasp<br>execute<br>message<br>oval<br>vault |  
+| bip_39_word_new_br7 | carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat |  
+| bip_39_word_new_br8 | carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital |  
+| bip_39_word_new_br9 | carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind |  
+| bip_39_word_new_line1 | carry |  
+| bip_39_word_new_line10 | carry
+wasp
+execute
+message
+oval
+vault
+treat
+digital
+remind
+ridge |  
+| bip_39_word_new_line11 | carry
+wasp
+execute
+message
+oval
+vault
+treat
+digital
+remind
+ridge
+divide |  
+| bip_39_word_new_line12 | carry
+wasp
+execute
+message
+oval
+vault
+treat
+digital
+remind
+ridge
+divide
+animal |  
+| bip_39_word_new_line2 | carry
+wasp |  
+| bip_39_word_new_line3 | carry
+wasp
+execute |  
+| bip_39_word_new_line4 | carry
+wasp
+execute
+message |  
+| bip_39_word_new_line5 | carry
+wasp
+execute
+message
+oval |  
+| bip_39_word_new_line6 | carry
+wasp
+execute
+message
+oval
+vault |  
+| bip_39_word_new_line7 | carry
+wasp
+execute
+message
+oval
+vault
+treat |  
+| bip_39_word_new_line8 | carry
+wasp
+execute
+message
+oval
+vault
+treat
+digital |  
+| bip_39_word_new_line9 | carry
+wasp
+execute
+message
+oval
+vault
+treat
+digital
+remind |  
+| bip_39_word_space_0 | ['carry', 'wasp', 'execute', 'message', 'oval', 'vault', 'treat', 'digital', 'remind', 'ridge', 'divide', 'animal'] |  
+| bip_39_word_space_1 | carry |  
+| bip_39_word_space_10 | carry wasp execute message oval vault treat digital remind ridge |  
+| bip_39_word_space_11 | carry wasp execute message oval vault treat digital remind ridge divide |  
+| bip_39_word_space_12 | carry wasp execute message oval vault treat digital remind ridge divide animal |  
+| bip_39_word_space_2 | carry wasp |  
+| bip_39_word_space_3 | carry wasp execute |  
+| bip_39_word_space_4 | carry wasp execute message |  
+| bip_39_word_space_5 | carry wasp execute message oval |  
+| bip_39_word_space_6 | carry wasp execute message oval vault |  
+| bip_39_word_space_7 | carry wasp execute message oval vault treat |  
+| bip_39_word_space_8 | carry wasp execute message oval vault treat digital |  
+| bip_39_word_space_9 | carry wasp execute message oval vault treat digital remind |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

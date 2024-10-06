@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crack pistol
+  * bip 39 word 3: crack pistol engage
+  * bip 39 word: crack pistol engage height choose early scatter mirror spy tiger book about
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crack |  
+| bip_39_word_new_br10 | crack<br>pistol<br>engage<br>height<br>choose<br>early<br>scatter<br>mirror<br>spy<br>tiger |  
+| bip_39_word_new_br11 | crack<br>pistol<br>engage<br>height<br>choose<br>early<br>scatter<br>mirror<br>spy<br>tiger<br>book |  
+| bip_39_word_new_br12 | crack<br>pistol<br>engage<br>height<br>choose<br>early<br>scatter<br>mirror<br>spy<br>tiger<br>book<br>about |  
+| bip_39_word_new_br2 | crack<br>pistol |  
+| bip_39_word_new_br3 | crack<br>pistol<br>engage |  
+| bip_39_word_new_br4 | crack<br>pistol<br>engage<br>height |  
+| bip_39_word_new_br5 | crack<br>pistol<br>engage<br>height<br>choose |  
+| bip_39_word_new_br6 | crack<br>pistol<br>engage<br>height<br>choose<br>early |  
+| bip_39_word_new_br7 | crack<br>pistol<br>engage<br>height<br>choose<br>early<br>scatter |  
+| bip_39_word_new_br8 | crack<br>pistol<br>engage<br>height<br>choose<br>early<br>scatter<br>mirror |  
+| bip_39_word_new_br9 | crack<br>pistol<br>engage<br>height<br>choose<br>early<br>scatter<br>mirror<br>spy |  
+| bip_39_word_new_line1 | crack |  
+| bip_39_word_new_line10 | crack
+pistol
+engage
+height
+choose
+early
+scatter
+mirror
+spy
+tiger |  
+| bip_39_word_new_line11 | crack
+pistol
+engage
+height
+choose
+early
+scatter
+mirror
+spy
+tiger
+book |  
+| bip_39_word_new_line12 | crack
+pistol
+engage
+height
+choose
+early
+scatter
+mirror
+spy
+tiger
+book
+about |  
+| bip_39_word_new_line2 | crack
+pistol |  
+| bip_39_word_new_line3 | crack
+pistol
+engage |  
+| bip_39_word_new_line4 | crack
+pistol
+engage
+height |  
+| bip_39_word_new_line5 | crack
+pistol
+engage
+height
+choose |  
+| bip_39_word_new_line6 | crack
+pistol
+engage
+height
+choose
+early |  
+| bip_39_word_new_line7 | crack
+pistol
+engage
+height
+choose
+early
+scatter |  
+| bip_39_word_new_line8 | crack
+pistol
+engage
+height
+choose
+early
+scatter
+mirror |  
+| bip_39_word_new_line9 | crack
+pistol
+engage
+height
+choose
+early
+scatter
+mirror
+spy |  
+| bip_39_word_space_0 | ['crack', 'pistol', 'engage', 'height', 'choose', 'early', 'scatter', 'mirror', 'spy', 'tiger', 'book', 'about'] |  
+| bip_39_word_space_1 | crack |  
+| bip_39_word_space_10 | crack pistol engage height choose early scatter mirror spy tiger |  
+| bip_39_word_space_11 | crack pistol engage height choose early scatter mirror spy tiger book |  
+| bip_39_word_space_12 | crack pistol engage height choose early scatter mirror spy tiger book about |  
+| bip_39_word_space_2 | crack pistol |  
+| bip_39_word_space_3 | crack pistol engage |  
+| bip_39_word_space_4 | crack pistol engage height |  
+| bip_39_word_space_5 | crack pistol engage height choose |  
+| bip_39_word_space_6 | crack pistol engage height choose early |  
+| bip_39_word_space_7 | crack pistol engage height choose early scatter |  
+| bip_39_word_space_8 | crack pistol engage height choose early scatter mirror |  
+| bip_39_word_space_9 | crack pistol engage height choose early scatter mirror spy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: local sleep
+  * bip 39 word 3: local sleep company
+  * bip 39 word: local sleep company sell actual snack hurry home trick cereal clinic agent
 
 ### other_codes
 * short_code: brF627
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | local |  
+| bip_39_word_new_br10 | local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick<br>cereal |  
+| bip_39_word_new_br11 | local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick<br>cereal<br>clinic |  
+| bip_39_word_new_br12 | local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick<br>cereal<br>clinic<br>agent |  
+| bip_39_word_new_br2 | local<br>sleep |  
+| bip_39_word_new_br3 | local<br>sleep<br>company |  
+| bip_39_word_new_br4 | local<br>sleep<br>company<br>sell |  
+| bip_39_word_new_br5 | local<br>sleep<br>company<br>sell<br>actual |  
+| bip_39_word_new_br6 | local<br>sleep<br>company<br>sell<br>actual<br>snack |  
+| bip_39_word_new_br7 | local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry |  
+| bip_39_word_new_br8 | local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home |  
+| bip_39_word_new_br9 | local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick |  
+| bip_39_word_new_line1 | local |  
+| bip_39_word_new_line10 | local
+sleep
+company
+sell
+actual
+snack
+hurry
+home
+trick
+cereal |  
+| bip_39_word_new_line11 | local
+sleep
+company
+sell
+actual
+snack
+hurry
+home
+trick
+cereal
+clinic |  
+| bip_39_word_new_line12 | local
+sleep
+company
+sell
+actual
+snack
+hurry
+home
+trick
+cereal
+clinic
+agent |  
+| bip_39_word_new_line2 | local
+sleep |  
+| bip_39_word_new_line3 | local
+sleep
+company |  
+| bip_39_word_new_line4 | local
+sleep
+company
+sell |  
+| bip_39_word_new_line5 | local
+sleep
+company
+sell
+actual |  
+| bip_39_word_new_line6 | local
+sleep
+company
+sell
+actual
+snack |  
+| bip_39_word_new_line7 | local
+sleep
+company
+sell
+actual
+snack
+hurry |  
+| bip_39_word_new_line8 | local
+sleep
+company
+sell
+actual
+snack
+hurry
+home |  
+| bip_39_word_new_line9 | local
+sleep
+company
+sell
+actual
+snack
+hurry
+home
+trick |  
+| bip_39_word_space_0 | ['local', 'sleep', 'company', 'sell', 'actual', 'snack', 'hurry', 'home', 'trick', 'cereal', 'clinic', 'agent'] |  
+| bip_39_word_space_1 | local |  
+| bip_39_word_space_10 | local sleep company sell actual snack hurry home trick cereal |  
+| bip_39_word_space_11 | local sleep company sell actual snack hurry home trick cereal clinic |  
+| bip_39_word_space_12 | local sleep company sell actual snack hurry home trick cereal clinic agent |  
+| bip_39_word_space_2 | local sleep |  
+| bip_39_word_space_3 | local sleep company |  
+| bip_39_word_space_4 | local sleep company sell |  
+| bip_39_word_space_5 | local sleep company sell actual |  
+| bip_39_word_space_6 | local sleep company sell actual snack |  
+| bip_39_word_space_7 | local sleep company sell actual snack hurry |  
+| bip_39_word_space_8 | local sleep company sell actual snack hurry home |  
+| bip_39_word_space_9 | local sleep company sell actual snack hurry home trick |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

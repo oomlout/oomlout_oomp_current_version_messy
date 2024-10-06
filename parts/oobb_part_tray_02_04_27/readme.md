@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rare song
+  * bip 39 word 3: rare song stuff
+  * bip 39 word: rare song stuff casual season supreme copy disease base price throw access
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rare |  
+| bip_39_word_new_br10 | rare<br>song<br>stuff<br>casual<br>season<br>supreme<br>copy<br>disease<br>base<br>price |  
+| bip_39_word_new_br11 | rare<br>song<br>stuff<br>casual<br>season<br>supreme<br>copy<br>disease<br>base<br>price<br>throw |  
+| bip_39_word_new_br12 | rare<br>song<br>stuff<br>casual<br>season<br>supreme<br>copy<br>disease<br>base<br>price<br>throw<br>access |  
+| bip_39_word_new_br2 | rare<br>song |  
+| bip_39_word_new_br3 | rare<br>song<br>stuff |  
+| bip_39_word_new_br4 | rare<br>song<br>stuff<br>casual |  
+| bip_39_word_new_br5 | rare<br>song<br>stuff<br>casual<br>season |  
+| bip_39_word_new_br6 | rare<br>song<br>stuff<br>casual<br>season<br>supreme |  
+| bip_39_word_new_br7 | rare<br>song<br>stuff<br>casual<br>season<br>supreme<br>copy |  
+| bip_39_word_new_br8 | rare<br>song<br>stuff<br>casual<br>season<br>supreme<br>copy<br>disease |  
+| bip_39_word_new_br9 | rare<br>song<br>stuff<br>casual<br>season<br>supreme<br>copy<br>disease<br>base |  
+| bip_39_word_new_line1 | rare |  
+| bip_39_word_new_line10 | rare
+song
+stuff
+casual
+season
+supreme
+copy
+disease
+base
+price |  
+| bip_39_word_new_line11 | rare
+song
+stuff
+casual
+season
+supreme
+copy
+disease
+base
+price
+throw |  
+| bip_39_word_new_line12 | rare
+song
+stuff
+casual
+season
+supreme
+copy
+disease
+base
+price
+throw
+access |  
+| bip_39_word_new_line2 | rare
+song |  
+| bip_39_word_new_line3 | rare
+song
+stuff |  
+| bip_39_word_new_line4 | rare
+song
+stuff
+casual |  
+| bip_39_word_new_line5 | rare
+song
+stuff
+casual
+season |  
+| bip_39_word_new_line6 | rare
+song
+stuff
+casual
+season
+supreme |  
+| bip_39_word_new_line7 | rare
+song
+stuff
+casual
+season
+supreme
+copy |  
+| bip_39_word_new_line8 | rare
+song
+stuff
+casual
+season
+supreme
+copy
+disease |  
+| bip_39_word_new_line9 | rare
+song
+stuff
+casual
+season
+supreme
+copy
+disease
+base |  
+| bip_39_word_space_0 | ['rare', 'song', 'stuff', 'casual', 'season', 'supreme', 'copy', 'disease', 'base', 'price', 'throw', 'access'] |  
+| bip_39_word_space_1 | rare |  
+| bip_39_word_space_10 | rare song stuff casual season supreme copy disease base price |  
+| bip_39_word_space_11 | rare song stuff casual season supreme copy disease base price throw |  
+| bip_39_word_space_12 | rare song stuff casual season supreme copy disease base price throw access |  
+| bip_39_word_space_2 | rare song |  
+| bip_39_word_space_3 | rare song stuff |  
+| bip_39_word_space_4 | rare song stuff casual |  
+| bip_39_word_space_5 | rare song stuff casual season |  
+| bip_39_word_space_6 | rare song stuff casual season supreme |  
+| bip_39_word_space_7 | rare song stuff casual season supreme copy |  
+| bip_39_word_space_8 | rare song stuff casual season supreme copy disease |  
+| bip_39_word_space_9 | rare song stuff casual season supreme copy disease base |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lawn gravity
+  * bip 39 word 3: lawn gravity gap
+  * bip 39 word: lawn gravity gap odor equip plunge term slow state pole wage always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lawn |  
+| bip_39_word_new_br10 | lawn<br>gravity<br>gap<br>odor<br>equip<br>plunge<br>term<br>slow<br>state<br>pole |  
+| bip_39_word_new_br11 | lawn<br>gravity<br>gap<br>odor<br>equip<br>plunge<br>term<br>slow<br>state<br>pole<br>wage |  
+| bip_39_word_new_br12 | lawn<br>gravity<br>gap<br>odor<br>equip<br>plunge<br>term<br>slow<br>state<br>pole<br>wage<br>always |  
+| bip_39_word_new_br2 | lawn<br>gravity |  
+| bip_39_word_new_br3 | lawn<br>gravity<br>gap |  
+| bip_39_word_new_br4 | lawn<br>gravity<br>gap<br>odor |  
+| bip_39_word_new_br5 | lawn<br>gravity<br>gap<br>odor<br>equip |  
+| bip_39_word_new_br6 | lawn<br>gravity<br>gap<br>odor<br>equip<br>plunge |  
+| bip_39_word_new_br7 | lawn<br>gravity<br>gap<br>odor<br>equip<br>plunge<br>term |  
+| bip_39_word_new_br8 | lawn<br>gravity<br>gap<br>odor<br>equip<br>plunge<br>term<br>slow |  
+| bip_39_word_new_br9 | lawn<br>gravity<br>gap<br>odor<br>equip<br>plunge<br>term<br>slow<br>state |  
+| bip_39_word_new_line1 | lawn |  
+| bip_39_word_new_line10 | lawn
+gravity
+gap
+odor
+equip
+plunge
+term
+slow
+state
+pole |  
+| bip_39_word_new_line11 | lawn
+gravity
+gap
+odor
+equip
+plunge
+term
+slow
+state
+pole
+wage |  
+| bip_39_word_new_line12 | lawn
+gravity
+gap
+odor
+equip
+plunge
+term
+slow
+state
+pole
+wage
+always |  
+| bip_39_word_new_line2 | lawn
+gravity |  
+| bip_39_word_new_line3 | lawn
+gravity
+gap |  
+| bip_39_word_new_line4 | lawn
+gravity
+gap
+odor |  
+| bip_39_word_new_line5 | lawn
+gravity
+gap
+odor
+equip |  
+| bip_39_word_new_line6 | lawn
+gravity
+gap
+odor
+equip
+plunge |  
+| bip_39_word_new_line7 | lawn
+gravity
+gap
+odor
+equip
+plunge
+term |  
+| bip_39_word_new_line8 | lawn
+gravity
+gap
+odor
+equip
+plunge
+term
+slow |  
+| bip_39_word_new_line9 | lawn
+gravity
+gap
+odor
+equip
+plunge
+term
+slow
+state |  
+| bip_39_word_space_0 | ['lawn', 'gravity', 'gap', 'odor', 'equip', 'plunge', 'term', 'slow', 'state', 'pole', 'wage', 'always'] |  
+| bip_39_word_space_1 | lawn |  
+| bip_39_word_space_10 | lawn gravity gap odor equip plunge term slow state pole |  
+| bip_39_word_space_11 | lawn gravity gap odor equip plunge term slow state pole wage |  
+| bip_39_word_space_12 | lawn gravity gap odor equip plunge term slow state pole wage always |  
+| bip_39_word_space_2 | lawn gravity |  
+| bip_39_word_space_3 | lawn gravity gap |  
+| bip_39_word_space_4 | lawn gravity gap odor |  
+| bip_39_word_space_5 | lawn gravity gap odor equip |  
+| bip_39_word_space_6 | lawn gravity gap odor equip plunge |  
+| bip_39_word_space_7 | lawn gravity gap odor equip plunge term |  
+| bip_39_word_space_8 | lawn gravity gap odor equip plunge term slow |  
+| bip_39_word_space_9 | lawn gravity gap odor equip plunge term slow state |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

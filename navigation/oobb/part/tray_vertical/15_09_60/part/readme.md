@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gym hunt
+  * bip 39 word 3: gym hunt seminar
+  * bip 39 word: gym hunt seminar antenna aerobic mass scorpion promote ripple flight ocean annual
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gym |  
+| bip_39_word_new_br10 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass<br>scorpion<br>promote<br>ripple<br>flight |  
+| bip_39_word_new_br11 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass<br>scorpion<br>promote<br>ripple<br>flight<br>ocean |  
+| bip_39_word_new_br12 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass<br>scorpion<br>promote<br>ripple<br>flight<br>ocean<br>annual |  
+| bip_39_word_new_br2 | gym<br>hunt |  
+| bip_39_word_new_br3 | gym<br>hunt<br>seminar |  
+| bip_39_word_new_br4 | gym<br>hunt<br>seminar<br>antenna |  
+| bip_39_word_new_br5 | gym<br>hunt<br>seminar<br>antenna<br>aerobic |  
+| bip_39_word_new_br6 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass |  
+| bip_39_word_new_br7 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass<br>scorpion |  
+| bip_39_word_new_br8 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass<br>scorpion<br>promote |  
+| bip_39_word_new_br9 | gym<br>hunt<br>seminar<br>antenna<br>aerobic<br>mass<br>scorpion<br>promote<br>ripple |  
+| bip_39_word_new_line1 | gym |  
+| bip_39_word_new_line10 | gym
+hunt
+seminar
+antenna
+aerobic
+mass
+scorpion
+promote
+ripple
+flight |  
+| bip_39_word_new_line11 | gym
+hunt
+seminar
+antenna
+aerobic
+mass
+scorpion
+promote
+ripple
+flight
+ocean |  
+| bip_39_word_new_line12 | gym
+hunt
+seminar
+antenna
+aerobic
+mass
+scorpion
+promote
+ripple
+flight
+ocean
+annual |  
+| bip_39_word_new_line2 | gym
+hunt |  
+| bip_39_word_new_line3 | gym
+hunt
+seminar |  
+| bip_39_word_new_line4 | gym
+hunt
+seminar
+antenna |  
+| bip_39_word_new_line5 | gym
+hunt
+seminar
+antenna
+aerobic |  
+| bip_39_word_new_line6 | gym
+hunt
+seminar
+antenna
+aerobic
+mass |  
+| bip_39_word_new_line7 | gym
+hunt
+seminar
+antenna
+aerobic
+mass
+scorpion |  
+| bip_39_word_new_line8 | gym
+hunt
+seminar
+antenna
+aerobic
+mass
+scorpion
+promote |  
+| bip_39_word_new_line9 | gym
+hunt
+seminar
+antenna
+aerobic
+mass
+scorpion
+promote
+ripple |  
+| bip_39_word_space_0 | ['gym', 'hunt', 'seminar', 'antenna', 'aerobic', 'mass', 'scorpion', 'promote', 'ripple', 'flight', 'ocean', 'annual'] |  
+| bip_39_word_space_1 | gym |  
+| bip_39_word_space_10 | gym hunt seminar antenna aerobic mass scorpion promote ripple flight |  
+| bip_39_word_space_11 | gym hunt seminar antenna aerobic mass scorpion promote ripple flight ocean |  
+| bip_39_word_space_12 | gym hunt seminar antenna aerobic mass scorpion promote ripple flight ocean annual |  
+| bip_39_word_space_2 | gym hunt |  
+| bip_39_word_space_3 | gym hunt seminar |  
+| bip_39_word_space_4 | gym hunt seminar antenna |  
+| bip_39_word_space_5 | gym hunt seminar antenna aerobic |  
+| bip_39_word_space_6 | gym hunt seminar antenna aerobic mass |  
+| bip_39_word_space_7 | gym hunt seminar antenna aerobic mass scorpion |  
+| bip_39_word_space_8 | gym hunt seminar antenna aerobic mass scorpion promote |  
+| bip_39_word_space_9 | gym hunt seminar antenna aerobic mass scorpion promote ripple |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: identify
+bip_39_word_new_br10: identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake<br>poverty<br>audit<br>empty<br>turkey
+bip_39_word_new_br11: identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake<br>poverty<br>audit<br>empty<br>turkey<br>canoe
+bip_39_word_new_br12: identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake<br>poverty<br>audit<br>empty<br>turkey<br>canoe<br>access
+bip_39_word_new_br2: identify<br>bracket
+bip_39_word_new_br3: identify<br>bracket<br>load
+bip_39_word_new_br4: identify<br>bracket<br>load<br>clinic
+bip_39_word_new_br5: identify<br>bracket<br>load<br>clinic<br>arrive
+bip_39_word_new_br6: identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake
+bip_39_word_new_br7: identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake<br>poverty
+bip_39_word_new_br8: identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake<br>poverty<br>audit
+bip_39_word_new_br9: identify<br>bracket<br>load<br>clinic<br>arrive<br>mistake<br>poverty<br>audit<br>empty
+bip_39_word_new_line1: identify
+bip_39_word_new_line10: 'identify
+
+  bracket
+
+  load
+
+  clinic
+
+  arrive
+
+  mistake
+
+  poverty
+
+  audit
+
+  empty
+
+  turkey'
+bip_39_word_new_line11: 'identify
+
+  bracket
+
+  load
+
+  clinic
+
+  arrive
+
+  mistake
+
+  poverty
+
+  audit
+
+  empty
+
+  turkey
+
+  canoe'
+bip_39_word_new_line12: 'identify
+
+  bracket
+
+  load
+
+  clinic
+
+  arrive
+
+  mistake
+
+  poverty
+
+  audit
+
+  empty
+
+  turkey
+
+  canoe
+
+  access'
+bip_39_word_new_line2: 'identify
+
+  bracket'
+bip_39_word_new_line3: 'identify
+
+  bracket
+
+  load'
+bip_39_word_new_line4: 'identify
+
+  bracket
+
+  load
+
+  clinic'
+bip_39_word_new_line5: 'identify
+
+  bracket
+
+  load
+
+  clinic
+
+  arrive'
+bip_39_word_new_line6: 'identify
+
+  bracket
+
+  load
+
+  clinic
+
+  arrive
+
+  mistake'
+bip_39_word_new_line7: 'identify
+
+  bracket
+
+  load
+
+  clinic
+
+  arrive
+
+  mistake
+
+  poverty'
+bip_39_word_new_line8: 'identify
+
+  bracket
+
+  load
+
+  clinic
+
+  arrive
+
+  mistake
+
+  poverty
+
+  audit'
+bip_39_word_new_line9: 'identify
+
+  bracket
+
+  load
+
+  clinic
+
+  arrive
+
+  mistake
+
+  poverty
+
+  audit
+
+  empty'
+bip_39_word_space_0:
+- identify
+- bracket
+- load
+- clinic
+- arrive
+- mistake
+- poverty
+- audit
+- empty
+- turkey
+- canoe
+- access
+bip_39_word_space_1: identify
+bip_39_word_space_10: identify bracket load clinic arrive mistake poverty audit empty
+  turkey
+bip_39_word_space_11: identify bracket load clinic arrive mistake poverty audit empty
+  turkey canoe
+bip_39_word_space_12: identify bracket load clinic arrive mistake poverty audit empty
+  turkey canoe access
+bip_39_word_space_2: identify bracket
+bip_39_word_space_3: identify bracket load
+bip_39_word_space_4: identify bracket load clinic
+bip_39_word_space_5: identify bracket load clinic arrive
+bip_39_word_space_6: identify bracket load clinic arrive mistake
+bip_39_word_space_7: identify bracket load clinic arrive mistake poverty
+bip_39_word_space_8: identify bracket load clinic arrive mistake poverty audit
+bip_39_word_space_9: identify bracket load clinic arrive mistake poverty audit empty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

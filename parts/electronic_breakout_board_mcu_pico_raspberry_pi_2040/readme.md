@@ -18,6 +18,9 @@ The official Raspberry Pi breakout for the 2040
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: section together
+  * bip 39 word 3: section together slam
+  * bip 39 word: section together slam sniff tooth suit charge helmet salmon welcome team assault
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ The official Raspberry Pi breakout for the 2040
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | section |  
+| bip_39_word_new_br10 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome |  
+| bip_39_word_new_br11 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome<br>team |  
+| bip_39_word_new_br12 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon<br>welcome<br>team<br>assault |  
+| bip_39_word_new_br2 | section<br>together |  
+| bip_39_word_new_br3 | section<br>together<br>slam |  
+| bip_39_word_new_br4 | section<br>together<br>slam<br>sniff |  
+| bip_39_word_new_br5 | section<br>together<br>slam<br>sniff<br>tooth |  
+| bip_39_word_new_br6 | section<br>together<br>slam<br>sniff<br>tooth<br>suit |  
+| bip_39_word_new_br7 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge |  
+| bip_39_word_new_br8 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet |  
+| bip_39_word_new_br9 | section<br>together<br>slam<br>sniff<br>tooth<br>suit<br>charge<br>helmet<br>salmon |  
+| bip_39_word_new_line1 | section |  
+| bip_39_word_new_line10 | section
+together
+slam
+sniff
+tooth
+suit
+charge
+helmet
+salmon
+welcome |  
+| bip_39_word_new_line11 | section
+together
+slam
+sniff
+tooth
+suit
+charge
+helmet
+salmon
+welcome
+team |  
+| bip_39_word_new_line12 | section
+together
+slam
+sniff
+tooth
+suit
+charge
+helmet
+salmon
+welcome
+team
+assault |  
+| bip_39_word_new_line2 | section
+together |  
+| bip_39_word_new_line3 | section
+together
+slam |  
+| bip_39_word_new_line4 | section
+together
+slam
+sniff |  
+| bip_39_word_new_line5 | section
+together
+slam
+sniff
+tooth |  
+| bip_39_word_new_line6 | section
+together
+slam
+sniff
+tooth
+suit |  
+| bip_39_word_new_line7 | section
+together
+slam
+sniff
+tooth
+suit
+charge |  
+| bip_39_word_new_line8 | section
+together
+slam
+sniff
+tooth
+suit
+charge
+helmet |  
+| bip_39_word_new_line9 | section
+together
+slam
+sniff
+tooth
+suit
+charge
+helmet
+salmon |  
+| bip_39_word_space_0 | ['section', 'together', 'slam', 'sniff', 'tooth', 'suit', 'charge', 'helmet', 'salmon', 'welcome', 'team', 'assault'] |  
+| bip_39_word_space_1 | section |  
+| bip_39_word_space_10 | section together slam sniff tooth suit charge helmet salmon welcome |  
+| bip_39_word_space_11 | section together slam sniff tooth suit charge helmet salmon welcome team |  
+| bip_39_word_space_12 | section together slam sniff tooth suit charge helmet salmon welcome team assault |  
+| bip_39_word_space_2 | section together |  
+| bip_39_word_space_3 | section together slam |  
+| bip_39_word_space_4 | section together slam sniff |  
+| bip_39_word_space_5 | section together slam sniff tooth |  
+| bip_39_word_space_6 | section together slam sniff tooth suit |  
+| bip_39_word_space_7 | section together slam sniff tooth suit charge |  
+| bip_39_word_space_8 | section together slam sniff tooth suit charge helmet |  
+| bip_39_word_space_9 | section together slam sniff tooth suit charge helmet salmon |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

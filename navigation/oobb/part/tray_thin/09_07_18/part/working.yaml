@@ -1,3 +1,186 @@
+bip_39_word_new_br1: world
+bip_39_word_new_br10: world<br>work<br>eyebrow<br>dice<br>note<br>track<br>clutch<br>shield<br>bring<br>tired
+bip_39_word_new_br11: world<br>work<br>eyebrow<br>dice<br>note<br>track<br>clutch<br>shield<br>bring<br>tired<br>run
+bip_39_word_new_br12: world<br>work<br>eyebrow<br>dice<br>note<br>track<br>clutch<br>shield<br>bring<br>tired<br>run<br>ancient
+bip_39_word_new_br2: world<br>work
+bip_39_word_new_br3: world<br>work<br>eyebrow
+bip_39_word_new_br4: world<br>work<br>eyebrow<br>dice
+bip_39_word_new_br5: world<br>work<br>eyebrow<br>dice<br>note
+bip_39_word_new_br6: world<br>work<br>eyebrow<br>dice<br>note<br>track
+bip_39_word_new_br7: world<br>work<br>eyebrow<br>dice<br>note<br>track<br>clutch
+bip_39_word_new_br8: world<br>work<br>eyebrow<br>dice<br>note<br>track<br>clutch<br>shield
+bip_39_word_new_br9: world<br>work<br>eyebrow<br>dice<br>note<br>track<br>clutch<br>shield<br>bring
+bip_39_word_new_line1: world
+bip_39_word_new_line10: 'world
+
+  work
+
+  eyebrow
+
+  dice
+
+  note
+
+  track
+
+  clutch
+
+  shield
+
+  bring
+
+  tired'
+bip_39_word_new_line11: 'world
+
+  work
+
+  eyebrow
+
+  dice
+
+  note
+
+  track
+
+  clutch
+
+  shield
+
+  bring
+
+  tired
+
+  run'
+bip_39_word_new_line12: 'world
+
+  work
+
+  eyebrow
+
+  dice
+
+  note
+
+  track
+
+  clutch
+
+  shield
+
+  bring
+
+  tired
+
+  run
+
+  ancient'
+bip_39_word_new_line2: 'world
+
+  work'
+bip_39_word_new_line3: 'world
+
+  work
+
+  eyebrow'
+bip_39_word_new_line4: 'world
+
+  work
+
+  eyebrow
+
+  dice'
+bip_39_word_new_line5: 'world
+
+  work
+
+  eyebrow
+
+  dice
+
+  note'
+bip_39_word_new_line6: 'world
+
+  work
+
+  eyebrow
+
+  dice
+
+  note
+
+  track'
+bip_39_word_new_line7: 'world
+
+  work
+
+  eyebrow
+
+  dice
+
+  note
+
+  track
+
+  clutch'
+bip_39_word_new_line8: 'world
+
+  work
+
+  eyebrow
+
+  dice
+
+  note
+
+  track
+
+  clutch
+
+  shield'
+bip_39_word_new_line9: 'world
+
+  work
+
+  eyebrow
+
+  dice
+
+  note
+
+  track
+
+  clutch
+
+  shield
+
+  bring'
+bip_39_word_space_0:
+- world
+- work
+- eyebrow
+- dice
+- note
+- track
+- clutch
+- shield
+- bring
+- tired
+- run
+- ancient
+bip_39_word_space_1: world
+bip_39_word_space_10: world work eyebrow dice note track clutch shield bring tired
+bip_39_word_space_11: world work eyebrow dice note track clutch shield bring tired
+  run
+bip_39_word_space_12: world work eyebrow dice note track clutch shield bring tired
+  run ancient
+bip_39_word_space_2: world work
+bip_39_word_space_3: world work eyebrow
+bip_39_word_space_4: world work eyebrow dice
+bip_39_word_space_5: world work eyebrow dice note
+bip_39_word_space_6: world work eyebrow dice note track
+bip_39_word_space_7: world work eyebrow dice note track clutch
+bip_39_word_space_8: world work eyebrow dice note track clutch shield
+bip_39_word_space_9: world work eyebrow dice note track clutch shield bring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

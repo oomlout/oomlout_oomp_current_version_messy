@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: solid decrease
+  * bip 39 word 3: solid decrease van
+  * bip 39 word: solid decrease van noise remember zoo razor chalk destroy long jar ask
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | solid |  
+| bip_39_word_new_br10 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long |  
+| bip_39_word_new_br11 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long<br>jar |  
+| bip_39_word_new_br12 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy<br>long<br>jar<br>ask |  
+| bip_39_word_new_br2 | solid<br>decrease |  
+| bip_39_word_new_br3 | solid<br>decrease<br>van |  
+| bip_39_word_new_br4 | solid<br>decrease<br>van<br>noise |  
+| bip_39_word_new_br5 | solid<br>decrease<br>van<br>noise<br>remember |  
+| bip_39_word_new_br6 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo |  
+| bip_39_word_new_br7 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor |  
+| bip_39_word_new_br8 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk |  
+| bip_39_word_new_br9 | solid<br>decrease<br>van<br>noise<br>remember<br>zoo<br>razor<br>chalk<br>destroy |  
+| bip_39_word_new_line1 | solid |  
+| bip_39_word_new_line10 | solid
+decrease
+van
+noise
+remember
+zoo
+razor
+chalk
+destroy
+long |  
+| bip_39_word_new_line11 | solid
+decrease
+van
+noise
+remember
+zoo
+razor
+chalk
+destroy
+long
+jar |  
+| bip_39_word_new_line12 | solid
+decrease
+van
+noise
+remember
+zoo
+razor
+chalk
+destroy
+long
+jar
+ask |  
+| bip_39_word_new_line2 | solid
+decrease |  
+| bip_39_word_new_line3 | solid
+decrease
+van |  
+| bip_39_word_new_line4 | solid
+decrease
+van
+noise |  
+| bip_39_word_new_line5 | solid
+decrease
+van
+noise
+remember |  
+| bip_39_word_new_line6 | solid
+decrease
+van
+noise
+remember
+zoo |  
+| bip_39_word_new_line7 | solid
+decrease
+van
+noise
+remember
+zoo
+razor |  
+| bip_39_word_new_line8 | solid
+decrease
+van
+noise
+remember
+zoo
+razor
+chalk |  
+| bip_39_word_new_line9 | solid
+decrease
+van
+noise
+remember
+zoo
+razor
+chalk
+destroy |  
+| bip_39_word_space_0 | ['solid', 'decrease', 'van', 'noise', 'remember', 'zoo', 'razor', 'chalk', 'destroy', 'long', 'jar', 'ask'] |  
+| bip_39_word_space_1 | solid |  
+| bip_39_word_space_10 | solid decrease van noise remember zoo razor chalk destroy long |  
+| bip_39_word_space_11 | solid decrease van noise remember zoo razor chalk destroy long jar |  
+| bip_39_word_space_12 | solid decrease van noise remember zoo razor chalk destroy long jar ask |  
+| bip_39_word_space_2 | solid decrease |  
+| bip_39_word_space_3 | solid decrease van |  
+| bip_39_word_space_4 | solid decrease van noise |  
+| bip_39_word_space_5 | solid decrease van noise remember |  
+| bip_39_word_space_6 | solid decrease van noise remember zoo |  
+| bip_39_word_space_7 | solid decrease van noise remember zoo razor |  
+| bip_39_word_space_8 | solid decrease van noise remember zoo razor chalk |  
+| bip_39_word_space_9 | solid decrease van noise remember zoo razor chalk destroy |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

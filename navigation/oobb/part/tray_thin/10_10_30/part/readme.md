@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: april lamp
+  * bip 39 word 3: april lamp machine
+  * bip 39 word: april lamp machine animal confirm tone title weather parade wait drive another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | april |  
+| bip_39_word_new_br10 | april<br>lamp<br>machine<br>animal<br>confirm<br>tone<br>title<br>weather<br>parade<br>wait |  
+| bip_39_word_new_br11 | april<br>lamp<br>machine<br>animal<br>confirm<br>tone<br>title<br>weather<br>parade<br>wait<br>drive |  
+| bip_39_word_new_br12 | april<br>lamp<br>machine<br>animal<br>confirm<br>tone<br>title<br>weather<br>parade<br>wait<br>drive<br>another |  
+| bip_39_word_new_br2 | april<br>lamp |  
+| bip_39_word_new_br3 | april<br>lamp<br>machine |  
+| bip_39_word_new_br4 | april<br>lamp<br>machine<br>animal |  
+| bip_39_word_new_br5 | april<br>lamp<br>machine<br>animal<br>confirm |  
+| bip_39_word_new_br6 | april<br>lamp<br>machine<br>animal<br>confirm<br>tone |  
+| bip_39_word_new_br7 | april<br>lamp<br>machine<br>animal<br>confirm<br>tone<br>title |  
+| bip_39_word_new_br8 | april<br>lamp<br>machine<br>animal<br>confirm<br>tone<br>title<br>weather |  
+| bip_39_word_new_br9 | april<br>lamp<br>machine<br>animal<br>confirm<br>tone<br>title<br>weather<br>parade |  
+| bip_39_word_new_line1 | april |  
+| bip_39_word_new_line10 | april
+lamp
+machine
+animal
+confirm
+tone
+title
+weather
+parade
+wait |  
+| bip_39_word_new_line11 | april
+lamp
+machine
+animal
+confirm
+tone
+title
+weather
+parade
+wait
+drive |  
+| bip_39_word_new_line12 | april
+lamp
+machine
+animal
+confirm
+tone
+title
+weather
+parade
+wait
+drive
+another |  
+| bip_39_word_new_line2 | april
+lamp |  
+| bip_39_word_new_line3 | april
+lamp
+machine |  
+| bip_39_word_new_line4 | april
+lamp
+machine
+animal |  
+| bip_39_word_new_line5 | april
+lamp
+machine
+animal
+confirm |  
+| bip_39_word_new_line6 | april
+lamp
+machine
+animal
+confirm
+tone |  
+| bip_39_word_new_line7 | april
+lamp
+machine
+animal
+confirm
+tone
+title |  
+| bip_39_word_new_line8 | april
+lamp
+machine
+animal
+confirm
+tone
+title
+weather |  
+| bip_39_word_new_line9 | april
+lamp
+machine
+animal
+confirm
+tone
+title
+weather
+parade |  
+| bip_39_word_space_0 | ['april', 'lamp', 'machine', 'animal', 'confirm', 'tone', 'title', 'weather', 'parade', 'wait', 'drive', 'another'] |  
+| bip_39_word_space_1 | april |  
+| bip_39_word_space_10 | april lamp machine animal confirm tone title weather parade wait |  
+| bip_39_word_space_11 | april lamp machine animal confirm tone title weather parade wait drive |  
+| bip_39_word_space_12 | april lamp machine animal confirm tone title weather parade wait drive another |  
+| bip_39_word_space_2 | april lamp |  
+| bip_39_word_space_3 | april lamp machine |  
+| bip_39_word_space_4 | april lamp machine animal |  
+| bip_39_word_space_5 | april lamp machine animal confirm |  
+| bip_39_word_space_6 | april lamp machine animal confirm tone |  
+| bip_39_word_space_7 | april lamp machine animal confirm tone title |  
+| bip_39_word_space_8 | april lamp machine animal confirm tone title weather |  
+| bip_39_word_space_9 | april lamp machine animal confirm tone title weather parade |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

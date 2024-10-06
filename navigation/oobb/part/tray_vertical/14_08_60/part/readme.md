@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: vehicle crush
+  * bip 39 word 3: vehicle crush capable
+  * bip 39 word: vehicle crush capable dream home laptop step stairs biology venue middle assist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | vehicle |  
+| bip_39_word_new_br10 | vehicle<br>crush<br>capable<br>dream<br>home<br>laptop<br>step<br>stairs<br>biology<br>venue |  
+| bip_39_word_new_br11 | vehicle<br>crush<br>capable<br>dream<br>home<br>laptop<br>step<br>stairs<br>biology<br>venue<br>middle |  
+| bip_39_word_new_br12 | vehicle<br>crush<br>capable<br>dream<br>home<br>laptop<br>step<br>stairs<br>biology<br>venue<br>middle<br>assist |  
+| bip_39_word_new_br2 | vehicle<br>crush |  
+| bip_39_word_new_br3 | vehicle<br>crush<br>capable |  
+| bip_39_word_new_br4 | vehicle<br>crush<br>capable<br>dream |  
+| bip_39_word_new_br5 | vehicle<br>crush<br>capable<br>dream<br>home |  
+| bip_39_word_new_br6 | vehicle<br>crush<br>capable<br>dream<br>home<br>laptop |  
+| bip_39_word_new_br7 | vehicle<br>crush<br>capable<br>dream<br>home<br>laptop<br>step |  
+| bip_39_word_new_br8 | vehicle<br>crush<br>capable<br>dream<br>home<br>laptop<br>step<br>stairs |  
+| bip_39_word_new_br9 | vehicle<br>crush<br>capable<br>dream<br>home<br>laptop<br>step<br>stairs<br>biology |  
+| bip_39_word_new_line1 | vehicle |  
+| bip_39_word_new_line10 | vehicle
+crush
+capable
+dream
+home
+laptop
+step
+stairs
+biology
+venue |  
+| bip_39_word_new_line11 | vehicle
+crush
+capable
+dream
+home
+laptop
+step
+stairs
+biology
+venue
+middle |  
+| bip_39_word_new_line12 | vehicle
+crush
+capable
+dream
+home
+laptop
+step
+stairs
+biology
+venue
+middle
+assist |  
+| bip_39_word_new_line2 | vehicle
+crush |  
+| bip_39_word_new_line3 | vehicle
+crush
+capable |  
+| bip_39_word_new_line4 | vehicle
+crush
+capable
+dream |  
+| bip_39_word_new_line5 | vehicle
+crush
+capable
+dream
+home |  
+| bip_39_word_new_line6 | vehicle
+crush
+capable
+dream
+home
+laptop |  
+| bip_39_word_new_line7 | vehicle
+crush
+capable
+dream
+home
+laptop
+step |  
+| bip_39_word_new_line8 | vehicle
+crush
+capable
+dream
+home
+laptop
+step
+stairs |  
+| bip_39_word_new_line9 | vehicle
+crush
+capable
+dream
+home
+laptop
+step
+stairs
+biology |  
+| bip_39_word_space_0 | ['vehicle', 'crush', 'capable', 'dream', 'home', 'laptop', 'step', 'stairs', 'biology', 'venue', 'middle', 'assist'] |  
+| bip_39_word_space_1 | vehicle |  
+| bip_39_word_space_10 | vehicle crush capable dream home laptop step stairs biology venue |  
+| bip_39_word_space_11 | vehicle crush capable dream home laptop step stairs biology venue middle |  
+| bip_39_word_space_12 | vehicle crush capable dream home laptop step stairs biology venue middle assist |  
+| bip_39_word_space_2 | vehicle crush |  
+| bip_39_word_space_3 | vehicle crush capable |  
+| bip_39_word_space_4 | vehicle crush capable dream |  
+| bip_39_word_space_5 | vehicle crush capable dream home |  
+| bip_39_word_space_6 | vehicle crush capable dream home laptop |  
+| bip_39_word_space_7 | vehicle crush capable dream home laptop step |  
+| bip_39_word_space_8 | vehicle crush capable dream home laptop step stairs |  
+| bip_39_word_space_9 | vehicle crush capable dream home laptop step stairs biology |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

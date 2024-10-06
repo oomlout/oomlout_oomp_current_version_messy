@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: h
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pattern knock
+  * bip 39 word 3: pattern knock acid
+  * bip 39 word: pattern knock acid powder layer between ethics acid sound spend material addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pattern |  
+| bip_39_word_new_br10 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend |  
+| bip_39_word_new_br11 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend<br>material |  
+| bip_39_word_new_br12 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound<br>spend<br>material<br>addict |  
+| bip_39_word_new_br2 | pattern<br>knock |  
+| bip_39_word_new_br3 | pattern<br>knock<br>acid |  
+| bip_39_word_new_br4 | pattern<br>knock<br>acid<br>powder |  
+| bip_39_word_new_br5 | pattern<br>knock<br>acid<br>powder<br>layer |  
+| bip_39_word_new_br6 | pattern<br>knock<br>acid<br>powder<br>layer<br>between |  
+| bip_39_word_new_br7 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics |  
+| bip_39_word_new_br8 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid |  
+| bip_39_word_new_br9 | pattern<br>knock<br>acid<br>powder<br>layer<br>between<br>ethics<br>acid<br>sound |  
+| bip_39_word_new_line1 | pattern |  
+| bip_39_word_new_line10 | pattern
+knock
+acid
+powder
+layer
+between
+ethics
+acid
+sound
+spend |  
+| bip_39_word_new_line11 | pattern
+knock
+acid
+powder
+layer
+between
+ethics
+acid
+sound
+spend
+material |  
+| bip_39_word_new_line12 | pattern
+knock
+acid
+powder
+layer
+between
+ethics
+acid
+sound
+spend
+material
+addict |  
+| bip_39_word_new_line2 | pattern
+knock |  
+| bip_39_word_new_line3 | pattern
+knock
+acid |  
+| bip_39_word_new_line4 | pattern
+knock
+acid
+powder |  
+| bip_39_word_new_line5 | pattern
+knock
+acid
+powder
+layer |  
+| bip_39_word_new_line6 | pattern
+knock
+acid
+powder
+layer
+between |  
+| bip_39_word_new_line7 | pattern
+knock
+acid
+powder
+layer
+between
+ethics |  
+| bip_39_word_new_line8 | pattern
+knock
+acid
+powder
+layer
+between
+ethics
+acid |  
+| bip_39_word_new_line9 | pattern
+knock
+acid
+powder
+layer
+between
+ethics
+acid
+sound |  
+| bip_39_word_space_0 | ['pattern', 'knock', 'acid', 'powder', 'layer', 'between', 'ethics', 'acid', 'sound', 'spend', 'material', 'addict'] |  
+| bip_39_word_space_1 | pattern |  
+| bip_39_word_space_10 | pattern knock acid powder layer between ethics acid sound spend |  
+| bip_39_word_space_11 | pattern knock acid powder layer between ethics acid sound spend material |  
+| bip_39_word_space_12 | pattern knock acid powder layer between ethics acid sound spend material addict |  
+| bip_39_word_space_2 | pattern knock |  
+| bip_39_word_space_3 | pattern knock acid |  
+| bip_39_word_space_4 | pattern knock acid powder |  
+| bip_39_word_space_5 | pattern knock acid powder layer |  
+| bip_39_word_space_6 | pattern knock acid powder layer between |  
+| bip_39_word_space_7 | pattern knock acid powder layer between ethics |  
+| bip_39_word_space_8 | pattern knock acid powder layer between ethics acid |  
+| bip_39_word_space_9 | pattern knock acid powder layer between ethics acid sound |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

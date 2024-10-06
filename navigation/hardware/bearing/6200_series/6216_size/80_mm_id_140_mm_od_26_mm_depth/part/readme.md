@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: naive bone
+  * bip 39 word 3: naive bone sister
+  * bip 39 word: naive bone sister pool good vehicle pitch body deposit wasp daughter alone
 
 ### other_codes
 * short_code: br6216
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | naive |  
+| bip_39_word_new_br10 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle<br>pitch<br>body<br>deposit<br>wasp |  
+| bip_39_word_new_br11 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle<br>pitch<br>body<br>deposit<br>wasp<br>daughter |  
+| bip_39_word_new_br12 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle<br>pitch<br>body<br>deposit<br>wasp<br>daughter<br>alone |  
+| bip_39_word_new_br2 | naive<br>bone |  
+| bip_39_word_new_br3 | naive<br>bone<br>sister |  
+| bip_39_word_new_br4 | naive<br>bone<br>sister<br>pool |  
+| bip_39_word_new_br5 | naive<br>bone<br>sister<br>pool<br>good |  
+| bip_39_word_new_br6 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle |  
+| bip_39_word_new_br7 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle<br>pitch |  
+| bip_39_word_new_br8 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle<br>pitch<br>body |  
+| bip_39_word_new_br9 | naive<br>bone<br>sister<br>pool<br>good<br>vehicle<br>pitch<br>body<br>deposit |  
+| bip_39_word_new_line1 | naive |  
+| bip_39_word_new_line10 | naive
+bone
+sister
+pool
+good
+vehicle
+pitch
+body
+deposit
+wasp |  
+| bip_39_word_new_line11 | naive
+bone
+sister
+pool
+good
+vehicle
+pitch
+body
+deposit
+wasp
+daughter |  
+| bip_39_word_new_line12 | naive
+bone
+sister
+pool
+good
+vehicle
+pitch
+body
+deposit
+wasp
+daughter
+alone |  
+| bip_39_word_new_line2 | naive
+bone |  
+| bip_39_word_new_line3 | naive
+bone
+sister |  
+| bip_39_word_new_line4 | naive
+bone
+sister
+pool |  
+| bip_39_word_new_line5 | naive
+bone
+sister
+pool
+good |  
+| bip_39_word_new_line6 | naive
+bone
+sister
+pool
+good
+vehicle |  
+| bip_39_word_new_line7 | naive
+bone
+sister
+pool
+good
+vehicle
+pitch |  
+| bip_39_word_new_line8 | naive
+bone
+sister
+pool
+good
+vehicle
+pitch
+body |  
+| bip_39_word_new_line9 | naive
+bone
+sister
+pool
+good
+vehicle
+pitch
+body
+deposit |  
+| bip_39_word_space_0 | ['naive', 'bone', 'sister', 'pool', 'good', 'vehicle', 'pitch', 'body', 'deposit', 'wasp', 'daughter', 'alone'] |  
+| bip_39_word_space_1 | naive |  
+| bip_39_word_space_10 | naive bone sister pool good vehicle pitch body deposit wasp |  
+| bip_39_word_space_11 | naive bone sister pool good vehicle pitch body deposit wasp daughter |  
+| bip_39_word_space_12 | naive bone sister pool good vehicle pitch body deposit wasp daughter alone |  
+| bip_39_word_space_2 | naive bone |  
+| bip_39_word_space_3 | naive bone sister |  
+| bip_39_word_space_4 | naive bone sister pool |  
+| bip_39_word_space_5 | naive bone sister pool good |  
+| bip_39_word_space_6 | naive bone sister pool good vehicle |  
+| bip_39_word_space_7 | naive bone sister pool good vehicle pitch |  
+| bip_39_word_space_8 | naive bone sister pool good vehicle pitch body |  
+| bip_39_word_space_9 | naive bone sister pool good vehicle pitch body deposit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

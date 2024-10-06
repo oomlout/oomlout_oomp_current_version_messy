@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vital
+bip_39_word_new_br10: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor
+bip_39_word_new_br11: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage
+bip_39_word_new_br12: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage<br>art
+bip_39_word_new_br2: vital<br>egg
+bip_39_word_new_br3: vital<br>egg<br>disagree
+bip_39_word_new_br4: vital<br>egg<br>disagree<br>bicycle
+bip_39_word_new_br5: vital<br>egg<br>disagree<br>bicycle<br>sketch
+bip_39_word_new_br6: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain
+bip_39_word_new_br7: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van
+bip_39_word_new_br8: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch
+bip_39_word_new_br9: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long
+bip_39_word_new_line1: vital
+bip_39_word_new_line10: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch
+
+  long
+
+  harbor'
+bip_39_word_new_line11: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch
+
+  long
+
+  harbor
+
+  damage'
+bip_39_word_new_line12: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch
+
+  long
+
+  harbor
+
+  damage
+
+  art'
+bip_39_word_new_line2: 'vital
+
+  egg'
+bip_39_word_new_line3: 'vital
+
+  egg
+
+  disagree'
+bip_39_word_new_line4: 'vital
+
+  egg
+
+  disagree
+
+  bicycle'
+bip_39_word_new_line5: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch'
+bip_39_word_new_line6: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain'
+bip_39_word_new_line7: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van'
+bip_39_word_new_line8: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch'
+bip_39_word_new_line9: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch
+
+  long'
+bip_39_word_space_0:
+- vital
+- egg
+- disagree
+- bicycle
+- sketch
+- bargain
+- van
+- crouch
+- long
+- harbor
+- damage
+- art
+bip_39_word_space_1: vital
+bip_39_word_space_10: vital egg disagree bicycle sketch bargain van crouch long harbor
+bip_39_word_space_11: vital egg disagree bicycle sketch bargain van crouch long harbor
+  damage
+bip_39_word_space_12: vital egg disagree bicycle sketch bargain van crouch long harbor
+  damage art
+bip_39_word_space_2: vital egg
+bip_39_word_space_3: vital egg disagree
+bip_39_word_space_4: vital egg disagree bicycle
+bip_39_word_space_5: vital egg disagree bicycle sketch
+bip_39_word_space_6: vital egg disagree bicycle sketch bargain
+bip_39_word_space_7: vital egg disagree bicycle sketch bargain van
+bip_39_word_space_8: vital egg disagree bicycle sketch bargain van crouch
+bip_39_word_space_9: vital egg disagree bicycle sketch bargain van crouch long
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

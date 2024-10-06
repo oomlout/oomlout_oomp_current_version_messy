@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oxygen chicken
+  * bip 39 word 3: oxygen chicken crash
+  * bip 39 word: oxygen chicken crash radar demand swing media grain warfare upset design alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oxygen |  
+| bip_39_word_new_br10 | oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing<br>media<br>grain<br>warfare<br>upset |  
+| bip_39_word_new_br11 | oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing<br>media<br>grain<br>warfare<br>upset<br>design |  
+| bip_39_word_new_br12 | oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing<br>media<br>grain<br>warfare<br>upset<br>design<br>alone |  
+| bip_39_word_new_br2 | oxygen<br>chicken |  
+| bip_39_word_new_br3 | oxygen<br>chicken<br>crash |  
+| bip_39_word_new_br4 | oxygen<br>chicken<br>crash<br>radar |  
+| bip_39_word_new_br5 | oxygen<br>chicken<br>crash<br>radar<br>demand |  
+| bip_39_word_new_br6 | oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing |  
+| bip_39_word_new_br7 | oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing<br>media |  
+| bip_39_word_new_br8 | oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing<br>media<br>grain |  
+| bip_39_word_new_br9 | oxygen<br>chicken<br>crash<br>radar<br>demand<br>swing<br>media<br>grain<br>warfare |  
+| bip_39_word_new_line1 | oxygen |  
+| bip_39_word_new_line10 | oxygen
+chicken
+crash
+radar
+demand
+swing
+media
+grain
+warfare
+upset |  
+| bip_39_word_new_line11 | oxygen
+chicken
+crash
+radar
+demand
+swing
+media
+grain
+warfare
+upset
+design |  
+| bip_39_word_new_line12 | oxygen
+chicken
+crash
+radar
+demand
+swing
+media
+grain
+warfare
+upset
+design
+alone |  
+| bip_39_word_new_line2 | oxygen
+chicken |  
+| bip_39_word_new_line3 | oxygen
+chicken
+crash |  
+| bip_39_word_new_line4 | oxygen
+chicken
+crash
+radar |  
+| bip_39_word_new_line5 | oxygen
+chicken
+crash
+radar
+demand |  
+| bip_39_word_new_line6 | oxygen
+chicken
+crash
+radar
+demand
+swing |  
+| bip_39_word_new_line7 | oxygen
+chicken
+crash
+radar
+demand
+swing
+media |  
+| bip_39_word_new_line8 | oxygen
+chicken
+crash
+radar
+demand
+swing
+media
+grain |  
+| bip_39_word_new_line9 | oxygen
+chicken
+crash
+radar
+demand
+swing
+media
+grain
+warfare |  
+| bip_39_word_space_0 | ['oxygen', 'chicken', 'crash', 'radar', 'demand', 'swing', 'media', 'grain', 'warfare', 'upset', 'design', 'alone'] |  
+| bip_39_word_space_1 | oxygen |  
+| bip_39_word_space_10 | oxygen chicken crash radar demand swing media grain warfare upset |  
+| bip_39_word_space_11 | oxygen chicken crash radar demand swing media grain warfare upset design |  
+| bip_39_word_space_12 | oxygen chicken crash radar demand swing media grain warfare upset design alone |  
+| bip_39_word_space_2 | oxygen chicken |  
+| bip_39_word_space_3 | oxygen chicken crash |  
+| bip_39_word_space_4 | oxygen chicken crash radar |  
+| bip_39_word_space_5 | oxygen chicken crash radar demand |  
+| bip_39_word_space_6 | oxygen chicken crash radar demand swing |  
+| bip_39_word_space_7 | oxygen chicken crash radar demand swing media |  
+| bip_39_word_space_8 | oxygen chicken crash radar demand swing media grain |  
+| bip_39_word_space_9 | oxygen chicken crash radar demand swing media grain warfare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

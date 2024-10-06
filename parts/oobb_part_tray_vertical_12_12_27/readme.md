@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: leaf amazing
+  * bip 39 word 3: leaf amazing eight
+  * bip 39 word: leaf amazing eight sniff meadow adult business solid busy butter boil ancient
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | leaf |  
+| bip_39_word_new_br10 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult<br>business<br>solid<br>busy<br>butter |  
+| bip_39_word_new_br11 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult<br>business<br>solid<br>busy<br>butter<br>boil |  
+| bip_39_word_new_br12 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult<br>business<br>solid<br>busy<br>butter<br>boil<br>ancient |  
+| bip_39_word_new_br2 | leaf<br>amazing |  
+| bip_39_word_new_br3 | leaf<br>amazing<br>eight |  
+| bip_39_word_new_br4 | leaf<br>amazing<br>eight<br>sniff |  
+| bip_39_word_new_br5 | leaf<br>amazing<br>eight<br>sniff<br>meadow |  
+| bip_39_word_new_br6 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult |  
+| bip_39_word_new_br7 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult<br>business |  
+| bip_39_word_new_br8 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult<br>business<br>solid |  
+| bip_39_word_new_br9 | leaf<br>amazing<br>eight<br>sniff<br>meadow<br>adult<br>business<br>solid<br>busy |  
+| bip_39_word_new_line1 | leaf |  
+| bip_39_word_new_line10 | leaf
+amazing
+eight
+sniff
+meadow
+adult
+business
+solid
+busy
+butter |  
+| bip_39_word_new_line11 | leaf
+amazing
+eight
+sniff
+meadow
+adult
+business
+solid
+busy
+butter
+boil |  
+| bip_39_word_new_line12 | leaf
+amazing
+eight
+sniff
+meadow
+adult
+business
+solid
+busy
+butter
+boil
+ancient |  
+| bip_39_word_new_line2 | leaf
+amazing |  
+| bip_39_word_new_line3 | leaf
+amazing
+eight |  
+| bip_39_word_new_line4 | leaf
+amazing
+eight
+sniff |  
+| bip_39_word_new_line5 | leaf
+amazing
+eight
+sniff
+meadow |  
+| bip_39_word_new_line6 | leaf
+amazing
+eight
+sniff
+meadow
+adult |  
+| bip_39_word_new_line7 | leaf
+amazing
+eight
+sniff
+meadow
+adult
+business |  
+| bip_39_word_new_line8 | leaf
+amazing
+eight
+sniff
+meadow
+adult
+business
+solid |  
+| bip_39_word_new_line9 | leaf
+amazing
+eight
+sniff
+meadow
+adult
+business
+solid
+busy |  
+| bip_39_word_space_0 | ['leaf', 'amazing', 'eight', 'sniff', 'meadow', 'adult', 'business', 'solid', 'busy', 'butter', 'boil', 'ancient'] |  
+| bip_39_word_space_1 | leaf |  
+| bip_39_word_space_10 | leaf amazing eight sniff meadow adult business solid busy butter |  
+| bip_39_word_space_11 | leaf amazing eight sniff meadow adult business solid busy butter boil |  
+| bip_39_word_space_12 | leaf amazing eight sniff meadow adult business solid busy butter boil ancient |  
+| bip_39_word_space_2 | leaf amazing |  
+| bip_39_word_space_3 | leaf amazing eight |  
+| bip_39_word_space_4 | leaf amazing eight sniff |  
+| bip_39_word_space_5 | leaf amazing eight sniff meadow |  
+| bip_39_word_space_6 | leaf amazing eight sniff meadow adult |  
+| bip_39_word_space_7 | leaf amazing eight sniff meadow adult business |  
+| bip_39_word_space_8 | leaf amazing eight sniff meadow adult business solid |  
+| bip_39_word_space_9 | leaf amazing eight sniff meadow adult business solid busy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

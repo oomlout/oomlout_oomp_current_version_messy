@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: item heavy
+  * bip 39 word 3: item heavy detect
+  * bip 39 word: item heavy detect economy alpha quarter online secret resist river blouse avocado
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | item |  
+| bip_39_word_new_br10 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter<br>online<br>secret<br>resist<br>river |  
+| bip_39_word_new_br11 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter<br>online<br>secret<br>resist<br>river<br>blouse |  
+| bip_39_word_new_br12 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter<br>online<br>secret<br>resist<br>river<br>blouse<br>avocado |  
+| bip_39_word_new_br2 | item<br>heavy |  
+| bip_39_word_new_br3 | item<br>heavy<br>detect |  
+| bip_39_word_new_br4 | item<br>heavy<br>detect<br>economy |  
+| bip_39_word_new_br5 | item<br>heavy<br>detect<br>economy<br>alpha |  
+| bip_39_word_new_br6 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter |  
+| bip_39_word_new_br7 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter<br>online |  
+| bip_39_word_new_br8 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter<br>online<br>secret |  
+| bip_39_word_new_br9 | item<br>heavy<br>detect<br>economy<br>alpha<br>quarter<br>online<br>secret<br>resist |  
+| bip_39_word_new_line1 | item |  
+| bip_39_word_new_line10 | item
+heavy
+detect
+economy
+alpha
+quarter
+online
+secret
+resist
+river |  
+| bip_39_word_new_line11 | item
+heavy
+detect
+economy
+alpha
+quarter
+online
+secret
+resist
+river
+blouse |  
+| bip_39_word_new_line12 | item
+heavy
+detect
+economy
+alpha
+quarter
+online
+secret
+resist
+river
+blouse
+avocado |  
+| bip_39_word_new_line2 | item
+heavy |  
+| bip_39_word_new_line3 | item
+heavy
+detect |  
+| bip_39_word_new_line4 | item
+heavy
+detect
+economy |  
+| bip_39_word_new_line5 | item
+heavy
+detect
+economy
+alpha |  
+| bip_39_word_new_line6 | item
+heavy
+detect
+economy
+alpha
+quarter |  
+| bip_39_word_new_line7 | item
+heavy
+detect
+economy
+alpha
+quarter
+online |  
+| bip_39_word_new_line8 | item
+heavy
+detect
+economy
+alpha
+quarter
+online
+secret |  
+| bip_39_word_new_line9 | item
+heavy
+detect
+economy
+alpha
+quarter
+online
+secret
+resist |  
+| bip_39_word_space_0 | ['item', 'heavy', 'detect', 'economy', 'alpha', 'quarter', 'online', 'secret', 'resist', 'river', 'blouse', 'avocado'] |  
+| bip_39_word_space_1 | item |  
+| bip_39_word_space_10 | item heavy detect economy alpha quarter online secret resist river |  
+| bip_39_word_space_11 | item heavy detect economy alpha quarter online secret resist river blouse |  
+| bip_39_word_space_12 | item heavy detect economy alpha quarter online secret resist river blouse avocado |  
+| bip_39_word_space_2 | item heavy |  
+| bip_39_word_space_3 | item heavy detect |  
+| bip_39_word_space_4 | item heavy detect economy |  
+| bip_39_word_space_5 | item heavy detect economy alpha |  
+| bip_39_word_space_6 | item heavy detect economy alpha quarter |  
+| bip_39_word_space_7 | item heavy detect economy alpha quarter online |  
+| bip_39_word_space_8 | item heavy detect economy alpha quarter online secret |  
+| bip_39_word_space_9 | item heavy detect economy alpha quarter online secret resist |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

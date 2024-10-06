@@ -1,3 +1,187 @@
+bip_39_word_new_br1: muscle
+bip_39_word_new_br10: muscle<br>velvet<br>only<br>flash<br>summer<br>news<br>embrace<br>company<br>winter<br>portion
+bip_39_word_new_br11: muscle<br>velvet<br>only<br>flash<br>summer<br>news<br>embrace<br>company<br>winter<br>portion<br>mass
+bip_39_word_new_br12: muscle<br>velvet<br>only<br>flash<br>summer<br>news<br>embrace<br>company<br>winter<br>portion<br>mass<br>ability
+bip_39_word_new_br2: muscle<br>velvet
+bip_39_word_new_br3: muscle<br>velvet<br>only
+bip_39_word_new_br4: muscle<br>velvet<br>only<br>flash
+bip_39_word_new_br5: muscle<br>velvet<br>only<br>flash<br>summer
+bip_39_word_new_br6: muscle<br>velvet<br>only<br>flash<br>summer<br>news
+bip_39_word_new_br7: muscle<br>velvet<br>only<br>flash<br>summer<br>news<br>embrace
+bip_39_word_new_br8: muscle<br>velvet<br>only<br>flash<br>summer<br>news<br>embrace<br>company
+bip_39_word_new_br9: muscle<br>velvet<br>only<br>flash<br>summer<br>news<br>embrace<br>company<br>winter
+bip_39_word_new_line1: muscle
+bip_39_word_new_line10: 'muscle
+
+  velvet
+
+  only
+
+  flash
+
+  summer
+
+  news
+
+  embrace
+
+  company
+
+  winter
+
+  portion'
+bip_39_word_new_line11: 'muscle
+
+  velvet
+
+  only
+
+  flash
+
+  summer
+
+  news
+
+  embrace
+
+  company
+
+  winter
+
+  portion
+
+  mass'
+bip_39_word_new_line12: 'muscle
+
+  velvet
+
+  only
+
+  flash
+
+  summer
+
+  news
+
+  embrace
+
+  company
+
+  winter
+
+  portion
+
+  mass
+
+  ability'
+bip_39_word_new_line2: 'muscle
+
+  velvet'
+bip_39_word_new_line3: 'muscle
+
+  velvet
+
+  only'
+bip_39_word_new_line4: 'muscle
+
+  velvet
+
+  only
+
+  flash'
+bip_39_word_new_line5: 'muscle
+
+  velvet
+
+  only
+
+  flash
+
+  summer'
+bip_39_word_new_line6: 'muscle
+
+  velvet
+
+  only
+
+  flash
+
+  summer
+
+  news'
+bip_39_word_new_line7: 'muscle
+
+  velvet
+
+  only
+
+  flash
+
+  summer
+
+  news
+
+  embrace'
+bip_39_word_new_line8: 'muscle
+
+  velvet
+
+  only
+
+  flash
+
+  summer
+
+  news
+
+  embrace
+
+  company'
+bip_39_word_new_line9: 'muscle
+
+  velvet
+
+  only
+
+  flash
+
+  summer
+
+  news
+
+  embrace
+
+  company
+
+  winter'
+bip_39_word_space_0:
+- muscle
+- velvet
+- only
+- flash
+- summer
+- news
+- embrace
+- company
+- winter
+- portion
+- mass
+- ability
+bip_39_word_space_1: muscle
+bip_39_word_space_10: muscle velvet only flash summer news embrace company winter
+  portion
+bip_39_word_space_11: muscle velvet only flash summer news embrace company winter
+  portion mass
+bip_39_word_space_12: muscle velvet only flash summer news embrace company winter
+  portion mass ability
+bip_39_word_space_2: muscle velvet
+bip_39_word_space_3: muscle velvet only
+bip_39_word_space_4: muscle velvet only flash
+bip_39_word_space_5: muscle velvet only flash summer
+bip_39_word_space_6: muscle velvet only flash summer news
+bip_39_word_space_7: muscle velvet only flash summer news embrace
+bip_39_word_space_8: muscle velvet only flash summer news embrace company
+bip_39_word_space_9: muscle velvet only flash summer news embrace company winter
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

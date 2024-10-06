@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: area kangaroo
+  * bip 39 word 3: area kangaroo access
+  * bip 39 word: area kangaroo access draft violin cupboard obvious sock brown forget seek assume
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | area |  
+| bip_39_word_new_br10 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown<br>forget |  
+| bip_39_word_new_br11 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown<br>forget<br>seek |  
+| bip_39_word_new_br12 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown<br>forget<br>seek<br>assume |  
+| bip_39_word_new_br2 | area<br>kangaroo |  
+| bip_39_word_new_br3 | area<br>kangaroo<br>access |  
+| bip_39_word_new_br4 | area<br>kangaroo<br>access<br>draft |  
+| bip_39_word_new_br5 | area<br>kangaroo<br>access<br>draft<br>violin |  
+| bip_39_word_new_br6 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard |  
+| bip_39_word_new_br7 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious |  
+| bip_39_word_new_br8 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock |  
+| bip_39_word_new_br9 | area<br>kangaroo<br>access<br>draft<br>violin<br>cupboard<br>obvious<br>sock<br>brown |  
+| bip_39_word_new_line1 | area |  
+| bip_39_word_new_line10 | area
+kangaroo
+access
+draft
+violin
+cupboard
+obvious
+sock
+brown
+forget |  
+| bip_39_word_new_line11 | area
+kangaroo
+access
+draft
+violin
+cupboard
+obvious
+sock
+brown
+forget
+seek |  
+| bip_39_word_new_line12 | area
+kangaroo
+access
+draft
+violin
+cupboard
+obvious
+sock
+brown
+forget
+seek
+assume |  
+| bip_39_word_new_line2 | area
+kangaroo |  
+| bip_39_word_new_line3 | area
+kangaroo
+access |  
+| bip_39_word_new_line4 | area
+kangaroo
+access
+draft |  
+| bip_39_word_new_line5 | area
+kangaroo
+access
+draft
+violin |  
+| bip_39_word_new_line6 | area
+kangaroo
+access
+draft
+violin
+cupboard |  
+| bip_39_word_new_line7 | area
+kangaroo
+access
+draft
+violin
+cupboard
+obvious |  
+| bip_39_word_new_line8 | area
+kangaroo
+access
+draft
+violin
+cupboard
+obvious
+sock |  
+| bip_39_word_new_line9 | area
+kangaroo
+access
+draft
+violin
+cupboard
+obvious
+sock
+brown |  
+| bip_39_word_space_0 | ['area', 'kangaroo', 'access', 'draft', 'violin', 'cupboard', 'obvious', 'sock', 'brown', 'forget', 'seek', 'assume'] |  
+| bip_39_word_space_1 | area |  
+| bip_39_word_space_10 | area kangaroo access draft violin cupboard obvious sock brown forget |  
+| bip_39_word_space_11 | area kangaroo access draft violin cupboard obvious sock brown forget seek |  
+| bip_39_word_space_12 | area kangaroo access draft violin cupboard obvious sock brown forget seek assume |  
+| bip_39_word_space_2 | area kangaroo |  
+| bip_39_word_space_3 | area kangaroo access |  
+| bip_39_word_space_4 | area kangaroo access draft |  
+| bip_39_word_space_5 | area kangaroo access draft violin |  
+| bip_39_word_space_6 | area kangaroo access draft violin cupboard |  
+| bip_39_word_space_7 | area kangaroo access draft violin cupboard obvious |  
+| bip_39_word_space_8 | area kangaroo access draft violin cupboard obvious sock |  
+| bip_39_word_space_9 | area kangaroo access draft violin cupboard obvious sock brown |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

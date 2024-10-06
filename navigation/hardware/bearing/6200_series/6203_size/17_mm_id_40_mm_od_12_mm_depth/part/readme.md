@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: essence boost
+  * bip 39 word 3: essence boost atom
+  * bip 39 word: essence boost atom marine sail like crucial skin napkin pulse note august
 
 ### other_codes
 * short_code: br6203
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | essence |  
+| bip_39_word_new_br10 | essence<br>boost<br>atom<br>marine<br>sail<br>like<br>crucial<br>skin<br>napkin<br>pulse |  
+| bip_39_word_new_br11 | essence<br>boost<br>atom<br>marine<br>sail<br>like<br>crucial<br>skin<br>napkin<br>pulse<br>note |  
+| bip_39_word_new_br12 | essence<br>boost<br>atom<br>marine<br>sail<br>like<br>crucial<br>skin<br>napkin<br>pulse<br>note<br>august |  
+| bip_39_word_new_br2 | essence<br>boost |  
+| bip_39_word_new_br3 | essence<br>boost<br>atom |  
+| bip_39_word_new_br4 | essence<br>boost<br>atom<br>marine |  
+| bip_39_word_new_br5 | essence<br>boost<br>atom<br>marine<br>sail |  
+| bip_39_word_new_br6 | essence<br>boost<br>atom<br>marine<br>sail<br>like |  
+| bip_39_word_new_br7 | essence<br>boost<br>atom<br>marine<br>sail<br>like<br>crucial |  
+| bip_39_word_new_br8 | essence<br>boost<br>atom<br>marine<br>sail<br>like<br>crucial<br>skin |  
+| bip_39_word_new_br9 | essence<br>boost<br>atom<br>marine<br>sail<br>like<br>crucial<br>skin<br>napkin |  
+| bip_39_word_new_line1 | essence |  
+| bip_39_word_new_line10 | essence
+boost
+atom
+marine
+sail
+like
+crucial
+skin
+napkin
+pulse |  
+| bip_39_word_new_line11 | essence
+boost
+atom
+marine
+sail
+like
+crucial
+skin
+napkin
+pulse
+note |  
+| bip_39_word_new_line12 | essence
+boost
+atom
+marine
+sail
+like
+crucial
+skin
+napkin
+pulse
+note
+august |  
+| bip_39_word_new_line2 | essence
+boost |  
+| bip_39_word_new_line3 | essence
+boost
+atom |  
+| bip_39_word_new_line4 | essence
+boost
+atom
+marine |  
+| bip_39_word_new_line5 | essence
+boost
+atom
+marine
+sail |  
+| bip_39_word_new_line6 | essence
+boost
+atom
+marine
+sail
+like |  
+| bip_39_word_new_line7 | essence
+boost
+atom
+marine
+sail
+like
+crucial |  
+| bip_39_word_new_line8 | essence
+boost
+atom
+marine
+sail
+like
+crucial
+skin |  
+| bip_39_word_new_line9 | essence
+boost
+atom
+marine
+sail
+like
+crucial
+skin
+napkin |  
+| bip_39_word_space_0 | ['essence', 'boost', 'atom', 'marine', 'sail', 'like', 'crucial', 'skin', 'napkin', 'pulse', 'note', 'august'] |  
+| bip_39_word_space_1 | essence |  
+| bip_39_word_space_10 | essence boost atom marine sail like crucial skin napkin pulse |  
+| bip_39_word_space_11 | essence boost atom marine sail like crucial skin napkin pulse note |  
+| bip_39_word_space_12 | essence boost atom marine sail like crucial skin napkin pulse note august |  
+| bip_39_word_space_2 | essence boost |  
+| bip_39_word_space_3 | essence boost atom |  
+| bip_39_word_space_4 | essence boost atom marine |  
+| bip_39_word_space_5 | essence boost atom marine sail |  
+| bip_39_word_space_6 | essence boost atom marine sail like |  
+| bip_39_word_space_7 | essence boost atom marine sail like crucial |  
+| bip_39_word_space_8 | essence boost atom marine sail like crucial skin |  
+| bip_39_word_space_9 | essence boost atom marine sail like crucial skin napkin |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

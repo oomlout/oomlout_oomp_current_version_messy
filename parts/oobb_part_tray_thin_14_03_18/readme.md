@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: loud escape
+  * bip 39 word 3: loud escape middle
+  * bip 39 word: loud escape middle nose deer range juice proof survey urge barrel artist
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | loud |  
+| bip_39_word_new_br10 | loud<br>escape<br>middle<br>nose<br>deer<br>range<br>juice<br>proof<br>survey<br>urge |  
+| bip_39_word_new_br11 | loud<br>escape<br>middle<br>nose<br>deer<br>range<br>juice<br>proof<br>survey<br>urge<br>barrel |  
+| bip_39_word_new_br12 | loud<br>escape<br>middle<br>nose<br>deer<br>range<br>juice<br>proof<br>survey<br>urge<br>barrel<br>artist |  
+| bip_39_word_new_br2 | loud<br>escape |  
+| bip_39_word_new_br3 | loud<br>escape<br>middle |  
+| bip_39_word_new_br4 | loud<br>escape<br>middle<br>nose |  
+| bip_39_word_new_br5 | loud<br>escape<br>middle<br>nose<br>deer |  
+| bip_39_word_new_br6 | loud<br>escape<br>middle<br>nose<br>deer<br>range |  
+| bip_39_word_new_br7 | loud<br>escape<br>middle<br>nose<br>deer<br>range<br>juice |  
+| bip_39_word_new_br8 | loud<br>escape<br>middle<br>nose<br>deer<br>range<br>juice<br>proof |  
+| bip_39_word_new_br9 | loud<br>escape<br>middle<br>nose<br>deer<br>range<br>juice<br>proof<br>survey |  
+| bip_39_word_new_line1 | loud |  
+| bip_39_word_new_line10 | loud
+escape
+middle
+nose
+deer
+range
+juice
+proof
+survey
+urge |  
+| bip_39_word_new_line11 | loud
+escape
+middle
+nose
+deer
+range
+juice
+proof
+survey
+urge
+barrel |  
+| bip_39_word_new_line12 | loud
+escape
+middle
+nose
+deer
+range
+juice
+proof
+survey
+urge
+barrel
+artist |  
+| bip_39_word_new_line2 | loud
+escape |  
+| bip_39_word_new_line3 | loud
+escape
+middle |  
+| bip_39_word_new_line4 | loud
+escape
+middle
+nose |  
+| bip_39_word_new_line5 | loud
+escape
+middle
+nose
+deer |  
+| bip_39_word_new_line6 | loud
+escape
+middle
+nose
+deer
+range |  
+| bip_39_word_new_line7 | loud
+escape
+middle
+nose
+deer
+range
+juice |  
+| bip_39_word_new_line8 | loud
+escape
+middle
+nose
+deer
+range
+juice
+proof |  
+| bip_39_word_new_line9 | loud
+escape
+middle
+nose
+deer
+range
+juice
+proof
+survey |  
+| bip_39_word_space_0 | ['loud', 'escape', 'middle', 'nose', 'deer', 'range', 'juice', 'proof', 'survey', 'urge', 'barrel', 'artist'] |  
+| bip_39_word_space_1 | loud |  
+| bip_39_word_space_10 | loud escape middle nose deer range juice proof survey urge |  
+| bip_39_word_space_11 | loud escape middle nose deer range juice proof survey urge barrel |  
+| bip_39_word_space_12 | loud escape middle nose deer range juice proof survey urge barrel artist |  
+| bip_39_word_space_2 | loud escape |  
+| bip_39_word_space_3 | loud escape middle |  
+| bip_39_word_space_4 | loud escape middle nose |  
+| bip_39_word_space_5 | loud escape middle nose deer |  
+| bip_39_word_space_6 | loud escape middle nose deer range |  
+| bip_39_word_space_7 | loud escape middle nose deer range juice |  
+| bip_39_word_space_8 | loud escape middle nose deer range juice proof |  
+| bip_39_word_space_9 | loud escape middle nose deer range juice proof survey |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

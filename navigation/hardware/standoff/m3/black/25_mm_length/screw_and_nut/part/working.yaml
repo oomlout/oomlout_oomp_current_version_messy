@@ -1,3 +1,186 @@
+bip_39_word_new_br1: clog
+bip_39_word_new_br10: clog<br>bubble<br>vital<br>enter<br>figure<br>oven<br>ladder<br>suspect<br>enact<br>cram
+bip_39_word_new_br11: clog<br>bubble<br>vital<br>enter<br>figure<br>oven<br>ladder<br>suspect<br>enact<br>cram<br>carbon
+bip_39_word_new_br12: clog<br>bubble<br>vital<br>enter<br>figure<br>oven<br>ladder<br>suspect<br>enact<br>cram<br>carbon<br>arena
+bip_39_word_new_br2: clog<br>bubble
+bip_39_word_new_br3: clog<br>bubble<br>vital
+bip_39_word_new_br4: clog<br>bubble<br>vital<br>enter
+bip_39_word_new_br5: clog<br>bubble<br>vital<br>enter<br>figure
+bip_39_word_new_br6: clog<br>bubble<br>vital<br>enter<br>figure<br>oven
+bip_39_word_new_br7: clog<br>bubble<br>vital<br>enter<br>figure<br>oven<br>ladder
+bip_39_word_new_br8: clog<br>bubble<br>vital<br>enter<br>figure<br>oven<br>ladder<br>suspect
+bip_39_word_new_br9: clog<br>bubble<br>vital<br>enter<br>figure<br>oven<br>ladder<br>suspect<br>enact
+bip_39_word_new_line1: clog
+bip_39_word_new_line10: 'clog
+
+  bubble
+
+  vital
+
+  enter
+
+  figure
+
+  oven
+
+  ladder
+
+  suspect
+
+  enact
+
+  cram'
+bip_39_word_new_line11: 'clog
+
+  bubble
+
+  vital
+
+  enter
+
+  figure
+
+  oven
+
+  ladder
+
+  suspect
+
+  enact
+
+  cram
+
+  carbon'
+bip_39_word_new_line12: 'clog
+
+  bubble
+
+  vital
+
+  enter
+
+  figure
+
+  oven
+
+  ladder
+
+  suspect
+
+  enact
+
+  cram
+
+  carbon
+
+  arena'
+bip_39_word_new_line2: 'clog
+
+  bubble'
+bip_39_word_new_line3: 'clog
+
+  bubble
+
+  vital'
+bip_39_word_new_line4: 'clog
+
+  bubble
+
+  vital
+
+  enter'
+bip_39_word_new_line5: 'clog
+
+  bubble
+
+  vital
+
+  enter
+
+  figure'
+bip_39_word_new_line6: 'clog
+
+  bubble
+
+  vital
+
+  enter
+
+  figure
+
+  oven'
+bip_39_word_new_line7: 'clog
+
+  bubble
+
+  vital
+
+  enter
+
+  figure
+
+  oven
+
+  ladder'
+bip_39_word_new_line8: 'clog
+
+  bubble
+
+  vital
+
+  enter
+
+  figure
+
+  oven
+
+  ladder
+
+  suspect'
+bip_39_word_new_line9: 'clog
+
+  bubble
+
+  vital
+
+  enter
+
+  figure
+
+  oven
+
+  ladder
+
+  suspect
+
+  enact'
+bip_39_word_space_0:
+- clog
+- bubble
+- vital
+- enter
+- figure
+- oven
+- ladder
+- suspect
+- enact
+- cram
+- carbon
+- arena
+bip_39_word_space_1: clog
+bip_39_word_space_10: clog bubble vital enter figure oven ladder suspect enact cram
+bip_39_word_space_11: clog bubble vital enter figure oven ladder suspect enact cram
+  carbon
+bip_39_word_space_12: clog bubble vital enter figure oven ladder suspect enact cram
+  carbon arena
+bip_39_word_space_2: clog bubble
+bip_39_word_space_3: clog bubble vital
+bip_39_word_space_4: clog bubble vital enter
+bip_39_word_space_5: clog bubble vital enter figure
+bip_39_word_space_6: clog bubble vital enter figure oven
+bip_39_word_space_7: clog bubble vital enter figure oven ladder
+bip_39_word_space_8: clog bubble vital enter figure oven ladder suspect
+bip_39_word_space_9: clog bubble vital enter figure oven ladder suspect enact
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h

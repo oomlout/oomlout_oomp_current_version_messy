@@ -1,3 +1,187 @@
+bip_39_word_new_br1: reason
+bip_39_word_new_br10: reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still
+bip_39_word_new_br11: reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still<br>jelly
+bip_39_word_new_br12: reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty<br>still<br>jelly<br>attitude
+bip_39_word_new_br2: reason<br>edge
+bip_39_word_new_br3: reason<br>edge<br>process
+bip_39_word_new_br4: reason<br>edge<br>process<br>talk
+bip_39_word_new_br5: reason<br>edge<br>process<br>talk<br>modify
+bip_39_word_new_br6: reason<br>edge<br>process<br>talk<br>modify<br>monster
+bip_39_word_new_br7: reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve
+bip_39_word_new_br8: reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom
+bip_39_word_new_br9: reason<br>edge<br>process<br>talk<br>modify<br>monster<br>valve<br>bottom<br>faculty
+bip_39_word_new_line1: reason
+bip_39_word_new_line10: 'reason
+
+  edge
+
+  process
+
+  talk
+
+  modify
+
+  monster
+
+  valve
+
+  bottom
+
+  faculty
+
+  still'
+bip_39_word_new_line11: 'reason
+
+  edge
+
+  process
+
+  talk
+
+  modify
+
+  monster
+
+  valve
+
+  bottom
+
+  faculty
+
+  still
+
+  jelly'
+bip_39_word_new_line12: 'reason
+
+  edge
+
+  process
+
+  talk
+
+  modify
+
+  monster
+
+  valve
+
+  bottom
+
+  faculty
+
+  still
+
+  jelly
+
+  attitude'
+bip_39_word_new_line2: 'reason
+
+  edge'
+bip_39_word_new_line3: 'reason
+
+  edge
+
+  process'
+bip_39_word_new_line4: 'reason
+
+  edge
+
+  process
+
+  talk'
+bip_39_word_new_line5: 'reason
+
+  edge
+
+  process
+
+  talk
+
+  modify'
+bip_39_word_new_line6: 'reason
+
+  edge
+
+  process
+
+  talk
+
+  modify
+
+  monster'
+bip_39_word_new_line7: 'reason
+
+  edge
+
+  process
+
+  talk
+
+  modify
+
+  monster
+
+  valve'
+bip_39_word_new_line8: 'reason
+
+  edge
+
+  process
+
+  talk
+
+  modify
+
+  monster
+
+  valve
+
+  bottom'
+bip_39_word_new_line9: 'reason
+
+  edge
+
+  process
+
+  talk
+
+  modify
+
+  monster
+
+  valve
+
+  bottom
+
+  faculty'
+bip_39_word_space_0:
+- reason
+- edge
+- process
+- talk
+- modify
+- monster
+- valve
+- bottom
+- faculty
+- still
+- jelly
+- attitude
+bip_39_word_space_1: reason
+bip_39_word_space_10: reason edge process talk modify monster valve bottom faculty
+  still
+bip_39_word_space_11: reason edge process talk modify monster valve bottom faculty
+  still jelly
+bip_39_word_space_12: reason edge process talk modify monster valve bottom faculty
+  still jelly attitude
+bip_39_word_space_2: reason edge
+bip_39_word_space_3: reason edge process
+bip_39_word_space_4: reason edge process talk
+bip_39_word_space_5: reason edge process talk modify
+bip_39_word_space_6: reason edge process talk modify monster
+bip_39_word_space_7: reason edge process talk modify monster valve
+bip_39_word_space_8: reason edge process talk modify monster valve bottom
+bip_39_word_space_9: reason edge process talk modify monster valve bottom faculty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

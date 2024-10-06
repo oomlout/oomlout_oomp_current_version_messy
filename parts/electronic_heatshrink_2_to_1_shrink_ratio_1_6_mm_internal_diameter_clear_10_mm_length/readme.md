@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: domain absent
+  * bip 39 word 3: domain absent zone
+  * bip 39 word: domain absent zone trap pen able foam problem certain jeans year analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | domain |  
+| bip_39_word_new_br10 | domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain<br>jeans |  
+| bip_39_word_new_br11 | domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain<br>jeans<br>year |  
+| bip_39_word_new_br12 | domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain<br>jeans<br>year<br>analyst |  
+| bip_39_word_new_br2 | domain<br>absent |  
+| bip_39_word_new_br3 | domain<br>absent<br>zone |  
+| bip_39_word_new_br4 | domain<br>absent<br>zone<br>trap |  
+| bip_39_word_new_br5 | domain<br>absent<br>zone<br>trap<br>pen |  
+| bip_39_word_new_br6 | domain<br>absent<br>zone<br>trap<br>pen<br>able |  
+| bip_39_word_new_br7 | domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam |  
+| bip_39_word_new_br8 | domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem |  
+| bip_39_word_new_br9 | domain<br>absent<br>zone<br>trap<br>pen<br>able<br>foam<br>problem<br>certain |  
+| bip_39_word_new_line1 | domain |  
+| bip_39_word_new_line10 | domain
+absent
+zone
+trap
+pen
+able
+foam
+problem
+certain
+jeans |  
+| bip_39_word_new_line11 | domain
+absent
+zone
+trap
+pen
+able
+foam
+problem
+certain
+jeans
+year |  
+| bip_39_word_new_line12 | domain
+absent
+zone
+trap
+pen
+able
+foam
+problem
+certain
+jeans
+year
+analyst |  
+| bip_39_word_new_line2 | domain
+absent |  
+| bip_39_word_new_line3 | domain
+absent
+zone |  
+| bip_39_word_new_line4 | domain
+absent
+zone
+trap |  
+| bip_39_word_new_line5 | domain
+absent
+zone
+trap
+pen |  
+| bip_39_word_new_line6 | domain
+absent
+zone
+trap
+pen
+able |  
+| bip_39_word_new_line7 | domain
+absent
+zone
+trap
+pen
+able
+foam |  
+| bip_39_word_new_line8 | domain
+absent
+zone
+trap
+pen
+able
+foam
+problem |  
+| bip_39_word_new_line9 | domain
+absent
+zone
+trap
+pen
+able
+foam
+problem
+certain |  
+| bip_39_word_space_0 | ['domain', 'absent', 'zone', 'trap', 'pen', 'able', 'foam', 'problem', 'certain', 'jeans', 'year', 'analyst'] |  
+| bip_39_word_space_1 | domain |  
+| bip_39_word_space_10 | domain absent zone trap pen able foam problem certain jeans |  
+| bip_39_word_space_11 | domain absent zone trap pen able foam problem certain jeans year |  
+| bip_39_word_space_12 | domain absent zone trap pen able foam problem certain jeans year analyst |  
+| bip_39_word_space_2 | domain absent |  
+| bip_39_word_space_3 | domain absent zone |  
+| bip_39_word_space_4 | domain absent zone trap |  
+| bip_39_word_space_5 | domain absent zone trap pen |  
+| bip_39_word_space_6 | domain absent zone trap pen able |  
+| bip_39_word_space_7 | domain absent zone trap pen able foam |  
+| bip_39_word_space_8 | domain absent zone trap pen able foam problem |  
+| bip_39_word_space_9 | domain absent zone trap pen able foam problem certain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

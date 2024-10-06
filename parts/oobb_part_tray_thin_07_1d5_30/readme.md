@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: since major
+  * bip 39 word 3: since major prepare
+  * bip 39 word: since major prepare group hurry sea palm put reward couple almost actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | since |  
+| bip_39_word_new_br10 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple |  
+| bip_39_word_new_br11 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple<br>almost |  
+| bip_39_word_new_br12 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward<br>couple<br>almost<br>actor |  
+| bip_39_word_new_br2 | since<br>major |  
+| bip_39_word_new_br3 | since<br>major<br>prepare |  
+| bip_39_word_new_br4 | since<br>major<br>prepare<br>group |  
+| bip_39_word_new_br5 | since<br>major<br>prepare<br>group<br>hurry |  
+| bip_39_word_new_br6 | since<br>major<br>prepare<br>group<br>hurry<br>sea |  
+| bip_39_word_new_br7 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm |  
+| bip_39_word_new_br8 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put |  
+| bip_39_word_new_br9 | since<br>major<br>prepare<br>group<br>hurry<br>sea<br>palm<br>put<br>reward |  
+| bip_39_word_new_line1 | since |  
+| bip_39_word_new_line10 | since
+major
+prepare
+group
+hurry
+sea
+palm
+put
+reward
+couple |  
+| bip_39_word_new_line11 | since
+major
+prepare
+group
+hurry
+sea
+palm
+put
+reward
+couple
+almost |  
+| bip_39_word_new_line12 | since
+major
+prepare
+group
+hurry
+sea
+palm
+put
+reward
+couple
+almost
+actor |  
+| bip_39_word_new_line2 | since
+major |  
+| bip_39_word_new_line3 | since
+major
+prepare |  
+| bip_39_word_new_line4 | since
+major
+prepare
+group |  
+| bip_39_word_new_line5 | since
+major
+prepare
+group
+hurry |  
+| bip_39_word_new_line6 | since
+major
+prepare
+group
+hurry
+sea |  
+| bip_39_word_new_line7 | since
+major
+prepare
+group
+hurry
+sea
+palm |  
+| bip_39_word_new_line8 | since
+major
+prepare
+group
+hurry
+sea
+palm
+put |  
+| bip_39_word_new_line9 | since
+major
+prepare
+group
+hurry
+sea
+palm
+put
+reward |  
+| bip_39_word_space_0 | ['since', 'major', 'prepare', 'group', 'hurry', 'sea', 'palm', 'put', 'reward', 'couple', 'almost', 'actor'] |  
+| bip_39_word_space_1 | since |  
+| bip_39_word_space_10 | since major prepare group hurry sea palm put reward couple |  
+| bip_39_word_space_11 | since major prepare group hurry sea palm put reward couple almost |  
+| bip_39_word_space_12 | since major prepare group hurry sea palm put reward couple almost actor |  
+| bip_39_word_space_2 | since major |  
+| bip_39_word_space_3 | since major prepare |  
+| bip_39_word_space_4 | since major prepare group |  
+| bip_39_word_space_5 | since major prepare group hurry |  
+| bip_39_word_space_6 | since major prepare group hurry sea |  
+| bip_39_word_space_7 | since major prepare group hurry sea palm |  
+| bip_39_word_space_8 | since major prepare group hurry sea palm put |  
+| bip_39_word_space_9 | since major prepare group hurry sea palm put reward |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

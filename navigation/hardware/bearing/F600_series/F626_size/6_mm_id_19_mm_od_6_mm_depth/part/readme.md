@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: settle direct
+  * bip 39 word 3: settle direct laptop
+  * bip 39 word: settle direct laptop moral sword near roast breeze hair spoil check all
 
 ### other_codes
 * short_code: brF626
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | settle |  
+| bip_39_word_new_br10 | settle<br>direct<br>laptop<br>moral<br>sword<br>near<br>roast<br>breeze<br>hair<br>spoil |  
+| bip_39_word_new_br11 | settle<br>direct<br>laptop<br>moral<br>sword<br>near<br>roast<br>breeze<br>hair<br>spoil<br>check |  
+| bip_39_word_new_br12 | settle<br>direct<br>laptop<br>moral<br>sword<br>near<br>roast<br>breeze<br>hair<br>spoil<br>check<br>all |  
+| bip_39_word_new_br2 | settle<br>direct |  
+| bip_39_word_new_br3 | settle<br>direct<br>laptop |  
+| bip_39_word_new_br4 | settle<br>direct<br>laptop<br>moral |  
+| bip_39_word_new_br5 | settle<br>direct<br>laptop<br>moral<br>sword |  
+| bip_39_word_new_br6 | settle<br>direct<br>laptop<br>moral<br>sword<br>near |  
+| bip_39_word_new_br7 | settle<br>direct<br>laptop<br>moral<br>sword<br>near<br>roast |  
+| bip_39_word_new_br8 | settle<br>direct<br>laptop<br>moral<br>sword<br>near<br>roast<br>breeze |  
+| bip_39_word_new_br9 | settle<br>direct<br>laptop<br>moral<br>sword<br>near<br>roast<br>breeze<br>hair |  
+| bip_39_word_new_line1 | settle |  
+| bip_39_word_new_line10 | settle
+direct
+laptop
+moral
+sword
+near
+roast
+breeze
+hair
+spoil |  
+| bip_39_word_new_line11 | settle
+direct
+laptop
+moral
+sword
+near
+roast
+breeze
+hair
+spoil
+check |  
+| bip_39_word_new_line12 | settle
+direct
+laptop
+moral
+sword
+near
+roast
+breeze
+hair
+spoil
+check
+all |  
+| bip_39_word_new_line2 | settle
+direct |  
+| bip_39_word_new_line3 | settle
+direct
+laptop |  
+| bip_39_word_new_line4 | settle
+direct
+laptop
+moral |  
+| bip_39_word_new_line5 | settle
+direct
+laptop
+moral
+sword |  
+| bip_39_word_new_line6 | settle
+direct
+laptop
+moral
+sword
+near |  
+| bip_39_word_new_line7 | settle
+direct
+laptop
+moral
+sword
+near
+roast |  
+| bip_39_word_new_line8 | settle
+direct
+laptop
+moral
+sword
+near
+roast
+breeze |  
+| bip_39_word_new_line9 | settle
+direct
+laptop
+moral
+sword
+near
+roast
+breeze
+hair |  
+| bip_39_word_space_0 | ['settle', 'direct', 'laptop', 'moral', 'sword', 'near', 'roast', 'breeze', 'hair', 'spoil', 'check', 'all'] |  
+| bip_39_word_space_1 | settle |  
+| bip_39_word_space_10 | settle direct laptop moral sword near roast breeze hair spoil |  
+| bip_39_word_space_11 | settle direct laptop moral sword near roast breeze hair spoil check |  
+| bip_39_word_space_12 | settle direct laptop moral sword near roast breeze hair spoil check all |  
+| bip_39_word_space_2 | settle direct |  
+| bip_39_word_space_3 | settle direct laptop |  
+| bip_39_word_space_4 | settle direct laptop moral |  
+| bip_39_word_space_5 | settle direct laptop moral sword |  
+| bip_39_word_space_6 | settle direct laptop moral sword near |  
+| bip_39_word_space_7 | settle direct laptop moral sword near roast |  
+| bip_39_word_space_8 | settle direct laptop moral sword near roast breeze |  
+| bip_39_word_space_9 | settle direct laptop moral sword near roast breeze hair |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

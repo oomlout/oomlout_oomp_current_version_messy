@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: tool_wrench_m10
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: divide situate
+  * bip 39 word 3: divide situate trumpet
+  * bip 39 word: divide situate trumpet portion chaos audit obtain market one gap fence appear
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | divide |  
+| bip_39_word_new_br10 | divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market<br>one<br>gap |  
+| bip_39_word_new_br11 | divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market<br>one<br>gap<br>fence |  
+| bip_39_word_new_br12 | divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market<br>one<br>gap<br>fence<br>appear |  
+| bip_39_word_new_br2 | divide<br>situate |  
+| bip_39_word_new_br3 | divide<br>situate<br>trumpet |  
+| bip_39_word_new_br4 | divide<br>situate<br>trumpet<br>portion |  
+| bip_39_word_new_br5 | divide<br>situate<br>trumpet<br>portion<br>chaos |  
+| bip_39_word_new_br6 | divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit |  
+| bip_39_word_new_br7 | divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain |  
+| bip_39_word_new_br8 | divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market |  
+| bip_39_word_new_br9 | divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market<br>one |  
+| bip_39_word_new_line1 | divide |  
+| bip_39_word_new_line10 | divide
+situate
+trumpet
+portion
+chaos
+audit
+obtain
+market
+one
+gap |  
+| bip_39_word_new_line11 | divide
+situate
+trumpet
+portion
+chaos
+audit
+obtain
+market
+one
+gap
+fence |  
+| bip_39_word_new_line12 | divide
+situate
+trumpet
+portion
+chaos
+audit
+obtain
+market
+one
+gap
+fence
+appear |  
+| bip_39_word_new_line2 | divide
+situate |  
+| bip_39_word_new_line3 | divide
+situate
+trumpet |  
+| bip_39_word_new_line4 | divide
+situate
+trumpet
+portion |  
+| bip_39_word_new_line5 | divide
+situate
+trumpet
+portion
+chaos |  
+| bip_39_word_new_line6 | divide
+situate
+trumpet
+portion
+chaos
+audit |  
+| bip_39_word_new_line7 | divide
+situate
+trumpet
+portion
+chaos
+audit
+obtain |  
+| bip_39_word_new_line8 | divide
+situate
+trumpet
+portion
+chaos
+audit
+obtain
+market |  
+| bip_39_word_new_line9 | divide
+situate
+trumpet
+portion
+chaos
+audit
+obtain
+market
+one |  
+| bip_39_word_space_0 | ['divide', 'situate', 'trumpet', 'portion', 'chaos', 'audit', 'obtain', 'market', 'one', 'gap', 'fence', 'appear'] |  
+| bip_39_word_space_1 | divide |  
+| bip_39_word_space_10 | divide situate trumpet portion chaos audit obtain market one gap |  
+| bip_39_word_space_11 | divide situate trumpet portion chaos audit obtain market one gap fence |  
+| bip_39_word_space_12 | divide situate trumpet portion chaos audit obtain market one gap fence appear |  
+| bip_39_word_space_2 | divide situate |  
+| bip_39_word_space_3 | divide situate trumpet |  
+| bip_39_word_space_4 | divide situate trumpet portion |  
+| bip_39_word_space_5 | divide situate trumpet portion chaos |  
+| bip_39_word_space_6 | divide situate trumpet portion chaos audit |  
+| bip_39_word_space_7 | divide situate trumpet portion chaos audit obtain |  
+| bip_39_word_space_8 | divide situate trumpet portion chaos audit obtain market |  
+| bip_39_word_space_9 | divide situate trumpet portion chaos audit obtain market one |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

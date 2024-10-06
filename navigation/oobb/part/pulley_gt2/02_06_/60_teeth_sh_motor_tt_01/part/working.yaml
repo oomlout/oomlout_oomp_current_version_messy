@@ -1,3 +1,187 @@
+bip_39_word_new_br1: ensure
+bip_39_word_new_br10: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug
+bip_39_word_new_br11: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug<br>vehicle
+bip_39_word_new_br12: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session<br>shrug<br>vehicle<br>absorb
+bip_39_word_new_br2: ensure<br>ordinary
+bip_39_word_new_br3: ensure<br>ordinary<br>blind
+bip_39_word_new_br4: ensure<br>ordinary<br>blind<br>armor
+bip_39_word_new_br5: ensure<br>ordinary<br>blind<br>armor<br>consider
+bip_39_word_new_br6: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain
+bip_39_word_new_br7: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect
+bip_39_word_new_br8: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet
+bip_39_word_new_br9: ensure<br>ordinary<br>blind<br>armor<br>consider<br>captain<br>detect<br>helmet<br>session
+bip_39_word_new_line1: ensure
+bip_39_word_new_line10: 'ensure
+
+  ordinary
+
+  blind
+
+  armor
+
+  consider
+
+  captain
+
+  detect
+
+  helmet
+
+  session
+
+  shrug'
+bip_39_word_new_line11: 'ensure
+
+  ordinary
+
+  blind
+
+  armor
+
+  consider
+
+  captain
+
+  detect
+
+  helmet
+
+  session
+
+  shrug
+
+  vehicle'
+bip_39_word_new_line12: 'ensure
+
+  ordinary
+
+  blind
+
+  armor
+
+  consider
+
+  captain
+
+  detect
+
+  helmet
+
+  session
+
+  shrug
+
+  vehicle
+
+  absorb'
+bip_39_word_new_line2: 'ensure
+
+  ordinary'
+bip_39_word_new_line3: 'ensure
+
+  ordinary
+
+  blind'
+bip_39_word_new_line4: 'ensure
+
+  ordinary
+
+  blind
+
+  armor'
+bip_39_word_new_line5: 'ensure
+
+  ordinary
+
+  blind
+
+  armor
+
+  consider'
+bip_39_word_new_line6: 'ensure
+
+  ordinary
+
+  blind
+
+  armor
+
+  consider
+
+  captain'
+bip_39_word_new_line7: 'ensure
+
+  ordinary
+
+  blind
+
+  armor
+
+  consider
+
+  captain
+
+  detect'
+bip_39_word_new_line8: 'ensure
+
+  ordinary
+
+  blind
+
+  armor
+
+  consider
+
+  captain
+
+  detect
+
+  helmet'
+bip_39_word_new_line9: 'ensure
+
+  ordinary
+
+  blind
+
+  armor
+
+  consider
+
+  captain
+
+  detect
+
+  helmet
+
+  session'
+bip_39_word_space_0:
+- ensure
+- ordinary
+- blind
+- armor
+- consider
+- captain
+- detect
+- helmet
+- session
+- shrug
+- vehicle
+- absorb
+bip_39_word_space_1: ensure
+bip_39_word_space_10: ensure ordinary blind armor consider captain detect helmet session
+  shrug
+bip_39_word_space_11: ensure ordinary blind armor consider captain detect helmet session
+  shrug vehicle
+bip_39_word_space_12: ensure ordinary blind armor consider captain detect helmet session
+  shrug vehicle absorb
+bip_39_word_space_2: ensure ordinary
+bip_39_word_space_3: ensure ordinary blind
+bip_39_word_space_4: ensure ordinary blind armor
+bip_39_word_space_5: ensure ordinary blind armor consider
+bip_39_word_space_6: ensure ordinary blind armor consider captain
+bip_39_word_space_7: ensure ordinary blind armor consider captain detect
+bip_39_word_space_8: ensure ordinary blind armor consider captain detect helmet
+bip_39_word_space_9: ensure ordinary blind armor consider captain detect helmet session
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

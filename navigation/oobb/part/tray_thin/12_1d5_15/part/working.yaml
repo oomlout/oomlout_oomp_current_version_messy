@@ -1,3 +1,186 @@
+bip_39_word_new_br1: language
+bip_39_word_new_br10: language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum
+bip_39_word_new_br11: language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum<br>share
+bip_39_word_new_br12: language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital<br>vacuum<br>share<br>acid
+bip_39_word_new_br2: language<br>maple
+bip_39_word_new_br3: language<br>maple<br>rubber
+bip_39_word_new_br4: language<br>maple<br>rubber<br>pipe
+bip_39_word_new_br5: language<br>maple<br>rubber<br>pipe<br>cruel
+bip_39_word_new_br6: language<br>maple<br>rubber<br>pipe<br>cruel<br>few
+bip_39_word_new_br7: language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make
+bip_39_word_new_br8: language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review
+bip_39_word_new_br9: language<br>maple<br>rubber<br>pipe<br>cruel<br>few<br>make<br>review<br>capital
+bip_39_word_new_line1: language
+bip_39_word_new_line10: 'language
+
+  maple
+
+  rubber
+
+  pipe
+
+  cruel
+
+  few
+
+  make
+
+  review
+
+  capital
+
+  vacuum'
+bip_39_word_new_line11: 'language
+
+  maple
+
+  rubber
+
+  pipe
+
+  cruel
+
+  few
+
+  make
+
+  review
+
+  capital
+
+  vacuum
+
+  share'
+bip_39_word_new_line12: 'language
+
+  maple
+
+  rubber
+
+  pipe
+
+  cruel
+
+  few
+
+  make
+
+  review
+
+  capital
+
+  vacuum
+
+  share
+
+  acid'
+bip_39_word_new_line2: 'language
+
+  maple'
+bip_39_word_new_line3: 'language
+
+  maple
+
+  rubber'
+bip_39_word_new_line4: 'language
+
+  maple
+
+  rubber
+
+  pipe'
+bip_39_word_new_line5: 'language
+
+  maple
+
+  rubber
+
+  pipe
+
+  cruel'
+bip_39_word_new_line6: 'language
+
+  maple
+
+  rubber
+
+  pipe
+
+  cruel
+
+  few'
+bip_39_word_new_line7: 'language
+
+  maple
+
+  rubber
+
+  pipe
+
+  cruel
+
+  few
+
+  make'
+bip_39_word_new_line8: 'language
+
+  maple
+
+  rubber
+
+  pipe
+
+  cruel
+
+  few
+
+  make
+
+  review'
+bip_39_word_new_line9: 'language
+
+  maple
+
+  rubber
+
+  pipe
+
+  cruel
+
+  few
+
+  make
+
+  review
+
+  capital'
+bip_39_word_space_0:
+- language
+- maple
+- rubber
+- pipe
+- cruel
+- few
+- make
+- review
+- capital
+- vacuum
+- share
+- acid
+bip_39_word_space_1: language
+bip_39_word_space_10: language maple rubber pipe cruel few make review capital vacuum
+bip_39_word_space_11: language maple rubber pipe cruel few make review capital vacuum
+  share
+bip_39_word_space_12: language maple rubber pipe cruel few make review capital vacuum
+  share acid
+bip_39_word_space_2: language maple
+bip_39_word_space_3: language maple rubber
+bip_39_word_space_4: language maple rubber pipe
+bip_39_word_space_5: language maple rubber pipe cruel
+bip_39_word_space_6: language maple rubber pipe cruel few
+bip_39_word_space_7: language maple rubber pipe cruel few make
+bip_39_word_space_8: language maple rubber pipe cruel few make review
+bip_39_word_space_9: language maple rubber pipe cruel few make review capital
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hill tenant
+  * bip 39 word 3: hill tenant great
+  * bip 39 word: hill tenant great rug celery warm science copper dutch sing spatial alert
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hill |  
+| bip_39_word_new_br10 | hill<br>tenant<br>great<br>rug<br>celery<br>warm<br>science<br>copper<br>dutch<br>sing |  
+| bip_39_word_new_br11 | hill<br>tenant<br>great<br>rug<br>celery<br>warm<br>science<br>copper<br>dutch<br>sing<br>spatial |  
+| bip_39_word_new_br12 | hill<br>tenant<br>great<br>rug<br>celery<br>warm<br>science<br>copper<br>dutch<br>sing<br>spatial<br>alert |  
+| bip_39_word_new_br2 | hill<br>tenant |  
+| bip_39_word_new_br3 | hill<br>tenant<br>great |  
+| bip_39_word_new_br4 | hill<br>tenant<br>great<br>rug |  
+| bip_39_word_new_br5 | hill<br>tenant<br>great<br>rug<br>celery |  
+| bip_39_word_new_br6 | hill<br>tenant<br>great<br>rug<br>celery<br>warm |  
+| bip_39_word_new_br7 | hill<br>tenant<br>great<br>rug<br>celery<br>warm<br>science |  
+| bip_39_word_new_br8 | hill<br>tenant<br>great<br>rug<br>celery<br>warm<br>science<br>copper |  
+| bip_39_word_new_br9 | hill<br>tenant<br>great<br>rug<br>celery<br>warm<br>science<br>copper<br>dutch |  
+| bip_39_word_new_line1 | hill |  
+| bip_39_word_new_line10 | hill
+tenant
+great
+rug
+celery
+warm
+science
+copper
+dutch
+sing |  
+| bip_39_word_new_line11 | hill
+tenant
+great
+rug
+celery
+warm
+science
+copper
+dutch
+sing
+spatial |  
+| bip_39_word_new_line12 | hill
+tenant
+great
+rug
+celery
+warm
+science
+copper
+dutch
+sing
+spatial
+alert |  
+| bip_39_word_new_line2 | hill
+tenant |  
+| bip_39_word_new_line3 | hill
+tenant
+great |  
+| bip_39_word_new_line4 | hill
+tenant
+great
+rug |  
+| bip_39_word_new_line5 | hill
+tenant
+great
+rug
+celery |  
+| bip_39_word_new_line6 | hill
+tenant
+great
+rug
+celery
+warm |  
+| bip_39_word_new_line7 | hill
+tenant
+great
+rug
+celery
+warm
+science |  
+| bip_39_word_new_line8 | hill
+tenant
+great
+rug
+celery
+warm
+science
+copper |  
+| bip_39_word_new_line9 | hill
+tenant
+great
+rug
+celery
+warm
+science
+copper
+dutch |  
+| bip_39_word_space_0 | ['hill', 'tenant', 'great', 'rug', 'celery', 'warm', 'science', 'copper', 'dutch', 'sing', 'spatial', 'alert'] |  
+| bip_39_word_space_1 | hill |  
+| bip_39_word_space_10 | hill tenant great rug celery warm science copper dutch sing |  
+| bip_39_word_space_11 | hill tenant great rug celery warm science copper dutch sing spatial |  
+| bip_39_word_space_12 | hill tenant great rug celery warm science copper dutch sing spatial alert |  
+| bip_39_word_space_2 | hill tenant |  
+| bip_39_word_space_3 | hill tenant great |  
+| bip_39_word_space_4 | hill tenant great rug |  
+| bip_39_word_space_5 | hill tenant great rug celery |  
+| bip_39_word_space_6 | hill tenant great rug celery warm |  
+| bip_39_word_space_7 | hill tenant great rug celery warm science |  
+| bip_39_word_space_8 | hill tenant great rug celery warm science copper |  
+| bip_39_word_space_9 | hill tenant great rug celery warm science copper dutch |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

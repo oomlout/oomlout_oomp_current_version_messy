@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: strong right
+  * bip 39 word 3: strong right ride
+  * bip 39 word: strong right ride tattoo one engage wolf pottery okay arena carpet another
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | strong |  
+| bip_39_word_new_br10 | strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery<br>okay<br>arena |  
+| bip_39_word_new_br11 | strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery<br>okay<br>arena<br>carpet |  
+| bip_39_word_new_br12 | strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery<br>okay<br>arena<br>carpet<br>another |  
+| bip_39_word_new_br2 | strong<br>right |  
+| bip_39_word_new_br3 | strong<br>right<br>ride |  
+| bip_39_word_new_br4 | strong<br>right<br>ride<br>tattoo |  
+| bip_39_word_new_br5 | strong<br>right<br>ride<br>tattoo<br>one |  
+| bip_39_word_new_br6 | strong<br>right<br>ride<br>tattoo<br>one<br>engage |  
+| bip_39_word_new_br7 | strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf |  
+| bip_39_word_new_br8 | strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery |  
+| bip_39_word_new_br9 | strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery<br>okay |  
+| bip_39_word_new_line1 | strong |  
+| bip_39_word_new_line10 | strong
+right
+ride
+tattoo
+one
+engage
+wolf
+pottery
+okay
+arena |  
+| bip_39_word_new_line11 | strong
+right
+ride
+tattoo
+one
+engage
+wolf
+pottery
+okay
+arena
+carpet |  
+| bip_39_word_new_line12 | strong
+right
+ride
+tattoo
+one
+engage
+wolf
+pottery
+okay
+arena
+carpet
+another |  
+| bip_39_word_new_line2 | strong
+right |  
+| bip_39_word_new_line3 | strong
+right
+ride |  
+| bip_39_word_new_line4 | strong
+right
+ride
+tattoo |  
+| bip_39_word_new_line5 | strong
+right
+ride
+tattoo
+one |  
+| bip_39_word_new_line6 | strong
+right
+ride
+tattoo
+one
+engage |  
+| bip_39_word_new_line7 | strong
+right
+ride
+tattoo
+one
+engage
+wolf |  
+| bip_39_word_new_line8 | strong
+right
+ride
+tattoo
+one
+engage
+wolf
+pottery |  
+| bip_39_word_new_line9 | strong
+right
+ride
+tattoo
+one
+engage
+wolf
+pottery
+okay |  
+| bip_39_word_space_0 | ['strong', 'right', 'ride', 'tattoo', 'one', 'engage', 'wolf', 'pottery', 'okay', 'arena', 'carpet', 'another'] |  
+| bip_39_word_space_1 | strong |  
+| bip_39_word_space_10 | strong right ride tattoo one engage wolf pottery okay arena |  
+| bip_39_word_space_11 | strong right ride tattoo one engage wolf pottery okay arena carpet |  
+| bip_39_word_space_12 | strong right ride tattoo one engage wolf pottery okay arena carpet another |  
+| bip_39_word_space_2 | strong right |  
+| bip_39_word_space_3 | strong right ride |  
+| bip_39_word_space_4 | strong right ride tattoo |  
+| bip_39_word_space_5 | strong right ride tattoo one |  
+| bip_39_word_space_6 | strong right ride tattoo one engage |  
+| bip_39_word_space_7 | strong right ride tattoo one engage wolf |  
+| bip_39_word_space_8 | strong right ride tattoo one engage wolf pottery |  
+| bip_39_word_space_9 | strong right ride tattoo one engage wolf pottery okay |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

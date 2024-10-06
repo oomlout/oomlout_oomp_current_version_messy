@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: army rotate
+  * bip 39 word 3: army rotate figure
+  * bip 39 word: army rotate figure river fence wear frame bleak response breeze dice announce
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | army |  
+| bip_39_word_new_br10 | army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response<br>breeze |  
+| bip_39_word_new_br11 | army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response<br>breeze<br>dice |  
+| bip_39_word_new_br12 | army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response<br>breeze<br>dice<br>announce |  
+| bip_39_word_new_br2 | army<br>rotate |  
+| bip_39_word_new_br3 | army<br>rotate<br>figure |  
+| bip_39_word_new_br4 | army<br>rotate<br>figure<br>river |  
+| bip_39_word_new_br5 | army<br>rotate<br>figure<br>river<br>fence |  
+| bip_39_word_new_br6 | army<br>rotate<br>figure<br>river<br>fence<br>wear |  
+| bip_39_word_new_br7 | army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame |  
+| bip_39_word_new_br8 | army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak |  
+| bip_39_word_new_br9 | army<br>rotate<br>figure<br>river<br>fence<br>wear<br>frame<br>bleak<br>response |  
+| bip_39_word_new_line1 | army |  
+| bip_39_word_new_line10 | army
+rotate
+figure
+river
+fence
+wear
+frame
+bleak
+response
+breeze |  
+| bip_39_word_new_line11 | army
+rotate
+figure
+river
+fence
+wear
+frame
+bleak
+response
+breeze
+dice |  
+| bip_39_word_new_line12 | army
+rotate
+figure
+river
+fence
+wear
+frame
+bleak
+response
+breeze
+dice
+announce |  
+| bip_39_word_new_line2 | army
+rotate |  
+| bip_39_word_new_line3 | army
+rotate
+figure |  
+| bip_39_word_new_line4 | army
+rotate
+figure
+river |  
+| bip_39_word_new_line5 | army
+rotate
+figure
+river
+fence |  
+| bip_39_word_new_line6 | army
+rotate
+figure
+river
+fence
+wear |  
+| bip_39_word_new_line7 | army
+rotate
+figure
+river
+fence
+wear
+frame |  
+| bip_39_word_new_line8 | army
+rotate
+figure
+river
+fence
+wear
+frame
+bleak |  
+| bip_39_word_new_line9 | army
+rotate
+figure
+river
+fence
+wear
+frame
+bleak
+response |  
+| bip_39_word_space_0 | ['army', 'rotate', 'figure', 'river', 'fence', 'wear', 'frame', 'bleak', 'response', 'breeze', 'dice', 'announce'] |  
+| bip_39_word_space_1 | army |  
+| bip_39_word_space_10 | army rotate figure river fence wear frame bleak response breeze |  
+| bip_39_word_space_11 | army rotate figure river fence wear frame bleak response breeze dice |  
+| bip_39_word_space_12 | army rotate figure river fence wear frame bleak response breeze dice announce |  
+| bip_39_word_space_2 | army rotate |  
+| bip_39_word_space_3 | army rotate figure |  
+| bip_39_word_space_4 | army rotate figure river |  
+| bip_39_word_space_5 | army rotate figure river fence |  
+| bip_39_word_space_6 | army rotate figure river fence wear |  
+| bip_39_word_space_7 | army rotate figure river fence wear frame |  
+| bip_39_word_space_8 | army rotate figure river fence wear frame bleak |  
+| bip_39_word_space_9 | army rotate figure river fence wear frame bleak response |  
 | classification | stationery |  
 | classification_capital | Stationery |  
 | classification_first_letter | s |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: visit suit
+  * bip 39 word 3: visit suit wrist
+  * bip 39 word: visit suit wrist talent ability tail wedding favorite escape trigger pride around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | visit |  
+| bip_39_word_new_br10 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger |  
+| bip_39_word_new_br11 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger<br>pride |  
+| bip_39_word_new_br12 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape<br>trigger<br>pride<br>around |  
+| bip_39_word_new_br2 | visit<br>suit |  
+| bip_39_word_new_br3 | visit<br>suit<br>wrist |  
+| bip_39_word_new_br4 | visit<br>suit<br>wrist<br>talent |  
+| bip_39_word_new_br5 | visit<br>suit<br>wrist<br>talent<br>ability |  
+| bip_39_word_new_br6 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail |  
+| bip_39_word_new_br7 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding |  
+| bip_39_word_new_br8 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite |  
+| bip_39_word_new_br9 | visit<br>suit<br>wrist<br>talent<br>ability<br>tail<br>wedding<br>favorite<br>escape |  
+| bip_39_word_new_line1 | visit |  
+| bip_39_word_new_line10 | visit
+suit
+wrist
+talent
+ability
+tail
+wedding
+favorite
+escape
+trigger |  
+| bip_39_word_new_line11 | visit
+suit
+wrist
+talent
+ability
+tail
+wedding
+favorite
+escape
+trigger
+pride |  
+| bip_39_word_new_line12 | visit
+suit
+wrist
+talent
+ability
+tail
+wedding
+favorite
+escape
+trigger
+pride
+around |  
+| bip_39_word_new_line2 | visit
+suit |  
+| bip_39_word_new_line3 | visit
+suit
+wrist |  
+| bip_39_word_new_line4 | visit
+suit
+wrist
+talent |  
+| bip_39_word_new_line5 | visit
+suit
+wrist
+talent
+ability |  
+| bip_39_word_new_line6 | visit
+suit
+wrist
+talent
+ability
+tail |  
+| bip_39_word_new_line7 | visit
+suit
+wrist
+talent
+ability
+tail
+wedding |  
+| bip_39_word_new_line8 | visit
+suit
+wrist
+talent
+ability
+tail
+wedding
+favorite |  
+| bip_39_word_new_line9 | visit
+suit
+wrist
+talent
+ability
+tail
+wedding
+favorite
+escape |  
+| bip_39_word_space_0 | ['visit', 'suit', 'wrist', 'talent', 'ability', 'tail', 'wedding', 'favorite', 'escape', 'trigger', 'pride', 'around'] |  
+| bip_39_word_space_1 | visit |  
+| bip_39_word_space_10 | visit suit wrist talent ability tail wedding favorite escape trigger |  
+| bip_39_word_space_11 | visit suit wrist talent ability tail wedding favorite escape trigger pride |  
+| bip_39_word_space_12 | visit suit wrist talent ability tail wedding favorite escape trigger pride around |  
+| bip_39_word_space_2 | visit suit |  
+| bip_39_word_space_3 | visit suit wrist |  
+| bip_39_word_space_4 | visit suit wrist talent |  
+| bip_39_word_space_5 | visit suit wrist talent ability |  
+| bip_39_word_space_6 | visit suit wrist talent ability tail |  
+| bip_39_word_space_7 | visit suit wrist talent ability tail wedding |  
+| bip_39_word_space_8 | visit suit wrist talent ability tail wedding favorite |  
+| bip_39_word_space_9 | visit suit wrist talent ability tail wedding favorite escape |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

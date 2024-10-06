@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: language village
+  * bip 39 word 3: language village budget
+  * bip 39 word: language village budget thought sibling ripple defense salute like design borrow atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | language |  
+| bip_39_word_new_br10 | language<br>village<br>budget<br>thought<br>sibling<br>ripple<br>defense<br>salute<br>like<br>design |  
+| bip_39_word_new_br11 | language<br>village<br>budget<br>thought<br>sibling<br>ripple<br>defense<br>salute<br>like<br>design<br>borrow |  
+| bip_39_word_new_br12 | language<br>village<br>budget<br>thought<br>sibling<br>ripple<br>defense<br>salute<br>like<br>design<br>borrow<br>atom |  
+| bip_39_word_new_br2 | language<br>village |  
+| bip_39_word_new_br3 | language<br>village<br>budget |  
+| bip_39_word_new_br4 | language<br>village<br>budget<br>thought |  
+| bip_39_word_new_br5 | language<br>village<br>budget<br>thought<br>sibling |  
+| bip_39_word_new_br6 | language<br>village<br>budget<br>thought<br>sibling<br>ripple |  
+| bip_39_word_new_br7 | language<br>village<br>budget<br>thought<br>sibling<br>ripple<br>defense |  
+| bip_39_word_new_br8 | language<br>village<br>budget<br>thought<br>sibling<br>ripple<br>defense<br>salute |  
+| bip_39_word_new_br9 | language<br>village<br>budget<br>thought<br>sibling<br>ripple<br>defense<br>salute<br>like |  
+| bip_39_word_new_line1 | language |  
+| bip_39_word_new_line10 | language
+village
+budget
+thought
+sibling
+ripple
+defense
+salute
+like
+design |  
+| bip_39_word_new_line11 | language
+village
+budget
+thought
+sibling
+ripple
+defense
+salute
+like
+design
+borrow |  
+| bip_39_word_new_line12 | language
+village
+budget
+thought
+sibling
+ripple
+defense
+salute
+like
+design
+borrow
+atom |  
+| bip_39_word_new_line2 | language
+village |  
+| bip_39_word_new_line3 | language
+village
+budget |  
+| bip_39_word_new_line4 | language
+village
+budget
+thought |  
+| bip_39_word_new_line5 | language
+village
+budget
+thought
+sibling |  
+| bip_39_word_new_line6 | language
+village
+budget
+thought
+sibling
+ripple |  
+| bip_39_word_new_line7 | language
+village
+budget
+thought
+sibling
+ripple
+defense |  
+| bip_39_word_new_line8 | language
+village
+budget
+thought
+sibling
+ripple
+defense
+salute |  
+| bip_39_word_new_line9 | language
+village
+budget
+thought
+sibling
+ripple
+defense
+salute
+like |  
+| bip_39_word_space_0 | ['language', 'village', 'budget', 'thought', 'sibling', 'ripple', 'defense', 'salute', 'like', 'design', 'borrow', 'atom'] |  
+| bip_39_word_space_1 | language |  
+| bip_39_word_space_10 | language village budget thought sibling ripple defense salute like design |  
+| bip_39_word_space_11 | language village budget thought sibling ripple defense salute like design borrow |  
+| bip_39_word_space_12 | language village budget thought sibling ripple defense salute like design borrow atom |  
+| bip_39_word_space_2 | language village |  
+| bip_39_word_space_3 | language village budget |  
+| bip_39_word_space_4 | language village budget thought |  
+| bip_39_word_space_5 | language village budget thought sibling |  
+| bip_39_word_space_6 | language village budget thought sibling ripple |  
+| bip_39_word_space_7 | language village budget thought sibling ripple defense |  
+| bip_39_word_space_8 | language village budget thought sibling ripple defense salute |  
+| bip_39_word_space_9 | language village budget thought sibling ripple defense salute like |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

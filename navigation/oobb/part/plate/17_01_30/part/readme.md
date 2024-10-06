@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mechanic pause
+  * bip 39 word 3: mechanic pause volcano
+  * bip 39 word: mechanic pause volcano girl female gift junk sugar obvious sponsor drop autumn
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mechanic |  
+| bip_39_word_new_br10 | mechanic<br>pause<br>volcano<br>girl<br>female<br>gift<br>junk<br>sugar<br>obvious<br>sponsor |  
+| bip_39_word_new_br11 | mechanic<br>pause<br>volcano<br>girl<br>female<br>gift<br>junk<br>sugar<br>obvious<br>sponsor<br>drop |  
+| bip_39_word_new_br12 | mechanic<br>pause<br>volcano<br>girl<br>female<br>gift<br>junk<br>sugar<br>obvious<br>sponsor<br>drop<br>autumn |  
+| bip_39_word_new_br2 | mechanic<br>pause |  
+| bip_39_word_new_br3 | mechanic<br>pause<br>volcano |  
+| bip_39_word_new_br4 | mechanic<br>pause<br>volcano<br>girl |  
+| bip_39_word_new_br5 | mechanic<br>pause<br>volcano<br>girl<br>female |  
+| bip_39_word_new_br6 | mechanic<br>pause<br>volcano<br>girl<br>female<br>gift |  
+| bip_39_word_new_br7 | mechanic<br>pause<br>volcano<br>girl<br>female<br>gift<br>junk |  
+| bip_39_word_new_br8 | mechanic<br>pause<br>volcano<br>girl<br>female<br>gift<br>junk<br>sugar |  
+| bip_39_word_new_br9 | mechanic<br>pause<br>volcano<br>girl<br>female<br>gift<br>junk<br>sugar<br>obvious |  
+| bip_39_word_new_line1 | mechanic |  
+| bip_39_word_new_line10 | mechanic
+pause
+volcano
+girl
+female
+gift
+junk
+sugar
+obvious
+sponsor |  
+| bip_39_word_new_line11 | mechanic
+pause
+volcano
+girl
+female
+gift
+junk
+sugar
+obvious
+sponsor
+drop |  
+| bip_39_word_new_line12 | mechanic
+pause
+volcano
+girl
+female
+gift
+junk
+sugar
+obvious
+sponsor
+drop
+autumn |  
+| bip_39_word_new_line2 | mechanic
+pause |  
+| bip_39_word_new_line3 | mechanic
+pause
+volcano |  
+| bip_39_word_new_line4 | mechanic
+pause
+volcano
+girl |  
+| bip_39_word_new_line5 | mechanic
+pause
+volcano
+girl
+female |  
+| bip_39_word_new_line6 | mechanic
+pause
+volcano
+girl
+female
+gift |  
+| bip_39_word_new_line7 | mechanic
+pause
+volcano
+girl
+female
+gift
+junk |  
+| bip_39_word_new_line8 | mechanic
+pause
+volcano
+girl
+female
+gift
+junk
+sugar |  
+| bip_39_word_new_line9 | mechanic
+pause
+volcano
+girl
+female
+gift
+junk
+sugar
+obvious |  
+| bip_39_word_space_0 | ['mechanic', 'pause', 'volcano', 'girl', 'female', 'gift', 'junk', 'sugar', 'obvious', 'sponsor', 'drop', 'autumn'] |  
+| bip_39_word_space_1 | mechanic |  
+| bip_39_word_space_10 | mechanic pause volcano girl female gift junk sugar obvious sponsor |  
+| bip_39_word_space_11 | mechanic pause volcano girl female gift junk sugar obvious sponsor drop |  
+| bip_39_word_space_12 | mechanic pause volcano girl female gift junk sugar obvious sponsor drop autumn |  
+| bip_39_word_space_2 | mechanic pause |  
+| bip_39_word_space_3 | mechanic pause volcano |  
+| bip_39_word_space_4 | mechanic pause volcano girl |  
+| bip_39_word_space_5 | mechanic pause volcano girl female |  
+| bip_39_word_space_6 | mechanic pause volcano girl female gift |  
+| bip_39_word_space_7 | mechanic pause volcano girl female gift junk |  
+| bip_39_word_space_8 | mechanic pause volcano girl female gift junk sugar |  
+| bip_39_word_space_9 | mechanic pause volcano girl female gift junk sugar obvious |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: knock panther
+  * bip 39 word 3: knock panther apart
+  * bip 39 word: knock panther apart guard acquire expose antique monster cloud will educate absorb
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | knock |  
+| bip_39_word_new_br10 | knock<br>panther<br>apart<br>guard<br>acquire<br>expose<br>antique<br>monster<br>cloud<br>will |  
+| bip_39_word_new_br11 | knock<br>panther<br>apart<br>guard<br>acquire<br>expose<br>antique<br>monster<br>cloud<br>will<br>educate |  
+| bip_39_word_new_br12 | knock<br>panther<br>apart<br>guard<br>acquire<br>expose<br>antique<br>monster<br>cloud<br>will<br>educate<br>absorb |  
+| bip_39_word_new_br2 | knock<br>panther |  
+| bip_39_word_new_br3 | knock<br>panther<br>apart |  
+| bip_39_word_new_br4 | knock<br>panther<br>apart<br>guard |  
+| bip_39_word_new_br5 | knock<br>panther<br>apart<br>guard<br>acquire |  
+| bip_39_word_new_br6 | knock<br>panther<br>apart<br>guard<br>acquire<br>expose |  
+| bip_39_word_new_br7 | knock<br>panther<br>apart<br>guard<br>acquire<br>expose<br>antique |  
+| bip_39_word_new_br8 | knock<br>panther<br>apart<br>guard<br>acquire<br>expose<br>antique<br>monster |  
+| bip_39_word_new_br9 | knock<br>panther<br>apart<br>guard<br>acquire<br>expose<br>antique<br>monster<br>cloud |  
+| bip_39_word_new_line1 | knock |  
+| bip_39_word_new_line10 | knock
+panther
+apart
+guard
+acquire
+expose
+antique
+monster
+cloud
+will |  
+| bip_39_word_new_line11 | knock
+panther
+apart
+guard
+acquire
+expose
+antique
+monster
+cloud
+will
+educate |  
+| bip_39_word_new_line12 | knock
+panther
+apart
+guard
+acquire
+expose
+antique
+monster
+cloud
+will
+educate
+absorb |  
+| bip_39_word_new_line2 | knock
+panther |  
+| bip_39_word_new_line3 | knock
+panther
+apart |  
+| bip_39_word_new_line4 | knock
+panther
+apart
+guard |  
+| bip_39_word_new_line5 | knock
+panther
+apart
+guard
+acquire |  
+| bip_39_word_new_line6 | knock
+panther
+apart
+guard
+acquire
+expose |  
+| bip_39_word_new_line7 | knock
+panther
+apart
+guard
+acquire
+expose
+antique |  
+| bip_39_word_new_line8 | knock
+panther
+apart
+guard
+acquire
+expose
+antique
+monster |  
+| bip_39_word_new_line9 | knock
+panther
+apart
+guard
+acquire
+expose
+antique
+monster
+cloud |  
+| bip_39_word_space_0 | ['knock', 'panther', 'apart', 'guard', 'acquire', 'expose', 'antique', 'monster', 'cloud', 'will', 'educate', 'absorb'] |  
+| bip_39_word_space_1 | knock |  
+| bip_39_word_space_10 | knock panther apart guard acquire expose antique monster cloud will |  
+| bip_39_word_space_11 | knock panther apart guard acquire expose antique monster cloud will educate |  
+| bip_39_word_space_12 | knock panther apart guard acquire expose antique monster cloud will educate absorb |  
+| bip_39_word_space_2 | knock panther |  
+| bip_39_word_space_3 | knock panther apart |  
+| bip_39_word_space_4 | knock panther apart guard |  
+| bip_39_word_space_5 | knock panther apart guard acquire |  
+| bip_39_word_space_6 | knock panther apart guard acquire expose |  
+| bip_39_word_space_7 | knock panther apart guard acquire expose antique |  
+| bip_39_word_space_8 | knock panther apart guard acquire expose antique monster |  
+| bip_39_word_space_9 | knock panther apart guard acquire expose antique monster cloud |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

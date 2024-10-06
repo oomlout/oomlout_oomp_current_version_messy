@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: shop purchase
+  * bip 39 word 3: shop purchase twice
+  * bip 39 word: shop purchase twice rely crime exclude vocal never prepare barely heart anxiety
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | shop |  
+| bip_39_word_new_br10 | shop<br>purchase<br>twice<br>rely<br>crime<br>exclude<br>vocal<br>never<br>prepare<br>barely |  
+| bip_39_word_new_br11 | shop<br>purchase<br>twice<br>rely<br>crime<br>exclude<br>vocal<br>never<br>prepare<br>barely<br>heart |  
+| bip_39_word_new_br12 | shop<br>purchase<br>twice<br>rely<br>crime<br>exclude<br>vocal<br>never<br>prepare<br>barely<br>heart<br>anxiety |  
+| bip_39_word_new_br2 | shop<br>purchase |  
+| bip_39_word_new_br3 | shop<br>purchase<br>twice |  
+| bip_39_word_new_br4 | shop<br>purchase<br>twice<br>rely |  
+| bip_39_word_new_br5 | shop<br>purchase<br>twice<br>rely<br>crime |  
+| bip_39_word_new_br6 | shop<br>purchase<br>twice<br>rely<br>crime<br>exclude |  
+| bip_39_word_new_br7 | shop<br>purchase<br>twice<br>rely<br>crime<br>exclude<br>vocal |  
+| bip_39_word_new_br8 | shop<br>purchase<br>twice<br>rely<br>crime<br>exclude<br>vocal<br>never |  
+| bip_39_word_new_br9 | shop<br>purchase<br>twice<br>rely<br>crime<br>exclude<br>vocal<br>never<br>prepare |  
+| bip_39_word_new_line1 | shop |  
+| bip_39_word_new_line10 | shop
+purchase
+twice
+rely
+crime
+exclude
+vocal
+never
+prepare
+barely |  
+| bip_39_word_new_line11 | shop
+purchase
+twice
+rely
+crime
+exclude
+vocal
+never
+prepare
+barely
+heart |  
+| bip_39_word_new_line12 | shop
+purchase
+twice
+rely
+crime
+exclude
+vocal
+never
+prepare
+barely
+heart
+anxiety |  
+| bip_39_word_new_line2 | shop
+purchase |  
+| bip_39_word_new_line3 | shop
+purchase
+twice |  
+| bip_39_word_new_line4 | shop
+purchase
+twice
+rely |  
+| bip_39_word_new_line5 | shop
+purchase
+twice
+rely
+crime |  
+| bip_39_word_new_line6 | shop
+purchase
+twice
+rely
+crime
+exclude |  
+| bip_39_word_new_line7 | shop
+purchase
+twice
+rely
+crime
+exclude
+vocal |  
+| bip_39_word_new_line8 | shop
+purchase
+twice
+rely
+crime
+exclude
+vocal
+never |  
+| bip_39_word_new_line9 | shop
+purchase
+twice
+rely
+crime
+exclude
+vocal
+never
+prepare |  
+| bip_39_word_space_0 | ['shop', 'purchase', 'twice', 'rely', 'crime', 'exclude', 'vocal', 'never', 'prepare', 'barely', 'heart', 'anxiety'] |  
+| bip_39_word_space_1 | shop |  
+| bip_39_word_space_10 | shop purchase twice rely crime exclude vocal never prepare barely |  
+| bip_39_word_space_11 | shop purchase twice rely crime exclude vocal never prepare barely heart |  
+| bip_39_word_space_12 | shop purchase twice rely crime exclude vocal never prepare barely heart anxiety |  
+| bip_39_word_space_2 | shop purchase |  
+| bip_39_word_space_3 | shop purchase twice |  
+| bip_39_word_space_4 | shop purchase twice rely |  
+| bip_39_word_space_5 | shop purchase twice rely crime |  
+| bip_39_word_space_6 | shop purchase twice rely crime exclude |  
+| bip_39_word_space_7 | shop purchase twice rely crime exclude vocal |  
+| bip_39_word_space_8 | shop purchase twice rely crime exclude vocal never |  
+| bip_39_word_space_9 | shop purchase twice rely crime exclude vocal never prepare |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

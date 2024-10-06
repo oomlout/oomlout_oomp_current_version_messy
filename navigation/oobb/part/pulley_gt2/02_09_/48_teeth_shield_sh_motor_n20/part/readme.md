@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 48_teeth_shield_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hurt vicious
+  * bip 39 word 3: hurt vicious eager
+  * bip 39 word: hurt vicious eager accident rather dwarf ozone claim supreme only submit asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hurt |  
+| bip_39_word_new_br10 | hurt<br>vicious<br>eager<br>accident<br>rather<br>dwarf<br>ozone<br>claim<br>supreme<br>only |  
+| bip_39_word_new_br11 | hurt<br>vicious<br>eager<br>accident<br>rather<br>dwarf<br>ozone<br>claim<br>supreme<br>only<br>submit |  
+| bip_39_word_new_br12 | hurt<br>vicious<br>eager<br>accident<br>rather<br>dwarf<br>ozone<br>claim<br>supreme<br>only<br>submit<br>asset |  
+| bip_39_word_new_br2 | hurt<br>vicious |  
+| bip_39_word_new_br3 | hurt<br>vicious<br>eager |  
+| bip_39_word_new_br4 | hurt<br>vicious<br>eager<br>accident |  
+| bip_39_word_new_br5 | hurt<br>vicious<br>eager<br>accident<br>rather |  
+| bip_39_word_new_br6 | hurt<br>vicious<br>eager<br>accident<br>rather<br>dwarf |  
+| bip_39_word_new_br7 | hurt<br>vicious<br>eager<br>accident<br>rather<br>dwarf<br>ozone |  
+| bip_39_word_new_br8 | hurt<br>vicious<br>eager<br>accident<br>rather<br>dwarf<br>ozone<br>claim |  
+| bip_39_word_new_br9 | hurt<br>vicious<br>eager<br>accident<br>rather<br>dwarf<br>ozone<br>claim<br>supreme |  
+| bip_39_word_new_line1 | hurt |  
+| bip_39_word_new_line10 | hurt
+vicious
+eager
+accident
+rather
+dwarf
+ozone
+claim
+supreme
+only |  
+| bip_39_word_new_line11 | hurt
+vicious
+eager
+accident
+rather
+dwarf
+ozone
+claim
+supreme
+only
+submit |  
+| bip_39_word_new_line12 | hurt
+vicious
+eager
+accident
+rather
+dwarf
+ozone
+claim
+supreme
+only
+submit
+asset |  
+| bip_39_word_new_line2 | hurt
+vicious |  
+| bip_39_word_new_line3 | hurt
+vicious
+eager |  
+| bip_39_word_new_line4 | hurt
+vicious
+eager
+accident |  
+| bip_39_word_new_line5 | hurt
+vicious
+eager
+accident
+rather |  
+| bip_39_word_new_line6 | hurt
+vicious
+eager
+accident
+rather
+dwarf |  
+| bip_39_word_new_line7 | hurt
+vicious
+eager
+accident
+rather
+dwarf
+ozone |  
+| bip_39_word_new_line8 | hurt
+vicious
+eager
+accident
+rather
+dwarf
+ozone
+claim |  
+| bip_39_word_new_line9 | hurt
+vicious
+eager
+accident
+rather
+dwarf
+ozone
+claim
+supreme |  
+| bip_39_word_space_0 | ['hurt', 'vicious', 'eager', 'accident', 'rather', 'dwarf', 'ozone', 'claim', 'supreme', 'only', 'submit', 'asset'] |  
+| bip_39_word_space_1 | hurt |  
+| bip_39_word_space_10 | hurt vicious eager accident rather dwarf ozone claim supreme only |  
+| bip_39_word_space_11 | hurt vicious eager accident rather dwarf ozone claim supreme only submit |  
+| bip_39_word_space_12 | hurt vicious eager accident rather dwarf ozone claim supreme only submit asset |  
+| bip_39_word_space_2 | hurt vicious |  
+| bip_39_word_space_3 | hurt vicious eager |  
+| bip_39_word_space_4 | hurt vicious eager accident |  
+| bip_39_word_space_5 | hurt vicious eager accident rather |  
+| bip_39_word_space_6 | hurt vicious eager accident rather dwarf |  
+| bip_39_word_space_7 | hurt vicious eager accident rather dwarf ozone |  
+| bip_39_word_space_8 | hurt vicious eager accident rather dwarf ozone claim |  
+| bip_39_word_space_9 | hurt vicious eager accident rather dwarf ozone claim supreme |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

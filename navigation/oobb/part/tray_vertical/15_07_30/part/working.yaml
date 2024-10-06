@@ -1,3 +1,186 @@
+bip_39_word_new_br1: actress
+bip_39_word_new_br10: actress<br>father<br>seminar<br>bacon<br>involve<br>tape<br>twin<br>skin<br>grief<br>lamp
+bip_39_word_new_br11: actress<br>father<br>seminar<br>bacon<br>involve<br>tape<br>twin<br>skin<br>grief<br>lamp<br>valid
+bip_39_word_new_br12: actress<br>father<br>seminar<br>bacon<br>involve<br>tape<br>twin<br>skin<br>grief<br>lamp<br>valid<br>alcohol
+bip_39_word_new_br2: actress<br>father
+bip_39_word_new_br3: actress<br>father<br>seminar
+bip_39_word_new_br4: actress<br>father<br>seminar<br>bacon
+bip_39_word_new_br5: actress<br>father<br>seminar<br>bacon<br>involve
+bip_39_word_new_br6: actress<br>father<br>seminar<br>bacon<br>involve<br>tape
+bip_39_word_new_br7: actress<br>father<br>seminar<br>bacon<br>involve<br>tape<br>twin
+bip_39_word_new_br8: actress<br>father<br>seminar<br>bacon<br>involve<br>tape<br>twin<br>skin
+bip_39_word_new_br9: actress<br>father<br>seminar<br>bacon<br>involve<br>tape<br>twin<br>skin<br>grief
+bip_39_word_new_line1: actress
+bip_39_word_new_line10: 'actress
+
+  father
+
+  seminar
+
+  bacon
+
+  involve
+
+  tape
+
+  twin
+
+  skin
+
+  grief
+
+  lamp'
+bip_39_word_new_line11: 'actress
+
+  father
+
+  seminar
+
+  bacon
+
+  involve
+
+  tape
+
+  twin
+
+  skin
+
+  grief
+
+  lamp
+
+  valid'
+bip_39_word_new_line12: 'actress
+
+  father
+
+  seminar
+
+  bacon
+
+  involve
+
+  tape
+
+  twin
+
+  skin
+
+  grief
+
+  lamp
+
+  valid
+
+  alcohol'
+bip_39_word_new_line2: 'actress
+
+  father'
+bip_39_word_new_line3: 'actress
+
+  father
+
+  seminar'
+bip_39_word_new_line4: 'actress
+
+  father
+
+  seminar
+
+  bacon'
+bip_39_word_new_line5: 'actress
+
+  father
+
+  seminar
+
+  bacon
+
+  involve'
+bip_39_word_new_line6: 'actress
+
+  father
+
+  seminar
+
+  bacon
+
+  involve
+
+  tape'
+bip_39_word_new_line7: 'actress
+
+  father
+
+  seminar
+
+  bacon
+
+  involve
+
+  tape
+
+  twin'
+bip_39_word_new_line8: 'actress
+
+  father
+
+  seminar
+
+  bacon
+
+  involve
+
+  tape
+
+  twin
+
+  skin'
+bip_39_word_new_line9: 'actress
+
+  father
+
+  seminar
+
+  bacon
+
+  involve
+
+  tape
+
+  twin
+
+  skin
+
+  grief'
+bip_39_word_space_0:
+- actress
+- father
+- seminar
+- bacon
+- involve
+- tape
+- twin
+- skin
+- grief
+- lamp
+- valid
+- alcohol
+bip_39_word_space_1: actress
+bip_39_word_space_10: actress father seminar bacon involve tape twin skin grief lamp
+bip_39_word_space_11: actress father seminar bacon involve tape twin skin grief lamp
+  valid
+bip_39_word_space_12: actress father seminar bacon involve tape twin skin grief lamp
+  valid alcohol
+bip_39_word_space_2: actress father
+bip_39_word_space_3: actress father seminar
+bip_39_word_space_4: actress father seminar bacon
+bip_39_word_space_5: actress father seminar bacon involve
+bip_39_word_space_6: actress father seminar bacon involve tape
+bip_39_word_space_7: actress father seminar bacon involve tape twin
+bip_39_word_space_8: actress father seminar bacon involve tape twin skin
+bip_39_word_space_9: actress father seminar bacon involve tape twin skin grief
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: envelope announce
+  * bip 39 word 3: envelope announce net
+  * bip 39 word: envelope announce net prefer ocean version swamp dry inner quarter cage actor
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | envelope |  
+| bip_39_word_new_br10 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version<br>swamp<br>dry<br>inner<br>quarter |  
+| bip_39_word_new_br11 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version<br>swamp<br>dry<br>inner<br>quarter<br>cage |  
+| bip_39_word_new_br12 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version<br>swamp<br>dry<br>inner<br>quarter<br>cage<br>actor |  
+| bip_39_word_new_br2 | envelope<br>announce |  
+| bip_39_word_new_br3 | envelope<br>announce<br>net |  
+| bip_39_word_new_br4 | envelope<br>announce<br>net<br>prefer |  
+| bip_39_word_new_br5 | envelope<br>announce<br>net<br>prefer<br>ocean |  
+| bip_39_word_new_br6 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version |  
+| bip_39_word_new_br7 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version<br>swamp |  
+| bip_39_word_new_br8 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version<br>swamp<br>dry |  
+| bip_39_word_new_br9 | envelope<br>announce<br>net<br>prefer<br>ocean<br>version<br>swamp<br>dry<br>inner |  
+| bip_39_word_new_line1 | envelope |  
+| bip_39_word_new_line10 | envelope
+announce
+net
+prefer
+ocean
+version
+swamp
+dry
+inner
+quarter |  
+| bip_39_word_new_line11 | envelope
+announce
+net
+prefer
+ocean
+version
+swamp
+dry
+inner
+quarter
+cage |  
+| bip_39_word_new_line12 | envelope
+announce
+net
+prefer
+ocean
+version
+swamp
+dry
+inner
+quarter
+cage
+actor |  
+| bip_39_word_new_line2 | envelope
+announce |  
+| bip_39_word_new_line3 | envelope
+announce
+net |  
+| bip_39_word_new_line4 | envelope
+announce
+net
+prefer |  
+| bip_39_word_new_line5 | envelope
+announce
+net
+prefer
+ocean |  
+| bip_39_word_new_line6 | envelope
+announce
+net
+prefer
+ocean
+version |  
+| bip_39_word_new_line7 | envelope
+announce
+net
+prefer
+ocean
+version
+swamp |  
+| bip_39_word_new_line8 | envelope
+announce
+net
+prefer
+ocean
+version
+swamp
+dry |  
+| bip_39_word_new_line9 | envelope
+announce
+net
+prefer
+ocean
+version
+swamp
+dry
+inner |  
+| bip_39_word_space_0 | ['envelope', 'announce', 'net', 'prefer', 'ocean', 'version', 'swamp', 'dry', 'inner', 'quarter', 'cage', 'actor'] |  
+| bip_39_word_space_1 | envelope |  
+| bip_39_word_space_10 | envelope announce net prefer ocean version swamp dry inner quarter |  
+| bip_39_word_space_11 | envelope announce net prefer ocean version swamp dry inner quarter cage |  
+| bip_39_word_space_12 | envelope announce net prefer ocean version swamp dry inner quarter cage actor |  
+| bip_39_word_space_2 | envelope announce |  
+| bip_39_word_space_3 | envelope announce net |  
+| bip_39_word_space_4 | envelope announce net prefer |  
+| bip_39_word_space_5 | envelope announce net prefer ocean |  
+| bip_39_word_space_6 | envelope announce net prefer ocean version |  
+| bip_39_word_space_7 | envelope announce net prefer ocean version swamp |  
+| bip_39_word_space_8 | envelope announce net prefer ocean version swamp dry |  
+| bip_39_word_space_9 | envelope announce net prefer ocean version swamp dry inner |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

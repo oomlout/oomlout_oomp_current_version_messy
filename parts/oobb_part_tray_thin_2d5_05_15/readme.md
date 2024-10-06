@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: win adapt
+  * bip 39 word 3: win adapt habit
+  * bip 39 word: win adapt habit cause involve federal mandate high bamboo daring rough air
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | win |  
+| bip_39_word_new_br10 | win<br>adapt<br>habit<br>cause<br>involve<br>federal<br>mandate<br>high<br>bamboo<br>daring |  
+| bip_39_word_new_br11 | win<br>adapt<br>habit<br>cause<br>involve<br>federal<br>mandate<br>high<br>bamboo<br>daring<br>rough |  
+| bip_39_word_new_br12 | win<br>adapt<br>habit<br>cause<br>involve<br>federal<br>mandate<br>high<br>bamboo<br>daring<br>rough<br>air |  
+| bip_39_word_new_br2 | win<br>adapt |  
+| bip_39_word_new_br3 | win<br>adapt<br>habit |  
+| bip_39_word_new_br4 | win<br>adapt<br>habit<br>cause |  
+| bip_39_word_new_br5 | win<br>adapt<br>habit<br>cause<br>involve |  
+| bip_39_word_new_br6 | win<br>adapt<br>habit<br>cause<br>involve<br>federal |  
+| bip_39_word_new_br7 | win<br>adapt<br>habit<br>cause<br>involve<br>federal<br>mandate |  
+| bip_39_word_new_br8 | win<br>adapt<br>habit<br>cause<br>involve<br>federal<br>mandate<br>high |  
+| bip_39_word_new_br9 | win<br>adapt<br>habit<br>cause<br>involve<br>federal<br>mandate<br>high<br>bamboo |  
+| bip_39_word_new_line1 | win |  
+| bip_39_word_new_line10 | win
+adapt
+habit
+cause
+involve
+federal
+mandate
+high
+bamboo
+daring |  
+| bip_39_word_new_line11 | win
+adapt
+habit
+cause
+involve
+federal
+mandate
+high
+bamboo
+daring
+rough |  
+| bip_39_word_new_line12 | win
+adapt
+habit
+cause
+involve
+federal
+mandate
+high
+bamboo
+daring
+rough
+air |  
+| bip_39_word_new_line2 | win
+adapt |  
+| bip_39_word_new_line3 | win
+adapt
+habit |  
+| bip_39_word_new_line4 | win
+adapt
+habit
+cause |  
+| bip_39_word_new_line5 | win
+adapt
+habit
+cause
+involve |  
+| bip_39_word_new_line6 | win
+adapt
+habit
+cause
+involve
+federal |  
+| bip_39_word_new_line7 | win
+adapt
+habit
+cause
+involve
+federal
+mandate |  
+| bip_39_word_new_line8 | win
+adapt
+habit
+cause
+involve
+federal
+mandate
+high |  
+| bip_39_word_new_line9 | win
+adapt
+habit
+cause
+involve
+federal
+mandate
+high
+bamboo |  
+| bip_39_word_space_0 | ['win', 'adapt', 'habit', 'cause', 'involve', 'federal', 'mandate', 'high', 'bamboo', 'daring', 'rough', 'air'] |  
+| bip_39_word_space_1 | win |  
+| bip_39_word_space_10 | win adapt habit cause involve federal mandate high bamboo daring |  
+| bip_39_word_space_11 | win adapt habit cause involve federal mandate high bamboo daring rough |  
+| bip_39_word_space_12 | win adapt habit cause involve federal mandate high bamboo daring rough air |  
+| bip_39_word_space_2 | win adapt |  
+| bip_39_word_space_3 | win adapt habit |  
+| bip_39_word_space_4 | win adapt habit cause |  
+| bip_39_word_space_5 | win adapt habit cause involve |  
+| bip_39_word_space_6 | win adapt habit cause involve federal |  
+| bip_39_word_space_7 | win adapt habit cause involve federal mandate |  
+| bip_39_word_space_8 | win adapt habit cause involve federal mandate high |  
+| bip_39_word_space_9 | win adapt habit cause involve federal mandate high bamboo |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

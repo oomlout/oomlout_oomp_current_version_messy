@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: example cigar
+  * bip 39 word 3: example cigar enough
+  * bip 39 word: example cigar enough swap define host bird eager before royal anger advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | example |  
+| bip_39_word_new_br10 | example<br>cigar<br>enough<br>swap<br>define<br>host<br>bird<br>eager<br>before<br>royal |  
+| bip_39_word_new_br11 | example<br>cigar<br>enough<br>swap<br>define<br>host<br>bird<br>eager<br>before<br>royal<br>anger |  
+| bip_39_word_new_br12 | example<br>cigar<br>enough<br>swap<br>define<br>host<br>bird<br>eager<br>before<br>royal<br>anger<br>advice |  
+| bip_39_word_new_br2 | example<br>cigar |  
+| bip_39_word_new_br3 | example<br>cigar<br>enough |  
+| bip_39_word_new_br4 | example<br>cigar<br>enough<br>swap |  
+| bip_39_word_new_br5 | example<br>cigar<br>enough<br>swap<br>define |  
+| bip_39_word_new_br6 | example<br>cigar<br>enough<br>swap<br>define<br>host |  
+| bip_39_word_new_br7 | example<br>cigar<br>enough<br>swap<br>define<br>host<br>bird |  
+| bip_39_word_new_br8 | example<br>cigar<br>enough<br>swap<br>define<br>host<br>bird<br>eager |  
+| bip_39_word_new_br9 | example<br>cigar<br>enough<br>swap<br>define<br>host<br>bird<br>eager<br>before |  
+| bip_39_word_new_line1 | example |  
+| bip_39_word_new_line10 | example
+cigar
+enough
+swap
+define
+host
+bird
+eager
+before
+royal |  
+| bip_39_word_new_line11 | example
+cigar
+enough
+swap
+define
+host
+bird
+eager
+before
+royal
+anger |  
+| bip_39_word_new_line12 | example
+cigar
+enough
+swap
+define
+host
+bird
+eager
+before
+royal
+anger
+advice |  
+| bip_39_word_new_line2 | example
+cigar |  
+| bip_39_word_new_line3 | example
+cigar
+enough |  
+| bip_39_word_new_line4 | example
+cigar
+enough
+swap |  
+| bip_39_word_new_line5 | example
+cigar
+enough
+swap
+define |  
+| bip_39_word_new_line6 | example
+cigar
+enough
+swap
+define
+host |  
+| bip_39_word_new_line7 | example
+cigar
+enough
+swap
+define
+host
+bird |  
+| bip_39_word_new_line8 | example
+cigar
+enough
+swap
+define
+host
+bird
+eager |  
+| bip_39_word_new_line9 | example
+cigar
+enough
+swap
+define
+host
+bird
+eager
+before |  
+| bip_39_word_space_0 | ['example', 'cigar', 'enough', 'swap', 'define', 'host', 'bird', 'eager', 'before', 'royal', 'anger', 'advice'] |  
+| bip_39_word_space_1 | example |  
+| bip_39_word_space_10 | example cigar enough swap define host bird eager before royal |  
+| bip_39_word_space_11 | example cigar enough swap define host bird eager before royal anger |  
+| bip_39_word_space_12 | example cigar enough swap define host bird eager before royal anger advice |  
+| bip_39_word_space_2 | example cigar |  
+| bip_39_word_space_3 | example cigar enough |  
+| bip_39_word_space_4 | example cigar enough swap |  
+| bip_39_word_space_5 | example cigar enough swap define |  
+| bip_39_word_space_6 | example cigar enough swap define host |  
+| bip_39_word_space_7 | example cigar enough swap define host bird |  
+| bip_39_word_space_8 | example cigar enough swap define host bird eager |  
+| bip_39_word_space_9 | example cigar enough swap define host bird eager before |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

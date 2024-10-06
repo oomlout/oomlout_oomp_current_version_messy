@@ -1,3 +1,187 @@
+bip_39_word_new_br1: lunch
+bip_39_word_new_br10: lunch<br>cake<br>cattle<br>plate<br>depart<br>globe<br>sponsor<br>stairs<br>regular<br>input
+bip_39_word_new_br11: lunch<br>cake<br>cattle<br>plate<br>depart<br>globe<br>sponsor<br>stairs<br>regular<br>input<br>solve
+bip_39_word_new_br12: lunch<br>cake<br>cattle<br>plate<br>depart<br>globe<br>sponsor<br>stairs<br>regular<br>input<br>solve<br>alpha
+bip_39_word_new_br2: lunch<br>cake
+bip_39_word_new_br3: lunch<br>cake<br>cattle
+bip_39_word_new_br4: lunch<br>cake<br>cattle<br>plate
+bip_39_word_new_br5: lunch<br>cake<br>cattle<br>plate<br>depart
+bip_39_word_new_br6: lunch<br>cake<br>cattle<br>plate<br>depart<br>globe
+bip_39_word_new_br7: lunch<br>cake<br>cattle<br>plate<br>depart<br>globe<br>sponsor
+bip_39_word_new_br8: lunch<br>cake<br>cattle<br>plate<br>depart<br>globe<br>sponsor<br>stairs
+bip_39_word_new_br9: lunch<br>cake<br>cattle<br>plate<br>depart<br>globe<br>sponsor<br>stairs<br>regular
+bip_39_word_new_line1: lunch
+bip_39_word_new_line10: 'lunch
+
+  cake
+
+  cattle
+
+  plate
+
+  depart
+
+  globe
+
+  sponsor
+
+  stairs
+
+  regular
+
+  input'
+bip_39_word_new_line11: 'lunch
+
+  cake
+
+  cattle
+
+  plate
+
+  depart
+
+  globe
+
+  sponsor
+
+  stairs
+
+  regular
+
+  input
+
+  solve'
+bip_39_word_new_line12: 'lunch
+
+  cake
+
+  cattle
+
+  plate
+
+  depart
+
+  globe
+
+  sponsor
+
+  stairs
+
+  regular
+
+  input
+
+  solve
+
+  alpha'
+bip_39_word_new_line2: 'lunch
+
+  cake'
+bip_39_word_new_line3: 'lunch
+
+  cake
+
+  cattle'
+bip_39_word_new_line4: 'lunch
+
+  cake
+
+  cattle
+
+  plate'
+bip_39_word_new_line5: 'lunch
+
+  cake
+
+  cattle
+
+  plate
+
+  depart'
+bip_39_word_new_line6: 'lunch
+
+  cake
+
+  cattle
+
+  plate
+
+  depart
+
+  globe'
+bip_39_word_new_line7: 'lunch
+
+  cake
+
+  cattle
+
+  plate
+
+  depart
+
+  globe
+
+  sponsor'
+bip_39_word_new_line8: 'lunch
+
+  cake
+
+  cattle
+
+  plate
+
+  depart
+
+  globe
+
+  sponsor
+
+  stairs'
+bip_39_word_new_line9: 'lunch
+
+  cake
+
+  cattle
+
+  plate
+
+  depart
+
+  globe
+
+  sponsor
+
+  stairs
+
+  regular'
+bip_39_word_space_0:
+- lunch
+- cake
+- cattle
+- plate
+- depart
+- globe
+- sponsor
+- stairs
+- regular
+- input
+- solve
+- alpha
+bip_39_word_space_1: lunch
+bip_39_word_space_10: lunch cake cattle plate depart globe sponsor stairs regular
+  input
+bip_39_word_space_11: lunch cake cattle plate depart globe sponsor stairs regular
+  input solve
+bip_39_word_space_12: lunch cake cattle plate depart globe sponsor stairs regular
+  input solve alpha
+bip_39_word_space_2: lunch cake
+bip_39_word_space_3: lunch cake cattle
+bip_39_word_space_4: lunch cake cattle plate
+bip_39_word_space_5: lunch cake cattle plate depart
+bip_39_word_space_6: lunch cake cattle plate depart globe
+bip_39_word_space_7: lunch cake cattle plate depart globe sponsor
+bip_39_word_space_8: lunch cake cattle plate depart globe sponsor stairs
+bip_39_word_space_9: lunch cake cattle plate depart globe sponsor stairs regular
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

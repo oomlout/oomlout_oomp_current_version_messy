@@ -1,3 +1,186 @@
+bip_39_word_new_br1: arctic
+bip_39_word_new_br10: arctic<br>quit<br>grit<br>between<br>put<br>curious<br>patrol<br>search<br>core<br>matrix
+bip_39_word_new_br11: arctic<br>quit<br>grit<br>between<br>put<br>curious<br>patrol<br>search<br>core<br>matrix<br>bike
+bip_39_word_new_br12: arctic<br>quit<br>grit<br>between<br>put<br>curious<br>patrol<br>search<br>core<br>matrix<br>bike<br>aunt
+bip_39_word_new_br2: arctic<br>quit
+bip_39_word_new_br3: arctic<br>quit<br>grit
+bip_39_word_new_br4: arctic<br>quit<br>grit<br>between
+bip_39_word_new_br5: arctic<br>quit<br>grit<br>between<br>put
+bip_39_word_new_br6: arctic<br>quit<br>grit<br>between<br>put<br>curious
+bip_39_word_new_br7: arctic<br>quit<br>grit<br>between<br>put<br>curious<br>patrol
+bip_39_word_new_br8: arctic<br>quit<br>grit<br>between<br>put<br>curious<br>patrol<br>search
+bip_39_word_new_br9: arctic<br>quit<br>grit<br>between<br>put<br>curious<br>patrol<br>search<br>core
+bip_39_word_new_line1: arctic
+bip_39_word_new_line10: 'arctic
+
+  quit
+
+  grit
+
+  between
+
+  put
+
+  curious
+
+  patrol
+
+  search
+
+  core
+
+  matrix'
+bip_39_word_new_line11: 'arctic
+
+  quit
+
+  grit
+
+  between
+
+  put
+
+  curious
+
+  patrol
+
+  search
+
+  core
+
+  matrix
+
+  bike'
+bip_39_word_new_line12: 'arctic
+
+  quit
+
+  grit
+
+  between
+
+  put
+
+  curious
+
+  patrol
+
+  search
+
+  core
+
+  matrix
+
+  bike
+
+  aunt'
+bip_39_word_new_line2: 'arctic
+
+  quit'
+bip_39_word_new_line3: 'arctic
+
+  quit
+
+  grit'
+bip_39_word_new_line4: 'arctic
+
+  quit
+
+  grit
+
+  between'
+bip_39_word_new_line5: 'arctic
+
+  quit
+
+  grit
+
+  between
+
+  put'
+bip_39_word_new_line6: 'arctic
+
+  quit
+
+  grit
+
+  between
+
+  put
+
+  curious'
+bip_39_word_new_line7: 'arctic
+
+  quit
+
+  grit
+
+  between
+
+  put
+
+  curious
+
+  patrol'
+bip_39_word_new_line8: 'arctic
+
+  quit
+
+  grit
+
+  between
+
+  put
+
+  curious
+
+  patrol
+
+  search'
+bip_39_word_new_line9: 'arctic
+
+  quit
+
+  grit
+
+  between
+
+  put
+
+  curious
+
+  patrol
+
+  search
+
+  core'
+bip_39_word_space_0:
+- arctic
+- quit
+- grit
+- between
+- put
+- curious
+- patrol
+- search
+- core
+- matrix
+- bike
+- aunt
+bip_39_word_space_1: arctic
+bip_39_word_space_10: arctic quit grit between put curious patrol search core matrix
+bip_39_word_space_11: arctic quit grit between put curious patrol search core matrix
+  bike
+bip_39_word_space_12: arctic quit grit between put curious patrol search core matrix
+  bike aunt
+bip_39_word_space_2: arctic quit
+bip_39_word_space_3: arctic quit grit
+bip_39_word_space_4: arctic quit grit between
+bip_39_word_space_5: arctic quit grit between put
+bip_39_word_space_6: arctic quit grit between put curious
+bip_39_word_space_7: arctic quit grit between put curious patrol
+bip_39_word_space_8: arctic quit grit between put curious patrol search
+bip_39_word_space_9: arctic quit grit between put curious patrol search core
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

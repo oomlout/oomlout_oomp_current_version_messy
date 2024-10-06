@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: stem card
+  * bip 39 word 3: stem card magic
+  * bip 39 word: stem card magic rebuild betray night car pony column twelve material analyst
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | stem |  
+| bip_39_word_new_br10 | stem<br>card<br>magic<br>rebuild<br>betray<br>night<br>car<br>pony<br>column<br>twelve |  
+| bip_39_word_new_br11 | stem<br>card<br>magic<br>rebuild<br>betray<br>night<br>car<br>pony<br>column<br>twelve<br>material |  
+| bip_39_word_new_br12 | stem<br>card<br>magic<br>rebuild<br>betray<br>night<br>car<br>pony<br>column<br>twelve<br>material<br>analyst |  
+| bip_39_word_new_br2 | stem<br>card |  
+| bip_39_word_new_br3 | stem<br>card<br>magic |  
+| bip_39_word_new_br4 | stem<br>card<br>magic<br>rebuild |  
+| bip_39_word_new_br5 | stem<br>card<br>magic<br>rebuild<br>betray |  
+| bip_39_word_new_br6 | stem<br>card<br>magic<br>rebuild<br>betray<br>night |  
+| bip_39_word_new_br7 | stem<br>card<br>magic<br>rebuild<br>betray<br>night<br>car |  
+| bip_39_word_new_br8 | stem<br>card<br>magic<br>rebuild<br>betray<br>night<br>car<br>pony |  
+| bip_39_word_new_br9 | stem<br>card<br>magic<br>rebuild<br>betray<br>night<br>car<br>pony<br>column |  
+| bip_39_word_new_line1 | stem |  
+| bip_39_word_new_line10 | stem
+card
+magic
+rebuild
+betray
+night
+car
+pony
+column
+twelve |  
+| bip_39_word_new_line11 | stem
+card
+magic
+rebuild
+betray
+night
+car
+pony
+column
+twelve
+material |  
+| bip_39_word_new_line12 | stem
+card
+magic
+rebuild
+betray
+night
+car
+pony
+column
+twelve
+material
+analyst |  
+| bip_39_word_new_line2 | stem
+card |  
+| bip_39_word_new_line3 | stem
+card
+magic |  
+| bip_39_word_new_line4 | stem
+card
+magic
+rebuild |  
+| bip_39_word_new_line5 | stem
+card
+magic
+rebuild
+betray |  
+| bip_39_word_new_line6 | stem
+card
+magic
+rebuild
+betray
+night |  
+| bip_39_word_new_line7 | stem
+card
+magic
+rebuild
+betray
+night
+car |  
+| bip_39_word_new_line8 | stem
+card
+magic
+rebuild
+betray
+night
+car
+pony |  
+| bip_39_word_new_line9 | stem
+card
+magic
+rebuild
+betray
+night
+car
+pony
+column |  
+| bip_39_word_space_0 | ['stem', 'card', 'magic', 'rebuild', 'betray', 'night', 'car', 'pony', 'column', 'twelve', 'material', 'analyst'] |  
+| bip_39_word_space_1 | stem |  
+| bip_39_word_space_10 | stem card magic rebuild betray night car pony column twelve |  
+| bip_39_word_space_11 | stem card magic rebuild betray night car pony column twelve material |  
+| bip_39_word_space_12 | stem card magic rebuild betray night car pony column twelve material analyst |  
+| bip_39_word_space_2 | stem card |  
+| bip_39_word_space_3 | stem card magic |  
+| bip_39_word_space_4 | stem card magic rebuild |  
+| bip_39_word_space_5 | stem card magic rebuild betray |  
+| bip_39_word_space_6 | stem card magic rebuild betray night |  
+| bip_39_word_space_7 | stem card magic rebuild betray night car |  
+| bip_39_word_space_8 | stem card magic rebuild betray night car pony |  
+| bip_39_word_space_9 | stem card magic rebuild betray night car pony column |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

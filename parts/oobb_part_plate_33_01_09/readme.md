@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: develop toy
+  * bip 39 word 3: develop toy possible
+  * bip 39 word: develop toy possible detect roast swift spell diet hen swap thank again
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | develop |  
+| bip_39_word_new_br10 | develop<br>toy<br>possible<br>detect<br>roast<br>swift<br>spell<br>diet<br>hen<br>swap |  
+| bip_39_word_new_br11 | develop<br>toy<br>possible<br>detect<br>roast<br>swift<br>spell<br>diet<br>hen<br>swap<br>thank |  
+| bip_39_word_new_br12 | develop<br>toy<br>possible<br>detect<br>roast<br>swift<br>spell<br>diet<br>hen<br>swap<br>thank<br>again |  
+| bip_39_word_new_br2 | develop<br>toy |  
+| bip_39_word_new_br3 | develop<br>toy<br>possible |  
+| bip_39_word_new_br4 | develop<br>toy<br>possible<br>detect |  
+| bip_39_word_new_br5 | develop<br>toy<br>possible<br>detect<br>roast |  
+| bip_39_word_new_br6 | develop<br>toy<br>possible<br>detect<br>roast<br>swift |  
+| bip_39_word_new_br7 | develop<br>toy<br>possible<br>detect<br>roast<br>swift<br>spell |  
+| bip_39_word_new_br8 | develop<br>toy<br>possible<br>detect<br>roast<br>swift<br>spell<br>diet |  
+| bip_39_word_new_br9 | develop<br>toy<br>possible<br>detect<br>roast<br>swift<br>spell<br>diet<br>hen |  
+| bip_39_word_new_line1 | develop |  
+| bip_39_word_new_line10 | develop
+toy
+possible
+detect
+roast
+swift
+spell
+diet
+hen
+swap |  
+| bip_39_word_new_line11 | develop
+toy
+possible
+detect
+roast
+swift
+spell
+diet
+hen
+swap
+thank |  
+| bip_39_word_new_line12 | develop
+toy
+possible
+detect
+roast
+swift
+spell
+diet
+hen
+swap
+thank
+again |  
+| bip_39_word_new_line2 | develop
+toy |  
+| bip_39_word_new_line3 | develop
+toy
+possible |  
+| bip_39_word_new_line4 | develop
+toy
+possible
+detect |  
+| bip_39_word_new_line5 | develop
+toy
+possible
+detect
+roast |  
+| bip_39_word_new_line6 | develop
+toy
+possible
+detect
+roast
+swift |  
+| bip_39_word_new_line7 | develop
+toy
+possible
+detect
+roast
+swift
+spell |  
+| bip_39_word_new_line8 | develop
+toy
+possible
+detect
+roast
+swift
+spell
+diet |  
+| bip_39_word_new_line9 | develop
+toy
+possible
+detect
+roast
+swift
+spell
+diet
+hen |  
+| bip_39_word_space_0 | ['develop', 'toy', 'possible', 'detect', 'roast', 'swift', 'spell', 'diet', 'hen', 'swap', 'thank', 'again'] |  
+| bip_39_word_space_1 | develop |  
+| bip_39_word_space_10 | develop toy possible detect roast swift spell diet hen swap |  
+| bip_39_word_space_11 | develop toy possible detect roast swift spell diet hen swap thank |  
+| bip_39_word_space_12 | develop toy possible detect roast swift spell diet hen swap thank again |  
+| bip_39_word_space_2 | develop toy |  
+| bip_39_word_space_3 | develop toy possible |  
+| bip_39_word_space_4 | develop toy possible detect |  
+| bip_39_word_space_5 | develop toy possible detect roast |  
+| bip_39_word_space_6 | develop toy possible detect roast swift |  
+| bip_39_word_space_7 | develop toy possible detect roast swift spell |  
+| bip_39_word_space_8 | develop toy possible detect roast swift spell diet |  
+| bip_39_word_space_9 | develop toy possible detect roast swift spell diet hen |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

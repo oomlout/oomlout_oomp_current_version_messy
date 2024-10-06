@@ -1,3 +1,185 @@
+bip_39_word_new_br1: fun
+bip_39_word_new_br10: fun<br>arrow<br>try<br>shy<br>trash<br>act<br>appear<br>clerk<br>vessel<br>surround
+bip_39_word_new_br11: fun<br>arrow<br>try<br>shy<br>trash<br>act<br>appear<br>clerk<br>vessel<br>surround<br>nose
+bip_39_word_new_br12: fun<br>arrow<br>try<br>shy<br>trash<br>act<br>appear<br>clerk<br>vessel<br>surround<br>nose<br>ask
+bip_39_word_new_br2: fun<br>arrow
+bip_39_word_new_br3: fun<br>arrow<br>try
+bip_39_word_new_br4: fun<br>arrow<br>try<br>shy
+bip_39_word_new_br5: fun<br>arrow<br>try<br>shy<br>trash
+bip_39_word_new_br6: fun<br>arrow<br>try<br>shy<br>trash<br>act
+bip_39_word_new_br7: fun<br>arrow<br>try<br>shy<br>trash<br>act<br>appear
+bip_39_word_new_br8: fun<br>arrow<br>try<br>shy<br>trash<br>act<br>appear<br>clerk
+bip_39_word_new_br9: fun<br>arrow<br>try<br>shy<br>trash<br>act<br>appear<br>clerk<br>vessel
+bip_39_word_new_line1: fun
+bip_39_word_new_line10: 'fun
+
+  arrow
+
+  try
+
+  shy
+
+  trash
+
+  act
+
+  appear
+
+  clerk
+
+  vessel
+
+  surround'
+bip_39_word_new_line11: 'fun
+
+  arrow
+
+  try
+
+  shy
+
+  trash
+
+  act
+
+  appear
+
+  clerk
+
+  vessel
+
+  surround
+
+  nose'
+bip_39_word_new_line12: 'fun
+
+  arrow
+
+  try
+
+  shy
+
+  trash
+
+  act
+
+  appear
+
+  clerk
+
+  vessel
+
+  surround
+
+  nose
+
+  ask'
+bip_39_word_new_line2: 'fun
+
+  arrow'
+bip_39_word_new_line3: 'fun
+
+  arrow
+
+  try'
+bip_39_word_new_line4: 'fun
+
+  arrow
+
+  try
+
+  shy'
+bip_39_word_new_line5: 'fun
+
+  arrow
+
+  try
+
+  shy
+
+  trash'
+bip_39_word_new_line6: 'fun
+
+  arrow
+
+  try
+
+  shy
+
+  trash
+
+  act'
+bip_39_word_new_line7: 'fun
+
+  arrow
+
+  try
+
+  shy
+
+  trash
+
+  act
+
+  appear'
+bip_39_word_new_line8: 'fun
+
+  arrow
+
+  try
+
+  shy
+
+  trash
+
+  act
+
+  appear
+
+  clerk'
+bip_39_word_new_line9: 'fun
+
+  arrow
+
+  try
+
+  shy
+
+  trash
+
+  act
+
+  appear
+
+  clerk
+
+  vessel'
+bip_39_word_space_0:
+- fun
+- arrow
+- try
+- shy
+- trash
+- act
+- appear
+- clerk
+- vessel
+- surround
+- nose
+- ask
+bip_39_word_space_1: fun
+bip_39_word_space_10: fun arrow try shy trash act appear clerk vessel surround
+bip_39_word_space_11: fun arrow try shy trash act appear clerk vessel surround nose
+bip_39_word_space_12: fun arrow try shy trash act appear clerk vessel surround nose
+  ask
+bip_39_word_space_2: fun arrow
+bip_39_word_space_3: fun arrow try
+bip_39_word_space_4: fun arrow try shy
+bip_39_word_space_5: fun arrow try shy trash
+bip_39_word_space_6: fun arrow try shy trash act
+bip_39_word_space_7: fun arrow try shy trash act appear
+bip_39_word_space_8: fun arrow try shy trash act appear clerk
+bip_39_word_space_9: fun arrow try shy trash act appear clerk vessel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

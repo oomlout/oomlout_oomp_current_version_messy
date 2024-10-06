@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: service brown
+  * bip 39 word 3: service brown cute
+  * bip 39 word: service brown cute bulb rug wood awake flush ignore column tomato add
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | service |  
+| bip_39_word_new_br10 | service<br>brown<br>cute<br>bulb<br>rug<br>wood<br>awake<br>flush<br>ignore<br>column |  
+| bip_39_word_new_br11 | service<br>brown<br>cute<br>bulb<br>rug<br>wood<br>awake<br>flush<br>ignore<br>column<br>tomato |  
+| bip_39_word_new_br12 | service<br>brown<br>cute<br>bulb<br>rug<br>wood<br>awake<br>flush<br>ignore<br>column<br>tomato<br>add |  
+| bip_39_word_new_br2 | service<br>brown |  
+| bip_39_word_new_br3 | service<br>brown<br>cute |  
+| bip_39_word_new_br4 | service<br>brown<br>cute<br>bulb |  
+| bip_39_word_new_br5 | service<br>brown<br>cute<br>bulb<br>rug |  
+| bip_39_word_new_br6 | service<br>brown<br>cute<br>bulb<br>rug<br>wood |  
+| bip_39_word_new_br7 | service<br>brown<br>cute<br>bulb<br>rug<br>wood<br>awake |  
+| bip_39_word_new_br8 | service<br>brown<br>cute<br>bulb<br>rug<br>wood<br>awake<br>flush |  
+| bip_39_word_new_br9 | service<br>brown<br>cute<br>bulb<br>rug<br>wood<br>awake<br>flush<br>ignore |  
+| bip_39_word_new_line1 | service |  
+| bip_39_word_new_line10 | service
+brown
+cute
+bulb
+rug
+wood
+awake
+flush
+ignore
+column |  
+| bip_39_word_new_line11 | service
+brown
+cute
+bulb
+rug
+wood
+awake
+flush
+ignore
+column
+tomato |  
+| bip_39_word_new_line12 | service
+brown
+cute
+bulb
+rug
+wood
+awake
+flush
+ignore
+column
+tomato
+add |  
+| bip_39_word_new_line2 | service
+brown |  
+| bip_39_word_new_line3 | service
+brown
+cute |  
+| bip_39_word_new_line4 | service
+brown
+cute
+bulb |  
+| bip_39_word_new_line5 | service
+brown
+cute
+bulb
+rug |  
+| bip_39_word_new_line6 | service
+brown
+cute
+bulb
+rug
+wood |  
+| bip_39_word_new_line7 | service
+brown
+cute
+bulb
+rug
+wood
+awake |  
+| bip_39_word_new_line8 | service
+brown
+cute
+bulb
+rug
+wood
+awake
+flush |  
+| bip_39_word_new_line9 | service
+brown
+cute
+bulb
+rug
+wood
+awake
+flush
+ignore |  
+| bip_39_word_space_0 | ['service', 'brown', 'cute', 'bulb', 'rug', 'wood', 'awake', 'flush', 'ignore', 'column', 'tomato', 'add'] |  
+| bip_39_word_space_1 | service |  
+| bip_39_word_space_10 | service brown cute bulb rug wood awake flush ignore column |  
+| bip_39_word_space_11 | service brown cute bulb rug wood awake flush ignore column tomato |  
+| bip_39_word_space_12 | service brown cute bulb rug wood awake flush ignore column tomato add |  
+| bip_39_word_space_2 | service brown |  
+| bip_39_word_space_3 | service brown cute |  
+| bip_39_word_space_4 | service brown cute bulb |  
+| bip_39_word_space_5 | service brown cute bulb rug |  
+| bip_39_word_space_6 | service brown cute bulb rug wood |  
+| bip_39_word_space_7 | service brown cute bulb rug wood awake |  
+| bip_39_word_space_8 | service brown cute bulb rug wood awake flush |  
+| bip_39_word_space_9 | service brown cute bulb rug wood awake flush ignore |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

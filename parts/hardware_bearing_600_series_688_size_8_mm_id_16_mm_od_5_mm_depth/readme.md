@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: offer use
+  * bip 39 word 3: offer use concert
+  * bip 39 word: offer use concert fence stuff invest hold such cook kangaroo cricket auto
 
 ### other_codes
 * short_code: br688
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | offer |  
+| bip_39_word_new_br10 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo |  
+| bip_39_word_new_br11 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo<br>cricket |  
+| bip_39_word_new_br12 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook<br>kangaroo<br>cricket<br>auto |  
+| bip_39_word_new_br2 | offer<br>use |  
+| bip_39_word_new_br3 | offer<br>use<br>concert |  
+| bip_39_word_new_br4 | offer<br>use<br>concert<br>fence |  
+| bip_39_word_new_br5 | offer<br>use<br>concert<br>fence<br>stuff |  
+| bip_39_word_new_br6 | offer<br>use<br>concert<br>fence<br>stuff<br>invest |  
+| bip_39_word_new_br7 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold |  
+| bip_39_word_new_br8 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such |  
+| bip_39_word_new_br9 | offer<br>use<br>concert<br>fence<br>stuff<br>invest<br>hold<br>such<br>cook |  
+| bip_39_word_new_line1 | offer |  
+| bip_39_word_new_line10 | offer
+use
+concert
+fence
+stuff
+invest
+hold
+such
+cook
+kangaroo |  
+| bip_39_word_new_line11 | offer
+use
+concert
+fence
+stuff
+invest
+hold
+such
+cook
+kangaroo
+cricket |  
+| bip_39_word_new_line12 | offer
+use
+concert
+fence
+stuff
+invest
+hold
+such
+cook
+kangaroo
+cricket
+auto |  
+| bip_39_word_new_line2 | offer
+use |  
+| bip_39_word_new_line3 | offer
+use
+concert |  
+| bip_39_word_new_line4 | offer
+use
+concert
+fence |  
+| bip_39_word_new_line5 | offer
+use
+concert
+fence
+stuff |  
+| bip_39_word_new_line6 | offer
+use
+concert
+fence
+stuff
+invest |  
+| bip_39_word_new_line7 | offer
+use
+concert
+fence
+stuff
+invest
+hold |  
+| bip_39_word_new_line8 | offer
+use
+concert
+fence
+stuff
+invest
+hold
+such |  
+| bip_39_word_new_line9 | offer
+use
+concert
+fence
+stuff
+invest
+hold
+such
+cook |  
+| bip_39_word_space_0 | ['offer', 'use', 'concert', 'fence', 'stuff', 'invest', 'hold', 'such', 'cook', 'kangaroo', 'cricket', 'auto'] |  
+| bip_39_word_space_1 | offer |  
+| bip_39_word_space_10 | offer use concert fence stuff invest hold such cook kangaroo |  
+| bip_39_word_space_11 | offer use concert fence stuff invest hold such cook kangaroo cricket |  
+| bip_39_word_space_12 | offer use concert fence stuff invest hold such cook kangaroo cricket auto |  
+| bip_39_word_space_2 | offer use |  
+| bip_39_word_space_3 | offer use concert |  
+| bip_39_word_space_4 | offer use concert fence |  
+| bip_39_word_space_5 | offer use concert fence stuff |  
+| bip_39_word_space_6 | offer use concert fence stuff invest |  
+| bip_39_word_space_7 | offer use concert fence stuff invest hold |  
+| bip_39_word_space_8 | offer use concert fence stuff invest hold such |  
+| bip_39_word_space_9 | offer use concert fence stuff invest hold such cook |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

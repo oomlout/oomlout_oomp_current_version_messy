@@ -1,3 +1,186 @@
+bip_39_word_new_br1: couple
+bip_39_word_new_br10: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready<br>fit
+bip_39_word_new_br11: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready<br>fit<br>much
+bip_39_word_new_br12: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready<br>fit<br>much<br>annual
+bip_39_word_new_br2: couple<br>frog
+bip_39_word_new_br3: couple<br>frog<br>worry
+bip_39_word_new_br4: couple<br>frog<br>worry<br>combine
+bip_39_word_new_br5: couple<br>frog<br>worry<br>combine<br>blade
+bip_39_word_new_br6: couple<br>frog<br>worry<br>combine<br>blade<br>pride
+bip_39_word_new_br7: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull
+bip_39_word_new_br8: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close
+bip_39_word_new_br9: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready
+bip_39_word_new_line1: couple
+bip_39_word_new_line10: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close
+
+  ready
+
+  fit'
+bip_39_word_new_line11: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close
+
+  ready
+
+  fit
+
+  much'
+bip_39_word_new_line12: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close
+
+  ready
+
+  fit
+
+  much
+
+  annual'
+bip_39_word_new_line2: 'couple
+
+  frog'
+bip_39_word_new_line3: 'couple
+
+  frog
+
+  worry'
+bip_39_word_new_line4: 'couple
+
+  frog
+
+  worry
+
+  combine'
+bip_39_word_new_line5: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade'
+bip_39_word_new_line6: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride'
+bip_39_word_new_line7: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull'
+bip_39_word_new_line8: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close'
+bip_39_word_new_line9: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close
+
+  ready'
+bip_39_word_space_0:
+- couple
+- frog
+- worry
+- combine
+- blade
+- pride
+- skull
+- close
+- ready
+- fit
+- much
+- annual
+bip_39_word_space_1: couple
+bip_39_word_space_10: couple frog worry combine blade pride skull close ready fit
+bip_39_word_space_11: couple frog worry combine blade pride skull close ready fit
+  much
+bip_39_word_space_12: couple frog worry combine blade pride skull close ready fit
+  much annual
+bip_39_word_space_2: couple frog
+bip_39_word_space_3: couple frog worry
+bip_39_word_space_4: couple frog worry combine
+bip_39_word_space_5: couple frog worry combine blade
+bip_39_word_space_6: couple frog worry combine blade pride
+bip_39_word_space_7: couple frog worry combine blade pride skull
+bip_39_word_space_8: couple frog worry combine blade pride skull close
+bip_39_word_space_9: couple frog worry combine blade pride skull close ready
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

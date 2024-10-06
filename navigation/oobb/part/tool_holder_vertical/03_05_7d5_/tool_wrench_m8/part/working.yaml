@@ -1,3 +1,186 @@
+bip_39_word_new_br1: roof
+bip_39_word_new_br10: roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel
+bip_39_word_new_br11: roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel<br>ginger
+bip_39_word_new_br12: roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid<br>travel<br>ginger<br>anxiety
+bip_39_word_new_br2: roof<br>light
+bip_39_word_new_br3: roof<br>light<br>silent
+bip_39_word_new_br4: roof<br>light<br>silent<br>melt
+bip_39_word_new_br5: roof<br>light<br>silent<br>melt<br>awful
+bip_39_word_new_br6: roof<br>light<br>silent<br>melt<br>awful<br>pilot
+bip_39_word_new_br7: roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch
+bip_39_word_new_br8: roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax
+bip_39_word_new_br9: roof<br>light<br>silent<br>melt<br>awful<br>pilot<br>catch<br>relax<br>valid
+bip_39_word_new_line1: roof
+bip_39_word_new_line10: 'roof
+
+  light
+
+  silent
+
+  melt
+
+  awful
+
+  pilot
+
+  catch
+
+  relax
+
+  valid
+
+  travel'
+bip_39_word_new_line11: 'roof
+
+  light
+
+  silent
+
+  melt
+
+  awful
+
+  pilot
+
+  catch
+
+  relax
+
+  valid
+
+  travel
+
+  ginger'
+bip_39_word_new_line12: 'roof
+
+  light
+
+  silent
+
+  melt
+
+  awful
+
+  pilot
+
+  catch
+
+  relax
+
+  valid
+
+  travel
+
+  ginger
+
+  anxiety'
+bip_39_word_new_line2: 'roof
+
+  light'
+bip_39_word_new_line3: 'roof
+
+  light
+
+  silent'
+bip_39_word_new_line4: 'roof
+
+  light
+
+  silent
+
+  melt'
+bip_39_word_new_line5: 'roof
+
+  light
+
+  silent
+
+  melt
+
+  awful'
+bip_39_word_new_line6: 'roof
+
+  light
+
+  silent
+
+  melt
+
+  awful
+
+  pilot'
+bip_39_word_new_line7: 'roof
+
+  light
+
+  silent
+
+  melt
+
+  awful
+
+  pilot
+
+  catch'
+bip_39_word_new_line8: 'roof
+
+  light
+
+  silent
+
+  melt
+
+  awful
+
+  pilot
+
+  catch
+
+  relax'
+bip_39_word_new_line9: 'roof
+
+  light
+
+  silent
+
+  melt
+
+  awful
+
+  pilot
+
+  catch
+
+  relax
+
+  valid'
+bip_39_word_space_0:
+- roof
+- light
+- silent
+- melt
+- awful
+- pilot
+- catch
+- relax
+- valid
+- travel
+- ginger
+- anxiety
+bip_39_word_space_1: roof
+bip_39_word_space_10: roof light silent melt awful pilot catch relax valid travel
+bip_39_word_space_11: roof light silent melt awful pilot catch relax valid travel
+  ginger
+bip_39_word_space_12: roof light silent melt awful pilot catch relax valid travel
+  ginger anxiety
+bip_39_word_space_2: roof light
+bip_39_word_space_3: roof light silent
+bip_39_word_space_4: roof light silent melt
+bip_39_word_space_5: roof light silent melt awful
+bip_39_word_space_6: roof light silent melt awful pilot
+bip_39_word_space_7: roof light silent melt awful pilot catch
+bip_39_word_space_8: roof light silent melt awful pilot catch relax
+bip_39_word_space_9: roof light silent melt awful pilot catch relax valid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

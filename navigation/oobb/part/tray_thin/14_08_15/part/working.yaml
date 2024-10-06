@@ -1,3 +1,185 @@
+bip_39_word_new_br1: exhaust
+bip_39_word_new_br10: exhaust<br>can<br>when<br>detail<br>major<br>elbow<br>road<br>salute<br>crop<br>goat
+bip_39_word_new_br11: exhaust<br>can<br>when<br>detail<br>major<br>elbow<br>road<br>salute<br>crop<br>goat<br>dismiss
+bip_39_word_new_br12: exhaust<br>can<br>when<br>detail<br>major<br>elbow<br>road<br>salute<br>crop<br>goat<br>dismiss<br>alone
+bip_39_word_new_br2: exhaust<br>can
+bip_39_word_new_br3: exhaust<br>can<br>when
+bip_39_word_new_br4: exhaust<br>can<br>when<br>detail
+bip_39_word_new_br5: exhaust<br>can<br>when<br>detail<br>major
+bip_39_word_new_br6: exhaust<br>can<br>when<br>detail<br>major<br>elbow
+bip_39_word_new_br7: exhaust<br>can<br>when<br>detail<br>major<br>elbow<br>road
+bip_39_word_new_br8: exhaust<br>can<br>when<br>detail<br>major<br>elbow<br>road<br>salute
+bip_39_word_new_br9: exhaust<br>can<br>when<br>detail<br>major<br>elbow<br>road<br>salute<br>crop
+bip_39_word_new_line1: exhaust
+bip_39_word_new_line10: 'exhaust
+
+  can
+
+  when
+
+  detail
+
+  major
+
+  elbow
+
+  road
+
+  salute
+
+  crop
+
+  goat'
+bip_39_word_new_line11: 'exhaust
+
+  can
+
+  when
+
+  detail
+
+  major
+
+  elbow
+
+  road
+
+  salute
+
+  crop
+
+  goat
+
+  dismiss'
+bip_39_word_new_line12: 'exhaust
+
+  can
+
+  when
+
+  detail
+
+  major
+
+  elbow
+
+  road
+
+  salute
+
+  crop
+
+  goat
+
+  dismiss
+
+  alone'
+bip_39_word_new_line2: 'exhaust
+
+  can'
+bip_39_word_new_line3: 'exhaust
+
+  can
+
+  when'
+bip_39_word_new_line4: 'exhaust
+
+  can
+
+  when
+
+  detail'
+bip_39_word_new_line5: 'exhaust
+
+  can
+
+  when
+
+  detail
+
+  major'
+bip_39_word_new_line6: 'exhaust
+
+  can
+
+  when
+
+  detail
+
+  major
+
+  elbow'
+bip_39_word_new_line7: 'exhaust
+
+  can
+
+  when
+
+  detail
+
+  major
+
+  elbow
+
+  road'
+bip_39_word_new_line8: 'exhaust
+
+  can
+
+  when
+
+  detail
+
+  major
+
+  elbow
+
+  road
+
+  salute'
+bip_39_word_new_line9: 'exhaust
+
+  can
+
+  when
+
+  detail
+
+  major
+
+  elbow
+
+  road
+
+  salute
+
+  crop'
+bip_39_word_space_0:
+- exhaust
+- can
+- when
+- detail
+- major
+- elbow
+- road
+- salute
+- crop
+- goat
+- dismiss
+- alone
+bip_39_word_space_1: exhaust
+bip_39_word_space_10: exhaust can when detail major elbow road salute crop goat
+bip_39_word_space_11: exhaust can when detail major elbow road salute crop goat dismiss
+bip_39_word_space_12: exhaust can when detail major elbow road salute crop goat dismiss
+  alone
+bip_39_word_space_2: exhaust can
+bip_39_word_space_3: exhaust can when
+bip_39_word_space_4: exhaust can when detail
+bip_39_word_space_5: exhaust can when detail major
+bip_39_word_space_6: exhaust can when detail major elbow
+bip_39_word_space_7: exhaust can when detail major elbow road
+bip_39_word_space_8: exhaust can when detail major elbow road salute
+bip_39_word_space_9: exhaust can when detail major elbow road salute crop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

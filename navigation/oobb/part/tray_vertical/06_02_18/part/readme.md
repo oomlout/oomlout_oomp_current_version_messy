@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: action chronic
+  * bip 39 word 3: action chronic toe
+  * bip 39 word: action chronic toe metal media trip elevator enroll limit wreck fitness abuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | action |  
+| bip_39_word_new_br10 | action<br>chronic<br>toe<br>metal<br>media<br>trip<br>elevator<br>enroll<br>limit<br>wreck |  
+| bip_39_word_new_br11 | action<br>chronic<br>toe<br>metal<br>media<br>trip<br>elevator<br>enroll<br>limit<br>wreck<br>fitness |  
+| bip_39_word_new_br12 | action<br>chronic<br>toe<br>metal<br>media<br>trip<br>elevator<br>enroll<br>limit<br>wreck<br>fitness<br>abuse |  
+| bip_39_word_new_br2 | action<br>chronic |  
+| bip_39_word_new_br3 | action<br>chronic<br>toe |  
+| bip_39_word_new_br4 | action<br>chronic<br>toe<br>metal |  
+| bip_39_word_new_br5 | action<br>chronic<br>toe<br>metal<br>media |  
+| bip_39_word_new_br6 | action<br>chronic<br>toe<br>metal<br>media<br>trip |  
+| bip_39_word_new_br7 | action<br>chronic<br>toe<br>metal<br>media<br>trip<br>elevator |  
+| bip_39_word_new_br8 | action<br>chronic<br>toe<br>metal<br>media<br>trip<br>elevator<br>enroll |  
+| bip_39_word_new_br9 | action<br>chronic<br>toe<br>metal<br>media<br>trip<br>elevator<br>enroll<br>limit |  
+| bip_39_word_new_line1 | action |  
+| bip_39_word_new_line10 | action
+chronic
+toe
+metal
+media
+trip
+elevator
+enroll
+limit
+wreck |  
+| bip_39_word_new_line11 | action
+chronic
+toe
+metal
+media
+trip
+elevator
+enroll
+limit
+wreck
+fitness |  
+| bip_39_word_new_line12 | action
+chronic
+toe
+metal
+media
+trip
+elevator
+enroll
+limit
+wreck
+fitness
+abuse |  
+| bip_39_word_new_line2 | action
+chronic |  
+| bip_39_word_new_line3 | action
+chronic
+toe |  
+| bip_39_word_new_line4 | action
+chronic
+toe
+metal |  
+| bip_39_word_new_line5 | action
+chronic
+toe
+metal
+media |  
+| bip_39_word_new_line6 | action
+chronic
+toe
+metal
+media
+trip |  
+| bip_39_word_new_line7 | action
+chronic
+toe
+metal
+media
+trip
+elevator |  
+| bip_39_word_new_line8 | action
+chronic
+toe
+metal
+media
+trip
+elevator
+enroll |  
+| bip_39_word_new_line9 | action
+chronic
+toe
+metal
+media
+trip
+elevator
+enroll
+limit |  
+| bip_39_word_space_0 | ['action', 'chronic', 'toe', 'metal', 'media', 'trip', 'elevator', 'enroll', 'limit', 'wreck', 'fitness', 'abuse'] |  
+| bip_39_word_space_1 | action |  
+| bip_39_word_space_10 | action chronic toe metal media trip elevator enroll limit wreck |  
+| bip_39_word_space_11 | action chronic toe metal media trip elevator enroll limit wreck fitness |  
+| bip_39_word_space_12 | action chronic toe metal media trip elevator enroll limit wreck fitness abuse |  
+| bip_39_word_space_2 | action chronic |  
+| bip_39_word_space_3 | action chronic toe |  
+| bip_39_word_space_4 | action chronic toe metal |  
+| bip_39_word_space_5 | action chronic toe metal media |  
+| bip_39_word_space_6 | action chronic toe metal media trip |  
+| bip_39_word_space_7 | action chronic toe metal media trip elevator |  
+| bip_39_word_space_8 | action chronic toe metal media trip elevator enroll |  
+| bip_39_word_space_9 | action chronic toe metal media trip elevator enroll limit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

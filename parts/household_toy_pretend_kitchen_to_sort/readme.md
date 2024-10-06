@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lion hunt
+  * bip 39 word 3: lion hunt sunny
+  * bip 39 word: lion hunt sunny portion perfect cabin obscure fence canvas dolphin north also
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lion |  
+| bip_39_word_new_br10 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin<br>obscure<br>fence<br>canvas<br>dolphin |  
+| bip_39_word_new_br11 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin<br>obscure<br>fence<br>canvas<br>dolphin<br>north |  
+| bip_39_word_new_br12 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin<br>obscure<br>fence<br>canvas<br>dolphin<br>north<br>also |  
+| bip_39_word_new_br2 | lion<br>hunt |  
+| bip_39_word_new_br3 | lion<br>hunt<br>sunny |  
+| bip_39_word_new_br4 | lion<br>hunt<br>sunny<br>portion |  
+| bip_39_word_new_br5 | lion<br>hunt<br>sunny<br>portion<br>perfect |  
+| bip_39_word_new_br6 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin |  
+| bip_39_word_new_br7 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin<br>obscure |  
+| bip_39_word_new_br8 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin<br>obscure<br>fence |  
+| bip_39_word_new_br9 | lion<br>hunt<br>sunny<br>portion<br>perfect<br>cabin<br>obscure<br>fence<br>canvas |  
+| bip_39_word_new_line1 | lion |  
+| bip_39_word_new_line10 | lion
+hunt
+sunny
+portion
+perfect
+cabin
+obscure
+fence
+canvas
+dolphin |  
+| bip_39_word_new_line11 | lion
+hunt
+sunny
+portion
+perfect
+cabin
+obscure
+fence
+canvas
+dolphin
+north |  
+| bip_39_word_new_line12 | lion
+hunt
+sunny
+portion
+perfect
+cabin
+obscure
+fence
+canvas
+dolphin
+north
+also |  
+| bip_39_word_new_line2 | lion
+hunt |  
+| bip_39_word_new_line3 | lion
+hunt
+sunny |  
+| bip_39_word_new_line4 | lion
+hunt
+sunny
+portion |  
+| bip_39_word_new_line5 | lion
+hunt
+sunny
+portion
+perfect |  
+| bip_39_word_new_line6 | lion
+hunt
+sunny
+portion
+perfect
+cabin |  
+| bip_39_word_new_line7 | lion
+hunt
+sunny
+portion
+perfect
+cabin
+obscure |  
+| bip_39_word_new_line8 | lion
+hunt
+sunny
+portion
+perfect
+cabin
+obscure
+fence |  
+| bip_39_word_new_line9 | lion
+hunt
+sunny
+portion
+perfect
+cabin
+obscure
+fence
+canvas |  
+| bip_39_word_space_0 | ['lion', 'hunt', 'sunny', 'portion', 'perfect', 'cabin', 'obscure', 'fence', 'canvas', 'dolphin', 'north', 'also'] |  
+| bip_39_word_space_1 | lion |  
+| bip_39_word_space_10 | lion hunt sunny portion perfect cabin obscure fence canvas dolphin |  
+| bip_39_word_space_11 | lion hunt sunny portion perfect cabin obscure fence canvas dolphin north |  
+| bip_39_word_space_12 | lion hunt sunny portion perfect cabin obscure fence canvas dolphin north also |  
+| bip_39_word_space_2 | lion hunt |  
+| bip_39_word_space_3 | lion hunt sunny |  
+| bip_39_word_space_4 | lion hunt sunny portion |  
+| bip_39_word_space_5 | lion hunt sunny portion perfect |  
+| bip_39_word_space_6 | lion hunt sunny portion perfect cabin |  
+| bip_39_word_space_7 | lion hunt sunny portion perfect cabin obscure |  
+| bip_39_word_space_8 | lion hunt sunny portion perfect cabin obscure fence |  
+| bip_39_word_space_9 | lion hunt sunny portion perfect cabin obscure fence canvas |  
 | classification | household_toy |  
 | classification_capital | Household Toy |  
 | classification_first_letter | h |  

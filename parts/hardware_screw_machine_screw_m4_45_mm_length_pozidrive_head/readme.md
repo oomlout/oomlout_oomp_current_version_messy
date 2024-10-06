@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: before cover
+  * bip 39 word 3: before cover tuition
+  * bip 39 word: before cover tuition execute tenant close bone keen tiger jar inherit anchor
 
 ### other_codes
 * short_code: ms4m45pz
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | before |  
+| bip_39_word_new_br10 | before<br>cover<br>tuition<br>execute<br>tenant<br>close<br>bone<br>keen<br>tiger<br>jar |  
+| bip_39_word_new_br11 | before<br>cover<br>tuition<br>execute<br>tenant<br>close<br>bone<br>keen<br>tiger<br>jar<br>inherit |  
+| bip_39_word_new_br12 | before<br>cover<br>tuition<br>execute<br>tenant<br>close<br>bone<br>keen<br>tiger<br>jar<br>inherit<br>anchor |  
+| bip_39_word_new_br2 | before<br>cover |  
+| bip_39_word_new_br3 | before<br>cover<br>tuition |  
+| bip_39_word_new_br4 | before<br>cover<br>tuition<br>execute |  
+| bip_39_word_new_br5 | before<br>cover<br>tuition<br>execute<br>tenant |  
+| bip_39_word_new_br6 | before<br>cover<br>tuition<br>execute<br>tenant<br>close |  
+| bip_39_word_new_br7 | before<br>cover<br>tuition<br>execute<br>tenant<br>close<br>bone |  
+| bip_39_word_new_br8 | before<br>cover<br>tuition<br>execute<br>tenant<br>close<br>bone<br>keen |  
+| bip_39_word_new_br9 | before<br>cover<br>tuition<br>execute<br>tenant<br>close<br>bone<br>keen<br>tiger |  
+| bip_39_word_new_line1 | before |  
+| bip_39_word_new_line10 | before
+cover
+tuition
+execute
+tenant
+close
+bone
+keen
+tiger
+jar |  
+| bip_39_word_new_line11 | before
+cover
+tuition
+execute
+tenant
+close
+bone
+keen
+tiger
+jar
+inherit |  
+| bip_39_word_new_line12 | before
+cover
+tuition
+execute
+tenant
+close
+bone
+keen
+tiger
+jar
+inherit
+anchor |  
+| bip_39_word_new_line2 | before
+cover |  
+| bip_39_word_new_line3 | before
+cover
+tuition |  
+| bip_39_word_new_line4 | before
+cover
+tuition
+execute |  
+| bip_39_word_new_line5 | before
+cover
+tuition
+execute
+tenant |  
+| bip_39_word_new_line6 | before
+cover
+tuition
+execute
+tenant
+close |  
+| bip_39_word_new_line7 | before
+cover
+tuition
+execute
+tenant
+close
+bone |  
+| bip_39_word_new_line8 | before
+cover
+tuition
+execute
+tenant
+close
+bone
+keen |  
+| bip_39_word_new_line9 | before
+cover
+tuition
+execute
+tenant
+close
+bone
+keen
+tiger |  
+| bip_39_word_space_0 | ['before', 'cover', 'tuition', 'execute', 'tenant', 'close', 'bone', 'keen', 'tiger', 'jar', 'inherit', 'anchor'] |  
+| bip_39_word_space_1 | before |  
+| bip_39_word_space_10 | before cover tuition execute tenant close bone keen tiger jar |  
+| bip_39_word_space_11 | before cover tuition execute tenant close bone keen tiger jar inherit |  
+| bip_39_word_space_12 | before cover tuition execute tenant close bone keen tiger jar inherit anchor |  
+| bip_39_word_space_2 | before cover |  
+| bip_39_word_space_3 | before cover tuition |  
+| bip_39_word_space_4 | before cover tuition execute |  
+| bip_39_word_space_5 | before cover tuition execute tenant |  
+| bip_39_word_space_6 | before cover tuition execute tenant close |  
+| bip_39_word_space_7 | before cover tuition execute tenant close bone |  
+| bip_39_word_space_8 | before cover tuition execute tenant close bone keen |  
+| bip_39_word_space_9 | before cover tuition execute tenant close bone keen tiger |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

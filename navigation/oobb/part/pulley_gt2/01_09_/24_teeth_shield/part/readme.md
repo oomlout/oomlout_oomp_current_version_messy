@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 24_teeth_shield
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: issue team
+  * bip 39 word 3: issue team slide
+  * bip 39 word: issue team slide company recycle glide arena session curtain strategy toe ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | issue |  
+| bip_39_word_new_br10 | issue<br>team<br>slide<br>company<br>recycle<br>glide<br>arena<br>session<br>curtain<br>strategy |  
+| bip_39_word_new_br11 | issue<br>team<br>slide<br>company<br>recycle<br>glide<br>arena<br>session<br>curtain<br>strategy<br>toe |  
+| bip_39_word_new_br12 | issue<br>team<br>slide<br>company<br>recycle<br>glide<br>arena<br>session<br>curtain<br>strategy<br>toe<br>ahead |  
+| bip_39_word_new_br2 | issue<br>team |  
+| bip_39_word_new_br3 | issue<br>team<br>slide |  
+| bip_39_word_new_br4 | issue<br>team<br>slide<br>company |  
+| bip_39_word_new_br5 | issue<br>team<br>slide<br>company<br>recycle |  
+| bip_39_word_new_br6 | issue<br>team<br>slide<br>company<br>recycle<br>glide |  
+| bip_39_word_new_br7 | issue<br>team<br>slide<br>company<br>recycle<br>glide<br>arena |  
+| bip_39_word_new_br8 | issue<br>team<br>slide<br>company<br>recycle<br>glide<br>arena<br>session |  
+| bip_39_word_new_br9 | issue<br>team<br>slide<br>company<br>recycle<br>glide<br>arena<br>session<br>curtain |  
+| bip_39_word_new_line1 | issue |  
+| bip_39_word_new_line10 | issue
+team
+slide
+company
+recycle
+glide
+arena
+session
+curtain
+strategy |  
+| bip_39_word_new_line11 | issue
+team
+slide
+company
+recycle
+glide
+arena
+session
+curtain
+strategy
+toe |  
+| bip_39_word_new_line12 | issue
+team
+slide
+company
+recycle
+glide
+arena
+session
+curtain
+strategy
+toe
+ahead |  
+| bip_39_word_new_line2 | issue
+team |  
+| bip_39_word_new_line3 | issue
+team
+slide |  
+| bip_39_word_new_line4 | issue
+team
+slide
+company |  
+| bip_39_word_new_line5 | issue
+team
+slide
+company
+recycle |  
+| bip_39_word_new_line6 | issue
+team
+slide
+company
+recycle
+glide |  
+| bip_39_word_new_line7 | issue
+team
+slide
+company
+recycle
+glide
+arena |  
+| bip_39_word_new_line8 | issue
+team
+slide
+company
+recycle
+glide
+arena
+session |  
+| bip_39_word_new_line9 | issue
+team
+slide
+company
+recycle
+glide
+arena
+session
+curtain |  
+| bip_39_word_space_0 | ['issue', 'team', 'slide', 'company', 'recycle', 'glide', 'arena', 'session', 'curtain', 'strategy', 'toe', 'ahead'] |  
+| bip_39_word_space_1 | issue |  
+| bip_39_word_space_10 | issue team slide company recycle glide arena session curtain strategy |  
+| bip_39_word_space_11 | issue team slide company recycle glide arena session curtain strategy toe |  
+| bip_39_word_space_12 | issue team slide company recycle glide arena session curtain strategy toe ahead |  
+| bip_39_word_space_2 | issue team |  
+| bip_39_word_space_3 | issue team slide |  
+| bip_39_word_space_4 | issue team slide company |  
+| bip_39_word_space_5 | issue team slide company recycle |  
+| bip_39_word_space_6 | issue team slide company recycle glide |  
+| bip_39_word_space_7 | issue team slide company recycle glide arena |  
+| bip_39_word_space_8 | issue team slide company recycle glide arena session |  
+| bip_39_word_space_9 | issue team slide company recycle glide arena session curtain |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

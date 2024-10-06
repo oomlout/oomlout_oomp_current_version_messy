@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: nut_and_nut
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: special about
+  * bip 39 word 3: special about aerobic
+  * bip 39 word: special about aerobic mad air fork over magic code escape expire actress
 
 ### other_codes
 * short_code: so3b6nn
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | special |  
+| bip_39_word_new_br10 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape |  
+| bip_39_word_new_br11 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape<br>expire |  
+| bip_39_word_new_br12 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape<br>expire<br>actress |  
+| bip_39_word_new_br2 | special<br>about |  
+| bip_39_word_new_br3 | special<br>about<br>aerobic |  
+| bip_39_word_new_br4 | special<br>about<br>aerobic<br>mad |  
+| bip_39_word_new_br5 | special<br>about<br>aerobic<br>mad<br>air |  
+| bip_39_word_new_br6 | special<br>about<br>aerobic<br>mad<br>air<br>fork |  
+| bip_39_word_new_br7 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over |  
+| bip_39_word_new_br8 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic |  
+| bip_39_word_new_br9 | special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code |  
+| bip_39_word_new_line1 | special |  
+| bip_39_word_new_line10 | special
+about
+aerobic
+mad
+air
+fork
+over
+magic
+code
+escape |  
+| bip_39_word_new_line11 | special
+about
+aerobic
+mad
+air
+fork
+over
+magic
+code
+escape
+expire |  
+| bip_39_word_new_line12 | special
+about
+aerobic
+mad
+air
+fork
+over
+magic
+code
+escape
+expire
+actress |  
+| bip_39_word_new_line2 | special
+about |  
+| bip_39_word_new_line3 | special
+about
+aerobic |  
+| bip_39_word_new_line4 | special
+about
+aerobic
+mad |  
+| bip_39_word_new_line5 | special
+about
+aerobic
+mad
+air |  
+| bip_39_word_new_line6 | special
+about
+aerobic
+mad
+air
+fork |  
+| bip_39_word_new_line7 | special
+about
+aerobic
+mad
+air
+fork
+over |  
+| bip_39_word_new_line8 | special
+about
+aerobic
+mad
+air
+fork
+over
+magic |  
+| bip_39_word_new_line9 | special
+about
+aerobic
+mad
+air
+fork
+over
+magic
+code |  
+| bip_39_word_space_0 | ['special', 'about', 'aerobic', 'mad', 'air', 'fork', 'over', 'magic', 'code', 'escape', 'expire', 'actress'] |  
+| bip_39_word_space_1 | special |  
+| bip_39_word_space_10 | special about aerobic mad air fork over magic code escape |  
+| bip_39_word_space_11 | special about aerobic mad air fork over magic code escape expire |  
+| bip_39_word_space_12 | special about aerobic mad air fork over magic code escape expire actress |  
+| bip_39_word_space_2 | special about |  
+| bip_39_word_space_3 | special about aerobic |  
+| bip_39_word_space_4 | special about aerobic mad |  
+| bip_39_word_space_5 | special about aerobic mad air |  
+| bip_39_word_space_6 | special about aerobic mad air fork |  
+| bip_39_word_space_7 | special about aerobic mad air fork over |  
+| bip_39_word_space_8 | special about aerobic mad air fork over magic |  
+| bip_39_word_space_9 | special about aerobic mad air fork over magic code |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

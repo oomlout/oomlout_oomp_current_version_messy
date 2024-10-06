@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: noble bar
+  * bip 39 word 3: noble bar begin
+  * bip 39 word: noble bar begin across reopen earth vivid tape isolate trend portion attack
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | noble |  
+| bip_39_word_new_br10 | noble<br>bar<br>begin<br>across<br>reopen<br>earth<br>vivid<br>tape<br>isolate<br>trend |  
+| bip_39_word_new_br11 | noble<br>bar<br>begin<br>across<br>reopen<br>earth<br>vivid<br>tape<br>isolate<br>trend<br>portion |  
+| bip_39_word_new_br12 | noble<br>bar<br>begin<br>across<br>reopen<br>earth<br>vivid<br>tape<br>isolate<br>trend<br>portion<br>attack |  
+| bip_39_word_new_br2 | noble<br>bar |  
+| bip_39_word_new_br3 | noble<br>bar<br>begin |  
+| bip_39_word_new_br4 | noble<br>bar<br>begin<br>across |  
+| bip_39_word_new_br5 | noble<br>bar<br>begin<br>across<br>reopen |  
+| bip_39_word_new_br6 | noble<br>bar<br>begin<br>across<br>reopen<br>earth |  
+| bip_39_word_new_br7 | noble<br>bar<br>begin<br>across<br>reopen<br>earth<br>vivid |  
+| bip_39_word_new_br8 | noble<br>bar<br>begin<br>across<br>reopen<br>earth<br>vivid<br>tape |  
+| bip_39_word_new_br9 | noble<br>bar<br>begin<br>across<br>reopen<br>earth<br>vivid<br>tape<br>isolate |  
+| bip_39_word_new_line1 | noble |  
+| bip_39_word_new_line10 | noble
+bar
+begin
+across
+reopen
+earth
+vivid
+tape
+isolate
+trend |  
+| bip_39_word_new_line11 | noble
+bar
+begin
+across
+reopen
+earth
+vivid
+tape
+isolate
+trend
+portion |  
+| bip_39_word_new_line12 | noble
+bar
+begin
+across
+reopen
+earth
+vivid
+tape
+isolate
+trend
+portion
+attack |  
+| bip_39_word_new_line2 | noble
+bar |  
+| bip_39_word_new_line3 | noble
+bar
+begin |  
+| bip_39_word_new_line4 | noble
+bar
+begin
+across |  
+| bip_39_word_new_line5 | noble
+bar
+begin
+across
+reopen |  
+| bip_39_word_new_line6 | noble
+bar
+begin
+across
+reopen
+earth |  
+| bip_39_word_new_line7 | noble
+bar
+begin
+across
+reopen
+earth
+vivid |  
+| bip_39_word_new_line8 | noble
+bar
+begin
+across
+reopen
+earth
+vivid
+tape |  
+| bip_39_word_new_line9 | noble
+bar
+begin
+across
+reopen
+earth
+vivid
+tape
+isolate |  
+| bip_39_word_space_0 | ['noble', 'bar', 'begin', 'across', 'reopen', 'earth', 'vivid', 'tape', 'isolate', 'trend', 'portion', 'attack'] |  
+| bip_39_word_space_1 | noble |  
+| bip_39_word_space_10 | noble bar begin across reopen earth vivid tape isolate trend |  
+| bip_39_word_space_11 | noble bar begin across reopen earth vivid tape isolate trend portion |  
+| bip_39_word_space_12 | noble bar begin across reopen earth vivid tape isolate trend portion attack |  
+| bip_39_word_space_2 | noble bar |  
+| bip_39_word_space_3 | noble bar begin |  
+| bip_39_word_space_4 | noble bar begin across |  
+| bip_39_word_space_5 | noble bar begin across reopen |  
+| bip_39_word_space_6 | noble bar begin across reopen earth |  
+| bip_39_word_space_7 | noble bar begin across reopen earth vivid |  
+| bip_39_word_space_8 | noble bar begin across reopen earth vivid tape |  
+| bip_39_word_space_9 | noble bar begin across reopen earth vivid tape isolate |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

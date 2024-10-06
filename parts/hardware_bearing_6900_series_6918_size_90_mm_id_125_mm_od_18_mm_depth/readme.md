@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: enhance useless
+  * bip 39 word 3: enhance useless trend
+  * bip 39 word: enhance useless trend blast jealous social junior test benefit twist company absorb
 
 ### other_codes
 * short_code: br6918
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | enhance |  
+| bip_39_word_new_br10 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social<br>junior<br>test<br>benefit<br>twist |  
+| bip_39_word_new_br11 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social<br>junior<br>test<br>benefit<br>twist<br>company |  
+| bip_39_word_new_br12 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social<br>junior<br>test<br>benefit<br>twist<br>company<br>absorb |  
+| bip_39_word_new_br2 | enhance<br>useless |  
+| bip_39_word_new_br3 | enhance<br>useless<br>trend |  
+| bip_39_word_new_br4 | enhance<br>useless<br>trend<br>blast |  
+| bip_39_word_new_br5 | enhance<br>useless<br>trend<br>blast<br>jealous |  
+| bip_39_word_new_br6 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social |  
+| bip_39_word_new_br7 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social<br>junior |  
+| bip_39_word_new_br8 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social<br>junior<br>test |  
+| bip_39_word_new_br9 | enhance<br>useless<br>trend<br>blast<br>jealous<br>social<br>junior<br>test<br>benefit |  
+| bip_39_word_new_line1 | enhance |  
+| bip_39_word_new_line10 | enhance
+useless
+trend
+blast
+jealous
+social
+junior
+test
+benefit
+twist |  
+| bip_39_word_new_line11 | enhance
+useless
+trend
+blast
+jealous
+social
+junior
+test
+benefit
+twist
+company |  
+| bip_39_word_new_line12 | enhance
+useless
+trend
+blast
+jealous
+social
+junior
+test
+benefit
+twist
+company
+absorb |  
+| bip_39_word_new_line2 | enhance
+useless |  
+| bip_39_word_new_line3 | enhance
+useless
+trend |  
+| bip_39_word_new_line4 | enhance
+useless
+trend
+blast |  
+| bip_39_word_new_line5 | enhance
+useless
+trend
+blast
+jealous |  
+| bip_39_word_new_line6 | enhance
+useless
+trend
+blast
+jealous
+social |  
+| bip_39_word_new_line7 | enhance
+useless
+trend
+blast
+jealous
+social
+junior |  
+| bip_39_word_new_line8 | enhance
+useless
+trend
+blast
+jealous
+social
+junior
+test |  
+| bip_39_word_new_line9 | enhance
+useless
+trend
+blast
+jealous
+social
+junior
+test
+benefit |  
+| bip_39_word_space_0 | ['enhance', 'useless', 'trend', 'blast', 'jealous', 'social', 'junior', 'test', 'benefit', 'twist', 'company', 'absorb'] |  
+| bip_39_word_space_1 | enhance |  
+| bip_39_word_space_10 | enhance useless trend blast jealous social junior test benefit twist |  
+| bip_39_word_space_11 | enhance useless trend blast jealous social junior test benefit twist company |  
+| bip_39_word_space_12 | enhance useless trend blast jealous social junior test benefit twist company absorb |  
+| bip_39_word_space_2 | enhance useless |  
+| bip_39_word_space_3 | enhance useless trend |  
+| bip_39_word_space_4 | enhance useless trend blast |  
+| bip_39_word_space_5 | enhance useless trend blast jealous |  
+| bip_39_word_space_6 | enhance useless trend blast jealous social |  
+| bip_39_word_space_7 | enhance useless trend blast jealous social junior |  
+| bip_39_word_space_8 | enhance useless trend blast jealous social junior test |  
+| bip_39_word_space_9 | enhance useless trend blast jealous social junior test benefit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 40_teeth_sh_motor_n20
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mistake pole
+  * bip 39 word 3: mistake pole actual
+  * bip 39 word: mistake pole actual master brown fall tilt bread double meadow also arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mistake |  
+| bip_39_word_new_br10 | mistake<br>pole<br>actual<br>master<br>brown<br>fall<br>tilt<br>bread<br>double<br>meadow |  
+| bip_39_word_new_br11 | mistake<br>pole<br>actual<br>master<br>brown<br>fall<br>tilt<br>bread<br>double<br>meadow<br>also |  
+| bip_39_word_new_br12 | mistake<br>pole<br>actual<br>master<br>brown<br>fall<br>tilt<br>bread<br>double<br>meadow<br>also<br>arrange |  
+| bip_39_word_new_br2 | mistake<br>pole |  
+| bip_39_word_new_br3 | mistake<br>pole<br>actual |  
+| bip_39_word_new_br4 | mistake<br>pole<br>actual<br>master |  
+| bip_39_word_new_br5 | mistake<br>pole<br>actual<br>master<br>brown |  
+| bip_39_word_new_br6 | mistake<br>pole<br>actual<br>master<br>brown<br>fall |  
+| bip_39_word_new_br7 | mistake<br>pole<br>actual<br>master<br>brown<br>fall<br>tilt |  
+| bip_39_word_new_br8 | mistake<br>pole<br>actual<br>master<br>brown<br>fall<br>tilt<br>bread |  
+| bip_39_word_new_br9 | mistake<br>pole<br>actual<br>master<br>brown<br>fall<br>tilt<br>bread<br>double |  
+| bip_39_word_new_line1 | mistake |  
+| bip_39_word_new_line10 | mistake
+pole
+actual
+master
+brown
+fall
+tilt
+bread
+double
+meadow |  
+| bip_39_word_new_line11 | mistake
+pole
+actual
+master
+brown
+fall
+tilt
+bread
+double
+meadow
+also |  
+| bip_39_word_new_line12 | mistake
+pole
+actual
+master
+brown
+fall
+tilt
+bread
+double
+meadow
+also
+arrange |  
+| bip_39_word_new_line2 | mistake
+pole |  
+| bip_39_word_new_line3 | mistake
+pole
+actual |  
+| bip_39_word_new_line4 | mistake
+pole
+actual
+master |  
+| bip_39_word_new_line5 | mistake
+pole
+actual
+master
+brown |  
+| bip_39_word_new_line6 | mistake
+pole
+actual
+master
+brown
+fall |  
+| bip_39_word_new_line7 | mistake
+pole
+actual
+master
+brown
+fall
+tilt |  
+| bip_39_word_new_line8 | mistake
+pole
+actual
+master
+brown
+fall
+tilt
+bread |  
+| bip_39_word_new_line9 | mistake
+pole
+actual
+master
+brown
+fall
+tilt
+bread
+double |  
+| bip_39_word_space_0 | ['mistake', 'pole', 'actual', 'master', 'brown', 'fall', 'tilt', 'bread', 'double', 'meadow', 'also', 'arrange'] |  
+| bip_39_word_space_1 | mistake |  
+| bip_39_word_space_10 | mistake pole actual master brown fall tilt bread double meadow |  
+| bip_39_word_space_11 | mistake pole actual master brown fall tilt bread double meadow also |  
+| bip_39_word_space_12 | mistake pole actual master brown fall tilt bread double meadow also arrange |  
+| bip_39_word_space_2 | mistake pole |  
+| bip_39_word_space_3 | mistake pole actual |  
+| bip_39_word_space_4 | mistake pole actual master |  
+| bip_39_word_space_5 | mistake pole actual master brown |  
+| bip_39_word_space_6 | mistake pole actual master brown fall |  
+| bip_39_word_space_7 | mistake pole actual master brown fall tilt |  
+| bip_39_word_space_8 | mistake pole actual master brown fall tilt bread |  
+| bip_39_word_space_9 | mistake pole actual master brown fall tilt bread double |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

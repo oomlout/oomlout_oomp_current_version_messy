@@ -1,3 +1,186 @@
+bip_39_word_new_br1: blush
+bip_39_word_new_br10: blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb
+bip_39_word_new_br11: blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb<br>throw
+bip_39_word_new_br12: blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle<br>thumb<br>throw<br>aunt
+bip_39_word_new_br2: blush<br>real
+bip_39_word_new_br3: blush<br>real<br>rail
+bip_39_word_new_br4: blush<br>real<br>rail<br>patient
+bip_39_word_new_br5: blush<br>real<br>rail<br>patient<br>wing
+bip_39_word_new_br6: blush<br>real<br>rail<br>patient<br>wing<br>job
+bip_39_word_new_br7: blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard
+bip_39_word_new_br8: blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert
+bip_39_word_new_br9: blush<br>real<br>rail<br>patient<br>wing<br>job<br>leopard<br>divert<br>battle
+bip_39_word_new_line1: blush
+bip_39_word_new_line10: 'blush
+
+  real
+
+  rail
+
+  patient
+
+  wing
+
+  job
+
+  leopard
+
+  divert
+
+  battle
+
+  thumb'
+bip_39_word_new_line11: 'blush
+
+  real
+
+  rail
+
+  patient
+
+  wing
+
+  job
+
+  leopard
+
+  divert
+
+  battle
+
+  thumb
+
+  throw'
+bip_39_word_new_line12: 'blush
+
+  real
+
+  rail
+
+  patient
+
+  wing
+
+  job
+
+  leopard
+
+  divert
+
+  battle
+
+  thumb
+
+  throw
+
+  aunt'
+bip_39_word_new_line2: 'blush
+
+  real'
+bip_39_word_new_line3: 'blush
+
+  real
+
+  rail'
+bip_39_word_new_line4: 'blush
+
+  real
+
+  rail
+
+  patient'
+bip_39_word_new_line5: 'blush
+
+  real
+
+  rail
+
+  patient
+
+  wing'
+bip_39_word_new_line6: 'blush
+
+  real
+
+  rail
+
+  patient
+
+  wing
+
+  job'
+bip_39_word_new_line7: 'blush
+
+  real
+
+  rail
+
+  patient
+
+  wing
+
+  job
+
+  leopard'
+bip_39_word_new_line8: 'blush
+
+  real
+
+  rail
+
+  patient
+
+  wing
+
+  job
+
+  leopard
+
+  divert'
+bip_39_word_new_line9: 'blush
+
+  real
+
+  rail
+
+  patient
+
+  wing
+
+  job
+
+  leopard
+
+  divert
+
+  battle'
+bip_39_word_space_0:
+- blush
+- real
+- rail
+- patient
+- wing
+- job
+- leopard
+- divert
+- battle
+- thumb
+- throw
+- aunt
+bip_39_word_space_1: blush
+bip_39_word_space_10: blush real rail patient wing job leopard divert battle thumb
+bip_39_word_space_11: blush real rail patient wing job leopard divert battle thumb
+  throw
+bip_39_word_space_12: blush real rail patient wing job leopard divert battle thumb
+  throw aunt
+bip_39_word_space_2: blush real
+bip_39_word_space_3: blush real rail
+bip_39_word_space_4: blush real rail patient
+bip_39_word_space_5: blush real rail patient wing
+bip_39_word_space_6: blush real rail patient wing job
+bip_39_word_space_7: blush real rail patient wing job leopard
+bip_39_word_space_8: blush real rail patient wing job leopard divert
+bip_39_word_space_9: blush real rail patient wing job leopard divert battle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -1,3 +1,187 @@
+bip_39_word_new_br1: perfect
+bip_39_word_new_br10: perfect<br>mountain<br>company<br>blood<br>match<br>main<br>road<br>sheriff<br>supply<br>pumpkin
+bip_39_word_new_br11: perfect<br>mountain<br>company<br>blood<br>match<br>main<br>road<br>sheriff<br>supply<br>pumpkin<br>mind
+bip_39_word_new_br12: perfect<br>mountain<br>company<br>blood<br>match<br>main<br>road<br>sheriff<br>supply<br>pumpkin<br>mind<br>any
+bip_39_word_new_br2: perfect<br>mountain
+bip_39_word_new_br3: perfect<br>mountain<br>company
+bip_39_word_new_br4: perfect<br>mountain<br>company<br>blood
+bip_39_word_new_br5: perfect<br>mountain<br>company<br>blood<br>match
+bip_39_word_new_br6: perfect<br>mountain<br>company<br>blood<br>match<br>main
+bip_39_word_new_br7: perfect<br>mountain<br>company<br>blood<br>match<br>main<br>road
+bip_39_word_new_br8: perfect<br>mountain<br>company<br>blood<br>match<br>main<br>road<br>sheriff
+bip_39_word_new_br9: perfect<br>mountain<br>company<br>blood<br>match<br>main<br>road<br>sheriff<br>supply
+bip_39_word_new_line1: perfect
+bip_39_word_new_line10: 'perfect
+
+  mountain
+
+  company
+
+  blood
+
+  match
+
+  main
+
+  road
+
+  sheriff
+
+  supply
+
+  pumpkin'
+bip_39_word_new_line11: 'perfect
+
+  mountain
+
+  company
+
+  blood
+
+  match
+
+  main
+
+  road
+
+  sheriff
+
+  supply
+
+  pumpkin
+
+  mind'
+bip_39_word_new_line12: 'perfect
+
+  mountain
+
+  company
+
+  blood
+
+  match
+
+  main
+
+  road
+
+  sheriff
+
+  supply
+
+  pumpkin
+
+  mind
+
+  any'
+bip_39_word_new_line2: 'perfect
+
+  mountain'
+bip_39_word_new_line3: 'perfect
+
+  mountain
+
+  company'
+bip_39_word_new_line4: 'perfect
+
+  mountain
+
+  company
+
+  blood'
+bip_39_word_new_line5: 'perfect
+
+  mountain
+
+  company
+
+  blood
+
+  match'
+bip_39_word_new_line6: 'perfect
+
+  mountain
+
+  company
+
+  blood
+
+  match
+
+  main'
+bip_39_word_new_line7: 'perfect
+
+  mountain
+
+  company
+
+  blood
+
+  match
+
+  main
+
+  road'
+bip_39_word_new_line8: 'perfect
+
+  mountain
+
+  company
+
+  blood
+
+  match
+
+  main
+
+  road
+
+  sheriff'
+bip_39_word_new_line9: 'perfect
+
+  mountain
+
+  company
+
+  blood
+
+  match
+
+  main
+
+  road
+
+  sheriff
+
+  supply'
+bip_39_word_space_0:
+- perfect
+- mountain
+- company
+- blood
+- match
+- main
+- road
+- sheriff
+- supply
+- pumpkin
+- mind
+- any
+bip_39_word_space_1: perfect
+bip_39_word_space_10: perfect mountain company blood match main road sheriff supply
+  pumpkin
+bip_39_word_space_11: perfect mountain company blood match main road sheriff supply
+  pumpkin mind
+bip_39_word_space_12: perfect mountain company blood match main road sheriff supply
+  pumpkin mind any
+bip_39_word_space_2: perfect mountain
+bip_39_word_space_3: perfect mountain company
+bip_39_word_space_4: perfect mountain company blood
+bip_39_word_space_5: perfect mountain company blood match
+bip_39_word_space_6: perfect mountain company blood match main
+bip_39_word_space_7: perfect mountain company blood match main road
+bip_39_word_space_8: perfect mountain company blood match main road sheriff
+bip_39_word_space_9: perfect mountain company blood match main road sheriff supply
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

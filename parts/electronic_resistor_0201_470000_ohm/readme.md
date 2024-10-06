@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: silent reopen
+  * bip 39 word 3: silent reopen quiz
+  * bip 39 word: silent reopen quiz state torch equal owner predict turn please special atom
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | silent |  
+| bip_39_word_new_br10 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please |  
+| bip_39_word_new_br11 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please<br>special |  
+| bip_39_word_new_br12 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn<br>please<br>special<br>atom |  
+| bip_39_word_new_br2 | silent<br>reopen |  
+| bip_39_word_new_br3 | silent<br>reopen<br>quiz |  
+| bip_39_word_new_br4 | silent<br>reopen<br>quiz<br>state |  
+| bip_39_word_new_br5 | silent<br>reopen<br>quiz<br>state<br>torch |  
+| bip_39_word_new_br6 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal |  
+| bip_39_word_new_br7 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner |  
+| bip_39_word_new_br8 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict |  
+| bip_39_word_new_br9 | silent<br>reopen<br>quiz<br>state<br>torch<br>equal<br>owner<br>predict<br>turn |  
+| bip_39_word_new_line1 | silent |  
+| bip_39_word_new_line10 | silent
+reopen
+quiz
+state
+torch
+equal
+owner
+predict
+turn
+please |  
+| bip_39_word_new_line11 | silent
+reopen
+quiz
+state
+torch
+equal
+owner
+predict
+turn
+please
+special |  
+| bip_39_word_new_line12 | silent
+reopen
+quiz
+state
+torch
+equal
+owner
+predict
+turn
+please
+special
+atom |  
+| bip_39_word_new_line2 | silent
+reopen |  
+| bip_39_word_new_line3 | silent
+reopen
+quiz |  
+| bip_39_word_new_line4 | silent
+reopen
+quiz
+state |  
+| bip_39_word_new_line5 | silent
+reopen
+quiz
+state
+torch |  
+| bip_39_word_new_line6 | silent
+reopen
+quiz
+state
+torch
+equal |  
+| bip_39_word_new_line7 | silent
+reopen
+quiz
+state
+torch
+equal
+owner |  
+| bip_39_word_new_line8 | silent
+reopen
+quiz
+state
+torch
+equal
+owner
+predict |  
+| bip_39_word_new_line9 | silent
+reopen
+quiz
+state
+torch
+equal
+owner
+predict
+turn |  
+| bip_39_word_space_0 | ['silent', 'reopen', 'quiz', 'state', 'torch', 'equal', 'owner', 'predict', 'turn', 'please', 'special', 'atom'] |  
+| bip_39_word_space_1 | silent |  
+| bip_39_word_space_10 | silent reopen quiz state torch equal owner predict turn please |  
+| bip_39_word_space_11 | silent reopen quiz state torch equal owner predict turn please special |  
+| bip_39_word_space_12 | silent reopen quiz state torch equal owner predict turn please special atom |  
+| bip_39_word_space_2 | silent reopen |  
+| bip_39_word_space_3 | silent reopen quiz |  
+| bip_39_word_space_4 | silent reopen quiz state |  
+| bip_39_word_space_5 | silent reopen quiz state torch |  
+| bip_39_word_space_6 | silent reopen quiz state torch equal |  
+| bip_39_word_space_7 | silent reopen quiz state torch equal owner |  
+| bip_39_word_space_8 | silent reopen quiz state torch equal owner predict |  
+| bip_39_word_space_9 | silent reopen quiz state torch equal owner predict turn |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

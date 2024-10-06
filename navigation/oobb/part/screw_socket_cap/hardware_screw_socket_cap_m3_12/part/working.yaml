@@ -1,3 +1,186 @@
+bip_39_word_new_br1: sick
+bip_39_word_new_br10: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius
+bip_39_word_new_br11: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius<br>ship
+bip_39_word_new_br12: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold<br>genius<br>ship<br>affair
+bip_39_word_new_br2: sick<br>flock
+bip_39_word_new_br3: sick<br>flock<br>they
+bip_39_word_new_br4: sick<br>flock<br>they<br>slow
+bip_39_word_new_br5: sick<br>flock<br>they<br>slow<br>ginger
+bip_39_word_new_br6: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow
+bip_39_word_new_br7: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major
+bip_39_word_new_br8: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee
+bip_39_word_new_br9: sick<br>flock<br>they<br>slow<br>ginger<br>eyebrow<br>major<br>nominee<br>hold
+bip_39_word_new_line1: sick
+bip_39_word_new_line10: 'sick
+
+  flock
+
+  they
+
+  slow
+
+  ginger
+
+  eyebrow
+
+  major
+
+  nominee
+
+  hold
+
+  genius'
+bip_39_word_new_line11: 'sick
+
+  flock
+
+  they
+
+  slow
+
+  ginger
+
+  eyebrow
+
+  major
+
+  nominee
+
+  hold
+
+  genius
+
+  ship'
+bip_39_word_new_line12: 'sick
+
+  flock
+
+  they
+
+  slow
+
+  ginger
+
+  eyebrow
+
+  major
+
+  nominee
+
+  hold
+
+  genius
+
+  ship
+
+  affair'
+bip_39_word_new_line2: 'sick
+
+  flock'
+bip_39_word_new_line3: 'sick
+
+  flock
+
+  they'
+bip_39_word_new_line4: 'sick
+
+  flock
+
+  they
+
+  slow'
+bip_39_word_new_line5: 'sick
+
+  flock
+
+  they
+
+  slow
+
+  ginger'
+bip_39_word_new_line6: 'sick
+
+  flock
+
+  they
+
+  slow
+
+  ginger
+
+  eyebrow'
+bip_39_word_new_line7: 'sick
+
+  flock
+
+  they
+
+  slow
+
+  ginger
+
+  eyebrow
+
+  major'
+bip_39_word_new_line8: 'sick
+
+  flock
+
+  they
+
+  slow
+
+  ginger
+
+  eyebrow
+
+  major
+
+  nominee'
+bip_39_word_new_line9: 'sick
+
+  flock
+
+  they
+
+  slow
+
+  ginger
+
+  eyebrow
+
+  major
+
+  nominee
+
+  hold'
+bip_39_word_space_0:
+- sick
+- flock
+- they
+- slow
+- ginger
+- eyebrow
+- major
+- nominee
+- hold
+- genius
+- ship
+- affair
+bip_39_word_space_1: sick
+bip_39_word_space_10: sick flock they slow ginger eyebrow major nominee hold genius
+bip_39_word_space_11: sick flock they slow ginger eyebrow major nominee hold genius
+  ship
+bip_39_word_space_12: sick flock they slow ginger eyebrow major nominee hold genius
+  ship affair
+bip_39_word_space_2: sick flock
+bip_39_word_space_3: sick flock they
+bip_39_word_space_4: sick flock they slow
+bip_39_word_space_5: sick flock they slow ginger
+bip_39_word_space_6: sick flock they slow ginger eyebrow
+bip_39_word_space_7: sick flock they slow ginger eyebrow major
+bip_39_word_space_8: sick flock they slow ginger eyebrow major nominee
+bip_39_word_space_9: sick flock they slow ginger eyebrow major nominee hold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

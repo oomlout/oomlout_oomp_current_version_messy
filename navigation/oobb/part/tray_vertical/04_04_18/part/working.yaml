@@ -1,3 +1,186 @@
+bip_39_word_new_br1: double
+bip_39_word_new_br10: double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind
+bip_39_word_new_br11: double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind<br>armor
+bip_39_word_new_br12: double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar<br>remind<br>armor<br>auction
+bip_39_word_new_br2: double<br>baby
+bip_39_word_new_br3: double<br>baby<br>brand
+bip_39_word_new_br4: double<br>baby<br>brand<br>frost
+bip_39_word_new_br5: double<br>baby<br>brand<br>frost<br>phone
+bip_39_word_new_br6: double<br>baby<br>brand<br>frost<br>phone<br>surge
+bip_39_word_new_br7: double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet
+bip_39_word_new_br8: double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless
+bip_39_word_new_br9: double<br>baby<br>brand<br>frost<br>phone<br>surge<br>toilet<br>useless<br>cigar
+bip_39_word_new_line1: double
+bip_39_word_new_line10: 'double
+
+  baby
+
+  brand
+
+  frost
+
+  phone
+
+  surge
+
+  toilet
+
+  useless
+
+  cigar
+
+  remind'
+bip_39_word_new_line11: 'double
+
+  baby
+
+  brand
+
+  frost
+
+  phone
+
+  surge
+
+  toilet
+
+  useless
+
+  cigar
+
+  remind
+
+  armor'
+bip_39_word_new_line12: 'double
+
+  baby
+
+  brand
+
+  frost
+
+  phone
+
+  surge
+
+  toilet
+
+  useless
+
+  cigar
+
+  remind
+
+  armor
+
+  auction'
+bip_39_word_new_line2: 'double
+
+  baby'
+bip_39_word_new_line3: 'double
+
+  baby
+
+  brand'
+bip_39_word_new_line4: 'double
+
+  baby
+
+  brand
+
+  frost'
+bip_39_word_new_line5: 'double
+
+  baby
+
+  brand
+
+  frost
+
+  phone'
+bip_39_word_new_line6: 'double
+
+  baby
+
+  brand
+
+  frost
+
+  phone
+
+  surge'
+bip_39_word_new_line7: 'double
+
+  baby
+
+  brand
+
+  frost
+
+  phone
+
+  surge
+
+  toilet'
+bip_39_word_new_line8: 'double
+
+  baby
+
+  brand
+
+  frost
+
+  phone
+
+  surge
+
+  toilet
+
+  useless'
+bip_39_word_new_line9: 'double
+
+  baby
+
+  brand
+
+  frost
+
+  phone
+
+  surge
+
+  toilet
+
+  useless
+
+  cigar'
+bip_39_word_space_0:
+- double
+- baby
+- brand
+- frost
+- phone
+- surge
+- toilet
+- useless
+- cigar
+- remind
+- armor
+- auction
+bip_39_word_space_1: double
+bip_39_word_space_10: double baby brand frost phone surge toilet useless cigar remind
+bip_39_word_space_11: double baby brand frost phone surge toilet useless cigar remind
+  armor
+bip_39_word_space_12: double baby brand frost phone surge toilet useless cigar remind
+  armor auction
+bip_39_word_space_2: double baby
+bip_39_word_space_3: double baby brand
+bip_39_word_space_4: double baby brand frost
+bip_39_word_space_5: double baby brand frost phone
+bip_39_word_space_6: double baby brand frost phone surge
+bip_39_word_space_7: double baby brand frost phone surge toilet
+bip_39_word_space_8: double baby brand frost phone surge toilet useless
+bip_39_word_space_9: double baby brand frost phone surge toilet useless cigar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

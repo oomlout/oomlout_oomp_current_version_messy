@@ -1,3 +1,186 @@
+bip_39_word_new_br1: vivid
+bip_39_word_new_br10: vivid<br>pioneer<br>grass<br>fetch<br>will<br>tape<br>music<br>oppose<br>short<br>dove
+bip_39_word_new_br11: vivid<br>pioneer<br>grass<br>fetch<br>will<br>tape<br>music<br>oppose<br>short<br>dove<br>shy
+bip_39_word_new_br12: vivid<br>pioneer<br>grass<br>fetch<br>will<br>tape<br>music<br>oppose<br>short<br>dove<br>shy<br>account
+bip_39_word_new_br2: vivid<br>pioneer
+bip_39_word_new_br3: vivid<br>pioneer<br>grass
+bip_39_word_new_br4: vivid<br>pioneer<br>grass<br>fetch
+bip_39_word_new_br5: vivid<br>pioneer<br>grass<br>fetch<br>will
+bip_39_word_new_br6: vivid<br>pioneer<br>grass<br>fetch<br>will<br>tape
+bip_39_word_new_br7: vivid<br>pioneer<br>grass<br>fetch<br>will<br>tape<br>music
+bip_39_word_new_br8: vivid<br>pioneer<br>grass<br>fetch<br>will<br>tape<br>music<br>oppose
+bip_39_word_new_br9: vivid<br>pioneer<br>grass<br>fetch<br>will<br>tape<br>music<br>oppose<br>short
+bip_39_word_new_line1: vivid
+bip_39_word_new_line10: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch
+
+  will
+
+  tape
+
+  music
+
+  oppose
+
+  short
+
+  dove'
+bip_39_word_new_line11: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch
+
+  will
+
+  tape
+
+  music
+
+  oppose
+
+  short
+
+  dove
+
+  shy'
+bip_39_word_new_line12: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch
+
+  will
+
+  tape
+
+  music
+
+  oppose
+
+  short
+
+  dove
+
+  shy
+
+  account'
+bip_39_word_new_line2: 'vivid
+
+  pioneer'
+bip_39_word_new_line3: 'vivid
+
+  pioneer
+
+  grass'
+bip_39_word_new_line4: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch'
+bip_39_word_new_line5: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch
+
+  will'
+bip_39_word_new_line6: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch
+
+  will
+
+  tape'
+bip_39_word_new_line7: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch
+
+  will
+
+  tape
+
+  music'
+bip_39_word_new_line8: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch
+
+  will
+
+  tape
+
+  music
+
+  oppose'
+bip_39_word_new_line9: 'vivid
+
+  pioneer
+
+  grass
+
+  fetch
+
+  will
+
+  tape
+
+  music
+
+  oppose
+
+  short'
+bip_39_word_space_0:
+- vivid
+- pioneer
+- grass
+- fetch
+- will
+- tape
+- music
+- oppose
+- short
+- dove
+- shy
+- account
+bip_39_word_space_1: vivid
+bip_39_word_space_10: vivid pioneer grass fetch will tape music oppose short dove
+bip_39_word_space_11: vivid pioneer grass fetch will tape music oppose short dove
+  shy
+bip_39_word_space_12: vivid pioneer grass fetch will tape music oppose short dove
+  shy account
+bip_39_word_space_2: vivid pioneer
+bip_39_word_space_3: vivid pioneer grass
+bip_39_word_space_4: vivid pioneer grass fetch
+bip_39_word_space_5: vivid pioneer grass fetch will
+bip_39_word_space_6: vivid pioneer grass fetch will tape
+bip_39_word_space_7: vivid pioneer grass fetch will tape music
+bip_39_word_space_8: vivid pioneer grass fetch will tape music oppose
+bip_39_word_space_9: vivid pioneer grass fetch will tape music oppose short
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

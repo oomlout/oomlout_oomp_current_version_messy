@@ -1,3 +1,186 @@
+bip_39_word_new_br1: talk
+bip_39_word_new_br10: talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor
+bip_39_word_new_br11: talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor<br>agree
+bip_39_word_new_br12: talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid<br>razor<br>agree<br>apple
+bip_39_word_new_br2: talk<br>post
+bip_39_word_new_br3: talk<br>post<br>argue
+bip_39_word_new_br4: talk<br>post<br>argue<br>outer
+bip_39_word_new_br5: talk<br>post<br>argue<br>outer<br>when
+bip_39_word_new_br6: talk<br>post<br>argue<br>outer<br>when<br>genre
+bip_39_word_new_br7: talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger
+bip_39_word_new_br8: talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch
+bip_39_word_new_br9: talk<br>post<br>argue<br>outer<br>when<br>genre<br>finger<br>catch<br>pyramid
+bip_39_word_new_line1: talk
+bip_39_word_new_line10: 'talk
+
+  post
+
+  argue
+
+  outer
+
+  when
+
+  genre
+
+  finger
+
+  catch
+
+  pyramid
+
+  razor'
+bip_39_word_new_line11: 'talk
+
+  post
+
+  argue
+
+  outer
+
+  when
+
+  genre
+
+  finger
+
+  catch
+
+  pyramid
+
+  razor
+
+  agree'
+bip_39_word_new_line12: 'talk
+
+  post
+
+  argue
+
+  outer
+
+  when
+
+  genre
+
+  finger
+
+  catch
+
+  pyramid
+
+  razor
+
+  agree
+
+  apple'
+bip_39_word_new_line2: 'talk
+
+  post'
+bip_39_word_new_line3: 'talk
+
+  post
+
+  argue'
+bip_39_word_new_line4: 'talk
+
+  post
+
+  argue
+
+  outer'
+bip_39_word_new_line5: 'talk
+
+  post
+
+  argue
+
+  outer
+
+  when'
+bip_39_word_new_line6: 'talk
+
+  post
+
+  argue
+
+  outer
+
+  when
+
+  genre'
+bip_39_word_new_line7: 'talk
+
+  post
+
+  argue
+
+  outer
+
+  when
+
+  genre
+
+  finger'
+bip_39_word_new_line8: 'talk
+
+  post
+
+  argue
+
+  outer
+
+  when
+
+  genre
+
+  finger
+
+  catch'
+bip_39_word_new_line9: 'talk
+
+  post
+
+  argue
+
+  outer
+
+  when
+
+  genre
+
+  finger
+
+  catch
+
+  pyramid'
+bip_39_word_space_0:
+- talk
+- post
+- argue
+- outer
+- when
+- genre
+- finger
+- catch
+- pyramid
+- razor
+- agree
+- apple
+bip_39_word_space_1: talk
+bip_39_word_space_10: talk post argue outer when genre finger catch pyramid razor
+bip_39_word_space_11: talk post argue outer when genre finger catch pyramid razor
+  agree
+bip_39_word_space_12: talk post argue outer when genre finger catch pyramid razor
+  agree apple
+bip_39_word_space_2: talk post
+bip_39_word_space_3: talk post argue
+bip_39_word_space_4: talk post argue outer
+bip_39_word_space_5: talk post argue outer when
+bip_39_word_space_6: talk post argue outer when genre
+bip_39_word_space_7: talk post argue outer when genre finger
+bip_39_word_space_8: talk post argue outer when genre finger catch
+bip_39_word_space_9: talk post argue outer when genre finger catch pyramid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

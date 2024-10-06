@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brief cost
+  * bip 39 word 3: brief cost scissors
+  * bip 39 word: brief cost scissors identify item width find civil inhale truly innocent angle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brief |  
+| bip_39_word_new_br10 | brief<br>cost<br>scissors<br>identify<br>item<br>width<br>find<br>civil<br>inhale<br>truly |  
+| bip_39_word_new_br11 | brief<br>cost<br>scissors<br>identify<br>item<br>width<br>find<br>civil<br>inhale<br>truly<br>innocent |  
+| bip_39_word_new_br12 | brief<br>cost<br>scissors<br>identify<br>item<br>width<br>find<br>civil<br>inhale<br>truly<br>innocent<br>angle |  
+| bip_39_word_new_br2 | brief<br>cost |  
+| bip_39_word_new_br3 | brief<br>cost<br>scissors |  
+| bip_39_word_new_br4 | brief<br>cost<br>scissors<br>identify |  
+| bip_39_word_new_br5 | brief<br>cost<br>scissors<br>identify<br>item |  
+| bip_39_word_new_br6 | brief<br>cost<br>scissors<br>identify<br>item<br>width |  
+| bip_39_word_new_br7 | brief<br>cost<br>scissors<br>identify<br>item<br>width<br>find |  
+| bip_39_word_new_br8 | brief<br>cost<br>scissors<br>identify<br>item<br>width<br>find<br>civil |  
+| bip_39_word_new_br9 | brief<br>cost<br>scissors<br>identify<br>item<br>width<br>find<br>civil<br>inhale |  
+| bip_39_word_new_line1 | brief |  
+| bip_39_word_new_line10 | brief
+cost
+scissors
+identify
+item
+width
+find
+civil
+inhale
+truly |  
+| bip_39_word_new_line11 | brief
+cost
+scissors
+identify
+item
+width
+find
+civil
+inhale
+truly
+innocent |  
+| bip_39_word_new_line12 | brief
+cost
+scissors
+identify
+item
+width
+find
+civil
+inhale
+truly
+innocent
+angle |  
+| bip_39_word_new_line2 | brief
+cost |  
+| bip_39_word_new_line3 | brief
+cost
+scissors |  
+| bip_39_word_new_line4 | brief
+cost
+scissors
+identify |  
+| bip_39_word_new_line5 | brief
+cost
+scissors
+identify
+item |  
+| bip_39_word_new_line6 | brief
+cost
+scissors
+identify
+item
+width |  
+| bip_39_word_new_line7 | brief
+cost
+scissors
+identify
+item
+width
+find |  
+| bip_39_word_new_line8 | brief
+cost
+scissors
+identify
+item
+width
+find
+civil |  
+| bip_39_word_new_line9 | brief
+cost
+scissors
+identify
+item
+width
+find
+civil
+inhale |  
+| bip_39_word_space_0 | ['brief', 'cost', 'scissors', 'identify', 'item', 'width', 'find', 'civil', 'inhale', 'truly', 'innocent', 'angle'] |  
+| bip_39_word_space_1 | brief |  
+| bip_39_word_space_10 | brief cost scissors identify item width find civil inhale truly |  
+| bip_39_word_space_11 | brief cost scissors identify item width find civil inhale truly innocent |  
+| bip_39_word_space_12 | brief cost scissors identify item width find civil inhale truly innocent angle |  
+| bip_39_word_space_2 | brief cost |  
+| bip_39_word_space_3 | brief cost scissors |  
+| bip_39_word_space_4 | brief cost scissors identify |  
+| bip_39_word_space_5 | brief cost scissors identify item |  
+| bip_39_word_space_6 | brief cost scissors identify item width |  
+| bip_39_word_space_7 | brief cost scissors identify item width find |  
+| bip_39_word_space_8 | brief cost scissors identify item width find civil |  
+| bip_39_word_space_9 | brief cost scissors identify item width find civil inhale |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

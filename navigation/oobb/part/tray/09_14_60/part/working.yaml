@@ -1,3 +1,186 @@
+bip_39_word_new_br1: convince
+bip_39_word_new_br10: convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy
+bip_39_word_new_br11: convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy<br>innocent
+bip_39_word_new_br12: convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse<br>joy<br>innocent<br>action
+bip_39_word_new_br2: convince<br>solar
+bip_39_word_new_br3: convince<br>solar<br>crater
+bip_39_word_new_br4: convince<br>solar<br>crater<br>miss
+bip_39_word_new_br5: convince<br>solar<br>crater<br>miss<br>noodle
+bip_39_word_new_br6: convince<br>solar<br>crater<br>miss<br>noodle<br>range
+bip_39_word_new_br7: convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn
+bip_39_word_new_br8: convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen
+bip_39_word_new_br9: convince<br>solar<br>crater<br>miss<br>noodle<br>range<br>spawn<br>hen<br>refuse
+bip_39_word_new_line1: convince
+bip_39_word_new_line10: 'convince
+
+  solar
+
+  crater
+
+  miss
+
+  noodle
+
+  range
+
+  spawn
+
+  hen
+
+  refuse
+
+  joy'
+bip_39_word_new_line11: 'convince
+
+  solar
+
+  crater
+
+  miss
+
+  noodle
+
+  range
+
+  spawn
+
+  hen
+
+  refuse
+
+  joy
+
+  innocent'
+bip_39_word_new_line12: 'convince
+
+  solar
+
+  crater
+
+  miss
+
+  noodle
+
+  range
+
+  spawn
+
+  hen
+
+  refuse
+
+  joy
+
+  innocent
+
+  action'
+bip_39_word_new_line2: 'convince
+
+  solar'
+bip_39_word_new_line3: 'convince
+
+  solar
+
+  crater'
+bip_39_word_new_line4: 'convince
+
+  solar
+
+  crater
+
+  miss'
+bip_39_word_new_line5: 'convince
+
+  solar
+
+  crater
+
+  miss
+
+  noodle'
+bip_39_word_new_line6: 'convince
+
+  solar
+
+  crater
+
+  miss
+
+  noodle
+
+  range'
+bip_39_word_new_line7: 'convince
+
+  solar
+
+  crater
+
+  miss
+
+  noodle
+
+  range
+
+  spawn'
+bip_39_word_new_line8: 'convince
+
+  solar
+
+  crater
+
+  miss
+
+  noodle
+
+  range
+
+  spawn
+
+  hen'
+bip_39_word_new_line9: 'convince
+
+  solar
+
+  crater
+
+  miss
+
+  noodle
+
+  range
+
+  spawn
+
+  hen
+
+  refuse'
+bip_39_word_space_0:
+- convince
+- solar
+- crater
+- miss
+- noodle
+- range
+- spawn
+- hen
+- refuse
+- joy
+- innocent
+- action
+bip_39_word_space_1: convince
+bip_39_word_space_10: convince solar crater miss noodle range spawn hen refuse joy
+bip_39_word_space_11: convince solar crater miss noodle range spawn hen refuse joy
+  innocent
+bip_39_word_space_12: convince solar crater miss noodle range spawn hen refuse joy
+  innocent action
+bip_39_word_space_2: convince solar
+bip_39_word_space_3: convince solar crater
+bip_39_word_space_4: convince solar crater miss
+bip_39_word_space_5: convince solar crater miss noodle
+bip_39_word_space_6: convince solar crater miss noodle range
+bip_39_word_space_7: convince solar crater miss noodle range spawn
+bip_39_word_space_8: convince solar crater miss noodle range spawn hen
+bip_39_word_space_9: convince solar crater miss noodle range spawn hen refuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

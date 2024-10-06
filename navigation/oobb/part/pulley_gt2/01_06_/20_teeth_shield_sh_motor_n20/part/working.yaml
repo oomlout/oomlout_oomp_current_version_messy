@@ -1,3 +1,186 @@
+bip_39_word_new_br1: decide
+bip_39_word_new_br10: decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit
+bip_39_word_new_br11: decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit<br>aerobic
+bip_39_word_new_br12: decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring<br>submit<br>aerobic<br>agent
+bip_39_word_new_br2: decide<br>cargo
+bip_39_word_new_br3: decide<br>cargo<br>rival
+bip_39_word_new_br4: decide<br>cargo<br>rival<br>stumble
+bip_39_word_new_br5: decide<br>cargo<br>rival<br>stumble<br>play
+bip_39_word_new_br6: decide<br>cargo<br>rival<br>stumble<br>play<br>profit
+bip_39_word_new_br7: decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda
+bip_39_word_new_br8: decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush
+bip_39_word_new_br9: decide<br>cargo<br>rival<br>stumble<br>play<br>profit<br>panda<br>brush<br>ring
+bip_39_word_new_line1: decide
+bip_39_word_new_line10: 'decide
+
+  cargo
+
+  rival
+
+  stumble
+
+  play
+
+  profit
+
+  panda
+
+  brush
+
+  ring
+
+  submit'
+bip_39_word_new_line11: 'decide
+
+  cargo
+
+  rival
+
+  stumble
+
+  play
+
+  profit
+
+  panda
+
+  brush
+
+  ring
+
+  submit
+
+  aerobic'
+bip_39_word_new_line12: 'decide
+
+  cargo
+
+  rival
+
+  stumble
+
+  play
+
+  profit
+
+  panda
+
+  brush
+
+  ring
+
+  submit
+
+  aerobic
+
+  agent'
+bip_39_word_new_line2: 'decide
+
+  cargo'
+bip_39_word_new_line3: 'decide
+
+  cargo
+
+  rival'
+bip_39_word_new_line4: 'decide
+
+  cargo
+
+  rival
+
+  stumble'
+bip_39_word_new_line5: 'decide
+
+  cargo
+
+  rival
+
+  stumble
+
+  play'
+bip_39_word_new_line6: 'decide
+
+  cargo
+
+  rival
+
+  stumble
+
+  play
+
+  profit'
+bip_39_word_new_line7: 'decide
+
+  cargo
+
+  rival
+
+  stumble
+
+  play
+
+  profit
+
+  panda'
+bip_39_word_new_line8: 'decide
+
+  cargo
+
+  rival
+
+  stumble
+
+  play
+
+  profit
+
+  panda
+
+  brush'
+bip_39_word_new_line9: 'decide
+
+  cargo
+
+  rival
+
+  stumble
+
+  play
+
+  profit
+
+  panda
+
+  brush
+
+  ring'
+bip_39_word_space_0:
+- decide
+- cargo
+- rival
+- stumble
+- play
+- profit
+- panda
+- brush
+- ring
+- submit
+- aerobic
+- agent
+bip_39_word_space_1: decide
+bip_39_word_space_10: decide cargo rival stumble play profit panda brush ring submit
+bip_39_word_space_11: decide cargo rival stumble play profit panda brush ring submit
+  aerobic
+bip_39_word_space_12: decide cargo rival stumble play profit panda brush ring submit
+  aerobic agent
+bip_39_word_space_2: decide cargo
+bip_39_word_space_3: decide cargo rival
+bip_39_word_space_4: decide cargo rival stumble
+bip_39_word_space_5: decide cargo rival stumble play
+bip_39_word_space_6: decide cargo rival stumble play profit
+bip_39_word_space_7: decide cargo rival stumble play profit panda
+bip_39_word_space_8: decide cargo rival stumble play profit panda brush
+bip_39_word_space_9: decide cargo rival stumble play profit panda brush ring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

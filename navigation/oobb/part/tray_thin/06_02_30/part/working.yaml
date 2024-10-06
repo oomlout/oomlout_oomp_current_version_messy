@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dilemma
+bip_39_word_new_br10: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor
+bip_39_word_new_br11: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor<br>hen
+bip_39_word_new_br12: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft<br>flavor<br>hen<br>arena
+bip_39_word_new_br2: dilemma<br>capital
+bip_39_word_new_br3: dilemma<br>capital<br>canvas
+bip_39_word_new_br4: dilemma<br>capital<br>canvas<br>enable
+bip_39_word_new_br5: dilemma<br>capital<br>canvas<br>enable<br>liquid
+bip_39_word_new_br6: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat
+bip_39_word_new_br7: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha
+bip_39_word_new_br8: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice
+bip_39_word_new_br9: dilemma<br>capital<br>canvas<br>enable<br>liquid<br>seat<br>alpha<br>nice<br>soft
+bip_39_word_new_line1: dilemma
+bip_39_word_new_line10: 'dilemma
+
+  capital
+
+  canvas
+
+  enable
+
+  liquid
+
+  seat
+
+  alpha
+
+  nice
+
+  soft
+
+  flavor'
+bip_39_word_new_line11: 'dilemma
+
+  capital
+
+  canvas
+
+  enable
+
+  liquid
+
+  seat
+
+  alpha
+
+  nice
+
+  soft
+
+  flavor
+
+  hen'
+bip_39_word_new_line12: 'dilemma
+
+  capital
+
+  canvas
+
+  enable
+
+  liquid
+
+  seat
+
+  alpha
+
+  nice
+
+  soft
+
+  flavor
+
+  hen
+
+  arena'
+bip_39_word_new_line2: 'dilemma
+
+  capital'
+bip_39_word_new_line3: 'dilemma
+
+  capital
+
+  canvas'
+bip_39_word_new_line4: 'dilemma
+
+  capital
+
+  canvas
+
+  enable'
+bip_39_word_new_line5: 'dilemma
+
+  capital
+
+  canvas
+
+  enable
+
+  liquid'
+bip_39_word_new_line6: 'dilemma
+
+  capital
+
+  canvas
+
+  enable
+
+  liquid
+
+  seat'
+bip_39_word_new_line7: 'dilemma
+
+  capital
+
+  canvas
+
+  enable
+
+  liquid
+
+  seat
+
+  alpha'
+bip_39_word_new_line8: 'dilemma
+
+  capital
+
+  canvas
+
+  enable
+
+  liquid
+
+  seat
+
+  alpha
+
+  nice'
+bip_39_word_new_line9: 'dilemma
+
+  capital
+
+  canvas
+
+  enable
+
+  liquid
+
+  seat
+
+  alpha
+
+  nice
+
+  soft'
+bip_39_word_space_0:
+- dilemma
+- capital
+- canvas
+- enable
+- liquid
+- seat
+- alpha
+- nice
+- soft
+- flavor
+- hen
+- arena
+bip_39_word_space_1: dilemma
+bip_39_word_space_10: dilemma capital canvas enable liquid seat alpha nice soft flavor
+bip_39_word_space_11: dilemma capital canvas enable liquid seat alpha nice soft flavor
+  hen
+bip_39_word_space_12: dilemma capital canvas enable liquid seat alpha nice soft flavor
+  hen arena
+bip_39_word_space_2: dilemma capital
+bip_39_word_space_3: dilemma capital canvas
+bip_39_word_space_4: dilemma capital canvas enable
+bip_39_word_space_5: dilemma capital canvas enable liquid
+bip_39_word_space_6: dilemma capital canvas enable liquid seat
+bip_39_word_space_7: dilemma capital canvas enable liquid seat alpha
+bip_39_word_space_8: dilemma capital canvas enable liquid seat alpha nice
+bip_39_word_space_9: dilemma capital canvas enable liquid seat alpha nice soft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

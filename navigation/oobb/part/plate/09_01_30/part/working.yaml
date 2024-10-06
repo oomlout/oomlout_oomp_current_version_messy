@@ -1,3 +1,187 @@
+bip_39_word_new_br1: inherit
+bip_39_word_new_br10: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer
+bip_39_word_new_br11: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer<br>craft
+bip_39_word_new_br12: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand<br>hammer<br>craft<br>absorb
+bip_39_word_new_br2: inherit<br>feed
+bip_39_word_new_br3: inherit<br>feed<br>soap
+bip_39_word_new_br4: inherit<br>feed<br>soap<br>disorder
+bip_39_word_new_br5: inherit<br>feed<br>soap<br>disorder<br>note
+bip_39_word_new_br6: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork
+bip_39_word_new_br7: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote
+bip_39_word_new_br8: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual
+bip_39_word_new_br9: inherit<br>feed<br>soap<br>disorder<br>note<br>artwork<br>devote<br>mutual<br>stand
+bip_39_word_new_line1: inherit
+bip_39_word_new_line10: 'inherit
+
+  feed
+
+  soap
+
+  disorder
+
+  note
+
+  artwork
+
+  devote
+
+  mutual
+
+  stand
+
+  hammer'
+bip_39_word_new_line11: 'inherit
+
+  feed
+
+  soap
+
+  disorder
+
+  note
+
+  artwork
+
+  devote
+
+  mutual
+
+  stand
+
+  hammer
+
+  craft'
+bip_39_word_new_line12: 'inherit
+
+  feed
+
+  soap
+
+  disorder
+
+  note
+
+  artwork
+
+  devote
+
+  mutual
+
+  stand
+
+  hammer
+
+  craft
+
+  absorb'
+bip_39_word_new_line2: 'inherit
+
+  feed'
+bip_39_word_new_line3: 'inherit
+
+  feed
+
+  soap'
+bip_39_word_new_line4: 'inherit
+
+  feed
+
+  soap
+
+  disorder'
+bip_39_word_new_line5: 'inherit
+
+  feed
+
+  soap
+
+  disorder
+
+  note'
+bip_39_word_new_line6: 'inherit
+
+  feed
+
+  soap
+
+  disorder
+
+  note
+
+  artwork'
+bip_39_word_new_line7: 'inherit
+
+  feed
+
+  soap
+
+  disorder
+
+  note
+
+  artwork
+
+  devote'
+bip_39_word_new_line8: 'inherit
+
+  feed
+
+  soap
+
+  disorder
+
+  note
+
+  artwork
+
+  devote
+
+  mutual'
+bip_39_word_new_line9: 'inherit
+
+  feed
+
+  soap
+
+  disorder
+
+  note
+
+  artwork
+
+  devote
+
+  mutual
+
+  stand'
+bip_39_word_space_0:
+- inherit
+- feed
+- soap
+- disorder
+- note
+- artwork
+- devote
+- mutual
+- stand
+- hammer
+- craft
+- absorb
+bip_39_word_space_1: inherit
+bip_39_word_space_10: inherit feed soap disorder note artwork devote mutual stand
+  hammer
+bip_39_word_space_11: inherit feed soap disorder note artwork devote mutual stand
+  hammer craft
+bip_39_word_space_12: inherit feed soap disorder note artwork devote mutual stand
+  hammer craft absorb
+bip_39_word_space_2: inherit feed
+bip_39_word_space_3: inherit feed soap
+bip_39_word_space_4: inherit feed soap disorder
+bip_39_word_space_5: inherit feed soap disorder note
+bip_39_word_space_6: inherit feed soap disorder note artwork
+bip_39_word_space_7: inherit feed soap disorder note artwork devote
+bip_39_word_space_8: inherit feed soap disorder note artwork devote mutual
+bip_39_word_space_9: inherit feed soap disorder note artwork devote mutual stand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

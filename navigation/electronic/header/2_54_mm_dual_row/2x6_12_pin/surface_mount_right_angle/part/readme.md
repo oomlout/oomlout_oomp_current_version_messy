@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bronze slight
+  * bip 39 word 3: bronze slight afraid
+  * bip 39 word: bronze slight afraid replace point when mesh surge interest lyrics fold adapt
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bronze |  
+| bip_39_word_new_br10 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics |  
+| bip_39_word_new_br11 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics<br>fold |  
+| bip_39_word_new_br12 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest<br>lyrics<br>fold<br>adapt |  
+| bip_39_word_new_br2 | bronze<br>slight |  
+| bip_39_word_new_br3 | bronze<br>slight<br>afraid |  
+| bip_39_word_new_br4 | bronze<br>slight<br>afraid<br>replace |  
+| bip_39_word_new_br5 | bronze<br>slight<br>afraid<br>replace<br>point |  
+| bip_39_word_new_br6 | bronze<br>slight<br>afraid<br>replace<br>point<br>when |  
+| bip_39_word_new_br7 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh |  
+| bip_39_word_new_br8 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge |  
+| bip_39_word_new_br9 | bronze<br>slight<br>afraid<br>replace<br>point<br>when<br>mesh<br>surge<br>interest |  
+| bip_39_word_new_line1 | bronze |  
+| bip_39_word_new_line10 | bronze
+slight
+afraid
+replace
+point
+when
+mesh
+surge
+interest
+lyrics |  
+| bip_39_word_new_line11 | bronze
+slight
+afraid
+replace
+point
+when
+mesh
+surge
+interest
+lyrics
+fold |  
+| bip_39_word_new_line12 | bronze
+slight
+afraid
+replace
+point
+when
+mesh
+surge
+interest
+lyrics
+fold
+adapt |  
+| bip_39_word_new_line2 | bronze
+slight |  
+| bip_39_word_new_line3 | bronze
+slight
+afraid |  
+| bip_39_word_new_line4 | bronze
+slight
+afraid
+replace |  
+| bip_39_word_new_line5 | bronze
+slight
+afraid
+replace
+point |  
+| bip_39_word_new_line6 | bronze
+slight
+afraid
+replace
+point
+when |  
+| bip_39_word_new_line7 | bronze
+slight
+afraid
+replace
+point
+when
+mesh |  
+| bip_39_word_new_line8 | bronze
+slight
+afraid
+replace
+point
+when
+mesh
+surge |  
+| bip_39_word_new_line9 | bronze
+slight
+afraid
+replace
+point
+when
+mesh
+surge
+interest |  
+| bip_39_word_space_0 | ['bronze', 'slight', 'afraid', 'replace', 'point', 'when', 'mesh', 'surge', 'interest', 'lyrics', 'fold', 'adapt'] |  
+| bip_39_word_space_1 | bronze |  
+| bip_39_word_space_10 | bronze slight afraid replace point when mesh surge interest lyrics |  
+| bip_39_word_space_11 | bronze slight afraid replace point when mesh surge interest lyrics fold |  
+| bip_39_word_space_12 | bronze slight afraid replace point when mesh surge interest lyrics fold adapt |  
+| bip_39_word_space_2 | bronze slight |  
+| bip_39_word_space_3 | bronze slight afraid |  
+| bip_39_word_space_4 | bronze slight afraid replace |  
+| bip_39_word_space_5 | bronze slight afraid replace point |  
+| bip_39_word_space_6 | bronze slight afraid replace point when |  
+| bip_39_word_space_7 | bronze slight afraid replace point when mesh |  
+| bip_39_word_space_8 | bronze slight afraid replace point when mesh surge |  
+| bip_39_word_space_9 | bronze slight afraid replace point when mesh surge interest |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

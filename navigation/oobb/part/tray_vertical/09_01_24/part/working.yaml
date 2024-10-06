@@ -1,3 +1,185 @@
+bip_39_word_new_br1: kitten
+bip_39_word_new_br10: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski<br>latin<br>sell<br>today<br>this
+bip_39_word_new_br11: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski<br>latin<br>sell<br>today<br>this<br>chaos
+bip_39_word_new_br12: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski<br>latin<br>sell<br>today<br>this<br>chaos<br>act
+bip_39_word_new_br2: kitten<br>wisdom
+bip_39_word_new_br3: kitten<br>wisdom<br>rifle
+bip_39_word_new_br4: kitten<br>wisdom<br>rifle<br>zone
+bip_39_word_new_br5: kitten<br>wisdom<br>rifle<br>zone<br>round
+bip_39_word_new_br6: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski
+bip_39_word_new_br7: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski<br>latin
+bip_39_word_new_br8: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski<br>latin<br>sell
+bip_39_word_new_br9: kitten<br>wisdom<br>rifle<br>zone<br>round<br>ski<br>latin<br>sell<br>today
+bip_39_word_new_line1: kitten
+bip_39_word_new_line10: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone
+
+  round
+
+  ski
+
+  latin
+
+  sell
+
+  today
+
+  this'
+bip_39_word_new_line11: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone
+
+  round
+
+  ski
+
+  latin
+
+  sell
+
+  today
+
+  this
+
+  chaos'
+bip_39_word_new_line12: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone
+
+  round
+
+  ski
+
+  latin
+
+  sell
+
+  today
+
+  this
+
+  chaos
+
+  act'
+bip_39_word_new_line2: 'kitten
+
+  wisdom'
+bip_39_word_new_line3: 'kitten
+
+  wisdom
+
+  rifle'
+bip_39_word_new_line4: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone'
+bip_39_word_new_line5: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone
+
+  round'
+bip_39_word_new_line6: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone
+
+  round
+
+  ski'
+bip_39_word_new_line7: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone
+
+  round
+
+  ski
+
+  latin'
+bip_39_word_new_line8: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone
+
+  round
+
+  ski
+
+  latin
+
+  sell'
+bip_39_word_new_line9: 'kitten
+
+  wisdom
+
+  rifle
+
+  zone
+
+  round
+
+  ski
+
+  latin
+
+  sell
+
+  today'
+bip_39_word_space_0:
+- kitten
+- wisdom
+- rifle
+- zone
+- round
+- ski
+- latin
+- sell
+- today
+- this
+- chaos
+- act
+bip_39_word_space_1: kitten
+bip_39_word_space_10: kitten wisdom rifle zone round ski latin sell today this
+bip_39_word_space_11: kitten wisdom rifle zone round ski latin sell today this chaos
+bip_39_word_space_12: kitten wisdom rifle zone round ski latin sell today this chaos
+  act
+bip_39_word_space_2: kitten wisdom
+bip_39_word_space_3: kitten wisdom rifle
+bip_39_word_space_4: kitten wisdom rifle zone
+bip_39_word_space_5: kitten wisdom rifle zone round
+bip_39_word_space_6: kitten wisdom rifle zone round ski
+bip_39_word_space_7: kitten wisdom rifle zone round ski latin
+bip_39_word_space_8: kitten wisdom rifle zone round ski latin sell
+bip_39_word_space_9: kitten wisdom rifle zone round ski latin sell today
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

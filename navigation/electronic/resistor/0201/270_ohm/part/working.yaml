@@ -1,3 +1,186 @@
+bip_39_word_new_br1: gossip
+bip_39_word_new_br10: gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid
+bip_39_word_new_br11: gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid<br>nominee
+bip_39_word_new_br12: gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy<br>liquid<br>nominee<br>again
+bip_39_word_new_br2: gossip<br>theory
+bip_39_word_new_br3: gossip<br>theory<br>high
+bip_39_word_new_br4: gossip<br>theory<br>high<br>lift
+bip_39_word_new_br5: gossip<br>theory<br>high<br>lift<br>rescue
+bip_39_word_new_br6: gossip<br>theory<br>high<br>lift<br>rescue<br>produce
+bip_39_word_new_br7: gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket
+bip_39_word_new_br8: gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw
+bip_39_word_new_br9: gossip<br>theory<br>high<br>lift<br>rescue<br>produce<br>cricket<br>raw<br>easy
+bip_39_word_new_line1: gossip
+bip_39_word_new_line10: 'gossip
+
+  theory
+
+  high
+
+  lift
+
+  rescue
+
+  produce
+
+  cricket
+
+  raw
+
+  easy
+
+  liquid'
+bip_39_word_new_line11: 'gossip
+
+  theory
+
+  high
+
+  lift
+
+  rescue
+
+  produce
+
+  cricket
+
+  raw
+
+  easy
+
+  liquid
+
+  nominee'
+bip_39_word_new_line12: 'gossip
+
+  theory
+
+  high
+
+  lift
+
+  rescue
+
+  produce
+
+  cricket
+
+  raw
+
+  easy
+
+  liquid
+
+  nominee
+
+  again'
+bip_39_word_new_line2: 'gossip
+
+  theory'
+bip_39_word_new_line3: 'gossip
+
+  theory
+
+  high'
+bip_39_word_new_line4: 'gossip
+
+  theory
+
+  high
+
+  lift'
+bip_39_word_new_line5: 'gossip
+
+  theory
+
+  high
+
+  lift
+
+  rescue'
+bip_39_word_new_line6: 'gossip
+
+  theory
+
+  high
+
+  lift
+
+  rescue
+
+  produce'
+bip_39_word_new_line7: 'gossip
+
+  theory
+
+  high
+
+  lift
+
+  rescue
+
+  produce
+
+  cricket'
+bip_39_word_new_line8: 'gossip
+
+  theory
+
+  high
+
+  lift
+
+  rescue
+
+  produce
+
+  cricket
+
+  raw'
+bip_39_word_new_line9: 'gossip
+
+  theory
+
+  high
+
+  lift
+
+  rescue
+
+  produce
+
+  cricket
+
+  raw
+
+  easy'
+bip_39_word_space_0:
+- gossip
+- theory
+- high
+- lift
+- rescue
+- produce
+- cricket
+- raw
+- easy
+- liquid
+- nominee
+- again
+bip_39_word_space_1: gossip
+bip_39_word_space_10: gossip theory high lift rescue produce cricket raw easy liquid
+bip_39_word_space_11: gossip theory high lift rescue produce cricket raw easy liquid
+  nominee
+bip_39_word_space_12: gossip theory high lift rescue produce cricket raw easy liquid
+  nominee again
+bip_39_word_space_2: gossip theory
+bip_39_word_space_3: gossip theory high
+bip_39_word_space_4: gossip theory high lift
+bip_39_word_space_5: gossip theory high lift rescue
+bip_39_word_space_6: gossip theory high lift rescue produce
+bip_39_word_space_7: gossip theory high lift rescue produce cricket
+bip_39_word_space_8: gossip theory high lift rescue produce cricket raw
+bip_39_word_space_9: gossip theory high lift rescue produce cricket raw easy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

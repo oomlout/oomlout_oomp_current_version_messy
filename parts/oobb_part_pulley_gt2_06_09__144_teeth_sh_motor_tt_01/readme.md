@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 144_teeth_sh_motor_tt_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pony sustain
+  * bip 39 word 3: pony sustain supreme
+  * bip 39 word: pony sustain supreme bubble ginger story olive legend exit weapon this able
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pony |  
+| bip_39_word_new_br10 | pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit<br>weapon |  
+| bip_39_word_new_br11 | pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit<br>weapon<br>this |  
+| bip_39_word_new_br12 | pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit<br>weapon<br>this<br>able |  
+| bip_39_word_new_br2 | pony<br>sustain |  
+| bip_39_word_new_br3 | pony<br>sustain<br>supreme |  
+| bip_39_word_new_br4 | pony<br>sustain<br>supreme<br>bubble |  
+| bip_39_word_new_br5 | pony<br>sustain<br>supreme<br>bubble<br>ginger |  
+| bip_39_word_new_br6 | pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story |  
+| bip_39_word_new_br7 | pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive |  
+| bip_39_word_new_br8 | pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend |  
+| bip_39_word_new_br9 | pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit |  
+| bip_39_word_new_line1 | pony |  
+| bip_39_word_new_line10 | pony
+sustain
+supreme
+bubble
+ginger
+story
+olive
+legend
+exit
+weapon |  
+| bip_39_word_new_line11 | pony
+sustain
+supreme
+bubble
+ginger
+story
+olive
+legend
+exit
+weapon
+this |  
+| bip_39_word_new_line12 | pony
+sustain
+supreme
+bubble
+ginger
+story
+olive
+legend
+exit
+weapon
+this
+able |  
+| bip_39_word_new_line2 | pony
+sustain |  
+| bip_39_word_new_line3 | pony
+sustain
+supreme |  
+| bip_39_word_new_line4 | pony
+sustain
+supreme
+bubble |  
+| bip_39_word_new_line5 | pony
+sustain
+supreme
+bubble
+ginger |  
+| bip_39_word_new_line6 | pony
+sustain
+supreme
+bubble
+ginger
+story |  
+| bip_39_word_new_line7 | pony
+sustain
+supreme
+bubble
+ginger
+story
+olive |  
+| bip_39_word_new_line8 | pony
+sustain
+supreme
+bubble
+ginger
+story
+olive
+legend |  
+| bip_39_word_new_line9 | pony
+sustain
+supreme
+bubble
+ginger
+story
+olive
+legend
+exit |  
+| bip_39_word_space_0 | ['pony', 'sustain', 'supreme', 'bubble', 'ginger', 'story', 'olive', 'legend', 'exit', 'weapon', 'this', 'able'] |  
+| bip_39_word_space_1 | pony |  
+| bip_39_word_space_10 | pony sustain supreme bubble ginger story olive legend exit weapon |  
+| bip_39_word_space_11 | pony sustain supreme bubble ginger story olive legend exit weapon this |  
+| bip_39_word_space_12 | pony sustain supreme bubble ginger story olive legend exit weapon this able |  
+| bip_39_word_space_2 | pony sustain |  
+| bip_39_word_space_3 | pony sustain supreme |  
+| bip_39_word_space_4 | pony sustain supreme bubble |  
+| bip_39_word_space_5 | pony sustain supreme bubble ginger |  
+| bip_39_word_space_6 | pony sustain supreme bubble ginger story |  
+| bip_39_word_space_7 | pony sustain supreme bubble ginger story olive |  
+| bip_39_word_space_8 | pony sustain supreme bubble ginger story olive legend |  
+| bip_39_word_space_9 | pony sustain supreme bubble ginger story olive legend exit |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

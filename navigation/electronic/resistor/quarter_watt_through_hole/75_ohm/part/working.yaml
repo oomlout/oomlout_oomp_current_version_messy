@@ -1,3 +1,186 @@
+bip_39_word_new_br1: among
+bip_39_word_new_br10: among<br>hurry<br>matter<br>ride<br>egg<br>submit<br>turkey<br>crash<br>language<br>poem
+bip_39_word_new_br11: among<br>hurry<br>matter<br>ride<br>egg<br>submit<br>turkey<br>crash<br>language<br>poem<br>decrease
+bip_39_word_new_br12: among<br>hurry<br>matter<br>ride<br>egg<br>submit<br>turkey<br>crash<br>language<br>poem<br>decrease<br>apple
+bip_39_word_new_br2: among<br>hurry
+bip_39_word_new_br3: among<br>hurry<br>matter
+bip_39_word_new_br4: among<br>hurry<br>matter<br>ride
+bip_39_word_new_br5: among<br>hurry<br>matter<br>ride<br>egg
+bip_39_word_new_br6: among<br>hurry<br>matter<br>ride<br>egg<br>submit
+bip_39_word_new_br7: among<br>hurry<br>matter<br>ride<br>egg<br>submit<br>turkey
+bip_39_word_new_br8: among<br>hurry<br>matter<br>ride<br>egg<br>submit<br>turkey<br>crash
+bip_39_word_new_br9: among<br>hurry<br>matter<br>ride<br>egg<br>submit<br>turkey<br>crash<br>language
+bip_39_word_new_line1: among
+bip_39_word_new_line10: 'among
+
+  hurry
+
+  matter
+
+  ride
+
+  egg
+
+  submit
+
+  turkey
+
+  crash
+
+  language
+
+  poem'
+bip_39_word_new_line11: 'among
+
+  hurry
+
+  matter
+
+  ride
+
+  egg
+
+  submit
+
+  turkey
+
+  crash
+
+  language
+
+  poem
+
+  decrease'
+bip_39_word_new_line12: 'among
+
+  hurry
+
+  matter
+
+  ride
+
+  egg
+
+  submit
+
+  turkey
+
+  crash
+
+  language
+
+  poem
+
+  decrease
+
+  apple'
+bip_39_word_new_line2: 'among
+
+  hurry'
+bip_39_word_new_line3: 'among
+
+  hurry
+
+  matter'
+bip_39_word_new_line4: 'among
+
+  hurry
+
+  matter
+
+  ride'
+bip_39_word_new_line5: 'among
+
+  hurry
+
+  matter
+
+  ride
+
+  egg'
+bip_39_word_new_line6: 'among
+
+  hurry
+
+  matter
+
+  ride
+
+  egg
+
+  submit'
+bip_39_word_new_line7: 'among
+
+  hurry
+
+  matter
+
+  ride
+
+  egg
+
+  submit
+
+  turkey'
+bip_39_word_new_line8: 'among
+
+  hurry
+
+  matter
+
+  ride
+
+  egg
+
+  submit
+
+  turkey
+
+  crash'
+bip_39_word_new_line9: 'among
+
+  hurry
+
+  matter
+
+  ride
+
+  egg
+
+  submit
+
+  turkey
+
+  crash
+
+  language'
+bip_39_word_space_0:
+- among
+- hurry
+- matter
+- ride
+- egg
+- submit
+- turkey
+- crash
+- language
+- poem
+- decrease
+- apple
+bip_39_word_space_1: among
+bip_39_word_space_10: among hurry matter ride egg submit turkey crash language poem
+bip_39_word_space_11: among hurry matter ride egg submit turkey crash language poem
+  decrease
+bip_39_word_space_12: among hurry matter ride egg submit turkey crash language poem
+  decrease apple
+bip_39_word_space_2: among hurry
+bip_39_word_space_3: among hurry matter
+bip_39_word_space_4: among hurry matter ride
+bip_39_word_space_5: among hurry matter ride egg
+bip_39_word_space_6: among hurry matter ride egg submit
+bip_39_word_space_7: among hurry matter ride egg submit turkey
+bip_39_word_space_8: among hurry matter ride egg submit turkey crash
+bip_39_word_space_9: among hurry matter ride egg submit turkey crash language
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

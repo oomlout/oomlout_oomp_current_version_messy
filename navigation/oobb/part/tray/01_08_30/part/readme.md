@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: belt impulse
+  * bip 39 word 3: belt impulse choose
+  * bip 39 word: belt impulse choose stone lumber soul gloom symbol vacant merge sibling arrange
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | belt |  
+| bip_39_word_new_br10 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul<br>gloom<br>symbol<br>vacant<br>merge |  
+| bip_39_word_new_br11 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul<br>gloom<br>symbol<br>vacant<br>merge<br>sibling |  
+| bip_39_word_new_br12 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul<br>gloom<br>symbol<br>vacant<br>merge<br>sibling<br>arrange |  
+| bip_39_word_new_br2 | belt<br>impulse |  
+| bip_39_word_new_br3 | belt<br>impulse<br>choose |  
+| bip_39_word_new_br4 | belt<br>impulse<br>choose<br>stone |  
+| bip_39_word_new_br5 | belt<br>impulse<br>choose<br>stone<br>lumber |  
+| bip_39_word_new_br6 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul |  
+| bip_39_word_new_br7 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul<br>gloom |  
+| bip_39_word_new_br8 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul<br>gloom<br>symbol |  
+| bip_39_word_new_br9 | belt<br>impulse<br>choose<br>stone<br>lumber<br>soul<br>gloom<br>symbol<br>vacant |  
+| bip_39_word_new_line1 | belt |  
+| bip_39_word_new_line10 | belt
+impulse
+choose
+stone
+lumber
+soul
+gloom
+symbol
+vacant
+merge |  
+| bip_39_word_new_line11 | belt
+impulse
+choose
+stone
+lumber
+soul
+gloom
+symbol
+vacant
+merge
+sibling |  
+| bip_39_word_new_line12 | belt
+impulse
+choose
+stone
+lumber
+soul
+gloom
+symbol
+vacant
+merge
+sibling
+arrange |  
+| bip_39_word_new_line2 | belt
+impulse |  
+| bip_39_word_new_line3 | belt
+impulse
+choose |  
+| bip_39_word_new_line4 | belt
+impulse
+choose
+stone |  
+| bip_39_word_new_line5 | belt
+impulse
+choose
+stone
+lumber |  
+| bip_39_word_new_line6 | belt
+impulse
+choose
+stone
+lumber
+soul |  
+| bip_39_word_new_line7 | belt
+impulse
+choose
+stone
+lumber
+soul
+gloom |  
+| bip_39_word_new_line8 | belt
+impulse
+choose
+stone
+lumber
+soul
+gloom
+symbol |  
+| bip_39_word_new_line9 | belt
+impulse
+choose
+stone
+lumber
+soul
+gloom
+symbol
+vacant |  
+| bip_39_word_space_0 | ['belt', 'impulse', 'choose', 'stone', 'lumber', 'soul', 'gloom', 'symbol', 'vacant', 'merge', 'sibling', 'arrange'] |  
+| bip_39_word_space_1 | belt |  
+| bip_39_word_space_10 | belt impulse choose stone lumber soul gloom symbol vacant merge |  
+| bip_39_word_space_11 | belt impulse choose stone lumber soul gloom symbol vacant merge sibling |  
+| bip_39_word_space_12 | belt impulse choose stone lumber soul gloom symbol vacant merge sibling arrange |  
+| bip_39_word_space_2 | belt impulse |  
+| bip_39_word_space_3 | belt impulse choose |  
+| bip_39_word_space_4 | belt impulse choose stone |  
+| bip_39_word_space_5 | belt impulse choose stone lumber |  
+| bip_39_word_space_6 | belt impulse choose stone lumber soul |  
+| bip_39_word_space_7 | belt impulse choose stone lumber soul gloom |  
+| bip_39_word_space_8 | belt impulse choose stone lumber soul gloom symbol |  
+| bip_39_word_space_9 | belt impulse choose stone lumber soul gloom symbol vacant |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

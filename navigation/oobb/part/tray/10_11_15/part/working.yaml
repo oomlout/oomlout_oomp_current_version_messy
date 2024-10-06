@@ -1,3 +1,187 @@
+bip_39_word_new_br1: system
+bip_39_word_new_br10: system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog
+bip_39_word_new_br11: system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog<br>drink
+bip_39_word_new_br12: system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill<br>catalog<br>drink<br>armor
+bip_39_word_new_br2: system<br>possible
+bip_39_word_new_br3: system<br>possible<br>illness
+bip_39_word_new_br4: system<br>possible<br>illness<br>property
+bip_39_word_new_br5: system<br>possible<br>illness<br>property<br>ozone
+bip_39_word_new_br6: system<br>possible<br>illness<br>property<br>ozone<br>sun
+bip_39_word_new_br7: system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel
+bip_39_word_new_br8: system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient
+bip_39_word_new_br9: system<br>possible<br>illness<br>property<br>ozone<br>sun<br>cruel<br>orient<br>ill
+bip_39_word_new_line1: system
+bip_39_word_new_line10: 'system
+
+  possible
+
+  illness
+
+  property
+
+  ozone
+
+  sun
+
+  cruel
+
+  orient
+
+  ill
+
+  catalog'
+bip_39_word_new_line11: 'system
+
+  possible
+
+  illness
+
+  property
+
+  ozone
+
+  sun
+
+  cruel
+
+  orient
+
+  ill
+
+  catalog
+
+  drink'
+bip_39_word_new_line12: 'system
+
+  possible
+
+  illness
+
+  property
+
+  ozone
+
+  sun
+
+  cruel
+
+  orient
+
+  ill
+
+  catalog
+
+  drink
+
+  armor'
+bip_39_word_new_line2: 'system
+
+  possible'
+bip_39_word_new_line3: 'system
+
+  possible
+
+  illness'
+bip_39_word_new_line4: 'system
+
+  possible
+
+  illness
+
+  property'
+bip_39_word_new_line5: 'system
+
+  possible
+
+  illness
+
+  property
+
+  ozone'
+bip_39_word_new_line6: 'system
+
+  possible
+
+  illness
+
+  property
+
+  ozone
+
+  sun'
+bip_39_word_new_line7: 'system
+
+  possible
+
+  illness
+
+  property
+
+  ozone
+
+  sun
+
+  cruel'
+bip_39_word_new_line8: 'system
+
+  possible
+
+  illness
+
+  property
+
+  ozone
+
+  sun
+
+  cruel
+
+  orient'
+bip_39_word_new_line9: 'system
+
+  possible
+
+  illness
+
+  property
+
+  ozone
+
+  sun
+
+  cruel
+
+  orient
+
+  ill'
+bip_39_word_space_0:
+- system
+- possible
+- illness
+- property
+- ozone
+- sun
+- cruel
+- orient
+- ill
+- catalog
+- drink
+- armor
+bip_39_word_space_1: system
+bip_39_word_space_10: system possible illness property ozone sun cruel orient ill
+  catalog
+bip_39_word_space_11: system possible illness property ozone sun cruel orient ill
+  catalog drink
+bip_39_word_space_12: system possible illness property ozone sun cruel orient ill
+  catalog drink armor
+bip_39_word_space_2: system possible
+bip_39_word_space_3: system possible illness
+bip_39_word_space_4: system possible illness property
+bip_39_word_space_5: system possible illness property ozone
+bip_39_word_space_6: system possible illness property ozone sun
+bip_39_word_space_7: system possible illness property ozone sun cruel
+bip_39_word_space_8: system possible illness property ozone sun cruel orient
+bip_39_word_space_9: system possible illness property ozone sun cruel orient ill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

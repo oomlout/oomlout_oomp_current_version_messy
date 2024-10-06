@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_short
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: file cart
+  * bip 39 word 3: file cart engine
+  * bip 39 word: file cart engine black lake purse dose mosquito humor fatal option adult
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | file |  
+| bip_39_word_new_br10 | file<br>cart<br>engine<br>black<br>lake<br>purse<br>dose<br>mosquito<br>humor<br>fatal |  
+| bip_39_word_new_br11 | file<br>cart<br>engine<br>black<br>lake<br>purse<br>dose<br>mosquito<br>humor<br>fatal<br>option |  
+| bip_39_word_new_br12 | file<br>cart<br>engine<br>black<br>lake<br>purse<br>dose<br>mosquito<br>humor<br>fatal<br>option<br>adult |  
+| bip_39_word_new_br2 | file<br>cart |  
+| bip_39_word_new_br3 | file<br>cart<br>engine |  
+| bip_39_word_new_br4 | file<br>cart<br>engine<br>black |  
+| bip_39_word_new_br5 | file<br>cart<br>engine<br>black<br>lake |  
+| bip_39_word_new_br6 | file<br>cart<br>engine<br>black<br>lake<br>purse |  
+| bip_39_word_new_br7 | file<br>cart<br>engine<br>black<br>lake<br>purse<br>dose |  
+| bip_39_word_new_br8 | file<br>cart<br>engine<br>black<br>lake<br>purse<br>dose<br>mosquito |  
+| bip_39_word_new_br9 | file<br>cart<br>engine<br>black<br>lake<br>purse<br>dose<br>mosquito<br>humor |  
+| bip_39_word_new_line1 | file |  
+| bip_39_word_new_line10 | file
+cart
+engine
+black
+lake
+purse
+dose
+mosquito
+humor
+fatal |  
+| bip_39_word_new_line11 | file
+cart
+engine
+black
+lake
+purse
+dose
+mosquito
+humor
+fatal
+option |  
+| bip_39_word_new_line12 | file
+cart
+engine
+black
+lake
+purse
+dose
+mosquito
+humor
+fatal
+option
+adult |  
+| bip_39_word_new_line2 | file
+cart |  
+| bip_39_word_new_line3 | file
+cart
+engine |  
+| bip_39_word_new_line4 | file
+cart
+engine
+black |  
+| bip_39_word_new_line5 | file
+cart
+engine
+black
+lake |  
+| bip_39_word_new_line6 | file
+cart
+engine
+black
+lake
+purse |  
+| bip_39_word_new_line7 | file
+cart
+engine
+black
+lake
+purse
+dose |  
+| bip_39_word_new_line8 | file
+cart
+engine
+black
+lake
+purse
+dose
+mosquito |  
+| bip_39_word_new_line9 | file
+cart
+engine
+black
+lake
+purse
+dose
+mosquito
+humor |  
+| bip_39_word_space_0 | ['file', 'cart', 'engine', 'black', 'lake', 'purse', 'dose', 'mosquito', 'humor', 'fatal', 'option', 'adult'] |  
+| bip_39_word_space_1 | file |  
+| bip_39_word_space_10 | file cart engine black lake purse dose mosquito humor fatal |  
+| bip_39_word_space_11 | file cart engine black lake purse dose mosquito humor fatal option |  
+| bip_39_word_space_12 | file cart engine black lake purse dose mosquito humor fatal option adult |  
+| bip_39_word_space_2 | file cart |  
+| bip_39_word_space_3 | file cart engine |  
+| bip_39_word_space_4 | file cart engine black |  
+| bip_39_word_space_5 | file cart engine black lake |  
+| bip_39_word_space_6 | file cart engine black lake purse |  
+| bip_39_word_space_7 | file cart engine black lake purse dose |  
+| bip_39_word_space_8 | file cart engine black lake purse dose mosquito |  
+| bip_39_word_space_9 | file cart engine black lake purse dose mosquito humor |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

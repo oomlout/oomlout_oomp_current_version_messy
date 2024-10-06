@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: plastic moon
+  * bip 39 word 3: plastic moon retreat
+  * bip 39 word: plastic moon retreat access virtual away note abandon pipe cage jaguar acoustic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | plastic |  
+| bip_39_word_new_br10 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away<br>note<br>abandon<br>pipe<br>cage |  
+| bip_39_word_new_br11 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away<br>note<br>abandon<br>pipe<br>cage<br>jaguar |  
+| bip_39_word_new_br12 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away<br>note<br>abandon<br>pipe<br>cage<br>jaguar<br>acoustic |  
+| bip_39_word_new_br2 | plastic<br>moon |  
+| bip_39_word_new_br3 | plastic<br>moon<br>retreat |  
+| bip_39_word_new_br4 | plastic<br>moon<br>retreat<br>access |  
+| bip_39_word_new_br5 | plastic<br>moon<br>retreat<br>access<br>virtual |  
+| bip_39_word_new_br6 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away |  
+| bip_39_word_new_br7 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away<br>note |  
+| bip_39_word_new_br8 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away<br>note<br>abandon |  
+| bip_39_word_new_br9 | plastic<br>moon<br>retreat<br>access<br>virtual<br>away<br>note<br>abandon<br>pipe |  
+| bip_39_word_new_line1 | plastic |  
+| bip_39_word_new_line10 | plastic
+moon
+retreat
+access
+virtual
+away
+note
+abandon
+pipe
+cage |  
+| bip_39_word_new_line11 | plastic
+moon
+retreat
+access
+virtual
+away
+note
+abandon
+pipe
+cage
+jaguar |  
+| bip_39_word_new_line12 | plastic
+moon
+retreat
+access
+virtual
+away
+note
+abandon
+pipe
+cage
+jaguar
+acoustic |  
+| bip_39_word_new_line2 | plastic
+moon |  
+| bip_39_word_new_line3 | plastic
+moon
+retreat |  
+| bip_39_word_new_line4 | plastic
+moon
+retreat
+access |  
+| bip_39_word_new_line5 | plastic
+moon
+retreat
+access
+virtual |  
+| bip_39_word_new_line6 | plastic
+moon
+retreat
+access
+virtual
+away |  
+| bip_39_word_new_line7 | plastic
+moon
+retreat
+access
+virtual
+away
+note |  
+| bip_39_word_new_line8 | plastic
+moon
+retreat
+access
+virtual
+away
+note
+abandon |  
+| bip_39_word_new_line9 | plastic
+moon
+retreat
+access
+virtual
+away
+note
+abandon
+pipe |  
+| bip_39_word_space_0 | ['plastic', 'moon', 'retreat', 'access', 'virtual', 'away', 'note', 'abandon', 'pipe', 'cage', 'jaguar', 'acoustic'] |  
+| bip_39_word_space_1 | plastic |  
+| bip_39_word_space_10 | plastic moon retreat access virtual away note abandon pipe cage |  
+| bip_39_word_space_11 | plastic moon retreat access virtual away note abandon pipe cage jaguar |  
+| bip_39_word_space_12 | plastic moon retreat access virtual away note abandon pipe cage jaguar acoustic |  
+| bip_39_word_space_2 | plastic moon |  
+| bip_39_word_space_3 | plastic moon retreat |  
+| bip_39_word_space_4 | plastic moon retreat access |  
+| bip_39_word_space_5 | plastic moon retreat access virtual |  
+| bip_39_word_space_6 | plastic moon retreat access virtual away |  
+| bip_39_word_space_7 | plastic moon retreat access virtual away note |  
+| bip_39_word_space_8 | plastic moon retreat access virtual away note abandon |  
+| bip_39_word_space_9 | plastic moon retreat access virtual away note abandon pipe |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

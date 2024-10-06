@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mention under
+  * bip 39 word 3: mention under face
+  * bip 39 word: mention under face zoo stove cotton hope grass utility slender clump amateur
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mention |  
+| bip_39_word_new_br10 | mention<br>under<br>face<br>zoo<br>stove<br>cotton<br>hope<br>grass<br>utility<br>slender |  
+| bip_39_word_new_br11 | mention<br>under<br>face<br>zoo<br>stove<br>cotton<br>hope<br>grass<br>utility<br>slender<br>clump |  
+| bip_39_word_new_br12 | mention<br>under<br>face<br>zoo<br>stove<br>cotton<br>hope<br>grass<br>utility<br>slender<br>clump<br>amateur |  
+| bip_39_word_new_br2 | mention<br>under |  
+| bip_39_word_new_br3 | mention<br>under<br>face |  
+| bip_39_word_new_br4 | mention<br>under<br>face<br>zoo |  
+| bip_39_word_new_br5 | mention<br>under<br>face<br>zoo<br>stove |  
+| bip_39_word_new_br6 | mention<br>under<br>face<br>zoo<br>stove<br>cotton |  
+| bip_39_word_new_br7 | mention<br>under<br>face<br>zoo<br>stove<br>cotton<br>hope |  
+| bip_39_word_new_br8 | mention<br>under<br>face<br>zoo<br>stove<br>cotton<br>hope<br>grass |  
+| bip_39_word_new_br9 | mention<br>under<br>face<br>zoo<br>stove<br>cotton<br>hope<br>grass<br>utility |  
+| bip_39_word_new_line1 | mention |  
+| bip_39_word_new_line10 | mention
+under
+face
+zoo
+stove
+cotton
+hope
+grass
+utility
+slender |  
+| bip_39_word_new_line11 | mention
+under
+face
+zoo
+stove
+cotton
+hope
+grass
+utility
+slender
+clump |  
+| bip_39_word_new_line12 | mention
+under
+face
+zoo
+stove
+cotton
+hope
+grass
+utility
+slender
+clump
+amateur |  
+| bip_39_word_new_line2 | mention
+under |  
+| bip_39_word_new_line3 | mention
+under
+face |  
+| bip_39_word_new_line4 | mention
+under
+face
+zoo |  
+| bip_39_word_new_line5 | mention
+under
+face
+zoo
+stove |  
+| bip_39_word_new_line6 | mention
+under
+face
+zoo
+stove
+cotton |  
+| bip_39_word_new_line7 | mention
+under
+face
+zoo
+stove
+cotton
+hope |  
+| bip_39_word_new_line8 | mention
+under
+face
+zoo
+stove
+cotton
+hope
+grass |  
+| bip_39_word_new_line9 | mention
+under
+face
+zoo
+stove
+cotton
+hope
+grass
+utility |  
+| bip_39_word_space_0 | ['mention', 'under', 'face', 'zoo', 'stove', 'cotton', 'hope', 'grass', 'utility', 'slender', 'clump', 'amateur'] |  
+| bip_39_word_space_1 | mention |  
+| bip_39_word_space_10 | mention under face zoo stove cotton hope grass utility slender |  
+| bip_39_word_space_11 | mention under face zoo stove cotton hope grass utility slender clump |  
+| bip_39_word_space_12 | mention under face zoo stove cotton hope grass utility slender clump amateur |  
+| bip_39_word_space_2 | mention under |  
+| bip_39_word_space_3 | mention under face |  
+| bip_39_word_space_4 | mention under face zoo |  
+| bip_39_word_space_5 | mention under face zoo stove |  
+| bip_39_word_space_6 | mention under face zoo stove cotton |  
+| bip_39_word_space_7 | mention under face zoo stove cotton hope |  
+| bip_39_word_space_8 | mention under face zoo stove cotton hope grass |  
+| bip_39_word_space_9 | mention under face zoo stove cotton hope grass utility |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: wasp
+bip_39_word_new_br10: wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid<br>clog<br>cover<br>smooth<br>okay
+bip_39_word_new_br11: wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid<br>clog<br>cover<br>smooth<br>okay<br>rich
+bip_39_word_new_br12: wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid<br>clog<br>cover<br>smooth<br>okay<br>rich<br>aerobic
+bip_39_word_new_br2: wasp<br>sniff
+bip_39_word_new_br3: wasp<br>sniff<br>buyer
+bip_39_word_new_br4: wasp<br>sniff<br>buyer<br>remember
+bip_39_word_new_br5: wasp<br>sniff<br>buyer<br>remember<br>slow
+bip_39_word_new_br6: wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid
+bip_39_word_new_br7: wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid<br>clog
+bip_39_word_new_br8: wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid<br>clog<br>cover
+bip_39_word_new_br9: wasp<br>sniff<br>buyer<br>remember<br>slow<br>vivid<br>clog<br>cover<br>smooth
+bip_39_word_new_line1: wasp
+bip_39_word_new_line10: 'wasp
+
+  sniff
+
+  buyer
+
+  remember
+
+  slow
+
+  vivid
+
+  clog
+
+  cover
+
+  smooth
+
+  okay'
+bip_39_word_new_line11: 'wasp
+
+  sniff
+
+  buyer
+
+  remember
+
+  slow
+
+  vivid
+
+  clog
+
+  cover
+
+  smooth
+
+  okay
+
+  rich'
+bip_39_word_new_line12: 'wasp
+
+  sniff
+
+  buyer
+
+  remember
+
+  slow
+
+  vivid
+
+  clog
+
+  cover
+
+  smooth
+
+  okay
+
+  rich
+
+  aerobic'
+bip_39_word_new_line2: 'wasp
+
+  sniff'
+bip_39_word_new_line3: 'wasp
+
+  sniff
+
+  buyer'
+bip_39_word_new_line4: 'wasp
+
+  sniff
+
+  buyer
+
+  remember'
+bip_39_word_new_line5: 'wasp
+
+  sniff
+
+  buyer
+
+  remember
+
+  slow'
+bip_39_word_new_line6: 'wasp
+
+  sniff
+
+  buyer
+
+  remember
+
+  slow
+
+  vivid'
+bip_39_word_new_line7: 'wasp
+
+  sniff
+
+  buyer
+
+  remember
+
+  slow
+
+  vivid
+
+  clog'
+bip_39_word_new_line8: 'wasp
+
+  sniff
+
+  buyer
+
+  remember
+
+  slow
+
+  vivid
+
+  clog
+
+  cover'
+bip_39_word_new_line9: 'wasp
+
+  sniff
+
+  buyer
+
+  remember
+
+  slow
+
+  vivid
+
+  clog
+
+  cover
+
+  smooth'
+bip_39_word_space_0:
+- wasp
+- sniff
+- buyer
+- remember
+- slow
+- vivid
+- clog
+- cover
+- smooth
+- okay
+- rich
+- aerobic
+bip_39_word_space_1: wasp
+bip_39_word_space_10: wasp sniff buyer remember slow vivid clog cover smooth okay
+bip_39_word_space_11: wasp sniff buyer remember slow vivid clog cover smooth okay
+  rich
+bip_39_word_space_12: wasp sniff buyer remember slow vivid clog cover smooth okay
+  rich aerobic
+bip_39_word_space_2: wasp sniff
+bip_39_word_space_3: wasp sniff buyer
+bip_39_word_space_4: wasp sniff buyer remember
+bip_39_word_space_5: wasp sniff buyer remember slow
+bip_39_word_space_6: wasp sniff buyer remember slow vivid
+bip_39_word_space_7: wasp sniff buyer remember slow vivid clog
+bip_39_word_space_8: wasp sniff buyer remember slow vivid clog cover
+bip_39_word_space_9: wasp sniff buyer remember slow vivid clog cover smooth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

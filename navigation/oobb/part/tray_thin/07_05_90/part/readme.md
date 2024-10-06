@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: island orchard
+  * bip 39 word 3: island orchard gown
+  * bip 39 word: island orchard gown trap creek sorry wife dragon never capable athlete above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | island |  
+| bip_39_word_new_br10 | island<br>orchard<br>gown<br>trap<br>creek<br>sorry<br>wife<br>dragon<br>never<br>capable |  
+| bip_39_word_new_br11 | island<br>orchard<br>gown<br>trap<br>creek<br>sorry<br>wife<br>dragon<br>never<br>capable<br>athlete |  
+| bip_39_word_new_br12 | island<br>orchard<br>gown<br>trap<br>creek<br>sorry<br>wife<br>dragon<br>never<br>capable<br>athlete<br>above |  
+| bip_39_word_new_br2 | island<br>orchard |  
+| bip_39_word_new_br3 | island<br>orchard<br>gown |  
+| bip_39_word_new_br4 | island<br>orchard<br>gown<br>trap |  
+| bip_39_word_new_br5 | island<br>orchard<br>gown<br>trap<br>creek |  
+| bip_39_word_new_br6 | island<br>orchard<br>gown<br>trap<br>creek<br>sorry |  
+| bip_39_word_new_br7 | island<br>orchard<br>gown<br>trap<br>creek<br>sorry<br>wife |  
+| bip_39_word_new_br8 | island<br>orchard<br>gown<br>trap<br>creek<br>sorry<br>wife<br>dragon |  
+| bip_39_word_new_br9 | island<br>orchard<br>gown<br>trap<br>creek<br>sorry<br>wife<br>dragon<br>never |  
+| bip_39_word_new_line1 | island |  
+| bip_39_word_new_line10 | island
+orchard
+gown
+trap
+creek
+sorry
+wife
+dragon
+never
+capable |  
+| bip_39_word_new_line11 | island
+orchard
+gown
+trap
+creek
+sorry
+wife
+dragon
+never
+capable
+athlete |  
+| bip_39_word_new_line12 | island
+orchard
+gown
+trap
+creek
+sorry
+wife
+dragon
+never
+capable
+athlete
+above |  
+| bip_39_word_new_line2 | island
+orchard |  
+| bip_39_word_new_line3 | island
+orchard
+gown |  
+| bip_39_word_new_line4 | island
+orchard
+gown
+trap |  
+| bip_39_word_new_line5 | island
+orchard
+gown
+trap
+creek |  
+| bip_39_word_new_line6 | island
+orchard
+gown
+trap
+creek
+sorry |  
+| bip_39_word_new_line7 | island
+orchard
+gown
+trap
+creek
+sorry
+wife |  
+| bip_39_word_new_line8 | island
+orchard
+gown
+trap
+creek
+sorry
+wife
+dragon |  
+| bip_39_word_new_line9 | island
+orchard
+gown
+trap
+creek
+sorry
+wife
+dragon
+never |  
+| bip_39_word_space_0 | ['island', 'orchard', 'gown', 'trap', 'creek', 'sorry', 'wife', 'dragon', 'never', 'capable', 'athlete', 'above'] |  
+| bip_39_word_space_1 | island |  
+| bip_39_word_space_10 | island orchard gown trap creek sorry wife dragon never capable |  
+| bip_39_word_space_11 | island orchard gown trap creek sorry wife dragon never capable athlete |  
+| bip_39_word_space_12 | island orchard gown trap creek sorry wife dragon never capable athlete above |  
+| bip_39_word_space_2 | island orchard |  
+| bip_39_word_space_3 | island orchard gown |  
+| bip_39_word_space_4 | island orchard gown trap |  
+| bip_39_word_space_5 | island orchard gown trap creek |  
+| bip_39_word_space_6 | island orchard gown trap creek sorry |  
+| bip_39_word_space_7 | island orchard gown trap creek sorry wife |  
+| bip_39_word_space_8 | island orchard gown trap creek sorry wife dragon |  
+| bip_39_word_space_9 | island orchard gown trap creek sorry wife dragon never |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

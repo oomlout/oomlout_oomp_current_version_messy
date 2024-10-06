@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cradle
+bip_39_word_new_br10: cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling<br>warfare<br>camera<br>detect<br>gate
+bip_39_word_new_br11: cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling<br>warfare<br>camera<br>detect<br>gate<br>lucky
+bip_39_word_new_br12: cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling<br>warfare<br>camera<br>detect<br>gate<br>lucky<br>artwork
+bip_39_word_new_br2: cradle<br>okay
+bip_39_word_new_br3: cradle<br>okay<br>narrow
+bip_39_word_new_br4: cradle<br>okay<br>narrow<br>hunt
+bip_39_word_new_br5: cradle<br>okay<br>narrow<br>hunt<br>defy
+bip_39_word_new_br6: cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling
+bip_39_word_new_br7: cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling<br>warfare
+bip_39_word_new_br8: cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling<br>warfare<br>camera
+bip_39_word_new_br9: cradle<br>okay<br>narrow<br>hunt<br>defy<br>ceiling<br>warfare<br>camera<br>detect
+bip_39_word_new_line1: cradle
+bip_39_word_new_line10: 'cradle
+
+  okay
+
+  narrow
+
+  hunt
+
+  defy
+
+  ceiling
+
+  warfare
+
+  camera
+
+  detect
+
+  gate'
+bip_39_word_new_line11: 'cradle
+
+  okay
+
+  narrow
+
+  hunt
+
+  defy
+
+  ceiling
+
+  warfare
+
+  camera
+
+  detect
+
+  gate
+
+  lucky'
+bip_39_word_new_line12: 'cradle
+
+  okay
+
+  narrow
+
+  hunt
+
+  defy
+
+  ceiling
+
+  warfare
+
+  camera
+
+  detect
+
+  gate
+
+  lucky
+
+  artwork'
+bip_39_word_new_line2: 'cradle
+
+  okay'
+bip_39_word_new_line3: 'cradle
+
+  okay
+
+  narrow'
+bip_39_word_new_line4: 'cradle
+
+  okay
+
+  narrow
+
+  hunt'
+bip_39_word_new_line5: 'cradle
+
+  okay
+
+  narrow
+
+  hunt
+
+  defy'
+bip_39_word_new_line6: 'cradle
+
+  okay
+
+  narrow
+
+  hunt
+
+  defy
+
+  ceiling'
+bip_39_word_new_line7: 'cradle
+
+  okay
+
+  narrow
+
+  hunt
+
+  defy
+
+  ceiling
+
+  warfare'
+bip_39_word_new_line8: 'cradle
+
+  okay
+
+  narrow
+
+  hunt
+
+  defy
+
+  ceiling
+
+  warfare
+
+  camera'
+bip_39_word_new_line9: 'cradle
+
+  okay
+
+  narrow
+
+  hunt
+
+  defy
+
+  ceiling
+
+  warfare
+
+  camera
+
+  detect'
+bip_39_word_space_0:
+- cradle
+- okay
+- narrow
+- hunt
+- defy
+- ceiling
+- warfare
+- camera
+- detect
+- gate
+- lucky
+- artwork
+bip_39_word_space_1: cradle
+bip_39_word_space_10: cradle okay narrow hunt defy ceiling warfare camera detect gate
+bip_39_word_space_11: cradle okay narrow hunt defy ceiling warfare camera detect gate
+  lucky
+bip_39_word_space_12: cradle okay narrow hunt defy ceiling warfare camera detect gate
+  lucky artwork
+bip_39_word_space_2: cradle okay
+bip_39_word_space_3: cradle okay narrow
+bip_39_word_space_4: cradle okay narrow hunt
+bip_39_word_space_5: cradle okay narrow hunt defy
+bip_39_word_space_6: cradle okay narrow hunt defy ceiling
+bip_39_word_space_7: cradle okay narrow hunt defy ceiling warfare
+bip_39_word_space_8: cradle okay narrow hunt defy ceiling warfare camera
+bip_39_word_space_9: cradle okay narrow hunt defy ceiling warfare camera detect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

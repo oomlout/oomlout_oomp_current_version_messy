@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wagon trend
+  * bip 39 word 3: wagon trend salad
+  * bip 39 word: wagon trend salad attract fat glide tray uniform earth better reason answer
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | wagon |  
+| bip_39_word_new_br10 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide<br>tray<br>uniform<br>earth<br>better |  
+| bip_39_word_new_br11 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide<br>tray<br>uniform<br>earth<br>better<br>reason |  
+| bip_39_word_new_br12 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide<br>tray<br>uniform<br>earth<br>better<br>reason<br>answer |  
+| bip_39_word_new_br2 | wagon<br>trend |  
+| bip_39_word_new_br3 | wagon<br>trend<br>salad |  
+| bip_39_word_new_br4 | wagon<br>trend<br>salad<br>attract |  
+| bip_39_word_new_br5 | wagon<br>trend<br>salad<br>attract<br>fat |  
+| bip_39_word_new_br6 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide |  
+| bip_39_word_new_br7 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide<br>tray |  
+| bip_39_word_new_br8 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide<br>tray<br>uniform |  
+| bip_39_word_new_br9 | wagon<br>trend<br>salad<br>attract<br>fat<br>glide<br>tray<br>uniform<br>earth |  
+| bip_39_word_new_line1 | wagon |  
+| bip_39_word_new_line10 | wagon
+trend
+salad
+attract
+fat
+glide
+tray
+uniform
+earth
+better |  
+| bip_39_word_new_line11 | wagon
+trend
+salad
+attract
+fat
+glide
+tray
+uniform
+earth
+better
+reason |  
+| bip_39_word_new_line12 | wagon
+trend
+salad
+attract
+fat
+glide
+tray
+uniform
+earth
+better
+reason
+answer |  
+| bip_39_word_new_line2 | wagon
+trend |  
+| bip_39_word_new_line3 | wagon
+trend
+salad |  
+| bip_39_word_new_line4 | wagon
+trend
+salad
+attract |  
+| bip_39_word_new_line5 | wagon
+trend
+salad
+attract
+fat |  
+| bip_39_word_new_line6 | wagon
+trend
+salad
+attract
+fat
+glide |  
+| bip_39_word_new_line7 | wagon
+trend
+salad
+attract
+fat
+glide
+tray |  
+| bip_39_word_new_line8 | wagon
+trend
+salad
+attract
+fat
+glide
+tray
+uniform |  
+| bip_39_word_new_line9 | wagon
+trend
+salad
+attract
+fat
+glide
+tray
+uniform
+earth |  
+| bip_39_word_space_0 | ['wagon', 'trend', 'salad', 'attract', 'fat', 'glide', 'tray', 'uniform', 'earth', 'better', 'reason', 'answer'] |  
+| bip_39_word_space_1 | wagon |  
+| bip_39_word_space_10 | wagon trend salad attract fat glide tray uniform earth better |  
+| bip_39_word_space_11 | wagon trend salad attract fat glide tray uniform earth better reason |  
+| bip_39_word_space_12 | wagon trend salad attract fat glide tray uniform earth better reason answer |  
+| bip_39_word_space_2 | wagon trend |  
+| bip_39_word_space_3 | wagon trend salad |  
+| bip_39_word_space_4 | wagon trend salad attract |  
+| bip_39_word_space_5 | wagon trend salad attract fat |  
+| bip_39_word_space_6 | wagon trend salad attract fat glide |  
+| bip_39_word_space_7 | wagon trend salad attract fat glide tray |  
+| bip_39_word_space_8 | wagon trend salad attract fat glide tray uniform |  
+| bip_39_word_space_9 | wagon trend salad attract fat glide tray uniform earth |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

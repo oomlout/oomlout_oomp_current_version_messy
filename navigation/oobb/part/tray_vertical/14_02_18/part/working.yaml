@@ -1,3 +1,186 @@
+bip_39_word_new_br1: duty
+bip_39_word_new_br10: duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute
+bip_39_word_new_br11: duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute<br>witness
+bip_39_word_new_br12: duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban<br>cute<br>witness<br>allow
+bip_39_word_new_br2: duty<br>dash
+bip_39_word_new_br3: duty<br>dash<br>vacuum
+bip_39_word_new_br4: duty<br>dash<br>vacuum<br>submit
+bip_39_word_new_br5: duty<br>dash<br>vacuum<br>submit<br>style
+bip_39_word_new_br6: duty<br>dash<br>vacuum<br>submit<br>style<br>donkey
+bip_39_word_new_br7: duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist
+bip_39_word_new_br8: duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning
+bip_39_word_new_br9: duty<br>dash<br>vacuum<br>submit<br>style<br>donkey<br>assist<br>morning<br>urban
+bip_39_word_new_line1: duty
+bip_39_word_new_line10: 'duty
+
+  dash
+
+  vacuum
+
+  submit
+
+  style
+
+  donkey
+
+  assist
+
+  morning
+
+  urban
+
+  cute'
+bip_39_word_new_line11: 'duty
+
+  dash
+
+  vacuum
+
+  submit
+
+  style
+
+  donkey
+
+  assist
+
+  morning
+
+  urban
+
+  cute
+
+  witness'
+bip_39_word_new_line12: 'duty
+
+  dash
+
+  vacuum
+
+  submit
+
+  style
+
+  donkey
+
+  assist
+
+  morning
+
+  urban
+
+  cute
+
+  witness
+
+  allow'
+bip_39_word_new_line2: 'duty
+
+  dash'
+bip_39_word_new_line3: 'duty
+
+  dash
+
+  vacuum'
+bip_39_word_new_line4: 'duty
+
+  dash
+
+  vacuum
+
+  submit'
+bip_39_word_new_line5: 'duty
+
+  dash
+
+  vacuum
+
+  submit
+
+  style'
+bip_39_word_new_line6: 'duty
+
+  dash
+
+  vacuum
+
+  submit
+
+  style
+
+  donkey'
+bip_39_word_new_line7: 'duty
+
+  dash
+
+  vacuum
+
+  submit
+
+  style
+
+  donkey
+
+  assist'
+bip_39_word_new_line8: 'duty
+
+  dash
+
+  vacuum
+
+  submit
+
+  style
+
+  donkey
+
+  assist
+
+  morning'
+bip_39_word_new_line9: 'duty
+
+  dash
+
+  vacuum
+
+  submit
+
+  style
+
+  donkey
+
+  assist
+
+  morning
+
+  urban'
+bip_39_word_space_0:
+- duty
+- dash
+- vacuum
+- submit
+- style
+- donkey
+- assist
+- morning
+- urban
+- cute
+- witness
+- allow
+bip_39_word_space_1: duty
+bip_39_word_space_10: duty dash vacuum submit style donkey assist morning urban cute
+bip_39_word_space_11: duty dash vacuum submit style donkey assist morning urban cute
+  witness
+bip_39_word_space_12: duty dash vacuum submit style donkey assist morning urban cute
+  witness allow
+bip_39_word_space_2: duty dash
+bip_39_word_space_3: duty dash vacuum
+bip_39_word_space_4: duty dash vacuum submit
+bip_39_word_space_5: duty dash vacuum submit style
+bip_39_word_space_6: duty dash vacuum submit style donkey
+bip_39_word_space_7: duty dash vacuum submit style donkey assist
+bip_39_word_space_8: duty dash vacuum submit style donkey assist morning
+bip_39_word_space_9: duty dash vacuum submit style donkey assist morning urban
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

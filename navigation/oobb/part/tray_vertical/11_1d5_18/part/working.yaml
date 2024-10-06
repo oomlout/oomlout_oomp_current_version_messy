@@ -1,3 +1,186 @@
+bip_39_word_new_br1: creek
+bip_39_word_new_br10: creek<br>merge<br>wife<br>habit<br>sponsor<br>phone<br>erode<br>dirt<br>quantum<br>monitor
+bip_39_word_new_br11: creek<br>merge<br>wife<br>habit<br>sponsor<br>phone<br>erode<br>dirt<br>quantum<br>monitor<br>narrow
+bip_39_word_new_br12: creek<br>merge<br>wife<br>habit<br>sponsor<br>phone<br>erode<br>dirt<br>quantum<br>monitor<br>narrow<br>alley
+bip_39_word_new_br2: creek<br>merge
+bip_39_word_new_br3: creek<br>merge<br>wife
+bip_39_word_new_br4: creek<br>merge<br>wife<br>habit
+bip_39_word_new_br5: creek<br>merge<br>wife<br>habit<br>sponsor
+bip_39_word_new_br6: creek<br>merge<br>wife<br>habit<br>sponsor<br>phone
+bip_39_word_new_br7: creek<br>merge<br>wife<br>habit<br>sponsor<br>phone<br>erode
+bip_39_word_new_br8: creek<br>merge<br>wife<br>habit<br>sponsor<br>phone<br>erode<br>dirt
+bip_39_word_new_br9: creek<br>merge<br>wife<br>habit<br>sponsor<br>phone<br>erode<br>dirt<br>quantum
+bip_39_word_new_line1: creek
+bip_39_word_new_line10: 'creek
+
+  merge
+
+  wife
+
+  habit
+
+  sponsor
+
+  phone
+
+  erode
+
+  dirt
+
+  quantum
+
+  monitor'
+bip_39_word_new_line11: 'creek
+
+  merge
+
+  wife
+
+  habit
+
+  sponsor
+
+  phone
+
+  erode
+
+  dirt
+
+  quantum
+
+  monitor
+
+  narrow'
+bip_39_word_new_line12: 'creek
+
+  merge
+
+  wife
+
+  habit
+
+  sponsor
+
+  phone
+
+  erode
+
+  dirt
+
+  quantum
+
+  monitor
+
+  narrow
+
+  alley'
+bip_39_word_new_line2: 'creek
+
+  merge'
+bip_39_word_new_line3: 'creek
+
+  merge
+
+  wife'
+bip_39_word_new_line4: 'creek
+
+  merge
+
+  wife
+
+  habit'
+bip_39_word_new_line5: 'creek
+
+  merge
+
+  wife
+
+  habit
+
+  sponsor'
+bip_39_word_new_line6: 'creek
+
+  merge
+
+  wife
+
+  habit
+
+  sponsor
+
+  phone'
+bip_39_word_new_line7: 'creek
+
+  merge
+
+  wife
+
+  habit
+
+  sponsor
+
+  phone
+
+  erode'
+bip_39_word_new_line8: 'creek
+
+  merge
+
+  wife
+
+  habit
+
+  sponsor
+
+  phone
+
+  erode
+
+  dirt'
+bip_39_word_new_line9: 'creek
+
+  merge
+
+  wife
+
+  habit
+
+  sponsor
+
+  phone
+
+  erode
+
+  dirt
+
+  quantum'
+bip_39_word_space_0:
+- creek
+- merge
+- wife
+- habit
+- sponsor
+- phone
+- erode
+- dirt
+- quantum
+- monitor
+- narrow
+- alley
+bip_39_word_space_1: creek
+bip_39_word_space_10: creek merge wife habit sponsor phone erode dirt quantum monitor
+bip_39_word_space_11: creek merge wife habit sponsor phone erode dirt quantum monitor
+  narrow
+bip_39_word_space_12: creek merge wife habit sponsor phone erode dirt quantum monitor
+  narrow alley
+bip_39_word_space_2: creek merge
+bip_39_word_space_3: creek merge wife
+bip_39_word_space_4: creek merge wife habit
+bip_39_word_space_5: creek merge wife habit sponsor
+bip_39_word_space_6: creek merge wife habit sponsor phone
+bip_39_word_space_7: creek merge wife habit sponsor phone erode
+bip_39_word_space_8: creek merge wife habit sponsor phone erode dirt
+bip_39_word_space_9: creek merge wife habit sponsor phone erode dirt quantum
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

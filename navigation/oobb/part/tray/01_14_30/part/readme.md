@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: cushion wrong
+  * bip 39 word 3: cushion wrong yellow
+  * bip 39 word: cushion wrong yellow sleep grunt agree verb lottery long response milk arch
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | cushion |  
+| bip_39_word_new_br10 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree<br>verb<br>lottery<br>long<br>response |  
+| bip_39_word_new_br11 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree<br>verb<br>lottery<br>long<br>response<br>milk |  
+| bip_39_word_new_br12 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree<br>verb<br>lottery<br>long<br>response<br>milk<br>arch |  
+| bip_39_word_new_br2 | cushion<br>wrong |  
+| bip_39_word_new_br3 | cushion<br>wrong<br>yellow |  
+| bip_39_word_new_br4 | cushion<br>wrong<br>yellow<br>sleep |  
+| bip_39_word_new_br5 | cushion<br>wrong<br>yellow<br>sleep<br>grunt |  
+| bip_39_word_new_br6 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree |  
+| bip_39_word_new_br7 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree<br>verb |  
+| bip_39_word_new_br8 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree<br>verb<br>lottery |  
+| bip_39_word_new_br9 | cushion<br>wrong<br>yellow<br>sleep<br>grunt<br>agree<br>verb<br>lottery<br>long |  
+| bip_39_word_new_line1 | cushion |  
+| bip_39_word_new_line10 | cushion
+wrong
+yellow
+sleep
+grunt
+agree
+verb
+lottery
+long
+response |  
+| bip_39_word_new_line11 | cushion
+wrong
+yellow
+sleep
+grunt
+agree
+verb
+lottery
+long
+response
+milk |  
+| bip_39_word_new_line12 | cushion
+wrong
+yellow
+sleep
+grunt
+agree
+verb
+lottery
+long
+response
+milk
+arch |  
+| bip_39_word_new_line2 | cushion
+wrong |  
+| bip_39_word_new_line3 | cushion
+wrong
+yellow |  
+| bip_39_word_new_line4 | cushion
+wrong
+yellow
+sleep |  
+| bip_39_word_new_line5 | cushion
+wrong
+yellow
+sleep
+grunt |  
+| bip_39_word_new_line6 | cushion
+wrong
+yellow
+sleep
+grunt
+agree |  
+| bip_39_word_new_line7 | cushion
+wrong
+yellow
+sleep
+grunt
+agree
+verb |  
+| bip_39_word_new_line8 | cushion
+wrong
+yellow
+sleep
+grunt
+agree
+verb
+lottery |  
+| bip_39_word_new_line9 | cushion
+wrong
+yellow
+sleep
+grunt
+agree
+verb
+lottery
+long |  
+| bip_39_word_space_0 | ['cushion', 'wrong', 'yellow', 'sleep', 'grunt', 'agree', 'verb', 'lottery', 'long', 'response', 'milk', 'arch'] |  
+| bip_39_word_space_1 | cushion |  
+| bip_39_word_space_10 | cushion wrong yellow sleep grunt agree verb lottery long response |  
+| bip_39_word_space_11 | cushion wrong yellow sleep grunt agree verb lottery long response milk |  
+| bip_39_word_space_12 | cushion wrong yellow sleep grunt agree verb lottery long response milk arch |  
+| bip_39_word_space_2 | cushion wrong |  
+| bip_39_word_space_3 | cushion wrong yellow |  
+| bip_39_word_space_4 | cushion wrong yellow sleep |  
+| bip_39_word_space_5 | cushion wrong yellow sleep grunt |  
+| bip_39_word_space_6 | cushion wrong yellow sleep grunt agree |  
+| bip_39_word_space_7 | cushion wrong yellow sleep grunt agree verb |  
+| bip_39_word_space_8 | cushion wrong yellow sleep grunt agree verb lottery |  
+| bip_39_word_space_9 | cushion wrong yellow sleep grunt agree verb lottery long |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -1,3 +1,186 @@
+bip_39_word_new_br1: cargo
+bip_39_word_new_br10: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle<br>nuclear<br>fiscal<br>fly<br>canvas
+bip_39_word_new_br11: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle<br>nuclear<br>fiscal<br>fly<br>canvas<br>lunch
+bip_39_word_new_br12: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle<br>nuclear<br>fiscal<br>fly<br>canvas<br>lunch<br>apple
+bip_39_word_new_br2: cargo<br>rival
+bip_39_word_new_br3: cargo<br>rival<br>mean
+bip_39_word_new_br4: cargo<br>rival<br>mean<br>aerobic
+bip_39_word_new_br5: cargo<br>rival<br>mean<br>aerobic<br>prison
+bip_39_word_new_br6: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle
+bip_39_word_new_br7: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle<br>nuclear
+bip_39_word_new_br8: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle<br>nuclear<br>fiscal
+bip_39_word_new_br9: cargo<br>rival<br>mean<br>aerobic<br>prison<br>wrestle<br>nuclear<br>fiscal<br>fly
+bip_39_word_new_line1: cargo
+bip_39_word_new_line10: 'cargo
+
+  rival
+
+  mean
+
+  aerobic
+
+  prison
+
+  wrestle
+
+  nuclear
+
+  fiscal
+
+  fly
+
+  canvas'
+bip_39_word_new_line11: 'cargo
+
+  rival
+
+  mean
+
+  aerobic
+
+  prison
+
+  wrestle
+
+  nuclear
+
+  fiscal
+
+  fly
+
+  canvas
+
+  lunch'
+bip_39_word_new_line12: 'cargo
+
+  rival
+
+  mean
+
+  aerobic
+
+  prison
+
+  wrestle
+
+  nuclear
+
+  fiscal
+
+  fly
+
+  canvas
+
+  lunch
+
+  apple'
+bip_39_word_new_line2: 'cargo
+
+  rival'
+bip_39_word_new_line3: 'cargo
+
+  rival
+
+  mean'
+bip_39_word_new_line4: 'cargo
+
+  rival
+
+  mean
+
+  aerobic'
+bip_39_word_new_line5: 'cargo
+
+  rival
+
+  mean
+
+  aerobic
+
+  prison'
+bip_39_word_new_line6: 'cargo
+
+  rival
+
+  mean
+
+  aerobic
+
+  prison
+
+  wrestle'
+bip_39_word_new_line7: 'cargo
+
+  rival
+
+  mean
+
+  aerobic
+
+  prison
+
+  wrestle
+
+  nuclear'
+bip_39_word_new_line8: 'cargo
+
+  rival
+
+  mean
+
+  aerobic
+
+  prison
+
+  wrestle
+
+  nuclear
+
+  fiscal'
+bip_39_word_new_line9: 'cargo
+
+  rival
+
+  mean
+
+  aerobic
+
+  prison
+
+  wrestle
+
+  nuclear
+
+  fiscal
+
+  fly'
+bip_39_word_space_0:
+- cargo
+- rival
+- mean
+- aerobic
+- prison
+- wrestle
+- nuclear
+- fiscal
+- fly
+- canvas
+- lunch
+- apple
+bip_39_word_space_1: cargo
+bip_39_word_space_10: cargo rival mean aerobic prison wrestle nuclear fiscal fly canvas
+bip_39_word_space_11: cargo rival mean aerobic prison wrestle nuclear fiscal fly canvas
+  lunch
+bip_39_word_space_12: cargo rival mean aerobic prison wrestle nuclear fiscal fly canvas
+  lunch apple
+bip_39_word_space_2: cargo rival
+bip_39_word_space_3: cargo rival mean
+bip_39_word_space_4: cargo rival mean aerobic
+bip_39_word_space_5: cargo rival mean aerobic prison
+bip_39_word_space_6: cargo rival mean aerobic prison wrestle
+bip_39_word_space_7: cargo rival mean aerobic prison wrestle nuclear
+bip_39_word_space_8: cargo rival mean aerobic prison wrestle nuclear fiscal
+bip_39_word_space_9: cargo rival mean aerobic prison wrestle nuclear fiscal fly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

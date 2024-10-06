@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: clinic dial
+  * bip 39 word 3: clinic dial rule
+  * bip 39 word: clinic dial rule common lift struggle scorpion elephant maximum wish quality amused
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | clinic |  
+| bip_39_word_new_br10 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish |  
+| bip_39_word_new_br11 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish<br>quality |  
+| bip_39_word_new_br12 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum<br>wish<br>quality<br>amused |  
+| bip_39_word_new_br2 | clinic<br>dial |  
+| bip_39_word_new_br3 | clinic<br>dial<br>rule |  
+| bip_39_word_new_br4 | clinic<br>dial<br>rule<br>common |  
+| bip_39_word_new_br5 | clinic<br>dial<br>rule<br>common<br>lift |  
+| bip_39_word_new_br6 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle |  
+| bip_39_word_new_br7 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion |  
+| bip_39_word_new_br8 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant |  
+| bip_39_word_new_br9 | clinic<br>dial<br>rule<br>common<br>lift<br>struggle<br>scorpion<br>elephant<br>maximum |  
+| bip_39_word_new_line1 | clinic |  
+| bip_39_word_new_line10 | clinic
+dial
+rule
+common
+lift
+struggle
+scorpion
+elephant
+maximum
+wish |  
+| bip_39_word_new_line11 | clinic
+dial
+rule
+common
+lift
+struggle
+scorpion
+elephant
+maximum
+wish
+quality |  
+| bip_39_word_new_line12 | clinic
+dial
+rule
+common
+lift
+struggle
+scorpion
+elephant
+maximum
+wish
+quality
+amused |  
+| bip_39_word_new_line2 | clinic
+dial |  
+| bip_39_word_new_line3 | clinic
+dial
+rule |  
+| bip_39_word_new_line4 | clinic
+dial
+rule
+common |  
+| bip_39_word_new_line5 | clinic
+dial
+rule
+common
+lift |  
+| bip_39_word_new_line6 | clinic
+dial
+rule
+common
+lift
+struggle |  
+| bip_39_word_new_line7 | clinic
+dial
+rule
+common
+lift
+struggle
+scorpion |  
+| bip_39_word_new_line8 | clinic
+dial
+rule
+common
+lift
+struggle
+scorpion
+elephant |  
+| bip_39_word_new_line9 | clinic
+dial
+rule
+common
+lift
+struggle
+scorpion
+elephant
+maximum |  
+| bip_39_word_space_0 | ['clinic', 'dial', 'rule', 'common', 'lift', 'struggle', 'scorpion', 'elephant', 'maximum', 'wish', 'quality', 'amused'] |  
+| bip_39_word_space_1 | clinic |  
+| bip_39_word_space_10 | clinic dial rule common lift struggle scorpion elephant maximum wish |  
+| bip_39_word_space_11 | clinic dial rule common lift struggle scorpion elephant maximum wish quality |  
+| bip_39_word_space_12 | clinic dial rule common lift struggle scorpion elephant maximum wish quality amused |  
+| bip_39_word_space_2 | clinic dial |  
+| bip_39_word_space_3 | clinic dial rule |  
+| bip_39_word_space_4 | clinic dial rule common |  
+| bip_39_word_space_5 | clinic dial rule common lift |  
+| bip_39_word_space_6 | clinic dial rule common lift struggle |  
+| bip_39_word_space_7 | clinic dial rule common lift struggle scorpion |  
+| bip_39_word_space_8 | clinic dial rule common lift struggle scorpion elephant |  
+| bip_39_word_space_9 | clinic dial rule common lift struggle scorpion elephant maximum |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

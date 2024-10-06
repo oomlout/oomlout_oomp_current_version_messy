@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: soap inspire
+  * bip 39 word 3: soap inspire egg
+  * bip 39 word: soap inspire egg double prosper tomato claim sense remember slush quiz alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | soap |  
+| bip_39_word_new_br10 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato<br>claim<br>sense<br>remember<br>slush |  
+| bip_39_word_new_br11 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato<br>claim<br>sense<br>remember<br>slush<br>quiz |  
+| bip_39_word_new_br12 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato<br>claim<br>sense<br>remember<br>slush<br>quiz<br>alley |  
+| bip_39_word_new_br2 | soap<br>inspire |  
+| bip_39_word_new_br3 | soap<br>inspire<br>egg |  
+| bip_39_word_new_br4 | soap<br>inspire<br>egg<br>double |  
+| bip_39_word_new_br5 | soap<br>inspire<br>egg<br>double<br>prosper |  
+| bip_39_word_new_br6 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato |  
+| bip_39_word_new_br7 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato<br>claim |  
+| bip_39_word_new_br8 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato<br>claim<br>sense |  
+| bip_39_word_new_br9 | soap<br>inspire<br>egg<br>double<br>prosper<br>tomato<br>claim<br>sense<br>remember |  
+| bip_39_word_new_line1 | soap |  
+| bip_39_word_new_line10 | soap
+inspire
+egg
+double
+prosper
+tomato
+claim
+sense
+remember
+slush |  
+| bip_39_word_new_line11 | soap
+inspire
+egg
+double
+prosper
+tomato
+claim
+sense
+remember
+slush
+quiz |  
+| bip_39_word_new_line12 | soap
+inspire
+egg
+double
+prosper
+tomato
+claim
+sense
+remember
+slush
+quiz
+alley |  
+| bip_39_word_new_line2 | soap
+inspire |  
+| bip_39_word_new_line3 | soap
+inspire
+egg |  
+| bip_39_word_new_line4 | soap
+inspire
+egg
+double |  
+| bip_39_word_new_line5 | soap
+inspire
+egg
+double
+prosper |  
+| bip_39_word_new_line6 | soap
+inspire
+egg
+double
+prosper
+tomato |  
+| bip_39_word_new_line7 | soap
+inspire
+egg
+double
+prosper
+tomato
+claim |  
+| bip_39_word_new_line8 | soap
+inspire
+egg
+double
+prosper
+tomato
+claim
+sense |  
+| bip_39_word_new_line9 | soap
+inspire
+egg
+double
+prosper
+tomato
+claim
+sense
+remember |  
+| bip_39_word_space_0 | ['soap', 'inspire', 'egg', 'double', 'prosper', 'tomato', 'claim', 'sense', 'remember', 'slush', 'quiz', 'alley'] |  
+| bip_39_word_space_1 | soap |  
+| bip_39_word_space_10 | soap inspire egg double prosper tomato claim sense remember slush |  
+| bip_39_word_space_11 | soap inspire egg double prosper tomato claim sense remember slush quiz |  
+| bip_39_word_space_12 | soap inspire egg double prosper tomato claim sense remember slush quiz alley |  
+| bip_39_word_space_2 | soap inspire |  
+| bip_39_word_space_3 | soap inspire egg |  
+| bip_39_word_space_4 | soap inspire egg double |  
+| bip_39_word_space_5 | soap inspire egg double prosper |  
+| bip_39_word_space_6 | soap inspire egg double prosper tomato |  
+| bip_39_word_space_7 | soap inspire egg double prosper tomato claim |  
+| bip_39_word_space_8 | soap inspire egg double prosper tomato claim sense |  
+| bip_39_word_space_9 | soap inspire egg double prosper tomato claim sense remember |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

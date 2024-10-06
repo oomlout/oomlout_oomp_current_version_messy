@@ -1,3 +1,185 @@
+bip_39_word_new_br1: resist
+bip_39_word_new_br10: resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot
+bip_39_word_new_br11: resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot<br>accuse
+bip_39_word_new_br12: resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry<br>foot<br>accuse<br>actor
+bip_39_word_new_br2: resist<br>allow
+bip_39_word_new_br3: resist<br>allow<br>audit
+bip_39_word_new_br4: resist<br>allow<br>audit<br>today
+bip_39_word_new_br5: resist<br>allow<br>audit<br>today<br>lion
+bip_39_word_new_br6: resist<br>allow<br>audit<br>today<br>lion<br>auto
+bip_39_word_new_br7: resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit
+bip_39_word_new_br8: resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon
+bip_39_word_new_br9: resist<br>allow<br>audit<br>today<br>lion<br>auto<br>kit<br>weapon<br>hurry
+bip_39_word_new_line1: resist
+bip_39_word_new_line10: 'resist
+
+  allow
+
+  audit
+
+  today
+
+  lion
+
+  auto
+
+  kit
+
+  weapon
+
+  hurry
+
+  foot'
+bip_39_word_new_line11: 'resist
+
+  allow
+
+  audit
+
+  today
+
+  lion
+
+  auto
+
+  kit
+
+  weapon
+
+  hurry
+
+  foot
+
+  accuse'
+bip_39_word_new_line12: 'resist
+
+  allow
+
+  audit
+
+  today
+
+  lion
+
+  auto
+
+  kit
+
+  weapon
+
+  hurry
+
+  foot
+
+  accuse
+
+  actor'
+bip_39_word_new_line2: 'resist
+
+  allow'
+bip_39_word_new_line3: 'resist
+
+  allow
+
+  audit'
+bip_39_word_new_line4: 'resist
+
+  allow
+
+  audit
+
+  today'
+bip_39_word_new_line5: 'resist
+
+  allow
+
+  audit
+
+  today
+
+  lion'
+bip_39_word_new_line6: 'resist
+
+  allow
+
+  audit
+
+  today
+
+  lion
+
+  auto'
+bip_39_word_new_line7: 'resist
+
+  allow
+
+  audit
+
+  today
+
+  lion
+
+  auto
+
+  kit'
+bip_39_word_new_line8: 'resist
+
+  allow
+
+  audit
+
+  today
+
+  lion
+
+  auto
+
+  kit
+
+  weapon'
+bip_39_word_new_line9: 'resist
+
+  allow
+
+  audit
+
+  today
+
+  lion
+
+  auto
+
+  kit
+
+  weapon
+
+  hurry'
+bip_39_word_space_0:
+- resist
+- allow
+- audit
+- today
+- lion
+- auto
+- kit
+- weapon
+- hurry
+- foot
+- accuse
+- actor
+bip_39_word_space_1: resist
+bip_39_word_space_10: resist allow audit today lion auto kit weapon hurry foot
+bip_39_word_space_11: resist allow audit today lion auto kit weapon hurry foot accuse
+bip_39_word_space_12: resist allow audit today lion auto kit weapon hurry foot accuse
+  actor
+bip_39_word_space_2: resist allow
+bip_39_word_space_3: resist allow audit
+bip_39_word_space_4: resist allow audit today
+bip_39_word_space_5: resist allow audit today lion
+bip_39_word_space_6: resist allow audit today lion auto
+bip_39_word_space_7: resist allow audit today lion auto kit
+bip_39_word_space_8: resist allow audit today lion auto kit weapon
+bip_39_word_space_9: resist allow audit today lion auto kit weapon hurry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

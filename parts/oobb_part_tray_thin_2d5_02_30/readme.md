@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: oven hobby
+  * bip 39 word 3: oven hobby meat
+  * bip 39 word: oven hobby meat crystal pulp fine plunge kidney lazy warm rib audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | oven |  
+| bip_39_word_new_br10 | oven<br>hobby<br>meat<br>crystal<br>pulp<br>fine<br>plunge<br>kidney<br>lazy<br>warm |  
+| bip_39_word_new_br11 | oven<br>hobby<br>meat<br>crystal<br>pulp<br>fine<br>plunge<br>kidney<br>lazy<br>warm<br>rib |  
+| bip_39_word_new_br12 | oven<br>hobby<br>meat<br>crystal<br>pulp<br>fine<br>plunge<br>kidney<br>lazy<br>warm<br>rib<br>audit |  
+| bip_39_word_new_br2 | oven<br>hobby |  
+| bip_39_word_new_br3 | oven<br>hobby<br>meat |  
+| bip_39_word_new_br4 | oven<br>hobby<br>meat<br>crystal |  
+| bip_39_word_new_br5 | oven<br>hobby<br>meat<br>crystal<br>pulp |  
+| bip_39_word_new_br6 | oven<br>hobby<br>meat<br>crystal<br>pulp<br>fine |  
+| bip_39_word_new_br7 | oven<br>hobby<br>meat<br>crystal<br>pulp<br>fine<br>plunge |  
+| bip_39_word_new_br8 | oven<br>hobby<br>meat<br>crystal<br>pulp<br>fine<br>plunge<br>kidney |  
+| bip_39_word_new_br9 | oven<br>hobby<br>meat<br>crystal<br>pulp<br>fine<br>plunge<br>kidney<br>lazy |  
+| bip_39_word_new_line1 | oven |  
+| bip_39_word_new_line10 | oven
+hobby
+meat
+crystal
+pulp
+fine
+plunge
+kidney
+lazy
+warm |  
+| bip_39_word_new_line11 | oven
+hobby
+meat
+crystal
+pulp
+fine
+plunge
+kidney
+lazy
+warm
+rib |  
+| bip_39_word_new_line12 | oven
+hobby
+meat
+crystal
+pulp
+fine
+plunge
+kidney
+lazy
+warm
+rib
+audit |  
+| bip_39_word_new_line2 | oven
+hobby |  
+| bip_39_word_new_line3 | oven
+hobby
+meat |  
+| bip_39_word_new_line4 | oven
+hobby
+meat
+crystal |  
+| bip_39_word_new_line5 | oven
+hobby
+meat
+crystal
+pulp |  
+| bip_39_word_new_line6 | oven
+hobby
+meat
+crystal
+pulp
+fine |  
+| bip_39_word_new_line7 | oven
+hobby
+meat
+crystal
+pulp
+fine
+plunge |  
+| bip_39_word_new_line8 | oven
+hobby
+meat
+crystal
+pulp
+fine
+plunge
+kidney |  
+| bip_39_word_new_line9 | oven
+hobby
+meat
+crystal
+pulp
+fine
+plunge
+kidney
+lazy |  
+| bip_39_word_space_0 | ['oven', 'hobby', 'meat', 'crystal', 'pulp', 'fine', 'plunge', 'kidney', 'lazy', 'warm', 'rib', 'audit'] |  
+| bip_39_word_space_1 | oven |  
+| bip_39_word_space_10 | oven hobby meat crystal pulp fine plunge kidney lazy warm |  
+| bip_39_word_space_11 | oven hobby meat crystal pulp fine plunge kidney lazy warm rib |  
+| bip_39_word_space_12 | oven hobby meat crystal pulp fine plunge kidney lazy warm rib audit |  
+| bip_39_word_space_2 | oven hobby |  
+| bip_39_word_space_3 | oven hobby meat |  
+| bip_39_word_space_4 | oven hobby meat crystal |  
+| bip_39_word_space_5 | oven hobby meat crystal pulp |  
+| bip_39_word_space_6 | oven hobby meat crystal pulp fine |  
+| bip_39_word_space_7 | oven hobby meat crystal pulp fine plunge |  
+| bip_39_word_space_8 | oven hobby meat crystal pulp fine plunge kidney |  
+| bip_39_word_space_9 | oven hobby meat crystal pulp fine plunge kidney lazy |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

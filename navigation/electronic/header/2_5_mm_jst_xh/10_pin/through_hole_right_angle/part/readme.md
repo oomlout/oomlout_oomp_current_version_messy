@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: through_hole_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unhappy visit
+  * bip 39 word 3: unhappy visit define
+  * bip 39 word: unhappy visit define humble dismiss random path cactus other luggage ocean arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unhappy |  
+| bip_39_word_new_br10 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random<br>path<br>cactus<br>other<br>luggage |  
+| bip_39_word_new_br11 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random<br>path<br>cactus<br>other<br>luggage<br>ocean |  
+| bip_39_word_new_br12 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random<br>path<br>cactus<br>other<br>luggage<br>ocean<br>arena |  
+| bip_39_word_new_br2 | unhappy<br>visit |  
+| bip_39_word_new_br3 | unhappy<br>visit<br>define |  
+| bip_39_word_new_br4 | unhappy<br>visit<br>define<br>humble |  
+| bip_39_word_new_br5 | unhappy<br>visit<br>define<br>humble<br>dismiss |  
+| bip_39_word_new_br6 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random |  
+| bip_39_word_new_br7 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random<br>path |  
+| bip_39_word_new_br8 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random<br>path<br>cactus |  
+| bip_39_word_new_br9 | unhappy<br>visit<br>define<br>humble<br>dismiss<br>random<br>path<br>cactus<br>other |  
+| bip_39_word_new_line1 | unhappy |  
+| bip_39_word_new_line10 | unhappy
+visit
+define
+humble
+dismiss
+random
+path
+cactus
+other
+luggage |  
+| bip_39_word_new_line11 | unhappy
+visit
+define
+humble
+dismiss
+random
+path
+cactus
+other
+luggage
+ocean |  
+| bip_39_word_new_line12 | unhappy
+visit
+define
+humble
+dismiss
+random
+path
+cactus
+other
+luggage
+ocean
+arena |  
+| bip_39_word_new_line2 | unhappy
+visit |  
+| bip_39_word_new_line3 | unhappy
+visit
+define |  
+| bip_39_word_new_line4 | unhappy
+visit
+define
+humble |  
+| bip_39_word_new_line5 | unhappy
+visit
+define
+humble
+dismiss |  
+| bip_39_word_new_line6 | unhappy
+visit
+define
+humble
+dismiss
+random |  
+| bip_39_word_new_line7 | unhappy
+visit
+define
+humble
+dismiss
+random
+path |  
+| bip_39_word_new_line8 | unhappy
+visit
+define
+humble
+dismiss
+random
+path
+cactus |  
+| bip_39_word_new_line9 | unhappy
+visit
+define
+humble
+dismiss
+random
+path
+cactus
+other |  
+| bip_39_word_space_0 | ['unhappy', 'visit', 'define', 'humble', 'dismiss', 'random', 'path', 'cactus', 'other', 'luggage', 'ocean', 'arena'] |  
+| bip_39_word_space_1 | unhappy |  
+| bip_39_word_space_10 | unhappy visit define humble dismiss random path cactus other luggage |  
+| bip_39_word_space_11 | unhappy visit define humble dismiss random path cactus other luggage ocean |  
+| bip_39_word_space_12 | unhappy visit define humble dismiss random path cactus other luggage ocean arena |  
+| bip_39_word_space_2 | unhappy visit |  
+| bip_39_word_space_3 | unhappy visit define |  
+| bip_39_word_space_4 | unhappy visit define humble |  
+| bip_39_word_space_5 | unhappy visit define humble dismiss |  
+| bip_39_word_space_6 | unhappy visit define humble dismiss random |  
+| bip_39_word_space_7 | unhappy visit define humble dismiss random path |  
+| bip_39_word_space_8 | unhappy visit define humble dismiss random path cactus |  
+| bip_39_word_space_9 | unhappy visit define humble dismiss random path cactus other |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

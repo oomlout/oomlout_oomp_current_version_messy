@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: brain child
+  * bip 39 word 3: brain child cousin
+  * bip 39 word: brain child cousin there public panda miss river measure fancy hungry absurd
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | brain |  
+| bip_39_word_new_br10 | brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river<br>measure<br>fancy |  
+| bip_39_word_new_br11 | brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river<br>measure<br>fancy<br>hungry |  
+| bip_39_word_new_br12 | brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river<br>measure<br>fancy<br>hungry<br>absurd |  
+| bip_39_word_new_br2 | brain<br>child |  
+| bip_39_word_new_br3 | brain<br>child<br>cousin |  
+| bip_39_word_new_br4 | brain<br>child<br>cousin<br>there |  
+| bip_39_word_new_br5 | brain<br>child<br>cousin<br>there<br>public |  
+| bip_39_word_new_br6 | brain<br>child<br>cousin<br>there<br>public<br>panda |  
+| bip_39_word_new_br7 | brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss |  
+| bip_39_word_new_br8 | brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river |  
+| bip_39_word_new_br9 | brain<br>child<br>cousin<br>there<br>public<br>panda<br>miss<br>river<br>measure |  
+| bip_39_word_new_line1 | brain |  
+| bip_39_word_new_line10 | brain
+child
+cousin
+there
+public
+panda
+miss
+river
+measure
+fancy |  
+| bip_39_word_new_line11 | brain
+child
+cousin
+there
+public
+panda
+miss
+river
+measure
+fancy
+hungry |  
+| bip_39_word_new_line12 | brain
+child
+cousin
+there
+public
+panda
+miss
+river
+measure
+fancy
+hungry
+absurd |  
+| bip_39_word_new_line2 | brain
+child |  
+| bip_39_word_new_line3 | brain
+child
+cousin |  
+| bip_39_word_new_line4 | brain
+child
+cousin
+there |  
+| bip_39_word_new_line5 | brain
+child
+cousin
+there
+public |  
+| bip_39_word_new_line6 | brain
+child
+cousin
+there
+public
+panda |  
+| bip_39_word_new_line7 | brain
+child
+cousin
+there
+public
+panda
+miss |  
+| bip_39_word_new_line8 | brain
+child
+cousin
+there
+public
+panda
+miss
+river |  
+| bip_39_word_new_line9 | brain
+child
+cousin
+there
+public
+panda
+miss
+river
+measure |  
+| bip_39_word_space_0 | ['brain', 'child', 'cousin', 'there', 'public', 'panda', 'miss', 'river', 'measure', 'fancy', 'hungry', 'absurd'] |  
+| bip_39_word_space_1 | brain |  
+| bip_39_word_space_10 | brain child cousin there public panda miss river measure fancy |  
+| bip_39_word_space_11 | brain child cousin there public panda miss river measure fancy hungry |  
+| bip_39_word_space_12 | brain child cousin there public panda miss river measure fancy hungry absurd |  
+| bip_39_word_space_2 | brain child |  
+| bip_39_word_space_3 | brain child cousin |  
+| bip_39_word_space_4 | brain child cousin there |  
+| bip_39_word_space_5 | brain child cousin there public |  
+| bip_39_word_space_6 | brain child cousin there public panda |  
+| bip_39_word_space_7 | brain child cousin there public panda miss |  
+| bip_39_word_space_8 | brain child cousin there public panda miss river |  
+| bip_39_word_space_9 | brain child cousin there public panda miss river measure |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

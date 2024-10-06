@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: give game
+  * bip 39 word 3: give game access
+  * bip 39 word: give game access come abstract gospel rabbit glue warm tag orphan alarm
 
 ### other_codes
 * short_code: b6m25
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | give |  
+| bip_39_word_new_br10 | give<br>game<br>access<br>come<br>abstract<br>gospel<br>rabbit<br>glue<br>warm<br>tag |  
+| bip_39_word_new_br11 | give<br>game<br>access<br>come<br>abstract<br>gospel<br>rabbit<br>glue<br>warm<br>tag<br>orphan |  
+| bip_39_word_new_br12 | give<br>game<br>access<br>come<br>abstract<br>gospel<br>rabbit<br>glue<br>warm<br>tag<br>orphan<br>alarm |  
+| bip_39_word_new_br2 | give<br>game |  
+| bip_39_word_new_br3 | give<br>game<br>access |  
+| bip_39_word_new_br4 | give<br>game<br>access<br>come |  
+| bip_39_word_new_br5 | give<br>game<br>access<br>come<br>abstract |  
+| bip_39_word_new_br6 | give<br>game<br>access<br>come<br>abstract<br>gospel |  
+| bip_39_word_new_br7 | give<br>game<br>access<br>come<br>abstract<br>gospel<br>rabbit |  
+| bip_39_word_new_br8 | give<br>game<br>access<br>come<br>abstract<br>gospel<br>rabbit<br>glue |  
+| bip_39_word_new_br9 | give<br>game<br>access<br>come<br>abstract<br>gospel<br>rabbit<br>glue<br>warm |  
+| bip_39_word_new_line1 | give |  
+| bip_39_word_new_line10 | give
+game
+access
+come
+abstract
+gospel
+rabbit
+glue
+warm
+tag |  
+| bip_39_word_new_line11 | give
+game
+access
+come
+abstract
+gospel
+rabbit
+glue
+warm
+tag
+orphan |  
+| bip_39_word_new_line12 | give
+game
+access
+come
+abstract
+gospel
+rabbit
+glue
+warm
+tag
+orphan
+alarm |  
+| bip_39_word_new_line2 | give
+game |  
+| bip_39_word_new_line3 | give
+game
+access |  
+| bip_39_word_new_line4 | give
+game
+access
+come |  
+| bip_39_word_new_line5 | give
+game
+access
+come
+abstract |  
+| bip_39_word_new_line6 | give
+game
+access
+come
+abstract
+gospel |  
+| bip_39_word_new_line7 | give
+game
+access
+come
+abstract
+gospel
+rabbit |  
+| bip_39_word_new_line8 | give
+game
+access
+come
+abstract
+gospel
+rabbit
+glue |  
+| bip_39_word_new_line9 | give
+game
+access
+come
+abstract
+gospel
+rabbit
+glue
+warm |  
+| bip_39_word_space_0 | ['give', 'game', 'access', 'come', 'abstract', 'gospel', 'rabbit', 'glue', 'warm', 'tag', 'orphan', 'alarm'] |  
+| bip_39_word_space_1 | give |  
+| bip_39_word_space_10 | give game access come abstract gospel rabbit glue warm tag |  
+| bip_39_word_space_11 | give game access come abstract gospel rabbit glue warm tag orphan |  
+| bip_39_word_space_12 | give game access come abstract gospel rabbit glue warm tag orphan alarm |  
+| bip_39_word_space_2 | give game |  
+| bip_39_word_space_3 | give game access |  
+| bip_39_word_space_4 | give game access come |  
+| bip_39_word_space_5 | give game access come abstract |  
+| bip_39_word_space_6 | give game access come abstract gospel |  
+| bip_39_word_space_7 | give game access come abstract gospel rabbit |  
+| bip_39_word_space_8 | give game access come abstract gospel rabbit glue |  
+| bip_39_word_space_9 | give game access come abstract gospel rabbit glue warm |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_sh_m3
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: pipe always
+  * bip 39 word 3: pipe always witness
+  * bip 39 word: pipe always witness choice dismiss decline erase drink buyer wild action ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | pipe |  
+| bip_39_word_new_br10 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild |  
+| bip_39_word_new_br11 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild<br>action |  
+| bip_39_word_new_br12 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer<br>wild<br>action<br>ahead |  
+| bip_39_word_new_br2 | pipe<br>always |  
+| bip_39_word_new_br3 | pipe<br>always<br>witness |  
+| bip_39_word_new_br4 | pipe<br>always<br>witness<br>choice |  
+| bip_39_word_new_br5 | pipe<br>always<br>witness<br>choice<br>dismiss |  
+| bip_39_word_new_br6 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline |  
+| bip_39_word_new_br7 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase |  
+| bip_39_word_new_br8 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink |  
+| bip_39_word_new_br9 | pipe<br>always<br>witness<br>choice<br>dismiss<br>decline<br>erase<br>drink<br>buyer |  
+| bip_39_word_new_line1 | pipe |  
+| bip_39_word_new_line10 | pipe
+always
+witness
+choice
+dismiss
+decline
+erase
+drink
+buyer
+wild |  
+| bip_39_word_new_line11 | pipe
+always
+witness
+choice
+dismiss
+decline
+erase
+drink
+buyer
+wild
+action |  
+| bip_39_word_new_line12 | pipe
+always
+witness
+choice
+dismiss
+decline
+erase
+drink
+buyer
+wild
+action
+ahead |  
+| bip_39_word_new_line2 | pipe
+always |  
+| bip_39_word_new_line3 | pipe
+always
+witness |  
+| bip_39_word_new_line4 | pipe
+always
+witness
+choice |  
+| bip_39_word_new_line5 | pipe
+always
+witness
+choice
+dismiss |  
+| bip_39_word_new_line6 | pipe
+always
+witness
+choice
+dismiss
+decline |  
+| bip_39_word_new_line7 | pipe
+always
+witness
+choice
+dismiss
+decline
+erase |  
+| bip_39_word_new_line8 | pipe
+always
+witness
+choice
+dismiss
+decline
+erase
+drink |  
+| bip_39_word_new_line9 | pipe
+always
+witness
+choice
+dismiss
+decline
+erase
+drink
+buyer |  
+| bip_39_word_space_0 | ['pipe', 'always', 'witness', 'choice', 'dismiss', 'decline', 'erase', 'drink', 'buyer', 'wild', 'action', 'ahead'] |  
+| bip_39_word_space_1 | pipe |  
+| bip_39_word_space_10 | pipe always witness choice dismiss decline erase drink buyer wild |  
+| bip_39_word_space_11 | pipe always witness choice dismiss decline erase drink buyer wild action |  
+| bip_39_word_space_12 | pipe always witness choice dismiss decline erase drink buyer wild action ahead |  
+| bip_39_word_space_2 | pipe always |  
+| bip_39_word_space_3 | pipe always witness |  
+| bip_39_word_space_4 | pipe always witness choice |  
+| bip_39_word_space_5 | pipe always witness choice dismiss |  
+| bip_39_word_space_6 | pipe always witness choice dismiss decline |  
+| bip_39_word_space_7 | pipe always witness choice dismiss decline erase |  
+| bip_39_word_space_8 | pipe always witness choice dismiss decline erase drink |  
+| bip_39_word_space_9 | pipe always witness choice dismiss decline erase drink buyer |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: output knife
+  * bip 39 word 3: output knife spirit
+  * bip 39 word: output knife spirit kingdom ethics monkey butter arctic distance city spider alter
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | output |  
+| bip_39_word_new_br10 | output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey<br>butter<br>arctic<br>distance<br>city |  
+| bip_39_word_new_br11 | output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey<br>butter<br>arctic<br>distance<br>city<br>spider |  
+| bip_39_word_new_br12 | output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey<br>butter<br>arctic<br>distance<br>city<br>spider<br>alter |  
+| bip_39_word_new_br2 | output<br>knife |  
+| bip_39_word_new_br3 | output<br>knife<br>spirit |  
+| bip_39_word_new_br4 | output<br>knife<br>spirit<br>kingdom |  
+| bip_39_word_new_br5 | output<br>knife<br>spirit<br>kingdom<br>ethics |  
+| bip_39_word_new_br6 | output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey |  
+| bip_39_word_new_br7 | output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey<br>butter |  
+| bip_39_word_new_br8 | output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey<br>butter<br>arctic |  
+| bip_39_word_new_br9 | output<br>knife<br>spirit<br>kingdom<br>ethics<br>monkey<br>butter<br>arctic<br>distance |  
+| bip_39_word_new_line1 | output |  
+| bip_39_word_new_line10 | output
+knife
+spirit
+kingdom
+ethics
+monkey
+butter
+arctic
+distance
+city |  
+| bip_39_word_new_line11 | output
+knife
+spirit
+kingdom
+ethics
+monkey
+butter
+arctic
+distance
+city
+spider |  
+| bip_39_word_new_line12 | output
+knife
+spirit
+kingdom
+ethics
+monkey
+butter
+arctic
+distance
+city
+spider
+alter |  
+| bip_39_word_new_line2 | output
+knife |  
+| bip_39_word_new_line3 | output
+knife
+spirit |  
+| bip_39_word_new_line4 | output
+knife
+spirit
+kingdom |  
+| bip_39_word_new_line5 | output
+knife
+spirit
+kingdom
+ethics |  
+| bip_39_word_new_line6 | output
+knife
+spirit
+kingdom
+ethics
+monkey |  
+| bip_39_word_new_line7 | output
+knife
+spirit
+kingdom
+ethics
+monkey
+butter |  
+| bip_39_word_new_line8 | output
+knife
+spirit
+kingdom
+ethics
+monkey
+butter
+arctic |  
+| bip_39_word_new_line9 | output
+knife
+spirit
+kingdom
+ethics
+monkey
+butter
+arctic
+distance |  
+| bip_39_word_space_0 | ['output', 'knife', 'spirit', 'kingdom', 'ethics', 'monkey', 'butter', 'arctic', 'distance', 'city', 'spider', 'alter'] |  
+| bip_39_word_space_1 | output |  
+| bip_39_word_space_10 | output knife spirit kingdom ethics monkey butter arctic distance city |  
+| bip_39_word_space_11 | output knife spirit kingdom ethics monkey butter arctic distance city spider |  
+| bip_39_word_space_12 | output knife spirit kingdom ethics monkey butter arctic distance city spider alter |  
+| bip_39_word_space_2 | output knife |  
+| bip_39_word_space_3 | output knife spirit |  
+| bip_39_word_space_4 | output knife spirit kingdom |  
+| bip_39_word_space_5 | output knife spirit kingdom ethics |  
+| bip_39_word_space_6 | output knife spirit kingdom ethics monkey |  
+| bip_39_word_space_7 | output knife spirit kingdom ethics monkey butter |  
+| bip_39_word_space_8 | output knife spirit kingdom ethics monkey butter arctic |  
+| bip_39_word_space_9 | output knife spirit kingdom ethics monkey butter arctic distance |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

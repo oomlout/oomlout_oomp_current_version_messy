@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: midnight hungry
+  * bip 39 word 3: midnight hungry under
+  * bip 39 word: midnight hungry under trap join open spirit doll naive enhance hunt alone
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | midnight |  
+| bip_39_word_new_br10 | midnight<br>hungry<br>under<br>trap<br>join<br>open<br>spirit<br>doll<br>naive<br>enhance |  
+| bip_39_word_new_br11 | midnight<br>hungry<br>under<br>trap<br>join<br>open<br>spirit<br>doll<br>naive<br>enhance<br>hunt |  
+| bip_39_word_new_br12 | midnight<br>hungry<br>under<br>trap<br>join<br>open<br>spirit<br>doll<br>naive<br>enhance<br>hunt<br>alone |  
+| bip_39_word_new_br2 | midnight<br>hungry |  
+| bip_39_word_new_br3 | midnight<br>hungry<br>under |  
+| bip_39_word_new_br4 | midnight<br>hungry<br>under<br>trap |  
+| bip_39_word_new_br5 | midnight<br>hungry<br>under<br>trap<br>join |  
+| bip_39_word_new_br6 | midnight<br>hungry<br>under<br>trap<br>join<br>open |  
+| bip_39_word_new_br7 | midnight<br>hungry<br>under<br>trap<br>join<br>open<br>spirit |  
+| bip_39_word_new_br8 | midnight<br>hungry<br>under<br>trap<br>join<br>open<br>spirit<br>doll |  
+| bip_39_word_new_br9 | midnight<br>hungry<br>under<br>trap<br>join<br>open<br>spirit<br>doll<br>naive |  
+| bip_39_word_new_line1 | midnight |  
+| bip_39_word_new_line10 | midnight
+hungry
+under
+trap
+join
+open
+spirit
+doll
+naive
+enhance |  
+| bip_39_word_new_line11 | midnight
+hungry
+under
+trap
+join
+open
+spirit
+doll
+naive
+enhance
+hunt |  
+| bip_39_word_new_line12 | midnight
+hungry
+under
+trap
+join
+open
+spirit
+doll
+naive
+enhance
+hunt
+alone |  
+| bip_39_word_new_line2 | midnight
+hungry |  
+| bip_39_word_new_line3 | midnight
+hungry
+under |  
+| bip_39_word_new_line4 | midnight
+hungry
+under
+trap |  
+| bip_39_word_new_line5 | midnight
+hungry
+under
+trap
+join |  
+| bip_39_word_new_line6 | midnight
+hungry
+under
+trap
+join
+open |  
+| bip_39_word_new_line7 | midnight
+hungry
+under
+trap
+join
+open
+spirit |  
+| bip_39_word_new_line8 | midnight
+hungry
+under
+trap
+join
+open
+spirit
+doll |  
+| bip_39_word_new_line9 | midnight
+hungry
+under
+trap
+join
+open
+spirit
+doll
+naive |  
+| bip_39_word_space_0 | ['midnight', 'hungry', 'under', 'trap', 'join', 'open', 'spirit', 'doll', 'naive', 'enhance', 'hunt', 'alone'] |  
+| bip_39_word_space_1 | midnight |  
+| bip_39_word_space_10 | midnight hungry under trap join open spirit doll naive enhance |  
+| bip_39_word_space_11 | midnight hungry under trap join open spirit doll naive enhance hunt |  
+| bip_39_word_space_12 | midnight hungry under trap join open spirit doll naive enhance hunt alone |  
+| bip_39_word_space_2 | midnight hungry |  
+| bip_39_word_space_3 | midnight hungry under |  
+| bip_39_word_space_4 | midnight hungry under trap |  
+| bip_39_word_space_5 | midnight hungry under trap join |  
+| bip_39_word_space_6 | midnight hungry under trap join open |  
+| bip_39_word_space_7 | midnight hungry under trap join open spirit |  
+| bip_39_word_space_8 | midnight hungry under trap join open spirit doll |  
+| bip_39_word_space_9 | midnight hungry under trap join open spirit doll naive |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

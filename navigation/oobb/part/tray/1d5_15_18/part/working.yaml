@@ -1,3 +1,186 @@
+bip_39_word_new_br1: dog
+bip_39_word_new_br10: dog<br>credit<br>swear<br>true<br>holiday<br>fault<br>suit<br>employ<br>carbon<br>potato
+bip_39_word_new_br11: dog<br>credit<br>swear<br>true<br>holiday<br>fault<br>suit<br>employ<br>carbon<br>potato<br>auto
+bip_39_word_new_br12: dog<br>credit<br>swear<br>true<br>holiday<br>fault<br>suit<br>employ<br>carbon<br>potato<br>auto<br>afraid
+bip_39_word_new_br2: dog<br>credit
+bip_39_word_new_br3: dog<br>credit<br>swear
+bip_39_word_new_br4: dog<br>credit<br>swear<br>true
+bip_39_word_new_br5: dog<br>credit<br>swear<br>true<br>holiday
+bip_39_word_new_br6: dog<br>credit<br>swear<br>true<br>holiday<br>fault
+bip_39_word_new_br7: dog<br>credit<br>swear<br>true<br>holiday<br>fault<br>suit
+bip_39_word_new_br8: dog<br>credit<br>swear<br>true<br>holiday<br>fault<br>suit<br>employ
+bip_39_word_new_br9: dog<br>credit<br>swear<br>true<br>holiday<br>fault<br>suit<br>employ<br>carbon
+bip_39_word_new_line1: dog
+bip_39_word_new_line10: 'dog
+
+  credit
+
+  swear
+
+  true
+
+  holiday
+
+  fault
+
+  suit
+
+  employ
+
+  carbon
+
+  potato'
+bip_39_word_new_line11: 'dog
+
+  credit
+
+  swear
+
+  true
+
+  holiday
+
+  fault
+
+  suit
+
+  employ
+
+  carbon
+
+  potato
+
+  auto'
+bip_39_word_new_line12: 'dog
+
+  credit
+
+  swear
+
+  true
+
+  holiday
+
+  fault
+
+  suit
+
+  employ
+
+  carbon
+
+  potato
+
+  auto
+
+  afraid'
+bip_39_word_new_line2: 'dog
+
+  credit'
+bip_39_word_new_line3: 'dog
+
+  credit
+
+  swear'
+bip_39_word_new_line4: 'dog
+
+  credit
+
+  swear
+
+  true'
+bip_39_word_new_line5: 'dog
+
+  credit
+
+  swear
+
+  true
+
+  holiday'
+bip_39_word_new_line6: 'dog
+
+  credit
+
+  swear
+
+  true
+
+  holiday
+
+  fault'
+bip_39_word_new_line7: 'dog
+
+  credit
+
+  swear
+
+  true
+
+  holiday
+
+  fault
+
+  suit'
+bip_39_word_new_line8: 'dog
+
+  credit
+
+  swear
+
+  true
+
+  holiday
+
+  fault
+
+  suit
+
+  employ'
+bip_39_word_new_line9: 'dog
+
+  credit
+
+  swear
+
+  true
+
+  holiday
+
+  fault
+
+  suit
+
+  employ
+
+  carbon'
+bip_39_word_space_0:
+- dog
+- credit
+- swear
+- 'true'
+- holiday
+- fault
+- suit
+- employ
+- carbon
+- potato
+- auto
+- afraid
+bip_39_word_space_1: dog
+bip_39_word_space_10: dog credit swear true holiday fault suit employ carbon potato
+bip_39_word_space_11: dog credit swear true holiday fault suit employ carbon potato
+  auto
+bip_39_word_space_12: dog credit swear true holiday fault suit employ carbon potato
+  auto afraid
+bip_39_word_space_2: dog credit
+bip_39_word_space_3: dog credit swear
+bip_39_word_space_4: dog credit swear true
+bip_39_word_space_5: dog credit swear true holiday
+bip_39_word_space_6: dog credit swear true holiday fault
+bip_39_word_space_7: dog credit swear true holiday fault suit
+bip_39_word_space_8: dog credit swear true holiday fault suit employ
+bip_39_word_space_9: dog credit swear true holiday fault suit employ carbon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

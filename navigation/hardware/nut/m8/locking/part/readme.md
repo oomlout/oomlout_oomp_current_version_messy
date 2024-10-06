@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: glimpse blanket
+  * bip 39 word 3: glimpse blanket virtual
+  * bip 39 word: glimpse blanket virtual usual surge select few process occur assist rebel adapt
 
 ### other_codes
 * short_code: n8mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | glimpse |  
+| bip_39_word_new_br10 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select<br>few<br>process<br>occur<br>assist |  
+| bip_39_word_new_br11 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select<br>few<br>process<br>occur<br>assist<br>rebel |  
+| bip_39_word_new_br12 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select<br>few<br>process<br>occur<br>assist<br>rebel<br>adapt |  
+| bip_39_word_new_br2 | glimpse<br>blanket |  
+| bip_39_word_new_br3 | glimpse<br>blanket<br>virtual |  
+| bip_39_word_new_br4 | glimpse<br>blanket<br>virtual<br>usual |  
+| bip_39_word_new_br5 | glimpse<br>blanket<br>virtual<br>usual<br>surge |  
+| bip_39_word_new_br6 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select |  
+| bip_39_word_new_br7 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select<br>few |  
+| bip_39_word_new_br8 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select<br>few<br>process |  
+| bip_39_word_new_br9 | glimpse<br>blanket<br>virtual<br>usual<br>surge<br>select<br>few<br>process<br>occur |  
+| bip_39_word_new_line1 | glimpse |  
+| bip_39_word_new_line10 | glimpse
+blanket
+virtual
+usual
+surge
+select
+few
+process
+occur
+assist |  
+| bip_39_word_new_line11 | glimpse
+blanket
+virtual
+usual
+surge
+select
+few
+process
+occur
+assist
+rebel |  
+| bip_39_word_new_line12 | glimpse
+blanket
+virtual
+usual
+surge
+select
+few
+process
+occur
+assist
+rebel
+adapt |  
+| bip_39_word_new_line2 | glimpse
+blanket |  
+| bip_39_word_new_line3 | glimpse
+blanket
+virtual |  
+| bip_39_word_new_line4 | glimpse
+blanket
+virtual
+usual |  
+| bip_39_word_new_line5 | glimpse
+blanket
+virtual
+usual
+surge |  
+| bip_39_word_new_line6 | glimpse
+blanket
+virtual
+usual
+surge
+select |  
+| bip_39_word_new_line7 | glimpse
+blanket
+virtual
+usual
+surge
+select
+few |  
+| bip_39_word_new_line8 | glimpse
+blanket
+virtual
+usual
+surge
+select
+few
+process |  
+| bip_39_word_new_line9 | glimpse
+blanket
+virtual
+usual
+surge
+select
+few
+process
+occur |  
+| bip_39_word_space_0 | ['glimpse', 'blanket', 'virtual', 'usual', 'surge', 'select', 'few', 'process', 'occur', 'assist', 'rebel', 'adapt'] |  
+| bip_39_word_space_1 | glimpse |  
+| bip_39_word_space_10 | glimpse blanket virtual usual surge select few process occur assist |  
+| bip_39_word_space_11 | glimpse blanket virtual usual surge select few process occur assist rebel |  
+| bip_39_word_space_12 | glimpse blanket virtual usual surge select few process occur assist rebel adapt |  
+| bip_39_word_space_2 | glimpse blanket |  
+| bip_39_word_space_3 | glimpse blanket virtual |  
+| bip_39_word_space_4 | glimpse blanket virtual usual |  
+| bip_39_word_space_5 | glimpse blanket virtual usual surge |  
+| bip_39_word_space_6 | glimpse blanket virtual usual surge select |  
+| bip_39_word_space_7 | glimpse blanket virtual usual surge select few |  
+| bip_39_word_space_8 | glimpse blanket virtual usual surge select few process |  
+| bip_39_word_space_9 | glimpse blanket virtual usual surge select few process occur |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

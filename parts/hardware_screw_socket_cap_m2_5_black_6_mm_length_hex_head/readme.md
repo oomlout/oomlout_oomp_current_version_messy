@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: decade help
+  * bip 39 word 3: decade help grid
+  * bip 39 word: decade help grid merge elite control armor habit unit disease someone agree
 
 ### other_codes
 * short_code: sc2d5b6h
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | decade |  
+| bip_39_word_new_br10 | decade<br>help<br>grid<br>merge<br>elite<br>control<br>armor<br>habit<br>unit<br>disease |  
+| bip_39_word_new_br11 | decade<br>help<br>grid<br>merge<br>elite<br>control<br>armor<br>habit<br>unit<br>disease<br>someone |  
+| bip_39_word_new_br12 | decade<br>help<br>grid<br>merge<br>elite<br>control<br>armor<br>habit<br>unit<br>disease<br>someone<br>agree |  
+| bip_39_word_new_br2 | decade<br>help |  
+| bip_39_word_new_br3 | decade<br>help<br>grid |  
+| bip_39_word_new_br4 | decade<br>help<br>grid<br>merge |  
+| bip_39_word_new_br5 | decade<br>help<br>grid<br>merge<br>elite |  
+| bip_39_word_new_br6 | decade<br>help<br>grid<br>merge<br>elite<br>control |  
+| bip_39_word_new_br7 | decade<br>help<br>grid<br>merge<br>elite<br>control<br>armor |  
+| bip_39_word_new_br8 | decade<br>help<br>grid<br>merge<br>elite<br>control<br>armor<br>habit |  
+| bip_39_word_new_br9 | decade<br>help<br>grid<br>merge<br>elite<br>control<br>armor<br>habit<br>unit |  
+| bip_39_word_new_line1 | decade |  
+| bip_39_word_new_line10 | decade
+help
+grid
+merge
+elite
+control
+armor
+habit
+unit
+disease |  
+| bip_39_word_new_line11 | decade
+help
+grid
+merge
+elite
+control
+armor
+habit
+unit
+disease
+someone |  
+| bip_39_word_new_line12 | decade
+help
+grid
+merge
+elite
+control
+armor
+habit
+unit
+disease
+someone
+agree |  
+| bip_39_word_new_line2 | decade
+help |  
+| bip_39_word_new_line3 | decade
+help
+grid |  
+| bip_39_word_new_line4 | decade
+help
+grid
+merge |  
+| bip_39_word_new_line5 | decade
+help
+grid
+merge
+elite |  
+| bip_39_word_new_line6 | decade
+help
+grid
+merge
+elite
+control |  
+| bip_39_word_new_line7 | decade
+help
+grid
+merge
+elite
+control
+armor |  
+| bip_39_word_new_line8 | decade
+help
+grid
+merge
+elite
+control
+armor
+habit |  
+| bip_39_word_new_line9 | decade
+help
+grid
+merge
+elite
+control
+armor
+habit
+unit |  
+| bip_39_word_space_0 | ['decade', 'help', 'grid', 'merge', 'elite', 'control', 'armor', 'habit', 'unit', 'disease', 'someone', 'agree'] |  
+| bip_39_word_space_1 | decade |  
+| bip_39_word_space_10 | decade help grid merge elite control armor habit unit disease |  
+| bip_39_word_space_11 | decade help grid merge elite control armor habit unit disease someone |  
+| bip_39_word_space_12 | decade help grid merge elite control armor habit unit disease someone agree |  
+| bip_39_word_space_2 | decade help |  
+| bip_39_word_space_3 | decade help grid |  
+| bip_39_word_space_4 | decade help grid merge |  
+| bip_39_word_space_5 | decade help grid merge elite |  
+| bip_39_word_space_6 | decade help grid merge elite control |  
+| bip_39_word_space_7 | decade help grid merge elite control armor |  
+| bip_39_word_space_8 | decade help grid merge elite control armor habit |  
+| bip_39_word_space_9 | decade help grid merge elite control armor habit unit |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

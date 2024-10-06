@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: resemble giraffe
+  * bip 39 word 3: resemble giraffe raise
+  * bip 39 word: resemble giraffe raise green foil oven chef witness hunt rebuild inform accuse
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | resemble |  
+| bip_39_word_new_br10 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild |  
+| bip_39_word_new_br11 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform |  
+| bip_39_word_new_br12 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform<br>accuse |  
+| bip_39_word_new_br2 | resemble<br>giraffe |  
+| bip_39_word_new_br3 | resemble<br>giraffe<br>raise |  
+| bip_39_word_new_br4 | resemble<br>giraffe<br>raise<br>green |  
+| bip_39_word_new_br5 | resemble<br>giraffe<br>raise<br>green<br>foil |  
+| bip_39_word_new_br6 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven |  
+| bip_39_word_new_br7 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef |  
+| bip_39_word_new_br8 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness |  
+| bip_39_word_new_br9 | resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt |  
+| bip_39_word_new_line1 | resemble |  
+| bip_39_word_new_line10 | resemble
+giraffe
+raise
+green
+foil
+oven
+chef
+witness
+hunt
+rebuild |  
+| bip_39_word_new_line11 | resemble
+giraffe
+raise
+green
+foil
+oven
+chef
+witness
+hunt
+rebuild
+inform |  
+| bip_39_word_new_line12 | resemble
+giraffe
+raise
+green
+foil
+oven
+chef
+witness
+hunt
+rebuild
+inform
+accuse |  
+| bip_39_word_new_line2 | resemble
+giraffe |  
+| bip_39_word_new_line3 | resemble
+giraffe
+raise |  
+| bip_39_word_new_line4 | resemble
+giraffe
+raise
+green |  
+| bip_39_word_new_line5 | resemble
+giraffe
+raise
+green
+foil |  
+| bip_39_word_new_line6 | resemble
+giraffe
+raise
+green
+foil
+oven |  
+| bip_39_word_new_line7 | resemble
+giraffe
+raise
+green
+foil
+oven
+chef |  
+| bip_39_word_new_line8 | resemble
+giraffe
+raise
+green
+foil
+oven
+chef
+witness |  
+| bip_39_word_new_line9 | resemble
+giraffe
+raise
+green
+foil
+oven
+chef
+witness
+hunt |  
+| bip_39_word_space_0 | ['resemble', 'giraffe', 'raise', 'green', 'foil', 'oven', 'chef', 'witness', 'hunt', 'rebuild', 'inform', 'accuse'] |  
+| bip_39_word_space_1 | resemble |  
+| bip_39_word_space_10 | resemble giraffe raise green foil oven chef witness hunt rebuild |  
+| bip_39_word_space_11 | resemble giraffe raise green foil oven chef witness hunt rebuild inform |  
+| bip_39_word_space_12 | resemble giraffe raise green foil oven chef witness hunt rebuild inform accuse |  
+| bip_39_word_space_2 | resemble giraffe |  
+| bip_39_word_space_3 | resemble giraffe raise |  
+| bip_39_word_space_4 | resemble giraffe raise green |  
+| bip_39_word_space_5 | resemble giraffe raise green foil |  
+| bip_39_word_space_6 | resemble giraffe raise green foil oven |  
+| bip_39_word_space_7 | resemble giraffe raise green foil oven chef |  
+| bip_39_word_space_8 | resemble giraffe raise green foil oven chef witness |  
+| bip_39_word_space_9 | resemble giraffe raise green foil oven chef witness hunt |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

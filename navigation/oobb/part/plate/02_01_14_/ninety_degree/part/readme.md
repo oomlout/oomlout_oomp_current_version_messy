@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: ninety_degree
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: horror sheriff
+  * bip 39 word 3: horror sheriff secret
+  * bip 39 word: horror sheriff secret wall misery junior opinion oblige snow eye bird attract
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | horror |  
+| bip_39_word_new_br10 | horror<br>sheriff<br>secret<br>wall<br>misery<br>junior<br>opinion<br>oblige<br>snow<br>eye |  
+| bip_39_word_new_br11 | horror<br>sheriff<br>secret<br>wall<br>misery<br>junior<br>opinion<br>oblige<br>snow<br>eye<br>bird |  
+| bip_39_word_new_br12 | horror<br>sheriff<br>secret<br>wall<br>misery<br>junior<br>opinion<br>oblige<br>snow<br>eye<br>bird<br>attract |  
+| bip_39_word_new_br2 | horror<br>sheriff |  
+| bip_39_word_new_br3 | horror<br>sheriff<br>secret |  
+| bip_39_word_new_br4 | horror<br>sheriff<br>secret<br>wall |  
+| bip_39_word_new_br5 | horror<br>sheriff<br>secret<br>wall<br>misery |  
+| bip_39_word_new_br6 | horror<br>sheriff<br>secret<br>wall<br>misery<br>junior |  
+| bip_39_word_new_br7 | horror<br>sheriff<br>secret<br>wall<br>misery<br>junior<br>opinion |  
+| bip_39_word_new_br8 | horror<br>sheriff<br>secret<br>wall<br>misery<br>junior<br>opinion<br>oblige |  
+| bip_39_word_new_br9 | horror<br>sheriff<br>secret<br>wall<br>misery<br>junior<br>opinion<br>oblige<br>snow |  
+| bip_39_word_new_line1 | horror |  
+| bip_39_word_new_line10 | horror
+sheriff
+secret
+wall
+misery
+junior
+opinion
+oblige
+snow
+eye |  
+| bip_39_word_new_line11 | horror
+sheriff
+secret
+wall
+misery
+junior
+opinion
+oblige
+snow
+eye
+bird |  
+| bip_39_word_new_line12 | horror
+sheriff
+secret
+wall
+misery
+junior
+opinion
+oblige
+snow
+eye
+bird
+attract |  
+| bip_39_word_new_line2 | horror
+sheriff |  
+| bip_39_word_new_line3 | horror
+sheriff
+secret |  
+| bip_39_word_new_line4 | horror
+sheriff
+secret
+wall |  
+| bip_39_word_new_line5 | horror
+sheriff
+secret
+wall
+misery |  
+| bip_39_word_new_line6 | horror
+sheriff
+secret
+wall
+misery
+junior |  
+| bip_39_word_new_line7 | horror
+sheriff
+secret
+wall
+misery
+junior
+opinion |  
+| bip_39_word_new_line8 | horror
+sheriff
+secret
+wall
+misery
+junior
+opinion
+oblige |  
+| bip_39_word_new_line9 | horror
+sheriff
+secret
+wall
+misery
+junior
+opinion
+oblige
+snow |  
+| bip_39_word_space_0 | ['horror', 'sheriff', 'secret', 'wall', 'misery', 'junior', 'opinion', 'oblige', 'snow', 'eye', 'bird', 'attract'] |  
+| bip_39_word_space_1 | horror |  
+| bip_39_word_space_10 | horror sheriff secret wall misery junior opinion oblige snow eye |  
+| bip_39_word_space_11 | horror sheriff secret wall misery junior opinion oblige snow eye bird |  
+| bip_39_word_space_12 | horror sheriff secret wall misery junior opinion oblige snow eye bird attract |  
+| bip_39_word_space_2 | horror sheriff |  
+| bip_39_word_space_3 | horror sheriff secret |  
+| bip_39_word_space_4 | horror sheriff secret wall |  
+| bip_39_word_space_5 | horror sheriff secret wall misery |  
+| bip_39_word_space_6 | horror sheriff secret wall misery junior |  
+| bip_39_word_space_7 | horror sheriff secret wall misery junior opinion |  
+| bip_39_word_space_8 | horror sheriff secret wall misery junior opinion oblige |  
+| bip_39_word_space_9 | horror sheriff secret wall misery junior opinion oblige snow |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 36_teeth_shield_sh_motor_servo_standard_01
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: quarter female
+  * bip 39 word 3: quarter female pigeon
+  * bip 39 word: quarter female pigeon wool black picture catch force drama pupil ski acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | quarter |  
+| bip_39_word_new_br10 | quarter<br>female<br>pigeon<br>wool<br>black<br>picture<br>catch<br>force<br>drama<br>pupil |  
+| bip_39_word_new_br11 | quarter<br>female<br>pigeon<br>wool<br>black<br>picture<br>catch<br>force<br>drama<br>pupil<br>ski |  
+| bip_39_word_new_br12 | quarter<br>female<br>pigeon<br>wool<br>black<br>picture<br>catch<br>force<br>drama<br>pupil<br>ski<br>acid |  
+| bip_39_word_new_br2 | quarter<br>female |  
+| bip_39_word_new_br3 | quarter<br>female<br>pigeon |  
+| bip_39_word_new_br4 | quarter<br>female<br>pigeon<br>wool |  
+| bip_39_word_new_br5 | quarter<br>female<br>pigeon<br>wool<br>black |  
+| bip_39_word_new_br6 | quarter<br>female<br>pigeon<br>wool<br>black<br>picture |  
+| bip_39_word_new_br7 | quarter<br>female<br>pigeon<br>wool<br>black<br>picture<br>catch |  
+| bip_39_word_new_br8 | quarter<br>female<br>pigeon<br>wool<br>black<br>picture<br>catch<br>force |  
+| bip_39_word_new_br9 | quarter<br>female<br>pigeon<br>wool<br>black<br>picture<br>catch<br>force<br>drama |  
+| bip_39_word_new_line1 | quarter |  
+| bip_39_word_new_line10 | quarter
+female
+pigeon
+wool
+black
+picture
+catch
+force
+drama
+pupil |  
+| bip_39_word_new_line11 | quarter
+female
+pigeon
+wool
+black
+picture
+catch
+force
+drama
+pupil
+ski |  
+| bip_39_word_new_line12 | quarter
+female
+pigeon
+wool
+black
+picture
+catch
+force
+drama
+pupil
+ski
+acid |  
+| bip_39_word_new_line2 | quarter
+female |  
+| bip_39_word_new_line3 | quarter
+female
+pigeon |  
+| bip_39_word_new_line4 | quarter
+female
+pigeon
+wool |  
+| bip_39_word_new_line5 | quarter
+female
+pigeon
+wool
+black |  
+| bip_39_word_new_line6 | quarter
+female
+pigeon
+wool
+black
+picture |  
+| bip_39_word_new_line7 | quarter
+female
+pigeon
+wool
+black
+picture
+catch |  
+| bip_39_word_new_line8 | quarter
+female
+pigeon
+wool
+black
+picture
+catch
+force |  
+| bip_39_word_new_line9 | quarter
+female
+pigeon
+wool
+black
+picture
+catch
+force
+drama |  
+| bip_39_word_space_0 | ['quarter', 'female', 'pigeon', 'wool', 'black', 'picture', 'catch', 'force', 'drama', 'pupil', 'ski', 'acid'] |  
+| bip_39_word_space_1 | quarter |  
+| bip_39_word_space_10 | quarter female pigeon wool black picture catch force drama pupil |  
+| bip_39_word_space_11 | quarter female pigeon wool black picture catch force drama pupil ski |  
+| bip_39_word_space_12 | quarter female pigeon wool black picture catch force drama pupil ski acid |  
+| bip_39_word_space_2 | quarter female |  
+| bip_39_word_space_3 | quarter female pigeon |  
+| bip_39_word_space_4 | quarter female pigeon wool |  
+| bip_39_word_space_5 | quarter female pigeon wool black |  
+| bip_39_word_space_6 | quarter female pigeon wool black picture |  
+| bip_39_word_space_7 | quarter female pigeon wool black picture catch |  
+| bip_39_word_space_8 | quarter female pigeon wool black picture catch force |  
+| bip_39_word_space_9 | quarter female pigeon wool black picture catch force drama |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

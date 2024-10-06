@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: rare result
+  * bip 39 word 3: rare result hour
+  * bip 39 word: rare result hour man subject shrug recycle despair mountain warrior hope area
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | rare |  
+| bip_39_word_new_br10 | rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain<br>warrior |  
+| bip_39_word_new_br11 | rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain<br>warrior<br>hope |  
+| bip_39_word_new_br12 | rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain<br>warrior<br>hope<br>area |  
+| bip_39_word_new_br2 | rare<br>result |  
+| bip_39_word_new_br3 | rare<br>result<br>hour |  
+| bip_39_word_new_br4 | rare<br>result<br>hour<br>man |  
+| bip_39_word_new_br5 | rare<br>result<br>hour<br>man<br>subject |  
+| bip_39_word_new_br6 | rare<br>result<br>hour<br>man<br>subject<br>shrug |  
+| bip_39_word_new_br7 | rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle |  
+| bip_39_word_new_br8 | rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair |  
+| bip_39_word_new_br9 | rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain |  
+| bip_39_word_new_line1 | rare |  
+| bip_39_word_new_line10 | rare
+result
+hour
+man
+subject
+shrug
+recycle
+despair
+mountain
+warrior |  
+| bip_39_word_new_line11 | rare
+result
+hour
+man
+subject
+shrug
+recycle
+despair
+mountain
+warrior
+hope |  
+| bip_39_word_new_line12 | rare
+result
+hour
+man
+subject
+shrug
+recycle
+despair
+mountain
+warrior
+hope
+area |  
+| bip_39_word_new_line2 | rare
+result |  
+| bip_39_word_new_line3 | rare
+result
+hour |  
+| bip_39_word_new_line4 | rare
+result
+hour
+man |  
+| bip_39_word_new_line5 | rare
+result
+hour
+man
+subject |  
+| bip_39_word_new_line6 | rare
+result
+hour
+man
+subject
+shrug |  
+| bip_39_word_new_line7 | rare
+result
+hour
+man
+subject
+shrug
+recycle |  
+| bip_39_word_new_line8 | rare
+result
+hour
+man
+subject
+shrug
+recycle
+despair |  
+| bip_39_word_new_line9 | rare
+result
+hour
+man
+subject
+shrug
+recycle
+despair
+mountain |  
+| bip_39_word_space_0 | ['rare', 'result', 'hour', 'man', 'subject', 'shrug', 'recycle', 'despair', 'mountain', 'warrior', 'hope', 'area'] |  
+| bip_39_word_space_1 | rare |  
+| bip_39_word_space_10 | rare result hour man subject shrug recycle despair mountain warrior |  
+| bip_39_word_space_11 | rare result hour man subject shrug recycle despair mountain warrior hope |  
+| bip_39_word_space_12 | rare result hour man subject shrug recycle despair mountain warrior hope area |  
+| bip_39_word_space_2 | rare result |  
+| bip_39_word_space_3 | rare result hour |  
+| bip_39_word_space_4 | rare result hour man |  
+| bip_39_word_space_5 | rare result hour man subject |  
+| bip_39_word_space_6 | rare result hour man subject shrug |  
+| bip_39_word_space_7 | rare result hour man subject shrug recycle |  
+| bip_39_word_space_8 | rare result hour man subject shrug recycle despair |  
+| bip_39_word_space_9 | rare result hour man subject shrug recycle despair mountain |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

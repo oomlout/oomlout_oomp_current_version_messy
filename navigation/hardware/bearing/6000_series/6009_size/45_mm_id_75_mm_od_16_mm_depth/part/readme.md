@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: merry region
+  * bip 39 word 3: merry region creek
+  * bip 39 word: merry region creek ignore shiver pony walnut this solution vague struggle apart
 
 ### other_codes
 * short_code: br6009
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | merry |  
+| bip_39_word_new_br10 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony<br>walnut<br>this<br>solution<br>vague |  
+| bip_39_word_new_br11 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony<br>walnut<br>this<br>solution<br>vague<br>struggle |  
+| bip_39_word_new_br12 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony<br>walnut<br>this<br>solution<br>vague<br>struggle<br>apart |  
+| bip_39_word_new_br2 | merry<br>region |  
+| bip_39_word_new_br3 | merry<br>region<br>creek |  
+| bip_39_word_new_br4 | merry<br>region<br>creek<br>ignore |  
+| bip_39_word_new_br5 | merry<br>region<br>creek<br>ignore<br>shiver |  
+| bip_39_word_new_br6 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony |  
+| bip_39_word_new_br7 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony<br>walnut |  
+| bip_39_word_new_br8 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony<br>walnut<br>this |  
+| bip_39_word_new_br9 | merry<br>region<br>creek<br>ignore<br>shiver<br>pony<br>walnut<br>this<br>solution |  
+| bip_39_word_new_line1 | merry |  
+| bip_39_word_new_line10 | merry
+region
+creek
+ignore
+shiver
+pony
+walnut
+this
+solution
+vague |  
+| bip_39_word_new_line11 | merry
+region
+creek
+ignore
+shiver
+pony
+walnut
+this
+solution
+vague
+struggle |  
+| bip_39_word_new_line12 | merry
+region
+creek
+ignore
+shiver
+pony
+walnut
+this
+solution
+vague
+struggle
+apart |  
+| bip_39_word_new_line2 | merry
+region |  
+| bip_39_word_new_line3 | merry
+region
+creek |  
+| bip_39_word_new_line4 | merry
+region
+creek
+ignore |  
+| bip_39_word_new_line5 | merry
+region
+creek
+ignore
+shiver |  
+| bip_39_word_new_line6 | merry
+region
+creek
+ignore
+shiver
+pony |  
+| bip_39_word_new_line7 | merry
+region
+creek
+ignore
+shiver
+pony
+walnut |  
+| bip_39_word_new_line8 | merry
+region
+creek
+ignore
+shiver
+pony
+walnut
+this |  
+| bip_39_word_new_line9 | merry
+region
+creek
+ignore
+shiver
+pony
+walnut
+this
+solution |  
+| bip_39_word_space_0 | ['merry', 'region', 'creek', 'ignore', 'shiver', 'pony', 'walnut', 'this', 'solution', 'vague', 'struggle', 'apart'] |  
+| bip_39_word_space_1 | merry |  
+| bip_39_word_space_10 | merry region creek ignore shiver pony walnut this solution vague |  
+| bip_39_word_space_11 | merry region creek ignore shiver pony walnut this solution vague struggle |  
+| bip_39_word_space_12 | merry region creek ignore shiver pony walnut this solution vague struggle apart |  
+| bip_39_word_space_2 | merry region |  
+| bip_39_word_space_3 | merry region creek |  
+| bip_39_word_space_4 | merry region creek ignore |  
+| bip_39_word_space_5 | merry region creek ignore shiver |  
+| bip_39_word_space_6 | merry region creek ignore shiver pony |  
+| bip_39_word_space_7 | merry region creek ignore shiver pony walnut |  
+| bip_39_word_space_8 | merry region creek ignore shiver pony walnut this |  
+| bip_39_word_space_9 | merry region creek ignore shiver pony walnut this solution |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

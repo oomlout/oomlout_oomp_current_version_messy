@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 2
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crack consider
+  * bip 39 word 3: crack consider season
+  * bip 39 word: crack consider season leader cabbage hurdle conduct job guard sponsor pen act
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crack |  
+| bip_39_word_new_br10 | crack<br>consider<br>season<br>leader<br>cabbage<br>hurdle<br>conduct<br>job<br>guard<br>sponsor |  
+| bip_39_word_new_br11 | crack<br>consider<br>season<br>leader<br>cabbage<br>hurdle<br>conduct<br>job<br>guard<br>sponsor<br>pen |  
+| bip_39_word_new_br12 | crack<br>consider<br>season<br>leader<br>cabbage<br>hurdle<br>conduct<br>job<br>guard<br>sponsor<br>pen<br>act |  
+| bip_39_word_new_br2 | crack<br>consider |  
+| bip_39_word_new_br3 | crack<br>consider<br>season |  
+| bip_39_word_new_br4 | crack<br>consider<br>season<br>leader |  
+| bip_39_word_new_br5 | crack<br>consider<br>season<br>leader<br>cabbage |  
+| bip_39_word_new_br6 | crack<br>consider<br>season<br>leader<br>cabbage<br>hurdle |  
+| bip_39_word_new_br7 | crack<br>consider<br>season<br>leader<br>cabbage<br>hurdle<br>conduct |  
+| bip_39_word_new_br8 | crack<br>consider<br>season<br>leader<br>cabbage<br>hurdle<br>conduct<br>job |  
+| bip_39_word_new_br9 | crack<br>consider<br>season<br>leader<br>cabbage<br>hurdle<br>conduct<br>job<br>guard |  
+| bip_39_word_new_line1 | crack |  
+| bip_39_word_new_line10 | crack
+consider
+season
+leader
+cabbage
+hurdle
+conduct
+job
+guard
+sponsor |  
+| bip_39_word_new_line11 | crack
+consider
+season
+leader
+cabbage
+hurdle
+conduct
+job
+guard
+sponsor
+pen |  
+| bip_39_word_new_line12 | crack
+consider
+season
+leader
+cabbage
+hurdle
+conduct
+job
+guard
+sponsor
+pen
+act |  
+| bip_39_word_new_line2 | crack
+consider |  
+| bip_39_word_new_line3 | crack
+consider
+season |  
+| bip_39_word_new_line4 | crack
+consider
+season
+leader |  
+| bip_39_word_new_line5 | crack
+consider
+season
+leader
+cabbage |  
+| bip_39_word_new_line6 | crack
+consider
+season
+leader
+cabbage
+hurdle |  
+| bip_39_word_new_line7 | crack
+consider
+season
+leader
+cabbage
+hurdle
+conduct |  
+| bip_39_word_new_line8 | crack
+consider
+season
+leader
+cabbage
+hurdle
+conduct
+job |  
+| bip_39_word_new_line9 | crack
+consider
+season
+leader
+cabbage
+hurdle
+conduct
+job
+guard |  
+| bip_39_word_space_0 | ['crack', 'consider', 'season', 'leader', 'cabbage', 'hurdle', 'conduct', 'job', 'guard', 'sponsor', 'pen', 'act'] |  
+| bip_39_word_space_1 | crack |  
+| bip_39_word_space_10 | crack consider season leader cabbage hurdle conduct job guard sponsor |  
+| bip_39_word_space_11 | crack consider season leader cabbage hurdle conduct job guard sponsor pen |  
+| bip_39_word_space_12 | crack consider season leader cabbage hurdle conduct job guard sponsor pen act |  
+| bip_39_word_space_2 | crack consider |  
+| bip_39_word_space_3 | crack consider season |  
+| bip_39_word_space_4 | crack consider season leader |  
+| bip_39_word_space_5 | crack consider season leader cabbage |  
+| bip_39_word_space_6 | crack consider season leader cabbage hurdle |  
+| bip_39_word_space_7 | crack consider season leader cabbage hurdle conduct |  
+| bip_39_word_space_8 | crack consider season leader cabbage hurdle conduct job |  
+| bip_39_word_space_9 | crack consider season leader cabbage hurdle conduct job guard |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

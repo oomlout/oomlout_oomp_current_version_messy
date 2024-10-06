@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: blame river
+  * bip 39 word 3: blame river buzz
+  * bip 39 word: blame river buzz slab bounce rifle cherry you way crouch song allow
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | blame |  
+| bip_39_word_new_br10 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way<br>crouch |  
+| bip_39_word_new_br11 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way<br>crouch<br>song |  
+| bip_39_word_new_br12 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way<br>crouch<br>song<br>allow |  
+| bip_39_word_new_br2 | blame<br>river |  
+| bip_39_word_new_br3 | blame<br>river<br>buzz |  
+| bip_39_word_new_br4 | blame<br>river<br>buzz<br>slab |  
+| bip_39_word_new_br5 | blame<br>river<br>buzz<br>slab<br>bounce |  
+| bip_39_word_new_br6 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle |  
+| bip_39_word_new_br7 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry |  
+| bip_39_word_new_br8 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you |  
+| bip_39_word_new_br9 | blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way |  
+| bip_39_word_new_line1 | blame |  
+| bip_39_word_new_line10 | blame
+river
+buzz
+slab
+bounce
+rifle
+cherry
+you
+way
+crouch |  
+| bip_39_word_new_line11 | blame
+river
+buzz
+slab
+bounce
+rifle
+cherry
+you
+way
+crouch
+song |  
+| bip_39_word_new_line12 | blame
+river
+buzz
+slab
+bounce
+rifle
+cherry
+you
+way
+crouch
+song
+allow |  
+| bip_39_word_new_line2 | blame
+river |  
+| bip_39_word_new_line3 | blame
+river
+buzz |  
+| bip_39_word_new_line4 | blame
+river
+buzz
+slab |  
+| bip_39_word_new_line5 | blame
+river
+buzz
+slab
+bounce |  
+| bip_39_word_new_line6 | blame
+river
+buzz
+slab
+bounce
+rifle |  
+| bip_39_word_new_line7 | blame
+river
+buzz
+slab
+bounce
+rifle
+cherry |  
+| bip_39_word_new_line8 | blame
+river
+buzz
+slab
+bounce
+rifle
+cherry
+you |  
+| bip_39_word_new_line9 | blame
+river
+buzz
+slab
+bounce
+rifle
+cherry
+you
+way |  
+| bip_39_word_space_0 | ['blame', 'river', 'buzz', 'slab', 'bounce', 'rifle', 'cherry', 'you', 'way', 'crouch', 'song', 'allow'] |  
+| bip_39_word_space_1 | blame |  
+| bip_39_word_space_10 | blame river buzz slab bounce rifle cherry you way crouch |  
+| bip_39_word_space_11 | blame river buzz slab bounce rifle cherry you way crouch song |  
+| bip_39_word_space_12 | blame river buzz slab bounce rifle cherry you way crouch song allow |  
+| bip_39_word_space_2 | blame river |  
+| bip_39_word_space_3 | blame river buzz |  
+| bip_39_word_space_4 | blame river buzz slab |  
+| bip_39_word_space_5 | blame river buzz slab bounce |  
+| bip_39_word_space_6 | blame river buzz slab bounce rifle |  
+| bip_39_word_space_7 | blame river buzz slab bounce rifle cherry |  
+| bip_39_word_space_8 | blame river buzz slab bounce rifle cherry you |  
+| bip_39_word_space_9 | blame river buzz slab bounce rifle cherry you way |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

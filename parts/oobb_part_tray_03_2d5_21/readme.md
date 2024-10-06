@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: order tuna
+  * bip 39 word 3: order tuna close
+  * bip 39 word: order tuna close glad connect armed throw adult casual deal blossom arrest
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | order |  
+| bip_39_word_new_br10 | order<br>tuna<br>close<br>glad<br>connect<br>armed<br>throw<br>adult<br>casual<br>deal |  
+| bip_39_word_new_br11 | order<br>tuna<br>close<br>glad<br>connect<br>armed<br>throw<br>adult<br>casual<br>deal<br>blossom |  
+| bip_39_word_new_br12 | order<br>tuna<br>close<br>glad<br>connect<br>armed<br>throw<br>adult<br>casual<br>deal<br>blossom<br>arrest |  
+| bip_39_word_new_br2 | order<br>tuna |  
+| bip_39_word_new_br3 | order<br>tuna<br>close |  
+| bip_39_word_new_br4 | order<br>tuna<br>close<br>glad |  
+| bip_39_word_new_br5 | order<br>tuna<br>close<br>glad<br>connect |  
+| bip_39_word_new_br6 | order<br>tuna<br>close<br>glad<br>connect<br>armed |  
+| bip_39_word_new_br7 | order<br>tuna<br>close<br>glad<br>connect<br>armed<br>throw |  
+| bip_39_word_new_br8 | order<br>tuna<br>close<br>glad<br>connect<br>armed<br>throw<br>adult |  
+| bip_39_word_new_br9 | order<br>tuna<br>close<br>glad<br>connect<br>armed<br>throw<br>adult<br>casual |  
+| bip_39_word_new_line1 | order |  
+| bip_39_word_new_line10 | order
+tuna
+close
+glad
+connect
+armed
+throw
+adult
+casual
+deal |  
+| bip_39_word_new_line11 | order
+tuna
+close
+glad
+connect
+armed
+throw
+adult
+casual
+deal
+blossom |  
+| bip_39_word_new_line12 | order
+tuna
+close
+glad
+connect
+armed
+throw
+adult
+casual
+deal
+blossom
+arrest |  
+| bip_39_word_new_line2 | order
+tuna |  
+| bip_39_word_new_line3 | order
+tuna
+close |  
+| bip_39_word_new_line4 | order
+tuna
+close
+glad |  
+| bip_39_word_new_line5 | order
+tuna
+close
+glad
+connect |  
+| bip_39_word_new_line6 | order
+tuna
+close
+glad
+connect
+armed |  
+| bip_39_word_new_line7 | order
+tuna
+close
+glad
+connect
+armed
+throw |  
+| bip_39_word_new_line8 | order
+tuna
+close
+glad
+connect
+armed
+throw
+adult |  
+| bip_39_word_new_line9 | order
+tuna
+close
+glad
+connect
+armed
+throw
+adult
+casual |  
+| bip_39_word_space_0 | ['order', 'tuna', 'close', 'glad', 'connect', 'armed', 'throw', 'adult', 'casual', 'deal', 'blossom', 'arrest'] |  
+| bip_39_word_space_1 | order |  
+| bip_39_word_space_10 | order tuna close glad connect armed throw adult casual deal |  
+| bip_39_word_space_11 | order tuna close glad connect armed throw adult casual deal blossom |  
+| bip_39_word_space_12 | order tuna close glad connect armed throw adult casual deal blossom arrest |  
+| bip_39_word_space_2 | order tuna |  
+| bip_39_word_space_3 | order tuna close |  
+| bip_39_word_space_4 | order tuna close glad |  
+| bip_39_word_space_5 | order tuna close glad connect |  
+| bip_39_word_space_6 | order tuna close glad connect armed |  
+| bip_39_word_space_7 | order tuna close glad connect armed throw |  
+| bip_39_word_space_8 | order tuna close glad connect armed throw adult |  
+| bip_39_word_space_9 | order tuna close glad connect armed throw adult casual |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

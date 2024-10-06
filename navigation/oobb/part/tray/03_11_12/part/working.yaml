@@ -1,3 +1,187 @@
+bip_39_word_new_br1: copper
+bip_39_word_new_br10: copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert<br>visual<br>appear<br>silver<br>mind
+bip_39_word_new_br11: copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert<br>visual<br>appear<br>silver<br>mind<br>diagram
+bip_39_word_new_br12: copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert<br>visual<br>appear<br>silver<br>mind<br>diagram<br>acoustic
+bip_39_word_new_br2: copper<br>ancient
+bip_39_word_new_br3: copper<br>ancient<br>legend
+bip_39_word_new_br4: copper<br>ancient<br>legend<br>cage
+bip_39_word_new_br5: copper<br>ancient<br>legend<br>cage<br>alcohol
+bip_39_word_new_br6: copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert
+bip_39_word_new_br7: copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert<br>visual
+bip_39_word_new_br8: copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert<br>visual<br>appear
+bip_39_word_new_br9: copper<br>ancient<br>legend<br>cage<br>alcohol<br>desert<br>visual<br>appear<br>silver
+bip_39_word_new_line1: copper
+bip_39_word_new_line10: 'copper
+
+  ancient
+
+  legend
+
+  cage
+
+  alcohol
+
+  desert
+
+  visual
+
+  appear
+
+  silver
+
+  mind'
+bip_39_word_new_line11: 'copper
+
+  ancient
+
+  legend
+
+  cage
+
+  alcohol
+
+  desert
+
+  visual
+
+  appear
+
+  silver
+
+  mind
+
+  diagram'
+bip_39_word_new_line12: 'copper
+
+  ancient
+
+  legend
+
+  cage
+
+  alcohol
+
+  desert
+
+  visual
+
+  appear
+
+  silver
+
+  mind
+
+  diagram
+
+  acoustic'
+bip_39_word_new_line2: 'copper
+
+  ancient'
+bip_39_word_new_line3: 'copper
+
+  ancient
+
+  legend'
+bip_39_word_new_line4: 'copper
+
+  ancient
+
+  legend
+
+  cage'
+bip_39_word_new_line5: 'copper
+
+  ancient
+
+  legend
+
+  cage
+
+  alcohol'
+bip_39_word_new_line6: 'copper
+
+  ancient
+
+  legend
+
+  cage
+
+  alcohol
+
+  desert'
+bip_39_word_new_line7: 'copper
+
+  ancient
+
+  legend
+
+  cage
+
+  alcohol
+
+  desert
+
+  visual'
+bip_39_word_new_line8: 'copper
+
+  ancient
+
+  legend
+
+  cage
+
+  alcohol
+
+  desert
+
+  visual
+
+  appear'
+bip_39_word_new_line9: 'copper
+
+  ancient
+
+  legend
+
+  cage
+
+  alcohol
+
+  desert
+
+  visual
+
+  appear
+
+  silver'
+bip_39_word_space_0:
+- copper
+- ancient
+- legend
+- cage
+- alcohol
+- desert
+- visual
+- appear
+- silver
+- mind
+- diagram
+- acoustic
+bip_39_word_space_1: copper
+bip_39_word_space_10: copper ancient legend cage alcohol desert visual appear silver
+  mind
+bip_39_word_space_11: copper ancient legend cage alcohol desert visual appear silver
+  mind diagram
+bip_39_word_space_12: copper ancient legend cage alcohol desert visual appear silver
+  mind diagram acoustic
+bip_39_word_space_2: copper ancient
+bip_39_word_space_3: copper ancient legend
+bip_39_word_space_4: copper ancient legend cage
+bip_39_word_space_5: copper ancient legend cage alcohol
+bip_39_word_space_6: copper ancient legend cage alcohol desert
+bip_39_word_space_7: copper ancient legend cage alcohol desert visual
+bip_39_word_space_8: copper ancient legend cage alcohol desert visual appear
+bip_39_word_space_9: copper ancient legend cage alcohol desert visual appear silver
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

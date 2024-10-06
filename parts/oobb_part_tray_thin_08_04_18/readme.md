@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: safe music
+  * bip 39 word 3: safe music evoke
+  * bip 39 word: safe music evoke head question insane slice fire soup unusual pelican aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | safe |  
+| bip_39_word_new_br10 | safe<br>music<br>evoke<br>head<br>question<br>insane<br>slice<br>fire<br>soup<br>unusual |  
+| bip_39_word_new_br11 | safe<br>music<br>evoke<br>head<br>question<br>insane<br>slice<br>fire<br>soup<br>unusual<br>pelican |  
+| bip_39_word_new_br12 | safe<br>music<br>evoke<br>head<br>question<br>insane<br>slice<br>fire<br>soup<br>unusual<br>pelican<br>aspect |  
+| bip_39_word_new_br2 | safe<br>music |  
+| bip_39_word_new_br3 | safe<br>music<br>evoke |  
+| bip_39_word_new_br4 | safe<br>music<br>evoke<br>head |  
+| bip_39_word_new_br5 | safe<br>music<br>evoke<br>head<br>question |  
+| bip_39_word_new_br6 | safe<br>music<br>evoke<br>head<br>question<br>insane |  
+| bip_39_word_new_br7 | safe<br>music<br>evoke<br>head<br>question<br>insane<br>slice |  
+| bip_39_word_new_br8 | safe<br>music<br>evoke<br>head<br>question<br>insane<br>slice<br>fire |  
+| bip_39_word_new_br9 | safe<br>music<br>evoke<br>head<br>question<br>insane<br>slice<br>fire<br>soup |  
+| bip_39_word_new_line1 | safe |  
+| bip_39_word_new_line10 | safe
+music
+evoke
+head
+question
+insane
+slice
+fire
+soup
+unusual |  
+| bip_39_word_new_line11 | safe
+music
+evoke
+head
+question
+insane
+slice
+fire
+soup
+unusual
+pelican |  
+| bip_39_word_new_line12 | safe
+music
+evoke
+head
+question
+insane
+slice
+fire
+soup
+unusual
+pelican
+aspect |  
+| bip_39_word_new_line2 | safe
+music |  
+| bip_39_word_new_line3 | safe
+music
+evoke |  
+| bip_39_word_new_line4 | safe
+music
+evoke
+head |  
+| bip_39_word_new_line5 | safe
+music
+evoke
+head
+question |  
+| bip_39_word_new_line6 | safe
+music
+evoke
+head
+question
+insane |  
+| bip_39_word_new_line7 | safe
+music
+evoke
+head
+question
+insane
+slice |  
+| bip_39_word_new_line8 | safe
+music
+evoke
+head
+question
+insane
+slice
+fire |  
+| bip_39_word_new_line9 | safe
+music
+evoke
+head
+question
+insane
+slice
+fire
+soup |  
+| bip_39_word_space_0 | ['safe', 'music', 'evoke', 'head', 'question', 'insane', 'slice', 'fire', 'soup', 'unusual', 'pelican', 'aspect'] |  
+| bip_39_word_space_1 | safe |  
+| bip_39_word_space_10 | safe music evoke head question insane slice fire soup unusual |  
+| bip_39_word_space_11 | safe music evoke head question insane slice fire soup unusual pelican |  
+| bip_39_word_space_12 | safe music evoke head question insane slice fire soup unusual pelican aspect |  
+| bip_39_word_space_2 | safe music |  
+| bip_39_word_space_3 | safe music evoke |  
+| bip_39_word_space_4 | safe music evoke head |  
+| bip_39_word_space_5 | safe music evoke head question |  
+| bip_39_word_space_6 | safe music evoke head question insane |  
+| bip_39_word_space_7 | safe music evoke head question insane slice |  
+| bip_39_word_space_8 | safe music evoke head question insane slice fire |  
+| bip_39_word_space_9 | safe music evoke head question insane slice fire soup |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

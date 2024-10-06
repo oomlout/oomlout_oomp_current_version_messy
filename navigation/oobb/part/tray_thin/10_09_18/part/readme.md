@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: attend awesome
+  * bip 39 word 3: attend awesome steel
+  * bip 39 word: attend awesome steel fitness fury jar jelly awesome club learn tiny april
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | attend |  
+| bip_39_word_new_br10 | attend<br>awesome<br>steel<br>fitness<br>fury<br>jar<br>jelly<br>awesome<br>club<br>learn |  
+| bip_39_word_new_br11 | attend<br>awesome<br>steel<br>fitness<br>fury<br>jar<br>jelly<br>awesome<br>club<br>learn<br>tiny |  
+| bip_39_word_new_br12 | attend<br>awesome<br>steel<br>fitness<br>fury<br>jar<br>jelly<br>awesome<br>club<br>learn<br>tiny<br>april |  
+| bip_39_word_new_br2 | attend<br>awesome |  
+| bip_39_word_new_br3 | attend<br>awesome<br>steel |  
+| bip_39_word_new_br4 | attend<br>awesome<br>steel<br>fitness |  
+| bip_39_word_new_br5 | attend<br>awesome<br>steel<br>fitness<br>fury |  
+| bip_39_word_new_br6 | attend<br>awesome<br>steel<br>fitness<br>fury<br>jar |  
+| bip_39_word_new_br7 | attend<br>awesome<br>steel<br>fitness<br>fury<br>jar<br>jelly |  
+| bip_39_word_new_br8 | attend<br>awesome<br>steel<br>fitness<br>fury<br>jar<br>jelly<br>awesome |  
+| bip_39_word_new_br9 | attend<br>awesome<br>steel<br>fitness<br>fury<br>jar<br>jelly<br>awesome<br>club |  
+| bip_39_word_new_line1 | attend |  
+| bip_39_word_new_line10 | attend
+awesome
+steel
+fitness
+fury
+jar
+jelly
+awesome
+club
+learn |  
+| bip_39_word_new_line11 | attend
+awesome
+steel
+fitness
+fury
+jar
+jelly
+awesome
+club
+learn
+tiny |  
+| bip_39_word_new_line12 | attend
+awesome
+steel
+fitness
+fury
+jar
+jelly
+awesome
+club
+learn
+tiny
+april |  
+| bip_39_word_new_line2 | attend
+awesome |  
+| bip_39_word_new_line3 | attend
+awesome
+steel |  
+| bip_39_word_new_line4 | attend
+awesome
+steel
+fitness |  
+| bip_39_word_new_line5 | attend
+awesome
+steel
+fitness
+fury |  
+| bip_39_word_new_line6 | attend
+awesome
+steel
+fitness
+fury
+jar |  
+| bip_39_word_new_line7 | attend
+awesome
+steel
+fitness
+fury
+jar
+jelly |  
+| bip_39_word_new_line8 | attend
+awesome
+steel
+fitness
+fury
+jar
+jelly
+awesome |  
+| bip_39_word_new_line9 | attend
+awesome
+steel
+fitness
+fury
+jar
+jelly
+awesome
+club |  
+| bip_39_word_space_0 | ['attend', 'awesome', 'steel', 'fitness', 'fury', 'jar', 'jelly', 'awesome', 'club', 'learn', 'tiny', 'april'] |  
+| bip_39_word_space_1 | attend |  
+| bip_39_word_space_10 | attend awesome steel fitness fury jar jelly awesome club learn |  
+| bip_39_word_space_11 | attend awesome steel fitness fury jar jelly awesome club learn tiny |  
+| bip_39_word_space_12 | attend awesome steel fitness fury jar jelly awesome club learn tiny april |  
+| bip_39_word_space_2 | attend awesome |  
+| bip_39_word_space_3 | attend awesome steel |  
+| bip_39_word_space_4 | attend awesome steel fitness |  
+| bip_39_word_space_5 | attend awesome steel fitness fury |  
+| bip_39_word_space_6 | attend awesome steel fitness fury jar |  
+| bip_39_word_space_7 | attend awesome steel fitness fury jar jelly |  
+| bip_39_word_space_8 | attend awesome steel fitness fury jar jelly awesome |  
+| bip_39_word_space_9 | attend awesome steel fitness fury jar jelly awesome club |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

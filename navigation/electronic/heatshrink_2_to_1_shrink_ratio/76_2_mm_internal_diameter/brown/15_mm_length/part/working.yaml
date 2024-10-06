@@ -1,3 +1,185 @@
+bip_39_word_new_br1: salt
+bip_39_word_new_br10: salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop
+bip_39_word_new_br11: salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop<br>clog
+bip_39_word_new_br12: salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make<br>loop<br>clog<br>alien
+bip_39_word_new_br2: salt<br>game
+bip_39_word_new_br3: salt<br>game<br>yard
+bip_39_word_new_br4: salt<br>game<br>yard<br>elevator
+bip_39_word_new_br5: salt<br>game<br>yard<br>elevator<br>surge
+bip_39_word_new_br6: salt<br>game<br>yard<br>elevator<br>surge<br>muscle
+bip_39_word_new_br7: salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash
+bip_39_word_new_br8: salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove
+bip_39_word_new_br9: salt<br>game<br>yard<br>elevator<br>surge<br>muscle<br>cash<br>glove<br>make
+bip_39_word_new_line1: salt
+bip_39_word_new_line10: 'salt
+
+  game
+
+  yard
+
+  elevator
+
+  surge
+
+  muscle
+
+  cash
+
+  glove
+
+  make
+
+  loop'
+bip_39_word_new_line11: 'salt
+
+  game
+
+  yard
+
+  elevator
+
+  surge
+
+  muscle
+
+  cash
+
+  glove
+
+  make
+
+  loop
+
+  clog'
+bip_39_word_new_line12: 'salt
+
+  game
+
+  yard
+
+  elevator
+
+  surge
+
+  muscle
+
+  cash
+
+  glove
+
+  make
+
+  loop
+
+  clog
+
+  alien'
+bip_39_word_new_line2: 'salt
+
+  game'
+bip_39_word_new_line3: 'salt
+
+  game
+
+  yard'
+bip_39_word_new_line4: 'salt
+
+  game
+
+  yard
+
+  elevator'
+bip_39_word_new_line5: 'salt
+
+  game
+
+  yard
+
+  elevator
+
+  surge'
+bip_39_word_new_line6: 'salt
+
+  game
+
+  yard
+
+  elevator
+
+  surge
+
+  muscle'
+bip_39_word_new_line7: 'salt
+
+  game
+
+  yard
+
+  elevator
+
+  surge
+
+  muscle
+
+  cash'
+bip_39_word_new_line8: 'salt
+
+  game
+
+  yard
+
+  elevator
+
+  surge
+
+  muscle
+
+  cash
+
+  glove'
+bip_39_word_new_line9: 'salt
+
+  game
+
+  yard
+
+  elevator
+
+  surge
+
+  muscle
+
+  cash
+
+  glove
+
+  make'
+bip_39_word_space_0:
+- salt
+- game
+- yard
+- elevator
+- surge
+- muscle
+- cash
+- glove
+- make
+- loop
+- clog
+- alien
+bip_39_word_space_1: salt
+bip_39_word_space_10: salt game yard elevator surge muscle cash glove make loop
+bip_39_word_space_11: salt game yard elevator surge muscle cash glove make loop clog
+bip_39_word_space_12: salt game yard elevator surge muscle cash glove make loop clog
+  alien
+bip_39_word_space_2: salt game
+bip_39_word_space_3: salt game yard
+bip_39_word_space_4: salt game yard elevator
+bip_39_word_space_5: salt game yard elevator surge
+bip_39_word_space_6: salt game yard elevator surge muscle
+bip_39_word_space_7: salt game yard elevator surge muscle cash
+bip_39_word_space_8: salt game yard elevator surge muscle cash glove
+bip_39_word_space_9: salt game yard elevator surge muscle cash glove make
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: ceiling adjust
+  * bip 39 word 3: ceiling adjust add
+  * bip 39 word: ceiling adjust add emotion top sunny job elegant female jazz vapor audit
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | ceiling |  
+| bip_39_word_new_br10 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job<br>elegant<br>female<br>jazz |  
+| bip_39_word_new_br11 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job<br>elegant<br>female<br>jazz<br>vapor |  
+| bip_39_word_new_br12 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job<br>elegant<br>female<br>jazz<br>vapor<br>audit |  
+| bip_39_word_new_br2 | ceiling<br>adjust |  
+| bip_39_word_new_br3 | ceiling<br>adjust<br>add |  
+| bip_39_word_new_br4 | ceiling<br>adjust<br>add<br>emotion |  
+| bip_39_word_new_br5 | ceiling<br>adjust<br>add<br>emotion<br>top |  
+| bip_39_word_new_br6 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny |  
+| bip_39_word_new_br7 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job |  
+| bip_39_word_new_br8 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job<br>elegant |  
+| bip_39_word_new_br9 | ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job<br>elegant<br>female |  
+| bip_39_word_new_line1 | ceiling |  
+| bip_39_word_new_line10 | ceiling
+adjust
+add
+emotion
+top
+sunny
+job
+elegant
+female
+jazz |  
+| bip_39_word_new_line11 | ceiling
+adjust
+add
+emotion
+top
+sunny
+job
+elegant
+female
+jazz
+vapor |  
+| bip_39_word_new_line12 | ceiling
+adjust
+add
+emotion
+top
+sunny
+job
+elegant
+female
+jazz
+vapor
+audit |  
+| bip_39_word_new_line2 | ceiling
+adjust |  
+| bip_39_word_new_line3 | ceiling
+adjust
+add |  
+| bip_39_word_new_line4 | ceiling
+adjust
+add
+emotion |  
+| bip_39_word_new_line5 | ceiling
+adjust
+add
+emotion
+top |  
+| bip_39_word_new_line6 | ceiling
+adjust
+add
+emotion
+top
+sunny |  
+| bip_39_word_new_line7 | ceiling
+adjust
+add
+emotion
+top
+sunny
+job |  
+| bip_39_word_new_line8 | ceiling
+adjust
+add
+emotion
+top
+sunny
+job
+elegant |  
+| bip_39_word_new_line9 | ceiling
+adjust
+add
+emotion
+top
+sunny
+job
+elegant
+female |  
+| bip_39_word_space_0 | ['ceiling', 'adjust', 'add', 'emotion', 'top', 'sunny', 'job', 'elegant', 'female', 'jazz', 'vapor', 'audit'] |  
+| bip_39_word_space_1 | ceiling |  
+| bip_39_word_space_10 | ceiling adjust add emotion top sunny job elegant female jazz |  
+| bip_39_word_space_11 | ceiling adjust add emotion top sunny job elegant female jazz vapor |  
+| bip_39_word_space_12 | ceiling adjust add emotion top sunny job elegant female jazz vapor audit |  
+| bip_39_word_space_2 | ceiling adjust |  
+| bip_39_word_space_3 | ceiling adjust add |  
+| bip_39_word_space_4 | ceiling adjust add emotion |  
+| bip_39_word_space_5 | ceiling adjust add emotion top |  
+| bip_39_word_space_6 | ceiling adjust add emotion top sunny |  
+| bip_39_word_space_7 | ceiling adjust add emotion top sunny job |  
+| bip_39_word_space_8 | ceiling adjust add emotion top sunny job elegant |  
+| bip_39_word_space_9 | ceiling adjust add emotion top sunny job elegant female |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

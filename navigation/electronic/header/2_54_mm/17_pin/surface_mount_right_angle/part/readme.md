@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: surface_mount_right_angle
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: magic omit
+  * bip 39 word 3: magic omit rebel
+  * bip 39 word: magic omit rebel fringe trophy barrel august sniff home punch flash aspect
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | magic |  
+| bip_39_word_new_br10 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel<br>august<br>sniff<br>home<br>punch |  
+| bip_39_word_new_br11 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel<br>august<br>sniff<br>home<br>punch<br>flash |  
+| bip_39_word_new_br12 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel<br>august<br>sniff<br>home<br>punch<br>flash<br>aspect |  
+| bip_39_word_new_br2 | magic<br>omit |  
+| bip_39_word_new_br3 | magic<br>omit<br>rebel |  
+| bip_39_word_new_br4 | magic<br>omit<br>rebel<br>fringe |  
+| bip_39_word_new_br5 | magic<br>omit<br>rebel<br>fringe<br>trophy |  
+| bip_39_word_new_br6 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel |  
+| bip_39_word_new_br7 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel<br>august |  
+| bip_39_word_new_br8 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel<br>august<br>sniff |  
+| bip_39_word_new_br9 | magic<br>omit<br>rebel<br>fringe<br>trophy<br>barrel<br>august<br>sniff<br>home |  
+| bip_39_word_new_line1 | magic |  
+| bip_39_word_new_line10 | magic
+omit
+rebel
+fringe
+trophy
+barrel
+august
+sniff
+home
+punch |  
+| bip_39_word_new_line11 | magic
+omit
+rebel
+fringe
+trophy
+barrel
+august
+sniff
+home
+punch
+flash |  
+| bip_39_word_new_line12 | magic
+omit
+rebel
+fringe
+trophy
+barrel
+august
+sniff
+home
+punch
+flash
+aspect |  
+| bip_39_word_new_line2 | magic
+omit |  
+| bip_39_word_new_line3 | magic
+omit
+rebel |  
+| bip_39_word_new_line4 | magic
+omit
+rebel
+fringe |  
+| bip_39_word_new_line5 | magic
+omit
+rebel
+fringe
+trophy |  
+| bip_39_word_new_line6 | magic
+omit
+rebel
+fringe
+trophy
+barrel |  
+| bip_39_word_new_line7 | magic
+omit
+rebel
+fringe
+trophy
+barrel
+august |  
+| bip_39_word_new_line8 | magic
+omit
+rebel
+fringe
+trophy
+barrel
+august
+sniff |  
+| bip_39_word_new_line9 | magic
+omit
+rebel
+fringe
+trophy
+barrel
+august
+sniff
+home |  
+| bip_39_word_space_0 | ['magic', 'omit', 'rebel', 'fringe', 'trophy', 'barrel', 'august', 'sniff', 'home', 'punch', 'flash', 'aspect'] |  
+| bip_39_word_space_1 | magic |  
+| bip_39_word_space_10 | magic omit rebel fringe trophy barrel august sniff home punch |  
+| bip_39_word_space_11 | magic omit rebel fringe trophy barrel august sniff home punch flash |  
+| bip_39_word_space_12 | magic omit rebel fringe trophy barrel august sniff home punch flash aspect |  
+| bip_39_word_space_2 | magic omit |  
+| bip_39_word_space_3 | magic omit rebel |  
+| bip_39_word_space_4 | magic omit rebel fringe |  
+| bip_39_word_space_5 | magic omit rebel fringe trophy |  
+| bip_39_word_space_6 | magic omit rebel fringe trophy barrel |  
+| bip_39_word_space_7 | magic omit rebel fringe trophy barrel august |  
+| bip_39_word_space_8 | magic omit rebel fringe trophy barrel august sniff |  
+| bip_39_word_space_9 | magic omit rebel fringe trophy barrel august sniff home |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

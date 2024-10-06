@@ -1,3 +1,186 @@
+bip_39_word_new_br1: number
+bip_39_word_new_br10: number<br>supply<br>sound<br>outdoor<br>used<br>rifle<br>rack<br>feel<br>manage<br>sudden
+bip_39_word_new_br11: number<br>supply<br>sound<br>outdoor<br>used<br>rifle<br>rack<br>feel<br>manage<br>sudden<br>priority
+bip_39_word_new_br12: number<br>supply<br>sound<br>outdoor<br>used<br>rifle<br>rack<br>feel<br>manage<br>sudden<br>priority<br>attitude
+bip_39_word_new_br2: number<br>supply
+bip_39_word_new_br3: number<br>supply<br>sound
+bip_39_word_new_br4: number<br>supply<br>sound<br>outdoor
+bip_39_word_new_br5: number<br>supply<br>sound<br>outdoor<br>used
+bip_39_word_new_br6: number<br>supply<br>sound<br>outdoor<br>used<br>rifle
+bip_39_word_new_br7: number<br>supply<br>sound<br>outdoor<br>used<br>rifle<br>rack
+bip_39_word_new_br8: number<br>supply<br>sound<br>outdoor<br>used<br>rifle<br>rack<br>feel
+bip_39_word_new_br9: number<br>supply<br>sound<br>outdoor<br>used<br>rifle<br>rack<br>feel<br>manage
+bip_39_word_new_line1: number
+bip_39_word_new_line10: 'number
+
+  supply
+
+  sound
+
+  outdoor
+
+  used
+
+  rifle
+
+  rack
+
+  feel
+
+  manage
+
+  sudden'
+bip_39_word_new_line11: 'number
+
+  supply
+
+  sound
+
+  outdoor
+
+  used
+
+  rifle
+
+  rack
+
+  feel
+
+  manage
+
+  sudden
+
+  priority'
+bip_39_word_new_line12: 'number
+
+  supply
+
+  sound
+
+  outdoor
+
+  used
+
+  rifle
+
+  rack
+
+  feel
+
+  manage
+
+  sudden
+
+  priority
+
+  attitude'
+bip_39_word_new_line2: 'number
+
+  supply'
+bip_39_word_new_line3: 'number
+
+  supply
+
+  sound'
+bip_39_word_new_line4: 'number
+
+  supply
+
+  sound
+
+  outdoor'
+bip_39_word_new_line5: 'number
+
+  supply
+
+  sound
+
+  outdoor
+
+  used'
+bip_39_word_new_line6: 'number
+
+  supply
+
+  sound
+
+  outdoor
+
+  used
+
+  rifle'
+bip_39_word_new_line7: 'number
+
+  supply
+
+  sound
+
+  outdoor
+
+  used
+
+  rifle
+
+  rack'
+bip_39_word_new_line8: 'number
+
+  supply
+
+  sound
+
+  outdoor
+
+  used
+
+  rifle
+
+  rack
+
+  feel'
+bip_39_word_new_line9: 'number
+
+  supply
+
+  sound
+
+  outdoor
+
+  used
+
+  rifle
+
+  rack
+
+  feel
+
+  manage'
+bip_39_word_space_0:
+- number
+- supply
+- sound
+- outdoor
+- used
+- rifle
+- rack
+- feel
+- manage
+- sudden
+- priority
+- attitude
+bip_39_word_space_1: number
+bip_39_word_space_10: number supply sound outdoor used rifle rack feel manage sudden
+bip_39_word_space_11: number supply sound outdoor used rifle rack feel manage sudden
+  priority
+bip_39_word_space_12: number supply sound outdoor used rifle rack feel manage sudden
+  priority attitude
+bip_39_word_space_2: number supply
+bip_39_word_space_3: number supply sound
+bip_39_word_space_4: number supply sound outdoor
+bip_39_word_space_5: number supply sound outdoor used
+bip_39_word_space_6: number supply sound outdoor used rifle
+bip_39_word_space_7: number supply sound outdoor used rifle rack
+bip_39_word_space_8: number supply sound outdoor used rifle rack feel
+bip_39_word_space_9: number supply sound outdoor used rifle rack feel manage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

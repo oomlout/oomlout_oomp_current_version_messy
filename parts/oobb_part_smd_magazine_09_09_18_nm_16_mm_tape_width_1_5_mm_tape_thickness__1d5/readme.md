@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 1d5
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: mouse whale
+  * bip 39 word 3: mouse whale tent
+  * bip 39 word: mouse whale tent month crime game seek enter load special annual album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mouse |  
+| bip_39_word_new_br10 | mouse<br>whale<br>tent<br>month<br>crime<br>game<br>seek<br>enter<br>load<br>special |  
+| bip_39_word_new_br11 | mouse<br>whale<br>tent<br>month<br>crime<br>game<br>seek<br>enter<br>load<br>special<br>annual |  
+| bip_39_word_new_br12 | mouse<br>whale<br>tent<br>month<br>crime<br>game<br>seek<br>enter<br>load<br>special<br>annual<br>album |  
+| bip_39_word_new_br2 | mouse<br>whale |  
+| bip_39_word_new_br3 | mouse<br>whale<br>tent |  
+| bip_39_word_new_br4 | mouse<br>whale<br>tent<br>month |  
+| bip_39_word_new_br5 | mouse<br>whale<br>tent<br>month<br>crime |  
+| bip_39_word_new_br6 | mouse<br>whale<br>tent<br>month<br>crime<br>game |  
+| bip_39_word_new_br7 | mouse<br>whale<br>tent<br>month<br>crime<br>game<br>seek |  
+| bip_39_word_new_br8 | mouse<br>whale<br>tent<br>month<br>crime<br>game<br>seek<br>enter |  
+| bip_39_word_new_br9 | mouse<br>whale<br>tent<br>month<br>crime<br>game<br>seek<br>enter<br>load |  
+| bip_39_word_new_line1 | mouse |  
+| bip_39_word_new_line10 | mouse
+whale
+tent
+month
+crime
+game
+seek
+enter
+load
+special |  
+| bip_39_word_new_line11 | mouse
+whale
+tent
+month
+crime
+game
+seek
+enter
+load
+special
+annual |  
+| bip_39_word_new_line12 | mouse
+whale
+tent
+month
+crime
+game
+seek
+enter
+load
+special
+annual
+album |  
+| bip_39_word_new_line2 | mouse
+whale |  
+| bip_39_word_new_line3 | mouse
+whale
+tent |  
+| bip_39_word_new_line4 | mouse
+whale
+tent
+month |  
+| bip_39_word_new_line5 | mouse
+whale
+tent
+month
+crime |  
+| bip_39_word_new_line6 | mouse
+whale
+tent
+month
+crime
+game |  
+| bip_39_word_new_line7 | mouse
+whale
+tent
+month
+crime
+game
+seek |  
+| bip_39_word_new_line8 | mouse
+whale
+tent
+month
+crime
+game
+seek
+enter |  
+| bip_39_word_new_line9 | mouse
+whale
+tent
+month
+crime
+game
+seek
+enter
+load |  
+| bip_39_word_space_0 | ['mouse', 'whale', 'tent', 'month', 'crime', 'game', 'seek', 'enter', 'load', 'special', 'annual', 'album'] |  
+| bip_39_word_space_1 | mouse |  
+| bip_39_word_space_10 | mouse whale tent month crime game seek enter load special |  
+| bip_39_word_space_11 | mouse whale tent month crime game seek enter load special annual |  
+| bip_39_word_space_12 | mouse whale tent month crime game seek enter load special annual album |  
+| bip_39_word_space_2 | mouse whale |  
+| bip_39_word_space_3 | mouse whale tent |  
+| bip_39_word_space_4 | mouse whale tent month |  
+| bip_39_word_space_5 | mouse whale tent month crime |  
+| bip_39_word_space_6 | mouse whale tent month crime game |  
+| bip_39_word_space_7 | mouse whale tent month crime game seek |  
+| bip_39_word_space_8 | mouse whale tent month crime game seek enter |  
+| bip_39_word_space_9 | mouse whale tent month crime game seek enter load |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

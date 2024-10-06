@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: friend invite
+  * bip 39 word 3: friend invite noble
+  * bip 39 word: friend invite noble outer pact lucky enforce riot park amused turtle above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | friend |  
+| bip_39_word_new_br10 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused |  
+| bip_39_word_new_br11 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused<br>turtle |  
+| bip_39_word_new_br12 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park<br>amused<br>turtle<br>above |  
+| bip_39_word_new_br2 | friend<br>invite |  
+| bip_39_word_new_br3 | friend<br>invite<br>noble |  
+| bip_39_word_new_br4 | friend<br>invite<br>noble<br>outer |  
+| bip_39_word_new_br5 | friend<br>invite<br>noble<br>outer<br>pact |  
+| bip_39_word_new_br6 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky |  
+| bip_39_word_new_br7 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce |  
+| bip_39_word_new_br8 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot |  
+| bip_39_word_new_br9 | friend<br>invite<br>noble<br>outer<br>pact<br>lucky<br>enforce<br>riot<br>park |  
+| bip_39_word_new_line1 | friend |  
+| bip_39_word_new_line10 | friend
+invite
+noble
+outer
+pact
+lucky
+enforce
+riot
+park
+amused |  
+| bip_39_word_new_line11 | friend
+invite
+noble
+outer
+pact
+lucky
+enforce
+riot
+park
+amused
+turtle |  
+| bip_39_word_new_line12 | friend
+invite
+noble
+outer
+pact
+lucky
+enforce
+riot
+park
+amused
+turtle
+above |  
+| bip_39_word_new_line2 | friend
+invite |  
+| bip_39_word_new_line3 | friend
+invite
+noble |  
+| bip_39_word_new_line4 | friend
+invite
+noble
+outer |  
+| bip_39_word_new_line5 | friend
+invite
+noble
+outer
+pact |  
+| bip_39_word_new_line6 | friend
+invite
+noble
+outer
+pact
+lucky |  
+| bip_39_word_new_line7 | friend
+invite
+noble
+outer
+pact
+lucky
+enforce |  
+| bip_39_word_new_line8 | friend
+invite
+noble
+outer
+pact
+lucky
+enforce
+riot |  
+| bip_39_word_new_line9 | friend
+invite
+noble
+outer
+pact
+lucky
+enforce
+riot
+park |  
+| bip_39_word_space_0 | ['friend', 'invite', 'noble', 'outer', 'pact', 'lucky', 'enforce', 'riot', 'park', 'amused', 'turtle', 'above'] |  
+| bip_39_word_space_1 | friend |  
+| bip_39_word_space_10 | friend invite noble outer pact lucky enforce riot park amused |  
+| bip_39_word_space_11 | friend invite noble outer pact lucky enforce riot park amused turtle |  
+| bip_39_word_space_12 | friend invite noble outer pact lucky enforce riot park amused turtle above |  
+| bip_39_word_space_2 | friend invite |  
+| bip_39_word_space_3 | friend invite noble |  
+| bip_39_word_space_4 | friend invite noble outer |  
+| bip_39_word_space_5 | friend invite noble outer pact |  
+| bip_39_word_space_6 | friend invite noble outer pact lucky |  
+| bip_39_word_space_7 | friend invite noble outer pact lucky enforce |  
+| bip_39_word_space_8 | friend invite noble outer pact lucky enforce riot |  
+| bip_39_word_space_9 | friend invite noble outer pact lucky enforce riot park |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

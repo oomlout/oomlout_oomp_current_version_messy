@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: lecture tide
+  * bip 39 word 3: lecture tide auction
+  * bip 39 word: lecture tide auction invite satoshi lonely sock carpet novel select tray agent
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | lecture |  
+| bip_39_word_new_br10 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely<br>sock<br>carpet<br>novel<br>select |  
+| bip_39_word_new_br11 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely<br>sock<br>carpet<br>novel<br>select<br>tray |  
+| bip_39_word_new_br12 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely<br>sock<br>carpet<br>novel<br>select<br>tray<br>agent |  
+| bip_39_word_new_br2 | lecture<br>tide |  
+| bip_39_word_new_br3 | lecture<br>tide<br>auction |  
+| bip_39_word_new_br4 | lecture<br>tide<br>auction<br>invite |  
+| bip_39_word_new_br5 | lecture<br>tide<br>auction<br>invite<br>satoshi |  
+| bip_39_word_new_br6 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely |  
+| bip_39_word_new_br7 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely<br>sock |  
+| bip_39_word_new_br8 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely<br>sock<br>carpet |  
+| bip_39_word_new_br9 | lecture<br>tide<br>auction<br>invite<br>satoshi<br>lonely<br>sock<br>carpet<br>novel |  
+| bip_39_word_new_line1 | lecture |  
+| bip_39_word_new_line10 | lecture
+tide
+auction
+invite
+satoshi
+lonely
+sock
+carpet
+novel
+select |  
+| bip_39_word_new_line11 | lecture
+tide
+auction
+invite
+satoshi
+lonely
+sock
+carpet
+novel
+select
+tray |  
+| bip_39_word_new_line12 | lecture
+tide
+auction
+invite
+satoshi
+lonely
+sock
+carpet
+novel
+select
+tray
+agent |  
+| bip_39_word_new_line2 | lecture
+tide |  
+| bip_39_word_new_line3 | lecture
+tide
+auction |  
+| bip_39_word_new_line4 | lecture
+tide
+auction
+invite |  
+| bip_39_word_new_line5 | lecture
+tide
+auction
+invite
+satoshi |  
+| bip_39_word_new_line6 | lecture
+tide
+auction
+invite
+satoshi
+lonely |  
+| bip_39_word_new_line7 | lecture
+tide
+auction
+invite
+satoshi
+lonely
+sock |  
+| bip_39_word_new_line8 | lecture
+tide
+auction
+invite
+satoshi
+lonely
+sock
+carpet |  
+| bip_39_word_new_line9 | lecture
+tide
+auction
+invite
+satoshi
+lonely
+sock
+carpet
+novel |  
+| bip_39_word_space_0 | ['lecture', 'tide', 'auction', 'invite', 'satoshi', 'lonely', 'sock', 'carpet', 'novel', 'select', 'tray', 'agent'] |  
+| bip_39_word_space_1 | lecture |  
+| bip_39_word_space_10 | lecture tide auction invite satoshi lonely sock carpet novel select |  
+| bip_39_word_space_11 | lecture tide auction invite satoshi lonely sock carpet novel select tray |  
+| bip_39_word_space_12 | lecture tide auction invite satoshi lonely sock carpet novel select tray agent |  
+| bip_39_word_space_2 | lecture tide |  
+| bip_39_word_space_3 | lecture tide auction |  
+| bip_39_word_space_4 | lecture tide auction invite |  
+| bip_39_word_space_5 | lecture tide auction invite satoshi |  
+| bip_39_word_space_6 | lecture tide auction invite satoshi lonely |  
+| bip_39_word_space_7 | lecture tide auction invite satoshi lonely sock |  
+| bip_39_word_space_8 | lecture tide auction invite satoshi lonely sock carpet |  
+| bip_39_word_space_9 | lecture tide auction invite satoshi lonely sock carpet novel |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

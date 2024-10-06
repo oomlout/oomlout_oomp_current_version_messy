@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: video throw
+  * bip 39 word 3: video throw joy
+  * bip 39 word: video throw joy field lawn govern consider calm movie leave group around
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | video |  
+| bip_39_word_new_br10 | video<br>throw<br>joy<br>field<br>lawn<br>govern<br>consider<br>calm<br>movie<br>leave |  
+| bip_39_word_new_br11 | video<br>throw<br>joy<br>field<br>lawn<br>govern<br>consider<br>calm<br>movie<br>leave<br>group |  
+| bip_39_word_new_br12 | video<br>throw<br>joy<br>field<br>lawn<br>govern<br>consider<br>calm<br>movie<br>leave<br>group<br>around |  
+| bip_39_word_new_br2 | video<br>throw |  
+| bip_39_word_new_br3 | video<br>throw<br>joy |  
+| bip_39_word_new_br4 | video<br>throw<br>joy<br>field |  
+| bip_39_word_new_br5 | video<br>throw<br>joy<br>field<br>lawn |  
+| bip_39_word_new_br6 | video<br>throw<br>joy<br>field<br>lawn<br>govern |  
+| bip_39_word_new_br7 | video<br>throw<br>joy<br>field<br>lawn<br>govern<br>consider |  
+| bip_39_word_new_br8 | video<br>throw<br>joy<br>field<br>lawn<br>govern<br>consider<br>calm |  
+| bip_39_word_new_br9 | video<br>throw<br>joy<br>field<br>lawn<br>govern<br>consider<br>calm<br>movie |  
+| bip_39_word_new_line1 | video |  
+| bip_39_word_new_line10 | video
+throw
+joy
+field
+lawn
+govern
+consider
+calm
+movie
+leave |  
+| bip_39_word_new_line11 | video
+throw
+joy
+field
+lawn
+govern
+consider
+calm
+movie
+leave
+group |  
+| bip_39_word_new_line12 | video
+throw
+joy
+field
+lawn
+govern
+consider
+calm
+movie
+leave
+group
+around |  
+| bip_39_word_new_line2 | video
+throw |  
+| bip_39_word_new_line3 | video
+throw
+joy |  
+| bip_39_word_new_line4 | video
+throw
+joy
+field |  
+| bip_39_word_new_line5 | video
+throw
+joy
+field
+lawn |  
+| bip_39_word_new_line6 | video
+throw
+joy
+field
+lawn
+govern |  
+| bip_39_word_new_line7 | video
+throw
+joy
+field
+lawn
+govern
+consider |  
+| bip_39_word_new_line8 | video
+throw
+joy
+field
+lawn
+govern
+consider
+calm |  
+| bip_39_word_new_line9 | video
+throw
+joy
+field
+lawn
+govern
+consider
+calm
+movie |  
+| bip_39_word_space_0 | ['video', 'throw', 'joy', 'field', 'lawn', 'govern', 'consider', 'calm', 'movie', 'leave', 'group', 'around'] |  
+| bip_39_word_space_1 | video |  
+| bip_39_word_space_10 | video throw joy field lawn govern consider calm movie leave |  
+| bip_39_word_space_11 | video throw joy field lawn govern consider calm movie leave group |  
+| bip_39_word_space_12 | video throw joy field lawn govern consider calm movie leave group around |  
+| bip_39_word_space_2 | video throw |  
+| bip_39_word_space_3 | video throw joy |  
+| bip_39_word_space_4 | video throw joy field |  
+| bip_39_word_space_5 | video throw joy field lawn |  
+| bip_39_word_space_6 | video throw joy field lawn govern |  
+| bip_39_word_space_7 | video throw joy field lawn govern consider |  
+| bip_39_word_space_8 | video throw joy field lawn govern consider calm |  
+| bip_39_word_space_9 | video throw joy field lawn govern consider calm movie |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hint exercise
+  * bip 39 word 3: hint exercise glue
+  * bip 39 word: hint exercise glue shine mouse sight social twenty year assault off ankle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hint |  
+| bip_39_word_new_br10 | hint<br>exercise<br>glue<br>shine<br>mouse<br>sight<br>social<br>twenty<br>year<br>assault |  
+| bip_39_word_new_br11 | hint<br>exercise<br>glue<br>shine<br>mouse<br>sight<br>social<br>twenty<br>year<br>assault<br>off |  
+| bip_39_word_new_br12 | hint<br>exercise<br>glue<br>shine<br>mouse<br>sight<br>social<br>twenty<br>year<br>assault<br>off<br>ankle |  
+| bip_39_word_new_br2 | hint<br>exercise |  
+| bip_39_word_new_br3 | hint<br>exercise<br>glue |  
+| bip_39_word_new_br4 | hint<br>exercise<br>glue<br>shine |  
+| bip_39_word_new_br5 | hint<br>exercise<br>glue<br>shine<br>mouse |  
+| bip_39_word_new_br6 | hint<br>exercise<br>glue<br>shine<br>mouse<br>sight |  
+| bip_39_word_new_br7 | hint<br>exercise<br>glue<br>shine<br>mouse<br>sight<br>social |  
+| bip_39_word_new_br8 | hint<br>exercise<br>glue<br>shine<br>mouse<br>sight<br>social<br>twenty |  
+| bip_39_word_new_br9 | hint<br>exercise<br>glue<br>shine<br>mouse<br>sight<br>social<br>twenty<br>year |  
+| bip_39_word_new_line1 | hint |  
+| bip_39_word_new_line10 | hint
+exercise
+glue
+shine
+mouse
+sight
+social
+twenty
+year
+assault |  
+| bip_39_word_new_line11 | hint
+exercise
+glue
+shine
+mouse
+sight
+social
+twenty
+year
+assault
+off |  
+| bip_39_word_new_line12 | hint
+exercise
+glue
+shine
+mouse
+sight
+social
+twenty
+year
+assault
+off
+ankle |  
+| bip_39_word_new_line2 | hint
+exercise |  
+| bip_39_word_new_line3 | hint
+exercise
+glue |  
+| bip_39_word_new_line4 | hint
+exercise
+glue
+shine |  
+| bip_39_word_new_line5 | hint
+exercise
+glue
+shine
+mouse |  
+| bip_39_word_new_line6 | hint
+exercise
+glue
+shine
+mouse
+sight |  
+| bip_39_word_new_line7 | hint
+exercise
+glue
+shine
+mouse
+sight
+social |  
+| bip_39_word_new_line8 | hint
+exercise
+glue
+shine
+mouse
+sight
+social
+twenty |  
+| bip_39_word_new_line9 | hint
+exercise
+glue
+shine
+mouse
+sight
+social
+twenty
+year |  
+| bip_39_word_space_0 | ['hint', 'exercise', 'glue', 'shine', 'mouse', 'sight', 'social', 'twenty', 'year', 'assault', 'off', 'ankle'] |  
+| bip_39_word_space_1 | hint |  
+| bip_39_word_space_10 | hint exercise glue shine mouse sight social twenty year assault |  
+| bip_39_word_space_11 | hint exercise glue shine mouse sight social twenty year assault off |  
+| bip_39_word_space_12 | hint exercise glue shine mouse sight social twenty year assault off ankle |  
+| bip_39_word_space_2 | hint exercise |  
+| bip_39_word_space_3 | hint exercise glue |  
+| bip_39_word_space_4 | hint exercise glue shine |  
+| bip_39_word_space_5 | hint exercise glue shine mouse |  
+| bip_39_word_space_6 | hint exercise glue shine mouse sight |  
+| bip_39_word_space_7 | hint exercise glue shine mouse sight social |  
+| bip_39_word_space_8 | hint exercise glue shine mouse sight social twenty |  
+| bip_39_word_space_9 | hint exercise glue shine mouse sight social twenty year |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: crouch slide
+  * bip 39 word 3: crouch slide coast
+  * bip 39 word: crouch slide coast tissue beef stool balance degree door boost cart advice
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | crouch |  
+| bip_39_word_new_br10 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool<br>balance<br>degree<br>door<br>boost |  
+| bip_39_word_new_br11 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool<br>balance<br>degree<br>door<br>boost<br>cart |  
+| bip_39_word_new_br12 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool<br>balance<br>degree<br>door<br>boost<br>cart<br>advice |  
+| bip_39_word_new_br2 | crouch<br>slide |  
+| bip_39_word_new_br3 | crouch<br>slide<br>coast |  
+| bip_39_word_new_br4 | crouch<br>slide<br>coast<br>tissue |  
+| bip_39_word_new_br5 | crouch<br>slide<br>coast<br>tissue<br>beef |  
+| bip_39_word_new_br6 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool |  
+| bip_39_word_new_br7 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool<br>balance |  
+| bip_39_word_new_br8 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool<br>balance<br>degree |  
+| bip_39_word_new_br9 | crouch<br>slide<br>coast<br>tissue<br>beef<br>stool<br>balance<br>degree<br>door |  
+| bip_39_word_new_line1 | crouch |  
+| bip_39_word_new_line10 | crouch
+slide
+coast
+tissue
+beef
+stool
+balance
+degree
+door
+boost |  
+| bip_39_word_new_line11 | crouch
+slide
+coast
+tissue
+beef
+stool
+balance
+degree
+door
+boost
+cart |  
+| bip_39_word_new_line12 | crouch
+slide
+coast
+tissue
+beef
+stool
+balance
+degree
+door
+boost
+cart
+advice |  
+| bip_39_word_new_line2 | crouch
+slide |  
+| bip_39_word_new_line3 | crouch
+slide
+coast |  
+| bip_39_word_new_line4 | crouch
+slide
+coast
+tissue |  
+| bip_39_word_new_line5 | crouch
+slide
+coast
+tissue
+beef |  
+| bip_39_word_new_line6 | crouch
+slide
+coast
+tissue
+beef
+stool |  
+| bip_39_word_new_line7 | crouch
+slide
+coast
+tissue
+beef
+stool
+balance |  
+| bip_39_word_new_line8 | crouch
+slide
+coast
+tissue
+beef
+stool
+balance
+degree |  
+| bip_39_word_new_line9 | crouch
+slide
+coast
+tissue
+beef
+stool
+balance
+degree
+door |  
+| bip_39_word_space_0 | ['crouch', 'slide', 'coast', 'tissue', 'beef', 'stool', 'balance', 'degree', 'door', 'boost', 'cart', 'advice'] |  
+| bip_39_word_space_1 | crouch |  
+| bip_39_word_space_10 | crouch slide coast tissue beef stool balance degree door boost |  
+| bip_39_word_space_11 | crouch slide coast tissue beef stool balance degree door boost cart |  
+| bip_39_word_space_12 | crouch slide coast tissue beef stool balance degree door boost cart advice |  
+| bip_39_word_space_2 | crouch slide |  
+| bip_39_word_space_3 | crouch slide coast |  
+| bip_39_word_space_4 | crouch slide coast tissue |  
+| bip_39_word_space_5 | crouch slide coast tissue beef |  
+| bip_39_word_space_6 | crouch slide coast tissue beef stool |  
+| bip_39_word_space_7 | crouch slide coast tissue beef stool balance |  
+| bip_39_word_space_8 | crouch slide coast tissue beef stool balance degree |  
+| bip_39_word_space_9 | crouch slide coast tissue beef stool balance degree door |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

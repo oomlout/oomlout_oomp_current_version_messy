@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 4
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: outside baby
+  * bip 39 word 3: outside baby labor
+  * bip 39 word: outside baby labor trash thrive paper wash choose elevator spatial corn afraid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | outside |  
+| bip_39_word_new_br10 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper<br>wash<br>choose<br>elevator<br>spatial |  
+| bip_39_word_new_br11 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper<br>wash<br>choose<br>elevator<br>spatial<br>corn |  
+| bip_39_word_new_br12 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper<br>wash<br>choose<br>elevator<br>spatial<br>corn<br>afraid |  
+| bip_39_word_new_br2 | outside<br>baby |  
+| bip_39_word_new_br3 | outside<br>baby<br>labor |  
+| bip_39_word_new_br4 | outside<br>baby<br>labor<br>trash |  
+| bip_39_word_new_br5 | outside<br>baby<br>labor<br>trash<br>thrive |  
+| bip_39_word_new_br6 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper |  
+| bip_39_word_new_br7 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper<br>wash |  
+| bip_39_word_new_br8 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper<br>wash<br>choose |  
+| bip_39_word_new_br9 | outside<br>baby<br>labor<br>trash<br>thrive<br>paper<br>wash<br>choose<br>elevator |  
+| bip_39_word_new_line1 | outside |  
+| bip_39_word_new_line10 | outside
+baby
+labor
+trash
+thrive
+paper
+wash
+choose
+elevator
+spatial |  
+| bip_39_word_new_line11 | outside
+baby
+labor
+trash
+thrive
+paper
+wash
+choose
+elevator
+spatial
+corn |  
+| bip_39_word_new_line12 | outside
+baby
+labor
+trash
+thrive
+paper
+wash
+choose
+elevator
+spatial
+corn
+afraid |  
+| bip_39_word_new_line2 | outside
+baby |  
+| bip_39_word_new_line3 | outside
+baby
+labor |  
+| bip_39_word_new_line4 | outside
+baby
+labor
+trash |  
+| bip_39_word_new_line5 | outside
+baby
+labor
+trash
+thrive |  
+| bip_39_word_new_line6 | outside
+baby
+labor
+trash
+thrive
+paper |  
+| bip_39_word_new_line7 | outside
+baby
+labor
+trash
+thrive
+paper
+wash |  
+| bip_39_word_new_line8 | outside
+baby
+labor
+trash
+thrive
+paper
+wash
+choose |  
+| bip_39_word_new_line9 | outside
+baby
+labor
+trash
+thrive
+paper
+wash
+choose
+elevator |  
+| bip_39_word_space_0 | ['outside', 'baby', 'labor', 'trash', 'thrive', 'paper', 'wash', 'choose', 'elevator', 'spatial', 'corn', 'afraid'] |  
+| bip_39_word_space_1 | outside |  
+| bip_39_word_space_10 | outside baby labor trash thrive paper wash choose elevator spatial |  
+| bip_39_word_space_11 | outside baby labor trash thrive paper wash choose elevator spatial corn |  
+| bip_39_word_space_12 | outside baby labor trash thrive paper wash choose elevator spatial corn afraid |  
+| bip_39_word_space_2 | outside baby |  
+| bip_39_word_space_3 | outside baby labor |  
+| bip_39_word_space_4 | outside baby labor trash |  
+| bip_39_word_space_5 | outside baby labor trash thrive |  
+| bip_39_word_space_6 | outside baby labor trash thrive paper |  
+| bip_39_word_space_7 | outside baby labor trash thrive paper wash |  
+| bip_39_word_space_8 | outside baby labor trash thrive paper wash choose |  
+| bip_39_word_space_9 | outside baby labor trash thrive paper wash choose elevator |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

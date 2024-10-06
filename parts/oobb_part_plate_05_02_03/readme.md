@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: celery merit
+  * bip 39 word 3: celery merit same
+  * bip 39 word: celery merit same boil frown library regular creek snake reopen width above
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | celery |  
+| bip_39_word_new_br10 | celery<br>merit<br>same<br>boil<br>frown<br>library<br>regular<br>creek<br>snake<br>reopen |  
+| bip_39_word_new_br11 | celery<br>merit<br>same<br>boil<br>frown<br>library<br>regular<br>creek<br>snake<br>reopen<br>width |  
+| bip_39_word_new_br12 | celery<br>merit<br>same<br>boil<br>frown<br>library<br>regular<br>creek<br>snake<br>reopen<br>width<br>above |  
+| bip_39_word_new_br2 | celery<br>merit |  
+| bip_39_word_new_br3 | celery<br>merit<br>same |  
+| bip_39_word_new_br4 | celery<br>merit<br>same<br>boil |  
+| bip_39_word_new_br5 | celery<br>merit<br>same<br>boil<br>frown |  
+| bip_39_word_new_br6 | celery<br>merit<br>same<br>boil<br>frown<br>library |  
+| bip_39_word_new_br7 | celery<br>merit<br>same<br>boil<br>frown<br>library<br>regular |  
+| bip_39_word_new_br8 | celery<br>merit<br>same<br>boil<br>frown<br>library<br>regular<br>creek |  
+| bip_39_word_new_br9 | celery<br>merit<br>same<br>boil<br>frown<br>library<br>regular<br>creek<br>snake |  
+| bip_39_word_new_line1 | celery |  
+| bip_39_word_new_line10 | celery
+merit
+same
+boil
+frown
+library
+regular
+creek
+snake
+reopen |  
+| bip_39_word_new_line11 | celery
+merit
+same
+boil
+frown
+library
+regular
+creek
+snake
+reopen
+width |  
+| bip_39_word_new_line12 | celery
+merit
+same
+boil
+frown
+library
+regular
+creek
+snake
+reopen
+width
+above |  
+| bip_39_word_new_line2 | celery
+merit |  
+| bip_39_word_new_line3 | celery
+merit
+same |  
+| bip_39_word_new_line4 | celery
+merit
+same
+boil |  
+| bip_39_word_new_line5 | celery
+merit
+same
+boil
+frown |  
+| bip_39_word_new_line6 | celery
+merit
+same
+boil
+frown
+library |  
+| bip_39_word_new_line7 | celery
+merit
+same
+boil
+frown
+library
+regular |  
+| bip_39_word_new_line8 | celery
+merit
+same
+boil
+frown
+library
+regular
+creek |  
+| bip_39_word_new_line9 | celery
+merit
+same
+boil
+frown
+library
+regular
+creek
+snake |  
+| bip_39_word_space_0 | ['celery', 'merit', 'same', 'boil', 'frown', 'library', 'regular', 'creek', 'snake', 'reopen', 'width', 'above'] |  
+| bip_39_word_space_1 | celery |  
+| bip_39_word_space_10 | celery merit same boil frown library regular creek snake reopen |  
+| bip_39_word_space_11 | celery merit same boil frown library regular creek snake reopen width |  
+| bip_39_word_space_12 | celery merit same boil frown library regular creek snake reopen width above |  
+| bip_39_word_space_2 | celery merit |  
+| bip_39_word_space_3 | celery merit same |  
+| bip_39_word_space_4 | celery merit same boil |  
+| bip_39_word_space_5 | celery merit same boil frown |  
+| bip_39_word_space_6 | celery merit same boil frown library |  
+| bip_39_word_space_7 | celery merit same boil frown library regular |  
+| bip_39_word_space_8 | celery merit same boil frown library regular creek |  
+| bip_39_word_space_9 | celery merit same boil frown library regular creek snake |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

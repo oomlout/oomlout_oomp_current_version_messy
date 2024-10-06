@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: boring rigid
+  * bip 39 word 3: boring rigid mango
+  * bip 39 word: boring rigid mango usual under example private damage stadium doctor figure acid
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | boring |  
+| bip_39_word_new_br10 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor |  
+| bip_39_word_new_br11 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor<br>figure |  
+| bip_39_word_new_br12 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium<br>doctor<br>figure<br>acid |  
+| bip_39_word_new_br2 | boring<br>rigid |  
+| bip_39_word_new_br3 | boring<br>rigid<br>mango |  
+| bip_39_word_new_br4 | boring<br>rigid<br>mango<br>usual |  
+| bip_39_word_new_br5 | boring<br>rigid<br>mango<br>usual<br>under |  
+| bip_39_word_new_br6 | boring<br>rigid<br>mango<br>usual<br>under<br>example |  
+| bip_39_word_new_br7 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private |  
+| bip_39_word_new_br8 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage |  
+| bip_39_word_new_br9 | boring<br>rigid<br>mango<br>usual<br>under<br>example<br>private<br>damage<br>stadium |  
+| bip_39_word_new_line1 | boring |  
+| bip_39_word_new_line10 | boring
+rigid
+mango
+usual
+under
+example
+private
+damage
+stadium
+doctor |  
+| bip_39_word_new_line11 | boring
+rigid
+mango
+usual
+under
+example
+private
+damage
+stadium
+doctor
+figure |  
+| bip_39_word_new_line12 | boring
+rigid
+mango
+usual
+under
+example
+private
+damage
+stadium
+doctor
+figure
+acid |  
+| bip_39_word_new_line2 | boring
+rigid |  
+| bip_39_word_new_line3 | boring
+rigid
+mango |  
+| bip_39_word_new_line4 | boring
+rigid
+mango
+usual |  
+| bip_39_word_new_line5 | boring
+rigid
+mango
+usual
+under |  
+| bip_39_word_new_line6 | boring
+rigid
+mango
+usual
+under
+example |  
+| bip_39_word_new_line7 | boring
+rigid
+mango
+usual
+under
+example
+private |  
+| bip_39_word_new_line8 | boring
+rigid
+mango
+usual
+under
+example
+private
+damage |  
+| bip_39_word_new_line9 | boring
+rigid
+mango
+usual
+under
+example
+private
+damage
+stadium |  
+| bip_39_word_space_0 | ['boring', 'rigid', 'mango', 'usual', 'under', 'example', 'private', 'damage', 'stadium', 'doctor', 'figure', 'acid'] |  
+| bip_39_word_space_1 | boring |  
+| bip_39_word_space_10 | boring rigid mango usual under example private damage stadium doctor |  
+| bip_39_word_space_11 | boring rigid mango usual under example private damage stadium doctor figure |  
+| bip_39_word_space_12 | boring rigid mango usual under example private damage stadium doctor figure acid |  
+| bip_39_word_space_2 | boring rigid |  
+| bip_39_word_space_3 | boring rigid mango |  
+| bip_39_word_space_4 | boring rigid mango usual |  
+| bip_39_word_space_5 | boring rigid mango usual under |  
+| bip_39_word_space_6 | boring rigid mango usual under example |  
+| bip_39_word_space_7 | boring rigid mango usual under example private |  
+| bip_39_word_space_8 | boring rigid mango usual under example private damage |  
+| bip_39_word_space_9 | boring rigid mango usual under example private damage stadium |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

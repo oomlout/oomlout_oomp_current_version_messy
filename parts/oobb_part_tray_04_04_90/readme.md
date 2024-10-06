@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: gaze exercise
+  * bip 39 word 3: gaze exercise bench
+  * bip 39 word: gaze exercise bench decade oak economy disagree snow tower element fancy arena
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | gaze |  
+| bip_39_word_new_br10 | gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element |  
+| bip_39_word_new_br11 | gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element<br>fancy |  
+| bip_39_word_new_br12 | gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower<br>element<br>fancy<br>arena |  
+| bip_39_word_new_br2 | gaze<br>exercise |  
+| bip_39_word_new_br3 | gaze<br>exercise<br>bench |  
+| bip_39_word_new_br4 | gaze<br>exercise<br>bench<br>decade |  
+| bip_39_word_new_br5 | gaze<br>exercise<br>bench<br>decade<br>oak |  
+| bip_39_word_new_br6 | gaze<br>exercise<br>bench<br>decade<br>oak<br>economy |  
+| bip_39_word_new_br7 | gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree |  
+| bip_39_word_new_br8 | gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow |  
+| bip_39_word_new_br9 | gaze<br>exercise<br>bench<br>decade<br>oak<br>economy<br>disagree<br>snow<br>tower |  
+| bip_39_word_new_line1 | gaze |  
+| bip_39_word_new_line10 | gaze
+exercise
+bench
+decade
+oak
+economy
+disagree
+snow
+tower
+element |  
+| bip_39_word_new_line11 | gaze
+exercise
+bench
+decade
+oak
+economy
+disagree
+snow
+tower
+element
+fancy |  
+| bip_39_word_new_line12 | gaze
+exercise
+bench
+decade
+oak
+economy
+disagree
+snow
+tower
+element
+fancy
+arena |  
+| bip_39_word_new_line2 | gaze
+exercise |  
+| bip_39_word_new_line3 | gaze
+exercise
+bench |  
+| bip_39_word_new_line4 | gaze
+exercise
+bench
+decade |  
+| bip_39_word_new_line5 | gaze
+exercise
+bench
+decade
+oak |  
+| bip_39_word_new_line6 | gaze
+exercise
+bench
+decade
+oak
+economy |  
+| bip_39_word_new_line7 | gaze
+exercise
+bench
+decade
+oak
+economy
+disagree |  
+| bip_39_word_new_line8 | gaze
+exercise
+bench
+decade
+oak
+economy
+disagree
+snow |  
+| bip_39_word_new_line9 | gaze
+exercise
+bench
+decade
+oak
+economy
+disagree
+snow
+tower |  
+| bip_39_word_space_0 | ['gaze', 'exercise', 'bench', 'decade', 'oak', 'economy', 'disagree', 'snow', 'tower', 'element', 'fancy', 'arena'] |  
+| bip_39_word_space_1 | gaze |  
+| bip_39_word_space_10 | gaze exercise bench decade oak economy disagree snow tower element |  
+| bip_39_word_space_11 | gaze exercise bench decade oak economy disagree snow tower element fancy |  
+| bip_39_word_space_12 | gaze exercise bench decade oak economy disagree snow tower element fancy arena |  
+| bip_39_word_space_2 | gaze exercise |  
+| bip_39_word_space_3 | gaze exercise bench |  
+| bip_39_word_space_4 | gaze exercise bench decade |  
+| bip_39_word_space_5 | gaze exercise bench decade oak |  
+| bip_39_word_space_6 | gaze exercise bench decade oak economy |  
+| bip_39_word_space_7 | gaze exercise bench decade oak economy disagree |  
+| bip_39_word_space_8 | gaze exercise bench decade oak economy disagree snow |  
+| bip_39_word_space_9 | gaze exercise bench decade oak economy disagree snow tower |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

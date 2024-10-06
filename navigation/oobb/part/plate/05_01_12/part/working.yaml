@@ -1,3 +1,187 @@
+bip_39_word_new_br1: business
+bip_39_word_new_br10: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch<br>rely
+bip_39_word_new_br11: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch<br>rely<br>cinnamon
+bip_39_word_new_br12: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch<br>rely<br>cinnamon<br>acoustic
+bip_39_word_new_br2: business<br>orange
+bip_39_word_new_br3: business<br>orange<br>olympic
+bip_39_word_new_br4: business<br>orange<br>olympic<br>table
+bip_39_word_new_br5: business<br>orange<br>olympic<br>table<br>amused
+bip_39_word_new_br6: business<br>orange<br>olympic<br>table<br>amused<br>early
+bip_39_word_new_br7: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology
+bip_39_word_new_br8: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench
+bip_39_word_new_br9: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch
+bip_39_word_new_line1: business
+bip_39_word_new_line10: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench
+
+  fetch
+
+  rely'
+bip_39_word_new_line11: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench
+
+  fetch
+
+  rely
+
+  cinnamon'
+bip_39_word_new_line12: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench
+
+  fetch
+
+  rely
+
+  cinnamon
+
+  acoustic'
+bip_39_word_new_line2: 'business
+
+  orange'
+bip_39_word_new_line3: 'business
+
+  orange
+
+  olympic'
+bip_39_word_new_line4: 'business
+
+  orange
+
+  olympic
+
+  table'
+bip_39_word_new_line5: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused'
+bip_39_word_new_line6: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early'
+bip_39_word_new_line7: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology'
+bip_39_word_new_line8: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench'
+bip_39_word_new_line9: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench
+
+  fetch'
+bip_39_word_space_0:
+- business
+- orange
+- olympic
+- table
+- amused
+- early
+- apology
+- bench
+- fetch
+- rely
+- cinnamon
+- acoustic
+bip_39_word_space_1: business
+bip_39_word_space_10: business orange olympic table amused early apology bench fetch
+  rely
+bip_39_word_space_11: business orange olympic table amused early apology bench fetch
+  rely cinnamon
+bip_39_word_space_12: business orange olympic table amused early apology bench fetch
+  rely cinnamon acoustic
+bip_39_word_space_2: business orange
+bip_39_word_space_3: business orange olympic
+bip_39_word_space_4: business orange olympic table
+bip_39_word_space_5: business orange olympic table amused
+bip_39_word_space_6: business orange olympic table amused early
+bip_39_word_space_7: business orange olympic table amused early apology
+bip_39_word_space_8: business orange olympic table amused early apology bench
+bip_39_word_space_9: business orange olympic table amused early apology bench fetch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

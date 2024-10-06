@@ -1,3 +1,186 @@
+bip_39_word_new_br1: drift
+bip_39_word_new_br10: drift<br>glove<br>example<br>defy<br>pride<br>poet<br>demand<br>country<br>ignore<br>lift
+bip_39_word_new_br11: drift<br>glove<br>example<br>defy<br>pride<br>poet<br>demand<br>country<br>ignore<br>lift<br>arrange
+bip_39_word_new_br12: drift<br>glove<br>example<br>defy<br>pride<br>poet<br>demand<br>country<br>ignore<br>lift<br>arrange<br>acoustic
+bip_39_word_new_br2: drift<br>glove
+bip_39_word_new_br3: drift<br>glove<br>example
+bip_39_word_new_br4: drift<br>glove<br>example<br>defy
+bip_39_word_new_br5: drift<br>glove<br>example<br>defy<br>pride
+bip_39_word_new_br6: drift<br>glove<br>example<br>defy<br>pride<br>poet
+bip_39_word_new_br7: drift<br>glove<br>example<br>defy<br>pride<br>poet<br>demand
+bip_39_word_new_br8: drift<br>glove<br>example<br>defy<br>pride<br>poet<br>demand<br>country
+bip_39_word_new_br9: drift<br>glove<br>example<br>defy<br>pride<br>poet<br>demand<br>country<br>ignore
+bip_39_word_new_line1: drift
+bip_39_word_new_line10: 'drift
+
+  glove
+
+  example
+
+  defy
+
+  pride
+
+  poet
+
+  demand
+
+  country
+
+  ignore
+
+  lift'
+bip_39_word_new_line11: 'drift
+
+  glove
+
+  example
+
+  defy
+
+  pride
+
+  poet
+
+  demand
+
+  country
+
+  ignore
+
+  lift
+
+  arrange'
+bip_39_word_new_line12: 'drift
+
+  glove
+
+  example
+
+  defy
+
+  pride
+
+  poet
+
+  demand
+
+  country
+
+  ignore
+
+  lift
+
+  arrange
+
+  acoustic'
+bip_39_word_new_line2: 'drift
+
+  glove'
+bip_39_word_new_line3: 'drift
+
+  glove
+
+  example'
+bip_39_word_new_line4: 'drift
+
+  glove
+
+  example
+
+  defy'
+bip_39_word_new_line5: 'drift
+
+  glove
+
+  example
+
+  defy
+
+  pride'
+bip_39_word_new_line6: 'drift
+
+  glove
+
+  example
+
+  defy
+
+  pride
+
+  poet'
+bip_39_word_new_line7: 'drift
+
+  glove
+
+  example
+
+  defy
+
+  pride
+
+  poet
+
+  demand'
+bip_39_word_new_line8: 'drift
+
+  glove
+
+  example
+
+  defy
+
+  pride
+
+  poet
+
+  demand
+
+  country'
+bip_39_word_new_line9: 'drift
+
+  glove
+
+  example
+
+  defy
+
+  pride
+
+  poet
+
+  demand
+
+  country
+
+  ignore'
+bip_39_word_space_0:
+- drift
+- glove
+- example
+- defy
+- pride
+- poet
+- demand
+- country
+- ignore
+- lift
+- arrange
+- acoustic
+bip_39_word_space_1: drift
+bip_39_word_space_10: drift glove example defy pride poet demand country ignore lift
+bip_39_word_space_11: drift glove example defy pride poet demand country ignore lift
+  arrange
+bip_39_word_space_12: drift glove example defy pride poet demand country ignore lift
+  arrange acoustic
+bip_39_word_space_2: drift glove
+bip_39_word_space_3: drift glove example
+bip_39_word_space_4: drift glove example defy
+bip_39_word_space_5: drift glove example defy pride
+bip_39_word_space_6: drift glove example defy pride poet
+bip_39_word_space_7: drift glove example defy pride poet demand
+bip_39_word_space_8: drift glove example defy pride poet demand country
+bip_39_word_space_9: drift glove example defy pride poet demand country ignore
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

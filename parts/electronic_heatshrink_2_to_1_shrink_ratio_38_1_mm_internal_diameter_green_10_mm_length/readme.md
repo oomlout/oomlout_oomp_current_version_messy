@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: unit neutral
+  * bip 39 word 3: unit neutral render
+  * bip 39 word: unit neutral render wrong citizen prevent camp series hand ball palace ahead
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | unit |  
+| bip_39_word_new_br10 | unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series<br>hand<br>ball |  
+| bip_39_word_new_br11 | unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series<br>hand<br>ball<br>palace |  
+| bip_39_word_new_br12 | unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series<br>hand<br>ball<br>palace<br>ahead |  
+| bip_39_word_new_br2 | unit<br>neutral |  
+| bip_39_word_new_br3 | unit<br>neutral<br>render |  
+| bip_39_word_new_br4 | unit<br>neutral<br>render<br>wrong |  
+| bip_39_word_new_br5 | unit<br>neutral<br>render<br>wrong<br>citizen |  
+| bip_39_word_new_br6 | unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent |  
+| bip_39_word_new_br7 | unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp |  
+| bip_39_word_new_br8 | unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series |  
+| bip_39_word_new_br9 | unit<br>neutral<br>render<br>wrong<br>citizen<br>prevent<br>camp<br>series<br>hand |  
+| bip_39_word_new_line1 | unit |  
+| bip_39_word_new_line10 | unit
+neutral
+render
+wrong
+citizen
+prevent
+camp
+series
+hand
+ball |  
+| bip_39_word_new_line11 | unit
+neutral
+render
+wrong
+citizen
+prevent
+camp
+series
+hand
+ball
+palace |  
+| bip_39_word_new_line12 | unit
+neutral
+render
+wrong
+citizen
+prevent
+camp
+series
+hand
+ball
+palace
+ahead |  
+| bip_39_word_new_line2 | unit
+neutral |  
+| bip_39_word_new_line3 | unit
+neutral
+render |  
+| bip_39_word_new_line4 | unit
+neutral
+render
+wrong |  
+| bip_39_word_new_line5 | unit
+neutral
+render
+wrong
+citizen |  
+| bip_39_word_new_line6 | unit
+neutral
+render
+wrong
+citizen
+prevent |  
+| bip_39_word_new_line7 | unit
+neutral
+render
+wrong
+citizen
+prevent
+camp |  
+| bip_39_word_new_line8 | unit
+neutral
+render
+wrong
+citizen
+prevent
+camp
+series |  
+| bip_39_word_new_line9 | unit
+neutral
+render
+wrong
+citizen
+prevent
+camp
+series
+hand |  
+| bip_39_word_space_0 | ['unit', 'neutral', 'render', 'wrong', 'citizen', 'prevent', 'camp', 'series', 'hand', 'ball', 'palace', 'ahead'] |  
+| bip_39_word_space_1 | unit |  
+| bip_39_word_space_10 | unit neutral render wrong citizen prevent camp series hand ball |  
+| bip_39_word_space_11 | unit neutral render wrong citizen prevent camp series hand ball palace |  
+| bip_39_word_space_12 | unit neutral render wrong citizen prevent camp series hand ball palace ahead |  
+| bip_39_word_space_2 | unit neutral |  
+| bip_39_word_space_3 | unit neutral render |  
+| bip_39_word_space_4 | unit neutral render wrong |  
+| bip_39_word_space_5 | unit neutral render wrong citizen |  
+| bip_39_word_space_6 | unit neutral render wrong citizen prevent |  
+| bip_39_word_space_7 | unit neutral render wrong citizen prevent camp |  
+| bip_39_word_space_8 | unit neutral render wrong citizen prevent camp series |  
+| bip_39_word_space_9 | unit neutral render wrong citizen prevent camp series hand |  
 | classification | electronic |  
 | classification_capital | Electronic |  
 | classification_first_letter | e |  

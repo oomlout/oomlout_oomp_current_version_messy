@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: spoon vehicle
+  * bip 39 word 3: spoon vehicle multiply
+  * bip 39 word: spoon vehicle multiply expose stone elbow resist sibling guess cancel vital aerobic
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | spoon |  
+| bip_39_word_new_br10 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow<br>resist<br>sibling<br>guess<br>cancel |  
+| bip_39_word_new_br11 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow<br>resist<br>sibling<br>guess<br>cancel<br>vital |  
+| bip_39_word_new_br12 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow<br>resist<br>sibling<br>guess<br>cancel<br>vital<br>aerobic |  
+| bip_39_word_new_br2 | spoon<br>vehicle |  
+| bip_39_word_new_br3 | spoon<br>vehicle<br>multiply |  
+| bip_39_word_new_br4 | spoon<br>vehicle<br>multiply<br>expose |  
+| bip_39_word_new_br5 | spoon<br>vehicle<br>multiply<br>expose<br>stone |  
+| bip_39_word_new_br6 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow |  
+| bip_39_word_new_br7 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow<br>resist |  
+| bip_39_word_new_br8 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow<br>resist<br>sibling |  
+| bip_39_word_new_br9 | spoon<br>vehicle<br>multiply<br>expose<br>stone<br>elbow<br>resist<br>sibling<br>guess |  
+| bip_39_word_new_line1 | spoon |  
+| bip_39_word_new_line10 | spoon
+vehicle
+multiply
+expose
+stone
+elbow
+resist
+sibling
+guess
+cancel |  
+| bip_39_word_new_line11 | spoon
+vehicle
+multiply
+expose
+stone
+elbow
+resist
+sibling
+guess
+cancel
+vital |  
+| bip_39_word_new_line12 | spoon
+vehicle
+multiply
+expose
+stone
+elbow
+resist
+sibling
+guess
+cancel
+vital
+aerobic |  
+| bip_39_word_new_line2 | spoon
+vehicle |  
+| bip_39_word_new_line3 | spoon
+vehicle
+multiply |  
+| bip_39_word_new_line4 | spoon
+vehicle
+multiply
+expose |  
+| bip_39_word_new_line5 | spoon
+vehicle
+multiply
+expose
+stone |  
+| bip_39_word_new_line6 | spoon
+vehicle
+multiply
+expose
+stone
+elbow |  
+| bip_39_word_new_line7 | spoon
+vehicle
+multiply
+expose
+stone
+elbow
+resist |  
+| bip_39_word_new_line8 | spoon
+vehicle
+multiply
+expose
+stone
+elbow
+resist
+sibling |  
+| bip_39_word_new_line9 | spoon
+vehicle
+multiply
+expose
+stone
+elbow
+resist
+sibling
+guess |  
+| bip_39_word_space_0 | ['spoon', 'vehicle', 'multiply', 'expose', 'stone', 'elbow', 'resist', 'sibling', 'guess', 'cancel', 'vital', 'aerobic'] |  
+| bip_39_word_space_1 | spoon |  
+| bip_39_word_space_10 | spoon vehicle multiply expose stone elbow resist sibling guess cancel |  
+| bip_39_word_space_11 | spoon vehicle multiply expose stone elbow resist sibling guess cancel vital |  
+| bip_39_word_space_12 | spoon vehicle multiply expose stone elbow resist sibling guess cancel vital aerobic |  
+| bip_39_word_space_2 | spoon vehicle |  
+| bip_39_word_space_3 | spoon vehicle multiply |  
+| bip_39_word_space_4 | spoon vehicle multiply expose |  
+| bip_39_word_space_5 | spoon vehicle multiply expose stone |  
+| bip_39_word_space_6 | spoon vehicle multiply expose stone elbow |  
+| bip_39_word_space_7 | spoon vehicle multiply expose stone elbow resist |  
+| bip_39_word_space_8 | spoon vehicle multiply expose stone elbow resist sibling |  
+| bip_39_word_space_9 | spoon vehicle multiply expose stone elbow resist sibling guess |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

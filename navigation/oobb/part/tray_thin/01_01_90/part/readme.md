@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: erupt divorce
+  * bip 39 word 3: erupt divorce burger
+  * bip 39 word: erupt divorce burger tuition observe torch school high able spider brave always
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | erupt |  
+| bip_39_word_new_br10 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider |  
+| bip_39_word_new_br11 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider<br>brave |  
+| bip_39_word_new_br12 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able<br>spider<br>brave<br>always |  
+| bip_39_word_new_br2 | erupt<br>divorce |  
+| bip_39_word_new_br3 | erupt<br>divorce<br>burger |  
+| bip_39_word_new_br4 | erupt<br>divorce<br>burger<br>tuition |  
+| bip_39_word_new_br5 | erupt<br>divorce<br>burger<br>tuition<br>observe |  
+| bip_39_word_new_br6 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch |  
+| bip_39_word_new_br7 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school |  
+| bip_39_word_new_br8 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high |  
+| bip_39_word_new_br9 | erupt<br>divorce<br>burger<br>tuition<br>observe<br>torch<br>school<br>high<br>able |  
+| bip_39_word_new_line1 | erupt |  
+| bip_39_word_new_line10 | erupt
+divorce
+burger
+tuition
+observe
+torch
+school
+high
+able
+spider |  
+| bip_39_word_new_line11 | erupt
+divorce
+burger
+tuition
+observe
+torch
+school
+high
+able
+spider
+brave |  
+| bip_39_word_new_line12 | erupt
+divorce
+burger
+tuition
+observe
+torch
+school
+high
+able
+spider
+brave
+always |  
+| bip_39_word_new_line2 | erupt
+divorce |  
+| bip_39_word_new_line3 | erupt
+divorce
+burger |  
+| bip_39_word_new_line4 | erupt
+divorce
+burger
+tuition |  
+| bip_39_word_new_line5 | erupt
+divorce
+burger
+tuition
+observe |  
+| bip_39_word_new_line6 | erupt
+divorce
+burger
+tuition
+observe
+torch |  
+| bip_39_word_new_line7 | erupt
+divorce
+burger
+tuition
+observe
+torch
+school |  
+| bip_39_word_new_line8 | erupt
+divorce
+burger
+tuition
+observe
+torch
+school
+high |  
+| bip_39_word_new_line9 | erupt
+divorce
+burger
+tuition
+observe
+torch
+school
+high
+able |  
+| bip_39_word_space_0 | ['erupt', 'divorce', 'burger', 'tuition', 'observe', 'torch', 'school', 'high', 'able', 'spider', 'brave', 'always'] |  
+| bip_39_word_space_1 | erupt |  
+| bip_39_word_space_10 | erupt divorce burger tuition observe torch school high able spider |  
+| bip_39_word_space_11 | erupt divorce burger tuition observe torch school high able spider brave |  
+| bip_39_word_space_12 | erupt divorce burger tuition observe torch school high able spider brave always |  
+| bip_39_word_space_2 | erupt divorce |  
+| bip_39_word_space_3 | erupt divorce burger |  
+| bip_39_word_space_4 | erupt divorce burger tuition |  
+| bip_39_word_space_5 | erupt divorce burger tuition observe |  
+| bip_39_word_space_6 | erupt divorce burger tuition observe torch |  
+| bip_39_word_space_7 | erupt divorce burger tuition observe torch school |  
+| bip_39_word_space_8 | erupt divorce burger tuition observe torch school high |  
+| bip_39_word_space_9 | erupt divorce burger tuition observe torch school high able |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

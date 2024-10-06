@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: hub kid
+  * bip 39 word 3: hub kid this
+  * bip 39 word: hub kid this memory pool gentle lunar merge capital maze rotate aisle
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | hub |  
+| bip_39_word_new_br10 | hub<br>kid<br>this<br>memory<br>pool<br>gentle<br>lunar<br>merge<br>capital<br>maze |  
+| bip_39_word_new_br11 | hub<br>kid<br>this<br>memory<br>pool<br>gentle<br>lunar<br>merge<br>capital<br>maze<br>rotate |  
+| bip_39_word_new_br12 | hub<br>kid<br>this<br>memory<br>pool<br>gentle<br>lunar<br>merge<br>capital<br>maze<br>rotate<br>aisle |  
+| bip_39_word_new_br2 | hub<br>kid |  
+| bip_39_word_new_br3 | hub<br>kid<br>this |  
+| bip_39_word_new_br4 | hub<br>kid<br>this<br>memory |  
+| bip_39_word_new_br5 | hub<br>kid<br>this<br>memory<br>pool |  
+| bip_39_word_new_br6 | hub<br>kid<br>this<br>memory<br>pool<br>gentle |  
+| bip_39_word_new_br7 | hub<br>kid<br>this<br>memory<br>pool<br>gentle<br>lunar |  
+| bip_39_word_new_br8 | hub<br>kid<br>this<br>memory<br>pool<br>gentle<br>lunar<br>merge |  
+| bip_39_word_new_br9 | hub<br>kid<br>this<br>memory<br>pool<br>gentle<br>lunar<br>merge<br>capital |  
+| bip_39_word_new_line1 | hub |  
+| bip_39_word_new_line10 | hub
+kid
+this
+memory
+pool
+gentle
+lunar
+merge
+capital
+maze |  
+| bip_39_word_new_line11 | hub
+kid
+this
+memory
+pool
+gentle
+lunar
+merge
+capital
+maze
+rotate |  
+| bip_39_word_new_line12 | hub
+kid
+this
+memory
+pool
+gentle
+lunar
+merge
+capital
+maze
+rotate
+aisle |  
+| bip_39_word_new_line2 | hub
+kid |  
+| bip_39_word_new_line3 | hub
+kid
+this |  
+| bip_39_word_new_line4 | hub
+kid
+this
+memory |  
+| bip_39_word_new_line5 | hub
+kid
+this
+memory
+pool |  
+| bip_39_word_new_line6 | hub
+kid
+this
+memory
+pool
+gentle |  
+| bip_39_word_new_line7 | hub
+kid
+this
+memory
+pool
+gentle
+lunar |  
+| bip_39_word_new_line8 | hub
+kid
+this
+memory
+pool
+gentle
+lunar
+merge |  
+| bip_39_word_new_line9 | hub
+kid
+this
+memory
+pool
+gentle
+lunar
+merge
+capital |  
+| bip_39_word_space_0 | ['hub', 'kid', 'this', 'memory', 'pool', 'gentle', 'lunar', 'merge', 'capital', 'maze', 'rotate', 'aisle'] |  
+| bip_39_word_space_1 | hub |  
+| bip_39_word_space_10 | hub kid this memory pool gentle lunar merge capital maze |  
+| bip_39_word_space_11 | hub kid this memory pool gentle lunar merge capital maze rotate |  
+| bip_39_word_space_12 | hub kid this memory pool gentle lunar merge capital maze rotate aisle |  
+| bip_39_word_space_2 | hub kid |  
+| bip_39_word_space_3 | hub kid this |  
+| bip_39_word_space_4 | hub kid this memory |  
+| bip_39_word_space_5 | hub kid this memory pool |  
+| bip_39_word_space_6 | hub kid this memory pool gentle |  
+| bip_39_word_space_7 | hub kid this memory pool gentle lunar |  
+| bip_39_word_space_8 | hub kid this memory pool gentle lunar merge |  
+| bip_39_word_space_9 | hub kid this memory pool gentle lunar merge capital |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

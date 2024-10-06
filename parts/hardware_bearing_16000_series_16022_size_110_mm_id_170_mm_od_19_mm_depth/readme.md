@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: bamboo glare
+  * bip 39 word 3: bamboo glare can
+  * bip 39 word: bamboo glare can start front code group proof inform stairs oxygen acoustic
 
 ### other_codes
 * short_code: br16022
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | bamboo |  
+| bip_39_word_new_br10 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs |  
+| bip_39_word_new_br11 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs<br>oxygen |  
+| bip_39_word_new_br12 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform<br>stairs<br>oxygen<br>acoustic |  
+| bip_39_word_new_br2 | bamboo<br>glare |  
+| bip_39_word_new_br3 | bamboo<br>glare<br>can |  
+| bip_39_word_new_br4 | bamboo<br>glare<br>can<br>start |  
+| bip_39_word_new_br5 | bamboo<br>glare<br>can<br>start<br>front |  
+| bip_39_word_new_br6 | bamboo<br>glare<br>can<br>start<br>front<br>code |  
+| bip_39_word_new_br7 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group |  
+| bip_39_word_new_br8 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof |  
+| bip_39_word_new_br9 | bamboo<br>glare<br>can<br>start<br>front<br>code<br>group<br>proof<br>inform |  
+| bip_39_word_new_line1 | bamboo |  
+| bip_39_word_new_line10 | bamboo
+glare
+can
+start
+front
+code
+group
+proof
+inform
+stairs |  
+| bip_39_word_new_line11 | bamboo
+glare
+can
+start
+front
+code
+group
+proof
+inform
+stairs
+oxygen |  
+| bip_39_word_new_line12 | bamboo
+glare
+can
+start
+front
+code
+group
+proof
+inform
+stairs
+oxygen
+acoustic |  
+| bip_39_word_new_line2 | bamboo
+glare |  
+| bip_39_word_new_line3 | bamboo
+glare
+can |  
+| bip_39_word_new_line4 | bamboo
+glare
+can
+start |  
+| bip_39_word_new_line5 | bamboo
+glare
+can
+start
+front |  
+| bip_39_word_new_line6 | bamboo
+glare
+can
+start
+front
+code |  
+| bip_39_word_new_line7 | bamboo
+glare
+can
+start
+front
+code
+group |  
+| bip_39_word_new_line8 | bamboo
+glare
+can
+start
+front
+code
+group
+proof |  
+| bip_39_word_new_line9 | bamboo
+glare
+can
+start
+front
+code
+group
+proof
+inform |  
+| bip_39_word_space_0 | ['bamboo', 'glare', 'can', 'start', 'front', 'code', 'group', 'proof', 'inform', 'stairs', 'oxygen', 'acoustic'] |  
+| bip_39_word_space_1 | bamboo |  
+| bip_39_word_space_10 | bamboo glare can start front code group proof inform stairs |  
+| bip_39_word_space_11 | bamboo glare can start front code group proof inform stairs oxygen |  
+| bip_39_word_space_12 | bamboo glare can start front code group proof inform stairs oxygen acoustic |  
+| bip_39_word_space_2 | bamboo glare |  
+| bip_39_word_space_3 | bamboo glare can |  
+| bip_39_word_space_4 | bamboo glare can start |  
+| bip_39_word_space_5 | bamboo glare can start front |  
+| bip_39_word_space_6 | bamboo glare can start front code |  
+| bip_39_word_space_7 | bamboo glare can start front code group |  
+| bip_39_word_space_8 | bamboo glare can start front code group proof |  
+| bip_39_word_space_9 | bamboo glare can start front code group proof inform |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

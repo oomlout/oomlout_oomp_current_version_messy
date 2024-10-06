@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: smile veteran
+  * bip 39 word 3: smile veteran three
+  * bip 39 word: smile veteran three grid fatigue afraid only forget nominee depend cable asset
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | smile |  
+| bip_39_word_new_br10 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid<br>only<br>forget<br>nominee<br>depend |  
+| bip_39_word_new_br11 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid<br>only<br>forget<br>nominee<br>depend<br>cable |  
+| bip_39_word_new_br12 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid<br>only<br>forget<br>nominee<br>depend<br>cable<br>asset |  
+| bip_39_word_new_br2 | smile<br>veteran |  
+| bip_39_word_new_br3 | smile<br>veteran<br>three |  
+| bip_39_word_new_br4 | smile<br>veteran<br>three<br>grid |  
+| bip_39_word_new_br5 | smile<br>veteran<br>three<br>grid<br>fatigue |  
+| bip_39_word_new_br6 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid |  
+| bip_39_word_new_br7 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid<br>only |  
+| bip_39_word_new_br8 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid<br>only<br>forget |  
+| bip_39_word_new_br9 | smile<br>veteran<br>three<br>grid<br>fatigue<br>afraid<br>only<br>forget<br>nominee |  
+| bip_39_word_new_line1 | smile |  
+| bip_39_word_new_line10 | smile
+veteran
+three
+grid
+fatigue
+afraid
+only
+forget
+nominee
+depend |  
+| bip_39_word_new_line11 | smile
+veteran
+three
+grid
+fatigue
+afraid
+only
+forget
+nominee
+depend
+cable |  
+| bip_39_word_new_line12 | smile
+veteran
+three
+grid
+fatigue
+afraid
+only
+forget
+nominee
+depend
+cable
+asset |  
+| bip_39_word_new_line2 | smile
+veteran |  
+| bip_39_word_new_line3 | smile
+veteran
+three |  
+| bip_39_word_new_line4 | smile
+veteran
+three
+grid |  
+| bip_39_word_new_line5 | smile
+veteran
+three
+grid
+fatigue |  
+| bip_39_word_new_line6 | smile
+veteran
+three
+grid
+fatigue
+afraid |  
+| bip_39_word_new_line7 | smile
+veteran
+three
+grid
+fatigue
+afraid
+only |  
+| bip_39_word_new_line8 | smile
+veteran
+three
+grid
+fatigue
+afraid
+only
+forget |  
+| bip_39_word_new_line9 | smile
+veteran
+three
+grid
+fatigue
+afraid
+only
+forget
+nominee |  
+| bip_39_word_space_0 | ['smile', 'veteran', 'three', 'grid', 'fatigue', 'afraid', 'only', 'forget', 'nominee', 'depend', 'cable', 'asset'] |  
+| bip_39_word_space_1 | smile |  
+| bip_39_word_space_10 | smile veteran three grid fatigue afraid only forget nominee depend |  
+| bip_39_word_space_11 | smile veteran three grid fatigue afraid only forget nominee depend cable |  
+| bip_39_word_space_12 | smile veteran three grid fatigue afraid only forget nominee depend cable asset |  
+| bip_39_word_space_2 | smile veteran |  
+| bip_39_word_space_3 | smile veteran three |  
+| bip_39_word_space_4 | smile veteran three grid |  
+| bip_39_word_space_5 | smile veteran three grid fatigue |  
+| bip_39_word_space_6 | smile veteran three grid fatigue afraid |  
+| bip_39_word_space_7 | smile veteran three grid fatigue afraid only |  
+| bip_39_word_space_8 | smile veteran three grid fatigue afraid only forget |  
+| bip_39_word_space_9 | smile veteran three grid fatigue afraid only forget nominee |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

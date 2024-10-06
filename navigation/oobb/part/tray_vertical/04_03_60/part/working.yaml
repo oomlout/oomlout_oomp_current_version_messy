@@ -1,3 +1,187 @@
+bip_39_word_new_br1: suspect
+bip_39_word_new_br10: suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair<br>inform<br>message<br>boil<br>velvet
+bip_39_word_new_br11: suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair<br>inform<br>message<br>boil<br>velvet<br>current
+bip_39_word_new_br12: suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair<br>inform<br>message<br>boil<br>velvet<br>current<br>alter
+bip_39_word_new_br2: suspect<br>annual
+bip_39_word_new_br3: suspect<br>annual<br>spoil
+bip_39_word_new_br4: suspect<br>annual<br>spoil<br>chronic
+bip_39_word_new_br5: suspect<br>annual<br>spoil<br>chronic<br>eagle
+bip_39_word_new_br6: suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair
+bip_39_word_new_br7: suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair<br>inform
+bip_39_word_new_br8: suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair<br>inform<br>message
+bip_39_word_new_br9: suspect<br>annual<br>spoil<br>chronic<br>eagle<br>chair<br>inform<br>message<br>boil
+bip_39_word_new_line1: suspect
+bip_39_word_new_line10: 'suspect
+
+  annual
+
+  spoil
+
+  chronic
+
+  eagle
+
+  chair
+
+  inform
+
+  message
+
+  boil
+
+  velvet'
+bip_39_word_new_line11: 'suspect
+
+  annual
+
+  spoil
+
+  chronic
+
+  eagle
+
+  chair
+
+  inform
+
+  message
+
+  boil
+
+  velvet
+
+  current'
+bip_39_word_new_line12: 'suspect
+
+  annual
+
+  spoil
+
+  chronic
+
+  eagle
+
+  chair
+
+  inform
+
+  message
+
+  boil
+
+  velvet
+
+  current
+
+  alter'
+bip_39_word_new_line2: 'suspect
+
+  annual'
+bip_39_word_new_line3: 'suspect
+
+  annual
+
+  spoil'
+bip_39_word_new_line4: 'suspect
+
+  annual
+
+  spoil
+
+  chronic'
+bip_39_word_new_line5: 'suspect
+
+  annual
+
+  spoil
+
+  chronic
+
+  eagle'
+bip_39_word_new_line6: 'suspect
+
+  annual
+
+  spoil
+
+  chronic
+
+  eagle
+
+  chair'
+bip_39_word_new_line7: 'suspect
+
+  annual
+
+  spoil
+
+  chronic
+
+  eagle
+
+  chair
+
+  inform'
+bip_39_word_new_line8: 'suspect
+
+  annual
+
+  spoil
+
+  chronic
+
+  eagle
+
+  chair
+
+  inform
+
+  message'
+bip_39_word_new_line9: 'suspect
+
+  annual
+
+  spoil
+
+  chronic
+
+  eagle
+
+  chair
+
+  inform
+
+  message
+
+  boil'
+bip_39_word_space_0:
+- suspect
+- annual
+- spoil
+- chronic
+- eagle
+- chair
+- inform
+- message
+- boil
+- velvet
+- current
+- alter
+bip_39_word_space_1: suspect
+bip_39_word_space_10: suspect annual spoil chronic eagle chair inform message boil
+  velvet
+bip_39_word_space_11: suspect annual spoil chronic eagle chair inform message boil
+  velvet current
+bip_39_word_space_12: suspect annual spoil chronic eagle chair inform message boil
+  velvet current alter
+bip_39_word_space_2: suspect annual
+bip_39_word_space_3: suspect annual spoil
+bip_39_word_space_4: suspect annual spoil chronic
+bip_39_word_space_5: suspect annual spoil chronic eagle
+bip_39_word_space_6: suspect annual spoil chronic eagle chair
+bip_39_word_space_7: suspect annual spoil chronic eagle chair inform
+bip_39_word_space_8: suspect annual spoil chronic eagle chair inform message
+bip_39_word_space_9: suspect annual spoil chronic eagle chair inform message boil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: put brick
+  * bip 39 word 3: put brick during
+  * bip 39 word: put brick during ability teach swear connect surprise mention inhale earth above
 
 ### other_codes
 * short_code: brF635
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | put |  
+| bip_39_word_new_br10 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale |  
+| bip_39_word_new_br11 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale<br>earth |  
+| bip_39_word_new_br12 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention<br>inhale<br>earth<br>above |  
+| bip_39_word_new_br2 | put<br>brick |  
+| bip_39_word_new_br3 | put<br>brick<br>during |  
+| bip_39_word_new_br4 | put<br>brick<br>during<br>ability |  
+| bip_39_word_new_br5 | put<br>brick<br>during<br>ability<br>teach |  
+| bip_39_word_new_br6 | put<br>brick<br>during<br>ability<br>teach<br>swear |  
+| bip_39_word_new_br7 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect |  
+| bip_39_word_new_br8 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise |  
+| bip_39_word_new_br9 | put<br>brick<br>during<br>ability<br>teach<br>swear<br>connect<br>surprise<br>mention |  
+| bip_39_word_new_line1 | put |  
+| bip_39_word_new_line10 | put
+brick
+during
+ability
+teach
+swear
+connect
+surprise
+mention
+inhale |  
+| bip_39_word_new_line11 | put
+brick
+during
+ability
+teach
+swear
+connect
+surprise
+mention
+inhale
+earth |  
+| bip_39_word_new_line12 | put
+brick
+during
+ability
+teach
+swear
+connect
+surprise
+mention
+inhale
+earth
+above |  
+| bip_39_word_new_line2 | put
+brick |  
+| bip_39_word_new_line3 | put
+brick
+during |  
+| bip_39_word_new_line4 | put
+brick
+during
+ability |  
+| bip_39_word_new_line5 | put
+brick
+during
+ability
+teach |  
+| bip_39_word_new_line6 | put
+brick
+during
+ability
+teach
+swear |  
+| bip_39_word_new_line7 | put
+brick
+during
+ability
+teach
+swear
+connect |  
+| bip_39_word_new_line8 | put
+brick
+during
+ability
+teach
+swear
+connect
+surprise |  
+| bip_39_word_new_line9 | put
+brick
+during
+ability
+teach
+swear
+connect
+surprise
+mention |  
+| bip_39_word_space_0 | ['put', 'brick', 'during', 'ability', 'teach', 'swear', 'connect', 'surprise', 'mention', 'inhale', 'earth', 'above'] |  
+| bip_39_word_space_1 | put |  
+| bip_39_word_space_10 | put brick during ability teach swear connect surprise mention inhale |  
+| bip_39_word_space_11 | put brick during ability teach swear connect surprise mention inhale earth |  
+| bip_39_word_space_12 | put brick during ability teach swear connect surprise mention inhale earth above |  
+| bip_39_word_space_2 | put brick |  
+| bip_39_word_space_3 | put brick during |  
+| bip_39_word_space_4 | put brick during ability |  
+| bip_39_word_space_5 | put brick during ability teach |  
+| bip_39_word_space_6 | put brick during ability teach swear |  
+| bip_39_word_space_7 | put brick during ability teach swear connect |  
+| bip_39_word_space_8 | put brick during ability teach swear connect surprise |  
+| bip_39_word_space_9 | put brick during ability teach swear connect surprise mention |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

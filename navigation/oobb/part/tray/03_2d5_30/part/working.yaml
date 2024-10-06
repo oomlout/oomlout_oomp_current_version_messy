@@ -1,3 +1,186 @@
+bip_39_word_new_br1: report
+bip_39_word_new_br10: report<br>auction<br>hockey<br>travel<br>ecology<br>trick<br>east<br>tuna<br>throw<br>more
+bip_39_word_new_br11: report<br>auction<br>hockey<br>travel<br>ecology<br>trick<br>east<br>tuna<br>throw<br>more<br>urban
+bip_39_word_new_br12: report<br>auction<br>hockey<br>travel<br>ecology<br>trick<br>east<br>tuna<br>throw<br>more<br>urban<br>alert
+bip_39_word_new_br2: report<br>auction
+bip_39_word_new_br3: report<br>auction<br>hockey
+bip_39_word_new_br4: report<br>auction<br>hockey<br>travel
+bip_39_word_new_br5: report<br>auction<br>hockey<br>travel<br>ecology
+bip_39_word_new_br6: report<br>auction<br>hockey<br>travel<br>ecology<br>trick
+bip_39_word_new_br7: report<br>auction<br>hockey<br>travel<br>ecology<br>trick<br>east
+bip_39_word_new_br8: report<br>auction<br>hockey<br>travel<br>ecology<br>trick<br>east<br>tuna
+bip_39_word_new_br9: report<br>auction<br>hockey<br>travel<br>ecology<br>trick<br>east<br>tuna<br>throw
+bip_39_word_new_line1: report
+bip_39_word_new_line10: 'report
+
+  auction
+
+  hockey
+
+  travel
+
+  ecology
+
+  trick
+
+  east
+
+  tuna
+
+  throw
+
+  more'
+bip_39_word_new_line11: 'report
+
+  auction
+
+  hockey
+
+  travel
+
+  ecology
+
+  trick
+
+  east
+
+  tuna
+
+  throw
+
+  more
+
+  urban'
+bip_39_word_new_line12: 'report
+
+  auction
+
+  hockey
+
+  travel
+
+  ecology
+
+  trick
+
+  east
+
+  tuna
+
+  throw
+
+  more
+
+  urban
+
+  alert'
+bip_39_word_new_line2: 'report
+
+  auction'
+bip_39_word_new_line3: 'report
+
+  auction
+
+  hockey'
+bip_39_word_new_line4: 'report
+
+  auction
+
+  hockey
+
+  travel'
+bip_39_word_new_line5: 'report
+
+  auction
+
+  hockey
+
+  travel
+
+  ecology'
+bip_39_word_new_line6: 'report
+
+  auction
+
+  hockey
+
+  travel
+
+  ecology
+
+  trick'
+bip_39_word_new_line7: 'report
+
+  auction
+
+  hockey
+
+  travel
+
+  ecology
+
+  trick
+
+  east'
+bip_39_word_new_line8: 'report
+
+  auction
+
+  hockey
+
+  travel
+
+  ecology
+
+  trick
+
+  east
+
+  tuna'
+bip_39_word_new_line9: 'report
+
+  auction
+
+  hockey
+
+  travel
+
+  ecology
+
+  trick
+
+  east
+
+  tuna
+
+  throw'
+bip_39_word_space_0:
+- report
+- auction
+- hockey
+- travel
+- ecology
+- trick
+- east
+- tuna
+- throw
+- more
+- urban
+- alert
+bip_39_word_space_1: report
+bip_39_word_space_10: report auction hockey travel ecology trick east tuna throw more
+bip_39_word_space_11: report auction hockey travel ecology trick east tuna throw more
+  urban
+bip_39_word_space_12: report auction hockey travel ecology trick east tuna throw more
+  urban alert
+bip_39_word_space_2: report auction
+bip_39_word_space_3: report auction hockey
+bip_39_word_space_4: report auction hockey travel
+bip_39_word_space_5: report auction hockey travel ecology
+bip_39_word_space_6: report auction hockey travel ecology trick
+bip_39_word_space_7: report auction hockey travel ecology trick east
+bip_39_word_space_8: report auction hockey travel ecology trick east tuna
+bip_39_word_space_9: report auction hockey travel ecology trick east tuna throw
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o

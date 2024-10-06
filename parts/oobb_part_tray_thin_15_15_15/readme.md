@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: tank giggle
+  * bip 39 word 3: tank giggle bind
+  * bip 39 word: tank giggle bind above busy deputy custom bless sword wild injury advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | tank |  
+| bip_39_word_new_br10 | tank<br>giggle<br>bind<br>above<br>busy<br>deputy<br>custom<br>bless<br>sword<br>wild |  
+| bip_39_word_new_br11 | tank<br>giggle<br>bind<br>above<br>busy<br>deputy<br>custom<br>bless<br>sword<br>wild<br>injury |  
+| bip_39_word_new_br12 | tank<br>giggle<br>bind<br>above<br>busy<br>deputy<br>custom<br>bless<br>sword<br>wild<br>injury<br>advance |  
+| bip_39_word_new_br2 | tank<br>giggle |  
+| bip_39_word_new_br3 | tank<br>giggle<br>bind |  
+| bip_39_word_new_br4 | tank<br>giggle<br>bind<br>above |  
+| bip_39_word_new_br5 | tank<br>giggle<br>bind<br>above<br>busy |  
+| bip_39_word_new_br6 | tank<br>giggle<br>bind<br>above<br>busy<br>deputy |  
+| bip_39_word_new_br7 | tank<br>giggle<br>bind<br>above<br>busy<br>deputy<br>custom |  
+| bip_39_word_new_br8 | tank<br>giggle<br>bind<br>above<br>busy<br>deputy<br>custom<br>bless |  
+| bip_39_word_new_br9 | tank<br>giggle<br>bind<br>above<br>busy<br>deputy<br>custom<br>bless<br>sword |  
+| bip_39_word_new_line1 | tank |  
+| bip_39_word_new_line10 | tank
+giggle
+bind
+above
+busy
+deputy
+custom
+bless
+sword
+wild |  
+| bip_39_word_new_line11 | tank
+giggle
+bind
+above
+busy
+deputy
+custom
+bless
+sword
+wild
+injury |  
+| bip_39_word_new_line12 | tank
+giggle
+bind
+above
+busy
+deputy
+custom
+bless
+sword
+wild
+injury
+advance |  
+| bip_39_word_new_line2 | tank
+giggle |  
+| bip_39_word_new_line3 | tank
+giggle
+bind |  
+| bip_39_word_new_line4 | tank
+giggle
+bind
+above |  
+| bip_39_word_new_line5 | tank
+giggle
+bind
+above
+busy |  
+| bip_39_word_new_line6 | tank
+giggle
+bind
+above
+busy
+deputy |  
+| bip_39_word_new_line7 | tank
+giggle
+bind
+above
+busy
+deputy
+custom |  
+| bip_39_word_new_line8 | tank
+giggle
+bind
+above
+busy
+deputy
+custom
+bless |  
+| bip_39_word_new_line9 | tank
+giggle
+bind
+above
+busy
+deputy
+custom
+bless
+sword |  
+| bip_39_word_space_0 | ['tank', 'giggle', 'bind', 'above', 'busy', 'deputy', 'custom', 'bless', 'sword', 'wild', 'injury', 'advance'] |  
+| bip_39_word_space_1 | tank |  
+| bip_39_word_space_10 | tank giggle bind above busy deputy custom bless sword wild |  
+| bip_39_word_space_11 | tank giggle bind above busy deputy custom bless sword wild injury |  
+| bip_39_word_space_12 | tank giggle bind above busy deputy custom bless sword wild injury advance |  
+| bip_39_word_space_2 | tank giggle |  
+| bip_39_word_space_3 | tank giggle bind |  
+| bip_39_word_space_4 | tank giggle bind above |  
+| bip_39_word_space_5 | tank giggle bind above busy |  
+| bip_39_word_space_6 | tank giggle bind above busy deputy |  
+| bip_39_word_space_7 | tank giggle bind above busy deputy custom |  
+| bip_39_word_space_8 | tank giggle bind above busy deputy custom bless |  
+| bip_39_word_space_9 | tank giggle bind above busy deputy custom bless sword |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

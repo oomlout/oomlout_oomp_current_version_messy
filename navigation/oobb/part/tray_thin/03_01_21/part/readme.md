@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: item toy
+  * bip 39 word 3: item toy goddess
+  * bip 39 word: item toy goddess ankle rabbit rare sentence page make embody blast album
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | item |  
+| bip_39_word_new_br10 | item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare<br>sentence<br>page<br>make<br>embody |  
+| bip_39_word_new_br11 | item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare<br>sentence<br>page<br>make<br>embody<br>blast |  
+| bip_39_word_new_br12 | item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare<br>sentence<br>page<br>make<br>embody<br>blast<br>album |  
+| bip_39_word_new_br2 | item<br>toy |  
+| bip_39_word_new_br3 | item<br>toy<br>goddess |  
+| bip_39_word_new_br4 | item<br>toy<br>goddess<br>ankle |  
+| bip_39_word_new_br5 | item<br>toy<br>goddess<br>ankle<br>rabbit |  
+| bip_39_word_new_br6 | item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare |  
+| bip_39_word_new_br7 | item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare<br>sentence |  
+| bip_39_word_new_br8 | item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare<br>sentence<br>page |  
+| bip_39_word_new_br9 | item<br>toy<br>goddess<br>ankle<br>rabbit<br>rare<br>sentence<br>page<br>make |  
+| bip_39_word_new_line1 | item |  
+| bip_39_word_new_line10 | item
+toy
+goddess
+ankle
+rabbit
+rare
+sentence
+page
+make
+embody |  
+| bip_39_word_new_line11 | item
+toy
+goddess
+ankle
+rabbit
+rare
+sentence
+page
+make
+embody
+blast |  
+| bip_39_word_new_line12 | item
+toy
+goddess
+ankle
+rabbit
+rare
+sentence
+page
+make
+embody
+blast
+album |  
+| bip_39_word_new_line2 | item
+toy |  
+| bip_39_word_new_line3 | item
+toy
+goddess |  
+| bip_39_word_new_line4 | item
+toy
+goddess
+ankle |  
+| bip_39_word_new_line5 | item
+toy
+goddess
+ankle
+rabbit |  
+| bip_39_word_new_line6 | item
+toy
+goddess
+ankle
+rabbit
+rare |  
+| bip_39_word_new_line7 | item
+toy
+goddess
+ankle
+rabbit
+rare
+sentence |  
+| bip_39_word_new_line8 | item
+toy
+goddess
+ankle
+rabbit
+rare
+sentence
+page |  
+| bip_39_word_new_line9 | item
+toy
+goddess
+ankle
+rabbit
+rare
+sentence
+page
+make |  
+| bip_39_word_space_0 | ['item', 'toy', 'goddess', 'ankle', 'rabbit', 'rare', 'sentence', 'page', 'make', 'embody', 'blast', 'album'] |  
+| bip_39_word_space_1 | item |  
+| bip_39_word_space_10 | item toy goddess ankle rabbit rare sentence page make embody |  
+| bip_39_word_space_11 | item toy goddess ankle rabbit rare sentence page make embody blast |  
+| bip_39_word_space_12 | item toy goddess ankle rabbit rare sentence page make embody blast album |  
+| bip_39_word_space_2 | item toy |  
+| bip_39_word_space_3 | item toy goddess |  
+| bip_39_word_space_4 | item toy goddess ankle |  
+| bip_39_word_space_5 | item toy goddess ankle rabbit |  
+| bip_39_word_space_6 | item toy goddess ankle rabbit rare |  
+| bip_39_word_space_7 | item toy goddess ankle rabbit rare sentence |  
+| bip_39_word_space_8 | item toy goddess ankle rabbit rare sentence page |  
+| bip_39_word_space_9 | item toy goddess ankle rabbit rare sentence page make |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

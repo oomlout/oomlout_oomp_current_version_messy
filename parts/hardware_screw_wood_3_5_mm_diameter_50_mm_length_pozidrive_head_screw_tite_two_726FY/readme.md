@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: pozidrive_head
   * manufacturer: screw_tite_two
   * part_number: 726FY
+  * bip 39 word 2: mountain search
+  * bip 39 word 3: mountain search seed
+  * bip 39 word: mountain search seed bus radar flee stage you erupt run brass advance
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | mountain |  
+| bip_39_word_new_br10 | mountain<br>search<br>seed<br>bus<br>radar<br>flee<br>stage<br>you<br>erupt<br>run |  
+| bip_39_word_new_br11 | mountain<br>search<br>seed<br>bus<br>radar<br>flee<br>stage<br>you<br>erupt<br>run<br>brass |  
+| bip_39_word_new_br12 | mountain<br>search<br>seed<br>bus<br>radar<br>flee<br>stage<br>you<br>erupt<br>run<br>brass<br>advance |  
+| bip_39_word_new_br2 | mountain<br>search |  
+| bip_39_word_new_br3 | mountain<br>search<br>seed |  
+| bip_39_word_new_br4 | mountain<br>search<br>seed<br>bus |  
+| bip_39_word_new_br5 | mountain<br>search<br>seed<br>bus<br>radar |  
+| bip_39_word_new_br6 | mountain<br>search<br>seed<br>bus<br>radar<br>flee |  
+| bip_39_word_new_br7 | mountain<br>search<br>seed<br>bus<br>radar<br>flee<br>stage |  
+| bip_39_word_new_br8 | mountain<br>search<br>seed<br>bus<br>radar<br>flee<br>stage<br>you |  
+| bip_39_word_new_br9 | mountain<br>search<br>seed<br>bus<br>radar<br>flee<br>stage<br>you<br>erupt |  
+| bip_39_word_new_line1 | mountain |  
+| bip_39_word_new_line10 | mountain
+search
+seed
+bus
+radar
+flee
+stage
+you
+erupt
+run |  
+| bip_39_word_new_line11 | mountain
+search
+seed
+bus
+radar
+flee
+stage
+you
+erupt
+run
+brass |  
+| bip_39_word_new_line12 | mountain
+search
+seed
+bus
+radar
+flee
+stage
+you
+erupt
+run
+brass
+advance |  
+| bip_39_word_new_line2 | mountain
+search |  
+| bip_39_word_new_line3 | mountain
+search
+seed |  
+| bip_39_word_new_line4 | mountain
+search
+seed
+bus |  
+| bip_39_word_new_line5 | mountain
+search
+seed
+bus
+radar |  
+| bip_39_word_new_line6 | mountain
+search
+seed
+bus
+radar
+flee |  
+| bip_39_word_new_line7 | mountain
+search
+seed
+bus
+radar
+flee
+stage |  
+| bip_39_word_new_line8 | mountain
+search
+seed
+bus
+radar
+flee
+stage
+you |  
+| bip_39_word_new_line9 | mountain
+search
+seed
+bus
+radar
+flee
+stage
+you
+erupt |  
+| bip_39_word_space_0 | ['mountain', 'search', 'seed', 'bus', 'radar', 'flee', 'stage', 'you', 'erupt', 'run', 'brass', 'advance'] |  
+| bip_39_word_space_1 | mountain |  
+| bip_39_word_space_10 | mountain search seed bus radar flee stage you erupt run |  
+| bip_39_word_space_11 | mountain search seed bus radar flee stage you erupt run brass |  
+| bip_39_word_space_12 | mountain search seed bus radar flee stage you erupt run brass advance |  
+| bip_39_word_space_2 | mountain search |  
+| bip_39_word_space_3 | mountain search seed |  
+| bip_39_word_space_4 | mountain search seed bus |  
+| bip_39_word_space_5 | mountain search seed bus radar |  
+| bip_39_word_space_6 | mountain search seed bus radar flee |  
+| bip_39_word_space_7 | mountain search seed bus radar flee stage |  
+| bip_39_word_space_8 | mountain search seed bus radar flee stage you |  
+| bip_39_word_space_9 | mountain search seed bus radar flee stage you erupt |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: angle seminar
+  * bip 39 word 3: angle seminar whip
+  * bip 39 word: angle seminar whip range canal illness joy main beef patrol dilemma aim
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | angle |  
+| bip_39_word_new_br10 | angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef<br>patrol |  
+| bip_39_word_new_br11 | angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef<br>patrol<br>dilemma |  
+| bip_39_word_new_br12 | angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef<br>patrol<br>dilemma<br>aim |  
+| bip_39_word_new_br2 | angle<br>seminar |  
+| bip_39_word_new_br3 | angle<br>seminar<br>whip |  
+| bip_39_word_new_br4 | angle<br>seminar<br>whip<br>range |  
+| bip_39_word_new_br5 | angle<br>seminar<br>whip<br>range<br>canal |  
+| bip_39_word_new_br6 | angle<br>seminar<br>whip<br>range<br>canal<br>illness |  
+| bip_39_word_new_br7 | angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy |  
+| bip_39_word_new_br8 | angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main |  
+| bip_39_word_new_br9 | angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef |  
+| bip_39_word_new_line1 | angle |  
+| bip_39_word_new_line10 | angle
+seminar
+whip
+range
+canal
+illness
+joy
+main
+beef
+patrol |  
+| bip_39_word_new_line11 | angle
+seminar
+whip
+range
+canal
+illness
+joy
+main
+beef
+patrol
+dilemma |  
+| bip_39_word_new_line12 | angle
+seminar
+whip
+range
+canal
+illness
+joy
+main
+beef
+patrol
+dilemma
+aim |  
+| bip_39_word_new_line2 | angle
+seminar |  
+| bip_39_word_new_line3 | angle
+seminar
+whip |  
+| bip_39_word_new_line4 | angle
+seminar
+whip
+range |  
+| bip_39_word_new_line5 | angle
+seminar
+whip
+range
+canal |  
+| bip_39_word_new_line6 | angle
+seminar
+whip
+range
+canal
+illness |  
+| bip_39_word_new_line7 | angle
+seminar
+whip
+range
+canal
+illness
+joy |  
+| bip_39_word_new_line8 | angle
+seminar
+whip
+range
+canal
+illness
+joy
+main |  
+| bip_39_word_new_line9 | angle
+seminar
+whip
+range
+canal
+illness
+joy
+main
+beef |  
+| bip_39_word_space_0 | ['angle', 'seminar', 'whip', 'range', 'canal', 'illness', 'joy', 'main', 'beef', 'patrol', 'dilemma', 'aim'] |  
+| bip_39_word_space_1 | angle |  
+| bip_39_word_space_10 | angle seminar whip range canal illness joy main beef patrol |  
+| bip_39_word_space_11 | angle seminar whip range canal illness joy main beef patrol dilemma |  
+| bip_39_word_space_12 | angle seminar whip range canal illness joy main beef patrol dilemma aim |  
+| bip_39_word_space_2 | angle seminar |  
+| bip_39_word_space_3 | angle seminar whip |  
+| bip_39_word_space_4 | angle seminar whip range |  
+| bip_39_word_space_5 | angle seminar whip range canal |  
+| bip_39_word_space_6 | angle seminar whip range canal illness |  
+| bip_39_word_space_7 | angle seminar whip range canal illness joy |  
+| bip_39_word_space_8 | angle seminar whip range canal illness joy main |  
+| bip_39_word_space_9 | angle seminar whip range canal illness joy main beef |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

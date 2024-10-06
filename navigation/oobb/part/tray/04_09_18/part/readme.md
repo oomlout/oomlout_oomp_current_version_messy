@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: antique office
+  * bip 39 word 3: antique office main
+  * bip 39 word: antique office main laundry dose save super young dune rookie leopard airport
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | antique |  
+| bip_39_word_new_br10 | antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune<br>rookie |  
+| bip_39_word_new_br11 | antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune<br>rookie<br>leopard |  
+| bip_39_word_new_br12 | antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune<br>rookie<br>leopard<br>airport |  
+| bip_39_word_new_br2 | antique<br>office |  
+| bip_39_word_new_br3 | antique<br>office<br>main |  
+| bip_39_word_new_br4 | antique<br>office<br>main<br>laundry |  
+| bip_39_word_new_br5 | antique<br>office<br>main<br>laundry<br>dose |  
+| bip_39_word_new_br6 | antique<br>office<br>main<br>laundry<br>dose<br>save |  
+| bip_39_word_new_br7 | antique<br>office<br>main<br>laundry<br>dose<br>save<br>super |  
+| bip_39_word_new_br8 | antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young |  
+| bip_39_word_new_br9 | antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune |  
+| bip_39_word_new_line1 | antique |  
+| bip_39_word_new_line10 | antique
+office
+main
+laundry
+dose
+save
+super
+young
+dune
+rookie |  
+| bip_39_word_new_line11 | antique
+office
+main
+laundry
+dose
+save
+super
+young
+dune
+rookie
+leopard |  
+| bip_39_word_new_line12 | antique
+office
+main
+laundry
+dose
+save
+super
+young
+dune
+rookie
+leopard
+airport |  
+| bip_39_word_new_line2 | antique
+office |  
+| bip_39_word_new_line3 | antique
+office
+main |  
+| bip_39_word_new_line4 | antique
+office
+main
+laundry |  
+| bip_39_word_new_line5 | antique
+office
+main
+laundry
+dose |  
+| bip_39_word_new_line6 | antique
+office
+main
+laundry
+dose
+save |  
+| bip_39_word_new_line7 | antique
+office
+main
+laundry
+dose
+save
+super |  
+| bip_39_word_new_line8 | antique
+office
+main
+laundry
+dose
+save
+super
+young |  
+| bip_39_word_new_line9 | antique
+office
+main
+laundry
+dose
+save
+super
+young
+dune |  
+| bip_39_word_space_0 | ['antique', 'office', 'main', 'laundry', 'dose', 'save', 'super', 'young', 'dune', 'rookie', 'leopard', 'airport'] |  
+| bip_39_word_space_1 | antique |  
+| bip_39_word_space_10 | antique office main laundry dose save super young dune rookie |  
+| bip_39_word_space_11 | antique office main laundry dose save super young dune rookie leopard |  
+| bip_39_word_space_12 | antique office main laundry dose save super young dune rookie leopard airport |  
+| bip_39_word_space_2 | antique office |  
+| bip_39_word_space_3 | antique office main |  
+| bip_39_word_space_4 | antique office main laundry |  
+| bip_39_word_space_5 | antique office main laundry dose |  
+| bip_39_word_space_6 | antique office main laundry dose save |  
+| bip_39_word_space_7 | antique office main laundry dose save super |  
+| bip_39_word_space_8 | antique office main laundry dose save super young |  
+| bip_39_word_space_9 | antique office main laundry dose save super young dune |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: amused shiver
+  * bip 39 word 3: amused shiver tape
+  * bip 39 word: amused shiver tape dream glare exchange cause bundle hand talk cannon addict
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | amused |  
+| bip_39_word_new_br10 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange<br>cause<br>bundle<br>hand<br>talk |  
+| bip_39_word_new_br11 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange<br>cause<br>bundle<br>hand<br>talk<br>cannon |  
+| bip_39_word_new_br12 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange<br>cause<br>bundle<br>hand<br>talk<br>cannon<br>addict |  
+| bip_39_word_new_br2 | amused<br>shiver |  
+| bip_39_word_new_br3 | amused<br>shiver<br>tape |  
+| bip_39_word_new_br4 | amused<br>shiver<br>tape<br>dream |  
+| bip_39_word_new_br5 | amused<br>shiver<br>tape<br>dream<br>glare |  
+| bip_39_word_new_br6 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange |  
+| bip_39_word_new_br7 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange<br>cause |  
+| bip_39_word_new_br8 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange<br>cause<br>bundle |  
+| bip_39_word_new_br9 | amused<br>shiver<br>tape<br>dream<br>glare<br>exchange<br>cause<br>bundle<br>hand |  
+| bip_39_word_new_line1 | amused |  
+| bip_39_word_new_line10 | amused
+shiver
+tape
+dream
+glare
+exchange
+cause
+bundle
+hand
+talk |  
+| bip_39_word_new_line11 | amused
+shiver
+tape
+dream
+glare
+exchange
+cause
+bundle
+hand
+talk
+cannon |  
+| bip_39_word_new_line12 | amused
+shiver
+tape
+dream
+glare
+exchange
+cause
+bundle
+hand
+talk
+cannon
+addict |  
+| bip_39_word_new_line2 | amused
+shiver |  
+| bip_39_word_new_line3 | amused
+shiver
+tape |  
+| bip_39_word_new_line4 | amused
+shiver
+tape
+dream |  
+| bip_39_word_new_line5 | amused
+shiver
+tape
+dream
+glare |  
+| bip_39_word_new_line6 | amused
+shiver
+tape
+dream
+glare
+exchange |  
+| bip_39_word_new_line7 | amused
+shiver
+tape
+dream
+glare
+exchange
+cause |  
+| bip_39_word_new_line8 | amused
+shiver
+tape
+dream
+glare
+exchange
+cause
+bundle |  
+| bip_39_word_new_line9 | amused
+shiver
+tape
+dream
+glare
+exchange
+cause
+bundle
+hand |  
+| bip_39_word_space_0 | ['amused', 'shiver', 'tape', 'dream', 'glare', 'exchange', 'cause', 'bundle', 'hand', 'talk', 'cannon', 'addict'] |  
+| bip_39_word_space_1 | amused |  
+| bip_39_word_space_10 | amused shiver tape dream glare exchange cause bundle hand talk |  
+| bip_39_word_space_11 | amused shiver tape dream glare exchange cause bundle hand talk cannon |  
+| bip_39_word_space_12 | amused shiver tape dream glare exchange cause bundle hand talk cannon addict |  
+| bip_39_word_space_2 | amused shiver |  
+| bip_39_word_space_3 | amused shiver tape |  
+| bip_39_word_space_4 | amused shiver tape dream |  
+| bip_39_word_space_5 | amused shiver tape dream glare |  
+| bip_39_word_space_6 | amused shiver tape dream glare exchange |  
+| bip_39_word_space_7 | amused shiver tape dream glare exchange cause |  
+| bip_39_word_space_8 | amused shiver tape dream glare exchange cause bundle |  
+| bip_39_word_space_9 | amused shiver tape dream glare exchange cause bundle hand |  
 | classification | oobb |  
 | classification_capital | Oobb |  
 | classification_first_letter | o |  

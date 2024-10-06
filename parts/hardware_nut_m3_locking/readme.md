@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: luggage rhythm
+  * bip 39 word 3: luggage rhythm verb
+  * bip 39 word: luggage rhythm verb cable whip indoor cat run sauce modify immune addict
 
 ### other_codes
 * short_code: n3mlo
@@ -29,6 +32,109 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_new_br1 | luggage |  
+| bip_39_word_new_br10 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor<br>cat<br>run<br>sauce<br>modify |  
+| bip_39_word_new_br11 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor<br>cat<br>run<br>sauce<br>modify<br>immune |  
+| bip_39_word_new_br12 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor<br>cat<br>run<br>sauce<br>modify<br>immune<br>addict |  
+| bip_39_word_new_br2 | luggage<br>rhythm |  
+| bip_39_word_new_br3 | luggage<br>rhythm<br>verb |  
+| bip_39_word_new_br4 | luggage<br>rhythm<br>verb<br>cable |  
+| bip_39_word_new_br5 | luggage<br>rhythm<br>verb<br>cable<br>whip |  
+| bip_39_word_new_br6 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor |  
+| bip_39_word_new_br7 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor<br>cat |  
+| bip_39_word_new_br8 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor<br>cat<br>run |  
+| bip_39_word_new_br9 | luggage<br>rhythm<br>verb<br>cable<br>whip<br>indoor<br>cat<br>run<br>sauce |  
+| bip_39_word_new_line1 | luggage |  
+| bip_39_word_new_line10 | luggage
+rhythm
+verb
+cable
+whip
+indoor
+cat
+run
+sauce
+modify |  
+| bip_39_word_new_line11 | luggage
+rhythm
+verb
+cable
+whip
+indoor
+cat
+run
+sauce
+modify
+immune |  
+| bip_39_word_new_line12 | luggage
+rhythm
+verb
+cable
+whip
+indoor
+cat
+run
+sauce
+modify
+immune
+addict |  
+| bip_39_word_new_line2 | luggage
+rhythm |  
+| bip_39_word_new_line3 | luggage
+rhythm
+verb |  
+| bip_39_word_new_line4 | luggage
+rhythm
+verb
+cable |  
+| bip_39_word_new_line5 | luggage
+rhythm
+verb
+cable
+whip |  
+| bip_39_word_new_line6 | luggage
+rhythm
+verb
+cable
+whip
+indoor |  
+| bip_39_word_new_line7 | luggage
+rhythm
+verb
+cable
+whip
+indoor
+cat |  
+| bip_39_word_new_line8 | luggage
+rhythm
+verb
+cable
+whip
+indoor
+cat
+run |  
+| bip_39_word_new_line9 | luggage
+rhythm
+verb
+cable
+whip
+indoor
+cat
+run
+sauce |  
+| bip_39_word_space_0 | ['luggage', 'rhythm', 'verb', 'cable', 'whip', 'indoor', 'cat', 'run', 'sauce', 'modify', 'immune', 'addict'] |  
+| bip_39_word_space_1 | luggage |  
+| bip_39_word_space_10 | luggage rhythm verb cable whip indoor cat run sauce modify |  
+| bip_39_word_space_11 | luggage rhythm verb cable whip indoor cat run sauce modify immune |  
+| bip_39_word_space_12 | luggage rhythm verb cable whip indoor cat run sauce modify immune addict |  
+| bip_39_word_space_2 | luggage rhythm |  
+| bip_39_word_space_3 | luggage rhythm verb |  
+| bip_39_word_space_4 | luggage rhythm verb cable |  
+| bip_39_word_space_5 | luggage rhythm verb cable whip |  
+| bip_39_word_space_6 | luggage rhythm verb cable whip indoor |  
+| bip_39_word_space_7 | luggage rhythm verb cable whip indoor cat |  
+| bip_39_word_space_8 | luggage rhythm verb cable whip indoor cat run |  
+| bip_39_word_space_9 | luggage rhythm verb cable whip indoor cat run sauce |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
